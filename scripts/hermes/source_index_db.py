@@ -368,6 +368,60 @@ def search(db_path: Path, query: str, limit: int) -> list[sqlite3.Row]:
     return rows
 
 
+def stats(db_path: Path, latest_limit: int) -> dict[str, Any]:
+    conn = open_db(db_path)
+    conn.row_factory = sqlite3.Row
+    try:
+        init_schema(conn)
+
+        total_sources = int(
+            conn.execute("SELECT COUNT(*) FROM sources").fetchone()[0])
+        total_segments = int(
+            conn.execute("SELECT COUNT(*) FROM segments").fetchone()[0])
+
+        type_rows = conn.execute(
+            """
+            SELECT source_type, COUNT(*) AS count
+            FROM sources
+            GROUP BY source_type
+            ORDER BY count DESC, source_type ASC
+            """
+        ).fetchall()
+        by_type = {str(row["source_type"]): int(row["count"])
+                   for row in type_rows}
+
+        latest_rows = conn.execute(
+            """
+            SELECT raw_path, source_type, title, updated_at
+            FROM sources
+            ORDER BY datetime(updated_at) DESC
+            LIMIT ?
+            """,
+            (latest_limit,),
+        ).fetchall()
+
+        latest: list[dict[str, str]] = []
+        for row in latest_rows:
+            latest.append(
+                {
+                    "raw_path": str(row["raw_path"]),
+                    "source_type": str(row["source_type"]),
+                    "title": str(row["title"] or ""),
+                    "updated_at": str(row["updated_at"]),
+                }
+            )
+
+    finally:
+        conn.close()
+
+    return {
+        "total_sources": total_sources,
+        "total_segments": total_segments,
+        "by_type": by_type,
+        "latest": latest,
+    }
+
+
 def cmd_init(args: argparse.Namespace) -> int:
     conn = open_db(Path(args.db))
     try:
@@ -424,6 +478,32 @@ def cmd_search(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_stats(args: argparse.Namespace) -> int:
+    data = stats(Path(args.db), args.latest)
+    print(f"DB: {args.db}")
+    print(f"Sources: {data['total_sources']}")
+    print(f"Segments: {data['total_segments']}")
+
+    print("By type:")
+    if data["by_type"]:
+        for source_type, count in data["by_type"].items():
+            print(f"  {source_type}: {count}")
+    else:
+        print("  none")
+
+    print(f"Latest files (max {args.latest}):")
+    if data["latest"]:
+        for item in data["latest"]:
+            line = f"  [{item['source_type']}] {item['raw_path']}"
+            if item["title"]:
+                line += f" | {item['title']}"
+            line += f" | updated: {item['updated_at']}"
+            print(line)
+    else:
+        print("  none")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Hermes source SQLite index")
     parser.set_defaults(func=None)
@@ -462,6 +542,17 @@ def build_parser() -> argparse.ArgumentParser:
     p_search.add_argument("--limit", type=int, default=20,
                           help="Max rows to return")
     p_search.set_defaults(func=cmd_search)
+
+    p_stats = sub.add_parser(
+        "stats", parents=[common], help="Show index health and summary stats"
+    )
+    p_stats.add_argument(
+        "--latest",
+        type=int,
+        default=10,
+        help="How many recently updated files to show",
+    )
+    p_stats.set_defaults(func=cmd_stats)
 
     return parser
 

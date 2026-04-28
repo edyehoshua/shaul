@@ -67,6 +67,12 @@ Search indexed content:
 npm run hermes:db:search -- "messiah"
 ```
 
+Show DB health summary (counts and latest indexed files):
+
+```bash
+npm run hermes:db:stats
+```
+
 When you run transcript ingestion, the output is automatically indexed unless `--no-index` is passed.
 
 ## Notes Authoring

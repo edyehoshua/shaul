@@ -22,6 +22,7 @@
     "hermes:db:init": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py init; else python3 scripts/hermes/source_index_db.py init; fi",
     "hermes:db:reindex": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py reindex \"$@\"; else python3 scripts/hermes/source_index_db.py reindex \"$@\"; fi' --",
     "hermes:db:search": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py search \"$@\"; else python3 scripts/hermes/source_index_db.py search \"$@\"; fi' --",
+    "hermes:db:stats": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py stats \"$@\"; else python3 scripts/hermes/source_index_db.py stats \"$@\"; fi' --",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
