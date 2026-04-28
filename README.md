@@ -42,8 +42,32 @@ python3 scripts/hermes/fetch_transcript.py "https://www.youtube.com/watch?v=VIDE
 Dependencies:
 
 ```bash
-python3 -m pip install -r requirements-hermes.txt
+python3 -m pip install -r requirements.txt
 ```
+
+## Hermes Source DB (Transcripts + Articles)
+
+Hermes includes a lightweight SQLite index for source files under `private/hermes/sources`.
+
+Initialize DB schema:
+
+```bash
+npm run hermes:db:init
+```
+
+Reindex all source files (`.md`, `.txt`, `.html`) from `private/hermes/sources`:
+
+```bash
+npm run hermes:db:reindex
+```
+
+Search indexed content:
+
+```bash
+npm run hermes:db:search -- "messiah"
+```
+
+When you run transcript ingestion, the output is automatically indexed unless `--no-index` is passed.
 
 ## Notes Authoring
 

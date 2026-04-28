@@ -13,7 +13,7 @@ import json
 import re
 import subprocess
 import sys
-from datetime import datetime
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -42,9 +42,12 @@ def load_transcript_api() -> None:
         errors_module = import_module("youtube_transcript_api._errors")
 
         YouTubeTranscriptApi = getattr(module, "YouTubeTranscriptApi", None)
-        NoTranscriptFound = getattr(errors_module, "NoTranscriptFound", Exception)
-        TranscriptsDisabled = getattr(errors_module, "TranscriptsDisabled", Exception)
-        VideoUnavailable = getattr(errors_module, "VideoUnavailable", Exception)
+        NoTranscriptFound = getattr(
+            errors_module, "NoTranscriptFound", Exception)
+        TranscriptsDisabled = getattr(
+            errors_module, "TranscriptsDisabled", Exception)
+        VideoUnavailable = getattr(
+            errors_module, "VideoUnavailable", Exception)
     except ImportError:
         # Keep defaults so caller can transparently use fallback logic.
         pass
@@ -77,8 +80,15 @@ def sec_to_ts(seconds: float) -> str:
 def normalize_lines(items: Iterable[dict]) -> list[str]:
     lines: list[str] = []
     for item in items:
-        start = float(item.get("start", 0.0))
-        text = str(item.get("text", "")).replace("\n", " ").strip()
+        if isinstance(item, dict):
+            start_raw = item.get("start", 0.0)
+            text_raw = item.get("text", "")
+        else:
+            start_raw = getattr(item, "start", 0.0)
+            text_raw = getattr(item, "text", "")
+
+        start = float(start_raw)
+        text = str(text_raw).replace("\n", " ").strip()
         if not text:
             continue
         lines.append(f"[{sec_to_ts(start)}] {text}")
@@ -92,6 +102,13 @@ def try_transcript_api(video_id: str, preferred_languages: list[str]) -> list[st
         return None
 
     try:
+        # Newer youtube-transcript-api versions expose instance methods `fetch` and `list`.
+        api = YouTubeTranscriptApi()
+        if hasattr(api, "fetch"):
+            fetched = api.fetch(video_id, languages=preferred_languages)
+            return normalize_lines(fetched)
+
+        # Backward-compatible path for older versions.
         transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
 
         transcript = None
@@ -113,7 +130,7 @@ def try_transcript_api(video_id: str, preferred_languages: list[str]) -> list[st
 
         fetched = transcript.fetch()
         return normalize_lines(fetched)
-    except (NoTranscriptFound, TranscriptsDisabled, VideoUnavailable):
+    except (NoTranscriptFound, TranscriptsDisabled, VideoUnavailable, TypeError):
         return None
 
 
@@ -189,7 +206,7 @@ def write_output(out_file: Path, lines: list[str], meta: dict) -> None:
         f"video_id: {meta.get('id', '')}",
         f"title: {json.dumps(meta.get('title', ''), ensure_ascii=False)}",
         f"channel: {json.dumps(meta.get('channel', ''), ensure_ascii=False)}",
-        f"fetched_at: {datetime.utcnow().isoformat()}Z",
+        f"fetched_at: {datetime.now(UTC).isoformat()}",
         "---",
         "",
     ]
@@ -198,7 +215,8 @@ def write_output(out_file: Path, lines: list[str], meta: dict) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Fetch transcript from a YouTube URL")
+    parser = argparse.ArgumentParser(
+        description="Fetch transcript from a YouTube URL")
     parser.add_argument("url", help="YouTube video URL")
     parser.add_argument(
         "--langs",
@@ -210,9 +228,20 @@ def main() -> int:
         default="private/hermes/sources",
         help="Output directory for transcript files",
     )
+    parser.add_argument(
+        "--db",
+        default="private/hermes/sources/index.sqlite3",
+        help="SQLite index DB path",
+    )
+    parser.add_argument(
+        "--no-index",
+        action="store_true",
+        help="Skip indexing the saved transcript into SQLite",
+    )
     args = parser.parse_args()
 
-    preferred = [lang.strip() for lang in args.langs.split(",") if lang.strip()]
+    preferred = [lang.strip()
+                 for lang in args.langs.split(",") if lang.strip()]
     out_dir = Path(args.outdir)
 
     try:
@@ -235,6 +264,20 @@ def main() -> int:
 
     out_file = out_dir / f"{video_id}.md"
     write_output(out_file, lines, meta)
+
+    if not args.no_index:
+        try:
+            from source_index_db import index_file
+
+            workspace_root = Path(__file__).resolve().parents[2]
+            _, segment_count = index_file(
+                Path(args.db), out_file.resolve(), workspace_root)
+            print(
+                f"Indexed transcript in DB: {args.db} (segments={segment_count})")
+        except Exception as err:
+            print(
+                f"Warning: transcript saved but DB indexing failed: {err}", file=sys.stderr)
+
     print(f"Saved transcript: {out_file}")
     return 0
 

@@ -11,12 +11,17 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-"scripts": {
+  "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "build": "node ./quartz/bootstrap-cli.mjs build",
     "vercel-build": "node ./quartz/bootstrap-cli.mjs build",
     "start": "node ./quartz/bootstrap-cli.mjs build --serve",
     "docs": "npx quartz build --serve -d docs",
+    "hermes:setup": "if [ -x .venv/bin/python ]; then .venv/bin/python -m pip install -r requirements.txt; else python3 -m pip install -r requirements.txt; fi",
+    "hermes:transcript": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/fetch_transcript.py \"$@\"; else python3 scripts/hermes/fetch_transcript.py \"$@\"; fi' --",
+    "hermes:db:init": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py init; else python3 scripts/hermes/source_index_db.py init; fi",
+    "hermes:db:reindex": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py reindex \"$@\"; else python3 scripts/hermes/source_index_db.py reindex \"$@\"; fi' --",
+    "hermes:db:search": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py search \"$@\"; else python3 scripts/hermes/source_index_db.py search \"$@\"; fi' --",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
