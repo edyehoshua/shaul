@@ -1,11 +1,21 @@
 ---
-title: bat kol
+title: "Bat Kol: Hijo, Siervo y Testimonio"
+description: "Comparación de la bat kol en tevilah y metamorfosis, y su relación con el Tanaj"
 date: 2025-11-24
 tags:
   - bat_kol
   - testimonio
   - "#Hijo"
   - ben
+references:
+  - "#matiyahu_3_16-17"
+  - "#markos_1_10-11"
+  - "#lukas_3_21-22"
+  - "#matiyahu_17_5"
+  - "#tehilim_2_7"
+  - "#ieshaiahu_42_1"
+sources:
+  - "https://www.youtube.com/live/jHd1MqzfcNo?si=n9xNtiGFJ-6sCFJH"
 translation: NBLA
 ---
 # versículos en la tevilah

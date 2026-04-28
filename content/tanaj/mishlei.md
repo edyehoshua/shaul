@@ -1,8 +1,15 @@
 ---
-title: mishlei
+title: "Mishlei: Glosario de Sabiduría"
+description: "Términos clave para lectura sapiencial y discernimiento espiritual"
 date: 2025-10-28
 tags:
   - mishlei
+references:
+  - "#mishlei_1"
+  - "#misheli_8_5"
+  - "#misheli_15_14"
+  - "#mishlei_18_15"
+sources: []
 translation:
 ---
 # Conceptos importantes

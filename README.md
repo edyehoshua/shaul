@@ -1,67 +1,64 @@
 # shaul
-**https://shaul.vercel.app**
 
-A digital project to compile explanations and commentaries on the scriptures, inspired by what the apostles did.
+https://shaul.vercel.app
 
-## About the Project
+A digital workspace for midrash-style scripture study: connecting Tanaj and Besorah around the Messiah with traceable notes.
 
-shaul is a digital platform that seeks to organize and share the understanding we receive from Elohim about the scriptures. The goal is to understand how the apostles thought about the scriptures, so that, if Elohim permits, we can make drash `דְּרַשׁ` in the same way they did, always keeping our eyes fixed on YESHUA HA'MASHIAJ.
+## V2 Direction
 
-## Main Objective
+This repository now uses a lighter, agent-ready workflow:
 
-The objective of the apostles, was to know and teach others who the Messiah is. This project seeks to follow that same purpose: to understand and share knowledge about the scriptures through the Ruaj, just as He who is the Word itself (Yeshua) did.
+- Quartz as static publishing engine
+- Obsidian-first authoring model
+- Hermes research workflow baseline
+- Transcript ingestion tooling (youtube-transcript-api + yt-dlp fallback)
+- No Dependabot (manual dependency review)
 
 ## Quick Start
-
-### Getting Started with shaul
-
-You can use shaul as a base for your own project.
 
 ```bash
 git clone https://github.com/edyhvh/shaul.git
 cd shaul
-```
-
-### Installation
-
-Install the project dependencies:
-
-```bash
 npm install
-```
-
-### Local Development
-
-Start the development server with hot-reload:
-
-```bash
 npm start
 ```
 
-The site will be available at `http://localhost:8080`
+Site runs at http://localhost:8080
 
-### Build
-
-Build the static site:
+## Build
 
 ```bash
 npm run build
 ```
 
-The generated files will be in the `public/` directory.
+Generated output is in public/.
 
+## Hermes Transcript Tool
 
+```bash
+python3 scripts/hermes/fetch_transcript.py "https://www.youtube.com/watch?v=VIDEO_ID"
+```
 
+Dependencies:
 
-## Acknowledgments 
+```bash
+python3 -m pip install -r requirements-hermes.txt
+```
 
-Created with [Quartz v4.5.2](https://quartz.jzhao.xyz/) © 2025
+## Notes Authoring
 
-- [Quartz Discord Community](https://discord.gg/cRFFHYye7t)
-- [Quartz GitHub Repository](https://github.com/jackyzha0/quartz)
+See:
 
-[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/shaul?style=for-the-badge)](https://vercel.com/new)
+- content/guide.md
+- content/templates/topic-v2.md
+- .github/instructions/shaul.instructions.md
+- .github/skill/obsidian/SKILL.md
 
----
+## Acknowledgments
 
-**SHALOM**
+Built with Quartz v4.5.2:
+
+- https://quartz.jzhao.xyz
+- https://github.com/jackyzha0/quartz
+
+SHALOM

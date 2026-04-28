@@ -1,11 +1,19 @@
 ---
-title: vaikra 21
+title: "Vaikra 21: Santidad del Kohen"
+description: "Observaciones sobre pureza, kodesh y servicio sacerdotal"
 date: 2025-12-02
 tags:
   - kadosh
   - kohen
   - kodesh
   - tameh
+references:
+  - "#vaikra_21_1"
+  - "#vaikra_21_3"
+  - "#vaikra_21_4"
+  - "#vaikra_21_6"
+  - "#vaikra_21_9"
+sources: []
 translation: "[BTX4]"
 ---
 # palabras

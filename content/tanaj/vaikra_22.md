@@ -1,9 +1,18 @@
 ---
-title: vaikra 22
+title: "Vaikra 22: Pureza y Santidad del Servicio"
+description: "Relación entre pureza sacerdotal, kodeshim y lectura apostólica"
 date: 2025-11-29
 tags:
   - vaikra
   - tamim
+references:
+  - "#vaikra_22_2"
+  - "#vaikra_22_3"
+  - "#vaikra_22_4"
+  - "#kefa_alef_2"
+  - "#ieshaiahu_28_16"
+  - "#tehilim_118_22"
+sources: []
 translation: "[TTH, NBLA]"
 ---
 
@@ -37,7 +46,7 @@ Habla de las impurezas, las cosas que salen del corazon del hombre, tambien lo c
 ### #kefa_alef_2_2
 recien nacidos: en la casa del sacerdote (yeshua), bebemos el kodesh para salvación; es decir tiene conexión con #vaikra_22_11, ya que ahora habitamos en la casa del sacerdote y no solo un sacerdote sino el mas grande, el sumo sacerdote, el kohen gadol, podemos comer de las santidades porque estar en su casa nos habilita, El mismo nos habilita.
 ### #kefa_alef_2_3
-- benignidad, en realidad dice tov, es decir degustamos lo bueno que es Yehovah, saborear lo bueno, su juicio de la conciencia
+- benignidad, en realidad dice tov, es decir degustamos lo bueno que es יהוה, saborear lo bueno, su juicio de la conciencia
 - cuando David actuo como loco dice que "cambió el sabor" #tehilim_34 
 	- cambiar **`שנה`**
 	- sabor, gusto, razón, juicio, cordura **`טעם`**
@@ -57,5 +66,5 @@ acá está citando ieshaiahu
 - la piedra [rosh pinah](https://thumbs.dreamstime.com/z/puerta-de-la-piedra-con-la-piedra-angular-33615540.jpg) era la que sostenia el angulo del arco en una puerta de una entrada a una casa, lo que se denomina actualmente el dintel 
 
 > [!note]
-> - #ani_yhvh **`אני יהוה`** (Yo soy YEHOVAH) es como una firma, un sello real
+> - #ani_yhvh **`אני יהוה`** (Yo soy יהוה) es como una firma, un sello real
 > - se trataba a los discipulos de indoctos porque no habian estudiado en las escuelas farisaicas
