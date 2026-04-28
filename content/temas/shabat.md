@@ -137,3 +137,9 @@ Nuevas son cada mañana (La mañana es nueva) -- Son nuevas cada mañana, grande
 
 ## #markos_16_1 #markos_16_2
 Pasado el día de reposo, María Magdalena, María, la _madre_ de Jacobo[a](https://www.biblegateway.com/passage/?search=marcos%2016%3A1-2&version=NBLA#fes-NBLA-24875a "See footnote a"), y Salomé, compraron especias aromáticas para ir a ungir el cuerpo de Jesús. 2 Muy de mañana, el primer día de la semana, llegaron* al sepulcro cuando el sol _ya_ había salido.
+
+## expresión "día y noche"
+Me llama la atención esta expresión ya que siempre que hay una revelación de parte de Elohim nos habla de día y noche כָּל־הַיּוֹם וְכָל־הַלַּיְלָה
+- Kol hayom vejol halaila
+
+### ieshaiahu_62_6
