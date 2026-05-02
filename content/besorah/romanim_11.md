@@ -1,10 +1,23 @@
 ---
-title: romanim 11
+title: "Romanim 11: Remanente, Elección y Olivo Natural"
+description: "Apuntes sobre el remanente, la elección y la imagen del olivo natural en Romanim 11"
 date: 2025-12-10
 tags:
   - romanim_11
   - emunah
   - shaul
+references:
+  - "#romanim_11_1"
+  - "#romanim_11_2"
+  - "#romanim_11_4"
+  - "#romanim_11_5"
+  - "#romanim_11_7"
+  - "#romanim_11_8"
+  - "#romanim_11_11"
+  - "#romanim_11_12"
+  - "#romanim_11_16"
+sources:
+  - "https://www.youtube.com/live/9IScJNK0fwo"
 translation: "[TTH]"
 ---
 la 10 tribus dispersas se refiere a la llenura de los goyim, Adonai toma por promesa, juramento no por sangre, lo hizo con Caleb, Rut, Rahab, no se habla de carne ni sangre sino mas bien engendrados por la voluntad de Adonai, es decir el deseo de su Ruaj Ha'Kodesh
