@@ -1,0 +1,1839 @@
+{
+  "book_info": {
+    "book_id": "hoshea",
+    "tth_name": "Hoshea",
+    "hebrew_name": "הושע",
+    "english_name": "Hosea",
+    "spanish_name": "Oseas",
+    "section": "neviim",
+    "total_chapters": 14,
+    "total_verses": 197
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Palabra de יהוה que fue a Hoshea, hijo de Beerí, en días de Uziyah, Iotam, Ajaz y Iejizkiyah, reyes de Iehudáh, y en días de Iarobam, hijo de Ioásh, rey de Israel.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "El principio de la palabra de יהוה en Hoshea. Y dijo יהוה a Hoshea: Ve, toma para ti una mujer de fornicaciones e hijos de fornicaciones, porque ciertamente¹ ha fornicado la tierra de detrás de יהוה.",
+          "footnotes": [
+            {
+              "marker": "¹",
+              "number": "1",
+              "word": "ciertamente",
+              "explanation": "Lit.: fornicando."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y fue y tomó a Gómer, hija de Dibláim; y ella concibió y dio a luz para él un hijo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y le dijo יהוה: Llama su nombre Izreel² porque todavía un poco, y visitaré las sangres de Izreel sobre la casa de Iehú, y haré cesar el reino de la casa de Israel.",
+          "footnotes": [
+            {
+              "marker": "²",
+              "number": "2",
+              "word": "Izreel",
+              "explanation": "El Poderoso siembra. Así también en vers. 11."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y sucederá <em>que</em> en aquel día romperé el arco de Israel en el valle de Izreel.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y ella concibió otra vez y dio a luz una hija. Y Él le dijo: Llama su nombre Lo Rujamah³, porque no volveré más a amar entrañablemente de la casa de Israel, pues ciertamente los quitaré⁴.",
+          "footnotes": [
+            {
+              "marker": "³",
+              "number": "3",
+              "word": "Rujamah",
+              "explanation": "No amada."
+            },
+            {
+              "marker": "⁴",
+              "number": "4",
+              "word": "quitaré",
+              "explanation": "Lit.: los llevaré."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Pero de la casa de Iehudáh tendré compasión y los salvaré por יהוה su Elohim; y no los salvaré con arco, con espada y con batalla, con caballos y con caballeros.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Y ella destetó a Lo Rujamah, y concibió y dio a luz un hijo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y Él dijo: Llama su nombre Lo Amí⁵, porque ustedes no son mi pueblo y Yo no seré de ustedes.",
+          "footnotes": [
+            {
+              "marker": "⁵",
+              "number": "5",
+              "word": "Amí",
+              "explanation": "No es mi pueblo."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Pero será el número de los hijos de Israel como la arena del mar, que no se medirá ni se contará; y será <em>que</em> en el lugar donde se les dice: “No son mi pueblo⁶”, se les dirá: “Hijos del El vivo⁷”.",
+          "footnotes": [
+            {
+              "marker": "⁶",
+              "number": "6",
+              "word": "pueblo",
+              "explanation": "Heb.: Lo amí atem."
+            },
+            {
+              "marker": "⁷",
+              "number": "7",
+              "word": "vivo",
+              "explanation": "Heb.: Benei El Jai."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Y serán reunidos los hijos de Iehudáh y los hijos de Israel juntos, y pondrán para ellos una cabeza, y subirán de la tierra, porque grande es el día de Izreel.",
+          "footnotes": [],
+          "hebrew_terms": [],
+          "subtitle": "Infidelidad del pueblo"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Digan a sus hermanos: Amí⁸, y a sus hermanas: Rujamah⁹.",
+          "footnotes": [
+            {
+              "marker": "⁸",
+              "number": "8",
+              "word": "Amí",
+              "explanation": "Pueblo mío."
+            },
+            {
+              "marker": "⁹",
+              "number": "9",
+              "word": "Rujamah",
+              "explanation": "Amada."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Luchen con su madre, luchen, porque ella no es mi mujer, y yo no soy su hombre; y quite ella sus fornicaciones de su rostroy sus adulterios de entre sus pechos;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "no sea que la desvista Yo desnuda y la coloque¹⁰ como el día de su nacimiento, y la ponga como el desierto, la sitúe como tierra de sequedady la haga morir con sed.",
+          "footnotes": [
+            {
+              "marker": "¹⁰",
+              "number": "10",
+              "word": "coloque",
+              "explanation": "O, exponga."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y de sus hijos no tendré compasión, porque ellos son hijos de fornicaciones,",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "porque fornicó¹¹ su madre; avergonzada¹² fue la que los concibió, porque dijo: “Iré tras mis amantes, que me dan mi pan y mi agua, mi lana y mi lino, mi aceite y mi bebida”.",
+          "footnotes": [
+            {
+              "marker": "¹¹",
+              "number": "11",
+              "word": "fornicó",
+              "explanation": "O, se prostituyó."
+            },
+            {
+              "marker": "¹²",
+              "number": "12",
+              "word": "avergonzada",
+              "explanation": "Otra lectura posible es: seca."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Por eso, heme aquí, cercaré su¹³ camino con espinos y tapiaré su muro, y su senda no será hallada.",
+          "footnotes": [
+            {
+              "marker": "¹³",
+              "number": "13",
+              "word": "su",
+              "explanation": "Así en la versión gr., en el T.M: tu."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Y ella perseguirá a sus amantes, pero no los alcanzará; y los buscará y no hallará.Y dirá: “Iré y volveré a mi primer esposo, porque bien me iba a mí entonces que ahora”.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Y ella no sabía que Yo le daba el grano y el mosto y el aceite fresco, y la plata le multiplicaba a ella, y el oro, que hicieron para Baal.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Por eso, volveré y tomaré mi grano en su tiempo y mi mosto en su hora señalada; y arrebataré mi lana y mi lino dado para cubrir su desnudez.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y ahora descubriré su desvergüenza a ojos de sus amantes, y hombre no la rescatará de mi mano.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Y haré cesar toda su alegría, su fiesta, su luna nueva y su Shabat, y todos sus tiempos señalados.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Y desolaré su vid y su higuera, que ella dijo: “Son para mí la pagaque me han dado mis amantes”.Y las pondré para bosque, y las comerá el animal del campo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Y visitaré sobre ella los días de los baales, que ella quemó incienso para ellosy se adornó con su anillo de nariz y su joyería, y fue detrás de sus amantes y a Mí me olvidó –declaración de יהוה. Elohim se desposará con su pueblo",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Por lo tanto, heme aquí, la persuadiré y la llevaré al desierto, y hablaré a¹⁴ su corazón.",
+          "footnotes": [
+            {
+              "marker": "¹⁴",
+              "number": "14",
+              "word": "a",
+              "explanation": "Lit.: sobre."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Y le daré sus viñas desde allí, y el valle de Ajor¹⁵ por puerta de esperanza.Y responderá cantando allá como en los días de su juventud, y como en el día de su subida de la tierra de Mitzráim.",
+          "footnotes": [
+            {
+              "marker": "¹⁵",
+              "number": "15",
+              "word": "Ajor",
+              "explanation": "Valle de perturbación."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "Y será en ese día –declaración de יהוה– que me llamarás Ishí¹⁶, y no me llamarás a Mí más Baalí¹⁷.",
+          "footnotes": [
+            {
+              "marker": "¹⁶",
+              "number": "16",
+              "word": "Ishí",
+              "explanation": "Mi esposo. Lit.: mi hombre."
+            },
+            {
+              "marker": "¹⁷",
+              "number": "17",
+              "word": "Baalí",
+              "explanation": "Mi señor."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 17,
+          "tth": "Y apartaré los nombres de los baales¹⁸ de su boca,",
+          "footnotes": [
+            {
+              "marker": "¹⁸",
+              "number": "18",
+              "word": "baales",
+              "explanation": "Señores. Heb.: Baalim."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 18,
+          "tth": "Y haré¹⁹ para ellos un pacto en aquel díacon el animal del campo, y con el ave de los cielosy con el reptil del suelo; y el arco, la espada y la guerra destrozaré de la tierra, y haré que ellos se acuesten en seguridad.",
+          "footnotes": [
+            {
+              "marker": "¹⁹",
+              "number": "19",
+              "word": "haré",
+              "explanation": "Lit.: cortaré."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 19,
+          "tth": "Y te desposaré conmigo para siempre, y te desposaré conmigo en justicia y en juicio, en bondad²⁰ y amor entrañable²¹;",
+          "footnotes": [
+            {
+              "marker": "²⁰",
+              "number": "20",
+              "word": "bondad",
+              "explanation": "Heb.: Jésed."
+            },
+            {
+              "marker": "²¹",
+              "number": "21",
+              "word": "entrañable",
+              "explanation": "Heb.: Rajamim."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 20,
+          "tth": "y te desposaré conmigo en fidelidad²², y conocerás a יהוה.",
+          "footnotes": [
+            {
+              "marker": "²²",
+              "number": "22",
+              "word": "fidelidad",
+              "explanation": "O, crianza. Heb.: Emunah."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 21,
+          "tth": "Y será que en aquel día Yo responderé –declaración de יהוה–, responderé a los cielos, y ellos responderán a la tierra,",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 22,
+          "tth": "y la tierra responderá al grano, al mosto y al aceite fresco, y ellos responderán a Izreel²³.",
+          "footnotes": [
+            {
+              "marker": "²³",
+              "number": "23",
+              "word": "Izreel",
+              "explanation": "El Poderoso siembra."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 23,
+          "tth": "Y la sembraré para Mí en la tierra, y amaré a la no amada²⁴, y diré a lo que no era mi pueblo²⁵: “Pueblo mío eres tú²⁶”, y él dirá: “¡Elohim mío! ” Matrimonio simbólico de Hoshea",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Y me dijo יהוה: “Otra vez ve, ama a una mujer amada de un compañero y adúltera²⁷ (), como el amor de יהוה a los hijos de Israel, y ellos miran a otros dioses y aman las tortas de uvas”.",
+          "footnotes": [
+            {
+              "marker": "²⁷",
+              "number": "27",
+              "word": "adúltera",
+              "explanation": "Así en el T.M., en la versión gr.: mujer amante de lo malo y adúltera; véase similitud gramatical entre compañero, heb.: ‘rea’, y malo, heb.: ‘ra´’."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y la compré para mí en quince de plata, un jómer de cebada y un létej de cebada.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y le dije a ella: Muchos días habitarás para mí. No fornicarás, y no serás de otro hombre, y yo también seré hacia ti.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Porque muchos días habitarán los hijos de Israel sin rey y sin príncipe, sin sacrificio y sin pilar, sin efod y sin terafim²⁸.",
+          "footnotes": [
+            {
+              "marker": "²⁸",
+              "number": "28",
+              "word": "terafim",
+              "explanation": "Ídolos domésticos."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Después volverán los hijos de Israel y buscarán a יהוה su Elohim y a David su rey; y temerán a²⁹ יהוה y a su bondad en la posteridad de los días.",
+          "footnotes": [
+            {
+              "marker": "²⁹",
+              "number": "29",
+              "word": "a",
+              "explanation": "Otra lectura posible es: y acudirán temblando hacia."
+            }
+          ],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Escuchen la palabra de יהוה, hijos de Israel, porque lucha tiene יהוה con los habitantes de la tierra, porque no hay verdad, y no hay bondad, y no hay conocimiento de Elohim en la tierra;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "maldición, mentira, asesinato, robo y adulterio irrumpen, y sangres con sangres se tocan.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Por eso se lamentará la tierra, y se debilitará³⁰ todo habitante en ellacon el animal del campo y con el ave del cielo; y también los peces del mar serán recogidos.",
+          "footnotes": [
+            {
+              "marker": "³⁰",
+              "number": "30",
+              "word": "debilitará",
+              "explanation": "O, se marchitará."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Sin embargo, hombre no contenderá, ni reprenderá ningún hombre, ¡y tu pueblo es como los que contienden con el sacerdote!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y tropezarás hoy, y tropezará además el profeta contigo de noche; y haré cesar a tu madre.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Pereció mi pueblo por falta del conocimiento.Porque tú has desechado el conocimiento, te desecharé Yo de ser sacerdote para Mí; y has olvidado la Torah de tu Elohim, también Yo olvidaré a tus hijos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Conforme al multiplicarse de ellos, así han pecado para conmigo; su gloria en vergüenza cambiaré.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "El pecado de mi pueblo comerán, y hacia su iniquidad llevarán su ser.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y será como es el pueblo, así el sacerdote, y visitaré sobre él sus caminos, y sus acciones le devolveré.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y comerán y no se saciarán, han fornicado, pero no se aumentarán³¹, porque a יהוה han dejado de guardar.",
+          "footnotes": [
+            {
+              "marker": "³¹",
+              "number": "31",
+              "word": "aumentarán",
+              "explanation": "Lit.: no se abrirán paso."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Fornicación, vino y mosto se apodera del corazón.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Mi pueblo a su madera consulta, y su vara le da a conocer; porque ánimo de fornicaciones lo ha extraviado, y fornicaron de debajo de su Elohim.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Sobre las cabezas de los montes sacrifican y sobre las colinas inciensan, debajo del roble, el álamo³² y el terebinto, porque es buena su sombra.Por eso, fornicarán las hijas de ustedes, y sus novias³³ adulterarán.",
+          "footnotes": [
+            {
+              "marker": "³²",
+              "number": "32",
+              "word": "álamo",
+              "explanation": "O, abedul."
+            },
+            {
+              "marker": "³³",
+              "number": "33",
+              "word": "novias",
+              "explanation": "O, nueras. Así también en vers. 14."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "No visitaré sobre sus hijas cuando forniquen, ni sobre sus novias cuando adulteren, porque ellos con las rameras se apartan y con las prostitutas paganas sacrifican; y el pueblo no discernirá, será derribado.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Si fornicas³⁴ tú, Israel, no será culpable Iehudáh; y no entrarán a Gilgal, ni subirán a Bet Avén, ni jurarán: ¡Vive יהוה!",
+          "footnotes": [
+            {
+              "marker": "³⁴",
+              "number": "34",
+              "word": "fornicas",
+              "explanation": "O, te prostituyes."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "Porque como vaca terca, terco fue Israel; ahora los pastoreará יהוה como a cordero en la amplitud.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 17,
+          "tth": "Unido a ídolos, Efráim, déjalo³⁵.",
+          "footnotes": [
+            {
+              "marker": "³⁵",
+              "number": "35",
+              "word": "déjalo",
+              "explanation": "La versión gr. dice: se puso tropiezo."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 18,
+          "tth": "Se acabó³⁶ su licor, fornicaron, han fornicado; amaron mucho la vergüenza sus escudos.",
+          "footnotes": [
+            {
+              "marker": "³⁶",
+              "number": "36",
+              "word": "acabó",
+              "explanation": "Lit.: Se apartó."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 19,
+          "tth": "La ha oprimido el viento en sus alas, y se avergonzarán de sus sacrificios. Castigo de la rebeldía de Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Escuchen esto los sacerdotes, y presten atención, casa de Israel, y casa del rey, den oídos, porque para ustedes es el juicio; porque trampa han sido ustedes para Mitzpah, y red extendida sobre Tabor.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y la matanza³⁷ los desviadores hicieron profunda; y Yo soy disciplina para todos ellos.",
+          "footnotes": [
+            {
+              "marker": "³⁷",
+              "number": "37",
+              "word": "matanza",
+              "explanation": "Otra lectura posible es: corrupción."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Yo conozco a Efráim, e Israel no está escondido de Mí; pues ahora has provocado fornicación, Efráim, se ha impurificado Israel.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "No darán sus obras para volver a su Elohim, porque ánimo de fornicaciones hay en medio de ellos; y a יהוה no conocen.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y fue humillado³⁸ el orgullo de Israel en su cara, e Israel y Efráim tropezarán en su iniquidad; ha tropezado también Iehudáh con ellos.",
+          "footnotes": [
+            {
+              "marker": "³⁸",
+              "number": "38",
+              "word": "humillado",
+              "explanation": "Otra lectura posible es: Y respondió."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Con su rebaño y su ganado irán a buscar a יהוה, pero no lo encontrarán; se ha retirado de ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "A יהוה han traicionado, porque hijos extraños han engendrado.Ahora los consumirá una luna nueva con sus porciones.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "¡Soplen el shofar³⁹ en Guibeáh, la trompeta en Ramáh! Den gritos en Bet Avén: ¡Detrás de ti, Biniamín!",
+          "footnotes": [
+            {
+              "marker": "³⁹",
+              "number": "39",
+              "word": "shofar",
+              "explanation": "Cuerno de carnero."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Efráim por devastación será en el día de la reprensión; en las tribus de Israel hago saber lo cierto.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Han sido los príncipes de Iehudáh como los que quitan frontera; sobre ellos derramaré como las aguas mi desborde.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Oprimido está Efráim, machacado en juicio, porque dispuesto fue tras mandato de hombre⁴⁰.",
+          "footnotes": [
+            {
+              "marker": "⁴⁰",
+              "number": "40",
+              "word": "hombre",
+              "explanation": "Algunas versiones antiguas dicen: tras lo vano."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Y Yo soy como polilla para Efráim, y como podredumbre para la casa de Iehudáh.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Y vio Efráim su enfermedad y Iehudáh su herida; y fue Efráim a Ashur y envió mensaje al rey Iareb⁴¹, pero él no los podrá sanar a ustedes, ni curará la herida de ustedes.",
+          "footnotes": [
+            {
+              "marker": "⁴¹",
+              "number": "41",
+              "word": "Iareb",
+              "explanation": "O, al rey contencioso."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Porque Yo soy como el león para Efráim, y como el leoncillo para la casa de Iehudáh.Yo, Yo desgarraré y me iré, tomaré, y no habrá salvador.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Iré y volveré a mi lugar hasta que vean su culpay busquen mi rostro; en la estrechez de ellos madrugarán para buscarme⁴². Respuesta del pueblo",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Vengan, y volvamos a יהוה.Porque Él ha desgarrado, y nos sanará; ha golpeado, y nos vendará.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Nos dará vida después de dos días, en el día tercero nos levantaráy viviremos delante de Él.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y conozcamos, persigamos, para conocer a יהוה.Como el amanecer es firme su salida, y Él vendrá como la lluvia a nosotros, como lluvia tardía y temprana a la tierra.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "¿Qué haré a ti, Efráim? ¿Qué haré a ti, Iehudáh? Y la bondad de ustedes es como la nube de la mañana, y como el rocío, temprano se va.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Por eso los corté con⁴³ los profetas, los maté con los dichos de mi boca; y tus juicios⁴⁴ son luz que sale.",
+          "footnotes": [
+            {
+              "marker": "⁴³",
+              "number": "43",
+              "word": "con",
+              "explanation": "O, por."
+            },
+            {
+              "marker": "⁴⁴",
+              "number": "44",
+              "word": "juicios",
+              "explanation": "Así en el T.M., en la versión gr.: mis juicios."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Porque bondad deseo, y no sacrificio, y conocimiento de Elohim más que ofrendas ascendidas.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Pero ellos, como Adam⁴⁵, pasaron por encima del pacto, allí me han traicionado.",
+          "footnotes": [
+            {
+              "marker": "⁴⁵",
+              "number": "45",
+              "word": "Adam",
+              "explanation": "O, como hombre."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Guilad, ciudad de hacedores de vacuidad. con huellas de sangre.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y como a la espera de un hombre están las bandas asaltantes, la compañía de sacerdotes asesina camino a Shejem, porque plan malvado han hecho.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "En la casa de Israel he visto horror, allí está la fornicación de Efráim, se ha impurificado Israel.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "También, Iehudáh, ha puesto una cosecha para ti, cuando haga volver el cautiverio de mi pueblo. Iniquidad y rebeldía de Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Conforme Yo sanaba a Israel, fue descubierta la iniquidad de Efráimy las maldades de Shomrón, porque hacen falsedad.Y un ladrón entra, una banda despoja afuera.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y no dirán a su corazón que toda su maldad he recordado.Ahora los rodean sus acciones, frente a mi rostro están.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Con su maldad alegran un rey, y con sus mentiras, príncipes.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Todos ellos son adúlteros, son como horno encendido por un hornero, que cesará de despertar desde que amasa la masa hasta su leudado.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "El día de nuestro rey, se enfermaron los príncipes por el calor del vino⁴⁶; extendió su mano a los burladores.",
+          "footnotes": [
+            {
+              "marker": "⁴⁶",
+              "number": "46",
+              "word": "vino",
+              "explanation": "Otra lectura posible es: comenzaron los príncipes a enfurecerse por el vino."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Porque acercaron como el horno su corazón en su emboscada; toda la noche duerme su hornero⁴⁷, en la mañana él arde como fuego llameante.",
+          "footnotes": [
+            {
+              "marker": "⁴⁷",
+              "number": "47",
+              "word": "hornero",
+              "explanation": "Algunas versiones dicen: su ira; en la versión gr.: Efráim."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Todos ellos están calientes como el horno, y han consumido a sus jueces; todos sus reyes han caído.No hay en ellos quien clame a Mí.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Efráim, con los pueblos él se asimiló; Efráim ha sido una torta sin voltear.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Han consumido extranjeros su fuerza, y él no supo; también canas se han esparcido en él, y él no supo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y fue humillado⁴⁸ el orgullo de Israel en su cara, pero no han regresado a יהוה su Elohim, ni lo han buscado en todo esto.",
+          "footnotes": [
+            {
+              "marker": "⁴⁸",
+              "number": "48",
+              "word": "humillado",
+              "explanation": "Otra lectura posible es: Y respondió."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Y será Efráim como paloma persuadida, sin corazón; a Mitzráim llaman, a Ashur van.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Cuando vayan, extenderé sobre ellos mi red, como ave del cielo los haré bajar; los disciplinaré conforme a lo oído en su congregación.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "¡Oy de ellos porque han huido⁴⁹ de Mí! Devastación es para ellos, porque han transgredido contra Mí; y Yo los rescataré, pero ellos hablaron acerca de Mí mentiras.",
+          "footnotes": [
+            {
+              "marker": "⁴⁹",
+              "number": "49",
+              "word": "huido",
+              "explanation": "O, porque vagaron."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Y no clamaron a Mí en su corazón cuando aullaron sobre sus camas; por el grano y el mosto se hacen sajaduras⁵⁰, se desviaron de Mí.",
+          "footnotes": [
+            {
+              "marker": "⁵⁰",
+              "number": "50",
+              "word": "sajaduras",
+              "explanation": "Así en la versión gr., en el T.M.: se reúnen; probablemente un error de texto."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Y Yo discipliné y fortalecí sus brazos, pero hacia Mí piensan mal.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "Se volvieron⁵¹, mas no a lo alto, fueron como arco engañoso.Caerán por la espada sus príncipes debido a la ira de su lengua; esto será su escarnio en la tierra de Mitzráim. La idolatría de Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "A tu paladar lleva el shofar⁵²; como águila sobre la casa de יהוה, porque han pasado por encima de mi pacto, y sobre mi Torah han pisado.",
+          "footnotes": [
+            {
+              "marker": "⁵²",
+              "number": "52",
+              "word": "shofar",
+              "explanation": "Cuerno de carnero."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "A Mí clamarán: ¡Elohim mío, te hemos conocido los de Israel!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Ha rechazado Israel el bien, enemigo lo perseguirá.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Ellos pusieron reyes, pero no por Mí; hicieron príncipes, pero no supe Yo.De su plata y su oro hicieron para sí ídolos, a fin de ser cortados.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Él rechazó tu becerro, Shomrón⁵³; ardió mi nariz contra ellos.¿Hasta cuándo no podrán alcanzar inocencia?",
+          "footnotes": [
+            {
+              "marker": "⁵³",
+              "number": "53",
+              "word": "Shomrón",
+              "explanation": "Otra lectura posible es: ¡Rechaza tu becerro, Shomrón!"
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Porque de Israel es, y él, un artífice lo hizo; y no es Elohim él, pues fragmentos será el becerro de Shomrón.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Porque viento sembrarán, y tempestad de ella cosecharán.El trigo no tiene brote, no hará harina; quizás hará, pero los extraños se la tragarán.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Fue tragado Israel; ahora están en las naciones, como recipiente que no hay placer en él;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "porque ellos han subido a Ashur, asno montés para sí solo.Efráim contrató amores.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Aunque repartan presentes⁵⁴ en las naciones, ahora los reuniré, y les harán soltar dentro de poco de la carga del rey de príncipes.",
+          "footnotes": [
+            {
+              "marker": "⁵⁴",
+              "number": "54",
+              "word": "presentes",
+              "explanation": "O, contraten."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Porque aumentó Efráim altares para pecar, altares para pecar serán para él.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "He escrito para él las miríadas de mi Torah, pero como cosa extraña fueron consideradas.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "En los sacrificios de mis ofrendas sacrificaron carne, y comieron, יהוה no se complació en ellas.Ahora recordará su iniquidad y visitará sus pecados, ellos a Mitzráim volverán.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Y olvidó Israel a su Hacedor y edificó palacios, y Iehudáh multiplicó ciudades fortificadas; pero enviaré fuego en sus ciudades y consumirá sus palacios. Castigo de la infidelidad de Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "No te alegrarás, Israel, hasta dar vueltas de júbilo como los pueblos, porque has fornicado⁵⁵ de sobre tu Elohim; has amado el pago de ramera sobre todas las eras de grano.",
+          "footnotes": [
+            {
+              "marker": "⁵⁵",
+              "number": "55",
+              "word": "fornicado",
+              "explanation": "O, te prostituiste."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "La era y el lagar no los apacentarán, y el mosto la engañará.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "No habitarán en la tierra de יהוה, y volverá Efráim a Mitzráim, y en Ashur cosa impura comerán.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "No derramarán a יהוה vino, y no le serán agradables sus sacrificios.Como pan de angustias será para ellos, todos los que lo coman serán impuros; porque su pan será para su propia vida, no entrará en la casa de יהוה.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "¿Qué harán para el día del tiempo señalado y para el día de la fiesta de יהוה?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Porque, he aquí, se irán debido a la devastación; Mitzráim los recogerá, Mof los enterrará.Lo precioso de su plata la ortiga⁵⁶ poseerá; espinos habrá en sus tiendas.",
+          "footnotes": [
+            {
+              "marker": "⁵⁶",
+              "number": "56",
+              "word": "ortiga",
+              "explanation": "O, la hierba espinosa."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Han venido los días de la visitación⁵⁷, han venido los días de la retribución; ¡sabrán los de Israel! Un tonto es el profeta, un loco el hombre de espíritu⁵⁸, por la grandeza de tu iniquidad y la mucha enemistad.",
+          "footnotes": [
+            {
+              "marker": "⁵⁷",
+              "number": "57",
+              "word": "visitación",
+              "explanation": "O, supervisión."
+            },
+            {
+              "marker": "⁵⁸",
+              "number": "58",
+              "word": "espíritu",
+              "explanation": "Heb.: Rúaj."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Vigía era Efráim con mi Elohim, un profeta; trampa de cazador hay en todos sus caminos⁵⁹, enemistad hay en la casa de su Elohim.",
+          "footnotes": [
+            {
+              "marker": "⁵⁹",
+              "number": "59",
+              "word": "caminos",
+              "explanation": "Otra lectura posible es: un profeta es trampa de cazador en todos sus caminos."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Se ahondaron, se corrompieron, como en los días de Guibeáh; Él recordará su iniquidad, visitará sus pecados.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Como uvas en el desierto hallé a Israel; como primicia en la higuera en su principio vi a los padres de ustedes.Ellos fueron a Baal Peor y se consagraron a la vergüenza, y fueron detestables como el amor de ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Efráim, como ave volará el honor de ellos, de nacimiento, de vientre y de concepción.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Porque, si hacen crecer a sus hijos, se los privaré de entre el hombre; pues además, ¡ay de ellos cuando de ellos me aparte!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Efráim, como vi a Tzor, está plantado en hermoso pastizal; pero Efráim hará salir al asesino sus hijos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Dales, יהוה, ¿qué les darás? Dales matriz que aborte y pechos secos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Toda su maldad está en Gilgal, porque allí los aborrecí.Por la maldad de sus acciones de mi casa los expulsaré, no añadiré amor a ellos; todos sus príncipes son rebeldes.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "Ha sido golpeado Efráim, la raíz de ellos se secó, fruto no harán.Aunque engendren, mataré lo más deseable de su vientre.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 17,
+          "tth": "Los despreciará mi Elohim, porque no lo han escuchado, y serán errantes en las naciones. La vid de Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Vid frondosa⁶⁰ es Israel, fruto pondrá para sí mismo; conforme a la multitud de su fruto ha aumentado a los altares; según lo bueno de su tierra, han hecho buenos sus pilares.",
+          "footnotes": [
+            {
+              "marker": "⁶⁰",
+              "number": "60",
+              "word": "frondosa",
+              "explanation": "Otra posible traducción es: vacía."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Dividió⁶¹ su corazón, ahora serán culpables; Él hará caer⁶² a sus altares, devastará sus pilares.",
+          "footnotes": [
+            {
+              "marker": "⁶¹",
+              "number": "61",
+              "word": "Dividió",
+              "explanation": "Otra posible traducción es: Hizo resbaladizo."
+            },
+            {
+              "marker": "⁶²",
+              "number": "62",
+              "word": "caer",
+              "explanation": "Lit.: le romperá el cuello."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Porque ahora dirán: “No hay rey para nosotros, porque no hemos temido a יהוה. Y el rey, ¿qué hará para nosotros?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Han hablado palabras, jurando falsedad, cortando un pacto; y brotará como hierba venenosa el juicio sobre los surcos del campo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Por el becerro⁶³ de Bet Avén temerán⁶⁴ los habitantes de Shomrón; porque se lamentará por él su pueblo, y sus sacerdotes idólatras por él temblarán, por su gloria que ha partido de él⁶⁵.",
+          "footnotes": [
+            {
+              "marker": "⁶³",
+              "number": "63",
+              "word": "becerro",
+              "explanation": "Así en la versión gr., en el T.M.: las novillas."
+            },
+            {
+              "marker": "⁶⁴",
+              "number": "64",
+              "word": "temerán",
+              "explanation": "O, habitarán."
+            },
+            {
+              "marker": "⁶⁵",
+              "number": "65",
+              "word": "él",
+              "explanation": "O, por él se regocijaban, por su gloria que partió de él."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "También a él a Ashur se le conducirá como ofrenda al rey Iareb⁶⁶; vergüenza Efráim tomará, y se avergonzará Israel de su consejo.",
+          "footnotes": [
+            {
+              "marker": "⁶⁶",
+              "number": "66",
+              "word": "Iareb",
+              "explanation": "O, al rey contencioso."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Fue destruida Shomrón, su rey, como rama rota⁶⁷ sobre la faz de las aguas.",
+          "footnotes": [
+            {
+              "marker": "⁶⁷",
+              "number": "67",
+              "word": "rota",
+              "explanation": "Otra posible traducción es: como espuma."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Y serán destruidos los lugares altos de Avén, pecado de Israel; espino y cardo subirá sobre sus altares.Y dirán a los montes: ¡Cúbrannos!, y a las colinas: ¡Caigan sobre nosotros!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Desde los días de Guibeáh pecaste, Israel; allí se quedaron parados.¿No los alcanzará en Guibeáh la batalla contra los hijos de injusticia?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "En mi deseo, los disciplinaré; serán reunidos contra ellos puebloscuando sean disciplinados por las dos iniquidades de ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Y Efráim, es una novilla enseñada amante del trillar, y Yo he pasado sobre lo bueno de su cuello; haré llevar yugo a Efráim, arará Iehudáh, rastrillará para sí Yaakov.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Siembren para ustedes para justicia, cosechen de acuerdo a la bondad; aren para ustedes el campo preparado, y es tiempo de buscar a יהוהhasta que venga y enseñe⁶⁸ justicia a ustedes.",
+          "footnotes": [
+            {
+              "marker": "⁶⁸",
+              "number": "68",
+              "word": "enseñe",
+              "explanation": "O, haga llover."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Ustedes han arado maldad, injusticia han cosechado; comerán fruto de mentira, porque confiaste en tu camino, en la multitud de tus fuertes;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "y se levantará tumulto en tu pueblo, y todas tus fortalezas serán destruidas⁶⁹, como la devastación de Shalmán en Bet Arbel en el día de la batalla: la madre sobre los hijos fue destrozada.",
+          "footnotes": [
+            {
+              "marker": "⁶⁹",
+              "number": "69",
+              "word": "destruidas",
+              "explanation": "O, saqueadas."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Así se hará a ustedes en Betel⁷⁰ debido a lo malo de su maldad.En el amanecer, ciertamente será destruido el rey de Israel. La compasión de Elohim por Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Porque siervo era Israel, y Yo lo amé, y de Mitzráim llamé a mi hijo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Conforme Yo los llamaba⁷¹, así se iban de mi faz⁷²; ellos a los baales⁷³ sacrificaron y a las estatuillas incensaron.",
+          "footnotes": [
+            {
+              "marker": "⁷¹",
+              "number": "71",
+              "word": "llamaba",
+              "explanation": "Así en la versión gr., en el T.M.: ellos los llamaban."
+            },
+            {
+              "marker": "⁷²",
+              "number": "72",
+              "word": "faz",
+              "explanation": "En heb. dice: de la faz de ellos."
+            },
+            {
+              "marker": "⁷³",
+              "number": "73",
+              "word": "baales",
+              "explanation": "Señores. Heb.: Baalim."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y Yo enseñé a andar a Efráim, lo tomé sobre mi brazo⁷⁴; y no sabían que Yo los sanaba.",
+          "footnotes": [
+            {
+              "marker": "⁷⁴",
+              "number": "74",
+              "word": "brazo",
+              "explanation": "Así en la versión gr., en el T.M.: Él lo tomó en sus brazos."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Con sogas de hombre los atraeré, con cuerdas de amor, y seré para ellos como los que levantan el yugo de sobre sus mandíbulas⁷⁵; y suavemente iré hacia él, lo alimentaré⁷⁶.",
+          "footnotes": [
+            {
+              "marker": "⁷⁵",
+              "number": "75",
+              "word": "mandíbulas",
+              "explanation": "Otra posible traducción es: los que alzan al niño sobre sus mejillas."
+            },
+            {
+              "marker": "⁷⁶",
+              "number": "76",
+              "word": "alimentaré",
+              "explanation": "La versión gr. dice: lo miraré, prevaleceré por él."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "No volverá a la tierra de Mitzráim⁷⁷, y Ashur, él será su rey, porque se rehusaron a volverse.",
+          "footnotes": [
+            {
+              "marker": "⁷⁷",
+              "number": "77",
+              "word": "Mitzráim",
+              "explanation": "La versión gr. dice: Habitó Efráim en Mitzráim."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y ha girado la espada en sus ciudades, y consumió sus postesy los devoró a causa de sus consejos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Y mi pueblo está adherido⁷⁸ a apartarse de Mí; y hacia lo alto lo llamarán unidos, pero Él no los exaltará⁷⁹.",
+          "footnotes": [
+            {
+              "marker": "⁷⁸",
+              "number": "78",
+              "word": "adherido",
+              "explanation": "O, inclinado."
+            },
+            {
+              "marker": "⁷⁹",
+              "number": "79",
+              "word": "exaltará",
+              "explanation": "Así en el T.M., en la versión gr.: y Elohim sobre lo precioso de Él se airará, no los exaltará."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "¿Cómo te daré, Efráim? ¿Te entregaré, Israel? ¿Cómo te daré como a Admáh? ¿Te pondré como a Tzeboim? Se ha revuelto sobre Mí mi corazón, juntas se encienden mis consolaciones.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "No haré el ardor de mi ira; no volveré a destruir a Efráim.Porque Elohim soy Yo y no hombre, en medio de ti Santo, y no entraré en la ciudad⁸⁰.",
+          "footnotes": [
+            {
+              "marker": "⁸⁰",
+              "number": "80",
+              "word": "ciudad",
+              "explanation": "Otra lectura posible es: no vendré en furor."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Detrás de יהוה irán, como león rugirá, porque Él rugirá, y vendrán temblando los hijos desde el mar.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Vendrán temblando como ave desde Mitzráim, y como paloma desde la tierra de Ashur, y los haré habitar en sus casas –declaración de יהוה.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Me ha rodeado en mentiras Efráim, y en engaño la casa de Israel; y Iehudáh todavía gobierna⁸¹ con Elohim y con el Santo Fiel. Efráim es reprendido",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Efráim pasta viento, y persigue al viento del este todo el día.Mentira y devastación multiplica, y pacto con Ashur hacen⁸², y aceite a Mitzráim es llevado.",
+          "footnotes": [
+            {
+              "marker": "⁸²",
+              "number": "82",
+              "word": "hacen",
+              "explanation": "Lit.: cortan."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y lucha tiene יהוה con Iehudáh, para visitar sobre Yaakov conforme a sus caminos; conforme a sus acciones le devolverá.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "En el vientre tomó por el talón a su hermano, y en su vigor luchó con Elohim.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y tuvo poder sobre el ángel y prevaleció, lloró y pidió el favor de él; en Betel lo encontró, y allí habló con nosotros,",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "y יהוה, Elohim de los ejércitos, יהוה es su memorial.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y tú, a tu Elohim volverás, bondad y juicio guarda, y espera a tu Elohim continuamente.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Mercader⁸³, en su mano hay balanzas de engaño, el oprimir ama.",
+          "footnotes": [
+            {
+              "marker": "⁸³",
+              "number": "83",
+              "word": "Mercader",
+              "explanation": "O, Kenáan."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Y dijo Efráim: Pero me he enriquecido, he hallado fuerza⁸⁴ para mí; todos mis esfuerzos no hallarán para mí iniquidad que sea pecado.",
+          "footnotes": [
+            {
+              "marker": "⁸⁴",
+              "number": "84",
+              "word": "fuerza",
+              "explanation": "O, riqueza."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y Yo, יהוה tu Elohim desde la tierra de Mitzráim, todavía te haré habitar en tiendas, como los días del tiempo señalado.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y he hablado a los profetas, y Yo la visión multipliqué; y por mano de los profetas usé comparaciones.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Si Guilad es iniquidad, ciertamente falsedad han sido.En Gilgal bueyes han sacrificado, también sus altares son como montículossobre los surcos del campo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Y huyó Yaakov al campo de Aram, y sirvió Israel por una mujer, y por una mujer cuidó ovejas.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Y por un profeta hizo subir יהוה a Israel de Mitzráim, y por un profeta fue guardado.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Ha provocado a rechazo Efráim en amarguras; y sus sangres sobre él dejará, y su reproche le devolverá su Amo. Condenación de la idolatría de Efráim",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Conforme al hablar de Efráim, había temblor; exaltado fue él en Israel.Pero fue culpable por Baal, y murió.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y ahora pecaron cada vez más⁸⁵; e hicieron para sí imagen de fundición de su plata, ídolos conforme a su entendimiento, obra de artífices todo ello.De ellos dicen: ¡Sacrificadores de entre el hombre, a los becerros besen!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Por eso, serán como la nube de la mañana, y como el rocío que temprano se va, como paja aventada de la era, y como humo de chimenea⁸⁶.",
+          "footnotes": [
+            {
+              "marker": "⁸⁶",
+              "number": "86",
+              "word": "chimenea",
+              "explanation": "O, ventana."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y Yo soy יהוה tu Elohim desde la tierra de Mitzráim; y Elohim aparte de Mí no conocerás, y Salvador no hay excepto Yo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Yo te conocí en el desierto, en tierra de gran sequía.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Conforme a su pasto, se saciaron; se saciaron y se exaltó su corazón; por eso, me olvidaron.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Y seré para ellos como león; como leopardo sobre el camino de Ashur⁸⁷.",
+          "footnotes": [
+            {
+              "marker": "⁸⁷",
+              "number": "87",
+              "word": "Ashur",
+              "explanation": "O, sobre el camino acecharé."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Los encontraré como osa enlutada por sus hijos, les desgarraré lo cerrado de su corazón, y los comeré allí como leona, el animal del campo los destrozará.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Te destruiste, Israel, aunque en Mí está tu ayuda⁸⁸.",
+          "footnotes": [
+            {
+              "marker": "⁸⁸",
+              "number": "88",
+              "word": "ayuda",
+              "explanation": "Otra lectura posible es: Tu destrucción, Israel, es porque estás contra Mí, contra tu ayuda."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "¿Dónde está tu rey ahora para que te salve en todas tus ciudades, y tus jueces de los cuales decías: “Dame rey y príncipes”?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Te di rey en mi nariz, y lo tomé en mi desborde.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Atada está la iniquidad de Efráim, oculto⁸⁹ su pecado.",
+          "footnotes": [
+            {
+              "marker": "⁸⁹",
+              "number": "89",
+              "word": "oculto",
+              "explanation": "O, disimulado."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Dolores de mujer en parto vendrán a él; él es hijo no sabio, porque tiempo no es para que permanezca quieto en el nacimiento de hijos⁹⁰.",
+          "footnotes": [
+            {
+              "marker": "⁹⁰",
+              "number": "90",
+              "word": "hijos",
+              "explanation": "Lit.: en la ruptura de hijos."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "De la mano del Sheol los rescataré, de la muerte los redimiré.¿Dónde están tus plagas, muerte? ¿Dónde está tu destrucción, Sheol? El arrepentimiento estará oculto de mis ojos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Porque él entre los hermanos fructificará, mas vendrá el viento del este, viento de יהוה desde el desierto sube, y se secará su manantialy se desolará su fuente; Él saqueará el tesoro de todo objeto deseable.",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Será culpable Shomrón, porque se rebeló contra su Elohim.Por la espada caerán, sus niños serán hechos pedazosy sus embarazadas serán abiertas. Arrepentimiento de Israel",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "¡Vuelve, Israel, hasta יהוה tu Elohim!, porque has tropezado en tu iniquidad.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Tomen con ustedes palabras, y vuelvan a יהוה.Díganle: Lleva toda iniquidad, y toma lo bueno, y retribuiremos el fruto de nuestros labios⁹¹.",
+          "footnotes": [
+            {
+              "marker": "⁹¹",
+              "number": "91",
+              "word": "labios",
+              "explanation": "Así en la versión gr., en el T.M.: los toros de nuestros labios; un error de texto."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Ashur no nos salvará, sobre caballo no montaremos, y no diremos más: “Elohim nuestro” a la obra de nuestras manos; porque en Ti se le mostrará misericordia al huérfano.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Yo sanaré su retroceso⁹², los amaré dadivosamente, porque se ha vuelto mi nariz de él.",
+          "footnotes": [
+            {
+              "marker": "⁹²",
+              "number": "92",
+              "word": "retroceso",
+              "explanation": "O, apostasía."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Seré como rocío para Israel; florecerá como el lirioy extenderá sus raíces como el Lebanón.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Irán sus brotes, y será como el olivo su esplendor, y la fragancia de él como el Lebanón.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Volverán los que se sientan a su sombra, revivirán el trigo⁹³ y brotarán como la vid.Su memoria será como el vino del Lebanón.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Efráim, ¿qué más tengo Yo para los ídolos? Yo he respondido, y Yo lo miraré.Yo soy como ciprés verde, de Mí tu fruto es hallado.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "¿Quién es sabio, y entenderá estas cosas, entendido, y las conocerá? Porque rectos son los caminos de יהוה, y los justos caminarán en ellos; pero los transgresores tropezarán en ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "book_info": {
+    "book_id": "maasei_hashlijim",
+    "tth_name": "Maasei Hash'lijim",
+    "hebrew_name": "מעשי השליחים",
+    "english_name": "Acts",
+    "spanish_name": "Hechos",
+    "section": "besorah",
+    "total_chapters": 2,
+    "total_verses": 48
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "El primer libro he completado acerca de todas <em>las cosas</em>, mi amado Iedidiáh¹, que comenzó a hacer Yeshúa y a enseñar,",
+          "footnotes": [
+            {
+              "marker": "¹",
+              "number": "1",
+              "word": "Iedidiáh",
+              "explanation": "Así en Ver. Políglota de Nuremberg, Ms. Oo.1.32.2 dice: Teófilo. Ambos nombres significan: Amado de Yah, tanto en hebr. como en gr."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "hasta el día en que fue tomado y ordenó por el Rúaj Ha’Kódesh² a los discípulos, a quienes había escogido;",
+          "footnotes": [
+            {
+              "marker": "²",
+              "number": "2",
+              "word": "Kódesh",
+              "explanation": "Espíritu de Santidad. Así en el resto del cap."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "y para los cuales levantó su ser vivo, después de sus terrores y sus amarguras, con muchas señales <em>por</em> cuarenta días, apareciéndose a ellos y diciéndo <em>les</em> acerca del reino de Elohim.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y reuniéndolos, les ordenó: No partir de Ierushaláim, sino permanecer y esperar el mensaje de mi Padre, el cual escucharon de Mí.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Porque Iojanán sumergió en las aguas, pero ustedes serán sumergidos en el Rúaj Ha’Kódesh después de días no muchos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Por eso, estos que se habían reunido juntos, le preguntaron, diciendo: Adonai, ¿en este tiempo establecerás el reino de Israel?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Y les dijo: No les es adecuado conocer los tiempos y las horas que puso el Padre, Él solo, en su dominio;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "sino que tomarán el poder del Rúaj Ha’Kódesh que vendrá a ustedes de lo alto, y serán mis testigos tanto en Ierushaláim como en toda Iehudáh y Shomrón, y hasta los confines de la tierra.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y cuando dijo estas <em>cosas</em>, viéndolo ellos, fue alzado y ascendido, y una nube lo tomó de sus ojos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y observando ellos los cielos, cuando Él subía, he aquí, dos hombres se pararon junto a ellos, con vestiduras blancas,",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "y ellos dijeron: Hombres de Galil, ¿por qué están parados y observan los cielos? Este Yeshúa, el que ha ascendido de ustedes a los cielos, así vendrá, como lo han visto subir a los cielos.",
+          "footnotes": [],
+          "hebrew_terms": [],
+          "subtitle": "El reemplazante de Iehudáh"
+        },
+        {
+          "verse": 12,
+          "tth": "Entonces volvieron a Ierushaláim desde el monte que se llama monte de los Olivos, que está cerca a Ierushaláim, camino de un Shabat.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Y cuando entraron a la ciudad, subieron a la habitación superior, donde se estaban quedando³ Kefa, Iaacob, Iojanán, Andreas, Filipos, Tomáh, BarTalmai, Matityáhu, Iaacob hijo de Alfi, Shimón kanai⁴ y Iehudáh⁵ hijo de Iaacob.",
+          "footnotes": [
+            {
+              "marker": "³",
+              "number": "3",
+              "word": "quedando",
+              "explanation": "Lit.: esperando."
+            },
+            {
+              "marker": "⁴",
+              "number": "4",
+              "word": "kanai",
+              "explanation": "Zelote, que significa: celoso."
+            },
+            {
+              "marker": "⁵",
+              "number": "5",
+              "word": "Iehudáh",
+              "explanation": "También llamado Tadai; véase Mateo 10:3."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Todos estos estaban permaneciendo juntos en tefilot⁶ y en peticiones de favor, con las mujeres, y con Miriam madre de Yeshúa, y con sus hermanos.",
+          "footnotes": [
+            {
+              "marker": "⁶",
+              "number": "6",
+              "word": "tefilot",
+              "explanation": "Oración, participación en juicio."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Y en estos días se levantó Kefa en medio de los discípulos, y dijo (y era la congregación de los nombres, juntos, como ciento veinte):",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "Hombres, mis hermanos, era necesario que se llenara esta Escritura que desde antes había dicho el Rúaj Ha’Kódesh por boca de David acerca de Iehudáh⁷, que fue el que los encaminó a los que prendieron a Yeshúa,",
+          "footnotes": [
+            {
+              "marker": "⁷",
+              "number": "7",
+              "word": "Iehudáh",
+              "explanation": "O sea, Judas."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 17,
+          "tth": "que había sido alzada su cabeza⁸ con nosotros y había tomado el goral⁹ de este sacerdocio.",
+          "footnotes": [
+            {
+              "marker": "⁸",
+              "number": "8",
+              "word": "cabeza",
+              "explanation": "Véase Números 1:2."
+            },
+            {
+              "marker": "⁹",
+              "number": "9",
+              "word": "goral",
+              "explanation": "Piedrecita lanzada para tomar decisiones. Entiéndase: porción, heredad."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 18,
+          "tth": "Y este adquirió un campo del salario de condenación¹⁰, y estrangulándose, se partió al medio y se derramaron todas sus entrañas.",
+          "footnotes": [
+            {
+              "marker": "¹⁰",
+              "number": "10",
+              "word": "condenación",
+              "explanation": "O, maldad."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 19,
+          "tth": "Y fue conocido por todos los moradores de Ierushaláim, así que, fue llamado aquel campo en la lengua de ellos Jakal Dema¹¹, esto es, Sadeh Hadam¹².",
+          "footnotes": [
+            {
+              "marker": "¹¹",
+              "number": "11",
+              "word": "Dema",
+              "explanation": "Campo de sangre, en arameo."
+            },
+            {
+              "marker": "¹²",
+              "number": "12",
+              "word": "Hadam",
+              "explanation": "Campo de sangre, en hebreo."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 20,
+          "tth": "Porque está escrito en el libro de los Salmos: Será desolado su campamento, en sus tiendas no habrá habitante¹³; y: su cargo tomará otro¹⁴.",
+          "footnotes": [
+            {
+              "marker": "¹⁴",
+              "number": "14",
+              "word": "otro",
+              "explanation": "Véase Salmo 109:8."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 21,
+          "tth": "Por eso, es necesario <em>que</em> de estos hombres que se han reunido con nosotros todo el tiempo en que entró y salió con nosotros nuestro Adón¹⁵ Yeshúa,",
+          "footnotes": [
+            {
+              "marker": "¹⁵",
+              "number": "15",
+              "word": "Adón",
+              "explanation": "Amo, Señor."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 22,
+          "tth": "comenzando desde la inmersión de Iojanán hasta el día <em>en</em> que fue tomado de nosotros, sea con nosotros testigo de su levantamiento¹⁶ uno de estos.",
+          "footnotes": [
+            {
+              "marker": "¹⁶",
+              "number": "16",
+              "word": "levantamiento",
+              "explanation": "O, resurrección."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 23,
+          "tth": "Y establecieron dos hombres: a Iosef, llamado BarShaba¹⁷, y también llamado Tzadik¹⁸, y a Matia.",
+          "footnotes": [
+            {
+              "marker": "¹⁷",
+              "number": "17",
+              "word": "BarShaba",
+              "explanation": "Hijo del Shabat, en arameo."
+            },
+            {
+              "marker": "¹⁸",
+              "number": "18",
+              "word": "Tzadik",
+              "explanation": "Justo."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 24,
+          "tth": "E hicieron tefilah¹⁹, diciendo: יהוה, Tú eres el que escudriña los corazones de todos; da integridad y haz conocer, por favor, a uno que has escogido de <em>estos</em> dos.",
+          "footnotes": [
+            {
+              "marker": "¹⁹",
+              "number": "19",
+              "word": "tefilah",
+              "explanation": "Oración, participación en juicio."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 25,
+          "tth": "para tomar el goral²⁰ de este sacerdocio y encargo²¹, de los cuales se ha apartado Iehudáh para ir a su lugar.",
+          "footnotes": [
+            {
+              "marker": "²⁰",
+              "number": "20",
+              "word": "goral",
+              "explanation": "Piedrecita lanzada para tomar decisiones. Entiéndase: porción, heredad."
+            },
+            {
+              "marker": "²¹",
+              "number": "21",
+              "word": "encargo",
+              "explanation": "O, delegación, o, envío. Heb.: Mishlaj."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 26,
+          "tth": "Y pusieron sus goralot²², y cayó el goral sobre Matia, y fue contado con los once discípulos.",
+          "footnotes": [],
+          "hebrew_terms": [],
+          "subtitle": "La entrega del Rúaj Ha’Kódesh"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Y cuando se cumplió el día cincuenta²³, estaban todos reunidos juntos.",
+          "footnotes": [
+            {
+              "marker": "²³",
+              "number": "23",
+              "word": "cincuenta",
+              "explanation": "O sea, del Conteo del Ómer."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y hubo de repente de los cielos un estruendo, como un fuerte viento del este²⁴, y se llenó toda la casa en la que estaban sentados;",
+          "footnotes": [
+            {
+              "marker": "²⁴",
+              "number": "24",
+              "word": "este",
+              "explanation": "Otra posible lectura es: un fuerte Rúaj de la eternidad."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "y aparecieron a ellos lenguas repartidas, como fuego, que se asentó sobre cada uno de ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y todos fueron llenados con el Rúaj Ha’Kódesh²⁵, y comenzaron a hablar en otras lenguas, conforme les dio el Rúaj para fluir.",
+          "footnotes": [
+            {
+              "marker": "²⁵",
+              "number": "25",
+              "word": "Kódesh",
+              "explanation": "Espíritu de Santidad. Así en el resto del cap."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y había en Ierushaláim moradores iehudim²⁶, hombres benevolentes, de todas las naciones que están debajo de los cielos.",
+          "footnotes": [
+            {
+              "marker": "²⁶",
+              "number": "26",
+              "word": "iehudim",
+              "explanation": "Judíos."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y cuando fue esta voz, se reunión una multitud del pueblo; y fue destruida su propia sabiduría, porque escuchaba cada hombre que en su propia lengua hablaban ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Y se alarmaron y asombraron, diciendo un hombre a su compañero: He aquí, ¿no son todos guelilim²⁷ estos que hablan?",
+          "footnotes": [
+            {
+              "marker": "²⁷",
+              "number": "27",
+              "word": "guelilim",
+              "explanation": "Galileos."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "¿Y por qué nosotros escuchamos <em>a</em> cada uno en la lengua en que hemos nacido?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Hombres de Perat²⁸, Madai²⁹, Eilam, y los que habitamos en Aram Naharáim³⁰, en Iehudáh, Caftor³¹, Elasar³², Asia,",
+          "footnotes": [
+            {
+              "marker": "²⁸",
+              "number": "28",
+              "word": "Perat",
+              "explanation": "Éufrates."
+            },
+            {
+              "marker": "²⁹",
+              "number": "29",
+              "word": "Madai",
+              "explanation": "Media."
+            },
+            {
+              "marker": "³⁰",
+              "number": "30",
+              "word": "Naharáim",
+              "explanation": "Mesopotamia."
+            },
+            {
+              "marker": "³¹",
+              "number": "31",
+              "word": "Caftor",
+              "explanation": "Otros mss. dicen: Capadocia."
+            },
+            {
+              "marker": "³²",
+              "number": "32",
+              "word": "Elasar",
+              "explanation": "Otros mss. dicen: Ponto."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Feruguia, Pamfilia, Mitzráim, los límites de Fug que son hacia Kir, y peregrinos de Roma,",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "iehudim y habitantes, cretim³³ y arbim³⁴, nosotros los oímos hablar en nuestras lenguas las grandezas de Elohim.",
+          "footnotes": [
+            {
+              "marker": "³³",
+              "number": "33",
+              "word": "cretim",
+              "explanation": "Cretenses."
+            },
+            {
+              "marker": "³⁴",
+              "number": "34",
+              "word": "arbim",
+              "explanation": "Árabes."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Y estaban alarmados, y preguntaba un hombre a su compañero, diciendo: ¿Qué es esto?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Y otros se burlaban de ellos, diciendo: ¡Es que están borrachos de mosto!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Y se levantó Kefa con los doce, y alzó su voz, e hizo fluir a ellos: ¡Hombres hermanos y moradores de Ierushaláim, todos ustedes, sea hecho conocer a ustedes y den oído a mis palabras!,",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "porque ellos no están como ustedes piensan, borrachos, porque es la tercera hora del día³⁵,",
+          "footnotes": [
+            {
+              "marker": "³⁵",
+              "number": "35",
+              "word": "día",
+              "explanation": "Las nueve de la mañana."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "sino que esto es lo que fue dicho por el profeta Ioel:",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 17,
+          "tth": "Y sucederá que después de eso, derramaré mi Rúaj sobre toda carne; y profetizarán sus hijos y sus hijas, sus ancianos sueños soñarán, sus jóvenes visiones verán.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 18,
+          "tth": "Y también sobre los siervos y sobre las siervas en aquellos días derramaré mi Rúaj y profetizarán.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 19,
+          "tth": "Y daré maravillas en los cielos y en la tierra: sangre, fuego y columnas de humo en forma de palmera.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 20,
+          "tth": "El sol se volverá en oscuridad, y la luna en sangre, antes de la venida del día de יהוה, grande y temible.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 21,
+          "tth": "Y será que todo el que llame en Nombre de יהוה, será hecho escapar³⁶.",
+          "footnotes": [
+            {
+              "marker": "³⁶",
+              "number": "36",
+              "word": "escapar",
+              "explanation": "Véase Joel 2:28\\-32."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 22,
+          "tth": "¡Hombres hijos de Israel, escuchen mis palabras!, Yeshúa Notzrí³⁷ varón que fue visible de Elohim a ustedes, en obras poderosas, señales y maravillas que",
+          "footnotes": [
+            {
+              "marker": "³⁷",
+              "number": "37",
+              "word": "Notzrí",
+              "explanation": "Del heb.: Nétzer; retoño. Véase Isaías 11:1."
+            }
+          ],
+          "hebrew_terms": []
+        }
+      ]
+    }
+  ]
+}
