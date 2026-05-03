@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
-  "installCommand": "npm ci",
+  "installCommand": "npm ci && npm install --no-save esbuild@0.25.11",
   "buildCommand": "npm run vercel-build",
   "outputDirectory": "public"
 }
