@@ -238,7 +238,7 @@ export async function handleBuild(argv) {
   }
 
   console.log(`\n${styleText("bgGreen", ` Quartz v${version} `)} \n`)
-  const ctx = await esbuild.context({
+  const buildOptions = {
     entryPoints: [fp],
     outfile: cacheFile,
     bundle: true,
@@ -297,7 +297,8 @@ export async function handleBuild(argv) {
         },
       },
     ],
-  })
+  }
+  const ctx = argv.watch ? await esbuild.context(buildOptions) : null
 
   const buildMutex = new Mutex()
   let lastBuildMs = 0
@@ -316,7 +317,7 @@ export async function handleBuild(argv) {
       await cleanupBuild()
     }
 
-    const result = await ctx.rebuild().catch((err) => {
+    const result = await (ctx ? ctx.rebuild() : esbuild.build(buildOptions)).catch((err) => {
       console.error(`${styleText("red", "Couldn't parse Quartz configuration:")} ${fp}`)
       console.log(`Reason: ${styleText("grey", err)}`)
       process.exit(1)
@@ -464,7 +465,9 @@ export async function handleBuild(argv) {
     )
   } else {
     await build(clientRefresh)
-    ctx.dispose()
+    if (ctx) {
+      ctx.dispose()
+    }
   }
 
   if (argv.watch) {
