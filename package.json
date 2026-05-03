@@ -13,9 +13,10 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "node ./quartz/bootstrap-cli.mjs build",
-    "vercel-build": "node ./quartz/bootstrap-cli.mjs build",
-    "start": "node ./quartz/bootstrap-cli.mjs build --serve",
+    "content:check-frontmatter": "node ./scripts/check-frontmatter-tabs.mjs",
+    "build": "npm run content:check-frontmatter && node ./quartz/bootstrap-cli.mjs build",
+    "vercel-build": "npm run content:check-frontmatter && node ./quartz/bootstrap-cli.mjs build",
+    "start": "npm run content:check-frontmatter && node ./quartz/bootstrap-cli.mjs build --serve",
     "docs": "npx quartz build --serve -d docs",
     "hermes:setup": "if [ -x .venv/bin/python ]; then .venv/bin/python -m pip install -r requirements.txt; else python3 -m pip install -r requirements.txt; fi",
     "hermes:transcript": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/fetch_transcript.py \"$@\"; else python3 scripts/hermes/fetch_transcript.py \"$@\"; fi' --",
@@ -27,7 +28,7 @@
     "hermes:db:reindex": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py reindex \"$@\"; else python3 scripts/hermes/source_index_db.py reindex \"$@\"; fi' --",
     "hermes:db:search": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py search \"$@\"; else python3 scripts/hermes/source_index_db.py search \"$@\"; fi' --",
     "hermes:db:stats": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py stats \"$@\"; else python3 scripts/hermes/source_index_db.py stats \"$@\"; fi' --",
-    "check": "tsc --noEmit && npx prettier . --check",
+    "check": "npm run content:check-frontmatter && tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"

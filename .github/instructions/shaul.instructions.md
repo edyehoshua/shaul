@@ -45,6 +45,7 @@ This repository is a study workspace to connect Scripture with Scripture in the 
   - tags
   - references
   - sources
+- In YAML frontmatter, use spaces for indentation, never tabs.
 - Keep tables and comparison sheets concise and scannable.
 - Prefer links between notes over duplicated explanation blocks.
 

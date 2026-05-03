@@ -5,13 +5,13 @@ date: 2025-12-06
 tags:
   - sodot
 references:
-	- "#sodot_7_1"
-	- "#ieshaiahu_11_12"
-	- "#iejezkel_7_2"
-	- "#iyob_37_3"
-	- "#iyob_38_13"
-	- "#bamidbar_13_29"
-	- "#zejariah_6_5"
+  - "#sodot_7_1"
+  - "#ieshaiahu_11_12"
+  - "#iejezkel_7_2"
+  - "#iyob_37_3"
+  - "#iyob_38_13"
+  - "#bamidbar_13_29"
+  - "#zejariah_6_5"
 sources: []
 translation: "[NBLA]"
 ---
