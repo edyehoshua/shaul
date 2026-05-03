@@ -8,7 +8,6 @@ tags:
   - emunah
   - shema
 references:
-
   - "#ioel_2_32"
   - "#maasei_2_39"
   - "#romanim_10_12"
