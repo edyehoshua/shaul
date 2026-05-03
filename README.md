@@ -36,13 +36,42 @@ Generated output is in public/.
 ## Hermes Transcript Tool
 
 ```bash
-python3 scripts/hermes/fetch_transcript.py "https://www.youtube.com/watch?v=VIDEO_ID"
+npm run hermes:transcript -- "https://www.youtube.com/watch?v=VIDEO_ID"
 ```
 
 Dependencies:
 
 ```bash
-python3 -m pip install -r requirements.txt
+npm run hermes:setup
+```
+
+## Local Scriptures Sync (Hermes Prerequisite)
+
+Hermes note and verse-sheet workflows are local-first and use the in-repo corpus under `docs/scriptures/`.
+
+Ensure local scriptures are present (sync only when missing):
+
+```bash
+npm run scriptures:ensure
+```
+
+Force a refresh from `edyhvh/davar`:
+
+```bash
+npm run scriptures:ensure -- --force
+```
+
+Manual corpus sync examples:
+
+```bash
+npm run scriptures:sync -- --corpus all
+npm run scriptures:sync -- --corpus oe --book genesis
+```
+
+One-shot Hermes prep (Python deps + local scriptures + DB init):
+
+```bash
+npm run hermes:prepare
 ```
 
 ## Hermes Source DB (Transcripts + Articles)

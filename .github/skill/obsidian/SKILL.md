@@ -1,9 +1,7 @@
 ---
-
 name: obsidian-skill
 agent: ask
 description: organize raw notes and research into one or more Obsidian notes in content/
-
 ---
 
 # Obsidian Skill: Hermes Note Builder
@@ -84,10 +82,11 @@ Choose only the sections needed by the topic:
 
 ## Research Priority
 
-1. yehoshuamaranata.blogspot.com
-2. Eric de Jesús Rodríguez Mendoza YouTube channel
-3. Somos El Cuerpo del Mesías YouTube channel
-4. Additional web sources when needed
+1. Local scripture library under docs/scriptures/ (ensure availability with npm run scriptures:ensure when command execution is allowed)
+2. yehoshuamaranata.blogspot.com
+3. Eric de Jesús Rodríguez Mendoza YouTube channel
+4. Somos El Cuerpo del Mesías YouTube channel
+5. Additional web sources when needed
 
 ## Writing Constraints
 

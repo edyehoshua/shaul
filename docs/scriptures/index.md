@@ -45,9 +45,11 @@ Its purpose is to keep the scripture JSON inside the repository so note work can
 Use:
 
 ```shell
-npm run hermes:scriptures:sync -- --corpus tth
-npm run hermes:scriptures:sync -- --corpus oe --book genesis
-npm run hermes:scriptures:sync -- --corpus delitzsch
+npm run scriptures:ensure
+npm run scriptures:sync -- --corpus tth
+npm run scriptures:sync -- --corpus oe --book genesis
+npm run scriptures:sync -- --corpus delitzsch
 ```
 
-This mirrors the selected Davar JSON files into this repository.
+- `scriptures:ensure` checks whether local corpus files already exist and syncs only when missing.
+- `scriptures:sync` mirrors selected Davar JSON files into this repository.

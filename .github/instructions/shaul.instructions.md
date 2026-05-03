@@ -78,7 +78,8 @@ This repository is a study workspace to connect Scripture with Scripture in the 
 2. Keep translation families separated under oe/json/, tth/json/, and delitzsch/json/.
 3. OE stays chapter-oriented by book folder; TTH and Delitzsch stay book-oriented JSON files.
 4. Treat docs/scriptures/ as the fast local source for Hermes and note normalization work.
-5. Use scripts/hermes/sync_davar_scriptures.py to refresh the local corpus.
+5. Use npm run scriptures:ensure before scripture-dependent Hermes or note work.
+6. Use npm run scriptures:sync -- --corpus <name> (or --corpus all) for explicit refreshes.
 
 ## Safety and Quality
 
