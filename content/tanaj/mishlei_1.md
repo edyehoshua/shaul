@@ -4,18 +4,18 @@ description: "Apuntes léxicos sobre Mishlei 1:2-14 con énfasis en daat, musar,
 date: 2025-11-28
 tags:
   - mishlei
-	- mishlei_1
+  - mishlei_1
 references:
-	- "#mishlei_1_2"
-	- "#mishlei_1_3"
-	- "#mishlei_1_4"
-	- "#mishlei_1_7"
-	- "#mishlei_1_8"
-	- "#mishlei_1_10"
-	- "#mishlei_1_11"
-	- "#mishlei_1_12"
-	- "#mishlei_1_13"
-	- "#mishlei_1_14"
+  - "#mishlei_1_2"
+  - "#mishlei_1_3"
+  - "#mishlei_1_4"
+  - "#mishlei_1_7"
+  - "#mishlei_1_8"
+  - "#mishlei_1_10"
+  - "#mishlei_1_11"
+  - "#mishlei_1_12"
+  - "#mishlei_1_13"
+  - "#mishlei_1_14"
 sources: []
 translation: "[BTX4]"
 ---

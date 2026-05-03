@@ -3,14 +3,14 @@ title: "Hoshea 6: jesed, daat y pacto transgredido"
 description: "Apunte sobre Hoshea 6:6-7 con énfasis en jesed, daat y la transgresión del pacto"
 date: 2025-12-04
 tags:
-	- hoshea
+  - hoshea
 references:
-	- "#hoshea_6_6"
-	- "#hoshea_6_7"
-	- "#efesim_1_17"
-	- "#malaji_2_10"
-	- "#ieshaiahu_24_5"
-	- "#romanim_1_21"
+  - "#hoshea_6_6"
+  - "#hoshea_6_7"
+  - "#efesim_1_17"
+  - "#malaji_2_10"
+  - "#ieshaiahu_24_5"
+  - "#romanim_1_21"
 sources: []
 translation: "[BTX4]"
 ---

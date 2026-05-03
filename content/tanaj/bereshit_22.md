@@ -3,17 +3,17 @@ title: "Bereshit 22: sacrificio de Itzjak y me'al"
 description: "Apunte breve sobre Bereshit 22:9 dentro del sacrificio de Itzjak"
 date: 2025-11-30
 tags:
-	- bereshit_22
-	- itzjak
+  - bereshit_22
+  - itzjak
 references:
-	- "#bereshit_22_9"
-	- "#bereshit_46_2"
-	- "#shemot_3_6"
-	- "#shemuel_alef_3_10"
-	- "#lukas_10_41"
-	- "#ivrim_9_4"
-	- "#matiyahu_23_37"
-	- "#ieshaiahu_6_2"
+  - "#bereshit_22_9"
+  - "#bereshit_46_2"
+  - "#shemot_3_6"
+  - "#shemuel_alef_3_10"
+  - "#lukas_10_41"
+  - "#ivrim_9_4"
+  - "#matiyahu_23_37"
+  - "#ieshaiahu_6_2"
 sources: []
 ---
 

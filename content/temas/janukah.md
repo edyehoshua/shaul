@@ -3,11 +3,11 @@ title: "Janucá: rehabilitación, memoria y expectativa mesiánica"
 description: "Borrador ordenado sobre Janucá, la rehabilitación del templo y la expectativa mesiánica asociada"
 date: 2026-05-02
 tags:
-	- janukah
-	- templo
-	- macabeos
+  - janukah
+  - templo
+  - macabeos
 references:
-	- "#tehilim_30"
+  - "#tehilim_30"
 sources: []
 ---
 
