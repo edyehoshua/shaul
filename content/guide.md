@@ -3,6 +3,8 @@ title: "Guía v2 para Notas en Shaul"
 description: "Reglas prácticas para crear notas bíblicas con Obsidian + Quartz + Hermes"
 date: 2026-04-27
 tags: [guia, obsidian, quartz, hermes, notas]
+references: []
+sources: []
 ---
 
 # Guía v2 para Notas en Shaul
@@ -53,10 +55,10 @@ No hay plantilla fija obligatoria. Usa solo las secciones que el tema necesita:
 
 Cuando el tema lo amerite, usar una tabla corta y legible:
 
-| Referencia | Hebreo | Traducción ES (TTH) | Observación |
-|---|---|---|---|
-| #tehilim_2_7 | ... | ... | Filiación mesiánica |
-| #matiyahu_3_17 | ... | ... | Eco y expansión apostólica |
+| Referencia     | Hebreo | Traducción ES (TTH) | Observación                |
+| -------------- | ------ | ------------------- | -------------------------- |
+| #tehilim_2_7   | ...    | ...                 | Filiación mesiánica        |
+| #matiyahu_3_17 | ...    | ...                 | Eco y expansión apostólica |
 
 ## Fuentes para investigación
 
