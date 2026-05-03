@@ -3,15 +3,16 @@ import { i18n } from "../../i18n"
 import { unescapeHTML } from "../../util/escape"
 import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../../util/path"
 import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
-import sharp from "sharp"
-import satori, { SatoriOptions } from "satori"
 import { loadEmoji, getIconCode } from "../../util/emoji"
 import { Readable } from "stream"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
 import fs from "node:fs/promises"
+import { createRequire } from "node:module"
 import { styleText } from "util"
+
+const require = createRequire(import.meta.url)
 
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
@@ -19,6 +20,90 @@ const defaultOptions: SocialImageOptions = {
   height: 630,
   imageStructure: defaultImage,
   excludeRoot: false,
+}
+
+type OgHeadPageData = QuartzPluginData & {
+  filePath?: string
+  slug?: string
+  frontmatter?: {
+    socialImage?: string
+  }
+}
+
+type OgFonts = Awaited<ReturnType<typeof getSatoriFonts>>
+type PreactFactory = {
+  h: (type: unknown, props: Record<string, string> | null, ...children: unknown[]) => unknown
+  Fragment: unknown
+}
+
+function getPreactFactory(): PreactFactory {
+  const preactModuleName = "preact"
+  return require(preactModuleName) as PreactFactory
+}
+
+function renderOgHeadTags(
+  userDefinedOgImagePath: string | undefined,
+  ogImagePath: string,
+  ogImageMimeType: string,
+  fullOptions: SocialImageOptions,
+) {
+  const { h, Fragment } = getPreactFactory()
+  const tags: unknown[] = []
+
+  if (!userDefinedOgImagePath) {
+    tags.push(
+      h("meta", { property: "og:image:width", content: fullOptions.width.toString() }),
+      h("meta", { property: "og:image:height", content: fullOptions.height.toString() }),
+    )
+  }
+
+  tags.push(
+    h("meta", { property: "og:image", content: ogImagePath }),
+    h("meta", { property: "og:image:url", content: ogImagePath }),
+    h("meta", { name: "twitter:image", content: ogImagePath }),
+    h("meta", { property: "og:image:type", content: ogImageMimeType }),
+  )
+
+  return h(Fragment, null, ...tags)
+}
+
+async function renderWebp(svg: string): Promise<Readable> {
+  try {
+    const sharpModuleName = "sharp"
+    const sharpModule = await import(sharpModuleName)
+    return sharpModule.default(Buffer.from(svg)).webp({ quality: 40 })
+  } catch {
+    throw new Error(
+      "CustomOgImages requires the optional 'sharp' package. Install it before enabling this emitter.",
+    )
+  }
+}
+
+async function renderSvg(
+  svgInput: ImageOptions["fileData"] extends never
+    ? never
+    : ReturnType<SocialImageOptions["imageStructure"]>,
+  options: {
+    width: number
+    height: number
+    fonts: OgFonts
+  },
+): Promise<string> {
+  const satoriModuleName = "satori"
+  const { default: satori } = await import(satoriModuleName)
+
+  return satori(svgInput, {
+    width: options.width,
+    height: options.height,
+    fonts: options.fonts,
+    loadAdditionalAsset: async (languageCode: string, segment: string) => {
+      if (languageCode === "emoji") {
+        return await loadEmoji(getIconCode(segment))
+      }
+
+      return languageCode
+    },
+  })
 }
 
 /**
@@ -49,26 +134,15 @@ async function generateSocialImage(
     iconBase64,
   })
 
-  const svg = await satori(imageComponent, {
-    width,
-    height,
-    fonts,
-    loadAdditionalAsset: async (languageCode: string, segment: string) => {
-      if (languageCode === "emoji") {
-        return await loadEmoji(getIconCode(segment))
-      }
+  const svg = await renderSvg(imageComponent, { width, height, fonts })
 
-      return languageCode
-    },
-  })
-
-  return sharp(Buffer.from(svg)).webp({ quality: 40 })
+  return renderWebp(svg)
 }
 
 async function processOgImage(
   ctx: BuildCtx,
   fileData: QuartzPluginData,
-  fonts: SatoriOptions["fonts"],
+  fonts: OgFonts,
   fullOptions: SocialImageOptions,
 ) {
   const cfg = ctx.cfg.configuration
@@ -143,7 +217,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const baseUrl = ctx.cfg.configuration.baseUrl
       return {
         additionalHead: [
-          (pageData) => {
+          (pageData: OgHeadPageData) => {
             const isRealFile = pageData.filePath !== undefined
             let userDefinedOgImagePath = pageData.frontmatter?.socialImage
 
@@ -159,21 +233,12 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
-            return (
-              <>
-                {!userDefinedOgImagePath && (
-                  <>
-                    <meta property="og:image:width" content={fullOptions.width.toString()} />
-                    <meta property="og:image:height" content={fullOptions.height.toString()} />
-                  </>
-                )}
-
-                <meta property="og:image" content={ogImagePath} />
-                <meta property="og:image:url" content={ogImagePath} />
-                <meta name="twitter:image" content={ogImagePath} />
-                <meta property="og:image:type" content={ogImageMimeType} />
-              </>
-            )
+            return renderOgHeadTags(
+              userDefinedOgImagePath,
+              ogImagePath,
+              ogImageMimeType,
+              fullOptions,
+            ) as never
           },
         ],
       }

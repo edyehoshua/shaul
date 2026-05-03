@@ -98,7 +98,6 @@
     "rfdc": "^1.4.1",
     "satori": "^0.18.3",
     "serve-handler": "^6.1.6",
-    "sharp": "^0.34.5",
     "shiki": "^3.20.0",
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",
@@ -119,12 +118,9 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
-    "esbuild": "0.25.11",
+    "esbuild": "^0.27.2",
     "prettier": "^3.7.4",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
-  },
-  "overrides": {
-    "esbuild": "0.25.11"
   }
 }
