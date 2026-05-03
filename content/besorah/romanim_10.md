@@ -8,23 +8,24 @@ tags:
   - emunah
   - shema
 references:
-	- "#ioel_2_32"
-	- "#maasei_2_39"
-	- "#romanim_10_12"
-	- "#romanim_10_13"
-	- "#romanim_10_14"
-	- "#romanim_10_15"
-	- "#ieshaiahu_52_7"
-	- "#romanim_10_16"
-	- "#ieshaiahu_53_1"
-	- "#romanim_10_17"
-	- "#romanim_10_18"
-	- "#romanim_10_19"
-	- "#devarim_32_21"
-	- "#romanim_10_20"
-	- "#ieshaiahu_65_1"
+
+  - "#ioel_2_32"
+  - "#maasei_2_39"
+  - "#romanim_10_12"
+  - "#romanim_10_13"
+  - "#romanim_10_14"
+  - "#romanim_10_15"
+  - "#ieshaiahu_52_7"
+  - "#romanim_10_16"
+  - "#ieshaiahu_53_1"
+  - "#romanim_10_17"
+  - "#romanim_10_18"
+  - "#romanim_10_19"
+  - "#devarim_32_21"
+  - "#romanim_10_20"
+  - "#ieshaiahu_65_1"
 sources:
-	- "https://www.youtube.com/live/ceJ84959XJU?si=GTwzqRinoAXc7cis"
+  - "https://www.youtube.com/live/ceJ84959XJU?si=GTwzqRinoAXc7cis"
 translation: "[NBLA, TTH]"
 ---
 

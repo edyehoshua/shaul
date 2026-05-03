@@ -3,21 +3,21 @@ title: "Sodot 1: Lo que debe suceder en breve"
 description: "Apuntes sobre Sodot 1:1 y 1:5-6 en torno a la brevedad del tiempo y los atributos confesados del Mesías"
 date: 2025-12-20
 tags:
-	- sodot
-	- yom_yhvh
+  - sodot
+  - yom_yhvh
 references:
-	- "#sodot_1_1"
-	- "#sodot_1_5"
-	- "#sodot_1_6"
-	- "#ioel_2_31"
-	- "#malaji_4_5"
-	- "#ieshaiahu_55_4"
-	- "#devarim_7_9"
-	- "#tehilim_16_10"
-	- "#tehilim_89_27"
-	- "#tehilim_88_11"
-	- "#tehilim_2_8"
-	- "#devarim_23_6"
+  - "#sodot_1_1"
+  - "#sodot_1_5"
+  - "#sodot_1_6"
+  - "#ioel_2_31"
+  - "#malaji_4_5"
+  - "#ieshaiahu_55_4"
+  - "#devarim_7_9"
+  - "#tehilim_16_10"
+  - "#tehilim_89_27"
+  - "#tehilim_88_11"
+  - "#tehilim_2_8"
+  - "#devarim_23_6"
 sources: []
 translation: "[BTX4]"
 ---
