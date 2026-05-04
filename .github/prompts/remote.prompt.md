@@ -1,11 +1,9 @@
-# Remote
+# PR
 
 ---
-
-name:remote
+name: pr
 agent: ask
-description: Analyze recent commits + file changes by running git commands, detect target branch, and generate a ready-to-copy gh pr create --web command with semantic title and detailed bullet-point body
-
+description: Generate one ready-to-run gh pr create --web command from current git branch and diffs
 ---
 
 You are allowed — and expected — to run the following git commands yourself to gather accurate, up-to-date information:

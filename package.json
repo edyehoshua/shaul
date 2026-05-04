@@ -11,20 +11,31 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-"scripts": {
+  "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "node ./quartz/bootstrap-cli.mjs build",
-    "vercel-build": "node ./quartz/bootstrap-cli.mjs build",
-    "start": "node ./quartz/bootstrap-cli.mjs build --serve",
+    "content:check-frontmatter": "node ./scripts/check-frontmatter-tabs.mjs",
+    "build": "npm run content:check-frontmatter && node ./quartz/bootstrap-cli.mjs build",
+    "vercel-build": "npm run content:check-frontmatter && node ./quartz/bootstrap-cli.mjs build",
+    "start": "npm run content:check-frontmatter && node ./quartz/bootstrap-cli.mjs build --serve",
     "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
+    "hermes:setup": "if [ -x .venv/bin/python ]; then .venv/bin/python -m pip install -r requirements.txt; else python3 -m pip install -r requirements.txt; fi",
+    "hermes:transcript": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/fetch_transcript.py \"$@\"; else python3 scripts/hermes/fetch_transcript.py \"$@\"; fi' --",
+    "scriptures:check": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/ensure_local_scriptures.py --check-only; else python3 scripts/hermes/ensure_local_scriptures.py --check-only; fi",
+    "scriptures:ensure": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/ensure_local_scriptures.py \"$@\"; else python3 scripts/hermes/ensure_local_scriptures.py \"$@\"; fi' --",
+    "scriptures:sync": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/sync_davar_scriptures.py \"$@\"; else python3 scripts/hermes/sync_davar_scriptures.py \"$@\"; fi' --",
+    "hermes:prepare": "npm run hermes:setup && npm run scriptures:ensure && npm run hermes:db:init",
+    "hermes:db:init": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py init; else python3 scripts/hermes/source_index_db.py init; fi",
+    "hermes:db:reindex": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py reindex \"$@\"; else python3 scripts/hermes/source_index_db.py reindex \"$@\"; fi' --",
+    "hermes:db:search": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py search \"$@\"; else python3 scripts/hermes/source_index_db.py search \"$@\"; fi' --",
+    "hermes:db:stats": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/hermes/source_index_db.py stats \"$@\"; else python3 scripts/hermes/source_index_db.py stats \"$@\"; fi' --",
+    "check": "npm run content:check-frontmatter && tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "engines": {
-    "npm": ">=10.9.2",
-    "node": ">=22"
+    "npm": "10.x",
+    "node": "22.x"
   },
   "keywords": [
     "site generator",
@@ -88,7 +99,6 @@
     "rfdc": "^1.4.1",
     "satori": "^0.18.3",
     "serve-handler": "^6.1.6",
-    "sharp": "^0.34.5",
     "shiki": "^3.20.0",
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",

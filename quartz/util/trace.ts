@@ -11,7 +11,7 @@ export function trace(msg: string, err: Error) {
   lines.push("")
   lines.push(
     "\n" +
-      styleText(["bgRed", "black", "bold"], " ERROR ") +
+      styleText("bgRed", styleText("black", styleText("bold", " ERROR "))) +
       "\n\n" +
       styleText("red", ` ${msg}`) +
       (err.message.length > 0 ? `: ${err.message}` : ""),

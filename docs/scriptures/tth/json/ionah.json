@@ -1,0 +1,425 @@
+{
+  "book_info": {
+    "book_id": "ionah",
+    "tth_name": "Ionah",
+    "hebrew_name": "יונה",
+    "english_name": "Jonah",
+    "spanish_name": "Jonás",
+    "section": "neviim",
+    "total_chapters": 4,
+    "total_verses": 47
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Y fue palabra de יהוה a Yonáh, hijo de Amitai, diciendo:",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Levántate, ve a Ninevéh, la gran ciudad, y proclama sobre ella, porque ha subido su maldad delante de Mí.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y se levantó Yonáh para huir a Tarshísh de delante de יהוה. Y descendió a Iafó y halló un barco que iba a Tarshísh, y dio su pago y descendió en él para ir con ellos a Tarshísh de delante de יהוה.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y יהוה arrojó un gran viento hacia el mar, y hubo una gran tempestad en el mar, y el barco estuvo a punto de romperse.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y temieron los marineros, y clamaron cada hombre a su dios; y arrojaron los utensilios que estaban en el barco al mar para aligerar la carga de sobre ellos. Pero Yonáh había bajado a las partes extremas de la embarcación, y se había acostado y estaba profundamente dormido.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y se le acercó el marinero jefe, y le dijo: ¿Qué tienes, dormilón? ¡Levántate y llama a tu Elohim! Quizá Elohim piense en nosotros y no pereceremos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Y dijeron cada hombre a su compañero: Vengan, hagamos caer piedrecitas¹ y conozcamos por quién vino este mal a nosotros. E hicieron caer las piedrecitas, y cayó la piedrecita sobre Yonáh.",
+          "footnotes": [
+            {
+              "marker": "¹",
+              "number": "1",
+              "word": "piedrecitas",
+              "explanation": "Heb.: Goralot; unas piedras pequeñas lanzadas para tomar decisiones."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Y le dijeron: ¡Danos a conocer por favor por causa de quién este mal vino a nosotros! ¿Cuál es tu trabajo, y de dónde vienes? ¿Cuál es tu tierra y de qué pueblo eres?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y les dijo: Yo soy ivrí², y a יהוה, Elohim de los cielos, yo temo, que hizo el mar y la tierra seca.",
+          "footnotes": [
+            {
+              "marker": "²",
+              "number": "2",
+              "word": "ivrí",
+              "explanation": "Hebreo."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y temieron los hombre con gran temor, y le dijeron: ¿Qué es esto que has hecho? Porque sabían los hombres que de delante de יהוה él huía, porque él les había dado a conocer.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "Y le dijeron: ¿Qué te haremos?, y se aquietará el mar de sobre nosotros. Porque el mar iba e irrumpía.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 12,
+          "tth": "Y él les dijo: Álcenme y arrójenme al mar, y se aquietará el mar de sobre ustedes, porque yo sé que a causa de mí vino esta gran tempestad sobre ustedes.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 13,
+          "tth": "Y remaron los hombres para volver a la tierra seca, y no pudieron, porque el mar iba e irrumpía sobre ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 14,
+          "tth": "Y llamaron a יהוה, y dijeron: ¡Te rogamos, יהוה! Por favor, no perezcamos nosotros por la vida de este hombre, ni des sobre nosotros sangre inocente; porque Tú, יהוה, como te ha placido has hecho.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 15,
+          "tth": "Y alzaron a Yonáh y lo arrojaron al mar; y paró el mar de su furor.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 16,
+          "tth": "Y temieron los hombres con gran temor a יהוה, e hicieron³ un sacrificio para יהוה y prometieron votos.",
+          "footnotes": [
+            {
+              "marker": "³",
+              "number": "3",
+              "word": "hicieron",
+              "explanation": "Lit.: sacrificaron."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 17,
+          "tth": "Y designó יהוה un gran pez para tragarse a Yonáh; Y estuvo Yonáh en las entrañas del pez tres días y tres noches. Tefilah de Yonáh",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "E hizo tefilah⁴ Yonáh a יהוה su Elohim desde las entrañas del pez:",
+          "footnotes": [
+            {
+              "marker": "⁴",
+              "number": "4",
+              "word": "tefilah",
+              "explanation": "Oración, participación en juicio."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Y dijo:",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y me echaste a lo profundo, en el corazón de los mares, y la fluente⁵ me rodeó; todos tus oleajes rompedores y tus olas sobre mí pasaron.",
+          "footnotes": [
+            {
+              "marker": "⁵",
+              "number": "5",
+              "word": "fluente",
+              "explanation": "O, el río."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y yo dije: Fui expulsado de frente a tus ojos; sin embargo volveré a mirar hacia el Hejal⁶ de tu santidad.",
+          "footnotes": [
+            {
+              "marker": "⁶",
+              "number": "6",
+              "word": "Hejal",
+              "explanation": "Templo, Santuario."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Me rodearon las aguas hasta la garganta⁷, el abismo me rodeó, el alga⁸ se enredó a mi cabeza.",
+          "footnotes": [
+            {
+              "marker": "⁷",
+              "number": "7",
+              "word": "garganta",
+              "explanation": "Heb.: Néfesh."
+            },
+            {
+              "marker": "⁸",
+              "number": "8",
+              "word": "alga",
+              "explanation": "O, el junco."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "A los confines de los montes he descendido, la tierra puso sus barras detrás de mí para siempre; pero has hecho subir del hoyo mi vida, יהוה mi Elohim.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "Cuando se envolvió en oscuridad sobre mí mi ser, a יהוה recordé; y subirá a ti mi tefilah, al Hejal de tu santidad.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Los que prestan atención a vapores falsos su bondad abandonan;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "pero yo, con voz de confesión sacrificaré a ti.Lo que prometí, pagaré. La salvación es de יהוה.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y habló יהוה al pez, y vomitó a Yonáh en tierra seca. Yonáh en Ninevéh",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Y fue palabra de יהוה a Ionáh por segunda vez, diciendo:",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "Levántate, ve a Ninevéh, la gran ciudad, y proclama a ella la proclamación que Yo te hablo.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y se levantó Ionáh y fue a Ninevéh conforme a la palabra de יהוה. Y Ninevéh era una gran ciudad para Elohim, de un recorrido de tres días.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y comenzó Ionáh a entrar en la ciudad recorrido de un día, y proclamó, y dijo: ¡Aún cuarenta días y Ninevéh será derrocada⁹!",
+          "footnotes": [
+            {
+              "marker": "⁹",
+              "number": "9",
+              "word": "derrocada",
+              "explanation": "Lit.: volteada."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y creyeron los hombres de Ninevéh en Elohim, y proclamaron ayuno y se vistieron cilicio, desde el grande de ellos hasta el pequeño de ellos.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y alcanzó la palabra al rey de Ninevéh, y se levantó de su trono y quitó su esplendor¹⁰ de sobre sí, se cubrió cilicio y se sentó sobre ceniza¹¹.",
+          "footnotes": [
+            {
+              "marker": "¹⁰",
+              "number": "10",
+              "word": "esplendor",
+              "explanation": "O, su manto."
+            },
+            {
+              "marker": "¹¹",
+              "number": "11",
+              "word": "ceniza",
+              "explanation": "O, polvo."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 7,
+          "tth": "E hizo clamar y decir en Ninevéh, por decreto del rey y de sus grandes, diciendo: Ni hombre ni bestia, ni ganado ni rebaño probarán alguna cosa; no pastarán, y agua no beberán;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "y se cubrirán cilicio, el hombre y la bestia, y clamarán a Elohim con fuerza, y se volverá cada hombre de su mal camino y de la violencia que hay en sus palmas.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "¡Quién sabe si Elohim se vuelva y restaure al inicio y retorne del ardor de su nariz, y no perezcamos!",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y vio Elohim sus acciones, que se volvieron de su mal camino, y restauró al inicio Elohim acerca del mal que había hablado para hacerles, y no lo hizo. El descontento de Yonáh reprendido",
+          "footnotes": [],
+          "hebrew_terms": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "tth": "Pero esto fue malo para Yonáh, muy malo, y se enfureció.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 2,
+          "tth": "E hizo tefilah¹² a יהוה, y dijo: ¡Te suplico, יהוה! ¿No era esta mi palabra mientras estaba yo en mi tierra? Por eso me anticipé a huir a Tarshísh, porque sabía yo que tú eres El¹³ favorable y amoroso, largo de nariz y grande de bondad, y que restaura al original del mal.",
+          "footnotes": [
+            {
+              "marker": "¹²",
+              "number": "12",
+              "word": "tefilah",
+              "explanation": "Oración, participación en juicio."
+            },
+            {
+              "marker": "¹³",
+              "number": "13",
+              "word": "El",
+              "explanation": "Poderoso."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 3,
+          "tth": "Y ahora, יהוה, toma por favor mi aliento de mí, porque mejor es mi muerte que mi vida.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 4,
+          "tth": "Y dijo יהוה: ¿Haces bien en enfurecerte?",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 5,
+          "tth": "Y salió Yonáh de la ciudad y se sentó al este de la ciudad; e hizo para sí allí un cobertizo¹⁴ y se sentó debajo de él en la sombra, hasta que pudiera ver qué sucedería en la ciudad.",
+          "footnotes": [
+            {
+              "marker": "¹⁴",
+              "number": "14",
+              "word": "cobertizo",
+              "explanation": "O, una enramada. Heb.: Sucáh."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 6,
+          "tth": "Y dispuso יהוה Elohim un ricino¹⁵ y subió por encima de Yonáh para ser sombra sobre su cabeza y lo librara de su mal. Y se alegró Yonáh por el ricino con gran alegría.7 Pero dispuso Elohim un gusano al subir el amanecer del día siguiente, e hirió al ricino, y se secó.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 8,
+          "tth": "Y sucedió que cuando brilló el sol, dispuso Elohim un viento del este silencioso, e hirió el sol sobre la cabeza de Yonáh, y desfalleció¹⁶, y pidió a su ser morirse, y dijo: ¡Mejor es mi muerte que mi vida!",
+          "footnotes": [
+            {
+              "marker": "¹⁶",
+              "number": "16",
+              "word": "desfalleció",
+              "explanation": "Otra posible traducción es: y se cubrió."
+            }
+          ],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 9,
+          "tth": "Y dijo Elohim a Yonáh: ¿Haces bien en enfurecerte por el ricino? Y él dijo: Hago bien en enfurecerme hasta la muerte.",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 10,
+          "tth": "Y dijo יהוה: Tú te apiadaste por el ricino en el que no trabajaste, ni lo hiciste crecer, que era hijo de una noche, y siendo hijo de una noche, pereció;",
+          "footnotes": [],
+          "hebrew_terms": []
+        },
+        {
+          "verse": 11,
+          "tth": "¿y Yo no me apiadaré por Ninevéh, la gran ciudad, que hay en ella más de doce miríadas de¹⁷ hombres que no saben distinguir entre su derecha y su izquierda, y muchos animales?",
+          "footnotes": [
+            {
+              "marker": "¹⁷",
+              "number": "17",
+              "word": "de",
+              "explanation": "O, diez mil doce."
+            }
+          ],
+          "hebrew_terms": []
+        }
+      ]
+    }
+  ]
+}

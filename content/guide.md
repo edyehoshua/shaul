@@ -1,190 +1,87 @@
 ---
-title: "Guía para Crear Notas en Shaul"
-description: "Guía completa para crear y organizar notas bíblicas usando Obsidian y Quartz"
-date: 2025-11-23
-tags: [guia, obsidian, quartz, notas]
+title: "Guía v2 para Notas en Shaul"
+description: "Reglas prácticas para crear notas bíblicas con Obsidian + Quartz + Hermes"
+date: 2026-04-27
+tags: [guia, obsidian, quartz, hermes, notas]
+references: []
+sources: []
 ---
 
-# Guía para Crear Notas en Shaul
+# Guía v2 para Notas en Shaul
 
-Esta guía te ayudará a crear notas organizadas y efectivas para el estudio de las Escrituras usando Obsidian con Quartz.
+Esta guía define un marco simple para crear notas bíblicas conectadas entre sí, con estructura flexible por tema.
 
-## Estructura Básica de una Nota
+## Principios
 
-### Frontmatter (Encabezado YAML)
+- Enfocar toda nota en una pregunta o tesis concreta.
+- Conectar pasajes entre sí de forma trazable.
+- Priorizar claridad sobre volumen.
+- Mantener fidelidad textual en citas y fuentes.
 
-Todas las notas deben comenzar con un bloque de frontmatter:
+## Reglas de escritura
+
+- Usar יהוה cuando se escriba el Nombre.
+- Usar títulos claros y humanos (no solo una referencia de versículo).
+- Mantener referencias de versículos en `references` y en el cuerpo (ejemplo: `#ieshaiahu_53_5`).
+- Usar hebreo sin nikud por defecto.
+- Usar hebreo con nikud solo cuando haga falta para desambiguar.
+
+## Frontmatter recomendado
 
 ```yaml
 ---
-title: "Título descriptivo de la nota"
-description: "Breve descripción de 1-2 líneas"
-date: 2025-11-23
-tags: [categoria, subtema, autor]
+title: ""
+description: ""
+date: YYYY-MM-DD
+tags: []
+references: []
+sources: []
 ---
 ```
 
-### Elementos Obligatorios
-- **title**: Título claro y descriptivo
-- **description**: Resumen breve del contenido
-- **date**: Fecha en formato YYYY-MM-DD
-- **tags**: Lista de etiquetas relevantes
+## Estructura flexible por tema
 
-## Organización por Carpetas
+No hay plantilla fija obligatoria. Usa solo las secciones que el tema necesita:
 
-### Estructura Recomendada
+- Tesis
+- Texto base
+- Hoja de comparación
+- Conexiones Tanaj <-> Besorah
+- Observaciones lingüísticas
+- Conclusión
+- Pendientes de verificación
 
-```
-content/
-├── besorah/          # Buenas Noticias (Nuevo Testamento)
-│   ├── evangelios/
-│   ├── epístolas/
-│   └── _folder.md
-├── tanaj/           # Tanaj (Antiguo Testamento)
-│   ├── torah/
-│   ├── profetas/
-│   └── _folder.md
-├── temas/           # Temas teológicos
-│   ├── mesias/
-│   ├── ruaj/
-│   └── _folder.md
-└── guide.md         # Esta guía
-```
+## Comparación de textos
 
-## Sistema de Etiquetas
+Cuando el tema lo amerite, usar una tabla corta y legible:
 
-### Etiquetas Principales
+| Referencia     | Hebreo | Traducción ES (TTH) | Observación                |
+| -------------- | ------ | ------------------- | -------------------------- |
+| #tehilim_2_7   | ...    | ...                 | Filiación mesiánica        |
+| #matiyahu_3_17 | ...    | ...                 | Eco y expansión apostólica |
 
-- **Por sección bíblica**: `#besorah`, `#tanaj`, `#evangelios`, `#epistolas`
-- **Por autor**: `#shaul`, `#yahanan`, `#moshé`, `#dawid`
-- **Por tema**: `#mesias`, `#ruaj`, `#fe`, `#justicia`, `#amor`
-- **Por tipo**: `#estudio`, `#comentario`, `#reflexion`, `#pregunta`
+## Fuentes para investigación
 
-### Etiquetas Especiales
+Prioridad:
 
-- `#importante` - Notas clave
-- `#revisar` - Notas que necesitan actualización
-- `#borrador` - Notas en desarrollo
+1. https://yehoshuamaranata.blogspot.com
+2. https://www.youtube.com/@EricdeJes%C3%BAsRodr%C3%ADguezMendoza
+3. https://www.youtube.com/@SomosElCuerpodelMesias
+4. Investigación adicional cuando haga falta contexto
 
-## Formato y Elementos de Obsidian
+## Flujo con Hermes
 
-### Encabezados Jerárquicos
+1. Definir tema.
+2. Buscar fuente principal (blog o video).
+3. Extraer transcripción (API o fallback).
+4. Crear/actualizar nota en `content/`.
+5. Enlazar versículos y notas relacionadas.
+6. Registrar aprendizaje en `private/hermes/learning-log.md`.
 
-```markdown
-# Título Principal (H1 - solo uno por nota)
-## Sección Mayor (H2)
-### Subsección (H3)
-#### Detalle (H4)
+## Herramientas para transcripción
+
+```bash
+python3 scripts/hermes/fetch_transcript.py "https://www.youtube.com/watch?v=VIDEO_ID"
 ```
 
-**Ejemplo real:**
-
-# Estudio de [[bereshit_1]]
-## Contexto Histórico
-### Ubicación en la Torá
-#### Relación con capítulos posteriores
-
-### Texto Especial
-
-```markdown
-**Texto en negrita** - énfasis fuerte
-*Texto en cursiva* - énfasis suave
-==Texto resaltado== - conceptos importantes
-`código inline` - términos técnicos o hebreos
-```
-
-**Ejemplos reales:**
-En [[bereshit_1_1]], vemos que **Elohim** creó los cielos y la tierra. Este pasaje nos enseña que Dios es el *Creador soberano*. El concepto de ==creación ex nihilo== es fundamental. La palabra hebrea `ברא` (bara) significa "crear de la nada".
-
-### Callouts (Cajas de Información)
-
-> [!note]
-> Recuerda que el estudio de las Escrituras requiere paciencia y oración. No se trata solo de acumular conocimiento, sino de permitir que Ruaj Hakodesh transforme tu corazón.
-
-> [!warning]
-> Antes de interpretar un pasaje, asegúrate de leer el contexto completo del capítulo y libro. Una interpretación aislada puede llevar a conclusiones erróneas.
-
-> [!tip]
-> Usa la función de búsqueda de Obsidian (Ctrl+Shift+F) para encontrar todas las referencias a un tema específico en tus notas bíblicas.
-
-> [!question]
-> ¿Cómo aplicas personalmente las enseñanzas de Yeshúa en tu vida diaria? ¿Qué cambios concretos has hecho en respuesta a Su Palabra?
-
-> [!important]
-> La fe en Yeshúa como Mesías es el fundamento de toda la enseñanza neotestamentaria. Sin esta base, el resto de las Escrituras pierde su significado central.
-
-> [!quote]
-> "Porque de tal manera amó Elohim al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna." - Yojanán 3:16
-
-### Listas
-
-```markdown
-## Lista de puntos principales
-- Punto 1
-- Punto 2
-  - Subpunto 2.1
-  - Subpunto 2.2
-
-## Lista numerada para pasos
-1. Primer paso
-2. Segundo paso
-3. Tercer paso
-```
-
-### Tablas
-
-```markdown
-| Referencia | Tema | Conclusión |
-|------------|------|------------|
-| Romanos 3:21-26 | Justicia | Por fe en Yeshúa |
-| Efesios 2:8-9 | Salvación | Gracia, no obras |
-```
-
-**Ejemplo real:**
-
-| Versículo | Tema Principal | Aplicación |
-|-----------|----------------|------------|
-| [[bereshit_1_1]] | Creación | Dios como Creador |
-| [[romanos_3_21-26]] | Justicia | Salvación por fe |
-| [[tehillim_23]] | Pastor | Guía divina |
-
-## Enlaces y Referencias
-
-### Wikilinks Internos
-
-```markdown
-- Ver [[estudio-sobre-fe]] para más detalles
-- Comparar con [[justicia-de-elohim]]
-- Relacionado: [[mesias-en-tanaj]]
-```
-
-### Enlaces a Versículos
-
-```markdown
-- [[romanos_3_21-26]]
-- [[bereshit_1_1]]
-- [[tehillim_23]]
-```
-
-### Enlaces Externos
-
-```markdown
-- [Recursos adicionales](https://ejemplo.com)
-- Ver: https://biblioteca-teologica.org
-```
-
-## 📋 Checklist para Crear Notas
-
-- [ ] Frontmatter completo y correcto
-- [ ] Título descriptivo
-- [ ] Etiquetas apropiadas
-- [ ] Estructura clara con encabezados
-- [ ] Contenido organizado
-- [ ] Enlaces a notas relacionadas
-- [ ] Callouts para información importante
-- [ ] Preguntas para reflexión
-- [ ] Revisión de ortografía y formato
-
-
-> [!tip]
-Recuerda: Las notas son herramientas para profundizar en el conocimiento de las Escrituras y acercarte más a Yeshúa HaMashiaj.
+Si no hay transcripción directa, el script usa fallback con `yt-dlp`.

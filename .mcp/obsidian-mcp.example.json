@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "obsidian-mcp"
+      ],
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "/absolute/path/to/shaul/content",
+        "OBSIDIAN_API_KEY": "replace-with-your-obsidian-rest-api-key"
+      }
+    }
+  }
+}

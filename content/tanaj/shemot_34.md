@@ -1,16 +1,41 @@
 ---
-title: shemot 34
+title: "Shemot 34: jatá, avón y pesha"
+description: "Léxico base para leer Shemot 34 con énfasis en jatá, avón, pesha y términos relacionados de pureza"
 date: 2025-11-30
 tags:
   - tahor
   - tamé
-translation: BTX4
+  - shemot_34
+references:
+  - "#shemot_34_7"
+sources: []
+translation: "[BTX4]"
 ---
-# conceptos
-- jatá: fruto por una vida de torcedura, fallo, vivir en pecado; traducido como pecado
-- avón: raíz, base, torcedura, un camino cuando está empinado, inclinado; traducido como iniquidad
-- pesha: transgresión
-	- Yeshúa dijo que morirían en su pésha
-- joté: pecador por naturaleza (joteim)
-- tamé: inhabilitado, no apto
-- tahor: habilitado, apto, ordenado
+
+# Tesis
+
+Shemot 34 concentra un léxico clave sobre pecado e iniquidad, y esta nota lo complementa con términos relacionados de estado moral y pureza.
+
+## Texto base
+
+- #shemot_34_7
+
+## Léxico base
+
+| Hebreo    | Transliteración (es) | Significado            | Raíz | Sentido de la raíz      | Observación                                                                    |
+| --------- | -------------------- | ---------------------- | ---- | ----------------------- | ------------------------------------------------------------------------------ |
+| **(חטא)** | jatá                 | pecado, fallar         | חטא  | errar, fallar al blanco | Se presenta aquí como fruto de una vida de torcedura, fallo o vivir en pecado. |
+| **(עון)** | avón                 | iniquidad              | עוה  | torcer, doblar, desviar | Se entiende como raíz o base de una torcedura, como un camino inclinado.       |
+| **(פשע)** | pesha                | transgresión, rebelión | פשע  | rebelarse, quebrantar   | La nota lo resume como transgresión.                                           |
+
+## Términos relacionados
+
+| Hebreo     | Transliteración (es) | Significado                | Raíz | Sentido de la raíz       | Observación                                         |
+| ---------- | -------------------- | -------------------------- | ---- | ------------------------ | --------------------------------------------------- |
+| **(חוטא)** | joté                 | pecador                    | חטא  | errar, fallar al blanco  | Pecador por naturaleza; plural: joteim.             |
+| **(טמא)**  | tamé                 | inhabilitado, no apto      | טמא  | volverse impuro          | Se usa aquí para un estado de inhabilitación.       |
+| **(טהור)** | tahor                | habilitado, apto, ordenado | טהר  | purificar, quedar limpio | Se usa aquí para un estado de habilitación y orden. |
+
+## Observaciones
+
+- Yeshúa dijo que morirían en su pesha.

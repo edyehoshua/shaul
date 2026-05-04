@@ -1,30 +1,74 @@
 ---
-titlte: sodot 1
+title: "Sodot 1: Lo que debe suceder en breve"
+description: "Apuntes sobre Sodot 1:1 y 1:5-6 en torno a la brevedad del tiempo y los atributos confesados del Mesías"
 date: 2025-12-20
 tags:
   - sodot
+  - yom_yhvh
+references:
+  - "#sodot_1_1"
+  - "#sodot_1_5"
+  - "#sodot_1_6"
+  - "#ioel_2_31"
+  - "#malaji_4_5"
+  - "#ieshaiahu_55_4"
+  - "#devarim_7_9"
+  - "#tehilim_16_10"
+  - "#tehilim_89_27"
+  - "#tehilim_88_11"
+  - "#tehilim_2_8"
+  - "#devarim_23_6"
+sources: []
 translation: "[BTX4]"
 ---
-# #sodot_1_1
-- debe suceder
-	- en mi opinión se está refiriendo a #yom_yhvh **`יום יהוה`**
-	- es un día mencionado en varios profetas, hace mucho énfasis en ese día, inclusive es explicado por yeshua **`ישוע`** antes de ser crucificado
-	- #ioel_2_31 #malaji_4_5
-- en breve `τάχος: rapidez`
-	- si usamos la ingeniera inversa de la septuaginta de la palabra griega la palabra mas parecida en el hebreo seria **`מהרה`** mehera
-	- esto lo podemos enlazar con #sodot_1_7 en donde la expresión que viene con las nubes, que tambien ser refiere a #daniel_7_13 habla sobre rapidez, prontitud y no solo de rapidez sino en poco tiempo 
-	- en breve denota una cantidad corta de tiempo, esto nos puede dar un vistazo de como Elohim ve este período de tiempo, es decir el tiempo del mesías, para El, estos tiempos que estamos viviendo son muy corto, son breves.
-	- aunque #yom_yhvh esta en su corazón, es algo muy importante, El no se alegra en ejecutar una condena, por eso su ira se encenderá de forma muy breve.
-	- también podemos asociar esta palabra a la palabra hebrea **`כמעט`** que significa por un corto período de tiempo, un poco, pequeña cantidad, escasez. Adonai está indignado debido al pecado, pero esto es solo por un breve momento #tehilim_2_12 #ieshaiahu_26_20 
 
-# #sodot_1_5 #sodot_1_6
-En estos versículos podemos ver los 7 atributos de Elohim
-## sus atributos, también son atributos que sus hijos confesamos
-1. Testigo **`עד`** ed #ieshaiahu_55_4
-2. Fiel **`נאמן`** neeman #devarim_7_9
-3. Primogénito **`בכור`** bejor  de los muertos **`המתים`** hametim #tehilim_16_10 #tehilim_89_27 #tehilim_88_11
-4. Soberano de los reyes de la tierra #tehilim_2_8
-## sus atributos hacia nosotros, atributos que Él confiesa hacia nosotros
-5. Nos ama **`אהבנו`** ohavenu  #devarim_23_6
-6. Nos libertó de nuestro pecados con su sangre
-7. Nos hizo un reino de sacerdotes para Elohim y/es decir (el **y** acá es un recurso hebreo que se usa como **es decir**)Abá
+# Tesis
+
+Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día de יהוה, mientras que en 1:5-6 resume atributos que el Mesías manifiesta y confiesa hacia los suyos.
+
+## Texto base
+
+- #sodot_1_1
+- #sodot_1_5
+- #sodot_1_6
+
+## Observaciones por pasaje
+
+### Sodot 1:1
+
+- La expresión "debe suceder" se relaciona aquí con #yom_yhvh **(יום יהוה)**.
+- Es un día mencionado en varios profetas, con mucho énfasis, y también es explicado por Yeshua antes de ser crucificado.
+- Referencias asociadas en esta nota: #ioel_2_31 y #malaji_4_5.
+- La expresión "en breve" se entiende como rapidez, prontitud y también como un período corto de tiempo.
+- La nota enlaza esa brevedad con #sodot_1_7 y con #daniel_7_13 para subrayar que venir con las nubes no solo habla de rapidez sino también de cercanía temporal.
+- También se observa que, aunque #yom_yhvh está en su corazón, יהוה no se alegra en ejecutar condena; por eso su ira se encenderá de forma muy breve.
+- Esta lectura se conecta con #tehilim_2_12 y #ieshaiahu_26_20.
+
+### Léxico relacionado
+
+| Hebreo         | Transliteración (es) | Significado                                | Raíz | Sentido de la raíz |
+| -------------- | -------------------- | ------------------------------------------ | ---- | ------------------ |
+| **(יום יהוה)** | yom יהוה             | día de יהוה                                | יום  | día, jornada       |
+| **(מהרה)**     | mehera               | prontitud, rapidez                         | מהר  | apresurarse        |
+| **(כמעט)**     | kimat                | por poco tiempo, pequeña cantidad, escasez | מעט  | pequeñez, poco     |
+
+### Sodot 1:5-6
+
+- En estos versículos la nota reúne siete atributos de Elohim.
+
+#### Atributos confesados
+
+| Atributo       | Hebreo      | Transliteración (es) | Significado | Raíz | Sentido de la raíz          | Referencia                                   |
+| -------------- | ----------- | -------------------- | ----------- | ---- | --------------------------- | -------------------------------------------- |
+| Testigo        | **(עד)**    | ed                   | testigo     | —    | —                           | #ieshaiahu_55_4                              |
+| Fiel           | **(נאמן)**  | neeman               | fiel        | אמן  | firmeza, fidelidad          | #devarim_7_9                                 |
+| Primogénito    | **(בכור)**  | bejor                | primogénito | בכר  | primacía, primer nacimiento | #tehilim_16_10 #tehilim_89_27 #tehilim_88_11 |
+| De los muertos | **(המתים)** | hametim              | los muertos | מות  | morir                       | #tehilim_16_10 #tehilim_89_27 #tehilim_88_11 |
+| Nos ama        | **(אהבנו)** | ohavenu              | nos ama     | אהב  | amar                        | #devarim_23_6                                |
+
+#### Observaciones
+
+1. También se afirma que es soberano de los reyes de la tierra en relación con #tehilim_2_8.
+2. Nos libertó de nuestros pecados con su sangre.
+3. Nos hizo un reino de sacerdotes para Elohim y Abá.
+4. La nota aclara que el uso de "y" allí funciona como recurso hebreo en sentido de "es decir".
