@@ -8,6 +8,7 @@ export const Static: QuartzEmitterPlugin = () => ({
   name: "Static",
   async *emit({ argv, cfg }) {
     const staticPath = joinSegments(QUARTZ, "static")
+    const customIconPath = joinSegments("design", "logo.png") as FilePath
     const fps = await glob("**", staticPath, cfg.configuration.ignorePatterns)
     const outputStaticPath = joinSegments(argv.output, "static")
     await fs.promises.mkdir(outputStaticPath, { recursive: true })
@@ -17,6 +18,15 @@ export const Static: QuartzEmitterPlugin = () => ({
       await fs.promises.mkdir(dirname(dest), { recursive: true })
       await fs.promises.copyFile(src, dest)
       yield dest
+    }
+
+    try {
+      await fs.promises.access(customIconPath, fs.constants.R_OK)
+      const outputIconPath = joinSegments(outputStaticPath, "icon.png") as FilePath
+      await fs.promises.copyFile(customIconPath, outputIconPath)
+      yield outputIconPath
+    } catch {
+      // Keep the default Quartz icon when no custom logo is provided.
     }
   },
   async *partialEmit() {},

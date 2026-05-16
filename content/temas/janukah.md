@@ -1,50 +1,57 @@
 ---
 title: "Janucá: rehabilitación, memoria y expectativa mesiánica"
-description: "Borrador ordenado sobre Janucá, la rehabilitación del templo y la expectativa mesiánica asociada"
-date: 2026-05-02
+description: "Apuntes sobre Janucá, la rehabilitación del templo, la helenización y la expectativa mesiánica alrededor de Yeshua"
+date: 2026-05-16
 tags:
   - janukah
   - templo
   - macabeos
+  - helenizacion
 references:
   - "#tehilim_30"
+  - "#iojanan_10_22"
+  - "#iojanan_10_24"
 sources: []
 ---
 
 # Tesis
 
-Janucá aparece aquí como la rehabilitación del templo y la memoria de la santidad en un contexto de helenización, junto con una expectativa mesiánica que podía confundirse con una liberación militar.
+Janucá aparece aquí como la rehabilitación del templo y la memoria de la santidad en un contexto de helenización, y también como un marco para entender la expectativa mesiánica equivocada que algunos proyectaban sobre Yeshua.
 
 ## Contexto histórico
 
-- Junio 3ro es el ultimo sacerdote del linaje de Aharon; estaban siendo muy influenciados por la cultura griega (seleucidas).
-- Iazon era la manera de decir Yeshua. Iazon le quitó el puesto a su hermano, Junio 3ro. En estos momentos estaba Antioco Epifanes y puso como cohen gadol a Menelao.
-- Menelao tomó del tesoro del templo, por eso se formaron grupos para preservar la toráh; de allí vienen los jazidim (primeros fariseos).
-- En tiempo de Menelao estaba matiyahu y tuvo un hijo, yehuda, quien comenzó la revuelta en contra de la helenización de Israel.
-- Antioco Epifanes hacía guerra contra Adonai, contra la toráh.
-- Fueron 23 años de lucha en contra de los seleucidas.
-
-## Términos
-
-- Janucáh: habilitación; en el caso del templo fue la rehabilitación.
-- Janaj: estrenar, educar, habilitar.
+- La crisis se describe desde el último tramo del sacerdocio aarónico en medio de una fuerte influencia griega, especialmente seléucida.
+- Jasón, Menelao y Antíoco Epífanes aparecen en la nota como figuras de desplazamiento, saqueo y profanación del templo.
+- Menelao tomó del tesoro del templo, y ese deterioro impulsó grupos de resistencia dedicados a preservar la torá.
+- La familia de Matitiyahu y Yehudá Macabeo encarna la revuelta contra la helenización de Israel.
+- La lucha no se presenta solo como conflicto político, sino como guerra contra Adonai y contra la torá.
+- La nota resume el período como una lucha prolongada de 23 años contra el dominio seléucida.
 
 ## Texto base
 
 - #tehilim_30
-- Salmo 30, profético, relacionado a la rehabilitación de la casa.
-- Habla sobre Zejer Kodsho: recuerdo de su santidad, traer a la memoria su santidad.
-- Es como un souvenir, modelo de lo que está en los cielos.
-- Todah: confesar.
+- #iojanan_10_22
+- #iojanan_10_24
 
-## Observaciones
+## Términos
 
-- Los fariseos tenían la idea de que el Mesias era un soldado que vendría a pelear en contra del imperio romano.
-- Por eso en Janucá le preguntan a Yeshua si Él era el Mesias, es decir, así como Iehuda Macabeo.
-- Yeshua no responde de forma afirmativa para no validar esa idea equivocada que ellos tenían.
+- Janucá: habilitación; en el caso del templo, rehabilitación.
+- Janaj: estrenar, educar, habilitar.
+
+## Salmo 30 y la memoria de la santidad
+
+- La nota lee #tehilim_30 como un salmo profético relacionado con la rehabilitación de la casa.
+- Zejer Kodsho se entiende como memoria de su santidad: traer a la memoria lo que Adonai santificó.
+- Esa memoria funciona como recordatorio visible de un modelo celestial.
+- Todah se asocia aquí con confesar y reconocer públicamente.
+
+## Observaciones mesiánicas
+
+- Parte del trasfondo de Janucá alimentó la expectativa de un mesías militar parecido a Yehudá Macabeo.
+- Por eso la pregunta a Yeshua en #iojanan_10_24 se entiende como una presión para que se identifique con ese modelo.
+- La nota subraya que Yeshua no valida esa expectativa equivocada, aunque sí confronta la incredulidad de quienes no oyen su voz.
 
 ## Pendiente de verificar
 
-- [ ] Revisar nombres propios y secuencia histórica.
-- [ ] Añadir referencias explícitas para los eventos mencionados en Janucá.
-- [ ] Confirmar si Salmo 30 será el único texto base o si el apunte original requiere más referencias.
+- [ ] Revisar los nombres propios transliterados y la secuencia histórica precisa entre Jasón, Menelao y Antíoco Epífanes.
+- [ ] Añadir una fuente histórica explícita para la cronología macabea resumida en la nota.

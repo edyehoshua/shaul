@@ -1,28 +1,35 @@
 ---
 title: "Sodot 7: cuatro vientos y cuatro confines"
-description: "Apuntes sobre Sodot 7:1 y la relación entre los cuatro vientos y los cuatro confines de la tierra"
-date: 2025-12-06
+description: "Apuntes sobre Sodot 7 en relación con los cuatro vientos, los sellados y el remanente de Israel"
+date: 2026-05-16
 tags:
   - sodot
+  - remanente
+  - sellados
 references:
   - "#sodot_7_1"
+  - "#sodot_7_3"
+  - "#sodot_7_4"
   - "#ieshaiahu_11_12"
   - "#iejezkel_7_2"
   - "#iyob_37_3"
   - "#iyob_38_13"
   - "#bamidbar_13_29"
   - "#zejariah_6_5"
+  - "#iejezkel_9_4"
+  - "#iejezkel_9_6"
 sources: []
-translation: "[NBLA]"
 ---
 
 # Tesis
 
-Sodot 7:1 usa la imagen de los cuatro vientos y los cuatro confines para hablar tanto de toda la tierra como, según el contexto, de la tierra de Israel.
+Sodot 7 presenta los cuatro vientos y los cuatro confines como lenguaje profético sobre la tierra de Israel y el remanente sellado que יהוה preserva en medio del juicio.
 
 ## Texto base
 
 - #sodot_7_1
+- #sodot_7_3
+- #sodot_7_4
 
 ## Observación principal
 
@@ -63,3 +70,25 @@ Después de esto, vi a cuatro ángeles de pie en los cuatro extremos de la tierr
 ### Español
 
 Y el ángel me contestó: «Estos son los cuatro vientos **(רוחות)** del cielo que salen después de presentarse ante el Señor de toda la tierra».
+
+## Los sellados y la marca
+
+- La nota conecta #sodot_7_3 con #iejezkel_9_4-6: el remanente es marcado antes de que avance el juicio.
+- La tav se entiende como marca o señal, no como una cruz.
+- Tierra, mar y árboles no se toman aquí de manera literal, sino como lenguaje sobre personas, pueblos y estructuras humanas.
+
+## Remanente y tribus
+
+- El refreno de los vientos muestra que a los imperios no se les permite destruir del todo al remanente de Israel.
+- La fidelidad de יהוה a su palabra juramentada sostiene a ese remanente.
+- La ausencia de Dan en la lista no se lee como desecho definitivo, porque la nota la contrasta con la herencia de Dan en Ezequiel.
+
+## Sobre los 144000
+
+- La cifra se toma como simbólica.
+- La nota relaciona la medida del altar con la imagen de 144000 para mostrar pertenencia sacrificial y preservación en el Cordero.
+
+## Símbolos finales
+
+- Mano derecha: obras.
+- Frente: corazón.

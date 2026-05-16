@@ -115,8 +115,17 @@ async function generateSocialImage(
   userOpts: SocialImageOptions,
 ): Promise<Readable> {
   const { width, height } = userOpts
-  const iconPath = joinSegments(QUARTZ, "static", "icon.png")
+  const customIconPath = joinSegments("design", "logo.png")
+  const defaultIconPath = joinSegments(QUARTZ, "static", "icon.png")
+  let iconPath = defaultIconPath
   let iconBase64: string | undefined = undefined
+  try {
+    await fs.access(customIconPath)
+    iconPath = customIconPath
+  } catch {
+    // Fall back to the default Quartz icon when no custom logo is present.
+  }
+
   try {
     const iconData = await fs.readFile(iconPath)
     iconBase64 = `data:image/png;base64,${iconData.toString("base64")}`
