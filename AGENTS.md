@@ -37,7 +37,7 @@ This repository is a study workspace to connect Scripture with Scripture in the 
 - Keep frontmatter field names in English schema keys, but write human-facing note content in Spanish.
 - Prefer the local in-repo scripture corpus in docs/scriptures/ before remote scripture fetches when the passage already exists locally.
 - Local scripture layout is docs/scriptures/oe/json/, docs/scriptures/tth/json/, and docs/scriptures/delitzsch/json/.
-- Use Davar JSON sources: data/oe/<book>/<chapter>.json, data/tth_2/json/<book>.json, and data/delitzsch/*.json.
+- Use Davar JSON sources: data/oe/<book>/<chapter>.json, data/tth_2/json/<book>.json, and data/delitzsch/\*.json.
 - For TTH, prefer data/tth_2/json rather than the older data/tth tree.
 - If a note directly discusses a verse, extract the verse into a comparison sheet from the local corpus when available; use shafan.xyz only as fallback when the local corpus is missing that passage.
 - Add frontmatter fields:
