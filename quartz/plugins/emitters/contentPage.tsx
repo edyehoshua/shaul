@@ -11,13 +11,12 @@ import { Content } from "../../components"
 import { styleText } from "util"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
-import { Node } from "unist"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
 
 async function processContent(
   ctx: BuildCtx,
-  tree: Node,
+  tree: QuartzComponentProps["tree"],
   fileData: QuartzPluginData,
   allFiles: QuartzPluginData[],
   opts: FullPageLayout,
@@ -117,12 +116,12 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
-        
+
         // Skip _folder.md files - they should not be processed as content pages
         if (file.data.filePath && file.data.filePath.endsWith("_folder.md")) {
           continue
         }
-        
+
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
 
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)

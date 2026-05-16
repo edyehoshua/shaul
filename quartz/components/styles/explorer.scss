@@ -30,9 +30,8 @@
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
-
-  min-height: 1.2rem;
-  flex: 0 1 auto;
+  min-height: 0;
+  flex: 1 1 auto;
   &.collapsed {
     flex: 0 1 1.2rem;
     & .fold {
@@ -113,6 +112,8 @@ button.desktop-explorer {
   overflow: hidden;
   overflow-y: auto;
   margin-top: 0.5rem;
+  min-height: 0;
+  flex: 1 1 auto;
 
   & ul {
     list-style: none;
@@ -136,6 +137,7 @@ button.desktop-explorer {
     visibility: collapse;
     display: grid;
     grid-template-rows: 0fr;
+    overflow: hidden;
     transition-property: grid-template-rows, visibility;
     transition-duration: 0.3s;
     transition-timing-function: ease-in-out;
@@ -147,7 +149,6 @@ button.desktop-explorer {
   }
 
   .folder-outer > ul {
-    overflow: hidden;
     margin-left: 6px;
     padding-left: 0.8rem;
     border-left: 1px solid var(--lightgray);

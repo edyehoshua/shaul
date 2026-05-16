@@ -218,6 +218,8 @@ a {
       display: flex;
       height: 100vh;
       position: sticky;
+      overflow-y: auto;
+      overscroll-behavior: contain;
     }
 
     & .sidebar.left {
