@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "quartz-build-validation",
+      "type": "shell",
+      "command": "npm",
+      "args": ["run", "build"],
+      "isBackground": false,
+      "group": "build"
+    },
+    {
+      "label": "task-probe-write-file",
+      "type": "shell",
+      "command": "sh",
+      "args": ["-c", "pwd > /Users/jhonny/shaul/.quartz-cache/task-probe.txt"],
+      "isBackground": false
+    },
+    {
+      "label": "diagnose-ben-hijo",
+      "type": "shell",
+      "command": "npx",
+      "args": ["tsx", "/Users/jhonny/shaul/.quartz-cache/diagnose-ben-hijo.ts"],
+      "isBackground": false
+    },
+    {
+      "label": "task-probe-root-file",
+      "type": "shell",
+      "command": "sh",
+      "args": ["-c", "pwd > /Users/jhonny/shaul/task-probe.txt"],
+      "isBackground": false
+    },
+    {
+      "label": "remove-diagnose-ben-hijo",
+      "type": "shell",
+      "command": "/bin/rm",
+      "args": ["-f", "/Users/jhonny/shaul/.quartz-cache/diagnose-ben-hijo.ts"],
+      "isBackground": false
+    }
+  ]
+}

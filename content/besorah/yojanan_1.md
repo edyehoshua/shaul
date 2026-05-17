@@ -40,6 +40,10 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 - #iojanan_1_32
 - #iojanan_1_34
 
+## Conexiones
+
+- [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias)
+
 ## Reshit, logos y meymrá
 
 - La nota distingue la idea griega de logos de la connotación semítica de meymrá.

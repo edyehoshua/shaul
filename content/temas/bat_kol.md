@@ -85,6 +85,10 @@ La bat kol identifica a Yeshua como Hijo, Siervo y Escogido, y los relatos de la
 1. [Qué es la bat kol](https://www.jewishencyclopedia.com/articles/2651-bat-kol)
 2. [Qué es derash o drash](https://jewishencyclopedia.com/articles/3263-bible-exegesis#anchor2)
 
+## Ver también
+
+- [Ben, Bar Enash y el Hijo de Elohim](ben_hijo_titulos_mesias)
+
 ## Créditos
 
 [# 2 Pedro (parte 5) Cap 1E](https://www.youtube.com/live/jHd1MqzfcNo?si=n9xNtiGFJ-6sCFJH)
