@@ -26,10 +26,10 @@ Hoshea 6 confronta una religiosidad de sacrificio sin conocimiento real de Elohi
 
 ## Hoja de comparación
 
-| Referencia  | Hebreo                                                            | Traducción actual en la nota                                                      | Observación                                            |
-| ----------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| #hoshea_6_6 | **(כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת)** | Porque fidelidad quiero y no sacrificios, conocimiento de Elohim y no holocaustos | La nota enfatiza que Elohim quiere jesed y daat de Él. |
-| #hoshea_6_7 | **(וְהֵמָּה כְּאָדָם עָבְרוּ בְרִית שָׁם בָּגְדוּ בִי)**          | Ellos transgredieron mi pacto como Adam; allí me fueron infieles                  | La nota enfoca la transgresión del pacto.              |
+| Referencia  | Hebreo                                                            | TTH local                                                                                   | Observación                                            |
+| ----------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| #hoshea_6_6 | **(כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת)** | Porque bondad deseo, y no sacrificio, y conocimiento de Elohim más que ofrendas ascendidas. | La nota enfatiza que Elohim quiere jesed y daat de Él. |
+| #hoshea_6_7 | **(וְהֵמָּה כְּאָדָם עָבְרוּ בְרִית שָׁם בָּגְדוּ בִי)**          | Pero ellos, como Adam, pasaron por encima del pacto, allí me han traicionado.               | La nota enfoca la transgresión del pacto.              |
 
 ## Léxico base
 
@@ -50,7 +50,3 @@ Hoshea 6 confronta una religiosidad de sacrificio sin conocimiento real de Elohi
 - #malaji_2_10
 - #ieshaiahu_24_5
 - #romanim_1_21
-
-## Pendiente de verificar
-
-- [ ] Sustituir la columna de traducción actual por TTH trazada directamente desde shafan.xyz.

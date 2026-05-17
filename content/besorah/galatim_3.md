@@ -20,6 +20,16 @@ Galatim 3 se lee aquí no como desprecio de la torá, sino como exposición de l
 - #galatim_3_13
 - #iejezkel_36_27
 
+## Texto TTH disponible
+
+| Referencia      | TTH local                                                                                                      | Observación                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| #iejezkel_36_27 | Y mi Rúaj daré en medio de ustedes y haré que anden en mis decretos, y mis procesos legales guardarán y harán. | Este es el anclaje local que la nota usa para la promesa del Ruaj dentro del pueblo. |
+
+## Pendiente de fuente local
+
+- No hay un archivo local de TTH para #galatim_3_13 en docs/scriptures/tth/json, así que esta nota todavía no puede incorporar ese versículo desde el corpus local del repositorio.
+
 ## Observaciones
 
 - La expresión común "maldición de la ley" se discute aquí en clave de desprecio o deshonra.

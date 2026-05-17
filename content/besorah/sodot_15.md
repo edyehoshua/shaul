@@ -20,6 +20,13 @@ Sodot 15 se conecta aquí con las plagas de Mitzraim para mostrar que el juicio 
 
 - #sodot_15_1
 
+## Texto TTH disponible
+
+| Referencia     | Texto TTH                                                                                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #sodot_15_1    | Y vi otra señal en los cielos, grande y maravillosa: siete mensajeros que tenían las siete plagas postreras, porque en ellas ha sido consumada la indignación de Elohim. |
+| #tehilim_78_49 | Envió en ellos el calor de su nariz, desbordamiento, indignación y estrechez, una delegación de mensajeros malos.                                                        |
+
 ## Observaciones
 
 - Las primeras tres plagas se recuerdan como comunes a Egipto, y las restantes como concentradas sobre Egipto.

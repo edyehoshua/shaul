@@ -29,6 +29,16 @@ Vaikra 21 establece límites de pureza para el kohen y protege la santidad del s
 - #vaikra_21_6
 - #vaikra_21_9
 
+## Texto TTH disponible
+
+| Referencia   | Texto                                                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #vaikra_21_1 | "Y dijo יהוה a Moshéh: Di a los sacerdotes hijos de Aharón, y diles: 'Por néfesh no se impurifiquen en su pueblo,'"                                                |
+| #vaikra_21_3 | "y por su hermana virgen, cercana a él, que no tuvo esposo para sí, puede impurificarse."                                                                          |
+| #vaikra_21_4 | "No se impurificará un marido en su pueblo para profanarse."                                                                                                       |
+| #vaikra_21_6 | "Kedoshim serán para su Elohim, y no profanarán el Nombre de su Elohim, porque ofrendas de fuego de יהוה, el pan de su Elohim, ellos acercarán, y serán santidad." |
+| #vaikra_21_9 | "Y la hija de un hombre sacerdote, cuando profane para prostitución, a su padre ella ha profanado; en el fuego será quemada."                                      |
+
 ## Léxico base
 
 - tame **(טמא)**: estado opuesto al kodesh; impureza ritual.

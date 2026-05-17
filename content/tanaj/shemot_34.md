@@ -20,6 +20,12 @@ Shemot 34 concentra un léxico clave sobre pecado e iniquidad, y esta nota lo co
 
 - #shemot_34_7
 
+## Texto TTH disponible
+
+| Referencia   | Texto                                                                                                                                                                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #shemot_34_7 | "Guarda bondad a miles, soporta la iniquidad, la transgresión y el pecado; y absolviendo, no absuelve. Recuerda la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos sobre las terceras y sobre las cuartas generaciones." |
+
 ## Léxico base
 
 | Hebreo    | Transliteración (es) | Significado            | Raíz | Sentido de la raíz      | Observación                                                                    |

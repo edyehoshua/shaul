@@ -21,15 +21,11 @@ Ieshaiahu 13:10 presenta el oscurecimiento de los cielos como señal de juicio, 
 
 ## Hoja de comparación
 
-| Referencia       | Hebreo                                                                                                                      | Traducción actual en la nota                                                                                                                  | Observación                             |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| #ieshaiahu_13_10 | **(כִּי כוֹכְבֵי הַשָּׁמַיִם וּכְסִילֵיהֶם לֹא יָהֵלּוּ אוֹרָם חָשַׁךְ הַשֶּׁמֶשׁ בְּצֵאתוֹ וְיָרֵחַ לֹא יַגִּיהַ אוֹרוֹ)** | Las estrellas de los cielos y el Orión y el ejército de los cielos no darán luz; el sol se oscurecerá al salir y la luna no dará su esplendor | La nota lo enlaza con el cuarto shofar. |
+| Referencia       | Hebreo                                                                                                                      | TTH local                                                                                                                                   | Observación                             |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| #ieshaiahu_13_10 | **(כִּי כוֹכְבֵי הַשָּׁמַיִם וּכְסִילֵיהֶם לֹא יָהֵלּוּ אוֹרָם חָשַׁךְ הַשֶּׁמֶשׁ בְּצֵאתוֹ וְיָרֵחַ לֹא יַגִּיהַ אוֹרוֹ)** | Porque las estrellas del cielo y sus constelaciones no destellarán su luz; se oscurecerá el sol en su salida, y la luna no brillará su luz. | La nota lo enlaza con el cuarto shofar. |
 
 ## Observaciones
 
 > [!important]
 > 4to shofar
-
-## Pendiente de verificar
-
-- [ ] Sustituir la traducción actual por TTH trazada directamente desde shafan.xyz.

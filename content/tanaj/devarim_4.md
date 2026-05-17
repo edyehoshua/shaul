@@ -20,6 +20,13 @@ Devarim 4 advierte que Israel no recibió una temunah visible de Elohim y por es
 - #devarim_4_15
 - #bamidbar_12_7
 
+## Hoja de comparación
+
+| Referencia     | TTH local                                                                                                                         | Observación                                                                    |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| #devarim_4_15  | Y guarden mucho sus vidas, porque no vieron ninguna apariencia en el día que habló יהוה a ustedes en Joreb de en medio del fuego; | La tesis parte de que Israel no recibió una temunah visible de Elohim.         |
+| #bamidbar_12_7 | No así mi siervo Moshéh, en toda mi casa fiel es él.                                                                              | La referencia acompaña la idea de manifestación y fidelidad dentro de la casa. |
+
 ## Observaciones
 
 - Temunah se trabaja como apariencia o manifestación, más que como simple figura material.

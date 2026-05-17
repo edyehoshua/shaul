@@ -34,6 +34,17 @@ Vaikra 22 ordena la relación entre pureza e impureza en el servicio sacerdotal,
 - #vaikra_22_9
 - #vaikra_22_10
 
+## Texto TTH disponible
+
+| Referencia    | Texto                                                                                                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #vaikra_22_2  | "Habla a Aharón y a sus hijos que se aparten de las cosas sagradas de los hijos de Israel, y no profanen el Nombre de mi Santidad, las cuales ellos consagran para Mí; Yo soy יהוה."                                                  |
+| #vaikra_22_3  | "Diles: 'Por sus generaciones, todo hombre que se acerque, de toda su simiente, hacia las santidades que consagran los hijos de Israel a יהוה, y su impureza está sobre él, será cortada esa persona de delante de Mí. Yo soy יהוה.'" |
+| #vaikra_22_4  | "Cada hombre de la simiente de Aharón, y él es tzarúa o tiene goteo, de las santidades no podrá comer hasta que sea puro. Y el que toque cualquier impureza de néfesh, o un hombre del cual salga una emisión de semen,"              |
+| #vaikra_22_6  | "la persona que toque ello será impuro hasta el atardecer, y no comerá de las santidades, solo si lava su carne con agua."                                                                                                            |
+| #vaikra_22_9  | "Y guardarán mi proceso legal, y no carguen sobre sí pecado, y mueran por ello porque lo profanen; Yo soy יהוה que los santifico."                                                                                                    |
+| #vaikra_22_10 | "Y cualquier extraño no comerá santidad; habitante del sacerdote y asalariado no comerá santidad."                                                                                                                                    |
+
 ## Observaciones por pasaje
 
 ### #vaikra_22_2

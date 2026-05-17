@@ -37,6 +37,21 @@ Mishlei 1 presenta un léxico de formación espiritual donde daat, musar y reshi
 - #mishlei_1_13
 - #mishlei_1_14
 
+## Texto TTH disponible
+
+| Referencia    | TTH local                                                                                            |
+| ------------- | ---------------------------------------------------------------------------------------------------- |
+| #mishlei_1_2  | para conocer sabiduría y disciplina, para discernir dichos de discernimiento,                        |
+| #mishlei_1_3  | para recibir disciplina, actuando prudentemente, justicia, juicio y rectitudes;                      |
+| #mishlei_1_4  | para dar a los ingenuos astucia, al joven, conocimiento y pensamientos de consejo.                   |
+| #mishlei_1_7  | El temor de יהוה es el principio del conocimiento, sabiduría y disciplina los tontos desprecian.     |
+| #mishlei_1_8  | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah (instrucción) de tu madre,      |
+| #mishlei_1_10 | Hijo mío, si te persuaden los pecadores, no consientas.                                              |
+| #mishlei_1_11 | Si dicen: Ven con nosotros, estemos al asecho para derramar sangre, vigilemos sin causa al inocente, |
+| #mishlei_1_12 | traguémonoslos como el Sheol, vivos, y enteros, como los que descienden al pozo;                     |
+| #mishlei_1_13 | toda riqueza valiosa hallaremos, llenaremos nuestras casas de botín;                                 |
+| #mishlei_1_14 | tu goral has caer en medio de nosotros, todos tendremos una bolsa.                                   |
+
 ## Léxico base
 
 | Hebreo       | Transliteración (es) | Significado                      | Raíz | Sentido de la raíz            | Observación                                                                                                                                                                         |

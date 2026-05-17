@@ -24,9 +24,9 @@ Ieshaiahu 19:1 presenta juicio sobre Mitsraim con la imagen de יהוה entrando
 
 ## Hoja de comparación
 
-| Referencia      | Hebreo (resumen)                                                                               | Observación                       |
-| --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------- |
-| #ieshaiahu_19_1 | Masa de Mitsraim; יהוה viene sobre nube veloz; ídolos tiemblan; corazón de Mitsraim se derrite | La nota destaca rapidez y juicio. |
+| Referencia      | TTH local                                                                                                                | Observación                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| #ieshaiahu_19_1 | Carga de Mitzráim. He aquí, יהוה monta sobre una nube ligera y entra a Mitzráim; y se conmoverán los ídolos de Mitzráim. | La nota destaca rapidez y juicio. |
 
 ## Observaciones
 
@@ -37,7 +37,3 @@ Ieshaiahu 19:1 presenta juicio sobre Mitsraim con la imagen de יהוה entrando
 
 - #sodot_11_8
 - #daniel_7_13
-
-## Pendiente de verificar
-
-- [ ] Añadir cita hebrea completa de #ieshaiahu_19_1 desde la fuente local para la hoja de comparación.

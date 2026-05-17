@@ -23,6 +23,14 @@ Ieshaiahu 28 expone un liderazgo embriagado y deshonrado que ya no sostiene el m
 - #ieshaiahu_28_7
 - #ieshaiahu_28_9
 
+## Texto TTH disponible
+
+| Referencia      | TTH local                                                                                                                                                                                                                                                                           |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ieshaiahu_28_1 | ¡Oy, corona de orgullo de los ebrios de Efráim, y flor marchita, la gloria de su hermosura, que está sobre la cabeza del valle de grosuras, convertidos del vino!                                                                                                                   |
+| #ieshaiahu_28_7 | También estos por el vino han errado, y por la bebida embriagante se han extraviado; el sacerdote y el profeta han errado por la bebida embriagante, fueron tragados por el vino, se han extraviado por la bebida embriagante; han errado en la visión, se han extraviado juzgando. |
+| #ieshaiahu_28_9 | ¿A quién instruirá conocimiento, y a quién hará entender lo escuchado? ¿A los destetados de leche, a los quitados de los pechos?                                                                                                                                                    |
+
 ## Observaciones
 
 - Tzitz se relaciona aquí tanto con la flor marchita como con la placa deshonrada del sumo sacerdote.

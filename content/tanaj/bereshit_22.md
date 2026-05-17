@@ -27,9 +27,9 @@ El sacrificio de Itzjak se toma aquí desde Bereshit 22:9 y se conecta con la id
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo                                                                                                                                                                                                        | Traducción actual en la nota    | Observación                                      |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------ |
-| #bereshit_22_9 | **(וַיָּבֹאוּ אֶל הַמָּקוֹם אֲשֶׁר אָמַר לוֹ הָאֱלֹהִים וַיִּבֶן שָׁם אַבְרָהָם אֶת הַמִּזְבֵּחַ וַיַּעֲרֹךְ אֶת הָעֵצִים וַיַּעֲקֹד אֶת יִצְחָק בְּנוֹ וַיָּשֶׂם אֹתוֹ עַל הַמִּזְבֵּחַ מִמַּעַל לָעֵצִים)** | a causa del acto traidor? me'al | La nota deja abierta la observación sobre me'al. |
+| Referencia     | Hebreo                                                                                                                                                                                                        | TTH local                                                                                                                                                          | Observación                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| #bereshit_22_9 | **(וַיָּבֹאוּ אֶל הַמָּקוֹם אֲשֶׁר אָמַר לוֹ הָאֱלֹהִים וַיִּבֶן שָׁם אַבְרָהָם אֶת הַמִּזְבֵּחַ וַיַּעֲרֹךְ אֶת הָעֵצִים וַיַּעֲקֹד אֶת יִצְחָק בְּנוֹ וַיָּשֶׂם אֹתוֹ עַל הַמִּזְבֵּחַ מִמַּעַל לָעֵצִים)** | Y entraron al lugar que le dijo Elohim, y edificó allí Abraham el altar, y ordenó la madera, y ató a Itzjak su hijo, y lo puso sobre el altar arriba de la madera. | La nota puede observar me'al desde el hebreo mientras conserva el verso completo en TTH local. |
 
 ## Léxico base
 
@@ -46,7 +46,3 @@ El sacrificio de Itzjak se toma aquí desde Bereshit 22:9 y se conecta con la id
 - #ivrim_9_4
 - #matiyahu_23_37
 - #ieshaiahu_6_2
-
-## Pendiente de verificar
-
-- [ ] Sustituir la traducción actual por TTH trazada directamente desde shafan.xyz.

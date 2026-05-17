@@ -18,6 +18,12 @@ Mishlei 3 presenta aquí la orden de no olvidar la instrucción, con jayim y sha
 
 - #mishlei_3_1
 
+## Texto TTH disponible
+
+| Referencia   | Texto TTH                                                                |
+| ------------ | ------------------------------------------------------------------------ |
+| #mishlei_3_1 | Hijo mío, no olvides mi Torah, y mis mandamientos atesora en tu corazón. |
+
 ## Observaciones
 
 - "Hijo mío" se entiende como lenguaje dirigido al pueblo de Israel.

@@ -22,9 +22,9 @@ Devarim 22:12 se toma aquí como base para pensar los tzitzit, y la nota añade 
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo                                                                                   | Traducción actual en la nota                                        | Observación                                                     |
-| -------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
-| #devarim_22_12 | **(גְּדִלִים תַּעֲשֶׂה לָּךְ עַל אַרְבַּע כַּנְפוֹת כְּסוּתְךָ אֲשֶׁר תְּכַסֶּה בָּהּ)** | Te harás flecos sobre los cuatro bordes del manto con que te cubres | La nota pone énfasis en la expresión "manto con que te cubres". |
+| Referencia     | Hebreo                                                                                   | TTH local                                                                                    | Observación                                                              |
+| -------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| #devarim_22_12 | **(גְּדִלִים תַּעֲשֶׂה לָּךְ עַל אַרְבַּע כַּנְפוֹת כְּסוּתְךָ אֲשֶׁר תְּכַסֶּה בָּהּ)** | Hilos trenzados harás para ti en las cuatro esquinas de tu vestidura, con la cual te cubres. | La nota pone énfasis en la expresión "vestidura, con la cual te cubres". |
 
 ## Observaciones
 
@@ -42,7 +42,3 @@ Devarim 22:12 se toma aquí como base para pensar los tzitzit, y la nota añade 
 - Todos los sacrificios u ofrendas en la Bait יהוה.
 - Guerra contra Amalek.
 - Ciudades de refugio.
-
-## Pendiente de verificar
-
-- [ ] Sustituir la traducción actual por TTH trazada directamente desde shafan.xyz.

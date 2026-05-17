@@ -18,6 +18,12 @@ Bamidbar 27 destaca aquí la firmeza de ken y la palabra revelada cuando las hij
 
 - #bamidbar_27_7
 
+## Texto TTH disponible
+
+| Referencia     | Texto                                                                                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_27_7 | "Lo inconmovible las hijas de Tzelofjad hablan. Dando, darás a ellos propiedad de herencia entre los hermanos de su padre, y harás pasar la herencia de su padre a ellas." |
+
 ## Observaciones
 
 - Ken se trabaja como firmeza, estabilidad o algo inconmovible, y la nota lo vincula también con un título del Mesías.

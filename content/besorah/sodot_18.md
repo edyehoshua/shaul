@@ -19,6 +19,12 @@ Sodot 18 relee Babel no solo como ciudad o imperio, sino como mentalidad: todo l
 
 - #sodot_18_2
 
+## Texto TTH disponible
+
+| Referencia  | Texto TTH                                                                                                                                                                        |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_18_2 | Y proclamó con gran voz, diciendo: ¡Cayó, cayó Babel, la grande!, y ha sido habitación de demonios y guarida de todo espíritu impuro, y guarida de toda ave impura y detestable. |
+
 ## Observaciones
 
 - Bab ilu se resume como puerta de dios, origen del nombre Babel en la nota.

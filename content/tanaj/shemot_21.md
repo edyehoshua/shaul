@@ -8,6 +8,10 @@ tags:
   - pidion
 references:
   - "#shemot_21"
+  - "#shemot_21_1"
+  - "#shemot_21_8"
+  - "#shemot_21_9"
+  - "#shemot_21_30"
 sources: []
 translation: []
 ---
@@ -29,6 +33,11 @@ Shemot 21 aporta categorías legales que ayudan a distinguir proceso, juicio y r
 - pidion: redención.
 - podeh: redentor o acto de redimir.
 
-## Pendiente de verificar
+## Texto TTH disponible
 
-- [ ] Añadir versículos específicos de Shemot 21 para cada término del glosario.
+| Referencia    | TTH local                                                                                                                                                        | Observación                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| #shemot_21_1  | Y estos son los procesos legales que pondrás delante de ellos.                                                                                                   | El capítulo abre con mishpatim como marco legal del pasaje.        |
+| #shemot_21_8  | Si es mala en los ojos de su amo, quien para sí la había designado, él la dejará ser redimida; a pueblo extranjero no tendrá poder para venderla, por engañarla. | Aquí aparece la idea de redención dentro del proceso legal.        |
+| #shemot_21_9  | Y si para su hijo la designa, conforme al proceso legal de las hijas hará para ella.                                                                             | La nota conserva el vínculo entre designación y mishpat.           |
+| #shemot_21_30 | Si un rescate se impone sobre él dará redención de su vida conforme a todo lo que se imponga sobre él.                                                           | Este es el anclaje más directo para kofer y pidion en el capítulo. |

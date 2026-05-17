@@ -26,6 +26,17 @@ Sodot 11 se desarrolla como visión del templo, del luto profético y de los dos
 - #sodot_11_7
 - #sodot_11_8
 
+## Texto TTH disponible
+
+| Referencia     | Texto TTH                                                                                                                                                                                                 |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_11_1    | Y me fue dada una caña semejante a una vara, diciendo: Levántate, y mide el Hejal de Elohim, y el altar, y a los que se postran en él.                                                                    |
+| #sodot_11_3    | Y daré a mis dos testigos, y profetizarán mil doscientos sesenta días, cubiertos de cilicio.                                                                                                              |
+| #sodot_11_7    | Y cuando hayan completado su testimonio, entonces el animal que sube del abismo hará con ellos guerra, y los vencerá, y los matará.                                                                       |
+| #sodot_11_8    | Y sus cuerpos estaban en la plaza de la gran ciudad, que es llamada en el Rúaj: Sedom y Mitzráim; donde también fue crucificado nuestro Adón.                                                             |
+| #zejariah_4_2  | Y me dijo: ¿Qué ves? Y dije: Veo, he aquí, una Menoráh de oro, toda ella, y su cuenco sobre su cabeza, y sus siete lámparas sobre ella, siete, y siete tubos para las lámparas que tiene sobre su cabeza. |
+| #zejariah_4_14 | Y dijo: Estos son los dos hijos del aceite fresco, los que están parados junto al Adón de toda la tierra.                                                                                                 |
+
 ## Observaciones
 
 - Hejal se entiende como lugar santo y, por extensión, como toda la casa.

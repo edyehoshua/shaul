@@ -32,6 +32,14 @@ Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día
 - #sodot_1_5
 - #sodot_1_6
 
+## Texto TTH disponible
+
+| Referencia | TTH local                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_1_1 | Misterio revelado de Yeshúa el Mesías, que le dio Elohim, para mostrar a sus siervos lo que necesita ser con rapidez, y lo dio a conocer y lo envió por su mensajero a su siervo, a Iojanán; |
+| #sodot_1_5 | es decir, de Yeshúa el Mesías, el testigo, el fidedigno, el primogénito de los muertos, y Elyón de los reyes de la tierra, el que nos amó y nos lavó de nuestros pecados con su sangre,      |
+| #sodot_1_6 | y nos hizo reyes y sacerdotes para Elohim, es decir, para su Padre, a Él la gloria y la potencia para siempre y siempre. Amén.                                                               |
+
 ## Observaciones por pasaje
 
 ### Sodot 1:1

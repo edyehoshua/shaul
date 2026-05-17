@@ -20,6 +20,16 @@ Sodot 12 describe a Israel como mujer revestida y al reptil como poder adversari
 
 - #sodot_12_1
 
+## Texto TTH disponible
+
+| Referencia      | Texto TTH                                                                                                                                             |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_12_1     | Y una señal grande fue vista en los cielos: Una mujer cubierta de sol, y la luna debajo de sus pies, y sobre su cabeza, una corona de doce estrellas. |
+| #ieshaiahu_66_7 | Antes de que se retorciera, ella dio a luz; antes de que viniera dolor a ella, dio a luz un varón.                                                    |
+| #iejezkel_29_3  | Habla, y dirás: “Así ha dicho Adonai יהוה:                                                                                                            |
+
+La mención local de #iejezkel_29_3 introduce la declaración, y la imagen del monstruo del río continúa en el versículo siguiente del mismo pasaje.
+
 ## Observaciones
 
 - El sol representa la luz inaccesible de Elohim y la luna la luz disminuida del Mesías.

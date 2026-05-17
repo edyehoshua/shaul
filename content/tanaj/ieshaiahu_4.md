@@ -19,6 +19,13 @@ Ieshaiahu 4 concentra aquí la imagen del brote de יהוה y del fruto de la ti
 
 - #ieshaiahu_4_2
 
+## Texto TTH disponible
+
+| Referencia     | Texto                                                                                                                                                       |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ieshaiahu_4_2 | "En aquel día, será el Brote de יהוה para adorno y para gloria, y el fruto de la tierra será para orgullo y para hermosura para los que escapan de Israel." |
+| #tehilim_22_1  | "¡Elí, Elí!, ¿por qué me abandonarías? Lejano estarías de mi salvación, de las palabras de mi gemido."                                                      |
+
 ## Observaciones
 
 - Tzemaj de יהוה se entiende como brote, ornamento y fruto de la tierra dentro del mismo movimiento.

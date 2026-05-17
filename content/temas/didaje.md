@@ -14,6 +14,12 @@ sources: []
 
 La Didajé se resume aquí como doctrina de los enviados a las naciones y como exposición del camino de la vida frente al camino de la muerte.
 
+## Hoja de comparación
+
+| Referencia     | TTH                                                                                                           | Observación                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| #tehilim_110_1 | Declaración de יהוה a mi Amo: Siéntate a mi diestra, hasta que ponga a tus enemigos como estrado de tus pies. | La nota usa este pasaje como marco de autoridad y doctrina recibida. |
+
 ## Observaciones
 
 - Didajé se toma desde su sentido griego de doctrina o instrucción.

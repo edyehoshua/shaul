@@ -21,6 +21,13 @@ Bamidbar 1 se lee aquí como el encargo de levantar la cabeza de los hijos de Is
 - #bamidbar_1_2
 - #bamidbar_1_3
 
+## Texto TTH disponible
+
+| Referencia    | Texto TTH                                                                                                                                                              |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_1_2 | Levanta la cabeza de toda la congregación de los hijos de Israel por sus familias, por las casas de sus padres, con el número de nombres, todo varón, por sus cabezas; |
+| #bamidbar_1_3 | de edad de veinte años y arriba, todo el que sale al ejército en Israel, los encargarán por sus ejércitos, tú y Aharón.                                                |
+
 ## Observaciones
 
 - "Levantar la cabeza" se interpreta como hacer visible a un grupo determinado dentro de Israel.

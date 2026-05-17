@@ -39,6 +39,20 @@ Romanim 11 enseña que יהוה no desecha a su pueblo, sostiene un remanente po
 - #romanim_11_12
 - #romanim_11_16
 
+## Texto TTH disponible
+
+| Referencia     | TTH local                                                                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #romanim_11_1  | Y por lo tanto, digo, ¿ha desechado Elohim a su pueblo? ¡Profanación! Porque yo también soy israelí, de la simiente de Abraham, de la tribu de Biniamín.                         |
+| #romanim_11_2  | No ha desechado Elohim a su pueblo que desde el Kédem lo conoció. ¿No saben lo que dice la Escritura en Eliyáhu, cuando está haciendo tefilah a יהוה acerca de Israel, diciendo: |
+| #romanim_11_4  | Pero, ¿qué le responde la palabra de Elohim? He dejado en Israel siete mil, todas las rodillas que no se han inclinado a Baal.                                                   |
+| #romanim_11_5  | Así también en este tiempo ha habido un remanente conforme a la elección del favor.                                                                                              |
+| #romanim_11_7  | ¿Y qué es esto? Lo que buscaba Israel no lo alcanzó; pero la elección lo ha alcanzado, y los otros estuvieron cubiertos con velo,                                                |
+| #romanim_11_8  | como está escrito: Porque ha derramado sobre ustedes יהוה un espíritu de sueño profundo, y Él ha cerrado sus ojos, y a sus cabezas, ha cubierto con velo, hasta este día.        |
+| #romanim_11_11 | Por lo tanto, digo, ¿tropezaron para que caigan? ¡Profanación! Sino que por el tropiezo de ellos, la salvación ha sido para los gentiles, para provocarlos a celo.               |
+| #romanim_11_12 | Y si su transgresión es la riqueza del olam, y su caída la riqueza de los gentiles, ¿cuánto más será su llenura?                                                                 |
+| #romanim_11_16 | Y si la primicia es santa, también la masa; y si la raíz es santa, también las ramas.                                                                                            |
+
 ## Observaciones por pasaje
 
 ### #romanim_11_1

@@ -33,6 +33,14 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 - #iojanan_10_22
 - #iojanan_10_24
 
+## Hoja de comparación
+
+| Referencia     | TTH                                                                                                                                | Observación                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| #iojanan_10_22 | Y era Janucá en Ierushaláim, y era invierno.                                                                                       | El relato ubica explícitamente la escena en Janucá.                                |
+| #iojanan_10_24 | Y lo rodearon los iehudim, y le dijeron: ¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza.          | La presión mesiánica aparece en el marco de la fiesta.                             |
+| #tehilim_30    | La nota conserva este salmo como marco temático de dedicación y memoria, pendiente de desplegar por versículos en una hoja aparte. | El capítulo sigue funcionando como base, aunque aquí no se cita aún verso a verso. |
+
 ## Términos
 
 - Janucá: habilitación; en el caso del templo, rehabilitación.

@@ -69,6 +69,19 @@ La respuesta propuesta es distinguir entre adam como designación amplia de una 
 | #ivrim_2_17                                     | Fue comparado con los hermanos.                                        | La semejanza se entiende por su padecimiento y muerte, no por pecado.                          |
 | #galatim_3_16                                   | La promesa es a la simiente, que es el Mesías.                         | La simiente se lee como unidad viviente portadora de la promesa.                               |
 
+## Texto TTH disponible
+
+Estos son los pasajes de esta nota que ya quedaron integrados desde el corpus local TTH.
+
+| Referencia     | TTH                                                                                                                                                                                                                        | Observación                                                                 |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| #bereshit_1_26 | Y dijo Elohim: Haremos al hombre en nuestra imagen, conforme a nuestra semejanza; y dominen en el pez del mar, en el ave de los cielos, en la bestia, en toda la tierra, y en todo reptil que se arrastra sobre la tierra. | La nota usa este punto para fijar adam como categoría previa a la caída.    |
+| #bereshit_2_7  | Y formó יהוה Elohim al hombre, polvo, desde el suelo -y soplará en su nariz aliento de vida- y fue el hombre un ser viviente.                                                                                              | Refuerza el lenguaje de ser viviente que luego reaparece en la comparación. |
+| #bereshit_2_16 | Y ordenó יהוה Elohim al hombre, diciendo: De todo árbol del jardín ciertamente comerás,                                                                                                                                    | La instrucción al adam sostiene la lectura de "este adam" en el relato.     |
+| #iojanan_3_31  | El que de arriba viene, sobre todo es; y el que de la tierra es, también de la tierra habla; y el que de los cielos viene, sobre todo es.                                                                                  | Aquí la procedencia de arriba queda dicha de manera directa.                |
+| #iojanan_3_36  | El que se afirma por el Hijo, habrá para él vida olam; pero el que no se afirma, no verá la vida, sino que el calor de la ira de יהוה se posará sobre él.                                                                  | La filiación del Hijo se enlaza con vida y juicio.                          |
+| #iojanan_8_42  | Y les dijo: Si Elohim fuera su padre, ciertamente me amarían, porque Yo de Elohim he salido, y he venido; y no he venido de Mí, sino que Él me envió.                                                                      | El pasaje refuerza la salida y envío del Mesías desde Elohim.               |
+
 ## Adam no es solo nombre propio
 
 La transcripción insiste en que **(אדם)**, especialmente con artículo definido, debe leerse como denominación de una especie o entidad viviente. En Bereshit, antes de la transgresión, ese adam no está marcado todavía por pecado, muerte ni corrupción. La caída cambia su estado, pero no agota el campo de la palabra.

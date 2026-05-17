@@ -18,6 +18,10 @@ Galatim 5 resume aquí que el yugo de esclavitud proviene del hombre y que la li
 
 - #galatim_5_1
 
+## Pendiente de fuente local
+
+- No hay archivo local de TTH para #galatim_5_1 bajo `docs/scriptures/tth/json/`, así que este apunte queda pendiente de completar con el texto de la traducción cuando ese libro esté disponible en el corpus local.
+
 ## Observaciones
 
 - Israel se resume como el que ejerce el principado.

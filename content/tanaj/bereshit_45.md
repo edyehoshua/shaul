@@ -24,9 +24,9 @@ Bereshit 45:9 se toma aquí para destacar a Iosef como moshel y conectarlo con o
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo                                                                                                                                            | Traducción actual en la nota | Observación                                                 |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------------- |
-| #bereshit_45_9 | **(מַהֲרוּ וַעֲלוּ אֶל אָבִי וַאֲמַרְתֶּם אֵלָיו כֹּה אָמַר בִּנְךָ יוֹסֵף שָׂמַנִי אֱלֹהִים לְאָדוֹן לְכָל מִצְרַיִם רְדָה אֵלַי אַל תַּעֲמֹד)** | gobernador: moshel           | La nota vincula el gobierno de Iosef con la idea de moshel. |
+| Referencia     | Hebreo                                                                                                                                            | TTH local                                                                                                                                               | Observación                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| #bereshit_45_9 | **(מַהֲרוּ וַעֲלוּ אֶל אָבִי וַאֲמַרְתֶּם אֵלָיו כֹּה אָמַר בִּנְךָ יוֹסֵף שָׂמַנִי אֱלֹהִים לְאָדוֹן לְכָל מִצְרַיִם רְדָה אֵלַי אַל תַּעֲמֹד)** | Dense prisa, y suban a mi padre, y díganle: “Así dice tu hijo Iosef: ‘Me ha puesto Elohim por amo a todo Mitzráim; desciende a mí, no te quedes parado. | La nota vincula el gobierno de Iosef con el campo semántico de moshel aunque el TTH local use adón. |
 
 ## Léxico base
 
@@ -38,7 +38,3 @@ Bereshit 45:9 se toma aquí para destacar a Iosef como moshel y conectarlo con o
 
 - #mijah_5_2
 - #tehilim_22_28
-
-## Pendiente de verificar
-
-- [ ] Sustituir la traducción actual por TTH trazada directamente desde shafan.xyz.

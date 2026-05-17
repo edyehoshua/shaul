@@ -25,6 +25,14 @@ Sodot 8 presenta el séptimo sello como una nueva apertura narrativa donde el si
 - #sodot_8_3
 - #sodot_8_5
 
+## Texto TTH disponible
+
+| Referencia | Texto                                                                                                                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_8_1 | "Y cuando abrió el séptimo sello, hubo silencio en los cielos como media hora."                                                                                                                                 |
+| #sodot_8_3 | "Y otro mensajero vino y se paró ante el altar, y tenía un incensario de oro; y le fue dado mucho incienso para dar a las tefilot de todos los santos sobre el altar de oro, el cual estaba delante del trono." |
+| #sodot_8_5 | "Y tomó el mensajero el incensario y lo llenó con el fuego del altar, y lo envió sobre la tierra, y hubo voces, truenos, relámpagos y temblor."                                                                 |
+
 ## Observaciones
 
 - La media hora se entiende como período breve y no como medición literal.

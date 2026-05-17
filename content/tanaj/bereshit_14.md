@@ -24,9 +24,9 @@ Bereshit 14:20 introduce el maaser en relación con Malkitzedek y sirve aquí co
 
 ## Hoja de comparación
 
-| Referencia      | Hebreo                                                                                     | Traducción actual en la nota | Observación                                                    |
-| --------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | -------------------------------------------------------------- |
-| #bereshit_14_20 | **(וּבָרוּךְ אֵל עֶלְיוֹן אֲשֶׁר מִגֵּן צָרֶיךָ בְּיָדֶךָ וַיִּתֶּן לוֹ מַעֲשֵׂר מִכֹּל)** | maaser: diezmo               | La nota concentra la atención en maaser como clave del pasaje. |
+| Referencia      | Hebreo                                                                                     | TTH local                                                    | Observación                                                                                                      |
+| --------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| #bereshit_14_20 | **(וּבָרוּךְ אֵל עֶלְיוֹן אֲשֶׁר מִגֵּן צָרֶיךָ בְּיָדֶךָ וַיִּתֶּן לוֹ מַעֲשֵׂר מִכֹּל)** | y bendito es El Elyón, que entregó tus enemigos en tu mano”. | El TTH local conserva la bendición; la nota sigue concentrando la atención en maaser desde el hebreo del pasaje. |
 
 ## Léxico base
 
@@ -39,7 +39,3 @@ Bereshit 14:20 introduce el maaser en relación con Malkitzedek y sirve aquí co
 - #ivrim_7_1
 - #vaikra_23_30
 - #bereshit_28_22
-
-## Pendiente de verificar
-
-- [ ] Sustituir la traducción actual por TTH trazada directamente desde shafan.xyz.

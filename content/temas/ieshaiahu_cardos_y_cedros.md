@@ -20,6 +20,13 @@ Las imágenes de cardos, espinos y cedros del Líbano se usan aquí para hablar 
 - #ieshaiahu_5_6
 - #ieshaiahu_2_13
 
+## Hoja de comparación
+
+| Referencia      | TTH                                                                                                                                      | Observación                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| #ieshaiahu_5_6  | Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia. | Los cardos y espinos aparecen como señal visible de una viña dejada al juicio.           |
+| #ieshaiahu_2_13 | Y sobre todos los cedros del Lebanón, los elevados y los exaltados, y sobre todos los robles del Bashán,                                 | Los cedros quedan dentro del mismo movimiento de abatimiento contra lo alto y ensalzado. |
+
 ## Observaciones
 
 - Los cardos y espinos se interpretan como malas obras y malos frutos.

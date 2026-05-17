@@ -17,7 +17,7 @@ This repository is a study workspace to connect Scripture with Scripture in the 
 - Store verse references in metadata and content, not as the full note title.
 - Prefer Hebrew without nikud for verse text by default.
 - Use Hebrew with nikud only when it is strictly needed for disambiguation.
-- For Tanaj Hebrew and Delitzsch/TTH references, use shafan.xyz as the primary textual source.
+- For Tanaj Hebrew and Delitzsch/TTH references, use the local scripture corpus under docs/scriptures/ as the primary textual source; use shafan.xyz only when the local corpus is missing the passage.
 - Use topic-specific structure. Do not force one rigid template for all notes.
 
 ## Source Priority for Research
@@ -37,6 +37,7 @@ This repository is a study workspace to connect Scripture with Scripture in the 
 - Local scripture layout is docs/scriptures/oe/json/, docs/scriptures/tth/json/, and docs/scriptures/delitzsch/json/.
 - Use Davar JSON sources: data/oe/<book>/<chapter>.json, data/tth_2/json/<book>.json, and data/delitzsch/\*.json.
 - For TTH, prefer data/tth_2/json rather than the older data/tth tree.
+- If a note directly discusses a verse, include the actual verse text from the local corpus in a comparison sheet or equivalent note section instead of leaving only a bare reference or paraphrase.
 - If a note directly discusses a verse, extract the verse into a comparison sheet from the local corpus when available; use shafan.xyz only as fallback when the local corpus is missing that passage.
 - Add frontmatter fields:
   - title

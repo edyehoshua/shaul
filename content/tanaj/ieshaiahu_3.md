@@ -22,6 +22,14 @@ Ieshaiahu 3 se resume aquí como denuncia contra un liderazgo sin pan ni agua ve
 - #ieshaiahu_3_12
 - #ieshaiahu_3_16
 
+## Texto TTH disponible
+
+| Referencia      | Texto                                                                                                                                                                 |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ieshaiahu_3_1  | "Porque he aquí, el Adón, יהוה Tzebaot, está apartando de Yerushaláim y de Iehudáh el apoyo y el soporte:"                                                            |
+| #ieshaiahu_3_12 | "¡Pueblo mío! Opresores lo arruinan, y usureros gobiernan en él. Pueblo mío, los que te guían hacen deambular y el camino de tus senderos devoran."                   |
+| #ieshaiahu_3_16 | "Y dijo יהוה: Porque altivas son las hijas de Tzión, andan extendiendo el cuello y echan miradas con los ojos, caminando y remilgando van, y con sus pies tintinean;" |
+
 ## Observaciones
 
 - Pan se relaciona con fortaleza humana y guerra; agua con consejo y dimensión espiritual.

@@ -19,6 +19,13 @@ Sodot 17 se resume aquí como visión de la apostasía religiosa montada sobre e
 
 - #sodot_17_3
 
+## Texto TTH disponible
+
+| Referencia      | Texto TTH                                                                                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_17_3     | Y me llevó al desierto en el Rúaj; y vi a una mujer sentada sobre un animal escarlata lleno de nombres de desprecio, y tenía siete cabezas y diez cuernos. |
+| #iejezkel_16_23 | Y sucedió que después de toda tu maldad, “¡Oy, oy de ti! ” –declaración de Adonai יהוה,                                                                    |
+
 ## Observaciones
 
 - El animal del agua se asocia con el poder seléucida y con Antíoco Epífanes como antecedente.

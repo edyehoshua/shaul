@@ -40,6 +40,18 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 - #iojanan_1_32
 - #iojanan_1_34
 
+## Texto TTH disponible
+
+| Referencia    | TTH local                                                                                                                              |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_1_1  | En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra.                                               |
+| #iojanan_1_4  | En Él era la vida, y la vida era la luz de los hombres.                                                                                |
+| #iojanan_1_14 | Y la Palabra llegó a ser carne, y habitó con nosotros, y vimos su honra, como honra del unigénito del Padre, lleno de bondad y verdad. |
+| #iojanan_1_18 | A Elohim, en todo tiempo, ningún hombre lo ha visto; el Hijo único, que es en el seno del Padre, Él lo declaró.                        |
+| #iojanan_1_29 | Y al día siguiente vio Iojanán a Yeshúa que venía hacia él, y dijo: He aquí, el Cordero de Elohim, que soporta el pecado del olam.     |
+| #iojanan_1_32 | Y testificó Iojanán, diciendo: Porque he visto al Rúaj descendiendo de los cielos como paloma, y se posó sobre Él.                     |
+| #iojanan_1_34 | Y yo vi, y he testificado que Este es el Hijo de Elohim.                                                                               |
+
 ## Conexiones
 
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias)

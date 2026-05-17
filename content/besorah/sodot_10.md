@@ -21,6 +21,18 @@ Sodot 10 relee la visión del malaj fuerte a la luz de Mosheh, de la torá todav
 
 - #sodot_10_1
 
+## Texto TTH disponible
+
+| Referencia    | Texto TTH                                                                                                                                                                                                      |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #sodot_10_1   | Y vi a otro mensajero fuerte descendiendo de los cielos en una columna de nube, y un arco sobre su cabeza; y su rostro era como el sol, y sus pies como columna de fuego.                                      |
+| #shemot_34_29 | Y sucedió cuando descendió Moshéh del monte Sinay, y las dos tablas del Testimonio en mano de Moshéh, cuando descendió del monte, Moshéh no sabía que brillaba la piel de su rostro, por haber hablado con Él. |
+| #romanim_2_15 | mostrando que la obra de la Torah está escrita en sus corazones, dando testimonio acerca de ellos su mente o acusándoles en medio de ellos sus pensamientos y defendiéndolos sobre sus causas,                 |
+
+## Pendiente de fuente local
+
+- No se encontró un archivo TTH local para #efesim_5_25 bajo docs/scriptures/tth/json, así que esa cita queda pendiente de corpus local.
+
 ## Observaciones
 
 - Malaj se toma como mensajero o mensaje, no solo como ángel.

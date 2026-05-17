@@ -19,6 +19,12 @@ Romanim 12 se resume aquí en la idea de que la profecía no es espectáculo, si
 
 - #romanim_12_6
 
+## Texto TTH disponible
+
+| Referencia    | Texto                                                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| #romanim_12_6 | "Habiendo para ustedes diversos dones, según el favor que nos fue dado, si profecía, sea conforme a la medida de la emunah;" |
+
 ## Observaciones
 
 - El don de profecía se entiende como capacidad para anunciar teshuvah.

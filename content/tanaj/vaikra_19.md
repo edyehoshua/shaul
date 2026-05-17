@@ -29,6 +29,13 @@ Vaikra 19:17-18 se lee aquí como una instrucción sobre reprender con justicia 
 - #vaikra_19_17
 - #vaikra_19_18
 
+## Texto TTH disponible
+
+| Referencia    | Texto                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| #vaikra_19_17 | "No desamarás a tu hermano en tu corazón; amonestando, amonestarás a tu compañero, y no cargarás por él pecado."                |
+| #vaikra_19_18 | "No te vengarás, y no guardarás ira a los hijos de tu pueblo, y amarás por estar siendo tú el compañero, como tú; Yo soy יהוה." |
+
 ## Reprensión y pecado compartido
 
 - "Reprendiendo reprenderás" se entiende como llevar la situación al juicio de la torá para que el otro vea su error y haga teshuvah.

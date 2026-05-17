@@ -49,16 +49,12 @@ Este cuadro es para explicar la distribución que tenían los pueblos que habita
 
 ## Hoja de comparación
 
-| Referencia      | Hebreo                                                                        | Traducción actual en la nota                                    | Observación                                   |
-| --------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------- |
-| #bamidbar_13_21 | **(וַיַּעֲלוּ וַיָּתֻרוּ אֶת הָאָרֶץ מִמִּדְבַּר צִן עַד רְחֹב לְבֹא חֲמָת)** | Siempre que dice ha'aretz suele referirse a la tierra de Israel | La nota concentra la observación en ha'aretz. |
+| Referencia      | Hebreo                                                                        | TTH local                                                                                          | Observación                                                        |
+| --------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| #bamidbar_13_21 | **(וַיַּעֲלוּ וַיָּתֻרוּ אֶת הָאָרֶץ מִמִּדְבַּר צִן עַד רְחֹב לְבֹא חֲמָת)** | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat. | La nota concentra la observación en ha'aretz dentro del recorrido. |
 
 ## Léxico base
 
 | Hebreo     | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación                                             |
 | ---------- | -------------------- | ----------- | ---- | ------------------ | ------------------------------------------------------- |
 | **(הארץ)** | ha'aretz             | la tierra   | ארץ  | tierra, territorio | La nota dice que suele referirse a la tierra de Israel. |
-
-## Pendiente de verificar
-
-- [ ] Sustituir la traducción actual por TTH trazada directamente desde shafan.xyz.

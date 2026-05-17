@@ -27,6 +27,15 @@ Ieshaiahu 34 se lee aquí como lenguaje altamente metafórico del juicio de יה
 - #ieshaiahu_34_5
 - #ieshaiahu_34_8
 
+## Texto TTH disponible
+
+| Referencia      | TTH local                                                                                                                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ieshaiahu_34_2 | Porque la nariz de יהוה está sobre todas las naciones,                                                                                                                                          |
+| #ieshaiahu_34_4 | Y se pudrirán, todo el ejército de los cielos, y se enrollarán como rollo los cielos; y todo su ejército se marchitará como se marchita la hoja de la vid, y como se marchita la de la higuera. |
+| #ieshaiahu_34_5 | Porque se ha embriagado en los cielos mi espada, he aquí, sobre Edom descenderá, y sobre el pueblo de mi anatema para juicio.                                                                   |
+| #ieshaiahu_34_8 | Porque es día de venganza de יהוה, año de recompensas por la contienda de Tzión.                                                                                                                |
+
 ## Observaciones
 
 - Goyim y leumim se trabajan como capas de pueblos e imperios dentro de la rebelión del mundo.

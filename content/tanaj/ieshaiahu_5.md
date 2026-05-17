@@ -20,6 +20,13 @@ Ieshaiahu 5 presenta la viña amada que dio malos frutos y por eso queda expuest
 - #ieshaiahu_5_1
 - #ieshaiahu_5_6
 
+## Texto TTH disponible
+
+| Referencia     | Texto                                                                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| #ieshaiahu_5_1 | "Déjame cantar, por favor, a Iedidí, la canción de mi amado para su viña. Una viña tenía mi amado en un cuerno hijo del aceite."           |
+| #ieshaiahu_5_6 | "Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia." |
+
 ## Observaciones
 
 - Dod se identifica con Yeshua HaMashiaj, y yedidi recuerda el lenguaje de amado.

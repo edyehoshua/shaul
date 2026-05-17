@@ -28,6 +28,17 @@ Ieshaiahu 1 se presenta como juicio contra una nación que se rebeló aun conoci
 - #ieshaiahu_1_20
 - #ieshaiahu_1_21
 
+## Texto TTH disponible
+
+| Referencia      | TTH local                                                                                                                                                                                |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ieshaiahu_1_2  | Oigan, cielos, y da oído, tierra, porque יהוה ha hablado: Hijos he hecho crecer y he levantado, mas ellos se han rebelado contra Mí.                                                     |
+| #ieshaiahu_1_4  | ¡Oy, nación pecadora, pueblo de pesadez de iniquidad, semilla de condenados, hijos corrompidos! Han abandonado a יהוה, han despreciado al Kadosh de Israel, se han apartado hacia atrás. |
+| #ieshaiahu_1_9  | ¡Si יהוה Tzebaot no nos hubiera dejado sobreviviente, casi como Sedom hubiéramos sido, a Gamoráh seríamos semejantes!                                                                    |
+| #ieshaiahu_1_18 | Vengan, por favor, y debatamos –dice יהוה– si fueren sus pecados como escarlata, como la nieve serán emblanquecidos; si fueren rojos como el gusano carmesí, como lana serán.            |
+| #ieshaiahu_1_20 | pero si rehúsan y se rebelan, por la espada serán devorados. Porque la boca de יהוה ha hablado.                                                                                          |
+| #ieshaiahu_1_21 | ¿Cómo se ha convertido en ramera la ciudad fiel, que estaba llena de juicio? Justicia se alojaba en ella, pero ahora, asesinos.                                                          |
+
 ## Observaciones
 
 - Pesha se resume como transgresión consciente: pasar por encima del mandamiento aun conociéndolo.

@@ -19,6 +19,12 @@ Mishlei 5 contrasta el sendero circular del extravío con el camino recto de la 
 
 - #mishlei_5_6
 
+## Texto TTH disponible
+
+| Referencia   | Texto TTH                                                                 |
+| ------------ | ------------------------------------------------------------------------- |
+| #mishlei_5_6 | Para que no nivele la senda de la vida, se extravían sus cursos, no sabe. |
+
 ## Observaciones
 
 - Maagal se entiende como camino circular, propio del desvío.
