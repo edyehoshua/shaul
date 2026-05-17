@@ -13,6 +13,7 @@ type OrderEntries = "sort" | "filter" | "map"
 
 export interface Options {
   title?: string
+  flatten: boolean
   folderDefaultState: "collapsed" | "open"
   folderClickBehavior: "collapse" | "link"
   useSavedState: boolean
@@ -23,6 +24,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
+  flatten: false,
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
   useSavedState: true,
@@ -72,6 +74,7 @@ export default ((userOpts?: Partial<Options>) => {
     return (
       <div
         class={classNames(displayClass, "explorer")}
+        data-flatten={opts.flatten}
         data-behavior={opts.folderClickBehavior}
         data-collapsed={opts.folderDefaultState}
         data-savestate={opts.useSavedState}

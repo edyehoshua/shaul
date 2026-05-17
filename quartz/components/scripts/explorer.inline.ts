@@ -5,6 +5,7 @@ import { ContentDetails } from "../../plugins/emitters/contentIndex"
 type MaybeHTMLElement = HTMLElement | undefined
 
 interface ParsedOptions {
+  flatten: boolean
   folderClickBehavior: "collapse" | "link"
   folderDefaultState: "collapsed" | "open"
   useSavedState: boolean
@@ -150,12 +151,27 @@ function createFolderNode(
   return li
 }
 
+function collectFileNodes(node: FileTrieNode): FileTrieNode[] {
+  const files: FileTrieNode[] = []
+
+  for (const child of node.children) {
+    if (child.isFolder) {
+      files.push(...collectFileNodes(child))
+    } else {
+      files.push(child)
+    }
+  }
+
+  return files
+}
+
 async function setupExplorer(currentSlug: FullSlug) {
   const allExplorers = document.querySelectorAll("div.explorer") as NodeListOf<HTMLElement>
 
   for (const explorer of allExplorers) {
     const dataFns = JSON.parse(explorer.dataset.dataFns || "{}")
     const opts: ParsedOptions = {
+      flatten: explorer.dataset.flatten === "true",
       folderClickBehavior: (explorer.dataset.behavior || "collapse") as "collapse" | "link",
       folderDefaultState: (explorer.dataset.collapsed || "collapsed") as "collapsed" | "open",
       useSavedState: explorer.dataset.savestate === "true",
@@ -207,12 +223,19 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
-    for (const child of trie.children) {
-      const node = child.isFolder
-        ? createFolderNode(currentSlug, child, opts)
-        : createFileNode(currentSlug, child)
+    if (opts.flatten) {
+      const files = collectFileNodes(trie).sort(opts.sortFn)
+      for (const file of files) {
+        fragment.appendChild(createFileNode(currentSlug, file))
+      }
+    } else {
+      for (const child of trie.children) {
+        const node = child.isFolder
+          ? createFolderNode(currentSlug, child, opts)
+          : createFileNode(currentSlug, child)
 
-      fragment.appendChild(node)
+        fragment.appendChild(node)
+      }
     }
     explorerUl.insertBefore(fragment, explorerUl.firstChild)
 
