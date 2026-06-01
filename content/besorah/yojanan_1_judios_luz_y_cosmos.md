@@ -50,16 +50,16 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 
 ## Hoja de textos (corpus local)
 
-| Referencia | Texto (fuente local) | Uso en la clase |
-| --- | --- | --- |
-| #iojanan_1_9 | **הוּא אוֹר אֱמֶת אֲשֶׁר בָּא לָעוֹלָם לְהָאִיר לְכָל־אָדָם׃** | La luz verdadera entra al mundo. |
-| #iojanan_1_10 | **הוּא הָיָה בָעוֹלָם וְהָעוֹלָם נִהְיָה עַל־יָדוֹ וְהָעוֹלָם אֹתוֹ לֹא יָדָע׃** | El cosmos existe por Él pero no lo conoce. |
-| #iojanan_1_11 | **הוּא בָא אֶל־עַמּוֹ שֶׁלּוֹ וְעַמּוֹ שֶׁלּוֹ לֹא הֶחֱזִיקוּ־בוֹ׃** | "Vino a lo suyo" como cumplimiento de su propio plan/promesa. |
-| #iojanan_1_12 | **וְאֵלֶּה אֲשֶׁר הֶחֱזִיקוּ־בוֹ נָתַן־כֹּחַ בְּיָדָם לִהְיוֹת בָּנִים לֵאלֹהִים הֲלֹא הֵם הַמַּאֲמִינִים בִּשְׁמוֹ׃** | Recibir, creer y ser hijos quedan unidos al Nombre. |
-| #iojanan_1_13 | **אֲשֶׁר לֵדָתָם לֹא מִדָּם וְלֹא מִתַּאֲוַת בָּשָׂר וְלֹא מֵרוּחַ גָּבֶר כִּי אִם־מֵאֱלֹהִים׃** | El nuevo nacimiento es de Elohim. |
-| #lukas_1_68-75 | **בָּרוּךְ יְהוָֹה אֱלֹהֵי יִשְׂרָאֵל... לְהַצִּילֵנוּ מִיַּד אֹיְבֵינוּ... לְעָבְדוֹ בְּלִי־פָחַד׃** | La clase conecta "a lo suyo vino" con promesas juradas a Avraham. |
-| #ephesians_2_1-10 | **גַּם־אֶתְכֶם אֲשֶׁר מֵתִים הֱיִיתֶם... כִּי־בַחֶסֶד נוֹשַׁעְתֶּם... כִּי־פֹעַל אֱלֹהִים אֲנַחְנוּ...** | Apoyo al eje: vida recibida por gracia y no por obra humana. |
-| #tehilim_22_2 | **אל/י אל/י ל/מה עזבת/ני** | La clase propone revisar traducción y función de cita en el madero. |
+| Referencia        | Texto (fuente local)                                                                                                   | Uso en la clase                                                     |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| #iojanan_1_9      | **הוּא אוֹר אֱמֶת אֲשֶׁר בָּא לָעוֹלָם לְהָאִיר לְכָל־אָדָם׃**                                                         | La luz verdadera entra al mundo.                                    |
+| #iojanan_1_10     | **הוּא הָיָה בָעוֹלָם וְהָעוֹלָם נִהְיָה עַל־יָדוֹ וְהָעוֹלָם אֹתוֹ לֹא יָדָע׃**                                       | El cosmos existe por Él pero no lo conoce.                          |
+| #iojanan_1_11     | **הוּא בָא אֶל־עַמּוֹ שֶׁלּוֹ וְעַמּוֹ שֶׁלּוֹ לֹא הֶחֱזִיקוּ־בוֹ׃**                                                   | "Vino a lo suyo" como cumplimiento de su propio plan/promesa.       |
+| #iojanan_1_12     | **וְאֵלֶּה אֲשֶׁר הֶחֱזִיקוּ־בוֹ נָתַן־כֹּחַ בְּיָדָם לִהְיוֹת בָּנִים לֵאלֹהִים הֲלֹא הֵם הַמַּאֲמִינִים בִּשְׁמוֹ׃** | Recibir, creer y ser hijos quedan unidos al Nombre.                 |
+| #iojanan_1_13     | **אֲשֶׁר לֵדָתָם לֹא מִדָּם וְלֹא מִתַּאֲוַת בָּשָׂר וְלֹא מֵרוּחַ גָּבֶר כִּי אִם־מֵאֱלֹהִים׃**                       | El nuevo nacimiento es de Elohim.                                   |
+| #lukas_1_68-75    | **בָּרוּךְ יְהוָֹה אֱלֹהֵי יִשְׂרָאֵל... לְהַצִּילֵנוּ מִיַּד אֹיְבֵינוּ... לְעָבְדוֹ בְּלִי־פָחַד׃**                  | La clase conecta "a lo suyo vino" con promesas juradas a Avraham.   |
+| #ephesians_2_1-10 | **גַּם־אֶתְכֶם אֲשֶׁר מֵתִים הֱיִיתֶם... כִּי־בַחֶסֶד נוֹשַׁעְתֶּם... כִּי־פֹעַל אֱלֹהִים אֲנַחְנוּ...**               | Apoyo al eje: vida recibida por gracia y no por obra humana.        |
+| #tehilim_22_2     | **אל/י אל/י ל/מה עזבת/ני**                                                                                             | La clase propone revisar traducción y función de cita en el madero. |
 
 ## Estructura argumental que desarrolla la clase
 
