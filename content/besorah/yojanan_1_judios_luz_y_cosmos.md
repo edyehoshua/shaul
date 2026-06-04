@@ -5,7 +5,7 @@ date: 2026-05-31
 tags:
   - yojanan
   - yojanan_1
-  - iehudim
+  - yehudim
   - luz
   - cosmos
   - contexto_historico
@@ -85,5 +85,5 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 ## Ver también
 
 - [Introducción al evangelio de Yojanan](./yojanan_introduccion)
-- [Yojanan: iehudim, procedencia y logos](./yojanan_iehudim_y_logos)
+- [Yojanan: yehudim, procedencia y logos](./yojanan_yehudim_y_logos)
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)

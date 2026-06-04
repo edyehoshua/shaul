@@ -1,10 +1,10 @@
 ---
-title: "Yojanan: iehudim, procedencia y logos"
-description: "Síntesis de un transcript sobre el uso de iehudim en Yojanan y la lectura del prólogo frente a categorías helenistas"
+title: "Yojanan: yehudim, procedencia y logos"
+description: "Síntesis de un transcript sobre el uso de yehudim en Yojanan y la lectura del prólogo frente a categorías helenistas"
 date: 2026-05-31
 tags:
   - yojanan
-  - iehudim
+  - yehudim
   - logos
   - geografia
   - hebraismos
@@ -34,11 +34,11 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 
 ## Hoja breve de textos sobre **(יהודים)**
 
-- #iojanan_1_19: "Y este es el testimonio de Iojanán, cuando enviaron los iehudim desde Ierushaláim a los sacerdotes y a los leviím para preguntarle: ¿Quién eres tú?" El transcript toma este envío desde Ierushaláim como punto de partida para leer **(יהודים)** en clave de procedencia, centro de poder y marco regional.
-- #iojanan_1_47: "Y vio Yeshúa a Netanel venir hacia Él, y le dijo: He aquí, en verdad un hijo de Israel en quien no hay engaño." La exposición usa este verso junto con la forma hebrea **(ישראלי)** que aparece en Delitzsch para contrastar "Israel" con "iehudim" y distinguir capas identitarias.
-- #iojanan_2_13: "Y estaba cerca el Pésaj de los iehudim, y subió Yeshúa a Ierushaláim." Aquí el transcript insiste en que la expresión debe leerse desde el marco concreto de Ierushaláim y Judea, no automáticamente como marcador étnico absoluto.
-- #iojanan_4_9: "Y le dijo la mujer shomronit: ¿Cómo Tú, siendo iehudí, me pides de beber, que soy mujer shomronit? Porque no se cambian, mezclan ni andan los iehudim con los shomronim." Para la nota, este pasaje vuelve visible un uso social y geográfico del término en boca de una samaritana.
-- #iojanan_5_1: **(ואחרי־כן בא מועד חג היהודים ויעל ישוע ירושלימה)**. El transcript usa este verso como caso de prueba para distinguir entre una fiesta bíblica y una fiesta caracterizada desde el ámbito de los iehudim.
+- #iojanan_1_19: "Y este es el testimonio de Iojanán, cuando enviaron los yehudim desde Ierushaláim a los sacerdotes y a los leviím para preguntarle: ¿Quién eres tú?" El transcript toma este envío desde Ierushaláim como punto de partida para leer **(יהודים)** en clave de procedencia, centro de poder y marco regional.
+- #iojanan_1_47: "Y vio Yeshúa a Netanel venir hacia Él, y le dijo: He aquí, en verdad un hijo de Israel en quien no hay engaño." La exposición usa este verso junto con la forma hebrea **(ישראלי)** que aparece en Delitzsch para contrastar "Israel" con "yehudim" y distinguir capas identitarias.
+- #iojanan_2_13: "Y estaba cerca el Pésaj de los yehudim, y subió Yeshúa a Ierushaláim." Aquí el transcript insiste en que la expresión debe leerse desde el marco concreto de Ierushaláim y Judea, no automáticamente como marcador étnico absoluto.
+- #iojanan_4_9: "Y le dijo la mujer shomronit: ¿Cómo Tú, siendo iehudí, me pides de beber, que soy mujer shomronit? Porque no se cambian, mezclan ni andan los yehudim con los shomronim." Para la nota, este pasaje vuelve visible un uso social y geográfico del término en boca de una samaritana.
+- #iojanan_5_1: **(ואחרי־כן בא מועד חג היהודים ויעל ישוע ירושלימה)**. El transcript usa este verso como caso de prueba para distinguir entre una fiesta bíblica y una fiesta caracterizada desde el ámbito de los yehudim.
 - #ester_8_17: **(ורבים מעמי הארץ מתיהדים כי נפל פחד היהודים עליהם)**. Este apoyo del Tanaj se usa en la exposición para mostrar otra capa posible del término: "hacerse judíos" en sentido religioso o de adhesión.
 
 ## Las capas de sentido que propone el transcript
@@ -53,7 +53,7 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 - Según el transcript, la pregunta "¿Quién eres tú?" en #iojanan_1_19 no se oye solo como pregunta abstracta de identidad, sino como pregunta por origen, procedencia y ubicación.
 - La respuesta de Iojanán, "Yo soy la voz del que clama en el desierto", se lee entonces como una auto-ubicación que evita encajar sin más en los bloques esperados por los enviados de Ierushaláim.
 - La exposición insiste en que Yojanan trabaja con geografía real: Judea, desierto, Shomrón, Galil e Ierushaláim no son decorado, sino parte de la argumentación.
-- Desde ahí, "los iehudim" puede señalar a habitantes de Judea, a círculos de Ierushaláim o a sectores de autoridad, y no necesariamente a Israel entero sin matices.
+- Desde ahí, "los yehudim" puede señalar a habitantes de Judea, a círculos de Ierushaláim o a sectores de autoridad, y no necesariamente a Israel entero sin matices.
 - Esta lectura busca evitar tanto la simplificación moderna como las lecturas antijudías posteriores que universalizaron algunos pasajes del evangelio.
 
 ## El prólogo y el problema del logos
@@ -77,7 +77,7 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 - La idea de que cada uso de "judíos" en Yojanan equivale automáticamente a toda la etnia sin distinguir región, liderazgo o contexto narrativo.
 - La tendencia a leer el prólogo solo con categorías griegas y dejar en segundo plano el trasfondo hebreo y arameo que el propio expositor considera decisivo.
 - La impresión de que Yojanan habla desde un judaísmo plano y sin conflictos internos.
-- Las lecturas teológicas posteriores que convierten las polémicas con los iehudim en condena global del pueblo judío.
+- Las lecturas teológicas posteriores que convierten las polémicas con los yehudim en condena global del pueblo judío.
 
 ## Relación con otras notas
 
