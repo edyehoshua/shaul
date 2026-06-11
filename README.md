@@ -108,6 +108,8 @@ When you run transcript ingestion, the output is automatically indexed unless `-
 
 See:
 
+- docs/note-authoring.md (canonical spec for Grok, Cursor, Codex, Hermes)
+- AGENTS.md
 - content/guide.md
 - content/templates/topic-v2.md
 - .github/instructions/shaul.instructions.md

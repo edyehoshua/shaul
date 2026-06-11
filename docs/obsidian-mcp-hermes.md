@@ -37,11 +37,15 @@ Set:
 Hermes should:
 
 1. Read the target note if it exists.
-2. Accept raw notes from the user as direct input context.
-3. Create/update one note or multiple linked notes based on the user's request.
-4. Preserve frontmatter fields: title, description, date, tags, references, sources.
-5. Use verse tags to keep graph connections discoverable.
-6. Append reusable insights to private/hermes/learning-log.md.
+2. Read [docs/note-authoring.md](./note-authoring.md) for section, lexical, and citation rules.
+3. Accept raw notes from the user as direct input context.
+4. Create/update one note or multiple linked notes based on the user's request.
+5. Preserve frontmatter fields: title, description, date, tags, references, sources.
+6. Use verse tags to keep graph connections discoverable.
+7. Pull discussed verses into comparison sheets from `docs/scriptures/`.
+8. Add lexical sheets when Greek, Hebrew, or Aramaic terms carry the argument.
+9. Cite or mark pending any Talmud, midrash, targum, or commentator references.
+10. Append reusable insights to private/hermes/learning-log.md.
 
 ## 4.1) Raw notes workflow (new)
 
@@ -75,7 +79,13 @@ Output is stored in:
 
 ## 7) Review checklist
 
+See the full checklist in [docs/note-authoring.md](./note-authoring.md). Minimum:
+
 - Title is clear (not only a verse string).
+- `Tesis` and, for class notes, `Alcance de la nota` are present.
+- Discussed verses appear in a comparison sheet from the local corpus.
+- Lexical sheet added when translation or equivalence shapes the argument.
+- Talmud, midrash, and external references are cited precisely or marked pending.
 - יהוה is used where the divine name appears.
 - References are explicit and linked.
 - Sources are included.

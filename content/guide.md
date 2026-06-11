@@ -44,12 +44,18 @@ sources: []
 No hay plantilla fija obligatoria. Usa solo las secciones que el tema necesita:
 
 - Tesis
+- Alcance de la nota (fuente, pasaje base, avisos de verificación)
 - Texto base
 - Hoja de comparación
-- Conexiones Tanaj <-> Besorah
-- Observaciones lingüísticas
+- Hoja léxica / Léxico clave / Léxico base
+- Referencias judías y fuentes externas
+- Bloques temáticos de argumento
+- Conexiones principales
 - Conclusión
-- Pendientes de verificación
+- Pendiente de verificar
+- Ver también
+
+Para la especificación completa que usan los agentes (Grok, Cursor, Codex, Hermes), ver [docs/note-authoring.md](../docs/note-authoring.md).
 
 ## Comparación de textos
 
@@ -59,6 +65,42 @@ Cuando el tema lo amerite, usar una tabla corta y legible:
 | -------------- | ------ | ------------------- | -------------------------- |
 | #tehilim_2_7   | ...    | ...                 | Filiación mesiánica        |
 | #matiyahu_3_17 | ...    | ...                 | Eco y expansión apostólica |
+
+En notas de clase o Besorah también sirve esta variante:
+
+| Referencia | Texto local | Función en la clase |
+| --- | --- | --- |
+| #iojanan_11_4 | extracto TTH / Delitzsch | Clave interpretativa del pasaje |
+
+## Hoja léxica (griego, hebreo, arameo)
+
+Usar cuando la traducción o la equivalencia entre idiomas sostiene el argumento.
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(אמן)** | emun | afirmarse, fidelidad | אמן | No reducir a "fe" emocional |
+| **(πιστεύω)** | pisteuo | afirmarse | πιστ- | Aproximación, no equivalencia perfecta |
+
+Reglas:
+
+- Escribir la forma en su escritura original: **(אבא)**, **(πνεῦμα)**
+- Hebreo sin nikud por defecto
+- Distinguir equivalencia exacta, aproximación interpretativa o analogía pedagógica
+- Si el cotejo léxico no está hecho, mover el punto a `Pendiente de verificar`
+
+## Referencias judías y otras fuentes
+
+Cuando la clase o el estudio mencione Talmud, midrash, targum, comentaristas o historiadores, registrar la referencia de forma trazable:
+
+| Tipo | Formato | Ejemplo |
+| --- | --- | --- |
+| Talmud Bavli | tratado + daf | b. Sanhedrin 37a |
+| Midrash | colección + referencia | Bereishit Rabbah 44:7 |
+| Targum | nombre + pasaje | Targum Onkelos, Bereshit 1:1 |
+| Comentarista | autor + pasaje | Ibn Ezra, Bereshit 1:1 |
+| Historiador | obra + cita | Josefo, Ant. 18.23 |
+
+Si la cita exacta no está confirmada, conservar la idea en la nota y añadir una casilla en `Pendiente de verificar`. No inventar referencias.
 
 ## Fuentes para investigación
 

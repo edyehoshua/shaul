@@ -19,6 +19,25 @@ This repository is a study workspace to connect Scripture with Scripture in the 
 - Use Hebrew with nikud only when it is strictly needed for disambiguation.
 - For Tanaj Hebrew and Delitzsch/TTH references, use the local scripture corpus under docs/scriptures/ as the primary textual source; use shafan.xyz only when the local corpus is missing the passage.
 - Use topic-specific structure. Do not force one rigid template for all notes.
+- For full note structure, lexical sheets, Talmud/midrash citation rules, and LLM prompt shape, read [docs/note-authoring.md](../../docs/note-authoring.md).
+
+## Note Authoring (Summary)
+
+Recent notes (especially the Yojanan series) use a richer, optional section model. Agents should match that model when creating class-based or word-study notes.
+
+Core sections:
+
+- `Tesis`, `Alcance de la nota`, `Hoja de comparación`, thematic argument blocks, `Conexiones principales`, `Pendiente de verificar`, `Conclusión`, `Ver también`
+
+Lexical work:
+
+- Add `Hoja léxica` / `Léxico clave` when Greek, Hebrew, or Aramaic terms carry the argument.
+- Mark equivalences as exact, approximate, or pedagogical; do not flatten loaded terms into modern Spanish.
+
+External literature:
+
+- Cite Talmud, midrash, targum, commentators, and historians with traceable references (for example, `b. Sanhedrin 37a`, `Bereishit Rabbah 44:7`, `Ibn Ezra, Bereshit 1:1`).
+- If the exact reference is unknown, keep the claim and add a `Pendiente de verificar` checkbox; never invent citations.
 
 ## Source Priority for Research
 
