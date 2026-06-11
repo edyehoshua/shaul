@@ -48,10 +48,10 @@ sources:
   - "docs/scriptures/delitzsch/json/peter1.json"
   - "docs/scriptures/delitzsch/json/acts.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
-translation: "[TTH, Delitzsch, OE]"
   - "docs/scriptures/oe/json/ezekiel/2.json"
   - "docs/scriptures/oe/json/ecclesiastes/3.json"
   - "docs/scriptures/oe/json/psalms/115.json"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
