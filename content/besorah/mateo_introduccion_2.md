@@ -8,9 +8,15 @@ tags:
   - besorah
   - segundo_templo
   - grupos_judios
-references: []
+references:
+  - "#matityahu_2_13"
+  - "#matityahu_2_14"
+  - "#qorintiyim_alef_11_20"
 sources:
   - "https://www.youtube.com/watch?v=ERNipOyGcr0"
+  - "docs/scriptures/tth/json/matityahu.json"
+  - "docs/scriptures/delitzsch/json/matthew.json"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -23,6 +29,23 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 - Se prioriza el contexto del siglo V al siglo I antes de la era común y su proyección inmediata sobre el siglo I.
 - Las analogías del expositor con la política contemporánea se reducen aquí a una idea general: la historia tiende a repetirse cuando se repiten los mismos presupuestos.
 - Varias afirmaciones históricas del transcript quedan como hipótesis de trabajo pendientes de verificación, no como conclusiones cerradas.
+
+## Hoja de comparación
+
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Función en la nota |
+| --- | --- | --- | --- |
+| #matityahu_2_13 | הם הלכו משם והנה מלאך יהוה נראה אליוסף בחלום לאמר קום קח אתהילד ואתאמו וברחלך מצרימה והיהשם עדאם אמרתי אליך כי הורדוס מבקש אתנפש הנער לקחתה | Ellos se fueron, y he aquí, el ángel de יהוה apareció a Iosef en un sueño, diciendo: Levántate y toma al niño y a su madre, y huye a Mitzráim, y allí permanecerás hasta que yo te diga, porque Horodós buscará al niño para matarlo. | La huida a Egipto se lee como movimiento hacia una red judía ya existente, no como refugio al azar. |
+| #matityahu_2_14 | ויקם ויקח אתהילד ואתאמו לילה ויברח מצרימה | Entonces se levantó y tomó al niño y a su madre de noche y fue a Mitzráim; | Confirma el desplazamiento nocturno bajo presión herodiana y romana. |
+
+## Hoja léxica
+
+| Forma | Aproximación usual | Matiz que hay que preservar |
+| --- | --- | --- |
+| **(פרושים)** | fariseos | Separarse y explicar; grupo de oposición asociado a escribas, no sinónimo de “legalismo” genérico. |
+| **(חסידים)** | hasidim | Piadosos que apoyaron la resistencia macabea; bloque previo a la fractura jasmonea. |
+| **(סופרים)** | sofrim | Guardianes del texto y de la aplicación de la Torá; no equivalen automáticamente a fariseos posteriores. |
+| **(סייג לתורה)** | siag laTorá | Cerco protector alrededor del mandamiento; la nota distingue cerco que preserva de cerco que ahoga. |
+| **(שמעון הצדיק)** | Shimon HaTzadik | Figura pivote en la cadena de transmisión farisea; ubicación cronológica históricamente delicada. |
 
 ## Punto de partida
 
@@ -124,7 +147,19 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 - También evita caricaturas: el siglo I no aparece aquí como una sola voz judía, sino como un campo de tensiones internas al que Yeshua entra con discernimiento.
 - El trasfondo de Hilel y Shamai, la cadena farisea, la reacción qumránica, la mediación herodiana y la presión romana convierten a Mateo en un evangelio inseparable del conflicto interno del judaísmo tardosegundotemplario.
 
-## Pendientes de verificación
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Mishná | m. Avot 1:1 | Cadena de transmisión desde Moshe hasta la gran asamblea; tres máximas de la gran asamblea | Mención indirecta en la clase |
+| Pirkei Avot | Avot 1:1-2 | Shimon HaTzadik y los tres pilares: Torá, servicio, obras de misericordia | Pendiente de verificar |
+| Josefo | Ant. 14–15 (Herodes, Pompeyo) | Marco romano y casa herodiana en Judea | Pendiente de verificar |
+| Josefo | Ant. 13 (dinastía jasmonea) | Legitimidad sacerdotal y real no davídica ni aarónica | Pendiente de verificar |
+| Manuscritos de Qumrán | — | Esenios/Qumrán como salida de ruptura frente a Jerusalén | Pendiente de verificar |
+| Templo de Leontópolis | — | Judaísmo egipcio y redes sacerdotales en Egipto | Pendiente de verificar |
+| Besorah (TTH/Delitzsch) | #matityahu_2_13-14 | Huida a Mitzráim en el marco herodiano | Cotejado |
+
+## Pendiente de verificar
 
 - Cronología exacta del tramo entre Esdras-Nehemías y Shimon HaTzadik.
 - Uso histórico preciso de los nombres esenios y Qumrán, y su relación cronológica con la fractura jasmonea.
@@ -133,3 +168,10 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 - Forma y fecha de consolidación de la cadena de transmisión de Pirkei Avot.
 - Sentido preciso de la tradición de las cuatro copas en relación con la práctica del siglo I.
 - Valor historiográfico de varias analogías contemporáneas usadas por el expositor para explicar el periodo.
+
+## Ver también
+
+- [Introducción a Yojanán](./yojanan_introduccion.md) — otra introducción al Besorah con énfasis en sustrato hebreo-arameo.
+- [Romanim 11](./romanim_11.md) — remanente y multipolaridad dentro de Israel.
+- [Ieshaiahu 65](../tanaj/ieshaiahu_65.md) — bifurcación entre masa inercial y remanente escogido.
+- [Bamidbar 13](../tanaj/bamidbar_13.md) — distribución de pueblos en las cuatro esquinas de la tierra.
