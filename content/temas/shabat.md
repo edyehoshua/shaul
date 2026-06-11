@@ -11,6 +11,7 @@ references:
   - "#shemot_12_8"
   - "#shemot_12_18"
   - "#shemot_16_23"
+  - "#iojanan_18_28"
   - "#tehilim_104_19"
   - "#tehilim_104_22"
   - "#tehilim_104_23"
@@ -18,15 +19,20 @@ references:
   - "#shabat_35b"
   - "#markos_16_1"
   - "#markos_16_2"
-  - "#iojanan_18_28"
 sources:
   - "https://www.stneotsmuseum.org.uk/articles/a-history-of-time-the-story-behind-our-days-weeks-and-months/"
-translation: "[HEBREW, DELITZSCH, NBLA]"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
 
 Esta nota compara marcos históricos y bíblicos sobre el inicio del día, y propone evaluar si el conteo funcional para shabat y moadim se expresa "de tarde a tarde" o con matices contextuales según cada pasaje.
+
+## Alcance de la nota
+
+- Nota de trabajo sobre calendario, inicio del día y lectura bíblica del shabat.
+- No cierra de antemano si todo el corpus bíblico usa un solo marco horario; mantiene análisis por contexto.
+- Las referencias babilónicas y talmúdicas son indicativas y requieren verificación puntual.
 
 ## Antecedentes
 
@@ -57,18 +63,29 @@ Esta nota compara marcos históricos y bíblicos sobre el inicio del día, y pro
 
 ## Hoja de comparación
 
-| Referencia      | TTH                                                                                                                                                                          | Observación                                                                |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #bereshit_1_5   | Y llamó Elohim a la Luz día, y a la oscuridad llamó noche; y fue la tarde y fue la mañana, día uno.                                                                          | El ciclo narrativo básico formula tarde y mañana en ese orden.             |
-| #shemot_12_8    | Y comerán la carne en esa noche, asada al fuego, y con panes sin levadura sobre hierbas amargas la comerán.                                                                  | Pésaj arranca con una comida nocturna claramente ubicada.                  |
-| #shemot_12_18   | En el mes primero, en el día catorce del mes, comerán panes sin levadura, hasta el día veintiuno del mes por la tarde.                                                       | El cierre se marca expresamente por la tarde.                              |
-| #vaikra_23_32   | Shabat Shabatón es para ustedes, y afligirán sus gargantas en el día nueve del mes, por la tarde, desde la tarde hasta la tarde cesarán en su Shabat.                        | Este es el texto más directo para la fórmula de tarde a tarde.             |
-| #tehilim_104_19 | Él hizo la luna para los tiempos señalados; el sol conoce su puesta.                                                                                                         | El salmo vincula luminarias y tiempos señalados.                           |
-| #tehilim_104_22 | Brilla el sol, se reúnen, y en sus guaridas se acuestan.                                                                                                                     | El amanecer marca transición de actividad en la creación.                  |
-| #tehilim_104_23 | Sale el hombre a su obra, y a su servicio hasta el atardecer.                                                                                                                | El ritmo humano diario se describe desde la salida del sol hasta la tarde. |
-| #markos_16_1    | Y cuando pasó el Shabat, entonces Miriam Migdalit, Miriam, madre de Iaacob, y Shelomit, compraron perfume y aceite valioso para ir a ungirlo.                                | El relato distingue con claridad lo que ocurre después del Shabat.         |
-| #markos_16_2    | Y temprano en la mañana, en el primer día de la semana, vinieron al sepulcro, conforme amanecía el sol.                                                                      | El primer día se describe con amanecer explícito.                          |
-| #iojanan_18_28  | Y después de eso, llevaron a Yeshúa de Caifá hacia la casa del juicio. Y era de mañana; y ellos no subieron a la casa del juicio para no impurificarse, para comer el Pésaj. | El pasaje obliga a precisar cómo se está contando el marco de Pésaj.       |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #bereshit_1_5 | ו/יקרא אלהים ל/אור יום ו/ל/חשך קרא לילה ו/יהי ערב ו/יהי בקר יום אחד | Y llamó Elohim a la Luz día, y a la oscuridad llamó noche; y fue la tarde y fue la mañana, día uno. | Ciclo narrativo: **(ערב)** y **(בקר)** en ese orden. |
+| #shemot_12_8 | ו/אכלו את ה/בשר ב/לילה ה/זה צלי אש ו/מצות על מררים יאכל/הו | Y comerán la carne en esa noche… | Pésaj arranca con comida nocturna. |
+| #shemot_12_18 | ב/ראשן ב/ארבעה עשר יום ל/חדש ב/ערב תאכלו מצת עד יום ה/אחד ו/עשרים ל/חדש ב/ערב | …hasta el día veintiuno del mes por la tarde. | El cierre se marca por la tarde. |
+| #shemot_16_23 | …שבתון שבת קדש ל/יהוה מחר… ל/משמרת עד ה/בקר | …Shabatón Shabat apartado a יהוה es mañana… hasta la mañana. | Transición nocturna hacia el shabat. |
+| #vaikra_23_32 | שבת שבתון הוא ל/כם… ב/ערב מ/ערב עד ערב תשבתו שבת/כם | Shabat Shabatón es para ustedes… desde la tarde hasta la tarde cesarán en su Shabat. | Texto más directo para «de tarde a tarde». |
+| #tehilim_104_19 | עשה ירח ל/מועדים שמש ידע מבוא/ו | Él hizo la luna para los tiempos señalados; el sol conoce su puesta. | Luminarias y tiempos señalados. |
+| #tehilim_104_22 | תזרח ה/שמש יאספו/ן ו/אל מעונת/ם ירבצו/ן | Brilla el sol, se reúnen, y en sus guaridas se acuestan. | El amanecer marca transición. |
+| #tehilim_104_23 | יצא אדם ל/פעל/ו ו/ל/עבדת/ו עדי ערב | Sale el hombre a su obra… hasta el atardecer. | Ritmo diario desde salida del sol hasta la tarde. |
+| #markos_16_1 | ויהי כאשר עבר יום השבת ותקנינה מרים המגדלית… סמים ללכת ולסוך אתו בהם | Y cuando pasó el Shabat… compraron perfume… | Distinción clara de lo posterior al Shabat. |
+| #markos_16_2 | ובאחד בשבת בבקר השכם באו אלהקבר כעלות השמש | Y temprano en la mañana… conforme amanecía el sol. | Primer día con amanecer explícito. |
+| #iojanan_18_28 | ויוליכו אתישוע מבית קיפא אלבית המשפט כעלות הבקר… לא יוכלו לאכל אתהפסח | …Y era de mañana… para comer el Pésaj. | Obliga a precisar el marco de Pésaj. |
+
+## Hoja léxica
+
+| Hebreo | Transliteración (es) | Significado | Raíz | Observación |
+| --- | --- | --- | --- | --- |
+| **(ערב)** | erev | Tarde, crepúsculo | ערב | En #bereshit_1_5 y #vaikra_23_32 marca umbral del día. |
+| **(בקר)** | boker | Mañana | בקר | Contraste con erev en el ciclo narrativo. |
+| **(שבת)** | shabat | Cese, reposo | שבת | No reducir solo a «sábado» sin el matiz de cese. |
+| **(שבתון)** | shabaton | Cese solemne | שבת | En moadim intensifica el reposo. |
+| **(מועד)** | moed | Tiempo señalado, cita fija | יעד | Vinculado a luminarias en #tehilim_104_19. |
 
 ## Observaciones
 
@@ -96,7 +113,21 @@ Esta nota compara marcos históricos y bíblicos sobre el inicio del día, y pro
 - #bamidbar_11_32
 - #eijah_3_23
 
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Talmud Bavli | b. Berakhot 2a | Shema nocturno y #bereshit_1_5 | Mención indirecta en la nota |
+| Talmud Bavli | b. Shabbat 35b | Atardecer y crepúsculo como umbral del shabat | Mención indirecta en la nota |
+| Astronomical Diaries / MUL.APIN | Calendario babilonio | Día desde el atardecer en registros astronómicos | Pendiente de verificar |
+| Josefo / historiografía | Marcos de tiempo en el siglo I | Contexto para relatos del Brit Hadasha | Pendiente de verificar |
+
 ## Pendiente de verificar
 
-- [ ] Añadir hoja léxica abreviada de #vaikra_23_32 conservando solo términos clave para no sobrecargar la nota.
 - [ ] Revisar referencias numeradas y corregir cualquier cita cruzada mal escrita.
+- [ ] Cotejar si #tehilim_104_22-23 y #vaikra_23_32 pueden armonizarse sin forzar un solo marco horario.
+
+## Ver también
+
+- [Pesaj y Faraón](pesaj_faraon)
+- [Janucá](janukah)

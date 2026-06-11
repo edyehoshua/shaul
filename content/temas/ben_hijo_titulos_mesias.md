@@ -26,6 +26,7 @@ references:
   - "#galatim_3_16"
 sources:
   - "docs/benhaelohim.md"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -54,33 +55,23 @@ La respuesta propuesta es distinguir entre adam como designación amplia de una 
 
 ## Hoja de comparación
 
-| Pasaje                                          | Punto de lectura                                                       | Función en la enseñanza                                                                        |
-| ----------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| #bereshit_1_26 y #bereshit_1_27                 | Adam aparece como criatura viviente distinta de los animales.          | Sirve para separar el sentido original de adam de la condición caída posterior.                |
-| #bereshit_2_7                                   | Adam llega a ser ser viviente.                                         | Base para el lenguaje de cuerpo viviente que luego retoma Pablo.                               |
-| #bereshit_2_16                                  | La transcripción propone leer "este adam" por el artículo definido.    | Abre la lectura paulina del primer y postrer Adam.                                             |
-| #qorintiyim_alef_15_44 y #qorintiyim_alef_15_45 | Hay cuerpo psychikon y cuerpo pneumatikon; primer Adam y postrer Adam. | Establece dos modos de corporeidad, no una sola definición moderna de hombre.                  |
-| #qorintiyim_alef_15_47                          | El primer anthropos es del polvo; el segundo anthropos es de arriba.   | Diferencia origen terrenal y origen celestial.                                                 |
-| #qorintiyim_alef_15_50                          | Carne y sangre no heredan el reino.                                    | La carne y sangre se asocian con corrupción, no con la naturaleza final prometida.             |
-| #iojanan_3_31                                   | El que viene de arriba está sobre todos.                               | Refuerza que el Mesías no procede de la misma condición terrenal.                              |
-| #iojanan_3_36                                   | Creer en el Hijo se vincula con vida eterna.                           | Une filiación mesiánica con acceso a la vida.                                                  |
-| #iojanan_8_42                                   | "De Elohim he salido y he venido".                                     | La procedencia del Mesías se interpreta desde el origen divino.                                |
-| #ivrim_2_13 y #ivrim_2_14                       | "Los hijos" tienen en común carne y sangre; él se pone junto a ellos.  | La enseñanza distingue entre compartir la condición de los hijos y recibir la muerte de ellos. |
-| #ivrim_2_17                                     | Fue comparado con los hermanos.                                        | La semejanza se entiende por su padecimiento y muerte, no por pecado.                          |
-| #galatim_3_16                                   | La promesa es a la simiente, que es el Mesías.                         | La simiente se lee como unidad viviente portadora de la promesa.                               |
-
-## Texto TTH disponible
-
-Estos son los pasajes de esta nota que ya quedaron integrados desde el corpus local TTH.
-
-| Referencia     | TTH                                                                                                                                                                                                                        | Observación                                                                 |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| #bereshit_1_26 | Y dijo Elohim: Haremos al hombre en nuestra imagen, conforme a nuestra semejanza; y dominen en el pez del mar, en el ave de los cielos, en la bestia, en toda la tierra, y en todo reptil que se arrastra sobre la tierra. | La nota usa este punto para fijar adam como categoría previa a la caída.    |
-| #bereshit_2_7  | Y formó יהוה Elohim al hombre, polvo, desde el suelo -y soplará en su nariz aliento de vida- y fue el hombre un ser viviente.                                                                                              | Refuerza el lenguaje de ser viviente que luego reaparece en la comparación. |
-| #bereshit_2_16 | Y ordenó יהוה Elohim al hombre, diciendo: De todo árbol del jardín ciertamente comerás,                                                                                                                                    | La instrucción al adam sostiene la lectura de "este adam" en el relato.     |
-| #iojanan_3_31  | El que de arriba viene, sobre todo es; y el que de la tierra es, también de la tierra habla; y el que de los cielos viene, sobre todo es.                                                                                  | Aquí la procedencia de arriba queda dicha de manera directa.                |
-| #iojanan_3_36  | El que se afirma por el Hijo, habrá para él vida olam; pero el que no se afirma, no verá la vida, sino que el calor de la ira de יהוה se posará sobre él.                                                                  | La filiación del Hijo se enlaza con vida y juicio.                          |
-| #iojanan_8_42  | Y les dijo: Si Elohim fuera su padre, ciertamente me amarían, porque Yo de Elohim he salido, y he venido; y no he venido de Mí, sino que Él me envió.                                                                      | El pasaje refuerza la salida y envío del Mesías desde Elohim.               |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Función en la enseñanza |
+| --- | --- | --- | --- |
+| #bereshit_1_26 | ו/יאמר אלהים נעשה אדם ב/צלמ/נו כ/דמות/נו… | Y dijo Elohim: Haremos al hombre en nuestra imagen… | Adam como categoría previa a la caída. |
+| #bereshit_1_27 | ו/יברא אלהים את ה/אדם ב/צלמ/ו… זכר ו/נקבה ברא את/ם | Y creó Elohim al hombre en su imagen… varón y hembra los creó. | Entidad viviente distinta de los animales. |
+| #bereshit_2_7 | ו/ייצר יהוה אלהים את ה/אדם עפר מן ה/אדמה… ו/יהי ה/אדם ל/נפש חיה | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente. |
+| #bereshit_2_16 | ו/יצו יהוה אלהים על ה/אדם ל/אמר מ/כל עץ ה/גן אכל תאכל | Y ordenó יהוה Elohim al hombre… | Lectura de «este adam» por el artículo. |
+| #qorintiyim_alef_15_44 | יזרע גוף נפשי ויקום גוף רוחני… | TTH no disponible en corpus local | Cuerpo psychikon y pneumatikon. |
+| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה | TTH no disponible en corpus local | Primer Adam y postrer Adam. |
+| #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים | TTH no disponible en corpus local | Origen terrenal y celestial. |
+| #qorintiyim_alef_15_50 | וזאת אני אמר אחי כיבשר ודם לאיוכל לרשת אתמלכות האלהים… | TTH no disponible en corpus local | Carne y sangre no heredan el reino. |
+| #iojanan_3_31 | הבא ממרום רם הוא מכל… הבא משמים רם הוא עלכל | El que de arriba viene, sobre todo es… | Procedencia celestial del Mesías. |
+| #iojanan_3_36 | מי אשר יאמין בבן ישלו חיי עולם… | El que se afirma por el Hijo, habrá para él vida olam… | Filiación unida a vida. |
+| #iojanan_8_42 | ויאמר אליהם ישוע… מאת אלהים יצאתי ומאתו באתי… | …Yo de Elohim he salido, y he venido… | Procedencia divina del Mesías. |
+| #ivrim_2_13 | ואומר וקויתי לו ועוד הנה אנכי והילדים אשר נתןלי יהוה | TTH no disponible en corpus local | Los hijos dados al Mesías. |
+| #ivrim_2_14 | ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם כמוהם | TTH no disponible en corpus local | Compartir carne y sangre; ponerse junto a los hijos. |
+| #ivrim_2_17 | עלכן צריך היה לו להדמות לאחיו בכלדבר… | TTH no disponible en corpus local | Semejanza por padecimiento, no por pecado. |
+| #galatim_3_16 | והנה לאברהם נאמרו ההבטחות ולזרעו… והוא המשיח | TTH no disponible en corpus local | La simiente es el Mesías. |
 
 ## Adam no es solo nombre propio
 
@@ -116,8 +107,25 @@ Por eso la nota conecta hijo, simiente y postrer Adam. El Mesías es llamado hom
 
 La transcripción pide leer "hombre", "hijo" y "simiente" desde el hilo interno de la Escritura. Adam no es únicamente el nombre de un individuo; anthropos no es automáticamente naturaleza humana caída; ben no es solo filiación biológica. En esta lectura, el Mesías es Hijo porque porta la herencia y da vida a los hijos; es Adam porque es entidad viviente corpórea; y es postrer Adam porque viene de arriba, sin quedar sujeto a la corrupción del primer adam.
 
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Midrash / Tanaj | Primer y postrer Adam | Marco de #qorintiyim_alef_15_44-47 | Pendiente de verificar |
+| Targum / arameo | **(בר אנש)** y títulos mesiánicos | Trasfondo de «Hijo de Hombre» | Pendiente de verificar |
+| BDB / Jastrow | אדם, בן, זרע | Apoyo léxico de la hoja léxica | Pendiente de verificar |
+| #bereshit_1_26-27 | Creación del adam | Categoría de entidad viviente | Cotejado |
+| #galatim_3_16 | Promesa a la simiente | Unidad viviente portadora de promesa | Cotejado (Delitzsch) |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en una hoja técnica los verbos griegos de #ivrim_2_14 y #ivrim_2_17 con una fuente léxica secundaria.
-- [ ] Añadir una tabla textual completa de 1 Corintios 15 cuando el corpus local incluya Qorintiyim Alef.
+- [ ] Añadir una tabla textual completa de 1 Corintios 15 cuando el corpus local incluya Qorintiyim Alef en TTH.
 - [ ] Revisar el vocabulario de "simiente" en Bereshit, Galatim y parábolas del reino en una nota separada.
+
+## Ver también
+
+- [Elohim y Abba](elohim_aba)
+- [Bat Kol: Hijo, Siervo y Testimonio](bat_kol)
+- [Yojanan 1: meymrá, vida y tabernáculo](../besorah/yojanan_1)
+- [Yojanán 9: el Ben Adam y el ciego](../besorah/yojanan_9_ben_adam_y_el_ciego)

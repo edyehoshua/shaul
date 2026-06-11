@@ -26,6 +26,7 @@ references:
   - "#qorintiyim_alef_15_28"
 sources:
   - "docs/benhaelohim.md"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -53,19 +54,20 @@ Luego conecta ese origen con la filiación. Israel es llamado hijo, no solo por 
 
 ## Hoja de comparación
 
-| Pasaje                              | Texto TTH local                                                                                                                                                       | Función en la enseñanza                                                             |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #tehilim_36_10                      | "Porque contigo está el manantial de vida, en tu luz veremos luz."                                                                                                    | Aba se entiende como fuente de vida antes de manifestarse.                          |
-| #tehilim_68_26                      | "En las congregaciones bendigan a Elohim, יהוה, desde la fuente de Israel."                                                                                           | La fuente se conecta con el pueblo llamado hijo.                                    |
-| #tehilim_89_27                      | "También Yo por primogénito lo pondré, Elyón (O, el más alto) para los reyes de la tierra."                                                                           | La filiación y el primogénito se vinculan con herencia y exaltación.                |
-| #shemot_4_22 y #shemot_4_23         | "Mi hijo, mi primogénito es Israel."<br>"Envía a mi hijo para que me sirva".                                                                                          | La filiación de Israel prepara el lenguaje de promesa.                              |
-| #hoshea_11_1                        | "Porque siervo era Israel, y Yo lo amé, y de Mitzráim llamé a mi hijo."                                                                                               | Refuerza que hijo no es solo biología, sino elección y amor entrañable.             |
-| #irmeiahu_31_20                     | "¿Hijo preciado es para Mí Efráim?, ¿o, niño de deleites? ... por eso gruñen mis entrañas por él, amando, lo amaré entrañablemente".                                  | Se vincula filiación con conmoción de entrañas, rajamim.                            |
-| #romanos_8_15                       | "Porque no han recibido el rúaj de servidumbre otra vez para temor, sino que han recibido el Rúaj de adopción, por el cual clamamos: ¡Abá! ¡Padre nuestro!"           | Aba se vincula con adopción/filiación, no con miedo servil.                         |
-| #galatim_4_6                        | Pendiente: el libro no aparece en el corpus TTH local actual disponible en esta revisión.                                                                             | La promesa del Hijo llega al corazón de los hijos.                                  |
-| #ivrim_1_1, #ivrim_1_2 y #ivrim_1_3 | Pendiente: el libro no aparece en el corpus TTH local actual disponible en esta revisión.                                                                             | El Hijo manifiesta la sustancia no manifestada.                                     |
-| #iojanan_14_28                      | "Escucharon que Yo les dije: ‘Yo voy, y vendré a ustedes’. Si me aman, ciertamente se regocijarán porque dije: ‘Voy al Padre’, porque mi Padre es más grande que Yo." | La enseñanza lo lee como Aba mayor que lo ya manifestado en la etapa de siervo.     |
-| #qorintiyim_alef_15_28              | Pendiente: el libro no aparece en el corpus TTH local actual disponible en esta revisión.                                                                             | Se interpreta como integración final de lo manifestado en la plenitud de la fuente. |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Función en la enseñanza |
+| --- | --- | --- | --- |
+| #tehilim_36_10 | כי עמ/ך מקור חיים ב/אור/ך נראה אור | Porque contigo está el manantial de vida, en tu luz veremos luz. | Aba como fuente de vida antes de manifestarse. |
+| #tehilim_68_26 | ב/מקהלות ברכו אלהים יהוה מ/מקור ישראל | En las congregaciones bendigan a Elohim, יהוה, desde la fuente de Israel. | La fuente se conecta con el pueblo llamado hijo. (Hebreo OE en 68:27.) |
+| #tehilim_89_27 | אף אני בכור אתנ/הו עליון ל/מלכי ארץ | También Yo por primogénito lo pondré, Elyón… para los reyes de la tierra. | Filiación, primogénito y exaltación. (Hebreo OE en 89:28.) |
+| #shemot_4_22 | בנ/י בכר/י ישראל | Mi hijo, mi primogénito es Israel. | Filiación de Israel como promesa. |
+| #shemot_4_23 | שלח את בנ/י ו/יעבד/ני | Envía a mi hijo para que me sirva. | Servicio y envío del hijo. |
+| #hoshea_11_1 | כי נער ישראל ו/אהב/הו ו/מ/מצרים קראתי ל/בנ/י | Porque siervo era Israel, y Yo lo amé, y de Mitzráim llamé a mi hijo. | Hijo por elección y amor entrañable. |
+| #irmeiahu_31_20 | ה/בן יקיר ל/י אפרים… רחם ארחמ/נו נאם יהוה | ¿Hijo preciado es para Mí Efráim?… amando, lo amaré entrañablemente. | Filiación y **(רחמים)**. |
+| #romanos_8_15 | כי לא קבלתם רוח עבדות… קראים אנחנו אבא אבינו | …clamamos: ¡Abá! ¡Padre nuestro! | Aba y adopción, no temor servil. |
+| #galatim_4_6 | TTH no disponible en corpus local | Pendiente | La promesa del Hijo llega al corazón de los hijos. |
+| #ivrim_1_1-3 | TTH no disponible en corpus local | Pendiente | El Hijo manifiesta la sustancia no manifestada. |
+| #iojanan_14_28 | הלא שמעתם… כיהלך אני אלהאב כי האב גדול ממני | …mi Padre es más grande que Yo. | Aba mayor que la manifestación en etapa de siervo. |
+| #qorintiyim_alef_15_28 | TTH no disponible en corpus local | Pendiente | Integración final en la plenitud de la fuente. |
 
 ## Elohim y rajamim
 
@@ -107,8 +109,26 @@ Así, "Aba es mayor" no se usa para negar la deidad del Mesías, sino para disti
 
 La enseñanza reorganiza el lenguaje de Dios y Padre desde categorías semíticas: **(אל)** como poder, **(אלוה)** como el Supremo, **(אלהים)** como amor entrañable manifestado, **(אבא)** como fuente no manifestada, y el Hijo como manifestación visible de esa sustancia. La conclusión no es una Trinidad de personas, sino una lectura de la deidad del Mesías donde lo manifestado y lo no manifestado pertenecen al mismo Elohim y confluyen en Yeshúa el Mesías como Adon.
 
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Targum / arameo del ST | **(אבא)** en contexto del Segundo Templo | Uso devocional y familiar de Aba | Pendiente de verificar |
+| Jastrow / BDB | אבא, אב, רחמים | Apoyo léxico de la hoja léxica | Pendiente de verificar |
+| Midrash / Tanaj | Filiación de Israel (#shemot_4_22; #hoshea_11_1) | Marco de hijo y promesa | Cotejado |
+| #irmeiahu_31_20 | Entrañas y filiación | Vínculo con **(רחמים)** | Cotejado |
+| Ibn Ezra / comentaristas | Nombres y atributos de Elohim | Lectura no mecánica de **(אלהים)** | Pendiente de verificar |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar los usos arameos de Aba con una fuente léxica secundaria además de la transcripción.
 - [ ] Completar las citas de #galatim_4_6, #ivrim_1_1 a #ivrim_1_3 y #qorintiyim_alef_15_28 cuando el corpus local preferido incorpore esos libros.
 - [ ] Expandir una nota aparte sobre **(יהוה צבאות)** y la lectura "plenitud de atributos".
+
+## Ver también
+
+- [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias)
+- [Bat Kol: Hijo, Siervo y Testimonio](bat_kol)
+- [Yojanán 10: la puerta, el buen pastor y Abba](../besorah/yojanan_10_puerta_pastor_abba)
+- [Yojanán 14: Abba, Menajem y el Nombre](../besorah/yojanan_14_abba_menajem_nombre)
+- [Yojanan 1: meymrá, vida y tabernáculo](../besorah/yojanan_1)

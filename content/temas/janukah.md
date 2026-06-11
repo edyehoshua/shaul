@@ -9,14 +9,23 @@ tags:
   - helenizacion
 references:
   - "#tehilim_30"
+  - "#tehilim_30_1"
+  - "#tehilim_30_2"
   - "#iojanan_10_22"
   - "#iojanan_10_24"
 sources: []
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
 
 Janucá aparece aquí como la rehabilitación del templo y la memoria de la santidad en un contexto de helenización, y también como un marco para entender la expectativa mesiánica equivocada que algunos proyectaban sobre Yeshua.
+
+## Alcance de la nota
+
+- Apuntes temáticos sobre Janucá, helenización y expectativa mesiánica en #iojanan_10_22-24.
+- La cronología macabea resumida aquí es de trabajo; conviene verificar nombres y fechas con fuentes históricas.
+- #tehilim_30 queda como marco temático; la hoja comparativa despliega solo versículos iniciales.
 
 ## Contexto histórico
 
@@ -35,16 +44,22 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 
 ## Hoja de comparación
 
-| Referencia     | TTH                                                                                                                                | Observación                                                                        |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| #iojanan_10_22 | Y era Janucá en Ierushaláim, y era invierno.                                                                                       | El relato ubica explícitamente la escena en Janucá.                                |
-| #iojanan_10_24 | Y lo rodearon los yehudim, y le dijeron: ¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza.          | La presión mesiánica aparece en el marco de la fiesta.                             |
-| #tehilim_30    | La nota conserva este salmo como marco temático de dedicación y memoria, pendiente de desplegar por versículos en una hoja aparte. | El capítulo sigue funcionando como base, aunque aquí no se cita aún verso a verso. |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים | Y era Janucá en Ierushaláim, y era invierno. | El relato ubica la escena en la fiesta. |
+| #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | …¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Presión mesiánica en el marco de Janucá. |
+| #tehilim_30_1 | מזמור שיר חנכת ה/בית ל/דוד | Te exaltaré, יהוה, porque me has liberado… | Encabezado: salmo de dedicación del bayit. |
+| #tehilim_30_2 | ארוממ/ך יהוה כי דלית/ני ו/לא שמחת איב/י ל/י | יהוה, mi Elohim, grité por ayuda a ti y me sanaste. | Memoria de liberación ligada a la casa. |
 
-## Términos
+## Hoja léxica
 
-- Janucá: habilitación; en el caso del templo, rehabilitación.
-- Janaj: estrenar, educar, habilitar.
+| Forma | Aproximación usual | Matiz que hay que preservar |
+| --- | --- | --- |
+| **(חנוכה)** | dedicación, habilitación | En el templo: rehabilitación y reconsagración, no solo «fiesta de luces». |
+| **(חנך)** | estrenar, educar, dedicar | Raíz de instrucción y puesta en funcionamiento. |
+| **(זכר קדשו)** | memoria de su santidad | Traer a la memoria lo que יהוה santificó. |
+| **(תודה)** | confesión, reconocimiento público | En el salmo: confesar y reconocer, no solo «gracias» emotiva. |
+| **(משיח)** | ungido, Mesías | En #iojanan_10_24 la pregunta asume un modelo mesiánico concreto. |
 
 ## Salmo 30 y la memoria de la santidad
 
@@ -59,7 +74,23 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 - Por eso la pregunta a Yeshua en #iojanan_10_24 se entiende como una presión para que se identifique con ese modelo.
 - La nota subraya que Yeshua no valida esa expectativa equivocada, aunque sí confronta la incredulidad de quienes no oyen su voz.
 
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| 1-2 Macabeos | Rehabilitación del templo | Contexto histórico de Janucá | Pendiente de verificar |
+| Josefo | Ant. 12–13 | Periodo seléucida y Macabeos | Pendiente de verificar |
+| m. Shabbat | Janucá y encendido de luces | Práctica festiva posterior | Pendiente de verificar |
+| #tehilim_30 | Salmo de dedicación | Memoria de santidad y todah | Cotejado |
+
 ## Pendiente de verificar
 
 - [ ] Revisar los nombres propios transliterados y la secuencia histórica precisa entre Jasón, Menelao y Antíoco Epífanes.
 - [ ] Añadir una fuente histórica explícita para la cronología macabea resumida en la nota.
+- [ ] Desplegar #tehilim_30 completo en hoja comparativa aparte si la nota crece.
+
+## Ver también
+
+- [Yojanan 10: la puerta, el buen pastor y Abba](../besorah/yojanan_10_puerta_pastor_abba)
+- [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias)
+- [Shabat: inicio del día y marcos calendarios](shabat)

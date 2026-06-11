@@ -14,6 +14,7 @@ references:
   - "#shemot_13_15"
   - "#shemot_14_4"
 sources: []
+translation: "[TTH, OE]"
 ---
 
 # Tesis
@@ -31,23 +32,40 @@ El endurecimiento del corazón de Faraón se explica aquí a partir de varios ve
 
 ## Hoja de comparación
 
-| Referencia    | TTH                                                                                                                                                                                                                                                                                   | Observación                                                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| #shemot_4_21  | Y dijo יהוה a Moshéh: Cuando vayas a regresar a Mitzráim, mira todas las maravillas que he puesto en tu mano, y las harás delante de Faraón. Pero Yo mostraré la dureza de su corazón, y no enviará al pueblo.                                                                        | La dureza aparece como resistencia previa al envío del pueblo.   |
-| #shemot_7_3   | Pero Yo mostraré la dureza del corazón de Faraón, y aumentaré mis señales y mis maravillas en la tierra de Mitzráim.                                                                                                                                                                  | La presión del conflicto se integra al despliegue de señales.    |
-| #shemot_7_14  | Y dijo יהוה a Moshéh: Es pesado el corazón de Faraón, se rehúsa a enviar al pueblo.                                                                                                                                                                                                   | El énfasis pasa al peso del corazón y su negativa persistente.   |
-| #shemot_9_12  | Pero se hizo fuerte יהוה con el corazón de Faraón, y no los escuchó, como había hablado יהוה a Moshéh.                                                                                                                                                                                | El verbo de fortalecerse intensifica el cierre ante la palabra.  |
-| #shemot_13_15 | Y sucedió que cuando se endureció Faraón a enviarnos, mató יהוה todo primogénito en la tierra de Mitzráim, desde el primogénito de hombre hasta el primogénito de bestia. Por eso yo sacrifico a יהוה toda abertura de matriz, los machos, pero todo primogénito de mis hijos redimo. | El recuerdo de Pésaj queda unido a la dureza previa de Faraón.   |
-| #shemot_14_4  | Y me haré fuerte con el corazón de Faraón, y los perseguirá detrás de ustedes; y seré honrado por Faraón y por todo su ejército, y sabrá Mitzráim que Yo soy יהוה. Y lo hicieron así.                                                                                                 | La persecución final también sirve para manifestar honra a יהוה. |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #shemot_4_21 | ו/אני אחזק את לב/ו ו/לא ישלח את ה/עם | …Yo mostraré la dureza de su corazón, y no enviará al pueblo. | **(אחזק)** / kasheh: resistencia previa. |
+| #shemot_7_3 | ו/אני אקשה את לב פרעה ו/הרביתי את אתת/י ו/את מופת/י ב/ארץ מצרים | …Yo mostraré la dureza del corazón de Faraón… | La dureza se integra al despliegue de señales. |
+| #shemot_7_14 | כבד לב פרעה מאן ל/שלח ה/עם | Es pesado el corazón de Faraón, se rehúsa a enviar al pueblo. | **(כבד)**: pesadez y negativa persistente. |
+| #shemot_9_12 | ו/יחזק יהוה את לב פרעה ו/לא שמע אל/הם | …se hizo fuerte יהוה con el corazón de Faraón… | **(יחזק)**: fortalecer/cerrar ante la palabra. |
+| #shemot_13_15 | ו/יהי כי הקשה פרעה ל/שלח/נו ו/יהרג יהוה כל בכור… | …cuando se endureció Faraón a enviarnos… | Pésaj recordado junto a la dureza previa. |
+| #shemot_14_4 | ו/חזקתי את לב פרעה ו/רדף אחרי/הם… | …me haré fuerte con el corazón de Faraón… | La persecución sirve para honrar a יהוה. |
 
-## Léxico clave
+## Hoja léxica
 
-- Kasheh: hacer visible la dureza.
-- Jazak: hacerse fuerte contra el corazón de Faraón.
-- Kaved: pesadez del corazón.
+| Hebreo | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación |
+| --- | --- | --- | --- | --- | --- |
+| **(אקשה)** | akasheh | hacer duro, mostrar dureza | קשה | dureza, severidad | Kasheh en la nota: hacer visible la dureza. |
+| **(יחזק)** | jazak | fortalecer, endurecer | חזק | fuerza, solidez | Puede leerse sobre Faraón o sobre la acción de יהוה según contexto. |
+| **(כבד)** | kaved | ser pesado, gravar | כבד | peso, honra | Aquí: pesadez del corazón, no «honra». |
+| **(הקשה)** | hiksheh | endurecerse | קשה | dureza | En #shemot_13_15: memoria litúrgica de Pésaj. |
+| **(חזקת יד)** | jozek yad | fortaleza de mano | חזק + יד | poder liberador | Contraste final: יהוה saca a Israel. |
 
 ## Observaciones
 
 - La nota asume que nacemos con dureza de corazón y por eso la palabra de Adonai no entra de manera natural.
 - Faraón no solo resiste la palabra: ataca a Adonai y, aun derrotado, vuelve a rebelarse.
 - El contraste final es jozek yad, fortaleza de mano, por la cual יהוה saca a Israel.
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Rashi / comentaristas | Shemot 7–14 | Distinción entre endurecer de Faraón y de יהוה | Pendiente de verificar |
+| Midrash | Endurecimiento del corazón de Faraón | Teología del libre albedrío y juicio | Pendiente de verificar |
+| Haggadah de Pésaj | #shemot_13_15 | Memoria litúrgica de la dureza previa | Mención indirecta en la nota |
+
+## Ver también
+
+- [Shabat: inicio del día y marcos calendarios](shabat)
+- [Introducción al evangelio de Yojanan](../besorah/yojanan_introduccion)
