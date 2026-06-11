@@ -33,6 +33,7 @@ references:
 sources:
   - "https://www.youtube.com/live/LCt5Wt86POA?si=rMD1SDqGgVCsH5kI"
   - "/Users/jhonny/.codex/attachments/d026d3ee-b074-498d-a30f-cba93475285e/pasted-text.txt"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -50,20 +51,50 @@ El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse co
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_10_17 | "Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar." | El amor de Abba se manifiesta en la entrega y recuperación voluntaria de la vida. |
-| #iojanan_10_18 | "Ningún hombre me la quita, sino que Yo la pongo de Mí mismo. Porque tengo dominio para ponerla de Mí mismo, y tengo dominio para volverla a tomar. Este mandamiento he recibido de mi Padre." | Texto central: nadie le arrebata la vida; él posee dominio para ponerla y retomarla. |
-| #maasei_hashlijim_2_24 | ואלהים הקימו מןהמתים בהתירו אתחבלי המות לפי שלא היה בידו להחזיק בו | La muerte no podía retenerlo; la resurrección confirma la vida que no puede ser dominada por muerte. |
-| #ivrim_7_16 | אשר איננו עלפי חקת בשר ודם אלא עלפי כח חיים שאין להם הפסק | El sacerdocio del Mesías se vincula con el poder de una vida sin interrupción. |
-| #ivrim_10_5 | ועלכן אמר בבואו לעולם זבח ומנחה לא חפצת גויה כוננת לי | La entrada al mundo se entiende como preparación de un cuerpo para la obediencia sacrificial. |
-| #ivrim_10_20 | דרך חדש וחי אשר חדש לנו בפרכת היא בשרו | El acceso se abre por el velo de su carne; el sacrificio resuelve el problema humano. |
-| #timoteo_alef_6_15 | אשר יראנה בעתה המברך והשליט לבדו מלך המלכים ואדני האדנים | El que se manifestará es el único soberano, Rey de reyes y Señor de señores. |
-| #timoteo_alef_6_16 | אשר הוא לבדו חי וקים והוא שכן אור נשגב ואיש לא ראהו ולא יוכל לראותו ולו הכבוד וגבורת עולמים אמן | La vida e inmortalidad pertenecen solo a él; por eso la muerte no puede destruirlo. |
-| #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח | La esperanza mira a la manifestación de nuestro gran Elohim y Salvador, Yeshúa el Mesías. |
-| #ieshaiahu_53_7 | "Fue oprimido, y Él fue afligido, pero no abrió su boca; como cordero para sacrificio fue llevado..." | El silencio del Siervo explica que no intervenga en defensa propia. |
-| #zejariah_12_10 | "me mirarán a Mí, al que traspasarán..." | La clase lo usa para sostener que יהוה mismo anticipa ser traspasado. |
-| #tehilim_103_13 | "Como se compadece un padre sobre los hijos, se compadeció יהוה sobre sus temerosos." | Abba se asocia con amor entrañable y misericordia hacia los hijos. |
+### Yojanán 10:17-28 (Delitzsch + TTH)
+
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_17 | עלכן יאהבני האב כי אתנפשי אתן ואשיב ואקחיה | Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar. | Amor de Abba en entrega y recuperación voluntaria. |
+| #iojanan_10_18 | איש לא יקח נפשי ממני כי אםאני אתננה ישלאל ידי לתתה וישלאל להשיבה אלי זאת המצוה צויתי מאת אבי | Ningún hombre me la quita... Este mandamiento he recibido de mi Padre. | Texto central: dominio para poner y retomar la vida. |
+| #iojanan_10_26 | רק אתם לא תאמינו כי לא מצאני אתם כאשר אמרתי לכם | Pero ustedes no se afirman, porque no son de mis ovejas... | Expectativas tradicionales filtran la Escritura. |
+| #iojanan_10_28 | וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי | Y Yo les doy vida olam, y no perecerán para siempre. | Promesa ligada a la vida que la muerte no retiene. |
+
+### Textos de apoyo (OE + TTH / Delitzsch)
+
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #maasei_hashlijim_2_24 | ואלהים הקימו מןהמתים בהתירו אתחבלי המות לפי שלא היה בידו להחזיק בו (Delitzsch) | Pendiente en TTH local | La muerte no pudo retenerlo. |
+| #ivrim_7_16 | אשר איננו עלפי חקת בשר ודם אלא עלפי כח חיים שאין להם הפסק (Delitzsch) | Pendiente en TTH local | Sacerdocio según vida sin interrupción. |
+| #ivrim_10_5 | ועלכן אמר בבואו לעולם זבח ומנחה לא חפצת גויה כוננת לי (Delitzsch) | Pendiente en TTH local | Cuerpo preparado para obediencia sacrificial. |
+| #ivrim_10_20 | דרך חדש וחי אשר חדש לנו בפרכת היא בשרו (Delitzsch) | Pendiente en TTH local | Acceso por el velo de su carne. |
+| #timoteo_alef_6_15 | אשר יראנה בעתה המברך והשליט לבדו מלך המלכים ואדני האדנים (Delitzsch) | Pendiente en TTH local | Rey de reyes; soberano único. |
+| #timoteo_alef_6_16 | אשר הוא לבדו חי וקים והוא שכן אור נשגב ואיש לא ראהו ולא יוכל לראותו (Delitzsch) | Pendiente en TTH local | Vida e inmortalidad solo en él. |
+| #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח (Delitzsch) | Pendiente en TTH local | Gran Elohim y Salvador: Yeshúa el Mesías. |
+| #ieshaiahu_53_7 | נגש ו/הוא נענה ו/לא יפתח פי/ו כ/שה ל/טבח יובל... | Fue oprimido... como cordero para sacrificio fue llevado... | Silencio deliberado del Siervo. |
+| #zejariah_12_10 | ו/שפכתי על בית דויד... ו/הביטו אל/י את אשר דקרו | ...me mirarán a Mí, al que traspasarán. | יהוה anticipa ser traspasado. |
+| #tehilim_103_13 | כ/רחם אב על בנים רחם יהוה על יראי/ו | Como se compadece un padre sobre los hijos... | Abba como amor entrañable y misericordia. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(מצוה)** | mitzvah | competencia, capacidad recibida desde Abba | צוה | En #iojanan_10_18 no es mera "orden" castellana. |
+| **(נפש)** | nefesh | vida que se pone y se retoma | נפש | Vida biológica entregada; vida indestructible que vuelve a actuar. |
+| **(אבא)** | Abba | fuente de promesa, amor entrañable | אבא | Ver [[../temas/elohim_aba|Elohim y Aba]]. |
+| **(חי)** | chai | vida sin interrupción | חיה | #ivrim_7_16: כח חיים שאין להם הפסק. |
+| **(אמן)** | emun | afirmarse, fidelidad ante obras y voz | אמן | #iojanan_10_26-28: ovejas que oyen y siguen. |
+| **(ביטול במציאות)** | bittul b'metziut | anulación de la propia existencia (jasídico) | — | Mención en clase sobre Abba/emet/maqor; pendiente de verificar. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Literatura jasídica / Jabad | bittul b'metziut, Abba, emet, maqor, qodesh | Imaginario judío sobre fuente y anulación | Pendiente de verificar |
+| Sefer Yetzirah / tradición de 32 sendas | 32 sendas de sabiduría vs 32 reglas de interpretación | Mención en la clase | Pendiente de verificar |
+| BDB / Jastrow | מצוה, צוה | "Competencia" frente a "orden" | Pendiente de verificar |
+| Delitzsch | #maasei_hashlijim_2_24, #ivrim_7_16, #ivrim_10_5-20, #timoteo_alef_6_15-16 | Vida indestructible y resurrección | Cotejado (Delitzsch local) |
+| Midrash / comentarios | #tehilim_22 (manos y pies) | Variantes sobre crucifixión | Pendiente de verificar |
 
 ## Mandamiento como competencia
 
@@ -127,3 +158,16 @@ En el flujo del argumento, esa promesa depende de la misma vida indestructible q
 - [ ] Verificar la relación exacta entre las 32 sendas de sabiduría y las 32 reglas de interpretación de Torah.
 - [ ] Revisar el uso léxico de mitzvá como "competencia" en fuentes hebreas y arameas.
 - [ ] Cotejar la lectura de #tehilim_22_17 sobre manos y pies con el texto hebreo, variantes y versiones antiguas.
+
+
+## Conclusión
+
+#iojanan_10_17-18 presenta la muerte del Mesías como entrega soberana recibida desde Abba, no como derrota ante poderes humanos. La vida indestructible queda inactiva mientras se cumple el sacrificio, y vuelve a actuar en la resurrección. Por eso #iojanan_10_28 puede prometer vida olam: el pastor da la vida que la muerte no puede retener.
+
+## Ver también
+
+- [[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
+- [[yojanan_10_nefesh_janukah_mesias|Yojanán 10: nefesh, Janucá y la pregunta por el Mesías]]
+- [[yojanan_10_janukah_senales_mesias|Yojanán 10: Janukah y las señales del Mesías]]
+- [[yojanan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]
+- [[../temas/elohim_aba|Elohim y Aba como amor manifiesto y fuente]]

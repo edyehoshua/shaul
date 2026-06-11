@@ -35,6 +35,7 @@ references:
 sources:
   - "https://www.youtube.com/live/2oGHEpfFPlM?si=JuFmPC0LwkQiAuah"
   - "private/hermes/sources/youtube_2oGHEpfFPlM_transcript.txt"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -51,24 +52,57 @@ La clase lee "Yo soy el camino, la verdad y la vida" como una sola realidad vist
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_14_6 | "Y le dijo Yeshúa: Yo soy el camino, y la verdad, y la vida, ningún hombre viene al Padre sino por Mí." | El acceso a Abba pasa por el Mesías; la clase subraya "viene", no "va", para leer a Abba desde la presencia de Yeshúa. |
-| #iojanan_14_7 | "Cuando me conozcan, también conocerán a mi Padre; y desde ahora lo conocen, y lo han visto." | Conocer y ver al Padre queda ligado a conocer y ver al Mesías. |
-| #iojanan_14_9 | "El que me ve a Mí, ha visto al Padre; ¿y cómo dices tú: 'Danos a conocer al Padre'?" | Respuesta directa a la petición de Filipos: Abba no se muestra aparte de Yeshúa. |
-| #iojanan_14_10 | "¿No te afirmas en que Yo soy en el Padre y el Padre es en Mí?... el Padre que es en Mí, Él hace las obras." | Las palabras y obras no prueban una agencia separada, sino la obra de Abba en el Mesías. |
-| #iojanan_14_11 | "Afírmense en Mí que Yo soy en el Padre y el Padre es en Mí; y si no, afírmense en Mí por estas obras." | Las obras funcionan como testimonio de identidad: calmar, vivificar y salvar pertenecen a Elohim. |
-| #iojanan_14_13 | "Y todo lo que pidan en mi Nombre, lo haré; para que sea glorificado el Padre en el Hijo." | Pedir en el Nombre se entiende como pedir desde la revelación y obra de Yeshúa, no desde capricho humano. |
-| #iojanan_14_15 | "Si ustedes me aman, también mis mandamientos guardarán." | Los mandamientos de Yeshúa no se oponen a Torah; expresan la misma voluntad de Elohim. |
-| #iojanan_14_16 | "Y Yo pediré del Padre, y les dará al siguiente Menajem, que estará con ustedes para siempre." | El video entiende "otro" como adicional, no como un ser distinto en competencia. |
-| #iojanan_14_26 | "Pero el Menajem, el Rúaj Ha'Kódesh, que lo enviará mi Padre en mi Nombre..." | Abba envía el Menajem en el Nombre de Yeshúa. |
-| #iojanan_15_26 | "Pero cuando venga el Menajem, el que Yo enviaré a ustedes de mi Padre..." | El Mesías también dice que él enviará el Menajem; la clase usa esto para afirmar la unidad de Abba y Yeshúa. |
-| #tehilim_94_19 | "En la multitud de mis pensamientos dentro de mí, tus restauraciones acarician mi ser." | Base para hablar del Menajem como consolación/restauración prometida. |
-| #bereshit_32_10 | ו/יאמר יעקב אלהי אב/י אברהם ו/אלהי אב/י יצחק יהוה ה/אמר אל/י שוב ל/ארצ/ך ו/ל/מולדת/ך ו/איטיבה עמ/ך | Yaakov ora apelando a lo que יהוה ya prometió. |
-| #bereshit_32_12 | הציל/ני נא מ/יד אח/י מ/יד עשו כי ירא אנכי את/ו פן יבוא ו/הכ/ני אם על בנים | La súplica nace de la promesa, no de una declaración autónoma de poder humano. |
-| #ieshaiahu_40_13 | "¿Quién midió al Rúaj de יהוה, y qué hombre su consejo dará a conocer?" | El video conecta este pasaje con #qorintiyim_alef_2_16 para leer Rúaj también como mente/consejo. |
-| #qorintiyim_alef_2_16 | כי מי־תכן את־רוח יהוה ומי יודיענו ואנחנו הנה יש־לנו רוח המשיח | Delitzsch conecta el Rúaj de יהוה con el Rúaj del Mesías; la clase lo usa contra separar al Mesías de Elohim. |
-| #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח | El video lo cita como confesión directa: Yeshúa el Mesías es "nuestro gran Elohim y Salvador". |
+### Yojanán 14-15 (Delitzsch + TTH)
+
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_15 | כאשר גםהאב ידע אתי ואני ידע אתהאב ואתנפשי אתן בעד הצאן | como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas. | Continuidad con la línea de Abba en Yojanán 10. |
+| #iojanan_14_6 | ויאמר אליו ישוע אנכי הדרך והאמת והחיים ואיש לאיבא אלהאב בלתי עלידי | Yo soy el camino, y la verdad, y la vida, ningún hombre viene al Padre sino por Mí. | "Viene", no "va": Abba desde la presencia del Mesías. |
+| #iojanan_14_7 | לו אתי ידעתם ידעתם גם אתאבי ומעתה ידעתם אתו וגםראיתם אתו | Cuando me conozcan, también conocerán a mi Padre... | Conocer y ver al Padre ligado al Mesías. |
+| #iojanan_14_9 | ויאמר אליו ישוע... הראה אתי ראה אתהאב ולמהזה תאמר הראנו אתהאב | El que me ve a Mí, ha visto al Padre... | Respuesta a Filipos: Abba no aparte de Yeshúa. |
+| #iojanan_14_10 | הכי לא תאמין כי אני באב והאב בי... כי האב השכן בי הוא פעל בי פעלותיו | ¿No te afirmas en que Yo soy en el Padre y el Padre es en Mí?... Él hace las obras. | Obra de Abba en el Mesías, no agencia separada. |
+| #iojanan_14_11 | האמינו לי כיאני באב והאב בי ואםלא האמינו לי בגלל הפעלות האלה | Afírmense en Mí... afírmense en Mí por estas obras. | Obras como testimonio de identidad. |
+| #iojanan_14_13 | וכלאשר תשאלו בשמי אתו אעשה לבעבור יגדל כבוד האב בבנו | Y todo lo que pidan en mi Nombre, lo haré... | Pedir en el Nombre revelado, no capricho humano. |
+| #iojanan_14_15 | אםאהבתם אתי אתמצתי תשמרו | Si ustedes me aman, también mis mandamientos guardarán. | Mandamientos del Mesías = voluntad de Elohim. |
+| #iojanan_14_16 | ואני אחלה פני האב ויתן לכם מליץ אחר אשרישכן אתכם עדיעד | ...les dará al siguiente Menajem, que estará con ustedes para siempre. | `allos`/אחר: adicional, no competidor (ver léxico). |
+| #iojanan_14_26 | והמליץ הוא רוח הקדש אשרישלחהו האב בשמי ילמדכם אתכל... | el Menajem, el Rúaj Ha'Kódesh, que lo enviará mi Padre en mi Nombre... | Consolación que enseña y recuerda. |
+| #iojanan_15_26 | אך כאשר יבא המליץ אשר אשלחנו אליכם מאת האב... | ...el Menajem, el que Yo enviaré a ustedes de mi Padre... | Abba y Yeshúa envían: unidad de emisor. |
+
+### Tanaj y cartas (OE + TTH / Delitzsch)
+
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #tehilim_94_19 | ב/רב שרעפ/י ב/קרב/י תנחומי/ך ישעשעו נפש/י | En la multitud de mis pensamientos... tus restauraciones acarician mi ser. | Base de Menajem como consolación/restauración. |
+| #bereshit_32_10 | ו/יאמר יעקב אלהי אב/י אברהם ו/אלהי אב/י יצחק יהוה ה/אמר אל/י שוב ל/ארצ/ך ו/ל/מולדת/ך ו/איטיבה עמ/ך | (oración de Yaakov apelando a promesa) | Pedir conforme a lo que Elohim prometió. |
+| #bereshit_32_12 | הציל/ני נא מ/יד אח/י מ/יד עשו כי ירא אנכי את/ו... | Hazme escapar... de la mano de Esav... | Súplica desde la promesa, no declaración autónoma. |
+| #ieshaiahu_40_13 | מי תכן את רוח יהוה ו/איש עצת/ו יודיע/נו | ¿Quién midió al Rúaj de יהוה...? | Rúaj como mente/consejo de יהוה. |
+| #qorintiyim_alef_2_16 | כי מיתכן אתרוח יהוה ומי יודיענו ואנחנו הנה ישלנו רוח המשיח (Delitzsch) | Pendiente en TTH local | Rúaj de יהוה y Rúaj del Mesías convergen. |
+| #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח (Delitzsch) | Pendiente en TTH local | Yeshúa el Mesías como gran Elohim y Salvador. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(אבא)** | Abba | fuente, promesa, amor entrañable | אבא | No figura separada en competencia; ver [[../temas/elohim_aba|Elohim y Aba]]. |
+| **(מנחם)** | Menajem | consolador, restaurador, defensor | נחם | Delitzsch: מליץ; base en #tehilim_94_19 (תנחומיך). |
+| **(παράκλητος)** | parakletos | abogado, consolador, intercesor | παρακαλ- | Traducido Menajem en TTH de la nota. |
+| **(ἄλλος)** | allos | otro del mismo tipo, adicional | — | En #iojanan_14_16: no necesariamente "otro distinto" (`heteros`). |
+| **(ἕτερος)** | heteros | otro de clase distinta | — | Contraste lingüístico citado en la clase; pendiente de cotejo en Yojanán. |
+| **(ἀγαπάω)** | agapao | amar (en #iojanan_14_15) | ἀγαπ- | Amar al Mesías implica guardar mandamientos. |
+| **(שם)** | shem | nombre, fama, revelación, trayectoria | שם | Pedir "en mi Nombre" = desde la obra revelada de Yeshúa. |
+| **(כבוד)** | kabod | honra, peso, gloria del Padre en el Hijo | כבד | #iojanan_14_13: יגדל כבוד האב בבנו. |
+| **(רוח)** | ruaj | espíritu, viento, mente/consejo | רוח | #ieshaiahu_40_13: מי תכן את רוח יהוה. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Ibn Ezra | Setenta nombres / setenta ancianos | Mención sobre multiplicidad de nombres de Elohim | Pendiente de verificar |
+| Talmud Bavli | Pedir "en nombre de" / redención del mundo | Oración conforme a voluntad divina | Pendiente de verificar |
+| Targum / midrash | Menajem, consolación de Israel | Trasfondo de παράκλητος | Mención indirecta en la clase |
+| Comentarios rabínicos | Mesías ben Yosef / Mesías ben David | Advertencia sobre "Mesías sufriente" separado del davídico | Pendiente de verificar |
+| Qorintiyim (Delitzsch) | #qorintiyim_alef_2_11-16 | Rúaj del Mesías para conocer cosas de Elohim | Cotejado (Delitzsch local) |
+| Ieshaiahu 40 | #ieshaiahu_40_13 | Rúaj/consejo de יהוה | Cotejado (TTH + OE local) |
 
 ## Camino, verdad y vida
 
@@ -157,4 +191,7 @@ La nota conserva el punto doctrinal sin simplificarlo: hay un solo Mesías. El q
 - [Yojanán 10: la puerta, el buen pastor y Abba](./yojanan_10_puerta_pastor_abba)
 - [Yojanán 5: el Hijo, juicio y vida](./yojanan_5_hijo_juicio_vida)
 - [Elohim y Abba](../temas/elohim_aba)
+- [[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
+- [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]
+- [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [Ben, hijo y títulos del Mesías](../temas/ben_hijo_titulos_mesias)

@@ -37,6 +37,12 @@ references:
 sources:
   - "https://youtu.be/-5nbvwGrEDY?si=3QQmMgjBQB1lvs4Z"
   - "private/hermes/sources/youtube_-5nbvwGrEDY_transcript.txt"
+  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/delitzsch/json/john.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
+  - "docs/scriptures/oe/json/psalms/17.json"
+  - "docs/scriptures/oe/json/isaiah/49.json"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -54,28 +60,52 @@ En esta lectura, Abba no se reduce a "el Padre" como una persona separada e infe
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_10_14 | "Yo soy el buen pastor, y conozco mis ovejas, y estas que son mías, me conocen" | El conocimiento del pastor y las ovejas es experiencia y reconocimiento, no solo datos. |
-| #iojanan_10_15 | "como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas" | La entrega de la vida explica cómo se manifiesta ese conocimiento. |
-| #iojanan_10_25 | "las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí" | Las obras son testimonio de Abba en el Mesías. |
-| #iojanan_10_29 | "Mi Padre que me las dio, sobre todos grande es" | "Mayor" se lee como la plenitud de todas las obras prometidas, no como inferioridad ontológica del Mesías. |
-| #iojanan_10_30 | "Yo y mi Padre uno somos" | Concentra la conclusión: Abba y Yeshúa no actúan como dos centros separados. |
-| #iojanan_10_32 | "Muchas buenas obras les he dado a conocer de mi Padre" | Abba se reconoce por las obras mostradas. |
-| #iojanan_10_37 | "Y si no hago las obras de mi Padre, no se afirmen por Mí" | Yeshúa remite la credibilidad a las obras prometidas. |
-| #iojanan_10_38 | "afírmense por las obras... porque mi Padre es en Mí, y Yo en Él" | Las obras abren el conocimiento de la unidad entre Abba y el Mesías. |
-| #iojanan_14_20 | "Yo soy en mi Padre, y ustedes en Mí, y Yo en ustedes" | La morada se entiende como presencia de Elohim en los suyos. |
-| #iojanan_14_23 | "vendremos a él, y con él haremos morada" | La casa de Abba no se limita a un edificio celestial; apunta a la habitación divina en el pueblo. |
-| #iojanan_14_24 | "la palabra que escucha no es mía, sino de mi Padre que me envió" | La palabra del Mesías es la palabra prometida desde la antigüedad. |
-| #iojanan_14_26 | "el Rúaj Ha’Kódesh... les enseñará todo" | El derramamiento del Rúaj participa de la morada preparada por la obra del Mesías. |
-| #iojanan_14_28 | "mi Padre es más grande que Yo" | "Mayor" se interpreta como mayor plenitud de amor y promesa todavía por manifestarse. |
-| #markos_14_36 | "Padre, Padre mío..." | La clase usa Abba como pista semítica detrás de la traducción griega. |
-| #romanos_8_15 | "clamamos: ¡Abá! ¡Padre nuestro!" | El clamor de los hijos conserva Abba como término cargado de filiación y promesa. |
-| #galatim_4_6 | ויען כיבנים אתם שלח האלהים בלבבכם אתרוח בנו הקורא אבא אבינו | El Rúaj del Hijo en el corazón clama Abba. |
-| #ivrim_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | Elohim juró por sí mismo; por eso el cumplimiento no puede recaer en un inferior. |
-| #timotheos_bet_1_9-10 | "no conforme a nuestras obras... quitó la muerte y sacó a la luz la vida..." | La vida e inmortalidad aparecen por la obra del Mesías, no por mérito humano. |
-| #ieshaiahu_49_6 | ו/נתתי/ך ל/אור גוים ל/היות ישועת/י עד קצה ה/ארץ | La obra no se limita a restaurar Israel; se extiende hasta los extremos de la tierra. |
-| #tehilim_17_15 | אני ב/צדק אחזה פני/ך אשבעה ב/הקיץ תמונת/ך | La esperanza final no es solo perdón, sino ver el rostro y despertar a su semejanza. |
+| Referencia | Hebreo (OE/Delitzsch) | TTH (ES) | Función/Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_14 | אני הוא הרעה הטוב ידעתי את אשרלי ונודעתי לאשר לי | Yo soy el buen pastor, y conozco mis ovejas, y estas que son mías, me conocen. | Conocimiento = experiencia y reconocimiento, no solo datos. |
+| #iojanan_10_15 | כאשר גםהאב ידע אתי ואני ידע אתהאב ואתנפשי אתן בעד הצאן | como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas. | La entrega de la vida explica cómo se manifiesta ese conocimiento. |
+| #iojanan_10_25 | ויען אתם ישוע הן הגדתי לכם ולא האמנתם בי המעשים אשראני עשה בשם אבי הם לי לעדות | las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí. | Las obras son testimonio de Abba en el Mesías. |
+| #iojanan_10_29 | אבי אשר נתנן לי אדיר הוא מכל | Mi Padre que me las dio, sobre todos grande es. | "Mayor" = plenitud de obras prometidas, no inferioridad ontológica. |
+| #iojanan_10_30 | ואני והאב אחד | Yo y mi Padre uno somos. | Abba y Yeshúa no actúan como dos centros separados. |
+| #iojanan_10_32 | ויען אתם ישוע הן מעשים רבים טובים הראיתי לכם מאת האב | Muchas buenas obras les he dado a conocer de mi Padre. | Abba se reconoce por las obras mostradas. |
+| #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי | Y si no hago las obras de mi Padre, no se afirmen por Mí. | Yeshúa remite la credibilidad a las obras prometidas. |
+| #iojanan_10_38 | ואםעשיתים... כי האב בי ואני באב | afírmense por las obras... porque mi Padre es en Mí, y Yo en Él. | Las obras abren el conocimiento de la unidad entre Abba y el Mesías. |
+| #iojanan_14_20 | ביום ההוא תדעו כיאני באבי ואתם בי ואני בכם | Yo soy en mi Padre, y ustedes en Mí, y Yo en ustedes. | La morada = presencia de Elohim en los suyos. |
+| #iojanan_14_23 | אליו נבא ושכנו אתו | vendremos a él, y con él haremos morada. | La casa de Abba apunta a habitación divina en el pueblo. |
+| #iojanan_14_24 | והדברים אשר שמעתם לא מלבי יצאו כי אםמפי האב אשר שלחני | la palabra que escucha no es mía, sino de mi Padre que me envió. | La palabra del Mesías es la prometida desde la antigüedad. |
+| #iojanan_14_26 | והמליץ הוא רוח הקדש אשרישלחהו האב בשמי ילמדכם אתכל | el Menajem, el Rúaj Ha'Kódesh... les enseñará todo. | El derramamiento del Rúaj participa de la morada preparada. |
+| #iojanan_14_28 | כי האב גדול ממני | mi Padre es más grande que Yo. | "Mayor" = plenitud de amor y promesa aún por manifestarse. |
+| #markos_14_36 | ויאמר אבא אבי כל תוכל העברנא מעלי אתהכוס הזאת | Padre, Padre mío, todo lo puedes Tú... | Abba como pista semítica detrás de la traducción griega. |
+| #romanos_8_15 | קראים אנחנו אבא אבינו | clamamos: ¡Abá! ¡Padre nuestro! | Abba como término de filiación y promesa. |
+| #galatim_4_6 | ויען כיבנים אתם שלח האלהים בלבבכם אתרוח בנו הקורא אבא אבינו | — (sin TTH local) | El Rúaj del Hijo en el corazón clama Abba. |
+| #ivrim_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | — (sin TTH local) | Elohim juró por sí mismo; el cumplimiento no recae en un inferior. |
+| #ieshaiahu_49_6 | ו/נתתי/ך ל/אור גוים ל/היות ישועת/י עד קצה ה/ארץ | te pondré por luz de las naciones... hasta el extremo de la tierra. | La obra se extiende más allá de Israel. |
+| #tehilim_17_15 | אני ב/צדק אחזה פני/ך אשבעה ב/הקיץ תמונת/ך | Yo en justicia veré tu rostro, me saciaré cuando despierte a tu semejanza. | Consumación: ver el rostro y despertar a su semejanza. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(אבא)** | abba | fuente, plenitud de promesas | אב | No reducir a "Padre" separado del Mesías; nombra origen de las obras (#iojanan_10_25-38). |
+| **(ידע)** | yada' | conocer, reconocer por experiencia | ידע | #iojanan_10_14-15: conocer al pastor se prueba en la entrega de la vida. |
+| **(מעשה)** | ma'aseh | obra, acción cumplida | עשה | Las obras prometidas testifican quién es Yeshúa; no son señales arbitrarias. |
+| **(שכן)** | shakhan | morar, habitar | שכן | #iojanan_14_23: שכנו אתו — morada de Elohim en el pueblo por el Rúaj. |
+| **(נפש)** | nefesh | vida, alma | נפש | #ivrim_6_13: Elohim juró בנפשו — por sí mismo, sin superior. |
+| **(אדיר)** | adir | grande, poderoso | אדר | #iojanan_10_29: Abba אדיר הוא מכל — grandeza de plenitud, no distancia ontológica. |
+| **(אחד)** | echad | uno | אחד | #iojanan_10_30: ואני והאב אחד — unidad de obra e identidad revelada. |
+| **(πιστεύω)** | pisteuo | afirmarse, mostrar fidelidad | πιστ- | "No se afirman" en #iojanan_10_25; cotejar con אמן, no con "creer" emocional. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Ivrim (Delitzsch) | #ivrim_6_13 | Elohim juró por sí mismo; contra delegar el cumplimiento en un inferior | Cotejado |
+| Liturgia (Pésaj) | Dayenu | Lógica de "si hubiera bastado una obra, pero añadió más" para leer "Abba es mayor" | Mención indirecta en la clase |
+| Tanaj (OE) | #ieshaiahu_49_6 | Luz de las naciones; obra mesiánica hasta los extremos de la tierra | Cotejado |
+| Tanaj (OE) | #tehilim_17_15 | Ver el rostro y despertar a su semejanza como consumación | Cotejado |
+| Midrash / liturgia | — | Justos señalando a Elohim en el Edén (citado hacia el final del video) | Pendiente de verificar |
+| Jastrow / BDB | אַבָּא | Uso arameo-hebreo de Abba como término familiar y de autoridad | Pendiente de verificar |
+| Nota hermana | [Yojanán 10: puerta y pastor](./yojanan_10_puerta_pastor_abba.md) | Yaakov Halévy, Targum y Talmud sobre Abba y pastoreo | Mención indirecta en la clase |
 
 ## Conocer como experiencia
 
@@ -139,6 +169,9 @@ La clase presenta Abba como la fuente y plenitud de las obras de יהוה, no co
 ## Ver también
 
 - [[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
+- [[yojanan_10_emunah_obras_ovejas|Yojanán 10: emunah, obras y ovejas]]
+- [[yojanan_10_17_28_vida_indestructible|Yojanán 10:17-28 — vida indestructible]]
+- [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]]
 - [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]]
 - [[yojanan_5_hijo_juicio_vida|Yojanán 5: el Hijo, juicio y vida]]
 - [[../temas/elohim_aba|Elohim y Aba como amor manifiesto y fuente]]

@@ -46,6 +46,10 @@ references:
 sources:
   - "https://youtu.be/8geNmTcW6ZI?si=CfFScYVQEf-T7cK3"
   - "private/hermes/sources/youtube_8geNmTcW6ZI_transcript.txt"
+  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/delitzsch/json/john.json"
+  - "docs/scriptures/oe/json/psalms/118.json"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -63,25 +67,52 @@ La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor"
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Observación para la clase |
-| --- | --- | --- |
-| #iojanan_10_7 | ויוסף ישוע וידבר אליהם אמן אמן אני אמר לכם אנכי שער הצאן / "Yo soy la puerta de las ovejas." | Yeshúa identifica consigo mismo la puerta mencionada en la alegoría. |
-| #iojanan_10_9 | אנכי השער איש כייבא דרך בי יושע ובא ויצא ומצא מרעה / "Yo soy la puerta; si un hombre por Mí entra, será salvo; y entrará y saldrá y hallará pasto." | La puerta produce salvación, libertad y alimento. |
-| #iojanan_10_10 | הגנב לא יבא כי אםלגנב לשחט ולהשמיד ואני באתי למען ימצאו חיים וחית נפשם לרויה / "Yo he venido para que ustedes tengan vida, y para que tengan abundante." | El contraste es entre destrucción y vida abundante, no solo entre estilos de liderazgo. |
-| #iojanan_10_11 | אני הוא הרעה הטוב הרעה הטוב יתן אתנפשו בעד הצאן / "Yo soy el buen pastor; el buen pastor pone su vida en lugar de las ovejas." | La prueba del pastor verdadero es entregar su vida por el rebaño. |
-| #iojanan_10_12 | והשכיר אשר איננו רעה ולאלו הצאן יראה אתהזאב בא יעזב אתהצאן וינוס והזאב יחטף ויפיץ אתהצאן / "el asalariado... abandonará a las ovejas y huirá." | El asalariado se revela cuando llega el peligro. |
-| #iojanan_10_14 | אני הוא הרעה הטוב ידעתי את אשרלי ונודעתי לאשר לי / "conozco mis ovejas, y estas que son mías, me conocen." | El pastoreo verdadero exige conocimiento mutuo, no masa anónima. |
-| #iojanan_10_15 | כאשר גםהאב ידע אתי ואני ידע אתהאב ואתנפשי אתן בעד הצאן / "como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas." | Abre el tema de Abba y de la entrega voluntaria de la vida. |
-| #iojanan_10_17 | עלכן יאהבני האב כי אתנפשי אתן ואשיב ואקחיה / "Yo pongo mi vida para volverla a tomar." | La entrega no es accidente ni derrota, sino decisión vinculada al mandato recibido. |
-| #iojanan_10_18 | איש לא יקח נפשי ממני כי אםאני אתננה ישלאל ידי לתתה וישלאל להשיבה אלי זאת המצוה צויתי מאת אבי / "Ningún hombre me la quita, sino que Yo la pongo de Mí mismo." | La muerte del Mesías se interpreta como acto soberano, no como imposición humana. |
-| #iojanan_10_30 | ואני והאב אחד / "Yo y mi Padre uno somos." | La clase ve aquí la conclusión del argumento sobre Abba y el Mesías. |
-| #tehilim_118_20 | זה ה/שער ל/יהוה צדיקים יבאו ב/ו / "Esta es la puerta de יהוה, los justos entrarán por ella." | Base de la lectura: la puerta de Yojanán 10 se conecta con la puerta de יהוה. |
-| #tehilim_118_22 | אבן מאסו ה/בונים היתה ל/ראש פנה / "La piedra que despreciaron los edificadores ha sido por cabeza del ángulo." | La piedra rechazada sostiene la entrada; sin ella no hay puerta funcional. |
-| #ieshaiahu_33_22 | כי יהוה שפט/נו יהוה מחקק/נו יהוה מלכ/נו הוא יושיע/נו / "יהוה nos juzga... יהוה es nuestro Rey, Él nos salvará." | El juez, legislador, rey y salvador es יהוה mismo. |
-| #irmeiahu_23_6 | ב/ימי/ו תושע יהודה ו/ישראל ישכן ל/בטח ו/זה שמ/ו אשר יקרא/ו יהוה צדק/נו / "יהוה Justicia nuestra." | Conecta el nombre revelado con la justicia de Elohim. |
-| #ivrim_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | Elohim jura por sí mismo porque no hay mayor por quien jurar. |
-| #efesim_3_14 | בעבור זאת אכרעה עלברכי לפני אבי אדנינו ישוע המשיח | Abba aparece en relación con el origen del nombre y la familia. |
-| #efesim_3_15 | אשר נקרא שמו על כלמשפחה שבשמים ושבארץ | La familia toma nombre desde esa fuente. |
+| Referencia | Hebreo (OE/Delitzsch) | TTH (ES) | Función/Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_7 | ויוסף ישוע וידבר אליהם אמן אמן אני אמר לכם אנכי שער הצאן | Y volvió y les dijo Yeshúa: Amén, amén, Yo les digo, que Yo soy la puerta de las ovejas. | Yeshúa identifica consigo mismo la puerta mencionada en la alegoría. |
+| #iojanan_10_9 | אנכי השער איש כייבא דרך בי יושע ובא ויצא ומצא מרעה | Yo soy la puerta; si un hombre por Mí entra, será salvo; y entrará y saldrá y hallará pasto. | La puerta produce salvación, libertad y alimento. |
+| #iojanan_10_10 | הגנב לא יבא כי אםלגנב לשחט ולהשמיד ואני באתי למען ימצאו חיים וחית נפשם לרויה | El ladrón no viene sino para robar, asesinar y hacer perecer; Yo he venido para que ustedes tengan vida, y para que tengan abundante. | Contraste entre destrucción y vida abundante (חית נפשם לרויה). |
+| #iojanan_10_11 | אני הוא הרעה הטוב הרעה הטוב יתן אתנפשו בעד הצאן | Yo soy el buen pastor; el buen pastor pone su vida en lugar de las ovejas. | La prueba del pastor verdadero es entregar su nefesh por el rebaño. |
+| #iojanan_10_12 | והשכיר אשר איננו רעה ולאלו הצאן יראה אתהזאב בא יעזב אתהצאן וינוס והזאב יחטף ויפיץ אתהצאן | Pero el asalariado... abandonará a las ovejas y huirá; y el lobo las devora y dispersa. | El asalariado se revela cuando llega el peligro. |
+| #iojanan_10_14 | אני הוא הרעה הטוב ידעתי את אשרלי ונודעתי לאשר לי | Yo soy el buen pastor, y conozco mis ovejas, y estas que son mías, me conocen. | Pastoreo verdadero exige conocimiento mutuo, no masa anónima. |
+| #iojanan_10_15 | כאשר גםהאב ידע אתי ואני ידע אתהאב ואתנפשי אתן בעד הצאן | como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas. | Abre el tema de Abba y de la entrega voluntaria de la vida. |
+| #iojanan_10_17 | עלכן יאהבני האב כי אתנפשי אתן ואשיב ואקחיה | Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar. | La entrega no es accidente ni derrota, sino decisión vinculada al mandato. |
+| #iojanan_10_18 | איש לא יקח נפשי ממני כי אםאני אתננה ישלאל ידי לתתה וישלאל להשיבה אלי זאת המצוה צויתי מאת אבי | Ningún hombre me la quita, sino que Yo la pongo de Mí mismo... Este mandamiento he recibido de mi Padre. | La muerte del Mesías se interpreta como acto soberano. |
+| #iojanan_10_30 | ואני והאב אחד | Yo y mi Padre uno somos. | Conclusión del argumento sobre Abba y el Mesías. |
+| #tehilim_118_20 | זה ה/שער ל/יהוה צדיקים יבאו ב/ו | Esta es la puerta de יהוה, los justos entrarán por ella. | Base de la lectura: la puerta de Yojanán 10 = puerta de יהוה. |
+| #tehilim_118_22 | אבן מאסו ה/בונים היתה ל/ראש פנה | La piedra que despreciaron los edificadores ha sido por cabeza del ángulo. | La piedra rechazada sostiene el arco de entrada. |
+| #ieshaiahu_33_22 | כי יהוה שפט/נו יהוה מחקק/נו יהוה מלכ/נו הוא יושיע/נו | Porque יהוה nos juzga, יהוה nos legisla; יהוה es nuestro Rey, Él nos salvará. | Juez, legislador, rey y salvador es יהוה mismo. |
+| #irmeiahu_23_6 | ב/ימי/ו תושע יהודה ו/ישראל ישכן ל/בטח ו/זה שמ/ו אשר יקרא/ו יהוה צדק/נו | En sus días será salvo Iehudáh... "יהוה Justicia nuestra". | Conecta el nombre revelado con la justicia de Elohim. |
+| #tehilim_23_1 | מזמור ל/דוד יהוה רע/י לא אחסר | יהוה es mi Pastor, no escasearé. | Pasto y cuidado del rebaño; contraste con el asalariado. |
+| #shemuel_alef_17_35 | — (sin OE local en cap. 17) | y salí tras de él y lo herí, y lo rescaté de su boca... | David anticipa al pastor que arriesga su vida por una oveja. |
+| #ivrim_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | — (sin TTH local) | Elohim jura por sí mismo; garantía de la promesa. |
+| #efesim_3_14-15 | בעבור זאת אכרעה עלברכי לפני אבי... אשר נקרא שמו על כלמשפחה | — (sin TTH local) | Abba como fuente del nombre y de toda familia. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(שער)** | sha'ar | puerta | שער | Yeshúa = שער הצאן (#iojanan_10_7); conectado con זה השער ליהוה (#tehilim_118_20). |
+| **(רעה)** | ro'eh | pastor, apacentar | רעה | Buen pastor (הרעה הטוב) entrega נפש; contraste con השכיר (asalariado). |
+| **(נפש)** / **(ψυχή)** | nefesh / psuchē | vida expuesta, alma | נפש / ψυχ- | Delitzsch: את נפשי אתן בעד הצאן (#iojanan_10_11). La clase acerca psuchē a nefesh de modo pedagógico ("pescuezo"). |
+| **(אבא)** / **(אב)** | abba / av | padre, fuente, origen | אב | No leer solo como "padre" moderno; la clase enumera sentidos: afecto, tutoría, linaje, fuente de promesa. |
+| **(περισσός)** | perisson | abundante, que rebasa | περισσ- | Vida abundante en #iojanan_10_10; excede expectativa humana — pendiente cotejo griego. |
+| **(νομή)** / **(νόμος)** | nomē / nomos | pasto / ley, Torah | νομ- | Juego propuesto entre pasto y Torah (#iojanan_10_9) — pendiente verificación técnica. |
+| **(אבן פנת)** | even pinnat | piedra de esquina | פנה | #tehilim_118_22: sin la piedra rechazada no hay arco/puerta funcional. |
+| **(רחמים)** | rachamim | misericordia, entrañas | רחם | La clase asocia Elohim con רחמים y יהוה con juicio — asociación a verificar en fuentes judías. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Talmud Bavli | b. ? ?a | Pastor que entrega una oveja al lobo para salvar el resto del rebaño | Pendiente de verificar |
+| Targum | — | Uso de Abba en contexto arameo del siglo I | Pendiente de verificar |
+| Yaakov Halévy | Gramática aramea (obra por localizar) | Abba en arameo y su registro en Targum | Pendiente de verificar |
+| Josefo | Ant. (Judas el Galileo, "el egipcio") | Movimientos mesiánicos frustrados del siglo I frente a expectativa romana | Pendiente de verificar |
+| Maasei Hashlijim | #maasei_hashlijim_5_36-37 (cotejar) | Líderes mesiánicos contemporáneos citados en fuentes del Besorah | Pendiente de verificar |
+| Ibn Ezra | — | No citado directamente en esta clase; ver nota hermana sobre nombres divinos | Mención indirecta en la clase |
+| Tanaj (OE) | #tehilim_118_20-22, #tehilim_23_1 | Puerta de יהוה, piedra de esquina, pastor que no deja carente | Cotejado |
+| Tanaj (OE) | #ieshaiahu_33_22, #irmeiahu_23_6 | יהוה como juez/rey/salvador y "יהוה צדקנו" | Cotejado |
 
 ## Desarrollo del argumento en el video
 
@@ -254,8 +285,12 @@ La clase lee Yojanán 10 como una revelación concentrada de identidad y acceso.
 
 ## Ver también
 
-- [Yojanán 9-10: ceguera, justicia y la puerta de las ovejas](./yojanan_9_10_ceguera_puerta_ovejas)
-- [Yojanán 9: el Ben Adam y el ciego](./yojanan_9_ben_adam_y_el_ciego)
-- [Yojanán 5: el Hijo, juicio y vida](./yojanan_5_hijo_juicio_vida)
-- [Elohim y Aba](../temas/elohim_aba)
-- [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias)
+- [Yojanán 9-10: ceguera, justicia y la puerta de las ovejas](./yojanan_9_10_ceguera_puerta_ovejas.md)
+- [Yojanán 9: el Ben Adam y el ciego](./yojanan_9_ben_adam_y_el_ciego.md)
+- [Yojanán 10: Abba, las obras y la morada](./yojanan_10_abba_obras_y_morada.md)
+- [Yojanán 10: emunah, obras y ovejas](./yojanan_10_emunah_obras_ovejas.md)
+- [Yojanán 10: nefesh, Janukah y el Mesías](./yojanan_10_nefesh_janukah_mesias.md)
+- [Yojanán 14: Abba, el Nombre y el Menajem](./yojanan_14_abba_menajem_nombre.md)
+- [Yojanán 5: el Hijo, juicio y vida](./yojanan_5_hijo_juicio_vida.md)
+- [Elohim y Aba](../temas/elohim_aba.md)
+- [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)

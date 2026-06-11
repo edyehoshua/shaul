@@ -44,6 +44,7 @@ references:
 sources:
   - "https://www.youtube.com/live/4Jw7Tt5he6o?si=R3SHhUyeQH54d5In"
   - "private/hermes/sources/youtube_4Jw7Tt5he6o_transcript.txt"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -61,28 +62,60 @@ El hilo central es que la Escritura no presentaba al Mesías solamente como un r
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_10_22 | "Y era Janucá en Ierushaláim, y era invierno." | Sitúa la escena en una fiesta histórica judía, no mandada en Torah, asociada con preservación nacional. |
-| #iojanan_10_23 | "Y andaba Yeshúa en el Hejal, en el pórtico de Shelomóh." | La clase distingue el área sagrada amplia, los atrios y la casa propiamente dicha. |
-| #iojanan_10_24 | "¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza." | La tensión no es falta de palabras, sino falta de reconocimiento de las señales. |
-| #iojanan_10_25 | "Les dije, pero no se afirman; las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí." | Las obras son el testimonio principal de identidad mesiánica. |
-| #iojanan_10_27 | "Mis ovejas escuchan mi voz, y Yo las conozco, y vienen detrás de Mí." | Oír la voz requiere haber sido educado por la Escritura. |
-| #iojanan_10_28 | "Y Yo les doy vida olam, y no perecerán para siempre." | La esperanza final es resurrección y transformación, no solo continuidad espiritual. |
-| #iojanan_10_30 | "Yo y mi Padre uno somos." | Cierra el argumento de las obras: Abba y el Mesías actúan en unidad. |
-| #bereshit_3_15 | ו/איבה אשית בינ/ך ו/בין ה/אשה ו/בין זרע/ך ו/בין זרע/ה הוא ישופ/ך ראש ו/אתה תשופ/נו עקב | La primera pista mesiánica aparece como simiente que hiere la cabeza de la serpiente. |
-| #shemot_12_5-6 | שה תמים זכר בן שנה יהיה ל/כם... ו/שחטו את/ו כל קהל עדת ישראל בין ה/ערבים | Pesaj muestra que el Mesías debía morir como cordero por el pueblo. |
-| #bamidbar_24_17 | ארא/נו ו/לא עתה אשור/נו ו/לא קרוב דרך כוכב מ/יעקב ו/קם שבט מ/ישראל | La estrella y la vara añaden lenguaje real y de autoridad. |
-| #ieshaiahu_11_1 | ו/יצא חטר מ/גזע ישי ו/נצר מ/שרשי/ו יפרה | La esperanza davídica aparece como retoño que surge después de un tronco cortado. |
-| #iejezkel_37_25 | ו/דוד עבד/י נשיא ל/הם ל/עולם | "Príncipe" se lee como quien carga responsabilidad sobre el pueblo, no solo como figura elitista. |
-| #ieshaiahu_53_5 | ו/הוא מחלל מ/פשע/נו מדכא מ/עונתי/נו מוסר שלומ/נו עלי/ו ו/ב/חברת/ו נרפא ל/נו | El siervo carga la culpa y trae sanidad por su herida. |
-| #irmeiahu_33_15 | ב/ימים ה/הם ו/ב/עת ה/היא אצמיח ל/דוד צמח צדקה ו/עשה משפט ו/צדקה ב/ארץ | El brote vincula simiente enterrada, resurgimiento y justicia. |
-| #romanos_3_21-22 | "se ha revelado la justicia de Elohim... por la emunah de Yeshúa el Mesías" | La justicia nuestra se entiende por la fidelidad del Mesías, no por justicia propia. |
-| #zejariah_9_9 | גילי מאד בת ציון הריעי בת ירושלם הנה מלכ/ך יבוא ל/ך צדיק ו/נושע הוא עני ו/רכב על חמור | Señal de la primera venida humilde y lenta. |
-| #daniel_7_13 | חזה הוית ב/חזוי לילי/א ו/ארו עם ענני שמי/א כ/בר אנש אתה הוה | Contrasta con Zejariah: el Hijo del Hombre viene con las nubes del cielo. |
-| #hoshea_6_3 | ו/נדעה נרדפה ל/דעת את יהוה כ/שחר נכון מוצא/ו ו/יבוא כ/גשם ל/נו כ/מלקוש יורה ארץ | La clase lo usa como imagen de dos manifestaciones: lluvia temprana y tardía. |
-| #ivrim_1_3 | והוא זהר כבודו וצלם עצמותו ונושא כל בדבר גבורתו ואחרי טהרו אתנו בנפשו מחטאתינו ישב לימין הגדלה במרומים | El Mesías purifica los pecados y queda sentado en las alturas hasta su venida gloriosa. |
-| #zejariah_14_16 | ו/היה כל ה/נותר מ/כל ה/גוים ה/באים על ירושלם ו/עלו מ/די שנה ב/שנה ל/השתחות ל/מלך יהוה צבאות | La consumación incluye obediencia y culto restaurado en la segunda venida. |
+### Yojanán 10:22-30 (Delitzsch + TTH)
+
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים | Y era Janucá en Ierushaláim, y era invierno. | Escena en fiesta histórica judía, no mandada en Torah. |
+| #iojanan_10_23 | ויתהלך ישוע בבית המקדש באולם שלמה | Y andaba Yeshúa en el Hejal, en el pórtico de Shelomóh. | Área sagrada amplia; no solo el edificio interior. |
+| #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | ¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Tensión: falta de reconocimiento de señales, no de palabras. |
+| #iojanan_10_25 | ויען אתם ישוע הן הגדתי לכם ולא האמנתם בי המעשים אשראני עשה בשם אבי הם לי לעדות | Las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí. | Las obras son testimonio principal de identidad mesiánica. |
+| #iojanan_10_27 | צאני שמעות אתקלי ואני ידע אתן והנה הלכות אחרי | Mis ovejas escuchan mi voz, y Yo las conozco, y vienen detrás de Mí. | Oír la voz requiere formación por la Escritura. |
+| #iojanan_10_28 | וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי | Y Yo les doy vida olam, y no perecerán para siempre. | Esperanza de resurrección y transformación. |
+| #iojanan_10_30 | ואני והאב אחד | Yo y mi Padre uno somos. | Abba y el Mesías actúan en unidad de obra. |
+
+### Señales mesiánicas (OE + TTH / Delitzsch)
+
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #bereshit_3_15 | ו/איבה אשית בינ/ך ו/בין ה/אשה ו/בין זרע/ך ו/בין זרע/ה הוא ישופ/ך ראש ו/אתה תשופ/נו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza... | Primera pista: simiente que hiere la cabeza de la serpiente. |
+| #shemot_12_5 | שה תמים זכר בן שנה יהיה ל/כם מן ה/כבשים ו/מן ה/עזים תקחו | Cordero completo, macho, hijo de su año será para ustedes... | Pesaj: el Mesías debía morir como cordero por el pueblo. |
+| #shemot_12_6 | ו/היה ל/כם ל/משמרת עד ארבעה עשר יום ל/חדש ה/זה ו/שחטו את/ו כל קהל עדת ישראל בין ה/ערבים | ...lo sacrificará toda la asamblea... entre las dos tardes. | Muerte corporativa del cordero por casa y asamblea. |
+| #bamidbar_24_17 | ארא/נו ו/לא עתה אשור/נו ו/לא קרוב דרך כוכב מ/יעקב ו/קם שבט מ/ישראל... | andará una estrella de Yaakov, y se levantará una vara de Israel... | Autoridad real y juicio mesiánico. |
+| #ieshaiahu_11_1 | ו/יצא חטר מ/גזע ישי ו/נצר מ/שרשי/ו יפרה | Y saldrá una rama del tronco de Ishai... | Retoño cuando la línea davídica parece cortada. |
+| #ieshaiahu_53_5 | ו/הוא מחלל מ/פשע/נו מדכא מ/עונתי/נו מוסר שלומ/נו עלי/ו ו/ב/חברת/ו נרפא ל/נו | Mas Él fue traspasado por nuestras transgresiones... | Siervo que carga culpa y trae sanidad. |
+| #iejezkel_37_25 | ...ו/דוד עבד/י נשיא ל/הם ל/עולם | ...David mi siervo será príncipe de ellos para siempre. | `nasi`: cargador de responsabilidad, no solo rango. |
+| #irmeiahu_33_15 | ב/ימים ה/הם ו/ב/עת ה/היא אצמיח ל/דוד צמח צדקה ו/עשה משפט ו/צדקה ב/ארץ | ...haré brotar a David un Brote de justicia... | Brote vincula simiente, resurgimiento y justicia. |
+| #romanos_3_21 | ועתה בבלי תורה צדקת אלהים יצאה לאור אשר העידו עליה התורה והנביאים (Delitzsch) | ...se ha revelado la justicia de Elohim, testificada por la Torah y por los profetas; | Justicia aparte de Torah como sistema de mérito. |
+| #romanos_3_22 | והיא צדקת אלהים באמונת ישוע המשיח אלכל ועלכל אשר האמינו בו (Delitzsch) | ...por la emunah de Yeshúa el Mesías... | יהוה Justicia nuestra por fidelidad del Mesías. |
+| #zejariah_9_9 | גילי מאד בת ציון הריעי בת ירושלם הנה מלכ/ך יבוא ל/ך צדיק ו/נושע הוא עני ו/רכב על חמור | He aquí tu Rey vendrá a ti, justo y portador de salvación... monta sobre un asno. | Primera venida humilde y lenta. |
+| #daniel_7_13 | חזה הוית ב/חזוי לילי/א ו/ארו עם ענני שמי/א כ/בר אנש אתה הוה (OE, arameo) | Pendiente en TTH local | Venida gloriosa: Hijo del Hombre con nubes del cielo. |
+| #hoshea_6_3 | ו/נדעה נרדפה ל/דעת את יהוה כ/שחר נכון מוצא/ו ו/יבוא כ/גשם ל/נו כ/מלקוש יורה ארץ | ...vendrá como la lluvia a nosotros, como lluvia tardía y temprana... | Imagen de dos manifestaciones del Mesías. |
+| #ivrim_1_3 | והוא זהר כבודו וצלם עצמותו ונושא כל בדבר גבורתו... (Delitzsch) | Pendiente en TTH local | Mesías purifica pecados y queda en las alturas. |
+| #zejariah_14_16 | ו/היה כל ה/נותר מ/כל ה/גוים... ל/השתחות ל/מלך יהוה צבאות ו/ל/חג את חג ה/סכות | ...subirán de año en año para postrarse al Rey, יהוה Tzebaot... | Consumación: obediencia y culto restaurado. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación, rehabilitación | חנך | Fiesta histórica post-Torah; memoria de preservación nacional (ver [[../temas/janukah|Janukah]]). |
+| **(παρρησία)** | parresia | franqueza, confianza al hablar en público | — | En #iojanan_10_24: "dínoslo con confianza"; no reducir a audacia humana. |
+| **(אמן)** | emun / aman | afirmarse, fidelidad educada por Escritura | אמן | "No se afirman" en #iojanan_10_25-26: falta de formación, no solo información. |
+| **(נשיא)** | nasi | príncipe, cargador, responsable del pueblo | נשא | En #iejezkel_37_25 la clase lee responsabilidad, no solo elite. |
+| **(מלקוש)** | melqosh | lluvia tardía | — | En #hoshea_6_3: segunda manifestación/consummación mesiánica. |
+| **(משיח)** | mashiach | unción, función, no solo título | משח | Expectativa incompleta omite cordero, siervo y sufriente. |
+| **(ענני שמיא)** | ananei shamaya | nubes del cielo (aramaico en #daniel_7_13) | — | Lectura idiomática de rapidez: pendiente de verificar frente a lectura apocalíptica. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| 1-2 Macabeos / fuentes seléucidas | Revuelta y rededicación del templo | Marco histórico de Janukah | Mención indirecta en la clase |
+| Arqueología del Templo | Pórtico de Shelomóh, atrios, placas de exclusión | Niveles del recinto sagrado en #iojanan_10_23 | Pendiente de verificar |
+| Expectativas mesiánicas rabínicas | Lista de tareas del Mesías (incl. edificar templo) | Objeción que la clase rechaza como prueba no exigida por Torah | Pendiente de verificar |
+| Josefo | Contexto del siglo I y Roma | Expectativa de rey político inmediato | Mención indirecta en la serie |
+| Comentarios sobre Hoshea | #hoshea_6_3, lluvia temprana y tardía | Dos venidas del mismo Mesías | Pendiente de verificar |
+| Romanos (Delitzsch) | #romanos_3_21-22 | יהוה צדקנו por emunah del Mesías | Cotejado (Delitzsch local) |
 
 ## Janukah y el lugar de la pregunta
 
@@ -176,4 +209,7 @@ Por eso la clase sostiene que la primera venida no falla por no haber transforma
 - [[yojanan_10_abba_obras_y_morada|Yojanán 10: Abba, las obras y la morada]]
 - [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]]
 - [[../temas/janukah|Janukah]]
+- [[yojanan_10_nefesh_janukah_mesias|Yojanán 10: nefesh, Janucá y la pregunta por el Mesías]]
+- [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
+- [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, Bar Enash y el Hijo de Elohim]]

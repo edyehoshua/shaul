@@ -18,6 +18,7 @@ references:
   - "#tehilim_118_25"
 sources:
   - "https://www.youtube.com/watch?v=FrxD1V5awcM&list=PLw429MSY038taEkOAVJ7_lmH2rflIgIkZ"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -44,25 +45,25 @@ Esta introducción propone leer Yojanan como un escrito transmitido en griego, p
 - El error que se quiere evitar es usar una definición griega o castellana y asumir que con eso ya se agotó el concepto bíblico.
 - Por eso el propio evangelio conserva términos semíticos y luego ofrece una explicación aproximada, no siempre una equivalencia total.
 
-## Hoja breve de textos
+## Hoja de comparación (Besorah)
 
-| Referencia     | Texto local                                                                                                                                           | Clave de lectura en esta introducción                                                                                                                  |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| #iojanan_1_19  | Y este es el testimonio de Iojanán, cuando enviaron los yehudim⁸ desde Ierushaláim a los sacerdotes y a los leviím⁹ para preguntarle: ¿Quién eres tú? | "yehudim" no debe asumirse automáticamente como toda la etnia judía en cada pasaje; muchas veces el foco cae sobre Judea, Ierushaláim o su dirigencia. |
-| #iojanan_1_38  | Y se giró Yeshúa, y cuando los vio yendo detrás de Él, les dijo: ¿Qué buscan? Y ellos le dijeron: Rabí, ¿dónde te estás demorando?                    | "Rabí" se deja oír como término propio; la nota lo toma como título con trasfondo cultural que no se agota en "maestro".                               |
-| #iojanan_1_41  | Y este halló primero a su hermano, y le dijo: ¡Hemos hallado al Mesías¹⁸!                                                                             | "Mesías" tampoco se reduce sin resto a "Cristo"; el transcript remarca que la traducción suele ser interpretación aproximada.                          |
-| #iojanan_2_13  | Y estaba cerca el Pésaj²⁶ de los yehudim, y subió Yeshúa a Ierushaláim.                                                                               | El énfasis de la nota cae en Pésaj como moed de יהוה celebrado en el ámbito de Judea, no como fiesta étnica exclusiva ni como pascua occidentalizada.  |
-| #iojanan_12_13 | tomaron ramas de palmeras y salieron a su encuentro, y gritaban: ¡Hoshana¹⁷⁵! ¡Bendito el que viene en el Nombre de יהוה¹⁷⁶, el Rey de Israel!        | "Hoshana" conserva una súplica hebrea; el sonido del término importa porque la traducción no recoge toda la carga litúrgica.                           |
-| #iojanan_19_17 | Y cargó su cruz, y salió a lugar del cráneo, que en hebreo se dice Gulgolet²³²,                                                                       | "Gulgolet" vuelve a mostrar que Yojanan preserva vocabulario semítico y luego lo acerca al lector por explicación.                                     |
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Clave de lectura |
+| --- | --- | --- | --- |
+| #iojanan_1_19 | וזאת עדות יוחנן בשלח היהודים כהנים ולוים מירושלים לשאל אתו מי הוא | Y este es el testimonio de Iojanán, cuando enviaron los yehudim desde Ierushaláim a los sacerdotes y a los leviím para preguntarle: ¿Quién eres tú? | **(יהודים)** aquí parte de Ierushaláim; no asumir etnia total sin contexto. |
+| #iojanan_1_38 | ויפן ישוע ויראם הלכים אחריו ויאמר אליהם מהתבקשון ויאמרו אליו רבי אשר יאמר מורי איה מקום מושבך | Y se giró Yeshúa… y ellos le dijeron: Rabí, ¿dónde te estás demorando? | **(רבי)** se conserva como título relacional; la glosa castellana no agota el uso del siglo I. |
+| #iojanan_1_41 | הוא מצא אתאחיו אתשמעון ויאמר אליו מצאנו אתהמשיח אשר בלשון יון כריסטוס | Y este halló primero a su hermano… ¡Hemos hallado al Mesías! | Yojanan mismo glosa **(משיח)** con equivalencia aproximada, no equivalencia total. |
+| #iojanan_2_13 | ויקרב חגהפסח ליהודים ויעל ישוע ירושלימה | Y estaba cerca el Pésaj de los yehudim, y subió Yeshúa a Ierushaláim. | Pésaj como moed de יהוה en el marco de Judea, no como pascua occidentalizada. |
+| #iojanan_12_13 | ויקחו כפות תמרים בידם ויצאו לקראתו ויריעו הושענא ברוך הבא בשם יהוה מלך ישראל | …gritaban: ¡Hoshana! ¡Bendito el que viene en el Nombre de יהוה, el Rey de Israel! | **(הושענא)** conserva la súplica litúrgica; la traducción debilita la carga del clamor. |
+| #iojanan_19_17 | וישיאו אתו אתעץ צלבו… הנקרא מקום הגלגלת ובעברית גלגלתא | Y cargó su cruz… que en hebreo se dice Gulgolet | El evangelio preserva vocabulario semítico y luego lo explica al lector. |
 
-## Apoyos del Tanaj en el transcript
+## Hoja de comparación (Tanaj)
 
-| Referencia      | Hebreo local                            | TTH local                                                                           | Uso en la nota                                                                                                                       |
-| --------------- | --------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #tehilim_105_15 | אל תגעו ב/משיח/י ו/ל/נביא/י אל תרעו     | ¡No toquen a mis ungidos, y a mis profetas no hagan mal!                            | El transcript usa este paralelo para mostrar que **(משיח)** y "ungido" no son categorías vacías ni meramente occidentales.           |
-| #tehilim_118_25 | אנא יהוה הושיע/ה נא אנא יהוה הצליח/ה נא | Te ruego, יהוה: ¡Hoshiana (Salva, por favor)! Te ruego, יהוה: ¡Da éxito, por favor! | Este texto sirve de base para entender "Hoshana" en #iojanan_12_13 como súplica y aclamación, no como simple interjección religiosa. |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Uso en la nota |
+| --- | --- | --- | --- |
+| #tehilim_105_15 | אל תגעו ב/משיח/י ו/ל/נביא/י אל תרעו | ¡No toquen a mis ungidos, y a mis profetas no hagan mal! | **(משיח)** y "ungido" no son categorías vacías ni meramente occidentales. |
+| #tehilim_118_25 | אנא יהוה הושיע/ה נא אנא יהוה הצליח/ה נא | Te ruego, יהוה: ¡Hoshiana (Salva, por favor)! Te ruego, יהוה: ¡Da éxito, por favor! | Base para leer **(הושענא)** en #iojanan_12_13 como súplica, no como interjección. |
 
-## Términos que abren el evangelio
+## Hoja léxica
 
 | Forma           | Aproximación usual  | Matiz que quiere preservar el transcript                                                                                          |
 | --------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,13 +82,24 @@ Esta introducción propone leer Yojanan como un escrito transmitido en griego, p
 - Identificar Pésaj con la pascua posterior de la cristiandad occidental y perder la raíz de éxodo y de las citas de יהוה.
 - Pasar por alto que Yojanan mismo deja señales lingüísticas para obligar al lector a mirar detrás del griego.
 
-## Relación con otras notas
+## Referencias judías y fuentes externas
 
-- Esta nota funciona como antesala de [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1).
-- El énfasis aquí no está todavía en el prólogo completo, sino en la manera correcta de entrar al libro.
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Talmud / rabbinato | Títulos **(רבי)** en el siglo I | Contexto cultural de #iojanan_1_38 | Pendiente de verificar |
+| Liturgia del Templo / Hoshanot | Uso de **(הושיעה נא)** en procesiones | Trasfondo de #iojanan_12_13 | Mención indirecta en la clase |
+| Josefo / historiografía | Judea, Ierushaláim y grupos del siglo I | Marco para leer **(יהודים)** con matices | Pendiente de verificar |
+| Filología del NT | Judaeo-griego y hebraísmos en Yojanan | Distinción idioma / ideología | Pendiente de verificar |
 
-## Pendientes de verificación
+## Pendiente de verificar
 
 - Documentar con bibliografía secundaria la cronología de las versiones siriacas y su relación con la transmisión del evangelio.
 - Verificar con fuentes especializadas el desarrollo histórico de los títulos rabínicos mencionados en el transcript.
 - Revisar aparte algunas afirmaciones históricas sobre Nicea, calendarios pascuales y recepción posterior del término "judíos".
+
+## Ver también
+
+- [Yojanan: yehudim, procedencia y logos](./yojanan_iehudim_y_logos)
+- [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)
+- [Yojanan 1: judíos, luz y cosmos](./yojanan_1_judios_luz_y_cosmos)
+- [Ben, hijo y títulos del Mesías](../temas/ben_hijo_titulos_mesias)

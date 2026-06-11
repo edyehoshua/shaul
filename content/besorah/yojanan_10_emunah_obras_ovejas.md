@@ -29,9 +29,16 @@ references:
   - "#romanos_10_17"
   - "#tehilim_82_6"
   - "#bereshit_3_15"
+  - "#iojanan_6_44"
 sources:
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
   - "private/hermes/sources/youtube_csFssLdcLsE_transcript.txt"
+  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/delitzsch/json/john.json"
+  - "docs/scriptures/tth/json/romanos.json"
+  - "docs/scriptures/oe/json/psalms/82.json"
+  - "docs/scriptures/oe/json/genesis/3.json"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -48,23 +55,51 @@ Por eso Yeshúa responde: "les dije, pero no se afirman" (#iojanan_10_25). Las o
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_10_25 | "Les dije, pero no se afirman; las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí." | La respuesta de Yeshúa desplaza la discusión hacia las obras como testimonio ya visible. |
-| #iojanan_10_26 | "Pero ustedes no se afirman, porque no son de mis ovejas, como les he dicho." | La falta de emunah revela que no pertenecen al rebaño que reconoce la voz. |
-| #iojanan_10_27 | "Mis ovejas escuchan mi voz, y Yo las conozco, y vienen detrás de Mí." | Oír, ser conocido y seguir forman una sola respuesta de las ovejas. |
-| #iojanan_10_28 | "Y Yo les doy vida olam, y no perecerán para siempre; y ningún hombre las devorará de mi mano." | Vida olam se explica como no perecer para siempre y quedar guardados en la mano del Mesías. |
-| #iojanan_10_29 | "Mi Padre que me las dio, sobre todos grande es, y ningún hombre podrá devorar las de la mano de mi Padre." | La mano del Mesías y la mano de Abba sostienen el argumento de unidad. |
-| #iojanan_10_30 | "Yo y mi Padre uno somos." | Conclusión inmediata: la obra y la custodia no proceden de dos centros separados. |
-| #iojanan_10_32 | "Muchas buenas obras les he dado a conocer de mi Padre, ¿por cuál de estas obras me apedrean?" | Las obras son del bien y vienen de Abba; por eso el intento de apedrearlo muestra rechazo a la evidencia escritural. |
-| #iojanan_10_34 | "¿No está escrito en su Torah: Yo dije: Ustedes son elohim?" | Yeshúa responde a la acusación de blasfemia desde la Escritura. |
-| #iojanan_10_35 | "Si a estos, a quienes fue la palabra de Elohim, les dijo «elohim» - y la Escritura no se puede tomar en vano -" | La clase subraya que la Escritura llama elohim a quienes reciben palabra de Elohim. |
-| #iojanan_10_36 | "a quien distinguió el Padre y envió al olam... ¡Porque dije: 'Hijo de Elohim soy'!" | El argumento va de los portadores de la palabra al Hijo que porta plenamente la obra prometida. |
-| #iojanan_10_37 | "Y si no hago las obras de mi Padre, no se afirmen por Mí;" | Yeshúa permite evaluar su identidad por las obras prometidas. |
-| #iojanan_10_38 | "pero si las hago... afírmense por las obras... porque mi Padre es en Mí, y Yo en Él." | Aun si su apariencia humana escandaliza, las obras deben llevar al reconocimiento. |
-| #romanos_10_17 | "la emunah proviene del oír, y el oír por medio de la Palabra del Mesías" | La clase relaciona emunah con oír la promesa, no con sugestión psicológica. |
-| #tehilim_82_6 | "Yo dije: Ustedes son elohim... e hijos de Elyón todos ustedes." | Base de la respuesta de Yeshúa en #iojanan_10_34-35. |
-| #bereshit_3_15 | "entre tu simiente y su simiente... tú le magullarás el talón." | La promesa de la simiente se presenta como primer compromiso mesiánico de יהוה. |
+| Referencia | Hebreo (OE/Delitzsch) | TTH (ES) | Función/Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_25 | ויען אתם ישוע הן הגדתי לכם ולא האמנתם בי המעשים אשראני עשה בשם אבי הם לי לעדות | Les dije, pero no se afirman; las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí. | La respuesta desplaza la discusión hacia las obras como testimonio ya visible. |
+| #iojanan_10_26 | רק אתם לא תאמינו כי לא מצאני אתם כאשר אמרתי לכם | Pero ustedes no se afirman, porque no son de mis ovejas, como les he dicho. | La falta de emunah revela que no pertenecen al rebaño que reconoce la voz. |
+| #iojanan_10_27 | צאני שמעות אתקלי ואני ידע אתן והנה הלכות אחרי | Mis ovejas escuchan mi voz, y Yo las conozco, y vienen detrás de Mí. | Oír, ser conocido y seguir forman una sola respuesta de las ovejas. |
+| #iojanan_10_28 | וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי | Y Yo les doy vida olam, y no perecerán para siempre; y ningún hombre las devorará de mi mano. | Vida olam = no perecer para siempre; guardados en la mano del Mesías. |
+| #iojanan_10_29 | אבי אשר נתנן לי אדיר הוא מכל ואין איש אשריוכל לחטף אתהן מיד האב | Mi Padre que me las dio, sobre todos grande es. | La mano del Mesías y la mano de Abba sostienen el argumento de unidad. |
+| #iojanan_10_30 | ואני והאב אחד | Yo y mi Padre uno somos. | Conclusión inmediata: obra y custodia no proceden de dos centros separados. |
+| #iojanan_10_32 | ויען אתם ישוע הן מעשים רבים טובים הראיתי לכם מאת האב | Muchas buenas obras les he dado a conocer de mi Padre, ¿por cuál de estas obras me apedrean? | Las obras vienen de Abba; apedrearlo = rechazar la evidencia escritural. |
+| #iojanan_10_34 | ויען אתם ישוע הלא כתוב בתורתכם אני אמרתי אלהים אתם | ¿No está escrito en su Torah: Yo dije: Ustedes son elohim? | Yeshúa responde a la acusación de blasfemia desde la Escritura. |
+| #iojanan_10_35 | ועתה אםאנשים נקראו אלהים אשר תורת האלהים אתם ודבר הכתוב אין להשיב | Si a estos... les dijo «elohim» – y la Escritura no se puede tomar en vano – | La Escritura llama elohim a quienes reciben palabra de Elohim. |
+| #iojanan_10_36 | איך תאמרון עלזה אשר קדשו האב וישלחהו בארץ... בןהאלהים אני | a quien distinguió el Padre y envió al olam... ¡Porque dije: "Hijo de Elohim soy"! | Del portador de palabra al Hijo que porta la plenitud de la obra. |
+| #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי | Y si no hago las obras de mi Padre, no se afirmen por Mí. | Yeshúa permite evaluar su identidad por las obras prometidas. |
+| #iojanan_10_38 | ואםעשיתים... כי האב בי ואני באב | afírmense por las obras... porque mi Padre es en Mí, y Yo en Él. | Aun si su apariencia humana escandaliza, las obras deben llevar al reconocimiento. |
+| #romanos_10_17 | אםכן האמונה באה מתוך השמועה והשמועה עלידי דברהמשיח | la emunah proviene del oír, y el oír por medio de la Palabra del Mesías. | Emunah ligada a oír la promesa, no a sugestión psicológica. |
+| #tehilim_82_6 | אני אמרתי אלהים אתם ו/בני עליון כל/כם | Yo dije: Ustedes son elohim... e hijos de Elyón todos ustedes. | Base de la respuesta de Yeshúa en #iojanan_10_34-35. |
+| #bereshit_3_15 | ו/איבה אשית בינ/ך ו/בין ה/אשה... הוא ישופ/ך ראש ו/אתה תשופ/נו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza, y tú le magullarás el talón. | Primer compromiso mesiánico de יהוה desde la simiente. |
+| #iojanan_6_44 | לאיוכל איש לבא אלי בלתי אםימשכהו האב אשר שלחני | Ningún hombre puede venir a Mí, si mi Padre que me envió no lo trae. | Abba trae al rebaño hacia el Mesías; conexión con #iojanan_10_26-27. |
+| #iojanan_3_3 | אמן אמן אני אמר לך אםלא יולד איש ממקור על | Si un hombre no nace de arriba, no puede ver el reino de Elohim. | Reconocer señales no basta; hace falta nacimiento de arriba. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(אמן)** | emun / aman | fidelidad, educación, permanencia | אמן | La clase rechaza reducir emunah a optimismo mental; incluye crianza e instrucción de יהוה. |
+| **(πιστεύω)** | pisteuo | afirmarse, mostrar fidelidad | πιστ- | TTH: "no se afirman" (#iojanan_10_25-26); cotejar con אמן, no equivalencia total. |
+| **(אבא)** | abba | fuente, Escritura/plenitud de promesas | אב | Hacia el final: Abba nombra el conjunto de promesas reveladas — lectura de clase, pendiente cotejo arameo. |
+| **(צאן)** | tson | ovejas | צאן | Rebaño que oye la voz del pastor (#iojanan_10_27); contraste con opositores que no oyen. |
+| **(קול)** | kol | voz | קול | Oír la voz = respuesta formada por Torah, profetas y promesas. |
+| **(אלהים)** | elohim | jueces/portadores de palabra; poderosos | אלהים | #tehilim_82_6 y #iojanan_10_34-36: título por portar palabra de Elohim, no identidad ontológica plena. |
+| **(בן האלהים)** | ben ha-Elohim | Hijo de Elohim, portador pleno | בן + אלהים | Si otros son llamados elohim, cuánto más el enviado y distinguido por Abba (#iojanan_10_36). |
+| **(מעשה)** | ma'aseh | obra, acción | עשה | Las obras en nombre de Abba testifican; no son espectáculo sin anclaje profético. |
+| **(ψυχή)** / **(נפש)** | psuchē / nefesh | vida | ψυχ- / נפש | Vida olam y entrega de vida conectadas en la serie Yojanán 10 — ver nota de nefesh. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Tanaj (OE) | #tehilim_82_6 | "אלהים אתם" — jueces/portadores de palabra; base de #iojanan_10_34-35 | Cotejado |
+| Tanaj (OE) | #bereshit_3_15 | Promesa de la simiente; primer compromiso mesiánico | Cotejado |
+| BDB / Jastrow | אמן | Raíz de emunah: firmeza, verdad, fidelidad, educación | Pendiente de verificar |
+| Contexto del salmo 82 | #tehilim_82_1-8 | Uso histórico de "elohim" para jueces de Israel | Pendiente de verificar |
+| Targum / fuentes arameas | — | Lectura de Abba como plenitud de promesas/escritura | Pendiente de verificar |
+| Señal de Yonah | #matityahu_12_40 (cotejar) | Imagen de ocultamiento/silencio en la muerte del Mesías | Pendiente de verificar |
+| Nota hermana | [Yojanán 10: Abba y morada](./yojanan_10_abba_obras_y_morada.md) | Continuidad sobre obras, Abba y unidad | Mención indirecta en la clase |
 
 ## Emunah como educación y fidelidad
 
@@ -150,6 +185,9 @@ La unidad entre Yeshúa y Abba se muestra en la custodia de las ovejas, en las o
 
 - [[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
 - [[yojanan_10_abba_obras_y_morada|Yojanán 10: Abba, las obras y la morada]]
+- [[yojanan_10_17_28_vida_indestructible|Yojanán 10:17-28 — vida indestructible]]
 - [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]]
+- [[yojanan_9_ben_adam_y_el_ciego|Yojanán 9: el Ben Adam y el ciego]]
 - [[romanim_10|Romanim 10: la emunah es por el oír]]
 - [[../temas/elohim_aba|Elohim y Aba como amor manifiesto y fuente]]
+- [[../temas/ben_hijo_titulos_mesias|Ben, Bar Enash y el Hijo de Elohim]]

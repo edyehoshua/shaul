@@ -22,6 +22,7 @@ references:
   - "#ephesians_2_8"
 sources:
   - "https://www.youtube.com/watch?v=oWBXDeXiqUI&t=2345s"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -48,18 +49,29 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 - Por eso, varias ocurrencias de "judíos" en Yojanan deben probarse por contexto antes de convertirlas en etiqueta étnica total.
 - El argumento central del tramo trabajado es: la luz entra al cosmos que ella misma hizo, pero el cosmos no la reconoce (#iojanan_1_10).
 
-## Hoja de textos (corpus local)
+## Hoja de comparación
 
-| Referencia        | Texto (fuente local)                                                                                                   | Uso en la clase                                                     |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| #iojanan_1_9      | **הוּא אוֹר אֱמֶת אֲשֶׁר בָּא לָעוֹלָם לְהָאִיר לְכָל־אָדָם׃**                                                         | La luz verdadera entra al mundo.                                    |
-| #iojanan_1_10     | **הוּא הָיָה בָעוֹלָם וְהָעוֹלָם נִהְיָה עַל־יָדוֹ וְהָעוֹלָם אֹתוֹ לֹא יָדָע׃**                                       | El cosmos existe por Él pero no lo conoce.                          |
-| #iojanan_1_11     | **הוּא בָא אֶל־עַמּוֹ שֶׁלּוֹ וְעַמּוֹ שֶׁלּוֹ לֹא הֶחֱזִיקוּ־בוֹ׃**                                                   | "Vino a lo suyo" como cumplimiento de su propio plan/promesa.       |
-| #iojanan_1_12     | **וְאֵלֶּה אֲשֶׁר הֶחֱזִיקוּ־בוֹ נָתַן־כֹּחַ בְּיָדָם לִהְיוֹת בָּנִים לֵאלֹהִים הֲלֹא הֵם הַמַּאֲמִינִים בִּשְׁמוֹ׃** | Recibir, creer y ser hijos quedan unidos al Nombre.                 |
-| #iojanan_1_13     | **אֲשֶׁר לֵדָתָם לֹא מִדָּם וְלֹא מִתַּאֲוַת בָּשָׂר וְלֹא מֵרוּחַ גָּבֶר כִּי אִם־מֵאֱלֹהִים׃**                       | El nuevo nacimiento es de Elohim.                                   |
-| #lukas_1_68-75    | **בָּרוּךְ יְהוָֹה אֱלֹהֵי יִשְׂרָאֵל... לְהַצִּילֵנוּ מִיַּד אֹיְבֵינוּ... לְעָבְדוֹ בְּלִי־פָחַד׃**                  | La clase conecta "a lo suyo vino" con promesas juradas a Avraham.   |
-| #ephesians_2_1-10 | **גַּם־אֶתְכֶם אֲשֶׁר מֵתִים הֱיִיתֶם... כִּי־בַחֶסֶד נוֹשַׁעְתֶּם... כִּי־פֹעַל אֱלֹהִים אֲנַחְנוּ...**               | Apoyo al eje: vida recibida por gracia y no por obra humana.        |
-| #tehilim_22_2     | **אל/י אל/י ל/מה עזבת/ני**                                                                                             | La clase propone revisar traducción y función de cita en el madero. |
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Uso en la clase |
+| --- | --- | --- | --- |
+| #iojanan_1_9 | הוא אור אמת אשר בא לעולם להאיר לכלאדם | Porque era la luz fidedigna, la que ilumina a todo hombre, la que entró en el olam. | La luz verdadera entra al cosmos. |
+| #iojanan_1_10 | הוא היה בעולם והעולם נהיה עלידו והעולם אתו לא ידע | En el olam estuvo, y el olam por su mano fue hecho, y el olam no lo conoció. | El cosmos existe por Él pero no lo reconoce. |
+| #iojanan_1_11 | הוא בא אלעמו שלו ועמו שלו לא החזיקובו | A sus dedicados vino, pero sus dedicados no lo recibieron. | "Vino a lo suyo" como cumplimiento de promesa, no como fracaso de misión. |
+| #iojanan_1_12 | ואלה אשר החזיקובו נתןכח בידם להיות בנים לאלהים הלא הם המאמינים בשמו | …les dio facultad para ser hijos de Elohim, a los que tuvieron emunah por su Nombre | Recibir, afirmarse y ser hijos quedan unidos al Nombre. |
+| #iojanan_1_13 | אשר לדתם לא מדם ולא מתאות בשר ולא מרוח גבר כי אםמאלהים | …ni de sangre, ni del deseo de la carne… sino de Elohim fueron engendrados. | El nuevo nacimiento es obra de Elohim, no de voluntad humana autónoma. |
+| #lukas_1_68 | ברוך יהוה אלהי ישראל כי פקד אתעמו וישלח לו פדות | Bendito es יהוה, Elohim de Israel, porque visitó e hizo redención a su pueblo | Conecta "a lo suyo vino" con promesas juradas a Avraham. |
+| #ephesians_2_1 | גםאתכם אשר מתים הייתם בפשעיכם וחטאתיכם | TTH no disponible en corpus local | Apoyo al eje: muerte previa y vida recibida. |
+| #ephesians_2_8 | כיבחסד נושעתם עלידי האמונה ולא מידכם היתה זאת כימתת אלהים היא | TTH no disponible en corpus local | Salvación por gracia, no por obra humana. |
+| #tehilim_22_2 | אל/י אל/י ל/מה עזבת/ני רחוק מ/ישועת/י דברי שאגת/י | Elohim mío, llamo de día y no respondes; y de noche, pero no hay para mí quietud. | La clase propone revisar traducción y función de cita en el madero. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(אור)** | or | Luz, revelación, vida visible | אור | En #iojanan_1_9-10 no es metáfora decorativa: ilumina y entra al olam. |
+| **(עולם)** | olam | Mundo, era, cosmos habitado | עולם | La clase lee **(עולם)** como cosmos creado, no solo como "mundo" moderno. |
+| **(אמונה)** | emunah | Afirmarse, fidelidad, recibir | אמן | En #iojanan_1_12 no reducir a "fe" emocional sin matiz. |
+| **(בנים)** | banim | Hijos, herederos, generados | בן | Filiación por Nombre y engendramiento de Elohim, no por linaje humano solo. |
+| **(יהודים)** | yehudim | Judea, adhesión, dirigencia | יהודה | Ver los cinco matices de la clase antes de traducir como "judíos". |
 
 ## Estructura argumental que desarrolla la clase
 
@@ -75,7 +87,16 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 - También usa comparaciones con ciencia contemporánea; en esta nota se tratan como analogías, no como equivalencias doctrinales.
 - Cuando discute traducciones (por ejemplo, #iojanan_1_3, #iojanan_1_11-12), conviene validar con análisis gramatical adicional.
 
-## Pendientes de verificación
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Josefo | Judea, Galil, Shomrón en el siglo I | Marco histórico para leer **(יהודים)** | Pendiente de verificar |
+| Literatura de Qumrán | Luz, hijos y oposición al mundo | Paralelos posibles con #iojanan_1_9-13 | Pendiente de verificar |
+| Midrash / Tanaj | Promesas a Avraham e Israel | Trasfondo de "vino a lo suyo" | Mención indirecta en la clase |
+| Gramática griega | *lambano*, *pisteuo*, *gennao* en #iojanan_1_12-13 | Secuencia recibir/creer/ser engendrados | Pendiente de verificar |
+
+## Pendiente de verificar
 
 - Contrastar filológicamente la lectura de #iojanan_1_11-12 (secuencia recibir/creer/ser engendrados y función causal del "Nombre").
 - Documentar con herramientas léxicas griegas la afirmación sobre "a través de" en #iojanan_1_7 y usos relacionados.

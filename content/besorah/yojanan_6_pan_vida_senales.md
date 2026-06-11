@@ -56,6 +56,8 @@ references:
   - "#matityahu_14_33"
   - "#markos_6_49"
   - "#markos_6_50"
+  - "#iojanan_6_25"
+  - "#bamidbar_11_8"
 sources:
   - "https://www.youtube.com/watch?v=j4i_FKNQ_Ms"
   - "private/hermes/sources/j4i_FKNQ_Ms.md"
@@ -93,37 +95,52 @@ El punto central no es que la multitud recibió pan, sino que vio señales y aun
 | 01:02-01:08 | Señal, maná y ceguera | Después de pan y dominio del mar, todavía piden señal; la clase lo lee como ceguera frente a la evidencia. |
 | 01:08-01:18 | Pan del cielo y voluntad del Padre | El maná enseña que lo cotidiano también es milagro, pero el verdadero pan da vida y resurrección. |
 
-## Texto base local
+## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_6_1 | Delitzsch: "ויהי אחרי־כן ויעבר ישוע אל־עבר ים־הגליל הוא ים טיבריה" | Ubica el movimiento hacia la otra parte del mar de Galil, llamado también Tiberias. |
-| #iojanan_6_2 | TTH: "E iba detrás de Él mucha gente, porque habían visto sus señales que había hecho sobre los enfermos." | La multitud ya viene marcada por señales de sanidad, no por simple curiosidad. |
-| #iojanan_6_4 | TTH: "Y se acercaba el Pésaj, la fiesta de los yehudim." | El marco de Pésaj abre la conexión con salida de Mitzráim, maná y pan del cielo. |
-| #iojanan_6_5 | TTH: "¿De dónde compraremos pan para que ellos coman?" | La pregunta a Filipos introduce la enseñanza antes de la señal. |
-| #iojanan_6_6 | TTH: "Pero esto les dijo porque lo estaba probando, pues Él sabía lo que iba a hacer." | La clase prefiere leer "probando" como hacer pasar por una experiencia de enseñanza, no como trampa maliciosa. |
-| #iojanan_6_10 | TTH: "Y se recostaron los hombres en número como de cinco mil hombres." | La nota insiste en "hombres/varones"; la población total pudo ser mucho mayor si se proyectan mujeres, niños y ancianos. |
-| #iojanan_6_11 | TTH: "Y tomó Yeshúa el pan y bendijo..." | La señal se realiza con cinco panes de cebada y dos peces, hasta que comen cuanto querían. |
-| #iojanan_6_12 | TTH: "Recojan los pedazos que quedaron, para que no se pierda nada." | La abundancia no autoriza desperdicio; el sobrante también es administrado. |
-| #iojanan_6_13 | TTH: "llenaron doce canastas..." | La clase menciona la posible lectura de las doce tribus, pero la deja abierta y sin afirmarla como segura. |
-| #iojanan_6_14 | TTH: "Este en verdad es el profeta que había de venir al olam." | La multitud reconoce una expectativa mosaica, vinculada con #devarim_18_15. |
-| #iojanan_6_15 | TTH: "estaban prestos a venir a agarrarlo para hacerlo rey..." | Quieren convertir la señal en proyecto político; Yeshúa se retira solo al monte. |
-| #iojanan_6_19 | TTH: "vieron a Yeshúa caminando sobre el mar..." | Segunda señal: dominio sobre el mar, asociada en la clase con las obras de יהוה. |
-| #iojanan_6_20 | TTH: "Yo soy, no teman." | La clase advierte contra convertir cada "yo soy" griego en una pronunciación directa del Nombre. |
-| #iojanan_6_26 | TTH: "ustedes me buscan no porque vieron las señales, sino porque comieron del pan y se saciaron." | Diagnóstico principal: buscar el beneficio sin discernir el signo. |
-| #iojanan_6_27 | TTH: "Trabajen, no la comida que perece, sino la comida que se establece para vida olam..." | El discurso gira desde alimento perecedero hacia vida olam. |
-| #iojanan_6_28 | TTH: "¿Qué haremos para trabajar las obras de Elohim?" | La multitud piensa en obras que puede ejecutar. |
-| #iojanan_6_29 | TTH: "Esta es la obra de Elohim: que se afirmen por el que Él envió." | Yeshúa responde en singular: la obra de Elohim produce la afirmación por el enviado. |
-| #iojanan_6_30 | TTH: "¿Y qué señal harás para que veamos y nos afirmemos?" | La pregunta resulta irónica después de pan multiplicado y mar dominado. |
-| #iojanan_6_31 | TTH: "Nuestros padres comieron el man en el desierto..." | La multitud cita el maná, pero sigue pensando en pan de este mundo. |
-| #iojanan_6_32 | TTH: "Moshéh no les dio el pan de los cielos, sino que mi Padre les da el pan fidedigno de los cielos." | Yeshúa corrige la atribución: no Moshéh como fuente, sino el Padre. |
-| #iojanan_6_33 | TTH: "el pan de Elohim es Este que descendió de los cielos, y da vida al olam." | El pan verdadero no solo alimenta; comunica vida al olam. |
-| #iojanan_6_35 | TTH: "Yo soy el pan de la vida..." | La señal se interpreta en la persona de Yeshúa, no en una provisión separada de él. |
-| #iojanan_6_36 | TTH: "Aunque me han visto, no se afirman." | Ver físicamente no equivale a creer; la emunah no nace de mera evidencia externa. |
-| #iojanan_6_37 | TTH: "Todo el que me da el Padre, vendrá a Mí..." | Venir al Hijo depende de lo que el Padre da. |
-| #iojanan_6_38 | TTH: "he descendido de los cielos, no para hacer mi deseo..." | La clase subraya que "descendido de los cielos" no es poesía débil sino afirmación directa. |
-| #iojanan_6_39 | TTH: "no pierda de ello, sino que lo levante en el día postrero." | La voluntad del Padre termina en preservación y resurrección. |
-| #iojanan_6_40 | TTH: "todo el que ve al Hijo, y se afirme por Él... lo levante Yo en el día postrero." | Ver y afirmarse por el Hijo se unen a vida olam y resurrección. |
+| Referencia | Hebreo (OE/Delitzsch) | TTH (ES) | Función en la clase |
+| --- | --- | --- | --- |
+| #iojanan_6_1 | ויהי אחריכן ויעבר ישוע אלעבר יםהגליל הוא ים טיבריה | — (no en corpus TTH local) | Ubica el movimiento hacia la otra parte del mar de Galil, llamado también Tiberias. |
+| #iojanan_6_2 | והמון עםרב הלכו אחריו כי ראו אתהאתות אשר עשה לחולים | E iba detrás de Él mucha gente, porque habían visto sus señales que había hecho sobre los enfermos. | La multitud ya viene marcada por señales de sanidad, no por simple curiosidad. |
+| #iojanan_6_4 | ומועד הפסח חג היהודים קרב לבוא | Y se acercaba el Pésaj, la fiesta de los yehudim. | El marco de Pésaj abre la conexión con salida de Mitzráim, maná y pan del cielo. |
+| #iojanan_6_5 | וישא ישוע אתעיניו וירא המון עםרב בא אליו ויאמר אלפילפוס מאין נשבר להם לחם לאכל | ¿De dónde compraremos pan para que ellos coman? | La pregunta a Filipos introduce la enseñanza antes de la señal. |
+| #iojanan_6_6 | והוא דבר כזאת לנסותו כי הוא ידע אתאשר יעשה | Pero esto les dijo porque lo estaba probando, pues Él sabía lo que iba a hacer. | "Probando" se lee como experiencia pedagógica, no como trampa maliciosa. |
+| #iojanan_6_10 | ויאמר ישוע הושיבו אתהאנשים וישבו כחמשת אלפים איש למספרם בנאות דשא אשר נמצא שם למכביר | Y se recostaron los hombres en número como de cinco mil hombres. | "Hombres/varones"; la población total pudo ser mucho mayor. |
+| #iojanan_6_11 | ויקח ישוע אתככרות הלחם ויברך ויחלק לתלמידיו והתלמידים לכלהישבים שמה וגם מןהדגים נתן להם כאות נפשם | Y tomó Yeshúa el pan y bendijo, y dio a sus discípulos, y los discípulos a los que estaban sentados en ronda; y así mismo de los peces, cuanto querían. | La señal se realiza con cinco panes de cebada y dos peces. |
+| #iojanan_6_12 | ואחרי אשר שבעו אמר אלתלמידיו אספו אתהפתותים הנותרים לבלי יאבד מאומה | Recojan los pedazos que quedaron, para que no se pierda nada. | La abundancia no autoriza desperdicio. |
+| #iojanan_6_13 | ויאספו וימלאו שניםעשר סלים פתותים אשר הותירו האכלים מןחמשה לחמי השערים | Y los recogieron, y llenaron doce canastas de los pedazos de los cinco panes de cebada que habían sobrado a los que habían comido. | Posible alusión a las doce tribus, pero sin afirmarla como segura. |
+| #iojanan_6_14 | ויהי כראות העם אתהאות הזה אשר עשה ישוע ויאמרו אמנה זה הוא הנביא הבא לתבל ארצה | Este en verdad es el profeta que había de venir al olam. | Expectativa mosaica vinculada con #devarim_18_15. |
+| #iojanan_6_15 | וידע ישוע כייבאו ותפשובו לעשתו למלך עלכן חלץ מהם עוד הפעם אלההר לבדו | estaban prestos a venir a agarrarlo para hacerlo rey, fluyó de sus rostros y volvió solo al monte. | Quieren convertir la señal en proyecto político. |
+| #iojanan_6_19 | ויחתרו כמרחק עשרים וחמש או שלשים מענות ויראו אתישוע הולך עלפני הים הלוך וקרב אלהאניה וייראו | vieron a Yeshúa caminando sobre el mar, y se acercaba al bote; y temieron. | Segunda señal: dominio sobre el mar, asociada con las obras de יהוה. |
+| #iojanan_6_20 | ויאמר אליהם אני הוא אלתיראו | Yo soy, no teman. | Advertencia contra leer cada "yo soy" como pronunciación directa del Nombre. |
+| #iojanan_6_26 | ויען אתם ישוע לאמר אמן אמן אני אמר לכם הן לא בקשתם אתי יען אשר ראיתם אתאתותי כי אםיען מככרות הלחם אכלתם ושבעתם | ustedes me buscan no porque vieron las señales, sino porque comieron del pan y se saciaron. | Diagnóstico principal: buscar el beneficio sin discernir el signo. |
+| #iojanan_6_27 | אלתעמלו בעד אכל אבד כי אםבעד לחם עמד לחיי עולם אשר בןהאדם יתן לכם כיעליו חתם האלהים האב אתחתמו | Trabajen, no la comida que perece, sino la comida que se establece para vida olam, la que el Ben Ha'Adam les dará, porque a Él selló el Padre, Elohim. | El discurso gira desde alimento perecedero hacia vida olam. |
+| #iojanan_6_28 | ויאמרו אליו מהנעשה אשר נפעל פעלות אלהים | ¿Qué haremos para trabajar las obras de Elohim? | La multitud piensa en obras que puede ejecutar. |
+| #iojanan_6_29 | ויען ישוע ויאמר אליהם זאת פעלת אלהים כיתאמינו באיש אשר שלחו אליכם | Esta es la obra de Elohim: que se afirmen por el que Él envió. | Yeshúa responde en singular: la obra de Elohim produce la afirmación por el enviado. |
+| #iojanan_6_30 | ויאמרו אליו ומההאות אשר תעשה כי נראה ונאמין בך מהתפעל | ¿Y qué señal harás para que veamos y nos afirmemos? ¿Qué obras Tú? | Irónico después de pan multiplicado y mar dominado. |
+| #iojanan_6_31 | אבותינו אכלו אתהמן במדבר ככתוב לחם שמים נתןלמו לאכל | Nuestros padres comieron el man en el desierto, como está escrito: Pan de los cielos les dio de comer. | La multitud cita el maná, pero sigue pensando en pan de este mundo. |
+| #iojanan_6_32 | ויאמר אליהם ישוע אמן אמן אני אמר לכם משה לא נתן לכם לחם שמים כי אםאבי נתן לכם לחם אמת מןהשמים | Moshéh no les dio el pan de los cielos, sino que mi Padre les da el pan fidedigno de los cielos. | Yeshúa corrige la atribución: no Moshéh como fuente, sino el Padre. |
+| #iojanan_6_33 | כילחם אלהים הוא הירד מןהשמים והנותן חיים לעולם | el pan de Elohim es Este que descendió de los cielos, y da vida al olam. | El pan verdadero no solo alimenta; comunica vida al olam. |
+| #iojanan_6_35 | ויאמר אליהם ישוע אנכי הוא לחם החיים כלהבא אלי לא ירעב וכלהמאמין בי לא יצמא עוד לעולם | Yo soy el pan de la vida, todo el que viene a Mí no tendrá hambre; y el que se afirma por Mí, no tendrá sed para siempre. | La señal se interpreta en la persona de Yeshúa. |
+| #iojanan_6_36 | ואמר אליכם אשר ראיתם אתי ולא האמנתם בי | Aunque me han visto, no se afirman. | Ver físicamente no equivale a creer. |
+| #iojanan_6_37 | כלאיש אשר אתו יתןלי האב יבא אלי והבא אלי לא אגרשנו מפני | Todo el que me da el Padre, vendrá a Mí; y el que viene a Mí, no lo echo afuera. | Venir al Hijo depende de lo que el Padre da. |
+| #iojanan_6_38 | כי ירדתי מןהשמים לא לעשות רצוני כי אםרצון האב אשר שלחי | he descendido de los cielos, no para hacer mi deseo, sino el deseo del que me envió. | "Descendido de los cielos" no es poesía débil sino afirmación directa. |
+| #iojanan_6_39 | וזה רצון האב אשר שלחי כי אתאשר נתן לי לאיאבד לי אף אחד כי אקימנו ביום האחרון | no pierda de ello, sino que lo levante en el día postrero. | La voluntad del Padre termina en preservación y resurrección. |
+| #iojanan_6_40 | כי זה רצון אבי מי אשר ראה אתהבן ומאמין בו יהיולו חיי עולם ואני אקימנו ביום האחרון | todo el que ve al Hijo, y se afirme por Él, haya para él vida olam, y lo levante Yo en el día postrero. | Ver y afirmarse por el Hijo se unen a vida olam y resurrección. |
+| #devarim_18_15 | נביא מ/קרב/ך מ/אחי/ך כמ/ני יקים ל/ך יהוה אלהי/ך אלי/ו תשמעו/ן | Un profeta de en medio de ti, de tus hermanos, como yo, levantará para ti יהוה tu Elohim; a él escucharán. | La señal de pan hace pensar en Moshéh y en el profeta prometido. |
+| #devarim_18_18 | נביא אקים ל/הם מ/קרב אחי/הם כמו/ך ו/נתתי דבר/י ב/פי/ו ו/דבר אלי/הם את כל אשר אצו/נו | Un profeta haré levantar para ellos de entre sus hermanos, como tú, y pondré mis palabras en su boca, y hablará a ellos todo lo que Yo le mande. | El profeta porta la palabra mandada por יהוה. |
+| #shemot_16_4 | ו/יאמר יהוה אל משה הנ/ני ממטיר ל/כם לחם מן ה/שמים ו/יצא ה/עם ו/לקטו דבר יום ב/יומ/ו למען אנס/נו ה/ילך ב/תורת/י אם לא | He aquí, haré llover para ustedes pan del cielo... | יהוה es quien da pan del cielo. |
+| #shemot_16_13 | ו/יהי ב/ערב ו/תעל ה/שלו ו/תכס את ה/מחנה ו/ב/בקר היתה שכבת ה/טל סביב ל/מחנה | por la mañana había una capa de rocío alrededor del campamento. | El maná aparece en relación con el rocío. |
+| #shemot_16_14 | ו/תעל שכבת ה/טל ו/הנה על פני ה/מדבר דק מחספס דק כ/כפר על ה/ארץ | subió la capa de rocío... una cosa delgada, escamosa, pequeña. | El pan aparece después del rocío. |
+| #shemot_16_15 | ו/יראו בני ישראל ו/יאמרו איש אל אחי/ו מן הוא כי לא ידעו מה הוא ו/יאמר משה אל/הם הוא ה/לחם אשר נתן יהוה ל/כם ל/אכלה | ¿Qué es eso?... Esto es el pan que les ha dado יהוה... | Man hu: el pueblo no sabe qué es, y Moshéh interpreta la provisión. |
+| #bamidbar_11_7 | ו/ה/מן כ/זרע גד הוא ו/עינ/ו כ/עין ה/בדלח | el man era como una semilla de cilantro, y su apariencia como apariencia bedelio. | Comparación con bedelio como parte del simbolismo del maná. |
+| #bamidbar_11_9 | ו/ב/רדת ה/טל על ה/מחנה לילה ירד ה/מן עלי/ו | cuando descendía el rocío... descendía el man junto a él. | Relación entre rocío y maná. |
+| #tehilim_105_40 | שאל ו/יבא שלו ו/לחם שמים ישביע/ם | Pidió, y Él trajo codorniz, y de pan de los cielos los sació. | Texto citado por la nota TTH de #iojanan_6_31. |
+| #tehilim_89_9 | אתה מושל ב/גאות ה/ים ב/שוא גלי/ו אתה תשבח/ם | Tú gobiernas sobre la altivez del mar, cuando se levantan sus olas, Tú las calmas. | El dominio del mar pertenece a יהוה (OE v. 10; etiqueta #tehilim_89_9 en la clase). |
+| #matityahu_14_26 | והתלמידים ראו אותו מהלך עלפני הים ויבהלו ויאמרו מראהרוח הוא ויצעקו מפחד | estuvieron aterrorizados en la carne pensando que era un demonio... | El miedo de los discípulos bajo terror, no doctrina sobre fantasmas. |
+| #matityahu_14_32 | הם עלו אלהאניה והרוח שככה | Y cuando subieron al bote, se calmó el viento. | El dominio sobre viento y mar acompaña la presencia de Yeshúa. |
+| #matityahu_14_33 | ואנשי האניה נגשו וישתחוולו ויאמרו אבל בןאלהים אתה | ¡En verdad Tú eres el Hijo de Elohim! | La reacción del bote interpreta la señal en clave de filiación. |
+| #markos_6_49 | ויראו אתו מתהלך עלפני הים ויאמרו מראהרוח הוא ויצעקו | pensaron que era un demonio, y gritaron. | Paralelo: miedo y confusión bajo terror. |
+| #markos_6_50 | כיכלם ראוהו ויבהלו אז דבר אתם ויאמר אליהם חזקו כיאני הוא אלתיראו | Fortalézcanse, soy Yo, no teman! | Yeshúa calma el temor. |
 
 ## Geografía y lenguaje: Yam Kineret
 
@@ -159,32 +176,11 @@ La nota conserva esa cautela: las doce canastas pueden sugerir plenitud para Isr
 
 ## "Este es el profeta"
 
-La multitud concluye: "Este en verdad es el profeta que había de venir al olam" #iojanan_6_14. La clase conecta esta frase con la promesa de Moshéh:
-
-| Referencia | Texto local | Conexión |
-| --- | --- | --- |
-| #devarim_18_15 | TTH: "Un profeta de en medio de ti, de tus hermanos, como yo, levantará para ti יהוה tu Elohim; a él escucharán." | La señal de pan hace pensar en Moshéh y en el profeta prometido. |
-| #devarim_18_15 | OE: "נביא מ/קרב/ך מ/אחי/ך כמ/ני יקים ל/ך יהוה אלהי/ך אלי/ו תשמעו/ן" | El hebreo fija la expectativa: profeta de entre los hermanos, levantado por יהוה. |
-| #devarim_18_18 | TTH: "Un profeta haré levantar para ellos de entre sus hermanos, como tú, y pondré mis palabras en su boca..." | El profeta no solo hace señales; porta la palabra mandada por יהוה. |
-
-El reconocimiento de la multitud es correcto pero incompleto. Ven un patrón mosaico y quieren hacerlo rey #iojanan_6_15. Yeshúa se retira porque no acepta ser capturado por un proyecto político nacido de una lectura parcial de la señal.
+La multitud concluye: "Este en verdad es el profeta que había de venir al olam" #iojanan_6_14. La clase conecta esta frase con la promesa de Moshéh (#devarim_18_15, #devarim_18_18; véase la hoja de comparación). El reconocimiento de la multitud es correcto pero incompleto. Ven un patrón mosaico y quieren hacerlo rey #iojanan_6_15. Yeshúa se retira porque no acepta ser capturado por un proyecto político nacido de una lectura parcial de la señal.
 
 ## Sobre el mar: señal de dominio
 
-La segunda gran señal es Yeshúa caminando sobre el mar #iojanan_6_19. La clase la pone en relación con los relatos paralelos y con el Tanaj:
-
-| Referencia | Texto local | Función |
-| --- | --- | --- |
-| #iojanan_6_19 | TTH: "vieron a Yeshúa caminando sobre el mar... y temieron." | La señal ocurre en oscuridad, viento y amenaza marítima. |
-| #iojanan_6_20 | TTH: "Yo soy, no teman." | Yeshúa calma el temor, aunque la clase advierte que la frase no debe aislarse como fórmula automática del Nombre. |
-| #matityahu_14_26 | TTH: "estuvieron aterrorizados en la carne pensando que era un demonio..." | El paralelo conserva el miedo de los discípulos y su interpretación errada de lo visto. |
-| #matityahu_14_32 | TTH: "Y cuando subieron al bote, se calmó el viento." | El dominio sobre viento y mar acompaña la presencia de Yeshúa. |
-| #matityahu_14_33 | TTH: "¡En verdad Tú eres el Hijo de Elohim!" | La reacción del bote interpreta la señal en clave de filiación. |
-| #markos_6_49 | TTH: "pensaron que era un demonio..." | El paralelo evita usar esto como doctrina sobre fantasmas; describe miedo y confusión. |
-| #tehilim_89_9 | TTH: "Tú gobiernas sobre la altivez del mar, cuando se levantan sus olas, Tú las calmas." | El dominio del mar pertenece a יהוה. |
-| #tehilim_89_9 | OE: "אתה מושל ב/גאות ה/ים ב/שוא גלי/ו אתה תשבח/ם" | El hebreo presenta a יהוה como quien gobierna y calma las olas. |
-
-La clase rechaza usar el miedo de los discípulos como prueba de una doctrina de "fantasmas". En su lectura, los discípulos eran pescadores con temores y lenguaje de su ambiente; el hecho de que pensaran algo bajo terror no convierte esa percepción en enseñanza bíblica.
+La segunda gran señal es Yeshúa caminando sobre el mar #iojanan_6_19. La clase la pone en relación con los relatos paralelos y con el Tanaj (#iojanan_6_19-20, #matityahu_14_26-33, #markos_6_49-50, #tehilim_89_9; véase la hoja de comparación). La clase rechaza usar el miedo de los discípulos como prueba de una doctrina de "fantasmas". En su lectura, los discípulos eran pescadores con temores y lenguaje de su ambiente; el hecho de que pensaran algo bajo terror no convierte esa percepción en enseñanza bíblica.
 
 ## "Yo soy" y el Nombre
 
@@ -220,20 +216,7 @@ Esta observación se refuerza con #iojanan_6_36: "Aunque me han visto, no se afi
 
 ## Maná: pan de los cielos y memoria del desierto
 
-La multitud desafía a Yeshúa con el maná: "Nuestros padres comieron el man en el desierto" #iojanan_6_31. Yeshúa corrige: no fue Moshéh la fuente del pan de los cielos, sino el Padre #iojanan_6_32.
-
-| Referencia | Texto local | Conexión |
-| --- | --- | --- |
-| #shemot_16_4 | TTH: "He aquí, haré llover para ustedes pan del cielo..." | יהוה es quien da pan del cielo y prueba si el pueblo caminará en su Torah. |
-| #shemot_16_4 | OE: "הנ/ני ממטיר ל/כם לחם מן ה/שמים..." | El hebreo conserva la imagen de pan llovido desde los cielos. |
-| #shemot_16_13 | TTH: "por la mañana había una capa de rocío alrededor del campamento." | El maná aparece en relación con el rocío. |
-| #shemot_16_14 | TTH: "subió la capa de rocío... una cosa delgada..." | El pan aparece después del rocío, en la superficie del desierto. |
-| #shemot_16_15 | TTH: "¿Qué es eso?... Esto es el pan que les ha dado יהוה..." | Man hu: el pueblo no sabe qué es, y Moshéh interpreta la provisión. |
-| #bamidbar_11_7 | TTH: "el man era como una semilla de cilantro, y su apariencia como apariencia bedelio." | La clase menciona la comparación con bedelio como parte del simbolismo del maná. |
-| #bamidbar_11_9 | TTH: "cuando descendía el rocío... descendía el man junto a él." | La relación entre rocío y maná permite el desarrollo lingüístico del expositor. |
-| #tehilim_105_40 | TTH: "Pidió, y Él trajo codorniz, y de pan de los cielos los sació." | Es el texto citado por la nota TTH de #iojanan_6_31. |
-
-La clase insiste en que el maná del desierto fue real y maravilloso, pero no daba vida olam. Por eso Yeshúa no niega el milagro antiguo; lo reordena. El pan verdadero no es simplemente un alimento que cae del cielo, sino "Este que descendió de los cielos, y da vida al olam" #iojanan_6_33.
+La multitud desafía a Yeshúa con el maná: "Nuestros padres comieron el man en el desierto" #iojanan_6_31. Yeshúa corrige: no fue Moshéh la fuente del pan de los cielos, sino el Padre #iojanan_6_32. Los pasajes del desierto (#shemot_16_4-15, #bamidbar_11_7-9, #tehilim_105_40; véase la hoja de comparación) sostienen que יהוה es quien da pan del cielo. La clase insiste en que el maná del desierto fue real y maravilloso, pero no daba vida olam. Por eso Yeshúa no niega el milagro antiguo; lo reordena. El pan verdadero no es simplemente un alimento que cae del cielo, sino "Este que descendió de los cielos, y da vida al olam" #iojanan_6_33.
 
 ## Lo cotidiano como milagro
 
@@ -269,14 +252,22 @@ Por eso #iojanan_6_29 y #iojanan_6_37-40 deben leerse juntos. Afirmarse por el e
 
 ## La voluntad del Padre y la resurrección
 
-| Referencia | Texto local | Función |
-| --- | --- | --- |
-| #iojanan_6_37 | TTH: "Todo el que me da el Padre, vendrá a Mí; y el que viene a Mí, no lo echo afuera." | La iniciativa del Padre produce venida al Hijo. |
-| #iojanan_6_38 | TTH: "he descendido de los cielos, no para hacer mi deseo, sino el deseo del que me envió." | El descenso de Yeshúa se vincula con obediencia a la voluntad superior. |
-| #iojanan_6_39 | TTH: "no pierda de ello, sino que lo levante en el día postrero." | La voluntad del Padre preserva lo dado al Hijo. |
-| #iojanan_6_40 | TTH: "todo el que ve al Hijo, y se afirme por Él... lo levante Yo en el día postrero." | Ver al Hijo y afirmarse por él culmina en vida olam y resurrección. |
+La clase enfatiza que Yeshúa no habla de una voluntad humana autosuficiente (#iojanan_6_37-40; véase la hoja de comparación). El mismo pasaje que dice "todo el que ve al Hijo y se afirme" acaba de decir "aunque me han visto, no se afirman." Por tanto, ver y creer son inseparables de la obra de Elohim.
 
-La clase enfatiza que Yeshúa no habla de una voluntad humana autosuficiente. El mismo pasaje que dice "todo el que ve al Hijo y se afirme" acaba de decir "aunque me han visto, no se afirman." Por tanto, ver y creer son inseparables de la obra de Elohim.
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(מן)** | man | Maná, provisión del desierto | Hebreo | Man hu (#shemot_16_15): el pueblo no sabe qué es; Moshéh interpreta la provisión. |
+| **(לחם)** | lejem | Pan, sustento | Hebreo | Pan del cielo, pan de vida; el Mesías se identifica como el pan que descendió. |
+| **(אני הוא)** | ani hu | Yo soy | Hebreo (Delitzsch) | #iojanan_6_20: no convertir cada egō eimi griego en pronunciación directa del Nombre. |
+| **(εγώ εἰμί)** | egō eimi | Yo soy | Griego | Advertencia de la clase: leer por contexto, no como atajo teológico automático. |
+| **(רבי)** | rabi | Maestro, título honorífico | Hebreo/arameo | En #iojanan_6_25 no es traducción plana de "profesor". |
+| **(בן האדם)** | Ben Ha'Adam | Hijo del Hombre | Hebreo/arameo | Sellado por el Padre como Elohim en #iojanan_6_27 (lectura de la clase, pendiente de verificar). |
+| **(πιστεύω)** | pisteuo | Afirmarse, mostrar fidelidad | πιστ- | La obra de Elohim es que se afirmen por el enviado (#iojanan_6_29). |
+| **(חיי עולם)** | chayei olam | Vida del olam | Hebreo | Comida que permanece para vida olam, no alimento perecedero. |
+| **(טל)** | tal | Rocío | Hebreo | Asociado al maná; lectura simbólica aramea con bedelio (pendiente de verificar). |
+| **(בדלח)** | bedelaj | Bedelio (resina aromática) | Hebreo | Apariencia del maná en #bamidbar_11_7. |
 
 ## Conexiones con notas del vault
 
@@ -300,6 +291,17 @@ Yojanan 6:1-40 presenta una secuencia de señales que exige una lectura más pro
 
 La multitud quiere pan, rey y obras; Yeshúa revela vida olam, obra de Elohim y resurrección. La señal apunta al enviado mismo. Venir a él, afirmarse por él y ser levantado en el día postrero dependen de la voluntad del Padre, no de una capacidad humana de reconocer correctamente las señales por sí sola.
 
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Aparato crítico (NA28/UBS) | #iojanan_6_4 | Omisión del versículo en un manuscrito antiguo | Pendiente de verificar |
+| Septuaginta | — | Las traducciones sirven para comparar sentido, pero no deben recibir autoridad por encima del evangelio | Mención indirecta en la clase |
+| Léxico griego | egō eimi (#iojanan_6_20) | Relación, o no, con la revelación del Nombre en Shemot 3 | Pendiente de verificar |
+| Fuentes judías | rocío / bedelio / maná | Explicación aramea y lectura simbólica del expositor | Pendiente de verificar |
+| Teología mística judía | siete atributos del Anciano de Días | Capacidad de la deidad de disminuirse para venir a la creación | Pendiente de verificar |
+| Gramática griega | #iojanan_6_27 | Sintaxis de "selló el Padre, Elohim" como designación/título | Pendiente de verificar |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar con aparato crítico de Yojanan 6:4 qué manuscrito omite el versículo y qué peso tiene en la tradición textual.
@@ -307,3 +309,11 @@ La multitud quiere pan, rey y obras; Yeshúa revela vida olam, obra de Elohim y 
 - [ ] Verificar con fuentes léxicas el tratamiento de egō eimi en #iojanan_6_20 y su relación, o no, con Shemot 3.
 - [ ] Cotejar la explicación aramea de rocío / bedelio / maná con fuentes judías primarias o secundarias.
 - [ ] Investigar la referencia del expositor a los siete atributos del Anciano de Días y la terminología de disminución/anulación antes de desarrollarla en una nota doctrinal propia.
+
+## Ver también
+
+- [Yojanan 6: pan del cielo y árbol de vida](./yojanan_6_pan_del_cielo_y_arbol_de_vida.md)
+- [Yojanan 5: el Hijo, juicio y vida](./yojanan_5_hijo_juicio_vida.md)
+- [Yojanan 5: Bet Jesda, sanidad y Shabat](./yojanan_5_bet_jesda_shabat.md)
+- [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1.md)
+- [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)

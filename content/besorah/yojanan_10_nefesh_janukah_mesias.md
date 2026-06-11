@@ -32,6 +32,7 @@ references:
 sources:
   - "https://www.youtube.com/live/W1agi038QCs?si=I5vk4GKthCUPDBE_"
   - "private/hermes/sources/youtube_W1agi038QCs_transcript.txt"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -49,17 +50,47 @@ El hilo continúa con la reacción dividida de los yehudim, la memoria de la san
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_10_17 | "Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar." | La entrega de la vida se presenta como acto voluntario y reversible por dominio propio del Mesías. |
-| #iojanan_10_18 | "Ningún hombre me la quita, sino que Yo la pongo de Mí mismo... Este mandamiento he recibido de mi Padre." | Nadie le arrebata la vida; él la pone y la vuelve a tomar conforme al mandato recibido. |
-| #ieshaiahu_53_10 | ו/יהוה חפץ דכא/ו החלי אם תשים אשם נפש/ו יראה זרע יאריך ימים ו/חפץ יהוה ב/יד/ו יצלח | El siervo pone su nefesh como ofrenda de culpa; la clase lo lee como trasfondo directo de Yojanán 10. |
-| #tehilim_16_10 | כי לא תעזב נפש/י ל/שאול לא תתן חסיד/ך ל/ראות שחת | La nefesh no queda abandonada al Sheol y el piadoso no ve corrupción. |
-| #maasei_hashlijim_2_27 | כִּי לׂא־תַעֲזׂב נַפְשִׁי לִשְׁאוֹל לׂא־תִתֵּן חֲסִידְךָ לִרְאוֹת שָׁחַת׃ | Kefa aplica el salmo a la resurrección del Mesías: su cuerpo no fue dejado en corrupción. |
-| #iojanan_10_19 | "Y hubo otra vez contienda entre los yehudim por estas palabras." | Las palabras sobre entregar y tomar la vida producen división inmediata. |
-| #iojanan_10_21 | "Estas palabras no son palabras de un hombre que tiene a Ha'satán. ¿Puede Ha'satán abrir los ojos de los ciegos?" | La sanidad del ciego queda como testimonio imposible de ignorar. |
-| #iojanan_10_22 | "Y era Janucá en Ierushaláim, y era invierno." | El discurso entra en un marco de dedicación, recuperación y memoria de fidelidad. |
-| #iojanan_10_24 | "¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza." | La pregunta mesiánica surge después de las obras y de la enseñanza sobre la nefesh. |
+### Yojanán 10:17-24 (Delitzsch + TTH)
+
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #iojanan_10_17 | עלכן יאהבני האב כי אתנפשי אתן ואשיב ואקחיה | Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar. | Entrega voluntaria y reversible de la vida del Mesías. |
+| #iojanan_10_18 | איש לא יקח נפשי ממני כי אםאני אתננה ישלאל ידי לתתה וישלאל להשיבה אלי זאת המצוה צויתי מאת אבי | Ningún hombre me la quita, sino que Yo la pongo de Mí mismo... Este mandamiento he recibido de mi Padre. | Dominio propio; mandato de Abba como competencia. |
+| #iojanan_10_19 | ויחלקו היהודים עוד הפעם עלהדברים האלה | Y hubo otra vez contienda entre los yehudim por estas palabras. | División inmediata por el peso de las palabras. |
+| #iojanan_10_21 | ואחרים אמרו אין הדברים האלה דברי בעל רוח רע היש עםרוח רע לפקח עיני עורים | Estas palabras no son palabras de un hombre que tiene a Ha'satán. ¿Puede Ha'satán abrir los ojos de los ciegos? | #iojanan_9_6-7 sigue como testimonio público. |
+| #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים | Y era Janucá en Ierushaláim, y era invierno. | Marco de dedicación, recuperación y memoria de fidelidad. |
+| #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | ¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Pregunta mesiánica tras obras y enseñanza sobre la nefesh. |
+
+### Tanaj y Besorah (OE + TTH / Delitzsch)
+
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #ieshaiahu_53_10 | ו/יהוה חפץ דכא/ו החלי אם תשים אשם נפש/ו יראה זרע יאריך ימים ו/חפץ יהוה ב/יד/ו יצלח | ...Cuando ponga como ofrenda de culpa su vida, verá simiente... | Trasfondo directo de la entrega de nefesh en Yojanán 10. |
+| #tehilim_16_10 | כי לא תעזב נפש/י ל/שאול לא תתן חסיד/ך ל/ראות שחת | porque no abandonarás mi ser en el Sheol, no darás a tu benevolente el ver destrucción. | Paralelismo: nefesh y no ver corrupción. |
+| #maasei_hashlijim_2_27 | כי לאתעזב נפשי לשאול לאתתן חסידך לראות שחת (Delitzsch) | Pendiente en TTH local | Kefa aplica el salmo a resurrección del Mesías. |
+| #shemot_19_6 | ו/אתם תהיו ל/י ממלכת כהנים ו/גוי קדוש אלה ה/דברים אשר תדבר אל בני ישראל | y ustedes serán para Mí un reino de sacerdotes, y goy kadosh. | Propósito inicial antes del sacerdocio levítico post-becerro de oro. |
+
+## Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(נפש)** | nefesh | vida expuesta, garganta/cuello, persona concreta | נפש | Enlace pedagógico con ψυχή en #iojanan_10_17; no "alma inmortal" griega. |
+| **(ψυχή)** | psuche | vida, nefesh en lectura semítica de la clase | ψυχ- | Equivalencia aproximada; marcar como pedagógica, no lexicografía cerrada. |
+| **(שאול)** | Sheol | sepultura, muerte, no Hades filosófico | שאל | #tehilim_16_10: no abandono al Sheol ≠ inframundo griego. |
+| **(שחת)** | shachat | corrupción, podredumbre del cuerpo | שחת | Segunda línea del paralelismo aclara la primera en el salmo. |
+| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación en emunah | חנך | Fiesta histórica; ver [[../temas/janukah|Janukah]]. |
+| **(παρρησία)** | parresia | franqueza, decir abiertamente | — | Petición de #iojanan_10_24: confesión pública mesiánica. |
+| **(אשם)** | asham | ofrenda de culpa | אשם | En #ieshaiahu_53_10 la nefesh del siervo se pone como asham. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Mishnah / Talmud | Orden sacerdotal y sacrificios post-becerro de oro | Pedagogía sacrificatorial hasta el Mesías | Mención indirecta en la clase |
+| Ivrim | #ivrim_9_10, #ivrim_10_1-10 (citados en frontmatter) | Cumplimiento de sacrificios en cuerpo del Mesías | Pendiente de verificar en nota ampliada |
+| Arquitectura herodiana | Hejal, pórtico de Shelomóh, atrios | "Templo" no es solo edificio interior | Pendiente de verificar |
+| Fuentes sobre Janukah | חנך, reeducación y práctica de emunah | Memoria que exige poner la fe en práctica | Pendiente de verificar |
+| Maasei Hashlijim | #maasei_hashlijim_2_27 (Delitzsch) | Resurrección sin corrupción | Cotejado (Delitzsch local) |
 
 ## Nefesh, psyje y sacrificio
 
@@ -123,8 +154,15 @@ El cierre del video anticipa una discusión posterior: qué se esperaba del Mes�
 - [ ] Ampliar con textos de Ivrim la relación entre sacrificios, conciencia, tiempo de reformar y ofrenda del cuerpo del Mesías.
 - [ ] Crear una nota temática sobre "nefesh no es alma inmortal" con más pasajes del Tanaj.
 
+## Conclusión
+
+La entrega de la nefesh en #iojanan_10_17-18 no contradice las obras ya mostradas ni el marco de Janukah. Al contrario: completa la pedagogía sacrificatorial de Torah y profetas, anticipa resurrección sin corrupción (#tehilim_16_10) y prepara la pregunta mesiánica de #iojanan_10_24. Quien ha sido formado por la Escritura debería reconocer en Yeshúa al siervo que pone su vida y la vuelve a tomar.
+
 ## Ver también
 
 - [[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
 - [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]]
+- [[yojanan_10_janukah_senales_mesias|Yojanán 10: Janukah y las señales del Mesías]]
+- [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
+- [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]
 - [[../temas/janukah|Janukah]]

@@ -18,8 +18,10 @@ references:
   - "#iojanan_4_9"
   - "#iojanan_5_1"
   - "#ester_8_17"
+  - "#tehilim_118_25"
 sources:
   - "https://www.youtube.com/watch?v=1MoxwBR4bg4&list=PLw429MSY038taEkOAVJ7_lmH2rflIgIkZ&index=2"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -32,14 +34,16 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 - Cuando la exposición entra en gramática griega, filosofía estoica, Filón o reconstrucciones semíticas, la nota conserva esas líneas como hipótesis de trabajo pendientes de verificación especializada.
 - Se mantiene la distinción entre lo que el texto bíblico dice y la interpretación que el expositor construye sobre ese texto.
 
-## Hoja breve de textos sobre **(יהודים)**
+## Hoja de comparación: **(יהודים)** y marco geográfico
 
-- #iojanan_1_19: "Y este es el testimonio de Iojanán, cuando enviaron los yehudim desde Ierushaláim a los sacerdotes y a los leviím para preguntarle: ¿Quién eres tú?" El transcript toma este envío desde Ierushaláim como punto de partida para leer **(יהודים)** en clave de procedencia, centro de poder y marco regional.
-- #iojanan_1_47: "Y vio Yeshúa a Netanel venir hacia Él, y le dijo: He aquí, en verdad un hijo de Israel en quien no hay engaño." La exposición usa este verso junto con la forma hebrea **(ישראלי)** que aparece en Delitzsch para contrastar "Israel" con "yehudim" y distinguir capas identitarias.
-- #iojanan_2_13: "Y estaba cerca el Pésaj de los yehudim, y subió Yeshúa a Ierushaláim." Aquí el transcript insiste en que la expresión debe leerse desde el marco concreto de Ierushaláim y Judea, no automáticamente como marcador étnico absoluto.
-- #iojanan_4_9: "Y le dijo la mujer shomronit: ¿Cómo Tú, siendo iehudí, me pides de beber, que soy mujer shomronit? Porque no se cambian, mezclan ni andan los yehudim con los shomronim." Para la nota, este pasaje vuelve visible un uso social y geográfico del término en boca de una samaritana.
-- #iojanan_5_1: **(ואחרי־כן בא מועד חג היהודים ויעל ישוע ירושלימה)**. El transcript usa este verso como caso de prueba para distinguir entre una fiesta bíblica y una fiesta caracterizada desde el ámbito de los yehudim.
-- #ester_8_17: **(ורבים מעמי הארץ מתיהדים כי נפל פחד היהודים עליהם)**. Este apoyo del Tanaj se usa en la exposición para mostrar otra capa posible del término: "hacerse judíos" en sentido religioso o de adhesión.
+| Referencia | Hebreo (sin nikud) | TTH (ES) | Uso en el transcript |
+| --- | --- | --- | --- |
+| #iojanan_1_19 | וזאת עדות יוחנן בשלח היהודים כהנים ולוים מירושלים לשאל אתו מי הוא | Y este es el testimonio de Iojanán, cuando enviaron los yehudim desde Ierushaláim… | El envío desde Ierushaláim abre la lectura de procedencia y centro de poder. |
+| #iojanan_1_47 | וירא ישוע אתנתנאל בא לקראתו ויאמר עליו אולם זה הוא ישראלי אשר איןבו רמיה | He aquí, en verdad un hijo de Israel en quien no hay engaño. | Contraste entre **(ישראלי)** y **(יהודים)** para distinguir capas identitarias. |
+| #iojanan_2_13 | ויקרב חגהפסח ליהודים ויעל ישוע ירושלימה | Y estaba cerca el Pésaj de los yehudim, y subió Yeshúa a Ierushaláim. | Fiesta leída desde el marco de Judea/Ierushaláim, no como etiqueta étnica absoluta. |
+| #iojanan_4_9 | ותאמר אליו האשה השמרנית הלא יהודי אתה… כיאין דבר ליהודים עםהשמרנים | ¿Cómo Tú, siendo iehudí, me pides de beber…? Porque no… andan los yehudim con los shomronim. | Uso social y geográfico del término en boca de una samaritana. |
+| #iojanan_5_1 | ואחריכן בא מועד חג היהודים ויעל ישוע ירושלימה | TTH no disponible en corpus local para este verso | Caso de prueba: fiesta bíblica caracterizada desde el ámbito de los yehudim. |
+| #ester_8_17 | ו/רבים מ/עמי ה/ארץ מ/תיהדים כי נפל פחד ה/יהודים עלי/הם | TTH no disponible en corpus local | **(מתיהדים)** muestra adhesión religiosa o identificación con el pueblo de יהוה. |
 
 ## Las capas de sentido que propone el transcript
 
@@ -58,11 +62,23 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 
 ## El prólogo y el problema del logos
 
-### Texto local del prólogo
+### Hoja de comparación: prólogo
 
-- #iojanan_1_1: "En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra."
-- #iojanan_1_2: "Este era en la primicia para Elohim."
-- #iojanan_1_3: "Todo fue hecho por Él, y sin Él nada hubiera sido hecho de lo que fue hecho."
+| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #iojanan_1_1 | בראשית היה הדבר והדבר היה אתהאלהים והוא הדבר היה אלהים | En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra. | **(את)** / *pros* se lee como pertenencia, no como compañía neutra. |
+| #iojanan_1_2 | הוא היה מראש אתהאלהים | Este era en la primicia para Elohim. | Refuerza la lectura de relación propia, no de intermediario menor. |
+| #iojanan_1_3 | כלהמעשים נהיו עלידו ואין דבר אשר נעשה מבלעדיו | Todo fue hecho por Él, y sin Él nada hubiera sido hecho de lo que fue hecho. | La creación se atribuye directamente a la Palabra. |
+
+### Hoja léxica
+
+| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
+| --- | --- | --- | --- | --- |
+| **(יהודים)** | yehudim | Habitantes de Judea, adherentes, dirigencia de Ierushaláim | יהודה | El sentido depende del contexto; no equivalencia fija con "toda la nación". |
+| **(ישראלי)** | yisraeli | Hijo de Israel, identidad confesional amplia | ישראל | Se contrasta pedagógicamente con yehudim en #iojanan_1_47. |
+| **(λόγος)** | logos | Palabra, expresión, razón | πιστ- / λογ- | No asumir equivalencia total con logos estoico ni con Filón sin cotejo. |
+| **(מימרא)** | meymra | Palabra/Expresión de Elohim en arameo targúmico | מימר | Reconstrucción semítica del trasfondo; marcar como hipótesis de lectura. |
+| **(דבר)** | davar | Palabra, asunto, cosa | דבר | Paralelo hebreo útil para el prólogo; no equivalencia gramatical exacta con logos. |
 
 ### Lectura que propone el transcript
 
@@ -79,15 +95,27 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 - La impresión de que Yojanan habla desde un judaísmo plano y sin conflictos internos.
 - Las lecturas teológicas posteriores que convierten las polémicas con los yehudim en condena global del pueblo judío.
 
-## Relación con otras notas
+## Referencias judías y fuentes externas
 
-- Esta nota funciona como puente entre [Introducción al evangelio de Yojanan](./yojanan_introduccion) y [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1).
-- El foco aquí no es rehacer toda la introducción ni todo el capítulo 1, sino recoger el argumento específico del transcript sobre **(יהודים)**, geografía y logos.
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Filón de Alejandría | Logos en literatura helenística-judía | Contraste con la lectura del prólogo de Yojanan | Pendiente de verificar |
+| Estoicos / filosofía helenística | Logos como principio racional del cosmos | Fondo que el transcript presenta como polo de polémica | Pendiente de verificar |
+| Targum / arameo | **(מימרא)** en tradición targúmica | Hipótesis semítica del prólogo | Pendiente de verificar |
+| Josefo | Judea, grupos y geografía del siglo I | Contexto para **(יהודים)** | Pendiente de verificar |
+| Qumrán | Desierto de Judea y movimientos del periodo | Marco histórico mencionado en la exposición | Pendiente de verificar |
 
-## Pendientes de verificación
+## Pendiente de verificar
 
 - Verificar con gramáticas de griego koiné el peso exacto que puede sostener la lectura del **pros** de #iojanan_1_1-2.
 - Contrastar con bibliografía especializada la presentación del logos estoico y la lectura atribuida a Filón.
 - Revisar si la oposición entre **(יהודים)** e **(ישראלי)** funciona en Yojanan exactamente con el alcance que el transcript le asigna.
 - Verificar si la omisión o formulación variable de #iojanan_5_1 en algunas ediciones locales afecta la línea argumental del expositor.
 - Documentar mejor el trasfondo histórico de Qumrán, desierto de Judea y los grupos mencionados en la exposición cuando se quiera convertir esta síntesis en una nota de estudio más técnica.
+
+## Ver también
+
+- [Introducción al evangelio de Yojanan](./yojanan_introduccion)
+- [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)
+- [Yojanan 1: judíos, luz y cosmos](./yojanan_1_judios_luz_y_cosmos)
+- [Elohim y Abba](../temas/elohim_aba)
