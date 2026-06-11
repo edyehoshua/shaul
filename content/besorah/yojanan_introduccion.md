@@ -99,6 +99,7 @@ Esta introducción propone leer Yojanan como un escrito transmitido en griego, p
 
 ## Ver también
 
+- [Conceptos clave de deidad en Yojanán](./yojanan_conceptos_deidad)
 - [Yojanan: yehudim, procedencia y logos](./yojanan_iehudim_y_logos)
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)
 - [Yojanan 1: judíos, luz y cosmos](./yojanan_1_judios_luz_y_cosmos)
