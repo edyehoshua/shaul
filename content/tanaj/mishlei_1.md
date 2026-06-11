@@ -16,13 +16,21 @@ references:
   - "#mishlei_1_12"
   - "#mishlei_1_13"
   - "#mishlei_1_14"
-sources: []
-translation: "[BTX4]"
+sources:
+  - "docs/scriptures/tth/json/mishlei.json"
+  - "docs/scriptures/oe/json/proverbs/1.json"
+translation: "[TTH, OE]"
 ---
 
 # Tesis
 
 Mishlei 1 presenta un léxico de formación espiritual donde daat, musar y reshit ordenan la comprensión, mientras que la segunda parte advierte contra la seducción de los pervertidos.
+
+## Alcance de la nota
+
+- Apunte léxico sobre Mishlei 1:2-14; no cubre el capítulo entero.
+- La alegoría sobre potestades al final es interpretación aplicada de la nota, no lectura explícita del texto masoretico.
+- Se prioriza OE y TTH para los versículos citados.
 
 ## Texto base
 
@@ -37,20 +45,20 @@ Mishlei 1 presenta un léxico de formación espiritual donde daat, musar y reshi
 - #mishlei_1_13
 - #mishlei_1_14
 
-## Texto TTH disponible
+## Hoja de comparación
 
-| Referencia    | TTH local                                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------------------- |
-| #mishlei_1_2  | para conocer sabiduría y disciplina, para discernir dichos de discernimiento,                        |
-| #mishlei_1_3  | para recibir disciplina, actuando prudentemente, justicia, juicio y rectitudes;                      |
-| #mishlei_1_4  | para dar a los ingenuos astucia, al joven, conocimiento y pensamientos de consejo.                   |
-| #mishlei_1_7  | El temor de יהוה es el principio del conocimiento, sabiduría y disciplina los tontos desprecian.     |
-| #mishlei_1_8  | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah (instrucción) de tu madre,      |
-| #mishlei_1_10 | Hijo mío, si te persuaden los pecadores, no consientas.                                              |
-| #mishlei_1_11 | Si dicen: Ven con nosotros, estemos al asecho para derramar sangre, vigilemos sin causa al inocente, |
-| #mishlei_1_12 | traguémonoslos como el Sheol, vivos, y enteros, como los que descienden al pozo;                     |
-| #mishlei_1_13 | toda riqueza valiosa hallaremos, llenaremos nuestras casas de botín;                                 |
-| #mishlei_1_14 | tu goral has caer en medio de nosotros, todos tendremos una bolsa.                                   |
+| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #mishlei_1_2 | לדעת חכמה ומוסר להבין אמרי בינה | para conocer sabiduría y disciplina, para discernir dichos de discernimiento, | Daat y musar abren el propósito del libro. |
+| #mishlei_1_3 | לקחת מוסר השכל צדק ומשפט ומישרים | para recibir disciplina, actuando prudentemente, justicia, juicio y rectitudes; | Orden tzedek → mishpat → mesharim. |
+| #mishlei_1_4 | לתת לפתאים ערמה לנער דעת ומזמה | para dar a los ingenuos astucia, al joven, conocimiento y pensamientos de consejo. | ערמה y מזמה junto a daat. |
+| #mishlei_1_7 | יראת יהוה ראשית דעת חכמה ומוסר אוילים בזו | El temor de יהוה es el principio del conocimiento, sabiduría y disciplina los tontos desprecian. | Reshit de daat: יראת יהוה. |
+| #mishlei_1_8 | שמע בני מוסר אביך ואל תטש תורת אמך | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah (instrucción) de tu madre, | שמע בני enlaza con #devarim_6_4. |
+| #mishlei_1_10 | בני אם יפתוך חטאים אל תבא | Hijo mío, si te persuaden los pecadores, no consientas. | Inicio de la advertencia contra seducción. |
+| #mishlei_1_11 | אם יאמרו לכה אתנו נארבה לדם נצפנה לנקי חנם | Si dicen: Ven con nosotros, estemos al asecho para derramar sangre, vigilemos sin causa al inocente, | Acecho al inocente sin causa. |
+| #mishlei_1_12 | נבלעם כשאול חיים ותמימים כיורדי בור | traguémonoslos como el Sheol, vivos, y enteros, como los que descienden al pozo; | Imagen de devorar vivo. |
+| #mishlei_1_13 | כל הון יקר נמצא נמלא בתינו שלל | toda riqueza valiosa hallaremos, llenaremos nuestras casas de botín; | Botín como seducción. |
+| #mishlei_1_14 | גורלך תפיל בתוכנו כיס אחד יהיה לכלנו | tu goral has caer en medio de nosotros, todos tendremos una bolsa. | Goral compartido: comunidad del mal. |
 
 ## Léxico base
 
@@ -97,3 +105,23 @@ Mishlei 1 presenta un léxico de formación espiritual donde daat, musar y reshi
 - #mishlei_1_12: "Devorémoslo vivo, como el Seol, enteros, como los que bajan al sepulcro".
 - #mishlei_1_13: "Hallaremos objetos valiosos, llenaremos nuestras casas del botín".
 - #mishlei_1_14: "Comparte tu suerte con nosotros y tengamos todos una misma bolsa".
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Tanaj (TTH/OE) | #mishlei_1_2-14 | Léxico de formación y advertencia | Cotejado |
+| Tanaj (OE) | #devarim_6_4 | שמע ישראל como eco de שמע בני | Pendiente de verificar |
+| Tanaj (TTH) | #galatim_4_26 | Ierushalaim como “madre” en la alegoría de 1:8 | Mención indirecta en la nota |
+| BDB | דעת, מוסר, ראשית | Apoyo léxico | Pendiente de verificar |
+
+## Pendiente de verificar
+
+- [ ] Alcance de la alegoría “potestades” frente al sentido literal del pasaje.
+
+## Ver también
+
+- [Bereshit 1](./bereshit_1.md) — reshit como principio y primicia.
+- [Mishlei 3](./mishlei_3.md) — formación y confianza en יהוה.
+- [Romanim 10](../besorah/romanim_10.md) — שמע y emunah por el oír.
+- [Galatim 5](../besorah/galatim_5.md) — obra del Espíritu frente a obras de la carne.

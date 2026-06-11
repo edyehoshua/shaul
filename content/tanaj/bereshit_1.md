@@ -20,13 +20,21 @@ references:
   - "#mijah_5_2"
   - "#ieshaiahu_44_6"
   - "#iojanan_1_1"
-sources: []
-translation: "[BTX4, TTH]"
+sources:
+  - "docs/scriptures/tth/json/bereshit.json"
+  - "docs/scriptures/oe/json/genesis/1.json"
+translation: "[TTH, OE]"
 ---
 
 # Tesis
 
 Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que la creación queda ordenada dentro de ese principio primero.
+
+## Alcance de la nota
+
+- Apunte léxico sobre #bereshit_1_1; no cubre los siete días de la creación.
+- La lectura de bara como “solo Elohim como sujeto” es interpretación de la nota.
+- Conexiones con Kolosim e Iojanán son teológicas, no equivalencias léxicas cerradas.
 
 ## Texto base
 
@@ -34,9 +42,9 @@ Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que
 
 ## Hoja de comparación
 
-| Referencia    | Hebreo                                                           | TTH                                                           | Observación                                                               |
-| ------------- | ---------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| #bereshit_1_1 | **(בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ)** | Con lo primero le dio forma Elohim a los cielos y a la tierra | El enfoque de la nota cae sobre reshit como principio primero y primicia. |
+| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #bereshit_1_1 | בראשית ברא אלהים את השמים ואת הארץ | Con lo primero le dio forma Elohim a los cielos y a la tierra. | Reshit como principio primero y primicia; bara como ordenar/formar. |
 
 ## Léxico base
 
@@ -63,6 +71,24 @@ Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que
 - #ieshaiahu_44_6
 - #iojanan_1_1
 
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Tanaj (TTH/OE) | #bereshit_1_1 | Texto base del apunte | Cotejado |
+| Targum Onkelos | Bereshit 1:1 | Lecturas arameas de בראשית | Pendiente de verificar |
+| Bereishit Rabbah | Bereshit 1:1 | Reshit y creación en midrash | Pendiente de verificar |
+| Ibn Ezra | Bereshit 1:1 | Sentido de בראשית | Pendiente de verificar |
+| Ramban | Bereshit 1:1 | Bara y ex nihilo vs emanación | Pendiente de verificar |
+
 ## Pendiente de verificar
 
-- [ ] Confirmar extracción directa de TTH desde shafan.xyz para mantener la hoja de comparación totalmente trazable al sitio.
+- [ ] Equivalencia pedagógica reshit–primicias–Kolosim 1:16-17.
+- [ ] Si Mishlei 8:22 habla del mismo reshit que Bereshit 1:1.
+
+## Ver también
+
+- [Mishlei 1](./mishlei_1.md) — reshit del conocimiento (יראת יהוה).
+- [Mishlei 3](./mishlei_3.md) — sabiduría y confianza en יהוה.
+- [Yojanán 1](../besorah/yojanan_1.md) — logos y principio.
+- [Temas: Elohim Abá](../temas/elohim_aba.md) — atributos de la deidad.

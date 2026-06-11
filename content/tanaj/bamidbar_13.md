@@ -28,10 +28,23 @@ references:
   - "#shoftim_3_3"
   - "#iehoshua_15_8"
   - "#shemuel_bet_5_6"
-sources: []
+sources:
+  - "docs/scriptures/tth/json/bamidbar.json"
+  - "docs/scriptures/oe/json/numbers/13.json"
+translation: "[TTH, OE]"
 ---
 
-Este cuadro es para explicar la distribución que tenían los pueblos que habitaban la tierra de kenaan antes que YHVH hiciera entrar al pueblo de Israel y poseer la tierra, podemos apreciar que estaban distribuidos en los 4 puntos (esquinas) de la tierra
+# Tesis
+
+Bamidbar 13 muestra que los pueblos de Kenaan estaban distribuidos en las cuatro esquinas de la tierra que יהוה prometió a Israel; ese mapa ayuda a leer expresiones como ארבע כנפות הארץ y el recorrido de los exploradores desde Tzin hasta Jamat.
+
+## Alcance de la nota
+
+- Cuadro de referencia geográfica y apunte sobre #bamidbar_13_21 y #bamidbar_13_29.
+- Las descripciones de ubicación resumen referencias bíblicas dispersas; no pretenden ser arqueología cerrada.
+- Se usa OE y TTH para los versículos ancla del capítulo.
+
+Este cuadro es para explicar la distribución que tenían los pueblos que habitaban la tierra de kenaan antes que יהוה hiciera entrar al pueblo de Israel y poseer la tierra; podemos apreciar que estaban distribuidos en los 4 puntos (esquinas) de la tierra.
 
 | Pueblo                      | Ubicación Principal                                | Referencias Bíblicas                                           | Descripción breve                                                                             |
 | --------------------------- | -------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -46,15 +59,40 @@ Este cuadro es para explicar la distribución que tenían los pueblos que habita
 ## Texto base
 
 - #bamidbar_13_21
+- #bamidbar_13_29
 
 ## Hoja de comparación
 
-| Referencia      | Hebreo                                                                        | TTH local                                                                                          | Observación                                                        |
-| --------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| #bamidbar_13_21 | **(וַיַּעֲלוּ וַיָּתֻרוּ אֶת הָאָרֶץ מִמִּדְבַּר צִן עַד רְחֹב לְבֹא חֲמָת)** | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat. | La nota concentra la observación en ha'aretz dentro del recorrido. |
+| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #bamidbar_13_21 | ויעלו ויתרו את הארץ ממדבר צן עד רחב לבא חמת | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat. | Recorrido norte-sur de הארץ; límite meridional y septentrional. |
+| #bamidbar_13_29 | עמלק יושב בארץ הנגב והחתי והיבוסי והאמרי יושב בהר והכנעני ישב על הים ועל יד הירדן | Amalek habita en la tierra del Néguev, y el jití, el iebusí y el emorí habita en la montaña, y el kenaaní habita junto al mar y por la mano del Iardén. | Cuatro puntos: neguev (sur), har (centro/norte), yam (oeste), yad haIardén (este). |
 
 ## Léxico base
 
-| Hebreo     | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación                                             |
-| ---------- | -------------------- | ----------- | ---- | ------------------ | ------------------------------------------------------- |
-| **(הארץ)** | ha'aretz             | la tierra   | ארץ  | tierra, territorio | La nota dice que suele referirse a la tierra de Israel. |
+| Hebreo | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación |
+| --- | --- | --- | --- | --- | --- |
+| **(הארץ)** | ha'aretz | la tierra | ארץ | tierra, territorio | En esta nota suele referirse a la tierra de Israel / Kenaan. |
+| **(נגב)** | neguev | sur, región meridional | נגב | secar, sur | Amalek en el neguev. |
+| **(הר)** | har | montaña, región montañosa | הר | montaña | Hití, iebusí y emorí en la montaña. |
+| **(ים)** | yam | mar, occidente | ים | mar | Kenaaní junto al mar (costa mediterránea). |
+| **(יד הירדן)** | yad haIardén | a la orilla del Jordán | יד | mano, lado | Extremo oriental de la tierra. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Tanaj (TTH/OE) | #bamidbar_13_21, #bamidbar_13_29 | Exploración y distribución de pueblos | Cotejado |
+| Josefo | Ant. (descripción de Kenaan) | Contexto histórico de los siete pueblos | Pendiente de verificar |
+| Atlas bíblico | — | Ubicación de Tzin, Rejob y Jamat | Pendiente de verificar |
+
+## Pendiente de verificar
+
+- [ ] Límites exactos del recorrido en #bamidbar_13_21 (Tzin–Rejob–Jamat).
+- [ ] Solapamiento entre pueblos en la tabla (no son compartimentos herméticos).
+
+## Ver también
+
+- [Sodot 7](../besorah/sodot_7.md) — ארבע כנפות y distribución cardinal.
+- [Mateo introducción 2](../besorah/mateo_introduccion_2.md) — contexto del segundo templo y tierra de Israel.
+- #ieshaiahu_11_12 — reunión desde ארבע כנפות הארץ (desarrollado en [Sodot 7](../besorah/sodot_7.md)).

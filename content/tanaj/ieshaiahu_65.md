@@ -22,11 +22,20 @@ references:
   - "#sodot_18_4"
 sources:
   - "https://www.youtube.com/watch?v=5UIvzv_sQXI"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
+  - "docs/scriptures/oe/json/isaiah/65.json"
+translation: "[TTH, OE]"
 ---
 
 # Tesis
 
 Ieshaiahu 65 presenta una bifurcación que atraviesa toda la historia del pueblo: por un lado, una línea inercial y carnal que persiste en idolatría, mezcla e impureza; por otro, un remanente que יהוה preserva por gracia. Por eso el pasaje junta sepulcros, carne de cerdo, recipientes de inmundicia y arrogancia religiosa, pero también habla de mosto conservado, simiente preservada y pastizal para los siervos.
+
+## Alcance de la nota
+
+- Fuente principal: estudio en video sobre Ieshaiahu 65; la nota ordena la exposición sin reproducirla literalmente.
+- La aplicación hacia una “Babel contemporánea” es extensión teológica del estudio, no definición léxica cerrada de Babel.
+- Referencias talmúdicas y testimonios modernos citados en la clase quedan en checklist de verificación.
 
 ## Texto base
 
@@ -44,15 +53,15 @@ Ieshaiahu 65 presenta una bifurcación que atraviesa toda la historia del pueblo
 
 ## Hoja de comparación
 
-| Referencia       | TTH local                                                                                                                                                                             | Observación                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| #ieshaiahu_65_1  | Me dejé buscar a los que no me preguntaban; me dejé hallar a los que no me procuraban. Dije: “Heme aquí, heme aquí”, a una nación que no llama en mi Nombre.                          | La intervención empieza por iniciativa de יהוה y no por mérito humano.        |
-| #ieshaiahu_65_4  | quienes se sientan en las tumbas y en lugares secretos pasan la noche; quienes comen carne de cerdo, y caldo de inmundicias hay en sus recipientes.                                   | El cuadro reúne sepulcros, rito impuro e inmundicia en un mismo escenario.    |
-| #ieshaiahu_65_5  | Quienes dicen: “Acércate a ti, no te acerques a mí, que te santificaré”. Estos son humo en mi nariz, fuego que se enciende todo el día.                                               | El grupo impuro habla como si poseyera santidad propia.                       |
-| #ieshaiahu_65_8  | Así dijo יהוה: Como cuando se encuentra el mosto en el racimo, y uno dice: “No lo destruyas, porque bendición hay en él”, así haré por el bien de mis siervos, para no destruir todo. | Por causa de los siervos no todo es destruido.                                |
-| #ieshaiahu_65_9  | Y haré salir de Yaakov simiente, y de Iehudáh heredero de mis montes; y la heredarán mis escogidos, y mis siervos morarán allí.                                                       | La herencia queda ligada a los escogidos y a la simiente, no a la carne sola. |
-| #ieshaiahu_65_10 | Y será el Sharón por pastizal de rebaño, y el valle de Ajor por lugar de descanso de ganado, para mi pueblo que me busca.                                                             | יהוה transforma el terreno para el pueblo que le busca.                       |
-| #ieshaiahu_65_11 | Pero ustedes, que abandonan a יהוה, los que olvidan al monte de mi santidad, los que preparan mesa para la Fortuna, y los que llenan bebida mezclada para el Destino,                 | El contraste final es entre los siervos y quienes buscan otra mesa.           |
+| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
+| --- | --- | --- | --- |
+| #ieshaiahu_65_1 | נדרשתי ללוא שאלו נמצאתי ללא בקשני אמרתי הנני הנני אל גוי לא קרא בשמי | Me dejé buscar a los que no me preguntaban; me dejé hallar a los que no me procuraban. Dije: “Heme aquí, heme aquí”, a una nación que no llama en mi Nombre. | Iniciativa de יהוה; citado en #romanim_10_20. |
+| #ieshaiahu_65_4 | הישבים בקברים ובנצורים ילינו האכלים בשר החזיר ופרק ומרק פגלים כליהם | quienes se sientan en las tumbas y en lugares secretos pasan la noche; quienes comen carne de cerdo, y caldo de inmundicias hay en sus recipientes. | Sepulcros, נצורים y פגלים en un mismo escenario ritual. |
+| #ieshaiahu_65_5 | האמרים קרב אליך אל תגש בי כי קדשתיך אלה עשן באפי אש יקדת כל היום | Quienes dicen: “Acércate a ti, no te acerques a mí, que te santificaré”. Estos son humo en mi nariz, fuego que se enciende todo el día. | Inversión: el impuro habla como santo. |
+| #ieshaiahu_65_8 | כה אמר יהוה כאשר ימצא התירוש באשכול ואמר אל תשחיתהו כי ברכה בו כן אעשה למען עבדי לבלתי השחית הכל | Así dijo יהוה: Como cuando se encuentra el mosto en el racimo, y uno dice: “No lo destruyas, porque bendición hay en él”, así haré por el bien de mis siervos, para no destruir todo. | Por causa de los siervos no todo es destruido. |
+| #ieshaiahu_65_9 | והוצאתי מיעקב זרע ומיהודה יורש הרי וירשוה בחירי ועבדי ישכנו שמה | Y haré salir de Yaakov simiente, y de Iehudáh heredero de mis montes; y la heredarán mis escogidos, y mis siervos morarán allí. | זרע como portación de promesa, no solo descendencia. |
+| #ieshaiahu_65_10 | והיה השרון נוה צאן ועמק עכור לרבץ בקר לעמי אשר דרשוני | Y será el Sharón por pastizal de rebaño, y el valle de Ajor por lugar de descanso de ganado, para mi pueblo que me busca. | Transformación del terreno para quien busca a יהוה. |
+| #ieshaiahu_65_11 | ואתם עזבי יהוה השכחים את הר קדשי הערכים לגד שלחן והממלאים למני ממסך | Pero ustedes, que abandonan a יהוה, los que olvidan al monte de mi santidad, los que preparan mesa para la Fortuna, y los que llenan bebida mezclada para el Destino, | Otra mesa y otra bebida frente a los siervos. |
 
 ## Línea de lectura
 
@@ -95,15 +104,29 @@ Ieshaiahu 65 presenta una bifurcación que atraviesa toda la historia del pueblo
 - A partir de allí, la nota aplica el texto a una Babel contemporánea entendida como homogeneización político-religiosa que busca borrar diferencias para producir un lenguaje común.
 - Esa aplicación dialoga bien con #sodot_18_4, pero conviene mantener claro que se trata de una extensión teológica del estudio y no de una definición léxica cerrada del término Babel en todos sus usos.
 
-## Notas léxicas de trabajo
+## Hoja léxica
 
-| Término | Transliteración | Sentido de trabajo en la nota                                               |
-| ------- | --------------- | --------------------------------------------------------------------------- |
-| נצורים  | netzurim        | lugares secretos, vedados o resguardados; pendiente de afinación contextual |
-| פגלים   | piggulim        | cosas invalidadas, estropeadas o impropias para santidad                    |
-| זרע     | zera            | simiente entendida como portación de promesa                                |
-| שרון    | Sharón          | espacio transformado en pastizal para el rebaño                             |
-| עכור    | Ajor            | valle revertido en lugar de descanso para el ganado                         |
+| Hebreo | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación |
+| --- | --- | --- | --- | --- | --- |
+| **(נצורים)** | netzurim | lugares secretos, vedados | צור | guardar, cercar | Pendiente de afinación contextual en #ieshaiahu_65_4. |
+| **(פגלים)** | piggulim | cosas invalidadas, impropias | פגל | podrirse, invalidar | Caldo de inmundicias en recipientes impuros. |
+| **(זרע)** | zera | simiente, descendencia | זרע | sembrar | Portación viva de la promesa (#ieshaiahu_65_9). |
+| **(שרון)** | Sharón | llanura costera | — | — | Transformada en נוה צאן para el pueblo que busca. |
+| **(עכור)** | Ajor | valle de Ajor | עכר | turbar | Revertido en lugar de reposo del ganado. |
+| **(בחירי)** | bjirai | mis escogidos | בחר | elegir | Herencia de los montes ligada a escogidos y siervos. |
+
+## Referencias judías y fuentes externas
+
+| Fuente | Referencia | Uso en la nota | Estado |
+| --- | --- | --- | --- |
+| Talmud Bavli | b. Taanit 16a | Mencionado en el estudio | Pendiente de verificar |
+| Talmud Bavli | b. Sotah 34b | Mencionado en el estudio | Pendiente de verificar |
+| Talmud Bavli | b. Berakhot 18b | Consulta a muertos | Pendiente de verificar |
+| Talmud Bavli | b. Hullin 7b | Carne de cerdo / impureza | Pendiente de verificar |
+| Talmud Bavli | b. Shabbat 152b | Sepulcros | Pendiente de verificar |
+| Talmud Bavli | b. Ketubot 103a | Sepulcros / veneración | Pendiente de verificar |
+| 2 Macabeos | 2 Mac 15 | Creencia persistente sobre muertos | Pendiente de verificar |
+| Tanaj (TTH/OE) | #ieshaiahu_65_1-11 | Texto base del apunte | Cotejado |
 
 ## Pendiente de verificar
 
@@ -112,3 +135,10 @@ Ieshaiahu 65 presenta una bifurcación que atraviesa toda la historia del pueblo
 - [ ] Confirmar las referencias talmúdicas mencionadas en el estudio: Taanit 16a, Sotah 34b, Berakhot 18b, Hullin 7b, Shabbat 152b y Ketubot 103a.
 - [ ] Verificar la anécdota moderna sobre la supuesta “unción” recibida en la tumba de Kathryn Kuhlman.
 - [ ] Afinar el valor exacto de נצורים en #ieshaiahu_65_4 y comprobar si el matiz de “lugares protegidos” es el mejor en este contexto.
+
+## Ver también
+
+- [Romanim 10](../besorah/romanim_10.md) — #ieshaiahu_65_1 en #romanim_10_20.
+- [Romanim 11](../besorah/romanim_11.md) — remanente por elección del favor.
+- [Sodot 7](../besorah/sodot_7.md) — remanente sellado.
+- [Sodot 18](../besorah/sodot_18.md) — Babel y homogeneización (aplicación dialogada en la nota).
