@@ -41,9 +41,19 @@ references:
   - "#romanim_10_3"
   - "#romanim_10_5"
   - "#corinthians2_3_6"
+  - "#efesios_2_8"
+  - "#efesios_2_9"
+  - "#filipenses_1_29"
+  - "#yaakov_2_17"
+  - "#yaakov_2_18"
+  - "#yaakov_2_22"
+  - "#yoel_2_22"
+  - "#shemot_12_49"
+  - "#bamidbar_15_16"
 sources:
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
   - "private/hermes/sources/LfJ1LGjOXho.md"
+  - "/Users/jhonny/.codex/attachments/2aa04a5f-60a5-4c99-aac2-8229e8676f09/pasted-text.txt"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -160,7 +170,13 @@ Texto base:
 | --- | --- |
 | #ivrim_11_1 | כי האמונה היא בטחון במה שֶׁנִּצְפֶּה לוֹ והוכחת דברים שֶׁאֵינָם נְרָאִים |
 
-La clase cita también #efesios_2_8 y #filipenses_1_29 en la misma línea («por gracia sois salvos… don de Elohim»); esos pasajes no están en el corpus local consultado y quedan como referencia oral de la clase.
+La clase cita también #efesios_2_8-9 y #filipenses_1_29 en la misma línea: la emunah y aun el padecer por el Mesías son concedidos, no producidos como mérito humano.
+
+| Referencia | Delitzsch | Función en la clase |
+| --- | --- | --- |
+| #efesios_2_8 | כִּי־בַחֶסֶד נוֹשַׁעְתֶּם עַל־יְדֵי הָאֱמוּנָה וְלׂא מִיֶּדְכֶם הָיְתָה זּׂאת כִּי־מַתַּת אֱלׂהִים הִיא | Salvación por gracia mediante emunah: don de Elohim |
+| #efesios_2_9 | לׂא מִתּוֹךְ הַמַּעֲשִׂים שֶׁלּא יִתְהַלֵּל אִישׁ | Excluye la jactancia por obras |
+| #filipenses_1_29 | כִּי־לָכֶם נִתַּן לְהִתְעַנּוֹת בְּעַד הַמָּשִׁיחַ וְלׂא־לְהַאֲמִין בּוֹ בִּלְבָד | Se concede afirmarse en él y padecer por él |
 
 ## «Cumplió la ley»: por qué el cliché falla
 
@@ -202,6 +218,17 @@ La observancia de la Torah no es carrera para «ganar» salvación, sino deber n
 
 Analogía de la clase: primero recibes el título (salvación por emunah); después te ejercitas para ejercerlo (santidad), sin que nadie te quite el título.
 
+### Obras como fruto de emunah recibida
+
+La clase enlaza esta lógica con Yaakov: las obras no compran salvación, pero una emunah recibida no queda estéril. El énfasis no es competir por mérito, sino exhibir el fruto natural de quienes fueron hechos siervos de Elohim.
+
+| Referencia | Delitzsch / OE | Lectura |
+| --- | --- | --- |
+| #yoel_2_22 | אל תיראו בהמות שדי כי דשאו נאות מדבר כי עץ נשא פרי/ו תאנה ו/גפן נתנו חיל/ם (OE) | El fruto viene en su tiempo; imagen usada para santificación sin medición competitiva |
+| #yaakov_2_17 | כָּכָה גַּם־הָאֱמוּנָה אִם־אֵין בָּהּ מַעֲשִׂים מֵתָה הִיא בְּעַצְמָהּ | Emunah sin obras queda muerta en sí misma |
+| #yaakov_2_18 | וְאִם־יׂאמַר אִישׁ אַתָּה אֱמוּנָה בְךָ וְלִי מַעֲשִׂים... | Las obras muestran la emunah, no la fabrican como mérito |
+| #yaakov_2_22 | הִנְּךָ רׂאֶה כִּי־הָאֱמוּנָה עׂזֶרֶת לְמַעֲשָׂיו וּמִתּוֹךְ הַמַּעֲשִׂים הָשְׁלְמָה הָאֱמוּנָה | Obras y emunah operan juntas; la emunah se completa en la práctica |
+
 ## #iojanan_11_45-52: emunah, sanedrín y herederos de Elohim
 
 Tras la resurrección de Eleazar, el evangelio pasa del milagro a la consecuencia política y escatológica.
@@ -227,6 +254,17 @@ Eso conecta con:
 - Propósito del rescate (#matityahu_20_28): precio por **muchos** — remanente de Judá y Benjamín, ismaelitas, diez tribus y demás gentiles.
 
 Identidad actual del creyente: hijo/heredero de Elohim, siervo del Logos; no hace falta «publicar» tribalidad (Efraím, etc.) para ser hijo de Israel en sentido de hijo de Elohim.
+
+## Una Torah para los reunidos en uno
+
+La clase usa #iojanan_11_52 contra la idea de dos pueblos separados, uno judío y otro «iglesia» con instrucciones distintas. Si el propósito del sacrificio es congregar en uno a los dispersos, entonces la respuesta práctica tampoco puede dividirse en dos marcos de fidelidad.
+
+| Referencia | Hebreo (OE, sin nikud) | Función en la clase |
+| --- | --- | --- |
+| #shemot_12_49 | תורה אחת יהיה ל/אזרח ו/ל/גר ה/גר ב/תוכ/כם | Una misma Torah para natural y extranjero residente |
+| #bamidbar_15_16 | תורה אחת ו/משפט אחד יהיה ל/כם ו/ל/גר ה/גר את/כם | Una Torah y un juicio para el pueblo y el injertado |
+
+La observancia no se presenta como condición para ser reunido, sino como forma coherente de vivir después de haber sido unido a la raíz. El problema que la clase confronta es usar «eso era para los judíos» como excusa para autoexcluirse de la instrucción de יהוה.
 
 ## Cierre del capítulo: retiro, Pésaj y captura (#iojanan_11_53-57)
 
@@ -275,7 +313,6 @@ Identidad actual del creyente: hijo/heredero de Elohim, siervo del Logos; no hac
 - [ ] Confirmar en Hatch-Redpath la equivalencia de εὐχαριστέω con hit'aneh en contextos de Yojanán.
 - [ ] Localizar el salmo citado detrás de #ivrim_5_7 y su lectura en la LXX.
 - [ ] Verificar referencia talmúdica exacta sobre «todos los israelitas tienen parte en el mundo venidero».
-- [ ] Cotejar #filipenses_1_29 y #efesios_2_8 en corpus local cuando estén disponibles.
 - [ ] Revisar léxico de #iojanan_11_53 (ἀποκτείνω vs. preservar vida) en el griego del pasaje.
 - [ ] Desarrollar tabla de jukkei olam citada como pendiente en la clase.
 
