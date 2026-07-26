@@ -62,6 +62,21 @@ Rules:
 - `sources` holds URLs, transcript paths, or internal docs like `docs/benhaelohim.md`
 - `source_ids` optionally holds stable source identifiers such as `youtube:VIDEO_ID`; use it for new transcript-derived notes when the source has a durable ID
 - Optional: `translation: "[TTH, Delitzsch]"` when multiple corpora are cited
+
+## Créditos de videos
+
+Toda nota derivada de una clase o video debe incluir al final un encabezado `## Créditos` visible para el lector. Atribuir explícitamente al **hermano Eric de Jesús Rodríguez Mendoza** y enlazar cada video usado. Para una sola clase:
+
+```markdown
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Título de la clase](https://www.youtube.com/watch?v=VIDEO_ID).
+- Transcripción de trabajo: `private/transcripts/ericdejes/VIDEO_ID.md`.
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+```
+
+Para una nota canónica de capítulo que reúne varias clases, incluir una tabla o lista con **cada** título y URL, además del expositor acreditado una sola vez. El crédito visible complementa —no reemplaza— `sources` y `source_ids` del frontmatter.
 - In Spanish prose, use **Yehoshua** for the Messiah rather than the shorter form `Yeshua`, except when preserving an exact quotation or a source-language text.
 
 ## Section Vocabulary
