@@ -1,7 +1,7 @@
 ---
 title: "Efesios 1: voluntad, reconciliación y santidad"
 description: "Nota canónica sobre Efesios 1: la voluntad de Elohim, la bendición en el Mesías, la elección y la santidad."
-date: 2026-07-26
+date: 2026-07-27
 tags:
   - efesios
   - voluntad-de-elohim
@@ -18,6 +18,11 @@ references:
   - "#ephesians_1_7"
   - "#ephesians_1_8"
   - "#ephesians_1_9"
+  - "#ephesians_1_10"
+  - "#ephesians_1_15"
+  - "#ephesians_1_16"
+  - "#ephesians_1_17"
+  - "#ephesians_1_18"
   - "#corinthians2_5_17"
   - "#corinthians2_5_18"
   - "#corinthians2_5_19"
@@ -42,6 +47,10 @@ sources:
   - "private/transcripts/ericdejes/qsn5BfZMZ8o.md"
   - "https://www.youtube.com/watch?v=9Tzh2oZtmAk"
   - "private/transcripts/ericdejes/9Tzh2oZtmAk.md"
+  - "https://www.youtube.com/watch?v=KPdeVmwOViQ"
+  - "private/transcripts/ericdejes/KPdeVmwOViQ.md"
+  - "https://www.youtube.com/watch?v=k2V_xN81ozU"
+  - "private/transcripts/ericdejes/k2V_xN81ozU.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
@@ -52,6 +61,8 @@ source_ids:
   - "youtube:6gCUX55_ID0"
   - "youtube:qsn5BfZMZ8o"
   - "youtube:9Tzh2oZtmAk"
+  - "youtube:KPdeVmwOViQ"
+  - "youtube:k2V_xN81ozU"
 translation: "[Delitzsch]"
 ---
 
@@ -63,6 +74,8 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 
 - Fuente: «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?», de Eric de Jesús Rodríguez Mendoza.
 - La sesión introduce la carta y se concentra en #ephesians_1_1 (00:00:16–00:33:40). Después desarrolla el tema de la voluntad mediante #corinthians2_5_17-19, #thessalonians1_4_3, #thessalonians1_5_18-22 y #peter1_2_15-17 (00:40:58–01:24:27).
+- La cuarta clase retoma #ephesians_1_10 (00:06:05–00:17:41) y propone leer el propósito anunciado como la reunión de todo bajo el Mesías. Sus desarrollos históricos y léxicos se conservan como propuestas de estudio, no como conclusiones del versículo sin cotejo adicional.
+- La quinta clase lee #ephesians_1_15-18 (00:02:10–01:11:36): fe y amor entre los santos, la acción de gracias de Pablo y su petición de sabiduría, revelación y esperanza. Sus identificaciones léxicas y cristológicas se mantienen como propuestas de la enseñanza.
 - El texto bíblico de la hoja se extrajo del Delitzsch local y se presenta sin nikud. La transcripción automática es guía para atribuir el desarrollo de la clase, no una cita literal.
 - Las observaciones de la sesión sobre el aparato crítico del destinatario, el término griego de «voluntad» y aplicaciones concretas que exceden los versículos se distinguen del texto y quedan pendientes de cotejo.
 
@@ -72,6 +85,8 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | #ephesians_1_1                 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃**                                                                                                                                                                                                                                                                                                       | Pablo se presenta como enviado de Yehoshua el Mesías por voluntad de Elohim y saluda a los santos y fieles.                                   |
 | #ephesians_1_3-9               | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכלברכת רוח במרומים במשיח׃**; **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה׃**; **יעדנו לו לבנים עלידי ישוע המשיח כרצון חפצו׃**; **לתהלת כבוד חסדו אשרחנן אתנו בידידו׃**; **אשרבו לנו הפדיום בדמו וסליחת הפשעים כרב חסדו׃**; **אשר בא עלינו בשפעחכמה והשכל׃**; **והודיע אתנו אתסוד חפצו כרצונו ועצתו מראש אשר יעץ בו׃** | Las clases 2 y 3 leen bendición, elección, filiación, rescate, perdón y la revelación del propósito dentro de la obra de Elohim en el Mesías. |
+| #ephesians_1_10                | **על־דבר הנהגתו במלאת הימים לקבל את הכל במשיח מה־שבשמים ומה־שבארץ׃**                                                                                                                                                                                                                                                                                                                        | La cuarta clase subraya la administración o cumplimiento de los tiempos y la relación de todo con el Mesías.                                  |
+| #ephesians_1_15-18             | **בעבור זאת גם־אנכי אחרי שמעי אמונתכם באדנינו ישוע והאהבה אשר־אהבתם את־כל־הקדשים׃**; **לא אחדל מהודות בעבורכם בהזכירי אתכם בתפלתי׃**; **שיתן לכם אלהי אדנינו ישוע המשיח אבי הכבוד את־רוח החכמה והחזון לדעת אתו׃**; **ויאר עיני לבבכם למען תדעו מה־היא תוחלת קריאתו ומה־עשר כבוד נחלתו בקדשים׃**                                                                                             | La quinta clase sigue la gratitud e intercesión de Pablo y su petición de conocimiento, esperanza y la riqueza de la herencia.                |
 | #corinthians2_5_17-19          | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃**; **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃**; **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃**                                                                                                                                          | La clase asocia la voluntad de Elohim con nueva creación, reconciliación y el encargo de su palabra.                                          |
 | #thessalonians1_4_3            | **כי זה רצון האלהים קדשתכם להתרחק מן־הזנות׃**                                                                                                                                                                                                                                                                                                                                               | Nombra explícitamente la santidad como voluntad de Elohim y llama a apartarse de la inmoralidad sexual.                                       |
 | #thessalonians1_5_18-22        | **הודו על־הכל כי־זה רצון אלהים במשיח ישוע אליכם׃**; **את־הרוח לא תכבו׃**; **בחנו כל־דבר ובטוב אחזו׃**; **התרחקו מכל־הדומה לרע׃**                                                                                                                                                                                                                                                            | La gratitud, el discernimiento y el apartarse de lo malo forman la aplicación final de la sesión.                                             |
@@ -123,6 +138,22 @@ En #ephesians_1_7-8, el pasaje afirma el rescate «en su sangre», el perdón de
 
 La clase interpreta el «misterio de su voluntad» de #ephesians_1_9 como la revelación pública de la obra reconciliadora de Yehoshua (01:06:26–01:15:01). El versículo sí afirma que Elohim dio a conocer ese misterio conforme a su beneplácito y propósito; identificarlo exhaustivamente con una formulación cristológica particular o derivar de ello límites de comunión con otras personas excede lo que el versículo afirma de manera inmediata.
 
+## La administración de la plenitud y la relación de todo con el Mesías
+
+La cuarta clase comienza en #ephesians_1_10 y enlaza sus expresiones con la cadena de propósitos de los versículos anteriores (00:06:05–00:17:41). El texto local habla de la **הנהגתו** de Elohim «en la plenitud de los tiempos» y de recibir o reunir «todo» en el Mesías: lo celestial y lo terrestre. Así, el versículo amplía el horizonte del propósito sin separar la obra del Mesías de la voluntad que Pablo viene describiendo.
+
+La enseñanza propone que _oikonomía_ se entienda como administración y sustentabilidad, y que la expresión final presente al Mesías como cabeza de todo. «Administración» puede ser una glosa útil para estudiar el término, pero las conclusiones sobre un esquema de épocas, la continuidad de todas las figuras sacrificiales o una crítica de sistemas teológicos requieren cotejar el griego, el uso paulino y los contextos bíblicos que se invoquen. El versículo afirma una meta en el Mesías; no expone por sí solo un sistema completo de historia de la salvación.
+
+La clase vincula la unidad del propósito con la reconciliación y rechaza una separación tajante entre Israel y la comunidad de creyentes (00:18:07–00:23:36). Esta nota retiene la pregunta textual que plantea esa conexión, pero no transforma una síntesis doctrinal en el sentido exclusivo de #ephesians_1_10. Los capítulos siguientes, especialmente #ephesians_2_11-22 y #ephesians_3_1-6, son necesarios para examinar cómo articula Pablo Israel, los gentiles, la promesa y la comunidad.
+
+## Gratitud, intercesión y la esperanza del llamamiento
+
+La quinta clase pasa a la segunda sección del capítulo (00:02:10–00:20:40). En #ephesians*1_15-16, Pablo dice que ha oído de la fe de los destinatarios en el Señor Yehoshua y de su amor por todos los santos; por eso no deja de dar gracias y de hacer memoria de ellos en sus oraciones. El pasaje vincula la fe y el amor con una intercesión perseverante. La clase asocia \_emuná* y _ahavá_ con la demostración de la verdad y con una vida formada por la voluntad de Elohim (00:10:25–00:18:32); esa articulación es una aplicación de la enseñanza, no una equivalencia léxica automática entre las formas hebreas, el griego del texto y todos sus usos bíblicos.
+
+En #ephesians_1_17-18, la oración pide que el Elohim del Señor Yehoshua el Mesías dé «espíritu de sabiduría y revelación» para conocerlo e ilumine los ojos del corazón, de modo que conozcan la esperanza de su llamamiento y la riqueza de la gloria de su herencia. La clase propone leer «Padre de gloria» como un título aplicado directamente a Yehoshua y desarrolla una identificación cristológica amplia (00:21:20–00:45:23). El texto sí presenta a Elohim como «Elohim de nuestro Señor Yehoshua el Mesías» y como «Padre de gloria» en la petición de Pablo; decidir de forma exhaustiva las relaciones que expresa esa construcción requiere atender a la sintaxis griega, al contexto de Efesios y al resto del corpus, sin resolverlo mediante una sola glosa.
+
+La sesión enlaza la esperanza con restauración, herencia y la victoria sobre el pecado (01:05:18–01:11:36). #ephesians_1_18 afirma la esperanza de su llamamiento y la riqueza de la herencia entre los santos. Estas expresiones permiten estudiar la esperanza y la herencia dentro del argumento de Pablo; no identifican por sí solas a una persona concreta como «la esperanza» ni detallan todos los alcances de la restauración final.
+
 ## Hoja léxica
 
 | Forma               | Transliteración      | Sentido en la nota             | Tipo de relación                                                                 | Cautela                                                                                                                                |
@@ -145,6 +176,11 @@ La clase interpreta el «misterio de su voluntad» de #ephesians_1_9 como la rev
 - [ ] Revisar el análisis léxico de la tercera clase para #ephesians*1_5: la explicación de \_proorizo* como «distinguir públicamente» necesita cotejo con léxicos, sintaxis y sus usos en el corpus griego antes de reemplazar traducciones establecidas.
 - [ ] Distinguir cuidadosamente entre rescate, perdón y restitución en #ephesians_1_7; la clase los relaciona, pero el alcance de cada imagen requiere estudio textual y contextual.
 - [ ] Examinar #ephesians_1_9 en el flujo de #ephesians_1_3-14 antes de identificar de forma exhaustiva el «misterio» con una sola formulación doctrinal.
+- [ ] Cotejar _oikonomía_, «plenitud de los tiempos» y el verbo de #ephesians_1_10 con el texto griego y los usos paulinos antes de adoptar «administración», «sustentabilidad» o «poner como cabeza» como equivalencias definitivas.
+- [ ] Revisar históricamente las afirmaciones de la cuarta clase sobre el dispensacionalismo y estudiarlas junto con el argumento de Efesios; el versículo no basta para resolver por sí solo la relación entre Israel y la comunidad de creyentes.
+- [ ] Examinar la sintaxis y el contexto de «el Elohim de nuestro Señor Yehoshua el Mesías, Padre de gloria» en #ephesians_1_17 antes de adoptar como definitiva una identificación cristológica particular de la frase.
+- [ ] Cotejar las asociaciones de _emuná_, _ahavá_, «sabiduría» y «revelación» propuestas en la quinta clase con los términos griegos de #ephesians_1_15-18 y sus contextos, sin convertir una explicación pedagógica en equivalencia exacta.
+- [ ] Estudiar «la esperanza de su llamamiento» y «la riqueza de la gloria de su herencia» en el flujo de #ephesians_1_15-23 antes de identificar la esperanza exclusivamente con una formulación de restauración o herencia.
 
 ## Conclusión
 
@@ -165,5 +201,9 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
   - Transcripción: `private/transcripts/ericdejes/qsn5BfZMZ8o.md` (`source_id: youtube:qsn5BfZMZ8o`).
 - «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk
   - Transcripción: `private/transcripts/ericdejes/9Tzh2oZtmAk.md` (`source_id: youtube:9Tzh2oZtmAk`).
+- «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ
+  - Transcripción: `private/transcripts/ericdejes/KPdeVmwOViQ.md` (`source_id: youtube:KPdeVmwOViQ`).
+- «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU
+  - Transcripción: `private/transcripts/ericdejes/k2V_xN81ozU.md` (`source_id: youtube:k2V_xN81ozU`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
