@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Lightweight SQLite index for source files (YouTube transcripts + articles).
 
-Source of truth stays on disk (private/sources). This DB is a fast query layer.
+Source of truth stays on disk under private/. This DB is a fast query layer.
 """
 
 from __future__ import annotations
@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import Any
 
 DEFAULT_DB_PATH = Path("private/sources/index.sqlite3")
-DEFAULT_SOURCES_DIR = Path("private/sources")
+DEFAULT_SOURCES_DIR = Path("private/transcripts")
 TRANSCRIPT_LINE_RE = re.compile(r"^\[(\d{2}):(\d{2}):(\d{2})\]\s*(.+)$")
 
 

@@ -85,3 +85,16 @@ the private transcript output directory:
 
 The fallback skips transcripts already written by Supadata and records each
 remaining result in the status file.
+
+## Local source search
+
+After a transcript pass, rebuild the local query index from the archive:
+
+```bash
+npm run sources:db:reindex
+npm run sources:db:search -- "cordero"
+```
+
+The database at `private/sources/index.sqlite3` is disposable and ignored by
+Git. Its default source directory is `private/transcripts/`, so it indexes the
+whole channel archive rather than an empty `private/sources/` folder.

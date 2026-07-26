@@ -34,6 +34,7 @@ OE_BOOK_MAP = {
     "melajim_alef": "1kings",
     "melajim_bet": "2kings",
     "mishlei": "proverbs",
+    "qohelet": "ecclesiastes",
     "zejariah": "zechariah",
 }
 
@@ -74,6 +75,7 @@ DELITZSCH_MAP = {
     "iehudah": "jude",
     "sodot": "revelation",
     "qolasim": "colossians",
+    "qohelet": "ecclesiastes",
 }
 
 
@@ -119,17 +121,27 @@ def lookup_delitzsch(book: str, chapter: int, verse: int) -> str | None:
 def lookup_oe(book: str, chapter: int, verse: int) -> str | None:
     oe_book = OE_BOOK_MAP.get(book, book)
     path = SCRIPTURES / "oe" / "json" / oe_book / f"{chapter}.json"
-    if not path.exists():
+    if path.exists():
+        data = json.loads(path.read_text(encoding="utf-8"))
+        verses = data if isinstance(data, list) else data.get("verses", [])
+        for v in verses:
+            if v.get("verse") == verse:
+                if v.get("hebrew_no_nikud"):
+                    return v["hebrew_no_nikud"]
+                text = v.get("text") or v.get("hebrew", "")
+                return strip_nikud(text)
+
+    # Some OE books currently exist only in the upstream-shaped raw corpus.
+    # Keep authoring unblocked while preserving the normal chapter-file lookup.
+    raw_path = SCRIPTURES / "oe" / "json" / "raw" / f"{oe_book}.json"
+    if not raw_path.exists():
         return None
-    data = json.loads(path.read_text(encoding="utf-8"))
-    verses = data if isinstance(data, list) else data.get("verses", [])
-    for v in verses:
-        if v.get("verse") == verse:
-            if v.get("hebrew_no_nikud"):
-                return v["hebrew_no_nikud"]
-            text = v.get("text") or v.get("hebrew", "")
-            return strip_nikud(text)
-    return None
+    raw = json.loads(raw_path.read_text(encoding="utf-8"))
+    try:
+        tokens = raw[chapter - 1][verse - 1]
+    except (IndexError, TypeError):
+        return None
+    return strip_nikud(" ".join(token[0] for token in tokens if token))
 
 
 def lookup(tag: str) -> dict[str, str | None]:
