@@ -1,7 +1,7 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 55,
-  "pending_videos": 838,
+  "covered_videos": 56,
+  "pending_videos": 837,
   "transcript_notes": 24,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
@@ -49,7 +49,7 @@
     },
     "Efesios completo": {
       "total": 35,
-      "covered": 8,
+      "covered": 9,
       "lane": "efesios"
     },
     "Fiestas": {
