@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 54,
-  "pending_videos": 839,
-  "transcript_notes": 23,
+  "covered_videos": 48,
+  "pending_videos": 845,
+  "transcript_notes": 22,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
     "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
@@ -49,7 +49,7 @@
     },
     "Efesios completo": {
       "total": 35,
-      "covered": 7,
+      "covered": 4,
       "lane": "efesios"
     },
     "Fiestas": {
@@ -74,7 +74,7 @@
     },
     "Juan": {
       "total": 51,
-      "covered": 29,
+      "covered": 26,
       "lane": "yojanan"
     },
     "Qohélet - Eclesiastés": {
