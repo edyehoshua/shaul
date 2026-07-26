@@ -28,11 +28,12 @@ def main() -> None:
     seen = collections.defaultdict(list)
     for path in sorted(CONTENT.rglob("*.md")):
         text = path.read_text(errors="replace")
-        ids = ID_RE.findall(text)
+        ids = list(dict.fromkeys(ID_RE.findall(text)))
         if ids:
             rel = str(path.relative_to(ROOT))
             notes.append({"path": rel, "ids": ids, "credits": "## Créditos" in text})
-            for video_id in ids: seen[video_id].append(rel)
+            for video_id in ids:
+                seen[video_id].append(rel)
     videos = inv["videos"]
     inventory_ids = {v["id"] for v in videos}
     covered = set(seen) & inventory_ids
