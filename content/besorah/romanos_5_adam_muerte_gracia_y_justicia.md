@@ -25,10 +25,13 @@ references:
   - "#romanos_8_1-4"
   - "#bereshit_3_1-24"
 sources:
+  - "https://www.youtube.com/watch?v=WQq_loecKIM"
   - "https://www.youtube.com/watch?v=ePW-rAPrIAo"
+  - "private/transcripts/ericdejes/WQq_loecKIM.md"
   - "private/transcripts/ericdejes/ePW-rAPrIAo.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
+  - "youtube:WQq_loecKIM"
   - "youtube:ePW-rAPrIAo"
 translation: "[Delitzsch]"
 ---
@@ -39,7 +42,7 @@ Romanos 5:12–21 contrapone la entrada del pecado y el reinado de la muerte aso
 
 ## Alcance de la nota
 
-Esta es la nota canónica de Romanos 5 e incorpora la parte 12 de la serie del hermano Eric de Jesús Rodríguez Mendoza, centrada en #romanos_5_12-21. La transcripción automática orienta los temas de la clase. Sus propuestas sobre etimologías, traducciones, cronología, teología sistemática y conexiones rabínicas se mantienen como puntos que requieren cotejo con el texto griego, el contexto de la carta y fuentes trazables.
+Esta es la nota canónica de Romanos 5 e incorpora las partes 11 y 12 de la serie del hermano Eric de Jesús Rodríguez Mendoza: la primera recorre #romanos_5_1-11 y la segunda #romanos_5_12-21. La transcripción automática orienta los temas de las clases. Sus propuestas sobre etimologías, traducciones, cronología, teología sistemática y conexiones rabínicas se mantienen como puntos que requieren cotejo con el texto griego, el contexto de la carta y fuentes trazables.
 
 ## Hoja de comparación
 
@@ -96,5 +99,6 @@ Romanos 5:12–21 conduce del reinado de la muerte al reinado de la gracia. La c
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [La carta a los romanos (Parte 11) Los reconciliados. Cap 5:1-11](https://www.youtube.com/watch?v=WQq_loecKIM) — transcripción de trabajo: `private/transcripts/ericdejes/WQq_loecKIM.md` (source_id: `youtube:WQq_loecKIM`).
 - [La carta a los romanos (parte 12) Cap 5:12 ss](https://www.youtube.com/watch?v=ePW-rAPrIAo) — transcripción de trabajo: `private/transcripts/ericdejes/ePW-rAPrIAo.md` (source_id: `youtube:ePW-rAPrIAo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
