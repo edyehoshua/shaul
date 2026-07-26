@@ -174,5 +174,5 @@ La voz del cielo funciona como testimonio escritural: señala a Yeshúa como Hij
 - [Bat Kol: Hijo, Siervo y Testimonio](bat_kol.md)
 - [Elohim y Aba como amor manifiesto y fuente](elohim_aba.md)
 - [Yojanán 10: Elohim, obras y mensajero](../besorah/yojanan_10_elohim_obras_y_mensajero.md)
-- [Yojanán 12: bat kol, Nombre y juicio](../besorah/yojanan_12_bat_kol_nombre_juicio.md)
+- [Yojanán 12: camino de la hora, la luz y la palabra](../besorah/yojanan_12_camino_hora_luz_palabra.md#dossier-integrado-yojanán-12-bat-kol-nombre-y-juicio)
 - [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias.md)
