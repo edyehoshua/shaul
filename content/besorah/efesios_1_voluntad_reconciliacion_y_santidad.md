@@ -57,7 +57,7 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 
 ## El envío no comienza en una ambición privada
 
-#ephesians_1_1 no presenta a Pablo como autor autónomo: su condición de **שליח** (_shaliaj_, enviado) está vinculada a la voluntad de Elohim. La clase usa esa apertura para preguntar por la voluntad de Elohim en la vida del creyente (00:32:32–00:40:10). El versículo afirma el origen del envío de Pablo; no ofrece todavía una definición completa de la voluntad divina para toda circunstancia personal.
+El versículo de Efesios 1:1 no presenta a Pablo como autor autónomo: su condición de **שליח** (_shaliaj_, enviado) está vinculada a la voluntad de Elohim. La clase usa esa apertura para preguntar por la voluntad de Elohim en la vida del creyente (00:32:32–00:40:10). El versículo afirma el origen del envío de Pablo; no ofrece todavía una definición completa de la voluntad divina para toda circunstancia personal.
 
 La sesión también propone que el encabezado pudo circular con un destinatario distinto de Éfeso y acerca la carta a Laodicea y Colosas (00:00:51–00:04:04). Esa cuestión textual e histórica no se resuelve con esta nota: el Delitzsch local conserva «en Éfeso» entre paréntesis, y el lector debe distinguir ese dato editorial de una conclusión sobre la forma más antigua del texto.
 
@@ -104,3 +104,12 @@ La apertura de Efesios sitúa a Pablo bajo la voluntad de Elohim, no bajo una in
 
 - [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
 - [[tesalonicenses_1_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]
+
+## Créditos
+
+Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
+
+- «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?» — https://www.youtube.com/watch?v=6gCUX55_ID0
+  - Transcripción: `private/transcripts/ericdejes/6gCUX55_ID0.md` (`source_id: youtube:6gCUX55_ID0`).
+
+Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
