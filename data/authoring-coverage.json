@@ -1,9 +1,11 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 115,
-  "pending_videos": 778,
-  "transcript_notes": 46,
+  "covered_videos": 55,
+  "pending_videos": 838,
+  "transcript_notes": 24,
   "notes_missing_visible_credits": [
+    "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
+    "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
     "content/besorah/tesalonicenses_1_comunidad_testimonio_esperanza.md",
     "content/besorah/tesalonicenses_2_comunidad_trabajo_correccion_paz.md",
     "content/besorah/tesalonicenses_2_juicio_perseverancia_gloria.md",
@@ -42,17 +44,17 @@
     },
     "Colosenses": {
       "total": 18,
-      "covered": 18,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Efesios completo": {
       "total": 35,
-      "covered": 7,
+      "covered": 8,
       "lane": "efesios"
     },
     "Fiestas": {
       "total": 19,
-      "covered": 18,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Haftarot de Shmot/Éxodo": {
@@ -82,12 +84,12 @@
     },
     "Romanos": {
       "total": 1,
-      "covered": 1,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Shavu’ot": {
       "total": 2,
-      "covered": 2,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Shir hashirim completo": {
@@ -102,7 +104,7 @@
     },
     "Uncategorized": {
       "total": 573,
-      "covered": 27,
+      "covered": 3,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
