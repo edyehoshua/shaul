@@ -23,7 +23,7 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-En #iojanan_17_1-2, después de terminar su enseñanza a los discípulos, **Yehoshua** alza sus ojos y habla de la hora, de la gloria y de la autoridad recibida sobre toda carne. El fin expresado de esa autoridad es dar vida _olam_ a quienes le fueron dados. El pasaje establece estos elementos antes de desarrollar el resto del capítulo.
+En #iojanan*17_1-2, después de terminar su enseñanza a los discípulos, **Yehoshua** alza sus ojos y habla de la hora, de la gloria y de la autoridad recibida sobre toda carne. El fin expresado de esa autoridad es dar vida \_olam* a quienes le fueron dados. El pasaje establece estos elementos antes de desarrollar el resto del capítulo.
 
 ## Alcance de la nota
 
@@ -46,7 +46,7 @@ La petición une la gloria del Hijo y la gloria del Padre. El orden importa: el 
 
 ## Autoridad para dar vida
 
-#iojanan_17_2 continúa con la autoridad sobre «toda carne» y precisa su finalidad: dar vida _olam_ a todos los que le fueron dados. La relación entre autoridad y vida pertenece al texto; no es necesario completar la frase con una teoría posterior para reconocerla.
+#iojanan*17_2 continúa con la autoridad sobre «toda carne» y precisa su finalidad: dar vida \_olam* a todos los que le fueron dados. La relación entre autoridad y vida pertenece al texto; no es necesario completar la frase con una teoría posterior para reconocerla.
 
 La clase vincula esta vida con la incorruptibilidad y con la obra redentora de Yehoshua. Tales conexiones pueden compararse con otros pasajes, pero en este incremento la formulación segura es la de #iojanan_17_2: la vida se da a un grupo descrito como quienes le fueron dados. La nota evita convertir esa frase en una explicación exhaustiva de la elección, de la muerte o de la resurrección.
 
@@ -83,7 +83,7 @@ Conviene, por tanto, distinguir entre la comparación canónica propuesta y una 
 
 ## Conclusión
 
-La apertura de Yojanán 17 no abandona la conversación anterior: la encamina hacia la hora y hacia la gloria. #iojanan_17_1-2 presenta a Yehoshua alzando los ojos, hablando de glorificación y describiendo una autoridad cuyo propósito es dar vida _olam_. La lectura de la clase abre preguntas sobre Salmo 91, sacrificio y vida incorruptible, pero esas conexiones deben conservarse como líneas de investigación y no reemplazar lo que el pasaje declara.
+La apertura de Yojanán 17 no abandona la conversación anterior: la encamina hacia la hora y hacia la gloria. #iojanan*17_1-2 presenta a Yehoshua alzando los ojos, hablando de glorificación y describiendo una autoridad cuyo propósito es dar vida \_olam*. La lectura de la clase abre preguntas sobre Salmo 91, sacrificio y vida incorruptible, pero esas conexiones deben conservarse como líneas de investigación y no reemplazar lo que el pasaje declara.
 
 ## Ver también
 
