@@ -31,7 +31,7 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-En #iojanan*16_1-11, **Yehoshua** prepara a sus discípulos para una oposición que podría hacerlos tropezar. Su partida no cancela el cuidado del discurso: abre el envío del Menajem, cuyo testimonio expone al \_olam* respecto del pecado, la justicia y el juicio. El texto presenta esos tres asuntos con explicaciones propias; la nota los conserva antes de extenderlos a sistemas completos.
+En #iojanan_16_1-11, **Yehoshua** prepara a sus discípulos para una oposición que podría hacerlos tropezar. Su partida no cancela el cuidado del discurso: abre el envío del Menajem, cuyo testimonio expone al _olam_ respecto del pecado, la justicia y el juicio. El texto presenta esos tres asuntos con explicaciones propias; la nota los conserva antes de extenderlos a sistemas completos.
 
 ## Alcance de la nota
 
@@ -57,7 +57,7 @@ La clase llama la atención sobre la expresión griega habitualmente traducida �
 
 ## La partida y el envío
 
-La tristeza de los discípulos en #iojanan*16_5-7 enmarca una afirmación difícil: la partida de Yehoshua les conviene porque dará lugar al envío del Menajem. El versículo no reduce al enviado a una idea abstracta; habla de venir y de ser enviado a ellos. Tampoco explica aquí todos los modos de su obra: la siguiente frase delimita una función de testimonio respecto del \_olam*.
+La tristeza de los discípulos en #iojanan_16_5-7 enmarca una afirmación difícil: la partida de Yehoshua les conviene porque dará lugar al envío del Menajem. El versículo no reduce al enviado a una idea abstracta; habla de venir y de ser enviado a ellos. Tampoco explica aquí todos los modos de su obra: la siguiente frase delimita una función de testimonio respecto del _olam_.
 
 El expositor enlaza este envío con promesas proféticas de transformación interior. Esa lectura puede examinarse canónicamente, pero la equivalencia precisa entre cada promesa y el término «Menajem» requiere comparar los contextos y no se debe fijar únicamente desde una traducción.
 
@@ -66,8 +66,8 @@ El expositor enlaza este envío con promesas proféticas de transformación inte
 La clase prefiere hablar de «demostrar» o «poner en evidencia» para el verbo de #iojanan_16_8, en vez de limitarlo a «convencer». Ambas posibilidades deben cotejarse en el griego y en sus usos; lo seguro en el pasaje es que la venida del Menajem se relaciona con una exposición acerca de tres realidades.
 
 - **Pecado**: #iojanan_16_9 lo explica por no afirmarse en Yehoshua. La exposición lo asocia con la ruptura humana y con la incapacidad de una fidelidad autosuficiente. Esa ampliación no reemplaza la razón que el versículo formula.
-- **Justicia**: #iojanan*16_10 la vincula con que Yehoshua va al Padre y ya no será visto. La clase desarrolla las familias hebreas \_tsedeq* y _tsedaqá_ y una esperanza de transformación corporal; las conexiones léxicas y la deducción escatológica necesitan ser verificadas por separado.
-- **Juicio**: #iojanan*16_11 afirma que el príncipe de este \_olam* «ha sido juzgado». El texto no desarrolla en estos versículos una cronología total de la derrota del mal ni identifica aquí todos los acontecimientos que la clase vincula a ese juicio.
+- **Justicia**: #iojanan_16_10 la vincula con que Yehoshua va al Padre y ya no será visto. La clase desarrolla las familias hebreas _tsedeq_ y _tsedaqá_ y una esperanza de transformación corporal; las conexiones léxicas y la deducción escatológica necesitan ser verificadas por separado.
+- **Juicio**: #iojanan_16_11 afirma que el príncipe de este _olam_ «ha sido juzgado». El texto no desarrolla en estos versículos una cronología total de la derrota del mal ni identifica aquí todos los acontecimientos que la clase vincula a ese juicio.
 
 ## Hoja léxica
 
@@ -81,7 +81,7 @@ La clase prefiere hablar de «demostrar» o «poner en evidencia» para el verbo
 
 ## Conexiones principales
 
-- #iojanan*15_18-25 antecede la advertencia: el odio del \_olam* ya había sido anunciado en el discurso.
+- #iojanan_15_18-25 antecede la advertencia: el odio del _olam_ ya había sido anunciado en el discurso.
 - #iojanan_16_1-4: la anticipación busca que los discípulos recuerden y no tropiecen.
 - #iojanan_16_7-11: la partida de Yehoshua y el envío del Menajem conducen a un testimonio sobre pecado, justicia y juicio.
 - [[yojanan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]: el permanecer en Yehoshua da el marco relacional previo a la oposición de #iojanan_16.
