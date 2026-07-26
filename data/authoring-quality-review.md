@@ -9,6 +9,6 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/besorah/tesalonicenses_1_comunidad_testimonio_esperanza.md` — fuentes: youtube:OpTB8G_M7fA, youtube:ZqaU13rHCGc; créditos visibles: NO.
 - [ ] `content/besorah/yojanan_14_moradas_camino_retorno.md` — fuentes: youtube:c8YqHIe-IhM; créditos visibles: NO.
 - [ ] `content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md` — fuentes: youtube:LSfmSufaylQ; créditos visibles: NO.
+- [ ] `content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md` — fuentes: youtube:byKm54KeTyQ; créditos visibles: sí.
 - [ ] `content/besorah/yojanan_1_testigo_cordero.md` — fuentes: youtube:2C6YJnz5fKs; créditos visibles: NO.
 - [ ] `content/tanaj/qohelet_7_sabiduria_nombre_y_limites.md` — fuentes: youtube:GMkRQQvt8zw, youtube:TWTcumYv65o, youtube:yBlH3ZaaIlo, youtube:J0FDZOz0tWU; créditos visibles: NO.
-- [ ] `content/besorah/yojanan_15_vid_labrador_poda_permanecer.md` — fuentes: youtube:-EwRZKoqHo4; créditos visibles: NO.
