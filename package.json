@@ -27,7 +27,7 @@
     "scriptures:check": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/ensure_local_scriptures.py --check-only; else python3 scripts/ensure_local_scriptures.py --check-only; fi",
     "scriptures:ensure": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/ensure_local_scriptures.py \"$@\"; else python3 scripts/ensure_local_scriptures.py \"$@\"; fi' --",
     "scriptures:sync": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/sync_davar_scriptures.py \"$@\"; else python3 scripts/sync_davar_scriptures.py \"$@\"; fi' --",
-    "prepare": "npm run setup && npm run scriptures:ensure && npm run sources:db:init",
+    "workspace:prepare": "npm run setup && npm run scriptures:ensure && npm run sources:db:init",
     "sources:db:init": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/source_index_db.py init; else python3 scripts/source_index_db.py init; fi",
     "sources:db:reindex": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/source_index_db.py reindex \"$@\"; else python3 scripts/source_index_db.py reindex \"$@\"; fi' --",
     "sources:db:search": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/source_index_db.py search \"$@\"; else python3 scripts/source_index_db.py search \"$@\"; fi' --",
