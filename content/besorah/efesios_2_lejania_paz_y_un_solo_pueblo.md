@@ -1,7 +1,7 @@
 ---
 title: "Efesios 2: lejanía, paz y un solo pueblo"
 description: "Nota canónica sobre Efesios 2: la condición de lejanía, el acercamiento en el Mesías y la paz que forma un solo pueblo."
-date: 2026-07-26
+date: 2026-07-27
 tags:
   - efesios
   - paz
@@ -21,12 +21,28 @@ references:
   - "#ephesians_2_20"
   - "#ephesians_2_21"
   - "#ephesians_2_22"
+  - "#colossians_1_20"
+  - "#colossians_1_21"
+  - "#colossians_1_22"
 sources:
   - "https://www.youtube.com/watch?v=byKm54KeTyQ"
   - "private/transcripts/ericdejes/byKm54KeTyQ.md"
+  - "https://www.youtube.com/watch?v=0p62JJfVydA"
+  - "private/transcripts/ericdejes/0p62JJfVydA.md"
+  - "https://www.youtube.com/watch?v=vCrg-tQllxU"
+  - "private/transcripts/ericdejes/vCrg-tQllxU.md"
+  - "https://www.youtube.com/watch?v=kPRNLeXCmb8"
+  - "private/transcripts/ericdejes/kPRNLeXCmb8.md"
+  - "https://www.youtube.com/watch?v=wOLrgSpNpQI"
+  - "private/transcripts/ericdejes/wOLrgSpNpQI.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
+  - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:byKm54KeTyQ"
+  - "youtube:0p62JJfVydA"
+  - "youtube:vCrg-tQllxU"
+  - "youtube:kPRNLeXCmb8"
+  - "youtube:wOLrgSpNpQI"
 translation: "[Delitzsch]"
 ---
 
@@ -36,18 +52,19 @@ Efesios 2:11–22 recuerda una condición anterior de exclusión y describe un a
 
 ## Alcance de la nota
 
-- Fuente inicial: «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder».
+- Fuentes: «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder» y «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj».
 - La clase lee sobre todo #ephesians_2_11-14 (00:07:51–01:12:05) y anticipa los versículos siguientes, que quedan incluidos aquí para conservar el capítulo como unidad canónica.
 - El texto de la hoja procede del Delitzsch local, sin nikud. La transcripción automática ayuda a atribuir y organizar la clase; no constituye una cita literal del video.
 
 ## Hoja de comparación
 
-| Referencia         | Texto local (Delitzsch, sin nikud)                                                                                                                                                                                                                | Función en el argumento                                                                                                          |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_2_11-12 | **עלכן זכרו כיאתם מתחלה הגוים בבשר הנקראים ערלים בפי הנקראים בני המילה שהיא מעשה ידים בבשר**; **כיאתם בעת ההיא הייתם בלי משיח זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם**                                             | El pasaje manda recordar la condición anterior: lejanía del Mesías, de la comunidad de Israel y de los pactos de la promesa.     |
-| #ephesians_2_13-14 | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח**; **כי הוא שלומנו אשר עשה השנים אחד והרס מחיצת הגדר**                                                                                                                                  | El contraste decisivo es «ahora»: los lejanos fueron acercados, y el Mesías es la paz que hace de los dos uno.                   |
-| #ephesians_2_15-18 | **בבטלו האיבה בבשרו אתתורת המצות והחקות לברא בנפשו אתהשנים לאדם אחד חדש ויעש שלום**; **וירצה אתשניהם בגוף אחד לאלהים עלידי צליבתו בהמיתו בנפשו אתהאיבה**; **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב**; **כי עלידו יש לשנינו מבוא ברוח אחד אלאבינו** | Pablo vincula la paz con la destrucción de la enemistad, la reconciliación de ambos con Elohim y el acceso de ambos al Padre.    |
-| #ephesians_2_19-22 | **לכן אינכם עוד גרים ותושבים כיבניעירם שלהקדשים ובני בית אלהים אתם**; **בנוים עליסוד השליחים והנביאים וישוע המשיח הוא אבן הפנה**; **אשר חברבו יחד הבנין כלו עד אשריגבה להיכל קדש ליהוה**; **ובו נבנים גםאתם להיות משכן אלהים ברוח**               | La consecuencia es pertenencia: ya no extranjeros, sino miembros de la casa de Elohim y parte de un edificio unido en el Mesías. |
+| Referencia          | Texto local (Delitzsch, sin nikud)                                                                                                                                                                                                                | Función en el argumento                                                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| #ephesians_2_11-12  | **עלכן זכרו כיאתם מתחלה הגוים בבשר הנקראים ערלים בפי הנקראים בני המילה שהיא מעשה ידים בבשר**; **כיאתם בעת ההיא הייתם בלי משיח זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם**                                             | El pasaje manda recordar la condición anterior: lejanía del Mesías, de la comunidad de Israel y de los pactos de la promesa.          |
+| #ephesians_2_13-14  | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח**; **כי הוא שלומנו אשר עשה השנים אחד והרס מחיצת הגדר**                                                                                                                                  | El contraste decisivo es «ahora»: los lejanos fueron acercados, y el Mesías es la paz que hace de los dos uno.                        |
+| #ephesians_2_15-18  | **בבטלו האיבה בבשרו אתתורת המצות והחקות לברא בנפשו אתהשנים לאדם אחד חדש ויעש שלום**; **וירצה אתשניהם בגוף אחד לאלהים עלידי צליבתו בהמיתו בנפשו אתהאיבה**; **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב**; **כי עלידו יש לשנינו מבוא ברוח אחד אלאבינו** | Pablo vincula la paz con la destrucción de la enemistad, la reconciliación de ambos con Elohim y el acceso de ambos al Padre.         |
+| #colossians_1_20-22 | **ולרצות לעצמו את־הכל על־ידו בעשותו שלום בדם־צלובו על־ידו הן אשר בארץ הן אשר בשמים**; **וגם־אתם אשר הייתם מלפנים מוזרים ואיבים בנטות לבבכם אחרי המעשים הרעים**; **עתה רצה אתכם בגוף בשרו על־ידי מותו להעמידכם לפניו קדשים ובלי־מום ודפי**         | La undécima clase compara la reconciliación universal y la antigua enemistad de Colosenses con el derribo de la enemistad en Efesios. |
+| #ephesians_2_19-22  | **לכן אינכם עוד גרים ותושבים כיבניעירם שלהקדשים ובני בית אלהים אתם**; **בנוים עליסוד השליחים והנביאים וישוע המשיח הוא אבן הפנה**; **אשר חברבו יחד הבנין כלו עד אשריגבה להיכל קדש ליהוה**; **ובו נבנים גםאתם להיות משכן אלהים ברוח**               | La consecuencia es pertenencia: ya no extranjeros, sino miembros de la casa de Elohim y parte de un edificio unido en el Mesías.      |
 
 ## De la marca corporal a la condición que Pablo recuerda
 
@@ -60,6 +77,14 @@ La enumeración de #ephesians_2_12 es más extensa que una sola diferencia étni
 #ephesians_2_13 introduce el giro: quienes estaban lejos fueron acercados «en la sangre del Mesías». La clase explica esta imagen como el recurso o precio provisto por Yehoshua (00:54:29–00:56:23). El pasaje afirma de manera explícita el acercamiento en su sangre; los modelos detallados sobre pago, deuda y alcance de la expiación deben cotejarse con el desarrollo completo de Pablo y con los demás textos que emplean esa imagen.
 
 En #ephesians_2_14, Pablo llama al Mesías «nuestra paz» y declara que hizo de los dos uno al derribar la pared divisoria. La clase identifica la enemistad derribada ante todo con una enemistad humana contra Elohim, la vida y el bien (01:03:54–01:12:05). Sin embargo, el argumento inmediato también trata la relación entre los dos grupos que ahora son reconciliados: no conviene reducir la pared exclusivamente a una experiencia interior ni usar el pasaje para negar las diferencias históricas que el propio texto nombra.
+
+## La reconciliación y la nueva creación en la continuación de la clase
+
+La undécima sesión vuelve a #ephesians_2_14-16 y subraya que «ambos» nombra a circuncidados e incircuncisos (00:01:05–00:03:00). La observación sigue el contraste del contexto: Pablo habla de los dos y de un solo hombre nuevo. A la vez, la pared y la enemistad no deben separarse de ese argumento entre los grupos ni reducirse sin más a una enemistad individual con Elohim.
+
+Para desarrollar la reconciliación, la clase compara #colossians_1_20-22 y propone entender el verbo griego como «hacer todo de nuevo» o regenerar (00:03:17–00:08:45). Colosenses sí dice que por medio del Mesías Elohim hace paz por la sangre de su cruz y reconcilia a quienes antes eran extraños y enemigos por malas obras. «Regeneración» puede ser una aplicación que exprese el alcance renovador que el expositor ve, pero no debe reemplazar automáticamente «reconciliar» ni resolver por sí sola cómo el pasaje articula la creación, la muerte del Mesías y la transformación humana.
+
+La sesión relaciona esta reconciliación con ser presentados santos, sin mancha y sin reproche (00:08:24–00:08:45), y vuelve a la frase «en su carne» de #ephesians_2_15 (00:09:30–00:11:18). El texto afirma la obra del Mesías en su carne y la reconciliación de ambos en un cuerpo; las conclusiones sobre la incorruptibilidad de su carne, un modelo de pago o la extensión cósmica precisa de la renovación requieren cotejo con los textos completos que se invocan.
 
 ## Un solo pueblo, un solo acceso y una casa en construcción
 
@@ -85,6 +110,8 @@ Finalmente, #ephesians_2_19-22 desplaza la imagen desde extranjería a ciudadan�
 - [ ] Revisar las afirmaciones de la clase sobre la salud mental, la depresión, el suicidio y el ateísmo (00:42:00–00:53:15) con fuentes clínicas responsables; no se derivan directamente de #ephesians_2_12.
 - [ ] Estudiar #ephesians_2_14-16 en su sintaxis y contexto para precisar qué significa la enemistad abolida y cómo se relacionan «ley de mandamientos», judíos y gentiles.
 - [ ] Cotejar la explicación de la sangre como «financiación» o «recurso» con los usos bíblicos de sangre, rescate, perdón y sacrificio; es una glosa pedagógica de la clase.
+- [ ] Examinar el verbo de #colossians_1_20 y su relación con #colossians_1_21-22 antes de sustituir «reconciliar» por «regenerar» o «hacer todo de nuevo» como significado definitivo.
+- [ ] Cotejar las afirmaciones de la undécima clase sobre la carne incorruptible del Mesías y el alcance de la renovación de «todo» con la sintaxis y los contextos de #ephesians_2_14-16 y #colossians_1_20-22.
 
 ## Conclusión
 
@@ -101,5 +128,13 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
 
 - «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder» — https://www.youtube.com/watch?v=byKm54KeTyQ
   - Transcripción: `private/transcripts/ericdejes/byKm54KeTyQ.md` (`source_id: youtube:byKm54KeTyQ`).
+- «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj» — https://www.youtube.com/watch?v=0p62JJfVydA
+  - Transcripción: `private/transcripts/ericdejes/0p62JJfVydA.md` (`source_id: youtube:0p62JJfVydA`).
+- «La carta a los Efesios (parte 7) Cap 2 Los hijos de Meri» — https://www.youtube.com/watch?v=vCrg-tQllxU
+  - Transcripción: `private/transcripts/ericdejes/vCrg-tQllxU.md` (`source_id: youtube:vCrg-tQllxU`).
+- «La Carta a los Efesios (Parte 8) Cap 2 “Salvos por gracia de nosotros mismos”» — https://www.youtube.com/watch?v=kPRNLeXCmb8
+  - Transcripción: `private/transcripts/ericdejes/kPRNLeXCmb8.md` (`source_id: youtube:kPRNLeXCmb8`).
+- «La carta a los efesios (parte 9) Cap 2 / Frutos dignos de la salvación» — https://www.youtube.com/watch?v=wOLrgSpNpQI
+  - Transcripción: `private/transcripts/ericdejes/wOLrgSpNpQI.md` (`source_id: youtube:wOLrgSpNpQI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
