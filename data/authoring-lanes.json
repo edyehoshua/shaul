@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "purpose": "Exclusive book lanes for parallel Eric de Jesús transcript authoring. A source may be handled only by its assigned lane, so two workers never author the same book at once.",
+  "integration_branch": "feat/eric_youtube",
+  "lanes": {
+    "yojanan": {
+      "worker_branch": "worker/shaul-yojanan",
+      "playlists_in_order": [
+        "Juan",
+        "Tehilim/Himnos/Salmos",
+        "Yesha’yahu - Isaías",
+        "Haftarot de Vayiqra’/Levítico",
+        "Haftarot de Shmot/Éxodo"
+      ]
+    },
+    "colosenses": {
+      "worker_branch": "worker/shaul-epistles",
+      "playlists_in_order": [
+        "Colosenses",
+        "2 Tesalonicenses completo",
+        "Romanos",
+        "Fiestas",
+        "Shavu’ot",
+        "Yom hakipurim",
+        "Yom tru’áh",
+        "Hebreas de antes"
+      ]
+    },
+    "efesios": {
+      "worker_branch": "worker/shaul-efesios",
+      "playlists_in_order": [
+        "Efesios completo",
+        "1 Tesalonicenses completo",
+        "Qohélet - Eclesiastés",
+        "Shir hashirim completo",
+        "Apocalipsis"
+      ]
+    }
+  },
+  "uncategorized_policy": "Do not process an Uncategorized video until its biblical book is identified from its title/transcript and assigned by the integrator to a lane not currently owning that book. Record the assignment before authoring it."
+}
