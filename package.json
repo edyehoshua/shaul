@@ -35,6 +35,7 @@
     "verse-index:build": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/build_verse_index.py; else python3 scripts/build_verse_index.py; fi",
     "verse-index:test": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/test_build_verse_index.py; else python3 scripts/test_build_verse_index.py; fi",
     "scriptures:lookup:test": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/test_lookup_verse.py; else python3 scripts/test_lookup_verse.py; fi",
+    "authoring:coverage": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/report_authoring_coverage.py --write; else python3 scripts/report_authoring_coverage.py --write; fi",
     "check": "npm run content:check-frontmatter && tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
