@@ -14,14 +14,17 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=bYZCWrOSMyM"
   - "https://www.youtube.com/watch?v=eKPZwHFJ6Tg"
+  - "https://www.youtube.com/watch?v=6uZpdCuu95M"
   - "private/transcripts/ericdejes/bYZCWrOSMyM.md"
   - "private/transcripts/ericdejes/eKPZwHFJ6Tg.md"
+  - "private/transcripts/ericdejes/6uZpdCuu95M.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
   - "docs/scriptures/oe/json/numbers/29.json"
 source_ids:
   - "youtube:bYZCWrOSMyM"
   - "youtube:eKPZwHFJ6Tg"
+  - "youtube:6uZpdCuu95M"
 translation: "[OE]"
 ---
 
@@ -31,7 +34,7 @@ Yom Teruah abre el séptimo mes como reposo y convocación santa. La Torah lo ll
 
 ## Alcance de la nota
 
-Los dos mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
+Los tres mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah y remite a Levítico 23 como texto de partida. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
 
 ## Hoja de comparación
 
@@ -44,6 +47,8 @@ Los dos mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a 
 ## El sonido y su contexto
 
 Las clases recuerdan la práctica de sonar o escuchar el shofar. El texto llama al día teruah, pero #leviticus_23_24 no explica todos los instrumentos, secuencias o significados que comunidades posteriores asocian con él. #leviticus_25_9 demuestra otro empleo importante del shofar, por lo que no conviene fundir sus contextos sin explicación.
+
+El conversatorio de 2019 insiste en separar lo que identifica como bíblico de desarrollos históricos posteriores. Ese es un buen procedimiento de lectura; sus conclusiones concretas deben, no obstante, comprobarse pasaje por pasaje y con fuentes históricas trazables.
 
 ## Lecturas de esperanza
 
@@ -63,4 +68,5 @@ Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [Yom Tru'ah / Rosh Hashanah 5783](https://www.youtube.com/watch?v=bYZCWrOSMyM) — transcripción de trabajo: `private/transcripts/ericdejes/bYZCWrOSMyM.md` (source_id: `youtube:bYZCWrOSMyM`).
 - [Yom tru'ah 5786 - 2025](https://www.youtube.com/watch?v=eKPZwHFJ6Tg) — transcripción de trabajo: `private/transcripts/ericdejes/eKPZwHFJ6Tg.md` (source_id: `youtube:eKPZwHFJ6Tg`).
+- [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
