@@ -26,6 +26,7 @@ sources:
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:bn1Ez0RR56g"
+  - "youtube:2UX8B7uvacQ"
 translation: "[TTH, Delitzsch]"
 ---
 

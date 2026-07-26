@@ -23,6 +23,7 @@ sources:
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:-EwRZKoqHo4"
+  - "youtube:Up-DASDhdok"
 translation: "[TTH, Delitzsch]"
 ---
 

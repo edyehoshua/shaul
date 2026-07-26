@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 51,
-  "pending_videos": 842,
-  "transcript_notes": 23,
+  "covered_videos": 72,
+  "pending_videos": 821,
+  "transcript_notes": 30,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
     "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
@@ -12,6 +12,7 @@
     "content/besorah/tesalonicenses_2_verdad_enganio_firmeza.md",
     "content/besorah/yojanan_10_pastor_vida_obras.md",
     "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+    "content/besorah/yojanan_13_pesaj_seuda_lavado_pies.md",
     "content/besorah/yojanan_13_salida_retorno_y_lenguaje_abba.md",
     "content/besorah/yojanan_13_servicio_envio_y_obediencia.md",
     "content/besorah/yojanan_13_traicion_pan_y_testimonio.md",
@@ -20,12 +21,17 @@
     "content/besorah/yojanan_14_ver_padre_obras.md",
     "content/besorah/yojanan_15_vid_fruto_amor_discipulado.md",
     "content/besorah/yojanan_15_vid_labrador_poda_permanecer.md",
+    "content/besorah/yojanan_16_tristeza_gozo_parto.md",
     "content/besorah/yojanan_16_tropiezo_testimonio_y_juicio.md",
-    "content/besorah/yojanan_17_gloria_autoridad_y_vida.md",
-    "content/besorah/yojanan_1_testigo_cordero.md",
+    "content/besorah/yojanan_9_ben_adam_y_el_ciego.md",
     "content/tanaj/qohelet_7_sabiduria_nombre_y_limites.md"
   ],
-  "duplicate_source_ids": {},
+  "duplicate_source_ids": {
+    "4nYEkCmDn14": [
+      "content/besorah/yojanan_11_eleazar_resurreccion_vida.md",
+      "content/besorah/yojanan_11_lazaro_gloria_testimonio.md"
+    ]
+  },
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
@@ -74,7 +80,7 @@
     },
     "Juan": {
       "total": 51,
-      "covered": 29,
+      "covered": 49,
       "lane": "yojanan"
     },
     "Qohélet - Eclesiastés": {
@@ -104,7 +110,7 @@
     },
     "Uncategorized": {
       "total": 573,
-      "covered": 3,
+      "covered": 4,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
