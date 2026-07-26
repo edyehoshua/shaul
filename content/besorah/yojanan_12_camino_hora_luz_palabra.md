@@ -251,7 +251,7 @@ source_ids:
 
 # Tesis
 
-Yojanán 12 ordena la última subida pública de Yeshúa hacia Pesaj. La unción en Betania, la entrada del Rey humilde, la búsqueda de los griegos, la hora del grano que muere, la voz celestial, la invitación a ser hijos de luz y el discurso final forman un solo camino. La hora de su glorificación no es prestigio: es el cumplimiento visible de la palabra de יהוה mediante el Mesías levantado, para que el olam sea salvado y para que su palabra revele también el juicio de quien la rechaza.
+Yojanán 12 ordena la última subida pública de Yehoshua hacia Pesaj. La unción en Betania, la entrada del Rey humilde, la búsqueda de los griegos, la hora del grano que muere, la voz celestial, la invitación a ser hijos de luz y el discurso final forman un solo camino. La hora de su glorificación no es prestigio: es el cumplimiento visible de la palabra de יהוה mediante el Mesías levantado, para que el olam sea salvado y para que su palabra revele también el juicio de quien la rechaza.
 
 ## Alcance de la nota
 
@@ -278,13 +278,13 @@ Este es el punto de entrada canónico para el capítulo y conserva la ruta de nu
 
 ## Memoria, kabod y la llegada de las naciones
 
-La observación de #iojanan_12_16 organiza retrospectivamente la primera parte: los discípulos recuerdan lo escrito después de que Yeshúa fue glorificado. Las clases explican **(כבד / כבוד)** como peso, honra o importancia manifiesta; esa aproximación ayuda a evitar reducir la gloria a brillo, pero la relación técnica con el vocabulario griego de Yojanán debe seguir siendo verificada.
+La observación de #iojanan_12_16 organiza retrospectivamente la primera parte: los discípulos recuerdan lo escrito después de que Yehoshua fue glorificado. Las clases explican **(כבד / כבוד)** como peso, honra o importancia manifiesta; esa aproximación ayuda a evitar reducir la gloria a brillo, pero la relación técnica con el vocabulario griego de Yojanán debe seguir siendo verificada.
 
-Los griegos de #iojanan_12_20 buscan ver a Yeshúa y reciben como respuesta la llegada de su hora (#iojanan_12_23). La lectura de clase vincula el fruto del grano con la apertura de la salvación a las naciones, en diálogo con #ieshaiahu_49_6. El texto dice que habían subido a adorar; no determina por sí solo si eran prosélitos, temerosos de Elohim u otra categoría histórica.
+Los griegos de #iojanan_12_20 buscan ver a Yehoshua y reciben como respuesta la llegada de su hora (#iojanan_12_23). La lectura de clase vincula el fruto del grano con la apertura de la salvación a las naciones, en diálogo con #ieshaiahu_49_6. El texto dice que habían subido a adorar; no determina por sí solo si eran prosélitos, temerosos de Elohim u otra categoría histórica.
 
 ## La hora: grano, Nombre, juicio y Ben HaAdam
 
-El grano que cae y muere (#iojanan_12_24) da el patrón del discipulado y del fruto. La turbación de Yeshúa no cancela la hora: «por esto he venido a esta hora» (#iojanan_12_27). Su petición es que el Nombre sea glorificado, y la voz de los cielos responde que ya lo fue y será glorificado de nuevo (#iojanan_12_28).
+El grano que cae y muere (#iojanan_12_24) da el patrón del discipulado y del fruto. La turbación de Yehoshua no cancela la hora: «por esto he venido a esta hora» (#iojanan_12_27). Su petición es que el Nombre sea glorificado, y la voz de los cielos responde que ya lo fue y será glorificado de nuevo (#iojanan_12_28).
 
 La clase denomina a esta voz una **(בת קול)**, como eco o veredicto celestial. Es una categoría interpretativa útil para describir la escena, pero su definición rabínica y su aplicación exacta aquí quedan pendientes. El texto conecta esta hora con el juicio del olam, la expulsión de su príncipe y el levantamiento que atrae (#iojanan_12_31-32). La pregunta de la multitud sobre el Ben HaAdam (#iojanan_12_34) es respondida narrativamente con una exhortación a la Luz, no con una definición técnica aislada.
 
@@ -296,7 +296,7 @@ El narrador declara que muchas señales no produjeron afirmación (#iojanan_12_3
 
 ## La palabra enviada: salvación, juicio y vida olam
 
-El cierre público (#iojanan_12_44-50) identifica la afirmación en Yeshúa con el que lo envió. La Luz vino para que quien se afirma no permanezca en oscuridad. Yeshúa afirma que no vino primero para juzgar al olam, sino para salvarlo; sin embargo, la palabra rechazada juzgará en el día final. Finalmente, habla la palabra recibida del Padre y declara que su mandamiento es vida olam.
+El cierre público (#iojanan_12_44-50) identifica la afirmación en Yehoshua con el que lo envió. La Luz vino para que quien se afirma no permanezca en oscuridad. Yehoshua afirma que no vino primero para juzgar al olam, sino para salvarlo; sin embargo, la palabra rechazada juzgará en el día final. Finalmente, habla la palabra recibida del Padre y declara que su mandamiento es vida olam.
 
 La clase insiste correctamente en que oír y guardar no deben separarse en una religiosidad de mera información. Sus desarrollos sobre Sheminí Atzéret, categorías hebreas de perdón y distinciones entre **(שפט)** y **(דין)** deben permanecer como hipótesis de trabajo hasta cotejar las fuentes y los idiomas originales.
 
@@ -331,7 +331,7 @@ La clase insiste correctamente en que oír y guardar no deben separarse en una r
 
 ## Conclusión
 
-El capítulo avanza desde una casa llena de aroma hasta una palabra dada para vida olam. En el recorrido, Yeshúa entra como Rey humilde, interpreta su muerte como fruto, pide la glorificación del Nombre, llama a caminar en la Luz y declara que la palabra del que lo envió salva y juzga. Las clases preservadas desarrollan cada tramo; este panorama mantiene la continuidad del capítulo y distingue el texto de las propuestas que aún requieren comprobación.
+El capítulo avanza desde una casa llena de aroma hasta una palabra dada para vida olam. En el recorrido, Yehoshua entra como Rey humilde, interpreta su muerte como fruto, pide la glorificación del Nombre, llama a caminar en la Luz y declara que la palabra del que lo envió salva y juzga. Las clases preservadas desarrollan cada tramo; este panorama mantiene la continuidad del capítulo y distingue el texto de las propuestas que aún requieren comprobación.
 
 ## Ver también
 
@@ -348,9 +348,9 @@ Los siguientes dossiers conservan íntegramente las hojas de comparación, desar
 
 ##### Tesis
 
-En #iojanan_12_27-33, Yeshúa no pide ser rescatado de la hora porque la hora misma pertenece al propósito escrito. Lo que sí pide es: "glorifica tu Nombre". La clase lee esa petición como una apelación a lo que la Escritura ya permite pedir: que יהוה manifieste el peso de su Nombre en el cumplimiento de su propia obra.
+En #iojanan_12_27-33, Yehoshua no pide ser rescatado de la hora porque la hora misma pertenece al propósito escrito. Lo que sí pide es: "glorifica tu Nombre". La clase lee esa petición como una apelación a lo que la Escritura ya permite pedir: que יהוה manifieste el peso de su Nombre en el cumplimiento de su propia obra.
 
-La voz de los cielos no viene para darle información a Yeshúa, sino para la multitud. En la lectura del video, esa voz funciona como una **bat kol**, un eco o veredicto celestial que confirma que el Nombre ya fue glorificado antes y será glorificado otra vez, ahora por medio de la muerte del Mesías.
+La voz de los cielos no viene para darle información a Yehoshua, sino para la multitud. En la lectura del video, esa voz funciona como una **bat kol**, un eco o veredicto celestial que confirma que el Nombre ya fue glorificado antes y será glorificado otra vez, ahora por medio de la muerte del Mesías.
 
 #### Alcance de la nota
 
@@ -391,19 +391,19 @@ La voz de los cielos no viene para darle información a Yeshúa, sino para la mu
 
 #### La hora y lo que se puede pedir
 
-El expositor contrasta dos posibles peticiones. La primera sería: "sálvame de esta hora". Yeshúa no la formula como súplica final porque la hora no contradice su misión; al contrario, "por esto" vino a esa hora. La muerte no aparece como fracaso del plan, sino como el punto donde el plan se cumple.
+El expositor contrasta dos posibles peticiones. La primera sería: "sálvame de esta hora". Yehoshua no la formula como súplica final porque la hora no contradice su misión; al contrario, "por esto" vino a esa hora. La muerte no aparece como fracaso del plan, sino como el punto donde el plan se cumple.
 
-La segunda petición es la que sí pronuncia: "glorifica tu Nombre". La clase insiste en que Yeshúa pide lo que está escrito y contemplado en la Escritura. No hay base para evitar el sacrificio; sí hay base para pedir que el Nombre sea glorificado en medio del sacrificio.
+La segunda petición es la que sí pronuncia: "glorifica tu Nombre". La clase insiste en que Yehoshua pide lo que está escrito y contemplado en la Escritura. No hay base para evitar el sacrificio; sí hay base para pedir que el Nombre sea glorificado en medio del sacrificio.
 
 Esta línea preserva una regla de oración que aparece también en otras notas de la serie: pedir no es imponer un deseo humano a Elohim, sino ponerse dentro de lo que יהוה ya determinó revelar y cumplir por amor de su Nombre.
 
 #### La voz de los cielos como bat kol
 
-Cuando viene la voz desde los cielos, el video la identifica como **bat kol**. La explicación dada es que la bat kol funciona como eco divino, lectura celestial de la Torah o veredicto de la corte celestial. En esa lectura, la voz responde a la petición de Yeshúa: el Nombre ya fue glorificado antes y será glorificado otra vez.
+Cuando viene la voz desde los cielos, el video la identifica como **bat kol**. La explicación dada es que la bat kol funciona como eco divino, lectura celestial de la Torah o veredicto de la corte celestial. En esa lectura, la voz responde a la petición de Yehoshua: el Nombre ya fue glorificado antes y será glorificado otra vez.
 
-La nota conserva la cautela: esta definición requiere cotejo con fuentes rabínicas precisas. Lo importante para el argumento de la clase es que la voz no aparece para corregir a Yeshúa ni para informarle algo desconocido, sino para testificar a los que estaban oyendo.
+La nota conserva la cautela: esta definición requiere cotejo con fuentes rabínicas precisas. Lo importante para el argumento de la clase es que la voz no aparece para corregir a Yehoshua ni para informarle algo desconocido, sino para testificar a los que estaban oyendo.
 
-Por eso #iojanan_12_30 es clave: "No ha venido esta voz por causa de Mí, sino por causa de ustedes." La señal audible sirve al pueblo. Los que no disciernen solo perciben trueno; otros entienden que un ángel habló. Yeshúa no se detiene a negar esa interpretación, sino que dirige el significado hacia el juicio que está ocurriendo.
+Por eso #iojanan_12_30 es clave: "No ha venido esta voz por causa de Mí, sino por causa de ustedes." La señal audible sirve al pueblo. Los que no disciernen solo perciben trueno; otros entienden que un ángel habló. Yehoshua no se detiene a negar esa interpretación, sino que dirige el significado hacia el juicio que está ocurriendo.
 
 #### El ángel como lector de edictos
 
@@ -417,7 +417,7 @@ El expositor conecta la frase de #iojanan_12_28 con patrones del Tanaj donde י�
 
 La lógica de la clase es de continuidad: el mismo que glorificó su Nombre en el pasado lo glorifica ahora en la hora del Mesías. La diferencia es el medio. Antes, el Nombre fue glorificado en actos externos de juicio y liberación; ahora será glorificado por medio del sacrificio del propio cuerpo del Mesías.
 
-La referencia a #ivrim_13_8 sirve como síntesis confesional en la clase: Yeshúa el Mesías es el mismo ayer, hoy y por los siglos. La glorificación del Nombre no cambia de Elohim ni de propósito; se concentra ahora en la entrega y exaltación del Mesías.
+La referencia a #ivrim_13_8 sirve como síntesis confesional en la clase: Yehoshua el Mesías es el mismo ayer, hoy y por los siglos. La glorificación del Nombre no cambia de Elohim ni de propósito; se concentra ahora en la entrega y exaltación del Mesías.
 
 #### Juicio del olam y expulsión del príncipe
 
@@ -433,7 +433,7 @@ La atracción "a todos" debe leerse dentro de esa escena: el Mesías levantado s
 
 #### Conexiones principales
 
-- #iojanan_12_27 con #iojanan_12_28: Yeshúa no pide escapar de la hora; pide que el Nombre sea glorificado en la hora.
+- #iojanan_12_27 con #iojanan_12_28: Yehoshua no pide escapar de la hora; pide que el Nombre sea glorificado en la hora.
 - #iojanan_12_28 con #shemot_9_16: la gloria del Nombre ya había sido manifestada antes por medio de juicio.
 - #iojanan_12_29 con la figura de **(בת קול)**: la multitud percibe sonido; algunos interpretan mensaje angelical.
 - #iojanan_12_30 con la función de testimonio: la voz viene por causa de los oyentes.
@@ -449,7 +449,7 @@ La atracción "a todos" debe leerse dentro de esa escena: el Mesías levantado s
 
 #### Conclusión
 
-La enseñanza del video ordena #iojanan_12_27-33 como una escena de Escritura, juicio y glorificación. Yeshúa no busca una salida que contradiga la hora; se entrega a la hora pidiendo que el Nombre sea glorificado. La voz celestial confirma para los oyentes que esa glorificación ya pertenece al patrón de יהוה: el mismo Nombre que fue glorificado antes será glorificado otra vez en el Mesías levantado.
+La enseñanza del video ordena #iojanan_12_27-33 como una escena de Escritura, juicio y glorificación. Yehoshua no busca una salida que contradiga la hora; se entrega a la hora pidiendo que el Nombre sea glorificado. La voz celestial confirma para los oyentes que esa glorificación ya pertenece al patrón de יהוה: el mismo Nombre que fue glorificado antes será glorificado otra vez en el Mesías levantado.
 
 #### Ver también
 
@@ -462,9 +462,9 @@ La enseñanza del video ordena #iojanan_12_27-33 como una escena de Escritura, j
 
 ##### Tesis
 
-En #iojanan_12_31-36, Yeshúa interpreta su levantamiento como juicio contra el olam y como despojo del príncipe de este mundo. La clase lee esa hora no como derrota, sino como la manifestación de la Luz que viene a limitar las tinieblas, atraer hacia sí a cualquiera y responder la pregunta de la multitud: "¿Quién es este Ben HaAdam?"
+En #iojanan_12_31-36, Yehoshua interpreta su levantamiento como juicio contra el olam y como despojo del príncipe de este mundo. La clase lee esa hora no como derrota, sino como la manifestación de la Luz que viene a limitar las tinieblas, atraer hacia sí a cualquiera y responder la pregunta de la multitud: "¿Quién es este Ben HaAdam?"
 
-La respuesta de Yeshúa no es una definición técnica, sino una identificación: mientras tienen la Luz, caminen en la Luz y afírmense en la Luz para ser hechos hijos de luz. Por eso la nota entiende que **Ben HaAdam es la Luz verdadera**: el portador de la plenitud de la deidad que fue levantado, venció la muerte y forma discípulos cuya guerra contra las tinieblas no es carnal, sino fidelidad, amor, sobriedad y reconciliación.
+La respuesta de Yehoshua no es una definición técnica, sino una identificación: mientras tienen la Luz, caminen en la Luz y afírmense en la Luz para ser hechos hijos de luz. Por eso la nota entiende que **Ben HaAdam es la Luz verdadera**: el portador de la plenitud de la deidad que fue levantado, venció la muerte y forma discípulos cuya guerra contra las tinieblas no es carnal, sino fidelidad, amor, sobriedad y reconciliación.
 
 #### Alcance de la nota
 
@@ -538,13 +538,13 @@ Por eso "todos" se explica como cualquiera: griego, judío, bárbaro, hombre, mu
 
 #### Levantado y resucitado
 
-Yojanán aclara que el levantamiento señala la clase de muerte que Yeshúa iba a morir. El video advierte que la discusión sobre si fue cruz, poste o madero no debe desplazar el punto principal. En hebreo, **(עץ)** puede funcionar de manera amplia: árbol, madera, madero. Lo decisivo es que fue levantado y que resucitó de entre los muertos.
+Yojanán aclara que el levantamiento señala la clase de muerte que Yehoshua iba a morir. El video advierte que la discusión sobre si fue cruz, poste o madero no debe desplazar el punto principal. En hebreo, **(עץ)** puede funcionar de manera amplia: árbol, madera, madero. Lo decisivo es que fue levantado y que resucitó de entre los muertos.
 
 La clase también advierte contra separar un "Mesías ben Yosef" que muere de un "Mesías ben David" posterior que sí sería el esperado. Esa separación se conserva como advertencia de la clase, pero requiere cotejo histórico. El punto confesional de la nota es más básico: hay un solo Mesías; el que murió es el mismo que resucitó y permanece para siempre.
 
 #### La objeción de la multitud
 
-La pregunta de #iojanan_12_34 es buena: si la Torah enseña que el Mesías permanece para siempre, ¿cómo puede Yeshúa hablar de que el Ben HaAdam debe ser levantado? La clase recuerda que "Torah" puede nombrar toda la Escritura como instrucción, no solo el Jumash. Por eso textos como Tehilim o Iejezkel pueden entrar bajo esa forma de hablar.
+La pregunta de #iojanan_12_34 es buena: si la Torah enseña que el Mesías permanece para siempre, ¿cómo puede Yehoshua hablar de que el Ben HaAdam debe ser levantado? La clase recuerda que "Torah" puede nombrar toda la Escritura como instrucción, no solo el Jumash. Por eso textos como Tehilim o Iejezkel pueden entrar bajo esa forma de hablar.
 
 Dos anclas sostienen la objeción: #tehilim_89_36-37, donde la simiente y el trono permanecen, e #iejezkel_37_25, donde David, entendido como título mesiánico, será príncipe para siempre. La tensión no está inventada por la multitud; surge de leer promesas reales y todavía no entender que el camino de permanencia pasa por muerte y resurrección.
 
@@ -552,19 +552,19 @@ Dos anclas sostienen la objeción: #tehilim_89_36-37, donde la simiente y el tro
 
 La clase conecta la pregunta con Tehilim 8. Allí no se trata de una reflexión genérica sobre la humanidad, sino de una visión profética: el hijo de Adam es disminuido por un poco y luego coronado de kabod y esplendor, con todas las cosas bajo sus pies. Esa lectura se conecta con Ivrim, donde el salmo se aplica al Mesías.
 
-Por eso Yeshúa no responde con una cita explícita, sino con la clave de lectura: "todavía por un poco de tiempo la Luz estará con ustedes". En la lógica del video, eso significa: si preguntan quién es este Ben HaAdam, miren la Luz. El Ben HaAdam es la Luz verdadera que vino al mundo, la que desde Bereshit pone límite a las tinieblas y da orden a la creación.
+Por eso Yehoshua no responde con una cita explícita, sino con la clave de lectura: "todavía por un poco de tiempo la Luz estará con ustedes". En la lógica del video, eso significa: si preguntan quién es este Ben HaAdam, miren la Luz. El Ben HaAdam es la Luz verdadera que vino al mundo, la que desde Bereshit pone límite a las tinieblas y da orden a la creación.
 
 #### Luz mayor que el templo
 
 La clase recuerda que el templo podía ser llamado luz del mundo en sentido pedagógico: allí Israel experimentaba cercanía, santidad y acceso mediante el qorban. Pero Yojanán escribe después de la destrucción del templo, y su consuelo es más alto: alguien mayor que el templo estuvo aquí.
 
-El Beit HaMikdash era una señal real, pero no contenía a יהוה. La Luz en persona vino en el Mesías. Por eso, ante la pérdida del templo, Yojanán no deja al lector en desconsolación: la luz verdadera ya fue manifestada, y esa luz no era una institución, sino Yeshúa mismo.
+El Beit HaMikdash era una señal real, pero no contenía a יהוה. La Luz en persona vino en el Mesías. Por eso, ante la pérdida del templo, Yojanán no deja al lector en desconsolación: la luz verdadera ya fue manifestada, y esa luz no era una institución, sino Yehoshua mismo.
 
 #### Hijos de luz no como secta armada
 
 El video contrasta el lenguaje de Yojanán con el ambiente de Qumrán. La comunidad asociada a los rollos del Mar Muerto hablaba de hijos de luz e hijos de tinieblas, y el llamado Rollo de la Guerra habría elaborado una lucha concreta contra enemigos como romanos y otros pueblos. La nota conserva este contexto como orientación, pero deja sus detalles históricos pendientes de verificación.
 
-Yeshúa, en cambio, no llama a una guerra de carne y sangre. Afírmense en la Luz significa permanecer fieles a él. Ser hechos hijos de luz no es autoproclamarse puros frente a otros pueblos, sino ser discípulos del Mesías y portar su luz hacia quienes también fueron esclavos de las tinieblas.
+Yehoshua, en cambio, no llama a una guerra de carne y sangre. Afírmense en la Luz significa permanecer fieles a él. Ser hechos hijos de luz no es autoproclamarse puros frente a otros pueblos, sino ser discípulos del Mesías y portar su luz hacia quienes también fueron esclavos de las tinieblas.
 
 #### Amar como señal de luz
 
@@ -593,13 +593,13 @@ Efesios 5 llama a caminar como hijos de luz: bondad, justicia y verdad. La clase
 - [ ] Cotejar la forma aramea **(בר אנש)** en Daniel y su relación precisa con el griego de #iojanan_12_34.
 - [ ] Verificar referencias primarias sobre el Rollo de la Guerra de Qumrán, la expresión "hijos de luz" y su contenido militar.
 - [ ] Revisar históricamente la mención de Masada y su relación con movimientos de resistencia posteriores al año 70.
-- [ ] Cotejar la afirmación sobre Mesías ben Yosef / Mesías ben David como respuesta rabínica posterior a cuestionamientos sobre Yeshúa.
+- [ ] Cotejar la afirmación sobre Mesías ben Yosef / Mesías ben David como respuesta rabínica posterior a cuestionamientos sobre Yehoshua.
 - [ ] Revisar el uso de **(שנא)** como "amar menos" en hebreo bíblico antes de usarlo como argumento lexical cerrado en 1 Yojanán.
 - [ ] Cotejar en griego #iojanan_12_32 el alcance de "todos" frente a la lectura pedagógica "cualquiera".
 
 #### Conclusión
 
-La enseñanza lee #iojanan_12_31-36 como el cierre de una gran línea: los griegos buscan a Yeshúa, la voz confirma la glorificación del Nombre, el príncipe del olam queda juzgado, y el Mesías levantado atrae hacia sí a cualquiera. Cuando la multitud pregunta quién es este Ben HaAdam, Yeshúa responde con la categoría que atraviesa todo Yojanán: la Luz.
+La enseñanza lee #iojanan_12_31-36 como el cierre de una gran línea: los griegos buscan a Yehoshua, la voz confirma la glorificación del Nombre, el príncipe del olam queda juzgado, y el Mesías levantado atrae hacia sí a cualquiera. Cuando la multitud pregunta quién es este Ben HaAdam, Yehoshua responde con la categoría que atraviesa todo Yojanán: la Luz.
 
 Ser hijo de luz, entonces, no es pertenecer a un grupo que se cree puro contra otros pueblos. Es ser discípulo de la Luz verdadera: amar sin acepción, caminar en bondad, justicia y verdad, vivir sobrio, recordar la reconciliación recibida y pelear contra las tinieblas sin convertir a las personas en enemigas de carne y sangre.
 
@@ -616,9 +616,9 @@ Ser hijo de luz, entonces, no es pertenecer a un grupo que se cree puro contra o
 
 ##### Tesis
 
-Yojanán 12:1-15 abre la recta final hacia Pesaj mostrando a Yeshúa como el Cordero que va a Ierushaláim y como el Rey de Israel que llega humillado. La cena en Betania, la unción de Miriam, la protesta de Iehudáh, el peligro contra Eleazar y la aclamación de la multitud no son escenas sueltas: todas empujan hacia la sepultura, el juicio y la entrada del Mesías que porta el nombre de יהוה.
+Yojanán 12:1-15 abre la recta final hacia Pesaj mostrando a Yehoshua como el Cordero que va a Ierushaláim y como el Rey de Israel que llega humillado. La cena en Betania, la unción de Miriam, la protesta de Iehudáh, el peligro contra Eleazar y la aclamación de la multitud no son escenas sueltas: todas empujan hacia la sepultura, el juicio y la entrada del Mesías que porta el nombre de יהוה.
 
-La clase lee el nardo como señal aromática frente al pecado que Yeshúa cargará, y lee el pollino de Zacarías 9 como señal de un rey justo que viene pobre/humillado por causa de los pecados del pueblo. Por eso el clamor "Hoshana" no es una exclamación decorativa, sino una cita viva de #tehilim_118_25-26: "salva, por favor", dirigida a יהוה y aplicada al que viene como Rey.
+La clase lee el nardo como señal aromática frente al pecado que Yehoshua cargará, y lee el pollino de Zacarías 9 como señal de un rey justo que viene pobre/humillado por causa de los pecados del pueblo. Por eso el clamor "Hoshana" no es una exclamación decorativa, sino una cita viva de #tehilim_118_25-26: "salva, por favor", dirigida a יהוה y aplicada al que viene como Rey.
 
 #### Alcance de la nota
 
@@ -663,17 +663,17 @@ La clase lee el nardo como señal aromática frente al pecado que Yeshúa cargar
 
 #### De Betania a Ierushaláim
 
-La clase abre recordando el énfasis de todo Yojanán: Yeshúa es presentado como alguien mayor que el templo y como sustituto del templo. En ese marco, #iojanan_12_1-2 coloca la escena en Betania, cerca de Ierushaláim, después del levantamiento de Eleazar y antes de la semana final.
+La clase abre recordando el énfasis de todo Yojanán: Yehoshua es presentado como alguien mayor que el templo y como sustituto del templo. En ese marco, #iojanan_12_1-2 coloca la escena en Betania, cerca de Ierushaláim, después del levantamiento de Eleazar y antes de la semana final.
 
-El expositor sostiene que Yeshúa murió el 14 de Nisán por la tarde, en miércoles, y rechaza la tradición de viernes-domingo porque no permite sostener los tres días y tres noches. Esta línea no se desarrolla aquí como prueba completa; la clase remite a otro estudio sobre Marcos. Para esta nota queda como marco cronológico de la clase, no como argumento verificado en detalle.
+El expositor sostiene que Yehoshua murió el 14 de Nisán por la tarde, en miércoles, y rechaza la tradición de viernes-domingo porque no permite sostener los tres días y tres noches. Esta línea no se desarrolla aquí como prueba completa; la clase remite a otro estudio sobre Marcos. Para esta nota queda como marco cronológico de la clase, no como argumento verificado en detalle.
 
-Betania funciona como punto de transición. Allí están Martah sirviendo, Eleazar sentado a la mesa como testimonio vivo y Miriam realizando el gesto que Yeshúa interpretará desde su sepultura. La casa se llena de aroma, mientras los pies del Mesías ya están orientados hacia Ierushaláim.
+Betania funciona como punto de transición. Allí están Martah sirviendo, Eleazar sentado a la mesa como testimonio vivo y Miriam realizando el gesto que Yehoshua interpretará desde su sepultura. La casa se llena de aroma, mientras los pies del Mesías ya están orientados hacia Ierushaláim.
 
 #### El nardo y la sepultura
 
-Miriam derrama un perfume caro de nardo sobre los pies de Yeshúa. La clase subraya tres detalles: el valor del perfume, el lugar donde se derrama y el efecto de llenar la casa con su olor.
+Miriam derrama un perfume caro de nardo sobre los pies de Yehoshua. La clase subraya tres detalles: el valor del perfume, el lugar donde se derrama y el efecto de llenar la casa con su olor.
 
-El nardo se relaciona con Shir haShirim, donde aparece dentro de un campo de aromas preciosos. La lectura propuesta es que el perfume cubre el olor de lo corrompido y anuncia que Yeshúa cargará el pecado del mundo. No se trata solo de un acto de hospitalidad o devoción; Yeshúa mismo dice que Miriam lo guardó "para el día de mi sepultura" (#iojanan_12_7).
+El nardo se relaciona con Shir haShirim, donde aparece dentro de un campo de aromas preciosos. La lectura propuesta es que el perfume cubre el olor de lo corrompido y anuncia que Yehoshua cargará el pecado del mundo. No se trata solo de un acto de hospitalidad o devoción; Yehoshua mismo dice que Miriam lo guardó "para el día de mi sepultura" (#iojanan_12_7).
 
 Los pies importan porque indican avance. El Mesías está caminando hacia el sacrificio. Por eso la unción se vuelve señal anticipada: el perfume acompaña el camino al madero, a la condena y a la sepultura.
 
@@ -683,27 +683,27 @@ La protesta de Iehudáh parece compasión por los necesitados, pero Yojanán la 
 
 El cálculo de trescientos denarios o shekel de plata muestra que el perfume era muy costoso. La nota no cierra la equivalencia salarial porque la clase ofrece cifras orales que conviene revisar, pero conserva el punto principal: Iehudáh mide el gesto de Miriam desde el beneficio que él podía extraer.
 
-Yeshúa responde desde otra prioridad: a los pobres siempre los tendrán, pero a él no siempre. La clase no usa esto para disminuir el cuidado por los necesitados; lo conecta con el momento único de la sepultura del Mesías y con el עני de Zacarías 9:9.
+Yehoshua responde desde otra prioridad: a los pobres siempre los tendrán, pero a él no siempre. La clase no usa esto para disminuir el cuidado por los necesitados; lo conecta con el momento único de la sepultura del Mesías y con el עני de Zacarías 9:9.
 
 #### El pobre especial de Zacarías
 
 El término עני permite unir #iojanan_12_8 con #zejariah_9_9. El rey viene עני: pobre, afligido, humillado. La clase lo acerca a #ieshaiahu_53_4, donde el Siervo carga dolores y es considerado golpeado por Elohim y humillado.
 
-Así, Yeshúa no dice simplemente "esta vez yo soy más importante que los pobres". La lectura de la clase es más precisa: los pobres siempre estarán, pero este pobre/humillado único va hacia una hora irrepetible. Su humillación no nace de carencia económica, sino de cargar el pecado y el juicio.
+Así, Yehoshua no dice simplemente "esta vez yo soy más importante que los pobres". La lectura de la clase es más precisa: los pobres siempre estarán, pero este pobre/humillado único va hacia una hora irrepetible. Su humillación no nace de carencia económica, sino de cargar el pecado y el juicio.
 
 Este punto prepara la entrada en el pollino. El rey justo viene a paso lento, humillado, como señal de que Israel necesita salvación y no puede recibir al Mesías como si fuera un pueblo sin pecado.
 
 #### Eleazar como testigo perseguido
 
-Después de la señal de #iojanan_11, Eleazar no es un personaje pasivo. Muchos yehudim vienen no solo por Yeshúa, sino para ver al que fue despertado de los muertos. Por eso los jefes de los sacerdotes consideran matarlo también.
+Después de la señal de #iojanan_11, Eleazar no es un personaje pasivo. Muchos yehudim vienen no solo por Yehoshua, sino para ver al que fue despertado de los muertos. Por eso los jefes de los sacerdotes consideran matarlo también.
 
-La clase lee esta decisión como evidencia de una oposición que ya no busca la verdad de la señal, sino apagar su testimonio. Eleazar vivo hace visible la obra de Yeshúa; por eso su vida se vuelve incómoda para quienes quieren controlar el relato.
+La clase lee esta decisión como evidencia de una oposición que ya no busca la verdad de la señal, sino apagar su testimonio. Eleazar vivo hace visible la obra de Yehoshua; por eso su vida se vuelve incómoda para quienes quieren controlar el relato.
 
 #### Hoshana y el nombre de יהוה
 
 La multitud toma ramas de palmera y aclama "Hoshana". TTH explica que Hoshana contrae הושיעה נא: "salva, por favor". La clase insiste en que esto no era una palabra griega comprensible por sí misma, sino un hebraísmo conservado en la aclamación.
 
-La cita remite a #tehilim_118_25-26. Allí la súplica va dirigida a יהוה, y la bendición cae sobre el que viene en/con el nombre de יהוה. La clase propone leer "venir con el nombre" como traer el nombre, no solo actuar por delegación externa. Esta formulación es importante porque enlaza con el tema mayor de Yojanán: Yeshúa no viene como un agente separado que compite con Elohim, sino como la manifestación del nombre y la obra de יהוה en medio del pueblo.
+La cita remite a #tehilim_118_25-26. Allí la súplica va dirigida a יהוה, y la bendición cae sobre el que viene en/con el nombre de יהוה. La clase propone leer "venir con el nombre" como traer el nombre, no solo actuar por delegación externa. Esta formulación es importante porque enlaza con el tema mayor de Yojanán: Yehoshua no viene como un agente separado que compite con Elohim, sino como la manifestación del nombre y la obra de יהוה en medio del pueblo.
 
 Por eso la frase "el Rey de Israel" no queda aislada. #tzefaniah_3_15 dice: "מלך ישראל יהוה בקרבך" — el Rey de Israel, יהוה, en medio de ti. La multitud no desarrolla una cristología técnica, pero su clamor, leído con la Escritura, pone sobre la mesa una identificación fuerte.
 
@@ -713,7 +713,7 @@ Yojanán especifica que las ramas eran de palmera. La clase observa que los sin�
 
 El expositor conecta las palmeras datileras con el entorno del monte de los Olivos y con símbolos de Judea en monedas romanas. Esa afirmación histórica queda pendiente de verificación, pero la función narrativa es clara: la multitud sale a recibir al rey con señales visibles de aclamación.
 
-También se aclara el orden narrativo: en los sinópticos, Yeshúa manda buscar el pollino antes de la aclamación; en Yojanán, el relato puede parecer que lo encuentra después. La clase lo resuelve leyendo #iojanan_12_14 como una condensación narrativa: Yeshúa ya viene entrando montado cuando la multitud aclama.
+También se aclara el orden narrativo: en los sinópticos, Yehoshua manda buscar el pollino antes de la aclamación; en Yojanán, el relato puede parecer que lo encuentra después. La clase lo resuelve leyendo #iojanan_12_14 como una condensación narrativa: Yehoshua ya viene entrando montado cuando la multitud aclama.
 
 #### El rey humillado en un pollino
 
@@ -759,7 +759,7 @@ El pollino no montado por nadie refuerza la señal. No se trata de una entrada m
 
 #### Conclusión
 
-Yojanán 12 presenta a Yeshúa avanzando hacia Ierushaláim con señales que la Escritura ya había cargado de sentido: aroma, sepultura, pobre/humillado, salvación, nombre de יהוה, Rey de Israel y pollino. La clase une esas señales para mostrar que la entrada mesiánica no es espectáculo religioso, sino anuncio del sacrificio.
+Yojanán 12 presenta a Yehoshua avanzando hacia Ierushaláim con señales que la Escritura ya había cargado de sentido: aroma, sepultura, pobre/humillado, salvación, nombre de יהוה, Rey de Israel y pollino. La clase une esas señales para mostrar que la entrada mesiánica no es espectáculo religioso, sino anuncio del sacrificio.
 
 El rey entra aclamado, pero entra humillado. El perfume llena la casa antes de que la corrupción de la muerte y el pecado caigan sobre él. La multitud clama "Hoshana", y sin comprender todo el peso de lo que dice, pone en boca pública la súplica que define la escena: יהוה salva ahora en el que viene con su nombre.
 
@@ -774,9 +774,9 @@ El rey entra aclamado, pero entra humillado. El perfume llena la casa antes de q
 
 ##### Tesis
 
-La clase lee #iojanan_12_16 como una clave retrospectiva: los discípulos no reconocieron al principio el sentido completo de la entrada de Yeshúa y de lo escrito sobre él, pero lo recordaron cuando Yeshúa fue glorificado. El énfasis del expositor es que "gloria" no debe reducirse a brillo, fama o esplendor visual; en el trasfondo hebreo de **כבד / כבוד**, glorificar es hacer notorio el peso de alguien, reconocer que todo gira en torno a él.
+La clase lee #iojanan_12_16 como una clave retrospectiva: los discípulos no reconocieron al principio el sentido completo de la entrada de Yehoshua y de lo escrito sobre él, pero lo recordaron cuando Yehoshua fue glorificado. El énfasis del expositor es que "gloria" no debe reducirse a brillo, fama o esplendor visual; en el trasfondo hebreo de **כבד / כבוד**, glorificar es hacer notorio el peso de alguien, reconocer que todo gira en torno a él.
 
-Aplicado a Yeshúa, ese peso se ve cuando termina la obra escrita, pasa por la muerte, resucita y demuestra que no puede ser retenido por ella. La glorificación no es un adorno posterior a la cruz: es el reconocimiento de que el peso de la palabra de יהוה cayó sobre Yeshúa y que, al cumplirla, quedó demostrado que todo el peso, autoridad y honra pertenecen a él.
+Aplicado a Yehoshua, ese peso se ve cuando termina la obra escrita, pasa por la muerte, resucita y demuestra que no puede ser retenido por ella. La glorificación no es un adorno posterior a la cruz: es el reconocimiento de que el peso de la palabra de יהוה cayó sobre Yehoshua y que, al cumplirla, quedó demostrado que todo el peso, autoridad y honra pertenecen a él.
 
 #### Alcance de la nota
 
@@ -825,7 +825,7 @@ Aplicado a Yeshúa, ese peso se ve cuando termina la obra escrita, pasa por la m
 
 #### Desarrollo del argumento
 
-La clase inicia con una recapitulación de #iojanan_12_14-15 y la entrada de Yeshúa montado sobre el pollino. El punto no es que los discípulos estuvieran cazando profecías para acomodar una historia, sino que leyeron los hechos con claridad después. Yojanán escribe en retrospectiva y explica que ciertas cosas no fueron reconocidas al principio.
+La clase inicia con una recapitulación de #iojanan_12_14-15 y la entrada de Yehoshua montado sobre el pollino. El punto no es que los discípulos estuvieran cazando profecías para acomodar una historia, sino que leyeron los hechos con claridad después. Yojanán escribe en retrospectiva y explica que ciertas cosas no fueron reconocidas al principio.
 
 La palabra decisiva es "glorificado". El expositor detiene el avance del capítulo para mostrar que, desde #iojanan_12_16 en adelante, la secuencia de Yojanán girará repetidamente alrededor de la gloria. Por eso antes de seguir con el testimonio de la multitud en #iojanan_12_17, la clase reconstruye el sentido de כבד desde Bereshit y Shemot.
 
@@ -839,33 +839,33 @@ La definición funcional de la clase es esta: pesado es aquello que tiene sufici
 
 Shemot 14 funciona como puente hacia Yojanán. יהוה dice que hará notorio su peso en Paroh, en su ejército, en sus carros y en sus jinetes. El resultado no es solo victoria militar; el texto dice que Mitzraim conocerá que él es יהוה. La clase une dos ideas: glorificación y conocimiento. Ser glorificado es ser reconocido por el peso que se manifiesta en la obra.
 
-Por eso #iojanan_12_16 no se lee como una frase devocional abstracta. "Cuando fue glorificado Yeshúa" significa: cuando se hizo notorio su peso, cuando quedó reconocido quién era él y alrededor de quién giraban las Escrituras, las señales y los acontecimientos.
+Por eso #iojanan_12_16 no se lee como una frase devocional abstracta. "Cuando fue glorificado Yehoshua" significa: cuando se hizo notorio su peso, cuando quedó reconocido quién era él y alrededor de quién giraban las Escrituras, las señales y los acontecimientos.
 
 #### La obra terminada y el peso de la palabra
 
-#iojanan_17_4 da la pista interna: Yeshúa glorifica en la tierra al completar la obra que recibió. La clase conecta esto con la palabra de יהוה como promesa jurada. Si Elohim juró por sí mismo, como recuerda #ivrim_6_13, entonces su palabra no queda fuera de él: queda respaldada por su propio cuerpo y por su propia fidelidad.
+#iojanan_17_4 da la pista interna: Yehoshua glorifica en la tierra al completar la obra que recibió. La clase conecta esto con la palabra de יהוה como promesa jurada. Si Elohim juró por sí mismo, como recuerda #ivrim_6_13, entonces su palabra no queda fuera de él: queda respaldada por su propio cuerpo y por su propia fidelidad.
 
-Desde esa línea, los sacrificios, los cuerpos de animales, el pan partido y el velo de la carne son leídos como pedagogía corporal de la promesa. La herencia se hace efectiva por la muerte del testador; Yeshúa pasa por la muerte para cumplir lo que su propia palabra había prometido. La clase evita decir que Elohim dejó de ser inmortal; lo formula como paso por la muerte, silencio y derramamiento de la vida humana asumida.
+Desde esa línea, los sacrificios, los cuerpos de animales, el pan partido y el velo de la carne son leídos como pedagogía corporal de la promesa. La herencia se hace efectiva por la muerte del testador; Yehoshua pasa por la muerte para cumplir lo que su propia palabra había prometido. La clase evita decir que Elohim dejó de ser inmortal; lo formula como paso por la muerte, silencio y derramamiento de la vida humana asumida.
 
-Así, el peso de la palabra cae sobre Yeshúa. No puede escapar de lo prometido porque él mismo se ató por los dichos de su boca. La glorificación consiste en que, al terminar la obra y levantarse, se ve que su palabra tenía tal peso que él mismo vino a cumplirla.
+Así, el peso de la palabra cae sobre Yehoshua. No puede escapar de lo prometido porque él mismo se ató por los dichos de su boca. La glorificación consiste en que, al terminar la obra y levantarse, se ve que su palabra tenía tal peso que él mismo vino a cumplirla.
 
-#### El peso de Yeshúa
+#### El peso de Yehoshua
 
-La pregunta doctrinal que abre la clase es: si todo gira en torno a Yeshúa, ¿puede haber otro centro de peso separado de él? El expositor responde que no. Si Yeshúa recibe toda autoridad (#matityahu_28_18), si todo fue dado en su mano (#iojanan_3_35), y si de él, por él y hacia él son todas las cosas (#romanos_11_36), entonces su gloria no es secundaria.
+La pregunta doctrinal que abre la clase es: si todo gira en torno a Yehoshua, ¿puede haber otro centro de peso separado de él? El expositor responde que no. Si Yehoshua recibe toda autoridad (#matityahu_28_18), si todo fue dado en su mano (#iojanan_3_35), y si de él, por él y hacia él son todas las cosas (#romanos_11_36), entonces su gloria no es secundaria.
 
-La clase aplica esto contra lecturas que hacen de Yeshúa un derivado, un segundo ser menor o una criatura exaltada. El argumento no empieza llamándolo solamente maestro, rabino o sabio; empieza confesando que en él está el único Elohim cumpliendo su propia palabra. Por eso la resurrección no es solo una señal poderosa, sino la demostración de una vida indestructible que la muerte no pudo retener.
+La clase aplica esto contra lecturas que hacen de Yehoshua un derivado, un segundo ser menor o una criatura exaltada. El argumento no empieza llamándolo solamente maestro, rabino o sabio; empieza confesando que en él está el único Elohim cumpliendo su propia palabra. Por eso la resurrección no es solo una señal poderosa, sino la demostración de una vida indestructible que la muerte no pudo retener.
 
 #### Zekharyah 12:10 y el traspasado
 
-La mención de #zekharyah_12_10 sirve para sostener que el que habla como יהוה es también el traspasado. La clase lo usa contra una separación occidental entre "Padre" e "Hijo" como si fueran dos centros de gloria. En ese marco, mirar al traspasado no es mirar a un delegado desconectado, sino reconocer el peso de יהוה manifestado corporalmente en Yeshúa.
+La mención de #zekharyah_12_10 sirve para sostener que el que habla como יהוה es también el traspasado. La clase lo usa contra una separación occidental entre "Padre" e "Hijo" como si fueran dos centros de gloria. En ese marco, mirar al traspasado no es mirar a un delegado desconectado, sino reconocer el peso de יהוה manifestado corporalmente en Yehoshua.
 
 Esta línea debe mantenerse con precisión: el texto de Zekharyah requiere análisis cuidadoso, pero en la clase funciona como testimonio de que la herida del Mesías no puede separarse de la identidad del que habla como יהוה.
 
 #### Eleazar como testimonio inmediato
 
-Después de explicar el peso de la glorificación, la clase vuelve a #iojanan_12_17. La multitud daba testimonio porque había visto a Yeshúa llamar a Eleazar del sepulcro y levantarlo de entre los muertos. Ese testimonio prepara el reconocimiento posterior: quien llama a un muerto y lo levanta ya está mostrando un peso que no corresponde a un maestro común.
+Después de explicar el peso de la glorificación, la clase vuelve a #iojanan_12_17. La multitud daba testimonio porque había visto a Yehoshua llamar a Eleazar del sepulcro y levantarlo de entre los muertos. Ese testimonio prepara el reconocimiento posterior: quien llama a un muerto y lo levanta ya está mostrando un peso que no corresponde a un maestro común.
 
-La resurrección de Eleazar no agota la gloria, pero anticipa su dirección. La obra mayor será la muerte y resurrección de Yeshúa mismo. Allí se hace notorio que él no solamente puede llamar a otro fuera del sepulcro, sino tomar de nuevo su propia vida.
+La resurrección de Eleazar no agota la gloria, pero anticipa su dirección. La obra mayor será la muerte y resurrección de Yehoshua mismo. Allí se hace notorio que él no solamente puede llamar a otro fuera del sepulcro, sino tomar de nuevo su propia vida.
 
 #### Conexiones principales
 
@@ -885,7 +885,7 @@ La resurrección de Eleazar no agota la gloria, pero anticipa su dirección. La 
 
 #### Conclusión
 
-Yojanán 12:16 enseña que los discípulos entendieron después, cuando Yeshúa fue glorificado. La clase propone que ese "después" no es solo un cambio de información, sino un cambio de reconocimiento: vieron el peso de Yeshúa. Lo escrito, las señales, la promesa, la muerte y la resurrección quedaron ordenadas alrededor de él.
+Yojanán 12:16 enseña que los discípulos entendieron después, cuando Yehoshua fue glorificado. La clase propone que ese "después" no es solo un cambio de información, sino un cambio de reconocimiento: vieron el peso de Yehoshua. Lo escrito, las señales, la promesa, la muerte y la resurrección quedaron ordenadas alrededor de él.
 
 La gloria, entonces, no es una luz decorativa alrededor del Mesías. Es el peso de su identidad y de su obra: el único Elohim respetando su propia palabra, viniendo en cuerpo, pasando por la muerte, venciendo las tinieblas y mostrando que de él, por él y hacia él son todas las cosas.
 
@@ -900,7 +900,7 @@ La gloria, entonces, no es una luz decorativa alrededor del Mesías. Es el peso 
 
 ##### Tesis
 
-La llegada de unos griegos que desean ver a Yeshúa no recibe una respuesta logística, sino una respuesta profética: "ha venido la hora" para que sea glorificado el Ben HaAdam. La clase lee esa escena como el punto donde la muerte del Mesías deja de ser solo conflicto con los líderes de Judea y se revela como el medio necesario para que la salvación de יהוה alcance también a las naciones.
+La llegada de unos griegos que desean ver a Yehoshua no recibe una respuesta logística, sino una respuesta profética: "ha venido la hora" para que sea glorificado el Ben HaAdam. La clase lee esa escena como el punto donde la muerte del Mesías deja de ser solo conflicto con los líderes de Judea y se revela como el medio necesario para que la salvación de יהוה alcance también a las naciones.
 
 El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se limita a las tribus de Yaakov, sino que incluye a los gentiles atraídos por la luz. Por eso la gloria del Mesías no se entiende como fama mundana, sino como כבוד y הדר restaurados después de su disminución voluntaria.
 
@@ -955,15 +955,15 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 
 #### Los griegos y la hora
 
-La petición de los griegos parece sencilla: quieren ver a Yeshúa. Pero la respuesta no es "que vengan" ni "ahora no", sino: ha venido la hora para que sea glorificado el Ben HaAdam. La clase entiende que la presencia de estos gentiles funciona como señal narrativa: el alcance de la obra ya está empujando más allá de los límites convencionales del templo y de Judea.
+La petición de los griegos parece sencilla: quieren ver a Yehoshua. Pero la respuesta no es "que vengan" ni "ahora no", sino: ha venido la hora para que sea glorificado el Ben HaAdam. La clase entiende que la presencia de estos gentiles funciona como señal narrativa: el alcance de la obra ya está empujando más allá de los límites convencionales del templo y de Judea.
 
-En esa línea se conecta #ieshaiahu_49_6. No bastaba levantar las tribus de Yaakov y hacer volver a los preservados de Israel; el Siervo sería puesto como luz de las naciones para que la salvación de יהוה llegara hasta el extremo de la tierra. Por eso los griegos que quieren ver a Yeshúa anticipan el fruto que vendrá después de su muerte.
+En esa línea se conecta #ieshaiahu_49_6. No bastaba levantar las tribus de Yaakov y hacer volver a los preservados de Israel; el Siervo sería puesto como luz de las naciones para que la salvación de יהוה llegara hasta el extremo de la tierra. Por eso los griegos que quieren ver a Yehoshua anticipan el fruto que vendrá después de su muerte.
 
 #### Ben HaAdam, disminución y corona
 
 La clase vuelve a Tehilim 8 para explicar que el Ben HaAdam aparece en condición disminuida: "lo disminuirás un poco menos que los Elohim" y luego "con כבוד y הדר lo coronarás". Ese patrón permite leer Yojanán 12 no como derrota, sino como trayectoria: disminución, muerte, fruto, exaltación.
 
-Ivrim 2 confirma esa lectura al aplicar Tehilim 8 a Yeshúa: fue disminuido y coronado con כבוד y הדר a causa del padecimiento de muerte. La "glorificación" de #iojanan_12_23 no es fama religiosa inmediata; es la recuperación manifiesta del peso que le corresponde después de haber entrado voluntariamente en la condición más baja posible para Elohim en este mundo.
+Ivrim 2 confirma esa lectura al aplicar Tehilim 8 a Yehoshua: fue disminuido y coronado con כבוד y הדר a causa del padecimiento de muerte. La "glorificación" de #iojanan_12_23 no es fama religiosa inmediata; es la recuperación manifiesta del peso que le corresponde después de haber entrado voluntariamente en la condición más baja posible para Elohim en este mundo.
 
 #### El grano de trigo
 
@@ -979,19 +979,19 @@ El discípulo que se aferra al כבוד liviano del mundo termina perdiendo aque
 
 #### Servicio, seguimiento y honra de Abba
 
-"Si alguno me sirve, me seguirá" desplaza la escena de la curiosidad al discipulado. Ver a Yeshúa no es asistir a un espectáculo ni admirar señales desde fuera. Servirlo implica seguirlo en la misma dirección: renunciar al prestigio del mundo y recibir la honra que Abba da.
+"Si alguno me sirve, me seguirá" desplaza la escena de la curiosidad al discipulado. Ver a Yehoshua no es asistir a un espectáculo ni admirar señales desde fuera. Servirlo implica seguirlo en la misma dirección: renunciar al prestigio del mundo y recibir la honra que Abba da.
 
 La clase contrasta dos honras incompatibles. El mundo ofrece כבוד y הדר por vías de competencia, abuso, fama, poder o concesiones morales. Abba honra al siervo que sigue al Mesías. Por eso #iojanan_alef_2_16 y #iaakov_4_4 funcionan como advertencia: los deseos del mundo y la amistad con el mundo no proceden de Abba.
 
 #### El mundo y la luz
 
-El expositor recuerda que Yojanán escribe después de la destrucción del templo y que el templo era visto como luz para las naciones. En ese marco, el énfasis de Yojanán sobre la luz adquiere fuerza: la luz del mundo ya no se localiza en el edificio destruido, sino en Yeshúa.
+El expositor recuerda que Yojanán escribe después de la destrucción del templo y que el templo era visto como luz para las naciones. En ese marco, el énfasis de Yojanán sobre la luz adquiere fuerza: la luz del mundo ya no se localiza en el edificio destruido, sino en Yehoshua.
 
-Los griegos llegaron atraídos por el culto y por el Elohim de Israel; la respuesta de Yeshúa muestra que el acceso definitivo no dependerá de mirar el templo, sino del Mesías glorificado por medio de la muerte y el fruto. Él es la luz para Israel y para las naciones.
+Los griegos llegaron atraídos por el culto y por el Elohim de Israel; la respuesta de Yehoshua muestra que el acceso definitivo no dependerá de mirar el templo, sino del Mesías glorificado por medio de la muerte y el fruto. Él es la luz para Israel y para las naciones.
 
 #### "Ahora está turbado mi ser"
 
-La clase lee #iojanan_12_27 a la luz de #tehilim_6_4: "mi נפש está turbada mucho; y tú, יהוה, ¿hasta cuándo?". La conexión exacta debe verificarse, pero el punto teológico de la clase es claro: Yeshúa no está improvisando frente a la hora. Sabe que esa hora implica angustia, vergüenza y muerte, pero no pide escapar de aquello para lo cual vino.
+La clase lee #iojanan_12_27 a la luz de #tehilim_6_4: "mi נפש está turbada mucho; y tú, יהוה, ¿hasta cuándo?". La conexión exacta debe verificarse, pero el punto teológico de la clase es claro: Yehoshua no está improvisando frente a la hora. Sabe que esa hora implica angustia, vergüenza y muerte, pero no pide escapar de aquello para lo cual vino.
 
 "¿Qué diré: Abba, sálvame de esta hora?" funciona como pregunta retórica. La Escritura ya había señalado el camino del korban de יהוה. La clase relaciona esto con #ivrim_12_2: por el gozo puesto delante de él, soportó el madero y menospreció la vergüenza.
 
@@ -1017,7 +1017,7 @@ La clase lee #iojanan_12_27 a la luz de #tehilim_6_4: "mi נפש está turbada m
 
 Yojanán 12:20-28 muestra que la llegada de los griegos no es un detalle accidental. La hora del Ben HaAdam llega porque el fruto prometido debe extenderse hasta las naciones. El Mesías será glorificado, pero por el camino del grano que cae en tierra, muere y produce mucho fruto.
 
-La clase convierte esa lectura en llamado de discipulado: no se puede buscar al mismo tiempo la gloria del mundo y la honra que Abba da. El que sirve a Yeshúa lo sigue; y el que lo sigue aprende a perder el כבוד pasajero de este olam para participar del fruto de vida olam.
+La clase convierte esa lectura en llamado de discipulado: no se puede buscar al mismo tiempo la gloria del mundo y la honra que Abba da. El que sirve a Yehoshua lo sigue; y el que lo sigue aprende a perder el כבוד pasajero de este olam para participar del fruto de vida olam.
 
 #### Ver también
 
@@ -1033,7 +1033,7 @@ La clase convierte esa lectura en llamado de discipulado: no se puede buscar al 
 
 ##### Tesis
 
-Yojanán 12:16-24 usa la llegada de unos griegos en Pesaj como punto de giro: cuando las naciones buscan ver a Yeshúa, él no responde con una escena de audiencia privada, sino anunciando que llegó la hora de que sea glorificado el Ben HaAdam. La clase entiende esa glorificación como **kabod**, el peso que se hace notorio, especialmente cuando el Mesías recibe sobre sí el peso del juicio y muere como el grano de trigo que cae en tierra para llevar mucho fruto.
+Yojanán 12:16-24 usa la llegada de unos griegos en Pesaj como punto de giro: cuando las naciones buscan ver a Yehoshua, él no responde con una escena de audiencia privada, sino anunciando que llegó la hora de que sea glorificado el Ben HaAdam. La clase entiende esa glorificación como **kabod**, el peso que se hace notorio, especialmente cuando el Mesías recibe sobre sí el peso del juicio y muere como el grano de trigo que cae en tierra para llevar mucho fruto.
 
 La línea principal no es que "gloria" signifique prestigio religioso, sino que יהוה hará sentir su peso delante del pueblo. Por eso el video conecta #iojanan_12_23-24 con #vaikra_10_3 y #ieshaiahu_49_1-6: el mismo Elohim se subordina a su propio juicio y, por su amor entrañable, recoge a Yaakov e Israel y abre la salvación hasta las naciones.
 
@@ -1090,7 +1090,7 @@ La línea principal no es que "gloria" signifique prestigio religioso, sino que 
 
 El expositor propone dos posibilidades: que fueran conversos ya incorporados a alguna facción judía de la antigua fe de Israel, o que estuvieran en proceso de conversión. De ahí surge el paréntesis sobre categorías fariseas de prosélitos, desde candidatos con exigencias mínimas hasta conversos plenamente integrados. La nota conserva la idea general, pero las categorías y nombres precisos deben verificarse en fuentes rabínicas.
 
-El punto narrativo es que las naciones ya están en movimiento hacia Yeshúa. Los perushim dicen que "el olam" va detrás de él, y casi inmediatamente aparecen griegos que quieren verlo. Esa búsqueda no recibe una respuesta turística o privada; recibe una interpretación mesiánica: llegó la hora del kabod.
+El punto narrativo es que las naciones ya están en movimiento hacia Yehoshua. Los perushim dicen que "el olam" va detrás de él, y casi inmediatamente aparecen griegos que quieren verlo. Esa búsqueda no recibe una respuesta turística o privada; recibe una interpretación mesiánica: llegó la hora del kabod.
 
 #### Filipos, Andreas y los nombres griegos
 
@@ -1100,7 +1100,7 @@ La observación ayuda a mantener equilibrio: el texto está escrito en griego y 
 
 #### Ben HaAdam no como traducción plana
 
-Cuando Yeshúa responde que llegó la hora de que sea glorificado el Ben HaAdam, la clase insiste en no traducir la expresión de manera plana como "el hijo del hombre". El problema no es que la traducción literal sea imposible, sino que en castellano se pierde la carga teológica.
+Cuando Yehoshua responde que llegó la hora de que sea glorificado el Ben HaAdam, la clase insiste en no traducir la expresión de manera plana como "el hijo del hombre". El problema no es que la traducción literal sea imposible, sino que en castellano se pierde la carga teológica.
 
 #iojanan_12_34 confirma que los oyentes no entendieron la frase como "un humano cualquiera". Preguntan: "¿Quién es este Ben HaAdam?" porque el concepto les crea tensión con lo que han escuchado sobre el Mesías. Para la clase, Ben HaAdam debe leerse como portador de la plenitud de la deidad, no como una categoría inferior al Mesías.
 
@@ -1108,7 +1108,7 @@ Esta sección continúa una línea ya presente en otras notas de Yojanán: si se
 
 #### Kabod: el peso que se hace notorio
 
-La palabra repetida de la clase es kabod. En #iojanan_12_16 los discípulos entienden después de que Yeshúa fue glorificado; en #iojanan_12_23 Yeshúa anuncia que llegó la hora de esa glorificación; en #iojanan_12_28 se pide que el Nombre sea glorificado; en #iojanan_12_41 Ieshaiahu vio su gloria; y en #iojanan_12_43 se contrasta la gloria de hombres con la gloria de Elohim.
+La palabra repetida de la clase es kabod. En #iojanan_12_16 los discípulos entienden después de que Yehoshua fue glorificado; en #iojanan_12_23 Yehoshua anuncia que llegó la hora de esa glorificación; en #iojanan_12_28 se pide que el Nombre sea glorificado; en #iojanan_12_41 Ieshaiahu vio su gloria; y en #iojanan_12_43 se contrasta la gloria de hombres con la gloria de Elohim.
 
 El expositor conecta esto con #vaikra_10_3. Después del fuego extraño de Nadav y Avihu, יהוה dice: "en los que se acercan a mí seré santificado, y delante de todo el pueblo seré glorificado". La clase interpreta ese "seré glorificado" como "haré sentir mi peso". יהוה no queda como una deidad decorativa ante la cual cualquiera se acerca de cualquier manera; su peso se hace visible en juicio.
 
@@ -1124,7 +1124,7 @@ La clase formula la síntesis así: el único Elohim se subordina a su propia pa
 
 #### Juicio, amor y resurrección
 
-El expositor insiste en leer יהוה y Elohim como lenguaje de atributos/oficios, no como personas separadas. En esta clase, יהוה se asocia al juicio y Elohim al amor entrañable. Por eso, cuando se dice que Elohim resucita a Yeshúa, la clase no quiere que se imagine a "otro Dios" levantando a un tercero, sino el ejercicio del amor entrañable como poder de resurrección.
+El expositor insiste en leer יהוה y Elohim como lenguaje de atributos/oficios, no como personas separadas. En esta clase, יהוה se asocia al juicio y Elohim al amor entrañable. Por eso, cuando se dice que Elohim resucita a Yehoshua, la clase no quiere que se imagine a "otro Dios" levantando a un tercero, sino el ejercicio del amor entrañable como poder de resurrección.
 
 Esta formulación exige cuidado. La nota conserva la enseñanza porque estructura la clase, pero la deja abierta a verificación léxica y teológica. Lo firme dentro del argumento es que el juicio y el amor no son dos deidades ni dos voluntades rivales: son atributos del único Elohim actuando en su propia promesa.
 
@@ -1132,12 +1132,12 @@ Esta formulación exige cuidado. La nota conserva la enseñanza porque estructur
 
 #iojanan_12_24 explica la forma concreta de la glorificación: el grano de trigo debe caer en tierra y morir. Si no muere, queda solo; si muere, lleva mucho fruto. La clase interpreta esto como la carga completa del juicio sobre el Mesías.
 
-La muerte de Yeshúa no es un accidente ni un fracaso frente a Roma. Es el momento en que el peso de toda transgresión humana recae sobre él, y solo Elohim puede cargar ese peso sin pecado. Por eso el video conecta la glorificación con #iojanan_12_32: al ser levantado de la tierra, atraerá a todos hacia sí. La muerte es el camino del fruto.
+La muerte de Yehoshua no es un accidente ni un fracaso frente a Roma. Es el momento en que el peso de toda transgresión humana recae sobre él, y solo Elohim puede cargar ese peso sin pecado. Por eso el video conecta la glorificación con #iojanan_12_32: al ser levantado de la tierra, atraerá a todos hacia sí. La muerte es el camino del fruto.
 
 #### Conexiones principales
 
 - #iojanan_12_16 con #iojanan_12_23: los discípulos entienden después que la glorificación era el punto de lectura de todo el evento.
-- #iojanan_12_20-21 con #ieshaiahu_49_1 y #ieshaiahu_49_6: los griegos que quieren ver a Yeshúa anticipan la luz para las naciones.
+- #iojanan_12_20-21 con #ieshaiahu_49_1 y #ieshaiahu_49_6: los griegos que quieren ver a Yehoshua anticipan la luz para las naciones.
 - #iojanan_12_23 con #iojanan_12_34: Ben HaAdam es una categoría teológica que los oyentes no logran resolver fácilmente.
 - #iojanan_12_23 con #vaikra_10_3: glorificar es hacer notorio el peso de יהוה ante el pueblo.
 - #iojanan_12_24 con #iojanan_12_32: el grano que muere y el levantamiento de la tierra apuntan a la misma muerte fructífera.
@@ -1155,7 +1155,7 @@ La muerte de Yeshúa no es un accidente ni un fracaso frente a Roma. Es el momen
 
 #### Conclusión
 
-La clase lee Yojanán 12 como un cambio de escala: las naciones empiezan a buscar a Yeshúa, pero la respuesta del Mesías no es espectáculo, sino cruz. El kabod del Ben HaAdam se revela cuando carga el peso del juicio, muere como grano de trigo y produce fruto para Israel y para las naciones.
+La clase lee Yojanán 12 como un cambio de escala: las naciones empiezan a buscar a Yehoshua, pero la respuesta del Mesías no es espectáculo, sino cruz. El kabod del Ben HaAdam se revela cuando carga el peso del juicio, muere como grano de trigo y produce fruto para Israel y para las naciones.
 
 Así, la gloria que Yojanán muestra no compite con el Tanaj. La conecta con #vaikra_10_3 y #ieshaiahu_49_1-6: יהוה hace sentir su peso, el siervo recoge a Yaakov e Israel, y la salvación alcanza hasta el extremo de la tierra.
 
@@ -1172,7 +1172,7 @@ Así, la gloria que Yojanán muestra no compite con el Tanaj. La conecta con #va
 
 Yojanán 12:35-43 muestra que ser "hijos de la luz" no es una identidad mística ni un rótulo de grupo, sino discipulado visible: caminar mientras la luz está presente, afirmarse en la luz y mostrar obras conformes al anuncio recibido. La clase insiste en que "hijo" incluye herencia, representación y discipulado; por eso el que dice portar la luz debe demostrar que escucha y obedece a la luz.
 
-El rechazo de las señales de Yeshúa llena la palabra de Ieshaiahu: el anuncio de יהוה estaba delante del pueblo, pero muchos no exhibieron fidelidad a él. El bloqueo no se explica por falta de evidencias, sino por haber antepuesto otra voz: la lógica propia, la opinión de otros, o una lectura religiosa que ya no escucha a la Torá y los Profetas.
+El rechazo de las señales de Yehoshua llena la palabra de Ieshaiahu: el anuncio de יהוה estaba delante del pueblo, pero muchos no exhibieron fidelidad a él. El bloqueo no se explica por falta de evidencias, sino por haber antepuesto otra voz: la lógica propia, la opinión de otros, o una lectura religiosa que ya no escucha a la Torá y los Profetas.
 
 #### Alcance de la nota
 
@@ -1211,7 +1211,7 @@ El rechazo de las señales de Yeshúa llena la palabra de Ieshaiahu: el anuncio 
 
 #### Hijos de la luz como discípulos
 
-Cuando Yeshúa dice "serán hijos de la luz" (#iojanan_12_36), la clase evita una lectura abstracta. "Hijo" no funciona solamente como procedencia o privilegio; también puede señalar a quien porta, representa y aprende de otro. Ser hijo de la luz implica hacerse discípulo de la luz.
+Cuando Yehoshua dice "serán hijos de la luz" (#iojanan_12_36), la clase evita una lectura abstracta. "Hijo" no funciona solamente como procedencia o privilegio; también puede señalar a quien porta, representa y aprende de otro. Ser hijo de la luz implica hacerse discípulo de la luz.
 
 Por eso el énfasis cae sobre caminar. #iojanan_12_35 no dice solo "miren la luz", sino "caminen mientras esté para ustedes la Luz". La identidad se demuestra en una práctica visible. La clase conecta esta idea con #devarim_11_1: amar a יהוה incluye guardar su guardia, decretos, procesos legales y mandamientos. El amor queda unido a obediencia, no solo a afecto verbal.
 
@@ -1219,9 +1219,9 @@ La parábola de los dos hijos en #matityahu_21_28-31 refuerza la misma línea: e
 
 #### Señales que apuntan más allá de sí mismas
 
-Yojanán afirma que Yeshúa hizo señales delante de ellos (#iojanan_12_37). La clase define señal como una acción, gesto o palabra que se entrega para indicar otra cosa. Por eso no se limita a milagros espectaculares; una señal puede ser también un acto profético.
+Yojanán afirma que Yehoshua hizo señales delante de ellos (#iojanan_12_37). La clase define señal como una acción, gesto o palabra que se entrega para indicar otra cosa. Por eso no se limita a milagros espectaculares; una señal puede ser también un acto profético.
 
-El ejemplo trabajado oralmente es la purificación del templo con el azote. Según la clase, Yeshúa no actúa como alguien que pierde el control, sino como quien dramatiza una advertencia: si la casa hecha para adoración se vuelve cueva de ladrones, vendrá juicio extranjero y desolación. Esa lectura debe ser cotejada con los relatos del templo, pero ayuda a explicar el punto general: una señal no se agota en el gesto; apunta al mensaje de יהוה.
+El ejemplo trabajado oralmente es la purificación del templo con el azote. Según la clase, Yehoshua no actúa como alguien que pierde el control, sino como quien dramatiza una advertencia: si la casa hecha para adoración se vuelve cueva de ladrones, vendrá juicio extranjero y desolación. Esa lectura debe ser cotejada con los relatos del templo, pero ayuda a explicar el punto general: una señal no se agota en el gesto; apunta al mensaje de יהוה.
 
 Así se entiende el problema de #iojanan_12_37. Las señales estaban delante de ellos, pero no se afirmaron en él. La falta no está en la claridad del testimonio, sino en la disposición del oído y del corazón.
 
@@ -1239,7 +1239,7 @@ La clase identifica una causa central del bloqueo: cuando la persona antepone su
 
 Por eso #mishlei_3_5-6 entra como pasaje de control: confiar en יהוה con todo el corazón excluye apoyarse en el propio entendimiento como autoridad final. No significa anular el discernimiento, sino someterlo a la palabra revelada. La clase insiste en que no hay un margen legítimo para mezclar "lo que Elohim dijo" con "lo que a mí me parece" cuando ambas cosas compiten.
 
-También #devarim_18_15 pesa sobre Yojanán: quien de verdad escuchó a Moshé debe escuchar al profeta que יהוה levantaría. El problema, entonces, no es que Yeshúa aparece desconectado de la Torá y los Profetas; el problema es que muchos leen la Torá y los Profetas sin oír el mensaje que conduce hacia él.
+También #devarim_18_15 pesa sobre Yojanán: quien de verdad escuchó a Moshé debe escuchar al profeta que יהוה levantaría. El problema, entonces, no es que Yehoshua aparece desconectado de la Torá y los Profetas; el problema es que muchos leen la Torá y los Profetas sin oír el mensaje que conduce hacia él.
 
 #### Emunah visible y gloria humana
 
@@ -1266,7 +1266,7 @@ La emunah, tal como se trabaja en la clase, no puede quedar reducida a una convi
 
 #### Conclusión
 
-La clase lee #iojanan_12_35-43 como una advertencia sobre la responsabilidad de la luz recibida. Yeshúa no deja a los oyentes en una curiosidad religiosa: llama a caminar, a afirmarse y a hacerse hijos de la luz. Las señales estaban delante de ellos, pero la fidelidad no brotó donde el oído ya estaba ocupado por otra voz.
+La clase lee #iojanan_12_35-43 como una advertencia sobre la responsabilidad de la luz recibida. Yehoshua no deja a los oyentes en una curiosidad religiosa: llama a caminar, a afirmarse y a hacerse hijos de la luz. Las señales estaban delante de ellos, pero la fidelidad no brotó donde el oído ya estaba ocupado por otra voz.
 
 Ieshaiahu no aparece como cita ornamental. Su palabra se llena cuando el anuncio de יהוה alcanza su colmo ante el Mesías y aun así es rechazado. La salida no es más información como acumulación, sino volver a escuchar: no apoyarse en la propia lógica, no amar la gloria humana, y obedecer al que la Torá y los Profetas ya estaban señalando.
 
@@ -1342,7 +1342,7 @@ El discípulo verdadero no queda definido por haber estado presente ante la ense
 
 #### El brazo revelado y el corazón cautivo
 
-#iojanan_12_37-38 presenta una tensión: hubo señales delante de ellos, pero no se afirmaron en Yeshúa. La clase responde desde #ieshaiahu_53_1: "¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?"
+#iojanan_12_37-38 presenta una tensión: hubo señales delante de ellos, pero no se afirmaron en Yehoshua. La clase responde desde #ieshaiahu_53_1: "¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?"
 
 El punto no es que faltaran datos públicos. El punto es que la palabra debe ser revelada por יהוה para que pase del oído a la obra. El expositor describe la emunah como el sistema educativo de יהוה: quien nunca estuvo en esa escuela no puede producir el fruto de esa escuela.
 
@@ -1362,11 +1362,11 @@ También aparece la imagen del velo en el corazón, conectada con #qorintiyim_be
 
 La imagen usada en el fragmento es una tela sujeta con clavos a un marco. Si cae sobre ella un peso mayor, la tela se desgarra o se arranca de aquello que la tenía fija. Así se explica el kabod del Mesías: su peso rompe las ataduras de la ceguera, del velo y de Satanás.
 
-Por eso #iojanan_12_46 resume el argumento: Yeshúa vino como luz al olam para que todo el que se afirme en él no permanezca en oscuridad. La liberación no es una mejora moral superficial; es traslado desde tinieblas hacia luz.
+Por eso #iojanan_12_46 resume el argumento: Yehoshua vino como luz al olam para que todo el que se afirme en él no permanezca en oscuridad. La liberación no es una mejora moral superficial; es traslado desde tinieblas hacia luz.
 
 #### El kabod de los hombres
 
-#iojanan_12_42-43 muestra que algunos líderes se afirmaron en Yeshúa, pero no lo confesaban por miedo a ser expulsados de la asamblea. La clase lo llama una radiografía del corazón: amaban más el kabod de los hombres que el kabod de Elohim.
+#iojanan_12_42-43 muestra que algunos líderes se afirmaron en Yehoshua, pero no lo confesaban por miedo a ser expulsados de la asamblea. La clase lo llama una radiografía del corazón: amaban más el kabod de los hombres que el kabod de Elohim.
 
 Esta oposición explica por qué el mundo venidero y el mundo presente compiten en el corazón humano. Si el peso de los hombres, la reputación, la aceptación y la pertenencia social pesan más, entonces la confesión queda bloqueada. El problema no es falta de evidencia, sino cautividad a un peso falso.
 
@@ -1378,13 +1378,13 @@ En medio del desarrollo, la clase hace un excursus sobre los dones y la profecí
 
 El expositor contrasta esto con el uso espectacular de dones. Una congregación puede impresionarse con señales, lenguas o predicciones, pero una persona queda afirmada con más seguridad cuando permanece porque escuchó palabra de Elohim. La palabra podrá seguir siendo proclamada todos los días; la búsqueda de señales no puede ser el fundamento del discipulado.
 
-#### Yeshúa, el enviado y la palabra jurada
+#### Yehoshua, el enviado y la palabra jurada
 
-#iojanan_12_44-45 se lee como continuidad entre Yeshúa y el que lo envió: quien se afirma en Yeshúa se afirma en el que lo envió, y quien lo ve ve al que lo envió. La clase insiste en que Yeshúa no trae palabras propias separadas, así como Ieshaiáhu o Irmeiahu no hablaban desde invención humana.
+#iojanan_12_44-45 se lee como continuidad entre Yehoshua y el que lo envió: quien se afirma en Yehoshua se afirma en el que lo envió, y quien lo ve ve al que lo envió. La clase insiste en que Yehoshua no trae palabras propias separadas, así como Ieshaiáhu o Irmeiahu no hablaban desde invención humana.
 
 El expositor conecta el envío del Mesías con el juramento de יהוה, especialmente la promesa a Avraham. La palabra jurada de יהוה es lo que envía al Mesías: él viene porque יהוה asumió la responsabilidad de cumplir lo que prometió.
 
-En este punto también aparece una advertencia doctrinal: no convertir al Mesías en un mensajero creado o en un "otro" separado, porque el mundo venidero no fue sujeto a ángeles. La clase mantiene que en Yeshúa está יהוה cumpliendo en persona su propia palabra.
+En este punto también aparece una advertencia doctrinal: no convertir al Mesías en un mensajero creado o en un "otro" separado, porque el mundo venidero no fue sujeto a ángeles. La clase mantiene que en Yehoshua está יהוה cumpliendo en persona su propia palabra.
 
 #### Conexiones principales
 
@@ -1407,7 +1407,7 @@ En este punto también aparece una advertencia doctrinal: no convertir al Mesía
 
 El fragmento presenta #iojanan_12_36-47 como llamado a salir de las tinieblas por medio de una emunah que se ve. La luz exige andar; el oído debe guardar; la palabra debe hacerse obra. Cuando esto no ocurre, el texto revela una condición más profunda que ignorancia: ceguera, velo, corazón pesado y amor al kabod humano.
 
-La buena noticia del pasaje es que Yeshúa vino como luz para que quien se afirme en él no permanezca en oscuridad. El kabod que Ieshaiáhu vio no es una idea abstracta: es el peso del Mesías, capaz de romper el dominio de las tinieblas y hacer que la palabra de יהוה produzca fruto en los que oyen y guardan.
+La buena noticia del pasaje es que Yehoshua vino como luz para que quien se afirme en él no permanezca en oscuridad. El kabod que Ieshaiáhu vio no es una idea abstracta: es el peso del Mesías, capaz de romper el dominio de las tinieblas y hacer que la palabra de יהוה produzca fruto en los que oyen y guardan.
 
 #### Ver también
 
@@ -1421,15 +1421,15 @@ La buena noticia del pasaje es que Yeshúa vino como luz para que quien se afirm
 
 ##### Tesis
 
-Yojanán 12:47-50 cierra el discurso público de Yeshúa mostrando dos efectos de la misma palabra: salva al olam cuando es escuchada y guardada, pero juzga en el día postrero a quien la rechaza. La clase insiste en que oír no basta; la palabra fue dada para ser guardada, y esa obediencia visible revela si la salvación produjo libertad, santidad y una vida ordenada por el Rúaj.
+Yojanán 12:47-50 cierra el discurso público de Yehoshua mostrando dos efectos de la misma palabra: salva al olam cuando es escuchada y guardada, pero juzga en el día postrero a quien la rechaza. La clase insiste en que oír no basta; la palabra fue dada para ser guardada, y esa obediencia visible revela si la salvación produjo libertad, santidad y una vida ordenada por el Rúaj.
 
-La enseñanza también une el juicio final con la vida olam: el mandamiento de Abba no es una instrucción vacía, sino la vida eterna prometida. Por eso Yeshúa no habla desde iniciativa propia; habla como el Mesías en quien יהוה cumple su propia palabra, sus promesas y sus designios para Israel.
+La enseñanza también une el juicio final con la vida olam: el mandamiento de Abba no es una instrucción vacía, sino la vida eterna prometida. Por eso Yehoshua no habla desde iniciativa propia; habla como el Mesías en quien יהוה cumple su propia palabra, sus promesas y sus designios para Israel.
 
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota sintetiza la clase y no reproduce el video palabra por palabra.
 - El fragmento disponible cubre principalmente #iojanan_12_47-50; aunque al inicio se anuncia una transición hacia el capítulo 13, la transcripción entregada se detiene al cierre de #iojanan_12_50.
-- La clase retoma temas previos de Yojanán 12: ceguera de #ieshaiahu_6_10, peso/gloria de Yeshúa, juicio del olam y obediencia visible.
+- La clase retoma temas previos de Yojanán 12: ceguera de #ieshaiahu_6_10, peso/gloria de Yehoshua, juicio del olam y obediencia visible.
 - Las identificaciones de "día postrero" con Sheminí Atzéret, y las distinciones técnicas entre verbos hebreos de juicio/perdón, quedan conservadas como líneas de estudio pendientes de cotejo.
 
 #### Hoja de comparación
@@ -1466,13 +1466,13 @@ La enseñanza también une el juicio final con la vida olam: el mandamiento de A
 
 #### La palabra que se escucha y se guarda
 
-La clase abre retomando la discusión anterior sobre #ieshaiahu_6_10 y la ceguera del pueblo. La lectura propuesta es que la incapacidad de ver, oír y comprender está ligada a la obra de Satanás y solo se rompe por la revelación de la gloria de Yeshúa. En ese contexto, #iojanan_12_47 no trata un simple "oír" informativo, sino una palabra que debe ser guardada.
+La clase abre retomando la discusión anterior sobre #ieshaiahu_6_10 y la ceguera del pueblo. La lectura propuesta es que la incapacidad de ver, oír y comprender está ligada a la obra de Satanás y solo se rompe por la revelación de la gloria de Yehoshua. En ese contexto, #iojanan_12_47 no trata un simple "oír" informativo, sino una palabra que debe ser guardada.
 
 El expositor insiste en una distinción práctica: cualquiera puede escuchar; el que realmente escuchó lo muestra guardando la palabra. La obediencia no compra la salvación, pero sí revela que la palabra fue recibida. Por eso la clase conecta este punto con la exhortación apostólica a ser hacedores y no solo oidores.
 
 #### Salvación que produce santidad
 
-Yeshúa dice que no vino a juzgar al olam, sino a salvarlo. La clase no entiende esa salvación como tolerancia religiosa ni como paz ecuménica basada en ignorar el pecado. Frente a la "pax" del mundo, que puede conservar orden tolerando idolatría, injusticia o rebelión, la salvación del Mesías implica santidad.
+Yehoshua dice que no vino a juzgar al olam, sino a salvarlo. La clase no entiende esa salvación como tolerancia religiosa ni como paz ecuménica basada en ignorar el pecado. Frente a la "pax" del mundo, que puede conservar orden tolerando idolatría, injusticia o rebelión, la salvación del Mesías implica santidad.
 
 La línea de #romanos_6_22 es central: liberados del pecado, hechos siervos de Elohim, con fruto para santidad y fin en vida olam. La salvación no es una licencia para hacer la propia voluntad. Si alguien recibió la salvación y las arras del Rúaj, la santidad debe volverse lógica, natural y consustancial a su nueva vida.
 
@@ -1480,7 +1480,7 @@ La clase define santidad no solo como apartarse, sino como ser distinguido y sab
 
 #### Contra una salvación facilista y escapista
 
-El expositor critica dos deformaciones del mensaje de salvación. La primera es facilista: "Yeshúa lo hizo todo, por tanto no tienes responsabilidad". La clase aclara que Yeshúa sí cumple lo imposible para el hombre, pero ese cumplimiento no elimina el llamado a andar en santidad.
+El expositor critica dos deformaciones del mensaje de salvación. La primera es facilista: "Yehoshua lo hizo todo, por tanto no tienes responsabilidad". La clase aclara que Yehoshua sí cumple lo imposible para el hombre, pero ese cumplimiento no elimina el llamado a andar en santidad.
 
 La segunda deformación es escapista: una expectativa de ser retirado de toda dificultad sin asumir responsabilidad histórica. La clase no convierte la salvación en miedo a perderla, pero tampoco la deja como excusa para pasividad. El salvo no se pregunta si puede hacer su voluntad; aprende a proceder conforme al Rúaj.
 
@@ -1492,15 +1492,15 @@ La decisión de Yaakov se presenta como un orden inicial: no inquietar a los gen
 
 #### Andar conforme al Rúaj
 
-#romanos_8_1 se lee como equivalente de #iojanan_12_47: no hay condenación para los que están en Yeshúa el Mesías y no andan conforme a la carne, sino conforme al Rúaj. "Andar" se entiende de modo hebreo: caminar, proceder, conducirse.
+#romanos_8_1 se lee como equivalente de #iojanan_12_47: no hay condenación para los que están en Yehoshua el Mesías y no andan conforme a la carne, sino conforme al Rúaj. "Andar" se entiende de modo hebreo: caminar, proceder, conducirse.
 
 Por eso andar en el Rúaj no se reduce a ayunos, atmósferas, visiones o lenguaje espiritual. La prueba está en la conducta. #romanos_8_7 define la carne como enemistad contra Elohim porque no se sujeta a la Torah de Elohim ni puede hacerlo. En la clase, el espiritual es el que puede sujetarse a la voluntad de Elohim porque fue liberado para obedecer.
 
 #### La palabra como juez en el día postrero
 
-#iojanan_12_48 dice que quien rechaza a Yeshúa y no recibe sus palabras ya tiene juez: la palabra hablada lo juzgará en el día final. La clase subraya que el juicio no es externo a la palabra; la palabra misma será criterio, defensa y condenación.
+#iojanan_12_48 dice que quien rechaza a Yehoshua y no recibe sus palabras ya tiene juez: la palabra hablada lo juzgará en el día final. La clase subraya que el juicio no es externo a la palabra; la palabra misma será criterio, defensa y condenación.
 
-Aquí se propone una distinción lexical entre juzgar como defender justicia e inocencia, y juzgar como condenar. Para los que están en Yeshúa, la palabra cumplida en ellos declara limpieza y justificación. Para los impíos, esa misma palabra revela rechazo, infidelidad y servicio al príncipe de este olam.
+Aquí se propone una distinción lexical entre juzgar como defender justicia e inocencia, y juzgar como condenar. Para los que están en Yehoshua, la palabra cumplida en ellos declara limpieza y justificación. Para los impíos, esa misma palabra revela rechazo, infidelidad y servicio al príncipe de este olam.
 
 #### Día postrero, alegría y Sheminí Atzéret
 
@@ -1512,21 +1512,21 @@ La nota conserva esta línea como hipótesis de estudio. La relación entre Yoja
 
 La clase vuelve varias veces a la libertad. El mundo promete libertad, pero mantiene al hombre cautivo de deseos, sistema económico, presión social, miedo y dependencia. La salida de Mitzraim funciona como ejemplo: muchos fueron sacados físicamente, pero sus corazones deseaban volver a la esclavitud cuando apareció la dificultad.
 
-El expositor niega que el hombre tenga libertad natural para obedecer. La libertad natural del hombre caído es libertad para desobedecer. Solo Yeshúa libera de la dependencia del mundo y de las propias concupiscencias. Esa libertad no es desconexión pasiva, como ciertas formas de desapego religioso; es actuar conforme al deber ser, perseguir la justicia y poner límites al mal.
+El expositor niega que el hombre tenga libertad natural para obedecer. La libertad natural del hombre caído es libertad para desobedecer. Solo Yehoshua libera de la dependencia del mundo y de las propias concupiscencias. Esa libertad no es desconexión pasiva, como ciertas formas de desapego religioso; es actuar conforme al deber ser, perseguir la justicia y poner límites al mal.
 
 #### Abba como fuente de la palabra prometida
 
-#iojanan_12_49 introduce la razón por la cual la palabra de Yeshúa tiene ese peso: "no he hablado de Mí mismo". La clase advierte que Yeshúa está hablando ante personas que todavía no comprenden plenamente quién es él, por eso insiste en que no trae una doctrina improvisada.
+#iojanan_12_49 introduce la razón por la cual la palabra de Yehoshua tiene ese peso: "no he hablado de Mí mismo". La clase advierte que Yehoshua está hablando ante personas que todavía no comprenden plenamente quién es él, por eso insiste en que no trae una doctrina improvisada.
 
 Abba se explica como la fuente de la palabra revelada: las promesas hechas desde Bereshit, la semilla que aplasta a la serpiente, el profeta como Moshé, Eliahu preparando el camino, el rey montado en pollino, el traspasado que será mirado. Abba no aparece como un ser separado que envía a otro dios menor; nombra la institución, fuente y compendio de los designios de יהוה.
 
-En ese marco, Yeshúa es el Mesías de יהוה porque el único Elohim se sujeta a su propia palabra y la cumple en cuerpo. No habla otra cosa distinta de lo prometido; si lo hiciera, el pueblo no podría reconocer la fidelidad de יהוה.
+En ese marco, Yehoshua es el Mesías de יהוה porque el único Elohim se sujeta a su propia palabra y la cumple en cuerpo. No habla otra cosa distinta de lo prometido; si lo hiciera, el pueblo no podría reconocer la fidelidad de יהוה.
 
 #### El mandamiento es vida olam
 
 #iojanan_12_50 cierra con una afirmación fuerte: el mandamiento de Abba es vida olam. La clase lo conecta con las expresiones "Elohim vivo" o "El vivo" en #devarim_5_26, #iehoshua_3_10 e #irmeiahu_10_10. El Elohim verdadero no comunica solamente información religiosa; comunica vida.
 
-Conocer esa vida no es conocimiento intelectual. Es conocimiento vivencial que se traduce en conducta, santidad y obediencia. Por eso la palabra que Yeshúa habla no puede separarse del mandamiento, ni el mandamiento puede separarse de vida olam.
+Conocer esa vida no es conocimiento intelectual. Es conocimiento vivencial que se traduce en conducta, santidad y obediencia. Por eso la palabra que Yehoshua habla no puede separarse del mandamiento, ni el mandamiento puede separarse de vida olam.
 
 #### Israel como proyecto de los designios de Elohim
 
@@ -1536,7 +1536,7 @@ Desde ahí, llamar Abba a Elohim es reconocer la fuente de esa existencia, heren
 
 #### Conexiones principales
 
-- [[yojanan_12_gloria_peso_palabra|Yojanán 12: la gloria como peso de la palabra]]: antecedente inmediato para la revelación del peso de Yeshúa.
+- [[yojanan_12_gloria_peso_palabra|Yojanán 12: la gloria como peso de la palabra]]: antecedente inmediato para la revelación del peso de Yehoshua.
 - [[yojanan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]]: desarrolla el juicio del olam y la glorificación del Nombre en la hora del Mesías.
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]]: continúa la explicación de Abba como fuente de promesa, nombre y obra.
 - [[yojanan_conceptos_deidad|Yojanán: conceptos de deidad]]: marco para no separar Abba, palabra y Mesías como centros rivales.
@@ -1553,9 +1553,9 @@ Desde ahí, llamar Abba a Elohim es reconocer la fuente de esa existencia, heren
 
 #### Conclusión
 
-La clase lee el cierre de Yojanán 12 como una advertencia y una consolación. La palabra de Yeshúa no vino primero para condenar al olam, sino para salvarlo; pero quien la rechaza no queda sin juez, porque esa misma palabra lo juzgará en el día final.
+La clase lee el cierre de Yojanán 12 como una advertencia y una consolación. La palabra de Yehoshua no vino primero para condenar al olam, sino para salvarlo; pero quien la rechaza no queda sin juez, porque esa misma palabra lo juzgará en el día final.
 
-Para los que reciben la palabra, el juicio tiene otro rostro: la palabra cumplida en ellos declara vida, libertad y santidad. El mandamiento de Abba es vida olam, y Yeshúa habla exactamente esa palabra porque en él יהוה cumple lo que prometió desde el principio.
+Para los que reciben la palabra, el juicio tiene otro rostro: la palabra cumplida en ellos declara vida, libertad y santidad. El mandamiento de Abba es vida olam, y Yehoshua habla exactamente esa palabra porque en él יהוה cumple lo que prometió desde el principio.
 
 #### Ver también
 
