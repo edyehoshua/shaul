@@ -1,24 +1,15 @@
 ---
-title: "Identidad, fruto y reconciliación en Colosenses 1"
-description: "Nota canónica de Colosenses 1: identidad de la comunidad, fruto del evangelio, primacía de Yehoshua y reconciliación para perseverar en la emunah."
+title: "Colosenses 1: sabiduría, herencia y plenitud"
+description: "Lectura de Colosenses 1:9-20: oración por sabiduría, herencia en la luz y la proclamación de la primacía de Yehoshua."
 date: 2026-07-26
 tags:
   - colosenses
-  - identidad
-  - emunah
-  - evangelio
-  - fruto
-  - reconciliacion
+  - sabiduria
+  - herencia
+  - redencion
+  - plenitud
   - yehoshua
 references:
-  - "#colossians_1_1"
-  - "#colossians_1_2"
-  - "#colossians_1_3"
-  - "#colossians_1_4"
-  - "#colossians_1_5"
-  - "#colossians_1_6"
-  - "#colossians_1_7"
-  - "#colossians_1_8"
   - "#colossians_1_9"
   - "#colossians_1_10"
   - "#colossians_1_11"
@@ -31,134 +22,94 @@ references:
   - "#colossians_1_18"
   - "#colossians_1_19"
   - "#colossians_1_20"
-  - "#colossians_1_21"
-  - "#colossians_1_22"
-  - "#colossians_1_23"
-  - "#colossians_1_24"
-  - "#colossians_1_25"
-  - "#colossians_1_26"
-  - "#colossians_1_27"
-  - "#colossians_1_28"
-  - "#colossians_1_29"
-  - "#deuteronomy_4_2"
   - "#deuteronomy_4_6"
-  - "#deuteronomy_30_6"
+  - "#ieshaiahu_29_13"
+  - "#ieshaiahu_29_14"
+
 sources:
-  - "https://www.youtube.com/watch?v=8vhNM-b0fso"
-  - "https://www.youtube.com/watch?v=LSfmSufaylQ"
   - "https://www.youtube.com/watch?v=tGwLek2HUgA"
-  - "https://www.youtube.com/watch?v=9jV0e76Vc1I"
-  - "https://www.youtube.com/watch?v=x2w72oTT-rY"
-  - "private/transcripts/ericdejes/8vhNM-b0fso.md"
-  - "private/transcripts/ericdejes/LSfmSufaylQ.md"
   - "private/transcripts/ericdejes/tGwLek2HUgA.md"
-  - "private/transcripts/ericdejes/9jV0e76Vc1I.md"
-  - "private/transcripts/ericdejes/x2w72oTT-rY.md"
   - "docs/scriptures/delitzsch/json/colossians.json"
   - "docs/scriptures/oe/json/deuteronomy/4.json"
-  - "docs/scriptures/oe/json/deuteronomy/30.json"
+  - "docs/scriptures/oe/json/yeshayahu/29.json"
+
 source_ids:
-  - "youtube:8vhNM-b0fso"
-  - "youtube:LSfmSufaylQ"
   - "youtube:tGwLek2HUgA"
-  - "youtube:9jV0e76Vc1I"
-  - "youtube:x2w72oTT-rY"
 translation: "[Delitzsch, OE]"
 ---
 
 # Tesis
 
-Colosenses 1 presenta una comunidad llamada santa y fiel en el Mesías, cuya emunah y amor brotan de la esperanza anunciada en el evangelio. La oración apostólica pide que ese conocimiento se vuelva caminar, fruto, resistencia y gratitud; el himno concentra creación, comunidad y reconciliación en la primacía de Yehoshua. El cierre aplica esa reconciliación a quienes antes estaban alejados y los exhorta a permanecer fundados en la emunah.
+Colosenses 1:9-20 une la oración por conocimiento de la voluntad de Elohim con una vida que da fruto, una herencia en la luz y la redención en el Hijo amado. La sesión culmina en el himno que atribuye a Yehoshua centralidad respecto de la creación, la comunidad, la resurrección y la reconciliación. El texto ofrece esa secuencia; las equivalencias hebreas, las reconstrucciones sobre corrientes antiguas y las conclusiones sobre fórmulas doctrinales se conservan como propuestas de la clase y no como sustitutos del pasaje.
 
 ## Alcance de la nota
 
-Esta es la nota canónica para el capítulo 1. Integra las cinco sesiones locales de Eric de Jesús Rodríguez Mendoza: «Introducción», «Cap 1A», «Cap 1B», «Cap 1C» y «1D». La sesión añadida recorre #colossians_1_24-29 (00:03:02–00:58:24), tras el cierre anterior en #colossians_1_21-23. La transcripción automática se emplea para localizar y resumir los argumentos, no como cita literal verificable.
+Esta nota continúa [[colosenses_1_emunah_amor_esperanza_fruto|Colosenses 1: emunah, amor, esperanza y fruto]] a partir de «A los colosenses (parte 3) Cap 1B». La clase sigue #colossians_1_9-20 desde la petición por sabiduría e inteligencia hasta la reconciliación por la sangre del madero (00:03:13–01:08:19). La transcripción automática sirve para ubicar los argumentos, no se reproduce como cita literal.
 
-Las conexiones con la Torah, Hebreos u otros pasajes se distinguen del argumento explícito de Colosenses. También se mantienen como propuestas de la clase las equivalencias etimológicas y las reconstrucciones históricas o doctrinales que no quedan demostradas por el pasaje.
+El expositor relaciona el vocabulario de sabiduría con #deuteronomy_4_6, #ieshaiahu_29_13-14 y #tehilim_4_4, y desarrolla una lectura alta de Yehoshua. Esas conexiones se distinguen de las afirmaciones explícitas de Colosenses, especialmente cuando dependen de juegos de palabras, traducciones propias o descripciones históricas no documentadas en la sesión.
 
 ## Hoja de comparación
 
-| Referencia                         | Texto local                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Observación textual                                                                                                                                         |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #colossians_1_1-2                  | **פולוס שליח ישוע המשיח ברצון אלהים וטימותיוס אחינו׃ אל־הקדשים והאחים הנאמנים במשיח אשר הם בקולסא חסד לכם ושלום מאת האלהים אבינו ואדונינו ישוע המשיח׃**                                                                                                                                                                                                                                                                                                                    | Pablo se presenta como enviado por voluntad de Elohim y saluda a santos y fieles en el Mesías.                                                              |
-| #colossians_1_3-6                  | **מודים אנחנו לאלהים אבי אדנינו ישוע המשיח ונתפלל בעדכם תמיד׃ כי שמענו אמונתכם במשיח ישוע ואהבתכם את כל־הקדשים׃ בעבור התקוה הצפונה לכם בשמים ונודעה לכם מקדם בדבר־אמת של־הבשורה׃ הבאה אליכם ולכל־העולם ותפרה ותרבה גם־בתוככם למן־היום אשר שמעתם והכרתם באמת את חסד אלהים׃**                                                                                                                                                                                                | Acción de gracias, emunah, amor, esperanza y fruto aparecen enlazados.                                                                                      |
-| #colossians_1_7-10                 | **כאשר גם־למדתם מן־אפפרס החביב העבד עמי אשר־הוא משרת נאמן בעדכם למשיח׃ והוא גם־הודיע אתנו את־אהבתכם ברוח׃ בעבור זאת גם־אנחנו למן־היום אשר שמענוה לא חדלנו להתפלל בעדכם ולבקש שתמלאו דעת רצון האלהים בכל־חכמה ותבונה רוחנית׃ להתהלך כטוב בעיני האדון וככל־חפצו ולעשות פרי בכל־מעשה טוב ולרבות ולהוסיף לדעת אלהים׃**                                                                                                                                                         | Epafras comunica el amor de la comunidad; la oración dirige el conocimiento hacia un caminar fructífero.                                                    |
-| #colossians_1_11-14                | **להתחזק בכל־כח כגבורת כבודו לכל־סבלנות וארך רוח עם־שמחה׃ ולתת תודה לאבינו המזכה אתנו בחלק נחלת הקדשים באור׃ אשר הוא חלצנו מממשלת החשך והעבירנו למלכות בן־אהבתו׃ אשר יש־לנו בו הפדיון בדמו סליחת החטאים׃**                                                                                                                                                                                                                                                                 | Fuerza, paciencia, gozo y gratitud acompañan la herencia, el traslado y la redención.                                                                       |
-| #colossians_1_15-20                | **והוא צלם האלהים הנעלם ובכור כל־נברא׃ כי־בו נברא כל אשר בשמים ואשר בארץ כל הנראה וכל אשר־איננו נראה הן כסאות וממשלות הן שררות ורשיות הכל נברא על־ידו ולמענהו׃ והוא לפני הכל והכל קים בו׃ והוא ראש גוף העדה אשר הוא ראשית ובכור מעם המתים למען יהיה הראשון בכל׃ כי־כן היה הרצון לשכן בו את־כל המלוא׃ ולרצות לעצמו את־הכל על־ידו בעשותו שלום בדם־צלובו על־ידו הן אשר בארץ הן אשר בשמים׃**                                                                                   | El himno proclama la centralidad de Yehoshua respecto de creación, comunidad, resurrección y reconciliación.                                                |
-| #colossians_1_21-23                | **וגם־אתם אשר הייתם מלפנים מוזרים ואיבים בנטות לבבכם אחרי המעשים הרעים׃ עתה רצה אתכם בגוף בשרו על־ידי מותו להעמידכם לפניו קדשים ובלי־מום ודפי׃ אם־תעמדו מיסדים ונכונים באמונה ולא תמוטו מתוחלת הבשורה אשר שמעתם ואשר נשמעה לכל־הנברא תחת השמים ואשר אני פולוס הייתי לה למשרת׃**                                                                                                                                                                                            | El contraste es entre la alienación anterior y la reconciliación en el cuerpo de su carne, con una exhortación a permanecer.                                |
-| #colossians_1_24-29                | **עתה הנני שמח בענויי אשר אני סבל למענכם ואמלא מהשחסר מיסורי המשיח בבשרי בעד גופו היא העדה׃ אשר הייתי לה למשרת כפיפקדת אלהים אשר נתנהלי עליכם למלאת אתדבר האלהים׃ אתהסוד אשר היה נעלם מעולמים ומדור ודור ועתה נגלה לקדושיו׃ אשררצה האלהים להודיעם איזה הוא עשר כבוד הסוד ההוא בגוים והוא המשיח אשר בכם אשר הוא תקות הכבוד׃ ואותו משמיעים אנחנו בהוכיחנו כלאיש ובלמדנו כלאיש בכלחכמה למען העמיד כלאיש שלם במשיח ישוע׃ ובזאת אףאני עמל ומתגושש כפיפעלת כחו הפעל בי בגבורה׃** | Pablo une su servicio y sufrimiento por la comunidad con el misterio ahora revelado, la esperanza de gloria, la enseñanza y el trabajo que opera con poder. |
-| #deuteronomy_4_2, #deuteronomy_4_6 | **לא תספו על־הדבר אשר אנכי מצוה אתכם ולא תגרעו ממנו לשמר את־מצות יהוה אלהיכם אשר אנכי מצוה אתכם׃ ושמרתם ועשיתם כי הוא חכמתכם ובינתכם לעיני העמים**                                                                                                                                                                                                                                                                                                                         | La clase usa estas palabras para hablar de no añadir y de sabiduría que se practica.                                                                        |
-| #deuteronomy_30_6                  | **ומל יהוה אלהיך את־לבבך ואת־לבב זרעך לאהבה את־יהוה אלהיך בכל־לבבך ובכל־נפשך למען חייך**                                                                                                                                                                                                                                                                                                                                                                                   | La sesión relaciona la promesa de un corazón transformado con el movimiento de reconciliación.                                                              |
+| Referencia          | Texto local                                                                                                                                                                                                | Función en la lectura                                                                                                                       |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| #colossians_1_9-10  | **בעבור זאת גם־אנחנו למן־היום אשר שמענוה לא חדלנו להתפלל בעדכם ולבקש שתמלאו דעת רצון האלהים בכל־חכמה ותבונה רוחנית׃ להתהלך כטוב בעיני האדון וככל־חפצו ולעשות פרי בכל־מעשה טוב ולרבות ולהוסיף לדעת אלהים׃** | La oración pide conocimiento de la voluntad de Elohim y lo dirige hacia una conducta digna, fruto y crecimiento en su conocimiento.         |
+| #colossians_1_11-12 | **להתחזק בכל־כח כגבורת כבודו לכל־סבלנות וארך רוח עם־שמחה׃ ולתת תודה לאבינו המזכה אתנו בחלק נחלת הקדשים באור׃**                                                                                             | Poder, resistencia, paciencia, gozo y gratitud preparan la mención de la herencia de los santos en la luz.                                  |
+| #colossians_1_13-14 | **אשר הוא חלצנו מממשלת החשך והעבירנו למלכות בן־אהבתו׃ אשר יש־לנו בו הפדיון בדמו סליחת החטאים׃**                                                                                                            | La liberación del dominio de las tinieblas y el traslado al reino del Hijo se vinculan con redención y perdón.                              |
+| #colossians_1_15-17 | **והוא צלם האלהים הנעלם ובכור כל־נברא׃ כי־בו נברא כל אשר בשמים ואשר בארץ כל הנראה וכל אשר־איננו נראה הן כסאות וממשלות הן שררות ורשיות הכל נברא על־ידו ולמענהו׃ והוא לפני הכל והכל קים בו׃**                | El himno habla del Hijo como imagen del Elohim invisible, anterior a todo, y sitúa la creación en relación con él.                          |
+| #colossians_1_18-20 | **והוא ראש גוף העדה אשר הוא ראשית ובכור מעם המתים למען יהיה הראשון בכל׃ כי־כן היה הרצון לשכן בו את־כל המלוא׃ ולרצות לעצמו את־הכל על־ידו בעשותו שלום בדם־צלובו על־ידו הן אשר בארץ הן אשר בשמים׃**           | La misma proclamación lo nombra cabeza de la comunidad, primogénito de entre los muertos, morada de la plenitud y agente de reconciliación. |
+| #deuteronomy_4_6    | **ושמרתם ועשיתם כי הוא חכמתכם ובינתכם לעיני העמים אשר ישמעון את כל החקים האלה ואמרו רק עם חכם ונבון הגוי הגדול הזה**                                                                                       | La clase usa el binomio «sabiduría e inteligencia» como antecedente para la oración de Pablo.                                               |
+| #ieshaiahu_29_13-14 | **ויאמר אדני יען כי נגש העם הזה בפיו ובשפתיו כבדוני ולבו רחק ממני ותהי יראתם אתי מצות אנשים מלמדה׃ לכן הנני יוסיף להפליא את העם הזה הפלא ופלא ואבדה חכמת חכמיו ובינת נבניו תסתתר**                         | El expositor contrasta la sabiduría que Pablo pide con una religiosidad reducida a mandamientos humanos.                                    |
 
-## Una identidad recibida y una vida visible
+## Conocimiento que se hace camino y fruto
 
-El saludo llama a los destinatarios santos y fieles en el Mesías (#colossians_1_1-2). La primera clase aplica esa identidad contra la pretensión de obtener santidad mediante requisitos añadidos y enlaza la advertencia con #deuteronomy_4_2. El límite de no añadir ni quitar pertenece al texto de Deuteronomio; decidir cómo se aplica a una práctica posterior requiere contexto, y no autoriza a desechar toda costumbre comunitaria sin examen.
+Pablo no presenta el conocimiento de la voluntad de Elohim como acumulación de datos. Ora para que la comunidad sea llena de ese conocimiento «en toda sabiduría e inteligencia espiritual» y, de inmediato, describe un caminar digno, fruto en toda obra buena y crecimiento en el conocimiento de Elohim (#colossians_1_9-10). La clase destaca esta continuidad y rechaza una espiritualidad meramente informativa (00:03:13–00:05:35; 00:23:36–00:24:17).
 
-La acción de gracias de Pablo concreta esa identidad: ha oído de la emunah de los colosenses en el Mesías Yehoshua y de su amor por los santos (#colossians_1_3-4). La esperanza anunciada en el evangelio sostiene esa vida y el evangelio da fruto y crece (#colossians_1_5-6). La aplicación de la clase —que la confianza no quede aislada de servicio y amor— sigue el movimiento del pasaje, aunque no debe reducir cada término a una definición única.
+La conexión con #deuteronomy_4_6 es sugestiva porque allí Israel es llamado a guardar y practicar, y esto se nombra sabiduría e inteligencia ante los pueblos. Sin embargo, Colosenses no cita Deuteronomio en estos versículos; la correspondencia debe tratarse como lectura intertextual, no como cita demostrable. De manera semejante, #ieshaiahu_29_13-14 critica un temor aprendido como mandamiento humano, pero no autoriza a aplicar ese reproche sin matices a una tradición o a un grupo contemporáneo.
 
-## Conocimiento que camina, resiste y agradece
+## Fuerza para resistencia, gratitud y herencia
 
-La oración pide conocimiento de la voluntad de Elohim «en toda sabiduría e inteligencia espiritual», pero su finalidad inmediata es un caminar digno, fruto en toda obra buena y crecimiento en el conocimiento de Elohim (#colossians_1_9-10). La relación con #deuteronomy_4_6 es una lectura intertextual sugestiva: ambos textos unen sabiduría y práctica, pero Colosenses no cita aquí Deuteronomio.
+La oración continúa con fortalecimiento según el poder de la gloria de Elohim «para toda paciencia y longanimidad», unido al gozo y a la gratitud (#colossians_1_11-12). La sesión propone distinguir una resistencia activa de la paciencia y relaciona ambas con una firmeza que no se desplaza por objeciones (00:33:00–00:35:48). El texto sí incluye ambas disposiciones; precisar su relación semántica requiere cotejar el griego y el uso contextual.
 
-En #colossians_1_11-14, Pablo enlaza fortalecimiento, paciencia, longanimidad, gozo y gratitud con la participación en la herencia de los santos en la luz. Luego nombra liberación del dominio de las tinieblas, traslado al reino del Hijo amado, redención y perdón. La clase distingue resistencia y paciencia como disposiciones complementarias; esa precisión debe cotejarse con el griego y el contexto de la carta.
+Pablo da gracias al Padre que capacitó a los creyentes para participar de la herencia de los santos «en la luz». La clase interpreta la luz de manera mesiánica (00:36:00–00:37:15). Es una conexión posible dentro del vocabulario apostólico, pero #colossians_1_12 no define por sí solo «luz» ni explica de forma exhaustiva la herencia.
 
-## La primacía de Yehoshua y la reconciliación
+## Traslado, redención y la lectura del Hijo amado
 
-El himno de #colossians_1_15-20 encadena afirmaciones sobre Yehoshua: imagen del Elohim invisible, primogénito de toda creación, anterior a todo, cabeza del cuerpo que es la comunidad y primogénito de entre los muertos. Culmina con la plenitud y la reconciliación por medio de la sangre de su cruz. El resultado textual seguro es su primacía en creación, comunidad y resurrección; el alcance preciso de «todas las cosas» debe leerse dentro del argumento completo de la carta.
+#colossians_1_13-14 proclama que Elohim libró del dominio de las tinieblas, trasladó al reino de su Hijo amado y concedió redención, el perdón de los pecados. La sesión concentra su exposición en «Hijo de su amor» y en la unidad de la obra redentora (00:39:40–00:47:00). La nota conserva el centro del pasaje: la acción salvadora de Elohim se expresa mediante el reino del Hijo y mediante la redención que está en él.
 
-La clase aproxima **(εἰκών)** a **(תמונה)**, **(πρωτότοκος)** a _bekhor_ y **(ἀρχή)** a _reshit_. Son ayudas pedagógicas, no equivalencias automáticas entre el griego de Colosenses y términos hebreos. Del mismo modo, su lectura de la reconciliación mediante _kipur_ y sus desarrollos sacrificiales requieren verificación léxica e intertextual antes de presentarse como significado necesario de #colossians_1_20.
+La explicación de la clase acerca de **(אבא)**, «hijo» como portador y el amor divino como única categoría de redención es teológica y terminológica. No debe presentarse como una traducción necesaria de las expresiones de Pablo ni como resolución automática de toda pregunta sobre la relación entre el Padre y el Hijo.
 
-## De la alienación a permanecer en la emunah
+## El himno: creación, cuerpo y reconciliación
 
-#colossians_1_21 no describe una separación abstracta: recuerda a quienes estaban antes alienados y enemigos en su mente, expresándolo en obras malas. #colossians_1_22 contrapone el «ahora»: la reconciliación ocurre en el cuerpo de carne de Yehoshua por medio de su muerte, con el propósito de presentarlos santos, sin mancha e irreprochables. La sesión conecta este pasaje con #deuteronomy_30_6 y con Hebreos 10 para explicar reconciliación, cuerpo y ofrenda (00:02:24–00:21:20).
+#colossians_1_15-20 encadena afirmaciones sobre Yehoshua: imagen del Elohim invisible, primogénito de toda creación, relación con todas las cosas creadas, anterioridad a todo, cabeza del cuerpo que es la comunidad, primogénito de entre los muertos y primacía en todo. El himno concluye con la plenitud que habita en él y la reconciliación de todas las cosas por medio de la sangre de su cruz.
 
-Esas conexiones pueden orientar una lectura canónica, pero la etimología propuesta entre términos griegos y hebreos —incluida la explicación de **(ἄμωμος)** mediante _mum_— no se establece solo por semejanza sonora. Además, la referencia de la clase a requisitos corporales de Levítico debe manejarse con sensibilidad: el texto no permite convertir una condición ritual antigua en juicio moral sobre las personas con discapacidad.
+La clase expone **(εἰκών)** junto con **(תמונה)**, **(πρωτότοκος)** junto con _bekhor_, y **(ἀρχή)** junto con _reshit_ (00:47:52–01:01:25). Estas aproximaciones pueden iluminar preguntas de traducción, pero no son equivalencias automáticas: el texto de Colosenses está en griego y requiere ser interpretado en su propia sintaxis y contexto. Asimismo, la afirmación de que ciertas traducciones añaden «Padre» en #colossians_1_19 debe cotejarse contra ediciones griegas y contra cada versión antes de formular una conclusión textual.
 
-La frase condicional de #colossians_1_23 llama a permanecer fundados y firmes en la emunah, sin ser removidos de la esperanza del evangelio. Conviene conservar ambas dimensiones: la reconciliación es la obra que el texto atribuye a Yehoshua, y la comunidad recibe una exhortación real a perseverar en la esperanza que oyó.
-
-## Servicio, misterio y madurez en la comunidad
-
-La continuación de la clase sitúa el gozo de Pablo en sus padecimientos «por vosotros» y su servicio en favor del cuerpo, la comunidad (#colossians_1_24-25; 00:03:02–00:24:55). El texto sí vincula su sufrimiento, su ministerio y la comunidad; no dice que la obra reconciliadora de Yehoshua fuese insuficiente. Por eso, la expresión difícil de #colossians_1_24 requiere atención sintáctica y comparación con el argumento de la carta, antes de convertirla en una teoría general sobre sufrimiento vicario.
-
-En #colossians_1_26-27, Pablo llama «misterio» a algo antes oculto y ahora revelado a los santos, cuya riqueza de gloria entre las naciones se expresa como «el Mesías en vosotros, la esperanza de gloria». La clase desarrolla este bloque mediante una propuesta sobre corporeidad divina y conexiones con Juan, Hebreos y Proverbios (00:24:55–00:54:07). Es una lectura teológica de la sesión, no una glosa que el pasaje establezca por sí solo; las equivalencias propuestas entre términos hebreos y las traducciones discutidas deben verificarse en los textos y léxicos correspondientes.
-
-El cierre orienta el misterio hacia una práctica de anuncio, amonestación, enseñanza y trabajo: presentar a toda persona madura o completa en el Mesías Yehoshua (#colossians_1_28-29; 00:54:07–00:58:24). La exhortación de la clase a responder con respeto ante oposición puede acompañar esa tarea, pero las aplicaciones contemporáneas sobre grupos, instituciones o circunstancias de censura no constituyen el sentido exhaustivo del pasaje y deben evaluarse separadamente.
+La conclusión segura del pasaje es amplia y suficiente: la creación, la comunidad, la resurrección, la plenitud y la reconciliación quedan concentradas en la proclamación de la primacía de Yehoshua. La amplitud de «todas las cosas» y la mecánica precisa de esa reconciliación deben leerse junto con el argumento completo de la carta, no definirse solo por una paráfrasis doctrinal.
 
 ## Hoja léxica
 
-| Forma                                        | Función en la lectura                                                | Cautela                                                                                      |
-| -------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **(ἀπόστολος)** / **(שליח)**                 | Pablo se presenta como enviado en #colossians_1_1.                   | La aproximación funcional no demuestra equivalencia histórica exacta.                        |
-| **(πίστις)** / **(אמונה)**                   | Emunah de la comunidad en #colossians_1_4 y #colossians_1_23.        | No reducirla sin más a educación recibida, ni a una sola glosa española.                     |
-| **(εἰκών)**, **(πρωτότοκος)**, **(πλήρωμα)** | Términos relevantes en #colossians_1_15-19.                          | Requieren análisis sintáctico y contextual antes de extraer una fórmula doctrinal completa.  |
-| **(ἀποκαταλλάσσω)**                          | Reconciliar en #colossians_1_20 y su aplicación en #colossians_1_22. | No imponerle una etimología hebrea por asociación pedagógica.                                |
-| **(ἄμωμος)**                                 | «Sin mancha» en el propósito de #colossians_1_22.                    | La relación propuesta con _mum_ debe verificarse con léxicos, no solo por parecido fonético. |
+| Forma                       | Sentido en la nota                                 | Tipo de relación                                                    | Cautela                                                                                              |
+| --------------------------- | -------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **(σοφία)** / **(σύνεσις)** | sabiduría e inteligencia en #colossians_1_9        | Términos griegos del pasaje; la clase los acerca a #deuteronomy_4_6 | No fijar una división rígida entre promesas y procedimientos sin estudio léxico.                     |
+| **(εἰκών)**                 | imagen en #colossians_1_15                         | La clase lo aproxima a **(תמונה)**                                  | La equivalencia con «aspecto visible» es una propuesta pedagógica que debe cotejarse.                |
+| **(πρωτότοκος)**            | primogénito en #colossians_1_15 y #colossians_1_18 | La clase lo relaciona con _bekhor_ y primacía                       | El término necesita análisis contextual; no reducirlo de antemano a origen temporal ni solo a rango. |
+| **(πλήρωμα)**               | plenitud en #colossians_1_19                       | Término central del himno                                           | No convertir la explicación de la clase sobre «morada» en definición exhaustiva sin cotejo.          |
+| **(ἀποκαταλλάσσω)**         | reconciliar en #colossians_1_20                    | Verbo del cierre del himno                                          | Examinar su alcance en Colosenses antes de concluir un sistema completo de restauración.             |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar los términos **(ἀπόστολος)**, **(πίστις)**, **(εἰκών)**, **(πρωτότοκος)**, **(πλήρωμα)**, **(ἀποκαταλλάσσω)** y **(ἄμωμος)** con léxicos y gramáticas.
-- [ ] Examinar la relación entre #colossians_1_9-10 y #deuteronomy_4_6, y entre #colossians_1_21-23 y #deuteronomy_30_6, sin convertir las conexiones de la clase en citas de Pablo.
-- [ ] Verificar la lectura de _kipur_ como explicación de reconciliación y la relación propuesta entre **(ἄμωμος)** y _mum_.
-- [ ] Documentar con fuentes históricas las afirmaciones sobre cultos, dualismo o corrientes oponentes en Colosas antes de usarlas como trasfondo de la carta.
-- [ ] Comparar #colossians_1_19 y #colossians_1_23 con ediciones griegas y traducciones antes de sostener afirmaciones sobre añadidos o matices de versiones particulares.
-- [ ] Examinar #colossians_1_24 en su sintaxis griega y en relación con la suficiencia de la reconciliación afirmada en #colossians_1_20-22.
-- [ ] Verificar la propuesta de la clase sobre «misterio», corporeidad divina, _kopher_, _kavod_ y los enlaces con Proverbios, Juan y Hebreos; no tratarlos como equivalencias léxicas ya demostradas.
+- [ ] Cotejar la relación intertextual propuesta entre #colossians_1_9 y #deuteronomy_4_6, así como el uso de #ieshaiahu_29_13-14 en la clase.
+- [ ] Verificar con léxicos y gramáticas el alcance de **(ὑπομονή)**, **(μακροθυμία)**, **(εἰκών)**, **(πρωτότοκος)**, **(ἀρχή)** y **(πλήρωμα)** en Colosenses 1.
+- [ ] Revisar la afirmación de que **(אבא)** aplicado a Elohim es exclusivo del Evangelio y sus implicaciones históricas; la transcripción no proporciona una cita verificable.
+- [ ] Comparar #colossians_1_19 con ediciones griegas críticas y versiones citadas antes de afirmar que una traducción añade «Padre».
+- [ ] Documentar el trasfondo de los supuestos «dos flancos» gnóstico y fariseo de Colosas antes de usarlo como explicación histórica de la carta.
 
 ## Conclusión
 
-Colosenses 1 une la identidad recibida en el Mesías con una vida de emunah, amor, fruto, resistencia y gratitud. La oración de Pablo no separa conocimiento y caminar, y el himno no separa la primacía de Yehoshua de la reconciliación que anuncia. El cierre vuelve esa proclamación personal y comunitaria: quienes fueron alienados son reconciliados para ser presentados ante él y llamados a permanecer en la esperanza del evangelio.
+La oración de Pablo pide una comunidad llena del conocimiento de la voluntad de Elohim, pero ese conocimiento se reconoce en caminar digno, fruto, resistencia, gratitud y participación en la herencia de la luz. Desde allí el himno proclama que Yehoshua tiene la primacía sobre la creación, el cuerpo y la resurrección, y que la reconciliación ocurre por medio de él. La clase ofrece conexiones que pueden orientar el estudio; el texto debe conservar el lugar principal al evaluar sus desarrollos léxicos e históricos.
 
 ## Ver también
 
+- [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
+- [[colosenses_1_emunah_amor_esperanza_fruto|Colosenses 1: emunah, amor, esperanza y fruto]]
 - [[tesalonicenses_2_verdad_enganio_firmeza|2 Tesalonicenses 2: verdad, engaño y firmeza]]
-- [[tesalonicenses_2_comunidad_trabajo_correccion_paz|2 Tesalonicenses 3: comunidad, trabajo, corrección y paz]]
-
-## Créditos
-
-- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los Colosenses (parte 1) Introducción](https://www.youtube.com/watch?v=8vhNM-b0fso) — transcripción de trabajo: `private/transcripts/ericdejes/8vhNM-b0fso.md`.
-- [A los Colosenses (parte 2) Cap 1A](https://www.youtube.com/watch?v=LSfmSufaylQ) — transcripción de trabajo: `private/transcripts/ericdejes/LSfmSufaylQ.md`.
-- [A los colosenses (parte 3) Cap 1B](https://www.youtube.com/watch?v=tGwLek2HUgA) — transcripción de trabajo: `private/transcripts/ericdejes/tGwLek2HUgA.md`.
-- [A los colosenses (parte 4) Cap 1C](https://www.youtube.com/watch?v=9jV0e76Vc1I) — transcripción de trabajo: `private/transcripts/ericdejes/9jV0e76Vc1I.md`.
-- [A los colosenses (parte 5) 1D](https://www.youtube.com/watch?v=x2w72oTT-rY) — transcripción de trabajo: `private/transcripts/ericdejes/x2w72oTT-rY.md`.
-- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
