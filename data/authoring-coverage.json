@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 78,
-  "pending_videos": 815,
-  "transcript_notes": 33,
+  "covered_videos": 81,
+  "pending_videos": 812,
+  "transcript_notes": 36,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
     "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
@@ -30,6 +30,10 @@
     "4nYEkCmDn14": [
       "content/besorah/yojanan_11_eleazar_resurreccion_vida.md",
       "content/besorah/yojanan_11_lazaro_gloria_testimonio.md"
+    ],
+    "rPdnT_4WoC0": [
+      "content/tanaj/tehilim_67_bendicion_naciones_y_justicia.md",
+      "content/tanaj/tehilim_68_יהוה_levanta_libera_y_recibe_alabanza.md"
     ]
   },
   "playlists": {
@@ -105,7 +109,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 90,
-      "covered": 3,
+      "covered": 4,
       "lane": "yojanan"
     },
     "Uncategorized": {
