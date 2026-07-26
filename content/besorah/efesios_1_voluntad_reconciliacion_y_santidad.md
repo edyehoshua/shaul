@@ -15,6 +15,9 @@ references:
   - "#ephesians_1_4"
   - "#ephesians_1_5"
   - "#ephesians_1_6"
+  - "#ephesians_1_7"
+  - "#ephesians_1_8"
+  - "#ephesians_1_9"
   - "#corinthians2_5_17"
   - "#corinthians2_5_18"
   - "#corinthians2_5_19"
@@ -37,6 +40,8 @@ sources:
   - "private/transcripts/ericdejes/6gCUX55_ID0.md"
   - "https://www.youtube.com/watch?v=qsn5BfZMZ8o"
   - "private/transcripts/ericdejes/qsn5BfZMZ8o.md"
+  - "https://www.youtube.com/watch?v=9Tzh2oZtmAk"
+  - "private/transcripts/ericdejes/9Tzh2oZtmAk.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
@@ -46,6 +51,7 @@ sources:
 source_ids:
   - "youtube:6gCUX55_ID0"
   - "youtube:qsn5BfZMZ8o"
+  - "youtube:9Tzh2oZtmAk"
 translation: "[Delitzsch]"
 ---
 
@@ -62,16 +68,16 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 
 ## Hoja de comparación
 
-| Referencia                     | Texto local (Delitzsch, sin nikud)                                                                                                                                                                                                                 | Función en la clase                                                                                                          |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_1_1                 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃**                                                                                                                                                              | Pablo se presenta como enviado de Yehoshua el Mesías por voluntad de Elohim y saluda a los santos y fieles.                  |
-| #ephesians_1_3-6               | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכלברכת רוח במרומים במשיח׃**; **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה׃**; **יעדנו לו לבנים עלידי ישוע המשיח כרצון חפצו׃**; **לתהלת כבוד חסדו אשרחנן אתנו בידידו׃**       | La segunda clase lee bendición, elección, filiación y alabanza dentro de la obra de Elohim en el Mesías.                     |
-| #corinthians2_5_17-19          | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃**; **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃**; **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃** | La clase asocia la voluntad de Elohim con nueva creación, reconciliación y el encargo de su palabra.                         |
-| #thessalonians1_4_3            | **כי זה רצון האלהים קדשתכם להתרחק מן־הזנות׃**                                                                                                                                                                                                      | Nombra explícitamente la santidad como voluntad de Elohim y llama a apartarse de la inmoralidad sexual.                      |
-| #thessalonians1_5_18-22        | **הודו על־הכל כי־זה רצון אלהים במשיח ישוע אליכם׃**; **את־הרוח לא תכבו׃**; **בחנו כל־דבר ובטוב אחזו׃**; **התרחקו מכל־הדומה לרע׃**                                                                                                                   | La gratitud, el discernimiento y el apartarse de lo malo forman la aplicación final de la sesión.                            |
-| #peter1_2_15-17                | **כי כן רצון אלהים שתעשו הטוב ותסכרו את־פי אולת האנשים אשר אין־בם דעת׃**; **כחפשים ולא־כאלו היתה לכם החפשה למכסה הרעה כי אם־כעבדי אלהים׃**; **נהגו כבוד בכל־איש אהבו את האחים יראו את־אלהים כבדו את המלך׃**                                        | Hacer el bien y usar la libertad como siervos de Elohim delimitan la exhortación práctica.                                   |
-| #colossians_3_1-4              | **לכן אםקמתם עםהמשיח בקשו את אשר למעלה אשר המשיח ישב שם לימין האלהים׃**; **את אשר למעלה יהגה לבבכם לא אתאשר בארץ׃**; **כימתם וחייכם צפונים עםהמשיח באלהים׃**; **בעת הגלות המשיח אשר הוא חייכם גםאתם תגלו עמו בכבוד׃**                              | La segunda clase lo convoca para orientar la mirada a lo alto y para hablar de una vida escondida con el Mesías.             |
-| #matthew_13_35; #matthew_25_34 | **למלאת את אשר דבר הנביא לאמר אפתחה במשל פי אביעה חידות מניקדם׃**; **אז יאמר המלך אלהנצבים לימינו באו ברוכי אבי ורשו אתהמלכות המוכנה לכם למןהוסד העולם׃**                                                                                          | La clase los remite para proponer una lectura de «fundación del mundo»; la conexión es interpretativa y queda por verificar. |
+| Referencia                     | Texto local (Delitzsch, sin nikud)                                                                                                                                                                                                                                                                                                                                                          | Función en la clase                                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ephesians_1_1                 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃**                                                                                                                                                                                                                                                                                                       | Pablo se presenta como enviado de Yehoshua el Mesías por voluntad de Elohim y saluda a los santos y fieles.                                   |
+| #ephesians_1_3-9               | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכלברכת רוח במרומים במשיח׃**; **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה׃**; **יעדנו לו לבנים עלידי ישוע המשיח כרצון חפצו׃**; **לתהלת כבוד חסדו אשרחנן אתנו בידידו׃**; **אשרבו לנו הפדיום בדמו וסליחת הפשעים כרב חסדו׃**; **אשר בא עלינו בשפעחכמה והשכל׃**; **והודיע אתנו אתסוד חפצו כרצונו ועצתו מראש אשר יעץ בו׃** | Las clases 2 y 3 leen bendición, elección, filiación, rescate, perdón y la revelación del propósito dentro de la obra de Elohim en el Mesías. |
+| #corinthians2_5_17-19          | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃**; **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃**; **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃**                                                                                                                                          | La clase asocia la voluntad de Elohim con nueva creación, reconciliación y el encargo de su palabra.                                          |
+| #thessalonians1_4_3            | **כי זה רצון האלהים קדשתכם להתרחק מן־הזנות׃**                                                                                                                                                                                                                                                                                                                                               | Nombra explícitamente la santidad como voluntad de Elohim y llama a apartarse de la inmoralidad sexual.                                       |
+| #thessalonians1_5_18-22        | **הודו על־הכל כי־זה רצון אלהים במשיח ישוע אליכם׃**; **את־הרוח לא תכבו׃**; **בחנו כל־דבר ובטוב אחזו׃**; **התרחקו מכל־הדומה לרע׃**                                                                                                                                                                                                                                                            | La gratitud, el discernimiento y el apartarse de lo malo forman la aplicación final de la sesión.                                             |
+| #peter1_2_15-17                | **כי כן רצון אלהים שתעשו הטוב ותסכרו את־פי אולת האנשים אשר אין־בם דעת׃**; **כחפשים ולא־כאלו היתה לכם החפשה למכסה הרעה כי אם־כעבדי אלהים׃**; **נהגו כבוד בכל־איש אהבו את האחים יראו את־אלהים כבדו את המלך׃**                                                                                                                                                                                 | Hacer el bien y usar la libertad como siervos de Elohim delimitan la exhortación práctica.                                                    |
+| #colossians_3_1-4              | **לכן אםקמתם עםהמשיח בקשו את אשר למעלה אשר המשיח ישב שם לימין האלהים׃**; **את אשר למעלה יהגה לבבכם לא אתאשר בארץ׃**; **כימתם וחייכם צפונים עםהמשיח באלהים׃**; **בעת הגלות המשיח אשר הוא חייכם גםאתם תגלו עמו בכבוד׃**                                                                                                                                                                       | La segunda clase lo convoca para orientar la mirada a lo alto y para hablar de una vida escondida con el Mesías.                              |
+| #matthew_13_35; #matthew_25_34 | **למלאת את אשר דבר הנביא לאמר אפתחה במשל פי אביעה חידות מניקדם׃**; **אז יאמר המלך אלהנצבים לימינו באו ברוכי אבי ורשו אתהמלכות המוכנה לכם למןהוסד העולם׃**                                                                                                                                                                                                                                   | La clase los remite para proponer una lectura de «fundación del mundo»; la conexión es interpretativa y queda por verificar.                  |
 
 ## El envío no comienza en una ambición privada
 
@@ -107,6 +113,16 @@ Al explicar #ephesians_1_4, el expositor entiende «antes de la fundación del m
 
 Por ello, la contribución más segura de la clase es mantener el objeto y el propósito que el texto expresa: la elección es «en él» y tiene como horizonte santidad, filiación y alabanza de la gracia. Las explicaciones sobre el momento preciso de la «fundación», el alcance de la elección y la relación entre gracia, fe y respuesta humana requieren examen textual y contextual más amplio.
 
+## Filiación, rescate y revelación del propósito
+
+La tercera clase retoma #ephesians_1_5-9 (00:04:42–01:15:01). El texto local encadena tres afirmaciones: Elohim destinó para filiación por medio de Yehoshua el Mesías «conforme al beneplácito de su voluntad»; en el Amado hay rescate por su sangre y perdón de los pecados; y Elohim dio a conocer el misterio de su voluntad. Por tanto, la unidad textual no limita la voluntad a una idea abstracta: la vincula con filiación, gracia, redención, perdón, sabiduría y la comunicación de un propósito.
+
+La clase propone leer el verbo de #ephesians_1_5 como una distinción hecha manifiesta, y no como un decreto que elimine toda responsabilidad humana (00:05:00–00:23:27). También conecta la filiación con una vida cuyo fruto sea reconocible (00:23:31–00:40:40). Es una propuesta interpretativa y léxica de la sesión: el Delitzsch local dice **יעדנו** («nos destinó») y el versículo no desarrolla por sí solo todas las cuestiones sobre determinismo, libertad o el alcance de la elección. El lector debe cotejar el griego, los demás usos del verbo y el argumento completo de Pablo antes de fijar aquella glosa.
+
+En #ephesians_1_7-8, el pasaje afirma el rescate «en su sangre», el perdón de los pecados y la abundancia de la gracia en sabiduría y entendimiento. La clase relaciona estos términos con rescate, restitución y restauración (00:41:26–01:06:23). Esa distinción puede servir para explorar el alcance de la redención, pero «restitución» no debe sustituir automáticamente el término que el texto presenta como perdón, ni la imagen de un pago debe convertirse sin más en un esquema completo de a quién se pagó o cómo opera el sacrificio.
+
+La clase interpreta el «misterio de su voluntad» de #ephesians_1_9 como la revelación pública de la obra reconciliadora de Yehoshua (01:06:26–01:15:01). El versículo sí afirma que Elohim dio a conocer ese misterio conforme a su beneplácito y propósito; identificarlo exhaustivamente con una formulación cristológica particular o derivar de ello límites de comunión con otras personas excede lo que el versículo afirma de manera inmediata.
+
 ## Hoja léxica
 
 | Forma               | Transliteración      | Sentido en la nota             | Tipo de relación                                                                 | Cautela                                                                                                                                |
@@ -126,6 +142,9 @@ Por ello, la contribución más segura de la clase es mantener el objeto y el pr
 - [ ] Revisar si la reconciliación puede presentarse como definición exhaustiva de la voluntad de Elohim o como el eje temático propuesto por esta clase.
 - [ ] Examinar el contexto completo de #thessalonians1_4_1-8 antes de convertir las aplicaciones de la sesión sobre matrimonio, temor y confianza en reglas universales.
 - [ ] Cotejar la afirmación de que todo mal se identifica simplemente con lo que no restaura o no favorece la vida; el criterio requiere una base bíblica y contextual más precisa.
+- [ ] Revisar el análisis léxico de la tercera clase para #ephesians_1_5: la explicación de _proorizo_ como «distinguir públicamente» necesita cotejo con léxicos, sintaxis y sus usos en el corpus griego antes de reemplazar traducciones establecidas.
+- [ ] Distinguir cuidadosamente entre rescate, perdón y restitución en #ephesians_1_7; la clase los relaciona, pero el alcance de cada imagen requiere estudio textual y contextual.
+- [ ] Examinar #ephesians_1_9 en el flujo de #ephesians_1_3-14 antes de identificar de forma exhaustiva el «misterio» con una sola formulación doctrinal.
 
 ## Conclusión
 
@@ -144,5 +163,7 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
   - Transcripción: `private/transcripts/ericdejes/6gCUX55_ID0.md` (`source_id: youtube:6gCUX55_ID0`).
 - «La carta a los Efesios Parte 2 ¿Predestinados?» — https://www.youtube.com/watch?v=qsn5BfZMZ8o
   - Transcripción: `private/transcripts/ericdejes/qsn5BfZMZ8o.md` (`source_id: youtube:qsn5BfZMZ8o`).
+- «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk
+  - Transcripción: `private/transcripts/ericdejes/9Tzh2oZtmAk.md` (`source_id: youtube:9Tzh2oZtmAk`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
