@@ -11,13 +11,29 @@ tags:
 references:
   - "#iojanan_17_1"
   - "#iojanan_17_2"
+  - "#iojanan_17_6"
+  - "#iojanan_17_9"
+  - "#iojanan_17_11"
+  - "#iojanan_17_12"
 sources:
   - "https://www.youtube.com/watch?v=D6aGd1j3ykk"
   - "private/transcripts/ericdejes/D6aGd1j3ykk.md"
+  - "https://www.youtube.com/watch?v=Ex-emGJGcPc"
+  - "private/transcripts/ericdejes/Ex-emGJGcPc.md"
+  - "https://www.youtube.com/watch?v=o6rOivQHyU4"
+  - "private/transcripts/ericdejes/o6rOivQHyU4.md"
+  - "https://www.youtube.com/watch?v=lSvhJYfcr7I"
+  - "private/transcripts/ericdejes/lSvhJYfcr7I.md"
+  - "https://www.youtube.com/watch?v=nDaOsVpkAyU"
+  - "private/transcripts/ericdejes/nDaOsVpkAyU.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:D6aGd1j3ykk"
+  - "youtube:Ex-emGJGcPc"
+  - "youtube:o6rOivQHyU4"
+  - "youtube:lSvhJYfcr7I"
+  - "youtube:nDaOsVpkAyU"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -33,10 +49,13 @@ La transcripción automática presenta errores de reconocimiento, en particular 
 
 ## Hoja de comparación
 
-| Referencia    | Texto local                                                                                                                                                                                                         | Función en la nota                                                                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| #iojanan_17_1 | Delitzsch: «אֶת־אֵלֶּה דִּבֶּר יֵשׁוּעַ וַיִּשָּׂא עֵינָיו לַמָּרוֹם וַיֹּאמַר אֲבִי גַּדֵּל כְּבוֹד בִּנְךָ כִּי בָא מוֹעֵד וּבִנְךָ יְגַדֵּל כְּבוֹדֶךָ׃»                                                         | Yehoshua alza sus ojos y habla de la llegada de la hora y de gloria. El TTH local no contiene el v. 1.    |
-| #iojanan_17_2 | TTH: «como le has dado dominio sobre toda carne, para que todos los que le diste tengan vida olam²¹³.»<br>Delitzsch: «כַּאֲשֶׁר אַתָּה תַמְשִׁילֵהוּ בְּכָל־בָשָׂר לָתֵת חַיֵּי עוֹלָם לְכֹל אֲשֶׁר־נָתַתָּה לּוֹ׃» | La autoridad sobre toda carne está vinculada en el versículo con dar vida olam a quienes le fueron dados. |
+| Referencia     | Texto local                                                                                                                                                                                                         | Función en la nota                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| #iojanan_17_1  | Delitzsch: «אֶת־אֵלֶּה דִּבֶּר יֵשׁוּעַ וַיִּשָּׂא עֵינָיו לַמָּרוֹם וַיֹּאמַר אֲבִי גַּדֵּל כְּבוֹד בִּנְךָ כִּי בָא מוֹעֵד וּבִנְךָ יְגַדֵּל כְּבוֹדֶךָ׃»                                                         | Yehoshua alza sus ojos y habla de la llegada de la hora y de gloria. El TTH local no contiene el v. 1.    |
+| #iojanan_17_2  | TTH: «como le has dado dominio sobre toda carne, para que todos los que le diste tengan vida olam²¹³.»<br>Delitzsch: «כַּאֲשֶׁר אַתָּה תַמְשִׁילֵהוּ בְּכָל־בָשָׂר לָתֵת חַיֵּי עוֹלָם לְכֹל אֲשֶׁר־נָתַתָּה לּוֹ׃» | La autoridad sobre toda carne está vinculada en el versículo con dar vida olam a quienes le fueron dados. |
+| #iojanan_17_6  | Delitzsch: «הוֹדַעְתִּי אֶת־שִׁמְךָ לַאֲנָשִׁים אֲשֶׁר אֹתָם נָתַתָּה־לִּי מִן־הָעוֹלָם… וְהֵם אִמְרָתְךָ יִנְצֹרוּ׃»                                                                                               | El versículo enlaza hacer manifiesto el nombre con guardar la palabra.                                    |
+| #iojanan_17_9  | Delitzsch: «וַאֲנִי בַּעֲדָם מַפְגִּיעַ… כִּי אִם־בְּעַד אֵלֶּה אֲשֶׁר נָתַתָּה לִּי»                                                                                                                               | La intercesión se formula respecto de los que le fueron dados.                                            |
+| #iojanan_17_12 | Delitzsch: «שָׁמַרְתִּי אֹתָם בִּשְׁמֶךָ… וְלֹא־אָבַד אֶחָד מֵהֶם»                                                                                                                                                  | La preservación de los discípulos forma parte del lenguaje del pasaje.                                    |
 
 ## La hora y la gloria
 
@@ -49,6 +68,14 @@ La petición une la gloria del Hijo y la gloria del Padre. El orden importa: el 
 #iojanan*17_2 continúa con la autoridad sobre «toda carne» y precisa su finalidad: dar vida \_olam* a todos los que le fueron dados. La relación entre autoridad y vida pertenece al texto; no es necesario completar la frase con una teoría posterior para reconocerla.
 
 La clase vincula esta vida con la incorruptibilidad y con la obra redentora de Yehoshua. Tales conexiones pueden compararse con otros pasajes, pero en este incremento la formulación segura es la de #iojanan_17_2: la vida se da a un grupo descrito como quienes le fueron dados. La nota evita convertir esa frase en una explicación exhaustiva de la elección, de la muerte o de la resurrección.
+
+## Nombre, intercesión y preservación
+
+Las partes 64 a 66 de la serie recorren #iojanan_17_6, #iojanan_17_9, #iojanan_17_11 y #iojanan_17_12. En esos versículos, el texto asocia el nombre con la manifestación a quienes fueron dados y con guardar la palabra; luego habla de intercesión y preservación. Esos vínculos pertenecen al flujo literario del capítulo.
+
+El expositor propone que «nombre» debe entenderse principalmente como la manifestación, fama o contenido de lo que יהוה ha dado a conocer, y no como una instrucción sobre pronunciar el Tetragrámaton. La propuesta ayuda a no reducir el contexto a una discusión fonética, pero debe mantenerse como interpretación: el alcance de **(ὄνομα)** en Yojanán 17 requiere cotejo textual y léxico.
+
+Asimismo, la clase relaciona «guardar» en #iojanan_17_12 con preservar a los discípulos mediante una enseñanza fiel y prudente. El versículo sí usa el lenguaje de guardar y de que ninguno se perdió; las explicaciones históricas y semánticas adicionales necesitan fuentes independientes antes de afirmarse como conclusiones del pasaje.
 
 ## Salmo 91 y los límites de una conexión
 
@@ -76,6 +103,7 @@ Conviene, por tanto, distinguir entre la comparación canónica propuesta y una 
 ## Pendiente de verificar
 
 - [ ] Cotejar **(ὥρα)**, **(δοξάζω)**, **(ἐξουσία)** y **(ζωὴ αἰώνιος)** en el griego de #iojanan_17_1-2 y en el resto de Yojanán.
+- [ ] Cotejar **(ὄνομα)**, **(τηρέω)** y **(ἀπόλλυμι)** en #iojanan_17_6-12 antes de fijar equivalencias hebreas o arameas.
 - [ ] Verificar la explicación de la clase acerca de los verbos «hablar» y «decir», así como sus equivalencias hebreas y arameas; no tratarlas como correspondencias exactas sin fuentes filológicas.
 - [ ] Examinar Salmo 91 en su propio contexto y documentar la propuesta de varios interlocutores antes de presentarla como interpretación establecida.
 - [ ] Cotejar por separado las afirmaciones de la clase sobre fisiología de la muerte, criónica y trasplantes; no usarlas como prueba exegética de #iojanan_17_1-2.
@@ -90,3 +118,13 @@ La apertura de Yojanán 17 no abandona la conversación anterior: la encamina ha
 - [[yojanan_16_tropiezo_testimonio_y_juicio|Yojanán 16: tropiezo, testimonio y juicio]]
 - [[yojanan_16_tristeza_gozo_parto|La tristeza que se vuelve gozo]]
 - [[yojanan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]
+
+## Créditos
+
+Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
+
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan Parte 63 - Cap 17» — <https://www.youtube.com/watch?v=D6aGd1j3ykk> — transcripción: `private/transcripts/ericdejes/D6aGd1j3ykk.md` — source_id: `youtube:D6aGd1j3ykk`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan/Juan (Parte 62) Cap 16-17» — <https://www.youtube.com/watch?v=Ex-emGJGcPc> — transcripción: `private/transcripts/ericdejes/Ex-emGJGcPc.md` — source_id: `youtube:Ex-emGJGcPc`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan /Juan (Parte 64) Cap 17» — <https://www.youtube.com/watch?v=o6rOivQHyU4> — transcripción: `private/transcripts/ericdejes/o6rOivQHyU4.md` — source_id: `youtube:o6rOivQHyU4`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán /Juan (Parte 65) Cap 17» — <https://www.youtube.com/watch?v=lSvhJYfcr7I> — transcripción: `private/transcripts/ericdejes/lSvhJYfcr7I.md` — source_id: `youtube:lSvhJYfcr7I`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan (Parte 66) Cap 17» — <https://www.youtube.com/watch?v=nDaOsVpkAyU> — transcripción: `private/transcripts/ericdejes/nDaOsVpkAyU.md` — source_id: `youtube:nDaOsVpkAyU`.
