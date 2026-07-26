@@ -29,20 +29,11 @@ sources:
   - "private/transcripts/ericdejes/byKm54KeTyQ.md"
   - "https://www.youtube.com/watch?v=0p62JJfVydA"
   - "private/transcripts/ericdejes/0p62JJfVydA.md"
-  - "https://www.youtube.com/watch?v=vCrg-tQllxU"
-  - "private/transcripts/ericdejes/vCrg-tQllxU.md"
-  - "https://www.youtube.com/watch?v=kPRNLeXCmb8"
-  - "private/transcripts/ericdejes/kPRNLeXCmb8.md"
-  - "https://www.youtube.com/watch?v=wOLrgSpNpQI"
-  - "private/transcripts/ericdejes/wOLrgSpNpQI.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:byKm54KeTyQ"
   - "youtube:0p62JJfVydA"
-  - "youtube:vCrg-tQllxU"
-  - "youtube:kPRNLeXCmb8"
-  - "youtube:wOLrgSpNpQI"
 translation: "[Delitzsch]"
 ---
 
@@ -130,11 +121,5 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
   - Transcripción: `private/transcripts/ericdejes/byKm54KeTyQ.md` (`source_id: youtube:byKm54KeTyQ`).
 - «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj» — https://www.youtube.com/watch?v=0p62JJfVydA
   - Transcripción: `private/transcripts/ericdejes/0p62JJfVydA.md` (`source_id: youtube:0p62JJfVydA`).
-- «La carta a los Efesios (parte 7) Cap 2 Los hijos de Meri» — https://www.youtube.com/watch?v=vCrg-tQllxU
-  - Transcripción: `private/transcripts/ericdejes/vCrg-tQllxU.md` (`source_id: youtube:vCrg-tQllxU`).
-- «La Carta a los Efesios (Parte 8) Cap 2 “Salvos por gracia de nosotros mismos”» — https://www.youtube.com/watch?v=kPRNLeXCmb8
-  - Transcripción: `private/transcripts/ericdejes/kPRNLeXCmb8.md` (`source_id: youtube:kPRNLeXCmb8`).
-- «La carta a los efesios (parte 9) Cap 2 / Frutos dignos de la salvación» — https://www.youtube.com/watch?v=wOLrgSpNpQI
-  - Transcripción: `private/transcripts/ericdejes/wOLrgSpNpQI.md` (`source_id: youtube:wOLrgSpNpQI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
