@@ -60,7 +60,7 @@ El expositor propone además que las distintas autoidentificaciones de Pablo —
 
 ## Santos y fieles: una identidad que no se aumenta
 
-La clase convierte #colossians_1_2 en su lema introductorio. «Santos» se explica como personas distinguibles por su pertenencia, y «fieles» como portadores de _emunah_ (00:57:30–00:59:24). En esta enseñanza, ambas dimensiones se corresponden: la fidelidad que se recibe y se vive debe manifestar una santidad reconocible, sin necesitar añadiduras externas.
+La clase convierte #colossians*1_2 en su lema introductorio. «Santos» se explica como personas distinguibles por su pertenencia, y «fieles» como portadores de \_emunah* (00:57:30–00:59:24). En esta enseñanza, ambas dimensiones se corresponden: la fidelidad que se recibe y se vive debe manifestar una santidad reconocible, sin necesitar añadiduras externas.
 
 Para desarrollar esa aplicación, el expositor lee #deuteronomy_4_1-2 y #deuteronomy_4_6 como una instrucción de guardar y hacer lo que יהוה manda. Advierte contra elevar prácticas protectoras o «cercos» humanos al rango de palabra de Elohim (00:06:10–00:20:00). El límite textual de Deuteronomio contra añadir y quitar es explícito; la traslación de cada práctica posterior a ese límite requiere discernimiento contextual y no autoriza a descalificar de antemano toda costumbre comunitaria.
 
