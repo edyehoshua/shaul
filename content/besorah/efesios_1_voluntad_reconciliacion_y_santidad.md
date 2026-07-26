@@ -51,6 +51,8 @@ sources:
   - "private/transcripts/ericdejes/KPdeVmwOViQ.md"
   - "https://www.youtube.com/watch?v=k2V_xN81ozU"
   - "private/transcripts/ericdejes/k2V_xN81ozU.md"
+  - "https://www.youtube.com/watch?v=WSIaQ6rlhDc"
+  - "private/transcripts/ericdejes/WSIaQ6rlhDc.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
@@ -63,6 +65,7 @@ source_ids:
   - "youtube:9Tzh2oZtmAk"
   - "youtube:KPdeVmwOViQ"
   - "youtube:k2V_xN81ozU"
+  - "youtube:WSIaQ6rlhDc"
 translation: "[Delitzsch]"
 ---
 
@@ -205,5 +208,7 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
   - Transcripción: `private/transcripts/ericdejes/KPdeVmwOViQ.md` (`source_id: youtube:KPdeVmwOViQ`).
 - «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU
   - Transcripción: `private/transcripts/ericdejes/k2V_xN81ozU.md` (`source_id: youtube:k2V_xN81ozU`).
+- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed /משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc
+  - Transcripción: `private/transcripts/ericdejes/WSIaQ6rlhDc.md` (`source_id: youtube:WSIaQ6rlhDc`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
