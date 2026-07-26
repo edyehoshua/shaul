@@ -1,6 +1,6 @@
 ---
 title: "Efesios 3: gracia, revelación y misterio"
-description: "Nota canónica sobre Efesios 3: el encargo de Pablo a favor de los gentiles, la administración de la gracia y el misterio revelado en el Mesías."
+description: "Nota canónica sobre Efesios 3: el encargo de Pablo a favor de los gentiles, la administración de la gracia, el misterio revelado y la participación común en el Mesías."
 date: 2026-07-27
 tags:
   - efesios
@@ -16,18 +16,26 @@ references:
   - "#ephesians_3_4"
   - "#ephesians_3_5"
   - "#ephesians_3_6"
+  - "#ephesians_3_7"
+  - "#ephesians_1_19"
   - "#ephesians_6_20"
+  - "#corinthians1_2_10"
+  - "#corinthians1_2_16"
   - "#corinthians2_5_20"
   - "#zechariah_9_11"
   - "#zechariah_9_12"
 sources:
   - "https://www.youtube.com/watch?v=bG4SqOvNolQ"
   - "private/transcripts/ericdejes/bG4SqOvNolQ.md"
+  - "https://www.youtube.com/watch?v=GulS21GtPP8"
+  - "private/transcripts/ericdejes/GulS21GtPP8.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
+  - "docs/scriptures/delitzsch/json/corinthians1.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
 source_ids:
   - "youtube:bG4SqOvNolQ"
+  - "youtube:GulS21GtPP8"
 translation: "[Delitzsch, OE]"
 ---
 
@@ -38,19 +46,22 @@ Efesios 3:1–5 presenta a Pablo como prisionero del Mesías a favor de los gent
 ## Alcance de la nota
 
 - Fuente: «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios», de Eric de Jesús Rodríguez Mendoza.
-- La sesión se concentra en #ephesians_3_1-5 (00:07:47–01:10:33), con anticipación de #ephesians_3_6 para la siguiente clase.
+- Fuente añadida: «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo», de Eric de Jesús Rodríguez Mendoza.
+- Las sesiones se concentran en #ephesians_3_1-7. La parte 13 retoma #ephesians_3_5 (00:05:46–00:15:24), desarrolla #ephesians_3_6-7 (00:45:29–00:57:39) y relaciona su lectura con #corinthians1_2_10-16 (00:31:20–00:36:20).
 - El texto bíblico se extrajo de los corpus locales Delitzsch y OE, sin nikud. La transcripción automática sirve para atribuir y organizar la exposición; no es una cita literal del video.
 
 ## Hoja de comparación
 
-| Referencia         | Texto local                                                                                                                                                                         | Función en la clase                                                                                                                          |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_3_1-2   | **בעבור זאת אני פולוס אסיר המשיח למענכם הגוים׃**; **כי־אמנם שמעתם הנהגת חסד האלהים אשר־נתן לי אליכם׃**                                                                              | Pablo se nombra prisionero del Mesías a favor de los gentiles y habla de una administración de la gracia dada para ellos.                    |
-| #ephesians_3_3-5   | **כי בחזון גלה־לי הסוד אשר כתבתי לכם במעט מלין׃**; **ובקראכם תוכלו להכיר את־בינתי בסוד המשיח׃**; **אשר בדורת הראשנים לא נודע לבני אדם כאשר נגלה עתה לשליחיו הקדשים ולנביאיו ברוח׃** | El misterio se da a conocer por revelación, se comunica por escrito y ha sido revelado a apóstoles y profetas.                               |
-| #ephesians_3_6     | **שיהיו הגוים גם־הם נחלים ובגוף אחד וחברי ההבטחה במשיח ישוע על־ידי הבשרה׃**                                                                                                         | El versículo siguiente precisa el contenido del misterio: los gentiles participan de la herencia, de un cuerpo y de la promesa en el Mesías. |
-| #corinthians2_5_20 | **ובכן מליצי המשיח אנחנו והאלהים מזהיר אתכם על־ידנו נבקש מכם בעד המשיח התכפרו־נא לאלהים׃**                                                                                          | La clase lo relaciona con el lenguaje de representación o embajada y con el llamado a la reconciliación.                                     |
-| #ephesians_6_20    | **למען אדבר בה כאשר מטל עלי לדבר ולא אחת׃**                                                                                                                                         | El cierre de la carta vuelve a situar el hablar de Pablo dentro de su responsabilidad por el mensaje.                                        |
-| #zechariah_9_11-12 | **גם את ב/דם ברית/ך שלחתי אסירי/ך מ/בור אין מים ב/ו**; **שובו ל/בצרון אסירי ה/תקוה גם ה/יום מגיד משנה אשיב ל/ך**                                                                    | La clase usa la imagen de los prisioneros y la esperanza como conexión interpretativa con el lenguaje de Efesios.                            |
+| Referencia            | Texto local                                                                                                                                                                         | Función en la clase                                                                                                                          |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ephesians_3_1-2      | **בעבור זאת אני פולוס אסיר המשיח למענכם הגוים׃**; **כי־אמנם שמעתם הנהגת חסד האלהים אשר־נתן לי אליכם׃**                                                                              | Pablo se nombra prisionero del Mesías a favor de los gentiles y habla de una administración de la gracia dada para ellos.                    |
+| #ephesians_3_3-5      | **כי בחזון גלה־לי הסוד אשר כתבתי לכם במעט מלין׃**; **ובקראכם תוכלו להכיר את־בינתי בסוד המשיח׃**; **אשר בדורת הראשנים לא נודע לבני אדם כאשר נגלה עתה לשליחיו הקדשים ולנביאיו ברוח׃** | El misterio se da a conocer por revelación, se comunica por escrito y ha sido revelado a apóstoles y profetas.                               |
+| #ephesians_3_6        | **שיהיו הגוים גם־הם נחלים ובגוף אחד וחברי ההבטחה במשיח ישוע על־ידי הבשרה׃**                                                                                                         | El versículo siguiente precisa el contenido del misterio: los gentiles participan de la herencia, de un cuerpo y de la promesa en el Mesías. |
+| #ephesians_3_7        | **אשר הייתי לה למשרת במתנת חסד אלהים הנתונה לי כפי פעלת גבורתו׃**                                                                                                                   | Pablo describe su servicio como don de la gracia de Elohim, conforme a la acción de su poder.                                                |
+| #corinthians1_2_10-16 | **ולנו גלה האלהים ברוחו כי הרוח חוקר את־הכל גם את־מעמקי האלהים׃**; **ואנחנו הנה יש־לנו רוח המשיח׃**                                                                                 | La clase lo invoca al proponer una relación entre Rúaj, conocimiento y la mente del Mesías.                                                  |
+| #corinthians2_5_20    | **ובכן מליצי המשיח אנחנו והאלהים מזהיר אתכם על־ידנו נבקש מכם בעד המשיח התכפרו־נא לאלהים׃**                                                                                          | La clase lo relaciona con el lenguaje de representación o embajada y con el llamado a la reconciliación.                                     |
+| #ephesians_6_20       | **למען אדבר בה כאשר מטל עלי לדבר ולא אחת׃**                                                                                                                                         | El cierre de la carta vuelve a situar el hablar de Pablo dentro de su responsabilidad por el mensaje.                                        |
+| #zechariah_9_11-12    | **גם את ב/דם ברית/ך שלחתי אסירי/ך מ/בור אין מים ב/ו**; **שובו ל/בצרון אסירי ה/תקוה גם ה/יום מגיד משנה אשיב ל/ך**                                                                    | La clase usa la imagen de los prisioneros y la esperanza como conexión interpretativa con el lenguaje de Efesios.                            |
 
 ## El prisionero del Mesías y el encargo a favor de los gentiles
 
@@ -72,14 +83,32 @@ En #ephesians_3_3-4 Pablo afirma que el misterio le fue dado a conocer por revel
 
 #ephesians_3_5 contrasta generaciones anteriores con la revelación presente a los santos apóstoles y profetas en el Rúaj. La sesión concluye que este movimiento no implica desechar a Israel y señala que la siguiente clase explicará el versículo 6 (01:04:41–01:10:33). El versículo 6 efectivamente define el misterio mediante la participación de los gentiles en la herencia, el cuerpo y la promesa en Yehoshua el Mesías. Esta nota conserva la continuidad que la clase percibe, sin convertirla en una explicación exhaustiva de la historia de Israel o de todas las discusiones sobre reemplazo.
 
+## Herencia, cuerpo y promesa compartidos
+
+La parte 13 detiene la lectura en tres expresiones de #ephesians_3_6 (00:45:29–00:50:35): los gentiles son coherederos, están en un solo cuerpo y participan de la promesa en Yehoshua el Mesías por medio de la buena noticia. El texto da esas tres coordenadas conjuntamente; por ello, es sólido afirmar que el misterio no deja a los gentiles al margen de la herencia, del cuerpo ni de la promesa.
+
+La clase emplea los términos griegos _synklēronoma_, _syssōma_ y _symmetocha_ para enfatizar la participación común y concluye que no hay «dos cuerpos» ni «dos pueblos». Esa conclusión recoge con fuerza la imagen de «un cuerpo» del versículo y conversa con #ephesians_2_11-22. Aun así, las definiciones técnicas de cada compuesto griego, así como la aplicación de «copartícipes» a padecimientos específicos, requieren cotejo léxico y contextual: #ephesians_3_6 habla directamente de la promesa en el Mesías, pero no desarrolla por sí solo cada implicación histórica o eclesiológica.
+
+En #ephesians_3_7 Pablo vuelve a su propio encargo: llegó a ser servidor de la buena noticia por el don de la gracia de Elohim, conforme a la acción de su poder. La enseñanza enlaza ese poder con la actividad de Elohim y con #ephesians_1_19 (00:53:27–00:57:39). El paralelismo merece estudio; el versículo afirma ante todo que el servicio de Pablo procede del don de gracia y del poder de Elohim, no de una autosuficiencia apostólica.
+
+## Rúaj, lectura y discernimiento
+
+La sesión propone comprender «en Rúaj» de #ephesians_3_5 como una revelación que viene de Elohim y transforma el entendimiento, y lo relaciona con #corinthians1_2_10-16, donde Pablo habla de conocer lo dado por Elohim y de «Rúaj del Mesías» (00:15:27–00:44:45). También exhorta a que las pretensiones de revelación se sometan a la lectura y al estudio de las Escrituras (00:07:47–00:11:54). La advertencia pastoral de no contradecir lo escrito puede favorecer un estudio responsable; debe, no obstante, distinguirse de una regla exegética exhaustiva derivada de estos versículos aislados.
+
+El expositor propone sustituir sistemáticamente «espíritu» por «mente», «incorruptiblemente» u otras formulaciones, y presenta una explicación particular de Rúaj y de la mente del Mesías. `#corinthians1_2_10-16` conserva el vocabulario de **רוח** en su texto hebreo Delitzsch, mientras que `#ephesians_3_5` dice que la revelación fue dada a conocer a apóstoles y profetas «en Rúaj». La relación entre _rúaj_, mente, acción, revelación y las construcciones griegas necesita examen filológico cuidadoso; esta nota registra la propuesta de la clase sin reemplazar los términos del pasaje ni fijar una equivalencia única.
+
 ## Hoja léxica
 
-| Forma           | Transliteración | Sentido en la nota          | Tipo de relación                                           | Cautela                                                                                                        |
-| --------------- | --------------- | --------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **(οἰκονομία)** | oikonomía       | administración, encargo     | Término griego asociado a #ephesians_3_2 y #ephesians_1_10 | «Sustentabilidad» es una aplicación pedagógica de la clase, no una equivalencia exacta establecida aquí.       |
-| **(הנהגה)**     | hanhagá         | administración, dirección   | Forma hebrea del Delitzsch en #ephesians_3_2               | Ilumina la versión hebrea, pero no reemplaza el examen del término griego y de su contexto.                    |
-| **(μυστήριον)** | mysterion       | misterio, realidad revelada | Término discutido por la clase en #ephesians_3_3-5         | No reducirlo a «secreto» ni suponer que toda asociación moderna con misterio conserva el uso paulino.          |
-| **(אסיר)**      | asir            | prisionero                  | Forma hebrea del Delitzsch en #ephesians_3_1               | La conexión con los «prisioneros de esperanza» de Zacarías es temática, no una equivalencia léxica demostrada. |
+| Forma              | Transliteración | Sentido en la nota                              | Tipo de relación                                                | Cautela                                                                                                        |
+| ------------------ | --------------- | ----------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **(οἰκονομία)**    | oikonomía       | administración, encargo                         | Término griego asociado a #ephesians_3_2 y #ephesians_1_10      | «Sustentabilidad» es una aplicación pedagógica de la clase, no una equivalencia exacta establecida aquí.       |
+| **(הנהגה)**        | hanhagá         | administración, dirección                       | Forma hebrea del Delitzsch en #ephesians_3_2                    | Ilumina la versión hebrea, pero no reemplaza el examen del término griego y de su contexto.                    |
+| **(μυστήριον)**    | mysterion       | misterio, realidad revelada                     | Término discutido por la clase en #ephesians_3_3-5              | No reducirlo a «secreto» ni suponer que toda asociación moderna con misterio conserva el uso paulino.          |
+| **(אסיר)**         | asir            | prisionero                                      | Forma hebrea del Delitzsch en #ephesians_3_1                    | La conexión con los «prisioneros de esperanza» de Zacarías es temática, no una equivalencia léxica demostrada. |
+| **(συνκληρονόμα)** | synklēronoma    | coherederos                                     | Compuesto griego comentado en #ephesians_3_6                    | La clase destaca el prefijo de participación; su alcance debe contrastarse con léxicos y sintaxis.             |
+| **(σύσσωμα)**      | syssōma         | en un mismo cuerpo                              | Compuesto griego comentado en #ephesians_3_6                    | Apoya la unidad corporal del versículo; no sustituye el desarrollo completo de Efesios 2–3.                    |
+| **(συμμέτοχα)**    | symmetocha      | copartícipes                                    | Compuesto griego comentado en #ephesians_3_6                    | No imponer «padecimientos» como su único sentido sin revisar sus usos y el contexto inmediato.                 |
+| **(רוח)**          | rúaj            | rúaj; viento, aliento o espíritu según contexto | Forma hebrea presente en #ephesians_3_5 y #corinthians1_2_10-16 | No reducirla automáticamente a «mente» ni a una definición única fuera de cada construcción.                   |
 
 ## Pendiente de verificar
 
@@ -89,6 +118,9 @@ En #ephesians_3_3-4 Pablo afirma que el misterio le fue dado a conocer por revel
 - [ ] Revisar la presentación de la clase sobre la prisión de Pablo, el culto imperial y las causas históricas de sus padecimientos con fuentes primarias y estudios históricos.
 - [ ] Estudiar la relación entre #zechariah_9_11-12 y #ephesians_3_1 antes de describirla como cita, alusión directa o cumplimiento textual.
 - [ ] Examinar el alcance de «otras generaciones» y la revelación a apóstoles y profetas en #ephesians_3_5 sin convertir la explicación de la clase sobre Israel y las naciones en la única lectura posible.
+- [ ] Cotejar _synklēronoma_, _syssōma_ y _symmetocha_ en #ephesians_3_6 con el texto griego, léxicos y el argumento de Efesios 2–3 antes de convertir las glosas pedagógicas de la clase en definiciones exhaustivas.
+- [ ] Examinar la propuesta de sustituir «espíritu» por «mente», «incorruptiblemente» o «acción» en #ephesians_3_5 y #corinthians1_2_10-16; las formas hebreas y griegas, la sintaxis y los contextos deben conservarse y estudiarse antes de adoptar una equivalencia definitiva.
+- [ ] Verificar la conexión léxica propuesta entre la acción del poder en #ephesians_3_7 y #ephesians_1_19, así como las conclusiones doctrinales que la clase deriva de ella.
 
 ## Conclusión
 
@@ -105,5 +137,7 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
 
 - «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ
   - Transcripción: `private/transcripts/ericdejes/bG4SqOvNolQ.md` (`source_id: youtube:bG4SqOvNolQ`).
+- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8
+  - Transcripción: `private/transcripts/ericdejes/GulS21GtPP8.md` (`source_id: youtube:GulS21GtPP8`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
