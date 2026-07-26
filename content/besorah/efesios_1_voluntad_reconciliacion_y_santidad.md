@@ -18,6 +18,7 @@ references:
   - "#ephesians_1_7"
   - "#ephesians_1_8"
   - "#ephesians_1_9"
+  - "#ephesians_1_10"
   - "#corinthians2_5_17"
   - "#corinthians2_5_18"
   - "#corinthians2_5_19"
@@ -42,6 +43,8 @@ sources:
   - "private/transcripts/ericdejes/qsn5BfZMZ8o.md"
   - "https://www.youtube.com/watch?v=9Tzh2oZtmAk"
   - "private/transcripts/ericdejes/9Tzh2oZtmAk.md"
+  - "https://www.youtube.com/watch?v=KPdeVmwOViQ"
+  - "private/transcripts/ericdejes/KPdeVmwOViQ.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
@@ -52,6 +55,7 @@ source_ids:
   - "youtube:6gCUX55_ID0"
   - "youtube:qsn5BfZMZ8o"
   - "youtube:9Tzh2oZtmAk"
+  - "youtube:KPdeVmwOViQ"
 translation: "[Delitzsch]"
 ---
 
@@ -63,6 +67,7 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 
 - Fuente: «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?», de Eric de Jesús Rodríguez Mendoza.
 - La sesión introduce la carta y se concentra en #ephesians_1_1 (00:00:16–00:33:40). Después desarrolla el tema de la voluntad mediante #corinthians2_5_17-19, #thessalonians1_4_3, #thessalonians1_5_18-22 y #peter1_2_15-17 (00:40:58–01:24:27).
+- La cuarta clase retoma #ephesians_1_10 (00:06:05–00:17:41) y propone leer el propósito anunciado como la reunión de todo bajo el Mesías. Sus desarrollos históricos y léxicos se conservan como propuestas de estudio, no como conclusiones del versículo sin cotejo adicional.
 - El texto bíblico de la hoja se extrajo del Delitzsch local y se presenta sin nikud. La transcripción automática es guía para atribuir el desarrollo de la clase, no una cita literal.
 - Las observaciones de la sesión sobre el aparato crítico del destinatario, el término griego de «voluntad» y aplicaciones concretas que exceden los versículos se distinguen del texto y quedan pendientes de cotejo.
 
@@ -72,6 +77,7 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | #ephesians_1_1                 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃**                                                                                                                                                                                                                                                                                                       | Pablo se presenta como enviado de Yehoshua el Mesías por voluntad de Elohim y saluda a los santos y fieles.                                   |
 | #ephesians_1_3-9               | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכלברכת רוח במרומים במשיח׃**; **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה׃**; **יעדנו לו לבנים עלידי ישוע המשיח כרצון חפצו׃**; **לתהלת כבוד חסדו אשרחנן אתנו בידידו׃**; **אשרבו לנו הפדיום בדמו וסליחת הפשעים כרב חסדו׃**; **אשר בא עלינו בשפעחכמה והשכל׃**; **והודיע אתנו אתסוד חפצו כרצונו ועצתו מראש אשר יעץ בו׃** | Las clases 2 y 3 leen bendición, elección, filiación, rescate, perdón y la revelación del propósito dentro de la obra de Elohim en el Mesías. |
+| #ephesians_1_10                | **על־דבר הנהגתו במלאת הימים לקבל את הכל במשיח מה־שבשמים ומה־שבארץ׃**                                                                                                                                                                                                                                                                                                                        | La cuarta clase subraya la administración o cumplimiento de los tiempos y la relación de todo con el Mesías.                                  |
 | #corinthians2_5_17-19          | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃**; **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃**; **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃**                                                                                                                                          | La clase asocia la voluntad de Elohim con nueva creación, reconciliación y el encargo de su palabra.                                          |
 | #thessalonians1_4_3            | **כי זה רצון האלהים קדשתכם להתרחק מן־הזנות׃**                                                                                                                                                                                                                                                                                                                                               | Nombra explícitamente la santidad como voluntad de Elohim y llama a apartarse de la inmoralidad sexual.                                       |
 | #thessalonians1_5_18-22        | **הודו על־הכל כי־זה רצון אלהים במשיח ישוע אליכם׃**; **את־הרוח לא תכבו׃**; **בחנו כל־דבר ובטוב אחזו׃**; **התרחקו מכל־הדומה לרע׃**                                                                                                                                                                                                                                                            | La gratitud, el discernimiento y el apartarse de lo malo forman la aplicación final de la sesión.                                             |
@@ -123,6 +129,14 @@ En #ephesians_1_7-8, el pasaje afirma el rescate «en su sangre», el perdón de
 
 La clase interpreta el «misterio de su voluntad» de #ephesians_1_9 como la revelación pública de la obra reconciliadora de Yehoshua (01:06:26–01:15:01). El versículo sí afirma que Elohim dio a conocer ese misterio conforme a su beneplácito y propósito; identificarlo exhaustivamente con una formulación cristológica particular o derivar de ello límites de comunión con otras personas excede lo que el versículo afirma de manera inmediata.
 
+## La administración de la plenitud y la relación de todo con el Mesías
+
+La cuarta clase comienza en #ephesians_1_10 y enlaza sus expresiones con la cadena de propósitos de los versículos anteriores (00:06:05–00:17:41). El texto local habla de la **הנהגתו** de Elohim «en la plenitud de los tiempos» y de recibir o reunir «todo» en el Mesías: lo celestial y lo terrestre. Así, el versículo amplía el horizonte del propósito sin separar la obra del Mesías de la voluntad que Pablo viene describiendo.
+
+La enseñanza propone que _oikonomía_ se entienda como administración y sustentabilidad, y que la expresión final presente al Mesías como cabeza de todo. «Administración» puede ser una glosa útil para estudiar el término, pero las conclusiones sobre un esquema de épocas, la continuidad de todas las figuras sacrificiales o una crítica de sistemas teológicos requieren cotejar el griego, el uso paulino y los contextos bíblicos que se invoquen. El versículo afirma una meta en el Mesías; no expone por sí solo un sistema completo de historia de la salvación.
+
+La clase vincula la unidad del propósito con la reconciliación y rechaza una separación tajante entre Israel y la comunidad de creyentes (00:18:07–00:23:36). Esta nota retiene la pregunta textual que plantea esa conexión, pero no transforma una síntesis doctrinal en el sentido exclusivo de #ephesians_1_10. Los capítulos siguientes, especialmente #ephesians_2_11-22 y #ephesians_3_1-6, son necesarios para examinar cómo articula Pablo Israel, los gentiles, la promesa y la comunidad.
+
 ## Hoja léxica
 
 | Forma               | Transliteración      | Sentido en la nota             | Tipo de relación                                                                 | Cautela                                                                                                                                |
@@ -145,6 +159,8 @@ La clase interpreta el «misterio de su voluntad» de #ephesians_1_9 como la rev
 - [ ] Revisar el análisis léxico de la tercera clase para #ephesians_1_5: la explicación de _proorizo_ como «distinguir públicamente» necesita cotejo con léxicos, sintaxis y sus usos en el corpus griego antes de reemplazar traducciones establecidas.
 - [ ] Distinguir cuidadosamente entre rescate, perdón y restitución en #ephesians_1_7; la clase los relaciona, pero el alcance de cada imagen requiere estudio textual y contextual.
 - [ ] Examinar #ephesians_1_9 en el flujo de #ephesians_1_3-14 antes de identificar de forma exhaustiva el «misterio» con una sola formulación doctrinal.
+- [ ] Cotejar _oikonomía_, «plenitud de los tiempos» y el verbo de #ephesians_1_10 con el texto griego y los usos paulinos antes de adoptar «administración», «sustentabilidad» o «poner como cabeza» como equivalencias definitivas.
+- [ ] Revisar históricamente las afirmaciones de la cuarta clase sobre el dispensacionalismo y estudiarlas junto con el argumento de Efesios; el versículo no basta para resolver por sí solo la relación entre Israel y la comunidad de creyentes.
 
 ## Conclusión
 
@@ -165,5 +181,7 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
   - Transcripción: `private/transcripts/ericdejes/qsn5BfZMZ8o.md` (`source_id: youtube:qsn5BfZMZ8o`).
 - «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk
   - Transcripción: `private/transcripts/ericdejes/9Tzh2oZtmAk.md` (`source_id: youtube:9Tzh2oZtmAk`).
+- «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ
+  - Transcripción: `private/transcripts/ericdejes/KPdeVmwOViQ.md` (`source_id: youtube:KPdeVmwOViQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
