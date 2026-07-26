@@ -29,6 +29,12 @@ sources:
   - "private/transcripts/ericdejes/bG4SqOvNolQ.md"
   - "https://www.youtube.com/watch?v=GulS21GtPP8"
   - "private/transcripts/ericdejes/GulS21GtPP8.md"
+  - "https://www.youtube.com/watch?v=qu6bUTxbmdg"
+  - "private/transcripts/ericdejes/qu6bUTxbmdg.md"
+  - "https://www.youtube.com/watch?v=kVAJOj4wkR0"
+  - "private/transcripts/ericdejes/kVAJOj4wkR0.md"
+  - "https://www.youtube.com/watch?v=dOHBc1A57kw"
+  - "private/transcripts/ericdejes/dOHBc1A57kw.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians1.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
@@ -36,6 +42,9 @@ sources:
 source_ids:
   - "youtube:bG4SqOvNolQ"
   - "youtube:GulS21GtPP8"
+  - "youtube:qu6bUTxbmdg"
+  - "youtube:kVAJOj4wkR0"
+  - "youtube:dOHBc1A57kw"
 translation: "[Delitzsch, OE]"
 ---
 
@@ -139,5 +148,11 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
   - Transcripción: `private/transcripts/ericdejes/bG4SqOvNolQ.md` (`source_id: youtube:bG4SqOvNolQ`).
 - «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8
   - Transcripción: `private/transcripts/ericdejes/GulS21GtPP8.md` (`source_id: youtube:GulS21GtPP8`).
+- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg
+  - Transcripción: `private/transcripts/ericdejes/qu6bUTxbmdg.md` (`source_id: youtube:qu6bUTxbmdg`).
+- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0
+  - Transcripción: `private/transcripts/ericdejes/kVAJOj4wkR0.md` (`source_id: youtube:kVAJOj4wkR0`).
+- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw
+  - Transcripción: `private/transcripts/ericdejes/dOHBc1A57kw.md` (`source_id: youtube:dOHBc1A57kw`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
