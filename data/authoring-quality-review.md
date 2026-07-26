@@ -11,4 +11,4 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/besorah/yojanan_14_moradas_camino_retorno.md` — fuentes: youtube:c8YqHIe-IhM; créditos visibles: NO.
 - [ ] `content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md` — fuentes: youtube:LSfmSufaylQ; créditos visibles: NO.
 - [ ] `content/tanaj/tehilim_21_rey_vida_y_poder_de_יהוה.md` — fuentes: youtube:V6cspEvIX7s; créditos visibles: sí.
-- [ ] `content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md` — fuentes: youtube:byKm54KeTyQ, youtube:0p62JJfVydA; créditos visibles: sí.
+- [ ] `content/tanaj/tehilim_48_sion_ciudad_del_rey_y_refugio.md` — fuentes: youtube:kzhA3R7dluM; créditos visibles: sí.

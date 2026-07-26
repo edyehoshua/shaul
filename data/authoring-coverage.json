@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 77,
-  "pending_videos": 816,
-  "transcript_notes": 32,
+  "covered_videos": 78,
+  "pending_videos": 815,
+  "transcript_notes": 33,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
     "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
@@ -105,7 +105,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 90,
-      "covered": 2,
+      "covered": 3,
       "lane": "yojanan"
     },
     "Uncategorized": {
