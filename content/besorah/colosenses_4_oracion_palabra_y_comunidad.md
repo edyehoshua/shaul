@@ -1,7 +1,7 @@
 ---
 title: "Oración, palabra y comunidad en Colosenses 4"
 description: "Nota canónica de Colosenses 4: justicia, oración perseverante, palabra sabia, colaboradores y lectura compartida de la carta."
-date: 2026-07-27
+date: 2026-07-26
 tags:
   - colosenses
   - oracion
@@ -31,15 +31,12 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=y6S6hx-xLN0"
   - "https://www.youtube.com/watch?v=esVDcTNDOr8"
-  - "https://www.youtube.com/watch?v=YAY5xD_yFDU"
   - "private/transcripts/ericdejes/y6S6hx-xLN0.md"
   - "private/transcripts/ericdejes/esVDcTNDOr8.md"
-  - "private/transcripts/ericdejes/YAY5xD_yFDU.md"
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:y6S6hx-xLN0"
   - "youtube:esVDcTNDOr8"
-  - "youtube:YAY5xD_yFDU"
 translation: "[Delitzsch]"
 ---
 
@@ -49,7 +46,7 @@ Colosenses 4 cierra la carta con prácticas que sostienen a una comunidad bajo e
 
 ## Alcance de la nota
 
-Esta es la nota canónica del capítulo 4 e integra las sesiones 16–18. La sesión 16 empieza retomando #colossians_4_1 por continuidad con el bloque doméstico anterior, y la 18 desarrolla #colossians_4_7-18 mediante los colaboradores y saludos finales. Las transcripciones automáticas se usan como guía de los énfasis de la clase; las explicaciones sobre Roma, oración, geografía, cronología o vocabulario deben verificarse antes de tratarlas como conclusiones históricas o léxicas.
+Esta es la nota canónica del capítulo 4 e integra las sesiones 16–17. La sesión 16 empieza retomando #colossians_4_1 por continuidad con el bloque doméstico anterior. Las transcripciones automáticas se usan como guía de los énfasis de la clase; las explicaciones sobre Roma, oración o vocabulario deben verificarse antes de tratarlas como conclusiones históricas o léxicas.
 
 ## Hoja de comparación
 
@@ -82,31 +79,14 @@ Tíquico, Onésimo, Aristarco, Marcos, Justo, Epafras, Lucas, Demas, Ninfas y Ar
 
 Pablo termina con un saludo de su propia mano, el recuerdo de sus prisiones y una bendición (#colossians_4_18). El sufrimiento del apóstol no ocupa el centro del cierre, pero pone la petición de oración y el anuncio del misterio en un marco concreto de vulnerabilidad y fidelidad.
 
-## Colaboradores reconocidos como hermanos
-
-La sesión 18 presta atención al modo en que Pablo califica a quienes nombra: Tíquico es «amado hermano», «fiel ministro» y «consiervo»; Onésimo es «fiel y amado hermano»; Epafras es siervo del Mesías; Lucas es «el médico amado» (#colossians_4_7-14). El cierre no convierte a estas personas en figuras accesorias: hace visible que el anuncio, el consuelo, la intercesión y la comunicación de la carta dependen de una red de servicio.
-
-La relación entre Marcos y Pablo, leída junto con #acts_15_36-40 y #2_timothy_4_11, permite observar que un desacuerdo anterior no agota necesariamente la relación entre hermanos. Colosenses ordena recibir a Marcos si llega (#colossians_4_10), y la carta posterior lo llama útil para el ministerio. Es prudente no reconstruir los motivos, el proceso o la fecha exacta de una reconciliación más allá de lo que los textos dicen.
-
-## Intercesión y servicio recibido
-
-Epafras «lucha» en sus oraciones para que los creyentes permanezcan maduros y plenamente convencidos en toda la voluntad de Elohim (#colossians_4_12-13). La clase relaciona esa intercesión con el cuidado de comunidades separadas por la distancia. El pasaje permite afirmar la centralidad de la oración perseverante; la aplicación a situaciones comunitarias actuales debe conservar ese carácter de exhortación y no presentarse como una promesa técnica.
-
-La orden dirigida a Arquipo es concreta y sobria: debe atender al servicio que recibió en el Señor para cumplirlo (#colossians_4_17). En vez de llenar el silencio con una función concreta que el texto no identifica, la nota retiene el llamado a responder responsablemente al servicio recibido.
-
-## Casas y lectura compartida
-
-Ninfas y la comunidad que se reúne en su casa muestran una forma doméstica de reunión (#colossians_4_15). Esto no prescribe un único lugar o modelo institucional para toda comunidad, pero sí impide tratar la comunión y la hospitalidad como asuntos secundarios. La instrucción de intercambiar y leer las cartas con Laodicea (#colossians_4_16) amplía el cuadro: las comunidades reciben, comparten y escuchan públicamente una enseñanza que no les pertenece de manera privada.
-
 ## Hoja léxica
 
-| Forma                       | Función                                             | Cautela                                                                                          |
-| --------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **ἰσότης**                  | Equidad en #colossians_4_1.                         | Examinar cómo se coordina con «justo» y su uso paulino.                                          |
-| **προσκαρτερέω / γρηγορέω** | Perseverar y velar en #colossians_4_2.              | No convertirlos en una técnica devocional rígida.                                                |
-| **θύρα τοῦ λόγου**          | Puerta para la palabra en #colossians_4_3.          | Leer como metáfora en su contexto misionero.                                                     |
-| **ἅλατι ἠρτυμένος**         | Palabra sazonada con sal en #colossians_4_6.        | No imponer una única alegoría sin evidencia contextual.                                          |
-| **ἀγωνιζόμενος**            | Luchar o esforzarse en oración en #colossians_4_12. | No reducirlo automáticamente a sufrimiento físico ni equipararlo sin examen a un término hebreo. |
+| Forma                       | Función                                      | Cautela                                                 |
+| --------------------------- | -------------------------------------------- | ------------------------------------------------------- |
+| **ἰσότης**                  | Equidad en #colossians_4_1.                  | Examinar cómo se coordina con «justo» y su uso paulino. |
+| **προσκαρτερέω / γρηγορέω** | Perseverar y velar en #colossians_4_2.       | No convertirlos en una técnica devocional rígida.       |
+| **θύρα τοῦ λόγου**          | Puerta para la palabra en #colossians_4_3.   | Leer como metáfora en su contexto misionero.            |
+| **ἅλατι ἠρτυμένος**         | Palabra sazonada con sal en #colossians_4_6. | No imponer una única alegoría sin evidencia contextual. |
 
 ## Pendiente de verificar
 
@@ -114,8 +94,6 @@ Ninfas y la comunidad que se reúne en su casa muestran una forma doméstica de 
 - [ ] Cotejar los verbos de oración y el vocabulario de «puerta» y «sal» con el texto griego y léxicos.
 - [ ] Identificar con fuentes las relaciones entre los colaboradores mencionados y las otras cartas, sin reconstruir biografías a partir de una lista de nombres.
 - [ ] Examinar la carta «de Laodicea» de #colossians_4_16 sin identificarla de forma dogmática con un escrito posterior.
-- [ ] Verificar las propuestas de la clase sobre la procedencia de Tíquico y Aristarco, la localización de la prisión desde la que se escribió la carta y la geografía de Colosas, Laodicea y Éfeso.
-- [ ] Cotejar la conexión pedagógica de la clase entre **ἀγωνιζόμενος** y vocabulario hebreo de integridad o plenitud; no asumir equivalencia léxica directa.
 
 ## Conclusión
 
@@ -131,5 +109,4 @@ Colosenses 4 presenta una comunidad que ora con gratitud, habla con sabiduría, 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [A los colosenses (parte 16) Cap 4A](https://www.youtube.com/watch?v=y6S6hx-xLN0) — transcripción de trabajo: `private/transcripts/ericdejes/y6S6hx-xLN0.md` (source_id: `youtube:y6S6hx-xLN0`).
 - [A los colosenses (parte 17) cap 4B](https://www.youtube.com/watch?v=esVDcTNDOr8) — transcripción de trabajo: `private/transcripts/ericdejes/esVDcTNDOr8.md` (source_id: `youtube:esVDcTNDOr8`).
-- [A los Colsenses (parte 18) cap 4C](https://www.youtube.com/watch?v=YAY5xD_yFDU) — transcripción de trabajo: `private/transcripts/ericdejes/YAY5xD_yFDU.md` (source_id: `youtube:YAY5xD_yFDU`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
