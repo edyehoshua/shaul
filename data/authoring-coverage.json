@@ -1,0 +1,196 @@
+{
+  "inventory_videos": 893,
+  "covered_videos": 45,
+  "pending_videos": 848,
+  "transcript_notes": 21,
+  "notes_missing_visible_credits": [
+    "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
+    "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
+    "content/besorah/tesalonicenses_1_comunidad_testimonio_esperanza.md",
+    "content/besorah/tesalonicenses_2_comunidad_trabajo_correccion_paz.md",
+    "content/besorah/tesalonicenses_2_juicio_perseverancia_gloria.md",
+    "content/besorah/tesalonicenses_2_verdad_enganio_firmeza.md",
+    "content/besorah/yojanan_10_pastor_vida_obras.md",
+    "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+    "content/besorah/yojanan_13_salida_retorno_y_lenguaje_abba.md",
+    "content/besorah/yojanan_13_servicio_envio_y_obediencia.md",
+    "content/besorah/yojanan_13_traicion_pan_y_testimonio.md",
+    "content/besorah/yojanan_14_morada_palabra_memoria.md",
+    "content/besorah/yojanan_14_moradas_camino_retorno.md",
+    "content/besorah/yojanan_14_ver_padre_obras.md",
+    "content/besorah/yojanan_15_vid_fruto_amor_discipulado.md",
+    "content/besorah/yojanan_15_vid_labrador_poda_permanecer.md",
+    "content/besorah/yojanan_16_tropiezo_testimonio_y_juicio.md",
+    "content/besorah/yojanan_17_gloria_autoridad_y_vida.md",
+    "content/besorah/yojanan_1_testigo_cordero.md",
+    "content/tanaj/qohelet_7_sabiduria_nombre_y_limites.md"
+  ],
+  "duplicate_source_ids": {
+    "6gCUX55_ID0": [
+      "content/besorah/efesios_1_voluntad_reconciliacion_y_santidad.md",
+      "content/besorah/efesios_1_voluntad_reconciliacion_y_santidad.md"
+    ],
+    "8geNmTcW6ZI": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "W1agi038QCs": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "4Jw7Tt5he6o": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "-5nbvwGrEDY": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "FV3WHeOQbzg": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "csFssLdcLsE": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "LCt5Wt86POA": [
+      "content/besorah/yojanan_10_pastor_vida_obras.md",
+      "content/besorah/yojanan_10_pastor_vida_obras.md"
+    ],
+    "mG0xaFkcSag": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "aRt3PuB_gSw": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "90O6TYH0NOM": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "ZLTG7uQExR4": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "So_vr4hwcJQ": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "0SNICYI6yM0": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "Hv7enV-uw5A": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "AYrCYjkwyYo": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ],
+    "dKqd5lQXyEA": [
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md",
+      "content/besorah/yojanan_12_camino_hora_luz_palabra.md"
+    ]
+  },
+  "playlists": {
+    "1 Tesalonicenses completo": {
+      "total": 14,
+      "covered": 2,
+      "lane": "efesios"
+    },
+    "2 Tesalonicenses completo": {
+      "total": 7,
+      "covered": 7,
+      "lane": "colosenses"
+    },
+    "Apocalipsis": {
+      "total": 1,
+      "covered": 0,
+      "lane": "efesios"
+    },
+    "Colosenses": {
+      "total": 18,
+      "covered": 2,
+      "lane": "colosenses"
+    },
+    "Efesios completo": {
+      "total": 35,
+      "covered": 1,
+      "lane": "efesios"
+    },
+    "Fiestas": {
+      "total": 19,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Haftarot de Shmot/Éxodo": {
+      "total": 1,
+      "covered": 0,
+      "lane": "yojanan"
+    },
+    "Haftarot de Vayiqra’/Levítico": {
+      "total": 6,
+      "covered": 0,
+      "lane": "yojanan"
+    },
+    "Hebreas de antes": {
+      "total": 14,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Juan": {
+      "total": 51,
+      "covered": 26,
+      "lane": "yojanan"
+    },
+    "Qohélet - Eclesiastés": {
+      "total": 30,
+      "covered": 4,
+      "lane": "efesios"
+    },
+    "Romanos": {
+      "total": 1,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Shavu’ot": {
+      "total": 2,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Shir hashirim completo": {
+      "total": 25,
+      "covered": 0,
+      "lane": "efesios"
+    },
+    "Tehilim/Himnos/Salmos": {
+      "total": 90,
+      "covered": 0,
+      "lane": "yojanan"
+    },
+    "Uncategorized": {
+      "total": 573,
+      "covered": 3,
+      "lane": null
+    },
+    "Yesha’yahu - Isaías": {
+      "total": 3,
+      "covered": 0,
+      "lane": "yojanan"
+    },
+    "Yom hakipurim": {
+      "total": 2,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Yom tru’áh": {
+      "total": 1,
+      "covered": 0,
+      "lane": "colosenses"
+    }
+  },
+  "completion": false
+}
