@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch YouTube transcripts for Hermes research workflows.
+"""Fetch YouTube transcripts for research workflows.
 
 Strategy:
 1) Try youtube-transcript-api first.
@@ -175,27 +175,41 @@ def parse_vtt(vtt_path: Path) -> list[str]:
 
 def try_ytdlp_fallback(url: str, out_dir: Path, video_id: str) -> list[str] | None:
     out_tpl = out_dir / f"{video_id}.%(ext)s"
-    cmd = [
-        "yt-dlp",
-        "--skip-download",
-        "--write-auto-subs",
-        "--write-subs",
-        "--sub-langs",
-        "es.*,en.*",
-        "--sub-format",
-        "vtt",
-        "-o",
-        str(out_tpl),
-        url,
-    ]
-    proc = run_cmd(cmd)
-    if proc.returncode != 0:
-        return None
-
-    candidates = sorted(out_dir.glob(f"{video_id}*.vtt"))
-    if not candidates:
-        return None
-    return parse_vtt(candidates[0])
+    # Request one likely track at a time. Asking yt-dlp for every translated
+    # language in parallel is much more likely to trigger YouTube 429s.
+    for language_group in ("es-orig,es", "en-orig,en"):
+        for temporary in out_dir.glob(f"{video_id}*.vtt"):
+            temporary.unlink(missing_ok=True)
+        cmd = [
+            "yt-dlp",
+            "--no-playlist",
+            "--skip-download",
+            "--write-auto-subs",
+            "--write-subs",
+            "--sub-langs",
+            language_group,
+            "--sub-format",
+            "vtt",
+            "--retries",
+            "1",
+            "--fragment-retries",
+            "1",
+            "--socket-timeout",
+            "20",
+            "-o",
+            str(out_tpl),
+            url,
+        ]
+        proc = run_cmd(cmd)
+        candidates = sorted(out_dir.glob(f"{video_id}*.vtt"))
+        # yt-dlp may return non-zero after successfully writing the first
+        # requested track (for example, when a translated second track gets a
+        # 429). Keep the usable file instead of discarding it.
+        if candidates:
+            parsed = parse_vtt(candidates[0])
+            if parsed:
+                return parsed
+    return None
 
 
 def write_output(out_file: Path, lines: list[str], meta: dict) -> None:
@@ -225,12 +239,12 @@ def main() -> int:
     )
     parser.add_argument(
         "--outdir",
-        default="private/hermes/sources",
+        default="private/sources",
         help="Output directory for transcript files",
     )
     parser.add_argument(
         "--db",
-        default="private/hermes/sources/index.sqlite3",
+        default="private/sources/index.sqlite3",
         help="SQLite index DB path",
     )
     parser.add_argument(
@@ -269,7 +283,7 @@ def main() -> int:
         try:
             from source_index_db import index_file
 
-            workspace_root = Path(__file__).resolve().parents[2]
+            workspace_root = Path(__file__).resolve().parents[1]
             _, segment_count = index_file(
                 Path(args.db), out_file.resolve(), workspace_root)
             print(

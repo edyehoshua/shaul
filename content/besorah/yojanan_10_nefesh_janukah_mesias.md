@@ -31,7 +31,7 @@ references:
   - "#iojanan_9_7"
 sources:
   - "https://www.youtube.com/live/W1agi038QCs?si=I5vk4GKthCUPDBE_"
-  - "private/hermes/sources/youtube_W1agi038QCs_transcript.txt"
+  - "private/sources/youtube_W1agi038QCs_transcript.txt"
 translation: "[TTH, Delitzsch]"
 ---
 

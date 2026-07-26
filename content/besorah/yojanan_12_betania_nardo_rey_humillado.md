@@ -42,7 +42,7 @@ references:
   - "#shir_hashirim_4_15"
 sources:
   - "https://www.youtube.com/live/mG0xaFkcSag?si=QQTGXM8jOue3dqca"
-  - "private/hermes/sources/youtube_mG0xaFkcSag_transcript.txt"
+  - "private/sources/youtube_mG0xaFkcSag_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
   - "docs/scriptures/oe/json/psalms/118.json"

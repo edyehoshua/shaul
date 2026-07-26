@@ -43,7 +43,7 @@ references:
   - "#zejariah_14_16"
 sources:
   - "https://www.youtube.com/live/4Jw7Tt5he6o?si=R3SHhUyeQH54d5In"
-  - "private/hermes/sources/youtube_4Jw7Tt5he6o_transcript.txt"
+  - "private/sources/youtube_4Jw7Tt5he6o_transcript.txt"
 translation: "[TTH, Delitzsch]"
 ---
 

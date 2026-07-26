@@ -32,7 +32,7 @@ references:
   - "#ieshaiahu_49_6"
 sources:
   - "https://www.youtube.com/live/90O6TYH0NOM?si=ptXOqA3FPlJB5yxC"
-  - "private/hermes/sources/youtube_90O6TYH0NOM_transcript.txt"
+  - "private/sources/youtube_90O6TYH0NOM_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/leviticus/10.json"

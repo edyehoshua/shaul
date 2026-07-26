@@ -39,7 +39,7 @@ references:
   - "#tehilim_115_17"
 sources:
   - "https://www.youtube.com/live/-W2giXMqvUE"
-  - "private/hermes/sources/youtube_-W2giXMqvUE_transcript.txt"
+  - "private/sources/youtube_-W2giXMqvUE_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/tehilim.json"

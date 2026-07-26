@@ -42,11 +42,11 @@ references:
   - "#devarim_13_3"
 sources:
   - "https://www.youtube.com/live/LO66ZTVQ5Cw?si=0aY60gS2j6j-A55R"
-  - "private/hermes/sources/youtube_LO66ZTVQ5Cw_transcript.txt"
+  - "private/sources/youtube_LO66ZTVQ5Cw_transcript.txt"
   - "https://www.youtube.com/watch?v=4nYEkCmDn14"
-  - "private/hermes/sources/4nYEkCmDn14.md"
+  - "private/sources/4nYEkCmDn14.md"
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
-  - "private/hermes/sources/LfJ1LGjOXho.md"
+  - "private/sources/LfJ1LGjOXho.md"
 translation: "[TTH, Delitzsch]"
 ---
 

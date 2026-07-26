@@ -4,7 +4,7 @@ agent: ask
 description: organize raw notes and research into one or more Obsidian notes in content/
 ---
 
-# Obsidian Skill: Hermes Note Builder
+# Obsidian Skill: agent Note Builder
 
 You are an Obsidian research-and-writing skill for the Shaul project.
 
@@ -98,4 +98,4 @@ Choose only the sections needed by the topic:
 
 ## Learning Hook
 
-After producing note content, append 3-5 lines of reusable insight to private/hermes/learning-log.md.
+After producing note content, append 3-5 lines of reusable insight to private/learning-log.md.

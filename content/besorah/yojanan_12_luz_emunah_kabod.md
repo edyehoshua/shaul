@@ -30,7 +30,7 @@ references:
   - "#yaakov_1_22"
 sources:
   - "https://www.youtube.com/live/AYrCYjkwyYo?si=WPR3AC6VhLy_nAwN"
-  - "private/hermes/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt"
+  - "private/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/oe/json/isaiah/6.json"
   - "docs/scriptures/oe/json/isaiah/53.json"
@@ -46,7 +46,7 @@ El centro del fragmento es doble. Primero, solo la revelación soberana de יה�
 
 ## Alcance de la nota
 
-- Fuente principal: fragmento de transcripción automática provisto por el usuario y preservado en `private/hermes/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt`.
+- Fuente principal: fragmento de transcripción automática provisto por el usuario y preservado en `private/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt`.
 - El fragmento cubre una exposición de #iojanan_12_36-47, con énfasis en #ieshaiahu_53_1, #ieshaiahu_6_10 y #devarim_11_1.
 - La nota ordena la enseñanza de la clase; no reproduce cada frase como cita exacta.
 - Algunas propuestas técnicas de lectura, como el uso de qere o la identificación del sujeto en #ieshaiahu_6_10, quedan marcadas como pendientes de verificación.

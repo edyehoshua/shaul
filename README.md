@@ -10,7 +10,7 @@ This repository now uses a lighter, agent-ready workflow:
 
 - Quartz as static publishing engine
 - Obsidian-first authoring model
-- Hermes research workflow baseline
+- agent research workflow baseline
 - Transcript ingestion tooling (youtube-transcript-api + yt-dlp fallback)
 - No Dependabot (manual dependency review)
 
@@ -33,21 +33,21 @@ npm run build
 
 Generated output is in public/.
 
-## Hermes Transcript Tool
+## Transcript Tool
 
 ```bash
-npm run hermes:transcript -- "https://www.youtube.com/watch?v=VIDEO_ID"
+npm run transcript -- "https://www.youtube.com/watch?v=VIDEO_ID"
 ```
 
 Dependencies:
 
 ```bash
-npm run hermes:setup
+npm run setup
 ```
 
-## Local Scriptures Sync (Hermes Prerequisite)
+## Local Scriptures Sync (Prerequisite)
 
-Hermes note and verse-sheet workflows are local-first and use the in-repo corpus under `docs/scriptures/`.
+Note and verse-sheet workflows are local-first and use the in-repo corpus under `docs/scriptures/`.
 
 Ensure local scriptures are present (sync only when missing):
 
@@ -68,38 +68,38 @@ npm run scriptures:sync -- --corpus all
 npm run scriptures:sync -- --corpus oe --book genesis
 ```
 
-One-shot Hermes prep (Python deps + local scriptures + DB init):
+One-shot preparation (Python deps + local scriptures + DB init):
 
 ```bash
-npm run hermes:prepare
+npm run prepare
 ```
 
-## Hermes Source DB (Transcripts + Articles)
+## Source DB (Transcripts + Articles)
 
-Hermes includes a lightweight SQLite index for source files under `private/hermes/sources`.
+The project includes a lightweight SQLite index for source files under `private/sources`.
 
 Initialize DB schema:
 
 ```bash
-npm run hermes:db:init
+npm run sources:db:init
 ```
 
-Reindex all source files (`.md`, `.txt`, `.html`) from `private/hermes/sources`:
+Reindex all source files (`.md`, `.txt`, `.html`) from `private/sources`:
 
 ```bash
-npm run hermes:db:reindex
+npm run sources:db:reindex
 ```
 
 Search indexed content:
 
 ```bash
-npm run hermes:db:search -- "messiah"
+npm run sources:db:search -- "messiah"
 ```
 
 Show DB health summary (counts and latest indexed files):
 
 ```bash
-npm run hermes:db:stats
+npm run sources:db:stats
 ```
 
 When you run transcript ingestion, the output is automatically indexed unless `--no-index` is passed.
@@ -108,7 +108,7 @@ When you run transcript ingestion, the output is automatically indexed unless `-
 
 See:
 
-- docs/note-authoring.md (canonical spec for Grok, Cursor, Codex, Hermes)
+- docs/note-authoring.md (canonical spec for Grok, Cursor, and Codex)
 - AGENTS.md
 - content/guide.md
 - content/templates/topic-v2.md

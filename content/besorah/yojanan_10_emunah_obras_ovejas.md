@@ -32,7 +32,7 @@ references:
   - "#iojanan_6_44"
 sources:
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
-  - "private/hermes/sources/youtube_csFssLdcLsE_transcript.txt"
+  - "private/sources/youtube_csFssLdcLsE_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/romanos.json"

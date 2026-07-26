@@ -37,7 +37,7 @@ references:
   - "#ivrim_2_14"
 sources:
   - "https://www.youtube.com/live/FV3WHeOQbzg?si=p6KP3k6gZ2eIM3p0"
-  - "private/hermes/sources/youtube_FV3WHeOQbzg_transcript.txt"
+  - "private/sources/youtube_FV3WHeOQbzg_transcript.txt"
 translation: "[TTH, Delitzsch]"
 ---
 

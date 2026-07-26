@@ -34,7 +34,7 @@ references:
   - "#tito_2_13"
 sources:
   - "https://www.youtube.com/live/2oGHEpfFPlM?si=JuFmPC0LwkQiAuah"
-  - "private/hermes/sources/youtube_2oGHEpfFPlM_transcript.txt"
+  - "private/sources/youtube_2oGHEpfFPlM_transcript.txt"
 translation: "[TTH, Delitzsch]"
 ---
 

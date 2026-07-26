@@ -46,9 +46,9 @@ references:
   - "#matityahu_3_15"
 sources:
   - "https://www.youtube.com/watch?v=4nYEkCmDn14"
-  - "private/hermes/sources/4nYEkCmDn14.md"
+  - "private/sources/4nYEkCmDn14.md"
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
-  - "private/hermes/sources/LfJ1LGjOXho.md"
+  - "private/sources/LfJ1LGjOXho.md"
 translation: "[TTH, Delitzsch, OE]"
 ---
 

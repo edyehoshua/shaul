@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Lightweight SQLite index for Hermes sources (YouTube transcripts + articles).
+"""Lightweight SQLite index for source files (YouTube transcripts + articles).
 
-Source of truth stays on disk (private/hermes/sources). This DB is a fast query layer.
+Source of truth stays on disk (private/sources). This DB is a fast query layer.
 """
 
 from __future__ import annotations
@@ -14,8 +14,8 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-DEFAULT_DB_PATH = Path("private/hermes/sources/index.sqlite3")
-DEFAULT_SOURCES_DIR = Path("private/hermes/sources")
+DEFAULT_DB_PATH = Path("private/sources/index.sqlite3")
+DEFAULT_SOURCES_DIR = Path("private/sources")
 TRANSCRIPT_LINE_RE = re.compile(r"^\[(\d{2}):(\d{2}):(\d{2})\]\s*(.+)$")
 
 
@@ -37,6 +37,15 @@ def open_db(db_path: Path) -> sqlite3.Connection:
     conn.execute("PRAGMA foreign_keys = ON")
     conn.execute("PRAGMA journal_mode = WAL")
     return conn
+
+
+def init_db(db_path: Path) -> None:
+    """Create the source index schema without going through the CLI."""
+    conn = open_db(db_path)
+    try:
+        init_schema(conn)
+    finally:
+        conn.close()
 
 
 def init_schema(conn: sqlite3.Connection) -> None:
@@ -505,7 +514,7 @@ def cmd_stats(args: argparse.Namespace) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Hermes source SQLite index")
+    parser = argparse.ArgumentParser(description="Source SQLite index")
     parser.set_defaults(func=None)
 
     common = argparse.ArgumentParser(add_help=False)

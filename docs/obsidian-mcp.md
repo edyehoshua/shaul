@@ -1,11 +1,11 @@
 ---
-title: Obsidian MCP + Hermes
-description: Baseline integration to let Hermes read/write notes in this vault
+title: Obsidian MCP + agent
+description: Baseline integration to let agent read/write notes in this vault
 ---
 
-# Obsidian MCP + Hermes
+# Obsidian MCP + agent
 
-This guide sets a practical baseline for using Hermes with Obsidian notes inside this repository.
+This guide sets a practical baseline for using agent with Obsidian notes inside this repository.
 
 ## 1) Obsidian vault target
 
@@ -32,9 +32,9 @@ Set:
 - OBSIDIAN_VAULT_PATH to your local absolute path ending in /shaul/content
 - OBSIDIAN_API_KEY to your local key
 
-## 4) Hermes working contract
+## 4) agent working contract
 
-Hermes should:
+agent should:
 
 1. Read the target note if it exists.
 2. Read [docs/note-authoring.md](./note-authoring.md) for section, lexical, and citation rules.
@@ -45,29 +45,29 @@ Hermes should:
 7. Pull discussed verses into comparison sheets from `docs/scriptures/`.
 8. Add lexical sheets when Greek, Hebrew, or Aramaic terms carry the argument.
 9. Cite or mark pending any Talmud, midrash, targum, or commentator references.
-10. Append reusable insights to private/hermes/learning-log.md.
+10. Append reusable insights to private/learning-log.md.
 
 ## 4.1) Raw notes workflow (new)
 
-Use this when you pass rough notes directly to Hermes:
+Use this when you pass rough notes directly to agent:
 
 1. Paste your raw notes.
 2. Specify mode: edit-existing | single-note | multi-note.
 3. Specify target path(s) in content/ when known.
-4. Hermes reorganizes content using the Shaul structure conventions.
-5. Hermes returns final note file(s) plus a short changelog.
+4. agent reorganizes content using the Shaul structure conventions.
+5. agent returns final note file(s) plus a short changelog.
 
 ## 5) Transcript ingestion support
 
 Use:
 
-python3 scripts/hermes/fetch_transcript.py "<youtube-url>"
+python3 scripts/fetch_transcript.py "<youtube-url>"
 
 Output is stored in:
 
-- private/hermes/sources/
+- private/sources/
 
-## 6) Suggested prompt shape for Hermes
+## 6) Suggested prompt shape for agent
 
 - Topic:
 - Mode: edit-existing | single-note | multi-note

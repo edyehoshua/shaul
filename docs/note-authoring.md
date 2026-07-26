@@ -1,6 +1,6 @@
 # Note Authoring Spec (All LLM Agents)
 
-Canonical rules for Grok Build, Cursor, Codex, Hermes, and any other agent that creates or edits notes in this repository.
+Canonical rules for Grok Build, Cursor, Codex, agent, and any other agent that creates or edits notes in this repository.
 
 Human-facing note prose stays in Spanish. Agent process communication stays in English.
 
@@ -16,7 +16,7 @@ Companion docs:
 
 - [content/guide.md](../content/guide.md) — Spanish overview for human authors
 - [content/templates/topic-v2.md](../content/templates/topic-v2.md) — starter template
-- [docs/obsidian-mcp-hermes.md](./obsidian-mcp-hermes.md) — Hermes + Obsidian integration
+- [docs/obsidian-mcp.md](./obsidian-mcp.md) — agent + Obsidian integration
 - [AGENTS.md](../AGENTS.md) — short agent entry point
 
 ## Prerequisites
@@ -34,7 +34,7 @@ Use local corpus paths under `docs/scriptures/` first. Fall back to shafan.xyz o
 | Mode | Input | Output |
 | --- | --- | --- |
 | `raw-notes` | User rough notes | One or more reorganized notes |
-| `transcript` | YouTube URL or `private/hermes/sources/*.txt` | One consolidated note or a linked series |
+| `transcript` | YouTube URL or `private/sources/*.txt` | One consolidated note or a linked series |
 | `thematic` | Topic + scripture anchors | One focused note under `content/temas/` |
 | `edit-existing` | Target path + new material | Update in place, preserve metadata conventions |
 
@@ -236,7 +236,7 @@ Never:
 7. Add lexical sheets when words carry the argument
 8. Record external literature in citation format or pending checklist
 9. Refresh `references`, `sources`, and cross-links
-10. Append a short learning entry to `private/hermes/learning-log.md` when Hermes-style work is done
+10. Append a short learning entry to `private/learning-log.md` when agent-style work is done
 
 ## Suggested User Prompt (Copy/Paste)
 

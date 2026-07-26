@@ -11,5 +11,10 @@ tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
 private/
+data/transcripts/
+.firecrawl/
+.env
+.env.*
+!.env.example
 .replit
 replit.nix

@@ -107,7 +107,7 @@ def run_sync(args: argparse.Namespace, script_path: Path) -> int:
 def main() -> int:
     args = parse_args()
 
-    repo_root = Path(__file__).resolve().parents[2]
+    repo_root = Path(__file__).resolve().parents[1]
     os.chdir(repo_root)
     sync_script = Path(__file__).with_name("sync_davar_scriptures.py")
 

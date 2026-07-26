@@ -39,7 +39,7 @@ references:
   - "#tesaloniqim_alef_5_11"
 sources:
   - "https://www.youtube.com/live/0SNICYI6yM0?si=0EYenVyaRUOtC-5W"
-  - "private/hermes/sources/youtube_0SNICYI6yM0_transcript.txt"
+  - "private/sources/youtube_0SNICYI6yM0_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/isaiah/60.json"

@@ -21,7 +21,7 @@ references:
   - "#ivrim_13_8"
 sources:
   - "https://www.youtube.com/live/So_vr4hwcJQ?si=n5iir2RxwmIzMlcd"
-  - "private/hermes/sources/youtube_So_vr4hwcJQ_transcript_fragment.txt"
+  - "private/sources/youtube_So_vr4hwcJQ_transcript_fragment.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/shemot.json"
   - "docs/scriptures/delitzsch/json/john.json"

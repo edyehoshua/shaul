@@ -36,7 +36,7 @@ references:
   - "#tehilim_17_15"
 sources:
   - "https://youtu.be/-5nbvwGrEDY?si=3QQmMgjBQB1lvs4Z"
-  - "private/hermes/sources/youtube_-5nbvwGrEDY_transcript.txt"
+  - "private/sources/youtube_-5nbvwGrEDY_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/delitzsch/json/hebrews.json"
