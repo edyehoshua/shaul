@@ -62,6 +62,7 @@ Rules:
 - `sources` holds URLs, transcript paths, or internal docs like `docs/benhaelohim.md`
 - `source_ids` optionally holds stable source identifiers such as `youtube:VIDEO_ID`; use it for new transcript-derived notes when the source has a durable ID
 - Optional: `translation: "[TTH, Delitzsch]"` when multiple corpora are cited
+- In Spanish prose, use **Yehoshua** for the Messiah rather than the shorter form `Yeshua`, except when preserving an exact quotation or a source-language text.
 
 ## Section Vocabulary
 
