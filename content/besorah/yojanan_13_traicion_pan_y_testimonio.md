@@ -67,7 +67,7 @@ Esta nota organiza dos clases consecutivas de Eric de Jesús sobre #iojanan_13_1
 
 ## Escritura, cercanía y el talón
 
-Yojanán cita #tehilim_41_9 para hablar de quien come del mismo pan y levanta el talón. El salmo nombra a un «hombre de mi shalom», de confianza y mesa compartida; el golpe procede, por tanto, de una proximidad real. La clase destaca el término **(עקב)**, _aqev_ («talón»), y lo relaciona con #bereshit_3_15. Esa relación puede servir como ruta de lectura bíblica, pero no demuestra por sí sola que cada aparición de «talón» tenga un sentido mesiánico técnico.
+Yojanán cita #tehilim*41_9 para hablar de quien come del mismo pan y levanta el talón. El salmo nombra a un «hombre de mi shalom», de confianza y mesa compartida; el golpe procede, por tanto, de una proximidad real. La clase destaca el término **(עקב)**, \_aqev* («talón»), y lo relaciona con #bereshit_3_15. Esa relación puede servir como ruta de lectura bíblica, pero no demuestra por sí sola que cada aparición de «talón» tenga un sentido mesiánico técnico.
 
 La frase «para que se llene la Escritura» (#iojanan_13_18) no cancela la responsabilidad moral de Iehudáh ni explica mecánicamente cómo se relacionan la presciencia, la traición y el propósito de יהוה. La clase desarrolla una explicación amplia sobre elección y maldad; esta nota retiene únicamente el hecho textual: Yehoshua conoce a los escogidos, anuncia la traición y apela a la Escritura.
 
@@ -75,7 +75,7 @@ La frase «para que se llene la Escritura» (#iojanan_13_18) no cancela la respo
 
 #iojanan_13_19 vincula la anticipación con la respuesta de los discípulos: Yehoshua lo dice antes de que ocurra «para que cuando sea, se afirmen». Inmediatamente, #iojanan_13_20 retoma la recepción del enviado. Así, el pasaje no se concentra solo en descubrir al traidor: también prepara a quienes recibirán la comisión de Yehoshua y deben permanecer afirmados ante lo que viene.
 
-La clase propone una relación entre el enviado de #iojanan_13_20 y la figura de **(שליח)**, _shaliaj_. Conviene mantenerla como analogía pedagógica: el versículo emplea el vocabulario griego de envío y su equivalencia jurídica exacta con el uso rabínico posterior requiere cotejo histórico y lingüístico.
+La clase propone una relación entre el enviado de #iojanan*13_20 y la figura de **(שליח)**, \_shaliaj*. Conviene mantenerla como analogía pedagógica: el versículo emplea el vocabulario griego de envío y su equivalencia jurídica exacta con el uso rabínico posterior requiere cotejo histórico y lingüístico.
 
 ## El bocado y la salida de Iehudáh
 
@@ -112,3 +112,10 @@ El relato conserva a la vez cercanía, dolor y testimonio. Yehoshua anuncia que 
 - [[yojanan_13_pesaj_seuda_lavado_pies|Yojanán 13: Pesaj, seudá y lavado de pies]] — #iojanan_13_1-11; la cena y el signo que preceden a este tramo.
 - [[yojanan_13_servicio_envio_y_obediencia|Yojanán 13: servicio, envío y obediencia]] — #iojanan_13_12-17; el ejemplo y el envío inmediatamente anteriores.
 - [[yojanan_12_camino_hora_luz_palabra|Yojanán 12: el camino de la hora, la luz y la palabra]] — la hora que conduce a la entrega.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=xEjiNJv1SwY> — source_id: `youtube:xEjiNJv1SwY`.
+- Video: <https://www.youtube.com/watch?v=mDRnD6fp42I> — source_id: `youtube:mDRnD6fp42I`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

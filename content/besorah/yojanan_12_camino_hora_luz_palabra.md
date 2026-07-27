@@ -1564,3 +1564,17 @@ Para los que reciben la palabra, el juicio tiene otro rostro: la palabra cumplid
 - [Yojanán 14: Abba, el Nombre y el Menajem](./yojanan_14_abba_menajem_nombre)
 - [Yojanán: conceptos de deidad](./yojanan_conceptos_deidad)
 - [Elohim y Aba](../temas/elohim_aba)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=mG0xaFkcSag> — source_id: `youtube:mG0xaFkcSag`.
+- Video: <https://www.youtube.com/watch?v=aRt3PuB_gSw> — source_id: `youtube:aRt3PuB_gSw`.
+- Video: <https://www.youtube.com/watch?v=90O6TYH0NOM> — source_id: `youtube:90O6TYH0NOM`.
+- Video: <https://www.youtube.com/watch?v=ZLTG7uQExR4> — source_id: `youtube:ZLTG7uQExR4`.
+- Video: <https://www.youtube.com/watch?v=So_vr4hwcJQ> — source_id: `youtube:So_vr4hwcJQ`.
+- Video: <https://www.youtube.com/watch?v=0SNICYI6yM0> — source_id: `youtube:0SNICYI6yM0`.
+- Video: <https://www.youtube.com/watch?v=Hv7enV-uw5A> — source_id: `youtube:Hv7enV-uw5A`.
+- Video: <https://www.youtube.com/watch?v=AYrCYjkwyYo> — source_id: `youtube:AYrCYjkwyYo`.
+- Video: <https://www.youtube.com/watch?v=dKqd5lQXyEA> — source_id: `youtube:dKqd5lQXyEA`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

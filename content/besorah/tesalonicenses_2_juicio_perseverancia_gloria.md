@@ -113,3 +113,10 @@ La gloria del Nombre no aparece como prestigio religioso. En el flujo del capít
 - [[tesalonicenses_1_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]
 - [[yojanan_12_camino_hora_luz_palabra|Yojanán 12: el camino de la hora, la luz y la palabra]]
 - [[markos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, oración y juicio]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=0Betf3asqTU> — source_id: `youtube:0Betf3asqTU`.
+- Video: <https://www.youtube.com/watch?v=4TyD6gSQJfA> — source_id: `youtube:4TyD6gSQJfA`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -25,7 +25,7 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-En #iojanan_16_20-22, **Yehoshua** no niega el lamento que sus discípulos atravesarán: anuncia que llorarán mientras el _olam_ se alegra. Sin embargo, su palabra no termina en la tristeza. Mediante la imagen de una mujer que da a luz, promete que el dolor será transformado en gozo cuando él vuelva a verlos, un gozo que nadie podrá quitarles.
+En #iojanan*16_20-22, **Yehoshua** no niega el lamento que sus discípulos atravesarán: anuncia que llorarán mientras el \_olam* se alegra. Sin embargo, su palabra no termina en la tristeza. Mediante la imagen de una mujer que da a luz, promete que el dolor será transformado en gozo cuando él vuelva a verlos, un gozo que nadie podrá quitarles.
 
 ## Alcance de la nota
 
@@ -43,7 +43,7 @@ El expositor relaciona los dolores de parto con sufrimientos mesiánicos, con la
 
 ## Un lamento que el texto no disimula
 
-La primera parte de #iojanan_16_20 es sobria: Yehoshua dice que sus discípulos llorarán y se lamentarán, mientras el _olam_ se alegra. El discurso no presenta la tristeza como falta de fidelidad ni ordena fingir que la pérdida no duele. La nombra antes de prometer su desenlace.
+La primera parte de #iojanan*16_20 es sobria: Yehoshua dice que sus discípulos llorarán y se lamentarán, mientras el \_olam* se alegra. El discurso no presenta la tristeza como falta de fidelidad ni ordena fingir que la pérdida no duele. La nombra antes de prometer su desenlace.
 
 La segunda parte del versículo introduce el giro: «su lamento se tornará en alegría». El contraste no depende de que los discípulos produzcan optimismo por sí mismos. Es una palabra de Yehoshua acerca de aquello que ocurrirá con su lamento.
 
@@ -91,3 +91,9 @@ La promesa de #iojanan_16_20-22 no banaliza el dolor de los discípulos: lo anti
 - [[yojanan_16_tropiezo_testimonio_y_juicio|Yojanán 16: tropiezo, testimonio y juicio]]
 - [[yojanan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]
 - [[yojanan_14_morada_palabra_memoria|Yojanán 14: morada, palabra y memoria]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=FTH6tIAoNq0> — source_id: `youtube:FTH6tIAoNq0`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -100,3 +100,10 @@ La vid de #iojanan_15_1-5 no es una imagen de productividad religiosa aislada. Y
 - [[yojanan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]
 - [[yojanan_14_morada_palabra_memoria|Yojanán 14: morada, palabra y memoria]]
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=-EwRZKoqHo4> — source_id: `youtube:-EwRZKoqHo4`.
+- Video: <https://www.youtube.com/watch?v=Up-DASDhdok> — source_id: `youtube:Up-DASDhdok`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

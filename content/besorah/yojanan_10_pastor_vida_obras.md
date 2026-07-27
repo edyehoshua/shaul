@@ -170,3 +170,16 @@ Yojanán 10 no separa identidad, obras y cuidado pastoral. La puerta excluye el 
 - [[yojanan_10_emunah_obras_ovejas|Emunah, obras y ovejas]] — #iojanan_10_25-38; `youtube:csFssLdcLsE`.
 - [[yojanan_10_elohim_obras_y_mensajero|Elohim, obras y mensajero]] — #iojanan_10_33-42; `youtube:FV3WHeOQbzg`.
 - [[yojanan_10_17_28_vida_indestructible|Vida indestructible y mandamiento de Abba]] — #iojanan_10_17-28; `youtube:LCt5Wt86POA`.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=8geNmTcW6ZI> — source_id: `youtube:8geNmTcW6ZI`.
+- Video: <https://www.youtube.com/watch?v=W1agi038QCs> — source_id: `youtube:W1agi038QCs`.
+- Video: <https://www.youtube.com/watch?v=4Jw7Tt5he6o> — source_id: `youtube:4Jw7Tt5he6o`.
+- Video: <https://www.youtube.com/watch?v=-5nbvwGrEDY> — source_id: `youtube:-5nbvwGrEDY`.
+- Video: <https://www.youtube.com/watch?v=FV3WHeOQbzg> — source_id: `youtube:FV3WHeOQbzg`.
+- Video: <https://www.youtube.com/watch?v=csFssLdcLsE> — source_id: `youtube:csFssLdcLsE`.
+- Video: <https://www.youtube.com/watch?v=LCt5Wt86POA> — source_id: `youtube:LCt5Wt86POA`.
+- Video: <https://www.youtube.com/watch?v=2oGHEpfFPlM> — source_id: `youtube:2oGHEpfFPlM`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

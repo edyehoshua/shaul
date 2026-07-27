@@ -124,3 +124,10 @@ La oración final no deja la corrección como la última palabra. #thessalonians
 - [[tesalonicenses_2_juicio_perseverancia_gloria|2 Tesalonicenses 1: perseverancia, juicio y gloria]]
 - [[tesalonicenses_2_verdad_enganio_firmeza|2 Tesalonicenses 2: verdad, engaño y firmeza]]
 - [[tesalonicenses_1_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=dzO6pl2v_Wc> — source_id: `youtube:dzO6pl2v_Wc`.
+- Video: <https://www.youtube.com/watch?v=oLkAGU5jFxs> — source_id: `youtube:oLkAGU5jFxs`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

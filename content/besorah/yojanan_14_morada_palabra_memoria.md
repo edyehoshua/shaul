@@ -38,7 +38,7 @@ En #iojanan_14_22-26, **Yehoshua** responde a la pregunta sobre su manifestació
 
 ## Alcance de la nota
 
-Esta nota organiza la parte de la clase 56 de Eric de Jesús dedicada a #iojanan_14_22-26. La transcripción automática no se toma como cita literal. La clase desarrolla una lectura amplia sobre _morada_, _palabra_, conciencia, el Rúaj y la acción de Elohim en las naciones. Se distingue esa elaboración de lo que el pasaje afirma directamente y se dejan pendientes las propuestas filológicas, rabínicas, históricas y doctrinales que requieren cotejo.
+Esta nota organiza la parte de la clase 56 de Eric de Jesús dedicada a #iojanan*14_22-26. La transcripción automática no se toma como cita literal. La clase desarrolla una lectura amplia sobre \_morada*, _palabra_, conciencia, el Rúaj y la acción de Elohim en las naciones. Se distingue esa elaboración de lo que el pasaje afirma directamente y se dejan pendientes las propuestas filológicas, rabínicas, históricas y doctrinales que requieren cotejo.
 
 ## Hoja de comparación
 
@@ -113,3 +113,9 @@ Yojanán 14:22-26 no separa la manifestación de Yehoshua de su palabra. Amar, g
 - [[yojanan_14_ver_padre_obras|Yojanán 14: ver al Padre en las obras]] — #iojanan_14_7-11 y el criterio de las obras.
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]] — desarrollo complementario de #iojanan_14_13-16 y #iojanan_14_26.
 - [[yojanan_10_abba_obras_y_morada|Yojanán 10: Abba, las obras y la morada]] — antecedente temático sobre la habitación de Elohim.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=WRILATGNg_U> — source_id: `youtube:WRILATGNg_U`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

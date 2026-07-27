@@ -105,3 +105,9 @@ Yojanán 16:1-11 sitúa la oposición dentro de una palabra anticipada, no fuera
 - [[yojanan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]
 - [[yojanan_14_morada_palabra_memoria|Yojanán 14: morada, palabra y memoria]]
 - [[yojanan_oracion_tribunal_celestial|Oración y tribunal celestial]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=ag3Zg3B2sbs> — source_id: `youtube:ag3Zg3B2sbs`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

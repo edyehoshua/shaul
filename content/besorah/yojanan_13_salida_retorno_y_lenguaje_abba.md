@@ -94,3 +94,9 @@ La clase también vincula ese marco con #qolasim_2_9 e #ivrim_2_5. Tales asociac
 - [[yojanan_13_servicio_envio_y_obediencia|Yojanán 13: servicio, envío y obediencia]] — #iojanan_13_12-17; la explicación posterior de Yehoshua.
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]] — continuidad del vocabulario de Abba en el discurso.
 - [[yojanan_conceptos_deidad|Conceptos clave de deidad en el evangelio de Yojanán]] — mapa conceptual de la serie.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=9Xqwsg0WF14> — source_id: `youtube:9Xqwsg0WF14`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

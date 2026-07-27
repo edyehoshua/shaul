@@ -130,3 +130,9 @@ Yojanán 15:5-17 no separa la vida de la vid, el fruto, la oración, el amor y e
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]]
 - [[yojanan_10_pastor_vida_obras|Yojanán 10: el pastor, la vida y las obras]]
 - [[yojanan_13_servicio_envio_y_obediencia|Yojanán 13: servicio, envío y obediencia]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=XB7AjfErsCI> — source_id: `youtube:XB7AjfErsCI`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -113,3 +113,9 @@ Yojanán 14:1-6 responde a la inquietud de los discípulos con una presencia pro
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]] — continuación en #iojanan_14_6-26.
 - [[yojanan_10_abba_obras_y_morada|Yojanán 10: Abba, las obras y la morada]] — desarrollo complementario sobre #iojanan_14_20-28.
 - [[yojanan_13_salida_retorno_y_lenguaje_abba|Yojanán 13: salida, retorno y el lenguaje de Abba]] — el antecedente inmediato de #iojanan_13_3.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=c8YqHIe-IhM> — source_id: `youtube:c8YqHIe-IhM`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

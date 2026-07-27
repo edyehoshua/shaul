@@ -101,3 +101,10 @@ Yojanán 14:7-11 no desvía al discípulo de Yehoshua hacia una visión independ
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]] — desarrollo de clase sobre Abba y el discurso posterior.
 - [[yojanan_10_pastor_vida_obras|Yojanán 10: el pastor, la vida y las obras]] — panorama del criterio de las obras en el capítulo 10.
 - [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]] — #iojanan_10_33-42 y #qolasim_2_9.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=bn1Ez0RR56g> — source_id: `youtube:bn1Ez0RR56g`.
+- Video: <https://www.youtube.com/watch?v=2UX8B7uvacQ> — source_id: `youtube:2UX8B7uvacQ`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

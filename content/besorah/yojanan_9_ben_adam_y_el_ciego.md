@@ -139,7 +139,7 @@ La lectura propuesta en la clase no niega ese uso común. Más bien lo usa como 
 La clase apoya la distinción en Romanos 5 y 1 Corintios 15:
 
 | Referencia             | Texto local                                                                     | Conexión                                               |
-| ---------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| ---------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | #romanos_5_12          | TTH: "como el pecado entró al olam por un hombre, y por el pecado la muerte..." | El pecado y la muerte entran por Adam y pasan a todos. |
 | #qorintiyim_alef_15_42 | וכן תחית המתים הזריעה לכליון והתקומה לחיי עד                                    | — (sin TTH local)                                      | La resurrección contrapone siembra corruptible y levantamiento para vida.             |
 | #qorintiyim_alef_15_43 | יזרע בבזיון ויקום בכבוד יזרע בחלשה ויקום בגבורה                                 | — (sin TTH local)                                      | La clase resalta deshonra, debilidad y gloria como categorías de la condición humana. |
@@ -155,7 +155,7 @@ Desde esa línea, "Ben Adam" aplicado a Yeshúa no debería rebajarse a "un huma
 El argumento también descarta que un Adam corruptible pueda pagar por todos. La clase conecta esto con la mortalidad común y con la insuficiencia del hombre para redimir a su hermano:
 
 | Referencia      | Texto local                                        | Observación                                                                         |
-| --------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| --------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | #tehilim_49_8   | אח לא פדה יפדה איש לא יתן ל/אלהים כפר/ו            | y costosa es la redención de la vida de ellos...                                    | Un hombre no puede redimir a su hermano ante Elohim.            |
 | #qohelet_3_19   | כי מקרה בני ה/אדם ו/מקרה ה/בהמה ו/מקרה אחד ל/הם... | — (sin TTH local)                                                                   | La clase usa este marco para subrayar la mortalidad compartida. |
 | #tehilim_115_17 | OE: "לא ה/מתים יהללו יה ו/לא כל ירדי דומה"         | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
@@ -167,7 +167,7 @@ La conclusión del video es que si el Mesías fuera solo un ben Adam corruptible
 La escena de #iojanan_9_38 se interpreta por contraste. Cuando Cornelio se postra ante Pedro, Pedro lo levanta. Cuando Yojanan se postra ante el mensajero celestial, el mensajero lo prohíbe. En cambio, Yeshúa no corrige al ciego.
 
 | Referencia              | Texto local                                               | Respuesta                                                                        |
-| ----------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ----------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | #iojanan_9_38           | TTH: "Yo me afirmo, Adonai, y se le postró."              | Yeshúa recibe la postración sin corregir al hombre.                              |
 | #maasei_hashlijim_10_25 | Delitzsch: "ויצא קרניליוס לקראתו ויפל לרגליו וישתחו"      | Cornelio cae a los pies de Pedro y se postra.                                    |
 | #maasei_hashlijim_10_26 | Delitzsch: "ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי" | Pedro lo levanta y declara que él también es hombre.                             |
@@ -201,3 +201,10 @@ Esta lectura ayuda a explicar por qué el relato del ciego no termina solo en un
 La clase presenta #iojanan_9_35-38 como una escena de identificación mesiánica fuerte: Yeshúa no solo sana al ciego, sino que recibe la fidelidad y la postración del hombre sanado. La diferencia entre Adam corruptible y Adam celestial sostiene el argumento de que el Mesías no puede reducirse a un hombre ordinario ni a un enviado separado de la gloria de יהוה.
 
 La sanidad abre los ojos; la revelación exige una respuesta. En el relato, el ciego ve mejor que quienes decían saber, porque reconoce en Yeshúa al que puede recibir la fidelidad que pertenece a Elohim.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=-W2giXMqvUE> — source_id: `youtube:-W2giXMqvUE`.
+- Video: <https://www.youtube.com/watch?v=QZFKS6icUiU> — source_id: `youtube:QZFKS6icUiU`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

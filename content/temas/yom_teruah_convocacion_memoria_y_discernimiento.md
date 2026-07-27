@@ -12,18 +12,12 @@ references:
   - "#numbers_29_1"
   - "#leviticus_25_9"
 sources:
-  - "https://www.youtube.com/watch?v=bYZCWrOSMyM"
-  - "https://www.youtube.com/watch?v=eKPZwHFJ6Tg"
   - "https://www.youtube.com/watch?v=6uZpdCuu95M"
-  - "private/transcripts/ericdejes/bYZCWrOSMyM.md"
-  - "private/transcripts/ericdejes/eKPZwHFJ6Tg.md"
   - "private/transcripts/ericdejes/6uZpdCuu95M.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
   - "docs/scriptures/oe/json/numbers/29.json"
 source_ids:
-  - "youtube:bYZCWrOSMyM"
-  - "youtube:eKPZwHFJ6Tg"
   - "youtube:6uZpdCuu95M"
 translation: "[OE]"
 ---
