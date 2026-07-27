@@ -11,6 +11,10 @@ tags:
   - deidad_del_mesias
   - resurreccion
 references:
+  - "#iojanan_9_8"
+  - "#iojanan_9_11"
+  - "#iojanan_9_14"
+  - "#iojanan_9_16"
   - "#iojanan_9_24"
   - "#iojanan_9_34"
   - "#iojanan_9_35"
@@ -38,8 +42,12 @@ references:
   - "#qohelet_3_19"
   - "#tehilim_115_17"
 sources:
-  - "https://www.youtube.com/live/-W2giXMqvUE"
-  - "private/sources/youtube_-W2giXMqvUE_transcript.txt"
+  - "https://www.youtube.com/watch?v=-W2giXMqvUE"
+  - "private/transcripts/ericdejes/-W2giXMqvUE.md"
+  - "https://www.youtube.com/watch?v=QZFKS6icUiU"
+  - "private/transcripts/ericdejes/QZFKS6icUiU.md"
+  - "https://www.youtube.com/watch?v=x9B0el73UYI"
+  - "private/transcripts/ericdejes/x9B0el73UYI.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/tehilim.json"
@@ -54,6 +62,7 @@ sources:
 source_ids:
   - "youtube:-W2giXMqvUE"
   - "youtube:QZFKS6icUiU"
+  - "youtube:x9B0el73UYI"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -112,6 +121,14 @@ El punto central es que Yeshúa no conduce al ciego a rendir fidelidad a otro di
 | **(נפש)**               | nefesh               | vida, alma viviente          | נפש         | Primer Adam "לנפש חיה"; la redención excede la condición nefesh ordinaria.                                                                                                            |
 | **(בן האלהים)**         | ben ha-Elohim        | Hijo de Elohim               | בן + אלהים  | Lectura textual local en #iojanan_9_35; la clase trabaja "Ben Adam" como tesis interpretativa del video.                                                                              |
 
+## La señal, el Shabat y la acusación
+
+La clase añadida vuelve a #iojanan_9_8-16. El hombre sanado identifica la acción de Yehoshua con claridad: «hizo barro», lo untó en sus ojos, le mandó lavarse en Shilóaj, y entonces vio (#iojanan_9_11). El relato precisa que ese día era Shabat (#iojanan_9_14), y algunos perushim usan ese dato para cuestionar al sanador.
+
+La exposición distingue entre el mandamiento de Shabat y las regulaciones que atribuye a ciertas interpretaciones farisaicas acerca de amasar o mezclar. Esta distinción es la tesis de la clase; los detalles históricos y halájicos requieren fuentes primarias y estudio especializado antes de presentarse como descripción total del judaísmo del siglo I. El punto narrativo seguro es que la señal provoca división: algunos concluyen que Yehoshua no viene de Elohim por no guardar Shabat, mientras otros preguntan cómo un pecador podría hacer tales señales (#iojanan_9_16).
+
+La nota conserva asimismo una cautela importante: el texto habla de «algunos de los perushim» en esa discusión; no autoriza convertir el episodio en una descalificación colectiva. La escena avanza desde el examen del hecho visible hacia la pregunta más profunda del capítulo: quién ve y quién permanece ciego (#iojanan_9_39-41).
+
 ## Referencias judías y fuentes externas
 
 | Fuente             | Referencia                     | Uso en la nota                                                        | Estado                        |
@@ -138,15 +155,15 @@ La lectura propuesta en la clase no niega ese uso común. Más bien lo usa como 
 
 La clase apoya la distinción en Romanos 5 y 1 Corintios 15:
 
-| Referencia             | Texto local                                                                     | Conexión                                               |
+| Referencia | Texto local | Conexión |
 | ---------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| #romanos_5_12          | TTH: "como el pecado entró al olam por un hombre, y por el pecado la muerte..." | El pecado y la muerte entran por Adam y pasan a todos. |
-| #qorintiyim_alef_15_42 | וכן תחית המתים הזריעה לכליון והתקומה לחיי עד                                    | — (sin TTH local)                                      | La resurrección contrapone siembra corruptible y levantamiento para vida.             |
-| #qorintiyim_alef_15_43 | יזרע בבזיון ויקום בכבוד יזרע בחלשה ויקום בגבורה                                 | — (sin TTH local)                                      | La clase resalta deshonra, debilidad y gloria como categorías de la condición humana. |
-| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                     | — (sin TTH local)                                      | El primer Adam es nefesh viviente; el último Adam es espíritu vivificante.            |
-| #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים                      | — (sin TTH local)                                      | El primer Adam es de la tierra; el segundo, del cielo.                                |
-| #qorintiyim_alef_15_49 | וכאשר לבשנו צלם האדם שהוא שלעפר כן נלבש גםצלם האדם שהוא שלהשמים                 | — (sin TTH local)                                      | La esperanza es portar la imagen del celestial, no quedar en la imagen del terrenal.  |
-| #kefa_alef_1_23        | כנולדים שנית לא מזרע נשחת כי אםמזרע לא ישחת במאמר שלאלהים החי והקים לעולם       | — (sin TTH local)                                      | La clase vincula la vida nueva con semilla incorruptible.                             |
+| #romanos_5_12 | TTH: "como el pecado entró al olam por un hombre, y por el pecado la muerte..." | El pecado y la muerte entran por Adam y pasan a todos. |
+| #qorintiyim_alef_15_42 | וכן תחית המתים הזריעה לכליון והתקומה לחיי עד | — (sin TTH local) | La resurrección contrapone siembra corruptible y levantamiento para vida. |
+| #qorintiyim_alef_15_43 | יזרע בבזיון ויקום בכבוד יזרע בחלשה ויקום בגבורה | — (sin TTH local) | La clase resalta deshonra, debilidad y gloria como categorías de la condición humana. |
+| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה | — (sin TTH local) | El primer Adam es nefesh viviente; el último Adam es espíritu vivificante. |
+| #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים | — (sin TTH local) | El primer Adam es de la tierra; el segundo, del cielo. |
+| #qorintiyim_alef_15_49 | וכאשר לבשנו צלם האדם שהוא שלעפר כן נלבש גםצלם האדם שהוא שלהשמים | — (sin TTH local) | La esperanza es portar la imagen del celestial, no quedar en la imagen del terrenal. |
+| #kefa_alef_1_23 | כנולדים שנית לא מזרע נשחת כי אםמזרע לא ישחת במאמר שלאלהים החי והקים לעולם | — (sin TTH local) | La clase vincula la vida nueva con semilla incorruptible. |
 
 Desde esa línea, "Ben Adam" aplicado a Yeshúa no debería rebajarse a "un humano cualquiera". La clase propone oírlo como "portador de aquel Adam", el Adam de arriba, incorruptible y celestial. Esta formulación necesita seguir cotejándose con los textos griegos y hebreos, pero funciona como tesis interpretativa del video.
 
@@ -154,11 +171,11 @@ Desde esa línea, "Ben Adam" aplicado a Yeshúa no debería rebajarse a "un huma
 
 El argumento también descarta que un Adam corruptible pueda pagar por todos. La clase conecta esto con la mortalidad común y con la insuficiencia del hombre para redimir a su hermano:
 
-| Referencia      | Texto local                                        | Observación                                                                         |
+| Referencia | Texto local | Observación |
 | --------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| #tehilim_49_8   | אח לא פדה יפדה איש לא יתן ל/אלהים כפר/ו            | y costosa es la redención de la vida de ellos...                                    | Un hombre no puede redimir a su hermano ante Elohim.            |
-| #qohelet_3_19   | כי מקרה בני ה/אדם ו/מקרה ה/בהמה ו/מקרה אחד ל/הם... | — (sin TTH local)                                                                   | La clase usa este marco para subrayar la mortalidad compartida. |
-| #tehilim_115_17 | OE: "לא ה/מתים יהללו יה ו/לא כל ירדי דומה"         | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
+| #tehilim_49_8 | אח לא פדה יפדה איש לא יתן ל/אלהים כפר/ו | y costosa es la redención de la vida de ellos... | Un hombre no puede redimir a su hermano ante Elohim. |
+| #qohelet_3_19 | כי מקרה בני ה/אדם ו/מקרה ה/בהמה ו/מקרה אחד ל/הם... | — (sin TTH local) | La clase usa este marco para subrayar la mortalidad compartida. |
+| #tehilim_115_17 | OE: "לא ה/מתים יהללו יה ו/לא כל ירדי דומה" | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
 
 La conclusión del video es que si el Mesías fuera solo un ben Adam corruptible, no tendría mérito suficiente para redimir. Por eso la identidad del Mesías debe leerse desde el Adam celestial y desde la revelación de Elohim, no desde una humanidad pecaminosa común.
 
@@ -166,12 +183,12 @@ La conclusión del video es que si el Mesías fuera solo un ben Adam corruptible
 
 La escena de #iojanan_9_38 se interpreta por contraste. Cuando Cornelio se postra ante Pedro, Pedro lo levanta. Cuando Yojanan se postra ante el mensajero celestial, el mensajero lo prohíbe. En cambio, Yeshúa no corrige al ciego.
 
-| Referencia              | Texto local                                               | Respuesta                                                                        |
+| Referencia | Texto local | Respuesta |
 | ----------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| #iojanan_9_38           | TTH: "Yo me afirmo, Adonai, y se le postró."              | Yeshúa recibe la postración sin corregir al hombre.                              |
-| #maasei_hashlijim_10_25 | Delitzsch: "ויצא קרניליוס לקראתו ויפל לרגליו וישתחו"      | Cornelio cae a los pies de Pedro y se postra.                                    |
-| #maasei_hashlijim_10_26 | Delitzsch: "ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי" | Pedro lo levanta y declara que él también es hombre.                             |
-| #sodot_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate!... Póstrate a Elohim | El mensajero rechaza la postración y manda postrarse ante Elohim. |
+| #iojanan_9_38 | TTH: "Yo me afirmo, Adonai, y se le postró." | Yeshúa recibe la postración sin corregir al hombre. |
+| #maasei_hashlijim_10_25 | Delitzsch: "ויצא קרניליוס לקראתו ויפל לרגליו וישתחו" | Cornelio cae a los pies de Pedro y se postra. |
+| #maasei_hashlijim_10_26 | Delitzsch: "ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי" | Pedro lo levanta y declara que él también es hombre. |
+| #sodot_19_10 | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate!... Póstrate a Elohim | El mensajero rechaza la postración y manda postrarse ante Elohim. |
 
 La clase usa esta comparación para sostener que Yeshúa no se comporta como un simple enviado creado. Si fuera solo un siervo, tendría que rechazar la postración como Pedro o como el mensajero de Jizayon. La aceptación de la postración se vuelve parte del testimonio de Yojanan sobre la identidad de Yeshúa.
 
@@ -204,7 +221,8 @@ La sanidad abre los ojos; la revelación exige una respuesta. En el relato, el c
 
 ## Créditos
 
-- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=-W2giXMqvUE> — source_id: `youtube:-W2giXMqvUE`.
-- Video: <https://www.youtube.com/watch?v=QZFKS6icUiU> — source_id: `youtube:QZFKS6icUiU`.
-- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
+Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
+
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán parte 28 (Cap 9)» — <https://www.youtube.com/watch?v=-W2giXMqvUE> — transcripción: `private/transcripts/ericdejes/-W2giXMqvUE.md` — source_id: `youtube:-W2giXMqvUE`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to John Part 27 (Chapter 9:16ff)» — <https://www.youtube.com/watch?v=QZFKS6icUiU> — transcripción: `private/transcripts/ericdejes/QZFKS6icUiU.md` — source_id: `youtube:QZFKS6icUiU`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán/Juan Cap 9» — <https://www.youtube.com/watch?v=x9B0el73UYI> — transcripción: `private/transcripts/ericdejes/x9B0el73UYI.md` — source_id: `youtube:x9B0el73UYI`.

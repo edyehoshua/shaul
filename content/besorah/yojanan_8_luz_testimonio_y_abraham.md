@@ -25,6 +25,8 @@ sources:
   - "private/transcripts/ericdejes/VceL8X2SBBc.md"
   - "https://www.youtube.com/watch?v=EilK_3N8Q7w"
   - "private/transcripts/ericdejes/EilK_3N8Q7w.md"
+  - "https://www.youtube.com/watch?v=VsjYQKWSKMs"
+  - "private/transcripts/ericdejes/VsjYQKWSKMs.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -33,6 +35,7 @@ source_ids:
   - "youtube:O5DvvGPLxoI"
   - "youtube:VceL8X2SBBc"
   - "youtube:EilK_3N8Q7w"
+  - "youtube:VsjYQKWSKMs"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -58,6 +61,12 @@ La clase asocia «seguir» con una conducta que va detrás de Yehoshua. El texto
 
 Las cinco clases trabajan diversas secciones del capítulo: la luz y el testimonio (#iojanan_8_12ss), las palabras sobre origen y destino (#iojanan_8_21ss), las controversias sobre filiación y verdad, y los insultos de #iojanan_8_48ss. La nota distingue el texto de las conclusiones doctrinales de las clases: el evangelio narra un intercambio sostenido; no todos los argumentos históricos o léxicos en la transcripción quedan demostrados por una sola expresión.
 
+## Permanecer, verdad y libertad
+
+La clase añadida se concentra en #iojanan_8_31-47. El texto local une tres acciones en orden: permanecer en la palabra de Yehoshua, ser discípulos y conocer la verdad; de allí sigue la promesa de libertad (#iojanan_8_31-32). La exposición propone que la libertad se contrasta después con la esclavitud del pecado (#iojanan_8_34-36). Esta relación pertenece al discurso del capítulo; las explicaciones sobre predestinación, el alcance de la obediencia o las condiciones espirituales de cada oyente deben recibirse como desarrollo interpretativo de la clase, no como una glosa exhaustiva del pasaje.
+
+En #iojanan_8_37-47 la controversia se vuelve más aguda: los interlocutores apelan a Abraham y al Padre, mientras Yehoshua contrasta esa afirmación con las obras y la recepción de su palabra. Conviene conservar el lenguaje del relato y no convertir «los yehudim» en una acusación indiscriminada contra el pueblo judío; el propio texto sitúa una disputa concreta dentro del capítulo.
+
 ## Abraham y la frase final
 
 #iojanan_8_58 coloca una declaración de Yehoshua en relación con Abraham. Las clases proponen lecturas amplias sobre «yo soy», Éxodo, identidad y preexistencia. Conviene no reducir la frase a una equivalencia automática con una fórmula hebrea sin revisar el griego, las traducciones y el contexto completo de #iojanan_8_52-59.
@@ -76,3 +85,4 @@ Esta nota organiza y contrasta transcripciones automáticas; no las trata como c
 - **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán/Juan (Parte 21) Cap 8:12ss» — <https://www.youtube.com/watch?v=O5DvvGPLxoI> — transcripción: `private/transcripts/ericdejes/O5DvvGPLxoI.md` — source_id: `youtube:O5DvvGPLxoI`.
 - **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 24) Cap 8:49ss» — <https://www.youtube.com/watch?v=VceL8X2SBBc> — transcripción: `private/transcripts/ericdejes/VceL8X2SBBc.md` — source_id: `youtube:VceL8X2SBBc`.
 - **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 25)» — <https://www.youtube.com/watch?v=EilK_3N8Q7w> — transcripción: `private/transcripts/ericdejes/EilK_3N8Q7w.md` — source_id: `youtube:EilK_3N8Q7w`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 23) Cap 8:30ss» — <https://www.youtube.com/watch?v=VsjYQKWSKMs> — transcripción: `private/transcripts/ericdejes/VsjYQKWSKMs.md` — source_id: `youtube:VsjYQKWSKMs`.

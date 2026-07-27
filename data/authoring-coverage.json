@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 704,
-  "pending_videos": 254,
+  "covered_videos": 706,
+  "pending_videos": 252,
   "transcript_notes": 313,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -83,7 +83,7 @@
     },
     "Juan": {
       "total": 71,
-      "covered": 69,
+      "covered": 71,
       "lane": "yojanan"
     },
     "La deidad de Mashiaj": {
