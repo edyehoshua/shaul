@@ -76,6 +76,11 @@
       "covered": 9,
       "lane": "yojanan"
     },
+    "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
+      "total": 35,
+      "covered": 0,
+      "lane": "haftarot"
+    },
     "Hebreas de antes": {
       "total": 14,
       "covered": 12,
@@ -147,7 +152,7 @@
       "lane": "yojanan"
     },
     "Uncategorized": {
-      "total": 36,
+      "total": 1,
       "covered": 1,
       "lane": null
     },

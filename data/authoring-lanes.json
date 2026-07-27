@@ -205,6 +205,55 @@
           "reason": "Fuentes no asignadas de parashot identificadas por título; exclusivas para remediar y desarrollar notas canónicas Tanaj sin solaparse con otras lanes."
         }
       ]
+    },
+    "haftarot": {
+      "branch": "worker/shaul-haftarot",
+      "worktree": "/home/david/shaul-workers/haftarot",
+      "playlists_in_order": [],
+      "source_groups": [
+        {
+          "title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+          "source_ids": [
+            "youtube:uXzXFluGIdg",
+            "youtube:6yvN36B5280",
+            "youtube:w8HoMQSjKyQ",
+            "youtube:7uBEYFbUy2A",
+            "youtube:_QlsdBq_GTc",
+            "youtube:qw74-9iWKGI",
+            "youtube:LOCn1StkW4M",
+            "youtube:WDnxTbBQP8I",
+            "youtube:h84ocNkUd0I",
+            "youtube:srNlYR8BNnQ",
+            "youtube:Kiq69SwJqEE",
+            "youtube:zdW5CnkKt_4",
+            "youtube:ylAeMhup8o0",
+            "youtube:EdDuQREWp3Y",
+            "youtube:p7Tu9dJAgN0",
+            "youtube:Aly9Mvp-Nts",
+            "youtube:x5NiMis3izg",
+            "youtube:YgDxHdLEmKc",
+            "youtube:vB6aDB59o48",
+            "youtube:xjQ5RfijeVU",
+            "youtube:cvt-w1oDtmE",
+            "youtube:0-KPe89FY7I",
+            "youtube:dWfZ0pLJAlk",
+            "youtube:HXpeQAgaCoA",
+            "youtube:sTl5WJfH61Q",
+            "youtube:MlM2bk7h0hc",
+            "youtube:4i_5Hr0stwE",
+            "youtube:S6cc-nUH6Mg",
+            "youtube:kKv_J4gwBkc",
+            "youtube:Gw0vvb4MGI8",
+            "youtube:hMKGpQItwvY",
+            "youtube:yoYZGJOMi38",
+            "youtube:iRGczDAqu9c",
+            "youtube:GN22XKFRYGM",
+            "youtube:dsI1NFrPTZY"
+          ],
+          "reason": "Quinta lane exclusiva. Agrupa las 35 fuentes pendientes no asignadas tras el rebalanceo; prioriza Haftarot y estudios bíblicos. Las piezas musicales, bodas u otro material no expositivo se registran como no apto para nota canónica, sin inventar una enseñanza."
+        }
+      ],
+      "priority": "Remediate existing canonical notes tied to owned sources first; otherwise process the first eligible biblical exposition in source order."
     }
   },
   "uncategorized_policy": "Do not process an Uncategorized video until its biblical book is identified from its title/transcript and assigned by the integrator to a lane not currently owning that book. Record the assignment before authoring it.",
