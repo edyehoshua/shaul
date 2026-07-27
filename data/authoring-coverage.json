@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 554,
-  "pending_videos": 404,
+  "covered_videos": 555,
+  "pending_videos": 403,
   "transcript_notes": 265,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -93,7 +93,7 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 4,
+      "covered": 5,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {

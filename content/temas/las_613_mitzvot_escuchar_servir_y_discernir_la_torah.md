@@ -17,6 +17,9 @@ references:
   - "#leviticus_23_14"
   - "#leviticus_23_15"
   - "#leviticus_23_16"
+  - "#numbers_6_2"
+  - "#numbers_6_3"
+  - "#numbers_6_5"
 sources:
   - "https://www.youtube.com/watch?v=1yylyCqEFhw"
   - "https://www.youtube.com/watch?v=n5iXrkCooCM"
@@ -81,6 +84,7 @@ sources:
   - "https://www.youtube.com/watch?v=3X9vlwqU5Hg"
   - "https://www.youtube.com/watch?v=LcEX_H-pdAs"
   - "https://www.youtube.com/watch?v=SeHY2afxDh0"
+  - "https://www.youtube.com/watch?v=jTmRIY77Twg"
   - "private/transcripts/ericdejes/1yylyCqEFhw.md"
   - "private/transcripts/ericdejes/n5iXrkCooCM.md"
   - "private/transcripts/ericdejes/NTEICX0rO7I.md"
@@ -144,6 +148,8 @@ sources:
   - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
   - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
   - "private/transcripts/ericdejes/SeHY2afxDh0.md"
+  - "private/transcripts/ericdejes/jTmRIY77Twg.md"
+  - "docs/scriptures/oe/json/numbers/6.json"
   - "docs/scriptures/oe/json/exodus/20.json"
   - "docs/scriptures/oe/json/deuteronomy/6.json"
   - "docs/scriptures/oe/json/leviticus/23.json"
@@ -211,6 +217,7 @@ source_ids:
   - "youtube:3X9vlwqU5Hg"
   - "youtube:LcEX_H-pdAs"
   - "youtube:SeHY2afxDh0"
+  - "youtube:jTmRIY77Twg"
 translation: "[OE]"
 ---
 
@@ -220,7 +227,7 @@ La serie sobre las 613 mitzvot ofrece un recorrido de estudio por mandamientos d
 
 ## Alcance de la nota
 
-Esta nota reúne las 62 sesiones locales de la lista «613 Mitzvot» y comienza a integrar la continuación «Las 613 mitzvot 2a parte». La sesión añadida aborda las mitzvot 191–192 en diálogo con Pésaj, la cebada y el ómer. Los títulos muestran bloques dedicados, entre otros, a sacrificios, pureza, Pésaj, Yom Teruah, votos, familia, tribunales, daños y reparación. No convierte el título ni una transcripción automática en prueba de una enumeración, aplicación o interpretación; cada mandamiento debe volver a su referencia bíblica y a su contexto literario.
+Esta nota reúne las 62 sesiones locales de la lista «613 Mitzvot» y comienza a integrar la continuación «Las 613 mitzvot 2a parte». Las sesiones añadidas abordan las mitzvot 191–192 en diálogo con Pésaj, la cebada y el ómer, y la mitzvá 202 sobre el voto de nazir. Los títulos muestran bloques dedicados, entre otros, a sacrificios, pureza, Pésaj, Yom Teruah, votos, familia, tribunales, daños y reparación. No convierte el título ni una transcripción automática en prueba de una enumeración, aplicación o interpretación; cada mandamiento debe volver a su referencia bíblica y a su contexto literario.
 
 La primera sesión explica que el cómputo «613» no aparece como una lista numerada dentro del Tanaj y sitúa las listas medievales como instrumentos posteriores. Esa observación es importante, pero las fechas, fuentes rabínicas y atribuciones históricas de la clase deben documentarse antes de citarlas como investigación establecida.
 
@@ -232,6 +239,7 @@ La primera sesión explica que el cómputo «613» no aparece como una lista num
 | #deuteronomy_6_4    | **שמ ישראל יהוה אלהי/נו יהוה אח**                                                                                                                                                                                                                                                                                                                                                                                                                                        | La confesión de Israel centra la escucha en יהוה.                                                                         |
 | #deuteronomy_6_5    | **ו/אהבת את יהוה אלהי/ך ב/כל לבב/ך ו/ב/כל נפש/ך ו/ב/כל מאד/ך**                                                                                                                                                                                                                                                                                                                                                                                                           | El amor a יהוה involucra corazón, vida y fuerza; no se reduce a una contabilización.                                      |
 | #leviticus_23_10-16 | **דבר אל בני ישראל ו/אמרת אל/הם כי תבאו אל ה/ארץ אשר אני נתן ל/כם ו/קצרתם את קציר/ה ו/הבאתם את עמר ראשית קציר/כם אל ה/כהן**; **ו/הניף את ה/עמר ל/פני יהוה ל/רצנ/כם מ/מחרת ה/שבת יניפ/נו ה/כהן**; **ו/לחם ו/קלי ו/כרמל לא תאכלו עד עצם ה/יום ה/זה עד הביא/כם את קרבן אלהי/כם חקת עולם ל/דרתי/כם ב/כל משבתי/כם**; **ו/ספרתם ל/כם מ/מחרת ה/שבת מ/יום הביא/כם את עמר ה/תנופה שבע שבתות תמימת תהיינה**; **עד מ/מחרת ה/שבת ה/שביעת תספרו חמשים יום ו/הקרבתם מנחה חדשה ל/יהוה** | La ofrenda del ómer, la prohibición relativa al grano nuevo y el conteo se expresan dentro de una instrucción cultual.    |
+| #numbers_6_2-5      | **איש או אשה כי יפלא ל/נדר נדר נזיר ל/הזיר ל/יהוה**; **מ/יין ו/שכר יזיר ... ו/ענבים לחים ו/יבשים לא יאכל**; **כל ימי נדר נזר/ו תער לא יעבר על ראש/ו ... קדש יהיה**                                                                                                                                                                                                                                                                                                       | El pasaje regula un voto voluntario de separación para יהוה y describe restricciones concretas durante su plazo.          |
 
 ## Leer un cómputo sin reemplazar el texto
 
@@ -251,6 +259,12 @@ Los títulos posteriores delimitan asuntos que merecen tratamiento contextual: q
 
 La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la lectura de la ofrenda de las primicias y del grano nuevo. Su discusión sobre fechas calendáricas, maduración de la cebada y la relación entre Pésaj y el ómer debe volver a #leviticus_23_9-16, antes de presentarse como una conclusión normativa. El pasaje contiene una instrucción cultual concreta; los calendarios, las reconstrucciones agrícolas y su aplicación contemporánea requieren fuentes y contexto adicionales.
 
+## El voto de nazir: separación regulada, no prestigio espiritual
+
+La sesión sobre la mitzvá 202 lee #numbers_6 como la regulación de un voto de nazir y llama la atención sobre su carácter voluntario. El texto abre el caso para «un hombre o una mujer» que haga un voto de nazir para separarse para יהוה (#numbers_6_2); luego especifica abstinencia de productos de la vid, el cabello sin cortar y la distancia de la impureza por un muerto (#numbers_6_3-8). La clase propone que esta separación no debe convertirse en exhibición de superioridad. Esa aplicación puede servir como examen ético, pero no debe confundirse con una explicación explícita del propósito del voto: el capítulo describe su procedimiento con mucho detalle y no desarrolla una motivación única para cada persona.
+
+La exposición también observa que el cierre del voto incluye ofrendas y la intervención sacerdotal (#numbers_6_13-20). Por ello, es más preciso decir que el rito tal como está regulado presupone santuario y sacerdocio, antes que convertir esa observación en una sentencia general sobre toda forma contemporánea de compromiso personal. Las relaciones etimológicas entre **(נזיר)**, **(נדר)** y **(נזר)**, así como las atribuciones a Rashi, Ibn Ezra y el tratado _Nazir_, quedan como investigación pendiente: la transcripción automática no basta para establecerlas ni para reproducir sus formulaciones.
+
 ## Pendiente de verificar
 
 - [ ] Identificar las referencias bíblicas de cada mitzvá numerada en las sesiones y vincularlas con la nota canónica del capítulo correspondiente.
@@ -259,6 +273,8 @@ La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la 
 - [ ] Cotejar las transliteraciones y equivalencias hebreas que aparezcan en las transcripciones automáticas con ediciones y léxicos.
 - [ ] Examinar por separado los mandamientos dependientes de santuario, sacerdocio, tierra, autoridades o procedimientos judiciales.
 - [ ] Cotejar la lectura de las mitzvot 191–192 con #leviticus_23_9-16 y documentar las fuentes para las afirmaciones calendáricas y agrícolas de la clase.
+- [ ] Cotejar la terminología de #numbers_6 (en especial **(נזיר)**, **(נדר)** y **(נזר)**) y las atribuciones a Rashi, Ibn Ezra y el tratado _Nazir_ con fuentes textuales verificables.
+- [ ] Distinguir la regulación cultual de cierre del voto en #numbers_6_13-20 de cualquier aplicación contemporánea propuesta en la clase.
 
 ## Conclusión
 
@@ -330,4 +346,5 @@ El valor de esta serie está en hacer visible la amplitud de la Torah y en invit
 - [The "613" Mitzvot #118-120 Do not leave Pesach for "tomorrow"](https://www.youtube.com/watch?v=3X9vlwqU5Hg) — transcripción de trabajo: `private/transcripts/ericdejes/3X9vlwqU5Hg.md` (source_id: `youtube:3X9vlwqU5Hg`).
 - [Las 613 Mitzvot 126 - Mas acerca de Pésaj y el Séder](https://www.youtube.com/watch?v=LcEX_H-pdAs) — transcripción de trabajo: `private/transcripts/ericdejes/LcEX_H-pdAs.md` (source_id: `youtube:LcEX_H-pdAs`).
 - [Estudiando las "613" mitzvot #191-192 Conversando sobre Pésaj](https://www.youtube.com/watch?v=SeHY2afxDh0) — transcripción de trabajo: `private/transcripts/ericdejes/SeHY2afxDh0.md` (source_id: `youtube:SeHY2afxDh0`).
+- [Estudiando las "613" Mitzvot - No. 202 Sobre el voto de Nazir y otros similares](https://www.youtube.com/watch?v=jTmRIY77Twg) — transcripción de trabajo: `private/transcripts/ericdejes/jTmRIY77Twg.md` (source_id: `youtube:jTmRIY77Twg`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
