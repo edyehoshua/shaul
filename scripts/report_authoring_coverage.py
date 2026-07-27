@@ -32,13 +32,25 @@ def main() -> None:
     videos = inv["videos"]
     inventory_ids = {v["id"] for v in videos}
     covered = set(seen) & inventory_ids
-    by_playlist = collections.defaultdict(lambda: {"total": 0, "covered": 0, "lane": None})
-    for v in videos:
-        title = v.get("playlist_title") or "Uncategorized"
-        row = by_playlist[title]
-        row["total"] += 1
-        row["lane"] = assigned.get(title)
-        if v["id"] in covered: row["covered"] += 1
+    by_playlist = {}
+    playlist_ids = set()
+    for playlist in inv.get("playlists", []):
+        title = playlist["title"]
+        ids = set(playlist.get("video_ids", []))
+        playlist_ids.update(ids)
+        by_playlist[title] = {
+            "total": playlist.get("video_count", len(ids)),
+            "covered": len(ids & covered),
+            "lane": assigned.get(title),
+        }
+    # The uploads tab also contains videos not assigned to any playlist.
+    uncategorized = inventory_ids - playlist_ids
+    if uncategorized:
+        by_playlist["Uncategorized"] = {
+            "total": len(uncategorized),
+            "covered": len(uncategorized & covered),
+            "lane": None,
+        }
     report = {
         "inventory_videos": len(videos), "covered_videos": len(covered),
         "pending_videos": len(videos) - len(covered),
