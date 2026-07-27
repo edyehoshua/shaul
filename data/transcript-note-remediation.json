@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 223,
+  "total_notes_requiring_remediation": 222,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md",
@@ -802,12 +802,6 @@
     {
       "path": "content/tanaj/tehilim_103_lectura_oracion_y_alabanza.md",
       "substantive_words": 158,
-      "thematic_sections": ["Lectura del capítulo"],
-      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
-    },
-    {
-      "path": "content/tanaj/tehilim_11_lectura_oracion_y_alabanza.md",
-      "substantive_words": 154,
       "thematic_sections": ["Lectura del capítulo"],
       "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
     },
