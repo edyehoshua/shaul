@@ -1,11 +1,9 @@
 {
-  "inventory_videos": 958,
-  "covered_videos": 147,
-  "pending_videos": 811,
-  "transcript_notes": 53,
+  "inventory_videos": 893,
+  "covered_videos": 219,
+  "pending_videos": 674,
+  "transcript_notes": 78,
   "notes_missing_visible_credits": [
-    "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
-    "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
     "content/besorah/tesalonicenses_2_comunidad_trabajo_correccion_paz.md",
     "content/besorah/tesalonicenses_2_juicio_perseverancia_gloria.md",
     "content/besorah/tesalonicenses_2_verdad_enganio_firmeza.md",
@@ -24,7 +22,16 @@
     "content/besorah/yojanan_1_testigo_cordero.md",
     "content/tanaj/qohelet_7_sabiduria_nombre_y_limites.md"
   ],
-  "duplicate_source_ids": {},
+  "duplicate_source_ids": {
+    "f3tHvC2IgWo": [
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md",
+      "content/temas/shavuot_primicias_palabra_y_testimonio.md"
+    ],
+    "h3UIeUJpRTc": [
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md",
+      "content/temas/shavuot_primicias_palabra_y_testimonio.md"
+    ]
+  },
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
@@ -36,19 +43,14 @@
       "covered": 7,
       "lane": "colosenses"
     },
-    "613 Mitzvot": {
-      "total": 61,
-      "covered": 0,
-      "lane": "colosenses"
-    },
     "Apocalipsis": {
-      "total": 30,
+      "total": 1,
       "covered": 1,
       "lane": "efesios"
     },
     "Colosenses": {
       "total": 18,
-      "covered": 2,
+      "covered": 18,
       "lane": "colosenses"
     },
     "Efesios completo": {
@@ -57,83 +59,43 @@
       "lane": "efesios"
     },
     "Fiestas": {
-      "total": 35,
-      "covered": 0,
-      "lane": "efesios"
-    },
-    "Gálatas": {
-      "total": 13,
-      "covered": 0,
+      "total": 19,
+      "covered": 18,
       "lane": "colosenses"
     },
-    "Haftarot de Bre’shit/Génesis": {
-      "total": 12,
-      "covered": 0,
-      "lane": "yojanan"
-    },
-    "Haftarot de Dvarim/Deuteronomio": {
-      "total": 9,
-      "covered": 0,
-      "lane": "yojanan"
-    },
     "Haftarot de Shmot/Éxodo": {
-      "total": 9,
+      "total": 1,
       "covered": 0,
       "lane": "yojanan"
     },
     "Haftarot de Vayiqra’/Levítico": {
-      "total": 11,
-      "covered": 0,
-      "lane": "yojanan"
-    },
-    "Haftarot de bemidbar/Números": {
-      "total": 9,
+      "total": 6,
       "covered": 0,
       "lane": "yojanan"
     },
     "Hebreas de antes": {
       "total": 14,
-      "covered": 0,
-      "lane": "colosenses"
-    },
-    "Hebreos": {
-      "total": 17,
-      "covered": 0,
+      "covered": 12,
       "lane": "colosenses"
     },
     "Juan": {
-      "total": 71,
-      "covered": 32,
+      "total": 51,
+      "covered": 29,
       "lane": "yojanan"
-    },
-    "La deidad de Mashiaj": {
-      "total": 4,
-      "covered": 0,
-      "lane": "colosenses"
-    },
-    "Las 613 mitzvot 2a parte": {
-      "total": 96,
-      "covered": 0,
-      "lane": "colosenses"
-    },
-    "Parashot 2016-2017": {
-      "total": 47,
-      "covered": 0,
-      "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
       "total": 30,
-      "covered": 29,
+      "covered": 25,
       "lane": "efesios"
     },
     "Romanos": {
-      "total": 35,
-      "covered": 0,
+      "total": 1,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Shavu’ot": {
-      "total": 7,
-      "covered": 0,
+      "total": 2,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Shir hashirim completo": {
@@ -141,19 +103,14 @@
       "covered": 25,
       "lane": "efesios"
     },
-    "Sobre el Shabat": {
-      "total": 4,
-      "covered": 0,
-      "lane": "colosenses"
-    },
     "Tehilim/Himnos/Salmos": {
-      "total": 165,
+      "total": 90,
       "covered": 2,
       "lane": "yojanan"
     },
     "Uncategorized": {
-      "total": 168,
-      "covered": 0,
+      "total": 573,
+      "covered": 27,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
@@ -162,13 +119,13 @@
       "lane": "yojanan"
     },
     "Yom hakipurim": {
-      "total": 5,
-      "covered": 0,
+      "total": 2,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Yom tru’áh": {
-      "total": 4,
-      "covered": 0,
+      "total": 1,
+      "covered": 1,
       "lane": "colosenses"
     }
   },

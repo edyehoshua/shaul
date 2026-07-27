@@ -1,0 +1,72 @@
+---
+title: "Yom Teruah: convocación, memoria y discernimiento"
+description: "Yom Teruah en la Torah: un día de reposo y convocación que debe distinguirse de sus lecturas escatológicas posteriores."
+date: 2026-07-27
+tags:
+  - yom-teruah
+  - shofar
+  - fiestas
+  - levitico
+references:
+  - "#leviticus_23_24"
+  - "#numbers_29_1"
+  - "#leviticus_25_9"
+sources:
+  - "https://www.youtube.com/watch?v=bYZCWrOSMyM"
+  - "https://www.youtube.com/watch?v=eKPZwHFJ6Tg"
+  - "https://www.youtube.com/watch?v=6uZpdCuu95M"
+  - "private/transcripts/ericdejes/bYZCWrOSMyM.md"
+  - "private/transcripts/ericdejes/eKPZwHFJ6Tg.md"
+  - "private/transcripts/ericdejes/6uZpdCuu95M.md"
+  - "docs/scriptures/oe/json/leviticus/23.json"
+  - "docs/scriptures/oe/json/leviticus/25.json"
+  - "docs/scriptures/oe/json/numbers/29.json"
+source_ids:
+  - "youtube:bYZCWrOSMyM"
+  - "youtube:eKPZwHFJ6Tg"
+  - "youtube:6uZpdCuu95M"
+translation: "[OE]"
+---
+
+# Tesis
+
+Yom Teruah abre el séptimo mes como reposo y convocación santa. La Torah lo llama «memorial de teruah» y «día de teruah»; escuchar el shofar puede acompañar la conmemoración, mientras que sus lecturas sobre resurrección o cronologías futuras deben presentarse como interpretaciones y no como una declaración explícita de Levítico 23.
+
+## Alcance de la nota
+
+Los tres mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah y remite a Levítico 23 como texto de partida. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
+
+## Hoja de comparación
+
+| Referencia       | Texto local                                                                                  | Observación                                                                      |
+| ---------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| #leviticus_23_24 | **ב/חדש ה/שביעי ב/אחד ל/חדש יהיה ל/כם שבתון זכרון תרועה מקרא קדש**                           | El primer día del mes séptimo es reposo, memorial de teruah y convocación santa. |
+| #numbers_29_1    | **ו/ב/חדש ה/שביעי ב/אחד ל/חדש מקרא קדש יהיה ל/כם כל מלאכת עבדה לא תעשו יום תרועה יהיה ל/כם** | Números añade la abstención de trabajo servil.                                   |
+| #leviticus_25_9  | **ו/העברת שופר תרועה ב/חדש ה/שבעי ב/עשור ל/חדש ב/יום ה/כפרים תעבירו שופר ב/כל ארצ/כם**       | El toque del shofar también aparece en el marco del jubileo y Yom haKippurim.    |
+
+## El sonido y su contexto
+
+Las clases recuerdan la práctica de sonar o escuchar el shofar. El texto llama al día teruah, pero #leviticus_23_24 no explica todos los instrumentos, secuencias o significados que comunidades posteriores asocian con él. #leviticus_25_9 demuestra otro empleo importante del shofar, por lo que no conviene fundir sus contextos sin explicación.
+
+El conversatorio de 2019 insiste en separar lo que identifica como bíblico de desarrollos históricos posteriores. Ese es un buen procedimiento de lectura; sus conclusiones concretas deben, no obstante, comprobarse pasaje por pasaje y con fuentes históricas trazables.
+
+## Lecturas de esperanza
+
+La sesión relaciona el shofar con la resurrección y el futuro. Esa conexión puede estudiarse mediante los pasajes de la Besorah y las cartas que lo mencionen, pero no debe atribuirse a #leviticus_23_24 como si estuviera formulada allí. Mantener esta distinción protege tanto la esperanza como la lectura honesta de la Torah.
+
+## Pendiente de verificar
+
+- [ ] Comparar los usos de teruah y shofar en #leviticus_23, #leviticus_25 y #numbers_29.
+- [ ] Revisar los textos de la Besorah y las cartas usados para la lectura escatológica antes de vincularlos de manera concluyente a Yom Teruah.
+
+## Conclusión
+
+Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede despertar la atención de la comunidad, pero su significado debe nacer de la lectura contextual de la escritura y no de asociaciones impuestas.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [Yom Tru'ah / Rosh Hashanah 5783](https://www.youtube.com/watch?v=bYZCWrOSMyM) — transcripción de trabajo: `private/transcripts/ericdejes/bYZCWrOSMyM.md` (source_id: `youtube:bYZCWrOSMyM`).
+- [Yom tru'ah 5786 - 2025](https://www.youtube.com/watch?v=eKPZwHFJ6Tg) — transcripción de trabajo: `private/transcripts/ericdejes/eKPZwHFJ6Tg.md` (source_id: `youtube:eKPZwHFJ6Tg`).
+- [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
