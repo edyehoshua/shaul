@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 95,
-  "pending_videos": 798,
-  "transcript_notes": 32,
+  "covered_videos": 96,
+  "pending_videos": 797,
+  "transcript_notes": 33,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
     "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
@@ -78,7 +78,7 @@
     },
     "Qohélet - Eclesiastés": {
       "total": 30,
-      "covered": 5,
+      "covered": 6,
       "lane": "efesios"
     },
     "Romanos": {
