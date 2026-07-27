@@ -24,6 +24,7 @@ sources:
   - "docs/scriptures/tth/json/bereshit.json"
   - "docs/scriptures/oe/json/genesis/1.json"
   - "https://www.youtube.com/watch?v=ahPoKpA9F7o"
+  - "private/transcripts/ericdejes/ahPoKpA9F7o.md"
 source_ids:
   - "youtube:ahPoKpA9F7o"
 translation: "[TTH, OE]"
@@ -100,4 +101,5 @@ Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Bre'shit Gn 1:1 - 6:8 El Re'shit y la plenitud de la deidad](https://www.youtube.com/watch?v=ahPoKpA9F7o).
+- Transcripción de trabajo: `private/transcripts/ericdejes/ahPoKpA9F7o.md`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
