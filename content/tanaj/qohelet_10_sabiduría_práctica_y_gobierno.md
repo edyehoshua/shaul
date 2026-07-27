@@ -7,18 +7,22 @@ tags:
   - sabiduria
 references:
   - "#ecclesiastes_10_1"
+  - "#ecclesiastes_10_12-13"
   - "#ecclesiastes_10_20"
 sources:
   - "https://www.youtube.com/watch?v=6HgU6a_cf7E"
   - "private/transcripts/ericdejes/6HgU6a_cf7E.md"
   - "https://www.youtube.com/watch?v=UMnek0zzbZU"
   - "private/transcripts/ericdejes/UMnek0zzbZU.md"
+  - "https://www.youtube.com/watch?v=FFUU2hgLZ0M"
+  - "private/transcripts/ericdejes/FFUU2hgLZ0M.md"
   - "https://www.youtube.com/watch?v=rfRAvg1PzK8"
   - "private/transcripts/ericdejes/rfRAvg1PzK8.md"
   - "docs/scriptures/oe/json/ecclesiastes/10.json"
 source_ids:
   - "youtube:6HgU6a_cf7E"
   - "youtube:UMnek0zzbZU"
+  - "youtube:FFUU2hgLZ0M"
   - "youtube:rfRAvg1PzK8"
 translation: "[OE]"
 ---
@@ -35,14 +39,17 @@ Qohélet 10 considera máximas sobre necedad, respuesta ante la autoridad, traba
 
 ## Hoja de comparación
 
-| Referencia          | Texto local (OE, sin nikud)                                                                                       | Observación                                    |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_10_1  | **זבובי מות יבאיש יביע שמן רוקח יקר מ/חכמה מ/כבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_10_20 | **גם ב/מדע/ך מלך אל תקלל ו/ב/חדרי משכב/ך אל תקלל עשיר כי עוף ה/שמים יוליך את ה/קול ו/בעל ה/כנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión. |
+| Referencia             | Texto local (OE, sin nikud)                                                                                       | Observación                                                            |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| #ecclesiastes_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מ/חכמה מ/כבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
+| #ecclesiastes_10_12-13 | **דברי פי חכם חן ו/שפתות כסיל תבלע/נו; תחלת דברי פי/הו סכלות ו/אחרית פי/הו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
+| #ecclesiastes_10_20    | **גם ב/מדע/ך מלך אל תקלל ו/ב/חדרי משכב/ך אל תקלל עשיר כי עוף ה/שמים יוליך את ה/קול ו/בעל ה/כנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
 
 ## Lectura del capítulo
 
 La exposición recorre máximas sobre necedad, respuesta ante la autoridad, trabajo hábil y palabras prudentes. El lenguaje de Qohélet no promete que la sabiduría, el trabajo, la riqueza o la experiencia permitan dominar la vida. En cambio, obliga a mirar con sobriedad lo transitorio, reconocer los límites humanos y recibir con gratitud lo que Elohim concede.
+
+La parte 26 se detiene en 10:12–13 y compara traducciones de **חן** (_chen_). Propone «gracia», «encanto» u «oportunidad» como ayudas pedagógicas para pensar la expresión. El texto local afirma que las palabras de la boca del sabio son _chen_ y contrapone el inicio necio de las palabras del necio con su final dañino; las equivalencias castellanas y desarrollos sobre otros pasajes deben seguir siendo aproximaciones que requieren cotejo léxico y contextual.
 
 Las aplicaciones pastorales de las sesiones pueden ayudar a examinar la conducta concreta. Deben probarse por el texto en su contexto: una máxima sapiencial no autoriza diagnósticos rápidos sobre personas, pueblos, sufrimientos o circunstancias particulares.
 
@@ -68,6 +75,8 @@ Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús R
   - Transcripción: `private/transcripts/ericdejes/6HgU6a_cf7E.md` (`source_id: youtube:6HgU6a_cf7E`).
 - «Qohélet-Eclesiastés (parte 25) Cap 10» — https://www.youtube.com/watch?v=UMnek0zzbZU
   - Transcripción: `private/transcripts/ericdejes/UMnek0zzbZU.md` (`source_id: youtube:UMnek0zzbZU`).
+- «Qohélet-Eclesiastés (parte 26) Cap 10» — https://www.youtube.com/watch?v=FFUU2hgLZ0M
+  - Transcripción: `private/transcripts/ericdejes/FFUU2hgLZ0M.md` (`source_id: youtube:FFUU2hgLZ0M`).
 - «Qohélet-Eclesiastés (parte 27) Cap 10» — https://www.youtube.com/watch?v=rfRAvg1PzK8
   - Transcripción: `private/transcripts/ericdejes/rfRAvg1PzK8.md` (`source_id: youtube:rfRAvg1PzK8`).
 
