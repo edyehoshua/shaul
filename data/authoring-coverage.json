@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 550,
-  "pending_videos": 408,
-  "transcript_notes": 262,
+  "covered_videos": 554,
+  "pending_videos": 404,
+  "transcript_notes": 265,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -88,7 +88,7 @@
     },
     "La deidad de Mashiaj": {
       "total": 4,
-      "covered": 0,
+      "covered": 4,
       "lane": "yojanan"
     },
     "Las 613 mitzvot 2a parte": {
