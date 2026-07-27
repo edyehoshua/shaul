@@ -10,7 +10,6 @@
         "Tehilim/Himnos/Salmos",
         "Yesha’yahu - Isaías",
         "Haftarot de Vayiqra’/Levítico",
-        "Haftarot de Shmot/Éxodo",
         "Haftarot de bemidbar/Números",
         "Haftarot de Dvarim/Deuteronomio"
       ]
@@ -43,7 +42,8 @@
         "Apocalipsis",
         "Fiestas",
         "Hebreos",
-        "Haftarot de Bre’shit/Génesis"
+        "Haftarot de Bre’shit/Génesis",
+        "Haftarot de Shmot/Éxodo"
       ]
     }
   },
