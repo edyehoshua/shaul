@@ -1,10 +1,40 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 651,
-  "pending_videos": 307,
-  "transcript_notes": 272,
+  "covered_videos": 659,
+  "pending_videos": 299,
+  "transcript_notes": 277,
   "notes_missing_visible_credits": [],
-  "duplicate_source_ids": {},
+  "duplicate_source_ids": {
+    "K_zLycnKBZo": [
+      "content/besorah/galatim_1_evangelio_gracia_y_llamado.md",
+      "content/besorah/galatim_2_gracia_unidad_y_verdad_del_evangelio.md"
+    ],
+    "Wqc4npxxCPE": [
+      "content/besorah/galatim_2_gracia_unidad_y_verdad_del_evangelio.md",
+      "content/besorah/galatim_3.md"
+    ],
+    "9gyBskCmlPE": [
+      "content/besorah/galatim_3.md",
+      "content/besorah/galatim_4_libertad_filiacion_y_promesa.md"
+    ],
+    "nOvXUecISrQ": [
+      "content/besorah/hebreos_10_ofrenda_acceso_y_fidelidad.md",
+      "content/besorah/hebreos_11_emunah_testimonio_y_esperanza.md"
+    ],
+    "vbJeGh-kmb0": [
+      "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
+      "content/besorah/hebreos_5_sumo_sacerdote_madurez_y_discernimiento.md"
+    ],
+    "0RbDcydhCFE": [
+      "content/besorah/hebreos_5_sumo_sacerdote_madurez_y_discernimiento.md",
+      "content/besorah/hebreos_6_promesa_esperanza_y_perseverancia.md",
+      "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md"
+    ],
+    "RX3-_bvubqo": [
+      "content/besorah/hebreos_8_pacto_mejor_y_servicio_celestial.md",
+      "content/besorah/hebreos_9_santuario_conciencia_y_redencion.md"
+    ]
+  },
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
@@ -48,7 +78,7 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 10,
+      "covered": 12,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
@@ -59,7 +89,7 @@
     "Haftarot de Shmot/Éxodo": {
       "total": 10,
       "covered": 10,
-      "lane": "efesios"
+      "lane": "yojanan"
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
@@ -89,7 +119,7 @@
     "La deidad de Mashiaj": {
       "total": 4,
       "covered": 4,
-      "lane": "yojanan"
+      "lane": "colosenses"
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
@@ -98,7 +128,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 2,
+      "covered": 4,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
@@ -123,7 +153,7 @@
     },
     "Sobre el Shabat": {
       "total": 4,
-      "covered": 0,
+      "covered": 4,
       "lane": "colosenses"
     },
     "Tehilim/Himnos/Salmos": {

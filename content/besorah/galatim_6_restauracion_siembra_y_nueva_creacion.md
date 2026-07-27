@@ -4,14 +4,12 @@ description: "Nota canónica de Galatim 6: restauración humilde, cargas compart
 date: 2026-07-27
 tags: [galatim, restauracion, comunidad, nueva-creacion, yehoshua]
 references:
-  [
-    "#galatians_6_1",
-    "#galatians_6_2",
-    "#galatians_6_7",
-    "#galatians_6_9",
-    "#galatians_6_14",
-    "#galatians_6_15",
-  ]
+  - "#galatians_6_1"
+  - "#galatians_6_2"
+  - "#galatians_6_7"
+  - "#galatians_6_9"
+  - "#galatians_6_14"
+  - "#galatians_6_15"
 sources:
   - "https://www.youtube.com/watch?v=BIR2QHwjUME"
   - "private/transcripts/ericdejes/BIR2QHwjUME.md"
