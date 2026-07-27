@@ -10,10 +10,9 @@
         "Tehilim/Himnos/Salmos",
         "Yesha’yahu - Isaías",
         "Haftarot de Vayiqra’/Levítico",
+        "Haftarot de Shmot/Éxodo",
         "Haftarot de bemidbar/Números",
-        "Haftarot de Dvarim/Deuteronomio",
-        "La deidad de Mashiaj",
-        "Sobre el Shabat"
+        "Haftarot de Dvarim/Deuteronomio"
       ]
     },
     "colosenses": {
@@ -29,7 +28,9 @@
         "Gálatas",
         "613 Mitzvot",
         "Las 613 mitzvot 2a parte",
-        "Parashot 2016-2017"
+        "Parashot 2016-2017",
+        "Sobre el Shabat",
+        "La deidad de Mashiaj"
       ]
     },
     "efesios": {
@@ -42,8 +43,7 @@
         "Apocalipsis",
         "Fiestas",
         "Hebreos",
-        "Haftarot de Bre’shit/Génesis",
-        "Haftarot de Shmot/Éxodo"
+        "Haftarot de Bre’shit/Génesis"
       ]
     }
   },
