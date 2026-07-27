@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 712,
-  "pending_videos": 246,
-  "transcript_notes": 318,
+  "covered_videos": 713,
+  "pending_videos": 245,
+  "transcript_notes": 319,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -148,7 +148,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 100,
+      "covered": 101,
       "lane": "yojanan"
     },
     "Uncategorized": {
