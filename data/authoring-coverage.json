@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 691,
-  "pending_videos": 267,
+  "covered_videos": 700,
+  "pending_videos": 258,
   "transcript_notes": 313,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {
@@ -116,12 +116,12 @@
     },
     "Qohélet - Eclesiastés": {
       "total": 30,
-      "covered": 29,
+      "covered": 30,
       "lane": "efesios"
     },
     "Romanos": {
       "total": 35,
-      "covered": 30,
+      "covered": 33,
       "lane": "colosenses"
     },
     "Shavu’ot": {
@@ -146,7 +146,7 @@
     },
     "Uncategorized": {
       "total": 168,
-      "covered": 0,
+      "covered": 5,
       "lane": null
     },
     "Yesha’yahu - Isaías": {

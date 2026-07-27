@@ -8,13 +8,19 @@ tags:
 references:
   - "#romanos_9_1"
   - "#romanos_9_17"
+  - "#romanos_9_19"
+  - "#romanos_9_20"
+  - "#romanos_9_22"
   - "#romanos_9_33"
 sources:
   - "https://www.youtube.com/watch?v=_7iywbOZPEQ"
   - "private/transcripts/ericdejes/_7iywbOZPEQ.md"
+  - "https://www.youtube.com/watch?v=atIdZY13b_c"
+  - "private/transcripts/ericdejes/atIdZY13b_c.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:_7iywbOZPEQ"
+  - "youtube:atIdZY13b_c"
 translation: "[Delitzsch]"
 ---
 
@@ -36,7 +42,13 @@ Esta es la nota canónica para Romanos 9. Reúne las sesiones locales de la seri
 
 El pasaje articula una afirmación teológica con una dirección práctica para quienes oyen la buena noticia. Por ello, una lectura responsable atiende a los conectores, a los interlocutores y al lugar de Romanos 9 en el argumento de Pablo, antes de convertir una expresión aislada en un sistema completo.
 
-Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la comunidad. Sus conexiones con otros libros, sus explicaciones de vocabulario hebreo o griego y sus conclusiones históricas pueden ser útiles como preguntas de estudio, pero deben cotejarse con el contexto inmediato, el texto de las Escrituras y fuentes trazables.
+Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la comunidad. La sesión añadida se concentra en #romanos_9_19-24: la objeción humana, la imagen del alfarero y las vasijas. Sus conexiones con otros libros, sus explicaciones de vocabulario hebreo o griego y sus conclusiones históricas pueden ser útiles como preguntas de estudio, pero deben cotejarse con el contexto inmediato, el texto de las Escrituras y fuentes trazables.
+
+## El alfarero, la criatura y la misericordia
+
+Pablo responde a la objeción «¿por qué, pues, todavía reprocha?» con la relación entre la criatura y quien la formó (#romanos_9_19-21). La clase recalca la diferencia entre participar en un propósito divino y recibir salvación; esa distinción puede servir como pregunta de lectura, pero el texto debe gobernar el alcance de cualquier conclusión sobre Faraón o una persona concreta.
+
+La continuación habla de vasos de ira y de misericordia (#romanos_9_22-24) y relaciona la condición humana con pecado y muerte. Romanos ha afirmado la universalidad del pecado en capítulos anteriores, pero el uso de imágenes como «masa» o «herencia» no autoriza a presentar explicaciones biológicas, genéticas o etimológicas como si fueran el sentido literal del pasaje. La misericordia de Elohim y la responsabilidad humana deben conservarse juntas en el argumento de la carta.
 
 ## Conexiones principales
 
@@ -49,6 +61,7 @@ Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la
 - [ ] Cotejar los términos griegos relevantes de Romanos 9 con léxicos y la sintaxis del pasaje.
 - [ ] Revisar las conexiones intertextuales propuestas en las sesiones antes de describirlas como citas o equivalencias exactas.
 - [ ] Distinguir la afirmación explícita del texto de las aplicaciones contemporáneas de la enseñanza.
+- [ ] Verificar la sintaxis de #romanos_9_19 y el trasfondo bíblico de la imagen del alfarero antes de extraer una doctrina exhaustiva de elección o condenación.
 
 ## Conclusión
 
@@ -63,4 +76,5 @@ Romanos 9 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [La carta a los romanos (parte 22). La elección divina: Propósito y salvación, dos cosas diferentes](https://www.youtube.com/watch?v=_7iywbOZPEQ) — transcripción de trabajo: `private/transcripts/ericdejes/_7iywbOZPEQ.md` (source_id: `youtube:_7iywbOZPEQ`).
+- [La carta a los romanos (parte 23) Cap 9:19-24: Dios es juez justo](https://www.youtube.com/watch?v=atIdZY13b_c) — transcripción de trabajo: `private/transcripts/ericdejes/atIdZY13b_c.md` (source_id: `youtube:atIdZY13b_c`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
