@@ -60,6 +60,27 @@ def main() -> int:
             failures.append(f"{rel}: only {words} substantive prose words (minimum 300)")
         if len(thematic) < 2:
             failures.append(f"{rel}: needs at least two transcript-specific thematic sections")
+        traceability = re.search(
+            r"^##\s+Mapa de la enseñanza de Eric\s*$(.*?)(?=^##\s|\Z)",
+            text,
+            flags=re.M | re.S,
+        )
+        if not traceability:
+            failures.append(f"{rel}: needs a Mapa de la enseñanza de Eric traceability section")
+        else:
+            map_lines = [line.strip() for line in traceability.group(1).splitlines()]
+            entries = [
+                line
+                for line in map_lines
+                if line.startswith(("-", "*"))
+                or (
+                    line.startswith("|")
+                    and not re.fullmatch(r"\|?\s*[-:| ]+\|?", line)
+                    and "Unidad textual" not in line
+                )
+            ]
+            if len(entries) < 3:
+                failures.append(f"{rel}: traceability map needs at least three entries")
         if "## Lectura inicial" in text and not thematic:
             failures.append(f"{rel}: Lectura inicial is not a sufficient development section")
     print(f"checked_transcript_notes={checked}")

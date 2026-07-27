@@ -89,6 +89,7 @@ A transcript-derived note must be a developed study, not a publication of a bare
 - for a chapter study, follow the relevant verses or coherent verse units in textual order; do not jump from an opening reading to conclusion;
 - identify and explain relevant Hebrew, Aramaic or Greek terms when Eric's argument depends on them: source form, transliteration, normal sense, contextual force and whether the correspondence is exact, approximate or pedagogical;
 - preserve Eric's material observations in attributable prose (for example, “la clase observa/proponer…”) and then test them against the local text; do not replace his exposition with generic cautions;
+- include `## Mapa de la enseñanza de Eric` with at least three rows or bullets. For each textual unit, record the verse/pericope, the concrete observation or argument from the class, and how the note treated it: textual support, lexical clarification, qualified inference, or pending verification. This is the traceability record; do not claim that every spoken assertion was incorporated without it;
 - use the local Scripture corpus for the verses it discusses;
 - never use `## Lectura inicial` / `## Lectura` as the only development section;
 - never expose `private/transcripts/` paths in frontmatter, prose or credits. Cite the public video URL and stable `source_id` instead.
