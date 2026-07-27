@@ -83,6 +83,10 @@ Las dos clases sobre mitzvot vuelven a #devarim_16, el mes de אביב y la inst
 
 Las dos clases sobre mitzvot vuelven a #devarim_16, el mes de אביב y la instrucción de no dejar alimento del sacrificio festivo para la mañana. También discuten calendarios, observación lunar y la aplicación de estos asuntos fuera de la tierra de Israel. Esos temas invitan a estudio responsable, pero las conclusiones prácticas, las atribuciones a tradiciones y los detalles de calendario expresados por la clase deben verificarse separadamente; no se derivan todos de un único versículo.
 
+## Calendario, aplicación y límites de la clase
+
+Las dos clases sobre mitzvot vuelven a #devarim_16, el mes de אביב y la instrucción de no dejar alimento del sacrificio festivo para la mañana. También discuten calendarios, observación lunar y la aplicación de estos asuntos fuera de la tierra de Israel. Esos temas invitan a estudio responsable, pero las conclusiones prácticas, las atribuciones a tradiciones y los detalles de calendario expresados por la clase deben verificarse separadamente; no se derivan todos de un único versículo.
+
 ## Yehoshua y la memoria de Pésaj
 
 La lectura mesiánica propuesta por las clases relaciona la liberación, el cordero y la entrega de Yehoshua. Esa relación debe permanecer anclada en los pasajes que la desarrollan, sin borrar el sentido histórico de la salida ni reducir Pésaj a una ceremonia posterior.
