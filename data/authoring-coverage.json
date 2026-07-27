@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 334,
-  "pending_videos": 624,
+  "covered_videos": 329,
+  "pending_videos": 629,
   "transcript_notes": 122,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 49,
+      "covered": 43,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -128,7 +128,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 16,
+      "covered": 17,
       "lane": "yojanan"
     },
     "Uncategorized": {
@@ -143,12 +143,12 @@
     },
     "Yom hakipurim": {
       "total": 5,
-      "covered": 5,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Yom tru’áh": {
       "total": 4,
-      "covered": 4,
+      "covered": 1,
       "lane": "colosenses"
     }
   },
