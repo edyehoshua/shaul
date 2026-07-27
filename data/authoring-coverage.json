@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 511,
-  "pending_videos": 447,
-  "transcript_notes": 225,
+  "covered_videos": 651,
+  "pending_videos": 307,
+  "transcript_notes": 272,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -48,27 +48,27 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 0,
+      "covered": 10,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 1,
+      "covered": 9,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
       "total": 10,
-      "covered": 0,
-      "lane": "yojanan"
+      "covered": 10,
+      "lane": "efesios"
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 0,
+      "covered": 10,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
       "total": 9,
-      "covered": 0,
+      "covered": 9,
       "lane": "yojanan"
     },
     "Hebreas de antes": {
@@ -88,12 +88,12 @@
     },
     "La deidad de Mashiaj": {
       "total": 4,
-      "covered": 0,
-      "lane": "colosenses"
+      "covered": 4,
+      "lane": "yojanan"
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 3,
+      "covered": 93,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {
