@@ -28,6 +28,7 @@ references:
   - "#luqas_13_27"
 sources:
   - "https://www.youtube.com/watch?v=SgNMO9Yqc64"
+  - "private/transcripts/ericdejes/SgNMO9Yqc64.md"
   - "docs/scriptures/oe/json/psalms/6.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -64,7 +65,7 @@ La exposición describe la gracia como tiempo y paciencia para responder a la co
 
 ## Fragilidad, sanidad y retorno
 
-La petición «inclínate con favor» y «sáname» (#tehilim*6_3) precede el reconocimiento de huesos y \_nefesh* estremecidos (#tehilim_6_3-4). El salmo no ofrece una explicación detallada de la causa de esta debilidad. Por ello, conviene mantener unidos dos movimientos explícitos: el orante no se esconde de יהוה y le pide sanidad.
+La petición «inclínate con favor» y «sáname» (#tehilim_6_3) precede el reconocimiento de huesos y _nefesh_ estremecidos (#tehilim_6_3-4). El salmo no ofrece una explicación detallada de la causa de esta debilidad. Por ello, conviene mantener unidos dos movimientos explícitos: el orante no se esconde de יהוה y le pide sanidad.
 
 «¿Hasta cuándo?» (#tehilim_6_4) deja abierta la duración de la angustia. La clase lo aplica a la responsabilidad de examinarse y volver a יהוה. Esa aplicación debe conservar la diferencia entre la voz poética del salmo y una regla para diagnosticar la situación espiritual de otra persona.
 
@@ -78,7 +79,7 @@ Lo que el versículo sí pone en primer plano es que vivir para recordar, confes
 
 ## De la súplica a la confianza
 
-El giro de #tehilim*6_9-10 es decisivo: «יהוה ha escuchado la voz de mi llanto», «ha escuchado mi súplica» y «mi \_tefilah* recibirá». La confianza no depende de haber negado el dolor, sino de que el clamor ha sido presentado ante יהוה.
+El giro de #tehilim_6_9-10 es decisivo: «יהוה ha escuchado la voz de mi llanto», «ha escuchado mi súplica» y «mi _tefilah_ recibirá». La confianza no depende de haber negado el dolor, sino de que el clamor ha sido presentado ante יהוה.
 
 La clase vincula «Apártense de mí, todos los hacedores de vacuidad» (#tehilim_6_9) con #mattityahu_7_21-23 y #luqas_13_24-27. Estas palabras de Yehoshua contienen formulaciones cercanas, pero la relación precisa —cita directa, alusión o uso de lenguaje compartido— requiere cotejo textual. En ambos contextos evangélicos, la confesión verbal no sustituye hacer la voluntad del Padre.
 
@@ -122,5 +123,5 @@ Tehilim 6 enseña a llevar ante יהוה una condición que toca huesos, ser, l�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim/Himnos/Salmo Cap 6](https://www.youtube.com/watch?v=SgNMO9Yqc64) — source_id: `youtube:SgNMO9Yqc64`.
+- Video: [Tehilim/Himnos/Salmo Cap 6](https://www.youtube.com/watch?v=SgNMO9Yqc64) — transcripción: `private/transcripts/ericdejes/SgNMO9Yqc64.md` — source_id: `youtube:SgNMO9Yqc64`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
