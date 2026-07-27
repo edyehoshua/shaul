@@ -759,16 +759,6 @@
       ]
     },
     {
-      "path": "content/tanaj/bamidbar_22_parashot_2017.md",
-      "substantive_words": 203,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
       "path": "content/tanaj/bamidbar_25_parashot_2017.md",
       "substantive_words": 204,
       "thematic_sections": [],
@@ -975,16 +965,6 @@
       "thematic_sections": [
         "lectura literaria"
       ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/tanaj/devarim_11_parashot_2017.md",
-      "substantive_words": 203,
-      "thematic_sections": [],
       "issues": [
         "under_300_substantive_words",
         "insufficient_thematic_development",

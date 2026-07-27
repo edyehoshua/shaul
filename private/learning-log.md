@@ -228,7 +228,6 @@
   - `content/tanaj/devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` ← `youtube:kw0lpuvIXPk`
 - Validation: `python3 scripts/check_transcript_note_quality.py` on three paths → `quality_failures=0`; `git diff --check` clean; Prettier on touched Markdown.
 - Did not push canonical; commit only on `worker/shaul-tanaj`.
-<<<<<<< HEAD
 
 ## 2026-07-28 — Tanaj lane cron follow-up
 
@@ -244,6 +243,7 @@
 - Revalidated all 14 canonical notes carrying one of the 58 owned source IDs: `quality_failures=0`.
 - Removed the two now-remediated owned entries (`bamidbar_22_parashot_2017.md` and `devarim_11_parashot_2017.md`) from `data/transcript-note-remediation.json`; registry total is now 285.
 - No additional owned-source remediation target was eligible without colliding with another lane's canonical sources; no new unsupported transcript note was fabricated.
+<<<<<<< HEAD
 
 ## 2026-07-28 — Tanaj lane cron
 
