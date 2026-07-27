@@ -14,10 +14,13 @@ sources:
   - "private/transcripts/ericdejes/FXNL9LiBWFk.md"
   - "https://www.youtube.com/watch?v=UpiptaA32B4"
   - "private/transcripts/ericdejes/UpiptaA32B4.md"
+  - "https://www.youtube.com/watch?v=IU50N7zdeww"
+  - "private/transcripts/ericdejes/IU50N7zdeww.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:FXNL9LiBWFk"
   - "youtube:UpiptaA32B4"
+  - "youtube:IU50N7zdeww"
 translation: "[Delitzsch]"
 ---
 
@@ -37,7 +40,9 @@ Esta es la nota canónica para Romanos 14. Reúne las sesiones locales de la ser
 
 ## Lectura del capítulo
 
-El pasaje articula una afirmación teológica con una dirección práctica para quienes oyen la buena noticia. Por ello, una lectura responsable atiende a los conectores, a los interlocutores y al lugar de Romanos 14 en el argumento de Pablo, antes de convertir una expresión aislada en un sistema completo.
+Pablo ordena recibir a quien es débil en la emunah sin convertirlo en objeto de disputas sobre opiniones (#romanos_14_1). El desarrollo prohíbe tanto el desprecio del que come como el juicio del que no come, porque Elohim ha recibido a ambos (#romanos_14_3). La dirección práctica culmina en perseguir lo que conduce a la paz y a la edificación mutua (#romanos_14_19).
+
+La parte 30 introduce el capítulo después de resumir la vida mixta de la comunidad de Roma y propone identificar a los «débiles». Ese trasfondo y esa identificación requieren respaldo histórico y exegético adicional; no se convierten aquí en el significado indiscutible del texto. La exhortación explícita permanece clara: acogida, rendición de cuentas ante Elohim y edificación antes que rivalidad.
 
 Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la comunidad. Sus conexiones con otros libros, sus explicaciones de vocabulario hebreo o griego y sus conclusiones históricas pueden ser útiles como preguntas de estudio, pero deben cotejarse con el contexto inmediato, el texto de las Escrituras y fuentes trazables.
 
@@ -67,4 +72,5 @@ Romanos 14 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [La carta a los romanos (parte 31) La norma de la comunidad - II](https://www.youtube.com/watch?v=FXNL9LiBWFk) — transcripción de trabajo: `private/transcripts/ericdejes/FXNL9LiBWFk.md` (source_id: `youtube:FXNL9LiBWFk`).
 - [La carta a los romanos (parte 32) Los débiles y los fuertes -Final-](https://www.youtube.com/watch?v=UpiptaA32B4) — transcripción de trabajo: `private/transcripts/ericdejes/UpiptaA32B4.md` (source_id: `youtube:UpiptaA32B4`).
+- [The Letter to the Romans (Part 30) Community Rule and Coexistence](https://www.youtube.com/watch?v=IU50N7zdeww) — transcripción de trabajo: `private/transcripts/ericdejes/IU50N7zdeww.md` (source_id: `youtube:IU50N7zdeww`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

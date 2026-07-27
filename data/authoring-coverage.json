@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 292,
-  "pending_videos": 666,
-  "transcript_notes": 114,
+  "covered_videos": 296,
+  "pending_videos": 662,
+  "transcript_notes": 115,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -108,7 +108,7 @@
     },
     "Romanos": {
       "total": 35,
-      "covered": 26,
+      "covered": 30,
       "lane": "colosenses"
     },
     "Shavu’ot": {
