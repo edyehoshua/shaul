@@ -13,10 +13,13 @@ references:
   - "#revelation_4_8"
   - "#revelation_4_11"
 sources:
+  - "https://www.youtube.com/watch?v=mxcM4cJpjg0"
+  - "private/transcripts/ericdejes/mxcM4cJpjg0.md"
   - "https://www.youtube.com/watch?v=ut8Iq2y8lFQ"
   - "private/transcripts/ericdejes/ut8Iq2y8lFQ.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
+  - "youtube:mxcM4cJpjg0"
   - "youtube:ut8Iq2y8lFQ"
 translation: "[Delitzsch]"
 ---
@@ -27,7 +30,7 @@ Apocalipsis 4 presenta una visión centrada en el trono celestial y en la adorac
 
 ## Alcance de la nota
 
-La clase del hermano Eric de Jesús Rodríguez Mendoza retoma Apocalipsis 4, comienza a relacionarlo con Apocalipsis 5 y lee Ezequiel 1 en torno al tema de la merkavá (00:04:18–00:04:51). La transcripción automática es una ayuda para ubicar la exposición; no es cita literal. Se conserva con cautela la conexión entre trono y redención, mientras que las afirmaciones históricas, rabínicas o cosmológicas requieren fuentes verificables.
+La clase del hermano Eric de Jesús Rodríguez Mendoza introduce en la parte 13 la teología de la merkavá y la continúa en la parte 14 al relacionar Apocalipsis 4 con Apocalipsis 5 y Ezequiel 1 (00:04:18–00:04:51). La transcripción automática es una ayuda para ubicar la exposición; no es cita literal. Se conserva con cautela la conexión entre trono y redención, mientras que las afirmaciones históricas, rabínicas o cosmológicas requieren fuentes verificables.
 
 ## Hoja de comparación
 
@@ -59,6 +62,8 @@ El centro explícito de Apocalipsis 4 es el trono y la adoración del Creador. L
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
+- «Parte 13 La revelación de Yehoshúa' Hamashíaj (2017) La teología de la Merkaváh» — https://www.youtube.com/watch?v=mxcM4cJpjg0
+  - Transcripción: `private/transcripts/ericdejes/mxcM4cJpjg0.md` (`source_id: youtube:mxcM4cJpjg0`).
 - «Parte 14: La revelación de Yehoshúa' Hamashíaj: La teología de la Merkaváh cont.» — https://www.youtube.com/watch?v=ut8Iq2y8lFQ
   - Transcripción: `private/transcripts/ericdejes/ut8Iq2y8lFQ.md` (`source_id: youtube:ut8Iq2y8lFQ`).
 
