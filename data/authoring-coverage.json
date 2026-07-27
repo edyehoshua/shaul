@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 657,
-  "pending_videos": 301,
-  "transcript_notes": 273,
+  "covered_videos": 658,
+  "pending_videos": 300,
+  "transcript_notes": 274,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -98,7 +98,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 2,
+      "covered": 3,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
