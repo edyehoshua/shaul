@@ -16,6 +16,7 @@ references:
   - "#yirmeyahu_32_44"
 sources:
   - "https://www.youtube.com/watch?v=VCZ1IDIhkO8"
+  - "private/transcripts/ericdejes/VCZ1IDIhkO8.md"
   - "docs/scriptures/oe/json/jeremiah/32.json"
 source_ids:
   - "youtube:VCZ1IDIhkO8"
@@ -73,5 +74,5 @@ Yirmeyahu 32 une una acción verificable —comprar, escribir, sellar y llamar t
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Haftarah de Behar (Jer 32)» — <https://www.youtube.com/watch?v=VCZ1IDIhkO8> — source_id: `youtube:VCZ1IDIhkO8`.
+- «Haftarah de Behar (Jer 32)» — <https://www.youtube.com/watch?v=VCZ1IDIhkO8> — transcripción: `private/transcripts/ericdejes/VCZ1IDIhkO8.md` — source_id: `youtube:VCZ1IDIhkO8`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
