@@ -228,6 +228,7 @@
   - `content/tanaj/devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` ← `youtube:kw0lpuvIXPk`
 - Validation: `python3 scripts/check_transcript_note_quality.py` on three paths → `quality_failures=0`; `git diff --check` clean; Prettier on touched Markdown.
 - Did not push canonical; commit only on `worker/shaul-tanaj`.
+<<<<<<< HEAD
 
 ## 2026-07-28 — Tanaj lane cron follow-up
 
