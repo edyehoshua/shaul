@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 523,
-  "pending_videos": 435,
-  "transcript_notes": 237,
+  "covered_videos": 547,
+  "pending_videos": 411,
+  "transcript_notes": 260,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -48,27 +48,27 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 12,
+      "covered": 10,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 1,
+      "covered": 9,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
       "total": 10,
-      "covered": 0,
+      "covered": 1,
       "lane": "efesios"
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 1,
+      "covered": 10,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
       "total": 9,
-      "covered": 0,
+      "covered": 9,
       "lane": "yojanan"
     },
     "Hebreas de antes": {
