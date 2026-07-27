@@ -80,7 +80,7 @@
     },
     "613 Mitzvot": {
       "total": 63,
-      "covered": 2,
+      "covered": 63,
       "lane": "colosenses"
     },
     "Apocalipsis": {
@@ -100,7 +100,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 51,
+      "covered": 52,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -160,7 +160,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 43,
+      "covered": 42,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
@@ -186,7 +186,7 @@
     "Sobre el Shabat": {
       "total": 4,
       "covered": 4,
-      "lane": "yojanan"
+      "lane": "colosenses"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
@@ -195,7 +195,7 @@
     },
     "Uncategorized": {
       "total": 168,
-      "covered": 5,
+      "covered": 0,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
