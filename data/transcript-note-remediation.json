@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 238,
+  "total_notes_requiring_remediation": 237,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -225,12 +225,7 @@
       "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
       "issues": ["under_300_substantive_words"]
     },
-    {
-      "path": "content/besorah/romanos_14_acogida_mutua_conciencia_edificacion.md",
-      "substantive_words": 299,
-      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
-      "issues": ["under_300_substantive_words"]
-    },
+
     {
       "path": "content/besorah/romanos_15_paciencia_acogida_mision_alabanza.md",
       "substantive_words": 268,
