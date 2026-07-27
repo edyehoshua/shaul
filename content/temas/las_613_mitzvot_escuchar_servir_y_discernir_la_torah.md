@@ -12,6 +12,11 @@ references:
   - "#exodus_20_2"
   - "#deuteronomy_6_4"
   - "#deuteronomy_6_5"
+  - "#leviticus_23_10"
+  - "#leviticus_23_11"
+  - "#leviticus_23_14"
+  - "#leviticus_23_15"
+  - "#leviticus_23_16"
 sources:
   - "https://www.youtube.com/watch?v=1yylyCqEFhw"
   - "https://www.youtube.com/watch?v=n5iXrkCooCM"
@@ -75,6 +80,7 @@ sources:
   - "https://www.youtube.com/watch?v=MEGVHiF5HwA"
   - "https://www.youtube.com/watch?v=3X9vlwqU5Hg"
   - "https://www.youtube.com/watch?v=LcEX_H-pdAs"
+  - "https://www.youtube.com/watch?v=SeHY2afxDh0"
   - "private/transcripts/ericdejes/1yylyCqEFhw.md"
   - "private/transcripts/ericdejes/n5iXrkCooCM.md"
   - "private/transcripts/ericdejes/NTEICX0rO7I.md"
@@ -137,8 +143,10 @@ sources:
   - "private/transcripts/ericdejes/MEGVHiF5HwA.md"
   - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
   - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
+  - "private/transcripts/ericdejes/SeHY2afxDh0.md"
   - "docs/scriptures/oe/json/exodus/20.json"
   - "docs/scriptures/oe/json/deuteronomy/6.json"
+  - "docs/scriptures/oe/json/leviticus/23.json"
 source_ids:
   - "youtube:1yylyCqEFhw"
   - "youtube:n5iXrkCooCM"
@@ -202,6 +210,7 @@ source_ids:
   - "youtube:MEGVHiF5HwA"
   - "youtube:3X9vlwqU5Hg"
   - "youtube:LcEX_H-pdAs"
+  - "youtube:SeHY2afxDh0"
 translation: "[OE]"
 ---
 
@@ -211,17 +220,18 @@ La serie sobre las 613 mitzvot ofrece un recorrido de estudio por mandamientos d
 
 ## Alcance de la nota
 
-Esta nota reúne las 62 sesiones locales no representadas de la lista «613 Mitzvot», desde la introducción hasta los videos que alcanzan las mitzvot 240. Los títulos muestran bloques dedicados, entre otros, a sacrificios, pureza, Pésaj, Yom Teruah, votos, familia, tribunales, daños y reparación. No convierte el título ni una transcripción automática en prueba de una enumeración, aplicación o interpretación; cada mandamiento debe volver a su referencia bíblica y a su contexto literario.
+Esta nota reúne las 62 sesiones locales de la lista «613 Mitzvot» y comienza a integrar la continuación «Las 613 mitzvot 2a parte». La sesión añadida aborda las mitzvot 191–192 en diálogo con Pésaj, la cebada y el ómer. Los títulos muestran bloques dedicados, entre otros, a sacrificios, pureza, Pésaj, Yom Teruah, votos, familia, tribunales, daños y reparación. No convierte el título ni una transcripción automática en prueba de una enumeración, aplicación o interpretación; cada mandamiento debe volver a su referencia bíblica y a su contexto literario.
 
 La primera sesión explica que el cómputo «613» no aparece como una lista numerada dentro del Tanaj y sitúa las listas medievales como instrumentos posteriores. Esa observación es importante, pero las fechas, fuentes rabínicas y atribuciones históricas de la clase deben documentarse antes de citarlas como investigación establecida.
 
 ## Hoja de comparación
 
-| Referencia       | Texto local                                                    | Observación                                                                                                               |
-| ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| #exodus_20_2     | **אנכי יהוה אלהי/ך אשר הוצאתי/ך מ/ארץ מצרים מ/בית עבדים**      | El Decálogo comienza con la identidad y la liberación de יהוה; una lista de mandamientos no debe desligarse de ese marco. |
-| #deuteronomy_6_4 | **שמ ישראל יהוה אלהי/נו יהוה אח**                              | La confesión de Israel centra la escucha en יהוה.                                                                         |
-| #deuteronomy_6_5 | **ו/אהבת את יהוה אלהי/ך ב/כל לבב/ך ו/ב/כל נפש/ך ו/ב/כל מאד/ך** | El amor a יהוה involucra corazón, vida y fuerza; no se reduce a una contabilización.                                      |
+| Referencia          | Texto local                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Observación                                                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| #exodus_20_2        | **אנכי יהוה אלהי/ך אשר הוצאתי/ך מ/ארץ מצרים מ/בית עבדים**                                                                                                                                                                                                                                                                                                                                                                                                                | El Decálogo comienza con la identidad y la liberación de יהוה; una lista de mandamientos no debe desligarse de ese marco. |
+| #deuteronomy_6_4    | **שמ ישראל יהוה אלהי/נו יהוה אח**                                                                                                                                                                                                                                                                                                                                                                                                                                        | La confesión de Israel centra la escucha en יהוה.                                                                         |
+| #deuteronomy_6_5    | **ו/אהבת את יהוה אלהי/ך ב/כל לבב/ך ו/ב/כל נפש/ך ו/ב/כל מאד/ך**                                                                                                                                                                                                                                                                                                                                                                                                           | El amor a יהוה involucra corazón, vida y fuerza; no se reduce a una contabilización.                                      |
+| #leviticus_23_10-16 | **דבר אל בני ישראל ו/אמרת אל/הם כי תבאו אל ה/ארץ אשר אני נתן ל/כם ו/קצרתם את קציר/ה ו/הבאתם את עמר ראשית קציר/כם אל ה/כהן**; **ו/הניף את ה/עמר ל/פני יהוה ל/רצנ/כם מ/מחרת ה/שבת יניפ/נו ה/כהן**; **ו/לחם ו/קלי ו/כרמל לא תאכלו עד עצם ה/יום ה/זה עד הביא/כם את קרבן אלהי/כם חקת עולם ל/דרתי/כם ב/כל משבתי/כם**; **ו/ספרתם ל/כם מ/מחרת ה/שבת מ/יום הביא/כם את עמר ה/תנופה שבע שבתות תמימת תהיינה**; **עד מ/מחרת ה/שבת ה/שביעת תספרו חמשים יום ו/הקרבתם מנחה חדשה ל/יהוה** | La ofrenda del ómer, la prohibición relativa al grano nuevo y el conteo se expresan dentro de una instrucción cultual.    |
 
 ## Leer un cómputo sin reemplazar el texto
 
@@ -239,6 +249,8 @@ La clase también discute el peso de mandamientos rituales cuando no hay templo.
 
 Los títulos posteriores delimitan asuntos que merecen tratamiento contextual: qorbanot y purificación, miqveh y tevilah, votos y rescates, Pésaj, Yom Teruah, jueces y tribunales, matrimonio, guerra, esclavitud, daños y reparación. La mera cercanía temática no autoriza a mezclar textos ni a deducir una regla contemporánea sin estudiar el pasaje correspondiente. En particular, las materias de penas, guerra, familia y pureza requieren evitar aplicaciones coercitivas, deshumanizadoras o anacrónicas.
 
+La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la lectura de la ofrenda de las primicias y del grano nuevo. Su discusión sobre fechas calendáricas, maduración de la cebada y la relación entre Pésaj y el ómer debe volver a #leviticus_23_9-16, antes de presentarse como una conclusión normativa. El pasaje contiene una instrucción cultual concreta; los calendarios, las reconstrucciones agrícolas y su aplicación contemporánea requieren fuentes y contexto adicionales.
+
 ## Pendiente de verificar
 
 - [ ] Identificar las referencias bíblicas de cada mitzvá numerada en las sesiones y vincularlas con la nota canónica del capítulo correspondiente.
@@ -246,6 +258,7 @@ Los títulos posteriores delimitan asuntos que merecen tratamiento contextual: q
 - [ ] Distinguir en cada caso el texto de la Torah, la clasificación medieval y la aplicación pedagógica de la clase.
 - [ ] Cotejar las transliteraciones y equivalencias hebreas que aparezcan en las transcripciones automáticas con ediciones y léxicos.
 - [ ] Examinar por separado los mandamientos dependientes de santuario, sacerdocio, tierra, autoridades o procedimientos judiciales.
+- [ ] Cotejar la lectura de las mitzvot 191–192 con #leviticus_23_9-16 y documentar las fuentes para las afirmaciones calendáricas y agrícolas de la clase.
 
 ## Conclusión
 
@@ -316,4 +329,5 @@ El valor de esta serie está en hacer visible la amplitud de la Torah y en invit
 - [The 613 Mitzvot - About the Sotah](https://www.youtube.com/watch?v=MEGVHiF5HwA) — transcripción de trabajo: `private/transcripts/ericdejes/MEGVHiF5HwA.md` (source_id: `youtube:MEGVHiF5HwA`).
 - [The "613" Mitzvot #118-120 Do not leave Pesach for "tomorrow"](https://www.youtube.com/watch?v=3X9vlwqU5Hg) — transcripción de trabajo: `private/transcripts/ericdejes/3X9vlwqU5Hg.md` (source_id: `youtube:3X9vlwqU5Hg`).
 - [Las 613 Mitzvot 126 - Mas acerca de Pésaj y el Séder](https://www.youtube.com/watch?v=LcEX_H-pdAs) — transcripción de trabajo: `private/transcripts/ericdejes/LcEX_H-pdAs.md` (source_id: `youtube:LcEX_H-pdAs`).
+- [Estudiando las "613" mitzvot #191-192 Conversando sobre Pésaj](https://www.youtube.com/watch?v=SeHY2afxDh0) — transcripción de trabajo: `private/transcripts/ericdejes/SeHY2afxDh0.md` (source_id: `youtube:SeHY2afxDh0`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
