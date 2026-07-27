@@ -25,6 +25,30 @@
       "url": "https://www.youtube.com/watch?v=FFUU2hgLZ0M",
       "reason": "Local transcript unavailable during Qohélet lane completion audit",
       "status": "pending_transcript"
+    },
+    {
+      "video_id": "DgWLnsUmDcM",
+      "playlist_title": "Fiestas",
+      "title": "Jag hasukot 5786-2025",
+      "url": "https://www.youtube.com/watch?v=DgWLnsUmDcM",
+      "reason": "Local transcript unavailable during colosenses lane completion audit",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "fD1lFuadSTA",
+      "playlist_title": "Hebreas de antes",
+      "title": "Emil Zrihan and Yossi Fine Live at JSMF 2014",
+      "url": "https://www.youtube.com/watch?v=fD1lFuadSTA",
+      "reason": "Local transcript unavailable during colosenses lane completion audit",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "5DwytpFiKYc",
+      "playlist_title": "Hebreas de antes",
+      "title": "ציון גולן - שמע ישראל Zion Golan - Shema Israel",
+      "url": "https://www.youtube.com/watch?v=5DwytpFiKYc",
+      "reason": "Local transcript unavailable during colosenses lane completion audit",
+      "status": "pending_transcript"
     }
   ]
 }
