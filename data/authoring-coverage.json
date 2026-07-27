@@ -96,6 +96,11 @@
       "covered": 93,
       "lane": "colosenses"
     },
+    "Marcos (clasificado desde Uncategorized)": {
+      "total": 46,
+      "covered": 0,
+      "lane": "efesios"
+    },
     "Parashot 2016-2017": {
       "total": 49,
       "covered": 43,
@@ -132,7 +137,7 @@
       "lane": "yojanan"
     },
     "Uncategorized": {
-      "total": 168,
+      "total": 122,
       "covered": 5,
       "lane": null
     },

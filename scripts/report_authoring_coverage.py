@@ -19,6 +19,11 @@ def main() -> None:
     inv = json.loads(INVENTORY.read_text())
     lanes = json.loads(LANES.read_text())["lanes"]
     assigned = {p: lane for lane, cfg in lanes.items() for p in cfg["playlists_in_order"]}
+    classified_groups = [
+        (lane, group)
+        for lane, cfg in lanes.items()
+        for group in cfg.get("source_groups", [])
+    ]
     notes = []
     seen = collections.defaultdict(list)
     for path in sorted(CONTENT.rglob("*.md")):
@@ -42,6 +47,16 @@ def main() -> None:
             "total": playlist.get("video_count", len(ids)),
             "covered": len(ids & covered),
             "lane": assigned.get(title),
+        }
+    # Explicitly classified uploads retain their source-level ownership even
+    # when YouTube's channel inventory does not expose a playlist.
+    for lane, group in classified_groups:
+        ids = {source.removeprefix("youtube:") for source in group["source_ids"]}
+        playlist_ids.update(ids)
+        by_playlist[group["title"]] = {
+            "total": len(ids),
+            "covered": len(ids & covered),
+            "lane": lane,
         }
     # The uploads tab also contains videos not assigned to any playlist.
     uncategorized = inventory_ids - playlist_ids
