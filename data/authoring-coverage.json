@@ -41,6 +41,11 @@
       "covered": 51,
       "lane": "efesios"
     },
+    "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
+      "total": 28,
+      "covered": 0,
+      "lane": "colosenses"
+    },
     "Gálatas": {
       "total": 13,
       "covered": 10,
@@ -142,7 +147,7 @@
       "lane": "yojanan"
     },
     "Uncategorized": {
-      "total": 64,
+      "total": 36,
       "covered": 1,
       "lane": null
     },

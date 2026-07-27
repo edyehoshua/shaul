@@ -30,6 +30,42 @@
         "613 Mitzvot",
         "Las 613 mitzvot 2a parte",
         "Parashot 2016-2017"
+      ],
+      "source_groups": [
+        {
+          "title": "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)",
+          "source_ids": [
+            "youtube:FFTXWUbDVAI",
+            "youtube:Mv_H45lKGkQ",
+            "youtube:e1oGNyhvSEQ",
+            "youtube:gpnXufuyDgA",
+            "youtube:yH1eiSUCdTY",
+            "youtube:lJpkAqUpOiM",
+            "youtube:0jssylSPp4g",
+            "youtube:qzr_u89uzUk",
+            "youtube:NR4_pnOZA8Q",
+            "youtube:6xs3BWuATN4",
+            "youtube:O2jFt6kAl30",
+            "youtube:r4_qmQa-HEY",
+            "youtube:Wc4JdxmC-Qs",
+            "youtube:se8OJZlKeQ8",
+            "youtube:XQjMnOoXJMY",
+            "youtube:aaOsAn3ilxg",
+            "youtube:v_02B_oF30A",
+            "youtube:8tbhWSUV3kk",
+            "youtube:KHqPveKvk0c",
+            "youtube:b4StIF_mR0A",
+            "youtube:WCO-PKJ0IDc",
+            "youtube:NoUgAfg5OWg",
+            "youtube:lTV1Im2d5QI",
+            "youtube:QvmWSGo6qZU",
+            "youtube:6d59VNAitEA",
+            "youtube:U6SQe5EOnF4",
+            "youtube:XCiS-STIKaI",
+            "youtube:4LEGO26UuNA"
+          ],
+          "reason": "Rebalanceo supervisado: esta lane tenía 19 fuentes pendientes frente a 46–70 de las otras lanes. Los temas continúan su cola de 613 mitzvot, fiestas y estudios teológicos; se asignan de manera exclusiva."
+        }
       ]
     },
     "efesios": {
@@ -172,5 +208,10 @@
     }
   },
   "uncategorized_policy": "Do not process an Uncategorized video until its biblical book is identified from its title/transcript and assigned by the integrator to a lane not currently owning that book. Record the assignment before authoring it.",
-  "overflow_policy": "When a lane has completed every eligible source in its assigned queue (missing local transcripts must be recorded in data/missing-transcripts.json), the integrator rebalances it onto the largest remaining unstarted playlist from another lane. The integrator is the only process allowed to move a playlist between lanes, must first verify that no worker has started it, and must publish the manifest change before the borrowing worker begins. A borrowed playlist is exclusively owned by its new lane until completion."
+  "overflow_policy": "When a lane has completed every eligible source in its assigned queue (missing local transcripts must be recorded in data/missing-transcripts.json), the integrator rebalances it onto the largest remaining unstarted playlist from another lane. The integrator is the only process allowed to move a playlist between lanes, must first verify that no worker has started it, and must publish the manifest change before the borrowing worker begins. A borrowed playlist is exclusively owned by its new lane until completion.",
+  "load_balance_policy": {
+    "target_pending_sources_per_author": "40-70",
+    "review_frequency": "Each integrator run after coverage refresh",
+    "rule": "When a lane falls below 40 eligible pending sources while another is above 70 or unassigned sources are available, the integrator assigns an exclusive coherent source group, records it here, and never moves an in-progress source or canonical note."
+  }
 }
