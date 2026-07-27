@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 239,
+  "total_notes_requiring_remediation": 238,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -74,12 +74,6 @@
       "substantive_words": 165,
       "thematic_sections": ["Lectura del capítulo"],
       "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
-    },
-    {
-      "path": "content/besorah/apocalipsis_4_trono_redencion_y_adoracion.md",
-      "substantive_words": 227,
-      "thematic_sections": ["El trono y el capítulo siguiente", "Ezequiel y la merkavá"],
-      "issues": ["under_300_substantive_words"]
     },
     {
       "path": "content/besorah/apocalipsis_6_revelacion_sellos_justicia_y_paciencia.md",
