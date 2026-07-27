@@ -12,3 +12,4 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/tanaj/cantar_4_lectura_poetica_y_relacional.md` — fuentes: youtube:44QJptwSoRk, youtube:C8wgaPW8S-4, youtube:uFzDkn1nOf4; créditos visibles: sí.
 - [ ] `content/besorah/yojanan_14_morada_palabra_memoria.md` — fuentes: youtube:WRILATGNg_U; créditos visibles: sí.
 - [ ] `content/besorah/apocalipsis_9_revelacion_trompetas_ay_y_llamado.md` — fuentes: youtube:u7-1n3mFap4; créditos visibles: sí.
+- [ ] `content/tanaj/cantar_5_lectura_poetica_y_relacional.md` — fuentes: youtube:CMEiD_2EXrU, youtube:0xRSI1cvFIU, youtube:lLB9-pbVKAk, youtube:Amg-3Ot2QmU, youtube:Owqc-XCwaOo; créditos visibles: sí.
