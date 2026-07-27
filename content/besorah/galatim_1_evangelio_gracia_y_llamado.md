@@ -4,7 +4,11 @@ description: "Nota canónica de Galatim 1: el evangelio recibido, el llamado por
 date: 2026-07-27
 tags: [galatim, evangelio, gracia, shaul, yehoshua]
 references:
-  ["#galatians_1_1", "#galatians_1_6", "#galatians_1_10", "#galatians_1_11", "#galatians_1_13"]
+  - "#galatians_1_1"
+  - "#galatians_1_6"
+  - "#galatians_1_10"
+  - "#galatians_1_11"
+  - "#galatians_1_13"
 sources:
   - "https://www.youtube.com/watch?v=XnePb66_Q1s"
   - "https://www.youtube.com/watch?v=ttDYqub_tHA"
