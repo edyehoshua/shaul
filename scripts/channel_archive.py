@@ -149,6 +149,10 @@ def inventory(channel_url: str, archive_root: Path) -> Path:
     # Playlist pages may expose videos that are not returned by the uploads tab.
     for playlist in list(playlists_by_id.values()):
         videos, nested_playlists = collect_page(playlist["url"])
+        # A source can occur in more than one playlist. Preserve direct playlist
+        # cardinality independently from the de-duplicated authoring source set.
+        playlist["video_count"] = len(videos)
+        playlist["video_ids"] = [item["id"] for item in videos]
         for item in videos:
             item["playlist_id"] = playlist["id"]
             item["playlist_title"] = playlist.get("title") or ""
