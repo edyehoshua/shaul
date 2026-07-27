@@ -1,6 +1,6 @@
 ---
 title: "Tehilim 51: misericordia, corazón y restauración"
-description: "Lectura de Tehilim 51: confesión, misericordia de Elohim, corazón limpio y sacrificio de un espíritu quebrantado."
+description: "Una lectura trazable de Tehilim 51: confesión, misericordia, renovación interior y fruto de una restauración recibida."
 date: 2026-07-27
 tags:
   - tehilim
@@ -10,9 +10,11 @@ tags:
   - corazon
 references:
   - "#tehilim_51_1-4"
+  - "#tehilim_51_5-8"
   - "#tehilim_51_10-14"
   - "#tehilim_51_17-19"
   - "#shemuel_2_12_1-15"
+  - "#iaacov_1_14-15"
 sources:
   - "https://www.youtube.com/watch?v=ysVekONH5fI"
   - "docs/scriptures/oe/json/psalms/51.json"
@@ -24,41 +26,76 @@ translation: "[OE, TTH]"
 
 # Tesis
 
-Tehilim 51 responde al pecado con confesión y una apelación a la misericordia de Elohim. La restauración que pide no es sólo exterior: el salmo ruega por un corazón limpio, un rúaj firme y un espíritu quebrantado que Elohim no desprecia.
+Tehilim 51 no disimula el pecado ni lo trata como una falta meramente social: ante la confrontación profética, David pide a Elohim misericordia, limpieza y un interior renovado. La enseñanza de Eric conduce el salmo en ese orden —confesión, examen de lo escondido, renovación y fruto—; esta nota conserva sus observaciones concretas, pero distingue el texto local de sus propuestas léxicas y de sus desarrollos interpretativos.
 
 ## Alcance de la nota
 
-Esta nota recoge la clase de Eric de Jesús Rodríguez Mendoza sobre el salmo. La inscripción lo vincula con David y la visita de Natán tras el episodio de Bat-Sheva; #shemuel_2_12_1-15 ofrece el marco narrativo. La transcripción automática se contrasta con el texto local y no se usa como cita literal ni como base suficiente para conclusiones léxicas extensas.
+La clase de Eric de Jesús Rodríguez Mendoza lee el encabezado del salmo junto con #shemuel_2_12_1-15 y sigue sus unidades en orden. Su transcripción automática puede confundir formas hebreas; por eso las formas y los textos citados abajo se comprueban en el corpus local. Las conexiones con Yaacov, interpretaciones de comentaristas y relecturas no literales se presentan como evaluación o como pendientes, no como citas directas de la Escritura.
 
 ## Hoja de comparación
 
-| Referencia     | Texto local                                                                                                                                   | Función en la nota                                             |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| #tehilim_51_1  | OE: **למנצח מזמור לדוד**.                                                                                                                   | La inscripción presenta el salmo como mizmor de David.         |
-| #tehilim_51_3  | TTH: «Porque mis transgresiones yo conozco, y mi pecado está delante de mí continuamente»; OE: **חנני אלהים כחסדך כרב רחמיך מחה פשעי**. | La súplica apela a la misericordia y reconoce la transgresión. |
-| #tehilim_51_12 | TTH: «Haz volver a mí el gozo de tu salvación, y un ánimo generoso me sostenga»; OE: **לב טהור ברא לי אלהים ורוח נכון חדש בקרבי**.        | El salmo pide creación y renovación interior.                  |
-| #tehilim_51_19 | TTH: «Entonces desearás sacrificios de justicia…»; OE: **זבחי אלהים רוח נשברה לב נשבר ונדכה אלהים לא תבזה**.                                 | Un rúaj quebrantado no queda despreciado por Elohim.           |
+| Referencia | Texto local | Función en la lectura |
+| --- | --- | --- |
+| #tehilim_51_1-2 | OE: **למנצח מזמור לדוד**; **בבוא אליו נתן הנביא כאשר בא אל בת שבע**. | La inscripción enmarca el salmo con Natán y Bat-Sheva. |
+| #tehilim_51_3-4 | OE: **חנני אלהים כחסדך כרב רחמיך מחה פשעי**; **הרבה הרב כבסני מעוני ומחטאתי טהרני**. TTH 51:1-2: «Inclínate con favor a mí… limpia mis transgresiones»; «Mucho lávame de mi torcedura». | La petición avanza de favor a limpieza. |
+| #tehilim_51_5-6 | OE: **כי פשעי אני אדע וחטאתי נגדי תמיד**; **לך לבדך חטאתי והרע בעיניך עשיתי**. | La confesión reconoce el mal ante Elohim sin borrar su daño humano. |
+| #tehilim_51_8 | OE: **הן אמת חפצת בטחות ובסתם חכמה תודיעני**. TTH 51:6: «la verdad deseas… y en lo secreto me harás saber sabiduría». | El salmista pide verdad y sabiduría en lo profundo. |
+| #tehilim_51_12-14 | OE: **לב טהור ברא לי אלהים ורוח נכון חדש בקרבי**; **השיבה לי ששון ישעך ורוח נדיבה תסמכני**. | La restauración solicita creación, firmeza y sostén. |
+| #tehilim_51_17-19 | OE: **אדני שפתי תפתח ופי יגיד תהלתך**; **זבחי אלהים רוח נשברה לב נשבר ונדכה אלהים לא תבזה**. | Labios abiertos y corazón quebrantado conducen al cierre sacrificial. |
 
-## Confesar sin minimizar
+## La inscripción y la confesión de los versículos 3–6
 
-El salmista nombra su transgresión y su pecado sin trasladar la culpa a otro (#tehilim_51_3-6). La clase insiste en preservar el sentido literal antes de extender el texto a asociaciones; ese principio resulta útil aquí. La confesión no es una abstracción sobre la condición humana, sino una petición dirigida a Elohim desde una falta reconocida.
+Eric comienza por la inscripción y pide mantener abierto #shemuel_2_12_1-15: Natán confronta a David después del adulterio y del homicidio. Su punto no es usar el contexto como adorno, sino impedir una confesión abstracta. El texto local nombra a Natán, a David y a Bat-Sheva; por tanto, el salmo puede leerse como súplica nacida de una falta determinada.
 
-## Corazón y rúaj renovados
+La clase destaca la sucesión de **פשע**, **עון** y **חטאת**. En su explicación, David no excusa lo que hizo: llama rebelión a aquello que se llega a defender, torcedura a la falta conocida que no se corrige y pecado a la infracción. El pasaje sí repite tres vocablos de falta y ordena la petición desde borrar, lavar y purificar; esa función retórica está respaldada por #tehilim_51_3-5. La clasificación moral exacta que propone la clase debe quedar como explicación pedagógica, no como definición lexicográfica cerrada.
 
-La súplica por un **לב טהור** y un **רוח נכון** (#tehilim_51_12) pide que Elohim cree y renueve. No equivale a prometer autosalvación ni permite reducir el corazón a mera emoción. En la secuencia del salmo, perdón, purificación, gozo y enseñanza de transgresores dependen de la acción misericordiosa de Elohim.
+Cuando el salmo dice «a ti, sólo a ti he fallado» (TTH 51:4; OE 51:6), Eric aclara que no niega las víctimas de David. La confesión reconoce ante todo que el mal ha sido hecho a los ojos de Elohim. Esa precisión evita convertir el versículo en una negación de la responsabilidad ante Bat-Sheva, Urías o la comunidad; el marco narrativo de Samuel hace imposible esa reducción.
 
-## Sacrificio que Elohim no desprecia
+## Verdad en lo escondido y limpieza solicitada
 
-El salmo no presenta el espíritu quebrantado como desprecio de toda obediencia o del altar. El movimiento final incluye Sión, los muros de Ierushaláim y sacrificios de justicia (#tehilim_51_18-19). Por ello, el contraste debe leerse como rechazo de una ofrenda desligada de arrepentimiento, no como cancelación automática de las prácticas que el propio cierre menciona.
+En #tehilim_51_5-8, Eric propone una lectura exigente: la falta no debe permanecer encubierta ni tratada con pretextos. Vincula la confesión con #iaacov_1_14-15, donde el deseo atrae, el pecado es producido y el pecado consumado produce muerte. La conexión sirve como aplicación canónica a la vigilancia interior; no convierte el salmo en una cita de Yaacov.
+
+La clase dedica atención especial al difícil versículo que TTH numera 51:5: «en pecado se excitó mi madre». Propone que «madre» pueda funcionar simbólicamente como muerte y relaciona esa propuesta con la expresión «hijo de muerte» de #shemuel_2_12_5. La nota no la adopta como sentido demostrado: el texto hebreo permite preguntas reales de traducción, pero esta red de asociaciones requiere comprobación filológica e histórica independiente. Lo que el texto local afirma sin esa ampliación es que la súplica procede desde una condición de iniquidad y pecado.
+
+Eric enlaza luego la verdad deseada «en lo secreto» con una sabiduría que ha de entrar en lo profundo, en vez de dejar que el deseo oculto gobierne. La progresión textual es clara: tras conocer su falta, el salmista pide que Elohim enseñe sabiduría en lo escondido y lo purifique. La limpieza con **אזוב** (ezov, «hisopo»; TTH traduce «orégano») aparece en 51:7; no se debe resolver esa diferencia por intuición. Su uso ritual y la identificación botánica exacta quedan pendientes de verificar.
+
+## Corazón, rúaj y el fruto de la restauración
+
+En 51:12–14, Eric no reduce la petición a emoción privada. **לב** (lev, «corazón») señala el centro interior en la súplica; **רוח** (rúaj, «aliento, espíritu, disposición») acompaña a **נכון** (najón, «firme/estable») y a **נדיבה** (nedivá, «generosa/dispuesta»). La clase desarrolla rúaj como motor, ánimo e intención. Esa es una explicación pedagógica útil para el pasaje, no una equivalencia exhaustiva de cada término.
+
+| Término | Transliteración | Sentido en la nota | Tipo de relación |
+| --- | --- | --- | --- |
+| **(חסד)** | jesed | favor leal o benevolencia invocada en la súplica | aproximación; requiere matiz contextual |
+| **(רחמים)** | rajamim | compasiones; la clase lo acerca al amor entrañable | aproximación pedagógica |
+| **(לב)** | lev | interior que debe ser creado limpio | aproximación contextual |
+| **(רוח)** | rúaj | disposición, aliento o impulso que debe ser renovado | aproximación contextual |
+| **(נשברה)** | nishbará | quebrantado, no autosuficiente ante Elohim | sentido textual básico |
+
+La secuencia no termina en una experiencia interior. El salmista pide recuperar el gozo, enseñar los caminos de Elohim a transgresores, ser librado de sangres y que sus labios anuncien alabanza (#tehilim_51_14-17). Eric observa concretamente que detener una práctica esclavizante ya es motivo de alabanza, pero el texto añade una dirección pública: lengua, enseñanza y alabanza.
+
+Los versículos 17–19 no autorizan a oponer corazón y obediencia. Eric insiste en que un sacrificio externo no actúa como mecanismo mágico y que debe corresponder a un corazón quebrantado. El propio cierre pasa de «espíritu quebrantado» a Sión, Yerushaláim y «sacrificios de justicia»; por eso la nota entiende el contraste como rechazo de una ofrenda desligada de arrepentimiento, no como cancelación del altar.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Punto tomado de Eric | Versos | Evaluación en la nota |
+| --- | --- | --- | --- |
+| Inscripción y confesión | Leer el encabezado junto con la confrontación de Natán para no abstraer la falta de David. | #tehilim_51_1-6; #shemuel_2_12_1-15 | Respaldado por la inscripción local; se preserva el marco narrativo. |
+| Petición de misericordia | **חסד**, **רחמים**, rebelión, torcedura y pecado describen una súplica sin pretextos. | #tehilim_51_3-5 | El orden textual se confirma; las definiciones técnicas de cada vocablo se califican como pedagógicas. |
+| Lo secreto y la muerte | El deseo no confrontado produce pecado; «madre» puede ser una imagen de muerte. | #tehilim_51_5-8; #iaacov_1_14-15; #shemuel_2_12_5 | La aplicación a Yaacov se distingue del salmo; la lectura simbólica de «madre» queda pendiente. |
+| Renovación interior | Un corazón limpio y un rúaj firme implican mente, ánimo e intención reordenados. | #tehilim_51_12-14 | La petición está en el texto; el desarrollo semántico se explica como aproximación pedagógica. |
+| Corazón y sacrificio | El sacrificio no sustituye el quebrantamiento; la restauración produce alabanza y fruto. | #tehilim_51_17-19 | Respaldado por la progresión del salmo; la lectura alternativa del último sustantivo queda pendiente. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar las observaciones léxicas de la clase sobre pecado, misericordia, corazón y rúaj con léxicos hebreos y el texto consonántico completo.
-- [ ] Distinguir en futuras ampliaciones entre el marco de #shemuel_2_12_1-15, la inscripción del salmo y desarrollos interpretativos posteriores.
+- [ ] Comprobar con léxicos hebreos la delimitación técnica que la clase da a **פשע**, **עון** y **חטאת**.
+- [ ] Verificar la propuesta de leer la «madre» de #tehilim_51_5 como muerte y su vínculo con «hijo de muerte» en #shemuel_2_12_5.
+- [ ] Comprobar las atribuciones de la clase a comentaristas rabínicos y al midrash sobre este versículo antes de citarlos.
+- [ ] Verificar la identificación de **אזוב** y la relación histórica entre sus usos rituales y la traducción «orégano».
+- [ ] Verificar la propuesta de leer el final de 51:19 como «fruto» en lugar de la lectura tradicional «toros».
 
 ## Conclusión
 
-Tehilim 51 pone en los labios del orante una confesión franca y una esperanza concreta: Elohim puede limpiar, crear un corazón limpio y sostener con rúaj generoso. La restauración interior desemboca en alabanza y en una vida que no esconde la misericordia recibida.
+Tehilim 51 presenta una confesión que no negocia con el mal y una esperanza que no descansa en una fórmula ritual. Desde la misericordia pedida hasta los labios que alaban, el salmo ordena una restauración que alcanza lo oculto, renueva el interior y se vuelve visible en verdad, enseñanza y fruto.
 
 ## Ver también
 
@@ -67,6 +104,6 @@ Tehilim 51 pone en los labios del orante una confesión franca y una esperanza c
 
 ## Créditos
 
-Esta nota usa una transcripción automática, que puede contener errores y no sustituye la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por la enseñanza usada:
-
-- «Tehilim/Himnos/Salml Cap 51» — https://www.youtube.com/watch?v=ysVekONH5fI — (`youtube:ysVekONH5fI`).
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Tehilim/Himnos/Salml Cap 51](https://www.youtube.com/watch?v=ysVekONH5fI) (`source_id`: `youtube:ysVekONH5fI`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 225,
+  "total_notes_requiring_remediation": 224,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md",
@@ -1015,16 +1015,7 @@
       "thematic_sections": ["Lectura del capítulo"],
       "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
     },
-    {
-      "path": "content/tanaj/tehilim_51_misericordia_corazon_y_restauracion.md",
-      "substantive_words": 238,
-      "thematic_sections": [
-        "Confesar sin minimizar",
-        "Corazón y rúaj renovados",
-        "Sacrificio que Elohim no desprecia"
-      ],
-      "issues": ["under_300_substantive_words"]
-    },
+
     {
       "path": "content/tanaj/tehilim_52_lectura_oracion_y_alabanza.md",
       "substantive_words": 154,
