@@ -1,133 +1,130 @@
 ---
-title: "Shabat: inicio del día y marcos calendarios"
-description: "Nota de trabajo sobre el inicio del día, calendarios históricos y lectura bíblica del shabat"
-date: 2025-01-10
+title: "Shabat: cese, santidad y discernimiento de la práctica"
+description: "Síntesis de cuatro conversatorios sobre el Shabat: su anclaje en la Torá, las tradiciones posteriores, las controversias de los evangelios y una práctica contemporánea responsable."
+date: 2026-07-27
 tags:
   - shabat
-  - babel
+  - torah
+  - descanso
+  - santidad
+  - tradicion
+  - yojanan
 references:
-  - "#bereshit_1_5"
-  - "#vaikra_23_32"
-  - "#shemot_12_8"
-  - "#shemot_12_18"
-  - "#shemot_16_23"
-  - "#iojanan_18_28"
-  - "#tehilim_104_19"
-  - "#tehilim_104_22"
-  - "#tehilim_104_23"
-  - "#berajot_2a"
-  - "#shabat_35b"
-  - "#markos_16_1"
-  - "#markos_16_2"
+  - "#bereshit_2_2"
+  - "#bereshit_2_3"
+  - "#shemot_20_8"
+  - "#shemot_20_10"
+  - "#devarim_5_12"
+  - "#devarim_5_14"
+  - "#devarim_5_15"
+  - "#irmeiahu_17_21"
+  - "#irmeiahu_17_22"
+  - "#ieshaiahu_58_13"
+  - "#ieshaiahu_58_14"
+  - "#iojanan_5_8"
+  - "#iojanan_5_9"
+  - "#iojanan_5_10"
+  - "#iojanan_5_16"
+  - "#iojanan_5_17"
 sources:
-  - "https://www.stneotsmuseum.org.uk/articles/a-history-of-time-the-story-behind-our-days-weeks-and-months/"
-translation: "[TTH, Delitzsch, OE]"
+  - "https://www.youtube.com/watch?v=YTlUMcNA2qs"
+  - "private/transcripts/ericdejes/YTlUMcNA2qs.md"
+  - "https://www.youtube.com/watch?v=s7XQEhdaOdw"
+  - "private/transcripts/ericdejes/s7XQEhdaOdw.md"
+  - "https://www.youtube.com/watch?v=N1MFZtCzkn8"
+  - "private/transcripts/ericdejes/N1MFZtCzkn8.md"
+  - "https://www.youtube.com/watch?v=CnQSQIvZHvs"
+  - "private/transcripts/ericdejes/CnQSQIvZHvs.md"
+  - "docs/scriptures/oe/json/genesis/2.json"
+  - "docs/scriptures/oe/json/exodus/20.json"
+  - "docs/scriptures/oe/json/deuteronomy/5.json"
+  - "docs/scriptures/oe/json/isaiah/58.json"
+  - "docs/scriptures/tth/json/iojanan.json"
+source_ids:
+  - "youtube:YTlUMcNA2qs"
+  - "youtube:s7XQEhdaOdw"
+  - "youtube:N1MFZtCzkn8"
+  - "youtube:CnQSQIvZHvs"
+translation: "[TTH, OE]"
 ---
 
 # Tesis
 
-Esta nota compara marcos históricos y bíblicos sobre el inicio del día, y propone evaluar si el conteo funcional para shabat y moadim se expresa "de tarde a tarde" o con matices contextuales según cada pasaje.
+El Shabat es un día que יהוה bendijo, santificó y entregó como señal de cese, memoria y libertad. La Torá exige distinguirlo del trabajo ordinario y del provecho que lo sostiene; no entrega, sin embargo, un catálogo exhaustivo para cada circunstancia moderna. Por ello la práctica debe permanecer anclada en el texto, atender a la vida y a la santidad, y distinguir el mandamiento de las costumbres e interpretaciones posteriores.
 
 ## Alcance de la nota
 
-- Nota de trabajo sobre calendario, inicio del día y lectura bíblica del shabat.
-- No cierra de antemano si todo el corpus bíblico usa un solo marco horario; mantiene análisis por contexto.
-- Las referencias babilónicas y talmúdicas son indicativas y requieren verificación puntual.
-
-## Antecedentes
-
-### Contexto babilonio
-
-- En Babel (בבל) el día se registraba desde el atardecer según los diarios astronómicos.
-- Referencias de apoyo: Astronomical Diaries, MUL.APIN y Enuma Anu Enlil.
-
-### Contexto talmúdico
-
-- Berajot 2a inicia con el Shema nocturno y enlaza con #bereshit_1_5.
-- Shabat 35b discute atardecer y crepúsculo como umbral práctico del shabat.
-- En fiestas, la fórmula "de tarde a tarde" aparece explícita en #vaikra_23_32.
-
-## Texto base
-
-- #bereshit_1_5
-- #shemot_12_8
-- #shemot_12_18
-- #shemot_16_23
-- #vaikra_23_32
-- #tehilim_104_19
-- #tehilim_104_22
-- #tehilim_104_23
-- #markos_16_1
-- #markos_16_2
-- #iojanan_18_28
+Esta nota reúne cuatro conversatorios del hermano Eric de Jesús Rodríguez Mendoza. Organiza los ejes que las clases proponen —Torá, Mishná y Talmud, literatura posterior y práctica local— sin convertir las reconstrucciones históricas, las propuestas léxicas ni las aplicaciones contemporáneas en afirmaciones automáticas del texto bíblico.
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #bereshit_1_5 | ו/יקרא אלהים ל/אור יום ו/ל/חשך קרא לילה ו/יהי ערב ו/יהי בקר יום אחד | Y llamó Elohim a la Luz día, y a la oscuridad llamó noche; y fue la tarde y fue la mañana, día uno. | Ciclo narrativo: **(ערב)** y **(בקר)** en ese orden. |
-| #shemot_12_8 | ו/אכלו את ה/בשר ב/לילה ה/זה צלי אש ו/מצות על מררים יאכל/הו | Y comerán la carne en esa noche… | Pésaj arranca con comida nocturna. |
-| #shemot_12_18 | ב/ראשן ב/ארבעה עשר יום ל/חדש ב/ערב תאכלו מצת עד יום ה/אחד ו/עשרים ל/חדש ב/ערב | …hasta el día veintiuno del mes por la tarde. | El cierre se marca por la tarde. |
-| #shemot_16_23 | …שבתון שבת קדש ל/יהוה מחר… ל/משמרת עד ה/בקר | …Shabatón Shabat apartado a יהוה es mañana… hasta la mañana. | Transición nocturna hacia el shabat. |
-| #vaikra_23_32 | שבת שבתון הוא ל/כם… ב/ערב מ/ערב עד ערב תשבתו שבת/כם | Shabat Shabatón es para ustedes… desde la tarde hasta la tarde cesarán en su Shabat. | Texto más directo para «de tarde a tarde». |
-| #tehilim_104_19 | עשה ירח ל/מועדים שמש ידע מבוא/ו | Él hizo la luna para los tiempos señalados; el sol conoce su puesta. | Luminarias y tiempos señalados. |
-| #tehilim_104_22 | תזרח ה/שמש יאספו/ן ו/אל מעונת/ם ירבצו/ן | Brilla el sol, se reúnen, y en sus guaridas se acuestan. | El amanecer marca transición. |
-| #tehilim_104_23 | יצא אדם ל/פעל/ו ו/ל/עבדת/ו עדי ערב | Sale el hombre a su obra… hasta el atardecer. | Ritmo diario desde salida del sol hasta la tarde. |
-| #markos_16_1 | ויהי כאשר עבר יום השבת ותקנינה מרים המגדלית… סמים ללכת ולסוך אתו בהם | Y cuando pasó el Shabat… compraron perfume… | Distinción clara de lo posterior al Shabat. |
-| #markos_16_2 | ובאחד בשבת בבקר השכם באו אלהקבר כעלות השמש | Y temprano en la mañana… conforme amanecía el sol. | Primer día con amanecer explícito. |
-| #iojanan_18_28 | ויוליכו אתישוע מבית קיפא אלבית המשפט כעלות הבקר… לא יוכלו לאכל אתהפסח | …Y era de mañana… para comer el Pésaj. | Obliga a precisar el marco de Pésaj. |
+| Referencia          | Texto local                                                                                                                                                                        | Observación                                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| #bereshit_2_2-3     | ו/יכל אלהים ב/יום ה/שביעי מלאכת/ו אשר עשה ו/ישבת ב/יום ה/שביעי מ/כל מלאכת/ו אשר עשה. ו/יברך אלהים את יום ה/שביעי ו/יקדש את/ו כי ב/ו שבת מ/כל מלאכת/ו אשר ברא אלהים ל/עשות          | El séptimo día queda ligado al cese de la obra, a la bendición y a la santificación.                                                 |
+| #shemot_20_8-11     | זכור את יום ה/שבת ל/קדש/ו… ו/יום ה/שביעי שבת ל/יהוה אלהי/ך לא תעשה כל מלאכה…                                                                                                       | Recordar y santificar el día incluye el cese del trabajo para la casa, los siervos, los animales y el extranjero.                    |
+| #devarim_5_12-15    | שמור את יום ה/שבת ל/קדש/ו… למען ינוח עבד/ך ו/אמת/ך כמו/ך. ו/זכרת כי עבד היית ב/ארץ מצרים                                                                                           | La versión de Devarim asocia el Shabat con el descanso del dependiente y con la memoria de la liberación de Egipto.                  |
+| #irmeiahu_17_21-22  | השמרו ב/נפשותי/כם ו/אל תשאו משא ב/יום ה/שבת ו/הבאתם ב/שערי ירושלם. ו/לא תוציאו משא מ/בתי/כם… ו/קדשתם את יום ה/שבת                                                                  | El profeta vincula carga, puertas de Yerushaláim, trabajo y consagración; el alcance preciso de «carga» debe leerse en ese contexto. |
+| #ieshaiahu_58_13-14 | אם תשיב מ/שבת רגל/ך עשות חפצי/ך ב/יום קדש/י ו/קראת ל/שבת ענג ל/קדוש יהוה מכבד… אז תתענג על יהוה                                                                                    | El día santo se contrapone a perseguir los propios asuntos y se describe como delicia para יהוה.                                     |
+| #iojanan_5_8-10     | Y le dijo Yeshúa: Levántate y toma tu camilla, y anda… y era Shabat en aquel día. Y dijeron los yehudim al que había sido sanado: Es Shabat, no te es permitido cargar la camilla. | La sanidad y la camilla abren una controversia concreta sobre la carga en Shabat.                                                    |
+| #iojanan_5_16-17    | Y por eso, persiguieron los yehudim a Yeshúa… porque hizo estas cosas en el Shabat. Y Yeshúa les respondió: Mi Padre hasta ahora obra, y Yo obro.                                  | El relato conserva la acusación y la respuesta; su alcance teológico requiere leer el capítulo completo.                             |
 
-## Hoja léxica
+## Cese, memoria y santidad
 
-| Hebreo | Transliteración (es) | Significado | Raíz | Observación |
-| --- | --- | --- | --- | --- |
-| **(ערב)** | erev | Tarde, crepúsculo | ערב | En #bereshit_1_5 y #vaikra_23_32 marca umbral del día. |
-| **(בקר)** | boker | Mañana | בקר | Contraste con erev en el ciclo narrativo. |
-| **(שבת)** | shabat | Cese, reposo | שבת | No reducir solo a «sábado» sin el matiz de cese. |
-| **(שבתון)** | shabaton | Cese solemne | שבת | En moadim intensifica el reposo. |
-| **(מועד)** | moed | Tiempo señalado, cita fija | יעד | Vinculado a luminarias en #tehilim_104_19. |
+La primera clase parte de **(שבת)** y del verbo **(שבת)** como lenguaje de cese o suspensión. La propuesta de que el sustantivo funcione como «instrumento» gramatical y la comparación con **(מנוחה)** son líneas de la exposición que conviene cotejar con léxicos especializados. Lo textual permanece firme: #bereshit_2_2-3 presenta el cese de Elohim y la santificación del séptimo día; #shemot_20_8 ordena recordarlo y consagrarlo.
 
-## Observaciones
+#devarim_5_14-15 impide reducir el día a una experiencia individual: el descanso alcanza a quienes dependen de la casa y recuerda que Israel fue esclavo en Egipto. Así, el cese no equivale necesariamente a inmovilidad; es una interrupción del trabajo ordinario para reconocer a יהוה, recibir descanso y no reproducir la servidumbre.
 
-### Marcos calendarios en la Escritura
+## Trabajo, provecho y preparación
 
-- Se distinguen referencias de conteo babilonio, grecorromano y hebreo.
-- La nota observa que algunos textos del Brit Hadasha usan convención romana de horas, mientras otros sostienen marco hebreo.
+Las clases proponen leer la prohibición de labor desde sus contextos: el maná en #shemot_16, la actividad y las puertas en #irmeiahu_17_21-24, y la vida de la casa en la Torá. Esa lectura llama a preparar lo necesario antes del día y a no convertir el Shabat en una extensión del negocio, la producción o la búsqueda de ganancia.
 
-### Sobre Pesaj
+La aplicación de que toda cocina contemporánea está permitida, o de que toda actividad doméstica específica queda prohibida, no puede deducirse sin más de un solo pasaje. #shemot_16 debe ser leído en su relato del maná, y cada caso práctico requiere distinguir entre el texto, una costumbre recibida y una decisión prudencial. La necesidad, el cuidado de personas y la preservación de la vida no deben ser tratados como cargas ajenas al propósito de יהוה.
 
-- Se comparan los relatos del Pesaj de Yeshua con la preparación de los yehudim.
-- Se propone revisar la relación entre #shemot_12_8 y #shemot_12_18 para no forzar conclusiones cronológicas.
+## Tradición judía, historia y evangelios
 
-### Sobre el inicio del día
+El segundo y el tercer conversatorio recorren Mishná, Guemará, midrash y halajá para situar el debate sobre carga, transporte y trabajo. Estas fuentes pueden iluminar cómo comunidades judías posteriores razonaron acerca del Shabat, pero no son contemporáneas de todos los relatos bíblicos ni tienen el mismo estatuto que la Escritura.
 
-- #vaikra_23_32 formula de manera directa "de tarde a tarde" para reposo.
-- #tehilim_104_22-23 sugiere ritmo diario centrado en salida del sol y labor humana.
-- La nota mantiene abierto el análisis por contexto (moadim, shabat semanal, narrativa histórica).
+La clase relaciona ciertas restricciones de transporte con #iojanan_5_8-10: Yehoshua ordena al hombre sanado tomar su camilla, y algunos yehudim objetan la carga. El pasaje permite afirmar la controversia; atribuir cada detalle de sus oponentes a una formulación rabínica concreta exige prueba histórica y literaria. Por eso esta nota no usa la Mishná o el Talmud para reemplazar el sentido explícito del evangelio ni para invalidarlos por anticipado.
 
-## Conexiones
+También debe evitarse el anacronismo: categorías, títulos, costumbres y compilaciones tienen fechas y desarrollos diversos. Una tradición puede ser material de comparación, pero su antigüedad, su alcance y su relación con el siglo primero deben demostrarse antes de usarla como explicación decisiva.
 
-- #lukas_22_7
-- #lukas_22_14
-- #lukas_23_54
-- #bamidbar_11_32
-- #eijah_3_23
+## Delicia, discernimiento y práctica local
 
-## Referencias judías y fuentes externas
+#ieshaiahu_58_13-14 presenta el Shabat como día santo de יהוה y llama a no orientarlo hacia los propios asuntos. La cuarta clase lo aplica a una práctica preparada, sobria y local: ordenar la semana, reducir las actividades de provecho y no convertir la observancia en competencia, gasto forzado o carga para quien tiene pocos recursos.
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Talmud Bavli | b. Berakhot 2a | Shema nocturno y #bereshit_1_5 | Mención indirecta en la nota |
-| Talmud Bavli | b. Shabbat 35b | Atardecer y crepúsculo como umbral del shabat | Mención indirecta en la nota |
-| Astronomical Diaries / MUL.APIN | Calendario babilonio | Día desde el atardecer en registros astronómicos | Pendiente de verificar |
-| Josefo / historiografía | Marcos de tiempo en el siglo I | Contexto para relatos del Brit Hadasha | Pendiente de verificar |
+Las velas, comidas, vino, horarios comunitarios y otras formas de recepción pueden servir como señales pedagógicas o culturales, pero no deben confundirse con el núcleo explícito del mandamiento. Del mismo modo, congregarse, viajar o resolver una necesidad real demanda discernimiento comunitario y responsabilidad; la nota no los resuelve mediante una regla universal no expresada por el texto.
+
+## Conexiones principales
+
+- #bereshit_2_2-3 con #shemot_20_8-11: creación, bendición, memoria y santificación del séptimo día.
+- #devarim_5_14-15 con #shemot_20_10: el descanso incluye a la casa y recuerda la liberación de la esclavitud.
+- #irmeiahu_17_21-24 con #iojanan_5_8-10: carga, espacio público y controversia en torno a la camilla.
+- #ieshaiahu_58_13-14 con #shemot_20_8: el día apartado se orienta hacia la honra de יהוה, no hacia los propios asuntos.
+- [Yojanan 5: Bet Jesda, sanidad y Shabat](../besorah/yojanan_5_bet_jesda_shabat) — estudio puntual de la sanidad y la acusación por cargar.
 
 ## Pendiente de verificar
 
-- [ ] Revisar referencias numeradas y corregir cualquier cita cruzada mal escrita.
-- [ ] Cotejar si #tehilim_104_22-23 y #vaikra_23_32 pueden armonizarse sin forzar un solo marco horario.
+- [ ] Cotejar con léxicos hebreos la descripción de **(שבת)**, **(שבתון)** y **(מנוחה)** propuesta en la primera clase.
+- [ ] Verificar las fechas, la terminología y la relación con el siglo primero de la Mishná, Guemará, Talmud, midrash y halajá mencionados en los conversatorios.
+- [ ] Localizar las referencias exactas de los pasajes rabínicos sobre transporte y carga antes de usarlos como trasfondo de #iojanan_5.
+- [ ] Distinguir con fuentes trazables qué prácticas de recepción del Shabat son bíblicas, cuáles pertenecen a costumbres judías posteriores y cuáles son aplicaciones locales.
+
+## Conclusión
+
+Guardar Shabat no consiste en añadir ansiedad al cese ni en volver indiferente el día apartado. La Escritura lo presenta como memoria de la creación y de la liberación, descanso para la casa y honra para יהוה. Las tradiciones pueden ser examinadas con respeto y criterio, pero el texto bíblico debe seguir gobernando la práctica, junto con el cuidado de la vida y una conciencia formada por la santidad.
 
 ## Ver también
 
-- [Pesaj y Faraón](pesaj_faraon)
+- [Yojanan 5: Bet Jesda, sanidad y Shabat](../besorah/yojanan_5_bet_jesda_shabat)
+- [Yojanan 5: el Hijo, juicio y vida](../besorah/yojanan_5_hijo_juicio_vida)
+- [Yom Kippur: humillación y dependencia](yom_kippur_humillacion_y_dependencia)
 - [Janucá](janukah)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Conversatorio sobre el día del Shabat. Parte 1.](https://www.youtube.com/watch?v=YTlUMcNA2qs) — transcripción de trabajo: `private/transcripts/ericdejes/YTlUMcNA2qs.md` (source_id: `youtube:YTlUMcNA2qs`).
+- Video: [Conversatorio sobre el día de SHabat Parte 2: La época del segundo templo](https://www.youtube.com/watch?v=s7XQEhdaOdw) — transcripción de trabajo: `private/transcripts/ericdejes/s7XQEhdaOdw.md` (source_id: `youtube:s7XQEhdaOdw`).
+- Video: [Conversatorio sobre el día de Shabat Parte 3: TALMUD, EDAD MEDIA Y EDAD MODERNA](https://www.youtube.com/watch?v=N1MFZtCzkn8) — transcripción de trabajo: `private/transcripts/ericdejes/N1MFZtCzkn8.md` (source_id: `youtube:N1MFZtCzkn8`).
+- Video: [Conversatorio sobre el día de Shabat - Parte 4 La práctica del Shabat](https://www.youtube.com/watch?v=CnQSQIvZHvs) — transcripción de trabajo: `private/transcripts/ericdejes/CnQSQIvZHvs.md` (source_id: `youtube:CnQSQIvZHvs`).
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales ni como sustituto de la Escritura.
