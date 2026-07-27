@@ -1,10 +1,9 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 131,
-  "pending_videos": 762,
-  "transcript_notes": 48,
+  "covered_videos": 173,
+  "pending_videos": 720,
+  "transcript_notes": 59,
   "notes_missing_visible_credits": [
-    "content/besorah/tesalonicenses_1_comunidad_testimonio_esperanza.md",
     "content/besorah/tesalonicenses_2_comunidad_trabajo_correccion_paz.md",
     "content/besorah/tesalonicenses_2_juicio_perseverancia_gloria.md",
     "content/besorah/tesalonicenses_2_verdad_enganio_firmeza.md",
@@ -23,11 +22,20 @@
     "content/besorah/yojanan_1_testigo_cordero.md",
     "content/tanaj/qohelet_7_sabiduria_nombre_y_limites.md"
   ],
-  "duplicate_source_ids": {},
+  "duplicate_source_ids": {
+    "f3tHvC2IgWo": [
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md",
+      "content/temas/shavuot_primicias_palabra_y_testimonio.md"
+    ],
+    "h3UIeUJpRTc": [
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md",
+      "content/temas/shavuot_primicias_palabra_y_testimonio.md"
+    ]
+  },
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
-      "covered": 2,
+      "covered": 14,
       "lane": "efesios"
     },
     "2 Tesalonicenses completo": {
@@ -47,7 +55,7 @@
     },
     "Efesios completo": {
       "total": 35,
-      "covered": 8,
+      "covered": 35,
       "lane": "efesios"
     },
     "Fiestas": {
