@@ -4,15 +4,16 @@ description: "Nota canónica de Galatim 2: comunión, justificación y correcci�
 date: 2026-07-27
 tags: [galatim, gracia, justificacion, comunidad, yehoshua]
 references:
-  - "#galatians_2_1"
-  - "#galatians_2_11"
-  - "#galatians_2_16"
-  - "#galatians_2_20"
-  - "#galatians_2_21"
+  ["#galatians_2_1", "#galatians_2_11", "#galatians_2_16", "#galatians_2_20", "#galatians_2_21"]
 sources:
+  - "https://www.youtube.com/watch?v=K_zLycnKBZo"
   - "https://www.youtube.com/watch?v=fP1kJg1oQAo"
+  - "https://www.youtube.com/watch?v=Wqc4npxxCPE"
+  - "private/transcripts/ericdejes/K_zLycnKBZo.md"
+  - "private/transcripts/ericdejes/fP1kJg1oQAo.md"
+  - "private/transcripts/ericdejes/Wqc4npxxCPE.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
-source_ids: ["youtube:fP1kJg1oQAo"]
+source_ids: ["youtube:K_zLycnKBZo", "youtube:fP1kJg1oQAo", "youtube:Wqc4npxxCPE"]
 translation: "[Delitzsch]"
 ---
 
@@ -46,5 +47,7 @@ La unidad de la mesa y la justicia recibida en el Mesías impiden que la pertene
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los gálatas, parte 5 Cap 2:11ss ¿Qué es judaizar?](https://www.youtube.com/watch?v=fP1kJg1oQAo) (source_id: `youtube:fP1kJg1oQAo`).
+- [The Letter to the Galatians Part 4 Ch. 1:13-2:10](https://www.youtube.com/watch?v=K_zLycnKBZo) — transcripción de trabajo: `private/transcripts/ericdejes/K_zLycnKBZo.md` (source_id: `youtube:K_zLycnKBZo`).
+- [La carta a los gálatas, parte 5 Cap 2:11ss ¿Qué es judaizar?](https://www.youtube.com/watch?v=fP1kJg1oQAo) — transcripción de trabajo: `private/transcripts/ericdejes/fP1kJg1oQAo.md` (source_id: `youtube:fP1kJg1oQAo`).
+- [La carta a los gálatas Parte 6 Cap 2:15-3:11](https://www.youtube.com/watch?v=Wqc4npxxCPE) — transcripción de trabajo: `private/transcripts/ericdejes/Wqc4npxxCPE.md` (source_id: `youtube:Wqc4npxxCPE`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
