@@ -12,7 +12,9 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=6HgU6a_cf7E"
   - "https://www.youtube.com/watch?v=UMnek0zzbZU"
+  - "private/transcripts/ericdejes/UMnek0zzbZU.md"
   - "https://www.youtube.com/watch?v=FFUU2hgLZ0M"
+  - "private/transcripts/ericdejes/FFUU2hgLZ0M.md"
   - "https://www.youtube.com/watch?v=rfRAvg1PzK8"
   - "docs/scriptures/oe/json/ecclesiastes/10.json"
 source_ids:
@@ -67,9 +69,13 @@ Qohélet 10 no ofrece control sobre el mundo, sino sabiduría para habitar sus l
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 24) Cap 10» — https://www.youtube.com/watch?v=6HgU6a_cf7E (`source_id: youtube:6HgU6a_cf7E`).
-- «Qohélet-Eclesiastés (parte 25) Cap 10» — https://www.youtube.com/watch?v=UMnek0zzbZU (`source_id: youtube:UMnek0zzbZU`).
-- «Qohélet-Eclesiastés (parte 26) Cap 10» — https://www.youtube.com/watch?v=FFUU2hgLZ0M (`source_id: youtube:FFUU2hgLZ0M`).
-- «Qohélet-Eclesiastés (parte 27) Cap 10» — https://www.youtube.com/watch?v=rfRAvg1PzK8 (`source_id: youtube:rfRAvg1PzK8`).
+- «Qohélet-Eclesiastés (parte 24) Cap 10» — https://www.youtube.com/watch?v=6HgU6a_cf7E
+  - Transcripción: `private/transcripts/ericdejes/6HgU6a_cf7E.md` (`source_id: youtube:6HgU6a_cf7E`).
+- «Qohélet-Eclesiastés (parte 25) Cap 10» — https://www.youtube.com/watch?v=UMnek0zzbZU
+  - Transcripción: `private/transcripts/ericdejes/UMnek0zzbZU.md` (`source_id: youtube:UMnek0zzbZU`).
+- «Qohélet-Eclesiastés (parte 26) Cap 10» — https://www.youtube.com/watch?v=FFUU2hgLZ0M
+  - Transcripción: `private/transcripts/ericdejes/FFUU2hgLZ0M.md` (`source_id: youtube:FFUU2hgLZ0M`).
+- «Qohélet-Eclesiastés (parte 27) Cap 10» — https://www.youtube.com/watch?v=rfRAvg1PzK8
+  - Transcripción: `private/transcripts/ericdejes/rfRAvg1PzK8.md` (`source_id: youtube:rfRAvg1PzK8`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
