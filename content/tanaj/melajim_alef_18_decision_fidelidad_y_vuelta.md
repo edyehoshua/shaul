@@ -6,6 +6,7 @@ tags: [tanaj, melajim, haftarah, ki_tisa]
 references: ["#melajim_alef_18_21"]
 sources:
   - "https://www.youtube.com/watch?v=lt-eKhXojaU"
+  - "private/transcripts/ericdejes/lt-eKhXojaU.md"
   - "docs/scriptures/oe/json/raw/ikings.json"
 source_ids:
   - "youtube:lt-eKhXojaU"
@@ -32,5 +33,5 @@ La vuelta a יהוה no es una posición intermedia: exige seguirle.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Ki Tisá' (2018): Regresar de cara al Señor](https://www.youtube.com/watch?v=lt-eKhXojaU) — source_id: `youtube:lt-eKhXojaU`.
+- Video: [Haftaráh de Ki Tisá' (2018): Regresar de cara al Señor](https://www.youtube.com/watch?v=lt-eKhXojaU) — transcripción: `private/transcripts/ericdejes/lt-eKhXojaU.md` — source_id: `youtube:lt-eKhXojaU`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

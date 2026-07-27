@@ -6,6 +6,7 @@ tags: [tanaj, yeshayahu, haftarah, yitro]
 references: ["#ieshaiahu_6_8"]
 sources:
   - "https://www.youtube.com/watch?v=CVrudlDQrPA"
+  - "private/transcripts/ericdejes/CVrudlDQrPA.md"
   - "docs/scriptures/oe/json/isaiah/6.json"
 source_ids:
   - "youtube:CVrudlDQrPA"
@@ -32,5 +33,5 @@ El «heneni» de Yeshayahu responde a la voz de יהוה, no a una iniciativa de
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Yitró (2018) Shilóaj, el enviado](https://www.youtube.com/watch?v=CVrudlDQrPA) — source_id: `youtube:CVrudlDQrPA`.
+- Video: [Haftaráh de Yitró (2018) Shilóaj, el enviado](https://www.youtube.com/watch?v=CVrudlDQrPA) — transcripción: `private/transcripts/ericdejes/CVrudlDQrPA.md` — source_id: `youtube:CVrudlDQrPA`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

@@ -6,6 +6,7 @@ tags: [tanaj, melajim, haftarah, vayaqhel, pequdey]
 references: ["#melajim_alef_7_51", "#melajim_alef_8_12"]
 sources:
   - "https://www.youtube.com/watch?v=G7ae4SSb044"
+  - "private/transcripts/ericdejes/G7ae4SSb044.md"
   - "docs/scriptures/oe/json/raw/ikings.json"
 source_ids:
   - "youtube:G7ae4SSb044"
@@ -33,5 +34,5 @@ La casa terminada no domestica a יהוה; orienta al pueblo a reconocer su pres
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Vayaqhel - Pequdéy (2018) Hashem habita con 'arafel](https://www.youtube.com/watch?v=G7ae4SSb044) — source_id: `youtube:G7ae4SSb044`.
+- Video: [Haftaráh de Vayaqhel - Pequdéy (2018) Hashem habita con 'arafel](https://www.youtube.com/watch?v=G7ae4SSb044) — transcripción: `private/transcripts/ericdejes/G7ae4SSb044.md` — source_id: `youtube:G7ae4SSb044`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.
