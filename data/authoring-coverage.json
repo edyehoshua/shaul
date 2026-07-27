@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 293,
-  "pending_videos": 665,
-  "transcript_notes": 115,
+  "covered_videos": 322,
+  "pending_videos": 636,
+  "transcript_notes": 121,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 13,
+      "covered": 38,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -98,7 +98,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 0,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
@@ -108,7 +108,7 @@
     },
     "Romanos": {
       "total": 35,
-      "covered": 26,
+      "covered": 30,
       "lane": "colosenses"
     },
     "Shavu’ot": {
