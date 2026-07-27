@@ -2,6 +2,7 @@
 
 Revisar esta muestra antes de cada hito de 25 integraciones.
 
+- [ ] `content/temas/sukot_habitar_gozo_y_memoria.md` — fuentes: youtube:mZGpW3lwf4Y, youtube:xwuvQhEMMDo, youtube:ee9P_IfRXhs, youtube:oZQuUZei82E, youtube:gwepMXjk8So, youtube:cBu5K15TJAg; créditos visibles: sí.
 - [ ] `content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md` — fuentes: youtube:zLynBpmjJr0; créditos visibles: sí.
 - [ ] `content/besorah/yojanan_15_vid_fruto_amor_discipulado.md` — fuentes: youtube:XB7AjfErsCI; créditos visibles: sí.
 - [ ] `content/tanaj/cantar_8_lectura_poetica_y_relacional.md` — fuentes: youtube:c-cPzZYvPJs, youtube:pSq69Bx_xqo; créditos visibles: sí.
@@ -11,4 +12,3 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/besorah/apocalipsis_9_revelacion_trompetas_ay_y_llamado.md` — fuentes: youtube:u7-1n3mFap4; créditos visibles: sí.
 - [ ] `content/tanaj/cantar_5_lectura_poetica_y_relacional.md` — fuentes: youtube:CMEiD_2EXrU, youtube:0xRSI1cvFIU, youtube:lLB9-pbVKAk, youtube:Amg-3Ot2QmU, youtube:Owqc-XCwaOo; créditos visibles: sí.
 - [ ] `content/besorah/efesios_6_firmeza_oracion_y_servicio.md` — fuentes: youtube:v03-WzaF5uw, youtube:nwno_x1eN6E, youtube:2mgGFv_NC_w, youtube:Hej3xxIb85o, youtube:O1YNAgZXzdo; créditos visibles: sí.
-- [ ] `content/besorah/romanos_9_dolor_por_Israel_promesa_misericordia.md` — fuentes: youtube:\_7iywbOZPEQ; créditos visibles: sí.

@@ -13,12 +13,18 @@ references:
   - "#leviticus_25_9"
 sources:
   - "https://www.youtube.com/watch?v=6uZpdCuu95M"
+  - "https://www.youtube.com/watch?v=16p4v1cAewY"
+  - "https://www.youtube.com/watch?v=SShsoobdC8c"
   - "private/transcripts/ericdejes/6uZpdCuu95M.md"
+  - "private/transcripts/ericdejes/16p4v1cAewY.md"
+  - "private/transcripts/ericdejes/SShsoobdC8c.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
   - "docs/scriptures/oe/json/numbers/29.json"
 source_ids:
   - "youtube:6uZpdCuu95M"
+  - "youtube:16p4v1cAewY"
+  - "youtube:SShsoobdC8c"
 translation: "[OE]"
 ---
 
@@ -63,4 +69,6 @@ Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede 
 - [Yom Tru'ah / Rosh Hashanah 5783](https://www.youtube.com/watch?v=bYZCWrOSMyM) — transcripción de trabajo: `private/transcripts/ericdejes/bYZCWrOSMyM.md` (source_id: `youtube:bYZCWrOSMyM`).
 - [Yom tru'ah 5786 - 2025](https://www.youtube.com/watch?v=eKPZwHFJ6Tg) — transcripción de trabajo: `private/transcripts/ericdejes/eKPZwHFJ6Tg.md` (source_id: `youtube:eKPZwHFJ6Tg`).
 - [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).
+- [Yom Tru'ah and Zichron Tru'ah](https://www.youtube.com/watch?v=16p4v1cAewY) — transcripción de trabajo: `private/transcripts/ericdejes/16p4v1cAewY.md` (source_id: `youtube:16p4v1cAewY`).
+- [Yom tru'ah neighbor tru'ah saméaj](https://www.youtube.com/watch?v=SShsoobdC8c) — transcripción de trabajo: `private/transcripts/ericdejes/SShsoobdC8c.md` (source_id: `youtube:SShsoobdC8c`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

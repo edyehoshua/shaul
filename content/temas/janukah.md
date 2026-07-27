@@ -1,7 +1,7 @@
 ---
 title: "Janucá: rehabilitación, memoria y expectativa mesiánica"
-description: "Apuntes sobre Janucá, la rehabilitación del templo, la helenización y la expectativa mesiánica alrededor de Yeshua"
-date: 2026-05-16
+description: "Apuntes sobre Janucá, la rehabilitación del templo, la helenización y la expectativa mesiánica alrededor de Yehoshua"
+date: 2026-07-27
 tags:
   - janukah
   - templo
@@ -13,13 +13,20 @@ references:
   - "#tehilim_30_2"
   - "#iojanan_10_22"
   - "#iojanan_10_24"
-sources: []
+sources:
+  - "https://www.youtube.com/watch?v=gyOX6oI8iss"
+  - "https://www.youtube.com/watch?v=HpsB8Dd-Xbw"
+  - "private/transcripts/ericdejes/gyOX6oI8iss.md"
+  - "private/transcripts/ericdejes/HpsB8Dd-Xbw.md"
+source_ids:
+  - "youtube:gyOX6oI8iss"
+  - "youtube:HpsB8Dd-Xbw"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
 
-Janucá aparece aquí como la rehabilitación del templo y la memoria de la santidad en un contexto de helenización, y también como un marco para entender la expectativa mesiánica equivocada que algunos proyectaban sobre Yeshua.
+Janucá aparece aquí como la rehabilitación del templo y la memoria de la santidad en un contexto de helenización, y también como un marco para entender la expectativa mesiánica equivocada que algunos proyectaban sobre Yehoshua.
 
 ## Alcance de la nota
 
@@ -44,22 +51,22 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים | Y era Janucá en Ierushaláim, y era invierno. | El relato ubica la escena en la fiesta. |
-| #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | …¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Presión mesiánica en el marco de Janucá. |
-| #tehilim_30_1 | מזמור שיר חנכת ה/בית ל/דוד | Te exaltaré, יהוה, porque me has liberado… | Encabezado: salmo de dedicación del bayit. |
-| #tehilim_30_2 | ארוממ/ך יהוה כי דלית/ני ו/לא שמחת איב/י ל/י | יהוה, mi Elohim, grité por ayuda a ti y me sanaste. | Memoria de liberación ligada a la casa. |
+| Referencia     | Hebreo (sin nikud)                                                            | TTH (ES)                                                                          | Observación                                |
+| -------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------ |
+| #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים                                            | Y era Janucá en Ierushaláim, y era invierno.                                      | El relato ubica la escena en la fiesta.    |
+| #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | …¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Presión mesiánica en el marco de Janucá.   |
+| #tehilim_30_1  | מזמור שיר חנכת ה/בית ל/דוד                                                    | Te exaltaré, יהוה, porque me has liberado…                                        | Encabezado: salmo de dedicación del bayit. |
+| #tehilim_30_2  | ארוממ/ך יהוה כי דלית/ני ו/לא שמחת איב/י ל/י                                   | יהוה, mi Elohim, grité por ayuda a ti y me sanaste.                               | Memoria de liberación ligada a la casa.    |
 
 ## Hoja léxica
 
-| Forma | Aproximación usual | Matiz que hay que preservar |
-| --- | --- | --- |
-| **(חנוכה)** | dedicación, habilitación | En el templo: rehabilitación y reconsagración, no solo «fiesta de luces». |
-| **(חנך)** | estrenar, educar, dedicar | Raíz de instrucción y puesta en funcionamiento. |
-| **(זכר קדשו)** | memoria de su santidad | Traer a la memoria lo que יהוה santificó. |
-| **(תודה)** | confesión, reconocimiento público | En el salmo: confesar y reconocer, no solo «gracias» emotiva. |
-| **(משיח)** | ungido, Mesías | En #iojanan_10_24 la pregunta asume un modelo mesiánico concreto. |
+| Forma          | Aproximación usual                | Matiz que hay que preservar                                               |
+| -------------- | --------------------------------- | ------------------------------------------------------------------------- |
+| **(חנוכה)**    | dedicación, habilitación          | En el templo: rehabilitación y reconsagración, no solo «fiesta de luces». |
+| **(חנך)**      | estrenar, educar, dedicar         | Raíz de instrucción y puesta en funcionamiento.                           |
+| **(זכר קדשו)** | memoria de su santidad            | Traer a la memoria lo que יהוה santificó.                                 |
+| **(תודה)**     | confesión, reconocimiento público | En el salmo: confesar y reconocer, no solo «gracias» emotiva.             |
+| **(משיח)**     | ungido, Mesías                    | En #iojanan_10_24 la pregunta asume un modelo mesiánico concreto.         |
 
 ## Salmo 30 y la memoria de la santidad
 
@@ -71,17 +78,17 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 ## Observaciones mesiánicas
 
 - Parte del trasfondo de Janucá alimentó la expectativa de un mesías militar parecido a Yehudá Macabeo.
-- Por eso la pregunta a Yeshua en #iojanan_10_24 se entiende como una presión para que se identifique con ese modelo.
-- La nota subraya que Yeshua no valida esa expectativa equivocada, aunque sí confronta la incredulidad de quienes no oyen su voz.
+- Por eso la pregunta a Yehoshua en #iojanan_10_24 se entiende como una presión para que se identifique con ese modelo.
+- La nota subraya que Yehoshua no valida esa expectativa equivocada, aunque sí confronta la incredulidad de quienes no oyen su voz.
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| 1-2 Macabeos | Rehabilitación del templo | Contexto histórico de Janucá | Pendiente de verificar |
-| Josefo | Ant. 12–13 | Periodo seléucida y Macabeos | Pendiente de verificar |
-| m. Shabbat | Janucá y encendido de luces | Práctica festiva posterior | Pendiente de verificar |
-| #tehilim_30 | Salmo de dedicación | Memoria de santidad y todah | Cotejado |
+| Fuente       | Referencia                  | Uso en la nota               | Estado                 |
+| ------------ | --------------------------- | ---------------------------- | ---------------------- |
+| 1-2 Macabeos | Rehabilitación del templo   | Contexto histórico de Janucá | Pendiente de verificar |
+| Josefo       | Ant. 12–13                  | Periodo seléucida y Macabeos | Pendiente de verificar |
+| m. Shabbat   | Janucá y encendido de luces | Práctica festiva posterior   | Pendiente de verificar |
+| #tehilim_30  | Salmo de dedicación         | Memoria de santidad y todah  | Cotejado               |
 
 ## Pendiente de verificar
 
@@ -94,3 +101,10 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 - [Yojanan 10: la puerta, el buen pastor y Abba](../besorah/yojanan_10_puerta_pastor_abba)
 - [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias)
 - [Shabat: inicio del día y marcos calendarios](shabat)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [Janukáh 2024 - 5785 Un día para celebrar la identidad bíblica](https://www.youtube.com/watch?v=gyOX6oI8iss) — transcripción de trabajo: `private/transcripts/ericdejes/gyOX6oI8iss.md` (source_id: `youtube:gyOX6oI8iss`).
+- [Janukáh 5784-2023 חנוכה התשפ''ד Preservation of identity in the 'emunáh](https://www.youtube.com/watch?v=HpsB8Dd-Xbw) — transcripción de trabajo: `private/transcripts/ericdejes/HpsB8Dd-Xbw.md` (source_id: `youtube:HpsB8Dd-Xbw`).
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
