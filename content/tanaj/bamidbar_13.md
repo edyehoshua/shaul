@@ -31,6 +31,10 @@ references:
 sources:
   - "docs/scriptures/tth/json/bamidbar.json"
   - "docs/scriptures/oe/json/numbers/13.json"
+  - "https://www.youtube.com/watch?v=R2ViDhA4RQQ"
+  - "private/transcripts/ericdejes/R2ViDhA4RQQ.md"
+source_ids:
+  - "youtube:R2ViDhA4RQQ"
 translation: "[TTH, OE]"
 ---
 
@@ -63,28 +67,28 @@ Este cuadro es para explicar la distribución que tenían los pueblos que habita
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #bamidbar_13_21 | ויעלו ויתרו את הארץ ממדבר צן עד רחב לבא חמת | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat. | Recorrido norte-sur de הארץ; límite meridional y septentrional. |
+| Referencia      | Hebreo (OE, sin nikud)                                                            | TTH (ES)                                                                                                                                                | Observación                                                                        |
+| --------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| #bamidbar_13_21 | ויעלו ויתרו את הארץ ממדבר צן עד רחב לבא חמת                                       | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat.                                                      | Recorrido norte-sur de הארץ; límite meridional y septentrional.                    |
 | #bamidbar_13_29 | עמלק יושב בארץ הנגב והחתי והיבוסי והאמרי יושב בהר והכנעני ישב על הים ועל יד הירדן | Amalek habita en la tierra del Néguev, y el jití, el iebusí y el emorí habita en la montaña, y el kenaaní habita junto al mar y por la mano del Iardén. | Cuatro puntos: neguev (sur), har (centro/norte), yam (oeste), yad haIardén (este). |
 
 ## Léxico base
 
-| Hebreo | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación |
-| --- | --- | --- | --- | --- | --- |
-| **(הארץ)** | ha'aretz | la tierra | ארץ | tierra, territorio | En esta nota suele referirse a la tierra de Israel / Kenaan. |
-| **(נגב)** | neguev | sur, región meridional | נגב | secar, sur | Amalek en el neguev. |
-| **(הר)** | har | montaña, región montañosa | הר | montaña | Hití, iebusí y emorí en la montaña. |
-| **(ים)** | yam | mar, occidente | ים | mar | Kenaaní junto al mar (costa mediterránea). |
-| **(יד הירדן)** | yad haIardén | a la orilla del Jordán | יד | mano, lado | Extremo oriental de la tierra. |
+| Hebreo         | Transliteración (es) | Significado               | Raíz | Sentido de la raíz | Observación                                                  |
+| -------------- | -------------------- | ------------------------- | ---- | ------------------ | ------------------------------------------------------------ |
+| **(הארץ)**     | ha'aretz             | la tierra                 | ארץ  | tierra, territorio | En esta nota suele referirse a la tierra de Israel / Kenaan. |
+| **(נגב)**      | neguev               | sur, región meridional    | נגב  | secar, sur         | Amalek en el neguev.                                         |
+| **(הר)**       | har                  | montaña, región montañosa | הר   | montaña            | Hití, iebusí y emorí en la montaña.                          |
+| **(ים)**       | yam                  | mar, occidente            | ים   | mar                | Kenaaní junto al mar (costa mediterránea).                   |
+| **(יד הירדן)** | yad haIardén         | a la orilla del Jordán    | יד   | mano, lado         | Extremo oriental de la tierra.                               |
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Tanaj (TTH/OE) | #bamidbar_13_21, #bamidbar_13_29 | Exploración y distribución de pueblos | Cotejado |
-| Josefo | Ant. (descripción de Kenaan) | Contexto histórico de los siete pueblos | Pendiente de verificar |
-| Atlas bíblico | — | Ubicación de Tzin, Rejob y Jamat | Pendiente de verificar |
+| Fuente         | Referencia                       | Uso en la nota                          | Estado                 |
+| -------------- | -------------------------------- | --------------------------------------- | ---------------------- |
+| Tanaj (TTH/OE) | #bamidbar_13_21, #bamidbar_13_29 | Exploración y distribución de pueblos   | Cotejado               |
+| Josefo         | Ant. (descripción de Kenaan)     | Contexto histórico de los siete pueblos | Pendiente de verificar |
+| Atlas bíblico  | —                                | Ubicación de Tzin, Rejob y Jamat        | Pendiente de verificar |
 
 ## Pendiente de verificar
 
@@ -96,3 +100,9 @@ Este cuadro es para explicar la distribución que tenían los pueblos que habita
 - [Sodot 7](../besorah/sodot_7.md) — ארבע כנפות y distribución cardinal.
 - [Mateo introducción 2](../besorah/mateo_introduccion_2.md) — contexto del segundo templo y tierra de Israel.
 - #ieshaiahu_11_12 — reunión desde ארבע כנפות הארץ (desarrollado en [Sodot 7](../besorah/sodot_7.md)).
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [Parashat Shlach Lecha (2017) The Nephilim and the Defamation of the Land](https://www.youtube.com/watch?v=R2ViDhA4RQQ) — transcripción de trabajo: `private/transcripts/ericdejes/R2ViDhA4RQQ.md` (source_id: `youtube:R2ViDhA4RQQ`).
+- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

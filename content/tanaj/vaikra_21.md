@@ -13,7 +13,12 @@ references:
   - "#vaikra_21_4"
   - "#vaikra_21_6"
   - "#vaikra_21_9"
-sources: []
+sources:
+  - "https://www.youtube.com/watch?v=0cue_4anMrY"
+  - "private/transcripts/ericdejes/0cue_4anMrY.md"
+  - "docs/scriptures/oe/json/leviticus/21.json"
+source_ids:
+  - "youtube:0cue_4anMrY"
 translation: "[BTX4]"
 ---
 
@@ -79,3 +84,9 @@ Vaikra 21 establece límites de pureza para el kohen y protege la santidad del s
 ## Pendiente de verificar
 
 - [ ] Revisar transliteración uniforme de términos hebreos en toda la nota.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [Parashat 'Emor (2017): Serán Qódesh, no profanarán el nombre de su DIos](https://www.youtube.com/watch?v=0cue_4anMrY) — transcripción de trabajo: `private/transcripts/ericdejes/0cue_4anMrY.md` (source_id: `youtube:0cue_4anMrY`).
+- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
