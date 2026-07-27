@@ -1265,6 +1265,14 @@
       "url": "https://www.youtube.com/watch?v=zjob2_-uFTs",
       "reason": "Transcript unavailable after full inventory refresh",
       "status": "pending_transcript"
+    },
+    {
+      "video_id": "FFUU2hgLZ0M",
+      "playlist_title": "Qohélet - Eclesiastés",
+      "title": "Qohélet-Eclesiastés (parte 26) Cap 10",
+      "url": "https://www.youtube.com/watch?v=FFUU2hgLZ0M",
+      "reason": "Local transcript unavailable during Qohélet lane completion audit",
+      "status": "pending_transcript"
     }
   ]
 }
