@@ -160,6 +160,8 @@
 - 2026-07-27 — Added the canonical Tehilim 114 study from `youtube:IvPafHmblD0`, alternating validated new work after the Tehilim remediation sequence. It follows vv. 1–8 in order, quotes normalized local OE text, preserves Eric’s observations on loez, holiness and government, waters and mountains, Adon, and rock-to-water transformation in a five-entry teaching map, and marks lexical, historical, typological, and doctrinal extensions for verification. Public-only credit and its unique source ID pass the transcript-note quality gate.
 - 2026-07-27 — Remediated the canonical Tehilim 95 study from `youtube:XfQpO73ebKA`. It follows vv. 1–11 in sequence, quotes normalized local OE and TTH text, preserves Eric’s concrete observations about collective invitation, todah, the King and Pastor, Merivá/Masá, and menuja in a five-entry teaching map, and classifies lexical, rabbinic, historical, textual and messianic extensions as pending verification. Its public-only credit and unique source ID pass the transcript-note quality gate.
 
+- 2026-07-27 — Remediated the canonical Vaikra 23 study for the four exclusively assigned Beha'alotcha/Shavu'ot sources (`youtube:f0PQY7bXbJQ`, `youtube:OG2PPYieRhk`, `youtube:EHZDK_XPB1A`, and `youtube:eJlTuHME674`). Added a traceable teaching map and completed the lexical sheet with form, transliteration, normal sense, contextual force, and qualified equivalences; the existing local OE and Delitzsch comparison remains the textual basis.
+
 ## 2026-07-27 — Integrator cron (feat/eric_youtube)
 
 - Fetch/rebase: `origin/main` already ancestor of `feat/eric_youtube`; aborted stale mid-rebase leftover; stayed on `c3a21b91` tip then integrated workers.
