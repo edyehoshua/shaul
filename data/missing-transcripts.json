@@ -1265,6 +1265,70 @@
       "url": "https://www.youtube.com/watch?v=FFUU2hgLZ0M",
       "reason": "Local transcript unavailable during Qohélet lane completion audit",
       "status": "pending_transcript"
+    },
+    {
+      "video_id": "qw74-9iWKGI",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarah de Shabat Zajor (2018): Tener presente la obra de 'Amaleq",
+      "url": "https://www.youtube.com/watch?v=qw74-9iWKGI",
+      "reason": "No local transcript found. The youtube-transcript-api request was blocked by YouTube and yt-dlp required bot verification during the 2026-07-27 Haftarot lane attempt.",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "LOCn1StkW4M",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarat Vayishlaj Part 2",
+      "url": "https://www.youtube.com/watch?v=LOCn1StkW4M",
+      "reason": "No local transcript found. The youtube-transcript-api request was blocked by YouTube and yt-dlp required bot verification during the 2026-07-27 Haftarot lane attempt.",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "WDnxTbBQP8I",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarat Vayishlaj Part 4",
+      "url": "https://www.youtube.com/watch?v=WDnxTbBQP8I",
+      "reason": "No local transcript found. The youtube-transcript-api request was blocked by YouTube during the 2026-07-27 Haftarot lane attempt; the bundled fetcher exited before its yt-dlp fallback.",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "h84ocNkUd0I",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftaráh de Hosha'na' Rabah (2018) El Juicio y sepultura de Gog",
+      "url": "https://www.youtube.com/watch?v=h84ocNkUd0I",
+      "reason": "No local transcript found. The youtube-transcript-api request was blocked by YouTube and yt-dlp required bot verification during the 2026-07-27 Haftarot lane attempt.",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "srNlYR8BNnQ",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftaráh de Se'udat Mashíaj - Is. 10:32-12:6 Mashíaj, el Descanso",
+      "url": "https://www.youtube.com/watch?v=srNlYR8BNnQ",
+      "reason": "No local transcript found. The youtube-transcript-api request was blocked by YouTube during the 2026-07-27 Haftarot lane attempt.",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ylAeMhup8o0",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftaráh Majar jódesh 1 Sm. 20:18-42 El bien, la verdad y la justicia",
+      "url": "https://www.youtube.com/watch?v=ylAeMhup8o0",
+      "reason": "No local transcript found. The youtube-transcript-api request was blocked by YouTube and a direct yt-dlp auto-subtitle attempt required bot verification during the 2026-07-27 Haftarot lane attempt.",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "FFTXWUbDVAI",
+      "playlist_title": "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)",
+      "title": "Discussion about the Hebrew calendar 5786-2026",
+      "url": "https://www.youtube.com/watch?v=FFTXWUbDVAI",
+      "reason": "Transcript unavailable: youtube-transcript-api request was blocked and yt-dlp required bot verification",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Mv_H45lKGkQ",
+      "playlist_title": "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)",
+      "title": "Explicando el calendario Hebreo 5783 - 2022-2023",
+      "url": "https://www.youtube.com/watch?v=Mv_H45lKGkQ",
+      "reason": "Transcript unavailable: youtube-transcript-api request was blocked and yt-dlp required bot verification",
+      "status": "pending_transcript"
     }
   ]
 }

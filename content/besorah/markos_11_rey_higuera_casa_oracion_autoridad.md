@@ -124,5 +124,6 @@ Marcos 11 dirige la esperanza de la multitud hacia un rey que entra, examina y j
 ## Ver también
 
 - [[markos_10_pacto_reino_riqueza_servicio_camino|Marcos 10: pacto, reino, riqueza, servicio y camino]]
-- [[markos_13_14_abba_oracion_juicio|Marcos 13–14: Abba, oración y juicio]]
+- [[markos_12_shema_senor_david_vida_entregada|Marcos 12: Shemá, Señor de David y vida entregada]]
+- [[markos_13_vigilancia_hijo_hombre_palabra|Marcos 13: vigilancia, Hijo del Hombre y palabra]]
 - [[markos_8_ciego_confesion_camino_cruz|Marcos 8: ciego, confesión y camino de la cruz]]

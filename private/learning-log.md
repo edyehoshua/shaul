@@ -52,3 +52,15 @@
 - 2026-07-27 — Remediated the canonical Tehilim 103 study from `youtube:n2Xu9-PnaGg`. The note now follows vv. 1–22 in order, quotes normalized local OE text, preserves Eric’s observations on nefesh, memory, forgiveness, renewal, justice, mercy, transgression, covenant, throne, and universal blessing in a five-entry teaching map, and classifies lexical, historical, legal, and doctrinal extensions as pending. The public-only Eric credit and unique source ID pass the transcript-note quality gate.
 - 2026-07-27 — Added the canonical Tehilim 114 study from `youtube:IvPafHmblD0`, alternating validated new work after the Tehilim remediation sequence. It follows vv. 1–8 in order, quotes normalized local OE text, preserves Eric’s observations on loez, holiness and government, waters and mountains, Adon, and rock-to-water transformation in a five-entry teaching map, and marks lexical, historical, typological, and doctrinal extensions for verification. Public-only credit and its unique source ID pass the transcript-note quality gate.
 - 2026-07-27 — Remediated the canonical Tehilim 95 study from `youtube:XfQpO73ebKA`. It follows vv. 1–11 in sequence, quotes normalized local OE and TTH text, preserves Eric’s concrete observations about collective invitation, todah, the King and Pastor, Merivá/Masá, and menuja in a five-entry teaching map, and classifies lexical, rabbinic, historical, textual and messianic extensions as pending verification. Its public-only credit and unique source ID pass the transcript-note quality gate.
+
+## 2026-07-27 — Integrator cron (feat/eric_youtube)
+
+- Fetch/rebase: `origin/main` already ancestor of `feat/eric_youtube`; aborted stale mid-rebase leftover; stayed on `c3a21b91` tip then integrated workers.
+- Integrated validated remediation + new work (quality script pass, unique source_ids, lane ownership, public Eric credits, no private paths, Eric maps ≥3):
+  - Remediation: Galatim 1–2; Tehilim 13–14; Vayikra 25; Vaikra 22; Devarim 12 (stripped cross-lane 613 id); Shemot 20; Vaikra 23 (tanaj-only Behaalotja/Shavuot ids).
+  - New: Marcos 10–12, 14–15; Janucá/Salmo 30; Corazón renovado; Calendario/luna/moadim.
+- Rejected/stripped cross-lane source_ids (Fiestas/efesios, 613/Parashot colosenses) rather than moving other lanes' ownership.
+- Merged missing-transcript gaps from haftarot/epistles; added non-expository registry from haftarot.
+- Coverage refresh: covered_videos=716 / pending=242; notes_missing_visible_credits=[]; duplicate_source_ids={}.
+- Load balance: yojanan 67, colosenses 54, tanaj 50, efesios 43 (all 40–70); haftarot 33→+1 unassigned `youtube:sfGXMp9LYCc` assigned exclusively (only eligible unassigned remaining; no lane >70 to rebalance from).
+- Remediation registry: 5 notes cleared (galatim 1–2, tehilim 13–14, vayikra 25); 214 remain.

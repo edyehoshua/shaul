@@ -1,51 +1,126 @@
 ---
-title: "Vayikra 25: Libertad, descanso y pertenencia a יהוה"
-description: "Nota canónica de Vayikra 25, organizada a partir de una clase de la serie Parashot 2016-2017."
+title: "Vayikra 25: descanso de la tierra, rescate y pertenencia a יהוה"
+description: "Lectura de Vayikra 25: la shemitá, el yovel, la tierra de יהוה y el trato al hermano empobrecido."
 date: 2026-07-27
 tags:
   - parashot
   - vaikra
+  - vaikra_25
+  - behar
+  - shemitah
+  - yovel
+  - tierra
+  - rescate
 references:
-  - "#vaikra_25_1"
+  - "#vaikra_25_2-7"
+  - "#vaikra_25_8-17"
+  - "#vaikra_25_18-24"
+  - "#vaikra_25_35-43"
+  - "#vaikra_25_55"
+  - "#devarim_15_1-11"
+  - "#yejezkel_36_16-21"
+  - "#hebreos_4_1-11"
 sources:
-  - "https://www.youtube.com/watch?v=sfA7OZ8LtFk"
+  - "https://www.youtube.com/watch?v=kNM4bV6k3Z8"
   - "docs/scriptures/oe/json/leviticus/25.json"
 source_ids:
-  - "youtube:sfA7OZ8LtFk"
+  - "youtube:kNM4bV6k3Z8"
 translation: "[OE]"
 ---
 
 # Tesis
 
-Vayikra 25 abre un tramo que sitúa la vida del pueblo delante de יהוה. La clase de la serie _Parashot 2016-2017_ ofrece una lectura temática del pasaje; esta nota conserva como ancla el texto bíblico y distingue sus aplicaciones del sentido explícito del capítulo.
+Vayikra 25 ordena el tiempo, la tierra, las ventas y el trabajo del israelita bajo una sola confesión: la tierra pertenece a יהוה y los hijos de Israel son sus siervos porque él los sacó de Egipto. La shemitá y el yovel no son una evasión de la vida material; hacen visible que ni el rendimiento del campo, ni una parcela, ni la necesidad económica autorizan a convertir al hermano en objeto de explotación.
 
 ## Alcance de la nota
 
-Esta es la nota canónica para Vayikra 25 dentro de esta incorporación. La transcripción automática de la clase se usa para identificar su tema y su pasaje de partida, no como cita literal verificable. El título de la sesión —«Parashát Behar + Bejuqotay (2017) Míos son los hijos de Yisra'el, son mis siervos»— orienta la selección temática, pero las afirmaciones doctrinales, históricas o léxicas que excedan el texto requieren cotejo adicional.
+Esta es la nota canónica de Vayikra 25. Conserva la atribución previa y se remedia a partir de la clase «Parashat Behar Lv 25-26 The Shmitah, the Yovel and the Mnujáh», del hermano Eric de Jesús Rodríguez Mendoza. Eric sigue especialmente los versículos 2–7, 8–24, 35–43 y 55: destaca la confianza aprendida en el desierto, la provisión para toda la casa, el sonido del shofar en el yovel, la devolución de la posesión y la pertenencia de Israel a יהוה. La nota contrasta esas observaciones con el texto local; las propuestas históricas, calendáricas y las conexiones con la Jerusalén celestial no se presentan como sentido único del capítulo.
 
 ## Hoja de comparación
 
-| Referencia    | Hebreo local (OE, sin nikud)           | Observación                                                                                           |
-| ------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #vayikra_25_1 | **וידבר יהוה אל משה בהר סיני לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| Referencia           | Hebreo local OE (sin nikud)                                                                                        | Observación                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| #vaikra_25_2-4       | **כי תבאו אל הארץ אשר אני נתן לכם ושבתה הארץ שבת ליהוה... ובשנה השביעת שבת שבתון יהיה לארץ שבת ליהוה**             | Al entrar en la tierra dada por יהוה, la tierra recibe su propio cese para él.          |
+| #vaikra_25_6         | **והיתה שבת הארץ לכם לאכלה לך ולעבדך ולאמתך ולשכירך ולתושבך הגרים עמך**                                            | El producto del descanso alimenta al dueño, dependientes, jornalero y residente.        |
+| #vaikra_25_8-10      | **וספרת לך שבע שבתת שנים... והעברת שופר תרועה... וקדשתם את שנת החמשים שנה וקראתם דרור בארץ... ושבתם איש אל אחזתו** | Siete ciclos desembocan en el año consagrado, la proclamación de libertad y el retorno. |
+| #vaikra_25_14-17     | **אל תונו איש את אחיו... ולא תונו איש את עמיתו ויראת מאלהיך**                                                      | El cálculo de una venta no permite oprimir al prójimo.                                  |
+| #vaikra_25_20-24     | **וכי תאמרו מה נאכל... וצויתי את ברכתי... והארץ לא תמכר לצמתת כי לי הארץ**                                         | La promesa de provisión sostiene el descanso; la tierra no es una mercancía absoluta.   |
+| #vaikra_25_35-43, 55 | **והחזקת בו... וחי עמך... לא תקח מאתו נשך ותרבית... כי עבדי הם אשר הוצאתי אתם מארץ מצרים**                         | El hermano empobrecido debe vivir contigo y no ser tratado con dureza como esclavo.     |
 
-## Lectura inicial
+## La tierra descansa para יהוה: vv. 1–7
 
-El comienzo de Vayikra 25 establece el marco inmediato de la sección. La clase vincula este tramo con «libertad, descanso y pertenencia a יהוה»; esa relación puede servir como guía de lectura, siempre que no sustituya el desarrollo concreto del texto ni convierta una formulación de la exposición en una cita bíblica.
+La palabra se da «en monte Sinaí», pero se dirige al futuro: «cuando entréis en la tierra que yo os doy» (#vaikra_25_2). El punto de partida no es que Israel posea la tierra por derecho independiente, sino que la recibe. Durante seis años puede sembrar y podar; el séptimo es **(שבת שבתון)**, _shabat shabaton_, «cese de cese» o descanso solemne, para la tierra (#vaikra_25_4). Esta expresión intensifica el descanso; «reposo total» es una traducción **aproximada**, pues explica el efecto sin reproducir la repetición hebrea.
 
-La respuesta responsable al pasaje parte de escuchar su lenguaje, sus destinatarios y su continuidad narrativa. Las conexiones con Yehoshua y con otros escritos pueden ser lecturas canónicas valiosas, pero deben señalarse como tales cuando el capítulo no las formula explícitamente.
+La clase observa que la práctica exigía una confianza semejante a la aprendida en el desierto: Israel no controlaba el maná y debía aprender que la vida dependía de יהוה. La comparación es una aplicación plausible, aunque Vayikra 25 no vuelve a narrar el maná. Su apoyo textual está en la pregunta que el propio capítulo anticipa: «¿qué comeremos en el séptimo año?» (#vaikra_25_20). La promesa no elogia la pasividad; regula una renuncia periódica a sembrar, podar y apropiarse de la cosecha como producto exclusivo.
+
+Eric también llama la atención sobre el alcance de la provisión. El versículo 6 enumera al dueño, siervo, sierva, jornalero y residente, y el versículo 7 añade ganado y animales. Por eso «la tierra descansa» no describe un privilegio privado del propietario. La expresión **(שבת הארץ)**, _shabat ha'arets_, significa literalmente «descanso de la tierra»; hablar de un «ecosistema» puede ser una aplicación **pedagógica** moderna, pero el texto sí distribuye el alimento entre personas dependientes y animales.
+
+## Del conteo al yovel: vv. 8–17
+
+Después de siete series de siete años, Israel cuenta cuarenta y nueve años (#vaikra_25_8). En el día diez del mes séptimo, el día de las expiaciones, se hace pasar un **(שופר תרועה)**, _shofar teru'ah_, por toda la tierra (#vaikra_25_9). _Shofar_ es el cuerno usado como instrumento; _teru'ah_ designa un toque fuerte, aclamación o señal de alarma según el contexto. «Toque de alarma» es **aproximado y contextual**: expresa la convocatoria pública, sin fijar por sí solo una técnica musical determinada.
+
+El año cincuenta es consagrado y se proclama **(דרור)**, _deror_, «libertad» o liberación, para sus habitantes (#vaikra_25_10). Eric describe ese anuncio como el comienzo de devolución, libertad y reconciliación. El texto sostiene con claridad el retorno «cada uno a su posesión» y «cada uno a su familia»; «reconciliación» es una extensión **pedagógica**, no la equivalencia exacta de _deror_. La fecha en Yom Kippur enlaza el anuncio con el calendario cultual, pero no autoriza a convertir cada uso posterior de libertad en una identificación automática con el yovel.
+
+Los versículos 14–17 explican cómo el calendario limita la venta. El precio se calcula según los años y las cosechas que quedan antes del yovel; por ello no se debe **(תונו)**, _tonu_, oprimir, defraudar o perjudicar al hermano. «No engañar» es una traducción **aproximada**; en este contexto la fuerza es impedir una ventaja económica abusiva. El temor de Elohim es la razón expresamente dada, no una mera recomendación comercial.
+
+## Provisión, posesión y rescate: vv. 18–34
+
+A la obediencia se une una promesa: יהוה ordenará su bendición en el sexto año y el producto alcanzará para tres años (#vaikra_25_21). Eric insiste acertadamente en que la provisión hace visible una dependencia de Dios que la abundancia cotidiana puede esconder. El pasaje lo afirma como promesa de pacto, no como una fórmula universal que garantice una cosecha triple a todo agricultor contemporáneo. La confianza que enseña debe conservar la forma concreta de la ley dada a Israel en la tierra.
+
+El centro del capítulo llega en #vaikra_25_23: «la tierra no se venderá para siempre, porque mía es la tierra; vosotros sois extranjeros y residentes conmigo». **(אחזה)**, _ajuzzah_, es una posesión o parcela heredada; en el capítulo puede rescatarse y retorna en el yovel. «Propiedad absoluta» no es una equivalencia exacta, precisamente porque la ley niega que el tenedor humano tenga dominio definitivo. **(גאלה)**, _ge'ullah_, significa rescate o derecho de recuperación; su fuerza contextual es proteger la heredad de una pérdida permanente. «Redención» es **aproximada**, pues puede cargar el término con sentidos teológicos que los procedimientos de tierra y parentesco aquí especifican de otro modo.
+
+La clase propone que la tierra prometida funciona didácticamente hacia una patria celestial y enlaza este descanso con Hebreos 4. La conexión canónica es posible: Hebreos relee el reposo tras la entrada de Yehoshua. Pero Vayikra 25 habla directamente de tierra, cultivo, posesiones y vida económica de Israel. Identificar sin resto la tierra con la Jerusalén celestial es una analogía **pedagógica**, no una equivalencia exacta; debe conservarse primero la exigencia social y territorial del capítulo.
+
+## El hermano empobrecido pertenece al libertador: vv. 35–55
+
+La propiedad no puede usarse contra quien cae: «lo sostendrás ... y vivirá contigo» (#vaikra_25_35). **(והחזקת בו)**, _vehejazta bo_, es una forma verbal de חזק, «fortalecer, sostener, asir»; aquí manda dar apoyo efectivo al hermano cuya mano flaquea. «Sostenerlo» es una traducción **aproximada** y contextual. Los versículos siguientes prohíben tomar **(נשך)**, _neshekh_, interés mordiente o usura, y **(תרבית)**, _tarbit_, aumento o ganancia, de él (#vaikra_25_36). La clase contrasta préstamos entre hermanos con otros casos legales; esta nota se limita a lo que Vayikra declara: el temor de Elohim debe permitir que el hermano viva contigo. Las distinciones posteriores sobre interés a extranjeros requieren cotejo separado con Devarim 23.
+
+Si el hermano se vende por pobreza, no se le hace trabajar como esclavo; sirve hasta el yovel y luego vuelve con sus hijos a su familia y posesión (#vaikra_25_39-41). El fundamento se repite: «mis siervos son, a quienes saqué de Egipto» (#vaikra_25_42, #vaikra_25_55). **(עבדי)**, _avaday_, «mis siervos», es constructo plural con sufijo de primera persona; su fuerza es pertenencia a יהוה como libertador. Decir «nadie puede servir jamás a otra persona» sería una extrapolación incorrecta: el capítulo regula servicio por pobreza, pero prohíbe dominar al hermano con dureza y niega que pueda tratarse como una mercancía esclava.
+
+## Hoja léxica
+
+| Forma            | Transliteración   | Sentido normal y forma                                      | Fuerza contextual                                      | Tipo de relación                             |
+| ---------------- | ----------------- | ----------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------- |
+| **(שבת שבתון)**  | _shabat shabaton_ | Sustantivos: cese, descanso; descanso solemne               | Marca el séptimo año reservado a יהוה                  | «Reposo total» es aproximada                 |
+| **(שופר תרועה)** | _shofar teru'ah_  | Cuerno; toque fuerte, aclamación o alarma                   | Señal pública que anuncia el yovel                     | «Toque de alarma» es aproximada y contextual |
+| **(דרור)**       | _deror_           | Sustantivo masculino: libertad, liberación                  | Libertad proclamada y retorno de personas y posesiones | «Reconciliación» es pedagógica               |
+| **(אחזה)**       | _ajuzzah_         | Sustantivo femenino: posesión, tenencia heredada            | Parcela que puede rescatarse y retorna                 | «Propiedad» es aproximada                    |
+| **(גאלה)**       | _ge'ullah_        | Sustantivo femenino: rescate, recuperación                  | Derecho de recuperar la tierra de la familia           | «Redención» es aproximada                    |
+| **(נשך)**        | _neshekh_         | Sustantivo masculino: interés/usura, literalmente mordedura | Ganancia prohibida sobre el hermano empobrecido        | «Usura» es aproximada y contextual           |
+| **(עבדי)**       | _avaday_          | Constructo plural de עבד con sufijo: mis siervos            | Israel pertenece al Dios que lo sacó de Egipto         | «Siervos» es aproximada                      |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual       | Observación concreta de la clase                                                                                                              | Tratamiento en esta nota                                                                                                                            |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #vaikra_25_2-7       | La shemitá entrena la confianza que Israel aprendió recibiendo provisión en el desierto; el producto alcanza a toda la casa y a los animales. | Apoyo textual cualificado: el capítulo anticipa la pregunta por el alimento y enumera destinatarios; la analogía con el maná queda como aplicación. |
+| #vaikra_25_8-17      | El toque de _teru'ah_ en el yovel inicia devolución, libertad y restauración.                                                                 | Apoyo textual y clarificación léxica: se mantienen libertad, retorno y precio según años; «reconciliación» se marca pedagógica.                     |
+| #vaikra_25_20-24     | La bendición del sexto año revela que el fruto depende de יהוה; la tierra pertenece a él.                                                     | Apoyo textual: la promesa de provisión y la negación de venta definitiva articulan dependencia y posesión limitada.                                 |
+| #vaikra_25_35-43, 55 | El israelita no puede convertirse en siervo absoluto de otro, porque pertenece al libertador de Egipto.                                       | Apoyo textual cualificado: se explica la prohibición de dominio duro dentro de la legislación sobre pobreza y servicio.                             |
+| #hebreos_4_1-11      | La tierra y el descanso se leen como figura de la patria celestial.                                                                           | Inferencia cualificada: se reconoce la relectura canónica sin borrar el sentido agrícola, social y territorial de Vayikra 25.                       |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
-- [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
+- [ ] Cotejar la afirmación de la clase sobre la práctica del yovel durante el Segundo Templo con fuentes rabínicas e históricas precisas.
+- [ ] Verificar el cálculo calendárico que propone un yovel en el año de la muerte de Yehoshua; la nota no lo usa como base doctrinal.
+- [ ] Examinar la relación entre el descanso de la tierra, el exilio y #yejezkel_36_16-21 sin reducir los profetas a una sola causa de juicio.
+- [ ] Distinguir con precisión las leyes sobre interés a israelitas y extranjeros al comparar #vaikra_25_35-38 con #devarim_23_20-21.
 
 ## Conclusión
 
-Vayikra 25 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
+Vayikra 25 no sacraliza la escasez ni el control económico. Ordena un descanso que hace depender el alimento de la bendición de יהוה, un yovel que impide convertir la pérdida en destino permanente, y una ayuda que permite al hermano vivir contigo. Tierra, posesión y servicio quedan limitados por el Dios que dice «mía es la tierra» y «mis siervos son». Esa pertenencia sostiene tanto la confianza ante la provisión como la responsabilidad concreta ante el vulnerable.
+
+## Ver también
+
+- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y Shavuot]]
+- [[devarim_12|Devarim 12: el lugar elegido, el descanso y la mesa delante de יהוה]]
+- [[devarim_16_parashot_2017|Devarim 16: justicia, fiestas y jueces para el pueblo]]
 
 ## Créditos
 
+- Nota de frontera: la clase Parashot 2016-2017 paralela queda bajo la lane colosenses; esta nota tanaj se ancla en la exposición asignada a tanaj.
+
+
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashát Behar + Bejuqotay (2017) Míos son los hijos de Yisra'el, son mis siervos](https://www.youtube.com/watch?v=sfA7OZ8LtFk) (source_id: `youtube:sfA7OZ8LtFk`).
-- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
+- Video: [Parashat Behar Lv 25-26 The Shmitah, the Yovel and the Mnujáh](https://www.youtube.com/watch?v=kNM4bV6k3Z8) (`source_id`: `youtube:kNM4bV6k3Z8`).
+- Esta nota organiza y contrasta las exposiciones; no presenta las transcripciones automáticas como citas literales.

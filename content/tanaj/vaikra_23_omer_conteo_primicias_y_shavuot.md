@@ -20,16 +20,6 @@ references:
   - "#korintim_alef_15_20-23"
   - "#romanos_11_35-36"
 sources:
-  - "https://www.youtube.com/watch?v=L7zgSLK3Ci4"
-  - "https://www.youtube.com/watch?v=a0lFoVqeXB4"
-  - "https://www.youtube.com/watch?v=6EMPCOINF4s"
-  - "https://www.youtube.com/watch?v=nUq66eB6Iz0"
-  - "https://www.youtube.com/watch?v=ILFHBTEagyc"
-  - "https://www.youtube.com/watch?v=s65OJxbjMDY"
-  - "https://www.youtube.com/watch?v=pupDxpHjY8g"
-  - "https://www.youtube.com/watch?v=GfuWwbZ34pM"
-  - "https://www.youtube.com/watch?v=ZXfMBc8_H54"
-  - "https://www.youtube.com/watch?v=sfGXMp9LYCc"
   - "https://www.youtube.com/watch?v=f0PQY7bXbJQ"
   - "https://www.youtube.com/watch?v=OG2PPYieRhk"
   - "https://www.youtube.com/watch?v=EHZDK_XPB1A"
@@ -39,16 +29,6 @@ sources:
   - "docs/scriptures/oe/json/deuteronomy/16.json"
   - "docs/scriptures/delitzsch/json/acts.json"
 source_ids:
-  - "youtube:L7zgSLK3Ci4"
-  - "youtube:a0lFoVqeXB4"
-  - "youtube:6EMPCOINF4s"
-  - "youtube:nUq66eB6Iz0"
-  - "youtube:ILFHBTEagyc"
-  - "youtube:s65OJxbjMDY"
-  - "youtube:pupDxpHjY8g"
-  - "youtube:GfuWwbZ34pM"
-  - "youtube:ZXfMBc8_H54"
-  - "youtube:sfGXMp9LYCc"
   - "youtube:f0PQY7bXbJQ"
   - "youtube:OG2PPYieRhk"
   - "youtube:EHZDK_XPB1A"
@@ -105,12 +85,13 @@ Es válido observar una correspondencia temática entre primicias, resurrección
 
 ## Hoja léxica
 
-| Forma          | Función en el pasaje                                               | Cautela                                                                                                 |
-| -------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **(עמר)**      | Porción presentada de la cosecha en #vaikra_23_10 y #vaikra_23_15. | La medida y sus equivalentes modernos requieren una fuente explícita.                                   |
-| **(בכורים)**   | Primicias en #vaikra_23_17 y #shemot_23_19.                        | No fundir todos los usos bíblicos de primicias en un único rito o símbolo.                              |
-| **(חמץ)**      | Describe los panes de #vaikra_23_17.                               | Su presencia aquí impide usar «levadura» como alegoría fija sin contexto.                               |
-| **(מקרא קדש)** | Convocación santa en #vaikra_23_21.                                | El texto define una asamblea apartada; los pormenores litúrgicos posteriores deben documentarse aparte. |
+| Forma          | Transliteración | Sentido normal y forma                                | Fuerza contextual                                                                                                          | Tipo de relación                                                                                                    |
+| -------------- | --------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **(עמר)**      | _omer_          | Sustantivo masculino: gavilla o porción de cereal.    | Lo que se lleva al sacerdote como comienzo de la cosecha en #vaikra_23_10 y marca el punto de partida del conteo en v. 15. | «Ómer» es una transliteración exacta; «porción» es aproximada. No se fija aquí una medida moderna.                  |
+| **(ספרתם)**    | _sefartem_      | Qal perfecto, segunda persona plural, de ספר: contar. | Israel debe contar para sí siete semanas desde la presentación señalada.                                                   | «Contaréis» es aproximada en español; conserva la acción, no la forma verbal hebrea.                                |
+| **(בכורים)**   | _bikurim_       | Sustantivo plural: primicias, primeros frutos.        | Los dos panes con levadura son designados primicias para יהוה en #vaikra_23_17.                                            | «Primicias» es aproximada y contextual; no convierte automáticamente cada uso bíblico en el mismo rito.             |
+| **(חמץ)**      | _jamets_        | Adjetivo o sustantivo: fermentado, con levadura.      | Describe los panes de #vaikra_23_17 dentro de esta ofrenda concreta.                                                       | «Con levadura» es aproximada; usarlo como símbolo fijo del mal es pedagógico y no está decidido por este versículo. |
+| **(מקרא קדש)** | _miqra qodesh_  | Constructo: convocatoria o llamamiento de santidad.   | La asamblea de #vaikra_23_21 queda apartada y se acompaña de la prohibición de labor servil.                               | «Convocación santa» es aproximada; los pormenores litúrgicos posteriores deben documentarse aparte.                 |
 
 ## Pendiente de verificar
 
@@ -118,6 +99,15 @@ Es válido observar una correspondencia temática entre primicias, resurrección
 - [ ] Verificar las afirmaciones de las clases sobre medidas, cosechas regionales, procedimientos del templo y el significado técnico de los panes.
 - [ ] Examinar la relación entre #vaikra_23_15-17, #korintim_alef_15_20-23 y #maasei_ha_shlichim_2_1-4 sin transformar una correspondencia temática en cronología obligatoria.
 - [ ] Distinguir las costumbres devocionales modernas de los actos sacerdotales prescritos para el santuario.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual            | Observación concreta de las sesiones Beha'alotcha–Shavu'ot                                                                                        | Tratamiento en esta nota                                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #bamidbar_8_1-18          | Las cuatro sesiones asignadas parten de la lámpara y del servicio levítico de Bamidbar 8 para enlazar luz, servicio y la celebración de Shavu'ot. | Inferencia cualificada: se conserva el enlace temático, pero se señala que Bamidbar 8 no expone por sí mismo la cronología de Shavu'ot.                                                    |
+| #vaikra_23_15-17          | Las sesiones insisten en la cuenta de siete semanas, los cincuenta días y los panes con levadura como rasgos que no deben borrarse de la fiesta.  | Apoyo textual y clarificación léxica: #vaikra_23 ordena el conteo y nombra los panes fermentados; una alegoría exhaustiva queda sin demostrar.                                             |
+| #maasei_ha_shlichim_2_1-4 | La enseñanza conecta el cumplimiento de las semanas con la reunión de los discípulos y el don del Ruaj.                                           | Apoyo textual cualificado: Hechos sitúa la reunión al cumplirse las semanas; no se hace de Vaikra una explicación explícita de cada detalle de Hechos.                                     |
+| #vaikra_23_21-22          | La clase de 2020 exhorta a que la práctica comunitaria no sustituya el texto y a que la celebración se exprese en responsabilidad compartida.     | Apoyo textual: convocación y descanso de labor están seguidos por el mandato de dejar cosecha para pobre y ger; la aplicación contemporánea no se usa para juzgar automáticamente a otros. |
 
 ## Conclusión
 
@@ -131,19 +121,10 @@ Vaikra 23 ordena una respuesta concreta a la provisión de יהוה: presentar p
 
 ## Créditos
 
+- Nota de frontera: clases de Fiestas/Shavuot de otras lanes no se reasignan aquí; la nota se limita a las fuentes exclusivas de la lane tanaj sobre Behaalotja/Shavuot.
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [About the Counting of the Omer 5781-2021](https://www.youtube.com/watch?v=L7zgSLK3Ci4) (source_id: `youtube:L7zgSLK3Ci4`).
-- [El 'Omer Re'shit](https://www.youtube.com/watch?v=a0lFoVqeXB4) (source_id: `youtube:a0lFoVqeXB4`).
-- [El 'Ómer Re'shit parte 2](https://www.youtube.com/watch?v=6EMPCOINF4s) (source_id: `youtube:6EMPCOINF4s`).
-- [Jag Hashavu'ot 2018 - La manera de contar, el sentido de la Fiesta](https://www.youtube.com/watch?v=nUq66eB6Iz0) (source_id: `youtube:nUq66eB6Iz0`).
-- [Jag Hashavu'ot (2017) Un descanso para el pueblo de YHWH](https://www.youtube.com/watch?v=ILFHBTEagyc) (source_id: `youtube:ILFHBTEagyc`).
-- [I Hashavu'ot - The Feast of Weeks / Bikurim / I Haqatzir / Zman Matan Toratenu](https://www.youtube.com/watch?v=s65OJxbjMDY) (source_id: `youtube:s65OJxbjMDY`).
-- [Shavu'ot en Mashíaj: La entrega de la promesa y el inicio de la era Mesiánica](https://www.youtube.com/watch?v=pupDxpHjY8g) (source_id: `youtube:pupDxpHjY8g`).
-- [About the resurrection of Yehoshua Hamashiach, the counting of the Omer and the holiday of Shavu'ot](https://www.youtube.com/watch?v=GfuWwbZ34pM) (source_id: `youtube:GfuWwbZ34pM`).
-- [SHabat Jol Hamo'ed lesukot (2017) Basta de profanar el cuerpo de Mashíaj!](https://www.youtube.com/watch?v=ZXfMBc8_H54) (source_id: `youtube:ZXfMBc8_H54`).
-- [Jag Hashavu'ot 2020](https://www.youtube.com/watch?v=sfGXMp9LYCc) (source_id: `youtube:sfGXMp9LYCc`).
-- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 1](https://www.youtube.com/watch?v=f0PQY7bXbJQ) (source_id: `youtube:f0PQY7bXbJQ`).
-- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 2](https://www.youtube.com/watch?v=OG2PPYieRhk) (source_id: `youtube:OG2PPYieRhk`).
-- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 3](https://www.youtube.com/watch?v=EHZDK_XPB1A) (source_id: `youtube:EHZDK_XPB1A`).
-- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 4](https://www.youtube.com/watch?v=eJlTuHME674) (source_id: `youtube:eJlTuHME674`).
-- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
+- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 1](https://www.youtube.com/watch?v=f0PQY7bXbJQ) (`source_id`: `youtube:f0PQY7bXbJQ`).
+- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 2](https://www.youtube.com/watch?v=OG2PPYieRhk) (`source_id`: `youtube:OG2PPYieRhk`).
+- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 3](https://www.youtube.com/watch?v=EHZDK_XPB1A) (`source_id`: `youtube:EHZDK_XPB1A`).
+- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 4](https://www.youtube.com/watch?v=eJlTuHME674) (`source_id`: `youtube:eJlTuHME674`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

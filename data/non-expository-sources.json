@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "purpose": "Local classifications for lane-owned media that must not become canonical transcript studies.",
+  "entries": [
+    {
+      "source_id": "youtube:6yvN36B5280",
+      "title": "Al zeh (En español) על זה כמו ששר מורדכי בן דויד בספרדית",
+      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
+      "classification": "musical-performance",
+      "reason": "Song performance with fragmentary lyric captions; no sustained biblical exposition to author as a canonical study.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:w8HoMQSjKyQ",
+      "title": "Ana & Eric Videoclip de nuestra boda (21 de Shvat 5779 - 27 de enero 2019)",
+      "url": "https://www.youtube.com/watch?v=w8HoMQSjKyQ",
+      "classification": "wedding-clip",
+      "reason": "Personal wedding video with music; no biblical exposition to author as a canonical study.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:_QlsdBq_GTc",
+      "title": "Emil Zrihan - God is alive, I praise Him",
+      "url": "https://www.youtube.com/watch?v=_QlsdBq_GTc",
+      "classification": "musical-performance",
+      "reason": "Music performance; the title and available inventory metadata do not identify a sustained biblical exposition suitable for a canonical study.",
+      "classified_at": "2026-07-27"
+    }
+  ]
+}

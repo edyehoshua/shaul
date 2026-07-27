@@ -2,7 +2,7 @@
   "inventory_videos": 958,
   "covered_videos": 716,
   "pending_videos": 242,
-  "transcript_notes": 321,
+  "transcript_notes": 328,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -38,12 +38,12 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 51,
+      "covered": 43,
       "lane": "efesios"
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 0,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Gálatas": {
@@ -78,7 +78,7 @@
     },
     "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
       "total": 35,
-      "covered": 0,
+      "covered": 2,
       "lane": "haftarot"
     },
     "Hebreas de antes": {
@@ -103,22 +103,22 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 93,
+      "covered": 92,
       "lane": "colosenses"
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 6,
+      "covered": 13,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 43,
+      "covered": 40,
       "lane": "colosenses"
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 6,
+      "covered": 8,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
@@ -131,9 +131,14 @@
       "covered": 31,
       "lane": "colosenses"
     },
+    "Shavuot independiente (balanceado desde Uncategorized)": {
+      "total": 1,
+      "covered": 0,
+      "lane": "haftarot"
+    },
     "Shavu’ot": {
       "total": 7,
-      "covered": 7,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Shir hashirim completo": {
@@ -150,11 +155,6 @@
       "total": 166,
       "covered": 102,
       "lane": "yojanan"
-    },
-    "Uncategorized": {
-      "total": 1,
-      "covered": 1,
-      "lane": null
     },
     "Yesha’yahu - Isaías": {
       "total": 3,

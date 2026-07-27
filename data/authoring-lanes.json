@@ -251,6 +251,13 @@
             "youtube:dsI1NFrPTZY"
           ],
           "reason": "Quinta lane exclusiva. Agrupa las 35 fuentes pendientes no asignadas tras el rebalanceo; prioriza Haftarot y estudios bíblicos. Las piezas musicales, bodas u otro material no expositivo se registran como no apto para nota canónica, sin inventar una enseñanza."
+        },
+        {
+          "title": "Shavuot independiente (balanceado desde Uncategorized)",
+          "source_ids": [
+            "youtube:sfGXMp9LYCc"
+          ],
+          "reason": "Rebalanceo supervisado: haftarot tenía 33 pendientes (<40) y solo restaba 1 fuente elegible no asignada tras cobertura. Se asigna de forma exclusiva; no se tomaron fuentes in-progress ni notas canónicas de otras lanes."
         }
       ],
       "priority": "Remediate existing canonical notes tied to owned sources first; otherwise process the first eligible biblical exposition in source order."
