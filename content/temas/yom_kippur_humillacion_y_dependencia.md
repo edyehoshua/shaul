@@ -66,7 +66,7 @@ Yom haKippurim es llamado un día de convocación santa en el que Israel debe hu
 
 ## Alcance de la nota
 
-Los diez videos reunidos incluyen introducciones, reflexiones contemporáneas, una haftará y preguntas sobre Yom haKippurim, la humillación, el ayuno y el sistema levítico. Las sesiones de 5780, 5781, 5785 y 5786 vuelven a #leviticus_23_26-32 y #leviticus_16; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. Las afirmaciones de las clases sobre terminología, prácticas o aplicación se mantienen distinguidas del texto bíblico. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
+Los diez videos reunidos incluyen reflexiones contemporáneas, una haftará, un encuentro de preguntas y mensajes de preparación para Yom haKippurim. Las sesiones de 5780, 5781, 5785 y 5786 vuelven al ayuno, la humillación, la conciencia y el sistema levítico; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. El encuentro de Zaragoza figura en la lista de reproducción y contiene preguntas misceláneas; no se le atribuye una exposición completa del día. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
 
 ## Hoja de comparación
 
