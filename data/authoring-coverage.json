@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 80,
-  "pending_videos": 813,
-  "transcript_notes": 36,
+  "covered_videos": 97,
+  "pending_videos": 796,
+  "transcript_notes": 44,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
     "content/besorah/colosenses_1_santos_fieles_sin_anadiduras.md",
@@ -39,7 +39,7 @@
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
-      "covered": 2,
+      "covered": 3,
       "lane": "efesios"
     },
     "2 Tesalonicenses completo": {
@@ -109,12 +109,12 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 90,
-      "covered": 5,
+      "covered": 7,
       "lane": "yojanan"
     },
     "Uncategorized": {
       "total": 573,
-      "covered": 4,
+      "covered": 18,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
