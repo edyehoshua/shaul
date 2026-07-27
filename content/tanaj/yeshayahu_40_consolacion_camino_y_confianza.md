@@ -3,7 +3,7 @@ title: "Preparar el camino y confiar"
 description: "Isaías 40 anuncia consuelo y prepara un camino para la revelación del kavod de יהוה."
 date: 2026-07-27
 tags: [tanaj, yeshayahu, haftarah, vaetjanan]
-references: ["#ieshaiahu_40_1", "#ieshaiahu_40_3", "#ieshaiahu_40_27", "#ieshaiahu_40_31"]
+references: ["#ieshaiahu_40_3"]
 sources:
   [
     "https://www.youtube.com/watch?v=5TGUU01teBU",
@@ -19,7 +19,7 @@ Isaías 40 comienza con consuelo y una voz que llama a preparar en el desierto u
 
 ## Hoja de comparación
 
-| Referencia       | Texto hebreo local                                                     | Observación                                                      |
+| Referencia       | Texto local                                                            | Observación                                                      |
 | ---------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | #ieshaiahu_40_1  | נחמו נחמו עמ/י יאמר אלהי/כם                                            | El consuelo abre el anuncio dirigido al pueblo.                  |
 | #ieshaiahu_40_3  | קול קורא ב/מדבר פנו דרך יהוה ישרו ב/ערבה מסלה ל/אלהי/נו                | El camino preparado pertenece a la llegada y revelación de יהוה. |
@@ -28,7 +28,7 @@ Isaías 40 comienza con consuelo y una voz que llama a preparar en el desierto u
 
 ## Lectura
 
-La clase de Va'etjanán conecta la calzada con la confianza en el Dios de Israel. La haftaráh de Lej Lejá recorre el capítulo y vuelve a la pregunta de Israel en `#ieshaiahu_40_27`; desde allí lee el consuelo, el camino y la fortaleza como respuesta de יהוה. La imagen profética debe conservar su marco de consuelo para Sion y revelación del _kavod_; la transcripción automática no permite tratar sus desarrollos interpretativos como cita verificable.
+La clase de Va'etjanán conecta la calzada con la confianza en el Dios de Israel. La haftaráh de Lej Lejá recorre el capítulo y vuelve a la pregunta de Israel en #ieshaiahu*40_27; desde allí lee el consuelo, el camino y la fortaleza como una respuesta de יהוה. La imagen profética debe conservar su marco de consuelo para Sion y revelación del \_kavod*; la transcripción automática no permite tratar sus desarrollos interpretativos como cita verificable.
 
 ## Conclusión
 
