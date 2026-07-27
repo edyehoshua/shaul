@@ -55,7 +55,7 @@ Yom Teruah abre el séptimo mes como reposo y convocación santa. La Torah lo ll
 
 ## Alcance de la nota
 
-Los ocho mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah; las sesiones de 5783 y 5786 retoman la conmemoración, el calendario y las referencias de Levítico y Números, mientras que las otras sesiones desarrollan las voces de shofar, el recuerdo de Sinaí y una discusión comunitaria sobre el calendario. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
+Los ocho mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah; las sesiones añadidas desarrollan las voces de shofar, el recuerdo de Sinaí y discusiones comunitarias sobre el calendario. Los mensajes de 5783 y 5786 subrayan la conmemoración, cuestionan una cronología escatológica rígida y vuelven a los pasajes de Levítico y Números. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
 
 ## Hoja de comparación
 
