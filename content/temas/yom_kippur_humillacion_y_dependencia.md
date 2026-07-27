@@ -27,8 +27,9 @@ sources:
   - "https://www.youtube.com/watch?v=i9dp89maw_k"
   - "https://www.youtube.com/watch?v=FPRxmoA5zbk"
   - "https://www.youtube.com/watch?v=SbhuHE8vdTw"
-  - "https://www.youtube.com/watch?v=tA0E-CpFm8M"
   - "https://www.youtube.com/watch?v=AkhCbOH1Uhg"
+  - "https://www.youtube.com/watch?v=tA0E-CpFm8M"
+
   - "private/transcripts/ericdejes/6voDFwXe9Dw.md"
   - "private/transcripts/ericdejes/fObsI0RvZSE.md"
   - "private/transcripts/ericdejes/GQQrB5MSS4o.md"
@@ -37,8 +38,10 @@ sources:
   - "private/transcripts/ericdejes/i9dp89maw_k.md"
   - "private/transcripts/ericdejes/FPRxmoA5zbk.md"
   - "private/transcripts/ericdejes/SbhuHE8vdTw.md"
-  - "private/transcripts/ericdejes/tA0E-CpFm8M.md"
   - "private/transcripts/ericdejes/AkhCbOH1Uhg.md"
+  - "private/transcripts/ericdejes/tA0E-CpFm8M.md"
+  - "docs/scriptures/oe/json/genesis/32.json"
+  - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
   - "docs/scriptures/oe/json/numbers/29.json"
@@ -52,8 +55,8 @@ source_ids:
   - "youtube:i9dp89maw_k"
   - "youtube:FPRxmoA5zbk"
   - "youtube:SbhuHE8vdTw"
-  - "youtube:tA0E-CpFm8M"
   - "youtube:AkhCbOH1Uhg"
+  - "youtube:tA0E-CpFm8M"
 translation: "[OE]"
 ---
 
@@ -63,7 +66,7 @@ Yom haKippurim es llamado un día de convocación santa en el que Israel debe hu
 
 ## Alcance de la nota
 
-Los diez videos reunidos incluyen introducciones, reflexiones contemporáneas y preguntas sobre Yom haKippurim, la humillación y el sistema levítico. Las sesiones de 5780 y 5781 vuelven a #leviticus_23_26-32 y proponen leerlo junto con Levítico 16; las tres añadidas abordan la haftaráh, el ayuno y la redención corporal. También vinculan el día con ayuno, sacerdocio, Israel y la obra del Mesías. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la escritura.
+Los diez videos reunidos incluyen introducciones, reflexiones contemporáneas, una haftará y preguntas sobre Yom haKippurim, la humillación, el ayuno y el sistema levítico. Las sesiones de 5780, 5781, 5785 y 5786 vuelven a #leviticus_23_26-32 y #leviticus_16; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. Las afirmaciones de las clases sobre terminología, prácticas o aplicación se mantienen distinguidas del texto bíblico. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
 
 ## Hoja de comparación
 
@@ -123,7 +126,7 @@ Yom haKippurim pone a la comunidad ante la santidad y la misericordia de יהו�
 - [Yoma' - yom hakipurim](https://www.youtube.com/watch?v=eS1sNu6UGgM) — transcripción de trabajo: `private/transcripts/ericdejes/eS1sNu6UGgM.md` (source_id: `youtube:eS1sNu6UGgM`).
 - [Yom hakipurim 5780](https://www.youtube.com/watch?v=i9dp89maw_k) — transcripción de trabajo: `private/transcripts/ericdejes/i9dp89maw_k.md` (source_id: `youtube:i9dp89maw_k`).
 - [Yom Hakipurim 5781-2020](https://www.youtube.com/watch?v=FPRxmoA5zbk) — transcripción de trabajo: `private/transcripts/ericdejes/FPRxmoA5zbk.md` (source_id: `youtube:FPRxmoA5zbk`).
-- [Haftaráh de Yom Hakipurim (2017) Hashem nuestro refugio](https://www.youtube.com/watch?v=SbhuHE8vdTw) — transcripción de trabajo: `private/transcripts/ericdejes/SbhuHE8vdTw.md` (source_id: `youtube:SbhuHE8vdTw`).
-- [Yoma' - El día: El paso a paso de Yom Hakipurim](https://www.youtube.com/watch?v=tA0E-CpFm8M) — transcripción de trabajo: `private/transcripts/ericdejes/tA0E-CpFm8M.md` (source_id: `youtube:tA0E-CpFm8M`).
+- [Haftarah of Yom HaKippurim (2017) Hashem our refuge](https://www.youtube.com/watch?v=SbhuHE8vdTw) — transcripción de trabajo: `private/transcripts/ericdejes/SbhuHE8vdTw.md` (source_id: `youtube:SbhuHE8vdTw`).
 - [Yom Hakipurim - La adopción, la redención de nuestro cuerpo](https://www.youtube.com/watch?v=AkhCbOH1Uhg) — transcripción de trabajo: `private/transcripts/ericdejes/AkhCbOH1Uhg.md` (source_id: `youtube:AkhCbOH1Uhg`).
+- [Yoma' - El día: El paso a paso de Yom Hakipurim](https://www.youtube.com/watch?v=tA0E-CpFm8M) — transcripción de trabajo: `private/transcripts/ericdejes/tA0E-CpFm8M.md` (source_id: `youtube:tA0E-CpFm8M`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
