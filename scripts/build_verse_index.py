@@ -59,8 +59,21 @@ def parse_frontmatter(path: Path) -> dict[str, str | list[str]]:
 
     result: dict[str, str | list[str]] = {}
     current_list: str | None = None
+    flow_list: str | None = None
     for line_number, raw_line in enumerate(lines[1:end], start=2):
         if not raw_line.strip() or raw_line.lstrip().startswith("#"):
+            continue
+        if flow_list is not None:
+            value = raw_line.strip()
+            is_last = value == "]" or value.endswith("]")
+            item = value.removesuffix("]").rstrip(",").strip()
+            if item:
+                flow_values = result[flow_list]
+                if not isinstance(flow_values, list):
+                    raise FrontmatterError(f"{path}:{line_number}: invalid flow-style list")
+                flow_values.append(scalar(item))
+            if is_last:
+                flow_list = None
             continue
         if raw_line.startswith("  - "):
             if current_list is None:
@@ -75,6 +88,10 @@ def parse_frontmatter(path: Path) -> dict[str, str | list[str]]:
             value.append(scalar(raw_line[4:]))
             continue
         if raw_line.startswith((" ", "\t")):
+            if current_list is not None and raw_line.strip() == "[":
+                result[current_list] = []
+                flow_list = current_list
+                continue
             raise FrontmatterError(
                 f"{path}:{line_number}: unsupported frontmatter indentation"
             )
@@ -84,8 +101,14 @@ def parse_frontmatter(path: Path) -> dict[str, str | list[str]]:
         key = key.strip()
         value = raw_value.strip()
         current_list = key if not value else None
+        if value == "[":
+            result[key] = []
+            flow_list = key
+            continue
         parsed_list = inline_list(value) if value else []
         result[key] = parsed_list if parsed_list is not None else scalar(value)
+    if flow_list is not None:
+        raise FrontmatterError(f"{path}: unterminated flow-style list for {flow_list}")
     return result
 
 
