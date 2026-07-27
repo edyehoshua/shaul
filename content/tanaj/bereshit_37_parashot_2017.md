@@ -48,5 +48,5 @@ Bereshit 37 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayéshev (2016) YHWH has spoken, who will not prophesy?](https://www.youtube.com/watch?v=Zwe5V_-F5_w) — transcripción de trabajo: `private/transcripts/ericdejes/Zwe5V_-F5_w.md` (source_id: `youtube:Zwe5V_-F5_w`).
+- [Parashat Vayéshev (2016) YHWH has spoken, who will not prophesy?](https://www.youtube.com/watch?v=Zwe5V_-F5_w) — transcripción de trabajo: `private/transcripts/ericdejes/Zwe5V_-F5_w.md` (source*id: `youtube:Zwe5V*-F5_w`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
