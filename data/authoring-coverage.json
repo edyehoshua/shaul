@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 317,
-  "pending_videos": 641,
+  "covered_videos": 330,
+  "pending_videos": 628,
   "transcript_notes": 119,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -18,7 +18,7 @@
     },
     "613 Mitzvot": {
       "total": 63,
-      "covered": 0,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Apocalipsis": {
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 38,
+      "covered": 51,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -93,12 +93,12 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 0,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 1,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
@@ -113,7 +113,7 @@
     },
     "Shavu’ot": {
       "total": 7,
-      "covered": 2,
+      "covered": 7,
       "lane": "colosenses"
     },
     "Shir hashirim completo": {
@@ -143,12 +143,12 @@
     },
     "Yom hakipurim": {
       "total": 5,
-      "covered": 2,
+      "covered": 5,
       "lane": "colosenses"
     },
     "Yom tru’áh": {
       "total": 4,
-      "covered": 1,
+      "covered": 4,
       "lane": "colosenses"
     }
   },

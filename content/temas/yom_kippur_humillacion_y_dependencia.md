@@ -12,6 +12,12 @@ references:
   - "#leviticus_23_32"
   - "#numbers_29_7"
 sources:
+  - "https://www.youtube.com/watch?v=SbhuHE8vdTw"
+  - "https://www.youtube.com/watch?v=tA0E-CpFm8M"
+  - "https://www.youtube.com/watch?v=AkhCbOH1Uhg"
+  - "private/transcripts/ericdejes/SbhuHE8vdTw.md"
+  - "private/transcripts/ericdejes/tA0E-CpFm8M.md"
+  - "private/transcripts/ericdejes/AkhCbOH1Uhg.md"
   - "https://www.youtube.com/watch?v=i9dp89maw_k"
   - "https://www.youtube.com/watch?v=FPRxmoA5zbk"
   - "private/transcripts/ericdejes/i9dp89maw_k.md"
@@ -19,6 +25,9 @@ sources:
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/numbers/29.json"
 source_ids:
+  - "youtube:SbhuHE8vdTw"
+  - "youtube:tA0E-CpFm8M"
+  - "youtube:AkhCbOH1Uhg"
   - "youtube:i9dp89maw_k"
   - "youtube:FPRxmoA5zbk"
 translation: "[OE]"
@@ -70,4 +79,7 @@ Yom haKippurim pone a la comunidad ante la santidad y la misericordia de יהו�
 - [Yoma' - yom hakipurim](https://www.youtube.com/watch?v=eS1sNu6UGgM) — transcripción de trabajo: `private/transcripts/ericdejes/eS1sNu6UGgM.md` (source_id: `youtube:eS1sNu6UGgM`).
 - [Yom hakipurim 5780](https://www.youtube.com/watch?v=i9dp89maw_k) — transcripción de trabajo: `private/transcripts/ericdejes/i9dp89maw_k.md` (source_id: `youtube:i9dp89maw_k`).
 - [Yom Hakipurim 5781-2020](https://www.youtube.com/watch?v=FPRxmoA5zbk) — transcripción de trabajo: `private/transcripts/ericdejes/FPRxmoA5zbk.md` (source_id: `youtube:FPRxmoA5zbk`).
+- [Haftarah of Yom HaKippurim (2017) Hashem our refuge](https://www.youtube.com/watch?v=SbhuHE8vdTw) — `private/transcripts/ericdejes/SbhuHE8vdTw.md` (source_id: `youtube:SbhuHE8vdTw`).
+- [Yoma' - El día: El paso a paso de Yom Hakipurim](https://www.youtube.com/watch?v=tA0E-CpFm8M) — `private/transcripts/ericdejes/tA0E-CpFm8M.md` (source_id: `youtube:tA0E-CpFm8M`).
+- [Yom Hakipurim - La adopción, la redención de nuestro cuerpo](https://www.youtube.com/watch?v=AkhCbOH1Uhg) — `private/transcripts/ericdejes/AkhCbOH1Uhg.md` (source_id: `youtube:AkhCbOH1Uhg`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

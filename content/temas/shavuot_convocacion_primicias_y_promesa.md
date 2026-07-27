@@ -30,14 +30,29 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=f3tHvC2IgWo"
   - "https://www.youtube.com/watch?v=h3UIeUJpRTc"
+  - "https://www.youtube.com/watch?v=pupDxpHjY8g"
+  - "https://www.youtube.com/watch?v=ILFHBTEagyc"
+  - "https://www.youtube.com/watch?v=nUq66eB6Iz0"
+  - "https://www.youtube.com/watch?v=s65OJxbjMDY"
+  - "https://www.youtube.com/watch?v=GfuWwbZ34pM"
   - "private/transcripts/ericdejes/f3tHvC2IgWo.md"
   - "private/transcripts/ericdejes/h3UIeUJpRTc.md"
+  - "private/transcripts/ericdejes/pupDxpHjY8g.md"
+  - "private/transcripts/ericdejes/ILFHBTEagyc.md"
+  - "private/transcripts/ericdejes/nUq66eB6Iz0.md"
+  - "private/transcripts/ericdejes/s65OJxbjMDY.md"
+  - "private/transcripts/ericdejes/GfuWwbZ34pM.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
   - "docs/scriptures/delitzsch/json/acts.json"
 source_ids:
   - "youtube:f3tHvC2IgWo"
   - "youtube:h3UIeUJpRTc"
+  - "youtube:pupDxpHjY8g"
+  - "youtube:ILFHBTEagyc"
+  - "youtube:nUq66eB6Iz0"
+  - "youtube:s65OJxbjMDY"
+  - "youtube:GfuWwbZ34pM"
 translation: "[OE, Delitzsch]"
 ---
 
@@ -103,4 +118,9 @@ Shavu’ot convoca a contar, agradecer y alegrarse ante יהוה por la provisi�
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [Jag Hashavu'ot 5781-2021](https://www.youtube.com/watch?v=f3tHvC2IgWo) — transcripción de trabajo: `private/transcripts/ericdejes/f3tHvC2IgWo.md` (source_id: `youtube:f3tHvC2IgWo`).
 - [Shavu’ot 5782](https://www.youtube.com/watch?v=h3UIeUJpRTc) — transcripción de trabajo: `private/transcripts/ericdejes/h3UIeUJpRTc.md` (source_id: `youtube:h3UIeUJpRTc`).
+- [Shavu'ot en Mashíaj: La entrega de la promesa y el inicio de la era Mesiánica](https://www.youtube.com/watch?v=pupDxpHjY8g) — `private/transcripts/ericdejes/pupDxpHjY8g.md` (source_id: `youtube:pupDxpHjY8g`).
+- [Jag Hashavu'ot (2017) Un descanso para el pueblo de YHWH](https://www.youtube.com/watch?v=ILFHBTEagyc) — `private/transcripts/ericdejes/ILFHBTEagyc.md` (source_id: `youtube:ILFHBTEagyc`).
+- [Jag Hashavu'ot 2018 - La manera de contar, el sentido de la Fiesta](https://www.youtube.com/watch?v=nUq66eB6Iz0) — `private/transcripts/ericdejes/nUq66eB6Iz0.md` (source_id: `youtube:nUq66eB6Iz0`).
+- [I Hashavu'ot - The Feast of Weeks / Bikurim / I Haqatzir / Zman Matan Toratenu](https://www.youtube.com/watch?v=s65OJxbjMDY) — `private/transcripts/ericdejes/s65OJxbjMDY.md` (source_id: `youtube:s65OJxbjMDY`).
+- [About the resurrection of Yehoshua Hamashiach, the counting of the Omer and the holiday of Shavu'ot](https://www.youtube.com/watch?v=GfuWwbZ34pM) — `private/transcripts/ericdejes/GfuWwbZ34pM.md` (source_id: `youtube:GfuWwbZ34pM`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -15,9 +15,15 @@ sources:
   - "https://www.youtube.com/watch?v=6uZpdCuu95M"
   - "https://www.youtube.com/watch?v=16p4v1cAewY"
   - "https://www.youtube.com/watch?v=SShsoobdC8c"
+  - "https://www.youtube.com/watch?v=yyvIYg6DmFw"
+  - "https://www.youtube.com/watch?v=VqPwZ_Gltn0"
+  - "https://www.youtube.com/watch?v=EgPkylO-TWY"
   - "private/transcripts/ericdejes/6uZpdCuu95M.md"
   - "private/transcripts/ericdejes/16p4v1cAewY.md"
   - "private/transcripts/ericdejes/SShsoobdC8c.md"
+  - "private/transcripts/ericdejes/yyvIYg6DmFw.md"
+  - "private/transcripts/ericdejes/VqPwZ_Gltn0.md"
+  - "private/transcripts/ericdejes/EgPkylO-TWY.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
   - "docs/scriptures/oe/json/numbers/29.json"
@@ -25,6 +31,9 @@ source_ids:
   - "youtube:6uZpdCuu95M"
   - "youtube:16p4v1cAewY"
   - "youtube:SShsoobdC8c"
+  - "youtube:yyvIYg6DmFw"
+  - "youtube:VqPwZ_Gltn0"
+  - "youtube:EgPkylO-TWY"
 translation: "[OE]"
 ---
 
@@ -71,4 +80,7 @@ Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede 
 - [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).
 - [Yom Tru'ah and Zichron Tru'ah](https://www.youtube.com/watch?v=16p4v1cAewY) — transcripción de trabajo: `private/transcripts/ericdejes/16p4v1cAewY.md` (source_id: `youtube:16p4v1cAewY`).
 - [Yom tru'ah neighbor tru'ah saméaj](https://www.youtube.com/watch?v=SShsoobdC8c) — transcripción de trabajo: `private/transcripts/ericdejes/SShsoobdC8c.md` (source_id: `youtube:SShsoobdC8c`).
+- [Yom/Zijrón tru'áh 2017 - Calendario hebreo y el séder](https://www.youtube.com/watch?v=yyvIYg6DmFw) — `private/transcripts/ericdejes/yyvIYg6DmFw.md` (source_id: `youtube:yyvIYg6DmFw`).
+- [Yom tru'áh - the day of Tru'áh](https://www.youtube.com/watch?v=VqPwZ_Gltn0) — `private/transcripts/ericdejes/VqPwZ_Gltn0.md` (source_id: `youtube:VqPwZ_Gltn0`).
+- [yom tru'ah 5779 - 2018 El día de la visitación](https://www.youtube.com/watch?v=EgPkylO-TWY) — `private/transcripts/ericdejes/EgPkylO-TWY.md` (source_id: `youtube:EgPkylO-TWY`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
