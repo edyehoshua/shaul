@@ -19,11 +19,14 @@ references:
   - "#qohelet_8_13"
   - "#mishlei_30_4"
 sources:
+  - "https://www.youtube.com/watch?v=5SOPl13Llrw"
+  - "private/transcripts/ericdejes/5SOPl13Llrw.md"
   - "https://www.youtube.com/watch?v=f0O9z9wXN3k"
   - "private/transcripts/ericdejes/f0O9z9wXN3k.md"
   - "docs/scriptures/oe/json/ecclesiastes/8.json"
   - "docs/scriptures/oe/json/proverbs/30.json"
 source_ids:
+  - "youtube:5SOPl13Llrw"
   - "youtube:f0O9z9wXN3k"
 translation: "[OE]"
 ---
@@ -103,6 +106,8 @@ Qohélet 8:7-13 enseña límites: no conocemos el futuro, no controlamos la muer
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
+- «Qohélet -Eclesiastés (parte 18) Cap 8» — https://www.youtube.com/watch?v=5SOPl13Llrw
+  - Transcripción: `private/transcripts/ericdejes/5SOPl13Llrw.md` (`source_id: youtube:5SOPl13Llrw`).
 - «Qohélet - Eclesiastés (parte 19) Cap 8» — https://www.youtube.com/watch?v=f0O9z9wXN3k
   - Transcripción: `private/transcripts/ericdejes/f0O9z9wXN3k.md` (`source_id: youtube:f0O9z9wXN3k`).
 

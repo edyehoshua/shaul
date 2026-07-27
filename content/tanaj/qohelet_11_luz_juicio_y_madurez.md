@@ -22,6 +22,8 @@ references:
   - "#timothy2_3_14"
   - "#timothy2_3_15"
 sources:
+  - "https://www.youtube.com/watch?v=tFXpEE15FBk"
+  - "private/transcripts/ericdejes/tFXpEE15FBk.md"
   - "https://www.youtube.com/watch?v=_9DYcs67bd4"
   - "private/transcripts/ericdejes/_9DYcs67bd4.md"
   - "docs/scriptures/oe/json/ecclesiastes/11.json"
@@ -30,6 +32,7 @@ sources:
   - "docs/scriptures/oe/json/proverbs/24.json"
   - "docs/scriptures/oe/json/psalms/119.json"
 source_ids:
+  - "youtube:tFXpEE15FBk"
   - "youtube:_9DYcs67bd4"
 translation: "[OE]"
 ---
@@ -108,6 +111,8 @@ Qohélet 11:7-10 reconoce la bondad de la luz y del gozo, pero no permite separa
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
+- «Qohélet-Eclesiastés (parte 28) Cap 11» — https://www.youtube.com/watch?v=tFXpEE15FBk
+  - Transcripción: `private/transcripts/ericdejes/tFXpEE15FBk.md` (`source_id: youtube:tFXpEE15FBk`).
 - «Qoheleth-Ecclesiastes (Part 29) Ch. 11» — https://www.youtube.com/watch?v=_9DYcs67bd4
   - Transcripción: `private/transcripts/ericdejes/_9DYcs67bd4.md` (`source_id: youtube:_9DYcs67bd4`).
 
