@@ -162,6 +162,8 @@
 
 - 2026-07-27 — Remediated the canonical Vaikra 23 study for the four exclusively assigned Beha'alotcha/Shavu'ot sources (`youtube:f0PQY7bXbJQ`, `youtube:OG2PPYieRhk`, `youtube:EHZDK_XPB1A`, and `youtube:eJlTuHME674`). Added a traceable teaching map and completed the lexical sheet with form, transliteration, normal sense, contextual force, and qualified equivalences; the existing local OE and Delitzsch comparison remains the textual basis.
 
+- 2026-07-27 — Remediated the weak canonical Vayikra 25 note with the exclusively assigned Behar source (`youtube:kNM4bV6k3Z8`). The study now proceeds through shemitá, yovel, provision, land recovery, support for the impoverished and Israel’s belonging to יהוה; it quotes normalized local OE, preserves Eric’s specific observations in a five-entry teaching map, qualifies its calendrical and heavenly-city connections, and passes the transcript-note quality gate.
+
 ## 2026-07-27 — Integrator cron (feat/eric_youtube)
 
 - Fetch/rebase: `origin/main` already ancestor of `feat/eric_youtube`; aborted stale mid-rebase leftover; stayed on `c3a21b91` tip then integrated workers.
