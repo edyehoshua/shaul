@@ -6,6 +6,7 @@ tags: [tanaj, zejaryah, haftarah, janukah]
 references: ["Zacarías 3:1-10"]
 sources:
   - "https://www.youtube.com/watch?v=_E9RcYtZifA"
+  - "private/transcripts/ericdejes/_E9RcYtZifA.md"
   - "docs/scriptures/oe/json/zechariah/3.json"
 source_ids: ["youtube:_E9RcYtZifA"]
 ---
@@ -35,4 +36,4 @@ La visión mantiene juntas santidad, servicio y esperanza: יהוה limpia a sus
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Miqetz en Shabat Janukáh (2017) El sumo sacerdote Yehoshúa', el Tzémaj](https://www.youtube.com/watch?v=_E9RcYtZifA) — (source_id: `youtube:_E9RcYtZifA`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Miqetz en Shabat Janukáh (2017) El sumo sacerdote Yehoshúa', el Tzémaj](https://www.youtube.com/watch?v=_E9RcYtZifA) — `private/transcripts/ericdejes/_E9RcYtZifA.md` (source_id: `youtube:_E9RcYtZifA`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

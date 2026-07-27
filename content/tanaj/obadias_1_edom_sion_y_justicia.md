@@ -6,6 +6,7 @@ tags: [tanaj, obadias, haftarah]
 references: ["Abdías 1:1-21"]
 sources:
   - "https://www.youtube.com/watch?v=mYxHiWxlrjo"
+  - "private/transcripts/ericdejes/mYxHiWxlrjo.md"
   - "docs/scriptures/oe/json/obadiah/1.json"
 source_ids: ["youtube:mYxHiWxlrjo"]
 ---
@@ -35,4 +36,4 @@ Abdías llama a abandonar la soberbia que se alegra del desastre ajeno y a esper
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayishláj (2017) En el monte de Tziyón habrá escapatoria](https://www.youtube.com/watch?v=mYxHiWxlrjo) — (source_id: `youtube:mYxHiWxlrjo`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayishláj (2017) En el monte de Tziyón habrá escapatoria](https://www.youtube.com/watch?v=mYxHiWxlrjo) — `private/transcripts/ericdejes/mYxHiWxlrjo.md` (source_id: `youtube:mYxHiWxlrjo`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

@@ -6,6 +6,7 @@ tags: [tanaj, oseas, haftarah]
 references: ["Oseas 12:1-15"]
 sources:
   - "https://www.youtube.com/watch?v=Bd7DFDMxVYo"
+  - "private/transcripts/ericdejes/Bd7DFDMxVYo.md"
   - "docs/scriptures/oe/json/hosea/12.json"
 source_ids: ["youtube:Bd7DFDMxVYo"]
 ---
@@ -35,4 +36,4 @@ Oseas entrelaza memoria ancestral y responsabilidad presente: el pueblo no debe 
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftarah de Vayétze' (2017) El amor no es fingido](https://www.youtube.com/watch?v=Bd7DFDMxVYo) — (source_id: `youtube:Bd7DFDMxVYo`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftarah de Vayétze' (2017) El amor no es fingido](https://www.youtube.com/watch?v=Bd7DFDMxVYo) — `private/transcripts/ericdejes/Bd7DFDMxVYo.md` (source_id: `youtube:Bd7DFDMxVYo`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

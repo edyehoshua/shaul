@@ -6,6 +6,7 @@ tags: [tanaj, melajim_alef, haftarah]
 references: ["1 Reyes 1:1-31"]
 sources:
   - "https://www.youtube.com/watch?v=YoauCD9H3E8"
+  - "private/transcripts/ericdejes/YoauCD9H3E8.md"
   - "docs/scriptures/oe/json/raw/ikings.json"
 source_ids: ["youtube:YoauCD9H3E8"]
 ---
@@ -35,4 +36,4 @@ El capítulo hace visible que la continuidad de una casa exige verdad y responsa
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Jayey Saráh (2017) Dentro de los límites de Yisra'el](https://www.youtube.com/watch?v=YoauCD9H3E8) — (source_id: `youtube:YoauCD9H3E8`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Jayey Saráh (2017) Dentro de los límites de Yisra'el](https://www.youtube.com/watch?v=YoauCD9H3E8) — `private/transcripts/ericdejes/YoauCD9H3E8.md` (source_id: `youtube:YoauCD9H3E8`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
