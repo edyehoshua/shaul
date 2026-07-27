@@ -152,7 +152,17 @@ def inventory(channel_url: str, archive_root: Path) -> Path:
         for item in videos:
             item["playlist_id"] = playlist["id"]
             item["playlist_title"] = playlist.get("title") or ""
-            videos_by_id.setdefault(item["id"], item)
+            # A video already discovered on /videos lacks its playlist ownership.
+            # Keep that canonical entry but enrich it with the playlist metadata;
+            # otherwise whole playlists are falsely counted as one video.
+            existing = videos_by_id.get(item["id"])
+            if existing is None:
+                videos_by_id[item["id"]] = item
+            elif not existing.get("playlist_id"):
+                existing.update({
+                    "playlist_id": item["playlist_id"],
+                    "playlist_title": item["playlist_title"],
+                })
         for item in nested_playlists:
             playlists_by_id.setdefault(item["id"], item)
 
