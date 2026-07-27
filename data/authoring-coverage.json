@@ -1,7 +1,7 @@
 {
-  "inventory_videos": 893,
+  "inventory_videos": 958,
   "covered_videos": 147,
-  "pending_videos": 746,
+  "pending_videos": 811,
   "transcript_notes": 53,
   "notes_missing_visible_credits": [
     "content/besorah/colosenses_1_emunah_amor_esperanza_fruto.md",
@@ -36,8 +36,13 @@
       "covered": 7,
       "lane": "colosenses"
     },
+    "613 Mitzvot": {
+      "total": 61,
+      "covered": 0,
+      "lane": "colosenses"
+    },
     "Apocalipsis": {
-      "total": 1,
+      "total": 30,
       "covered": 1,
       "lane": "efesios"
     },
@@ -52,17 +57,37 @@
       "lane": "efesios"
     },
     "Fiestas": {
-      "total": 19,
+      "total": 35,
       "covered": 0,
       "lane": "efesios"
     },
+    "Gálatas": {
+      "total": 13,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Haftarot de Bre’shit/Génesis": {
+      "total": 12,
+      "covered": 0,
+      "lane": "yojanan"
+    },
+    "Haftarot de Dvarim/Deuteronomio": {
+      "total": 9,
+      "covered": 0,
+      "lane": "yojanan"
+    },
     "Haftarot de Shmot/Éxodo": {
-      "total": 1,
+      "total": 9,
       "covered": 0,
       "lane": "yojanan"
     },
     "Haftarot de Vayiqra’/Levítico": {
-      "total": 6,
+      "total": 11,
+      "covered": 0,
+      "lane": "yojanan"
+    },
+    "Haftarot de bemidbar/Números": {
+      "total": 9,
       "covered": 0,
       "lane": "yojanan"
     },
@@ -71,10 +96,30 @@
       "covered": 0,
       "lane": "colosenses"
     },
+    "Hebreos": {
+      "total": 17,
+      "covered": 0,
+      "lane": "colosenses"
+    },
     "Juan": {
-      "total": 51,
-      "covered": 29,
+      "total": 71,
+      "covered": 32,
       "lane": "yojanan"
+    },
+    "La deidad de Mashiaj": {
+      "total": 4,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Las 613 mitzvot 2a parte": {
+      "total": 96,
+      "covered": 0,
+      "lane": "colosenses"
+    },
+    "Parashot 2016-2017": {
+      "total": 47,
+      "covered": 0,
+      "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
       "total": 30,
@@ -82,12 +127,12 @@
       "lane": "efesios"
     },
     "Romanos": {
-      "total": 1,
+      "total": 35,
       "covered": 0,
       "lane": "colosenses"
     },
     "Shavu’ot": {
-      "total": 2,
+      "total": 7,
       "covered": 0,
       "lane": "colosenses"
     },
@@ -96,14 +141,19 @@
       "covered": 25,
       "lane": "efesios"
     },
+    "Sobre el Shabat": {
+      "total": 4,
+      "covered": 0,
+      "lane": "colosenses"
+    },
     "Tehilim/Himnos/Salmos": {
-      "total": 90,
+      "total": 165,
       "covered": 2,
       "lane": "yojanan"
     },
     "Uncategorized": {
-      "total": 573,
-      "covered": 3,
+      "total": 168,
+      "covered": 0,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
@@ -112,12 +162,12 @@
       "lane": "yojanan"
     },
     "Yom hakipurim": {
-      "total": 2,
+      "total": 5,
       "covered": 0,
       "lane": "colosenses"
     },
     "Yom tru’áh": {
-      "total": 1,
+      "total": 4,
       "covered": 0,
       "lane": "colosenses"
     }
