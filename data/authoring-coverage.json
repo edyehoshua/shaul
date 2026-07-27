@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 259,
-  "pending_videos": 699,
-  "transcript_notes": 96,
+  "covered_videos": 288,
+  "pending_videos": 670,
+  "transcript_notes": 112,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -23,7 +23,7 @@
     },
     "Apocalipsis": {
       "total": 30,
-      "covered": 1,
+      "covered": 30,
       "lane": "efesios"
     },
     "Colosenses": {
