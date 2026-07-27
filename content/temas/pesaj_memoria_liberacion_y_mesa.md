@@ -20,6 +20,8 @@ sources:
   - "https://www.youtube.com/watch?v=kuc2zI9DMZ8"
   - "https://www.youtube.com/watch?v=JfdMv1nlG2Q"
   - "https://www.youtube.com/watch?v=Ds5Mju41YzE"
+  - "https://www.youtube.com/watch?v=3X9vlwqU5Hg"
+  - "https://www.youtube.com/watch?v=LcEX_H-pdAs"
 
   - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
   - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
@@ -30,6 +32,8 @@ sources:
   - "private/transcripts/ericdejes/kuc2zI9DMZ8.md"
   - "private/transcripts/ericdejes/JfdMv1nlG2Q.md"
   - "private/transcripts/ericdejes/Ds5Mju41YzE.md"
+  - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
+  - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
 
   - "docs/scriptures/oe/json/exodus/12.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
@@ -43,6 +47,8 @@ source_ids:
   - "youtube:kuc2zI9DMZ8"
   - "youtube:JfdMv1nlG2Q"
   - "youtube:Ds5Mju41YzE"
+  - "youtube:3X9vlwqU5Hg"
+  - "youtube:LcEX_H-pdAs"
 
 translation: "[OE]"
 ---
@@ -118,5 +124,7 @@ La lectura mesiánica propuesta por las clases relaciona la liberación, el cord
 - [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — `private/transcripts/ericdejes/kuc2zI9DMZ8.md` (source_id: `youtube:kuc2zI9DMZ8`).
 - [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — `private/transcripts/ericdejes/JfdMv1nlG2Q.md` (source_id: `youtube:JfdMv1nlG2Q`).
 - [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — `private/transcripts/ericdejes/Ds5Mju41YzE.md` (source_id: `youtube:Ds5Mju41YzE`).
+- [The "613" Mitzvot #118-120 Do not leave Pesach for "tomorrow"](https://www.youtube.com/watch?v=3X9vlwqU5Hg) — `private/transcripts/ericdejes/3X9vlwqU5Hg.md` (source_id: `youtube:3X9vlwqU5Hg`).
+- [Las 613 Mitzvot 126 - Mas acerca de Pésaj y el Séder](https://www.youtube.com/watch?v=LcEX_H-pdAs) — `private/transcripts/ericdejes/LcEX_H-pdAs.md` (source_id: `youtube:LcEX_H-pdAs`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
