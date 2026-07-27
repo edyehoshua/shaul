@@ -82,7 +82,7 @@ La clase también propone que una variante manuscrita complete el versículo 1 c
 
 ## La administración de la gracia
 
-`#ephesians_3_2` llama al encargo de Pablo **הנהגת חסד האלהים**, «administración de la gracia de Elohim». La clase relaciona la palabra griega _oikonomía_ con la casa y la propone como «sustentabilidad» de la vida (00:36:36–00:46:36). La observación de que el término se vincula con administración puede servir para estudiar el pasaje y continúa el vocabulario de #ephesians_1_10; pero «sustentabilidad» es una aplicación contemporánea, no una traducción que deba sustituir sin más el alcance del término paulino.
+#ephesians_3_2 llama al encargo de Pablo **הנהגת חסד האלהים**, «administración de la gracia de Elohim». La clase relaciona la palabra griega oikonomía con la casa y la propone como «sustentabilidad» de la vida (00:36:36–00:46:36). La observación de que el término se vincula con administración puede servir para estudiar el pasaje y continúa el vocabulario de #ephesians_1_10; pero «sustentabilidad» es una aplicación contemporánea, no una traducción que deba sustituir sin más el alcance del término paulino.
 
 Para desarrollar esa aplicación, la enseñanza conecta el sostén de Elohim con José y su provisión para la familia durante la hambruna (00:43:30–00:45:13). Esa conexión presenta una imagen pastoral de cuidado y provisión. Efesios 3:2 afirma que la gracia fue dada a Pablo para los gentiles; no define directamente un modelo económico, ecológico o social completo. La gracia y la responsabilidad del apóstol deben leerse dentro de todo el argumento de Efesios 3.
 
@@ -104,7 +104,7 @@ En #ephesians_3_7 Pablo vuelve a su propio encargo: llegó a ser servidor de la 
 
 La sesión propone comprender «en Rúaj» de #ephesians_3_5 como una revelación que viene de Elohim y transforma el entendimiento, y lo relaciona con #corinthians1_2_10-16, donde Pablo habla de conocer lo dado por Elohim y de «Rúaj del Mesías» (00:15:27–00:44:45). También exhorta a que las pretensiones de revelación se sometan a la lectura y al estudio de las Escrituras (00:07:47–00:11:54). La advertencia pastoral de no contradecir lo escrito puede favorecer un estudio responsable; debe, no obstante, distinguirse de una regla exegética exhaustiva derivada de estos versículos aislados.
 
-El expositor propone sustituir sistemáticamente «espíritu» por «mente», «incorruptiblemente» u otras formulaciones, y presenta una explicación particular de Rúaj y de la mente del Mesías. `#corinthians1_2_10-16` conserva el vocabulario de **רוח** en su texto hebreo Delitzsch, mientras que `#ephesians_3_5` dice que la revelación fue dada a conocer a apóstoles y profetas «en Rúaj». La relación entre _rúaj_, mente, acción, revelación y las construcciones griegas necesita examen filológico cuidadoso; esta nota registra la propuesta de la clase sin reemplazar los términos del pasaje ni fijar una equivalencia única.
+El expositor propone sustituir sistemáticamente «espíritu» por «mente», «incorruptiblemente» u otras formulaciones, y presenta una explicación particular de Rúaj y de la mente del Mesías. #corinthians1_2_10-16 conserva el vocabulario de **רוח** en su texto hebreo Delitzsch, mientras que #ephesians_3_5 dice que la revelación fue dada a conocer a apóstoles y profetas «en Rúaj». La relación entre rúaj, mente, acción, revelación y las construcciones griegas necesita examen filológico cuidadoso; esta nota registra la propuesta de la clase sin reemplazar los términos del pasaje ni fijar una equivalencia única.
 
 ## Hoja léxica
 
