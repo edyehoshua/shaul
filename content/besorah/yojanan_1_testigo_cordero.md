@@ -23,8 +23,12 @@ references:
   - "#devarim_18_15"
   - "#bereshit_28_12"
 sources:
+  - "https://www.youtube.com/watch?v=FrxD1V5awcM"
+  - "https://www.youtube.com/watch?v=1MoxwBR4bg4"
   - "https://www.youtube.com/watch?v=2C6YJnz5fKs"
   - "https://www.youtube.com/watch?v=ppIWbKD97T0"
+  - "private/transcripts/ericdejes/FrxD1V5awcM.md"
+  - "private/transcripts/ericdejes/1MoxwBR4bg4.md"
   - "private/transcripts/ericdejes/2C6YJnz5fKs.md"
   - "private/transcripts/ericdejes/ppIWbKD97T0.md"
   - "docs/scriptures/tth/json/iojanan.json"
@@ -33,6 +37,8 @@ sources:
   - "docs/scriptures/oe/json/deuteronomy/18.json"
   - "docs/scriptures/oe/json/genesis/28.json"
 source_ids:
+  - "youtube:FrxD1V5awcM"
+  - "youtube:1MoxwBR4bg4"
   - "youtube:2C6YJnz5fKs"
   - "youtube:ppIWbKD97T0"
 translation: "[TTH, Delitzsch, OE]"
@@ -44,7 +50,7 @@ Yojanán 1 presenta a Iojanán como **testigo**, no como quien confiere identida
 
 ## Alcance de la nota
 
-Esta es la nota canónica del capítulo y reúne dos clases consecutivas de Eric de Jesús. La parte 5 trabaja principalmente #iojanan_1_19-34; la parte 6 retoma el tramo final, en especial #iojanan_1_44-51. La sección narrativa #iojanan_1_35-43 enlaza ambos movimientos y se incluye para no romper el hilo del capítulo.
+Esta es la nota canónica del capítulo y reúne la introducción y las partes 2, 5 y 6 de Eric de Jesús. La introducción y la parte 2 ofrecen contexto y trabajan el prólogo; la parte 5 se concentra principalmente en #iojanan_1_19-34 y la parte 6 retoma el tramo final, en especial #iojanan_1_44-51. La sección narrativa #iojanan_1_35-43 enlaza ambos movimientos y se incluye para no romper el hilo del capítulo.
 
 La nota organiza y contrasta transcripciones automáticas; **no las trata como citas literales**. Las propuestas históricas, textuales o léxicas de las clases se distinguen de lo que el pasaje afirma explícitamente y se mantienen con sus cautelas.
 
@@ -132,7 +138,9 @@ El primer capítulo no deja a Iojanán en el centro: su voz prepara y su testimo
 
 ## Créditos
 
-Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
+Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio segun Yojanan / Juan (Parte 5) Yehoshúa' el Qorban» — <https://www.youtube.com/watch?v=2C6YJnz5fKs> — transcripción: `private/transcripts/ericdejes/2C6YJnz5fKs.md`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El evangelio según Yojanán/ Juan (Parte 6): El Sulam, el Ben Ha'adam» — <https://www.youtube.com/watch?v=ppIWbKD97T0> — transcripción: `private/transcripts/ericdejes/ppIWbKD97T0.md`.
+- «El Evangelio según Yojanan - Juan Parte 1 - Introducción» — https://www.youtube.com/watch?v=FrxD1V5awcM — `private/transcripts/ericdejes/FrxD1V5awcM.md` (`youtube:FrxD1V5awcM`).
+- «El Evangelio según Yojanán (parte2) Cap 1:1 Arjë, Logos y Meymra'» — https://www.youtube.com/watch?v=1MoxwBR4bg4 — `private/transcripts/ericdejes/1MoxwBR4bg4.md` (`youtube:1MoxwBR4bg4`).
+- «El Evangelio segun Yojanan / Juan (Parte 5) Yehoshúa' el Qorban» — https://www.youtube.com/watch?v=2C6YJnz5fKs — `private/transcripts/ericdejes/2C6YJnz5fKs.md` (`youtube:2C6YJnz5fKs`).
+- «El evangelio según Yojanán/ Juan (Parte 6): El Sulam, el Ben Ha'adam» — https://www.youtube.com/watch?v=ppIWbKD97T0 — `private/transcripts/ericdejes/ppIWbKD97T0.md` (`youtube:ppIWbKD97T0`).
