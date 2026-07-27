@@ -78,6 +78,16 @@ Sólo después de esa secuencia suena la séptima trompeta (#revelation_11_15). 
 | **(πτῶμα)** | ptoma | caída, cosa caída; por extensión, cuerpo caído o cadáver. El término griego de #revelation_11_8-9 nombra lo que queda expuesto en la plaza. | La clase lo aproxima pedagógicamente a ruinas y a un testimonio derribado. No es equivalencia exacta entre «cuerpo caído» y «templo destruido», y la lectura debe conservar el nivel narrativo de los dos testigos. |
 | **(ממלכת העולם)** | mamlékhet haolam | reino del mundo. En #revelation_11_15 es lo que llega a ser de nuestro Señor y de su Mesías. | Es una formulación del Delitzsch local para el anuncio griego; sostiene el tema del reinado, no una cronología detallada por sí sola. |
 
+## Mapa de la enseñanza de Eric
+
+| Punto concreto tomado de Eric | Versículos o perícopa | Evaluación en esta nota |
+| --- | --- | --- |
+| Los dos testigos pueden leerse como una personificación de la Torá y la profecía, no sólo como dos individuos aislados. | Apocalipsis 11:3-6 | **Inferencia calificada**: se conserva la propuesta de la clase y se la contrasta con los rasgos proféticos, pero el pasaje no da esa identificación de forma explícita. |
+| Los cuarenta y dos meses y los mil doscientos sesenta días expresan el mismo período de aflicción en dos cómputos relacionados. | Apocalipsis 11:2-3 | **Apoyo textual parcial**: las dos cifras aparecen en el capítulo y su correspondencia de treinta días por mes es plausible; la cronología histórica más amplia queda pendiente. |
+| Los olivos y las menorot remiten a la visión de Zacarías y permiten hablar de convergencia regia y sacerdotal en Yehoshua. | Apocalipsis 11:4; Zacarías 4 | **Aclaración intertextual**: se reconoce el eco de Zacarías, mientras que la identificación tipológica y su cumplimiento mesiánico se mantienen como interpretación, no como equivalencia léxica. |
+| La muerte aparente de los testigos representa el derribo del testimonio y no la desaparición de la Torá ni de la acción de יהוה. | Apocalipsis 11:7-12 | **Inferencia teológica calificada**: la nota preserva la observación de Eric y la relaciona con la secuencia narrativa de caída, vida y ascenso, pero no afirma que el texto equipare literalmente templo y testigos. |
+| La séptima trompeta anuncia el reinado de יהוה y de su Mesías como culminación de la fidelidad, el juicio y la recompensa. | Apocalipsis 11:15-19 | **Apoyo textual**: el anuncio del reino, el agradecimiento de los ancianos, el juicio y la apertura del santuario aparecen en el orden final del capítulo. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar Zacarías 4 en su contexto para distinguir su referente histórico de sus posibles ecos en #revelation_11_4.
