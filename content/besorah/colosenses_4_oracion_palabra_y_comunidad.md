@@ -61,7 +61,7 @@ Esta es la nota canónica del capítulo 4 e integra las sesiones 16–18. La ses
 
 #colossians_4_1 completa el mandato dirigido a los amos: deben dar lo justo y equitativo, sabiendo que también tienen un Señor en los cielos. El versículo no minimiza la realidad de la servidumbre antigua ni prescribe un modelo laboral moderno; sí niega que una persona con poder sea autónoma o pueda actuar con parcialidad. Junto con #colossians_3_22-25, obliga a leer la relación de poder bajo la justicia de Elohim, no como permiso para someter o explotar.
 
-La clase explora diferencias dentro de la esclavitud romana. Tal contexto puede ayudar a precisar la situación, pero requiere fuentes históricas trazables y no debe suavizar la violencia estructural de la esclavitud ni desplazar el mandato claro de justicia y equidad.
+La sesión 16 observa que algunas traducciones dicen «amos», mientras el expositor prefiere notar que Pablo se dirige a «señores», y llama la atención sobre lo «justo» y lo «proporcional» de su traducción. También explora diferencias dentro de la esclavitud romana y reconoce que el mandato no formula directamente una liberación. El texto local sí manda a quienes tienen poder dar lo justo y equitativo y les recuerda que tienen un Señor celestial; tal trasfondo puede ayudar a precisar la situación, pero requiere fuentes históricas trazables y no debe suavizar la violencia estructural de la esclavitud ni desplazar el mandato claro.
 
 ## Oración que se asocia a la misión
 
@@ -97,13 +97,23 @@ Ninfas y la comunidad que se reúne en su casa muestran una forma doméstica de 
 
 ## Hoja léxica
 
-| Forma                       | Función                                             | Cautela                                                                                          |
-| --------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **ἰσότης**                  | Equidad en #colossians_4_1.                         | Examinar cómo se coordina con «justo» y su uso paulino.                                          |
-| **προσκαρτερέω / γρηγορέω** | Perseverar y velar en #colossians_4_2.              | No convertirlos en una técnica devocional rígida.                                                |
-| **θύρα τοῦ λόγου**          | Puerta para la palabra en #colossians_4_3.          | Leer como metáfora en su contexto misionero.                                                     |
-| **ἅλατι ἠρτυμένος**         | Palabra sazonada con sal en #colossians_4_6.        | No imponer una única alegoría sin evidencia contextual.                                          |
-| **ἀγωνιζόμενος**            | Luchar o esforzarse en oración en #colossians_4_12. | No reducirlo automáticamente a sufrimiento físico ni equipararlo sin examen a un término hebreo. |
+| Forma fuente                        | Transliteración             | Sentido normal                  | Fuerza contextual y relación                                                                                                                                                                                                                             |
+| ----------------------------------- | --------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(ἰσότης)**                        | _isotēs_                    | igualdad, equidad               | En #colossians_4_1 va unido a lo justo que los amos han de dar; destaca un trato recto bajo el Señor celestial común. «Equidad» es una traducción aproximada y no permite proyectar sin más un modelo laboral contemporáneo.                             |
+| **(προσκαρτερέω)** / **(γρηγορέω)** | _proskartereō_ / _grēgoreō_ | persistir; mantenerse alerta    | #colossians_4_2 reúne constancia, vigilancia y gratitud en la oración. La clase lo explica como asociación a una causa; esa aplicación es pedagógica, no el significado léxico exacto de los verbos.                                                     |
+| **(θύρα τοῦ λόγου)**                | _thyra tou logou_           | puerta de la palabra            | La «puerta» de #colossians_4_3 es una imagen para una oportunidad de anunciar y aclarar el misterio del Mesías. La relación entre puerta material y oportunidad misionera es metafórica y contextual, no una equivalencia literal.                       |
+| **(ἅλατι ἠρτυμένος)**               | _halati ērtumenos_          | sazonado con sal                | Califica la palabra de #colossians_4_6 como amable y apta para responder a cada persona. «Hablar con sabiduría» es una paráfrasis pedagógica: preserva el efecto buscado, pero no sustituye la metáfora de sal.                                          |
+| **(ἀγωνιζόμενος)**                  | _agōnizomenos_              | luchar, esforzarse intensamente | Describe la intercesión perseverante de Epafras en #colossians_4_12. «Luchar en oración» es una traducción contextual aproximada; no equivale de forma exacta a un término hebreo de integridad o plenitud, aunque la clase los acerque pedagógicamente. |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad              | Observación concreta de la clase                                                                                                                    | Tratamiento en esta nota                                                                                                                                     |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #colossians_4_1     | Prefiere oír «señores» y no solo «amos», y destaca lo justo y lo proporcional sin convertir el mandato en una manumisión explícita.                 | Apoyo textual del mandato de justicia y equidad bajo el Señor celestial; el trasfondo romano se marca para verificación y no suaviza la esclavitud.          |
+| #colossians_4_2-4   | Explica la oración como presentarse y asociarse a una causa, junto a la petición de puerta para la palabra.                                         | Apoyo textual de perseverancia, vigilancia y gratitud; se rechaza convertir la oración en técnica de control.                                                |
+| #colossians_4_5-6   | Une sabiduría hacia los de afuera con palabra amable y «sazonada con sal».                                                                          | Apoyo textual de claridad y calidad del habla; la metáfora de la sal se deja abierta a su función retórica.                                                  |
+| #colossians_4_7-14  | Destaca los títulos de Tíquico, Onésimo, Epafras y Lucas para mostrar una red real de servicio, y lee a Marcos junto con Hechos y 2 Timoteo.        | Apoyo textual del cierre colaborativo; la reconstrucción biográfica y la reconciliación de Marcos se limitan a lo que los textos dicen.                      |
+| #colossians_4_12-18 | Relaciona la «lucha» de Epafras en oración con el cuidado a distancia, y retiene el llamado sobrio a Arquipo y la lectura compartida de las cartas. | Apoyo textual de intercesión, servicio recibido y circulación de la carta; las aplicaciones actuales se mantienen como exhortación, no como promesa técnica. |
 
 ## Pendiente de verificar
 

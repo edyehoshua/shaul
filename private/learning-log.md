@@ -70,3 +70,24 @@
 - Remediated `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md` for `youtube:-utycygmrv4`: rebuilt the chapter in textual order, preserved Eric’s concrete historical, lexical, and pastoral observations with qualification, added local Delitzsch comparison text and lexical sheet, and recorded five traceability entries in `Mapa de la enseñanza de Eric`.
 - Validation passed: public Eric credit and unique source ID, no private transcript path or Hebrew slash segmentation, local corpus present, `python3 scripts/check_transcript_note_quality.py` returned `quality_failures=0`; remediation registry reduced from 214 to 213.
 - Coverage refresh remained `716` covered / `242` pending with no duplicate source IDs or missing visible credits. No lane reassignment was made: current pending-source balance still requires preserving exclusive ownership, and no new unassigned coherent group was available for a below-target lane.
+
+## 2026-07-28 — Integrator cron (feat/eric_youtube) batch 2
+
+- Fetch/rebase: branch already up to date with `origin/feat/eric_youtube` at prior tip; no remote delta before integration.
+- **Remediation integrated** (worker-validated, quality gate pass, unique source_ids, lane ownership, public Eric credits, no private paths, Eric maps ≥3):
+  - Galatim 3–6 (colosenses/epistles)
+  - Colosenses 1–4 maps and development refresh
+  - Tehilim 8, 15, 17 (yojanan)
+  - Vaikra 19 rebuilt from exclusive tanaj source `youtube:zjob2_-uFTs`
+- **New work integrated** (alternated with remediation):
+  - Tanaj: Devarim 18 (`_rBnzOUJ6Ds`), Devarim 31 (`PViAnOhrabk`), Vaikra 26 (`IzbgqzNwD4k`)
+  - Haftarot: Shabat Zajor/Amalek (`qw74-9iWKGI`); Vayishlaj/Oseas 11 multi-part (`LOCn1StkW4M`, `p7Tu9dJAgN0`, `Aly9Mvp-Nts`, `WDnxTbBQP8I`)
+  - Yojanan: Cap. 9 shabat/lodo (`x9B0el73UYI`; local transcript recovered)
+  - Efesios/Marcos: ch.1, merged 4–5 (single source `IhLu5hOaxYs` to keep IDs unique), ch.6, 7, 9
+  - Temas (colosenses): Januká alistamiento (`e1oGNyhvSEQ`); Nombre de יהוה (`lTV1Im2d5QI`)
+- **Rejected / adjusted**: separate Marcos 4 and Marcos 5 notes both claimed `youtube:IhLu5hOaxYs` — merged into one canonical note `markos_4_5_palabra_tormenta_autoridad_pureza.md`.
+- Quality: `python3 scripts/check_transcript_note_quality.py` on all 25 touched notes → `quality_failures=0`; content-wide `duplicate_source_ids={}`; `notes_missing_visible_credits=[]`.
+- Missing-transcript registry: removed 126 `pending_transcript` rows whose local `private/transcripts/ericdejes/<id>.md` now exists; kept 40 `confirmed_unavailable`.
+- Coverage refresh (`--write`): **740 covered / 218 pending** (was 716 / 242).
+- Load balance pending sources: yojanan 66, colosenses 52, tanaj 46, efesios 31, haftarot 29. Lanes below 40 (efesios, haftarot) but **no unassigned eligible sources** remain and no lane is above 70, so no exclusive group reassignment this run.
+- Remediation registry full rescan: 287 notes still need map/substance work (honest recount; cleared integrated targets no longer listed).

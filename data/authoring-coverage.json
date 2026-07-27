@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 716,
-  "pending_videos": 242,
-  "transcript_notes": 328,
+  "covered_videos": 740,
+  "pending_videos": 218,
+  "transcript_notes": 342,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -43,7 +43,7 @@
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 1,
+      "covered": 3,
       "lane": "colosenses"
     },
     "Gálatas": {
@@ -78,7 +78,7 @@
     },
     "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
       "total": 35,
-      "covered": 2,
+      "covered": 7,
       "lane": "haftarot"
     },
     "Hebreas de antes": {
@@ -93,7 +93,7 @@
     },
     "Juan": {
       "total": 71,
-      "covered": 69,
+      "covered": 70,
       "lane": "yojanan"
     },
     "La deidad de Mashiaj": {
@@ -108,7 +108,7 @@
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 13,
+      "covered": 25,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
@@ -118,7 +118,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 8,
+      "covered": 12,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {

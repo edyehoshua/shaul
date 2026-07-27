@@ -78,6 +78,15 @@ El último verso responde al cuadro anterior con un «pero yo»: «en justicia c
 
 La nota conserva esa conexión como lectura canónica a verificar, no como una cita textual del salmo en escritos posteriores. En el nivel del capítulo, el orden es claro: integridad ante el Juez, camino protegido, clamor frente al acecho, petición de liberación y satisfacción ante el rostro de יהוה.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en la nota |
+| --- | --- | --- |
+| #tehilim_17_1–3 | El poema es **תפלה**; **צדק** admite lecturas distintas; sin labios de engaño el corazón examinado de noche y la boca no deben competir. | Encabezado y examen cotejados con OE; ambigüedad de tsedeq y la práctica orante quedan cualificadas. |
+| #tehilim_17_4–8 | Por la palabra de los labios de יהוה se guardan las sendas del parits; los pasos se afirman en las ma‘gelot; refugio como ishon bat ayin bajo las alas. | Secuencia palabra–pasos–refugio con apoyo textual; parits y ma‘gelot con equivalencias aproximadas. |
+| #tehilim_17_9–14 | Enemigos como león y cachorro acechante; porción de los mortales en esta vida frente a la liberación pedida. | Metáfora depredadora retenida; doctrina cerrada de vida eterna desde v. 14 marcada como exceso. |
+| #tehilim_17_15 | Contraste: ellos se sacian de hijos; el orante se sacia al despertar con la temuná del rostro de יהוה. | Cierre de rostro y semejanza anclado en el texto; enlaces apostólicos en pendiente de verificar. |
+
 ## Pendiente de verificar
 
 - [ ] Comprobar en ediciones críticas y léxicos las alternativas de lectura y puntuación de **(צדק)** en Tehilim 17:1 mencionadas por la clase.
