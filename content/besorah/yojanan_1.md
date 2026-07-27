@@ -19,6 +19,13 @@ references:
   - "#tehilim_119_1"
 sources:
   - "docs/benhaelohim.md"
+  - "https://www.youtube.com/watch?v=oWBXDeXiqUI"
+  - "private/transcripts/ericdejes/oWBXDeXiqUI.md"
+  - "https://www.youtube.com/watch?v=OYKCQLXnX3I"
+  - "private/transcripts/ericdejes/OYKCQLXnX3I.md"
+source_ids:
+  - "youtube:oWBXDeXiqUI"
+  - "youtube:OYKCQLXnX3I"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -50,26 +57,26 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Función en la nota |
-| --- | --- | --- | --- |
-| #iojanan_1_1 | בראשית היה הדבר והדבר היה אתהאלהים והוא הדבר היה אלהים | En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra. | Reshit, logos y meymrá: pertenencia a Elohim, no intermediario menor. |
-| #iojanan_1_4 | בו נמצא חיים והחיים הם אור האדם | En Él era la vida, y la vida era la luz de los hombres. | Vida y luz van unidas desde el origen. |
-| #iojanan_1_14 | והדבר לבש בשר וישכן בתוכנו ואתכבודו ראינו ככבוד בן יחיד לאביו מלא חסד ואמת | Y la Palabra llegó a ser carne, y habitó con nosotros… | Tabernaculizar: presencia corpórea en medio del pueblo. |
-| #iojanan_1_18 | את האלהים לאראה אדם מעולם והבן היחיד בחיק האב הוא הגיד תכונתו | A Elohim… ningún hombre lo ha visto; el Hijo único… Él lo declaró. | El unigénito da a conocer la esencia no vista. |
-| #iojanan_1_29 | ויהי ממחרת וירא אתישוע בא אליו ויאמר הנה שה האלהים הנשא אתחטאת העולם | He aquí, el Cordero de Elohim, que soporta el pecado del olam. | Korban de acercamiento que carga el pecado del olam. |
-| #iojanan_1_32 | ויעד יוחנן לאמר ראיתי אתהרוח כיונה ירדת מןהשמים ותנח עליו | Porque he visto al Rúaj descendiendo… como paloma, y se posó sobre Él. | Testimonio visible del envío. |
-| #iojanan_1_34 | ואני ראיתי ואעיד כיזה הוא בןהאלהים | Y yo vi, y he testificado que Este es el Hijo de Elohim. | Identificación mesiánica del inmersor. |
+| Referencia    | Hebreo (Delitzsch, sin nikud)                                              | TTH (ES)                                                                                 | Función en la nota                                                    |
+| ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| #iojanan_1_1  | בראשית היה הדבר והדבר היה אתהאלהים והוא הדבר היה אלהים                     | En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra. | Reshit, logos y meymrá: pertenencia a Elohim, no intermediario menor. |
+| #iojanan_1_4  | בו נמצא חיים והחיים הם אור האדם                                            | En Él era la vida, y la vida era la luz de los hombres.                                  | Vida y luz van unidas desde el origen.                                |
+| #iojanan_1_14 | והדבר לבש בשר וישכן בתוכנו ואתכבודו ראינו ככבוד בן יחיד לאביו מלא חסד ואמת | Y la Palabra llegó a ser carne, y habitó con nosotros…                                   | Tabernaculizar: presencia corpórea en medio del pueblo.               |
+| #iojanan_1_18 | את האלהים לאראה אדם מעולם והבן היחיד בחיק האב הוא הגיד תכונתו              | A Elohim… ningún hombre lo ha visto; el Hijo único… Él lo declaró.                       | El unigénito da a conocer la esencia no vista.                        |
+| #iojanan_1_29 | ויהי ממחרת וירא אתישוע בא אליו ויאמר הנה שה האלהים הנשא אתחטאת העולם       | He aquí, el Cordero de Elohim, que soporta el pecado del olam.                           | Korban de acercamiento que carga el pecado del olam.                  |
+| #iojanan_1_32 | ויעד יוחנן לאמר ראיתי אתהרוח כיונה ירדת מןהשמים ותנח עליו                  | Porque he visto al Rúaj descendiendo… como paloma, y se posó sobre Él.                   | Testimonio visible del envío.                                         |
+| #iojanan_1_34 | ואני ראיתי ואעיד כיזה הוא בןהאלהים                                         | Y yo vi, y he testificado que Este es el Hijo de Elohim.                                 | Identificación mesiánica del inmersor.                                |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
-| --- | --- | --- | --- | --- |
-| **(מימרא)** | meymra | Palabra/Expresión de Elohim | מימר | Lectura semítica del prólogo; no equivalencia automática con logos filosófico. |
-| **(דבר)** | davar / hadavar | Palabra, asunto | דבר | Forma usada en Delitzsch para traducir logos. |
-| **(ראשית)** | reshit | Primicia, origen, principio | ראש | Origen que sostiene y atrae todo hacia Elohim. |
-| **(שכן)** | shakan | Habitar, tabernaculizar | שכן | #iojanan_1_14: mishkan, no sucot ni fecha de nacimiento. |
-| **(μονογενής)** | monogenes | Unigénito, de una sola naturaleza | μονο- / γεν- | Se aproxima pedagógicamente a **(יחיד)**; marcar si es analogía. |
-| **(חסד)** / **(אמת)** | jesed / emet | Bondad fiel / verdad | חסד / אמת | Se conectan con juqim y mishpatim en la nota. |
+| Término               | Transliteración | Sentido en la nota                | Raíz o base  | Observación                                                                    |
+| --------------------- | --------------- | --------------------------------- | ------------ | ------------------------------------------------------------------------------ |
+| **(מימרא)**           | meymra          | Palabra/Expresión de Elohim       | מימר         | Lectura semítica del prólogo; no equivalencia automática con logos filosófico. |
+| **(דבר)**             | davar / hadavar | Palabra, asunto                   | דבר          | Forma usada en Delitzsch para traducir logos.                                  |
+| **(ראשית)**           | reshit          | Primicia, origen, principio       | ראש          | Origen que sostiene y atrae todo hacia Elohim.                                 |
+| **(שכן)**             | shakan          | Habitar, tabernaculizar           | שכן          | #iojanan_1_14: mishkan, no sucot ni fecha de nacimiento.                       |
+| **(μονογενής)**       | monogenes       | Unigénito, de una sola naturaleza | μονο- / γεν- | Se aproxima pedagógicamente a **(יחיד)**; marcar si es analogía.               |
+| **(חסד)** / **(אמת)** | jesed / emet    | Bondad fiel / verdad              | חסד / אמת    | Se conectan con juqim y mishpatim en la nota.                                  |
 
 ## Reshit, logos y meymrá
 
@@ -110,20 +117,44 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 - "Llegó a ser" se asocia con egeneto y con hayah, remarcando existencia y manifestación, no mera fabricación.
 - #korintim_alef_15_50 se usa para distinguir carne y sangre corruptibles de la corporeidad celeste.
 
+## Recepción, generación y el Nombre
+
+Las dos clases incorporadas recorren #iojanan_1_3-14. Subrayan la repetición de
+**ἐγένετο** (_egeneto_) y proponen leerla como «llegó a ser» o «vino a existir»
+según el contexto. Es una observación útil para comparar traducciones, pero no
+autoriza por sí sola a fijar una traducción única de cada aparición sin revisar
+la sintaxis griega de cada versículo.
+
+En #iojanan_1_9-13 la clase llama a atender al contraste entre la luz, el
+_olam_ y quienes reciben el Nombre. El texto local dice que a quienes lo
+recibieron les fue dada facultad de llegar a ser hijos de Elohim, «los que
+tuvieron emunah por Su Nombre», y que fueron engendrados de Elohim
+(#iojanan_1_12-13). Por ello, la recepción y el engendramiento se mantienen
+unidos en la nota, sin convertir las explicaciones orales sobre causalidad o
+voluntad humana en una conclusión filológica cerrada.
+
+La segunda clase relaciona el verbo con usos de la Septuaginta y con el hebreo
+**היה**; esa equivalencia queda como hipótesis de trabajo, no como equivalencia
+automática. Asimismo, sus afirmaciones sobre el trasfondo histórico de
+sectas, gnosticismo o traducciones antiguas requieren fuentes precisas antes
+de usarse como contexto establecido.
+
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Targum Onkelos / Neofiti | **(מימרא)** en creación y revelación | Trasfondo arameo del prólogo | Pendiente de verificar |
-| Filón de Alejandría | Logos en literatura helenística-judía | Contraste con lectura semítica del prólogo | Pendiente de verificar |
-| Mishnah / arquitectura del culto | Ohel, mishkan, mikdash | Distinguir tabernáculo de otras estructuras | Mención indirecta en la nota |
-| BDB / Jastrow | שכן, מימרא, חסד | Apoyo léxico | Pendiente de verificar |
+| Fuente                           | Referencia                            | Uso en la nota                              | Estado                       |
+| -------------------------------- | ------------------------------------- | ------------------------------------------- | ---------------------------- |
+| Targum Onkelos / Neofiti         | **(מימרא)** en creación y revelación  | Trasfondo arameo del prólogo                | Pendiente de verificar       |
+| Filón de Alejandría              | Logos en literatura helenística-judía | Contraste con lectura semítica del prólogo  | Pendiente de verificar       |
+| Mishnah / arquitectura del culto | Ohel, mishkan, mikdash                | Distinguir tabernáculo de otras estructuras | Mención indirecta en la nota |
+| BDB / Jastrow                    | שכן, מימרא, חסד                       | Apoyo léxico                                | Pendiente de verificar       |
 
 ## Pendiente de verificar
 
 - [ ] Afinar qué matices deben citarse explícitamente desde la tradición judía sobre meymrá.
 - [ ] Añadir fuentes secundarias si se quiere documentar el contraste con Filón y el logos estoico.
 - [ ] Cotejar **(μονογενής)** con usos de **(יחיד)** en el Tanaj y en Yojanan.
+- [ ] Revisar cada uso de **ἐγένετο** en #iojanan_1_3-14 con su sintaxis griega y sus opciones de traducción.
+- [ ] Documentar con referencias verificables las afirmaciones históricas de las clases sobre judaísmos del siglo I y gnosticismo.
 
 ## Ver también
 
@@ -133,3 +164,10 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 - [Elohim y Abba](../temas/elohim_aba)
 - [Ben, hijo y títulos del Mesías](../temas/ben_hijo_titulos_mesias)
 - [Bat Kol: Hijo, Siervo y Testimonio](../temas/bat_kol)
+
+## Créditos
+
+Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
+
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (part 3) Thanks to his name, grace» — <https://www.youtube.com/watch?v=oWBXDeXiqUI> — transcripción: `private/transcripts/ericdejes/oWBXDeXiqUI.md` — source_id: `youtube:oWBXDeXiqUI`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (Part 4) Meymra' basar hayah» — <https://www.youtube.com/watch?v=OYKCQLXnX3I> — transcripción: `private/transcripts/ericdejes/OYKCQLXnX3I.md` — source_id: `youtube:OYKCQLXnX3I`.
