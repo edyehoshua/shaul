@@ -163,6 +163,6 @@ Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús R
 - «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk (`source_id: youtube:9Tzh2oZtmAk`).
 - «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ (`source_id: youtube:KPdeVmwOViQ`).
 - «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU (`source_id: youtube:k2V_xN81ozU`).
-- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed /משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc (`source_id: youtube:WSIaQ6rlhDc`).
+- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed — משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc (`source_id: youtube:WSIaQ6rlhDc).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
