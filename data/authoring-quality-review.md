@@ -2,7 +2,6 @@
 
 Revisar esta muestra antes de cada hito de 25 integraciones.
 
-- [ ] `content/besorah/galatim_3.md` — fuentes: youtube:Wqc4npxxCPE, youtube:Xl2rGFwbELE; créditos visibles: sí.
 - [ ] `content/temas/sukot_habitar_gozo_y_memoria.md` — fuentes: youtube:mZGpW3lwf4Y, youtube:xwuvQhEMMDo, youtube:ee9P_IfRXhs, youtube:oZQuUZei82E, youtube:gwepMXjk8So, youtube:cBu5K15TJAg; créditos visibles: sí.
 - [ ] `content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md` — fuentes: youtube:zLynBpmjJr0; créditos visibles: sí.
 - [ ] `content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md` — fuentes: youtube:lY1jXkbJGtk, youtube:5PPpjmPkyro; créditos visibles: sí.
@@ -12,3 +11,4 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/tanaj/cantar_4_lectura_poetica_y_relacional.md` — fuentes: youtube:44QJptwSoRk, youtube:C8wgaPW8S-4, youtube:uFzDkn1nOf4; créditos visibles: sí.
 - [ ] `content/besorah/yojanan_14_morada_palabra_memoria.md` — fuentes: youtube:WRILATGNg_U; créditos visibles: sí.
 - [ ] `content/besorah/apocalipsis_9_revelacion_trompetas_ay_y_llamado.md` — fuentes: youtube:u7-1n3mFap4; créditos visibles: sí.
+- [ ] `content/tanaj/cantar_5_lectura_poetica_y_relacional.md` — fuentes: youtube:CMEiD_2EXrU, youtube:0xRSI1cvFIU, youtube:lLB9-pbVKAk, youtube:Amg-3Ot2QmU, youtube:Owqc-XCwaOo; créditos visibles: sí.
