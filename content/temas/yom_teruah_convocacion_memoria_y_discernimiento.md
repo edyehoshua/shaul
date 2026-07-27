@@ -75,7 +75,7 @@ El conversatorio de 2019 insiste en separar lo que identifica como bíblico de d
 
 ## Memoria de Sinaí y términos de sonido
 
-Una de las sesiones enlaza el «memorial de teruah» con #exodus*19_16-19 y lee #psalms_47_6 como paralelismo entre \_teruah* y «voz de shofar». Ambos textos justifican estudiar el campo de imágenes sonoras, pero no resuelven por sí solos una definición técnica única de cada toque ni una cronología escatológica. Los nombres y secuencias de toques usados en la práctica deben presentarse como tradición o propuesta pedagógica hasta que se documenten.
+Una de las sesiones enlaza el «memorial de teruah» con #exodus_19_16-19 y lee #psalms_47_6 como paralelismo entre _teruah_ y «voz de shofar». Ambos textos justifican estudiar el campo de imágenes sonoras, pero no resuelven por sí solos una definición técnica única de cada toque ni una cronología escatológica. Los nombres y secuencias de toques usados en la práctica deben presentarse como tradición o propuesta pedagógica hasta que se documenten.
 
 ## Calendario y decisión comunitaria
 
