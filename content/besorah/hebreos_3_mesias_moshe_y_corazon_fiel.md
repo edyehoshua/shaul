@@ -12,6 +12,7 @@ references:
   - "#hebrews_3_19"
 sources:
   - "https://www.youtube.com/watch?v=Z1T5cyGP16s"
+  - "private/transcripts/ericdejes/Z1T5cyGP16s.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:Z1T5cyGP16s"
@@ -46,6 +47,6 @@ La fidelidad del Mesías y el testimonio de Moshéh sostienen la exhortación a 
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 4: Yehoshúa' Hamashíaj superior a Moshéh» — https://www.youtube.com/watch?v=Z1T5cyGP16s — source_id: `youtube:Z1T5cyGP16s`.
+- «La carta a los hebreos parte 4: Yehoshúa' Hamashíaj superior a Moshéh» — https://www.youtube.com/watch?v=Z1T5cyGP16s — transcripción: `private/transcripts/ericdejes/Z1T5cyGP16s.md` — source_id: `youtube:Z1T5cyGP16s`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

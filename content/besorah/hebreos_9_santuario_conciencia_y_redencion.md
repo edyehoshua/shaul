@@ -12,6 +12,7 @@ references:
   - "#hebrews_9_28"
 sources:
   - "https://www.youtube.com/watch?v=RX3-_bvubqo"
+  - "private/transcripts/ericdejes/RX3-_bvubqo.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:RX3-_bvubqo"
@@ -42,6 +43,6 @@ Hebreos 9 relaciona santuario, sacrificio y conciencia para orientar al servicio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 9: Brit Kehunat 'olam - brit jadasháh - Tikun ha'olam» — https://www.youtube.com/watch?v=RX3-_bvubqo — source_id: `youtube:RX3-_bvubqo`.
+- «La carta a los hebreos parte 9: Brit Kehunat 'olam - brit jadasháh - Tikun ha'olam» — https://www.youtube.com/watch?v=RX3-_bvubqo — transcripción: `private/transcripts/ericdejes/RX3-_bvubqo.md` — source_id: `youtube:RX3-_bvubqo`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

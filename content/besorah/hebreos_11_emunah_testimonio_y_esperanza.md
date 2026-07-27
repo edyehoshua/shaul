@@ -14,7 +14,9 @@ sources:
   - "https://www.youtube.com/watch?v=nOvXUecISrQ"
   - "private/transcripts/ericdejes/nOvXUecISrQ.md"
   - "https://www.youtube.com/watch?v=6JzOmZpT_RU"
+  - "private/transcripts/ericdejes/6JzOmZpT_RU.md"
   - "https://www.youtube.com/watch?v=ACE-wo-WTmo"
+  - "private/transcripts/ericdejes/ACE-wo-WTmo.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:nOvXUecISrQ"

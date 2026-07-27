@@ -12,7 +12,9 @@ references:
   - "#hebrews_1_4"
 sources:
   - "https://www.youtube.com/watch?v=lY1jXkbJGtk"
+  - "private/transcripts/ericdejes/lY1jXkbJGtk.md"
   - "https://www.youtube.com/watch?v=5PPpjmPkyro"
+  - "private/transcripts/ericdejes/5PPpjmPkyro.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:lY1jXkbJGtk"
@@ -55,7 +57,7 @@ Hebreos comienza con una lectura elevada del Hijo y con una distinción sostenid
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «A los hebreos Parte 1 Introducción + Cap 1:1-7» — https://www.youtube.com/watch?v=lY1jXkbJGtk — source_id: `youtube:lY1jXkbJGtk`.
-- «A los hebreos parte 2: Cap 1 Fin- Cap 2 Inicio» — https://www.youtube.com/watch?v=5PPpjmPkyro — source_id: `youtube:5PPpjmPkyro`.
+- «A los hebreos Parte 1 Introducción + Cap 1:1-7» — https://www.youtube.com/watch?v=lY1jXkbJGtk — transcripción: `private/transcripts/ericdejes/lY1jXkbJGtk.md` — source_id: `youtube:lY1jXkbJGtk`.
+- «A los hebreos parte 2: Cap 1 Fin- Cap 2 Inicio» — https://www.youtube.com/watch?v=5PPpjmPkyro — transcripción: `private/transcripts/ericdejes/5PPpjmPkyro.md` — source_id: `youtube:5PPpjmPkyro`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
