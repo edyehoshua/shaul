@@ -302,12 +302,7 @@
       ],
       "issues": ["under_300_substantive_words"]
     },
-    {
-      "path": "content/besorah/yojanan_7_sucot_agua_y_discernimiento.md",
-      "substantive_words": 160,
-      "thematic_sections": ["Sucot, enseñanza y agua viva", "Discernir sin sustituir la escucha"],
-      "issues": ["under_300_substantive_words"]
-    },
+
     {
       "path": "content/besorah/yojanan_8_luz_testimonio_y_abraham.md",
       "substantive_words": 193,
