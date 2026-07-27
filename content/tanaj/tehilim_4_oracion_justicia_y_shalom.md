@@ -19,13 +19,10 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=QAWwIiRmBps"
   - "private/transcripts/ericdejes/QAWwIiRmBps.md"
-  - "https://www.youtube.com/watch?v=LoqCLaoMlp8"
-  - "private/transcripts/ericdejes/LoqCLaoMlp8.md"
   - "docs/scriptures/oe/json/raw/psalms.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
   - "youtube:QAWwIiRmBps"
-  - "youtube:LoqCLaoMlp8"
 translation: "[OE, TTH]"
 ---
 
@@ -35,7 +32,7 @@ Tehilim 4 transforma la estrechez en oración, llama a una respuesta de justicia
 
 ## Alcance de la nota
 
-- Fuentes de la clase: transcripciones automáticas de «Tehilim/Hymnos/Salmo Chap 4 (part 1)» y «Tehilim/Himnos/Salmo Cap 4 (parte 2)». La nota resume su línea argumental y no la reproduce como cita literal.
+- Fuente de la clase: transcripción automática de «Tehilim/Hymnos/Salmo Chap 4 (part 1)». La nota resume su línea argumental y no la reproduce como cita literal.
 - Texto bíblico: el hebreo procede del corpus OE local y se presenta sin nikud; la traducción procede de TTH local.
 - La exposición se concentra en el encabezado musical y no desarrolla todos los movimientos poéticos del salmo. Por ello, esta nota conserva como eje el texto de Tehilim 4 y distingue de él las propuestas musicales de la clase.
 
@@ -53,8 +50,6 @@ Tehilim 4 transforma la estrechez en oración, llama a una respuesta de justicia
 ## Oración que recuerda la amplitud
 
 El salmista no comienza con una teoría sobre el sufrimiento, sino con una apelación: «respóndeme». La frase sobre haber sido ensanchado en la estrechez (#tehilim_4_1) recuerda una liberación recibida y da base a la petición presente. El salmo no promete que toda aflicción desaparezca de inmediato; muestra que la oración se dirige al Elohim de la justicia.
-
-La segunda parte de la exposición retoma esta apelación y entiende «Elohim de mi justicia» como una súplica por el orden recto de יהוה respecto del orante, no como la posesión humana de la justicia. Esa es una explicación pastoral de la clase; el texto permite afirmar con claridad que el orante llama a Elohim en relación con su justicia y recuerda que fue ensanchado en la estrechez. Conviene no convertir la paráfrasis «estado ideal» en una definición léxica cerrada de **צדק**.
 
 ## Agitación, justicia y confianza
 
@@ -92,6 +87,6 @@ La seguridad de Tehilim 4 no procede de controlar la angustia ni de poseer una t
 
 ## Créditos
 
+Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal.
+
 - **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Salmo Chap 4 (part 1)» — <https://www.youtube.com/watch?v=QAWwIiRmBps> — transcripción: `private/transcripts/ericdejes/QAWwIiRmBps.md` — source_id: `youtube:QAWwIiRmBps`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 4 (parte 2)» — <https://www.youtube.com/watch?v=LoqCLaoMlp8> — transcripción: `private/transcripts/ericdejes/LoqCLaoMlp8.md` — source_id: `youtube:LoqCLaoMlp8`.
-- Las transcripciones son automáticas y se usan como apoyo de estudio; no se presentan como citas literales ni como transcripciones revisadas por el expositor.
