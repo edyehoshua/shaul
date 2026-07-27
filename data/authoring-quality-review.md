@@ -12,5 +12,3 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/besorah/romanos_6_union_con_el_Mesias_muerte_al_pecado_vida_nueva.md` — fuentes: youtube:hj1Eu4BPPBc, youtube:o87CBGw9-Zo; créditos visibles: sí.
 - [ ] `content/tanaj/bereshit_44_parashot_2017.md` — fuentes: youtube:4hBwWXXSvQQ; créditos visibles: sí.
 - [ ] `content/tanaj/cantar_4_lectura_poetica_y_relacional.md` — fuentes: youtube:44QJptwSoRk, youtube:C8wgaPW8S-4, youtube:uFzDkn1nOf4; créditos visibles: sí.
-- [ ] `content/besorah/yojanan_14_morada_palabra_memoria.md` — fuentes: youtube:WRILATGNg_U; créditos visibles: sí.
-- [ ] `content/besorah/apocalipsis_9_revelacion_trompetas_ay_y_llamado.md` — fuentes: youtube:u7-1n3mFap4; créditos visibles: sí.
