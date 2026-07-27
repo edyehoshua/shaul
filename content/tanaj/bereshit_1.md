@@ -23,6 +23,10 @@ references:
 sources:
   - "docs/scriptures/tth/json/bereshit.json"
   - "docs/scriptures/oe/json/genesis/1.json"
+  - "https://www.youtube.com/watch?v=ahPoKpA9F7o"
+  - "private/transcripts/ericdejes/ahPoKpA9F7o.md"
+source_ids:
+  - "youtube:ahPoKpA9F7o"
 translation: "[TTH, OE]"
 ---
 
@@ -42,8 +46,8 @@ Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
+| Referencia    | Hebreo (OE, sin nikud)             | TTH (ES)                                                       | Observación                                                         |
+| ------------- | ---------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
 | #bereshit_1_1 | בראשית ברא אלהים את השמים ואת הארץ | Con lo primero le dio forma Elohim a los cielos y a la tierra. | Reshit como principio primero y primicia; bara como ordenar/formar. |
 
 ## Léxico base
@@ -73,13 +77,13 @@ Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Tanaj (TTH/OE) | #bereshit_1_1 | Texto base del apunte | Cotejado |
-| Targum Onkelos | Bereshit 1:1 | Lecturas arameas de בראשית | Pendiente de verificar |
-| Bereishit Rabbah | Bereshit 1:1 | Reshit y creación en midrash | Pendiente de verificar |
-| Ibn Ezra | Bereshit 1:1 | Sentido de בראשית | Pendiente de verificar |
-| Ramban | Bereshit 1:1 | Bara y ex nihilo vs emanación | Pendiente de verificar |
+| Fuente           | Referencia    | Uso en la nota                | Estado                 |
+| ---------------- | ------------- | ----------------------------- | ---------------------- |
+| Tanaj (TTH/OE)   | #bereshit_1_1 | Texto base del apunte         | Cotejado               |
+| Targum Onkelos   | Bereshit 1:1  | Lecturas arameas de בראשית    | Pendiente de verificar |
+| Bereishit Rabbah | Bereshit 1:1  | Reshit y creación en midrash  | Pendiente de verificar |
+| Ibn Ezra         | Bereshit 1:1  | Sentido de בראשית             | Pendiente de verificar |
+| Ramban           | Bereshit 1:1  | Bara y ex nihilo vs emanación | Pendiente de verificar |
 
 ## Pendiente de verificar
 
@@ -92,3 +96,10 @@ Bereshit 1:1 se lee aquí desde el reshit como primicia y prioridad, de modo que
 - [Mishlei 3](./mishlei_3.md) — sabiduría y confianza en יהוה.
 - [Yojanán 1](../besorah/yojanan_1.md) — logos y principio.
 - [Temas: Elohim Abá](../temas/elohim_aba.md) — atributos de la deidad.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashat Bre'shit Gn 1:1 - 6:8 El Re'shit y la plenitud de la deidad](https://www.youtube.com/watch?v=ahPoKpA9F7o).
+- Transcripción de trabajo: `private/transcripts/ericdejes/ahPoKpA9F7o.md`.
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
