@@ -14,11 +14,17 @@ references:
   - "#romanos_11_35-36"
 sources:
   - "https://www.youtube.com/watch?v=L7zgSLK3Ci4"
+  - "https://www.youtube.com/watch?v=a0lFoVqeXB4"
+  - "https://www.youtube.com/watch?v=6EMPCOINF4s"
   - "private/transcripts/ericdejes/L7zgSLK3Ci4.md"
+  - "private/transcripts/ericdejes/a0lFoVqeXB4.md"
+  - "private/transcripts/ericdejes/6EMPCOINF4s.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
 source_ids:
   - "youtube:L7zgSLK3Ci4"
+  - "youtube:a0lFoVqeXB4"
+  - "youtube:6EMPCOINF4s"
 translation: "[OE]"
 ---
 
@@ -78,5 +84,9 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
 
 - «About the Counting of the Omer 5781-2021» — https://www.youtube.com/watch?v=L7zgSLK3Ci4
   - Transcripción: `private/transcripts/ericdejes/L7zgSLK3Ci4.md` (`source_id: youtube:L7zgSLK3Ci4`).
+- «El 'Omer Re'shit» — https://www.youtube.com/watch?v=a0lFoVqeXB4
+  - Transcripción: `private/transcripts/ericdejes/a0lFoVqeXB4.md` (`source_id: youtube:a0lFoVqeXB4`).
+- «El 'Ómer Re'shit parte 2» — https://www.youtube.com/watch?v=6EMPCOINF4s
+  - Transcripción: `private/transcripts/ericdejes/6EMPCOINF4s.md` (`source_id: youtube:6EMPCOINF4s`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
