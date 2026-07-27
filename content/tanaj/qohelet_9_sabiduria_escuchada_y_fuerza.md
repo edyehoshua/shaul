@@ -19,16 +19,10 @@ references:
   - "#peter1_2_12"
   - "#hebrews_12_1"
 sources:
-  - "https://www.youtube.com/watch?v=CSRcqYc_Njs"
-  - "private/transcripts/ericdejes/CSRcqYc_Njs.md"
-  - "https://www.youtube.com/watch?v=0luQisxipFw"
-  - "private/transcripts/ericdejes/0luQisxipFw.md"
   - "https://www.youtube.com/watch?v=L7XC7NI0rJI"
   - "private/transcripts/ericdejes/L7XC7NI0rJI.md"
   - "docs/scriptures/oe/json/ecclesiastes/9.json"
 source_ids:
-  - "youtube:CSRcqYc_Njs"
-  - "youtube:0luQisxipFw"
   - "youtube:L7XC7NI0rJI"
 translation: "[OE]"
 ---
@@ -90,10 +84,6 @@ Qohélet 9 no glorifica el poder visible: muestra que una sabiduría despreciada
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**:
 
-- «Qohélet - Eclesiastés (parte 21) Cap 9» — https://www.youtube.com/watch?v=CSRcqYc_Njs
-  - Transcripción: `private/transcripts/ericdejes/CSRcqYc_Njs.md` (`source_id: youtube:CSRcqYc_Njs`).
-- «Qohélet-Eclesiastés (parte 22) Cap 9» — https://www.youtube.com/watch?v=0luQisxipFw
-  - Transcripción: `private/transcripts/ericdejes/0luQisxipFw.md` (`source_id: youtube:0luQisxipFw`).
 - «Qoheleth-Ecclesiastes (part 23) Chapter 9» — https://www.youtube.com/watch?v=L7XC7NI0rJI
   - Transcripción: `private/transcripts/ericdejes/L7XC7NI0rJI.md` (`source_id: youtube:L7XC7NI0rJI`).
 
