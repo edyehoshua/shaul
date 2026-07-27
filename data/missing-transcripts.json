@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "purpose": "Inventory sources skipped because their local transcript is unavailable. Workers may advance only after recording such a source here; the integrator must revisit it when a transcript is added.",
+  "entries": [
+    {
+      "video_id": "VsjYQKWSKMs",
+      "playlist_title": "Juan",
+      "title": "El Evangelio según Yojanán (Parte 23) Cap 8:30ss",
+      "url": "https://www.youtube.com/watch?v=VsjYQKWSKMs",
+      "reason": "Local transcript unavailable during Juan lane completion audit",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "x9B0el73UYI",
+      "playlist_title": "Juan",
+      "title": "El Evangelio según Yojanán/Juan Cap 9",
+      "url": "https://www.youtube.com/watch?v=x9B0el73UYI",
+      "reason": "Local transcript unavailable during Juan lane completion audit",
+      "status": "pending_transcript"
+    }
+  ]
+}
