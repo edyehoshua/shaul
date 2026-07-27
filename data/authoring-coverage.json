@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 697,
-  "pending_videos": 261,
+  "covered_videos": 695,
+  "pending_videos": 263,
   "transcript_notes": 315,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {
@@ -115,7 +115,7 @@
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 9,
+      "covered": 7,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
@@ -125,7 +125,7 @@
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 10,
+      "covered": 9,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
@@ -190,7 +190,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 98,
+      "covered": 99,
       "lane": "yojanan"
     },
     "Uncategorized": {
