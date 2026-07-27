@@ -1,7 +1,7 @@
 ---
 title: "Marcos 2: perdón, nuevo pacto y Torah que permanece"
-description: "Nota de clase sobre la autoridad del Ben HaAdam para perdonar, la Torah escrita en el corazón y la distinción pedagógica entre las promesas de יהוה y los procedimientos de obediencia"
-date: 2026-07-17
+description: "Estudio canónico de Marcos 2: la autoridad del Ben HaAdam para perdonar, la Torah escrita en el corazón y la obediencia que responde a la promesa de יהוה."
+date: 2026-07-27
 tags:
   - markos
   - markos_2
@@ -33,7 +33,7 @@ references:
   - "#efesiyim_2_5"
   - "#sodot_21_3"
 sources:
-  - "/Users/jhonny/.codex/attachments/95ae5bd0-00fd-408a-aec7-3d0424546712/pasted-text.txt"
+  - "https://www.youtube.com/watch?v=poyAzSdiTQU"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/oe/json/jeremiah/31.json"
@@ -43,6 +43,8 @@ sources:
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
 translation: "[TTH, Delitzsch, OE]"
+source_ids:
+  - "youtube:poyAzSdiTQU"
 ---
 
 # Tesis
@@ -53,10 +55,10 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 
 ## Alcance de la nota
 
-- Fuente principal: transcripción automática de una clase en video de aproximadamente 1 hora y 15 minutos; se organiza su argumento sin reproducir cada intervención oral.
+- Fuente principal: *Evangelio Según Marcos Parte 4*, clase del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza su argumento y no reproduce la transcripción automática como cita literal.
 - Los primeros 22 minutos repasan Ben HaAdam, Daniel 7 y la metamorfosis. Ese material ya está desarrollado en [[markos_ben_adam_metamorfosis_glosario|Marcos: Ben Adam, metamorfosis y glosario mesiánico]].
 - Esta nota se concentra en el material nuevo: #markos_2_5-12, el nuevo pacto, Torah en el corazón, **juqim**, **mishpatim**, voluntad y permanencia de la palabra.
-- El corpus local fue comprobado con `npm run scriptures:ensure` el 17 de julio de 2026.
+- El corpus local se usa como base para los textos de la hoja de comparación.
 - Las equivalencias lexicales propuestas por la clase se conservan como marco pedagógico y quedan pendientes de cotejo; no se presentan como traducciones exhaustivas de los términos hebreos.
 
 ## Ruta de la clase
@@ -169,6 +171,12 @@ El punto no es convertir cada discusión caligráfica en doctrina, sino afirmar 
 El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam demuestra en la tierra que posee autoridad para perdonar: habla, levanta y devuelve al hombre al camino. Irmeiahu explica la profundidad de esa restauración: יהוה pone su Torah en el interior y vuelve a llamar pueblo a quienes eran incapaces de restaurarse por sí mismos.
 
 La palabra que יהוה sostiene y la obediencia que pide no compiten. Su promesa hace posible la respuesta; la respuesta manifiesta que la promesa está obrando. Yeshúa reúne ambas: viene según lo escrito, lleva la Torah en sus entrañas, hace la voluntad de Elohim y confirma que ni el detalle más pequeño quedará vacío.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Evangelio Según Marcos Parte 4](https://www.youtube.com/watch?v=poyAzSdiTQU) (`source_id`: `youtube:poyAzSdiTQU`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
