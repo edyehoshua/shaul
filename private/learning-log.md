@@ -164,6 +164,8 @@
 
 - 2026-07-27 — Remediated the weak canonical Vayikra 25 note with the exclusively assigned Behar source (`youtube:kNM4bV6k3Z8`). The study now proceeds through shemitá, yovel, provision, land recovery, support for the impoverished and Israel’s belonging to יהוה; it quotes normalized local OE, preserves Eric’s specific observations in a five-entry teaching map, qualifies its calendrical and heavenly-city connections, and passes the transcript-note quality gate.
 
+- 2026-07-27 — Tanaj lane cron: remediated canonical Vaikra 19 from exclusively owned Kedoshim source (`youtube:zjob2_-uFTs`) and added canonical Vaikra 26 from exclusively owned Bechukotai source (`youtube:IzbgqzNwD4k`). Both notes walk the chapter in textual order with local OE/TTH comparison, qualified lexical sheets, Eric teaching maps (≥4 rows), public-only credits, and pass `check_transcript_note_quality.py`. Left untouched many weak `*_parashot_2017` chapter notes whose existing source IDs belong to the colosenses-owned Parashot 2016-2017 playlist (integrator conflict list in cron report). Missing local transcripts remain for `youtube:86QJBg5Aw5E` and `youtube:iw2v71qC7lk`.
+
 ## 2026-07-27 — Integrator cron (feat/eric_youtube)
 
 - Fetch/rebase: `origin/main` already ancestor of `feat/eric_youtube`; aborted stale mid-rebase leftover; stayed on `c3a21b91` tip then integrated workers.
