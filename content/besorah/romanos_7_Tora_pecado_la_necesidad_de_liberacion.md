@@ -43,12 +43,12 @@ Esta es la nota canónica del capítulo 7 y organiza las partes 15–17 de la se
 
 ## Hoja de comparación
 
-| Referencia | Texto local (Delitzsch, hebreo sin nikud) | Observación textual |
-| --- | --- | --- |
-| #romanos_7_1-6 | **או הלא ידעתם אחי כי לידעי התורה אני מדבר כי התורה תשלט עלהאדם כלימי חייו׃ וכן אחי גםאתם הייתם כמתים לתורה בגוית המשיח להיות לאחר לאשר נעור מןהמתים למען נעשהפרי לאלהים׃ אבל עתה פטורים אנחנו מןהתורה כי מתנו לאשר היינו זקוקים לו למען נעבד מעתה לפי חדוש הרוח ולא לפיישן הכתב׃** | El razonamiento pasa del alcance de la Torá a morir con el Mesías y a servir de una manera nueva. |
-| #romanos_7_7-14 | **אםכן הנאמר שהתורה חטא היא חלילה אלא לא ידעתי אתהחטא בלתי עלידי התורה כי לאהייתי יודע החמוד לולי אמרה התורה לא תחמד׃ ובכן התורה היא קדושה והמצוה קדושה וישרה וטובה׃ כי ידעים אנחנו שהתורה רוחנית ואני בשר ונמכר בידהחטא׃** | Pablo niega que la Torá sea pecado y distingue el mandamiento bueno del pecado que opera en él. |
-| #romanos_7_22-25 | **כי לפי האדם הפנימי חפצתי בתורת אלהים׃ אוילי האדם העני מי יצילני מגוף המות הזה׃ אברכה אתהאלהים בישוע המשיח אדנינו׃** | El querer interior y la impotencia del hablante desembocan en una petición de liberación y gratitud. |
-| #romanos_8_1-4 | **עלכן עתה איןאשמה באלה אשר הם במשיח ישוע המתהלכים שלא כבשר אלא לפי הרוח׃ כי תורת רוח החיים אשר במשיח ישוע הוציאה אתי לחפשי מתורת החטא והמות׃ כדי שתקים צדקת התורה בנו ההלכים לאכדרך הבשר כי אםלפי הרוח׃** | La respuesta inmediata no es desprecio de la Torá: la liberación del pecado y de la muerte orienta a un caminar según el Rúaj. |
+| Referencia       | Texto local (Delitzsch, hebreo sin nikud)                                                                                                                                                                                                                                           | Observación textual                                                                                                            |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| #romanos_7_1-6   | **או הלא ידעתם אחי כי לידעי התורה אני מדבר כי התורה תשלט עלהאדם כלימי חייו׃ וכן אחי גםאתם הייתם כמתים לתורה בגוית המשיח להיות לאחר לאשר נעור מןהמתים למען נעשהפרי לאלהים׃ אבל עתה פטורים אנחנו מןהתורה כי מתנו לאשר היינו זקוקים לו למען נעבד מעתה לפי חדוש הרוח ולא לפיישן הכתב׃** | El razonamiento pasa del alcance de la Torá a morir con el Mesías y a servir de una manera nueva.                              |
+| #romanos_7_7-14  | **אםכן הנאמר שהתורה חטא היא חלילה אלא לא ידעתי אתהחטא בלתי עלידי התורה כי לאהייתי יודע החמוד לולי אמרה התורה לא תחמד׃ ובכן התורה היא קדושה והמצוה קדושה וישרה וטובה׃ כי ידעים אנחנו שהתורה רוחנית ואני בשר ונמכר בידהחטא׃**                                                         | Pablo niega que la Torá sea pecado y distingue el mandamiento bueno del pecado que opera en él.                                |
+| #romanos_7_22-25 | **כי לפי האדם הפנימי חפצתי בתורת אלהים׃ אוילי האדם העני מי יצילני מגוף המות הזה׃ אברכה אתהאלהים בישוע המשיח אדנינו׃**                                                                                                                                                               | El querer interior y la impotencia del hablante desembocan en una petición de liberación y gratitud.                           |
+| #romanos_8_1-4   | **עלכן עתה איןאשמה באלה אשר הם במשיח ישוע המתהלכים שלא כבשר אלא לפי הרוח׃ כי תורת רוח החיים אשר במשיח ישוע הוציאה אתי לחפשי מתורת החטא והמות׃ כדי שתקים צדקת התורה בנו ההלכים לאכדרך הבשר כי אםלפי הרוח׃**                                                                          | La respuesta inmediata no es desprecio de la Torá: la liberación del pecado y de la muerte orienta a un caminar según el Rúaj. |
 
 ## 7:1-6 — Morir con el Mesías para servir de nuevo
 
@@ -76,22 +76,22 @@ La parte 17 prolonga el grito de Romanos 7 hacia el «ahora» de #romanos_8_1. E
 
 ## Hoja léxica
 
-| Forma fuente | Transliteración | Sentido normal | Fuerza contextual | Relación |
-| --- | --- | --- | --- | --- |
-| **(καινότης)** | *kainotēs* | novedad, cualidad de lo nuevo | En #romanos_7_6 califica el servicio que corresponde al Rúaj después de morir con el Mesías. | «Novedad» es una traducción directa; identificarla con una abolición de toda instrucción es una inferencia pedagógica, no el sentido del sustantivo por sí solo. |
-| **(γράμμα)** | *gramma* | letra, escrito, documento | En #romanos_7_6 contrasta con el Rúaj en la descripción del modo antiguo de servir. | «Letra» es directa; equipararla sin más con «Torá» es una relación aproximada y debe ser probada por el contexto. |
-| **(ἁμαρτία)** | *hamartia* | pecado, fallo | #romanos_7_7-13 lo presenta como el agente que toma ocasión por el mandamiento, engaña y mata. | «Pecado» es la traducción usual y aproximada; el pasaje no confunde este poder con el mandamiento santo. |
-| **(σάρξ)** | *sarx* | carne | En #romanos_7_14 y #romanos_8_3-4 expresa la condición humana vulnerable bajo el pecado. | «Carne» es directa; convertirla en un sinónimo de cuerpo material o de una etnia es una simplificación pedagógica incorrecta. |
-| **(ῥύομαι)** | *rhyomai* | rescatar, librar | La pregunta de #romanos_7_24 espera una liberación que Pablo atribuye a Elohim por Yehoshua. | «Librar» es una traducción aproximada y contextual; no establece por sí sola un equivalente hebreo exacto. |
+| Forma fuente   | Transliteración | Sentido normal                | Fuerza contextual                                                                              | Relación                                                                                                                                                         |
+| -------------- | --------------- | ----------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(καινότης)** | _kainotēs_      | novedad, cualidad de lo nuevo | En #romanos_7_6 califica el servicio que corresponde al Rúaj después de morir con el Mesías.   | «Novedad» es una traducción directa; identificarla con una abolición de toda instrucción es una inferencia pedagógica, no el sentido del sustantivo por sí solo. |
+| **(γράμμα)**   | _gramma_        | letra, escrito, documento     | En #romanos_7_6 contrasta con el Rúaj en la descripción del modo antiguo de servir.            | «Letra» es directa; equipararla sin más con «Torá» es una relación aproximada y debe ser probada por el contexto.                                                |
+| **(ἁμαρτία)**  | _hamartia_      | pecado, fallo                 | #romanos_7_7-13 lo presenta como el agente que toma ocasión por el mandamiento, engaña y mata. | «Pecado» es la traducción usual y aproximada; el pasaje no confunde este poder con el mandamiento santo.                                                         |
+| **(σάρξ)**     | _sarx_          | carne                         | En #romanos_7_14 y #romanos_8_3-4 expresa la condición humana vulnerable bajo el pecado.       | «Carne» es directa; convertirla en un sinónimo de cuerpo material o de una etnia es una simplificación pedagógica incorrecta.                                    |
+| **(ῥύομαι)**   | _rhyomai_       | rescatar, librar              | La pregunta de #romanos_7_24 espera una liberación que Pablo atribuye a Elohim por Yehoshua.   | «Librar» es una traducción aproximada y contextual; no establece por sí sola un equivalente hebreo exacto.                                                       |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
-| --- | --- | --- |
-| #romanos_7_1-6 | La parte 15 sostiene que muere la persona, no la Torá, y enfoca el servicio en la novedad del Rúaj. | Apoyo textual y clarificación léxica: se sigue la analogía de Pablo y se distingue **(γράμμα)** de una identificación automática con toda la Torá. |
-| #romanos_7_7-13 | La clase advierte contra leer la «letra» como si el mandamiento santo fuese el problema. | Apoyo textual: el pasaje llama santo, justo y bueno al mandamiento, y nombra al pecado como quien engaña y mata. |
-| #romanos_7_14-25 | La parte 16 llama «tragedia» al conflicto del ser carnal y rechaza una paz ficticia con el pecado. | Inferencia cualificada: se conserva el grito de liberación y se deja abierta la discusión sobre la voz del «yo». |
-| #romanos_8_1-4 | La parte 17 describe la libertad como liberación del pecado y de la muerte, no como licencia. | Apoyo textual: se trata como continuación inmediata del argumento, con la realización justa de la Torá como finalidad. |
+| Unidad textual   | Observación concreta de la clase                                                                    | Tratamiento en esta nota                                                                                                                           |
+| ---------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #romanos_7_1-6   | La parte 15 sostiene que muere la persona, no la Torá, y enfoca el servicio en la novedad del Rúaj. | Apoyo textual y clarificación léxica: se sigue la analogía de Pablo y se distingue **(γράμμα)** de una identificación automática con toda la Torá. |
+| #romanos_7_7-13  | La clase advierte contra leer la «letra» como si el mandamiento santo fuese el problema.            | Apoyo textual: el pasaje llama santo, justo y bueno al mandamiento, y nombra al pecado como quien engaña y mata.                                   |
+| #romanos_7_14-25 | La parte 16 llama «tragedia» al conflicto del ser carnal y rechaza una paz ficticia con el pecado.  | Inferencia cualificada: se conserva el grito de liberación y se deja abierta la discusión sobre la voz del «yo».                                   |
+| #romanos_8_1-4   | La parte 17 describe la libertad como liberación del pecado y de la muerte, no como licencia.       | Apoyo textual: se trata como continuación inmediata del argumento, con la realización justa de la Torá como finalidad.                             |
 
 ## Pendiente de verificar
 
