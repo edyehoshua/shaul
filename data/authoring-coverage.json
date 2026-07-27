@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 658,
-  "pending_videos": 300,
-  "transcript_notes": 274,
+  "covered_videos": 327,
+  "pending_videos": 631,
+  "transcript_notes": 121,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -48,7 +48,7 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 12,
+      "covered": 10,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
@@ -93,12 +93,12 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 93,
+      "covered": 5,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 3,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
@@ -123,8 +123,8 @@
     },
     "Sobre el Shabat": {
       "total": 4,
-      "covered": 4,
-      "lane": "yojanan"
+      "covered": 0,
+      "lane": "colosenses"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
