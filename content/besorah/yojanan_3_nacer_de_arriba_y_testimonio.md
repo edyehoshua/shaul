@@ -19,6 +19,7 @@ sources:
   - "https://www.youtube.com/watch?v=yBlrSzbNmfo"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
+  - "docs/scriptures/oe/json/numbers/21.json"
 source_ids:
   - "youtube:3g9O4ADy6xw"
   - "youtube:-I1zqJZ8hQM"
@@ -40,7 +41,7 @@ Las partes 8, 9 y 10 de Eric de Jesús Rodríguez Mendoza tratan el capítulo. S
 | -------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | #iojanan_3_3   | TTH: «Si un hombre no nace de arriba, no puede ver el reino de Elohim»; Delitzsch: **אם לא יולד איש ממקור על**. | El diálogo abre con nacimiento «de arriba».       |
 | #iojanan_3_14  | TTH: «así es necesario que sea levantado el Ben Ha’Adam»; Delitzsch: **כן ינשא בן האדם**.                       | El texto remite de modo explícito al desierto.    |
-| #bamidbar_21_8 | OE: **ויאמר יהוה אל משה עשה לך שרף ושים אתו על נס והיה כל הנשוך וראה אתו וחי**.                        | Mirar la señal está ligado a vivir en el relato.  |
+| #bamidbar_21_8 | OE: **ויאמר יהוה אל משה עשה לך שרף ושים אתו על נס והיה כל הנשוך וראה אתו וחי**.                                 | Mirar la señal está ligado a vivir en el relato.  |
 | #iojanan_3_29  | TTH: «El que tiene la esposa es el esposo… Y esta es mi alegría que fue llena».                                 | Iojanán define su gozo en relación con el esposo. |
 | #iojanan_3_31  | TTH: «El que de arriba viene, sobre todo es»; Delitzsch: **הבא ממרום רם הוא מכל**.                              | La frase retoma el lenguaje de «arriba».          |
 
