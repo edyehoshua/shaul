@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 329,
-  "pending_videos": 629,
-  "transcript_notes": 122,
+  "covered_videos": 345,
+  "pending_videos": 613,
+  "transcript_notes": 133,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 43,
+      "covered": 42,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -78,7 +78,7 @@
     },
     "Hebreos": {
       "total": 17,
-      "covered": 0,
+      "covered": 17,
       "lane": "efesios"
     },
     "Juan": {
@@ -143,12 +143,12 @@
     },
     "Yom hakipurim": {
       "total": 5,
-      "covered": 2,
+      "covered": 5,
       "lane": "colosenses"
     },
     "Yom tru’áh": {
       "total": 4,
-      "covered": 1,
+      "covered": 4,
       "lane": "colosenses"
     }
   },
