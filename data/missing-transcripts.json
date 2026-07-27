@@ -27,6 +27,14 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "xpihVrZGGI4",
+      "playlist_title": "Haftarot de Vayiqra’/Levítico",
+      "title": "Haftaráh de Mtzorá'  2 Reyes cap 7: El redargüir de Hashem",
+      "url": "https://www.youtube.com/watch?v=xpihVrZGGI4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "5DwytpFiKYc",
       "playlist_title": "Hebreas de antes",
       "title": "ציון גולן - שמע ישראל  Zion Golan - Shema Israel",
@@ -43,12 +51,60 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "VsjYQKWSKMs",
+      "playlist_title": "Juan",
+      "title": "El Evangelio según Yojanán (Parte 23) Cap 8:30ss",
+      "url": "https://www.youtube.com/watch?v=VsjYQKWSKMs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "x9B0el73UYI",
+      "playlist_title": "Juan",
+      "title": "El Evangelio según Yojanán/Juan Cap 9",
+      "url": "https://www.youtube.com/watch?v=x9B0el73UYI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "4iKdU2GWr9Y",
+      "playlist_title": "Las 613 mitzvot 2a parte",
+      "title": "The 613 Mitzvot #26-30 About arrogance, pride, and heresy",
+      "url": "https://www.youtube.com/watch?v=4iKdU2GWr9Y",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "xE79IvA2JdA",
+      "playlist_title": "Las 613 mitzvot 2a parte",
+      "title": "Las \"613\" Mitzvot #317-318 Sobre lo que sale de nuestras bocas",
+      "url": "https://www.youtube.com/watch?v=xE79IvA2JdA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "zbq2ONSng6g",
+      "playlist_title": "Las 613 mitzvot 2a parte",
+      "title": "The \"613\" Mitzvot #360-362 The Seed of Yisra'el",
+      "url": "https://www.youtube.com/watch?v=zbq2ONSng6g",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "F0y9JGvv4CE",
       "playlist_title": "Parashot 2016-2017",
       "title": "Parashát Mishpatim (2017). Varones de santidad",
       "url": "https://www.youtube.com/watch?v=F0y9JGvv4CE",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "GZ2LxhmNRRU",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Va'etjanan (2017) YHWH te tomó por pueblo para sí",
+      "url": "https://www.youtube.com/watch?v=GZ2LxhmNRRU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "Qi_OffhOumg",
@@ -91,6 +147,30 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "TruISWrp4WA",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (Parte 17) Verdaderamente libres",
+      "url": "https://www.youtube.com/watch?v=TruISWrp4WA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "atIdZY13b_c",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 23) Cap 9:19-24: Dios es juez justo",
+      "url": "https://www.youtube.com/watch?v=atIdZY13b_c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ililQLS9UJE",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 25) La fidelidad es por la palabra de Dios",
+      "url": "https://www.youtube.com/watch?v=ililQLS9UJE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "u0NtR-y-T2Y",
       "playlist_title": "Romanos",
       "title": "La carta a los romanos (parte 7) \"A los que están dentro de la ley\" Rom 3:17ss",
@@ -105,6 +185,14 @@
       "url": "https://www.youtube.com/watch?v=Sdnjwi67bxY",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "ip-3871HtaQ",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo 59",
+      "url": "https://www.youtube.com/watch?v=ip-3871HtaQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "scYLRRQz0Tg",
@@ -131,12 +219,44 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "-YSk73bQ3c4",
+      "playlist_title": "Uncategorized",
+      "title": "Gospel according to Mark part 44 Chapter 15 The trial and crucifixion of Messiah",
+      "url": "https://www.youtube.com/watch?v=-YSk73bQ3c4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "0-KPe89FY7I",
       "playlist_title": "Uncategorized",
       "title": "Oyfn Pripetchik - La estufa Español-yidish by Monserrat Franco",
       "url": "https://www.youtube.com/watch?v=0-KPe89FY7I",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "0a9JenvoNhM",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Juqat Nm 19-22:1 La Roca",
+      "url": "https://www.youtube.com/watch?v=0a9JenvoNhM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "0jssylSPp4g",
+      "playlist_title": "Uncategorized",
+      "title": "Jag Purim - La fiesta de Purim - 'Am 'ejad, pueblo que es uno!",
+      "url": "https://www.youtube.com/watch?v=0jssylSPp4g",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "1TSSvIKzEzQ",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio Según Marcos parte 34: Cap 10:32 - 11:11 Nazarino/Nazaretano y Nétzer",
+      "url": "https://www.youtube.com/watch?v=1TSSvIKzEzQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "1qwfOY-W8Fo",
@@ -147,12 +267,60 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "2D-i1G2vY-k",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Bshalaj - Éxodo 13:17 - 17:16  Este pueblo tiene que ser consolado",
+      "url": "https://www.youtube.com/watch?v=2D-i1G2vY-k",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "35whlBfDPkA",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Matot-Mas'ey Nm 30:2-36:13 La sujeción de la mujer y el gobierno del hombre",
+      "url": "https://www.youtube.com/watch?v=35whlBfDPkA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "3Et5rwoIj_Y",
+      "playlist_title": "Uncategorized",
+      "title": "Parashah Reh Dt 11:26-16:17 The land of Israel and the Munuchah",
+      "url": "https://www.youtube.com/watch?v=3Et5rwoIj_Y",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "3RRxUezpfXo",
       "playlist_title": "Uncategorized",
       "title": "El Evangelio según Marco parte 40 Escatología las setenta semanas de Daniel",
       "url": "https://www.youtube.com/watch?v=3RRxUezpfXo",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "3UA4ZtIYBpI",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco - Parte 28  La Metamorfosis de Mashíaj",
+      "url": "https://www.youtube.com/watch?v=3UA4ZtIYBpI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "47kx4pTWdFA",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio segun Marco Parte 20 cap 6 Shalíaj - ¿Qué es Apóstol?",
+      "url": "https://www.youtube.com/watch?v=47kx4pTWdFA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "4BXW1nJCLCc",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Trumah Ex 25:1-27:19 The Parochet and the Tree of Life Part 2",
+      "url": "https://www.youtube.com/watch?v=4BXW1nJCLCc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "4LEGO26UuNA",
@@ -171,12 +339,180 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "6d59VNAitEA",
+      "playlist_title": "Uncategorized",
+      "title": "The Patience of the Saints [Audio Only]",
+      "url": "https://www.youtube.com/watch?v=6d59VNAitEA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "6xs3BWuATN4",
+      "playlist_title": "Uncategorized",
+      "title": "Janukáh 2020 y la historia del segundo Templo",
+      "url": "https://www.youtube.com/watch?v=6xs3BWuATN4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "6yvN36B5280",
+      "playlist_title": "Uncategorized",
+      "title": "Al zeh (En español) על זה  כמו ששר מורדכי בן דויד בספרדית",
+      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "72RM95hoEPY",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Emor Lv 21-24 : Mo'adey YHWH - Miqra'ey Qódesh",
+      "url": "https://www.youtube.com/watch?v=72RM95hoEPY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "7uBEYFbUy2A",
+      "playlist_title": "Uncategorized",
+      "title": "Despedida de Janukáh (2018) Análisis de Jn 10:22ss y lectura del Himno 30",
+      "url": "https://www.youtube.com/watch?v=7uBEYFbUy2A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "86QJBg5Aw5E",
       "playlist_title": "Uncategorized",
       "title": "Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad",
       "url": "https://www.youtube.com/watch?v=86QJBg5Aw5E",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "86l71sgugKc",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vaychi - Genesis 47:28 - 50:26 - Doing in accordance with the divine will",
+      "url": "https://www.youtube.com/watch?v=86l71sgugKc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "8Btk2jATjfk",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Ajarey Mot - Passover Seder Part 1",
+      "url": "https://www.youtube.com/watch?v=8Btk2jATjfk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "8cLCP_e_2MI",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat ki tisa' -  Éxodo 30:11 - 34:35 Levantar la cabeza",
+      "url": "https://www.youtube.com/watch?v=8cLCP_e_2MI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "8cPipT6K-9Q",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Yitró Éxodo 18:1 - 20:23 Sguláh mikol ha'amim - Goy Qadosh",
+      "url": "https://www.youtube.com/watch?v=8cPipT6K-9Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "8tbhWSUV3kk",
+      "playlist_title": "Uncategorized",
+      "title": "The 613 Mitzvot 241-248 END OF THE FIRST PART!",
+      "url": "https://www.youtube.com/watch?v=8tbhWSUV3kk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "9tDjIv6tla0",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Naso' Nm: 4:21 - 7:89 Biblical leadership.",
+      "url": "https://www.youtube.com/watch?v=9tDjIv6tla0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Aly9Mvp-Nts",
+      "playlist_title": "Uncategorized",
+      "title": "Haftarát Vayishlaj Parte 3",
+      "url": "https://www.youtube.com/watch?v=Aly9Mvp-Nts",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "BRqiJzOHBkQ",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco Parte 3",
+      "url": "https://www.youtube.com/watch?v=BRqiJzOHBkQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "BrbPFZ2Mh6I",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio segun Marco Parte 21 cap 6   Resumen ejecutivo",
+      "url": "https://www.youtube.com/watch?v=BrbPFZ2Mh6I",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "CLeAjF2EGoE",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Dvarim, Dt. 1:1-3:22 Escuchando sólo la voz de YHWH",
+      "url": "https://www.youtube.com/watch?v=CLeAjF2EGoE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ELZQY8k1Ibo",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat tetzaveh - Éxodo 27:20 - 30:10 vestidos para gloria y hermosura",
+      "url": "https://www.youtube.com/watch?v=ELZQY8k1Ibo",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "FTlICgQF21Y",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Korah - Do everything as for Hashem",
+      "url": "https://www.youtube.com/watch?v=FTlICgQF21Y",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "FZlCNcBpknU",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Tzav lv 6:1-8:36 : La Torah de los 6 sacrificios y Mashíaj",
+      "url": "https://www.youtube.com/watch?v=FZlCNcBpknU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Farvi5l0RRA",
+      "playlist_title": "Uncategorized",
+      "title": "Gospel According to Mark Part 1",
+      "url": "https://www.youtube.com/watch?v=Farvi5l0RRA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "GN22XKFRYGM",
+      "playlist_title": "Uncategorized",
+      "title": "תהילים טז. the most important decision",
+      "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "GTTiPhYP4eQ",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayéshev - y se asentó - Gn 37-40 Verdad Juicio y paz",
+      "url": "https://www.youtube.com/watch?v=GTTiPhYP4eQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "Gw0vvb4MGI8",
@@ -195,12 +531,84 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "IhLu5hOaxYs",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco - Parte 17- Cap 4 - 5 Parábolas / Continuación",
+      "url": "https://www.youtube.com/watch?v=IhLu5hOaxYs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "IzbgqzNwD4k",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Bejuqotay - If they have my juqot inside, they will keep my mitzvot",
+      "url": "https://www.youtube.com/watch?v=IzbgqzNwD4k",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "JMdxbQtZ9wc",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayiqrá' - Levítico 1:1-5:26 Yehoshúa' y los Qorbanot Parte 2",
+      "url": "https://www.youtube.com/watch?v=JMdxbQtZ9wc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "JqAnsH6Coq0",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Lej Lejá - Porción \"anda, para ti\". Gn 12:1-17:27",
+      "url": "https://www.youtube.com/watch?v=JqAnsH6Coq0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "JynK66A9mn0",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Balaq Nm 22:1-25:9 El lucro y la concupiscencia",
+      "url": "https://www.youtube.com/watch?v=JynK66A9mn0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "KHqPveKvk0c",
+      "playlist_title": "Uncategorized",
+      "title": "Conversatorio sobre el don llamado Rúaj Haqódesh 2017",
+      "url": "https://www.youtube.com/watch?v=KHqPveKvk0c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Kiq69SwJqEE",
+      "playlist_title": "Uncategorized",
+      "title": "HAFTARÁH DE SE'UDAT MASHÍAJ 2018 : Os atraeré a mí mismo",
+      "url": "https://www.youtube.com/watch?v=Kiq69SwJqEE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "MlM2bk7h0hc",
       "playlist_title": "Uncategorized",
       "title": "salmo 23 en hebreo con traducción.wmv",
       "url": "https://www.youtube.com/watch?v=MlM2bk7h0hc",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "NR4_pnOZA8Q",
+      "playlist_title": "Uncategorized",
+      "title": "Janukáh 2018 - Janukat Hamizbéaj",
+      "url": "https://www.youtube.com/watch?v=NR4_pnOZA8Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "NoUgAfg5OWg",
+      "playlist_title": "Uncategorized",
+      "title": "El gozo de Hashem es vuestra fortaleza",
+      "url": "https://www.youtube.com/watch?v=NoUgAfg5OWg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "O2jFt6kAl30",
@@ -211,12 +619,52 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "ODE1WeAmOIY",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Ki tavó' - Porque tú entrarás Dt 26:1 - 29:8 Para el nombre de YHWH",
+      "url": "https://www.youtube.com/watch?v=ODE1WeAmOIY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "PM4WRF-kTM8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Jayey Saráh - La vida de Sarah Gn 23-25:18 Remez",
+      "url": "https://www.youtube.com/watch?v=PM4WRF-kTM8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "PViAnOhrabk",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayelech - And He Went Dt Ch. 31:1-30 Joshua Goes Before Us",
+      "url": "https://www.youtube.com/watch?v=PViAnOhrabk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "QvmWSGo6qZU",
+      "playlist_title": "Uncategorized",
+      "title": "Message for Shepherds and Sheep",
+      "url": "https://www.youtube.com/watch?v=QvmWSGo6qZU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "S6cc-nUH6Mg",
       "playlist_title": "Uncategorized",
       "title": "Salmo 92 en Hebreo/español תהילים צ''ב בעברית -לספרדית",
       "url": "https://www.youtube.com/watch?v=S6cc-nUH6Mg",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "SPEatJ6nkyc",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Shmot Exodus 1:1 - 6:1 Be God-fearing",
+      "url": "https://www.youtube.com/watch?v=SPEatJ6nkyc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "U6SQe5EOnF4",
@@ -227,12 +675,172 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "VCfzHkmdwoc",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat vayishlaj -  y envió - Gn 32:4-36:43 No te dejaré solo",
+      "url": "https://www.youtube.com/watch?v=VCfzHkmdwoc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "VPMoZun2Bww",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayigash - Genesis 44:18 - 47:27  - Hablar dentro de las Palabras de la Torah",
+      "url": "https://www.youtube.com/watch?v=VPMoZun2Bww",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "WCO-PKJ0IDc",
       "playlist_title": "Uncategorized",
       "title": "El Dios verdadero el emet אל אמת",
       "url": "https://www.youtube.com/watch?v=WCO-PKJ0IDc",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "Wc4JdxmC-Qs",
+      "playlist_title": "Uncategorized",
+      "title": "The story of Hadassah (Esther), Mordecai, and Yehoshua at the Feast of Purim",
+      "url": "https://www.youtube.com/watch?v=Wc4JdxmC-Qs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Wu5jU8k4mXA",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Nóaj - Porción de Noé / Génesis 6:9-11:32 פרשת נח",
+      "url": "https://www.youtube.com/watch?v=Wu5jU8k4mXA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "X0hILB8r8N8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayetzé' - \"y salió\" Gn 28:10 - 32:3 - La Escalera",
+      "url": "https://www.youtube.com/watch?v=X0hILB8r8N8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "XCiS-STIKaI",
+      "playlist_title": "Uncategorized",
+      "title": "שמע ישראל Hear YIsra'el Oye Israel",
+      "url": "https://www.youtube.com/watch?v=XCiS-STIKaI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "XQjMnOoXJMY",
+      "playlist_title": "Uncategorized",
+      "title": "Las \"613\" Mitzvot #326-335 Sobre las inmoralidades sexuales",
+      "url": "https://www.youtube.com/watch?v=XQjMnOoXJMY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Y97CMPXJ4cA",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Ajarey Mot - Passover Seder Part 4",
+      "url": "https://www.youtube.com/watch?v=Y97CMPXJ4cA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "YFejem1jPTk",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Va'era' Éxodo 6:2 - 9:35 - Qasheh, Jazaq y Kaved",
+      "url": "https://www.youtube.com/watch?v=YFejem1jPTk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "YVyesqxbVJg",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Bo'  - Éxodo 10:1 - 13:16 Rigidez de mano  de Hashem",
+      "url": "https://www.youtube.com/watch?v=YVyesqxbVJg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "YgDxHdLEmKc",
+      "playlist_title": "Uncategorized",
+      "title": "Jerusalén de Oro en español  ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ZJ1vhJLEL3c",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Tzaria' Lv 12 and 13: Massage the Light of the World",
+      "url": "https://www.youtube.com/watch?v=ZJ1vhJLEL3c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ZSJOKcCqycU",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco parte 31 - Cap 9:49-10:12  La sal y el divorcio",
+      "url": "https://www.youtube.com/watch?v=ZSJOKcCqycU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "_4q0WLCdK1c",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Acharei Mot. Lev 16-18 The Ministry of Reconciliation",
+      "url": "https://www.youtube.com/watch?v=_4q0WLCdK1c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "_rBnzOUJ6Ds",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Shoftim - Jueces - Dt 16:18-21: 9 el profeta prometido",
+      "url": "https://www.youtube.com/watch?v=_rBnzOUJ6Ds",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "aaOsAn3ilxg",
+      "playlist_title": "Uncategorized",
+      "title": "The \"613\" Mitzvot #233-240 Prevention against meanness",
+      "url": "https://www.youtube.com/watch?v=aaOsAn3ilxg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "agFU_axg_s0",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco Parte 8: 'Aba' - La Qatedrá' deMoshéh",
+      "url": "https://www.youtube.com/watch?v=agFU_axg_s0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "b4StIF_mR0A",
+      "playlist_title": "Uncategorized",
+      "title": "Conversatorio sobre identidad \"una segunda parte\"",
+      "url": "https://www.youtube.com/watch?v=b4StIF_mR0A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "bwPzt_r3XY0",
+      "playlist_title": "Uncategorized",
+      "title": "El evangelio según Marcos parte 36: Cap 11-12. Fidelidad de Dios / Parábola",
+      "url": "https://www.youtube.com/watch?v=bwPzt_r3XY0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "cDOCQ1RXrH8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Pinjás Nm 25:10-30:1  El celo de tu casa me consumió",
+      "url": "https://www.youtube.com/watch?v=cDOCQ1RXrH8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "cLaRVGxIAy8",
@@ -243,12 +851,132 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "c_Ww_KfQuwI",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco - Parte 5 - Introducción a 'Abá', \"Padre\".",
+      "url": "https://www.youtube.com/watch?v=c_Ww_KfQuwI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "cls5RxEzxtQ",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Trumah Ex 25:1-27:19 The Parochet and the Tree of Life Part 1",
+      "url": "https://www.youtube.com/watch?v=cls5RxEzxtQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "cvt-w1oDtmE",
+      "playlist_title": "Uncategorized",
+      "title": "Ofrah Hazah - Horashoot - עפרה חזה הרשות English - Spanish",
+      "url": "https://www.youtube.com/watch?v=cvt-w1oDtmE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "dWfZ0pLJAlk",
+      "playlist_title": "Uncategorized",
+      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
+      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "dh5VYLTt5v4",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marcos parte 39. YHWH-YeHoShúa' -Señor y Dios",
+      "url": "https://www.youtube.com/watch?v=dh5VYLTt5v4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "dsI1NFrPTZY",
+      "playlist_title": "Uncategorized",
+      "title": "תפלת עלינו the Aleynu Prayer La oración Aleynu´Aleinu",
+      "url": "https://www.youtube.com/watch?v=dsI1NFrPTZY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "e1oGNyhvSEQ",
+      "playlist_title": "Uncategorized",
+      "title": "Jag Hachanukah - Feast of Enlistment",
+      "url": "https://www.youtube.com/watch?v=e1oGNyhvSEQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "e54Boaj8Z_8",
+      "playlist_title": "Uncategorized",
+      "title": "PARASHAT HA'AZINU ESPAÑOL 2015 - Parashat Ha'Azinu in Spanish 2015",
+      "url": "https://www.youtube.com/watch?v=e54Boaj8Z_8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "fVAh5QTMH-8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Ajarey Mot - Seder of Pesach Part 3",
+      "url": "https://www.youtube.com/watch?v=fVAh5QTMH-8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "g3NfiksYo50",
+      "playlist_title": "Uncategorized",
+      "title": "The Gospel according to Mark, part 32: Chapters 10:13-23 The Divorce, the Rich Young Man - the Ne...",
+      "url": "https://www.youtube.com/watch?v=g3NfiksYo50",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "gpnXufuyDgA",
+      "playlist_title": "Uncategorized",
+      "title": "Jag Hasukot 2016 Contentos con lo que tenemos ahora",
+      "url": "https://www.youtube.com/watch?v=gpnXufuyDgA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "h5LhqPYCi4E",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshu' and the Qorbanot Part 1",
+      "url": "https://www.youtube.com/watch?v=h5LhqPYCi4E",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "hMKGpQItwvY",
       "playlist_title": "Uncategorized",
       "title": "Va'ani bechasdecho va'ani bejasdejó ואני בחסדך - en español",
       "url": "https://www.youtube.com/watch?v=hMKGpQItwvY",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "i0kaIhPMHZ8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Mishpatim - Estos son los procedimientos que pondrás delante de ellos",
+      "url": "https://www.youtube.com/watch?v=i0kaIhPMHZ8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "iJJX9zpbryk",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Va'etchanán Dt 3:23-7:11 I was made a partaker of grace",
+      "url": "https://www.youtube.com/watch?v=iJJX9zpbryk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "iRGczDAqu9c",
+      "playlist_title": "Uncategorized",
+      "title": "ישעיהו פרק 60 עברית - ספרדית   Isaías capítulo 60 hebreo- español",
+      "url": "https://www.youtube.com/watch?v=iRGczDAqu9c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "iw2v71qC7lk",
@@ -259,6 +987,14 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "jCax7bvw4Y8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Ajarey Mot - Seder of Pesach Part 2",
+      "url": "https://www.youtube.com/watch?v=jCax7bvw4Y8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "jamQ95BSuN0",
       "playlist_title": "Uncategorized",
       "title": "Evangelio Segun Marco Parte 18 cap 5   El Endemoniado de Gdarah",
@@ -267,12 +1003,84 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "kKv_J4gwBkc",
+      "playlist_title": "Uncategorized",
+      "title": "Todas las palabras - Idan Raichel -punteo en guitarra",
+      "url": "https://www.youtube.com/watch?v=kKv_J4gwBkc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "kNM4bV6k3Z8",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Behar Lv 25-26 The Shmitah, the Yovel and the Mnujáh",
+      "url": "https://www.youtube.com/watch?v=kNM4bV6k3Z8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "kw0lpuvIXPk",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Ki tetzé' - Dt 21:10-25:19 El Praqlit - Mashíaj",
+      "url": "https://www.youtube.com/watch?v=kw0lpuvIXPk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "lJpkAqUpOiM",
+      "playlist_title": "Uncategorized",
+      "title": "Jag Purim (2018) ¿Por qué celebramos Purim?",
+      "url": "https://www.youtube.com/watch?v=lJpkAqUpOiM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "lTV1Im2d5QI",
+      "playlist_title": "Uncategorized",
+      "title": "El nombre del Dios de Israel, el nombre de Mashíaj",
+      "url": "https://www.youtube.com/watch?v=lTV1Im2d5QI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "lnNEKuqlFhg",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Shláj Nm13-15 The mark of another Ruach",
+      "url": "https://www.youtube.com/watch?v=lnNEKuqlFhg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "nOrCP8wDipM",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Toldot - Génesis 25:19-28:9 Español- Spanish",
+      "url": "https://www.youtube.com/watch?v=nOrCP8wDipM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "nddC-xoPguU",
       "playlist_title": "Uncategorized",
       "title": "El Evangelio según Marcos parte 45 Cap 16 - FIN - El Domingo no es el día del Señor",
       "url": "https://www.youtube.com/watch?v=nddC-xoPguU",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "p7Tu9dJAgN0",
+      "playlist_title": "Uncategorized",
+      "title": "Haftarát Vayishlaj Parte 1",
+      "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "pANyVs_rkmU",
+      "playlist_title": "Uncategorized",
+      "title": "The Gospel according to Mark part 37 Chapter 12 Marriages here and in the world to come",
+      "url": "https://www.youtube.com/watch?v=pANyVs_rkmU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "pmg5YfsYOkQ",
@@ -291,12 +1099,108 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "qoPOuZN5G4c",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Éqev Dt 7:12-11:25 Zajor, recuerda",
+      "url": "https://www.youtube.com/watch?v=qoPOuZN5G4c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "qzr_u89uzUk",
+      "playlist_title": "Uncategorized",
+      "title": "Janukáh (2017): La casa, la asamblea, pilar y baluarte de la verdad",
+      "url": "https://www.youtube.com/watch?v=qzr_u89uzUk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "r4_qmQa-HEY",
+      "playlist_title": "Uncategorized",
+      "title": "I have been given - I have been given - Hejag - Part 2",
+      "url": "https://www.youtube.com/watch?v=r4_qmQa-HEY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sHbKR7IjJ6A",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco - Parte 24: CAp 7 y 8 La Senal de Yonáh",
+      "url": "https://www.youtube.com/watch?v=sHbKR7IjJ6A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sTl5WJfH61Q",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 125 en guitarra מזמור קכ''ה בגיטרה",
+      "url": "https://www.youtube.com/watch?v=sTl5WJfH61Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sdJBSJjFIns",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Miqetz - Genesis 41:1 - 44:17 Speak Qashot",
+      "url": "https://www.youtube.com/watch?v=sdJBSJjFIns",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "se8OJZlKeQ8",
+      "playlist_title": "Uncategorized",
+      "title": "Zéjer Qodshó, el recuerdo de su santidad, una nueva visión de Janukáh",
+      "url": "https://www.youtube.com/watch?v=se8OJZlKeQ8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "st3eM0SNXRM",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Ntzavim Dt 29:9-30:20 The seed that YHWH blessed",
+      "url": "https://www.youtube.com/watch?v=st3eM0SNXRM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "stsUp5v3SXE",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Ajarey Mot - Passover Seder Part 5",
+      "url": "https://www.youtube.com/watch?v=stsUp5v3SXE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "tJKzd52fFbE",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Shmini Vayiqrá' (Lv) 9:1-11:47  El Octavo día, fuego extraño y algo mas",
+      "url": "https://www.youtube.com/watch?v=tJKzd52fFbE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "uXzXFluGIdg",
+      "playlist_title": "Uncategorized",
+      "title": "A Heart Fit for Hashem / In the House of Ephraim",
+      "url": "https://www.youtube.com/watch?v=uXzXFluGIdg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "vB6aDB59o48",
       "playlist_title": "Uncategorized",
       "title": "Maravilloso Salvador  מושיענו הנפלא.wmv (Hebreo-Español)",
       "url": "https://www.youtube.com/watch?v=vB6aDB59o48",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "v_02B_oF30A",
+      "playlist_title": "Uncategorized",
+      "title": "The \"613\" mitzvot - 262-267 about not being ruled by passions",
+      "url": "https://www.youtube.com/watch?v=v_02B_oF30A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     },
     {
       "video_id": "wS79RPN81a8",
@@ -315,12 +1219,52 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "xjQ5RfijeVU",
+      "playlist_title": "Uncategorized",
+      "title": "Num 8:1 - 12:16 The Mnorah and the Prophecy",
+      "url": "https://www.youtube.com/watch?v=xjQ5RfijeVU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "yH1eiSUCdTY",
+      "playlist_title": "Uncategorized",
+      "title": "Jag Hasukot, Jag He'asif, Jag Hashem, Hejag (2018) Compendio",
+      "url": "https://www.youtube.com/watch?v=yH1eiSUCdTY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "yoYZGJOMi38",
       "playlist_title": "Uncategorized",
       "title": "Yequm Purqan.  יְקוּם פֻּרְקָן en español",
       "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "zaeuqpePDmc",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco parte 38 cap 12:28-37 El Shmá' y el Salmo 110",
+      "url": "https://www.youtube.com/watch?v=zaeuqpePDmc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "zdW5CnkKt_4",
+      "playlist_title": "Uncategorized",
+      "title": "Haftaráh de Shabat Hagadol - El Grande y el temible",
+      "url": "https://www.youtube.com/watch?v=zdW5CnkKt_4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "zjob2_-uFTs",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Qedoshim Leviticus chapters 19 - 20 Saints will be",
+      "url": "https://www.youtube.com/watch?v=zjob2_-uFTs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
     }
   ]
 }
