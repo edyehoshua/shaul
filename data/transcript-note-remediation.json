@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 230,
+  "total_notes_requiring_remediation": 229,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -853,12 +853,6 @@
     },
     {
       "path": "content/tanaj/tehilim_15_lectura_oracion_y_alabanza.md",
-      "substantive_words": 154,
-      "thematic_sections": ["Lectura del capítulo"],
-      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
-    },
-    {
-      "path": "content/tanaj/tehilim_17_lectura_oracion_y_alabanza.md",
       "substantive_words": 154,
       "thematic_sections": ["Lectura del capítulo"],
       "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
