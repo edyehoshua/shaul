@@ -9,6 +9,9 @@ sources:
   - "https://www.youtube.com/watch?v=XnePb66_Q1s"
   - "https://www.youtube.com/watch?v=ttDYqub_tHA"
   - "https://www.youtube.com/watch?v=K_zLycnKBZo"
+  - "private/transcripts/ericdejes/XnePb66_Q1s.md"
+  - "private/transcripts/ericdejes/ttDYqub_tHA.md"
+  - "private/transcripts/ericdejes/K_zLycnKBZo.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids: ["youtube:XnePb66_Q1s", "youtube:ttDYqub_tHA", "youtube:K_zLycnKBZo"]
 translation: "[Delitzsch]"
@@ -44,7 +47,7 @@ Galatim 1 llama a conservar el evangelio de la gracia y a reconocer que el servi
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La Carta a los gálatas parte 1 - Introducción - Cap 1:1](https://www.youtube.com/watch?v=XnePb66_Q1s) (source_id: `youtube:XnePb66_Q1s`).
-- [Carta a los gálatas Parte 3 Cap 1:10-11 Iûdaísmo - judaísmo](https://www.youtube.com/watch?v=ttDYqub_tHA) (source_id: `youtube:ttDYqub_tHA`).
-- [The Letter to the Galatians Part 4 Ch. 1:13-2:10](https://www.youtube.com/watch?v=K_zLycnKBZo) (source_id: `youtube:K_zLycnKBZo`).
+- [La Carta a los gálatas parte 1 - Introducción - Cap 1:1](https://www.youtube.com/watch?v=XnePb66_Q1s) — transcripción de trabajo: `private/transcripts/ericdejes/XnePb66_Q1s.md` (source_id: `youtube:XnePb66_Q1s`).
+- [Carta a los gálatas Parte 3 Cap 1:10-11 Iûdaísmo - judaísmo](https://www.youtube.com/watch?v=ttDYqub_tHA) — transcripción de trabajo: `private/transcripts/ericdejes/ttDYqub_tHA.md` (source_id: `youtube:ttDYqub_tHA`).
+- [The Letter to the Galatians Part 4 Ch. 1:13-2:10](https://www.youtube.com/watch?v=K_zLycnKBZo) — transcripción de trabajo: `private/transcripts/ericdejes/K_zLycnKBZo.md` (source_id: `youtube:K_zLycnKBZo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

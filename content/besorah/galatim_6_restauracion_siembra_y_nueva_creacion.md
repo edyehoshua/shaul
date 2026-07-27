@@ -14,6 +14,7 @@ references:
   ]
 sources:
   - "https://www.youtube.com/watch?v=BIR2QHwjUME"
+  - "private/transcripts/ericdejes/BIR2QHwjUME.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids: ["youtube:BIR2QHwjUME"]
 translation: "[Delitzsch]"
@@ -48,5 +49,5 @@ La comunidad que recibe la nueva creación se reconoce por restaurar con humilda
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los gálatas Cap 6 FIN DEL ESTUDIO.](https://www.youtube.com/watch?v=BIR2QHwjUME) (source_id: `youtube:BIR2QHwjUME`).
+- [La carta a los gálatas Cap 6 FIN DEL ESTUDIO.](https://www.youtube.com/watch?v=BIR2QHwjUME) — transcripción de trabajo: `private/transcripts/ericdejes/BIR2QHwjUME.md` (source_id: `youtube:BIR2QHwjUME`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
