@@ -23,7 +23,6 @@ sources:
   - "https://www.youtube.com/watch?v=EgPkylO-TWY"
   - "https://www.youtube.com/watch?v=VqPwZ_Gltn0"
   - "https://www.youtube.com/watch?v=yyvIYg6DmFw"
-
   - "private/transcripts/ericdejes/bYZCWrOSMyM.md"
   - "private/transcripts/ericdejes/eKPZwHFJ6Tg.md"
   - "private/transcripts/ericdejes/6uZpdCuu95M.md"
@@ -55,7 +54,7 @@ Yom Teruah abre el séptimo mes como reposo y convocación santa. La Torah lo ll
 
 ## Alcance de la nota
 
-Los ocho mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah; las sesiones añadidas desarrollan las voces de shofar, el recuerdo de Sinaí y discusiones comunitarias sobre el calendario. Los mensajes de 5783 y 5786 subrayan la conmemoración, cuestionan una cronología escatológica rígida y vuelven a los pasajes de Levítico y Números. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
+Los ocho mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah; las tres sesiones añadidas desarrollan las voces de shofar, el recuerdo de Sinaí y una discusión comunitaria sobre el calendario. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
 
 ## Hoja de comparación
 
@@ -75,7 +74,7 @@ El conversatorio de 2019 insiste en separar lo que identifica como bíblico de d
 
 ## Memoria de Sinaí y términos de sonido
 
-Una de las sesiones enlaza el «memorial de teruah» con #exodus*19_16-19 y lee #psalms_47_6 como paralelismo entre \_teruah* y «voz de shofar». Ambos textos justifican estudiar el campo de imágenes sonoras, pero no resuelven por sí solos una definición técnica única de cada toque ni una cronología escatológica. Los nombres y secuencias de toques usados en la práctica deben presentarse como tradición o propuesta pedagógica hasta que se documenten.
+Una de las sesiones enlaza el «memorial de teruah» con #exodus_19_16-19 y lee #psalms_47_6 como paralelismo entre _teruah_ y «voz de shofar». Ambos textos justifican estudiar el campo de imágenes sonoras, pero no resuelven por sí solos una definición técnica única de cada toque ni una cronología escatológica. Los nombres y secuencias de toques usados en la práctica deben presentarse como tradición o propuesta pedagógica hasta que se documenten.
 
 ## Calendario y decisión comunitaria
 
@@ -99,7 +98,6 @@ Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-
 - [Yom Tru'ah / Rosh Hashanah 5783](https://www.youtube.com/watch?v=bYZCWrOSMyM) — transcripción de trabajo: `private/transcripts/ericdejes/bYZCWrOSMyM.md` (source_id: `youtube:bYZCWrOSMyM`).
 - [Yom tru'ah 5786 - 2025](https://www.youtube.com/watch?v=eKPZwHFJ6Tg) — transcripción de trabajo: `private/transcripts/ericdejes/eKPZwHFJ6Tg.md` (source_id: `youtube:eKPZwHFJ6Tg`).
 - [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).

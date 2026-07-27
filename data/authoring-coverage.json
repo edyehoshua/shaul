@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 657,
-  "pending_videos": 301,
-  "transcript_notes": 273,
+  "covered_videos": 334,
+  "pending_videos": 624,
+  "transcript_notes": 122,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -18,7 +18,7 @@
     },
     "613 Mitzvot": {
       "total": 63,
-      "covered": 63,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Apocalipsis": {
@@ -38,37 +38,37 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 51,
+      "covered": 49,
       "lane": "efesios"
     },
     "Gálatas": {
       "total": 13,
-      "covered": 10,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 12,
-      "lane": "efesios"
+      "covered": 0,
+      "lane": "yojanan"
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 9,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
       "total": 10,
-      "covered": 10,
-      "lane": "efesios"
+      "covered": 0,
+      "lane": "yojanan"
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 10,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
       "total": 9,
-      "covered": 9,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Hebreas de antes": {
@@ -78,7 +78,7 @@
     },
     "Hebreos": {
       "total": 17,
-      "covered": 17,
+      "covered": 0,
       "lane": "efesios"
     },
     "Juan": {
@@ -88,12 +88,12 @@
     },
     "La deidad de Mashiaj": {
       "total": 4,
-      "covered": 4,
-      "lane": "yojanan"
+      "covered": 0,
+      "lane": "colosenses"
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 93,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {
@@ -123,12 +123,12 @@
     },
     "Sobre el Shabat": {
       "total": 4,
-      "covered": 4,
-      "lane": "yojanan"
+      "covered": 0,
+      "lane": "colosenses"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 99,
+      "covered": 16,
       "lane": "yojanan"
     },
     "Uncategorized": {
@@ -138,7 +138,7 @@
     },
     "Yesha’yahu - Isaías": {
       "total": 3,
-      "covered": 3,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Yom hakipurim": {
