@@ -53,7 +53,7 @@ Pésaj guarda la liberación que יהוה obró al sacar a Israel de Mitzráim. 
 
 ## Alcance de la nota
 
-Las nueve clases reúnen preguntas sobre la cronología, el séder, la preparación, Matzot y el cuidado de lo que corresponde a la ofrenda festiva. Las dos sesiones añadidas leen #devarim_16 en conversación con discusiones sobre calendario y aplicación comunitaria. Esta síntesis conserva su llamada a leer con orden los pasajes, pero no trata como resueltas por una sola práctica moderna las discusiones sobre calendarios o costumbres posteriores. Las transcripciones automáticas son una guía de estudio, no citas literales.
+Las nueve clases reúnen preguntas sobre la cronología, el séder, la preparación, Matzot y el uso de la carne de las ofrendas festivas. Dos sesiones de la serie sobre mitzvot vuelven a Devarim 16 y a la lectura de un calendario contemporáneo. Esta síntesis conserva su llamada a leer con orden los pasajes, pero no trata como resueltas por una sola práctica moderna las discusiones sobre calendarios, sacrificios o costumbres posteriores. Las transcripciones automáticas son una guía de estudio, no citas literales.
 
 ## Hoja de comparación
 
