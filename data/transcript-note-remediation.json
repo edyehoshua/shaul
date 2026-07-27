@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 242,
+  "total_notes_requiring_remediation": 241,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -293,12 +293,7 @@
       ],
       "issues": ["under_300_substantive_words"]
     },
-    {
-      "path": "content/besorah/yojanan_18_kidron_huerto_y_arresto.md",
-      "substantive_words": 129,
-      "thematic_sections": ["El lugar y el grupo"],
-      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
-    },
+
     {
       "path": "content/besorah/yojanan_2_senales_celo_y_santuario.md",
       "substantive_words": 220,
