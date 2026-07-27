@@ -1,8 +1,8 @@
 {
   "inventory_videos": 893,
-  "covered_videos": 173,
-  "pending_videos": 720,
-  "transcript_notes": 59,
+  "covered_videos": 219,
+  "pending_videos": 674,
+  "transcript_notes": 78,
   "notes_missing_visible_credits": [
     "content/besorah/tesalonicenses_2_comunidad_trabajo_correccion_paz.md",
     "content/besorah/tesalonicenses_2_juicio_perseverancia_gloria.md",
@@ -45,7 +45,7 @@
     },
     "Apocalipsis": {
       "total": 1,
-      "covered": 0,
+      "covered": 1,
       "lane": "efesios"
     },
     "Colosenses": {
@@ -85,7 +85,7 @@
     },
     "Qohélet - Eclesiastés": {
       "total": 30,
-      "covered": 7,
+      "covered": 25,
       "lane": "efesios"
     },
     "Romanos": {
@@ -100,12 +100,12 @@
     },
     "Shir hashirim completo": {
       "total": 25,
-      "covered": 0,
+      "covered": 25,
       "lane": "efesios"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 90,
-      "covered": 0,
+      "covered": 2,
       "lane": "yojanan"
     },
     "Uncategorized": {
