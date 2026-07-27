@@ -21,3 +21,4 @@ data/transcripts/
 replit.nix
 .vercel
 .env*
+!.env.example
