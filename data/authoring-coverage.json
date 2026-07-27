@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 698,
-  "pending_videos": 260,
+  "covered_videos": 704,
+  "pending_videos": 254,
   "transcript_notes": 313,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -103,7 +103,7 @@
     },
     "Qohélet - Eclesiastés": {
       "total": 30,
-      "covered": 29,
+      "covered": 30,
       "lane": "efesios"
     },
     "Romanos": {
@@ -133,7 +133,7 @@
     },
     "Uncategorized": {
       "total": 168,
-      "covered": 0,
+      "covered": 5,
       "lane": null
     },
     "Yesha’yahu - Isaías": {
