@@ -1,10 +1,27 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 329,
-  "pending_videos": 629,
-  "transcript_notes": 122,
+  "covered_videos": 354,
+  "pending_videos": 604,
+  "transcript_notes": 135,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {
+    "nOvXUecISrQ": [
+      "content/besorah/hebreos_10_ofrenda_acceso_y_fidelidad.md",
+      "content/besorah/hebreos_11_emunah_testimonio_y_esperanza.md"
+    ],
+    "vbJeGh-kmb0": [
+      "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
+      "content/besorah/hebreos_5_sumo_sacerdote_madurez_y_discernimiento.md"
+    ],
+    "0RbDcydhCFE": [
+      "content/besorah/hebreos_5_sumo_sacerdote_madurez_y_discernimiento.md",
+      "content/besorah/hebreos_6_promesa_esperanza_y_perseverancia.md",
+      "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md"
+    ],
+    "RX3-_bvubqo": [
+      "content/besorah/hebreos_8_pacto_mejor_y_servicio_celestial.md",
+      "content/besorah/hebreos_9_santuario_conciencia_y_redencion.md"
+    ],
     "nUq66eB6Iz0": [
       "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
       "content/temas/shavuot_convocacion_primicias_y_promesa.md"
@@ -24,18 +41,6 @@
     "GfuWwbZ34pM": [
       "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
       "content/temas/shavuot_convocacion_primicias_y_promesa.md"
-    ],
-    "pMP3wkV3ya0": [
-      "content/tanaj/yeshayahu_54_pacto_de_shalom_y_restauracion.md",
-      "content/tanaj/yeshayahu_55_buscar_a_yehwh_y_justicia.md"
-    ],
-    "3X9vlwqU5Hg": [
-      "content/temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah.md",
-      "content/temas/pesaj_memoria_liberacion_y_mesa.md"
-    ],
-    "LcEX_H-pdAs": [
-      "content/temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah.md",
-      "content/temas/pesaj_memoria_liberacion_y_mesa.md"
     ]
   },
   "playlists": {
@@ -71,7 +76,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 43,
+      "covered": 51,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -111,7 +116,7 @@
     },
     "Hebreos": {
       "total": 17,
-      "covered": 0,
+      "covered": 17,
       "lane": "efesios"
     },
     "Juan": {
