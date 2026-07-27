@@ -282,16 +282,7 @@
       ],
       "issues": ["under_300_substantive_words"]
     },
-    {
-      "path": "content/besorah/yojanan_6_pan_de_vida_y_palabras_de_vida.md",
-      "substantive_words": 174,
-      "thematic_sections": [
-        "Del pan compartido al pan de vida",
-        "Comer, vida y Rúaj",
-        "«¿También ustedes quieren irse?»"
-      ],
-      "issues": ["under_300_substantive_words"]
-    },
+
 
     {
       "path": "content/besorah/yojanan_8_luz_testimonio_y_abraham.md",
