@@ -64,3 +64,9 @@
 - Coverage refresh: covered_videos=716 / pending=242; notes_missing_visible_credits=[]; duplicate_source_ids={}.
 - Load balance: yojanan 67, colosenses 54, tanaj 50, efesios 43 (all 40–70); haftarot 33→+1 unassigned `youtube:sfGXMp9LYCc` assigned exclusively (only eligible unassigned remaining; no lane >70 to rebalance from).
 - Remediation registry: 5 notes cleared (galatim 1–2, tehilim 13–14, vayikra 25); 214 remain.
+
+## 2026-07-28 — Integrator cron (feat/eric_youtube)
+
+- Remediated `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md` for `youtube:-utycygmrv4`: rebuilt the chapter in textual order, preserved Eric’s concrete historical, lexical, and pastoral observations with qualification, added local Delitzsch comparison text and lexical sheet, and recorded five traceability entries in `Mapa de la enseñanza de Eric`.
+- Validation passed: public Eric credit and unique source ID, no private transcript path or Hebrew slash segmentation, local corpus present, `python3 scripts/check_transcript_note_quality.py` returned `quality_failures=0`; remediation registry reduced from 214 to 213.
+- Coverage refresh remained `716` covered / `242` pending with no duplicate source IDs or missing visible credits. No lane reassignment was made: current pending-source balance still requires preserving exclusive ownership, and no new unassigned coherent group was available for a below-target lane.

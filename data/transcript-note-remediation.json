@@ -1,20 +1,8 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 214,
+  "total_notes_requiring_remediation": 213,
   "notes": [
-    {
-      "path": "content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md",
-      "substantive_words": 167,
-      "thematic_sections": [
-        "Lectura del capítulo"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
     {
       "path": "content/besorah/apocalipsis_15_revelacion_copas_ira_y_justicia.md",
       "substantive_words": 165,
