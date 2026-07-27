@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 78. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                               | Observación de lectura                                               |
 | -------------- | ----------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_78_1  | משכיל ל/אסף האזינ/ה עמ/י תורת/י הטו אזנ/כם ל/אמרי פ/י | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_78_72 | ו/ירע/ם כ/תם לבב/ו ו/ב/תבונות כפי/ו ינח/ם             | El verso final permite observar el cierre de la composición.         |
+| #tehilim_78_1  | משכיל לאסף האזינה עמי תורתי הטו אזנכם לאמרי פי | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_78_72 | וירעם כתם לבבו ובתבונות כפיו ינחם             | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

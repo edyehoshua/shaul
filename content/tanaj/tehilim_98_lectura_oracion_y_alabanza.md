@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 98. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                                | Observación de lectura                                               |
 | ------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_98_1 | מזמור שירו ל/יהוה שיר חדש כי נפלאות עשה הושיעה ל/ו ימינ/ו ו/זרוע קדש/ו | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_98_9 | ל/פני יהוה כי בא ל/שפט ה/ארץ ישפט תבל ב/צדק ו/עמים ב/מישרים            | El verso final permite observar el cierre de la composición.         |
+| #tehilim_98_1 | מזמור שירו ליהוה שיר חדש כי נפלאות עשה הושיעה לו ימינו וזרוע קדשו | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_98_9 | לפני יהוה כי בא לשפט הארץ ישפט תבל בצדק ועמים במישרים            | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

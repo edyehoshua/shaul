@@ -61,10 +61,10 @@ Yojanan 9:39-10:8 une la sanidad del ciego con una denuncia contra la arrogancia
 | #iojanan_10_5 | ואחרי זר לא תלכנה כי תנוסנה מפניו יען קול זרים לא ידעו | Pero detrás de un extraño no irán, sino que huirán de él; porque no conocen la voz de los extraños. | La oveja no solo ignora la voz extraña; huye de ella. |
 | #iojanan_10_7 | ויוסף ישוע וידבר אליהם אמן אמן אני אמר לכם אנכי שער הצאן | Y volvió y les dijo Yeshúa: Amén, amén, Yo les digo, que Yo soy la puerta de las ovejas. | Yeshúa explica el dicho: entrar por la puerta es entrar por Él. |
 | #romanos_10_3 | כי אתצדקת אלהים לא ידעו ויבקשו להקים אתצדקתם ולצדקת אלהים לא נכנעו | Porque, no conociendo la justicia de Elohim y buscando establecer la justicia de ellos mismos, a la justicia de Elohim no son sujetos. | Puente paulino: autojusticia frente a la justicia revelada. |
-| #tehilim_34_8 / #tehilim_34_9 | OE v. 9: טעמו ו/ראו כי טוב יהוה אשרי ה/גבר יחסה ב/ו | TTH v. 8: ¡Saboreen y vean que יהוה es bueno! ¡Feliz el fuerte que se refugia en Él! | Desfase de numeración OE/TTH; la clase usa "ver" como refugio en יהוה, no solo vista física. |
-| #shemot_4_11 | ו/יאמר יהוה אלי/ו מי שם פה ל/אדם או מי ישום אלם או חרש או פקח או עור ה/לא אנכי יהוה | Y le dijo יהוה: ¿Quién puso la boca para el hombre? ¿O quién hace mudo o sordo, o con vista o ciego? ¿No soy Yo, יהוה? | Soberanía sobre vista y ceguera; marco de la señal del ciego. |
-| #ieshaiahu_43_1 | ו/עתה כה אמר יהוה ברא/ך יעקב ו/יצר/ך ישראל אל תירא כי גאלתי/ך קראתי ב/שמ/ך ל/י אתה | Mas ahora, así dijo יהוה tu Creador, Yaakov, | El pastor llama por nombre; imagen pastoral conectada con el redil. |
-| #daniel_9_7 | ל/ך אדנ/י ה/צדקה ו/ל/נו בשת ה/פנים... | — (sin TTH local) | Confesión opuesta a la arrogancia: יהוה tiene la justicia. |
+| #tehilim_34_8 / #tehilim_34_9 | OE v. 9: טעמו וראו כי טוב יהוה אשרי הגבר יחסה בו | TTH v. 8: ¡Saboreen y vean que יהוה es bueno! ¡Feliz el fuerte que se refugia en Él! | Desfase de numeración OE/TTH; la clase usa "ver" como refugio en יהוה, no solo vista física. |
+| #shemot_4_11 | ויאמר יהוה אליו מי שם פה לאדם או מי ישום אלם או חרש או פקח או עור הלא אנכי יהוה | Y le dijo יהוה: ¿Quién puso la boca para el hombre? ¿O quién hace mudo o sordo, o con vista o ciego? ¿No soy Yo, יהוה? | Soberanía sobre vista y ceguera; marco de la señal del ciego. |
+| #ieshaiahu_43_1 | ועתה כה אמר יהוה בראך יעקב ויצרך ישראל אל תירא כי גאלתיך קראתי בשמך לי אתה | Mas ahora, así dijo יהוה tu Creador, Yaakov, | El pastor llama por nombre; imagen pastoral conectada con el redil. |
+| #daniel_9_7 | לך אדני הצדקה ולנו בשת הפנים... | — (sin TTH local) | Confesión opuesta a la arrogancia: יהוה tiene la justicia. |
 
 ## Hoja léxica
 
@@ -95,7 +95,7 @@ La clase conecta #iojanan_9_39 hasta #iojanan_9_41 con #romanos_10_3: "Porque, n
 
 Por eso el lenguaje de Yeshúa se lee como ironía judicial. Si fueran ciegos en el sentido de reconocer incapacidad, no tendrían esa culpa específica; pero al decir "vemos", declaran que no necesitan ser guiados. La señal del ciego sanado se vuelve entonces un juicio contra quienes rechazan la luz mientras sostienen su propia justicia.
 
-La clase también recuerda #tehilim_34_8-9 (OE/TTH con desfase de numeración): **טעמו ו/ראו כי טוב יהוה אשרי ה/גבר יחסה ב/ו**. Ver, en esta línea, no es solo capacidad física; es reconocer la bondad de יהוה y refugiarse en Él.
+La clase también recuerda #tehilim_34_8-9 (OE/TTH con desfase de numeración): **טעמו וראו כי טוב יהוה אשרי הגבר יחסה בו**. Ver, en esta línea, no es solo capacidad física; es reconocer la bondad de יהוה y refugiarse en Él.
 
 ## Justicia de Torah y justicia por fidelidad
 
@@ -103,7 +103,7 @@ La exposición distingue entre la justicia de la Torah y la justicia de Elohim m
 
 En la lectura de #romanos_10_5 hasta #romanos_10_6, la justicia de la Torah dice que el hombre vivirá en lo que hace, mientras que la justicia de la emunah no depende de subir al cielo ni hacer bajar al Mesías. La salvación pertenece a Elohim; las obras deben dar testimonio de Él, no reemplazar su gracia.
 
-Por eso la clase trae #ieshaiahu_64_5 como límite de la autojustificación: **ו/נהי כ/טמא כל/נו ו/כ/בגד עדים כל צדקתי/נו ו/נבל כ/עלה כל/נו ו/עונ/נו כ/רוח ישא/נו**. Aun las justicias humanas quedan insuficientes cuando se presentan como entrada alternativa.
+Por eso la clase trae #ieshaiahu_64_5 como límite de la autojustificación: **ונהי כטמא כלנו וכבגד עדים כל צדקתינו ונבל כעלה כלנו ועוננו כרוח ישאנו**. Aun las justicias humanas quedan insuficientes cuando se presentan como entrada alternativa.
 
 ## Justos, sanos y enfermos
 
@@ -116,9 +116,9 @@ La clase usa #lukas_5_32, #matityahu_9_12 y #matityahu_9_13 para mostrar el mism
 
 ## El que da vista y el que llama por nombre
 
-#shemot_4_11 fija el marco de soberanía: **ו/יאמר יהוה אלי/ו מי שם פה ל/אדם או מי ישום אלם או חרש או פקח או עור ה/לא אנכי יהוה**. La clase lo relaciona con la señal del ciego: יהוה es quien da boca, oído y vista; por eso también puede exponer la ceguera espiritual.
+#shemot_4_11 fija el marco de soberanía: **ויאמר יהוה אליו מי שם פה לאדם או מי ישום אלם או חרש או פקח או עור הלא אנכי יהוה**. La clase lo relaciona con la señal del ciego: יהוה es quien da boca, oído y vista; por eso también puede exponer la ceguera espiritual.
 
-La imagen pastoral se conecta con #ieshaiahu_43_1: **ו/עתה כה אמר יהוה ברא/ך יעקב ו/יצר/ך ישראל אל תירא כי גאלתי/ך קראתי ב/שמ/ך ל/י אתה**. El pastor no trata a sus ovejas como masa anónima: las llama por nombre, ellas conocen su voz y huyen del extraño.
+La imagen pastoral se conecta con #ieshaiahu_43_1: **ועתה כה אמר יהוה בראך יעקב ויצרך ישראל אל תירא כי גאלתיך קראתי בשמך לי אתה**. El pastor no trata a sus ovejas como masa anónima: las llama por nombre, ellas conocen su voz y huyen del extraño.
 
 ## La puerta y el extraño
 
@@ -128,7 +128,7 @@ La conclusión práctica de la clase es que las ovejas deben aprender a huir de 
 
 ## Confesión contra arrogancia
 
-Daniel ofrece la respuesta opuesta a la arrogancia: #daniel_9_7 dice **ל/ך אדנ/י ה/צדקה ו/ל/נו בשת ה/פנים**, y #daniel_9_10 añade **ו/לא שמענו ב/קול יהוה אלהי/נו ל/לכת ב/תורתי/ו**. La clase propone esta confesión como reacción correcta ante pecado, reprensión o adversidad: יהוה tiene la justicia; nuestra parte es reconocer la confusión del rostro.
+Daniel ofrece la respuesta opuesta a la arrogancia: #daniel_9_7 dice **לך אדני הצדקה ולנו בשת הפנים**, y #daniel_9_10 añade **ולא שמענו בקול יהוה אלהינו ללכת בתורתיו**. La clase propone esta confesión como reacción correcta ante pecado, reprensión o adversidad: יהוה tiene la justicia; nuestra parte es reconocer la confusión del rostro.
 
 Esa confesión también protege contra usar mandamientos como mérito propio. Obedecer debe dar gloria a Elohim: si se guarda Shabat, si se distingue alimento, si se habla o actúa conforme a mandamiento, el testimonio es que el Elohim vivo interviene en la vida cotidiana.
 

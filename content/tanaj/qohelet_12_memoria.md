@@ -32,10 +32,10 @@ Qohélet 12 considera la fragilidad de la vida, la enseñanza sabia, el temor de
 
 | Referencia          | Texto local (OE, sin nikud)                                                                         | Observación                                    |
 | ------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_12_1  | **ו/זכר את בוראי/ך ב/ימי בחורתי/ך עד אשר לא יבאו ימי ה/רעה ו/הגיעו שנים אשר תאמר אין ל/י ב/הם חפץ** | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_12_7  | **ו/ישב ה/עפר על ה/ארץ כ/ש/היה ו/ה/רוח תשוב אל ה/אלהים אשר נתנ/ה**                                  | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_12_13 | **סוף דבר ה/כל נשמע את ה/אלהים ירא ו/את מצותי/ו שמור כי זה כל ה/אדם**                               | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_12_14 | **כי את כל מעשה ה/אלהים יבא ב/משפט על כל נעלם אם טוב ו/אם רע**                                      | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_12_1  | **וזכר את בוראיך בימי בחורתיך עד אשר לא יבאו ימי הרעה והגיעו שנים אשר תאמר אין לי בהם חפץ** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_12_7  | **וישב העפר על הארץ כשהיה והרוח תשוב אל האלהים אשר נתנה**                                  | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_12_13 | **סוף דבר הכל נשמע את האלהים ירא ואת מצותיו שמור כי זה כל האדם**                               | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_12_14 | **כי את כל מעשה האלהים יבא במשפט על כל נעלם אם טוב ואם רע**                                      | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

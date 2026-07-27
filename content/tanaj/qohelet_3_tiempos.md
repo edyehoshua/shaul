@@ -32,8 +32,8 @@ Qohélet 3 considera los tiempos humanos, la obra perdurable de Elohim y el gozo
 
 | Referencia         | Texto local (OE, sin nikud)                                                                           | Observación                                    |
 | ------------------ | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_3_1  | **ל/כל זמן ו/עת ל/כל חפץ תחת ה/שמים**                                                                 | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_3_22 | **ו/ראיתי כי אין טוב מ/אשר ישמח ה/אדם ב/מעשי/ו כי הוא חלק/ו כי מי יביא/נו ל/ראות ב/מה ש/יהיה אחרי/ו** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_3_1  | **לכל זמן ועת לכל חפץ תחת השמים**                                                                 | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_3_22 | **וראיתי כי אין טוב מאשר ישמח האדם במעשיו כי הוא חלקו כי מי יביאנו לראות במה שיהיה אחריו** | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

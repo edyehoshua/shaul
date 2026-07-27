@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 99. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                     | Observación de lectura                                               |
 | ------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_99_1 | יהוה מלך ירגזו עמים ישב כרובים תנוט ה/ארץ                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_99_9 | רוממו יהוה אלהי/נו ו/השתחוו ל/הר קדש/ו כי קדוש יהוה אלהי/נו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_99_1 | יהוה מלך ירגזו עמים ישב כרובים תנוט הארץ                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_99_9 | רוממו יהוה אלהינו והשתחוו להר קדשו כי קדוש יהוה אלהינו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

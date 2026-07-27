@@ -62,10 +62,10 @@ La respuesta propuesta es distinguir entre adam como designación amplia de una 
 
 | Referencia             | Hebreo (sin nikud)                                              | TTH (ES)                                                        | Función en la enseñanza                              |
 | ---------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------- |
-| #bereshit_1_26         | ו/יאמר אלהים נעשה אדם ב/צלמ/נו כ/דמות/נו…                       | Y dijo Elohim: Haremos al hombre en nuestra imagen…             | Adam como categoría previa a la caída.               |
-| #bereshit_1_27         | ו/יברא אלהים את ה/אדם ב/צלמ/ו… זכר ו/נקבה ברא את/ם              | Y creó Elohim al hombre en su imagen… varón y hembra los creó.  | Entidad viviente distinta de los animales.           |
-| #bereshit_2_7          | ו/ייצר יהוה אלהים את ה/אדם עפר מן ה/אדמה… ו/יהי ה/אדם ל/נפש חיה | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente.                |
-| #bereshit_2_16         | ו/יצו יהוה אלהים על ה/אדם ל/אמר מ/כל עץ ה/גן אכל תאכל           | Y ordenó יהוה Elohim al hombre…                                 | Lectura de «este adam» por el artículo.              |
+| #bereshit_1_26         | ויאמר אלהים נעשה אדם בצלמנו כדמותנו…                       | Y dijo Elohim: Haremos al hombre en nuestra imagen…             | Adam como categoría previa a la caída.               |
+| #bereshit_1_27         | ויברא אלהים את האדם בצלמו… זכר ונקבה ברא אתם              | Y creó Elohim al hombre en su imagen… varón y hembra los creó.  | Entidad viviente distinta de los animales.           |
+| #bereshit_2_7          | וייצר יהוה אלהים את האדם עפר מן האדמה… ויהי האדם לנפש חיה | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente.                |
+| #bereshit_2_16         | ויצו יהוה אלהים על האדם לאמר מכל עץ הגן אכל תאכל           | Y ordenó יהוה Elohim al hombre…                                 | Lectura de «este adam» por el artículo.              |
 | #qorintiyim_alef_15_44 | יזרע גוף נפשי ויקום גוף רוחני…                                  | TTH no disponible en corpus local                               | Cuerpo psychikon y pneumatikon.                      |
 | #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה     | TTH no disponible en corpus local                               | Primer Adam y postrer Adam.                          |
 | #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים      | TTH no disponible en corpus local                               | Origen terrenal y celestial.                         |

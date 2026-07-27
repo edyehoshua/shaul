@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 41. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                             | Observación de lectura                                               |
 | -------------- | --------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_41_1  | ל/מנצח מזמור ל/דוד                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_41_14 | ברוך יהוה אלהי ישראל מ/ה/עולם ו/עד ה/עולם אמן ו/אמן | El verso final permite observar el cierre de la composición.         |
+| #tehilim_41_1  | למנצח מזמור לדוד                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_41_14 | ברוך יהוה אלהי ישראל מהעולם ועד העולם אמן ואמן | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

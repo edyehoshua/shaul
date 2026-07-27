@@ -22,7 +22,7 @@ La clase sitúa la visión del templo de Ezequiel en el marco de la deportación
 
 | Referencia      | Hebreo local                                         | TTH (ES)                                                                                          | Observación                                                   |
 | --------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| #iejezkel_44_15 | `ו/ה/כהנים ה/לוים בני צדוק אשר שמרו את משמרת מקדש/י` | «Los sacerdotes, los leviím hijos de Tzadok, los cuales han guardado la guardia de mi santuario». | La cercanía para servir está vinculada a guardar la custodia. |
+| #iejezkel_44_15 | `והכהנים הלוים בני צדוק אשר שמרו את משמרת מקדשי` | «Los sacerdotes, los leviím hijos de Tzadok, los cuales han guardado la guardia de mi santuario». | La cercanía para servir está vinculada a guardar la custodia. |
 
 ## El kavod y la responsabilidad
 

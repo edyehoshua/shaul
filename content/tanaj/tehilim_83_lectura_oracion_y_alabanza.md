@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 83. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                          | Observación de lectura                                               |
 | -------------- | ------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_83_1  | שיר מזמור ל/אסף                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_83_19 | ו/ידעו כי אתה שמ/ך יהוה ל/בד/ך עליון על כל ה/ארץ | El verso final permite observar el cierre de la composición.         |
+| #tehilim_83_1  | שיר מזמור לאסף                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_83_19 | וידעו כי אתה שמך יהוה לבדך עליון על כל הארץ | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

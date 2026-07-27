@@ -19,7 +19,7 @@ source_ids:
 
 | Referencia        | Texto hebreo local                                                                 | Observación                              |
 | ----------------- | ---------------------------------------------------------------------------------- | ---------------------------------------- |
-| #melajim_alef_5_5 | ו/ישב יהודה ו/ישראל ל/בטח איש תחת גפנ/ו ו/תחת תאנת/ו מ/דן ו/עד באר שבע כל ימי שלמה | La imagen expresa seguridad en el reino. |
+| #melajim_alef_5_5 | וישב יהודה וישראל לבטח איש תחת גפנו ותחת תאנתו מדן ועד באר שבע כל ימי שלמה | La imagen expresa seguridad en el reino. |
 
 ## Lectura
 

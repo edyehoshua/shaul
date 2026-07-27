@@ -61,7 +61,7 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 | #lukas_1_68 | ברוך יהוה אלהי ישראל כי פקד אתעמו וישלח לו פדות | Bendito es יהוה, Elohim de Israel, porque visitó e hizo redención a su pueblo | Conecta "a lo suyo vino" con promesas juradas a Avraham. |
 | #ephesians_2_1 | גםאתכם אשר מתים הייתם בפשעיכם וחטאתיכם | TTH no disponible en corpus local | Apoyo al eje: muerte previa y vida recibida. |
 | #ephesians_2_8 | כיבחסד נושעתם עלידי האמונה ולא מידכם היתה זאת כימתת אלהים היא | TTH no disponible en corpus local | Salvación por gracia, no por obra humana. |
-| #tehilim_22_2 | אל/י אל/י ל/מה עזבת/ני רחוק מ/ישועת/י דברי שאגת/י | Elohim mío, llamo de día y no respondes; y de noche, pero no hay para mí quietud. | La clase propone revisar traducción y función de cita en el madero. |
+| #tehilim_22_2 | אלי אלי למה עזבתני רחוק מישועתי דברי שאגתי | Elohim mío, llamo de día y no respondes; y de noche, pero no hay para mí quietud. | La clase propone revisar traducción y función de cita en el madero. |
 
 ## Hoja léxica
 

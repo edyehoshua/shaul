@@ -44,7 +44,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                           | Observación                                                                                                                         |
 | ------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_8_1 | **מי יתנ/ך כ/אח ל/י יונק שדי אמ/י אמצא/ך ב/חוץ אשק/ך גם לא יבוזו ל/י** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #songofsolomon_8_1 | **מי יתנך כאח לי יונק שדי אמי אמצאך בחוץ אשקך גם לא יבוזו לי** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

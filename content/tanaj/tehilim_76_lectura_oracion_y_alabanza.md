@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 76. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)         | Observación de lectura                                               |
 | -------------- | ------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_76_1  | ל/מנצח ב/נגינת מזמור ל/אסף שיר  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_76_13 | יבצר רוח נגידים נורא ל/מלכי ארץ | El verso final permite observar el cierre de la composición.         |
+| #tehilim_76_1  | למנצח בנגינת מזמור לאסף שיר  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_76_13 | יבצר רוח נגידים נורא למלכי ארץ | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

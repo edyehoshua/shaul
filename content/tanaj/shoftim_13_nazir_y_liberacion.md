@@ -20,7 +20,7 @@ source_ids: ["youtube:Ax1RiJiDaHY"]
 
 | Referencia    | Hebreo local                                                   | TTH (ES)                                                                            |
 | ------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #shoftim_13_5 | `כי נזיר אלהים יהיה ה/נער מן ה/בטן ו/הוא יחל ל/הושיע את ישראל` | «Nazir de Elohim será el joven desde el vientre; y él comenzará a salvar a Israel». |
+| #shoftim_13_5 | `כי נזיר אלהים יהיה הנער מן הבטן והוא יחל להושיע את ישראל` | «Nazir de Elohim será el joven desde el vientre; y él comenzará a salvar a Israel». |
 
 ## Lectura
 

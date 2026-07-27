@@ -74,14 +74,14 @@ Desde esa amplitud, Yeshúa responde con #tehilim_82_6: si la Escritura llamó `
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #tehilim_82_1 | מזמור ל/אסף אלהים נצב ב/עדת אל ב/קרב אלהים ישפט | Elohim toma su posición en la congregación de El; en medio de los jueces (heb.: elohim) juzga. | `elohim` como jueces en contexto de tribunal. |
-| #tehilim_82_6 | אני אמרתי אלהים אתם ו/בני עליון כל/כם | Yo dije: Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón todos ustedes. | Cita directa usada por Yeshúa en #iojanan_10_34. |
-| #tehilim_82_7 | אכן כ/אדם תמותו/ן ו/כ/אחד ה/שרים תפלו | Sin embargo, como Adam morirán, y como uno de los príncipes caerán. | Los jueces llamados `elohim` siguen siendo mortales. |
-| #bereshit_3_24 | ו/יגרש את ה/אדם ו/ישכן מ/קדם ל/גן עדן את ה/כרבים ו/את להט ה/חרב ה/מתהפכת ל/שמר את דרך עץ ה/חיים | Y expulsó al hombre; e hizo habitar desde el este del jardín de Éden a los querubines... | La clase lee `garash` con valor tipológico de repudio; pendiente de cotejo léxico. |
-| #tehilim_40_6 | זבח ו/מנחה לא חפצת אזנים כרית ל/י עולה ו/חטאה לא שאלת | Sacrificio y ofrenda de grano no has deseado; los oídos me abriste... | Numeración TTH/OE: el contenido sacrificatorio corresponde al hebreo de Salmo 40:7 MT. |
-| #tehilim_40_8 | ל/עשות רצונ/ך אלה/י חפצתי ו/תורת/ך ב/תוך מע/י | En hacer tu voluntad, Elohim mío, me deleito, y tu Torah está dentro de mis entrañas. | יהוה cumple su propia sentencia; no delega a un inferior. |
-| #devarim_32_39 | ראו עתה כי אני אני הוא ו/אין אלהים עמ/די אני אמית ו/אחיה מחצתי ו/אני ארפא ו/אין מ/יד/י מציל | Yo hago morir y hago vivir... no hay quien de mi mano pueda salvar. | יהוה no delega plenitud de amor y juicio a una criatura. |
-| #bereshit_48_16 | ה/מלאך ה/גאל את/י מ/כל רע יברך את ה/נערים... | el mensajero que me ha redimido de todo mal, bendiga a los jóvenes... | `malaj` redentor: manifestación enviada, no encarnación previa del Mesías. |
+| #tehilim_82_1 | מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט | Elohim toma su posición en la congregación de El; en medio de los jueces (heb.: elohim) juzga. | `elohim` como jueces en contexto de tribunal. |
+| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם | Yo dije: Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón todos ustedes. | Cita directa usada por Yeshúa en #iojanan_10_34. |
+| #tehilim_82_7 | אכן כאדם תמותון וכאחד השרים תפלו | Sin embargo, como Adam morirán, y como uno de los príncipes caerán. | Los jueces llamados `elohim` siguen siendo mortales. |
+| #bereshit_3_24 | ויגרש את האדם וישכן מקדם לגן עדן את הכרבים ואת להט החרב המתהפכת לשמר את דרך עץ החיים | Y expulsó al hombre; e hizo habitar desde el este del jardín de Éden a los querubines... | La clase lee `garash` con valor tipológico de repudio; pendiente de cotejo léxico. |
+| #tehilim_40_6 | זבח ומנחה לא חפצת אזנים כרית לי עולה וחטאה לא שאלת | Sacrificio y ofrenda de grano no has deseado; los oídos me abriste... | Numeración TTH/OE: el contenido sacrificatorio corresponde al hebreo de Salmo 40:7 MT. |
+| #tehilim_40_8 | לעשות רצונך אלהי חפצתי ותורתך בתוך מעי | En hacer tu voluntad, Elohim mío, me deleito, y tu Torah está dentro de mis entrañas. | יהוה cumple su propia sentencia; no delega a un inferior. |
+| #devarim_32_39 | ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא ואין מידי מציל | Yo hago morir y hago vivir... no hay quien de mi mano pueda salvar. | יהוה no delega plenitud de amor y juicio a una criatura. |
+| #bereshit_48_16 | המלאך הגאל אתי מכל רע יברך את הנערים... | el mensajero que me ha redimido de todo mal, bendiga a los jóvenes... | `malaj` redentor: manifestación enviada, no encarnación previa del Mesías. |
 | #lukas_1_17 | והוא ילך לפניו ברוח אליהו ובגבורתו להשיב לב אבות עלבנים... (Delitzsch) | Y él andará delante de Él en el rúaj y poder de Eliyáhu... | Iojanán como enviado profético que prepara pueblo para יהוה. |
 | #sodot_5_1 | וארא בימין הישב עלהכסא ספר כתוב פנים ואחור וחתום בשבעה חתמות (Delitzsch) | Y vi en la mano derecha del que estaba sentado sobre el trono un rollo escrito... | Nadie digno de abrir el rollo. |
 | #sodot_5_5 | ויאמר אלי אחד מןהזקנים אלתבכה הנה נצח האריה אשר הוא משבט יהודה שרש דוד... (Delitzsch) | ha vencido el león de la tribu de Iehudáh, la Raíz de David, para abrir el rollo... | El Cordero inmolado asume el juicio que nadie creado podía abrir. |

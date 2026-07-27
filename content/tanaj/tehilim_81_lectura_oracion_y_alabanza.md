@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 81. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                  | Observación de lectura                                               |
 | -------------- | ---------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_81_1  | ל/מנצח על ה/גתית ל/אסף                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_81_17 | ו/יאכיל/הו מ/חלב חטה ו/מ/צור דבש אשביע/ך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_81_1  | למנצח על הגתית לאסף                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_81_17 | ויאכילהו מחלב חטה ומצור דבש אשביעך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

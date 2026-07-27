@@ -224,7 +224,7 @@ La clase enlaza esta lógica con Yaakov: las obras no compran salvación, pero u
 
 | Referencia | Delitzsch / OE | Lectura |
 | --- | --- | --- |
-| #yoel_2_22 | אל תיראו בהמות שדי כי דשאו נאות מדבר כי עץ נשא פרי/ו תאנה ו/גפן נתנו חיל/ם (OE) | El fruto viene en su tiempo; imagen usada para santificación sin medición competitiva |
+| #yoel_2_22 | אל תיראו בהמות שדי כי דשאו נאות מדבר כי עץ נשא פריו תאנה וגפן נתנו חילם (OE) | El fruto viene en su tiempo; imagen usada para santificación sin medición competitiva |
 | #yaakov_2_17 | כָּכָה גַּם־הָאֱמוּנָה אִם־אֵין בָּהּ מַעֲשִׂים מֵתָה הִיא בְּעַצְמָהּ | Emunah sin obras queda muerta en sí misma |
 | #yaakov_2_18 | וְאִם־יׂאמַר אִישׁ אַתָּה אֱמוּנָה בְךָ וְלִי מַעֲשִׂים... | Las obras muestran la emunah, no la fabrican como mérito |
 | #yaakov_2_22 | הִנְּךָ רׂאֶה כִּי־הָאֱמוּנָה עׂזֶרֶת לְמַעֲשָׂיו וּמִתּוֹךְ הַמַּעֲשִׂים הָשְׁלְמָה הָאֱמוּנָה | Obras y emunah operan juntas; la emunah se completa en la práctica |
@@ -261,8 +261,8 @@ La clase usa #iojanan_11_52 contra la idea de dos pueblos separados, uno judío 
 
 | Referencia | Hebreo (OE, sin nikud) | Función en la clase |
 | --- | --- | --- |
-| #shemot_12_49 | תורה אחת יהיה ל/אזרח ו/ל/גר ה/גר ב/תוכ/כם | Una misma Torah para natural y extranjero residente |
-| #bamidbar_15_16 | תורה אחת ו/משפט אחד יהיה ל/כם ו/ל/גר ה/גר את/כם | Una Torah y un juicio para el pueblo y el injertado |
+| #shemot_12_49 | תורה אחת יהיה לאזרח ולגר הגר בתוככם | Una misma Torah para natural y extranjero residente |
+| #bamidbar_15_16 | תורה אחת ומשפט אחד יהיה לכם ולגר הגר אתכם | Una Torah y un juicio para el pueblo y el injertado |
 
 La observancia no se presenta como condición para ser reunido, sino como forma coherente de vivir después de haber sido unido a la raíz. El problema que la clase confronta es usar «eso era para los judíos» como excusa para autoexcluirse de la instrucción de יהוה.
 

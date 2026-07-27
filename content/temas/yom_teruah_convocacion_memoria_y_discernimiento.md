@@ -52,11 +52,11 @@ Los ocho mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a
 
 | Referencia        | Texto local                                                                                  | Observación                                                                      |
 | ----------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| #leviticus_23_24  | **ב/חדש ה/שביעי ב/אחד ל/חדש יהיה ל/כם שבתון זכרון תרועה מקרא קדש**                           | El primer día del mes séptimo es reposo, memorial de teruah y convocación santa. |
-| #numbers_29_1     | **ו/ב/חדש ה/שביעי ב/אחד ל/חדש מקרא קדש יהיה ל/כם כל מלאכת עבדה לא תעשו יום תרועה יהיה ל/כם** | Números añade la abstención de trabajo servil.                                   |
-| #leviticus_25_9   | **ו/העברת שופר תרועה ב/חדש ה/שבעי ב/עשור ל/חדש ב/יום ה/כפרים תעבירו שופר ב/כל ארצ/כם**       | El toque del shofar también aparece en el marco del jubileo y Yom haKippurim.    |
-| #exodus_19_16, 19 | **ו/קל שפר חזק מאד... ו/יהי קול ה/שופר הולך ו/חזק מאד**                                      | Sinaí describe una voz de shofar fuerte en el encuentro del pueblo con יהוה.     |
-| #psalms_47_6      | **עלה אלהים ב/תרועה יהוה ב/קול שופר**                                                        | El salmo pone _teruah_ y «voz de shofar» en paralelismo poético.                 |
+| #leviticus_23_24  | **בחדש השביעי באחד לחדש יהיה לכם שבתון זכרון תרועה מקרא קדש**                           | El primer día del mes séptimo es reposo, memorial de teruah y convocación santa. |
+| #numbers_29_1     | **ובחדש השביעי באחד לחדש מקרא קדש יהיה לכם כל מלאכת עבדה לא תעשו יום תרועה יהיה לכם** | Números añade la abstención de trabajo servil.                                   |
+| #leviticus_25_9   | **והעברת שופר תרועה בחדש השבעי בעשור לחדש ביום הכפרים תעבירו שופר בכל ארצכם**       | El toque del shofar también aparece en el marco del jubileo y Yom haKippurim.    |
+| #exodus_19_16, 19 | **וקל שפר חזק מאד... ויהי קול השופר הולך וחזק מאד**                                      | Sinaí describe una voz de shofar fuerte en el encuentro del pueblo con יהוה.     |
+| #psalms_47_6      | **עלה אלהים בתרועה יהוה בקול שופר**                                                        | El salmo pone _teruah_ y «voz de shofar» en paralelismo poético.                 |
 
 ## El sonido y su contexto
 

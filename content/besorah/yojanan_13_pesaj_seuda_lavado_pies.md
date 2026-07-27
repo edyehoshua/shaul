@@ -81,16 +81,16 @@ Desde esa escena, el texto junta tres líneas: Yeshúa ama a los suyos hasta el 
 | #matityahu_26_17 | TTH: Y en el primer día de la fiesta de los panes sin levadura, se acercaron los discípulos a Yeshúa diciendo: ¿Dónde prepararemos para ti la comida del Pésaj? | La clase lo lee en relación con el día de preparación, no como contradicción cronológica.         |
 | #markos_14_12    | TTH: Y en el primer día de Matzot, cuando sacrificaban el Pésaj, le dijeron sus discípulos: ¿Dónde quieres que vayamos y preparemos para que comas el Pésaj?    | Marcos aclara que se trata del tiempo en que se sacrificaba el Pesaj.                             |
 | #lukas_22_7      | TTH: Y vino el día de Matzot, en el que era necesario sacrificar el Pésaj.                                                                                      | El sacrificio del cordero ubica la discusión en el día 14, antes del comienzo pleno de la fiesta. |
-| #shemot_12_13    | ו/היה ה/דם ל/כם ל/את על ה/בתים אשר אתם שם ו/ראיתי את ה/דם ו/פסחתי על/כם ו/לא יהיה ב/כם נגף ל/משחית ב/הכת/י ב/ארץ מצרים                                          | Pesaj está atado a sangre, juicio y rescate.                                                      |
-| #shemot_12_15    | שבעת ימים מצות תאכלו אך ב/יום ה/ראשון תשביתו שאר מ/בתי/כם כי כל אכל חמץ ו/נכרתה ה/נפש ה/הוא מ/ישראל מ/יום ה/ראשן עד יום ה/שבעי                                  | La eliminación de levadura enmarca por qué la clase insiste en pan sin levadura.                  |
+| #shemot_12_13    | והיה הדם לכם לאת על הבתים אשר אתם שם וראיתי את הדם ופסחתי עלכם ולא יהיה בכם נגף למשחית בהכתי בארץ מצרים                                          | Pesaj está atado a sangre, juicio y rescate.                                                      |
+| #shemot_12_15    | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשן עד יום השבעי                                  | La eliminación de levadura enmarca por qué la clase insiste en pan sin levadura.                  |
 
 ### Lavado de pies en la Torah
 
 | Referencia      | Hebreo (sin nikud)                                                                                      | Función en la clase                                                                                |
 | --------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| #bereshit_18_4  | יקח נא מעט מים ו/רחצו רגלי/כם ו/השענו תחת ה/עץ                                                          | Avraham ofrece lavar los pies a los visitantes; la clase lo menciona como antecedente narrativo.   |
-| #bereshit_24_32 | ו/יבא ה/איש ה/בית/ה ו/יפתח ה/גמלים ו/יתן תבן ו/מספוא ל/גמלים ו/מים ל/רחץ רגלי/ו ו/רגלי ה/אנשים אשר את/ו | El siervo de Avraham recibe agua para sus pies al cumplir la misión de buscar esposa para Yitzjaq. |
-| #bereshit_22_14 | ו/יקרא אברהם שם ה/מקום ה/הוא יהוה יראה אשר יאמר ה/יום ב/הר יהוה יראה                                    | La clase lo conecta con el Cordero provisto por יהוה y con #iojanan_8_56.                          |
+| #bereshit_18_4  | יקח נא מעט מים ורחצו רגליכם והשענו תחת העץ                                                          | Avraham ofrece lavar los pies a los visitantes; la clase lo menciona como antecedente narrativo.   |
+| #bereshit_24_32 | ויבא האיש הביתה ויפתח הגמלים ויתן תבן ומספוא לגמלים ומים לרחץ רגליו ורגלי האנשים אשר אתו | El siervo de Avraham recibe agua para sus pies al cumplir la misión de buscar esposa para Yitzjaq. |
+| #bereshit_22_14 | ויקרא אברהם שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה                                    | La clase lo conecta con el Cordero provisto por יהוה y con #iojanan_8_56.                          |
 
 ## Hoja léxica
 
@@ -137,7 +137,7 @@ Ese amor no termina porque Yeshúa salga de este mundo. Al contrario, su salida 
 
 #iojanan_13_3 es el eje doctrinal de la clase. El texto dice que todas las cosas fueron puestas en sus manos, que de Elohim salió y que a יהוה iba. La clase rechaza leer esto como si Yeshúa fuera un delegado separado que sale de un Dios distante y vuelve hacia otro centro superior.
 
-En la lógica de la clase, Elohim nombra el amor manifestado en la obra de redención, y Abba/יהוה apunta a la plenitud de gloria, honra y majestad a la que el Mesías vuelve después de la humillación. No es un viaje entre dos seres rivales, sino el descenso y retorno del mismo יהוה que se despojó, vino en forma de siervo, cumplió lo prometido y retoma el peso de honra que tenía desde el principio.
+En la lógica de la clase, Elohim nombra el amor manifestado en la obra de redención, y Abba — יהוה apunta a la plenitud de gloria, honra y majestad a la que el Mesías vuelve después de la humillación. No es un viaje entre dos seres rivales, sino el descenso y retorno del mismo יהוה que se despojó, vino en forma de siervo, cumplió lo prometido y retoma el peso de honra que tenía desde el principio.
 
 Por eso #iojanan_3_16 se vuelve central: Elohim amó al mundo y dio a su Hijo único. La clase entiende que ese don no puede ser un tercero desconectado del amor de Elohim. Si יהוה prometió amor eterno, la concreción de ese amor debía ser él mismo viniendo a salvar, no un sustituto menor que cargara la gloria en su lugar.
 

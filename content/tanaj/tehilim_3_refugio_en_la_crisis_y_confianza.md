@@ -40,11 +40,11 @@ El encabezado local sitúa el poema «cuando [David] huía ante Abshalom su hijo
 
 | Referencia     | Texto local                                                                                         | Observación                                                                                     |
 | -------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| #tehilim_3_1   | מזמור ל/דוד ב/ברח/ו מ/פני אבשלום בנ/ו                                                               | El encabezado vincula el salmo con la huida de David ante Abshalom.                             |
-| #tehilim_3_2-3 | יהוה מה רבו צר/י רבים קמים על/י; רבים אמרים ל/נפש/י אין ישועת/ה ל/ו ב/אלהים סלה                     | La aflicción incluye opositores numerosos y una palabra de desesperanza contra David.           |
-| #tehilim_3_4-5 | ו/אתה יהוה מגן בעד/י כבוד/י ו/מרים ראש/י; קול/י אל יהוה אקרא ו/יענ/ני מ/הר קדש/ו סלה                | Al discurso de los adversarios responde la confesión: יהוה protege, honra y escucha.            |
-| #tehilim_3_6-7 | אני שכבתי ו/אישנ/ה הקיצותי כי יהוה יסמכ/ני; לא אירא מ/רבבות עם אשר סביב שתו על/י                    | El descanso y el despertar se atribuyen al sostén de יהוה, incluso frente a una multitud.       |
-| #tehilim_3_8-9 | קומ/ה יהוה הושיע/ני אלה/י כי הכית את כל איב/י לחי שני רשעים שברת; ל/יהוה ה/ישועה על עמ/ך ברכת/ך סלה | El ruego pide salvación y termina declarando que la salvación y la bendición pertenecen a יהוה. |
+| #tehilim_3_1   | מזמור לדוד בברחו מפני אבשלום בנו                                                               | El encabezado vincula el salmo con la huida de David ante Abshalom.                             |
+| #tehilim_3_2-3 | יהוה מה רבו צרי רבים קמים עלי; רבים אמרים לנפשי אין ישועתה לו באלהים סלה                     | La aflicción incluye opositores numerosos y una palabra de desesperanza contra David.           |
+| #tehilim_3_4-5 | ואתה יהוה מגן בעדי כבודי ומרים ראשי; קולי אל יהוה אקרא ויענני מהר קדשו סלה                | Al discurso de los adversarios responde la confesión: יהוה protege, honra y escucha.            |
+| #tehilim_3_6-7 | אני שכבתי ואישנה הקיצותי כי יהוה יסמכני; לא אירא מרבבות עם אשר סביב שתו עלי                    | El descanso y el despertar se atribuyen al sostén de יהוה, incluso frente a una multitud.       |
+| #tehilim_3_8-9 | קומה יהוה הושיעני אלהי כי הכית את כל איבי לחי שני רשעים שברת; ליהוה הישועה על עמך ברכתך סלה | El ruego pide salvación y termina declarando que la salvación y la bendición pertenecen a יהוה. |
 
 ## Muchas voces contra una confesión
 

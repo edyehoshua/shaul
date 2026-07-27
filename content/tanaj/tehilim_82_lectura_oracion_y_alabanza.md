@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 82. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                         | Observación de lectura                                               |
 | ------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_82_1 | מזמור ל/אסף אלהים נצב ב/עדת אל ב/קרב אלהים ישפט | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_82_8 | קומ/ה אלהים שפט/ה ה/ארץ כי אתה תנחל ב/כל ה/גוים | El verso final permite observar el cierre de la composición.         |
+| #tehilim_82_1 | מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_82_8 | קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

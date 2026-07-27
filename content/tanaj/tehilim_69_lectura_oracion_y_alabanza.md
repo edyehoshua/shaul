@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 69. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                    | Observación de lectura                                               |
 | -------------- | ------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_69_1  | ל/מנצח על שושנים ל/דוד                     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_69_37 | ו/זרע עבדי/ו ינחלו/ה ו/אהבי שמ/ו ישכנו ב/ה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_69_1  | למנצח על שושנים לדוד                     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_69_37 | וזרע עבדיו ינחלוה ואהבי שמו ישכנו בה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

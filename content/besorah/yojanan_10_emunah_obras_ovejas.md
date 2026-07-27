@@ -70,8 +70,8 @@ Por eso Yeshúa responde: "les dije, pero no se afirman" (#iojanan_10_25). Las o
 | #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי | Y si no hago las obras de mi Padre, no se afirmen por Mí. | Yeshúa permite evaluar su identidad por las obras prometidas. |
 | #iojanan_10_38 | ואםעשיתים... כי האב בי ואני באב | afírmense por las obras... porque mi Padre es en Mí, y Yo en Él. | Aun si su apariencia humana escandaliza, las obras deben llevar al reconocimiento. |
 | #romanos_10_17 | אםכן האמונה באה מתוך השמועה והשמועה עלידי דברהמשיח | la emunah proviene del oír, y el oír por medio de la Palabra del Mesías. | Emunah ligada a oír la promesa, no a sugestión psicológica. |
-| #tehilim_82_6 | אני אמרתי אלהים אתם ו/בני עליון כל/כם | Yo dije: Ustedes son elohim... e hijos de Elyón todos ustedes. | Base de la respuesta de Yeshúa en #iojanan_10_34-35. |
-| #bereshit_3_15 | ו/איבה אשית בינ/ך ו/בין ה/אשה... הוא ישופ/ך ראש ו/אתה תשופ/נו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza, y tú le magullarás el talón. | Primer compromiso mesiánico de יהוה desde la simiente. |
+| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם | Yo dije: Ustedes son elohim... e hijos de Elyón todos ustedes. | Base de la respuesta de Yeshúa en #iojanan_10_34-35. |
+| #bereshit_3_15 | ואיבה אשית בינך ובין האשה... הוא ישופך ראש ואתה תשופנו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza, y tú le magullarás el talón. | Primer compromiso mesiánico de יהוה desde la simiente. |
 | #iojanan_6_44 | לאיוכל איש לבא אלי בלתי אםימשכהו האב אשר שלחני | Ningún hombre puede venir a Mí, si mi Padre que me envió no lo trae. | Abba trae al rebaño hacia el Mesías; conexión con #iojanan_10_26-27. |
 | #iojanan_3_3 | אמן אמן אני אמר לך אםלא יולד איש ממקור על | Si un hombre no nace de arriba, no puede ver el reino de Elohim. | Reconocer señales no basta; hace falta nacimiento de arriba. |
 

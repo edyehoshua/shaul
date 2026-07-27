@@ -51,6 +51,8 @@ def main() -> int:
         rel = path.relative_to(ROOT)
         if "private/transcripts/" in text:
             failures.append(f"{rel}: exposes a private transcript path")
+        if re.search(r"[\u0590-\u05FF]/|/[\u0590-\u05FF]", text):
+            failures.append(f"{rel}: contains unnormalized Hebrew slash segmentation")
         words = prose_words(text)
         headings = [h.strip().lower() for h in HEADING_RE.findall(text)]
         thematic = [h for h in headings if h not in STANDARD_HEADINGS]

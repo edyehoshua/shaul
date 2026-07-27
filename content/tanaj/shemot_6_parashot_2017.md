@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 6 dentro de esta incorporación. La transc
 
 | Referencia  | Hebreo local (OE, sin nikud)                                                                   | Observación                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_6_1 | **ו/יאמר יהוה אל משה עתה תראה אשר אעשה ל/פרעה כי ב/יד חזקה ישלח/ם ו/ב/יד חזקה יגרש/ם מ/ארצ/ו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_6_1 | **ויאמר יהוה אל משה עתה תראה אשר אעשה לפרעה כי ביד חזקה ישלחם וביד חזקה יגרשם מארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

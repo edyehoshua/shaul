@@ -43,13 +43,13 @@ Esta nota organiza una clase sobre el salmo 21. El hermano Eric lo lee en clave 
 
 | Referencia       | Texto local (hebreo sin nikud)                   | Observación                                                                      |
 | ---------------- | ------------------------------------------------ | -------------------------------------------------------------------------------- |
-| #tehilim_21_2    | יהוה ב/עז/ך ישמח מלך ו/ב/ישועת/ך מה יגיל יגל מאד | El gozo del rey procede de la fuerza y de la salvación de יהוה.                  |
-| #tehilim_21_4    | כי תקדמ/נו ברכות טוב תשית ל/ראש/ו עטרת פז        | La bendición y la corona son acciones de יהוה hacia el rey.                      |
-| #tehilim_21_5    | חיים שאל ממ/ך נתתה ל/ו ארך ימים עולם ו/עד        | El pedido de vida recibe una respuesta que se extiende “olam va-ed”.             |
-| #tehilim_21_6    | גדול כבוד/ו ב/ישועת/ך הוד ו/הדר תשוה עלי/ו       | La gloria del rey está en la salvación de יהוה, no en autonomía.                 |
-| #tehilim_21_8    | כי ה/מלך בטח ב/יהוה ו/ב/חסד עליון בל ימוט        | La confianza en יהוה y su hesed sostiene al rey.                                 |
-| #tehilim_21_9-10 | תמצא יד/ך ל/כל איבי/ך... יהוה ב/אפ/ו יבלע/ם      | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada. |
-| #tehilim_21_14   | רומ/ה יהוה ב/עז/ך נשירה ו/נזמרה גבורת/ך          | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.    |
+| #tehilim_21_2    | יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד | El gozo del rey procede de la fuerza y de la salvación de יהוה.                  |
+| #tehilim_21_4    | כי תקדמנו ברכות טוב תשית לראשו עטרת פז        | La bendición y la corona son acciones de יהוה hacia el rey.                      |
+| #tehilim_21_5    | חיים שאל ממך נתתה לו ארך ימים עולם ועד        | El pedido de vida recibe una respuesta que se extiende “olam va-ed”.             |
+| #tehilim_21_6    | גדול כבודו בישועתך הוד והדר תשוה עליו       | La gloria del rey está en la salvación de יהוה, no en autonomía.                 |
+| #tehilim_21_8    | כי המלך בטח ביהוה ובחסד עליון בל ימוט        | La confianza en יהוה y su hesed sostiene al rey.                                 |
+| #tehilim_21_9-10 | תמצא ידך לכל איביך... יהוה באפו יבלעם      | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada. |
+| #tehilim_21_14   | רומה יהוה בעזך נשירה ונזמרה גבורתך          | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.    |
 
 ## La fuerza que no procede del rey
 

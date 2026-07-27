@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 63. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                       | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_63_1  | מזמור ל/דוד ב/היות/ו ב/מדבר יהודה                             | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_63_12 | ו/ה/מלך ישמח ב/אלהים יתהלל כל ה/נשבע ב/ו כי יסכר פי דוברי שקר | El verso final permite observar el cierre de la composición.         |
+| #tehilim_63_1  | מזמור לדוד בהיותו במדבר יהודה                             | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_63_12 | והמלך ישמח באלהים יתהלל כל הנשבע בו כי יסכר פי דוברי שקר | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

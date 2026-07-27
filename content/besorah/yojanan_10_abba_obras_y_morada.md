@@ -79,8 +79,8 @@ En esta lectura, Abba no se reduce a "el Padre" como una persona separada e infe
 | #romanos_8_15 | קראים אנחנו אבא אבינו | clamamos: ¡Abá! ¡Padre nuestro! | Abba como término de filiación y promesa. |
 | #galatim_4_6 | ויען כיבנים אתם שלח האלהים בלבבכם אתרוח בנו הקורא אבא אבינו | — (sin TTH local) | El Rúaj del Hijo en el corazón clama Abba. |
 | #ivrim_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | — (sin TTH local) | Elohim juró por sí mismo; el cumplimiento no recae en un inferior. |
-| #ieshaiahu_49_6 | ו/נתתי/ך ל/אור גוים ל/היות ישועת/י עד קצה ה/ארץ | te pondré por luz de las naciones... hasta el extremo de la tierra. | La obra se extiende más allá de Israel. |
-| #tehilim_17_15 | אני ב/צדק אחזה פני/ך אשבעה ב/הקיץ תמונת/ך | Yo en justicia veré tu rostro, me saciaré cuando despierte a tu semejanza. | Consumación: ver el rostro y despertar a su semejanza. |
+| #ieshaiahu_49_6 | ונתתיך לאור גוים להיות ישועתי עד קצה הארץ | te pondré por luz de las naciones... hasta el extremo de la tierra. | La obra se extiende más allá de Israel. |
+| #tehilim_17_15 | אני בצדק אחזה פניך אשבעה בהקיץ תמונתך | Yo en justicia veré tu rostro, me saciaré cuando despierte a tu semejanza. | Consumación: ver el rostro y despertar a su semejanza. |
 
 ## Hoja léxica
 

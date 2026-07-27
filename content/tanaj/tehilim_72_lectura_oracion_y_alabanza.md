@@ -30,7 +30,7 @@ Esta nota canónica reúne la fuente disponible para Tehilim 72. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                         | Observación de lectura                                               |
 | -------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_72_1  | ל/שלמה אלהים משפטי/ך ל/מלך תן ו/צדקת/ך ל/בן מלך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_72_1  | לשלמה אלהים משפטיך למלך תן וצדקתך לבן מלך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
 | #tehilim_72_20 | כלו תפלות דוד בן ישי                            | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo

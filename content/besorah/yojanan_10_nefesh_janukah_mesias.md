@@ -65,10 +65,10 @@ El hilo continúa con la reacción dividida de los yehudim, la memoria de la san
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #ieshaiahu_53_10 | ו/יהוה חפץ דכא/ו החלי אם תשים אשם נפש/ו יראה זרע יאריך ימים ו/חפץ יהוה ב/יד/ו יצלח | ...Cuando ponga como ofrenda de culpa su vida, verá simiente... | Trasfondo directo de la entrega de nefesh en Yojanán 10. |
-| #tehilim_16_10 | כי לא תעזב נפש/י ל/שאול לא תתן חסיד/ך ל/ראות שחת | porque no abandonarás mi ser en el Sheol, no darás a tu benevolente el ver destrucción. | Paralelismo: nefesh y no ver corrupción. |
+| #ieshaiahu_53_10 | ויהוה חפץ דכאו החלי אם תשים אשם נפשו יראה זרע יאריך ימים וחפץ יהוה בידו יצלח | ...Cuando ponga como ofrenda de culpa su vida, verá simiente... | Trasfondo directo de la entrega de nefesh en Yojanán 10. |
+| #tehilim_16_10 | כי לא תעזב נפשי לשאול לא תתן חסידך לראות שחת | porque no abandonarás mi ser en el Sheol, no darás a tu benevolente el ver destrucción. | Paralelismo: nefesh y no ver corrupción. |
 | #maasei_hashlijim_2_27 | כי לאתעזב נפשי לשאול לאתתן חסידך לראות שחת (Delitzsch) | Pendiente en TTH local | Kefa aplica el salmo a resurrección del Mesías. |
-| #shemot_19_6 | ו/אתם תהיו ל/י ממלכת כהנים ו/גוי קדוש אלה ה/דברים אשר תדבר אל בני ישראל | y ustedes serán para Mí un reino de sacerdotes, y goy kadosh. | Propósito inicial antes del sacerdocio levítico post-becerro de oro. |
+| #shemot_19_6 | ואתם תהיו לי ממלכת כהנים וגוי קדוש אלה הדברים אשר תדבר אל בני ישראל | y ustedes serán para Mí un reino de sacerdotes, y goy kadosh. | Propósito inicial antes del sacerdocio levítico post-becerro de oro. |
 
 ## Hoja léxica
 

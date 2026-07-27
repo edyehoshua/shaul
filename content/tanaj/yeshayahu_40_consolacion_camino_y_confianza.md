@@ -21,10 +21,10 @@ Isaías 40 comienza con consuelo y una voz que llama a preparar en el desierto u
 
 | Referencia       | Texto hebreo local                                                     | Observación                                                      |
 | ---------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| #ieshaiahu_40_1  | נחמו נחמו עמ/י יאמר אלהי/כם                                            | El consuelo abre el anuncio dirigido al pueblo.                  |
-| #ieshaiahu_40_3  | קול קורא ב/מדבר פנו דרך יהוה ישרו ב/ערבה מסלה ל/אלהי/נו                | El camino preparado pertenece a la llegada y revelación de יהוה. |
-| #ieshaiahu_40_27 | ל/מה תאמר יעקב ו/תדבר ישראל נסתרה דרכ/י מ/יהוה ו/מ/אלה/י משפט/י יעבור  | El capítulo nombra la queja de Israel antes de responderla.      |
-| #ieshaiahu_40_31 | ו/קוי יהוה יחליפו כח יעלו אבר כ/נשרים ירוצו ו/לא ייגעו ילכו ו/לא ייעפו | Esperar en יהוה se expresa con la imagen de fuerza renovada.     |
+| #ieshaiahu_40_1  | נחמו נחמו עמי יאמר אלהיכם                                            | El consuelo abre el anuncio dirigido al pueblo.                  |
+| #ieshaiahu_40_3  | קול קורא במדבר פנו דרך יהוה ישרו בערבה מסלה לאלהינו                | El camino preparado pertenece a la llegada y revelación de יהוה. |
+| #ieshaiahu_40_27 | למה תאמר יעקב ותדבר ישראל נסתרה דרכי מיהוה ומאלהי משפטי יעבור  | El capítulo nombra la queja de Israel antes de responderla.      |
+| #ieshaiahu_40_31 | וקוי יהוה יחליפו כח יעלו אבר כנשרים ירוצו ולא ייגעו ילכו ולא ייעפו | Esperar en יהוה se expresa con la imagen de fuerza renovada.     |
 
 ## Lectura
 

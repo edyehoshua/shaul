@@ -27,7 +27,7 @@ Esta es la nota canónica para Vayikra 1 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                         | Observación                                                                                           |
 | ------------ | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #vayikra_1_1 | **ו/יקרא אל משה ו/ידבר יהוה אלי/ו מ/אהל מועד ל/אמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #vayikra_1_1 | **ויקרא אל משה וידבר יהוה אליו מאהל מועד לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

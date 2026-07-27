@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 20. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                | Observación de lectura                                               |
 | -------------- | -------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_20_1  | ל/מנצח מזמור ל/דוד                     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_20_10 | יהוה הושיע/ה ה/מלך יענ/נו ב/יום קרא/נו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_20_1  | למנצח מזמור לדוד                     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_20_10 | יהוה הושיעה המלך יעננו ביום קראנו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

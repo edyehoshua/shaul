@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 65. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                           | Observación de lectura                                               |
 | -------------- | ------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_65_1  | ל/מנצח מזמור ל/דוד שיר                            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_65_14 | לבשו כרים ה/צאן ו/עמקים יעטפו בר יתרועעו אף ישירו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_65_1  | למנצח מזמור לדוד שיר                            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_65_14 | לבשו כרים הצאן ועמקים יעטפו בר יתרועעו אף ישירו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

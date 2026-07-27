@@ -79,11 +79,11 @@ La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor"
 | #iojanan_10_17 | עלכן יאהבני האב כי אתנפשי אתן ואשיב ואקחיה | Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar. | La entrega no es accidente ni derrota, sino decisión vinculada al mandato. |
 | #iojanan_10_18 | איש לא יקח נפשי ממני כי אםאני אתננה ישלאל ידי לתתה וישלאל להשיבה אלי זאת המצוה צויתי מאת אבי | Ningún hombre me la quita, sino que Yo la pongo de Mí mismo... Este mandamiento he recibido de mi Padre. | La muerte del Mesías se interpreta como acto soberano. |
 | #iojanan_10_30 | ואני והאב אחד | Yo y mi Padre uno somos. | Conclusión del argumento sobre Abba y el Mesías. |
-| #tehilim_118_20 | זה ה/שער ל/יהוה צדיקים יבאו ב/ו | Esta es la puerta de יהוה, los justos entrarán por ella. | Base de la lectura: la puerta de Yojanán 10 = puerta de יהוה. |
-| #tehilim_118_22 | אבן מאסו ה/בונים היתה ל/ראש פנה | La piedra que despreciaron los edificadores ha sido por cabeza del ángulo. | La piedra rechazada sostiene el arco de entrada. |
-| #ieshaiahu_33_22 | כי יהוה שפט/נו יהוה מחקק/נו יהוה מלכ/נו הוא יושיע/נו | Porque יהוה nos juzga, יהוה nos legisla; יהוה es nuestro Rey, Él nos salvará. | Juez, legislador, rey y salvador es יהוה mismo. |
-| #irmeiahu_23_6 | ב/ימי/ו תושע יהודה ו/ישראל ישכן ל/בטח ו/זה שמ/ו אשר יקרא/ו יהוה צדק/נו | En sus días será salvo Iehudáh... "יהוה Justicia nuestra". | Conecta el nombre revelado con la justicia de Elohim. |
-| #tehilim_23_1 | מזמור ל/דוד יהוה רע/י לא אחסר | יהוה es mi Pastor, no escasearé. | Pasto y cuidado del rebaño; contraste con el asalariado. |
+| #tehilim_118_20 | זה השער ליהוה צדיקים יבאו בו | Esta es la puerta de יהוה, los justos entrarán por ella. | Base de la lectura: la puerta de Yojanán 10 = puerta de יהוה. |
+| #tehilim_118_22 | אבן מאסו הבונים היתה לראש פנה | La piedra que despreciaron los edificadores ha sido por cabeza del ángulo. | La piedra rechazada sostiene el arco de entrada. |
+| #ieshaiahu_33_22 | כי יהוה שפטנו יהוה מחקקנו יהוה מלכנו הוא יושיענו | Porque יהוה nos juzga, יהוה nos legisla; יהוה es nuestro Rey, Él nos salvará. | Juez, legislador, rey y salvador es יהוה mismo. |
+| #irmeiahu_23_6 | בימיו תושע יהודה וישראל ישכן לבטח וזה שמו אשר יקראו יהוה צדקנו | En sus días será salvo Iehudáh... "יהוה Justicia nuestra". | Conecta el nombre revelado con la justicia de Elohim. |
+| #tehilim_23_1 | מזמור לדוד יהוה רעי לא אחסר | יהוה es mi Pastor, no escasearé. | Pasto y cuidado del rebaño; contraste con el asalariado. |
 | #shemuel_alef_17_35 | — (sin OE local en cap. 17) | y salí tras de él y lo herí, y lo rescaté de su boca... | David anticipa al pastor que arriesga su vida por una oveja. |
 | #ivrim_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | — (sin TTH local) | Elohim jura por sí mismo; garantía de la promesa. |
 | #efesim_3_14-15 | בעבור זאת אכרעה עלברכי לפני אבי... אשר נקרא שמו על כלמשפחה | — (sin TTH local) | Abba como fuente del nombre y de toda familia. |

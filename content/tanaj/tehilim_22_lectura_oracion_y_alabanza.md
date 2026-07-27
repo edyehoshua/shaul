@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 22. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)              | Observación de lectura                                               |
 | -------------- | ------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_22_1  | ל/מנצח על אילת ה/שחר מזמור ל/דוד     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_22_32 | יבאו ו/יגידו צדקת/ו ל/עם נולד כי עשה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_22_1  | למנצח על אילת השחר מזמור לדוד     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_22_32 | יבאו ויגידו צדקתו לעם נולד כי עשה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

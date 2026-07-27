@@ -22,7 +22,7 @@ La clase sitúa a Malaquías tras el retorno del exilio y relaciona Jacob/Esaú 
 
 | Texto local                                                                                           | Observación                                                              |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #malachi_1_2 — `אהבתי את/כם אמר יהוה ו/אמרתם ב/מה אהבת/נו ה/לוא אח עשו ל/יעקב נאם יהוה ו/אהב את יעקב` | El oráculo inicia con amor declarado y una pregunta que lo pone en duda. |
+| #malachi_1_2 — `אהבתי אתכם אמר יהוה ואמרתם במה אהבתנו הלוא אח עשו ליעקב נאם יהוה ואהב את יעקב` | El oráculo inicia con amor declarado y una pregunta que lo pone en duda. |
 
 ## Conexiones principales
 

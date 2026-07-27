@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 54. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                  | Observación de lectura                                               |
 | ------------- | ---------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_54_1 | ל/מנצח ב/נגינת משכיל ל/דוד               | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_54_9 | כי מ/כל צרה הציל/ני ו/ב/איב/י ראתה עינ/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_54_1 | למנצח בנגינת משכיל לדוד               | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_54_9 | כי מכל צרה הצילני ובאיבי ראתה עיני | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

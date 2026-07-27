@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 87. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                | Observación de lectura                                               |
 | ------------- | -------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_87_1 | ל/בני קרח מזמור שיר יסודת/ו ב/הררי קדש | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_87_7 | ו/שרים כ/חללים כל מעינ/י ב/ך           | El verso final permite observar el cierre de la composición.         |
+| #tehilim_87_1 | לבני קרח מזמור שיר יסודתו בהררי קדש | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_87_7 | ושרים כחללים כל מעיני בך           | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

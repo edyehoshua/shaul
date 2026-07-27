@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 77. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)             | Observación de lectura                                               |
 | -------------- | ----------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_77_1  | ל/מנצח על ידיתון ידותון ל/אסף מזמור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_77_21 | נחית כ/צאן עמ/ך ב/יד משה ו/אהרן     | El verso final permite observar el cierre de la composición.         |
+| #tehilim_77_1  | למנצח על ידיתון ידותון לאסף מזמור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_77_21 | נחית כצאן עמך ביד משה ואהרן     | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

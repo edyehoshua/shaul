@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 27. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                     | Observación de lectura                                               |
 | -------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_27_1  | ל/דוד יהוה אור/י ו/ישע/י מ/מי אירא יהוה מעוז חי/י מ/מי אפחד | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_27_14 | קוה אל יהוה חזק ו/יאמץ לב/ך ו/קוה אל יהוה                   | El verso final permite observar el cierre de la composición.         |
+| #tehilim_27_1  | לדוד יהוה אורי וישעי ממי אירא יהוה מעוז חיי ממי אפחד | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_27_14 | קוה אל יהוה חזק ויאמץ לבך וקוה אל יהוה                   | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

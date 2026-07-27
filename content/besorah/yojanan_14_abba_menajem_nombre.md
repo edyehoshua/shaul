@@ -64,7 +64,7 @@ La clase lee "Yo soy el camino, la verdad y la vida" como una sola realidad vist
 | #iojanan_14_11 | האמינו לי כיאני באב והאב בי ואםלא האמינו לי בגלל הפעלות האלה | Afírmense en Mí... afírmense en Mí por estas obras. | Obras como testimonio de identidad. |
 | #iojanan_14_13 | וכלאשר תשאלו בשמי אתו אעשה לבעבור יגדל כבוד האב בבנו | Y todo lo que pidan en mi Nombre, lo haré... | Pedir en el Nombre revelado, no capricho humano. |
 | #iojanan_14_15 | אםאהבתם אתי אתמצתי תשמרו | Si ustedes me aman, también mis mandamientos guardarán. | Mandamientos del Mesías = voluntad de Elohim. |
-| #iojanan_14_16 | ואני אחלה פני האב ויתן לכם מליץ אחר אשרישכן אתכם עדיעד | ...les dará al siguiente Menajem, que estará con ustedes para siempre. | `allos`/אחר: adicional, no competidor (ver léxico). |
+| #iojanan_14_16 | ואני אחלה פני האב ויתן לכם מליץ אחר אשרישכן אתכם עדיעד | ...les dará al siguiente Menajem, que estará con ustedes para siempre. | `allos` — אחר: adicional, no competidor (ver léxico). |
 | #iojanan_14_26 | והמליץ הוא רוח הקדש אשרישלחהו האב בשמי ילמדכם אתכל... | el Menajem, el Rúaj Ha'Kódesh, que lo enviará mi Padre en mi Nombre... | Consolación que enseña y recuerda. |
 | #iojanan_15_26 | אך כאשר יבא המליץ אשר אשלחנו אליכם מאת האב... | ...el Menajem, el que Yo enviaré a ustedes de mi Padre... | Abba y Yeshúa envían: unidad de emisor. |
 
@@ -72,10 +72,10 @@ La clase lee "Yo soy el camino, la verdad y la vida" como una sola realidad vist
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #tehilim_94_19 | ב/רב שרעפ/י ב/קרב/י תנחומי/ך ישעשעו נפש/י | En la multitud de mis pensamientos... tus restauraciones acarician mi ser. | Base de Menajem como consolación/restauración. |
-| #bereshit_32_10 | ו/יאמר יעקב אלהי אב/י אברהם ו/אלהי אב/י יצחק יהוה ה/אמר אל/י שוב ל/ארצ/ך ו/ל/מולדת/ך ו/איטיבה עמ/ך | (oración de Yaakov apelando a promesa) | Pedir conforme a lo que Elohim prometió. |
-| #bereshit_32_12 | הציל/ני נא מ/יד אח/י מ/יד עשו כי ירא אנכי את/ו... | Hazme escapar... de la mano de Esav... | Súplica desde la promesa, no declaración autónoma. |
-| #ieshaiahu_40_13 | מי תכן את רוח יהוה ו/איש עצת/ו יודיע/נו | ¿Quién midió al Rúaj de יהוה...? | Rúaj como mente/consejo de יהוה. |
+| #tehilim_94_19 | ברב שרעפי בקרבי תנחומיך ישעשעו נפשי | En la multitud de mis pensamientos... tus restauraciones acarician mi ser. | Base de Menajem como consolación/restauración. |
+| #bereshit_32_10 | ויאמר יעקב אלהי אבי אברהם ואלהי אבי יצחק יהוה האמר אלי שוב לארצך ולמולדתך ואיטיבה עמך | (oración de Yaakov apelando a promesa) | Pedir conforme a lo que Elohim prometió. |
+| #bereshit_32_12 | הצילני נא מיד אחי מיד עשו כי ירא אנכי אתו... | Hazme escapar... de la mano de Esav... | Súplica desde la promesa, no declaración autónoma. |
+| #ieshaiahu_40_13 | מי תכן את רוח יהוה ואיש עצתו יודיענו | ¿Quién midió al Rúaj de יהוה...? | Rúaj como mente/consejo de יהוה. |
 | #qorintiyim_alef_2_16 | כי מיתכן אתרוח יהוה ומי יודיענו ואנחנו הנה ישלנו רוח המשיח (Delitzsch) | Pendiente en TTH local | Rúaj de יהוה y Rúaj del Mesías convergen. |
 | #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח (Delitzsch) | Pendiente en TTH local | Yeshúa el Mesías como gran Elohim y Salvador. |
 

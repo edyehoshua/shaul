@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 26 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud)                                                | Observación                                                                                           |
 | ------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #devarim_26_1 | **ו/היה כי תבוא אל ה/ארץ אשר יהוה אלהי/ך נתן ל/ך נחלה ו/ירשת/ה ו/ישבת ב/ה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_26_1 | **והיה כי תבוא אל הארץ אשר יהוה אלהיך נתן לך נחלה וירשתה וישבת בה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

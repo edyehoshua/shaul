@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 1 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                                        | Observación                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #devarim_1_1 | **אלה ה/דברים אשר דבר משה אל כל ישראל ב/עבר ה/ירדן ב/מדבר ב/ערבה מול סוף בין פארן ו/בין תפל ו/לבן ו/חצרת ו/די זהב** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_1_1 | **אלה הדברים אשר דבר משה אל כל ישראל בעבר הירדן במדבר בערבה מול סוף בין פארן ובין תפל ולבן וחצרת ודי זהב** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

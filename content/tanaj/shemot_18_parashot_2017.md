@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 18 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                             | Observación                                                                                           |
 | ------------ | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_18_1 | **ו/ישמע יתרו כהן מדין חתן משה את כל אשר עשה אלהים ל/משה ו/ל/ישראל עמ/ו כי הוציא יהוה את ישראל מ/מצרים** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_18_1 | **וישמע יתרו כהן מדין חתן משה את כל אשר עשה אלהים למשה ולישראל עמו כי הוציא יהוה את ישראל ממצרים** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

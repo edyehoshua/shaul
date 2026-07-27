@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 13. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                         | Observación de lectura                                               |
 | ------------- | --------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_13_1 | ל/מנצח מזמור ל/דוד                                              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_13_6 | ו/אני ב/חסד/ך בטחתי יגל לב/י ב/ישועת/ך אשירה ל/יהוה כי גמל על/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_13_1 | למנצח מזמור לדוד                                              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_13_6 | ואני בחסדך בטחתי יגל לבי בישועתך אשירה ליהוה כי גמל עלי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

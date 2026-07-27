@@ -22,7 +22,7 @@ La clase explica el cambio de haftará en Shabat Janukáh e introduce el context
 
 | Texto local                                                                                                          | Observación                                                           |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| #zechariah_3_8 — `שמע נא יהושע ה/כהן ה/גדול אתה ו/רעי/ך ה/ישבים ל/פני/ך כי אנשי מופת המה כי הנ/ני מביא את עבד/י צמח` | Yehoshúa y sus compañeros son señal; יהוה anuncia a su siervo Tzémaj. |
+| #zechariah_3_8 — `שמע נא יהושע הכהן הגדול אתה ורעיך הישבים לפניך כי אנשי מופת המה כי הנני מביא את עבדי צמח` | Yehoshúa y sus compañeros son señal; יהוה anuncia a su siervo Tzémaj. |
 
 ## Conexiones principales
 

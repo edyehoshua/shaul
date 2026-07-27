@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 33. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_33_1  | רננו צדיקים ב/יהוה ל/ישרים נאוה תהלה  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_33_22 | יהי חסד/ך יהוה עלי/נו כ/אשר יחלנו ל/ך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_33_1  | רננו צדיקים ביהוה לישרים נאוה תהלה  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_33_22 | יהי חסדך יהוה עלינו כאשר יחלנו לך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

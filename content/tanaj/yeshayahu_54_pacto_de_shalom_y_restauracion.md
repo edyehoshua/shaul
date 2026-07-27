@@ -21,8 +21,8 @@ Isaías 54 promete que la misericordia de יהוה y su pacto de shalom no será
 
 | Referencia       | Texto hebreo local                                                                            | Observación                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| #ieshaiahu_54_1  | רני עקרה לא ילדה פצחי רנה ו/צהלי לא חלה כי רבים בני שוממה מ/בני בעולה אמר יהוה                | La restauración se anuncia con la imagen de una ciudad estéril. |
-| #ieshaiahu_54_10 | כי ה/הרים ימושו ו/ה/גבעות תמוטנה ו/חסד/י מ/את/ך לא ימוש ו/ברית שלומ/י לא תמוט אמר מרחמ/ך יהוה | La imagen cósmica magnifica la firmeza de la compasión de יהוה. |
+| #ieshaiahu_54_1  | רני עקרה לא ילדה פצחי רנה וצהלי לא חלה כי רבים בני שוממה מבני בעולה אמר יהוה                | La restauración se anuncia con la imagen de una ciudad estéril. |
+| #ieshaiahu_54_10 | כי ההרים ימושו והגבעות תמוטנה וחסדי מאתך לא ימוש וברית שלומי לא תמוט אמר מרחמך יהוה | La imagen cósmica magnifica la firmeza de la compasión de יהוה. |
 
 ## Lectura
 

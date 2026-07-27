@@ -32,8 +32,8 @@ Qohélet 2 considera la prueba del placer, las obras y la posesión, y el recono
 
 | Referencia         | Texto local (OE, sin nikud)                                                                                                      | Observación                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_2_1  | **אמרתי אני ב/לב/י לכ/ה נא אנס/כה ב/שמחה ו/ראה ב/טוב ו/הנה גם הוא הבל**                                                          | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_2_26 | **כי ל/אדם ש/טוב ל/פני/ו נתן חכמה ו/דעת ו/שמחה ו/ל/חוטא נתן ענין ל/אסוף ו/ל/כנוס ל/תת ל/טוב ל/פני ה/אלהים גם זה הבל ו/רעות רוח** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_2_1  | **אמרתי אני בלבי לכה נא אנסכה בשמחה וראה בטוב והנה גם הוא הבל**                                                          | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_2_26 | **כי לאדם שטוב לפניו נתן חכמה ודעת ושמחה ולחוטא נתן ענין לאסוף ולכנוס לתת לטוב לפני האלהים גם זה הבל ורעות רוח** | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 18. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                                                                      | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_18_1  | ל/מנצח ל/עבד יהוה ל/דוד אשר דבר ל/יהוה את דברי ה/שירה ה/זאת ב/יום הציל יהוה אות/ו מ/כף כל איבי/ו ו/מ/יד שאול | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_18_51 | מגדל מגדיל ישועות מלכ/ו ו/עשה חסד ל/משיח/ו ל/דוד ו/ל/זרע/ו עד עולם                                           | El verso final permite observar el cierre de la composición.         |
+| #tehilim_18_1  | למנצח לעבד יהוה לדוד אשר דבר ליהוה את דברי השירה הזאת ביום הציל יהוה אותו מכף כל איביו ומיד שאול | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_18_51 | מגדל מגדיל ישועות מלכו ועשה חסד למשיחו לדוד ולזרעו עד עולם                                           | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

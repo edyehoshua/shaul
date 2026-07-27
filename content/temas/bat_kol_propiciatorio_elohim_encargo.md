@@ -61,8 +61,8 @@ La clase comienza con **(בת קול)**, literalmente “hija de la voz”, como
 
 | Referencia              | Hebreo (sin nikud)                                          | TTH (ES)                                                                                     | Función en la clase                                                                |
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| #shemot_25_17           | ו/עשית כפרת זהב טהור אמתים ו/חצי ארכ/ה ו/אמה ו/חצי רחב/ה    | “Harás una cubierta de oro puro”.                                                            | La **kapóret** no es el arca completa, sino su cubierta de oro.                    |
-| #shemot_25_22           | ו/נועדתי ל/ך שם ו/דברתי את/ך מ/על ה/כפרת מ/בין שני ה/כרבים… | “Me reuniré para ti allí, y hablaré contigo de sobre la cubierta… entre los dos querubines”. | Une presencia, palabra y lugar de encuentro.                                       |
+| #shemot_25_17           | ועשית כפרת זהב טהור אמתים וחצי ארכה ואמה וחצי רחבה    | “Harás una cubierta de oro puro”.                                                            | La **kapóret** no es el arca completa, sino su cubierta de oro.                    |
+| #shemot_25_22           | ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים… | “Me reuniré para ti allí, y hablaré contigo de sobre la cubierta… entre los dos querubines”. | Une presencia, palabra y lugar de encuentro.                                       |
 | #romanos_3_25           | Texto hebreo no disponible en OE                            | “Al cual puso Elohim como Propiciatorio por la emunah en su sangre…”                         | La clase identifica tipológicamente a Yeshúa con el Propiciatorio.                 |
 | #ivrim_1_1 y #ivrim_1_2 | האלהים אשר דבר מקדם פעמים רבות… דבר אלינו… ביד בנו          | Delitzsch: Elohim habló antiguamente por los profetas y en estos últimos días por su Hijo.   | La voz que antes llegaba por profetas alcanza su expresión culminante por el Hijo. |
 
@@ -88,10 +88,10 @@ La clase interpreta la voz de la metamorfosis como un **drash** que reúne tres 
 
 | Eje     | Referencia      | Hebreo (sin nikud)                                                     | TTH (ES)                                                              | Identificación                                           |
 | ------- | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
-| Hijo    | #tehilim_2_7    | אספרה אל חק יהוה אמר אל/י בנ/י אתה אני ה/יום ילדתי/ך                   | “יהוה me dijo: Mi Hijo eres tú…”                                      | Hijo y heredero.                                         |
-| Siervo  | #ieshaiahu_42_1 | הן עבד/י אתמך ב/ו בחיר/י רצתה נפש/י נתתי רוח/י עלי/ו משפט ל/גוים יוציא | “He aquí mi Siervo… mi escogido, en Él se complace mi ser”.           | Siervo escogido sobre quien reposa el Ruaj.              |
-| Profeta | #devarim_18_15  | נביא מ/קרב/ך מ/אחי/ך כמ/ני יקים ל/ך יהוה אלהי/ך אלי/ו תשמעו/ן          | “Un profeta… levantará para ti יהוה tu Elohim; a él escucharán”.      | Profeta anunciado al que Israel debe escuchar.           |
-| Palabra | #devarim_18_18  | נביא אקים ל/הם… ו/נתתי דבר/י ב/פי/ו ו/דבר אלי/הם את כל אשר אצו/נו      | “Pondré mis palabras en su boca, y hablará… todo lo que Yo le mande”. | La autoridad del Profeta procede de la palabra recibida. |
+| Hijo    | #tehilim_2_7    | אספרה אל חק יהוה אמר אלי בני אתה אני היום ילדתיך                   | “יהוה me dijo: Mi Hijo eres tú…”                                      | Hijo y heredero.                                         |
+| Siervo  | #ieshaiahu_42_1 | הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא | “He aquí mi Siervo… mi escogido, en Él se complace mi ser”.           | Siervo escogido sobre quien reposa el Ruaj.              |
+| Profeta | #devarim_18_15  | נביא מקרבך מאחיך כמני יקים לך יהוה אלהיך אליו תשמעון          | “Un profeta… levantará para ti יהוה tu Elohim; a él escucharán”.      | Profeta anunciado al que Israel debe escuchar.           |
+| Palabra | #devarim_18_18  | נביא אקים להם… ונתתי דברי בפיו ודבר אליהם את כל אשר אצונו      | “Pondré mis palabras en su boca, y hablará… todo lo que Yo le mande”. | La autoridad del Profeta procede de la palabra recibida. |
 
 Este tejido responde a la fragmentación de títulos: el Hijo de Tehilim, el Siervo de Ieshaiáhu y el Profeta semejante a Moshéh no son tres figuras separadas en la lectura de la clase. La voz los concentra en el Mesías y manda escucharlo.
 
@@ -124,10 +124,10 @@ El caso de Qayafá ilustra la diferencia entre la persona y el encargo: #iojanan
 
 | Referencia    | Hebreo (sin nikud)                              | TTH (ES)                                                                | Límite de la autoridad                                  |
 | ------------- | ----------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- |
-| #tehilim_82_1 | מזמור ל/אסף אלהים נצב ב/עדת אל ב/קרב אלהים ישפט | “Elohim toma su posición… en medio de los jueces (heb.: elohim) juzga”. | Los agentes están dentro del juicio de Elohim.          |
-| #tehilim_82_6 | אני אמרתי אלהים אתם ו/בני עליון כל/כם           | “Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón…”          | El título expresa autoridad e identidad representativa. |
-| #tehilim_82_7 | אכן כ/אדם תמותו/ן ו/כ/אחד ה/שרים תפלו           | “Sin embargo, como Adam morirán…”                                       | El cargo no concede inmortalidad ni divinidad.          |
-| #tehilim_82_8 | קומ/ה אלהים שפט/ה ה/ארץ כי אתה תנחל ב/כל ה/גוים | “Levántate, Elohim, juzga la tierra…”.                                  | El juicio definitivo pertenece a Elohim.                |
+| #tehilim_82_1 | מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט | “Elohim toma su posición… en medio de los jueces (heb.: elohim) juzga”. | Los agentes están dentro del juicio de Elohim.          |
+| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם           | “Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón…”          | El título expresa autoridad e identidad representativa. |
+| #tehilim_82_7 | אכן כאדם תמותון וכאחד השרים תפלו           | “Sin embargo, como Adam morirán…”                                       | El cargo no concede inmortalidad ni divinidad.          |
+| #tehilim_82_8 | קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים | “Levántate, Elohim, juzga la tierra…”.                                  | El juicio definitivo pertenece a Elohim.                |
 
 El contenido del salmo define la responsabilidad del encargo: defender al débil y al huérfano, hacer justicia al afligido y rescatar al necesitado. Por eso la autoridad no sirve para engrandecerse, sino para administrar fielmente palabra y justicia. Quien usa el título para proclamarse divino contradice la advertencia inmediata: “como Adam morirán”.
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 35. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                 | Observación de lectura                                               |
 | -------------- | --------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_35_1  | ל/דוד ריב/ה יהוה את יריב/י לחם את לחמ/י | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_35_28 | ו/לשונ/י תהגה צדק/ך כל ה/יום תהלת/ך     | El verso final permite observar el cierre de la composición.         |
+| #tehilim_35_1  | לדוד ריבה יהוה את יריבי לחם את לחמי | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_35_28 | ולשוני תהגה צדקך כל היום תהלתך     | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

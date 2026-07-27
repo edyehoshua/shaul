@@ -20,7 +20,7 @@ Oseas 2 anuncia que יהוה responde y restaura en medio de una historia marcad
 
 | Referencia   | Hebreo local                                                          | TTH (ES)                                                                              |
 | ------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| #hoshea_2_21 | `ו/ארשתי/ך ל/י ל/עולם ו/ארשתי/ך ל/י ב/צדק ו/ב/משפט ו/ב/חסד ו/ב/רחמים` | «Yo te desposaré conmigo para siempre… en justicia, derecho, bondad y misericordias». |
+| #hoshea_2_21 | `וארשתיך לי לעולם וארשתיך לי בצדק ובמשפט ובחסד וברחמים` | «Yo te desposaré conmigo para siempre… en justicia, derecho, bondad y misericordias». |
 
 ## Lectura
 

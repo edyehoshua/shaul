@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 25. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)         | Observación de lectura                                               |
 | -------------- | ------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_25_1  | ל/דוד אלי/ך יהוה נפש/י אשא      | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_25_22 | פדה אלהים את ישראל מ/כל צרותי/ו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_25_1  | לדוד אליך יהוה נפשי אשא      | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_25_22 | פדה אלהים את ישראל מכל צרותיו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

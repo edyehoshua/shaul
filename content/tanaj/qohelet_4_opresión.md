@@ -32,8 +32,8 @@ Qohélet 4 considera la opresión, la rivalidad y el valor de la ayuda mutua fre
 
 | Referencia         | Texto local (OE, sin nikud)                                                                                                  | Observación                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_4_1  | **ו/שבתי אני ו/אראה את כל ה/עשקים אשר נעשים תחת ה/שמש ו/הנה דמעת ה/עשקים ו/אין ל/הם מנחם ו/מ/יד עשקי/הם כח ו/אין ל/הם מנחם** | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_4_17 | **שמר רגלי/ך רגל/ך כ/אשר תלך אל בית ה/אלהים ו/קרוב ל/שמע מ/תת ה/כסילים זבח כי אינ/ם יודעים ל/עשות רע**                       | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_4_1  | **ושבתי אני ואראה את כל העשקים אשר נעשים תחת השמש והנה דמעת העשקים ואין להם מנחם ומיד עשקיהם כח ואין להם מנחם** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_4_17 | **שמר רגליך רגלך כאשר תלך אל בית האלהים וקרוב לשמע מתת הכסילים זבח כי אינם יודעים לעשות רע**                       | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

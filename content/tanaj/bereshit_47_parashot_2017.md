@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 47 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                                                 | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_47_1 | **ו/יבא יוסף ו/יגד ל/פרעה ו/יאמר אב/י ו/אח/י ו/צאנ/ם ו/בקר/ם ו/כל אשר ל/הם באו מ/ארץ כנען ו/הנ/ם ב/ארץ גשן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_47_1 | **ויבא יוסף ויגד לפרעה ויאמר אבי ואחי וצאנם ובקרם וכל אשר להם באו מארץ כנען והנם בארץ גשן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

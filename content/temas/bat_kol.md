@@ -85,9 +85,9 @@ La bat kol identifica a Yeshua como Hijo, Siervo y Escogido, y los relatos de la
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #tehilim_2_7 | אספרה אל חק יהוה אמר אל/י בנ/י אתה אני ה/יום ילדתי/ך | Contaré el decreto: יהוה me dijo: "Mi Hijo eres tú…" | Filiación declarada. |
-| #ieshaiahu_42_1 | הן עבד/י אתמך ב/ו בחיר/י רצתה נפש/י נתתי רוח/י עלי/ו | He aquí mi Siervo… mi escogido, en Él se complace mi ser. | Siervo, escogido y complacencia unidos. |
-| #devarim_18_15 | נביא מ/קרב/ך מ/אחי/ך כמ/ני יקים ל/ך יהוה אלהי/ך אלי/ו תשמעו/ן | Un profeta… levantará para ti יהוה tu Elohim; a él escucharán. | Mandato de escuchar al enviado. |
+| #tehilim_2_7 | אספרה אל חק יהוה אמר אלי בני אתה אני היום ילדתיך | Contaré el decreto: יהוה me dijo: "Mi Hijo eres tú…" | Filiación declarada. |
+| #ieshaiahu_42_1 | הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו | He aquí mi Siervo… mi escogido, en Él se complace mi ser. | Siervo, escogido y complacencia unidos. |
+| #devarim_18_15 | נביא מקרבך מאחיך כמני יקים לך יהוה אלהיך אליו תשמעון | Un profeta… levantará para ti יהוה tu Elohim; a él escucharán. | Mandato de escuchar al enviado. |
 
 ## Hoja léxica
 

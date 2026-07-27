@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 85. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)             | Observación de lectura                                               |
 | -------------- | ----------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_85_1  | ל/מנצח ל/בני קרח מזמור              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_85_14 | צדק ל/פני/ו יהלך ו/ישם ל/דרך פעמי/ו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_85_1  | למנצח לבני קרח מזמור              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_85_14 | צדק לפניו יהלך וישם לדרך פעמיו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

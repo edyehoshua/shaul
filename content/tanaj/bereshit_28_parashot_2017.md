@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 28 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                   | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_28_1 | **ו/יקרא יצחק אל יעקב ו/יברך את/ו ו/יצו/הו ו/יאמר ל/ו לא תקח אשה מ/בנות כנען** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_28_1 | **ויקרא יצחק אל יעקב ויברך אתו ויצוהו ויאמר לו לא תקח אשה מבנות כנען** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 37. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                    | Observación de lectura                                               |
 | -------------- | ---------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_37_1  | ל/דוד אל תתחר ב/מרעים אל תקנא ב/עשי עולה                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_37_40 | ו/יעזר/ם יהוה ו/יפלט/ם יפלט/ם מ/רשעים ו/יושיע/ם כי חסו ב/ו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_37_1  | לדוד אל תתחר במרעים אל תקנא בעשי עולה                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_37_40 | ויעזרם יהוה ויפלטם יפלטם מרשעים ויושיעם כי חסו בו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

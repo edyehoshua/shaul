@@ -22,7 +22,7 @@ La exposición relaciona la búsqueda de una joven “en todo límite de Israel�
 
 | Texto local                                                              | Observación                                              |
 | ------------------------------------------------------------------------ | -------------------------------------------------------- |
-| #1_kings_1_1 — `ו/ה/מלך דוד זקן בא ב/ימים ו/יכס/הו ב/בגדים ו/לא יחם ל/ו` | La historia abre con la vejez y vulnerabilidad de David. |
+| #1_kings_1_1 — `והמלך דוד זקן בא בימים ויכסהו בבגדים ולא יחם לו` | La historia abre con la vejez y vulnerabilidad de David. |
 
 ## Conexiones principales
 

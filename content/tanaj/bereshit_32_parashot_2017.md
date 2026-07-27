@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 32 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                         | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_32_1 | **ו/ישכם לבן ב/בקר ו/ינשק ל/בני/ו ו/ל/בנותי/ו ו/יברך את/הם ו/ילך ו/ישב לבן ל/מקמ/ו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_32_1 | **וישכם לבן בבקר וינשק לבניו ולבנותיו ויברך אתהם וילך וישב לבן למקמו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

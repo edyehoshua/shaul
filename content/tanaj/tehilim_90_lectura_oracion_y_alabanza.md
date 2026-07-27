@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 90. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                                          | Observación de lectura                                               |
 | -------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_90_1  | תפלה ל/משה איש ה/אלהים אדנ/י מעון אתה היית ל/נו ב/דר ו/דר                        | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_90_17 | ו/יהי נעם אדנ/י אלהי/נו עלי/נו ו/מעשה ידי/נו כוננ/ה עלי/נו ו/מעשה ידי/נו כוננ/הו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_90_1  | תפלה למשה איש האלהים אדני מעון אתה היית לנו בדר ודר                        | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_90_17 | ויהי נעם אדני אלהינו עלינו ומעשה ידינו כוננה עלינו ומעשה ידינו כוננהו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

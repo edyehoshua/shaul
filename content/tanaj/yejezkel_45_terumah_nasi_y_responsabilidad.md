@@ -22,7 +22,7 @@ La clase trata la lectura especial de HaJódesh junto a Vayiqrá y sitúa Ezequi
 
 | Referencia      | Hebreo local                                         | TTH (ES)                                                                    | Observación                                                           |
 | --------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| #iejezkel_45_16 | `כל ה/עם ה/ארץ יהיו אל ה/תרומה ה/זאת ל/נשיא ב/ישראל` | «Todo el pueblo de la tierra dará esta terumáh para el príncipe en Israel». | El texto especifica una contribución y un destinatario institucional. |
+| #iejezkel_45_16 | `כל העם הארץ יהיו אל התרומה הזאת לנשיא בישראל` | «Todo el pueblo de la tierra dará esta terumáh para el príncipe en Israel». | El texto especifica una contribución y un destinatario institucional. |
 
 ## El nasí dentro del orden descrito
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 91. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)              | Observación de lectura                                               |
 | -------------- | ------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_91_1  | ישב ב/סתר עליון ב/צל שדי יתלונן      | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_91_16 | ארך ימים אשביע/הו ו/ארא/הו ב/ישועת/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_91_1  | ישב בסתר עליון בצל שדי יתלונן      | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_91_16 | ארך ימים אשביעהו ואראהו בישועתי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

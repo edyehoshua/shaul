@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 7 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                                                                                                  | Observación                                                                                           |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #devarim_7_1 | **כי יביא/ך יהוה אלהי/ך אל ה/ארץ אשר אתה בא שמ/ה ל/רשת/ה ו/נשל גוים רבים מ/פני/ך ה/חתי ו/ה/גרגשי ו/ה/אמרי ו/ה/כנעני ו/ה/פרזי ו/ה/חוי ו/ה/יבוסי שבעה גוים רבים ו/עצומים ממ/ך** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_7_1 | **כי יביאך יהוה אלהיך אל הארץ אשר אתה בא שמה לרשתה ונשל גוים רבים מפניך החתי והגרגשי והאמרי והכנעני והפרזי והחוי והיבוסי שבעה גוים רבים ועצומים ממך** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

@@ -20,7 +20,7 @@ source_ids: ["youtube:W7YQMoZZLWc"]
 
 | Referencia | Hebreo local                                | TTH (ES)                                                                      |
 | ---------- | ------------------------------------------- | ----------------------------------------------------------------------------- |
-| #micah_6_8 | `עשות משפט ו/אהבת חסד ו/הצנע לכת עם אלהי/ך` | «Hacer el proceso legal, amar la bondad, y modestamente andar con tu Elohim». |
+| #micah_6_8 | `עשות משפט ואהבת חסד והצנע לכת עם אלהיך` | «Hacer el proceso legal, amar la bondad, y modestamente andar con tu Elohim». |
 
 ## Lectura
 

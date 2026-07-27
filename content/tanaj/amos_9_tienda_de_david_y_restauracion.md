@@ -22,7 +22,7 @@ La exposición selecciona Amós 9 como haftará de Qedoshim y contrasta tradicio
 
 | Referencia | Hebreo local                                             | TTH (ES)                                                                                    | Observación                                                |
 | ---------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| #amos_9_11 | `ב/יום ה/הוא אקים את סכת דויד ה/נפלת ו/גדרתי את פרצי/הן` | «En aquel día levantaré el tabernáculo de David, el que está caído, y tapiaré sus brechas». | La restauración nombra una estructura caída y sus brechas. |
+| #amos_9_11 | `ביום ההוא אקים את סכת דויד הנפלת וגדרתי את פרציהן` | «En aquel día levantaré el tabernáculo de David, el que está caído, y tapiaré sus brechas». | La restauración nombra una estructura caída y sus brechas. |
 
 ## Santidad, juicio y esperanza
 

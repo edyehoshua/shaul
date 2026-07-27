@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 12. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                 | Observación de lectura                                               |
 | ------------- | --------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_12_1 | ל/מנצח על ה/שמינית מזמור ל/דוד          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_12_9 | סביב רשעים יתהלכו/ן כ/רם זלות ל/בני אדם | El verso final permite observar el cierre de la composición.         |
+| #tehilim_12_1 | למנצח על השמינית מזמור לדוד          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_12_9 | סביב רשעים יתהלכון כרם זלות לבני אדם | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 71. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                   | Observación de lectura                                               |
 | -------------- | --------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_71_1  | ב/ך יהוה חסיתי אל אבושה ל/עולם                            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_71_24 | גם לשונ/י כל ה/יום תהגה צדקת/ך כי בשו כי חפרו מבקשי רעת/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_71_1  | בך יהוה חסיתי אל אבושה לעולם                            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_71_24 | גם לשוני כל היום תהגה צדקתך כי בשו כי חפרו מבקשי רעתי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

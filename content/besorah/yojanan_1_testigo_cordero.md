@@ -61,7 +61,7 @@ La nota organiza y contrasta transcripciones automáticas; **no las trata como c
 | #iojanan_1_40-42 | Andreas anuncia: «¡Hemos hallado al Mesías!» y lleva a Shimón ante Yehoshua, quien le dice que será llamado Kefa.                                                 | La confesión y el llamado se transmiten de discípulo a discípulo.                              |
 | #iojanan_1_43-49 | Filipos invita a Netanel: «Ven y ve»; Netanel confiesa: «Tú eres el Hijo de Elohim; Tú eres el Rey de Israel».                                                    | La invitación no elimina la pregunta; conduce a una confesión en el relato.                    |
 | #iojanan_1_50-51 | TTH: «Amén, amén, les digo: “Desde ahora verán los cielos abiertos, y los ángeles de Elohim subiendo y bajando sobre el Ben Ha’Adam”». Delitzsch: **על בן האדם**. | El capítulo termina con una imagen que remite a Yaakov.                                        |
-| #bereshit_28_12  | OE: **ו/יחלם ו/הנה סלם מצב ארצ/ה ו/ראש/ו מגיע ה/שמימ/ה ו/הנה מלאכי אלהים עלים ו/ירדים ב/ו**.                                                                      | La escalera y los mensajeros que suben y bajan ofrecen el antecedente verbal de #iojanan_1_51. |
+| #bereshit_28_12  | OE: **ויחלם והנה סלם מצב ארצה וראשו מגיע השמימה והנה מלאכי אלהים עלים וירדים בו**.                                                                      | La escalera y los mensajeros que suben y bajan ofrecen el antecedente verbal de #iojanan_1_51. |
 
 ## El testigo prepara el camino de יהוה
 

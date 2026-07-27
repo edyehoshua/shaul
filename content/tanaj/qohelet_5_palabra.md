@@ -30,8 +30,8 @@ Qohélet 5 considera la reverencia al hablar ante Elohim, la seriedad de los vot
 
 | Referencia         | Texto local (OE, sin nikud)                                                                                           | Observación                                    |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_5_1  | **אל תבהל על פי/ך ו/לב/ך אל ימהר ל/הוציא דבר ל/פני ה/אלהים כי ה/אלהים ב/שמים ו/אתה על ה/ארץ על כן יהיו דברי/ך מעטים** | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_5_19 | **כי לא הרבה יזכר את ימי חיי/ו כי ה/אלהים מענה ב/שמחת לב/ו**                                                          | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_5_1  | **אל תבהל על פיך ולבך אל ימהר להוציא דבר לפני האלהים כי האלהים בשמים ואתה על הארץ על כן יהיו דבריך מעטים** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_5_19 | **כי לא הרבה יזכר את ימי חייו כי האלהים מענה בשמחת לבו**                                                          | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

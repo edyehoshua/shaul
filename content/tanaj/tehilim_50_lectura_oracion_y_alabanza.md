@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 50. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                      | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_50_1  | מזמור ל/אסף אל אלהים יהוה דבר ו/יקרא ארץ מ/מזרח שמש עד מבא/ו | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_50_23 | זבח תודה יכבד/נני ו/שם דרך ארא/נו ב/ישע אלהים                | El verso final permite observar el cierre de la composición.         |
+| #tehilim_50_1  | מזמור לאסף אל אלהים יהוה דבר ויקרא ארץ ממזרח שמש עד מבאו | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_50_23 | זבח תודה יכבדנני ושם דרך אראנו בישע אלהים                | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

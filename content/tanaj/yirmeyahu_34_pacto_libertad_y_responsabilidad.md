@@ -19,7 +19,7 @@ Jeremías 34 conecta el pacto de יהוה con la liberación de la casa de sierv
 
 | Referencia      | Texto hebreo local                                                                                 | Observación                                            |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| #irmeiahu_34_13 | כה אמר יהוה אלהי ישראל אנכי כרתי ברית את אבותי/כם ב/יום הוצא/י אות/ם מ/ארץ מצרים מ/בית עבדים ל/אמר | El recuerdo del éxodo fundamenta la obligación social. |
+| #irmeiahu_34_13 | כה אמר יהוה אלהי ישראל אנכי כרתי ברית את אבותיכם ביום הוצאי אותם מארץ מצרים מבית עבדים לאמר | El recuerdo del éxodo fundamenta la obligación social. |
 
 ## Lectura
 

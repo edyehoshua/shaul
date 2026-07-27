@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 45. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                               | Observación de lectura                                               |
 | -------------- | ----------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_45_1  | ל/מנצח על ששנים ל/בני קרח משכיל שיר ידידת             | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_45_18 | אזכירה שמ/ך ב/כל דר ו/דר על כן עמים יהוד/ך ל/עלם ו/עד | El verso final permite observar el cierre de la composición.         |
+| #tehilim_45_1  | למנצח על ששנים לבני קרח משכיל שיר ידידת             | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_45_18 | אזכירה שמך בכל דר ודר על כן עמים יהודך לעלם ועד | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

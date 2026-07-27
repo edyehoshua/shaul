@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 1 dentro de esta incorporación. La transc
 
 | Referencia  | Hebreo local (OE, sin nikud)                                    | Observación                                                                                           |
 | ----------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_1_1 | **ו/אלה שמות בני ישראל ה/באים מצרימ/ה את יעקב איש ו/בית/ו באו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_1_1 | **ואלה שמות בני ישראל הבאים מצרימה את יעקב איש וביתו באו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

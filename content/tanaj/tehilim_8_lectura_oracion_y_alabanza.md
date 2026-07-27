@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 8. La transcripció
 
 | Referencia    | Texto hebreo local (OE)              | Observación de lectura                                               |
 | ------------- | ------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_8_1  | ל/מנצח על ה/גתית מזמור ל/דוד         | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_8_10 | יהוה אדני/נו מה אדיר שמ/ך ב/כל ה/ארץ | El verso final permite observar el cierre de la composición.         |
+| #tehilim_8_1  | למנצח על הגתית מזמור לדוד         | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_8_10 | יהוה אדנינו מה אדיר שמך בכל הארץ | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

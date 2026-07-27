@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 61. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                  | Observación de lectura                                               |
 | ------------- | ---------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_61_1 | ל/מנצח על נגינת ל/דוד                    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_61_9 | כן אזמרה שמ/ך ל/עד ל/שלמ/י נדר/י יום יום | El verso final permite observar el cierre de la composición.         |
+| #tehilim_61_1 | למנצח על נגינת לדוד                    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_61_9 | כן אזמרה שמך לעד לשלמי נדרי יום יום | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -60,8 +60,8 @@ La clase propone que la expresión "espíritu inmundo" debe leerse con más prec
 | #markos_1_27 | TTH: "¿Qué enseñanza nueva es esta suya? ¡Porque con poder aun a los espíritus impuros da orden, y ellos le escuchan!" / Delitzsch: אף לרוחות הטמאה מצוה הוא בגבורה והנה שמעות לו | La novedad percibida es autoridad: los poderes escuchan y obedecen. |
 | #matityahu_12_43-45 | TTH: el espíritu impuro sale, vuelve a la casa vacía y trae siete peores. | La clase advierte que expulsar sin llenar de palabra, discipulado y presencia de Elohim deja a la persona vulnerable. |
 | #markos_4_15 | TTH: cuando se siembra la palabra, Ha'satán quita lo sembrado en el corazón. | La cautividad también puede bloquear la recepción de la palabra, no solo producir síntomas visibles. |
-| #shemuel_alef_16_14 | ו/רוח יהוה סרה מ/עם שאול ו/בעתת/ו רוח רעה מ/את יהוה | El caso de Shaúl muestra tormento por un poder adverso después de apartarse la ruaj de יהוה. |
-| #shemuel_alef_16_23 | ו/היה ב/היות רוח אלהים אל שאול ו/לקח דוד את ה/כנור ו/נגן ב/יד/ו ו/רוח ל/שאול ו/טוב ל/ו ו/סרה מ/עלי/ו רוח ה/רעה | La música guiada por el poder de Elohim apacigua y aparta el tormento. |
+| #shemuel_alef_16_14 | ורוח יהוה סרה מעם שאול ובעתתו רוח רעה מאת יהוה | El caso de Shaúl muestra tormento por un poder adverso después de apartarse la ruaj de יהוה. |
+| #shemuel_alef_16_23 | והיה בהיות רוח אלהים אל שאול ולקח דוד את הכנור ונגן בידו ורוח לשאול וטוב לו וסרה מעליו רוח הרעה | La música guiada por el poder de Elohim apacigua y aparta el tormento. |
 | #maasei_hashlijim_16_16-18 | Delitzsch: שפחה בעלת אוב... ויאמר אל הרוח אנכי מצוך בשם ישוע המשיח לצאת ממנה | El caso de la muchacha con adivinación muestra que un poder puede hablar verdad parcial y aun así ser rechazado por el siervo del Mesías. |
 | #qorintiyim_bet_4_4 | Delitzsch: אל העולם הזה עור בהם את מחשבות חסרי האמונה | La ceguera del entendimiento se lee como bloqueo espiritual que impide ver la gloria del Mesías. |
 | #vaikra_13_45 | TTH: el tzarúa grita "¡Impuro, impuro!" / OE: וטמא טמא יקרא | La clase usa tzaraat para explicar tumah como inhabilidad, no como simple suciedad. |

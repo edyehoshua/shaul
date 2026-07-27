@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 96. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                            | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_96_1  | שירו ל/יהוה שיר חדש שירו ל/יהוה כל ה/ארץ                           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_96_13 | ל/פני יהוה כי בא כי בא ל/שפט ה/ארץ ישפט תבל ב/צדק ו/עמים ב/אמונת/ו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_96_1  | שירו ליהוה שיר חדש שירו ליהוה כל הארץ                           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_96_13 | לפני יהוה כי בא כי בא לשפט הארץ ישפט תבל בצדק ועמים באמונתו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

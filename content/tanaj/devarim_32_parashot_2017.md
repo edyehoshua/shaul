@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 32 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud)                    | Observación                                                                                           |
 | ------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #devarim_32_1 | **האזינו ה/שמים ו/אדברה ו/תשמע ה/ארץ אמרי פ/י** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_32_1 | **האזינו השמים ואדברה ותשמע הארץ אמרי פי** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

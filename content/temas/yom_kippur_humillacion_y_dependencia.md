@@ -61,16 +61,16 @@ Los diez videos reunidos incluyen reflexiones contemporáneas, una haftará, un 
 
 | Referencia          | Texto local                                                                                                 | Observación                                                                 |
 | ------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| #leviticus_23_27    | **אך ב/עשור ל/חדש ה/שביעי ה/זה יום ה/כפרים הוא מקרא קדש יהיה ל/כם ו/עניתם את נפשתי/כם ו/הקרבתם אשה ל/יהוה** | El día décimo es Yom haKippurim, convocación santa y día de humillación.    |
-| #leviticus_23_32    | **שבת שבתון הוא ל/כם ו/עניתם את נפשתי/כם ב/תשעה ל/חדש ב/ערב מ/ערב עד ערב תשבתו שבת/כם**                     | El texto da el marco de reposo y de una observancia de tarde a tarde.       |
-| #numbers_29_7       | **ו/ב/עשור ל/חדש ה/שביעי ה/זה מקרא קדש יהיה ל/כם ו/עניתם את נפשתי/כם כל מלאכה לא תעשו**                     | Números reafirma la convocación, la humillación y la abstención de trabajo. |
-| #leviticus_16_29-30 | **ב/חדש ה/שביעי ב/עשור ל/חדש תענו את נפשתי/כם... כי ב/יום ה/זה יכפר עלי/כם ל/טהר את/כם**                    | Levítico 16 sitúa la humillación y la purificación en el rito anual.        |
-| #leviticus_25_9-10  | **ב/יום ה/כפרים תעבירו שופר ב/כל ארצ/כם... ו/קראתם דרור ב/ארץ**                                             | El shofar de Yom haKippurim anuncia el jubileo y la liberación.             |
-| #isaiah_57_13-15    | **ו/ה/חוסה ב/י ינחל ארץ... ו/את דכא ו/שפל רוח ל/החיות רוח שפלים**                                           | La haftará une refugio, camino despejado y la vivificación del humilde.     |
+| #leviticus_23_27    | **אך בעשור לחדש השביעי הזה יום הכפרים הוא מקרא קדש יהיה לכם ועניתם את נפשתיכם והקרבתם אשה ליהוה** | El día décimo es Yom haKippurim, convocación santa y día de humillación.    |
+| #leviticus_23_32    | **שבת שבתון הוא לכם ועניתם את נפשתיכם בתשעה לחדש בערב מערב עד ערב תשבתו שבתכם**                     | El texto da el marco de reposo y de una observancia de tarde a tarde.       |
+| #numbers_29_7       | **ובעשור לחדש השביעי הזה מקרא קדש יהיה לכם ועניתם את נפשתיכם כל מלאכה לא תעשו**                     | Números reafirma la convocación, la humillación y la abstención de trabajo. |
+| #leviticus_16_29-30 | **בחדש השביעי בעשור לחדש תענו את נפשתיכם... כי ביום הזה יכפר עליכם לטהר אתכם**                    | Levítico 16 sitúa la humillación y la purificación en el rito anual.        |
+| #leviticus_25_9-10  | **ביום הכפרים תעבירו שופר בכל ארצכם... וקראתם דרור בארץ**                                             | El shofar de Yom haKippurim anuncia el jubileo y la liberación.             |
+| #isaiah_57_13-15    | **והחוסה בי ינחל ארץ... ואת דכא ושפל רוח להחיות רוח שפלים**                                           | La haftará une refugio, camino despejado y la vivificación del humilde.     |
 
 ## Humillarse sin reducir el día a una fórmula
 
-Las sesiones preguntan cómo entender la expresión de humillarse y discuten el ayuno. Los textos citados ordenan «עניתם את נפשתי/כם», pero el alcance de esa expresión y sus aplicaciones prácticas requiere lectura cuidadosa de Levítico 16 y 23. No es prudente usar una costumbre o una necesidad personal para medir la devoción ajena; el cuidado de enfermos y personas vulnerables demanda discernimiento responsable.
+Las sesiones preguntan cómo entender la expresión de humillarse y discuten el ayuno. Los textos citados ordenan «עניתם את נפשתיכם», pero el alcance de esa expresión y sus aplicaciones prácticas requiere lectura cuidadosa de Levítico 16 y 23. No es prudente usar una costumbre o una necesidad personal para medir la devoción ajena; el cuidado de enfermos y personas vulnerables demanda discernimiento responsable.
 
 La sesión de 5780 presenta el ayuno como asunto a considerar desde #leviticus_23_26-32 y la de 5781 abre la reunión al comenzar el día. Son datos de la clase, no una definición exhaustiva del término ni una regla para imponer una práctica idéntica a cada persona.
 

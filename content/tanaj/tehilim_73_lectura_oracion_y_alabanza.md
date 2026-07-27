@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 73. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                            | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_73_1  | מזמור ל/אסף אך טוב ל/ישראל אלהים ל/ברי לבב                         | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_73_28 | ו/אני קרבת אלהים ל/י טוב שתי ב/אדנ/י יהוה מחס/י ל/ספר כל מלאכותי/ך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_73_1  | מזמור לאסף אך טוב לישראל אלהים לברי לבב                         | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_73_28 | ואני קרבת אלהים לי טוב שתי באדני יהוה מחסי לספר כל מלאכותיך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

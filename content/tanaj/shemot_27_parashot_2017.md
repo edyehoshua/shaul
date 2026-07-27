@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 27 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                | Observación                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_27_1 | **ו/עשית את ה/מזבח עצי שטים חמש אמות ארך ו/חמש אמות רחב רבוע יהיה ה/מזבח ו/שלש אמות קמת/ו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_27_1 | **ועשית את המזבח עצי שטים חמש אמות ארך וחמש אמות רחב רבוע יהיה המזבח ושלש אמות קמתו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

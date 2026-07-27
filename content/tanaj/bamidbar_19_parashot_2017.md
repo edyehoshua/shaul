@@ -27,7 +27,7 @@ Esta es la nota canónica para Bamidbar 19 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)           | Observación                                                                                           |
 | -------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_19_1 | **ו/ידבר יהוה אל משה ו/אל אהרן ל/אמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bamidbar_19_1 | **וידבר יהוה אל משה ואל אהרן לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

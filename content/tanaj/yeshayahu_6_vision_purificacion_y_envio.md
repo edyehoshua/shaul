@@ -19,7 +19,7 @@ Isaías 6 muestra que el envío profético nace de una visión de la santidad de
 
 | Referencia     | Texto hebreo local                                                  | Observación                                          |
 | -------------- | ------------------------------------------------------------------- | ---------------------------------------------------- |
-| #ieshaiahu_6_8 | ו/אשמע את קול אדנ/י אמר את מי אשלח ו/מי ילך ל/נו ו/אמר הנ/ני שלח/ני | El profeta responde al llamado después de la visión. |
+| #ieshaiahu_6_8 | ואשמע את קול אדני אמר את מי אשלח ומי ילך לנו ואמר הנני שלחני | El profeta responde al llamado después de la visión. |
 
 ## Lectura
 

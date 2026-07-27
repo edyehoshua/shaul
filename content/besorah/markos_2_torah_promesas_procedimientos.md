@@ -78,10 +78,10 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 | #markos_2_5 | TTH: Yeshúa vio la emunah de quienes cargaban al hombre y le dijo: «Hijo mío, te son soportadas tus transgresiones». | El perdón aparece como restauración real, no como una frase sin consecuencias. |
 | #markos_2_7 | TTH: los escribas preguntan quién puede soportar las transgresiones «sino solamente Elohim». | La objeción identifica el peso teológico de lo que Yeshúa acaba de hacer. |
 | #markos_2_10-11 | TTH: «el Ben HaAdam tiene poder para soportar las transgresiones en la tierra»; luego ordena al hombre levantarse, tomar su camilla e ir a casa. | La sanidad visible confirma la autoridad invisible para perdonar. |
-| #irmeiahu_31_31 | OE: הנה ימים באים נאם יהוה ו/כרתי את בית ישראל ו/את בית יהודה ברית חדשה | יהוה promete un pacto nuevo con la casa de Israel y la casa de Iehudáh. |
-| #irmeiahu_31_33 | OE: נתתי את תורת/י ב/קרב/ם ו/על לב/ם אכתב/נה ו/הייתי ל/הם ל/אלהים ו/המה יהיו ל/י ל/עם | El nuevo pacto internaliza la Torah y reafirma la relación «Elohim/pueblo»; no define novedad como abolición. |
+| #irmeiahu_31_31 | OE: הנה ימים באים נאם יהוה וכרתי את בית ישראל ואת בית יהודה ברית חדשה | יהוה promete un pacto nuevo con la casa de Israel y la casa de Iehudáh. |
+| #irmeiahu_31_33 | OE: נתתי את תורתי בקרבם ועל לבם אכתבנה והייתי להם לאלהים והמה יהיו לי לעם | El nuevo pacto internaliza la Torah y reafirma la relación «Elohim/pueblo»; no define novedad como abolición. |
 | #melajim_alef_2_3-4 | OE: David manda a Shlomó guardar la encomienda de יהוה, andar en sus caminos y guardar חקתיו, מצותיו, משפטיו y עדותיו; así יהוה confirmará su palabra. | Obediencia humana y palabra divina aparecen unidas sin confundirse. |
-| #tehilim_40_7-9 | OE: זבח ו/מנחה לא חפצת... הנה באתי ב/מגלת ספר כתוב על/י... ל/עשות רצונ/ך אלה/י חפצתי ו/תורת/ך ב/תוך מע/י | El salmo describe al que viene según el rollo, desea hacer la voluntad de Elohim y lleva su Torah dentro. |
+| #tehilim_40_7-9 | OE: זבח ומנחה לא חפצת... הנה באתי במגלת ספר כתוב עלי... לעשות רצונך אלהי חפצתי ותורתך בתוך מעי | El salmo describe al que viene según el rollo, desea hacer la voluntad de Elohim y lleva su Torah dentro. |
 | #ivrim_10_5-7 | Delitzsch cita el salmo y expresa «me preparaste cuerpo» antes de «he aquí, vengo... para hacer tu voluntad». | La clase conecta el cuerpo preparado con la obediencia concreta del Mesías. |
 | #matityahu_5_18 | TTH: mientras permanezcan cielo y tierra, «ni una letra ni un punto cesará de la Torah o de los profetas, porque todo será establecido». | Cierre de la clase: la fidelidad de יהוה alcanza hasta el detalle más pequeño. |
 | #markos_7_15-19 | TTH: lo que entra desde fuera no contamina el corazón; va al vientre y sale a la letrina. | La clase lo usa para distinguir impureza moral de higiene y para discutir añadidos tradicionales sobre alimentos declarados limpios. |
@@ -93,7 +93,7 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 | Término | Transliteración | Uso en la clase | Tipo de equivalencia | Cautela |
 | --- | --- | --- | --- | --- |
 | **(תורה)** | Torah | instrucción, voluntad y orden de Elohim | Aproximada | No reducirla a «ley» en sentido moderno ni a una lista indiferenciada de órdenes. |
-| **(חוקים)** | juqim | promesas, respaldos o compromisos inamovibles de Elohim | Pedagógica | חק/חוקים suele abarcar estatuto, prescripción o porción fijada; la definición de la clase requiere cotejo lexical y contextual. |
+| **(חוקים)** | juqim | promesas, respaldos o compromisos inamovibles de Elohim | Pedagógica | חקחוקים suele abarcar estatuto, prescripción o porción fijada; la definición de la clase requiere cotejo lexical y contextual. |
 | **(משפטים)** | mishpatim | procedimientos que el pueblo debe ejecutar | Pedagógica | משפטים también puede significar juicios, decisiones o normas jurídicas; «procedimientos» no agota el término. |
 | **(מצות)** | mitzvot | competencias formadas por la práctica de acciones | Pedagógica | La derivación expuesta desde múltiples mishpatim no se ha verificado en un léxico histórico. |
 | **(עדות)** | edot | testimonios de lo que Elohim hizo y hará | Aproximada | El término puede nombrar testimonio, señal o estipulación testimonial. |
@@ -155,8 +155,8 @@ El punto no es convertir cada discusión caligráfica en doctrina, sino afirmar 
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **(חק/חוקים)** en léxicos y en #mishlei_30_8, #irmeiahu_31_35-36 y #irmeiahu_33_20-26 antes de definirlo de forma general como «promesa inamovible».
-- [ ] Cotejar **(משפט/משפטים)** como «procedimiento» frente a sus usos de juicio, decisión legal, derecho y norma.
+- [ ] Cotejar **(חקחוקים)** en léxicos y en #mishlei_30_8, #irmeiahu_31_35-36 y #irmeiahu_33_20-26 antes de definirlo de forma general como «promesa inamovible».
+- [ ] Cotejar **(משפטמשפטים)** como «procedimiento» frente a sus usos de juicio, decisión legal, derecho y norma.
 - [ ] Verificar la propuesta de **mitzvá** como «competencia» formada por múltiples mishpatim.
 - [ ] Revisar **(ἀνομία)** en los pasajes apostólicos citados por la clase y evitar convertir su etimología en una definición única.
 - [ ] Cotejar #markos_7_19 en griego y su relación sintáctica con «purificando todos los alimentos».

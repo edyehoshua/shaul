@@ -31,7 +31,7 @@ Esta nota canónica reúne la fuente disponible para Tehilim 94. La transcripci�
 | Referencia     | Texto hebreo local (OE)                                      | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
 | #tehilim_94_1  | אל נקמות יהוה אל נקמות הופיע                                 | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_94_23 | ו/ישב עלי/הם את אונ/ם ו/ב/רעת/ם יצמית/ם יצמית/ם יהוה אלהי/נו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_94_23 | וישב עליהם את אונם וברעתם יצמיתם יצמיתם יהוה אלהינו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

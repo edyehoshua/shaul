@@ -27,7 +27,7 @@ Esta es la nota canónica para Bamidbar 22 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                               | Observación                                                                                           |
 | -------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_22_1 | **ו/יסעו בני ישראל ו/יחנו ב/ערבות מואב מ/עבר ל/ירדן ירחו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bamidbar_22_1 | **ויסעו בני ישראל ויחנו בערבות מואב מעבר לירדן ירחו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

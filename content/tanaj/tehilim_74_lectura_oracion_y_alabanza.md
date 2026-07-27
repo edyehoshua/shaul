@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 74. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                   | Observación de lectura                                               |
 | -------------- | --------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_74_1  | משכיל ל/אסף ל/מה אלהים זנחת ל/נצח יעשן אפ/ך ב/צאן מרעית/ך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_74_23 | אל תשכח קול צררי/ך שאון קמי/ך עלה תמיד                    | El verso final permite observar el cierre de la composición.         |
+| #tehilim_74_1  | משכיל לאסף למה אלהים זנחת לנצח יעשן אפך בצאן מרעיתך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_74_23 | אל תשכח קול צרריך שאון קמיך עלה תמיד                    | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

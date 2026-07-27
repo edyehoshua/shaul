@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 89. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)    | Observación de lectura                                               |
 | -------------- | -------------------------- | -------------------------------------------------------------------- |
-| #tehilim_89_1  | משכיל ל/איתן ה/אזרחי       | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_89_53 | ברוך יהוה ל/עולם אמן ו/אמן | El verso final permite observar el cierre de la composición.         |
+| #tehilim_89_1  | משכיל לאיתן האזרחי       | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_89_53 | ברוך יהוה לעולם אמן ואמן | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

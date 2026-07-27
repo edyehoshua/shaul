@@ -22,7 +22,7 @@ La clase introduce a Amós y su contexto en el reino dividido. La explicación d
 
 | Texto local                                                                                                 | Observación                                               |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| #amos_2_6 — `כה אמר יהוה על שלשה פשעי ישראל ו/על ארבעה לא אשיב/נו על מכר/ם ב/כסף צדיק ו/אביון ב/עבור נעלים` | La acusación nombra la explotación del justo y del pobre. |
+| #amos_2_6 — `כה אמר יהוה על שלשה פשעי ישראל ועל ארבעה לא אשיבנו על מכרם בכסף צדיק ואביון בעבור נעלים` | La acusación nombra la explotación del justo y del pobre. |
 
 ## Conexiones principales
 

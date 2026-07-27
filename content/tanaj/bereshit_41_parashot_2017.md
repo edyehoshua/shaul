@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 41 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                            | Observación                                                                                           |
 | -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_41_1 | **ו/יהי מ/קץ שנתים ימים ו/פרעה חלם ו/הנה עמד על ה/יאר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_41_1 | **ויהי מקץ שנתים ימים ופרעה חלם והנה עמד על היאר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

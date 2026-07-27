@@ -53,8 +53,8 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 | -------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------ |
 | #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים                                            | Y era Janucá en Ierushaláim, y era invierno.                                      | El relato ubica la escena en la fiesta.    |
 | #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | …¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Presión mesiánica en el marco de Janucá.   |
-| #tehilim_30_1  | מזמור שיר חנכת ה/בית ל/דוד                                                    | Te exaltaré, יהוה, porque me has liberado…                                        | Encabezado: salmo de dedicación del bayit. |
-| #tehilim_30_2  | ארוממ/ך יהוה כי דלית/ני ו/לא שמחת איב/י ל/י                                   | יהוה, mi Elohim, grité por ayuda a ti y me sanaste.                               | Memoria de liberación ligada a la casa.    |
+| #tehilim_30_1  | מזמור שיר חנכת הבית לדוד                                                    | Te exaltaré, יהוה, porque me has liberado…                                        | Encabezado: salmo de dedicación del bayit. |
+| #tehilim_30_2  | ארוממך יהוה כי דליתני ולא שמחת איבי לי                                   | יהוה, mi Elohim, grité por ayuda a ti y me sanaste.                               | Memoria de liberación ligada a la casa.    |
 
 ## Hoja léxica
 

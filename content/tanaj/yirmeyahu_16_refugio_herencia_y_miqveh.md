@@ -22,7 +22,7 @@ La clase recorre el contexto de Jeremías 16 y parte del 17 para la haftará de 
 
 | Referencia      | Hebreo local                           | TTH (ES)                                                           | Observación                                                 |
 | --------------- | -------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
-| #irmeiahu_16_19 | `יהוה עז/י ו/מעז/י ו/מנוס/י ב/יום צרה` | «¡יהוה, fuerza mía y refugio mío, escape mío en día de estrechez!» | La confesión abre hacia las naciones y sus herencias vanas. |
+| #irmeiahu_16_19 | `יהוה עזי ומעזי ומנוסי ביום צרה` | «¡יהוה, fuerza mía y refugio mío, escape mío en día de estrechez!» | La confesión abre hacia las naciones y sus herencias vanas. |
 
 ## Una esperanza que no se hereda por costumbre
 

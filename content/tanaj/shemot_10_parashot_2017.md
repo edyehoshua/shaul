@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 10 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                       | Observación                                                                                           |
 | ------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_10_1 | **ו/יאמר יהוה אל משה בא אל פרעה כי אני הכבדתי את לב/ו ו/את לב עבדי/ו למען שת/י אתת/י אלה ב/קרב/ו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_10_1 | **ויאמר יהוה אל משה בא אל פרעה כי אני הכבדתי את לבו ואת לב עבדיו למען שתי אתתי אלה בקרבו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

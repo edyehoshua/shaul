@@ -61,7 +61,7 @@ Esta nota organiza dos clases consecutivas de Eric de Jesús sobre #iojanan_13_1
 | #iojanan_13_21    | TTH: «Y cuando dijo Yeshúa estas palabras, se estremeció en su espíritu… uno de ustedes me entregará.»                                                                                | La entrega no se describe con indiferencia; conmueve a Yehoshua.                                           |
 | #iojanan_13_25-27 | Delitzsch: «אדני מי הוא … זה הוא אשר אטבללו פרוסה ונתתיה לו … ואחרי אכלו את הפרוסה בא השטן אל קרבו»                                                                                   | La pregunta reservada recibe una señal: el bocado sumergido dado a Iehudáh.                                |
 | #iojanan_13_28-30 | TTH: «Ninguno de los que estaban sentados en la ronda entendió… Y cuando tomó el bocado de pan, rápidamente salió. Y era de noche.»                                                   | Los otros no comprenden el sentido del encargo; el relato marca la salida de Iehudáh.                      |
-| #bereshit_3_15    | OE: «ו/איבה אשית בינ/ך ו/בין ה/אשה ו/בין זרע/ך ו/בין זרע/ה הוא ישופ/ך ראש ו/אתה תשופ/נו עקב»                                                                                          | La clase asocia el motivo del talón con esta promesa; la conexión es intertextual, no una cita de Yojanán. |
+| #bereshit_3_15    | OE: «ואיבה אשית בינך ובין האשה ובין זרעך ובין זרעה הוא ישופך ראש ואתה תשופנו עקב»                                                                                          | La clase asocia el motivo del talón con esta promesa; la conexión es intertextual, no una cita de Yojanán. |
 
 ## Escritura, cercanía y el talón
 

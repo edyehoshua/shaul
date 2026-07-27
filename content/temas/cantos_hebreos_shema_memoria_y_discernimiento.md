@@ -62,9 +62,9 @@ Las transcripciones son automáticas y varias alternan hebreo, árabe, ruso o pa
 
 | Referencia         | Texto local                                                                                                 | Observación                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #deuteronomy_6_4-5 | **שמע ישראל יהוה אלהי/נו יהוה אחד׃ ו/אהבת את יהוה אלהי/ך בכל לבב/ך ובכל נפש/ך ובכל מאד/ך**                  | El Shemá confiesa la unicidad de יהוה y enlaza esa confesión con amarle íntegramente.             |
-| #deuteronomy_6_6-9 | **ו/היו ה/דברים ה/אלה אשר אנכי מצו/ך היום על לבב/ך׃ ו/שננתם ל/בני/ך ... ו/כתבתם על מזוזות בית/ך וב/שערי/ך** | Las palabras han de permanecer en el corazón, enseñarse y hacerse presentes en la vida cotidiana. |
-| #psalms_121_3-4    | **אל יתן ל/מוט רגל/ך אל ינום שמר/ך׃ הנה לא ינום ולא יישן שומר ישראל**                                       | El salmo nombra a יהוה como guardián que no duerme ni se adormece.                                |
+| #deuteronomy_6_4-5 | **שמע ישראל יהוה אלהינו יהוה אחד׃ ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**                  | El Shemá confiesa la unicidad de יהוה y enlaza esa confesión con amarle íntegramente.             |
+| #deuteronomy_6_6-9 | **והיו הדברים האלה אשר אנכי מצוך היום על לבבך׃ ושננתם לבניך ... וכתבתם על מזוזות ביתך ובשעריך** | Las palabras han de permanecer en el corazón, enseñarse y hacerse presentes en la vida cotidiana. |
+| #psalms_121_3-4    | **אל יתן למוט רגלך אל ינום שמרך׃ הנה לא ינום ולא יישן שומר ישראל**                                       | El salmo nombra a יהוה como guardián que no duerme ni se adormece.                                |
 
 ## Del audio al texto comprobable
 

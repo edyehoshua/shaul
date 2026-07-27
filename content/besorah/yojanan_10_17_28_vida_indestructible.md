@@ -71,9 +71,9 @@ El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse co
 | #timoteo_alef_6_15 | אשר יראנה בעתה המברך והשליט לבדו מלך המלכים ואדני האדנים (Delitzsch) | Pendiente en TTH local | Rey de reyes; soberano único. |
 | #timoteo_alef_6_16 | אשר הוא לבדו חי וקים והוא שכן אור נשגב ואיש לא ראהו ולא יוכל לראותו (Delitzsch) | Pendiente en TTH local | Vida e inmortalidad solo en él. |
 | #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח (Delitzsch) | Pendiente en TTH local | Gran Elohim y Salvador: Yeshúa el Mesías. |
-| #ieshaiahu_53_7 | נגש ו/הוא נענה ו/לא יפתח פי/ו כ/שה ל/טבח יובל... | Fue oprimido... como cordero para sacrificio fue llevado... | Silencio deliberado del Siervo. |
-| #zejariah_12_10 | ו/שפכתי על בית דויד... ו/הביטו אל/י את אשר דקרו | ...me mirarán a Mí, al que traspasarán. | יהוה anticipa ser traspasado. |
-| #tehilim_103_13 | כ/רחם אב על בנים רחם יהוה על יראי/ו | Como se compadece un padre sobre los hijos... | Abba como amor entrañable y misericordia. |
+| #ieshaiahu_53_7 | נגש והוא נענה ולא יפתח פיו כשה לטבח יובל... | Fue oprimido... como cordero para sacrificio fue llevado... | Silencio deliberado del Siervo. |
+| #zejariah_12_10 | ושפכתי על בית דויד... והביטו אלי את אשר דקרו | ...me mirarán a Mí, al que traspasarán. | יהוה anticipa ser traspasado. |
+| #tehilim_103_13 | כרחם אב על בנים רחם יהוה על יראיו | Como se compadece un padre sobre los hijos... | Abba como amor entrañable y misericordia. |
 
 ## Hoja léxica
 

@@ -22,7 +22,7 @@ La clase relaciona esta haftará con Tzav y con la enseñanza sobre los sacrific
 
 | Referencia     | Hebreo local                                                      | TTH (ES)                                                               | Observación                                           |
 | -------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------- |
-| #irmeiahu_7_21 | `כה אמר יהוה צבאות אלהי ישראל עלותי/כם ספו על זבחי/כם ו/אכלו בשר` | «Sus ofrendas ascendidas añadan sobre sus sacrificios, y coman carne». | El mandato irónico cuestiona un culto que no escucha. |
+| #irmeiahu_7_21 | `כה אמר יהוה צבאות אלהי ישראל עלותיכם ספו על זבחיכם ואכלו בשר` | «Sus ofrendas ascendidas añadan sobre sus sacrificios, y coman carne». | El mandato irónico cuestiona un culto que no escucha. |
 
 ## Culto y obediencia
 

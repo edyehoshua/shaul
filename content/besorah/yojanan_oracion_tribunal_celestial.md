@@ -124,11 +124,11 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 
 | Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
-| #zejariah_3_1 | ו/ירא/ני את יהושע ה/כהן ה/גדול עמד ל/פני מלאך יהוה | Yehoshúa el gran sacerdote parado delante del ángel de יהוה | Protocolo de corte celestial; Yeshúa no es el malaj ante quien se presenta otro Yeshúa |
-| #zejariah_3_2 | ו/יאמר יהוה אל ה/שטן יגער יהוה ב/ך ה/שטן | יהוה reprende a Ha'satán | Mensajero de la oficina judicial; יהוה como atributo de juicio |
-| #tehilim_110_1 | נאם יהוה ל/אדנ/י שב ל/ימינ/י | Declaración de יהוה a mi Amo: Siéntate a mi diestra | Edicto de la corte celestial, no dos personas rivales |
-| #daniel_7_9 | ...עתיק יומין יתב לבוש/ה כ/תלג חור ו/שער ראש/ה כ/עמר נקא | — (sin TTH local) | Atik Yomin: metalenguaje de majestad, no anciano literal separado del Hijo |
-| #daniel_7_13 | ...כ/בר אנש... ו/עד עתיק יומי/א מטה ו/קדמו/הי הקרבו/הי | — (sin TTH local) | Bar Enash se acerca; la corte celestial lo presenta |
+| #zejariah_3_1 | ויראני את יהושע הכהן הגדול עמד לפני מלאך יהוה | Yehoshúa el gran sacerdote parado delante del ángel de יהוה | Protocolo de corte celestial; Yeshúa no es el malaj ante quien se presenta otro Yeshúa |
+| #zejariah_3_2 | ויאמר יהוה אל השטן יגער יהוה בך השטן | יהוה reprende a Ha'satán | Mensajero de la oficina judicial; יהוה como atributo de juicio |
+| #tehilim_110_1 | נאם יהוה לאדני שב לימיני | Declaración de יהוה a mi Amo: Siéntate a mi diestra | Edicto de la corte celestial, no dos personas rivales |
+| #daniel_7_9 | ...עתיק יומין יתב לבושה כתלג חור ושער ראשה כעמר נקא | — (sin TTH local) | Atik Yomin: metalenguaje de majestad, no anciano literal separado del Hijo |
+| #daniel_7_13 | ...כבר אנש... ועד עתיק יומיא מטה וקדמוהי הקרבוהי | — (sin TTH local) | Bar Enash se acerca; la corte celestial lo presenta |
 
 ### Siervo disminuido, gloria y trono
 

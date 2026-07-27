@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 24. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                            | Observación de lectura                                               |
 | -------------- | -------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_24_1  | ל/דוד מזמור ל/יהוה ה/ארץ ו/מלוא/ה תבל ו/ישבי ב/ה   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_24_10 | מי הוא זה מלך ה/כבוד יהוה צבאות הוא מלך ה/כבוד סלה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_24_1  | לדוד מזמור ליהוה הארץ ומלואה תבל וישבי בה   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_24_10 | מי הוא זה מלך הכבוד יהוה צבאות הוא מלך הכבוד סלה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

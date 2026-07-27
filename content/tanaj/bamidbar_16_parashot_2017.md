@@ -27,7 +27,7 @@ Esta es la nota canónica para Bamidbar 16 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                       | Observación                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_16_1 | **ו/יקח קרח בן יצהר בן קהת בן לוי ו/דתן ו/אבירם בני אליאב ו/און בן פלת בני ראובן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bamidbar_16_1 | **ויקח קרח בן יצהר בן קהת בן לוי ודתן ואבירם בני אליאב ואון בן פלת בני ראובן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

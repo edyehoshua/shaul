@@ -31,7 +31,7 @@ Esta nota canónica reúne la fuente disponible para Tehilim 93. La transcripci�
 | Referencia    | Texto hebreo local (OE)                                 | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------- | -------------------------------------------------------------------- |
 | #tehilim_93_1 | יהוה מלך גאות לבש לבש יהוה עז התאזר אף תכון תבל בל תמוט | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_93_5 | עדתי/ך נאמנו מאד ל/בית/ך נאוה קדש יהוה ל/ארך ימים       | El verso final permite observar el cierre de la composición.         |
+| #tehilim_93_5 | עדתיך נאמנו מאד לביתך נאוה קדש יהוה לארך ימים       | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

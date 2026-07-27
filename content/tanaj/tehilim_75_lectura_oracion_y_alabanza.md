@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 75. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                 | Observación de lectura                                               |
 | -------------- | --------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_75_1  | ל/מנצח אל תשחת מזמור ל/אסף שיר          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_75_11 | ו/כל קרני רשעים אגדע תרוממנה קרנות צדיק | El verso final permite observar el cierre de la composición.         |
+| #tehilim_75_1  | למנצח אל תשחת מזמור לאסף שיר          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_75_11 | וכל קרני רשעים אגדע תרוממנה קרנות צדיק | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

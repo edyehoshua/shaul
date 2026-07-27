@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 30. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                           | Observación de lectura                                               |
 | -------------- | ------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_30_1  | מזמור שיר חנכת ה/בית ל/דוד                        | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_30_13 | למען יזמר/ך כבוד ו/לא ידם יהוה אלה/י ל/עולם אוד/ך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_30_1  | מזמור שיר חנכת הבית לדוד                        | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_30_13 | למען יזמרך כבוד ולא ידם יהוה אלהי לעולם אודך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

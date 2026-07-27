@@ -42,7 +42,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                | Observación                                                                                                                         |
 | ------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_6_1 | **אנה הלך דוד/ך ה/יפה ב/נשים אנה פנה דוד/ך ו/נבקש/נו עמ/ך** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #songofsolomon_6_1 | **אנה הלך דודך היפה בנשים אנה פנה דודך ונבקשנו עמך** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

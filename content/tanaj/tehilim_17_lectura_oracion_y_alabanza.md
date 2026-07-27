@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 17. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                               | Observación de lectura                                               |
 | -------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_17_1  | תפלה ל/דוד שמע/ה יהוה צדק הקשיב/ה רנת/י האזינ/ה תפלת/י ב/לא שפתי מרמה | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_17_15 | אני ב/צדק אחזה פני/ך אשבעה ב/הקיץ תמונת/ך                             | El verso final permite observar el cierre de la composición.         |
+| #tehilim_17_1  | תפלה לדוד שמעה יהוה צדק הקשיבה רנתי האזינה תפלתי בלא שפתי מרמה | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_17_15 | אני בצדק אחזה פניך אשבעה בהקיץ תמונתך                             | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

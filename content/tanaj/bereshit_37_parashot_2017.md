@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 37 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                | Observación                                                                                           |
 | -------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_37_1 | **ו/ישב יעקב ב/ארץ מגורי אבי/ו ב/ארץ כנען** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_37_1 | **וישב יעקב בארץ מגורי אביו בארץ כנען** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

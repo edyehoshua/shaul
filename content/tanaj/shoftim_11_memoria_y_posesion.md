@@ -20,7 +20,7 @@ source_ids: ["youtube:aS47zjh67Kw"]
 
 | Referencia     | Hebreo local                                         | TTH (ES)                                                                                |
 | -------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #shoftim_11_24 | `ו/את כל אשר הוריש יהוה אלהי/נו מ/פני/נו אות/ו נירש` | «Todo lo que hizo poseer יהוה, Elohim nuestro, de delante de nosotros, eso poseeremos». |
+| #shoftim_11_24 | `ואת כל אשר הוריש יהוה אלהינו מפנינו אותו נירש` | «Todo lo que hizo poseer יהוה, Elohim nuestro, de delante de nosotros, eso poseeremos». |
 
 ## Lectura
 

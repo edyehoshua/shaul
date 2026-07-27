@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 86. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                               | Observación de lectura                                               |
 | -------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_86_1  | תפלה ל/דוד הטה יהוה אזנ/ך ענ/ני כי עני ו/אביון אני                    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_86_17 | עשה עמ/י אות ל/טובה ו/יראו שנא/י ו/יבשו כי אתה יהוה עזרת/ני ו/נחמת/ני | El verso final permite observar el cierre de la composición.         |
+| #tehilim_86_1  | תפלה לדוד הטה יהוה אזנך ענני כי עני ואביון אני                    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_86_17 | עשה עמי אות לטובה ויראו שנאי ויבשו כי אתה יהוה עזרתני ונחמתני | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

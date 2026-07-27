@@ -32,8 +32,8 @@ Qohélet 6 considera la distancia entre poseer bienes y poder disfrutarlos, y el
 
 | Referencia         | Texto local (OE, sin nikud)                                                                                   | Observación                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_6_1  | **יש רעה אשר ראיתי תחת ה/שמש ו/רבה היא על ה/אדם**                                                             | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_6_12 | **כי מי יודע מה טוב ל/אדם ב/חיים מספר ימי חיי הבל/ו ו/יעש/ם כ/צל אשר מי יגיד ל/אדם מה יהיה אחרי/ו תחת ה/שמש** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_6_1  | **יש רעה אשר ראיתי תחת השמש ורבה היא על האדם**                                                             | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_6_12 | **כי מי יודע מה טוב לאדם בחיים מספר ימי חיי הבלו ויעשם כצל אשר מי יגיד לאדם מה יהיה אחריו תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

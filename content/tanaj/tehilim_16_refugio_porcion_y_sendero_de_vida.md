@@ -33,11 +33,11 @@ Esta nota organiza una clase sobre Tehilim 16. La transcripción registra que el
 
 | Referencia     | Texto local (hebreo sin nikud)                          | Observación                                                                         |
 | -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #tehilim_16_1  | מכתם ל/דוד שמר/ני אל כי חסיתי ב/ך                       | La súplica abre con refugio en Elohim; `מכתם` forma parte del verso en este corpus. |
-| #tehilim_16_5  | יהוה מנת חלק/י ו/כוס/י אתה תומיך גורל/י                 | יהוה, no un bien autónomo, es la porción y quien sostiene la suerte del orante.     |
-| #tehilim_16_8  | שויתי יהוה ל/נגד/י תמיד כי מ/ימינ/י בל אמוט             | Tener a יהוה delante fundamenta la estabilidad expresada por el poema.              |
-| #tehilim_16_10 | כי לא תעזב נפש/י ל/שאול לא תתן חסיד/ך ל/ראות שחת        | El salmista confiesa que no será abandonado al Seol.                                |
-| #tehilim_16_11 | תודיע/ני ארח חיים שבע שמחות את פני/ך נעמות ב/ימינ/ך נצח | El cierre nombra un sendero de vida, plenitud de alegrías y delicias duraderas.     |
+| #tehilim_16_1  | מכתם לדוד שמרני אל כי חסיתי בך                       | La súplica abre con refugio en Elohim; `מכתם` forma parte del verso en este corpus. |
+| #tehilim_16_5  | יהוה מנת חלקי וכוסי אתה תומיך גורלי                 | יהוה, no un bien autónomo, es la porción y quien sostiene la suerte del orante.     |
+| #tehilim_16_8  | שויתי יהוה לנגדי תמיד כי מימיני בל אמוט             | Tener a יהוה delante fundamenta la estabilidad expresada por el poema.              |
+| #tehilim_16_10 | כי לא תעזב נפשי לשאול לא תתן חסידך לראות שחת        | El salmista confiesa que no será abandonado al Seol.                                |
+| #tehilim_16_11 | תודיעני ארח חיים שבע שמחות את פניך נעמות בימינך נצח | El cierre nombra un sendero de vida, plenitud de alegrías y delicias duraderas.     |
 
 ## Refugio y porción
 

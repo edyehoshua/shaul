@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 13 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud) | Observación                                                                                           |
 | ------------ | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_13_1 | **ו/ידבר יהוה אל משה ל/אמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_13_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

@@ -20,7 +20,7 @@ source_ids: ["youtube:M8iCPw4MVO4"]
 
 | Referencia     | Hebreo local                                              | Observación                                                        |
 | -------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
-| #iejoshua_2_11 | `כי יהוה אלהי/כם הוא אלהים ב/שמים מ/מעל ו/על ה/ארץ מ/תחת` | La confesión responde al temor provocado por lo que Rahav ha oído. |
+| #iejoshua_2_11 | `כי יהוה אלהיכם הוא אלהים בשמים ממעל ועל הארץ מתחת` | La confesión responde al temor provocado por lo que Rahav ha oído. |
 
 ## Lectura
 

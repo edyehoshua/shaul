@@ -39,11 +39,11 @@ Qohélet 1 considera el límite de la ganancia bajo el sol y la insuficiencia de
 
 | Referencia         | Texto local (OE, sin nikud)                                           | Observación                                    |
 | ------------------ | --------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_1_1  | **דברי קהלת בן דוד מלך ב/ירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים ה/כל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_3  | **מה יתרון ל/אדם ב/כל עמל/ו ש/יעמל תחת ה/שמש**                        | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_9  | **מה ש/היה הוא ש/יהיה ו/מה ש/נעשה הוא ש/יעשה ו/אין כל חדש תחת ה/שמש** | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_18 | **כי ב/רב חכמה רב כעס ו/יוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
+| #ecclesiastes_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

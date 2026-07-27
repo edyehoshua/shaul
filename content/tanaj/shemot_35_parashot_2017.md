@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 35 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                        | Observación                                                                                           |
 | ------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_35_1 | **ו/יקהל משה את כל עדת בני ישראל ו/יאמר אל/הם אלה ה/דברים אשר צוה יהוה ל/עשת את/ם** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_35_1 | **ויקהל משה את כל עדת בני ישראל ויאמר אלהם אלה הדברים אשר צוה יהוה לעשת אתם** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

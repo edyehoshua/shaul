@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 64. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                        | Observación de lectura                                               |
 | -------------- | ---------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_64_1  | ל/מנצח מזמור ל/דוד                             | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_64_11 | ישמח צדיק ב/יהוה ו/חסה ב/ו ו/יתהללו כל ישרי לב | El verso final permite observar el cierre de la composición.         |
+| #tehilim_64_1  | למנצח מזמור לדוד                             | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_64_11 | ישמח צדיק ביהוה וחסה בו ויתהללו כל ישרי לב | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

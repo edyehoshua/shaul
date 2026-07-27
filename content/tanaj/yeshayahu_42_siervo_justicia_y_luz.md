@@ -28,7 +28,7 @@ La clase introduce la función de la haftará y sitúa la lectura de Bereshit en
 
 | Texto local                                                                             | Observación                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #isaiah_42_1 — `הן עבד/י אתמך ב/ו בחיר/י רצתה נפש/י נתתי רוח/י עלי/ו משפט ל/גוים יוציא` | יהוה sostiene a su siervo; la misión incluye justicia para las naciones. |
+| #isaiah_42_1 — `הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא` | יהוה sostiene a su siervo; la misión incluye justicia para las naciones. |
 
 ## Conexiones principales
 

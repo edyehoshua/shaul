@@ -41,7 +41,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                     | Observación                                                                                                                         |
 | ------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_3_1 | **על משכב/י ב/לילות בקשתי את ש/אהבה נפש/י בקשתי/ו ו/לא מצאתי/ו** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #songofsolomon_3_1 | **על משכבי בלילות בקשתי את שאהבה נפשי בקשתיו ולא מצאתיו** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

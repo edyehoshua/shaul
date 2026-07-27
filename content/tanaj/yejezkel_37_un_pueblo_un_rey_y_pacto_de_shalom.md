@@ -22,7 +22,7 @@ La clase conecta Yosef y Yehudáh con Vayigash y enfatiza pensamiento comunitari
 
 | Texto local                                  | Observación                                                          |
 | -------------------------------------------- | -------------------------------------------------------------------- |
-| #ezekiel_37_15 — `ו/יהי דבר יהוה אל/י ל/אמר` | La señal de los maderos se presenta como palabra de יהוה a Ezequiel. |
+| #ezekiel_37_15 — `ויהי דבר יהוה אלי לאמר` | La señal de los maderos se presenta como palabra de יהוה a Ezequiel. |
 
 ## Conexiones principales
 

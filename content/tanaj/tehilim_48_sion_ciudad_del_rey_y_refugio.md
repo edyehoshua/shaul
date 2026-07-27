@@ -35,10 +35,10 @@ Esta nota organiza la clase del hermano Eric sobre Tehilim 48. La exposición de
 
 | Referencia        | Texto local (hebreo sin nikud)                                                                                         | Observación                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| #tehilim_48_1-3   | שיר מזמור ל/בני קרח; גדול יהוה ו/מהלל מאד ב/עיר אלהי/נו הר קדש/ו; יפה נוף משוש כל ה/ארץ הר ציון ירכתי צפון קרית מלך רב | El cántico atribuye la alabanza a יהוה y nombra Sión como ciudad del gran Rey.                       |
-| #tehilim_48_4-8   | אלהים ב/ארמנותי/ה נודע ל/משגב; כי הנה ה/מלכים נועדו עברו יחדו; ב/רוח קדים תשבר אניות תרשיש                             | Elohim es conocido como refugio; los reyes se turban y la imagen de las naves comunica derrota.      |
-| #tehilim_48_9-11  | דמינו אלהים חסד/ך ב/קרב היכל/ך; כ/שמ/ך אלהים כן תהלת/ך על קצוי ארץ צדק מלאה ימינ/ך                                     | La meditación en el templo se centra en el hesed, el nombre, la alabanza y la justicia de יהוה.      |
-| #tehilim_48_12-15 | סבו ציון ו/הקיפו/ה ספרו מגדלי/ה; כי זה אלהים אלהי/נו עולם ו/עד הוא ינהג/נו על מות                                      | Recorrer y contar las torres sirve para anunciar a otra generación que este Elohim guía a su pueblo. |
+| #tehilim_48_1-3   | שיר מזמור לבני קרח; גדול יהוה ומהלל מאד בעיר אלהינו הר קדשו; יפה נוף משוש כל הארץ הר ציון ירכתי צפון קרית מלך רב | El cántico atribuye la alabanza a יהוה y nombra Sión como ciudad del gran Rey.                       |
+| #tehilim_48_4-8   | אלהים בארמנותיה נודע למשגב; כי הנה המלכים נועדו עברו יחדו; ברוח קדים תשבר אניות תרשיש                             | Elohim es conocido como refugio; los reyes se turban y la imagen de las naves comunica derrota.      |
+| #tehilim_48_9-11  | דמינו אלהים חסדך בקרב היכלך; כשמך אלהים כן תהלתך על קצוי ארץ צדק מלאה ימינך                                     | La meditación en el templo se centra en el hesed, el nombre, la alabanza y la justicia de יהוה.      |
+| #tehilim_48_12-15 | סבו ציון והקיפוה ספרו מגדליה; כי זה אלהים אלהינו עולם ועד הוא ינהגנו על מות                                      | Recorrer y contar las torres sirve para anunciar a otra generación que este Elohim guía a su pueblo. |
 
 ## Los hijos de Coré y el canto
 

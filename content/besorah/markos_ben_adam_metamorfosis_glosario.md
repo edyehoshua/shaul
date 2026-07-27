@@ -93,9 +93,9 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | #markos_10_33 | TTH: el Ben HaAdam será entregado, condenado y entregado a gentiles. | Ejemplo de Yeshúa apropiándose el título para hablar de su padecimiento. |
 | #markos_13_26 | TTH: verán al Ben HaAdam venir en las nubes con fuerza y honra. | Conecta Marcos con Daniel 7 y la venida en nubes. |
 | #romanos_9_6-8 | TTH: "no todos los que son de Israel son Israel"; tampoco todos los descendientes físicos de Abraham son hijos, sino que los hijos del juramento son considerados simiente. | La clase usa este pasaje para distinguir descendencia física de la condición de hijo y heredero. |
-| #daniel_7_9 | OE: "לבוש/ה כ/תלג חור ו/שער ראש/ה כ/עמר נקא... גלגלו/הי נור דלק". | Vestido blanco, cabello como lana y ruedas de fuego dan el campo simbólico de la escena. |
-| #daniel_7_13-14 | OE: "כ/בר אנש... ו/ל/ה יהיב שלטן ו/יקר ו/מלכו". | El Bar Enash recibe dominio, honra y reino indestructible. |
-| #melakhim_bet_2_11 | OE: "רכב אש ו/סוסי אש... ו/יעל אליהו ב/סערה ה/שמים". | El fuego y la carroza evocan a Eliyahu dentro del lenguaje de la clase. |
+| #daniel_7_9 | OE: "לבושה כתלג חור ושער ראשה כעמר נקא... גלגלוהי נור דלק". | Vestido blanco, cabello como lana y ruedas de fuego dan el campo simbólico de la escena. |
+| #daniel_7_13-14 | OE: "כבר אנש... ולה יהיב שלטן ויקר ומלכו". | El Bar Enash recibe dominio, honra y reino indestructible. |
+| #melakhim_bet_2_11 | OE: "רכב אש וסוסי אש... ויעל אליהו בסערה השמים". | El fuego y la carroza evocan a Eliyahu dentro del lenguaje de la clase. |
 | #iojanan_7_37-38 | TTH: en el gran día de la fiesta, Yeshúa habla de ríos de aguas vivas "como dice la Escritura". | La clase propone que la pista apunta hacia los Ketuvim, especialmente Shir HaShirim leído targúmicamente. |
 | #lukas_24_44-45 | TTH: Torah de Moshéh, profetas y salmos; luego abrió el entendimiento. | Apoya la división tripartita: Torah, Neviim y Ketuvim. |
 | #shir_hashirim_4_5 | TTH: "Tus dos pechos son como dos cervatillos gemelos de gacela". | La clase cita el Targum: Moisés y Aharón / Torah y profecía; pendiente de cotejo exacto. |

@@ -20,7 +20,7 @@ source_ids: ["youtube:ZnhjepUvi-I"]
 
 | Referencia    | Hebreo local                       | TTH (ES)                                     |
 | ------------- | ---------------------------------- | -------------------------------------------- |
-| #zejariah_4_6 | `לא ב/חיל ו/לא ב/כח כי אם ב/רוח/י` | «No en fuerza ni en poder, sino en mi Rúaj». |
+| #zejariah_4_6 | `לא בחיל ולא בכח כי אם ברוחי` | «No en fuerza ni en poder, sino en mi Rúaj». |
 
 ## Lectura
 

@@ -48,7 +48,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                                | Observación                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_4_1 | **הנ/ך יפה רעית/י הנ/ך יפה עיני/ך יונים מ/בעד ל/צמת/ך שער/ך כ/עדר ה/עזים ש/גלשו מ/הר גלעד** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #songofsolomon_4_1 | **הנך יפה רעיתי הנך יפה עיניך יונים מבעד לצמתך שערך כעדר העזים שגלשו מהר גלעד** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

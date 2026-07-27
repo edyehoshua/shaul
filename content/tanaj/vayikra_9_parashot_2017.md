@@ -27,7 +27,7 @@ Esta es la nota canónica para Vayikra 9 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                    | Observación                                                                                           |
 | ------------ | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #vayikra_9_1 | **ו/יהי ב/יום ה/שמיני קרא משה ל/אהרן ו/ל/בני/ו ו/ל/זקני ישראל** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #vayikra_9_1 | **ויהי ביום השמיני קרא משה לאהרן ולבניו ולזקני ישראל** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

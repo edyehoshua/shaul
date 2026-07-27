@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 42. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                                         | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_42_1  | ל/מנצח משכיל ל/בני קרח                                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_42_12 | מה תשתוחחי נפש/י ו/מה תהמי על/י הוחילי ל/אלהים כי עוד אוד/נו ישועת פנ/י ו/אלה/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_42_1  | למנצח משכיל לבני קרח                                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_42_12 | מה תשתוחחי נפשי ומה תהמי עלי הוחילי לאלהים כי עוד אודנו ישועת פני ואלהי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

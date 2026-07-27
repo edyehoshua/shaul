@@ -86,6 +86,9 @@ A transcript-derived note must be a developed study, not a publication of a bare
 
 - contain at least 300 substantive prose words outside frontmatter, tables and `## Créditos`;
 - develop at least two transcript-specific thematic sections named for the passage or argument;
+- for a chapter study, follow the relevant verses or coherent verse units in textual order; do not jump from an opening reading to conclusion;
+- identify and explain relevant Hebrew, Aramaic or Greek terms when Eric's argument depends on them: source form, transliteration, normal sense, contextual force and whether the correspondence is exact, approximate or pedagogical;
+- preserve Eric's material observations in attributable prose (for example, “la clase observa/proponer…”) and then test them against the local text; do not replace his exposition with generic cautions;
 - use the local Scripture corpus for the verses it discusses;
 - never use `## Lectura inicial` / `## Lectura` as the only development section;
 - never expose `private/transcripts/` paths in frontmatter, prose or credits. Cite the public video URL and stable `source_id` instead.
@@ -159,7 +162,7 @@ Use for Besorah notes with semitic background or word-study notes:
 Formatting rules:
 
 - Put source script in bold parentheses: **(אבא)**, **(πνεῦμα)**, **(ܐܒܐ)** when citing forms
-- Prefer Hebrew without nikud unless disambiguation requires vowels
+- Prefer Hebrew without nikud unless disambiguation requires vowels. Normalize corpus morphology before publication: remove segmentation slashes and join the word (`ו/הבאתם` → `והבאתם`, `קציר/כם` → `קצירכם`).
 - Keep Greek and Aramaic in source script, not only transliteration
 - State whether the link is exact equivalence, approximate translation, or pedagogical analogy
 - Never claim perfect equivalence between Greek, Hebrew, Aramaic, and Spanish without qualification

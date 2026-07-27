@@ -78,21 +78,21 @@ El hilo central es que la Escritura no presentaba al Mesías solamente como un r
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #bereshit_3_15 | ו/איבה אשית בינ/ך ו/בין ה/אשה ו/בין זרע/ך ו/בין זרע/ה הוא ישופ/ך ראש ו/אתה תשופ/נו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza... | Primera pista: simiente que hiere la cabeza de la serpiente. |
-| #shemot_12_5 | שה תמים זכר בן שנה יהיה ל/כם מן ה/כבשים ו/מן ה/עזים תקחו | Cordero completo, macho, hijo de su año será para ustedes... | Pesaj: el Mesías debía morir como cordero por el pueblo. |
-| #shemot_12_6 | ו/היה ל/כם ל/משמרת עד ארבעה עשר יום ל/חדש ה/זה ו/שחטו את/ו כל קהל עדת ישראל בין ה/ערבים | ...lo sacrificará toda la asamblea... entre las dos tardes. | Muerte corporativa del cordero por casa y asamblea. |
-| #bamidbar_24_17 | ארא/נו ו/לא עתה אשור/נו ו/לא קרוב דרך כוכב מ/יעקב ו/קם שבט מ/ישראל... | andará una estrella de Yaakov, y se levantará una vara de Israel... | Autoridad real y juicio mesiánico. |
-| #ieshaiahu_11_1 | ו/יצא חטר מ/גזע ישי ו/נצר מ/שרשי/ו יפרה | Y saldrá una rama del tronco de Ishai... | Retoño cuando la línea davídica parece cortada. |
-| #ieshaiahu_53_5 | ו/הוא מחלל מ/פשע/נו מדכא מ/עונתי/נו מוסר שלומ/נו עלי/ו ו/ב/חברת/ו נרפא ל/נו | Mas Él fue traspasado por nuestras transgresiones... | Siervo que carga culpa y trae sanidad. |
-| #iejezkel_37_25 | ...ו/דוד עבד/י נשיא ל/הם ל/עולם | ...David mi siervo será príncipe de ellos para siempre. | `nasi`: cargador de responsabilidad, no solo rango. |
-| #irmeiahu_33_15 | ב/ימים ה/הם ו/ב/עת ה/היא אצמיח ל/דוד צמח צדקה ו/עשה משפט ו/צדקה ב/ארץ | ...haré brotar a David un Brote de justicia... | Brote vincula simiente, resurgimiento y justicia. |
+| #bereshit_3_15 | ואיבה אשית בינך ובין האשה ובין זרעך ובין זרעה הוא ישופך ראש ואתה תשופנו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza... | Primera pista: simiente que hiere la cabeza de la serpiente. |
+| #shemot_12_5 | שה תמים זכר בן שנה יהיה לכם מן הכבשים ומן העזים תקחו | Cordero completo, macho, hijo de su año será para ustedes... | Pesaj: el Mesías debía morir como cordero por el pueblo. |
+| #shemot_12_6 | והיה לכם למשמרת עד ארבעה עשר יום לחדש הזה ושחטו אתו כל קהל עדת ישראל בין הערבים | ...lo sacrificará toda la asamblea... entre las dos tardes. | Muerte corporativa del cordero por casa y asamblea. |
+| #bamidbar_24_17 | אראנו ולא עתה אשורנו ולא קרוב דרך כוכב מיעקב וקם שבט מישראל... | andará una estrella de Yaakov, y se levantará una vara de Israel... | Autoridad real y juicio mesiánico. |
+| #ieshaiahu_11_1 | ויצא חטר מגזע ישי ונצר משרשיו יפרה | Y saldrá una rama del tronco de Ishai... | Retoño cuando la línea davídica parece cortada. |
+| #ieshaiahu_53_5 | והוא מחלל מפשענו מדכא מעונתינו מוסר שלומנו עליו ובחברתו נרפא לנו | Mas Él fue traspasado por nuestras transgresiones... | Siervo que carga culpa y trae sanidad. |
+| #iejezkel_37_25 | ...ודוד עבדי נשיא להם לעולם | ...David mi siervo será príncipe de ellos para siempre. | `nasi`: cargador de responsabilidad, no solo rango. |
+| #irmeiahu_33_15 | בימים ההם ובעת ההיא אצמיח לדוד צמח צדקה ועשה משפט וצדקה בארץ | ...haré brotar a David un Brote de justicia... | Brote vincula simiente, resurgimiento y justicia. |
 | #romanos_3_21 | ועתה בבלי תורה צדקת אלהים יצאה לאור אשר העידו עליה התורה והנביאים (Delitzsch) | ...se ha revelado la justicia de Elohim, testificada por la Torah y por los profetas; | Justicia aparte de Torah como sistema de mérito. |
 | #romanos_3_22 | והיא צדקת אלהים באמונת ישוע המשיח אלכל ועלכל אשר האמינו בו (Delitzsch) | ...por la emunah de Yeshúa el Mesías... | יהוה Justicia nuestra por fidelidad del Mesías. |
-| #zejariah_9_9 | גילי מאד בת ציון הריעי בת ירושלם הנה מלכ/ך יבוא ל/ך צדיק ו/נושע הוא עני ו/רכב על חמור | He aquí tu Rey vendrá a ti, justo y portador de salvación... monta sobre un asno. | Primera venida humilde y lenta. |
-| #daniel_7_13 | חזה הוית ב/חזוי לילי/א ו/ארו עם ענני שמי/א כ/בר אנש אתה הוה (OE, arameo) | Pendiente en TTH local | Venida gloriosa: Hijo del Hombre con nubes del cielo. |
-| #hoshea_6_3 | ו/נדעה נרדפה ל/דעת את יהוה כ/שחר נכון מוצא/ו ו/יבוא כ/גשם ל/נו כ/מלקוש יורה ארץ | ...vendrá como la lluvia a nosotros, como lluvia tardía y temprana... | Imagen de dos manifestaciones del Mesías. |
+| #zejariah_9_9 | גילי מאד בת ציון הריעי בת ירושלם הנה מלכך יבוא לך צדיק ונושע הוא עני ורכב על חמור | He aquí tu Rey vendrá a ti, justo y portador de salvación... monta sobre un asno. | Primera venida humilde y lenta. |
+| #daniel_7_13 | חזה הוית בחזוי ליליא וארו עם ענני שמיא כבר אנש אתה הוה (OE, arameo) | Pendiente en TTH local | Venida gloriosa: Hijo del Hombre con nubes del cielo. |
+| #hoshea_6_3 | ונדעה נרדפה לדעת את יהוה כשחר נכון מוצאו ויבוא כגשם לנו כמלקוש יורה ארץ | ...vendrá como la lluvia a nosotros, como lluvia tardía y temprana... | Imagen de dos manifestaciones del Mesías. |
 | #ivrim_1_3 | והוא זהר כבודו וצלם עצמותו ונושא כל בדבר גבורתו... (Delitzsch) | Pendiente en TTH local | Mesías purifica pecados y queda en las alturas. |
-| #zejariah_14_16 | ו/היה כל ה/נותר מ/כל ה/גוים... ל/השתחות ל/מלך יהוה צבאות ו/ל/חג את חג ה/סכות | ...subirán de año en año para postrarse al Rey, יהוה Tzebaot... | Consumación: obediencia y culto restaurado. |
+| #zejariah_14_16 | והיה כל הנותר מכל הגוים... להשתחות למלך יהוה צבאות ולחג את חג הסכות | ...subirán de año en año para postrarse al Rey, יהוה Tzebaot... | Consumación: obediencia y culto restaurado. |
 
 ## Hoja léxica
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 19. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                      | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_19_1  | ל/מנצח מזמור ל/דוד                                           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_19_15 | יהיו ל/רצון אמרי פ/י ו/הגיון לב/י ל/פני/ך יהוה צור/י ו/גאל/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_19_1  | למנצח מזמור לדוד                                           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_19_15 | יהיו לרצון אמרי פי והגיון לבי לפניך יהוה צורי וגאלי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

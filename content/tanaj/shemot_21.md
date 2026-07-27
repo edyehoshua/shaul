@@ -41,8 +41,8 @@ La fuente de trabajo es una clase de la serie «613 mitzvot» que trata las mitz
 
 | Referencia    | Hebreo local (OE)                                                                                      | Observación                                                                                                                      |
 | ------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| #shemot_21_1  | ו/אלה ה/משפטים אשר תשים ל/פני/הם                                                                       | El capítulo abre con _mishpatim_: procedimientos o juicios puestos delante del pueblo.                                           |
-| #shemot_21_16 | ו/גנב איש ו/מכר/ו ו/נמצא ב/יד/ו מות יומת                                                               | El texto nombra el rapto y la venta de una persona; la nota no añade aquí un método de ejecución que el versículo no especifica. |
+| #shemot_21_1  | ואלה המשפטים אשר תשים לפניהם                                                                       | El capítulo abre con _mishpatim_: procedimientos o juicios puestos delante del pueblo.                                           |
+| #shemot_21_16 | וגנב איש ומכרו ונמצא בידו מות יומת                                                               | El texto nombra el rapto y la venta de una persona; la nota no añade aquí un método de ejecución que el versículo no especifica. |
 | #shemot_21_30 | Si un rescate se impone sobre él dará redención de su vida conforme a todo lo que se imponga sobre él. | El TTH local ofrece un anclaje para _kofer_ y _pidion_ en el mismo capítulo.                                                     |
 
 ## Conceptos importantes

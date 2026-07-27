@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 38. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)      | Observación de lectura                                               |
 | -------------- | ---------------------------- | -------------------------------------------------------------------- |
-| #tehilim_38_1  | מזמור ל/דוד ל/הזכיר          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_38_23 | חוש/ה ל/עזרת/י אדנ/י תשועת/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_38_1  | מזמור לדוד להזכיר          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_38_23 | חושה לעזרתי אדני תשועתי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

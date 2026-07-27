@@ -22,7 +22,7 @@ La clase introduce el marco histórico de Oseas y su palabra dirigida principalm
 
 | Texto local                                               | Observación                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------- |
-| #hosea_12_4 — `ב/בטן עקב את אחי/ו ו/ב/אונ/ו שרה את אלהים` | La memoria de Jacob es parte de la acusación y del llamado. |
+| #hosea_12_4 — `בבטן עקב את אחיו ובאונו שרה את אלהים` | La memoria de Jacob es parte de la acusación y del llamado. |
 
 ## Conexiones principales
 

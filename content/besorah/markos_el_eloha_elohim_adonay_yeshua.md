@@ -80,16 +80,16 @@ La clase lleva esta distinción a #romanim_10_9. Su conclusión es que la confes
 | Referencia | Texto local | Función en la clase |
 | --- | --- | --- |
 | #iojanan_10_34-36 | TTH: “Yo dije: Ustedes son elohim”; “a estos, a quienes fue la palabra de Elohim, les dijo ‘elohim’”. | Punto de partida: el título aplicado a un encargado no equivale por sí solo a naturaleza divina. |
-| #tehilim_82_1, #tehilim_82_6-7 | OE: אלהים נצב ב/עדת אל ב/קרב אלהים ישפט; אני אמרתי אלהים אתם… אכן כ/אדם תמותו/ן. TTH: Elohim juzga en medio de los jueces; ellos morirán como Adam. | El oficio queda sometido al juicio de Elohim y no concede inmortalidad. |
-| #bereshit_14_18-22 | OE: ו/הוא כהן ל/אל עליון; הרימתי יד/י אל יהוה אל עליון. TTH conserva *El Elyón*. | Ejemplo principal de **El** dentro de una designación de יהוה. |
+| #tehilim_82_1, #tehilim_82_6-7 | OE: אלהים נצב בעדת אל בקרב אלהים ישפט; אני אמרתי אלהים אתם… אכן כאדם תמותון. TTH: Elohim juzga en medio de los jueces; ellos morirán como Adam. | El oficio queda sometido al juicio de Elohim y no concede inmortalidad. |
+| #bereshit_14_18-22 | OE: והוא כהן לאל עליון; הרימתי ידי אל יהוה אל עליון. TTH conserva *El Elyón*. | Ejemplo principal de **El** dentro de una designación de יהוה. |
 | #bereshit_16_13 | OE: אתה אל ראי. TTH: “Tú, El de vista”. | La clase lo pronuncia *El Roí* y discute si la forma se entiende como apariencia o como “el que me ve”. |
 | #bereshit_17_1 | OE: אני אל שדי. TTH: “Yo soy El Shadai”. | Otro uso nominativo de **El**. |
-| #bereshit_21_33 | OE: ב/שם יהוה אל עולם. TTH: “en el Nombre de יהוה, Elohim olam”. | El texto OE sostiene la forma **El Olam**; la TTH local ofrece una redacción distinta. |
-| #devarim_32_15 | OE: ו/יטש אלוה עש/הו ו/ינבל צור ישעת/ו. TTH: abandonó a Eloha que lo hizo y despreció la Roca de su salvación. | Une **Eloha** y Roca dentro del cántico de Moshéh. |
-| #jabakuk_3_3 | OE: אלוה מ/תימן יבוא. TTH: “Eloha de Teimán vendrá”. | Confirma el uso de **Eloha** en una composición poética. |
-| #ieshaiahu_44_8 | OE: ה/יש אלוה מ/בלעד/י ו/אין צור. TTH: “¿Hay Eloha aparte de Mí? ¡No hay otra Roca!”. | Refuerza la asociación textual entre Eloha y Roca. |
-| #shemot_20_1 | OE: ו/ידבר אלהים את כל ה/דברים ה/אלה ל/אמר. TTH: “Y habló Elohim todas estas palabras”. | La clase lo relaciona con la Torah mediada por mensajeros; el versículo solo no identifica cuál mediación está en vista. |
-| #ivrim_1_6 / #tehilim_97_7 | Delitzsch: והשתחוו לו כל אלהים; OE: השתחוו ל/ו כל אלהים. TTH del salmo: “Póstrense a Él todos los dioses”. | La clase usa la cita para mostrar que *elohim* puede referirse a seres celestiales. |
+| #bereshit_21_33 | OE: בשם יהוה אל עולם. TTH: “en el Nombre de יהוה, Elohim olam”. | El texto OE sostiene la forma **El Olam**; la TTH local ofrece una redacción distinta. |
+| #devarim_32_15 | OE: ויטש אלוה עשהו וינבל צור ישעתו. TTH: abandonó a Eloha que lo hizo y despreció la Roca de su salvación. | Une **Eloha** y Roca dentro del cántico de Moshéh. |
+| #jabakuk_3_3 | OE: אלוה מתימן יבוא. TTH: “Eloha de Teimán vendrá”. | Confirma el uso de **Eloha** en una composición poética. |
+| #ieshaiahu_44_8 | OE: היש אלוה מבלעדי ואין צור. TTH: “¿Hay Eloha aparte de Mí? ¡No hay otra Roca!”. | Refuerza la asociación textual entre Eloha y Roca. |
+| #shemot_20_1 | OE: וידבר אלהים את כל הדברים האלה לאמר. TTH: “Y habló Elohim todas estas palabras”. | La clase lo relaciona con la Torah mediada por mensajeros; el versículo solo no identifica cuál mediación está en vista. |
+| #ivrim_1_6 / #tehilim_97_7 | Delitzsch: והשתחוו לו כל אלהים; OE: השתחוו לו כל אלהים. TTH del salmo: “Póstrense a Él todos los dioses”. | La clase usa la cita para mostrar que *elohim* puede referirse a seres celestiales. |
 | #romanim_10_9 | TTH: “Porque si confiesas con tu boca: ¡יהוה Yeshúa! Y eres afirmado en tu corazón que Elohim lo levantó de los muertos, serás salvo”. Delitzsch: בפיך תודה שישוע הוא האדון. | La TTH sostiene la formulación confesional de la clase; Delitzsch, en cambio, incluye **הוא**, “es”, y debe conservarse como testigo distinto. |
 | #maasei_hashlijim_2_24 | Delitzsch: ואלהים הקימו מן המתים… לפי שלא היה בידו להחזיק בו. | La muerte no tenía poder para retener al Mesías; la clase conecta esa imposibilidad con su naturaleza divina. |
 | #iojanan_10_17-18 | Delitzsch: את נפשי אתן ואשיב ואקחיה… יש לאל ידי לתתה ויש לאל להשיבה אלי. | Yeshúa entrega su nefesh y tiene poder para volver a tomarla; sostiene el énfasis en una entrega voluntaria. |

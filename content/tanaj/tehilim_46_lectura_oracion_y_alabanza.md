@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 46. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                  | Observación de lectura                                               |
 | -------------- | ---------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_46_1  | ל/מנצח ל/בני קרח על עלמות שיר            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_46_12 | יהוה צבאות עמ/נו משגב ל/נו אלהי יעקב סלה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_46_1  | למנצח לבני קרח על עלמות שיר            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_46_12 | יהוה צבאות עמנו משגב לנו אלהי יעקב סלה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -22,7 +22,7 @@ La clase presenta el trasfondo de Esaú/Edom y reconoce la incertidumbre sobre l
 
 | Texto local                                                                    | Observación                                  |
 | ------------------------------------------------------------------------------ | -------------------------------------------- |
-| #obadiah_1_17 — `ו/ב/הר ציון תהיה פליטה ו/היה קדש ו/ירשו בית יעקב את מורשי/הם` | Sion, liberación y santidad aparecen unidos. |
+| #obadiah_1_17 — `ובהר ציון תהיה פליטה והיה קדש וירשו בית יעקב את מורשיהם` | Sion, liberación y santidad aparecen unidos. |
 
 ## Conexiones principales
 

@@ -68,18 +68,18 @@ El argumento depende de distinguir palabras relacionadas pero no intercambiables
 
 | Referencia | Hebreo OE (sin nikud) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
-| #shemot_13_21 | ו/יהוה הלך ל/פני/הם יומם ב/עמוד ענן ל/נחת/ם ה/דרך ו/לילה ב/עמוד אש ל/האיר ל/הם | «יהוה iba delante de ellos, de día en un pilar de nube… y de noche en un pilar de fuego». | No se presenta solamente un mensajero: יהוה guía a Israel desde la columna. |
-| #shemot_14_24 | ו/יהי ב/אשמרת ה/בקר ו/ישקף יהוה אל מחנה מצרים ב/עמוד אש ו/ענן | «Miró יהוה el campamento de Mitzráim desde el pilar de fuego y nube». | La presencia protege a Israel y juzga a Mitzráim. |
-| #shemot_19_9 | ו/יאמר יהוה אל משה הנה אנכי בא אלי/ך ב/עב ה/ענן ב/עבור ישמע ה/עם ב/דבר/י עמ/ך | «Yo vendré a ti en una gruesa nube, para que escuche el pueblo cuando hable contigo». | La voz desde la nube pertenece a יהוה. |
-| #melajim_alef_8_27 | כי ה/אמנם ישב אלהים על ה/ארץ הנה ה/שמים ו/שמי ה/שמים לא יכלכלו/ך | «Los cielos y los cielos de los cielos no te pueden contener». | La presencia localizada no encierra ni agota a Elohim. |
+| #shemot_13_21 | ויהוה הלך לפניהם יומם בעמוד ענן לנחתם הדרך ולילה בעמוד אש להאיר להם | «יהוה iba delante de ellos, de día en un pilar de nube… y de noche en un pilar de fuego». | No se presenta solamente un mensajero: יהוה guía a Israel desde la columna. |
+| #shemot_14_24 | ויהי באשמרת הבקר וישקף יהוה אל מחנה מצרים בעמוד אש וענן | «Miró יהוה el campamento de Mitzráim desde el pilar de fuego y nube». | La presencia protege a Israel y juzga a Mitzráim. |
+| #shemot_19_9 | ויאמר יהוה אל משה הנה אנכי בא אליך בעב הענן בעבור ישמע העם בדברי עמך | «Yo vendré a ti en una gruesa nube, para que escuche el pueblo cuando hable contigo». | La voz desde la nube pertenece a יהוה. |
+| #melajim_alef_8_27 | כי האמנם ישב אלהים על הארץ הנה השמים ושמי השמים לא יכלכלוך | «Los cielos y los cielos de los cielos no te pueden contener». | La presencia localizada no encierra ni agota a Elohim. |
 
 ### Vida recibida y corazón circuncidado
 
 | Referencia | Hebreo OE / Delitzsch (sin nikud) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
-| #bereshit_2_7 | ו/ייצר יהוה אלהים את ה/אדם עפר מן ה/אדמה ו/יפח ב/אפי/ו נשמת חיים ו/יהי ה/אדם ל/נפש חיה | «Formó יהוה Elohim al hombre, polvo… y soplará en su nariz aliento de vida; y fue el hombre un ser viviente». | Distingue **neshamat jaim** de **nefesh jaiá**; la lectura verbal futura de TTH sostiene el desarrollo de la clase. |
+| #bereshit_2_7 | וייצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה | «Formó יהוה Elohim al hombre, polvo… y soplará en su nariz aliento de vida; y fue el hombre un ser viviente». | Distingue **neshamat jaim** de **nefesh jaiá**; la lectura verbal futura de TTH sostiene el desarrollo de la clase. |
 | #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה | TTH no disponible en el corpus local. | El postrer Adam es presentado como vivificante. La identificación técnica con `neshamah` es una propuesta de la clase. |
-| #devarim_30_6 | ו/מל יהוה אלהי/ך את לבב/ך ו/את לבב זרע/ך ל/אהבה את יהוה אלהי/ך… למען חיי/ך | «Circuncidará יהוה tu Elohim tu corazón… para amar a יהוה… a fin de que vivas». | La vida no se compra ni se garantiza por una operación en la carne; Elohim transforma el corazón. |
+| #devarim_30_6 | ומל יהוה אלהיך את לבבך ואת לבב זרעך לאהבה את יהוה אלהיך… למען חייך | «Circuncidará יהוה tu Elohim tu corazón… para amar a יהוה… a fin de que vivas». | La vida no se compra ni se garantiza por una operación en la carne; Elohim transforma el corazón. |
 
 ## Hoja léxica
 

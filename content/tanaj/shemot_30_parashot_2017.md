@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 30 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                 | Observación                                                                                           |
 | ------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_30_1 | **ו/עשית מזבח מקטר קטרת עצי שטים תעשה את/ו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_30_1 | **ועשית מזבח מקטר קטרת עצי שטים תעשה אתו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

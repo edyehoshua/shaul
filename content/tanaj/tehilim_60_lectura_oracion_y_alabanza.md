@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 60. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)              | Observación de lectura                                               |
 | -------------- | ------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_60_1  | ל/מנצח על שושן עדות מכתם ל/דוד ל/למד | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_60_14 | ב/אלהים נעשה חיל ו/הוא יבוס צרי/נו   | El verso final permite observar el cierre de la composición.         |
+| #tehilim_60_1  | למנצח על שושן עדות מכתם לדוד ללמד | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_60_14 | באלהים נעשה חיל והוא יבוס צרינו   | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

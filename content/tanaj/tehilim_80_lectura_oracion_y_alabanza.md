@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 80. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                    | Observación de lectura                                               |
 | -------------- | ------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_80_1  | ל/מנצח אל ששנים עדות ל/אסף מזמור           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_80_20 | יהוה אלהים צבאות השיב/נו האר פני/ך ו/נושעה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_80_1  | למנצח אל ששנים עדות לאסף מזמור           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_80_20 | יהוה אלהים צבאות השיבנו האר פניך ונושעה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

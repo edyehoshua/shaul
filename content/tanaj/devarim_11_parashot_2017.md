@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 11 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud)                                                    | Observación                                                                                           |
 | ------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #devarim_11_1 | **ו/אהבת את יהוה אלהי/ך ו/שמרת משמרת/ו ו/חקתי/ו ו/משפטי/ו ו/מצותי/ו כל ה/ימים** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_11_1 | **ואהבת את יהוה אלהיך ושמרת משמרתו וחקתיו ומשפטיו ומצותיו כל הימים** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

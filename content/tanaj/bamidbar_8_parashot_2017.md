@@ -27,7 +27,7 @@ Esta es la nota canónica para Bamidbar 8 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud) | Observación                                                                                           |
 | ------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_8_1 | **ו/ידבר יהוה אל משה ל/אמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bamidbar_8_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

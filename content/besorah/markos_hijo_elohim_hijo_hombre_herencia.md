@@ -94,15 +94,15 @@ La formulación «hijo = heredero» es el eje pedagógico del video, no una trad
 | #markos_12_6-7 | TTH: el dueño envía a «su hijo amado»; los viñadores responden: «este es el heredero» y buscan quedarse con «la herencia». | Es el apoyo textual más directo para el énfasis hijo/heredero, aunque no agota todos los usos de **ben**. |
 | #markos_4_26 | TTH: «Así es el reino de los cielos: como un hombre que echa semilla en la tierra». | La clase ve en la semilla una figura del Mesías que entra en el vientre/tierra y aparece en pequeñez. |
 | #markos_4_30-31 | TTH: el reino se compara con el grano de mostaza, pequeño entre las semillas sembradas. | El reino pequeño no es ausencia de identidad, sino manifestación dosificada que después crece. |
-| #tehilim_139_13 | OE: כי אתה קנית כלית/י תסכ/ני ב/בטן אמ/י | «En el vientre de mi madre» establece explícitamente el contexto de formación prenatal. |
-| #tehilim_139_15 | OE: לא נכחד עצמ/י ממ/ך אשר עשיתי ב/סתר רקמתי ב/תחתיות ארץ | «Fui entretejido en las profundidades de la tierra» funciona como paralelo poético del vientre en la lectura de la clase. |
+| #tehilim_139_13 | OE: כי אתה קנית כליתי תסכני בבטן אמי | «En el vientre de mi madre» establece explícitamente el contexto de formación prenatal. |
+| #tehilim_139_15 | OE: לא נכחד עצמי ממך אשר עשיתי בסתר רקמתי בתחתיות ארץ | «Fui entretejido en las profundidades de la tierra» funciona como paralelo poético del vientre en la lectura de la clase. |
 | #maasei_hashlijim_1_8 | TTH: «tomarán el poder del Rúaj Ha’Kódesh que vendrá a ustedes de lo alto». | La clase identifica Rúaj HaKódesh con el poder mediante el cual Elohim obra en el pueblo. |
 | #romanos_5_5 | TTH: «el amor de Elohim fue derramado en nuestros corazones por el Rúaj Ha’Kódesh dado a nosotros». | Amor, don y poder se reúnen en la explicación de lo que el Hijo reparte. |
-| #tehilim_89_10 | OE: אתה מושל ב/גאות ה/ים ב/שוא גלי/ו אתה תשבח/ם | יהוה gobierna la arrogancia del mar y aquieta sus olas. |
+| #tehilim_89_10 | OE: אתה מושל בגאות הים בשוא גליו אתה תשבחם | יהוה gobierna la arrogancia del mar y aquieta sus olas. |
 | #markos_4_39-41 | TTH: Yeshúa reprende al viento, manda callar al mar y los discípulos preguntan quién es aquel a quien viento y mar escuchan. | La obra atribuida a יהוה en el salmo se manifiesta en la acción de Yeshúa. |
 | #markos_5_19-20 | TTH: Yeshúa manda contar «cómo te ha hecho יהוה»; el hombre proclama «cómo le había hecho Yeshúa». | El paralelismo narrativo identifica la obra de Yeshúa con la obra de יהוה. |
-| #daniel_7_13 | OE: כ/בר אנש... ו/עד עתיק יומי/א מטה | El Bar Enash que llega ante el Anciano de días sostiene el trasfondo mesiánico de Hijo del Hombre; la identificación completa requiere leer #daniel_7_13-14. |
-| #zejariah_9_9 | OE: הנה מלכ/ך יבוא ל/ך צדיק ו/נושע הוא עני ו/רכב על חמור ו/על עיר בן אתנות | El rey justo y salvador entra humilde sobre asno; la clase lo conecta con la señal del pollino en Marcos 11. |
+| #daniel_7_13 | OE: כבר אנש... ועד עתיק יומיא מטה | El Bar Enash que llega ante el Anciano de días sostiene el trasfondo mesiánico de Hijo del Hombre; la identificación completa requiere leer #daniel_7_13-14. |
+| #zejariah_9_9 | OE: הנה מלכך יבוא לך צדיק ונושע הוא עני ורכב על חמור ועל עיר בן אתנות | El rey justo y salvador entra humilde sobre asno; la clase lo conecta con la señal del pollino en Marcos 11. |
 
 ## Hoja léxica
 

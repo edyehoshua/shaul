@@ -19,7 +19,7 @@ Ezequiel 28:25 describe la reunión de Israel como ocasión para que יהוה se
 
 | Referencia      | Texto hebreo local                                                                       | Observación                                             |
 | --------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| #iejezqel_28_25 | כה אמר אדנ/י יהוה ב/קבצ/י את בית ישראל מן ה/עמים אשר נפצו ב/ם ו/נקדשתי ב/ם ל/עיני ה/גוים | Reunión y santificación están unidas en la declaración. |
+| #iejezqel_28_25 | כה אמר אדני יהוה בקבצי את בית ישראל מן העמים אשר נפצו בם ונקדשתי בם לעיני הגוים | Reunión y santificación están unidas en la declaración. |
 
 ## Lectura
 

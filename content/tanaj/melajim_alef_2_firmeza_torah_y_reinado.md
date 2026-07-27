@@ -22,7 +22,7 @@ La clase estudia la conexión con Vayji y comenta la fuerza como disposición pa
 
 | Texto local                                                     | Observación                             |
 | --------------------------------------------------------------- | --------------------------------------- |
-| #1_kings_2_2 — `ו/יקרבו ימי דוד ל/מות ו/יצו את שלמה בנ/ו ל/אמר` | David encarga a Salomón antes de morir. |
+| #1_kings_2_2 — `ויקרבו ימי דוד למות ויצו את שלמה בנו לאמר` | David encarga a Salomón antes de morir. |
 
 ## Conexiones principales
 

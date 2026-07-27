@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 32. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                       | Observación de lectura                                               |
 | -------------- | --------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_32_1  | ל/דוד משכיל אשרי נשוי פשע כסוי חטאה           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_32_11 | שמחו ב/יהוה ו/גילו צדיקים ו/הרנינו כל ישרי לב | El verso final permite observar el cierre de la composición.         |
+| #tehilim_32_1  | לדוד משכיל אשרי נשוי פשע כסוי חטאה           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_32_11 | שמחו ביהוה וגילו צדיקים והרנינו כל ישרי לב | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

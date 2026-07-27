@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 25 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)           | Observación                                                                                           |
 | -------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_25_1 | **ו/יסף אברהם ו/יקח אשה ו/שמ/ה קטורה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_25_1 | **ויסף אברהם ויקח אשה ושמה קטורה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

@@ -27,7 +27,7 @@ Esta es la nota canónica para Bamidbar 30 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                         | Observación                                                                                           |
 | -------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_30_1 | **ו/יאמר משה אל בני ישראל כ/כל אשר צוה יהוה את משה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bamidbar_30_1 | **ויאמר משה אל בני ישראל ככל אשר צוה יהוה את משה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

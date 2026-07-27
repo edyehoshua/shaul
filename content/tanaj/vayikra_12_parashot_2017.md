@@ -27,7 +27,7 @@ Esta es la nota canónica para Vayikra 12 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud) | Observación                                                                                           |
 | ------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #vayikra_12_1 | **ו/ידבר יהוה אל משה ל/אמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #vayikra_12_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

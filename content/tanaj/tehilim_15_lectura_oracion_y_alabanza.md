@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 15. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                       | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_15_1 | מזמור ל/דוד יהוה מי יגור ב/אהל/ך מי ישכן ב/הר קדש/ך           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_15_5 | כספ/ו לא נתן ב/נשך ו/שחד על נקי לא לקח עשה אלה לא ימוט ל/עולם | El verso final permite observar el cierre de la composición.         |
+| #tehilim_15_1 | מזמור לדוד יהוה מי יגור באהלך מי ישכן בהר קדשך           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_15_5 | כספו לא נתן בנשך ושחד על נקי לא לקח עשה אלה לא ימוט לעולם | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

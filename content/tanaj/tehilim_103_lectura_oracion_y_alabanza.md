@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 103. La transcripci
 
 | Referencia      | Texto hebreo local (OE)                                   | Observación de lectura                                               |
 | --------------- | --------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_103_1  | ל/דוד ברכי נפש/י את יהוה ו/כל קרב/י את שם קדש/ו           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_103_22 | ברכו יהוה כל מעשי/ו ב/כל מקמות ממשלת/ו ברכי נפש/י את יהוה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_103_1  | לדוד ברכי נפשי את יהוה וכל קרבי את שם קדשו           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_103_22 | ברכו יהוה כל מעשיו בכל מקמות ממשלתו ברכי נפשי את יהוה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

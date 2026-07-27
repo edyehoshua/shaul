@@ -34,10 +34,10 @@ Esta nota recoge la clase de Eric de Jesús Rodríguez Mendoza sobre el salmo. L
 
 | Referencia     | Texto local                                                                                                                                   | Función en la nota                                             |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| #tehilim_51_1  | OE: **ל/מנצח מזמור ל/דוד**.                                                                                                                   | La inscripción presenta el salmo como mizmor de David.         |
-| #tehilim_51_3  | TTH: «Porque mis transgresiones yo conozco, y mi pecado está delante de mí continuamente»; OE: **חנ/ני אלהים כ/חסד/ך כ/רב רחמי/ך מחה פשע/י**. | La súplica apela a la misericordia y reconoce la transgresión. |
-| #tehilim_51_12 | TTH: «Haz volver a mí el gozo de tu salvación, y un ánimo generoso me sostenga»; OE: **לב טהור ברא ל/י אלהים ו/רוח נכון חדש ב/קרב/י**.        | El salmo pide creación y renovación interior.                  |
-| #tehilim_51_19 | TTH: «Entonces desearás sacrificios de justicia…»; OE: **זבחי אלהים רוח נשברה לב נשבר ו/נדכה אלהים לא תבזה**.                                 | Un rúaj quebrantado no queda despreciado por Elohim.           |
+| #tehilim_51_1  | OE: **למנצח מזמור לדוד**.                                                                                                                   | La inscripción presenta el salmo como mizmor de David.         |
+| #tehilim_51_3  | TTH: «Porque mis transgresiones yo conozco, y mi pecado está delante de mí continuamente»; OE: **חנני אלהים כחסדך כרב רחמיך מחה פשעי**. | La súplica apela a la misericordia y reconoce la transgresión. |
+| #tehilim_51_12 | TTH: «Haz volver a mí el gozo de tu salvación, y un ánimo generoso me sostenga»; OE: **לב טהור ברא לי אלהים ורוח נכון חדש בקרבי**.        | El salmo pide creación y renovación interior.                  |
+| #tehilim_51_19 | TTH: «Entonces desearás sacrificios de justicia…»; OE: **זבחי אלהים רוח נשברה לב נשבר ונדכה אלהים לא תבזה**.                                 | Un rúaj quebrantado no queda despreciado por Elohim.           |
 
 ## Confesar sin minimizar
 

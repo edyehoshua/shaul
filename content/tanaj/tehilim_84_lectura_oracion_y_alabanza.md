@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 84. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)          | Observación de lectura                                               |
 | -------------- | -------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_84_1  | ל/מנצח על ה/גתית ל/בני קרח מזמור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_84_13 | יהוה צבאות אשרי אדם בטח ב/ך      | El verso final permite observar el cierre de la composición.         |
+| #tehilim_84_1  | למנצח על הגתית לבני קרח מזמור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_84_13 | יהוה צבאות אשרי אדם בטח בך      | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

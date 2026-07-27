@@ -101,10 +101,10 @@ El punto central no es solamente que Yehoshua resucita a un muerto, sino que se 
 
 | Referencia    | Hebreo (sin nikud)                                                            | TTH (ES)                                                             | Observación                                                                                       |
 | ------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #bereshit_6_6 | ו/ינחם יהוה כי עשה את ה/אדם ב/ארץ ו/יתעצב אל לב/ו                             | Y restableció al inicio יהוה... y se afligió en su corazón.          | Elohim puede afligirse sin dejar de ser Elohim.                                                   |
-| #devarim_13_2 | כי יקום ב/קרב/ך נביא או חלם חלום ו/נתן אלי/ך אות או מופת (OE 13:2 ≈ TTH 13:1) | Cuando se levante en medio de ti un profeta o un soñador de sueño... | Advertencia sobre falso profeta que pide fidelidad desviada.                                      |
-| #devarim_13_3 | ו/בא ה/אות ו/ה/מופת אשר דבר אלי/ך... (OE 13:3 ≈ TTH 13:2)                     | y llega la señal y la maravilla... "Vamos tras de otros dioses..."   | Prueba de יהוה sobre amor con todo el corazón.                                                    |
-| #devarim_13_4 | לא תשמע אל דברי ה/נביא... כי מנסה יהוה אלהי/כם את/כם (OE 13:4 ≈ TTH 13:3)     | no escucharás a las palabras de ese profeta...                       | Si Yehoshua pide fidelidad hacia sí y no es Elohim manifestado, caería aquí; la clase lo rechaza. |
+| #bereshit_6_6 | וינחם יהוה כי עשה את האדם בארץ ויתעצב אל לבו                             | Y restableció al inicio יהוה... y se afligió en su corazón.          | Elohim puede afligirse sin dejar de ser Elohim.                                                   |
+| #devarim_13_2 | כי יקום בקרבך נביא או חלם חלום ונתן אליך אות או מופת (OE 13:2 ≈ TTH 13:1) | Cuando se levante en medio de ti un profeta o un soñador de sueño... | Advertencia sobre falso profeta que pide fidelidad desviada.                                      |
+| #devarim_13_3 | ובא האות והמופת אשר דבר אליך... (OE 13:3 ≈ TTH 13:2)                     | y llega la señal y la maravilla... "Vamos tras de otros dioses..."   | Prueba de יהוה sobre amor con todo el corazón.                                                    |
+| #devarim_13_4 | לא תשמע אל דברי הנביא... כי מנסה יהוה אלהיכם אתכם (OE 13:4 ≈ TTH 13:3)     | no escucharás a las palabras de ese profeta...                       | Si Yehoshua pide fidelidad hacia sí y no es Elohim manifestado, caería aquí; la clase lo rechaza. |
 
 ## Hoja léxica
 

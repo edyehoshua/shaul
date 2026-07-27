@@ -22,7 +22,7 @@ La exposición lee la haftará de Ajarei Mot junto a Vayiqrá 16–18. Se conser
 
 | Referencia     | Hebreo local                                                         | TTH (ES)                                                                         | Observación                                             |
 | -------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| #iejezkel_22_2 | `ו/אתה בן אדם ה/תשפט ה/תשפט את עיר ה/דמים ו/הודעת/ה את כל תועבותי/ה` | «¿Juzgarás a la ciudad de las sangres y le harás saber todas sus abominaciones?» | El profeta debe hacer manifiesta la culpa de la ciudad. |
+| #iejezkel_22_2 | `ואתה בן אדם התשפט התשפט את עיר הדמים והודעתה את כל תועבותיה` | «¿Juzgarás a la ciudad de las sangres y le harás saber todas sus abominaciones?» | El profeta debe hacer manifiesta la culpa de la ciudad. |
 
 ## Santidad no aislada de la vida
 

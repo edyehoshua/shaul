@@ -19,8 +19,8 @@ source_ids:
 
 | Referencia         | Texto hebreo local                                                                                                              | Observación                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| #melajim_alef_7_51 | ו/תשלם כל ה/מלאכה אשר עשה ה/מלך שלמה בית יהוה ו/יבא שלמה את קדשי דוד אבי/ו את ה/כסף ו/את ה/זהב ו/את ה/כלים נתן ב/אצרות בית יהוה | El relato declara terminada la obra y ordena los bienes dedicados. |
-| #melajim_alef_8_12 | אז אמר שלמה יהוה אמר ל/שכן ב/ערפל                                                                                               | La dedicación confiesa la presencia de יהוה aun en la oscuridad.   |
+| #melajim_alef_7_51 | ותשלם כל המלאכה אשר עשה המלך שלמה בית יהוה ויבא שלמה את קדשי דוד אביו את הכסף ואת הזהב ואת הכלים נתן באצרות בית יהוה | El relato declara terminada la obra y ordena los bienes dedicados. |
+| #melajim_alef_8_12 | אז אמר שלמה יהוה אמר לשכן בערפל                                                                                               | La dedicación confiesa la presencia de יהוה aun en la oscuridad.   |
 
 ## Lectura
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 28. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                                       | Observación de lectura                                               |
 | ------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_28_1 | ל/דוד אלי/ך יהוה אקרא צור/י אל תחרש ממ/ני פן תחשה ממ/ני ו/נמשלתי עם יורדי בור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_28_9 | הושיע/ה את עמ/ך ו/ברך את נחלת/ך ו/רע/ם ו/נשא/ם עד ה/עולם                      | El verso final permite observar el cierre de la composición.         |
+| #tehilim_28_1 | לדוד אליך יהוה אקרא צורי אל תחרש ממני פן תחשה ממני ונמשלתי עם יורדי בור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_28_9 | הושיעה את עמך וברך את נחלתך ורעם ונשאם עד העולם                      | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

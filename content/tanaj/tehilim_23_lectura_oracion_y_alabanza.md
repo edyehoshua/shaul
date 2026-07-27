@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 23. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                        | Observación de lectura                                               |
 | ------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_23_1 | מזמור ל/דוד יהוה רע/י לא אחסר                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_23_6 | אך טוב ו/חסד ירדפו/ני כל ימי חי/י ו/שבתי ב/בית יהוה ל/ארך ימים | El verso final permite observar el cierre de la composición.         |
+| #tehilim_23_1 | מזמור לדוד יהוה רעי לא אחסר                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_23_6 | אך טוב וחסד ירדפוני כל ימי חיי ושבתי בבית יהוה לארך ימים | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

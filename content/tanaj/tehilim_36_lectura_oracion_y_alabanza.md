@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 36. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)            | Observación de lectura                                               |
 | -------------- | ---------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_36_1  | ל/מנצח ל/עבד יהוה ל/דוד            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_36_13 | שם נפלו פעלי און דחו ו/לא יכלו קום | El verso final permite observar el cierre de la composición.         |
+| #tehilim_36_1  | למנצח לעבד יהוה לדוד            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_36_13 | שם נפלו פעלי און דחו ולא יכלו קום | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

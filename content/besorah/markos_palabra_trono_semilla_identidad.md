@@ -98,7 +98,7 @@ El recorrido también abre dos excursus —Sheol y el oficio atribuido a Yeshúa
 | **(זרע)** | zera | semilla, simiente | Aproximada | #markos_4 usa semilla como imagen de la palabra y del reino; identificar cada detalle directamente con el Mesías es una lectura pedagógica. |
 | **(שאול)** | Sheol | sepulcro, ámbito de la muerte | Aproximada por contexto | La clase lo deriva de **(שאל)**, «pedir/reclamar». Esa etimología no se da por demostrada y requiere cotejo lexical. |
 | **(τέκτων)** | tektón | trabajador o artesano | Aproximada | La afirmación de que necesariamente significa albañil o agricultor es demasiado estrecha sin estudio del griego y de su recepción semítica. |
-| **(חורש)** | joresh | el que ara o labra | Aproximada | TTH lo usa en su nota a #markos_6_3. #tehilim_129_3 contiene חרשו/חרשים en contexto de aradores. |
+| **(חורש)** | joresh | el que ara o labra | Aproximada | TTH lo usa en su nota a #markos_6_3. #tehilim_129_3 contiene חרשוחרשים en contexto de aradores. |
 | **(חרש)** | jarash | artesano; también formas gráficamente cercanas de raíces distintas | No exacta | #nejemiah_11_35 contiene גי החרשים, vertido habitualmente como valle de artesanos. No debe fundirse automáticamente con **joresh**, «el que ara». |
 
 ## La palabra firme y la silla que amonesta

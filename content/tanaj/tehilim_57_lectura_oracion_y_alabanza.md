@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 57. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                             | Observación de lectura                                               |
 | -------------- | --------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_57_1  | ל/מנצח אל תשחת ל/דוד מכתם ב/ברח/ו מ/פני שאול ב/מערה | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_57_12 | רומ/ה על שמים אלהים על כל ה/ארץ כבוד/ך              | El verso final permite observar el cierre de la composición.         |
+| #tehilim_57_1  | למנצח אל תשחת לדוד מכתם בברחו מפני שאול במערה | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_57_12 | רומה על שמים אלהים על כל הארץ כבודך              | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 34. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                              | Observación de lectura                                               |
 | -------------- | ---------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_34_1  | ל/דוד ב/שנות/ו את טעמ/ו ל/פני אבימלך ו/יגרש/הו ו/ילך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_34_23 | פודה יהוה נפש עבדי/ו ו/לא יאשמו כל ה/חסים ב/ו        | El verso final permite observar el cierre de la composición.         |
+| #tehilim_34_1  | לדוד בשנותו את טעמו לפני אבימלך ויגרשהו וילך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_34_23 | פודה יהוה נפש עבדיו ולא יאשמו כל החסים בו        | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -52,7 +52,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                                                        | Observación                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_5_1 | **באתי ל/גנ/י אחת/י כלה אריתי מור/י עם בשמ/י אכלתי יער/י עם דבש/י שתיתי יינ/י עם חלב/י אכלו רעים שתו ו/שכרו דודים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #songofsolomon_5_1 | **באתי לגני אחתי כלה אריתי מורי עם בשמי אכלתי יערי עם דבשי שתיתי ייני עם חלבי אכלו רעים שתו ושכרו דודים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

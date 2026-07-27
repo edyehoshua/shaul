@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 44 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                                          | Observación                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_44_1 | **ו/יצו את אשר על בית/ו ל/אמר מלא את אמתחת ה/אנשים אכל כ/אשר יוכלו/ן שאת ו/שים כסף איש ב/פי אמתחת/ו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_44_1 | **ויצו את אשר על ביתו לאמר מלא את אמתחת האנשים אכל כאשר יוכלון שאת ושים כסף איש בפי אמתחתו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

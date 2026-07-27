@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 88. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                        | Observación de lectura                                               |
 | -------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_88_1  | שיר מזמור ל/בני קרח ל/מנצח על מחלת ל/ענות משכיל ל/הימן ה/אזרחי | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_88_19 | הרחקת ממ/ני אהב ו/רע מידע/י מחשך                               | El verso final permite observar el cierre de la composición.         |
+| #tehilim_88_1  | שיר מזמור לבני קרח למנצח על מחלת לענות משכיל להימן האזרחי | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_88_19 | הרחקת ממני אהב ורע מידעי מחשך                               | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

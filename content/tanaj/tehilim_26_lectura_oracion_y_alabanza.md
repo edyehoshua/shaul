@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 26. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                      | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_26_1  | ל/דוד שפט/ני יהוה כי אני ב/תמ/י הלכתי ו/ב/יהוה בטחתי לא אמעד | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_26_12 | רגל/י עמדה ב/מישור ב/מקהלים אברך יהוה                        | El verso final permite observar el cierre de la composición.         |
+| #tehilim_26_1  | לדוד שפטני יהוה כי אני בתמי הלכתי וביהוה בטחתי לא אמעד | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_26_12 | רגלי עמדה במישור במקהלים אברך יהוה                        | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

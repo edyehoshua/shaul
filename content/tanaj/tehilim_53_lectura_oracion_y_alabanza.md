@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 53. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                             | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_53_1 | ל/מנצח על מחלת משכיל ל/דוד                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_53_7 | מי יתן מ/ציון ישעות ישראל ב/שוב אלהים שבות עמ/ו יגל יעקב ישמח ישראל | El verso final permite observar el cierre de la composición.         |
+| #tehilim_53_1 | למנצח על מחלת משכיל לדוד                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_53_7 | מי יתן מציון ישעות ישראל בשוב אלהים שבות עמו יגל יעקב ישמח ישראל | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -51,7 +51,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)       | Observación                                                                                                                         |
 | ------------------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_2_1 | **אני חבצלת ה/שרון שושנת ה/עמקים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #songofsolomon_2_1 | **אני חבצלת השרון שושנת העמקים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

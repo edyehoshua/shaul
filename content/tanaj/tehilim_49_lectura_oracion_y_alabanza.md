@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 49. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_49_1  | ל/מנצח ל/בני קרח מזמור                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_49_21 | אדם ב/יקר ו/לא יבין נמשל כ/בהמות נדמו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_49_1  | למנצח לבני קרח מזמור                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_49_21 | אדם ביקר ולא יבין נמשל כבהמות נדמו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

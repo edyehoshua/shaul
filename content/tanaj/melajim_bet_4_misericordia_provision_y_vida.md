@@ -23,7 +23,7 @@ Las clases sitúan los relatos de Eliseo en el reino dividido y recorren #melaji
 
 | Texto local                                                                                                             | Observación                                                              |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #melajim_bet_4_1 — `ו/אשה אחת מ/נשי בני ה/נביאים צעקה אל אלישע לאמר עבד/ך איש/י מת ו/אתה ידעת כי עבד/ך היה ירא את יהוה` | La escena inicia con una viuda, una deuda y el temor de יהוה.            |
+| #melajim_bet_4_1 — `ואשה אחת מנשי בני הנביאים צעקה אל אלישע לאמר עבדך אישי מת ואתה ידעת כי עבדך היה ירא את יהוה` | La escena inicia con una viuda, una deuda y el temor de יהוה.            |
 | #melajim_bet_4_38 — «Y regresó Elishá a Gilgal, y había hambre en la tierra».                                           | La clase de Tazria abre el marco de hambre y discípulos de los profetas. |
 
 ## Provisión y restauración

@@ -77,12 +77,12 @@ La clase continúa el estudio de Marcos y del **Ben HaAdam** abriendo el signifi
 | #qorintiyim_alef_2_12 | Delitzsch: ואנחנו לא לקחנו את־רוח העולם כי אם־הרוח מאת האלהים... | El punto de partida: el pueblo recibe el ruaj que proviene de Elohim para conocer lo concedido. |
 | #qorintiyim_alef_2_14 | Delitzsch: הן האדם הטבעי איננו מקבל את־דברי רוח אלהים... | El hombre natural no percibe las cosas del ruaj de Elohim. |
 | #qorintiyim_alef_2_16 | Delitzsch: כי מי־תכן את־רוח יהוה ומי יודיענו ואנחנו הנה יש־לנו רוח המשיח | Delitzsch conserva la conexión hebrea: "ruaj de יהוה" y "ruaj de Mashíaj". |
-| #ieshaiahu_40_13 | OE: מי תכן את רוח יהוה ו/איש עצת/ו יודיע/נו | Texto citado por Pablo; la clase lee **תכן** como medir, sondear o establecer medida. |
-| #melakhim_alef_10_5 | OE: ולא היה ב/ה עוד רוח | La reina de Sheba no "murió"; quedó sin ánimo/mente ante la sabiduría de Shlomó. |
+| #ieshaiahu_40_13 | OE: מי תכן את רוח יהוה ואיש עצתו יודיענו | Texto citado por Pablo; la clase lee **תכן** como medir, sondear o establecer medida. |
+| #melakhim_alef_10_5 | OE: ולא היה בה עוד רוח | La reina de Sheba no "murió"; quedó sin ánimo/mente ante la sabiduría de Shlomó. |
 | #romanim_11_33-34 | Delitzsch: מה־עמק עשר חכמת אלהים... כי מי־תכן את־רוח יהוה | Pablo vuelve al mismo campo: profundidad insondable de sabiduría y conocimiento. |
 | #efesios_3_17-19 | Delitzsch: מה הרוחב והארך והעמק והגבה... | Anchura, longitud, profundidad y altura describen el amor/conocimiento que excede todo conocimiento. |
 | #iojanan_12_49-50 | TTH: "no he hablado de Mí mismo... mi Padre... me mandó qué decir"; "su mandamiento es vida olam." | Yeshúa habla desde la palabra/mente de Abba; no desde iniciativa humana separada. |
-| #bereshit_3_21 | OE: ויעש יהוה אלהים... כתנות עור וילבש/ם | La clase conecta las vestiduras de piel con el Cordero preparado; queda pendiente de cotejo targúmico. |
+| #bereshit_3_21 | OE: ויעש יהוה אלהים... כתנות עור וילבשם | La clase conecta las vestiduras de piel con el Cordero preparado; queda pendiente de cotejo targúmico. |
 | #bereshit_22_13-14 | OE: Abraham ve el ayil y llama el lugar יהוה יראה | Figura del padre que entrega al hijo y de la provisión vista de antemano. |
 | #sodot_13_8 | TTH: "el Cordero que fue sacrificado desde la fundación del olam." | Se usa para enlazar la provisión previa con el Mesías; cotejar el Targum citado por la clase. |
 

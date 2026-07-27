@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 97. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_97_1  | יהוה מלך תגל ה/ארץ ישמחו איים רבים    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_97_12 | שמחו צדיקים ב/יהוה ו/הודו ל/זכר קדש/ו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_97_1  | יהוה מלך תגל הארץ ישמחו איים רבים    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_97_12 | שמחו צדיקים ביהוה והודו לזכר קדשו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

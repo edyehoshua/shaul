@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 92. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                        | Observación de lectura                                               |
 | -------------- | ---------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_92_1  | מזמור שיר ל/יום ה/שבת                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_92_16 | ל/הגיד כי ישר יהוה צור/י ו/לא עלת/ה עולת/ה ב/ו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_92_1  | מזמור שיר ליום השבת                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_92_16 | להגיד כי ישר יהוה צורי ולא עלתה עולתה בו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

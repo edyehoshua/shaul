@@ -19,7 +19,7 @@ Jeremías 46 presenta el golpe contra Egipto como palabra de יהוה; por ello,
 
 | Referencia      | Texto hebreo local                                                              | Observación                                |
 | --------------- | ------------------------------------------------------------------------------- | ------------------------------------------ |
-| #irmeiahu_46_13 | ה/דבר אשר דבר יהוה אל ירמיהו ה/נביא ל/בוא נבוכדראצר מלך בבל ל/הכות את ארץ מצרים | La profecía nombra el juicio sobre Egipto. |
+| #irmeiahu_46_13 | הדבר אשר דבר יהוה אל ירמיהו הנביא לבוא נבוכדראצר מלך בבל להכות את ארץ מצרים | La profecía nombra el juicio sobre Egipto. |
 
 ## Lectura
 

@@ -27,7 +27,7 @@ Esta es la nota canónica para Bamidbar 25 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                          | Observación                                                                                           |
 | -------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_25_1 | **ו/ישב ישראל ב/שטים ו/יחל ה/עם ל/זנות אל בנות מואב** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bamidbar_25_1 | **וישב ישראל בשטים ויחל העם לזנות אל בנות מואב** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

@@ -229,7 +229,7 @@ Cuando Yeshúa se presenta «ante el cielo», la serie lee **presentación ante 
 
 ## Lectura integrada en un párrafo
 
-יהוה prometió y juró por sí mismo. Su **Palabra** — **Elohim** manifestado — llegó a ser carne en **Yehoshúa HaMashiaj**. **Abba** nombra la fuente de esa promesa; el Mesías no habla con un Abba «otro», sino despliega y cumple lo prometido. Como **Ben HaElohim** y **Ben HaAdam**, porta vida, honra, juicio y korban del **Elohim viviente**. Su muerte reúne a los **Benei Elohim** dispersos como herederos del trono de la gracia. Todo el evangelio apunta a una conclusión: el Mesías no es un delegado menor, sino **יהוה/Elohim cumpliendo en persona lo jurado**.
+יהוה prometió y juró por sí mismo. Su **Palabra** — **Elohim** manifestado — llegó a ser carne en **Yehoshúa HaMashiaj**. **Abba** nombra la fuente de esa promesa; el Mesías no habla con un Abba «otro», sino despliega y cumple lo prometido. Como **Ben HaElohim** y **Ben HaAdam**, porta vida, honra, juicio y korban del **Elohim viviente**. Su muerte reúne a los **Benei Elohim** dispersos como herederos del trono de la gracia. Todo el evangelio apunta a una conclusión: el Mesías no es un delegado menor, sino **יהוה — Elohim cumpliendo en persona lo jurado**.
 
 ## Conexiones principales
 

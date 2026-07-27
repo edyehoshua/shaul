@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 11. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                          | Observación de lectura                                               |
 | ------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_11_1 | ל/מנצח ל/דוד ב/יהוה חסיתי איך תאמרו ל/נפש/י נודו נודי הר/כם צפור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_11_7 | כי צדיק יהוה צדקות אהב ישר יחזו פני/מו                           | El verso final permite observar el cierre de la composición.         |
+| #tehilim_11_1 | למנצח לדוד ביהוה חסיתי איך תאמרו לנפשי נודו נודי הרכם צפור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_11_7 | כי צדיק יהוה צדקות אהב ישר יחזו פנימו                           | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

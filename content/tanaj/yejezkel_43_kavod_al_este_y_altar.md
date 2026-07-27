@@ -22,7 +22,7 @@ La clase pone Ezequiel 43 en conversación con Tetzavéh: la menorá, las vestid
 
 | Referencia     | Hebreo local                                | TTH (ES)                                                                      | Observación                                        |
 | -------------- | ------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------- |
-| #iejezkel_43_1 | `ו/יולכ/ני אל ה/שער שער אשר פנה דרך ה/קדים` | «Y me hizo ir hacia la puerta, una puerta que mira hacia el camino del este». | La visión ubica al lector ante la puerta oriental. |
+| #iejezkel_43_1 | `ויולכני אל השער שער אשר פנה דרך הקדים` | «Y me hizo ir hacia la puerta, una puerta que mira hacia el camino del este». | La visión ubica al lector ante la puerta oriental. |
 
 ## Descripción y cautela
 

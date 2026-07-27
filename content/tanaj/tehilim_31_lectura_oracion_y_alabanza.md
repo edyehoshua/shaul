@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 31. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_31_1  | ל/מנצח מזמור ל/דוד                    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_31_25 | חזקו ו/יאמץ לבב/כם כל ה/מיחלים ל/יהוה | El verso final permite observar el cierre de la composición.         |
+| #tehilim_31_1  | למנצח מזמור לדוד                    | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_31_25 | חזקו ויאמץ לבבכם כל המיחלים ליהוה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

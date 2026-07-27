@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 43. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                                         | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_43_1 | שפט/ני אלהים ו/ריב/ה ריב/י מ/גוי לא חסיד מ/איש מרמה ו/עולה תפלט/ני              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_43_5 | מה תשתוחחי נפש/י ו/מה תהמי על/י הוחילי ל/אלהים כי עוד אוד/נו ישועת פנ/י ו/אלה/י | El verso final permite observar el cierre de la composición.         |
+| #tehilim_43_1 | שפטני אלהים וריבה ריבי מגוי לא חסיד מאיש מרמה ועולה תפלטני              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_43_5 | מה תשתוחחי נפשי ומה תהמי עלי הוחילי לאלהים כי עוד אודנו ישועת פני ואלהי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

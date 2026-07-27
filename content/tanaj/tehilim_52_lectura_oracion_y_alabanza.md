@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 52. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                             | Observación de lectura                                               |
 | -------------- | --------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_52_1  | ל/מנצח משכיל ל/דוד                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_52_11 | אוד/ך ל/עולם כי עשית ו/אקוה שמ/ך כי טוב נגד חסידי/ך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_52_1  | למנצח משכיל לדוד                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_52_11 | אודך לעולם כי עשית ואקוה שמך כי טוב נגד חסידיך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

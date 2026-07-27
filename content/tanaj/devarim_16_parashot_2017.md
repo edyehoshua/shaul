@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 16 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud)                                                                     | Observación                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #devarim_16_1 | **שמור את חדש ה/אביב ו/עשית פסח ל/יהוה אלהי/ך כי ב/חדש ה/אביב הוציא/ך יהוה אלהי/ך מ/מצרים לילה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_16_1 | **שמור את חדש האביב ועשית פסח ליהוה אלהיך כי בחדש האביב הוציאך יהוה אלהיך ממצרים לילה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

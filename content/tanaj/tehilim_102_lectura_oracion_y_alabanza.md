@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 102. La transcripci
 
 | Referencia      | Texto hebreo local (OE)                    | Observación de lectura                                               |
 | --------------- | ------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_102_1  | תפלה ל/עני כי יעטף ו/ל/פני יהוה ישפך שיח/ו | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_102_29 | בני עבדי/ך ישכונו ו/זרע/ם ל/פני/ך יכון     | El verso final permite observar el cierre de la composición.         |
+| #tehilim_102_1  | תפלה לעני כי יעטף ולפני יהוה ישפך שיחו | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_102_29 | בני עבדיך ישכונו וזרעם לפניך יכון     | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

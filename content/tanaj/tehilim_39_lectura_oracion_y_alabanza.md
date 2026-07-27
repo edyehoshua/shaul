@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 39. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_39_1  | ל/מנצח ל/ידיתון ל/ידותון מזמור ל/דוד  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_39_14 | השע ממ/ני ו/אבליגה ב/טרם אלך ו/אינ/ני | El verso final permite observar el cierre de la composición.         |
+| #tehilim_39_1  | למנצח לידיתון לידותון מזמור לדוד  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_39_14 | השע ממני ואבליגה בטרם אלך ואינני | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

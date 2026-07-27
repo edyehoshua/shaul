@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 14. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                               | Observación de lectura                                               |
 | ------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_14_1 | ל/מנצח ל/דוד אמר נבל ב/לב/ו אין אלהים השחיתו התעיבו עלילה אין עשה טוב | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_14_7 | מי יתן מ/ציון ישועת ישראל ב/שוב יהוה שבות עמ/ו יגל יעקב ישמח ישראל    | El verso final permite observar el cierre de la composición.         |
+| #tehilim_14_1 | למנצח לדוד אמר נבל בלבו אין אלהים השחיתו התעיבו עלילה אין עשה טוב | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_14_7 | מי יתן מציון ישועת ישראל בשוב יהוה שבות עמו יגל יעקב ישמח ישראל    | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

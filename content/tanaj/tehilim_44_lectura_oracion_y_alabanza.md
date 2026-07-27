@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 44. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)              | Observación de lectura                                               |
 | -------------- | ------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_44_1  | ל/מנצח ל/בני קרח משכיל               | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_44_27 | קומ/ה עזרת/ה ל/נו ו/פד/נו למען חסד/ך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_44_1  | למנצח לבני קרח משכיל               | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_44_27 | קומה עזרתה לנו ופדנו למען חסדך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

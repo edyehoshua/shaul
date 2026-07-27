@@ -32,9 +32,9 @@ Esta nota organiza la clase del hermano Eric sobre Tehilim 67, contenida en una 
 
 | Referencia      | Texto local (hebreo sin nikud)                                                                     | Observación                                                                                             |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| #tehilim_67_2-3 | אלהים יחנ/נו ו/יברכ/נו יאר פני/ו את/נו סלה; ל/דעת ב/ארץ דרכ/ך ב/כל גוים ישועת/ך                    | La bendición y el resplandor del rostro se orientan a dar a conocer el camino y la salvación de Elohim. |
-| #tehilim_67_4-6 | יודו/ך עמים אלהים יודו/ך עמים כל/ם; ישמחו ו/ירננו לאמים כי תשפט עמים מישור ו/לאמים ב/ארץ תנח/ם סלה | La alabanza de los pueblos se asocia con el juicio recto y la guía de Elohim.                           |
-| #tehilim_67_7-8 | ארץ נתנה יבול/ה יברכ/נו אלהים אלהי/נו; יברכ/נו אלהים ו/ייראו את/ו כל אפסי ארץ                      | La fertilidad de la tierra concluye en bendición y temor de Elohim hasta los confines.                  |
+| #tehilim_67_2-3 | אלהים יחננו ויברכנו יאר פניו אתנו סלה; לדעת בארץ דרכך בכל גוים ישועתך                    | La bendición y el resplandor del rostro se orientan a dar a conocer el camino y la salvación de Elohim. |
+| #tehilim_67_4-6 | יודוך עמים אלהים יודוך עמים כלם; ישמחו וירננו לאמים כי תשפט עמים מישור ולאמים בארץ תנחם סלה | La alabanza de los pueblos se asocia con el juicio recto y la guía de Elohim.                           |
+| #tehilim_67_7-8 | ארץ נתנה יבולה יברכנו אלהים אלהינו; יברכנו אלהים וייראו אתו כל אפסי ארץ                      | La fertilidad de la tierra concluye en bendición y temor de Elohim hasta los confines.                  |
 
 ## Bendición que da a conocer el camino
 

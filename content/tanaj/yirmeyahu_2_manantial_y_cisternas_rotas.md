@@ -20,7 +20,7 @@ source_ids: ["youtube:LfXDqma0ONk"]
 
 | Referencia     | Hebreo local                                           | TTH (ES)                                                                     |
 | -------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| #irmeiahu_2_13 | `את/י עזבו מקור מים חיים ל/חצב ל/הם בארות בארת נשברים` | «A mí me han abandonado, manantial de aguas vivas, para cavar… pozos rotos». |
+| #irmeiahu_2_13 | `אתי עזבו מקור מים חיים לחצב להם בארות בארת נשברים` | «A mí me han abandonado, manantial de aguas vivas, para cavar… pozos rotos». |
 
 ## Lectura
 

@@ -37,9 +37,9 @@ Qohélet 10 considera máximas sobre necedad, respuesta ante la autoridad, traba
 
 | Referencia             | Texto local (OE, sin nikud)                                                                                       | Observación                                                            |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| #ecclesiastes_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מ/חכמה מ/כבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
-| #ecclesiastes_10_12-13 | **דברי פי חכם חן ו/שפתות כסיל תבלע/נו; תחלת דברי פי/הו סכלות ו/אחרית פי/הו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
-| #ecclesiastes_10_20    | **גם ב/מדע/ך מלך אל תקלל ו/ב/חדרי משכב/ך אל תקלל עשיר כי עוף ה/שמים יוליך את ה/קול ו/בעל ה/כנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
+| #ecclesiastes_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מחכמה מכבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
+| #ecclesiastes_10_12-13 | **דברי פי חכם חן ושפתות כסיל תבלענו; תחלת דברי פיהו סכלות ואחרית פיהו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
+| #ecclesiastes_10_20    | **גם במדעך מלך אל תקלל ובחדרי משכבך אל תקלל עשיר כי עוף השמים יוליך את הקול ובעל הכנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
 
 ## Lectura del capítulo
 

@@ -38,11 +38,11 @@ Esta nota organiza la clase sobre Tehilim 29 del hermano Eric de Jesús Rodrígu
 
 | Referencia        | Texto local (hebreo sin nikud)                                                          | Observación                                                             |
 | ----------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| #tehilim_29_1-2   | הבו ל/יהוה בני אלים הבו ל/יהוה כבוד ו/עז; הבו ל/יהוה כבוד שמ/ו השתחוו ל/יהוה ב/הדרת קדש | La respuesta inicial es rendir gloria, fuerza y adoración a יהוה.       |
-| #tehilim_29_3-4   | קול יהוה על ה/מים אל ה/כבוד הרעים יהוה על מים רבים; קול יהוה ב/כח קול יהוה ב/הדר        | La voz está sobre las muchas aguas, con poder y majestad.               |
+| #tehilim_29_1-2   | הבו ליהוה בני אלים הבו ליהוה כבוד ועז; הבו ליהוה כבוד שמו השתחוו ליהוה בהדרת קדש | La respuesta inicial es rendir gloria, fuerza y adoración a יהוה.       |
+| #tehilim_29_3-4   | קול יהוה על המים אל הכבוד הרעים יהוה על מים רבים; קול יהוה בכח קול יהוה בהדר        | La voz está sobre las muchas aguas, con poder y majestad.               |
 | #tehilim_29_7     | קול יהוה חצב להבות אש                                                                   | El poema presenta una voz que corta llamas de fuego.                    |
-| #tehilim_29_9     | קול יהוה יחולל אילות ו/יחשף יערות ו/ב/היכל/ו כל/ו אמר כבוד                              | Ante esa voz, el templo responde: «Gloria».                             |
-| #tehilim_29_10-11 | יהוה ל/מבול ישב ו/ישב יהוה מלך ל/עולם; יהוה עז ל/עמ/ו יתן יהוה יברך את עמ/ו ב/שלום      | El dominio sobre el diluvio concluye en fuerza y shalom para el pueblo. |
+| #tehilim_29_9     | קול יהוה יחולל אילות ויחשף יערות ובהיכלו כלו אמר כבוד                              | Ante esa voz, el templo responde: «Gloria».                             |
+| #tehilim_29_10-11 | יהוה למבול ישב וישב יהוה מלך לעולם; יהוה עז לעמו יתן יהוה יברך את עמו בשלום      | El dominio sobre el diluvio concluye en fuerza y shalom para el pueblo. |
 
 ## La voz sobre las aguas
 
@@ -60,7 +60,7 @@ La frase final de #tehilim_29_9 evita que el temor sea el último horizonte: «e
 
 El v. 10 nombra `מבול`, el diluvio. La exposición lo enlaza con la memoria de Noaj. #bereshit_9_11 conserva la promesa de que las aguas del diluvio no volverán a destruir toda carne; Tehilim 29 no repite esa promesa, pero proclama que יהוה se sentó como Rey aun sobre el diluvio y se sienta como Rey para siempre.
 
-Por eso el cierre no glorifica una catástrofe. El mismo יהוה que posee `עז`, fuerza, la da a su pueblo y lo bendice `ב/שלום`, con shalom (#tehilim_29_11). Aquí shalom no debe reducirse a tranquilidad emocional: es la bendición de bienestar e integridad que procede del Rey eterno.
+Por eso el cierre no glorifica una catástrofe. El mismo יהוה que posee `עז`, fuerza, la da a su pueblo y lo bendice `בשלום`, con shalom (#tehilim_29_11). Aquí shalom no debe reducirse a tranquilidad emocional: es la bendición de bienestar e integridad que procede del Rey eterno.
 
 ## Léxico clave
 

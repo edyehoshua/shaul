@@ -97,8 +97,8 @@ El punto central es que Yeshúa no conduce al ciego a rendir fidelidad a otro di
 | #maasei_hashlijim_10_26 | ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי                                              | — (sin TTH local)                                                                                                                                      | Pedro rechaza la postración: "yo también soy hombre".                                          |
 | #sodot_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים                                               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate, no sea que hagas esto!... Póstrate a Elohim                                                | El mensajero celestial rechaza postración hacia sí mismo.                                      |
 | #qorintiyim_alef_15_45  | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                               | — (sin TTH local)                                                                                                                                      | Primer Adam nefesh viviente; último Adam espíritu vivificante.                                 |
-| #tehilim_49_8           | אח לא פדה יפדה איש לא יתן ל/אלהים כפר/ו                                                   | y costosa es la redención de la vida de ellos, y debe detenerse de intentar para siempre,                                                              | OE v. 8; TTH v. 8 — un hombre no puede redimir a su hermano ante Elohim.                       |
-| #tehilim_115_17         | לא ה/מתים יהללו יה ו/לא כל ירדי דומה                                                      | Los muertos no alabarán a Yah, ni ninguno de los que descienden al silencio.                                                                           | La muerte es silencio, no adoración activa ante יהוה.                                          |
+| #tehilim_49_8           | אח לא פדה יפדה איש לא יתן לאלהים כפרו                                                   | y costosa es la redención de la vida de ellos, y debe detenerse de intentar para siempre,                                                              | OE v. 8; TTH v. 8 — un hombre no puede redimir a su hermano ante Elohim.                       |
+| #tehilim_115_17         | לא המתים יהללו יה ולא כל ירדי דומה                                                      | Los muertos no alabarán a Yah, ni ninguno de los que descienden al silencio.                                                                           | La muerte es silencio, no adoración activa ante יהוה.                                          |
 
 ## Hoja léxica
 
@@ -118,7 +118,7 @@ El punto central es que Yeshúa no conduce al ciego a rendir fidelidad a otro di
 | ------------------ | ------------------------------ | --------------------------------------------------------------------- | ----------------------------- |
 | Tanaj (OE)         | #iejezkel_2_1, #iejezkel_2_3   | Uso profético de "ben adam" como mortal enviado                       | Cotejado                      |
 | Tanaj (OE)         | #tehilim_49_8, #tehilim_115_17 | Insuficiencia humana para redimir; silencio de los muertos            | Cotejado                      |
-| Tanaj (OE)         | #qohelet_3_19                  | Mortalidad compartida hombre/animal — כי מקרה בני ה/אדם ו/מקרה ה/בהמה | Cotejado (OE directo)         |
+| Tanaj (OE)         | #qohelet_3_19                  | Mortalidad compartida hombre/animal — כי מקרה בני האדם ומקרה הבהמה | Cotejado (OE directo)         |
 | Contexto histórico | Yojanán post-70 EC             | Evangelio en disputa con líneas judías reorganizadas                  | Mención indirecta en la clase |
 | Daniel 7           | —                              | Conexión pendiente del título Ben Adam con trono, nubes y dominio     | Pendiente de verificar        |
 | Aparato textual    | #iojanan_9_35                  | Variante "Hijo del Hombre" frente a "Hijo de Elohim" en TTH/Delitzsch | Pendiente de verificar        |
@@ -129,8 +129,8 @@ La clase distingue entre "ben Adam" como hijo de Adam corruptible y el uso mesi�
 
 | Referencia    | Hebreo local                                            | Función                                                                   |
 | ------------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
-| #iejezkel_2_1 | OE: "ו/יאמר אל/י בן אדם עמד על רגלי/ך ו/אדבר את/ך"      | Yejezkel es llamado "ben Adam" dentro de su condición profética y mortal. |
-| #iejezkel_2_3 | OE: "ו/יאמר אל/י בן אדם שולח אני אות/ך אל בני ישראל..." | El profeta es enviado a Israel como hijo de Adam entre hijos rebeldes.    |
+| #iejezkel_2_1 | OE: "ויאמר אלי בן אדם עמד על רגליך ואדבר אתך"      | Yejezkel es llamado "ben Adam" dentro de su condición profética y mortal. |
+| #iejezkel_2_3 | OE: "ויאמר אלי בן אדם שולח אני אותך אל בני ישראל..." | El profeta es enviado a Israel como hijo de Adam entre hijos rebeldes.    |
 
 La lectura propuesta en la clase no niega ese uso común. Más bien lo usa como contraste: si todo hijo de Adam hereda corrupción, debilidad y muerte, entonces el Mesías no puede ser explicado como un simple hijo de Adam en la misma línea corruptible.
 
@@ -156,9 +156,9 @@ El argumento también descarta que un Adam corruptible pueda pagar por todos. La
 
 | Referencia      | Texto local                                        | Observación                                                                         |
 | --------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| #tehilim_49_8   | אח לא פדה יפדה איש לא יתן ל/אלהים כפר/ו            | y costosa es la redención de la vida de ellos...                                    | Un hombre no puede redimir a su hermano ante Elohim.            |
-| #qohelet_3_19   | כי מקרה בני ה/אדם ו/מקרה ה/בהמה ו/מקרה אחד ל/הם... | — (sin TTH local)                                                                   | La clase usa este marco para subrayar la mortalidad compartida. |
-| #tehilim_115_17 | OE: "לא ה/מתים יהללו יה ו/לא כל ירדי דומה"         | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
+| #tehilim_49_8   | אח לא פדה יפדה איש לא יתן לאלהים כפרו            | y costosa es la redención de la vida de ellos...                                    | Un hombre no puede redimir a su hermano ante Elohim.            |
+| #qohelet_3_19   | כי מקרה בני האדם ומקרה הבהמה ומקרה אחד להם... | — (sin TTH local)                                                                   | La clase usa este marco para subrayar la mortalidad compartida. |
+| #tehilim_115_17 | OE: "לא המתים יהללו יה ולא כל ירדי דומה"         | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
 
 La conclusión del video es que si el Mesías fuera solo un ben Adam corruptible, no tendría mérito suficiente para redimir. Por eso la identidad del Mesías debe leerse desde el Adam celestial y desde la revelación de Elohim, no desde una humanidad pecaminosa común.
 

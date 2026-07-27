@@ -41,15 +41,15 @@ Tehilim 56 convierte la presión sostenida en súplica, confianza y gratitud. El
 
 | Referencia        | Texto local (OE, sin nikud)                                                                                                                                      | Observación                                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_56_1     | **ל/מנצח על יונת אלם רחקים ל/דוד מכתם ב/אחז את/ו פלשתים ב/גת**                                                                                                   | El encabezado vincula el salmo con David y los filisteos en Gat; las expresiones musicales requieren cautela léxica. |
-| #tehilim_56_2-3   | **חנ/ני אלהים כי שאפ/ני אנוש כל ה/יום לחם ילחצ/ני**; **שאפו שורר/י כל ה/יום כי רבים לחמים ל/י מרום**                                                             | La súplica de gracia se formula dentro de una situación de hostigamiento continuo.                                   |
-| #tehilim_56_4-5   | **יום אירא אני אלי/ך אבטח**; **ב/אלהים אהלל דבר/ו ב/אלהים בטחתי לא אירא מה יעשה בשר ל/י**                                                                        | El temor no cancela la confianza: el orante se vuelve hacia Elohim y alaba su palabra.                               |
-| #tehilim_56_9-10  | **נד/י ספרתה אתה שימ/ה דמעת/י ב/נאד/ך ה/לא ב/ספרת/ך**; **אז ישובו אויב/י אחור ב/יום אקרא זה ידעתי כי אלהים ל/י**                                                 | El salmista presenta su aflicción ante Elohim y clama con la certeza de que Elohim está de su lado.                  |
-| #tehilim_56_11-14 | **ב/יהוה אהלל דבר**; **ב/אלהים בטחתי לא אירא מה יעשה אדם ל/י**; **על/י אלהים נדרי/ך אשלם תודת ל/ך**; **כי הצלת נפש/י מ/מות... ל/התהלך ל/פני אלהים ב/אור ה/חיים** | La confianza desemboca en acción de gracias y en caminar delante de Elohim.                                          |
+| #tehilim_56_1     | **למנצח על יונת אלם רחקים לדוד מכתם באחז אתו פלשתים בגת**                                                                                                   | El encabezado vincula el salmo con David y los filisteos en Gat; las expresiones musicales requieren cautela léxica. |
+| #tehilim_56_2-3   | **חנני אלהים כי שאפני אנוש כל היום לחם ילחצני**; **שאפו שוררי כל היום כי רבים לחמים לי מרום**                                                             | La súplica de gracia se formula dentro de una situación de hostigamiento continuo.                                   |
+| #tehilim_56_4-5   | **יום אירא אני אליך אבטח**; **באלהים אהלל דברו באלהים בטחתי לא אירא מה יעשה בשר לי**                                                                        | El temor no cancela la confianza: el orante se vuelve hacia Elohim y alaba su palabra.                               |
+| #tehilim_56_9-10  | **נדי ספרתה אתה שימה דמעתי בנאדך הלא בספרתך**; **אז ישובו אויבי אחור ביום אקרא זה ידעתי כי אלהים לי**                                                 | El salmista presenta su aflicción ante Elohim y clama con la certeza de que Elohim está de su lado.                  |
+| #tehilim_56_11-14 | **ביהוה אהלל דבר**; **באלהים בטחתי לא אירא מה יעשה אדם לי**; **עלי אלהים נדריך אשלם תודת לך**; **כי הצלת נפשי ממות... להתהלך לפני אלהים באור החיים** | La confianza desemboca en acción de gracias y en caminar delante de Elohim.                                          |
 
 ## La súplica no comienza con venganza
 
-La primera petición es **חנ/ני**: «concédeme gracia» (#tehilim_56_2). La clase contrasta esta súplica con el deseo de controlar o castigar a los adversarios. El versículo sí pone la necesidad ante Elohim y describe la opresión; no formula una regla exhaustiva para cada respuesta ante violencia, injusticia o peligro.
+La primera petición es **חנני**: «concédeme gracia» (#tehilim_56_2). La clase contrasta esta súplica con el deseo de controlar o castigar a los adversarios. El versículo sí pone la necesidad ante Elohim y describe la opresión; no formula una regla exhaustiva para cada respuesta ante violencia, injusticia o peligro.
 
 El expositor aplica la gracia a la dirección de Elohim en decisiones ordinarias, incluso al uso responsable de medios médicos (aprox. 16:00-23:30). Esa aplicación pastoral no convierte el salmo en una prescripción sanitaria. El texto invita a la dependencia de Elohim en medio de la presión.
 
@@ -69,7 +69,7 @@ El cierre no termina en el enemigo: hay votos, acciones de gracias y el deseo de
 
 | Forma                | Transliteración        | Sentido en la nota      | Cautela                                                                                                                           |
 | -------------------- | ---------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **חנ/ני**            | _ḥonneni_              | concédeme gracia        | La clase desarrolla una definición amplia de gracia; el verbo expresa aquí una súplica de favor.                                  |
+| **חנני**            | _ḥonneni_              | concédeme gracia        | La clase desarrolla una definición amplia de gracia; el verbo expresa aquí una súplica de favor.                                  |
 | **אבטח / בטחתי**     | _evtaḥ / bataḥti_      | confiaré / he confiado  | La confianza se afirma en la oración; no debe simplificarse como ausencia de temor.                                               |
 | **אנוש / אדם / בשר** | _enosh / adam / basar_ | humano / hombre / carne | Las distinciones léxicas que propone la clase necesitan cotejo adicional antes de convertirlas en categorías doctrinales rígidas. |
 

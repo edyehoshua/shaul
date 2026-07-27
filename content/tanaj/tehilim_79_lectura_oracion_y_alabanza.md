@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 79. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                                     | Observación de lectura                                               |
 | -------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_79_1  | מזמור ל/אסף אלהים באו גוים ב/נחלת/ך טמאו את היכל קדש/ך שמו את ירושלם ל/עיים | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_79_13 | ו/אנחנו עמ/ך ו/צאן מרעית/ך נודה ל/ך ל/עולם ל/דר ו/דר נספר תהלת/ך            | El verso final permite observar el cierre de la composición.         |
+| #tehilim_79_1  | מזמור לאסף אלהים באו גוים בנחלתך טמאו את היכל קדשך שמו את ירושלם לעיים | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_79_13 | ואנחנו עמך וצאן מרעיתך נודה לך לעולם לדר ודר נספר תהלתך            | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
