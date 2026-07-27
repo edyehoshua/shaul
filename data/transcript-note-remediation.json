@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 240,
+  "total_notes_requiring_remediation": 239,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -290,17 +290,6 @@
         "Santidad como camino que se aprende",
         "Amor visible y responsabilidad cotidiana",
         "Consuelo fundado en la resurrección"
-      ],
-      "issues": ["under_300_substantive_words"]
-    },
-
-    {
-      "path": "content/besorah/yojanan_3_nacer_de_arriba_y_testimonio.md",
-      "substantive_words": 200,
-      "thematic_sections": [
-        "Nacer de arriba",
-        "El Ben Ha’Adam levantado",
-        "El testigo y el esposo"
       ],
       "issues": ["under_300_substantive_words"]
     },

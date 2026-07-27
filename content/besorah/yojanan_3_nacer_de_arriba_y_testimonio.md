@@ -1,6 +1,6 @@
 ---
 title: "Yojanán 3: nacer de arriba y el testimonio"
-description: "Lectura de Yojanán 3:1-36: Nicodemo, el nacimiento de arriba, el Ben Ha’Adam levantado y el testimonio que señala a Yehoshua."
+description: "Lectura ordenada de Yojanán 3: Nicodemo y el nacimiento de arriba, el Ben Ha’Adam levantado, la luz, y el testimonio de Iojanán."
 date: 2026-07-27
 tags:
   - yojanan
@@ -10,9 +10,9 @@ tags:
   - testimonio
 references:
   - "#iojanan_3_1-8"
-  - "#iojanan_3_14-18"
+  - "#iojanan_3_14-21"
   - "#iojanan_3_22-36"
-  - "#bamidbar_21_8-9"
+  - "#bamidbar_21_4-9"
 sources:
   - "https://www.youtube.com/watch?v=3g9O4ADy6xw"
   - "https://www.youtube.com/watch?v=-I1zqJZ8hQM"
@@ -24,58 +24,91 @@ source_ids:
   - "youtube:3g9O4ADy6xw"
   - "youtube:-I1zqJZ8hQM"
   - "youtube:yBlrSzbNmfo"
-translation: "[TTH, Delitzsch]"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
 
-Yojanán 3 presenta a Yehoshua dialogando con Nicodemo sobre nacer de arriba y ver el reino de Elohim; luego enlaza el levantamiento del Ben Ha’Adam con la serpiente levantada por Moshéh. La escena final conserva el testimonio de Iojanán, cuyo gozo consiste en que Yehoshua crezca.
+Yojanán 3 progresa desde la conversación con Nicodemo hasta la confesión pública de Iojanán: Yehoshua habla del nacimiento que viene de arriba, de su levantamiento para vida, de la Luz que hace visible las obras y, finalmente, del testigo que se alegra de ceder el centro al esposo. Las tres clases de Eric de Jesús Rodríguez Mendoza siguen esos movimientos; esta nota conserva sus observaciones y las contrasta con los textos locales.
 
 ## Alcance de la nota
 
-Las partes 8, 9 y 10 de Eric de Jesús Rodríguez Mendoza tratan el capítulo. Sus propuestas sobre palabras semíticas, títulos y contexto se reciben como puntos para contrastar, no como definiciones automáticas de la terminología del Evangelio.
+Las partes 8, 9 y 10 de la serie recorren el capítulo. La transcripción automática puede contener errores; por eso se atribuyen a la clase sus propuestas de lectura y se distingue entre el texto local, una traducción posible y una analogía pedagógica. La exposición no se reduce a una advertencia general: sus acentos concretos son la doble posibilidad de «de arriba», la secuencia de Bamidbar 21, la imagen del esposo y el vínculo entre recibir el testimonio y reconocer que Elohim es verdadero.
 
 ## Hoja de comparación
 
-| Referencia     | Texto local                                                                                                     | Observación                                       |
-| -------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| #iojanan_3_3   | TTH: «Si un hombre no nace de arriba, no puede ver el reino de Elohim»; Delitzsch: **אם לא יולד איש ממקור על**. | El diálogo abre con nacimiento «de arriba».       |
-| #iojanan_3_14  | TTH: «así es necesario que sea levantado el Ben Ha’Adam»; Delitzsch: **כן ינשא בן האדם**.                       | El texto remite de modo explícito al desierto.    |
-| #bamidbar_21_8 | OE: **ויאמר יהוה אל משה עשה לך שרף ושים אתו על נס והיה כל הנשוך וראה אתו וחי**.                                 | Mirar la señal está ligado a vivir en el relato.  |
-| #iojanan_3_29  | TTH: «El que tiene la esposa es el esposo… Y esta es mi alegría que fue llena».                                 | Iojanán define su gozo en relación con el esposo. |
-| #iojanan_3_31  | TTH: «El que de arriba viene, sobre todo es»; Delitzsch: **הבא ממרום רם הוא מכל**.                              | La frase retoma el lenguaje de «arriba».          |
+| Referencia | Texto local | Función en la lectura |
+| --- | --- | --- |
+| #iojanan_3_3 | TTH: «Si un hombre no nace de arriba, no puede ver el reino de Elohim». | Abre la conversación con Nicodemo. |
+| #iojanan_3_5-6 | TTH: «Si un hombre no nace de las aguas y del Rúaj…»; «el que nace del Rúaj, rúaj es». | El pasaje contrapone carne y Rúaj. |
+| #iojanan_3_14-15 | TTH: «cuando Moshéh puso el ser ardiente sobre el estandarte… así es necesario que sea levantado el Ben Ha’Adam». | El Evangelio remite expresamente al desierto. |
+| #bamidbar_21_6,8-9 | OE: **וישלח יהוה בעם את הנחשים השרפים**; **עשה לך שרף ושים אתו על נס**; **ויעש משה נחש נחשת**. | El relato distingue las serpientes, el ser ardiente ordenado y la serpiente de cobre hecha por Moshéh. |
+| #iojanan_3_19,21 | TTH: «la Luz vino al olam»; «el que hace la verdad, viene a la Luz». | La luz revela las obras. |
+| #iojanan_3_29-31 | TTH: «El que tiene la esposa es el esposo»; «El que de arriba viene, sobre todo es». | Iojanán explica su alegría y el origen del que anuncia. |
+| #iojanan_3_32-34 | TTH: «Todo el que recibe su testimonio ha certificado que יהוה es fidedigno». | Recibir el testimonio conduce a confesar la veracidad de Elohim. |
 
-## Nacer de arriba
+## Nicodemo, agua y nacimiento de arriba (3:1-8)
 
-La conversación no presenta a Nicodemo como simple contraste sin esperanza: él pregunta y Yehoshua responde con imágenes de nacimiento, agua y Rúaj (#iojanan_3_1-8). Traducir **άνωθεν** exclusivamente como «de nuevo» o exclusivamente como «de arriba» puede ocultar la tensión del diálogo; TTH conserva «de arriba», y cualquier equivalencia hebrea o aramea adicional debe ser comprobada caso por caso.
+La parte 8 sitúa el encuentro después de las señales de Jerusalén y se detiene en que Nicodemo es fariseo. Eric propone leer su pregunta dentro de una formación religiosa seria, no como si fuera una ocurrencia absurda. Eso hace visible la fuerza del diálogo: la respuesta de Yehoshua no elogia un estatus ni ofrece una técnica de ascenso; declara una necesidad para ver y entrar al reino (#iojanan_3_3,5).
 
-La exposición de Eric sitúa la pregunta de Nicodemo dentro de un mundo de formación religiosa y etapas reconocibles de pertenencia. Ese marco ayuda a leer la inquietud como una respuesta seria al alcance de las palabras de Yehoshua, no como una pregunta meramente biológica. Sin embargo, el argumento de la nota descansa primero en el contraste que el propio texto sí repite: carne y Rúaj, abajo y arriba, no en una reconstrucción completa de las costumbres del período. El nacimiento de arriba no se convierte aquí en un mérito acumulado; es una necesidad declarada para ver el reino de Elohim.
+El término decisivo es **(ἄνωθεν)**, *anothen*: normalmente puede significar «de arriba» y, según el contexto, «de nuevo». En esta escena la clase insiste en «de arriba», y #iojanan_3_31 retoma inequívocamente el mismo campo con «el que de arriba viene». Esa correspondencia griega es **exacta** entre 3:3 y 3:31; no vuelve imposible el juego narrativo que provoca la pregunta de Nicodemo. Delitzsch traduce 3:3 con **ממקור על**; es una traducción hebrea del siglo XIX, no la supuesta forma original del discurso. Por ello su relación con *anothen* es una **aproximación de traducción**, no una prueba de que Yehoshua pronunciara esa expresión hebrea.
 
-## El Ben Ha’Adam levantado
+Eric también cuestiona convertir «agua» en una adición aislada o en un rito automático. El texto local sí conserva «de las aguas y del Rúaj» (#iojanan_3_5), y el versículo siguiente ordena la lectura al contrastar carne y Rúaj. **(πνεῦμα)**, *pneuma*, significa «viento, aliento, espíritu»; en 3:8 el mismo vocablo permite la imagen del viento que sopla y del nacido del Rúaj. Delitzsch usa **רוח**, *ruaj*, que también puede abarcar viento y aliento. La equivalencia *pneuma–ruaj* aquí es **aproximada y pedagógicamente útil**, porque las dos lenguas cubren ese campo, pero no autoriza a borrar la sintaxis griega ni a resolver de antemano cada detalle de agua.
 
-#iojanan_3_14 remite explícitamente a Moshéh y la serpiente en el desierto. La comparación funciona en el argumento del pasaje y se vincula con vida para quien se afirma. No permite, por sí sola, fijar cada alcance posterior del título Ben Ha’Adam ni convertir la imagen en una fórmula doctrinal desligada de #bamidbar_21_8-9.
+## El Ben Ha’Adam levantado y la señal del desierto (3:9-15)
 
-El texto de Bamidbar mantiene una secuencia concreta: el pueblo reconoce su falta, יהוה manda hacer la señal y el mordido vive al mirarla (#bamidbar_21_6-9). Yojanán no borra aquel relato cuando usa su figura; concentra la atención en que el Ben Ha’Adam «debe» ser levantado. La clase desarrolla asociaciones entre la serpiente, el juicio y la vida. Conviene recibirlas como una lectura pedagógica de la imagen, mientras se conserva lo que el pasaje expresa sin ambigüedad: el levantamiento es necesario y está ordenado hacia la vida olam (#iojanan_3_14-15).
+La parte 9 comienza donde la conversación llega al «debe» de #iojanan_3_14. Eric observa que el título no debe rebajarse a una frase española plana. **(בן האדם)**, *ben ha-adam*, significa literalmente «hijo del ser humano / de Adán»; Delitzsch lo emplea para representar el griego **(ὁ υἱὸς τοῦ ἀνθρώπου)**, *ho huios tou anthropou*, «el Hijo del hombre». Es una **equivalencia de traducción aproximada**: el hebreo puede evocar *adam* con mayor inmediatez, mientras el griego del Evangelio tiene su propia construcción. En el contexto, el título concentra la necesidad de que Yehoshua sea levantado; no autoriza por sí solo todas las definiciones posteriores que una palabra pueda recibir.
 
-## El testigo, el esposo y la verdad recibida
+La clase camina cuidadosamente por Bamidbar 21:4-9. Señala el cansancio del pueblo, su queja, las mordeduras, la confesión y la señal puesta sobre un asta. El texto OE permite comprobar una observación importante de Eric: en 21:6 aparecen **הנחשים השרפים**, *hannejasim hasserafim*, «las serpientes ardientes»; en 21:8 יהוה manda **שרף**, *saraf*, «un ser ardiente», y en 21:9 Moshéh hace **נחש נחשת**, *nejas nejoshet*, «serpiente de cobre». **(שרף)**, *saraf*, se relaciona con arder o quemar; su uso como «serafín» celestial en otros contextos no significa que el objeto de Bamidbar sea automáticamente un ser alado. Esa precisión formal de la clase protege el argumento contra una identificación precipitada.
 
-En #iojanan_3_27-30 Iojanán vuelve a delimitar su función: no es el Mesías; es amigo del esposo y su alegría se completa cuando Yehoshua crece. Este testimonio guarda continuidad con #iojanan_1_19-34 y evita usar la autoridad del testigo para desplazar a aquel a quien señala.
+Eric desarrolla además una lectura simbólica: el brillo del cobre, la luz y el pecado consumido; también menciona asociaciones numéricas entre **נחש**, *najas*, «serpiente», y **משיח**, *mashiaj*, «ungido/Mesías». Son observaciones reales de la clase, pero son una **analogía pedagógica y una técnica interpretativa**, no una equivalencia léxica ni el sentido explícito de #bamidbar_21_8-9. Lo que el texto sí fija es la secuencia: el herido mira la señal y vive. Yojanán toma esa figura para declarar que el Ben Ha’Adam debe ser levantado «para que» haya vida olam (#iojanan_3_14-15).
 
-La parte final del capítulo también coloca el testimonio en el terreno de recibir lo que viene de Elohim (#iojanan_3_31-34). Eric resalta que el testigo no acumula seguidores para sí, sino que reconoce lo que le ha sido dado y se alegra por la voz del esposo. Por eso «Él debe crecer» no es una frase aislada de humildad privada: organiza el lugar de Iojanán dentro del relato. El lector puede contrastar toda afirmación sobre títulos, procedencia o términos técnicos con el pasaje, pero no debe perder esta dirección narrativa: el testigo es fiel precisamente porque señala fuera de sí mismo hacia Yehoshua.
+## Luz, juicio y verdad practicada (3:16-21)
+
+El capítulo continúa, no termina, en el conocido 3:16. Eric lee **(κόσμος)**, *kosmos*, «mundo / orden», en continuidad con el prólogo: no se limita automáticamente al planeta ni se agota en individuos aislados. Esta es una **traducción aproximada** de *olam* en TTH, pues **עולם**, *olam*, se refiere sobre todo a duración, era o mundo según el contexto; no es una sustitución exacta de *kosmos*. La fuerza contextual de 3:16-17 es que el amor de Elohim se dirige al *kosmos* y que el envío tiene por finalidad salvarlo, no juzgarlo.
+
+En 3:19-21 la clase subraya que la crisis se manifiesta cuando la Luz llega y las obras quedan expuestas. **(κρίσις)**, *krisis*, es «juicio, decisión, discernimiento»; TTH lo vierte «causa penal». La traducción es **aproximada**: conserva la dimensión judicial, pero el término griego también nombra el acto de discernir. Yojanán no deja la verdad en una consigna abstracta: «el que hace la verdad» viene a la Luz (#iojanan_3_21). Delitzsch expresa esa frase con **פעל אמת**, *poel emet*, «quien practica verdad»; es una representación hebrea del griego, útil para la lectura pero no una retroversión demostrada.
+
+## El amigo del esposo y el testimonio recibido (3:22-36)
+
+La parte 10 cambia al escenario de Judea y a la comparación entre el ministerio de Yehoshua y el de Iojanán. Eric conserva la pregunta de los discípulos —«todos van a él»— y no la trata como una rivalidad que Iojanán deba ganar. Su respuesta se mueve en orden: nada se recibe si no viene del cielo (v. 27); él no es el Mesías (v. 28); el esposo tiene a la esposa y el amigo escucha su voz (v. 29); por eso uno crece y el otro disminuye (v. 30).
+
+La imagen **(ὁ νυμφίος)**, *ho nymphios*, «el esposo», y **(φίλος τοῦ νυμφίου)**, *philos tou nymphiou*, «amigo del esposo», ubica a Iojanán como testigo, no como dueño de la boda. Es una **equivalencia exacta de sentido básico** con el español «esposo» y «amigo», aunque el trasfondo social de una boda antigua exige más estudio antes de extraer una alegoría completa. La observación de Eric tiene fuerza narrativa: la alegría de Iojanán se completa al oír la voz del esposo, de modo que «Él debe crecer» describe una vocación pública de testimonio y no sólo una humildad privada.
+
+La repetición de «de arriba» en 3:31 confirma el enlace con Nicodemo: el que viene de arriba está sobre todos. Luego la clase se detiene en «recibir su testimonio» (#iojanan_3_32-34). **(μαρτυρία)**, *martyria*, significa «testimonio, declaración acreditada»; **(ἀληθής)**, *alethes*, «verdadero, fidedigno», aparece en la confesión de que Elohim es verdadero. Eric lo relaciona con **אמת**, *emet*, «verdad, firmeza, fidelidad». Esa relación es **aproximada**, no una identidad automática entre hebreo y griego: el contexto de 3:33 exige afirmar la veracidad de Elohim al recibir el testimonio, y el título hebreo *El Emet* que la clase comenta requiere cotejo externo para su uso exacto.
+
+## Léxico clave
+
+| Forma | Transliteración | Sentido normal | Fuerza contextual | Equivalencia |
+| --- | --- | --- | --- | --- |
+| **(ἄνωθεν)** | *anothen* | de arriba; también de nuevo | Nacimiento que no procede de la carne; 3:31 retoma «de arriba». | Exacta entre los dos usos griegos; Delitzsch es aproximación. |
+| **(πνεῦμα)** / **(רוח)** | *pneuma* / *ruaj* | viento, aliento, espíritu | 3:8 conserva la imagen del viento para el nacido del Rúaj. | Aproximada y pedagógica. |
+| **(בן האדם)** / **(ὁ υἱὸς τοῦ ἀνθρώπου)** | *ben ha-adam* / *ho huios tou anthropou* | hijo de Adán/humano; Hijo del hombre | El que debe ser levantado en 3:14. | Aproximación de traducción. |
+| **(שרף)** / **(נחש נחשת)** | *saraf* / *nejas nejoshet* | ardiente; serpiente de cobre | Distingue la orden de 21:8 y la obra de Moshéh en 21:9. | No son equivalentes entre sí. |
+| **(κρίσις)** | *krisis* | juicio, decisión | La Luz revela el juicio en 3:19. | «Causa penal» es aproximada. |
+| **(μαρτυρία)** / **(אמת)** | *martyria* / *emet* | testimonio; verdad/firmeza | Recibir el testimonio certifica que Elohim es verdadero. | Aproximada; no identidad léxica. |
+
+## Pendiente de verificar
+
+- [ ] Cotejar la afirmación de la clase sobre gematría entre **נחש** y **משיח** y delimitar su uso interpretativo.
+- [ ] Localizar y verificar la atribución rabínica sobre mirar la luz al contemplar la señal de Bamidbar 21.
+- [ ] Verificar con una fuente léxica y manuscrita la propuesta de la clase sobre la construcción griega de «afirmarse por Él» en #iojanan_3_15-18.
+- [ ] Verificar la formulación y procedencia precisa del título *El Emet* comentado en la parte 10.
 
 ## Conclusión
 
-El capítulo sostiene el nacimiento que viene de arriba, la vida ligada al Ben Ha’Adam levantado y el testimonio que se alegra en la primacía de Yehoshua. La lectura debe mantener estas líneas textuales sin sobrecargar sus términos con equivalencias no verificadas.
+La lectura ordenada del capítulo impide aislar un lema: Nicodemo oye la necesidad de nacer de arriba; el Ben Ha’Adam debe ser levantado para vida; la Luz juzga al revelar las obras; y el testigo se alegra porque el esposo ocupa el lugar central. Eric aporta observaciones léxicas y simbólicas que conviene conservar con sus calificaciones, mientras los textos locales sostienen el hilo principal del relato.
 
 ## Ver también
 
 - [[yojanan_1_testigo_cordero]]
 - [[yojanan_4_agua_viva_y_adoracion]]
+- [[yojanan_10_pastor_vida_obras]]
 
 ## Créditos
 
-Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
-
-- «El Evangelio según Yojanán / Juan (Parte 8) Ser paridos de arriba» — https://www.youtube.com/watch?v=3g9O4ADy6xw — (`youtube:3g9O4ADy6xw`).
-- «El Evangelio según Yojanán /Juan (Parte 9) Ben Ha'adam, Ben Ha'elohim» — https://www.youtube.com/watch?v=-I1zqJZ8hQM — (`youtube:-I1zqJZ8hQM`).
-- «El evangelio según Yojanán (Juan ) Parte 10: El Testimonio de 'El 'Emet, Dios de verdad» — https://www.youtube.com/watch?v=yBlrSzbNmfo — (`youtube:yBlrSzbNmfo`).
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El Evangelio según Yojanán / Juan (Parte 8) Ser paridos de arriba](https://www.youtube.com/watch?v=3g9O4ADy6xw) (`source_id`: `youtube:3g9O4ADy6xw`).
+- Video: [El Evangelio según Yojanán / Juan (Parte 9) Ben Ha'adam, Ben Ha'elohim](https://www.youtube.com/watch?v=-I1zqJZ8hQM) (`source_id`: `youtube:-I1zqJZ8hQM`).
+- Video: [El evangelio según Yojanán (Juan) Parte 10: El Testimonio de 'El 'Emet, Dios de verdad](https://www.youtube.com/watch?v=yBlrSzbNmfo) (`source_id`: `youtube:yBlrSzbNmfo`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
