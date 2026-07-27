@@ -1,10 +1,39 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 551,
-  "pending_videos": 407,
-  "transcript_notes": 263,
+  "covered_videos": 524,
+  "pending_videos": 434,
+  "transcript_notes": 238,
   "notes_missing_visible_credits": [],
-  "duplicate_source_ids": {},
+  "duplicate_source_ids": {
+    "nUq66eB6Iz0": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "ILFHBTEagyc": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "s65OJxbjMDY": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "pupDxpHjY8g": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "GfuWwbZ34pM": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "3X9vlwqU5Hg": [
+      "content/temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah.md",
+      "content/temas/pesaj_memoria_liberacion_y_mesa.md"
+    ],
+    "LcEX_H-pdAs": [
+      "content/temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah.md",
+      "content/temas/pesaj_memoria_liberacion_y_mesa.md"
+    ]
+  },
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
@@ -48,12 +77,12 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 10,
+      "covered": 12,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 9,
+      "covered": 1,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
@@ -63,12 +92,12 @@
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 10,
+      "covered": 1,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
       "total": 9,
-      "covered": 9,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Hebreas de antes": {
@@ -88,8 +117,8 @@
     },
     "La deidad de Mashiaj": {
       "total": 4,
-      "covered": 4,
-      "lane": "yojanan"
+      "covered": 0,
+      "lane": "colosenses"
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
