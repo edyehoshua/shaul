@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 237,
+  "total_notes_requiring_remediation": 236,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -279,16 +279,6 @@
         "Santidad como camino que se aprende",
         "Amor visible y responsabilidad cotidiana",
         "Consuelo fundado en la resurrección"
-      ],
-      "issues": ["under_300_substantive_words"]
-    },
-    {
-      "path": "content/besorah/yojanan_4_agua_viva_y_adoracion.md",
-      "substantive_words": 174,
-      "thematic_sections": [
-        "Agua viva y la mujer samaritana",
-        "Adorar en Rúaj y verdad",
-        "Una palabra que da confianza"
       ],
       "issues": ["under_300_substantive_words"]
     },
