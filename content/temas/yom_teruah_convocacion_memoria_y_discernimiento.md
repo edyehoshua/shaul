@@ -15,10 +15,16 @@ sources:
   - "https://www.youtube.com/watch?v=6uZpdCuu95M"
   - "https://www.youtube.com/watch?v=16p4v1cAewY"
   - "https://www.youtube.com/watch?v=SShsoobdC8c"
+  - "https://www.youtube.com/watch?v=yyvIYg6DmFw"
+  - "https://www.youtube.com/watch?v=VqPwZ_Gltn0"
+  - "https://www.youtube.com/watch?v=EgPkylO-TWY"
 
   - "private/transcripts/ericdejes/6uZpdCuu95M.md"
   - "private/transcripts/ericdejes/16p4v1cAewY.md"
   - "private/transcripts/ericdejes/SShsoobdC8c.md"
+  - "private/transcripts/ericdejes/yyvIYg6DmFw.md"
+  - "private/transcripts/ericdejes/VqPwZ_Gltn0.md"
+  - "private/transcripts/ericdejes/EgPkylO-TWY.md"
 
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
@@ -27,6 +33,9 @@ source_ids:
   - "youtube:6uZpdCuu95M"
   - "youtube:16p4v1cAewY"
   - "youtube:SShsoobdC8c"
+  - "youtube:yyvIYg6DmFw"
+  - "youtube:VqPwZ_Gltn0"
+  - "youtube:EgPkylO-TWY"
 
 translation: "[OE]"
 ---
@@ -37,7 +46,7 @@ Yom Teruah abre el séptimo mes como reposo y convocación santa. La Torah lo ll
 
 ## Alcance de la nota
 
-Los tres mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah y remite a Levítico 23 como texto de partida. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
+Los seis mensajes comentan el sonido del shofar, #leviticus_23 y la referencia a #leviticus_25_9. Las sesiones añadidas examinan el memorial de teruah, el calendario y nombres tradicionales de los sonidos; tales detalles se mantienen como material de clase hasta contrastarlos con fuentes primarias. El conversatorio de 2019 busca distinguir el mandato bíblico de desarrollos posteriores asociados con Ro'sh hashanah y remite a Levítico 23 como texto de partida. La transcripción automática se emplea para organizar los temas, no como cita literal verificable.
 
 ## Hoja de comparación
 
@@ -74,5 +83,8 @@ Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede 
 - [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).
 - [Yom Tru'ah and Zichron Tru'ah](https://www.youtube.com/watch?v=16p4v1cAewY) — transcripción de trabajo: `private/transcripts/ericdejes/16p4v1cAewY.md` (source_id: `youtube:16p4v1cAewY`).
 - [Yom tru'ah neighbor tru'ah saméaj](https://www.youtube.com/watch?v=SShsoobdC8c) — transcripción de trabajo: `private/transcripts/ericdejes/SShsoobdC8c.md` (source_id: `youtube:SShsoobdC8c`).
+- [Yom/Zijrón tru'áh 2017 - Calendario hebreo y el séder](https://www.youtube.com/watch?v=yyvIYg6DmFw) — transcripción de trabajo: `private/transcripts/ericdejes/yyvIYg6DmFw.md` (source_id: `youtube:yyvIYg6DmFw`).
+- [Yom tru'áh - the day of Tru'áh](https://www.youtube.com/watch?v=VqPwZ_Gltn0) — transcripción de trabajo: `private/transcripts/ericdejes/VqPwZ_Gltn0.md` (source_id: `youtube:VqPwZ_Gltn0`).
+- [yom tru'ah 5779 - 2018 El día de la visitación](https://www.youtube.com/watch?v=EgPkylO-TWY) — transcripción de trabajo: `private/transcripts/ericdejes/EgPkylO-TWY.md` (source_id: `youtube:EgPkylO-TWY`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
