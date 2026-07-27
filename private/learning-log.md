@@ -171,6 +171,7 @@
 - Load balance: yojanan 67, colosenses 54, tanaj 50, efesios 43 (all 40–70); haftarot 33→+1 unassigned `youtube:sfGXMp9LYCc` assigned exclusively (only eligible unassigned remaining; no lane >70 to rebalance from).
 - Remediation registry: 5 notes cleared (galatim 1–2, tehilim 13–14, vayikra 25); 214 remain.
 - 2026-07-27 — In the exclusively assigned Haftarot lane, classified a song (`youtube:6yvN36B5280`) and a wedding clip (`youtube:w8HoMQSjKyQ`) as non-expository. Added the Janucá study from `youtube:7uBEYFbUy2A`, tracing Iojanán 10:22–39 and Tehilim 30 with local TTH, Delitzsch, and OE text; the note qualifies wider historical, lexical, and doctrinal extensions and passes the transcript-note quality gate.
+- 2026-07-27 — Continued the Haftarot source order: classified `youtube:_QlsdBq_GTc` as a musical performance and recorded `youtube:qw74-9iWKGI` as pending after confirming no local transcript and encountering YouTube request blocking and yt-dlp bot verification. No canonical study was fabricated without attributable source material.
 
 ## 2026-07-28 — Integrator cron (feat/eric_youtube)
 
