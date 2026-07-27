@@ -29,6 +29,11 @@ sources:
   - "https://www.youtube.com/watch?v=pupDxpHjY8g"
   - "https://www.youtube.com/watch?v=GfuWwbZ34pM"
   - "https://www.youtube.com/watch?v=ZXfMBc8_H54"
+  - "https://www.youtube.com/watch?v=sfGXMp9LYCc"
+  - "https://www.youtube.com/watch?v=f0PQY7bXbJQ"
+  - "https://www.youtube.com/watch?v=OG2PPYieRhk"
+  - "https://www.youtube.com/watch?v=EHZDK_XPB1A"
+  - "https://www.youtube.com/watch?v=eJlTuHME674"
   - "private/transcripts/ericdejes/L7zgSLK3Ci4.md"
   - "private/transcripts/ericdejes/a0lFoVqeXB4.md"
   - "private/transcripts/ericdejes/6EMPCOINF4s.md"
@@ -38,6 +43,11 @@ sources:
   - "private/transcripts/ericdejes/pupDxpHjY8g.md"
   - "private/transcripts/ericdejes/GfuWwbZ34pM.md"
   - "private/transcripts/ericdejes/ZXfMBc8_H54.md"
+  - "private/transcripts/ericdejes/sfGXMp9LYCc.md"
+  - "private/transcripts/ericdejes/f0PQY7bXbJQ.md"
+  - "private/transcripts/ericdejes/OG2PPYieRhk.md"
+  - "private/transcripts/ericdejes/EHZDK_XPB1A.md"
+  - "private/transcripts/ericdejes/eJlTuHME674.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/exodus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
@@ -52,6 +62,11 @@ source_ids:
   - "youtube:pupDxpHjY8g"
   - "youtube:GfuWwbZ34pM"
   - "youtube:ZXfMBc8_H54"
+  - "youtube:sfGXMp9LYCc"
+  - "youtube:f0PQY7bXbJQ"
+  - "youtube:OG2PPYieRhk"
+  - "youtube:EHZDK_XPB1A"
+  - "youtube:eJlTuHME674"
 translation: "[OE, Delitzsch]"
 ---
 
@@ -61,9 +76,11 @@ Vaikra 23 presenta el ómer, el conteo de siete semanas y la ofrenda nueva como 
 
 ## Alcance de la nota
 
-Esta es la nota canónica de Vaikra 23 para los materiales locales sobre el ómer y Shavu’ot. Integra ocho enseñanzas del hermano Eric de Jesús Rodríguez Mendoza. Las transcripciones automáticas sirven para localizar los énfasis de cada sesión y no se usan como citas literales ni como autoridad por encima del texto bíblico.
+Esta es la nota canónica de Vaikra 23 para los materiales locales sobre el ómer y Shavu’ot. Integra catorce enseñanzas del hermano Eric de Jesús Rodríguez Mendoza. Las transcripciones automáticas sirven para localizar los énfasis de cada sesión y no se usan como citas literales ni como autoridad por encima del texto bíblico.
 
 Las sesiones discuten el inicio del conteo, el día de Shavu’ot, el pan con levadura, la relación con primicias, prácticas posteriores y vínculos mesiánicos. La nota distingue el mandato explícito de Vaikra de esas propuestas interpretativas; en particular, no presenta una reconstrucción calendárica o rabínica discutida como conclusión ya demostrada.
+
+Las cuatro sesiones tituladas «Parashat-Beha'alotcha - Chag Hashavu'ot» comienzan en Bamidbar 8 y enlazan luz, servicio levítico, la cuenta y Hechos 2. Este vínculo puede orientar una lectura temática, pero no convierte Bamidbar 8 en una explicación explícita de Shavu’ot ni permite atribuir a la Torah una cronología o equivalencia que el texto no formula. La sesión de 2020 insiste asimismo en que una práctica comunitaria contemporánea debe someterse al texto y no reemplazarlo.
 
 ## Hoja de comparación
 
@@ -138,4 +155,9 @@ Vaikra 23 ordena una respuesta concreta a la provisión de יהוה: presentar p
 - [Shavu'ot en Mashíaj: La entrega de la promesa y el inicio de la era Mesiánica](https://www.youtube.com/watch?v=pupDxpHjY8g) — transcripción de trabajo: `private/transcripts/ericdejes/pupDxpHjY8g.md` (source_id: `youtube:pupDxpHjY8g`).
 - [About the resurrection of Yehoshua Hamashiach, the counting of the Omer and the holiday of Shavu'ot](https://www.youtube.com/watch?v=GfuWwbZ34pM) — transcripción de trabajo: `private/transcripts/ericdejes/GfuWwbZ34pM.md` (source_id: `youtube:GfuWwbZ34pM`).
 - [SHabat Jol Hamo'ed lesukot (2017) Basta de profanar el cuerpo de Mashíaj!](https://www.youtube.com/watch?v=ZXfMBc8_H54) — transcripción de trabajo: `private/transcripts/ericdejes/ZXfMBc8_H54.md` (source_id: `youtube:ZXfMBc8_H54`).
+- [Jag Hashavu'ot 2020](https://www.youtube.com/watch?v=sfGXMp9LYCc) — transcripción de trabajo: `private/transcripts/ericdejes/sfGXMp9LYCc.md` (source_id: `youtube:sfGXMp9LYCc`).
+- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 1](https://www.youtube.com/watch?v=f0PQY7bXbJQ) — transcripción de trabajo: `private/transcripts/ericdejes/f0PQY7bXbJQ.md` (source_id: `youtube:f0PQY7bXbJQ`).
+- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 2](https://www.youtube.com/watch?v=OG2PPYieRhk) — transcripción de trabajo: `private/transcripts/ericdejes/OG2PPYieRhk.md` (source_id: `youtube:OG2PPYieRhk`).
+- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 3](https://www.youtube.com/watch?v=EHZDK_XPB1A) — transcripción de trabajo: `private/transcripts/ericdejes/EHZDK_XPB1A.md` (source_id: `youtube:EHZDK_XPB1A`).
+- [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 4](https://www.youtube.com/watch?v=eJlTuHME674) — transcripción de trabajo: `private/transcripts/ericdejes/eJlTuHME674.md` (source_id: `youtube:eJlTuHME674`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
