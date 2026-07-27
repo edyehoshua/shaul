@@ -29,6 +29,7 @@ sources:
   - "https://www.youtube.com/watch?v=SbhuHE8vdTw"
   - "https://www.youtube.com/watch?v=AkhCbOH1Uhg"
   - "https://www.youtube.com/watch?v=tA0E-CpFm8M"
+
   - "private/transcripts/ericdejes/6voDFwXe9Dw.md"
   - "private/transcripts/ericdejes/fObsI0RvZSE.md"
   - "private/transcripts/ericdejes/GQQrB5MSS4o.md"
@@ -65,7 +66,7 @@ Yom haKippurim es llamado un día de convocación santa en el que Israel debe hu
 
 ## Alcance de la nota
 
-Los diez videos reunidos incluyen introducciones, reflexiones contemporáneas, una haftará y preguntas sobre Yom haKippurim, la humillación y el sistema levítico. Las sesiones de 5780, 5781 y las tres añadidas vuelven a #leviticus_23_26-32 y #leviticus_16; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
+Los diez videos reunidos incluyen reflexiones contemporáneas, una haftará, un encuentro de preguntas y mensajes de preparación para Yom haKippurim. Las sesiones de 5780, 5781, 5785 y 5786 vuelven al ayuno, la humillación, la conciencia y el sistema levítico; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. El encuentro de Zaragoza figura en la lista de reproducción y contiene preguntas misceláneas; no se le atribuye una exposición completa del día. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
 
 ## Hoja de comparación
 
@@ -117,6 +118,7 @@ Yom haKippurim pone a la comunidad ante la santidad y la misericordia de יהו�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+
 - [Pre-Yom HaKippurim 2019 Discussion (Part 1)](https://www.youtube.com/watch?v=6voDFwXe9Dw) — transcripción de trabajo: `private/transcripts/ericdejes/6voDFwXe9Dw.md` (source_id: `youtube:6voDFwXe9Dw`).
 - [Shabbat - Zaragoza 5782](https://www.youtube.com/watch?v=fObsI0RvZSE) — transcripción de trabajo: `private/transcripts/ericdejes/fObsI0RvZSE.md` (source_id: `youtube:fObsI0RvZSE`).
 - [Yom hakipurim 5786 -2025](https://www.youtube.com/watch?v=GQQrB5MSS4o) — transcripción de trabajo: `private/transcripts/ericdejes/GQQrB5MSS4o.md` (source_id: `youtube:GQQrB5MSS4o`).
