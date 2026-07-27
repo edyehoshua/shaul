@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 522,
-  "pending_videos": 436,
-  "transcript_notes": 236,
+  "covered_videos": 327,
+  "pending_videos": 631,
+  "transcript_notes": 121,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -18,7 +18,7 @@
     },
     "613 Mitzvot": {
       "total": 63,
-      "covered": 63,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Apocalipsis": {
@@ -38,22 +38,22 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 51,
+      "covered": 43,
       "lane": "efesios"
     },
     "Gálatas": {
       "total": 13,
-      "covered": 10,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 12,
-      "lane": "efesios"
+      "covered": 0,
+      "lane": "yojanan"
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 1,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
@@ -78,8 +78,8 @@
     },
     "Hebreos": {
       "total": 17,
-      "covered": 17,
-      "lane": "efesios"
+      "covered": 0,
+      "lane": "colosenses"
     },
     "Juan": {
       "total": 71,
@@ -93,7 +93,7 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 2,
+      "covered": 0,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {
@@ -128,7 +128,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 99,
+      "covered": 15,
       "lane": "yojanan"
     },
     "Uncategorized": {
@@ -138,17 +138,17 @@
     },
     "Yesha’yahu - Isaías": {
       "total": 3,
-      "covered": 3,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Yom hakipurim": {
       "total": 5,
-      "covered": 5,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Yom tru’áh": {
       "total": 4,
-      "covered": 4,
+      "covered": 1,
       "lane": "colosenses"
     }
   },
