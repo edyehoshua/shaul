@@ -17,14 +17,21 @@ references:
   - "#qohelet_8_11"
   - "#qohelet_8_12"
   - "#qohelet_8_13"
+  - "#qohelet_8_14"
+  - "#qohelet_8_15"
+  - "#qohelet_8_16"
+  - "#qohelet_8_17"
   - "#mishlei_30_4"
 sources:
   - "https://www.youtube.com/watch?v=f0O9z9wXN3k"
   - "private/transcripts/ericdejes/f0O9z9wXN3k.md"
+  - "https://www.youtube.com/watch?v=-WxzbFztje0"
+  - "private/transcripts/ericdejes/-WxzbFztje0.md"
   - "docs/scriptures/oe/json/ecclesiastes/8.json"
   - "docs/scriptures/oe/json/proverbs/30.json"
 source_ids:
   - "youtube:f0O9z9wXN3k"
+  - "youtube:-WxzbFztje0"
 translation: "[OE]"
 ---
 
@@ -34,21 +41,23 @@ Qohélet 8:7-13 reconoce que el ser humano no conoce lo que vendrá ni gobierna 
 
 ## Alcance de la nota
 
-- Fuente: «Qohélet - Eclesiastés (parte 19) Cap 8», del hermano Eric de Jesús Rodríguez Mendoza.
-- La sesión continúa desde #qohelet_8_7 y se detiene después de #qohelet_8_13; el resto del capítulo requiere las clases siguientes para una nota canónica completa.
+- Fuentes: «Qohélet - Eclesiastés (parte 19) Cap 8» y «Qohélet - Eclesiastés (parte 20) Cap 8», del hermano Eric de Jesús Rodríguez Mendoza.
+- Las sesiones abarcan #qohelet_8_7-17: la primera llega a los versículos 7-13 y la segunda concluye el capítulo con los versículos 14-17.
 - El hebreo de la hoja procede del corpus OE local, sin nikud. La transcripción automática sirve como guía de atribución y estudio; no es una cita literal del video.
 - La enseñanza ofrece reconstrucciones textuales para #qohelet_8_10-11 y una cita talmúdica sin referencia completa. Se registran como propuestas pendientes de cotejo, no como texto establecido.
 
 ## Hoja de comparación
 
-| Referencia       | Texto local (OE, sin nikud)                                                                                                                                                  | Observación                                                                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| #qohelet_8_7     | **כי אינ/נו ידע מה ש/יהיה כי כ/אשר יהיה מי יגיד ל/ו**                                                                                                                        | La ignorancia humana acerca de lo que será abre esta unidad.                                                                             |
-| #qohelet_8_8     | **אין אדם שליט ב/רוח ל/כלוא את ה/רוח ו/אין שלטון ב/יום ה/מות ו/אין משלחת ב/מלחמה ו/לא ימלט רשע את בעלי/ו**                                                                   | El verso reúne límites: nadie encierra el viento, controla el día de la muerte, obtiene licencia en la guerra ni se libra por su maldad. |
-| #qohelet_8_9     | **את כל זה ראיתי ו/נתון את לב/י ל/כל מעשה אשר נעשה תחת ה/שמש עת אשר שלט ה/אדם ב/אדם ל/רע ל/ו**                                                                               | El observador ha visto el tiempo en que una persona domina a otra para daño.                                                             |
-| #qohelet_8_10-11 | **ו/ב/כן ראיתי רשעים קברים ו/באו ו/מ/מקום קדוש יהלכו ו/ישתכחו ב/עיר אשר כן עשו גם זה הבל**; **אשר אין נעשה פתגם מעשה ה/רעה מהרה על כן מלא לב בני ה/אדם ב/הם ל/עשות רע**      | Los versículos presentan una dificultad textual y describen la injusticia, el olvido y la inclinación a obrar mal.                       |
-| #qohelet_8_12-13 | **אשר חטא עשה רע מאת ו/מאריך ל/ו כי גם יודע אני אשר יהיה טוב ל/יראי ה/אלהים אשר ייראו מ/ל/פני/ו**; **ו/טוב לא יהיה ל/רשע ו/לא יאריך ימים כ/צל אשר אינ/נו ירא מ/ל/פני אלהים** | La certeza expresada no depende de que la retribución sea inmediatamente visible: habrá bien para quienes temen a Elohim.                |
-| #mishlei_30_4    | **מי עלה שמים ו/ירד מי אסף רוח ב/חפני/ו מי צרר מים ב/שמלה מי הקים כל אפסי ארץ מה שמ/ו ו/מה שם בנ/ו כי תדע**                                                                  | La clase lo aproxima a la imagen del viento para contrastar el poder humano con el de Elohim.                                            |
+| Referencia       | Texto local (OE, sin nikud)                                                                                                                                                                                                                                                           | Observación                                                                                                                              |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| #qohelet_8_7     | **כי אינ/נו ידע מה ש/יהיה כי כ/אשר יהיה מי יגיד ל/ו**                                                                                                                                                                                                                                 | La ignorancia humana acerca de lo que será abre esta unidad.                                                                             |
+| #qohelet_8_8     | **אין אדם שליט ב/רוח ל/כלוא את ה/רוח ו/אין שלטון ב/יום ה/מות ו/אין משלחת ב/מלחמה ו/לא ימלט רשע את בעלי/ו**                                                                                                                                                                            | El verso reúne límites: nadie encierra el viento, controla el día de la muerte, obtiene licencia en la guerra ni se libra por su maldad. |
+| #qohelet_8_9     | **את כל זה ראיתי ו/נתון את לב/י ל/כל מעשה אשר נעשה תחת ה/שמש עת אשר שלט ה/אדם ב/אדם ל/רע ל/ו**                                                                                                                                                                                        | El observador ha visto el tiempo en que una persona domina a otra para daño.                                                             |
+| #qohelet_8_10-11 | **ו/ב/כן ראיתי רשעים קברים ו/באו ו/מ/מקום קדוש יהלכו ו/ישתכחו ב/עיר אשר כן עשו גם זה הבל**; **אשר אין נעשה פתגם מעשה ה/רעה מהרה על כן מלא לב בני ה/אדם ב/הם ל/עשות רע**                                                                                                               | Los versículos presentan una dificultad textual y describen la injusticia, el olvido y la inclinación a obrar mal.                       |
+| #qohelet_8_12-13 | **אשר חטא עשה רע מאת ו/מאריך ל/ו כי גם יודע אני אשר יהיה טוב ל/יראי ה/אלהים אשר ייראו מ/ל/פני/ו**; **ו/טוב לא יהיה ל/רשע ו/לא יאריך ימים כ/צל אשר אינ/נו ירא מ/ל/פני אלהים**                                                                                                          | La certeza expresada no depende de que la retribución sea inmediatamente visible: habrá bien para quienes temen a Elohim.                |
+| #qohelet_8_14-15 | **יש הבל אשר נעשה על ה/ארץ אשר יש צדיקים אשר מגיע אל/הם כ/מעשה ה/רשעים ו/יש רשעים ש/מגיע אל/הם כ/מעשה ה/צדיקים אמרתי ש/גם זה הבל**; **ו/שבחתי אני את ה/שמחה אשר אין טוב ל/אדם תחת ה/שמש כי אם ל/אכול ו/ל/שתות ו/ל/שמוח ו/הוא ילו/נו ב/עמל/ו ימי חיי/ו אשר נתן ל/ו ה/אלהים תחת ה/שמש** | La desproporción visible persiste; Qohélet encomia una alegría que acompaña el trabajo recibido de Elohim.                               |
+| #qohelet_8_16-17 | **כ/אשר נתתי את לב/י ל/דעת חכמה ו/ל/ראות את ה/ענין אשר נעשה על ה/ארץ כי גם ב/יום ו/ב/לילה שנה ב/עיני/ו אינ/נו ראה**; **ו/ראיתי את כל מעשה ה/אלהים כי לא יוכל ה/אדם ל/מצוא את ה/מעשה אשר נעשה תחת ה/שמש ב/ש/ל אשר יעמל ה/אדם ל/בקש ו/לא ימצא ו/גם אם יאמר ה/חכם ל/דעת לא יוכל ל/מצא**  | La búsqueda sabia no domina la obra de Elohim ni agota su sentido.                                                                       |
+| #mishlei_30_4    | **מי עלה שמים ו/ירד מי אסף רוח ב/חפני/ו מי צרר מים ב/שמלה מי הקים כל אפסי ארץ מה שמ/ו ו/מה שם בנ/ו כי תדע**                                                                                                                                                                           | La clase lo aproxima a la imagen del viento para contrastar el poder humano con el de Elohim.                                            |
 
 ## Lo que el ser humano no controla
 
@@ -74,6 +83,14 @@ Tras mirar la prosperidad o impunidad aparente del pecador, #qohelet_8_12-13 sos
 
 El expositor cita una formulación talmúdica sobre la recompensa de los justos en el mundo venidero. La idea concuerda con su lectura de esperanza, pero la fuente exacta no fue identificada en la transcripción y por eso no se usa como prueba independiente. El hilo que sí expresa el capítulo permanece claro: el temor de Elohim ofrece una orientación que no depende de confundir el éxito temporal con el bien definitivo.
 
+## Alegría recibida y sabiduría que reconoce su límite
+
+La segunda sesión lee #qohelet_8_14-15 como una repetición y una precisión del problema anterior: hay justos a quienes llega lo propio de la obra de los malvados, y malvados a quienes llega lo propio de la obra de los justos (00:02:02–00:15:08). La clase describe esta experiencia como transitoria y la relaciona con la esperanza de resurrección. El texto sí llama **הבל** a esa desproporción; la forma concreta y el horizonte completo de su resolución deben permanecer ligados al desarrollo canónico, no a una explicación única de cada sufrimiento.
+
+En respuesta, Qohélet encomia la alegría, el comer, el beber y el gozo que acompañan el trabajo durante los días concedidos por Elohim. La clase advierte con razón contra reducirlo a «comamos y bebamos» sin contexto (00:15:24–00:19:55). El versículo presenta estos bienes como acompañamiento de la vida y del trabajo, no como evasión, consumo sin medida ni garantía de que toda circunstancia dolorosa sea sencilla.
+
+Los versículos #qohelet_8_16-17 cierran la unidad con una confesión de límite: aun quien entrega su corazón a conocer sabiduría no puede hallar exhaustivamente la obra que se hace bajo el sol. La sesión propone varias posibles referencias del pronombre en #qohelet_8_16 y corrige traducciones castellanas (00:20:13–00:25:00). Tales propuestas pueden orientar la investigación, pero la conclusión textual segura es que la labor humana, incluso la del sabio, no convierte la obra de Elohim en algo plenamente abarcable.
+
 ## Léxico clave
 
 | Forma             | Transliteración | Sentido en la nota                    | Tipo de relación                          | Cautela                                                                                                   |
@@ -89,6 +106,7 @@ El expositor cita una formulación talmúdica sobre la recompensa de los justos 
 - [ ] Localizar la cita talmúdica mencionada sobre la recompensa de los justos en el mundo venidero; la transcripción no proporciona tratado ni folio.
 - [ ] Examinar **רוח**, **שלטון** y **פתגם** con léxicos hebreos y arameos, y con la sintaxis de Qohélet 8, antes de adoptar las glosas de la clase como equivalencias definitivas.
 - [ ] Contrastar las aplicaciones de la enseñanza a suicidio, guerra, política y salud mental con fuentes responsables; no se siguen de forma directa de #qohelet_8_7-13.
+- [ ] Revisar la sintaxis de #qohelet_8_16, en especial el referente de «sus ojos», antes de preferir una de las posibilidades mencionadas en la clase.
 
 ## Conclusión
 
@@ -105,5 +123,7 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
 
 - «Qohélet - Eclesiastés (parte 19) Cap 8» — https://www.youtube.com/watch?v=f0O9z9wXN3k
   - Transcripción: `private/transcripts/ericdejes/f0O9z9wXN3k.md` (`source_id: youtube:f0O9z9wXN3k`).
+- «Qohélet - Eclesiastés (parte 20) Cap 8» — https://www.youtube.com/watch?v=-WxzbFztje0
+  - Transcripción: `private/transcripts/ericdejes/-WxzbFztje0.md` (`source_id: youtube:-WxzbFztje0`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
