@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 547,
-  "pending_videos": 411,
-  "transcript_notes": 260,
+  "covered_videos": 551,
+  "pending_videos": 407,
+  "transcript_notes": 263,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -88,7 +88,7 @@
     },
     "La deidad de Mashiaj": {
       "total": 4,
-      "covered": 0,
+      "covered": 4,
       "lane": "colosenses"
     },
     "Las 613 mitzvot 2a parte": {
