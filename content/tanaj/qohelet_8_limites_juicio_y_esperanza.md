@@ -21,10 +21,13 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=f0O9z9wXN3k"
   - "private/transcripts/ericdejes/f0O9z9wXN3k.md"
+  - "https://www.youtube.com/watch?v=-WxzbFztje0"
+  - "private/transcripts/ericdejes/-WxzbFztje0.md"
   - "docs/scriptures/oe/json/ecclesiastes/8.json"
   - "docs/scriptures/oe/json/proverbs/30.json"
 source_ids:
   - "youtube:f0O9z9wXN3k"
+  - "youtube:-WxzbFztje0"
 translation: "[OE]"
 ---
 
@@ -105,5 +108,7 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
 
 - «Qohélet - Eclesiastés (parte 19) Cap 8» — https://www.youtube.com/watch?v=f0O9z9wXN3k
   - Transcripción: `private/transcripts/ericdejes/f0O9z9wXN3k.md` (`source_id: youtube:f0O9z9wXN3k`).
+- «Qohélet - Eclesiastés (parte 20) Cap 8» — https://www.youtube.com/watch?v=-WxzbFztje0
+  - Transcripción: `private/transcripts/ericdejes/-WxzbFztje0.md` (`source_id: youtube:-WxzbFztje0`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
