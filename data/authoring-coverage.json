@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 366,
-  "pending_videos": 592,
-  "transcript_notes": 143,
+  "covered_videos": 523,
+  "pending_videos": 435,
+  "transcript_notes": 237,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {
     "K_zLycnKBZo": [
@@ -108,12 +108,12 @@
     },
     "Haftarot de Shmot/Éxodo": {
       "total": 10,
-      "covered": 10,
+      "covered": 0,
       "lane": "efesios"
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 10,
+      "covered": 1,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
