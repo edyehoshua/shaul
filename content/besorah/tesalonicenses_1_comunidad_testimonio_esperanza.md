@@ -73,7 +73,7 @@ La clase insiste en que la tribulación de la comunidad no debe diluirse en una 
 
 ## Del ejemplo local al testimonio que se oye
 
-El movimiento de #thessalonians1_1_7-8 es notable. Quienes imitaron a Pablo y al Señor ahora se vuelven **מופת** (_mofet_, ejemplo o modelo) para los creyentes de Macedonia y Acaya. Desde ellos se oye la palabra del Señor y su fe hacia Elohim llega a ser conocida en todo lugar.
+El movimiento de #thessalonians1*1_7-8 es notable. Quienes imitaron a Pablo y al Señor ahora se vuelven **מופת** (\_mofet*, ejemplo o modelo) para los creyentes de Macedonia y Acaya. Desde ellos se oye la palabra del Señor y su fe hacia Elohim llega a ser conocida en todo lugar.
 
 La comunidad no es presentada como una marca que busca extender su propia reputación. Su testimonio consiste en una fe dirigida a Elohim y en una palabra que se oye desde ella. El orden importa: primero recibieron; después fueron ejemplo. El testimonio durable no sustituye a la palabra recibida ni a la perseverancia que la acompaña.
 
