@@ -18,6 +18,10 @@ references:
 sources:
   - "docs/scriptures/tth/json/vaikra.json"
   - "docs/scriptures/oe/json/leviticus/16.json"
+  - "https://www.youtube.com/watch?v=1Dqriiq9bIU"
+  - "private/transcripts/ericdejes/1Dqriiq9bIU.md"
+source_ids:
+  - "youtube:1Dqriiq9bIU"
 translation: "[TTH, OE]"
 ---
 
@@ -39,11 +43,11 @@ Vaikra 16 presenta el yom hakipurim como día de humillación del nefesh, expiac
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
+| Referencia    | Hebreo (OE, sin nikud)                                                                             | TTH (ES)                                                                                                                                                                                           | Observación                                                                        |
+| ------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | #vaikra_16_29 | והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם | Y esto será para ustedes por decreto olam: en el mes séptimo, en el décimo día del mes, afligirán sus gargantas, y cualquier trabajo no harán, el nativo y el extranjero que habite entre ustedes. | תענו את נפשתיכם: humillación del nefesh; la nota la enlaza con anunciar #yom_yhvh. |
-| #vaikra_16_30 | כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו | Porque en este día él hará reconciliación por ustedes para purificarlos de todos sus pecados, delante de יהוה serán puros. | יכפר + לטהר: expiación y pureza delante de יהוה. |
-| #vaikra_16_32 | וכפר הכהן אשר ימשח אתו ואשר ימלא את ידו לכהן תחת אביו ולבש את בגדי הבד בגדי הקדש | Y hará reconciliación el sacerdote al cual Él ha ungido, y quien ha llenado su mano para ser sacerdote en lugar de su padre; y se pondrá las vestiduras de lino, vestiduras de santidad; | Investidura: משח, מלא ידו, בגדי הבד. |
+| #vaikra_16_30 | כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו                                       | Porque en este día él hará reconciliación por ustedes para purificarlos de todos sus pecados, delante de יהוה serán puros.                                                                         | יכפר + לטהר: expiación y pureza delante de יהוה.                                   |
+| #vaikra_16_32 | וכפר הכהן אשר ימשח אתו ואשר ימלא את ידו לכהן תחת אביו ולבש את בגדי הבד בגדי הקדש                   | Y hará reconciliación el sacerdote al cual Él ha ungido, y quien ha llenado su mano para ser sacerdote en lugar de su padre; y se pondrá las vestiduras de lino, vestiduras de santidad;           | Investidura: משח, מלא ידו, בגדי הבד.                                               |
 
 ## Observaciones
 
@@ -85,12 +89,12 @@ Vaikra 16 presenta el yom hakipurim como día de humillación del nefesh, expiac
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Mishná | m. Yoma (ritual de Kipurim) | Marco del yom hakipurim en tradición rabínica | Pendiente de verificar |
-| Tanaj (TTH/OE) | #vaikra_16_29-32 | Estatuto, expiación, sacerdote ungido | Cotejado |
-| Besorah | #ivrim_3_1, #ivrim_5_10 | Obra del Mesías y sacerdocio | Pendiente de verificar |
-| Besorah | #sodot_1_13 | Conexión apocalíptica citada en la nota | Pendiente de verificar |
+| Fuente         | Referencia                  | Uso en la nota                                | Estado                 |
+| -------------- | --------------------------- | --------------------------------------------- | ---------------------- |
+| Mishná         | m. Yoma (ritual de Kipurim) | Marco del yom hakipurim en tradición rabínica | Pendiente de verificar |
+| Tanaj (TTH/OE) | #vaikra_16_29-32            | Estatuto, expiación, sacerdote ungido         | Cotejado               |
+| Besorah        | #ivrim_3_1, #ivrim_5_10     | Obra del Mesías y sacerdocio                  | Pendiente de verificar |
+| Besorah        | #sodot_1_13                 | Conexión apocalíptica citada en la nota       | Pendiente de verificar |
 
 ## Pendiente de verificar
 
@@ -102,3 +106,9 @@ Vaikra 16 presenta el yom hakipurim como día de humillación del nefesh, expiac
 - [Sodot 1](../besorah/sodot_1.md) — día de יהוה y rapidez.
 - [Shemot 34](./shemot_34.md) — jatá, avón, pesha y pureza.
 - [Temas: Shabat](../temas/shabat.md) — reposo y santidad del tiempo.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) — transcripción de trabajo: `private/transcripts/ericdejes/1Dqriiq9bIU.md` (source_id: `youtube:1Dqriiq9bIU`).
+- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
