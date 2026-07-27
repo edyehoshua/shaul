@@ -4,7 +4,11 @@ description: "Nota canónica de Galatim 2: comunión, justificación y correcci�
 date: 2026-07-27
 tags: [galatim, gracia, justificacion, comunidad, yehoshua]
 references:
-  ["#galatians_2_1", "#galatians_2_11", "#galatians_2_16", "#galatians_2_20", "#galatians_2_21"]
+  - "#galatians_2_1"
+  - "#galatians_2_11"
+  - "#galatians_2_16"
+  - "#galatians_2_20"
+  - "#galatians_2_21"
 sources:
   - "https://www.youtube.com/watch?v=K_zLycnKBZo"
   - "https://www.youtube.com/watch?v=fP1kJg1oQAo"

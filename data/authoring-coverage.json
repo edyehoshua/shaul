@@ -1,10 +1,39 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 564,
-  "pending_videos": 394,
-  "transcript_notes": 272,
+  "covered_videos": 658,
+  "pending_videos": 300,
+  "transcript_notes": 276,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {
+    "K_zLycnKBZo": [
+      "content/besorah/galatim_1_evangelio_gracia_y_llamado.md",
+      "content/besorah/galatim_2_gracia_unidad_y_verdad_del_evangelio.md"
+    ],
+    "Wqc4npxxCPE": [
+      "content/besorah/galatim_2_gracia_unidad_y_verdad_del_evangelio.md",
+      "content/besorah/galatim_3.md"
+    ],
+    "9gyBskCmlPE": [
+      "content/besorah/galatim_3.md",
+      "content/besorah/galatim_4_libertad_filiacion_y_promesa.md"
+    ],
+    "nOvXUecISrQ": [
+      "content/besorah/hebreos_10_ofrenda_acceso_y_fidelidad.md",
+      "content/besorah/hebreos_11_emunah_testimonio_y_esperanza.md"
+    ],
+    "vbJeGh-kmb0": [
+      "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
+      "content/besorah/hebreos_5_sumo_sacerdote_madurez_y_discernimiento.md"
+    ],
+    "0RbDcydhCFE": [
+      "content/besorah/hebreos_5_sumo_sacerdote_madurez_y_discernimiento.md",
+      "content/besorah/hebreos_6_promesa_esperanza_y_perseverancia.md",
+      "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md"
+    ],
+    "RX3-_bvubqo": [
+      "content/besorah/hebreos_8_pacto_mejor_y_servicio_celestial.md",
+      "content/besorah/hebreos_9_santuario_conciencia_y_redencion.md"
+    ],
     "nUq66eB6Iz0": [
       "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
       "content/temas/shavuot_convocacion_primicias_y_promesa.md"
@@ -71,7 +100,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 43,
+      "covered": 51,
       "lane": "efesios"
     },
     "Gálatas": {
@@ -126,12 +155,12 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 4,
+      "covered": 93,
       "lane": "colosenses"
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 2,
+      "covered": 3,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
@@ -156,7 +185,7 @@
     },
     "Sobre el Shabat": {
       "total": 4,
-      "covered": 0,
+      "covered": 4,
       "lane": "yojanan"
     },
     "Tehilim/Himnos/Salmos": {
