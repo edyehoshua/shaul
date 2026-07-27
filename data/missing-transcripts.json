@@ -1,29 +1,13 @@
 {
   "schema_version": 1,
-  "purpose": "Inventory sources skipped because their local transcript is unavailable. Workers may advance only after recording such a source here; the integrator must revisit it when a transcript is added.",
+  "purpose": "Inventory sources skipped because their local transcript is unavailable. Revisit when a transcript becomes available.",
   "entries": [
     {
-      "video_id": "VsjYQKWSKMs",
-      "playlist_title": "Juan",
-      "title": "El Evangelio según Yojanán (Parte 23) Cap 8:30ss",
-      "url": "https://www.youtube.com/watch?v=VsjYQKWSKMs",
-      "reason": "Local transcript unavailable during Juan lane completion audit",
-      "status": "pending_transcript"
-    },
-    {
-      "video_id": "x9B0el73UYI",
-      "playlist_title": "Juan",
-      "title": "El Evangelio según Yojanán/Juan Cap 9",
-      "url": "https://www.youtube.com/watch?v=x9B0el73UYI",
-      "reason": "Local transcript unavailable during Juan lane completion audit",
-      "status": "pending_transcript"
-    },
-    {
-      "video_id": "FFUU2hgLZ0M",
-      "playlist_title": "Qohélet - Eclesiastés",
-      "title": "Qohélet-Eclesiastés (parte 26) Cap 10",
-      "url": "https://www.youtube.com/watch?v=FFUU2hgLZ0M",
-      "reason": "Local transcript unavailable during Qohélet lane completion audit",
+      "video_id": "1XCJHcOIERw",
+      "playlist_title": "Fiestas",
+      "title": "Shmin' Atzeret 5785 Fragrant color in Yehoshua' Hamashiyaj",
+      "url": "https://www.youtube.com/watch?v=1XCJHcOIERw",
+      "reason": "Transcript unavailable after full inventory refresh",
       "status": "pending_transcript"
     },
     {
@@ -31,7 +15,47 @@
       "playlist_title": "Fiestas",
       "title": "Jag hasukot 5786-2025",
       "url": "https://www.youtube.com/watch?v=DgWLnsUmDcM",
-      "reason": "Local transcript unavailable during colosenses lane completion audit",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "1owk-zoap1E",
+      "playlist_title": "Gálatas",
+      "title": "La carta a los gálatas parte 9: El Mediador y la Ley",
+      "url": "https://www.youtube.com/watch?v=1owk-zoap1E",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "4R5-ywKdnYw",
+      "playlist_title": "Gálatas",
+      "title": "La carta a los gálatas parte 2: Cap 1:1-9",
+      "url": "https://www.youtube.com/watch?v=4R5-ywKdnYw",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "9KQYTf0aRe0",
+      "playlist_title": "Gálatas",
+      "title": "La carta a los gálatas  Parte 7 - Cap 3:10-14: La \"maldición\" de la Ley",
+      "url": "https://www.youtube.com/watch?v=9KQYTf0aRe0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "xpihVrZGGI4",
+      "playlist_title": "Haftarot de Vayiqra’/Levítico",
+      "title": "Haftaráh de Mtzorá'  2 Reyes cap 7: El redargüir de Hashem",
+      "url": "https://www.youtube.com/watch?v=xpihVrZGGI4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "5DwytpFiKYc",
+      "playlist_title": "Hebreas de antes",
+      "title": "ציון גולן - שמע ישראל  Zion Golan - Shema Israel",
+      "url": "https://www.youtube.com/watch?v=5DwytpFiKYc",
+      "reason": "Transcript unavailable after full inventory refresh",
       "status": "pending_transcript"
     },
     {
@@ -39,15 +63,887 @@
       "playlist_title": "Hebreas de antes",
       "title": "Emil Zrihan and Yossi Fine Live at JSMF 2014",
       "url": "https://www.youtube.com/watch?v=fD1lFuadSTA",
-      "reason": "Local transcript unavailable during colosenses lane completion audit",
+      "reason": "Transcript unavailable after full inventory refresh",
       "status": "pending_transcript"
     },
     {
-      "video_id": "5DwytpFiKYc",
-      "playlist_title": "Hebreas de antes",
-      "title": "ציון גולן - שמע ישראל Zion Golan - Shema Israel",
-      "url": "https://www.youtube.com/watch?v=5DwytpFiKYc",
-      "reason": "Local transcript unavailable during colosenses lane completion audit",
+      "video_id": "VsjYQKWSKMs",
+      "playlist_title": "Juan",
+      "title": "El Evangelio según Yojanán (Parte 23) Cap 8:30ss",
+      "url": "https://www.youtube.com/watch?v=VsjYQKWSKMs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "x9B0el73UYI",
+      "playlist_title": "Juan",
+      "title": "El Evangelio según Yojanán/Juan Cap 9",
+      "url": "https://www.youtube.com/watch?v=x9B0el73UYI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "4iKdU2GWr9Y",
+      "playlist_title": "Las 613 mitzvot 2a parte",
+      "title": "The 613 Mitzvot #26-30 About arrogance, pride, and heresy",
+      "url": "https://www.youtube.com/watch?v=4iKdU2GWr9Y",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "xE79IvA2JdA",
+      "playlist_title": "Las 613 mitzvot 2a parte",
+      "title": "Las \"613\" Mitzvot #317-318 Sobre lo que sale de nuestras bocas",
+      "url": "https://www.youtube.com/watch?v=xE79IvA2JdA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "zbq2ONSng6g",
+      "playlist_title": "Las 613 mitzvot 2a parte",
+      "title": "The \"613\" Mitzvot #360-362 The Seed of Yisra'el",
+      "url": "https://www.youtube.com/watch?v=zbq2ONSng6g",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "F0y9JGvv4CE",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashát Mishpatim (2017). Varones de santidad",
+      "url": "https://www.youtube.com/watch?v=F0y9JGvv4CE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "GZ2LxhmNRRU",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Va'etjanan (2017) YHWH te tomó por pueblo para sí",
+      "url": "https://www.youtube.com/watch?v=GZ2LxhmNRRU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Qi_OffhOumg",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Bre'shit Parte 2 Gn 2:1-3:22 El Postrer 'Adam - 'Adam Qadmon",
+      "url": "https://www.youtube.com/watch?v=Qi_OffhOumg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "RGPTa4kWjbM",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Trumáh (2017) Las tablas de la piedra",
+      "url": "https://www.youtube.com/watch?v=RGPTa4kWjbM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "c2tSRBEl5wU",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Jayey Saráh (2016) - 'Almah, Na'arah y Betuláh",
+      "url": "https://www.youtube.com/watch?v=c2tSRBEl5wU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ytk79FxpTY4",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Vayera' (2016) Gn 18-22 Hashem ya sabe...",
+      "url": "https://www.youtube.com/watch?v=ytk79FxpTY4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "FFUU2hgLZ0M",
+      "playlist_title": "Qohélet - Eclesiastés",
+      "title": "Qohélet-Eclesiastés (parte 26) Cap 10",
+      "url": "https://www.youtube.com/watch?v=FFUU2hgLZ0M",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "6D7Yj0bDSfU",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 6A) ¿Qué es ser judío? ¿Qué es ser creyente?",
+      "url": "https://www.youtube.com/watch?v=6D7Yj0bDSfU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "TruISWrp4WA",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (Parte 17) Verdaderamente libres",
+      "url": "https://www.youtube.com/watch?v=TruISWrp4WA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "atIdZY13b_c",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 23) Cap 9:19-24: Dios es juez justo",
+      "url": "https://www.youtube.com/watch?v=atIdZY13b_c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ililQLS9UJE",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 25) La fidelidad es por la palabra de Dios",
+      "url": "https://www.youtube.com/watch?v=ililQLS9UJE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "u0NtR-y-T2Y",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 7) \"A los que están dentro de la ley\" Rom 3:17ss",
+      "url": "https://www.youtube.com/watch?v=u0NtR-y-T2Y",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "247PHlRgPLY",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Psalm Chapter 106 (part 2)",
+      "url": "https://www.youtube.com/watch?v=247PHlRgPLY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "287RshijP6o",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 132",
+      "url": "https://www.youtube.com/watch?v=287RshijP6o",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "2o5bkLc3GQY",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 149 (parte 2)",
+      "url": "https://www.youtube.com/watch?v=2o5bkLc3GQY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "3Sikk_iOLz0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim /Himnos/Salmo Cap 124",
+      "url": "https://www.youtube.com/watch?v=3Sikk_iOLz0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "3lKWKZyOYao",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymns/Psalm 119 (part 4)",
+      "url": "https://www.youtube.com/watch?v=3lKWKZyOYao",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "62Ws5J4GXAA",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehillim/Hymns/Psalms Chapter 150",
+      "url": "https://www.youtube.com/watch?v=62Ws5J4GXAA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "69Y8z8JQ5k0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmos 147",
+      "url": "https://www.youtube.com/watch?v=69Y8z8JQ5k0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "9GX5FLS1vPs",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Psalm Chapter 112 (part 1)",
+      "url": "https://www.youtube.com/watch?v=9GX5FLS1vPs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "9KTiuVdqaT4",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 128 (parte 2)",
+      "url": "https://www.youtube.com/watch?v=9KTiuVdqaT4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ASKtoaXU0Xg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 119 (parte 8)",
+      "url": "https://www.youtube.com/watch?v=ASKtoaXU0Xg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "BiZ8TXdYsww",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 139",
+      "url": "https://www.youtube.com/watch?v=BiZ8TXdYsww",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Cd4qLmlWvDM",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 136",
+      "url": "https://www.youtube.com/watch?v=Cd4qLmlWvDM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "DmaS_AXN2HM",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehillim/hymns/Psalms chapter 121",
+      "url": "https://www.youtube.com/watch?v=DmaS_AXN2HM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "E32ztB2NacQ",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Psalm Chapter 128 (part 1)",
+      "url": "https://www.youtube.com/watch?v=E32ztB2NacQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "FlhAcYD1xHY",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 119 (parte 1)",
+      "url": "https://www.youtube.com/watch?v=FlhAcYD1xHY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "IVmyQVfOKeQ",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 133",
+      "url": "https://www.youtube.com/watch?v=IVmyQVfOKeQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "IvPafHmblD0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 114",
+      "url": "https://www.youtube.com/watch?v=IvPafHmblD0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "JFt32TbSL68",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 142",
+      "url": "https://www.youtube.com/watch?v=JFt32TbSL68",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "JxLhysPXd_0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 144",
+      "url": "https://www.youtube.com/watch?v=JxLhysPXd_0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "KZsPjtLou_g",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 126",
+      "url": "https://www.youtube.com/watch?v=KZsPjtLou_g",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "MqMctfVMMBs",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 107",
+      "url": "https://www.youtube.com/watch?v=MqMctfVMMBs",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "NVUACau7VZc",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehillim/Psalms/Psalm Ch. 113",
+      "url": "https://www.youtube.com/watch?v=NVUACau7VZc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "NgYZoD0PbeM",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo chap 129",
+      "url": "https://www.youtube.com/watch?v=NgYZoD0PbeM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "OlpNpJjRYB8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Psalm Chapter 119 (part 12)",
+      "url": "https://www.youtube.com/watch?v=OlpNpJjRYB8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "PC4aR6RIsqI",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 119 (parte 3)",
+      "url": "https://www.youtube.com/watch?v=PC4aR6RIsqI",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "QxPPJgj0p4s",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 145 part 2",
+      "url": "https://www.youtube.com/watch?v=QxPPJgj0p4s",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Sdnjwi67bxY",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=Sdnjwi67bxY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "SwQHUaQwW0I",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 109",
+      "url": "https://www.youtube.com/watch?v=SwQHUaQwW0I",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "TOT2zoskIGw",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Cap 119 (part 10)",
+      "url": "https://www.youtube.com/watch?v=TOT2zoskIGw",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "TT0ah0CeMJ0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmos Cap 106 (parte 1)",
+      "url": "https://www.youtube.com/watch?v=TT0ah0CeMJ0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "W6UOw5MBQgk",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 112 (parte 2)",
+      "url": "https://www.youtube.com/watch?v=W6UOw5MBQgk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "WMaVm1xtao8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 143",
+      "url": "https://www.youtube.com/watch?v=WMaVm1xtao8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ZNpxvynYZXk",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehillim/Hymns/Psalm 119 (part 14)",
+      "url": "https://www.youtube.com/watch?v=ZNpxvynYZXk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "_-ExM5ay5Ic",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 123",
+      "url": "https://www.youtube.com/watch?v=_-ExM5ay5Ic",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "_l81sYVUsKo",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 140",
+      "url": "https://www.youtube.com/watch?v=_l81sYVUsKo",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "bFnPszXLQY0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 130",
+      "url": "https://www.youtube.com/watch?v=bFnPszXLQY0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "bzrcSNMhywY",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Cap 120",
+      "url": "https://www.youtube.com/watch?v=bzrcSNMhywY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "cKjkhUJOR4Y",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 131",
+      "url": "https://www.youtube.com/watch?v=cKjkhUJOR4Y",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "cWyHPZ34DE8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 105",
+      "url": "https://www.youtube.com/watch?v=cWyHPZ34DE8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "dKBaLiM1JdU",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 145 (parte 1)",
+      "url": "https://www.youtube.com/watch?v=dKBaLiM1JdU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "fvzC2oDcPig",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 119 (parte 5)",
+      "url": "https://www.youtube.com/watch?v=fvzC2oDcPig",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "gOO8dOyWHPg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 146",
+      "url": "https://www.youtube.com/watch?v=gOO8dOyWHPg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "gthAr2L7Mfw",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 138",
+      "url": "https://www.youtube.com/watch?v=gthAr2L7Mfw",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "hGRkNtObsMQ",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 137",
+      "url": "https://www.youtube.com/watch?v=hGRkNtObsMQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "hPwnpHmmPBg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 141",
+      "url": "https://www.youtube.com/watch?v=hPwnpHmmPBg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "hh75H_Ii_wA",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Psalm Chapter 119 (part 9)",
+      "url": "https://www.youtube.com/watch?v=hh75H_Ii_wA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ip-3871HtaQ",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo 59",
+      "url": "https://www.youtube.com/watch?v=ip-3871HtaQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "kZW4IL2Cn6Q",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 119 (parte 11)",
+      "url": "https://www.youtube.com/watch?v=kZW4IL2Cn6Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "kbTSYjFau3w",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 115",
+      "url": "https://www.youtube.com/watch?v=kbTSYjFau3w",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "kv6HOQs_fD0",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 119 (parte 13)",
+      "url": "https://www.youtube.com/watch?v=kv6HOQs_fD0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "ntYffcwEoHw",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 117-118",
+      "url": "https://www.youtube.com/watch?v=ntYffcwEoHw",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "pTwPoYy_eIc",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 111",
+      "url": "https://www.youtube.com/watch?v=pTwPoYy_eIc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "qH2J2KtpCAw",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 127",
+      "url": "https://www.youtube.com/watch?v=qH2J2KtpCAw",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "qWD5PWoymf8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo 110",
+      "url": "https://www.youtube.com/watch?v=qWD5PWoymf8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "qXMn78sfFGU",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 119 (parte 2)",
+      "url": "https://www.youtube.com/watch?v=qXMn78sfFGU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "rQhkkbIootg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 122",
+      "url": "https://www.youtube.com/watch?v=rQhkkbIootg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sDw938pc3OU",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Chap 125",
+      "url": "https://www.youtube.com/watch?v=sDw938pc3OU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sbkwm2LeW_s",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 104",
+      "url": "https://www.youtube.com/watch?v=sbkwm2LeW_s",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "scYLRRQz0Tg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmos Cap 149 (parte 1)",
+      "url": "https://www.youtube.com/watch?v=scYLRRQz0Tg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "t6IM15Pf9x8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 148",
+      "url": "https://www.youtube.com/watch?v=t6IM15Pf9x8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "tW_S5khE7FA",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo Cap 116",
+      "url": "https://www.youtube.com/watch?v=tW_S5khE7FA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "tl3mTl4WmO8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo chap 134",
+      "url": "https://www.youtube.com/watch?v=tl3mTl4WmO8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "vZUK885TC4Q",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 119 (parte 6)",
+      "url": "https://www.youtube.com/watch?v=vZUK885TC4Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "wcW2sbyejeg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 135",
+      "url": "https://www.youtube.com/watch?v=wcW2sbyejeg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "xeOQWtMOwvg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Cap 119 (part 16)",
+      "url": "https://www.youtube.com/watch?v=xeOQWtMOwvg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "xlqPZWeLrJw",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Hymnos/Salmo Cap 119 (part 15)",
+      "url": "https://www.youtube.com/watch?v=xlqPZWeLrJw",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "yBt-N44fmMA",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 119 (parte 7)",
+      "url": "https://www.youtube.com/watch?v=yBt-N44fmMA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "0-KPe89FY7I",
+      "playlist_title": "Uncategorized",
+      "title": "Oyfn Pripetchik - La estufa Español-yidish by Monserrat Franco",
+      "url": "https://www.youtube.com/watch?v=0-KPe89FY7I",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "1qwfOY-W8Fo",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco Parte 16  Cap 4 Las Parábolas",
+      "url": "https://www.youtube.com/watch?v=1qwfOY-W8Fo",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "3RRxUezpfXo",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco parte 40 Escatología las setenta semanas de Daniel",
+      "url": "https://www.youtube.com/watch?v=3RRxUezpfXo",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "4LEGO26UuNA",
+      "playlist_title": "Uncategorized",
+      "title": "אבון דבשמיא. (Avun Devishmaya' Padre nuestro (arameo",
+      "url": "https://www.youtube.com/watch?v=4LEGO26UuNA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "4i_5Hr0stwE",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 91 en Hebreo תהילים צ'''א בעברית",
+      "url": "https://www.youtube.com/watch?v=4i_5Hr0stwE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "86QJBg5Aw5E",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad",
+      "url": "https://www.youtube.com/watch?v=86QJBg5Aw5E",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Farvi5l0RRA",
+      "playlist_title": "Uncategorized",
+      "title": "Gospel According to Mark Part 1",
+      "url": "https://www.youtube.com/watch?v=Farvi5l0RRA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "Gw0vvb4MGI8",
+      "playlist_title": "Uncategorized",
+      "title": "Torah reading prayer",
+      "url": "https://www.youtube.com/watch?v=Gw0vvb4MGI8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "HXpeQAgaCoA",
+      "playlist_title": "Uncategorized",
+      "title": "Recibimiento y despedida de Shabat",
+      "url": "https://www.youtube.com/watch?v=HXpeQAgaCoA",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "MlM2bk7h0hc",
+      "playlist_title": "Uncategorized",
+      "title": "salmo 23 en hebreo con traducción.wmv",
+      "url": "https://www.youtube.com/watch?v=MlM2bk7h0hc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "O2jFt6kAl30",
+      "playlist_title": "Uncategorized",
+      "title": "Piyut Akdamut Leshavuot.  פיוט אקדמות לשבועות Akdamut",
+      "url": "https://www.youtube.com/watch?v=O2jFt6kAl30",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "S6cc-nUH6Mg",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 92 en Hebreo/español תהילים צ''ב בעברית -לספרדית",
+      "url": "https://www.youtube.com/watch?v=S6cc-nUH6Mg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "U6SQe5EOnF4",
+      "playlist_title": "Uncategorized",
+      "title": "המשיח אשר ישראל חייב לקוות",
+      "url": "https://www.youtube.com/watch?v=U6SQe5EOnF4",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "WCO-PKJ0IDc",
+      "playlist_title": "Uncategorized",
+      "title": "El Dios verdadero el emet אל אמת",
+      "url": "https://www.youtube.com/watch?v=WCO-PKJ0IDc",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "b4StIF_mR0A",
+      "playlist_title": "Uncategorized",
+      "title": "Conversatorio sobre identidad \"una segunda parte\"",
+      "url": "https://www.youtube.com/watch?v=b4StIF_mR0A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "cLaRVGxIAy8",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco - Parte 13: La divinidad de Mashíaj",
+      "url": "https://www.youtube.com/watch?v=cLaRVGxIAy8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "hMKGpQItwvY",
+      "playlist_title": "Uncategorized",
+      "title": "Va'ani bechasdecho va'ani bejasdejó ואני בחסדך - en español",
+      "url": "https://www.youtube.com/watch?v=hMKGpQItwvY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "iw2v71qC7lk",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Vayerá' - Parasháh \"Y fue visible\" Gn 18:1-22:24",
+      "url": "https://www.youtube.com/watch?v=iw2v71qC7lk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "jamQ95BSuN0",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio Segun Marco Parte 18 cap 5   El Endemoniado de Gdarah",
+      "url": "https://www.youtube.com/watch?v=jamQ95BSuN0",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "nddC-xoPguU",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marcos parte 45 Cap 16 - FIN - El Domingo no es el día del Señor",
+      "url": "https://www.youtube.com/watch?v=nddC-xoPguU",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "pmg5YfsYOkQ",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco parte 35 La Higuera y la casa de Oración",
+      "url": "https://www.youtube.com/watch?v=pmg5YfsYOkQ",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "q2Uoc19Zkms",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco parte 29 cap 9:14 ss La 'emunáh - fidelidad y el poder de  Dios",
+      "url": "https://www.youtube.com/watch?v=q2Uoc19Zkms",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "vB6aDB59o48",
+      "playlist_title": "Uncategorized",
+      "title": "Maravilloso Salvador  מושיענו הנפלא.wmv (Hebreo-Español)",
+      "url": "https://www.youtube.com/watch?v=vB6aDB59o48",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "wS79RPN81a8",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marcos parte 42: Cap 13:14-32: Las señales a la venida de Mashíaj",
+      "url": "https://www.youtube.com/watch?v=wS79RPN81a8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "x5NiMis3izg",
+      "playlist_title": "Uncategorized",
+      "title": "Isaías 12 cantado con guitarra",
+      "url": "https://www.youtube.com/watch?v=x5NiMis3izg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "yoYZGJOMi38",
+      "playlist_title": "Uncategorized",
+      "title": "Yequm Purqan.  יְקוּם פֻּרְקָן en español",
+      "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
+      "reason": "Transcript unavailable after full inventory refresh",
       "status": "pending_transcript"
     }
   ]
