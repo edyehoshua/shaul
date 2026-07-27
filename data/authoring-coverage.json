@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 327,
-  "pending_videos": 631,
-  "transcript_notes": 121,
+  "covered_videos": 328,
+  "pending_videos": 630,
+  "transcript_notes": 122,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -79,7 +79,7 @@
     "Hebreos": {
       "total": 17,
       "covered": 0,
-      "lane": "colosenses"
+      "lane": "efesios"
     },
     "Juan": {
       "total": 71,
@@ -128,7 +128,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 15,
+      "covered": 16,
       "lane": "yojanan"
     },
     "Uncategorized": {
