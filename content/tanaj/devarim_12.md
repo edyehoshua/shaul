@@ -15,6 +15,7 @@ references:
   - "#devarim_12_19"
 sources:
   - "https://www.youtube.com/watch?v=IJv0HaPaOdk"
+  - "private/transcripts/ericdejes/IJv0HaPaOdk.md"
   - "docs/scriptures/oe/json/deuteronomy/12.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
@@ -40,7 +41,7 @@ Esta nota organiza la exposición sobre las mitzvot 144-146 y contrasta su eje c
 
 ## Lo consagrado no se vuelve ordinario por conveniencia
 
-La exposición toma #devarim*12_17 como punto de partida para observar que el texto distingue entre lo que puede comerse de modo común y aquello que está ligado al culto. El término **(קדש)**, \_qodesh*, suele comunicar lo apartado para יהוה; aquí funciona como una aproximación pedagógica para hablar del trato debido a las primogenituras, votos y donaciones mencionados en el pasaje. No es una definición exhaustiva de cada categoría de la lista.
+La exposición toma #devarim_12_17 como punto de partida para observar que el texto distingue entre lo que puede comerse de modo común y aquello que está ligado al culto. El término **(קדש)**, _qodesh_, suele comunicar lo apartado para יהוה; aquí funciona como una aproximación pedagógica para hablar del trato debido a las primogenituras, votos y donaciones mencionados en el pasaje. No es una definición exhaustiva de cada categoría de la lista.
 
 La frase «no secularizar lo que es sagrado» resume el énfasis de la clase: no desdibujar, por comodidad, los límites que el texto establece. Sin embargo, Devarim no presenta este límite como desprecio de la materia ni como aislamiento individual. El versículo siguiente dirige la comida al lugar elegido por יהוה y la une al gozo delante de él.
 
@@ -77,5 +78,5 @@ El contraste de #devarim_12_17-19 es concreto: ciertos bienes apartados no se ab
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Estudiando las "613" Mitzvot #144-146 No secularizar lo que es sagrado](https://www.youtube.com/watch?v=IJv0HaPaOdk) — source_id: `youtube:IJv0HaPaOdk`.
+- Video: [Estudiando las "613" Mitzvot #144-146 No secularizar lo que es sagrado](https://www.youtube.com/watch?v=IJv0HaPaOdk) — transcripción: `private/transcripts/ericdejes/IJv0HaPaOdk.md` — source_id: `youtube:IJv0HaPaOdk`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
