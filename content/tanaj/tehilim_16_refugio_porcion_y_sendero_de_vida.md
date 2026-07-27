@@ -34,16 +34,32 @@ Esta nota organiza una clase sobre Tehilim 16. La transcripción registra que el
 | Referencia     | Texto local (hebreo sin nikud)                          | Observación                                                                         |
 | -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | #tehilim_16_1  | מכתם לדוד שמרני אל כי חסיתי בך                       | La súplica abre con refugio en Elohim; `מכתם` forma parte del verso en este corpus. |
-| #tehilim_16_5  | יהוה מנת חלקי וכוסי אתה תומיך גורלי                 | יהוה, no un bien autónomo, es la porción y quien sostiene la suerte del orante.     |
-| #tehilim_16_8  | שויתי יהוה לנגדי תמיד כי מימיני בל אמוט             | Tener a יהוה delante fundamenta la estabilidad expresada por el poema.              |
+| #tehilim_16_2-4 | אמרת ליהוה אדני אתה טובתי בל עליך · לקדושים אשר בארץ המה ואדירי כל חפצי בם · ירבו עצבותם אחר מהרו | La pertenencia a יהוה ordena el afecto por los santos y contrasta con correr tras otro. |
+| #tehilim_16_5-7 | יהוה מנת חלקי וכוסי אתה תומיך גורלי · חבלים נפלו לי בנעמים · אברך את יהוה אשר יעצני | Porción, heredad y consejo se reciben de יהוה. |
+| #tehilim_16_8-9 | שויתי יהוה לנגדי תמיד כי מימיני בל אמוט · לכן שמח לבי ויגל כבודי אף בשרי ישכן לבטח | Tener a יהוה delante conduce a estabilidad, alegría y seguridad. |
 | #tehilim_16_10 | כי לא תעזב נפשי לשאול לא תתן חסידך לראות שחת        | El salmista confiesa que no será abandonado al Seol.                                |
 | #tehilim_16_11 | תודיעני ארח חיים שבע שמחות את פניך נעמות בימינך נצח | El cierre nombra un sendero de vida, plenitud de alegrías y delicias duraderas.     |
 
-## Refugio y porción
+## Hoja léxica
 
-La primera petición —«guárdame… porque me he refugiado en ti»— da la dirección de todo el salmo. La clase destaca que el lenguaje de refugio no es una evasión pasiva: es la confesión de dependencia del que ora a Elohim.
+| Forma | Transliteración | Sentido normal | Fuerza en el salmo | Equivalencia |
+| --- | --- | --- | --- | --- |
+| **(מכתם)** | mikhtam | título o designación poética de sentido discutido | Encabeza el poema; la clase se detiene precisamente en que no tiene una explicación segura. No debe convertirse en una doctrina a partir de una etimología propuesta. | No establecida; cualquier glosa española es aproximada. |
+| **(חסיתי)** | jasiti | «me he refugiado» | En v. 1 expresa la acción ya asumida por el orante que pide guarda; sostiene la lectura de dependencia que subraya la clase. | Aproximación funcional a «buscar refugio», no equivalencia doctrinal exhaustiva. |
+| **(מנת חלקי)** | menat jelqi | «la porción de mi parte» | En v. 5 nombra a יהוה como la porción asignada al orante; junto con «mi copa» y «tú sostienes mi suerte» evita tratar la heredad como un objeto autónomo. | Aproximada: «porción» conserva la imagen, pero no agota sus asociaciones de reparto y herencia. |
+| **(שחת)** | shajat | fosa, corrupción o destrucción, según contexto | En v. 10 está en paralelo con Seol y delimita el peligro del que יהוה no abandona al fiel. | Aproximada; no se debe decidir solo por esta palabra una teoría completa del más allá. |
 
-En #tehilim_16_5 el poeta llama a יהוה «mi porción» y «mi copa». El expositor se detiene en esta imagen para pensar una porción completa y recibida. El verso mismo mantiene la prioridad: יהוה sostiene el destino del orante; no se presenta la heredad como posesión independiente de él.
+## Refugio y pertenencia: vv. 1-4
+
+La primera petición —«guárdame… porque me he refugiado en ti»— da la dirección de todo el salmo. La clase destaca que el lenguaje de refugio no es una evasión pasiva: es la confesión de dependencia del que ora a Elohim. Su atención inicial al título **(מכתם)** es importante por el método: Eric reconoce la incertidumbre de su explicación y no usa esa incertidumbre para desplazar la súplica clara de v. 1.
+
+Los vv. 2-4 continúan antes de la imagen de la heredad. El orante confiesa a יהוה como su bien, se alegra con los santos en la tierra y rehúsa participar en las libaciones o los nombres de quienes corren tras otro. Así, el refugio tiene una dirección comunitaria y cultual: no es solamente alivio interior. El contraste se debe leer dentro de la voz del salmo; no autoriza a añadir nombres o prácticas que el verso no nombra.
+
+## Porción, consejo y estabilidad: vv. 5-9
+
+En #tehilim_16_5 el poeta llama a יהוה «mi porción» y «mi copa». El expositor se detiene en esta imagen para pensar una porción completa y recibida. Los vv. 5-7 prolongan esa observación: la heredad es agradable y el consejo procede de יהוה, incluso durante la noche. El texto mantiene la prioridad: יהוה sostiene el destino del orante; no se presenta la heredad como posesión independiente de él.
+
+El v. 8 enlaza ese consejo con una práctica de atención: «he puesto a יהוה delante de mí continuamente». De allí siguen, en orden, la firmeza de v. 8 y la alegría, seguridad corporal y confianza de v. 9. Esta progresión impide usar «mi porción» como una consigna aislada; en el poema va unida a consejo, presencia y perseverancia.
 
 ## Vida ante el rostro de יהוה
 
