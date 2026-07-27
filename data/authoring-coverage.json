@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 655,
-  "pending_videos": 303,
+  "covered_videos": 657,
+  "pending_videos": 301,
   "transcript_notes": 273,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -48,7 +48,7 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 10,
+      "covered": 12,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
