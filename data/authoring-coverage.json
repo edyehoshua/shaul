@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 356,
-  "pending_videos": 602,
-  "transcript_notes": 140,
+  "covered_videos": 364,
+  "pending_videos": 594,
+  "transcript_notes": 141,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -18,7 +18,7 @@
     },
     "613 Mitzvot": {
       "total": 63,
-      "covered": 0,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Apocalipsis": {
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 42,
+      "covered": 49,
       "lane": "efesios"
     },
     "Gálatas": {
