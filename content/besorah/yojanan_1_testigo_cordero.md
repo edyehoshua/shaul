@@ -1,6 +1,6 @@
 ---
-title: "Yojanán 1: el testigo que presenta al Cordero"
-description: "Nota de la parte 5 del estudio de Yojanán sobre la interrogación a Iojanán, su función de testigo y la presentación de Yeshúa como el Cordero de Elohim"
+title: "Yojanán 1: el testigo, el Cordero y los primeros discípulos"
+description: "Lectura canónica de Yojanán 1:19-51: el testimonio de Iojanán, el Cordero de Elohim, el llamado de los primeros discípulos y la alusión a la escalera de Yaakov."
 date: 2026-07-26
 tags:
   - yojanan
@@ -8,133 +8,139 @@ tags:
   - testimonio
   - iojanan_hamatbil
   - cordero_de_elohim
-  - yehudim
-  - inmersion
+  - discipulos
+  - ben_haadam
+  - sulam
 references:
   - "#iojanan_1_19-27"
   - "#iojanan_1_29"
   - "#iojanan_1_32-34"
+  - "#iojanan_1_35-42"
+  - "#iojanan_1_43-51"
   - "#ieshaiahu_40_3"
   - "#malaji_3_1"
   - "#malaji_4_5"
   - "#devarim_18_15"
+  - "#bereshit_28_12"
 sources:
+  - "https://www.youtube.com/watch?v=FrxD1V5awcM"
+  - "https://www.youtube.com/watch?v=1MoxwBR4bg4"
   - "https://www.youtube.com/watch?v=2C6YJnz5fKs"
+  - "https://www.youtube.com/watch?v=ppIWbKD97T0"
+  - "private/transcripts/ericdejes/FrxD1V5awcM.md"
+  - "private/transcripts/ericdejes/1MoxwBR4bg4.md"
+  - "private/transcripts/ericdejes/2C6YJnz5fKs.md"
+  - "private/transcripts/ericdejes/ppIWbKD97T0.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/isaiah/40.json"
   - "docs/scriptures/oe/json/deuteronomy/18.json"
+  - "docs/scriptures/oe/json/genesis/28.json"
 source_ids:
+  - "youtube:FrxD1V5awcM"
+  - "youtube:1MoxwBR4bg4"
   - "youtube:2C6YJnz5fKs"
+  - "youtube:ppIWbKD97T0"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
 
-Yojanán 1 presenta a Iojanán como **testigo**, no como quien confiere identidad o autoridad al Mesías. Ante la delegación llegada de Ierushaláim, niega ser el Mesías, Eliyáhu o “el profeta”; se define como voz que prepara el camino de יהוה. Cuando ve a Yeshúa, no lo instala mediante un rito: da testimonio y lo presenta como el Cordero de Elohim que carga el pecado del _olam_.
+Yojanán 1 presenta a Iojanán como **testigo**, no como quien confiere identidad o autoridad a Yehoshua. Su testimonio culmina al señalar al Cordero de Elohim; a partir de allí, el relato muestra a los primeros discípulos siguiendo, buscando y confesando. El cierre abre una conexión deliberada con el sueño de Yaakov: los cielos abiertos y los mensajeros de Elohim sobre el Ben Ha’Adam.
 
 ## Alcance de la nota
 
-- Fuente principal: transcripción automática de **“El Evangelio según Yojanán / Juan (parte 5): Yehoshúa' el Qorban”**, clase de Eric de Jesús Rodríguez Mendoza.
-- El video abarca #iojanan_1_19-34 y retoma discusiones previas sobre el prólogo. Esta nota conserva el hilo textual seguro: preguntas, negaciones de Iojanán, su testimonio y su presentación de Yeshúa.
-- Las afirmaciones de la clase sobre expectativas farisaicas, transmisión de autoridad, inmersión de prosélitos, Juan Crisóstomo y literatura rabínica se mantienen como exposición oral hasta cotejar fuentes primarias o estudios especializados.
-- Los textos de Yojanán se cotejaron con TTH y Delitzsch locales; #devarim_18_15 se cotejó también con OE.
+Esta es la nota canónica del capítulo y reúne la introducción y las partes 2, 5 y 6 de Eric de Jesús. La introducción y la parte 2 ofrecen contexto y trabajan el prólogo; la parte 5 se concentra principalmente en #iojanan_1_19-34 y la parte 6 retoma el tramo final, en especial #iojanan_1_44-51. La sección narrativa #iojanan_1_35-43 enlaza ambos movimientos y se incluye para no romper el hilo del capítulo.
 
-## Ruta de la clase
-
-| Momento aproximado | Tema             | Función en la exposición                                                                                                 |
-| ------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 00:02-00:14        | #iojanan_1_19-23 | La pregunta “¿quién eres?” y las negaciones de Iojanán se leen frente a expectativas sobre Mesías, Eliyáhu y el profeta. |
-| 00:27-00:33        | #iojanan_1_25-26 | La pregunta sobre la inmersión abre una distinción entre inmersión, purificación y autoridad.                            |
-| 00:49-00:58        | #iojanan_1_27    | El que viene después es “antes”; Iojanán habla desde humildad y testimonio.                                              |
-| 00:58-01:08        | #iojanan_1_29    | El Cordero de Elohim es presentado, no designado por Iojanán.                                                            |
-| 01:12-01:17        | #iojanan_1_32-34 | El descenso y permanencia del Rúaj culminan el testimonio sobre Yeshúa.                                                  |
+La nota organiza y contrasta transcripciones automáticas; **no las trata como citas literales**. Las propuestas históricas, textuales o léxicas de las clases se distinguen de lo que el pasaje afirma explícitamente y se mantienen con sus cautelas.
 
 ## Hoja de comparación
 
-| Referencia                               | Texto local                                                                                                                                           | Función en la nota                                                                                                                  |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #iojanan_1_19-20                         | TTH: “¿Quién eres tú?”; Iojanán confiesa: “yo no soy el Mesías”. Delitzsch: **מי הוא** / **אנכי אינני המשיח**.                                        | El testimonio empieza delimitando quién no es Iojanán.                                                                              |
-| #iojanan_1_21-23                         | TTH pregunta por Eliyáhu y “el profeta”; Iojanán responde: “Yo soy la voz del que clama en el desierto: ‘¡Limpien el camino de יהוה!’”.               | Las alternativas de la delegación terminan en una autodefinición tomada de Ieshaiahu.                                               |
-| #ieshaiahu_40_3                          | OE: **קול קורא במדבר פנו דרך יהוה ישרו בערבה מסלה לאלהינו**.                                                                                          | La voz no se anuncia como fin del relato: prepara un camino para יהוה.                                                              |
-| #iojanan_1_25-27                         | TTH: Iojanán sumerge en aguas, pero “en medio de ustedes se ha levantado Uno a quien no conocen”; no es apto para desatar el cordón de sus sandalias. | La inmersión y la humildad del testigo señalan hacia otro.                                                                          |
-| #iojanan_1_29                            | TTH: “He aquí, el Cordero de Elohim, que soporta el pecado del olam”. Delitzsch: **הנה שה האלהים הנשׂא את חטאת העולם**.                               | La frase pública de Iojanán nombra a Yeshúa por su función sacrificial y por su relación con el pecado del olam.                    |
-| #iojanan_1_32-34                         | TTH: Iojanán ve al Rúaj descender y posarse sobre Yeshúa, y testifica: “Este es el Hijo de Elohim”.                                                   | El testigo no se apoya en su rango, sino en la señal que recibió y en lo que vio.                                                   |
-| #malaji_3_1; #malaji_4_5; #devarim_18_15 | TTH habla del mensajero que prepara el camino, de Eliyah antes del día de יהוה y del profeta como Moshéh.                                             | Son pasajes pertinentes para las preguntas del relato, pero no deben fundirse sin más como si fueran una sola expectativa uniforme. |
+| Referencia       | Texto local                                                                                                                                                       | Función en la nota                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| #iojanan_1_19-20 | TTH: «¿Quién eres tú?»; Iojanán confiesa: «yo no soy el Mesías». Delitzsch: **מי הוא / אנכי אינני המשיח**.                                                        | El testimonio comienza delimitando quién no es Iojanán.                                        |
+| #iojanan_1_21-23 | TTH pregunta por Eliyáhu y «el profeta»; Iojanán responde: «Yo soy la voz del que clama en el desierto: “¡Limpien el camino de יהוה!”».                           | El testigo se define por una función preparatoria.                                             |
+| #iojanan_1_29    | TTH: «He aquí, el Cordero de Elohim, que soporta el pecado del olam». Delitzsch: **הנה שה האלהים הנשׂא את חטאת העולם**.                                           | Iojanán señala públicamente a Yehoshua; no le transmite un rango propio.                       |
+| #iojanan_1_35-39 | TTH: «He aquí, Este es el Cordero de Elohim»; los dos discípulos siguen a Yehoshua, quien pregunta: «¿Qué buscan?» y les responde: «Vengan y vean».               | El testimonio de Iojanán conduce a un seguimiento y una permanencia concretos.                 |
+| #iojanan_1_40-42 | Andreas anuncia: «¡Hemos hallado al Mesías!» y lleva a Shimón ante Yehoshua, quien le dice que será llamado Kefa.                                                 | La confesión y el llamado se transmiten de discípulo a discípulo.                              |
+| #iojanan_1_43-49 | Filipos invita a Netanel: «Ven y ve»; Netanel confiesa: «Tú eres el Hijo de Elohim; Tú eres el Rey de Israel».                                                    | La invitación no elimina la pregunta; conduce a una confesión en el relato.                    |
+| #iojanan_1_50-51 | TTH: «Amén, amén, les digo: “Desde ahora verán los cielos abiertos, y los ángeles de Elohim subiendo y bajando sobre el Ben Ha’Adam”». Delitzsch: **על בן האדם**. | El capítulo termina con una imagen que remite a Yaakov.                                        |
+| #bereshit_28_12  | OE: **ו/יחלם ו/הנה סלם מצב ארצ/ה ו/ראש/ו מגיע ה/שמימ/ה ו/הנה מלאכי אלהים עלים ו/ירדים ב/ו**.                                                                      | La escalera y los mensajeros que suben y bajan ofrecen el antecedente verbal de #iojanan_1_51. |
 
-## La pregunta no crea la identidad del testigo
+## El testigo prepara el camino de יהוה
 
-La delegación pregunta a Iojanán quién es, porque necesita una respuesta que pueda llevar a quienes la enviaron. La escena no ofrece una definición abstracta de “identidad”; despliega una serie de expectativas concretas: Mesías, Eliyáhu y el profeta. Iojanán no ocupa ninguna de esas posiciones. Su primera respuesta es negativa: “no soy el Mesías”.
+Ante la delegación de Ierushaláim, Iojanán niega ser el Mesías, Eliyáhu o «el profeta». En #iojanan_1_23 se identifica con la voz de #ieshaiahu_40_3; la metáfora concentra la atención en el camino de יהוה, no en la grandeza del mensajero.
 
-La clase llama la atención sobre la carga de estas preguntas en el marco judío del relato. Esa observación es útil si no se transforma en una afirmación indiscriminada sobre todo judío, toda corriente o toda época. El texto nombra a una delegación de sacerdotes y leviím enviada desde Ierushaláim; la nota debe conservar ese alcance narrativo.
+La clase enlaza las preguntas con #malaji_3_1, #malaji_4_5 y #devarim_18_15. La conexión ayuda a describir expectativas presentes en la escena, pero estos pasajes conservan contextos propios y no deben fundirse como si definieran una sola expectativa uniforme. El dato narrativo seguro es que Iojanán diferencia su testimonio de las figuras por las que se le pregunta.
 
-## Voz que prepara el camino de יהוה
+## El Cordero señalado y los que siguen
 
-En #iojanan_1_23 Iojanán se identifica con la voz de #ieshaiahu_40_3. La metáfora rebaja al mensajero y concentra la atención en el camino y en quien viene. No dice “yo soy el camino” ni “yo soy el objeto de la esperanza”; es voz que llama a enderezar el camino de יהוה.
+En #iojanan_1_29 y de nuevo en #iojanan_1_36, Iojanán llama a Yehoshua «el Cordero de Elohim». El relato responde a ese testimonio con movimiento: dos discípulos oyen, siguen, preguntan dónde permanece y reciben la invitación «Vengan y vean» (#iojanan_1_37-39). Andreas encuentra a Shimón, confiesa haber hallado al Mesías y lo lleva a Yehoshua (#iojanan_1_40-42).
 
-La clase enlaza las preguntas por Eliyáhu y el profeta con #malaji_3_1, #malaji_4_5 y #devarim_18_15. Es una conexión de lectura posible para explicar el interrogatorio, pero los tres textos tienen contextos propios. La función segura de la escena joánica es más limitada y clara: Iojanán diferencia su propio testimonio de las figuras por las que le preguntan.
+La clase distingue con razón entre **presentar** y **designar**: el texto muestra a Iojanán reconociendo y anunciando; no dice que él produzca la identidad de Yehoshua. TTH traduce el participio de #iojanan_1_29 con «soporta», mientras Delitzsch usa **נשׂא**. El rango de esa expresión merece cotejo con el griego antes de fijar «quita», «carga» o «soporta» como equivalencia exclusiva.
 
-## Inmersión, testimonio y autoridad
+## Filipos, Netanel y la invitación a comprobar
 
-La pregunta de #iojanan_1_25 no es un detalle aislado: si Iojanán no es ninguna de las figuras esperadas, ¿por qué sumerge? Él responde que sumerge en agua y desplaza la atención a uno que ya está en medio de ellos, pero a quien no conocen.
+#iojanan_1_43-46 conserva dos llamados breves: Yehoshua dice a Filipos «Ven detrás de Mí», y Filipos responde a la objeción de Netanel con «Ven y ve». No es un argumento exhaustivo sobre Natzrat; es una invitación a encontrarse con aquello que Filipos afirma haber hallado en la Torah y los profetas.
 
-La clase distingue **tevilá** como inmersión de procesos más amplios de purificación y discute la autoridad asociada a la imposición de manos. Como esas distinciones dependen de halajá, historia del Segundo Templo y literatura rabínica, esta nota no las convierte en una reconstrucción cerrada. El punto explícito del texto permanece: la acción de Iojanán no lo coloca por encima del que viene; su testimonio lo subordina a él.
+La parte 6 destaca que Filipos es un nombre griego y advierte contra convertir un nombre griego en prueba automática de deslealtad a Israel. Esa es una observación razonable frente al personaje que el texto presenta, pero las afirmaciones amplias sobre helenización, transmisión textual y recepción de lenguas requieren fuentes históricas y críticas verificables.
 
-## El Cordero presentado, no conferido
+La asociación que la clase propone entre Natzrat/Natzorí y **נצר** (_netzer_, «retoño») debe tratarse como posible juego de palabras, no como una etimología ya demostrada por #iojanan_1_45-46. En particular, la nota no convierte esa propuesta en una cita profética explícita del cuarto Evangelio.
 
-Al día siguiente Iojanán ve venir a Yeshúa y declara: “He aquí, el Cordero de Elohim, que soporta el pecado del olam”. La clase insiste en distinguir **presentar** de **designar**: Iojanán no transmite a Yeshúa un estatus que le pertenezca a él administrar; reconoce públicamente lo que ve y lo que le fue señalado.
+## Netanel y las confesiones del final
 
-El verbo y las traducciones de #iojanan*1_29 merecen cuidado. TTH usa “soporta”; Delitzsch usa **נשׂא**, una forma que la clase vincula con cargar o portar. Esa observación no autoriza a resolver sin examen toda la teología del sacrificio ni a reducir el \_olam* a un único sentido técnico. Sí orienta la lectura hacia el peso del pecado que el Cordero lleva.
+Yehoshua describe a Netanel como un israelita sin engaño y declara haberlo visto bajo la higuera. Netanel responde con dos títulos textuales: «Hijo de Elohim» y «Rey de Israel» (#iojanan_1_47-49). La narración no explica por sí sola todos los alcances doctrinales posteriores de esos títulos; sí presenta esta confesión como respuesta a la palabra y al conocimiento que Netanel recibe.
 
-## El Rúaj que permanece y el cierre del testimonio
+La parte 6 discute el uso de nombres, **Rabí**, «Hijo de Elohim» y «Ben Ha’Adam». Conviene conservar una distinción: que una traducción española sea insuficiente para agotar una expresión semítica no prueba que deba sustituirse por una única paráfrasis teológica. Las equivalencias entre griego, hebreo y arameo requieren cotejo gramatical y contextual caso por caso.
 
-La última sección vuelve a la lógica del testigo: Iojanán vio al Rúaj descender y permanecer sobre Yeshúa. Según #iojanan_1_33, esa señal le fue dada por quien lo envió a sumergir; por eso puede concluir en #iojanan_1_34: “Este es el Hijo de Elohim”.
+## Cielos abiertos, la escalera de Yaakov y el Ben Ha’Adam
 
-El relato no hace que Iojanán produzca al Mesías. Lo muestra recibiendo una señal, reconociéndola y dando testimonio. Desde la voz del desierto hasta el Cordero y el Rúaj que permanece, su función es señalar fuera de sí mismo.
+La secuencia «mensajeros de Elohim subiendo y bajando» en #iojanan_1_51 recuerda de forma directa #bereshit_28_12. En Bereshit, Yaakov sueña con un **סלם** apoyado en tierra, cuya parte superior alcanza los cielos, y con mensajeros que suben y bajan por él. En Yojanán, Yehoshua desplaza el lenguaje de la visión hacia «el Ben Ha’Adam».
+
+La clase propone que la imagen describe a Yehoshua como mediación de la comunicación entre cielo y tierra, y la vincula con Daniel 7, el título «Ben Ha’Adam» y lecturas sobre la escalera. Esto es una ruta intertextual significativa, pero el pasaje no formula por sí mismo cada conclusión metafísica que la clase extrae. Tampoco es seguro identificar sin más los mensajeros con oraciones, ni usar una gematría como demostración: la propia clase reconoce que ese método exige una estructura textual independiente para no producir asociaciones arbitrarias.
 
 ## Léxico clave
 
-| Forma           | Transliteración | Sentido en la nota       | Tipo de relación                           | Cautela                                                                                                     |
-| --------------- | --------------- | ------------------------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **(עדות)**      | edut            | testimonio               | Aproximada; Delitzsch en #iojanan_1_19     | No equivale automáticamente a un término técnico jurídico en todos los contextos.                           |
-| **(קול)**       | qol             | voz                      | Textual en #iojanan_1_23 y #ieshaiahu_40_3 | La metáfora describe una función preparatoria; no identifica por sí sola todas las figuras proféticas.      |
-| **(שה האלהים)** | seh haElohim    | Cordero de Elohim        | Textual en Delitzsch de #iojanan_1_29      | La nota no presupone una sola teoría sacrificial a partir de esta expresión.                                |
-| **(נשׂא)**      | nasa            | cargar, portar, levantar | Aproximada; forma textual de Delitzsch     | Cotejar la forma, el aspecto verbal y su relación con el griego antes de hacer una equivalencia exhaustiva. |
-| **(רוח הקדש)**  | Ruaj HaQodesh   | Rúaj de santidad         | Textual en Delitzsch de #iojanan_1_33      | No reducir la paloma a una identificación literal del Rúaj con un ave.                                      |
-
-## Referencias judías y fuentes externas
-
-| Fuente                       | Referencia             | Uso en la clase                                                                               | Estado                 |
-| ---------------------------- | ---------------------- | --------------------------------------------------------------------------------------------- | ---------------------- |
-| Literatura rabínica / halajá | Sin referencia exacta  | La clase distingue inmersión, purificación y la inmersión de prosélitos.                      | Pendiente de verificar |
-| Historia del Segundo Templo  | Sin referencia exacta  | La clase propone expectativas farisaicas de transmisión o designación de autoridad mesiánica. | Pendiente de verificar |
-| Juan Crisóstomo              | Obras no especificadas | La clase lo menciona al hablar de lecturas antijudías de Yojanán.                             | Pendiente de verificar |
+| Forma           | Transliteración | Sentido en la nota            | Tipo de relación                                    | Cautela                                                                                                      |
+| --------------- | --------------- | ----------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **שה האלהים**   | seh haElohim    | Cordero de Elohim             | Textual en Delitzsch, #iojanan_1_29 y #iojanan_1_36 | No presupone una teoría sacrificial única.                                                                   |
+| **רמיה**        | remiyyah        | engaño                        | Textual en Delitzsch, #iojanan_1_47                 | La frase caracteriza a Netanel en esta escena; no basta para construir una tipología cerrada.                |
+| **סלם**         | sulam           | escalera                      | Textual en OE, #bereshit_28_12                      | La relación con #iojanan_1_51 es intertextual por la escena y el lenguaje, no una ecuación léxica explícita. |
+| **בן האדם**     | Ben Ha’Adam     | Hijo del Hombre / Ben Ha’Adam | Textual en Delitzsch, #iojanan_1_51                 | No fijar una sola paráfrasis semítica sin examinar el griego y los contextos de Daniel y Yojanán.            |
+| **מלאכי אלהים** | malakhei Elohim | mensajeros de Elohim          | Textual en #bereshit_28_12 y #iojanan_1_51          | «Mensajero» no autoriza a negar ni imponer de antemano una referencia a seres celestiales.                   |
 
 ## Conexiones principales
 
 - #iojanan_1_19-23 con #ieshaiahu_40_3: el testigo se define como voz que prepara el camino de יהוה.
-- #iojanan_1_21 con #malaji_4_5 y #devarim_18_15: el interrogatorio muestra expectativas distintas que deben mantenerse diferenciadas.
-- #iojanan_1_25-27 con #iojanan_1_32-34: quien sumerge en agua no ocupa el centro; su señal y su testimonio apuntan a Yeshúa.
-- #iojanan_1_29 con #iojanan_1_34: Cordero de Elohim e Hijo de Elohim son dos declaraciones del mismo testigo sobre Yeshúa.
+- #iojanan_1_29 con #iojanan_1_35-37: el Cordero es señalado y los discípulos comienzan a seguir a Yehoshua.
+- #iojanan_1_40-46: Andreas y Filipos conducen a otros hacia Yehoshua mediante testimonio e invitación.
+- #iojanan_1_47-50: la palabra de Yehoshua sobre Netanel precede su confesión de Hijo de Elohim y Rey de Israel.
+- #iojanan_1_51 con #bereshit_28_12: cielos abiertos y mensajeros que suben y bajan orientan el final del capítulo hacia el sueño de Yaakov.
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la identificación histórica de los “yehudim” de #iojanan_1_19 con habitantes de Judea, autoridades de Ierushaláim u otros usos locales del Evangelio; no uniformar el término en todo Yojanán.
-- [ ] Verificar fuentes primarias para las expectativas de Eliyáhu, el profeta y la designación mesiánica atribuidas en la clase a distintos grupos judíos.
-- [ ] Cotejar las afirmaciones sobre tevilá, purificación, prosélitos y sacerdocio con Torah, Mishná y estudios históricos, sin retroproyectar prácticas posteriores.
-- [ ] Verificar la explicación de la clase sobre autoridad, imposición de manos y el Sanedrín en relación con #iojanan_1_25-27.
-- [ ] Revisar el rango semántico de **נשׂא** y del griego de #iojanan_1_29 antes de fijar “quita”, “soporta”, “porta” o “carga” como equivalencia exclusiva.
-- [ ] Localizar obras concretas de Juan Crisóstomo y bibliografía crítica antes de usar su nombre como evidencia histórica.
+- [ ] Cotejar la identificación histórica de los «yehudim» de #iojanan_1_19; no uniformar el término en todo Yojanán.
+- [ ] Verificar fuentes primarias para las expectativas sobre Eliyáhu, «el profeta», inmersión y autoridad mencionadas en la parte 5.
+- [ ] Revisar el rango semántico de **נשׂא** y del griego de #iojanan_1_29 antes de preferir una traducción exclusiva.
+- [ ] Verificar con léxicos, gramáticas y bibliografía histórica las afirmaciones de la parte 6 sobre nombres griegos, Natzrat/**נצר**, texto griego, arameo y hebreo.
+- [ ] Cotejar #iojanan_1_51 con #bereshit_28_12 y Daniel 7 en sus lenguas y contextos antes de convertir «Ben Ha’Adam» en una paráfrasis doctrinal fija.
+- [ ] No usar cálculos de gematría como prueba exegética sin una fuente verificable y un argumento textual independiente.
 
 ## Conclusión
 
-Iojanán no acumula para sí los títulos que la delegación trae. Su confesión avanza por renuncia: no es el Mesías, no es Eliyáhu, no es el profeta. Es la voz que prepara el camino de יהוה y el testigo que reconoce a Yeshúa.
-
-Por eso sus palabras sobre el Cordero y sobre el Rúaj no entregan una autoridad humana a Yeshúa. Dan testimonio de una señal que Iojanán recibió y vio. La escena enseña a leer el testimonio en su orden: la voz prepara, el testigo señala, y el centro permanece en Yeshúa.
+El primer capítulo no deja a Iojanán en el centro: su voz prepara y su testimonio señala al Cordero. Los primeros discípulos oyen, siguen, permanecen, llaman a otros y confiesan. El anuncio final de los cielos abiertos no abandona ese hilo; lo sitúa dentro de la memoria de Yaakov y llama a leer a Yehoshua a la luz de las Escrituras, sin convertir las asociaciones interpretativas en afirmaciones que el texto no hace.
 
 ## Ver también
 
-- [[yojanan_conceptos_deidad|Conceptos clave de deidad en el evangelio de Yojanán]]
-- [[../temas/bat_kol|Bat qol y testimonio desde el cielo]]
-- [[../temas/shabat|Shabat]]
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
+- [[yojanan_10_pastor_vida_obras|Yojanán 10: el pastor, la vida y las obras]] — el criterio de las obras y del testimonio.
+- [[../temas/bat_kol|Bat qol y testimonio desde el cielo]] — la voz y el testimonio.
+- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]] — el Cordero y la lectura de la obra mesiánica.
+
+## Créditos
+
+Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
+
+- «El Evangelio según Yojanan - Juan Parte 1 - Introducción» — https://www.youtube.com/watch?v=FrxD1V5awcM — `private/transcripts/ericdejes/FrxD1V5awcM.md` (`youtube:FrxD1V5awcM`).
+- «El Evangelio según Yojanán (parte2) Cap 1:1 Arjë, Logos y Meymra'» — https://www.youtube.com/watch?v=1MoxwBR4bg4 — `private/transcripts/ericdejes/1MoxwBR4bg4.md` (`youtube:1MoxwBR4bg4`).
+- «El Evangelio segun Yojanan / Juan (Parte 5) Yehoshúa' el Qorban» — https://www.youtube.com/watch?v=2C6YJnz5fKs — `private/transcripts/ericdejes/2C6YJnz5fKs.md` (`youtube:2C6YJnz5fKs`).
+- «El evangelio según Yojanán/ Juan (Parte 6): El Sulam, el Ben Ha'adam» — https://www.youtube.com/watch?v=ppIWbKD97T0 — `private/transcripts/ericdejes/ppIWbKD97T0.md` (`youtube:ppIWbKD97T0`).
