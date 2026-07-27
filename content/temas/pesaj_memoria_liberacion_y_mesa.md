@@ -9,7 +9,7 @@ tags:
 references:
   - "#shemot_12_8-14"
   - "#shemot_12_15"
-  - "#devarim_16_1-3"
+  - "#devarim_16_1-4"
 sources:
   - "https://www.youtube.com/watch?v=3X9vlwqU5Hg"
   - "https://www.youtube.com/watch?v=LcEX_H-pdAs"
@@ -20,6 +20,8 @@ sources:
   - "https://www.youtube.com/watch?v=kuc2zI9DMZ8"
   - "https://www.youtube.com/watch?v=JfdMv1nlG2Q"
   - "https://www.youtube.com/watch?v=Ds5Mju41YzE"
+  - "https://www.youtube.com/watch?v=3X9vlwqU5Hg"
+  - "https://www.youtube.com/watch?v=LcEX_H-pdAs"
 
   - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
   - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
@@ -30,6 +32,8 @@ sources:
   - "private/transcripts/ericdejes/kuc2zI9DMZ8.md"
   - "private/transcripts/ericdejes/JfdMv1nlG2Q.md"
   - "private/transcripts/ericdejes/Ds5Mju41YzE.md"
+  - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
+  - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
 
   - "docs/scriptures/oe/json/exodus/12.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
@@ -43,6 +47,8 @@ source_ids:
   - "youtube:kuc2zI9DMZ8"
   - "youtube:JfdMv1nlG2Q"
   - "youtube:Ds5Mju41YzE"
+  - "youtube:3X9vlwqU5Hg"
+  - "youtube:LcEX_H-pdAs"
 
 translation: "[OE]"
 ---
@@ -57,17 +63,19 @@ Las nueve clases reúnen preguntas sobre la cronología, el séder, la preparaci
 
 ## Hoja de comparación
 
-| Referencia      | Texto hebreo local                                                                                | Observación                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #shemot_12_8-14 | ואכלו את הבשר בלילה הזה צלי אש ומצות על מררים יאכלהו; והיה היום הזה לכם לזכרון וחגתם אתו חג ליהוה | La comida, Matzot y memorial están unidos a la intervención de יהוה.     |
-| #shemot_12_15   | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם                                             | Matzot incluye una instrucción concreta sobre retirar levadura.          |
-| #devarim_16_1-3 | שמור את חדש האביב ועשית פסח ליהוה אלהיך... לא תאכל עליו חמץ שבעת ימים תאכל עליו מצות לחם עני      | Devarim vincula la salida nocturna, el sacrificio y el pan de aflicción. |
+| Referencia      | Texto hebreo local                                                                                   | Observación                                                                                 |
+| --------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| #shemot_12_8-14 | ואכלו את הבשר בלילה הזה צלי אש ומצות על מררים יאכלהו; והיה היום הזה לכם לזכרון וחגתם אתו חג ליהוה    | La comida, Matzot y memorial están unidos a la intervención de יהוה.                        |
+| #shemot_12_15   | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם                                                | Matzot incluye una instrucción concreta sobre retirar levadura.                             |
+| #devarim_16_1-4 | שמור את חדש ה/אביב ו/עשית פסח ל/יהוה אלהי/ך... ו/לא ילין מן ה/בשר אשר תזבח ב/ערב ב/יום ה/ראשון ל/בקר | Devarim vincula la salida nocturna, el sacrificio, Matzot y no dejar carne hasta la mañana. |
 
 ## Memoria que forma la mesa
 
 La Torah no presenta la comida como un rito vacío: la memoria de la salida impide normalizar la esclavitud y enseña a recibir la redención como obra de יהוה. Las clases insisten en que una mesa ordenada debe servir esa memoria y la comunión, no competir por superioridad ritual.
 
-El texto sí distingue Pésaj y los siete días de Matzot. Las reconstrucciones detalladas de horas, calendarios y secuencias del séder requieren cotejo histórico; esta nota no las usa como condición de pertenencia ni como sustituto del mandamiento.
+El texto sí distingue Pésaj y los siete días de Matzot. Devarim 16:4 prohíbe dejar hasta la mañana carne del sacrificio de la primera tarde; las clases recientes llaman a no trasladar automáticamente a este texto categorías sacrificiales o elementos del séder elaborados después. Esa advertencia es útil como método: la relación entre el texto, la práctica del Templo y la memoria litúrgica necesita fuentes trazables.
+
+Las reconstrucciones detalladas de horas, calendarios y secuencias del séder requieren cotejo histórico; esta nota no las usa como condición de pertenencia ni como sustituto del mandamiento. Las dos sesiones añadidas presentan una lectura particular del calendario, del alcance de חמץ y de prácticas rabínicas; se registran como exposición del hermano Eric, no como conclusiones cerradas de esta nota.
 
 ## Calendario, aplicación y límites de la clase
 
@@ -81,6 +89,7 @@ La lectura mesiánica propuesta por las clases relaciona la liberación, el cord
 
 - [ ] Comparar las propuestas cronológicas de las clases con Shemot 12, Devarim 16 y sus principales interpretaciones históricas.
 - [ ] Distinguir en fuentes trazables los elementos bíblicos del séder de desarrollos litúrgicos posteriores.
+- [ ] Verificar por separado la identificación y el alcance histórico de la ofrenda llamada חגיגה en la discusión de las clases.
 
 ## Ver también
 
@@ -99,5 +108,7 @@ La lectura mesiánica propuesta por las clases relaciona la liberación, el cord
 - [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — `private/transcripts/ericdejes/kuc2zI9DMZ8.md` (source_id: `youtube:kuc2zI9DMZ8`).
 - [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — `private/transcripts/ericdejes/JfdMv1nlG2Q.md` (source_id: `youtube:JfdMv1nlG2Q`).
 - [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — `private/transcripts/ericdejes/Ds5Mju41YzE.md` (source_id: `youtube:Ds5Mju41YzE`).
+- [The "613" Mitzvot #118-120 Do not leave Pesach for "tomorrow"](https://www.youtube.com/watch?v=3X9vlwqU5Hg) — `private/transcripts/ericdejes/3X9vlwqU5Hg.md` (source_id: `youtube:3X9vlwqU5Hg`).
+- [Las 613 Mitzvot 126 - Mas acerca de Pésaj y el Séder](https://www.youtube.com/watch?v=LcEX_H-pdAs) — `private/transcripts/ericdejes/LcEX_H-pdAs.md` (source_id: `youtube:LcEX_H-pdAs`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
