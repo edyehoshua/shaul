@@ -17,6 +17,9 @@ references:
   - "#leviticus_23_14"
   - "#leviticus_23_15"
   - "#leviticus_23_16"
+  - "#numbers_6_2"
+  - "#numbers_6_3"
+  - "#numbers_6_5"
 sources:
   - "https://www.youtube.com/watch?v=1yylyCqEFhw"
   - "https://www.youtube.com/watch?v=n5iXrkCooCM"
@@ -81,6 +84,7 @@ sources:
   - "https://www.youtube.com/watch?v=3X9vlwqU5Hg"
   - "https://www.youtube.com/watch?v=LcEX_H-pdAs"
   - "https://www.youtube.com/watch?v=SeHY2afxDh0"
+  - "https://www.youtube.com/watch?v=jTmRIY77Twg"
   - "private/transcripts/ericdejes/1yylyCqEFhw.md"
   - "private/transcripts/ericdejes/n5iXrkCooCM.md"
   - "private/transcripts/ericdejes/NTEICX0rO7I.md"
@@ -144,9 +148,189 @@ sources:
   - "private/transcripts/ericdejes/3X9vlwqU5Hg.md"
   - "private/transcripts/ericdejes/LcEX_H-pdAs.md"
   - "private/transcripts/ericdejes/SeHY2afxDh0.md"
+  - "private/transcripts/ericdejes/jTmRIY77Twg.md"
+  - "docs/scriptures/oe/json/numbers/6.json"
   - "docs/scriptures/oe/json/exodus/20.json"
   - "docs/scriptures/oe/json/deuteronomy/6.json"
   - "docs/scriptures/oe/json/leviticus/23.json"
+
+  - "https://www.youtube.com/watch?v=6uI72fSkxOE"
+  - "https://www.youtube.com/watch?v=WSuNB9r5fyY"
+  - "https://www.youtube.com/watch?v=9OzErjDVBTw"
+  - "https://www.youtube.com/watch?v=wHVHLqbiO50"
+  - "https://www.youtube.com/watch?v=cPmY5G8d7mg"
+  - "https://www.youtube.com/watch?v=W8v3x0QRpm0"
+  - "https://www.youtube.com/watch?v=8GZvHu8PDJc"
+  - "https://www.youtube.com/watch?v=dkZ5cK4kAS0"
+  - "https://www.youtube.com/watch?v=NKY7tmRT4QU"
+  - "https://www.youtube.com/watch?v=zH-MNm-N4ug"
+  - "https://www.youtube.com/watch?v=LsyxSQmzQsA"
+  - "https://www.youtube.com/watch?v=GZWnhQNxdio"
+  - "https://www.youtube.com/watch?v=vSwEWAh9ngE"
+  - "https://www.youtube.com/watch?v=rJ9WbZ-YeT8"
+  - "https://www.youtube.com/watch?v=LXilKtQ-fhc"
+  - "https://www.youtube.com/watch?v=mD5SJWM3sP0"
+  - "https://www.youtube.com/watch?v=OO9gR0gvli8"
+  - "https://www.youtube.com/watch?v=5e7WzNIoudY"
+  - "https://www.youtube.com/watch?v=Rirb5Mm1cKU"
+  - "https://www.youtube.com/watch?v=S_2yHVI1dsY"
+  - "https://www.youtube.com/watch?v=ojjJKtdQQuQ"
+  - "https://www.youtube.com/watch?v=tCMc1i8DsiE"
+  - "https://www.youtube.com/watch?v=KJi56hRdr20"
+  - "https://www.youtube.com/watch?v=eAMeBqrH4Ro"
+  - "https://www.youtube.com/watch?v=mKpKvJiTFcU"
+  - "https://www.youtube.com/watch?v=eTFMmOdU4kQ"
+  - "https://www.youtube.com/watch?v=vqHkW9sONfM"
+  - "https://www.youtube.com/watch?v=MPefG3AXsj0"
+  - "https://www.youtube.com/watch?v=wiO3Oxc1bHA"
+  - "https://www.youtube.com/watch?v=3lVCw8AOye4"
+  - "https://www.youtube.com/watch?v=E1eOXWfuQIA"
+  - "https://www.youtube.com/watch?v=KzeFAzs6skQ"
+  - "https://www.youtube.com/watch?v=kpRmwbh7QEE"
+  - "https://www.youtube.com/watch?v=whA0Rm1f4vE"
+  - "https://www.youtube.com/watch?v=8qyiOhRgdTU"
+  - "https://www.youtube.com/watch?v=7S2dL7XAvkI"
+  - "https://www.youtube.com/watch?v=Qr5k6gJspSk"
+  - "https://www.youtube.com/watch?v=0KIf2pmoseI"
+  - "https://www.youtube.com/watch?v=BOeYBxe-7O8"
+  - "https://www.youtube.com/watch?v=Q0m91bFi99I"
+  - "https://www.youtube.com/watch?v=qqicR0QF9xk"
+  - "https://www.youtube.com/watch?v=v7LP_5ckq4k"
+  - "https://www.youtube.com/watch?v=bUQJsxITyEs"
+  - "https://www.youtube.com/watch?v=bqf29zdgUOI"
+  - "https://www.youtube.com/watch?v=VrXnhppON4Q"
+  - "https://www.youtube.com/watch?v=tHbhVMb1hSs"
+  - "https://www.youtube.com/watch?v=649tiM1KaeE"
+  - "https://www.youtube.com/watch?v=vr8FjJtnWLo"
+  - "https://www.youtube.com/watch?v=v_OlXqqd9dE"
+  - "https://www.youtube.com/watch?v=3blo2f3tVhg"
+  - "https://www.youtube.com/watch?v=gV0UxnfkdCo"
+  - "https://www.youtube.com/watch?v=wfy27PxrxVk"
+  - "https://www.youtube.com/watch?v=Cpon0ujv7Vc"
+  - "https://www.youtube.com/watch?v=I8y1r1SuDBU"
+  - "https://www.youtube.com/watch?v=q1iTAj6JCSs"
+  - "https://www.youtube.com/watch?v=CJuw_R66JYM"
+  - "https://www.youtube.com/watch?v=wCCor0zxs_Y"
+  - "https://www.youtube.com/watch?v=hJLQF_pd3Yo"
+  - "https://www.youtube.com/watch?v=rNMZ0kiRkCM"
+  - "https://www.youtube.com/watch?v=uY3ovSzArA0"
+  - "https://www.youtube.com/watch?v=H1ylXNPpFHY"
+  - "https://www.youtube.com/watch?v=QKvtmcT1fac"
+  - "https://www.youtube.com/watch?v=YrWRMcnDfpo"
+  - "https://www.youtube.com/watch?v=4SrWQqG4Blg"
+  - "https://www.youtube.com/watch?v=z71W8INXgcQ"
+  - "https://www.youtube.com/watch?v=Rx7RVcJJ3p4"
+  - "https://www.youtube.com/watch?v=GYs3HOz9j1k"
+  - "https://www.youtube.com/watch?v=pbymahRm2sE"
+  - "https://www.youtube.com/watch?v=H57cvpIx8kg"
+  - "https://www.youtube.com/watch?v=AM9pzarLGrg"
+  - "https://www.youtube.com/watch?v=tQyjq-oGUmo"
+  - "https://www.youtube.com/watch?v=jtBOGgvmma8"
+  - "https://www.youtube.com/watch?v=QemIRx0s8iY"
+  - "https://www.youtube.com/watch?v=pntt_-sbqR8"
+  - "https://www.youtube.com/watch?v=l9gnphg_s3M"
+  - "https://www.youtube.com/watch?v=f3rTNdNvdec"
+  - "https://www.youtube.com/watch?v=Dz0ApIrg29I"
+  - "https://www.youtube.com/watch?v=Nu_vdrQRgMw"
+  - "https://www.youtube.com/watch?v=JyRL2kDG2aI"
+  - "https://www.youtube.com/watch?v=MRkB0EIv5oU"
+  - "https://www.youtube.com/watch?v=QpjcE4tHgWQ"
+  - "https://www.youtube.com/watch?v=uc7MeIrTfWE"
+  - "https://www.youtube.com/watch?v=_mqRapap5WQ"
+  - "https://www.youtube.com/watch?v=zlyIOzaPh5o"
+  - "https://www.youtube.com/watch?v=Ac26liOpDrM"
+  - "https://www.youtube.com/watch?v=yWl1pEEHqoA"
+  - "https://www.youtube.com/watch?v=94Uum8S5pe4"
+  - "https://www.youtube.com/watch?v=hMHVR1KkTOE"
+
+  - "private/transcripts/ericdejes/6uI72fSkxOE.md"
+  - "private/transcripts/ericdejes/WSuNB9r5fyY.md"
+  - "private/transcripts/ericdejes/9OzErjDVBTw.md"
+  - "private/transcripts/ericdejes/wHVHLqbiO50.md"
+  - "private/transcripts/ericdejes/cPmY5G8d7mg.md"
+  - "private/transcripts/ericdejes/W8v3x0QRpm0.md"
+  - "private/transcripts/ericdejes/8GZvHu8PDJc.md"
+  - "private/transcripts/ericdejes/dkZ5cK4kAS0.md"
+  - "private/transcripts/ericdejes/NKY7tmRT4QU.md"
+  - "private/transcripts/ericdejes/zH-MNm-N4ug.md"
+  - "private/transcripts/ericdejes/LsyxSQmzQsA.md"
+  - "private/transcripts/ericdejes/GZWnhQNxdio.md"
+  - "private/transcripts/ericdejes/vSwEWAh9ngE.md"
+  - "private/transcripts/ericdejes/rJ9WbZ-YeT8.md"
+  - "private/transcripts/ericdejes/LXilKtQ-fhc.md"
+  - "private/transcripts/ericdejes/mD5SJWM3sP0.md"
+  - "private/transcripts/ericdejes/OO9gR0gvli8.md"
+  - "private/transcripts/ericdejes/5e7WzNIoudY.md"
+  - "private/transcripts/ericdejes/Rirb5Mm1cKU.md"
+  - "private/transcripts/ericdejes/S_2yHVI1dsY.md"
+  - "private/transcripts/ericdejes/ojjJKtdQQuQ.md"
+  - "private/transcripts/ericdejes/tCMc1i8DsiE.md"
+  - "private/transcripts/ericdejes/KJi56hRdr20.md"
+  - "private/transcripts/ericdejes/eAMeBqrH4Ro.md"
+  - "private/transcripts/ericdejes/mKpKvJiTFcU.md"
+  - "private/transcripts/ericdejes/eTFMmOdU4kQ.md"
+  - "private/transcripts/ericdejes/vqHkW9sONfM.md"
+  - "private/transcripts/ericdejes/MPefG3AXsj0.md"
+  - "private/transcripts/ericdejes/wiO3Oxc1bHA.md"
+  - "private/transcripts/ericdejes/3lVCw8AOye4.md"
+  - "private/transcripts/ericdejes/E1eOXWfuQIA.md"
+  - "private/transcripts/ericdejes/KzeFAzs6skQ.md"
+  - "private/transcripts/ericdejes/kpRmwbh7QEE.md"
+  - "private/transcripts/ericdejes/whA0Rm1f4vE.md"
+  - "private/transcripts/ericdejes/8qyiOhRgdTU.md"
+  - "private/transcripts/ericdejes/7S2dL7XAvkI.md"
+  - "private/transcripts/ericdejes/Qr5k6gJspSk.md"
+  - "private/transcripts/ericdejes/0KIf2pmoseI.md"
+  - "private/transcripts/ericdejes/BOeYBxe-7O8.md"
+  - "private/transcripts/ericdejes/Q0m91bFi99I.md"
+  - "private/transcripts/ericdejes/qqicR0QF9xk.md"
+  - "private/transcripts/ericdejes/v7LP_5ckq4k.md"
+  - "private/transcripts/ericdejes/bUQJsxITyEs.md"
+  - "private/transcripts/ericdejes/bqf29zdgUOI.md"
+  - "private/transcripts/ericdejes/VrXnhppON4Q.md"
+  - "private/transcripts/ericdejes/tHbhVMb1hSs.md"
+  - "private/transcripts/ericdejes/649tiM1KaeE.md"
+  - "private/transcripts/ericdejes/vr8FjJtnWLo.md"
+  - "private/transcripts/ericdejes/v_OlXqqd9dE.md"
+  - "private/transcripts/ericdejes/3blo2f3tVhg.md"
+  - "private/transcripts/ericdejes/gV0UxnfkdCo.md"
+  - "private/transcripts/ericdejes/wfy27PxrxVk.md"
+  - "private/transcripts/ericdejes/Cpon0ujv7Vc.md"
+  - "private/transcripts/ericdejes/I8y1r1SuDBU.md"
+  - "private/transcripts/ericdejes/q1iTAj6JCSs.md"
+  - "private/transcripts/ericdejes/CJuw_R66JYM.md"
+  - "private/transcripts/ericdejes/wCCor0zxs_Y.md"
+  - "private/transcripts/ericdejes/hJLQF_pd3Yo.md"
+  - "private/transcripts/ericdejes/rNMZ0kiRkCM.md"
+  - "private/transcripts/ericdejes/uY3ovSzArA0.md"
+  - "private/transcripts/ericdejes/H1ylXNPpFHY.md"
+  - "private/transcripts/ericdejes/QKvtmcT1fac.md"
+  - "private/transcripts/ericdejes/YrWRMcnDfpo.md"
+  - "private/transcripts/ericdejes/4SrWQqG4Blg.md"
+  - "private/transcripts/ericdejes/z71W8INXgcQ.md"
+  - "private/transcripts/ericdejes/Rx7RVcJJ3p4.md"
+  - "private/transcripts/ericdejes/GYs3HOz9j1k.md"
+  - "private/transcripts/ericdejes/pbymahRm2sE.md"
+  - "private/transcripts/ericdejes/H57cvpIx8kg.md"
+  - "private/transcripts/ericdejes/AM9pzarLGrg.md"
+  - "private/transcripts/ericdejes/tQyjq-oGUmo.md"
+  - "private/transcripts/ericdejes/jtBOGgvmma8.md"
+  - "private/transcripts/ericdejes/QemIRx0s8iY.md"
+  - "private/transcripts/ericdejes/pntt_-sbqR8.md"
+  - "private/transcripts/ericdejes/l9gnphg_s3M.md"
+  - "private/transcripts/ericdejes/f3rTNdNvdec.md"
+  - "private/transcripts/ericdejes/Dz0ApIrg29I.md"
+  - "private/transcripts/ericdejes/Nu_vdrQRgMw.md"
+  - "private/transcripts/ericdejes/JyRL2kDG2aI.md"
+  - "private/transcripts/ericdejes/MRkB0EIv5oU.md"
+  - "private/transcripts/ericdejes/QpjcE4tHgWQ.md"
+  - "private/transcripts/ericdejes/uc7MeIrTfWE.md"
+  - "private/transcripts/ericdejes/_mqRapap5WQ.md"
+  - "private/transcripts/ericdejes/zlyIOzaPh5o.md"
+  - "private/transcripts/ericdejes/Ac26liOpDrM.md"
+  - "private/transcripts/ericdejes/yWl1pEEHqoA.md"
+  - "private/transcripts/ericdejes/94Uum8S5pe4.md"
+  - "private/transcripts/ericdejes/hMHVR1KkTOE.md"
 source_ids:
   - "youtube:1yylyCqEFhw"
   - "youtube:n5iXrkCooCM"
@@ -211,6 +395,96 @@ source_ids:
   - "youtube:3X9vlwqU5Hg"
   - "youtube:LcEX_H-pdAs"
   - "youtube:SeHY2afxDh0"
+  - "youtube:jTmRIY77Twg"
+
+  - "youtube:6uI72fSkxOE"
+  - "youtube:WSuNB9r5fyY"
+  - "youtube:9OzErjDVBTw"
+  - "youtube:wHVHLqbiO50"
+  - "youtube:cPmY5G8d7mg"
+  - "youtube:W8v3x0QRpm0"
+  - "youtube:8GZvHu8PDJc"
+  - "youtube:dkZ5cK4kAS0"
+  - "youtube:NKY7tmRT4QU"
+  - "youtube:zH-MNm-N4ug"
+  - "youtube:LsyxSQmzQsA"
+  - "youtube:GZWnhQNxdio"
+  - "youtube:vSwEWAh9ngE"
+  - "youtube:rJ9WbZ-YeT8"
+  - "youtube:LXilKtQ-fhc"
+  - "youtube:mD5SJWM3sP0"
+  - "youtube:OO9gR0gvli8"
+  - "youtube:5e7WzNIoudY"
+  - "youtube:Rirb5Mm1cKU"
+  - "youtube:S_2yHVI1dsY"
+  - "youtube:ojjJKtdQQuQ"
+  - "youtube:tCMc1i8DsiE"
+  - "youtube:KJi56hRdr20"
+  - "youtube:eAMeBqrH4Ro"
+  - "youtube:mKpKvJiTFcU"
+  - "youtube:eTFMmOdU4kQ"
+  - "youtube:vqHkW9sONfM"
+  - "youtube:MPefG3AXsj0"
+  - "youtube:wiO3Oxc1bHA"
+  - "youtube:3lVCw8AOye4"
+  - "youtube:E1eOXWfuQIA"
+  - "youtube:KzeFAzs6skQ"
+  - "youtube:kpRmwbh7QEE"
+  - "youtube:whA0Rm1f4vE"
+  - "youtube:8qyiOhRgdTU"
+  - "youtube:7S2dL7XAvkI"
+  - "youtube:Qr5k6gJspSk"
+  - "youtube:0KIf2pmoseI"
+  - "youtube:BOeYBxe-7O8"
+  - "youtube:Q0m91bFi99I"
+  - "youtube:qqicR0QF9xk"
+  - "youtube:v7LP_5ckq4k"
+  - "youtube:bUQJsxITyEs"
+  - "youtube:bqf29zdgUOI"
+  - "youtube:VrXnhppON4Q"
+  - "youtube:tHbhVMb1hSs"
+  - "youtube:649tiM1KaeE"
+  - "youtube:vr8FjJtnWLo"
+  - "youtube:v_OlXqqd9dE"
+  - "youtube:3blo2f3tVhg"
+  - "youtube:gV0UxnfkdCo"
+  - "youtube:wfy27PxrxVk"
+  - "youtube:Cpon0ujv7Vc"
+  - "youtube:I8y1r1SuDBU"
+  - "youtube:q1iTAj6JCSs"
+  - "youtube:CJuw_R66JYM"
+  - "youtube:wCCor0zxs_Y"
+  - "youtube:hJLQF_pd3Yo"
+  - "youtube:rNMZ0kiRkCM"
+  - "youtube:uY3ovSzArA0"
+  - "youtube:H1ylXNPpFHY"
+  - "youtube:QKvtmcT1fac"
+  - "youtube:YrWRMcnDfpo"
+  - "youtube:4SrWQqG4Blg"
+  - "youtube:z71W8INXgcQ"
+  - "youtube:Rx7RVcJJ3p4"
+  - "youtube:GYs3HOz9j1k"
+  - "youtube:pbymahRm2sE"
+  - "youtube:H57cvpIx8kg"
+  - "youtube:AM9pzarLGrg"
+  - "youtube:tQyjq-oGUmo"
+  - "youtube:jtBOGgvmma8"
+  - "youtube:QemIRx0s8iY"
+  - "youtube:pntt_-sbqR8"
+  - "youtube:l9gnphg_s3M"
+  - "youtube:f3rTNdNvdec"
+  - "youtube:Dz0ApIrg29I"
+  - "youtube:Nu_vdrQRgMw"
+  - "youtube:JyRL2kDG2aI"
+  - "youtube:MRkB0EIv5oU"
+  - "youtube:QpjcE4tHgWQ"
+  - "youtube:uc7MeIrTfWE"
+  - "youtube:_mqRapap5WQ"
+  - "youtube:zlyIOzaPh5o"
+  - "youtube:Ac26liOpDrM"
+  - "youtube:yWl1pEEHqoA"
+  - "youtube:94Uum8S5pe4"
+  - "youtube:hMHVR1KkTOE"
 translation: "[OE]"
 ---
 
@@ -220,7 +494,7 @@ La serie sobre las 613 mitzvot ofrece un recorrido de estudio por mandamientos d
 
 ## Alcance de la nota
 
-Esta nota reúne las 62 sesiones locales de la lista «613 Mitzvot» y comienza a integrar la continuación «Las 613 mitzvot 2a parte». La sesión añadida aborda las mitzvot 191–192 en diálogo con Pésaj, la cebada y el ómer. Los títulos muestran bloques dedicados, entre otros, a sacrificios, pureza, Pésaj, Yom Teruah, votos, familia, tribunales, daños y reparación. No convierte el título ni una transcripción automática en prueba de una enumeración, aplicación o interpretación; cada mandamiento debe volver a su referencia bíblica y a su contexto literario.
+Esta nota reúne las sesiones locales disponibles de la lista «613 Mitzvot» y las 92 sesiones locales disponibles de su continuación «Las 613 mitzvot 2a parte». Las clases abarcan, según sus títulos y transcripciones automáticas, pureza y santuario, paz y explotación, ofrendas, matrimonio, justicia, Shabat, sexualidad, daños, votos y la legislación sobre el rey. No convierte el título ni una transcripción automática en prueba de una enumeración, aplicación o interpretación; cada mandamiento debe volver a su referencia bíblica y a su contexto literario.
 
 La primera sesión explica que el cómputo «613» no aparece como una lista numerada dentro del Tanaj y sitúa las listas medievales como instrumentos posteriores. Esa observación es importante, pero las fechas, fuentes rabínicas y atribuciones históricas de la clase deben documentarse antes de citarlas como investigación establecida.
 
@@ -232,6 +506,7 @@ La primera sesión explica que el cómputo «613» no aparece como una lista num
 | #deuteronomy_6_4    | **שמ ישראל יהוה אלהי/נו יהוה אח**                                                                                                                                                                                                                                                                                                                                                                                                                                        | La confesión de Israel centra la escucha en יהוה.                                                                         |
 | #deuteronomy_6_5    | **ו/אהבת את יהוה אלהי/ך ב/כל לבב/ך ו/ב/כל נפש/ך ו/ב/כל מאד/ך**                                                                                                                                                                                                                                                                                                                                                                                                           | El amor a יהוה involucra corazón, vida y fuerza; no se reduce a una contabilización.                                      |
 | #leviticus_23_10-16 | **דבר אל בני ישראל ו/אמרת אל/הם כי תבאו אל ה/ארץ אשר אני נתן ל/כם ו/קצרתם את קציר/ה ו/הבאתם את עמר ראשית קציר/כם אל ה/כהן**; **ו/הניף את ה/עמר ל/פני יהוה ל/רצנ/כם מ/מחרת ה/שבת יניפ/נו ה/כהן**; **ו/לחם ו/קלי ו/כרמל לא תאכלו עד עצם ה/יום ה/זה עד הביא/כם את קרבן אלהי/כם חקת עולם ל/דרתי/כם ב/כל משבתי/כם**; **ו/ספרתם ל/כם מ/מחרת ה/שבת מ/יום הביא/כם את עמר ה/תנופה שבע שבתות תמימת תהיינה**; **עד מ/מחרת ה/שבת ה/שביעת תספרו חמשים יום ו/הקרבתם מנחה חדשה ל/יהוה** | La ofrenda del ómer, la prohibición relativa al grano nuevo y el conteo se expresan dentro de una instrucción cultual.    |
+| #numbers_6_2-5      | **איש או אשה כי יפלא ל/נדר נדר נזיר ל/הזיר ל/יהוה**; **מ/יין ו/שכר יזיר ... ו/ענבים לחים ו/יבשים לא יאכל**; **כל ימי נדר נזר/ו תער לא יעבר על ראש/ו ... קדש יהיה**                                                                                                                                                                                                                                                                                                       | El pasaje regula un voto voluntario de separación para יהוה y describe restricciones concretas durante su plazo.          |
 
 ## Leer un cómputo sin reemplazar el texto
 
@@ -251,6 +526,20 @@ Los títulos posteriores delimitan asuntos que merecen tratamiento contextual: q
 
 La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la lectura de la ofrenda de las primicias y del grano nuevo. Su discusión sobre fechas calendáricas, maduración de la cebada y la relación entre Pésaj y el ómer debe volver a #leviticus_23_9-16, antes de presentarse como una conclusión normativa. El pasaje contiene una instrucción cultual concreta; los calendarios, las reconstrucciones agrícolas y su aplicación contemporánea requieren fuentes y contexto adicionales.
 
+## El voto de nazir: separación regulada, no prestigio espiritual
+
+La sesión sobre la mitzvá 202 lee #numbers_6 como la regulación de un voto de nazir y llama la atención sobre su carácter voluntario. El texto abre el caso para «un hombre o una mujer» que haga un voto de nazir para separarse para יהוה (#numbers_6_2); luego especifica abstinencia de productos de la vid, el cabello sin cortar y la distancia de la impureza por un muerto (#numbers_6_3-8). La clase propone que esta separación no debe convertirse en exhibición de superioridad. Esa aplicación puede servir como examen ético, pero no debe confundirse con una explicación explícita del propósito del voto: el capítulo describe su procedimiento con mucho detalle y no desarrolla una motivación única para cada persona.
+
+La exposición también observa que el cierre del voto incluye ofrendas y la intervención sacerdotal (#numbers*6_13-20). Por ello, es más preciso decir que el rito tal como está regulado presupone santuario y sacerdocio, antes que convertir esa observación en una sentencia general sobre toda forma contemporánea de compromiso personal. Las relaciones etimológicas entre **(נזיר)**, **(נדר)** y **(נזר)**, así como las atribuciones a Rashi, Ibn Ezra y el tratado \_Nazir*, quedan como investigación pendiente: la transcripción automática no basta para establecerlas ni para reproducir sus formulaciones.
+
+## La segunda sección: alcances, condiciones y prudencia
+
+Las sesiones incorporadas continúan por la sección de prohibiciones (_lo ta'aseh_) y llegan hasta las mitzvot 363–365. La propia exposición distingue entre deberes públicos, deberes personales y casos condicionados por una situación, un cargo, la tierra, el santuario o una institución. Esa distinción es un buen punto de partida para no presentar el número «613» como una carga idéntica e indiferenciada para toda persona.
+
+También aparecen aplicaciones actuales sobre cuidado de los vulnerables, paz doméstica, trato a los animales, propiedad, justicia y límites del poder. Tales aplicaciones pueden abrir preguntas éticas, pero no sustituyen la exégesis: hay que identificar primero el referente, destinatario y procedimiento del texto de la Torah. Cuando la clase relaciona una instrucción con Yehoshua o con una práctica presente, la relación debe ser examinada como interpretación o aplicación, no atribuida automáticamente al sentido literal del pasaje.
+
+La sesión final vuelve a Devarim 17 y a las restricciones para el rey. El texto local debe ser leído como legislación situada antes de usar «caballos», riqueza o poder como equivalentes directos de realidades modernas. La cautela protege tanto el valor moral de la pregunta como la particularidad de la instrucción bíblica.
+
 ## Pendiente de verificar
 
 - [ ] Identificar las referencias bíblicas de cada mitzvá numerada en las sesiones y vincularlas con la nota canónica del capítulo correspondiente.
@@ -259,6 +548,8 @@ La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la 
 - [ ] Cotejar las transliteraciones y equivalencias hebreas que aparezcan en las transcripciones automáticas con ediciones y léxicos.
 - [ ] Examinar por separado los mandamientos dependientes de santuario, sacerdocio, tierra, autoridades o procedimientos judiciales.
 - [ ] Cotejar la lectura de las mitzvot 191–192 con #leviticus_23_9-16 y documentar las fuentes para las afirmaciones calendáricas y agrícolas de la clase.
+- [ ] Cotejar la terminología de #numbers*6 (en especial **(נזיר)**, **(נדר)** y **(נזר)**) y las atribuciones a Rashi, Ibn Ezra y el tratado \_Nazir* con fuentes textuales verificables.
+- [ ] Distinguir la regulación cultual de cierre del voto en #numbers_6_13-20 de cualquier aplicación contemporánea propuesta en la clase.
 
 ## Conclusión
 
@@ -330,4 +621,94 @@ El valor de esta serie está en hacer visible la amplitud de la Torah y en invit
 - [The "613" Mitzvot #118-120 Do not leave Pesach for "tomorrow"](https://www.youtube.com/watch?v=3X9vlwqU5Hg) — transcripción de trabajo: `private/transcripts/ericdejes/3X9vlwqU5Hg.md` (source_id: `youtube:3X9vlwqU5Hg`).
 - [Las 613 Mitzvot 126 - Mas acerca de Pésaj y el Séder](https://www.youtube.com/watch?v=LcEX_H-pdAs) — transcripción de trabajo: `private/transcripts/ericdejes/LcEX_H-pdAs.md` (source_id: `youtube:LcEX_H-pdAs`).
 - [Estudiando las "613" mitzvot #191-192 Conversando sobre Pésaj](https://www.youtube.com/watch?v=SeHY2afxDh0) — transcripción de trabajo: `private/transcripts/ericdejes/SeHY2afxDh0.md` (source_id: `youtube:SeHY2afxDh0`).
+- [Estudiando las "613" Mitzvot - No. 202 Sobre el voto de Nazir y otros similares](https://www.youtube.com/watch?v=jTmRIY77Twg) — transcripción de trabajo: `private/transcripts/ericdejes/jTmRIY77Twg.md` (source_id: `youtube:jTmRIY77Twg`).
+
+- [La "613" mitzvot (#77-79) Apartar lo tamé' del campamento y del altar](https://www.youtube.com/watch?v=6uI72fSkxOE) — transcripción de trabajo: `private/transcripts/ericdejes/6uI72fSkxOE.md` (source_id: `youtube:6uI72fSkxOE`).
+- [Las "613" mitzvot #101-102 Shalom-báyit Persiguiendo la paz](https://www.youtube.com/watch?v=WSuNB9r5fyY) — transcripción de trabajo: `private/transcripts/ericdejes/WSuNB9r5fyY.md` (source_id: `youtube:WSuNB9r5fyY`).
+- [Las "613" Mitzvot #103-107 Dios no puede ser burlado](https://www.youtube.com/watch?v=9OzErjDVBTw) — transcripción de trabajo: `private/transcripts/ericdejes/9OzErjDVBTw.md` (source_id: `youtube:9OzErjDVBTw`).
+- [Las "613" mitzvot #112-117 No aprovecharse de lo que es de YHWH](https://www.youtube.com/watch?v=wHVHLqbiO50) — transcripción de trabajo: `private/transcripts/ericdejes/wHVHLqbiO50.md` (source_id: `youtube:wHVHLqbiO50`).
+- [Las "613" Mitzvot #131-137 "Las intenciones se verifican"](https://www.youtube.com/watch?v=cPmY5G8d7mg) — transcripción de trabajo: `private/transcripts/ericdejes/cPmY5G8d7mg.md` (source_id: `youtube:cPmY5G8d7mg`).
+- [Las "613" Mitzvot #147-149 Lo que es de Yehoshúa' no vuelve atrás](https://www.youtube.com/watch?v=W8v3x0QRpm0) — transcripción de trabajo: `private/transcripts/ericdejes/W8v3x0QRpm0.md` (source_id: `youtube:W8v3x0QRpm0`).
+- [Las "613" Mitzvot #150 No comer el diezmo segundo estando tamé'](https://www.youtube.com/watch?v=8GZvHu8PDJc) — transcripción de trabajo: `private/transcripts/ericdejes/8GZvHu8PDJc.md` (source_id: `youtube:8GZvHu8PDJc`).
+- [Las "613" Mitzvot #151-153 No tomar lo sagrado para asuntos personales](https://www.youtube.com/watch?v=dkZ5cK4kAS0) — transcripción de trabajo: `private/transcripts/ericdejes/dkZ5cK4kAS0.md` (source_id: `youtube:dkZ5cK4kAS0`).
+- [Las "613" Mitzvot #158 La Kehunáh en Mashíaj](https://www.youtube.com/watch?v=NKY7tmRT4QU) — transcripción de trabajo: `private/transcripts/ericdejes/NKY7tmRT4QU.md` (source_id: `youtube:NKY7tmRT4QU`).
+- [Las "613" Mitzvot #159-161 La Kehunáh y la Toráh en Mashíaj](https://www.youtube.com/watch?v=zH-MNm-N4ug) — transcripción de trabajo: `private/transcripts/ericdejes/zH-MNm-N4ug.md` (source_id: `youtube:zH-MNm-N4ug`).
+- [Las "613" Mitzvot #162-168 Libertad para mayor comunión con Hashem: Las muertes del "yo"](https://www.youtube.com/watch?v=LsyxSQmzQsA) — transcripción de trabajo: `private/transcripts/ericdejes/LsyxSQmzQsA.md` (source_id: `youtube:LsyxSQmzQsA`).
+- [Las "613" mitzvot #170-173 "No debo hacerme daño, ni a los que me rodean"](https://www.youtube.com/watch?v=GZWnhQNxdio) — transcripción de trabajo: `private/transcripts/ericdejes/GZWnhQNxdio.md` (source_id: `youtube:GZWnhQNxdio`).
+- [Las "613" mitzvot #183-185 Minhag, Halajáh, Jidush, Kashrut y Jalal](https://www.youtube.com/watch?v=vSwEWAh9ngE) — transcripción de trabajo: `private/transcripts/ericdejes/vSwEWAh9ngE.md` (source_id: `youtube:vSwEWAh9ngE`).
+- [Las "613" mitzvot #186-188 Más sobre Kashrut y Jérem](https://www.youtube.com/watch?v=rJ9WbZ-YeT8) — transcripción de trabajo: `private/transcripts/ericdejes/rJ9WbZ-YeT8.md` (source_id: `youtube:rJ9WbZ-YeT8`).
+- [Las "613" Mitzvot #192 - 193 No usar lo dado por Dios con normas del mundo](https://www.youtube.com/watch?v=LXilKtQ-fhc) — transcripción de trabajo: `private/transcripts/ericdejes/LXilKtQ-fhc.md` (source_id: `youtube:LXilKtQ-fhc`).
+- [Las "613" mitzvot #220-229 Los primogénitos en la Yerushaláyim celestial](https://www.youtube.com/watch?v=mD5SJWM3sP0) — transcripción de trabajo: `private/transcripts/ericdejes/mD5SJWM3sP0.md` (source_id: `youtube:mD5SJWM3sP0`).
+- [Las "613" mitzvot #246-250 "NO rodar los límites"](https://www.youtube.com/watch?v=OO9gR0gvli8) — transcripción de trabajo: `private/transcripts/ericdejes/OO9gR0gvli8.md` (source_id: `youtube:OO9gR0gvli8`).
+- [Las "613" mitzvot #256-257 Sobre la servidumbre y la libertad](https://www.youtube.com/watch?v=5e7WzNIoudY) — transcripción de trabajo: `private/transcripts/ericdejes/5e7WzNIoudY.md` (source_id: `youtube:5e7WzNIoudY`).
+- [Las "613" Mitzvot #274-279 De los deberes de los jueces y autoridades](https://www.youtube.com/watch?v=Rirb5Mm1cKU) — transcripción de trabajo: `private/transcripts/ericdejes/Rirb5Mm1cKU.md` (source_id: `youtube:Rirb5Mm1cKU`).
+- [Las "613" mitzvot #290-293 Sobre la percepción y manejo de la justicia](https://www.youtube.com/watch?v=S_2yHVI1dsY) — transcripción de trabajo: `private/transcripts/ericdejes/S_2yHVI1dsY.md` (source_id: `youtube:S_2yHVI1dsY`).
+- [las "613" Mitzvot #301-303 Cuidados para con el amigo y el prójimo](https://www.youtube.com/watch?v=ojjJKtdQQuQ) — transcripción de trabajo: `private/transcripts/ericdejes/ojjJKtdQQuQ.md` (source_id: `youtube:ojjJKtdQQuQ`).
+- [Las "613" Mitzvot #311 Libertad en y para el matrimonio](https://www.youtube.com/watch?v=tCMc1i8DsiE) — transcripción de trabajo: `private/transcripts/ericdejes/tCMc1i8DsiE.md` (source_id: `youtube:tCMc1i8DsiE`).
+- [Las "613" Mitzvot #314 ¿Qué implica no añadir y no disminuir?](https://www.youtube.com/watch?v=KJi56hRdr20) — transcripción de trabajo: `private/transcripts/ericdejes/KJi56hRdr20.md` (source_id: `youtube:KJi56hRdr20`).
+- [Las "613" mitzvot #321 Acerca de viajar en Shabat](https://www.youtube.com/watch?v=eAMeBqrH4Ro) — transcripción de trabajo: `private/transcripts/ericdejes/eAMeBqrH4Ro.md` (source_id: `youtube:eAMeBqrH4Ro`).
+- [Las "613" Mitzvot #336-347 Sobre los límites de la sexualidad](https://www.youtube.com/watch?v=mKpKvJiTFcU) — transcripción de trabajo: `private/transcripts/ericdejes/mKpKvJiTFcU.md` (source_id: `youtube:mKpKvJiTFcU`).
+- [Las "613" mitzvot #40-44 Acerca de los tatuajes y el aspecto ante los demás](https://www.youtube.com/watch?v=eTFMmOdU4kQ) — transcripción de trabajo: `private/transcripts/ericdejes/eTFMmOdU4kQ.md` (source_id: `youtube:eTFMmOdU4kQ`).
+- [Las "613" Mitzvot #65-68 No destruir la reputación de Hashem](https://www.youtube.com/watch?v=vqHkW9sONfM) — transcripción de trabajo: `private/transcripts/ericdejes/vqHkW9sONfM.md` (source_id: `youtube:vqHkW9sONfM`).
+- [Las "613" mitzvot #91-96 La tmuráh y los ba'aléy mumin](https://www.youtube.com/watch?v=MPefG3AXsj0) — transcripción de trabajo: `private/transcripts/ericdejes/MPefG3AXsj0.md` (source_id: `youtube:MPefG3AXsj0`).
+- [Las "613" mitzvot #97-100 No mezclar lo qódesh con lo profano](https://www.youtube.com/watch?v=wiO3Oxc1bHA) — transcripción de trabajo: `private/transcripts/ericdejes/wiO3Oxc1bHA.md` (source_id: `youtube:wiO3Oxc1bHA`).
+- [Las "613" Mitzvot (142-147) NO comer fuera de El lugar, ni sin la sangre rociada...](https://www.youtube.com/watch?v=3lVCw8AOye4) — transcripción de trabajo: `private/transcripts/ericdejes/3lVCw8AOye4.md` (source_id: `youtube:3lVCw8AOye4`).
+- [Las "613" Mitzvot - #363-365 - FIN-](https://www.youtube.com/watch?v=E1eOXWfuQIA) — transcripción de trabajo: `private/transcripts/ericdejes/E1eOXWfuQIA.md` (source_id: `youtube:E1eOXWfuQIA`).
+- [Las "613" Mitzvot - 264 Parámetros interpretativos básicos](https://www.youtube.com/watch?v=KzeFAzs6skQ) — transcripción de trabajo: `private/transcripts/ericdejes/KzeFAzs6skQ.md` (source_id: `youtube:KzeFAzs6skQ`).
+- [Las "613" Mitzvot - 304-310 Libres para hacer el bien](https://www.youtube.com/watch?v=kpRmwbh7QEE) — transcripción de trabajo: `private/transcripts/ericdejes/kpRmwbh7QEE.md` (source_id: `youtube:kpRmwbh7QEE`).
+- [Las "613" mitzvot - La solidaridad y la cooperación](https://www.youtube.com/watch?v=whA0Rm1f4vE) — transcripción de trabajo: `private/transcripts/ericdejes/whA0Rm1f4vE.md` (source_id: `youtube:whA0Rm1f4vE`).
+- [Las "613" mitzvot 173-179 Acerca de la pureza, la santidad y la vida diaria](https://www.youtube.com/watch?v=8qyiOhRgdTU) — transcripción de trabajo: `private/transcripts/ericdejes/8qyiOhRgdTU.md` (source_id: `youtube:8qyiOhRgdTU`).
+- [Las "613" mitzvot: #265-268 acerca de la contemplación el atractivo y el capricho](https://www.youtube.com/watch?v=7S2dL7XAvkI) — transcripción de trabajo: `private/transcripts/ericdejes/7S2dL7XAvkI.md` (source_id: `youtube:7S2dL7XAvkI`).
+- [Las "613" mitzvot: 165-170 "La conciencia de un Kohén en Mashíaj"](https://www.youtube.com/watch?v=Qr5k6gJspSk) — transcripción de trabajo: `private/transcripts/ericdejes/Qr5k6gJspSk.md` (source_id: `youtube:Qr5k6gJspSk`).
+- [Las 613 mitzvot /Segunda sección: Lo' Ta'aséh #1-4](https://www.youtube.com/watch?v=0KIf2pmoseI) — transcripción de trabajo: `private/transcripts/ericdejes/0KIf2pmoseI.md` (source_id: `youtube:0KIf2pmoseI`).
+- [Las 613 Mitzvot #108-112 Respeta lo que es Qódesh](https://www.youtube.com/watch?v=BOeYBxe-7O8) — transcripción de trabajo: `private/transcripts/ericdejes/BOeYBxe-7O8.md` (source_id: `youtube:BOeYBxe-7O8`).
+- [Las 613 Mitzvot #126-129 acerca del tamé'](https://www.youtube.com/watch?v=Q0m91bFi99I) — transcripción de trabajo: `private/transcripts/ericdejes/Q0m91bFi99I.md` (source_id: `youtube:Q0m91bFi99I`).
+- [Las 613 Mitzvot #130](https://www.youtube.com/watch?v=qqicR0QF9xk) — transcripción de trabajo: `private/transcripts/ericdejes/qqicR0QF9xk.md` (source_id: `youtube:qqicR0QF9xk`).
+- [Las 613 mitzvot #15-20 acerca del amor, los persuasores y la idolatría](https://www.youtube.com/watch?v=v7LP_5ckq4k) — transcripción de trabajo: `private/transcripts/ericdejes/v7LP_5ckq4k.md` (source_id: `youtube:v7LP_5ckq4k`).
+- [las 613 Mitzvot #21-25 (Acerca de la apostasía y las sectas)](https://www.youtube.com/watch?v=bUQJsxITyEs) — transcripción de trabajo: `private/transcripts/ericdejes/bUQJsxITyEs.md` (source_id: `youtube:bUQJsxITyEs`).
+- [Las 613 mitzvot #33-39 Acerca de la prohibición de la adivinación y averiguar el futuro y lo oculto](https://www.youtube.com/watch?v=bqf29zdgUOI) — transcripción de trabajo: `private/transcripts/ericdejes/bqf29zdgUOI.md` (source_id: `youtube:bqf29zdgUOI`).
+- [Las 613 mitzvot #45-48 NO volver a Mitzráyim/Egipto ni dejarlo entrar](https://www.youtube.com/watch?v=VrXnhppON4Q) — transcripción de trabajo: `private/transcripts/ericdejes/VrXnhppON4Q.md` (source_id: `youtube:VrXnhppON4Q`).
+- [Las 613 mitzvot #53-55 No aborrecerás...](https://www.youtube.com/watch?v=tHbhVMb1hSs) — transcripción de trabajo: `private/transcripts/ericdejes/tHbhVMb1hSs.md` (source_id: `youtube:tHbhVMb1hSs`).
+- [Las 613 Mitzvot #56-61 Honrando el nombre](https://www.youtube.com/watch?v=649tiM1KaeE) — transcripción de trabajo: `private/transcripts/ericdejes/649tiM1KaeE.md` (source_id: `youtube:649tiM1KaeE`).
+- [Las 613 Mitzvot #65-68 Vigilar la guardia de la santidad](https://www.youtube.com/watch?v=vr8FjJtnWLo) — transcripción de trabajo: `private/transcripts/ericdejes/vr8FjJtnWLo.md` (source_id: `youtube:vr8FjJtnWLo`).
+- [Las 613 mitzvot #69-76 La honestidad como parte del servicio a YHWH](https://www.youtube.com/watch?v=v_OlXqqd9dE) — transcripción de trabajo: `private/transcripts/ericdejes/v_OlXqqd9dE.md` (source_id: `youtube:v_OlXqqd9dE`).
+- [Las 613 mitzvot #87-90 No romper lo que está unido, no unir lo que está separado](https://www.youtube.com/watch?v=3blo2f3tVhg) — transcripción de trabajo: `private/transcripts/ericdejes/3blo2f3tVhg.md` (source_id: `youtube:3blo2f3tVhg`).
+- [Las 613 Mitzvot (138-141) No "comer" to'eváh ni cosas prohibidas](https://www.youtube.com/watch?v=gV0UxnfkdCo) — transcripción de trabajo: `private/transcripts/ericdejes/gV0UxnfkdCo.md` (source_id: `youtube:gV0UxnfkdCo`).
+- [The "613" Mitzvot #180-182 You are a holy people to YHWH your 'Elohim](https://www.youtube.com/watch?v=wfy27PxrxVk) — transcripción de trabajo: `private/transcripts/ericdejes/wfy27PxrxVk.md` (source_id: `youtube:wfy27PxrxVk`).
+- [The "613" Mitzvot #193-195 On Objectivity and Subjectivity in Torah Study](https://www.youtube.com/watch?v=Cpon0ujv7Vc) — transcripción de trabajo: `private/transcripts/ericdejes/Cpon0ujv7Vc.md` (source_id: `youtube:Cpon0ujv7Vc`).
+- [The "613" Mitzvot #229-232 Hishamer lecha (Beware of Yourself) Solidarity and Financial Intelligence](https://www.youtube.com/watch?v=I8y1r1SuDBU) — transcripción de trabajo: `private/transcripts/ericdejes/I8y1r1SuDBU.md` (source_id: `youtube:I8y1r1SuDBU`).
+- [The "613" Mitzvot #250-255 You shall not harm your 'Amit or anyone else](https://www.youtube.com/watch?v=q1iTAj6JCSs) — transcripción de trabajo: `private/transcripts/ericdejes/q1iTAj6JCSs.md` (source_id: `youtube:q1iTAj6JCSs`).
+- [The "613" Mitzvot #258-262 NO to cruelty!](https://www.youtube.com/watch?v=CJuw_R66JYM) — transcripción de trabajo: `private/transcripts/ericdejes/CJuw_R66JYM.md` (source_id: `youtube:CJuw_R66JYM`).
+- [The "613" Mitzvot #269-273 The character of God: Solidarity, management, diligence, duty to be](https://www.youtube.com/watch?v=wCCor0zxs_Y) — transcripción de trabajo: `private/transcripts/ericdejes/wCCor0zxs_Y.md` (source_id: `youtube:wCCor0zxs_Y`).
+- [The "613" Mitzvot #280-283 Biblical Judicial Culture](https://www.youtube.com/watch?v=hJLQF_pd3Yo) — transcripción de trabajo: `private/transcripts/ericdejes/hJLQF_pd3Yo.md` (source_id: `youtube:hJLQF_pd3Yo`).
+- [The "613" Mitzvot #284-285 Confidence to be and make disciples and judges](https://www.youtube.com/watch?v=rNMZ0kiRkCM) — transcripción de trabajo: `private/transcripts/ericdejes/rNMZ0kiRkCM.md` (source_id: `youtube:rNMZ0kiRkCM`).
+- [The "613" Mitzvot #288-290 On Testimonies and Condemnations](https://www.youtube.com/watch?v=uY3ovSzArA0) — transcripción de trabajo: `private/transcripts/ericdejes/uY3ovSzArA0.md` (source_id: `youtube:uY3ovSzArA0`).
+- [The "613" Mitzvot #294-296 About the Kofer and Penal Surrogates](https://www.youtube.com/watch?v=H1ylXNPpFHY) — transcripción de trabajo: `private/transcripts/ericdejes/H1ylXNPpFHY.md` (source_id: `youtube:H1ylXNPpFHY`).
+- [The "613" mitzvot #297-299 honor, protect, and act for life](https://www.youtube.com/watch?v=QKvtmcT1fac) — transcripción de trabajo: `private/transcripts/ericdejes/QKvtmcT1fac.md` (source_id: `youtube:QKvtmcT1fac`).
+- [The "613" Mitzvot #300 Proportionality, Purposes, and Functions of Punishment](https://www.youtube.com/watch?v=YrWRMcnDfpo) — transcripción de trabajo: `private/transcripts/ericdejes/YrWRMcnDfpo.md` (source_id: `youtube:YrWRMcnDfpo`).
+- [The "613" Mitzvot #312 The Continuity of Authority in God's Kingdom](https://www.youtube.com/watch?v=4SrWQqG4Blg) — transcripción de trabajo: `private/transcripts/ericdejes/4SrWQqG4Blg.md` (source_id: `youtube:4SrWQqG4Blg`).
+- [The "613" Mitzvot #313 What does it mean to "neither add nor take away"? Part 1](https://www.youtube.com/watch?v=z71W8INXgcQ) — transcripción de trabajo: `private/transcripts/ericdejes/z71W8INXgcQ.md` (source_id: `youtube:z71W8INXgcQ`).
+- [The "613" Mitzvot #319-320 The Measures of Divine Justice and Grace](https://www.youtube.com/watch?v=Rx7RVcJJ3p4) — transcripción de trabajo: `private/transcripts/ericdejes/Rx7RVcJJ3p4.md` (source_id: `youtube:Rx7RVcJJ3p4`).
+- [The "613" Mitzvot #322-323 About Burning and Cooking on Shabbat](https://www.youtube.com/watch?v=GYs3HOz9j1k) — transcripción de trabajo: `private/transcripts/ericdejes/GYs3HOz9j1k.md` (source_id: `youtube:GYs3HOz9j1k`).
+- [The "613" Mitzvot #324-326 About Mela'chah and Shabbat Days](https://www.youtube.com/watch?v=pbymahRm2sE) — transcripción de trabajo: `private/transcripts/ericdejes/pbymahRm2sE.md` (source_id: `youtube:pbymahRm2sE`).
+- [The "613" Mitzvot #348 - The Dimensions of Sin and Sexuality](https://www.youtube.com/watch?v=H57cvpIx8kg) — transcripción de trabajo: `private/transcripts/ericdejes/H57cvpIx8kg.md` (source_id: `youtube:H57cvpIx8kg`).
+- [The "613" Mitzvot #349-350 He is never present in the world](https://www.youtube.com/watch?v=AM9pzarLGrg) — transcripción de trabajo: `private/transcripts/ericdejes/AM9pzarLGrg.md` (source_id: `youtube:AM9pzarLGrg`).
+- [The "613" Mitzvot #351-355 On the Limits of Those Who Are Members of God's Family](https://www.youtube.com/watch?v=tQyjq-oGUmo) — transcripción de trabajo: `private/transcripts/ericdejes/tQyjq-oGUmo.md` (source_id: `youtube:tQyjq-oGUmo`).
+- [The "613" Mitzvot #356 - More about the Sefer Kritut](https://www.youtube.com/watch?v=jtBOGgvmma8) — transcripción de trabajo: `private/transcripts/ericdejes/jtBOGgvmma8.md` (source_id: `youtube:jtBOGgvmma8`).
+- [The "613" Mitzvot #359 Final Part on Relationships and Marriage](https://www.youtube.com/watch?v=QemIRx0s8iY) — transcripción de trabajo: `private/transcripts/ericdejes/QemIRx0s8iY.md` (source_id: `youtube:QemIRx0s8iY`).
+- [The "613" Mitzvot 207-2016: Confidence, Contentment, and Preservation](https://www.youtube.com/watch?v=pntt_-sbqR8) — transcripción de trabajo: `private/transcripts/ericdejes/pntt_-sbqR8.md` (source*id: `youtube:pntt*-sbqR8`).
+- [The "613" Mitzvot 216-220 About the Projection of Literalness](https://www.youtube.com/watch?v=l9gnphg_s3M) — transcripción de trabajo: `private/transcripts/ericdejes/l9gnphg_s3M.md` (source_id: `youtube:l9gnphg_s3M`).
+- [The "613" mitzvot: #240-246 "You shall not steal"](https://www.youtube.com/watch?v=f3rTNdNvdec) — transcripción de trabajo: `private/transcripts/ericdejes/f3rTNdNvdec.md` (source_id: `youtube:f3rTNdNvdec`).
+- [The "613" Mitzvot: #357-358 Complex Cases](https://www.youtube.com/watch?v=Dz0ApIrg29I) — transcripción de trabajo: `private/transcripts/ericdejes/Dz0ApIrg29I.md` (source_id: `youtube:Dz0ApIrg29I`).
+- [The "613" Mitzvot: 198-201 Regarding Disqualifications and the Change of Priesthood](https://www.youtube.com/watch?v=Nu_vdrQRgMw) — transcripción de trabajo: `private/transcripts/ericdejes/Nu_vdrQRgMw.md` (source_id: `youtube:Nu_vdrQRgMw`).
+- [THE "613· mITZVOT #320 The works on Shabbat](https://www.youtube.com/watch?v=JyRL2kDG2aI) — transcripción de trabajo: `private/transcripts/ericdejes/JyRL2kDG2aI.md` (source_id: `youtube:JyRL2kDG2aI`).
+- [The 613 Mitzvot #121-126 Do Not Break the Bone of the Lamb](https://www.youtube.com/watch?v=MRkB0EIv5oU) — transcripción de trabajo: `private/transcripts/ericdejes/MRkB0EIv5oU.md` (source_id: `youtube:MRkB0EIv5oU`).
+- [The 613 Mitzvot #30-32 Do not follow the patterns of the world](https://www.youtube.com/watch?v=QpjcE4tHgWQ) — transcripción de trabajo: `private/transcripts/ericdejes/QpjcE4tHgWQ.md` (source_id: `youtube:QpjcE4tHgWQ`).
+- [The 613 Mitzvot #315-316 About the Honor of Leadership](https://www.youtube.com/watch?v=uc7MeIrTfWE) — transcripción de trabajo: `private/transcripts/ericdejes/uc7MeIrTfWE.md` (source_id: `youtube:uc7MeIrTfWE`).
+- [The 613 Mitzvot #49-52 Beware of the Nations of Kana'an](https://www.youtube.com/watch?v=_mqRapap5WQ) — transcripción de trabajo: `private/transcripts/ericdejes/_mqRapap5WQ.md` (source_id: `youtube:_mqRapap5WQ`).
+- [The 613 Mitzvot #62-64 The Prohibition of Chillul Hashem](https://www.youtube.com/watch?v=zlyIOzaPh5o) — transcripción de trabajo: `private/transcripts/ericdejes/zlyIOzaPh5o.md` (source_id: `youtube:zlyIOzaPh5o`).
+- [The 613 Mitzvot #80-86 Reverence and Respect for the Altar](https://www.youtube.com/watch?v=Ac26liOpDrM) — transcripción de trabajo: `private/transcripts/ericdejes/Ac26liOpDrM.md` (source_id: `youtube:Ac26liOpDrM`).
+- [The 613 Mitzvot (#9-14) About Idolatry and the Like](https://www.youtube.com/watch?v=yWl1pEEHqoA) — transcripción de trabajo: `private/transcripts/ericdejes/yWl1pEEHqoA.md` (source_id: `youtube:yWl1pEEHqoA`).
+- [The 613 Mitzvot (Section Two: Thou Shalt Not #5-8) About Idolatry and Demon Possession](https://www.youtube.com/watch?v=94Uum8S5pe4) — transcripción de trabajo: `private/transcripts/ericdejes/94Uum8S5pe4.md` (source_id: `youtube:94Uum8S5pe4`).
+- [The “613” mitzvot (154-157) “you shall not delay”](https://www.youtube.com/watch?v=hMHVR1KkTOE) — transcripción de trabajo: `private/transcripts/ericdejes/hMHVR1KkTOE.md` (source_id: `youtube:hMHVR1KkTOE`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
