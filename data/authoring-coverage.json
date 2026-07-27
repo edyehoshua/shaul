@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 651,
-  "pending_videos": 307,
-  "transcript_notes": 272,
+  "covered_videos": 655,
+  "pending_videos": 303,
+  "transcript_notes": 273,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -123,7 +123,7 @@
     },
     "Sobre el Shabat": {
       "total": 4,
-      "covered": 0,
+      "covered": 4,
       "lane": "yojanan"
     },
     "Tehilim/Himnos/Salmos": {
