@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 241,
+  "total_notes_requiring_remediation": 240,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -294,16 +294,6 @@
       "issues": ["under_300_substantive_words"]
     },
 
-    {
-      "path": "content/besorah/yojanan_2_senales_celo_y_santuario.md",
-      "substantive_words": 220,
-      "thematic_sections": [
-        "La señal no se agota en el prodigio",
-        "Celo, casa y santuario",
-        "«En tres días lo levantaré»"
-      ],
-      "issues": ["under_300_substantive_words"]
-    },
     {
       "path": "content/besorah/yojanan_3_nacer_de_arriba_y_testimonio.md",
       "substantive_words": 200,

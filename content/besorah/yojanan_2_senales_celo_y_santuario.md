@@ -40,6 +40,7 @@ La clase 7 de Eric de Jesús Rodríguez Mendoza sigue #iojanan_2_1-25, con atenc
 | #iojanan_2_16    | TTH: «No hagan la casa de mi Padre por casa de comercio».                                                                                 | La palabra interpreta el gesto dentro del relato.         |
 | #iojanan_2_19    | TTH: «Desaten este Hejal, y en tres días lo levantaré»; Delitzsch: **הרסו את ההיכל הזה ואני בשלשת ימים אקימנו**.                          | La respuesta queda ligada al santuario y a los tres días. |
 | #iojanan_2_21-22 | TTH: «Él hablaba acerca del Hejal de su cuerpo»; después los discípulos recordaron y «se afirmaron por la Escritura».                     | El narrador entrega la aclaración retrospectiva.          |
+| #iojanan_2_23-25 | TTH: «muchos se afirmaron por su Nombre»; pero Yehoshua «no era afirmado su ser por ellos, porque Él los conocía a todos».                | El cierre distingue ver señales de la reciprocidad que el relato atribuye a Yehoshua. |
 
 ## La señal no se agota en el prodigio
 
@@ -53,6 +54,15 @@ Eric vuelve sobre la traducción de la respuesta de los discípulos en #iojanan_
 
 La secuencia del capítulo también importa: la comprensión plena no se atribuye a la primera impresión producida por el gesto, sino al recuerdo posterior a la resurrección (#iojanan_2_22). Así, el pasaje no pide que la comunidad fabrique sentidos ocultos a partir de una señal; muestra a los discípulos volviendo a la Escritura y a la palabra de Yehoshua. La mención de #ieshaiahu_11_3 en la clase, acerca de discernir más allá de la apariencia, puede iluminar su énfasis pastoral, pero no sustituye esta explicación del propio relato.
 
+## Hoja léxica
+
+| Forma | Transliteración | Sentido habitual | Fuerza en este capítulo | Equivalencia y límite |
+| --- | --- | --- | --- | --- |
+| **(σημεῖον)** | semeion | señal | En #iojanan_2_11 y #iojanan_2_23 no designa sólo un hecho admirable: el narrador la vincula con gloria y con la respuesta de quienes la ven. | «Señal» es una traducción aproximada y suficiente aquí; no convierte cada detalle de Caná en un código independiente. |
+| **(πιστεύω)** | pisteuo | confiar, creer, afirmarse | La repetición en #iojanan_2_11, #iojanan_2_22 y #iojanan_2_23-24 sostiene la observación de Eric sobre una respuesta que involucra fidelidad; el contraste final impide tratarla como una reacción automática a lo visible. | La relación pedagógica con **(אמן)**, *aman*, «ser firme/fiel», no es una equivalencia léxica exacta entre el griego y el hebreo. |
+| **(ναός)** | naos | santuario, recinto sagrado | En #iojanan_2_19-21 la pregunta sobre el edificio recibe la aclaración narrativa: Yehoshua hablaba del santuario de su cuerpo. | Delitzsch usa **(היכל)**, *hejal*, «santuario/palacio». Es una traducción hebrea del griego, no prueba de que las formas sean idénticas. |
+| **(δόξα)** | doxa | gloria, honra manifiesta | #iojanan_2_11 define el resultado de Caná antes de explicar sus posibles figuras: la señal hace visible la gloria de Yehoshua. | «Gloria» traduce de modo aproximado; no debe reducirse a prestigio humano ni identificarse sin resto con **(כבוד)**, *kavod*. |
+
 ## Celo, casa y santuario
 
 En #iojanan_2_13-17 Yehoshua expulsa del recinto a quienes comercian y sus discípulos recuerdan #tehilim_69_9. La clase relaciona este gesto con la santidad del lugar y con el peligro de que una práctica destinada al acercamiento a Elohim se convierta en ocasión de beneficio. El texto permite afirmar con seguridad que la acción protesta contra hacer de la casa del Padre una casa de comercio.
@@ -64,6 +74,12 @@ La clase describe cambistas, animales y costos como un marco para entender el re
 La conversación de #iojanan_2_18-22 no autoriza a sustituir sin más el sentido inmediato de «santuario» por una explicación ajena al pasaje. El propio narrador indica después que Yehoshua hablaba del santuario de su cuerpo y que los discípulos recordaron sus palabras. Esa aclaración literaria debe guiar la lectura antes de añadir asociaciones posteriores.
 
 Eric entiende la expulsión de los animales y el vuelco de las mesas como una señal pedagógica que anticipa una relación renovada alrededor de Yehoshua. La nota conserva esa línea como interpretación de la clase, no como una conclusión que el texto formule con esas palabras. El dato explícito es más sobrio y suficiente: quienes piden una señal reciben una palabra sobre el Hejal, y el narrador conecta esa palabra con el cuerpo de Yehoshua y su levantamiento.
+
+## Señales vistas y el conocimiento de Yehoshua
+
+La última unidad (#iojanan_2_23-25) vuelve al vocabulario de las señales y de la afirmación. Eric la conecta con su advertencia de #ieshaiahu_11_3: no juzgar sólo por lo que se percibe externamente. En el propio capítulo, muchos responden a las señales «por su Nombre», pero Yehoshua conoce a todos y no se confía a ellos. La observación de la clase no es que toda respuesta sea falsa; es que el relato conserva una diferencia entre el efecto público de una señal y el conocimiento que Yehoshua tiene del ser humano.
+
+Esto completa el recorrido en orden: Caná manifiesta gloria (#iojanan_2_1-11); la subida en Pésaj conduce a la palabra sobre la casa del Padre y el santuario (#iojanan_2_13-22); finalmente, las señales en Yerushaláim suscitan respuesta sin que el narrador presente esa respuesta como criterio suficiente para conocer el corazón (#iojanan_2_23-25). La conexión con Isaías sirve como énfasis de la enseñanza de Eric, mientras que la base textual de esta conclusión está en la distinción explícita de Yojanán.
 
 ## Pendiente de verificar
 
