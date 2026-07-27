@@ -26,6 +26,13 @@ references:
   - "#galatim_3_16"
 sources:
   - "docs/benhaelohim.md"
+  - "https://www.youtube.com/watch?v=mk_M2v6H_3k"
+  - "private/transcripts/ericdejes/mk_M2v6H_3k.md"
+  - "https://www.youtube.com/watch?v=L_6X4-WsETE"
+  - "private/transcripts/ericdejes/L_6X4-WsETE.md"
+source_ids:
+  - "youtube:mk_M2v6H_3k"
+  - "youtube:L_6X4-WsETE"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -35,7 +42,7 @@ La enseñanza de la transcripción no usa "hijo" ni "hombre" como etiquetas suel
 
 ## Ruta del argumento
 
-La primera parte de la transcripción deja establecido que la naturaleza humana, después del pecado, queda marcada por muerte, corrupción, enemistad y destitución de la gloria de Elohim. Esa base importa porque la segunda parte pregunta qué significa entonces llamar al Mesías "hombre" o hablar de los "hijos" que Elohim le dio.
+La primera clase de la serie deja establecido que la naturaleza humana, después del pecado, queda marcada por muerte, corrupción, enemistad y destitución de la gloria de Elohim. Esa base importa porque la segunda clase pregunta qué significa entonces llamar al Mesías "hombre" o hablar de los "hijos" que Elohim le dio.
 
 La respuesta propuesta es distinguir entre adam como designación amplia de una entidad viviente racional y la condición actual del humano caído. No todo adam es idéntico a nuestra condición presente. Hay un primer adam del polvo y un segundo Adam de arriba del cielo.
 
@@ -55,23 +62,23 @@ La respuesta propuesta es distinguir entre adam como designación amplia de una 
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (sin nikud) | TTH (ES) | Función en la enseñanza |
-| --- | --- | --- | --- |
-| #bereshit_1_26 | ו/יאמר אלהים נעשה אדם ב/צלמ/נו כ/דמות/נו… | Y dijo Elohim: Haremos al hombre en nuestra imagen… | Adam como categoría previa a la caída. |
-| #bereshit_1_27 | ו/יברא אלהים את ה/אדם ב/צלמ/ו… זכר ו/נקבה ברא את/ם | Y creó Elohim al hombre en su imagen… varón y hembra los creó. | Entidad viviente distinta de los animales. |
-| #bereshit_2_7 | ו/ייצר יהוה אלהים את ה/אדם עפר מן ה/אדמה… ו/יהי ה/אדם ל/נפש חיה | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente. |
-| #bereshit_2_16 | ו/יצו יהוה אלהים על ה/אדם ל/אמר מ/כל עץ ה/גן אכל תאכל | Y ordenó יהוה Elohim al hombre… | Lectura de «este adam» por el artículo. |
-| #qorintiyim_alef_15_44 | יזרע גוף נפשי ויקום גוף רוחני… | TTH no disponible en corpus local | Cuerpo psychikon y pneumatikon. |
-| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה | TTH no disponible en corpus local | Primer Adam y postrer Adam. |
-| #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים | TTH no disponible en corpus local | Origen terrenal y celestial. |
-| #qorintiyim_alef_15_50 | וזאת אני אמר אחי כיבשר ודם לאיוכל לרשת אתמלכות האלהים… | TTH no disponible en corpus local | Carne y sangre no heredan el reino. |
-| #iojanan_3_31 | הבא ממרום רם הוא מכל… הבא משמים רם הוא עלכל | El que de arriba viene, sobre todo es… | Procedencia celestial del Mesías. |
-| #iojanan_3_36 | מי אשר יאמין בבן ישלו חיי עולם… | El que se afirma por el Hijo, habrá para él vida olam… | Filiación unida a vida. |
-| #iojanan_8_42 | ויאמר אליהם ישוע… מאת אלהים יצאתי ומאתו באתי… | …Yo de Elohim he salido, y he venido… | Procedencia divina del Mesías. |
-| #ivrim_2_13 | ואומר וקויתי לו ועוד הנה אנכי והילדים אשר נתןלי יהוה | TTH no disponible en corpus local | Los hijos dados al Mesías. |
-| #ivrim_2_14 | ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם כמוהם | TTH no disponible en corpus local | Compartir carne y sangre; ponerse junto a los hijos. |
-| #ivrim_2_17 | עלכן צריך היה לו להדמות לאחיו בכלדבר… | TTH no disponible en corpus local | Semejanza por padecimiento, no por pecado. |
-| #galatim_3_16 | והנה לאברהם נאמרו ההבטחות ולזרעו… והוא המשיח | TTH no disponible en corpus local | La simiente es el Mesías. |
+| Referencia             | Hebreo (sin nikud)                                              | TTH (ES)                                                        | Función en la enseñanza                              |
+| ---------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------- |
+| #bereshit_1_26         | ו/יאמר אלהים נעשה אדם ב/צלמ/נו כ/דמות/נו…                       | Y dijo Elohim: Haremos al hombre en nuestra imagen…             | Adam como categoría previa a la caída.               |
+| #bereshit_1_27         | ו/יברא אלהים את ה/אדם ב/צלמ/ו… זכר ו/נקבה ברא את/ם              | Y creó Elohim al hombre en su imagen… varón y hembra los creó.  | Entidad viviente distinta de los animales.           |
+| #bereshit_2_7          | ו/ייצר יהוה אלהים את ה/אדם עפר מן ה/אדמה… ו/יהי ה/אדם ל/נפש חיה | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente.                |
+| #bereshit_2_16         | ו/יצו יהוה אלהים על ה/אדם ל/אמר מ/כל עץ ה/גן אכל תאכל           | Y ordenó יהוה Elohim al hombre…                                 | Lectura de «este adam» por el artículo.              |
+| #qorintiyim_alef_15_44 | יזרע גוף נפשי ויקום גוף רוחני…                                  | TTH no disponible en corpus local                               | Cuerpo psychikon y pneumatikon.                      |
+| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה     | TTH no disponible en corpus local                               | Primer Adam y postrer Adam.                          |
+| #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים      | TTH no disponible en corpus local                               | Origen terrenal y celestial.                         |
+| #qorintiyim_alef_15_50 | וזאת אני אמר אחי כיבשר ודם לאיוכל לרשת אתמלכות האלהים…          | TTH no disponible en corpus local                               | Carne y sangre no heredan el reino.                  |
+| #iojanan_3_31          | הבא ממרום רם הוא מכל… הבא משמים רם הוא עלכל                     | El que de arriba viene, sobre todo es…                          | Procedencia celestial del Mesías.                    |
+| #iojanan_3_36          | מי אשר יאמין בבן ישלו חיי עולם…                                 | El que se afirma por el Hijo, habrá para él vida olam…          | Filiación unida a vida.                              |
+| #iojanan_8_42          | ויאמר אליהם ישוע… מאת אלהים יצאתי ומאתו באתי…                   | …Yo de Elohim he salido, y he venido…                           | Procedencia divina del Mesías.                       |
+| #ivrim_2_13            | ואומר וקויתי לו ועוד הנה אנכי והילדים אשר נתןלי יהוה            | TTH no disponible en corpus local                               | Los hijos dados al Mesías.                           |
+| #ivrim_2_14            | ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם כמוהם         | TTH no disponible en corpus local                               | Compartir carne y sangre; ponerse junto a los hijos. |
+| #ivrim_2_17            | עלכן צריך היה לו להדמות לאחיו בכלדבר…                           | TTH no disponible en corpus local                               | Semejanza por padecimiento, no por pecado.           |
+| #galatim_3_16          | והנה לאברהם נאמרו ההבטחות ולזרעו… והוא המשיח                    | TTH no disponible en corpus local                               | La simiente es el Mesías.                            |
 
 ## Adam no es solo nombre propio
 
@@ -109,13 +116,13 @@ La transcripción pide leer "hombre", "hijo" y "simiente" desde el hilo interno 
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Midrash / Tanaj | Primer y postrer Adam | Marco de #qorintiyim_alef_15_44-47 | Pendiente de verificar |
-| Targum / arameo | **(בר אנש)** y títulos mesiánicos | Trasfondo de «Hijo de Hombre» | Pendiente de verificar |
-| BDB / Jastrow | אדם, בן, זרע | Apoyo léxico de la hoja léxica | Pendiente de verificar |
-| #bereshit_1_26-27 | Creación del adam | Categoría de entidad viviente | Cotejado |
-| #galatim_3_16 | Promesa a la simiente | Unidad viviente portadora de promesa | Cotejado (Delitzsch) |
+| Fuente            | Referencia                        | Uso en la nota                       | Estado                 |
+| ----------------- | --------------------------------- | ------------------------------------ | ---------------------- |
+| Midrash / Tanaj   | Primer y postrer Adam             | Marco de #qorintiyim_alef_15_44-47   | Pendiente de verificar |
+| Targum / arameo   | **(בר אנש)** y títulos mesiánicos | Trasfondo de «Hijo de Hombre»        | Pendiente de verificar |
+| BDB / Jastrow     | אדם, בן, זרע                      | Apoyo léxico de la hoja léxica       | Pendiente de verificar |
+| #bereshit_1_26-27 | Creación del adam                 | Categoría de entidad viviente        | Cotejado               |
+| #galatim_3_16     | Promesa a la simiente             | Unidad viviente portadora de promesa | Cotejado (Delitzsch)   |
 
 ## Pendiente de verificar
 
@@ -129,3 +136,10 @@ La transcripción pide leer "hombre", "hijo" y "simiente" desde el hilo interno 
 - [Bat Kol: Hijo, Siervo y Testimonio](bat_kol)
 - [Yojanan 1: meymrá, vida y tabernáculo](../besorah/yojanan_1)
 - [Yojanán 9: el Ben Adam y el ciego](../besorah/yojanan_9_ben_adam_y_el_ciego)
+
+## Créditos
+
+Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
+
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 1 La problemática del pecado» — <https://www.youtube.com/watch?v=mk_M2v6H_3k> — transcripción: `private/transcripts/ericdejes/mk_M2v6H_3k.md` — source_id: `youtube:mk_M2v6H_3k`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 2 El concepto de Hombre y la naturaleza de Mashíaj» — <https://www.youtube.com/watch?v=L_6X4-WsETE> — transcripción: `private/transcripts/ericdejes/L_6X4-WsETE.md` — source_id: `youtube:L_6X4-WsETE`.
