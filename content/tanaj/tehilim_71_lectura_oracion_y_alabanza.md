@@ -12,7 +12,6 @@ references:
   - "#tehilim_71_24"
 sources:
   - "https://www.youtube.com/watch?v=1BbSEuvctt8"
-  - "private/transcripts/ericdejes/1BbSEuvctt8.md"
   - "docs/scriptures/oe/json/psalms/71.json"
 source_ids:
   - "youtube:1BbSEuvctt8"
@@ -52,5 +51,5 @@ La lectura de Tehilim 71 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 71» — <https://www.youtube.com/watch?v=1BbSEuvctt8> — transcripción: `private/transcripts/ericdejes/1BbSEuvctt8.md` — source_id: `youtube:1BbSEuvctt8`.
+- «Tehilim/Himnos/Salmo Cap 71» — <https://www.youtube.com/watch?v=1BbSEuvctt8> — source_id: `youtube:1BbSEuvctt8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

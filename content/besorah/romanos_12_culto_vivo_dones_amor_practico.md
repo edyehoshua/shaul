@@ -11,7 +11,6 @@ references:
   - "#romanos_12_21"
 sources:
   - "https://www.youtube.com/watch?v=8z-3MkpomOo"
-  - "private/transcripts/ericdejes/8z-3MkpomOo.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:8z-3MkpomOo"
@@ -62,5 +61,5 @@ Romanos 12 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 28) El patrón de la fidelidad](https://www.youtube.com/watch?v=8z-3MkpomOo) — transcripción de trabajo: `private/transcripts/ericdejes/8z-3MkpomOo.md` (source_id: `youtube:8z-3MkpomOo`).
+- [La carta a los romanos (parte 28) El patrón de la fidelidad](https://www.youtube.com/watch?v=8z-3MkpomOo) (source_id: `youtube:8z-3MkpomOo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

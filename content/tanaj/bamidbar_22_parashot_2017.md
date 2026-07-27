@@ -9,7 +9,6 @@ references:
   - "#bamidbar_22_1"
 sources:
   - "https://www.youtube.com/watch?v=qKWysdkjyQQ"
-  - "private/transcripts/ericdejes/qKWysdkjyQQ.md"
   - "docs/scriptures/oe/json/numbers/22.json"
 source_ids:
   - "youtube:qKWysdkjyQQ"
@@ -48,5 +47,5 @@ Bamidbar 22 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Balaq (2017): Venced con el bien al mal](https://www.youtube.com/watch?v=qKWysdkjyQQ) — transcripción de trabajo: `private/transcripts/ericdejes/qKWysdkjyQQ.md` (source_id: `youtube:qKWysdkjyQQ`).
+- [Parashat Balaq (2017): Venced con el bien al mal](https://www.youtube.com/watch?v=qKWysdkjyQQ) (source_id: `youtube:qKWysdkjyQQ`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

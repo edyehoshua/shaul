@@ -6,7 +6,6 @@ tags: [tanaj, amos, haftarah, qedoshim]
 references: ["#amos_9_11"]
 sources:
   - "https://www.youtube.com/watch?v=R2_RYABc2AI"
-  - "private/transcripts/ericdejes/R2_RYABc2AI.md"
   - "docs/scriptures/oe/json/amos/9.json"
 source_ids: ["youtube:R2_RYABc2AI"]
 ---
@@ -36,5 +35,5 @@ La tienda de David aparece como imagen de restauración después del juicio; lee
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Qedoshim (2018): La 'Agudáh](https://www.youtube.com/watch?v=R2_RYABc2AI) — transcripción: `private/transcripts/ericdejes/R2_RYABc2AI.md` — source_id: `youtube:R2_RYABc2AI`.
+- Video: [Haftaráh de Qedoshim (2018): La 'Agudáh](https://www.youtube.com/watch?v=R2_RYABc2AI) — source_id: `youtube:R2_RYABc2AI`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

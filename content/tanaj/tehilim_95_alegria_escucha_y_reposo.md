@@ -13,7 +13,6 @@ references:
   - "#tehilim_95_8-11"
 sources:
   - "https://www.youtube.com/watch?v=XfQpO73ebKA"
-  - "private/transcripts/ericdejes/XfQpO73ebKA.md"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
   - "youtube:XfQpO73ebKA"
@@ -60,4 +59,4 @@ El cierre conserva el juramento divino acerca del reposo (#tehilim_95_11). La cl
 
 Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Psalms/Hymns/Psalm Ch. 95» — <https://www.youtube.com/watch?v=XfQpO73ebKA> — transcripción: `private/transcripts/ericdejes/XfQpO73ebKA.md` — source_id: `youtube:XfQpO73ebKA`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Psalms/Hymns/Psalm Ch. 95» — <https://www.youtube.com/watch?v=XfQpO73ebKA> — source_id: `youtube:XfQpO73ebKA`.

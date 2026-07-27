@@ -11,9 +11,7 @@ references:
   - "#romanos_7_26"
 sources:
   - "https://www.youtube.com/watch?v=P1_ZQwF6I9A"
-  - "private/transcripts/ericdejes/P1_ZQwF6I9A.md"
   - "https://www.youtube.com/watch?v=BcJlSBupo8M"
-  - "private/transcripts/ericdejes/BcJlSBupo8M.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:P1_ZQwF6I9A"
@@ -65,6 +63,6 @@ Romanos 7 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 15) La novedad del Rúaj vs la antigüedad de la letra](https://www.youtube.com/watch?v=P1_ZQwF6I9A) — transcripción de trabajo: `private/transcripts/ericdejes/P1_ZQwF6I9A.md` (source_id: `youtube:P1_ZQwF6I9A`).
-- [La carta a los romanos (parte 16). Capítulo 7 final: La tragedia de los carnales](https://www.youtube.com/watch?v=BcJlSBupo8M) — transcripción de trabajo: `private/transcripts/ericdejes/BcJlSBupo8M.md` (source_id: `youtube:BcJlSBupo8M`).
+- [La carta a los romanos (parte 15) La novedad del Rúaj vs la antigüedad de la letra](https://www.youtube.com/watch?v=P1_ZQwF6I9A) (source_id: `youtube:P1_ZQwF6I9A`).
+- [La carta a los romanos (parte 16). Capítulo 7 final: La tragedia de los carnales](https://www.youtube.com/watch?v=BcJlSBupo8M) (source_id: `youtube:BcJlSBupo8M`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

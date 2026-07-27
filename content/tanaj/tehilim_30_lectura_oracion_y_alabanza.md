@@ -12,7 +12,6 @@ references:
   - "#tehilim_30_13"
 sources:
   - "https://www.youtube.com/watch?v=CavcnRFDwoc"
-  - "private/transcripts/ericdejes/CavcnRFDwoc.md"
   - "docs/scriptures/oe/json/psalms/30.json"
 source_ids:
   - "youtube:CavcnRFDwoc"
@@ -52,5 +51,5 @@ La lectura de Tehilim 30 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 30» — <https://www.youtube.com/watch?v=CavcnRFDwoc> — transcripción: `private/transcripts/ericdejes/CavcnRFDwoc.md` — source_id: `youtube:CavcnRFDwoc`.
+- «Tehilim/Hymnos/Salmo Chap 30» — <https://www.youtube.com/watch?v=CavcnRFDwoc> — source_id: `youtube:CavcnRFDwoc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

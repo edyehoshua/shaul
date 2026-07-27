@@ -19,7 +19,6 @@ references:
   - "#ieshaiahu_55_11"
 sources:
   - "https://www.youtube.com/watch?v=6DK92b5-KGE"
-  - "private/transcripts/ericdejes/6DK92b5-KGE.md"
   - "docs/scriptures/oe/json/psalms/2.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -81,5 +80,5 @@ Tehilim 2 no presenta la rebelión de reyes y pueblos como una alternativa durad
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo cap 2» — <https://www.youtube.com/watch?v=6DK92b5-KGE> — transcripción: `private/transcripts/ericdejes/6DK92b5-KGE.md` — source_id: `youtube:6DK92b5-KGE`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo cap 2» — <https://www.youtube.com/watch?v=6DK92b5-KGE> — source_id: `youtube:6DK92b5-KGE`.
 - La transcripción es automática y se usa como apoyo de estudio; no se presenta como cita literal ni como transcripción revisada por el expositor.

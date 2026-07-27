@@ -12,7 +12,6 @@ references:
   - "#tehilim_83_19"
 sources:
   - "https://www.youtube.com/watch?v=mhWdmbOieNA"
-  - "private/transcripts/ericdejes/mhWdmbOieNA.md"
   - "docs/scriptures/oe/json/psalms/83.json"
 source_ids:
   - "youtube:mhWdmbOieNA"
@@ -52,5 +51,5 @@ La lectura de Tehilim 83 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo chap 83» — <https://www.youtube.com/watch?v=mhWdmbOieNA> — transcripción: `private/transcripts/ericdejes/mhWdmbOieNA.md` — source_id: `youtube:mhWdmbOieNA`.
+- «Tehilim/Hymnos/Salmo chap 83» — <https://www.youtube.com/watch?v=mhWdmbOieNA> — source_id: `youtube:mhWdmbOieNA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

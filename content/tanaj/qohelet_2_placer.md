@@ -10,9 +10,7 @@ references:
   - "#ecclesiastes_2_26"
 sources:
   - "https://www.youtube.com/watch?v=hKMgzow5Ys4"
-  - "private/transcripts/ericdejes/hKMgzow5Ys4.md"
   - "https://www.youtube.com/watch?v=ERVili8fCSM"
-  - "private/transcripts/ericdejes/ERVili8fCSM.md"
   - "docs/scriptures/oe/json/ecclesiastes/2.json"
 source_ids:
   - "youtube:hKMgzow5Ys4"
@@ -61,9 +59,7 @@ Qohélet 2 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (Parte 5) Cap 2» — https://www.youtube.com/watch?v=hKMgzow5Ys4
-  - Transcripción: `private/transcripts/ericdejes/hKMgzow5Ys4.md` (`source_id: youtube:hKMgzow5Ys4`).
-- «Qohélet-Eclesiastés (parte 6) Cap 2» — https://www.youtube.com/watch?v=ERVili8fCSM
-  - Transcripción: `private/transcripts/ericdejes/ERVili8fCSM.md` (`source_id: youtube:ERVili8fCSM`).
+- «Qohélet-Eclesiastés (Parte 5) Cap 2» — https://www.youtube.com/watch?v=hKMgzow5Ys4 (`source_id: youtube:hKMgzow5Ys4`).
+- «Qohélet-Eclesiastés (parte 6) Cap 2» — https://www.youtube.com/watch?v=ERVili8fCSM (`source_id: youtube:ERVili8fCSM`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

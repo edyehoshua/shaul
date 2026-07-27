@@ -6,7 +6,6 @@ tags: [tanaj, yejezkel, haftarah, acharei_mot]
 references: ["#iejezkel_22_2"]
 sources:
   - "https://www.youtube.com/watch?v=7Hdo6Y1mD98"
-  - "private/transcripts/ericdejes/7Hdo6Y1mD98.md"
   - "docs/scriptures/oe/json/ezekiel/22.json"
 source_ids: ["youtube:7Hdo6Y1mD98"]
 ---
@@ -36,5 +35,5 @@ Ezequiel no ofrece una acusación abstracta. Convoca a reconocer la culpa para q
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de ‘ajarey-mot (Ez 22:1-22)](https://www.youtube.com/watch?v=7Hdo6Y1mD98) — transcripción: `private/transcripts/ericdejes/7Hdo6Y1mD98.md` — source_id: `youtube:7Hdo6Y1mD98`.
+- Video: [Haftarah de ‘ajarey-mot (Ez 22:1-22)](https://www.youtube.com/watch?v=7Hdo6Y1mD98) — source_id: `youtube:7Hdo6Y1mD98`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

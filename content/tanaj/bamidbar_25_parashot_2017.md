@@ -9,7 +9,6 @@ references:
   - "#bamidbar_25_1"
 sources:
   - "https://www.youtube.com/watch?v=PVazxaKCzLs"
-  - "private/transcripts/ericdejes/PVazxaKCzLs.md"
   - "docs/scriptures/oe/json/numbers/25.json"
 source_ids:
   - "youtube:PVazxaKCzLs"
@@ -48,5 +47,5 @@ Bamidbar 25 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Pinjás (2017) El nombre que es sobre todo nombre](https://www.youtube.com/watch?v=PVazxaKCzLs) — transcripción de trabajo: `private/transcripts/ericdejes/PVazxaKCzLs.md` (source_id: `youtube:PVazxaKCzLs`).
+- [Parashat Pinjás (2017) El nombre que es sobre todo nombre](https://www.youtube.com/watch?v=PVazxaKCzLs) (source_id: `youtube:PVazxaKCzLs`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

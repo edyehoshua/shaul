@@ -12,7 +12,6 @@ references:
   - "#tehilim_72_20"
 sources:
   - "https://www.youtube.com/watch?v=psVGY-b6Qoc"
-  - "private/transcripts/ericdejes/psVGY-b6Qoc.md"
   - "docs/scriptures/oe/json/psalms/72.json"
 source_ids:
   - "youtube:psVGY-b6Qoc"
@@ -52,5 +51,5 @@ La lectura de Tehilim 72 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 72» — <https://www.youtube.com/watch?v=psVGY-b6Qoc> — transcripción: `private/transcripts/ericdejes/psVGY-b6Qoc.md` — source_id: `youtube:psVGY-b6Qoc`.
+- «Tehilim/Himnos/Salmo Cap 72» — <https://www.youtube.com/watch?v=psVGY-b6Qoc> — source_id: `youtube:psVGY-b6Qoc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

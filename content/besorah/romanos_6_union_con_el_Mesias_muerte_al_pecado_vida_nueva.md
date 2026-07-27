@@ -11,9 +11,7 @@ references:
   - "#romanos_6_23"
 sources:
   - "https://www.youtube.com/watch?v=hj1Eu4BPPBc"
-  - "private/transcripts/ericdejes/hj1Eu4BPPBc.md"
   - "https://www.youtube.com/watch?v=o87CBGw9-Zo"
-  - "private/transcripts/ericdejes/o87CBGw9-Zo.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:hj1Eu4BPPBc"
@@ -65,6 +63,6 @@ Romanos 6 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 13). Todo sobre la Tviláh/Bautismo: Muertos para el pecado](https://www.youtube.com/watch?v=hj1Eu4BPPBc) — transcripción de trabajo: `private/transcripts/ericdejes/hj1Eu4BPPBc.md` (source_id: `youtube:hj1Eu4BPPBc`).
-- [La carta a los romanos (Parte 14) Ya no somos subordinados, no estamos bajo sentencia](https://www.youtube.com/watch?v=o87CBGw9-Zo) — transcripción de trabajo: `private/transcripts/ericdejes/o87CBGw9-Zo.md` (source_id: `youtube:o87CBGw9-Zo`).
+- [La carta a los romanos (parte 13). Todo sobre la Tviláh/Bautismo: Muertos para el pecado](https://www.youtube.com/watch?v=hj1Eu4BPPBc) (source_id: `youtube:hj1Eu4BPPBc`).
+- [La carta a los romanos (Parte 14) Ya no somos subordinados, no estamos bajo sentencia](https://www.youtube.com/watch?v=o87CBGw9-Zo) (source_id: `youtube:o87CBGw9-Zo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

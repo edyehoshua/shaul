@@ -9,7 +9,6 @@ references:
   - "#shemot_27_1"
 sources:
   - "https://www.youtube.com/watch?v=-ygDy_ekGwc"
-  - "private/transcripts/ericdejes/-ygDy_ekGwc.md"
   - "docs/scriptures/oe/json/exodus/27.json"
 source_ids:
   - "youtube:-ygDy_ekGwc"
@@ -48,5 +47,5 @@ Shemot 27 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Tetzavéh (2017) La plenitud del que lo llena todo en todos](https://www.youtube.com/watch?v=-ygDy_ekGwc) — transcripción de trabajo: `private/transcripts/ericdejes/-ygDy_ekGwc.md` (source_id: `youtube:-ygDy_ekGwc`).
+- [Parashat Tetzavéh (2017) La plenitud del que lo llena todo en todos](https://www.youtube.com/watch?v=-ygDy_ekGwc) (source_id: `youtube:-ygDy_ekGwc`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

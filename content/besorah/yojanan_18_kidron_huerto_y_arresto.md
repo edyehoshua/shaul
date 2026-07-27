@@ -16,7 +16,6 @@ references:
   - "#iojanan_18_10-11"
 sources:
   - "https://www.youtube.com/watch?v=X5X1OIekPS4"
-  - "private/transcripts/ericdejes/X5X1OIekPS4.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -53,4 +52,4 @@ La clase también propone que **σπεῖρα** designa una cohorte romana de ta
 
 Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel According to John (Part 68) Chapter 18» — <https://www.youtube.com/watch?v=X5X1OIekPS4> — transcripción: `private/transcripts/ericdejes/X5X1OIekPS4.md` — source_id: `youtube:X5X1OIekPS4`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel According to John (Part 68) Chapter 18» — <https://www.youtube.com/watch?v=X5X1OIekPS4> — source_id: `youtube:X5X1OIekPS4`.

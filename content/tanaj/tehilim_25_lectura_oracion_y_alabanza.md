@@ -12,7 +12,6 @@ references:
   - "#tehilim_25_22"
 sources:
   - "https://www.youtube.com/watch?v=0ivlkvnd-C0"
-  - "private/transcripts/ericdejes/0ivlkvnd-C0.md"
   - "docs/scriptures/oe/json/psalms/25.json"
 source_ids:
   - "youtube:0ivlkvnd-C0"
@@ -52,5 +51,5 @@ La lectura de Tehilim 25 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 25» — <https://www.youtube.com/watch?v=0ivlkvnd-C0> — transcripción: `private/transcripts/ericdejes/0ivlkvnd-C0.md` — source_id: `youtube:0ivlkvnd-C0`.
+- «Tehilim/Himnos/Salmo Cap 25» — <https://www.youtube.com/watch?v=0ivlkvnd-C0> — source_id: `youtube:0ivlkvnd-C0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

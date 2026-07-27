@@ -15,7 +15,6 @@ references:
   - "#shemuel_2_12_1-15"
 sources:
   - "https://www.youtube.com/watch?v=ysVekONH5fI"
-  - "private/transcripts/ericdejes/ysVekONH5fI.md"
   - "docs/scriptures/oe/json/psalms/51.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -70,4 +69,4 @@ Tehilim 51 pone en los labios del orante una confesión franca y una esperanza c
 
 Esta nota usa una transcripción automática, que puede contener errores y no sustituye la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por la enseñanza usada:
 
-- «Tehilim/Himnos/Salml Cap 51» — https://www.youtube.com/watch?v=ysVekONH5fI — `private/transcripts/ericdejes/ysVekONH5fI.md` (`youtube:ysVekONH5fI`).
+- «Tehilim/Himnos/Salml Cap 51» — https://www.youtube.com/watch?v=ysVekONH5fI — (`youtube:ysVekONH5fI`).

@@ -12,7 +12,6 @@ references:
   - "#tehilim_35_28"
 sources:
   - "https://www.youtube.com/watch?v=_168ac52IuA"
-  - "private/transcripts/ericdejes/_168ac52IuA.md"
   - "docs/scriptures/oe/json/psalms/35.json"
 source_ids:
   - "youtube:_168ac52IuA"
@@ -52,5 +51,5 @@ La lectura de Tehilim 35 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 35» — <https://www.youtube.com/watch?v=_168ac52IuA> — transcripción: `private/transcripts/ericdejes/_168ac52IuA.md` — source_id: `youtube:_168ac52IuA`.
+- «Tehilim/Hymnos/Salmo Chap 35» — <https://www.youtube.com/watch?v=_168ac52IuA> — source_id: `youtube:_168ac52IuA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -15,7 +15,6 @@ references:
   - "#tehilim_69_9"
 sources:
   - "https://www.youtube.com/watch?v=mvOl-EjSYi0"
-  - "private/transcripts/ericdejes/mvOl-EjSYi0.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -64,4 +63,4 @@ Caná y el santuario pertenecen a una misma secuencia narrativa: una señal mani
 
 Esta nota usa una transcripción automática, que puede contener errores y no sustituye la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por la enseñanza usada:
 
-- «El evangelio según Yojanán / Juan (Parte 7): Kanáh de Galil - Yerushaláyim» — https://www.youtube.com/watch?v=mvOl-EjSYi0 — `private/transcripts/ericdejes/mvOl-EjSYi0.md` (`youtube:mvOl-EjSYi0`).
+- «El evangelio según Yojanán / Juan (Parte 7): Kanáh de Galil - Yerushaláyim» — https://www.youtube.com/watch?v=mvOl-EjSYi0 — (`youtube:mvOl-EjSYi0`).

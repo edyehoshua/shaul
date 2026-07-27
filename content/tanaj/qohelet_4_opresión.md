@@ -10,9 +10,7 @@ references:
   - "#ecclesiastes_4_17"
 sources:
   - "https://www.youtube.com/watch?v=U_4B3FIUJzs"
-  - "private/transcripts/ericdejes/U_4B3FIUJzs.md"
   - "https://www.youtube.com/watch?v=zchS6Q0D5SM"
-  - "private/transcripts/ericdejes/zchS6Q0D5SM.md"
   - "docs/scriptures/oe/json/ecclesiastes/4.json"
 source_ids:
   - "youtube:U_4B3FIUJzs"
@@ -61,9 +59,7 @@ Qohélet 4 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 9) Cap 4» — https://www.youtube.com/watch?v=U_4B3FIUJzs
-  - Transcripción: `private/transcripts/ericdejes/U_4B3FIUJzs.md` (`source_id: youtube:U_4B3FIUJzs`).
-- «Qohélet-Eclesiastés (parte 10) Cap 4» — https://www.youtube.com/watch?v=zchS6Q0D5SM
-  - Transcripción: `private/transcripts/ericdejes/zchS6Q0D5SM.md` (`source_id: youtube:zchS6Q0D5SM`).
+- «Qohélet-Eclesiastés (parte 9) Cap 4» — https://www.youtube.com/watch?v=U_4B3FIUJzs (`source_id: youtube:U_4B3FIUJzs`).
+- «Qohélet-Eclesiastés (parte 10) Cap 4» — https://www.youtube.com/watch?v=zchS6Q0D5SM (`source_id: youtube:zchS6Q0D5SM`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

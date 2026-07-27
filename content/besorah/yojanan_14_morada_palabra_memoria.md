@@ -22,7 +22,6 @@ references:
   - "#tehilim_119_20"
 sources:
   - "https://www.youtube.com/watch?v=WRILATGNg_U"
-  - "private/transcripts/ericdejes/WRILATGNg_U.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/isaiah/11.json"

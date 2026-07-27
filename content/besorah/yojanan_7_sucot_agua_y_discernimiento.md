@@ -16,9 +16,7 @@ references:
   - "#iojanan_7_50-52"
 sources:
   - "https://www.youtube.com/watch?v=PKCkYj1jp2s"
-  - "private/transcripts/ericdejes/PKCkYj1jp2s.md"
   - "https://www.youtube.com/watch?v=PtD_Z0BuH34"
-  - "private/transcripts/ericdejes/PtD_Z0BuH34.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -60,5 +58,5 @@ En #iojanan_7_50-51 Nicodemo no resuelve toda la controversia; pregunta por un p
 
 Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán / Juan (parte 19) cap 7-8» — <https://www.youtube.com/watch?v=PKCkYj1jp2s> — transcripción: `private/transcripts/ericdejes/PKCkYj1jp2s.md` — source_id: `youtube:PKCkYj1jp2s`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to John (part 19) chapter 7 the waters of Shiloah» — <https://www.youtube.com/watch?v=PtD_Z0BuH34> — transcripción: `private/transcripts/ericdejes/PtD_Z0BuH34.md` — source_id: `youtube:PtD_Z0BuH34`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán / Juan (parte 19) cap 7-8» — <https://www.youtube.com/watch?v=PKCkYj1jp2s> — source_id: `youtube:PKCkYj1jp2s`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to John (part 19) chapter 7 the waters of Shiloah» — <https://www.youtube.com/watch?v=PtD_Z0BuH34> — source_id: `youtube:PtD_Z0BuH34`.

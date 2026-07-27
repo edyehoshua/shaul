@@ -16,8 +16,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=gyOX6oI8iss"
   - "https://www.youtube.com/watch?v=HpsB8Dd-Xbw"
-  - "private/transcripts/ericdejes/gyOX6oI8iss.md"
-  - "private/transcripts/ericdejes/HpsB8Dd-Xbw.md"
 source_ids:
   - "youtube:gyOX6oI8iss"
   - "youtube:HpsB8Dd-Xbw"
@@ -105,6 +103,6 @@ Janucá aparece aquí como la rehabilitación del templo y la memoria de la sant
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Janukáh 2024 - 5785 Un día para celebrar la identidad bíblica](https://www.youtube.com/watch?v=gyOX6oI8iss) — transcripción de trabajo: `private/transcripts/ericdejes/gyOX6oI8iss.md` (source_id: `youtube:gyOX6oI8iss`).
-- [Janukáh 5784-2023 חנוכה התשפ''ד Preservation of identity in the 'emunáh](https://www.youtube.com/watch?v=HpsB8Dd-Xbw) — transcripción de trabajo: `private/transcripts/ericdejes/HpsB8Dd-Xbw.md` (source_id: `youtube:HpsB8Dd-Xbw`).
+- [Janukáh 2024 - 5785 Un día para celebrar la identidad bíblica](https://www.youtube.com/watch?v=gyOX6oI8iss) (source_id: `youtube:gyOX6oI8iss`).
+- [Janukáh 5784-2023 חנוכה התשפ''ד Preservation of identity in the 'emunáh](https://www.youtube.com/watch?v=HpsB8Dd-Xbw) (source_id: `youtube:HpsB8Dd-Xbw`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

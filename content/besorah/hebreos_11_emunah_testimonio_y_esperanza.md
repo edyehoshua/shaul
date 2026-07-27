@@ -12,9 +12,7 @@ references:
   - "#hebrews_11_40"
 sources:
   - "https://www.youtube.com/watch?v=6JzOmZpT_RU"
-  - "private/transcripts/ericdejes/6JzOmZpT_RU.md"
   - "https://www.youtube.com/watch?v=ACE-wo-WTmo"
-  - "private/transcripts/ericdejes/ACE-wo-WTmo.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:6JzOmZpT_RU"
@@ -50,7 +48,7 @@ Hebreos 11 desplaza el foco de la autosuficiencia hacia la confianza perseverant
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 12: Dios es el demiurgos» — https://www.youtube.com/watch?v=6JzOmZpT_RU — transcripción: `private/transcripts/ericdejes/6JzOmZpT_RU.md` — source_id: `youtube:6JzOmZpT_RU`.
-- «La carta a los hebreos parte 13: Resumen- demostraciones de la 'emunáh» — https://www.youtube.com/watch?v=ACE-wo-WTmo — transcripción: `private/transcripts/ericdejes/ACE-wo-WTmo.md` — source_id: `youtube:ACE-wo-WTmo`.
+- «La carta a los hebreos parte 12: Dios es el demiurgos» — https://www.youtube.com/watch?v=6JzOmZpT_RU — source_id: `youtube:6JzOmZpT_RU`.
+- «La carta a los hebreos parte 13: Resumen- demostraciones de la 'emunáh» — https://www.youtube.com/watch?v=ACE-wo-WTmo — source_id: `youtube:ACE-wo-WTmo`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

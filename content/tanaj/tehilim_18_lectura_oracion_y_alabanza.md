@@ -12,7 +12,6 @@ references:
   - "#tehilim_18_51"
 sources:
   - "https://www.youtube.com/watch?v=QmGVXrN-3pQ"
-  - "private/transcripts/ericdejes/QmGVXrN-3pQ.md"
   - "docs/scriptures/oe/json/psalms/18.json"
 source_ids:
   - "youtube:QmGVXrN-3pQ"
@@ -52,5 +51,5 @@ La lectura de Tehilim 18 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo 18 - Haftaráh de Ha’azinu» — <https://www.youtube.com/watch?v=QmGVXrN-3pQ> — transcripción: `private/transcripts/ericdejes/QmGVXrN-3pQ.md` — source_id: `youtube:QmGVXrN-3pQ`.
+- «Tehilim/Himnos/Salmo 18 - Haftaráh de Ha’azinu» — <https://www.youtube.com/watch?v=QmGVXrN-3pQ> — source_id: `youtube:QmGVXrN-3pQ`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

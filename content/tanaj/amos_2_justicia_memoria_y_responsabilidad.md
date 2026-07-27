@@ -6,7 +6,6 @@ tags: [tanaj, amos, haftarah]
 references: ["Amós 2:6-3:8"]
 sources:
   - "https://www.youtube.com/watch?v=azQfmu7VHXQ"
-  - "private/transcripts/ericdejes/azQfmu7VHXQ.md"
   - "docs/scriptures/oe/json/amos/2.json"
 source_ids: ["youtube:azQfmu7VHXQ"]
 ---
@@ -36,4 +35,4 @@ Amós hace de la justicia una respuesta de pacto, no un adorno opcional de la re
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayéshev (2017) Jilul Hashem de ayer y de hoy](https://www.youtube.com/watch?v=azQfmu7VHXQ) — `private/transcripts/ericdejes/azQfmu7VHXQ.md` (source_id: `youtube:azQfmu7VHXQ`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayéshev (2017) Jilul Hashem de ayer y de hoy](https://www.youtube.com/watch?v=azQfmu7VHXQ) — (source_id: `youtube:azQfmu7VHXQ`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

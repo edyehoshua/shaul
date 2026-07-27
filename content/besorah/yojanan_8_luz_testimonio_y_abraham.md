@@ -16,15 +16,10 @@ references:
   - "#iojanan_8_58"
 sources:
   - "https://www.youtube.com/watch?v=qzoXQFhF4tA"
-  - "private/transcripts/ericdejes/qzoXQFhF4tA.md"
   - "https://www.youtube.com/watch?v=mUPflYb-osY"
-  - "private/transcripts/ericdejes/mUPflYb-osY.md"
   - "https://www.youtube.com/watch?v=O5DvvGPLxoI"
-  - "private/transcripts/ericdejes/O5DvvGPLxoI.md"
   - "https://www.youtube.com/watch?v=VceL8X2SBBc"
-  - "private/transcripts/ericdejes/VceL8X2SBBc.md"
   - "https://www.youtube.com/watch?v=EilK_3N8Q7w"
-  - "private/transcripts/ericdejes/EilK_3N8Q7w.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -71,8 +66,8 @@ Las cinco clases trabajan diversas secciones del capítulo: la luz y el testimon
 
 Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán Parte 22 cap 8» — <https://www.youtube.com/watch?v=qzoXQFhF4tA> — transcripción: `private/transcripts/ericdejes/qzoXQFhF4tA.md` — source_id: `youtube:qzoXQFhF4tA`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 20) Cap 8 -B» — <https://www.youtube.com/watch?v=mUPflYb-osY> — transcripción: `private/transcripts/ericdejes/mUPflYb-osY.md` — source_id: `youtube:mUPflYb-osY`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán/Juan (Parte 21) Cap 8:12ss» — <https://www.youtube.com/watch?v=O5DvvGPLxoI> — transcripción: `private/transcripts/ericdejes/O5DvvGPLxoI.md` — source_id: `youtube:O5DvvGPLxoI`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 24) Cap 8:49ss» — <https://www.youtube.com/watch?v=VceL8X2SBBc> — transcripción: `private/transcripts/ericdejes/VceL8X2SBBc.md` — source_id: `youtube:VceL8X2SBBc`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 25)» — <https://www.youtube.com/watch?v=EilK_3N8Q7w> — transcripción: `private/transcripts/ericdejes/EilK_3N8Q7w.md` — source_id: `youtube:EilK_3N8Q7w`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán Parte 22 cap 8» — <https://www.youtube.com/watch?v=qzoXQFhF4tA> — source_id: `youtube:qzoXQFhF4tA`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 20) Cap 8 -B» — <https://www.youtube.com/watch?v=mUPflYb-osY> — source_id: `youtube:mUPflYb-osY`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán/Juan (Parte 21) Cap 8:12ss» — <https://www.youtube.com/watch?v=O5DvvGPLxoI> — source_id: `youtube:O5DvvGPLxoI`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 24) Cap 8:49ss» — <https://www.youtube.com/watch?v=VceL8X2SBBc> — source_id: `youtube:VceL8X2SBBc`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio según Yojanán (Parte 25)» — <https://www.youtube.com/watch?v=EilK_3N8Q7w> — source_id: `youtube:EilK_3N8Q7w`.

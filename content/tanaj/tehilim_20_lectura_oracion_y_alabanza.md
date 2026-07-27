@@ -12,7 +12,6 @@ references:
   - "#tehilim_20_10"
 sources:
   - "https://www.youtube.com/watch?v=dOm2ObM1MC4"
-  - "private/transcripts/ericdejes/dOm2ObM1MC4.md"
   - "docs/scriptures/oe/json/psalms/20.json"
 source_ids:
   - "youtube:dOm2ObM1MC4"
@@ -52,5 +51,5 @@ La lectura de Tehilim 20 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 20» — <https://www.youtube.com/watch?v=dOm2ObM1MC4> — transcripción: `private/transcripts/ericdejes/dOm2ObM1MC4.md` — source_id: `youtube:dOm2ObM1MC4`.
+- «Tehilim/Hymnos/Salmo Chap 20» — <https://www.youtube.com/watch?v=dOm2ObM1MC4> — source_id: `youtube:dOm2ObM1MC4`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -29,17 +29,6 @@ sources:
   - "https://www.youtube.com/watch?v=SbhuHE8vdTw"
   - "https://www.youtube.com/watch?v=AkhCbOH1Uhg"
   - "https://www.youtube.com/watch?v=tA0E-CpFm8M"
-
-  - "private/transcripts/ericdejes/6voDFwXe9Dw.md"
-  - "private/transcripts/ericdejes/fObsI0RvZSE.md"
-  - "private/transcripts/ericdejes/GQQrB5MSS4o.md"
-  - "private/transcripts/ericdejes/SugEfRdizV0.md"
-  - "private/transcripts/ericdejes/eS1sNu6UGgM.md"
-  - "private/transcripts/ericdejes/i9dp89maw_k.md"
-  - "private/transcripts/ericdejes/FPRxmoA5zbk.md"
-  - "private/transcripts/ericdejes/SbhuHE8vdTw.md"
-  - "private/transcripts/ericdejes/AkhCbOH1Uhg.md"
-  - "private/transcripts/ericdejes/tA0E-CpFm8M.md"
   - "docs/scriptures/oe/json/genesis/32.json"
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/oe/json/leviticus/23.json"
@@ -119,14 +108,14 @@ Yom haKippurim pone a la comunidad ante la santidad y la misericordia de יהו�
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- [Pre-Yom HaKippurim 2019 Discussion (Part 1)](https://www.youtube.com/watch?v=6voDFwXe9Dw) — transcripción de trabajo: `private/transcripts/ericdejes/6voDFwXe9Dw.md` (source_id: `youtube:6voDFwXe9Dw`).
-- [Shabbat - Zaragoza 5782](https://www.youtube.com/watch?v=fObsI0RvZSE) — transcripción de trabajo: `private/transcripts/ericdejes/fObsI0RvZSE.md` (source_id: `youtube:fObsI0RvZSE`).
-- [Yom hakipurim 5786 -2025](https://www.youtube.com/watch?v=GQQrB5MSS4o) — transcripción de trabajo: `private/transcripts/ericdejes/GQQrB5MSS4o.md` (source_id: `youtube:GQQrB5MSS4o`).
-- [Yom Kippur 5785/2024 Yom Kippur 5785](https://www.youtube.com/watch?v=SugEfRdizV0) — transcripción de trabajo: `private/transcripts/ericdejes/SugEfRdizV0.md` (source_id: `youtube:SugEfRdizV0`).
-- [Yoma' - yom hakipurim](https://www.youtube.com/watch?v=eS1sNu6UGgM) — transcripción de trabajo: `private/transcripts/ericdejes/eS1sNu6UGgM.md` (source_id: `youtube:eS1sNu6UGgM`).
-- [Yom hakipurim 5780](https://www.youtube.com/watch?v=i9dp89maw_k) — transcripción de trabajo: `private/transcripts/ericdejes/i9dp89maw_k.md` (source_id: `youtube:i9dp89maw_k`).
-- [Yom Hakipurim 5781-2020](https://www.youtube.com/watch?v=FPRxmoA5zbk) — transcripción de trabajo: `private/transcripts/ericdejes/FPRxmoA5zbk.md` (source_id: `youtube:FPRxmoA5zbk`).
-- [Haftarah of Yom HaKippurim (2017) Hashem our refuge](https://www.youtube.com/watch?v=SbhuHE8vdTw) — transcripción de trabajo: `private/transcripts/ericdejes/SbhuHE8vdTw.md` (source_id: `youtube:SbhuHE8vdTw`).
-- [Yom Hakipurim - La adopción, la redención de nuestro cuerpo](https://www.youtube.com/watch?v=AkhCbOH1Uhg) — transcripción de trabajo: `private/transcripts/ericdejes/AkhCbOH1Uhg.md` (source_id: `youtube:AkhCbOH1Uhg`).
-- [Yoma' - El día: El paso a paso de Yom Hakipurim](https://www.youtube.com/watch?v=tA0E-CpFm8M) — transcripción de trabajo: `private/transcripts/ericdejes/tA0E-CpFm8M.md` (source_id: `youtube:tA0E-CpFm8M`).
+- [Pre-Yom HaKippurim 2019 Discussion (Part 1)](https://www.youtube.com/watch?v=6voDFwXe9Dw) (source_id: `youtube:6voDFwXe9Dw`).
+- [Shabbat - Zaragoza 5782](https://www.youtube.com/watch?v=fObsI0RvZSE) (source_id: `youtube:fObsI0RvZSE`).
+- [Yom hakipurim 5786 -2025](https://www.youtube.com/watch?v=GQQrB5MSS4o) (source_id: `youtube:GQQrB5MSS4o`).
+- [Yom Kippur 5785/2024 Yom Kippur 5785](https://www.youtube.com/watch?v=SugEfRdizV0) (source_id: `youtube:SugEfRdizV0`).
+- [Yoma' - yom hakipurim](https://www.youtube.com/watch?v=eS1sNu6UGgM) (source_id: `youtube:eS1sNu6UGgM`).
+- [Yom hakipurim 5780](https://www.youtube.com/watch?v=i9dp89maw_k) (source_id: `youtube:i9dp89maw_k`).
+- [Yom Hakipurim 5781-2020](https://www.youtube.com/watch?v=FPRxmoA5zbk) (source_id: `youtube:FPRxmoA5zbk`).
+- [Haftarah of Yom HaKippurim (2017) Hashem our refuge](https://www.youtube.com/watch?v=SbhuHE8vdTw) (source_id: `youtube:SbhuHE8vdTw`).
+- [Yom Hakipurim - La adopción, la redención de nuestro cuerpo](https://www.youtube.com/watch?v=AkhCbOH1Uhg) (source_id: `youtube:AkhCbOH1Uhg`).
+- [Yoma' - El día: El paso a paso de Yom Hakipurim](https://www.youtube.com/watch?v=tA0E-CpFm8M) (source_id: `youtube:tA0E-CpFm8M`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

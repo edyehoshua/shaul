@@ -12,7 +12,6 @@ references:
   - "#tehilim_26_12"
 sources:
   - "https://www.youtube.com/watch?v=1JHcbc9iSw4"
-  - "private/transcripts/ericdejes/1JHcbc9iSw4.md"
   - "docs/scriptures/oe/json/psalms/26.json"
 source_ids:
   - "youtube:1JHcbc9iSw4"
@@ -52,5 +51,5 @@ La lectura de Tehilim 26 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 26» — <https://www.youtube.com/watch?v=1JHcbc9iSw4> — transcripción: `private/transcripts/ericdejes/1JHcbc9iSw4.md` — source_id: `youtube:1JHcbc9iSw4`.
+- «Tehilim/Hymnos/Salmo Chap 26» — <https://www.youtube.com/watch?v=1JHcbc9iSw4> — source_id: `youtube:1JHcbc9iSw4`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

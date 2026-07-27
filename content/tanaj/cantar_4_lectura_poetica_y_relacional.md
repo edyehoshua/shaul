@@ -26,11 +26,8 @@ references:
   - "#songofsolomon_4_16"
 sources:
   - "https://www.youtube.com/watch?v=44QJptwSoRk"
-  - "private/transcripts/ericdejes/44QJptwSoRk.md"
   - "https://www.youtube.com/watch?v=C8wgaPW8S-4"
-  - "private/transcripts/ericdejes/C8wgaPW8S-4.md"
   - "https://www.youtube.com/watch?v=uFzDkn1nOf4"
-  - "private/transcripts/ericdejes/uFzDkn1nOf4.md"
   - "docs/scriptures/oe/json/songofsolomon/4.json"
 source_ids:
   - "youtube:44QJptwSoRk"
@@ -73,11 +70,8 @@ Cantar 4 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (part 12) Cap 4» — https://www.youtube.com/watch?v=44QJptwSoRk
-  - Transcripción: `private/transcripts/ericdejes/44QJptwSoRk.md` (`source_id: youtube:44QJptwSoRk`).
-- «Shir hashirim (parte 11) Cap 4» — https://www.youtube.com/watch?v=C8wgaPW8S-4
-  - Transcripción: `private/transcripts/ericdejes/C8wgaPW8S-4.md` (`source_id: youtube:C8wgaPW8S-4`).
-- «Shir hashirim (parte 13) Cap 4» — https://www.youtube.com/watch?v=uFzDkn1nOf4
-  - Transcripción: `private/transcripts/ericdejes/uFzDkn1nOf4.md` (`source_id: youtube:uFzDkn1nOf4`).
+- «Shir hashirim (part 12) Cap 4» — https://www.youtube.com/watch?v=44QJptwSoRk (`source_id: youtube:44QJptwSoRk`).
+- «Shir hashirim (parte 11) Cap 4» — https://www.youtube.com/watch?v=C8wgaPW8S-4 (`source_id: youtube:C8wgaPW8S-4`).
+- «Shir hashirim (parte 13) Cap 4» — https://www.youtube.com/watch?v=uFzDkn1nOf4 (`source_id: youtube:uFzDkn1nOf4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

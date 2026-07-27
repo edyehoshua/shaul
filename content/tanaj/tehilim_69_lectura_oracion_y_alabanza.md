@@ -12,7 +12,6 @@ references:
   - "#tehilim_69_37"
 sources:
   - "https://www.youtube.com/watch?v=FNS4Cl5xwpY"
-  - "private/transcripts/ericdejes/FNS4Cl5xwpY.md"
   - "docs/scriptures/oe/json/psalms/69.json"
 source_ids:
   - "youtube:FNS4Cl5xwpY"
@@ -52,5 +51,5 @@ La lectura de Tehilim 69 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 69» — <https://www.youtube.com/watch?v=FNS4Cl5xwpY> — transcripción: `private/transcripts/ericdejes/FNS4Cl5xwpY.md` — source_id: `youtube:FNS4Cl5xwpY`.
+- «Tehilim/Himnos/Salmo Cap 69» — <https://www.youtube.com/watch?v=FNS4Cl5xwpY> — source_id: `youtube:FNS4Cl5xwpY`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

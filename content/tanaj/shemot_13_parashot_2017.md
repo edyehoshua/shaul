@@ -9,7 +9,6 @@ references:
   - "#shemot_13_1"
 sources:
   - "https://www.youtube.com/watch?v=W8NBI-VbB9w"
-  - "private/transcripts/ericdejes/W8NBI-VbB9w.md"
   - "docs/scriptures/oe/json/exodus/13.json"
 source_ids:
   - "youtube:W8NBI-VbB9w"
@@ -48,5 +47,5 @@ Shemot 13 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Bshalaj (2017) Fijándonos en las cosas de arriba...](https://www.youtube.com/watch?v=W8NBI-VbB9w) — transcripción de trabajo: `private/transcripts/ericdejes/W8NBI-VbB9w.md` (source_id: `youtube:W8NBI-VbB9w`).
+- [Parashat Bshalaj (2017) Fijándonos en las cosas de arriba...](https://www.youtube.com/watch?v=W8NBI-VbB9w) (source_id: `youtube:W8NBI-VbB9w`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

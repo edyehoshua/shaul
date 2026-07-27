@@ -9,7 +9,6 @@ references:
   - "#bamidbar_19_1"
 sources:
   - "https://www.youtube.com/watch?v=OLd-8BXSzcc"
-  - "private/transcripts/ericdejes/OLd-8BXSzcc.md"
   - "docs/scriptures/oe/json/numbers/19.json"
 source_ids:
   - "youtube:OLd-8BXSzcc"
@@ -48,5 +47,5 @@ Bamidbar 19 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Juqat (2017) La segunda Mishméret](https://www.youtube.com/watch?v=OLd-8BXSzcc) — transcripción de trabajo: `private/transcripts/ericdejes/OLd-8BXSzcc.md` (source_id: `youtube:OLd-8BXSzcc`).
+- [Parashat Juqat (2017) La segunda Mishméret](https://www.youtube.com/watch?v=OLd-8BXSzcc) (source_id: `youtube:OLd-8BXSzcc`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

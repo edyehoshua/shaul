@@ -30,8 +30,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=f3tHvC2IgWo"
   - "https://www.youtube.com/watch?v=h3UIeUJpRTc"
-  - "private/transcripts/ericdejes/f3tHvC2IgWo.md"
-  - "private/transcripts/ericdejes/h3UIeUJpRTc.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
   - "docs/scriptures/delitzsch/json/acts.json"
@@ -101,6 +99,6 @@ Shavu’ot convoca a contar, agradecer y alegrarse ante יהוה por la provisi�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Jag Hashavu'ot 5781-2021](https://www.youtube.com/watch?v=f3tHvC2IgWo) — transcripción de trabajo: `private/transcripts/ericdejes/f3tHvC2IgWo.md` (source_id: `youtube:f3tHvC2IgWo`).
-- [Shavu’ot 5782](https://www.youtube.com/watch?v=h3UIeUJpRTc) — transcripción de trabajo: `private/transcripts/ericdejes/h3UIeUJpRTc.md` (source_id: `youtube:h3UIeUJpRTc`).
+- [Jag Hashavu'ot 5781-2021](https://www.youtube.com/watch?v=f3tHvC2IgWo) (source_id: `youtube:f3tHvC2IgWo`).
+- [Shavu’ot 5782](https://www.youtube.com/watch?v=h3UIeUJpRTc) (source_id: `youtube:h3UIeUJpRTc`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

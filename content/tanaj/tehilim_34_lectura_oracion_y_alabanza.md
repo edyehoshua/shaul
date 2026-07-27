@@ -12,7 +12,6 @@ references:
   - "#tehilim_34_23"
 sources:
   - "https://www.youtube.com/watch?v=f0eWr7mvVQ0"
-  - "private/transcripts/ericdejes/f0eWr7mvVQ0.md"
   - "docs/scriptures/oe/json/psalms/34.json"
 source_ids:
   - "youtube:f0eWr7mvVQ0"
@@ -52,5 +51,5 @@ La lectura de Tehilim 34 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo cap 34» — <https://www.youtube.com/watch?v=f0eWr7mvVQ0> — transcripción: `private/transcripts/ericdejes/f0eWr7mvVQ0.md` — source_id: `youtube:f0eWr7mvVQ0`.
+- «Tehilim/Himnos/Salmo cap 34» — <https://www.youtube.com/watch?v=f0eWr7mvVQ0> — source_id: `youtube:f0eWr7mvVQ0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

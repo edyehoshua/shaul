@@ -12,9 +12,7 @@ references:
   - "#hebrews_4_16"
 sources:
   - "https://www.youtube.com/watch?v=H_GBWMOusNo"
-  - "private/transcripts/ericdejes/H_GBWMOusNo.md"
   - "https://www.youtube.com/watch?v=vbJeGh-kmb0"
-  - "private/transcripts/ericdejes/vbJeGh-kmb0.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:H_GBWMOusNo"
@@ -50,7 +48,7 @@ Hebreos 4 sostiene a la vez la seriedad de la advertencia y la apertura de la gr
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «The Letter to the Hebrews Part 5: The First Yehoshua and the Last Yehoshua» — https://www.youtube.com/watch?v=H_GBWMOusNo — transcripción: `private/transcripts/ericdejes/H_GBWMOusNo.md` — source_id: `youtube:H_GBWMOusNo`.
-- «La carta a los hebreos parte 6: Yehoshúa', el Kohén Gadol del cielo» — https://www.youtube.com/watch?v=vbJeGh-kmb0 — transcripción: `private/transcripts/ericdejes/vbJeGh-kmb0.md` — source_id: `youtube:vbJeGh-kmb0`.
+- «The Letter to the Hebrews Part 5: The First Yehoshua and the Last Yehoshua» — https://www.youtube.com/watch?v=H_GBWMOusNo — source_id: `youtube:H_GBWMOusNo`.
+- «La carta a los hebreos parte 6: Yehoshúa', el Kohén Gadol del cielo» — https://www.youtube.com/watch?v=vbJeGh-kmb0 — source_id: `youtube:vbJeGh-kmb0`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

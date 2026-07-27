@@ -15,9 +15,7 @@ references:
   - "#revelation_17_18"
 sources:
   - "https://www.youtube.com/watch?v=5Ykn8woXHMM"
-  - "private/transcripts/ericdejes/5Ykn8woXHMM.md"
   - "https://www.youtube.com/watch?v=B1dlVItGmYM"
-  - "private/transcripts/ericdejes/B1dlVItGmYM.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:5Ykn8woXHMM"
@@ -61,9 +59,7 @@ Apocalipsis 17 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 23 La revelación de Yehoshúa' Hamashíaj: La gran Ramera» — https://www.youtube.com/watch?v=5Ykn8woXHMM
-  - Transcripción: `private/transcripts/ericdejes/5Ykn8woXHMM.md` (`source_id: youtube:5Ykn8woXHMM`).
-- «Parte 26 La revelación de Yehoshúa' Hamashíaj: Bab Ilu: La gran ramera» — https://www.youtube.com/watch?v=B1dlVItGmYM
-  - Transcripción: `private/transcripts/ericdejes/B1dlVItGmYM.md` (`source_id: youtube:B1dlVItGmYM`).
+- «Parte 23 La revelación de Yehoshúa' Hamashíaj: La gran Ramera» — https://www.youtube.com/watch?v=5Ykn8woXHMM (`source_id: youtube:5Ykn8woXHMM`).
+- «Parte 26 La revelación de Yehoshúa' Hamashíaj: Bab Ilu: La gran ramera» — https://www.youtube.com/watch?v=B1dlVItGmYM (`source_id: youtube:B1dlVItGmYM`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

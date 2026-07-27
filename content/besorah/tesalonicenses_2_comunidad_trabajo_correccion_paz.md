@@ -33,8 +33,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=dzO6pl2v_Wc"
   - "https://www.youtube.com/watch?v=oLkAGU5jFxs"
-  - "private/transcripts/ericdejes/dzO6pl2v_Wc.md"
-  - "private/transcripts/ericdejes/oLkAGU5jFxs.md"
   - "docs/scriptures/delitzsch/json/thessalonians2.json"
 source_ids:
   - "youtube:dzO6pl2v_Wc"

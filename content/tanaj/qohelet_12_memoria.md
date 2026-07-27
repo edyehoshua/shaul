@@ -12,7 +12,6 @@ references:
   - "#ecclesiastes_12_14"
 sources:
   - "https://www.youtube.com/watch?v=7ZW9xlpyD3g"
-  - "private/transcripts/ericdejes/7ZW9xlpyD3g.md"
   - "docs/scriptures/oe/json/ecclesiastes/12.json"
 source_ids:
   - "youtube:7ZW9xlpyD3g"
@@ -62,7 +61,6 @@ Qohélet 12 no ofrece control sobre el mundo, sino sabiduría para habitar sus l
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 30) Cap 12 fin de estudio» — https://www.youtube.com/watch?v=7ZW9xlpyD3g
-  - Transcripción: `private/transcripts/ericdejes/7ZW9xlpyD3g.md` (`source_id: youtube:7ZW9xlpyD3g`).
+- «Qohélet-Eclesiastés (parte 30) Cap 12 fin de estudio» — https://www.youtube.com/watch?v=7ZW9xlpyD3g (`source_id: youtube:7ZW9xlpyD3g`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

@@ -12,7 +12,6 @@ references:
   - "#tehilim_78_72"
 sources:
   - "https://www.youtube.com/watch?v=qLyJ1NtX0xM"
-  - "private/transcripts/ericdejes/qLyJ1NtX0xM.md"
   - "docs/scriptures/oe/json/psalms/78.json"
 source_ids:
   - "youtube:qLyJ1NtX0xM"
@@ -52,5 +51,5 @@ La lectura de Tehilim 78 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 78» — <https://www.youtube.com/watch?v=qLyJ1NtX0xM> — transcripción: `private/transcripts/ericdejes/qLyJ1NtX0xM.md` — source_id: `youtube:qLyJ1NtX0xM`.
+- «Tehilim/Himnos/Salmo Cap 78» — <https://www.youtube.com/watch?v=qLyJ1NtX0xM> — source_id: `youtube:qLyJ1NtX0xM`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -12,7 +12,6 @@ references:
   - "#tehilim_76_13"
 sources:
   - "https://www.youtube.com/watch?v=EBWU5YO1Lo4"
-  - "private/transcripts/ericdejes/EBWU5YO1Lo4.md"
   - "docs/scriptures/oe/json/psalms/76.json"
 source_ids:
   - "youtube:EBWU5YO1Lo4"
@@ -52,5 +51,5 @@ La lectura de Tehilim 76 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 76» — <https://www.youtube.com/watch?v=EBWU5YO1Lo4> — transcripción: `private/transcripts/ericdejes/EBWU5YO1Lo4.md` — source_id: `youtube:EBWU5YO1Lo4`.
+- «Tehilim/Himnos/Salmo Cap 76» — <https://www.youtube.com/watch?v=EBWU5YO1Lo4> — source_id: `youtube:EBWU5YO1Lo4`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

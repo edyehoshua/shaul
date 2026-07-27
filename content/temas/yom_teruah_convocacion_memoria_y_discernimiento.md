@@ -23,15 +23,6 @@ sources:
   - "https://www.youtube.com/watch?v=EgPkylO-TWY"
   - "https://www.youtube.com/watch?v=VqPwZ_Gltn0"
   - "https://www.youtube.com/watch?v=yyvIYg6DmFw"
-
-  - "private/transcripts/ericdejes/bYZCWrOSMyM.md"
-  - "private/transcripts/ericdejes/eKPZwHFJ6Tg.md"
-  - "private/transcripts/ericdejes/6uZpdCuu95M.md"
-  - "private/transcripts/ericdejes/16p4v1cAewY.md"
-  - "private/transcripts/ericdejes/SShsoobdC8c.md"
-  - "private/transcripts/ericdejes/EgPkylO-TWY.md"
-  - "private/transcripts/ericdejes/VqPwZ_Gltn0.md"
-  - "private/transcripts/ericdejes/yyvIYg6DmFw.md"
   - "docs/scriptures/oe/json/exodus/19.json"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/leviticus/25.json"
@@ -100,13 +91,13 @@ Yom Teruah reúne reposo, convocación y memoria ante יהוה. El sonido puede 
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- [Yom Tru'ah / Rosh Hashanah 5783](https://www.youtube.com/watch?v=bYZCWrOSMyM) — transcripción de trabajo: `private/transcripts/ericdejes/bYZCWrOSMyM.md` (source_id: `youtube:bYZCWrOSMyM`).
-- [Yom tru'ah 5786 - 2025](https://www.youtube.com/watch?v=eKPZwHFJ6Tg) — transcripción de trabajo: `private/transcripts/ericdejes/eKPZwHFJ6Tg.md` (source_id: `youtube:eKPZwHFJ6Tg`).
-- [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) — transcripción de trabajo: `private/transcripts/ericdejes/6uZpdCuu95M.md` (source_id: `youtube:6uZpdCuu95M`).
-- [Yom Tru'ah and Zichron Tru'ah](https://www.youtube.com/watch?v=16p4v1cAewY) — transcripción de trabajo: `private/transcripts/ericdejes/16p4v1cAewY.md` (source_id: `youtube:16p4v1cAewY`).
-- [Yom tru'ah neighbor tru'ah saméaj](https://www.youtube.com/watch?v=SShsoobdC8c) — transcripción de trabajo: `private/transcripts/ericdejes/SShsoobdC8c.md` (source_id: `youtube:SShsoobdC8c`).
-- [yom tru'ah 5779 - 2018 El día de la visitación](https://www.youtube.com/watch?v=EgPkylO-TWY) — transcripción de trabajo: `private/transcripts/ericdejes/EgPkylO-TWY.md` (source_id: `youtube:EgPkylO-TWY`).
-- [Yom tru'áh - the day of Tru'áh](https://www.youtube.com/watch?v=VqPwZ_Gltn0) — transcripción de trabajo: `private/transcripts/ericdejes/VqPwZ_Gltn0.md` (source_id: `youtube:VqPwZ_Gltn0`).
-- [Yom/Zijrón tru'áh 2017 - Calendario hebreo y el séder](https://www.youtube.com/watch?v=yyvIYg6DmFw) — transcripción de trabajo: `private/transcripts/ericdejes/yyvIYg6DmFw.md` (source_id: `youtube:yyvIYg6DmFw`).
+- [Yom Tru'ah / Rosh Hashanah 5783](https://www.youtube.com/watch?v=bYZCWrOSMyM) (source_id: `youtube:bYZCWrOSMyM`).
+- [Yom tru'ah 5786 - 2025](https://www.youtube.com/watch?v=eKPZwHFJ6Tg) (source_id: `youtube:eKPZwHFJ6Tg`).
+- [Conversatorio sobre Yom tru'áh / Ro'sh hashanah 2019](https://www.youtube.com/watch?v=6uZpdCuu95M) (source_id: `youtube:6uZpdCuu95M`).
+- [Yom Tru'ah and Zichron Tru'ah](https://www.youtube.com/watch?v=16p4v1cAewY) (source_id: `youtube:16p4v1cAewY`).
+- [Yom tru'ah neighbor tru'ah saméaj](https://www.youtube.com/watch?v=SShsoobdC8c) (source_id: `youtube:SShsoobdC8c`).
+- [yom tru'ah 5779 - 2018 El día de la visitación](https://www.youtube.com/watch?v=EgPkylO-TWY) (source_id: `youtube:EgPkylO-TWY`).
+- [Yom tru'áh - the day of Tru'áh](https://www.youtube.com/watch?v=VqPwZ_Gltn0) (source_id: `youtube:VqPwZ_Gltn0`).
+- [Yom/Zijrón tru'áh 2017 - Calendario hebreo y el séder](https://www.youtube.com/watch?v=yyvIYg6DmFw) (source_id: `youtube:yyvIYg6DmFw`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

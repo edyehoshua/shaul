@@ -12,7 +12,6 @@ references:
   - "#tehilim_98_9"
 sources:
   - "https://www.youtube.com/watch?v=YR2hC3YqrjY"
-  - "private/transcripts/ericdejes/YR2hC3YqrjY.md"
   - "docs/scriptures/oe/json/psalms/98.json"
 source_ids:
   - "youtube:YR2hC3YqrjY"
@@ -52,5 +51,5 @@ La lectura de Tehilim 98 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 98» — <https://www.youtube.com/watch?v=YR2hC3YqrjY> — transcripción: `private/transcripts/ericdejes/YR2hC3YqrjY.md` — source_id: `youtube:YR2hC3YqrjY`.
+- «Tehilim/Himnos/Salmo Cap 98» — <https://www.youtube.com/watch?v=YR2hC3YqrjY> — source_id: `youtube:YR2hC3YqrjY`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

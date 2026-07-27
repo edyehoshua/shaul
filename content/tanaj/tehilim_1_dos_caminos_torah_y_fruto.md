@@ -19,7 +19,6 @@ references:
   - "#corintiyim_alef_16_13"
 sources:
   - "https://www.youtube.com/watch?v=E75BcPnWe5E"
-  - "private/transcripts/ericdejes/E75BcPnWe5E.md"
   - "docs/scriptures/oe/json/raw/psalms.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -79,5 +78,5 @@ Tehilim 1 presenta la vida justa como un camino recibido y sostenido por la Tora
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 1» — <https://www.youtube.com/watch?v=E75BcPnWe5E> — transcripción: `private/transcripts/ericdejes/E75BcPnWe5E.md` — source_id: `youtube:E75BcPnWe5E`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 1» — <https://www.youtube.com/watch?v=E75BcPnWe5E> — source_id: `youtube:E75BcPnWe5E`.
 - La transcripción es automática y se usa como apoyo de estudio; no se presenta como cita literal ni como transcripción revisada por el expositor.

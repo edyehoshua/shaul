@@ -12,7 +12,6 @@ references:
   - "#tehilim_14_7"
 sources:
   - "https://www.youtube.com/watch?v=EC-nI5OxfZw"
-  - "private/transcripts/ericdejes/EC-nI5OxfZw.md"
   - "docs/scriptures/oe/json/psalms/14.json"
 source_ids:
   - "youtube:EC-nI5OxfZw"
@@ -52,5 +51,5 @@ La lectura de Tehilim 14 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 14» — <https://www.youtube.com/watch?v=EC-nI5OxfZw> — transcripción: `private/transcripts/ericdejes/EC-nI5OxfZw.md` — source_id: `youtube:EC-nI5OxfZw`.
+- «Tehilim/Hymnos/Salmo Chap 14» — <https://www.youtube.com/watch?v=EC-nI5OxfZw> — source_id: `youtube:EC-nI5OxfZw`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

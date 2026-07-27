@@ -15,8 +15,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=piMtrd0ksmQ"
   - "https://www.youtube.com/watch?v=t4d1TJBqE9g"
-  - "private/transcripts/ericdejes/piMtrd0ksmQ.md"
-  - "private/transcripts/ericdejes/t4d1TJBqE9g.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -63,5 +61,5 @@ La sanidad abre una pregunta sobre la obra de יהוה; el discurso responde con
 
 Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
 
-- «El Evangelio según Yojanán/Juan (2018) Cap 5» — https://www.youtube.com/watch?v=piMtrd0ksmQ — `private/transcripts/ericdejes/piMtrd0ksmQ.md` (`youtube:piMtrd0ksmQ`).
-- «El Evangelio según Yojanán/Juan (2018) Cap. 5 parte 15 'Aba' y Brá'» — https://www.youtube.com/watch?v=t4d1TJBqE9g — `private/transcripts/ericdejes/t4d1TJBqE9g.md` (`youtube:t4d1TJBqE9g`).
+- «El Evangelio según Yojanán/Juan (2018) Cap 5» — https://www.youtube.com/watch?v=piMtrd0ksmQ — (`youtube:piMtrd0ksmQ`).
+- «El Evangelio según Yojanán/Juan (2018) Cap. 5 parte 15 'Aba' y Brá'» — https://www.youtube.com/watch?v=t4d1TJBqE9g — (`youtube:t4d1TJBqE9g`).

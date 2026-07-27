@@ -12,7 +12,6 @@ references:
   - "#tehilim_60_14"
 sources:
   - "https://www.youtube.com/watch?v=641uZetadqs"
-  - "private/transcripts/ericdejes/641uZetadqs.md"
   - "docs/scriptures/oe/json/psalms/60.json"
 source_ids:
   - "youtube:641uZetadqs"
@@ -52,5 +51,5 @@ La lectura de Tehilim 60 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 60» — <https://www.youtube.com/watch?v=641uZetadqs> — transcripción: `private/transcripts/ericdejes/641uZetadqs.md` — source_id: `youtube:641uZetadqs`.
+- «Tehilim/Himnos/Salmo Cap 60» — <https://www.youtube.com/watch?v=641uZetadqs> — source_id: `youtube:641uZetadqs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

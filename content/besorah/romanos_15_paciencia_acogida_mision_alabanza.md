@@ -12,7 +12,6 @@ references:
   - "#romanos_15_20-21"
 sources:
   - "https://www.youtube.com/watch?v=mjo6EdF3RPs"
-  - "private/transcripts/ericdejes/mjo6EdF3RPs.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:mjo6EdF3RPs"
@@ -63,5 +62,5 @@ Romanos 15 sitúa la paciencia, la consolación y la acogida dentro de una misma
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [The Epistle to the Romans (Part 33) Patience, Consolation, and Peace](https://www.youtube.com/watch?v=mjo6EdF3RPs) — transcripción de trabajo: `private/transcripts/ericdejes/mjo6EdF3RPs.md` (source_id: `youtube:mjo6EdF3RPs`).
+- [The Epistle to the Romans (Part 33) Patience, Consolation, and Peace](https://www.youtube.com/watch?v=mjo6EdF3RPs) (source_id: `youtube:mjo6EdF3RPs`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

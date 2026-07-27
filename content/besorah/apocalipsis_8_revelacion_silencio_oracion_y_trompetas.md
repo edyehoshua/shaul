@@ -16,7 +16,6 @@ references:
   - "#revelation_8_13"
 sources:
   - "https://www.youtube.com/watch?v=nxJcRWfNkqs"
-  - "private/transcripts/ericdejes/nxJcRWfNkqs.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:nxJcRWfNkqs"
@@ -59,7 +58,6 @@ Apocalipsis 8 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Part 18 The Revelation of Yehoshua HaMashiach: The Trumpets» — https://www.youtube.com/watch?v=nxJcRWfNkqs
-  - Transcripción: `private/transcripts/ericdejes/nxJcRWfNkqs.md` (`source_id: youtube:nxJcRWfNkqs`).
+- «Part 18 The Revelation of Yehoshua HaMashiach: The Trumpets» — https://www.youtube.com/watch?v=nxJcRWfNkqs (`source_id: youtube:nxJcRWfNkqs`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

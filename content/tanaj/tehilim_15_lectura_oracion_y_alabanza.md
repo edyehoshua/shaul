@@ -12,7 +12,6 @@ references:
   - "#tehilim_15_5"
 sources:
   - "https://www.youtube.com/watch?v=Cazychv1rks"
-  - "private/transcripts/ericdejes/Cazychv1rks.md"
   - "docs/scriptures/oe/json/psalms/15.json"
 source_ids:
   - "youtube:Cazychv1rks"
@@ -52,5 +51,5 @@ La lectura de Tehilim 15 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo chap 15» — <https://www.youtube.com/watch?v=Cazychv1rks> — transcripción: `private/transcripts/ericdejes/Cazychv1rks.md` — source_id: `youtube:Cazychv1rks`.
+- «Tehilim/Hymnos/Salmo chap 15» — <https://www.youtube.com/watch?v=Cazychv1rks> — source_id: `youtube:Cazychv1rks`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

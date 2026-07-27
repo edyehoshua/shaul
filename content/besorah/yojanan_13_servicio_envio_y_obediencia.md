@@ -20,7 +20,6 @@ references:
   - "#ivrim_10_7"
 sources:
   - "https://www.youtube.com/watch?v=j8X5qMbLDfM"
-  - "private/transcripts/ericdejes/j8X5qMbLDfM.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:

@@ -37,10 +37,6 @@ sources:
   - "https://www.youtube.com/watch?v=Lx_aGSNMKTc"
   - "https://www.youtube.com/watch?v=bZtcpYr74ag"
   - "https://www.youtube.com/watch?v=78yj9T3rFbI"
-  - "private/transcripts/ericdejes/UAUNTfl_egA.md"
-  - "private/transcripts/ericdejes/Lx_aGSNMKTc.md"
-  - "private/transcripts/ericdejes/bZtcpYr74ag.md"
-  - "private/transcripts/ericdejes/78yj9T3rFbI.md"
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:UAUNTfl_egA"
@@ -119,8 +115,8 @@ Colosenses 2 llama a una comunidad cimentada en Yehoshua a reconocer la plenitud
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los colosenses (parte 6) cap 2A](https://www.youtube.com/watch?v=UAUNTfl_egA) — transcripción de trabajo: `private/transcripts/ericdejes/UAUNTfl_egA.md` (source_id: `youtube:UAUNTfl_egA`).
-- [A los colosenses (parte 7) cap 2B](https://www.youtube.com/watch?v=Lx_aGSNMKTc) — transcripción de trabajo: `private/transcripts/ericdejes/Lx_aGSNMKTc.md` (source_id: `youtube:Lx_aGSNMKTc`).
-- [A los colosenses (parte 8) cap 2C](https://www.youtube.com/watch?v=bZtcpYr74ag) — transcripción de trabajo: `private/transcripts/ericdejes/bZtcpYr74ag.md` (source_id: `youtube:bZtcpYr74ag`).
-- [A los colosenses (parte 9) cap 2D](https://www.youtube.com/watch?v=78yj9T3rFbI) — transcripción de trabajo: `private/transcripts/ericdejes/78yj9T3rFbI.md` (source_id: `youtube:78yj9T3rFbI`).
+- [A los colosenses (parte 6) cap 2A](https://www.youtube.com/watch?v=UAUNTfl_egA) (source_id: `youtube:UAUNTfl_egA`).
+- [A los colosenses (parte 7) cap 2B](https://www.youtube.com/watch?v=Lx_aGSNMKTc) (source_id: `youtube:Lx_aGSNMKTc`).
+- [A los colosenses (parte 8) cap 2C](https://www.youtube.com/watch?v=bZtcpYr74ag) (source_id: `youtube:bZtcpYr74ag`).
+- [A los colosenses (parte 9) cap 2D](https://www.youtube.com/watch?v=78yj9T3rFbI) (source_id: `youtube:78yj9T3rFbI`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

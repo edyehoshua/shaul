@@ -33,8 +33,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=xEjiNJv1SwY"
   - "https://www.youtube.com/watch?v=mDRnD6fp42I"
-  - "private/transcripts/ericdejes/xEjiNJv1SwY.md"
-  - "private/transcripts/ericdejes/mDRnD6fp42I.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/tehilim.json"

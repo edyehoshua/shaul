@@ -14,7 +14,6 @@ references:
   - "#revelation_19_10"
 sources:
   - "https://www.youtube.com/watch?v=-EChy2g2Mcw"
-  - "private/transcripts/ericdejes/-EChy2g2Mcw.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:-EChy2g2Mcw"
@@ -57,7 +56,6 @@ Apocalipsis 19 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 27 La revelación de Yehoshúa' Hamashíaj: Las bodas del cordero, del gran Dios» — https://www.youtube.com/watch?v=-EChy2g2Mcw
-  - Transcripción: `private/transcripts/ericdejes/-EChy2g2Mcw.md` (`source_id: youtube:-EChy2g2Mcw`).
+- «Parte 27 La revelación de Yehoshúa' Hamashíaj: Las bodas del cordero, del gran Dios» — https://www.youtube.com/watch?v=-EChy2g2Mcw (`source_id: youtube:-EChy2g2Mcw`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

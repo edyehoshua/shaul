@@ -49,11 +49,6 @@ sources:
   - "https://www.youtube.com/watch?v=tGwLek2HUgA"
   - "https://www.youtube.com/watch?v=9jV0e76Vc1I"
   - "https://www.youtube.com/watch?v=x2w72oTT-rY"
-  - "private/transcripts/ericdejes/8vhNM-b0fso.md"
-  - "private/transcripts/ericdejes/LSfmSufaylQ.md"
-  - "private/transcripts/ericdejes/tGwLek2HUgA.md"
-  - "private/transcripts/ericdejes/9jV0e76Vc1I.md"
-  - "private/transcripts/ericdejes/x2w72oTT-rY.md"
   - "docs/scriptures/delitzsch/json/colossians.json"
   - "docs/scriptures/oe/json/deuteronomy/4.json"
   - "docs/scriptures/oe/json/deuteronomy/30.json"
@@ -156,9 +151,9 @@ Colosenses 1 une la identidad recibida en el Mesías con una vida de emunah, amo
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los Colosenses (parte 1) Introducción](https://www.youtube.com/watch?v=8vhNM-b0fso) — transcripción de trabajo: `private/transcripts/ericdejes/8vhNM-b0fso.md`.
-- [A los Colosenses (parte 2) Cap 1A](https://www.youtube.com/watch?v=LSfmSufaylQ) — transcripción de trabajo: `private/transcripts/ericdejes/LSfmSufaylQ.md`.
-- [A los colosenses (parte 3) Cap 1B](https://www.youtube.com/watch?v=tGwLek2HUgA) — transcripción de trabajo: `private/transcripts/ericdejes/tGwLek2HUgA.md`.
-- [A los colosenses (parte 4) Cap 1C](https://www.youtube.com/watch?v=9jV0e76Vc1I) — transcripción de trabajo: `private/transcripts/ericdejes/9jV0e76Vc1I.md`.
-- [A los colosenses (parte 5) 1D](https://www.youtube.com/watch?v=x2w72oTT-rY) — transcripción de trabajo: `private/transcripts/ericdejes/x2w72oTT-rY.md`.
+- [A los Colosenses (parte 1) Introducción](https://www.youtube.com/watch?v=8vhNM-b0fso) .
+- [A los Colosenses (parte 2) Cap 1A](https://www.youtube.com/watch?v=LSfmSufaylQ) .
+- [A los colosenses (parte 3) Cap 1B](https://www.youtube.com/watch?v=tGwLek2HUgA) .
+- [A los colosenses (parte 4) Cap 1C](https://www.youtube.com/watch?v=9jV0e76Vc1I) .
+- [A los colosenses (parte 5) 1D](https://www.youtube.com/watch?v=x2w72oTT-rY) .
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

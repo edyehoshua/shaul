@@ -14,7 +14,6 @@ references:
   - "#bereshit_12_7"
 sources:
   - "https://www.youtube.com/watch?v=FK5RxbplFK0"
-  - "private/transcripts/ericdejes/FK5RxbplFK0.md"
   - "docs/scriptures/oe/json/raw/genesis.json"
 source_ids:
   - "youtube:FK5RxbplFK0"
@@ -70,5 +69,5 @@ Bereshit 12 sitúa la obediencia de Abram dentro de la iniciativa de יהוה: �
 ## Créditos
 
 - **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Parashát Lej - lejá (2016) - Gn 12:1-17-27 La promesa del retorno» — <https://www.youtube.com/watch?v=FK5RxbplFK0> — transcripción: `private/transcripts/ericdejes/FK5RxbplFK0.md` — source_id: `youtube:FK5RxbplFK0`.
+- «Parashát Lej - lejá (2016) - Gn 12:1-17-27 La promesa del retorno» — <https://www.youtube.com/watch?v=FK5RxbplFK0> — source_id: `youtube:FK5RxbplFK0`.
 - La transcripción es automática y se usa como apoyo de estudio; no se presenta como cita literal ni como transcripción revisada por el expositor.

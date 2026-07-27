@@ -12,7 +12,6 @@ references:
   - "#tehilim_92_16"
 sources:
   - "https://www.youtube.com/watch?v=I_rKKvwzmtg"
-  - "private/transcripts/ericdejes/I_rKKvwzmtg.md"
   - "docs/scriptures/oe/json/psalms/92.json"
 source_ids:
   - "youtube:I_rKKvwzmtg"
@@ -52,5 +51,5 @@ La lectura de Tehilim 92 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Cap 92» — <https://www.youtube.com/watch?v=I_rKKvwzmtg> — transcripción: `private/transcripts/ericdejes/I_rKKvwzmtg.md` — source_id: `youtube:I_rKKvwzmtg`.
+- «Tehilim/Hymnos/Salmo Cap 92» — <https://www.youtube.com/watch?v=I_rKKvwzmtg> — source_id: `youtube:I_rKKvwzmtg`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

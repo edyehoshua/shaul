@@ -12,7 +12,6 @@ references:
   - "#hebrews_2_18"
 sources:
   - "https://www.youtube.com/watch?v=e3RDIltNn6E"
-  - "private/transcripts/ericdejes/e3RDIltNn6E.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:e3RDIltNn6E"
@@ -51,6 +50,6 @@ El capítulo exhorta a escuchar con seriedad y presenta a Yehoshua como aquel qu
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «A los hebreos parte 3: Cap 2: El Drash entre el salmo 8 e Isaías 8» — https://www.youtube.com/watch?v=e3RDIltNn6E — transcripción: `private/transcripts/ericdejes/e3RDIltNn6E.md` — source_id: `youtube:e3RDIltNn6E`.
+- «A los hebreos parte 3: Cap 2: El Drash entre el salmo 8 e Isaías 8» — https://www.youtube.com/watch?v=e3RDIltNn6E — source_id: `youtube:e3RDIltNn6E`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

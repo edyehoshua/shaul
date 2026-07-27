@@ -26,15 +26,10 @@ references:
   - "#songofsolomon_5_16"
 sources:
   - "https://www.youtube.com/watch?v=CMEiD_2EXrU"
-  - "private/transcripts/ericdejes/CMEiD_2EXrU.md"
   - "https://www.youtube.com/watch?v=0xRSI1cvFIU"
-  - "private/transcripts/ericdejes/0xRSI1cvFIU.md"
   - "https://www.youtube.com/watch?v=lLB9-pbVKAk"
-  - "private/transcripts/ericdejes/lLB9-pbVKAk.md"
   - "https://www.youtube.com/watch?v=Amg-3Ot2QmU"
-  - "private/transcripts/ericdejes/Amg-3Ot2QmU.md"
   - "https://www.youtube.com/watch?v=Owqc-XCwaOo"
-  - "private/transcripts/ericdejes/Owqc-XCwaOo.md"
   - "docs/scriptures/oe/json/songofsolomon/5.json"
 source_ids:
   - "youtube:CMEiD_2EXrU"
@@ -79,15 +74,10 @@ Cantar 5 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (part 17) Cap 5» — https://www.youtube.com/watch?v=CMEiD_2EXrU
-  - Transcripción: `private/transcripts/ericdejes/CMEiD_2EXrU.md` (`source_id: youtube:CMEiD_2EXrU`).
-- «Shir hashirim (parte 14) Cap 5» — https://www.youtube.com/watch?v=0xRSI1cvFIU
-  - Transcripción: `private/transcripts/ericdejes/0xRSI1cvFIU.md` (`source_id: youtube:0xRSI1cvFIU`).
-- «Shir hashirim (parte 15) Cap 5» — https://www.youtube.com/watch?v=lLB9-pbVKAk
-  - Transcripción: `private/transcripts/ericdejes/lLB9-pbVKAk.md` (`source_id: youtube:lLB9-pbVKAk`).
-- «Shir hashirim (parte 16) cap 5» — https://www.youtube.com/watch?v=Amg-3Ot2QmU
-  - Transcripción: `private/transcripts/ericdejes/Amg-3Ot2QmU.md` (`source_id: youtube:Amg-3Ot2QmU`).
-- «Shir hashirim (parte 18) Cap 5» — https://www.youtube.com/watch?v=Owqc-XCwaOo
-  - Transcripción: `private/transcripts/ericdejes/Owqc-XCwaOo.md` (`source_id: youtube:Owqc-XCwaOo`).
+- «Shir hashirim (part 17) Cap 5» — https://www.youtube.com/watch?v=CMEiD_2EXrU (`source_id: youtube:CMEiD_2EXrU`).
+- «Shir hashirim (parte 14) Cap 5» — https://www.youtube.com/watch?v=0xRSI1cvFIU (`source_id: youtube:0xRSI1cvFIU`).
+- «Shir hashirim (parte 15) Cap 5» — https://www.youtube.com/watch?v=lLB9-pbVKAk (`source_id: youtube:lLB9-pbVKAk`).
+- «Shir hashirim (parte 16) cap 5» — https://www.youtube.com/watch?v=Amg-3Ot2QmU (`source_id: youtube:Amg-3Ot2QmU`).
+- «Shir hashirim (parte 18) Cap 5» — https://www.youtube.com/watch?v=Owqc-XCwaOo (`source_id: youtube:Owqc-XCwaOo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

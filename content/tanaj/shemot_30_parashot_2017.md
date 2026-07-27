@@ -9,7 +9,6 @@ references:
   - "#shemot_30_1"
 sources:
   - "https://www.youtube.com/watch?v=dNFrW9BaMU8"
-  - "private/transcripts/ericdejes/dNFrW9BaMU8.md"
   - "docs/scriptures/oe/json/exodus/30.json"
 source_ids:
   - "youtube:dNFrW9BaMU8"
@@ -48,5 +47,5 @@ Shemot 30 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Ki Tisá' (2017) - La unción de la santidad](https://www.youtube.com/watch?v=dNFrW9BaMU8) — transcripción de trabajo: `private/transcripts/ericdejes/dNFrW9BaMU8.md` (source_id: `youtube:dNFrW9BaMU8`).
+- [Parashat Ki Tisá' (2017) - La unción de la santidad](https://www.youtube.com/watch?v=dNFrW9BaMU8) (source_id: `youtube:dNFrW9BaMU8`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

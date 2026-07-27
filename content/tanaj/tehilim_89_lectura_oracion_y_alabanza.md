@@ -12,7 +12,6 @@ references:
   - "#tehilim_89_53"
 sources:
   - "https://www.youtube.com/watch?v=ZxxXuM0Xvnw"
-  - "private/transcripts/ericdejes/ZxxXuM0Xvnw.md"
   - "docs/scriptures/oe/json/psalms/89.json"
 source_ids:
   - "youtube:ZxxXuM0Xvnw"
@@ -52,5 +51,5 @@ La lectura de Tehilim 89 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 89» — <https://www.youtube.com/watch?v=ZxxXuM0Xvnw> — transcripción: `private/transcripts/ericdejes/ZxxXuM0Xvnw.md` — source_id: `youtube:ZxxXuM0Xvnw`.
+- «Tehilim/Himnos/Salmo Cap 89» — <https://www.youtube.com/watch?v=ZxxXuM0Xvnw> — source_id: `youtube:ZxxXuM0Xvnw`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

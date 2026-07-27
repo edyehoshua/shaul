@@ -8,8 +8,6 @@ sources:
   [
     "https://www.youtube.com/watch?v=0tc7KX2dwHI",
     "https://www.youtube.com/watch?v=pMP3wkV3ya0",
-    "private/transcripts/ericdejes/0tc7KX2dwHI.md",
-    "private/transcripts/ericdejes/pMP3wkV3ya0.md",
     "docs/scriptures/oe/json/isaiah/54.json",
   ]
 source_ids: ["youtube:0tc7KX2dwHI", "youtube:pMP3wkV3ya0"]
@@ -37,6 +35,6 @@ La restauración de Sion procede de la compasión estable de יהוה.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Re'eh (2018) El Déshen y las piedades fieles del amado](https://www.youtube.com/watch?v=0tc7KX2dwHI) — transcripción: `private/transcripts/ericdejes/0tc7KX2dwHI.md` — source_id: `youtube:0tc7KX2dwHI`.
-- Video: [Haftaráh de Nóaj (2017) YHWH Tzva'ot es su nombre](https://www.youtube.com/watch?v=pMP3wkV3ya0) — transcripción: `private/transcripts/ericdejes/pMP3wkV3ya0.md` — source_id: `youtube:pMP3wkV3ya0`.
+- Video: [Haftaráh de Re'eh (2018) El Déshen y las piedades fieles del amado](https://www.youtube.com/watch?v=0tc7KX2dwHI) — source_id: `youtube:0tc7KX2dwHI`.
+- Video: [Haftaráh de Nóaj (2017) YHWH Tzva'ot es su nombre](https://www.youtube.com/watch?v=pMP3wkV3ya0) — source_id: `youtube:pMP3wkV3ya0`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

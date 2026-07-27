@@ -21,9 +21,7 @@ references:
   - "#songofsolomon_3_11"
 sources:
   - "https://www.youtube.com/watch?v=bBUWoLdQNNY"
-  - "private/transcripts/ericdejes/bBUWoLdQNNY.md"
   - "https://www.youtube.com/watch?v=Jwv2fYTfxeQ"
-  - "private/transcripts/ericdejes/Jwv2fYTfxeQ.md"
   - "docs/scriptures/oe/json/songofsolomon/3.json"
 source_ids:
   - "youtube:bBUWoLdQNNY"
@@ -65,9 +63,7 @@ Cantar 3 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir Hashirim (Parte 10) Cap 3» — https://www.youtube.com/watch?v=bBUWoLdQNNY
-  - Transcripción: `private/transcripts/ericdejes/bBUWoLdQNNY.md` (`source_id: youtube:bBUWoLdQNNY`).
-- «Shir hashirim (parte 9) Cap 3» — https://www.youtube.com/watch?v=Jwv2fYTfxeQ
-  - Transcripción: `private/transcripts/ericdejes/Jwv2fYTfxeQ.md` (`source_id: youtube:Jwv2fYTfxeQ`).
+- «Shir Hashirim (Parte 10) Cap 3» — https://www.youtube.com/watch?v=bBUWoLdQNNY (`source_id: youtube:bBUWoLdQNNY`).
+- «Shir hashirim (parte 9) Cap 3» — https://www.youtube.com/watch?v=Jwv2fYTfxeQ (`source_id: youtube:Jwv2fYTfxeQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

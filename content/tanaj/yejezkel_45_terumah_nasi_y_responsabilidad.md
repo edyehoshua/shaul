@@ -6,7 +6,6 @@ tags: [tanaj, yejezkel, haftarah, vayiqra, hachodesh]
 references: ["#iejezkel_45_16", "#iejezkel_46_1"]
 sources:
   - "https://www.youtube.com/watch?v=KFnAJ5hPCK0"
-  - "private/transcripts/ericdejes/KFnAJ5hPCK0.md"
   - "docs/scriptures/oe/json/ezekiel/45.json"
 source_ids: ["youtube:KFnAJ5hPCK0"]
 ---
@@ -40,5 +39,5 @@ La visión orienta el servicio hacia un orden responsable delante de יהוה, n
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [HAFTARÁH DE VAYIQRA' - PARASHAT HAJÓDESH: El Nasí' de Yisra'el](https://www.youtube.com/watch?v=KFnAJ5hPCK0) — transcripción: `private/transcripts/ericdejes/KFnAJ5hPCK0.md` — source_id: `youtube:KFnAJ5hPCK0`.
+- Video: [HAFTARÁH DE VAYIQRA' - PARASHAT HAJÓDESH: El Nasí' de Yisra'el](https://www.youtube.com/watch?v=KFnAJ5hPCK0) — source_id: `youtube:KFnAJ5hPCK0`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

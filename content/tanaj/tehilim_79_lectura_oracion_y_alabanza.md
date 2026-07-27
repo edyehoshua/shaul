@@ -12,7 +12,6 @@ references:
   - "#tehilim_79_13"
 sources:
   - "https://www.youtube.com/watch?v=IdyilEbAq74"
-  - "private/transcripts/ericdejes/IdyilEbAq74.md"
   - "docs/scriptures/oe/json/psalms/79.json"
 source_ids:
   - "youtube:IdyilEbAq74"
@@ -52,5 +51,5 @@ La lectura de Tehilim 79 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 79» — <https://www.youtube.com/watch?v=IdyilEbAq74> — transcripción: `private/transcripts/ericdejes/IdyilEbAq74.md` — source_id: `youtube:IdyilEbAq74`.
+- «Tehilim/Himnos/Salmo Cap 79» — <https://www.youtube.com/watch?v=IdyilEbAq74> — source_id: `youtube:IdyilEbAq74`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

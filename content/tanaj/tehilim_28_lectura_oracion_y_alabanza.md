@@ -12,7 +12,6 @@ references:
   - "#tehilim_28_9"
 sources:
   - "https://www.youtube.com/watch?v=jJU3U7-b6IY"
-  - "private/transcripts/ericdejes/jJU3U7-b6IY.md"
   - "docs/scriptures/oe/json/psalms/28.json"
 source_ids:
   - "youtube:jJU3U7-b6IY"
@@ -52,5 +51,5 @@ La lectura de Tehilim 28 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 28» — <https://www.youtube.com/watch?v=jJU3U7-b6IY> — transcripción: `private/transcripts/ericdejes/jJU3U7-b6IY.md` — source_id: `youtube:jJU3U7-b6IY`.
+- «Tehilim/Himnos/Salmo Cap 28» — <https://www.youtube.com/watch?v=jJU3U7-b6IY> — source_id: `youtube:jJU3U7-b6IY`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -6,7 +6,6 @@ tags: [tanaj, yirmeyahu, haftarah, bejuqotay]
 references: ["#irmeiahu_16_19", "#irmeiahu_17_13"]
 sources:
   - "https://www.youtube.com/watch?v=n6u7FR7nD4o"
-  - "private/transcripts/ericdejes/n6u7FR7nD4o.md"
   - "docs/scriptures/oe/json/jeremiah/16.json"
 source_ids: ["youtube:n6u7FR7nD4o"]
 ---
@@ -36,5 +35,5 @@ La esperanza de Israel no descansa en una tradición vacía ni en posesión huma
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh Bejuqotay: Yirmeyahu 16:19-17:14 El Miqvéh de Yisra'el es YHWH](https://www.youtube.com/watch?v=n6u7FR7nD4o) — transcripción: `private/transcripts/ericdejes/n6u7FR7nD4o.md` — source_id: `youtube:n6u7FR7nD4o`.
+- Video: [Haftaráh Bejuqotay: Yirmeyahu 16:19-17:14 El Miqvéh de Yisra'el es YHWH](https://www.youtube.com/watch?v=n6u7FR7nD4o) — source_id: `youtube:n6u7FR7nD4o`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

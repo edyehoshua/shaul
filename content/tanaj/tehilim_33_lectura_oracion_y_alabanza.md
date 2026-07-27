@@ -12,7 +12,6 @@ references:
   - "#tehilim_33_22"
 sources:
   - "https://www.youtube.com/watch?v=HEY9sYeTbnk"
-  - "private/transcripts/ericdejes/HEY9sYeTbnk.md"
   - "docs/scriptures/oe/json/psalms/33.json"
 source_ids:
   - "youtube:HEY9sYeTbnk"
@@ -52,5 +51,5 @@ La lectura de Tehilim 33 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 33» — <https://www.youtube.com/watch?v=HEY9sYeTbnk> — transcripción: `private/transcripts/ericdejes/HEY9sYeTbnk.md` — source_id: `youtube:HEY9sYeTbnk`.
+- «Tehilim/Himnos/Salmo Cap 33» — <https://www.youtube.com/watch?v=HEY9sYeTbnk> — source_id: `youtube:HEY9sYeTbnk`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

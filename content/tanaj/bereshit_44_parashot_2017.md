@@ -9,7 +9,6 @@ references:
   - "#bereshit_44_1"
 sources:
   - "https://www.youtube.com/watch?v=4hBwWXXSvQQ"
-  - "private/transcripts/ericdejes/4hBwWXXSvQQ.md"
   - "docs/scriptures/oe/json/genesis/44.json"
 source_ids:
   - "youtube:4hBwWXXSvQQ"
@@ -48,5 +47,5 @@ Bereshit 44 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayigash (2017) The people who sanctify life](https://www.youtube.com/watch?v=4hBwWXXSvQQ) — transcripción de trabajo: `private/transcripts/ericdejes/4hBwWXXSvQQ.md` (source_id: `youtube:4hBwWXXSvQQ`).
+- [Parashat Vayigash (2017) The people who sanctify life](https://www.youtube.com/watch?v=4hBwWXXSvQQ) (source_id: `youtube:4hBwWXXSvQQ`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

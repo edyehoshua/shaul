@@ -11,11 +11,8 @@ references:
   - "#romanos_2_29"
 sources:
   - "https://www.youtube.com/watch?v=s1GjTmOIsc0"
-  - "private/transcripts/ericdejes/s1GjTmOIsc0.md"
   - "https://www.youtube.com/watch?v=ARbk1Ce12Ew"
-  - "private/transcripts/ericdejes/ARbk1Ce12Ew.md"
   - "https://www.youtube.com/watch?v=58zpHWwa9Xw"
-  - "private/transcripts/ericdejes/58zpHWwa9Xw.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:s1GjTmOIsc0"
@@ -68,7 +65,7 @@ Romanos 2 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 4) Cap 2:5 Tshuváh - el retorno](https://www.youtube.com/watch?v=s1GjTmOIsc0) — transcripción de trabajo: `private/transcripts/ericdejes/s1GjTmOIsc0.md` (source_id: `youtube:s1GjTmOIsc0`).
-- [La carta a los romanos (Parte 5) Cap 2:5-16 La torah escrita en el corazón](https://www.youtube.com/watch?v=ARbk1Ce12Ew) — transcripción de trabajo: `private/transcripts/ericdejes/ARbk1Ce12Ew.md` (source_id: `youtube:ARbk1Ce12Ew`).
-- [La carta a los romanos (parte 6B) No es predestinación, es elección](https://www.youtube.com/watch?v=58zpHWwa9Xw) — transcripción de trabajo: `private/transcripts/ericdejes/58zpHWwa9Xw.md` (source_id: `youtube:58zpHWwa9Xw`).
+- [La carta a los romanos (parte 4) Cap 2:5 Tshuváh - el retorno](https://www.youtube.com/watch?v=s1GjTmOIsc0) (source_id: `youtube:s1GjTmOIsc0`).
+- [La carta a los romanos (Parte 5) Cap 2:5-16 La torah escrita en el corazón](https://www.youtube.com/watch?v=ARbk1Ce12Ew) (source_id: `youtube:ARbk1Ce12Ew`).
+- [La carta a los romanos (parte 6B) No es predestinación, es elección](https://www.youtube.com/watch?v=58zpHWwa9Xw) (source_id: `youtube:58zpHWwa9Xw`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -25,7 +25,6 @@ references:
   - "#ivrim_2_14"
 sources:
   - "https://www.youtube.com/watch?v=VVm-WU1X-Hk"
-  - "private/transcripts/ericdejes/VVm-WU1X-Hk.md"
   - "docs/scriptures/oe/json/raw/psalms.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -126,5 +125,5 @@ Tehilim 7 enseña a buscar refugio sin usar la propia aflicción para declararse
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehillim/Hymns/Psalm Chapter 7](https://www.youtube.com/watch?v=VVm-WU1X-Hk) — transcripción: `private/transcripts/ericdejes/VVm-WU1X-Hk.md` — source_id: `youtube:VVm-WU1X-Hk`.
+- Video: [Tehillim/Hymns/Psalm Chapter 7](https://www.youtube.com/watch?v=VVm-WU1X-Hk) — source_id: `youtube:VVm-WU1X-Hk`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

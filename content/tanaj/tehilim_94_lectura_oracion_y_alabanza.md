@@ -12,7 +12,6 @@ references:
   - "#tehilim_94_23"
 sources:
   - "https://www.youtube.com/watch?v=PJRyPclz_GA"
-  - "private/transcripts/ericdejes/PJRyPclz_GA.md"
   - "docs/scriptures/oe/json/psalms/94.json"
 source_ids:
   - "youtube:PJRyPclz_GA"
@@ -52,5 +51,5 @@ La lectura de Tehilim 94 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 94» — <https://www.youtube.com/watch?v=PJRyPclz_GA> — transcripción: `private/transcripts/ericdejes/PJRyPclz_GA.md` — source_id: `youtube:PJRyPclz_GA`.
+- «Tehilim/Himnos/Salmo Cap 94» — <https://www.youtube.com/watch?v=PJRyPclz_GA> — source_id: `youtube:PJRyPclz_GA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

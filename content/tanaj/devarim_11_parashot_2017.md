@@ -9,7 +9,6 @@ references:
   - "#devarim_11_1"
 sources:
   - "https://www.youtube.com/watch?v=St2dkeSW2uE"
-  - "private/transcripts/ericdejes/St2dkeSW2uE.md"
   - "docs/scriptures/oe/json/deuteronomy/11.json"
 source_ids:
   - "youtube:St2dkeSW2uE"
@@ -48,5 +47,5 @@ Devarim 11 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Re'eh (2017) El lugar en el que habita el nombre de YHWH](https://www.youtube.com/watch?v=St2dkeSW2uE) — transcripción de trabajo: `private/transcripts/ericdejes/St2dkeSW2uE.md` (source_id: `youtube:St2dkeSW2uE`).
+- [Parashat Re'eh (2017) El lugar en el que habita el nombre de YHWH](https://www.youtube.com/watch?v=St2dkeSW2uE) (source_id: `youtube:St2dkeSW2uE`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

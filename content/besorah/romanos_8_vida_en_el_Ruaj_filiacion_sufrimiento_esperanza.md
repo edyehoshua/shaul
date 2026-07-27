@@ -11,13 +11,9 @@ references:
   - "#romanos_8_39"
 sources:
   - "https://www.youtube.com/watch?v=9RtvJSFxMyA"
-  - "private/transcripts/ericdejes/9RtvJSFxMyA.md"
   - "https://www.youtube.com/watch?v=zfAGyn3rUH4"
-  - "private/transcripts/ericdejes/zfAGyn3rUH4.md"
   - "https://www.youtube.com/watch?v=aOyF_rz6WX8"
-  - "private/transcripts/ericdejes/aOyF_rz6WX8.md"
   - "https://www.youtube.com/watch?v=d1CMdv_KMLY"
-  - "private/transcripts/ericdejes/d1CMdv_KMLY.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:9RtvJSFxMyA"
@@ -73,8 +69,8 @@ Romanos 8 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 18): El \"espíritu\" de Dios y el \"espíritu\" del hombre](https://www.youtube.com/watch?v=9RtvJSFxMyA) — transcripción de trabajo: `private/transcripts/ericdejes/9RtvJSFxMyA.md` (source_id: `youtube:9RtvJSFxMyA`).
-- [La carta a los romanos (parte 19): Dios nos anhela celosamente](https://www.youtube.com/watch?v=zfAGyn3rUH4) — transcripción de trabajo: `private/transcripts/ericdejes/zfAGyn3rUH4.md` (source_id: `youtube:zfAGyn3rUH4`).
-- [La carta a los romanos (parte 21): El amor de Dios y los hijos de Dios](https://www.youtube.com/watch?v=aOyF_rz6WX8) — transcripción de trabajo: `private/transcripts/ericdejes/aOyF_rz6WX8.md` (source_id: `youtube:aOyF_rz6WX8`).
-- [The Letter to the Romans (Part 20): Foreknown? Predestined?](https://www.youtube.com/watch?v=d1CMdv_KMLY) — transcripción de trabajo: `private/transcripts/ericdejes/d1CMdv_KMLY.md` (source_id: `youtube:d1CMdv_KMLY`).
+- [La carta a los romanos (parte 18): El \"espíritu\" de Dios y el \"espíritu\" del hombre](https://www.youtube.com/watch?v=9RtvJSFxMyA) (source_id: `youtube:9RtvJSFxMyA`).
+- [La carta a los romanos (parte 19): Dios nos anhela celosamente](https://www.youtube.com/watch?v=zfAGyn3rUH4) (source_id: `youtube:zfAGyn3rUH4`).
+- [La carta a los romanos (parte 21): El amor de Dios y los hijos de Dios](https://www.youtube.com/watch?v=aOyF_rz6WX8) (source_id: `youtube:aOyF_rz6WX8`).
+- [The Letter to the Romans (Part 20): Foreknown? Predestined?](https://www.youtube.com/watch?v=d1CMdv_KMLY) (source_id: `youtube:d1CMdv_KMLY`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -27,13 +27,9 @@ references:
   - "#songofsolomon_2_17"
 sources:
   - "https://www.youtube.com/watch?v=89ZKcYNYA2w"
-  - "private/transcripts/ericdejes/89ZKcYNYA2w.md"
   - "https://www.youtube.com/watch?v=UmRcbXvHpD4"
-  - "private/transcripts/ericdejes/UmRcbXvHpD4.md"
   - "https://www.youtube.com/watch?v=-Ddf5ZGmXuQ"
-  - "private/transcripts/ericdejes/-Ddf5ZGmXuQ.md"
   - "https://www.youtube.com/watch?v=ZLEyXytwNVI"
-  - "private/transcripts/ericdejes/ZLEyXytwNVI.md"
   - "docs/scriptures/oe/json/songofsolomon/2.json"
 source_ids:
   - "youtube:89ZKcYNYA2w"
@@ -77,13 +73,9 @@ Cantar 2 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte6) Cap 2» — https://www.youtube.com/watch?v=89ZKcYNYA2w
-  - Transcripción: `private/transcripts/ericdejes/89ZKcYNYA2w.md` (`source_id: youtube:89ZKcYNYA2w`).
-- «Shir hashirim (parte 5) Cap 2» — https://www.youtube.com/watch?v=UmRcbXvHpD4
-  - Transcripción: `private/transcripts/ericdejes/UmRcbXvHpD4.md` (`source_id: youtube:UmRcbXvHpD4`).
-- «Shir hashirim (parte 7) Cap 2» — https://www.youtube.com/watch?v=-Ddf5ZGmXuQ
-  - Transcripción: `private/transcripts/ericdejes/-Ddf5ZGmXuQ.md` (`source_id: youtube:-Ddf5ZGmXuQ`).
-- «Shir hashirim (parte 8) Cap 2-3» — https://www.youtube.com/watch?v=ZLEyXytwNVI
-  - Transcripción: `private/transcripts/ericdejes/ZLEyXytwNVI.md` (`source_id: youtube:ZLEyXytwNVI`).
+- «Shir hashirim (parte6) Cap 2» — https://www.youtube.com/watch?v=89ZKcYNYA2w (`source_id: youtube:89ZKcYNYA2w`).
+- «Shir hashirim (parte 5) Cap 2» — https://www.youtube.com/watch?v=UmRcbXvHpD4 (`source_id: youtube:UmRcbXvHpD4`).
+- «Shir hashirim (parte 7) Cap 2» — https://www.youtube.com/watch?v=-Ddf5ZGmXuQ (`source_id: youtube:-Ddf5ZGmXuQ`).
+- «Shir hashirim (parte 8) Cap 2-3» — https://www.youtube.com/watch?v=ZLEyXytwNVI (`source_id: youtube:ZLEyXytwNVI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

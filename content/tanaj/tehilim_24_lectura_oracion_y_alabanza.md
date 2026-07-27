@@ -12,7 +12,6 @@ references:
   - "#tehilim_24_10"
 sources:
   - "https://www.youtube.com/watch?v=gyQXqmP1V1w"
-  - "private/transcripts/ericdejes/gyQXqmP1V1w.md"
   - "docs/scriptures/oe/json/psalms/24.json"
 source_ids:
   - "youtube:gyQXqmP1V1w"
@@ -52,5 +51,5 @@ La lectura de Tehilim 24 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Psalm Chapter 24» — <https://www.youtube.com/watch?v=gyQXqmP1V1w> — transcripción: `private/transcripts/ericdejes/gyQXqmP1V1w.md` — source_id: `youtube:gyQXqmP1V1w`.
+- «Tehilim/Hymnos/Psalm Chapter 24» — <https://www.youtube.com/watch?v=gyQXqmP1V1w> — source_id: `youtube:gyQXqmP1V1w`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

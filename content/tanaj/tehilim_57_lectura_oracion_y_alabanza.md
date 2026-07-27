@@ -12,7 +12,6 @@ references:
   - "#tehilim_57_12"
 sources:
   - "https://www.youtube.com/watch?v=eX1ZGfCe3O0"
-  - "private/transcripts/ericdejes/eX1ZGfCe3O0.md"
   - "docs/scriptures/oe/json/psalms/57.json"
 source_ids:
   - "youtube:eX1ZGfCe3O0"
@@ -52,5 +51,5 @@ La lectura de Tehilim 57 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehillim/Hymns/Psalm 57» — <https://www.youtube.com/watch?v=eX1ZGfCe3O0> — transcripción: `private/transcripts/ericdejes/eX1ZGfCe3O0.md` — source_id: `youtube:eX1ZGfCe3O0`.
+- «Tehillim/Hymns/Psalm 57» — <https://www.youtube.com/watch?v=eX1ZGfCe3O0> — source_id: `youtube:eX1ZGfCe3O0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

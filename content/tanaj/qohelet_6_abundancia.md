@@ -10,9 +10,7 @@ references:
   - "#ecclesiastes_6_12"
 sources:
   - "https://www.youtube.com/watch?v=c2SMHdaezd8"
-  - "private/transcripts/ericdejes/c2SMHdaezd8.md"
   - "https://www.youtube.com/watch?v=wDyWgoQ2WpQ"
-  - "private/transcripts/ericdejes/wDyWgoQ2WpQ.md"
   - "docs/scriptures/oe/json/ecclesiastes/6.json"
 source_ids:
   - "youtube:c2SMHdaezd8"
@@ -61,9 +59,7 @@ Qohélet 6 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 12) Cap 6» — https://www.youtube.com/watch?v=c2SMHdaezd8
-  - Transcripción: `private/transcripts/ericdejes/c2SMHdaezd8.md` (`source_id: youtube:c2SMHdaezd8`).
-- «Qohélet-Eclesiastés (parte 13) Cap 6» — https://www.youtube.com/watch?v=wDyWgoQ2WpQ
-  - Transcripción: `private/transcripts/ericdejes/wDyWgoQ2WpQ.md` (`source_id: youtube:wDyWgoQ2WpQ`).
+- «Qohélet-Eclesiastés (parte 12) Cap 6» — https://www.youtube.com/watch?v=c2SMHdaezd8 (`source_id: youtube:c2SMHdaezd8`).
+- «Qohélet-Eclesiastés (parte 13) Cap 6» — https://www.youtube.com/watch?v=wDyWgoQ2WpQ (`source_id: youtube:wDyWgoQ2WpQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

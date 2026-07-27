@@ -9,7 +9,6 @@ references:
   - "#vaikra_25_1"
 sources:
   - "https://www.youtube.com/watch?v=sfA7OZ8LtFk"
-  - "private/transcripts/ericdejes/sfA7OZ8LtFk.md"
   - "docs/scriptures/oe/json/leviticus/25.json"
 source_ids:
   - "youtube:sfA7OZ8LtFk"
@@ -48,5 +47,5 @@ Vayikra 25 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashát Behar + Bejuqotay (2017) Míos son los hijos de Yisra'el, son mis siervos](https://www.youtube.com/watch?v=sfA7OZ8LtFk) — transcripción de trabajo: `private/transcripts/ericdejes/sfA7OZ8LtFk.md` (source_id: `youtube:sfA7OZ8LtFk`).
+- [Parashát Behar + Bejuqotay (2017) Míos son los hijos de Yisra'el, son mis siervos](https://www.youtube.com/watch?v=sfA7OZ8LtFk) (source_id: `youtube:sfA7OZ8LtFk`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

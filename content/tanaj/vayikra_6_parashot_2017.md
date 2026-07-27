@@ -9,7 +9,6 @@ references:
   - "#vaikra_6_1"
 sources:
   - "https://www.youtube.com/watch?v=Az7vBaYqTC0"
-  - "private/transcripts/ericdejes/Az7vBaYqTC0.md"
   - "docs/scriptures/oe/json/leviticus/6.json"
 source_ids:
   - "youtube:Az7vBaYqTC0"
@@ -48,5 +47,5 @@ Vayikra 6 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Tzav (2017). El enviado del pacto, Hakohen Hamashíaj](https://www.youtube.com/watch?v=Az7vBaYqTC0) — transcripción de trabajo: `private/transcripts/ericdejes/Az7vBaYqTC0.md` (source_id: `youtube:Az7vBaYqTC0`).
+- [Parashat Tzav (2017). El enviado del pacto, Hakohen Hamashíaj](https://www.youtube.com/watch?v=Az7vBaYqTC0) (source_id: `youtube:Az7vBaYqTC0`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

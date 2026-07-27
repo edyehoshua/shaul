@@ -11,7 +11,6 @@ references:
   - "#ester_9_26-28"
 sources:
   - "https://www.youtube.com/watch?v=17vU_yxGy70"
-  - "private/transcripts/ericdejes/17vU_yxGy70.md"
   - "docs/scriptures/oe/json/esther/9.json"
 source_ids:
   - "youtube:17vU_yxGy70"
@@ -44,5 +43,5 @@ Ester no describe una alegría aislada. El envío de porciones y los dones a los
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Purim 5785](https://www.youtube.com/watch?v=17vU_yxGy70) — `private/transcripts/ericdejes/17vU_yxGy70.md` (source_id: `youtube:17vU_yxGy70`).
+- [Purim 5785](https://www.youtube.com/watch?v=17vU_yxGy70) — (source_id: `youtube:17vU_yxGy70`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

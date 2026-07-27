@@ -15,7 +15,6 @@ references:
   - "#revelation_9_21"
 sources:
   - "https://www.youtube.com/watch?v=u7-1n3mFap4"
-  - "private/transcripts/ericdejes/u7-1n3mFap4.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:u7-1n3mFap4"
@@ -58,7 +57,6 @@ Apocalipsis 9 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 19 La revelación de Yehoshúa' Hamashíaj: Las trompetas 5, 6 y 7:» — https://www.youtube.com/watch?v=u7-1n3mFap4
-  - Transcripción: `private/transcripts/ericdejes/u7-1n3mFap4.md` (`source_id: youtube:u7-1n3mFap4`).
+- «Parte 19 La revelación de Yehoshúa' Hamashíaj: Las trompetas 5, 6 y 7:» — https://www.youtube.com/watch?v=u7-1n3mFap4 (`source_id: youtube:u7-1n3mFap4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -23,11 +23,8 @@ references:
   - "#peter1_2_22-24"
 sources:
   - "https://www.youtube.com/watch?v=UxkaMT2QPMA"
-  - "private/transcripts/ericdejes/UxkaMT2QPMA.md"
   - "https://www.youtube.com/watch?v=-tHCu0DF0EY"
-  - "private/transcripts/ericdejes/-tHCu0DF0EY.md"
   - "https://www.youtube.com/watch?v=QIzcsJoC96A"
-  - "private/transcripts/ericdejes/QIzcsJoC96A.md"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
   - "docs/scriptures/oe/json/psalms/131.json"
   - "docs/scriptures/oe/json/jeremiah/12.json"
@@ -117,11 +114,8 @@ El inicio de 1 Tesalonicenses 2 presenta una proclamación que resiste la oposic
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1Tesalonisenses (parte 3) Cap 2» — https://www.youtube.com/watch?v=UxkaMT2QPMA
-  - Transcripción: `private/transcripts/ericdejes/UxkaMT2QPMA.md` (`source_id: youtube:UxkaMT2QPMA`).
-- «1 Tesalonisenses (parte 4) Cap 2 “EL EVANGELIO DE DIOS”» — https://www.youtube.com/watch?v=-tHCu0DF0EY
-  - Transcripción: `private/transcripts/ericdejes/-tHCu0DF0EY.md` (`source_id: youtube:-tHCu0DF0EY`).
-- «1 Tesalonisenses (parte 5) Cap 2: Las asambleas de Dios» — https://www.youtube.com/watch?v=QIzcsJoC96A
-  - Transcripción: `private/transcripts/ericdejes/QIzcsJoC96A.md` (`source_id: youtube:QIzcsJoC96A`).
+- «1Tesalonisenses (parte 3) Cap 2» — https://www.youtube.com/watch?v=UxkaMT2QPMA (`source_id: youtube:UxkaMT2QPMA`).
+- «1 Tesalonisenses (parte 4) Cap 2 “EL EVANGELIO DE DIOS”» — https://www.youtube.com/watch?v=-tHCu0DF0EY (`source_id: youtube:-tHCu0DF0EY`).
+- «1 Tesalonisenses (parte 5) Cap 2: Las asambleas de Dios» — https://www.youtube.com/watch?v=QIzcsJoC96A (`source_id: youtube:QIzcsJoC96A`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

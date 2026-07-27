@@ -25,21 +25,13 @@ references:
   - "#ephesians_4_32"
 sources:
   - "https://www.youtube.com/watch?v=moNw6MC0jG4"
-  - "private/transcripts/ericdejes/moNw6MC0jG4.md"
   - "https://www.youtube.com/watch?v=M2mb6wYboYg"
-  - "private/transcripts/ericdejes/M2mb6wYboYg.md"
   - "https://www.youtube.com/watch?v=d_lzMjdAuBQ"
-  - "private/transcripts/ericdejes/d_lzMjdAuBQ.md"
   - "https://www.youtube.com/watch?v=1IZe5w9GA0Y"
-  - "private/transcripts/ericdejes/1IZe5w9GA0Y.md"
   - "https://www.youtube.com/watch?v=2_q62-EulhM"
-  - "private/transcripts/ericdejes/2_q62-EulhM.md"
   - "https://www.youtube.com/watch?v=wgFr5OYXhmk"
-  - "private/transcripts/ericdejes/wgFr5OYXhmk.md"
   - "https://www.youtube.com/watch?v=2yQI9REsPy4"
-  - "private/transcripts/ericdejes/2yQI9REsPy4.md"
   - "https://www.youtube.com/watch?v=wOZk1jiTed4"
-  - "private/transcripts/ericdejes/wOZk1jiTed4.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
   - "youtube:moNw6MC0jG4"
@@ -116,21 +108,13 @@ Efesios 4 describe un pueblo llamado a cuidar una unidad recibida, a servir para
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los Efesios (parte 17) Cap 4 La excelencia del llamado de Mashiaj» — https://www.youtube.com/watch?v=moNw6MC0jG4
-  - Transcripción: `private/transcripts/ericdejes/moNw6MC0jG4.md` (`source_id: youtube:moNw6MC0jG4`).
-- «La carta a los efesios (parte 18) La unidad de Mashíaj- איחוד המשיח» — https://www.youtube.com/watch?v=M2mb6wYboYg
-  - Transcripción: `private/transcripts/ericdejes/M2mb6wYboYg.md` (`source_id: youtube:M2mb6wYboYg`).
-- «La carta a los Efesios (parte 19) Cap 4 milu’im de Mashíaj, la plenitud de Cristo» — https://www.youtube.com/watch?v=d_lzMjdAuBQ
-  - Transcripción: `private/transcripts/ericdejes/d_lzMjdAuBQ.md` (`source_id: youtube:d_lzMjdAuBQ`).
-- «The Epistle to the Ephesians (Part 20) Ch. 4: “Unshakable in the Love of Messiah”» — https://www.youtube.com/watch?v=1IZe5w9GA0Y
-  - Transcripción: `private/transcripts/ericdejes/1IZe5w9GA0Y.md` (`source_id: youtube:1IZe5w9GA0Y`).
-- «La carta a los Efesios (parte 21) Cap 4 La ignorancia de la vida» — https://www.youtube.com/watch?v=2_q62-EulhM
-  - Transcripción: `private/transcripts/ericdejes/2_q62-EulhM.md` (`source_id: youtube:2_q62-EulhM`).
-- «La carta a los efesios (parte 22) cap 4 Sólo Yehoshua’ Hamashiaj te hace libre» — https://www.youtube.com/watch?v=wgFr5OYXhmk
-  - Transcripción: `private/transcripts/ericdejes/wgFr5OYXhmk.md` (`source_id: youtube:wgFr5OYXhmk`).
-- «La carta a los efesios (parte 23) Cap 4 ¿cómo echar fuera la mentira?» — https://www.youtube.com/watch?v=2yQI9REsPy4
-  - Transcripción: `private/transcripts/ericdejes/2yQI9REsPy4.md` (`source_id: youtube:2yQI9REsPy4`).
-- «La carta a los efesios (parte 24) Cap 4 ¿Cómo limitar las pasiones?» — https://www.youtube.com/watch?v=wOZk1jiTed4
-  - Transcripción: `private/transcripts/ericdejes/wOZk1jiTed4.md` (`source_id: youtube:wOZk1jiTed4`).
+- «La carta a los Efesios (parte 17) Cap 4 La excelencia del llamado de Mashiaj» — https://www.youtube.com/watch?v=moNw6MC0jG4 (`source_id: youtube:moNw6MC0jG4`).
+- «La carta a los efesios (parte 18) La unidad de Mashíaj- איחוד המשיח» — https://www.youtube.com/watch?v=M2mb6wYboYg (`source_id: youtube:M2mb6wYboYg`).
+- «La carta a los Efesios (parte 19) Cap 4 milu’im de Mashíaj, la plenitud de Cristo» — https://www.youtube.com/watch?v=d_lzMjdAuBQ (`source_id: youtube:d_lzMjdAuBQ`).
+- «The Epistle to the Ephesians (Part 20) Ch. 4: “Unshakable in the Love of Messiah”» — https://www.youtube.com/watch?v=1IZe5w9GA0Y (`source_id: youtube:1IZe5w9GA0Y`).
+- «La carta a los Efesios (parte 21) Cap 4 La ignorancia de la vida» — https://www.youtube.com/watch?v=2_q62-EulhM (`source_id: youtube:2_q62-EulhM`).
+- «La carta a los efesios (parte 22) cap 4 Sólo Yehoshua’ Hamashiaj te hace libre» — https://www.youtube.com/watch?v=wgFr5OYXhmk (`source_id: youtube:wgFr5OYXhmk`).
+- «La carta a los efesios (parte 23) Cap 4 ¿cómo echar fuera la mentira?» — https://www.youtube.com/watch?v=2yQI9REsPy4 (`source_id: youtube:2yQI9REsPy4`).
+- «La carta a los efesios (parte 24) Cap 4 ¿Cómo limitar las pasiones?» — https://www.youtube.com/watch?v=wOZk1jiTed4 (`source_id: youtube:wOZk1jiTed4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -9,7 +9,6 @@ references:
   - "#bereshit_41_1"
 sources:
   - "https://www.youtube.com/watch?v=Ohs6ntTFAL4"
-  - "private/transcripts/ericdejes/Ohs6ntTFAL4.md"
   - "docs/scriptures/oe/json/genesis/41.json"
 source_ids:
   - "youtube:Ohs6ntTFAL4"
@@ -48,5 +47,5 @@ Bereshit 41 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Miqetz (2017) Gn 41:1-44:17 Sabiduría y misericordia](https://www.youtube.com/watch?v=Ohs6ntTFAL4) — transcripción de trabajo: `private/transcripts/ericdejes/Ohs6ntTFAL4.md` (source_id: `youtube:Ohs6ntTFAL4`).
+- [Parashat Miqetz (2017) Gn 41:1-44:17 Sabiduría y misericordia](https://www.youtube.com/watch?v=Ohs6ntTFAL4) (source_id: `youtube:Ohs6ntTFAL4`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

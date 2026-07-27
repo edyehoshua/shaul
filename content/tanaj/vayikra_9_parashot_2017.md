@@ -9,7 +9,6 @@ references:
   - "#vaikra_9_1"
 sources:
   - "https://www.youtube.com/watch?v=8uYWr9QCDiE"
-  - "private/transcripts/ericdejes/8uYWr9QCDiE.md"
   - "docs/scriptures/oe/json/leviticus/9.json"
 source_ids:
   - "youtube:8uYWr9QCDiE"
@@ -48,5 +47,5 @@ Vayikra 9 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Shmini (2017): The Perfect High Priest, Yeshua HaMashiach](https://www.youtube.com/watch?v=8uYWr9QCDiE) — transcripción de trabajo: `private/transcripts/ericdejes/8uYWr9QCDiE.md` (source_id: `youtube:8uYWr9QCDiE`).
+- [Parashat Shmini (2017): The Perfect High Priest, Yeshua HaMashiach](https://www.youtube.com/watch?v=8uYWr9QCDiE) (source_id: `youtube:8uYWr9QCDiE`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

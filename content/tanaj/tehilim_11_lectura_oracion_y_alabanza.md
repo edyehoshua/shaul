@@ -12,7 +12,6 @@ references:
   - "#tehilim_11_7"
 sources:
   - "https://www.youtube.com/watch?v=Jq-JrIvgOXU"
-  - "private/transcripts/ericdejes/Jq-JrIvgOXU.md"
   - "docs/scriptures/oe/json/psalms/11.json"
 source_ids:
   - "youtube:Jq-JrIvgOXU"
@@ -52,5 +51,5 @@ La lectura de Tehilim 11 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 11» — <https://www.youtube.com/watch?v=Jq-JrIvgOXU> — transcripción: `private/transcripts/ericdejes/Jq-JrIvgOXU.md` — source_id: `youtube:Jq-JrIvgOXU`.
+- «Tehilim/Hymnos/Salmo Chap 11» — <https://www.youtube.com/watch?v=Jq-JrIvgOXU> — source_id: `youtube:Jq-JrIvgOXU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

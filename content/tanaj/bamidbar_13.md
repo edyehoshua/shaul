@@ -32,7 +32,6 @@ sources:
   - "docs/scriptures/tth/json/bamidbar.json"
   - "docs/scriptures/oe/json/numbers/13.json"
   - "https://www.youtube.com/watch?v=R2ViDhA4RQQ"
-  - "private/transcripts/ericdejes/R2ViDhA4RQQ.md"
 source_ids:
   - "youtube:R2ViDhA4RQQ"
 translation: "[TTH, OE]"
@@ -104,5 +103,5 @@ Este cuadro es para explicar la distribución que tenían los pueblos que habita
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Shlach Lecha (2017) The Nephilim and the Defamation of the Land](https://www.youtube.com/watch?v=R2ViDhA4RQQ) — transcripción de trabajo: `private/transcripts/ericdejes/R2ViDhA4RQQ.md` (source_id: `youtube:R2ViDhA4RQQ`).
+- [Parashat Shlach Lecha (2017) The Nephilim and the Defamation of the Land](https://www.youtube.com/watch?v=R2ViDhA4RQQ) (source_id: `youtube:R2ViDhA4RQQ`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

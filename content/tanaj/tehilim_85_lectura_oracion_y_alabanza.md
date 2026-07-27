@@ -12,7 +12,6 @@ references:
   - "#tehilim_85_14"
 sources:
   - "https://www.youtube.com/watch?v=psVNlQMmCCk"
-  - "private/transcripts/ericdejes/psVNlQMmCCk.md"
   - "docs/scriptures/oe/json/psalms/85.json"
 source_ids:
   - "youtube:psVNlQMmCCk"
@@ -52,5 +51,5 @@ La lectura de Tehilim 85 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 85» — <https://www.youtube.com/watch?v=psVNlQMmCCk> — transcripción: `private/transcripts/ericdejes/psVNlQMmCCk.md` — source_id: `youtube:psVNlQMmCCk`.
+- «Tehilim/Himnos/Salmo Cap 85» — <https://www.youtube.com/watch?v=psVNlQMmCCk> — source_id: `youtube:psVNlQMmCCk`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

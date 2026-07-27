@@ -12,7 +12,6 @@ references:
   - "#tehilim_102_29"
 sources:
   - "https://www.youtube.com/watch?v=DnhBhyFDbo8"
-  - "private/transcripts/ericdejes/DnhBhyFDbo8.md"
   - "docs/scriptures/oe/json/psalms/102.json"
 source_ids:
   - "youtube:DnhBhyFDbo8"
@@ -52,5 +51,5 @@ La lectura de Tehilim 102 comienza por su lenguaje poético, su desarrollo compl
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 102» — <https://www.youtube.com/watch?v=DnhBhyFDbo8> — transcripción: `private/transcripts/ericdejes/DnhBhyFDbo8.md` — source_id: `youtube:DnhBhyFDbo8`.
+- «Tehilim/Himnos/Salmo Cap 102» — <https://www.youtube.com/watch?v=DnhBhyFDbo8> — source_id: `youtube:DnhBhyFDbo8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -16,9 +16,7 @@ references:
   - "#revelation_6_17"
 sources:
   - "https://www.youtube.com/watch?v=-tgosBbP6_Q"
-  - "private/transcripts/ericdejes/-tgosBbP6_Q.md"
   - "https://www.youtube.com/watch?v=exFOijHx43g"
-  - "private/transcripts/ericdejes/exFOijHx43g.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:-tgosBbP6_Q"
@@ -62,9 +60,7 @@ Apocalipsis 6 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 15 La revelación de Yehoshúa' Hamashíaj: Los cuatro caballos, la era de los imperios» — https://www.youtube.com/watch?v=-tgosBbP6_Q
-  - Transcripción: `private/transcripts/ericdejes/-tgosBbP6_Q.md` (`source_id: youtube:-tgosBbP6_Q`).
-- «Parte 16: La revelación de Yehoshúa' Hamashíaj: El quinto y el sexto sello» — https://www.youtube.com/watch?v=exFOijHx43g
-  - Transcripción: `private/transcripts/ericdejes/exFOijHx43g.md` (`source_id: youtube:exFOijHx43g`).
+- «Parte 15 La revelación de Yehoshúa' Hamashíaj: Los cuatro caballos, la era de los imperios» — https://www.youtube.com/watch?v=-tgosBbP6_Q (`source_id: youtube:-tgosBbP6_Q`).
+- «Parte 16: La revelación de Yehoshúa' Hamashíaj: El quinto y el sexto sello» — https://www.youtube.com/watch?v=exFOijHx43g (`source_id: youtube:exFOijHx43g`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

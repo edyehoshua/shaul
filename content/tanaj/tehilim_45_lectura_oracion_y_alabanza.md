@@ -12,7 +12,6 @@ references:
   - "#tehilim_45_18"
 sources:
   - "https://www.youtube.com/watch?v=6ITzybv3b0E"
-  - "private/transcripts/ericdejes/6ITzybv3b0E.md"
   - "docs/scriptures/oe/json/psalms/45.json"
 source_ids:
   - "youtube:6ITzybv3b0E"
@@ -52,5 +51,5 @@ La lectura de Tehilim 45 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 45» — <https://www.youtube.com/watch?v=6ITzybv3b0E> — transcripción: `private/transcripts/ericdejes/6ITzybv3b0E.md` — source_id: `youtube:6ITzybv3b0E`.
+- «Tehilim/Himnos/Salmo Cap 45» — <https://www.youtube.com/watch?v=6ITzybv3b0E> — source_id: `youtube:6ITzybv3b0E`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -12,7 +12,6 @@ references:
   - "#tehilim_61_9"
 sources:
   - "https://www.youtube.com/watch?v=2-74NCu54ek"
-  - "private/transcripts/ericdejes/2-74NCu54ek.md"
   - "docs/scriptures/oe/json/psalms/61.json"
 source_ids:
   - "youtube:2-74NCu54ek"
@@ -52,5 +51,5 @@ La lectura de Tehilim 61 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 61» — <https://www.youtube.com/watch?v=2-74NCu54ek> — transcripción: `private/transcripts/ericdejes/2-74NCu54ek.md` — source_id: `youtube:2-74NCu54ek`.
+- «Tehilim/Himnos/Salmo Cap 61» — <https://www.youtube.com/watch?v=2-74NCu54ek> — source_id: `youtube:2-74NCu54ek`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

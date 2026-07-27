@@ -14,9 +14,7 @@ references:
   - "#revelation_4_11"
 sources:
   - "https://www.youtube.com/watch?v=mxcM4cJpjg0"
-  - "private/transcripts/ericdejes/mxcM4cJpjg0.md"
   - "https://www.youtube.com/watch?v=ut8Iq2y8lFQ"
-  - "private/transcripts/ericdejes/ut8Iq2y8lFQ.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:mxcM4cJpjg0"
@@ -62,9 +60,7 @@ El centro explícito de Apocalipsis 4 es el trono y la adoración del Creador. L
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 13 La revelación de Yehoshúa' Hamashíaj (2017) La teología de la Merkaváh» — https://www.youtube.com/watch?v=mxcM4cJpjg0
-  - Transcripción: `private/transcripts/ericdejes/mxcM4cJpjg0.md` (`source_id: youtube:mxcM4cJpjg0`).
-- «Parte 14: La revelación de Yehoshúa' Hamashíaj: La teología de la Merkaváh cont.» — https://www.youtube.com/watch?v=ut8Iq2y8lFQ
-  - Transcripción: `private/transcripts/ericdejes/ut8Iq2y8lFQ.md` (`source_id: youtube:ut8Iq2y8lFQ`).
+- «Parte 13 La revelación de Yehoshúa' Hamashíaj (2017) La teología de la Merkaváh» — https://www.youtube.com/watch?v=mxcM4cJpjg0 (`source_id: youtube:mxcM4cJpjg0`).
+- «Parte 14: La revelación de Yehoshúa' Hamashíaj: La teología de la Merkaváh cont.» — https://www.youtube.com/watch?v=ut8Iq2y8lFQ (`source_id: youtube:ut8Iq2y8lFQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

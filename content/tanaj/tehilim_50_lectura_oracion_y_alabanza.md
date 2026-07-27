@@ -12,7 +12,6 @@ references:
   - "#tehilim_50_23"
 sources:
   - "https://www.youtube.com/watch?v=0dUKANXwW3Q"
-  - "private/transcripts/ericdejes/0dUKANXwW3Q.md"
   - "docs/scriptures/oe/json/psalms/50.json"
 source_ids:
   - "youtube:0dUKANXwW3Q"
@@ -52,5 +51,5 @@ La lectura de Tehilim 50 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 50» — <https://www.youtube.com/watch?v=0dUKANXwW3Q> — transcripción: `private/transcripts/ericdejes/0dUKANXwW3Q.md` — source_id: `youtube:0dUKANXwW3Q`.
+- «Tehilim/Himnos/Salmo Cap 50» — <https://www.youtube.com/watch?v=0dUKANXwW3Q> — source_id: `youtube:0dUKANXwW3Q`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

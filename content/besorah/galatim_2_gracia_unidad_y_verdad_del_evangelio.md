@@ -11,7 +11,6 @@ references:
   - "#galatians_2_21"
 sources:
   - "https://www.youtube.com/watch?v=fP1kJg1oQAo"
-  - "private/transcripts/ericdejes/fP1kJg1oQAo.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids: ["youtube:fP1kJg1oQAo"]
 translation: "[Delitzsch]"
@@ -47,5 +46,5 @@ La unidad de la mesa y la justicia recibida en el Mesías impiden que la pertene
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los gálatas, parte 5 Cap 2:11ss ¿Qué es judaizar?](https://www.youtube.com/watch?v=fP1kJg1oQAo) — transcripción de trabajo: `private/transcripts/ericdejes/fP1kJg1oQAo.md` (source_id: `youtube:fP1kJg1oQAo`).
+- [La carta a los gálatas, parte 5 Cap 2:11ss ¿Qué es judaizar?](https://www.youtube.com/watch?v=fP1kJg1oQAo) (source_id: `youtube:fP1kJg1oQAo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

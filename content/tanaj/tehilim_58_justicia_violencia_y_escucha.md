@@ -18,7 +18,6 @@ references:
   - "#devarim_21_1-9"
 sources:
   - "https://www.youtube.com/watch?v=zjpT0HuXCxY"
-  - "private/transcripts/ericdejes/zjpT0HuXCxY.md"
   - "docs/scriptures/oe/json/psalms/58.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -91,4 +90,4 @@ Tehilim 58 no suaviza el daño de la injusticia, pero tampoco entrega al justo e
 
 Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo 58» — <https://www.youtube.com/watch?v=zjpT0HuXCxY> — transcripción: `private/transcripts/ericdejes/zjpT0HuXCxY.md` — source_id: `youtube:zjpT0HuXCxY`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo 58» — <https://www.youtube.com/watch?v=zjpT0HuXCxY> — source_id: `youtube:zjpT0HuXCxY`.

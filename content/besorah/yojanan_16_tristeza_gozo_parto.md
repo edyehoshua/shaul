@@ -15,7 +15,6 @@ references:
   - "#iojanan_16_22"
 sources:
   - "https://www.youtube.com/watch?v=FTH6tIAoNq0"
-  - "private/transcripts/ericdejes/FTH6tIAoNq0.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:

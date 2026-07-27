@@ -24,8 +24,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=0Betf3asqTU"
   - "https://www.youtube.com/watch?v=4TyD6gSQJfA"
-  - "private/transcripts/ericdejes/0Betf3asqTU.md"
-  - "private/transcripts/ericdejes/4TyD6gSQJfA.md"
   - "docs/scriptures/delitzsch/json/thessalonians2.json"
 source_ids:
   - "youtube:0Betf3asqTU"

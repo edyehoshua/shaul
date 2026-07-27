@@ -20,9 +20,7 @@ references:
 sources:
   - "docs/benhaelohim.md"
   - "https://www.youtube.com/watch?v=oWBXDeXiqUI"
-  - "private/transcripts/ericdejes/oWBXDeXiqUI.md"
   - "https://www.youtube.com/watch?v=OYKCQLXnX3I"
-  - "private/transcripts/ericdejes/OYKCQLXnX3I.md"
 source_ids:
   - "youtube:oWBXDeXiqUI"
   - "youtube:OYKCQLXnX3I"
@@ -169,5 +167,5 @@ de usarse como contexto establecido.
 
 Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (part 3) Thanks to his name, grace» — <https://www.youtube.com/watch?v=oWBXDeXiqUI> — transcripción: `private/transcripts/ericdejes/oWBXDeXiqUI.md` — source_id: `youtube:oWBXDeXiqUI`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (Part 4) Meymra' basar hayah» — <https://www.youtube.com/watch?v=OYKCQLXnX3I> — transcripción: `private/transcripts/ericdejes/OYKCQLXnX3I.md` — source_id: `youtube:OYKCQLXnX3I`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (part 3) Thanks to his name, grace» — <https://www.youtube.com/watch?v=oWBXDeXiqUI> — source_id: `youtube:oWBXDeXiqUI`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (Part 4) Meymra' basar hayah» — <https://www.youtube.com/watch?v=OYKCQLXnX3I> — source_id: `youtube:OYKCQLXnX3I`.

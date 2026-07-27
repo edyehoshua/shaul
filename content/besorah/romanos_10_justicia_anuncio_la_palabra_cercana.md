@@ -11,7 +11,6 @@ references:
   - "#romanos_10_21"
 sources:
   - "https://www.youtube.com/watch?v=zLynBpmjJr0"
-  - "private/transcripts/ericdejes/zLynBpmjJr0.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:zLynBpmjJr0"
@@ -62,5 +61,5 @@ Romanos 10 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 24) ¿El fin de la ley es Cristo?](https://www.youtube.com/watch?v=zLynBpmjJr0) — transcripción de trabajo: `private/transcripts/ericdejes/zLynBpmjJr0.md` (source_id: `youtube:zLynBpmjJr0`).
+- [La carta a los romanos (parte 24) ¿El fin de la ley es Cristo?](https://www.youtube.com/watch?v=zLynBpmjJr0) (source_id: `youtube:zLynBpmjJr0`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

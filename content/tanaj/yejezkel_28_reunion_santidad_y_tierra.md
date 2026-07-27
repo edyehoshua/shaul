@@ -6,7 +6,6 @@ tags: [tanaj, yejezkel, haftarah, vaera]
 references: ["#iejezqel_28_25"]
 sources:
   - "https://www.youtube.com/watch?v=VhClgPF-LaI"
-  - "private/transcripts/ericdejes/VhClgPF-LaI.md"
   - "docs/scriptures/oe/json/ezekiel/28.json"
 source_ids:
   - "youtube:VhClgPF-LaI"
@@ -33,5 +32,5 @@ La restauración prometida tiene como centro la santidad de יהוה ante las na
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Va'erá' (2017) El cuerno de la casa de Yisra'el](https://www.youtube.com/watch?v=VhClgPF-LaI) — transcripción: `private/transcripts/ericdejes/VhClgPF-LaI.md` — source_id: `youtube:VhClgPF-LaI`.
+- Video: [Haftaráh de Va'erá' (2017) El cuerno de la casa de Yisra'el](https://www.youtube.com/watch?v=VhClgPF-LaI) — source_id: `youtube:VhClgPF-LaI`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

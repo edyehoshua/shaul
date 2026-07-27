@@ -12,7 +12,6 @@ references:
   - "#tehilim_46_12"
 sources:
   - "https://www.youtube.com/watch?v=N1eCdZaIMDI"
-  - "private/transcripts/ericdejes/N1eCdZaIMDI.md"
   - "docs/scriptures/oe/json/psalms/46.json"
 source_ids:
   - "youtube:N1eCdZaIMDI"
@@ -52,5 +51,5 @@ La lectura de Tehilim 46 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 46» — <https://www.youtube.com/watch?v=N1eCdZaIMDI> — transcripción: `private/transcripts/ericdejes/N1eCdZaIMDI.md` — source_id: `youtube:N1eCdZaIMDI`.
+- «Tehilim/Hymnos/Salmo Chap 46» — <https://www.youtube.com/watch?v=N1eCdZaIMDI> — source_id: `youtube:N1eCdZaIMDI`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

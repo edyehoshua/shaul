@@ -7,7 +7,6 @@ references: ["#ieshaiahu_61_6"]
 sources:
   [
     "https://www.youtube.com/watch?v=4RxX_pGV8Lc",
-    "private/transcripts/ericdejes/4RxX_pGV8Lc.md",
     "docs/scriptures/oe/json/isaiah/61.json",
   ]
 source_ids: ["youtube:4RxX_pGV8Lc"]
@@ -34,5 +33,5 @@ La restauración prometida orienta a Israel hacia el servicio fiel de יהוה.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Nitzavim (2018) - 'Am Haqódesh !!](https://www.youtube.com/watch?v=4RxX_pGV8Lc) — transcripción: `private/transcripts/ericdejes/4RxX_pGV8Lc.md` — source_id: `youtube:4RxX_pGV8Lc`.
+- Video: [Haftaráh de Nitzavim (2018) - 'Am Haqódesh !!](https://www.youtube.com/watch?v=4RxX_pGV8Lc) — source_id: `youtube:4RxX_pGV8Lc`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

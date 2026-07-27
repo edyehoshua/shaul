@@ -28,13 +28,9 @@ references:
   - "#iojanan_5_17"
 sources:
   - "https://www.youtube.com/watch?v=YTlUMcNA2qs"
-  - "private/transcripts/ericdejes/YTlUMcNA2qs.md"
   - "https://www.youtube.com/watch?v=s7XQEhdaOdw"
-  - "private/transcripts/ericdejes/s7XQEhdaOdw.md"
   - "https://www.youtube.com/watch?v=N1MFZtCzkn8"
-  - "private/transcripts/ericdejes/N1MFZtCzkn8.md"
   - "https://www.youtube.com/watch?v=CnQSQIvZHvs"
-  - "private/transcripts/ericdejes/CnQSQIvZHvs.md"
   - "docs/scriptures/oe/json/genesis/2.json"
   - "docs/scriptures/oe/json/exodus/20.json"
   - "docs/scriptures/oe/json/deuteronomy/5.json"
@@ -123,8 +119,8 @@ Guardar Shabat no consiste en añadir ansiedad al cese ni en volver indiferente 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Conversatorio sobre el día del Shabat. Parte 1.](https://www.youtube.com/watch?v=YTlUMcNA2qs) — transcripción de trabajo: `private/transcripts/ericdejes/YTlUMcNA2qs.md` (source_id: `youtube:YTlUMcNA2qs`).
-- Video: [Conversatorio sobre el día de SHabat Parte 2: La época del segundo templo](https://www.youtube.com/watch?v=s7XQEhdaOdw) — transcripción de trabajo: `private/transcripts/ericdejes/s7XQEhdaOdw.md` (source_id: `youtube:s7XQEhdaOdw`).
-- Video: [Conversatorio sobre el día de Shabat Parte 3: TALMUD, EDAD MEDIA Y EDAD MODERNA](https://www.youtube.com/watch?v=N1MFZtCzkn8) — transcripción de trabajo: `private/transcripts/ericdejes/N1MFZtCzkn8.md` (source_id: `youtube:N1MFZtCzkn8`).
-- Video: [Conversatorio sobre el día de Shabat - Parte 4 La práctica del Shabat](https://www.youtube.com/watch?v=CnQSQIvZHvs) — transcripción de trabajo: `private/transcripts/ericdejes/CnQSQIvZHvs.md` (source_id: `youtube:CnQSQIvZHvs`).
+- Video: [Conversatorio sobre el día del Shabat. Parte 1.](https://www.youtube.com/watch?v=YTlUMcNA2qs) (source_id: `youtube:YTlUMcNA2qs`).
+- Video: [Conversatorio sobre el día de SHabat Parte 2: La época del segundo templo](https://www.youtube.com/watch?v=s7XQEhdaOdw) (source_id: `youtube:s7XQEhdaOdw`).
+- Video: [Conversatorio sobre el día de Shabat Parte 3: TALMUD, EDAD MEDIA Y EDAD MODERNA](https://www.youtube.com/watch?v=N1MFZtCzkn8) (source_id: `youtube:N1MFZtCzkn8`).
+- Video: [Conversatorio sobre el día de Shabat - Parte 4 La práctica del Shabat](https://www.youtube.com/watch?v=CnQSQIvZHvs) (source_id: `youtube:CnQSQIvZHvs`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales ni como sustituto de la Escritura.

@@ -7,7 +7,6 @@ references: ["#ieshaiahu_49_15"]
 sources:
   [
     "https://www.youtube.com/watch?v=D1CVhLpPy4M",
-    "private/transcripts/ericdejes/D1CVhLpPy4M.md",
     "docs/scriptures/oe/json/isaiah/49.json",
   ]
 source_ids: ["youtube:D1CVhLpPy4M"]
@@ -34,5 +33,5 @@ El consuelo profético descansa en la fidelidad de יהוה y no en una negació
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de 'éqev (2018) Brit 'am, el merrajem](https://www.youtube.com/watch?v=D1CVhLpPy4M) — transcripción: `private/transcripts/ericdejes/D1CVhLpPy4M.md` — source_id: `youtube:D1CVhLpPy4M`.
+- Video: [Haftaráh de 'éqev (2018) Brit 'am, el merrajem](https://www.youtube.com/watch?v=D1CVhLpPy4M) — source_id: `youtube:D1CVhLpPy4M`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

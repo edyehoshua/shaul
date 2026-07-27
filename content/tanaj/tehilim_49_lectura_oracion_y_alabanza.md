@@ -12,7 +12,6 @@ references:
   - "#tehilim_49_21"
 sources:
   - "https://www.youtube.com/watch?v=KqzHO-FjROg"
-  - "private/transcripts/ericdejes/KqzHO-FjROg.md"
   - "docs/scriptures/oe/json/psalms/49.json"
 source_ids:
   - "youtube:KqzHO-FjROg"
@@ -52,5 +51,5 @@ La lectura de Tehilim 49 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 49» — <https://www.youtube.com/watch?v=KqzHO-FjROg> — transcripción: `private/transcripts/ericdejes/KqzHO-FjROg.md` — source_id: `youtube:KqzHO-FjROg`.
+- «Tehilim/Himnos/Salmo Cap 49» — <https://www.youtube.com/watch?v=KqzHO-FjROg> — source_id: `youtube:KqzHO-FjROg`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

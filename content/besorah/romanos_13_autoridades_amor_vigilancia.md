@@ -11,7 +11,6 @@ references:
   - "#romanos_13_14"
 sources:
   - "https://www.youtube.com/watch?v=Wvj5LCGsSLw"
-  - "private/transcripts/ericdejes/Wvj5LCGsSLw.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:Wvj5LCGsSLw"
@@ -62,5 +61,5 @@ Romanos 13 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 29) Acerca de la sujeción a las autoridades superiores](https://www.youtube.com/watch?v=Wvj5LCGsSLw) — transcripción de trabajo: `private/transcripts/ericdejes/Wvj5LCGsSLw.md` (source_id: `youtube:Wvj5LCGsSLw`).
+- [La carta a los romanos (parte 29) Acerca de la sujeción a las autoridades superiores](https://www.youtube.com/watch?v=Wvj5LCGsSLw) (source_id: `youtube:Wvj5LCGsSLw`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

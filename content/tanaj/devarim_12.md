@@ -15,7 +15,6 @@ references:
   - "#devarim_12_19"
 sources:
   - "https://www.youtube.com/watch?v=IJv0HaPaOdk"
-  - "private/transcripts/ericdejes/IJv0HaPaOdk.md"
   - "docs/scriptures/oe/json/deuteronomy/12.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
@@ -78,5 +77,5 @@ El contraste de #devarim_12_17-19 es concreto: ciertos bienes apartados no se ab
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Estudiando las "613" Mitzvot #144-146 No secularizar lo que es sagrado](https://www.youtube.com/watch?v=IJv0HaPaOdk) — transcripción: `private/transcripts/ericdejes/IJv0HaPaOdk.md` — source_id: `youtube:IJv0HaPaOdk`.
+- Video: [Estudiando las "613" Mitzvot #144-146 No secularizar lo que es sagrado](https://www.youtube.com/watch?v=IJv0HaPaOdk) — source_id: `youtube:IJv0HaPaOdk`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -13,11 +13,8 @@ references:
   - "#hebrews_12_22"
 sources:
   - "https://www.youtube.com/watch?v=ECWv0hSPtD0"
-  - "private/transcripts/ericdejes/ECWv0hSPtD0.md"
   - "https://www.youtube.com/watch?v=lx2WEtmi-ic"
-  - "private/transcripts/ericdejes/lx2WEtmi-ic.md"
   - "https://www.youtube.com/watch?v=3_1JFWOgwOY"
-  - "private/transcripts/ericdejes/3_1JFWOgwOY.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:ECWv0hSPtD0"
@@ -54,8 +51,8 @@ El capítulo reúne carrera, formación y adoración reverente para orientar a l
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 14: Musar y tojejáh - las maneras de Dios» — https://www.youtube.com/watch?v=ECWv0hSPtD0 — transcripción: `private/transcripts/ericdejes/ECWv0hSPtD0.md` — source_id: `youtube:ECWv0hSPtD0`.
-- «La carta a los hebreos parte 15: Sin Qódesh es imposible agradar a 'Elohim» — https://www.youtube.com/watch?v=lx2WEtmi-ic — transcripción: `private/transcripts/ericdejes/lx2WEtmi-ic.md` — source_id: `youtube:lx2WEtmi-ic`.
-- «La carta a los hebreos parte 16: La revelación del monte Tziyón» — https://www.youtube.com/watch?v=3_1JFWOgwOY — transcripción: `private/transcripts/ericdejes/3_1JFWOgwOY.md` — source_id: `youtube:3_1JFWOgwOY`.
+- «La carta a los hebreos parte 14: Musar y tojejáh - las maneras de Dios» — https://www.youtube.com/watch?v=ECWv0hSPtD0 — source_id: `youtube:ECWv0hSPtD0`.
+- «La carta a los hebreos parte 15: Sin Qódesh es imposible agradar a 'Elohim» — https://www.youtube.com/watch?v=lx2WEtmi-ic — source_id: `youtube:lx2WEtmi-ic`.
+- «La carta a los hebreos parte 16: La revelación del monte Tziyón» — https://www.youtube.com/watch?v=3_1JFWOgwOY — source_id: `youtube:3_1JFWOgwOY`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

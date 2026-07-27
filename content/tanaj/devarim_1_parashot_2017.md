@@ -9,7 +9,6 @@ references:
   - "#devarim_1_1"
 sources:
   - "https://www.youtube.com/watch?v=n6AaHG2kTCo"
-  - "private/transcripts/ericdejes/n6AaHG2kTCo.md"
   - "docs/scriptures/oe/json/deuteronomy/1.json"
 source_ids:
   - "youtube:n6AaHG2kTCo"
@@ -48,5 +47,5 @@ Devarim 1 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Dvarim (2017) The last enemy to be defeated will be death itself](https://www.youtube.com/watch?v=n6AaHG2kTCo) — transcripción de trabajo: `private/transcripts/ericdejes/n6AaHG2kTCo.md` (source_id: `youtube:n6AaHG2kTCo`).
+- [Parashat Dvarim (2017) The last enemy to be defeated will be death itself](https://www.youtube.com/watch?v=n6AaHG2kTCo) (source_id: `youtube:n6AaHG2kTCo`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

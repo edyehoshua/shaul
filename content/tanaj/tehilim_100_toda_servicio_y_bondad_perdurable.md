@@ -17,7 +17,6 @@ references:
   - "#hebreos_13_15"
 sources:
   - "https://www.youtube.com/watch?v=b9osKv9muDM"
-  - "private/transcripts/ericdejes/b9osKv9muDM.md"
   - "docs/scriptures/oe/json/raw/psalms.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -72,4 +71,4 @@ El breve himno llama a una respuesta pública: aclamar, servir, conocer, entrar,
 
 Esta nota usa una transcripción automática, que puede contener errores y no sustituye la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por la enseñanza usada:
 
-- «Tehilim/Himnos/Salmo Cap 100» — https://www.youtube.com/watch?v=b9osKv9muDM — `private/transcripts/ericdejes/b9osKv9muDM.md` (`youtube:b9osKv9muDM`).
+- «Tehilim/Himnos/Salmo Cap 100» — https://www.youtube.com/watch?v=b9osKv9muDM — (`youtube:b9osKv9muDM`).

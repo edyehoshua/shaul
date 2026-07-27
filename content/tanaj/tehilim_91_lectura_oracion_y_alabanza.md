@@ -12,7 +12,6 @@ references:
   - "#tehilim_91_16"
 sources:
   - "https://www.youtube.com/watch?v=p9-nBI4hEW8"
-  - "private/transcripts/ericdejes/p9-nBI4hEW8.md"
   - "docs/scriptures/oe/json/psalms/91.json"
 source_ids:
   - "youtube:p9-nBI4hEW8"
@@ -52,5 +51,5 @@ La lectura de Tehilim 91 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 91» — <https://www.youtube.com/watch?v=p9-nBI4hEW8> — transcripción: `private/transcripts/ericdejes/p9-nBI4hEW8.md` — source_id: `youtube:p9-nBI4hEW8`.
+- «Tehilim/Himnos/Salmo Cap 91» — <https://www.youtube.com/watch?v=p9-nBI4hEW8> — source_id: `youtube:p9-nBI4hEW8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

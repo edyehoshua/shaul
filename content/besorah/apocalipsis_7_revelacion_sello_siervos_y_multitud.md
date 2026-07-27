@@ -17,7 +17,6 @@ references:
   - "#revelation_7_17"
 sources:
   - "https://www.youtube.com/watch?v=ggw8ZKucja4"
-  - "private/transcripts/ericdejes/ggw8ZKucja4.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:ggw8ZKucja4"
@@ -60,7 +59,6 @@ Apocalipsis 7 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 17 La revelación de Yehoshúa' Hamashíaj: Los 144.000» — https://www.youtube.com/watch?v=ggw8ZKucja4
-  - Transcripción: `private/transcripts/ericdejes/ggw8ZKucja4.md` (`source_id: youtube:ggw8ZKucja4`).
+- «Parte 17 La revelación de Yehoshúa' Hamashíaj: Los 144.000» — https://www.youtube.com/watch?v=ggw8ZKucja4 (`source_id: youtube:ggw8ZKucja4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

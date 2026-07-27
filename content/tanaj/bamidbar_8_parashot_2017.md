@@ -9,7 +9,6 @@ references:
   - "#bamidbar_8_1"
 sources:
   - "https://www.youtube.com/watch?v=Ps_KEolNVdU"
-  - "private/transcripts/ericdejes/Ps_KEolNVdU.md"
   - "docs/scriptures/oe/json/numbers/8.json"
 source_ids:
   - "youtube:Ps_KEolNVdU"
@@ -48,5 +47,5 @@ Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Beha'alotjá (2017) The seven lamps will shine on the face of the Mnoráh](https://www.youtube.com/watch?v=Ps_KEolNVdU) — transcripción de trabajo: `private/transcripts/ericdejes/Ps_KEolNVdU.md` (source_id: `youtube:Ps_KEolNVdU`).
+- [Parashat Beha'alotjá (2017) The seven lamps will shine on the face of the Mnoráh](https://www.youtube.com/watch?v=Ps_KEolNVdU) (source_id: `youtube:Ps_KEolNVdU`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

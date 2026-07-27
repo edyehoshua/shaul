@@ -20,7 +20,6 @@ references:
   - "#qolasim_2_9"
 sources:
   - "https://www.youtube.com/watch?v=bn1Ez0RR56g"
-  - "private/transcripts/ericdejes/bn1Ez0RR56g.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/delitzsch/json/colossians.json"

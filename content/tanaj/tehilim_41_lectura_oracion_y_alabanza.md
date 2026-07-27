@@ -12,7 +12,6 @@ references:
   - "#tehilim_41_14"
 sources:
   - "https://www.youtube.com/watch?v=3Oz3-WwoCPU"
-  - "private/transcripts/ericdejes/3Oz3-WwoCPU.md"
   - "docs/scriptures/oe/json/psalms/41.json"
 source_ids:
   - "youtube:3Oz3-WwoCPU"
@@ -52,5 +51,5 @@ La lectura de Tehilim 41 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 41» — <https://www.youtube.com/watch?v=3Oz3-WwoCPU> — transcripción: `private/transcripts/ericdejes/3Oz3-WwoCPU.md` — source_id: `youtube:3Oz3-WwoCPU`.
+- «Tehilim/Hymnos/Salmo Chap 41» — <https://www.youtube.com/watch?v=3Oz3-WwoCPU> — source_id: `youtube:3Oz3-WwoCPU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

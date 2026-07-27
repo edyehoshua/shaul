@@ -6,7 +6,6 @@ tags: [tanaj, yejezkel, haftarah, tetzaveh]
 references: ["#iejezkel_43_1"]
 sources:
   - "https://www.youtube.com/watch?v=FuUDfJ1_x38"
-  - "private/transcripts/ericdejes/FuUDfJ1_x38.md"
   - "docs/scriptures/oe/json/ezekiel/43.json"
 source_ids: ["youtube:FuUDfJ1_x38"]
 ---
@@ -36,5 +35,5 @@ Ezequiel 43 llama a recibir la visión con reverencia y precisión, sin llenar s
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de tetzavéh (Ez 43)](https://www.youtube.com/watch?v=FuUDfJ1_x38) — transcripción: `private/transcripts/ericdejes/FuUDfJ1_x38.md` — source_id: `youtube:FuUDfJ1_x38`.
+- Video: [Haftaráh de tetzavéh (Ez 43)](https://www.youtube.com/watch?v=FuUDfJ1_x38) — source_id: `youtube:FuUDfJ1_x38`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

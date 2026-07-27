@@ -12,7 +12,6 @@ references:
   - "#tehilim_23_6"
 sources:
   - "https://www.youtube.com/watch?v=8azmEZVF-L8"
-  - "private/transcripts/ericdejes/8azmEZVF-L8.md"
   - "docs/scriptures/oe/json/psalms/23.json"
 source_ids:
   - "youtube:8azmEZVF-L8"
@@ -52,5 +51,5 @@ La lectura de Tehilim 23 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 23» — <https://www.youtube.com/watch?v=8azmEZVF-L8> — transcripción: `private/transcripts/ericdejes/8azmEZVF-L8.md` — source_id: `youtube:8azmEZVF-L8`.
+- «Tehilim/Hymnos/Salmo Chap 23» — <https://www.youtube.com/watch?v=8azmEZVF-L8> — source_id: `youtube:8azmEZVF-L8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

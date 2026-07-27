@@ -9,7 +9,6 @@ references:
   - "#bereshit_25_1"
 sources:
   - "https://www.youtube.com/watch?v=MhGbDzmcCGg"
-  - "private/transcripts/ericdejes/MhGbDzmcCGg.md"
   - "docs/scriptures/oe/json/genesis/25.json"
 source_ids:
   - "youtube:MhGbDzmcCGg"
@@ -48,5 +47,5 @@ Bereshit 25 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Toldot (2016) Gn 25:19-28:9 El abundante trabajará pequeño](https://www.youtube.com/watch?v=MhGbDzmcCGg) — transcripción de trabajo: `private/transcripts/ericdejes/MhGbDzmcCGg.md` (source_id: `youtube:MhGbDzmcCGg`).
+- [Parashat Toldot (2016) Gn 25:19-28:9 El abundante trabajará pequeño](https://www.youtube.com/watch?v=MhGbDzmcCGg) (source_id: `youtube:MhGbDzmcCGg`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

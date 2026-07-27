@@ -6,7 +6,6 @@ tags: [tanaj, shemuel_bet, haftarah, shmini]
 references: ["#shemuel_bet_6_12", "#shemuel_bet_7_17"]
 sources:
   - "https://www.youtube.com/watch?v=QvVgjYqT3iI"
-  - "private/transcripts/ericdejes/QvVgjYqT3iI.md"
   - "docs/scriptures/oe/json/raw/2samuel.json"
 source_ids: ["youtube:QvVgjYqT3iI"]
 ---
@@ -36,5 +35,5 @@ La alegría de David no elimina el temor reverente; ambos elementos guían una l
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Shminí 2Sm 6:1-7:17](https://www.youtube.com/watch?v=QvVgjYqT3iI) — transcripción: `private/transcripts/ericdejes/QvVgjYqT3iI.md` — source_id: `youtube:QvVgjYqT3iI`.
+- Video: [Haftaráh de Shminí 2Sm 6:1-7:17](https://www.youtube.com/watch?v=QvVgjYqT3iI) — source_id: `youtube:QvVgjYqT3iI`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

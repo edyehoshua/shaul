@@ -9,7 +9,6 @@ references:
   - "#shemot_1_1"
 sources:
   - "https://www.youtube.com/watch?v=N-gt5PuJL-8"
-  - "private/transcripts/ericdejes/N-gt5PuJL-8.md"
   - "docs/scriptures/oe/json/exodus/1.json"
 source_ids:
   - "youtube:N-gt5PuJL-8"
@@ -48,5 +47,5 @@ Shemot 1 llama a atender el texto en su propio marco. La sesión aporta una vía
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Shmot (2017) Venced con el bien al mal.](https://www.youtube.com/watch?v=N-gt5PuJL-8) — transcripción de trabajo: `private/transcripts/ericdejes/N-gt5PuJL-8.md` (source_id: `youtube:N-gt5PuJL-8`).
+- [Parashat Shmot (2017) Venced con el bien al mal.](https://www.youtube.com/watch?v=N-gt5PuJL-8) (source_id: `youtube:N-gt5PuJL-8`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

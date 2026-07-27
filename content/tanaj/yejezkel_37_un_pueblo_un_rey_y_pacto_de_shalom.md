@@ -6,7 +6,6 @@ tags: [tanaj, yejezkel, haftarah]
 references: ["Ezequiel 37:15-28"]
 sources:
   - "https://www.youtube.com/watch?v=US1GdLYd5Bg"
-  - "private/transcripts/ericdejes/US1GdLYd5Bg.md"
   - "docs/scriptures/oe/json/ezekiel/37.json"
 source_ids: ["youtube:US1GdLYd5Bg"]
 ---
@@ -36,4 +35,4 @@ Ezequiel ofrece una esperanza de reunión y shalom que resiste tanto la fragment
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayigash (2017). Yosef y Yehudáh ya no serán 2 goyim](https://www.youtube.com/watch?v=US1GdLYd5Bg) — `private/transcripts/ericdejes/US1GdLYd5Bg.md` (source_id: `youtube:US1GdLYd5Bg`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayigash (2017). Yosef y Yehudáh ya no serán 2 goyim](https://www.youtube.com/watch?v=US1GdLYd5Bg) — (source_id: `youtube:US1GdLYd5Bg`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

@@ -15,7 +15,6 @@ references:
   - "#revelation_13_18"
 sources:
   - "https://www.youtube.com/watch?v=-utycygmrv4"
-  - "private/transcripts/ericdejes/-utycygmrv4.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:-utycygmrv4"
@@ -58,7 +57,6 @@ Apocalipsis 13 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 22 La revelación de Yehoshúa' Hamashíaj. Las dos bestias» — https://www.youtube.com/watch?v=-utycygmrv4
-  - Transcripción: `private/transcripts/ericdejes/-utycygmrv4.md` (`source_id: youtube:-utycygmrv4`).
+- «Parte 22 La revelación de Yehoshúa' Hamashíaj. Las dos bestias» — https://www.youtube.com/watch?v=-utycygmrv4 (`source_id: youtube:-utycygmrv4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

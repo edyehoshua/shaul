@@ -12,7 +12,6 @@ references:
   - "#tehilim_82_8"
 sources:
   - "https://www.youtube.com/watch?v=_WrgGtctj8s"
-  - "private/transcripts/ericdejes/_WrgGtctj8s.md"
   - "docs/scriptures/oe/json/psalms/82.json"
 source_ids:
   - "youtube:_WrgGtctj8s"
@@ -52,5 +51,5 @@ La lectura de Tehilim 82 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 82» — <https://www.youtube.com/watch?v=_WrgGtctj8s> — transcripción: `private/transcripts/ericdejes/_WrgGtctj8s.md` — source_id: `youtube:_WrgGtctj8s`.
+- «Tehilim/Himnos/Salmo Cap 82» — <https://www.youtube.com/watch?v=_WrgGtctj8s> — source_id: `youtube:_WrgGtctj8s`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -16,7 +16,6 @@ references:
   - "#revelation_11_19"
 sources:
   - "https://www.youtube.com/watch?v=T6Sn9-djsC4"
-  - "private/transcripts/ericdejes/T6Sn9-djsC4.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:T6Sn9-djsC4"
@@ -59,7 +58,6 @@ Apocalipsis 11 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 20 La revelación de Yehoshúa' Hamashíaj: Los dos testigos» — https://www.youtube.com/watch?v=T6Sn9-djsC4
-  - Transcripción: `private/transcripts/ericdejes/T6Sn9-djsC4.md` (`source_id: youtube:T6Sn9-djsC4`).
+- «Parte 20 La revelación de Yehoshúa' Hamashíaj: Los dos testigos» — https://www.youtube.com/watch?v=T6Sn9-djsC4 (`source_id: youtube:T6Sn9-djsC4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

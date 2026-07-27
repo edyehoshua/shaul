@@ -12,7 +12,6 @@ references:
   - "#thessalonians1_3_1-13"
 sources:
   - "https://www.youtube.com/watch?v=cCpRmRJM-FY"
-  - "private/transcripts/ericdejes/cCpRmRJM-FY.md"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
 source_ids:
   - "youtube:cCpRmRJM-FY"
@@ -68,7 +67,6 @@ El capítulo 3 une cuidado pastoral, perseverancia y oración. La comunidad es s
 
 Esta nota organiza clases del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1 Thessalonians (part 6) Chapter 3» — https://www.youtube.com/watch?v=cCpRmRJM-FY
-  - Transcripción: `private/transcripts/ericdejes/cCpRmRJM-FY.md` (`source_id: youtube:cCpRmRJM-FY`).
+- «1 Thessalonians (part 6) Chapter 3» — https://www.youtube.com/watch?v=cCpRmRJM-FY (`source_id: youtube:cCpRmRJM-FY`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

@@ -16,13 +16,9 @@ references:
   - "#revelation_2_29"
 sources:
   - "https://www.youtube.com/watch?v=MgPCTRyjtGo"
-  - "private/transcripts/ericdejes/MgPCTRyjtGo.md"
   - "https://www.youtube.com/watch?v=__iSwZtyEdw"
-  - "private/transcripts/ericdejes/__iSwZtyEdw.md"
   - "https://www.youtube.com/watch?v=D56MVOVBDaY"
-  - "private/transcripts/ericdejes/D56MVOVBDaY.md"
   - "https://www.youtube.com/watch?v=X7ZfjS9mMQg"
-  - "private/transcripts/ericdejes/X7ZfjS9mMQg.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:MgPCTRyjtGo"
@@ -68,13 +64,9 @@ Apocalipsis 2 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La revelación de Yehoshúa' Hamashíaj (parte 5) El mensaje a Éfeso» — https://www.youtube.com/watch?v=MgPCTRyjtGo
-  - Transcripción: `private/transcripts/ericdejes/MgPCTRyjtGo.md` (`source_id: youtube:MgPCTRyjtGo`).
-- «La revelación de Yehoshúa Hamashíaj (Parte 6) El Mensaje a Esmirna» — https://www.youtube.com/watch?v=__iSwZtyEdw
-  - Transcripción: `private/transcripts/ericdejes/__iSwZtyEdw.md` (`source_id: youtube:__iSwZtyEdw`).
-- «Parte 7 La Revelación de Yehoshúa' Hamashíaj (2017): El mensaje a Pérgamo» — https://www.youtube.com/watch?v=D56MVOVBDaY
-  - Transcripción: `private/transcripts/ericdejes/D56MVOVBDaY.md` (`source_id: youtube:D56MVOVBDaY`).
-- «Parte 8 La revelación de Yehoshúa' Hamashíaj - El Mensaje a Tiatira, el "Padre" y el "hijo".» — https://www.youtube.com/watch?v=X7ZfjS9mMQg
-  - Transcripción: `private/transcripts/ericdejes/X7ZfjS9mMQg.md` (`source_id: youtube:X7ZfjS9mMQg`).
+- «La revelación de Yehoshúa' Hamashíaj (parte 5) El mensaje a Éfeso» — https://www.youtube.com/watch?v=MgPCTRyjtGo (`source_id: youtube:MgPCTRyjtGo`).
+- «La revelación de Yehoshúa Hamashíaj (Parte 6) El Mensaje a Esmirna» — https://www.youtube.com/watch?v=__iSwZtyEdw (`source_id: youtube:__iSwZtyEdw`).
+- «Parte 7 La Revelación de Yehoshúa' Hamashíaj (2017): El mensaje a Pérgamo» — https://www.youtube.com/watch?v=D56MVOVBDaY (`source_id: youtube:D56MVOVBDaY`).
+- «Parte 8 La revelación de Yehoshúa' Hamashíaj - El Mensaje a Tiatira, el "Padre" y el "hijo".» — https://www.youtube.com/watch?v=X7ZfjS9mMQg (`source_id: youtube:X7ZfjS9mMQg`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

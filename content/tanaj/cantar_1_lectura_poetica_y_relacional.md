@@ -27,13 +27,9 @@ references:
   - "#songofsolomon_1_17"
 sources:
   - "https://www.youtube.com/watch?v=Nqe5dcsxH3s"
-  - "private/transcripts/ericdejes/Nqe5dcsxH3s.md"
   - "https://www.youtube.com/watch?v=WpajxWXftY0"
-  - "private/transcripts/ericdejes/WpajxWXftY0.md"
   - "https://www.youtube.com/watch?v=MIJXS2ySeR4"
-  - "private/transcripts/ericdejes/MIJXS2ySeR4.md"
   - "https://www.youtube.com/watch?v=DnhyzPXYyYY"
-  - "private/transcripts/ericdejes/DnhyzPXYyYY.md"
   - "docs/scriptures/oe/json/songofsolomon/1.json"
 source_ids:
   - "youtube:Nqe5dcsxH3s"
@@ -77,13 +73,9 @@ Cantar 1 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 1) Cap 1» — https://www.youtube.com/watch?v=Nqe5dcsxH3s
-  - Transcripción: `private/transcripts/ericdejes/Nqe5dcsxH3s.md` (`source_id: youtube:Nqe5dcsxH3s`).
-- «Shir hashirim (parte 2) Cap 1» — https://www.youtube.com/watch?v=WpajxWXftY0
-  - Transcripción: `private/transcripts/ericdejes/WpajxWXftY0.md` (`source_id: youtube:WpajxWXftY0`).
-- «Shir hashirim (parte 3) Cap 1» — https://www.youtube.com/watch?v=MIJXS2ySeR4
-  - Transcripción: `private/transcripts/ericdejes/MIJXS2ySeR4.md` (`source_id: youtube:MIJXS2ySeR4`).
-- «Shir hashirim (parte 4) cap 1» — https://www.youtube.com/watch?v=DnhyzPXYyYY
-  - Transcripción: `private/transcripts/ericdejes/DnhyzPXYyYY.md` (`source_id: youtube:DnhyzPXYyYY`).
+- «Shir hashirim (parte 1) Cap 1» — https://www.youtube.com/watch?v=Nqe5dcsxH3s (`source_id: youtube:Nqe5dcsxH3s`).
+- «Shir hashirim (parte 2) Cap 1» — https://www.youtube.com/watch?v=WpajxWXftY0 (`source_id: youtube:WpajxWXftY0`).
+- «Shir hashirim (parte 3) Cap 1» — https://www.youtube.com/watch?v=MIJXS2ySeR4 (`source_id: youtube:MIJXS2ySeR4`).
+- «Shir hashirim (parte 4) cap 1» — https://www.youtube.com/watch?v=DnhyzPXYyYY (`source_id: youtube:DnhyzPXYyYY`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

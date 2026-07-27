@@ -15,13 +15,9 @@ references:
   - "#revelation_3_21"
 sources:
   - "https://www.youtube.com/watch?v=QsVyKoYFghg"
-  - "private/transcripts/ericdejes/QsVyKoYFghg.md"
   - "https://www.youtube.com/watch?v=VzUpWkv8BCQ"
-  - "private/transcripts/ericdejes/VzUpWkv8BCQ.md"
   - "https://www.youtube.com/watch?v=baKHb9CzU7Q"
-  - "private/transcripts/ericdejes/baKHb9CzU7Q.md"
   - "https://www.youtube.com/watch?v=lr8Oyu-2mhA"
-  - "private/transcripts/ericdejes/lr8Oyu-2mhA.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:QsVyKoYFghg"
@@ -67,13 +63,9 @@ Apocalipsis 3 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 9 La revelación de Yehoshúa' Hamashía (2017) El Mensaje a Sardis» — https://www.youtube.com/watch?v=QsVyKoYFghg
-  - Transcripción: `private/transcripts/ericdejes/QsVyKoYFghg.md` (`source_id: youtube:QsVyKoYFghg`).
-- «Parte 10 La revelación de Yehoshúa' Hamashíaj (2017). El Mensaje a Filadelfia» — https://www.youtube.com/watch?v=VzUpWkv8BCQ
-  - Transcripción: `private/transcripts/ericdejes/VzUpWkv8BCQ.md` (`source_id: youtube:VzUpWkv8BCQ`).
-- «Parte 11 La revelación de Yehoshúa' Hamashíaj (2017) - Cómo entender la expresión "mi Dios" en 3:12» — https://www.youtube.com/watch?v=baKHb9CzU7Q
-  - Transcripción: `private/transcripts/ericdejes/baKHb9CzU7Q.md` (`source_id: youtube:baKHb9CzU7Q`).
-- «Parte 12 La revelación de Yehoshúa' Hamashíaj (2017) El Mensaje a Laodíkia» — https://www.youtube.com/watch?v=lr8Oyu-2mhA
-  - Transcripción: `private/transcripts/ericdejes/lr8Oyu-2mhA.md` (`source_id: youtube:lr8Oyu-2mhA`).
+- «Parte 9 La revelación de Yehoshúa' Hamashía (2017) El Mensaje a Sardis» — https://www.youtube.com/watch?v=QsVyKoYFghg (`source_id: youtube:QsVyKoYFghg`).
+- «Parte 10 La revelación de Yehoshúa' Hamashíaj (2017). El Mensaje a Filadelfia» — https://www.youtube.com/watch?v=VzUpWkv8BCQ (`source_id: youtube:VzUpWkv8BCQ`).
+- «Parte 11 La revelación de Yehoshúa' Hamashíaj (2017) - Cómo entender la expresión "mi Dios" en 3:12» — https://www.youtube.com/watch?v=baKHb9CzU7Q (`source_id: youtube:baKHb9CzU7Q`).
+- «Parte 12 La revelación de Yehoshúa' Hamashíaj (2017) El Mensaje a Laodíkia» — https://www.youtube.com/watch?v=lr8Oyu-2mhA (`source_id: youtube:lr8Oyu-2mhA`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

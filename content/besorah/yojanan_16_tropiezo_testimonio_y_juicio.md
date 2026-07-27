@@ -21,7 +21,6 @@ references:
   - "#iojanan_16_11"
 sources:
   - "https://www.youtube.com/watch?v=ag3Zg3B2sbs"
-  - "private/transcripts/ericdejes/ag3Zg3B2sbs.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:

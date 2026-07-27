@@ -27,7 +27,6 @@ references:
 sources:
   - "docs/benhaelohim.md"
   - "https://www.youtube.com/watch?v=DOUwTpLXTY4"
-  - "private/transcripts/ericdejes/DOUwTpLXTY4.md"
 source_ids:
   - "youtube:DOUwTpLXTY4"
 translation: "[TTH, Delitzsch, OE]"
@@ -141,4 +140,4 @@ La enseñanza reorganiza el lenguaje de Dios y Padre desde categorías semítica
 
 Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 3: 'Elohim y 'Aba'» — <https://www.youtube.com/watch?v=DOUwTpLXTY4> — transcripción: `private/transcripts/ericdejes/DOUwTpLXTY4.md` — source_id: `youtube:DOUwTpLXTY4`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 3: 'Elohim y 'Aba'» — <https://www.youtube.com/watch?v=DOUwTpLXTY4> — source_id: `youtube:DOUwTpLXTY4`.

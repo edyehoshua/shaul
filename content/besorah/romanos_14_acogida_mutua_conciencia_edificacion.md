@@ -11,11 +11,8 @@ references:
   - "#romanos_14_23"
 sources:
   - "https://www.youtube.com/watch?v=FXNL9LiBWFk"
-  - "private/transcripts/ericdejes/FXNL9LiBWFk.md"
   - "https://www.youtube.com/watch?v=UpiptaA32B4"
-  - "private/transcripts/ericdejes/UpiptaA32B4.md"
   - "https://www.youtube.com/watch?v=IU50N7zdeww"
-  - "private/transcripts/ericdejes/IU50N7zdeww.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:FXNL9LiBWFk"
@@ -70,7 +67,7 @@ Romanos 14 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 31) La norma de la comunidad - II](https://www.youtube.com/watch?v=FXNL9LiBWFk) — transcripción de trabajo: `private/transcripts/ericdejes/FXNL9LiBWFk.md` (source_id: `youtube:FXNL9LiBWFk`).
-- [La carta a los romanos (parte 32) Los débiles y los fuertes -Final-](https://www.youtube.com/watch?v=UpiptaA32B4) — transcripción de trabajo: `private/transcripts/ericdejes/UpiptaA32B4.md` (source_id: `youtube:UpiptaA32B4`).
-- [The Letter to the Romans (Part 30) Community Rule and Coexistence](https://www.youtube.com/watch?v=IU50N7zdeww) — transcripción de trabajo: `private/transcripts/ericdejes/IU50N7zdeww.md` (source_id: `youtube:IU50N7zdeww`).
+- [La carta a los romanos (parte 31) La norma de la comunidad - II](https://www.youtube.com/watch?v=FXNL9LiBWFk) (source_id: `youtube:FXNL9LiBWFk`).
+- [La carta a los romanos (parte 32) Los débiles y los fuertes -Final-](https://www.youtube.com/watch?v=UpiptaA32B4) (source_id: `youtube:UpiptaA32B4`).
+- [The Letter to the Romans (Part 30) Community Rule and Coexistence](https://www.youtube.com/watch?v=IU50N7zdeww) (source_id: `youtube:IU50N7zdeww`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

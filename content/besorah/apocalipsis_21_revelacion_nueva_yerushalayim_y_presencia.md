@@ -16,7 +16,6 @@ references:
   - "#revelation_21_23"
 sources:
   - "https://www.youtube.com/watch?v=XBgxlv_WKGQ"
-  - "private/transcripts/ericdejes/XBgxlv_WKGQ.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:XBgxlv_WKGQ"
@@ -59,7 +58,6 @@ Apocalipsis 21 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 29 La revelación de Yehoshúa' Hamashíaj Cap 21 La nueva Yerushaláyim» — https://www.youtube.com/watch?v=XBgxlv_WKGQ
-  - Transcripción: `private/transcripts/ericdejes/XBgxlv_WKGQ.md` (`source_id: youtube:XBgxlv_WKGQ`).
+- «Parte 29 La revelación de Yehoshúa' Hamashíaj Cap 21 La nueva Yerushaláyim» — https://www.youtube.com/watch?v=XBgxlv_WKGQ (`source_id: youtube:XBgxlv_WKGQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -37,17 +37,11 @@ references:
   - "#peter1_2_17"
 sources:
   - "https://www.youtube.com/watch?v=6gCUX55_ID0"
-  - "private/transcripts/ericdejes/6gCUX55_ID0.md"
   - "https://www.youtube.com/watch?v=qsn5BfZMZ8o"
-  - "private/transcripts/ericdejes/qsn5BfZMZ8o.md"
   - "https://www.youtube.com/watch?v=9Tzh2oZtmAk"
-  - "private/transcripts/ericdejes/9Tzh2oZtmAk.md"
   - "https://www.youtube.com/watch?v=KPdeVmwOViQ"
-  - "private/transcripts/ericdejes/KPdeVmwOViQ.md"
   - "https://www.youtube.com/watch?v=k2V_xN81ozU"
-  - "private/transcripts/ericdejes/k2V_xN81ozU.md"
   - "https://www.youtube.com/watch?v=WSIaQ6rlhDc"
-  - "private/transcripts/ericdejes/WSIaQ6rlhDc.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
@@ -164,17 +158,11 @@ El recorrido completo del capítulo amplía esa apertura: bendición, elección,
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**:
 
-- «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?» — https://www.youtube.com/watch?v=6gCUX55_ID0
-  - Transcripción: `private/transcripts/ericdejes/6gCUX55_ID0.md` (`source_id: youtube:6gCUX55_ID0`).
-- «La carta a los Efesios Parte 2 ¿Predestinados?» — https://www.youtube.com/watch?v=qsn5BfZMZ8o
-  - Transcripción: `private/transcripts/ericdejes/qsn5BfZMZ8o.md` (`source_id: youtube:qsn5BfZMZ8o`).
-- «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk
-  - Transcripción: `private/transcripts/ericdejes/9Tzh2oZtmAk.md` (`source_id: youtube:9Tzh2oZtmAk`).
-- «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ
-  - Transcripción: `private/transcripts/ericdejes/KPdeVmwOViQ.md` (`source_id: youtube:KPdeVmwOViQ`).
-- «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU
-  - Transcripción: `private/transcripts/ericdejes/k2V_xN81ozU.md` (`source_id: youtube:k2V_xN81ozU`).
-- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed /משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc
-  - Transcripción: `private/transcripts/ericdejes/WSIaQ6rlhDc.md` (`source_id: youtube:WSIaQ6rlhDc`).
+- «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?» — https://www.youtube.com/watch?v=6gCUX55_ID0 (`source_id: youtube:6gCUX55_ID0`).
+- «La carta a los Efesios Parte 2 ¿Predestinados?» — https://www.youtube.com/watch?v=qsn5BfZMZ8o (`source_id: youtube:qsn5BfZMZ8o`).
+- «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk (`source_id: youtube:9Tzh2oZtmAk`).
+- «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ (`source_id: youtube:KPdeVmwOViQ`).
+- «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU (`source_id: youtube:k2V_xN81ozU`).
+- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed /משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc (`source_id: youtube:WSIaQ6rlhDc`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

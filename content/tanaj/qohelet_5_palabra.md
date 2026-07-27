@@ -10,7 +10,6 @@ references:
   - "#ecclesiastes_5_19"
 sources:
   - "https://www.youtube.com/watch?v=v0jX4HtFjf0"
-  - "private/transcripts/ericdejes/v0jX4HtFjf0.md"
   - "docs/scriptures/oe/json/ecclesiastes/5.json"
 source_ids:
   - "youtube:v0jX4HtFjf0"
@@ -58,7 +57,6 @@ Qohélet 5 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 11) Cap 5» — https://www.youtube.com/watch?v=v0jX4HtFjf0
-  - Transcripción: `private/transcripts/ericdejes/v0jX4HtFjf0.md` (`source_id: youtube:v0jX4HtFjf0`).
+- «Qohélet-Eclesiastés (parte 11) Cap 5» — https://www.youtube.com/watch?v=v0jX4HtFjf0 (`source_id: youtube:v0jX4HtFjf0`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

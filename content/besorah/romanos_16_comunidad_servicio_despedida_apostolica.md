@@ -11,7 +11,6 @@ references:
   - "#romanos_16_26"
 sources:
   - "https://www.youtube.com/watch?v=hXBq_VelTJc"
-  - "private/transcripts/ericdejes/hXBq_VelTJc.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:hXBq_VelTJc"
@@ -62,5 +61,5 @@ Romanos 16 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 34) FINAL - El Rol de la mujer y otros aspectos congregacionales](https://www.youtube.com/watch?v=hXBq_VelTJc) — transcripción de trabajo: `private/transcripts/ericdejes/hXBq_VelTJc.md` (source_id: `youtube:hXBq_VelTJc`).
+- [La carta a los romanos (parte 34) FINAL - El Rol de la mujer y otros aspectos congregacionales](https://www.youtube.com/watch?v=hXBq_VelTJc) (source_id: `youtube:hXBq_VelTJc`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

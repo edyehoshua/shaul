@@ -12,7 +12,6 @@ references:
   - "#tehilim_43_5"
 sources:
   - "https://www.youtube.com/watch?v=1dRi2Qnjyl4"
-  - "private/transcripts/ericdejes/1dRi2Qnjyl4.md"
   - "docs/scriptures/oe/json/psalms/43.json"
 source_ids:
   - "youtube:1dRi2Qnjyl4"
@@ -52,5 +51,5 @@ La lectura de Tehilim 43 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehillim/Hymns/Psalm Chapter 43» — <https://www.youtube.com/watch?v=1dRi2Qnjyl4> — transcripción: `private/transcripts/ericdejes/1dRi2Qnjyl4.md` — source_id: `youtube:1dRi2Qnjyl4`.
+- «Tehillim/Hymns/Psalm Chapter 43» — <https://www.youtube.com/watch?v=1dRi2Qnjyl4> — source_id: `youtube:1dRi2Qnjyl4`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

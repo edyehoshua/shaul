@@ -20,7 +20,6 @@ references:
   - "#ivrim_2_5"
 sources:
   - "https://www.youtube.com/watch?v=9Xqwsg0WF14"
-  - "private/transcripts/ericdejes/9Xqwsg0WF14.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/mishlei.json"

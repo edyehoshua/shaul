@@ -14,11 +14,8 @@ references:
   - "#ieshaiahu_1_21"
 sources:
   - "https://www.youtube.com/watch?v=SrmxQo97ptE"
-  - "private/transcripts/ericdejes/SrmxQo97ptE.md"
   - "https://www.youtube.com/watch?v=HgqgVFSqhmY"
-  - "private/transcripts/ericdejes/HgqgVFSqhmY.md"
   - "https://www.youtube.com/watch?v=cAW2M4P-QIc"
-  - "private/transcripts/ericdejes/cAW2M4P-QIc.md"
   - "docs/scriptures/oe/json/isaiah/1.json"
 source_ids:
   - "youtube:SrmxQo97ptE"
@@ -62,7 +59,7 @@ Ieshaiahu 1 se presenta como juicio contra una nación que se rebeló aun conoci
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Yesha’yahu - Isaías (parte 1) Intro» — <https://www.youtube.com/watch?v=SrmxQo97ptE> — transcripción: `private/transcripts/ericdejes/SrmxQo97ptE.md` — source_id: `youtube:SrmxQo97ptE`.
-- «Yesha’yahu - Isaías (parte 2) Intro II» — <https://www.youtube.com/watch?v=HgqgVFSqhmY> — transcripción: `private/transcripts/ericdejes/HgqgVFSqhmY.md` — source_id: `youtube:HgqgVFSqhmY`.
-- «Yesha'yahu - Isaías (parte 3) Cap 1» — <https://www.youtube.com/watch?v=cAW2M4P-QIc> — transcripción: `private/transcripts/ericdejes/cAW2M4P-QIc.md` — source_id: `youtube:cAW2M4P-QIc`.
+- «Yesha’yahu - Isaías (parte 1) Intro» — <https://www.youtube.com/watch?v=SrmxQo97ptE> — source_id: `youtube:SrmxQo97ptE`.
+- «Yesha’yahu - Isaías (parte 2) Intro II» — <https://www.youtube.com/watch?v=HgqgVFSqhmY> — source_id: `youtube:HgqgVFSqhmY`.
+- «Yesha'yahu - Isaías (parte 3) Cap 1» — <https://www.youtube.com/watch?v=cAW2M4P-QIc> — source_id: `youtube:cAW2M4P-QIc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

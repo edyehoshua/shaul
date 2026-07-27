@@ -12,7 +12,6 @@ references:
   - "#tehilim_77_21"
 sources:
   - "https://www.youtube.com/watch?v=6gSNfw9EFGM"
-  - "private/transcripts/ericdejes/6gSNfw9EFGM.md"
   - "docs/scriptures/oe/json/psalms/77.json"
 source_ids:
   - "youtube:6gSNfw9EFGM"
@@ -52,5 +51,5 @@ La lectura de Tehilim 77 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 77» — <https://www.youtube.com/watch?v=6gSNfw9EFGM> — transcripción: `private/transcripts/ericdejes/6gSNfw9EFGM.md` — source_id: `youtube:6gSNfw9EFGM`.
+- «Tehilim/Himnos/Salmo Cap 77» — <https://www.youtube.com/watch?v=6gSNfw9EFGM> — source_id: `youtube:6gSNfw9EFGM`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -16,9 +16,6 @@ sources:
   - "https://www.youtube.com/watch?v=j4i_FKNQ_Ms"
   - "https://www.youtube.com/watch?v=3mikRgwy-xw"
   - "https://www.youtube.com/watch?v=LS6rFiW377M"
-  - "private/transcripts/ericdejes/j4i_FKNQ_Ms.md"
-  - "private/transcripts/ericdejes/3mikRgwy-xw.md"
-  - "private/transcripts/ericdejes/LS6rFiW377M.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -66,6 +63,6 @@ El pan de vida no es un eslogan separado del relato: conduce desde el signo, por
 
 Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
 
-- «El Evangelio según Yojanán / Juan Parte 16 cap 6a» — https://www.youtube.com/watch?v=j4i_FKNQ_Ms — `private/transcripts/ericdejes/j4i_FKNQ_Ms.md` (`youtube:j4i_FKNQ_Ms`).
-- «El Evangelio según Yojanán /Juan (Parte 17) Las obras de 'aba'» — https://www.youtube.com/watch?v=3mikRgwy-xw — `private/transcripts/ericdejes/3mikRgwy-xw.md` (`youtube:3mikRgwy-xw`).
-- «El Evangelio según Yojanán (2018) Parte 18» — https://www.youtube.com/watch?v=LS6rFiW377M — `private/transcripts/ericdejes/LS6rFiW377M.md` (`youtube:LS6rFiW377M`).
+- «El Evangelio según Yojanán / Juan Parte 16 cap 6a» — https://www.youtube.com/watch?v=j4i_FKNQ_Ms — (`youtube:j4i_FKNQ_Ms`).
+- «El Evangelio según Yojanán /Juan (Parte 17) Las obras de 'aba'» — https://www.youtube.com/watch?v=3mikRgwy-xw — (`youtube:3mikRgwy-xw`).
+- «El Evangelio según Yojanán (2018) Parte 18» — https://www.youtube.com/watch?v=LS6rFiW377M — (`youtube:LS6rFiW377M`).

@@ -11,11 +11,8 @@ references:
   - "#romanos_4_25"
 sources:
   - "https://www.youtube.com/watch?v=T5Gz07-mSLw"
-  - "private/transcripts/ericdejes/T5Gz07-mSLw.md"
   - "https://www.youtube.com/watch?v=FLwENs5WWjM"
-  - "private/transcripts/ericdejes/FLwENs5WWjM.md"
   - "https://www.youtube.com/watch?v=4VV_1Q4eDMU"
-  - "private/transcripts/ericdejes/4VV_1Q4eDMU.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:T5Gz07-mSLw"
@@ -70,7 +67,7 @@ Romanos 4 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (Parte 8). Justificados por gracia por la fidelidad de YHWH-Yehoshúa'](https://www.youtube.com/watch?v=T5Gz07-mSLw) — transcripción de trabajo: `private/transcripts/ericdejes/T5Gz07-mSLw.md` (source_id: `youtube:T5Gz07-mSLw`).
-- [La carta a los romanos (Parte 10). Fortalecidos por la fidelidad](https://www.youtube.com/watch?v=FLwENs5WWjM) — transcripción de trabajo: `private/transcripts/ericdejes/FLwENs5WWjM.md` (source_id: `youtube:FLwENs5WWjM`).
-- [La carta a los ro manos (parte 9). Su fidelidad antes que nuestra obediencia](https://www.youtube.com/watch?v=4VV_1Q4eDMU) — transcripción de trabajo: `private/transcripts/ericdejes/4VV_1Q4eDMU.md` (source_id: `youtube:4VV_1Q4eDMU`).
+- [La carta a los romanos (Parte 8). Justificados por gracia por la fidelidad de YHWH-Yehoshúa'](https://www.youtube.com/watch?v=T5Gz07-mSLw) (source_id: `youtube:T5Gz07-mSLw`).
+- [La carta a los romanos (Parte 10). Fortalecidos por la fidelidad](https://www.youtube.com/watch?v=FLwENs5WWjM) (source_id: `youtube:FLwENs5WWjM`).
+- [La carta a los ro manos (parte 9). Su fidelidad antes que nuestra obediencia](https://www.youtube.com/watch?v=4VV_1Q4eDMU) (source_id: `youtube:4VV_1Q4eDMU`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

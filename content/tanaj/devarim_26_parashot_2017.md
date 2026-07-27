@@ -9,7 +9,6 @@ references:
   - "#devarim_26_1"
 sources:
   - "https://www.youtube.com/watch?v=2nIzEfsUiPQ"
-  - "private/transcripts/ericdejes/2nIzEfsUiPQ.md"
   - "docs/scriptures/oe/json/deuteronomy/26.json"
 source_ids:
   - "youtube:2nIzEfsUiPQ"
@@ -48,5 +47,5 @@ Devarim 26 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Ki Tavo' (2017) 'Avanim Shlemot](https://www.youtube.com/watch?v=2nIzEfsUiPQ) — transcripción de trabajo: `private/transcripts/ericdejes/2nIzEfsUiPQ.md` (source_id: `youtube:2nIzEfsUiPQ`).
+- [Parashat Ki Tavo' (2017) 'Avanim Shlemot](https://www.youtube.com/watch?v=2nIzEfsUiPQ) (source_id: `youtube:2nIzEfsUiPQ`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -18,7 +18,6 @@ references:
   - "#shemuel_bet_18_1-18"
 sources:
   - "https://www.youtube.com/watch?v=lmFl_zxaEFw"
-  - "private/transcripts/ericdejes/lmFl_zxaEFw.md"
   - "docs/scriptures/oe/json/psalms/3.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -89,5 +88,5 @@ Tehilim 3 enseña a hablar con honestidad cuando se multiplican los adversarios 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehillim/Psalms/Psalm Ch. 3» — <https://www.youtube.com/watch?v=lmFl_zxaEFw> — transcripción: `private/transcripts/ericdejes/lmFl_zxaEFw.md` — source_id: `youtube:lmFl_zxaEFw`.
+- Video: «Tehillim/Psalms/Psalm Ch. 3» — <https://www.youtube.com/watch?v=lmFl_zxaEFw> — source_id: `youtube:lmFl_zxaEFw`.
 - Esta nota organiza y contrasta una transcripción automática; no presenta la transcripción automática como cita literal.

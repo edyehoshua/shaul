@@ -9,7 +9,6 @@ references:
   - "#devarim_7_1"
 sources:
   - "https://www.youtube.com/watch?v=pBcHCtYt5-s"
-  - "private/transcripts/ericdejes/pBcHCtYt5-s.md"
   - "docs/scriptures/oe/json/deuteronomy/7.json"
 source_ids:
   - "youtube:pBcHCtYt5-s"
@@ -48,5 +47,5 @@ Devarim 7 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat 'Éqev (2017) No perderán de vista la Mishméret](https://www.youtube.com/watch?v=pBcHCtYt5-s) — transcripción de trabajo: `private/transcripts/ericdejes/pBcHCtYt5-s.md` (source_id: `youtube:pBcHCtYt5-s`).
+- [Parashat 'Éqev (2017) No perderán de vista la Mishméret](https://www.youtube.com/watch?v=pBcHCtYt5-s) (source_id: `youtube:pBcHCtYt5-s`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

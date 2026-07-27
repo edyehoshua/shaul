@@ -12,7 +12,6 @@ references:
   - "#tehilim_8_10"
 sources:
   - "https://www.youtube.com/watch?v=a4aHzxIGIcY"
-  - "private/transcripts/ericdejes/a4aHzxIGIcY.md"
   - "docs/scriptures/oe/json/psalms/8.json"
 source_ids:
   - "youtube:a4aHzxIGIcY"
@@ -52,5 +51,5 @@ La lectura de Tehilim 8 comienza por su lenguaje poético, su desarrollo complet
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehillim/Hymns/Psalm Ch. 8» — <https://www.youtube.com/watch?v=a4aHzxIGIcY> — transcripción: `private/transcripts/ericdejes/a4aHzxIGIcY.md` — source_id: `youtube:a4aHzxIGIcY`.
+- «Tehillim/Hymns/Psalm Ch. 8» — <https://www.youtube.com/watch?v=a4aHzxIGIcY> — source_id: `youtube:a4aHzxIGIcY`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

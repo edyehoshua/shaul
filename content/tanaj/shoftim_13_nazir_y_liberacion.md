@@ -7,7 +7,6 @@ references: ["#shoftim_13_5"]
 sources:
   [
     "https://www.youtube.com/watch?v=Ax1RiJiDaHY",
-    "private/transcripts/ericdejes/Ax1RiJiDaHY.md",
     "docs/scriptures/oe/json/judges/13.json",
   ]
 source_ids: ["youtube:Ax1RiJiDaHY"]
@@ -34,5 +33,5 @@ La consagración es dada para una tarea de יהוה, y el capítulo debe leerse 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Nasó' : El Gran juez de todos: Yehoshúa' Hamashíaj](https://www.youtube.com/watch?v=Ax1RiJiDaHY) — transcripción: `private/transcripts/ericdejes/Ax1RiJiDaHY.md` — source_id: `youtube:Ax1RiJiDaHY`.
+- Video: [Haftaráh de Nasó' : El Gran juez de todos: Yehoshúa' Hamashíaj](https://www.youtube.com/watch?v=Ax1RiJiDaHY) — source_id: `youtube:Ax1RiJiDaHY`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

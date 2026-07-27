@@ -26,15 +26,10 @@ references:
   - "#zechariah_9_12"
 sources:
   - "https://www.youtube.com/watch?v=bG4SqOvNolQ"
-  - "private/transcripts/ericdejes/bG4SqOvNolQ.md"
   - "https://www.youtube.com/watch?v=GulS21GtPP8"
-  - "private/transcripts/ericdejes/GulS21GtPP8.md"
   - "https://www.youtube.com/watch?v=qu6bUTxbmdg"
-  - "private/transcripts/ericdejes/qu6bUTxbmdg.md"
   - "https://www.youtube.com/watch?v=kVAJOj4wkR0"
-  - "private/transcripts/ericdejes/kVAJOj4wkR0.md"
   - "https://www.youtube.com/watch?v=dOHBc1A57kw"
-  - "private/transcripts/ericdejes/dOHBc1A57kw.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians1.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
@@ -144,15 +139,10 @@ Efesios 3 presenta la gracia como un encargo confiado a Pablo y el misterio como
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ
-  - Transcripción: `private/transcripts/ericdejes/bG4SqOvNolQ.md` (`source_id: youtube:bG4SqOvNolQ`).
-- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8
-  - Transcripción: `private/transcripts/ericdejes/GulS21GtPP8.md` (`source_id: youtube:GulS21GtPP8`).
-- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg
-  - Transcripción: `private/transcripts/ericdejes/qu6bUTxbmdg.md` (`source_id: youtube:qu6bUTxbmdg`).
-- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0
-  - Transcripción: `private/transcripts/ericdejes/kVAJOj4wkR0.md` (`source_id: youtube:kVAJOj4wkR0`).
-- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw
-  - Transcripción: `private/transcripts/ericdejes/dOHBc1A57kw.md` (`source_id: youtube:dOHBc1A57kw`).
+- «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ (`source_id: youtube:bG4SqOvNolQ`).
+- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8 (`source_id: youtube:GulS21GtPP8`).
+- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg (`source_id: youtube:qu6bUTxbmdg`).
+- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0 (`source_id: youtube:kVAJOj4wkR0`).
+- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw (`source_id: youtube:dOHBc1A57kw`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

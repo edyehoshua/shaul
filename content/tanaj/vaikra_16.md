@@ -19,7 +19,6 @@ sources:
   - "docs/scriptures/tth/json/vaikra.json"
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "https://www.youtube.com/watch?v=1Dqriiq9bIU"
-  - "private/transcripts/ericdejes/1Dqriiq9bIU.md"
 source_ids:
   - "youtube:1Dqriiq9bIU"
 translation: "[TTH, OE]"
@@ -110,5 +109,5 @@ Vaikra 16 presenta el yom hakipurim como día de humillación del nefesh, expiac
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) — transcripción de trabajo: `private/transcripts/ericdejes/1Dqriiq9bIU.md` (source_id: `youtube:1Dqriiq9bIU`).
+- [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) (source_id: `youtube:1Dqriiq9bIU`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -12,7 +12,6 @@ references:
   - "#tehilim_40_18"
 sources:
   - "https://www.youtube.com/watch?v=XjjGf61bzBs"
-  - "private/transcripts/ericdejes/XjjGf61bzBs.md"
   - "docs/scriptures/oe/json/psalms/40.json"
 source_ids:
   - "youtube:XjjGf61bzBs"
@@ -52,5 +51,5 @@ La lectura de Tehilim 40 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 40» — <https://www.youtube.com/watch?v=XjjGf61bzBs> — transcripción: `private/transcripts/ericdejes/XjjGf61bzBs.md` — source_id: `youtube:XjjGf61bzBs`.
+- «Tehilim/Himnos/Salmo Cap 40» — <https://www.youtube.com/watch?v=XjjGf61bzBs> — source_id: `youtube:XjjGf61bzBs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -16,13 +16,9 @@ references:
   - "#revelation_1_17"
 sources:
   - "https://www.youtube.com/watch?v=AoCqV_Yel5Y"
-  - "private/transcripts/ericdejes/AoCqV_Yel5Y.md"
   - "https://www.youtube.com/watch?v=cgb42eKnbJw"
-  - "private/transcripts/ericdejes/cgb42eKnbJw.md"
   - "https://www.youtube.com/watch?v=td2_UQLcfSM"
-  - "private/transcripts/ericdejes/td2_UQLcfSM.md"
   - "https://www.youtube.com/watch?v=f-7YFaoUCrs"
-  - "private/transcripts/ericdejes/f-7YFaoUCrs.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:AoCqV_Yel5Y"
@@ -68,13 +64,9 @@ Apocalipsis 1 llama a recibir la visión con reverencia, atención al testimonio
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La revelación de Yehoshúa' Hamashíaj - Apocalipsis 1 - Contexto» — https://www.youtube.com/watch?v=AoCqV_Yel5Y
-  - Transcripción: `private/transcripts/ericdejes/AoCqV_Yel5Y.md` (`source_id: youtube:AoCqV_Yel5Y`).
-- «La revelación de Yehoshúa' Hamashíaj Cap 1:1-7 Presentación e introducción» — https://www.youtube.com/watch?v=cgb42eKnbJw
-  - Transcripción: `private/transcripts/ericdejes/cgb42eKnbJw.md` (`source_id: youtube:cgb42eKnbJw`).
-- «La revelación de Yehoshúa' Hamashíaj (parte 3) Cap 1:7-8» — https://www.youtube.com/watch?v=td2_UQLcfSM
-  - Transcripción: `private/transcripts/ericdejes/td2_UQLcfSM.md` (`source_id: youtube:td2_UQLcfSM`).
-- «La revelación de Yehoshúa' Hamashíaj (parte 4) El hijo del hombre es el anciano de días» — https://www.youtube.com/watch?v=f-7YFaoUCrs
-  - Transcripción: `private/transcripts/ericdejes/f-7YFaoUCrs.md` (`source_id: youtube:f-7YFaoUCrs`).
+- «La revelación de Yehoshúa' Hamashíaj - Apocalipsis 1 - Contexto» — https://www.youtube.com/watch?v=AoCqV_Yel5Y (`source_id: youtube:AoCqV_Yel5Y`).
+- «La revelación de Yehoshúa' Hamashíaj Cap 1:1-7 Presentación e introducción» — https://www.youtube.com/watch?v=cgb42eKnbJw (`source_id: youtube:cgb42eKnbJw`).
+- «La revelación de Yehoshúa' Hamashíaj (parte 3) Cap 1:7-8» — https://www.youtube.com/watch?v=td2_UQLcfSM (`source_id: youtube:td2_UQLcfSM`).
+- «La revelación de Yehoshúa' Hamashíaj (parte 4) El hijo del hombre es el anciano de días» — https://www.youtube.com/watch?v=f-7YFaoUCrs (`source_id: youtube:f-7YFaoUCrs`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

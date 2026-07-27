@@ -12,7 +12,6 @@ references:
   - "#tehilim_103_22"
 sources:
   - "https://www.youtube.com/watch?v=n2Xu9-PnaGg"
-  - "private/transcripts/ericdejes/n2Xu9-PnaGg.md"
   - "docs/scriptures/oe/json/psalms/103.json"
 source_ids:
   - "youtube:n2Xu9-PnaGg"
@@ -52,5 +51,5 @@ La lectura de Tehilim 103 comienza por su lenguaje poético, su desarrollo compl
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 103» — <https://www.youtube.com/watch?v=n2Xu9-PnaGg> — transcripción: `private/transcripts/ericdejes/n2Xu9-PnaGg.md` — source_id: `youtube:n2Xu9-PnaGg`.
+- «Tehilim/Himnos/Salmo Cap 103» — <https://www.youtube.com/watch?v=n2Xu9-PnaGg> — source_id: `youtube:n2Xu9-PnaGg`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

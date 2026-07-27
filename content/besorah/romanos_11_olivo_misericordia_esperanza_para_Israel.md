@@ -11,9 +11,7 @@ references:
   - "#romanos_11_36"
 sources:
   - "https://www.youtube.com/watch?v=MHLbizeZrPc"
-  - "private/transcripts/ericdejes/MHLbizeZrPc.md"
   - "https://www.youtube.com/watch?v=bL-3YKdV0wo"
-  - "private/transcripts/ericdejes/bL-3YKdV0wo.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:MHLbizeZrPc"
@@ -65,6 +63,6 @@ Romanos 11 invita a escuchar el argumento de Pablo como una unidad: la obra de E
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 26) La analogía del Olivo, Israel, todo Israel](https://www.youtube.com/watch?v=MHLbizeZrPc) — transcripción de trabajo: `private/transcripts/ericdejes/MHLbizeZrPc.md` (source_id: `youtube:MHLbizeZrPc`).
-- [La carta a los romanos (Parte 27) El redentor de Tziyón vendrá](https://www.youtube.com/watch?v=bL-3YKdV0wo) — transcripción de trabajo: `private/transcripts/ericdejes/bL-3YKdV0wo.md` (source_id: `youtube:bL-3YKdV0wo`).
+- [La carta a los romanos (parte 26) La analogía del Olivo, Israel, todo Israel](https://www.youtube.com/watch?v=MHLbizeZrPc) (source_id: `youtube:MHLbizeZrPc`).
+- [La carta a los romanos (Parte 27) El redentor de Tziyón vendrá](https://www.youtube.com/watch?v=bL-3YKdV0wo) (source_id: `youtube:bL-3YKdV0wo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -14,9 +14,7 @@ references:
   - "#revelation_15_8"
 sources:
   - "https://www.youtube.com/watch?v=OlSFD4epPUA"
-  - "private/transcripts/ericdejes/OlSFD4epPUA.md"
   - "https://www.youtube.com/watch?v=S-3xrfrhh_Q"
-  - "private/transcripts/ericdejes/S-3xrfrhh_Q.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:OlSFD4epPUA"
@@ -60,9 +58,7 @@ Apocalipsis 15 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 24 La revelación de Yehoshúa' Hamashíaj: Las 7 plagas postreras - Resumen» — https://www.youtube.com/watch?v=OlSFD4epPUA
-  - Transcripción: `private/transcripts/ericdejes/OlSFD4epPUA.md` (`source_id: youtube:OlSFD4epPUA`).
-- «Parte 25 La revelación de Yehoshúa' Hamashíaj: Las 7 plagas postreras» — https://www.youtube.com/watch?v=S-3xrfrhh_Q
-  - Transcripción: `private/transcripts/ericdejes/S-3xrfrhh_Q.md` (`source_id: youtube:S-3xrfrhh_Q`).
+- «Parte 24 La revelación de Yehoshúa' Hamashíaj: Las 7 plagas postreras - Resumen» — https://www.youtube.com/watch?v=OlSFD4epPUA (`source_id: youtube:OlSFD4epPUA`).
+- «Parte 25 La revelación de Yehoshúa' Hamashíaj: Las 7 plagas postreras» — https://www.youtube.com/watch?v=S-3xrfrhh_Q (`source_id: youtube:S-3xrfrhh_Q`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -16,7 +16,6 @@ references:
   - "#revelation_22_20"
 sources:
   - "https://www.youtube.com/watch?v=VzTnr8uyP-s"
-  - "private/transcripts/ericdejes/VzTnr8uyP-s.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:VzTnr8uyP-s"
@@ -59,7 +58,6 @@ Apocalipsis 22 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Part 30 The Revelation of Yehoshua HaMashiach - END» — https://www.youtube.com/watch?v=VzTnr8uyP-s
-  - Transcripción: `private/transcripts/ericdejes/VzTnr8uyP-s.md` (`source_id: youtube:VzTnr8uyP-s`).
+- «Part 30 The Revelation of Yehoshua HaMashiach - END» — https://www.youtube.com/watch?v=VzTnr8uyP-s (`source_id: youtube:VzTnr8uyP-s`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -42,12 +42,6 @@ sources:
   - "https://www.youtube.com/watch?v=DZDYq-qeSKE"
   - "https://www.youtube.com/watch?v=E2RaEpg61Ok"
   - "https://www.youtube.com/watch?v=6eD73K6SzU0"
-  - "private/transcripts/ericdejes/7Ibhrf3fFy0.md"
-  - "private/transcripts/ericdejes/LgGlLtw7cEI.md"
-  - "private/transcripts/ericdejes/RMWHD1iRaKU.md"
-  - "private/transcripts/ericdejes/DZDYq-qeSKE.md"
-  - "private/transcripts/ericdejes/E2RaEpg61Ok.md"
-  - "private/transcripts/ericdejes/6eD73K6SzU0.md"
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:7Ibhrf3fFy0"
@@ -127,10 +121,10 @@ Colosenses 3 no presenta la vida nueva como idea privada. La vida escondida con 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los colosenses (parte 10) Cap 3A](https://www.youtube.com/watch?v=7Ibhrf3fFy0) — transcripción de trabajo: `private/transcripts/ericdejes/7Ibhrf3fFy0.md` (source_id: `youtube:7Ibhrf3fFy0`).
-- [A los colosenses (parte 11) Cap 3B](https://www.youtube.com/watch?v=LgGlLtw7cEI) — transcripción de trabajo: `private/transcripts/ericdejes/LgGlLtw7cEI.md` (source_id: `youtube:LgGlLtw7cEI`).
-- [A los colosenses (parte 12) cap 3C](https://www.youtube.com/watch?v=RMWHD1iRaKU) — transcripción de trabajo: `private/transcripts/ericdejes/RMWHD1iRaKU.md` (source_id: `youtube:RMWHD1iRaKU`).
-- [A los colosenses (parte 13) cap 3D](https://www.youtube.com/watch?v=DZDYq-qeSKE) — transcripción de trabajo: `private/transcripts/ericdejes/DZDYq-qeSKE.md` (source_id: `youtube:DZDYq-qeSKE`).
-- [A los colosenses (parte 14) cap 3E](https://www.youtube.com/watch?v=E2RaEpg61Ok) — transcripción de trabajo: `private/transcripts/ericdejes/E2RaEpg61Ok.md` (source_id: `youtube:E2RaEpg61Ok`).
-- [A los colosenses (parte 15) cap 3F](https://www.youtube.com/watch?v=6eD73K6SzU0) — transcripción de trabajo: `private/transcripts/ericdejes/6eD73K6SzU0.md` (source_id: `youtube:6eD73K6SzU0`).
+- [A los colosenses (parte 10) Cap 3A](https://www.youtube.com/watch?v=7Ibhrf3fFy0) (source_id: `youtube:7Ibhrf3fFy0`).
+- [A los colosenses (parte 11) Cap 3B](https://www.youtube.com/watch?v=LgGlLtw7cEI) (source_id: `youtube:LgGlLtw7cEI`).
+- [A los colosenses (parte 12) cap 3C](https://www.youtube.com/watch?v=RMWHD1iRaKU) (source_id: `youtube:RMWHD1iRaKU`).
+- [A los colosenses (parte 13) cap 3D](https://www.youtube.com/watch?v=DZDYq-qeSKE) (source_id: `youtube:DZDYq-qeSKE`).
+- [A los colosenses (parte 14) cap 3E](https://www.youtube.com/watch?v=E2RaEpg61Ok) (source_id: `youtube:E2RaEpg61Ok`).
+- [A los colosenses (parte 15) cap 3F](https://www.youtube.com/watch?v=6eD73K6SzU0) (source_id: `youtube:6eD73K6SzU0`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

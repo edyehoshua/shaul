@@ -32,9 +32,6 @@ sources:
   - "https://www.youtube.com/watch?v=y6S6hx-xLN0"
   - "https://www.youtube.com/watch?v=esVDcTNDOr8"
   - "https://www.youtube.com/watch?v=YAY5xD_yFDU"
-  - "private/transcripts/ericdejes/y6S6hx-xLN0.md"
-  - "private/transcripts/ericdejes/esVDcTNDOr8.md"
-  - "private/transcripts/ericdejes/YAY5xD_yFDU.md"
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
   - "youtube:y6S6hx-xLN0"
@@ -129,7 +126,7 @@ Colosenses 4 presenta una comunidad que ora con gratitud, habla con sabiduría, 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los colosenses (parte 16) Cap 4A](https://www.youtube.com/watch?v=y6S6hx-xLN0) — transcripción de trabajo: `private/transcripts/ericdejes/y6S6hx-xLN0.md` (source_id: `youtube:y6S6hx-xLN0`).
-- [A los colosenses (parte 17) cap 4B](https://www.youtube.com/watch?v=esVDcTNDOr8) — transcripción de trabajo: `private/transcripts/ericdejes/esVDcTNDOr8.md` (source_id: `youtube:esVDcTNDOr8`).
-- [A los Colsenses (parte 18) cap 4C](https://www.youtube.com/watch?v=YAY5xD_yFDU) — transcripción de trabajo: `private/transcripts/ericdejes/YAY5xD_yFDU.md` (source_id: `youtube:YAY5xD_yFDU`).
+- [A los colosenses (parte 16) Cap 4A](https://www.youtube.com/watch?v=y6S6hx-xLN0) (source_id: `youtube:y6S6hx-xLN0`).
+- [A los colosenses (parte 17) cap 4B](https://www.youtube.com/watch?v=esVDcTNDOr8) (source_id: `youtube:esVDcTNDOr8`).
+- [A los Colsenses (parte 18) cap 4C](https://www.youtube.com/watch?v=YAY5xD_yFDU) (source_id: `youtube:YAY5xD_yFDU`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

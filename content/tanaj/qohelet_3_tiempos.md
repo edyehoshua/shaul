@@ -10,9 +10,7 @@ references:
   - "#ecclesiastes_3_22"
 sources:
   - "https://www.youtube.com/watch?v=Yw8iqzhAHjE"
-  - "private/transcripts/ericdejes/Yw8iqzhAHjE.md"
   - "https://www.youtube.com/watch?v=MZTVIzawueA"
-  - "private/transcripts/ericdejes/MZTVIzawueA.md"
   - "docs/scriptures/oe/json/ecclesiastes/3.json"
 source_ids:
   - "youtube:Yw8iqzhAHjE"
@@ -61,9 +59,7 @@ Qohélet 3 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 7) Cap 3» — https://www.youtube.com/watch?v=Yw8iqzhAHjE
-  - Transcripción: `private/transcripts/ericdejes/Yw8iqzhAHjE.md` (`source_id: youtube:Yw8iqzhAHjE`).
-- «Qohélet-Eclesiastés (parte 8) Cap 3 final» — https://www.youtube.com/watch?v=MZTVIzawueA
-  - Transcripción: `private/transcripts/ericdejes/MZTVIzawueA.md` (`source_id: youtube:MZTVIzawueA`).
+- «Qohélet-Eclesiastés (parte 7) Cap 3» — https://www.youtube.com/watch?v=Yw8iqzhAHjE (`source_id: youtube:Yw8iqzhAHjE`).
+- «Qohélet-Eclesiastés (parte 8) Cap 3 final» — https://www.youtube.com/watch?v=MZTVIzawueA (`source_id: youtube:MZTVIzawueA`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

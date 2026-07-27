@@ -9,7 +9,6 @@ references:
   - "#shemot_18_1"
 sources:
   - "https://www.youtube.com/watch?v=fnJB6cpiRiM"
-  - "private/transcripts/ericdejes/fnJB6cpiRiM.md"
   - "docs/scriptures/oe/json/exodus/18.json"
 source_ids:
   - "youtube:fnJB6cpiRiM"
@@ -48,5 +47,5 @@ Shemot 18 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Yitró (2017) La importancia de la familia en Yisra'el](https://www.youtube.com/watch?v=fnJB6cpiRiM) — transcripción de trabajo: `private/transcripts/ericdejes/fnJB6cpiRiM.md` (source_id: `youtube:fnJB6cpiRiM`).
+- [Parashat Yitró (2017) La importancia de la familia en Yisra'el](https://www.youtube.com/watch?v=fnJB6cpiRiM) (source_id: `youtube:fnJB6cpiRiM`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

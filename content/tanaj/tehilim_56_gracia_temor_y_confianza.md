@@ -21,7 +21,6 @@ references:
   - "#samuel1_21_10-15"
 sources:
   - "https://www.youtube.com/watch?v=0Op5v9LYXzg"
-  - "private/transcripts/ericdejes/0Op5v9LYXzg.md"
   - "docs/scriptures/oe/json/psalms/56.json"
 source_ids:
   - "youtube:0Op5v9LYXzg"
@@ -94,7 +93,6 @@ Tehilim 56 enseña a llevar el temor ante Elohim: pedir gracia, confiar en su pa
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Tehilim/Himnos/Salmo 56» — https://www.youtube.com/watch?v=0Op5v9LYXzg
-  - Transcripción: `private/transcripts/ericdejes/0Op5v9LYXzg.md` (`source_id: youtube:0Op5v9LYXzg`).
+- «Tehilim/Himnos/Salmo 56» — https://www.youtube.com/watch?v=0Op5v9LYXzg (`source_id: youtube:0Op5v9LYXzg`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

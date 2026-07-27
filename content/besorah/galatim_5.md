@@ -13,8 +13,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=WCfJkyKBeWw"
   - "https://www.youtube.com/watch?v=0yhPqlnq-zM"
-  - "private/transcripts/ericdejes/WCfJkyKBeWw.md"
-  - "private/transcripts/ericdejes/0yhPqlnq-zM.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids: ["youtube:WCfJkyKBeWw", "youtube:0yhPqlnq-zM"]
 translation: "[Delitzsch]"
@@ -49,6 +47,6 @@ La libertad de Yehoshua se expresa en amor y en una vida conducida por el Ruaj, 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los gálatas Parte 11 Cap 5](https://www.youtube.com/watch?v=WCfJkyKBeWw) — transcripción de trabajo: `private/transcripts/ericdejes/WCfJkyKBeWw.md` (source_id: `youtube:WCfJkyKBeWw`).
-- [The Letter to the Galatians Part 12 Chapter 5 Final Guided by the Power of God](https://www.youtube.com/watch?v=0yhPqlnq-zM) — transcripción de trabajo: `private/transcripts/ericdejes/0yhPqlnq-zM.md` (source_id: `youtube:0yhPqlnq-zM`).
+- [La carta a los gálatas Parte 11 Cap 5](https://www.youtube.com/watch?v=WCfJkyKBeWw) (source_id: `youtube:WCfJkyKBeWw`).
+- [The Letter to the Galatians Part 12 Chapter 5 Final Guided by the Power of God](https://www.youtube.com/watch?v=0yhPqlnq-zM) (source_id: `youtube:0yhPqlnq-zM`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

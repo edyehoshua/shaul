@@ -12,7 +12,6 @@ references:
   - "#tehilim_19_15"
 sources:
   - "https://www.youtube.com/watch?v=dyO6rpptfMk"
-  - "private/transcripts/ericdejes/dyO6rpptfMk.md"
   - "docs/scriptures/oe/json/psalms/19.json"
 source_ids:
   - "youtube:dyO6rpptfMk"
@@ -52,5 +51,5 @@ La lectura de Tehilim 19 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 19» — <https://www.youtube.com/watch?v=dyO6rpptfMk> — transcripción: `private/transcripts/ericdejes/dyO6rpptfMk.md` — source_id: `youtube:dyO6rpptfMk`.
+- «Tehilim/Himnos/Salmo Cap 19» — <https://www.youtube.com/watch?v=dyO6rpptfMk> — source_id: `youtube:dyO6rpptfMk`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

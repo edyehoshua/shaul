@@ -12,7 +12,6 @@ references:
   - "#tehilim_53_7"
 sources:
   - "https://www.youtube.com/watch?v=EvyStR8kcys"
-  - "private/transcripts/ericdejes/EvyStR8kcys.md"
   - "docs/scriptures/oe/json/psalms/53.json"
 source_ids:
   - "youtube:EvyStR8kcys"
@@ -52,5 +51,5 @@ La lectura de Tehilim 53 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 53» — <https://www.youtube.com/watch?v=EvyStR8kcys> — transcripción: `private/transcripts/ericdejes/EvyStR8kcys.md` — source_id: `youtube:EvyStR8kcys`.
+- «Tehilim/Himnos/Salmo Cap 53» — <https://www.youtube.com/watch?v=EvyStR8kcys> — source_id: `youtube:EvyStR8kcys`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

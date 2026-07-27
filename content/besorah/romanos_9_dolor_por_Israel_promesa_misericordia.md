@@ -11,7 +11,6 @@ references:
   - "#romanos_9_33"
 sources:
   - "https://www.youtube.com/watch?v=_7iywbOZPEQ"
-  - "private/transcripts/ericdejes/_7iywbOZPEQ.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:_7iywbOZPEQ"
@@ -62,5 +61,5 @@ Romanos 9 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 22). La elección divina: Propósito y salvación, dos cosas diferentes](https://www.youtube.com/watch?v=_7iywbOZPEQ) — transcripción de trabajo: `private/transcripts/ericdejes/_7iywbOZPEQ.md` (source_id: `youtube:_7iywbOZPEQ`).
+- [La carta a los romanos (parte 22). La elección divina: Propósito y salvación, dos cosas diferentes](https://www.youtube.com/watch?v=_7iywbOZPEQ) (source_id: `youtube:_7iywbOZPEQ`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

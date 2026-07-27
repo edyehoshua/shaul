@@ -12,7 +12,6 @@ references:
   - "#tehilim_96_13"
 sources:
   - "https://www.youtube.com/watch?v=9GNsngTjhfc"
-  - "private/transcripts/ericdejes/9GNsngTjhfc.md"
   - "docs/scriptures/oe/json/psalms/96.json"
 source_ids:
   - "youtube:9GNsngTjhfc"
@@ -52,5 +51,5 @@ La lectura de Tehilim 96 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo cap 96» — <https://www.youtube.com/watch?v=9GNsngTjhfc> — transcripción: `private/transcripts/ericdejes/9GNsngTjhfc.md` — source_id: `youtube:9GNsngTjhfc`.
+- «Tehilim/Himnos/Salmo cap 96» — <https://www.youtube.com/watch?v=9GNsngTjhfc> — source_id: `youtube:9GNsngTjhfc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

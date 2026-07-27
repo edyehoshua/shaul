@@ -12,7 +12,6 @@ references:
   - "#tehilim_12_9"
 sources:
   - "https://www.youtube.com/watch?v=MYDQJFr4uRA"
-  - "private/transcripts/ericdejes/MYDQJFr4uRA.md"
   - "docs/scriptures/oe/json/psalms/12.json"
 source_ids:
   - "youtube:MYDQJFr4uRA"
@@ -52,5 +51,5 @@ La lectura de Tehilim 12 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehillim/Psalms/Psalm Ch. 12» — <https://www.youtube.com/watch?v=MYDQJFr4uRA> — transcripción: `private/transcripts/ericdejes/MYDQJFr4uRA.md` — source_id: `youtube:MYDQJFr4uRA`.
+- «Tehillim/Psalms/Psalm Ch. 12» — <https://www.youtube.com/watch?v=MYDQJFr4uRA> — source_id: `youtube:MYDQJFr4uRA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

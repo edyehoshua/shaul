@@ -8,8 +8,6 @@ sources:
   [
     "https://www.youtube.com/watch?v=5TGUU01teBU",
     "https://www.youtube.com/watch?v=zhC_PXVOfag",
-    "private/transcripts/ericdejes/5TGUU01teBU.md",
-    "private/transcripts/ericdejes/zhC_PXVOfag.md",
     "docs/scriptures/oe/json/isaiah/40.json",
   ]
 source_ids: ["youtube:5TGUU01teBU", "youtube:zhC_PXVOfag"]
@@ -39,6 +37,6 @@ Preparar el camino es una respuesta al consuelo y a la fidelidad de יהוה.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Va'etjanan (2018) - Preparen calzada al Dios nuestro](https://www.youtube.com/watch?v=5TGUU01teBU) — transcripción: `private/transcripts/ericdejes/5TGUU01teBU.md` — source_id: `youtube:5TGUU01teBU`.
-- Video: [Haftaráh de Lej Lejá (2017) Tohu y 'éfes: Separados de YHWH nada somos](https://www.youtube.com/watch?v=zhC_PXVOfag) — transcripción: `private/transcripts/ericdejes/zhC_PXVOfag.md` — source_id: `youtube:zhC_PXVOfag`.
+- Video: [Haftaráh de Va'etjanan (2018) - Preparen calzada al Dios nuestro](https://www.youtube.com/watch?v=5TGUU01teBU) — source_id: `youtube:5TGUU01teBU`.
+- Video: [Haftaráh de Lej Lejá (2017) Tohu y 'éfes: Separados de YHWH nada somos](https://www.youtube.com/watch?v=zhC_PXVOfag) — source_id: `youtube:zhC_PXVOfag`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

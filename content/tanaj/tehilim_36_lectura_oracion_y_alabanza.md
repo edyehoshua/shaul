@@ -12,7 +12,6 @@ references:
   - "#tehilim_36_13"
 sources:
   - "https://www.youtube.com/watch?v=hJBGLZteDaI"
-  - "private/transcripts/ericdejes/hJBGLZteDaI.md"
   - "docs/scriptures/oe/json/psalms/36.json"
 source_ids:
   - "youtube:hJBGLZteDaI"
@@ -52,5 +51,5 @@ La lectura de Tehilim 36 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 36» — <https://www.youtube.com/watch?v=hJBGLZteDaI> — transcripción: `private/transcripts/ericdejes/hJBGLZteDaI.md` — source_id: `youtube:hJBGLZteDaI`.
+- «Tehilim/Himnos/Salmo Cap 36» — <https://www.youtube.com/watch?v=hJBGLZteDaI> — source_id: `youtube:hJBGLZteDaI`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

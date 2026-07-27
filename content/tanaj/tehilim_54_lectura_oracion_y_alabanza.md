@@ -12,7 +12,6 @@ references:
   - "#tehilim_54_9"
 sources:
   - "https://www.youtube.com/watch?v=5f08PyvQVHY"
-  - "private/transcripts/ericdejes/5f08PyvQVHY.md"
   - "docs/scriptures/oe/json/psalms/54.json"
 source_ids:
   - "youtube:5f08PyvQVHY"
@@ -52,5 +51,5 @@ La lectura de Tehilim 54 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 54» — <https://www.youtube.com/watch?v=5f08PyvQVHY> — transcripción: `private/transcripts/ericdejes/5f08PyvQVHY.md` — source_id: `youtube:5f08PyvQVHY`.
+- «Tehilim/Himnos/Salmo Cap 54» — <https://www.youtube.com/watch?v=5f08PyvQVHY> — source_id: `youtube:5f08PyvQVHY`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

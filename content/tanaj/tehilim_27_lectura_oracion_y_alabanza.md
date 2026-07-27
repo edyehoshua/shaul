@@ -12,7 +12,6 @@ references:
   - "#tehilim_27_14"
 sources:
   - "https://www.youtube.com/watch?v=S5HYire36z8"
-  - "private/transcripts/ericdejes/S5HYire36z8.md"
   - "docs/scriptures/oe/json/psalms/27.json"
 source_ids:
   - "youtube:S5HYire36z8"
@@ -52,5 +51,5 @@ La lectura de Tehilim 27 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 27» — <https://www.youtube.com/watch?v=S5HYire36z8> — transcripción: `private/transcripts/ericdejes/S5HYire36z8.md` — source_id: `youtube:S5HYire36z8`.
+- «Tehilim/Himnos/Salmo Cap 27» — <https://www.youtube.com/watch?v=S5HYire36z8> — source_id: `youtube:S5HYire36z8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

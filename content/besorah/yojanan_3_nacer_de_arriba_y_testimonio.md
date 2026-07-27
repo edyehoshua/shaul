@@ -17,9 +17,6 @@ sources:
   - "https://www.youtube.com/watch?v=3g9O4ADy6xw"
   - "https://www.youtube.com/watch?v=-I1zqJZ8hQM"
   - "https://www.youtube.com/watch?v=yBlrSzbNmfo"
-  - "private/transcripts/ericdejes/3g9O4ADy6xw.md"
-  - "private/transcripts/ericdejes/-I1zqJZ8hQM.md"
-  - "private/transcripts/ericdejes/yBlrSzbNmfo.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -70,6 +67,6 @@ El capítulo sostiene el nacimiento que viene de arriba, la vida ligada al Ben H
 
 Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
 
-- «El Evangelio según Yojanán / Juan (Parte 8) Ser paridos de arriba» — https://www.youtube.com/watch?v=3g9O4ADy6xw — `private/transcripts/ericdejes/3g9O4ADy6xw.md` (`youtube:3g9O4ADy6xw`).
-- «El Evangelio según Yojanán /Juan (Parte 9) Ben Ha'adam, Ben Ha'elohim» — https://www.youtube.com/watch?v=-I1zqJZ8hQM — `private/transcripts/ericdejes/-I1zqJZ8hQM.md` (`youtube:-I1zqJZ8hQM`).
-- «El evangelio según Yojanán (Juan ) Parte 10: El Testimonio de 'El 'Emet, Dios de verdad» — https://www.youtube.com/watch?v=yBlrSzbNmfo — `private/transcripts/ericdejes/yBlrSzbNmfo.md` (`youtube:yBlrSzbNmfo`).
+- «El Evangelio según Yojanán / Juan (Parte 8) Ser paridos de arriba» — https://www.youtube.com/watch?v=3g9O4ADy6xw — (`youtube:3g9O4ADy6xw`).
+- «El Evangelio según Yojanán /Juan (Parte 9) Ben Ha'adam, Ben Ha'elohim» — https://www.youtube.com/watch?v=-I1zqJZ8hQM — (`youtube:-I1zqJZ8hQM`).
+- «El evangelio según Yojanán (Juan ) Parte 10: El Testimonio de 'El 'Emet, Dios de verdad» — https://www.youtube.com/watch?v=yBlrSzbNmfo — (`youtube:yBlrSzbNmfo`).

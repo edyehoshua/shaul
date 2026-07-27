@@ -18,15 +18,6 @@ sources:
   - "https://www.youtube.com/watch?v=kuc2zI9DMZ8"
   - "https://www.youtube.com/watch?v=JfdMv1nlG2Q"
   - "https://www.youtube.com/watch?v=Ds5Mju41YzE"
-
-  - "private/transcripts/ericdejes/0AAezJaFzTk.md"
-  - "private/transcripts/ericdejes/gM8GSFGe3go.md"
-  - "private/transcripts/ericdejes/Yk6Lt97GLmU.md"
-  - "private/transcripts/ericdejes/Sdo8perHj5s.md"
-  - "private/transcripts/ericdejes/kuc2zI9DMZ8.md"
-  - "private/transcripts/ericdejes/JfdMv1nlG2Q.md"
-  - "private/transcripts/ericdejes/Ds5Mju41YzE.md"
-
   - "docs/scriptures/oe/json/exodus/12.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
 source_ids:
@@ -80,12 +71,12 @@ La lectura mesiánica propuesta por las clases relaciona la liberación, el cord
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Acerca De Pésaj 5781-2021](https://www.youtube.com/watch?v=0AAezJaFzTk) — `private/transcripts/ericdejes/0AAezJaFzTk.md` (source_id: `youtube:0AAezJaFzTk`).
-- [Conversatorio sobre el Séder de Pésaj...](https://www.youtube.com/watch?v=gM8GSFGe3go) — `private/transcripts/ericdejes/gM8GSFGe3go.md` (source_id: `youtube:gM8GSFGe3go`).
-- [Conversemos sobre Pésaj (2020)](https://www.youtube.com/watch?v=Yk6Lt97GLmU) — `private/transcripts/ericdejes/Yk6Lt97GLmU.md` (source_id: `youtube:Yk6Lt97GLmU`).
-- [Fundamentos de Pésaj - Parte 1 Tiempos y fechas](https://www.youtube.com/watch?v=Sdo8perHj5s) — `private/transcripts/ericdejes/Sdo8perHj5s.md` (source_id: `youtube:Sdo8perHj5s`).
-- [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — `private/transcripts/ericdejes/kuc2zI9DMZ8.md` (source_id: `youtube:kuc2zI9DMZ8`).
-- [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — `private/transcripts/ericdejes/JfdMv1nlG2Q.md` (source_id: `youtube:JfdMv1nlG2Q`).
-- [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — `private/transcripts/ericdejes/Ds5Mju41YzE.md` (source_id: `youtube:Ds5Mju41YzE`).
+- [Acerca De Pésaj 5781-2021](https://www.youtube.com/watch?v=0AAezJaFzTk) — (source_id: `youtube:0AAezJaFzTk`).
+- [Conversatorio sobre el Séder de Pésaj...](https://www.youtube.com/watch?v=gM8GSFGe3go) — (source_id: `youtube:gM8GSFGe3go`).
+- [Conversemos sobre Pésaj (2020)](https://www.youtube.com/watch?v=Yk6Lt97GLmU) — (source_id: `youtube:Yk6Lt97GLmU`).
+- [Fundamentos de Pésaj - Parte 1 Tiempos y fechas](https://www.youtube.com/watch?v=Sdo8perHj5s) — (source_id: `youtube:Sdo8perHj5s`).
+- [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — (source_id: `youtube:kuc2zI9DMZ8`).
+- [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — (source_id: `youtube:JfdMv1nlG2Q`).
+- [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — (source_id: `youtube:Ds5Mju41YzE`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

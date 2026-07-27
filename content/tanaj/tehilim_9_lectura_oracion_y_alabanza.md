@@ -12,7 +12,6 @@ references:
   - "#tehilim_9_21"
 sources:
   - "https://www.youtube.com/watch?v=rPrPYexs3eo"
-  - "private/transcripts/ericdejes/rPrPYexs3eo.md"
   - "docs/scriptures/oe/json/psalms/9.json"
 source_ids:
   - "youtube:rPrPYexs3eo"
@@ -52,5 +51,5 @@ La lectura de Tehilim 9 comienza por su lenguaje poético, su desarrollo complet
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmos cap 9-10» — <https://www.youtube.com/watch?v=rPrPYexs3eo> — transcripción: `private/transcripts/ericdejes/rPrPYexs3eo.md` — source_id: `youtube:rPrPYexs3eo`.
+- «Tehilim/Himnos/Salmos cap 9-10» — <https://www.youtube.com/watch?v=rPrPYexs3eo> — source_id: `youtube:rPrPYexs3eo`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

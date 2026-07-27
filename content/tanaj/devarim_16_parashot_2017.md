@@ -9,7 +9,6 @@ references:
   - "#devarim_16_1"
 sources:
   - "https://www.youtube.com/watch?v=Ytw0rqtCpII"
-  - "private/transcripts/ericdejes/Ytw0rqtCpII.md"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
 source_ids:
   - "youtube:Ytw0rqtCpII"
@@ -48,5 +47,5 @@ Devarim 16 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Shoftim (2017) YHWH Tzidqenu](https://www.youtube.com/watch?v=Ytw0rqtCpII) — transcripción de trabajo: `private/transcripts/ericdejes/Ytw0rqtCpII.md` (source_id: `youtube:Ytw0rqtCpII`).
+- [Parashat Shoftim (2017) YHWH Tzidqenu](https://www.youtube.com/watch?v=Ytw0rqtCpII) (source_id: `youtube:Ytw0rqtCpII`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -13,13 +13,9 @@ references:
   - "#ecclesiastes_1_18"
 sources:
   - "https://www.youtube.com/watch?v=BeQAO-iBr0o"
-  - "private/transcripts/ericdejes/BeQAO-iBr0o.md"
   - "https://www.youtube.com/watch?v=MV63b73MhTU"
-  - "private/transcripts/ericdejes/MV63b73MhTU.md"
   - "https://www.youtube.com/watch?v=u4TRNWn6wCg"
-  - "private/transcripts/ericdejes/u4TRNWn6wCg.md"
   - "https://www.youtube.com/watch?v=vQCMMzrGwT4"
-  - "private/transcripts/ericdejes/vQCMMzrGwT4.md"
   - "docs/scriptures/oe/json/ecclesiastes/1.json"
 source_ids:
   - "youtube:BeQAO-iBr0o"
@@ -73,13 +69,9 @@ Qohélet 1 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet - Eclesiastés parte 1» — https://www.youtube.com/watch?v=BeQAO-iBr0o
-  - Transcripción: `private/transcripts/ericdejes/BeQAO-iBr0o.md` (`source_id: youtube:BeQAO-iBr0o`).
-- «Qohélet - Eclesiastés parte 2» — https://www.youtube.com/watch?v=MV63b73MhTU
-  - Transcripción: `private/transcripts/ericdejes/MV63b73MhTU.md` (`source_id: youtube:MV63b73MhTU`).
-- «Qohélet - Eclesiastés (parte 3) Cap 1» — https://www.youtube.com/watch?v=u4TRNWn6wCg
-  - Transcripción: `private/transcripts/ericdejes/u4TRNWn6wCg.md` (`source_id: youtube:u4TRNWn6wCg`).
-- «Qohélet-Eclesiastés (parte 4) Cap 1» — https://www.youtube.com/watch?v=vQCMMzrGwT4
-  - Transcripción: `private/transcripts/ericdejes/vQCMMzrGwT4.md` (`source_id: youtube:vQCMMzrGwT4`).
+- «Qohélet - Eclesiastés parte 1» — https://www.youtube.com/watch?v=BeQAO-iBr0o (`source_id: youtube:BeQAO-iBr0o`).
+- «Qohélet - Eclesiastés parte 2» — https://www.youtube.com/watch?v=MV63b73MhTU (`source_id: youtube:MV63b73MhTU`).
+- «Qohélet - Eclesiastés (parte 3) Cap 1» — https://www.youtube.com/watch?v=u4TRNWn6wCg (`source_id: youtube:u4TRNWn6wCg`).
+- «Qohélet-Eclesiastés (parte 4) Cap 1» — https://www.youtube.com/watch?v=vQCMMzrGwT4 (`source_id: youtube:vQCMMzrGwT4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

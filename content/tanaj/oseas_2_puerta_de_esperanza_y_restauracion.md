@@ -7,7 +7,6 @@ references: ["#hoshea_2_21"]
 sources:
   [
     "https://www.youtube.com/watch?v=VcXyZS6Btk4",
-    "private/transcripts/ericdejes/VcXyZS6Btk4.md",
     "docs/scriptures/oe/json/hosea/2.json",
   ]
 source_ids: ["youtube:VcXyZS6Btk4"]
@@ -34,5 +33,5 @@ La esperanza del pasaje tiene la forma de una alianza renovada y fiel.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Bemidbar: Pétaj Tiqvah, puerta de esperanza](https://www.youtube.com/watch?v=VcXyZS6Btk4) — transcripción: `private/transcripts/ericdejes/VcXyZS6Btk4.md` — source_id: `youtube:VcXyZS6Btk4`.
+- Video: [Haftaráh de Bemidbar: Pétaj Tiqvah, puerta de esperanza](https://www.youtube.com/watch?v=VcXyZS6Btk4) — source_id: `youtube:VcXyZS6Btk4`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

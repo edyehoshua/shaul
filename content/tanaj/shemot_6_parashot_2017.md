@@ -9,7 +9,6 @@ references:
   - "#shemot_6_1"
 sources:
   - "https://www.youtube.com/watch?v=jmaOISSHuOs"
-  - "private/transcripts/ericdejes/jmaOISSHuOs.md"
   - "docs/scriptures/oe/json/exodus/6.json"
 source_ids:
   - "youtube:jmaOISSHuOs"
@@ -48,5 +47,5 @@ Shemot 6 llama a atender el texto en su propio marco. La sesión aporta una vía
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Va'era' (2017). El plan de la redención de ayer y de hoy - hijos del Dios viviente](https://www.youtube.com/watch?v=jmaOISSHuOs) — transcripción de trabajo: `private/transcripts/ericdejes/jmaOISSHuOs.md` (source_id: `youtube:jmaOISSHuOs`).
+- [Parashat Va'era' (2017). El plan de la redención de ayer y de hoy - hijos del Dios viviente](https://www.youtube.com/watch?v=jmaOISSHuOs) (source_id: `youtube:jmaOISSHuOs`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

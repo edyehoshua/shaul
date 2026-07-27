@@ -18,9 +18,7 @@ references:
   - "#tehilim_4_8"
 sources:
   - "https://www.youtube.com/watch?v=QAWwIiRmBps"
-  - "private/transcripts/ericdejes/QAWwIiRmBps.md"
   - "https://www.youtube.com/watch?v=LoqCLaoMlp8"
-  - "private/transcripts/ericdejes/LoqCLaoMlp8.md"
   - "docs/scriptures/oe/json/raw/psalms.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -92,6 +90,6 @@ La seguridad de Tehilim 4 no procede de controlar la angustia ni de poseer una t
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Salmo Chap 4 (part 1)» — <https://www.youtube.com/watch?v=QAWwIiRmBps> — transcripción: `private/transcripts/ericdejes/QAWwIiRmBps.md` — source_id: `youtube:QAWwIiRmBps`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 4 (parte 2)» — <https://www.youtube.com/watch?v=LoqCLaoMlp8> — transcripción: `private/transcripts/ericdejes/LoqCLaoMlp8.md` — source_id: `youtube:LoqCLaoMlp8`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Salmo Chap 4 (part 1)» — <https://www.youtube.com/watch?v=QAWwIiRmBps> — source_id: `youtube:QAWwIiRmBps`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 4 (parte 2)» — <https://www.youtube.com/watch?v=LoqCLaoMlp8> — source_id: `youtube:LoqCLaoMlp8`.
 - Las transcripciones son automáticas y se usan como apoyo de estudio; no se presentan como citas literales ni como transcripciones revisadas por el expositor.

@@ -6,9 +6,7 @@ tags: [tanaj, melajim_bet, haftarah, tazria]
 references: ["#melajim_bet_4_1", "#melajim_bet_4_38", "#melajim_bet_5_19"]
 sources:
   - "https://www.youtube.com/watch?v=FqWcvFzBfwI"
-  - "private/transcripts/ericdejes/FqWcvFzBfwI.md"
   - "https://www.youtube.com/watch?v=JOTEHMcjsZI"
-  - "private/transcripts/ericdejes/JOTEHMcjsZI.md"
   - "docs/scriptures/oe/json/raw/iikings.json"
 source_ids: ["youtube:FqWcvFzBfwI", "youtube:JOTEHMcjsZI"]
 ---
@@ -44,6 +42,6 @@ El capítulo llama a recibir la misericordia de יהוה con responsabilidad, se
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de Vayerá' (2017) Hay Dios en Israel, hay luminares en el mundo](https://www.youtube.com/watch?v=FqWcvFzBfwI) — transcripción: `private/transcripts/ericdejes/FqWcvFzBfwI.md` — source_id: `youtube:FqWcvFzBfwI`.
-- Video: [Haftarah of Tazria’ (2Ki 4:38-5:19) The Claim of YHWH](https://www.youtube.com/watch?v=JOTEHMcjsZI) — transcripción: `private/transcripts/ericdejes/JOTEHMcjsZI.md` — source_id: `youtube:JOTEHMcjsZI`.
+- Video: [Haftarah de Vayerá' (2017) Hay Dios en Israel, hay luminares en el mundo](https://www.youtube.com/watch?v=FqWcvFzBfwI) — source_id: `youtube:FqWcvFzBfwI`.
+- Video: [Haftarah of Tazria’ (2Ki 4:38-5:19) The Claim of YHWH](https://www.youtube.com/watch?v=JOTEHMcjsZI) — source_id: `youtube:JOTEHMcjsZI`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales ni como sustitutos de la Escritura.

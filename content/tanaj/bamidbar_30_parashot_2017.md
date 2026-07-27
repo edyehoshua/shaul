@@ -9,7 +9,6 @@ references:
   - "#bamidbar_30_1"
 sources:
   - "https://www.youtube.com/watch?v=j2lf7LdAJn0"
-  - "private/transcripts/ericdejes/j2lf7LdAJn0.md"
   - "docs/scriptures/oe/json/numbers/30.json"
 source_ids:
   - "youtube:j2lf7LdAJn0"
@@ -48,5 +47,5 @@ Bamidbar 30 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Matot- Mas'ey (2017) Las decisiones son concertadas en pro de la unidad](https://www.youtube.com/watch?v=j2lf7LdAJn0) — transcripción de trabajo: `private/transcripts/ericdejes/j2lf7LdAJn0.md` (source_id: `youtube:j2lf7LdAJn0`).
+- [Parashat Matot- Mas'ey (2017) Las decisiones son concertadas en pro de la unidad](https://www.youtube.com/watch?v=j2lf7LdAJn0) (source_id: `youtube:j2lf7LdAJn0`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -12,8 +12,6 @@ references:
   - "#hebrews_8_10"
 sources:
   - "https://www.youtube.com/watch?v=i3xcAIcBSjM"
-  - "private/transcripts/ericdejes/i3xcAIcBSjM.md"
-
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:i3xcAIcBSjM"
@@ -49,6 +47,6 @@ Hebreos 8 sitúa el nuevo pacto en la promesa profética y en el servicio del Me
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 8: Brit jadasháh» — https://www.youtube.com/watch?v=i3xcAIcBSjM — transcripción: `private/transcripts/ericdejes/i3xcAIcBSjM.md` — source_id: `youtube:i3xcAIcBSjM`.
+- «La carta a los hebreos parte 8: Brit jadasháh» — https://www.youtube.com/watch?v=i3xcAIcBSjM — source_id: `youtube:i3xcAIcBSjM`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

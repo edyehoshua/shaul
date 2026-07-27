@@ -18,7 +18,6 @@ references:
   - "#ivrim_12_22-24"
 sources:
   - "https://www.youtube.com/watch?v=kzhA3R7dluM"
-  - "private/transcripts/ericdejes/kzhA3R7dluM.md"
   - "docs/scriptures/oe/json/psalms/48.json"
 source_ids:
   - "youtube:kzhA3R7dluM"
@@ -85,6 +84,5 @@ Tehilim 48 forma una memoria cantada de la fidelidad de יהוה: la ciudad, el 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim /Himnos /Salmo Cap 48](https://www.youtube.com/watch?v=kzhA3R7dluM).
-- Transcripción de trabajo: `private/transcripts/ericdejes/kzhA3R7dluM.md` (`youtube:kzhA3R7dluM`).
+- Video: [Tehilim /Himnos /Salmo Cap 48](https://www.youtube.com/watch?v=kzhA3R7dluM). (`youtube:kzhA3R7dluM`).
 - Esta nota organiza y contrasta una transcripción automática; no presenta la transcripción automática como cita literal.

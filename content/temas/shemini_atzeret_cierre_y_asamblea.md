@@ -16,11 +16,6 @@ sources:
   - "https://www.youtube.com/watch?v=dnmLSwdaa7k"
   - "https://www.youtube.com/watch?v=FEuQ3220iwk"
   - "https://www.youtube.com/watch?v=MQxUG7ZfKGE"
-  - "private/transcripts/ericdejes/QRQYERK7GUs.md"
-  - "private/transcripts/ericdejes/lWyfHDURyic.md"
-  - "private/transcripts/ericdejes/dnmLSwdaa7k.md"
-  - "private/transcripts/ericdejes/FEuQ3220iwk.md"
-  - "private/transcripts/ericdejes/MQxUG7ZfKGE.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/numbers/29.json"
 source_ids:
@@ -64,9 +59,9 @@ La palabra `עצרת` identifica una asamblea o cierre. Leída dentro del capít
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Cierre Shminí 'Atzéret 5786-2025](https://www.youtube.com/watch?v=QRQYERK7GUs) — `private/transcripts/ericdejes/QRQYERK7GUs.md` (source_id: `youtube:QRQYERK7GUs`).
-- [Hosha'na' Rabba' - Shmini 'Atzeret 5777 The destruction of satan forever](https://www.youtube.com/watch?v=lWyfHDURyic) — `private/transcripts/ericdejes/lWyfHDURyic.md` (source_id: `youtube:lWyfHDURyic`).
-- [Shmini 'Atzeret (2017) The private appointment with YHWH, the pious man](https://www.youtube.com/watch?v=dnmLSwdaa7k) — `private/transcripts/ericdejes/dnmLSwdaa7k.md` (source_id: `youtube:dnmLSwdaa7k`).
-- [Shmini 'Atzéret Continuación - El primer amor-](https://www.youtube.com/watch?v=FEuQ3220iwk) — `private/transcripts/ericdejes/FEuQ3220iwk.md` (source_id: `youtube:FEuQ3220iwk`).
-- [Shminí ‘Atzéret 5783-2022](https://www.youtube.com/watch?v=MQxUG7ZfKGE) — `private/transcripts/ericdejes/MQxUG7ZfKGE.md` (source_id: `youtube:MQxUG7ZfKGE`).
+- [Cierre Shminí 'Atzéret 5786-2025](https://www.youtube.com/watch?v=QRQYERK7GUs) — (source_id: `youtube:QRQYERK7GUs`).
+- [Hosha'na' Rabba' - Shmini 'Atzeret 5777 The destruction of satan forever](https://www.youtube.com/watch?v=lWyfHDURyic) — (source_id: `youtube:lWyfHDURyic`).
+- [Shmini 'Atzeret (2017) The private appointment with YHWH, the pious man](https://www.youtube.com/watch?v=dnmLSwdaa7k) — (source_id: `youtube:dnmLSwdaa7k`).
+- [Shmini 'Atzéret Continuación - El primer amor-](https://www.youtube.com/watch?v=FEuQ3220iwk) — (source_id: `youtube:FEuQ3220iwk`).
+- [Shminí ‘Atzéret 5783-2022](https://www.youtube.com/watch?v=MQxUG7ZfKGE) — (source_id: `youtube:MQxUG7ZfKGE`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

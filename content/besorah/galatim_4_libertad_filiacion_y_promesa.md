@@ -11,7 +11,6 @@ references:
   - "#galatians_4_28"
 sources:
   - "https://www.youtube.com/watch?v=9gyBskCmlPE"
-  - "private/transcripts/ericdejes/9gyBskCmlPE.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids: ["youtube:9gyBskCmlPE"]
 translation: "[Delitzsch]"
@@ -44,5 +43,5 @@ La filiación por medio de Yehoshua desplaza la esclavitud y llama a vivir como 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los gálatas parte 10. Caps 3:23-4:31 De Esclavos a herederos](https://www.youtube.com/watch?v=9gyBskCmlPE) — transcripción de trabajo: `private/transcripts/ericdejes/9gyBskCmlPE.md` (source_id: `youtube:9gyBskCmlPE`).
+- [La carta a los gálatas parte 10. Caps 3:23-4:31 De Esclavos a herederos](https://www.youtube.com/watch?v=9gyBskCmlPE) (source_id: `youtube:9gyBskCmlPE`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

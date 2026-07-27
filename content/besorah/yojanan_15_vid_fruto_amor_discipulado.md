@@ -30,7 +30,6 @@ references:
   - "#tehilim_25_14"
 sources:
   - "https://www.youtube.com/watch?v=XB7AjfErsCI"
-  - "private/transcripts/ericdejes/XB7AjfErsCI.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/zechariah/8.json"

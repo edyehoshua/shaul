@@ -9,7 +9,6 @@ references:
   - "#vaikra_12_1"
 sources:
   - "https://www.youtube.com/watch?v=6ApDr-0VXC0"
-  - "private/transcripts/ericdejes/6ApDr-0VXC0.md"
   - "docs/scriptures/oe/json/leviticus/12.json"
 source_ids:
   - "youtube:6ApDr-0VXC0"
@@ -48,5 +47,5 @@ Vayikra 12 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Tazría' /2017) Sin Qorban nadie verá a YHWH](https://www.youtube.com/watch?v=6ApDr-0VXC0) — transcripción de trabajo: `private/transcripts/ericdejes/6ApDr-0VXC0.md` (source_id: `youtube:6ApDr-0VXC0`).
+- [Parashat Tazría' /2017) Sin Qorban nadie verá a YHWH](https://www.youtube.com/watch?v=6ApDr-0VXC0) (source_id: `youtube:6ApDr-0VXC0`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

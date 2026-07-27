@@ -21,7 +21,6 @@ references:
   - "#bereshit_9_11"
 sources:
   - "https://www.youtube.com/watch?v=24hgxJ3-4J8"
-  - "private/transcripts/ericdejes/24hgxJ3-4J8.md"
   - "docs/scriptures/oe/json/psalms/29.json"
 source_ids:
   - "youtube:24hgxJ3-4J8"
@@ -94,6 +93,5 @@ Tehilim 29 lleva la mirada desde las aguas y la tormenta hasta el trono de יה�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim /Hymnos/Salmo Chap 29](https://www.youtube.com/watch?v=24hgxJ3-4J8).
-- Transcripción de trabajo: `private/transcripts/ericdejes/24hgxJ3-4J8.md` (`youtube:24hgxJ3-4J8`).
+- Video: [Tehilim /Hymnos/Salmo Chap 29](https://www.youtube.com/watch?v=24hgxJ3-4J8). (`youtube:24hgxJ3-4J8`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

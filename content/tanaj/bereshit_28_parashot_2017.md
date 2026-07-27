@@ -9,7 +9,6 @@ references:
   - "#bereshit_28_1"
 sources:
   - "https://www.youtube.com/watch?v=vFJDD9Sd8vs"
-  - "private/transcripts/ericdejes/vFJDD9Sd8vs.md"
   - "docs/scriptures/oe/json/genesis/28.json"
 source_ids:
   - "youtube:vFJDD9Sd8vs"
@@ -48,5 +47,5 @@ Bereshit 28 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayétze' (2016) Hama'aser: What is tithing and how does it work?](https://www.youtube.com/watch?v=vFJDD9Sd8vs) — transcripción de trabajo: `private/transcripts/ericdejes/vFJDD9Sd8vs.md` (source_id: `youtube:vFJDD9Sd8vs`).
+- [Parashat Vayétze' (2016) Hama'aser: What is tithing and how does it work?](https://www.youtube.com/watch?v=vFJDD9Sd8vs) (source_id: `youtube:vFJDD9Sd8vs`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

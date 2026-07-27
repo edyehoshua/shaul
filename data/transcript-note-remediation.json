@@ -1,0 +1,1660 @@
+{
+  "generated_at": "2026-07-27",
+  "policy": "Remediate before using as an authoring model; do not delete source attribution.",
+  "total_notes_requiring_remediation": 242,
+  "notes": [
+    {
+      "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
+      "substantive_words": 161,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_12_revelacion_mujer_hijo_y_conflicto.md",
+      "substantive_words": 168,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md",
+      "substantive_words": 167,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_15_revelacion_copas_ira_y_justicia.md",
+      "substantive_words": 165,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_17_revelacion_babilonia_juicio_y_discernimiento.md",
+      "substantive_words": 165,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_19_revelacion_bodas_victoria_y_fidelidad.md",
+      "substantive_words": 163,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza.md",
+      "substantive_words": 166,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_20_revelacion_reino_juicio_y_vida.md",
+      "substantive_words": 167,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_21_revelacion_nueva_yerushalayim_y_presencia.md",
+      "substantive_words": 167,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_22_revelacion_agua_vida_y_esperanza.md",
+      "substantive_words": 161,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_2_revelacion_llamado_arrepentimiento_y_fidelidad.md",
+      "substantive_words": 165,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_3_revelacion_vigilancia_nombre_y_puerta_abierta.md",
+      "substantive_words": 165,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_4_trono_redencion_y_adoracion.md",
+      "substantive_words": 227,
+      "thematic_sections": ["El trono y el capítulo siguiente", "Ezequiel y la merkavá"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_6_revelacion_sellos_justicia_y_paciencia.md",
+      "substantive_words": 166,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_7_revelacion_sello_siervos_y_multitud.md",
+      "substantive_words": 167,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_8_revelacion_silencio_oracion_y_trompetas.md",
+      "substantive_words": 168,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/apocalipsis_9_revelacion_trompetas_ay_y_llamado.md",
+      "substantive_words": 164,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/galatim_1_evangelio_gracia_y_llamado.md",
+      "substantive_words": 143,
+      "thematic_sections": ["Llamado, evangelio y transformación"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/galatim_2_gracia_unidad_y_verdad_del_evangelio.md",
+      "substantive_words": 118,
+      "thematic_sections": ["Comunión y corrección"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/galatim_3.md",
+      "substantive_words": 102,
+      "thematic_sections": ["Promesa y herencia"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/galatim_4_libertad_filiacion_y_promesa.md",
+      "substantive_words": 71,
+      "thematic_sections": ["Hijos y herederos"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/galatim_5.md",
+      "substantive_words": 94,
+      "thematic_sections": ["Libertad que sirve"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/galatim_6_restauracion_siembra_y_nueva_creacion.md",
+      "substantive_words": 104,
+      "thematic_sections": ["Restaurar y perseverar"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_10_ofrenda_acceso_y_fidelidad.md",
+      "substantive_words": 71,
+      "thematic_sections": ["Acceso que persevera"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_11_emunah_testimonio_y_esperanza.md",
+      "substantive_words": 93,
+      "thematic_sections": ["Testigos y fidelidad"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_12_disciplina_santidad_y_monte_tziyon.md",
+      "substantive_words": 88,
+      "thematic_sections": ["Disciplina y acercamiento"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_13_servicio_altar_y_permanencia.md",
+      "substantive_words": 72,
+      "thematic_sections": ["Fuera del campamento y dentro de la comunidad"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
+      "substantive_words": 185,
+      "thematic_sections": ["Palabra, Hijo y ángeles"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_2_sufrimiento_hermandad_y_auxilio.md",
+      "substantive_words": 102,
+      "thematic_sections": ["Advertencia y solidaridad"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_3_mesias_moshe_y_corazon_fiel.md",
+      "substantive_words": 86,
+      "thematic_sections": ["Casa, testimonio y advertencia"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
+      "substantive_words": 84,
+      "thematic_sections": ["Reposo y acercamiento"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md",
+      "substantive_words": 81,
+      "thematic_sections": ["Melquisedec y el Hijo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_8_pacto_mejor_y_servicio_celestial.md",
+      "substantive_words": 86,
+      "thematic_sections": ["Pacto y promesa"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/hebreos_9_santuario_conciencia_y_redencion.md",
+      "substantive_words": 71,
+      "thematic_sections": ["Conciencia y servicio"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md",
+      "substantive_words": 253,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_11_olivo_misericordia_esperanza_para_Israel.md",
+      "substantive_words": 254,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_12_culto_vivo_dones_amor_practico.md",
+      "substantive_words": 254,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_13_autoridades_amor_vigilancia.md",
+      "substantive_words": 252,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_14_acogida_mutua_conciencia_edificacion.md",
+      "substantive_words": 299,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_15_paciencia_acogida_mision_alabanza.md",
+      "substantive_words": 268,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_16_comunidad_servicio_despedida_apostolica.md",
+      "substantive_words": 253,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_2_juicio_imparcial_arrepentimiento_el_corazon.md",
+      "substantive_words": 253,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_6_union_con_el_Mesias_muerte_al_pecado_vida_nueva.md",
+      "substantive_words": 256,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_7_Tora_pecado_la_necesidad_de_liberacion.md",
+      "substantive_words": 253,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/romanos_9_dolor_por_Israel_promesa_misericordia.md",
+      "substantive_words": 254,
+      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/tesalonicenses_1_esperanza_oracion_y_firmeza.md",
+      "substantive_words": 271,
+      "thematic_sections": [
+        "Afligidos, no desarraigados",
+        "El informe que produce consuelo",
+        "Amor que crece y corazones afirmados"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/tesalonicenses_1_santidad_amor_y_consuelodelaesperanza.md",
+      "substantive_words": 289,
+      "thematic_sections": [
+        "Santidad como camino que se aprende",
+        "Amor visible y responsabilidad cotidiana",
+        "Consuelo fundado en la resurrección"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_18_kidron_huerto_y_arresto.md",
+      "substantive_words": 129,
+      "thematic_sections": ["El lugar y el grupo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/besorah/yojanan_2_senales_celo_y_santuario.md",
+      "substantive_words": 220,
+      "thematic_sections": [
+        "La señal no se agota en el prodigio",
+        "Celo, casa y santuario",
+        "«En tres días lo levantaré»"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_3_nacer_de_arriba_y_testimonio.md",
+      "substantive_words": 200,
+      "thematic_sections": [
+        "Nacer de arriba",
+        "El Ben Ha’Adam levantado",
+        "El testigo y el esposo"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_4_agua_viva_y_adoracion.md",
+      "substantive_words": 174,
+      "thematic_sections": [
+        "Agua viva y la mujer samaritana",
+        "Adorar en Rúaj y verdad",
+        "Una palabra que da confianza"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_5_sanidad_vida_y_testimonio.md",
+      "substantive_words": 170,
+      "thematic_sections": [
+        "La sanidad y la controversia",
+        "Obras, vida y juicio",
+        "Los testigos y las Escrituras"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_6_pan_de_vida_y_palabras_de_vida.md",
+      "substantive_words": 174,
+      "thematic_sections": [
+        "Del pan compartido al pan de vida",
+        "Comer, vida y Rúaj",
+        "«¿También ustedes quieren irse?»"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_7_sucot_agua_y_discernimiento.md",
+      "substantive_words": 160,
+      "thematic_sections": ["Sucot, enseñanza y agua viva", "Discernir sin sustituir la escucha"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/besorah/yojanan_8_luz_testimonio_y_abraham.md",
+      "substantive_words": 193,
+      "thematic_sections": [
+        "Luz y seguimiento",
+        "Testimonio, juicio y acusación",
+        "Abraham y la frase final"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/amos_2_justicia_memoria_y_responsabilidad.md",
+      "substantive_words": 61,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/amos_9_tienda_de_david_y_restauracion.md",
+      "substantive_words": 80,
+      "thematic_sections": ["Santidad, juicio y esperanza"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/bamidbar_1.md",
+      "substantive_words": 60,
+      "thematic_sections": ["Texto TTH disponible", "Observaciones"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/bamidbar_13.md",
+      "substantive_words": 133,
+      "thematic_sections": ["Léxico base", "Referencias judías y fuentes externas"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/bamidbar_16_parashot_2017.md",
+      "substantive_words": 204,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bamidbar_19_parashot_2017.md",
+      "substantive_words": 200,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bamidbar_22_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bamidbar_25_parashot_2017.md",
+      "substantive_words": 204,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bamidbar_30_parashot_2017.md",
+      "substantive_words": 206,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bamidbar_8_parashot_2017.md",
+      "substantive_words": 208,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_1.md",
+      "substantive_words": 133,
+      "thematic_sections": [
+        "Léxico base",
+        "Observaciones",
+        "Conexiones",
+        "Referencias judías y fuentes externas"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/bereshit_25_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_28_parashot_2017.md",
+      "substantive_words": 206,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_32_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_37_parashot_2017.md",
+      "substantive_words": 205,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_41_parashot_2017.md",
+      "substantive_words": 200,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_44_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/bereshit_47_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/cantar_1_lectura_poetica_y_relacional.md",
+      "substantive_words": 219,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_2_lectura_poetica_y_relacional.md",
+      "substantive_words": 218,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_3_lectura_poetica_y_relacional.md",
+      "substantive_words": 215,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_4_lectura_poetica_y_relacional.md",
+      "substantive_words": 213,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_5_lectura_poetica_y_relacional.md",
+      "substantive_words": 217,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_6_lectura_poetica_y_relacional.md",
+      "substantive_words": 211,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_7_lectura_poetica_y_relacional.md",
+      "substantive_words": 214,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/cantar_8_lectura_poetica_y_relacional.md",
+      "substantive_words": 217,
+      "thematic_sections": ["Lectura literaria"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/devarim_11_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/devarim_16_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/devarim_1_parashot_2017.md",
+      "substantive_words": 207,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/devarim_26_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/devarim_29_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/devarim_32_parashot_2017.md",
+      "substantive_words": 200,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/devarim_7_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/iejoshua_1_torah_fortaleza_y_herencia.md",
+      "substantive_words": 44,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/iejoshua_2_rahav_temor_y_confesion.md",
+      "substantive_words": 53,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/ieshaiahu_1.md",
+      "substantive_words": 114,
+      "thematic_sections": ["Texto TTH disponible", "Observaciones"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/malaquias_1_amor_eleccion_y_honra.md",
+      "substantive_words": 68,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/melajim_alef_18_decision_fidelidad_y_vuelta.md",
+      "substantive_words": 54,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/melajim_alef_1_sucesion_limites_y_servicio.md",
+      "substantive_words": 65,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/melajim_alef_2_firmeza_torah_y_reinado.md",
+      "substantive_words": 67,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/melajim_alef_5_sabiduria_paz_y_casa.md",
+      "substantive_words": 62,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/melajim_alef_7_casa_terminada_y_presencia_velada.md",
+      "substantive_words": 56,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/melajim_bet_4_misericordia_provision_y_vida.md",
+      "substantive_words": 133,
+      "thematic_sections": ["Provisión y restauración", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/micah_6_justicia_bondad_y_caminar.md",
+      "substantive_words": 44,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/obadias_1_edom_sion_y_justicia.md",
+      "substantive_words": 59,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/oseas_12_memoria_lucha_y_misericordia.md",
+      "substantive_words": 70,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/oseas_2_puerta_de_esperanza_y_restauracion.md",
+      "substantive_words": 46,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_10_sabiduría_práctica_y_gobierno.md",
+      "substantive_words": 253,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_12_memoria.md",
+      "substantive_words": 195,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_1_vanidad.md",
+      "substantive_words": 195,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_2_placer.md",
+      "substantive_words": 203,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_3_tiempos.md",
+      "substantive_words": 199,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_4_opresión.md",
+      "substantive_words": 195,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_5_palabra.md",
+      "substantive_words": 199,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/qohelet_6_abundancia.md",
+      "substantive_words": 201,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/shemot_10_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_13_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_18_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_1_parashot_2017.md",
+      "substantive_words": 202,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_21.md",
+      "substantive_words": 260,
+      "thematic_sections": [
+        "Conceptos importantes",
+        "Juicio, responsabilidad y límites",
+        "Texto TTH disponible"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/shemot_27_parashot_2017.md",
+      "substantive_words": 204,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_30_parashot_2017.md",
+      "substantive_words": 200,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_35_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemot_6_parashot_2017.md",
+      "substantive_words": 206,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/shemuel_alef_12_retorno_y_servicio.md",
+      "substantive_words": 42,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/shemuel_bet_6_arca_kavod_y_alegria.md",
+      "substantive_words": 81,
+      "thematic_sections": ["Cercanía y reverencia"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/shoftim_11_memoria_y_posesion.md",
+      "substantive_words": 50,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/shoftim_13_nazir_y_liberacion.md",
+      "substantive_words": 48,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_100_toda_servicio_y_bondad_perdurable.md",
+      "substantive_words": 273,
+      "thematic_sections": [
+        "Todá: reconocimiento y confesión",
+        "Servir con alegría",
+        "Hechos, pueblo y pastoreo",
+        "Puertas, alabanza y fruto de labios"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/tehilim_102_lectura_oracion_y_alabanza.md",
+      "substantive_words": 158,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_103_lectura_oracion_y_alabanza.md",
+      "substantive_words": 158,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_11_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_12_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_13_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_14_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_15_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_16_refugio_porcion_y_sendero_de_vida.md",
+      "substantive_words": 254,
+      "thematic_sections": ["Refugio y porción", "Vida ante el rostro de יהוה"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/tehilim_17_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_18_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_19_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_20_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_22_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_23_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_24_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_25_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_26_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_27_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_28_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_30_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_31_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_32_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_33_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_34_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_35_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_36_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_37_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_38_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_39_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_40_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_41_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_42_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_43_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_44_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_45_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_46_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_47_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_49_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_50_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_51_misericordia_corazon_y_restauracion.md",
+      "substantive_words": 238,
+      "thematic_sections": [
+        "Confesar sin minimizar",
+        "Corazón y rúaj renovados",
+        "Sacrificio que Elohim no desprecia"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/tehilim_52_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_53_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_54_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_57_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_60_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_61_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_62_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_63_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_64_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_65_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_69_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_71_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_72_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_73_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_74_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_75_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_76_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_77_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_78_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_79_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_80_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_81_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_82_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_83_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_84_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_85_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_86_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_87_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_88_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_89_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_8_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_90_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_91_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_92_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_93_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_94_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_95_alegria_escucha_y_reposo.md",
+      "substantive_words": 231,
+      "thematic_sections": [
+        "Invitación y reconocimiento",
+        "El pueblo de su pastoreo escucha hoy",
+        "Reposo y advertencia"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/tehilim_96_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_97_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_98_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_99_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/tehilim_9_lectura_oracion_y_alabanza.md",
+      "substantive_words": 154,
+      "thematic_sections": ["Lectura del capítulo"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/vaikra_16.md",
+      "substantive_words": 131,
+      "thematic_sections": [
+        "Observaciones",
+        "Léxico de Vaikra 16:32",
+        "Conexiones",
+        "Referencias judías y fuentes externas"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/vaikra_21.md",
+      "substantive_words": 95,
+      "thematic_sections": ["Texto TTH disponible", "Léxico base", "Observaciones por pasaje"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/vayikra_12_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/vayikra_14_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/vayikra_1_parashot_2017.md",
+      "substantive_words": 201,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/vayikra_25_parashot_2017.md",
+      "substantive_words": 207,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/vayikra_6_parashot_2017.md",
+      "substantive_words": 203,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/vayikra_9_parashot_2017.md",
+      "substantive_words": 204,
+      "thematic_sections": [],
+      "issues": [
+        "under_300_substantive_words",
+        "insufficient_thematic_development",
+        "outline_only_lectura_inicial"
+      ]
+    },
+    {
+      "path": "content/tanaj/yejezkel_22_ciudad_de_sangres_y_responsabilidad.md",
+      "substantive_words": 77,
+      "thematic_sections": ["Santidad no aislada de la vida"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yejezkel_28_reunion_santidad_y_tierra.md",
+      "substantive_words": 58,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yejezkel_37_un_pueblo_un_rey_y_pacto_de_shalom.md",
+      "substantive_words": 72,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yejezkel_43_kavod_al_este_y_altar.md",
+      "substantive_words": 82,
+      "thematic_sections": ["Descripción y cautela"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yejezkel_44_guardia_del_santuario_y_servicio.md",
+      "substantive_words": 79,
+      "thematic_sections": ["El kavod y la responsabilidad"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yejezkel_45_terumah_nasi_y_responsabilidad.md",
+      "substantive_words": 91,
+      "thematic_sections": ["El nasí dentro del orden descrito"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_1_hijos_de_sion_y_justicia.md",
+      "substantive_words": 39,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_40_consolacion_camino_y_confianza.md",
+      "substantive_words": 66,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_42_siervo_justicia_y_luz.md",
+      "substantive_words": 102,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_49_consolacion_y_misericordia.md",
+      "substantive_words": 37,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_51_consuelos_frente_al_temor.md",
+      "substantive_words": 35,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_54_pacto_de_shalom_y_restauracion.md",
+      "substantive_words": 57,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_55_buscar_a_yehwh_y_justicia.md",
+      "substantive_words": 37,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_61_un_pueblo_santo.md",
+      "substantive_words": 37,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yeshayahu_6_vision_purificacion_y_envio.md",
+      "substantive_words": 62,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yirmeyahu_16_refugio_herencia_y_miqveh.md",
+      "substantive_words": 82,
+      "thematic_sections": ["Una esperanza que no se hereda por costumbre"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yirmeyahu_1_llamado_y_consagracion.md",
+      "substantive_words": 59,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yirmeyahu_2_manantial_y_cisternas_rotas.md",
+      "substantive_words": 46,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yirmeyahu_34_pacto_libertad_y_responsabilidad.md",
+      "substantive_words": 58,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yirmeyahu_46_juicio_a_egipto_y_refugio.md",
+      "substantive_words": 65,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/yirmeyahu_7_ofrendas_escucha_y_juicio.md",
+      "substantive_words": 101,
+      "thematic_sections": ["Culto y obediencia", "Conexiones principales"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/tanaj/zechariah_3_sacerdote_purificacion_y_tzemaj.md",
+      "substantive_words": 66,
+      "thematic_sections": ["Conexiones principales"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/tanaj/zejariah_4_no_por_fuerza_sino_por_ruaj.md",
+      "substantive_words": 45,
+      "thematic_sections": [],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/temas/janukah.md",
+      "substantive_words": 260,
+      "thematic_sections": [
+        "Contexto histórico",
+        "Hoja léxica",
+        "Salmo 30 y la memoria de la santidad",
+        "Observaciones mesiánicas",
+        "Referencias judías y fuentes externas"
+      ],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/temas/pesaj_memoria_liberacion_y_mesa.md",
+      "substantive_words": 201,
+      "thematic_sections": ["Memoria que forma la mesa", "Yehoshua y la memoria de Pésaj"],
+      "issues": ["under_300_substantive_words"]
+    },
+    {
+      "path": "content/temas/purim_memoria_reversion_y_cuidado.md",
+      "substantive_words": 111,
+      "thematic_sections": ["Gozo que no olvida al pobre"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/temas/shemini_atzeret_cierre_y_asamblea.md",
+      "substantive_words": 125,
+      "thematic_sections": ["Cierre que vuelve a reunir"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    },
+    {
+      "path": "content/temas/sukot_habitar_gozo_y_memoria.md",
+      "substantive_words": 125,
+      "thematic_sections": ["Habitar y recordar"],
+      "issues": ["under_300_substantive_words", "insufficient_thematic_development"]
+    }
+  ]
+}

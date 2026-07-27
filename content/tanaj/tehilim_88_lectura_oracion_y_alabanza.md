@@ -12,7 +12,6 @@ references:
   - "#tehilim_88_19"
 sources:
   - "https://www.youtube.com/watch?v=kCWRKnHiDig"
-  - "private/transcripts/ericdejes/kCWRKnHiDig.md"
   - "docs/scriptures/oe/json/psalms/88.json"
 source_ids:
   - "youtube:kCWRKnHiDig"
@@ -52,5 +51,5 @@ La lectura de Tehilim 88 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Cap 88» — <https://www.youtube.com/watch?v=kCWRKnHiDig> — transcripción: `private/transcripts/ericdejes/kCWRKnHiDig.md` — source_id: `youtube:kCWRKnHiDig`.
+- «Tehilim/Hymnos/Salmo Cap 88» — <https://www.youtube.com/watch?v=kCWRKnHiDig> — source_id: `youtube:kCWRKnHiDig`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

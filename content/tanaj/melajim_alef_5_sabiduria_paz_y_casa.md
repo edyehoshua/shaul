@@ -6,7 +6,6 @@ tags: [tanaj, melajim, haftarah, terumah]
 references: ["#melajim_alef_5_5"]
 sources:
   - "https://www.youtube.com/watch?v=bhf6Y9WfkUY"
-  - "private/transcripts/ericdejes/bhf6Y9WfkUY.md"
   - "docs/scriptures/oe/json/raw/ikings.json"
 source_ids:
   - "youtube:bhf6Y9WfkUY"
@@ -33,5 +32,5 @@ La obra para la casa de יהוה se sitúa bajo sabiduría, paz y responsabilida
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [HAFTARÁH DE TRUMÁH (2018) Edificados como piedras vivas](https://www.youtube.com/watch?v=bhf6Y9WfkUY) — transcripción: `private/transcripts/ericdejes/bhf6Y9WfkUY.md` — source_id: `youtube:bhf6Y9WfkUY`.
+- Video: [HAFTARÁH DE TRUMÁH (2018) Edificados como piedras vivas](https://www.youtube.com/watch?v=bhf6Y9WfkUY) — source_id: `youtube:bhf6Y9WfkUY`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

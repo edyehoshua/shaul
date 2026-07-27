@@ -12,7 +12,6 @@ references:
   - "#tehilim_32_11"
 sources:
   - "https://www.youtube.com/watch?v=UoOufP7bDkA"
-  - "private/transcripts/ericdejes/UoOufP7bDkA.md"
   - "docs/scriptures/oe/json/psalms/32.json"
 source_ids:
   - "youtube:UoOufP7bDkA"
@@ -52,5 +51,5 @@ La lectura de Tehilim 32 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 32» — <https://www.youtube.com/watch?v=UoOufP7bDkA> — transcripción: `private/transcripts/ericdejes/UoOufP7bDkA.md` — source_id: `youtube:UoOufP7bDkA`.
+- «Tehilim/Himnos/Salmo Cap 32» — <https://www.youtube.com/watch?v=UoOufP7bDkA> — source_id: `youtube:UoOufP7bDkA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

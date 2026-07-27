@@ -9,7 +9,6 @@ references:
   - "#bamidbar_16_1"
 sources:
   - "https://www.youtube.com/watch?v=SFTcGxqtg9E"
-  - "private/transcripts/ericdejes/SFTcGxqtg9E.md"
   - "docs/scriptures/oe/json/numbers/16.json"
 source_ids:
   - "youtube:SFTcGxqtg9E"
@@ -48,5 +47,5 @@ Bamidbar 16 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Qóraj (2017) Más vosotros tenéis la unción de El Santo](https://www.youtube.com/watch?v=SFTcGxqtg9E) — transcripción de trabajo: `private/transcripts/ericdejes/SFTcGxqtg9E.md` (source_id: `youtube:SFTcGxqtg9E`).
+- [Parashat Qóraj (2017) Más vosotros tenéis la unción de El Santo](https://www.youtube.com/watch?v=SFTcGxqtg9E) (source_id: `youtube:SFTcGxqtg9E`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -6,7 +6,6 @@ tags: [tanaj, malaquias, haftarah]
 references: ["Malaquías 1:1-2:7"]
 sources:
   - "https://www.youtube.com/watch?v=zrVHKQKJ5rQ"
-  - "private/transcripts/ericdejes/zrVHKQKJ5rQ.md"
   - "docs/scriptures/oe/json/malachi/1.json"
 source_ids: ["youtube:zrVHKQKJ5rQ"]
 ---
@@ -36,4 +35,4 @@ Malaquías llama a responder al amor divino con honra concreta; la elección no 
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Toldot (2017) Yehoshúa' Hamashíaj es 'Elohim](https://www.youtube.com/watch?v=zrVHKQKJ5rQ) — `private/transcripts/ericdejes/zrVHKQKJ5rQ.md` (source_id: `youtube:zrVHKQKJ5rQ`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Toldot (2017) Yehoshúa' Hamashíaj es 'Elohim](https://www.youtube.com/watch?v=zrVHKQKJ5rQ) — (source_id: `youtube:zrVHKQKJ5rQ`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

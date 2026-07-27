@@ -24,15 +24,10 @@ references:
   - "#ephesians_6_23"
 sources:
   - "https://www.youtube.com/watch?v=v03-WzaF5uw"
-  - "private/transcripts/ericdejes/v03-WzaF5uw.md"
   - "https://www.youtube.com/watch?v=nwno_x1eN6E"
-  - "private/transcripts/ericdejes/nwno_x1eN6E.md"
   - "https://www.youtube.com/watch?v=2mgGFv_NC_w"
-  - "private/transcripts/ericdejes/2mgGFv_NC_w.md"
   - "https://www.youtube.com/watch?v=Hej3xxIb85o"
-  - "private/transcripts/ericdejes/Hej3xxIb85o.md"
   - "https://www.youtube.com/watch?v=O1YNAgZXzdo"
-  - "private/transcripts/ericdejes/O1YNAgZXzdo.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
   - "youtube:v03-WzaF5uw"
@@ -102,15 +97,10 @@ El final de Efesios mantiene la misma dirección de la carta: el Mesías forma u
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los efesios (parte 31) Cap 6» — https://www.youtube.com/watch?v=v03-WzaF5uw
-  - Transcripción: `private/transcripts/ericdejes/v03-WzaF5uw.md` (`source_id: youtube:v03-WzaF5uw`).
-- «La carta a los efesios (parte 32) Cap 6» — https://www.youtube.com/watch?v=nwno_x1eN6E
-  - Transcripción: `private/transcripts/ericdejes/nwno_x1eN6E.md` (`source_id: youtube:nwno_x1eN6E`).
-- «La carta a los efesios (parte 33) Cap 6» — https://www.youtube.com/watch?v=2mgGFv_NC_w
-  - Transcripción: `private/transcripts/ericdejes/2mgGFv_NC_w.md` (`source_id: youtube:2mgGFv_NC_w`).
-- «La carta a los Efesios (parte 34) Cap 6» — https://www.youtube.com/watch?v=Hej3xxIb85o
-  - Transcripción: `private/transcripts/ericdejes/Hej3xxIb85o.md` (`source_id: youtube:Hej3xxIb85o`).
-- «La carta a los efesios (parte 35) Cap 6 FINAL» — https://www.youtube.com/watch?v=O1YNAgZXzdo
-  - Transcripción: `private/transcripts/ericdejes/O1YNAgZXzdo.md` (`source_id: youtube:O1YNAgZXzdo`).
+- «La carta a los efesios (parte 31) Cap 6» — https://www.youtube.com/watch?v=v03-WzaF5uw (`source_id: youtube:v03-WzaF5uw`).
+- «La carta a los efesios (parte 32) Cap 6» — https://www.youtube.com/watch?v=nwno_x1eN6E (`source_id: youtube:nwno_x1eN6E`).
+- «La carta a los efesios (parte 33) Cap 6» — https://www.youtube.com/watch?v=2mgGFv_NC_w (`source_id: youtube:2mgGFv_NC_w`).
+- «La carta a los Efesios (parte 34) Cap 6» — https://www.youtube.com/watch?v=Hej3xxIb85o (`source_id: youtube:Hej3xxIb85o`).
+- «La carta a los efesios (parte 35) Cap 6 FINAL» — https://www.youtube.com/watch?v=O1YNAgZXzdo (`source_id: youtube:O1YNAgZXzdo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

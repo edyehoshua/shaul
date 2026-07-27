@@ -11,11 +11,8 @@ references:
   - "#romanos_1_32"
 sources:
   - "https://www.youtube.com/watch?v=VwtpBX1Q444"
-  - "private/transcripts/ericdejes/VwtpBX1Q444.md"
   - "https://www.youtube.com/watch?v=XpT2I9DGotI"
-  - "private/transcripts/ericdejes/XpT2I9DGotI.md"
   - "https://www.youtube.com/watch?v=5yDcBBBWTkY"
-  - "private/transcripts/ericdejes/5yDcBBBWTkY.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:VwtpBX1Q444"
@@ -76,7 +73,7 @@ Romanos 1 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [The Letter to the Romans (Part 1). Context, Introduction, Chapter 1:1-7](https://www.youtube.com/watch?v=VwtpBX1Q444) — transcripción de trabajo: `private/transcripts/ericdejes/VwtpBX1Q444.md` (source_id: `youtube:VwtpBX1Q444`).
-- [La carta a los romanos Parte 2. Cap 1:8-21 Yehoshúa', el evangelio, la potencia de la deidad](https://www.youtube.com/watch?v=XpT2I9DGotI) — transcripción de trabajo: `private/transcripts/ericdejes/XpT2I9DGotI.md` (source_id: `youtube:XpT2I9DGotI`).
-- [La carta a los romanos (Parte 3). Cap 1:22-2:3 'Adam, 'ish, yehudí... yo confesaré a Yah](https://www.youtube.com/watch?v=5yDcBBBWTkY) — transcripción de trabajo: `private/transcripts/ericdejes/5yDcBBBWTkY.md` (source_id: `youtube:5yDcBBBWTkY`).
+- [The Letter to the Romans (Part 1). Context, Introduction, Chapter 1:1-7](https://www.youtube.com/watch?v=VwtpBX1Q444) (source_id: `youtube:VwtpBX1Q444`).
+- [La carta a los romanos Parte 2. Cap 1:8-21 Yehoshúa', el evangelio, la potencia de la deidad](https://www.youtube.com/watch?v=XpT2I9DGotI) (source_id: `youtube:XpT2I9DGotI`).
+- [La carta a los romanos (Parte 3). Cap 1:22-2:3 'Adam, 'ish, yehudí... yo confesaré a Yah](https://www.youtube.com/watch?v=5yDcBBBWTkY) (source_id: `youtube:5yDcBBBWTkY`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

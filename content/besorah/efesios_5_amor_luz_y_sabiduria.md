@@ -24,17 +24,11 @@ references:
   - "#ephesians_5_32"
 sources:
   - "https://www.youtube.com/watch?v=Ij-rarUs2z0"
-  - "private/transcripts/ericdejes/Ij-rarUs2z0.md"
   - "https://www.youtube.com/watch?v=GY7a_nQHJ3g"
-  - "private/transcripts/ericdejes/GY7a_nQHJ3g.md"
   - "https://www.youtube.com/watch?v=vMKZxSXm6do"
-  - "private/transcripts/ericdejes/vMKZxSXm6do.md"
   - "https://www.youtube.com/watch?v=IInmEjVfIY8"
-  - "private/transcripts/ericdejes/IInmEjVfIY8.md"
   - "https://www.youtube.com/watch?v=uvdWpnrQsmo"
-  - "private/transcripts/ericdejes/uvdWpnrQsmo.md"
   - "https://www.youtube.com/watch?v=5s1JMI9hFxU"
-  - "private/transcripts/ericdejes/5s1JMI9hFxU.md"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
   - "youtube:Ij-rarUs2z0"
@@ -103,17 +97,11 @@ Efesios 5 no opone espiritualidad y vida cotidiana. El amor, la luz, la gratitud
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los Efesios (parte 25) Cap 5 ¿Cómo empezar a imitar a Dios?» — https://www.youtube.com/watch?v=Ij-rarUs2z0
-  - Transcripción: `private/transcripts/ericdejes/Ij-rarUs2z0.md` (`source_id: youtube:Ij-rarUs2z0`).
-- «La carta a los Efesios (parte 26) Cap 5 “en él (la luz) nos movemos vivimos y somos”» — https://www.youtube.com/watch?v=GY7a_nQHJ3g
-  - Transcripción: `private/transcripts/ericdejes/GY7a_nQHJ3g.md` (`source_id: youtube:GY7a_nQHJ3g`).
-- «La carta a los Efesios (parte 27) Cap 5 ¿Cómo saber si aún estás en oscuridad?» — https://www.youtube.com/watch?v=vMKZxSXm6do
-  - Transcripción: `private/transcripts/ericdejes/vMKZxSXm6do.md` (`source_id: youtube:vMKZxSXm6do`).
-- «La carta a los Efesios (parte 28) Cap 5 ¿Cómo redimir el tiempo?» — https://www.youtube.com/watch?v=IInmEjVfIY8
-  - Transcripción: `private/transcripts/ericdejes/IInmEjVfIY8.md` (`source_id: youtube:IInmEjVfIY8`).
-- «La carta a los Efesios (parte 29) Cap 5 Respetando el orden divino» — https://www.youtube.com/watch?v=uvdWpnrQsmo
-  - Transcripción: `private/transcripts/ericdejes/uvdWpnrQsmo.md` (`source_id: youtube:uvdWpnrQsmo`).
-- «La carta a los Efesios (parte 30) Cap 5» — https://www.youtube.com/watch?v=5s1JMI9hFxU
-  - Transcripción: `private/transcripts/ericdejes/5s1JMI9hFxU.md` (`source_id: youtube:5s1JMI9hFxU`).
+- «La carta a los Efesios (parte 25) Cap 5 ¿Cómo empezar a imitar a Dios?» — https://www.youtube.com/watch?v=Ij-rarUs2z0 (`source_id: youtube:Ij-rarUs2z0`).
+- «La carta a los Efesios (parte 26) Cap 5 “en él (la luz) nos movemos vivimos y somos”» — https://www.youtube.com/watch?v=GY7a_nQHJ3g (`source_id: youtube:GY7a_nQHJ3g`).
+- «La carta a los Efesios (parte 27) Cap 5 ¿Cómo saber si aún estás en oscuridad?» — https://www.youtube.com/watch?v=vMKZxSXm6do (`source_id: youtube:vMKZxSXm6do`).
+- «La carta a los Efesios (parte 28) Cap 5 ¿Cómo redimir el tiempo?» — https://www.youtube.com/watch?v=IInmEjVfIY8 (`source_id: youtube:IInmEjVfIY8`).
+- «La carta a los Efesios (parte 29) Cap 5 Respetando el orden divino» — https://www.youtube.com/watch?v=uvdWpnrQsmo (`source_id: youtube:uvdWpnrQsmo`).
+- «La carta a los Efesios (parte 30) Cap 5» — https://www.youtube.com/watch?v=5s1JMI9hFxU (`source_id: youtube:5s1JMI9hFxU`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

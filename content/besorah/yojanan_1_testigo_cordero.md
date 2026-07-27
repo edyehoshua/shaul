@@ -27,10 +27,6 @@ sources:
   - "https://www.youtube.com/watch?v=1MoxwBR4bg4"
   - "https://www.youtube.com/watch?v=2C6YJnz5fKs"
   - "https://www.youtube.com/watch?v=ppIWbKD97T0"
-  - "private/transcripts/ericdejes/FrxD1V5awcM.md"
-  - "private/transcripts/ericdejes/1MoxwBR4bg4.md"
-  - "private/transcripts/ericdejes/2C6YJnz5fKs.md"
-  - "private/transcripts/ericdejes/ppIWbKD97T0.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/isaiah/40.json"
@@ -140,7 +136,7 @@ El primer capítulo no deja a Iojanán en el centro: su voz prepara y su testimo
 
 Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
 
-- «El Evangelio según Yojanan - Juan Parte 1 - Introducción» — https://www.youtube.com/watch?v=FrxD1V5awcM — `private/transcripts/ericdejes/FrxD1V5awcM.md` (`youtube:FrxD1V5awcM`).
-- «El Evangelio según Yojanán (parte2) Cap 1:1 Arjë, Logos y Meymra'» — https://www.youtube.com/watch?v=1MoxwBR4bg4 — `private/transcripts/ericdejes/1MoxwBR4bg4.md` (`youtube:1MoxwBR4bg4`).
-- «El Evangelio segun Yojanan / Juan (Parte 5) Yehoshúa' el Qorban» — https://www.youtube.com/watch?v=2C6YJnz5fKs — `private/transcripts/ericdejes/2C6YJnz5fKs.md` (`youtube:2C6YJnz5fKs`).
-- «El evangelio según Yojanán/ Juan (Parte 6): El Sulam, el Ben Ha'adam» — https://www.youtube.com/watch?v=ppIWbKD97T0 — `private/transcripts/ericdejes/ppIWbKD97T0.md` (`youtube:ppIWbKD97T0`).
+- «El Evangelio según Yojanan - Juan Parte 1 - Introducción» — https://www.youtube.com/watch?v=FrxD1V5awcM — (`youtube:FrxD1V5awcM`).
+- «El Evangelio según Yojanán (parte2) Cap 1:1 Arjë, Logos y Meymra'» — https://www.youtube.com/watch?v=1MoxwBR4bg4 — (`youtube:1MoxwBR4bg4`).
+- «El Evangelio segun Yojanan / Juan (Parte 5) Yehoshúa' el Qorban» — https://www.youtube.com/watch?v=2C6YJnz5fKs — (`youtube:2C6YJnz5fKs`).
+- «El evangelio según Yojanán/ Juan (Parte 6): El Sulam, el Ben Ha'adam» — https://www.youtube.com/watch?v=ppIWbKD97T0 — (`youtube:ppIWbKD97T0`).

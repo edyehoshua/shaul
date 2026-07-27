@@ -12,7 +12,6 @@ references:
   - "#tehilim_44_27"
 sources:
   - "https://www.youtube.com/watch?v=-SGr7Idwdek"
-  - "private/transcripts/ericdejes/-SGr7Idwdek.md"
   - "docs/scriptures/oe/json/psalms/44.json"
 source_ids:
   - "youtube:-SGr7Idwdek"
@@ -52,5 +51,5 @@ La lectura de Tehilim 44 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 44» — <https://www.youtube.com/watch?v=-SGr7Idwdek> — transcripción: `private/transcripts/ericdejes/-SGr7Idwdek.md` — source_id: `youtube:-SGr7Idwdek`.
+- «Tehilim/Himnos/Salmo Cap 44» — <https://www.youtube.com/watch?v=-SGr7Idwdek> — source_id: `youtube:-SGr7Idwdek`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

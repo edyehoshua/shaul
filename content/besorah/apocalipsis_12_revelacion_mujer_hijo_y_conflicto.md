@@ -15,7 +15,6 @@ references:
   - "#revelation_12_17"
 sources:
   - "https://www.youtube.com/watch?v=82O3VGG9qBg"
-  - "private/transcripts/ericdejes/82O3VGG9qBg.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:82O3VGG9qBg"
@@ -58,7 +57,6 @@ Apocalipsis 12 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 21 La revelación de Yehoshúa' Hamashíaj: La mujer y el Najash/Tanin Grande» — https://www.youtube.com/watch?v=82O3VGG9qBg
-  - Transcripción: `private/transcripts/ericdejes/82O3VGG9qBg.md` (`source_id: youtube:82O3VGG9qBg`).
+- «Parte 21 La revelación de Yehoshúa' Hamashíaj: La mujer y el Najash/Tanin Grande» — https://www.youtube.com/watch?v=82O3VGG9qBg (`source_id: youtube:82O3VGG9qBg`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

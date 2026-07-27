@@ -12,7 +12,6 @@ references:
   - "#tehilim_84_13"
 sources:
   - "https://www.youtube.com/watch?v=KwdbIvwX9gU"
-  - "private/transcripts/ericdejes/KwdbIvwX9gU.md"
   - "docs/scriptures/oe/json/psalms/84.json"
 source_ids:
   - "youtube:KwdbIvwX9gU"
@@ -52,5 +51,5 @@ La lectura de Tehilim 84 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 84» — <https://www.youtube.com/watch?v=KwdbIvwX9gU> — transcripción: `private/transcripts/ericdejes/KwdbIvwX9gU.md` — source_id: `youtube:KwdbIvwX9gU`.
+- «Tehilim/Himnos/Salmo Cap 84» — <https://www.youtube.com/watch?v=KwdbIvwX9gU> — source_id: `youtube:KwdbIvwX9gU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -23,7 +23,6 @@ references:
   - "#maasei_hashlijim_1_11"
 sources:
   - "https://www.youtube.com/watch?v=c8YqHIe-IhM"
-  - "private/transcripts/ericdejes/c8YqHIe-IhM.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/genesis/12.json"

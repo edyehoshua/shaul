@@ -12,7 +12,6 @@ references:
   - "#tehilim_38_23"
 sources:
   - "https://www.youtube.com/watch?v=68bPmhhpX8Y"
-  - "private/transcripts/ericdejes/68bPmhhpX8Y.md"
   - "docs/scriptures/oe/json/psalms/38.json"
 source_ids:
   - "youtube:68bPmhhpX8Y"
@@ -52,5 +51,5 @@ La lectura de Tehilim 38 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 38» — <https://www.youtube.com/watch?v=68bPmhhpX8Y> — transcripción: `private/transcripts/ericdejes/68bPmhhpX8Y.md` — source_id: `youtube:68bPmhhpX8Y`.
+- «Tehilim/Himnos/Salmo Cap 38» — <https://www.youtube.com/watch?v=68bPmhhpX8Y> — source_id: `youtube:68bPmhhpX8Y`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

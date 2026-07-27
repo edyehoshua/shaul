@@ -12,7 +12,6 @@ references:
   - "#tehilim_42_12"
 sources:
   - "https://www.youtube.com/watch?v=YHmY5aAU46Q"
-  - "private/transcripts/ericdejes/YHmY5aAU46Q.md"
   - "docs/scriptures/oe/json/psalms/42.json"
 source_ids:
   - "youtube:YHmY5aAU46Q"
@@ -52,5 +51,5 @@ La lectura de Tehilim 42 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 42» — <https://www.youtube.com/watch?v=YHmY5aAU46Q> — transcripción: `private/transcripts/ericdejes/YHmY5aAU46Q.md` — source_id: `youtube:YHmY5aAU46Q`.
+- «Tehilim/Himnos/Salmo Cap 42» — <https://www.youtube.com/watch?v=YHmY5aAU46Q> — source_id: `youtube:YHmY5aAU46Q`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

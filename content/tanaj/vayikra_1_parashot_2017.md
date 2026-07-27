@@ -9,7 +9,6 @@ references:
   - "#vaikra_1_1"
 sources:
   - "https://www.youtube.com/watch?v=8KH3oCck2gM"
-  - "private/transcripts/ericdejes/8KH3oCck2gM.md"
   - "docs/scriptures/oe/json/leviticus/1.json"
 source_ids:
   - "youtube:8KH3oCck2gM"
@@ -48,5 +47,5 @@ Vayikra 1 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayiqrá' (2017). Hechos perfectos para siempre](https://www.youtube.com/watch?v=8KH3oCck2gM) — transcripción de trabajo: `private/transcripts/ericdejes/8KH3oCck2gM.md` (source_id: `youtube:8KH3oCck2gM`).
+- [Parashat Vayiqrá' (2017). Hechos perfectos para siempre](https://www.youtube.com/watch?v=8KH3oCck2gM) (source_id: `youtube:8KH3oCck2gM`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

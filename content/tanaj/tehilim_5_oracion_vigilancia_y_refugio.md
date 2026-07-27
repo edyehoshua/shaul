@@ -18,7 +18,6 @@ references:
   - "#tehilim_5_12"
 sources:
   - "https://www.youtube.com/watch?v=LujgucMqFtM"
-  - "private/transcripts/ericdejes/LujgucMqFtM.md"
   - "docs/scriptures/oe/json/raw/psalms.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -96,4 +95,4 @@ Tehilim 5 enseña a llevar el clamor ante יהוה con disposición y vigilancia
 
 Las transcripciones son automáticas y se usan como apoyo de estudio; no se presentan como citas literales ni como transcripciones revisadas por el expositor.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 5» — <https://www.youtube.com/watch?v=LujgucMqFtM> — transcripción: `private/transcripts/ericdejes/LujgucMqFtM.md` — source_id: `youtube:LujgucMqFtM`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 5» — <https://www.youtube.com/watch?v=LujgucMqFtM> — source_id: `youtube:LujgucMqFtM`.

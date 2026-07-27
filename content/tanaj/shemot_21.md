@@ -17,7 +17,6 @@ references:
   - "#shemot_21_30"
 sources:
   - "https://www.youtube.com/watch?v=E6KrU1gAZds"
-  - "private/transcripts/ericdejes/E6KrU1gAZds.md"
   - "docs/scriptures/oe/json/exodus/21.json"
 source_ids:
   - "youtube:E6KrU1gAZds"
@@ -79,5 +78,5 @@ Shemot 21 une normas concretas con responsabilidad pública. La lectura de #shem
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Las "613" mitzvot #227-230 Acerca de las penas capitales](https://www.youtube.com/watch?v=E6KrU1gAZds) — `private/transcripts/ericdejes/E6KrU1gAZds.md` — `youtube:E6KrU1gAZds`.
+- Video: [Las "613" mitzvot #227-230 Acerca de las penas capitales](https://www.youtube.com/watch?v=E6KrU1gAZds) — `youtube:E6KrU1gAZds`.
 - Esta nota organiza y contrasta la exposición; la transcripción automática no se presenta como cita literal.

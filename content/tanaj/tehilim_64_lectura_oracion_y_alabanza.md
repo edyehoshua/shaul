@@ -12,7 +12,6 @@ references:
   - "#tehilim_64_11"
 sources:
   - "https://www.youtube.com/watch?v=GlhJ3r9vTj8"
-  - "private/transcripts/ericdejes/GlhJ3r9vTj8.md"
   - "docs/scriptures/oe/json/psalms/64.json"
 source_ids:
   - "youtube:GlhJ3r9vTj8"
@@ -52,5 +51,5 @@ La lectura de Tehilim 64 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Psalm Chapter 64» — <https://www.youtube.com/watch?v=GlhJ3r9vTj8> — transcripción: `private/transcripts/ericdejes/GlhJ3r9vTj8.md` — source_id: `youtube:GlhJ3r9vTj8`.
+- «Tehilim/Hymnos/Psalm Chapter 64» — <https://www.youtube.com/watch?v=GlhJ3r9vTj8> — source_id: `youtube:GlhJ3r9vTj8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

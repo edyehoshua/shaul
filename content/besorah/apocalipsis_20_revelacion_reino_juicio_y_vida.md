@@ -16,7 +16,6 @@ references:
   - "#revelation_20_15"
 sources:
   - "https://www.youtube.com/watch?v=1heGTh7m5Lk"
-  - "private/transcripts/ericdejes/1heGTh7m5Lk.md"
   - "docs/scriptures/delitzsch/json/revelation.json"
 source_ids:
   - "youtube:1heGTh7m5Lk"
@@ -59,7 +58,6 @@ Apocalipsis 20 llama a recibir la visión con reverencia, atención al testimoni
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 28 La revelación de Yehoshúa' Hamashíaj: 'Alef Shanim, los años de la toráh» — https://www.youtube.com/watch?v=1heGTh7m5Lk
-  - Transcripción: `private/transcripts/ericdejes/1heGTh7m5Lk.md` (`source_id: youtube:1heGTh7m5Lk`).
+- «Parte 28 La revelación de Yehoshúa' Hamashíaj: 'Alef Shanim, los años de la toráh» — https://www.youtube.com/watch?v=1heGTh7m5Lk (`source_id: youtube:1heGTh7m5Lk`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

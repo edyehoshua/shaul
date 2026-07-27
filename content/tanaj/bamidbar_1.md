@@ -11,7 +11,6 @@ references:
   - "#bamidbar_1_3"
 sources:
   - "https://www.youtube.com/watch?v=xewVDaqDM6g"
-  - "private/transcripts/ericdejes/xewVDaqDM6g.md"
   - "docs/scriptures/oe/json/numbers/1.json"
 source_ids:
   - "youtube:xewVDaqDM6g"
@@ -43,5 +42,5 @@ Bamidbar 1 se lee aquí como el encargo de levantar la cabeza de los hijos de Is
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Bemidbar (2017) La Mishméret, la guardia divina](https://www.youtube.com/watch?v=xewVDaqDM6g) — transcripción de trabajo: `private/transcripts/ericdejes/xewVDaqDM6g.md` (source_id: `youtube:xewVDaqDM6g`).
+- [Parashat Bemidbar (2017) La Mishméret, la guardia divina](https://www.youtube.com/watch?v=xewVDaqDM6g) (source_id: `youtube:xewVDaqDM6g`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

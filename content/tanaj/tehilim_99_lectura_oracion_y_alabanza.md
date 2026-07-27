@@ -12,7 +12,6 @@ references:
   - "#tehilim_99_9"
 sources:
   - "https://www.youtube.com/watch?v=7EVWzk0LH3w"
-  - "private/transcripts/ericdejes/7EVWzk0LH3w.md"
   - "docs/scriptures/oe/json/psalms/99.json"
 source_ids:
   - "youtube:7EVWzk0LH3w"
@@ -52,5 +51,5 @@ La lectura de Tehilim 99 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 99» — <https://www.youtube.com/watch?v=7EVWzk0LH3w> — transcripción: `private/transcripts/ericdejes/7EVWzk0LH3w.md` — source_id: `youtube:7EVWzk0LH3w`.
+- «Tehilim/Himnos/Salmo Cap 99» — <https://www.youtube.com/watch?v=7EVWzk0LH3w> — source_id: `youtube:7EVWzk0LH3w`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

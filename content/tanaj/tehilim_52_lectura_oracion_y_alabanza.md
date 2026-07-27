@@ -12,7 +12,6 @@ references:
   - "#tehilim_52_11"
 sources:
   - "https://www.youtube.com/watch?v=ZyBOKBiaylA"
-  - "private/transcripts/ericdejes/ZyBOKBiaylA.md"
   - "docs/scriptures/oe/json/psalms/52.json"
 source_ids:
   - "youtube:ZyBOKBiaylA"
@@ -52,5 +51,5 @@ La lectura de Tehilim 52 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos /Salml Cap. 52 y 55» — <https://www.youtube.com/watch?v=ZyBOKBiaylA> — transcripción: `private/transcripts/ericdejes/ZyBOKBiaylA.md` — source_id: `youtube:ZyBOKBiaylA`.
+- «Tehilim/Himnos /Salml Cap. 52 y 55» — <https://www.youtube.com/watch?v=ZyBOKBiaylA> — source_id: `youtube:ZyBOKBiaylA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -12,7 +12,6 @@ references:
   - "#tehilim_81_17"
 sources:
   - "https://www.youtube.com/watch?v=4XbMGoFPc8c"
-  - "private/transcripts/ericdejes/4XbMGoFPc8c.md"
   - "docs/scriptures/oe/json/psalms/81.json"
 source_ids:
   - "youtube:4XbMGoFPc8c"
@@ -52,5 +51,5 @@ La lectura de Tehilim 81 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 81» — <https://www.youtube.com/watch?v=4XbMGoFPc8c> — transcripción: `private/transcripts/ericdejes/4XbMGoFPc8c.md` — source_id: `youtube:4XbMGoFPc8c`.
+- «Tehilim/Himnos/Salmo Cap 81» — <https://www.youtube.com/watch?v=4XbMGoFPc8c> — source_id: `youtube:4XbMGoFPc8c`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

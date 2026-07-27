@@ -26,7 +26,6 @@ references:
   - "#efesiyim_1_6"
 sources:
   - "https://www.youtube.com/watch?v=V6cspEvIX7s"
-  - "private/transcripts/ericdejes/V6cspEvIX7s.md"
   - "docs/scriptures/oe/json/psalms/21.json"
 source_ids:
   - "youtube:V6cspEvIX7s"
@@ -94,6 +93,5 @@ Tehilim 21 enseña a recibir la victoria como don: el rey se alegra, vive y perm
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Psalms/Hymns/Psalm Ch. 21](https://www.youtube.com/watch?v=V6cspEvIX7s).
-- Transcripción de trabajo: `private/transcripts/ericdejes/V6cspEvIX7s.md` (`youtube:V6cspEvIX7s`).
+- Video: [Psalms/Hymns/Psalm Ch. 21](https://www.youtube.com/watch?v=V6cspEvIX7s). (`youtube:V6cspEvIX7s`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

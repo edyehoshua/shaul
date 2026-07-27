@@ -12,7 +12,6 @@ references:
   - "#tehilim_80_20"
 sources:
   - "https://www.youtube.com/watch?v=lVYImIjmILs"
-  - "private/transcripts/ericdejes/lVYImIjmILs.md"
   - "docs/scriptures/oe/json/psalms/80.json"
 source_ids:
   - "youtube:lVYImIjmILs"
@@ -52,5 +51,5 @@ La lectura de Tehilim 80 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 80» — <https://www.youtube.com/watch?v=lVYImIjmILs> — transcripción: `private/transcripts/ericdejes/lVYImIjmILs.md` — source_id: `youtube:lVYImIjmILs`.
+- «Tehilim/Himnos/Salmo Cap 80» — <https://www.youtube.com/watch?v=lVYImIjmILs> — source_id: `youtube:lVYImIjmILs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

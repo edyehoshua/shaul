@@ -12,9 +12,7 @@ references:
   - "#hebrews_10_39"
 sources:
   - "https://www.youtube.com/watch?v=Trk1-b6iqhI"
-  - "private/transcripts/ericdejes/Trk1-b6iqhI.md"
   - "https://www.youtube.com/watch?v=nOvXUecISrQ"
-  - "private/transcripts/ericdejes/nOvXUecISrQ.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:Trk1-b6iqhI"
@@ -46,7 +44,7 @@ La obra del Mesías abre acceso confiado y a la vez sostiene una exhortación co
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos Parte 10: Me perforaste los oídos» — https://www.youtube.com/watch?v=Trk1-b6iqhI — transcripción: `private/transcripts/ericdejes/Trk1-b6iqhI.md` — source_id: `youtube:Trk1-b6iqhI`.
-- «La carta a los hebreos parte 11: La fidelidad» — https://www.youtube.com/watch?v=nOvXUecISrQ — transcripción: `private/transcripts/ericdejes/nOvXUecISrQ.md` — source_id: `youtube:nOvXUecISrQ`.
+- «La carta a los hebreos Parte 10: Me perforaste los oídos» — https://www.youtube.com/watch?v=Trk1-b6iqhI — source_id: `youtube:Trk1-b6iqhI`.
+- «La carta a los hebreos parte 11: La fidelidad» — https://www.youtube.com/watch?v=nOvXUecISrQ — source_id: `youtube:nOvXUecISrQ`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

@@ -12,7 +12,6 @@ references:
   - "#tehilim_97_12"
 sources:
   - "https://www.youtube.com/watch?v=T8GHmQSV0xk"
-  - "private/transcripts/ericdejes/T8GHmQSV0xk.md"
   - "docs/scriptures/oe/json/psalms/97.json"
 source_ids:
   - "youtube:T8GHmQSV0xk"
@@ -52,5 +51,5 @@ La lectura de Tehilim 97 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 97» — <https://www.youtube.com/watch?v=T8GHmQSV0xk> — transcripción: `private/transcripts/ericdejes/T8GHmQSV0xk.md` — source_id: `youtube:T8GHmQSV0xk`.
+- «Tehilim/Himnos/Salmo Cap 97» — <https://www.youtube.com/watch?v=T8GHmQSV0xk> — source_id: `youtube:T8GHmQSV0xk`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

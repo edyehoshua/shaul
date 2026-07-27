@@ -9,7 +9,6 @@ references:
   - "#devarim_32_1"
 sources:
   - "https://www.youtube.com/watch?v=CHpD4KHEGMA"
-  - "private/transcripts/ericdejes/CHpD4KHEGMA.md"
   - "docs/scriptures/oe/json/deuteronomy/32.json"
 source_ids:
   - "youtube:CHpD4KHEGMA"
@@ -48,5 +47,5 @@ Devarim 32 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Ha'azinu (2017) Él no es palabra vacía](https://www.youtube.com/watch?v=CHpD4KHEGMA) — transcripción de trabajo: `private/transcripts/ericdejes/CHpD4KHEGMA.md` (source_id: `youtube:CHpD4KHEGMA`).
+- [Parashat Ha'azinu (2017) Él no es palabra vacía](https://www.youtube.com/watch?v=CHpD4KHEGMA) (source_id: `youtube:CHpD4KHEGMA`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

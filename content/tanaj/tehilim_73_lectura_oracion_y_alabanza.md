@@ -12,7 +12,6 @@ references:
   - "#tehilim_73_28"
 sources:
   - "https://www.youtube.com/watch?v=KsDBATpp6ls"
-  - "private/transcripts/ericdejes/KsDBATpp6ls.md"
   - "docs/scriptures/oe/json/psalms/73.json"
 source_ids:
   - "youtube:KsDBATpp6ls"
@@ -52,5 +51,5 @@ La lectura de Tehilim 73 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 73» — <https://www.youtube.com/watch?v=KsDBATpp6ls> — transcripción: `private/transcripts/ericdejes/KsDBATpp6ls.md` — source_id: `youtube:KsDBATpp6ls`.
+- «Tehilim/Himnos/Salmo Cap 73» — <https://www.youtube.com/watch?v=KsDBATpp6ls> — source_id: `youtube:KsDBATpp6ls`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -27,8 +27,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=WQq_loecKIM"
   - "https://www.youtube.com/watch?v=ePW-rAPrIAo"
-  - "private/transcripts/ericdejes/WQq_loecKIM.md"
-  - "private/transcripts/ericdejes/ePW-rAPrIAo.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:WQq_loecKIM"
@@ -99,6 +97,6 @@ Romanos 5:12–21 conduce del reinado de la muerte al reinado de la gracia. La c
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (Parte 11) Los reconciliados. Cap 5:1-11](https://www.youtube.com/watch?v=WQq_loecKIM) — transcripción de trabajo: `private/transcripts/ericdejes/WQq_loecKIM.md` (source_id: `youtube:WQq_loecKIM`).
-- [La carta a los romanos (parte 12) Cap 5:12 ss](https://www.youtube.com/watch?v=ePW-rAPrIAo) — transcripción de trabajo: `private/transcripts/ericdejes/ePW-rAPrIAo.md` (source_id: `youtube:ePW-rAPrIAo`).
+- [La carta a los romanos (Parte 11) Los reconciliados. Cap 5:1-11](https://www.youtube.com/watch?v=WQq_loecKIM) (source_id: `youtube:WQq_loecKIM`).
+- [La carta a los romanos (parte 12) Cap 5:12 ss](https://www.youtube.com/watch?v=ePW-rAPrIAo) (source_id: `youtube:ePW-rAPrIAo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

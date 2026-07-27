@@ -59,8 +59,8 @@ Rules:
 
 - YAML uses spaces only, never tabs
 - `references` holds verse tags like `#iojanan_10_11`
-- `sources` holds URLs, transcript paths, or internal docs like `docs/benhaelohim.md`
-- `source_ids` optionally holds stable source identifiers such as `youtube:VIDEO_ID`; use it for new transcript-derived notes when the source has a durable ID
+- `sources` holds public source URLs or internal public-facing docs like `docs/benhaelohim.md`; never include private local filesystem paths.
+- `source_ids` optionally holds stable source identifiers such as `youtube:VID...[truncated]
 - Optional: `translation: "[TTH, Delitzsch]"` when multiple corpora are cited
 
 ## Créditos de videos
@@ -71,13 +71,26 @@ Toda nota derivada de una clase o video debe incluir al final un encabezado `## 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Título de la clase](https://www.youtube.com/watch?v=VIDEO_ID).
-- Transcripción de trabajo: `private/transcripts/ericdejes/VIDEO_ID.md`.
+- Video: [Título de la clase](https://www.youtube.com/watch?v=VIDEO_ID) (`source_id`: `youtube:VIDEO_ID`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+  ``...[truncated]
 ```
 
 Para una nota canónica de capítulo que reúne varias clases, incluir una tabla o lista con **cada** título y URL, además del expositor acreditado una sola vez. El crédito visible complementa —no reemplaza— `sources` y `source_ids` del frontmatter.
+
 - In Spanish prose, use **Yehoshua** for the Messiah rather than the shorter form `Yeshua`, except when preserving an exact quotation or a source-language text.
+
+## Minimum substance for transcript notes
+
+A transcript-derived note must be a developed study, not a publication of a bare outline. Before it can be integrated it must:
+
+- contain at least 300 substantive prose words outside frontmatter, tables and `## Créditos`;
+- develop at least two transcript-specific thematic sections named for the passage or argument;
+- use the local Scripture corpus for the verses it discusses;
+- never use `## Lectura inicial` / `## Lectura` as the only development section;
+- never expose `private/transcripts/` paths in frontmatter, prose or credits. Cite the public video URL and stable `source_id` instead.
+
+Run `python3 scripts/check_transcript_note_quality.py <changed-note-paths>` before integration. Existing notes that fail are remediation backlog, not examples to copy.
 
 ## Section Vocabulary
 

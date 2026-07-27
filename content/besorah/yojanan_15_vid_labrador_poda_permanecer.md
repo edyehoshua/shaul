@@ -18,7 +18,6 @@ references:
   - "#iojanan_15_5"
 sources:
   - "https://www.youtube.com/watch?v=-EwRZKoqHo4"
-  - "private/transcripts/ericdejes/-EwRZKoqHo4.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:

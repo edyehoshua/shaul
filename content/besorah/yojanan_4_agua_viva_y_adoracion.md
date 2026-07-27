@@ -16,9 +16,6 @@ sources:
   - "https://www.youtube.com/watch?v=izoW2caIHWc"
   - "https://www.youtube.com/watch?v=p0hF7k-ZtRc"
   - "https://www.youtube.com/watch?v=3uZbi4E6Cvs"
-  - "private/transcripts/ericdejes/izoW2caIHWc.md"
-  - "private/transcripts/ericdejes/p0hF7k-ZtRc.md"
-  - "private/transcripts/ericdejes/3uZbi4E6Cvs.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
@@ -66,6 +63,6 @@ Yojanán 4 presenta agua viva, adoración y señales como partes de una revelaci
 
 Esta nota usa transcripciones automáticas, que pueden contener errores y no sustituyen la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por las enseñanzas usadas:
 
-- «El Evangelio según Yojanán/Juan (Parte 11) La mujer Samaritana» — https://www.youtube.com/watch?v=izoW2caIHWc — `private/transcripts/ericdejes/izoW2caIHWc.md` (`youtube:izoW2caIHWc`).
-- «El evangelio según Yojanán/Juan Parte 12: 'Elohim es Rúaj» — https://www.youtube.com/watch?v=p0hF7k-ZtRc — `private/transcripts/ericdejes/p0hF7k-ZtRc.md` (`youtube:p0hF7k-ZtRc`).
-- «El Evangelio según Yojanán (Parte 13) Los milagros y la confianza» — https://www.youtube.com/watch?v=3uZbi4E6Cvs — `private/transcripts/ericdejes/3uZbi4E6Cvs.md` (`youtube:3uZbi4E6Cvs`).
+- «El Evangelio según Yojanán/Juan (Parte 11) La mujer Samaritana» — https://www.youtube.com/watch?v=izoW2caIHWc — (`youtube:izoW2caIHWc`).
+- «El evangelio según Yojanán/Juan Parte 12: 'Elohim es Rúaj» — https://www.youtube.com/watch?v=p0hF7k-ZtRc — (`youtube:p0hF7k-ZtRc`).
+- «El Evangelio según Yojanán (Parte 13) Los milagros y la confianza» — https://www.youtube.com/watch?v=3uZbi4E6Cvs — (`youtube:3uZbi4E6Cvs`).

@@ -13,7 +13,6 @@ references:
   - "#hebrews_13_15"
 sources:
   - "https://www.youtube.com/watch?v=D8-iRb2Tyys"
-  - "private/transcripts/ericdejes/D8-iRb2Tyys.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:D8-iRb2Tyys"
@@ -44,6 +43,6 @@ Hebreos concluye llamando a una comunidad estable en amor y gratitud, identifica
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 17 - FINAL: Salgamos a él, fuera del campamento» — https://www.youtube.com/watch?v=D8-iRb2Tyys — transcripción: `private/transcripts/ericdejes/D8-iRb2Tyys.md` — source_id: `youtube:D8-iRb2Tyys`.
+- «La carta a los hebreos parte 17 - FINAL: Salgamos a él, fuera del campamento» — https://www.youtube.com/watch?v=D8-iRb2Tyys — source_id: `youtube:D8-iRb2Tyys`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

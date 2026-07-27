@@ -24,9 +24,7 @@ references:
   - "#songofsolomon_8_14"
 sources:
   - "https://www.youtube.com/watch?v=c-cPzZYvPJs"
-  - "private/transcripts/ericdejes/c-cPzZYvPJs.md"
   - "https://www.youtube.com/watch?v=pSq69Bx_xqo"
-  - "private/transcripts/ericdejes/pSq69Bx_xqo.md"
   - "docs/scriptures/oe/json/songofsolomon/8.json"
 source_ids:
   - "youtube:c-cPzZYvPJs"
@@ -68,9 +66,7 @@ Cantar 8 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 24) Cap 8» — https://www.youtube.com/watch?v=c-cPzZYvPJs
-  - Transcripción: `private/transcripts/ericdejes/c-cPzZYvPJs.md` (`source_id: youtube:c-cPzZYvPJs`).
-- «Shir hashirim (parte 25) Cap 8» — https://www.youtube.com/watch?v=pSq69Bx_xqo
-  - Transcripción: `private/transcripts/ericdejes/pSq69Bx_xqo.md` (`source_id: youtube:pSq69Bx_xqo`).
+- «Shir hashirim (parte 24) Cap 8» — https://www.youtube.com/watch?v=c-cPzZYvPJs (`source_id: youtube:c-cPzZYvPJs`).
+- «Shir hashirim (parte 25) Cap 8» — https://www.youtube.com/watch?v=pSq69Bx_xqo (`source_id: youtube:pSq69Bx_xqo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

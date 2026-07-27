@@ -9,7 +9,6 @@ references:
   - "#devarim_29_1"
 sources:
   - "https://www.youtube.com/watch?v=G-vrfaUx-dc"
-  - "private/transcripts/ericdejes/G-vrfaUx-dc.md"
   - "docs/scriptures/oe/json/deuteronomy/29.json"
 source_ids:
   - "youtube:G-vrfaUx-dc"
@@ -48,5 +47,5 @@ Devarim 29 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Nitzavim-vayéjel (2017) La Brit y la 'Alah](https://www.youtube.com/watch?v=G-vrfaUx-dc) — transcripción de trabajo: `private/transcripts/ericdejes/G-vrfaUx-dc.md` (source_id: `youtube:G-vrfaUx-dc`).
+- [Parashat Nitzavim-vayéjel (2017) La Brit y la 'Alah](https://www.youtube.com/watch?v=G-vrfaUx-dc) (source_id: `youtube:G-vrfaUx-dc`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

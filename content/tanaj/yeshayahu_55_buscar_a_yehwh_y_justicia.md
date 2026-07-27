@@ -7,7 +7,6 @@ references: ["#ieshaiahu_55_6"]
 sources:
   [
     "https://www.youtube.com/watch?v=vi9MScPZ19s",
-    "private/transcripts/ericdejes/vi9MScPZ19s.md",
     "docs/scriptures/oe/json/isaiah/55.json",
   ]
 source_ids: ["youtube:vi9MScPZ19s"]
@@ -34,5 +33,5 @@ La cercanía de יהוה impulsa retorno, justicia y abandono del camino pervers
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de vayélej 2018 - 'Asu tzdaqáh](https://www.youtube.com/watch?v=vi9MScPZ19s) — transcripción: `private/transcripts/ericdejes/vi9MScPZ19s.md` — source_id: `youtube:vi9MScPZ19s`.
+- Video: [Haftaráh de vayélej 2018 - 'Asu tzdaqáh](https://www.youtube.com/watch?v=vi9MScPZ19s) — source_id: `youtube:vi9MScPZ19s`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

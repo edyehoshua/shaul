@@ -28,7 +28,6 @@ references:
   - "#luqas_13_27"
 sources:
   - "https://www.youtube.com/watch?v=SgNMO9Yqc64"
-  - "private/transcripts/ericdejes/SgNMO9Yqc64.md"
   - "docs/scriptures/oe/json/psalms/6.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
@@ -123,5 +122,5 @@ Tehilim 6 enseña a llevar ante יהוה una condición que toca huesos, ser, l�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim/Himnos/Salmo Cap 6](https://www.youtube.com/watch?v=SgNMO9Yqc64) — transcripción: `private/transcripts/ericdejes/SgNMO9Yqc64.md` — source_id: `youtube:SgNMO9Yqc64`.
+- Video: [Tehilim/Himnos/Salmo Cap 6](https://www.youtube.com/watch?v=SgNMO9Yqc64) — source_id: `youtube:SgNMO9Yqc64`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

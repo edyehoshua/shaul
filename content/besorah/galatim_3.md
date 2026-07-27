@@ -13,8 +13,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=Wqc4npxxCPE"
   - "https://www.youtube.com/watch?v=Xl2rGFwbELE"
-  - "private/transcripts/ericdejes/Wqc4npxxCPE.md"
-  - "private/transcripts/ericdejes/Xl2rGFwbELE.md"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids: ["youtube:Wqc4npxxCPE", "youtube:Xl2rGFwbELE"]
 translation: "[Delitzsch]"
@@ -50,6 +48,6 @@ La herencia prometida llega a quienes pertenecen al Mesías, y la comunidad no p
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los gálatas Parte 6 Cap 2:15-3:11](https://www.youtube.com/watch?v=Wqc4npxxCPE) — transcripción de trabajo: `private/transcripts/ericdejes/Wqc4npxxCPE.md` (source_id: `youtube:Wqc4npxxCPE`).
-- [La carta a los gálatas. Parte 8 La bendición de 'Avraham, la promesa](https://www.youtube.com/watch?v=Xl2rGFwbELE) — transcripción de trabajo: `private/transcripts/ericdejes/Xl2rGFwbELE.md` (source_id: `youtube:Xl2rGFwbELE`).
+- [La carta a los gálatas Parte 6 Cap 2:15-3:11](https://www.youtube.com/watch?v=Wqc4npxxCPE) (source_id: `youtube:Wqc4npxxCPE`).
+- [La carta a los gálatas. Parte 8 La bendición de 'Avraham, la promesa](https://www.youtube.com/watch?v=Xl2rGFwbELE) (source_id: `youtube:Xl2rGFwbELE`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

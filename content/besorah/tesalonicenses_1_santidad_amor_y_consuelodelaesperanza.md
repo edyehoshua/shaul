@@ -13,11 +13,8 @@ references:
   - "#thessalonians1_4_1-18"
 sources:
   - "https://www.youtube.com/watch?v=1dn7WVyveSE"
-  - "private/transcripts/ericdejes/1dn7WVyveSE.md"
   - "https://www.youtube.com/watch?v=MwoAaCA0J0I"
-  - "private/transcripts/ericdejes/MwoAaCA0J0I.md"
   - "https://www.youtube.com/watch?v=qCiLHiI9X2g"
-  - "private/transcripts/ericdejes/qCiLHiI9X2g.md"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
 source_ids:
   - "youtube:1dn7WVyveSE"
@@ -78,11 +75,8 @@ La esperanza de 1 Tesalonicenses 4 es práctica y consoladora. Hace crecer en sa
 
 Esta nota organiza clases del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1Tesalonisenses (parte 7) Cap 3-4» — https://www.youtube.com/watch?v=1dn7WVyveSE
-  - Transcripción: `private/transcripts/ericdejes/1dn7WVyveSE.md` (`source_id: youtube:1dn7WVyveSE`).
-- «1 Thessalonians (Part 8) Ch. 4» — https://www.youtube.com/watch?v=MwoAaCA0J0I
-  - Transcripción: `private/transcripts/ericdejes/MwoAaCA0J0I.md` (`source_id: youtube:MwoAaCA0J0I`).
-- «1Tesalonisenses (parte 9) Cap 4» — https://www.youtube.com/watch?v=qCiLHiI9X2g
-  - Transcripción: `private/transcripts/ericdejes/qCiLHiI9X2g.md` (`source_id: youtube:qCiLHiI9X2g`).
+- «1Tesalonisenses (parte 7) Cap 3-4» — https://www.youtube.com/watch?v=1dn7WVyveSE (`source_id: youtube:1dn7WVyveSE`).
+- «1 Thessalonians (Part 8) Ch. 4» — https://www.youtube.com/watch?v=MwoAaCA0J0I (`source_id: youtube:MwoAaCA0J0I`).
+- «1Tesalonisenses (parte 9) Cap 4» — https://www.youtube.com/watch?v=qCiLHiI9X2g (`source_id: youtube:qCiLHiI9X2g`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

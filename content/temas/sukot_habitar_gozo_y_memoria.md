@@ -16,12 +16,6 @@ sources:
   - "https://www.youtube.com/watch?v=oZQuUZei82E"
   - "https://www.youtube.com/watch?v=gwepMXjk8So"
   - "https://www.youtube.com/watch?v=cBu5K15TJAg"
-  - "private/transcripts/ericdejes/mZGpW3lwf4Y.md"
-  - "private/transcripts/ericdejes/xwuvQhEMMDo.md"
-  - "private/transcripts/ericdejes/ee9P_IfRXhs.md"
-  - "private/transcripts/ericdejes/oZQuUZei82E.md"
-  - "private/transcripts/ericdejes/gwepMXjk8So.md"
-  - "private/transcripts/ericdejes/cBu5K15TJAg.md"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
 source_ids:
@@ -65,10 +59,10 @@ El mandato dirige la mirada hacia la vulnerabilidad de la salida y hacia la prov
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Conversatorio de Sukot (2017) - 5778](https://www.youtube.com/watch?v=mZGpW3lwf4Y) — `private/transcripts/ericdejes/mZGpW3lwf4Y.md` (source_id: `youtube:mZGpW3lwf4Y`).
-- [Especial Sukot 2019](https://www.youtube.com/watch?v=xwuvQhEMMDo) — `private/transcripts/ericdejes/xwuvQhEMMDo.md` (source_id: `youtube:xwuvQhEMMDo`).
-- [Inicio de Sukot 5785](https://www.youtube.com/watch?v=ee9P_IfRXhs) — `private/transcripts/ericdejes/ee9P_IfRXhs.md` (source_id: `youtube:ee9P_IfRXhs`).
-- [Jag hasukot 5781-2020](https://www.youtube.com/watch?v=oZQuUZei82E) — `private/transcripts/ericdejes/oZQuUZei82E.md` (source_id: `youtube:oZQuUZei82E`).
-- [Studying Sukkot - Feast of Tabernacles/Booths Part 1](https://www.youtube.com/watch?v=gwepMXjk8So) — `private/transcripts/ericdejes/gwepMXjk8So.md` (source_id: `youtube:gwepMXjk8So`).
-- [Sukkot Message 5783-2022](https://www.youtube.com/watch?v=cBu5K15TJAg) — `private/transcripts/ericdejes/cBu5K15TJAg.md` (source_id: `youtube:cBu5K15TJAg`).
+- [Conversatorio de Sukot (2017) - 5778](https://www.youtube.com/watch?v=mZGpW3lwf4Y) — (source_id: `youtube:mZGpW3lwf4Y`).
+- [Especial Sukot 2019](https://www.youtube.com/watch?v=xwuvQhEMMDo) — (source_id: `youtube:xwuvQhEMMDo`).
+- [Inicio de Sukot 5785](https://www.youtube.com/watch?v=ee9P_IfRXhs) — (source_id: `youtube:ee9P_IfRXhs`).
+- [Jag hasukot 5781-2020](https://www.youtube.com/watch?v=oZQuUZei82E) — (source_id: `youtube:oZQuUZei82E`).
+- [Studying Sukkot - Feast of Tabernacles/Booths Part 1](https://www.youtube.com/watch?v=gwepMXjk8So) — (source_id: `youtube:gwepMXjk8So`).
+- [Sukkot Message 5783-2022](https://www.youtube.com/watch?v=cBu5K15TJAg) — (source_id: `youtube:cBu5K15TJAg`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
