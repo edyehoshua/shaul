@@ -19,12 +19,21 @@ references:
   - "#isaiah_57_13"
   - "#isaiah_57_15"
 sources:
+  - "https://www.youtube.com/watch?v=6voDFwXe9Dw"
+  - "https://www.youtube.com/watch?v=fObsI0RvZSE"
+  - "https://www.youtube.com/watch?v=GQQrB5MSS4o"
+  - "https://www.youtube.com/watch?v=SugEfRdizV0"
+  - "https://www.youtube.com/watch?v=eS1sNu6UGgM"
   - "https://www.youtube.com/watch?v=i9dp89maw_k"
   - "https://www.youtube.com/watch?v=FPRxmoA5zbk"
   - "https://www.youtube.com/watch?v=SbhuHE8vdTw"
   - "https://www.youtube.com/watch?v=AkhCbOH1Uhg"
   - "https://www.youtube.com/watch?v=tA0E-CpFm8M"
-
+  - "private/transcripts/ericdejes/6voDFwXe9Dw.md"
+  - "private/transcripts/ericdejes/fObsI0RvZSE.md"
+  - "private/transcripts/ericdejes/GQQrB5MSS4o.md"
+  - "private/transcripts/ericdejes/SugEfRdizV0.md"
+  - "private/transcripts/ericdejes/eS1sNu6UGgM.md"
   - "private/transcripts/ericdejes/i9dp89maw_k.md"
   - "private/transcripts/ericdejes/FPRxmoA5zbk.md"
   - "private/transcripts/ericdejes/SbhuHE8vdTw.md"
@@ -37,6 +46,11 @@ sources:
   - "docs/scriptures/oe/json/numbers/29.json"
   - "docs/scriptures/oe/json/isaiah/57.json"
 source_ids:
+  - "youtube:6voDFwXe9Dw"
+  - "youtube:fObsI0RvZSE"
+  - "youtube:GQQrB5MSS4o"
+  - "youtube:SugEfRdizV0"
+  - "youtube:eS1sNu6UGgM"
   - "youtube:i9dp89maw_k"
   - "youtube:FPRxmoA5zbk"
   - "youtube:SbhuHE8vdTw"
@@ -51,7 +65,7 @@ Yom haKippurim es llamado un día de convocación santa en el que Israel debe hu
 
 ## Alcance de la nota
 
-Los cinco videos reunidos incluyen reflexiones contemporáneas, una haftará y preguntas sobre Yom haKippurim, la humillación y el sistema levítico. Las sesiones de 5780, 5781 y las tres añadidas vuelven a #leviticus_23_26-32 y #leviticus_16; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
+Los diez videos reunidos incluyen introducciones, reflexiones contemporáneas, una haftará y preguntas sobre Yom haKippurim, la humillación y el sistema levítico. Las sesiones de 5780, 5781 y las tres añadidas vuelven a #leviticus_23_26-32 y #leviticus_16; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
 
 ## Hoja de comparación
 
@@ -103,7 +117,11 @@ Yom haKippurim pone a la comunidad ante la santidad y la misericordia de יהו�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-
+- [Pre-Yom HaKippurim 2019 Discussion (Part 1)](https://www.youtube.com/watch?v=6voDFwXe9Dw) — transcripción de trabajo: `private/transcripts/ericdejes/6voDFwXe9Dw.md` (source_id: `youtube:6voDFwXe9Dw`).
+- [Shabbat - Zaragoza 5782](https://www.youtube.com/watch?v=fObsI0RvZSE) — transcripción de trabajo: `private/transcripts/ericdejes/fObsI0RvZSE.md` (source_id: `youtube:fObsI0RvZSE`).
+- [Yom hakipurim 5786 -2025](https://www.youtube.com/watch?v=GQQrB5MSS4o) — transcripción de trabajo: `private/transcripts/ericdejes/GQQrB5MSS4o.md` (source_id: `youtube:GQQrB5MSS4o`).
+- [Yom Kippur 5785/2024 Yom Kippur 5785](https://www.youtube.com/watch?v=SugEfRdizV0) — transcripción de trabajo: `private/transcripts/ericdejes/SugEfRdizV0.md` (source_id: `youtube:SugEfRdizV0`).
+- [Yoma' - yom hakipurim](https://www.youtube.com/watch?v=eS1sNu6UGgM) — transcripción de trabajo: `private/transcripts/ericdejes/eS1sNu6UGgM.md` (source_id: `youtube:eS1sNu6UGgM`).
 - [Yom hakipurim 5780](https://www.youtube.com/watch?v=i9dp89maw_k) — transcripción de trabajo: `private/transcripts/ericdejes/i9dp89maw_k.md` (source_id: `youtube:i9dp89maw_k`).
 - [Yom Hakipurim 5781-2020](https://www.youtube.com/watch?v=FPRxmoA5zbk) — transcripción de trabajo: `private/transcripts/ericdejes/FPRxmoA5zbk.md` (source_id: `youtube:FPRxmoA5zbk`).
 - [Haftarah of Yom HaKippurim (2017) Hashem our refuge](https://www.youtube.com/watch?v=SbhuHE8vdTw) — transcripción de trabajo: `private/transcripts/ericdejes/SbhuHE8vdTw.md` (source_id: `youtube:SbhuHE8vdTw`).
