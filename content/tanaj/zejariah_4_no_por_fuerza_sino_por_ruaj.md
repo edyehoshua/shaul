@@ -7,6 +7,7 @@ references: ["#zejariah_4_6"]
 sources:
   [
     "https://www.youtube.com/watch?v=ZnhjepUvi-I",
+    "private/transcripts/ericdejes/ZnhjepUvi-I.md",
     "docs/scriptures/oe/json/zechariah/4.json",
   ]
 source_ids: ["youtube:ZnhjepUvi-I"]
@@ -33,5 +34,5 @@ La promesa corrige toda pretensión de producir por poder humano aquello que cor
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Beha'alotjá: Yehoshúa' = Yeshúa', hatzémaj](https://www.youtube.com/watch?v=ZnhjepUvi-I) — source_id: `youtube:ZnhjepUvi-I`.
+- Video: [Haftaráh de Beha'alotjá: Yehoshúa' = Yeshúa', hatzémaj](https://www.youtube.com/watch?v=ZnhjepUvi-I) — transcripción: `private/transcripts/ericdejes/ZnhjepUvi-I.md` — source_id: `youtube:ZnhjepUvi-I`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

@@ -7,6 +7,7 @@ references: ["#micah_6_8"]
 sources:
   [
     "https://www.youtube.com/watch?v=W7YQMoZZLWc",
+    "private/transcripts/ericdejes/W7YQMoZZLWc.md",
     "docs/scriptures/oe/json/micah/6.json",
   ]
 source_ids: ["youtube:W7YQMoZZLWc"]
@@ -33,5 +34,5 @@ Miqueas concentra la obediencia en una vida relacional y concreta, lejos de la a
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Balaq: Miembros de su carne y de sus huesos](https://www.youtube.com/watch?v=W7YQMoZZLWc) — source_id: `youtube:W7YQMoZZLWc`.
+- Video: [Haftaráh de Balaq: Miembros de su carne y de sus huesos](https://www.youtube.com/watch?v=W7YQMoZZLWc) — transcripción: `private/transcripts/ericdejes/W7YQMoZZLWc.md` — source_id: `youtube:W7YQMoZZLWc`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

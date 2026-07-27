@@ -7,6 +7,7 @@ references: ["#iejoshua_1_8"]
 sources:
   [
     "https://www.youtube.com/watch?v=a5vFxYJGFFo",
+    "private/transcripts/ericdejes/a5vFxYJGFFo.md",
     "docs/scriptures/oe/json/joshua/1.json",
   ]
 source_ids: ["youtube:a5vFxYJGFFo"]
@@ -33,5 +34,5 @@ La fortaleza de Josué no es autonomía: depende de la presencia de יהוה y d
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Vezo't habrajáh y Jatan bre'shit (2018): La eternidad de la Torah](https://www.youtube.com/watch?v=a5vFxYJGFFo) — source_id: `youtube:a5vFxYJGFFo`.
+- Video: [Haftaráh de Vezo't habrajáh y Jatan bre'shit (2018): La eternidad de la Torah](https://www.youtube.com/watch?v=a5vFxYJGFFo) — transcripción: `private/transcripts/ericdejes/a5vFxYJGFFo.md` — source_id: `youtube:a5vFxYJGFFo`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

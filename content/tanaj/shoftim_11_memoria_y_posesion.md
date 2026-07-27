@@ -7,6 +7,7 @@ references: ["#shoftim_11_24"]
 sources:
   [
     "https://www.youtube.com/watch?v=aS47zjh67Kw",
+    "private/transcripts/ericdejes/aS47zjh67Kw.md",
     "docs/scriptures/oe/json/judges/11.json",
   ]
 source_ids: ["youtube:aS47zjh67Kw"]
@@ -33,5 +34,5 @@ El capítulo combina memoria, conflicto y dependencia de יהוה, y por eso res
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Juqat (2018): YHWH el juez de Yisra'el.](https://www.youtube.com/watch?v=aS47zjh67Kw) — source_id: `youtube:aS47zjh67Kw`.
+- Video: [Haftaráh de Juqat (2018): YHWH el juez de Yisra'el.](https://www.youtube.com/watch?v=aS47zjh67Kw) — transcripción: `private/transcripts/ericdejes/aS47zjh67Kw.md` — source_id: `youtube:aS47zjh67Kw`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

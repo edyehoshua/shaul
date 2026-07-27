@@ -7,6 +7,7 @@ references: ["#iejoshua_2_11"]
 sources:
   [
     "https://www.youtube.com/watch?v=M8iCPw4MVO4",
+    "private/transcripts/ericdejes/M8iCPw4MVO4.md",
     "docs/scriptures/oe/json/joshua/2.json",
   ]
 source_ids: ["youtube:M8iCPw4MVO4"]
@@ -33,5 +34,5 @@ El relato muestra que el reconocimiento de יהוה irrumpe incluso fuera de Isr
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Shláj lejá (2018) - Leshem yijud](https://www.youtube.com/watch?v=M8iCPw4MVO4) — source_id: `youtube:M8iCPw4MVO4`.
+- Video: [Haftaráh de Shláj lejá (2018) - Leshem yijud](https://www.youtube.com/watch?v=M8iCPw4MVO4) — transcripción: `private/transcripts/ericdejes/M8iCPw4MVO4.md` — source_id: `youtube:M8iCPw4MVO4`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

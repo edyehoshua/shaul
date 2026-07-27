@@ -7,6 +7,7 @@ references: ["#ieshaiahu_51_12"]
 sources:
   [
     "https://www.youtube.com/watch?v=u0xlyaA5Jb4",
+    "private/transcripts/ericdejes/u0xlyaA5Jb4.md",
     "docs/scriptures/oe/json/isaiah/51.json",
   ]
 source_ids: ["youtube:u0xlyaA5Jb4"]
@@ -33,5 +34,5 @@ El temor se reordena cuando el pueblo recuerda al Consolador, יהוה.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Shoftim (2018) ¿Quién eres tú?](https://www.youtube.com/watch?v=u0xlyaA5Jb4) — source_id: `youtube:u0xlyaA5Jb4`.
+- Video: [Haftaráh de Shoftim (2018) ¿Quién eres tú?](https://www.youtube.com/watch?v=u0xlyaA5Jb4) — transcripción: `private/transcripts/ericdejes/u0xlyaA5Jb4.md` — source_id: `youtube:u0xlyaA5Jb4`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

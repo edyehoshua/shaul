@@ -6,6 +6,7 @@ tags: [tanaj, yirmeyahu, haftarah, tzav]
 references: ["#irmeiahu_7_21", "#irmeiahu_8_3", "#irmeiahu_9_22"]
 sources:
   - "https://www.youtube.com/watch?v=y05csJK_op8"
+  - "private/transcripts/ericdejes/y05csJK_op8.md"
   - "docs/scriptures/oe/json/jeremiah/7.json"
 source_ids: ["youtube:y05csJK_op8"]
 ---
@@ -40,5 +41,5 @@ La advertencia preserva una distinción necesaria: el servicio exterior no susti
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de Tzav (Jer 7:21-8:3+9:22-23)](https://www.youtube.com/watch?v=y05csJK_op8) — source_id: `youtube:y05csJK_op8`.
+- Video: [Haftarah de Tzav (Jer 7:21-8:3+9:22-23)](https://www.youtube.com/watch?v=y05csJK_op8) — transcripción: `private/transcripts/ericdejes/y05csJK_op8.md` — source_id: `youtube:y05csJK_op8`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

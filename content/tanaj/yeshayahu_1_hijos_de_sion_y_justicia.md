@@ -7,6 +7,7 @@ references: ["#ieshaiahu_1_17"]
 sources:
   [
     "https://www.youtube.com/watch?v=7mwpoXK-GO4",
+    "private/transcripts/ericdejes/7mwpoXK-GO4.md",
     "docs/scriptures/oe/json/isaiah/1.json",
   ]
 source_ids: ["youtube:7mwpoXK-GO4"]
@@ -33,5 +34,5 @@ La pertenencia a Sion se examina en una vida que responde a la corrección de י
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah of Dvarim (2018) The Children of Zion](https://www.youtube.com/watch?v=7mwpoXK-GO4) — source_id: `youtube:7mwpoXK-GO4`.
+- Video: [Haftarah of Dvarim (2018) The Children of Zion](https://www.youtube.com/watch?v=7mwpoXK-GO4) — transcripción: `private/transcripts/ericdejes/7mwpoXK-GO4.md` — source_id: `youtube:7mwpoXK-GO4`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

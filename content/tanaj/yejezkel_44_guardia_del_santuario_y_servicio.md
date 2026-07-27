@@ -6,6 +6,7 @@ tags: [tanaj, yejezkel, haftarah, emor]
 references: ["#iejezkel_44_15"]
 sources:
   - "https://www.youtube.com/watch?v=DCF5IDBzHtE"
+  - "private/transcripts/ericdejes/DCF5IDBzHtE.md"
   - "docs/scriptures/oe/json/ezekiel/44.json"
 source_ids: ["youtube:DCF5IDBzHtE"]
 ---
@@ -35,5 +36,5 @@ El capítulo concentra la pregunta del servicio en la fidelidad: guardar el enca
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [haftaráh de 'Emor (2018) El Kavod del Dios de Yisra'el](https://www.youtube.com/watch?v=DCF5IDBzHtE) — source_id: `youtube:DCF5IDBzHtE`.
+- Video: [haftaráh de 'Emor (2018) El Kavod del Dios de Yisra'el](https://www.youtube.com/watch?v=DCF5IDBzHtE) — transcripción: `private/transcripts/ericdejes/DCF5IDBzHtE.md` — source_id: `youtube:DCF5IDBzHtE`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

@@ -7,6 +7,7 @@ references: ["#shemuel_alef_12_20"]
 sources:
   [
     "https://www.youtube.com/watch?v=O1L2jwVLU-M",
+    "private/transcripts/ericdejes/O1L2jwVLU-M.md",
     "docs/scriptures/oe/json/raw/1samuel.json",
   ]
 source_ids: ["youtube:O1L2jwVLU-M"]
@@ -33,5 +34,5 @@ El capítulo sostiene juntos responsabilidad, temor y posibilidad de no apartars
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Qóraj (2018) Las justicias de Hashem](https://www.youtube.com/watch?v=O1L2jwVLU-M) — source_id: `youtube:O1L2jwVLU-M`.
+- Video: [Haftaráh de Qóraj (2018) Las justicias de Hashem](https://www.youtube.com/watch?v=O1L2jwVLU-M) — transcripción: `private/transcripts/ericdejes/O1L2jwVLU-M.md` — source_id: `youtube:O1L2jwVLU-M`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.
