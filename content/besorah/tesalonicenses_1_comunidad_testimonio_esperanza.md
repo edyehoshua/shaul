@@ -14,11 +14,16 @@ references:
   - "#thessalonians1_1_1-10"
   - "#jeremiah_10_10"
 sources:
+  - "https://www.youtube.com/watch?v=beazM0ECRtk"
+  - "private/transcripts/ericdejes/beazM0ECRtk.md"
   - "https://www.youtube.com/watch?v=OpTB8G_M7fA"
+  - "private/transcripts/ericdejes/OpTB8G_M7fA.md"
   - "https://www.youtube.com/watch?v=ZqaU13rHCGc"
+  - "private/transcripts/ericdejes/ZqaU13rHCGc.md"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
   - "docs/scriptures/oe/json/jeremiah/10.json"
 source_ids:
+  - "youtube:beazM0ECRtk"
   - "youtube:OpTB8G_M7fA"
   - "youtube:ZqaU13rHCGc"
 translation: "[Delitzsch, OE]"
@@ -114,3 +119,16 @@ La clase relaciona la palabra “esperar” con una descomposición del griego y
 - [[romanim_10|Romanos 10]]
 - [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
 - [[yojanan_1_testigo_cordero|Yojanán 1: el testigo que presenta al Cordero]]
+
+## Créditos
+
+Esta nota organiza clases del **hermano Eric de Jesús Rodríguez Mendoza**.
+
+- «1Tesalonicenses (parte 1) Intro» — https://www.youtube.com/watch?v=beazM0ECRtk
+  - Transcripción: `private/transcripts/ericdejes/beazM0ECRtk.md` (`source_id: youtube:beazM0ECRtk`).
+- «1Tesalonisenses (parte 1) cap 1» — https://www.youtube.com/watch?v=OpTB8G_M7fA
+  - Transcripción: `private/transcripts/ericdejes/OpTB8G_M7fA.md` (`source_id: youtube:OpTB8G_M7fA`).
+- «1 Thessalonians (Part 2) Chapter 1» — https://www.youtube.com/watch?v=ZqaU13rHCGc
+  - Transcripción: `private/transcripts/ericdejes/ZqaU13rHCGc.md` (`source_id: youtube:ZqaU13rHCGc`).
+
+Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
