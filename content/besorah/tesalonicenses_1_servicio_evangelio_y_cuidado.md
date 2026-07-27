@@ -24,10 +24,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=UxkaMT2QPMA"
   - "private/transcripts/ericdejes/UxkaMT2QPMA.md"
-  - "https://www.youtube.com/watch?v=-tHCu0DF0EY"
-  - "private/transcripts/ericdejes/-tHCu0DF0EY.md"
-  - "https://www.youtube.com/watch?v=QIzcsJoC96A"
-  - "private/transcripts/ericdejes/QIzcsJoC96A.md"
   - "docs/scriptures/delitzsch/json/thessalonians1.json"
   - "docs/scriptures/oe/json/psalms/131.json"
   - "docs/scriptures/oe/json/jeremiah/12.json"
@@ -35,8 +31,6 @@ sources:
   - "docs/scriptures/delitzsch/json/peter1.json"
 source_ids:
   - "youtube:UxkaMT2QPMA"
-  - "youtube:-tHCu0DF0EY"
-  - "youtube:QIzcsJoC96A"
 translation: "[Delitzsch, OE]"
 ---
 
@@ -87,16 +81,6 @@ El giro de #thessalonians1_2_7 es decisivo: después de mencionar la posibilidad
 
 La clase comenta el término griego que suele traducirse «nodriza» y lo conecta con la madre que alimenta, así como con #psalms_131_2 (00:58:10–01:02:34). La imagen de cuidado está claramente en el versículo y el salmo ofrece un paralelo sugerente de sosiego junto a la madre. La derivación etimológica precisa y las afirmaciones sobre procesos fisiológicos no son necesarias para establecer el sentido principal del pasaje y quedan fuera de la conclusión textual inmediata.
 
-## Compartir la vida y recibir la palabra
-
-Las partes 4 y 5 completan el capítulo. En #thessalonians1_2_8-12 Pablo une afecto, trabajo y exhortación: no solo quiso compartir la buena noticia, sino también su propia vida; recuerda que trabajó para no ser carga y que animó a cada uno como un padre a sus hijos. La ternura de #thessalonians1_2_7 no es pasividad; el mismo pasaje llama a andar de manera digna de Elohim, quien llama a su reino y gloria.
-
-En #thessalonians1_2_13-16 la comunidad recibe la palabra no como palabra humana, sino como palabra de Elohim que obra en los creyentes; su padecimiento se compara con el de las asambleas de Judea. La exposición propone aplicaciones históricas y polémicas más amplias. Aquí se conserva la afirmación textual: Pablo consuela a una comunidad que recibe la palabra y padece por causa de ella, sin convertir ese pasaje en una acusación colectiva contra pueblos o grupos.
-
-## Pendiente de verificar
-
-- [ ] Cotejar las explicaciones históricas de las partes 4 y 5 sobre oposición, autoridades y grupos del siglo I antes de tratarlas como reconstrucción establecida.
-
 ## Pendiente de verificar
 
 - [ ] Cotejar los términos griegos de #thessalonians1_2_3-4 antes de adoptar como definitivas las glosas de la clase para «consolación», «error», «impureza», «engaño» o el examen del corazón.
@@ -119,9 +103,5 @@ Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rod
 
 - «1Tesalonisenses (parte 3) Cap 2» — https://www.youtube.com/watch?v=UxkaMT2QPMA
   - Transcripción: `private/transcripts/ericdejes/UxkaMT2QPMA.md` (`source_id: youtube:UxkaMT2QPMA`).
-- «1 Tesalonisenses (parte 4) Cap 2 “EL EVANGELIO DE DIOS”» — https://www.youtube.com/watch?v=-tHCu0DF0EY
-  - Transcripción: `private/transcripts/ericdejes/-tHCu0DF0EY.md` (`source_id: youtube:-tHCu0DF0EY`).
-- «1 Tesalonisenses (parte 5) Cap 2: Las asambleas de Dios» — https://www.youtube.com/watch?v=QIzcsJoC96A
-  - Transcripción: `private/transcripts/ericdejes/QIzcsJoC96A.md` (`source_id: youtube:QIzcsJoC96A`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
