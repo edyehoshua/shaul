@@ -4,11 +4,7 @@ description: "Nota canónica de Galatim 4: de esclavos a hijos, la promesa y la 
 date: 2026-07-27
 tags: [galatim, libertad, filiacion, promesa, yehoshua]
 references:
-  - "#galatians_4_4"
-  - "#galatians_4_6"
-  - "#galatians_4_7"
-  - "#galatians_4_19"
-  - "#galatians_4_28"
+  ["#galatians_4_4", "#galatians_4_6", "#galatians_4_7", "#galatians_4_19", "#galatians_4_28"]
 sources:
   - "https://www.youtube.com/watch?v=9gyBskCmlPE"
   - "private/transcripts/ericdejes/9gyBskCmlPE.md"
