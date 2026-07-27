@@ -74,6 +74,32 @@ sources: []
             with self.assertRaisesRegex(indexer.FrontmatterError, "invalid descending verse range"):
                 indexer.build_index(content)
 
+    def test_accepts_prettier_wrapped_flow_list(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            content = Path(temp) / "content"
+            self.write_note(
+                content,
+                """---
+title: "Flow list"
+references: ["#iojanan_1_1"]
+sources:
+  [
+    "https://www.youtube.com/watch?v=abc123",
+    "private/transcripts/ericdejes/abc123.md",
+  ]
+---
+""",
+            )
+
+            verse_index, _ = indexer.build_index(content)
+            self.assertEqual(
+                verse_index["#iojanan_1_1"]["notes"][0]["sources"],
+                [
+                    "https://www.youtube.com/watch?v=abc123",
+                    "private/transcripts/ericdejes/abc123.md",
+                ],
+            )
+
 
 if __name__ == "__main__":
     unittest.main()
