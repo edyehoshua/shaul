@@ -4,14 +4,12 @@ description: "Nota canónica de Galatim 5: libertad en el Mesías, amor que sirv
 date: 2026-07-27
 tags: [galatim, libertad, amor, ruaj, yehoshua]
 references:
-  [
-    "#galatians_5_1",
-    "#galatians_5_6",
-    "#galatians_5_13",
-    "#galatians_5_16",
-    "#galatians_5_22",
-    "#galatians_5_25",
-  ]
+  - "#galatians_5_1"
+  - "#galatians_5_6"
+  - "#galatians_5_13"
+  - "#galatians_5_16"
+  - "#galatians_5_22"
+  - "#galatians_5_25"
 sources:
   - "https://www.youtube.com/watch?v=WCfJkyKBeWw"
   - "https://www.youtube.com/watch?v=0yhPqlnq-zM"

@@ -4,14 +4,12 @@ description: "Nota can√≥nica de Galatim 3: la promesa a Abraham, la justificaci√
 date: 2026-07-27
 tags: [galatim, abraham, promesa, fidelidad, yehoshua]
 references:
-  [
-    "#galatians_3_8",
-    "#galatians_3_13",
-    "#galatians_3_14",
-    "#galatians_3_24",
-    "#galatians_3_28",
-    "#galatians_3_29",
-  ]
+  - "#galatians_3_8"
+  - "#galatians_3_13"
+  - "#galatians_3_14"
+  - "#galatians_3_24"
+  - "#galatians_3_28"
+  - "#galatians_3_29"
 sources:
   - "https://www.youtube.com/watch?v=Wqc4npxxCPE"
   - "https://www.youtube.com/watch?v=Xl2rGFwbELE"
