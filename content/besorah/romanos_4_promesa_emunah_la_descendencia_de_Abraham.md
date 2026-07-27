@@ -14,10 +14,13 @@ sources:
   - "private/transcripts/ericdejes/T5Gz07-mSLw.md"
   - "https://www.youtube.com/watch?v=FLwENs5WWjM"
   - "private/transcripts/ericdejes/FLwENs5WWjM.md"
+  - "https://www.youtube.com/watch?v=4VV_1Q4eDMU"
+  - "private/transcripts/ericdejes/4VV_1Q4eDMU.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:T5Gz07-mSLw"
   - "youtube:FLwENs5WWjM"
+  - "youtube:4VV_1Q4eDMU"
 translation: "[Delitzsch]"
 ---
 
@@ -37,7 +40,9 @@ Esta es la nota canónica para Romanos 4. Reúne las sesiones locales de la seri
 
 ## Lectura del capítulo
 
-El pasaje articula una afirmación teológica con una dirección práctica para quienes oyen la buena noticia. Por ello, una lectura responsable atiende a los conectores, a los interlocutores y al lugar de Romanos 4 en el argumento de Pablo, antes de convertir una expresión aislada en un sistema completo.
+Pablo pregunta cuándo fue contada la emunah de Abraham como justicia: no cuando ya estaba circuncidado, sino mientras era incircunciso (#romanos_4_9-10). Después llama a la circuncisión «señal» y «sello» de esa justicia de la emunah (#romanos_4_11). La secuencia del argumento impide convertir la señal en la causa de la promesa; tampoco permite usar la promesa para negar que Abraham caminó en la emunah que había recibido (#romanos_4_12).
+
+La parte 9 retoma precisamente #romanos_4_9-12 y enfatiza que la iniciativa de Elohim antecede todo mérito humano. Esa observación sigue el orden de Pablo: Abraham no puede invocar una obra previa como base de la promesa. La explicación de la clase sobre el alcance del pacto y sobre la circuncisión debe mantenerse bajo examen textual: Romanos llama a la circuncisión señal y sello, y el sentido completo de esas expresiones debe leerse junto con Bereshit y el resto del capítulo.
 
 Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la comunidad. Sus conexiones con otros libros, sus explicaciones de vocabulario hebreo o griego y sus conclusiones históricas pueden ser útiles como preguntas de estudio, pero deben cotejarse con el contexto inmediato, el texto de las Escrituras y fuentes trazables.
 
@@ -67,4 +72,5 @@ Romanos 4 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [La carta a los romanos (Parte 8). Justificados por gracia por la fidelidad de YHWH-Yehoshúa'](https://www.youtube.com/watch?v=T5Gz07-mSLw) — transcripción de trabajo: `private/transcripts/ericdejes/T5Gz07-mSLw.md` (source_id: `youtube:T5Gz07-mSLw`).
 - [La carta a los romanos (Parte 10). Fortalecidos por la fidelidad](https://www.youtube.com/watch?v=FLwENs5WWjM) — transcripción de trabajo: `private/transcripts/ericdejes/FLwENs5WWjM.md` (source_id: `youtube:FLwENs5WWjM`).
+- [La carta a los ro manos (parte 9). Su fidelidad antes que nuestra obediencia](https://www.youtube.com/watch?v=4VV_1Q4eDMU) — transcripción de trabajo: `private/transcripts/ericdejes/4VV_1Q4eDMU.md` (source_id: `youtube:4VV_1Q4eDMU`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -16,11 +16,14 @@ sources:
   - "private/transcripts/ericdejes/zfAGyn3rUH4.md"
   - "https://www.youtube.com/watch?v=aOyF_rz6WX8"
   - "private/transcripts/ericdejes/aOyF_rz6WX8.md"
+  - "https://www.youtube.com/watch?v=d1CMdv_KMLY"
+  - "private/transcripts/ericdejes/d1CMdv_KMLY.md"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:9RtvJSFxMyA"
   - "youtube:zfAGyn3rUH4"
   - "youtube:aOyF_rz6WX8"
+  - "youtube:d1CMdv_KMLY"
 translation: "[Delitzsch]"
 ---
 
@@ -40,7 +43,9 @@ Esta es la nota canónica para Romanos 8. Reúne las sesiones locales de la seri
 
 ## Lectura del capítulo
 
-El pasaje articula una afirmación teológica con una dirección práctica para quienes oyen la buena noticia. Por ello, una lectura responsable atiende a los conectores, a los interlocutores y al lugar de Romanos 8 en el argumento de Pablo, antes de convertir una expresión aislada en un sistema completo.
+La esperanza del capítulo no es una frase aislada. #romanos_8_28 habla de quienes aman a Elohim y son llamados conforme a su propósito; #romanos_8_29-30 continúa con el propósito de ser conformados a la imagen de su Hijo. El lenguaje de conocer de antemano, destinar, llamar, justificar y glorificar pertenece a esta cadena argumental, por lo que no debe resolverse mediante un eslogan sobre el destino individual.
+
+La parte 20 concentra su lectura en #romanos_8_28-30, discute una variante textual y propone matices para el verbo griego asociado con «obrar juntamente». Es útil como invitación a revisar los testigos y el texto griego, pero esta nota no adopta su explicación como conclusión filológica. El pasaje sí ofrece consuelo a quienes aman a Elohim y orienta ese bien hacia la conformidad con el Hijo; no autoriza a llamar bueno a todo acto humano ni a trivializar el sufrimiento.
 
 Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la comunidad. Sus conexiones con otros libros, sus explicaciones de vocabulario hebreo o griego y sus conclusiones históricas pueden ser útiles como preguntas de estudio, pero deben cotejarse con el contexto inmediato, el texto de las Escrituras y fuentes trazables.
 
@@ -71,4 +76,5 @@ Romanos 8 invita a escuchar el argumento de Pablo como una unidad: la obra de El
 - [La carta a los romanos (parte 18): El \"espíritu\" de Dios y el \"espíritu\" del hombre](https://www.youtube.com/watch?v=9RtvJSFxMyA) — transcripción de trabajo: `private/transcripts/ericdejes/9RtvJSFxMyA.md` (source_id: `youtube:9RtvJSFxMyA`).
 - [La carta a los romanos (parte 19): Dios nos anhela celosamente](https://www.youtube.com/watch?v=zfAGyn3rUH4) — transcripción de trabajo: `private/transcripts/ericdejes/zfAGyn3rUH4.md` (source_id: `youtube:zfAGyn3rUH4`).
 - [La carta a los romanos (parte 21): El amor de Dios y los hijos de Dios](https://www.youtube.com/watch?v=aOyF_rz6WX8) — transcripción de trabajo: `private/transcripts/ericdejes/aOyF_rz6WX8.md` (source_id: `youtube:aOyF_rz6WX8`).
+- [The Letter to the Romans (Part 20): Foreknown? Predestined?](https://www.youtube.com/watch?v=d1CMdv_KMLY) — transcripción de trabajo: `private/transcripts/ericdejes/d1CMdv_KMLY.md` (source_id: `youtube:d1CMdv_KMLY`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
