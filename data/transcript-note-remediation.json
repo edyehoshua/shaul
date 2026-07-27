@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-27",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 226,
+  "total_notes_requiring_remediation": 225,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md",
@@ -238,12 +238,7 @@
       "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
       "issues": ["under_300_substantive_words"]
     },
-    {
-      "path": "content/besorah/romanos_7_Tora_pecado_la_necesidad_de_liberacion.md",
-      "substantive_words": 253,
-      "thematic_sections": ["Lectura del capítulo", "Conexiones principales"],
-      "issues": ["under_300_substantive_words"]
-    },
+
     {
       "path": "content/besorah/romanos_9_dolor_por_Israel_promesa_misericordia.md",
       "substantive_words": 254,

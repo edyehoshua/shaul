@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 708,
-  "pending_videos": 250,
-  "transcript_notes": 316,
+  "covered_videos": 711,
+  "pending_videos": 247,
+  "transcript_notes": 317,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -113,7 +113,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 4,
+      "covered": 6,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
@@ -123,7 +123,7 @@
     },
     "Romanos": {
       "total": 35,
-      "covered": 30,
+      "covered": 31,
       "lane": "colosenses"
     },
     "Shavu’ot": {

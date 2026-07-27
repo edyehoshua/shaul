@@ -70,6 +70,14 @@ El cierre devuelve la mirada a la revelación: Israel ha visto que יהוה habl
 
 Finalmente, el altar de tierra o de piedras no labradas (#shemot_20_24-25) evita que la herramienta humana profane la piedra. El capítulo termina así con una corrección decisiva: recibir la voz celestial no permite construir una representación controlable de quien habló. La adoración queda bajo la palabra de יהוה, no bajo el diseño religioso del adorador.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #shemot_19_5-6 | Relaciona escuchar la voz y guardar el pacto con ser **(סגלה)**, reino de sacerdotes y nación santa. | Apoyo contextual: funciona como marco de Shemot 20; sus definiciones léxicas e históricas quedan pendientes de verificación. |
+| #shemot_20_1-3 | Lee la obediencia como respuesta a la liberación de Egipto, no como medio para comprarla. | Apoyo textual: la declaración de haber sacado a Israel antecede la exigencia de lealtad exclusiva. |
+| #shemot_20_18-25 | Relaciona el temor de Elohim con una vida que no peca y con un culto sin imágenes. | Clarificación léxica y apoyo textual: se explica **(יראה)** de forma contextual y se sigue el cierre sobre el altar. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar con léxicos hebreos trazables los rangos semánticos de **(שמע)**, **(שבת)**, **(כבד)** y **(יראה)** en sus contextos inmediatos.

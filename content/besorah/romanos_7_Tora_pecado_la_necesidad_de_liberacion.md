@@ -84,6 +84,15 @@ La parte 17 prolonga el grito de Romanos 7 hacia el «ahora» de #romanos_8_1. E
 | **(σάρξ)** | *sarx* | carne | En #romanos_7_14 y #romanos_8_3-4 expresa la condición humana vulnerable bajo el pecado. | «Carne» es directa; convertirla en un sinónimo de cuerpo material o de una etnia es una simplificación pedagógica incorrecta. |
 | **(ῥύομαι)** | *rhyomai* | rescatar, librar | La pregunta de #romanos_7_24 espera una liberación que Pablo atribuye a Elohim por Yehoshua. | «Librar» es una traducción aproximada y contextual; no establece por sí sola un equivalente hebreo exacto. |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #romanos_7_1-6 | La parte 15 sostiene que muere la persona, no la Torá, y enfoca el servicio en la novedad del Rúaj. | Apoyo textual y clarificación léxica: se sigue la analogía de Pablo y se distingue **(γράμμα)** de una identificación automática con toda la Torá. |
+| #romanos_7_7-13 | La clase advierte contra leer la «letra» como si el mandamiento santo fuese el problema. | Apoyo textual: el pasaje llama santo, justo y bueno al mandamiento, y nombra al pecado como quien engaña y mata. |
+| #romanos_7_14-25 | La parte 16 llama «tragedia» al conflicto del ser carnal y rechaza una paz ficticia con el pecado. | Inferencia cualificada: se conserva el grito de liberación y se deja abierta la discusión sobre la voz del «yo». |
+| #romanos_8_1-4 | La parte 17 describe la libertad como liberación del pecado y de la muerte, no como licencia. | Apoyo textual: se trata como continuación inmediata del argumento, con la realización justa de la Torá como finalidad. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis de «novedad del Rúaj» y «antigüedad de la letra» en #romanos_7_6 con el texto griego.

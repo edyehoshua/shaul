@@ -88,6 +88,14 @@ La advertencia final no permite preguntar cómo servían las naciones a sus dios
 | **(מנוחה)** | _menujáh_       | Sustantivo femenino de נוח: descanso, reposo           | Reposo/asentamiento aún no alcanzado antes de entrar                          | «Mesías» como equivalencia es pedagógica, no exacta |
 | **(נחלה)**  | _najaláh_       | Sustantivo femenino de נחל: heredad, posesión heredada | Don territorial que יהוה da a Israel                                          | «Herencia» es aproximada                            |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #devarim_11_26-28 | Distingue **(קללה)** de **(אררה)** al presentar bendición y maldición. | Clarificación léxica: las formas no son idénticas; el alcance propuesto queda pendiente de cotejo. |
+| #devarim_12_8-9 | Vincula la **(מנוחה)** con Tehilim 95, Hebreos y el Mesías. | Inferencia cualificada: se conserva el sentido inmediato de reposo y heredad territorial y la conexión mesiánica se marca pedagógica. |
+| #devarim_12_11-19 | Advierte contra secularizar lo consagrado y dejar fuera al leví. | Apoyo textual: la nota sigue la mesa delante de יהוה, la casa y el leví en el orden del capítulo. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en léxicos hebreos trazables los rangos de **(קללה)** y **(אררה)** antes de usar su distinción fuera de estos pasajes.
