@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 428,
-  "pending_videos": 530,
-  "transcript_notes": 144,
+  "covered_videos": 510,
+  "pending_videos": 448,
+  "transcript_notes": 224,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -49,11 +49,11 @@
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
       "covered": 0,
-      "lane": "yojanan"
+      "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
-      "covered": 0,
+      "covered": 1,
       "lane": "yojanan"
     },
     "Haftarot de Shmot/Éxodo": {
@@ -128,7 +128,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 20,
+      "covered": 99,
       "lane": "yojanan"
     },
     "Uncategorized": {
@@ -138,7 +138,7 @@
     },
     "Yesha’yahu - Isaías": {
       "total": 3,
-      "covered": 0,
+      "covered": 3,
       "lane": "yojanan"
     },
     "Yom hakipurim": {
