@@ -263,7 +263,7 @@ La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la 
 
 La sesión sobre la mitzvá 202 lee #numbers_6 como la regulación de un voto de nazir y llama la atención sobre su carácter voluntario. El texto abre el caso para «un hombre o una mujer» que haga un voto de nazir para separarse para יהוה (#numbers_6_2); luego especifica abstinencia de productos de la vid, el cabello sin cortar y la distancia de la impureza por un muerto (#numbers_6_3-8). La clase propone que esta separación no debe convertirse en exhibición de superioridad. Esa aplicación puede servir como examen ético, pero no debe confundirse con una explicación explícita del propósito del voto: el capítulo describe su procedimiento con mucho detalle y no desarrolla una motivación única para cada persona.
 
-La exposición también observa que el cierre del voto incluye ofrendas y la intervención sacerdotal (#numbers_6_13-20). Por ello, es más preciso decir que el rito tal como está regulado presupone santuario y sacerdocio, antes que convertir esa observación en una sentencia general sobre toda forma contemporánea de compromiso personal. Las relaciones etimológicas entre **(נזיר)**, **(נדר)** y **(נזר)**, así como las atribuciones a Rashi, Ibn Ezra y el tratado _Nazir_, quedan como investigación pendiente: la transcripción automática no basta para establecerlas ni para reproducir sus formulaciones.
+La exposición también observa que el cierre del voto incluye ofrendas y la intervención sacerdotal (#numbers*6_13-20). Por ello, es más preciso decir que el rito tal como está regulado presupone santuario y sacerdocio, antes que convertir esa observación en una sentencia general sobre toda forma contemporánea de compromiso personal. Las relaciones etimológicas entre **(נזיר)**, **(נדר)** y **(נזר)**, así como las atribuciones a Rashi, Ibn Ezra y el tratado \_Nazir*, quedan como investigación pendiente: la transcripción automática no basta para establecerlas ni para reproducir sus formulaciones.
 
 ## Pendiente de verificar
 
@@ -273,7 +273,7 @@ La exposición también observa que el cierre del voto incluye ofrendas y la int
 - [ ] Cotejar las transliteraciones y equivalencias hebreas que aparezcan en las transcripciones automáticas con ediciones y léxicos.
 - [ ] Examinar por separado los mandamientos dependientes de santuario, sacerdocio, tierra, autoridades o procedimientos judiciales.
 - [ ] Cotejar la lectura de las mitzvot 191–192 con #leviticus_23_9-16 y documentar las fuentes para las afirmaciones calendáricas y agrícolas de la clase.
-- [ ] Cotejar la terminología de #numbers_6 (en especial **(נזיר)**, **(נדר)** y **(נזר)**) y las atribuciones a Rashi, Ibn Ezra y el tratado _Nazir_ con fuentes textuales verificables.
+- [ ] Cotejar la terminología de #numbers*6 (en especial **(נזיר)**, **(נדר)** y **(נזר)**) y las atribuciones a Rashi, Ibn Ezra y el tratado \_Nazir* con fuentes textuales verificables.
 - [ ] Distinguir la regulación cultual de cierre del voto en #numbers_6_13-20 de cualquier aplicación contemporánea propuesta en la clase.
 
 ## Conclusión
