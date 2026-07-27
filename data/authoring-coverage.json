@@ -1,10 +1,43 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 554,
-  "pending_videos": 404,
-  "transcript_notes": 265,
+  "covered_videos": 564,
+  "pending_videos": 394,
+  "transcript_notes": 272,
   "notes_missing_visible_credits": [],
-  "duplicate_source_ids": {},
+  "duplicate_source_ids": {
+    "nUq66eB6Iz0": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "ILFHBTEagyc": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "s65OJxbjMDY": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "pupDxpHjY8g": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "GfuWwbZ34pM": [
+      "content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md",
+      "content/temas/shavuot_convocacion_primicias_y_promesa.md"
+    ],
+    "pMP3wkV3ya0": [
+      "content/tanaj/yeshayahu_54_pacto_de_shalom_y_restauracion.md",
+      "content/tanaj/yeshayahu_55_buscar_a_yehwh_y_justicia.md"
+    ],
+    "3X9vlwqU5Hg": [
+      "content/temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah.md",
+      "content/temas/pesaj_memoria_liberacion_y_mesa.md"
+    ],
+    "LcEX_H-pdAs": [
+      "content/temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah.md",
+      "content/temas/pesaj_memoria_liberacion_y_mesa.md"
+    ]
+  },
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
@@ -48,7 +81,7 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 10,
+      "covered": 12,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
@@ -58,7 +91,7 @@
     },
     "Haftarot de Shmot/Éxodo": {
       "total": 10,
-      "covered": 2,
+      "covered": 10,
       "lane": "efesios"
     },
     "Haftarot de Vayiqra’/Levítico": {
