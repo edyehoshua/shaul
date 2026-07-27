@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 522,
-  "pending_videos": 436,
-  "transcript_notes": 236,
+  "covered_videos": 327,
+  "pending_videos": 631,
+  "transcript_notes": 121,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {
     "nUq66eB6Iz0": [
@@ -71,7 +71,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 51,
+      "covered": 43,
       "lane": "efesios"
     },
     "Gálatas": {
