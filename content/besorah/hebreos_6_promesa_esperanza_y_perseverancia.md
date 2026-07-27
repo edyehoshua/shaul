@@ -11,7 +11,11 @@ references:
   - "#hebrews_6_10"
   - "#hebrews_6_19"
 sources:
+  - "https://www.youtube.com/watch?v=0RbDcydhCFE"
+  - "private/transcripts/ericdejes/0RbDcydhCFE.md"
   - "docs/scriptures/delitzsch/json/hebrews.json"
+source_ids:
+  - "youtube:0RbDcydhCFE"
 translation: "[Delitzsch]"
 ---
 
@@ -38,5 +42,7 @@ Hebreos 6 anima a una esperanza firme que se muestra en continuidad, servicio y 
 ## Créditos
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
+
+- «La carta a los hebreos parte 7: La perfección y el nuevo sacerdocio» — https://www.youtube.com/watch?v=0RbDcydhCFE — transcripción: `private/transcripts/ericdejes/0RbDcydhCFE.md` — source_id: `youtube:0RbDcydhCFE`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
