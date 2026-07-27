@@ -37,5 +37,6 @@
       ]
     }
   },
-  "uncategorized_policy": "Do not process an Uncategorized video until its biblical book is identified from its title/transcript and assigned by the integrator to a lane not currently owning that book. Record the assignment before authoring it."
+  "uncategorized_policy": "Do not process an Uncategorized video until its biblical book is identified from its title/transcript and assigned by the integrator to a lane not currently owning that book. Record the assignment before authoring it.",
+  "overflow_policy": "When a lane has completed every eligible source in its assigned queue (missing local transcripts must be recorded in data/missing-transcripts.json), the integrator rebalances it onto the largest remaining unstarted playlist from another lane. The integrator is the only process allowed to move a playlist between lanes, must first verify that no worker has started it, and must publish the manifest change before the borrowing worker begins. A borrowed playlist is exclusively owned by its new lane until completion."
 }
