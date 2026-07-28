@@ -14,6 +14,52 @@
         "Haftarot de Dvarim/Deuteronomio",
         "La deidad de Mashiaj",
         "Sobre el Shabat"
+      ],
+      "source_groups": [
+        {
+          "title": "Tehilim 119 y salmos restantes sin asignar (grupo coherente)",
+          "source_ids": [
+            "youtube:FlhAcYD1xHY",
+            "youtube:kZW4IL2Cn6Q",
+            "youtube:kv6HOQs_fD0",
+            "youtube:qXMn78sfFGU",
+            "youtube:PC4aR6RIsqI",
+            "youtube:fvzC2oDcPig",
+            "youtube:yBt-N44fmMA",
+            "youtube:ASKtoaXU0Xg",
+            "youtube:wcW2sbyejeg",
+            "youtube:gthAr2L7Mfw",
+            "youtube:BiZ8TXdYsww",
+            "youtube:_l81sYVUsKo",
+            "youtube:hPwnpHmmPBg",
+            "youtube:JFt32TbSL68",
+            "youtube:WMaVm1xtao8",
+            "youtube:JxLhysPXd_0",
+            "youtube:dKBaLiM1JdU",
+            "youtube:gOO8dOyWHPg",
+            "youtube:2o5bkLc3GQY",
+            "youtube:OlpNpJjRYB8",
+            "youtube:hh75H_Ii_wA",
+            "youtube:E32ztB2NacQ",
+            "youtube:TOT2zoskIGw",
+            "youtube:xlqPZWeLrJw",
+            "youtube:xeOQWtMOwvg",
+            "youtube:bzrcSNMhywY",
+            "youtube:KZsPjtLou_g",
+            "youtube:qH2J2KtpCAw",
+            "youtube:NgYZoD0PbeM",
+            "youtube:cKjkhUJOR4Y",
+            "youtube:tl3mTl4WmO8",
+            "youtube:Cd4qLmlWvDM",
+            "youtube:hGRkNtObsMQ",
+            "youtube:QxPPJgj0p4s",
+            "youtube:3lKWKZyOYao",
+            "youtube:ZNpxvynYZXk",
+            "youtube:DmaS_AXN2HM",
+            "youtube:62Ws5J4GXAA"
+          ],
+          "reason": "Tras la cobertura, yojanan quedó en 38 fuentes pendientes (<40). Se asigna exclusivamente el grupo restante de Tehilim/Himnos/Salmos, coherente por playlist y aún sin nota canónica, sin tomar fuentes en progreso ni de otra lane."
+        }
       ]
     },
     "colosenses": {
