@@ -66,6 +66,14 @@ Los vv. 28-34 diagnostican a las naciones: «son un pueblo sin consejo, y no hay
 
 El cierre (32:43) llama a las naciones a alegrarse con el pueblo de יהוה: la sangre de sus siervos será vengada, los enemigos recibirán retribución y יהוה reconciliará su tierra y su pueblo. **כפר**, _kafar_, puede significar cubrir, expiar o hacer reconciliación según el contexto. «Reconciliará» es una equivalencia **aproximada**, pero la fuerza final es restauradora y no borra la justicia anunciada. El v. 44 añade que Moshéh vino y habló «todas las palabras de este canto a oídos del pueblo» junto con Hoshea. La recepción final del poema es pública y completa: «aplicad vuestro corazón a todas las palabras» (32:46, TTH), porque no es una opinión privada, sino la palabra que forma la vida del pacto. **שימו**, _simu_, de שום, «poner», es un imperativo plural: «pongan». Su fuerza contextual es tomar en serio el canto como instrucción, no admirarlo a distancia.
 
+## El encargo final y el límite de Moshe: 32:48-52
+
+El capítulo no termina en la exhortación del v. 47. יהוה dice: **ויאמר יהוה אל משה בעצם היום הזה לאמר עלה אל הר העברים הזה הר נבו... וראה את ארץ כנען אשר אני נתן לבני ישראל לאחזה**; TTH: «Y habló יהוה a Moshéh en aquel mismo día, diciendo: sube a este monte de los Avarim, el monte Nebo… y mira la tierra de Kenáan que Yo doy a los hijos de Israel como posesión». Ese mismo día יהוה manda a Moshe subir al monte Nebo y mirar la tierra, pero le anuncia que no entrará en ella. **(עלה)**, _alah_, significa subir o ascender; aquí describe un movimiento real hacia el monte, no una metáfora automática de “subir al cielo”. **(ראה)**, _raah_, significa ver o mirar; su fuerza contextual es contemplar la herencia desde lejos, no poseerla por el hecho de verla.
+
+La razón se formula con dos verbos: Moshe quebrantó la confianza y no santificó a יהוה ante la asamblea en las aguas de Meribá. **(מעל)**, _maal_, significa actuar infielmente o cometer una traición contra una confianza; “desobedecer” es una equivalencia aproximada que no agota el matiz de quebranto de confianza. **(קדש)**, _qiddesh_, significa santificar, tratar como santo o reconocer como apartado; su fuerza aquí es que Moshe debía mostrar públicamente la santidad de יהוה, no producirla. El cierre protege el argumento de Eric sobre fidelidad: la Roca permanece justa incluso cuando el mediador recibe un límite severo.
+
+La tierra es llamada «esta buena tierra» y «el Jordán», mientras la muerte de Moshe queda dentro de la palabra de יהוה. El canto, por tanto, no ofrece una promesa individual desligada de la obediencia ni una explicación sentimental del juicio. La fidelidad divina sostiene la promesa al pueblo, y al mismo tiempo la palabra juzga a sus siervos. Esa tensión es la conclusión narrativa de Ha'azinu, no un detalle secundario después de la poesía.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal                          | Fuerza contextual                              | Equivalencia                               |
@@ -77,6 +85,8 @@ El cierre (32:43) llama a las naciones a alegrarse con el pueblo de יהוה: la
 | **קנה**    | _qanah_         | Adquirir, comprar                       | Pertenencia de Israel por acción divina        | «Redimir» es pedagógica                    |
 | **נשא**    | _nasa_          | Llevar, levantar, cargar                | Cuidado protector en el desierto               | «Sostener» es aproximada                   |
 | **כפר**    | _kafar_         | Cubrir, expiar, purgar                  | Reconciliar tierra y pueblo al final del poema | «Reconciliar» es aproximada                |
+| **מעל**    | _maal_          | Actuar infielmente, traicionar          | Quebranto de confianza en Meribá               | «Desobedecer» es aproximada                |
+| **קדש**    | _qiddesh_       | Santificar, tratar como santo           | Reconocer públicamente la santidad de יהוה     | «Consagrar» es pedagógica                  |
 
 ## El canto recibido como testimonio público
 
