@@ -9,6 +9,7 @@ tags:
   - pacto
   - dependencia
 references:
+  - "#devarim_7_6-11"
   - "#devarim_7_12"
   - "#devarim_7_18"
   - "#devarim_7_20"
@@ -23,10 +24,13 @@ references:
   - "#devarim_11_25"
 sources:
   - "https://www.youtube.com/watch?v=qoPOuZN5G4c"
+  - "https://www.youtube.com/watch?v=GZ2LxhmNRRU"
+  - "docs/scriptures/oe/json/deuteronomy/8.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
   - "youtube:qoPOuZN5G4c"
-translation: "[TTH]"
+  - "youtube:GZ2LxhmNRRU"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -35,17 +39,30 @@ Devarim 7–11 presenta la obediencia como la forma concreta de recordar el pact
 
 ## Alcance de la nota
 
-Esta nota organiza la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza** sobre la parashá Éqev, identificada públicamente como Devarim 7:12–11:25. Se sigue el orden de los bloques que la clase recorre: bendición y pacto, recuerdo de la liberación, fuerza y orgullo, entrada no basada en justicia propia, y obediencia que fortalece para habitar la tierra. El texto citado procede del corpus local TTH; la transcripción automática orienta la atribución y no se presenta como cita literal.
+Esta nota organiza la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza** sobre la parashá Éqev, identificada públicamente como Devarim 7:12–11:25, y la observación de la clase «Parashat Va'etjanan (2017) YHWH te tomó por pueblo para sí» sobre Devarim 7:6–11. Se sigue el orden de los bloques que las clases recorren: elección y pacto, bendición, recuerdo de la liberación, fuerza y orgullo, entrada no basada en justicia propia, y obediencia que fortalece para habitar la tierra. El texto citado procede del corpus local TTH; la transcripción automática orienta la atribución y no se presenta como cita literal.
 
 ## Hoja de comparación
 
-| Referencia             | Texto local TTH                                                                                                                                                                                                      | Función en la enseñanza                                                                                                                    |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| #devarim_7_12          | **Y sucederá en consecuencia de que escuchen estos procesos legales y los guarden y los hagan, guardará יהוה tu Elohim para ti el pacto y la bondad que juró a tus padres.**                                         | Presenta la relación entre escuchar, guardar, hacer y el pacto; no autoriza a tratar a יהוה como deudor de méritos humanos.                |
-| #devarim_7_18-20       | **no tengas temor de ellos, recordando, recuerda lo que hizo יהוה tu Elohim a Faraón y a todo Mitzráim**; **Y además, a la avispa enviará יהוה tu Elohim entre ellos**                                               | El recuerdo de la liberación sostiene la confianza; la «avispa» es una expresión cuya interpretación debe ser cautelosa.                   |
-| #devarim_8_2, 17-18    | **Y recordarás todo el camino que te hizo caminar יהוה tu Elohim estos cuarenta años en el desierto**; **Mi fuerza y el poder de mi mano hizo para mí esta fuerza**; **Él es el que te da fuerza para hacer virtud** | El desierto prueba el corazón, y el recuerdo impide convertir la capacidad recibida en autosuficiencia.                                    |
-| #devarim_9_4-6         | **No por tu justicia y por la rectitud de tu corazón tú entrarás para heredar su tierra**; **pues un pueblo de duro cuello eres tú**                                                                                 | El texto niega que la entrada sea salario por justicia propia y la vincula con la maldad de las naciones y la palabra jurada a los padres. |
-| #devarim_11_8-9, 22-25 | **guarden todo el mandamiento que yo te ordeno hoy, a fin de que sean fuertes**; **para amar a יהוה tu Elohim, para andar en todos sus caminos, y para unirse a Él**                                                 | La obediencia aparece como camino de fortaleza, amor y permanencia, mientras יהוה es quien desposee y pone temor delante de Israel.        |
+| Referencia             | Texto local TTH                                                                                                                                                                                                      | Función en la enseñanza                                                                                                                                             |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #devarim_7_12          | **Y sucederá en consecuencia de que escuchen estos procesos legales y los guarden y los hagan, guardará יהוה tu Elohim para ti el pacto y la bondad que juró a tus padres.**                                         | Presenta la relación entre escuchar, guardar, hacer y el pacto; no autoriza a tratar a יהוה como deudor de méritos humanos.                                         |
+| #devarim_7_6-11        | **Porque pueblo kadosh eres tú para יהוה tu Elohim; a ti te escogió יהוה... por el amor de יהוה hacia ustedes... guarda el pacto y la bondad**                                                                       | La clase identifica que יהוה tomó a Israel para sí; el pasaje explica que la elección nace del amor y del juramento, y permanece ligada a guardar los mandamientos. |
+| #devarim_7_18-20       | **no tengas temor de ellos, recordando, recuerda lo que hizo יהוה tu Elohim a Faraón y a todo Mitzráim**; **Y además, a la avispa enviará יהוה tu Elohim entre ellos**                                               | El recuerdo de la liberación sostiene la confianza; la «avispa» es una expresión cuya interpretación debe ser cautelosa.                                            |
+| #devarim_8_2, 17-18    | **Y recordarás todo el camino que te hizo caminar יהוה tu Elohim estos cuarenta años en el desierto**; **Mi fuerza y el poder de mi mano hizo para mí esta fuerza**; **Él es el que te da fuerza para hacer virtud** | El desierto prueba el corazón, y el recuerdo impide convertir la capacidad recibida en autosuficiencia.                                                             |
+| #devarim_9_4-6         | **No por tu justicia y por la rectitud de tu corazón tú entrarás para heredar su tierra**; **pues un pueblo de duro cuello eres tú**                                                                                 | El texto niega que la entrada sea salario por justicia propia y la vincula con la maldad de las naciones y la palabra jurada a los padres.                          |
+| #devarim_11_8-9, 22-25 | **guarden todo el mandamiento que yo te ordeno hoy, a fin de que sean fuertes**; **para amar a יהוה tu Elohim, para andar en todos sus caminos, y para unirse a Él**                                                 | La obediencia aparece como camino de fortaleza, amor y permanencia, mientras יהוה es quien desposee y pone temor delante de Israel.                                 |
+
+La lectura del capítulo 7 comienza con una tensión que no debe perderse: **כי יביאך יהוה אלהיך אל הארץ אשר אתה בא שמה לרשתה** («cuando יהוה tu Elohim te haga entrar en la tierra a la que vas para poseerla») y termina, en 7:12, con **והיה עקב תשמעון** («y sucederá como consecuencia de que escuchen»). La entrada y la obediencia aparecen juntas, pero no como una fórmula de compra. El OE conserva la iniciativa de יהוה en el verbo «hacer entrar», y el TTH conserva la relación entre escuchar, guardar y hacer. Por eso Eric puede advertir contra la negociación de méritos sin borrar la responsabilidad real del pueblo.
+
+En esta unidad **ירש**, _yarash_, significa poseer, heredar o desposeer; su fuerza contextual es recibir la tierra en el marco de la acción de יהוה, no «ganar» un premio por rendimiento. **עקב**, _eqev_, normalmente significa talón, huella o consecuencia; aquí introduce la consecuencia de escuchar y guardar. La imagen del talón que Eric relaciona con la parashá es pedagógica y sugerente, pero no debe presentarse como la única traducción de 7:12. La equivalencia «recompensa» también sería demasiado estrecha: el versículo habla de pacto y bondad jurada a los padres.
+
+## Pueblo tomado por יהוה: elección y obligación — Devarim 7:6–11
+
+La clase Va'etjanan resume su observación en el título: יהוה «te tomó por pueblo para sí». Devarim 7:6 ofrece la base textual: **כי עם קדוש אתה ליהוה אלהיך**, _ki am qadosh attah laYHWH Elohekha_, «porque pueblo kadosh eres tú para יהוה tu Elohim», y añade **בך בחר יהוה**, _bekha bachar YHWH_, «en ti escogió יהוה». **(קדוש)**, _qadosh_, significa normalmente separado, santo o consagrado; «santo» es una equivalencia convencional y aproximada. Aquí su fuerza contextual es pertenencia exclusiva, no superioridad moral autónoma. **(בחר)**, _bachar_, significa escoger o elegir; «predestinar» sería una equivalencia doctrinal más fuerte que la forma verbal.
+
+El motivo de la elección no es el tamaño de Israel: «eran el menor de entre todos los pueblos» (#devarim_7_7). El v. 8 explica: **מאהבת יהוה אתכם**, _me'ahavat YHWH etkhem_, «por el amor de יהוה hacia ustedes», y por guardar el juramento a los padres. **(אהב)**, _ahav_, significa amar; en este contexto expresa el vínculo leal de יהוה, no una emoción desligada de la historia. **(חסד)**, _chesed_, en el v. 9 significa bondad leal, misericordia o fidelidad de pacto; «bondad» es aproximada. El argumento de Eric recibe apoyo directo, pero la elección no queda separada de **שמר הברית והחסד**, _shomer ha-berit veha-chesed_, «guarda el pacto y la bondad», ni del mandato de hacer (#devarim_7_9-11).
+
+Por eso la frase «pueblo para sí» no debe convertirse en una licencia para el orgullo. La misma perícopa conecta pertenencia con mandamientos, y el bloque de Éqev corrige cualquier lectura de mérito autónomo: Israel debe recordar que יהוה da la fuerza y que la herencia no es salario de una justicia fabricada (#devarim_8_18; 9:4-6). La observación de la clase se conserva; su alcance se limita por el texto: elección por amor, pacto recordado y obediencia responsable pertenecen juntos.
 
 ## Recordar impide convertir el pacto en una transacción
 
@@ -64,6 +81,14 @@ La advertencia de #devarim_8_17-18 confronta la frase interior «mi fuerza y el 
 El cierre de la perícopa vuelve a la práctica. #devarim_11_8-9 relaciona guardar el mandamiento con ser fortalecidos, entrar y heredar; #devarim_11_22 añade amar a יהוה, andar en sus caminos y unirse a Él. Eric resume este movimiento como libertad para hacer lo que se sabe que se debe hacer, no como permiso para hacer cualquier cosa. Esa es una formulación pedagógica: el texto sí vincula mandamiento, amor, camino y permanencia, pero la definición filosófica de libertad queda como aplicación de la clase.
 
 La referencia a la «avispa» en #devarim_7_20 muestra por qué una observación concreta debe separarse de una certeza histórica. Eric presenta la discusión de comentaristas medievales sobre si se trata de insecto, enfermedad o ejército de mensajeros; en esta nota se conserva la pregunta, pero no se escoge una identificación sin cotejar las fuentes exactas. El texto afirma la acción de יהוה contra quienes se esconden; no permite por sí solo reconstruir el mecanismo histórico.
+
+## La memoria corrige la voz del orgullo
+
+El cotejo de #devarim_8_17-18 hace visible la corrección en su propio orden. El OE registra: **ואמרת בלבבך כחי ועצם ידי עשה לי את החיל הזה** («y dirás en tu corazón: mi fuerza y el poder de mi mano me hicieron esta capacidad»), y después: **וזכרת את יהוה אלהיך כי הוא הנתן לך כח לעשות חיל**. El TTH traduce «mi fuerza y el poder de mi mano hizo para mí esta fuerza» y luego afirma que יהוה da fuerza para hacer virtud. La repetición de **כח**, _koaj_, no permite separar capacidad recibida y capacidad ejercida: la segunda línea interpreta la primera.
+
+**(עצם)**, _etsem_, significa hueso, sustancia o fuerza esencial; aquí forma parte de la expresión «poder de mi mano» y refuerza la autoatribución del éxito. «Autonomía» es una equivalencia pedagógica, no una traducción literal. **(עשה חיל)**, _asah jail_, combina «hacer» con **חיל**, _jail_, que puede significar fuerza, capacidad, riqueza o ejército; en este contexto la equivalencia exacta es indeterminada, pero la fuerza argumental sí es clara: la capacidad histórica no debe atribuirse al yo.
+
+El versículo 18 vuelve a **זכר**, _zakar_, «recordar», y a **ברית**, _berit_, «pacto». La memoria no es nostalgia: obliga a reconocer al Dador y vincula la capacidad con el juramento hecho a los padres. La observación de Eric sobre la dependencia queda, por tanto, apoyada de manera directa por OE y TTH; su aplicación a cualquier éxito económico moderno es aproximada y debe permanecer subordinada a este escenario de camino, herencia y pacto.
 
 ## Recorrido textual: pacto, memoria y permanencia
 
@@ -94,6 +119,7 @@ Finalmente, #devarim_11_22-25 une amor, camino y adhesión. **(דבק)**, _davaq
 | «Recordar» es una tarea constante: recordar la salida, el camino del desierto y a יהוה como dador de la fuerza.                                                                            | #devarim_7_18-19; #devarim_8_2, 17-18 | Se conserva como eje de la nota y se evalúa textualmente mediante la repetición del verbo y la explicación de 8:18. La aplicación a prácticas diarias queda cualificada. |
 | La «fuerza» de 8:17-18 debe leerse en el contexto de capacidad para la campaña y el pacto, no automáticamente como prosperidad económica.                                                  | #devarim_8_14-18                      | La nota sigue el contexto local y registra la cuestión léxica de _jail_; la decisión definitiva sobre la traducción queda pendiente.                                     |
 | La «avispa» de 7:20 no debe convertirse sin revisión en una escena literal de insectos persiguiendo a ejércitos; la clase conserva la discusión entre enfermedad y ejército de mensajeros. | #devarim_7_18-20                      | Se distingue el dato textual de la hipótesis interpretativa. Se preserva la observación de Eric y se marca pendiente la identificación histórica y léxica.               |
+| יהוה tomó a Israel para sí por amor y por el juramento a los padres, no por la grandeza de Israel.                                                                                         | #devarim_7_6-11                       | Apoyo textual directo a la elección y al amor; «pueblo para sí» se interpreta junto con pacto, mandamientos y responsabilidad.                                           |
 | La libertad se expresa en andar con יהוה, amarle y guardar el mandamiento, no en hacer cualquier cosa; la obediencia no alimenta el ego.                                                   | #devarim_11_8-9, 22-25                | Se trata como aplicación pedagógica apoyada por la secuencia mandamiento–amor–camino–unión–fortaleza, sin afirmar que el pasaje formule una teoría moderna de libertad.  |
 
 ## Pendiente de verificar
@@ -117,4 +143,5 @@ Finalmente, #devarim_11_22-25 une amor, camino y adhesión. **(דבק)**, _davaq
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Éqev: Dt 7:12–11:25, «Zajor, recuerda»](https://www.youtube.com/watch?v=qoPOuZN5G4c) (`source_id`: `youtube:qoPOuZN5G4c`).
+- Video: [Parashat Va'etjanan (2017) YHWH te tomó por pueblo para sí](https://www.youtube.com/watch?v=GZ2LxhmNRRU) (`source_id`: `youtube:GZ2LxhmNRRU`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -50,6 +50,8 @@ En #shemot_6_6-8 la promesa avanza con una cadena de verbos: sacar, rescatar, re
 
 La culminación es relacional: «los tomaré para Mí por pueblo, y seré para ustedes por Elohim» (#shemot_6_7). El propósito de la liberación no queda reducido a salir de un lugar; incluye conocer quién los saca «de debajo de las cargas de Mitzráim». La observación de Eric sobre un plan de redención queda respaldada por la secuencia textual, aunque no debe convertirse en una tabla rígida que borre la forma narrativa de la promesa.
 
+La cadena puede escucharse también en el texto hebreo sin nikud: **והוצאתי אתכם מתחת סבלת מצרים והצלתי אתכם מעבדתם וגאלתי אתכם בזרוע נטויה ובשפטים גדלים ולקחתי אתכם לי לעם והייתי לכם לאלהים** (6:6-7). El OE y el TTH convergen en el movimiento «sacar–rescatar–redimir–tomar», pero el paralelismo no autoriza a hacer de cada verbo una etapa cronológica independiente. Eric observa una obra completa de יהוה; esa lectura está apoyada por la acumulación verbal y por el cierre «seré para ustedes por Elohim». La equivalencia de «plan» es pedagógica: el pasaje presenta promesa y acto divinos, no emplea el sustantivo moderno «plan».
+
 El versículo 9 introduce una tensión decisiva: «no escucharon a Moshéh, por pequeño espíritu y por la dura esclavitud». **(שמע)**, _shama_, significa oír, escuchar y obedecer; aquí describe una recepción impedida por el sufrimiento, no una simple rebeldía intelectual. **(רוח)**, _ruaj_, significa espíritu, aliento o viento; en «pequeño espíritu» su fuerza contextual es ánimo abatido o capacidad interior reducida. **(עבודה)**, _avodah_, significa trabajo, servicio o servidumbre; «esclavitud» es adecuada en este contexto, pero no agota todos sus usos. La promesa de יהוה permanece verdadera aun cuando el pueblo no puede escucharla con facilidad.
 
 ## Mapa de la enseñanza de Eric
@@ -77,7 +79,7 @@ El versículo 9 introduce una tensión decisiva: «no escucharon a Moshéh, por 
 
 ## Conclusión
 
-Shemot 6 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
+Shemot 6 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio: la fuerza de יהוה vence a Faraón, la redención tiene una finalidad de pertenencia y el sufrimiento puede hacer difícil escuchar. El capítulo no niega la misión cuando Moshéh objeta ni convierte la debilidad de los labios en fracaso del enviado; la promesa avanza por la palabra y la acción de יהוה. Así, la lectura de Eric queda conservada y evaluada en el orden textual, mientras las inferencias amplias permanecen abiertas a verificación.
 
 ## Créditos
 
