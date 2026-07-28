@@ -174,6 +174,26 @@ Así, la enseñanza de Eric recibe apoyo textual sin convertirse en una regla ab
 
 Romanos 12 no separa doctrina, culto y vida común. Las misericordias de Elohim producen una presentación corporal; la renovación produce discernimiento; la gracia distribuye servicios para un solo cuerpo; y el amor sostiene hospitalidad, humildad y una resistencia al mal que no se vuelve venganza. El patrón que destaca la clase se mantiene cuando se sigue esa secuencia completa.
 
+## El patrón de la fidelidad en el cuerpo y la mente
+
+La fuente pública `youtube:8z-3MkpomOo` permite atribuir a Eric el foco general «El patrón de la fidelidad». La arquitectura de Romanos 12 precisa ese patrón sin inventar una transcripción: las misericordias preceden a la presentación del cuerpo, la mente renovada examina la voluntad de Elohim y el servicio se ordena dentro de un cuerpo plural. La atribución es **pública y cualificada**; el desarrollo verso a verso pertenece a la evaluación canónica.
+
+**(οἰκτιρμός)**, _oiktirmos_, significa misericordia, compasión o piedad; en #romanos_12_1 aparece en plural y fundamenta el ruego apostólico. «Misericordias» es una glosa **directa**, pero convertir cada misericordia en una experiencia emocional específica sería **pedagógico**. **(παρίστημι)**, _paristēmi_, significa presentar, poner al lado o poner a disposición; aquí describe la entrega real de los cuerpos. «Ofrecer» es **aproximado y contextual**: no describe un pago que compre el favor de Elohim, porque la misericordia ya precede al ruego.
+
+En #romanos_12_2, **(συσχηματίζω)**, _syschēmatizō_, significa conformar o adoptar un esquema; su fuerza contextual es resistir la presión de la era presente. «No conformarse» es una traducción **aproximada**, pues el verbo no enumera por sí solo todas las prácticas que deben rechazarse. **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar después de poner algo a prueba; en la renovación de la mente describe discernir la voluntad buena, agradable y perfecta. «Discernir» es **pedagógico** como resultado, no una autorización para reclamar inspiración privada sin examen.
+
+La fidelidad visible no es uniformidad. **(φρονέω)**, _phroneō_, significa pensar, tener una disposición o juzgar; en #romanos_12_3 ordena la autoevaluación sobria y no la negación de toda valoración responsable. **(μέτρον)**, _metron_, significa medida o instrumento de medida; la medida de emunah regula la relación con los dones, no establece una escala de prestigio. El mapa de Eric queda respaldado cuando une humildad y servicio; queda limitado si el «patrón» se vuelve una marca de superioridad espiritual.
+
+## Amor activo, paz limitada y bien frente al mal
+
+Romanos 12:9-16 muestra que el culto vivo se hace verificable en el trato con otros: amor sin fingimiento, adhesión al bien, honra, provisión, hospitalidad, oración, bendición y empatía. **(φιλοξενία)**, _philoxenia_, significa amor al extranjero u hospitalidad; en #romanos_12_13 da contenido material a la solidaridad con los santos. «Hospitalidad» es **aproximada** como traducción práctica, porque el compuesto conserva la orientación hacia el extranjero. **(εὐλογέω)**, _eulogeō_, significa bendecir o hablar bien; en #romanos_12_14 contrasta de forma **directa** con maldecir al perseguidor.
+
+El cierre exige una precisión pastoral. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en #romanos_12_18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». «Reconciliarse siempre» sería una glosa **ilegítima**, porque el texto reconoce límites reales. **(ἀνταποδίδωμι)**, _antapodidōmi_, significa devolver, pagar o retribuir; en #romanos_12_19 pertenece a la cita sobre la retribución de Elohim. Trasladar ese verbo al creyente como licencia de venganza sería una inferencia **ilegítima**.
+
+**(σωρεύω)**, _sōreuō_, significa amontonar o acumular; en #romanos_12_20 participa en la imagen de las brasas sobre la cabeza. Su sentido dentro de la cita requiere cautela: puede describir el efecto desconcertante del bien que no devuelve el daño, pero no autoriza a manipular, humillar o poner en peligro a la víctima. **(νικάω)**, _nikaō_, significa vencer o conquistar; en #romanos_12_21 su sentido es **directo** como mandato, mientras «triunfar sin reproducir la violencia» es una aplicación **pedagógica** definida por el bien concreto del contexto.
+
+La enseñanza atribuible a Eric queda así evaluada en una secuencia única: fidelidad nacida de misericordia, cuerpo ofrecido, mente examinadora, dones sobrios, amor material y bien activo frente al mal. Romanos 12 apoya ese patrón, pero lo protege de dos distorsiones: el perfeccionismo que convierte el servicio en mérito y la pasividad que usa «vencer con el bien» para negar protección o justicia legítima. La fidelidad no compra la misericordia; la misericordia produce una vida que puede verse.
+
 ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]

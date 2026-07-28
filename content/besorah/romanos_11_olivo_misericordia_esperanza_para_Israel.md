@@ -171,6 +171,24 @@ La conclusión de Romanos 11 exige distinguir promesa, respuesta y autoridad. **
 
 Romanos 11 no convierte a Israel ni a las naciones en motivo de autoafirmación. El remanente muestra la gracia de Elohim; el olivo manda humildad a quienes participan de la raíz; el misterio conserva la esperanza del Redentor y de las promesas a los padres. La respuesta final adecuada es la doxología: de él, por él y para él son todas las cosas.
 
+## El olivo como argumento de dependencia
+
+La analogía no debe convertirse en un diagrama de propiedad. En #romanos_11_17-18, la rama de olivo silvestre participa de la raíz y de la savia, pero Pablo niega expresamente la inversión: no es la rama la que sostiene la raíz. La observación atribuida a Eric en `youtube:MHLbizeZrPc`, cuando pregunta si el gentil se considera mejor que los judíos, recibe aquí **apoyo textual directo**. La aplicación a comunidades actuales es **pedagógica y cualificada**: denuncia la jactancia religiosa, pero no autoriza a identificar sin más cada grupo moderno con una rama particular.
+
+**(συνκοινωνός)**, _synkoinōnos_, significa participante juntamente o copartícipe; en #romanos_11_17 describe compartir la raíz y la savia. «Copartícipe» es una glosa **directa** en el campo ordinario, mientras «dueño» sería una conclusión **ilegítima**. **(ῥίζα)**, _rhiza_, significa raíz; su fuerza contextual es representar el origen nutricio que sostiene a las ramas, no una abstracción separada de las promesas a los padres. La relación aproximada con **(שרש)**, _shoresh_, «raíz», en Delitzsch ilumina la imagen semítica, pero no demuestra que el hebreo sea una clave etimológica del griego.
+
+La advertencia de #romanos_11_20-22 mantiene juntas emunah, temor y bondad. **(ἐπιμένω)**, _epimenō_, significa permanecer, continuar o persistir; aquí califica la condición «si permaneces en la bondad» y «si no permanecen en incredulidad». «Perseverar» es una glosa **pedagógica y aproximada**: expresa continuidad, pero no resuelve por sí sola toda pregunta sobre la seguridad final. **(ἀποτομία)**, _apotomia_, significa severidad o rigor; en #romanos_11_22 describe el lado serio del trato divino junto a la bondad. Presentar la severidad como crueldad sería una inferencia **ilegítima**, porque Pablo la coloca dentro de la exhortación a no envanecerse.
+
+## Misericordia, misterio y esperanza para Israel
+
+La segunda sesión acreditada, `youtube:bL-3YKdV0wo`, anuncia al Redentor de Tziyón. El foco público permite atribuir a Eric la esperanza de continuidad y el rechazo del desecho total de Israel, pero la formulación detallada se evalúa con #romanos_11_25-29. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; su fuerza contextual es frenar la autosuficiencia de las naciones mientras Pablo relaciona endurecimiento parcial, plenitud y salvación. «Secreto» es **aproximado**; la relación pedagógica con **(סוד)**, _sod_, «secreto o consejo», no convierte las dos formas en equivalentes exactas.
+
+**(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o cumplimiento; en #romanos_11_25 participa en la secuencia «hasta que entre la plenitud de las naciones». «Totalidad» es una glosa **aproximada**: el sustantivo no fija por sí solo un calendario ni una cifra. **(σώζω)**, _sōzō_, significa salvar, rescatar o preservar; en «todo Israel será salvo» la glosa es **directa**, mientras la identificación precisa de «todo Israel» y el modo de cumplimiento son **cualificados** por la sintaxis inmediata, las citas y el conjunto de Romanos 9–11.
+
+La esperanza tampoco elimina la desobediencia. Pablo concluye que Elohim encerró a todos en desobediencia para tener misericordia de todos (#romanos_11_30-32). **(παραδίδωμι)**, _paradidōmi_, significa entregar, poner en manos de o transmitir; su fuerza contextual en esta afirmación no vuelve irrelevante la desobediencia, sino que la sitúa bajo la misericordia soberana. La observación de Eric recibe **apoyo cualificado** cuando denuncia la arrogancia de la teología de reemplazo; debe ser limitada si se convierte en una fórmula que cancela la responsabilidad o el llamado a permanecer en la bondad.
+
+Este control conduce naturalmente a #romanos_11_33-36. **(ἀνεξιχνίαστος)**, _anexichniastos_, significa inescrutable o imposible de rastrear por completo; en la doxología limita la pretensión de dominar el misterio. «Inescrutable» es una glosa **directa**, pero no una prohibición de estudiar el argumento. La respuesta canónica a la enseñanza pública de Eric es, por tanto, una esperanza humilde: la raíz sostiene, Elohim puede reinjertar, la misericordia no se reclama como mérito y toda conclusión vuelve a la adoración.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
