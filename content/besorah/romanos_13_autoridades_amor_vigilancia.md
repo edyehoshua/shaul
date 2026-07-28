@@ -117,14 +117,6 @@ La unidad del capítulo ofrece tres límites que deben mantenerse juntos. Primer
 
 Por eso la observación pública de Eric sobre las autoridades puede conservarse como un llamado a reconocer responsabilidad y orden, mientras Romanos 13 la corrige en dos direcciones. La sujeción no elimina la evaluación moral de la autoridad, y la conciencia no convierte la preferencia personal en ley para los demás. El paso hacia el amor y hacia el despertar (#romanos_13_8-14) muestra que el capítulo termina juzgando la vida pública por el bien que hace al prójimo y por la sobriedad con que espera al Mesías. Esta es una inferencia **pedagógica**, no una cita literal de la sesión.
 
-## Autoridad, tributo y el límite del encargo
-
-La exposición pública de Eric queda mejor delimitada cuando se sigue la lista de #romanos_13_6-7. Pablo no menciona solo obediencia abstracta: habla de tributo, impuesto, temor y honra. **(φόρος)**, _phoros_, significa tributo o carga fiscal; **(τέλος)**, _telos_, significa impuesto, pago o término; y **(τιμή)**, _timē_, significa honor, estima o valor. En esta perícopa, las tres formas se refieren a obligaciones concretas hacia la autoridad civil, pero su fuerza es **contextual y cualificada**: no convierten todo cobro en justo ni autorizan a una autoridad a reclamar culto, mentira o violencia contra el prójimo.
-
-La distinción importa porque el texto describe la razón del respeto antes de enumerar el pago. **(ὀργή)**, _orgē_, significa ira o reacción punitiva; en #romanos_13_4-5 se relaciona con la autoridad que castiga el mal y con la conciencia que mueve a sujetarse. «Ira» es una traducción **directa**, pero aplicar la palabra a toda decisión estatal sería una extensión **no demostrada**. La clase puede exhortar a no vivir desde la rebeldía caprichosa, mientras el propio capítulo exige que la autoridad cumpla el bien que se le atribuye.
-
-La conclusión del bloque no es que el creyente entregue a la administración pública la definición de lo bueno. **(ἀγαπάω)**, _agapaō_, significa amar o actuar en favor de alguien; en #romanos_13_8-10 su fuerza se vuelve visible en no hacer mal al prójimo. La forma verbal «amar» es **directa** en el campo ordinario, y su aplicación a la vida social es **textual**, porque Pablo la presenta como deuda permanente. Así, el hilo de la clase sobre sujeción debe terminar en responsabilidad: pagar lo debido, honrar sin idolatrar y amar sin participar en el mal. Romanos 13 no ofrece un programa constitucional moderno, pero sí impide usar la obediencia para cancelar la conciencia, el bien y el mandamiento de amor.
-
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                   | Observación concreta de la clase                                                                                                | Evaluación frente a Romanos                                                                                                                              |

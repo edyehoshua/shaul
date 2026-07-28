@@ -43,14 +43,6 @@ Las sesiones acreditadas recorren este capítulo y proponen aplicaciones para la
 - La argumentación de Romanos conserva tanto la misericordia de Elohim como el llamado a una respuesta fiel.
 - Las aplicaciones sobre identidad, Torá, conciencia o vida congregacional necesitan seguir la lógica del capítulo y no imponerse desde categorías posteriores.
 
-## El cierre como examen de una comunidad real
-
-La lista de Romanos 16 debe conservarse en su progresión. Primero Pablo pide recibir y ayudar a Febe (#romanos_16_1-2); después recuerda colaboradores, casas, trabajo y sufrimiento (#romanos_16_3-16); solo entonces advierte contra quienes producen divisiones (#romanos_16_17-20). **(ἀσπάζομαι)**, _aspazomai_, significa saludar, recibir con afecto o expresar reconocimiento; en los saludos repetidos del capítulo su fuerza contextual es hacer visible una red concreta, no ofrecer una fórmula decorativa. «Saludar» es una glosa **directa**, mientras leer cada saludo como aprobación doctrinal sería una inferencia **no demostrada**.
-
-La hospitalidad también tiene un límite verificable. **(φιλοξενία)**, _philoxenia_, significa amor o acogida al extranjero; aunque el sustantivo no aparece en este capítulo, describe **pedagógicamente** la práctica que el texto sí nombra cuando Gayo hospeda a Pablo y a toda la comunidad (#romanos_16_23). No debe presentarse como vocabulario explícito de Romanos 16. El verbo relacionado **(ξενίζω)**, _xenizō_, significa hospedar o recibir como huésped; su relación con Gayo es **aproximada y contextual**, pues el versículo local enfatiza que él hospeda, pero no desarrolla una teoría general de hospitalidad.
-
-El orden evita dos reducciones del foco público de Eric. El reconocimiento de mujeres y colaboradores no elimina la prueba de la enseñanza, y la advertencia contra la división no borra la obligación de recibir a quienes sirven. **(φρόνιμος)**, _phronimos_, significa prudente, sensato o sabio; en #romanos_16_19 pide sabiduría para el bien. «Sabios» es una traducción **directa**, pero su fuerza es inseparable de ser inocentes para el mal: el discernimiento paulino no es sospecha permanente ni ingenuidad comunitaria. La doxología final confirma el criterio: la comunidad es afirmada conforme al evangelio y llevada a la obediencia de la emunah, no organizada alrededor de la reputación de una sola persona.
-
 ## Pendiente de verificar
 
 - [ ] Cotejar los términos griegos relevantes de Romanos 16 con léxicos y la sintaxis del pasaje.
