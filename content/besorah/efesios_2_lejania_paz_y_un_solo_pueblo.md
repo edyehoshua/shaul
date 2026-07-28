@@ -89,6 +89,16 @@ Los versículos #ephesians_2_15-18 desarrollan lo que la clase dejó para la con
 
 Finalmente, #ephesians_2_19-22 desplaza la imagen desde extranjería a ciudadanía y casa. La pertenencia no queda en una etiqueta: los destinatarios son edificados con los santos, sobre el fundamento de apóstoles y profetas, con Yehoshua el Mesías como piedra principal, para ser morada de Elohim en el Rúaj. El edificio crece «juntamente»; la metáfora sostiene una comunidad formada por Elohim, no la autosuficiencia de individuos aislados.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Punto concreto tomado de la enseñanza de Eric | Evaluación en esta nota |
+| -------------- | --------------------------------------------- | ----------------------- |
+| #ephesians_2_11-12 | La clase distingue a los gentiles llamados incircuncisión de la circuncisión hecha por manos y relaciona la lista de lejanía con la falta de esperanza (#ephesians_2_11-12; parte 10, 00:07:51–00:53:15). | **Apoyado y cualificado:** la distinción y la enumeración están en el texto; las extensiones psicológicas y sociales quedan como pendientes, no como significado directo del pasaje. |
+| #ephesians_2_13-14 | Eric presenta el «ahora» como el giro por el que los lejanos son acercados en la sangre del Mesías, y lee al Mesías como la paz que derriba la pared divisoria (parte 10, 00:54:29–01:12:05). | **Apoyado textualmente, con precisión:** se conserva el acercamiento, la sangre y «nuestra paz»; «financiación» o precio se marca como glosa pedagógica y no como definición léxica. |
+| #ephesians_2_15-16 | La continuación subraya que «ambos» comprende circuncidados e incircuncisos y conecta la reconciliación con la nueva creación y con Colosenses 1:20-22 (parte 11, 00:01:05–00:11:18). | **Inferencia cualificada:** la referencia a los dos grupos y a un cuerpo está en el contexto; «regenerar» y la incorruptibilidad de la carne requieren verificación y no sustituyen «reconciliar». |
+| #ephesians_2_17-18 | La enseñanza lleva la paz anunciada a los lejanos y cercanos hacia un acceso compartido al Padre en un mismo Rúaj (parte 11, continuación del argumento de 2:15-18). | **Apoyado:** la nota sigue el orden del pasaje y conserva la relación entre paz, reconciliación y acceso común, sin reducirla a tranquilidad subjetiva. |
+| #ephesians_2_19-22 | Eric resume el resultado como «un solo pueblo» y una morada del poder de Elohim, leído junto con la pertenencia común y la casa edificada en el Mesías (partes 10–11). | **Síntesis apoyada:** se enlaza con ciudadanía, casa, fundamento y morada de los vv. 19-22; no se presenta como cobertura exhaustiva de cada afirmación oral de las clases. |
+
 ## Hoja léxica
 
 | Forma            | Transliteración | Sentido en la nota        | Tipo de relación                                                           | Cautela                                                                                                                                 |
