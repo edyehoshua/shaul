@@ -144,6 +144,14 @@ La lectura de Eric es especialmente valiosa al rechazar una invocación converti
 
 Romanos 10 sostiene una secuencia inseparable: Elohim revela su justicia en el Mesías, acerca la palabra, llama, hace posible la escucha y envía mensajeros; quienes oyen son convocados a creer, confesar e invocar. La igualdad entre judío y griego elimina la jactancia de un acceso étnico privilegiado, pero no elimina la responsabilidad ni la historia de Israel. El capítulo termina con las manos extendidas de Elohim ante un pueblo que resiste: gracia soberana, anuncio real y respuesta humana permanecen juntos.
 
+## Cotejo de Joel 2:32: invocar y llamar
+
+La observación atribuida a Eric en `youtube:ililQLS9UJE` merece una precisión adicional. Romanos 10:13 cita Joel 2:32 con la secuencia «todo el que invoque el nombre del Señor será salvo», mientras el cierre hebreo de Joel dice **אֲשֶׁר יְהוָה קֹרֵא**, _asher YHWH qore_, «a quien יהוה llama». La forma **(קֹרֵא)**, _qore_, procede de **קרא**, _qara_, cuyo sentido ordinario es llamar, proclamar o invocar; en Joel 2:32 su fuerza contextual puede describir a quienes יהוה convoca dentro del remanente. «Llama» es una glosa **directa** para esa forma participial; leerla como una definición exhaustiva del sujeto de «invocar» es **inferencial**.
+
+La misma perícopa conserva la forma humana **(ἐπικαλέω)**, _epikaleō_, «invocar, apelar o llamar sobre alguien», en Romanos 10:12-14. Su fuerza contextual es la respuesta dirigida al Señor: Pablo no elimina la acción del que invoca, sino que la coloca dentro de una cadena que incluye anuncio, escucha y envío. La relación entre **קרא**, _qara_, y **(ἐπικαλέω)**, _epikaleō_, es **aproximada y pedagógica**, no una equivalencia morfológica ni etimológica. Por tanto, Eric acierta al resistir una invocación convertida en mérito autónomo, pero el texto también impide convertir la iniciativa divina en una excusa para borrar la escucha, la obediencia o la resistencia que Romanos 10:16 y 10:21 describen.
+
+Este cotejo repara el límite de atribución de la fuente: el título público y la exposición disponible permiten conservar la pregunta de Eric sobre quiénes son «los que invocan», no presentar su propuesta sintáctica como consenso filológico. El argumento canónico queda en tres grados: es **textual** que quien invoca el nombre del Señor será salvo; es **cualificado** que Joel aporta el marco del llamado divino y del remanente; y es **pedagógico e inferencial** afirmar que una sola lectura hebrea resuelve toda la relación entre llamamiento y respuesta. La nota mantiene así la observación del expositor, la forma fuente y la responsabilidad del anuncio sin fabricar una cita literal.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
