@@ -321,6 +321,30 @@
       "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
-    }
+      },
+      {
+      "video_id": "p7Tu9dJAgN0",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Haftarát Vayishlaj Parte 1",
+      "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
+      "reason": "Local transcript contains only an incomplete introductory segment (about 22 minutes) and does not preserve enough verse-specific exposition for a substantive canonical study; revisit if a complete transcript is recovered.",
+      "status": "incomplete_transcript"
+      },
+      {
+      "video_id": "dWfZ0pLJAlk",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
+      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
+      "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
+      "status": "confirmed_unavailable"
+      },
+      {
+      "video_id": "xjQ5RfijeVU",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Num 8:1 - 12:16 The Mnorah and the Prophecy",
+      "url": "https://www.youtube.com/watch?v=xjQ5RfijeVU",
+      "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
+      "status": "confirmed_unavailable"
+      }
   ]
 }
