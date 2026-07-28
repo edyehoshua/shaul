@@ -16,11 +16,11 @@ references:
   - "#devarim_1_34-46"
   - "#yehoshua_1_1-9"
 sources:
-  - "https://www.youtube.com/watch?v=CLeAjF2EGoE"
+  - "https://www.youtube.com/watch?v=n6AaHG2kTCo"
   - "docs/scriptures/oe/json/deuteronomy/1.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
-  - "youtube:CLeAjF2EGoE"
+  - "youtube:n6AaHG2kTCo"
 translation: "[OE, TTH]"
 ---
 
@@ -30,7 +30,7 @@ Devarim 1 no presenta la entrada en la tierra como un avance automático. Mosheh
 
 ## Alcance de la nota
 
-Esta es la nota canónica de Devarim 1. Conserva la nota previa y la amplía con la clase de Eric cuyo título público resume el eje «escuchando sólo la voz de יהוה», además del material ya acreditado de la serie _Parashot 2016–2017_. Las observaciones se atribuyen como énfasis de enseñanza y se contrastan con el orden de los versículos; no se presentan títulos ni transcripciones automáticas como citas literales.
+Esta es la nota canónica de Devarim 1. Extrae de la clase pública de Eric sobre Devarim 1–3 los argumentos que corresponden a este capítulo: el sentido de _devarim_ como palabras, asuntos y promesas; la memoria de la salida y de la heredad; y la advertencia de no dejarse gobernar por el temor ante enemigos que יהוה ya ha entregado. Las observaciones se atribuyen como énfasis de enseñanza y se contrastan con el orden de los versículos; no se presenta la transcripción automática como cita literal.
 
 ## Hoja de comparación
 
@@ -48,7 +48,7 @@ El tramo final también debe leerse con sus palabras locales: «Y dijo יהוה 
 
 El capítulo abre con **(דברים)**, _devarim_, plural de דבר, «palabras» o «asuntos». Su sentido normal no se limita a sonidos pronunciados: puede abarcar el contenido de un encargo o discurso. Aquí introduce las palabras que Mosheh habló a «todo Israel» en lugares que recuerdan el desierto. «Discurso» es una equivalencia **aproximada** y pedagógica; conserva la forma pública, pero _devarim_ deja abierta la densidad de hechos y asuntos que Mosheh va a repasar.
 
-La clase cuyo título insiste en escuchar sólo la voz de יהוה ofrece una clave legítima para leer la escena: Mosheh no está contando una aventura neutral, sino interpretando la historia del pacto. El texto, sin embargo, obliga a recorrer cómo se llegó a la crisis. La memoria bíblica no selecciona únicamente una consigna inspiradora; conserva la orden, la resistencia, el cuidado divino y las consecuencias.
+La clase de Eric presenta el libro como un recuento que prepara al pueblo para escuchar las palabras y promesas de יהוה antes de entrar en la tierra. Esa observación ofrece una clave legítima para leer la escena: Mosheh no está contando una aventura neutral, sino interpretando la historia del pacto. El texto, sin embargo, obliga a recorrer cómo se llegó a la crisis. La memoria bíblica no selecciona únicamente una consigna inspiradora; conserva la orden, la resistencia, el cuidado divino y las consecuencias.
 
 ## De Horeb a la heredad: avanzar cuando יהוה habla
 
@@ -70,7 +70,7 @@ La clase identificada públicamente por el eje «escuchando sólo la voz de יה
 
 ## Obediencia y presunción no son lo mismo
 
-Caleb recibe la tierra porque «siguió plenamente» a יהוה. **(מלא אחרי)**, _male ajarei_, combina la idea de estar lleno o completo con «ir detrás de». La frase describe una lealtad íntegra; «perfección sin pecado» sería una equivalencia **pedagógica excesiva** que el versículo no exige. Yehoshua, por su parte, debe ser fortalecido porque entrará y hará heredar a Israel. El capítulo vincula liderazgo con encargo recibido, no con ambición personal.
+Caleb recibe la tierra porque «siguió plenamente» a יהוה. **(מלא אחרי)**, _male ajarei_, combina la idea de estar lleno o completo con «ir detrás de». La frase describe una lealtad íntegra; «perfección sin pecado» sería una equivalencia **pedagógica excesiva** que el versículo no exige. Yehoshua, por su parte, debe ser fortalecido porque entrará y hará heredar a Israel. El capítulo vincula liderazgo con encargo recibido, no con ambición personal. La clase también advierte, al avanzar hacia Og en Devarim 3, que el tamaño del enemigo no debe convertirse en una medida del poder de יהוה; aplicado aquí, ese énfasis ilumina el temor de 1:28, pero no reemplaza la escena concreta de Kadesh.
 
 Después de oír el juicio, el pueblo decide subir. Confiesa «hemos pecado», pero actúa sin la presencia prometida. **(תזדו)**, _tazidu_, procede de זיד y significa actuar presuntuosamente, con insolencia o deliberación. «Atreverse» es **aproximado**; no debe convertir la palabra en una virtud de valentía. La misma acción que parecía arrepentimiento se vuelve rebelión porque contradice la orden actual de יהוה. El resultado confirma la lectura del capítulo: ni miedo ante la promesa ni entusiasmo separado de la palabra son obediencia.
 
@@ -104,15 +104,15 @@ El final mantiene el discernimiento temporal. Primero se ordena subir (1:21); de
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual   | Observación pública atribuible a la enseñanza                                                                                   | Tratamiento en esta nota                                                                                                                                                              |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #devarim_1_1-8   | El eje público «escuchar sólo la voz de יהוה» orienta la lectura de las palabras de Mosheh y de la entrada en la tierra.        | Apoyo textual: se recorre el discurso desde su escenario hasta la orden de entrar; se aclara que la enseñanza no reemplaza el sentido de _devarim_ ni _yarash_.                       |
-| #devarim_1_26-33 | La incredulidad nace cuando Israel interpreta la tierra y el camino desde el temor, olvidando que יהוה lo llevó y lo guió.      | Apoyo textual y clarificación léxica: se contrastan _ma'aminim_ y la imagen de _nasa_ con el relato del miedo.                                                                        |
-| #devarim_1_34-46 | El título y el desarrollo de la clase apuntan a la seriedad de la voz divina frente a la muerte, la heredad y la subida humana. | Inferencia cualificada: se conserva la advertencia sobre Caleb, Yehoshua y la presunción; toda formulación doctrinal más amplia queda pendiente de cotejo con la exposición completa. |
+| Unidad textual   | Observación pública atribuible a la enseñanza                                                                                                                         | Tratamiento en esta nota                                                                                                                                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #devarim_1_1-8   | La clase presenta _devarim_ como palabras, asuntos y promesas, y lee el recuento de Mosheh como preparación para escuchar a יהוה antes de entrar.                     | Apoyo textual y lexical: se recorre el discurso desde su escenario hasta la orden de entrar; se aclara que la enseñanza no reemplaza el sentido de _devarim_ ni _yarash_.                                           |
+| #devarim_1_26-33 | La incredulidad nace cuando Israel interpreta la tierra y el camino desde el temor, olvidando que יהוה lo llevó y lo guió.                                            | Apoyo textual y clarificación léxica: se contrastan _ma'aminim_ y la imagen de _nasa_ con el relato del miedo.                                                                                                      |
+| #devarim_1_34-46 | La clase contrasta la palabra recibida con el impulso humano y, al recorrer la guerra posterior contra enemigos grandes, insiste en no medir la promesa por el temor. | Apoyo textual cualificado: se conserva la advertencia sobre Caleb, Yehoshua y la presunción; el enlace con los enemigos de Devarim 3 es una aplicación canónica, no una afirmación de que 1:34-46 narre esa guerra. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar cualquier transcripción revisada de `youtube:CLeAjF2EGoE` para separar sus observaciones habladas de las inferencias que aquí se derivan del título público; no se presenta una transcripción automática como cita.
+- [ ] Cotejar cualquier transcripción revisada de `youtube:n6AaHG2kTCo` para separar sus observaciones habladas de las inferencias que aquí se derivan del recorrido de Devarim 1–3; no se presenta una transcripción automática como cita.
 - [ ] Verificar en una edición TTH actualizada las formulaciones resumidas de 1:19–46; la hoja actual conserva sólo los extractos locales disponibles y no reconstruye traducciones ausentes.
 - [ ] Verificar la relación propuesta en la clase entre la derrota del enemigo y la muerte, sin desplazar el juicio histórico inmediato del capítulo.
 
@@ -129,5 +129,5 @@ Devarim 1 enseña que la memoria del desierto debe producir escucha obediente. �
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat Dvarim, Dt. 1:1–3:22: escuchando sólo la voz de יהוה](https://www.youtube.com/watch?v=CLeAjF2EGoE) (`source_id`: `youtube:CLeAjF2EGoE`).
-- Esta nota organiza y contrasta la exposición; no presenta una transcripción automática como cita literal.
+- Video: [Parashat Dvarim (2017) The last enemy to be defeated will be death itself](https://www.youtube.com/watch?v=n6AaHG2kTCo) (`source_id`: `youtube:n6AaHG2kTCo`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
