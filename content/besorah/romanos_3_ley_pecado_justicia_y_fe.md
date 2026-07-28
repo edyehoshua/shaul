@@ -66,8 +66,6 @@ También **(ἔνδειξις)**, _endeixis_, significa demostración o manifest
 
 El centro sacrificial de #romanos_3_25 no debe quedar oculto detrás de una glosa española. **(ἱλαστήριον)**, _hilastērion_, puede referirse a un medio de expiación o al lugar de propiciación; en este contexto describe la acción que Elohim presenta públicamente en el Mesías mediante la emunah. «Propiciación» es una traducción aproximada y tradicional, no una prueba de que Pablo esté desarrollando aquí un único modelo técnico de sacrificio. El contexto inmediato limita la afirmación: Elohim muestra su justicia, pasa por alto pecados anteriores en su paciencia y permanece justo al justificar al que tiene emunah en Yehoshua (#romanos_3_25-26).
 
-También **(ἔνδειξις)**, _endeixis_, significa demostración o manifestación. Su fuerza en #romanos_3_25-26 es pública y argumental: la redención no solo beneficia al creyente, sino que responde a la pregunta de cómo Elohim puede ser justo y justificar. «Demostración» es una glosa directa; no autoriza a separar justicia y misericordia ni a convertir la palabra en una teoría exhaustiva de la expiación.
-
 ## Romanos 3:27-31: una emunah sin jactancia y no contra la Torah
 
 Pablo pregunta dónde queda la jactancia y responde que ha sido excluida. No por una «ley de obras», sino por una «ley de emunah» (#romanos_3_27). El juego no autoriza a inventar una nueva legislación separada del resto de la carta; contrapone dos principios de confianza: uno pretende presentar obras como motivo de superioridad, y el otro recibe la justicia de Elohim sin jactarse. El mismo Elohim justifica al circunciso por emunah y al incircunciso por medio de la emunah (#romanos_3_30), de modo que la unidad divina impide convertir el acceso en una posesión étnica.
