@@ -54,6 +54,30 @@ En 35:2 Yaakov manda: **הסרו את אלהי הנכר**, «quiten los dioses e
 
 En Bet-El, Elohim recuerda el nombre Israel y reafirma la promesa. **קום**, _qum_, significa levantarse; la orden «levántate, sube a Bet-El» convierte la memoria en movimiento. El retorno no es solo una sensación de acompañamiento: implica construir altar, responder a la palabra y ordenar la casa. El capítulo finaliza con la muerte de Rajel y el crecimiento de la familia; la presencia prometida convive con pérdida y responsabilidad.
 
+## 5. La oración precede a la estrategia: Bereshit 32:8–22
+
+El OE resume la crisis así: **ויירא יעקב מאד ויצר לו**, «y Yaakov temió mucho, y le fue angustioso»; TTH dice «Yaakov tuvo mucho temor y se angustió». **ויירא**, _vayira_, es una forma de ירא, «temer»; **ויצר**, _vayitser_, procede de צרר, «angustiar, estrechar o afligir». La duplicación no es una etiqueta psicológica moderna: narra miedo y estrechez ante la llegada de Esav. La observación pública de Eric sobre no quedar solo conserva un consuelo válido, pero no debe silenciar la angustia que el texto nombra.
+
+Yaakov divide el campamento y envía un presente. El OE dice **כי אמר אכפרה פניו במנחה ההולכת לפני**, «porque dijo: apaciguaré su rostro con el presente que va delante de mí»; TTH traduce «apaciguaré su rostro con el regalo que va delante de mí». **אכפרה**, _akhapperah_, es una forma de כפר, «cubrir, expiar o apaciguar»; aquí su fuerza narrativa es buscar el favor de Esav mediante un regalo, no realizar automáticamente una expiación cultual. La estrategia no sustituye la oración de 32:10–13: el capítulo mantiene juntas súplica, memoria de la promesa y acción prudente.
+
+## 6. La lucha deja una bendición herida: Bereshit 32:23–33
+
+El OE afirma **ויוותר יעקב לבדו ויאבק איש עמו עד עלות השחר**, «y Yaakov quedó solo, y un hombre luchó con él hasta subir el alba»; TTH conserva «un hombre luchó con él hasta que amaneció». **לבדו**, _levado_, significa «solo, por sí mismo»; es una soledad situacional, no una tesis de que toda ayuda humana sea inútil. **ויאבק**, _vayeaveq_, es la forma narrativa de אבק, asociada con forcejear o luchar. «Batalla espiritual» es una equivalencia pedagógica, no una traducción exacta de la forma.
+
+Cuando el varón toca el muslo, el OE dice **ותקע כף ירך יעקב בהאבקו עמו**, «y se dislocó la palma del muslo de Yaakov cuando luchó con él»; TTH traduce que el muslo se descoyuntó. **ויגע**, _vayiga_, de נגע, significa tocar, alcanzar o afectar; en el contexto produce una lesión concreta. La bendición no cancela la marca corporal. Después, **לא יעקב יאמר עוד שמך כי אם ישראל**, «no se dirá más tu nombre Yaakov, sino Israel». **שרית**, _sarita_, significa «has luchado o has prevalecido»; su equivalencia como «ganador invencible» es inexacta, porque la misma escena concluye con cojera y dependencia.
+
+## 7. Reconciliación prudente y violencia juzgada: Bereshit 33–34
+
+El OE de 33:4 dice **וירץ עשו לקראתו ויחבקהו ויפל על צוארו וישקהו ויבכו**, «Esav corrió a su encuentro, lo abrazó, cayó sobre su cuello, lo besó y lloraron»; TTH conserva la cadena de gestos. **וישקהו**, _vayishaqehu_, es una forma de נשק, «besar», con sufijo «a él»; la escena permite hablar de reconciliación visible, aunque la puntuación tradicional sobre el beso no autoriza por sí sola a reconstruir toda la historia interior de Esav. Yaakov sigue actuando con cautela: separa a los hijos, ordena el movimiento y no acepta que el presente dependa de la escolta de Esav.
+
+El capítulo 34 no permite usar la reconciliación como permiso para violencia. El OE describe **ויענו בני יעקב את שכם ואת חמור אביו במרמה**, «los hijos de Yaakov respondieron a Shejem y a Jamor su padre con engaño». **במרמה**, _bemirmah_, significa con engaño, fraude o astucia; su fuerza califica el método de los hijos. La circuncisión de los hombres de la ciudad no convierte el ardid en obediencia al pacto. Yaakov reprende el resultado por el peligro creado para la casa. La clase puede exhortar a no caminar solos, pero el texto obliga a distinguir protección, negociación, venganza y responsabilidad.
+
+## 8. Bet-El, purificación y continuidad: Bereshit 35–36
+
+Antes de subir, Yaakov manda: **הסרו את אלהי הנכר אשר בתככם והטהרו והחליפו שמלתיכם**, «quiten los dioses extraños que están entre ustedes, purifíquense y cambien sus vestidos»; TTH conserva las tres acciones. **הטהרו**, _hithareru_, es una forma de טהר, «purificarse o quedar limpio»; aquí acompaña actos domésticos observables y no debe reducirse a un sentimiento interior. **ויקברו**, _vayiqberu_, de קבר, «enterrar», muestra que la casa entrega objetos y los sepulta. El retorno acompañado por Elohim exige una reordenación concreta.
+
+Elohim se revela, recuerda el nombre Israel y promete tierra y descendencia. La muerte de Rajel y la pérdida de Itzjak impiden una conclusión triunfalista: el relato sigue siendo de presencia en medio de duelo, nacimiento, herencia y límites. El capítulo 36 enumera la descendencia de Esav; la separación no borra su existencia ni convierte la bendición de Yaakov en licencia para despreciar al hermano. Así, «no te dejaré solo» funciona como consuelo cualificado: presencia para volver, obedecer, llorar y caminar con responsabilidad.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal             | Fuerza contextual                          | Equivalencia                                |
