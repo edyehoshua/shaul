@@ -1,6 +1,6 @@
 ---
-title: "Bereshit 44: Vayigash, intercesión y vida preservada"
-description: "Estudio canónico de la aproximación de Yehudá, la revelación de Iosef y el descenso de Israel a Mitsraim en Bereshit 44–47."
+title: "Bereshit 44–50: Vayigash, bendición y esperanza de regreso"
+description: "Estudio canónico de la intercesión de Yehudá, la revelación de Iosef, las bendiciones de Yaakov y la esperanza de regreso desde Mitsraim."
 date: 2026-07-28
 tags:
   - parashot
@@ -13,37 +13,52 @@ references:
   - "#bereshit_45_1-8"
   - "#bereshit_46_1-4"
   - "#bereshit_47_13-16"
+  - "#bereshit_47_28-31"
+  - "#bereshit_48_15-20"
+  - "#bereshit_49_1-10"
+  - "#bereshit_49_22-26"
+  - "#bereshit_50_24-26"
   - "#iejezkel_37_15-28"
 sources:
   - "https://www.youtube.com/watch?v=VPMoZun2Bww"
+  - "https://www.youtube.com/watch?v=86l71sgugKc"
   - "docs/scriptures/oe/json/genesis/44.json"
   - "docs/scriptures/oe/json/genesis/45.json"
   - "docs/scriptures/oe/json/genesis/46.json"
   - "docs/scriptures/oe/json/genesis/47.json"
+  - "docs/scriptures/oe/json/genesis/48.json"
+  - "docs/scriptures/oe/json/genesis/49.json"
+  - "docs/scriptures/oe/json/genesis/50.json"
   - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
   - "youtube:VPMoZun2Bww"
+  - "youtube:86l71sgugKc"
 translation: "[OE, TTH]"
 ---
 
 # Tesis
 
-Bereshit 44–47 presenta la preservación de la familia de Israel mediante una intercesión que nace de la responsabilidad. Yehudá se ofrece en lugar de Binyamín, Iosef se da a conocer sin negar el daño sufrido y Elohim transforma la venta en un camino de vida para la familia. La providencia no borra la culpa de los hermanos ni convierte el poder administrativo de Iosef en un modelo sin límites: el relato muestra reconciliación probada, palabra responsable y dependencia de יהוה en medio del hambre.
+Bereshit 44–50 presenta la preservación de la familia de Israel mediante una intercesión que nace de la responsabilidad y una esperanza que mira más allá de Mitsraim. Yehudá se ofrece en lugar de Binyamín, Iosef se da a conocer sin negar el daño sufrido, Yaakov bendice a sus hijos y Elohim sostiene la promesa de regreso. La providencia no borra la culpa de los hermanos ni convierte el poder administrativo de Iosef en un modelo sin límites: el relato muestra reconciliación probada, palabra responsable, bendición y dependencia de יהוה en medio del hambre y la muerte.
 
 ## Alcance de la nota
 
-La nota toma como unidad la clase «Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah», del hermano Eric de Jesús Rodríguez Mendoza. La transcripción automática sirve para localizar observaciones; no se presenta como cita literal. Se sigue el relato en orden desde el alegato de Yehudá hasta la administración del hambre en Bereshit 47. La relación que Eric propone con Iejezkel 37 se conserva como conexión canónica cualificada, no como identidad histórica demostrada.
+La nota reúne dos clases consecutivas del hermano Eric de Jesús Rodríguez Mendoza: «Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah» y «Parashat Vaychi - Genesis 47:28 - 50:26 - Doing in accordance with the divine will». La transcripción automática sirve para localizar observaciones; no se presenta como cita literal. Se sigue el relato en orden desde el alegato de Yehudá hasta la muerte de Iosef y la esperanza de salida. Las relaciones que Eric propone con Iejezkel 37, 1 Reyes 2 e Isaías 63 se conservan como conexiones canónicas cualificadas, no como identidades históricas demostradas.
 
 ## Hoja de comparación
 
-| Referencia         | Hebreo local OE (sin nikud)                                                                                                  | TTH local                                                                                                                                                                                              | Función en la lectura                                                                                           |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| #bereshit_44_18    | **ויגש אליו יהודה ויאמר בי אדני ידבר נא עבדך דבר באזני אדני ואל יחר אפך בעבדך כי כמוך כפרעה**                                | «Y se acercó a él Iehudáh, y dijo: Por favor, mi amo, deja hablar por favor a tu siervo una palabra en el oído de mi amo, y no se encienda tu ira con tu siervo, pues tú eres como Faraón».            | La aproximación comienza con respeto, pero también con una petición concreta ante la autoridad.                 |
-| #bereshit_44_33-34 | **ועתה ישב נא עבדך תחת הנער עבד לאדני והנער יעל עם אחיו ... כי איך אעלה אל אבי והנער איננו אתי פן אראה ברע אשר ימצא את אבי** | «Y ahora, que viva por favor tu siervo en lugar del joven como esclavo para mi amo, y al joven deja subir con sus hermanos ... Pues, ¿cómo subiré a mi padre y el niño no está conmigo?».              | Yehudá no ofrece una emoción abstracta: se ofrece como sustituto para preservar al joven y al padre.            |
-| #bereshit_45_1-3   | **ולא יכל יוסף להתאפק לכל הנצבים עליו ... בהתודע יוסף אל אחיו ... אני יוסף העוד אבי חי**                                     | «Y no podía Iosef contenerse ... cuando se daba a conocer Iosef a sus hermanos ... ¡Yo soy Iosef! ¿Aún mi padre vive?».                                                                                | La confesión llega después del discurso que revela un cambio real en Yehudá.                                    |
-| #bereshit_45_5-8   | **ועתה אל תעצבו ... כי למחיה שלחני אלהים לפניכם ... ולא אתם שלחתם אתי הנה כי האלהים ... ומשל בכל ארץ מצרים**                 | «Y ahora, no se entristezcan ... porque para dejar vivir me envió Elohim delante de ustedes ... no fueron ustedes los que me enviaron aquí, sino Elohim ... gobernador de toda la tierra de Mitzráim». | Iosef afirma providencia y preservación sin llamar bueno al acto de venderlo.                                   |
-| #bereshit_46_1,3-4 | **ויסע ישראל ... ויזבח זבחים לאלהי אביו יצחק ... אל תירא מרדה מצרימה ... אנכי ארד עמך מצרימה**                               | «Y viajó Israel ... y ofreció sacrificios al Elohim de su padre Itzjak ... no tengas miedo de descender a Mitzráim ... Yo descenderé contigo».                                                         | El descenso se discierne delante de יהוה y recibe una promesa de compañía.                                      |
-| #bereshit_47_13,16 | **ולחם אין בכל הארץ כי כבד הרעב מאד ... ויאמר יוסף הבו מקניכם ואתנה לכם במקניכם אם אפס כסף**                                 | «Y pan no había en toda la tierra, porque grave era el hambre ... Den su ganado y daré a ustedes pan por su ganado, si se ha terminado el dinero».                                                     | El relato concluye el tramo mostrando que la salvación familiar ocurre dentro de una crisis económica compleja. |
+| Referencia          | Hebreo local OE (sin nikud)                                                                                                  | TTH local                                                                                                                                                                                              | Función en la lectura                                                                                           |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| #bereshit_44_18     | **ויגש אליו יהודה ויאמר בי אדני ידבר נא עבדך דבר באזני אדני ואל יחר אפך בעבדך כי כמוך כפרעה**                                | «Y se acercó a él Iehudáh, y dijo: Por favor, mi amo, deja hablar por favor a tu siervo una palabra en el oído de mi amo, y no se encienda tu ira con tu siervo, pues tú eres como Faraón».            | La aproximación comienza con respeto, pero también con una petición concreta ante la autoridad.                 |
+| #bereshit_44_33-34  | **ועתה ישב נא עבדך תחת הנער עבד לאדני והנער יעל עם אחיו ... כי איך אעלה אל אבי והנער איננו אתי פן אראה ברע אשר ימצא את אבי** | «Y ahora, que viva por favor tu siervo en lugar del joven como esclavo para mi amo, y al joven deja subir con sus hermanos ... Pues, ¿cómo subiré a mi padre y el niño no está conmigo?».              | Yehudá no ofrece una emoción abstracta: se ofrece como sustituto para preservar al joven y al padre.            |
+| #bereshit_45_1-3    | **ולא יכל יוסף להתאפק לכל הנצבים עליו ... בהתודע יוסף אל אחיו ... אני יוסף העוד אבי חי**                                     | «Y no podía Iosef contenerse ... cuando se daba a conocer Iosef a sus hermanos ... ¡Yo soy Iosef! ¿Aún mi padre vive?».                                                                                | La confesión llega después del discurso que revela un cambio real en Yehudá.                                    |
+| #bereshit_45_5-8    | **ועתה אל תעצבו ... כי למחיה שלחני אלהים לפניכם ... ולא אתם שלחתם אתי הנה כי האלהים ... ומשל בכל ארץ מצרים**                 | «Y ahora, no se entristezcan ... porque para dejar vivir me envió Elohim delante de ustedes ... no fueron ustedes los que me enviaron aquí, sino Elohim ... gobernador de toda la tierra de Mitzráim». | Iosef afirma providencia y preservación sin llamar bueno al acto de venderlo.                                   |
+| #bereshit_46_1,3-4  | **ויסע ישראל ... ויזבח זבחים לאלהי אביו יצחק ... אל תירא מרדה מצרימה ... אנכי ארד עמך מצרימה**                               | «Y viajó Israel ... y ofreció sacrificios al Elohim de su padre Itzjak ... no tengas miedo de descender a Mitzráim ... Yo descenderé contigo».                                                         | El descenso se discierne delante de יהוה y recibe una promesa de compañía.                                      |
+| #bereshit_47_13,16  | **ולחם אין בכל הארץ כי כבד הרעב מאד ... ויאמר יוסף הבו מקניכם ואתנה לכם במקניכם אם אפס כסף**                                 | «Y pan no había en toda la tierra, porque grave era el hambre ... Den su ganado y daré a ustedes pan por su ganado, si se ha terminado el dinero».                                                     | El relato concluye el tramo mostrando que la salvación familiar ocurre dentro de una crisis económica compleja. |
+| #bereshit_47_28-31  | **ויחי יעקב בארץ מצרים שבע עשרה שנה ... אנכי אעשה כדברך**                                                                    | «Y vivió Yaakov en la tierra de Mitzráim diecisiete años ... Yo haré como tú has hablado».                                                                                                             | El encargo final de Yaakov convierte la palabra recibida en acción obediente.                                   |
+| #bereshit_48_15-20  | **האלהים הרעה אתי מעודי עד היום הזה ... אחיו הקטן יגדל ממנו**                                                                | «Mi Pastor desde siempre hasta este día ... su hermano pequeño será mayor que él».                                                                                                                     | La bendición recuerda cuidado y muestra que Elohim no queda limitado por la primogenitura.                      |
+| #bereshit_49_1,8-10 | **האספו ואגידה לכם את אשר יקרא אתכם באחרית הימים ... לא יסור שבט מיהודה**                                                    | «Júntense, y pueda darles a conocer lo que les llamará en la posteridad de los días ... No se desviará el cetro de Iehudáh».                                                                           | Las palabras de Yaakov abren un horizonte futuro y una autoridad asociada con Yehudá.                           |
+| #bereshit_49_22-26  | **בן פרת יוסף ... משם רעה אבן ישראל ... ולקדקד נזיר אחיו**                                                                   | «Hijo fructífero es Iosef ... de allí es el Pastor, Roca de Israel ... para la coronilla del consagrado de sus hermanos».                                                                              | La fecundidad y la resistencia de Iosef se atribuyen al Poderoso de Yaakov.                                     |
+| #bereshit_50_24-26  | **אנכי מת ואלהים פקד יפקד אתכם ... והעלתם את עצמתי מזה**                                                                     | «Yo muero, pero Elohim, visitando, los visitará ... y subirán mis huesos de este lugar».                                                                                                               | La muerte de Iosef deja a Israel orientado hacia la promesa de regreso.                                         |
 
 ## La aproximación de Yehudá: de la venta a la responsabilidad
 
@@ -75,13 +90,54 @@ En #bereshit_46_1-4 Israel llega a Beersheva, ofrece sacrificios al Elohim de It
 
 ## Hoja léxica
 
-| Forma              | Transliteración     | Sentido normal         | Fuerza contextual                          | Equivalencia                           |
-| ------------------ | ------------------- | ---------------------- | ------------------------------------------ | -------------------------------------- |
-| **(ויגש)**         | _vayigash_          | se acercó              | Entrada de Yehudá en una petición decisiva | «Intercedió» es pedagógica             |
-| **(תחת)**          | _tajat_             | debajo de, en lugar de | Sustitución de Yehudá por Binyamín         | «Redentor» no es exacta                |
-| **(להתודע)**       | _lehitvadá_         | darse a conocer        | Iosef revela su identidad oculta           | «Perdonó» no es exacta                 |
-| **(למחיה)**        | _lemejiyáh_         | para preservar vida    | Propósito atribuido al envío de Iosef      | «Resurrección» es pedagógica           |
-| **(אנכי ארד עמך)** | _anokhi ered imkha_ | Yo descenderé contigo  | Promesa de compañía a Israel               | «Descenso físico de יהוה» no es exacto |
+| Forma              | Transliteración     | Sentido normal                 | Fuerza contextual                          | Equivalencia                           |
+| ------------------ | ------------------- | ------------------------------ | ------------------------------------------ | -------------------------------------- |
+| **(ויגש)**         | _vayigash_          | se acercó                      | Entrada de Yehudá en una petición decisiva | «Intercedió» es pedagógica             |
+| **(תחת)**          | _tajat_             | debajo de, en lugar de         | Sustitución de Yehudá por Binyamín         | «Redentor» no es exacta                |
+| **(להתודע)**       | _lehitvadá_         | darse a conocer                | Iosef revela su identidad oculta           | «Perdonó» no es exacta                 |
+| **(למחיה)**        | _lemejiyáh_         | para preservar vida            | Propósito atribuido al envío de Iosef      | «Resurrección» es pedagógica           |
+| **(אנכי ארד עמך)** | _anokhi ered imkha_ | Yo descenderé contigo          | Promesa de compañía a Israel               | «Descenso físico de יהוה» no es exacto |
+| **(חסד ואמת)**     | _jesed veemet_      | benevolencia y verdad          | Petición de fidelidad de Yaakov            | «Misericordia» es aproximada           |
+| **(כדברך)**        | _kidvareja_         | conforme a tu palabra          | Compromiso de Iosef                        | Exacta en este contexto                |
+| **(הרעה)**         | _haroé_             | mi pastor                      | Cuidado constante de Elohim                | «Rey» sería pedagógica                 |
+| **(שבט)**          | _shevet_            | vara, tribu, cetro             | Autoridad asociada con Yehudá              | «Cetro» es contextual                  |
+| **(מחקק)**         | _mejoqeq_           | legislador, decretador         | Autoridad normativa                        | «Sacerdote» no es exacta               |
+| **(אחרית הימים)**  | _ajarit hayamim_    | posteridad o final de los días | Horizonte futuro de la reunión             | Cronología específica sería inferida   |
+| **(פקד)**          | _paqad_             | visitar, atender, intervenir   | Acción futura de Elohim por Israel         | «Recordar» es aproximada               |
+
+## Actuar conforme a la palabra: Yaakov pide y Iosef responde
+
+En #bereshit_47_28-31 Yaakov vive diecisiete años en Mitsraim, pero su muerte vuelve visible dónde está su esperanza. Llama a Iosef, pide una promesa solemne y ordena que no lo entierren en Mitsraim. Iosef responde: «Yo haré como tú has hablado»; después jura. Eric relaciona esta escena con 1 Reyes 2, donde también «se acercan los días» de David y el rey moribundo da instrucciones. La comparación es literaria y pedagógica: ambos relatos presentan un encargo final que debe ejecutarse, aunque no son el mismo episodio.
+
+**(חסד ואמת)**, _jesed veemet_, significa «benevolencia y verdad» o «bondad y fidelidad». En 47:29 describe la petición de Yaakov dentro de una relación de obligación; traducirlo únicamente como «misericordia» es aproximado. **(כדברך)**, _kidvareja_, significa «conforme a tu palabra»; aquí el sentido es exacto en lo básico: Iosef acepta realizar lo pedido. La clase amplía el principio a hablar y actuar según las palabras de יהוה. Esa aplicación es coherente con el énfasis narrativo, pero el versículo inmediato habla específicamente del juramento funerario de Yaakov.
+
+La petición de salir de Mitsraim no niega que Elohim haya preservado allí a la familia. Confiesa que la tierra de residencia no reemplaza la promesa hecha a Abraham, Itzjak y Yaakov. La separación del cuerpo de Yaakov evita que el cierre convierta a Mitsraim en la meta definitiva. La clase expresa esta diferencia con el lenguaje de luz y tinieblas; como imagen exhortativa puede ayudar, pero no debe usarse para llamar impura toda presencia israelita en Mitsraim, pues el relato muestra allí provisión y crecimiento.
+
+## Bendición, inversión y memoria de la redención
+
+En #bereshit_48_15-20 Yaakov bendice a Iosef a través de sus hijos. Nombra al Elohim ante quien caminaron Abraham e Itzjak, al Elohim que fue su Pastor y al mensajero que lo redimió de todo mal. Iosef intenta corregir la posición de las manos, pero Yaakov sabe que Efráim, el menor, será mayor. Eric conecta la mano cruzada con la manera en que Elohim invierte expectativas humanas. La observación tiene apoyo narrativo, pero la elección de Efráim es particular, no una regla para despreciar la primogenitura.
+
+**(הרעה)**, _haroé_, «mi pastor», procede de רעה, cuidar o apacentar. No es una equivalencia exacta de «gobernante», aunque el cuidado pastoral puede incluir dirección. **(הגאל)**, _hagoel_, «el que redime», viene de גאל, rescatar o recuperar dentro de una relación de obligación; aplicarlo directamente como título completo del Mesías sería una ampliación pedagógica, no una traducción del versículo. El texto sí afirma que la vida de Yaakov fue guardada de todo mal y que esa memoria debe formar la bendición de la siguiente generación.
+
+## La palabra profética sobre Yehudá y su alcance
+
+En #bereshit_49:1 Yaakov reúne a sus hijos para anunciar «lo que les llamará en la posteridad de los días». **(אחרית הימים)**, _ajarit hayamim_, puede señalar un horizonte futuro, pero no fija por sí solo una cronología moderna. Yehudá recibe una imagen de gobierno: **(שבט)**, _shevet_, puede significar vara, tribu o cetro; aquí «cetro» es contextual. **(מחקק)**, _mejoqeq_, es «legislador» o «el que decreta», asociado con autoridad normativa.
+
+La clase observa en 49:8-10 una dimensión de realeza y legislación que conduce al Mesías, y relaciona la llegada de los pueblos con Yehoshua. El texto sí coloca a Yehudá en una posición excepcional y habla de congregación de pueblos; afirmar que cada detalle describe directamente la primera venida del Mesías es una inferencia tipológica, no una equivalencia exacta. El «cachorro de león» (**גור אריה**, _gur aryeh_) comunica fuerza y realeza por medio de una imagen animal; no es un nombre propio mesiánico en el pasaje.
+
+La clase propone además que la sangre de uvas de 49:11 anticipa las vestiduras teñidas de Isaías 63. La semejanza de vino y vestiduras es real como motivo imaginativo; la identificación del personaje y el cumplimiento son una lectura teológica cualificada. Isaías 63 debe conservar su propia escena y no convertirse en una cita encubierta de Bereshit 49.
+
+## Iosef fructífero, sostenido por la Roca
+
+#bereshit_49_22-26 no reduce a Iosef a prosperidad económica. Es «hijo fructífero» junto a una fuente, atacado por arqueros, pero fortalecido por las manos del Poderoso de Yaakov. **(פרת)**, _perat_, expresa fecundidad o fruto abundante en la imagen; «fructífero» es contextual. **(אביר יעקב)**, _avir Yaakov_, enfatiza fuerza protectora, y **(רעה אבן ישראל)**, _roé even Israel_, combina la imagen del Pastor y la Roca de Israel.
+
+Eric presenta esta bendición como perseverancia bajo oposición y la relaciona con la obra del Mesías. La aplicación puede ser pedagógica para leer resistencia y bendición, pero el sentido inmediato honra la historia de Iosef y su descendencia. El texto atribuye la fuerza a Elohim, no a autosuficiencia. Las bendiciones de cielo, abismo, pechos y matriz abarcan fecundidad y provisión; no garantizan una vida sin conflicto.
+
+## Esperar cuando Iosef muere
+
+En #bereshit_50_24-26 Iosef repite **(פקד)**, _paqad_: «visitar, atender, intervenir»; TTH conserva «visitando». No es simplemente recordar en sentido mental. Iosef anuncia que Elohim visitará a Israel y lo hará subir a la tierra jurada. Pide que sus huesos suban, en continuidad con el encargo que él mismo recibió de Yaakov.
+
+La clase resume la parashá como actuar conforme a la voluntad divina: Yaakov pide conforme a la promesa, Iosef jura y luego deja una instrucción orientada al futuro. La muerte de Iosef y el ataúd en Mitsraim dejan el libro abierto: la promesa todavía no se ha consumado. **(עצמותי)**, _atsmotai_, «mis huesos», es una referencia concreta al cadáver, no una metáfora obligatoria de identidad espiritual. El gesto apunta a una lectura canónica de la salida posterior solo por conexión pedagógica; el versículo afirma directamente la futura subida de Israel.
 
 ## Mapa de la enseñanza de Eric
 
@@ -91,6 +147,11 @@ En #bereshit_46_1-4 Israel llega a Beersheva, ofrece sacrificios al Elohim de It
 | #bereshit_45_1-8   | La revelación de Iosef y su lectura de «Elohim me envió» se relacionan con Iejezkel 37 y con la preservación de la familia.              | Clarificación textual: se conserva la conexión como tipología pedagógica y se distingue providencia de absolución de la culpa. |
 | #bereshit_46_1-4   | El descenso a Mitsraim debe discernirse delante de Elohim, cuya promesa es acompañar a Israel.                                           | Apoyo textual y léxico: la compañía divina es central, sin convertirla en una descripción física simplista.                    |
 | #bereshit_47_13-16 | El hambre y la administración de Iosef muestran el alcance público de la crisis y de la preservación.                                    | Lectura cualificada: se registra la complejidad económica sin convertir la exposición en una norma política universal.         |
+| #bereshit_47_28-31 | La enseñanza central contrasta hablar conforme a las palabras con actuar conforme a ellas; Iosef promete hacer lo que Yaakov habló.      | Apoyo textual, con el alcance inmediato del juramento funerario delimitado.                                                    |
+| #bereshit_48_15-20 | La bendición recuerda al Pastor y al Redentor, y la mano cruzada muestra que Elohim no queda limitado por la primogenitura humana.       | Apoyo textual y clarificación léxica; se evita convertir la elección de Efráim en regla universal.                             |
+| #bereshit_49_1-12  | Yehudá reúne cetro, legislación y congregación de pueblos; la clase lo conecta con el Mesías y con textos proféticos posteriores.        | Inferencia cualificada: se distingue el sentido inmediato de Yehudá de la lectura mesiánica canónica.                          |
+| #bereshit_49_22-26 | Iosef es fructífero y resiste porque las manos del Poderoso de Yaakov lo sostienen.                                                      | Apoyo textual, con la aplicación mesiánica marcada como pedagógica.                                                            |
+| #bereshit_50_24-26 | La repetición de «Elohim visitará» deja la esperanza orientada a la subida futura y a los huesos que saldrán de Mitsraim.                | Apoyo textual y léxico; no se reduce «visitar» a recuerdo psicológico.                                                         |
 
 ## Conexiones principales
 
@@ -112,4 +173,5 @@ Vayigash no reduce la reconciliación a lágrimas ni la providencia a una excusa
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah](https://www.youtube.com/watch?v=VPMoZun2Bww) (`source_id`: `youtube:VPMoZun2Bww`).
+- Video: [Parashat Vaychi - Genesis 47:28 - 50:26 - Doing in accordance with the divine will](https://www.youtube.com/watch?v=86l71sgugKc) (`source_id`: `youtube:86l71sgugKc`).
 - Esta nota organiza y contrasta la exposición asignada a esta lane; no presenta la transcripción automática como cita literal.
