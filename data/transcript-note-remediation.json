@@ -1,33 +1,8 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 251,
+  "total_notes_requiring_remediation": 249,
   "notes": [
-    {
-      "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
-      "substantive_words": 185,
-      "thematic_sections": [
-        "palabra, hijo y ángeles"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/besorah/hebreos_2_sufrimiento_hermandad_y_auxilio.md",
-      "substantive_words": 102,
-      "thematic_sections": [
-        "advertencia y solidaridad"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-
     {
       "path": "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md",
       "substantive_words": 81,

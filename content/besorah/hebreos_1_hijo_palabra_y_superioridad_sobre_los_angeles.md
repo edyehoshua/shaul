@@ -52,7 +52,7 @@ También es decisivo **(δι’ οὗ)** (*di’ hou*) en 1:2. Puede traducirse 
 
 ## Las citas del Tanaj: siervo, rey y creador (1:5-14)
 
-En textual order, 1:5 pregunta a cuál de los ángeles se dijo: “Tú eres mi Hijo”. Eric observa que la clase no lee “Hijo” como una simple categoría biológica, sino como lenguaje de herencia, manifestación del amor de Elohim y subordinación voluntaria a su propia palabra. La observación concreta se contrasta con las citas del Salmo 2, 2 Samuel 7 y 1 Crónicas 17: el uso mesiánico es argumental, mientras la aplicación teológica de la clase requiere cautela.
+Siguiendo el orden textual, 1:5 pregunta a cuál de los ángeles se dijo: “Tú eres mi Hijo”. Eric observa que la clase no lee “Hijo” como una simple categoría biológica, sino como lenguaje de herencia, manifestación del amor de Elohim y subordinación voluntaria a su propia palabra. La observación concreta se contrasta con las citas del Salmo 2, 2 Samuel 7 y 1 Crónicas 17: el uso mesiánico es argumental, mientras la aplicación teológica de la clase requiere cautela.
 
 En 1:6-7 aparece el contraste más directo. El primogénito recibe la postración de los ángeles; los ángeles son descritos como vientos y fuego, es decir, ministros. Eric advierte que postrarse no siempre significa adorar: puede expresar homenaje humano. Esa precisión evita convertir un verbo en una prueba aislada. **(πρωτότοκος)** (*prōtotokos*) significa “primogénito” y puede cargar prioridad, rango o herencia; la lectura “titular universal” es una aplicación coherente con 1:2, pero debe marcarse como interpretación contextual. **(λειτουργοί)** (*leitourgoi*) significa servidores o ministros; la oposición entre servicio angélico y trono del Hijo sí está explícita en la secuencia.
 
