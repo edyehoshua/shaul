@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 282,
+  "total_notes_requiring_remediation": 281,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -89,19 +89,6 @@
       "issues": [
         "under_300_substantive_words",
         "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/besorah/apocalipsis_4_trono_redencion_y_adoracion.md",
-      "substantive_words": 496,
-      "thematic_sections": [
-        "de la puerta al trono: 4:1–2",
-        "círculos alrededor del trono: 4:3–7",
-        "santidad, creación y el umbral de apocalipsis 5: 4:8–11",
-        "hoja léxica"
-      ],
-      "issues": [
         "missing_eric_map"
       ]
     },

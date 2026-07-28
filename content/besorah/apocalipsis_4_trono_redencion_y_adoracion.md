@@ -66,6 +66,15 @@ La parte 14 formula su conclusión de modo más fuerte: el trono de la majestad 
 | **(עין)** / **(עינים)** | ayin / enayim | ojo / ojos; normalmente designa el órgano de visión. La clase propone que, dentro de la imaginería, comunica aquello que se hace visible. | La ampliación a «aspecto manifiesto» es una propuesta pedagógica contextual; no es una sustitución exacta del sentido básico ni cancela la figura de las criaturas «llenas de ojos». |
 | **(כבוד)** | kavod | gloria, honra o peso; #revelation_4_9-11 lo une a la respuesta de adoración al que está en el trono. | La clase lo enlaza con «trono de la majestad» y redención; ese desarrollo es teológico e intertextual, no una equivalencia automática con cada uso de kavod. |
 
+## Mapa de la enseñanza de Eric
+
+| Punto concreto tomado de Eric | Versículos o perícopa | Evaluación en esta nota |
+| --- | --- | --- |
+| La expresión «después de estas cosas» abre una nueva concentración de la visión después de los mensajes a las comunidades, y la puerta no debe leerse como una excursión física de Juan al cielo. | Apocalipsis 4:1-2 | **Apoyo textual e inferencia calificada**: la secuencia de la puerta, la voz y la entrada en el Espíritu aparece en el pasaje; la afirmación sobre la estructura global del libro queda como lectura literaria de la clase. |
+| Los detalles alrededor del trono forman círculos ordenados de gobierno y gloria, no una colección decorativa; las criaturas y sus ojos deben leerse dentro del lenguaje visionario. | Apocalipsis 4:3-7 | **Apoyo textual con aclaración interpretativa**: el orden de arco, ancianos, lámparas, mar y criaturas puede seguirse en el texto; la identificación de cada símbolo y la lectura de los ojos como manifestación no son equivalencias necesarias. |
+| La escena pertenece a la teología de la merkavá y conversa con Ezequiel 1, pero no autoriza a imaginar literalmente seres celestiales ni a imponer una clave única a cada imagen. | Apocalipsis 4:6-7; Ezequiel 1 | **Analogía intertextual calificada**: se conserva la conexión concreta propuesta por Eric; se marca que מרכבה es una categoría interpretativa y que Apocalipsis conserva su propia composición. |
+| La adoración del trono prepara la redención y la reconciliación que la clase desarrolla al pasar a Apocalipsis 5, Romanos 5 y Hebreos 10, aunque Apocalipsis 4:11 declara explícitamente aquí la creación. | Apocalipsis 4:8-11 | **Apoyo textual parcial e inferencia calificada**: santidad, postración, coronas depuestas y creación están en el capítulo; redención y reconciliación se evalúan mediante los textos conectados, no se atribuyen íntegramente a 4:11. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar las referencias judías específicas sobre la merkavá que la clase presupone o menciona.
