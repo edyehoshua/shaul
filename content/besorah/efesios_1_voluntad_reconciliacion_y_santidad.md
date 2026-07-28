@@ -131,7 +131,17 @@ El expositor conecta este cierre con #isaiah_41_4 y #psalms_24_7, y desarrolla l
 | **(רצון)**          | ratson               | voluntad, querer               | Forma hebrea del Delitzsch en #ephesians_1_1, #thessalonians1_4_3 y #peter1_2_15 | La clase recurre a _thelema_ griego; cotejar el texto griego y los campos semánticos antes de fijar una equivalencia exacta.           |
 | **(שליח)**          | shaliaj              | enviado                        | Forma hebrea del Delitzsch en #ephesians_1_1                                     | Puede iluminar la función de enviado; su relación con el griego apostolos debe tratarse como aproximación funcional hasta verificarla. |
 | **(המרצה / הרצוי)** | hamratseh / haratzui | reconciliando / reconciliación | Formas del Delitzsch en #corinthians2_5_18-19                                    | La relación entre voluntad y reconciliación es la síntesis de la clase; las formas no convierten ambos conceptos en sinónimos léxicos. |
-| **(קדשתכם)**        | kedushatjem          | vuestra santidad               | Forma hebrea del Delitzsch en #thessalonians1_4_3                                | «Límites y distinción» es una aplicación útil, no una definición exhaustiva de santidad.                                               |
+| **(קדשתכם)**          | kedushatjem          | vuestra santidad               | Forma hebrea del Delitzsch en #thessalonians1_4_3                                | «Límites y distinción» es una aplicación útil, no una definición exhaustiva de santidad.                                               |
+
+## Mapa de la enseñanza de Eric
+
+| Punto concreto tomado de Eric | Versículos o perícopa | Evaluación en esta nota |
+| --- | --- | --- |
+| La voluntad de Elohim no debe buscarse como una ambición privada, sino reconocerse en el envío recibido y en la reconciliación que Él obra. | Efesios 1:1; 2 Corintios 5:17-19 | **Apoyo textual con alcance calificado**: ambos pasajes atribuyen el envío y la reconciliación a Elohim; presentarla como definición exhaustiva de toda decisión personal queda como síntesis pastoral de la clase. |
+| La santidad es una voluntad explícita de Elohim y se manifiesta en límites concretos, especialmente en la integridad sexual y matrimonial. | 1 Tesalonicenses 4:1-8 | **Apoyo textual y aplicación calificada**: el pasaje nombra la santidad y ordena apartarse de la inmoralidad; las aplicaciones pastorales más amplias no se convierten en una lista universal. |
+| La gratitud, el discernimiento y hacer el bien forman una ruta práctica de obediencia, no una libertad que encubra el mal. | 1 Tesalonicenses 5:18-22; 1 Pedro 2:15-17 | **Apoyo textual**: los imperativos aparecen en ese orden argumental; la regla de Eric que identifica todo mal con lo que no restaura permanece pendiente de verificación contextual. |
+| La bendición, elección, redención y revelación del misterio muestran que el propósito divino procede de la gracia y desemboca en conocimiento y esperanza. | Efesios 1:3-14; 1:15-18 | **Lectura apoyada y calificada**: la secuencia está en el capítulo; el alcance preciso de elección, predestinación y las equivalencias léxicas propuestas por la clase requiere cotejo griego. |
+| El poder anunciado a los creyentes se ve en la resurrección, y el Mesías queda presentado como cabeza de la asamblea, su cuerpo. | Efesios 1:19-23 | **Apoyo textual**: el cierre une poder, resurrección, supremacía y cuerpo; los ecos de Salmo 24 e Isaías 41 son conexiones propuestas, no intertextos demostrados aquí. |
 
 ## Pendiente de verificar
 

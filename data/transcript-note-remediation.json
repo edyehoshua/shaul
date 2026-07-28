@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 280,
+  "total_notes_requiring_remediation": 279,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -128,23 +128,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/besorah/efesios_1_voluntad_reconciliacion_y_santidad.md",
-      "substantive_words": 961,
-      "thematic_sections": [
-        "el envío no comienza en una ambición privada",
-        "reconciliación: el eje propuesto por la clase",
-        "santidad: un fruto explícito, no una etiqueta",
-        "gratitud, discernimiento y bien",
-        "bendición, elección y propósito revelado",
-        "fidelidad y amor: una oración por conocimiento",
-        "poder, resurrección, cabeza y cuerpo",
-        "hoja léxica"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md",
       "substantive_words": 785,

@@ -70,6 +70,7 @@
 ## 2026-07-28 — Integrator cron (feat/eric_youtube)
 
 - Remediated `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md` for `youtube:-utycygmrv4`: rebuilt the chapter in textual order, preserved Eric’s concrete historical, lexical, and pastoral observations with qualification, added local Delitzsch comparison text and lexical sheet, and recorded five traceability entries in `Mapa de la enseñanza de Eric`.
+- 2026-07-28 — Remediated `content/besorah/efesios_1_voluntad_reconciliacion_y_santidad.md` for its six exclusive Eric sources (`youtube:6gCUX55_ID0`, `youtube:qsn5BfZMZ8o`, `youtube:9Tzh2oZtmAk`, `youtube:KPdeVmwOViQ`, `youtube:k2V_xN81ozU`, `youtube:WSIaQ6rlhDc`). Added five ordered traceability entries covering the class’s concrete claims from calling and reconciliation through holiness, discernment, election, prayer, resurrection, and head/body; local Delitzsch text and qualified lexical/historical cautions remain in place.
 - Validation passed: public Eric credit and unique source ID, no private transcript path or Hebrew slash segmentation, local corpus present, `python3 scripts/check_transcript_note_quality.py` returned `quality_failures=0`; remediation registry reduced from 214 to 213.
 - Coverage refresh remained `716` covered / `242` pending with no duplicate source IDs or missing visible credits. No lane reassignment was made: current pending-source balance still requires preserving exclusive ownership, and no new unassigned coherent group was available for a below-target lane.
 
