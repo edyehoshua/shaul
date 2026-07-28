@@ -16,9 +16,10 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=JynK66A9mn0"
   - "docs/scriptures/oe/json/numbers/22.json"
+  - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
   - "youtube:JynK66A9mn0"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -64,6 +65,14 @@ Tres veces el asna ve al mensajero y tres veces Bilam la golpea. La repetición 
 ## Palabra recibida, no mercancía: 22:36-41
 
 Balaq sale al encuentro y reprocha a Bilam no haber acudido antes. Bilam responde que ahora puede hablar, pero no garantiza el resultado. La escena conserva la tesis de la clase: el don no es propiedad comercial del portador. La palabra puede ser anunciada por un hombre atraído por honor y recompensa, pero no queda sometida a él. El capítulo termina en Bamot-Baal, desde donde Balaq muestra sólo el extremo del pueblo; el próximo capítulo mostrará que cambiar el ángulo no cambia la palabra de יהוה.
+
+## Permiso, camino y responsabilidad: una tensión narrativa
+
+La secuencia de los versículos 20–22 merece conservarse completa. Primero Elohim dice: «levántate, ve con ellos», pero añade que Bilam sólo hará la palabra que él hable. Después el narrador afirma que se encendió el enojo de Elohim porque Bilam iba. El permiso para avanzar no convierte el trayecto en aprobación moral. La clase usa esta tensión para advertir que alguien puede repetir una fórmula correcta y, al mismo tiempo, perseguir una recompensa que desordena su camino. Es una aplicación pastoral; el texto sí afirma el enojo y el camino torcido, pero no nos permite leer cada pensamiento privado de Bilam como si estuviera narrado.
+
+El TTH conserva la aspereza de la escena: «se calentó la nariz de Elohim porque él iba» y el mensajero de יהוה salió «para serle adversario» (#bamidbar_22_22). Esta formulación no debe suavizarse hasta hacer del mensajero una simple metáfora interior. En el relato, el adversario se planta tres veces, el asna percibe lo que el jinete no percibe y יהוה abre la boca del animal y los ojos de Bilam (#bamidbar_22_23-31). La repetición establece un juicio narrativo: la capacidad de pronunciar oráculos no garantiza discernimiento en el camino.
+
+Cuando Bilam dice **חטאתי** (_jatati_, «he pecado»), reconoce responsabilidad, pero la instrucción decisiva viene después: «nada más la palabra que Yo hable a ti, eso hablarás» (#bamidbar_22_34-35, TTH). «Arrepentimiento» es una aproximación útil, no una descripción exhaustiva de un cambio interior; la acción comprobable es someter la boca a la palabra recibida. Eric conecta esto con el peligro de convertir un don en mercancía. El capítulo respalda el principio en su desenlace: Balaq puede ofrecer honor, sacrificios y una nueva perspectiva, pero Bilam confiesa que no puede hablar cualquier cosa, sino sólo lo que Elohim ponga en su boca (#bamidbar_22_38-40). La narración deja así dos responsabilidades juntas: quien convoca no controla a יהוה, y quien habla en su nombre no queda exento de ser juzgado por su camino.
 
 ## Léxico clave
 
