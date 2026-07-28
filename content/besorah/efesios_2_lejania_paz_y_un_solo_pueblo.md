@@ -172,6 +172,14 @@ Así, el texto prueba tres afirmaciones relacionadas de la clase. La gracia crea
 | **μεσότοιχον**   | _mesotoichon_   | pared intermedia, muro divisorio                            | En 2:14, la pared funciona dentro del contraste entre los dos grupos que el Mesías hace uno; el sustantivo no identifica por sí solo una institución histórica única. | «Pared de separación» es cercana; fijar su referente exacto requiere contexto histórico y sintáctico adicional.                                             |
 | **καινὸν**       | _kainon_        | nuevo, reciente, de una calidad renovada                    | En 2:15, el «un solo hombre nuevo» describe el resultado corporativo de hacer la paz entre los dos, no la desaparición de toda diferencia histórica.                  | «Nueva creación» es una síntesis relacionada, no una traducción intercambiable en cada aparición.                                                           |
 
+## Control de la perícopa: enemistad, ley y acceso (2:14-18)
+
+La unidad central debe conservar su secuencia verbal. **ποιήσας**, _poiēsas_, «haciendo», presenta al Mesías como quien hace de los dos un solo hombre nuevo y hace paz; **καταργήσας**, _katargēsas_, «dejando sin efecto o desactivando», describe la acción sobre la enemistad en el argumento; y **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconciliar plenamente», lleva a ambos hacia Elohim en un solo cuerpo. Las tres formas no son sinónimos intercambiables: la primera habla de formación de una unidad, la segunda de la remoción de la barrera hostil y la tercera del restablecimiento de la relación.
+
+Esto precisa una observación concreta de Eric: la sangre y la cruz no se presentan como una fórmula privada de acceso, sino como la obra que reúne a los dos grupos. **μεσότοιχον**, _mesotoichon_, «pared intermedia», nombra la separación dentro de esa escena; no basta para identificarla con una institución histórica única ni para declarar que toda instrucción divina quedó abolida. La traducción hebrea **(אתתורת המצות והחקות)** puede orientar la comparación, pero el control decisivo sigue siendo la sintaxis griega y su resultado explícito: un solo cuerpo, reconciliación y paz.
+
+El cierre confirma el alcance comunitario. **ἄμφω**, _amphō_, «ambos», mantiene visibles los dos grupos, mientras **προσαγωγή**, _prosagōgē_, «acceso o introducción», y **ἐν ἑνὶ πνεύματι**, «en un solo Rúaj», describen un acceso común al Padre. La unidad no borra la memoria de la lejanía de 2:11-12; la transforma en pertenencia y responsabilidad compartidas. Así, la síntesis «un solo pueblo» queda apoyada sólo cuando sigue el orden de la perícopa: dos grupos, una obra del Mesías, un cuerpo y un acceso.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el análisis de **σάρξ** en #ephesians_2_11 y #ephesians_2_15 con léxicos y con los usos del término en Efesios antes de fijar «físicamente» como glosa definitiva.
