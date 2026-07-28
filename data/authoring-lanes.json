@@ -293,6 +293,13 @@
             "youtube:sfGXMp9LYCc"
           ],
           "reason": "Rebalanceo supervisado: haftarot tenía 33 pendientes (<40) y solo restaba 1 fuente elegible no asignada tras cobertura. Se asigna de forma exclusiva; no se tomaron fuentes in-progress ni notas canónicas de otras lanes."
+        },
+        {
+          "title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
+          "source_ids": [
+            "youtube:xpihVrZGGI4"
+          ],
+          "reason": "Tras la cobertura, haftarot quedó en 28 fuentes pendientes (<40). Se asigna exclusivamente esta exposición bíblica de Haftarah aún no asignada; no se tomó una fuente en progreso ni una nota canónica de otra lane."
         }
       ],
       "priority": "Remediate existing canonical notes tied to owned sources first; otherwise process the first eligible biblical exposition in source order."
