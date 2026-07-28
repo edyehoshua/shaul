@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 808,
-  "pending_videos": 150,
-  "transcript_notes": 385,
+  "covered_videos": 812,
+  "pending_videos": 146,
+  "transcript_notes": 389,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -23,7 +23,7 @@
     },
     "613 Mitzvot 2a parte restantes (grupo coherente)": {
       "total": 4,
-      "covered": 2,
+      "covered": 3,
       "lane": "colosenses"
     },
     "Apocalipsis": {
@@ -123,7 +123,7 @@
     },
     "Las 613 mitzvot 2a parte": {
       "total": 96,
-      "covered": 94,
+      "covered": 95,
       "lane": "colosenses"
     },
     "Marcos (clasificado desde Uncategorized)": {
@@ -158,7 +158,7 @@
     },
     "Shavuot independiente (balanceado desde Uncategorized)": {
       "total": 1,
-      "covered": 0,
+      "covered": 1,
       "lane": "haftarot"
     },
     "Shavu’ot": {
@@ -178,7 +178,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 115,
+      "covered": 117,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
