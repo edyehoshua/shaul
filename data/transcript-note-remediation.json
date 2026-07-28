@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 253,
+  "total_notes_requiring_remediation": 251,
   "notes": [
     {
       "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
@@ -889,16 +889,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/bereshit_41_parashot_2017.md",
-      "substantive_words": 200,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/bereshit_44_parashot_2017.md",
       "substantive_words": 203,
@@ -1432,19 +1423,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/shemot_21.md",
-      "substantive_words": 260,
-      "thematic_sections": [
-        "conceptos importantes",
-        "juicio, responsabilidad y límites",
-        "texto tth disponible"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/shemot_27_parashot_2017.md",
       "substantive_words": 204,

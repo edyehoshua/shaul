@@ -66,6 +66,52 @@ Esa prudencia es necesaria. El versículo establece una consecuencia severa, per
 | #shemot_21_9  | Y si para su hijo la designa, conforme al proceso legal de las hijas hará para ella.                                                                             | La designación se expresa mediante el lenguaje de proceso legal.            |
 | #shemot_21_30 | Si un rescate se impone sobre él dará redención de su vida conforme a todo lo que se imponga sobre él.                                                           | Anclaje directo para _kofer_ y _pidion_ en el capítulo.                     |
 
+## Mishpatim: procedimientos que protegen la vida
+
+La fuente pública `youtube:i0kaIhPMHZ8` se titula «Estos son los procedimientos que pondrás delante de ellos». Sin transcripción local, la nota conserva el énfasis visible del título y lo coteja con Shemot 21–24, sin presentar audio como cita literal. **(משפטים)**, _mishpatim_, es el plural de משפט: juicios, decisiones o procedimientos legales. En 21:1 no significa una idea espiritual despegada de la vida, sino normas puestas delante de la comunidad.
+
+El bloque sobre daño dice: «vida en lugar de vida, ojo en lugar de ojo» (#shemot_21_23-25). **(נפש)**, _nefesh_, significa ser, vida o persona; aquí conserva el peso de la vida humana. **(תחת)**, _tajat_, significa debajo o en lugar de y expresa correspondencia, no una licencia para vengarse privadamente. Los versículos 26–27 muestran que dañar el ojo o el diente de un siervo produce su libertad: el límite legal alcanza al poderoso.
+
+En #shemot_22_21-27 el extranjero no debe ser engañado ni oprimido porque Israel fue extranjero en Mitsraim. **(גר)**, _ger_, significa extranjero residente; no equivale exactamente a turista. **(ענה)**, _anah_, significa afligir u oprimir. La viuda, el huérfano y el pobre aparecen como personas cuyo grito יהוה escucha. **(צעק)**, _tsa‘aq_, significa clamar pidiendo auxilio; la justicia del pacto no ignora la voz que el poder puede despreciar.
+
+Shemot 23 prohíbe informe falso, presión de la mayoría, torcer el juicio y soborno. **(שחד)**, _shojad_, significa soborno; el texto explica que ciega y distorsiona palabras. También manda devolver el animal del enemigo y ayudar al asno de quien odia. El séptimo año deja la tierra para los necesitados y el séptimo día da respiro al animal, al siervo y al extranjero. **(שבת)**, _shavat_, significa cesar o detenerse; «vacaciones» es insuficiente, porque el descanso tiene alcance comunitario y económico.
+
+En #shemot_24_3-8 el pueblo responde: «Las palabras que ha hablado יהוה haremos» y «haremos y obedeceremos». **(עשה)**, _asah_, significa hacer o realizar; **(שמע)**, _shama_, oír, escuchar y obedecer. El pacto une palabra escrita, acción prometida y sangre; no permite separar adoración de justicia. El título de la fuente acierta al subrayar procedimientos, siempre que los procedimientos se lean como la forma concreta de una comunidad redimida que no debe reproducir la opresión de Mitsraim.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual   | Observación visible de la fuente pública                          | Tratamiento                                      |
+| ---------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| #shemot_21_1-11  | «Estos son los procedimientos» sitúa la parashá en la práctica.   | Apoyo textual y aclaración de _mishpatim_.       |
+| #shemot_21_23-27 | La respuesta al daño tiene un límite proporcional.                | Se distingue justicia legal de venganza privada. |
+| #shemot_22_21-27 | La memoria de Mitsraim fundamenta el cuidado del vulnerable.      | Se siguen extranjero, viuda, huérfano y pobre.   |
+| #shemot_23_1-12  | Los procedimientos incluyen tribunal, enemigo, tierra y descanso. | Se conserva el alcance social de la justicia.    |
+| #shemot_24_3-8   | El pacto exige hacer y obedecer las palabras.                     | Se vinculan texto, acción y sangre.              |
+
+## Léxico ampliado
+
+| Forma     | Transliteración | Sentido normal          | Fuerza contextual                      | Equivalencia                |
+| --------- | --------------- | ----------------------- | -------------------------------------- | --------------------------- |
+| **(גר)**  | _ger_           | extranjero residente    | Persona protegida dentro del pueblo    | «Turista» es inexacta       |
+| **(ענה)** | _anah_          | afligir, oprimir        | Prohibición de explotar vulnerabilidad | «Discriminar» es aproximada |
+| **(צעק)** | _tsa‘aq_        | clamar, gritar          | Grito que יהוה escucha                 | «Quejarse» es aproximada    |
+| **(שחד)** | _shojad_        | soborno                 | Regalo que corrompe el juicio          | «Influencia» es pedagógica  |
+| **(שמע)** | _shama_         | oír, escuchar, obedecer | Respuesta pactal a la voz              | «Percibir» es insuficiente  |
+
+## Recorrido textual: del caso particular a la responsabilidad comunitaria
+
+Shemot 21 no es una colección desordenada de castigos. La fórmula inicial del OE, «y estos son los juicios que pondrás delante de ellos» (#shemot_21_1), enlaza la revelación del Sinaí con casos que una comunidad debe aprender a juzgar. El TTH dice «estos son los procesos legales», una traducción pedagógica que conserva el marco, aunque **(משפט)**, _mishpat_, puede referirse tanto a la decisión como al derecho que ordena el caso. La observación de Eric sobre procedimientos es correcta si «delante de ellos» significa una norma pública, examinable y no una autorización para la venganza privada.
+
+Los primeros casos limitan el poder del amo. Si una sierva es designada para un hijo y no recibe el trato debido, «conforme al juicio de las hijas hará para ella» (#shemot_21_9). **(יעד)**, _yaad_, designar o destinar, describe la decisión que la pone en una relación familiar; no convierte a la mujer en una cosa sin derechos. **(משפט)** reaparece como criterio que restringe esa designación. «Redimir» traduce de modo aproximado la posibilidad expresada por **(יצא)**, _yatsa_, salir; el resultado concreto es que la persona no queda cautiva de la voluntad del propietario.
+
+En #shemot_21_23-25, el texto responde al daño: «vida por vida, ojo por ojo, diente por diente». **(נזק)**, _nezeq_, daño, nombra la lesión en su dimensión legal; la expresión no ordena que el lector se convierta en ejecutor. El contexto inmediato de golpe, herida y compensación exige un tribunal que determine responsabilidad. Además, los versículos 26-27 ordenan que el siervo salga libre si pierde un ojo o un diente. La proporcionalidad no es solo una idea abstracta: pone un límite verificable a quien posee fuerza y recursos. En esto la clase ofrece una dirección válida, pero la equivalencia popular «venganza equivalente» es inexacta, porque el capítulo está construyendo juicio regulado.
+
+El secuestro recibe una formulación distinta: «el que hurtare un hombre y lo vendiere, y fuere hallado en su mano, morir morirá» (#shemot_21_16). **(גנב)**, _ganav_, hurtar o robar, y **(מכר)**, _makar_, vender, describen dos actos ligados: apropiarse de una persona y comerciar con ella. **(נמצא)**, _nimtsa_, ser hallado, es una forma pasiva de מצא y expresa el descubrimiento probatorio del caso; «confesó» no sería exacto. La observación de Eric conserva la gravedad del crimen, pero el texto no autoriza a completar aquí el método de ejecución ni a trasladar la pena a particulares.
+
+El _kofer_ también exige precisión. Cuando un buey acorneador causa muerte, el dueño puede quedar sujeto a «todo cuanto le fuere impuesto» (#shemot_21_30). **(כפר)**, _kofer_, cubrir o rescatar mediante una suma, funciona aquí como pago fijado judicialmente; no es una explicación universal de la expiación. **(פדה)**, _padah_, redimir o rescatar, señala la liberación mediante un precio. OE y TTH permiten afirmar una compensación en este caso, pero no borrar la diferencia entre negligencia, homicidio y secuestro. Esa distinción protege tanto a la víctima como al acusado de una aplicación mecánica.
+
+La unidad siguiente confirma el horizonte social. «Al extranjero no oprimirás ni angustiarás» (#shemot_22_21), porque Israel conoció la opresión en Egipto; y el juez no debe «torcer el juicio de tu pobre» (#shemot_23_6). **(גר)**, _ger_, extranjero residente, participa en la protección de la comunidad; **(נטה)**, _natah_, inclinar o torcer, muestra que la injusticia puede ocurrir mediante una decisión aparentemente formal. Por eso el análisis de Eric sobre los límites de autoridad debe ampliarse: no basta con tener un procedimiento, hay que impedir que el procedimiento sea inclinado contra el débil. El pacto termina con «haremos y escucharemos» (#shemot_24_7): **(שמע)**, _shama_, escuchar y obedecer, une recepción y práctica. Justicia, memoria y obediencia quedan dentro de la misma respuesta.
+
 ## Pendiente de verificar
 
 - [ ] La identificación exacta y la fecha de cualquier documento antiguo citado en la clase para clasificar penas capitales.
@@ -79,4 +125,5 @@ Shemot 21 une normas concretas con responsabilidad pública. La lectura de #shem
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Las "613" mitzvot #227-230 Acerca de las penas capitales](https://www.youtube.com/watch?v=E6KrU1gAZds) — `youtube:E6KrU1gAZds`.
+- Video: [Estos son los procedimientos que pondrás delante de ellos](https://www.youtube.com/watch?v=i0kaIhPMHZ8) — `youtube:i0kaIhPMHZ8`.
 - Esta nota organiza y contrasta la exposición; la transcripción automática no se presenta como cita literal.
