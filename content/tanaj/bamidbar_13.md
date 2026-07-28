@@ -127,6 +127,16 @@ La comparación con 14:8-9 vuelve explícita la condición: «Si יהוה se agr
 - **Bamidbar 14:6-9 — otro ruaj.** Eric presenta la respuesta de Caleb y Yehoshua como fidelidad práctica; la nota conserva la aplicación con **apoyo textual y aclaración léxica**, pues el pasaje concreta esa disposición en no rebelarse y no temer.
 - **Bamidbar 15:37-41 — memoria visible.** Eric conecta los flecos con recordar y hacer los mandamientos; la nota lo trata como **conexión verbal real y relación pedagógica**, no como identidad literaria absoluta con la exploración.
 
+## Revisión de la secuencia y del argumento
+
+La unidad de Bamidbar 13 no deja que el lector elija entre «tierra buena» y «pueblo fuerte» como si fueran informes incompatibles. El OE dice: «Y llegaron hasta el valle de Eshkol, y cortaron de allí una rama y un racimo de uvas» (#bamidbar_13_23); el TTH conserva el fruto como prueba de la bondad de la tierra. **(אשכול)**, _eshkol_, significa racimo; en este contexto nombra una evidencia visible que los exploradores llevan a la comunidad. La observación de Eric sobre la confirmación de la promesa es, por tanto, precisa en este punto: el fruto no es una alegoría necesaria, sino parte del informe. La inferencia de que cada fruto representa una etapa doctrinal distinta sería pedagógica y no debe presentarse como lectura exacta del versículo.
+
+El informe cambia de tono en 13:28 con **אפס**, _efes_, «sin embargo» o «no obstante». La conjunción no borra la afirmación anterior de que la tierra mana leche y miel; introduce el obstáculo que los diez convierten en conclusión. **עז**, _az_, significa fuerte o poderoso, y **ערים בצרות**, _arim betsurot_, significa ciudades fortificadas. Eric acierta al mostrar que la comunidad oyó la misma evidencia y recibió dos interpretaciones: Caleb pesa la promesa y los diez pesan la amenaza. «Pensamiento positivo» no basta para traducir el contraste, porque Caleb no niega las ciudades; sostiene que la presencia de יהוה cambia el desenlace.
+
+La respuesta de Yehoshua y Caleb en 14:7-9 confirma el límite de la aplicación. El OE conserva «la tierra por la que pasamos para explorarla es tierra muy, muy buena» y «no temáis al pueblo de la tierra, porque nuestro pan son ellos». **לחם**, _lejem_, normalmente significa pan o alimento; aquí funciona como metáfora de una amenaza que no podrá sostenerse contra la voluntad divina, no como permiso para deshumanizar a un enemigo. La clase habla de una confianza que vence la mirada natural; el texto respalda la confianza, pero la ancla en «יהוה está con nosotros» y en la prohibición de rebelarse.
+
+Así, el mapa de Eric queda mejor delimitado: _latur_ conecta exploración y mirada; _ruaj ajeret_ describe la disposición fiel de Caleb; y los _nefilim_ pertenecen al lenguaje temeroso del informe. Ninguno de esos términos autoriza a sustituir el relato por una teoría de potestades. La perícopa pide discernir una palabra recibida frente a una interpretación que, aun reconociendo el fruto, convierte el miedo en sentencia.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
