@@ -64,6 +64,8 @@ Pablo no empieza atacando a Israel, sino expresando deseo y oración: quiere que
 
 En #romanos_10_4, Delitzsch traduce **סוֹף הַתּוֹרָה**, «fin de la Torah». En el contexto, la frase no debe convertirse automáticamente en «abolición de la Torah». «Fin» puede señalar meta, culminación o punto hacia el cual se dirige el argumento; el sentido exacto depende de cómo se lea la justicia que Pablo está exponiendo. La equivalencia entre **(τέλος)**, _telos_, y «fin» es aproximada: el término griego puede expresar final, resultado o meta. La clase acierta al resistir que el versículo sea usado como un eslogan contra toda Torah, pero la relación exacta entre Mesías y Torah requiere seguir los versículos 5-8 y el resto de Romanos.
 
+**(ζῆλος)**, _zēlos_, significa celo, ardor o empeño; en #romanos_10_2 reconoce intensidad religiosa, pero la califica «no según conocimiento». La traducción «celo» es directa, mientras que leerlo como fidelidad aprobada sería una sobreinterpretación porque Pablo precisamente examina su dirección. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; aquí contrasta la justicia de Elohim con la justicia que Israel procura establecer (#romanos_10_3). «Justicia» es una glosa directa, pero su fuerza relacional y pactual no se decide por una definición aislada.
+
 ## Romanos 10:5-8: la palabra cercana no es una hazaña humana
 
 Pablo contrapone dos formulaciones: la justicia que procede de la Torah, asociada con hacer y vivir, y la justicia de la emunah, que no pide una hazaña imposible (#romanos_10_5-8). Nadie debe subir al cielo para traer abajo al Mesías ni descender al abismo para hacerlo subir de los muertos. La palabra está cerca: en la boca y en el corazón, como la palabra de la emunah que los enviados anuncian.
@@ -92,6 +94,8 @@ Pablo pregunta si Israel no oyó y responde citando el alcance de la voz por tod
 
 Eric vincula estas citas con la elección, el remanente y el llamamiento de las naciones. La relación es legítima como lectura del argumento de Romanos 9–11, pero la nota no convierte cada afirmación histórica de la clase —por ejemplo, la desaparición de las diez tribus o una equivalencia completa entre naciones y tribus— en dato demostrado por Romanos 10. El capítulo mantiene dos verdades juntas: Elohim llama y sostiene la salvación, y la resistencia de Israel es descrita como desobediencia. Por eso la soberanía divina no autoriza fatalismo ni desprecio étnico.
 
+El cierre usa dos participios que no deben disolverse en una sola explicación: Elohim es hallado por quienes no lo buscaban, mientras extiende sus manos a un pueblo que contradice y desobedece (#romanos_10_20-21). **(ἀπειθέω)**, _apeitheō_, tiene el sentido ordinario de desobedecer o no dejarse persuadir; en #romanos_10_21 describe una resistencia culpable dentro de la imagen profética. «Desobediente» es una traducción directa y suficiente, aunque el verbo puede conservar el matiz de rechazo a ser persuadido. La observación de Eric sobre responsabilidad humana recibe aquí apoyo textual, sin negar la iniciativa divina destacada en los capítulos anteriores.
+
 ## Hoja léxica
 
 | Forma fuente               | Transliteración     | Sentido ordinario                                                      | Fuerza contextual                                                                                  | Calificación                                                                               |
@@ -102,6 +106,9 @@ Eric vincula estas citas con la elección, el remanente y el llamamiento de las 
 | **(ἐπικαλέω)** / **(קרא)** | _epikaleō_ / _qara_ | invocar, apelar; llamar, proclamar o invocar                           | #romanos_10_12-14 describe la invocación del Señor como respuesta dentro de la cadena de escucha.  | Aproximada y contextual; la sintaxis hebrea de Joel queda pendiente.                       |
 | **(πίστις)** / **(אמונה)** | _pistis_ / _emunah_ | fe, confianza, fidelidad; firmeza, fidelidad                           | #romanos_10_17 vincula la respuesta con la escucha de la palabra del Mesías.                       | Pedagógica si se hace equivalencia total; ambas formas requieren su propio contexto.       |
 | **(ἀκούω)**                | _akouō_             | oír, escuchar, enterarse                                               | #romanos_10_14-17 convierte la escucha en condición de la respuesta, no en sonido sin comprensión. | Aproximada: el contexto aporta la dimensión de respuesta.                                  |
+| **(ζῆλος)**                | _zēlos_             | celo, ardor, empeño                                                    | #romanos_10_2 reconoce el celo de Israel y a la vez lo califica como no guiado por conocimiento.   | Directa como glosa; el contexto impide tratar todo celo como obediencia.                   |
+| **(δικαιοσύνη)**           | _dikaiosynē_        | justicia, rectitud                                                     | #romanos_10_3 contrasta la justicia de Elohim con la justicia propia que se procura establecer.    | Directa en el léxico básico; su fuerza teológica es contextual.                            |
+| **(ἀπειθέω)**              | _apeitheō_          | desobedecer, no dejarse persuadir                                      | #romanos_10_21 caracteriza la resistencia de Israel ante las manos extendidas de Elohim.           | Directa y contextual; conserva ambos matices sin convertirlos en una teoría psicológica.   |
 
 ## Pendiente de verificar
 
