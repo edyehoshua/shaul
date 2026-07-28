@@ -115,6 +115,7 @@ Finalmente, 12:8 protege la participación de quien no puede traer un cordero: �
 - **Vayikra 12:1-5 — plazo de pureza.** Eric relaciona la diferencia entre hijo e hija con un proceso de reintegración; la nota conserva las duraciones como **apoyo textual** y deja la razón teológica como inferencia cualificada.
 - **Vayikra 12:6-7 — ofrendas diferenciadas.** La clase insiste en que la olah y la jatat no deben confundirse; la nota ofrece **aclaración léxica y apoyo textual**, sin afirmar que la expiación borre una culpa personal no nombrada.
 - **Vayikra 12:8 — alternativa para quien no alcanza.** Eric destaca que la persona pobre no queda excluida; la nota lo trata como **apoyo textual**, porque la alternativa de tórtolas está explícitamente provista por el pasaje.
+- **1 Corintios 15:56 — _kentron_ y _dynamis_.** Eric propone «origen» y «exponente» para explicar muerte, pecado y ley; la nota conserva la conexión como **recepción canónica pedagógica**, pero distingue los sentidos normales de las formas griegas y no los usa para redefinir _jatat_.
 
 ## La ofrenda final: acceso regulado, no estigma
 
@@ -125,6 +126,12 @@ El versículo 7 dice que el sacerdote «hará expiación por ella, y será pura�
 12:8 añade un límite económico decisivo: «si no alcanza su mano un cordero, tomará dos tórtolas o dos hijos de paloma». La expresión **לא תגיע ידו**, _lo tagia yado_, significa literalmente «no alcanzará su mano»; **יד**, _yad_, normalmente es «mano», pero aquí funciona como capacidad o recurso disponible. «Pobreza» es una equivalencia contextual aproximada. **לקח**, _laqaj_, significa tomar o recibir, y ordena la alternativa permitida sin degradar a la mujer ni excluirla del culto. Eric acierta al destacar que la provisión abre camino a quien no puede traer el animal más costoso; el texto, no obstante, presenta una alternativa concreta y no una teoría general sobre todos los sacrificios.
 
 Así, la secuencia «días–ofrenda–expiación–pureza» protege dos verdades a la vez: el acceso a lo sagrado está regulado y la parturienta no queda marcada como una pecadora por haber dado a luz. Leer _jatat_ como culpa moral automática contradice la cautela del capítulo; leer la espera como innecesaria ignora la forma en que el texto ordena la reintegración.
+
+## La conexión griega: una recepción que no reemplaza a Vayikra 12
+
+La exposición de Eric extiende la discusión hasta 1 Corintios 15:56 y propone revisar dos palabras griegas. **κέντρον**, _kentron_, normalmente significa aguijón, punta o instrumento para pinchar; en 1 Corintios 15:56 su fuerza contextual es una imagen de la muerte vencida, no una demostración de que el sustantivo deba traducirse técnicamente como «origen» en toda versión. «Punto de partida» puede funcionar como equivalencia pedagógica dentro de la explicación matemática de Eric, pero no es equivalencia exacta ni autoriza a corregir por sí sola la traducción tradicional. **δύναμις**, _dynamis_, significa poder, capacidad o fuerza; allí describe la potencia del pecado en relación con la ley. «Exponente» es una aplicación pedagógica de la clase, no el sentido normal obligatorio de la forma.
+
+Esta precisión importa para Vayikra 12. Eric conecta muerte, pecado, parto, _olah_ y _jatat_, y la conexión canónica puede iluminar su preocupación por la restauración. Pero 1 Corintios 15:56 es una recepción apostólica posterior y no una glosa hebrea de **חטאת**, _jatat_, en el rito de la parturienta. La nota puede conservar el argumento de Eric —la expiación no debe reducirse a una acusación moral contra la madre— sin convertir una discusión griega sobre muerte y pecado en el significado inmediato de los días, las sangres o la ofrenda de Vayikra 12.
 
 ## Créditos
 
