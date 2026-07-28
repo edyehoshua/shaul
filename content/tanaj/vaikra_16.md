@@ -1,99 +1,124 @@
 ---
-title: "Vaikra 16: yom hakipurim y limpieza delante de יהוה"
-description: "Apunte sobre Vaikra 16:29-32 y la relación entre humillar el nefesh, expiación y pureza"
-date: 2025-12-01
+title: "Vaikra 16: reconciliación, Santidad y el macho cabrío enviado"
+description: "Lectura canónica de Vaikra 16 sobre el acceso regulado a la Santidad, los dos machos cabríos, la reconciliación y la humillación del nefesh."
+date: 2026-07-29
 tags:
-  - yom_hakipurim
-  - yom_yhvh
+  - vaikra
+  - yom-hakipurim
+  - reconciliacion
+  - santidad
+  - azazel
 references:
-  - "#vaikra_16_29"
-  - "#vaikra_16_30"
-  - "#vaikra_16_32"
-  - "#daniel_7_13"
-  - "#daniel_10_5"
-  - "#daniel_10_6"
-  - "#sodot_1_13"
-  - "#ivrim_3_1"
+  - "#vaikra_16_1-2"
+  - "#vaikra_16_6-10"
+  - "#vaikra_16_14-17"
+  - "#vaikra_16_20-22"
+  - "#vaikra_16_29-34"
+  - "#vaikra_17_7-14"
+  - "#salmos_51_12"
   - "#ivrim_5_10"
 sources:
-  - "docs/scriptures/tth/json/vaikra.json"
-  - "docs/scriptures/oe/json/leviticus/16.json"
   - "https://www.youtube.com/watch?v=1Dqriiq9bIU"
+  - "https://www.youtube.com/watch?v=8Btk2jATjfk"
+  - "https://www.youtube.com/watch?v=Y97CMPXJ4cA"
+  - "https://www.youtube.com/watch?v=stsUp5v3SXE"
+  - "https://www.youtube.com/watch?v=jCax7bvw4Y8"
+  - "https://www.youtube.com/watch?v=fVAh5QTMH-8"
+  - "https://www.youtube.com/watch?v=_4q0WLCdK1c"
+  - "docs/scriptures/oe/json/leviticus/16.json"
+  - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
   - "youtube:1Dqriiq9bIU"
-translation: "[TTH, OE]"
+  - "youtube:8Btk2jATjfk"
+  - "youtube:Y97CMPXJ4cA"
+  - "youtube:stsUp5v3SXE"
+  - "youtube:jCax7bvw4Y8"
+  - "youtube:fVAh5QTMH-8"
+  - "youtube:_4q0WLCdK1c"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
 
-Vaikra 16 presenta el yom hakipurim como día de humillación del nefesh, expiación y limpieza delante de יהוה, y la nota lo conecta con la obra del Mesías y el sacerdocio.
+Vaikra 16 no presenta una reconciliación improvisada ni un acceso autónomo a lo santo. Después de la muerte de los hijos de Aharón, יהוה regula quién entra, cuándo entra, con qué vestiduras y con qué sangre. El capítulo sostiene juntos dos movimientos: la sangre rociada delante de יהוה y el macho cabrío vivo que lleva las iniquidades al desierto. La clase de Eric conserva ese doble énfasis al hablar de reconciliación, purificación y del pecado que debe ser apartado; el texto permite afirmarlo como lectura teológica, pero exige no confundir los símbolos, ni convertir las conexiones mesiánicas en el significado léxico de cada término.
 
 ## Alcance de la nota
 
-- Apunte centrado en #vaikra_16_29-32; no desarrolla todo el ritual del capítulo.
-- La conexión con cuerpo incorruptible y #yom_yhvh es lectura mesiánica de la nota.
-- TTH traduce “afligir” como “afligir sus gargantas”; se conserva el matiz del corpus local.
-
-## Texto base
-
-- #vaikra_16_29
-- #vaikra_16_30
-- #vaikra_16_32
+Esta nota reúne la exposición principal de Vaikra 16–18 y las clases del Séder de Pésaj que vuelven a la expiación, la sangre, el pan sin levadura y la muerte del Mesías. Se camina por el capítulo en orden. Las observaciones de Eric se atribuyen a la clase y se evalúan contra OE y TTH locales; las transcripciones automáticas no se presentan como citas literales. Los datos calendáricos, astronómicos o históricos mencionados de paso quedan pendientes cuando no son necesarios para leer Vaikra 16.
 
 ## Hoja de comparación
 
-| Referencia    | Hebreo (OE, sin nikud)                                                                             | TTH (ES)                                                                                                                                                                                           | Observación                                                                        |
-| ------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| #vaikra_16_29 | והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם | Y esto será para ustedes por decreto olam: en el mes séptimo, en el décimo día del mes, afligirán sus gargantas, y cualquier trabajo no harán, el nativo y el extranjero que habite entre ustedes. | תענו את נפשתיכם: humillación del nefesh; la nota la enlaza con anunciar #yom_yhvh. |
-| #vaikra_16_30 | כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו                                       | Porque en este día él hará reconciliación por ustedes para purificarlos de todos sus pecados, delante de יהוה serán puros.                                                                         | יכפר + לטהר: expiación y pureza delante de יהוה.                                   |
-| #vaikra_16_32 | וכפר הכהן אשר ימשח אתו ואשר ימלא את ידו לכהן תחת אביו ולבש את בגדי הבד בגדי הקדש                   | Y hará reconciliación el sacerdote al cual Él ha ungido, y quien ha llenado su mano para ser sacerdote en lugar de su padre; y se pondrá las vestiduras de lino, vestiduras de santidad;           | Investidura: משח, מלא ידו, בגדי הבד.                                               |
+| Unidad           | Hebreo OE sin nikud                                                  | TTH local                                                                                                               | Fuerza en el capítulo                                                               |
+| ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| #vaikra_16_1-2   | **וידבר יהוה אל משה אחרי מות שני בני אהרן בקרבתם לפני יהוה וימתו**   | «Y habló יהוה a Moshéh después de la muerte de los dos hijos de Aharón, cuando se acercaron delante de יהוה y murieron» | La muerte de Nadav y Avihú explica la restricción del acceso.                       |
+| #vaikra_16_6-10  | **והקריב אהרן את פר החטאת אשר לו... ונתן אהרן על שני השעירם גורלות** | Aharón hace reconciliación por sí y su casa; pone suertes sobre los dos peludos, una para יהוה y otra para Azazel.      | El rito diferencia dos funciones, no dos sacrificios intercambiables.               |
+| #vaikra_16_14-17 | **והזה מדם הפר... וכפר על הקדש מטמאת בני ישראל**                     | La sangre se rocía sobre y delante de la cubierta; se hace reconciliación por la Santidad y la Tienda.                  | La impureza de Israel afecta el espacio de encuentro y requiere tratamiento ritual. |
+| #vaikra_16_20-22 | **וסמך אהרן את שתי ידיו... ונשא השעיר עליו את כל עונתם**             | Aharón confiesa las iniquidades sobre el peludo y este las carga hacia una tierra separada.                             | El animal vivo representa la remoción y el envío de la culpa.                       |
+| #vaikra_16_29-34 | **תענו את נפשתיכם... כי ביום הזה יכפר עליכם לטהר אתכם**              | «Afligirán sus gargantas»; en este día él hará reconciliación para purificarlos; será una vez en el año.                | La asamblea participa con humillación y reposo; el sacerdote oficia una vez anual.  |
 
-## Observaciones
+## 1. Después de la muerte: acercarse no es entrar de cualquier manera
 
-> [!question]
-> ¿Por qué afligimos nuestro nefesh?
-> Porque estamos anunciando que en su día, #yom_yhvh, no necesitaremos comer ni beber por necesidad; anunciamos que Yeshua nos dará un cuerpo incorruptible.
+El título de la parashá, **(אחרי מות)**, _ajarei mot_, significa «después de la muerte». Es una expresión temporal: sitúa la orden después de que los dos hijos de Aharón «se acercaron delante de יהוה y murieron» (#vaikra_16_1). **(קרב)**, _qarav_, tiene el sentido normal de acercarse o aproximarse; aquí su fuerza contextual es entrar al ámbito de la presencia divina, no simplemente caminar cerca. «Acceso espiritual» sería una equivalencia pedagógica, no la traducción exacta del verbo.
 
-- En #vaikra_16_30 se está hablando de la obra que hizo Yeshua haMashiaj **(ישוע המשיח)**.
+Eric observa que Nadav y Avihú no actuaron según el modo exigido por יהוה. El capítulo siguiente a su muerte no ofrece una especulación sobre su interioridad: responde con una orden sobre el acceso. El TTH traduce #vaikra_16_2: «no entre en todo tiempo a la Santidad dentro de la cortina, a la faz de la cubierta que es sobre el arca, y no morirá». **(קדש)**, _qodesh_, es un sustantivo de la raíz קדש, «santo, apartado»; aquí designa el ámbito consagrado, no una palabra genérica para cualquier templo. **(פרכת)**, _paroket_, es la cortina que separa; llamarla «cortina» es aproximado y útil, pero su función cultual es más precisa que un simple separador doméstico. Eric acierta al insistir en aprender los términos técnicos, aunque no debe afirmarse que la forma hebrea carezca de toda relación semántica con una cortina.
 
-## Léxico de Vaikra 16:32
+La **(כפרת)**, _kaporet_, es la cubierta o tapa situada sobre el arca. Su relación con **(כפר)**, _kafar_, «cubrir» o «hacer reconciliación», requiere cautela: la semejanza de raíz no autoriza una etimología completa del rito. La función textual sí es clara: allí aparece יהוה en nube, y allí se regula la sangre que Aharón llevará una vez al año.
 
-| Hebreo     | Transliteración (es) | Significado                       | Observación                         |
-| ---------- | -------------------- | --------------------------------- | ----------------------------------- |
-| **(וכפר)** | vejipper             | y expiará / hará expiación        | Acción principal del sacerdote      |
-| **(הכהן)** | hakohen              | el sacerdote                      | Figura sacerdotal                   |
-| **(אשר)**  | asher                | que / el cual                     | Relativo                            |
-| **(ימשח)** | yimmashaj            | será ungido                       | Investidura con aceite              |
-| **(אתו)**  | oto                  | a él                              | Objeto directo                      |
-| **(ואשר)** | va'asher             | y que / y al cual                 | Conector relativo                   |
-| **(ימלא)** | yemale               | llenará                           | En la expresión de consagración     |
-| **(את)**   | et                   | partícula acusativa               | Marca de objeto directo             |
-| **(ידו)**  | yado                 | su mano                           | Expresión idiomática de investidura |
-| **(לכהן)** | lejahen              | para ejercer como sacerdote       | Función sacerdotal                  |
-| **(תחת)**  | tajat                | en lugar de / debajo de           | Sustitución                         |
-| **(אביו)** | aviv                 | su padre                          | Sucesión                            |
-| **(ולבש)** | velavash             | y vestirá                         | Acción de vestirse                  |
-| **(בגדי)** | bigdei               | vestidos de                       | Prendas                             |
-| **(הבד)**  | habad                | el lino                           | Material de las prendas             |
-| **(הקדש)** | haqodesh             | la santidad / los vestidos santos | Carácter santo                      |
+## 2. Dos machos cabríos, una reconciliación con funciones distintas
 
-## Conexiones
+Eric enseña que los dos machos cabríos no son el mismo gesto repetido: uno es para יהוה y el otro es enviado a Azazel. TTH conserva la rareza del pasaje: **(גורלות)**, _goralot_, son «suertes»; **(עזאזל)**, _Azazel_, se mantiene como nombre propio o designación no resuelta. «La cabra que se fue», explicación escuchada en la clase, es una propuesta pedagógica; no es una equivalencia exacta demostrada por la forma de #vaikra_16_8. El texto no autoriza convertir Azazel sin más en Satanás, ni obliga a negar el contraste ritual entre ambos animales.
 
-- #daniel_7_13
-- #daniel_10_5
-- #daniel_10_6
-- #sodot_1_13
-- #ivrim_3_1
-- #ivrim_5_10
+El animal sobre el que cae la suerte para יהוה se hace **(חטאת)**, _jattat_, «ofrenda por el pecado»; el otro queda vivo delante de יהוה «para hacer reconciliación sobre él» y es enviado al desierto (#vaikra_16_9-10). **(שלח)**, _shalaj_, significa enviar o despachar; aquí su fuerza es sacar al macho cabrío fuera del campamento, cargado con la confesión de las iniquidades. «Eliminar el pecado» es una síntesis pedagógica del efecto narrativo, no la traducción aislada del verbo.
 
-## Referencias judías y fuentes externas
+La clase de Pésaj aplica este doble movimiento a la reconciliación: la sangre no debe separarse de la remoción del pecado. Esa aplicación conserva una intuición textual: #vaikra_16_14-16 usa sangre para hacer reconciliación por la Santidad, la Tienda y la asamblea, mientras #vaikra_16_20-22 describe la confesión y el envío. Pero la frase «la muerte no reconcilia» pertenece al argumento teológico de Eric, no a una definición explícita de **(כפר)** en cada aparición. La nota preserva su observación y la marca como inferencia mesiánica cualificada.
 
-| Fuente         | Referencia                  | Uso en la nota                                | Estado                 |
-| -------------- | --------------------------- | --------------------------------------------- | ---------------------- |
-| Mishná         | m. Yoma (ritual de Kipurim) | Marco del yom hakipurim en tradición rabínica | Pendiente de verificar |
-| Tanaj (TTH/OE) | #vaikra_16_29-32            | Estatuto, expiación, sacerdote ungido         | Cotejado               |
-| Besorah        | #ivrim_3_1, #ivrim_5_10     | Obra del Mesías y sacerdocio                  | Pendiente de verificar |
-| Besorah        | #sodot_1_13                 | Conexión apocalíptica citada en la nota       | Pendiente de verificar |
+## 3. Sangre, impureza y la Santidad que habita en medio
+
+TTH dice que Aharón hará reconciliación «por la Santidad debido a la impureza de los hijos de Israel y debido a sus transgresiones, por todos sus pecados» (#vaikra_16_16). **(טמא)**, _tamé_, significa impuro o ritualmente contaminado; su fuerza aquí no es una descripción psicológica de sentirse sucio, sino una condición cultual que afecta a la asamblea y al espacio. **(עון)**, _avon_, significa iniquidad o culpa torcida; **(פשׁע)**, _pesha_, transgresión o rebelión; **(חטא)**, _jet_, pecado o fallo. Son términos relacionados, pero no equivalentes exactos. Eric habla de desorden frente al estándar de santidad; esa paráfrasis es pedagógica y recibe apoyo contextual, siempre que no reemplace las distinciones del texto.
+
+En #vaikra_16_17 nadie permanece en la Tienda mientras el sacerdote hace reconciliación por sí, su casa y toda la asamblea. La secuencia impide imaginar el rito como una experiencia privada del sacerdote. La presencia de יהוה exige mediación, silencio ritual y una acción concluida antes de que el sacerdote salga. La conexión de Eric con el sacerdocio del Mesías en Hebreos puede leerse canónicamente, pero no convierte a Aharón en una simple alegoría: el capítulo presenta un sacerdote ungido, vestiduras de lino, animales, sangre y una asamblea concreta.
+
+## 4. El macho cabrío carga y la sangre no se vuelve magia
+
+Aharón apoya ambas manos, confiesa «todas las iniquidades», «todas sus transgresiones» y «todos sus pecados», y los pone sobre la cabeza del animal (#vaikra_16_21). **(סמך)**, _samaj_, significa apoyar o poner; la acción corporal hace visible la transferencia ritual, aunque «transferir culpa» es una explicación contextual aproximada. **(נשא)**, _nasa_, significa llevar, cargar o levantar; en #vaikra_16_22 el peludo carga las iniquidades hacia una tierra separada. La forma no prueba que el animal sea un ser demoníaco; prueba que el rito escenifica la salida de aquello que la confesión nombra.
+
+Las clases de Pésaj vinculan este capítulo con la sangre del cordero y con la copa, el pan sin levadura y las hierbas amargas. Esa relación pertenece a la lectura mesiánica de Eric y debe distinguirse del calendario inmediato de Vaikra 16. El capítulo sí insiste en que la sangre es administrada por el sacerdote y rociada en lugares determinados; no presenta la sangre como poder autónomo. El paralelo con Vaikra 17 también debe manejarse con precisión: **(נפשׁ)**, _nefesh_, tiene el sentido normal de ser viviente, vida o garganta según contexto. «Alma separable del cuerpo» es una interpretación filosófica, no una equivalencia necesaria. Cuando Eric explica la sangre como señal de una muerte real y de un trato no cruel con el animal, la aplicación ética puede conservarse; no debe presentarse como traducción exclusiva de _nefesh_.
+
+## 5. Humillar el nefesh y ser purificados
+
+En #vaikra_16_29 la forma **(תענו)**, _teannu_, procede de ענה y significa afligir, humillar o someter; **(נפשותיכם)**, _nafshoteikhem_, es «sus nefesh», vidas, gargantas o personas. El TTH dice «afligirán sus gargantas», mientras la traducción castellana común suele decir «afligirán sus almas». Ambas decisiones son aproximaciones: ninguna autoriza por sí sola una antropología dualista. La fuerza contextual es la abstención y humillación corporal de toda la asamblea, nativo y extranjero, junto con el cese del trabajo.
+
+Eric relaciona esta humillación con un corazón purificado y con la esperanza de un cuerpo incorruptible. La clase de Pésaj también presenta la muerte del Mesías como una entrega real, no como la muerte simbólica de un animal sustituto. Esa lectura puede enlazarse con Hebreos, pero #vaikra_16_30 dice directamente: **(יכפר)**, _yekhapper_, «hará reconciliación», y **(לטהר)**, _letaher_, «para purificar». _Kafar_ en la construcción sacerdotal tiene la fuerza contextual de realizar reconciliación o expiación; _taher_ significa estar limpio o purificar. «Perdón interior» es pedagógico; «reconciliación y purificación» sigue mejor el texto y el TTH.
+
+El cierre repite **(שבת שבתון)**, _Shabbat Shabbaton_, «reposo de reposos» o reposo solemne, y ordena hacerlo una vez al año (#vaikra_16_31, 34). **(חקת עולם)**, _juqqat olam_, es un estatuto permanente; «para siempre» es aproximado y debe leerse dentro de la fórmula cultual del capítulo. El sacerdote ungido que «ha llenado su mano» para servir en lugar de su padre (#vaikra_16_32) recibe vestiduras de lino, no una licencia para entrar cuando quiera. **(משח)**, _mashaj_, significa ungir; «Mesías» es una relación teológica y etimológica aproximada, no el sentido completo de la forma verbal en este versículo.
+
+## Léxico clave
+
+| Forma       | Transliteración | Sentido normal y forma                   | Fuerza contextual                             | Equivalencia                                          |
+| ----------- | --------------- | ---------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
+| **(קרב)**   | _qarav_         | acercarse, aproximarse                   | Acceso peligroso al ámbito de יהוה            | «Entrar en la presencia» es contextual y aproximada   |
+| **(קדש)**   | _qodesh_        | santidad, cosa o ámbito apartado         | Lugar consagrado detrás de la cortina         | «Santuario» es más amplio y pedagógico                |
+| **(כפר)**   | _kafar_         | cubrir; en rito, hacer reconciliación    | Acción sacerdotal que trata pecado e impureza | «Expiar» es tradicional y aproximado                  |
+| **(גורל)**  | _goral_         | suerte, porción asignada                 | Determina el destino ritual de cada peludo    | «Destino» es pedagógico                               |
+| **(עזאזל)** | _Azazel_        | designación discutida del segundo peludo | Animal vivo enviado al desierto               | «Cabra que se fue» es propuesta pedagógica, no exacta |
+| **(נשא)**   | _nasa_          | llevar, cargar, levantar                 | El peludo carga las iniquidades y sale        | «Quitar el pecado» resume el efecto, no la forma      |
+| **(נפשׁ)**  | _nefesh_        | ser viviente, vida, garganta o persona   | La asamblea se humilla corporalmente          | «Alma» es solo una aproximación posible               |
+| **(טהר)**   | _taher_         | estar limpio, purificar                  | Purificación delante de יהוה                  | «Pureza interior» es una aplicación parcial           |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual                  | Observación concreta de la clase                                                                                | Tratamiento en esta nota                                                                                                 |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| #vaikra_16_1-2                  | El acceso indebido de los hijos de Aharón explica que no se entra a la Santidad en cualquier momento.           | Apoyo textual y clarificación de _qarav_, _qodesh_ y _paroket_.                                                          |
+| #vaikra_16_6-10                 | Los dos machos cabríos son dos aspectos inseparables: sangre para יהוה y pecado enviado al desierto.            | Apoyo textual con calificación: se distinguen funciones y se deja Azazel como término discutido.                         |
+| #vaikra_16_14-17                | La sangre produce reconciliación y purificación, no una ceremonia mágica separada de un corazón limpio.         | Apoyo textual e inferencia cualificada sobre _kafar_, _tame_ y el sacerdocio mesiánico.                                  |
+| #vaikra_16_20-22                | La confesión sobre el animal vivo muestra que la reconciliación también implica apartar la práctica del pecado. | Apoyo textual; _nasa_ y _shalaj_ explican cargar y enviar, sin convertir el rito en una definición moral moderna.        |
+| #vaikra_16_29-34                | Afligir el nefesh una vez al año anuncia humillación, purificación y una esperanza corporal futura.             | Clarificación léxica: _nefesh_ no equivale exactamente a «alma», y el cuerpo incorruptible queda como lectura mesiánica. |
+| #vaikra_17_7-14; #vaikra_23_5-8 | Pésaj, sangre, pan sin levadura y cuidado del animal deben leerse dentro de las fechas y mandatos escritos.     | Conexión canónica; los detalles calendáricos de la clase quedan pendientes cuando exceden Vaikra 16.                     |
+
+## Conclusión
+
+Vaikra 16 responde a la muerte producida por un acercamiento no regulado con un orden de reconciliación que atraviesa sacerdote, sangre, confesión, envío, humillación y purificación. Eric conserva un punto decisivo: no basta hablar de expiación si se borra la remoción del pecado y la obediencia que el rito exige. El texto, sin embargo, también conserva sus propios límites: Azazel no se traduce automáticamente como demonio, _nefesh_ no obliga a un dualismo, y el Mesías es una lectura canónica posterior que debe someterse al recorrido de la perícopa. La Santidad no se vuelve accesible por el deseo humano; יהוה la regula y, en el día señalado, hace reconciliación para que su pueblo sea purificado.
 
 ## 7. Vaikra 17: la sangre no es un poder autónomo
 
@@ -111,8 +136,9 @@ Esta conexión fortalece, pero también limita, la frase de Eric de que «la una
 
 ## Pendiente de verificar
 
-- [ ] Matiz de TTH “afligir sus gargantas” frente a lectura estándar “afligir sus nefesh”.
-- [ ] Desarrollo detallado del ritual en #vaikra_16_1-28 no cubierto por esta nota.
+- [ ] Comparar el rango de _Azazel_ en traducciones antiguas y comentaristas sin presentarlo como conclusión del hebreo.
+- [ ] Verificar por separado las afirmaciones calendáricas y astronómicas de las clases de Pésaj.
+- [ ] Contrastar con Hebreos 5–10 la relación entre el rito anual de Vaikra 16 y la lectura mesiánica de Eric.
 
 ## La reconciliación alcanza el espacio y la asamblea
 
@@ -162,9 +188,9 @@ Esta precisión mantiene la observación real de Eric sin sustituirla por una ca
 
 ## Ver también
 
-- [Sodot 1](../besorah/sodot_1.md) — día de יהוה y rapidez.
-- [Shemot 34](./shemot_34.md) — jatá, avón, pesha y pureza.
-- [Temas: Shabat](../temas/shabat.md) — reposo y santidad del tiempo.
+- [[vaikra_17_sangre_y_vida|Vaikra 17: sangre, vida y sacrificio]]
+- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: tiempos señalados]]
+- [[shemot_12_pesaj_memoria_y_salida|Shemot 12: Pésaj y memoria]]
 
 ## Evaluación final de la reconciliación: espacio, culpa y respuesta
 
@@ -179,5 +205,5 @@ Esta precisión fortalece la frase de Eric de que «la una sin la otra no tiene 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) (source_id: `youtube:1Dqriiq9bIU`).
-- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
+- Videos: [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) (`source_id`: `youtube:1Dqriiq9bIU`); [Parashat 'Ajarey Mot - Passover Seder Part 1](https://www.youtube.com/watch?v=8Btk2jATjfk) (`source_id`: `youtube:8Btk2jATjfk`); [Parashat 'Ajarey Mot - Séder de Pésaj Parte 4](https://www.youtube.com/watch?v=Y97CMPXJ4cA) (`source_id`: `youtube:Y97CMPXJ4cA`); [Parashat 'Ajarey Mot - Passover Seder Part 5](https://www.youtube.com/watch?v=stsUp5v3SXE) (`source_id`: `youtube:stsUp5v3SXE`); [Parashat 'Ajarey Mot - Seder of Pesach Part 2](https://www.youtube.com/watch?v=jCax7bvw4Y8) (`source_id`: `youtube:jCax7bvw4Y8`); [Parashat 'Ajarey Mot - Seder of Pesach Part 3](https://www.youtube.com/watch?v=fVAh5QTMH-8) (`source_id`: `youtube:fVAh5QTMH-8`); [Parashat Acharei Mot. Lev 16-18 The Ministry of Reconciliation](https://www.youtube.com/watch?v=_4q0WLCdK1c) (`source_id`: `youtube:_4q0WLCdK1c`).
+- Esta nota organiza y contrasta las exposiciones; no presenta las transcripciones automáticas como citas literales.
