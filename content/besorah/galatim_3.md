@@ -134,6 +134,14 @@ El resultado protege los dos bordes del capítulo. La Torah no es la promesa: ll
 
 ## Pendiente de verificar
 
+## Dos fuentes públicas, un recorrido canónico
+
+Los IDs públicos `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E` pertenecen a esta lane y delimitan dos focos del capítulo: la «maldición» de la Ley en 3:10-14 y el mediador en 3:19-25. Como no hay transcript local de esas sesiones, es exacto atribuirles sus títulos, URL públicas y alcance anunciado; sería inferencial atribuirles una explicación completa de la sintaxis o una cita literal. La nota conserva así el crédito visible de Eric y deja que Galatim 3 evalúe cada afirmación.
+
+El orden del capítulo conecta ambos focos. En 3:10, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual procede de la obligación de permanecer en todo lo escrito. En 3:13, **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, rescatar o liberar mediante adquisición; «redimir» es una glosa aproximada y pedagógica que comunica liberación sin fijar por sí sola un modelo completo de rescate. **(γενόμενος)**, _genomenos_, procede de **γίνομαι**, «llegar a ser, suceder o hacerse»; en la cita presenta al Mesías como hecho maldición en relación con Devarim, no como una definición moral de su identidad.
+
+Después, **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; en 3:19-20 nombra la figura asociada con la entrega de la Torah. **(παιδαγωγός)**, _paidagōgos_, significa tutor o acompañante de un menor; en 3:24 describe una custodia orientada hacia el Mesías, no necesariamente un maestro escolar ni un carcelero. Las glosas son directas en su sentido ordinario, mientras convertirlas en una teoría exhaustiva sobre la mediación sería inferencial. La evaluación atribuible queda, por ello, cualificada: los títulos anuncian maldición y mediador, el texto confirma la secuencia promesa–Torah–Mesías, y la ausencia de transcripción impide añadir argumentos privados.
+
 - [ ] Cotejar #galatians_3_13 con #devarim_21_23 en hebreo y con el griego de Galatim, sin cerrar toda la lectura de «disminución de honra» solo con la glosa de la clase.
 - [ ] Examinar el genitivo de _pistis_ en #galatians_3_22 y el uso de Habacuc 2:4 en #galatians_3_11 frente al estado de la discusión exegética.
 - [ ] Verificar el alcance semántico de **παιδαγωγός** y de la frase «bajo ley» sin anacronismos escolares o penales.

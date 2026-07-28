@@ -133,6 +133,14 @@ La fuente `youtube:u0NtR-y-T2Y` solo permite atribuir el título público y su a
 
 ## Pendiente de verificar
 
+## El foco público y la responsabilidad universal
+
+La fuente pública `youtube:u0NtR-y-T2Y` permite atribuir a Eric únicamente el foco anunciado «A los que están dentro de la ley» y «Rom 3:17ss»; no permite reconstruir una explicación detallada de la sesión. Ese límite no deja la perícopa sin contenido: Romanos 3:19-20 explica que la Torah habla a quienes están bajo su ámbito para cerrar toda boca, y que el mundo entero queda culpable ante Elohim. La observación atribuible se conserva, por tanto, como una pregunta de alcance y se evalúa con el argumento local, no como una cita de Eric.
+
+La secuencia evita dos lecturas opuestas. **(ὑπό)**, _hypo_, significa bajo, debajo o sometido a; en **(ὑπὸ νόμον)**, _hypo nomon_, su fuerza contextual es una relación de ámbito y responsabilidad. **(νόμος)**, _nomos_, significa ley, norma o instrucción; «Torah» es una traducción contextual aproximada que conserva el marco de la enseñanza, pero no resuelve por sí sola todas las funciones del término en la carta. La frase «bajo Torah» no excluye al resto del mundo, porque **(πᾶς)**, _pas_, significa todo o cada y el mismo bloque extiende la culpabilidad a «todo el mundo».
+
+La justicia manifestada después tampoco cancela el testimonio anterior. **(μαρτυρέω)**, _martyreō_, significa dar testimonio, atestiguar o declarar; en Romanos 3:21 su fuerza es que la Torah y los profetas atestiguan la justicia de Elohim, no que la Torah sea presentada como una vía autónoma de justificación. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o considerar justo; en 3:24-26 nombra la acción gratuita y justa de Elohim. «Justificar» es una glosa directa del campo forense; afirmar que el verbo describe todo mecanismo de salvación sería una extensión inferencial. Así, el título público recibe apoyo textual cualificado: la Torah cierra la defensa humana y la emunah no la anula, mientras la atribución a Eric permanece limitada a la evidencia pública disponible.
+
 - [ ] Recuperar, si llega a estar disponible, el transcript de `youtube:u0NtR-y-T2Y` para contrastar observaciones concretas de la sesión más allá de su título público.
 - [ ] Cotejar la sintaxis griega de #romanos_3_20, #romanos_3_22 y #romanos_3_31 antes de convertir estas glosas en conclusiones sobre toda la carta.
 - [ ] Revisar el trasfondo de «propiciación» o «cubierta» en #romanos_3_25 sin imponer un modelo sacrificial único al término.
