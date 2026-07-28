@@ -141,6 +141,14 @@ El resultado protege los dos bordes del capítulo. La Torah no es la promesa: ll
 - [ ] Recuperar o cotejar transcripciones de `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E`; mientras tanto, sus títulos públicos son la única evidencia atribuible de sus focos.
 - [ ] Cotejar el intervalo de cuatrocientos treinta años y la mediación angélica de #galatians_3_17-19 con las tradiciones de conteo y con Hechos 7.
 
+## Reparación de la evidencia de las partes 7 y 9
+
+Las dos fuentes asignadas que delimitan esta nota no deben recibir el mismo tratamiento que una sesión con transcripción recuperable. `youtube:9KQYTf0aRe0` tiene como título público «La carta a los gálatas Parte 7 - Cap 3:10-14: La “maldición” de la Ley»; `youtube:1owk-zoap1E` tiene como título «La carta a los gálatas parte 9: El Mediador y la Ley». Es **exacto** atribuirles esos títulos, sus URL públicas y el alcance temático que anuncian. Es solo **inferencial** atribuirles una explicación particular de _qelalah_, de la cita de Devarim o de la mediación; por eso ninguna frase de esta sección presenta una reconstrucción como palabra de Eric.
+
+El texto local sí permite recorrer ambos focos en orden. En #galatians_3_10-14, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual procede de la obligación de permanecer en todo lo escrito y de la redención del Mesías. En #galatians_3_19-20, **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; su fuerza contextual nombra la figura asociada con la entrega de la Torah, sin identificar por sí sola todas las partes ni resolver la teología completa de la mediación. «Maldición» y «mediador» son glosas **directas** en esos pasajes; convertirlas en una teoría ontológica o histórica exhaustiva sería **pedagógico e inferencial**.
+
+Así se repara la trazabilidad sin rellenar la ausencia del transcript: los títulos públicos fijan el alcance de las sesiones, Galatim 3 gobierna la evaluación verso a verso y la atribución a Eric queda limitada a lo que realmente puede sostenerse. La nota conserva la observación general de la clase sobre promesa, maldición, mediador y Torah, pero no inventa citas, marcas de tiempo ni argumentos no documentados.
+
 ## Conclusión
 
 Galatim 3 no invita a elegir entre un Mesías sin promesa y una Torah convertida en moneda de mérito. Primero confronta la regresión de la carne; después ancla la justificación en Abraham y en la Escritura que ya miraba a las naciones; luego sitúa la Torah como añadida por las transgresiones y orientada al Mesías; por último declara hijos y herederos a quienes pertenecen a Yehoshua. La clase de Eric aporta un hilo claro: fidelidad, bendición abierta a las naciones y rechazo del mérito. La lectura responsable conserva ese hilo, lo mide verso a verso con el texto local y deja abiertas las glosas que el capítulo no demuestra por sí solo.
