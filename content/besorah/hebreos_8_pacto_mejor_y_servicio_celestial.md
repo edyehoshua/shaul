@@ -36,6 +36,12 @@ Esta nota desarrolla la exposición del hermano Eric de Jesús Rodríguez Mendoz
 | Hebreos 8:7-9   | **אִלּוּ הָיְתָה הָרִאשׁוֹנָה הַהִיא גְּמוּרָה** … **בְּרִית חֲדָשָׁה**                                            | La segunda alianza es anunciada porque la primera no alcanzó la finalidad de transformar al pueblo; la cita conserva a Israel y Judá como destinatarios. |
 | Hebreos 8:10-13 | **נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתֳּבֶנָּה** … **לׂא אֶזְכָּר־עוֹד**                          | La novedad se define por interiorización, conocimiento y perdón; no por borrar la Torá de la promesa.                                                    |
 
+## Tramo textual verificado
+
+El resumen de 8:1-6 debe seguir la ubicación y la función del sacerdote: **וזה ראש הנאמרים שיש־לנו כהן גדול אשר ישב לימין כסא הגדלה בשמים׃ והוא משרת הקדש והמשכן האמתי אשר־כוננו אדני ולא אדם׃**. La frase “punto principal” no introduce dos tronos ni una especulación espacial; resume que tenemos un sumo sacerdote sentado a la diestra y ministro del tabernáculo verdadero. Luego 8:5 explica la relación entre servicios: **ומכהנים לדמות וצל הדברים שבשמים כאשר צוה משה בבאו להקים את־המשכן כי־אמר אליו ראה ועשה הכל בתבניתו אשר־אתה מראה בהר׃**. Eric utiliza “modelo y sombra” para distinguir esferas sin llamar falso al servicio terrenal.
+
+El orden de la cita de Yirmeyahu es igualmente determinante. 8:8-10 conserva primero a Israel y Judá y después especifica el contenido interior: **כי־כה אמר בהוכיח אתם הנה ימים באים נאם־יהוה וכרתי את־בית ישראל ואת־בית יהודה ברית חדשה׃** … **כי זאת הברית אשר אכרת את־בית ישראל אחרי הימים ההם נאם־יהוה נתתי את־תורתי בקרבם ועל־לבם אכתבנה והייתי להם לאלהים והמה יהיו־לי לעם׃**. En 8:11-12 aparecen conocimiento y perdón: **ולא ילמדו עוד איש את־רעהו ואיש את־אחיו לאמר דעו את־יהוה כי כולם ידעו אותי למקטנם ועד־גדולם׃ כי אסלח לעונם ולחטאתם (ולפשעיהם) לא אזכר־עוד׃**. Por eso la observación de Eric sobre una esperanza mejorada debe probarse en esta secuencia completa, no solamente en la palabra “nuevo”.
+
 ## Mapa de la enseñanza de Eric
 
 - **Hebreos 7:15-28 y 8:1 — del juramento al punto principal:** Eric retoma la vida indestructible, el juramento y el Hijo perfeccionado para afirmar que el sumo sacerdote está en los cielos, no en una silla separada de Elohim. El texto confirma que está sentado a la diestra del trono y que el capítulo 8 resume lo dicho; la explicación de “diestra” como autoridad y no como dos tronos es una aclaración pedagógica coherente con la cita de Tehilim 110.
