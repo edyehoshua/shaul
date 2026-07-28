@@ -149,7 +149,11 @@ La imagen también exige mantener juntas afirmaciones que a veces se separan. La
 
 Conviene precisar además el alcance de «salvar». **(σώζω)**, _sōzō_, tiene como sentido ordinario salvar, rescatar o preservar; en #romanos_11_26 su glosa «será salvo» es **directa**, mientras que explicar quiénes constituyen «todo Israel» y cómo se cumple la salvación es **aproximado y cualificado** por la sintaxis de los versículos 25-29 y por las citas que Pablo incorpora. Asimismo, **(συνκοινωνός)**, _synkoinōnos_, significa participante o copartícipe; en #romanos_11_17 describe la participación de la rama en la raíz y la savia, no una transferencia de origen. Estas distinciones dejan que la esperanza permanezca grande sin presentar como exacta una conclusión que el pasaje mantiene dentro del misterio.
 
-## Pendiente de verificar
+## Control léxico de la esperanza y el llamamiento
+
+La conclusión de Romanos 11 exige distinguir promesa, respuesta y autoridad. **(κλῆσις)**, _klēsis_, significa llamamiento, invitación o convocación; en #romanos_11_29 aparece junto a los dones de Elohim. «Llamamiento» es una glosa **directa** en el campo ordinario, pero su fuerza contextual se define por la afirmación sobre Israel y los padres; no autoriza a convertirlo en una teoría completa sobre cada individuo. **(χάρισμα)**, _charisma_, significa don concedido por gracia; aunque Romanos 11:29 usa **(χαρίσματα)**, _charismata_, la forma plural señala los dones recibidos y no una propiedad humana. «Dones» es una traducción **directa**, mientras vincularla con una garantía desligada de la misericordia y de la responsabilidad sería una inferencia **ilegítima**.
+
+**(σπλάγχνον)**, _splanchon_, significa entrañas, afecto profundo o compasión; no es la forma central de Romanos 11, por lo que no debe presentarse como si Pablo la empleara aquí. Como término pedagógico, ayuda a describir la misericordia solo de manera **aproximada**; el texto local expresa esa misericordia mediante **(ἐλεέω)**, _eleeō_, «tener misericordia», cuyo sentido normal es mostrar compasión o favor. En #romanos_11_30-32, **(ἐλεέω)** tiene fuerza **contextual**: la misericordia de Elohim reúne a quienes estaban en desobediencia, pero no borra el hecho de la desobediencia ni permite reclamar mérito.
 
 - [ ] Cotejar las citas de #romanos_11_26-27 y su forma en Isaías con el texto griego de Romanos.
 - [ ] Examinar la sintaxis de «todo Israel» y «plenitud de las naciones» antes de fijar una lectura escatológica exclusiva.
