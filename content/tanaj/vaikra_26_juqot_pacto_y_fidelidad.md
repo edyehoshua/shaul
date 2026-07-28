@@ -21,10 +21,12 @@ references:
   - "#tehilim_89_31-35"
   - "#timoteos_bet_2_13"
 sources:
+  - "https://www.youtube.com/watch?v=sfA7OZ8LtFk"
   - "https://www.youtube.com/watch?v=IzbgqzNwD4k"
   - "docs/scriptures/oe/json/leviticus/26.json"
   - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
+  - "youtube:sfA7OZ8LtFk"
   - "youtube:IzbgqzNwD4k"
 translation: "[OE, TTH]"
 ---
@@ -75,6 +77,14 @@ Aun estando en tierra enemiga: «no los desecharé ni los abominaré hasta consu
 Finalmente: «recordaré para ellos **(ברית ראשנים)**, _berit rishonim_» —pacto de los primeros / de los antiguos— «cuando los saqué de la tierra de Egipto a ojos de las naciones para serles por Elohim» (#vaikra_26_45). Eric critica traducciones que dicen «pacto antiguo» en un sentido que la predicación popular equipara con un «Antiguo Testamento» abrogado. El hebreo apunta a los primeros (Abraham, Isaac y Jacob, ya nombrados en el v. 42) y al éxodo, no a un canon desechado. Esa corrección tiene **apoyo textual fuerte** frente a la confusión homilética; conviene, eso sí, no pelear contra cada uso legítimo de «antiguo» como «de antaño».
 
 El cierre del capítulo presenta estos estatutos, juicios y torot que יהוה dio en el Sinaí por mano de Moshé (#vaikra_26_46). La consolación no dispensa de la Torá: la enmarca.
+
+## «Míos son los hijos de Yisra'el»: pertenencia después de la disciplina
+
+La fuente adicional de Eric lleva como título «Míos son los hijos de Yisra'el, son mis siervos» y enlaza Behar con Bejuqotay. Esa formulación no debe atribuirse como cita literal de la clase, pero identifica una observación concreta que el cierre de Vaikra 26 permite examinar: después de hablar de confesión, exilio y pacto, יהוה no describe a Israel como posesión descartable. En #vaikra_26_44-45 dice que no los desechará para anular su pacto y que recordará el pacto de los primeros cuando los sacó de Mitsraim.
+
+El paralelo inmediato con #vaikra_25_42, 55 es especialmente relevante: **כי עבדי הם**, _ki avadai hem_, «porque mis siervos son», y **עבדי הם**, _avaday hem_, «mis siervos son». **עבד**, _eved_, normalmente significa siervo o esclavo; su forma plural con sufijo en **עבדי** marca pertenencia a יהוה. En Vaikra 25 la fuerza contextual limita el dominio de un israelita sobre otro: el pueblo pertenece al libertador que lo sacó de Egipto. En Vaikra 26 la misma pertenencia no cancela la disciplina por desobediencia, pero sí explica por qué la disciplina no culmina en el abandono del pacto. «Dueños absolutos de sí mismos» sería una equivalencia contraria al pasaje; «siervos» tampoco autoriza a un gobernante humano a apropiarse del pueblo.
+
+La conexión entre ambas parashot es, por tanto, **exacta** en el hilo de pertenencia y pacto, pero solo **aproximada** si se convierte en una fórmula general sobre toda experiencia espiritual. Behar ordena economía, tierra y servicio en el ámbito concreto de Israel; Bejuqotay interpreta obediencia, castigo, confesión y memoria. La observación de Eric conserva un núcleo textual fuerte cuando afirma que los hijos siguen siendo de יהוה aun bajo corrección. El capítulo añade el límite necesario: pertenecerle no vuelve irrelevantes los juqot, las mitzvot ni la responsabilidad histórica.
 
 ## Hoja léxica
 
@@ -132,5 +142,6 @@ Vaikra 26 enseña a andar en lo que יהוה fija y a hacer lo que manda, promet
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashát Behar + Bejuqotay (2017) Míos son los hijos de Yisra'el, son mis siervos](https://www.youtube.com/watch?v=sfA7OZ8LtFk) (`source_id`: `youtube:sfA7OZ8LtFk`).
 - Video: [Parashat Bejuqotay - If they have my juqot inside, they will keep my mitzvot](https://www.youtube.com/watch?v=IzbgqzNwD4k) (`source_id`: `youtube:IzbgqzNwD4k`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
