@@ -116,6 +116,14 @@ El cierre usa dos participios que no deben disolverse en una sola explicación: 
 | **(δικαιοσύνη)**           | _dikaiosynē_        | justicia, rectitud                                                     | #romanos_10_3 contrasta la justicia de Elohim con la justicia propia que se procura establecer.    | Directa en el léxico básico; su fuerza teológica es contextual.                            |
 | **(ἀπειθέω)**              | _apeitheō_          | desobedecer, no dejarse persuadir                                      | #romanos_10_21 caracteriza la resistencia de Israel ante las manos extendidas de Elohim.           | Directa y contextual; conserva ambos matices sin convertirlos en una teoría psicológica.   |
 
+## La invocación como respuesta al llamamiento
+
+En la sesión `youtube:ililQLS9UJE`, Eric detiene el recorrido en Romanos 10:12-13 y pregunta quiénes son «los que invocan». A partir de Joel 2:32, sostiene que el remanente al que יהוה llama ayuda a explicar la invocación como respuesta al llamamiento divino, no como una iniciativa autónoma que convierte la salvación en mérito humano. La observación es atribuible al expositor y está localizada aproximadamente entre 00:01:50 y 00:04:48 de la sesión; la transcripción automática se ha normalizado y no se presenta como cita literal.
+
+**(ἐπικαλέω)**, _epikaleō_, tiene el sentido ordinario de invocar, apelar o llamar sobre alguien; en #romanos_10_12-13 describe la acción humana de dirigirse al Señor. **(קָרָא)**, _qara_, significa llamar, proclamar o invocar según su construcción; en Joel 2:32 la sintaxis y el contexto deben decidir si la frase destaca a quien invoca el nombre o al remanente al que יהוה llama. La relación entre ambas formas es **aproximada y pedagógica**, no una equivalencia etimológica ni una licencia para borrar la afirmación explícita de Romanos: el Señor es rico para todos los que lo invocan.
+
+La cadena de #romanos_10_14-17 conserva ambos movimientos. El anuncio y el envío hacen posible la escucha, pero quienes oyen son llamados a creer, invocar y responder; #romanos_10_20-21 mantiene además el contraste entre quienes encuentran y quienes desobedecen. Así, la lectura de Eric recibe apoyo **cualificado** cuando subraya la precedencia del llamamiento, y requiere corrección si se formula de manera que la responsabilidad de oír y obedecer desaparezca.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis hebrea completa de Joel 2:32 y su relación con la forma griega de Romanos 10:13 antes de fijar quién es el sujeto de cada acción.
