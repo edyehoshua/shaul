@@ -117,6 +117,15 @@ La exposición relaciona esta gloria con materialización, transformación y el 
 - #thessalonians2_2_10-12 con #thessalonians2_2_13-14: el rechazo de la verdad se contrasta con una comunidad llamada por el evangelio para salvación.
 - #thessalonians2_2_16-17 con #thessalonians2_1_11-12: la esperanza de la carta desemboca en palabra, obra y gloria del Nombre de Yehoshua.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual           | Observación concreta de la clase                                                                                                                   | Tratamiento en esta nota                                                                                                                                                                |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 Tesalonicenses 2:1-2   | Eric advierte que la reunión con Yehoshua no debe convertirse en alarma causada por un espíritu, una palabra o una carta supuestamente apostólica. | **Apoyo textual**: se sigue la orden de no ser sacudidos y se distingue esperanza de calendario.                                                                                        |
+| 2 Tesalonicenses 2:3-8   | La clase lee al hombre de iniquidad como suplantador que se exalta en el templo y relaciona el templo con la comunidad.                            | **Inferencia calificada**: se conserva la observación y sus conexiones, pero la identidad del inicuo y del restrenedor queda pendiente porque el pasaje no los identifica por completo. |
+| 2 Tesalonicenses 2:9-12  | Eric aplica las señales y prodigios de mentira al discernimiento frente a demostraciones llamativas y al rechazo del amor de la verdad.            | **Apoyo textual con aplicación pastoral**: el contraste entre engaño, verdad e injusticia es explícito; no se identifican personas o movimientos actuales.                              |
+| 2 Tesalonicenses 2:13-17 | La exposición presenta la elección, santificación, tradición recibida y firmeza como respuesta comunitaria al engaño.                              | **Apoyo textual**: se siguen el llamado por el evangelio, el mandato de permanecer firmes y la consolación para toda buena palabra y obra.                                              |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar con léxicos y gramáticas las propuestas de la clase sobre **(παρουσία)**, **(ἐπισυναγωγή)**, **(ἀνομία)** y los verbos de #thessalonians2_2_1-2.
