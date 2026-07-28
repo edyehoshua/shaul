@@ -54,6 +54,8 @@ Esta es la nota canónica de Romanos 5 e incorpora las partes 11 y 12 de la seri
 
 Pablo inicia con un hombre, el pecado y la muerte, y después nombra a Adán como figura del que había de venir (#romanos_5_12-14). Sin embargo, enseguida niega que el don sea «como» el delito (#romanos_5_15-16). La comparación sirve para mostrar un contraste: el delito conduce a condenación y muerte; el don de gracia se orienta a justificación y vida.
 
+La clase relaciona este bloque con #romanos_3_23 y con la condición humana destituida de la gloria. En el transcript, Eric explica **(ἁμαρτία)**, _hamartía_, como error, falla o desviación; ese sentido ordinario puede describir una dimensión del término, pero Romanos 5 le da una fuerza mayor: el pecado entra, se extiende y reina junto con la muerte. El hebreo **(חטא)**, _jātāʼ_, tiene el sentido ordinario de pecar o fallar, y su cercanía conceptual con _hamartía_ es aproximada y pedagógica, no una identidad etimológica. Por eso la observación de Eric se conserva como explicación atribuible, mientras el contexto de Pablo impide reducir el pecado a un simple error sin responsabilidad ni poder destructivo.
+
 La clase lee este bloque junto con la condición humana expuesta en #romanos_3_23 y con la creación sometida a corrupción en #romanos_8_19-23. Es una conexión temática plausible, pero el sentido preciso de «todos pecaron» y la relación entre Adán, muerte y humanidad debe seguir el desarrollo completo de Romanos, no una fórmula aislada.
 
 ## La Torá y el conocimiento del pecado
