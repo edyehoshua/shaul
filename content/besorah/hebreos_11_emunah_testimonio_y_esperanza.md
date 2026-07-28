@@ -35,25 +35,25 @@ Esta nota organiza las partes 12 y 13 de la serie sobre Hebreos, acreditadas pú
 
 ## Hoja de comparación
 
-| Referencia | Texto local (Delitzsch, sin nikud) | Función en el argumento |
-| --- | --- | --- |
-| #hebrews_11_1 | **והאמונה היא בטחון במה־שנצפה לו והוכחת דברים שאינם נראים׃** | Define la confianza en relación con lo esperado y lo no visto. |
-| #hebrews_11_3 | **באמונה נבין כי העולמות נעשו בדבר האלהים** | La creación se comprende por la palabra de Elohim, no por observación exhaustiva. |
-| #hebrews_11_6 | **ובלי אמונה אי־אפשר להיות לרצון לפניו** | Vincula la fe con acercarse y creer que Elohim existe y recompensa. |
-| #hebrews_11_13 | **באמונה מתו כל אלה ולא קבלו את־ההבטחות** | Los testigos mueren en la esperanza sin poseer la consumación. |
-| #hebrews_11_26 | **כי חרפת המשיח חשבה לעשר גדולה מאוצרות מצרים** | Moshe valora el oprobio del Mesías por encima del tesoro egipcio. |
-| #hebrews_11_39-40 | **וכל־אלה אשר העידו בהם באמונה לא קבלו את־ההבטחה**; **למען אשר לא־ישלמו בלעדינו** | El cierre une a los antiguos testigos con la comunidad posterior. |
+| Referencia        | Texto local (Delitzsch, sin nikud)                                                | Función en el argumento                                                           |
+| ----------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| #hebrews_11_1     | **והאמונה היא בטחון במה־שנצפה לו והוכחת דברים שאינם נראים׃**                      | Define la confianza en relación con lo esperado y lo no visto.                    |
+| #hebrews_11_3     | **באמונה נבין כי העולמות נעשו בדבר האלהים**                                       | La creación se comprende por la palabra de Elohim, no por observación exhaustiva. |
+| #hebrews_11_6     | **ובלי אמונה אי־אפשר להיות לרצון לפניו**                                          | Vincula la fe con acercarse y creer que Elohim existe y recompensa.               |
+| #hebrews_11_13    | **באמונה מתו כל אלה ולא קבלו את־ההבטחות**                                         | Los testigos mueren en la esperanza sin poseer la consumación.                    |
+| #hebrews_11_26    | **כי חרפת המשיח חשבה לעשר גדולה מאוצרות מצרים**                                   | Moshe valora el oprobio del Mesías por encima del tesoro egipcio.                 |
+| #hebrews_11_39-40 | **וכל־אלה אשר העידו בהם באמונה לא קבלו את־ההבטחה**; **למען אשר לא־ישלמו בלעדינו** | El cierre une a los antiguos testigos con la comunidad posterior.                 |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal y fuerza contextual | Correspondencia y cautela |
-| --- | --- | --- | --- |
-| **(πίστις)** | _pistis_ | confianza, fidelidad o fiabilidad según el contexto | En Hebreos 11 se acerca a «fe», pero no debe reducirse a opinión interior. |
-| **(ἐλπιζομένων)** | _elpizomenōn_ | cosas esperadas | El participio mira hacia una promesa todavía no consumada; la equivalencia con «deseos» sería demasiado débil. |
-| **(ὑπόστασις)** | _hypostasis_ | fundamento, sustancia o seguridad, según interpretación | «Garantía» es una aproximación interpretativa, no un significado único demostrado por la palabra aislada. |
-| **(ἔλεγχος)** | _elenchos_ | prueba, convicción o demostración | En 11:1 expresa una relación cognoscible con lo no visto; no autoriza cualquier afirmación sin evidencia. |
-| **(אמונה)** | _emunáh_ | firmeza, fidelidad, confianza | Es una aproximación pedagógica al campo de **(πίστις)**; no se afirma equivalencia exacta entre hebreo y griego. |
-| **(δημιουργός)** | _dēmiourgos_ | artesano o creador, término filosófico en ciertos contextos | La palabra aparece en 11:10 como «arquitecto y constructor» en traducción; la identificación de Elohim con un demiurgo requiere verificación histórica y léxica. |
+| Forma             | Transliteración | Sentido normal y fuerza contextual                          | Correspondencia y cautela                                                                                                                                        |
+| ----------------- | --------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(πίστις)**      | _pistis_        | confianza, fidelidad o fiabilidad según el contexto         | En Hebreos 11 se acerca a «fe», pero no debe reducirse a opinión interior.                                                                                       |
+| **(ἐλπιζομένων)** | _elpizomenōn_   | cosas esperadas                                             | El participio mira hacia una promesa todavía no consumada; la equivalencia con «deseos» sería demasiado débil.                                                   |
+| **(ὑπόστασις)**   | _hypostasis_    | fundamento, sustancia o seguridad, según interpretación     | «Garantía» es una aproximación interpretativa, no un significado único demostrado por la palabra aislada.                                                        |
+| **(ἔλεγχος)**     | _elenchos_      | prueba, convicción o demostración                           | En 11:1 expresa una relación cognoscible con lo no visto; no autoriza cualquier afirmación sin evidencia.                                                        |
+| **(אמונה)**       | _emunáh_        | firmeza, fidelidad, confianza                               | Es una aproximación pedagógica al campo de **(πίστις)**; no se afirma equivalencia exacta entre hebreo y griego.                                                 |
+| **(δημιουργός)**  | _dēmiourgos_    | artesano o creador, término filosófico en ciertos contextos | La palabra aparece en 11:10 como «arquitecto y constructor» en traducción; la identificación de Elohim con un demiurgo requiere verificación histórica y léxica. |
 
 ## 11:1-3: confianza, evidencia y creación
 
@@ -71,14 +71,20 @@ La prueba de Avraham, la decisión de Moshe y la recepción de Rahav muestran qu
 
 El cierre acelera los ejemplos: algunos vencen reinos y obtienen promesas; otros soportan burlas, prisiones, violencia y muerte. Por eso la fe no puede definirse solo por resultados visibles. Todos recibieron buen testimonio, pero no la promesa completa; Elohim proveyó algo mejor para que no fueran perfeccionados aparte de nosotros. La comunidad actual no reemplaza a los testigos ni los completa por mérito propio: participa en una historia de promesa cuya consumación depende de Elohim.
 
+La parte 13 de la exposición llama a estos bloques “demostraciones de la emunáh”, y Eric insiste en que la palabra debe verse en hechos: salir, ofrecer, preparar, rehusar y soportar. El propio cierre verifica esa dirección mediante la alternancia de verbos de victoria y de sufrimiento, pero no deja que “demostración” signifique una prueba matemática ni que “fe” autorice afirmaciones sin evidencia. La cadena termina con **למען אשר לא־ישלמו בלעדינו**, “para que no fueran perfeccionados aparte de nosotros” (11:40): el texto une la meta de los antiguos con la comunidad, sin decir que la comunidad produzca por sí misma la perfección.
+
+La sesión también vuelve sobre la palabra “demiurgos” del título de la parte 12. Hebreos 11:10 describe la ciudad esperada como aquella cuyo arquitecto y constructor es Elohim; **δημιουργός** (_dēmiourgos_) puede significar artesano, creador o constructor en usos filosóficos, pero esa forma no aparece como una etiqueta teológica independiente en el texto local citado aquí. Eric ofrece una conexión conceptual entre el constructor y la obra creadora de 11:3, mientras el capítulo sólo permite afirmar que Avraham esperaba una ciudad cuyo arquitecto y constructor es Elohim. La relación es pedagógica y aproximada, no una prueba de que Hebreos adopte una cosmología filosófica del demiurgo.
+
 ## Mapa de la enseñanza de Eric
 
-| Perícopa | Punto concreto tomado de Eric | Cómo se evaluó |
-| --- | --- | --- |
-| Hebreos 11:1-3 | La parte 13 se presenta como «demostraciones de la emunáh» y la parte 12 abre la cuestión de cómo entender a Elohim como demiurgos. | Apoyo textual limitado: 11:1-3 sí habla de fe, cosas no vistas y la palabra creadora; la terminología «demiurgos» no se impone al pasaje y queda pendiente. |
-| Hebreos 11:4-16 | La enseñanza se resume mediante los testigos de la emunáh, no como una definición emocional de fe. | Apoyo textual y aclaración léxica: se sigue la cadena Abel–Avraham–Sara y se conserva que murieron sin recibir las promesas. |
-| Hebreos 11:17-31 | Las demostraciones de fe se observan en decisiones concretas: Avraham obedece, Moshe renuncia al tesoro egipcio y Rahav recibe a los mensajeros. | Apoyo textual en orden: se desarrollan los ejemplos sin atribuirles detalles que el capítulo no declara; «emunáh» se marca como aproximación pedagógica. |
-| Hebreos 11:32-40 | El resumen no debe medir la fidelidad solo por victorias; también incluye sufrimiento y muerte antes de recibir la promesa. | Apoyo textual: el contraste del cierre sostiene la lectura; cualquier explicación histórica adicional queda pendiente de verificar. |
+| Perícopa         | Punto concreto tomado de Eric                                                                                                                    | Cómo se evaluó                                                                                                                                              |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hebreos 11:1-3   | La parte 13 se presenta como «demostraciones de la emunáh» y la parte 12 abre la cuestión de cómo entender a Elohim como demiurgos.              | Apoyo textual limitado: 11:1-3 sí habla de fe, cosas no vistas y la palabra creadora; la terminología «demiurgos» no se impone al pasaje y queda pendiente. |
+| Hebreos 11:4-16  | La enseñanza se resume mediante los testigos de la emunáh, no como una definición emocional de fe.                                               | Apoyo textual y aclaración léxica: se sigue la cadena Abel–Avraham–Sara y se conserva que murieron sin recibir las promesas.                                |
+| Hebreos 11:17-31 | Las demostraciones de fe se observan en decisiones concretas: Avraham obedece, Moshe renuncia al tesoro egipcio y Rahav recibe a los mensajeros. | Apoyo textual en orden: se desarrollan los ejemplos sin atribuirles detalles que el capítulo no declara; «emunáh» se marca como aproximación pedagógica.    |
+| Hebreos 11:32-40 | El resumen no debe medir la fidelidad solo por victorias; también incluye sufrimiento y muerte antes de recibir la promesa.                      | Apoyo textual: el contraste del cierre sostiene la lectura; cualquier explicación histórica adicional queda pendiente de verificar.                         |
+
+- Hebreos 11:1-40 | La parte 13 llama “demostraciones de la emunáh” a una cadena que se prueba en actos, victorias y padecimientos; la parte 12 relaciona al constructor de 11:10 con “demiurgos”. | **Apoyo textual delimitado**: la secuencia de acciones y el constructor de la ciudad aparecen en el capítulo; “demiurgos” queda como conexión conceptual de Eric, no como término impuesto a 11:10. |
 
 El mapa registra los puntos concretos atribuidos a estas dos clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
 
