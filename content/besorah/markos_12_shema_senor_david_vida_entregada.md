@@ -144,12 +144,6 @@ La cercanía literaria importa. El relato acaba de denunciar a quienes devoran c
 - [ ] Examinar la lectura de #tehilim_110_1 y las genealogías de Yehoshua sin resolver el pasaje mediante la afirmación no cotejada de que el Mesías no puede ser humano.
 - [ ] Cotejar los usos de **(זרע)** en las promesas bíblicas y la argumentación de #galatim_3_16 antes de universalizar una regla singular = Mesías.
 
-## Mapa de la enseñanza de Eric
-
-- **Marcos 12:28-34 — Shemá, mitzváh y amor:** Eric presenta la pregunta del escriba como una prueba de si se sabe pesar la Torah y relaciona **(שמע)** con una escucha que compromete la vida. La nota lo apoya en la secuencia Shemá–amor al prójimo y califica “indivisible” como desarrollo pedagógico de **(אחד)**.
-- **Marcos 12:35-37 — hijo de David y Señor:** la clase usa #tehilim_110_1 para cuestionar una lectura meramente genealógica del Mesías y lo vincula con una confesión unitaria de יהוה. La nota conserva la tensión textual entre «hijo de David», «Dijo יהוה» y «mi Señor», pero deja la conclusión doctrinal más amplia como interpretación del expositor.
-- **Marcos 12:38-44 — escribas y viuda:** Eric contrasta la autoridad que consume casas con la entrega total de la viuda. La nota prueba el contraste en el orden narrativo y evita convertir las dos monedas en una exigencia económica para personas vulnerables.
-
 ## Conclusión
 
 Marcos 12 une poder de resurrección, Shemá y medida de la ofrenda. Los tzedukim tropiezan al proyectar el levirato sobre el olam venidero; Yehoshua los devuelve a la Escritura y al Elohim de los vivos. Luego el amor a יהוה y al prójimo ordena la vida, la pregunta por el Señor de David impide reducir al Mesías a una dinastía manejable, y la viuda revela una grandeza que no se compra con abundancia. La lectura de Eric aporta observaciones concretas; permanece sujeta al texto y a la verificación de sus conexiones históricas y doctrinales.
