@@ -135,6 +135,7 @@ La respuesta de Yaakov debe mantenerse en su propio orden. El OE dice: «Y Jacob
 El cierre dice: «Y esta piedra que he puesto por columna será casa de Elohim; y de todo lo que me des, diezmar diezmaré para Ti» (#bereshit_28_22). **(מצבה)**, _matsevah_, significa columna o estela; aquí funciona como señal memorial del encuentro. **(עשר)**, _asar_, significa diezmar o entregar una décima parte; la repetición refuerza el compromiso de Yaakov, pero no transforma automáticamente su voto en una legislación completa. Así se conserva la observación central de Eric y se evalúa con precisión: el diezmo es respuesta dentro de una escena de promesa, viaje y retorno, no el precio de una escalera ni de la presencia divina.
 
 
+
 ## Cierre textual: presencia que precede a la respuesta
 
 La comparación local permite precisar el movimiento final. OE registra **והנה אנכי עמך ושמרתיך בכל אשר תלך** («he aquí, Yo estoy contigo y te guardaré en todo lo que vayas») en #bereshit_28_15, mientras TTH traduce: «Y he aquí, Yo estoy contigo, y te guardaré dondequiera que vayas». La diferencia de formulación no cambia el argumento: la presencia y la custodia son promesa de יהוה antes de que Yaakov formule su voto. **עמך**, _imkha_, combina la preposición «con» y el sufijo «contigo»; su fuerza contextual es compañía relacional, no una garantía abstracta de prosperidad.
