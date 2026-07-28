@@ -62,6 +62,16 @@ Finalmente, 12:8 protege la participación de quien no puede traer un cordero: �
 - **Vayikra 12:6-7 — ofrendas diferenciadas.** La clase insiste en que la olah y la jatat no deben confundirse; la nota ofrece **aclaración léxica y apoyo textual**, sin afirmar que la expiación borre una culpa personal no nombrada.
 - **Vayikra 12:8 — alternativa para quien no alcanza.** Eric destaca que la persona pobre no queda excluida; la nota lo trata como **apoyo textual**, porque la alternativa de tórtolas está explícitamente provista por el pasaje.
 
+## La ofrenda final: acceso regulado, no estigma
+
+El cierre de Vayikra 12 debe conservar el movimiento completo de la perícopa. En 12:6, al terminar los días, la mujer lleva **בן שנתו**, _ben shenato_, «un hijo de su año», para la _olah_, y una cría de paloma o tórtola para la _jatat_. **הביא**, _hevi_, es una forma causativa de בוא, «hacer venir o traer»; su fuerza contextual es acercar la ofrenda al santuario conforme al tiempo ordenado. «Presentarse para ser aceptada» sería una paráfrasis pedagógica, no el sentido completo del verbo. La observación de Eric sobre que la restauración no termina cuando cesa el dolor recibe aquí un apoyo narrativo concreto: todavía hay días que cumplir y un acto cultual que realizar.
+
+El versículo 7 dice que el sacerdote «hará expiación por ella, y será pura». **וטהרה**, _vetaharah_, procede de טהר, «ser puro o quedar apto», y en esta construcción describe el resultado ritual de la acción sacerdotal. No significa que antes fuera moralmente perversa. **כפר**, _kiper_, puede significar hacer expiación, cubrir o reparar ritualmente; la equivalencia «borrar toda culpa» es demasiado amplia para este contexto. La clase relaciona la reintegración con luz, vida y el Mesías; esa conexión puede conservarse como lectura canónica posterior, pero el capítulo afirma directamente que la mujer recupera su condición de acceso después del rito.
+
+12:8 añade un límite económico decisivo: «si no alcanza su mano un cordero, tomará dos tórtolas o dos hijos de paloma». La expresión **לא תגיע ידו**, _lo tagia yado_, significa literalmente «no alcanzará su mano»; **יד**, _yad_, normalmente es «mano», pero aquí funciona como capacidad o recurso disponible. «Pobreza» es una equivalencia contextual aproximada. **לקח**, _laqaj_, significa tomar o recibir, y ordena la alternativa permitida sin degradar a la mujer ni excluirla del culto. Eric acierta al destacar que la provisión abre camino a quien no puede traer el animal más costoso; el texto, no obstante, presenta una alternativa concreta y no una teoría general sobre todos los sacrificios.
+
+Así, la secuencia «días–ofrenda–expiación–pureza» protege dos verdades a la vez: el acceso a lo sagrado está regulado y la parturienta no queda marcada como una pecadora por haber dado a luz. Leer _jatat_ como culpa moral automática contradice la cautela del capítulo; leer la espera como innecesaria ignora la forma en que el texto ordena la reintegración.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

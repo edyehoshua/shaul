@@ -93,6 +93,14 @@ La genealogía de 6:14-27 cumple además una función teológica concreta. Al in
 
 La evaluación final es sobria. Eric conserva la iniciativa de יהוה, la progresión de sacar a Israel y la dificultad de escuchar bajo esclavitud. El capítulo confirma esas observaciones, pero también conserva la objeción de Moshéh, la genealogía y la persistencia de la misión. La fidelidad divina no significa que el pueblo deje de sufrir o que el mensajero deje de sentirse insuficiente; significa que la palabra de יהוה permanece eficaz a través de esas limitaciones.
 
+## La promesa no depende de una escucha inmediata
+
+El desarrollo de 6:6–9 también corrige una lectura demasiado lineal de la redención. יהוה habla en primera persona: **והוצאתי**, _vehotséti_, «sacaré», es una forma causativa de יצא, «salir», y presenta a יהוה como quien produce la salida; **ולקחתי**, _velaqajti_, «tomaré», procede de לקח, «tomar o recibir», y en 6:7 expresa la constitución de una relación de pueblo. «Adoptaré» es una equivalencia pedagógica posible, pero no exacta: el texto dice «los tomaré para mí» dentro del lenguaje del pacto. La clase de Eric acierta al ubicar la redención en la iniciativa divina, pero el capítulo no permite saltar directamente de la promesa a una experiencia triunfal sin pasar por 6:9, donde el pueblo no escucha.
+
+La frase **ולא שמעו אל משה מקצר רוח ומעבדה קשה**, _velo shamu el Mosheh miqotsar ruaj umeavodah qashah_, conserva dos causas narrativas de esa escucha bloqueada: «cortedad de espíritu» y «trabajo duro». **קצר**, _qatsar_, normalmente significa ser corto, recoger o segar; aquí, junto con _ruaj_, describe un ánimo estrechado. **קשה**, _qashah_, significa duro, severo o difícil; su fuerza contextual califica la servidumbre, no el carácter moral de cada israelita. «Desesperación» es una equivalencia aproximada, útil para explicar el efecto, pero más estrecha que la expresión hebrea.
+
+Por eso la promesa debe evaluarse en dos direcciones. En 6:8, «los introduciré en la tierra» y «se la daré» orientan hacia la herencia jurada; en 6:9, la aflicción impide recibir el anuncio. Eric conserva bien la fidelidad de יהוה cuando relaciona ayer y hoy, siempre que la aplicación no culpe al sufriente por no reaccionar con entusiasmo. El texto sostiene simultáneamente la eficacia de la palabra divina y la realidad de un pueblo herido. Esa tensión prepara 6:10–13: Moshéh vuelve a ser enviado, aunque él mismo diga **הן בני ישראל לא שמעו אלי**, «he aquí, los hijos de Israel no me han escuchado».
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
