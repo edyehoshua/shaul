@@ -228,6 +228,7 @@
   - `content/tanaj/devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` ← `youtube:kw0lpuvIXPk`
 - Validation: `python3 scripts/check_transcript_note_quality.py` on three paths → `quality_failures=0`; `git diff --check` clean; Prettier on touched Markdown.
 - Did not push canonical; commit only on `worker/shaul-tanaj`.
+- 2026-07-28 — Añadí la nota canónica de Bereshit 37 desde la fuente exclusiva `youtube:GTTiPhYP4eQ` (Vayéshev). La nota sigue 37:1-36 en orden, cita OE/TTH locales, conserva las observaciones de Eric sobre asentamiento, sueños, envidia/rechazo, pozo y solución perteneciente a Elohim, y califica la tipología y las afirmaciones secundarias. Incluye léxico, mapa de enseñanza, crédito público y fuente única; el control de calidad y `git diff --check` pasaron.
 
 ## 2026-07-28 — Tanaj lane cron follow-up
 
