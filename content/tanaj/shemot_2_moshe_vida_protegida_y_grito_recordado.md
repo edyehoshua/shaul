@@ -17,10 +17,11 @@ references:
   - "#shemot_2_23-25"
 sources:
   - "https://www.youtube.com/watch?v=SPEatJ6nkyc"
-  - "docs/scriptures/oe/json/raw/exodus.json"
+  - "docs/scriptures/oe/json/exodus/2.json"
+  - "docs/scriptures/tth/json/shemot.json"
 source_ids:
   - "youtube:SPEatJ6nkyc"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -33,13 +34,15 @@ Esta es la nota canónica de Shemot 2. Organiza la exposición del hermano Eric 
 
 ## Hoja de comparación
 
-| Referencia      | Hebreo local OE, normalizado sin nikud                    | Función en la lectura                                            |
-| --------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| #shemot_2_1-3   | **וילך איש מבית לוי ויקח את בת לוי... ותשם בה את הילד**   | Una familia levita protege al niño y lo coloca en una cesta.     |
-| #shemot_2_5-10  | **ותרא את התבה בתוך הסוף... ותחמל עליו... ותקרא שמו משה** | La hija de Faraón ve, tiene compasión y nombra a Moshe.          |
-| #shemot_2_11-15 | **וירא בסבלתם... ויך את המצרי... ויברח משה**              | Moshe ve la opresión, actúa violentamente y huye.                |
-| #shemot_2_16-22 | **ויקם משה ויושען... גר הייתי בארץ נכריה**                | En Midyan vuelve a defender a débiles y reconoce su extranjería. |
-| #shemot_2_23-25 | **ויאנחו בני ישראל מן העבודה... ויזכר אלהים את בריתו**    | El clamor y el pacto abren el camino de la intervención divina.  |
+Las citas hebreas proceden del OE local; se quitaron las barras morfológicas del archivo para conservar palabras legibles. El TTH se incluye donde la formulación española afecta la lectura.
+
+| Referencia      | Hebreo local OE, normalizado sin nikud                                                            | TTH local                                                                                                                           | Función en la lectura                                            |
+| --------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| #shemot_2_1-3   | **וילך איש מבית לוי ויקח את בת לוי** / **ולא יכלה עוד הצפינו ותקח לו תבת גמא... ותשם בה את הילד** | «Y fue un hombre de la casa de Levi, y tomó por mujer a una hija de Levi» (2:1); «ella tomó para él un arca de papiro» (2:3).       | Una familia levita protege al niño y lo coloca en una cesta.     |
+| #shemot_2_5-10  | **ותרא את התבה בתוך הסוף... ותפתח ותראהו את הילד... ותחמל עליו... ותקרא שמו משה**                 | «Y tuvo piedad por él... De los niños de los ivrim es este» (2:6); «Porque del agua lo he sacado» (2:10).                           | La hija de Faraón ve, tiene compasión y nombra a Moshe.          |
+| #shemot_2_11-15 | **וירא בסבלתם... ויך את המצרי... מי שמך לאיש שר ושפט עלינו... ויברח משה**                         | «Y salió a sus hermanos y vio sus cargas» (2:11); «¿Quién te nombró por hombre capitán y juez sobre nosotros?» (2:14).              | Moshe ve la opresión, actúa violentamente y huye.                |
+| #shemot_2_16-22 | **ויקם משה ויושען וישק את צאנם... גר הייתי בארץ נכריה**                                           | «Se levantó Moshéh y las rescató, y dio de beber a su rebaño» (2:17); «Extranjero soy en tierra extranjera» (2:22).                 | En Midyan vuelve a defender a débiles y reconoce su extranjería. |
+| #shemot_2_23-25 | **ויאנחו בני ישראל מן העבודה ויזעקו... וישמע אלהים את נאקתם ויזכר אלהים את בריתו... וידע אלהים**  | «Gemían los hijos de Israel desde la esclavitud, y gritaron» (2:23); «recordó Elohim su pacto» (2:24); «los conoció Elohim» (2:25). | El clamor y el pacto abren el camino de la intervención divina.  |
 
 ## Vida escondida, río y nombre — vv. 1–10
 
@@ -69,16 +72,19 @@ Después de muchos días muere el rey de Egipto. Israel gime y clama desde el tr
 
 ## Hoja léxica
 
-| Forma     | Transliteración | Sentido normal                  | Fuerza contextual                                                   | Equivalencia                                                   |
-| --------- | --------------- | ------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **(ירא)** | _yare_          | temer, reverenciar              | Temor que coloca a Elohim sobre Faraón; luego miedo humano de Moshe | Exacta para «temer»; «reverencia» es aproximada según contexto |
-| **(תבה)** | _tevah_         | caja, arca                      | Recipiente de preservación en agua                                  | Exacta como «arca/caja»; «barca» es aproximada                 |
-| **(חמל)** | _chamal_        | compadecerse, apiadarse         | La hija de Faraón responde al llanto y preserva vida                | Aproximada: «compasión» expresa el efecto contextual           |
-| **(משה)** | _Moshe_         | nombre explicado por «sacar»    | El nombre queda ligado a la extracción del agua                     | Pedagógica como etimología narrativa                           |
-| **(גר)**  | _ger_           | forastero, residente extranjero | Moshe interpreta su vida en Midyan                                  | Aproximada si se traduce simplemente «exiliado»                |
-| **(זעק)** | _zaaq_          | clamar, pedir auxilio           | El sufrimiento de Israel llega ante Elohim                          | Exacta en el marco de auxilio                                  |
-| **(זכר)** | _zakar_         | recordar, tener presente        | Recordar el pacto mediante acción fiel                              | Aproximada si sugiere recuperar un olvido                      |
-| **(ידע)** | _yada_          | conocer                         | Reconocimiento relacional de la aflicción                           | Aproximada si se limita a información mental                   |
+| Forma     | Transliteración | Sentido normal                     | Fuerza contextual                                                                      | Equivalencia                                                             |
+| --------- | --------------- | ---------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **(ירא)** | _yare_          | temer, reverenciar                 | Temor que coloca a Elohim sobre Faraón; luego miedo humano de Moshe                    | Exacta para «temer»; «reverencia» es aproximada según contexto           |
+| **(תבה)** | _tevah_         | caja, arca                         | Recipiente de preservación en agua                                                     | Exacta como «arca/caja»; «barca» es aproximada                           |
+| **(חמל)** | _chamal_        | compadecerse, apiadarse            | La hija de Faraón responde al llanto y preserva vida                                   | Aproximada: «compasión» expresa el efecto contextual                     |
+| **(משה)** | _Moshe_         | nombre explicado por «sacar»       | El nombre queda ligado a la extracción del agua                                        | Pedagógica como etimología narrativa                                     |
+| **(ישע)** | _yasha_         | librar, ayudar                     | La intervención de Moshe en el pozo protege a las hijas                                | Pedagógica si se amplía a «redimir»                                      |
+| **(כהן)** | _kohen_         | ministro, sacerdote según contexto | El TTH llama «sacerdote de Midián» al padre; no basta este título para probar su culto | Aproximada: «sacerdote» traduce el contexto, no resuelve toda su función |
+| **(גר)**  | _ger_           | forastero, residente extranjero    | Moshe interpreta su vida en Midyan                                                     | Aproximada si se traduce simplemente «exiliado»                          |
+| **(אנח)** | _anaj_          | gemir, suspirar                    | El sufrimiento de Israel se expresa antes del clamor de auxilio                        | Aproximada si se reduce a «quejarse»                                     |
+| **(זעק)** | _zaaq_          | clamar, pedir auxilio              | El sufrimiento de Israel llega ante Elohim                                             | Exacta en el marco de auxilio                                            |
+| **(זכר)** | _zakar_         | recordar, tener presente           | Recordar el pacto mediante acción fiel                                                 | Aproximada si sugiere recuperar un olvido                                |
+| **(ידע)** | _yada_          | conocer                            | Reconocimiento relacional de la aflicción                                              | Aproximada si se limita a información mental                             |
 
 ## Mapa de la enseñanza de Eric
 
