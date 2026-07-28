@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 832,
-  "pending_videos": 126,
-  "transcript_notes": 404,
+  "covered_videos": 836,
+  "pending_videos": 122,
+  "transcript_notes": 408,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -48,12 +48,12 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 47,
+      "covered": 49,
       "lane": "efesios"
     },
     "Fiestas restantes sin asignar (grupo coherente de inventario)": {
       "total": 5,
-      "covered": 0,
+      "covered": 2,
       "lane": "efesios"
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
@@ -138,7 +138,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 39,
+      "covered": 40,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
@@ -173,7 +173,7 @@
     },
     "Shavu’ot": {
       "total": 7,
-      "covered": 3,
+      "covered": 5,
       "lane": "colosenses"
     },
     "Shir hashirim completo": {
@@ -188,12 +188,12 @@
     },
     "Tehilim 119 y salmos restantes sin asignar (grupo coherente)": {
       "total": 38,
-      "covered": 6,
+      "covered": 8,
       "lane": "yojanan"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 131,
+      "covered": 133,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
