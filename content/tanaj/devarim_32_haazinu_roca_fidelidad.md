@@ -44,6 +44,8 @@ En 32:3 el nombre de יהוה se proclama y se atribuye grandeza a Elohim. En 32
 
 ## Memoria del cuidado y olvido de la Roca
 
+Entre la convocatoria y la definición de la Roca, el canto formula una pregunta acusatoria: «¿Así pagáis a יהוה, pueblo necio y no sabio?» (32:6, TTH). **שחת**, _shajat_, significa corromper, arruinar o echar a perder; en 32:5 su forma describe una deformación que contradice la filiación recibida, no una simple imperfección estética. «Corrompidos» es una equivalencia adecuada en este contexto, mientras que «dañados» sería demasiado débil. **דור**, _dor_, significa generación; aquí señala al colectivo que reproduce la torcedura, no solo a una persona aislada. La acusación prepara la memoria: la infidelidad no se entiende sin recordar primero quién dio la vida y la herencia.
+
 El poema pregunta si Israel paga a יהוה con corrupción, aunque él es el padre que lo compró, hizo y estableció (32:6). **קנה**, _qanah_, significa adquirir o comprar; «redimir» puede ser una equivalencia **pedagógica**, pero el versículo enfatiza pertenencia originada en la acción divina. «Recuerda los días de antaño» (32:7) manda consultar a padres y ancianos. La memoria no es nostalgia: reconstruye cómo Elyón separó pueblos y dio a Yaakov como porción a יהוה.
 
 En 32:10–11, יהוה encuentra a Israel en el desierto, lo rodea, le da entendimiento y lo guarda como la pupila de su ojo; como águila despierta el nido, así lo lleva. **מצא**, _matsa_, «encontrar», describe iniciativa; **סבב**, _savav_, «rodear», comunica protección; **נשא**, _nasa_, «llevar o cargar», hace visible cuidado sostenido. «Como un padre» y «como un águila» son imágenes textuales, no equivalencias literales entre יהוה y cualquier experiencia humana.

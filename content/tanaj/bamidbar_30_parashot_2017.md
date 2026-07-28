@@ -82,6 +82,12 @@ La repetición de **(נחלה)**, _najaláh_, «heredad o posesión recibida», 
 
 Finalmente, Bamidbar 36 retoma la herencia de las hijas de Tzelofjad. La disposición de que la herencia permanezca dentro de la tribu no debe presentarse como una solución universal a toda cuestión de propiedad; su función explícita es preservar el reparto dado por יהוה. La sección termina donde comenzó: una palabra obedecida sostiene la vida común.
 
+## De la frontera a la ciudad de refugio: responsabilidad que protege
+
+La asignación de la tierra (34:16-29) nombra a los responsables del reparto antes de que el capítulo 35 describa las ciudades levíticas. La forma **נתן**, _natan_, significa dar, poner o entregar; en «la tierra que yo doy» la equivalencia «conceder» es aproximada, porque la entrega divina no elimina la obligación humana de medir límites y administrar justicia. Después, **והקריתם**, _vehiqritem_, de קרה, significa hacer que ocurra o disponer; el contexto lo usa para «proveeréis» ciudades de refugio. «Refugio» comunica el resultado, pero no reemplaza la decisión comunitaria que organiza el acceso.
+
+La ciudad no convierte automáticamente al homicida en inocente. El texto distingue entre el que mata «sin intención» y el vengador de la sangre, y reserva el proceso ante la comunidad. **גאל**, _goel_, es el redentor o pariente con derecho de reivindicación; aquí el «vengador de la sangre» traduce su función contextual, no una autorización para la violencia sin juicio. Eric acierta al presentar la unidad como responsabilidad concertada cuando se conserva esta secuencia: límites públicos, ciudades designadas y discernimiento comunitario impiden que la venganza privada gobierne la herencia.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal                       | Fuerza contextual                         | Equivalencia                       |
