@@ -26,6 +26,7 @@ sources:
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/oe/json/leviticus/17.json"
   - "docs/scriptures/oe/json/leviticus/18.json"
+  - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
   - "youtube:8Btk2jATjfk"
   - "youtube:jCax7bvw4Y8"
@@ -41,21 +42,24 @@ Vaikra 16–18 une tres movimientos que no deben separarse: יהוה provee una 
 
 ## Alcance de la nota
 
-La nota sigue Vaikra 16, 17 y 18 en orden textual. Reúne cinco videos asignados exclusivamente a la lane Tanaj. Como el transcript local no está disponible en este worktree, las observaciones atribuibles a Eric se limitan a los énfasis verificables en los títulos públicos y se contrastan directamente con la Escritura local; no se presentan reconstrucciones como citas literales.
+La nota sigue Vaikra 16, 17 y 18 en orden textual. Reúne cinco videos asignados exclusivamente a la lane Tanaj. La evidencia visible de las clases se conserva como énfasis atribuible, no como cita literal; la argumentación se contrasta con los textos OE y TTH locales. El quinto video aparece además en el inventario de fuentes como transcript insuficiente, por lo que no se le atribuyen observaciones particulares más allá de su título público.
 
 ## Hoja de comparación
 
-| Referencia       | Hebreo local OE (sin nikud)                                                                                                    | Función en la lectura                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| #vaikra_16_29-31 | **והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם** / **שבת שבתון היא לכם** | El día señalado incluye al ciudadano y al residente, aflicción y cese de labor. |
-| #vaikra_16_30    | **כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו**                                                               | La purificación y el perdón se atribuyen al acto ordenado por יהוה.             |
-| #vaikra_17_10-11 | **כי נפש הבשר בדם הוא ואני נתתיו לכם על המזבח לכפר על נפשתיכם**                                                                | La sangre tiene una función cultual de expiación y no se entrega al consumo.    |
-| #vaikra_18_3-5   | **כמעשה ארץ מצרים... לא תעשו... את משפטי תעשו ואת חקתי תשמרו**                                                                 | La identidad de Israel se expresa en no adoptar las prácticas de las tierras.   |
-| #vaikra_18_24-30 | **אל תטמאו בכל אלה... ותטמא הארץ... ולא תטמאו בהם אני יהוה אלהיכם**                                                            | La contaminación moral tiene consecuencias para el pueblo y para la tierra.     |
+| Referencia       | Hebreo local OE (sin nikud)                                                                                                    | TTH local (ES)                                                                                       | Función en la lectura                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| #vaikra_16_2     | **ויאמר יהוה אל משה דבר אל אהרן אחיך ואל יבא בכל עת אל הקדש מבית לפרכת אל פני הכפרת אשר על הארן**                              | «No entrará en todo tiempo al santuario… porque en la nube apareceré sobre la cubierta».             | El acceso al santuario empieza con un límite explícito, no con iniciativa humana.    |
+| #vaikra_16_7-10  | **ולקח את שני השעירם והעמיד אתם לפני יהוה פתח אהל מועד** / **ונתן אהרן על שני השעירם גורלות גורל אחד ליהוה וגורל אחד לעזאזל**  | «Tomará los dos machos cabríos… un sorteo para יהוה y un sorteo para Azazel».                        | El rito distingue funciones dentro de un procedimiento ordenado por יהוה.            |
+| #vaikra_16_20-22 | **וסמך אהרן את שתי ידיו על ראש השעיר החי והתודה עליו את כל עונת בני ישראל** / **ונשא השעיר עליו את כל עונתם**                  | «Aharón apoyará sus dos manos… y confesará sobre él todas las iniquidades… el macho cabrío llevará». | La confesión y el envío pertenecen al desarrollo del rito, antes de su cierre anual. |
+| #vaikra_16_29-31 | **והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם** / **שבת שבתון היא לכם** | «Esto será para ustedes por decreto olam… afligirán sus gargantas… Shabat Shabatón».                 | El día señalado incluye al ciudadano y al residente, aflicción y cese de labor.      |
+| #vaikra_16_30    | **כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו**                                                               | «En este día él hará reconciliación por ustedes para purificarlos… serán puros».                     | La purificación y el perdón se atribuyen al acto ordenado por יהוה.                  |
+| #vaikra_17_10-11 | **כי נפש הבשר בדם הוא ואני נתתיו לכם על המזבח לכפר על נפשתיכם**                                                                | «El néfesh de la carne… está en la sangre, y Yo la he dado… sobre el altar».                         | La sangre tiene una función cultual de expiación y no se entrega al consumo.         |
+| #vaikra_18_3-5   | **כמעשה ארץ מצרים... לא תעשו... את משפטי תעשו ואת חקתי תשמרו**                                                                 | «Conforme a las obras de Mitzráim… no harán… guardarán mis decretos y mis procesos legales».         | La identidad de Israel se expresa en no adoptar las prácticas de las tierras.        |
+| #vaikra_18_24-30 | **אל תטמאו בכל אלה... ותטמא הארץ... ולא תטמאו בהם אני יהוה אלהיכם**                                                            | «No se contaminen con ninguna de estas cosas… no se contaminen con ellos».                           | La contaminación moral tiene consecuencias para el pueblo y para la tierra.          |
 
 ## El día de las expiaciones: acercarse bajo mandato: capítulo 16
 
-Vaikra 16 nace después de la muerte de los hijos de Aharón. El acceso al santuario no se regula por atrevimiento, experiencia o emoción, sino por palabra recibida. En los versículos 29–34, el décimo día del séptimo mes es una **חקת עולם** (_juqat olam_), una disposición permanente: el pueblo debe afligirse, suspender su trabajo y dejar que el sacerdote realice la expiación. El texto repite el alcance: ciudadano y residente están incluidos, y la acción cubre el santuario, la tienda, el altar, los sacerdotes y toda la asamblea.
+El capítulo comienza recordando la muerte de los hijos de Aharón y restringiendo el acceso: el sumo sacerdote no entra “en todo tiempo” detrás de la cortina. En los versículos 7–10, los dos machos cabríos son colocados delante de יהוה y el sorteo diferencia sus funciones; en los versículos 20–22, Aharón confiesa las iniquidades de Israel sobre el animal vivo y éste las lleva al desierto. La secuencia impide convertir el rito en una idea abstracta de perdón: hay lugar, mediador, animales, confesión y envío, todos dentro de una orden recibida.
 
 Eric presenta el lenguaje de reconciliación como un ministerio central de Ajarey Mot. “Reconciliación” comunica el resultado relacional, pero es una equivalencia **aproximada** de **(כפר)**, _kafar_. El verbo puede expresar cubrir, hacer expiación o purgar según el contexto; aquí el versículo 30 especifica su fuerza mediante **לטהר**, _letaher_, “purificar”. La nota no reduce _kafar_ a “borrar culpa” ni lo convierte en una técnica humana. El sujeto cultual y la fecha pertenecen al orden de יהוה: «en este día hará expiación por vosotros para purificaros».
 
