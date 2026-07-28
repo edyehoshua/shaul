@@ -102,6 +102,16 @@ Por eso el final vuelve a advertir: Israel debe guardar los estatutos para que l
 | **(חקה)**  | _juqah_         | estatuto, disposición       | Orden que Israel debe guardar y no sustituir por costumbres extranjeras | “Costumbre” es aproximada                                        |
 | **(טמא)**  | _tame_          | contaminar, volver impuro   | Transgresión que afecta al pueblo y a la tierra                         | “Profanar” es cercana, pero no idéntica en todos los casos       |
 
+## Las dos cabras y el alcance de la reconciliación
+
+En la primera clase de la serie, Eric resume los dos machos cabríos como «dos aspectos de una misma cosa»: uno es presentado para יהוה y su sangre entra en el rito; el otro lleva las iniquidades al desierto. Su argumento pastoral es concreto: no basta hablar de sangre rociada si la cabra que carga el pecado nunca sale del campamento. La clase aplica esa unidad contra una reconciliación entendida como permiso para seguir practicando el pecado. Esa observación conserva una tensión real de la perícopa, aunque la frase «la cabra que se fue» debe tratarse como explicación pedagógica del nombre **(עזאזל)**, _Azazel_, y no como una traducción segura de todos sus sentidos posibles.
+
+El texto local permite formular la secuencia con mayor precisión. En #vaikra_16_7-10 Aharón coloca las dos cabras delante de יהוה y echa suertes: una suerte «para יהוה» y otra «para Azazel». **(גורל)**, _goral_, es un sustantivo que significa suerte o sorteo; aquí designa el procedimiento que asigna funciones, no una decisión humana caprichosa. «Destino» es una equivalencia **aproximada** y puede sugerir fatalismo; la fuerza contextual es una distribución ritual bajo el mandato recibido. **(שלח)**, _shalaj_, significa enviar o despachar; en 16:21, la forma verbal describe el envío de la cabra viva al desierto después de la confesión. «Eliminar» es una paráfrasis **pedagógica**, no el sentido exacto del verbo.
+
+La imposición de las manos y la confesión de Aharón en #vaikra_16_21 no deben confundirse con una explicación mecánica de transferencia. **(סמך)**, _samaj_, significa apoyar, poner o imponer; en esta escena indica el gesto sacerdotal sobre la cabeza del animal. **(עון)**, _avon_, significa iniquidad, culpa o consecuencia torcida; la repetición de «todas las iniquidades» da al acto un alcance representativo dentro del rito. «El pecado muere» es una formulación **pedagógica** que recoge la dirección de la enseñanza de Eric, pero no reemplaza los verbos del texto: confesar, poner, llevar y enviar. La sangre de la primera cabra tampoco opera aislada: el capítulo une sangre, acceso restringido, purificación y salida al desierto.
+
+La exposición vincula este movimiento con el Mesías y con la reconciliación. Esa conexión puede conservarse como lectura canónica, pero la equivalencia no es léxica: **(כפר)**, _kafar_, no significa por sí solo «ser uno con el Padre», y **(רצה)**, _ratsah_, «complacer» o «aceptar», ni siquiera aparece como término rector en estos versículos. La nota debe atribuir la aplicación a Eric y evaluar su apoyo: el capítulo sí presenta purificación y eliminación de iniquidad como movimientos inseparables, pero los realiza por medio del rito sacerdotal anual que Vaikra describe. Por eso la reconciliación, en la lógica de la clase y del texto, no es solo una declaración de estado; produce una vida que ya no trata la impureza como normal.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad        | Observación pública atribuible a la serie de clases                                                                                                                    | Tratamiento en esta nota                                                                                                                    |
@@ -119,7 +129,7 @@ Por eso el final vuelve a advertir: Israel debe guardar los estatutos para que l
 
 ## Pendiente de verificar
 
-- [ ] Recuperar y cotejar los seis transcripts públicos para separar toda observación hablada de los énfasis que sólo aparecen en los títulos.
+- [ ] Cotejar los cinco videos restantes de la serie para separar toda observación hablada de los énfasis que sólo aparecen en los títulos; esta nota ya verificó la observación de la primera clase sobre las dos cabras y la reconciliación.
 - [ ] Verificar el alcance histórico de “ministerio de reconciliación” como formulación aplicada a Vaikra 16.
 - [ ] Cotejar una traducción TTH local del bloque; el corpus TTH disponible no contiene Vaikra en este worktree.
 
