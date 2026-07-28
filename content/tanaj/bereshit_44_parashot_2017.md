@@ -90,6 +90,10 @@ En #bereshit_46_1-4 Israel llega a Beersheva, ofrece sacrificios al Elohim de It
 
 **(רעב)**, _raav_, significa hambre; en #bereshit_47 funciona como crisis material que afecta territorios enteros. «Prueba espiritual» sería una analogía **pedagógica**, no el sentido léxico. **(מקניכם)**, _miqnejem_, significa «su ganado» y procede del campo de adquirir posesiones; aquí el ganado se vuelve medio de intercambio por alimento. La palabra no justifica ni condena por sí sola la política descrita: el juicio requiere leer la secuencia completa de 47:13-26.
 
+El párrafo final de este tramo evita que la preservación se reduzca a una transacción estatal. En 47:27 TTH afirma: «Israel habitó en la tierra de Mitsráim, en la tierra de Goshen, y adquirieron posesiones en ella, fueron fructíferos y se multiplicaron mucho». La forma **ויאחזו**, _vayajazu_, de אחז, «asir, tomar posesión o establecerse», comunica asentamiento efectivo; «conquistar» sería una equivalencia inexacta, porque el versículo describe una familia que prospera dentro de la tierra asignada a Goshen. **ויפרו**, _vayifru_, de פרה, «fructificar o ser fecundo», retoma el lenguaje de multiplicación de la promesa.
+
+Eric lee el crecimiento en Mitsraim junto con la voluntad de Elohim y la futura salida. La conexión es coherente con el arco de Bereshit, pero el orden importa: en este momento Israel no está siendo oprimido, sino preservado y multiplicado. El mismo lugar puede ser escenario de provisión en Bereshit y de opresión en Shemot; no debemos adelantar el segundo sentido para borrar la bondad concreta del primero ni usar la prosperidad del capítulo como aprobación indiscriminada del poder de Faraón.
+
 ## Hoja léxica
 
 | Forma              | Transliteración     | Sentido normal                 | Fuerza contextual                          | Equivalencia                           |
