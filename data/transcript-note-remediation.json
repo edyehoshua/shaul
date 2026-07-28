@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 284,
+  "total_notes_requiring_remediation": 283,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -381,24 +381,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/besorah/markos_2_torah_promesas_procedimientos.md",
-      "substantive_words": 861,
-      "thematic_sections": [
-        "ruta de la clase",
-        "hoja léxica",
-        "el perdón que vuelve a poner de pie",
-        "el nuevo pacto escribe torah dentro",
-        "promesa divina y respuesta humana",
-        "el mesías lleva la torah en sus entrañas",
-        "torah y tradición humana",
-        "ni una yod ni un qotz",
-        "conexiones principales"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md",
       "substantive_words": 253,
