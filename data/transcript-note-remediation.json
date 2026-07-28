@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 257,
+  "total_notes_requiring_remediation": 256,
   "notes": [
     {
       "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
@@ -88,18 +88,7 @@
       ]
     },
 
-    {
-      "path": "content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md",
-      "substantive_words": 253,
-      "thematic_sections": [
-        "lectura del capítulo",
-        "conexiones principales"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/besorah/romanos_11_olivo_misericordia_esperanza_para_Israel.md",
       "substantive_words": 254,
