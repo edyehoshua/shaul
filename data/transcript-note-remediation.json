@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 265,
+  "total_notes_requiring_remediation": 264,
   "notes": [
 
     {
@@ -30,18 +30,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/besorah/hebreos_11_emunah_testimonio_y_esperanza.md",
-      "substantive_words": 93,
-      "thematic_sections": [
-        "testigos y fidelidad"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/besorah/hebreos_12_disciplina_santidad_y_monte_tziyon.md",
       "substantive_words": 88,
