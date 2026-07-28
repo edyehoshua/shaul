@@ -802,18 +802,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/bereshit_12_llamado_promesa_y_bendicion.md",
-      "substantive_words": 358,
-      "thematic_sections": [
-        "salir hacia la tierra que יהוה mostrará",
-        "promesa recibida y bendición compartida",
-        "altar y peregrinación"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/bereshit_25_parashot_2017.md",
       "substantive_words": 201,
@@ -981,16 +970,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/devarim_1_parashot_2017.md",
-      "substantive_words": 207,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/devarim_26_parashot_2017.md",
       "substantive_words": 201,
