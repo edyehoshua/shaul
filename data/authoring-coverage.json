@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 843,
-  "pending_videos": 115,
-  "transcript_notes": 414,
+  "covered_videos": 846,
+  "pending_videos": 112,
+  "transcript_notes": 416,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -133,7 +133,7 @@
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 40,
+      "covered": 41,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
@@ -193,12 +193,12 @@
     },
     "Tehilim 119 y salmos restantes sin asignar (grupo coherente)": {
       "total": 38,
-      "covered": 12,
+      "covered": 14,
       "lane": "yojanan"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 137,
+      "covered": 139,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
