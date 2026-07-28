@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 837,
-  "pending_videos": 121,
+  "covered_videos": 838,
+  "pending_videos": 120,
   "transcript_notes": 409,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -133,7 +133,7 @@
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 39,
+      "covered": 40,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
@@ -159,6 +159,11 @@
     "Qohélet - Eclesiastés": {
       "total": 30,
       "covered": 30,
+      "lane": "efesios"
+    },
+    "Qohélet restante sin asignar (grupo coherente de capítulos 4 y 10)": {
+      "total": 6,
+      "covered": 6,
       "lane": "efesios"
     },
     "Romanos": {
