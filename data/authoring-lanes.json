@@ -158,6 +158,23 @@
           "reason": "46 uploads del Evangelio según Marcos identificados por título; exclusivo para esta lane tras agotar su cola elegible original."
         },
         {
+          "title": "Haftarot de Bre’shit/Génesis restantes sin asignar (grupo coherente)",
+          "source_ids": [
+            "youtube:FqWcvFzBfwI",
+            "youtube:Bd7DFDMxVYo",
+            "youtube:YoauCD9H3E8",
+            "youtube:zhC_PXVOfag",
+            "youtube:_E9RcYtZifA",
+            "youtube:pMP3wkV3ya0",
+            "youtube:zrVHKQKJ5rQ",
+            "youtube:US1GdLYd5Bg",
+            "youtube:mYxHiWxlrjo",
+            "youtube:Sbmr5kDBwWc",
+            "youtube:azQfmu7VHXQ"
+          ],
+          "reason": "Tras la cobertura, la lane efesios quedó por debajo de 40 fuentes pendientes. Se asigna exclusivamente el grupo restante de Haftarot de Bre’shit/Génesis, que pertenece a su cola de libro y no figura en otra lane, no está en progreso y no tiene nota canónica."
+        },
+        {
           "title": "Fiestas restantes sin asignar (grupo coherente de inventario)",
           "source_ids": [
             "youtube:pupDxpHjY8g",
