@@ -148,6 +148,16 @@ Por eso la secuencia completa no es un conjunto de temas aislados: Escritura y p
 
 La cercanía literaria importa. El relato acaba de denunciar a quienes devoran casas de viudas; enseguida muestra a una viuda que entrega todo en el templo. Por eso no es responsable usar este pasaje para presionar económicamente a personas vulnerables. La admiración de Yehoshua revela el valor de su entrega; la advertencia anterior exige que toda comunidad examine si protege o consume a quienes poseen menos.
 
+## Prueba de lectura: la ofrenda debe leerse después de la denuncia
+
+La secuencia final de Marcos 12 impide aislar la ofrenda de la viuda como una receta de financiación religiosa. Primero, Yehoshua denuncia a los escribas que devoran las casas de las viudas y usan una apariencia de oración (#markos_12_38-40); después observa a una viuda que deposita dos monedas (#markos_12_41-44). El contraste es deliberado: la mujer es vista por Yehoshua, mientras la autoridad que la explota queda bajo juicio. La enseñanza de Eric sobre una entrega que compromete toda la vida se sostiene en **ὅλον τὸν βίον**, _holon ton bion_, «toda la vida o sustento», pero el contexto local prohíbe convertir ese reconocimiento en presión sobre quienes carecen de recursos.
+
+El capítulo enlaza esa escena económica con la pregunta por el mandamiento. **περισσόν**, _perisson_, «más, abundante o excedente», describe lo que los ricos echan desde su abundancia; **ὑστέρημα**, _hysterēma_, «carencia o déficit», describe el punto desde el que da la viuda. El contraste no es entre una moneda con poder mágico y otra sin valor, sino entre excedente y sustento. Por eso el amor al prójimo del Shemá requiere que la comunidad no devore las casas que afirma servir.
+
+La misma prueba se extiende hacia la perícopa de David. En 12:35, **λέγουσιν**, _legousin_, «dicen», presenta una afirmación atribuida a los escribas; en 12:36, **εἶπεν**, _eipen_, «dijo», introduce la palabra de David bajo la acción del Rúaj HaKódesh. El **πῶς**, _pōs_, «cómo», no niega de forma explícita el título «hijo de David», sino que exige explicar por qué ese título no agota la identidad del Mesías. Así, la lectura unitaria de Eric puede conservarse como interpretación doctrinal atribuida, mientras la prueba narrativa queda en la tensión entre descendencia, señorío y el Salmo 110.
+
+Leído de corrido, el capítulo pasa de una esperanza resucitada a una obediencia que ama, de esa obediencia a un Mesías que no puede ser domesticado por una genealogía, y finalmente a una economía religiosa examinada por el cuidado de las viudas. **ἀγαπήσεις**, _agapēseis_, «amarás», aparece como mandato concreto; **κατεσθίω**, _katesthiō_, «devorar», nombra el daño que lo contradice. La observación central de Eric —que la verdad debe producir una vida entregada— queda probada sólo cuando la entrega se mide junto con justicia, protección del vulnerable y fidelidad al texto.
+
 ## Mapa de la enseñanza de Eric
 
 - **Marcos 12:18-27 — tzedukim y resurrección:** la parte 37 expone el levirato como trampa y la respuesta por Escritura y poder; la nota lo ancla en Devarim 25 y Shemot 3, y califica el alcance de «como los ángeles».
