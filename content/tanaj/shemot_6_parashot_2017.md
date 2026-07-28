@@ -82,6 +82,16 @@ El capítulo retoma en 6:28-30 la orden de hablar y la objeción de Moshéh: **�
 | **(שמע)** | _shama_         | oír, escuchar, obedecer   | Recepción impedida por la aflicción                   | «Prestar atención» es aproximada |
 | **(רוח)** | _ruaj_          | espíritu, aliento, viento | Ánimo interior debilitado                             | «Emoción» es inexacta            |
 
+## La cadena de la promesa y la resistencia del receptor
+
+La secuencia «sacar–rescatar–redimir–tomar–introducir» debe leerse como una respuesta a la opresión descrita antes del capítulo, no como una fórmula desligada del sufrimiento. En 6:6, **(סבל)**, _saval_, significa carga o trabajo pesado; la expresión «de debajo de las cargas de Mitzráim» presenta una opresión que pesa sobre el cuerpo y el servicio. **(עבד)**, _avad_, significa trabajar o servir; en «de su trabajo» su fuerza contextual es servidumbre forzada. La enseñanza de Eric sobre redención «de ayer y de hoy» puede conservar el movimiento de la promesa, pero «liberación interior» sería solo una aplicación pedagógica: el texto comienza con cargas históricas y con la acción de יהוה sobre un pueblo real.
+
+El verbo **(גאל)**, _gaal_, merece una precisión adicional. Su sentido normal es redimir, recuperar o actuar como pariente-redentor; en 6:6 aparece con «brazo extendido» y «juicios grandes», por lo que el contexto destaca una intervención pública de יהוה contra Mitzráim. La equivalencia «pagar un precio» es aproximada y no está exigida por este versículo. El TTH conserva «los redimiré», mientras que la cadena completa impide reducir la redención a una sola imagen: יהוה saca, libra, redime, toma como pueblo y conduce hacia la tierra jurada.
+
+Pero la promesa no produce automáticamente una recepción tranquila. **(קצר רוח)**, _qotsar ruaj_, es literalmente «cortedad de espíritu»; **(קצר)**, _qatsar_, significa ser corto, y **(רוח)**, _ruaj_, puede ser aliento, espíritu o disposición. «Desánimo» es una equivalencia aproximada que comunica el efecto, no una traducción exhaustiva. En 6:9 el trabajo duro estrecha la capacidad de escuchar; por eso no es fiel usar la demora del pueblo como prueba automática de incredulidad culpable. La clase acierta al observar la dureza, siempre que la aplicación pastoral conserve la compasión narrativa.
+
+En 6:10–13 la misma palabra vuelve a encontrar un mensajero resistente. **(דבר)**, _dabar_, significa hablar, declarar o comunicar; **(ערל שפתים)**, _arel sefatayim_, significa «incircunciso de labios», una imagen de impedimento expresivo. «Tartamudo» puede ser una paráfrasis pedagógica, pero no es una equivalencia exacta porque el texto no diagnostica una condición médica. La misión permanece porque la eficacia está en la palabra de יהוה, no en una elocuencia ideal de Moshéh. Así la observación de Eric sobre fuerza y dureza no debe borrar que el capítulo conserva la fragilidad tanto del pueblo como del enviado.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
