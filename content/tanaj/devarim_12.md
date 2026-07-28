@@ -76,6 +76,16 @@ El bloque de #devarim_12_16-19 desarrolla el mismo orden: la sangre no se come; 
 
 La advertencia final no permite preguntar cómo servían las naciones a sus dioses para hacer lo mismo con יהוה (#devarim_12_30-31). El capítulo no prohíbe aprender hechos históricos; prohíbe adoptar el patrón religioso de los pueblos. Frente a esa imitación, #devarim_12_28 une guardar y escuchar con hacer «lo bueno y recto ante los ojos de יהוה». Esta frase responde a #devarim_12_8: no es la preferencia individual la medida final.
 
+## Recorrido textual: del umbral a la mesa
+
+El movimiento del capítulo comienza antes del santuario. En #devarim_12_2-3, **(אבד)**, _avad_, significa perder, destruir o hacer perecer; la forma intensificada del mandato pide eliminar los lugares y objetos que sostienen el culto rival. «Limpieza espiritual» sería una aplicación **pedagógica**, no la equivalencia exacta del verbo: el texto habla de altares, pilares, asherim e imágenes concretas. En contraste, **(בחר)**, _bajar_, significa escoger o elegir. Cuando #devarim_12_5 habla del lugar que יהוה elija, el capítulo atribuye la iniciativa al Elohim del pacto, no al gusto religioso de cada familia.
+
+El versículo 8 conserva la situación de transición: «cada uno todo lo recto en sus ojos». **(ישר)**, _yashar_, significa recto, derecho o correcto; con **(עין)**, _ayin_, «ojo», la expresión describe lo que parece correcto a la evaluación individual. «Autonomía moral» es una equivalencia **pedagógica** que resume el problema, pero no reemplaza la imagen corporal del hebreo. Eric acierta al oponer esa medida privada al orden que llega con la _menujáh_; aun así, la observación debe permanecer dentro de la perícopa, que continúa hablando de ofrendas, alegría y cuidado comunitario.
+
+En #devarim_12_11-12, **(שמח)**, _samaj_, significa alegrarse o regocijarse. La alegría delante de יהוה no es un permiso sin forma: ocurre con la casa, los hijos, las hijas, siervos, siervas y el leví. **(לוי)**, _levi_, es aquí la persona vinculada al servicio levítico que no tiene parte ni heredad territorial como las tribus. «Ministro profesional» sería una descripción **pedagógica** y anacrónica; el argumento del capítulo es que la celebración ordenada incluye al vulnerable que no posee la misma base económica.
+
+El cierre vuelve a la advertencia. **(דרש)**, _darash_, significa buscar, investigar o consultar; en #devarim_12_30 describe el intento de averiguar cómo sirven las naciones para copiar su patrón. **(עבד)**, _avad_, significa servir o trabajar; el contexto cultual le da la fuerza de rendir servicio religioso. «Comparar religiones» sería demasiado amplio. La prohibición precisa es convertir la curiosidad sobre otros cultos en imitación ante יהוה: la mesa alegre de los versículos 11-19 y la prohibición de los versículos 29-31 pertenecen al mismo argumento de obediencia recibida.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal y forma                                 | Fuerza contextual                                                             | Tipo de relación                                    |
@@ -113,7 +123,6 @@ Devarim 12 enseña que la heredad no se recibe para consagrar el propio criterio
 ## Créditos
 
 - Nota de frontera: las piezas de 613 mitzvot sobre secularizar lo sagrado pertenecen a la lane colosenses; aquí se usa la parashá Reeh asignada a tanaj.
-
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashah Reh Dt 11:26-16:17 The land of Israel and the Munuchah](https://www.youtube.com/watch?v=3Et5rwoIj_Y) (`source_id`: `youtube:3Et5rwoIj_Y`).
