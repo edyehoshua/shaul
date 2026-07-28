@@ -81,7 +81,16 @@ La propia lista de preguntas impide que la fe se vuelva negación de los hechos.
 
 La relación con 15:39 debe conservar el mismo cuidado. Allí **ולא תתורו**, _velo taturu_, «no exploraréis», se refiere a no seguir el corazón y los ojos para desviarse de los mandamientos. **לב**, _lev_, es corazón o interior de la persona; **עין**, _ayin_, es ojo. «La imaginación» y «la percepción» son aproximaciones útiles, pero el versículo concluye «y recordaréis todos mis mandamientos y los haréis». Eric convierte la conexión verbal entre los capítulos en una advertencia contra dejar que la apariencia gobierne la obediencia; esa aplicación tiene apoyo pedagógico, mientras que la identidad exacta entre el envío de 13 y la prohibición de 15 debe rechazarse.
 
+## El informe completo: bondad, obstáculo y respuesta: vv. 26–33
+
+Los exploradores no vuelven con un informe simplemente falso. En #bamidbar_13_27 dicen que llegaron a la tierra y que «ciertamente fluye leche y miel»; después muestran el fruto. Solo entonces Caleb intenta hacer callar al pueblo y los diez introducen el obstáculo. Eric observa que el temor no nació de falta de evidencia, sino de una lectura que permitió que la fuerza visible pesara más que la palabra recibida. Esa observación está apoyada por el orden del relato: la bondad de la tierra y la fortaleza de sus habitantes aparecen en la misma descripción.
+
+**(וישב)**, _vayashov_, significa «volvió»; la forma narrativa presenta el regreso de los exploradores a Mosheh, Aharón y la congregación. **(ויספרו)**, _vayesapperu_, significa «contaron» o «relataron»; su fuerza contextual es un reporte público, no todavía una sentencia teológica. **(אפס)**, _efes_, normalmente marca una limitación —«sin embargo», «no obstante»— y en 13:28 introduce las ciudades fortificadas y al pueblo fuerte. «Pero la promesa falló» sería una inferencia falsa: el término conecta dos datos, no cancela el primero.
+
+Caleb responde **(עלה נעלה)**, _alah na'aleh_, «subir subiremos». La repetición de עלה, _alah_, verbo de subir o ascender, intensifica la decisión; no niega las ciudades ni convierte la confianza en autosuficiencia. **(יכול נוכל)**, _yakhol nukhal_, repite «poder podremos» y depende del marco de 14:8-9: יהוה está con ellos y no deben rebelarse. Eric aplica esta respuesta a la perseverancia del discípulo; la correspondencia es pedagógica, mientras que la fuerza exacta del pasaje es obedecer la promesa en presencia de un peligro real.
+
 ## Léxico base
+
 
 | Hebreo         | Transliteración (es) | Significado               | Raíz | Sentido de la raíz | Observación                                                  |
 | -------------- | -------------------- | ------------------------- | ---- | ------------------ | ------------------------------------------------------------ |

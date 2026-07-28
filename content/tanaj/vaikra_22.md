@@ -76,6 +76,14 @@ El cierre reúne la tesis del capítulo: «guardarán mis mandamientos y los har
 
 La última identificación —«el que os sacó de la tierra de Egipto para ser vuestro Elohim»— previene una lectura meramente técnica (#vaikra_22_33). Las distinciones de mesa, cuerpo, sacrificio y tiempo pertenecen a la relación del Dios liberador con Israel. La obediencia no compra el éxodo; responde al Dios que se da a conocer y santifica a su pueblo.
 
+## La santidad también regula el tiempo y la compasión: vv. 26–30
+
+La última unidad no permite separar «animal sin defecto» de una santidad abstracta. En 22:26-28, la cría debe permanecer siete días con su madre; desde el octavo puede ser recibida como ofrenda, y no se deben degollar la madre y su cría el mismo día. Eric subraya que acercar algo a יהוה exige obedecer el orden completo, no solo presentar algo que parezca valioso. La aplicación es pertinente, aunque el pasaje no formula una teoría moderna del bienestar animal: regula el ritmo de la ofrenda y limita una forma de violencia cultual concentrada.
+
+**(שבעת ימים)**, _shiv'at yamim_, significa «siete días»; **(יהיה)**, _yihyeh_, es «estará» o «será», una forma que mantiene a la cría con su madre antes del acercamiento. La equivalencia «tiempo de maduración» es pedagógica, no exacta: el texto fija un plazo ritual. **(שחט)**, _shajat_, significa degollar o sacrificar; en **(לא תשחטו)**, «no degollaréis», su fuerza contextual es una prohibición concreta, no una recomendación sentimental. El capítulo enseña que la obediencia de la ofrenda alcanza también el cuándo y el cómo.
+
+En 22:29-30, el sacrificio de acción de gracias debe presentarse para aceptación y comerse el mismo día; no se deja hasta la mañana. **(תודה)**, _todah_, significa acción de gracias o confesión agradecida; aquí designa una clase de ofrenda, no solo una emoción interior. **(לרצנכם)**, _lirtzonkhem_, significa «para vuestro favor» o «para vuestra aceptación»; la traducción «que יהוה lo reciba con agrado» es aproximada y conserva la orientación del rito. La observación de Eric sobre no ofrecer a יהוה «lo que sobra» recibe aquí una precisión: la generosidad no consiste en improvisar, sino en respetar el tiempo que la Torah establece.
+
 ## Hoja léxica
 
 | Forma       | Transliteración | Sentido normal y forma                    | Fuerza contextual                                    | Tipo de relación                                       |
@@ -95,6 +103,7 @@ La última identificación —«el que os sacó de la tierra de Egipto para ser 
 | #vaikra_22_2-9   | Distingue las contaminaciones del capítulo 22 de las restricciones de Vaikra 21 y las vincula con no profanar el nombre santo. | Apoyo textual y clarificación léxica: el capítulo enumera condiciones rituales y procedimientos de restauración; no se convierten en juicio sobre culpa individual. |
 | #vaikra_22_10-16 | Advierte que el «pan de Elohim» no se debe secularizar ni comer como alimento ordinario.                                       | Apoyo textual cualificado: se sigue la mesa sacerdotal, el uso inadvertido y la restitución; la aplicación a prácticas actuales queda diferenciada.                 |
 | #vaikra_22_18-25 | Relaciona las víctimas sin defecto con una figura mesiánica y denuncia ofrecer lo peor a יהוה.                                 | Apoyo textual y analogía pedagógica: Vaikra regula la aceptación ritual; Malaquías confirma la denuncia de la ofrenda despreciable.                                 |
+| #vaikra_22_26-30 | Insiste en que una ofrenda no se evalúa solo por su apariencia, sino también por el tiempo y la forma ordenados.               | Apoyo textual y aclaración léxica: la cría permanece siete días, no se degüellan madre y cría juntas y la תודה se come el mismo día.                                |
 | #vaikra_22_31-33 | Lee el no profanar el nombre como una llamada a reflejar la santidad de יהוה.                                                  | Apoyo textual: el cierre une mandamientos, santificación del nombre y éxodo, sin convertir la frase en una definición autónoma del Mesías.                          |
 
 ## Pendiente de verificar
