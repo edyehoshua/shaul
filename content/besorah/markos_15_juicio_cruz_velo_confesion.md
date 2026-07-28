@@ -50,29 +50,29 @@ Esta nota sigue la parte 44 del estudio de Marcos del **hermano Eric de Jesús R
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la lectura |
-| --- | --- | --- |
-| #markos_15_1-5 | TTH: de mañana lo entregan a Pilato; «¿Tú eres el Rey de los yehudim?»; Yehoshua responde «Tú lo has dicho» y no multiplica defensa. | El juicio romano se centra en la realeza. |
-| #markos_15_6-15 | TTH: sueltan a Baraba; el pueblo grita que lo cuelguen; Pilato azota a Yehoshua y lo entrega. | Se prefiere al revoltoso sobre el acusado. |
-| #markos_15_16-20 | TTH: manto escarlata, corona de espinas, saludo burlón «Rey de los yehudim». | La realeza confesada se vuelve parodia militar. |
-| #markos_15_21-28 | TTH: Shimón kirení lleva la cruz; Gólgota; goral sobre los vestidos; el letrero declara al Rey; es contado con transgresores. | Se cumplen contornos de Escritura en la ejecución. |
-| #markos_15_29-32 | TTH: injuria sobre el Hejal, «salva tu ser», burla de sacerdotes y de los colgados con él. | La salvación ajena se contrapone a la impotencia aparente. |
-| #tehilim_22_1, 7-8, 12 | TTH: «¡Elí, Elí!, ¿por qué me abandonarías?»; burla y cabezas sacudidas; toros de Bashán cercan. | Marco que la clase usa para oír 15:29-34. |
-| #markos_15_33-39 | TTH: oscuridad; grito «¡Elí, Elí!, ¿lama azavtani?»; expira; el velo se rasga; el centurión confiesa al Hijo de Elohim. | La muerte no cierra en silencio: hay signos y confesión. |
-| #markos_15_40-47 | TTH: mujeres miran; Iosef pide el cuerpo antes del Shabat; lo envuelve y lo pone en el sepulcro. | El cuidado del cuerpo y el testimonio femenino preparan el capítulo 16. |
-| #ieshaiahu_53_12 | TTH: «con los transgresores fue contado». | Eco de #markos_15_28. |
+| Referencia             | Texto local                                                                                                                          | Función en la lectura                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| #markos_15_1-5         | TTH: de mañana lo entregan a Pilato; «¿Tú eres el Rey de los yehudim?»; Yehoshua responde «Tú lo has dicho» y no multiplica defensa. | El juicio romano se centra en la realeza.                               |
+| #markos_15_6-15        | TTH: sueltan a Baraba; el pueblo grita que lo cuelguen; Pilato azota a Yehoshua y lo entrega.                                        | Se prefiere al revoltoso sobre el acusado.                              |
+| #markos_15_16-20       | TTH: manto escarlata, corona de espinas, saludo burlón «Rey de los yehudim».                                                         | La realeza confesada se vuelve parodia militar.                         |
+| #markos_15_21-28       | TTH: Shimón kirení lleva la cruz; Gólgota; goral sobre los vestidos; el letrero declara al Rey; es contado con transgresores.        | Se cumplen contornos de Escritura en la ejecución.                      |
+| #markos_15_29-32       | TTH: injuria sobre el Hejal, «salva tu ser», burla de sacerdotes y de los colgados con él.                                           | La salvación ajena se contrapone a la impotencia aparente.              |
+| #tehilim_22_1, 7-8, 12 | TTH: «¡Elí, Elí!, ¿por qué me abandonarías?»; burla y cabezas sacudidas; toros de Bashán cercan.                                     | Marco que la clase usa para oír 15:29-34.                               |
+| #markos_15_33-39       | TTH: oscuridad; grito «¡Elí, Elí!, ¿lama azavtani?»; expira; el velo se rasga; el centurión confiesa al Hijo de Elohim.              | La muerte no cierra en silencio: hay signos y confesión.                |
+| #markos_15_40-47       | TTH: mujeres miran; Iosef pide el cuerpo antes del Shabat; lo envuelve y lo pone en el sepulcro.                                     | El cuidado del cuerpo y el testimonio femenino preparan el capítulo 16. |
+| #ieshaiahu_53_12       | TTH: «con los transgresores fue contado».                                                                                            | Eco de #markos_15_28.                                                   |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal | Fuerza contextual | Equivalencia |
-| --- | --- | --- | --- | --- |
-| **(אלי)** | Eli | mi El / mi Dios | En 15:34 y Tehilim 22 abre el clamor. | Exacta como vocativo; no agota la teología del abandono. |
-| **(עזבתני)** | azavtani | me dejaste / me abandonaste | Forma del grito; la clase discute si oírlo como pasado o con matiz de futuro/angustia proyectada. | Hay que respetar la forma del texto; la relectura temporal es hipótesis. |
-| **(בר אבא)** / Baraba | bar abba | hijo del padre; u otras etimologías arameas propuestas | Nombre del preso liberado. Eric discute «hijo del importante» o «hijo de la contienda». | Etimologías posibles; no base para leyendas modernas sobre su identidad. |
-| **(גולגולת)** | gulgolet | calavera, cráneo | TTH glosa Gólgota como lugar Gulgolet. | Aproximada con el topónimo arameo/griego del relato. |
-| **(κεντυρίων)** | kentyriōn | centurión, capitán de centena | Confiesa tras ver cómo expiró. | Cargo romano; la confesión es narrativa, no un credo completo. |
-| **(καταπέτασμα)** | katapetasma | velo, cortina | 15:38: se rasga de arriba abajo. | Aproximada con el velo del Hejal; el simbolismo exacto admite varias lecturas. |
-| **(מלך)** | mélej | rey | El letrero y las burlas giran en torno al título real. | Exacta en el tema; el sentido político romano y el mesiánico no se confunden. |
+| Forma                 | Transliteración | Sentido normal                                         | Fuerza contextual                                                                                 | Equivalencia                                                                   |
+| --------------------- | --------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **(אלי)**             | Eli             | mi El / mi Dios                                        | En 15:34 y Tehilim 22 abre el clamor.                                                             | Exacta como vocativo; no agota la teología del abandono.                       |
+| **(עזבתני)**          | azavtani        | me dejaste / me abandonaste                            | Forma del grito; la clase discute si oírlo como pasado o con matiz de futuro/angustia proyectada. | Hay que respetar la forma del texto; la relectura temporal es hipótesis.       |
+| **(בר אבא)** / Baraba | bar abba        | hijo del padre; u otras etimologías arameas propuestas | Nombre del preso liberado. Eric discute «hijo del importante» o «hijo de la contienda».           | Etimologías posibles; no base para leyendas modernas sobre su identidad.       |
+| **(גולגולת)**         | gulgolet        | calavera, cráneo                                       | TTH glosa Gólgota como lugar Gulgolet.                                                            | Aproximada con el topónimo arameo/griego del relato.                           |
+| **(κεντυρίων)**       | kentyriōn       | centurión, capitán de centena                          | Confiesa tras ver cómo expiró.                                                                    | Cargo romano; la confesión es narrativa, no un credo completo.                 |
+| **(καταπέτασμα)**     | katapetasma     | velo, cortina                                          | 15:38: se rasga de arriba abajo.                                                                  | Aproximada con el velo del Hejal; el simbolismo exacto admite varias lecturas. |
+| **(מלך)**             | mélej           | rey                                                    | El letrero y las burlas giran en torno al título real.                                            | Exacta en el tema; el sentido político romano y el mesiánico no se confunden.  |
 
 ## Rey ante Pilato y la preferencia de Baraba (15:1-20)
 
@@ -84,7 +84,7 @@ Los soldados visten la parodia real: manto escarlata, corona de espinas, saludo 
 
 ## Gólgota, Escritura e injuria (15:21-32)
 
-Obligan a Shimón de Kirene, padre de Alexandros y Rufos, a llevar la cruz. Eric destaca el origen norteafricano y la mención de los hijos como posible ancla de memoria comunitaria. El texto da los nombres; la identificación con el Rufos de Romanos es plausible pero no demostrada aquí. Llegan a Gólgota, «lugar Gulgolet». Reparte de vestidos por goral; la hora tercera; el letrero: «Este es el Rey de los yehudim» (#markos_15_24-26). Con él cuelgan a dos ladrones, y se recuerda que con los transgresores fue contado (#markos_15_27-28; #ieshaiahu_53_12).
+Obligan a Shimón de Kirene, padre de Alexandros y Rufos, a llevar la cruz. Eric destaca el origen norteafricano y la mención de los hijos como posible ancla de memoria comunitaria. El texto da los nombres; la identificación con el Rufos de Romanos es plausible pero no demostrada aquí. Llegan a Gólgota, «lugar Gulgolet». Reparten los vestidos por goral; la hora tercera; el letrero: «Este es el Rey de los yehudim» (#markos_15_24-26). Con él cuelgan a dos ladrones, y se recuerda que con los transgresores fue contado (#markos_15_27-28; #ieshaiahu_53_12).
 
 La injuria repite la acusación del Hejal y exige que salve su ser bajando de la cruz (#markos_15_29-30). Sacerdotes y escribas se burlan: a otros salvó, a sí no puede. Eric oye aquí el eco de quienes en el salmo sacuden la cabeza y desafían la confianza en יהוה (#tehilim_22_7-8). El paralelismo es literariamente fuerte y debe enseñarse como resonancia, sin afirmar que cada burlador citaba el salmo de memoria.
 
