@@ -19,8 +19,10 @@ references:
   - "#bereshit_49_22-26"
   - "#bereshit_50_15-21"
   - "#bereshit_50_24-26"
+  - "#bereshit_45_25-28"
   - "#iejezkel_37_15-28"
 sources:
+  - "https://www.youtube.com/watch?v=4hBwWXXSvQQ"
   - "https://www.youtube.com/watch?v=VPMoZun2Bww"
   - "https://www.youtube.com/watch?v=86l71sgugKc"
   - "docs/scriptures/oe/json/genesis/44.json"
@@ -32,6 +34,7 @@ sources:
   - "docs/scriptures/oe/json/genesis/50.json"
   - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
+  - "youtube:4hBwWXXSvQQ"
   - "youtube:VPMoZun2Bww"
   - "youtube:86l71sgugKc"
 translation: "[OE, TTH]"
@@ -202,7 +205,11 @@ Por eso la reconciliación en 50:15–21 no consiste en reescribir la historia. 
 
 La fuente asignada sobre Vayigash desarrolla un detalle concreto de #bereshit_45_25-28: Yaakov escucha «todas las palabras de Iosef», ve las carrozas y dice **רב עוד יוסף בני חי** («basta; todavía Iosef, mi hijo, vive»). Eric lo presenta como una decisión de detener la rumiación sobre el daño pasado y atender el hecho presente de que su hijo vive. La exhortación pastoral es una aplicación, pero la secuencia textual sí pone primero la palabra recibida, luego la evidencia visible y finalmente la respuesta de Israel: no se trata de negar la pérdida, sino de permitir que una noticia verdadera reordene su ánimo.
 
-**רוח**, _ruaj_, normalmente significa viento, aliento o espíritu. En **ותחי רוח יעקב**, _vateji ruaj Yaakov_, el contexto de Yaakov favorece «su ánimo cobró vida» o «su espíritu revivió»; «alma inmortal» sería una equivalencia **inexacta**. **ויחי**, _vayeji_, es una forma de חיה, «vivir»; aquí expresa recuperación de ánimo, no resurrección corporal. **רב**, _rav_, significa «mucho, bastante o suficiente»; en **רב עוד**, su fuerza contextual es una exclamación de suficiencia gozosa, no una orden universal de cortar toda conversación difícil.
+**רוח**, _ruaj_, normalmente significa viento, aliento o espíritu. En **ותחי רוח יעקב**, _vateji ruaj Yaakov_, el contexto de Yaakov favorece «su ánimo cobró vida» o «su espíritu revivió»; «alma inmortal» sería una equivalencia **inexacta**. **ויחי**, _vayeji_, es una forma de חיה, «vivir»; aquí expresa recuperación de ánimo, no resurrección corporal. **רב**, _rav_, significa «mucho, bastante o suficiente»; en **רב עוד**, su fuerza contextual es una exclamación de suficiencia gozosa, no una orden universal de cortar toda conversación difícil. La afirmación de Eric sobre «basta» recibe apoyo como aplicación prudencial, mientras que el versículo conserva su referencia inmediata: Yaakov decide ir a ver a Iosef antes de morir.
+
+La observación de la clase sobre que la vida vale más que la acumulación encuentra un marco sobrio en #bereshit_47_13-26. El hambre lleva a las personas a entregar dinero, ganado y tierra por pan; el relato no romantiza la prosperidad ni presenta cada política de Iosef como norma. **החיתנו**, _hajiytenu_, procede de חיה en una forma causativa: «nos has dado vida» o «nos has mantenido vivos». «Nos redimiste» sería **pedagógica**, no exacta. Así, el hilo de la clase —la vida recibida debe prevalecer sobre bienes y preocupaciones futuras— puede conservarse sin convertir la crisis económica en una alegoría simple.
+
+La fuente también conecta el silencio de los hermanos en 45:3 con la confesión futura de toda boca ante el Mesías. El paralelo canónico puede registrarse como **tipológico o pedagógico**: el texto inmediato dice que ellos no podían responder porque estaban turbados, no que el narrador esté ofreciendo ya una exposición completa de la escatología. **נבהלו**, _nivhalu_, procede de בהל, «alarmarse, turbarse o quedar consternado»; «se sorprendieron» es **aproximada**, porque la fuerza contextual incluye miedo y desmoralización. La conexión de Eric preserva una intuición sobre culpa expuesta ante una revelación, pero no debe sustituir la escena familiar.
 
 ## Recorrido final: del pan recibido a la promesa pendiente
 
@@ -229,6 +236,7 @@ El gesto de los huesos completa la enseñanza con una señal corporal: **והע�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashat Vayigash (2017) The people who sanctify life](https://www.youtube.com/watch?v=4hBwWXXSvQQ) (`source_id`: `youtube:4hBwWXXSvQQ`).
 - Video: [Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah](https://www.youtube.com/watch?v=VPMoZun2Bww) (`source_id`: `youtube:VPMoZun2Bww`).
 - Video: [Parashat Vaychi - Genesis 47:28 - 50:26 - Doing in accordance with the divine will](https://www.youtube.com/watch?v=86l71sgugKc) (`source_id`: `youtube:86l71sgugKc`).
 - Esta nota organiza y contrasta la exposición asignada a esta lane; no presenta la transcripción automática como cita literal.
