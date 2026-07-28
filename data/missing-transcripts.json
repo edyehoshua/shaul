@@ -347,6 +347,14 @@
       "status": "confirmed_unavailable"
       },
       {
+      "video_id": "sfGXMp9LYCc",
+      "playlist_title": "Shavuot independiente (balanceado desde Uncategorized)",
+      "title": "Jag Hashavu'ot 2020",
+      "url": "https://www.youtube.com/watch?v=sfGXMp9LYCc",
+      "reason": "La fuente está asignada a esta lane, pero no existe una transcripción local recuperable en este worktree; se pospone sin fabricar una exposición ni clasificar el contenido a partir del título.",
+      "status": "missing_local_transcript"
+      },
+      {
       "video_id": "xpihVrZGGI4",
       "playlist_title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
       "title": "Haftaráh de Mtzorá' 2 Reyes cap 7: El redargüir de Hashem",
