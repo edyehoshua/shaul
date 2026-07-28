@@ -138,6 +138,18 @@ Esta ampliación conserva la secuencia que la exposición destaca: tiempo que ll
 
 ## Pendiente de verificar
 
+## El sueño se convierte en una responsabilidad pública
+
+El recorrido de Bereshit 41 empieza antes de la propuesta administrativa. Faraón ve siete vacas hermosas y siete espigas llenas, seguidas por vacas y espigas consumidas; la repetición indica que el asunto está establecido, pero no entrega por sí misma la respuesta. Cuando Iosef dice que la solución no está en él, la clase de Eric queda protegida de una lectura de autosuficiencia: el intérprete recibe el don, pero el gobernante debe responder a una advertencia que afecta a toda la tierra.
+
+En 41:33 Iosef dice: «Ahora, mire Faraón un hombre sabio e inteligente, y ponlo sobre la tierra de Mitzráim». **(ראה)**, _re'eh_, es la forma imperativa de «ver» o «considerar»; aquí pide que Faraón examine una propuesta, no que admire una visión religiosa. **(נבון)**, _navon_, significa entendido o discernidor; **(חכם)**, _jajam_, sabio o hábil. «Estratega» es una equivalencia **pedagógica**, porque el texto habla de discernimiento y sabiduría, mientras la aplicación administrativa se desprende de los verbos que siguen.
+
+El objetivo aparece en 41:36: «Y sea la comida para depósito para la tierra por los siete años del hambre ... y no sea reducida la tierra en el hambre». **(אכל)**, _okhel_, es comida o alimento; **(פקד)**, _paqad_, en la propuesta de poner supervisores, expresa encargar, visitar o poner a cargo. «Controlar» es demasiado estrecho; la fuerza contextual es organizar una tarea confiada. La sabiduría que Eric relaciona con misericordia queda así evaluada por el fin declarado: que la tierra no perezca, no por el brillo del cargo.
+
+La respuesta de Faraón reconoce el resultado: «¿Acaso encontraremos como este hombre, en quien está el espíritu de Elohim?» (41:38). **(רוח)**, _ruaj_, significa viento, aliento o espíritu; «inspiración» es **aproximada** y **pedagógica** aquí. La frase no autoriza a convertir cada capacidad política en prueba de una investidura divina; en el relato señala que Faraón percibe una diferencia en Iosef después de haber oído la interpretación y el plan. La clase puede hablar de sabiduría dada por Elohim, pero el texto mantiene esa afirmación dentro de esta escena concreta.
+
+La administración alcanza a los hambrientos. «Tuvieron hambre en toda la tierra de Mitzráim ... Vayan a Iosef, lo que él les diga a ustedes, hagan» (41:55). **(רעב)**, _ra'av_, significa hambre; no es solo una imagen espiritual de carencia. **(שבר)**, _shever_, se relaciona con grano o provisión de alimento; según la construcción, el campo semántico incluye comprar y distribuir grano. «Misericordia» resume pedagógicamente el efecto preservador, pero el capítulo 41 no resuelve todavía la evaluación completa de la política económica que se narra después. La nota conserva la observación de Eric y limita su alcance: una autoridad se prueba por cómo responde al hambre real y por si reconoce que el don no le pertenece.
+
 - [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
 - [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
 
