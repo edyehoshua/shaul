@@ -31,12 +31,12 @@ Esta nota canónica organiza las partes 30–32 de la serie del hermano Eric de 
 
 ## Hoja de comparación
 
-| Referencia | Texto local (Delitzsch, sin nikud) | Función en el recorrido |
-| --- | --- | --- |
-| #romanos_14_1-4 | **ואת־החלוש באמונה אותו קבלו ולא לדין את־המחשבות׃ יש מאמין שמתר לאכל כל־דבר והחלוש לא יאכל כי אם־ירק׃ האכל אל־יבז את־אשר לא יאכל ואשר לא יאכל אל־ידין את־האכל כי־קבל אתו האלהים׃ מי אתה כי תדין עבד שאינו שלך** | Acoger sustituye la disputa; comer y no comer no autorizan desprecio ni juicio. |
-| #romanos_14_10-13 | **הלא כלנו עתידים לעמד לפני כסא דין אלהים׃ הנה כל־אחד ממנו על־נפשו יתן חשבון לאלהים׃ לכן אל־נדין עוד איש את־רעהו** | El capítulo desplaza la evaluación definitiva a Elohim y pide impedir el tropiezo. |
-| #romanos_14_15-19 | **אל־נא תאבד באכלך את־אשר בעדו מת המשיח׃ כי־מלכות האלהים איננה אכילה ושתיה כי־צדקה היא ושלום ושמחה ברוח הקדש׃ ועתה נרדפה־נא דרכי שלום ואשר נכונן בו איש את־רעהו** | La libertad o práctica de uno se mide por amor, paz y edificación del otro. |
-| #romanos_14_21-23 | **טוב שלא־תאכל בשר ולא־תשתה יין ולא־תעשה דבר אשר יתנגף־בו אחיך והיה לו למכשל ולפוקה׃ ואשר ספק לו באכלו נאשם כי לא עשה מאמונה** | Pablo concluye con conciencia, no con una licencia para presionar al hermano. |
+| Referencia        | Texto local (Delitzsch, sin nikud)                                                                                                                                                                              | Función en el recorrido                                                            |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| #romanos_14_1-4   | **ואת־החלוש באמונה אותו קבלו ולא לדין את־המחשבות׃ יש מאמין שמתר לאכל כל־דבר והחלוש לא יאכל כי אם־ירק׃ האכל אל־יבז את־אשר לא יאכל ואשר לא יאכל אל־ידין את־האכל כי־קבל אתו האלהים׃ מי אתה כי תדין עבד שאינו שלך** | Acoger sustituye la disputa; comer y no comer no autorizan desprecio ni juicio.    |
+| #romanos_14_10-13 | **הלא כלנו עתידים לעמד לפני כסא דין אלהים׃ הנה כל־אחד ממנו על־נפשו יתן חשבון לאלהים׃ לכן אל־נדין עוד איש את־רעהו**                                                                                              | El capítulo desplaza la evaluación definitiva a Elohim y pide impedir el tropiezo. |
+| #romanos_14_15-19 | **אל־נא תאבד באכלך את־אשר בעדו מת המשיח׃ כי־מלכות האלהים איננה אכילה ושתיה כי־צדקה היא ושלום ושמחה ברוח הקדש׃ ועתה נרדפה־נא דרכי שלום ואשר נכונן בו איש את־רעהו**                                               | La libertad o práctica de uno se mide por amor, paz y edificación del otro.        |
+| #romanos_14_21-23 | **טוב שלא־תאכל בשר ולא־תשתה יין ולא־תעשה דבר אשר יתנגף־בו אחיך והיה לו למכשל ולפוקה׃ ואשר ספק לו באכלו נאשם כי לא עשה מאמונה**                                                                                  | Pablo concluye con conciencia, no con una licencia para presionar al hermano.      |
 
 ## 14:1-4: recibir al débil sin hacer de la mesa un tribunal
 
@@ -52,15 +52,15 @@ El orden importa. Pablo no dice primero que toda práctica sea equivalente; orde
 
 ## 14:14-18: comida, profanidad y la prioridad del reino
 
-La parte 31 desarrolla una distinción que considera decisiva: **(חול)**, *chol*, «común/profano» en el sentido que la clase atribuye a algo no apto para el culto, frente a **(טמא)**, *tame*, «impuro» o ritualmente inhabilitado. Eric los acerca a **(κοινός)**, *koinos*, «común/profano», y **(ἀκάθαρτος)**, *akathartos*, «impuro». La correspondencia hebreo-griega es pedagógica y aproximada, no una equivalencia automática entre cada uso bíblico ni una prueba de la tesis histórica de la clase. Su argumento contextual es que «comida y bebida» en #romanos_14_17 se refiere a regulaciones de preparación y convivencia, no a abolir toda distinción alimentaria; esa lectura requiere cotejo directo con el griego de Romanos y con los pasajes que la clase invoca.
+La parte 31 desarrolla una distinción que considera decisiva: **(חול)**, _chol_, «común/profano» en el sentido que la clase atribuye a algo no apto para el culto, frente a **(טמא)**, _tame_, «impuro» o ritualmente inhabilitado. Eric los acerca a **(κοινός)**, _koinos_, «común/profano», y **(ἀκάθαρτος)**, _akathartos_, «impuro». La correspondencia hebreo-griega es pedagógica y aproximada, no una equivalencia automática entre cada uso bíblico ni una prueba de la tesis histórica de la clase. Su argumento contextual es que «comida y bebida» en #romanos_14_17 se refiere a regulaciones de preparación y convivencia, no a abolir toda distinción alimentaria; esa lectura requiere cotejo directo con el griego de Romanos y con los pasajes que la clase invoca.
 
-Aun bajo esa cautela, el verso 15 hace visible el peso ético: no destruir por comida a aquel por quien murió el Mesías. Eric traduce esa responsabilidad a no hacer sentir pecador a alguien por una regla humana. El texto local dirige la prioridad hacia **צדקה**, *tsedaqah*, «justicia», **שלום**, *shalom*, «paz», y gozo en el Rúaj; el Delitzsch ofrece estas formas hebreas para leer la traducción, pero no sustituye el análisis del griego paulino. La clase no reemplaza la Torá por «paz» subjetiva: propone que la justicia y la paz deben aprenderse desde las Escrituras. Esa es una aplicación interpretativa atribuible, no una definición léxica exhaustiva.
+Aun bajo esa cautela, el verso 15 hace visible el peso ético: no destruir por comida a aquel por quien murió el Mesías. Eric traduce esa responsabilidad a no hacer sentir pecador a alguien por una regla humana. El texto local dirige la prioridad hacia **צדקה**, _tsedaqah_, «justicia», **שלום**, _shalom_, «paz», y gozo en el Rúaj; el Delitzsch ofrece estas formas hebreas para leer la traducción, pero no sustituye el análisis del griego paulino. La clase no reemplaza la Torá por «paz» subjetiva: propone que la justicia y la paz deben aprenderse desde las Escrituras. Esa es una aplicación interpretativa atribuible, no una definición léxica exhaustiva.
 
 ## 14:19-23: edificar, no presionar la conciencia
 
 El cierre avanza en orden desde perseguir la paz (#romanos_14_19), no destruir la obra de Elohim por alimento (v. 20), y abstenerse de lo que hace tropezar (v. 21), hasta el que actúa con duda (v. 23). La parte 32 subraya ese orden de prioridades: si alguien cuida con intensidad su mesa, debería cuidar igualmente la justicia, la paz y la unidad. La nota retiene la fuerza pastoral de la observación sin convertirla en una regla que silencie toda convicción.
 
-El término **(πίστεως)**, *pisteos*, es genitivo de **πίστις**, *pistis*: puede expresar fe, fidelidad o confianza según el contexto. Eric insiste, desde la forma transmitida por la clase, en leer «de la fidelidad» y no añadir sin más «en la fe» a #romanos_14_1; esa diferencia gramatical merece verificación. En #romanos_14_23, la fuerza contextual es actuar sin la convicción que Pablo presupone, no simplemente poseer información incompleta. Relacionar *pistis* con **אמונה**, *emunah*, «firmeza/fidelidad», es una aproximación pedagógica útil, pero no equivalencia exacta.
+El término **(πίστεως)**, _pisteos_, es genitivo de **πίστις**, _pistis_: puede expresar fe, fidelidad o confianza según el contexto. Eric insiste, desde la forma transmitida por la clase, en leer «de la fidelidad» y no añadir sin más «en la fe» a #romanos_14_1; esa diferencia gramatical merece verificación. En #romanos_14_23, la fuerza contextual es actuar sin la convicción que Pablo presupone, no simplemente poseer información incompleta. Relacionar _pistis_ con **אמונה**, _emunah_, «firmeza/fidelidad», es una aproximación pedagógica útil, pero no equivalencia exacta.
 
 ## Mapa de la enseñanza de Eric
 
@@ -79,7 +79,7 @@ El término **(πίστεως)**, *pisteos*, es genitivo de **πίστις**, *p
 
 - [ ] Comprobar la sintaxis de **(πίστεως)** en #romanos_14_1 y #romanos_14_23; la glosa «de la fidelidad» de la clase no debe fijarse sin consulta gramatical.
 - [ ] Localizar y cotejar la referencia exacta a Avodah Zarah 2 mencionada en la parte 30 sobre comida preparada por gentiles.
-- [ ] Examinar las categorías **(חול)** / **(טמא)** y **(κοινός)** / **(ἀκάθαρτος)** en sus contextos antes de presentarlas como equivalencias exactas.
+- [ ] Examinar las categorías **(חול)**; **(טמא)** y **(κοινός)**; **(ἀκάθαρτος)** en sus contextos antes de presentarlas como equivalencias exactas.
 - [ ] Verificar la reconstrucción histórica de judíos y gentiles en Roma y su relación específica con Romanos 14.
 
 ## Conclusión
