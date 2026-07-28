@@ -46,6 +46,11 @@
       "covered": 47,
       "lane": "efesios"
     },
+    "Fiestas restantes sin asignar (grupo coherente de inventario)": {
+      "total": 5,
+      "covered": 0,
+      "lane": "efesios"
+    },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
       "covered": 3,
@@ -120,6 +125,11 @@
       "total": 49,
       "covered": 38,
       "lane": "colosenses"
+    },
+    "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
+      "total": 5,
+      "covered": 0,
+      "lane": "tanaj"
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
