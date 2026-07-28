@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 258,
+  "total_notes_requiring_remediation": 257,
   "notes": [
     {
       "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
@@ -773,18 +773,6 @@
       ]
     },
 
-    {
-      "path": "content/tanaj/amos_9_tienda_de_david_y_restauracion.md",
-      "substantive_words": 80,
-      "thematic_sections": [
-        "santidad, juicio y esperanza"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
     {
       "path": "content/tanaj/bamidbar_1.md",
       "substantive_words": 60,
