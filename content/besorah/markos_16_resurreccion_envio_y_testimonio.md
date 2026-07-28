@@ -101,6 +101,16 @@ En 16:15-18, **κηρύξατε** (_kēryxate_, «proclamen») pone la proclamac
 | Marcos 16:15-18 | La comisión se dirige a toda la creación y relaciona proclamación, creer y señales.             | Apoyo textual; las señales se mantienen subordinadas al anuncio y no se convierten en norma moderna automática.            |
 | Marcos 16:19-20 | El cierre une exaltación, salida de los discípulos y fortalecimiento de יהוה.                   | Apoyo textual; **ἀνελήμφθη** y **συνεργοῦντος** se marcan con equivalencia contextual.                                     |
 
+## Cadena textual: tiempo, acontecimiento y comisión
+
+La referencia al primer día debe permanecer en su lugar narrativo. **ὀψὲ σαββάτων** (_opse sabbatōn_, «después del Shabat») y **μιᾷ τῶν σαββάτων** (_mia tōn sabbatōn_, «el primero de los Shabat») sitúan la visita de 16:1-2; no funcionan como una fórmula que rebautice el día. El movimiento decisivo aparece cuando el joven anuncia **ἠγέρθη** (_ēgerthē_, «fue levantado») y manda mirar el lugar donde lo pusieron. La cronología sirve al testimonio de la resurrección, no reemplaza su contenido.
+
+El anuncio conserva además una dirección recibida. **προάγει** (_proagei_, «va delante») y **ὄψεσθε** (_opsesthe_, «verán») orientan a los discípulos hacia Galil, de acuerdo con la palabra previa de Yehoshua. El relato no presenta a las mujeres como autoras de una explicación propia: reciben una noticia, una comisión de comunicarla y una promesa de encuentro. El temor de 16:8 tampoco transforma la escena en una aprobación del silencio; deja al lector ante la tensión entre el mandato recibido y la reacción inmediata.
+
+En 16:9-14 el testimonio se repite por vías distintas y tropieza con incredulidad. **ἐφανερώθη** (_ephanerōthē_, «se manifestó o apareció») describe una aparición recibida; **ἠπίστησαν** (_ēpistēsan_, «no creyeron») y **ὠνείδισεν** (_ōneidisen_, «reprendió») muestran que la comisión de 16:15 nace después de una corrección. La observación atribuible a Eric sobre el día no debe desplazar este tramo: Marcos hace que la misión descanse en un acontecimiento anunciado y en testigos corregidos, no en una convención calendárica.
+
+La orden **κηρύξατε** (_kēryxate_, «proclamen públicamente») lleva la noticia a **πάσῃ τῇ κτίσει** (_pasē tē ktisei_, «toda la creación»). **πιστεύσας** (_pisteusas_, «el que cree») y **βαπτισθεὶς** (_baptistheis_, «el que fue sumergido») describen la respuesta al anuncio en el texto; no autorizan a separar la fe de la proclamación ni a convertir las señales en una prueba autónoma. El cierre **συνεργοῦντος** (_synergountos_, «obrando juntamente») vuelve a unir acción divina y palabra de los discípulos: la exaltación de Yehoshua culmina en testimonio acompañado, no en una institución explícita de un nuevo día sagrado.
+
 ## Pendiente de verificar
 
 - [ ] Recuperar una transcripción o fuente pública equivalente para documentar el argumento completo de Eric sobre domingo y «día del Señor».

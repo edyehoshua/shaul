@@ -180,6 +180,16 @@ Esto precisa una observación concreta de Eric: la sangre y la cruz no se presen
 
 El cierre confirma el alcance comunitario. **ἄμφω**, _amphō_, «ambos», mantiene visibles los dos grupos, mientras **προσαγωγή**, _prosagōgē_, «acceso o introducción», y **ἐν ἑνὶ πνεύματι**, «en un solo Rúaj», describen un acceso común al Padre. La unidad no borra la memoria de la lejanía de 2:11-12; la transforma en pertenencia y responsabilidad compartidas. Así, la síntesis «un solo pueblo» queda apoyada sólo cuando sigue el orden de la perícopa: dos grupos, una obra del Mesías, un cuerpo y un acceso.
 
+## Cadena argumental: don, memoria, paz y morada
+
+La lectura de Eric puede comprobarse como una cadena de cuatro movimientos, no como una colección de lemas. En 2:1-10, **συνεζωοποίησεν** (_synezōopoiēsen_, «vivificó juntamente») y **πεποιημένοι** (_pepoiēmenoi_, «hechos o formados») mantienen la iniciativa en Elohim: la vida nueva es don y la obra preparada tiene como destino un caminar concreto. La gracia, por tanto, no es presentada como una posesión que dispense del fruto; el propio párrafo la dirige hacia las buenas obras.
+
+En 2:11-12 el imperativo **μνημονεύετε** (_mnēmoneuete_, «recuerden») obliga a conservar la memoria de la distancia: gentiles en la carne, sin Mesías, extraños a la ciudadanía y a los pactos. Esa memoria evita que la unidad posterior se convierta en una ficción de que nunca hubo separación. El giro **νυνὶ δὲ** (_nyni de_, «pero ahora») en 2:13 no niega el pasado; lo reordena mediante el Mesías y su sangre. La observación de Eric sobre un pueblo reunido queda mejor fundada cuando incluye este recuerdo, no cuando lo elimina.
+
+En 2:14-18, **ποιήσας** (_poiēsas_, «haciendo») y **καταργήσας** (_katargēsas_, «dejando sin efecto») describen acciones relacionadas pero no idénticas: el Mesías hace una unidad y desactiva la enemistad en el argumento. Después **ἀποκαταλλάξῃ** (_apokatallaxē_, «reconcilie plenamente») expresa el destino de ambos en un solo cuerpo ante Elohim, y **προσαγωγή** (_prosagōgē_, «acceso») muestra que la paz termina en una entrada común al Padre. La frase «un solo pueblo» es, así, una síntesis controlada por «los dos», «un cuerpo» y «un Rúaj».
+
+Finalmente, 2:19-22 transforma el acceso en pertenencia visible: **συμπολῖται** (_sympolitai_, «conciudadanos») y **οἰκεῖοι** (_oikeioi_, «miembros de la casa») sustituyen las categorías de extranjería, mientras **συναρμολογουμένη** (_synarmologoumenē_, «ensamblada juntamente») y **συνοικοδομεῖσθε** (_synoikodomeisthe_, «sois edificados juntamente») presentan una obra corporativa en curso. La morada no es una plataforma de superioridad étnica ni una experiencia privada: es un edificio que recibe su fundamento, su piedra angular y su crecimiento del diseño de Elohim. Esta secuencia prueba la intuición de Eric sobre una morada de poder, pero la mantiene dentro de la perícopa y de la responsabilidad de vivir reconciliados.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el análisis de **σάρξ** en #ephesians_2_11 y #ephesians_2_15 con léxicos y con los usos del término en Efesios antes de fijar «físicamente» como glosa definitiva.
