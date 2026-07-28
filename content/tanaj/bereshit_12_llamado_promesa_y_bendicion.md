@@ -83,6 +83,16 @@ El hambre de 12:10 impide una lectura triunfalista. Abram desciende para residir
 
 Abram atraviesa la tierra, recibe la palabra acerca de su descendencia y edifica un altar a יהוה (#bereshit_12_5-8). El altar no es un detalle decorativo: señala una respuesta de culto al que se le apareció. A la vez, el capítulo narra desplazamiento, hambre y la bajada a Egipto; no presenta la peregrinación como un camino sin vulnerabilidad ni convierte cada decisión de Abram en modelo sin examen.
 
+## La palabra recibida bajo presión
+
+La secuencia de 12:4–10 impide separar la obediencia de las condiciones concretas del camino. El OE dice: «Y fue Abram, como habló a él יהוה» (#bereshit_12_4), mientras el TTH conserva «y se fue Abram, como le había hablado יהוה». **הלך**, _halakh_, es una forma verbal de ir, caminar o conducirse; aquí su fuerza contextual es la partida efectiva de Abram con su casa, no una metáfora de progreso interior. «Caminar en fe» es una aplicación pedagógica legítima, pero no reemplaza el dato narrativo de que el trayecto incluye estaciones, altar y hambre.
+
+En 12:7 el TTH lee: «A tu simiente daré esta tierra», y el OE mantiene la aparición de יהוה y la construcción del altar. **ראה**, _ra'ah_, significa ver, aparecer o percibir según la forma y el contexto; en **וירא יהוה**, _vayera YHWH_, el sujeto divino se manifiesta a Abram, no es Abram quien produce la visión. **בנה**, _banah_, significa construir o edificar; su fuerza aquí es una respuesta cultual visible. Eric acierta al unir promesa y altar, pero «activar la promesa» sería una equivalencia inexacta: la palabra «daré» precede al altar.
+
+El descenso confirma el límite de una lectura triunfalista. El OE dice: «Y hubo hambre en la tierra, y descendió Abram a Mitzráim para residir allí» (#bereshit_12_10); el TTH conserva la misma razón y el mismo movimiento. **גור**, _gur_, significa residir como forastero o peregrinar; aquí presenta una estancia motivada por el hambre, no la pérdida automática de la promesa. **ירד**, _yarad_, significa bajar o descender; su fuerza geográfica describe el movimiento hacia Egipto. La exposición puede llamar a Abram portador de bendición, pero el texto obliga a evaluar su temor por Sarai y muestra que bendición no equivale a ausencia de decisiones ambiguas.
+
+Por eso, la promesa de 12:2–3 debe leerse en dos direcciones: יהוה hace grande a Abram y, por medio de él, alcanza a «todas las familias de la tierra» (TTH). **משפחה**, _mishpajah_, normalmente significa familia, clan o grupo de parentesco; en **כל משפחת האדמה**, _kol mishpajot ha-adamah_, amplía el horizonte más allá de la casa de Abram. «Todas las naciones» puede ser una equivalencia canónica aproximada en traducciones posteriores, pero la forma local dice familias de la tierra. Eric preserva correctamente la orientación universal; esta nota mantiene la precisión de la expresión hebrea.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar por separado la relación entre la promesa de tierra, la esperanza futura y los pasajes que la releen en el resto de la Escritura; la clase formula esa conexión de manera amplia.
