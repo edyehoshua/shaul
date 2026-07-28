@@ -78,6 +78,14 @@ Antes de subir, Yaakov manda: **הסרו את אלהי הנכר אשר בתככ�
 
 Elohim se revela, recuerda el nombre Israel y promete tierra y descendencia. La muerte de Rajel y la pérdida de Itzjak impiden una conclusión triunfalista: el relato sigue siendo de presencia en medio de duelo, nacimiento, herencia y límites. El capítulo 36 enumera la descendencia de Esav; la separación no borra su existencia ni convierte la bendición de Yaakov en licencia para despreciar al hermano. Así, «no te dejaré solo» funciona como consuelo cualificado: presencia para volver, obedecer, llorar y caminar con responsabilidad.
 
+## 9. El retorno se verifica en decisiones visibles
+
+La unidad final debe leerse como una cadena y no como una colección de escenas devocionales. En 32, Yaakov recuerda la palabra, confiesa su pequeñez y pide ser librado; en 33, se inclina, ordena su casa y negocia la distancia; en 34, el engaño y la matanza muestran que el miedo por la familia no santifica cualquier método; en 35, la casa quita sus dioses, se purifica y sube a Bet-El; en 36, la genealogía de Esav conserva al hermano dentro de la historia aunque los caminos se separen. La presencia prometida se reconoce por la obediencia y el discernimiento, no por la ausencia de conflictos.
+
+El OE de 35:3 conserva la confesión de Yaakov: **נקומה ונעלה בית אל ואעשה שם מזבח לאל**, «levantémonos y subamos a Bet-El, y haré allí un altar a Elohim». TTH traduce igualmente «levantémonos y subamos a Bet-El». **נקומה**, _naqumah_, es una forma exhortativa de קום, «levantarse»; su fuerza es convocar a la casa a una acción común, no solo animar el estado de ánimo. **ואעלה**, _veaaleh_, viene de עלה, «subir»; aquí es movimiento hacia el lugar señalado y no una metáfora obligatoria de progreso interior. **מזבח**, _mizbeaj_, es altar, de זבח, «sacrificar»; «espacio espiritual» es una paráfrasis pedagógica demasiado amplia, porque el relato especifica una construcción y un acto de culto.
+
+Por eso el título público de Eric recibe una evaluación doble. Es fiel como consuelo: Yaakov no atraviesa la amenaza y el duelo abandonado por Elohim. Pero sería débil como resumen si quitara la oración, la prudencia, la reprensión de la violencia, la purificación de la casa y la memoria genealógica. «No te dejaré solo» no significa «no tendrás que decidir»; significa que el retorno responsable ocurre bajo una presencia que también corrige.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal             | Fuerza contextual                          | Equivalencia                                |
