@@ -105,6 +105,14 @@ El final del capítulo vuelve al _ger_ (#vaikra_19_33-34), a pesos y medidas jus
 | **(מקדש)**       | _miqdash_        | Sustantivo: santuario, lugar santo                | Objeto de temor junto a los shabatot               | Identificarlo solo con el pueblo es inferencia cualificada |
 | **(חלל)**        | _jillel_         | Piel: profanar, tratar como común                 | Hija, Nombre, santuario y régimen de santidad      | «Hacer huecos» es pedagógica                               |
 
+## Cotejo TTH: santidad que se vuelve trato
+
+El TTH abre la perícopa con una convocatoria completa: «Habla a toda la congregación de los hijos de Israel» y «Kedoshim serán, porque Kadosh soy Yo, יהוה su Elohim» (#vaikra_19_2). El OE presenta **דבר אל כל עדת בני ישראל ואמרת אלהם קדשים תהיו כי קדוש אני יהוה אלהיכם**. La observación de Eric sobre una santidad que distingue a la comunidad está apoyada, pero **קדוש**, _qadosh_, no equivale simplemente a «diferente»: su sentido normal es santo, consagrado o apartado, y aquí su fuerza se despliega en mandamientos concretos.
+
+El TTH conserva el movimiento ético que la exposición destaca: «No desamarás a tu hermano en tu corazón; amonestando, amonestarás a tu compañero» (#vaikra_19_17), seguido de «no guardarás ira… y amarás por estar siendo tú el compañero, como tú» (#vaikra_19_18). **(שנא)**, _sane_, significa odiar; **(יכח)**, _yajaj_, reprender, demostrar o corregir; **(אהב)**, _ahav_, amar. En contexto, la reprensión corta el odio oculto y el amor excluye venganza y rencor. «Terapia comunitaria» sería una aplicación pedagógica, no el sentido exacto de las formas.
+
+La memoria del éxodo evita que la distinción se convierta en desprecio. «Como un nativo de ustedes será para ustedes el extranjero que habita con ustedes, y lo amarás como a ti mismo, porque extranjeros fueron ustedes en la tierra de Mitzráim» (#vaikra_19_34). **(גר)**, _ger_, es residente extranjero; no debe reducirse automáticamente a «turista» ni ampliarse sin argumento a toda categoría moderna de migración. Eric acierta al vincular santidad y trato al vulnerable: el pasaje lo fundamenta en la memoria histórica y en el Nombre de יהוה.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual                                         | Observación concreta de la clase                                                                                                                         | Tratamiento en esta nota                                                                                                                                               |

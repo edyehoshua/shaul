@@ -88,6 +88,14 @@ El altar final desarrolla la misma frontera. «Altar de tierra harás para mí»
 
 La secuencia completa permite evaluar la clase sin perder el texto: liberación, palabra, temor que aparta del pecado, rechazo de imágenes y altar regulado. La santidad de #shemot_19_6 no es un título separado del capítulo 20; toma forma en una escucha que no fabrica otro dios y en una adoración que recibe sus límites de יהוה. La equivalencia «libertad sin forma» queda descartada por el pasaje, mientras «obediencia que responde a una liberación ya otorgada» resume con precisión la dirección narrativa.
 
+## Cotejo TTH y alcance de las observaciones
+
+El TTH hace explícito el punto de partida de la clase: «Yo soy יהוה tu Elohim, que te saqué de la tierra de Mitzráim, de la casa de esclavos» (#shemot_20_2). El OE conserva la misma secuencia: **אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים**. Por tanto, la lectura de Eric sobre una obediencia que responde a la liberación tiene apoyo exacto en el orden textual; no es correcto presentarla como una compra de libertad por obras.
+
+El contraste final también está en ambas capas locales. El TTH dice: «No harán conmigo dioses de plata, y dioses de oro no harán para ustedes» (#shemot_20_23), y después: «Un altar de tierra harás para Mí… en todo lugar en el cual haga recordar mi Nombre, vendré a ti y te bendeciré» (#shemot_20_24). **(זכר)**, _zajar_, significa recordar o hacer memoria; aquí su fuerza contextual es que יהוה hace que su Nombre sea recordado en el lugar del altar. «Activar una presencia» sería una paráfrasis pedagógica, no una equivalencia exacta. El mandato no opone materia y culto: prohíbe fabricar dioses y regula el altar que יהוה mismo prescribe.
+
+En #shemot_20_20 el TTH traduce **נסה** como «hacerlos experimentar»: «No teman, porque para hacerlos experimentar vino Elohim… para que no pequen». OE y TTH convergen en el propósito moral. **(נס)**, _nasah_, significa probar, examinar o poner a prueba; «tentar» puede ser equívoco si sugiere inducir al mal. Esta precisión conserva la observación de Eric sobre el temor que guarda del pecado y a la vez limita la aplicación: la reverencia debe nacer de la palabra recibida, no de manipular miedo religioso.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual     | Observación concreta de la clase                                                                     | Tratamiento en esta nota                                                                                                                                                    |
