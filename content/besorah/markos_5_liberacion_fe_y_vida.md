@@ -59,14 +59,25 @@ La noticia de la muerte parece cerrar el caso: «¿Por qué todavía fatigas al 
 
 La muchacha se levanta y camina. Marcos conserva el dato de sus doce años, el mismo número de años que la mujer había padecido su enfermedad; no obliga a una alegoría matemática, pero sí deja una simetría narrativa: una mujer y una niña reciben vida en medio de una multitud, una casa y un círculo reducido de testigos. La orden final de darle de comer mantiene la restauración en lo corporal y cotidiano. La vida levantada necesita alimento, no una espiritualización que borre el cuerpo.
 
+## Control del movimiento textual: salir, volver y levantarse
+
+La primera unidad no se limita a nombrar una expulsión. El hombre corre hacia Yehoshua, se postra, es interrogado y después aparece sentado, vestido y en su juicio. El verbo **(θεραπεύω)** no es el término que Marcos usa aquí para resumir una curación; el relato prefiere describir acciones observables y reserva **(σωφρονοῦντα)**, _sōphronounta_, para el estado restaurado. Esa diferencia impide reducir la escena a una etiqueta moderna: el texto muestra dominio roto, recuperación de juicio y reintegración en una casa.
+
+La petición del hombre restaurado también prueba el sentido de la comisión. **(παρακαλεῖ)**, _parakalei_, significa rogar, exhortar o llamar a alguien junto a sí; en el episodio, los espíritus ruegan a Yehoshua y luego el hombre le ruega que lo deje acompañarlo. Yehoshua no concede la segunda petición, sino que manda **(ὕπαγε)**, _hypage_, «ve» o «retírate», a casa y a los suyos. La autoridad no se mide por permitir toda petición piadosa: produce un regreso concreto y un testimonio situado.
+
+En la segunda mitad, la mujer se acerca desde atrás y la hija de Iair queda en el centro de una demora. Marcos repite el número doce, pero no explica que sea una clave simbólica. Lo que sí une los episodios es la voz pública de Yehoshua: a la mujer le dice «hija» y a Iair le ordena no temer y continuar confiando. **(ἔγειρε)**, _egeire_, es «levántate» y pertenece al mismo campo verbal de despertar o levantar que la narración usa para la muchacha; la orden se verifica por su acción inmediata —se levanta y camina— y por el detalle doméstico de darle de comer.
+
+Así, la secuencia completa puede resumirse sin perder sus diferencias: (1) autoridad que enfrenta la opresión en los sepulcros; (2) restauración visible que devuelve a casa; (3) confianza expuesta en medio de una multitud; (4) perseverancia durante la demora; y (5) vida levantada que vuelve a lo cotidiano. La observación pública de Eric queda limitada al foco del primer movimiento, mientras el capítulo local permite probar el desarrollo posterior sin adjudicarle a la clase argumentos no recuperados.
+
 ## Hoja de comparación
 
-| Referencia             | Texto TTH local                                                                                                  | Función en la lectura                                                                       |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| #markos_5_1-8          | Yehoshua encuentra al hombre de los sepulcros y manda salir al espíritu impuro.                                  | La autoridad se dirige a una persona aislada y no se limita a discutir con la voz opresora. |
-| #markos_5_9-20         | «Mi nombre es Legión»; después el hombre queda sentado, vestido y cuerdo, y recibe la orden de volver a su casa. | La liberación tiene un resultado visible y una misión de testimonio.                        |
-| #markos_5_22-24, 35-43 | Iair pide por su hija; Yehoshua dice «No temas, sólo afírmate» y manda levantarse a la muchacha.                 | La vida restaurada atraviesa la demora y la noticia de muerte.                              |
-| #markos_5_25-34        | La mujer toca el vestido, cuenta toda la verdad y escucha: «tu emunah te ha salvado; ve en shalom».              | La confianza queda expuesta, nombrada y acompañada por paz.                                 |
+| Referencia      | Texto TTH local                                                                                                  | Función en la lectura                                                                       |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| #markos_5_1-8   | Yehoshua encuentra al hombre de los sepulcros y manda salir al espíritu impuro.                                  | La autoridad se dirige a una persona aislada y no se limita a discutir con la voz opresora. |
+| #markos_5_9-20  | «Mi nombre es Legión»; después el hombre queda sentado, vestido y cuerdo, y recibe la orden de volver a su casa. | La liberación tiene un resultado visible y una misión de testimonio.                        |
+| #markos_5_21-24 | Iair, grande de la asamblea, cae ante Yehoshua y le ruega por su hija; Yehoshua parte con él.                    | La petición de vida introduce la demora en la que ocurrirá el encuentro con la mujer.       |
+| #markos_5_25-34 | La mujer toca el vestido, cuenta toda la verdad y escucha: «tu emunah te ha salvado; ve en shalom».              | La confianza queda expuesta, nombrada y acompañada por paz.                                 |
+| #markos_5_35-43 | Llega la noticia de muerte; Yehoshua dice «No temas, sólo afírmate» y manda levantarse a la muchacha.            | La vida restaurada atraviesa la demora y la noticia de muerte.                              |
 
 ## Léxico clave
 
