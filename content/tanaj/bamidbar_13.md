@@ -120,6 +120,13 @@ Después, el OE dice: «Y Caleb hizo callar al pueblo delante de Mosheh, y dijo:
 
 La comparación con 14:8-9 vuelve explícita la condición: «Si יהוה se agrada de nosotros, nos traerá a esta tierra... solamente no se rebelen contra יהוה, y no teman». **(חפץ)**, _jafets_, significa deleitarse, querer o complacerse; aquí expresa el favor de יהוה hacia el pueblo. **(מרד)**, _marad_, significa rebelarse; su fuerza contextual contrasta la resistencia a la palabra con el temor a los habitantes. Por eso, la expresión de Eric «otro ruaj» puede conservarse como descripción de una disposición fiel, pero el relato la concreta en no rebelarse, no temer y confiar en la presencia de יהוה, no en una técnica privada de percepción.
 
+## Mapa de la enseñanza de Eric
+
+- **Bamidbar 13:21-25 — recorrido y evidencia.** Eric observa que los exploradores sí vieron la tierra y trajeron fruto; la nota lo trata con **apoyo textual**, sin convertir la exploración en pecado por sí misma.
+- **Bamidbar 13:26-33 — informe y temor.** La clase destaca que el problema fue aceptar las apariencias como veredicto contra la promesa; la nota lo evalúa como **inferencia calificada**, sostenida por el contraste entre el informe y la respuesta de Caleb.
+- **Bamidbar 14:6-9 — otro ruaj.** Eric presenta la respuesta de Caleb y Yehoshua como fidelidad práctica; la nota conserva la aplicación con **apoyo textual y aclaración léxica**, pues el pasaje concreta esa disposición en no rebelarse y no temer.
+- **Bamidbar 15:37-41 — memoria visible.** Eric conecta los flecos con recordar y hacer los mandamientos; la nota lo trata como **conexión verbal real y relación pedagógica**, no como identidad literaria absoluta con la exploración.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
