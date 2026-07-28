@@ -27,15 +27,24 @@ references:
   - "#markos_14_72"
   - "#zejariah_13_7"
   - "#daniel_7_13"
+  - "#ivrim_6_13"
+  - "#bereshit_15_17"
+  - "#tehilim_119_89"
+  - "#ivrim_2_14"
+  - "#ivrim_2_18"
+  - "#qorintiyim_alef_15_22"
+  - "#qorintiyim_alef_15_28"
 sources:
   - "https://www.youtube.com/watch?v=PuOCeGw5jaU"
   - "https://www.youtube.com/watch?v=4QQiCc5fCMw"
+  - "https://www.youtube.com/watch?v=5zrMo85sj98"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/zejariah.json"
 translation: "[TTH]"
 source_ids:
   - "youtube:PuOCeGw5jaU"
   - "youtube:4QQiCc5fCMw"
+  - "youtube:5zrMo85sj98"
 ---
 
 # Tesis
@@ -60,17 +69,36 @@ Esta nota ordena las partes 42 y 43 del estudio de Marcos del **hermano Eric de 
 | #markos_14_53-65 | TTH: testimonios falsos no concuerdan; el sumo sacerdote pregunta si es el Mesías; Yehoshua responde «Yo soy» y habla del Ben HaAdam a la diestra del poder y en las nubes. | La confesión pública precipita el juicio de muerte.              |
 | #markos_14_66-72 | TTH: Kefa niega tres veces; el gallo grita la segunda vez y él llora.                                                                                                       | El discípulo confiado descubre su límite.                        |
 
+## Abba, promesa y entrega del reino
+
+La parte pública titulada «Abá» aporta una línea interpretativa adicional sobre #markos_14_36: Eric lee «no lo que yo quiero, sino lo que Tú» como la sumisión del Mesías a la promesa de restauración, no como una disputa entre dos dioses. El texto sí muestra petición, copa y obediencia; la identificación de **Abba** con juramento o condición ideal pertenece al esquema teológico de la clase y no se presenta como el significado léxico directo del arameo.
+
+La clase enlaza el juramento por sí mismo de #ivrim_6_13 con el compromiso representado en #bereshit_15_17 y con la palabra establecida de #tehilim_119_89. Esa cadena puede funcionar como lectura intertextual de una promesa asumida por Elohim, pero no convierte cada pasaje en una explicación etimológica de **אבא**. En la secuencia de Marcos, la prueba textual más firme permanece en la oración de Gue Shemanim y en la entrega voluntaria que sigue.
+
+Desde #ivrim_2_14-18, la exposición explica la participación del Mesías en carne y sangre como medio para vencer la muerte y socorrer a la descendencia de Abraham. La conexión con #ieshaiahu_43_7 y #maasei_hashlijim_2_39 amplía el tema hacia llamamiento y promesa; esa extensión se conserva como interpretación atribuible, mientras el alcance inmediato de «descendencia de Abraham» queda bajo cotejo. La clase culmina en #qorintiyim_alef_15_22-28: vida en el Mesías, derrota de la muerte, entrega del reino y Elohim siendo todo en todos. El pasaje respalda esa secuencia; la lectura adicional de «regreso a Abba» es una inferencia teológica, no una equivalencia textual automática.
+
 ## Hoja léxica
 
-| Forma                      | Transliteración  | Sentido normal                                        | Fuerza contextual                                                                                                                                                   | Equivalencia                                                                      |
-| -------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **(פסח)**                  | pesaj            | pasar por alto; también el sacrificio/fiesta de Pésaj | En 14:1 y 12 marca el tiempo y el animal sacrificado; la clase distingue el cordero del día 14 y la fiesta de Matzot.                                               | Aproximada con el uso griego de la fiesta; no confundir fiesta y víctima.         |
-| **(מצות)**                 | matzot           | panes sin levadura                                    | Acompaña a Pésaj en 14:1 y enmarca la preparación.                                                                                                                  | Exacta en el nombre de la fiesta; el calendario detallado requiere cotejo.        |
-| **(διαθήκη)** / **(ברית)** | diatheke / berit | pacto, alianza                                        | 14:24 llama a la copa «sangre del pacto renovado».                                                                                                                  | Aproximada; «nuevo» no autoriza borrar la continuidad con la Escritura.           |
-| **(אבא)**                  | abba             | padre, papá; forma aramea íntima o vocativa           | En 14:36 TTH traduce «Padre, Padre mío». La clase lo lee como consulta a la condición ideal/justicia divina; eso es elaboración teológica, no glosa léxica directa. | Aproximada; no equivalencia automática con «juramento» o «Torá».                  |
-| **(בן האדם)**              | Ben HaAdam       | hijo del hombre                                       | Une entrega (14:21, 41) y exaltación (14:62).                                                                                                                       | Aproximada con **(ὁ υἱὸς τοῦ ἀνθρώπου)**; no se reduce a «un humano cualquiera».  |
-| **(ναός)** / **(היכל)**    | naos / hejal     | santuario, templo                                     | El falso testimonio habla de derribar el Hejal hecho de manos.                                                                                                      | Aproximada; el sentido exacto de la acusación debe leerse con el resto de Marcos. |
-| **(βλασφημία)**            | blasphemia       | blasfemia, injuria contra lo sagrado                  | El sanedrín oye blasfemia en la confesión de 14:62-64.                                                                                                              | Traducción usual; no prueba por sí sola la categoría jurídica posterior.          |
+| Forma                      | Transliteración  | Sentido normal                                        | Fuerza contextual                                                                                                                                                       | Equivalencia                                                                                                  |
+| -------------------------- | ---------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **(פסח)**                  | pesaj            | pasar por alto; también el sacrificio/fiesta de Pésaj | En 14:1 y 12 marca el tiempo y el animal sacrificado; la clase distingue el cordero del día 14 y la fiesta de Matzot.                                                   | Aproximada con el uso griego de la fiesta; no confundir fiesta y víctima.                                     |
+| **(מצות)**                 | matzot           | panes sin levadura                                    | Acompaña a Pésaj en 14:1 y enmarca la preparación.                                                                                                                      | Exacta en el nombre de la fiesta; el calendario detallado requiere cotejo.                                    |
+| **(διαθήκη)** / **(ברית)** | diatheke / berit | pacto, alianza                                        | 14:24 llama a la copa «sangre del pacto renovado».                                                                                                                      | Aproximada; «nuevo» no autoriza borrar la continuidad con la Escritura.                                       |
+| **(אבא)**                  | abba             | padre, papá; forma aramea íntima o vocativa           | En 14:36 TTH traduce «Padre, Padre mío». La clase lo lee como consulta a la condición ideal/justicia divina; eso es elaboración teológica, no glosa léxica directa.     | Aproximada; no equivalencia automática con «juramento» o «Torá».                                              |
+| **(בן האדם)**              | Ben HaAdam       | hijo del hombre                                       | Une entrega (14:21, 41) y exaltación (14:62).                                                                                                                           | Aproximada con **(ὁ υἱὸς τοῦ ἀνθρώπου)**; no se reduce a «un humano cualquiera».                              |
+| **(ναός)** / **(היכל)**    | naos / hejal     | santuario, templo                                     | El falso testimonio habla de derribar el Hejal hecho de manos.                                                                                                          | Aproximada; el sentido exacto de la acusación debe leerse con el resto de Marcos.                             |
+| **(βλασφημία)**            | blasphemia       | blasfemia, injuria contra lo sagrado                  | El sanedrín oye blasfemia en la confesión de 14:62-64.                                                                                                                  | Traducción usual; no prueba por sí sola la categoría jurídica posterior.                                      |
+| **(ἐκχέω)**                | ekcheō           | derramar, verter fuera                                | En 14:24 califica la sangre del pacto «por muchos»; mantiene juntas la imagen de la copa y la entrega que la narración va a mostrar.                                    | Cercana a **(שפך)**, _shafakh_, «derramar»; equivalencia contextual, no retroversión demostrada.              |
+| **(γρηγορέω)**             | grēgoreō         | mantenerse despierto, velar                           | En 14:34 y 38 ordena vigilar mientras Yehoshua ora; el mandato contrasta con el sueño repetido de los discípulos.                                                       | Aproximada con **(שקד)**, _shaqad_, «estar atento»; no son equivalentes en todos los usos.                    |
+| **(ἐγώ εἰμι)**             | egō eimi         | yo soy, soy yo                                        | En 14:62 responde a la pregunta sobre el Mesías y precede la visión del Ben HaAdam en las nubes; el argumento depende del contexto completo, no de una fórmula aislada. | Cercana a **(אני הוא)**, _ani hu_; equivalencia funcional, sin decidir aquí todas las resonancias teológicas. |
+
+### Control griego de la mesa, la copa y el juicio
+
+En 14:24 la forma **(διαθήκης)**, _diathēkēs_, es el genitivo de **(διαθήκη)**, «pacto» o «disposición pactal», dependiente de «sangre». El participio **(ἐκχυννόμενον)**, _ekchynnomenon_, significa «que está siendo derramada» y concuerda con la sangre: la frase presenta una entrega en curso, no solo una etiqueta litúrgica. **(ὑπὲρ πολλῶν)**, _hyper pollōn_, significa «por muchos»; la preposición puede expresar beneficio o representación según contexto, pero no debe sustituirse sin argumento por «por todos».
+
+En Gue Shemanim, **(ἀββᾶ)**, _abba_, es una forma vocativa aramea conservada dentro del texto griego y **(πατήρ)**, _patēr_, su equivalente griego «Padre». La pareja no demuestra por sí misma una teoría sobre dos voluntades o sobre un juramento: el contexto inmediato añade «todo es posible para ti», «aparta de mí esta copa» y «no lo que yo quiero, sino lo que tú». La orden **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», y la cláusula **(τὸ πνεῦμα πρόθυμον, ἡ δὲ σὰρξ ἀσθενής)**, «el espíritu dispuesto, pero la carne débil», prueban la tensión narrativa entre oración perseverante y sueño.
+
+Ante el sumo sacerdote, **(ἐγώ εἰμι)**, _egō eimi_, es la respuesta «Yo soy»; **(ὄψεσθε)**, _opsesthe_, «verán», introduce la visión del **(υἱὸν τοῦ ἀνθρώπου)**, _huion tou anthrōpou_, «Hijo del Hombre», y **(νεφελῶν)**, _nephelōn_, «nubes». La equivalencia con Daniel 7 es una alusión intertextual explícita en la lectura de Eric, pero no una razón para borrar el sentido narrativo: la confesión provoca la acusación de blasfemia y el juicio del relato.
 
 ## Pésaj cercano, unción y traición (14:1-11)
 
@@ -94,15 +122,25 @@ Yehoshua cita la Escritura: herirán al pastor y las ovejas se dispersarán (#ma
 
 En Gue Shemanim pide a los discípulos que se sienten y ora. Toma a Kefa, Iaacob e Iojanán; su ser está abatido hasta la muerte. La petición es concreta: si es posible, que pase la hora; «Padre, Padre mío, todo lo puedes Tú… pero no es lo que yo quiero, sino lo que Tú» (#markos_14_36). Eric propone que esta oración no introduce un segundo dios al que se ruega, sino la sumisión del Mesías —despojado y sujeto al ámbito humano— a la disposición de la justicia divina y de la palabra. Esa lectura doctrinal es la tesis fuerte de la clase y debe marcarse como elaboración: el texto da la forma filial **(אבא)** y la renuncia a la propia voluntad; no define por sí solo un glosario metafísico completo de Abba. La repetición de la oración y del sueño (#markos_14_39-41) da a la escena un ritmo de prueba: la fidelidad de Yehoshua se muestra en volver a orar, mientras la de los discípulos queda expuesta como insuficiente.
 
-Tres veces encuentra dormidos a los suyos. La admonición «el espíritu está dispuesto, pero la carne es enferma» (#markos_14_38) explica la brecha entre promesa y vigilancia: **(γρηγορέω)**, *grēgoreō*, no significa una técnica contemplativa, sino permanecer despierto y atento ante la prueba. Al final declara: la hora ha venido; el Ben HaAdam es entregado en manos de pecadores (#markos_14_41). Así, la orden «velen y oren» no es un consejo genérico: responde a la hora concreta que el relato acaba de anunciar.
+Tres veces encuentra dormidos a los suyos. La admonición «el espíritu está dispuesto, pero la carne es enferma» (#markos_14_38) explica la brecha entre promesa y vigilancia: **(γρηγορέω)**, _grēgoreō_, no significa una técnica contemplativa, sino permanecer despierto y atento ante la prueba. Al final declara: la hora ha venido; el Ben HaAdam es entregado en manos de pecadores (#markos_14_41). Así, la orden «velen y oren» no es un consejo genérico: responde a la hora concreta que el relato acaba de anunciar.
 
 ## Arresto, confesión y negación (14:43-72)
 
 Iehudáh llega con gente armada y lo entrega con un beso. Eric recuerda que uno corta la oreja del siervo —otro evangelio nombra a Kefa— y que Yehoshua se niega a ser tratado como ladrón, pues cada día enseñaba en el Hejal. Marcos subraya el cumplimiento de las Escrituras y la huida de todos (#markos_14_49-50). El joven de la sábana que huye desnudo queda como detalle de abandono total; la clase no necesita allegar más de lo que el texto ofrece.
 
-Ante el sumo sacerdote, los testimonios falsos no concuerdan. La acusación sobre derribar el Hejal (#markos_14_58) no basta para condenarlo. Entonces la pregunta directa: «¿Tú eres el Mesías, Hijo del Santo Bendito?» Yehoshua responde **(ἐγώ εἰμι)**, *egō eimi*, «Yo soy», y añade la visión del Ben HaAdam sentado a la diestra del poder y viniendo en las nubes (#markos_14_61-62). Eric enlaza esto con Daniel 7 y habla del reintegro al «trono de la majestad»; también discute si «Anciano de días» nombra una persona distinta o un término técnico del trono. La confesión misma está firmemente en Marcos; la precisión sobre el Anciano de días y la identidad personal total queda para verificación. El texto sí presenta la respuesta como decisiva para el juicio: el sumo sacerdote rasga sus vestiduras y la asamblea la califica de blasfemia (#markos_14_63-64), aunque esa calificación pertenece a los jueces del relato y no funciona por sí sola como explicación jurídica universal.
+Ante el sumo sacerdote, los testimonios falsos no concuerdan. La acusación sobre derribar el Hejal (#markos_14_58) no basta para condenarlo. Entonces la pregunta directa: «¿Tú eres el Mesías, Hijo del Santo Bendito?» Yehoshua responde **(ἐγώ εἰμι)**, _egō eimi_, «Yo soy», y añade la visión del Ben HaAdam sentado a la diestra del poder y viniendo en las nubes (#markos_14_61-62). Eric enlaza esto con Daniel 7 y habla del reintegro al «trono de la majestad»; también discute si «Anciano de días» nombra una persona distinta o un término técnico del trono. La confesión misma está firmemente en Marcos; la precisión sobre el Anciano de días y la identidad personal total queda para verificación. El texto sí presenta la respuesta como decisiva para el juicio: el sumo sacerdote rasga sus vestiduras y la asamblea la califica de blasfemia (#markos_14_63-64), aunque esa calificación pertenece a los jueces del relato y no funciona por sí sola como explicación jurídica universal.
 
 El sanedrín oye blasfemia y lo juzga digno de muerte. Abajo, Kefa niega conocer a Yehoshua Notzrí. Eric distingue formas como nazareno/nazaretano ligadas a la ciudad; el texto TTH conserva Notzrí. El gallo grita la segunda vez y Kefa llora (#markos_14_72): la confianza en la propia lealtad se quiebra justo cuando el Mesías confiesa la verdad ante el juicio.
+
+La escena completa sigue una cadena verificable: Pésaj y la unción preparan la entrega; la mesa interpreta cuerpo y sangre; la Escritura anuncia al pastor herido; la oración enfrenta la hora; el arresto cumple la dispersión; y la confesión ante el sumo sacerdote conduce al juicio, mientras la negación de Kefa expone la fragilidad del discípulo. La forma **παραδίδωμι**, _paradidōmi_, «entregar o poner en manos de otro», atraviesa el capítulo: aparece en la traición, en la sangre derramada y en el Hijo del Hombre entregado. Su sentido contextual no autoriza a convertir toda entrega en fatalismo; Marcos muestra decisiones humanas, cumplimiento escritural y obediencia del Mesías dentro de una misma secuencia.
+
+## Entrega, testimonio y límite de la confianza humana
+
+El verbo **παραδίδωμι**, _paradidōmi_, «entregar, transmitir o poner en manos de otro», permite seguir una línea que atraviesa el capítulo sin borrar sus diferencias. Iehudáh entrega a Yehoshua a la multitud (14:44), los jefes lo entregan al juicio y el Ben HaAdam es entregado en manos de pecadores (14:41). En la mesa, la sangre es derramada «por muchos», y en la confesión final el Mesías se entrega a la verdad de su identidad aun cuando sabe que la respuesta del tribunal será hostil. La forma verbal no convierte a todos los actores en instrumentos idénticos: el relato conserva traición, miedo, autoridad abusiva y obediencia.
+
+La confesión de 14:62 debe leerse después de los testimonios que no concordaban y antes de la sentencia de blasfemia. **μαρτυρία**, _martyria_, «testimonio o declaración que da cuenta de algo», ayuda a distinguir la evidencia defectuosa de la palabra directa de Yehoshua; **κατακρίνω**, _katakrinō_, «condenar o sentenciar», nombra la acción judicial que sigue. Estas glosas son contextuales, no una reconstrucción completa del procedimiento del sanedrín. Eric observa que el Mesías no evade el juicio ni abandona el trono prometido; el texto apoya su respuesta pública y la reacción de los jueces, pero deja pendiente cuánto de la escena debe trasladarse a categorías jurídicas posteriores.
+
+La trayectoria también explica el contraste con Kefa. Él promete no escandalizarse, incluso si todos lo hacen, pero niega conocer al Mesías cuando se le pregunta. **ἀρνέομαι**, _arneomai_, «negar, desconocer o repudiar», aparece en la serie de respuestas de Kefa; el llanto final no transforma su fracaso en una condena definitiva, pero sí desmiente su seguridad previa. La clase puede usarlo como advertencia contra la confianza en la fuerza propia: Marcos no opone al discípulo débil con un héroe autosuficiente, sino con Yehoshua, cuya oración repetida y confesión perseverante sostienen el camino hacia la cruz.
 
 ## Mapa de la enseñanza de Eric
 
@@ -110,6 +148,8 @@ El sanedrín oye blasfemia y lo juzga digno de muerte. Abajo, Kefa niega conocer
 - **Marcos 14:12-26 — mesa y pacto:** la clase acentúa la sangre del pacto como entrega real «por muchos» y la proyección al reino; la nota lo ancla en 14:22-25 y reserva polémicas litúrgicas posteriores.
 - **Marcos 14:27-42 — pastor y Gue Shemanim:** Eric oye en la oración sumisión a la justicia divina más que rivalidad de dos dioses; la nota conserva la forma **(אבא)** y la renuncia de voluntad, y califica la metafísica de Abba como propuesta de la clase.
 - **Marcos 14:53-72 — confesión y negación:** la clase conecta 14:62 con Daniel y el trono; la nota afirma la confesión mesiánica y deja pendiente la equivalencia exacta del lenguaje de trono y Anciano de días.
+- **Marcos 14:22-25, 32-38 y 61-62 — formas críticas:** Eric lee la sangre, la oración y la confesión como una sola trayectoria de entrega. **(διαθήκης)** (_diathēkēs_, del pacto), **(ἐκχυννόμενον)** (_ekchynnomenon_, derramada), **(ἀββᾶ)** (_abba_, vocativo), **(γρηγορεῖτε)** (_grēgoreite_, vigilen), **(ἐγώ εἰμι)** (_egō eimi_, yo soy) y **(υἱὸν τοῦ ἀνθρώπου)** (_huion tou anthrōpou_, Hijo del Hombre) sostienen la secuencia en su contexto; ninguna forma aislada resuelve toda la doctrina de pacto, voluntad o trono.
+- **Marcos 14:36 y Hebreos 6:13-20 — Abba y promesa:** la fuente adicional lee la copa como sometimiento al juramento de restauración y enlaza la promesa con la entrega final del reino; la nota conserva la cadena intertextual, pero marca «Abba = juramento» y el «regreso a Abba» como categorías teológicas, no como definiciones léxicas.
 
 ## Pendiente de verificar
 
@@ -118,6 +158,7 @@ El sanedrín oye blasfemia y lo juzga digno de muerte. Abajo, Kefa niega conocer
 - [ ] Examinar la propuesta de la clase de que orar en 14:36 equivale a «ser hecho partícipe de un juicio» por una base hebrea específica; no está demostrada en el texto griego de Marcos.
 - [ ] Verificar la lectura de «Anciano de días» como término técnico del trono y su relación exacta con #markos_14_62 y Daniel 7.
 - [ ] Revisar las distinciones nazareno/Notzrí/netzer aludidas al final de la clase con el léxico y el uso de Marcos.
+- [ ] Cotejar la máxima rabínica de la vaca y el ternero y la lectura de 1 Corintios 15:28 antes de ampliar la conclusión sobre Abba.
 
 ## Conclusión
 
@@ -128,11 +169,12 @@ Marcos 14 conduce del complot al llanto de Kefa sin soltar la Escritura. La muje
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Marcos, parte 42: capítulo 14](https://www.youtube.com/watch?v=PuOCeGw5jaU) (`source_id`: `youtube:PuOCeGw5jaU`).
 - Video: [El Evangelio según Marcos, parte 43: 14:53–final, el trono de la gloria](https://www.youtube.com/watch?v=4QQiCc5fCMw) (`source_id`: `youtube:4QQiCc5fCMw`).
+- Video: [Evangelio según Marcos, parte 14: «Abá», la sabiduría de lo Alto y el trono de la Majestad](https://www.youtube.com/watch?v=5zrMo85sj98) (`source_id`: `youtube:5zrMo85sj98`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
-- [[markos_abba_juramento_restauracion_reino|Marcos: Abba, juramento de restauración y entrega del reino]]
+- La fuente «Abá» queda integrada en esta nota canónica única de Marcos 14.
 - [[markos_13_vigilancia_hijo_hombre_palabra|Marcos 13: vigilancia, Hijo del Hombre y palabra]]
 - [[markos_15_juicio_cruz_velo_confesion|Marcos 15: juicio, cruz, velo y confesión]]
 - [[markos_10_pacto_reino_riqueza_servicio_camino|Marcos 10: pacto, reino, riqueza y servicio]]
