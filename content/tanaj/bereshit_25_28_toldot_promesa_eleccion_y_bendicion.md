@@ -103,6 +103,14 @@ Yitsjaq vuelve a decir: «El Elohim Todopoderoso te bendiga ... y te dé la bend
 
 Esav percibe que las mujeres cananeas disgustan a Yitsjaq y toma a Majalat, hija de Ishmael. El gesto muestra que la percepción de la preferencia familiar puede producir una respuesta imitativa, pero el narrador no dice que esa acción sea la misma bendición dada a Yaakov. Eric acierta al poner en primer plano la elección y la bendición; el recorrido textual añade que la promesa se expresa junto con separación, obediencia y desplazamiento, no como licencia para eludir las consecuencias del conflicto.
 
+## La promesa atraviesa una casa dividida sin aprobar sus maniobras
+
+El orden del relato impide dos reducciones opuestas. Por un lado, la elección no comienza con el disfraz de Yaakov: la palabra recibida por Rivqah precede al nacimiento, y la promesa reaparece en la bendición de Yitsjaq en 28:3–4. Por otro lado, esa prioridad no convierte cada maniobra familiar en obediencia. El hambre de Esav, la preferencia de Yitsjaq, la estrategia de Rivqah y el engaño de Yaakov son acciones narradas dentro de una promesa, pero cada una conserva su responsabilidad y sus consecuencias.
+
+La frase **(והיה גביר לאחיך)**, _vehayah gavir le'achekha_, «y sé señor de tus hermanos», muestra por qué la bendición no debe separarse de su contexto. **(גביר)**, _gavir_, puede expresar señor, poderoso o autoridad; en 27:29 su fuerza es una palabra de dominio dentro de la bendición, no una autorización general para que Yaakov trate a Esav sin justicia. «Autoridad espiritual» sería una equivalencia **pedagógica** y demasiado amplia. El texto posterior revela el costo de la rivalidad: separación, amenaza y huida. La elección bíblica no borra la necesidad de discernir el modo en que se busca la bendición.
+
+El cierre en 28:1–4 es decisivo porque Yitsjaq ya no habla desde la sospecha de sus sentidos ni desde la comida que pidió. Ordena a Yaakov no tomar mujer de Kenaan y pronuncia explícitamente «la bendición de Avraham». La forma **(ברכת)**, _birkat_, es el constructo de ברכה, «bendición», y aquí enlaza el don familiar con descendencia y tierra. «Éxito personal» no es una equivalencia exacta: reduce una promesa de pacto a bienestar individual. Eric preserva el vínculo entre elección y bendición; la secuencia textual añade que recibirla implica salir, separarse de alianzas incompatibles y continuar la línea prometida.
+
 ## Conclusión
 
 Toldot no enseña que la astucia humana produzca la promesa. La palabra llega antes del nacimiento, la primogenitura es despreciada por apetito, la preferencia de Yitsjaq se liga a la caza y la bendición se disputa dentro de una casa herida. El cierre, sin embargo, vuelve a la promesa de Avraham y muestra que יהוה puede sostener su propósito a través de decisiones humanas sin llamar bueno al engaño. La elección debe escucharse y obedecerse; no puede ser reemplazada por apariencia, favoritismo o transacción.
