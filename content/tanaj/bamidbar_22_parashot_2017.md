@@ -1,128 +1,104 @@
 ---
 title: "Bamidbar 22: Balaq, Bilam y la palabra que no se compra"
-description: "Estudio canónico de Bamidbar 22 sobre el miedo de Moab, el lucro profético y la palabra de יהוה que no puede ser manipulada."
+description: "Estudio canónico de Bamidbar 22 sobre el temor de Moav, la bendición de Israel y la palabra que יהוה pone en boca de Bilam."
 date: 2026-07-28
 tags:
   - parashot
   - bamidbar
+  - balaq
   - bilam
-  - discernimiento
 references:
   - "#bamidbar_22_1"
-  - "#bamidbar_22_5"
+  - "#bamidbar_22_6"
+  - "#bamidbar_22_12"
   - "#bamidbar_22_18"
   - "#bamidbar_22_22"
   - "#bamidbar_22_31"
+  - "#bamidbar_22_38"
 sources:
-  - "https://www.youtube.com/watch?v=JynK66A9mn0"
+  - "https://www.youtube.com/watch?v=qKWysdkjyQQ"
   - "docs/scriptures/oe/json/numbers/22.json"
-  - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
-  - "youtube:JynK66A9mn0"
-translation: "[OE, TTH]"
+  - "youtube:qKWysdkjyQQ"
+translation: "[OE]"
 ---
 
 # Tesis
 
-Bamidbar 22 muestra que el temor político intenta convertir la palabra espiritual en un instrumento de lucro, pero יהוה gobierna tanto la bendición como la corrección del mensajero. Balaq ve a Israel como una amenaza; Bilam reconoce que no puede añadir ni quitar una palabra; y, sin embargo, su camino revela que una confesión correcta no basta si el deseo sigue orientado hacia la ganancia. El asna que ve al mensajero antes que su dueño expone la ceguera del profeta y prepara la palabra que sólo puede hablarse bajo mandato de יהוה.
+Bamidbar 22 muestra que Balaq puede ofrecer honor y riqueza, pero no puede comprar una palabra contra el pueblo que יהוה ha bendecido. La clase de Eric se titula «Venced con el bien al mal» y sigue el conflicto entre el temor de Moav, la oferta de maldición y el límite impuesto por יהוה; el capítulo prueba esa lectura narrando cómo la asna ve antes que Bilam, el mensajero detiene el camino y Bilam sólo puede hablar lo que Elohim pone en su boca.
 
 ## Alcance de la nota
 
-Esta nota sigue Bamidbar 22 en orden. Conserva observaciones de Eric en **Parashat Balaq Nm 22:1-25:9 El lucro y la concupiscencia**, especialmente la distinción entre בלק (_Balaq_) y בלעם (_Bilam_), el trasfondo geográfico, la lectura de קהל como asamblea y la tensión entre don espiritual y codicia. La clase recorre también los capítulos 23-25; aquí se trata sólo el capítulo 22 y se marcan como inferencia las aplicaciones que exceden su narración inmediata.
+Esta nota desarrolla la clase pública del hermano Eric de Jesús Rodríguez Mendoza y contrasta sus observaciones con el texto OE local. El título de la sesión ofrece un énfasis atribuible, no una sustitución del capítulo. Las inferencias doctrinales se distinguen de la narración explícita; no se presentan transcripciones automáticas como citas literales.
 
 ## Hoja de comparación
 
-| Referencia         | Hebreo local (OE, sin nikud)                                                                                    | Observación                                                                                    |
-| ------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| #bamidbar_22_1     | **ויסעו בני ישראל ויחנו בערבות מואב מעבר לירדן ירחו**                                                           | Israel está frente a Jericó, todavía al otro lado del Jordán.                                  |
-| #bamidbar_22_2-3   | **וירא בלק בן צפור את כל אשר עשה ישראל לאמרי** / **ויגר מואב מפני העם מאד כי רב הוא ויקץ מואב מפני בני ישראל**  | La reacción nace de ver y temer la multitud.                                                   |
-| #bamidbar_22_4     | **ויאמר מואב אל זקני מדין עתה ילחכו הקהל את כל סביבתינו כלחך השור את ירק השדה**                                 | Moab llama a Israel **הקהל**, la asamblea, y lo imagina consumiendo sus recursos como un buey. |
-| #bamidbar_22_5-6   | **וישלח מלאכים אל בלעם בן בעור פתורה אשר על הנהר ארץ בני עמו לקרא לו** / **ועתה לכה נא ארה לי את העם הזה**      | Balaq busca una maldición contratada desde lejos.                                              |
-| #bamidbar_22_8     | **ויאמר אליהם לינו פה הלילה והשבתי אתכם דבר כאשר ידבר יהוה אלי**                                                | Bilam reconoce que la respuesta depende de lo que יהוה diga.                                   |
-| #bamidbar_22_18    | **אם יתן לי בלק מלא ביתו כסף וזהב לא אוכל לעבר את פי יהוה אלהי לעשות קטנה או גדולה**                            | Declaración correcta sobre el límite de la palabra profética.                                  |
-| #bamidbar_22_22    | **ויחר אף אלהים כי הולך הוא ויתיצב מלאך יהוה בדרך לשטן לו**                                                     | El enojo divino cuestiona el camino, no sólo las palabras pronunciadas.                        |
-| #bamidbar_22_31-35 | **ויגל יהוה את עיני בלעם וירא את מלאך יהוה נצב בדרך וחרבו שלפה בידו** … **ואפס את הדבר אשר אדבר אליך אתו תדבר** | La visión y el mandato devuelven al profeta a su lugar de siervo.                              |
+| Unidad             | Texto hebreo local (OE, sin nikud)                                                | Función                                                                  |
+| ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| #bamidbar_22_1-6   | **ויסעו בני ישראל ויחנו בערבות מואב... כי ידעתי את אשר תברך מברך ואשר תאר יואר**  | Moav teme y busca que Bilam maldiga a Israel.                            |
+| #bamidbar_22_7-12  | **לינו פה הלילה והשבתי אתכם דבר כאשר ידבר יהוה אלי... לא תאר את העם כי ברוך הוא** | La respuesta depende de lo que יהוה diga; Israel es declarado bendecido. |
+| #bamidbar_22_15-20 | **אם יתן לי בלק מלא ביתו כסף וזהב לא אוכל לעבר את פי יהוה אלהי**                  | El honor y el dinero no autorizan a cruzar la palabra de יהוה.           |
+| #bamidbar_22_21-35 | **ויחר אף אלהים כי הולך הוא... ויגל יהוה את עיני בלעם**                           | El camino es confrontado por el mensajero y la visión se abre.           |
+| #bamidbar_22_36-40 | **היכול אוכל דבר מאומה... הדבר אשר ישים אלהים בפי אתו אדבר**                      | Bilam declara ante Balaq que sólo puede hablar la palabra recibida.      |
 
-## Un pueblo temido antes de ser oído: 22:1-14
+## 22:1-6: temor, estrategia y una maldición solicitada
 
-Israel acampa en las estepas de Moab, “al otro lado del Jordán, frente a Jericó”. Eric recalca el mapa: el pueblo aún no ha cruzado el río, pero se aproxima a la tierra prometida. El texto no presenta primero una agresión de Israel contra Moab; presenta lo que Balaq **ve** y el miedo que esa visión provoca. **עם** (_am_) significa pueblo, y **רב** (_rav_) significa numeroso o grande; la escena nace de una evaluación política, no de una revelación sobre la intención moral de Israel.
+Israel acampa en las llanuras de Moav, frente a Jericó. Balaq ve lo que Israel hizo al amorreo; Moav teme porque el pueblo es numeroso. **(ויגר)**, _yagar_, significa temer o sentir miedo; aquí explica la estrategia política que sigue. Balaq no empieza preguntando qué ha dicho יהוה, sino buscando un especialista cuya bendición o maldición tenga efecto: «el que tú bendigas será bendito y el que tú maldigas será maldito».
 
-El v. 4 introduce **הקהל**, _haqahal_: artículo más **קהל**, asamblea o congregación. Su sentido normal es un conjunto reunido; aquí Moab lo usa para nombrar al Israel acampado como una masa que amenaza el alimento de sus alrededores. “Iglesia” sería una equivalencia **pedagógica** si se conecta con **ἐκκλησία**, _ekklesia_, pero no una sustitución exacta del término hebreo ni una afirmación sobre instituciones posteriores. Eric conserva la observación de que la asamblea es vista antes de ser escuchada: el texto apoya esa lectura política, aunque no dice que Israel haya iniciado hostilidades contra Moab.
+La clase de Eric resume este conflicto como vencer el mal con el bien. El capítulo muestra primero el intento de producir mal mediante una palabra contra un pueblo que ya está bajo bendición. El texto no dice todavía que Israel responda con violencia; la trama coloca la seguridad del pueblo en la palabra de יהוה y no en la capacidad de Balaq para pagar una maldición.
 
-Balaq envía mensajeros a Bilam para que diga **ארה** (_'arah_), “maldecir”. La forma pertenece al campo de pronunciar maldición, pero la clase la vincula con la idea de cortar al pueblo de la bendición. Esa relación es aproximada: el capítulo sí contrapone bendecir y maldecir, pero una definición completa de bendición como “injerto” requiere cotejo con otros textos. La petición de Balaq intenta externalizar su miedo: si Bilam controla la palabra, el rey cree que podrá expulsar al pueblo.
+## 22:7-20: consulta, límite y la oferta de dinero
 
-Eric corrige además la confusión de nombres: בלק es **Balaq**, el rey; בלעם es **Bilam**, el hombre al que se consulta. La observación filológica sobre la transliteración es útil para no fusionar personajes, aunque la etimología exacta de los nombres queda abierta. En 22:8 Bilam dice que responderá conforme a lo que יהוה le hable. El relato valida ese límite, pero todavía no absuelve sus motivaciones.
+Los ancianos llegan con adivinaciones en la mano. Bilam les pide pasar la noche y declara que responderá según lo que יהוה le diga. Elohim pregunta quiénes son; después ordena: «no vayas con ellos; no maldigas al pueblo, porque es bendito». **(ברך)**, _baraj_, significa bendecir; en 22:12 su forma declara una condición ya existente, no un premio que Balaq pueda fabricar.
 
-## Plata, oro y el límite de la boca: 22:15-21
+Balaq aumenta la delegación y promete: «te honraré mucho, y todo lo que me digas haré». Bilam responde con una observación material decisiva: aunque Balaq le diera su casa llena de plata y oro, no podría transgredir la boca de יהוה para hacer algo pequeño o grande. **(עבר)**, _avar_, significa pasar o cruzar; aquí su fuerza contextual es cruzar el límite de la palabra recibida. La relación entre plata y obediencia es narrativa, no una regla de que toda riqueza sea ilícita.
 
-La segunda delegación aumenta la dignidad y la recompensa. Bilam responde: aunque Balaq le diera una casa llena de plata y oro, no podría hacer “pequeña o grande” contra la boca de יהוה. Esta afirmación es textual y central. **פי יהוה** (_pi יהוה_), “la boca de יהוה”, es una imagen de autoridad comunicada; “palabra de יהוה” es una equivalencia correcta en efecto, pero pierde la metáfora corporal de la boca.
+La segunda consulta parece abrir el camino: si los hombres han venido a llamar a Bilam, que vaya con ellos, pero sólo hará lo que Elohim le diga. La narración deja una tensión que no debe borrarse: permiso para ir no equivale a autorización para maldecir. La clase puede usarla para advertir contra el deseo de obtener el honor ofrecido; el capítulo confirma el límite en la cláusula «sólo la palabra que te diga».
 
-La tensión aparece en el movimiento posterior. Bilam ya recibió una prohibición, pero vuelve a consultar y luego ensilla su asna para ir. El narrador no permite que una frase ortodoxa oculte la dirección del deseo. Eric titula la enseñanza “el lucro y la concupiscencia”: como diagnóstico pastoral es una inferencia coherente con la secuencia y con la censura posterior de la Escritura, aunque Bamidbar 22 todavía desarrolla el motivo mediante acciones y no mediante una confesión psicológica exhaustiva.
+## 22:21-35: la asna ve, el mensajero resiste
 
-## El camino impedido y el asna que ve: 22:22-35
+Bilam se levanta, ensilla su asna y va con los príncipes de Moav, pero la ira de Elohim se enciende porque va. El mensajero de יהוה se coloca en el camino como adversario. La asna ve la espada y se desvía al campo, se aprieta contra la pared y finalmente se acuesta; cada vez Bilam la golpea. **(שטן)**, _satan_, significa adversario u oponente; en 22:22 describe la posición del mensajero que resiste el camino, no una explicación completa de toda doctrina posterior sobre Satanás.
 
-El versículo 22 dice algo difícil y decisivo: “se encendió el enojo de Dios porque él iba”. Aunque el permiso del versículo 20 había dicho “ve con ellos”, la narración obliga a distinguir permiso de aprobación. El **מלאך יהוה** (_malakh יהוה_), mensajero de יהוה, se coloca como **לשטן** (_lesatan_), “como adversario/obstáculo”. “Satanás” como nombre propio sería una lectura posterior y más estrecha; aquí la equivalencia normal es “adversario” o “el que se opone”.
+יהוה abre la boca de la asna. Su pregunta —«¿qué te hice para que me golpearas estas tres veces?»— desenmascara la ceguera del profeta. Luego יהוה abre los ojos de Bilam y él ve al mensajero con espada desnuda. La inversión narrativa es parte de la observación de Eric: el animal percibe el peligro antes que el especialista que habla de escuchar a יהוה. Bilam confiesa «he pecado» y ofrece regresar; el mensajero le permite seguir, pero repite el límite: sólo hablará lo que se le diga.
 
-Tres veces el asna ve al mensajero y tres veces Bilam la golpea. La repetición no es decorativa: el vidente resulta más ciego que el animal. Cuando יהוה descubre sus ojos, Bilam ve la espada y reconoce: **חטאתי** (_jatati_), “he pecado”. Pero el arrepentimiento no consiste sólo en admitir culpa; el mensajero le ordena hablar únicamente lo que se le diga. La autoridad profética queda limitada por la escucha.
+La asna no convierte el relato en una fábula sobre animales parlantes ni demuestra por sí sola una teoría universal de revelación. La función local es mostrar que la percepción y la misión están bajo la intervención de יהוה. **(גלה)**, _galah_, significa descubrir o revelar; «abrir los ojos» es una relación directa con la escena y una aplicación pedagógica para la ceguera espiritual.
 
-## Palabra recibida, no mercancía: 22:36-41
+## 22:36-40: palabra controlada ante Balaq
 
-Balaq sale al encuentro y reprocha a Bilam no haber acudido antes. Bilam responde que ahora puede hablar, pero no garantiza el resultado. La escena conserva la tesis de la clase: el don no es propiedad comercial del portador. La palabra puede ser anunciada por un hombre atraído por honor y recompensa, pero no queda sometida a él. El capítulo termina en Bamot-Baal, desde donde Balaq muestra sólo el extremo del pueblo; el próximo capítulo mostrará que cambiar el ángulo no cambia la palabra de יהוה.
+Balaq sale al encuentro y reclama: «¿no podía yo honrarte?». Bilam contesta que ahora que ha venido no tiene poder para decir cualquier cosa: «la palabra que Elohim ponga en mi boca, ésa hablaré». **(דבר)**, _davar_, significa palabra, asunto o cosa; en 22:38 su fuerza es el mensaje que debe ser pronunciado, no una fórmula que Bilam pueda editar.
 
-## Permiso, camino y responsabilidad: una tensión narrativa
-
-La secuencia de los versículos 20–22 merece conservarse completa. Primero Elohim dice: «levántate, ve con ellos», pero añade que Bilam sólo hará la palabra que él hable. Después el narrador afirma que se encendió el enojo de Elohim porque Bilam iba. El permiso para avanzar no convierte el trayecto en aprobación moral. La clase usa esta tensión para advertir que alguien puede repetir una fórmula correcta y, al mismo tiempo, perseguir una recompensa que desordena su camino. Es una aplicación pastoral; el texto sí afirma el enojo y el camino torcido, pero no nos permite leer cada pensamiento privado de Bilam como si estuviera narrado.
-
-## El texto examina al mensajero, no sólo el mensaje
-
-La escena del camino también impide separar “doctrina correcta” de conducta. El OE dice **ויחר אף אלהים כי הולך הוא**: «se encendió el enojo de Elohim porque él iba» (#bamidbar_22_22). El TTH local conserva la aspereza: «se calentó la nariz de Elohim porque él iba». Las dos formulaciones hacen visible que el conflicto no nace de una palabra ya pronunciada contra Israel, sino del trayecto de Bilam después de recibir un límite. La lectura de Eric sobre el lucro encuentra aquí un apoyo narrativo, aunque el versículo no convierte la ira divina en una explicación exhaustiva de cada intención interior.
-
-La repetición de las tres obstrucciones prepara el juicio. El OE presenta **ויגל יהוה את עיני בלעם** y luego **וירא את מלאך יהוה** (#bamidbar_22_31): יהוה descubre los ojos de Bilam y éste ve al mensajero. **(גלה)**, _galah_, significa descubrir, quitar una cobertura o revelar; aquí su fuerza contextual es hacer perceptible una realidad que ya estaba delante del asna. «Iluminar la conciencia» es una equivalencia **pedagógica**, no exacta. El TTH dice que «abrió יהוה los ojos de Bilam», y el relato mantiene la asimetría: el animal había visto, mientras el profeta necesitó que יהוה le permitiera ver.
-
-Por eso **ואפס את הדבר אשר אדבר אליך אתו תדבר**, _ve'efes et hadavar asher adaber eleja oto tedaber_, no es una fórmula decorativa: «sólo la palabra que Yo te hable, ésa hablarás» (#bamidbar_22_35). **(דבר)**, _davar_, significa palabra, asunto o cosa; en esta cláusula designa el contenido que procede del hablante divino. «Mensaje» es una traducción **aproximada** que comunica la función, pero puede ocultar la insistencia del narrador en la palabra concreta. La enseñanza de Eric queda mejor evaluada así: el don no pertenece al profeta como capital privado, y la obediencia se prueba en el camino antes de probarse ante la audiencia.
-
-El TTH conserva la aspereza de la escena: «se calentó la nariz de Elohim porque él iba» y el mensajero de יהוה salió «para serle adversario» (#bamidbar_22_22). Esta formulación no debe suavizarse hasta hacer del mensajero una simple metáfora interior. En el relato, el adversario se planta tres veces, el asna percibe lo que el jinete no percibe y יהוה abre la boca del animal y los ojos de Bilam (#bamidbar_22_23-31). La repetición establece un juicio narrativo: la capacidad de pronunciar oráculos no garantiza discernimiento en el camino.
-
-Cuando Bilam dice **חטאתי** (_jatati_, «he pecado»), reconoce responsabilidad, pero la instrucción decisiva viene después: «nada más la palabra que Yo hable a ti, eso hablarás» (#bamidbar_22_34-35, TTH). «Arrepentimiento» es una aproximación útil, no una descripción exhaustiva de un cambio interior; la acción comprobable es someter la boca a la palabra recibida. Eric conecta esto con el peligro de convertir un don en mercancía. El capítulo respalda el principio en su desenlace: Balaq puede ofrecer honor, sacrificios y una nueva perspectiva, pero Bilam confiesa que no puede hablar cualquier cosa, sino sólo lo que Elohim ponga en su boca (#bamidbar_22_38-40). La narración deja así dos responsabilidades juntas: quien convoca no controla a יהוה, y quien habla en su nombre no queda exento de ser juzgado por su camino.
-
-## Léxico clave
-
-| Forma      | Transliteración | Sentido normal         | Fuerza contextual                        | Equivalencia                                                                                   |
-| ---------- | --------------- | ---------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **(בלק)**  | _Balaq_         | nombre propio          | rey que intenta neutralizar a Israel     | transliteración, etimología pendiente                                                          |
-| **(בלעם)** | _Bilam_         | nombre propio          | profeta convocado por recompensa         | transliteración, etimología pendiente                                                          |
-| **(קהל)**  | _qahal_         | asamblea, congregación | término para una comunidad reunida       | “iglesia” en griego **(ἐκκλησία, ekklesia)** es aproximación pedagógica, no equivalencia total |
-| **(ארה)**  | _'arah_         | maldecir               | invocar daño contra el pueblo            | “separar de la bendición” es inferencia aproximada                                             |
-| **(מלאך)** | _malakh_        | mensajero              | agente que ejecuta el mandato divino     | “ángel” es traducción tradicional y aproximada                                                 |
-| **(שטן)**  | _satan_         | adversario, obstáculo  | el mensajero se opone al camino de Bilam | “Satanás” como nombre propio es una lectura más estrecha                                       |
+El capítulo termina antes de las bendiciones de los capítulos siguientes, pero deja establecido el principio que las gobierna. Balaq ofrece sacrificios y convoca a los príncipes; la escena prepara el enfrentamiento entre expectativa de maldición y palabra de bendición. El título de la clase, «Venced con el bien al mal», se prueba como dirección teológica del arco: el mal planeado no obtiene dominio sobre la palabra que יהוה ha determinado, aunque el capítulo aún esté construyendo la respuesta.
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad            | Observación concreta de la clase                                                                                      | Tratamiento en esta nota                                                                         |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Bamidbar 22:1-6   | Balaq y Bilam no son el mismo personaje; el miedo aparece mientras Israel se acerca a la promesa.                     | Apoyo textual, aclaración de nombres y contexto geográfico.                                      |
-| Bamidbar 22:5-20  | La bendición y la maldición se relacionan con pertenecer o quedar fuera de la promesa; la palabra no puede comprarse. | La primera parte queda calificada como inferencia; la segunda recibe apoyo directo de 22:8 y 18. |
-| Bamidbar 22:22-35 | El lucro y la concupiscencia vuelven ciego al profeta; el asna ve antes que él.                                       | Apoyo narrativo, con cautela sobre la psicología no explícita.                                   |
-| Bamidbar 22:4     | קהל puede leerse como asamblea y acercarse pedagógicamente a ἐκκλησία.                                                | Aclaración léxica: relación aproximada, no identidad histórica o semántica perfecta.             |
+| Perícopa                                 | Observación concreta atribuida a la clase                                                                                      | Prueba y tratamiento                                                                                                                                          |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bamidbar 22:1-12, `youtube:qKWysdkjyQQ`  | La amenaza de Balaq nace del temor y procura una maldición contra Israel, pero יהוה declara al pueblo bendito.                 | Apoyo textual: Moav teme (vv. 3-4), Balaq solicita maldición (vv. 6, 11) y la respuesta divina dice «porque es bendito» (v. 12).                              |
+| Bamidbar 22:15-20, `youtube:qKWysdkjyQQ` | El honor y la riqueza ofrecidos no pueden comprar que Bilam cruce la boca de יהוה.                                             | Apoyo textual: la afirmación de Bilam sobre plata y oro (v. 18) conserva la observación material; la tensión de 22:20 queda como advertencia, no se suaviza.  |
+| Bamidbar 22:21-35, `youtube:qKWysdkjyQQ` | «Vencer con el bien al mal» incluye discernir que la asna ve al mensajero antes que Bilam y que la corrección frena el camino. | Apoyo narrativo y calificación: la escena prueba inversión y límite; la aplicación espiritual es pedagógica, no una definición de toda experiencia profética. |
+| Bamidbar 22:36-40, `youtube:qKWysdkjyQQ` | Bilam sólo puede hablar lo que Elohim ponga en su boca.                                                                        | Apoyo textual directo: 22:38 declara la incapacidad de decir cualquier cosa por cuenta propia; el cumplimiento de la bendición continúa en caps. 23–24.       |
 
-## Conexiones principales
+## Hoja léxica
 
-- Devarim 23:4-6 retoma a Moab y a Bilam desde la memoria de esta amenaza.
-- Nejemia 13:2 recuerda que יהוה convirtió la maldición en bendición.
-- 2 Pedro 2:15-16 y Revelación 2:14 desarrollan la memoria posterior de la codicia de Bilam; son testimonios posteriores, no el significado aislado de cada detalle de Bamidbar 22.
-
-## Pendiente de verificar
-
-- [ ] Cotejar la etimología exacta de בלק y בלעם; la clase advierte incertidumbre y esta nota no la reemplaza por una derivación inventada.
-- [ ] Precisar la variante textual mencionada en la clase sobre “la tierra de su pueblo” y la lectura masorética relacionada con los amonitas.
-- [ ] Verificar con una fuente histórica independiente el mapa propuesto para Petor y Aram-Naharaim.
+| Forma fuente | Transliteración | Sentido normal        | Fuerza contextual                           | Relación                                                        |
+| ------------ | --------------- | --------------------- | ------------------------------------------- | --------------------------------------------------------------- |
+| **(ויגר)**   | _yagar_         | temer                 | Temor de Moav ante el tamaño de Israel      | Directa; no demuestra cobardía individual de todo Moav.         |
+| **(ברך)**    | _baraj_         | bendecir              | Israel ya es declarado bendito en 22:12     | Directa; no una bendición comprable.                            |
+| **(עבר)**    | _avar_          | pasar, cruzar         | Cruzar la boca o límite de יהוה             | Aproximada y contextual.                                        |
+| **(שטן)**    | _satan_         | adversario, oponente  | El mensajero se opone al camino de Bilam    | Directa como función narrativa; no agota usos posteriores.      |
+| **(דבר)**    | _davar_         | palabra, asunto, cosa | Mensaje que Elohim pone en la boca de Bilam | Directa en contexto; «revelación» es una ampliación pedagógica. |
 
 ## Conclusión
 
-Bamidbar 22 desarma la ilusión de que el poder, el miedo o el dinero puedan gobernar la palabra de יהוה. Balaq ve un pueblo y teme; Bilam ve finalmente al mensajero y aprende que incluso su boca está bajo mandato. La enseñanza sobre lucro y concupiscencia encuentra un soporte narrativo fuerte, pero debe permanecer unida a la secuencia textual: la ceguera se demuestra en el camino, la corrección llega por revelación y el profeta sólo queda en su lugar cuando acepta hablar lo que יהוה diga.
+Bamidbar 22 enfrenta temor, honor y dinero con una palabra que no se compra. Eric destaca que el bien vence al mal; el capítulo lo prueba mediante la bendición ya declarada sobre Israel, el límite repetido a Bilam, la asna que ve el peligro y la confesión final: sólo puede hablar lo que Elohim ponga en su boca. La narración no convierte a Bilam en héroe sin tensión, pero sí muestra que Balaq no controla la palabra de יהוה.
+
+## Ver también
+
+- [[bamidbar_25_parashot_2017|Bamidbar 25: idolatría, celo y responsabilidad]]
+- [[bamidbar_19_parashot_2017|Bamidbar 19: pureza, muerte y provisión de limpieza]]
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat Balaq Nm 22:1-25:9 El lucro y la concupiscencia](https://www.youtube.com/watch?v=JynK66A9mn0) (`source_id`: `youtube:JynK66A9mn0`).
+- [Parashat Balaq (2017): Venced con el bien al mal](https://www.youtube.com/watch?v=qKWysdkjyQQ) — source_id: `youtube:qKWysdkjyQQ`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
