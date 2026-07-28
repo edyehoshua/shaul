@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 768,
-  "pending_videos": 190,
-  "transcript_notes": 361,
+  "covered_videos": 771,
+  "pending_videos": 187,
+  "transcript_notes": 362,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -38,7 +38,7 @@
     },
     "Epístolas Romanos y Gálatas (clasificadas desde Uncategorized)": {
       "total": 7,
-      "covered": 3,
+      "covered": 5,
       "lane": "colosenses"
     },
     "Fiestas": {
@@ -133,7 +133,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 29,
+      "covered": 30,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
@@ -143,7 +143,7 @@
     },
     "Romanos": {
       "total": 35,
-      "covered": 33,
+      "covered": 35,
       "lane": "colosenses"
     },
     "Shavuot independiente (balanceado desde Uncategorized)": {
