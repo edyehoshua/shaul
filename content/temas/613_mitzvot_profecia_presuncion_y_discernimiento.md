@@ -79,6 +79,16 @@ Por eso la nota no convierte una disputa de nombres, pronunciación o tradición
 | **(זדון)**   | _zadon_         | presunción, insolencia, deliberación    | Explica la dimensión consciente de imponerse contra lo sabido.                               | «Soberbia» es aproximada y pedagógica, no sinónimo de todo orgullo.         |
 | **(כפר)**    | _kafar_         | cubrir, negar, renunciar según contexto | Se acerca temáticamente a la acusación de negar una lealtad, no define por sí solo «hereje». | Relación pedagógica; requiere cotejo léxico y contextual adicional.         |
 
+## La severidad del texto y el límite de la aplicación
+
+La exposición de Eric cuestiona que una lista posterior pueda convertir cada encabezado en una orden independiente y que la pena de Deuteronomio 18 se traslade mecánicamente a cualquier error religioso. Esta observación no elimina la severidad del texto: **(מות)**, _mavet_, significa muerte o morir, y en la fórmula de la Torah nombra una sanción judicial real dentro de Israel. Su fuerza es **directa** en el pasaje, pero aplicarla hoy como autorización privada sería una inferencia ilegítima. La comunidad debe distinguir descripción normativa antigua, identificación probada del delito y aplicación pastoral contemporánea.
+
+La misma proporción vale para la palabra «herejía». La clase la usa para describir el cambio consciente de una creencia fundamental y la presenta como algo que puede preceder a la apostasía. **(ἀποστασία)**, _apostasia_, significa apartamiento, deserción o abandono; en esta nota funciona como término comparativo para explicar la secuencia pastoral de Eric, no como si Deuteronomio 18 usara el sustantivo griego. La relación entre **(αἵρεσις)**, _hairesis_, «elección, partido o escuela», y «herejía» es **aproximada y pedagógica**: el sentido técnico posterior no debe usarse para condenar toda diferencia secundaria.
+
+La lectura de Mateo 7:15-20 añade fruto, pero el fruto tampoco sustituye la prueba doctrinal. **(ψευδοπροφήτης)**, _pseudoprophētēs_, significa falso profeta; en el pasaje de Mateo identifica a quien se acerca con apariencia de oveja y cuyo fruto termina revelándolo. «Falso profeta» es una glosa **directa** en ese contexto, mientras identificar a una persona contemporánea requiere examinar mensaje, conducta, tiempo y dirección de la enseñanza. Primera Juan 4:1-3 manda probar los espíritus mediante la confesión acerca de Yehoshua; la prueba es firme, pero no permite convertir una sospecha personal en sentencia.
+
+Por tanto, la clase recibe **apoyo textual cualificado** en tres puntos: la palabra reclamada en nombre de יהוה debe ser examinada, la presunción no es idéntica a todo error involuntario y las creencias centrales no deben alterarse con manipulación. Requiere **calificación** cuando aplica la etiqueta «herejía» a un interlocutor concreto o cuando una pena antigua se convierte en programa actual. El discernimiento bíblico protege la verdad sin entregar a la comunidad un poder de violencia o de condena que el texto no le concede.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la enumeración exacta de las mitzvot 26-30 en la obra de Maimónides y separar sus encabezados de las aplicaciones de la clase.
