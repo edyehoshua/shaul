@@ -92,7 +92,9 @@ El relato pasa de una disputa de adultos a quienes los discípulos llaman «sier
 
 La clase menciona edades de mayoría en la costumbre judía al hablar de niños. Eso puede iluminar el mundo social del siglo I; Marcos no convierte el pasaje en una tabla de bar/bat mitzváh. El centro sigue siendo la indignación de Yehoshua y la bendición con imposición de manos (#markos_10_16).
 
-## El hombre de muchas posesiones y el bien que no se compra (10:17-27)
+La forma **(παιδίον)**, _paidion_, no funciona aquí como una teoría sobre inocencia perfecta. El niño aparece como alguien a quien los discípulos pueden impedir el acceso y a quien Yehoshua recibe; el punto de comparación está en recibir el reino, no en convertir la dependencia infantil en una virtud para toda relación adulta. La observación de Eric sobre un reino que no se administra como rango queda así respaldada por la acción de los discípulos y la corrección pública del maestro. El texto tampoco autoriza a usar «como un niño» para silenciar preguntas, negar discernimiento o justificar dependencia abusiva.
+
+## La riqueza expuesta por el seguimiento
 
 Eric observa con cuidado la pregunta del hombre. No se limita a un piropo: pregunta qué bien hará para heredar vida perpetua (#markos_10_17). La respuesta «ningún hombre es bueno, sino uno, Elohim» (#markos_10_18) no es un juego de cortesía. La clase la conecta con la necesidad de no atribuir a ninguna criatura la bondad autosuficiente; #tehilim_14 sostiene esa denuncia, y #tehilim_103 impide concluir en desesperación sin misericordia.
 

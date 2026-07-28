@@ -111,13 +111,14 @@ El cierre repite una tensión que atraviesa Marcos: Yehoshua manda no divulgarlo
 La lectura de Eric sobre tradición y mandamiento debe conservar el movimiento de la perícopa. Marcos primero presenta la acusación sobre manos no lavadas y luego cita el mandamiento de honrar al padre y a la madre (#markos_7_1-13). La palabra **(κορβᾶν)**, _korban_, «ofrenda o don dedicado», no significa por sí sola una institución completa de abuso; su fuerza narrativa aparece cuando una declaración de dedicación se usa para evitar la ayuda debida. El verbo **(ἀκυρόω)**, _akuroō_, «invalidar o dejar sin efecto», describe el resultado que Yehoshua atribuye a esa tradición: la práctica no es juzgada solo por su apariencia ritual, sino por el mandamiento que desplaza.
 
 Después, Yehoshua llama a la multitud y desplaza la discusión desde lo que entra en la persona hacia lo que sale del corazón (#markos_7_14-23). La palabra **(κοινόω)**, _koinoō_, «hacer común o profanar», nombra la contaminación en la explicación del relato, mientras **(καρδία)**, _kardia_, «corazón», es el centro del que proceden pensamientos, engaño, orgullo y otras acciones. La observación de Eric sobre no confundir higiene con maldad queda así apoyada; la conclusión exacta sobre 7:19 debe seguir dependiendo de la sintaxis y de la variante textual.
-
 La tercera escena mantiene la tensión de la mesa. La mujer sirofenicia no borra el orden expresado por Yehoshua —primero los hijos, luego los perritos—, sino que responde dentro de esa imagen y recibe la liberación de su hija (#markos_7_24-30). La palabra **(κυνάρια)**, _kynaria_, «perritos» o perros domésticos pequeños, conserva el diminutivo del texto; no autoriza a convertir el diálogo en una descalificación étnica universal. En la escena final, el mandato arameo **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», produce oídos abiertos y lengua desatada (#markos_7_31-37). El capítulo pasa de una tradición que bloquea el bien a una palabra que restaura la escucha y el habla: esa es una dependencia narrativa más firme que cualquier fórmula reproducible basada en los gestos.
+
 ## Mapa de la enseñanza de Eric
 
-- **Marcos 7:1-13 — tradición y corbán:** la clase distingue higiene de la acusación de impureza y denuncia una tradición que desplaza el mandamiento; la nota la apoya con el caso concreto de ayudar a padre y madre.
+- **Marcos 7:1-13 — tradición y corbán:** Eric distingue la higiene de la impureza ritual y denuncia una tradición que desplaza el mandamiento; la nota lo apoya con el caso concreto de ayudar a padre y madre.
 - **Marcos 7:14-23 — corazón y contaminación:** Eric discute la lectura alimentaria de 7:19; la nota sigue el contexto de manos y corazón y deja la sintaxis griega como verificación pendiente.
-- **Marcos 7:24-37 — mesa y apertura:** la clase observa la prioridad de la mesa y explica **(ܐܬܦܬܚ)**; la nota sostiene la misericordia concedida y aclara la relación arameo-hebreo como aproximada.
+- **Marcos 7:24-30 — prioridad y misericordia:** Eric lee el «primero» de los hijos como prioridad de la misión y observa que la mujer responde dentro de la imagen de la mesa; la nota conserva la misericordia concedida y deja las reconstrucciones históricas como pendientes.
+- **Marcos 7:31-37 — abrir oídos y lengua:** Eric explica **(ܐܬܦܬܚ)** como orden aramea y advierte que los gestos no son una fórmula repetible; la nota sostiene el resultado textual y marca la relación arameo-hebreo como aproximada.
 
 ## Pendiente de verificar
 
