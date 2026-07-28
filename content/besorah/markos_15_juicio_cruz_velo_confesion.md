@@ -116,6 +116,14 @@ En 15:29-34 la injuria y el grito deben seguir el texto, no una reconstrucción 
 
 La escena termina con dos signos en orden. **ἐσχίσθη**, _eschisthē_, «fue rasgado», es un pasivo que coloca el velo rasgado de arriba abajo después de la muerte; luego el centurión confiesa **υἱὸς θεοῦ**, _huios theou_, «Hijo de Elohim». Eric relaciona el velo con el acceso al Hejal y la confesión con la revelación ante un gentil. Son inferencias intertextuales coherentes con la posición narrativa, no equivalencias automáticas de **καταπέτασμα** ni un credo completo contenido en una sola frase. El control textual conserva así la fuerza de la observación sin perder la diferencia entre descripción, eco escritural y conclusión teológica.
 
+## Control textual del clamor y la realeza (15:1-39)
+
+La lectura de Eric gana precisión si se mantiene la progresión de Marcos. Primero Pilato pregunta por el título **βασιλεὺς**, _basileus_, «rey»; después los soldados lo convierten en saludo de burla; finalmente el letrero vuelve a fijarlo sobre la cruz. El sustantivo no decide por sí solo si Pilato, los soldados o el narrador comparten la misma comprensión de la realeza, pero su repetición hace imposible tratarlo como un detalle incidental. La alternativa narrativa también es concreta: Baraba es soltado, mientras Yehoshua es entregado para **σταυρῶσαι**, _staurōsai_, «crucificar».
+
+En 15:29-34 la injuria y el grito deben seguir el texto, no una reconstrucción aislada. **βλασφημοῦντες**, _blasphēmountes_, «injuriando o blasfemando», describe la acción de quienes pasan y sacuden la cabeza; **σῶσον σεαυτόν**, «sálvate a ti mismo», formula la provocación; y **ἐκραύγασεν**, _ekraugasen_, «clamó», registra el grito final. La forma hebrea **(עזבתני)**, _azavtani_, es la palabra «me dejaste o abandonaste» del salmo citado; la clase propone escuchar el salmo completo, pero esa propuesta no permite cambiar la forma a futuro ni convertir el verbo griego en una definición doctrinal del abandono.
+
+La escena termina con dos signos en orden. **ἐσχίσθη**, _eschisthē_, «fue rasgado», es un pasivo que coloca el velo rasgado de arriba abajo después de la muerte; luego el centurión confiesa **υἱὸς θεοῦ**, _huios theou_, «Hijo de Elohim». Eric relaciona el velo con el acceso al Hejal y la confesión con la revelación ante un gentil. Son inferencias intertextuales coherentes con la posición narrativa, no equivalencias automáticas de **καταπέτασμα** ni un credo completo contenido en una sola frase. El control textual conserva así la fuerza de la observación sin perder la diferencia entre descripción, eco escritural y conclusión teológica.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la propuesta de leer #tehilim_22_1 / #markos_15_34 con matiz de futuro o de no-abandono consumado frente a la gramática masorética y las versiones antiguas.
