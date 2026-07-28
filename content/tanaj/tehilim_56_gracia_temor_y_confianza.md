@@ -73,6 +73,15 @@ El cierre no termina en el enemigo: hay votos, acciones de gracias y el deseo de
 | **אבטח / בטחתי**     | _evtaḥ / bataḥti_      | confiaré / he confiado  | La confianza se afirma en la oración; no debe simplificarse como ausencia de temor.                                               |
 | **אנוש / אדם / בשר** | _enosh / adam / basar_ | humano / hombre / carne | Las distinciones léxicas que propone la clase necesitan cotejo adicional antes de convertirlas en categorías doctrinales rígidas. |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| Tehilim 56:1-3 | Eric sitúa la súplica de gracia en la experiencia de David perseguido por los filisteos en Gat y la presenta como una petición dirigida a Elohim, no como una primera reacción de venganza. | Apoyo textual: se conserva el encabezado y la petición **חנני**; la reconstrucción narrativa se mantiene vinculada al encabezado y a #samuel1_21_10-15. |
+| Tehilim 56:4-5 | La clase insiste en que reconocer «el día que temo» no contradice la confianza; la respuesta es alabar la palabra de Elohim y preguntar qué puede hacer la carne. | Apoyo textual y aclaración léxica: temor y confianza aparecen juntos; la aplicación no se convierte en promesa de ausencia de sufrimiento. |
+| Tehilim 56:9-10 | Eric usa las lágrimas y el registro de las huidas para enseñar que la aflicción es conocida por Elohim y que el clamor puede afirmar: «Elohim está conmigo». | Apoyo textual con inferencia pastoral cualificada: la imagen del odre expresa memoria divina del dolor, sin explicar mecánicamente cada padecimiento. |
+| Tehilim 56:11-14 | La enseñanza lleva la confianza hacia votos, gratitud y el caminar delante de Elohim en la luz de los vivientes; la liberación recibida produce una vida agradecida. | Apoyo textual: se sigue el cierre en orden y se distingue la gratitud del intercambio comercial o de una garantía de liberación inmediata. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el sentido preciso de **יונת אלם רחקים** y **מכתם** con léxicos, versiones antiguas y estudios especializados; la clase reconoce la incertidumbre de estas expresiones.
