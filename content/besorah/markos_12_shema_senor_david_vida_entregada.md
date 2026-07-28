@@ -1,6 +1,6 @@
 ---
-title: "Marcos 12: resurrección, Shemá, Señor de David y vida entregada"
-description: "Estudio canónico de Marcos 12:18-44: tzedukim y resurrección, Shemá, el Señor de David y la ofrenda de la viuda."
+title: "Marcos 12: el Shemá, el Señor de David y una vida entregada"
+description: "Estudio canónico de Marcos 12:28-44 sobre el Shemá, el amor que supera el sacrificio, el Señor de David y la ofrenda de la viuda."
 date: 2026-07-27
 tags:
   - markos
@@ -10,13 +10,7 @@ tags:
   - tehilim_110
   - ofrenda
   - mesias
-  - resurreccion
 references:
-  - "#markos_12_18"
-  - "#markos_12_24"
-  - "#markos_12_25"
-  - "#markos_12_26"
-  - "#markos_12_27"
   - "#markos_12_28"
   - "#markos_12_29"
   - "#markos_12_30"
@@ -33,76 +27,57 @@ references:
   - "#markos_12_44"
   - "#devarim_6_4"
   - "#devarim_6_5"
-  - "#devarim_25_5"
   - "#vaikra_19_18"
   - "#tehilim_110_1"
-  - "#shemot_3_6"
 sources:
-  - "https://www.youtube.com/watch?v=pANyVs_rkmU"
   - "https://www.youtube.com/watch?v=zaeuqpePDmc"
   - "https://www.youtube.com/watch?v=dh5VYLTt5v4"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/devarim.json"
   - "docs/scriptures/tth/json/vaikra.json"
   - "docs/scriptures/tth/json/tehilim.json"
-  - "docs/scriptures/tth/json/shemot.json"
 translation: "[TTH]"
 source_ids:
-  - "youtube:pANyVs_rkmU"
   - "youtube:zaeuqpePDmc"
   - "youtube:dh5VYLTt5v4"
 ---
 
 # Tesis
 
-Marcos 12 no usa las controversias del templo para cerrar discusiones académicas. Yehoshua corrige a los tzedukim que imaginan la resurrección como una simple prolongación del levirato, reúne el amor indivisible a יהוה y el amor al prójimo, pregunta cómo el Mesías puede ser solo hijo de David cuando David mismo lo llama Señor, desenmascara una piedad que devora casas y termina mirando la ofrenda de una viuda. La clase del hermano Eric relaciona estas escenas con Escritura, poder de Elohim e identidad del Mesías; esta nota conserva sus propuestas y distingue la afirmación narrativa de Marcos de las elaboraciones que requieren mayor comprobación.
+Marcos 12:28-44 no usa el Shemá para cerrar una discusión académica. Yehoshua reúne el amor indivisible a יהוה y el amor al prójimo, desenmascara una piedad que devora casas mientras busca prestigio y termina mirando una ofrenda pequeña que procede de toda la subsistencia de una viuda. Entre esos extremos, pregunta cómo el Mesías puede ser solo hijo de David cuando David mismo lo llama Señor. La clase del hermano Eric relaciona estas escenas con una lectura unitaria de la identidad del Mesías; esta nota conserva su propuesta, pero distingue con cuidado la afirmación narrativa de Marcos de las conclusiones doctrinales y lexicales que requieren mayor comprobación.
 
 ## Alcance de la nota
 
-- La nota organiza las partes 37, 38 y 39 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**: matrimonios y resurrección (12:18-27), Shemá y Salmo 110 (12:28-37) y su continuación.
-- Eric observa que el error de los tzedukim es ignorar Escritura y poder; que la pregunta por el mandamiento principal examina conocimiento y peso de las mitzvot; y que el Shemá y el Salmo 110 interpelan la identidad del Mesías.
-- La transcripción automática no se trata como cita literal. Afirmaciones sobre herodianos, “dos poderes”, Zóhar, genealogías y una interpretación exclusivamente no humana del Mesías quedan delimitadas.
-- Los textos de la hoja de comparación se tomaron del corpus local TTH. La parte inicial del capítulo (12:1-17) no cuenta aquí con clase exclusiva adicional y no se inventa.
+- La nota organiza las partes 38 y 39 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**, dedicadas a 12:28-37 y a su continuación en el capítulo.
+- Eric observa que la pregunta por el mandamiento principal examina tanto el conocimiento de Torah como la capacidad de pesar sus mandamientos; luego conecta el Shemá, el Salmo 110 y la identidad del Mesías.
+- La transcripción automática no se trata como cita literal. Las afirmaciones sobre “dos poderes”, Zóhar, genealogías, tradiciones rabínicas y una interpretación exclusivamente no humana del Mesías quedan explícitamente delimitadas y no se usan como base independiente de la conclusión.
+- Los textos de la hoja de comparación se tomaron del corpus local TTH.
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la lectura |
-| --- | --- | --- |
-| #markos_12_18-23 | TTH: los tzedukim, que niegan el levantamiento, plantean el caso de siete hermanos y una mujer según el levirato. | La objeción usa #devarim_25_5-6 como trampa contra la resurrección. |
-| #devarim_25_5-6 | TTH: el cuñado toma a la viuda sin hijo para levantar el nombre del muerto. | Fuente de la ley que ellos citan. |
-| #markos_12_24-27 | TTH: erran por no conocer la Escritura ni el poder de Elohim; al levantarse no se casan en levirato; Elohim de Abraham, Itzjak y Iaacob es Elohim de vivos. | La respuesta une poder escatológico y lectura de #shemot_3_6. |
-| #shemot_3_6 | TTH: «Yo soy el Elohim de tu padre, el Elohim de Abraham, el Elohim de Itzjak y el Elohim de Yaakov». | Texto que Yehoshua usa para afirmar vivos, no muertos. |
-| #markos_12_28-31 | TTH: un escriba pregunta cuál mitzváh es primera; Yehoshua responde: «Escucha, Israel: יהוה nuestro Elohim, יהוה uno es» y manda amar a יהוה con todo el corazón, *nefesh*, mente y fuerza; añade amar al prójimo como a uno mismo. | La respuesta une el Shemá con la responsabilidad concreta hacia el prójimo. |
-| #devarim_6_4-5 | TTH: «Escucha, Israel, יהוה nuestro Elohim, יהוה uno es. Y amarás a יהוה tu Elohim con todo tu corazón, con toda tu alma y con toda tu fuerza». | Marcos cita y expande la confesión de Devarim en un diálogo público. |
-| #vaikra_19_18 | TTH: «amarás a tu prójimo como a ti mismo». | El segundo mandamiento no compite con el primero: muestra su fruto comunitario. |
-| #markos_12_33-34 | TTH: amar con todo el corazón, entendimiento y fuerza, y amar al prójimo, «es mucho más importante que todas las ofrendas y sacrificios»; Yehoshua dice: «No estás lejos del reino». | El escriba acepta que el amor obediente pesa más que una religiosidad sacrificial separada de él. |
-| #markos_12_35-37 | TTH: Yehoshua pregunta cómo dicen los escribas que el Mesías es hijo de David; David dice: «Dijo יהוה a mi Señor: Siéntate a mi diestra». | La pregunta obliga a pensar la relación entre filiación davídica, señorío y el Salmo 110. |
-| #tehilim_110_1 | TTH: «Dijo יהוה a mi Adón: Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies». | Marco de la pregunta de Yehoshua; el salmo conserva dos designaciones que no deben simplificarse. |
-| #markos_12_38-40 | TTH advierte sobre escribas que desean saludos, primeros asientos y devoran casas de viudas mientras aparentan orar largamente. | El estatus religioso queda bajo juicio cuando se convierte en explotación. |
-| #markos_12_41-44 | TTH: una viuda pobre echa dos monedas pequeñas; Yehoshua afirma que echó más que todos porque los otros dieron de su abundancia y ella dio «todo lo que tenía, toda su vida». | La escena concreta encarna una entrega que no se mide por la suma visible. |
+| Referencia       | Texto local                                                                                                                                                                                                                         | Función en la lectura                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| #markos_12_28-31 | TTH: un escriba pregunta cuál mitzváh es primera; Yehoshua responde: «Escucha, Israel: יהוה nuestro Elohim, יהוה uno es» y manda amar a יהוה con todo el corazón, _nefesh_, mente y fuerza; añade amar al prójimo como a uno mismo. | La respuesta une el Shemá con la responsabilidad concreta hacia el prójimo.                       |
+| #devarim_6_4-5   | TTH: «Escucha, Israel, יהוה nuestro Elohim, יהוה uno es. Y amarás a יהוה tu Elohim con todo tu corazón, con toda tu alma y con toda tu fuerza».                                                                                     | Marcos cita y expande la confesión de Devarim en un diálogo público.                              |
+| #vaikra_19_18    | TTH: «amarás a tu prójimo como a ti mismo».                                                                                                                                                                                         | El segundo mandamiento no compite con el primero: muestra su fruto comunitario.                   |
+| #markos_12_33-34 | TTH: amar con todo el corazón, entendimiento y fuerza, y amar al prójimo, «es mucho más importante que todas las ofrendas y sacrificios»; Yehoshua dice: «No estás lejos del reino».                                                | El escriba acepta que el amor obediente pesa más que una religiosidad sacrificial separada de él. |
+| #markos_12_35-37 | TTH: Yehoshua pregunta cómo dicen los escribas que el Mesías es hijo de David; David dice: «Dijo יהוה a mi Señor: Siéntate a mi diestra».                                                                                           | La pregunta obliga a pensar la relación entre filiación davídica, señorío y el Salmo 110.         |
+| #tehilim_110_1   | TTH: «Dijo יהוה a mi Adón: Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies».                                                                                                                          | Marco de la pregunta de Yehoshua; el salmo conserva dos designaciones que no deben simplificarse. |
+| #markos_12_38-40 | TTH advierte sobre escribas que desean saludos, primeros asientos y devoran casas de viudas mientras aparentan orar largamente.                                                                                                     | El estatus religioso queda bajo juicio cuando se convierte en explotación.                        |
+| #markos_12_41-44 | TTH: una viuda pobre echa dos monedas pequeñas; Yehoshua afirma que echó más que todos porque los otros dieron de su abundancia y ella dio «todo lo que tenía, toda su vida».                                                       | La escena concreta encarna una entrega que no se mide por la suma visible.                        |
 
 ## Léxico clave
 
-| Forma | Transliteración | Sentido en la nota | Equivalencia | Contexto y cautela |
-| --- | --- | --- | --- | --- |
-| **(שמע)** | shema | escucha que recibe, atiende y responde | Aproximada en español | En #devarim_6_4 abre la confesión. La clase acierta al no reducirlo a sonido, pero el alcance “obedecer” debe explicarse por el contexto y no imponerse a cada aparición. |
-| **(אחד)** | ejad | uno | Léxica básica | La clase propone “indivisible”. El término afirma unidad en el Shemá; la precisión filosófica de “indivisible” es una elaboración pedagógica, no una glosa exhaustiva automática. |
-| **(לבב)** | levav | corazón, centro interior | Aproximada | En Devarim no equivale al órgano físico ni se reduce al sentimiento moderno; participa en el amar a יהוה con la persona entera. |
-| **(נפש)** | nefesh | vida, ser viviente, persona; según contexto | Aproximada | Marcos conserva griego y TTH traduce “alma”. La clase prefiere leer el compromiso vital; esa correspondencia hebrea ilumina el Shemá, pero no reemplaza el análisis del griego de Marcos. |
-| **(דעה)** / **(διάνοια)** | deah / dianoia | conocimiento, comprensión / mente, entendimiento | Aproximada | Eric observa la adición de “mente” en Marcos. No debe afirmarse sin más que una palabra traduce exactamente la otra: el evangelio interpreta el Shemá en griego. |
-| **(מאד)** | meod | mucho, grandemente; en Devarim, fuerza o recursos | Aproximada | La clase lo vincula con bienes y capacidad. Es una aplicación posible del amor total, pero requiere cotejo de la tradición interpretativa antes de fijarla como único sentido. |
-| **(אדני)** | adoni | mi señor | Léxica | En #tehilim_110_1 distingue la forma dirigida al “señor” de la forma del nombre divino. La pregunta de Marcos exige atender a esa relación, no borrar la diferencia por una traducción uniforme. |
-| **(זרע)** | zera | semilla, simiente, descendencia según contexto | Léxica contextual | La clase lo concentra en una sola “semilla” mesiánica. #galatim_3_16 ofrece una lectura apostólica importante, pero no permite convertir cada uso singular de **(זרע)** en una referencia automática al Mesías. |
-| **(יבום)** / levirato | yibum | deber del cuñado de levantar nombre al hermano muerto | Marco de la objeción de los tzedukim. | Exacta como institución de #devarim_25_5; no define por sí sola la vida resucitada. |
-| **(ἀνάστασις)** | anastasis | levantamiento, resurrección | Negada por los tzedukim y afirmada por Yehoshua con Escritura y poder. | Aproximada; no se reduce a reanimación biológica simple. |
-
-## Tzedukim, levirato y el Elohim de los vivos (12:18-27)
-
-Eric sitúa la escena después de otras pruebas en el templo y lee el caso de los siete hermanos como una trampa lógica: si la resurrección prolongara tal cual las obligaciones del levirato, ¿de quién sería la mujer? La clase acierta al llevar al oyente a #devarim_25_5-6: la Torah ordena que el cuñado tome a la viuda sin hijo para que el nombre del muerto no se borre de Israel. El error no está en citar la ley, sino en imaginar el olam venidero como una simple extensión del arreglo presente.
-
-Yehoshua responde: «¿No erran por eso, porque no conocen la Escritura ni el poder de Elohim?» (#markos_12_24). Eric insiste en ese doble desconocimiento. El texto lo confirma. Luego declara que cuando se levanten de los muertos no tomarán ni se casarán en levirato, sino que serán como los ángeles en los cielos (#markos_12_25). La clase aclara que Yehoshua habla de «ellos» en el marco de la objeción, no dicta aquí un tratado completo sobre toda relación en la renovación de todas las cosas. Esa cautela es útil: el versículo desmonta la premisa saducea; no autoriza a convertir cada detalle escatológico en sistema cerrado.
-
-Sobre los muertos que han de levantarse, cita el libro de Moshéh y la zarza: Elohim de Abraham, de Itzjak y de Iaacob; «Elohim no es Elohim de los muertos, sino Elohim de los vivos» (#markos_12_26-27; #shemot_3_6). Eric remata con la fuerza de esa confesión: la relación de יהוה con los patriarcas no se enuncia como memoria de cadáveres. El texto local sostiene esa lectura. Las elaboraciones adicionales de la clase sobre grupos políticos cercanos a los saduceos quedan como color histórico a verificar.
+| Forma                     | Transliteración | Sentido en la nota                                | Equivalencia          | Contexto y cautela                                                                                                                                                                                              |
+| ------------------------- | --------------- | ------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(שמע)**                 | shema           | escucha que recibe, atiende y responde            | Aproximada en español | En #devarim_6_4 abre la confesión. La clase acierta al no reducirlo a sonido, pero el alcance “obedecer” debe explicarse por el contexto y no imponerse a cada aparición.                                       |
+| **(אחד)**                 | ejad            | uno                                               | Léxica básica         | La clase propone “indivisible”. El término afirma unidad en el Shemá; la precisión filosófica de “indivisible” es una elaboración pedagógica, no una glosa exhaustiva automática.                               |
+| **(לבב)**                 | levav           | corazón, centro interior                          | Aproximada            | En Devarim no equivale al órgano físico ni se reduce al sentimiento moderno; participa en el amar a יהוה con la persona entera.                                                                                 |
+| **(נפש)**                 | nefesh          | vida, ser viviente, persona; según contexto       | Aproximada            | Marcos conserva griego y TTH traduce “alma”. La clase prefiere leer el compromiso vital; esa correspondencia hebrea ilumina el Shemá, pero no reemplaza el análisis del griego de Marcos.                       |
+| **(דעה)** / **(διάνοια)** | deah / dianoia  | conocimiento, comprensión / mente, entendimiento  | Aproximada            | Eric observa la adición de “mente” en Marcos. No debe afirmarse sin más que una palabra traduce exactamente la otra: el evangelio interpreta el Shemá en griego.                                                |
+| **(מאד)**                 | meod            | mucho, grandemente; en Devarim, fuerza o recursos | Aproximada            | La clase lo vincula con bienes y capacidad. Es una aplicación posible del amor total, pero requiere cotejo de la tradición interpretativa antes de fijarla como único sentido.                                  |
+| **(אדני)**                | adoni           | mi señor                                          | Léxica                | En #tehilim_110_1 distingue la forma dirigida al “señor” de la forma del nombre divino. La pregunta de Marcos exige atender a esa relación, no borrar la diferencia por una traducción uniforme.                |
+| **(זרע)**                 | zera            | semilla, simiente, descendencia según contexto    | Léxica contextual     | La clase lo concentra en una sola “semilla” mesiánica. #galatim_3_16 ofrece una lectura apostólica importante, pero no permite convertir cada uso singular de **(זרע)** en una referencia automática al Mesías. |
 
 ## El Shemá y el amor que ordena la vida (12:28-34)
 
@@ -128,13 +103,6 @@ Entonces Yehoshua observa el arca de las ofrendas. La clase insiste en que la vi
 
 La cercanía literaria importa. El relato acaba de denunciar a quienes devoran casas de viudas; enseguida muestra a una viuda que entrega todo en el templo. Por eso no es responsable usar este pasaje para presionar económicamente a personas vulnerables. La admiración de Yehoshua revela el valor de su entrega; la advertencia anterior exige que toda comunidad examine si protege o consume a quienes poseen menos.
 
-## Mapa de la enseñanza de Eric
-
-- **Marcos 12:18-27 — tzedukim y resurrección:** la parte 37 expone el levirato como trampa y la respuesta por Escritura y poder; la nota lo ancla en Devarim 25 y Shemot 3, y califica el alcance de «como los ángeles».
-- **Marcos 12:28-34 — Shemá y prójimo:** Eric presenta el mandamiento mayor como una prueba de conocimiento y obediencia; la nota lo sostiene con Devarim y Vayiqra, y califica sus expansiones léxicas.
-- **Marcos 12:35-37 — Señor de David:** la clase conecta el Salmo 110 con una lectura unitaria de la identidad del Mesías; la nota conserva la pregunta narrativa y limita la conclusión metafísica no demostrada por el término **(אדני)**.
-- **Marcos 12:38-44 — viudas y ofrenda:** Eric resalta la totalidad de la entrega de la viuda; la nota la apoya con el contraste del texto e impide usarla para exigir recursos a personas vulnerables.
-
 ## Pendiente de verificar
 
 - [ ] Cotejar el rango de **(אחד)** en #devarim_6_4 antes de presentar “indivisible” como más que una aplicación teológica.
@@ -144,21 +112,25 @@ La cercanía literaria importa. El relato acaba de denunciar a quienes devoran c
 - [ ] Examinar la lectura de #tehilim_110_1 y las genealogías de Yehoshua sin resolver el pasaje mediante la afirmación no cotejada de que el Mesías no puede ser humano.
 - [ ] Cotejar los usos de **(זרע)** en las promesas bíblicas y la argumentación de #galatim_3_16 antes de universalizar una regla singular = Mesías.
 
+## Mapa de la enseñanza de Eric
+
+- **Marcos 12:28-34 — Shemá, mitzváh y amor:** Eric presenta la pregunta del escriba como una prueba de si se sabe pesar la Torah y relaciona **(שמע)** con una escucha que compromete la vida. La nota lo apoya en la secuencia Shemá–amor al prójimo y califica “indivisible” como desarrollo pedagógico de **(אחד)**.
+- **Marcos 12:35-37 — hijo de David y Señor:** la clase usa #tehilim_110_1 para cuestionar una lectura meramente genealógica del Mesías y lo vincula con una confesión unitaria de יהוה. La nota conserva la tensión textual entre «hijo de David», «Dijo יהוה» y «mi Señor», pero deja la conclusión doctrinal más amplia como interpretación del expositor.
+- **Marcos 12:38-44 — escribas y viuda:** Eric contrasta la autoridad que consume casas con la entrega total de la viuda. La nota prueba el contraste en el orden narrativo y evita convertir las dos monedas en una exigencia económica para personas vulnerables.
+
 ## Conclusión
 
-Marcos 12 une poder de resurrección, Shemá y medida de la ofrenda. Los tzedukim tropiezan al proyectar el levirato sobre el olam venidero; Yehoshua los devuelve a la Escritura y al Elohim de los vivos. Luego el amor a יהוה y al prójimo ordena la vida, la pregunta por el Señor de David impide reducir al Mesías a una dinastía manejable, y la viuda revela una grandeza que no se compra con abundancia. La lectura de Eric aporta observaciones concretas; permanece sujeta al texto y a la verificación de sus conexiones históricas y doctrinales.
+Marcos 12 ordena la vida desde el Shemá: amar a יהוה y amar al prójimo son inseparables. La pregunta por el Señor de David impide reducir al Mesías a una expectativa dinástica manejable, mientras la condena de los escribas revela que el conocimiento religioso puede corromperse cuando busca honor y consume a los débiles. La viuda concluye el capítulo con una medida distinta de grandeza: no la abundancia visible, sino una entrega que Yehoshua ve en toda su verdad. La lectura de Eric sobre unidad, origen y semilla aporta preguntas teológicas relevantes; debe permanecer sujeta al texto y a la verificación de sus conexiones lingüísticas e históricas.
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [El Evangelio según Marcos, parte 37: capítulo 12, matrimonios aquí y en el mundo venidero](https://www.youtube.com/watch?v=pANyVs_rkmU) (`source_id`: `youtube:pANyVs_rkmU`).
 - Video: [Evangelio según Marco, parte 38: cap. 12:28-37, el Shmá y el Salmo 110](https://www.youtube.com/watch?v=zaeuqpePDmc) (`source_id`: `youtube:zaeuqpePDmc`).
 - Video: [Evangelio según Marcos, parte 39: YHWH–Yehoshua, Señor y Dios](https://www.youtube.com/watch?v=dh5VYLTt5v4) (`source_id`: `youtube:dh5VYLTt5v4`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
-- [[markos_11_rey_higuera_casa_oracion_autoridad|Marcos 11: rey, higuera, casa de oración y autoridad]]
 - [[markos_13_vigilancia_hijo_hombre_palabra|Marcos 13: vigilancia, Hijo del Hombre y la palabra inamovible]]
 - [[markos_hijo_elohim_hijo_hombre_herencia|Marcos: Hijo de Elohim, Hijo del Hombre y herencia]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]

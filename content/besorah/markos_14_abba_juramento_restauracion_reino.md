@@ -47,7 +47,7 @@ La clase presenta **Abba** como una forma pedagógica de nombrar la condición i
 
 ## Alcance de la nota
 
-- Fuente principal: *Evangelio según Marco Parte 14 - «Abá» - La sabiduría de lo Alto, El trono de la Majestad*, clase de Eric de Jesús Rodríguez Mendoza.
+- Fuente principal: _Evangelio según Marco Parte 14 - «Abá» - La sabiduría de lo Alto, El trono de la Majestad_, clase de Eric de Jesús Rodríguez Mendoza.
 - La nota organiza la transcripción automática y conserva el argumento del expositor sin convertirlo en cita literal.
 - La clase continúa [[markos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]. Aquí el foco se desplaza hacia el juramento de restauración, el rescate de la descendencia de Abraham y la entrega final del reino.
 - La identificación de **Abba** con “juramento”, “sabiduría de lo alto” y “condición ideal” es el esquema teológico de la clase. No se presenta como significado léxico directo del arameo **(אבא)**.
@@ -55,42 +55,42 @@ La clase presenta **Abba** como una forma pedagógica de nombrar la condición i
 
 ## Ruta de la clase
 
-| Momento aproximado | Tema | Función en el argumento |
-| --- | --- | --- |
-| 00:00-09:40 | Abba como principio y condición ideal | Recapitula **av/abba** como origen o principal y lo relaciona con la promesa de restauración. |
-| 09:40-16:20 | El juramento y la entrega del Mesías | El que juró por sí mismo debe responder por su propia palabra; Getsemaní conduce a la entrega. |
-| 16:20-27:40 | Hijos, herencia y oración | La restauración hace hijos/herederos; la oración entra en juicio para quitar lo que impide recibir. |
-| 27:40-38:50 | Confesión, sentencia y rescate | Daniel 9 modela la confesión; el mundo corruptible está bajo sentencia y el Mesías carga el juicio. |
-| 38:50-50:40 | La descendencia de Abraham | Ivrim 2 explica por qué el Mesías participa de carne y sangre y socorre a la descendencia de Abraham. |
-| 50:40-01:03:41 | Llamamiento y consumación | Elohim llama a los suyos; el Mesías media, vence a sus enemigos y entrega el reino restaurado. |
+| Momento aproximado | Tema                                  | Función en el argumento                                                                               |
+| ------------------ | ------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 00:00-09:40        | Abba como principio y condición ideal | Recapitula **av/abba** como origen o principal y lo relaciona con la promesa de restauración.         |
+| 09:40-16:20        | El juramento y la entrega del Mesías  | El que juró por sí mismo debe responder por su propia palabra; Getsemaní conduce a la entrega.        |
+| 16:20-27:40        | Hijos, herencia y oración             | La restauración hace hijos/herederos; la oración entra en juicio para quitar lo que impide recibir.   |
+| 27:40-38:50        | Confesión, sentencia y rescate        | Daniel 9 modela la confesión; el mundo corruptible está bajo sentencia y el Mesías carga el juicio.   |
+| 38:50-50:40        | La descendencia de Abraham            | Ivrim 2 explica por qué el Mesías participa de carne y sangre y socorre a la descendencia de Abraham. |
+| 50:40-01:03:41     | Llamamiento y consumación             | Elohim llama a los suyos; el Mesías media, vence a sus enemigos y entrega el reino restaurado.        |
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #markos_14_36 | TTH: “Padre, Padre mío, todo lo puedes Tú [...] pero no es lo que yo quiero, sino lo que Tú.” | El Mesías se somete a la palabra y al compromiso de restauración aun cuando esto exige beber la copa. |
-| #ivrim_6_13 | Delitzsch: כי בהבטיח אלהים את־אברהם נשבע בנפשו [...] | Elohim promete a Abraham y jura por sí mismo porque no hay otro mayor por quien jurar. |
-| #bereshit_15_17 | יהוה pasa entre las piezas del pacto mientras Abram está en sueño profundo. | La clase lee la escena como un compromiso asumido unilateralmente por Elohim. |
-| #tehilim_119_89 | TTH: “Para siempre, יהוה, tu palabra se establece en los cielos.” | El juramento permanece firme aun cuando el Mesías desciende al ámbito corruptible. |
-| #iojanan_alef_3_1-3 | Delitzsch: ראו מה־גדלה אהבת האב [...] להקרא בני האלהים [...] | El amor de Abba llama hijos de Elohim a los rescatados; la esperanza conduce a purificación. |
-| #ieshaiahu_59_1-2 | TTH: la mano de יהוה no se acorta para salvar; las iniquidades separan y hacen esconder su rostro. | La demora en recibir no se atribuye a incapacidad de Elohim, sino a aquello que debe ser juzgado y removido. |
-| #daniel_9_4-11 | Daniel confiesa: “hemos pecado”, reconoce la justicia de Elohim y las palabras escritas en la Torah. | Modelo de oración que comienza por la confesión comunitaria en vez de la autojustificación. |
-| #ivrim_2_14-18 | Delitzsch: el Mesías participa de carne y sangre, vence mediante la muerte y “no [socorre] a ángeles, sino a la descendencia de Abraham”. | Explica por qué entra al mundo caído: rescata a los humanos llamados, no a los ángeles rebeldes. |
-| #ieshaiahu_43_7 | TTH: “todo el que es llamado por mi Nombre, y para gloria mía lo he creado, lo he formado y también lo he hecho.” | El rescate se vincula con creación, formación, llamamiento y gloria. |
-| #iojanan_6_44 | TTH: “Ningún hombre puede venir a Mí, si mi Padre que me envió no lo trae”. | En el esquema de la clase, la promesa de restauración trae al Mesías a los que han de ser levantados. |
-| #qorintiyim_alef_15_22-28 | Delitzsch: במשיח todos reciben vida; el Mesías reina hasta destruir la muerte, entrega el reino y entonces יהיה האלהים הכל בכל. | Cierra el recorrido: rescate, reino, derrota de la muerte, sujeción y plenitud final. |
+| Referencia                | Texto local                                                                                                                               | Función en la clase                                                                                          |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| #markos_14_36             | TTH: “Padre, Padre mío, todo lo puedes Tú [...] pero no es lo que yo quiero, sino lo que Tú.”                                             | El Mesías se somete a la palabra y al compromiso de restauración aun cuando esto exige beber la copa.        |
+| #ivrim_6_13               | Delitzsch: כי בהבטיח אלהים את־אברהם נשבע בנפשו [...]                                                                                      | Elohim promete a Abraham y jura por sí mismo porque no hay otro mayor por quien jurar.                       |
+| #bereshit_15_17           | יהוה pasa entre las piezas del pacto mientras Abram está en sueño profundo.                                                               | La clase lee la escena como un compromiso asumido unilateralmente por Elohim.                                |
+| #tehilim_119_89           | TTH: “Para siempre, יהוה, tu palabra se establece en los cielos.”                                                                         | El juramento permanece firme aun cuando el Mesías desciende al ámbito corruptible.                           |
+| #iojanan_alef_3_1-3       | Delitzsch: ראו מה־גדלה אהבת האב [...] להקרא בני האלהים [...]                                                                              | El amor de Abba llama hijos de Elohim a los rescatados; la esperanza conduce a purificación.                 |
+| #ieshaiahu_59_1-2         | TTH: la mano de יהוה no se acorta para salvar; las iniquidades separan y hacen esconder su rostro.                                        | La demora en recibir no se atribuye a incapacidad de Elohim, sino a aquello que debe ser juzgado y removido. |
+| #daniel_9_4-11            | Daniel confiesa: “hemos pecado”, reconoce la justicia de Elohim y las palabras escritas en la Torah.                                      | Modelo de oración que comienza por la confesión comunitaria en vez de la autojustificación.                  |
+| #ivrim_2_14-18            | Delitzsch: el Mesías participa de carne y sangre, vence mediante la muerte y “no [socorre] a ángeles, sino a la descendencia de Abraham”. | Explica por qué entra al mundo caído: rescata a los humanos llamados, no a los ángeles rebeldes.             |
+| #ieshaiahu_43_7           | TTH: “todo el que es llamado por mi Nombre, y para gloria mía lo he creado, lo he formado y también lo he hecho.”                         | El rescate se vincula con creación, formación, llamamiento y gloria.                                         |
+| #iojanan_6_44             | TTH: “Ningún hombre puede venir a Mí, si mi Padre que me envió no lo trae”.                                                               | En el esquema de la clase, la promesa de restauración trae al Mesías a los que han de ser levantados.        |
+| #qorintiyim_alef_15_22-28 | Delitzsch: במשיח todos reciben vida; el Mesías reina hasta destruir la muerte, entrega el reino y entonces יהיה האלהים הכל בכל.           | Cierra el recorrido: rescate, reino, derrota de la muerte, sujeción y plenitud final.                        |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido en la nota | Tipo de relación | Observación |
-| --- | --- | --- | --- | --- |
-| **(אב)** | av | padre; origen, principal o categoría primaria en ciertos compuestos | Léxica según contexto | El campo de uso puede exceder al progenitor, pero cada ejemplo debe estudiarse por separado. |
-| **(אבא)** | abba | padre en arameo | Léxica | La clase rechaza reducirlo a “papá”; el matiz exacto en Marcos requiere cotejo arameo. |
-| **(אבא)** | abba | condición ideal, sabiduría de lo alto, palabra o juramento de restauración | Pedagógica / teológica | No es una traducción directa demostrada por la clase; es la categoría que articula su lectura. |
-| **(בן)** | ben | hijo entendido como heredero | Aproximada por función | “Heredero” ilumina el argumento, pero no sustituye todos los sentidos de “hijo”. |
-| **(שבע)** | shava | jurar | Léxica | #ivrim_6_13 usa lenguaje de juramento; no establece por sí solo que **Abba** signifique “juramento”. |
-| **(זרע אברהם)** | zera Avraham | descendencia o simiente de Abraham | Textual | #ivrim_2_16 es central para el alcance humano del socorro mesiánico. |
-| **(תפלה)** | tefilah | oración entendida como comparecer y someterse a juicio | Pedagógica / aproximada | La relación con **(פלל)** necesita precisión lexical; la aplicación de la clase enfatiza confesión y juicio propio. |
+| Forma           | Transliteración | Sentido en la nota                                                         | Tipo de relación        | Observación                                                                                                         |
+| --------------- | --------------- | -------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **(אב)**        | av              | padre; origen, principal o categoría primaria en ciertos compuestos        | Léxica según contexto   | El campo de uso puede exceder al progenitor, pero cada ejemplo debe estudiarse por separado.                        |
+| **(אבא)**       | abba            | padre en arameo                                                            | Léxica                  | La clase rechaza reducirlo a “papá”; el matiz exacto en Marcos requiere cotejo arameo.                              |
+| **(אבא)**       | abba            | condición ideal, sabiduría de lo alto, palabra o juramento de restauración | Pedagógica / teológica  | No es una traducción directa demostrada por la clase; es la categoría que articula su lectura.                      |
+| **(בן)**        | ben             | hijo entendido como heredero                                               | Aproximada por función  | “Heredero” ilumina el argumento, pero no sustituye todos los sentidos de “hijo”.                                    |
+| **(שבע)**       | shava           | jurar                                                                      | Léxica                  | #ivrim_6_13 usa lenguaje de juramento; no establece por sí solo que **Abba** signifique “juramento”.                |
+| **(זרע אברהם)** | zera Avraham    | descendencia o simiente de Abraham                                         | Textual                 | #ivrim_2_16 es central para el alcance humano del socorro mesiánico.                                                |
+| **(תפלה)**      | tefilah         | oración entendida como comparecer y someterse a juicio                     | Pedagógica / aproximada | La relación con **(פלל)** necesita precisión lexical; la aplicación de la clase enfatiza confesión y juicio propio. |
 
 ## Abba como juramento de restauración
 
@@ -145,12 +145,12 @@ El movimiento completo puede resumirse así: palabra establecida, descenso, copa
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
+| Fuente              | Referencia                                                                          | Uso en la nota                                                                     | Estado                                                |
+| ------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Literatura rabínica | Relato en que sabiduría, profecía y Torah responden qué debe hacerse con el pecador | Personificación de la Torah y distinción entre juicio, sacrificio y reconciliación | Mención indirecta en la clase; pendiente de localizar |
-| Talmud Bavli | Máxima de la vaca que desea amamantar más que el ternero mamar | Ilustra la disposición divina a dar | Pendiente de localizar y cotejar |
-| Mishnah / Talmud | Quien salva una vida es considerado como quien salva un mundo | Relaciona la creación de un solo Adam con el valor del rescate | Pendiente de cotejar versión y alcance exactos |
-| Meguilat Ester | Decreto real contra los judíos y contraorden que permite su defensa | Analogía de sentencia, intervención y preservación | Texto bíblico; la equivalencia jurídica es pedagógica |
+| Talmud Bavli        | Máxima de la vaca que desea amamantar más que el ternero mamar                      | Ilustra la disposición divina a dar                                                | Pendiente de localizar y cotejar                      |
+| Mishnah / Talmud    | Quien salva una vida es considerado como quien salva un mundo                       | Relaciona la creación de un solo Adam con el valor del rescate                     | Pendiente de cotejar versión y alcance exactos        |
+| Meguilat Ester      | Decreto real contra los judíos y contraorden que permite su defensa                 | Analogía de sentencia, intervención y preservación                                 | Texto bíblico; la equivalencia jurídica es pedagógica |
 
 ## Pendiente de verificar
 
@@ -162,6 +162,13 @@ El movimiento completo puede resumirse así: palabra establecida, descenso, copa
 - [ ] Distinguir con mayor precisión “descendencia de Abraham” en #ivrim_2_16, el llamamiento de #maasei_hashlijim_2_39 y la discusión de Romanos 9.
 - [ ] Evaluar la lectura de #qorintiyim_alef_15_28 como retorno a la condición de Abba frente al sentido inmediato del pasaje.
 - [ ] Cotejar las afirmaciones de la clase sobre la aniquilación final del adversario, el milenio y el estado de los muertos antes de usarlas en una nota específica.
+
+## Mapa de la enseñanza de Eric
+
+- **Marcos 14:36 — Abba y la copa:** Eric interpreta la oración «no lo que yo quiero, sino lo que Tú» como sometimiento del Mesías al juramento de restauración, no como conflicto entre dos dioses. La nota sostiene directamente la petición y la obediencia del versículo, pero marca “Abba = juramento” como categoría teológica, no como significado léxico demostrado.
+- **Hebreos 6:13-20 y Bereshit 15:17 — promesa asumida por Elohim:** la clase enlaza el juramento por sí mismo y el paso entre las piezas con una restauración unilateral. La nota conserva el hilo intertextual y califica la equivalencia entre esos pasajes como interpretación pedagógica que requiere cotejo histórico y literario.
+- **Hebreos 2:14-18 — descendencia de Abraham:** Eric explica la participación del Mesías en carne y sangre como el medio para vencer la muerte y socorrer a la descendencia de Abraham. La nota lo prueba en el texto local y distingue el alcance explícito de “descendencia” de las extensiones hacia llamamiento y elección.
+- **1 Corintios 15:22-28 — entrega del reino:** la clase culmina con la derrota de la muerte, la entrega del reino y Elohim siendo todo en todos. La nota conserva esa secuencia textual y deja como pendiente la lectura adicional de “regreso a Abba” frente al sentido inmediato de la sujeción del Hijo.
 
 ## Conclusión
 
