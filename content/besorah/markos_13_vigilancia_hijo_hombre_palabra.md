@@ -1,7 +1,7 @@
 ---
 title: "Marcos 13: vigilancia, Hijo del Hombre y la palabra inamovible"
 description: "Estudio canónico de Marcos 13:32-37: vigilancia ante el día no revelado, el Hijo del Hombre y la palabra establecida en los cielos."
-date: 2026-07-27
+date: 2026-07-28
 tags:
   - markos
   - abba
@@ -47,7 +47,7 @@ Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depen
 
 ## Alcance de la nota
 
-- Fuentes de Eric: _El Evangelio según Marcos — Parte 41: las 70 semanas ya se cumplieron_ y _Parte 13: la divinidad de Mashíaj_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza ambas exposiciones sin reproducir la transcripción automática como cita literal.
+- Fuentes de Eric: _El Evangelio según Marcos — Parte 41: las 70 semanas ya se cumplieron_ y _Parte 13: la divinidad de Mashíaj_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza ambas exposiciones sin reproducir la transcripción automática como cita literal; cuando una observación de la clase no puede cotejarse con el texto local, queda marcada como inferencia o pendiente.
 - La clase continúa una línea previa sobre el Hijo del Hombre de Daniel 7, la metamorfosis del Mesías y el Anciano de Días.
 - Donde la transcripción menciona literatura rabínica, términos arameos o etimologías sin referencia exacta, la nota conserva el punto como material de clase y lo marca como pendiente.
 - El texto TTH de #markos_13_32 consultado localmente no incluye la frase "ni el Hijo"; Delitzsch sí la conserva. La diferencia queda indicada en la hoja de comparación. La oración de #markos_14_36 aparece solo como conexión posterior para probar el marco propuesto, no como un segundo estudio canónico de capítulo.
