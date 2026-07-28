@@ -26,6 +26,16 @@ translation: "[OE, TTH]"
 
 Ha'azinu es un testimonio poético que llama a cielos y tierra para que escuchen. La clase pública de Eric resume su eje como «Nuestra Roca - La fidelidad»; esa observación es compatible con el capítulo, pero el poema no convierte la fidelidad en una abstracción cómoda. Contrasta la obra completa y justa de la Roca con la corrupción de Jeshurún, recuerda el cuidado del desierto, anuncia juicio y termina llamando a las naciones a alegrarse cuando יהוה hace justicia y reconcilia a su pueblo.
 
+## Hoja de comparación
+
+| Referencia     | Hebreo local OE (sin nikud)                                               | TTH local                                                                                                                                                    | Función en el canto                                                  |
+| -------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| #devarim_32_1  | **האזינו השמים ואדברה ותשמע הארץ אמרי פי**                                | «Den oído los cielos, y déjenme hablar; y escuche la tierra los dichos de mi boca.»                                                                          | Convoca testigos celestiales y terrestres antes de la acusación.     |
+| #devarim_32_4  | **הצור תמים פעלו כי כל דרכיו משפט אל אמונה ואין עול צדיק וישר הוא**       | «La Roca, completa es su acción, porque todos sus caminos son juicio; Él es emunah y sin injusticia, justo y recto es Él.»                                   | Define la Roca por obra completa, juicio, firmeza y rectitud.        |
+| #devarim_32_15 | **וישמן ישרון ויבעט שמנת עבית כשית ויטש אלוה עשהו וינבל צור ישעתו**       | «Pero engordó Ieshurún y pateó; engordaste, engrosaste, te saciaste; y abandonó a Eloha que lo hizo, y despreció a la Roca de su salvación.»                 | Muestra que el problema es abandonar al dador, no recibir provisión. |
+| #devarim_32_39 | **ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא** | «Vean ahora que Yo, Yo soy Él, y no hay dios conmigo; Yo hago morir y hago vivir, Yo hiero y Yo sano.»                                                       | La soberanía de יהוה sostiene juicio y restauración.                 |
+| #devarim_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו**       | «Griten de alegría, gentiles, su pueblo, porque la sangre de sus siervos vengará, y venganza regresará a sus enemigos, y reconciliará su tierra, su pueblo.» | El cierre reúne venganza, alegría de las naciones y reconciliación.  |
+
 ## Recorrido textual
 
 Moshéh comienza: «Den oído los cielos, y déjenme hablar; y escuche la tierra los dichos de mi boca» (32:1, TTH). La forma hebrea **האזינו**, _haazinu_, es un imperativo plural de אזן: prestar oído, escuchar atentamente. «Den oído» es una equivalencia **aproximada**, pero conserva la intensidad apelativa. **אמרי**, _imrei_, son «dichos» o palabras; no es una fórmula mágica. En 32:2 la enseñanza desciende como lluvia y rocío: la imagen presenta una palabra que nutre, no una descarga que aplasta.

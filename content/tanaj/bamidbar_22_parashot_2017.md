@@ -32,19 +32,22 @@ Esta nota sigue Bamidbar 22 en orden. Conserva observaciones de Eric en **Parash
 
 ## Hoja de comparación
 
-| Referencia         | Hebreo local (OE, sin nikud)                                                                                    | Observación                                                             |
-| ------------------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| #bamidbar_22_1     | **ויסעו בני ישראל ויחנו בערבות מואב מעבר לירדן ירחו**                                                           | Israel está frente a Jericó, todavía al otro lado del Jordán.           |
-| #bamidbar_22_2-3   | **וירא בלק בן צפור את כל אשר עשה ישראל לאמרי** / **ויגר מואב מפני העם מאד כי רב הוא ויקץ מואב מפני בני ישראל**  | La reacción nace de ver y temer la multitud.                            |
-| #bamidbar_22_5-6   | **וישלח מלאכים אל בלעם בן בעור פתורה אשר על הנהר ארץ בני עמו לקרא לו** / **ועתה לכה נא ארה לי את העם הזה**      | Balaq busca una maldición contratada desde lejos.                       |
-| #bamidbar_22_8     | **ויאמר אליהם לינו פה הלילה והשבתי אתכם דבר כאשר ידבר יהוה אלי**                                                | Bilam reconoce que la respuesta depende de lo que יהוה diga.            |
-| #bamidbar_22_18    | **אם יתן לי בלק מלא ביתו כסף וזהב לא אוכל לעבר את פי יהוה אלהי לעשות קטנה או גדולה**                            | Declaración correcta sobre el límite de la palabra profética.           |
-| #bamidbar_22_22    | **ויחר אף אלהים כי הולך הוא ויתיצב מלאך יהוה בדרך לשטן לו**                                                     | El enojo divino cuestiona el camino, no sólo las palabras pronunciadas. |
-| #bamidbar_22_31-35 | **ויגל יהוה את עיני בלעם וירא את מלאך יהוה נצב בדרך וחרבו שלפה בידו** … **ואפס את הדבר אשר אדבר אליך אתו תדבר** | La visión y el mandato devuelven al profeta a su lugar de siervo.       |
+| Referencia         | Hebreo local (OE, sin nikud)                                                                                    | Observación                                                                                    |
+| ------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| #bamidbar_22_1     | **ויסעו בני ישראל ויחנו בערבות מואב מעבר לירדן ירחו**                                                           | Israel está frente a Jericó, todavía al otro lado del Jordán.                                  |
+| #bamidbar_22_2-3   | **וירא בלק בן צפור את כל אשר עשה ישראל לאמרי** / **ויגר מואב מפני העם מאד כי רב הוא ויקץ מואב מפני בני ישראל**  | La reacción nace de ver y temer la multitud.                                                   |
+| #bamidbar_22_4     | **ויאמר מואב אל זקני מדין עתה ילחכו הקהל את כל סביבתינו כלחך השור את ירק השדה**                                 | Moab llama a Israel **הקהל**, la asamblea, y lo imagina consumiendo sus recursos como un buey. |
+| #bamidbar_22_5-6   | **וישלח מלאכים אל בלעם בן בעור פתורה אשר על הנהר ארץ בני עמו לקרא לו** / **ועתה לכה נא ארה לי את העם הזה**      | Balaq busca una maldición contratada desde lejos.                                              |
+| #bamidbar_22_8     | **ויאמר אליהם לינו פה הלילה והשבתי אתכם דבר כאשר ידבר יהוה אלי**                                                | Bilam reconoce que la respuesta depende de lo que יהוה diga.                                   |
+| #bamidbar_22_18    | **אם יתן לי בלק מלא ביתו כסף וזהב לא אוכל לעבר את פי יהוה אלהי לעשות קטנה או גדולה**                            | Declaración correcta sobre el límite de la palabra profética.                                  |
+| #bamidbar_22_22    | **ויחר אף אלהים כי הולך הוא ויתיצב מלאך יהוה בדרך לשטן לו**                                                     | El enojo divino cuestiona el camino, no sólo las palabras pronunciadas.                        |
+| #bamidbar_22_31-35 | **ויגל יהוה את עיני בלעם וירא את מלאך יהוה נצב בדרך וחרבו שלפה בידו** … **ואפס את הדבר אשר אדבר אליך אתו תדבר** | La visión y el mandato devuelven al profeta a su lugar de siervo.                              |
 
 ## Un pueblo temido antes de ser oído: 22:1-14
 
 Israel acampa en las estepas de Moab, “al otro lado del Jordán, frente a Jericó”. Eric recalca el mapa: el pueblo aún no ha cruzado el río, pero se aproxima a la tierra prometida. El texto no presenta primero una agresión de Israel contra Moab; presenta lo que Balaq **ve** y el miedo que esa visión provoca. **עם** (_am_) significa pueblo, y **רב** (_rav_) significa numeroso o grande; la escena nace de una evaluación política, no de una revelación sobre la intención moral de Israel.
+
+El v. 4 introduce **הקהל**, _haqahal_: artículo más **קהל**, asamblea o congregación. Su sentido normal es un conjunto reunido; aquí Moab lo usa para nombrar al Israel acampado como una masa que amenaza el alimento de sus alrededores. “Iglesia” sería una equivalencia **pedagógica** si se conecta con **ἐκκλησία**, _ekklesia_, pero no una sustitución exacta del término hebreo ni una afirmación sobre instituciones posteriores. Eric conserva la observación de que la asamblea es vista antes de ser escuchada: el texto apoya esa lectura política, aunque no dice que Israel haya iniciado hostilidades contra Moab.
 
 Balaq envía mensajeros a Bilam para que diga **ארה** (_'arah_), “maldecir”. La forma pertenece al campo de pronunciar maldición, pero la clase la vincula con la idea de cortar al pueblo de la bendición. Esa relación es aproximada: el capítulo sí contrapone bendecir y maldecir, pero una definición completa de bendición como “injerto” requiere cotejo con otros textos. La petición de Balaq intenta externalizar su miedo: si Bilam controla la palabra, el rey cree que podrá expulsar al pueblo.
 
