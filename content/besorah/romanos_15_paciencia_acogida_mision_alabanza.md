@@ -39,7 +39,7 @@ Romanos 15 no concluye la discusión sobre los fuertes y los débiles con una co
 
 Esta es la nota canónica de Romanos 15 y organiza la sesión del hermano Eric de Jesús Rodríguez Mendoza acreditada abajo. Su título público, «Patience, Consolation, and Peace», pone de relieve los vocablos y la secuencia de #romanos_15_4-7; la clase retoma además el riesgo de ser tropiezo tratado en Romanos 14. La transcripción automática se usa únicamente para ubicar y resumir énfasis de la exposición, no como cita literal.
 
-La nota prueba esos énfasis con el texto local de Delitzsch y conserva una distinción necesaria: las conexiones de la clase con prácticas comunitarias son aplicaciones; no reemplazan el razonamiento de Pablo ni fijan por sí mismas el significado de cada término.
+La nota prueba esos énfasis con el texto local de Delitzsch y conserva una distinción necesaria: las conexiones de la clase con prácticas comunitarias son aplicaciones; no reemplazan el razonamiento de Pablo ni fijan por sí mismas el significado de cada término. La fuente queda identificada de forma estable como `youtube:mjo6EdF3RPs` en cada unidad del mapa; así, la observación atribuida, el perícopa evaluado y la calificación de la inferencia permanecen vinculados al video público sin exponer rutas de transcripción.
 
 ## Hoja de comparación
 
