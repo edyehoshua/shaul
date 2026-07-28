@@ -111,6 +111,12 @@ En 16:9-14 el testimonio se repite por vías distintas y tropieza con incredulid
 
 La orden **κηρύξατε** (_kēryxate_, «proclamen públicamente») lleva la noticia a **πάσῃ τῇ κτίσει** (_pasē tē ktisei_, «toda la creación»). **πιστεύσας** (_pisteusas_, «el que cree») y **βαπτισθεὶς** (_baptistheis_, «el que fue sumergido») describen la respuesta al anuncio en el texto; no autorizan a separar la fe de la proclamación ni a convertir las señales en una prueba autónoma. El cierre **συνεργοῦντος** (_synergountos_, «obrando juntamente») vuelve a unir acción divina y palabra de los discípulos: la exaltación de Yehoshua culmina en testimonio acompañado, no en una institución explícita de un nuevo día sagrado.
 
+## Límite textual del cierre largo
+
+El corpus local presenta 16:9-20 como continuación del capítulo y esta nota lo expone en ese orden. La existencia de una discusión textual sobre el final largo debe registrarse sin dejar que sustituya la lectura del texto recibido: en 16:8 termina la primera escena con temor y silencio; desde 16:9 el relato vuelve a presentar apariciones, incredulidad, comisión y ascensión. **τέλος**, _telos_, «fin o culminación», no aparece aquí como una etiqueta que resuelva por sí sola la historia de transmisión; por eso la cuestión crítica queda abierta para cotejo con una edición crítica.
+
+La advertencia también protege el argumento del video. El foco público sobre «el Domingo» se refiere al marco de 16:1-2, mientras la perícopa recibida culmina con **ἐκήρυξαν**, _ekēryxan_, «proclamaron», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme» la palabra (#markos_16_20). La terminología final desplaza la atención desde nombrar un día hacia la palabra anunciada y su confirmación; esa conclusión sí está en el orden narrativo local y no depende de reconstruir una transcripción privada.
+
 ## Pendiente de verificar
 
 - [ ] Recuperar una transcripción o fuente pública equivalente para documentar el argumento completo de Eric sobre domingo y «día del Señor».
