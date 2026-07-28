@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 797,
-  "pending_videos": 161,
-  "transcript_notes": 377,
+  "covered_videos": 799,
+  "pending_videos": 159,
+  "transcript_notes": 379,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -123,17 +123,17 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 39,
+      "covered": 40,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
       "total": 5,
-      "covered": 1,
+      "covered": 2,
       "lane": "tanaj"
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 42,
+      "covered": 43,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
