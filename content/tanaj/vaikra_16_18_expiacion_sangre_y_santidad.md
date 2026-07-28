@@ -133,6 +133,14 @@ Este bloque también limita la aplicación sobre la reconciliación. La sangre t
 | Vaikra 17     | Las clases del séder de Pésaj ponen la sangre y su significado en primer plano.                                                                                        | Conexión pedagógica: el capítulo reserva la sangre al altar y se distingue su contexto de la sangre pascual.                                |
 | Vaikra 18     | La santidad exige una separación real de Egipto y Canaán.                                                                                                              | Apoyo textual: se recorren vv. 3–5 y 24–30 en orden, explicando estatutos, juicios y contaminación.                                         |
 
+## El día señalado y la responsabilidad comunitaria: Vaikra 16:29-34
+
+El cierre del capítulo vuelve a la comunidad después de describir la entrada de Aharón, la sangre y el envío de la cabra. En #vaikra_16_29-34 el mandato alcanza al «ciudadano» y al «residente» que habita entre Israel: deben afligirse, no hacer trabajo y observar el día como decreto perpetuo. Eric relaciona esta fecha con el centro de la reconciliación y con la memoria de Pésaj; la conexión calendárica puede ser pedagógica, pero la unidad de Vaikra 16 exige primero reconocer que el día tiene fecha, participantes, reposo y un acto sacerdotal anual.
+
+**(חקת עולם)**, _juqat olam_, combina **(חקה)**, _juqah_, «estatuto o disposición», con **(עולם)**, _olam_, «duración larga, perpetuidad o era». «Ceremonia eterna» es una equivalencia **aproximada** y demasiado estrecha: la expresión sostiene la vigencia del decreto dentro del orden del texto. **(תענו את נפשתיכם)**, _teanu et nafshoteikhem_, significa «afligirán sus vidas»; **(נפש)**, _nefesh_, tiene el sentido normal de vida, ser o persona, y aquí nombra al sujeto que se somete a la aflicción. «Ayuno» es una equivalencia **pedagógica** frecuente, pero el versículo no reduce la orden a una palabra moderna aislada.
+
+La inclusión del **(אזרח)**, _ezraj_, «nativo o ciudadano», junto al **(גר)**, _ger_, «residente o forastero que habita», impide presentar la purificación como una experiencia privada del sacerdote. El sufijo de **(בתוככם)**, _betokheikhem_, «en medio de ustedes», sitúa al residente dentro de la comunidad que escucha el mandato. La observación de Eric sobre una reconciliación que debe producir una vida separada recibe así un apoyo adicional: el rito termina en una práctica común de descanso y aflicción, no en una afirmación individual desligada del calendario y de la asamblea.
+
 ## Conexiones principales
 
 - Shemot 12:7, 13 — la sangre pascual debe leerse junto con la reserva cultual de Vaikra 17, sin borrar la diferencia de escenas.
