@@ -74,7 +74,6 @@ Marcos 7 no contrapone la Torá a una supuesta libertad religiosa. Confronta una
 | **(Συροφοινίκισσα)** | Syrophoinikissa | sirofenicia                        | Describe la procedencia de la mujer en 7:26; Marcos además la llama **(Ἑλληνίς)**, _Hellenis_.                                                                              | No equivale sin resto a «cananea» de Mateo; es una comparación narrativa e histórica, no una identidad léxica exacta.        |
 | **(κυνάρια)**        | kynaria         | perritos, perros pequeños          | En la imagen de 7:27–28 hay hijos, pan, mesa y perros. El diminutivo no elimina la tensión de la metáfora ni autoriza insultar a la mujer.                                  | «Perrillos» es aproximada; conservar la escena doméstica ayuda más que suavizarla o endurecerla.                             |
 | **(ܐܬܦܬܚ)**          | ethpethach      | ábrete, sé abierto                 | Forma aramea que Marcos conserva en 7:34 para la orden dirigida al sordomudo. Eric la relaciona con el hebreo **(הפתח)**, _hipatach_, «ábrete».                             | La relación arameo-hebreo es aproximada por parentesco semítico; no son la misma forma.                                      |
->>>>>>> 764145369 (docs(efesios-marcos): deepen lexical chapter studies)
 
 ## Manos, tradición y el mandamiento que no debe anularse (7:1–13)
 
