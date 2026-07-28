@@ -7,6 +7,8 @@ tags:
   - bereshit
 references:
   - "#bereshit_28_1"
+  - "#bereshit_28_10-15"
+  - "#bereshit_28_16-22"
 sources:
   - "https://www.youtube.com/watch?v=vFJDD9Sd8vs"
   - "https://www.youtube.com/watch?v=X0hILB8r8N8"
@@ -51,6 +53,33 @@ La promesa de #bereshit_28_13-15 interpreta la visión. יהוה se identifica c
 Cuando despierta, Yaakov dice: «Verdaderamente la existencia de יהוה está en este lugar y yo no lo sabía» (#bereshit_28_16). **(ידע)**, _yada_, conocer o reconocer, tiene aquí fuerza de percepción consciente: la presencia no empieza cuando Yaakov la descubre; cambia su comprensión del lugar. En 28:17 afirma: «¡Cuán impresionante es este lugar! ¡No es esto sino la casa de Elohim, y esta es la puerta del cielo!». **(ירא)**, _yare_, puede significar temer o reverenciar; en esta escena «temor reverente» es más exacto que pánico. **(נורא)**, _nora_, impresionante o temible, califica el lugar por la experiencia de la presencia.
 
 Yaakov levanta la piedra como pilar y vierte aceite (#bereshit_28_18). Luego hace un voto: «Si está Elohim conmigo y me guarda... y me da un pan para comer y ropa para vestir» (#bereshit_28_20). **(נדר)**, _nadar_, significa hacer un voto; «negociar» es una lectura popular, no exacta. El «si» introduce la forma verbal de su compromiso desde su situación vulnerable, pero el relato no autoriza a reducir la promesa divina a una transacción comercial. En 28:21–22, Yaakov habla de volver «en shalom» y de dar una décima parte. **(שלום)**, _shalom_, significa integridad, bienestar o paz; aquí señala retorno seguro y relación ordenada, no solo ausencia de guerra. **(עשר)**, _asar_, significa diezmar o dar una décima parte; su equivalencia es exacta en ese acto, pero el capítulo no presenta todavía un reglamento general para toda práctica posterior del diezmo.
+
+### La continuidad de la promesa en el camino
+
+El orden de los versículos importa. Primero Itzjak bendice y envía a Yaakov (#bereshit_28_1-5); después Yaakov sale (#bereshit_28_10), duerme con una piedra y recibe la palabra divina. La visión no cancela la vulnerabilidad del viaje. **(מקום)**, _maqom_, es «lugar» o «sitio»; la repetición de «aquel lugar» en 28:11 y la declaración «este lugar» en 28:16 hacen que la experiencia tenga un anclaje concreto. «Santuario permanente» sería pedagógico, no exacto: Yaakov todavía está de paso.
+
+La palabra de יהוה reúne tres promesas: tierra y descendencia (#bereshit_28_13-14), presencia y custodia (#bereshit_28_15), y retorno. **(זרע)**, _zera_, significa semilla o descendencia; en este contexto apunta a una posteridad numerosa y no solamente a una metáfora interior. **(גוי)**, _goy_, significa nación o pueblo; la promesa de que se bendecirán las familias de la tierra conserva un horizonte comunitario. La lectura de Eric sobre un camino acompañado concuerda con la secuencia, mientras que afirmar que cada dificultad demuestra una protección visible sería una aplicación aproximada, no una equivalencia del texto.
+
+### Temor, voto y diezmo
+
+Al despertar, Yaakov responde con temor reverente y levanta la piedra. **(מצבה)**, _matsevah_, es un pilar o estela erigida; en 28:18 funciona como señal memorial del encuentro. «Objeto mágico» contradice la escena: la piedra recuerda la palabra recibida y no produce la escalera. **(בית)**, _bayit_, es casa; «casa de Elohim» interpreta el lugar como espacio de encuentro, pero no afirma que una construcción humana controle la presencia divina.
+
+El voto comienza con una condición: «si Elohim está conmigo». La forma narrativa deja ver a un hombre que responde desde el peligro, no una fórmula para comprar bendición. **(נדר)**, _neder_, es el sustantivo «voto»; su fuerza contextual es compromiso pronunciado delante de Elohim. **(לחם)**, _lejem_, significa pan o alimento, y **(בגד)**, _beged_, vestido o ropa: las peticiones concretas muestran la precariedad del viajero. El diezmo aparece al final como respuesta comprometida. «Impuesto universal» sería inexacto; el capítulo registra el voto de Yaakov dentro de esta escena.
+
+## Evaluación de la enseñanza de Eric
+
+| Unidad textual | Observación de Eric                                                                                                               | Evaluación textual                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 28:10-12       | «Y salió» describe una salida traumática y la escalera anuncia que el camino no queda fuera de la mirada de Elohim.               | Apoyo textual: el relato une partida, sueño, mensajeros y tierra/cielo; el trauma depende del contexto de 27:41-28:5.      |
+| 28:13-15       | La promesa acompaña a Yaakov mientras va a Jarán y asegura que Elohim cumplirá su propósito pese a los errores humanos.           | Apoyo textual cualificado: יהוה promete estar, guardar y hacer volver; «pese a todos los errores» es aplicación teológica. |
+| 28:16-17       | «Casa de Elohim» y «puerta del cielo» expresan reverencia ante una presencia reconocida, no una escalera fabricada por el hombre. | Apoyo textual: Yaakov descubre el carácter del lugar después de la visión.                                                 |
+| 28:20-22       | El diezmo pertenece al voto de Yaakov y debe leerse junto con la provisión y el retorno en paz.                                   | Apoyo textual: es la cláusula final del voto, no una legislación posterior completa.                                       |
+
+## Conexiones principales
+
+- Bereshit 27:41-28:5 explica por qué la salida no es turismo espiritual: Yaakov parte bajo amenaza y con una bendición que debe custodiar.
+- Shemot 3:5 comparte el motivo de un lugar marcado por la presencia, pero no identifica automáticamente la piedra de Yaakov con el santuario del desierto.
+- Yohanan 1:51 retoma la imagen de los mensajeros que suben y bajan; es una recepción canónica posterior y no una traducción de **סלם**.
 
 ## Mapa de la enseñanza de Eric
 
