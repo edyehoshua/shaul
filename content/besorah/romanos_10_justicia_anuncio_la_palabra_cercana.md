@@ -135,6 +135,16 @@ La lectura de Eric es especialmente valiosa al rechazar una invocación converti
 
 ## Pendiente de verificar
 
+## Control sintáctico: obedecer la buena noticia y resistir
+
+La cadena de #romanos_10_14-17 no debe reducirse a una fórmula de transmisión automática. **(κηρύσσω)**, _kērussō_, significa proclamar o anunciar públicamente; aunque la forma no sea el verbo principal de cada pregunta, ilumina el encargo que sostiene el anuncio. **(ἀποστέλλω)**, _apostellō_, significa enviar con una comisión, y **(εὐαγγελίζω)**, _euangelizō_, significa anunciar buenas noticias. En #romanos_10_15 la secuencia de enviados y anunciadores está al servicio de la paz y del bien, no de la autopromoción. «Anunciar» es una glosa **directa y contextual**; usar estos verbos para reconstruir una jerarquía ministerial completa sería **inferencial**.
+
+Pablo introduce después la resistencia mediante **(ὑπακούω)**, _hypakouō_, que significa escuchar bajo autoridad, obedecer o responder; en #romanos_10_16 la cita «no todos obedecieron a la buena noticia» impide tratar la escucha como recepción neutral. **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir; en #romanos_10_21 describe al pueblo que contradice y resiste mientras Elohim extiende sus manos. La diferencia entre **(ἀκούω)**, _akouō_, «oír o enterarse», y estas formas de obediencia es **textual y pedagógicamente útil**: el capítulo relaciona noticia, respuesta y rechazo, pero no ofrece una psicología exhaustiva de cada oyente.
+
+La exposición de Eric sobre la palabra que produce fidelidad recibe apoyo cuando vincula la emunah con el mensaje del Mesías (#romanos_10_17). **(ῥῆμα)**, _rhēma_, significa palabra, declaración o mensaje pronunciado; «palabra» es una glosa **directa**, pero su fuerza aquí es el contenido anunciado y oído, no un sonido mágico. La relación con **דָּבָר**, _davar_, «palabra, asunto o declaración», es **aproximada y pedagógica**. Asimismo, **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; su sentido en la cadena depende de la escucha del mensaje y no se resuelve imponiendo automáticamente _emunah_ como definición única.
+
+Por tanto, Romanos 10 conserva juntos el envío soberanamente ordenado, la proclamación pública, la escucha convocada y la respuesta responsable. La iniciativa divina no convierte al mensajero en dueño del mensaje ni al oyente en un objeto sin responsabilidad; la resistencia de #romanos_10_16 y #romanos_10_21 tampoco cancela que el Señor sea rico para todos los que lo invocan (#romanos_10_12). Esta evaluación apoya el énfasis atribuible de Eric en la palabra de Elohim, pero califica cualquier formulación que haga innecesarios el anuncio, la obediencia o el discernimiento de la comunidad.
+
 - [ ] Cotejar la sintaxis hebrea completa de Joel 2:32 y su relación con la forma griega de Romanos 10:13 antes de fijar quién es el sujeto de cada acción.
 - [ ] Verificar las formas hebreas citadas en Romanos 10:19-21 con Devarim 32, Yesha’yahu 65 y sus contextos literarios.
 - [ ] Revisar con una edición griega crítica el alcance de **(τέλος)**, **(πίστις)** y **(ῥῆμα)**; las equivalencias de esta nota son contextuales, no definiciones exhaustivas.
