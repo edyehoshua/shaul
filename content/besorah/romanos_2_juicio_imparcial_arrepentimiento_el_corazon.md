@@ -108,6 +108,16 @@ La enseñanza sobre la circuncisión del corazón también necesita esta doble c
 
 Así, la aportación atribuible de Eric queda bien delimitada. La bondad que conduce al retorno es una invitación real; la conciencia no es una autoridad autónoma; la identidad judía no es anulada; y la señal externa no puede sustituir la obediencia del corazón. Romanos 3 impide convertir cualquiera de esas afirmaciones en mérito humano, mientras Romanos 2 impide convertir la gracia en permiso para persistir en la dureza.
 
+## La bondad que conduce y el juicio que descubre
+
+La secuencia de #romanos_2_4-16 mantiene juntas dos verdades que a veces se separan. La bondad de Elohim conduce hacia el retorno, pero la persona puede despreciar esa bondad y acumular dureza; el juicio conforme a las obras, por tanto, no describe una salvación comprada por rendimiento, sino la manifestación pública de una respuesta. **(χρηστότης)**, _chrēstotēs_, significa bondad, benignidad o disposición benévola; en el versículo 4 califica la acción de Elohim que orienta hacia la **(μετάνοια)**, _metanoia_, cuyo sentido ordinario es cambio de mente o arrepentimiento. «Bondad» y «arrepentimiento» son glosas directas en su campo básico, pero decir que la primera fuerza automáticamente la respuesta de todos sería una inferencia no demostrada.
+
+La clase de Eric sobre teshuvá puede conservarse como una lectura pastoral del movimiento verbal: **(ἄγω)**, _agō_, significa llevar, conducir o guiar, y su fuerza contextual en #romanos_2_4 es direccional. El texto no dice que la paciencia de Elohim apruebe la dureza; dice que el desprecio convierte una oportunidad de retorno en testimonio contra el propio corazón. «Retorno» es una aproximación pedagógica de _teshuvá_; ayuda a expresar la dirección de la **(μετάνοια)** sin convertir dos lenguas en una sola forma.
+
+En #romanos_2_6-11, **(ἀποδίδωμι)**, _apodidōmi_, significa devolver, pagar o dar conforme a una medida; su fuerza contextual es la rendición de cuentas que Pablo anuncia «a cada uno conforme a sus obras». La glosa «dar» es exacta en sentido léxico y la referencia a obras es explícita, pero el bloque no debe aislarse de #romanos_3_9-20 para fabricar autosuficiencia moral. La imparcialidad de **(προσωπολημψία)**, _prosōpolēmpsia_, significa acepción de personas o favoritismo; «no hay acepción» es una traducción directa del efecto, mientras «imparcialidad» es una formulación aproximada que no borra la prioridad histórica del judío en la carta.
+
+Esta lectura protege también la enseñanza sobre el corazón. **(ἐνδείκνυμι)**, _endeiknymi_, significa mostrar, demostrar o hacer visible; en #romanos_2_15 describe cómo los gentiles muestran la obra de la Torah mientras la conciencia testifica. La observación de Eric recibe apoyo cualificado: la interioridad no queda fuera de la evaluación, pero tampoco se afirma que cada intuición interior sea una revelación suficiente. La conciencia acusa o defiende dentro del proceso; el juicio final pertenece a Elohim por medio de Yehoshua (#romanos_2_16). Así, retorno, identidad y obediencia quedan ordenados por el argumento del capítulo, no por una etiqueta religiosa.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis griega de #romanos_2_4, #romanos_2_13 y #romanos_2_29 y la relación de sus términos con las aproximaciones hebreas de la tabla.
