@@ -107,6 +107,14 @@ El final vuelve a hacer de la sintaxis un límite doctrinal. **(καταργέω
 | #romanos_3_21-26 | La justicia de Elohim se manifiesta en el Mesías y no se produce por jactancia humana.      | Apoyo textual y léxico: se explican _dikaiosynē_, _pistis_ y _apolytrōsis_ con calificaciones.                                              |
 | #romanos_3_27-31 | La relación entre Torah y emunah debe responder a la pregunta de si la Torah queda anulada. | Apoyo textual decisivo: Pablo responde que no, sino que la establece; las consecuencias doctrinales más amplias quedan limitadas al pasaje. |
 
+## Evaluación final del foco público: «dentro de la ley»
+
+El título público de `youtube:u0NtR-y-T2Y` no permite atribuir a Eric una exégesis detallada que no está disponible, pero sí plantea una pregunta que Romanos 3 responde en su propio orden: ¿qué significa estar «dentro de la ley» cuando la Torah habla para cerrar toda boca? En 3:19, **(λαλεῖ)**, _lalei_, significa hablar o declarar; su fuerza contextual es que la Torah da testimonio contra toda defensa humana. No es una voz defectuosa ni un mecanismo de salvación por acumulación, sino una palabra que expone al mundo ante Elohim. «Habla» es una glosa **directa**; decir que la Torah «salva» o que «no sirve» sería una conclusión **pedagógica excesiva** que el pasaje niega.
+
+El argumento tampoco deja que «bajo Torah» se convierta en una frontera étnica que excluya a los demás del juicio. **(πᾶς)**, _pas_, significa todo o cada; en 3:19 y 3:20 la repetición de «toda boca» y «todo el mundo» amplía el alcance forense. «Universal» es una síntesis **aproximada**, respaldada por la secuencia, no una negación de la prioridad histórica de Israel mencionada en 3:1-2. La clase puede dirigir la atención a quienes están dentro de la ley; la evaluación canónica debe conservar simultáneamente el depósito confiado a Israel y la culpabilidad universal.
+
+La respuesta de 3:31 funciona como control de lectura. **(νόμος)**, _nomos_, tiene el sentido ordinario de ley, norma o instrucción; aquí nombra la Torah en una pregunta sobre su anulación. **(πληρόω)**, _plēroō_, significa llenar, completar o llevar a plenitud, pero no es el verbo de 3:31: Pablo emplea **(ἵστημι)**, _histēmi_, «poner de pie» o «establecer». La diferencia importa: no se debe sustituir la frase «establecemos la Torah» por una afirmación automática de que cada uso posterior de «cumplir» tenga idéntico sentido. La calificación es **textual** para la negación de anular y **aproximada** para cualquier sistema doctrinal construido más allá de este cierre.
+
 ## Pendiente de verificar
 
 - [ ] Recuperar, si llega a estar disponible, el transcript de `youtube:u0NtR-y-T2Y` para contrastar observaciones concretas de la sesión más allá de su título público.
