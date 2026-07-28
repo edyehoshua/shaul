@@ -106,6 +106,14 @@ En 22:29-30, el sacrificio de acción de gracias debe presentarse para aceptaci�
 | #vaikra_22_26-30 | Insiste en que una ofrenda no se evalúa solo por su apariencia, sino también por el tiempo y la forma ordenados.               | Apoyo textual y aclaración léxica: la cría permanece siete días, no se degüellan madre y cría juntas y la תודה se come el mismo día.                                |
 | #vaikra_22_31-33 | Lee el no profanar el nombre como una llamada a reflejar la santidad de יהוה.                                                  | Apoyo textual: el cierre une mandamientos, santificación del nombre y éxodo, sin convertir la frase en una definición autónoma del Mesías.                          |
 
+## La aceptación no es solo apariencia: vv. 18–30
+
+La observación de Eric sobre no ofrecer a יהוה «lo que sobra» necesita ser leída en el orden de la perícopa. El OE llama al animal **תמים**, «íntegro», y después prohíbe acercar aquello que tiene **מום**, «defecto» (#vaikra_22_19-20). El TTH traduce la primera condición como «completo» y la segunda como «defecto». La oposición no autoriza una aplicación superficial sobre el valor de las personas: el objeto regulado es la víctima que se acerca al altar. La aplicación homilética es legítima solo si conserva ese referente cultual y luego explica, como hace Eric, que la honra a יהוה no se mide por dar cualquier cosa sin atención.
+
+El texto añade condiciones que impiden reducir **תמים**, _tamim_, a una inspección visual aislada. En 22:26-28 la cría debe permanecer siete días con su madre y no se deben degollar madre y cría el mismo día. **(שהה)**, _shahah_, significa demorarse o permanecer; aquí su forma contextual se expresa en la permanencia temporal antes del sacrificio. «Maduración» es pedagógica, no exacta: el versículo fija un plazo ritual. **(שחט)**, _shajat_, significa degollar o sacrificar; en la prohibición plural **לא תשחטו**, «no degollaréis», su fuerza es concreta y simultáneamente limita la violencia concentrada. Eric acierta al insistir en obedecer el procedimiento completo, aunque el capítulo no formula una teoría moderna de bienestar animal.
+
+En 22:29-30 la **(תודה)**, _todah_, «acción de gracias» o «confesión agradecida», debe comerse el mismo día. El TTH conserva que la ofrenda es para aceptación y no queda hasta la mañana. «Agradecimiento espontáneo» sería una equivalencia pedagógica incompleta: aquí se trata de una categoría ritual con un tiempo ordenado. La clase puede aplicar esto contra una religiosidad de sobrantes, pero el argumento exacto es que aceptación, tiempo y consumo obedecen a la palabra recibida. Así el capítulo mantiene juntos integridad, límite y gratitud sin convertir la ofrenda en una mercancía que compra el favor divino.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar estudios léxicos trazables sobre **(חלל)** y **(קדש)** para describir sus rangos semánticos sin depender de imágenes etimológicas.
