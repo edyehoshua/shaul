@@ -46,7 +46,6 @@ references:
   - "#filipiyim_2_7"
 sources:
   - "https://youtu.be/j52NQB6sKSQ?si=Z1l75rw1icxEHBfb"
-  - "/Users/jhonny/.codex/attachments/12ce201d-fe29-4ccb-ae9b-3af35e788183/pasted-text.txt"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/maasei_hashlijim.json"
@@ -55,6 +54,8 @@ sources:
   - "docs/scriptures/oe/json/daniel/7.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
 translation: "[TTH, OE]"
+source_ids:
+  - "youtube:j52NQB6sKSQ"
 ---
 
 # Tesis
@@ -217,11 +218,24 @@ La referencia talmúdica es concreta y útil, pero la clase también hace afirma
 - [ ] Documentar por separado las afirmaciones sobre la cronología de la tradición oral, la Mishnah, el Talmud, Hillel, Shammai, los Targumim y la literatura del siglo I.
 - [ ] Desarrollar en otra nota la discusión final sobre mediación sacerdotal, exaltación y coronación del Mesías, que quedó abierta en el video.
 
+## Mapa de la enseñanza de Eric
+
+- **#markos_12_6-7 — «hijo» leído junto con «heredero».** Eric toma la parábola de los labradores como la comprobación concreta de su propuesta: el hijo amado enviado por el dueño es identificado por los labradores como «el heredero», y la herencia es precisamente lo que intentan apropiarse. La nota conserva esa observación como apoyo contextual fuerte para la lectura de **(בן)**, pero la clasifica como relación pedagógica y no como traducción fija de cada aparición de «hijo».
+- **#markos_1_1; #markos_4_26-31; #daniel_7_13-14 — Hijo del Hombre, semilla y reino.** Eric relaciona el título con el heredero del reino de los cielos y usa la semilla pequeña para explicar una manifestación que entra en la tierra en pequeñez antes de crecer; conecta ese hilo con la figura de Daniel que recibe dominio. La nota sigue la secuencia de Marcos y Daniel, conserva la imagen concreta de la clase y evalúa «repartidor del reino» como interpretación teológica, no como glosa literal.
+- **#tehilim_139_13-15; #efesiyim_4_8-10 — las profundidades de la tierra y el vientre.** Eric propone leer el descenso de Efesios a la luz del lenguaje prenatal del salmo, en vez de asumir automáticamente un descenso al infierno. La nota reconoce el paralelismo poético del texto local como apoyo intertextual plausible, pero deja la aplicación a Efesios pendiente de cotejo sintáctico con #tehilim_68_19 y otras lecturas antiguas.
+- **#tehilim_89_10; #markos_4_39-41; #markos_5_19-20 — identidad demostrada por obras y nombres.** Eric observa que Marcos atribuye a Yehoshua acciones que el salmo atribuye a יהוה sobre el mar, y que el relato del gadareno pasa de «cómo te ha hecho יהוה» a «cómo le había hecho Yehoshua». La nota conserva el argumento narrativo porque las dos perícopas están presentes en los textos locales; lo presenta como acumulación de señales de identidad y no como una equivalencia lexical aislada.
+
 ## Conclusión
 
 La clase propone leer los títulos de Yeshúa como lenguaje de misión y herencia. **Hijo de Elohim** nombra al que porta y comunica el don divino; **Hijo del Hombre** nombra al que recibe y reparte el reino. Marcos no deja esa tesis en una definición abstracta: el Hijo amado es el heredero enviado, la semilla pequeña encarna el reino, el mar obedece a su voz, la obra de יהוה se narra como obra de Yeshúa y el rey humilde entra en Jerusalén sobre un pollino.
 
 El recorrido también enseña una disciplina de lectura: conectar Besorah, Tanaj y cartas apostólicas sin permitir que una traducción aislada gobierne todo el argumento. Esa disciplina exige la cautela complementaria de la misma nota: distinguir el texto cotejado de la equivalencia pedagógica, y no convertir una intuición fértil sobre herencia, ruaj, vientre o tradición oral en una definición técnica antes de verificarla.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El Evangelio Según Marco - Parte 12: YHWH–Yehoshúa](https://www.youtube.com/watch?v=j52NQB6sKSQ) (`source_id`: `youtube:j52NQB6sKSQ`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
