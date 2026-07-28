@@ -54,20 +54,6 @@ La enseñanza parte de una cadena de equivalencias: Hijo significa heredero; Ada
 
 Luego introduce Abba. **(אב)** y **(אבא)** significan padre, pero "padre" también puede funcionar como origen, primer grado o principio principal. Desde ahí, la clase sostiene que a la sabiduría se le puede llamar Abba: no como otro ser por encima del Mesías, sino como la palabra inamovible que queda en los cielos cuando el Anciano de Días se manifiesta abajo como Bar Enash.
 
-## Del anuncio del templo a la vigilancia (13:1-13)
-
-El discurso debe seguirse desde su apertura. Los discípulos admiran las piedras del templo, pero Yehoshua anuncia que no quedará piedra sobre piedra (#markos_13_1-2). Después, Kefa, Iacob, Iojanán y Andrés preguntan por el tiempo y por la señal; la respuesta enumera engaño, persecución, testimonio y perseverancia (#markos_13_3-13). La clase de la parte 41 retoma ese doble horizonte: la destrucción del templo no es idéntica a la recogida final del mundo. Esa distinción evita convertir cada detalle del discurso en un único calendario y explica por qué la enseñanza puede hablar de un juicio histórico y, a la vez, terminar ordenando velar.
-
-Eric lee la referencia a las setenta semanas de Daniel como cumplida en el marco de la destrucción del segundo templo, rechazando una semana suspendida que se desplaza sin demostración al futuro. La observación se atribuye a la clase y se prueba con cautela: Marcos sí anuncia la caída del templo y la señal de la desolación, pero el propio pasaje no ofrece una tabla cronológica que resuelva por sí sola todas las fechas de Daniel 9.
-
-## La señal, la huida y los términos de Daniel (13:14-31)
-
-Cuando aparece la abominación de la desolación, Marcos llama a los que están en Judea a huir y describe una tribulación que culmina con la venida del Hijo del Hombre (#markos_13_14-27). Lucas 21:20 ayuda a precisar el eje histórico al hablar de Jerusalén rodeada de ejércitos; es una conexión sinóptica, no una licencia para borrar el lenguaje apocalíptico de Marcos.
-
-La exposición insiste en leer Daniel 9 desde su hebreo. **(שבעים)**, *shavuim*, significa «semanas» o unidades de siete; en #daniel_9_24 el verbo **(נחתך)**, *nechtakh*, tiene el sentido de cortar, decretar o delimitar según el contexto. **(משיח)**, *mashiach*, es «ungido» y puede designar una persona consagrada sin que la forma, aislada, equivalga automáticamente a Yehoshua. **(נגיד)**, *nagid*, es líder, gobernante o representante; «príncipe» es una equivalencia posible según contexto, no una demostración suficiente de una identidad futura. Finalmente, **(קדש קדשים)**, *qodesh qodashim*, significa «santísimo» y puede referirse al ámbito o cosa consagrada. Eric usa esa observación para leer el ungimiento del santuario junto con templo y sacerdocio; la nota conserva la propuesta, pero no convierte una opción contextual en definición única.
-
-La frase «sellar la visión y al profeta» y el anuncio de la desolación requieren, por tanto, dos controles simultáneos: la sintaxis hebrea de Daniel y la secuencia narrativa de Marcos. La clase ofrece una lectura histórica fuerte —la semana completa se cierra con el segundo templo—, mientras el texto local confirma con mayor seguridad el juicio sobre el templo, la huida y la promesa de que cielo y tierra pasarán pero las palabras de Yehoshua no pasarán (#markos_13_31).
-
 ## Hoja de comparación
 
 | Referencia | Texto local | Función en la clase |
