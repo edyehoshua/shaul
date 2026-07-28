@@ -71,6 +71,16 @@ Este cuadro es para explicar la distribución que tenían los pueblos que habita
 | #bamidbar_13_21 | ויעלו ויתרו את הארץ ממדבר צן עד רחב לבא חמת                                       | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat.                                                      | Recorrido norte-sur de הארץ; límite meridional y septentrional.                    |
 | #bamidbar_13_29 | עמלק יושב בארץ הנגב והחתי והיבוסי והאמרי יושב בהר והכנעני ישב על הים ועל יד הירדן | Amalek habita en la tierra del Néguev, y el jití, el iebusí y el emorí habita en la montaña, y el kenaaní habita junto al mar y por la mano del Iardén. | Cuatro puntos: neguev (sur), har (centro/norte), yam (oeste), yad haIardén (este). |
 
+## La promesa no es un informe condicional
+
+La exposición de Eric vuelve varias veces a la idea de que el recorrido no era una votación sobre si Israel entraría o no. Su apoyo principal es la frase **אשר אני נתן**, _asher ani noten_, «que yo estoy dando» (#bamidbar_13_2), y la relaciona con 2 Corintios 1:18-20, donde la palabra de Dios no es «sí y no» sino «sí» en el Mesías. La conexión apostólica es una lectura canónica posterior; no debe usarse para borrar la tensión narrativa que Devarim 1:22-33 conserva sobre la petición del pueblo y la aprobación de Mosheh.
+
+El punto textual más firme permanece en Bamidbar. **נתן**, _natan_, es un verbo que significa dar, poner o entregar; la forma **נתן** después de **אני** presenta la entrega como acción de יהוה, no como promesa que los exploradores puedan invalidar al encontrar ciudades fortificadas. «Garantía cumplida» es una equivalencia **pedagógica**, porque el capítulo todavía narra el proceso y la rebelión; «tierra opcional» sería contraria a la fuerza de la cláusula. Eric acierta al distinguir información para prepararse de autoridad para declarar falsa la palabra.
+
+La propia lista de preguntas impide que la fe se vuelva negación de los hechos. Mosheh pide observar si el pueblo es fuerte o débil, poco o mucho, si la tierra es buena o mala, y si las ciudades son abiertas o fortificadas (#bamidbar_13_18-20). La repetición de **אם**, _im_, «si», introduce alternativas descriptivas dentro de la inspección; no transforma la dádiva en una alternativa teológica. Por eso Caleb puede decir **עלה נעלה**, _alah na'aleh_, «subir subiremos», sin afirmar que no hay peligro: su respuesta interpreta el peligro bajo la presencia de יהוה.
+
+La relación con 15:39 debe conservar el mismo cuidado. Allí **ולא תתורו**, _velo taturu_, «no exploraréis», se refiere a no seguir el corazón y los ojos para desviarse de los mandamientos. **לב**, _lev_, es corazón o interior de la persona; **עין**, _ayin_, es ojo. «La imaginación» y «la percepción» son aproximaciones útiles, pero el versículo concluye «y recordaréis todos mis mandamientos y los haréis». Eric convierte la conexión verbal entre los capítulos en una advertencia contra dejar que la apariencia gobierne la obediencia; esa aplicación tiene apoyo pedagógico, mientras que la identidad exacta entre el envío de 13 y la prohibición de 15 debe rechazarse.
+
 ## Léxico base
 
 | Hebreo         | Transliteración (es) | Significado               | Raíz | Sentido de la raíz | Observación                                                  |
