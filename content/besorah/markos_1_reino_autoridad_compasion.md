@@ -1,7 +1,7 @@
 ---
 title: "Marcos 1: reino, autoridad y compasión"
 description: "Estudio canónico de Marcos 1: el anuncio del reino, la autoridad de Yehoshua en la sinagoga, su oración y la limpieza del leproso."
-date: 2026-07-28
+date: 2026-07-27
 tags:
   - markos
   - markos_1
@@ -21,17 +21,13 @@ references:
   - "#markos_1_35"
   - "#markos_1_40"
   - "#markos_1_44"
-  - "#shemot_3_14"
-  - "#shemot_3_15"
 sources:
   - "https://www.youtube.com/watch?v=Farvi5l0RRA"
-  - "https://www.youtube.com/watch?v=LuxlrvnMbu8"
   - "https://www.youtube.com/watch?v=BRqiJzOHBkQ"
   - "docs/scriptures/tth/json/markos.json"
 translation: "[TTH]"
 source_ids:
   - "youtube:Farvi5l0RRA"
-  - "youtube:LuxlrvnMbu8"
   - "youtube:BRqiJzOHBkQ"
 ---
 
@@ -41,39 +37,43 @@ Marcos 1 presenta la buena noticia como la irrupción del reino de יהוה en l
 
 ## Alcance de la nota
 
-Esta nota ordena tres clases del **hermano Eric de Jesús Rodríguez Mendoza** dedicadas al inicio y cierre de Marcos 1. La parte 1 abre el evangelio; la parte 2 detiene la lectura en la identidad de quien viene como poder de Elohim en la tierra y en el Nombre revelado a Moshéh; la parte 3 desarrolla la sinagoga, la distinción entre enfermedad y espíritu impuro, y la limpieza del leproso. La clase propone leer «espíritu impuro» desde los campos semíticos de poder y de impedimento para la santidad, y distingue la expulsión del espíritu de la sanidad de una fiebre. También recalca la petición del leproso: «si quieres, puedes limpiarme». Se contrasta cada propuesta con el texto local; las explicaciones médicas, psicológicas o históricas que exceden el pasaje no se convierten aquí en afirmaciones del evangelio.
+Esta nota ordena dos clases del **hermano Eric de Jesús Rodríguez Mendoza** dedicadas al cierre de Marcos 1. La clase propone leer «espíritu impuro» desde los campos semíticos de poder y de impedimento para la santidad, y distingue la expulsión del espíritu de la sanidad de una fiebre. También recalca la petición del leproso: «si quieres, puedes limpiarme». Se contrasta cada propuesta con el texto local; las explicaciones médicas, psicológicas o históricas que exceden el pasaje no se convierten aquí en afirmaciones del evangelio.
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en el argumento |
-| --- | --- | --- |
-| #markos_1_1-3 | TTH: «Principio de la buena noticia ... Hijo de Elohim»; «¡Limpien el camino de יהוה!» | El inicio vincula la buena noticia con la llegada anunciada por los profetas. |
-| #markos_1_14-15 | TTH: «Se ha cumplido el tiempo ... vuelvan a יהוה y crean a la buena noticia». | El reino anunciado exige retorno y confianza, no mera admiración. |
-| #markos_1_21-22 | TTH: Yehoshua enseñaba «como quien posee poder». | Su enseñanza precede y enmarca los actos de autoridad. |
-| #markos_1_23-27 | TTH: un hombre está «con un espíritu impuro»; Yehoshua ordena: «¡Cállate y sal de él!» | El mandato produce asombro porque aun los espíritus le escuchan. |
-| #markos_1_32-34 | TTH distingue «todos los enfermos y endemoniados»; sanó enfermedades y expulsó demonios. | Marcos no permite colapsar ambas categorías. |
-| #markos_1_35, 38 | TTH: fue a un lugar desierto y oró; luego dice que irá a proclamar a otras ciudades. | La fama no reemplaza la oración ni define por sí sola su misión. |
-| #markos_1_40-44 | TTH: «Si Tú quieres, Tú puedes limpiarme»; Yehoshua responde «Yo quiero» y manda mostrarse al sacerdote. | La limpieza une compasión, voluntad de Yehoshua y el procedimiento de Moshéh. |
+| Referencia       | Texto local                                                                                                                   | Función en el argumento                                                                                          |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| #markos_1_1-3    | TTH: «Principio de la buena noticia ... Hijo de Elohim»; «¡Limpien el camino de יהוה!»                                        | El inicio vincula la buena noticia con la llegada anunciada por los profetas.                                    |
+| #markos_1_4-8    | TTH: Iojanán proclama una inmersión de retorno y anuncia al más fuerte, que inmersará en Rúaj apartado.                       | La preparación del camino incluye confesión pública y expectativa, pero Iojanán no ocupa el lugar del que viene. |
+| #markos_1_9-13   | TTH: Yehoshua es inmersado, el Rúaj desciende sobre él y una voz lo declara Hijo amado; después el Rúaj lo lleva al desierto. | La identidad proclamada precede la prueba; el relato no presenta la tentación como espectáculo.                  |
+| #markos_1_14-15  | TTH: «Se ha cumplido el tiempo ... vuelvan a יהוה y crean a la buena noticia».                                                | El reino anunciado exige retorno y confianza, no mera admiración.                                                |
+| #markos_1_21-22  | TTH: Yehoshua enseñaba «como quien posee poder».                                                                              | Su enseñanza precede y enmarca los actos de autoridad.                                                           |
+| #markos_1_23-27  | TTH: un hombre está «con un espíritu impuro»; Yehoshua ordena: «¡Cállate y sal de él!»                                        | El mandato produce asombro porque aun los espíritus le escuchan.                                                 |
+| #markos_1_32-34  | TTH distingue «todos los enfermos y endemoniados»; sanó enfermedades y expulsó demonios.                                      | Marcos no permite colapsar ambas categorías.                                                                     |
+| #markos_1_35, 38 | TTH: fue a un lugar desierto y oró; luego dice que irá a proclamar a otras ciudades.                                          | La fama no reemplaza la oración ni define por sí sola su misión.                                                 |
+| #markos_1_40-44  | TTH: «Si Tú quieres, Tú puedes limpiarme»; Yehoshua responde «Yo quiero» y manda mostrarse al sacerdote.                      | La limpieza une compasión, voluntad de Yehoshua y el procedimiento de Moshéh.                                    |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal | Fuerza contextual | Equivalencia |
-| --- | --- | --- | --- | --- |
-| **(πνεῦμα ἀκάθαρτον)** | pneuma akatharton | espíritu impuro | Designa en Marcos al agente que grita, reconoce a Yehoshua y sale ante su orden. | No es equivalente exacto a una explicación médica ni a toda aflicción humana. |
-| **(רוח)** | ruaj | viento, aliento, espíritu | Eric señala con razón que el término puede tener un campo más amplio que «fantasma»; Marcos, sin embargo, usa griego y describe una entidad que habla. | Aproximada, no retrotraducción demostrada. |
-| **(טמא)** | tame | impuro, ritualmente inepto | Ayuda a no reducir «impuro» a suciedad física: la impureza regula acceso y estado en la Torá. | Aproximada con *akathartos*; no agota el uso de Marcos. |
-| **(ἐξουσία)** | exousia | autoridad, derecho o poder para actuar | En vv. 22 y 27 describe la autoridad reconocida en la enseñanza y en el mandato. | Traducción directa aproximada como «autoridad». |
-| **(λεπρός)** | lepros | persona con afección llamada lepra | El relato llama así al hombre y narra su limpieza; no identifica automáticamente la afección con un diagnóstico moderno ni con un pecado particular. | Aproximada con **(צרעת)**; los campos no deben igualarse sin examen. |
-| **(βασιλεία)** | basileia | reino, reinado o esfera de gobierno | En 1:15, «el reino de Elohim se ha acercado» anuncia la intervención gobernante de Elohim, no solamente un territorio; por eso el llamado a volver y confiar responde al anuncio. | Cercana a **(מלכות)**, *maljut*, pero el equivalente hebreo no reemplaza la forma griega ni fija por sí solo su alcance. |
-| **(μετανοεῖτε)** | metanoeite | cambien de mente, vuelvan, arrepiéntanse | Imperativo presente plural de 1:15: la llegada del reino exige una respuesta continua de retorno, no admiración pasiva. | «Arrepentirse» conserva el llamado ético; no debe reducirse a una emoción momentánea ni a una técnica de prosperidad. |
-| **(πιστεύετε)** | pisteuete | crean, confíen | Imperativo presente plural coordinado con *metanoeite*; en 1:15 llama a confiar en la buena noticia que acaba de ser proclamada. | Puede aproximarse a **(האמינו)**, *haaminu*, pero la equivalencia contextual no elimina el objeto «en la buena noticia». |
-| **(σπλαγχνισθείς)** | splagchnistheis | movido a compasión | Participio aoristo de 1:41: la compasión precede al toque y a la palabra «quiero»; el relato presenta una acción concreta, no una aprobación abstracta de la petición. | Se relaciona con **(רחם)**, *rajam*, en el campo de las entrañas compasivas, sin afirmar que Marcos esté citando una forma hebrea. |
+| Forma                  | Transliteración   | Sentido normal                           | Fuerza contextual                                                                                                                                                                 | Equivalencia                                                                                                                       |
+| ---------------------- | ----------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **(πνεῦμα ἀκάθαρτον)** | pneuma akatharton | espíritu impuro                          | Designa en Marcos al agente que grita, reconoce a Yehoshua y sale ante su orden.                                                                                                  | No es equivalente exacto a una explicación médica ni a toda aflicción humana.                                                      |
+| **(רוח)**              | ruaj              | viento, aliento, espíritu                | Eric señala con razón que el término puede tener un campo más amplio que «fantasma»; Marcos, sin embargo, usa griego y describe una entidad que habla.                            | Aproximada, no retrotraducción demostrada.                                                                                         |
+| **(טמא)**              | tame              | impuro, ritualmente inepto               | Ayuda a no reducir «impuro» a suciedad física: la impureza regula acceso y estado en la Torá.                                                                                     | Aproximada con _akathartos_; no agota el uso de Marcos.                                                                            |
+| **(ἐξουσία)**          | exousia           | autoridad, derecho o poder para actuar   | En vv. 22 y 27 describe la autoridad reconocida en la enseñanza y en el mandato.                                                                                                  | Traducción directa aproximada como «autoridad».                                                                                    |
+| **(λεπρός)**           | lepros            | persona con afección llamada lepra       | El relato llama así al hombre y narra su limpieza; no identifica automáticamente la afección con un diagnóstico moderno ni con un pecado particular.                              | Aproximada con **(צרעת)**; los campos no deben igualarse sin examen.                                                               |
+| **(βασιλεία)**         | basileia          | reino, reinado o esfera de gobierno      | En 1:15, «el reino de Elohim se ha acercado» anuncia la intervención gobernante de Elohim, no solamente un territorio; por eso el llamado a volver y confiar responde al anuncio. | Cercana a **(מלכות)**, _maljut_, pero el equivalente hebreo no reemplaza la forma griega ni fija por sí solo su alcance.           |
+| **(μετανοεῖτε)**       | metanoeite        | cambien de mente, vuelvan, arrepiéntanse | Imperativo presente plural de 1:15: la llegada del reino exige una respuesta continua de retorno, no admiración pasiva.                                                           | «Arrepentirse» conserva el llamado ético; no debe reducirse a una emoción momentánea ni a una técnica de prosperidad.              |
+| **(πιστεύετε)**        | pisteuete         | crean, confíen                           | Imperativo presente plural coordinado con _metanoeite_; en 1:15 llama a confiar en la buena noticia que acaba de ser proclamada.                                                  | Puede aproximarse a **(האמינו)**, _haaminu_, pero la equivalencia contextual no elimina el objeto «en la buena noticia».           |
+| **(σπλαγχνισθείς)**    | splagchnistheis   | movido a compasión                       | Participio aoristo de 1:41: la compasión precede al toque y a la palabra «quiero»; el relato presenta una acción concreta, no una aprobación abstracta de la petición.            | Se relaciona con **(רחם)**, _rajam_, en el campo de las entrañas compasivas, sin afirmar que Marcos esté citando una forma hebrea. |
 
-## El reino anunciado y la enseñanza que actúa
+## Camino preparado, identidad probada y reino anunciado
 
-La apertura de Marcos sitúa a Yehoshua dentro de la buena noticia y del camino de יהוה anunciado en #markos_1_1-3. La parte 2 del estudio insiste en que el evangelio no comienza por exhibir un catálogo de prodigios, sino por presentar el poder de Elohim venido a la tierra y por detenerse en el Nombre: **(אהיה)** / «yo seré» de #shemot_3_14 y el memorial de las cuatro letras. Esa línea de identidad se desarrolla también en [[markos_el_eloha_elohim_adonay_yeshua]]; aquí importa su efecto sobre Marcos 1: el que enseña en la sinagoga y manda al espíritu impuro no es un taumaturgo suelto, sino el portador de la buena noticia de יהוה.
+Marcos no salta de la cita profética al ministerio público. En #markos_1_4-8 Iojanán aparece en el desierto proclamando una inmersión de retorno para perdón y llamando a preparar el camino. **μετάνοια**, _metanoia_, significa cambio de mente o retorno; aquí su fuerza es pública y ética, porque quienes llegan confiesan y reciben una señal de cambio. **ἰσχυρότερος**, _ischyroteros_, «más fuerte», marca la diferencia entre el mensajero y el que viene: Iojanán puede sumergir en agua, pero anuncia a quien sumergirá en el Rúaj apartado. La relación con **(שוב)**, _shuv_, «volver», es aproximada y pedagógica, no una prueba de que Marcos esté traduciendo una forma hebrea.
 
-Después de la entrega de Iojanán, el mensaje se vuelve explícito: el tiempo se ha cumplido, el reino se ha acercado, y la respuesta es volver a יהוה y creer a la buena noticia (#markos_1_14-15). El lector llega entonces a la sinagoga de Kefar Najum: Yehoshua enseña y la gente se asombra de su *exousia* (#markos_1_21-22).
+Los vv. 9-13 ordenan la identidad antes de la proclamación del reino. Yehoshua llega desde Natseret, es sumergido por Iojanán, ve abrirse los cielos, recibe el Rúaj y oye la voz que lo llama Hijo amado. Luego el mismo Rúaj lo lleva al desierto, donde permanece cuarenta días y es probado. Eric presenta a Yehoshua como la manifestación de la imagen de Elohim y como aquel cuyo poder enfrenta las tinieblas; el relato sostiene que su misión es confirmada desde arriba y probada en soledad, pero no convierte esas escenas en una demostración pública de poder. **ἐκβάλλω**, _ekballō_, «expulsar o echar fuera», describe la acción del Rúaj al llevarlo al desierto y luego reaparece en los exorcismos: el paralelo verbal no borra la diferencia entre prueba obediente y liberación de un espíritu.
+
+Después de la entrega de Iojanán, el mensaje se vuelve explícito: el tiempo se ha cumplido, el reino se ha acercado, y la respuesta es volver a יהוה y creer a la buena noticia (#markos_1_14-15). El anuncio queda enlazado con el camino preparado, la identidad confirmada y la prueba superada; por eso no es una invitación a admirar milagros aislados. La autoridad que se verá en la sinagoga está al servicio de una misión ya definida.
 
 La clase observa que la primera demostración de esa autoridad es el enfrentamiento con las tinieblas. El texto permite decir que su mandato desenmascara una oposición a su presencia y libera al hombre; por eso la gente une «enseñanza nueva» y autoridad sobre espíritus impuros (#markos_1_27). Pero no dice que la enseñanza sea nueva porque revele una técnica de exorcismo. La novedad percibida está en que Yehoshua ordena y es obedecido. La confesión «el Apartado de Elohim» (#markos_1_24) tampoco procede de un testigo que él acepte: él lo hace callar (#markos_1_25).
 
@@ -91,17 +91,20 @@ El leproso llega arrodillado con una petición que Eric destaca justamente: «Si
 
 El hombre divulga el hecho, con la consecuencia de que Yehoshua permanece fuera en lugares desiertos (#markos_1_45). Marcos conserva esta tensión: la misericordia atrae a todos, pero Yehoshua no queda definido por la fama ni por la voz de quienes lo rodean. El capítulo sostiene su identidad mediante el anuncio, la enseñanza autorizada, la liberación, la oración y una compasión que devuelve al limpiado al camino de obediencia.
 
-## Mapa de la enseñanza de Eric
-
-- **Marcos 1:1-15 — buena noticia e identidad:** la parte 2 detiene la lectura en el Nombre y en el poder de Elohim en la tierra; la nota lo enlaza con el inicio del evangelio y remite el desarrollo onomástico a la nota de El/Elohim.
-- **Marcos 1:21-27 — autoridad en la sinagoga:** la clase observa que la liberación manifiesta autoridad sobre las tinieblas; la nota la sostiene con el mandato y el silencio impuesto al espíritu, sin reducirlo a una técnica.
-- **Marcos 1:29-34 — enfermedad y espíritus:** Eric distingue sanidad de expulsión; la nota conserva y apoya esa distinción con las dos categorías que el relato enumera.
-- **Marcos 1:35-45 — oración y limpieza:** la clase destaca la oración de Yehoshua y la súplica del leproso; la nota las trata como apoyo textual y mantiene el envío al sacerdote como límite procedimental.
-
 ## Pendiente de verificar
 
-- [ ] Localizar la fuente rabínica precisa que la clase relaciona con el uso de *bat qol* o con las categorías de impureza, antes de atribuirle una referencia concreta.
+- [ ] Localizar la fuente rabínica precisa que la clase relaciona con el uso de _bat qol_ o con las categorías de impureza, antes de atribuirle una referencia concreta.
 - [ ] Cotejar en una fuente léxica el alcance de **(λεπρός)** y su relación histórica con **(צרעת)**, sin trasladar automáticamente una categoría a la otra.
+
+## Mapa de la enseñanza de Eric
+
+- **#markos_1_4-13 — preparación, inmersión y prueba:** Eric presenta a Yehoshua como la imagen de Elohim manifestada y como quien enfrenta el imperio de las tinieblas. La nota conserva esa observación, pero sigue el orden del texto: Iojanán prepara el camino, el Rúaj confirma al Hijo amado y después lo conduce al desierto; la aplicación sobre poder y misión queda cualificada por esa prueba silenciosa.
+- **#markos_1_1-15 — reino, retorno y buena noticia:** Eric presenta el comienzo como anuncio del reino de יהוה y relaciona su recepción con volver a יהוה y confiar en la buena noticia. La secuencia del texto sostiene esa lectura: Marcos pasa del camino anunciado a la proclamación de que el tiempo se cumplió; la conexión con una reconstrucción semítica más amplia queda como interpretación de la clase.
+- **#markos_1_21-34 — autoridad que distingue liberación y enfermedad:** Eric recalca que Yehoshua enseña con autoridad, manda al espíritu impuro y sana la fiebre sin mezclar ambas escenas. La nota lo prueba con la sintaxis narrativa de los vv. 21-27 y la enumeración diferenciada de los vv. 32-34; no convierte esa distinción en un diagnóstico moderno ni en una explicación de todo sufrimiento.
+- **#markos_1_35-39 — oración antes que popularidad:** Eric lee la salida al lugar desierto como una corrección de la presión de la multitud. El relato confirma que Yehoshua ora, rechaza quedarse limitado a la fama local y continúa proclamando en otras ciudades; la aplicación pastoral sobre la religiosidad espectacular es una inferencia, no una frase del texto.
+- **#markos_1_40-45 — compasión y procedimiento de Moshéh:** Eric destaca la petición condicional del leproso y la voluntad compasiva de Yehoshua, junto con el envío al sacerdote. La nota conserva el movimiento completo —petición, toque, limpieza, mandato y desobediencia que divulga el hecho— y deja abierta la equivalencia exacta entre **(λεπρός)** y **(צרעת)**.
+
+El mapa distingue lo que la exposición observa del alcance que el pasaje permite afirmar; la transcripción automática sirve para atribución y orientación, no como cita literal.
 
 ## Conclusión
 
@@ -111,7 +114,6 @@ Marcos 1 llama a recibir el reino mediante retorno a יהוה y confianza en la 
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Gospel According to Mark Part 1](https://www.youtube.com/watch?v=Farvi5l0RRA) (`source_id`: `youtube:Farvi5l0RRA`).
-- Video: [Evangelio según Marco Parte 2](https://www.youtube.com/watch?v=LuxlrvnMbu8) (`source_id`: `youtube:LuxlrvnMbu8`).
 - Video: [El Evangelio según Marco Parte 3](https://www.youtube.com/watch?v=BRqiJzOHBkQ) (`source_id`: `youtube:BRqiJzOHBkQ`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 

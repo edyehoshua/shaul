@@ -77,6 +77,14 @@ La propiedad no puede usarse contra quien cae: «lo sostendrás ... y vivirá co
 
 Si el hermano se vende por pobreza, no se le hace trabajar como esclavo; sirve hasta el yovel y luego vuelve con sus hijos a su familia y posesión (#vaikra_25_39-41). El fundamento se repite: «mis siervos son, a quienes saqué de Egipto» (#vaikra_25_42, #vaikra_25_55). **(עבדי)**, _avaday_, «mis siervos», es constructo plural con sufijo de primera persona; su fuerza es pertenencia a יהוה como libertador. Decir «nadie puede servir jamás a otra persona» sería una extrapolación incorrecta: el capítulo regula servicio por pobreza, pero prohíbe dominar al hermano con dureza y niega que pueda tratarse como una mercancía esclava.
 
+## La posesión queda subordinada a la liberación
+
+El OE resume el límite económico con una doble pertenencia: **כי לי הארץ כי גרים ותושבים אתם עמדי** (#vaikra_25_23), «porque mía es la tierra; pues extranjeros y residentes sois vosotros conmigo». El TTH local vierte el mismo movimiento como «porque la tierra es mía, pues ustedes son forasteros y habitantes junto a Mí». La frase no niega que Israel tenga una **(אחזה)**, _ajuzzah_, una posesión heredada; niega que esa posesión pueda venderse «para siempre». La traducción “propiedad” es por ello **aproximada**: comunica tenencia, pero no dominio absoluto.
+
+Eric lleva este principio desde la parcela al trato del hermano y a la expectativa de una patria superior. La primera extensión sí está anclada en la secuencia: quien administra una tierra que pertenece a יהוה no puede convertir la pobreza del hermano en una relación de dominio ilimitado. La segunda es una lectura canónica **pedagógica**, no el referente directo de _ajuzzah_. Hebreos 4 puede releer el descanso, pero no elimina el mandamiento económico que Vayikra formula en su propio contexto.
+
+El fundamento reaparece al final: **כי לי בני ישראל עבדים עבדי הם אשר הוצאתי אותם מארץ מצרים** (#vaikra_25_55). **(עבדים)**, _avadim_, significa siervos o servidores; aquí el constructo con el sufijo de primera persona, **(עבדי)**, _avaday_, expresa «mis siervos». “Esclavos de Dios” puede ser una equivalencia **tradicional**, pero necesita explicación: la fuerza contextual es que el éxodo establece quién posee la lealtad última y limita el poder del acreedor israelita. Eric acierta al conectar libertad y servicio, siempre que “libertad” no se vuelva autonomía sin dueño: el capítulo libera al hermano de la dureza precisamente para devolverlo a la pertenencia de יהוה.
+
 ## Hoja léxica
 
 | Forma            | Transliteración   | Sentido normal y forma                                      | Fuerza contextual                                      | Tipo de relación                             |
@@ -119,7 +127,6 @@ Vayikra 25 no sacraliza la escasez ni el control económico. Ordena un descanso 
 ## Créditos
 
 - Nota de frontera: la clase Parashot 2016-2017 paralela queda bajo la lane colosenses; esta nota tanaj se ancla en la exposición asignada a tanaj.
-
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Behar Lv 25-26 The Shmitah, the Yovel and the Mnujáh](https://www.youtube.com/watch?v=kNM4bV6k3Z8) (`source_id`: `youtube:kNM4bV6k3Z8`).
