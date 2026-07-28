@@ -70,6 +70,28 @@ El relato de Horeb insiste en que Israel oyó una voz de palabras, pero no vio f
 
 La enseñanza también debe transmitirse: «las harás conocer a tus hijos y a los hijos de tus hijos». **(ידע)**, _yada_, significa conocer, reconocer o hacer saber; en la forma causativa de este mandato su fuerza es comunicar deliberadamente la historia y sus palabras. «Informar» es demasiado débil. El texto local, por tanto, añade una dimensión comunitaria al énfasis de Eric: la gracia recibida se vuelve testimonio cuando una generación enseña a la siguiente qué oyó, qué no vio y por qué debe guardar el pacto.
 
+## No fabricar lo que no se vio — Devarim 4:15–31
+
+Después de recordar que Israel oyó una voz sin ver figura, Mosheh vuelve a la consecuencia práctica: «guárdense mucho sus almas» y no se corrompan haciendo imagen. **(פסל)**, _pesel_, significa imagen tallada o figura esculpida; en este contexto designa un objeto fabricado para sustituir la obediencia recibida. «Ídolo» es una equivalencia aproximada y contextual: comunica la función cultual, aunque la forma hebrea subraya el objeto labrado. La advertencia alcanza imágenes de hombre, mujer, animal, ave, reptil y astro; el catálogo no autoriza reducir el mandamiento a una sola clase de representación.
+
+El texto enlaza la prohibición con la memoria del fuego de Joreb y con el riesgo de olvidar el pacto. **(ברית)**, _berit_, significa pacto, alianza o compromiso establecido; aquí es la relación que Israel no debe abandonar al convertir lo creado en mediador manipulable. «Contrato» es una equivalencia pedagógica demasiado estrecha, porque el pasaje habla de una relación jurada y generacional. Al mismo tiempo, 4:25–31 no termina en fatalismo: si Israel busca a יהוה desde allí y vuelve a escuchar su voz, hallará compasión. **(שוב)**, _shuv_, significa volver, regresar o retornar; en la promesa su fuerza es reorientarse hacia יהוה, no simplemente sentir remordimiento. La gracia del título queda así contrastada con dos movimientos inseparables: no olvidar y volver.
+
+## Palabra recibida, límites y vida comunitaria — Devarim 5:22–33
+
+Tras las diez palabras, Israel pide que Mosheh escuche y comunique todo lo que יהוה diga. El mediador no recibe permiso para reemplazar la voz: «estas palabras habló יהוה ... y no añadió más». **(יסף)**, _yasaf_, significa añadir, continuar o aumentar; aquí marca el límite narrativo de no agregar otra palabra a la proclamación del pacto. «Completar» sería una equivalencia pedagógica que no corresponde al sentido inmediato. La obediencia que Eric asocia con participar de la gracia debe permanecer unida a esta disciplina de escuchar lo que fue hablado, no lo que el oyente desearía añadir.
+
+El cierre de la unidad repite «andar en todo el camino» y «para que les vaya bien». **(דרך)**, _derekh_, es camino, vía o manera de proceder; aquí funciona como imagen de una conducta sostenida según los mandamientos. «Estilo de vida» es una equivalencia pedagógica útil, pero más amplia que el sustantivo. La promesa de bien no cancela la instrucción: el texto manda no desviarse ni a derecha ni a izquierda. La herencia recibida se reconoce, por tanto, en una comunidad que transmite fielmente las palabras y camina dentro de ellas.
+
+## Amor enseñado en casa y memoria de la tierra — Devarim 6:10–25
+
+El Shemá continúa con una advertencia contra olvidar a יהוה cuando Israel entre en casas, cisternas, viñas y olivares que no edificó ni plantó. **(שכח)**, _shakach_, significa olvidar, descuidar o dejar de tener presente; aquí no es un fallo neutral de memoria, sino vivir el don de la tierra como si no hubiera Dador. «Ingratitud» es una equivalencia pedagógica: resume la dirección moral, pero no reemplaza la forma verbal. El mandato «a יהוה tu Elohim temerás, a él servirás y por su nombre jurarás» enlaza memoria, reverencia y lealtad exclusiva.
+
+La respuesta que debe enseñarse a los hijos comienza con la historia: «éramos siervos de Faraón en Mitzráim, y יהוה nos sacó». **(עבד)**, _avad_, significa servir, trabajar o ser siervo; en 6:21 recuerda una condición de servidumbre concreta y, por contraste, el servicio debido a יהוה. «Liberación interior» sería una ampliación pedagógica, no la equivalencia exacta del relato. La gracia participada se vuelve relato familiar, mandamiento y práctica: el pueblo no inventa su identidad después de recibir la tierra, sino que recuerda quién lo sacó y por qué debe hacer lo recto.
+
+## Mapa ampliado del recorrido
+
+El orden completo del tramo precisa el eje de la clase: límite para Mosheh y encargo a Yehoshua (3:23–29); escucha que conduce a vida (4:1–14); prohibición de fabricar una figura después de oír una voz (4:15–31); pacto transmitido sin añadir palabras (5:22–33); amor y memoria enseñados en casa (6:4–25); y elección por amor leal, no por grandeza (7:6–11). La «participación de gracia» es una descripción pública conservada con cautela: el texto la evalúa mediante presencia, memoria, enseñanza y obediencia, no mediante una experiencia desligada del pacto.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal y fuerza contextual                                    | Equivalencia                                                         |
