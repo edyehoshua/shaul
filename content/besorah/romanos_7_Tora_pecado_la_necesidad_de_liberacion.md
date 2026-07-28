@@ -74,6 +74,16 @@ La parte 17 prolonga el grito de Romanos 7 hacia el «ahora» de #romanos_8_1. E
 
 #romanos_8_3-4 mantiene juntas las piezas que Romanos 7 había dejado tensas. Elohim hace lo que la Torá no podía hacer por la debilidad de la carne, condenando el pecado en la carne de su Hijo, «para que» se cumpla en nosotros la exigencia justa de la Torá mientras caminamos según el Rúaj. Esa finalidad impide usar el pasaje para oponer al Rúaj contra una vida obediente; tampoco permite resolver todas las preguntas de aplicación con una palabra aislada.
 
+## La libertad que responde al grito
+
+Las partes 15–17 deben conservarse en el orden en que la serie las presenta: novedad del Rúaj, tragedia del conflicto y libertad verdadera. La observación de Eric no convierte #romanos_7_14-25 en una invitación a instalarse en la derrota; el grito «¿quién me librará?» prepara la acción de gracias por medio de Yehoshua y el «ahora» sin condenación de #romanos_8_1. A la vez, Romanos 7 no permite borrar la tensión antes de llegar a Romanos 8: el hablante reconoce el bien de la Torá, pero no puede producir por sí mismo la liberación que necesita.
+
+La discusión sobre la voz del «yo» debe permanecer abierta. **(ἐγώ)**, _egō_, significa «yo» y en #romanos_7_14-25 marca una primera persona que desea, consiente, descubre y clama; la forma es **directa**, pero decidir si representa a Pablo autobiográfico, a Israel, a la humanidad bajo la Torá o a una figura retórica es una inferencia **cualificada**, no una conclusión del pronombre aislado. Esta cautela honra la clase sobre «la tragedia de los carnales» sin convertir una opción interpretativa en el único sentido del pasaje.
+
+También importa distinguir el poder del pecado de la calidad del mandamiento. **(ἐξαπατάω)**, _exapataō_, significa engañar por completo o seducir; en #romanos_7_11 describe la acción del pecado por medio del mandamiento. «Engañar» es una glosa **directa**, mientras afirmar que la Torá produce el engaño sería una lectura **incorrecta** frente a #romanos_7_12. **(δουλεύω)**, _douleuō_, significa servir como esclavo o estar sujeto; en #romanos_7_25 presenta la tensión entre servir a la ley de Elohim con la mente y a la ley del pecado con la carne. «Servir» es **aproximado** como traducción española, y la frase no autoriza a separar mente y cuerpo como si una obediencia interior hiciera irrelevante la conducta.
+
+La conexión con #romanos_8_1-4 debe calificarse de la misma manera. **(κατάκριμα)**, _katakrima_, significa sentencia condenatoria o condena; en #romanos_8_1 la ausencia de condenación pertenece a quienes están en el Mesías Yehoshua. «No hay condenación» es una glosa **directa**, pero no equivale a que el pecado haya dejado de ser pecado ni a que el creyente quede sin llamado: el versículo 4 conserva la finalidad de que la exigencia justa de la Torá se cumpla en quienes caminan según el Rúaj. La libertad verdadera que anuncia la tercera clase es, por tanto, liberación para un caminar nuevo.
+
 ## Hoja léxica
 
 | Forma fuente   | Transliteración | Sentido normal                | Fuerza contextual                                                                              | Relación                                                                                                                                                         |

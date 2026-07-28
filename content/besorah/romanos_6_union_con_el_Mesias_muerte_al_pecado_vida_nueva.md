@@ -75,6 +75,16 @@ Pablo reconoce que habla en términos humanos a causa de la debilidad de la carn
 
 El cierre conserva una asimetría esencial. La muerte es salario del pecado; la vida eterna es don de gracia de Elohim en el Mesías Yehoshua (#romanos_6_23). Así, Pablo no calcula la vida como paga merecida por la santificación, pero tampoco deja el don sin fruto visible. La secuencia del capítulo sostiene a la vez el regalo divino y la entrega práctica que la clase sobre el cambio de subordinación busca destacar.
 
+## El cambio de señorío no es neutralidad
+
+Las dos clases acreditadas deben leerse como una sola progresión. La primera, `youtube:hj1Eu4BPPBc`, destaca la inmersión y la muerte al pecado; la segunda, `youtube:o87CBGw9-Zo`, formula el resultado como un cambio de subordinación. Romanos 6 confirma ambas observaciones, pero corrige cualquier lenguaje que sugiera autonomía absoluta: quien deja de obedecer al pecado es presentado a Elohim y queda comprometido con la obediencia que conduce a justicia (#romanos_6_12-18). La libertad del capítulo no es ausencia de señorío, sino traslado de la lealtad y de los miembros del cuerpo.
+
+La imagen de esclavitud es deliberadamente una comparación humana (#romanos_6_19). Pablo reconoce la limitación de la metáfora, pero no la abandona: antes había fruto para impureza e iniquidad; ahora hay fruto para santificación. Por eso la observación de Eric sobre «ya no ser subordinados» recibe apoyo **cualificado**: el creyente ya no está bajo el dominio del pecado, pero el texto describe una disponibilidad nueva para Elohim, no una independencia que permita decidir sin obediencia. La frase pastoral «no estar bajo sentencia» debe conservarse como aplicación aproximada, mientras el vocabulario comprobable permanece en pecado, gracia, obediencia, justicia y santificación.
+
+Dos verbos precisan el movimiento. **(δουλεύω)**, _douleuō_, significa servir como esclavo o estar sujeto; en #romanos_6_6 y #romanos_6_16-20 describe la relación de dominio que Pablo contrasta entre pecado, obediencia y justicia. «Servir» es una traducción directa pero menos intensa que la imagen social; la aplicación de Eric es **pedagógica** cuando la expresa como subordinación, no como una categoría legal moderna exacta. **(καθίστημι)**, _kathistēmi_, significa poner, establecer o constituir; en #romanos_6_13 y #romanos_6_19 ilumina la orden de presentar los miembros. «Presentar» es una glosa **aproximada y contextual**: el verbo no designa por sí solo un rito, sino una entrega efectiva de la conducta.
+
+Así se evita separar el don de su resultado. **(ἁγιασμός)**, _hagiasmos_, significa santificación o consagración; en #romanos_6_19 y #romanos_6_22 nombra el fruto y la dirección de la nueva obediencia. «Santificación» es una traducción **directa** en el campo básico, pero no significa perfección instantánea ni salario que compre la vida eterna. La clase acierta al contrastar frutos y finales; el texto exige añadir que la vida eterna sigue siendo el don de Elohim en Yehoshua.
+
 ## Hoja léxica
 
 | Forma fuente      | Transliteración | Sentido normal                       | Fuerza contextual                                                                                   | Relación                                                                                                                          |
