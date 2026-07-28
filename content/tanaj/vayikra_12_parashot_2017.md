@@ -44,6 +44,16 @@ La respuesta responsable al pasaje parte de escuchar su lenguaje, sus destinatar
 
 Vayikra 12 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
 
+## 4. La hija, la mano que no alcanza y el orden de la reintegración
+
+En 12:5 el texto duplica el plazo inicial cuando la parturienta da a luz una hija: «y estará treinta y tres días en las sangres de su pureza», después de los catorce días de separación. **טמא**, _tame_, describe la condición ritual de impureza; no equivale aquí a «mala» ni a una sentencia sobre el valor de la niña. **טהור**, _tahor_, describe la aptitud ritual recuperada al completarse el plazo. Eric relaciona la duplicación con la continuidad de la maternidad y con la necesidad de reconstitución; el pasaje sí da la duración y la transición, pero deja la razón teológica fuera de la explicación explícita. La nota conserva la lectura como aplicación cualificada, no como traducción de «catorce».
+
+El OE dice en 12:6 que, al cumplirse los días de su pureza por hijo o por hija, la mujer lleva «un hijo de un año para holocausto y un hijo de paloma o tórtola para ofrenda por el pecado». El TTH expresa la misma secuencia de acercamiento. **מלא**, _male_, significa llenar o completar; la forma **ובמלאת**, _uvimlot_, coloca el acto cultual después del plazo, no antes. Esto confirma una observación importante de Eric: la recuperación no se decide por una impresión subjetiva de bienestar, sino que el capítulo conserva un orden recibido de días, acceso y ofrenda. La analogía de completar un tratamiento ayuda pedagógicamente, aunque no convierte la norma en medicina moderna.
+
+En 12:7 el sacerdote «hará expiación por ella y será pura». **כפר**, _kiper_, normalmente significa cubrir, hacer expiación o realizar el rito de reparación; en esta unidad su fuerza contextual es resolver la condición cultual y permitir la reintegración. «Borrar toda culpa personal» sería una equivalencia excesiva, porque la misma frase sigue al nacimiento y no acusa a la madre de una transgresión concreta. Eric tiene razón al resistir la reducción de todos los sacrificios a una sola categoría: la **עלה**, _olah_, y la **חטאת**, _jatat_, permanecen diferenciadas en el texto.
+
+Finalmente, 12:8 protege la participación de quien no puede traer un cordero: «y si no alcanza su mano lo suficiente para un cordero, tomará dos tórtolas o dos hijos de paloma». **יד**, _yad_, significa mano; en **לא תגיע ידו**, _lo tagia yado_, la expresión funciona idiomáticamente como capacidad económica insuficiente. **לקח**, _laqaj_, significa tomar; aquí ordena la alternativa permitida, no una concesión que expulse a la pobre del culto. La exposición de Eric sobre la dignidad de la mujer queda mejor sostenida por este detalle textual que por la afirmación de que el capítulo identifica a la mujer como fuente moral de la muerte: Vayikra 12 ofrece acceso regulado y provisión, no un estigma.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
