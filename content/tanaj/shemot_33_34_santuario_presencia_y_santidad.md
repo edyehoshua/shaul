@@ -80,7 +80,15 @@ El título de Eric habla de «profanar el cuerpo de Mashíaj». Esa aplicación 
 | Shabat Jol Hamo'ed de Sukkot | El título público une la ocasión festiva con una exhortación contra profanar el cuerpo de Mashíaj. | Pendiente de verificar la exposición oral; se conserva el título y se contrasta con el descanso y la fiesta de Éxodo 34. |
 | Éxodo 33:12–23               | La clase está situada en el marco de una lectura de santidad y presencia.                          | Apoyo textual: se explican _panai_, _kavod_ y el límite de ver el rostro.                                                |
 | Éxodo 34:6–16                | El marco del pacto da contenido a la santidad.                                                     | Apoyo textual: se explican _jesed_, _emet_, _karat berit_ y _qaná_.                                                      |
-| Éxodo 34:18–28               | La ocasión festiva incluye instrucciones de tiempo, trabajo y reunión.                             | Apoyo textual: se explica _shavat_ y se evita atribuir una teología no comprobada a la clase.                            |
+| Éxodo 34:18–28               | La ocasión festiva incluye instrucciones de tiempo, trabajo y reunión.                             | Se explica _shavat_ y se evita atribuir una teología no comprobada a la clase.                                           |
+
+## Evaluación integrada: presencia que distingue y palabra que regula
+
+La petición de Moshéh avanza en el orden del texto: primero pide que יהוה muestre el camino, luego pide su presencia y finalmente solicita ver la gloria. El verbo **(הלך)**, _halakh_, significa caminar o ir; en #shemot_33_15 la frase «si tu rostro no va» hace de la presencia una condición del camino comunitario. «Dirección espiritual» es una equivalencia **pedagógica**, no exacta: el verbo conserva la imagen de avanzar con el pueblo. Eric puede hablar de un cuerpo comunitario que debe ser santo, pero Éxodo define esa distinción mediante la presencia que acompaña y no mediante una experiencia interior autónoma.
+
+En #shemot_34_10 יהוה anuncia que hará una maravilla y establece nuevamente el pacto. **(נפלא)**, _nifla_, significa maravilloso, extraordinario o difícil de comprender; su fuerza contextual es una obra que distingue a Israel ante los pueblos, no una licencia para llamar milagro a cualquier práctica. «Señal de identidad» es una equivalencia **pedagógica** que resume el efecto narrativo. La orden de no hacer pacto con los habitantes y la prohibición de inclinarse ante otros elohim muestran cómo se verifica la santidad: la presencia produce lealtad exclusiva.
+
+El capítulo termina con el velo, no con la autonomía del mediador. **(שים)**, _sim_, significa poner, colocar o establecer; en #shemot_34_33 la forma describe que Moshéh pone un velo sobre su rostro después de hablar. «Ocultar la gloria» es una paráfrasis **aproximada**: el acto regula la exposición del resplandor, mientras que la palabra del pacto sigue siendo comunicada. Esta secuencia evalúa con equilibrio el título de Eric: la preocupación por no profanar el cuerpo de Mashíaj puede conservarse como aplicación, pero el texto exige recibir la palabra, guardar el descanso y rechazar la alianza idolátrica.
 
 ## Conclusión
 
