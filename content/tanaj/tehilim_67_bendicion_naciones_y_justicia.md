@@ -30,11 +30,11 @@ Esta nota organiza la clase del hermano Eric sobre Tehilim 67, contenida en una 
 
 ## Hoja de comparación
 
-| Referencia      | Texto local (hebreo sin nikud)                                                                     | Observación                                                                                             |
-| --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| #tehilim_67_2-3 | אלהים יחננו ויברכנו יאר פניו אתנו סלה; לדעת בארץ דרכך בכל גוים ישועתך                    | La bendición y el resplandor del rostro se orientan a dar a conocer el camino y la salvación de Elohim. |
+| Referencia      | Texto local (hebreo sin nikud)                                                              | Observación                                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| #tehilim_67_2-3 | אלהים יחננו ויברכנו יאר פניו אתנו סלה; לדעת בארץ דרכך בכל גוים ישועתך                       | La bendición y el resplandor del rostro se orientan a dar a conocer el camino y la salvación de Elohim. |
 | #tehilim_67_4-6 | יודוך עמים אלהים יודוך עמים כלם; ישמחו וירננו לאמים כי תשפט עמים מישור ולאמים בארץ תנחם סלה | La alabanza de los pueblos se asocia con el juicio recto y la guía de Elohim.                           |
-| #tehilim_67_7-8 | ארץ נתנה יבולה יברכנו אלהים אלהינו; יברכנו אלהים וייראו אתו כל אפסי ארץ                      | La fertilidad de la tierra concluye en bendición y temor de Elohim hasta los confines.                  |
+| #tehilim_67_7-8 | ארץ נתנה יבולה יברכנו אלהים אלהינו; יברכנו אלהים וייראו אתו כל אפסי ארץ                     | La fertilidad de la tierra concluye en bendición y temor de Elohim hasta los confines.                  |
 
 ## Bendición que da a conocer el camino
 
@@ -51,6 +51,14 @@ El expositor comenta la ambivalencia de forma verbal entre una proclamación fut
 ## Tierra, fruto y temor de Elohim
 
 La tierra da su fruto (#tehilim_67_7), pero el salmo atribuye la bendición a «Elohim, nuestro Elohim». El resultado final no es la autosuficiencia agrícola, sino que «todos los confines de la tierra» le teman (#tehilim_67_8). Así, el fruto confirma una pedagogía de gratitud, justicia y testimonio.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual  | Observación concreta de la clase                                                                                                                                                                | Tratamiento en esta nota                                                                                                                                                                          |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_67_2-3 | Eric observa que la gracia, la bendición y el resplandor del rostro no terminan en beneficio privado: tienen como finalidad que el camino y la salvación de Elohim sean conocidos en la tierra. | **Apoyo textual y conexión canónica**: el propósito universal está en el verso; el vínculo con la promesa a Abram se conserva como lectura relacionada, sin borrar la forma de oración del salmo. |
+| #tehilim_67_4-6 | La clase sigue el estribillo que llama a todos los pueblos a alabar y relaciona su alegría con el juicio recto y el gobierno de Elohim.                                                         | **Apoyo textual y aclaración gramatical**: pueblos, naciones, gozo y juicio aparecen en la unidad; la disputa sobre el valor temporal de las formas verbales queda pendiente de verificación.     |
+| #tehilim_67_7-8 | Eric lee la cosecha como señal de bendición que debe culminar en temor de Elohim hasta los confines, no en autosuficiencia del grupo bendecido.                                                 | **Apoyo textual y aplicación cualificada**: el fruto, la bendición y el temor final son explícitos; las extensiones históricas sobre las setenta naciones permanecen pendientes.                  |
 
 ## Pendiente de verificar
 

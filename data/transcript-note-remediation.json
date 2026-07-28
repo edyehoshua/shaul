@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 257,
+  "total_notes_requiring_remediation": 253,
   "notes": [
     {
       "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
@@ -27,30 +27,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/besorah/hebreos_3_mesias_moshe_y_corazon_fiel.md",
-      "substantive_words": 86,
-      "thematic_sections": [
-        "casa, testimonio y advertencia"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
-      "substantive_words": 84,
-      "thematic_sections": [
-        "reposo y acercamiento"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md",
       "substantive_words": 81,
@@ -2047,19 +2024,6 @@
       ]
     },
     {
-      "path": "content/tanaj/tehilim_58_justicia_violencia_y_escucha.md",
-      "substantive_words": 412,
-      "thematic_sections": [
-        "hablar de justicia y pesar violencia",
-        "la escucha que se cierra",
-        "juicio sin complacencia en la destrucción",
-        "hoja léxica"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
-    {
       "path": "content/tanaj/tehilim_5_oracion_vigilancia_y_refugio.md",
       "substantive_words": 423,
       "thematic_sections": [
@@ -2152,18 +2116,6 @@
         "mar, río y memoria de liberación",
         "prueba que no cancela la preservación",
         "testimonio, oración y corazón"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/tanaj/tehilim_67_bendicion_naciones_y_justicia.md",
-      "substantive_words": 306,
-      "thematic_sections": [
-        "bendición que da a conocer el camino",
-        "pueblos, juicio y alegría",
-        "tierra, fruto y temor de elohim"
       ],
       "issues": [
         "missing_eric_map"
