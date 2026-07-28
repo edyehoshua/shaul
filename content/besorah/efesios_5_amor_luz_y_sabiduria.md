@@ -65,15 +65,15 @@ Efesios 5 llama a una vida que imita a Elohim como hijos amados: caminar en amor
 
 El inicio no define imitar a Elohim como una técnica espiritual, sino como un caminar en amor según la entrega del Mesías. Por eso las partes 25 y 26 pueden orientar la pregunta por el amor y la luz, siempre que no se usen para convertir una frase de la clase en una definición exhaustiva de Elohim o de la experiencia humana. #ephesians_5_1-2 sitúa el modelo en el amor y la entrega de Yehoshua el Mesías.
 
-## Luz, verdad y discernimiento
-
-Pablo recuerda una condición pasada y una condición presente: antes oscuridad, ahora luz en el Señor. #ephesians_5_8-10 no presenta la luz como identidad para presumir, sino como un camino cuyo fruto es bondad, justicia y verdad, que examina lo agradable al Señor. Las clases sobre oscuridad y luz invitan a revisar la conducta; el texto no autoriza a declarar desde fuera que una persona específica está definitivamente en oscuridad.
-
 ## Lo que no conviene normalizar (5:3-7)
 
 Antes de describir el fruto de la luz, Pablo delimita el camino contrario: inmoralidad, impureza, avaricia y una conversación que desfigura la gratitud (#ephesians_5_3-7). Eric insiste en que la santidad no es una etiqueta verbal, sino una conducta discernible; esa observación queda apoyada por la secuencia del texto, que pasa de las prácticas nombradas a la advertencia de no participar en ellas. La frase sobre la herencia del reino es una advertencia del argumento, no una licencia para declarar el destino final de una persona desde una sola conducta observada.
 
 El texto también une la codicia con la idolatría (#ephesians_5_5). Esa equivalencia argumental impide reducir el pasaje a una lista de faltas sexuales: el deseo posesivo y el uso del prójimo también están bajo examen. La clase aplica esta unidad a la pureza del habla y de las intenciones; la aplicación es coherente con el contraste textual, pero sus diagnósticos pastorales concretos deben conservar prudencia.
+
+## Luz, verdad y discernimiento
+
+Pablo recuerda una condición pasada y una condición presente: antes oscuridad, ahora luz en el Señor. #ephesians_5_8-10 no presenta la luz como identidad para presumir, sino como un camino cuyo fruto es bondad, justicia y verdad, que examina lo agradable al Señor. Las clases sobre oscuridad y luz invitan a revisar la conducta; el texto no autoriza a declarar desde fuera que una persona específica está definitivamente en oscuridad.
 
 ## Exponer, probar y caminar (5:8-14)
 
