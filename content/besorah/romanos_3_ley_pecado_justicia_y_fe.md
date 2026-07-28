@@ -52,12 +52,6 @@ Pablo resume el testimonio de las Escrituras con una imagen de desorden: no cono
 
 El versículo 20 impide leer la Torah como una escalera para fabricar mérito: por obras de Torah ninguna carne será declarada justa delante de Elohim, porque por la Torah viene el conocimiento del pecado. Esto no desprecia la instrucción. La misma Torah que no funciona como base de jactancia revela el pecado y deja al descubierto la necesidad de la justicia que Pablo anuncia.
 
-### Detalle léxico de Romanos 3:25-26: propiciación y demostración
-
-El centro sacrificial de #romanos_3_25 no debe quedar oculto detrás de una glosa española. **(ἱλαστήριον)**, _hilastērion_, puede referirse a un medio de expiación o al lugar de propiciación; en este contexto describe la acción que Elohim presenta públicamente en el Mesías mediante la emunah. «Propiciación» es una traducción aproximada y tradicional, no una prueba de que Pablo esté desarrollando aquí un único modelo técnico de sacrificio. El contexto inmediato limita la afirmación: Elohim muestra su justicia, pasa por alto pecados anteriores en su paciencia y permanece justo al justificar al que tiene emunah en Yehoshua (#romanos_3_25-26).
-
-También **(ἔνδειξις)**, _endeixis_, significa demostración o manifestación. Su fuerza en #romanos_3_25-26 es pública y argumental: la redención no solo beneficia al creyente, sino que responde a la pregunta de cómo Elohim puede ser justo y justificar. «Demostración» es una glosa directa; no autoriza a separar justicia y misericordia ni a convertir la palabra en una teoría exhaustiva de la expiación.
-
 ## Romanos 3:21-26: justicia manifestada y redención
 
 El «ahora» de #romanos_3_21 no rompe la historia bíblica como si las Escrituras anteriores hubieran sido irrelevantes. Pablo dice que la justicia de Elohim se ha manifestado aparte de Torah y que la Torah y los profetas dan testimonio de ella. «Aparte» califica la fuente de la justicia humana, no una expulsión de la Torah del testimonio de Elohim. La frase sostiene la novedad de la manifestación en el Mesías y, al mismo tiempo, la continuidad de las Escrituras que la atestiguan.
@@ -65,6 +59,10 @@ El «ahora» de #romanos_3_21 no rompe la historia bíblica como si las Escritur
 **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; en #romanos_3_21-26 nombra la acción justa de Elohim y la condición que él concede, según el movimiento del argumento. «Justicia» es una glosa directa, pero su fuerza pactual y relacional no se agota en una abstracción legal. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; aquí vincula la justicia con Yehoshua el Mesías y con quienes confían en él. Traducirla solo como emoción privada sería reductivo; traducirla automáticamente como una única teoría de mérito también excedería el contexto.
 
 Todos pecaron y están faltos de la gloria de Elohim (#romanos_3_23). **(ἁμαρτάνω)**, _hamartanō_, significa pecar o errar; su fuerza aquí es universal y moral, no una explicación etimológica de cada pecado. **(δόξα)**, _doxa_, significa gloria, honor o esplendor; «gloria» es exacta como glosa básica, mientras que «estar falto» comunica aproximadamente la carencia descrita. La justificación es «gratuita» por su gracia mediante la redención en el Mesías (#romanos_3_24). **(ἀπολύτρωσις)**, _apolytrōsis_, significa liberación mediante rescate o redención; «redención» es una traducción aproximada que conserva la imagen de liberación, sin fijar por sí sola un mecanismo comercial exhaustivo.
+
+El centro sacrificial de #romanos_3_25 no debe quedar oculto detrás de una glosa española. **(ἱλαστήριον)**, _hilastērion_, puede referirse a un medio de expiación o al lugar de propiciación; en este contexto describe la acción que Elohim presenta públicamente en el Mesías mediante la emunah. «Propiciación» es una traducción aproximada y tradicional, no una prueba de que Pablo esté desarrollando aquí un único modelo técnico de sacrificio. El contexto inmediato limita la afirmación: Elohim muestra su justicia, pasa por alto pecados anteriores en su paciencia y permanece justo al justificar al que tiene emunah en Yehoshua (#romanos_3_25-26).
+
+También **(ἔνδειξις)**, _endeixis_, significa demostración o manifestación. Su fuerza en #romanos_3_25-26 es pública y argumental: la redención no solo beneficia al creyente, sino que responde a la pregunta de cómo Elohim puede ser justo y justificar. «Demostración» es una glosa directa; no autoriza a separar justicia y misericordia ni a convertir la palabra en una teoría exhaustiva de la expiación.
 
 ## Romanos 3:27-31: una emunah sin jactancia y no contra la Torah
 
