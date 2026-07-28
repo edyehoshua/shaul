@@ -15,7 +15,6 @@ references:
   - "#bereshit_47_13-16"
   - "#iejezkel_37_15-28"
 sources:
-  - "https://www.youtube.com/watch?v=4hBwWXXSvQQ"
   - "https://www.youtube.com/watch?v=VPMoZun2Bww"
   - "docs/scriptures/oe/json/genesis/44.json"
   - "docs/scriptures/oe/json/genesis/45.json"
@@ -23,7 +22,6 @@ sources:
   - "docs/scriptures/oe/json/genesis/47.json"
   - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
-  - "youtube:4hBwWXXSvQQ"
   - "youtube:VPMoZun2Bww"
 translation: "[OE, TTH]"
 ---
@@ -34,7 +32,7 @@ Bereshit 44–47 presenta la preservación de la familia de Israel mediante una 
 
 ## Alcance de la nota
 
-La nota toma como unidad principal la clase «Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah», del hermano Eric de Jesús Rodríguez Mendoza, y la contrasta con la clase previa de Vayigash que ya estaba acreditada en la nota. La transcripción automática sirve para localizar observaciones; no se presenta como cita literal. Se sigue el relato en orden desde el alegato de Yehudá hasta la administración del hambre en Bereshit 47. La relación que Eric propone con Iejezkel 37 se conserva como conexión canónica cualificada, no como identidad histórica demostrada.
+La nota toma como unidad la clase «Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah», del hermano Eric de Jesús Rodríguez Mendoza. La transcripción automática sirve para localizar observaciones; no se presenta como cita literal. Se sigue el relato en orden desde el alegato de Yehudá hasta la administración del hambre en Bereshit 47. La relación que Eric propone con Iejezkel 37 se conserva como conexión canónica cualificada, no como identidad histórica demostrada.
 
 ## Hoja de comparación
 
@@ -113,6 +111,5 @@ Vayigash no reduce la reconciliación a lágrimas ni la providencia a una excusa
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat Vayigash (2017) The people who sanctify life](https://www.youtube.com/watch?v=4hBwWXXSvQQ) (`source_id`: `youtube:4hBwWXXSvQQ`).
 - Video: [Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah](https://www.youtube.com/watch?v=VPMoZun2Bww) (`source_id`: `youtube:VPMoZun2Bww`).
-- Esta nota organiza y contrasta las exposiciones; no presenta las transcripciones automáticas como citas literales.
+- Esta nota organiza y contrasta la exposición asignada a esta lane; no presenta la transcripción automática como cita literal.
