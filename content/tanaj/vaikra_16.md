@@ -46,6 +46,8 @@ Vaikra 16 no presenta una reconciliación improvisada ni un acceso autónomo a l
 
 Esta nota reúne la exposición principal de Vaikra 16–18 y las clases del Séder de Pésaj que vuelven a la expiación, la sangre, el pan sin levadura y la muerte del Mesías. Se camina por el capítulo en orden. Las observaciones de Eric se atribuyen a la clase y se evalúan contra OE y TTH locales; las transcripciones automáticas no se presentan como citas literales. Los datos calendáricos, astronómicos o históricos mencionados de paso quedan pendientes cuando no son necesarios para leer Vaikra 16.
 
+En la clase de **youtube:8Btk2jATjfk**, Eric resume el contraste así: «la una sin la otra no tiene sentido», refiriéndose a la cabra cuya sangre se presenta ante יהוה y a la cabra que lleva las iniquidades al desierto. Esa es una observación real de la exposición, no una cita de la Torá. Vaikra 16 la sostiene en un sentido acotado: los vv. 9–10 asignan funciones diferentes a los dos animales, y los vv. 20–22 describen después la confesión y el envío; pero el capítulo no dice que sean «dos aspectos de una misma cosa» como una fórmula doctrinal ni identifica automáticamente el segundo macho cabrío con el Mesías o con un demonio. La formulación de Eric conserva la unidad teológica del rito, mientras que la secuencia textual obliga a mantener sus acciones distintas.
+
 ## Hoja de comparación
 
 | Unidad           | Hebreo OE sin nikud                                                  | TTH local                                                                                                               | Fuerza en el capítulo                                                               |
