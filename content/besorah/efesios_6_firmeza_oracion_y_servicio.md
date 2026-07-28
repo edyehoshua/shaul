@@ -83,6 +83,10 @@ La armadura culmina en oración continua, súplica y vigilancia por todos los sa
 
 En #ephesians_6_18-20 la perseverancia tiene un alcance explícito: «por todos los santos» y por Pablo mismo, para que abra la boca con confianza. La enseñanza de Eric relaciona estudiar, discernir y pedir valentía; el texto apoya esa unión porque la oración y la comunicación del misterio aparecen en la misma unidad. No obstante, «velar» no significa vivir en alarma ni atribuir cada problema a una causa espiritual: significa permanecer atentos en la oración dentro de una comunidad.
 
+### Prueba del argumento en el cierre
+
+El movimiento de 6:10-20 puede comprobarse sin separar la metáfora de su propósito: (1) el mandato es recibir fuerza «en el Señor» (6:10); (2) la armadura sirve para resistir y permanecer (6:11-13); (3) sus piezas se nombran como verdad, justicia, paz, fe, salvación y palabra (6:14-17); y (4) la postura termina en oración por todos y en anuncio valiente (6:18-20). Por eso la observación de Eric sobre una formación interior y comunitaria encaja con la secuencia local, mientras que una lectura que convierta **πανοπλία** en objeto protector autónomo no encaja con los verbos del pasaje. La correspondencia entre **στάναι** y “permanecer firme” es directa en la función; la aplicación de cada pieza a una práctica moderna queda como analogía, no como significado léxico.
+
 ## El límite textual de la autoridad (6:1-9)
 
 Eric lee las instrucciones familiares y laborales como responsabilidades bajo una autoridad superior, no como permiso para dominar. La secuencia de #ephesians_6_1-9 confirma esa cautela: los hijos reciben un mandato «en el Señor»; los padres reciben el límite de no provocar; los siervos son llamados a servir con sinceridad; y los señores deben abandonar las amenazas porque ambos tienen un Señor en los cielos. La forma **ὑπακούω** puede traducirse «obedecer», pero la frase que la acompaña y las obligaciones impuestas al superior impiden convertirla en obediencia sin discernimiento.
