@@ -62,6 +62,13 @@ El cierre avanza en orden desde perseguir la paz (#romanos_14_19), no destruir l
 
 El término **(πίστεως)**, *pisteos*, es genitivo de **πίστις**, *pistis*: puede expresar fe, fidelidad o confianza según el contexto. Eric insiste, desde la forma transmitida por la clase, en leer «de la fidelidad» y no añadir sin más «en la fe» a #romanos_14_1; esa diferencia gramatical merece verificación. En #romanos_14_23, la fuerza contextual es actuar sin la convicción que Pablo presupone, no simplemente poseer información incompleta. Relacionar *pistis* con **אמונה**, *emunah*, «firmeza/fidelidad», es una aproximación pedagógica útil, pero no equivalencia exacta.
 
+## Mapa de la enseñanza de Eric
+
+- **Romanos 14:1-4:** Eric identifica al «débil» con un miembro judío desconcertado por la convivencia con gentiles y relaciona las legumbres con restricciones de mesa mencionadas en la clase. La nota conserva esa observación como hipótesis histórica y la evalúa contra el texto: Pablo sí manda recibir y no juzgar, pero el pasaje no identifica étnicamente al débil ni especifica todas las reglas alimentarias.
+- **Romanos 14:5-13:** Eric aplica el conflicto de días y comidas a costumbres religiosas que pueden convertirse en tribunal —por ejemplo, una copa de vino, una kipá o una forma de vestir—. La nota trata esos ejemplos como aplicación pastoral concreta, no como contenido literal del capítulo, y sigue el orden textual que devuelve el juicio a Elohim y prohíbe poner tropiezo.
+- **Romanos 14:14-18:** Eric distingue en su exposición lo común/profano de lo impuro y lee «comida y bebida» en relación con prácticas de preparación y convivencia. La nota explica las formas **(חול)**, **(טמא)**, **(κοινός)** y **(ἀκάθαρτος)**, clasifica la correspondencia entre ellas como aproximada y deja pendiente verificar la sintaxis griega y la tesis histórica.
+- **Romanos 14:19-23:** Eric centra el cierre en no hacer sentir culpable al hermano por una regla humana y relaciona **πίστις** con **אמונה** como fidelidad. La nota respalda la prioridad textual de paz, edificación y conciencia, pero evalúa la equivalencia léxica como pedagógica y mantiene pendiente la lectura gramatical de **πίστεως**.
+
 ## Conexiones principales
 
 - #romanos_14_3 y #romanos_14_10-13 mantienen juntos acogida y rendición de cuentas: recibir al otro no elimina el discernimiento, pero impide el desprecio.
