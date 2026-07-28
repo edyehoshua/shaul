@@ -345,6 +345,14 @@
       "url": "https://www.youtube.com/watch?v=xjQ5RfijeVU",
       "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
       "status": "confirmed_unavailable"
+      },
+      {
+      "video_id": "xpihVrZGGI4",
+      "playlist_title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
+      "title": "Haftaráh de Mtzorá' 2 Reyes cap 7: El redargüir de Hashem",
+      "url": "https://www.youtube.com/watch?v=xpihVrZGGI4",
+      "reason": "La exposición es elegible, pero no existe una transcripción local en este worktree; se pospone sin fabricar el estudio hasta disponer del texto fuente.",
+      "status": "missing_local_transcript"
       }
   ]
 }
