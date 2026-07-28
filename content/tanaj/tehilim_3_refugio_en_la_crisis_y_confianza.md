@@ -38,12 +38,12 @@ El encabezado local sitúa el poema «cuando [David] huía ante Abshalom su hijo
 
 ## Hoja de comparación
 
-| Referencia     | Texto local                                                                                         | Observación                                                                                     |
-| -------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| #tehilim_3_1   | מזמור לדוד בברחו מפני אבשלום בנו                                                               | El encabezado vincula el salmo con la huida de David ante Abshalom.                             |
-| #tehilim_3_2-3 | יהוה מה רבו צרי רבים קמים עלי; רבים אמרים לנפשי אין ישועתה לו באלהים סלה                     | La aflicción incluye opositores numerosos y una palabra de desesperanza contra David.           |
-| #tehilim_3_4-5 | ואתה יהוה מגן בעדי כבודי ומרים ראשי; קולי אל יהוה אקרא ויענני מהר קדשו סלה                | Al discurso de los adversarios responde la confesión: יהוה protege, honra y escucha.            |
-| #tehilim_3_6-7 | אני שכבתי ואישנה הקיצותי כי יהוה יסמכני; לא אירא מרבבות עם אשר סביב שתו עלי                    | El descanso y el despertar se atribuyen al sostén de יהוה, incluso frente a una multitud.       |
+| Referencia     | Texto local                                                                                 | Observación                                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| #tehilim_3_1   | מזמור לדוד בברחו מפני אבשלום בנו                                                            | El encabezado vincula el salmo con la huida de David ante Abshalom.                             |
+| #tehilim_3_2-3 | יהוה מה רבו צרי רבים קמים עלי; רבים אמרים לנפשי אין ישועתה לו באלהים סלה                    | La aflicción incluye opositores numerosos y una palabra de desesperanza contra David.           |
+| #tehilim_3_4-5 | ואתה יהוה מגן בעדי כבודי ומרים ראשי; קולי אל יהוה אקרא ויענני מהר קדשו סלה                  | Al discurso de los adversarios responde la confesión: יהוה protege, honra y escucha.            |
+| #tehilim_3_6-7 | אני שכבתי ואישנה הקיצותי כי יהוה יסמכני; לא אירא מרבבות עם אשר סביב שתו עלי                 | El descanso y el despertar se atribuyen al sostén de יהוה, incluso frente a una multitud.       |
 | #tehilim_3_8-9 | קומה יהוה הושיעני אלהי כי הכית את כל איבי לחי שני רשעים שברת; ליהוה הישועה על עמך ברכתך סלה | El ruego pide salvación y termina declarando que la salvación y la bendición pertenecen a יהוה. |
 
 ## Muchas voces contra una confesión
@@ -69,6 +69,15 @@ La clase aplica este movimiento a la ansiedad producida por amenazas y noticias 
 El último ruego pide que יהוה se levante y salve (#tehilim_3_8). Su lenguaje de juicio es intenso; no autoriza al lector a tomar venganza privada. La resolución del salmo está precisamente en que David entrega la salvación a יהוה: «De יהוה es la salvación» (#tehilim_3_9).
 
 La confesión final se amplía hacia el pueblo: «sobre tu pueblo [sea] tu bendición». La oración personal no se encierra en la autopreservación; termina pidiendo el bien del pueblo de יהוה.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad         | Observación concreta de la clase                                                                                                                                 | Prueba y límite en el texto                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_3_1-3 | Eric mantiene el encabezado histórico: David huye de Abshalom, mientras la multitud convierte la crisis en un veredicto de que no hay salvación.                 | El encabezado y la voz de los adversarios lo sostienen; las identificaciones tipológicas posteriores no deben confundirse con el contexto inmediato. |
+| #tehilim_3_4-5 | La clase contrapone la palabra de la multitud con la confesión «tú, יהוה»: escudo, gloria y quien levanta la cabeza, seguido por un clamor que espera respuesta. | El paralelismo local confirma protección, honra y respuesta desde el monte santo; no presenta la oración como técnica para controlar el desenlace.   |
+| #tehilim_3_6-7 | Eric aplica el dormir y despertar al creyente que atraviesa ansiedad y noticias amenazantes sin negar que el asedio es real.                                     | El salmista atribuye su descanso al sostén de יהוה y no teme a la multitud; la aplicación pastoral no promete ausencia de peligro.                   |
+| #tehilim_3_8-9 | La exposición termina devolviendo la salvación a יהוה y ampliando la petición desde la causa de David hacia la bendición del pueblo.                             | El cierre dice explícitamente que la salvación pertenece a יהוה y que la bendición es sobre su pueblo; no autoriza venganza privada.                 |
 
 ## Pendiente de verificar
 

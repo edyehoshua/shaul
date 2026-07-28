@@ -64,6 +64,15 @@ La clase explica el plural **(נגינות)**, _neginot_, en relación con tocar
 
 La clase también sostiene que la instrumentación bíblica para la alabanza excluiría los tambores y extiende esa observación a la práctica congregacional. Tehilim 4 no formula esa prohibición: su encabezado no enumera instrumentos y el resto del poema se ocupa de súplica, justicia, luz y descanso. La discusión histórica y léxica más amplia requiere investigación independiente.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad                   | Observación concreta de la clase                                                                                                                           | Prueba y límite en el texto                                                                                                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Encabezado; #tehilim_4_1 | Eric usa _neginot_ para introducir la dimensión musical y relaciona la melodía con la forma en que la oración atraviesa la estrechez.                      | **נגינות** sí es una indicación musical, pero el encabezado no basta para reconstruir una técnica moderna ni una prohibición instrumental.                                   |
+| #tehilim_4_1-3           | La exposición lee «Elohim de mi justicia» como una apelación al orden recto de יהוה y subraya que él escucha al que clama.                                 | El verso recuerda que יהוה ensanchó al orante en la estrechez y promete oír; «estado ideal» o una definición cerrada de **צדק** serían ampliaciones pedagógicas.             |
+| #tehilim_4_4-6           | Eric conecta la agitación con el mandato de no pecar, examinar el asunto en el corazón, ofrecer sacrificios de justicia y pedir la luz del rostro de יהוה. | La secuencia verbal está en el salmo: temblor, silencio reflexivo, justicia, confianza y luz. La aplicación a una regla musical congregacional no se deriva de estos versos. |
+| #tehilim_4_8             | La clase presenta el descanso como resultado de confiar en יהוה, no como evasión de la estrechez inicial.                                                  | El cierre une acostarse, dormir, shalom y seguridad recibida de יהוה; no promete que toda angustia desaparezca de inmediato.                                                 |
+
 ## Hoja léxica
 
 | Forma        | Transliteración | Sentido en la nota                | Observación                                                                                                   |
