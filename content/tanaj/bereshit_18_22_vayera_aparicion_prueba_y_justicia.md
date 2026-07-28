@@ -127,6 +127,16 @@ El cierre de 22:18 dice que las naciones serán bendecidas «porque escuchaste m
 
 En Vayerá, ver y ser visto desemboca en caminar delante de יהוה. Abraham ve visitantes, discierne la justicia, ruega por una ciudad y escucha en la montaña. La promesa permanece firme, pero nunca queda separada de una casa que practica justicia ni de una obediencia que escucha.
 
+## Cierre textual: una misma promesa bajo tres pruebas
+
+El recorrido final permite evaluar con más precisión la observación de Eric sobre una aparición que exige respuesta. En 18:19 el TTH dice que Abraham fue conocido para ordenar a su casa «guardar el camino de יהוה, para hacer justicia y juicio»; en 22:18 vuelve a decir que las naciones serán benditas «porque escuchaste mi voz». **(שמע)**, _shama_, significa oír, escuchar y obedecer; su fuerza en estos dos extremos no es recepción pasiva, sino una respuesta que organiza la casa y atraviesa la prueba. «Entender» es una equivalencia pedagógica demasiado débil.
+
+Entre ambos extremos, la intercesión muestra que la justicia no es una abstracción. El OE pregunta: **השפט כל הארץ לא יעשה משפט**, «¿el Juez de toda la tierra no hará juicio?» (#bereshit_18_25). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; aquí sostiene el argumento de Abraham ante יהוה, no una pretensión de superioridad del patriarca. El TTH conserva «hacer juicio», mientras «hacer justicia» es una equivalencia contextual válida pero no borra el sustantivo **(משפט)**, _mishpat_. La lectura de Eric sobre justicia y misericordia queda apoyada cuando mantiene juntas la pregunta por el carácter del Juez y la realidad del juicio.
+
+En Moriah, la frase de Abraham «Elohim verá para sí el cordero» (#bereshit_22_8) recibe su respuesta narrativa cuando el carnero queda atrapado y la mano se detiene. **(אחז)**, _ajaz_, significa agarrar, asir o quedar prendido; su fuerza contextual en 22:13 describe el modo concreto en que aparece el sustituto, no una metáfora abstracta de que todo deseo será provisto. «Provisión automática» sería inexacta. La secuencia confirma la lectura prudente de Eric: la fe no niega la orden difícil ni fabrica un desenlace; espera que la visión de יהוה se manifieste dentro del texto.
+
+Por eso la aparición de 18:1 no puede reducirse a una experiencia extraordinaria. El verbo **(וירא)**, _vayerá_, «apareció» o «se dejó ver», abre una cadena de hospitalidad, enseñanza de justicia, intercesión, rescate y obediencia. «Visión espiritual» puede servir como resumen pedagógico, pero es más amplio que la forma verbal. La nota conserva la intuición pública de Eric y la somete al orden de la perícopa: יהוה se hace visible, Abraham escucha, actúa y vuelve a recibir la promesa bajo responsabilidad.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
