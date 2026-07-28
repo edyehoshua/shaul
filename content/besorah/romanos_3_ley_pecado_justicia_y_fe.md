@@ -52,6 +52,12 @@ Pablo resume el testimonio de las Escrituras con una imagen de desorden: no cono
 
 El versículo 20 impide leer la Torah como una escalera para fabricar mérito: por obras de Torah ninguna carne será declarada justa delante de Elohim, porque por la Torah viene el conocimiento del pecado. Esto no desprecia la instrucción. La misma Torah que no funciona como base de jactancia revela el pecado y deja al descubierto la necesidad de la justicia que Pablo anuncia.
 
+### Detalle léxico de Romanos 3:25-26: propiciación y demostración
+
+El centro sacrificial de #romanos_3_25 no debe quedar oculto detrás de una glosa española. **(ἱλαστήριον)**, _hilastērion_, puede referirse a un medio de expiación o al lugar de propiciación; en este contexto describe la acción que Elohim presenta públicamente en el Mesías mediante la emunah. «Propiciación» es una traducción aproximada y tradicional, no una prueba de que Pablo esté desarrollando aquí un único modelo técnico de sacrificio. El contexto inmediato limita la afirmación: Elohim muestra su justicia, pasa por alto pecados anteriores en su paciencia y permanece justo al justificar al que tiene emunah en Yehoshua (#romanos_3_25-26).
+
+También **(ἔνδειξις)**, _endeixis_, significa demostración o manifestación. Su fuerza en #romanos_3_25-26 es pública y argumental: la redención no solo beneficia al creyente, sino que responde a la pregunta de cómo Elohim puede ser justo y justificar. «Demostración» es una glosa directa; no autoriza a separar justicia y misericordia ni a convertir la palabra en una teoría exhaustiva de la expiación.
+
 ## Romanos 3:21-26: justicia manifestada y redención
 
 El «ahora» de #romanos_3_21 no rompe la historia bíblica como si las Escrituras anteriores hubieran sido irrelevantes. Pablo dice que la justicia de Elohim se ha manifestado aparte de Torah y que la Torah y los profetas dan testimonio de ella. «Aparte» califica la fuente de la justicia humana, no una expulsión de la Torah del testimonio de Elohim. La frase sostiene la novedad de la manifestación en el Mesías y, al mismo tiempo, la continuidad de las Escrituras que la atestiguan.
@@ -70,15 +76,17 @@ La conclusión «de ninguna manera; más bien establecemos la Torah» gobierna l
 
 ## Hoja léxica
 
-| Forma fuente      | Transliteración | Sentido ordinario              | Fuerza contextual                                                     | Calificación                                                                                        |
-| ----------------- | --------------- | ------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **(ὑπόδικος)**    | _hypodikos_     | sujeto a juicio, culpable      | Toda boca queda sin defensa ante Elohim.                              | Directa como glosa judicial; el contexto añade responsabilidad.                                     |
-| **(δικαιοσύνη)**  | _dikaiosynē_    | justicia, rectitud             | Justicia de Elohim manifestada y recibida por emunah.                 | Aproximada en español; su fuerza teológica es contextual.                                           |
-| **(πίστις)**      | _pistis_        | fe, confianza, fidelidad       | Medio relacional por el que se recibe la justicia en el Mesías.       | Aproximada; no se reduce a emoción ni se resuelve por equivalencia total con **(אמונה)**, _emunah_. |
-| **(ἀπολύτρωσις)** | _apolytrōsis_   | liberación, rescate, redención | La liberación está en el Mesías y acompaña la justificación gratuita. | Aproximada y pedagógica; no fija un modelo único de rescate.                                        |
-| **(καυχάομαι)**   | _kauchaomai_    | gloriarse, jactarse            | La justicia recibida excluye la superioridad humana.                  | Directa en el contexto argumental.                                                                  |
-| **(καταργέω)**    | _katargeō_      | anular, dejar ineficaz         | Pablo niega que la emunah deje nula la Torah.                         | Aproximada: la respuesta de 3:31 define su fuerza.                                                  |
-| **(ἵστημι)**      | _histēmi_       | poner de pie, establecer       | La emunah establece o confirma la Torah.                              | Contextual; no equivale automáticamente a «cumplir» cada detalle.                                   |
+| Forma fuente      | Transliteración | Sentido ordinario                                       | Fuerza contextual                                                                     | Calificación                                                                                                              |
+| ----------------- | --------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **(ὑπόδικος)**    | _hypodikos_     | sujeto a juicio, culpable                               | Toda boca queda sin defensa ante Elohim.                                              | Directa como glosa judicial; el contexto añade responsabilidad.                                                           |
+| **(δικαιοσύνη)**  | _dikaiosynē_    | justicia, rectitud                                      | Justicia de Elohim manifestada y recibida por emunah.                                 | Aproximada en español; su fuerza teológica es contextual.                                                                 |
+| **(πίστις)**      | _pistis_        | fe, confianza, fidelidad                                | Medio relacional por el que se recibe la justicia en el Mesías.                       | Aproximada; no se reduce a emoción ni se resuelve por equivalencia total con **(אמונה)**, _emunah_.                       |
+| **(ἀπολύτρωσις)** | _apolytrōsis_   | liberación, rescate, redención                          | La liberación está en el Mesías y acompaña la justificación gratuita.                 | Aproximada y pedagógica; no fija un modelo único de rescate.                                                              |
+| **(ἱλαστήριον)**  | _hilastērion_   | medio de expiación, propiciación, lugar de propiciación | Elohim lo presenta en el Mesías para mostrar su justicia al justificar por emunah.    | Aproximada: «propiciación» conserva el campo cultual, pero el contexto no decide por sí solo entre objeto, lugar o medio. |
+| **(ἔνδειξις)**    | _endeixis_      | demostración, evidencia, señal                          | La justicia de Elohim queda expuesta públicamente en la redención y la justificación. | Directa como función argumental; no equivale a una demostración filosófica completa.                                      |
+| **(καυχάομαι)**   | _kauchaomai_    | gloriarse, jactarse                                     | La justicia recibida excluye la superioridad humana.                                  | Directa en el contexto argumental.                                                                                        |
+| **(καταργέω)**    | _katargeō_      | anular, dejar ineficaz                                  | Pablo niega que la emunah deje nula la Torah.                                         | Aproximada: la respuesta de 3:31 define su fuerza.                                                                        |
+| **(ἵστημι)**      | _histēmi_       | poner de pie, establecer                                | La emunah establece o confirma la Torah.                                              | Contextual; no equivale automáticamente a «cumplir» cada detalle.                                                         |
 
 ## Mapa de la enseñanza de Eric
 
