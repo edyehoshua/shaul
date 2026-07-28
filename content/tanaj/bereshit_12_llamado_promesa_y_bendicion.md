@@ -56,6 +56,12 @@ Abram atraviesa la tierra, recibe la palabra acerca de su descendencia y edifica
 - [ ] Cotejar por separado la relación entre la promesa de tierra, la esperanza futura y los pasajes que la releen en el resto de la Escritura; la clase formula esa conexión de manera amplia.
 - [ ] Verificar en fuentes primarias las reconstrucciones cronológicas de la clase sobre Noaj, Abram y los acontecimientos de Babel.
 
+## Mapa de la enseñanza de Eric
+
+- **Bereshit 12:1 — «לך לך» y la salida:** Eric presenta el llamado como una salida de tierra, parentesco y casa paterna hacia una tierra que יהוה todavía mostrará. La forma hebrea **לך לך** (_lekh lekha_) tiene el sentido normal de «ve»/«vete para ti»; en este contexto su fuerza es una orden de marcha que deja el destino bajo la revelación progresiva de יהוה. La lectura de la clase sobre retorno y descanso es una conexión canónica posterior, no el significado exclusivo del imperativo.
+- **Bereshit 12:2-3 — nombre, nación y bendición:** La exposición sigue la secuencia en la que יהוה hace, bendice y engrandece el nombre de Abram, y luego extiende la bendición a «todas las familias de la tierra». **ברכה** (_berakhah_) significa normalmente «bendición»; aquí su fuerza contextual es un don de יהוה que alcanza por medio de Abram a otros pueblos, no una promesa de prestigio autónomo. La relación con la restauración y con Yehoshua queda como desarrollo canónico atribuido a Eric.
+- **Bereshit 12:4-8 — caminar, recibir palabra y levantar altar:** Eric no reduce la fe de Abram a una afirmación interior: observa que Abram sale, atraviesa la tierra, recibe la palabra sobre su descendencia y edifica un altar. **מזבח** (_mizbeakh_) significa «altar»; en el relato señala la respuesta cultual a יהוה que se le apareció. El hambre y la bajada a Egipto también forman parte del capítulo, por lo que la clase no debe presentarlos como un camino sin vulnerabilidad ni como aprobación automática de cada decisión de Abram.
+
 ## Conclusión
 
 Bereshit 12 sitúa la obediencia de Abram dentro de la iniciativa de יהוה: él llama, promete, muestra y bendice. Abram camina, recibe la palabra y responde en culto. La promesa no se encierra en él, pues el texto mira a las familias de la tierra bajo la bendición que יהוה anuncia.

@@ -32,12 +32,12 @@ Esta nota reúne la haftará de Behar trabajada por el hermano Eric de Jesús Ro
 
 ## Hoja de comparación
 
-| Referencia       | Texto hebreo local (OE)                                                                                                                                        | Observación de lectura                                                                       |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| #yirmeyahu_32_6  | ויאמר ירמיהו היה דבר יהוה אלי לאמר                                                                                                                          | El relato presenta la palabra que recibe Yirmeyahu antes de la transacción.                  |
-| #yirmeyahu_32_9  | ואקנה את השדה מאת חנמאל בן דדי אשר בענתות ואשקלה לו את הכסף שבעה שקלים ועשרה הכסף                                                                   | La compra, el pariente, el campo y la plata pertenecen al relato, no son una imagen aislada. |
-| #yirmeyahu_32_15 | כי כה אמר יהוה צבאות אלהי ישראל עוד יקנו בתים ושדות וכרמים בארץ הזאת                                                                                       | La promesa de compras futuras interpreta el gesto dentro de la continuidad de la tierra.     |
-| #yirmeyahu_32_37 | הנני מקבצם מכל הארצות אשר הדחתים שם באפי ובחמתי ובקצף גדול והשבתים אל המקום הזה והשבתים לבטח                                                | El retorno y la seguridad se expresan como acción de יהוה.                                   |
+| Referencia       | Texto hebreo local (OE)                                                                                                                    | Observación de lectura                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| #yirmeyahu_32_6  | ויאמר ירמיהו היה דבר יהוה אלי לאמר                                                                                                         | El relato presenta la palabra que recibe Yirmeyahu antes de la transacción.                  |
+| #yirmeyahu_32_9  | ואקנה את השדה מאת חנמאל בן דדי אשר בענתות ואשקלה לו את הכסף שבעה שקלים ועשרה הכסף                                                          | La compra, el pariente, el campo y la plata pertenecen al relato, no son una imagen aislada. |
+| #yirmeyahu_32_15 | כי כה אמר יהוה צבאות אלהי ישראל עוד יקנו בתים ושדות וכרמים בארץ הזאת                                                                       | La promesa de compras futuras interpreta el gesto dentro de la continuidad de la tierra.     |
+| #yirmeyahu_32_37 | הנני מקבצם מכל הארצות אשר הדחתים שם באפי ובחמתי ובקצף גדול והשבתים אל המקום הזה והשבתים לבטח                                               | El retorno y la seguridad se expresan como acción de יהוה.                                   |
 | #yirmeyahu_32_44 | שדות בכסף יקנו וכתוב בספר וחתום והעד עדים בארץ בנימן ובסביבי ירושלם ובערי יהודה ובערי ההר ובערי השפלה ובערי הנגב כי אשיב את שבותם נאם יהוה | El cierre vuelve a nombrar compra, escritura, sello, testigos y restauración.                |
 
 ## El campo comprado en tiempo de asedio
@@ -60,6 +60,12 @@ El texto no suaviza el juicio: habla de espada, hambre y pestilencia (v. 36). Ta
 
 - [ ] Precisar, con fuentes históricas y textuales, los detalles de los contratos y sellos de propiedad que la transcripción menciona.
 - [ ] Examinar por separado la relación literaria entre Yirmeyahu 32 y Apocalipsis 5, sin convertir la comparación pedagógica de la clase en equivalencia textual.
+
+## Mapa de la enseñanza de Eric
+
+- **Yirmeyahu 32:6-15 — palabra, rescate y compra en el asedio:** Eric destaca que la orden de comprar el campo no llega fuera de la crisis, sino dentro de ella. La forma hebrea **שדה** (_sadeh_) significa normalmente «campo»; aquí designa una propiedad concreta cuya compra y futura adquisición de casas, campos y viñas deben leerse junto al asedio. La relación con Vayiqra 25:25 es intertextual y útil, pero no borra la situación específica de Yirmeyahu 32.
+- **Yirmeyahu 32:9-14 — plata, documento, sello y testigos:** La clase insiste en la materialidad de la transacción: plata pesada, escritura, copia sellada, copia abierta y testigos, todo guardado en una vasija. **ספר** (_sefer_) significa «libro, escrito o documento»; en este contexto su fuerza es memoria jurídica verificable, no una alegoría automática del rollo de Apocalipsis. El capítulo sostiene la acción documentada; la conexión comparativa con un rollo sellado queda calificada como pedagógica.
+- **Yirmeyahu 32:36-44 — juicio real y retorno prometido:** Eric no usa la compra para negar espada, hambre y pestilencia. La exposición lee la acción como señal de que יהוה puede reunir y hacer volver al pueblo después del juicio, y el cierre repite la compra, la escritura y los testigos. **שוב** (_shuv_) significa normalmente «volver» o «hacer volver»; aquí su fuerza es la restauración que יהוה promete realizar, no una garantía producida por la inversión humana.
 
 ## Conclusión
 
