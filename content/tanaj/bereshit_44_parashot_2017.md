@@ -186,6 +186,20 @@ Esto también corrige dos reducciones opuestas. «Iosef murió y todo terminó»
 
 Vayigash no reduce la reconciliación a lágrimas ni la providencia a una excusa. Yehudá demuestra responsabilidad al ofrecerse por el joven; Iosef revela su identidad y reconoce la preservación que Elohim produjo a través de una historia marcada por el pecado; Israel desciende después de escuchar una promesa de compañía. El texto conduce desde la palabra responsable hacia la vida preservada y deja al lector bajo la pregunta de cómo gobernar, reconciliar y obedecer sin llamar bien al mal.
 
+## «Basta»: recibir vida antes de reabrir la herida
+
+La fuente asignada sobre Vayigash desarrolla un detalle concreto de #bereshit_45_25-28: Yaakov escucha «todas las palabras de Iosef», ve las carrozas y dice **רב עוד יוסף בני חי** («basta; todavía Iosef, mi hijo, vive»). Eric lo presenta como una decisión de detener la rumiación sobre el daño pasado y atender el hecho presente de que su hijo vive. La exhortación pastoral es una aplicación, pero la secuencia textual sí pone primero la palabra recibida, luego la evidencia visible y finalmente la respuesta de Israel: no se trata de negar la pérdida, sino de permitir que una noticia verdadera reordene su ánimo.
+
+**רוח**, _ruaj_, normalmente significa viento, aliento o espíritu. En **ותחי רוח יעקב**, _vateji ruaj Yaakov_, el contexto de Yaakov favorece «su ánimo cobró vida» o «su espíritu revivió»; «alma inmortal» sería una equivalencia **inexacta**. **ויחי**, _vayeji_, es una forma de חיה, «vivir»; aquí expresa recuperación de ánimo, no resurrección corporal. **רב**, _rav_, significa «mucho, bastante o suficiente»; en **רב עוד**, su fuerza contextual es una exclamación de suficiencia gozosa, no una orden universal de cortar toda conversación difícil.
+
+## Recorrido final: del pan recibido a la promesa pendiente
+
+La unidad económica de Bereshit 47:13-26 debe permanecer junto a la historia familiar. El OE dice **ולחם אין בכל הארץ כי כבד הרעב מאד** («no había pan en toda la tierra, porque el hambre era muy grave»), y TTH conserva que «desfalleció la tierra de Mitsráim y la tierra de Kenaan a causa del hambre». **כבד**, _kaved_, significa «pesado, grave o intenso»; aquí da fuerza a la severidad material del hambre. «Crisis espiritual» es una equivalencia pedagógica, no el sentido de la palabra. Eric ve en Iosef un administrador de la vida; la observación se apoya en el grano distribuido, pero no elimina el costo político del sistema descrito.
+
+Cuando el dinero se acaba, Iosef dice **הבו מקניכם** («den su ganado»). **הבו**, _havu_, es un imperativo plural de יהב, «den» o «entreguen»; su fuerza contextual es una propuesta de intercambio dentro de la emergencia. En 47:25 el pueblo responde **החיתנו** («nos has dado vida»), forma causativa de חיה: «has mantenido con vida». «Redimiste» sería una ampliación pedagógica; el texto inmediato habla de sustento bajo hambre.
+
+Así, cada perícopa aporta un límite a la siguiente. Yehudá no es salvador por acercarse: su **תחת**, _tajat_, queda probado por el costo que acepta. Iosef no es juez divino: **התחת אלהים אני** («¿estoy yo en lugar de Elohim?») limita su poder y fundamenta su renuncia a la venganza. Yaakov no convierte la muerte en derrota: **פקד יפקד אלהים אתכם** («Elohim, visitando, los visitará») orienta la familia hacia la promesa. Las observaciones de Eric sobre hablar y hacer conforme a la voluntad divina reciben apoyo cuando se siguen estas formas en su orden, no cuando se desprenden de sus escenas.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

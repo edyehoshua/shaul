@@ -8,15 +8,20 @@ tags:
   - ki-tisa
   - servicio
 references:
+  - "#shemot_27_20-21"
+  - "#shemot_28_2-4"
+  - "#shemot_28_40-43"
   - "#shemot_30_11-16"
   - "#shemot_30_17-21"
   - "#shemot_30_22-38"
 sources:
+  - "https://www.youtube.com/watch?v=ELZQY8k1Ibo"
   - "https://www.youtube.com/watch?v=dNFrW9BaMU8"
   - "https://www.youtube.com/watch?v=8cLCP_e_2MI"
   - "docs/scriptures/oe/json/exodus/30.json"
   - "docs/scriptures/tth/json/shemot.json"
 source_ids:
+  - "youtube:ELZQY8k1Ibo"
   - "youtube:dNFrW9BaMU8"
   - "youtube:8cLCP_e_2MI"
 translation: "[OE, TTH]"
@@ -71,9 +76,36 @@ El incienso termina el capítulo con la misma lógica. **קטרת**, _qetóret_,
 
 El capítulo levanta la cabeza del pueblo al ponerlo bajo encargo, no al liberarlo de la obediencia. Cada vida queda recordada delante de יהוה mediante una contribución igual; el servicio requiere lavamiento; la unción y el incienso permanecen apartados. Eric acierta al resistir una lectura plana de «contar», y también al relacionar el levantamiento con el servicio comunitario. El texto, sin embargo, mantiene la medida: la restauración del pueblo no se demuestra por una exaltación humana, sino por una responsabilidad santa y recibida.
 
+## Tetzaveh: vestiduras que llevan responsabilidad, no objetos mágicos
+
+La exposición asignada de Tetzaveh recorre Shemot 27:20–30:10 y toma como eje 28:43: las vestiduras acompañan a Aharón y sus hijos cuando entran a la Tienda o se acercan al altar «para ministrar», para que no carguen iniquidad y mueran. Eric insiste en que el vestido no es santo por materialidad ni funciona como amuleto; su función nace de la orden de יהוה y de la responsabilidad del servicio. Esa observación se sostiene al leer la perícopa en orden: aceite para mantener la luz, prendas para el sacerdocio, consagración con sacrificios y finalmente el altar del incienso.
+
+En #shemot_27_20-21, el OE dice **שמן זית זך כתית למאור להעלת נר תמיד** («aceite de oliva puro, prensado, para iluminación, para hacer subir una lámpara continuamente»). **כתית**, _katit_, significa «prensado o machacado»; su fuerza contextual describe la preparación del aceite, no una teoría espiritual sobre el sufrimiento. **להעלת**, _lehaalot_, procede de עלה, «hacer subir»; aquí indica mantener encendida la lámpara, y «elevar espiritualmente» sería **pedagógica**. Eric relaciona la luz sostenida con perseverancia; la aplicación es válida como exhortación, pero el sentido directo es el servicio continuo de Aharón y sus hijos.
+
+En #shemot_28_2-4, TTH traduce «vestiduras de santidad para honra y hermosura». La frase hebrea **בגדי קדש**, _bigde qodesh_, combina **בגד**, _beged_, «vestido o prenda», con **קדש**, _qodesh_, «santidad o apartamiento». La santidad aquí es **contextual**: prendas ordenadas para el servicio, no una propiedad mágica del tejido. **כבוד**, _kavod_, normalmente significa «peso, honor o gloria»; «honra» es **aproximada** y «peso de gloria» una equivalencia **pedagógica** que conserva la imagen evocada por Eric. **תפארת**, _tif'eret_, significa hermosura, esplendor o dignidad; no equivale exactamente a «perfección moral».
+
+Eric vincula estas vestiduras con Isaías 61:10 y con la justicia recibida, y aplica el **מעיל**, _me'il_, «manto o capa», del sacerdote al «manto de justicia» profético. La conexión verbal es sugestiva, pero sigue siendo **canónica y pedagógica**: Shemot 28 describe la investidura de Aharón; Isaías 61 habla en su propio contexto de salvación y justicia. El texto de Éxodo no afirma que cada detalle del pectoral sea una descripción directa del Mesías. Sí afirma que las prendas representan al pueblo ante יהוה: las piedras con nombres en los hombros y el pectoral hacen visible una carga representativa concreta.
+
+El punto culminante aparece en #shemot_28_40-43: **ולבני אהרן תעשה כתנת ... והיו על אהרן ועל בניו** («para los hijos de Aharón harás túnicas ... y estarán sobre Aharón y sobre sus hijos»). **כתנת**, _ketonet_, es una túnica; **על**, _al_, es «sobre», y su fuerza contextual subraya que el vestido acompaña corporalmente el ingreso y el ministerio. **ונשאו עון**, _venase'u avon_, es «cargarán iniquidad»; **נשא**, _nasa_, significa levantar, llevar o soportar, mientras **עון**, _avon_, significa iniquidad o culpa. «Eliminarán el pecado» sería **inexacta**: el versículo habla de no llevar culpa al servicio mediante la vestidura prescrita.
+
+La misma reserva alcanza la expresión **חקת עולם**, _juqat olam_, que TTH vierte «estatuto perpetuo». **חקה**, _juqah_, es un estatuto o disposición establecida; **עולם**, _olam_, puede expresar duración indefinida o continuidad. «Eterno» es **aproximada** y su alcance debe determinarse por el contexto; no autoriza a Eric ni al lector a convertir cada prenda en un objeto permanente para la comunidad moderna. La función de las vestiduras está delimitada por «cuando entren» y «cuando se acerquen al altar».
+
+En #shemot_29_45-46, la exposición lleva el tema desde la ropa hasta la presencia: «habitaré en medio de los hijos de Israel». **ושכנתי**, _veshajanti_, procede de שכן, «habitar o establecerse». «Presencia» es **pedagógica**, mientras que el verbo afirma morada. El pueblo conoce a יהוה como quien lo sacó de Mitsraim para habitar en medio de ellos; el servicio sacerdotal no crea a יהוה ni controla su presencia. Finalmente, #shemot_30_1-10 ordena el altar del incienso. **קטרת**, _qetoret_, es incienso; su fuerza aquí es culto reservado, no una técnica para producir acceso espiritual. La observación de Eric sobre no confiar en el medio más que en el Mediador puede conservarse como aplicación, siempre que no se confunda con el sentido ritual directo.
+
+## Mapa ampliado de la enseñanza de Eric
+
+| Unidad textual   | Observación concreta de Eric                                          | Evaluación frente al texto                                                 |
+| ---------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| #shemot_27_20-21 | La luz debe mantenerse continuamente con aceite preparado.            | Apoyo textual; la perseverancia espiritual es aplicación pedagógica.       |
+| #shemot_28_2-4   | Las prendas dan honra y hermosura, pero no son mágicas.               | Apoyo textual y léxico; la santidad procede de la orden y del servicio.    |
+| #shemot_28_40-43 | Las vestiduras evitan que el sacerdote cargue iniquidad al ministrar. | Apoyo textual; el alcance inmediato es sacerdotal y cultual.               |
+| #shemot_29_45-46 | La meta del orden cultual es la morada de יהוה en medio del pueblo.   | Apoyo textual; no se reduce a una técnica de acceso humano.                |
+| #shemot_30_1-10  | El incienso enseña reserva y dependencia del Mediador.                | La reserva cultual es textual; la aplicación al discipulado es pedagógica. |
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [Parashat Tetzaveh - Éxodo 27:20 - 30:10 vestidos para gloria y hermosura](https://www.youtube.com/watch?v=ELZQY8k1Ibo) (`source_id`: `youtube:ELZQY8k1Ibo`).
 - [Parashat Ki Tisá' (2017) - La unción de la santidad](https://www.youtube.com/watch?v=dNFrW9BaMU8) (`source_id`: `youtube:dNFrW9BaMU8`).
 - [Parashat ki tisa' - Éxodo 30:11 - 34:35 Levantar la cabeza](https://www.youtube.com/watch?v=8cLCP_e_2MI) (`source_id`: `youtube:8cLCP_e_2MI`).
 - Esta nota organiza y contrasta las exposiciones; no presenta una transcripción automática como cita literal.
