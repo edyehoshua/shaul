@@ -137,6 +137,16 @@ La lectura de Eric sobre propósito y salvación gana precisión cuando se deja 
 
 Esta continuidad también evalúa la distinción atribuida a Eric. Faraón es presentado como instrumento en una manifestación histórica del nombre de Elohim; los vasos de misericordia son descritos en relación con gloria y llamamiento; Israel es tratado con dolor, oración y esperanza. «Propósito» y «salvación» no son sinónimos automáticos, pero tampoco deben separarse de modo que el propósito divino vuelva irrelevantes la respuesta, el anuncio o la misericordia futura. La nota conserva la propuesta de la clase como **inferencia cualificada**, y deja que el conjunto de Romanos limite cualquier sistema cerrado.
 
+## La seguridad de la salvación y el límite de Romanos 9
+
+En la sesión `youtube:atIdZY13b_c`, Eric no se limita a distinguir el propósito histórico del llamamiento salvador. Después de usar a Faraón como ejemplo, relaciona la seguridad del creyente con una experiencia personal de confianza en Elohim y con la obra que Elohim termina cuando realmente la ha iniciado. Esa observación pastoral debe conservarse como una afirmación atribuible de la clase, no como una cita literal ni como si Romanos 9 desarrollara por sí solo toda la doctrina de la perseverancia.
+
+La evaluación canónica permite sostener dos niveles sin confundirlos. Romanos 9 afirma que Faraón fue levantado para una función dentro de la proclamación del nombre de Elohim (#romanos_9_17); no convierte esa función en evidencia suficiente de salvación personal. La seguridad que Eric aplica al creyente debe leerse junto con Romanos 8:38-39 y Filipenses 1:6, mientras que la perícopa presente mantiene el dolor por Israel, la misericordia y la responsabilidad. Por tanto, la exposición recibe **apoyo cualificado**: protege contra el miedo que confunde toda debilidad con abandono, pero no autoriza a usar una experiencia subjetiva para cancelar el examen de la fe, la obediencia y el fruto.
+
+La objeción de #romanos_9_19-20 también queda más precisa al atender la explicación de Eric. Él identifica en la pregunta humana una oposición crítica contra Elohim y la ilustra con el vaso que cuestiona al que lo formó. **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa responder, replicar o contestar; su fuerza contextual es la réplica que se vuelve contra quien juzga, no una prueba de que toda pregunta sincera sea rebelión. **(κρίνω)**, _krinō_, significa juzgar, decidir o evaluar; la relación entre ambas formas es pedagógica y contextual, no una definición técnica construida desde la transcripción. La aplicación de Eric capta el movimiento retórico, pero Pablo debe seguir gobernando el alcance de la analogía.
+
+El resultado es una distinción de tres grados. Es **exacto** atribuir a Romanos 9 la función histórica de Faraón y la asimetría entre criatura y formador. Es **textual y cualificado** relacionar los vasos de misericordia con gloria y llamamiento. Es **aproximado e inferencial** convertir estos elementos en un mapa completo de la experiencia individual o de la seguridad eterna. La enseñanza de Eric es útil cuando separa propósito y salvación; la lectura de Romanos exige añadir que la carta continúa con anuncio, tropiezo, incredulidad, misericordia y esperanza para Israel.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
