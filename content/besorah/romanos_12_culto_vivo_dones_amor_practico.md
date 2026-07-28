@@ -148,6 +148,16 @@ Dos verbos gobiernan la respuesta que Romanos 12 pide después de las misericord
 
 **(ὑπερηφανία)**, _hyperēphania_, significa altivez, orgullo o arrogancia; no es la forma usada en #romanos_12_3, de modo que solo puede servir como término **pedagógico y aproximado** para resumir la advertencia contra pensar más alto de lo debido. La forma relevante del pasaje es **(φρονέω)**, _phroneō_, «pensar, tener una disposición o juzgar»; en #romanos_12_3 su fuerza **contextual** es ordenar la autoevaluación a la medida de la emunah recibida, no negar toda valoración responsable.
 
+## Control de la lectura: fidelidad que se puede observar
+
+La expresión pública «el patrón de la fidelidad» queda mejor evaluada cuando se pregunta qué puede observarse en cada tramo. En #romanos_12_1-2, la respuesta no es una emoción privada: **(παρίστημι)**, _paristēmi_, significa presentar, poner a disposición o colocar delante; su fuerza contextual es entregar el cuerpo a Elohim como respuesta a sus misericordias. «Presentar» es una glosa **directa** y «culto visible» una formulación **pedagógica**. La clase puede conservarse como un llamado a una fidelidad encarnada, pero el texto no autoriza a medirla por exhibición religiosa.
+
+En #romanos_12_3-8, **(μέτρον)**, _metron_, significa medida o instrumento de medida; Pablo lo usa para ordenar la autoevaluación y la distribución de la emunah, no para establecer una escala de prestigio. «Medida» es una traducción **directa**, mientras convertirla en una jerarquía fija de dones sería una inferencia **no demostrada**. Esto refuerza la observación atribuible de Eric: el patrón incluye sobriedad y servicio, y la diversidad de miembros pertenece a un cuerpo que se necesita mutuamente.
+
+En #romanos_12_9-21, la fidelidad se prueba ante el prójimo y ante el adversario. **(φιλαδελφία)**, _philadelphia_, significa afecto fraternal; **(φιλοστοργός)**, _philostorgos_, describe cariño familiar; y **(εὐλογέω)**, _eulogeō_, significa bendecir o hablar bien. Sus glosas son **directas** en el campo ordinario, pero su fuerza es **contextual**: el amor sin fingimiento se manifiesta en honra, hospitalidad y bendición al perseguidor. El cierre con **(νικάω)**, _nikaō_, «vencer», es también **directo**, mientras la aplicación «triunfar sin reproducir la violencia» es **pedagógica** y debe permanecer ligada al bien concreto que Pablo ordena.
+
+Así, la enseñanza de Eric recibe apoyo textual sin convertirse en una regla abstracta. El patrón comienza en misericordia, se expresa en un cuerpo ofrecido, se regula con sobriedad, se verifica en el servicio y culmina en un bien activo que deja la venganza a Elohim. La nota no atribuye a la clase palabras que el título no permite comprobar; sí conserva su foco público y muestra, en el orden de la perícopa, qué afirmaciones son directas, cuáles aproximadas y cuáles solo pedagógicas.
+
 - [ ] Recuperar una transcripción accesible de `youtube:8z-3MkpomOo` para distinguir otros énfasis verificables de Eric de Jesús Rodríguez Mendoza dentro del «patrón de la fidelidad» indicado por el título público.
 - [ ] Cotejar **(λογικὴ λατρεία)**, **(μεταμορφόω)** y **(χάρισμα)** con el texto griego crítico y léxicos antes de fijar una traducción única.
 - [ ] Examinar la cita de #romanos_12_19 en su contexto de Deuteronomio antes de elaborar su uso en conflictos comunitarios.

@@ -139,6 +139,16 @@ Así, el capítulo ofrece una prueba para cualquier lectura de las autoridades: 
 - La argumentación de Romanos conserva tanto la misericordia de Elohim como el llamado a una respuesta fiel.
 - Las aplicaciones sobre identidad, Torá, conciencia o vida congregacional necesitan seguir la lógica del capítulo y no imponerse desde categorías posteriores.
 
+## Control de la lectura: autoridad bajo evaluación y vigilancia sobria
+
+La exposición pública sobre la sujeción queda delimitada por los verbos y por la función que Pablo atribuye a la autoridad. **(πειθαρχέω)**, _peitharcheō_, significa obedecer a una autoridad o dejarse persuadir por ella; no es la forma que gobierna #romanos_13_1-7, por lo que solo sirve como contraste **pedagógico**. La forma relevante, **(ὑποτάσσω)**, _hypotassō_, significa someterse o colocarse bajo un orden: «someterse» es una glosa **aproximada**, y su fuerza **contextual** está cualificada por la conciencia, el bien y la responsabilidad de la autoridad. No debe presentarse como obediencia ciega.
+
+En #romanos_13_3-7, **(λειτουργός)**, _leitourgos_, significa servidor público o funcionario que realiza un servicio; la traducción «servidor» es **directa** en el campo funcional, pero aplicarla como aprobación moral automática de cada gobernante sería una inferencia **ilegítima**. El texto usa también **(φόβος)**, _phobos_, «temor» o respeto reverente, y **(τιμή)**, _timē_, «honra» o estima. Ambas glosas son **directas**, pero el contexto de tributo, impuesto, respeto y honra no concede culto a la autoridad ni permite justificar el mal.
+
+El paso al amor conserva el límite moral. **(μηδενὶ μηδὲν ὀφείλετε)** expresa «no deban nada a nadie»; **(ὀφείλω)**, _opheilō_, significa deber o estar obligado, y en #romanos_13_8 la única deuda permanente es el amor. La relación entre deuda y amor es **textual**; decir que toda obligación civil desaparece sería una aplicación **no demostrada**, porque el contexto acaba de mencionar tributo y honra. **(κακόν)**, _kakon_, significa malo o dañino, y en #romanos_13_10 define el amor por lo que no hace al prójimo. «No hacer daño» es una glosa **directa y contextual**, no una licencia para llamar bueno a cualquier deseo.
+
+Finalmente, **(γρηγορέω)**, _grēgoreō_, significa estar despierto o mantenerse vigilante; aunque Romanos 13:11 usa la imagen de despertar, esta forma ayuda solo de manera **pedagógica** a resumir la vigilancia. La enseñanza de Eric se conserva con apoyo textual cuando llama a abandonar tinieblas y revestirse de Yehoshua; se limita cuando una lectura convierte «la hora» en calendario profético. La progresión completa es sobria: autoridad funcional, conciencia responsable, amor que no daña y esperanza que produce una conducta despierta.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar los términos griegos relevantes de Romanos 13 con léxicos y la sintaxis del pasaje.
