@@ -147,6 +147,12 @@ En #bereshit_50_24-26 Iosef repite **(פקד)**, _paqad_: «visitar, atender, in
 
 La clase resume la parashá como actuar conforme a la voluntad divina: Yaakov pide conforme a la promesa, Iosef jura y luego deja una instrucción orientada al futuro. La muerte de Iosef y el ataúd en Mitsraim dejan el libro abierto: la promesa todavía no se ha consumado. **(עצמותי)**, _atsmotai_, «mis huesos», es una referencia concreta al cadáver, no una metáfora obligatoria de identidad espiritual. El gesto apunta a una lectura canónica de la salida posterior solo por conexión pedagógica; el versículo afirma directamente la futura subida de Israel.
 
+## TTH y la esperanza que queda abierta
+
+La TTH conserva el cierre en una forma que mantiene la acción futura: «Yo muero, pero Elohim, visitando, los visitará, y hará subir a ustedes de esta tierra» (#bereshit_50_24). El participio repetido de **פקד**, _paqad_, no autoriza a reducir la promesa a que Elohim simplemente «se acuerde»; el verbo puede expresar visitar, atender o intervenir según el contexto. El complemento «de esta tierra» y la petición de subir los huesos de Iosef hacen que la esperanza sea histórica y corporal dentro del relato. La clase de Eric conecta esa subida con la salida de Mitsraim y con la fidelidad de יהוה a Abraham, Itzjak y Yaakov. La conexión canónica es coherente con la dirección del texto, pero el capítulo de Bereshit todavía no narra el éxodo: deja la promesa pendiente.
+
+Esto también corrige dos reducciones opuestas. «Iosef murió y todo terminó» ignora la fórmula «Elohim visitará»; pero «la providencia convirtió todo el mal en bien sin resto» ignora que 50:20 conserva **רעה**, _ra'ah_, como mal pensado por los hermanos. La consolación bíblica no borra la historia ni vuelve innecesaria la responsabilidad: se expresa en que Iosef alimenta a sus hermanos y en que la familia espera el cumplimiento futuro.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual     | Observación concreta de la clase                                                                                                                                                         | Tratamiento en esta nota                                                                                                       |
