@@ -62,6 +62,14 @@ El final no deja a los reyes solo bajo amenaza. #tehilim_2_10-12 los llama a ser
 
 La transcripción asocia las «ataduras» y «cuerdas» con mandamientos y promesas específicas. Es una propuesta interpretativa posible, pero el texto no define esos objetos mediante una glosa interna. Por eso la equivalencia se conserva como pendiente, no como significado establecido.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual   | Observación concreta de la clase                                                                                                                                      | Tratamiento en esta nota                                                                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_2_1-3   | Eric contrapone la vacuidad meditada por las naciones con la palabra eficaz de יהוה y lee las ataduras como una resistencia al gobierno del Rey.                      | **Apoyo textual y clarificación léxica**: se conserva el contraste del salmo y se deja como pendiente la equivalencia exacta entre los términos de Tehilim 2, Devarim 32 e Ieshaiahu 55.                  |
+| #tehilim_2_4-9   | La clase sigue al Rey ungido desde la risa del que se sienta en los cielos hasta el decreto «Mi Hijo eres tú», la herencia de las naciones y el gobierno desde Tzión. | **Apoyo textual y calificación de inferencia**: se desarrollan rey, hijo, herencia y Tzión en su secuencia; la proyección mesiánica se conserva como lectura posterior, no como sustituto del poema real. |
+| #tehilim_2_10-12 | Eric insiste en que la advertencia a los reyes termina en servicio, temor, corrección recibida y refugio, de modo que el salmo no ofrece solo amenaza.                | **Apoyo textual**: se mantiene el cierre exhortativo y se distingue la aplicación contemporánea sobre el fruto de una enseñanza de lo que el pasaje afirma directamente.                                  |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la afirmación de que Tehilim 1 y 2 se leían como un solo salmo en b. Berakhot 9b y delimitar exactamente lo que la fuente afirma.
