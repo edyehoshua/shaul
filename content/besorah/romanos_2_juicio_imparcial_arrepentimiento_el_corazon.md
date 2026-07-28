@@ -176,6 +176,14 @@ Así, «obras» y «gracia» no deben separarse artificialmente. **(ὑπομο�
 - [ ] Examinar la cita implícita de #romanos_2_24 y su contexto profético antes de describir con precisión su alcance.
 - [ ] Revisar directamente la argumentación completa de la clase sobre elección y predestinación para distinguir sus afirmaciones de las que el capítulo formula explícitamente.
 
+## Síntesis de la perícopa: retorno, juicio y señal
+
+La secuencia de Romanos 2 impide separar la bondad de Elohim de la responsabilidad que ella convoca. **(χρηστότης)**, _chrēstotēs_, significa bondad o benevolencia; **(ἄγω)**, _agō_, significa llevar o conducir. En #romanos_2_4 la fuerza conjunta es direccional: la bondad conduce hacia **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento. «Teshuvá», retorno, es una equivalencia **pedagógica y aproximada**, no la forma griega de Pablo. El v. 5 conserva la posibilidad de despreciar esa dirección y atesorar dureza; por eso la paciencia divina no equivale a aprobación del pecado.
+
+En #romanos_2_13-16, **(ἀκροατής)**, _akroatēs_, significa oyente y **(ποιητής)**, _poiētēs_, hacedor o practicante. El contraste es **textual y directo** dentro de la frase, pero no debe convertirse en una teoría de mérito independiente: Romanos 3:9-20 mostrará que toda jactancia queda excluida. **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; su fuerza es **forense y contextual**, porque acusa o defiende mientras Elohim juzga los secretos. La aproximación con **לֵב**, _lev_, «corazón», es **pedagógica**, no una sustitución automática entre lenguas.
+
+Finalmente, **(περιτομή)**, _peritomē_, significa circuncisión, **(γράμμα)**, _gramma_, letra o escrito, y **(πνεῦμα)**, _pneuma_, espíritu, aliento o viento. En #romanos_2_25-29 sus sentidos ordinarios son claros, pero su fuerza argumental depende del contraste entre señal, obediencia y alabanza procedente de Elohim. «En Rúaj, no en letra» no desprecia la Escritura; denuncia una señal usada como escudo contra la incoherencia. La enseñanza atribuible de Eric sobre identidad recibe así **apoyo textual cualificado**: Pablo examina al interlocutor que presume de la Torah, no autoriza una acusación indiscriminada contra Israel ni una doctrina exhaustiva de elección derivada solo de este capítulo.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
