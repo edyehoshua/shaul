@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 758,
-  "pending_videos": 200,
+  "covered_videos": 759,
+  "pending_videos": 199,
   "transcript_notes": 355,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -38,7 +38,7 @@
     },
     "Epístolas Romanos y Gálatas (clasificadas desde Uncategorized)": {
       "total": 7,
-      "covered": 0,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Fiestas": {
@@ -118,12 +118,12 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 40,
+      "covered": 39,
       "lane": "colosenses"
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 22,
+      "covered": 23,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
@@ -133,7 +133,7 @@
     },
     "Romanos": {
       "total": 35,
-      "covered": 31,
+      "covered": 32,
       "lane": "colosenses"
     },
     "Shavuot independiente (balanceado desde Uncategorized)": {
