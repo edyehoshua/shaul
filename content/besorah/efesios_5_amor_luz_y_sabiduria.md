@@ -77,6 +77,26 @@ Pablo recuerda una condición pasada y una condición presente: antes oscuridad,
 
 La sección final comienza con #ephesians_5_21 y continúa con instrucciones específicas. El texto llama a la esposa a sujetarse y al esposo a amar como el Mesías amó a la comunidad y se entregó por ella. Ninguna lectura responsable puede separar el llamado dirigido al esposo a una entrega amorosa de la dignidad y el bien de la esposa, ni transformar estas frases en permiso para abuso, coacción o silencio ante daño. Las aplicaciones históricas, culturales y familiares de las clases requieren verificación contextual adicional.
 
+## Hoja léxica
+
+| Forma | Transliteración | Sentido normal y fuerza contextual | Correspondencia y cautela |
+| --- | --- | --- | --- |
+| **(ἀγαπάω)** | _agapaō_ | amar con una entrega que busca el bien del otro | En 5:2 y 5:25 sostiene el amor ofrecido por el Mesías; no equivale automáticamente a emoción o permisividad. |
+| **(φῶς)** / **(σκότος)** | _phōs_ / _skotos_ | luz / oscuridad | La oposición describe una manera de vivir y discernir; “luz” no funciona como etiqueta para juzgar exteriormente a una persona. |
+| **(καιρός)** | _kairos_ | ocasión, tiempo oportuno | En 5:16 fundamenta aprovechar la oportunidad; la aplicación a calendarios o productividad moderna es pedagógica, no definición exhaustiva. |
+| **(ὑποτάσσω)** | _hypotassō_ | ordenar o colocarse bajo una relación de responsabilidad | En 5:21-24 debe leerse junto con el amor sacrificial ordenado al esposo; no autoriza abuso ni control. |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Qué se tomó concretamente de Eric | Cómo se evaluó |
+| --- | --- | --- |
+| #ephesians_5_1-2 | Imitar a Elohim comienza en un amor visible y entregado, no en lenguaje religioso separado de la conducta. | Apoyo textual: Pablo pone el caminar en amor junto a la entrega del Mesías; la aplicación a motivaciones interiores se conserva como orientación pastoral. |
+| #ephesians_5_3-10 | La clase contrapone oscuridad y luz para preguntar si la vida realmente produce fruto, en vez de confiar en una identidad declarada. | Apoyo textual y aclaración léxica: se siguen inmoralidad, codicia, bondad, justicia y verdad; la luz como diagnóstico de personas concretas queda cualificada. |
+| #ephesians_5_15-20 | Redimir el tiempo exige caminar con sabiduría, entender la voluntad, llenarse del Rúaj y responder con canto y gratitud. | Apoyo textual: la secuencia aparece en 5:15-20; cualquier teoría moderna de calendarios o productividad queda pendiente. |
+| #ephesians_5_21-33 | El orden relacional no puede separarse del sometimiento mutuo y del amor del esposo que se entrega como el Mesías; no es permiso para dominar. | Apoyo textual con salvaguarda pastoral: se conserva la estructura del pasaje y se rechaza una extrapolación abusiva; el trasfondo histórico queda pendiente. |
+
+El mapa registra los puntos concretos tomados de las clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
+
 ## Pendiente de verificar
 
 - [ ] Examinar los términos de luz, fruto, oscuridad y exposición en #ephesians_5_8-14 con el griego y el flujo completo del capítulo.
