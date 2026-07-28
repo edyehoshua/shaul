@@ -81,6 +81,14 @@ El cierre cambia de horizonte geográfico sin abandonar el servicio. Pablo esper
 
 Finalmente Pablo pide que los hermanos luchen con él en oración por su liberación, por la recepción de su servicio en Jerusalén y por una visita gozosa conforme a la voluntad de Elohim (#romanos_15_30-32). El «Dios de paz» de #romanos_15_33 no borra el conflicto que ha mencionado; lo encierra en una bendición y una dependencia compartida de Elohim.
 
+## La paciencia que sostiene una misión compartida
+
+Leído en orden, Romanos 15 no separa la enseñanza sobre la convivencia de la misión entre las naciones. **(ὑπομονή)**, _hypomonē_, significa perseverancia o constancia; en #romanos_15_4-5 describe una resistencia sostenida por las Escrituras y por el Elohim que concede paciencia. «Paciencia» es una traducción **aproximada**: no significa aguantar sin esperanza, porque el resultado explícito es esperanza. **(παράκλησις)**, _paraklēsis_, significa consolación, estímulo o exhortación; su fuerza **contextual** es el aliento que, junto con las Escrituras, mantiene a la comunidad orientada al Mesías. No es una promesa de ausencia de conflicto.
+
+La acogida de #romanos_15_7 funciona como bisagra. **(προσλαμβάνω)**, _proslambanō_, significa recibir, acoger o tomar consigo; en este versículo ordena recibir al hermano como el Mesías recibió a la comunidad para gloria de Elohim. «Acoger» es una equivalencia **directa en la escena**, pero no autoriza a borrar corrección, límites o diferencias de conciencia. El mismo movimiento conduce a #romanos_15_8-12, donde **(λειτουργός)**, _leitourgos_, significa servidor público o cultual; aplicado a Pablo en #romanos_15_16, comunica un servicio sacerdotal **pedagógico y contextual**, no una identificación automática con un rango institucional posterior.
+
+La colecta para Jerusalén muestra que la unidad de las naciones no queda en una fórmula verbal. Pablo habla de participación espiritual y ayuda material (#romanos_15_25-28), y después pide oración por un servicio concreto (#romanos_15_30-32). La aplicación atribuible al foco público de Eric puede llamarse apoyo textual **cualificado**: la paciencia, la paz y la acogida sostienen una comunidad capaz de servir; el capítulo, sin embargo, no ofrece por sí solo un programa moderno de financiación ni garantiza el resultado de la ruta proyectada hacia España.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                 | Observación atribuible a la clase                                                                                         | Evaluación frente a Romanos                                                                                                                                    |
