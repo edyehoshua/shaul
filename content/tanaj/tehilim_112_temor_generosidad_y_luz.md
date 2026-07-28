@@ -18,9 +18,11 @@ references:
   - "#1_timoteo_6_17"
   - "#mateo_6_24"
 sources:
+  - "https://www.youtube.com/watch?v=9GX5FLS1vPs"
   - "https://www.youtube.com/watch?v=W6UOw5MBQgk"
   - "docs/scriptures/oe/json/psalms/112.json"
 source_ids:
+  - "youtube:9GX5FLS1vPs"
   - "youtube:W6UOw5MBQgk"
 translation: "[OE]"
 ---
@@ -118,5 +120,6 @@ Tehilim 112 no promete que la obediencia compre prosperidad. Describe a una pers
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Tehilim/Hymnos/Psalm Chapter 112 (part 1)](https://www.youtube.com/watch?v=9GX5FLS1vPs) (`source_id`: `youtube:9GX5FLS1vPs`).
 - Video: [Tehilim/Himnos/Salmo Cap 112 (parte 2)](https://www.youtube.com/watch?v=W6UOw5MBQgk) (`source_id`: `youtube:W6UOw5MBQgk`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
