@@ -101,6 +101,27 @@ El vínculo con #hoshea_9_10 y #tehilim_106_28-31 es una conexión canónica út
 
 Bamidbar 25 no minimiza la idolatría ni permite que el lector convierta su celo en una excusa para dañar. Israel se apegó a Baal-Peor; la plaga mostró la gravedad comunitaria; Pinjas actuó en una escena pública específica; y יהוה otorgó un pacto de paz que preservó la función sacerdotal. La lectura responsable conserva el juicio, distingue el texto de la aplicación y recuerda que la santidad del campamento se prueba por la fidelidad al Elohim que habla, no por la agresión privada.
 
+## Recorrido final de la perícopa
+
+La secuencia de 25:1-9 impide separar el culto de sus consecuencias sociales. El OE dice **וישב ישראל בשטים** («Israel se asentó en Shitim») y luego **ויאכל העם וישתחוו לאלהיהן** («el pueblo comió y se inclinó ante sus dioses»). TTH conserva el mismo movimiento: asentamiento, invitación, comida, inclinación y adhesión. **וישתחוו**, _vayishtajavu_, forma verbal de חוה, tiene como sentido normal «se inclinó» o «se postró»; aquí su fuerza contextual es un acto de culto, no una mera cortesía. «Se sometió interiormente» sería una equivalencia pedagógica, no exacta.
+
+En 25:4-5 el mandato a los jefes y el llanto ante la entrada de la tienda muestran que la respuesta no es una disputa privada. **הוקע**, _hoqea_, forma causativa de יקע, tiene el sentido normal de «exponer, colgar o empalar» según el contexto; en este pasaje señala una ejecución pública ordenada para apartar la ira. «Humillar» no expresa toda la fuerza del término. El texto debe ser leído con temor y dentro de su autoridad narrativa, no convertido en procedimiento para tribunales religiosos actuales.
+
+Los versículos 10-13 interpretan la escena desde la palabra de יהוה, no desde la autojustificación de Pinjas. El OE llama a Pinjas **השיב את חמתי** («hizo volver mi ira») y TTH traduce que «apartó mi furor». **חמתי**, _jamati_, es «mi ira» o «mi calor»; el sufijo de primera persona mantiene a יהוה como sujeto de la ira y del juicio. **השיב**, _heshiv_, forma causativa de שוב, normalmente «hacer volver» o «hacer regresar»; aquí describe el efecto de la acción sobre la ira, no que Pinjas controle a יהוה. «Calmó a Dios» sería una paráfrasis teológica demasiado fuerte.
+
+El cierre de 25:16-18 tampoco permite una lectura sin límites. El OE dice **צרור את המדינים והכיתם אותם כי צררים הם לכם** («hostilicen a los midianitas y golpéenlos, porque son hostiles para ustedes»). **והכיתם**, _vehikitem_, forma causativa de נכה, normalmente «golpear» o «herir»; su fuerza aquí es una orden militar en el conflicto narrado. «Combatir toda influencia impura» es una aplicación pedagógica, no una traducción. Eric insiste en que la santidad debe proteger la presencia; el texto apoya la seriedad de la infidelidad, pero exige que la aplicación moderna no suplante la orden histórica ni invente enemigos.
+
+La memoria posterior confirma el foco sin borrar el contexto. Hoshea 9:10 recuerda: **ויבאו אל בעל פעור וינזרו לבשת** («llegaron a Baal-Peor y se consagraron a la vergüenza»), mientras Tehilim 106:30-31 dice que **ויעמד פינחס ויפלל ותעצר המגפה** («se levantó Pinjas, e hizo juicio, y se detuvo la plaga»). **ויפלל**, _vayefalel_, forma verbal de פלל, normalmente «juzgar, interceder o actuar judicialmente» según la construcción; en el salmo resume la intervención de Pinjas y no convierte cualquier celo en autoridad. La conexión con estas memorias es exacta como recuerdo del episodio, pero sus aplicaciones pastorales siguen siendo evaluaciones pedagógicas.
+
+## Cierre textual: celo recibido, paz concedida
+
+El TTH de #bamidbar_25_11 conserva: «Pinjás, hijo de Eleazar, hijo de Aharón el sacerdote, ha hecho volver mi ira de sobre los hijos de Israel, al tener celo por mi celo entre ellos, para que no consumiera a los hijos de Israel en mi celo». OE expresa la misma atribución: **השיב את חמתי מעל בני ישראל בקנאו את קנאתי בתוכם**. La repetición de **קנא**, _qana_, y el sufijo de primera persona en «mi celo» impiden separar la acción del intérprete divino: Pinjas no se autoproclama dueño del juicio; יהוה explica qué vio y qué efecto produjo.
+
+El versículo siguiente dice en TTH: «Por eso, di: He aquí que le doy mi pacto de paz». **לכן**, _lajen_, «por eso», conecta el pacto con la interpretación precedente; **הנני נתן**, _hineni noten_, «he aquí, doy», presenta la iniciativa de יהוה. La paz es, por tanto, una concesión pactal, no una recompensa que la comunidad pueda reproducir por fuerza propia. La observación de Eric sobre defender la casa y el nombre de Elohim conserva un núcleo exhortativo cuando llama a la fidelidad, pero pierde el límite del texto si convierte el celo reconocido a Pinjas en licencia para violencia privada.
+
+El final del capítulo también debe permanecer visible. TTH traduce #bamidbar_25_18: «porque ellos son hostiles para ustedes con sus engaños, con los que los engañaron en el asunto de Peor». **בנכליהם**, _benakhelehem_, procede de נכל, «actuar con engaño o artificio»; su fuerza contextual recuerda una estrategia concreta asociada con Peor. «Toda influencia impura» es una aplicación pedagógica, no una equivalencia exacta. La perícopa queda así cerrada por memoria y discernimiento: nombra acciones, agentes y conflicto; no autoriza al lector a fabricar adversarios espirituales sin evidencia.
+
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
