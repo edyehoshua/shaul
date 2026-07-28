@@ -86,6 +86,14 @@ Después de muchos días muere el rey de Egipto. Israel gime y clama desde el tr
 | **(זכר)** | _zakar_         | recordar, tener presente           | Recordar el pacto mediante acción fiel                                                 | Aproximada si sugiere recuperar un olvido                                |
 | **(ידע)** | _yada_          | conocer                            | Reconocimiento relacional de la aflicción                                              | Aproximada si se limita a información mental                             |
 
+## Ver, oír y esperar el tiempo de la liberación
+
+El capítulo repite acciones de percepción, pero no las convierte en una capacidad humana para producir salvación. La hija de Faraón **ראה**, _raah_, «ve» la cesta y al niño; Moshe «ve» las cargas de sus hermanos; y al final Elohim «ve» a los hijos de Israel. La forma verbal conserva el sentido normal de ver o percibir, mientras que su fuerza cambia con el sujeto y el contexto. En 2:5–6, ver conduce a compasión; en 2:11, ver expone a Moshe al sufrimiento pero no le confiere todavía autoridad; en 2:25, la mirada divina acompaña el recuerdo del pacto. «Ver la aflicción» como comprensión espiritual es una equivalencia **pedagógica**, no la traducción del verbo.
+
+El mismo orden aparece con la escucha. Israel gime y clama, y TTH dice: «escuchó Elohim su gemido, y recordó Elohim su pacto» (2:24). **שמע**, _shama_, significa oír o escuchar; aquí su fuerza contextual es atender al clamor de un pueblo oprimido y actuar conforme al pacto. No describe una información que antes faltara a Elohim. La clase de Eric acierta al resistir la autosalvación de Moshe, pero el texto también resiste una espera pasiva: las parteras, la madre, Miriam, la hija de Faraón y Moshe en el pozo realizan actos concretos de preservación y justicia, aunque ninguno sustituye el llamado soberano de יהוה.
+
+Por eso el cierre de Shemot 2 debe leerse como bisagra. **פקד**, _paqad_, significa visitar, atender o encargar según el contexto; aunque el verbo aparece explícitamente en la continuación de 3:16, 2:25 prepara esa intervención al decir que Elohim conoció a Israel. «Intervino» es una equivalencia **aproximada** cuando se resume el movimiento narrativo. El capítulo termina antes de la comisión de Moshe para conservar esta distinción: la compasión humana protege vidas en momentos concretos, pero la liberación nacional nace de que Elohim escucha, recuerda y conoce.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual          | Observación concreta de la clase                                                                           | Tratamiento en la nota                                                           |
