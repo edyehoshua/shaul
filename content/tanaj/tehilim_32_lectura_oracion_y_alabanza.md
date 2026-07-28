@@ -68,13 +68,13 @@ El final convoca: «alégrense en יהוה y gócense, justos; y canten todos lo
 
 ## Hoja de comparación
 
-| Unidad           | Texto hebreo local normalizado                          | Movimiento de la enseñanza                                               |
-| ---------------- | ------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #tehilim_32_1-2  | אשרי נשוי פשע כסוי חטאה ... ואין ברוחו רמיה             | Felicidad del perdón y ausencia de engaño interior.                      |
-| #tehilim_32_3-5  | כי החרשתי ... חטאתי אודיעך ... ואתה נשאת עון חטאתי      | El silencio desgasta; la confesión recibe levantamiento de la iniquidad. |
-| #tehilim_32_6-7  | על זאת יתפלל כל חסיד ... אתה סתר לי ... רני פלט תסובבני | Oración, refugio y cánticos de liberación.                               |
-| #tehilim_32_8-10 | אשכילך ואורך בדרך ... אל תהיו כסוס ... חסד יסובבנו      | Instrucción, discernimiento y contraste entre maldad y confianza.        |
-| #tehilim_32_11   | שמחו ביהוה וגילו צדיקים ... הרנינו כל ישרי לב           | Alegría y canto de la comunidad recta.                                   |
+| Unidad           | Texto hebreo local normalizado                                                                                                                                          | Movimiento de la enseñanza                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| #tehilim_32_1-2  | לדוד משכיל אשרי נשוי פשע כסוי חטאה · אשרי אדם לא יחשב יהוה לו עון ואין ברוחו רמיה                                                                                       | Felicidad del perdón y ausencia de engaño interior.                      |
+| #tehilim_32_3-5  | כי החרשתי בלו עצמי בשאגתי כל היום · כי יומם ולילה תכבד עלי ידך נהפך לשדי בחרבני קיץ סלה · חטאתי אודיעך ועוני לא כסיתי אמרתי אודה עלי פשעי ליהוה ואתה נשאת עון חטאתי סלה | El silencio desgasta; la confesión recibe levantamiento de la iniquidad. |
+| #tehilim_32_6-7  | על זאת יתפלל כל חסיד אליך לעת מצא רק לשטף מים רבים אליו לא יגיעו · אתה סתר לי מצר תצרני רני פלט תסובבני סלה                                                             | Oración, refugio y cánticos de liberación.                               |
+| #tehilim_32_8-10 | אשכילך ואורך בדרך זו תלך איעצה עליך עיני · אל תהיו כסוס כפרד אין הבין במתג ורסן עדיו לבלום בל קרב אליך · רבים מכאובים לרשע והבוטח ביהוה חסד יסובבנו                     | Instrucción, discernimiento y contraste entre maldad y confianza.        |
+| #tehilim_32_11   | שמחו ביהוה וגילו צדיקים והרנינו כל ישרי לב                                                                                                                              | Alegría y canto de la comunidad recta.                                   |
 
 ## Hoja léxica
 
