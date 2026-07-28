@@ -117,6 +117,16 @@ La clase conecta esta piedra con Yehoshua y advierte contra una justicia constru
 
 Romanos 9 invita a escuchar el argumento de Pablo como una unidad: la obra de Elohim en Yehoshua orienta a la comunidad hacia una emunah que se hace visible en perseverancia, discernimiento y amor.
 
+## Romanos 9 en la secuencia de 9–11
+
+La lectura de Eric sobre propósito y salvación gana precisión cuando se deja que Romanos 10 y 11 continúen la pregunta. Romanos 9:30-33 no termina en una abstracción sobre decretos, sino en el contraste entre las naciones que alcanzaron justicia por emunah y Israel que tropezó en la piedra. Romanos 10:1-4 vuelve a mostrar el dolor y la oración de Pablo por Israel: hay celo, pero no según conocimiento, y se procura establecer una justicia propia en vez de someterse a la justicia de Elohim. Romanos 11:1-2 niega que Elohim haya desechado a su pueblo y desarrolla el remanente. Por eso la afirmación de que la palabra no falló debe sostener simultáneamente promesa, incredulidad, llamamiento y misericordia.
+
+**(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; en #romanos_9_30-33 su fuerza contextual es la condición justa que las naciones alcanzan por emunah y que Israel persigue como si procediera de obras. «Justicia» es una glosa **directa**, pero la frase completa es **contextual** y no permite reducirla a una cualidad moral abstracta. **(πίστις)**, _pistis_, significa confianza, fidelidad o fe; aquí señala la respuesta por la que se recibe la justicia en contraste con la jactancia. Cualquiera de esas traducciones es **aproximada** sin el contexto; presentar «fe» como mérito autónomo o «fidelidad» como ausencia de respuesta humana sería una explicación **pedagógica** defectuosa.
+
+**(καυχάομαι)**, _kauchaomai_, significa jactarse, gloriarse o reclamar motivo de orgullo; aunque Romanos 9 lo presupone más que repetirlo en cada versículo, su fuerza canónica aclara el contraste con la justicia procurada por obras y con el olivo de Romanos 11. La glosa es **ordinaria y aproximada**; no significa que toda alegría por la obra de Elohim sea jactancia. **(προσκόπτω)**, _proskoptō_, significa tropezar o chocar contra; en #romanos_9_32-33 describe la respuesta de quien encuentra la piedra de Sion sin descansar en emunah. «Tropezar» es **directa** como imagen, pero su alcance doctrinal es **contextual**: no autoriza a convertir el tropiezo de Israel en desprecio étnico ni a separar la piedra de las promesas que Pablo acaba de defender.
+
+Esta continuidad también evalúa la distinción atribuida a Eric. Faraón es presentado como instrumento en una manifestación histórica del nombre de Elohim; los vasos de misericordia son descritos en relación con gloria y llamamiento; Israel es tratado con dolor, oración y esperanza. «Propósito» y «salvación» no son sinónimos automáticos, pero tampoco deben separarse de modo que el propósito divino vuelva irrelevantes la respuesta, el anuncio o la misericordia futura. La nota conserva la propuesta de la clase como **inferencia cualificada**, y deja que el conjunto de Romanos limite cualquier sistema cerrado.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]

@@ -90,6 +90,16 @@ La sesión identificada por el título «¿Qué es ser judío? ¿Qué es ser cre
 
 Romanos 2 impide dos evasiones complementarias: acusar el pecado ajeno como si uno estuviera exento y usar identidad, instrucción o señal como garantía independiente de la conducta. La paciencia de Elohim abre camino a teshuvá; su juicio imparcial alcanza lo secreto; y la respuesta fiel debe penetrar el corazón. En esta secuencia, Yehoshua es nombrado como aquel conforme a quien Elohim juzga los secretos humanos, no como pretexto para la superioridad de una comunidad sobre otra.
 
+## Romanos 2 leído con Romanos 3: la acusación alcanza a todos
+
+La observación de Eric sobre la Torá escrita en el corazón debe conservarse dentro del movimiento de la carta. Romanos 2:13-16 afirma que la conciencia de los gentiles da testimonio y que sus pensamientos acusan o defienden; Romanos 3:9-20, sin embargo, reúne a judíos y griegos bajo pecado y concluye que por obras de la Torá ninguna carne será declarada justa delante de Elohim. No hay contradicción si se distingue el criterio público del juicio de la autosuficiencia: el capítulo 2 expone la medida de la conducta y la incoherencia de quien presume, mientras el capítulo 3 desmantela toda jactancia y prepara la justicia recibida por la fidelidad.
+
+**(δικαστής)**, _dikastēs_, significa juez; aunque la forma no sea el centro de la traducción local, ilumina el marco forense que Eric aplica al capítulo. Su fuerza contextual es la evaluación imparcial de Elohim, no la autorización para que la comunidad condene desde una posición superior. La glosa «juez» es **directa** en sentido ordinario y **contextual** en su aplicación; no debe ampliarse a una teoría política sobre todos los tribunales humanos. **(κατακρίνω)**, _katakrinō_, significa condenar o pronunciar sentencia contra; en #romanos_2_1 su fuerza es que el acusador queda incluido en la medida que aplica. «Condenar» es **aproximada** como traducción de la acción retórica, y no equivale a toda forma de discernimiento moral.
+
+La enseñanza sobre la circuncisión del corazón también necesita esta doble corrección. **(Ἰουδαῖος)**, _Ioudaios_, significa judío; en #romanos_2_17-29 identifica al interlocutor histórico que posee nombre, Torá y señal, no una caricatura de todo judío. La glosa es **directa**, pero su fuerza es **contextual** y autocrítica. **(γράμμα)**, _gramma_, significa letra, escrito o documento; en #romanos_2_29 participa del contraste con la circuncisión «en Rúaj». «Letra» es **directa** en el campo básico, pero leerla como desprecio de la Escritura sería una paráfrasis **pedagógica** ilegítima: el propio argumento sigue tratando la Torá como instrucción santa y como criterio que descubre la desobediencia.
+
+Así, la aportación atribuible de Eric queda bien delimitada. La bondad que conduce al retorno es una invitación real; la conciencia no es una autoridad autónoma; la identidad judía no es anulada; y la señal externa no puede sustituir la obediencia del corazón. Romanos 3 impide convertir cualquiera de esas afirmaciones en mérito humano, mientras Romanos 2 impide convertir la gracia en permiso para persistir en la dureza.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis griega de #romanos_2_4, #romanos_2_13 y #romanos_2_29 y la relación de sus términos con las aproximaciones hebreas de la tabla.
