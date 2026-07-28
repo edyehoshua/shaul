@@ -233,6 +233,13 @@
   - `content/tanaj/devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` ← `youtube:kw0lpuvIXPk`
 - Validation: `python3 scripts/check_transcript_note_quality.py` on three paths → `quality_failures=0`; `git diff --check` clean; Prettier on touched Markdown.
 - Did not push canonical; commit only on `worker/shaul-tanaj`.
+
+## 2026-07-28 — Tanaj lane cron follow-up
+
+- Rebased `worker/shaul-tanaj` onto `origin/feat/eric_youtube` and preserved the existing Tanaj studies during the learning-log conflict resolution.
+- Expanded the canonical `content/tanaj/vaikra_16_18_expiacion_sangre_y_santidad.md` with owned source `youtube:_4q0WLCdK1c`; verified the source belongs to this lane and the chapter note contains no other lane-owned source.
+- Preserved Eric’s observations from the public class about **(קדש)**, **(פרכת)**, **(כפרת)**, **(חטאת)** and **(עלה)**, tested them against local Vaikra 16, and marked Spanish correspondences as approximate or pedagogical where needed.
+- Validation passed: targeted Prettier, `python3 scripts/check_transcript_note_quality.py content/tanaj/vaikra_16_18_expiacion_sangre_y_santidad.md`, and `git diff --check`. Committed as `d45b0f05`; no canonical push.
 - 2026-07-28 — Added canonical `content/tanaj/shemot_2_moshe_vida_protegida_y_grito_recordado.md` from the exclusively owned `youtube:SPEatJ6nkyc`. The note follows Shemot 2:1-25 in order, quotes normalized local OE, preserves Eric’s observations about fearing Elohim, Moshe’s rescue, premature violence, Midyan, and the remembered covenant, qualifies the lexical sheet and the Mitzrayim etymology, and passes the transcript-note quality gate with public-only credit.
 - 2026-07-28 — Añadí la nota canónica de Bereshit 37 desde la fuente exclusiva `youtube:GTTiPhYP4eQ` (Vayéshev). La nota sigue 37:1-36 en orden, cita OE/TTH locales, conserva las observaciones de Eric sobre asentamiento, sueños, envidia/rechazo, pozo y solución perteneciente a Elohim, y califica la tipología y las afirmaciones secundarias. Incluye léxico, mapa de enseñanza, crédito público y fuente única; el control de calidad y `git diff --check` pasaron.
 

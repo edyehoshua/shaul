@@ -12,3 +12,5 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/tanaj/cantar_8_lectura_poetica_y_relacional.md` — fuentes: youtube:c-cPzZYvPJs, youtube:pSq69Bx_xqo; créditos visibles: sí.
 - [ ] `content/tanaj/bamidbar_8_parashot_2017.md` — fuentes: youtube:Ps_KEolNVdU; créditos visibles: sí.
 - [ ] `content/besorah/romanos_6_union_con_el_Mesias_muerte_al_pecado_vida_nueva.md` — fuentes: youtube:hj1Eu4BPPBc, youtube:o87CBGw9-Zo; créditos visibles: sí.
+- [ ] `content/tanaj/bereshit_44_parashot_2017.md` — fuentes: youtube:VPMoZun2Bww, youtube:86l71sgugKc; créditos visibles: sí.
+- [ ] `content/tanaj/devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` — fuentes: youtube:kw0lpuvIXPk; créditos visibles: sí.
