@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 765,
-  "pending_videos": 193,
+  "covered_videos": 766,
+  "pending_videos": 192,
   "transcript_notes": 359,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -38,7 +38,7 @@
     },
     "Epístolas Romanos y Gálatas (clasificadas desde Uncategorized)": {
       "total": 7,
-      "covered": 2,
+      "covered": 3,
       "lane": "colosenses"
     },
     "Fiestas": {
@@ -58,7 +58,7 @@
     },
     "Gálatas": {
       "total": 13,
-      "covered": 10,
+      "covered": 11,
       "lane": "colosenses"
     },
     "Haftarot de Bre’shit/Génesis": {
