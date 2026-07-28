@@ -1,35 +1,8 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 271,
+  "total_notes_requiring_remediation": 269,
   "notes": [
-    {
-      "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
-      "substantive_words": 777,
-      "thematic_sections": [
-        "santuario, atrio y el tiempo señalado: 11:1-3",
-        "olivos, menorot y un testimonio figurado: 11:4-6",
-        "la bestia, los cuerpos caídos y la ciudad nombrada: 11:7-10",
-        "vida, ascenso y la séptima trompeta: 11:11-19",
-        "hoja léxica"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
-
-    {
-      "path": "content/besorah/apocalipsis_7_revelacion_sello_siervos_y_multitud.md",
-      "substantive_words": 167,
-      "thematic_sections": [
-        "lectura del capítulo"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
     {
       "path": "content/besorah/apocalipsis_8_revelacion_silencio_oracion_y_trompetas.md",
       "substantive_words": 168,
