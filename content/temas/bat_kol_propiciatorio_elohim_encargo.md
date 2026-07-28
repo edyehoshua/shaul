@@ -42,6 +42,8 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=m3u6ei-rNKA&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=9"
 translation: "[TTH, Delitzsch, OE]"
+source_ids:
+  - "youtube:m3u6ei-rNKA"
 ---
 
 # Tesis
@@ -59,12 +61,12 @@ La clase une dos asuntos por medio de la palabra que procede de יהוה. Primer
 
 La clase comienza con **(בת קול)**, literalmente “hija de la voz”, como nombre tradicional para una voz o eco procedente del cielo. Su punto de partida escriturario es el lugar desde donde יהוה prometió hablar con Moshéh: la cubierta del arca, entre los querubines.
 
-| Referencia              | Hebreo (sin nikud)                                          | TTH (ES)                                                                                     | Función en la clase                                                                |
-| ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| #shemot_25_17           | ועשית כפרת זהב טהור אמתים וחצי ארכה ואמה וחצי רחבה    | “Harás una cubierta de oro puro”.                                                            | La **kapóret** no es el arca completa, sino su cubierta de oro.                    |
+| Referencia              | Hebreo (sin nikud)                                  | TTH (ES)                                                                                     | Función en la clase                                                                |
+| ----------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| #shemot_25_17           | ועשית כפרת זהב טהור אמתים וחצי ארכה ואמה וחצי רחבה  | “Harás una cubierta de oro puro”.                                                            | La **kapóret** no es el arca completa, sino su cubierta de oro.                    |
 | #shemot_25_22           | ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים… | “Me reuniré para ti allí, y hablaré contigo de sobre la cubierta… entre los dos querubines”. | Une presencia, palabra y lugar de encuentro.                                       |
-| #romanos_3_25           | Texto hebreo no disponible en OE                            | “Al cual puso Elohim como Propiciatorio por la emunah en su sangre…”                         | La clase identifica tipológicamente a Yeshúa con el Propiciatorio.                 |
-| #ivrim_1_1 y #ivrim_1_2 | האלהים אשר דבר מקדם פעמים רבות… דבר אלינו… ביד בנו          | Delitzsch: Elohim habló antiguamente por los profetas y en estos últimos días por su Hijo.   | La voz que antes llegaba por profetas alcanza su expresión culminante por el Hijo. |
+| #romanos_3_25           | Texto hebreo no disponible en OE                    | “Al cual puso Elohim como Propiciatorio por la emunah en su sangre…”                         | La clase identifica tipológicamente a Yeshúa con el Propiciatorio.                 |
+| #ivrim_1_1 y #ivrim_1_2 | האלהים אשר דבר מקדם פעמים רבות… דבר אלינו… ביד בנו  | Delitzsch: Elohim habló antiguamente por los profetas y en estos últimos días por su Hijo.   | La voz que antes llegaba por profetas alcanza su expresión culminante por el Hijo. |
 
 La conexión es tipológica: así como la palabra se oía desde la **kapóret**, Romanos presenta al Mesías como Propiciatorio y Hebreos afirma que Elohim habló por el Hijo. Esto no demuestra por sí solo cada detalle propuesto en la clase sobre sangre, santuario celestial y voz, pero sí sostiene su eje: el acceso, la reconciliación y la palabra convergen en Yeshúa.
 
@@ -86,12 +88,12 @@ La comparación con un trueno en #iojanan_12_29 apoya la lectura de una manifest
 
 La clase interpreta la voz de la metamorfosis como un **drash** que reúne tres pasajes. No se trata de una cita literal única, sino de un tejido que concentra tres funciones mesiánicas en Yeshúa.
 
-| Eje     | Referencia      | Hebreo (sin nikud)                                                     | TTH (ES)                                                              | Identificación                                           |
-| ------- | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
-| Hijo    | #tehilim_2_7    | אספרה אל חק יהוה אמר אלי בני אתה אני היום ילדתיך                   | “יהוה me dijo: Mi Hijo eres tú…”                                      | Hijo y heredero.                                         |
+| Eje     | Referencia      | Hebreo (sin nikud)                                              | TTH (ES)                                                              | Identificación                                           |
+| ------- | --------------- | --------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
+| Hijo    | #tehilim_2_7    | אספרה אל חק יהוה אמר אלי בני אתה אני היום ילדתיך                | “יהוה me dijo: Mi Hijo eres tú…”                                      | Hijo y heredero.                                         |
 | Siervo  | #ieshaiahu_42_1 | הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא | “He aquí mi Siervo… mi escogido, en Él se complace mi ser”.           | Siervo escogido sobre quien reposa el Ruaj.              |
-| Profeta | #devarim_18_15  | נביא מקרבך מאחיך כמני יקים לך יהוה אלהיך אליו תשמעון          | “Un profeta… levantará para ti יהוה tu Elohim; a él escucharán”.      | Profeta anunciado al que Israel debe escuchar.           |
-| Palabra | #devarim_18_18  | נביא אקים להם… ונתתי דברי בפיו ודבר אליהם את כל אשר אצונו      | “Pondré mis palabras en su boca, y hablará… todo lo que Yo le mande”. | La autoridad del Profeta procede de la palabra recibida. |
+| Profeta | #devarim_18_15  | נביא מקרבך מאחיך כמני יקים לך יהוה אלהיך אליו תשמעון            | “Un profeta… levantará para ti יהוה tu Elohim; a él escucharán”.      | Profeta anunciado al que Israel debe escuchar.           |
+| Palabra | #devarim_18_18  | נביא אקים להם… ונתתי דברי בפיו ודבר אליהם את כל אשר אצונו       | “Pondré mis palabras en su boca, y hablará… todo lo que Yo le mande”. | La autoridad del Profeta procede de la palabra recibida. |
 
 Este tejido responde a la fragmentación de títulos: el Hijo de Tehilim, el Siervo de Ieshaiáhu y el Profeta semejante a Moshéh no son tres figuras separadas en la lectura de la clase. La voz los concentra en el Mesías y manda escucharlo.
 
@@ -122,12 +124,12 @@ El caso de Qayafá ilustra la diferencia entre la persona y el encargo: #iojanan
 
 ## Tehilim 82: autoridad bajo juicio
 
-| Referencia    | Hebreo (sin nikud)                              | TTH (ES)                                                                | Límite de la autoridad                                  |
-| ------------- | ----------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- |
+| Referencia    | Hebreo (sin nikud)                           | TTH (ES)                                                                | Límite de la autoridad                                  |
+| ------------- | -------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- |
 | #tehilim_82_1 | מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט | “Elohim toma su posición… en medio de los jueces (heb.: elohim) juzga”. | Los agentes están dentro del juicio de Elohim.          |
-| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם           | “Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón…”          | El título expresa autoridad e identidad representativa. |
-| #tehilim_82_7 | אכן כאדם תמותון וכאחד השרים תפלו           | “Sin embargo, como Adam morirán…”                                       | El cargo no concede inmortalidad ni divinidad.          |
-| #tehilim_82_8 | קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים | “Levántate, Elohim, juzga la tierra…”.                                  | El juicio definitivo pertenece a Elohim.                |
+| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם          | “Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón…”          | El título expresa autoridad e identidad representativa. |
+| #tehilim_82_7 | אכן כאדם תמותון וכאחד השרים תפלו             | “Sin embargo, como Adam morirán…”                                       | El cargo no concede inmortalidad ni divinidad.          |
+| #tehilim_82_8 | קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים   | “Levántate, Elohim, juzga la tierra…”.                                  | El juicio definitivo pertenece a Elohim.                |
 
 El contenido del salmo define la responsabilidad del encargo: defender al débil y al huérfano, hacer justicia al afligido y rescatar al necesitado. Por eso la autoridad no sirve para engrandecerse, sino para administrar fielmente palabra y justicia. Quien usa el título para proclamarse divino contradice la advertencia inmediata: “como Adam morirán”.
 
@@ -168,6 +170,20 @@ La exhortación práctica es sobria: una impresión personal no debe elevarse au
 ## Conclusión
 
 La voz del cielo funciona como testimonio escritural: señala a Yeshúa como Hijo, Siervo y Profeta, y llama al pueblo a escucharlo. A la vez, el uso de _elohim_ para quienes reciben palabra o ejercen juicio enseña que representación no equivale a naturaleza divina. El encargado sigue siendo mortal y será juzgado por cómo administró la palabra. En el Mesías, en cambio, la clase reúne el testimonio, la reconciliación y la palabra final: él es el Hijo enviado y el Propiciatorio hacia el cual apuntaba el lugar desde donde יהוה hablaba.
+
+## Mapa de la enseñanza de Eric
+
+| Tramo de la clase      | Observación atribuible                                                                                                                                  | Prueba en la Escritura local                                                                                                                                        | Estado                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Bat kol, kapóret y voz | Eric relaciona la voz celestial con la palabra que יהוה promete dar desde la kapóret, y con Yeshúa como Propiciatorio.                                  | Shemot 25:22 ubica la palabra sobre la cubierta; Romanos 3:25 presenta al Mesías como Propiciatorio. La relación es tipológica, no una identidad léxica demostrada. | Eje textual verificable; tipología marcada.  |
+| Hijo, Siervo y Profeta | Eric lee la voz de la metamorfosis como un tejido de Tehilim 2, Ieshaiáhu 42 y Devarim 18, no como una cita aislada.                                    | Los tres pasajes aportan hijo, siervo y profeta; los relatos apostólicos mandan escuchar al Hijo.                                                                   | Intertexto explícito; síntesis de la clase.  |
+| Elohim y encargo       | Eric explica que recibir palabra o ejercer juicio puede justificar el título elohim sin conceder inmortalidad, y aplica el límite a ministros y jueces. | Yojanán 10:35 cita Tehilim 82:6; Tehilim 82:7 recuerda que los investidos mueren como Adam.                                                                         | Directamente probado en el argumento citado. |
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Evangelio según Marcos, parte 9: Bat Qol / Elohim](https://www.youtube.com/watch?v=m3u6ei-rNKA) (`source_id`: `youtube:m3u6ei-rNKA`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 

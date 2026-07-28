@@ -37,6 +37,8 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=4xxUgmWPEmw&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=11"
 translation: "[TTH, Delitzsch, OE]"
+source_ids:
+  - "youtube:4xxUgmWPEmw"
 ---
 
 # Tesis
@@ -56,47 +58,47 @@ El argumento depende de distinguir palabras relacionadas pero no intercambiables
 
 ### La confesión y la Palabra
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #romanos_10_9 | TTH: «Porque si confiesas con tu boca: ¡יהוה Yeshúa! Y eres afirmado en tu corazón que Elohim lo levantó de los muertos, serás salvo». | Punto de partida: confesar a Yeshúa en relación con el Nombre y la resurrección. |
-| #filipiyim_2_11 | Delitzsch: וכל־לשון תודה כי אדון ישוע המשיח לכבוד אלהים האב | Toda lengua reconoce a Yeshúa como Adón; la clase conecta **κύριος** con יהוה. |
-| #iojanan_1_1 | TTH: «En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra». | `Reshit` no se limita a un instante cronológico; la clase lo lee como primicia y ancla mesiánica. |
-| #iojanan_1_3 | TTH: «Todo fue hecho por Él, y sin Él nada hubiera sido hecho de lo que fue hecho». | La creación queda vinculada a la Palabra/primicia. |
-| #iojanan_alef_4_7-8 | Delitzsch: כי האהבה מאלהים היא… כי האלהים הוא אהבה | El amor procede de Elohim y Elohim es amor; base para preguntar qué atributo prima en la creación y redención. |
+| Referencia          | Texto local                                                                                                                            | Función en la clase                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| #romanos_10_9       | TTH: «Porque si confiesas con tu boca: ¡יהוה Yeshúa! Y eres afirmado en tu corazón que Elohim lo levantó de los muertos, serás salvo». | Punto de partida: confesar a Yeshúa en relación con el Nombre y la resurrección.                               |
+| #filipiyim_2_11     | Delitzsch: וכל־לשון תודה כי אדון ישוע המשיח לכבוד אלהים האב                                                                            | Toda lengua reconoce a Yeshúa como Adón; la clase conecta **κύριος** con יהוה.                                 |
+| #iojanan_1_1        | TTH: «En la primicia estaba la Palabra, y la Palabra era para Elohim, y Elohim era la Palabra».                                        | `Reshit` no se limita a un instante cronológico; la clase lo lee como primicia y ancla mesiánica.              |
+| #iojanan_1_3        | TTH: «Todo fue hecho por Él, y sin Él nada hubiera sido hecho de lo que fue hecho».                                                    | La creación queda vinculada a la Palabra/primicia.                                                             |
+| #iojanan_alef_4_7-8 | Delitzsch: כי האהבה מאלהים היא… כי האלהים הוא אהבה                                                                                     | El amor procede de Elohim y Elohim es amor; base para preguntar qué atributo prima en la creación y redención. |
 
 ### יהוה presente en nube, fuego y santuario
 
-| Referencia | Hebreo OE (sin nikud) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #shemot_13_21 | ויהוה הלך לפניהם יומם בעמוד ענן לנחתם הדרך ולילה בעמוד אש להאיר להם | «יהוה iba delante de ellos, de día en un pilar de nube… y de noche en un pilar de fuego». | No se presenta solamente un mensajero: יהוה guía a Israel desde la columna. |
-| #shemot_14_24 | ויהי באשמרת הבקר וישקף יהוה אל מחנה מצרים בעמוד אש וענן | «Miró יהוה el campamento de Mitzráim desde el pilar de fuego y nube». | La presencia protege a Israel y juzga a Mitzráim. |
-| #shemot_19_9 | ויאמר יהוה אל משה הנה אנכי בא אליך בעב הענן בעבור ישמע העם בדברי עמך | «Yo vendré a ti en una gruesa nube, para que escuche el pueblo cuando hable contigo». | La voz desde la nube pertenece a יהוה. |
-| #melajim_alef_8_27 | כי האמנם ישב אלהים על הארץ הנה השמים ושמי השמים לא יכלכלוך | «Los cielos y los cielos de los cielos no te pueden contener». | La presencia localizada no encierra ni agota a Elohim. |
+| Referencia         | Hebreo OE (sin nikud)                                                | TTH (ES)                                                                                  | Función en la clase                                                         |
+| ------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| #shemot_13_21      | ויהוה הלך לפניהם יומם בעמוד ענן לנחתם הדרך ולילה בעמוד אש להאיר להם  | «יהוה iba delante de ellos, de día en un pilar de nube… y de noche en un pilar de fuego». | No se presenta solamente un mensajero: יהוה guía a Israel desde la columna. |
+| #shemot_14_24      | ויהי באשמרת הבקר וישקף יהוה אל מחנה מצרים בעמוד אש וענן              | «Miró יהוה el campamento de Mitzráim desde el pilar de fuego y nube».                     | La presencia protege a Israel y juzga a Mitzráim.                           |
+| #shemot_19_9       | ויאמר יהוה אל משה הנה אנכי בא אליך בעב הענן בעבור ישמע העם בדברי עמך | «Yo vendré a ti en una gruesa nube, para que escuche el pueblo cuando hable contigo».     | La voz desde la nube pertenece a יהוה.                                      |
+| #melajim_alef_8_27 | כי האמנם ישב אלהים על הארץ הנה השמים ושמי השמים לא יכלכלוך           | «Los cielos y los cielos de los cielos no te pueden contener».                            | La presencia localizada no encierra ni agota a Elohim.                      |
 
 ### Vida recibida y corazón circuncidado
 
-| Referencia | Hebreo OE / Delitzsch (sin nikud) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #bereshit_2_7 | וייצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה | «Formó יהוה Elohim al hombre, polvo… y soplará en su nariz aliento de vida; y fue el hombre un ser viviente». | Distingue **neshamat jaim** de **nefesh jaiá**; la lectura verbal futura de TTH sostiene el desarrollo de la clase. |
-| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה | TTH no disponible en el corpus local. | El postrer Adam es presentado como vivificante. La identificación técnica con `neshamah` es una propuesta de la clase. |
-| #devarim_30_6 | ומל יהוה אלהיך את לבבך ואת לבב זרעך לאהבה את יהוה אלהיך… למען חייך | «Circuncidará יהוה tu Elohim tu corazón… para amar a יהוה… a fin de que vivas». | La vida no se compra ni se garantiza por una operación en la carne; Elohim transforma el corazón. |
+| Referencia             | Hebreo OE / Delitzsch (sin nikud)                                             | TTH (ES)                                                                                                      | Función en la clase                                                                                                    |
+| ---------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| #bereshit_2_7          | וייצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה | «Formó יהוה Elohim al hombre, polvo… y soplará en su nariz aliento de vida; y fue el hombre un ser viviente». | Distingue **neshamat jaim** de **nefesh jaiá**; la lectura verbal futura de TTH sostiene el desarrollo de la clase.    |
+| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                   | TTH no disponible en el corpus local.                                                                         | El postrer Adam es presentado como vivificante. La identificación técnica con `neshamah` es una propuesta de la clase. |
+| #devarim_30_6          | ומל יהוה אלהיך את לבבך ואת לבב זרעך לאהבה את יהוה אלהיך… למען חייך            | «Circuncidará יהוה tu Elohim tu corazón… para amar a יהוה… a fin de que vivas».                               | La vida no se compra ni se garantiza por una operación en la carne; Elohim transforma el corazón.                      |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la clase | Relación propuesta | Observación |
-| --- | --- | --- | --- | --- |
-| **(יהוה)** | el Nombre | Nombre propio no traducible | Identidad del que salva y se manifiesta | El repositorio escribe יהוה y no fija pronunciación. |
-| **(κύριος)** | kyrios | señor, amo | Sustituto griego empleado donde una fuente hebrea porta יהוה | La aplicación concreta a #romanos_10_9 y #filipiyim_2_11 debe cotejarse con el texto griego y sus citas del Tanaj. |
-| **(אלה / אלוה)** | Eloha | designación singular de la deidad | Base de la explicación de Elohim | La clase lo acerca al arameo y árabe; parentescos y matices quedan pendientes. |
-| **(אלהים)** | Elohim | capacidad de actuación, funciones o atributos de la deidad | En esta clase prima el amor en creación y redención | No convertir este uso pedagógico en definición única para todas las apariciones. |
-| **(ראשית)** | reshit | primicia, comienzo cualitativo | La clase lo identifica con la primicia mesiánica | TTH de #iojanan_1_1 traduce «primicia»; la lectura de #bereshit_1_1 como «por medio de la Primicia» requiere estudio sintáctico aparte. |
-| **(אהבה)** | ahavah | amor que da y sostiene la promesa | Atributo principal manifestado en creación y redención | El juego `ahavah` / `yahav` / `yahad` se conserva como recurso pedagógico, no como etimología demostrada. |
-| **(אחד)** | ejad | uno, unido, sin brechas | Continuidad e inmutabilidad de Elohim | La conexión con las cortinas del tabernáculo es contextual; no agota el campo semántico de אחד. |
-| **(רוח הקדש)** | ruaj ha-qodesh | poder, voluntad o mente de la santidad | Manifestación soberana y multiforme del poder de Elohim | Aproximación teológica de la clase; no traducción palabra por palabra asentada. |
-| **(נשמה / נשמת חיים)** | neshamah / nishmat jaim | aliento de vida; poder santo recibido de manera vivificante en una persona | La clase lo relaciona con el Mesías como vivificante | No reducir a «alma», pero tampoco afirmar equivalencia exacta con `ruaj` sin cotejo. |
-| **(נפש חיה)** | nefesh jaiá | ser viviente | Condición compartida por seres humanos y animales | Distinta de la vida vivificante que la clase atribuye a la neshamah. |
-| **(שכינה)** | Shekhinah | habitación o acompañamiento divino durante castigo/exilio | Categoría circunstancial en literatura judía posterior | No aparece como término en el texto bíblico hebreo; datación y alcance exactos pendientes. |
-| **(לעולם)** | le-olam | por el olam, duración cuyo límite no es visible desde el presente | La clase lo conecta con «hasta el tiempo de reformar» | No traducir automáticamente como eternidad absoluta; revisar cada contexto. |
+| Término               | Transliteración        | Sentido en la clase                                                        | Relación propuesta                                           | Observación                                                                                                                             |
+| --------------------- | ---------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **(יהוה)**            | el Nombre              | Nombre propio no traducible                                                | Identidad del que salva y se manifiesta                      | El repositorio escribe יהוה y no fija pronunciación.                                                                                    |
+| **(κύριος)**          | kyrios                 | señor, amo                                                                 | Sustituto griego empleado donde una fuente hebrea porta יהוה | La aplicación concreta a #romanos_10_9 y #filipiyim_2_11 debe cotejarse con el texto griego y sus citas del Tanaj.                      |
+| **(אלה, אלוה)**       | Eloha                  | designación singular de la deidad                                          | Base de la explicación de Elohim                             | La clase lo acerca al arameo y árabe; parentescos y matices quedan pendientes.                                                          |
+| **(אלהים)**           | Elohim                 | capacidad de actuación, funciones o atributos de la deidad                 | En esta clase prima el amor en creación y redención          | No convertir este uso pedagógico en definición única para todas las apariciones.                                                        |
+| **(ראשית)**           | reshit                 | primicia, comienzo cualitativo                                             | La clase lo identifica con la primicia mesiánica             | TTH de #iojanan_1_1 traduce «primicia»; la lectura de #bereshit_1_1 como «por medio de la Primicia» requiere estudio sintáctico aparte. |
+| **(אהבה)**            | ahavah                 | amor que da y sostiene la promesa                                          | Atributo principal manifestado en creación y redención       | El juego `ahavah` / `yahav` / `yahad` se conserva como recurso pedagógico, no como etimología demostrada.                               |
+| **(אחד)**             | ejad                   | uno, unido, sin brechas                                                    | Continuidad e inmutabilidad de Elohim                        | La conexión con las cortinas del tabernáculo es contextual; no agota el campo semántico de אחד.                                         |
+| **(רוח הקדש)**        | ruaj ha-qodesh         | poder, voluntad o mente de la santidad                                     | Manifestación soberana y multiforme del poder de Elohim      | Aproximación teológica de la clase; no traducción palabra por palabra asentada.                                                         |
+| **(נשמה, נשמת חיים)** | neshamah, nishmat jaim | aliento de vida; poder santo recibido de manera vivificante en una persona | La clase lo relaciona con el Mesías como vivificante         | No reducir a «alma», pero tampoco afirmar equivalencia exacta con `ruaj` sin cotejo.                                                    |
+| **(נפש חיה)**         | nefesh jaiá            | ser viviente                                                               | Condición compartida por seres humanos y animales            | Distinta de la vida vivificante que la clase atribuye a la neshamah.                                                                    |
+| **(שכינה)**           | Shekhinah              | habitación o acompañamiento divino durante castigo/exilio                  | Categoría circunstancial en literatura judía posterior       | No aparece como término en el texto bíblico hebreo; datación y alcance exactos pendientes.                                              |
+| **(לעולם)**           | le-olam                | por el olam, duración cuyo límite no es visible desde el presente          | La clase lo conecta con «hasta el tiempo de reformar»        | No traducir automáticamente como eternidad absoluta; revisar cada contexto.                                                             |
 
 ## Romanos 10: confesar el Nombre en Yeshúa
 
@@ -157,15 +159,15 @@ La aplicación de la clase es que la presencia de Elohim no queda atada perpetua
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la clase | Estado |
-| --- | --- | --- | --- |
-| Septuaginta | Uso de κύριος para יהוה | Trasfondo de #romanos_10_9 y #filipiyim_2_11 | Cotejo general pendiente de los pasajes concretos |
-| Ibn Ezra y comentaristas no identificados | Nombres divinos, juicio y misericordia | Contraste estadístico entre יהוה y Elohim | Pendiente de verificar |
-| Talmud Bavli | `Shekhinah` como acompañamiento en el exilio; «matrona» | Marco de la distinción entre poder santo y acompañamiento | Pendiente de referencia exacta |
-| Tradición judía | Las neshamot presentes en Sinaí | Universalidad potencial seguida de una aplicación a la circuncisión | Mención indirecta en la clase |
-| Liturgia judía | «La neshamah que me diste es pura» | Ejemplo de neshamah entendida como alma personal | Pendiente de identificar la oración y cotejar su interpretación |
-| Historia judía | Desarrollo de `Shekhinah` después del exilio del año 135 | Datación del concepto técnico | Pendiente de verificar; formulación probablemente demasiado estrecha |
-| Historia del templo | Muro occidental como muro de contención de la explanada | Crítica a localizar allí la presencia divina | Pendiente de verificar con fuente arqueológica |
+| Fuente                                    | Referencia                                               | Uso en la clase                                                     | Estado                                                               |
+| ----------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Septuaginta                               | Uso de κύριος para יהוה                                  | Trasfondo de #romanos_10_9 y #filipiyim_2_11                        | Cotejo general pendiente de los pasajes concretos                    |
+| Ibn Ezra y comentaristas no identificados | Nombres divinos, juicio y misericordia                   | Contraste estadístico entre יהוה y Elohim                           | Pendiente de verificar                                               |
+| Talmud Bavli                              | `Shekhinah` como acompañamiento en el exilio; «matrona»  | Marco de la distinción entre poder santo y acompañamiento           | Pendiente de referencia exacta                                       |
+| Tradición judía                           | Las neshamot presentes en Sinaí                          | Universalidad potencial seguida de una aplicación a la circuncisión | Mención indirecta en la clase                                        |
+| Liturgia judía                            | «La neshamah que me diste es pura»                       | Ejemplo de neshamah entendida como alma personal                    | Pendiente de identificar la oración y cotejar su interpretación      |
+| Historia judía                            | Desarrollo de `Shekhinah` después del exilio del año 135 | Datación del concepto técnico                                       | Pendiente de verificar; formulación probablemente demasiado estrecha |
+| Historia del templo                       | Muro occidental como muro de contención de la explanada  | Crítica a localizar allí la presencia divina                        | Pendiente de verificar con fuente arqueológica                       |
 
 ## Pendiente de verificar
 
@@ -185,6 +187,20 @@ La aplicación de la clase es que la presencia de Elohim no queda atada perpetua
 La clase construye una gramática para hablar de la presencia divina antes de entrar de lleno en Padre e Hijo. Confesar a Yeshúa como Adón se conecta con el Nombre; Elohim crea y redime desde el amor; יהוה se manifiesta sin quedar contenido; y la vida llega al ser humano por una obra interior que ninguna pertenencia étnica ni rito puede comprar.
 
 Su aporte más útil es la exigencia de no confundir términos cercanos. Nube, fuego, ruaj, neshamah y Shekhinah no deben convertirse en nombres intercambiables de una misma cosa. A la vez, la precisión requiere distinguir lo cotejado en las Escrituras de las definiciones pedagógicas e históricas de la clase. El eje seguro permanece: el mismo יהוה que habló desde la nube da vida, circuncida el corazón y se da a conocer en el Mesías.
+
+## Mapa de la enseñanza de Eric
+
+| Tramo de la clase          | Observación atribuible                                                                                                                | Prueba en la Escritura local                                                                                                                     | Estado                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| Romanos 10 y el Nombre     | Eric lee la confesión de Yeshúa como Adón en continuidad con el uso de kyrios para יהוה, y no como un título separado del Nombre.     | Romanos 10:9 y Filipiyim 2:11 confiesan a Yeshúa como Adón; la equivalencia concreta con יהוה debe cotejarse en el griego y sus citas del Tanaj. | Núcleo textual; equivalencia delimitada.   |
+| Nube, fuego y presencia    | Eric sostiene que יהוה estuvo verdaderamente presente en la nube, el fuego y la voz sin quedar contenido por una manifestación local. | Shemot 13:21, 14:24 y 19:9 atribuyen la guía, mirada y voz a יהוה; Melajim Alef 8:27 niega que los cielos puedan contenerlo.                     | Directamente verificable.                  |
+| Ruaj, neshamah y Shekhinah | Eric distingue el poder santo, el aliento vivificante recibido en una persona y la categoría posterior de habitación divina.          | Bereshit 2:7 distingue neshamat jaim y nefesh jaiá; Shekhinah no aparece como término técnico en el texto bíblico local.                         | Distinción pedagógica; historia pendiente. |
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El Evangelio según Marcos, parte 11: Rúaj Haqódesh, Neshamáh y Shjinah](https://www.youtube.com/watch?v=4xxUgmWPEmw) (`source_id`: `youtube:4xxUgmWPEmw`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
