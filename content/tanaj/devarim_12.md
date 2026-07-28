@@ -116,6 +116,16 @@ Así, el argumento de Devarim 12 avanza en orden: destruir los altares rivales, 
 | #devarim_12_8-9   | Vincula la **(מנוחה)** con Tehilim 95, Hebreos y el Mesías.            | Inferencia cualificada: se conserva el sentido inmediato de reposo y heredad territorial y la conexión mesiánica se marca pedagógica. |
 | #devarim_12_11-19 | Advierte contra secularizar lo consagrado y dejar fuera al leví.       | Apoyo textual: la nota sigue la mesa delante de יהוה, la casa y el leví en el orden del capítulo.                                     |
 
+## La palabra «delante» y la forma concreta del reposo
+
+La clase habla del reposo como una realidad que debe reconocerse en el lugar elegido, pero el capítulo no deja que esa realidad se vuelva abstracta. En #devarim_12_11 la orden es: «al lugar que יהוה vuestro Elohim escogiere para hacer habitar allí su nombre, allí llevaréis todo lo que yo os mando». **(בוא)**, _bo_, significa venir, entrar o llegar; en la construcción del versículo su fuerza es el movimiento de Israel hacia el lugar de culto, no una entrada meramente interior. «Entrar en el reposo» es una aplicación pedagógica cuando se conecta con Hebreos, pero la escena inmediata exige llevar ofrendas y obedecer una orden pública.
+
+La expresión **(לפני יהוה)**, _lifne YHWH_, combina «delante de» con el sustantivo פנים, _panim_, «rostro» o «presencia». En #devarim_12_7 —«comeréis allí delante de יהוה vuestro Elohim y os alegraréis»— su fuerza contextual es orientar la comida cultual hacia יהוה, no describir una emoción privada. Eric acierta al rechazar un reposo entendido como autonomía, pero la equivalencia «presencia espiritual» es solo aproximada: el texto especifica lugar, casa, ofrendas, hijos, siervos y leví.
+
+El contraste con «cada uno todo lo recto en sus ojos» se repite de forma deliberada. **(עשה)**, _asah_, significa hacer, producir o realizar; en #devarim_12_8 la frase «no haréis según todo lo que hacemos aquí hoy» no celebra la espontaneidad, sino que marca una etapa de transición entre el desierto y el asentamiento. Luego #devarim_12_28 reúne **(שמר)**, _shamar_, «guardar» o «observar», con **(שמע)**, _shama_, «escuchar», y con **(עשה)**: «guarda y escucha todas estas palabras ... para que hagas lo bueno y lo recto». La observación de Eric sobre escuchar como obediencia recibe apoyo contextual, aunque «escuchar» no deba convertirse en una definición rígida de cada aparición.
+
+La mesa también funciona como prueba contra la privatización. **(חלק)**, _jelek_, significa parte, porción o lote; el leví no posee heredad territorial con Israel, pero sí participa de la alegría ordenada (#devarim_12_12, 18). «Ministro sin herencia» es una paráfrasis pedagógica; el argumento exacto es que la celebración delante de יהוה no puede excluir a quien carece de la misma base territorial. Por eso el reposo del capítulo no es pasividad ni licencia: es una forma recibida de acercarse, comer, alegrarse y sostener la comunidad.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en léxicos hebreos trazables los rangos de **(קללה)** y **(אררה)** antes de usar su distinción fuera de estos pasajes.
