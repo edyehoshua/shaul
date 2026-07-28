@@ -64,6 +64,14 @@ Cuando Moshéh pide ver la gloria, **(כבוד)**, _kavod_, mantiene el campo de
 
 El título de Eric habla de «profanar el cuerpo de Mashíaj». Esa aplicación pública puede conservarse como preocupación de la clase, pero su evaluación textual debe ser gradual: Éxodo 33–34 no usa esa frase, mientras que sí ordena distinguirse por presencia, pacto, santuario, tiempos y culto exclusivo. La conexión con una comunidad corporal requiere otros textos para su formulación completa; aquí funciona como inferencia cualificada y no como traducción de **(מקדש)**, _miqdash_, «santuario».
 
+## El rostro resplandeciente y la palabra mediada — Éxodo 34:29–35
+
+Al bajar del monte, Moshéh no sabe que la piel de su rostro resplandece por haber hablado con יהוה. El OE dice que Aharon y los hijos de Israel «temieron acercarse a él», y el TTH conserva ese temor ante la señal visible. **(קרן)**, _qaran_, significa emitir rayos, resplandecer o tener cuernos según la lectura y el contexto; aquí su fuerza narrativa es describir el resplandor del rostro de Moshéh después del encuentro. «Brillar» es una equivalencia pedagógica adecuada, pero no elimina la discusión léxica de la forma.
+
+Moshéh llama a la comunidad y les comunica todo lo que יהוה había hablado en el monte; después pone un velo sobre su rostro cuando termina de hablar. **(מסוה)**, _masveh_, significa velo o cobertura; en esta escena regula cuándo el pueblo ve el resplandor, no una técnica para apropiarse de la gloria. **(דבר)**, _davar_, significa palabra, asunto o mandato; aquí se refiere al contenido del pacto que Moshéh transmite. La presencia, por tanto, produce mediación obediente: la señal visible no reemplaza la palabra ni autoriza a convertir al mensajero en objeto de culto.
+
+Esta conclusión precisa la aplicación de Eric sobre profanación. Si la comunidad corporal ha de reflejar santidad, el criterio local no es exhibir una experiencia espiritual, sino recibir la palabra, practicar el pacto y reconocer sus límites. El rostro resplandeciente confirma un encuentro real, mientras el velo recuerda que ninguna criatura controla la gloria de יהוה.
+
 ### Hoja de comparación
 
 | Referencia    | Hebreo (sin nikud)                  | TTH (OE/TTH)                                       | Observación                                   |

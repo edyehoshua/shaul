@@ -62,6 +62,14 @@ Devarim 6:4–5 concentra el llamado: «Escucha, Israel: יהוה nuestro Elohim
 
 El v. 7 niega que la elección dependa del tamaño de Israel; el v. 8 la relaciona con el amor de יהוה y con el juramento a los padres. **(חסד)**, _chesed_, significa bondad leal, misericordia o fidelidad de pacto; «gracia» se acerca pedagógicamente, pero no es equivalencia exacta en cada contexto. El v. 9 añade que יהוה «guarda el pacto y la bondad» con quienes le aman y guardan sus mandamientos. La clase puede hablar de participación en gracia, pero Devarim no separa don y responsabilidad.
 
+## La memoria de Horeb y la responsabilidad de enseñar — Devarim 4:9–14
+
+Después de llamar a Israel a escuchar, Mosheh ordena: «Guárdate y guarda tu alma mucho, no sea que olvides las cosas que tus ojos han visto» (4:9). El OE y el TTH conservan la relación entre memoria, corazón y transmisión a los hijos. **(שמר)**, _shamar_, significa guardar, vigilar o observar; aquí su fuerza contextual es custodiar la memoria recibida mediante una práctica atenta. «Cuidar» es una equivalencia aproximada; no describe solo protección emocional. **(שכח)**, _shakach_, significa olvidar o dejar de tener presente; en este contexto implica que la comunidad deje de vivir según la revelación, no simplemente que falle un recuerdo aislado.
+
+El relato de Horeb insiste en que Israel oyó una voz de palabras, pero no vio figura alguna. Por eso Mosheh prohíbe hacerse imagen: la gracia de haber sido acercados no autoriza a fabricar una forma que sustituya a יהוה. **(תמונה)**, _temunah_, significa figura, representación o semejanza; aquí designa una imagen visible que Israel no recibió como objeto de culto. «Retrato» es una equivalencia pedagógica, no el alcance completo del término. La clase puede hablar de participar de gracia como recibir acceso y enseñanza, pero el texto vincula ese don con no corromper la memoria ni convertir lo invisible en una posesión manipulable.
+
+La enseñanza también debe transmitirse: «las harás conocer a tus hijos y a los hijos de tus hijos». **(ידע)**, _yada_, significa conocer, reconocer o hacer saber; en la forma causativa de este mandato su fuerza es comunicar deliberadamente la historia y sus palabras. «Informar» es demasiado débil. El texto local, por tanto, añade una dimensión comunitaria al énfasis de Eric: la gracia recibida se vuelve testimonio cuando una generación enseña a la siguiente qué oyó, qué no vio y por qué debe guardar el pacto.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal y fuerza contextual                                    | Equivalencia                                                         |
