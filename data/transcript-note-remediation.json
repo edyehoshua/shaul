@@ -736,16 +736,6 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/bamidbar_25_parashot_2017.md",
-      "substantive_words": 204,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
 
     {
       "path": "content/tanaj/bamidbar_8_parashot_2017.md",
@@ -803,16 +793,7 @@
       ]
     },
 
-    {
-      "path": "content/tanaj/bereshit_44_parashot_2017.md",
-      "substantive_words": 203,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/bereshit_47_parashot_2017.md",
       "substantive_words": 201,
@@ -1330,16 +1311,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/shemot_6_parashot_2017.md",
-      "substantive_words": 206,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/shemuel_alef_12_retorno_y_servicio.md",
       "substantive_words": 42,
@@ -2344,16 +2316,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/vayikra_12_parashot_2017.md",
-      "substantive_words": 203,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/vayikra_14_parashot_2017.md",
       "substantive_words": 201,
