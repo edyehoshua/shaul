@@ -110,6 +110,14 @@ El siervo ora: «יהוה, Elohim de mi señor Abraham, haz que ocurra… y haz 
 - [ ] Revisar la propuesta de Eric que vincula el vocabulario de mediación ante Efrón con 2 Corintios 3 (“la letra”).
 - [ ] Delimitar qué _remez_ concretos desarrolla el resto de la sesión más allá de 23–24.
 
+## Evaluación integrada: duelo, propiedad y continuidad
+
+El orden del capítulo impide separar la emoción del acto público. Primero Abraham llora; después se levanta y habla a los hijos de Jet; finalmente pesa la plata y entierra a Sarah. El verbo **(קום)**, _qum_, significa levantarse o ponerse de pie; en #bereshit_23_3 marca el paso del duelo a una responsabilidad concreta, no la superación instantánea del dolor. «Recomponerse» es una equivalencia **pedagógica**, no exacta: el texto narra una acción corporal que permite continuar el deber familiar.
+
+La compra se describe como **(מקנה)**, _miqneh_, adquisición o compra, y el relato repite que fue «a ojos» de los hijos de Jet (#bereshit_23_18). _Miqneh_ normalmente designa una adquisición o propiedad obtenida; aquí su fuerza contextual es hacer verificable el derecho de Abraham sobre el campo y la cueva. «Título legal moderno» sería una equivalencia **pedagógica**, no exacta, porque el capítulo presenta una compraventa antigua con testigos, no un código civil posterior. Así se sostiene la observación de Eric sobre evitar una dependencia futura sin convertir su hipótesis del litigio en un hecho narrado.
+
+El cierre usa **(קבר)**, _qavar_, enterrar o sepultar, para mostrar que la posesión sirve a una sepultura concreta (#bereshit_23_19). «Semilla de una herencia» es una lectura **pedagógica** del lugar dentro de la promesa; la equivalencia exacta del verbo sigue siendo sepultar. El capítulo enseña, por tanto, una separación responsable: Abraham no abandona a Sarah ni compra la tierra por apropiación violenta, sino que obtiene una parcela mediante palabra, precio y testigos. Esa secuencia es el punto textual más firme desde el que puede evaluarse la aplicación de Eric a la separación de los incrédulos.
+
 ## Conclusión
 
 Bereshit 23 enseña a llorar a Sarah sin improvisar la herencia. Abraham, forastero y residente, compra con plata completa un campo con cueva y árboles a ojos de la ciudad. La clase de Eric acierta al ver ahí una negativa a depender del favor del pueblo de la tierra; el capítulo 24 prolonga esa lógica en el matrimonio de Itzjak. La promesa camina por duelo, contrato y jésed de יהוה, no por atajos que mañana deshagan los hijos de Jet.
