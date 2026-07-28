@@ -13,10 +13,7 @@ references:
   - "#devarim_11_13"
   - "#devarim_11_22"
 sources:
-  - "https://www.youtube.com/watch?v=qoPOuZN5G4c"
   - "docs/scriptures/oe/json/deuteronomy/11.json"
-source_ids:
-  - "youtube:qoPOuZN5G4c"
 translation: "[OE]"
 ---
 
@@ -89,8 +86,10 @@ La promesa de expulsar naciones y ampliar el territorio no es un premio a una pe
 
 Devarim 11 llama a una memoria que produce escucha, amor, servicio y adhesión. La obediencia no compra a יהוה, pero tampoco es irrelevante: es la forma concreta de vivir en la tierra que él da y sostiene. La clase acierta al rechazar la autosuficiencia moral; el texto añade que la fidelidad pactal sí importa porque la vida del pueblo permanece bajo los ojos de יהוה.
 
+## Ver también
+
+- [[devarim_7_recordar_pacto_y_dependencia|Devarim 7–11: recordar el pacto y no atribuirse la fuerza]] — nota canónica que conserva el crédito único de la clase sobre la parashá Éqev.
+
 ## Créditos
 
-- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat 'Éqev Dt 7:12-11:25 Zajor, recuerda](https://www.youtube.com/watch?v=qoPOuZN5G4c) (`source_id`: `youtube:qoPOuZN5G4c`).
-- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+- Esta nota canónica de capítulo enlaza la clase en [[devarim_7_recordar_pacto_y_dependencia|Devarim 7–11]] para evitar duplicar el `source_id` y mantener una sola atribución por fuente.
