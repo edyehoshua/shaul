@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 753,
-  "pending_videos": 205,
-  "transcript_notes": 350,
+  "covered_videos": 756,
+  "pending_videos": 202,
+  "transcript_notes": 353,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 46,
+      "covered": 47,
       "lane": "efesios"
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
@@ -93,7 +93,7 @@
     },
     "Juan": {
       "total": 71,
-      "covered": 70,
+      "covered": 71,
       "lane": "yojanan"
     },
     "La deidad de Mashiaj": {
@@ -118,7 +118,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 20,
+      "covered": 21,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {

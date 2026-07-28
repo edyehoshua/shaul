@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 262,
+  "total_notes_requiring_remediation": 261,
   "notes": [
 
     {
@@ -798,18 +798,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/amos_2_justicia_memoria_y_responsabilidad.md",
-      "substantive_words": 61,
-      "thematic_sections": [
-        "conexiones principales"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/amos_9_tienda_de_david_y_restauracion.md",
       "substantive_words": 80,
