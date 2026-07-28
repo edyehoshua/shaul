@@ -87,6 +87,7 @@ Eric conecta la dotación sacerdotal con el Mesías. Como lectura tipológica, p
 | **(אשם)**   | _asham_         | Sustantivo: culpa, responsabilidad u ofrenda de culpa | Sacrificio regulado con reparación                 | «Culpa» es aproximada                 |
 | **(מלאים)** | _milluim_       | Forma plural de מלא: llenuras, investidura            | Ceremonia que equipa y separa a los sacerdotes     | «Manos llenas» es pedagógica          |
 | **(קדש)**   | _qadash_        | Verbo: apartar, consagrar, santificar                 | Destina personas y objetos al servicio             | «Consagrar» es aproximada             |
+| **שמר**     | _shamar_        | Guardar, custodiar, observar                          | Mantener la guardia de יהוה durante la investidura | «Guardar» es exacta en este contexto  |
 
 ## El fuego, la porción y la responsabilidad sacerdotal
 
@@ -99,6 +100,10 @@ En 7:14 el OE y el TTH describen una porción elevada de la ofrenda de paz: «Y 
 La distinción entre _jatat_ y _asham_ también tiene consecuencias para la responsabilidad. El OE dice: «Esta es la ley de la ofrenda por la culpa» (#vaikra_7_1), y el TTH conserva esa fórmula. **אשם**, _asham_, puede significar culpa, responsabilidad u ofrenda de reparación; en estos versículos nombra una categoría ritual con sangre, grasa y porciones determinadas. **כפר**, _kiper_, significa cubrir, expiar o hacer propiciación; aunque la forma pertenece al campo semántico de la expiación, «borrar toda consecuencia» sería una equivalencia pedagógica defectuosa. Eric acierta al distinguir categorías, pero el texto exige que cada término permanezca dentro de su procedimiento.
 
 La investidura de Vaikra 8 completa el argumento. El OE dice: «Y tomó Moshéh del aceite de la unción y de la sangre que estaba sobre el altar, y roció sobre Aharón» (#vaikra_8_30); el TTH conserva la unción y la sangre como elementos de la consagración. **משח**, _mashaj_, significa ungir, aplicar aceite o consagrar; aquí identifica un acto ritual realizado por Moshéh, no una autoafirmación del sacerdote. La conexión de Eric con el Mesías puede conservarse como lectura tipológica, pero **מלאים**, _milluim_, no es por sí mismo el nombre propio de una figura mesiánica: describe la investidura que llena o equipa las manos para el servicio.
+
+El capítulo no termina en una experiencia privada de Aharón. TTH traduce 8:33-36: «De la entrada de la Tienda del Mo’ed no saldrán por siete días… porque por siete días llenará sus manos» y concluye: «E hizo Aharón y sus hijos todas las cosas que había ordenado יהוה por mano de Moshéh». **שמר**, _shamar_, significa guardar, custodiar o observar; en 8:35 su fuerza contextual es mantener la guardia de יהוה durante los siete días. **מלא**, _male_, significa llenar o completar; en «llenará sus manos» conserva la imagen que Eric subraya, pero el sujeto y el plazo pertenecen a la orden divina, no a una iniciativa autónoma del sacerdote. La obediencia final de Aharón y sus hijos confirma que la capacitación recibida se verifica haciendo lo mandado.
+
+Así, «manos llenas» no debe separarse del límite espacial, temporal y verbal de la investidura. Los sacerdotes permanecen en la entrada, esperan siete días y guardan la instrucción; la provisión para servir incluye también disciplina y dependencia. Como conexión con Yehoshua, la clase puede proponer una analogía de mediación autorizada, pero debe llamarla pedagógica: Vaikra 8 sigue describiendo la consagración de Aharón y sus hijos dentro del Mishkán.
 
 ## Conclusión
 
