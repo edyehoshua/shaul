@@ -69,9 +69,23 @@ El inicio no define imitar a Elohim como una técnica espiritual, sino como un c
 
 Pablo recuerda una condición pasada y una condición presente: antes oscuridad, ahora luz en el Señor. #ephesians_5_8-10 no presenta la luz como identidad para presumir, sino como un camino cuyo fruto es bondad, justicia y verdad, que examina lo agradable al Señor. Las clases sobre oscuridad y luz invitan a revisar la conducta; el texto no autoriza a declarar desde fuera que una persona específica está definitivamente en oscuridad.
 
+## Lo que no conviene normalizar (5:3-7)
+
+Antes de describir el fruto de la luz, Pablo delimita el camino contrario: inmoralidad, impureza, avaricia y una conversación que desfigura la gratitud (#ephesians_5_3-7). Eric insiste en que la santidad no es una etiqueta verbal, sino una conducta discernible; esa observación queda apoyada por la secuencia del texto, que pasa de las prácticas nombradas a la advertencia de no participar en ellas. La frase sobre la herencia del reino es una advertencia del argumento, no una licencia para declarar el destino final de una persona desde una sola conducta observada.
+
+El texto también une la codicia con la idolatría (#ephesians_5_5). Esa equivalencia argumental impide reducir el pasaje a una lista de faltas sexuales: el deseo posesivo y el uso del prójimo también están bajo examen. La clase aplica esta unidad a la pureza del habla y de las intenciones; la aplicación es coherente con el contraste textual, pero sus diagnósticos pastorales concretos deben conservar prudencia.
+
+## Exponer, probar y caminar (5:8-14)
+
+Después de llamar a los creyentes «luz en el Señor», Pablo ordena andar como hijos de luz, probar lo agradable y no participar en las obras infructuosas de la oscuridad, sino ponerlas en evidencia (#ephesians_5_8-14). El verbo de «probar» no convierte el discernimiento en sospecha permanente: el objeto es lo agradable al Señor y el fruto esperado es bondad, justicia y verdad. Eric conecta la exposición con una vida que deja ver sus obras; la lectura es una aplicación razonable mientras no se transforme en humillación pública o en vigilancia indiscriminada.
+
+El llamado a despertar y levantarse (#ephesians_5_14) aparece como una voz de exhortación dentro de la argumentación, no como una autorización para añadir una fuente independiente al capítulo. La nota conserva el movimiento textual: abandonar la participación en la oscuridad, discernir el bien y caminar en una luz que puede ser examinada.
+
 ## Tiempo, Rúaj y gratitud
 
 #ephesians_5_15-20 une cuidado en el andar, sabiduría, atención al tiempo, comprensión de la voluntad del Señor, llenura del Rúaj, cánticos y gratitud. La parte 28 pregunta cómo redimir el tiempo. El versículo 16 habla de aprovechar o rescatar la oportunidad porque los días son malos; una teoría completa de calendarios, productividad o administración contemporánea debe tratarse como aplicación y ser cotejada con el contexto.
+
+La serie verbal continúa en #ephesians_5_17-21: no vivir sin entendimiento, comprender la voluntad, no embriagarse, ser llenos del Rúaj, hablar con salmos y cánticos, dar gracias y someterse unos a otros en temor del Mesías. Por eso «llenura» no puede separarse del canto, la gratitud y la relación comunitaria. Eric presenta la sabiduría como una disciplina de atención; el texto la vincula específicamente con entender la voluntad del Señor, no con una técnica universal de productividad.
 
 ## Relaciones bajo el amor del Mesías
 
@@ -79,21 +93,24 @@ La sección final comienza con #ephesians_5_21 y continúa con instrucciones esp
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal y fuerza contextual | Correspondencia y cautela |
-| --- | --- | --- | --- |
-| **(ἀγαπάω)** | _agapaō_ | amar con una entrega que busca el bien del otro | En 5:2 y 5:25 sostiene el amor ofrecido por el Mesías; no equivale automáticamente a emoción o permisividad. |
-| **(φῶς)** / **(σκότος)** | _phōs_ / _skotos_ | luz / oscuridad | La oposición describe una manera de vivir y discernir; “luz” no funciona como etiqueta para juzgar exteriormente a una persona. |
-| **(καιρός)** | _kairos_ | ocasión, tiempo oportuno | En 5:16 fundamenta aprovechar la oportunidad; la aplicación a calendarios o productividad moderna es pedagógica, no definición exhaustiva. |
-| **(ὑποτάσσω)** | _hypotassō_ | ordenar o colocarse bajo una relación de responsabilidad | En 5:21-24 debe leerse junto con el amor sacrificial ordenado al esposo; no autoriza abuso ni control. |
+| Forma                    | Transliteración   | Sentido normal y fuerza contextual                       | Correspondencia y cautela                                                                                                                  |
+| ------------------------ | ----------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **(ἀγαπάω)**             | _agapaō_          | amar con una entrega que busca el bien del otro          | En 5:2 y 5:25 sostiene el amor ofrecido por el Mesías; no equivale automáticamente a emoción o permisividad.                               |
+| **(φῶς)** / **(σκότος)** | _phōs_ / _skotos_ | luz / oscuridad                                          | La oposición describe una manera de vivir y discernir; “luz” no funciona como etiqueta para juzgar exteriormente a una persona.            |
+| **(καιρός)**             | _kairos_          | ocasión, tiempo oportuno                                 | En 5:16 fundamenta aprovechar la oportunidad; la aplicación a calendarios o productividad moderna es pedagógica, no definición exhaustiva. |
+| **(ὑποτάσσω)**           | _hypotassō_       | ordenar o colocarse bajo una relación de responsabilidad | En 5:21-24 debe leerse junto con el amor sacrificial ordenado al esposo; no autoriza abuso ni control.                                     |
+| **(εὐχαριστέω)**         | _eucharisteō_     | dar gracias                                              | En 5:20 describe una respuesta continua a Elohim; no es una orden de agradecer el daño ni de negar el lamento.                             |
+| **(ἐλέγχω)**             | _elenchō_         | poner en evidencia, reprender o hacer manifiesto         | En 5:11-13 nombra la relación con las obras infructuosas; el contexto no justifica convertirlo en exposición punitiva de personas.         |
+| **(ἐξαγοράζω)**          | _exagorazō_       | rescatar, aprovechar la oportunidad                      | En 5:16 califica la aplicación «redimir el tiempo»: el sentido contextual es aprovechar el καιρός, no demostrar una teoría de calendarios. |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Qué se tomó concretamente de Eric | Cómo se evaluó |
-| --- | --- | --- |
-| #ephesians_5_1-2 | Imitar a Elohim comienza en un amor visible y entregado, no en lenguaje religioso separado de la conducta. | Apoyo textual: Pablo pone el caminar en amor junto a la entrega del Mesías; la aplicación a motivaciones interiores se conserva como orientación pastoral. |
-| #ephesians_5_3-10 | La clase contrapone oscuridad y luz para preguntar si la vida realmente produce fruto, en vez de confiar en una identidad declarada. | Apoyo textual y aclaración léxica: se siguen inmoralidad, codicia, bondad, justicia y verdad; la luz como diagnóstico de personas concretas queda cualificada. |
-| #ephesians_5_15-20 | Redimir el tiempo exige caminar con sabiduría, entender la voluntad, llenarse del Rúaj y responder con canto y gratitud. | Apoyo textual: la secuencia aparece en 5:15-20; cualquier teoría moderna de calendarios o productividad queda pendiente. |
-| #ephesians_5_21-33 | El orden relacional no puede separarse del sometimiento mutuo y del amor del esposo que se entrega como el Mesías; no es permiso para dominar. | Apoyo textual con salvaguarda pastoral: se conserva la estructura del pasaje y se rechaza una extrapolación abusiva; el trasfondo histórico queda pendiente. |
+| Unidad textual     | Qué se tomó concretamente de Eric                                                                                                              | Cómo se evaluó                                                                                                                                                 |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ephesians_5_1-2   | Imitar a Elohim comienza en un amor visible y entregado, no en lenguaje religioso separado de la conducta.                                     | Apoyo textual: Pablo pone el caminar en amor junto a la entrega del Mesías; la aplicación a motivaciones interiores se conserva como orientación pastoral.     |
+| #ephesians_5_3-10  | La clase contrapone oscuridad y luz para preguntar si la vida realmente produce fruto, en vez de confiar en una identidad declarada.           | Apoyo textual y aclaración léxica: se siguen inmoralidad, codicia, bondad, justicia y verdad; la luz como diagnóstico de personas concretas queda cualificada. |
+| #ephesians_5_15-20 | Redimir el tiempo exige caminar con sabiduría, entender la voluntad, llenarse del Rúaj y responder con canto y gratitud.                       | Apoyo textual: la secuencia aparece en 5:15-20; cualquier teoría moderna de calendarios o productividad queda pendiente.                                       |
+| #ephesians_5_21-33 | El orden relacional no puede separarse del sometimiento mutuo y del amor del esposo que se entrega como el Mesías; no es permiso para dominar. | Apoyo textual con salvaguarda pastoral: se conserva la estructura del pasaje y se rechaza una extrapolación abusiva; el trasfondo histórico queda pendiente.   |
 
 El mapa registra los puntos concretos tomados de las clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
 
