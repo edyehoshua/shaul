@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 264,
+  "total_notes_requiring_remediation": 263,
   "notes": [
 
     {
@@ -17,20 +17,6 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/besorah/efesios_6_firmeza_oracion_y_servicio.md",
-      "substantive_words": 418,
-      "thematic_sections": [
-        "responsabilidades que no autorizan la dominación",
-        "fortaleza que viene del señor",
-        "una armadura orientada a verdad y paz",
-        "oración por todos y palabra valiente"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
-
     {
       "path": "content/besorah/hebreos_12_disciplina_santidad_y_monte_tziyon.md",
       "substantive_words": 88,

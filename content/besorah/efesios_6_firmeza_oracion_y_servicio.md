@@ -77,10 +77,34 @@ La lista de #ephesians_6_14-17 combina defensas y una espada, pero sus nombres n
 
 La armadura culmina en oración continua, súplica y vigilancia por todos los santos. Pablo además pide una palabra para comunicar con valentía el misterio de la buena noticia, aunque está en cadenas. La oración no reemplaza el amor, el servicio o la responsabilidad ética de los versículos anteriores; acompaña a una comunidad que busca permanecer y hablar con fidelidad.
 
+## Léxico clave
+
+| Forma | Transliteración | Sentido normal y fuerza contextual | Correspondencia y cautela |
+| --- | --- | --- | --- |
+| **(τέκνα)** | _tekna_ | hijos, descendientes o fruto de una relación | Eric subraya el matiz de resultado o descendencia; es una observación léxica de la clase que debe cotejarse con el uso del término, no una definición absoluta de toda paternidad. |
+| **(παιδεία)** | _paideia_ | formación, disciplina y educación | La clase la relaciona con la preparación del ciudadano para servir; esa reconstrucción histórica es contextual y queda pendiente de verificación. |
+| **(πανοπλία)** | _panoplia_ | conjunto completo de armas o equipo | Aclara por qué “armadura” no debe imaginarse automáticamente como una armadura medieval ni identificarse sin prueba con las vestiduras del sumo sacerdote; la aplicación metafórica sí está apoyada por el pasaje. |
+| **(δύναμις)** / **(ἰσχύς)** | _dynamis_ / _ischys_ | capacidad o poder / fuerza, capacidad de resistencia | Eric propone distinguir la capacidad que procede del Señor de la resistencia de su fuerza; es una propuesta interpretativa que requiere cotejo gramatical y no debe presentarse como equivalencia perfecta. |
+| **(μεθοδείας)** | _methodeias_ | artimañas, métodos o estrategias | En 6:11 nombra aquello frente a lo cual se permanece firme; no autoriza a convertir cada conflicto humano en una atribución espiritual automática. |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Qué se tomó concretamente de Eric | Cómo se evaluó |
+| --- | --- | --- |
+| #ephesians_6_1-4 | Eric lee **τέκνα** como “fruto” o descendencia y **γονεῖς** como los que generan: los que vienen después deben escuchar a quienes los precedieron; además, el padre no debe provocar a sus hijos. | Aclaración léxica y apoyo textual: se conserva la observación sobre _tekna_ como matiz de la clase, mientras la obligación de escuchar y el límite impuesto al padre se comprueban en el texto; la generalización sobre la naturaleza queda cualificada. |
+| #ephesians_6_5-9 | La clase sitúa la exhortación a siervos y señores dentro de una sociedad esclavista y insiste en que tanto libres como siervos deben hacer el bien, sin convertir el reino en una conquista por fuerza. | Inferencia histórica cualificada: el texto sí ordena el bien y recuerda al Señor imparcial, pero el trasfondo romano, la lectura política y la aplicación laboral requieren verificación; no se usa para legitimar la esclavitud. |
+| #ephesians_6_10-13 | Eric rechaza identificar la armadura con las vestiduras del sumo sacerdote y propone leer la fuerza y la resistencia recibidas del Señor antes de enfrentar las artimañas; recalca que la lucha no es contra carne y sangre. | Aclaración léxica y apoyo textual: **πανοπλία**, **δύναμις** e **ἰσχύς** se explican con cautela; 6:12 limita explícitamente el blanco de la lucha, mientras la reconstrucción hebrea subyacente queda pendiente. |
+| #ephesians_6_14-17 | La clase pide volver al texto y al contexto, no aceptar conexiones populares por sonar “torá”; la armadura se trata como metáfora y no como objeto terrestre, y se recorre como verdad, justicia, paz, fe, salvación y palabra. | Apoyo textual con aclaración léxica: la lista procede de 6:14-17; la negación de una identificación sacerdotal automática se conserva como evaluación de la enseñanza, no como una historia exhaustiva de la recepción. |
+| #ephesians_6_18-24 | Eric conecta el discernimiento con estudiar la palabra, medir lo que se oye y se ve con ella, y cerrar la carta en oración, paz y comunicación valiente aun en cadenas. | Apoyo textual y calificación pastoral: oración, súplica, vigilancia, petición por Pablo, paz, amor y gracia aparecen en 6:18-24; las afirmaciones sobre ataques espirituales concretos no se generalizan y quedan pendientes. |
+
+El mapa registra los puntos concretos tomados de las clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
+
 ## Pendiente de verificar
 
+- [ ] Examinar el uso de **τέκνα**, **γονεῖς** y **παιδεία** en #ephesians_6_1-4 y cotejar la reconstrucción de Eric sobre descendencia, generación y formación.
 - [ ] Examinar el trasfondo romano, social y jurídico de #ephesians_6_5-9 antes de cualquier aplicación actual sobre trabajo, autoridad o esclavitud.
 - [ ] Cotejar las interpretaciones de las clases sobre autoridades, regiones o seres espirituales con la sintaxis de #ephesians_6_10-20 y con otros textos del corpus.
+- [ ] Verificar **πανοπλία**, **δύναμις**, **ἰσχύς** y **μεθοδείας** en léxicos y contexto antes de fijar como equivalencia la propuesta de fuerza, resistencia y artimañas.
 - [ ] Distinguir la metáfora de la armadura de Elohim de afirmaciones pastorales que atribuyan automáticamente enfermedades, conflictos o injusticias a causas espirituales.
 - [ ] Estudiar «en Rúaj» y «palabra de Elohim» en #ephesians_6_17-18 sin sustituir los términos por una única definición pedagógica.
 
