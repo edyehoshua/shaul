@@ -81,13 +81,13 @@ La clase conecta esta vigilancia con la perseverancia. Esa aplicación debe mant
 
 ## Hoja léxica
 
-| Término        | Transliteración | Sentido en la nota          | Raíz o base | Observación                                                                                                               |
-| -------------- | --------------- | --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **(לב)**       | lev             | corazón, centro interior    | לב          | Incluye pensamiento, intención y disposición; no equivale solo a sentimiento.                                             |
-| **(טהור)**     | tahor           | puro; condición adecuada    | טהר         | “Apto” es una aproximación pedagógica en el marco de pureza, no una equivalencia exacta.                                  |
-| **(ברא)**      | bara            | crear                       | ברא         | La clase lo asocia al orden de la creación; el sentido básico “crear” debe permanecer.                                    |
-| **(רוח נכון)** | ruaj najón      | espíritu firme, establecido | רוח / כון   | La firmeza solicitada se relaciona con una disposición sostenida, no con autosuficiencia.                                 |
-| **(קדשה)**     | kedushá         | santidad                    | קדש         | En 1 Tesalonicenses 4, Delitzsch expresa el llamado contrario a la impureza; corresponde a una vida apartada para Elohim. |
+| Término        | Transliteración | Sentido en la nota          | Raíz o base      | Observación                                                                                                               |
+| -------------- | --------------- | --------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **(לב)**       | lev             | corazón, centro interior    | לב               | Incluye pensamiento, intención y disposición; no equivale solo a sentimiento.                                             |
+| **(טהור)**     | tahor           | puro; condición adecuada    | טהר              | “Apto” es una aproximación pedagógica en el marco de pureza, no una equivalencia exacta.                                  |
+| **(ברא)**      | bara            | crear                       | ברא              | La clase lo asocia al orden de la creación; el sentido básico “crear” debe permanecer.                                    |
+| **(רוח נכון)** | ruaj najón      | espíritu firme, establecido | raíces רוח y כון | La firmeza solicitada se relaciona con una disposición sostenida, no con autosuficiencia.                                 |
+| **(קדשה)**     | kedushá         | santidad                    | קדש              | En 1 Tesalonicenses 4, Delitzsch expresa el llamado contrario a la impureza; corresponde a una vida apartada para Elohim. |
 
 ## Mapa de la enseñanza de Eric
 
