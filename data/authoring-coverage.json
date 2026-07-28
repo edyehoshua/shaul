@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 757,
-  "pending_videos": 201,
-  "transcript_notes": 354,
+  "covered_videos": 758,
+  "pending_videos": 200,
+  "transcript_notes": 355,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -153,7 +153,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 102,
+      "covered": 103,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {

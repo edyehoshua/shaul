@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 259,
+  "total_notes_requiring_remediation": 258,
   "notes": [
     {
       "path": "content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md",
@@ -1625,19 +1625,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/tehilim_16_refugio_porcion_y_sendero_de_vida.md",
-      "substantive_words": 365,
-      "thematic_sections": [
-        "hoja léxica",
-        "refugio y pertenencia: vv. 1-4",
-        "porción, consejo y estabilidad: vv. 5-9",
-        "vida ante el rostro de יהוה"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/tehilim_18_lectura_oracion_y_alabanza.md",
       "substantive_words": 154,

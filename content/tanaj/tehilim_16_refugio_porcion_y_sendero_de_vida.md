@@ -67,6 +67,14 @@ Los vv. 8–11 unen estabilidad, liberación del Seol y sendero de vida. El salm
 
 Una lectura mesiánica de #tehilim_16_10 debe distinguir entre el sentido del poema y sus usos posteriores. Hechos 2:25-31 cita el salmo en el anuncio acerca de Yehoshua; esa recepción apostólica merece leerse en su argumento completo, sin borrar la voz original de confianza de David.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta tomada de la clase | Evaluación en esta nota |
+| --- | --- | --- |
+| Tehilim 16:1-4 | Eric comienza con **(מכתם)** y conserva la incertidumbre de su significado; después lee el refugio como dependencia de Elohim y como rechazo de correr tras otro. | **Apoyo textual y aclaración léxica**: el título es discutido, mientras que la súplica y el contraste cultual sí aparecen explícitamente en los vv. 1-4. |
+| Tehilim 16:5-9 | La clase presenta a יהוה como porción y copa, y relaciona la heredad agradable con el consejo nocturno, la presencia continua y la estabilidad. | **Apoyo textual**: la secuencia porción–consejo–presencia–firmeza sigue el orden del salmo; «heredad» se mantiene como imagen, no como posesión autónoma. |
+| Tehilim 16:10-11 | Eric vincula el sendero de vida y la liberación del Seol con la esperanza mesiánica, pero la nota distingue la voz original del salmo de su recepción en Hechos 2. | **Inferencia calificada**: la esperanza de vida está en el texto; la aplicación mesiánica se atribuye al argumento apostólico y no se presenta como el único sentido inmediato de cada expresión. |
+
 ## Pendiente de verificar
 
 - [ ] Verificar en léxicos y comentarios primarios las propuestas específicas para `מכתם`; la clase reconoce que su significado no es indiscutido.
