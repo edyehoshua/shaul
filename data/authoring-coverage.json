@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 749,
-  "pending_videos": 209,
-  "transcript_notes": 346,
+  "covered_videos": 750,
+  "pending_videos": 208,
+  "transcript_notes": 347,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -38,7 +38,7 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 44,
+      "covered": 45,
       "lane": "efesios"
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
