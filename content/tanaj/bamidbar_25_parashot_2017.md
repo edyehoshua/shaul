@@ -141,6 +141,14 @@ El versículo siguiente dice en TTH: «Por eso, di: He aquí que le doy mi pacto
 
 El final del capítulo también debe permanecer visible. TTH traduce #bamidbar_25_18: «porque ellos son hostiles para ustedes con sus engaños, con los que los engañaron en el asunto de Peor». **בנכליהם**, _benakhelehem_, procede de נכל, «actuar con engaño o artificio»; su fuerza contextual recuerda una estrategia concreta asociada con Peor. «Toda influencia impura» es una aplicación pedagógica, no una equivalencia exacta. La perícopa queda así cerrada por memoria y discernimiento: nombra acciones, agentes y conflicto; no autoriza al lector a fabricar adversarios espirituales sin evidencia.
 
+## La paz del pacto está delimitada por la palabra
+
+La clase de Eric insiste en que el título «El celo de tu casa me consumió» debe llevar al lector hasta la escena previa: Pinjas actuó cuando la provocación era pública, delante de Mosheh, de la asamblea y de la tienda de reunión. Esa observación preserva un dato narrativo importante, pero la interpretación divina de 25:11-13 establece el límite. **בקנאו את קנאתי**, _beqano et qinati_, significa «al tener celo por mi celo»: **קנאתי**, _qinati_, es «mi celo», con el sufijo de primera persona. «Defender la casa» puede ser una aplicación aproximada; «ser dueño del juicio» contradice la estructura del versículo, donde יהוה explica la acción y concede el pacto.
+
+La fórmula **לכן הנני נתן לו את בריתי שלום**, _lachen hineni noten lo et beriti shalom_, comienza con «por eso» y «he aquí, doy». **נתן**, _natan_, normalmente significa dar o entregar; aquí su fuerza es la iniciativa divina. **שלום**, _shalom_, significa paz, integridad o bienestar, y en este contexto nombra un pacto ligado al sacerdocio perpetuo. «Tranquilidad interior» es una reducción pedagógica, no el alcance completo. Eric conecta esta paz con la restauración mesiánica y con el celo por la presencia; puede conservarse como lectura canónica posterior, pero no debe presentarse como si Pinjas recibiera permiso para reproducir el acto en cualquier época.
+
+El cierre con Midian también conserva el orden del argumento. **בנכליהם**, _benakhelehem_, alude a sus artificios o engaños en el asunto de Peor. La equivalencia «influencias impuras» puede comunicar una aplicación pastoral, pero no reemplaza la referencia a una estrategia narrada y a un conflicto histórico. Bamidbar 25, por tanto, sostiene simultáneamente la gravedad de la infidelidad, la intervención pública de Pinjas y la soberanía de יהוה para interpretar y conceder paz. La exposición es más fiel al texto cuando llama a una lealtad vigilante que cuando convierte el celo en autoridad privada.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
