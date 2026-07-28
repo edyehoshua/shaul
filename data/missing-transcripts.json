@@ -321,6 +321,14 @@
       "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "p7Tu9dJAgN0",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Haftarát Vayishlaj Parte 1",
+      "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
+      "reason": "Local transcript contains only an incomplete introductory segment (about 22 minutes) and does not preserve enough verse-specific exposition for a substantive canonical study; revisit if a complete transcript is recovered.",
+      "status": "incomplete_transcript"
     }
   ]
 }
