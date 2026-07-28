@@ -144,6 +144,14 @@ En #bereshit_28_20-22, OE dice **וידר יעקב נדר לאמר אם יהיה
 
 La nota, por tanto, conserva las dos observaciones de la fuente: «y salió» nombra un desplazamiento real hacia Jarán y el diezmo aparece en la respuesta de Yaakov. Evaluadas contra el capítulo, ambas quedan subordinadas a una secuencia más amplia: bendición recibida, salida, visión, palabra, custodia prometida, temor reverente y voto. La escalera no es una técnica humana para subir; el diezmo no es una fórmula para obligar a יהוה. Son, respectivamente, imagen recibida y respuesta pronunciada dentro de una promesa que ya tomó la iniciativa.
 
+## Cierre textual: presencia que precede a la respuesta
+
+La comparación local permite precisar el movimiento final. OE registra **והנה אנכי עמך ושמרתיך בכל אשר תלך** («he aquí, Yo estoy contigo y te guardaré en todo lo que vayas») en #bereshit_28_15, mientras TTH traduce: «Y he aquí, Yo estoy contigo, y te guardaré dondequiera que vayas». La diferencia de formulación no cambia el argumento: la presencia y la custodia son promesa de יהוה antes de que Yaakov formule su voto. **עמך**, _imkha_, combina la preposición «con» y el sufijo «contigo»; su fuerza contextual es compañía relacional, no una garantía abstracta de prosperidad.
+
+En #bereshit_28_20-22, OE dice **וידר יעקב נדר לאמר אם יהיה אלהים עמדי** («Y Yaakov hizo un voto diciendo: si Elohim está conmigo») y TTH conserva: «Y Yaakov hizo un voto, diciendo: Si Elohim está conmigo». **וידר**, _vayidor_, es una forma de נדר, «hacer un voto»; aquí introduce una respuesta verbal concreta. La palabra **ונתן לי לחם לאכל ובגד ללבש**, _venatan li lejem leejol uveged lilbosh_, pide alimento y vestido; la equivalencia «necesidades básicas» es pedagógica pero fiel al alcance inmediato. Eric acentúa el diezmo como respuesta de Yaakov; el texto lo apoya como cláusula final del voto, pero el orden impide presentarlo como precio que compra la presencia ya prometida.
+
+La nota, por tanto, conserva las dos observaciones de la fuente: «y salió» nombra un desplazamiento real hacia Jarán y el diezmo aparece en la respuesta de Yaakov. Evaluadas contra el capítulo, ambas quedan subordinadas a una secuencia más amplia: bendición recibida, salida, visión, palabra, custodia prometida, temor reverente y voto. La escalera no es una técnica humana para subir; el diezmo no es una fórmula para obligar a יהוה. Son, respectivamente, imagen recibida y respuesta pronunciada dentro de una promesa que ya tomó la iniciativa.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

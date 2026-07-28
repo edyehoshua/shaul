@@ -727,19 +727,6 @@
       ]
     },
     {
-      "path": "content/tanaj/bamidbar_13.md",
-      "substantive_words": 133,
-      "thematic_sections": [
-        "léxico base",
-        "referencias judías y fuentes externas"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "missing_eric_map"
-      ]
-    },
-
-    {
       "path": "content/tanaj/bamidbar_19_parashot_2017.md",
       "substantive_words": 200,
       "thematic_sections": [],
@@ -788,16 +775,6 @@
     {
       "path": "content/tanaj/bereshit_25_parashot_2017.md",
       "substantive_words": 201,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/tanaj/bereshit_28_parashot_2017.md",
-      "substantive_words": 206,
       "thematic_sections": [],
       "issues": [
         "under_300_substantive_words",
