@@ -80,6 +80,14 @@ El video de Eric pone el domingo en el título, pero Marcos 16:20 pone el peso f
 | **(πιστεύσας)**  | _pisteusas_     | el que cree o confía                   | Aproximada con _emunah_; el contexto incluye respuesta al anuncio |
 | **(ἀνελήμφθη)**  | _anelēmphthē_   | fue recibido o llevado arriba          | Exacta en sentido narrativo; el matiz teológico requiere contexto |
 
+## Control de la perícopa: del sepulcro al testimonio
+
+La secuencia de Marcos 16 conserva una progresión que impide convertir el primer día en el tema único del capítulo. En 16:1-8, el marco temporal viene después del Shabat; el centro verbal es que Yehoshua fue levantado y que va delante de los discípulos a Galil. **ἠγέρθη** (_ēgerthē_, «fue levantado») es un pasivo cuyo sujeto implícito recibe la acción; **προάγει** (_proagei_, «va delante») presenta al resucitado como quien guía el siguiente encuentro. La observación pública de Eric sobre el domingo puede registrarse con honestidad, pero el texto no convierte esa referencia temporal en un nuevo nombre para el día.
+
+En 16:9-14, la noticia se mueve por testigos concretos y encuentra incredulidad. Miriam anuncia a los que habían estado con Yehoshua, dos discípulos cuentan lo ocurrido en el camino y finalmente el propio Yehoshua reprende a los once por su falta de confianza. El verbo **ἐφανερώθη** (_ephanerōthē_, «se manifestó o apareció») describe una aparición recibida, no una experiencia producida por los discípulos. Por eso el envío posterior no nace de una autosugestión: el relato une anuncio, resistencia y corrección antes de la comisión.
+
+En 16:15-18, **κηρύξατε** (_kēryxate_, «proclamen») pone la proclamación en imperativo plural y extiende el destino a toda la creación. La respuesta de creer y ser sumergido no debe separarse del anuncio, pero tampoco debe reducirse a una fórmula que permita medir la salvación por exhibiciones. Finalmente, 16:19-20 usa **συνεργοῦντος** (_synergountos_, «obrando juntamente») para describir la acción que acompaña la palabra proclamada. El cierre, por tanto, prueba la dirección de la nota: acontecimiento, testigos corregidos, anuncio público y confirmación divina; el calendario permanece como marco, no como conclusión total.
+
 ## Mapa de la enseñanza de Eric
 
 | Tramo           | Observación atribuible                                                                          | Tratamiento                                                                                                                |
