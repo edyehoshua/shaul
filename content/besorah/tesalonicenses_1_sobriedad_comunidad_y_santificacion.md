@@ -59,6 +59,15 @@ Los versículos 12-15 piden reconocer a quienes trabajan, vivir en paz, amonesta
 
 La oración final sitúa estas exhortaciones bajo la acción de Elohim: que el Elohim de paz santifique por completo y preserve espíritu, alma y cuerpo para la venida de Yehoshua el Mesías. #thessalonians1_5_24 concluye con confianza: fiel es el que llama, quien también lo hará.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual          | Observación concreta de la clase                                                                                                                         | Tratamiento en esta nota                                                                                                                                                                                |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #thessalonians1_5_1-8   | Eric relaciona el día que llega como ladrón con la identidad de hijos de luz y advierte contra convertir la expectativa en cálculo de fechas.            | **Apoyo textual cualificado**: se siguen la llegada inesperada, la vigilancia, la sobriedad y la armadura de fe, amor y esperanza; las cronologías amplias quedan sin presentar como dato del capítulo. |
+| #thessalonians1_5_9-15  | La enseñanza lleva la esperanza hacia una comunidad que reconoce a quienes trabajan, sostiene al débil, anima al desanimado y tiene paciencia con todos. | **Apoyo textual**: se conserva la cadena concreta de responsabilidades comunitarias y no se sustituye por una exhortación genérica a la unidad.                                                         |
+| #thessalonians1_5_16-22 | Eric reúne gozo, oración, gratitud, apertura al Rúaj, examen de las profecías y retención de lo bueno como una práctica de discernimiento.               | **Apoyo textual con límite**: el orden de los mandatos se mantiene; no se inventa un método completo ni se convierte la apertura al Rúaj en credulidad sin examen.                                      |
+| #thessalonians1_5_23-24 | La clase culmina en la santificación completa y en la fidelidad del que llama, no en la autosuficiencia del creyente.                                    | **Apoyo textual directo**: la oración por espíritu, alma y cuerpo y la promesa «él también lo hará» sostienen la conclusión; la explicación técnica de cronos y kairos queda pendiente.                 |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar las afirmaciones de las clases sobre cronos, kairos y desarrollos doctrinales posteriores antes de usarlas como definiciones históricas o léxicas.
