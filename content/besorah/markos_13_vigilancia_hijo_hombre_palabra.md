@@ -28,6 +28,7 @@ sources:
   - "https://www.youtube.com/watch?v=G5SL_tqQ8eA"
   - "https://www.youtube.com/watch?v=cLaRVGxIAy8"
   - "https://www.youtube.com/watch?v=3RRxUezpfXo"
+  - "https://www.youtube.com/watch?v=wS79RPN81a8"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/tth/json/malaji.json"
@@ -41,6 +42,7 @@ source_ids:
   - "youtube:G5SL_tqQ8eA"
   - "youtube:cLaRVGxIAy8"
   - "youtube:3RRxUezpfXo"
+  - "youtube:wS79RPN81a8"
 ---
 
 # Tesis
@@ -51,6 +53,7 @@ Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depen
 
 - Fuentes de Eric: _El Evangelio según Marcos — Parte 41: las 70 semanas ya se cumplieron_ y _Parte 13: la divinidad de Mashíaj_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza ambas exposiciones sin reproducir la transcripción automática como cita literal; cuando una observación de la clase no puede cotejarse con el texto local, queda marcada como inferencia o pendiente.
 - También incorpora _El Evangelio según Marcos parte 40: Escatología, las setenta semanas de Daniel_. Su foco público coincide con el tramo de Daniel 9 y la escatología que esta nota ya contrasta con Marcos 13; se conserva como fuente independiente, sin atribuirle palabras no verificadas ni duplicar una nota de capítulo.
+- También incorpora _El Evangelio según Marcos parte 42: Cap 13:14-32: Las señales a la venida de Mashíaj_. El título público identifica su perícopa; como la transcripción no estuvo disponible en esta ejecución, no se le adjudican formulaciones adicionales. Se usa como fuente independiente para revisar el tramo 13:14-32 contra el texto local.
 - La clase continúa una línea previa sobre el Hijo del Hombre de Daniel 7, la metamorfosis del Mesías y el Anciano de Días.
 - Donde la transcripción menciona literatura rabínica, términos arameos o etimologías sin referencia exacta, la nota conserva el punto como material de clase y lo marca como pendiente.
 - El texto TTH de #markos_13_32 consultado localmente no incluye la frase "ni el Hijo"; Delitzsch sí la conserva. La diferencia queda indicada en la hoja de comparación. La oración de #markos_14_36 aparece solo como conexión posterior para probar el marco propuesto, no como un segundo estudio canónico de capítulo.
@@ -71,7 +74,12 @@ Eric lee la referencia a las setenta semanas de Daniel como cumplida en el marco
 
 Cuando aparece la abominación de la desolación, Marcos llama a los que están en Judea a huir y describe una tribulación que culmina con la venida del Hijo del Hombre (#markos_13_14-27). Lucas 21:20 ayuda a precisar el eje histórico al hablar de Jerusalén rodeada de ejércitos; es una conexión sinóptica, no una licencia para borrar el lenguaje apocalíptico de Marcos.
 
-La exposición insiste en leer Daniel 9 desde su hebreo. **(שבעים)**, _shavuim_, significa «semanas» o unidades de siete; en #daniel*9_24 el verbo **(נחתך)**, \_nechtakh*, tiene el sentido de cortar, decretar o delimitar según el contexto. **(משיח)**, _mashiach_, es «ungido» y puede designar una persona consagrada sin que la forma, aislada, equivalga automáticamente a Yehoshua. **(נגיד)**, _nagid_, es líder, gobernante o representante; «príncipe» es una equivalencia posible según contexto, no una demostración suficiente de una identidad futura. Finalmente, **(קדש קדשים)**, _qodesh qodashim_, significa «santísimo» y puede referirse al ámbito o cosa consagrada. Eric usa esa observación para leer el ungimiento del santuario junto con templo y sacerdocio; la nota conserva la propuesta, pero no convierte una opción contextual en definición única.
+La fuente pública de la parte 42 enfoca precisamente las señales de 13:14-32. Leída en el orden del pasaje, la unidad avanza desde la señal profanadora y la huida urgente (13:14-18), por la tribulación y la advertencia contra falsos mesías (13:19-23), hasta los signos cósmicos, la venida del Hijo del Hombre y la reunión de los escogidos (13:24-27). Finalmente, la higuera ofrece una comparación para reconocer la cercanía de lo anunciado (13:28-29), pero la afirmación sobre que «esta generación» no pasará y la permanencia de las palabras de Yehoshua (13:30-31) no entregan una fecha calculable. Esta estructura permite conservar el tema anunciado por Eric sin convertir el título del video en una transcripción.
+
+El argumento crítico del tramo está en el contraste entre **σημεῖον**, _sēmeion_, «señal», y **πλανάω**, _planaō_, «desviar o engañar». Marcos no manda perseguir novedades religiosas: advierte que aparecerán quienes digan «yo soy» y ofrecerán señales para desviar, si fuera posible, a los escogidos (13:21-22). En la misma unidad, **ἐπισυνάγω**, _episynagō_, «reunir», describe la acción del Hijo del Hombre sobre los escogidos (13:27); el verbo sitúa la esperanza en una acción divina, no en la capacidad del intérprete para dominar el calendario. **παραγενήσεται**, _paragenēsetai_, «llegará o estará presente», en la comparación de 13:29, señala proximidad reconocible, no una fórmula para fijar el día.
+
+<!-- prettier-ignore -->
+La exposición insiste en leer Daniel 9 desde su hebreo. **(שבעים)**, _shavuim_, significa «semanas» o unidades de siete; en #daniel_9_24 el verbo **(נחתך)**, _nechtakh_, tiene el sentido de cortar, decretar o delimitar según el contexto. **(משיח)**, _mashiach_, es «ungido» y puede designar una persona consagrada sin que la forma, aislada, equivalga automáticamente a Yehoshua. **(נגיד)**, _nagid_, es líder, gobernante o representante; «príncipe» es una equivalencia posible según contexto, no una demostración suficiente de una identidad futura. Finalmente, **(קדש קדשים)**, _qodesh qodashim_, significa «santísimo» y puede referirse al ámbito o cosa consagrada. Eric usa esa observación para leer el ungimiento del santuario junto con templo y sacerdocio; la nota conserva la propuesta, pero no convierte una opción contextual en definición única.
 
 La frase «sellar la visión y al profeta» y el anuncio de la desolación requieren, por tanto, dos controles simultáneos: la sintaxis hebrea de Daniel y la secuencia narrativa de Marcos. La clase ofrece una lectura histórica fuerte —la semana completa se cierra con el segundo templo—, mientras el texto local confirma con mayor seguridad el juicio sobre el templo, la huida y la promesa de que cielo y tierra pasarán pero las palabras de Yehoshua no pasarán (#markos_13_31).
 
@@ -196,6 +204,16 @@ El punto doctrinal de la clase es que el Mesías, sin pecado propio, cargó la c
 | Relación con Lucas 21:20 | Eric identifica **(שִׁקּוּץ)** (_shiqquṣ_, cosa abominable) y su acción con la presencia gentil y romana que desola; advierte contra construir una escatología desconectada de la señal dada por Yehoshua.                                                                                                                      | Lucas 21:20 dice que Jerusalén rodeada de ejércitos anuncia su desolación; Marcos 13:14 mantiene la señal dentro del discurso. La etimología y la identificación de estandartes romanos requieren fuentes adicionales.                 | Conexión textual fuerte; detalles históricos pendientes.                                          |
 
 - **Daniel 9 y Marcos 13 — parte 40:** La clase titulada sobre escatología y las setenta semanas concentra la pregunta cronológica en Daniel 9. El texto local confirma el foco compartido de semanas, ungido y desolación, pero la conclusión histórica sobre el cumplimiento requiere separar observación, inferencia y verificación histórica.
+- **Marcos 13:14-32 — parte 42:** El título público de Eric enfoca las señales de la venida de Mashíaj. La nota conserva ese foco recorriendo señal, huida, engaño, venida, reunión, higuera y permanencia de las palabras en su orden; la fuente se acredita por su título y enlace, mientras cualquier formulación doctrinal específica queda pendiente hasta contar con una transcripción verificable.
+
+## Dependencias textuales: Daniel, el discurso y Getsemaní
+
+Las tres fuentes de Eric se distribuyen en una secuencia que debe permanecer visible. La parte 40 plantea la cuestión de Daniel 9; la parte 41 la relaciona con el discurso de Marcos 13; la parte 13 aporta el contraste doctrinal sobre la divinidad de Mashíaj. La nota no convierte ese orden de clases en un orden bíblico alternativo: en Marcos, el anuncio de la destrucción (#markos_13_1-4) precede a la señal, la tribulación y la venida (#markos_13_14-27), y todo desemboca en el mandato repetido de velar (#markos_13_32-37). Getsemaní (#markos_14_32-36) funciona después como dependencia narrativa para examinar la obediencia, no como prueba de que Marcos 13 entregue una fecha.
+
+La distinción es especialmente necesaria para los términos de Daniel. **(שבעים)**, _shavuim_, nombra «sietes» o «semanas» en su construcción; **(משיח)**, _mashiach_, significa ungido; y **(נגיד)**, _nagid_, designa un líder o gobernante. Ninguna de esas formas, aislada, demuestra que la última semana esté suspendida ni que cada «ungido» sea automáticamente el Mesías. La tesis histórica conservada de Eric puede discutirse con Daniel, Marcos y el contexto de la destrucción del templo, pero el llamado de Marcos a velar permanece más firme que cualquier cronograma derivado.
+
+<!-- prettier-ignore -->
+También queda delimitada la lectura de la variante textual. TTH omite «ni el Hijo» en #markos_13_32, mientras Delitzsch la conserva; no se debe ocultar la diferencia para resolver doctrinalmente la aparente tensión. En ambas formas locales, el resultado retórico es que el día y la hora no se entregan a los discípulos. **(γρηγορεῖτε)**, _grēgoreite_, es un imperativo presente plural: la vigilancia es una práctica sostenida, no una clave para calcular. Esa dependencia textual prueba el núcleo pastoral de las clases sin convertir una inferencia de Eric sobre Abba, Bar Enash o Daniel en traducción automática del pasaje.
 
 ## Dependencias textuales y límite de la cronología
 
@@ -213,6 +231,7 @@ Marcos 13 deja al discípulo ante una tarea concreta: velar, porque el día y la
 - Video: [El Evangelio según Marcos — Parte 41: las 70 semanas ya se cumplieron](https://www.youtube.com/watch?v=G5SL_tqQ8eA) (`source_id`: `youtube:G5SL_tqQ8eA`).
 - Video: [El Evangelio según Marco — Parte 13: La divinidad de Mashíaj](https://www.youtube.com/watch?v=cLaRVGxIAy8) (`source_id`: `youtube:cLaRVGxIAy8`).
 - Video: [El Evangelio según Marcos — Parte 40: Escatología, las setenta semanas de Daniel](https://www.youtube.com/watch?v=3RRxUezpfXo) (`source_id`: `youtube:3RRxUezpfXo`).
+- Video: [El Evangelio según Marcos — Parte 42: Cap 13:14-32: Las señales a la venida de Mashíaj](https://www.youtube.com/watch?v=wS79RPN81a8) (`source_id`: `youtube:wS79RPN81a8`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
