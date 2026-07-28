@@ -72,25 +72,9 @@ Moshéh llama a la comunidad y les comunica todo lo que יהוה había hablado 
 
 Esta conclusión precisa la aplicación de Eric sobre profanación. Si la comunidad corporal ha de reflejar santidad, el criterio local no es exhibir una experiencia espiritual, sino recibir la palabra, practicar el pacto y reconocer sus límites. El rostro resplandeciente confirma un encuentro real, mientras el velo recuerda que ninguna criatura controla la gloria de יהוה.
 
-## Una maravilla que exige separación — Éxodo 34:10–17
+## Hoja de comparación
 
-Antes de enumerar las fiestas, יהוה anuncia que hará un pacto y una obra maravillosa delante del pueblo. **(נפלאות)**, _niflaot_, es plural de דבר פלא, «maravillas, cosas extraordinarias o difíciles»; en este contexto describe una acción pública que distingue a Israel delante de las naciones. «Milagros» es una equivalencia aproximada, porque la palabra no convierte cualquier señal posterior en cumplimiento de esta promesa. La maravilla queda ligada a una orden: guardar lo que יהוה manda y no hacer pacto con los habitantes de la tierra.
-
-El texto teme que esos pactos se vuelvan lazo. **(מוקש)**, _moqesh_, significa trampa, lazo o señuelo; aquí la alianza se presenta como una relación que puede arrastrar a Israel hacia el culto rival. «Contaminación espiritual» es una paráfrasis pedagógica, no el sentido exacto del sustantivo. En 34:14, **(קנא)**, _qana_, significa ser celoso o reclamar exclusividad; «celoso» es una traducción normal, pero su fuerza contextual no es inseguridad emocional. יהוה es llamado celoso precisamente porque el pacto no tolera compartir la adoración con otros elohim.
-
-La observación pública del título —no profanar el cuerpo de Mashíaj— puede conservarse como preocupación comunitaria, pero el criterio textual se vuelve más concreto: una comunidad santa no convierte el favor de la presencia en permiso para celebrar alianzas que deshacen su lealtad. Éxodo 34 no menciona el «cuerpo de Mashíaj»; la conexión es una aplicación cualificada que debe permanecer subordinada a la separación ordenada en la perícopa.
-
-## La fiesta como memoria corporal — Éxodo 34:18–28
-
-La repetición de Pesaj, la fiesta de las semanas y la recolección coloca la santidad en el calendario y en el cuerpo. **(מצה)**, _matsah_, significa pan sin levadura o ázimo; en 34:18 recuerda la salida apresurada de Mitzráim y la memoria concreta de la liberación. «Pureza interior» sería una equivalencia pedagógica que el versículo no formula. El séptimo día, en cambio, ordena cesar incluso en arada y cosecha: **(שבת)**, _shavat_, significa cesar o detenerse, y aquí regula el trabajo agrícola de la comunidad.
-
-La fiesta de las semanas se relaciona con las primicias de la cosecha de trigo y la de la recolección con el giro del año. **(בכור)**, _bikkur_, significa primicia o primero; «mérito mayor» no es una equivalencia del término. La presentación de lo primero y la comparecencia delante del Adón recuerdan que la productividad de la tierra no pertenece autónomamente al pueblo. Esta lectura apoya el énfasis de Eric sobre no profanar lo que pertenece a יהוה cuando la aplicación se mantiene dentro de tiempo, trabajo, cosecha y culto; no prueba por sí sola cada extensión posterior sobre el cuerpo comunitario.
-
-El límite aparece también en el mediador: Moshéh comunica las palabras, su rostro resplandece y luego se cubre. La santidad no se verifica por acumular visibilidad, sino por recibir el pacto, cesar cuando יהוה manda, recordar la liberación y rechazar la idolatría. Así el título público es evaluado por la totalidad de la unidad: la comunidad puede hablar de un cuerpo consagrado solo si esa afirmación produce una obediencia reconocible.
-
-### Hoja de comparación
-
-| Referencia    | Hebreo (sin nikud)                  | TTH (OE/TTH)                                       | Observación                                   |
+| Referencia    | Hebreo (sin nikud)                  | TTH                                                | Observación                                   |
 | ------------- | ----------------------------------- | -------------------------------------------------- | --------------------------------------------- |
 | #shemot_33_14 | פני ילכו והנחתי לך                  | «Mi rostro irá contigo, y te daré descanso»        | Presencia y reposo van juntos.                |
 | #shemot_33_18 | הראני נא את כבדך                    | «Hazme ver… tu gloria»                             | Revelación pedida, no posesión de יהוה.       |
