@@ -68,6 +68,14 @@ El cierre (32:43) llama a las naciones a alegrarse con el pueblo de יהוה: la
 | **נשא**    | _nasa_          | Llevar, levantar, cargar                | Cuidado protector en el desierto               | «Sostener» es aproximada                   |
 | **כפר**    | _kafar_         | Cubrir, expiar, purgar                  | Reconciliar tierra y pueblo al final del poema | «Reconciliar» es aproximada                |
 
+## El canto recibido como testimonio público
+
+Después de pronunciar el canto, Moshéh no lo deja como una composición para admirar. El texto dice que vino «y habló todas las palabras de este canto a oídos del pueblo» (32:44, TTH), y luego ordena: «aplicad vuestro corazón a todas las palabras que yo os testifico hoy» (32:46). La secuencia confirma la preocupación de Eric por la fidelidad: la Roca no es una idea devocional separada de la escucha y de la memoria, sino el fundamento de un testimonio que el pueblo debe recibir entero.
+
+La forma **שימו**, _simu_, es un imperativo plural de שום, «poner, colocar o establecer». En 32:46 su fuerza contextual es fijar las palabras en la atención y en la práctica; «aplicar el corazón» es una equivalencia **aproximada** que comunica dirección interior, pero no debe borrar el mandato de tomar posición ante el canto. También aparece **בנים**, _banim_, «hijos»; aquí la instrucción se dirige a una comunidad transmisora, no solamente a individuos que buscan consuelo privado. La palabra de la Roca forma una memoria que atraviesa generaciones.
+
+El versículo 47 explica por qué: «no es palabra vacía de vosotros, porque es vuestra vida» (TTH). **ריק**, _req_, significa vacío, vano o sin contenido; «palabra vacía» es una traducción contextual. El poema no afirma que cada experiencia difícil tenga una explicación inmediata, pero sí niega que su testimonio sea inútil. La enseñanza pública «Nuestra Roca - La fidelidad» queda así evaluada de manera precisa: la fidelidad de יהוה sostiene un canto que juzga, instruye y promete, mientras la respuesta de Israel consiste en escuchar todas sus palabras y vivir por ellas.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad           | Observación pública atribuible                                    | Evaluación textual                                                                                                                  |
