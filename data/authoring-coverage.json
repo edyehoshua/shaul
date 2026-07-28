@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 751,
-  "pending_videos": 207,
-  "transcript_notes": 348,
+  "covered_videos": 752,
+  "pending_videos": 206,
+  "transcript_notes": 349,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -118,7 +118,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 19,
+      "covered": 20,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {

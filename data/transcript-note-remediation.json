@@ -1,22 +1,9 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 266,
+  "total_notes_requiring_remediation": 265,
   "notes": [
 
-    {
-      "path": "content/besorah/efesios_4_llamado_unidad_y_vida_nueva.md",
-      "substantive_words": 537,
-      "thematic_sections": [
-        "el llamado que se guarda en la unidad",
-        "dones, servicio y crecimiento del cuerpo",
-        "aprender al mesías y abandonar la vida anterior",
-        "verdad, pasiones y palabras que edifican"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
     {
       "path": "content/besorah/efesios_5_amor_luz_y_sabiduria.md",
       "substantive_words": 418,

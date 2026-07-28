@@ -88,6 +88,30 @@ La renovación «en el Rúaj de vuestra mente» no elimina la responsabilidad co
 
 Las últimas exhortaciones no son una lista suelta. #ephesians_4_25 relaciona verdad con pertenencia mutua; #ephesians_4_29 pide palabras útiles para edificar según la necesidad; #ephesians_4_32 termina con bondad, compasión y perdón. Las clases 23 y 24 preguntan cómo rechazar mentira y limitar pasiones. Esa formulación puede orientar la reflexión, pero las palabras «mentira», «ira», «pasión» y «libertad» deben conservar su contexto inmediato y no convertirse en etiquetas para controlar a otros.
 
+## Hoja léxica
+
+| Forma | Transliteración | Sentido en esta nota | Relación y cautela |
+| --- | --- | --- | --- |
+| **(παρακαλέω)** | _parakaleō_ | llamar al lado, exhortar o animar; en 4:1 evita reducir la apertura a una súplica pasiva | Aproximación contextual: la explicación de Eric conecta el verbo con alguien que habla junto a otro; no se afirma que una sola traducción agote el campo semántico. |
+| **(κλῆσις)** | _klēsis_ | llamamiento recibido que debe expresarse en una manera de andar | Correspondencia contextual con «llamado»; no equivale automáticamente a una categoría institucional moderna. |
+| **(ταπεινοφροσύνη)** | _tapeinophrosynē_ | humildad o ánimo no altivo; Eric lo aplica a revisar las motivaciones | Aproximación pedagógica: la aplicación sobre equilibrio interior conserva el énfasis de la clase, pero no sustituye el análisis completo del término. |
+| **(πραΰτης)** | _prautēs_ | mansedumbre como disposición sometida a la voluntad de Elohim, no mera pasividad | Aproximación interpretativa de la clase; debe distinguirse de silencio obligatorio o aceptación de toda conducta. |
+| **(μακροθυμία)** | _makrothymia_ | largura de ánimo y paciencia sostenida al soportarse mutuamente | Aproximación funcional; no se reduce a tolerar abusos ni a negar límites comunitarios. |
+| **(μέτρον)** | _metron_ | medida o alcance del don recibido, que limita la pretensión de abarcarlo todo | Sentido contextual; la aplicación de Eric sobre no desbordar la medida es una inferencia pastoral. |
+| **(πλήρωμα)** | _plērōma_ | plenitud o llenura hacia la que crece el cuerpo | Aproximación contextual; no se presenta como una definición exhaustiva del término en todo el corpus. |
+| **(νήπιος)** / **(κυβεία)** | _nēpios_ / _kybeia_ | inmadurez y «juego de dados» como imagen de inestabilidad ante vientos de enseñanza | La relación entre inmadurez, olas y modas doctrinales conserva la observación de Eric; la aplicación a movimientos contemporáneos queda cualificada. |
+| **(ματαιότης)** / **(διάνοια)** | _mataiotēs_ / _dianoia_ | vanidad del entendimiento y facultad de pensar/discernir en 4:17-18 | Equivalencias aproximadas: la lectura de Eric sobre conciencia oscurecida es una interpretación contextual, no una traducción literal única. |
+
+## Mapa de la enseñanza de Eric
+
+| Punto de enseñanza tomado de Eric | Versos seguidos | Evaluación en esta nota |
+| --- | --- | --- |
+| El «llamado excelente» comienza revisando el ánimo y las motivaciones, no buscando una posición elevada; la mansedumbre se muestra en someterse y ejecutar la voluntad de Elohim. | #ephesians_4_1-3 | Se conserva como observación concreta de la clase y se contrasta con _parakaleō_, humildad, mansedumbre, paciencia y el mandato explícito de guardar la unidad; la aplicación interior queda cualificada. |
+| La unidad no autoriza a devolver ataque por ataque: un cuerpo, una esperanza, un Señor, una fe, una inmersión y un Elohim exigen reconocerse como parte del mismo pueblo. | #ephesians_4_4-6 | El inventario del texto respalda la base común. La exhortación de Eric a tener paciencia con otras comunidades se mantiene como aplicación pastoral, no como afirmación de que toda diferencia sea irrelevante. |
+| La gracia y la «medida» del don impiden que una persona pretenda cubrir todos los servicios; los dones sirven para equipar, reconciliar y edificar el cuerpo hasta la madurez. | #ephesians_4_7-13 | Se apoya en la secuencia gracia–don–servicio–edificación. Las conexiones de la clase con Salmo 68, con el descenso y ascenso, y con debates textuales sobre «recibir/dar» quedan como inferencias pendientes de cotejo. |
+| Los dones protegen de ser niños llevados por olas, juegos de azar y estratagemas; el centro debe seguir siendo Yehoshua y el evangelio, no una moda lingüística o identitaria. | #ephesians_4_14-16 | Se conserva la observación sobre inestabilidad y se explica _nēpios_, _kybeia_ y _plērōma_. La crítica histórica a movimientos contemporáneos no se presenta como hecho demostrado por el pasaje. |
+| La vida anterior se caracteriza por entendimiento vano, discernimiento oscurecido y alejamiento; aprender al Mesías, despojarse del ser humano viejo y vestirse del nuevo produce verdad, dominio de la ira, palabras que edifican y perdón. | #ephesians_4_17-32 | Se sigue el encadenamiento textual y se distinguen los términos léxicos de las aplicaciones de Eric sobre conciencia, libertad y pasiones. Las afirmaciones históricas, psicológicas o universales no explícitas quedan pendientes. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar las explicaciones léxicas de las clases sobre unidad, plenitud, conocimiento y libertad con el griego de #ephesians_4_1-16 y léxicos especializados.
