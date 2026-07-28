@@ -111,6 +111,18 @@ El final mantiene la diferencia entre fruto y salario. **(ὀψώνιον)**, _o
 
 Romanos 6 no permite separar la gracia de la vida que forma. La tvilá apunta a la unión con la muerte y resurrección de Yehoshua; esa unión fundamenta el cálculo de estar muertos al pecado y vivos para Elohim. Por ello los miembros ya no se entregan al antiguo señor. El don gratuito de vida eterna no minimiza esa obediencia: la hace posible y la orienta hacia santificación.
 
+## Control de la secuencia: gracia, señorío y fruto
+
+La pregunta de la primera clase —si la gracia permite continuar en pecado— recibe una respuesta que se despliega en todo el capítulo, no solo en #romanos_6_2. **(ἐπιμένω)**, _epimenō_, significa permanecer, continuar o persistir; aunque la forma aparece en la pregunta inicial, su fuerza contextual es la permanencia deliberada en el pecado después de haber sido unidos al Mesías. «Continuar» es una glosa **directa** y la relación con la **(χάρις)**, _charis_, «gracia, favor o don», es **textual**: Pablo niega que el favor sea una razón para instalarse en el dominio que la comunidad dice haber abandonado.
+
+La imagen de muerte tampoco es una metáfora desligada de la conducta. **(συσταυρόω)**, _systauroō_, significa crucificar juntamente; en #romanos_6_6 describe al viejo ser crucificado con el Mesías para que el cuerpo del pecado quede sin poder gobernante. «Crucificado con» es una traducción **directa y contextual**, pero no autoriza a afirmar que toda lucha moral haya terminado de manera instantánea: el imperativo de #romanos_6_12 («no reine») muestra que la comunidad debe responder activamente a la obra recibida.
+
+La segunda observación de Eric, que ya no somos subordinados del antiguo señor y no estamos «bajo sentencia», queda mejor precisada por **(κυριεύω)**, _kyrieuō_, «ser señor, dominar o ejercer autoridad». En #romanos_6_9 y #romanos_6_14 el problema es el señorío del pecado, no la desaparición de toda autoridad. La aplicación «no estar bajo sentencia» es **pedagógica y aproximada**; el vocabulario comprobable habla de que el pecado no debe dominar y de que la comunidad está bajo gracia. El texto conserva una obligación concreta: no presentar los miembros al pecado, sino a Elohim.
+
+El cierre evita convertir la santificación en una moneda de pago. **(παραδίδωμι)**, _paradidōmi_, significa entregar, poner a disposición o confiar; en #romanos_6_16 y #romanos_6_17 la forma describe la entrega de la persona a un patrón de obediencia. «Entregarse» es **aproximado** como traducción y **contextual** como decisión de lealtad. La exposición de Eric acierta al hablar de cambio de subordinación cuando se mantiene esta dirección: la libertad no es neutralidad, y el fruto de la justicia no compra el don de vida eterna (#romanos_6_22-23).
+
+Leída como perícopa continua, la secuencia queda así: la unión con la muerte y resurrección del Mesías responde a la objeción sobre la gracia; el cálculo de estar muertos al pecado se vuelve una orden sobre el cuerpo; la liberación del dominio antiguo produce obediencia; y esa obediencia da fruto para santificación mientras la vida eterna sigue siendo don. Esta evaluación conserva las observaciones públicas de ambas clases sin convertir «tvilá», «subordinación» o «sentencia» en sustitutos de los términos y argumentos de Pablo.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis griega de #romanos_6_3-11, en especial la relación entre inmersión, muerte, sepultura, unión y resurrección.

@@ -113,6 +113,20 @@ La conexión con #romanos_8_1-4 debe calificarse de la misma manera. **(κατά
 
 Romanos 7 defiende la bondad de la Torá y revela la gravedad del pecado que la instrumentaliza. Morir con el Mesías abre un servicio nuevo; el conflicto del ser carnal impide la autosuficiencia; y la liberación dada por Elohim en Yehoshua conduce al caminar según el Rúaj. La libertad que la clase subraya tiene, por tanto, una dirección ética y comunitaria, no una salida del llamado a dar fruto para Elohim.
 
+## Control de la analogía y del conflicto interior
+
+La analogía matrimonial de #romanos_7_1-6 debe gobernar la lectura de la expresión «muertos a la Torá». **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o liberar de una obligación; en #romanos_7_6 describe el estado de quienes murieron respecto de aquello que los retenía, para servir en novedad de Rúaj. «Libres» es una traducción **aproximada y contextual**: el verbo no afirma que la Torá sea pecado, porque la pregunta de #romanos_7_7 lo niega de forma explícita, ni elimina la finalidad de dar fruto para Elohim (#romanos_7_4). La clase de Eric acierta al distinguir la muerte de la persona respecto del dominio antiguo de una muerte de la Torá como si fuese mala.
+
+En #romanos_7_7-13, **(ἀφορμή)**, _aphormē_, significa ocasión, punto de partida o base para una acción; Pablo dice que el pecado tomó ocasión por el mandamiento. La forma ayuda a separar agente y medio: el mandamiento hace conocer la codicia, mientras el pecado aprovecha esa ocasión para producir muerte. «Ocasión» es una glosa **directa**; concluir que la instrucción causa moralmente el pecado sería una inferencia **incorrecta** frente a #romanos_7_12, donde la Torá y el mandamiento son llamados santos, justos y buenos.
+
+La parte titulada «La tragedia de los carnales» observa correctamente la tensión entre querer el bien y practicar lo que el hablante aborrece. **(συμφημί)**, _symphēmi_, significa asentir, estar de acuerdo o reconocer juntamente; en #romanos_7_16 describe el acuerdo del hablante con que la Torá es buena cuando hace lo que no quiere. «Consiento» es una traducción **aproximada pero contextual**. No es una confesión de que el pecado sea deseable, ni una prueba aislada de que el «yo» deba identificarse sin discusión con una única etapa histórica de Pablo.
+
+El grito de #romanos_7_24 y la acción de gracias de #romanos_7_25 mantienen unidos diagnóstico y esperanza. **(ταλαίπωρος)**, _talaipōros_, significa miserable, afligido o desdichado; califica la situación del hombre que descubre su incapacidad de librarse del cuerpo de muerte. «Miserable» es **directo** como glosa, pero no es una etiqueta sobre el valor de la persona. **(ῥύομαι)**, _rhyomai_, significa rescatar, librar o sacar de peligro; su fuerza contextual apunta a una liberación que Pablo atribuye a Elohim por medio de Yehoshua, no a una técnica de autoformación.
+
+Por eso la observación de Eric sobre la libertad verdadera debe evaluarse junto con #romanos_8_1-4. **(πνεῦμα)**, _pneuma_, significa espíritu, aliento o viento; en #romanos_7_6 y #romanos_8_4 designa el ámbito nuevo de servicio y de caminar. «Rúaj» es una correspondencia **pedagógica y aproximada**, no una prueba de que toda aparición de la palabra hebrea y griega tenga el mismo alcance. La libertad de la parte 17 es **textual y cualificada** cuando se entiende como liberación del pecado y de la muerte para cumplir la exigencia justa de la Torá caminando según el Rúaj; sería **ilegítima** si se usara para llamar malo al mandamiento o para justificar la carne.
+
+La perícopa, entonces, avanza en cuatro pasos: cambia la relación de la persona con el dominio antiguo; afirma la santidad de la Torá; expone cómo el pecado usa el mandamiento para producir muerte; y dirige el clamor hacia Yehoshua y la vida según el Rúaj. Esa secuencia conserva la tensión real que Eric llama «tragedia» sin convertirla en fatalismo ni resolver prematuramente el debate sobre la identidad del hablante.
+
 ## Ver también
 
 - [[romanos_6_union_con_el_Mesias_muerte_al_pecado_vida_nueva|Romanos 6: unión con el Mesías, muerte al pecado y vida nueva]]
