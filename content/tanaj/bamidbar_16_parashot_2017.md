@@ -11,6 +11,7 @@ references:
   - "#bamidbar_16_1-11"
   - "#bamidbar_16_12-18"
   - "#bamidbar_16_19-35"
+  - "#bamidbar_16_36-50"
 sources:
   - "https://www.youtube.com/watch?v=SFTcGxqtg9E"
   - "https://www.youtube.com/watch?v=FTlICgQF21Y"
@@ -65,13 +66,26 @@ En Bamidbar 17:1-5, יהוה ordena que Eleazar saque los incensarios del incend
 
 La frase **ולא יהיה כקרח וכעדתו**, _velo yihyeh keKoraj ve-edato_, «para que no sea como Koraj y su asamblea», convierte el objeto en una advertencia interpretada por la Torah. «Recordatorio de humildad» es pedagógico; el sentido exacto es un límite cultual ante el altar. Eric llama a realizar el servicio «como para Hashem»: esta conclusión apoya la integridad del servidor, pero también fija un límite decisivo a la aplicación: no toda persona puede tomar para sí una función porque sienta celo o vea una necesidad. La santidad es recibida, regulada y memorializada por la palabra de יהוה.
 
+## El memorial no silencia la queja: 16:36-50
+
+La unidad final impide cerrar el relato en el fuego. יהוה manda a Eleazar que retire los incensarios «de entre el incendio» y que sean martillados como láminas para cubrir el altar. El TTH llama a esos objetos «un memorial para los hijos de Israel» y añade el límite: «que no se acercará hombre extraño que no sea él de la simiente de Aharón, para acercar incienso delante de יהוה» (#bamidbar_16_37-40). La señal no es un trofeo de la autoridad de Mosheh; hace visible que la cercanía cultual está regulada y que la rebelión no debe repetirse.
+
+El sustantivo **(זכרון)**, _zikaron_, significa memoria, recuerdo o memorial. En este contexto designa un objeto que enseña mediante presencia pública; «monumento» es una equivalencia pedagógica posible, pero demasiado amplia si borra su función sacerdotal. **(זר)**, _zar_, normalmente significa extraño o ajeno; aquí no equivale a «malo» en general, sino a quien no pertenece al linaje sacerdotal autorizado para ofrecer incienso. Eric aplica el memorial a la humildad del servidor: la aplicación es pertinente, aunque el sentido inmediato es una advertencia cultual concreta.
+
+La congregación, sin embargo, se queja al día siguiente: «¡Ustedes han hecho morir al pueblo de יהוה!» (#bamidbar_16_41). El OE conserva **וילנו**, _vayilonu_, de **לון**, murmurar o quejarse; la forma narrativa muestra que el juicio visible no produjo automáticamente una lectura correcta. Ellos atribuyen a Mosheh y Aharón la muerte que el relato acaba de atribuir a יהוה. La exposición de Eric sobre la conducta humana frente a la conducta divina recibe aquí un matiz necesario: incluso después de una señal, la comunidad puede reinterpretar el hecho para acusar a los mediadores.
+
+Cuando la gloria aparece y la nube cubre la Tienda, Mosheh y Aharón caen sobre sus rostros. Mosheh ordena a Aharón: «Toma un incensario… y ve rápidamente hacia la congregación y haz reconciliación por ellos, porque ha salido la ira» (#bamidbar_16_46). **(כפר)**, _kiper_, significa cubrir, hacer expiación o realizar reconciliación; «calmar a Dios» sería una paráfrasis inexacta, pues el verbo aquí describe la acción sacerdotal que se interpone ante la plaga. Aharón se para «entre los muertos y los vivos», y la plaga se detiene. El final confirma que el sacerdocio no es privilegio de autoexaltación: su función aparece como servicio intercesor en medio del peligro.
+
+Esta secuencia también corrige una aplicación demasiado simple de «hacer todo como para יהוה». El texto conserva juicio, queja, intercesión y límite. La conducta de Aharón no imita la sentencia de יהוה ni reclama autoridad propia; obedece una instrucción, lleva el incienso y sirve a la congregación. La correspondencia con el servicio actual es pedagógica, mientras que la fuerza exacta de 16:36-50 es mostrar cómo el memorial y la intercesión protegen a Israel de repetir la rebelión.
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual     | Observación concreta de Eric                                                                                           | Evaluación frente al texto                                                                                                             |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| #bamidbar_16_1-4   | Koraj mira a sus parientes, se compara y deja que la comparación produzca envidia.                                     | Aplicación pastoral plausible; el texto sí muestra su reunión y acusación, aunque no usa la palabra «envidia».                         |
-| #bamidbar_16_5-11  | La conducta divina distingue los servicios; los levitas ya tenían una cercanía real, pero piden también el sacerdocio. | Directamente apoyado por la respuesta de Mosheh sobre separar, acercar, servir y buscar **כהנה**.                                      |
-| #bamidbar_16_19-35 | יהוה mismo diferencia la conducta divina de la iniciativa humana y confirma que Mosheh no actuó desde su corazón.      | Apoyado por la gloria, la separación de la congregación y la fórmula **לא מלבי**; la aplicación a todo liderazgo actual es pedagógica. |
+| Unidad textual     | Observación concreta de Eric                                                                                               | Evaluación frente al texto                                                                                                             |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_16_1-4   | Koraj mira a sus parientes, se compara y deja que la comparación produzca envidia.                                         | Aplicación pastoral plausible; el texto sí muestra su reunión y acusación, aunque no usa la palabra «envidia».                         |
+| #bamidbar_16_5-11  | La conducta divina distingue los servicios; los levitas ya tenían una cercanía real, pero piden también el sacerdocio.     | Directamente apoyado por la respuesta de Mosheh sobre separar, acercar, servir y buscar **כהנה**.                                      |
+| #bamidbar_16_19-35 | יהוה mismo diferencia la conducta divina de la iniciativa humana y confirma que Mosheh no actuó desde su corazón.          | Apoyado por la gloria, la separación de la congregación y la fórmula **לא מלבי**; la aplicación a todo liderazgo actual es pedagógica. |
+| #bamidbar_16_36-50 | El memorial de los incensarios y el servicio «como para Hashem» deben conducir a humildad e intercesión, no a competencia. | Apoyo textual cualificado: el límite sacerdotal, la queja y la intercesión de Aharón amplían y corrigen la aplicación.                 |
 
 ## Pendiente de verificar
 
