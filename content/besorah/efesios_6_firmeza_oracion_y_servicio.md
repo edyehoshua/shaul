@@ -146,14 +146,15 @@ Esta secuencia también corrige dos reducciones. Primero, **πάλη** (_palē_,
 
 El mapa registra los puntos concretos tomados de las clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
 
-## Pendiente de verificar
+## Límites que el cotejo local deja establecidos
 
-- [ ] Examinar el uso de **τέκνα**, **γονεῖς** y **παιδεία** en #ephesians_6_1-4 y cotejar la reconstrucción de Eric sobre descendencia, generación y formación.
-- [ ] Examinar el trasfondo romano, social y jurídico de #ephesians_6_5-9 antes de cualquier aplicación actual sobre trabajo, autoridad o esclavitud.
-- [ ] Cotejar las interpretaciones de las clases sobre autoridades, regiones o seres espirituales con la sintaxis de #ephesians_6_10-20 y con otros textos del corpus.
-- [ ] Verificar **πανοπλία**, **δύναμις**, **ἰσχύς** y **μεθοδείας** en léxicos y contexto antes de fijar como equivalencia la propuesta de fuerza, resistencia y artimañas.
-- [ ] Distinguir la metáfora de la armadura de Elohim de afirmaciones pastorales que atribuyan automáticamente enfermedades, conflictos o injusticias a causas espirituales.
-- [ ] Estudiar «en Rúaj» y «palabra de Elohim» en #ephesians_6_17-18 sin sustituir los términos por una única definición pedagógica.
+El examen del flujo del capítulo permite conservar varias observaciones de Eric sin convertirlas en afirmaciones más amplias que el texto. **τέκνα** (_tekna_, hijos) nombra a los destinatarios de 6:1; **γονεῖς** (_goneis_, padres) no aparece en la orden dirigida a ellos, pues 6:4 usa **πατέρες** (_pateres_, padres). La distinción importa: la explicación de la clase sobre “los que generan” puede quedar como aplicación, pero no como el sentido exclusivo de la forma. Lo que sí es directo es el par de mandatos: escuchar en el Señor y criar sin provocar a ira.
+
+En 6:5-9, **δοῦλοι** (_douloi_, siervos o esclavos) y **κύριοι** (_kyrioi_, señores) pertenecen a una relación social antigua que el pasaje regula; el texto no ofrece una defensa sistemática de la institución ni una descripción jurídica exhaustiva. La orden a los señores de dejar las amenazas y la razón de que tienen el mismo Señor celestial impiden usar esta sección como aval de explotación. Las aplicaciones actuales deben partir de ese límite y no de una equivalencia simple entre esclavitud antigua y empleo moderno.
+
+El vocabulario de 6:10-18 tampoco convierte la metáfora en un inventario de causas ocultas. **πανοπλία** (_panoplia_, equipo completo de armas) recibe su sentido en los verbos “vestirse”, “resistir” y “estar firmes”; **μεθοδεία** (_methodeia_, artimaña o método engañoso) designa aquello frente a lo cual se permanece. **ῥῆμα** (_rhēma_, palabra o declaración) en “palabra de Elohim” forma parte de la imagen de la espada del Rúaj, mientras **δέησις** (_deēsis_, súplica) y **ἀγρυπνέω** (_agrypneō_, velar o mantenerse atento) muestran que la respuesta indicada es oración perseverante por todos. La equivalencia pedagógica de “estudiar para discernir” puede conservarse, pero el pasaje no autoriza diagnosticar cada enfermedad, conflicto o injusticia como ataque espiritual.
+
+Estas precisiones cierran las preguntas léxicas principales de la nota. Siguen siendo comparaciones históricas, no demostraciones del texto, las conexiones con vestiduras sacerdotales, las reglas rabínicas sobre enviados y las reconstrucciones sociales detalladas. Mantenerlas como cautelas protege la atribución a Eric y deja el argumento verificable: responsabilidades limitadas, firmeza no agresiva y oración comunitaria.
 
 ## Conclusión
 

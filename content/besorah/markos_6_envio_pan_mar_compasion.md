@@ -126,13 +126,15 @@ El capítulo cierra en Kineret con enfermos llevados desde aldeas, ciudades y ca
 - **Marcos 6:7-13, 30 — shaliaj y envío:** Eric entiende al enviado como representante; la nota lo usa como aclaración aproximada y sostiene la dependencia de los Doce en la comisión explícita de Yehoshua.
 - **Marcos 6:30-56 — descanso, pan y mar:** la clase resalta sobriedad y compasión; la nota sigue el orden de descanso, enseñanza, provisión y auxilio. En 6:39-43 se prueba además que los discípulos distribuyen y recogen; el número doce se conserva como dato narrativo, no como simbolismo demostrado. El salmo queda como trasfondo calificado.
 
-## Pendiente de verificar
+## Límites establecidos por el texto y las equivalencias
 
-- [ ] Cotejar **(τέκτων)** en léxicos griegos, LXX y tradiciones de Marcos 6:3 antes de preferir definitivamente «agricultor» o «labriego».
-- [ ] Localizar y verificar la fuente rabínica exacta para el dicho sobre el **(שליח)** como representante de quien lo envía, incluida su fecha y alcance jurídico.
-- [ ] Verificar la relación concreta entre el gesto de sacudir el polvo en #markos_6_11 y las máximas rabínicas mencionadas en la clase.
-- [ ] Examinar el griego de #markos_6_50 y sus ecos bíblicos antes de convertir «soy Yo» en una equivalencia exclusiva con una fórmula hebrea del nombre divino.
-- [ ] Documentar por separado las afirmaciones históricas de la clase sobre prácticas sinagogales, hospitalidad y modelos contemporáneos de apostolado.
+El cotejo deja **τέκτων** (_tektōn_, artesano, constructor u obrero) como una forma de alcance amplio en 6:3. La glosa local “agricultor” y la propuesta de Eric pueden conservarse como tradiciones de lectura, pero Marcos no precisa el oficio y el griego no obliga a escoger “labriego”. Del mismo modo, **ἀπόστολοι** (_apostoloi_, enviados o delegados) describe a los que regresan en 6:30; **שליח** (_shaliaj_, enviado o representante) es una comparación semítica útil para explicar la comisión, no una sustitución de la forma griega ni prueba de todas las reglas jurídicas rabínicas posteriores.
+
+El gesto de sacudir el polvo en 6:11 queda anclado en su contexto inmediato: es un testimonio contra quienes no reciben a los enviados. Puede compararse con prácticas de separación conocidas, pero esta nota no atribuye a Marcos una máxima rabínica específica sin fuente verificable. La secuencia sí permite una conclusión firme: los Doce proclaman **μετανοῶσιν** (_metanoōsin_, que se vuelvan o se arrepientan), expulsan demonios y ungen enfermos; no son autorizados a coaccionar a quien no escucha.
+
+En 6:50, **ἐγώ εἰμι** (_egō eimi_, soy yo o yo soy) funciona primero como identificación dirigida a discípulos aterrados, junto con “fortalézcanse” y “no teman”. El trasfondo de los salmos sobre el dominio del mar hace significativa la escena, pero la frase aislada no demuestra una equivalencia exclusiva con una fórmula hebrea del nombre divino. También **σπλαγχνίζομαι** (_splagchnizomai_, conmoverse profundamente o compadecerse) no exige una única retrotraducción: Marcos define la compasión por enseñar, alimentar y sanar.
+
+Quedan como aplicaciones históricas calificadas —no como datos afirmados por el capítulo— los detalles de prácticas sinagogales, la hospitalidad antigua, el alcance jurídico del _shaliaj_ y los modelos contemporáneos de apostolado. Así, la nota conserva lo concreto de Eric y deja el núcleo comprobable en el orden narrativo: comisión, sobriedad, descanso, enseñanza, pan, auxilio y sanidad.
 
 ## Conclusión
 
