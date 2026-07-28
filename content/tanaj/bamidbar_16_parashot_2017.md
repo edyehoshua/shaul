@@ -1,51 +1,86 @@
 ---
-title: "Bamidbar 16: Autoridad, santidad y servicio delante de יהוה"
-description: "Nota canónica de Bamidbar 16, organizada a partir de una clase de la serie Parashot 2016-2017."
-date: 2026-07-27
+title: "Bamidbar 16: santidad recibida, autoridad y juicio delante de יהוה"
+description: "Nota canónica de Bamidbar 16 que contrasta la enseñanza de Eric sobre la conducta divina con la rebelión de Koraj, Datán y Abiram."
+date: 2026-07-28
 tags:
   - parashot
   - bamidbar
+  - qoraj
+  - autoridad
 references:
-  - "#bamidbar_16_1"
+  - "#bamidbar_16_1-11"
+  - "#bamidbar_16_12-18"
+  - "#bamidbar_16_19-35"
 sources:
   - "https://www.youtube.com/watch?v=SFTcGxqtg9E"
+  - "https://www.youtube.com/watch?v=FTlICgQF21Y"
   - "docs/scriptures/oe/json/numbers/16.json"
+  - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
   - "youtube:SFTcGxqtg9E"
-translation: "[OE]"
+  - "youtube:FTlICgQF21Y"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
 
-Bamidbar 16 abre un tramo que sitúa la vida del pueblo delante de יהוה. La clase de la serie _Parashot 2016-2017_ ofrece una lectura temática del pasaje; esta nota conserva como ancla el texto bíblico y distingue sus aplicaciones del sentido explícito del capítulo.
+Bamidbar 16 distingue entre santidad concedida por יהוה y autoridad fabricada por comparación, parentesco o ambición. Eric presenta la sección como contraste entre conducta divina y conducta humana: Koraj mira el liderazgo de Mosheh y Aharón, se compara con ellos y convierte una verdad parcial —toda la congregación es llamada a la santidad— en una demanda contra el orden de servicio que יהוה estableció. El texto confirma el diagnóstico, pero lo hace con una secuencia concreta: reunión contra Mosheh y Aharón, prueba de los incensarios, negativa de Datán y Abiram, separación de la congregación y juicio visible.
 
 ## Alcance de la nota
 
-Esta es la nota canónica para Bamidbar 16 dentro de esta incorporación. La transcripción automática de la clase se usa para identificar su tema y su pasaje de partida, no como cita literal verificable. El título de la sesión —«Parashat Qóraj (2017) Más vosotros tenéis la unción de El Santo»— orienta la selección temática, pero las afirmaciones doctrinales, históricas o léxicas que excedan el texto requieren cotejo adicional.
+Esta es la nota canónica para Bamidbar 16. Conserva la atribución anterior a una clase sobre Qóraj y añade la fuente asignada de Eric sobre «hacer todo como para Hashem». La transcripción automática sirve para localizar observaciones de la exposición y no se cita como transcripción revisada. Las referencias genealógicas y las aplicaciones sobre comparación, servicio y humildad se evalúan siguiendo el orden del capítulo y no se presentan como datos que el versículo no afirma.
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo local (OE, sin nikud)                                                       | Observación                                                                                           |
-| -------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_16_1 | **ויקח קרח בן יצהר בן קהת בן לוי ודתן ואבירם בני אליאב ואון בן פלת בני ראובן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| Referencia         | Escritura local OE y TTH                                   | Argumento del capítulo                                                                                         |
+| ------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_16_1-4   | **ויקח קרח ... ויקמו לפני משה**; **ויקהל על משה ועל אהרן** | La iniciativa de Koraj y la reunión contra los mediadores preceden a cualquier prueba divina.                  |
+| #bamidbar_16_5-11  | **הבדיל אלהי ישראל אתכם ... לשרת את עבדת משכן יהוה**       | Mosheh recuerda a los levitas que ya recibieron una cercanía y un servicio; buscar el sacerdocio es otra cosa. |
+| #bamidbar_16_19-24 | **וירא כבוד יהוה אל כל העדה**; **הבדלו מתוך העדה הזאת**    | La gloria de יהוה convierte el conflicto privado en asunto de toda la congregación.                            |
+| #bamidbar_16_25-35 | **לא מלבי**; **כי נאצו האנשים האלה את יהוה**               | La señal confirma que la iniciativa de Mosheh no procede de su corazón y que la rebelión desprecia a יהוה.     |
 
-## Lectura inicial
+## La santidad común no autoriza una función escogida por uno mismo
 
-El comienzo de Bamidbar 16 establece el marco inmediato de la sección. La clase vincula este tramo con «autoridad, santidad y servicio delante de יהוה»; esa relación puede servir como guía de lectura, siempre que no sustituya el desarrollo concreto del texto ni convierta una formulación de la exposición en una cita bíblica.
+El inicio nombra a Koraj, Datán, Abiram y On, además de doscientos cincuenta jefes. La forma **ויקח**, _yiqaj_, viene de **לקח**, _laqaj_, «tomar»; en la narración marca la iniciativa de Koraj para reunir aliados. Traducirla como «lideró» es una equivalencia **pedagógica**, no exacta: el verbo no certifica que יהוה le haya dado liderazgo. **ויקמו**, _yaqumu_, de **קום**, _qum_, significa levantarse o ponerse de pie; «alzarse contra» explicita el contexto de **לפני משה**, «delante de Mosheh», pero es una traducción contextual.
 
-La respuesta responsable al pasaje parte de escuchar su lenguaje, sus destinatarios y su continuidad narrativa. Las conexiones con Yehoshua y con otros escritos pueden ser lecturas canónicas valiosas, pero deben señalarse como tales cuando el capítulo no las formula explícitamente.
+La acusación de 16:3 contiene una verdad que el capítulo no niega: **כל העדה כלם קדשים**, _kol ha-edah kullam qedoshim_, «toda la congregación, todos ellos son santos», y יהוה está en medio de ellos. **קדש**, _qódesh_, normalmente significa ser santo, estar separado o pertenecer a lo sagrado. Aquí su fuerza es corporativa: Israel ha sido apartado. Pero la frase no elimina las distinciones de servicio. **תתנשאו**, _titnasu_, de **נשא**, _nasá_, significa levantarse, elevarse o llevarse en alto; en la pregunta «¿por qué se elevan?» funciona como acusación de autoexaltación. Eric advierte que la comparación produce envidia y ego. Esa aplicación es pedagógica, mientras que el texto identifica la queja contra Mosheh y Aharón como una disputa por su posición delante de la asamblea.
+
+Mosheh cae sobre su rostro, no responde con autopromoción. Al día siguiente יהוה «dará a conocer» al que es suyo y al santo. **ידע**, _yada_, significa conocer, reconocer o dar a conocer; aquí la acción de יהוה hará pública la elección. **בחר**, _bajar_, es escoger o elegir. «Validar el ministerio» es una paráfrasis pedagógica; la equivalencia contextual es que יהוה acercará a quien él elija. El capítulo no enseña que toda diferencia de función sea superioridad personal: enseña que la cercanía y el servicio son recibidos.
+
+## El servicio de los levitas y la demanda del sacerdocio
+
+La respuesta de Mosheh a Koraj es precisa: ¿es poco que el Elohim de Israel os haya separado de la congregación para acercaros, servir el trabajo del Mishkán y ministrar a la congregación? **הבדיל**, _hivdil_, es una forma causativa de **בדל**, _badal_, «separar, distinguir». «Consagrar» es aproximada; el contexto muestra separación funcional para el servicio. **לשרת**, _lesharet_, procede de **שרת**, _sharat_, «ministrar o servir». No describe una carrera humana, sino una tarea asignada en la morada de יהוה. **כהנה**, _kehunnah_, significa sacerdocio; el contraste con el servicio levítico es textual, no una descalificación de la santidad de los levitas.
+
+Eric reconstruye las familias de Leví y explica que Koraj era pariente de Mosheh y Aharón. Esa observación ayuda a entender la cercanía familiar y la tentación de compararse, pero la genealogía no debe reemplazar el argumento de Bamidbar 16. El versículo 11 concluye: «tú y todo tu grupo os habéis confabulado contra יהוה». **נועד**, _noad_, puede significar reunirse o fijar una cita; la forma participial de «los que se reúnen» muestra una coalición. **לון**, _lun_, significa murmurar, quejarse o pasar la noche; aquí la queja contra Aharón es finalmente contra quien lo puso en el servicio. La fuerza contextual evita convertir todo desacuerdo humano en rebelión: el capítulo trata una demanda de función sagrada contra una designación divina.
+
+Datán y Abiram agravan el conflicto con una memoria invertida: llaman a Egipto «tierra que fluye leche y miel» y acusan a Mosheh de no haber entregado campos y viñas. TTH conserva el golpe irónico del discurso; el contexto narrativo muestra cómo la rebelión distorsiona la promesa y la responsabilidad. Mosheh afirma **לא מלבי**, _lo milibí_, «no desde mi corazón». **לב**, _lev_, significa corazón, voluntad o centro interior; aquí «no por iniciativa mía» es una equivalencia aproximada y contextual. La autoridad que se prueba no es el carisma de Mosheh, sino si su obra procede de יהוה.
+
+## La gloria, la separación y el juicio
+
+Cuando Koraj reúne a toda la congregación, aparece **כבוד יהוה**, _kevód YHWH_. **כבוד**, _kavod_, significa peso, honor o gloria; en el relato es la manifestación pública de la presencia y autoridad de יהוה. La orden **הבדלו**, _hibbadlu_, «sepárense», repite la raíz de la distinción levítica y exige que la congregación no participe del destino de las tiendas rebeldes. Mosheh y Aharón interceden: **אלהי הרוחת לכל בשר**, _Elohei harujot lekol basar_, «Elohim de los espíritus de toda carne». **רוח**, _ruaj_, puede significar viento, espíritu o disposición vital; aquí señala a יהוה como conocedor de cada interior humano. «Dios que discierne los corazones» es pedagógico, no una traducción completa.
+
+La señal final no convierte la muerte en espectáculo para sostener cualquier liderazgo. Mosheh declara que, si ocurre una creación nueva y la tierra abre su boca, conocerán que aquellos hombres han despreciado a יהוה. **ברא**, _bará_, es crear; la frase **בריאה יברא** intensifica la novedad del juicio. **נאץ**, _naats_, significa despreciar, rechazar o tratar con desdén; «blasfemar» es aproximado en esta traducción. El fuego consume a los doscientos cincuenta que acercan incienso. El episodio confirma la distinción entre la conducta de יהוה y la apropiación humana de una función, pero no permite usar la sentencia como licencia para la violencia privada.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual     | Observación concreta de Eric                                                                                           | Evaluación frente al texto                                                                                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_16_1-4   | Koraj mira a sus parientes, se compara y deja que la comparación produzca envidia.                                     | Aplicación pastoral plausible; el texto sí muestra su reunión y acusación, aunque no usa la palabra «envidia».                         |
+| #bamidbar_16_5-11  | La conducta divina distingue los servicios; los levitas ya tenían una cercanía real, pero piden también el sacerdocio. | Directamente apoyado por la respuesta de Mosheh sobre separar, acercar, servir y buscar **כהנה**.                                      |
+| #bamidbar_16_19-35 | יהוה mismo diferencia la conducta divina de la iniciativa humana y confirma que Mosheh no actuó desde su corazón.      | Apoyado por la gloria, la separación de la congregación y la fórmula **לא מלבי**; la aplicación a todo liderazgo actual es pedagógica. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
-- [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
+- [ ] Comparar las genealogías de Bamidbar 16, Shemot 6 y Bamidbar 4 sin convertir una reconstrucción de la clase en cita del capítulo.
+- [ ] Estudiar la relación entre la rebelión de Koraj y la memoria de la tierra en los versículos 13-14.
 
 ## Conclusión
 
-Bamidbar 16 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
+Bamidbar 16 no enfrenta santidad contra santidad, sino santidad recibida contra una función tomada. Toda la congregación puede ser santa porque יהוה está en medio de ella; justamente por eso nadie puede apropiarse del sacerdocio o acusar a los siervos designados desde la comparación personal. Eric acierta al llamar a discernir la conducta divina y a resistir el ego, mientras el texto fija el criterio: יהוה separa, acerca, elige y confirma. La respuesta fiel no es competir por rango, sino servir el encargo recibido delante de él.
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Qóraj (2017) Más vosotros tenéis la unción de El Santo](https://www.youtube.com/watch?v=SFTcGxqtg9E) (source_id: `youtube:SFTcGxqtg9E`).
-- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
+- [Parashat Qóraj (2017) Más vosotros tenéis la unción de El Santo](https://www.youtube.com/watch?v=SFTcGxqtg9E) (`source_id`: `youtube:SFTcGxqtg9E`).
+- [Parashat Korah - Do everything as for Hashem](https://www.youtube.com/watch?v=FTlICgQF21Y) (`source_id`: `youtube:FTlICgQF21Y`).
+- Esta nota organiza y contrasta las exposiciones; no presenta una transcripción automática como cita literal.
