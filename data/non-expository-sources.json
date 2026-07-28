@@ -3,6 +3,22 @@
   "purpose": "Local classifications for lane-owned media that must not become canonical transcript studies.",
   "entries": [
     {
+      "source_id": "youtube:GN22XKFRYGM",
+      "title": "תהילים טז. the most important decision",
+      "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
+      "classification": "musical-performance",
+      "reason": "La transcripción local conserva una interpretación cantada de Tehilim 16 con música, no una exposición sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-28"
+    },
+    {
+      "source_id": "youtube:dsI1NFrPTZY",
+      "title": "תפלת עלינו the Aleynu Prayer La oración Aleynu´Aleinu",
+      "url": "https://www.youtube.com/watch?v=dsI1NFrPTZY",
+      "classification": "liturgical-prayer",
+      "reason": "La captura local solo contiene unos pocos fragmentos de una oración en árabe y no identifica una exposición bíblica desarrollada; no se fabrica un estudio canónico.",
+      "classified_at": "2026-07-28"
+    },
+    {
       "source_id": "youtube:6yvN36B5280",
       "title": "Al zeh (En español) על זה כמו ששר מורדכי בן דויד בספרדית",
       "url": "https://www.youtube.com/watch?v=6yvN36B5280",
