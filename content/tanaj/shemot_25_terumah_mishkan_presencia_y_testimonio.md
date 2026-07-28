@@ -14,10 +14,12 @@ references:
   - "#shemot_25_40"
 sources:
   - "https://www.youtube.com/watch?v=cls5RxEzxtQ"
+  - "https://www.youtube.com/watch?v=4BXW1nJCLCc"
   - "docs/scriptures/oe/json/exodus/25.json"
   - "docs/scriptures/tth/json/shemot.json"
 source_ids:
   - "youtube:cls5RxEzxtQ"
+  - "youtube:4BXW1nJCLCc"
 translation: "[OE, TTH]"
 ---
 
@@ -67,6 +69,12 @@ La **מנרת** (_menorah_; forma normal: _menorah_) se hace de oro puro, trabaj
 
 El cierre vuelve al principio de obediencia: «וראה ועשה בתבניתם אשר אתה מראה בהר», «mira que los hagas conforme a su diseño que te ha sido mostrado en el monte». **(תבנית)** (_tavnit_) significa modelo, patrón o representación. La correspondencia con “diseño” es aproximada pero adecuada al contexto. La presencia es gracia de יהוה, y la respuesta humana es voluntaria en la entrega; sin embargo, la ejecución no queda a merced de una creatividad religiosa privada. La clase insiste en el orden: después de organizar al pueblo, la habitación se construye conforme a instrucciones. El capítulo apoya que el orden sirve al propósito de la morada, aunque la afirmación general “sin orden no hay habitación” es una aplicación de Eric y no una fórmula literal de Shemot 25.
 
+## La cortina y una conexión con el árbol: lectura teológica de la segunda clase
+
+La segunda clase de Eric enlaza la separación del santuario con Bereshit 3 y con Romanos 7. Su observación central es que el engaño consiste en confundir el árbol cuyo fruto trae muerte con el árbol de la vida; desde allí propone leer la obra del Mesías como destrucción del pecado y recuperación del acercamiento a יהוה. La conexión puede funcionar como lectura canónica posterior, pero no debe presentarse como si Shemot 25:31-40 afirmara directamente todo ese desarrollo. En el capítulo que tenemos delante, la **פרכת** (_paroket_) todavía es una cortina que separa espacios; “velo” es una equivalencia **aproximada**, útil si se explica su función espacial, no una prueba autónoma sobre Bereshit 3.
+
+La clase también advierte contra poner en boca de יהוה una orden que el texto no pronunció. Ese principio sí armoniza con 25:9 y 25:40: el santuario se ejecuta conforme al modelo mostrado, no conforme a una asociación libre. Por eso la lectura del árbol debe mantenerse como una inferencia teológica calificada. El texto de Shemot aporta el lenguaje de acceso regulado, testimonio y presencia; Bereshit y los escritos apostólicos deben aportar sus propios argumentos.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal                        | Fuerza contextual                          | Equivalencia                                                             |
@@ -79,12 +87,12 @@ El cierre vuelve al principio de obediencia: «וראה ועשה בתבניתם 
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad   | Observación concreta de la clase                                                                                                       | Tratamiento en esta nota                                                                                                    |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 25:1-7   | Eric presenta la _terumah_ como una porción de lo recibido que se eleva a un uso santo y recalca que nace del corazón.                 | Apoyo textual y aclaración léxica: es una contribución voluntaria; “exaltación” se marca como pedagogía.                    |
-| 25:8-9   | La clase enseña que, una vez ordenado el pueblo, יהוה prepara su lugar para habitar en medio de ellos y que el diseño debe respetarse. | Apoyo textual: se citan _miqdash_, _shakan_ y _tavnit_; se califica la aplicación general sobre el orden.                   |
-| 25:10-22 | Eric distingue el arca, la cubierta y los querubines, y relaciona la cubierta con reconciliación y encuentro.                          | Apoyo textual y calificación: el capítulo afirma encuentro y palabra; los desarrollos rituales se dejan para otros pasajes. |
-| 25:23-40 | La clase identifica mesa y menorah como elementos del santuario y advierte que sus detalles no deben explicarse sin suficiente base.   | Apoyo textual: se sigue la secuencia y se evita asignar significados no dichos a cada detalle.                              |
+| Unidad   | Observación concreta de la clase                                                                                                                                        | Tratamiento en esta nota                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 25:1-7   | Eric presenta la _terumah_ como una porción de lo recibido que se eleva a un uso santo y recalca que nace del corazón.                                                  | Apoyo textual y aclaración léxica: es una contribución voluntaria; “exaltación” se marca como pedagogía.                       |
+| 25:8-9   | La clase enseña que, una vez ordenado el pueblo, יהוה prepara su lugar para habitar en medio de ellos y que el diseño debe respetarse.                                  | Apoyo textual: se citan _miqdash_, _shakan_ y _tavnit_; se califica la aplicación general sobre el orden.                      |
+| 25:10-22 | Eric distingue el arca, la cubierta y los querubines, y relaciona la cubierta con reconciliación y encuentro.                                                           | Apoyo textual y calificación: el capítulo afirma encuentro y palabra; los desarrollos rituales se dejan para otros pasajes.    |
+| 25:23-40 | La clase identifica mesa y menorah como elementos del santuario, relaciona la cortina con el acceso y conecta teológicamente el árbol de la vida con la reconciliación. | Apoyo textual para mesa, menorah y separación; la conexión con Bereshit 3 y Romanos 7 queda calificada como lectura posterior. |
 
 ## La presencia prometida sigue siendo presencia regulada
 
@@ -116,4 +124,5 @@ Shemot 25 ordena la respuesta del pueblo alrededor de una iniciativa de יהוה
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Trumah Ex 25:1-27:19 — The Parochet and the Tree of Life Part 1](https://www.youtube.com/watch?v=cls5RxEzxtQ) (`source_id`: `youtube:cls5RxEzxtQ`).
+- Video: [Parashat Trumah Ex 25:1-27:19 — The Parochet and the Tree of Life Part 2](https://www.youtube.com/watch?v=4BXW1nJCLCc) (`source_id`: `youtube:4BXW1nJCLCc`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
