@@ -130,6 +130,14 @@ El cierre vuelve visible la misma lógica. **(περιτομή)**, _peritomē_, 
 
 Por eso la pregunta pública de la clase —qué significa ser judío y qué significa ser creyente— recibe una respuesta sobria. El pasaje no borra la pertenencia histórica ni presenta la Torá como un defecto; sí niega que nombre, enseñanza o señal funcionen como escudo. La alabanza que cuenta procede de Elohim (#romanos_2_29). La observación atribuible de Eric queda así respaldada **textualmente y con alcance limitado**: la identidad debe producir una respuesta íntegra, mientras la discusión completa sobre elección se reserva para la secuencia de Romanos 9–11.
 
+## Mapa consolidado de la enseñanza de Eric
+
+La secuencia de las clases puede seguirse sin convertir sus títulos públicos en citas literales. En #romanos_2_1-5, la sesión sobre teshuváh observa que la bondad, la paciencia y la tolerancia de Elohim apuntan al retorno; el texto apoya esa dirección, pero también advierte que la dureza puede despreciarla. En #romanos_2_6-16, la exposición sobre la Torá escrita en el corazón insiste en que oír no equivale a hacer y que la conciencia testifica ante un juicio futuro. Esta observación recibe apoyo textual, con la cautela de que «corazón» no significa autonomía moral.
+
+En #romanos_2_17-24, Eric confronta al maestro que enseña pero transgrede y relaciona esa incoherencia con la deshonra del Nombre. Romanos dirige la acusación al interlocutor que presume de la Torá, no a un pueblo presentado como caricatura; por eso la aplicación es una autocrítica cualificada. En #romanos_2_25-29, la clase sobre elección y la sesión «¿Qué es ser judío? ¿Qué es ser creyente?» llevan la atención de la señal externa a la circuncisión del corazón en el Rúaj. El texto respalda que la señal no funciona como escudo, pero no permite convertir este capítulo en una teoría exhaustiva de predestinación.
+
+La palabra **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o paciencia bajo presión; aunque no es el término principal de #romanos_2, ayuda a distinguir la paciencia divina de la perseverancia humana. Su uso aquí es **pedagógico y aproximado**, no una afirmación de que Pablo emplee la forma en cada versículo. En cambio, **(ἀλήθεια)**, _alētheia_, significa verdad o realidad manifiesta; en #romanos_2:2 califica el juicio de Elohim. «Verdad» es una glosa **directa**, mientras aplicarla a toda teoría doctrinal posterior sería **inferencial**. Estas distinciones conservan el hilo de Eric: retorno, coherencia y responsabilidad, siempre medidos por la perícopa y por la continuación de Romanos 3.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis griega de #romanos_2_4, #romanos_2_13 y #romanos_2_29 y la relación de sus términos con las aproximaciones hebreas de la tabla.
