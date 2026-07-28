@@ -105,9 +105,17 @@ El capítulo no termina en una experiencia privada de Aharón. TTH traduce 8:33-
 
 Así, «manos llenas» no debe separarse del límite espacial, temporal y verbal de la investidura. Los sacerdotes permanecen en la entrada, esperan siete días y guardan la instrucción; la provisión para servir incluye también disciplina y dependencia. Como conexión con Yehoshua, la clase puede proponer una analogía de mediación autorizada, pero debe llamarla pedagógica: Vaikra 8 sigue describiendo la consagración de Aharón y sus hijos dentro del Mishkán.
 
+## La ofrenda de paz: comunión con límites — Vaikra 7:11–21
+
+Vaikra 7 no deja la ofrenda de paz en una imagen vaga de comunión. El OE dice: «Y esta es la ley del sacrificio de las ofrendas de paz que ofrecerá a יהוה» (7:11); el TTH conserva la categoría y distingue acción de gracias, voto y ofrenda voluntaria (7:12–16). **(שלמים)**, _shelamim_, es la forma plural relacionada con שלם, «estar completo, íntegro o en paz»; aquí nombra una ofrenda de bienestar o comunión. «Reconciliación» es una equivalencia **aproximada**, porque el pasaje también regula gratitud, voto, voluntariedad y el tiempo de consumo.
+
+La carne de acción de gracias debe comerse el mismo día, mientras la de voto o voluntaria puede comerse al día siguiente (7:15–16). **(אכל)**, _ajal_, significa comer; en este contexto su fuerza no es meramente nutritiva, sino una participación sometida a un plazo santo. «Compartir sin límite» sería una aplicación **pedagógica defectuosa**: la comunión se recibe dentro de las condiciones que יהוה establece. Si se deja hasta el tercer día, es «cosa abominable» y no será aceptada (7:18). **(פגל)**, _pigal_, significa ser rechazado o considerado impuro; su equivalencia «corrompido» es **aproximada**, y aquí señala que el retraso invalida la ofrenda, no que toda comida tardía tenga ese estatuto.
+
+El cierre prohíbe comer sangre y grasa reservada (7:25–27). **(כרת)**, _karet_, significa cortar o ser cortado; en «será cortada aquella persona de sus pueblos» su fuerza contextual es una sanción de separación del pueblo, no una explicación automática de cada forma de muerte. Eric acierta al presentar las ofrendas como categorías diferenciadas y como servicio recibido, pero el capítulo impide convertir «manos llenas» en apropiación sin límites: la provisión sacerdotal y la mesa comunitaria permanecen bajo la palabra.
+
 ## Conclusión
 
-Tzav enseña que la santidad del servicio no depende de entusiasmo sin forma. יהוה ordena el fuego, las porciones, la restitución y la investidura; los sacerdotes sirven porque han sido instruidos y apartados para una tarea concreta. Eric acierta al llamar la atención sobre la competencia recibida y sobre la diferencia entre sacrificios, siempre que _asham_, _milluim_ y las conexiones mesiánicas no sean forzados más allá de la perícopa.
+Tzav enseña que la santidad del servicio no depende de entusiasmo sin forma. יהוה ordena el fuego, las porciones, la restitución, la mesa compartida y la investidura; los sacerdotes sirven porque han sido instruidos y apartados para una tarea concreta. Eric acierta al llamar la atención sobre la competencia recibida y sobre la diferencia entre sacrificios, siempre que _asham_, _shelamim_, _milluim_ y las conexiones mesiánicas no sean forzados más allá de la perícopa.
 
 ## Créditos
 

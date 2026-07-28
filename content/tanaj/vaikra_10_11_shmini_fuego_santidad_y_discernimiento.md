@@ -110,9 +110,17 @@ En 11:37–38 la semilla para sembrar no queda impura de la misma manera que el 
 | El fuego extraño puede advertir contra el celo que reemplaza la obediencia.                    | Aplicación pedagógica bien anclada, pero no definición exhaustiva del episodio.                               |
 | Las leyes de comida enseñan discernimiento y santidad práctica.                                | El texto sí vincula las distinciones con «sean santos»; las alegorías particulares requieren cautela.         |
 
+## No todo contacto produce el mismo estado — Vayikra 11:24–40
+
+La perícopa continúa distinguiendo entre comer y tocar. El TTH declara que quien toque el cadáver de ciertos animales «será impuro hasta la tarde» (11:24–25). **(טמא)**, _tame_, significa estar impuro o no apto para la categoría ritual; aquí su fuerza contextual incluye un estado temporal que termina al llegar la tarde y después de lavar la ropa. «Contaminación moral permanente» es una equivalencia **pedagógica incorrecta**. El capítulo regula estados y respuestas, no una condena del valor humano.
+
+En 11:29 aparecen los animales que «serán impuros entre los animales que se mueven sobre la tierra». **(שרץ)**, _sherets_, significa criatura que se mueve o pulula; «reptil» es una equivalencia **aproximada**, porque el término agrupa más que una clasificación zoológica moderna. El recipiente de barro que recibe un cadáver debe quebrarse (11:33), mientras una fuente permanece limpia si no hay contacto con el cadáver. **(נגע)**, _naga_, significa tocar o golpear; en esta secuencia describe contacto ritual con consecuencias concretas. La observación de Eric sobre discernir gana precisión cuando no transforma cada regla en un símbolo arbitrario.
+
+El cierre de la unidad recuerda que la impureza también puede afectar la semilla destinada a la siembra (11:37–38). La santidad se despliega en cuerpos, alimentos, recipientes y agricultura; no queda confinada a la emoción del culto. Por eso el llamado «sean santos» debe leerse junto con las instrucciones que lo hacen visible: el texto pide distinguir, lavar, esperar, quebrar o conservar según cada caso.
+
 ## Conclusión
 
-Vayikra 10–11 une juicio, duelo, enseñanza, mesa y memoria del éxodo. La pregunta no es si el servidor parece fervoroso, sino si se acerca conforme a la palabra de יהוה; no es si la santidad queda en una emoción interior, sino cómo el pueblo distingue, come y vive. Eric conserva el llamado a un servicio santo, y el texto lo afina: la cercanía necesita mandato, el duelo necesita discernimiento y la santidad recibida se reconoce en obediencia concreta.
+Vayikra 10–11 une juicio, duelo, enseñanza, mesa, contacto y memoria del éxodo. La pregunta no es si el servidor parece fervoroso, sino si se acerca conforme a la palabra de יהוה; no es si la santidad queda en una emoción interior, sino cómo el pueblo distingue, come, toca y vive. Eric conserva el llamado a un servicio santo, y el texto lo afina: la cercanía necesita mandato, el duelo necesita discernimiento, la impureza tiene estados y remedios definidos, y la santidad recibida se reconoce en obediencia concreta.
 
 ## Créditos
 
