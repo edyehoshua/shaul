@@ -115,6 +115,14 @@ El cierre en 28:1–4 es decisivo porque Yitsjaq ya no habla desde la sospecha d
 
 Toldot no enseña que la astucia humana produzca la promesa. La palabra llega antes del nacimiento, la primogenitura es despreciada por apetito, la preferencia de Yitsjaq se liga a la caza y la bendición se disputa dentro de una casa herida. El cierre, sin embargo, vuelve a la promesa de Avraham y muestra que יהוה puede sostener su propósito a través de decisiones humanas sin llamar bueno al engaño. La elección debe escucharse y obedecerse; no puede ser reemplazada por apariencia, favoritismo o transacción.
 
+## Evaluación final: promesa, responsabilidad y bendición
+
+El recorrido textual conserva tres momentos que la exposición de Eric mantiene unidos, pero que no deben confundirse. Primero, Rivqah consulta porque la agitación de los hijos la lleva a יהוה; **(ויאמר יהוה לה)**, _vayomer YHWH lah_, «y יהוה le dijo», introduce una palabra recibida antes de toda preferencia familiar. Segundo, el relato muestra decisiones concretas: Esav vende la primogenitura, Yitsjaq ama por la caza, y Yaakov participa en un disfraz. Tercero, Yitsjaq pronuncia sobre Yaakov **(ואל שדי יברך אתך)**, _ve-El Shaddai yevarekh etkha_, «y El Shaddai te bendiga», y enlaza la bendición con la de Avraham. La promesa precede a las maniobras y no las convierte en modelo.
+
+**(בחר)**, _bajar_, significa escoger o elegir; en el relato de Bereshit 25 la forma no aparece como una orden para que el lector apruebe el engaño, sino como el marco oracular que anuncia la inversión entre los hermanos. **(ברכה)**, _berajah_, significa bendición; aquí su fuerza contextual incluye descendencia, tierra y continuidad de pacto. «Éxito» sería una equivalencia **pedagógica e inexacta**, porque estrecha el don a ventaja individual. La observación de Eric sobre no sustituir la elección por apariencia recibe apoyo en la secuencia; la evaluación bíblica debe añadir que la casa sufre por tratar la palabra como objeto de maniobra.
+
+El OE de 27:33 conserva el temblor de Yitsjaq: **גם ברוך יהיה**, «también bendito será». El TTH localiza en el mismo cierre la transmisión de **«la bendición de Abraham»** (#bereshit_28_4). Así, la bendición no queda validada por la calidad moral de cada acto previo, pero tampoco absuelve el procedimiento. Esta distinción preserva la observación de la clase y protege el texto de dos reducciones: ni la astucia fabrica la promesa ni la promesa elimina responsabilidad.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

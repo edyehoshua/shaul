@@ -134,6 +134,14 @@ Finalmente, #devarim_11_22-25 une amor, camino y adhesión. **(דבק)**, _davaq
 
 Éqev enseña a recordar para no apropiarse de lo recibido. La obediencia no desaparece: escuchar, guardar, amar y andar con יהוה son la forma visible de una relación de pacto. Pero el pueblo debe recordar que la liberación, la fuerza, la herencia y el cumplimiento de la palabra proceden de יהוה. Así, la memoria protege la obediencia del orgullo y la convierte en dependencia agradecida.
 
+## Evaluación final: escuchar sin convertir la promesa en salario
+
+La secuencia de la parashá permite precisar el punto que Eric repite. En 7:6–11, la elección se atribuye al amor y al juramento; en 7:12, la respuesta humana es escuchar, guardar y hacer; en 8:2, el desierto revela el corazón; y en 9:4–6, la entrada se niega como pago de una justicia propia. No son frases intercambiables. **(שמע)**, _shama_, normalmente significa oír, escuchar o atender; aquí adquiere fuerza de responder a la palabra. **(שמר)**, _shamar_, significa guardar, vigilar o custodiar; en esta construcción implica observancia, no solo memoria. **(עשה)**, _asah_, significa hacer o realizar; su presencia impide reducir el pacto a una confesión verbal. «Mérito» es una equivalencia **pedagógica**, no el sentido de ninguna de esas formas.
+
+El OE de 8:18 dice **וזכרת את יהוה אלהיך כי הוא הנתן לך כח לעשות חיל**, «y recordarás a יהוה tu Elohim, porque él es quien te da fuerza para hacer virtud». El TTH local conserva la tensión entre «mi fuerza» y la fuerza que יהוה da. **(כח)**, _koaj_, significa fuerza o capacidad; **(חיל)**, _jail_, puede significar fuerza, capacidad, riqueza o ejército. En contexto, la traducción exacta de la capacidad producida queda discutida, pero la función argumental es segura: Israel no debe atribuir al poder de su mano lo que recibe dentro del camino, la tierra y el pacto. «Prosperidad» sería una equivalencia **aproximada y demasiado estrecha**.
+
+La clase también relaciona libertad con andar y adherirse a יהוה. Devarim 11:22 habla de amar, andar en sus caminos y **(דבק)**, _davaq_, «pegarse, adherirse o permanecer unido». «Comunión» es una equivalencia **pedagógica**, no una traducción literal. La observación es válida como aplicación si permanece bajo el orden del texto: la dependencia no cancela la acción, y la obediencia no compra al Dador.
+
 ## Ver también
 
 - [[bereshit_12_llamado_promesa_y_bendicion|Bereshit 12: llamado, promesa y bendición]]
