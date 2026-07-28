@@ -114,6 +114,16 @@ El expositor propone sustituir sistemáticamente «espíritu» por «mente», «
 | **(συμμέτοχα)**    | symmetocha      | copartícipes                                    | Compuesto griego comentado en #ephesians_3_6                    | No imponer «padecimientos» como su único sentido sin revisar sus usos y el contexto inmediato.                 |
 | **(רוח)**          | rúaj            | rúaj; viento, aliento o espíritu según contexto | Forma hebrea presente en #ephesians_3_5 y #corinthians1_2_10-16 | No reducirla automáticamente a «mente» ni a una definición única fuera de cada construcción.                   |
 
+## Mapa de la enseñanza de Eric
+
+| Punto de enseñanza tomado de Eric | Versos seguidos | Evaluación en esta nota |
+| --- | --- | --- |
+| Pablo es prisionero del Mesías a favor de los gentiles y su prisión se entiende desde el testimonio. | #ephesians_3_1-2 | Textualmente apoyado; la conexión adicional con los prisioneros de esperanza de Zacarías se conserva como analogía pendiente. |
+| La gracia recibida por Pablo es una administración o servicio, no una posesión privada; la clase la acerca a la sustentabilidad. | #ephesians_3_2 y #ephesians_3_7 | El encargo y el servicio están apoyados; «sustentabilidad» se clasifica como aplicación pedagógica, no como equivalencia léxica exacta. |
+| El misterio fue revelado y comunicado por escrito para que los lectores lo comprendan. | #ephesians_3_3-5 | Textualmente apoyado en revelación, lectura y anuncio; no se extiende automáticamente el mismo estatus a toda enseñanza posterior. |
+| Los gentiles participan de la herencia, del cuerpo y de la promesa en el Mesías, y no quedan en un segundo cuerpo. | #ephesians_3_6-7 | «Un cuerpo» y las tres participaciones están explícitos; la conclusión eclesiológica más amplia se presenta como inferencia cualificada. |
+| Rúaj se relaciona con conocimiento y mente del Mesías y debe someterse a la Escritura. | #ephesians_3_5; #corinthians1_2_10-16 | La relación temática se registra; la sustitución de «espíritu» por «mente» queda pendiente de verificación filológica. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la variante manuscrita mencionada por la clase para #ephesians_3_1 y su supuesto verbo de representación con una edición crítica y el aparato correspondiente.
