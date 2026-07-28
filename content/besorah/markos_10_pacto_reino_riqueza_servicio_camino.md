@@ -112,6 +112,12 @@ A la salida de Ierijó, BarTimai no acepta el silenciamiento de la multitud. Su 
 
 Cuando TTH dice que su **(אמונה)** lo ha salvado, BarTimai ve inmediatamente y sigue a Yehoshua por el camino. No queda como espectador de un milagro ni convierte la sanidad en prestigio. Después del anuncio de la cruz y la enseñanza sobre servir, seguir por el camino es la respuesta apropiada a la vista recibida.
 
+## Prueba del argumento en el orden del capítulo
+
+La progresión de Marcos 10 impide aislar la discusión económica de la entrega del Mesías. Primero, Yehoshua vuelve de la concesión de Moshéh al propósito creador y nombra una sola carne (10:1–12). Luego recibe a quienes no tienen rango (10:13–16). En el encuentro siguiente, el verbo **ἀγαπάω** (*agapaō*, amar) aparece en la narración antes del mandato al hombre rico (10:21): el texto combina amor y una demanda que descubre su apego, no una condena automática de toda posesión. Después la dificultad se formula para quienes confían en riquezas (10:24–27), no como una técnica de salvación por pobreza.
+
+El capítulo interpreta su propia salida: la promesa de casas y familia incluye persecución (10:28–31); inmediatamente el **υἱὸς τοῦ ἀνθρώπου** (*huios tou anthrōpou*, Hijo del Hombre) anuncia entrega, y **λύτρον** (*lytron*, rescate o precio de liberación) describe su vida dada para muchos (10:32–45). Finalmente, BarTimai pide ver, recibe la respuesta vinculada con **πίστις** (*pistis*, fe, confianza o fidelidad según contexto) y sigue por el camino (10:46–52). La observación de Eric queda así respaldada en su forma más segura: el reino no se controla mediante bienes ni posiciones; la vista recibida se verifica en seguimiento. El texto no permite convertir el caso del hombre rico en una biografía de delitos que Marcos no narra, ni **λύτρον** en una teoría completa de la expiación sin argumentos adicionales.
+
 ## Mapa de la enseñanza de Eric
 
 - **Marcos 10:1-12 — divorcio y creación:** la parte 32 sitúa el debate de escuelas y la restricción a la inmoralidad sexual; la nota sostiene el retorno a Bereshit y marca el alcance pastoral extendido como elaboración.

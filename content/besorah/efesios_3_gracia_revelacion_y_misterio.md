@@ -135,6 +135,12 @@ El expositor propone sustituir sistemáticamente «espíritu» por «mente», «
 | **(συμμέτοχα)**    | symmetocha      | copartícipes                                    | Compuesto griego comentado en #ephesians_3_6                    | No imponer «padecimientos» como su único sentido sin revisar sus usos y el contexto inmediato.                 |
 | **(רוח)**          | rúaj            | rúaj; viento, aliento o espíritu según contexto | Forma hebrea presente en #ephesians_3_5 y #corinthians1_2_10-16 | No reducirla automáticamente a «mente» ni a una definición única fuera de cada construcción.                   |
 
+## Prueba del argumento en el orden del capítulo
+
+El capítulo no deja el «misterio» como una idea abstracta. El movimiento textual es verificable en la hoja local: (1) Pablo está preso y recibe una **οἰκονομία** (*oikonomía*, administración o encargo) para los gentiles (3:1–2); (2) ese encargo se apoya en una revelación comunicada y legible (3:3–5); (3) el contenido se define con tres términos de participación —**συνκληρονόμα** (*synklēronoma*, coherederos), **σύσσωμα** (*syssōma*, del mismo cuerpo) y **συμμέτοχα** (*symmetocha*, copartícipes)— en 3:6; y (4) la gracia vuelve a describirse como servicio concedido por el poder de Elohim (3:7–13). La oración de 3:14–21 no cambia de tema: pide que ese pueblo común sea fortalecido, habitado por el Mesías y capaz de comprender el amor «con todos los santos».
+
+Esta secuencia prueba una afirmación limitada de la clase: la gracia recibida por Pablo no es una posesión privada, sino un encargo cuyo fruto anunciado es la participación común en el Mesías. No prueba, sin más, que **οἰκονομία** signifique «sustentabilidad», ni que **רוח** (*rúaj*, viento, aliento o espíritu según contexto) pueda traducirse siempre como «mente». En 3:5 la forma hebrea del Delitzsch **ברוח** aparece dentro de la revelación a apóstoles y profetas; en 1 Corintios 2:10–16 la misma palabra pertenece a otro argumento sobre lo que Elohim revela y sobre la «mente del Mesías». La relación temática es atendible, pero cada construcción conserva su contexto y su equivalencia debe permanecer calificada.
+
 ## Mapa de la enseñanza de Eric
 
 | Punto de enseñanza tomado de Eric                                                                                                | Versos seguidos                       | Evaluación en esta nota                                                                                                                  |
