@@ -66,6 +66,14 @@ Al despertar, Yaakov responde con temor reverente y levanta la piedra. **(מצב
 
 El voto comienza con una condición: «si Elohim está conmigo». La forma narrativa deja ver a un hombre que responde desde el peligro, no una fórmula para comprar bendición. **(נדר)**, _neder_, es el sustantivo «voto»; su fuerza contextual es compromiso pronunciado delante de Elohim. **(לחם)**, _lejem_, significa pan o alimento, y **(בגד)**, _beged_, vestido o ropa: las peticiones concretas muestran la precariedad del viajero. El diezmo aparece al final como respuesta comprometida. «Impuesto universal» sería inexacto; el capítulo registra el voto de Yaakov dentro de esta escena.
 
+## La promesa se prueba en la respuesta de Yaakov
+
+El recorrido de #bereshit_28_10-22 no termina en la visión. El OE dice **ויצא יעקב מבאר שבע וילך חרנה** («Y salió Yaakov de Beersheva, y fue a Jarán»), y después conserva **והנה אנכי עמך ושמרתיך בכל אשר תלך** («he aquí, Yo estoy contigo y te guardaré en todo lo que vayas»). TTH mantiene el contraste entre salida vulnerable y compañía prometida. Eric relaciona «y salió» con un camino que no queda fuera de la mirada de Elohim; el texto apoya esa observación cuando une el verbo de partida con la promesa de guardar y hacer volver, pero no promete un trayecto sin aflicción.
+
+En 28:11 Yaakov llega a un lugar y duerme allí; **ויפגע**, _vayifga_, procede de פגע, «encontrar, encontrarse o alcanzar». Su fuerza contextual es que Yaakov llega al sitio del encuentro narrativo, no que produzca una experiencia espiritual por técnica. **ויחלם**, _vayajalom_, forma verbal de חלם, significa «soñó»; aquí introduce la visión recibida mientras duerme. «Subió al cielo» sería una equivalencia inexacta para Yaakov: el texto dice que los mensajeros subían y bajaban por la escalera, mientras la palabra divina viene de יהוה.
+
+La respuesta de Yaakov también debe leerse sin reducir el voto a una compra. El OE dice **וידר יעקב נדר לאמר אם יהיה אלהים עמדי** («Y Yaakov hizo un voto diciendo: si Elohim está conmigo») y TTH conserva la condición y la petición de pan, vestido y retorno en paz. **יהיה**, _yihyeh_, es una forma de היה, «ser o estar»; en la condición del voto señala presencia prometida, no una duda sobre la existencia de Elohim. **ושבתי**, _veshavti_, de שוב, «volver», expresa el retorno pedido dentro de la promesa. La lectura de Eric sobre el diezmo puede conservarse como observación del cierre del voto; no debe desplazar el orden textual: salida, palabra, preservación, regreso y respuesta.
+
 ## Evaluación de la enseñanza de Eric
 
 | Unidad textual | Observación de Eric                                                                                                               | Evaluación textual                                                                                                         |
