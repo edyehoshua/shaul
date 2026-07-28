@@ -1,14 +1,18 @@
 ---
-title: "Tehilim 32: lectura, oración y alabanza"
-description: "Nota de lectura de Tehilim 32, organizada a partir de una clase y del texto hebreo local."
-date: 2026-07-27
+title: "Tehilim 32: confesión, perdón y dirección consciente"
+description: "Estudio canónico de Tehilim 32 sobre la felicidad del pecado cubierto, el costo de callar, la confesión que recibe perdón y la dirección de יהוה."
+date: 2026-07-28
 tags:
   - tehilim
   - tehilim_32
-  - himnos
-  - oracion
+  - confesión
+  - perdón
+  - conciencia
 references:
-  - "#tehilim_32_1"
+  - "#tehilim_32_1-2"
+  - "#tehilim_32_3-5"
+  - "#tehilim_32_6-7"
+  - "#tehilim_32_8-10"
   - "#tehilim_32_11"
 sources:
   - "https://www.youtube.com/watch?v=UoOufP7bDkA"
@@ -20,36 +24,102 @@ translation: "[OE]"
 
 # Tesis
 
-Tehilim 32 debe leerse como una unidad poética y de oración. La clase asociada ofrece una guía de estudio para el capítulo; esta nota conserva el texto hebreo local como punto de partida y distingue la exposición oral de lo que el salmo afirma explícitamente.
+Tehilim 32 comienza con la felicidad del ser humano cuya rebelión es levantada, cuyo pecado es cubierto y cuya iniquidad no es contada porque no hay engaño en su espíritu. Eric lee esa apertura como una conciencia del gozo divino cuando un rebelde deja de ocultarse y es restaurado. Luego sigue el contraste del salmo: callar consume los huesos y convierte el interior en un rugido enfermo; confesar recibe perdón; y el perdonado es enseñado a caminar, no a vivir como un animal que necesita freno. La conclusión llama a alegrarse en יהוה y a cantar a los rectos de corazón.
 
 ## Alcance de la nota
 
-Esta nota canónica reúne la fuente disponible para Tehilim 32. La transcripción es automática, puede contener errores y no se emplea como cita literal. Las afirmaciones históricas, léxicas o doctrinales que excedan el texto del salmo requieren comprobación independiente.
+Se recorren los once versos en orden, explicando observaciones concretas de la clase de Eric de Jesús Rodríguez Mendoza y probándolas contra el texto hebreo local. La transcripción automática sirve para localizar la enseñanza, no se presenta como cita literal. Se normaliza el hebreo sin barras de segmentación. Las distinciones entre pecado, iniquidad y rebelión se presentan como el esquema pedagógico de Eric; el campo semántico de los términos puede solaparse en otros contextos.
+
+## Felicidad: rebelión levantada, pecado cubierto y espíritu sin engaño — Tehilim 32:1-2
+
+El encabezado **לדוד משכיל** puede entenderse como «de David, una composición de instrucción». Eric retoma su convención de leer a David y al amado: el personaje histórico permite entrar en el relato, pero la enseñanza busca formar conciencia y revelar al Mesías. La atribución davídica debe mantenerse; la extensión al amado es la lectura teológica de la clase.
+
+Los vv. 1-2 repiten **אשרי**, _ashrei_, una exclamación de felicidad o bienaventuranza. Eric se detiene en la forma de la frase y explica que no se trata de felicidad autónoma del pecador, sino de la felicidad que procede de יהוה cuando la rebelión es levantada y el pecado es cubierto. **נשוי פשע** usa una forma relacionada con llevar o levantar: la rebelión es quitada o cargada. **כסוי חטאה** dice que el pecado está cubierto. En el uso pastoral de Eric, «cubierto» significa protegido respecto del pecado, no que el mal sea ocultado para permitir que continúe.
+
+El v. 2 añade que יהוה no cuenta la iniquidad y que no hay engaño en el espíritu. Eric relaciona esta línea con la alegría en los cielos por el pecador que se arrepiente y con las parábolas de la oveja, la moneda y el hijo perdido. Esa relación es canónica e intertextual; el salmo mismo afirma la felicidad del perdón y la ausencia de engaño interior. **רמיה** (_remiyyah_) es engaño, falsedad o traición; el texto no llama feliz a quien simplemente aprende a ocultar mejor su culpa.
+
+## Callar enferma; confesar abre el camino — Tehilim 32:3-5
+
+En los vv. 3-4 el orante recuerda: «cuando callé, se envejecieron mis huesos» y «día y noche se hizo pesada sobre mí tu mano; mi verdor se transformó en sequedades de verano». Eric interpreta el silencio como la negativa a confesar lo que debe ser reconocido. No presenta la aflicción como una fórmula médica universal, sino como la imagen del salmo: la culpa retenida se vuelve presión continua, y el rugido expresa la condición de una persona que se siente en peligro y no habla.
+
+Eric explica que un animal herido puede rugir, y usa la imagen del león para describir una vida que transmite exteriormente irritación mientras guarda por dentro lo que necesita confesar. El texto dice **בשאגתי**, «en mi rugido», y relaciona el desgaste con huesos, mano pesada y sequedad. La conexión con estrés, enfermedad de la médula o síntomas modernos es ilustrativa y no una afirmación médica del verso.
+
+El v. 5 cambia la dirección: «mi pecado te hice conocer, y no cubrí mi iniquidad; dije: confesaré mis rebeliones a יהוה, y tú levantaste la iniquidad de mi pecado». Eric insiste en que confesar no es usar palabras para negociar con Dios, sino dejar de justificar y aceptar la culpa. La secuencia textual es nítida: reconocer, no cubrir delante de יהוה, confesar y recibir el levantamiento de la iniquidad.
+
+La clase distingue tres términos. **חטאה** (_jattah_) se explica como pecado, hacer lo que no debía hacerse, incluso por error o ignorancia; **עון** (_avon_) se usa para la iniquidad reconocida que persiste cuando la persona se niega a corregir; y **פשע** (_pesha_) se desarrolla como rebelión o transgresión consciente. La distinción es el mapa pedagógico de Eric, no una regla para imponer una separación rígida en todos los pasajes hebreos. El v. 5 sí contiene las tres palabras en una progresión moral y termina en el perdón efectivo de יהוה.
+
+## Oración, refugio y cánticos de liberación — Tehilim 32:6-7
+
+«Por esto orará a ti todo חסיד en el tiempo de hallarte» (#tehilim_32_6). Eric entiende que la confesión no produce aislamiento: enseña a los fieles a acudir a יהוה antes de que el desbordamiento de muchas aguas los alcance. La imagen del agua es una metáfora de peligro; el salmo no promete que quien confiesa jamás sufrirá inundación, sino que declara que las aguas no alcanzarán a quien está escondido en יהוה.
+
+El v. 7 contiene cuatro imágenes: «tú eres mi escondite», «me guardarás de la angustia», «me rodearás con cánticos de liberación». Eric conecta este refugio con los otros salmos de David, pero aquí el punto particular es que la persona que dejó de esconder su pecado puede ser escondida por יהוה. **סתר** (_seter_) significa escondite o refugio secreto; la relación entre ocultar el pecado y ser ocultado por gracia es una inversión pastoral de Eric, sostenida por el movimiento del salmo y no por una identidad lexical entre ambos verbos.
+
+## Ser enseñado, no vivir como caballo sin entendimiento — Tehilim 32:8-10
+
+En el v. 8 habla יהוה: «te haré entender y te enseñaré el camino en que andarás; te aconsejaré, con mi ojo sobre ti». Eric enlaza esta promesa con el propósito de la enseñanza: los signos y la Escritura deben hacer consciente al oyente, no entrar por un oído y salir por el otro. La palabra **אשכילך** (_askilcha_) puede expresar hacer entender o instruir; **דרך** (_derekh_) es camino. La fuerza directa es formación guiada, mientras la aplicación a una comunidad que cultiva conciencia es de la clase.
+
+El v. 9 contrasta al ser humano con caballo o mula sin entendimiento, que necesita freno y brida para acercarse. Eric aplica la imagen a la persona que sólo obedece cuando es forzada. La exhortación no desprecia toda disciplina; pide no convertirse en un animal que sólo puede ser gobernado desde fuera. **בין** (_bin_) significa entender o discernir; la relación entre comprensión, obediencia y libertad es exacta en dirección, aunque el salmo usa una comparación breve y no desarrolla una teoría educativa completa.
+
+El v. 10 resume dos caminos: muchos dolores para el malvado, pero al que confía en יהוה lo rodea el חסד. Eric usa esta línea contra la enseñanza de «pecados generacionales» como destino inevitable. Cita a los hijos de Coré y la responsabilidad personal afirmada por profetas: la persona no queda condenada a repetir el pecado de su padre si abandona esa transgresión. La conexión con otros textos requiere leerlos en contexto, pero el v. 10 sí contrasta al malvado con el que confía; no formula una doctrina genética.
+
+## Alegría de los rectos de corazón — Tehilim 32:11
+
+El final convoca: «alégrense en יהוה y gócense, justos; y canten todos los rectos de corazón». La alegría no es una negación de la culpa anterior: nace de que el pecado fue confesado, la iniquidad levantada, el engaño abandonado y el camino enseñado. **ישרי לב** (_yishrei lev_) significa rectos o íntegros de corazón. Eric llama a esta rectitud una vida consciente y sin fingimiento; el salmo la presenta como la condición del canto final, no como mérito independiente del perdón.
 
 ## Hoja de comparación
 
-| Referencia     | Texto hebreo local (OE)                       | Observación de lectura                                               |
-| -------------- | --------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_32_1  | לדוד משכיל אשרי נשוי פשע כסוי חטאה           | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_32_11 | שמחו ביהוה וגילו צדיקים והרנינו כל ישרי לב | El verso final permite observar el cierre de la composición.         |
+| Unidad           | Texto hebreo local normalizado                          | Movimiento de la enseñanza                                               |
+| ---------------- | ------------------------------------------------------- | ------------------------------------------------------------------------ |
+| #tehilim_32_1-2  | אשרי נשוי פשע כסוי חטאה ... ואין ברוחו רמיה             | Felicidad del perdón y ausencia de engaño interior.                      |
+| #tehilim_32_3-5  | כי החרשתי ... חטאתי אודיעך ... ואתה נשאת עון חטאתי      | El silencio desgasta; la confesión recibe levantamiento de la iniquidad. |
+| #tehilim_32_6-7  | על זאת יתפלל כל חסיד ... אתה סתר לי ... רני פלט תסובבני | Oración, refugio y cánticos de liberación.                               |
+| #tehilim_32_8-10 | אשכילך ואורך בדרך ... אל תהיו כסוס ... חסד יסובבנו      | Instrucción, discernimiento y contraste entre maldad y confianza.        |
+| #tehilim_32_11   | שמחו ביהוה וגילו צדיקים ... הרנינו כל ישרי לב           | Alegría y canto de la comunidad recta.                                   |
 
-## Lectura del capítulo
+## Hoja léxica
 
-El encabezado y la poesía de Tehilim 32 invitan a atender a la voz que habla, a los destinatarios nombrados y al movimiento del poema entre súplica, confianza, memoria, advertencia o alabanza. Antes de convertir una imagen en una conclusión general, conviene seguir sus paralelismos y su lugar dentro de la composición.
+| Forma     | Transliteración | Sentido normal              | Fuerza contextual y relación                                                            |
+| --------- | --------------- | --------------------------- | --------------------------------------------------------------------------------------- |
+| **אשרי**  | _ashrei_        | felicidad, bienaventuranza  | Exclamación por el estado del perdonado; exacta, no autosatisfacción.                   |
+| **נשוי**  | _nasui_         | levantado, llevado, quitado | La rebelión es removida; la aplicación al perdón es exacta en contexto.                 |
+| **כסוי**  | _kasui_         | cubierto                    | Pecado cubierto ante el juicio; «protegido» es paráfrasis de Eric.                      |
+| **רמיה**  | _remiyyah_      | engaño, falsedad            | El espíritu sin doblez; exacto.                                                         |
+| **חטאה**  | _jattah_        | pecado, falta               | Término del salmo para la culpa; la distinción pedagógica de Eric es aproximada.        |
+| **עון**   | _avon_          | iniquidad, culpa torcida    | Levantada por יהוה tras la confesión; la persistencia consciente es aplicación de Eric. |
+| **פשע**   | _pesha_         | rebelión, transgresión      | Rebelión confesada; «desobediencia consciente» es relación contextual.                  |
+| **סתר**   | _seter_         | escondite, refugio secreto  | יהוה es lugar de ocultamiento protector; exacto.                                        |
+| **אשכיל** | _askil_         | hacer entender, instruir    | Enseñanza que cultiva conciencia; exacto con ampliación comunitaria.                    |
+| **חסד**   | _jesed_         | bondad leal, misericordia   | Rodea al que confía; aproximado si se reduce a emoción de consuelo.                     |
 
-La clase titulada en los créditos trabaja este capítulo. Su utilidad aquí es orientar preguntas de estudio; la nota no atribuye al texto bíblico explicaciones que dependan únicamente de una transcripción automática.
+## Mapa de la enseñanza de Eric
+
+| Unidad textual    | Observación concreta de Eric                                                                                                                                           | Prueba frente al texto                                                                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_32_1-2   | La felicidad procede de Dios cuando la rebelión es levantada y el pecado cubierto; la alegría del cielo por el arrepentido ilumina la lectura del amado.               | Bienaventuranza, rebelión, pecado, iniquidad y espíritu sin engaño son explícitos; las parábolas y el Mesías son conexiones canónicas.                    |
+| #tehilim_32_3-5   | Callar enferma y convierte el interior en rugido; confesar significa no justificar la culpa, y Dios levanta la iniquidad. Eric distingue pecado, iniquidad y rebelión. | Silencio, huesos, mano pesada, confesión y levantamiento son textuales; la explicación fisiológica y la separación rígida de términos son pedagógicas.    |
+| #tehilim_32_6-7   | El perdonado ora antes de ser alcanzado por aguas; quien deja de esconder su culpa encuentra en יהוה el escondite y los cánticos de liberación.                        | Oración, muchas aguas, escondite y cánticos aparecen directamente; la inversión pastoral entre esconder culpa y ser escondido es una lectura de la clase. |
+| #tehilim_32_8-9   | La Escritura debe cultivar conciencia; יהוה enseña el camino, y el ser humano no debe vivir como caballo que sólo responde a freno.                                    | Entender, enseñar, camino, ojo, caballo, freno y brida son textuales; la aplicación al orden comunitario es pedagógica.                                   |
+| #tehilim_32_10-11 | No hay destino de pecado generacional que excuse la rebelión; el que confía queda rodeado por חסד y termina cantando con los rectos.                                   | El contraste entre malvado y confiado, חסד y canto es textual; los hijos de Coré y los profetas son apoyo intertextual que debe cotejarse.                |
+
+## Pendiente de verificar
+
+- [ ] Comparar los matices de נשוי, כסוי, חטאה, עון y פשע en los contextos de Torah y profetas.
+- [ ] Cotejar la referencia exacta de los comentarios medievales que Eric menciona para סלה.
+- [ ] Leer junto con Yirmeyahu, Yejezkel y los hijos de Coré los pasajes usados contra una doctrina automática de pecados generacionales.
+- [ ] Distinguir en estudios posteriores la imagen poética de huesos secos y rugido de cualquier afirmación médica.
 
 ## Conclusión
 
-La lectura de Tehilim 32 comienza por su lenguaje poético, su desarrollo completo y su dirección hacia יהוה. El texto local y la fuente de clase quedan disponibles para una revisión posterior más detallada.
+Tehilim 32 no llama feliz a quien oculta mejor su pecado, sino a quien deja que יהוה levante su rebelión, cubra su culpa y forme un espíritu sin engaño. Eric muestra el costo de callar como un cuerpo y una conciencia que se consumen, y el alivio de confesar como una salida de la prisión interior. El perdón no termina en alivio privado: produce aprendizaje, discernimiento, confianza, rechazo de excusas y un canto comunitario de los rectos de corazón.
 
 ## Ver también
 
+- [[tehilim_25_lectura_oracion_y_alabanza|Tehilim 25: aprender los caminos de יהוה]]
+- [[tehilim_31_lectura_oracion_y_alabanza|Tehilim 31: refugio, justicia y libertad]]
 - [[tehilim_1_dos_caminos_torah_y_fruto|Tehilim 1: dos caminos, Torah y fruto]]
-- [[tehilim_2_naciones_rey_ungido_y_refugio|Tehilim 2: naciones, rey ungido y refugio]]
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 32» — <https://www.youtube.com/watch?v=UoOufP7bDkA> — source_id: `youtube:UoOufP7bDkA`.
-- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
+- Video: «Tehilim/Himnos/Salmo Cap 32» — <https://www.youtube.com/watch?v=UoOufP7bDkA> — source_id: `youtube:UoOufP7bDkA`.
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
