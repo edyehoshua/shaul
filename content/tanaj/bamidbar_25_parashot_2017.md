@@ -120,8 +120,6 @@ El TTH de #bamidbar_25_11 conserva: «Pinjás, hijo de Eleazar, hijo de Aharón 
 El versículo siguiente dice en TTH: «Por eso, di: He aquí que le doy mi pacto de paz». **לכן**, _lajen_, «por eso», conecta el pacto con la interpretación precedente; **הנני נתן**, _hineni noten_, «he aquí, doy», presenta la iniciativa de יהוה. La paz es, por tanto, una concesión pactal, no una recompensa que la comunidad pueda reproducir por fuerza propia. La observación de Eric sobre defender la casa y el nombre de Elohim conserva un núcleo exhortativo cuando llama a la fidelidad, pero pierde el límite del texto si convierte el celo reconocido a Pinjas en licencia para violencia privada.
 
 El final del capítulo también debe permanecer visible. TTH traduce #bamidbar_25_18: «porque ellos son hostiles para ustedes con sus engaños, con los que los engañaron en el asunto de Peor». **בנכליהם**, _benakhelehem_, procede de נכל, «actuar con engaño o artificio»; su fuerza contextual recuerda una estrategia concreta asociada con Peor. «Toda influencia impura» es una aplicación pedagógica, no una equivalencia exacta. La perícopa queda así cerrada por memoria y discernimiento: nombra acciones, agentes y conflicto; no autoriza al lector a fabricar adversarios espirituales sin evidencia.
-
-
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
