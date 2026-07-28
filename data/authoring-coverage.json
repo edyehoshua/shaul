@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 818,
-  "pending_videos": 140,
-  "transcript_notes": 393,
+  "covered_videos": 820,
+  "pending_videos": 138,
+  "transcript_notes": 395,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -133,7 +133,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 40,
+      "covered": 39,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
@@ -143,7 +143,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 43,
+      "covered": 44,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
@@ -178,7 +178,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 121,
+      "covered": 123,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
