@@ -113,6 +113,12 @@ Eric presenta la sangre del Mesías como el recurso por el que los lejanos son a
 
 La unidad tampoco es una absorción de un grupo por el otro. Pablo conserva los dos grupos mientras afirma un solo hombre nuevo, un cuerpo y un Rúaj. Esa tensión textual prueba la aplicación de Eric sobre un solo pueblo y corrige cualquier uso del pasaje que convierta la paz en borrado de la historia de Israel o en hostilidad contra los gentiles. Los vv. 19-22 llevan la reconciliación a una casa edificada conjuntamente: la ciudadanía común es relación y responsabilidad compartida, no una consigna de superioridad.
 
+### La enemistad y la ley deben leerse dentro de la perícopa
+
+El punto más delicado de 2:15 es la frase que el Delitzsch vierte como «la ley de los mandamientos y los estatutos». El verbo griego **καταργήσας**, _katargēsas_, significa hacer inoperante, dejar sin efecto o desactivar en el argumento; su forma participial describe una acción atribuida al Mesías en relación con la enemistad. No equivale por sí sola a decir que toda instrucción de Elohim fue abolida, ni permite convertir «ley» en una etiqueta contra Israel. La equivalencia hebrea **(בטלו)**, _bitelo_, «anulando o dejando sin efecto», es la opción del Delitzsch, no una prueba de que el texto griego haya sido traducido desde esa forma.
+
+La sintaxis mantiene tres movimientos unidos: Yehoshua hace de los dos un solo hombre nuevo y hace paz; reconcilia a ambos en un cuerpo con Elohim por medio de la cruz; y anuncia paz a los lejanos y a los cercanos. Por eso la exposición de Eric acierta al resistir una salvación reducida a mérito o privilegio de un solo grupo, pero la aplicación debe permanecer en el alcance de esta perícopa. La «pared» puede aludir a separación social y cultual dentro del conflicto que Pablo está describiendo; fijarla como una sola institución identificable sin examinar el contexto histórico y la sintaxis excede la evidencia de la nota.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual     | Punto concreto tomado de la enseñanza de Eric                                                                                                                                                             | Evaluación en esta nota                                                                                                                                                                            |

@@ -96,6 +96,12 @@ Los dirigentes formulan la pregunta lógica después de la acción del Hejal: «
 
 Eric resalta que la respuesta «no sabemos» no nace de falta de información sino de la conveniencia de no asumir las consecuencias. El texto lo sostiene: los dirigentes deliberan entre las dos respuestas y eligen no comprometerse con ninguna. La negativa de Yehoshua a declarar «con qué poder» no es falta de autoridad; es una respuesta judicial a quienes se niegan a evaluar honestamente el testimonio que ya recibieron. Así se cierra el capítulo: la casa de oración, la higuera y la pregunta por Iojanán convergen en la responsabilidad de reconocer la obra de Dios sin convertir la religión en autoprotección.
 
+## El diseño narrativo evita aislar un versículo
+
+Marcos construye el capítulo como una secuencia de acciones y respuestas, no como una colección de máximas. En 11:1-11, el asnito, la aclamación de «el que viene» y la inspección del Hejal presentan una expectativa real que queda deliberadamente sin resolución al caer la tarde. En 11:12-19, la higuera sin fruto enmarca la intervención en el recinto: la narración hace que el lector compare apariencia y finalidad, pero el texto explica la denuncia por la vocación de casa de oración para todos los pueblos. En 11:20-26, la higuera seca retoma la primera escena y conduce a emunah, petición y perdón. Finalmente, 11:27-33 transforma el asunto en una audiencia sobre autoridad.
+
+Ese orden prueba y limita las aplicaciones de la clase. La esterilidad es una inferencia narrativa razonable porque las dos escenas están entrelazadas, pero no autoriza a despreciar a un pueblo ni a reducir el Hejal a una alegoría individual. Del mismo modo, el mandato sobre la oración no puede separarse de la respuesta sobre el perdón, y la palabra sobre el monte no puede convertirse en una técnica para someter a Elohim. El título **κύριος**, _kyrios_, «Señor», aparece en la pregunta de 11:3 dentro de la entrega del asnito; su relación con **(אדון)**, _adon_, es una equivalencia funcional de la hoja, mientras que su alcance narrativo debe probarse por la aclamación, la acción en el Hejal y la pregunta final, no por el título aislado.
+
 ## Mapa de la enseñanza de Eric
 
 - **Marcos 10:47–11:11 — Nazareno, netzer y entrada:** Eric compara formas griegas relacionadas con Nazaret y propone un nexo con **(נצר)**; la nota conserva la propuesta como analogía pedagógica y deja su demostración filológica pendiente.
