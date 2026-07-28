@@ -23,6 +23,7 @@ sources:
   - "https://www.youtube.com/watch?v=fVAh5QTMH-8"
   - "https://www.youtube.com/watch?v=Y97CMPXJ4cA"
   - "https://www.youtube.com/watch?v=stsUp5v3SXE"
+  - "https://www.youtube.com/watch?v=_4q0WLCdK1c"
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/oe/json/leviticus/17.json"
   - "docs/scriptures/oe/json/leviticus/18.json"
@@ -33,6 +34,7 @@ source_ids:
   - "youtube:fVAh5QTMH-8"
   - "youtube:Y97CMPXJ4cA"
   - "youtube:stsUp5v3SXE"
+  - "youtube:_4q0WLCdK1c"
 translation: "[OE]"
 ---
 
@@ -42,7 +44,7 @@ Vaikra 16–18 une tres movimientos que no deben separarse: יהוה provee una 
 
 ## Alcance de la nota
 
-La nota sigue Vaikra 16, 17 y 18 en orden textual. Reúne cinco videos asignados exclusivamente a la lane Tanaj. La evidencia visible de las clases se conserva como énfasis atribuible, no como cita literal; la argumentación se contrasta con los textos OE y TTH locales. El quinto video aparece además en el inventario de fuentes como transcript insuficiente, por lo que no se le atribuyen observaciones particulares más allá de su título público.
+La nota sigue Vaikra 16, 17 y 18 en orden textual. Reúne seis videos asignados exclusivamente a la lane Tanaj. La evidencia visible de las clases se conserva como énfasis atribuible, no como cita literal; la argumentación se contrasta con los textos OE y TTH locales. La clase «The Ministry of Reconciliation» se concentra explícitamente en el capítulo 16, pero su introducción delimita los capítulos 17 y 18; por eso se integra aquí sin atribuirle una exposición detallada de esos dos capítulos.
 
 ## Hoja de comparación
 
@@ -59,9 +61,9 @@ La nota sigue Vaikra 16, 17 y 18 en orden textual. Reúne cinco videos asignados
 
 ## El día de las expiaciones: acercarse bajo mandato: capítulo 16
 
-El capítulo comienza recordando la muerte de los hijos de Aharón y restringiendo el acceso: el sumo sacerdote no entra “en todo tiempo” detrás de la cortina. En los versículos 7–10, los dos machos cabríos son colocados delante de יהוה y el sorteo diferencia sus funciones; en los versículos 20–22, Aharón confiesa las iniquidades de Israel sobre el animal vivo y éste las lleva al desierto. La secuencia impide convertir el rito en una idea abstracta de perdón: hay lugar, mediador, animales, confesión y envío, todos dentro de una orden recibida.
+El capítulo comienza recordando la muerte de los hijos de Aharón y restringiendo el acceso: el sumo sacerdote no entra “en todo tiempo” detrás de la cortina. La clase observa que la expresión hebrea no debe aplanarse en «santuario» como si designara todo el complejo: **(קדש)**, _qodesh_, es “santidad” o “lugar santo”, y su fuerza aquí apunta al espacio interior cuya entrada queda limitada. También distingue **(פרכת)**, _paroket_, la separación tejida, de la totalidad del tabernáculo, y **(כפרת)**, _kaporet_, la cubierta del arca donde se manifiesta la presencia en la nube. “Propiciatorio” es una traducción tradicional y **aproximada**; no equivale por sí sola a toda la teología de la expiación. En los versículos 7–10, los dos machos cabríos son colocados delante de יהוה y el sorteo diferencia sus funciones; en los versículos 20–22, Aharón confiesa las iniquidades de Israel sobre el animal vivo y éste las lleva al desierto. La secuencia impide convertir el rito en una idea abstracta de perdón: hay lugar, mediador, animales, confesión y envío, todos dentro de una orden recibida.
 
-Eric presenta el lenguaje de reconciliación como un ministerio central de Ajarey Mot. “Reconciliación” comunica el resultado relacional, pero es una equivalencia **aproximada** de **(כפר)**, _kafar_. El verbo puede expresar cubrir, hacer expiación o purgar según el contexto; aquí el versículo 30 especifica su fuerza mediante **לטהר**, _letaher_, “purificar”. La nota no reduce _kafar_ a “borrar culpa” ni lo convierte en una técnica humana. El sujeto cultual y la fecha pertenecen al orden de יהוה: «en este día hará expiación por vosotros para purificaros».
+Eric presenta el lenguaje de reconciliación como un ministerio central de Ajarey Mot y relaciona el acceso con ofrendas concretas. La clase identifica **(חטאת)**, _jatat_, como la ofrenda o sacrificio por el pecado, y **(עלה)**, _olah_, como la ofrenda que asciende o el holocausto. Son nombres cultuales con fuerza contextual específica; traducir ambos simplemente como “sacrificio” es **pedagógico**, pero pierde la distinción del pasaje. “Reconciliación” comunica el resultado relacional, pero es una equivalencia **aproximada** de **(כפר)**, _kafar_. El verbo puede expresar cubrir, hacer expiación o purgar según el contexto; aquí el versículo 30 especifica su fuerza mediante **לטהר**, _letaher_, “purificar”. La nota no reduce _kafar_ a “borrar culpa” ni lo convierte en una técnica humana. El sujeto cultual y la fecha pertenecen al orden de יהוה: «en este día hará expiación por vosotros para purificaros».
 
 ## La sangre pertenece al altar, no a la mesa: capítulo 17
 
@@ -77,21 +79,27 @@ El versículo 5 dice: «los guardaréis y los haréis; el hombre que los haga vi
 
 ## Léxico clave
 
-| Forma      | Transliteración | Sentido normal              | Fuerza contextual                                                       | Equivalencia                                               |
-| ---------- | --------------- | --------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **(כפר)**  | _kafar_         | cubrir, expiar, purgar      | Acto cultual que purifica y restaura el acceso ordenado                 | “Reconciliar” es aproximada y orientada al resultado       |
-| **(לטהר)** | _letaher_       | purificar                   | Quitar la condición de impureza ante יהוה                               | “Limpiar” es aproximada                                    |
-| **(נפש)**  | _nefesh_        | vida, ser viviente, persona | Vida representada y entregada en la sangre                              | “Alma” es tradicional, no siempre exacta                   |
-| **(חקה)**  | _juqah_         | estatuto, disposición       | Orden que Israel debe guardar y no sustituir por costumbres extranjeras | “Costumbre” es aproximada                                  |
-| **(טמא)**  | _tame_          | contaminar, volver impuro   | Transgresión que afecta al pueblo y a la tierra                         | “Profanar” es cercana, pero no idéntica en todos los casos |
+| Forma      | Transliteración | Sentido normal              | Fuerza contextual                                                       | Equivalencia                                                     |
+| ---------- | --------------- | --------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **(כפר)**  | _kafar_         | cubrir, expiar, purgar      | Acto cultual que purifica y restaura el acceso ordenado                 | “Reconciliar” es aproximada y orientada al resultado             |
+| **(קדש)**  | _qodesh_        | santidad, lugar santo       | Espacio y condición que explican el acceso limitado de 16:2             | “Santuario” es aproximada y puede ampliar demasiado el referente |
+| **(פרכת)** | _paroket_       | cortina separadora          | Límite que antecede al lugar interior                                   | “Cortina” es cercana, pero no agota su función cultual           |
+| **(כפרת)** | _kaporet_       | cubierta del arca           | Lugar sobre el arca asociado a la manifestación en la nube              | “Propiciatorio” es tradicional y aproximada                      |
+| **(חטאת)** | _jatat_         | ofrenda por el pecado       | Ofrenda requerida para el acceso de Aharón                              | “Sacrificio por el pecado” es funcional y aproximada             |
+| **(עלה)**  | _olah_          | ofrenda que asciende        | Holocausto diferenciado de la _jatat_                                   | “Holocausto” es tradicional y aproximada                         |
+| **(לטהר)** | _letaher_       | purificar                   | Quitar la condición de impureza ante יהוה                               | “Limpiar” es aproximada                                          |
+| **(נפש)**  | _nefesh_        | vida, ser viviente, persona | Vida representada y entregada en la sangre                              | “Alma” es tradicional, no siempre exacta                         |
+| **(חקה)**  | _juqah_         | estatuto, disposición       | Orden que Israel debe guardar y no sustituir por costumbres extranjeras | “Costumbre” es aproximada                                        |
+| **(טמא)**  | _tame_          | contaminar, volver impuro   | Transgresión que afecta al pueblo y a la tierra                         | “Profanar” es cercana, pero no idéntica en todos los casos       |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad    | Observación pública atribuible a la serie de clases                              | Tratamiento en esta nota                                                                                        |
-| --------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Vaikra 16 | «Ajarey Mot» y el ministerio de reconciliación sitúan la expiación en el centro. | Apoyo textual cualificado: se siguen fecha, sacerdote, alcance y purificación; el transcript no se reconstruye. |
-| Vaikra 17 | Las clases del séder de Pésaj ponen la sangre y su significado en primer plano.  | Conexión pedagógica: el capítulo reserva la sangre al altar y se distingue su contexto de la sangre pascual.    |
-| Vaikra 18 | La santidad exige una separación real de Egipto y Canaán.                        | Apoyo textual: se recorren vv. 3–5 y 24–30 en orden, explicando estatutos, juicios y contaminación.             |
+| Unidad        | Observación pública atribuible a la serie de clases                                                                                                                    | Tratamiento en esta nota                                                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vaikra 16     | «Ajarey Mot» y el ministerio de reconciliación sitúan la expiación en el centro.                                                                                       | Apoyo textual cualificado: se siguen fecha, sacerdote, alcance y purificación; el transcript no se reconstruye.                             |
+| Vaikra 16:1-5 | La clase distingue la santidad interior, la _paroket_, la _kaporet_ y las ofrendas _jatat_ y _olah_, en vez de tratar “santuario” y “sacrificio” como términos planos. | Clarificación léxica apoyada en el pasaje: se conserva la observación y se marca la traducción española como aproximada cuando corresponde. |
+| Vaikra 17     | Las clases del séder de Pésaj ponen la sangre y su significado en primer plano.                                                                                        | Conexión pedagógica: el capítulo reserva la sangre al altar y se distingue su contexto de la sangre pascual.                                |
+| Vaikra 18     | La santidad exige una separación real de Egipto y Canaán.                                                                                                              | Apoyo textual: se recorren vv. 3–5 y 24–30 en orden, explicando estatutos, juicios y contaminación.                                         |
 
 ## Conexiones principales
 
@@ -101,7 +109,7 @@ El versículo 5 dice: «los guardaréis y los haréis; el hombre que los haga vi
 
 ## Pendiente de verificar
 
-- [ ] Recuperar y cotejar los cinco transcripts públicos para separar toda observación hablada de los énfasis que sólo aparecen en los títulos.
+- [ ] Recuperar y cotejar los seis transcripts públicos para separar toda observación hablada de los énfasis que sólo aparecen en los títulos.
 - [ ] Verificar el alcance histórico de “ministerio de reconciliación” como formulación aplicada a Vaikra 16.
 - [ ] Cotejar una traducción TTH local del bloque; el corpus TTH disponible no contiene Vaikra en este worktree.
 
@@ -112,5 +120,5 @@ Vaikra 16–18 conserva una secuencia: יהוה purifica mediante un rito que é
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Videos de la serie: [Parashat 'Ajarey Mot - Passover Seder Part 1](https://www.youtube.com/watch?v=8Btk2jATjfk) (`source_id`: `youtube:8Btk2jATjfk`); [Parashat 'Ajarey Mot - Seder of Pesach Part 2](https://www.youtube.com/watch?v=jCax7bvw4Y8) (`source_id`: `youtube:jCax7bvw4Y8`); [Parashat 'Ajarey Mot - Seder of Pesach Part 3](https://www.youtube.com/watch?v=fVAh5QTMH-8) (`source_id`: `youtube:fVAh5QTMH-8`); [Parashat 'Ajarey Mot - Séder de Pésaj Parte 4](https://www.youtube.com/watch?v=Y97CMPXJ4cA) (`source_id`: `youtube:Y97CMPXJ4cA`); [Parashat 'Ajarey Mot - Passover Seder Part 5](https://www.youtube.com/watch?v=stsUp5v3SXE) (`source_id`: `youtube:stsUp5v3SXE`).
+- Videos de la serie: [Parashat 'Ajarey Mot - Passover Seder Part 1](https://www.youtube.com/watch?v=8Btk2jATjfk) (`source_id`: `youtube:8Btk2jATjfk`); [Parashat 'Ajarey Mot - Seder of Pesach Part 2](https://www.youtube.com/watch?v=jCax7bvw4Y8) (`source_id`: `youtube:jCax7bvw4Y8`); [Parashat 'Ajarey Mot - Seder of Pesach Part 3](https://www.youtube.com/watch?v=fVAh5QTMH-8) (`source_id`: `youtube:fVAh5QTMH-8`); [Parashat 'Ajarey Mot - Séder de Pésaj Parte 4](https://www.youtube.com/watch?v=Y97CMPXJ4cA) (`source_id`: `youtube:Y97CMPXJ4cA`); [Parashat 'Ajarey Mot - Passover Part 5](https://www.youtube.com/watch?v=stsUp5v3SXE) (`source_id`: `youtube:stsUp5v3SXE`); [Parashat Acharei Mot. Lev 16-18 The Ministry of Reconciliation](https://www.youtube.com/watch?v=_4q0WLCdK1c) (`source_id`: `youtube:_4q0WLCdK1c`).
 - Esta nota organiza y contrasta los énfasis públicos de la serie; no presenta una transcripción automática como cita literal.

@@ -109,3 +109,44 @@
 - 2026-07-28 — Remedié `content/besorah/apocalipsis_4_trono_redencion_y_adoracion.md` añadiendo un mapa de cuatro entradas en orden (4:1-2, 4:3-7, 4:6-7 y 4:8-11). El mapa conserva las observaciones concretas de Eric sobre visión, círculos del trono, merkavá, ojos y la conexión trono-redención, y clasifica cada evaluación como apoyo textual, analogía intertextual o inferencia calificada. La nota mantiene Delitzsch local, fuentes públicas únicas, sin rutas privadas ni segmentación hebrea, y pasa el control de calidad; el backlog baja de 282 a 281 y la cobertura permanece en 742/216. No reasigné lanes: las fuentes pendientes siguen bajo propiedad exclusiva y no hay grupo elegible no asignado que habilite rebalanceo seguro.
 - 2026-07-28 — Remedié `content/besorah/apocalipsis_19_revelacion_bodas_victoria_y_fidelidad.md` ampliando el desarrollo de Apocalipsis 19 en orden textual para superar el mínimo sustantivo. La ampliación conserva las observaciones concretas de Eric sobre la secuencia adoración–preparación–juicio y el discernimiento del testimonio, sin convertir aplicaciones históricas en hechos; el mapa de cinco entradas, la hoja Delitzsch local, crédito público, fuente única y control de calidad permanecen válidos (`quality_failures=0`). Cobertura se mantiene en 742/216 y no se reasignaron lanes.
 - 2026-07-28 — Remedié `content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md` con un mapa de cinco entradas en orden textual (2:11-12, 2:13-14, 2:15-16, 2:17-18 y 2:19-22). El mapa conserva observaciones concretas de Eric sobre lejanía, acercamiento, paz, reconciliación y casa común, y clasifica las ampliaciones léxicas, psicológicas y doctrinales como apoyadas, cualificadas o pendientes. La nota usa Delitzsch local, créditos públicos y source IDs únicos de frontmatter; no expone rutas privadas y pasa el control de calidad.
+
+## 2026-07-28 — Tanaj lane cron (worker/shaul-tanaj)
+
+- Rebased `worker/shaul-tanaj` onto `origin/feat/eric_youtube`; resolved `data/missing-transcripts.json` conflict by union of entries.
+- Owned lane: 58 `source_ids` in `lanes.tanaj` Parashot Tanaj; 56 local transcripts (stub: `stsUp5v3SXE`; missing: `86QJBg5Aw5E`, `iw2v71qC7lk`).
+- Existing notes with owned sources (9) already pass quality; none appear in remediation with owned IDs.
+- **Conflicts left untouched for integrator** (canonical chapter notes already carry colosenses playlist sources from Parashot 2016-2017 or 613 Mitzvot; not modified):
+  - Many `*_parashot_2017.md` and related stubs (e.g. bamidbar_19/`OLd-8BXSzcc`, devarim_1/`n6AaHG2kTCo`, devarim_7/`pBcHCtYt5-s`, vaikra_16/`1Dqriiq9bIU`, shemot_21/`E6KrU1gAZds`, etc.) block remediation-in-place for matching owned Uncategorized parashot videos.
+- **New canonical notes** (open chapters, owned sources only):
+  - `content/tanaj/bereshit_6_noaj_gracia_juicio_y_consuelo.md` ← `youtube:Wu5jU8k4mXA`
+  - `content/tanaj/bereshit_23_jayey_sarah_sepulcro_y_separacion.md` ← `youtube:PM4WRF-kTM8`
+  - `content/tanaj/devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` ← `youtube:kw0lpuvIXPk`
+- Validation: `python3 scripts/check_transcript_note_quality.py` on three paths → `quality_failures=0`; `git diff --check` clean; Prettier on touched Markdown.
+- Did not push canonical; commit only on `worker/shaul-tanaj`.
+
+## 2026-07-28 — Tanaj lane cron follow-up
+
+- Rebased `worker/shaul-tanaj` onto `origin/feat/eric_youtube` and preserved the existing Tanaj studies during the learning-log conflict resolution.
+- Expanded the canonical `content/tanaj/vaikra_16_18_expiacion_sangre_y_santidad.md` with owned source `youtube:_4q0WLCdK1c`; verified the source belongs to this lane and the chapter note contains no other lane-owned source.
+- Preserved Eric’s observations from the public class about **(קדש)**, **(פרכת)**, **(כפרת)**, **(חטאת)** and **(עלה)**, tested them against local Vaikra 16, and marked Spanish correspondences as approximate or pedagogical where needed.
+- Validation passed: targeted Prettier, `python3 scripts/check_transcript_note_quality.py content/tanaj/vaikra_16_18_expiacion_sangre_y_santidad.md`, and `git diff --check`. Committed as `d45b0f05`; no canonical push.
+- 2026-07-28 — Added canonical `content/tanaj/shemot_2_moshe_vida_protegida_y_grito_recordado.md` from the exclusively owned `youtube:SPEatJ6nkyc`. The note follows Shemot 2:1-25 in order, quotes normalized local OE, preserves Eric’s observations about fearing Elohim, Moshe’s rescue, premature violence, Midyan, and the remembered covenant, qualifies the lexical sheet and the Mitzrayim etymology, and passes the transcript-note quality gate with public-only credit.
+- 2026-07-28 — Añadí la nota canónica de Bereshit 37 desde la fuente exclusiva `youtube:GTTiPhYP4eQ` (Vayéshev). La nota sigue 37:1-36 en orden, cita OE/TTH locales, conserva las observaciones de Eric sobre asentamiento, sueños, envidia/rechazo, pozo y solución perteneciente a Elohim, y califica la tipología y las afirmaciones secundarias. Incluye léxico, mapa de enseñanza, crédito público y fuente única; el control de calidad y `git diff --check` pasaron.
+
+## 2026-07-28 — Tanaj lane validation follow-up
+
+- Revalidated all 14 canonical notes carrying one of the 58 owned source IDs: `quality_failures=0`.
+- Removed the two now-remediated owned entries (`bamidbar_22_parashot_2017.md` and `devarim_11_parashot_2017.md`) from `data/transcript-note-remediation.json`; registry total is now 285.
+- No additional owned-source remediation target was eligible without colliding with another lane's canonical sources; no new unsupported transcript note was fabricated.
+
+## 2026-07-28 — Tanaj lane cron
+
+- Amplié la nota canónica `content/tanaj/vaikra_23_omer_conteo_primicias_y_shavuot.md` para seguir también vv. 1–8 y 33–44 en orden, añadir texto OE local, y explicar **(מועד)** (_moed_) y **(סכה)** (_sukkah_) con equivalencias calificadas.
+
+## 2026-07-28 — Tanaj lane cron (continuación)
+
+- Añadí la nota canónica `content/tanaj/shemot_25_terumah_mishkan_presencia_y_testimonio.md` para el capítulo abierto de la clase de Terumah (`youtube:cls5RxEzxtQ`), siguiendo Shemot 25:1-40 en orden.
+- La nota incluye comparación OE/TTH, observaciones atribuibles de Eric sobre _terumah_, Mishkán, orden, arca, _kaporet_, mesa y menorah, hoja léxica con equivalencias calificadas y mapa de cuatro unidades.
+- Validación: `python3 scripts/check_transcript_note_quality.py` → `quality_failures=0`; `git diff --check` limpio; Prettier aplicado solo al Markdown tocado. No se modificaron notas con fuentes de otra lane y no se usaron rutas privadas visibles.
+- Corregí la trazabilidad de la nota: son cuatro fuentes exclusivas (`youtube:f0PQY7bXbJQ`, `youtube:OG2PPYieRhk`, `youtube:EHZDK_XPB1A`, `youtube:eJlTuHME674`), sin solapamiento con otra lane. La nota pasó `check_transcript_note_quality.py` (`quality_failures=0`) y `git diff --check`; se ejecutó Prettier solo sobre el Markdown tocado.
+- No se tocaron notas con fuentes de otras lanes ni se creó cobertura sin transcript verificable; los tres IDs marcados como faltantes siguen pendientes para el integrador.
