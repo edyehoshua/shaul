@@ -166,6 +166,14 @@ La clase termina con #matityahu_5_18. La yod representa lo pequeño; el qotz, el
 
 El punto no es convertir cada discusión caligráfica en doctrina, sino afirmar la fidelidad del que habló. Cielo y tierra pueden pasar; יהוה no abandona su propósito. El Mesías cumple la voluntad escrita acerca de él, y el nuevo pacto lleva esa voluntad al interior del pueblo.
 
+## La autoridad que perdona produce un camino visible
+
+La escena de #markos_2_5-12 y la discusión posterior sobre la Torah no deben quedar como dos temas desconectados. El paralítico recibe primero una palabra de perdón y después una orden: levantarse, tomar la camilla y volver a su casa. **ἀφίενται**, _aphientai_, «son perdonadas» o «son dejadas», es una forma presente pasiva en 2:5; la construcción deja a Yehoshua como quien pronuncia el resultado recibido, aunque la forma por sí sola no resuelva todas las preguntas doctrinales sobre el perdón. En 2:10, **ἐξουσία**, _exousia_, nombra autoridad o derecho para actuar; el término explica la afirmación de que el Ben HaAdam tiene autoridad «en la tierra», no una licencia humana para manipular la conciencia de otros.
+
+La respuesta visible confirma el orden del relato. **Ἔγειρε**, _egeire_, «levántate», es un imperativo; **ἆρόν**, _aron_, «toma», y **ὕπαγε**, _hypage_, «ve», completan la cadena de obediencia. Marcos no presenta la camilla como mérito que compra el perdón, sino como señal de que la palabra de Yehoshua no deja al hombre definido por su inmovilidad anterior. Esta observación conserva el énfasis de Eric sobre restauración y justicia practicada, pero lo prueba dentro de la perícopa: primero está la palabra de gracia, luego la acción que responde a ella.
+
+Ese patrón ayuda a leer Irmeiahu 31 sin forzar una oposición entre interioridad y mandamiento. La Torah escrita en el corazón no es una colección de méritos que obliga a יהוה; es la promesa de que el pueblo podrá conocer su voluntad y vivir como pueblo del pacto. En Marcos 2, la restauración tampoco termina en una declaración privada: el hombre vuelve a caminar delante de la comunidad. La conexión entre ambos pasajes es teológica y canónica, no una afirmación de que Marcos esté citando explícitamente Irmeiahu; su punto común más seguro es una gracia que restaura para una vida obediente.
+
 ## Conexiones principales
 
 - #markos_2_5-11 con #irmeiahu_31_33: el que perdona y levanta también inaugura la restauración interior prometida.

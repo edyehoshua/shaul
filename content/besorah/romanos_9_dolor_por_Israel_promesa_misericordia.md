@@ -36,6 +36,14 @@ Esta es la nota canónica para Romanos 9. Reúne las sesiones locales de la seri
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | #romanos_9_1, #romanos_9_17, #romanos_9_33 | **אמת אני מדבר במשיח ולא אשקר ודעתי מעידה לי ברוח הקדש׃ כי־כן הכתוב אמר לפרעה בעבור זאת העמדתיך בעבור הראתך את־כחי ולמען ספר שמי בכל־הארץ׃ ככתוב הנני יסד בציון אבן נגף וצור מכשול וכל־המאמין בו לא יבוש׃** | Estos hitos pertenecen al desarrollo del capítulo y deben interpretarse en su secuencia. |
 
+| Perícopa         | Movimiento que conserva la enseñanza de Eric                                     | Control textual                                                                                               |
+| ---------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| #romanos_9_1-5   | Dolor de Pablo por Israel junto con privilegios reales, no desprecio del pueblo. | El prólogo enumera adopción, pactos, Torah, culto y promesas antes de tratar la incredulidad.                 |
+| #romanos_9_6-13  | La descendencia de la promesa no se reduce a genealogía.                         | Isaac, Jacob y Esaú ordenan la explicación; la distinción no borra la historia de Israel.                     |
+| #romanos_9_14-18 | La misericordia y el endurecimiento deben juzgarse desde la libertad de Elohim.  | Pablo cita a Moshe y a Faraón, sin resolver aquí el destino final de cada individuo.                          |
+| #romanos_9_19-24 | Ser usado en un propósito no equivale automáticamente a estar salvado.           | La objeción, el alfarero y los vasos sostienen la asimetría; el contexto limita cualquier sistema exhaustivo. |
+| #romanos_9_25-33 | Remanente, naciones y piedra de tropiezo convergen en la respuesta de emunah.    | Oseas, Yesha’yahu y la Torah llevan al contraste entre justicia recibida y justicia perseguida por obras.     |
+
 ## Mapa de la enseñanza de Eric
 
 Las sesiones acreditadas del hermano Eric de Jesús Rodríguez Mendoza recorren Romanos 9 y proponen aplicaciones para la comunidad. La observación más reciente, asociada a `youtube:atIdZY13b_c`, se concentra en #romanos_9_19-24: la objeción humana, la imagen del alfarero y las vasijas. Eric distingue entre que una persona sea usada dentro de un propósito divino y que por ello pueda darse por sentada su salvación. Esa distinción es una pregunta interpretativa útil; el pasaje debe gobernar cualquier conclusión sobre Faraón o sobre una persona concreta.

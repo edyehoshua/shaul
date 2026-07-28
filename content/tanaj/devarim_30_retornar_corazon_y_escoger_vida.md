@@ -80,6 +80,14 @@ El v. 19 convoca cielo y tierra como testigos: **(העדתי)**, _haidoti_, de �
 
 El cierre desarrolla la elección: amar, escuchar y aferrarse, «porque Él es tu vida y la largura de tus días». **(הוא חייך)**, _hu jaieja_, literalmente «él es tu vida»; «fuente de vida» es una paráfrasis explicativa. **(וארך ימיך)**, _veorej yameja_, es «la largura de tus días»; no debe convertirse en una promesa de que cada obediente evitará toda muerte temporal. La tierra y la promesa a Abraham, Itzjak y Yaakov cierran el capítulo dentro de la historia de la alianza.
 
+## La simiente recibe una historia, no una contraseña — Devarim 30:6–10
+
+La referencia a la simiente debe leerse dentro de la frase completa. El OE habla de **ומל יהוה אלהיך את לבבך ואת לבב זרעך**, «y circuncidará יהוה tu Elohim tu corazón y el corazón de tu simiente», y TTH conserva que el propósito es amar a יהוה «para que vivas». **(זרע)**, _zera_, significa semilla, descendencia o simiente; «linaje espiritual» es una equivalencia pedagógica que no agota su sentido. En este pasaje designa continuidad familiar y pactal, no una contraseña que permita reclamar bendición sin retorno.
+
+El mismo bloque ordena escuchar la voz y hacer los mandamientos, mientras describe la compasión y el regocijo de יהוה. **(ברית)**, _berit_, significa pacto o alianza; aunque el sustantivo no sea el centro de cada versículo, su fuerza contextual organiza la memoria de los padres y la tierra prometida. «Contrato» es demasiado estrecho: la alianza incluye juramento, amor leal, disciplina y respuesta. Así, la observación pública de Eric sobre la simiente bendecida queda confirmada como esperanza histórica, pero evaluada por el movimiento textual que va de la circuncisión del corazón a una obediencia visible.
+
+La palabra **(שוב)**, _shuv_, reaparece en el retorno de Israel y en el «volver» de la acción divina. Su sentido normal es volver, hacer volver o restaurar; «reencarnar» o «reiniciar» serían equivalencias ajenas al pasaje. La simiente no aparece como una identidad inmóvil: recibe una historia en la que puede apartarse, recordar, volver, escuchar y vivir. Esa secuencia protege la enseñanza de dos reducciones opuestas: ni la bendición es mérito autónomo, ni la gracia vuelve innecesaria la fidelidad.
+
 ## Mapa de la enseñanza de Eric
 
 | Observación pública atribuida a Eric                                                     | Evaluación frente al texto                                                                                                               |

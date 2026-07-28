@@ -85,6 +85,14 @@ El cierre vuelve al motivo del éxodo: «Yo soy יהוה, quien los ha hecho sub
 
 La exposición apunta al Mashíaj y al servicio perfecto. Esa conexión puede ser una lectura canónica posterior, pero Vayikra 11 establece primero un argumento propio: el pueblo redimido debe distinguir y vivir según la santidad de su Elohim. El texto no autoriza a borrar estas instrucciones mediante una conclusión rápida, ni permite convertir la santidad en orgullo.
 
+## Santidad recibida y mandato discernible — Vayikra 10:1–3; 11:44–45
+
+La tensión entre cercanía y límite se concentra en el contraste entre **אשר לא צוה אתם** y el llamado final a ser santos. **(צוה)**, _tsavah_, significa ordenar, encargar o mandar; en 10:1 su fuerza contextual es la ausencia de autorización para el fuego que acercaron. «No les inspiró» sería una equivalencia pedagógica defectuosa: el asunto no es medir una emoción interior, sino reconocer que el acto cultual no fue ordenado. La lectura de Eric sobre servicio gobernado por la palabra queda apoyada precisamente por esta cláusula negativa.
+
+En 11:44 el TTH dice: «Porque Yo soy יהוה su Elohim; y se consagrarán, y serán santos, porque santo soy Yo». **(קדוש)**, _qadosh_, significa santo, apartado o consagrado; «moralmente superior» es una equivalencia pedagógica que introduce una comparación que el versículo no hace. La forma contextual vincula la identidad del pueblo con el Dios que lo sacó de Mitzráim, pero el capítulo la desarrolla mediante distinciones concretas de animales y contacto. «Redención» no es una licencia para borrar el discernimiento, y «discernimiento» no es permiso para inventar símbolos que reemplacen los mandatos.
+
+El orden de las perícopas también importa: primero el fuego extraño y la enseñanza sacerdotal, después la mesa de Israel y la memoria del éxodo. **(למד)**, _lamad_, significa aprender o enseñar; en 10:11 la forma tiene fuerza causativa, «hacer conocer» los estatutos a los hijos de Israel. «Predicar» es una equivalencia aproximada y demasiado amplia. El servidor aprende a separar lo santo de lo común para enseñar al pueblo, y la comunidad practica esa diferencia en su vida corporal; la aplicación al Mashíaj puede ser posterior, pero no debe saltarse esta arquitectura textual.
+
 ## Mapa de la enseñanza de Eric
 
 | Observación pública atribuida a Eric                                                           | Evaluación frente al texto                                                                                    |
