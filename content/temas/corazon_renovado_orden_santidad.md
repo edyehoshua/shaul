@@ -13,12 +13,21 @@ references:
   - "#efesios_4_22"
   - "#efesios_4_23"
   - "#efesios_4_24"
+  - "#efesios_4_25"
+  - "#efesios_4_31"
+  - "#efesios_4_32"
   - "#colosenses_3_5"
   - "#colosenses_3_10"
+  - "#colosenses_3_12"
+  - "#colosenses_3_13"
   - "#tesalonicenses_alef_4_3"
   - "#tesalonicenses_alef_4_7"
 sources:
   - "https://www.youtube.com/watch?v=uXzXFluGIdg"
+  - "docs/scriptures/oe/json/raw/psalms.json"
+  - "docs/scriptures/delitzsch/json/ephesians.json"
+  - "docs/scriptures/delitzsch/json/colossians.json"
+  - "docs/scriptures/delitzsch/json/thessalonians1.json"
 source_ids:
   - "youtube:uXzXFluGIdg"
 translation: "[OE, Delitzsch]"
@@ -95,6 +104,12 @@ La clase conecta esta vigilancia con la perseverancia. Esa aplicación debe mant
 - [ ] Identificar la referencia exacta de la anécdota rabínica sobre el enojo que Eric menciona, antes de citarla como fuente.
 - [ ] Cotejar por separado la relación homilética entre las categorías de impureza de Bamidbar 5 y las aplicaciones morales desarrolladas en la clase.
 - [ ] Revisar los matices lexicográficos de **(ברא)** y **(טהור)** con un léxico hebreo académico si se amplía esta nota.
+
+## Conexiones principales
+
+- #tehilim_51_12 con #efesios_4_22-24: la creación de un corazón puro y la renovación de la mente describen una obra interior que debe producir una forma nueva de caminar; la conexión es temática, no una cita explícita de Pablo al salmo.
+- #efesios_4_31-32 con #colosenses_3_8-13: ambos desarrollos trasladan la renovación al habla, la ira, la compasión y el perdón dentro del cuerpo; la enseñanza de Eric trata esas prácticas como prueba visible del cambio.
+- #colosenses_3_5-10 con #tesalonicenses_alef_4_3-7: morir a los deseos desordenados y abundar en santificación no son dos metas aisladas, sino una secuencia de despojo, renovación y perseverancia.
 
 ## Conclusión
 
