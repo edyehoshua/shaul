@@ -23,11 +23,13 @@ references:
   - "#galatians_1_16"
 sources:
   - "https://www.youtube.com/watch?v=XnePb66_Q1s"
+  - "https://www.youtube.com/watch?v=4R5-ywKdnYw"
   - "https://www.youtube.com/watch?v=ttDYqub_tHA"
   - "https://www.youtube.com/watch?v=K_zLycnKBZo"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
   - "youtube:XnePb66_Q1s"
+  - "youtube:4R5-ywKdnYw"
   - "youtube:ttDYqub_tHA"
   - "youtube:K_zLycnKBZo"
 translation: "[Delitzsch]"
@@ -40,6 +42,8 @@ Galatim 1 defiende un evangelio recibido y anunciado por Shaul que no puede ser 
 ## Alcance de la nota
 
 Esta nota organiza tres clases públicas que recorren #galatians_1_1 y #galatians_1_10-16. Eric comienza ubicando Galacia y el itinerario apostólico, lee la independencia de Shaul frente al favor humano y examina su antigua conducta junto con las «tradiciones de mis padres». No ofrece la transcripción automática como cita literal. Cuando la clase propone conexiones con Hechos 13–15, grupos del siglo I, tradición oral o títulos del Mesías, se conserva la observación atribuida y se la contrasta con el texto local de Galatim, sin convertir una reconstrucción en conclusión cerrada.
+
+La sesión de Galatim 1:1-9 vuelve a Hechos 15:1 y distingue entre presentar la circuncisión como requisito de salvación y reconocer las instrucciones concretas dadas después a las comunidades. Eric contrapone «rito» y «mandamiento» y recuerda que Abraham recibió las promesas antes de la circuncisión. Esa observación es atribuible a la clase y armoniza con el contraste que Pablo establece en Romanos 4; sin embargo, Galatim 1 no cita Hechos 15 ni resuelve por sí solo toda la relación entre promesa, circuncisión y obediencia. La transcripción registra el término como «heti»; la forma griega de Hechos 15:1 es **(ἔθος)**, _ethos_, «costumbre, práctica habitual». Allí su fuerza contextual es una práctica asociada con Moisés, de modo que «rito» es aproximada y «mandamiento» sería una calificación interpretativa, no la traducción exacta del sustantivo.
 
 ## Hoja de comparación
 
@@ -89,13 +93,14 @@ Eric propone que el «yugo» de Hechos 15 se refiere a una combinación de exige
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad                          | Observación concreta de la clase                                                                                          | Tratamiento en esta nota                                                                                                     |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Contexto de Galacia y Hechos 13 | Ubica Galacia y bosqueja el primer viaje para situar a las congregaciones destinatarias.                                  | Contexto histórico cualificado: orienta la lectura, pero el mapa y el itinerario requieren cotejo externo.                   |
-| #galatians_1_1 y congregación   | Acerca «iglesia» a «sinagoga» para evitar una imagen institucional moderna.                                               | Clarificación léxica: se reconoce la utilidad pedagógica y se rechaza tratarlas como equivalentes exactos.                   |
-| #galatians_1_10-12              | Lee el no agradar a personas como valentía para mantener el evangelio, y la revelación como origen no humano del anuncio. | Apoyo textual y límite: el pasaje sostiene fidelidad al anuncio; una conclusión ontológica exhaustiva requiere otros textos. |
-| #galatians_1_13-14              | Distingue el celo de Shaul y las tradiciones paternas de una condena general del pueblo judío.                            | Apoyo textual y léxico: se explica _Ioudaismos_ y _paradoseis_ sin identificar automáticamente tradición y Torah.            |
-| #galatians_1_15-16 y Hechos 15  | Relaciona el llamado por gracia y la misión gentil con la discusión sobre imposiciones a las naciones.                    | Inferencia cualificada: Galatim confirma llamado y misión; la lectura del «yugo» de Hechos 15 queda para cotejo específico.  |
+| Unidad                          | Observación concreta de la clase                                                                                                                | Tratamiento en esta nota                                                                                                                                 |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contexto de Galacia y Hechos 13 | Ubica Galacia y bosqueja el primer viaje para situar a las congregaciones destinatarias.                                                        | Contexto histórico cualificado: orienta la lectura, pero el mapa y el itinerario requieren cotejo externo.                                               |
+| #galatians_1_1 y congregación   | Acerca «iglesia» a «sinagoga» para evitar una imagen institucional moderna.                                                                     | Clarificación léxica: se reconoce la utilidad pedagógica y se rechaza tratarlas como equivalentes exactos.                                               |
+| #galatians_1_10-12              | Lee el no agradar a personas como valentía para mantener el evangelio, y la revelación como origen no humano del anuncio.                       | Apoyo textual y límite: el pasaje sostiene fidelidad al anuncio; una conclusión ontológica exhaustiva requiere otros textos.                             |
+| #galatians_1_13-14              | Distingue el celo de Shaul y las tradiciones paternas de una condena general del pueblo judío.                                                  | Apoyo textual y léxico: se explica _Ioudaismos_ y _paradoseis_ sin identificar automáticamente tradición y Torah.                                        |
+| #galatians_1_15-16 y Hechos 15  | Relaciona el llamado por gracia y la misión gentil con la discusión sobre imposiciones a las naciones.                                          | Inferencia cualificada: Galatim confirma llamado y misión; la lectura del «yugo» de Hechos 15 queda para cotejo específico.                              |
+| #galatians_1_1-9 y Hechos 15:1  | Distingue el requisito de salvación de la circuncisión de las prácticas posteriores y recuerda las promesas a Abraham antes de la circuncisión. | Contraste intertextual cualificado: se explica **(ἔθος)**, _ethos_, en Hechos 15:1; no se presenta «rito» ni «mandamiento» como traducción de Galatim 1. |
 
 ## Pendiente de verificar
 
@@ -118,6 +123,7 @@ Galatim 1 no invita a Shaul ni a sus lectores a defender una identidad por presi
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [La Carta a los gálatas parte 1 - Introducción - Cap 1:1](https://www.youtube.com/watch?v=XnePb66_Q1s) (`source_id`: `youtube:XnePb66_Q1s`).
+- Video: [La carta a los gálatas parte 2: Cap 1:1-9](https://www.youtube.com/watch?v=4R5-ywKdnYw) (`source_id`: `youtube:4R5-ywKdnYw`).
 - Video: [Carta a los gálatas Parte 3 Cap 1:10-11 Iûdaísmo - judaísmo](https://www.youtube.com/watch?v=ttDYqub_tHA) (`source_id`: `youtube:ttDYqub_tHA`).
 - Video: [The Letter to the Galatians Part 4 Ch. 1:13-2:10](https://www.youtube.com/watch?v=K_zLycnKBZo) (`source_id`: `youtube:K_zLycnKBZo`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
