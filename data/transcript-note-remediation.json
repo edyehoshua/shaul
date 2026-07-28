@@ -768,16 +768,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/bamidbar_30_parashot_2017.md",
-      "substantive_words": 206,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/bamidbar_8_parashot_2017.md",
       "substantive_words": 208,
@@ -991,16 +982,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/devarim_32_parashot_2017.md",
-      "substantive_words": 200,
-      "thematic_sections": [],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/devarim_7_parashot_2017.md",
       "substantive_words": 201,
