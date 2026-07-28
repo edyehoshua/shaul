@@ -36,12 +36,14 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=IhLu5hOaxYs"
   - "https://www.youtube.com/watch?v=agFU_axg_s0"
+  - "https://www.youtube.com/watch?v=1qwfOY-W8Fo"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/tehilim.json"
 translation: "[TTH, Delitzsch]"
 source_ids:
   - "youtube:IhLu5hOaxYs"
   - "youtube:agFU_axg_s0"
+  - "youtube:1qwfOY-W8Fo"
 ---
 
 # Tesis
@@ -51,6 +53,7 @@ Marcos 4 no termina las parábolas con una lección separada sobre el mar: las p
 ## Alcance de la nota
 
 - Esta nota reúne la parte final de la clase del **hermano Eric de Jesús Rodríguez Mendoza**, _El Evangelio según Marco - Parte 17: Cap. 4–5, Parábolas / continuación_.
+- También incorpora la parte 16, _Evangelio según Marco Parte 16: Cap. 4 Las Parábolas_, como fuente independiente del mismo capítulo. Su título confirma el foco de la clase; las observaciones que siguen se atribuyen a la línea de enseñanza y se prueban contra la secuencia local de Marcos, no se presentan como cita literal.
 - Eric observa que «escuchar» en el v. 33 incluye entender y obedecer, y que la tormenta desplaza esa enseñanza de la parábola a la confianza concreta.
 - La transcripción automática no es una cita literal. Las propuestas que conectan formas hebreas y el griego de Marcos se contrastan aquí con el texto local y se mantienen delimitadas.
 
@@ -83,6 +86,8 @@ Marcos 4 no termina las parábolas con una lección separada sobre el mar: las p
 Eric detiene la clase en #markos_4_33: oír no equivale a recibir sonido. La propuesta pastoral es que el oyente comprende para obedecer. El versículo sí dice que Yehoshua hablaba según lo que podían escuchar; no define por sí solo una teoría completa del «oír». Sin embargo, el movimiento inmediato del relato hace verificable la observación: el maestro da una orden, «pasemos al otro lado», y sus discípulos deben atravesar el mar sobre la base de esa palabra.
 
 No conviene convertir las parábolas en claves secretas para una élite. Marcos afirma que Yehoshua explicaba en privado a sus discípulos (4:34), pero la finalidad de la explicación es hacer posible una escucha responsable. La barca prueba esa escucha: los discípulos no reciben una promesa de navegación cómoda, sino una dirección de Yehoshua en medio de un riesgo real.
+
+La parte 16, cuyo título centra explícitamente «Cap. 4» en las parábolas, queda así integrada en el primer movimiento del capítulo y no como una nota temática separada. La observación concreta que puede sostenerse públicamente a partir de esa fuente es su insistencia en leer las parábolas dentro del capítulo: Marcos pasa de la semilla y el crecimiento a la orden de atravesar el mar (#markos_4_26-35). Esa continuidad evita convertir una parábola en un lema aislado. El verbo griego **(ἀκούω)**, _akouō_, significa oír o escuchar; en 4:33 su fuerza contextual incluye recibir la enseñanza, pero la equivalencia con «obedecer» es inferencial y debe demostrarse por la travesía posterior, no por el verbo aislado.
 
 ## El mar que escucha a Yehoshua
 
@@ -134,6 +139,7 @@ Cuando llega la noticia de la muerte de la niña, Yehoshua dice a Iair: «No tem
 - **#markos_5_25-34 — confianza, sanidad y shalom:** Eric rechaza el vestido como objeto mágico y vincula la sanidad con la confianza que Yehoshua hace pública. El texto sostiene la pregunta, la confesión, la **(πίστις)** y el «ve en shalom»; su equivalencia con **(אמונה)** y **(שלום)** es aproximada.
 - **#markos_5_35-43 — permanecer ante la muerte:** Eric lee «no temas, sólo afírmate» como confianza que permanece en la palabra. Marcos muestra la orden aramea, el levantarse y el alimento; la restauración corporal es explícita y no una promesa universal de resultados.
 - **#markos_4_26-32 — semilla, crecimiento y refugio:** En la parte 8, Eric relaciona el crecimiento de la semilla con la palabra y el reino, y lee las aves como naciones que encuentran refugio. Marcos sostiene la secuencia de siembra, crecimiento y cosecha; la lectura de las aves como naciones es intertextual y la identificación directa de la semilla con el Mesías queda calificada.
+- **#markos_4_26-35 — parábolas y transición a la barca:** La parte 16 presenta el capítulo 4 desde su foco declarado en las parábolas; la nota conserva esa observación en el orden del texto, desde la semilla hasta «pasemos al otro lado». Marcos apoya la continuidad narrativa; «escuchar» como obediencia es una inferencia pastoral, no una equivalencia exacta de **(ἀκούω)**.
 
 La tabla registra las observaciones concretas de la clase y el alcance que el pasaje permite afirmar; la transcripción automática sirve para atribución y orientación, no como cita literal.
 
@@ -153,6 +159,7 @@ Marcos 4–5 lleva al lector de la palabra explicada a la palabra que domina el 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Marco - Parte 17: Cap. 4–5, Parábolas / continuación](https://www.youtube.com/watch?v=IhLu5hOaxYs) (`source_id`: `youtube:IhLu5hOaxYs`).
 - Video: [El Evangelio según Marco - Parte 8: La semilla y el reino](https://www.youtube.com/watch?v=agFU_axg_s0) (`source_id`: `youtube:agFU_axg_s0`).
+- Video: [El Evangelio según Marco — Parte 16: Cap. 4 Las Parábolas](https://www.youtube.com/watch?v=1qwfOY-W8Fo) (`source_id`: `youtube:1qwfOY-W8Fo`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también

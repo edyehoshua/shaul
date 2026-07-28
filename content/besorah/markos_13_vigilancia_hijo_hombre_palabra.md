@@ -27,6 +27,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=G5SL_tqQ8eA"
   - "https://www.youtube.com/watch?v=cLaRVGxIAy8"
+  - "https://www.youtube.com/watch?v=3RRxUezpfXo"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/tth/json/malaji.json"
@@ -39,6 +40,7 @@ translation: "[TTH, Delitzsch]"
 source_ids:
   - "youtube:G5SL_tqQ8eA"
   - "youtube:cLaRVGxIAy8"
+  - "youtube:3RRxUezpfXo"
 ---
 
 # Tesis
@@ -48,6 +50,7 @@ Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depen
 ## Alcance de la nota
 
 - Fuentes de Eric: _El Evangelio según Marcos — Parte 41: las 70 semanas ya se cumplieron_ y _Parte 13: la divinidad de Mashíaj_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza ambas exposiciones sin reproducir la transcripción automática como cita literal; cuando una observación de la clase no puede cotejarse con el texto local, queda marcada como inferencia o pendiente.
+- También incorpora _El Evangelio según Marcos parte 40: Escatología, las setenta semanas de Daniel_. Su foco público coincide con el tramo de Daniel 9 y la escatología que esta nota ya contrasta con Marcos 13; se conserva como fuente independiente, sin atribuirle palabras no verificadas ni duplicar una nota de capítulo.
 - La clase continúa una línea previa sobre el Hijo del Hombre de Daniel 7, la metamorfosis del Mesías y el Anciano de Días.
 - Donde la transcripción menciona literatura rabínica, términos arameos o etimologías sin referencia exacta, la nota conserva el punto como material de clase y lo marca como pendiente.
 - El texto TTH de #markos_13_32 consultado localmente no incluye la frase "ni el Hijo"; Delitzsch sí la conserva. La diferencia queda indicada en la hoja de comparación. La oración de #markos_14_36 aparece solo como conexión posterior para probar el marco propuesto, no como un segundo estudio canónico de capítulo.
@@ -79,6 +82,8 @@ La transcripción de la parte 41 insiste en volver al hebreo de Daniel 9 antes d
 La clase recoge además dos comentarios rabínicos que Eric dice haber consultado y los presenta como coincidentes en que las setenta semanas concluyeron con la destrucción del segundo templo. Esa observación se conserva como afirmación atribuible de la exposición, no como referencia rabínica ya localizada: sin títulos, autores ni pasajes exactos no se pueden convertir esos comentarios en una fuente pública verificable. El texto de Marcos sí permite sostener que la caída del templo está dentro del horizonte de la pregunta y que la señal llama a huir de Judea (#markos_13_1-4, 14); no permite, por sí solo, reconstruir cada fecha de Daniel ni obliga al lector a aceptar una pausa futura. La equivalencia entre «setenta semanas» y «70 años-semanas» es aproximada y depende de la interpretación del contexto, no de una traducción española automática.
 
 También conviene separar **(משיח)**, _mashiach_, «ungido», de una identificación inmediata. En Daniel 9:25-26 la palabra puede funcionar como título o designación contextual de un consagrado; «Mesías» es una traducción teológica legítima en ciertos marcos, pero no el sentido exhaustivo de la forma en todos sus usos. Del mismo modo, **(נגיד)**, _nagid_, significa gobernante, jefe o líder; «príncipe» es una equivalencia posible, no una prueba cronológica. La lectura de Eric acierta al pedir que se observen esas formas antes de importar un esquema escatológico; queda abierta la decisión sobre cómo relacionarlas con Yehoshua.
+
+La parte 40, titulada sobre la escatología y las setenta semanas, refuerza el punto de partida de esa comparación: la cronología debe probarse en Daniel 9 y en el discurso de Marcos, no recibirse como un esquema terminado. En el texto local, **(שבעים)**, _shavuim_, es «sietes» o «semanas» en la construcción «setenta semanas», mientras **(משיח)**, _mashiach_, describe a un ungido; son formas con sentido contextual, no atajos que resuelvan por sí solos toda la escatología. La observación de la clase queda, por tanto, como tesis histórica atribuible y calificada: Marcos conecta desolación, huida y templo, pero no ofrece una tabla que fuerce una sola reconstrucción de Daniel 9.
 
 ## Nadie recibe la hora: velar (13:32-37)
 
@@ -190,6 +195,8 @@ El punto doctrinal de la clase es que el Mesías, sin pecado propio, cargó la c
 | Marcos 13:32-37          | Eric conserva el centro pastoral: el día y la hora no se entregan para el cálculo. La lectura de **(אָב)** (_av_, padre u origen) y **(אַבָּא)** (_abba_, padre) como palabra o fuente inamovible se presenta como desarrollo teológico, no como traducción suficiente del verso.                                               | TTH y Delitzsch difieren sobre «ni el Hijo», pero ambas versiones terminan ordenando velar; Salmo 119:89-90 respalda la permanencia de la palabra y la fidelidad.                                                                      | Centro directamente verificable; desarrollo semítico pendiente.                                   |
 | Relación con Lucas 21:20 | Eric identifica **(שִׁקּוּץ)** (_shiqquṣ_, cosa abominable) y su acción con la presencia gentil y romana que desola; advierte contra construir una escatología desconectada de la señal dada por Yehoshua.                                                                                                                      | Lucas 21:20 dice que Jerusalén rodeada de ejércitos anuncia su desolación; Marcos 13:14 mantiene la señal dentro del discurso. La etimología y la identificación de estandartes romanos requieren fuentes adicionales.                 | Conexión textual fuerte; detalles históricos pendientes.                                          |
 
+- **Daniel 9 y Marcos 13 — parte 40:** La clase titulada sobre escatología y las setenta semanas concentra la pregunta cronológica en Daniel 9. El texto local confirma el foco compartido de semanas, ungido y desolación, pero la conclusión histórica sobre el cumplimiento requiere separar observación, inferencia y verificación histórica.
+
 ## Dependencias textuales y límite de la cronología
 
 El argumento debe conservar la transición que hace Marcos: después de la señal de la desolación, la tribulación y la venida del Hijo del Hombre, el discurso pasa a negar el acceso al día y la hora y termina repitiendo «velen». La forma griega **(γρηγορεῖτε)**, _grēgoreite_, es un imperativo presente plural: ordena mantenerse despiertos o vigilantes como práctica sostenida. La forma **(οἴδατε)**, _oidate_, «saben», aparece en la negación de 13:33 y limita la pretensión de convertir el discurso en una tabla de fechas. Eric aplica este límite a su lectura histórica de las setenta semanas: la caída del templo puede ocupar un horizonte real del pasaje, pero la exhortación no depende de que el lector reconstruya una cronología completa.
@@ -205,6 +212,7 @@ Marcos 13 deja al discípulo ante una tarea concreta: velar, porque el día y la
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Marcos — Parte 41: las 70 semanas ya se cumplieron](https://www.youtube.com/watch?v=G5SL_tqQ8eA) (`source_id`: `youtube:G5SL_tqQ8eA`).
 - Video: [El Evangelio según Marco — Parte 13: La divinidad de Mashíaj](https://www.youtube.com/watch?v=cLaRVGxIAy8) (`source_id`: `youtube:cLaRVGxIAy8`).
+- Video: [El Evangelio según Marcos — Parte 40: Escatología, las setenta semanas de Daniel](https://www.youtube.com/watch?v=3RRxUezpfXo) (`source_id`: `youtube:3RRxUezpfXo`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
