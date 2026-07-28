@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 278,
+  "total_notes_requiring_remediation": 277,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -117,20 +117,6 @@
       ]
     },
 
-    {
-      "path": "content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md",
-      "substantive_words": 785,
-      "thematic_sections": [
-        "de la marca corporal a la condición que pablo recuerda",
-        "el acercamiento y la paz no son un privilegio humano",
-        "la reconciliación y la nueva creación en la continuación de la clase",
-        "un solo pueblo, un solo acceso y una casa en construcción",
-        "hoja léxica"
-      ],
-      "issues": [
-        "missing_eric_map"
-      ]
-    },
     {
       "path": "content/besorah/efesios_3_gracia_revelacion_y_misterio.md",
       "substantive_words": 964,
