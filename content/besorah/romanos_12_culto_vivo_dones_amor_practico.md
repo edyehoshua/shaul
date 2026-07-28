@@ -71,6 +71,12 @@ El cierre lleva el patrón de fidelidad al campo de la hostilidad. No devolver m
 
 En #romanos_12_20-21 Pablo no termina con pasividad. Dar alimento y bebida al enemigo es una acción de bien dirigida a quien hace mal. Así, «vence el mal con el bien» describe una respuesta que rehúsa ser gobernada por la lógica del daño. Esa conclusión completa el movimiento del capítulo: misericordia recibida, cuerpo ofrecido, mente renovada, servicio interdependiente y un amor que no reproduce la violencia que enfrenta.
 
+## El patrón de la fidelidad, probado en el orden del capítulo
+
+El título público de la fuente de Eric, «El patrón de la fidelidad», no debe reducirse a una consigna devocional. En la exposición, el patrón se puede seguir como una cadena: las misericordias de Elohim preceden al cuerpo ofrecido (#romanos_12_1); la mente renovada discierne (#romanos_12_2); la sobriedad limita la autoimportancia (#romanos_12_3); y los dones se convierten en servicio para un cuerpo que necesita a todos (#romanos_12_4-8). Esa lectura es **cualificada**: el título identifica el énfasis de la clase, mientras el texto local prueba cada paso y evita atribuir a Eric una definición técnica que la fuente pública no ofrece.
+
+La segunda mitad muestra cómo se verifica la fidelidad en situaciones concretas. Amor sin fingimiento rechaza el mal y se adhiere al bien (#romanos_12_9); la hospitalidad, la oración y la solidaridad hacen visible la doctrina (#romanos_12_10-13); bendecir al perseguidor y acercarse al humilde combaten la altivez (#romanos_12_14-16). Finalmente, no vengarse no equivale a tolerar el abuso: Pablo ordena procurar el bien, vivir en paz cuando dependa de la comunidad y dejar el pago a Elohim (#romanos_12_17-19). Dar comida al enemigo y vencer el mal con bien es una respuesta activa, no una prohibición de buscar protección o justicia por medios legítimos.
+
 ## Hoja léxica
 
 | Forma fuente                                | Transliteración                          | Sentido normal                                              | Fuerza contextual                                                                                                                  | Relación                                                                                                           |

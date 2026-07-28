@@ -74,6 +74,12 @@ El lenguaje exige paciencia interpretativa. «Todo Israel será salvo» se lee d
 
 Finalmente, Pablo reúne la antigua desobediencia de las naciones y la actual desobediencia de Israel bajo una finalidad de misericordia (#romanos_11_30-32). Ese movimiento no deja lugar para un triunfo étnico o religioso. Lleva a la confesión de que todo procede de Elohim, existe por medio de él y vuelve a él (#romanos_11_36).
 
+## Dos clases, una advertencia contra la jactancia
+
+La primera fuente pública, «La analogía del Olivo, Israel, todo Israel», concentra la atención en la relación entre raíz, ramas naturales y rama silvestre injertada. Eric observa que la rama incorporada no puede hablar como dueña del árbol. Romanos respalda esa dirección con un imperativo explícito: no jactarse contra las ramas (#romanos_11_18). La imagen permite evaluar la soberbia de una comunidad que se atribuye el origen de su propia pertenencia, pero no autoriza a reconstruir una cronología completa de Israel a partir de una sola metáfora.
+
+La segunda fuente, «El redentor de Tziyón vendrá», desplaza el foco hacia el misterio, la dureza parcial, la entrada de las naciones y la promesa citada en #romanos_11_25-29. La esperanza que Eric destaca debe conservar la tensión del texto: «todo Israel» aparece junto a la impiedad de Jacob, el pacto, los padres y los dones irrevocables. Por eso la lectura es **cualificada**: el pasaje sostiene esperanza y misericordia, pero no entrega aquí un calendario detallado ni permite convertir el misterio en una fórmula de superioridad. La secuencia completa corrige tanto el reemplazo triunfalista como una seguridad desligada de la misericordia.
+
 ## Hoja léxica
 
 | Forma fuente                   | Transliteración           | Sentido normal                                           | Fuerza contextual                                                                                                          | Relación                                                                                               |
