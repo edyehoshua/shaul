@@ -105,7 +105,7 @@ El v. 48 bendice a יהוה, Elohim de Israel, desde la eternidad hasta la etern
 | **זכר**      | _zakhar_        | recordar, traer a memoria                 | La memoria activa de las obras y del pacto        | Exacta; darle «preeminencia» es explicación aproximada.                  |
 | **גבורות**   | _gevurot_       | obras poderosas, actos de fuerza          | Hechos que deben ser narrados en alabanza         | Exacta; «preservar la vida» es aplicación contextual.                    |
 | **תאוה**     | _taavah_        | deseo, anhelo, apetito                    | Deseo que se vuelve prueba en el desierto         | Exacta; distinguir concesión de bendición es aplicación de Eric.         |
-| **וימירו**   | _vayמירu_       | cambiaron, sustituyeron                   | Reemplazo de la gloria por una figura             | Exacta en la acción; la crítica a imágenes contemporáneas es aplicación. |
+| **וימירו**   | _vayamiru_      | cambiaron, sustituyeron                   | Reemplazo de la gloria por una figura             | Exacta en la acción; la crítica a imágenes contemporáneas es aplicación. |
 | **ברית**     | _berit_         | pacto, alianza                            | Motivo por el que יהוה recuerda y tiene compasión | Exacta; restauración de relación es fuerza contextual.                   |
 | **קבץ**      | _qavats_        | reunir, recoger                           | Petición de retorno desde las naciones            | Exacta; aplicación escatológica requiere otros textos.                   |
 

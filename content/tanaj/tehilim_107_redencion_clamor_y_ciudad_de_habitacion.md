@@ -34,16 +34,16 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre el 
 
 ## Hoja de comparación: el marco y los cuatro clamores
 
-| Ref.               | Texto hebreo local                                                                | Función en el argumento                                                           |
-| ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #tehilim_107_1     | **הדו ליהוה כי טוב כי לעולם חסדו**                                                | La bondad y חסד de יהוה enmarcan todo el capítulo.                                |
-| #tehilim_107_2     | **יאמרו גאולי יהוה אשר גאלם מיד צר**                                              | Los redimidos deben decirlo; Eric lo relaciona con el testimonio de las naciones. |
-| #tehilim_107_3     | **ומארצות קבצם ממזרח וממערב מצפון ומים**                                          | Reunión desde los cuatro puntos; la clase lo conecta con la recolección final.    |
-| #tehilim_107_4-9   | **תעו במדבר בישימון דרך עיר מושב לא מצאו ... וידריכם בדרך ישרה ללכת אל עיר מושב** | Extravío, hambre y sed; clamor y conducción a una ciudad de habitación.           |
-| #tehilim_107_10-16 | **ישבי חשך וצלמות אסירי עני וברזל ... כי שבר דלתות נחשת ובריחי ברזל גדע**         | Esclavitud por rebelión y ruptura de puertas y barras.                            |
-| #tehilim_107_17-22 | **אולים מדרך פשעם ומעונתיהם יתענו ... ישלח דברו וירפאם**                          | Enfermedad, clamor, palabra que sana y sacrificio de gratitud.                    |
-| #tehilim_107_23-32 | **יורדי הים באניות עשי מלאכה במים רבים ... וירממוהו בקהל עם**                     | Mar, tormenta, rescate y alabanza congregacional.                                 |
-| #tehilim_107_33-43 | **ישם נהרות למדבר ... מי חכם וישמר אלה ויתבוננו חסדי יהוה**                       | יהוה invierte desierto y fecundidad; el sabio guarda y contempla su חסד.          |
+| Ref.               | Texto hebreo local                                                                                               | Función en el argumento                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| #tehilim_107_1     | **הדו ליהוה כי טוב כי לעולם חסדו**                                                                               | La bondad y חסד de יהוה enmarcan todo el capítulo.                                |
+| #tehilim_107_2     | **יאמרו גאולי יהוה אשר גאלם מיד צר**                                                                             | Los redimidos deben decirlo; Eric lo relaciona con el testimonio de las naciones. |
+| #tehilim_107_3     | **ומארצות קבצם ממזרח וממערב מצפון ומים**                                                                         | Reunión desde los cuatro puntos; la clase lo conecta con la recolección final.    |
+| #tehilim_107_4-9   | **תעו במדבר בישימון דרך עיר מושב לא מצאו**; **כי השביע נפש שקקה ונפש רעבה מלא טוב**                              | Extravío, hambre y sed; clamor y conducción a una ciudad de habitación.           |
+| #tehilim_107_10-16 | **ישבי חשך וצלמות אסירי עני וברזל**; **כי שבר דלתות נחשת ובריחי ברזל גדע**                                       | Esclavitud por rebelión y ruptura de puertas y barras.                            |
+| #tehilim_107_17-22 | **אולים מדרך פשעם ומעונתיהם יתענו**; **ישלח דברו וירפאם וימלט משחיתותם**; **ויזבחו זבחי תודה ויספרו מעשיו ברנה** | Enfermedad, clamor, palabra que sana y sacrificio de gratitud.                    |
+| #tehilim_107_23-32 | **יורדי הים באניות עשי מלאכה במים רבים**; **וירממוהו בקהל עם ובמושב זקנים יהללוהו**                              | Mar, tormenta, rescate y alabanza congregacional.                                 |
+| #tehilim_107_33-43 | **ישם נהרות למדבר ומצאי מים לצמאון**; **מי חכם וישמר אלה ויתבוננו חסדי יהוה**                                    | יהוה invierte desierto y fecundidad; el sabio guarda y contempla su חסד.          |
 
 ## Mapa de la enseñanza de Eric
 
