@@ -12,6 +12,13 @@ tags:
   - mesias
   - resurreccion
 references:
+  - "#markos_12_1"
+  - "#markos_12_7"
+  - "#markos_12_9"
+  - "#markos_12_10"
+  - "#markos_12_13"
+  - "#markos_12_15"
+  - "#markos_12_17"
   - "#markos_12_18"
   - "#markos_12_24"
   - "#markos_12_25"
@@ -68,6 +75,8 @@ Marcos 12 no usa las controversias del templo para cerrar discusiones académica
 
 | Referencia       | Texto local                                                                                                                                                                                                                         | Función en la lectura                                                                             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| #markos_12_1-12  | TTH: la parábola presenta una viña, siervos maltratados, un hijo amado asesinado y una viña entregada a otros; Yehoshua cita la piedra rechazada.                                                                                   | La responsabilidad de los labradores y el juicio del dueño preparan la controversia del templo.   |
+| #markos_12_13-17 | TTH: perushim y siervos de Horodós preguntan por el impuesto; Yehoshua distingue lo del César de lo de Elohim.                                                                                                                      | La imagen del denario no reduce la lealtad a una respuesta política binaria.                      |
 | #markos_12_18-23 | TTH: los tzedukim, que niegan el levantamiento, plantean el caso de siete hermanos y una mujer según el levirato.                                                                                                                   | La objeción usa #devarim_25_5-6 como trampa contra la resurrección.                               |
 | #devarim_25_5-6  | TTH: el cuñado toma a la viuda sin hijo para levantar el nombre del muerto.                                                                                                                                                         | Fuente de la ley que ellos citan.                                                                 |
 | #markos_12_24-27 | TTH: erran por no conocer la Escritura ni el poder de Elohim; al levantarse no se casan en levirato; Elohim de Abraham, Itzjak y Iaacob es Elohim de vivos.                                                                         | La respuesta une poder escatológico y lectura de #shemot_3_6.                                     |
@@ -97,6 +106,24 @@ Marcos 12 no usa las controversias del templo para cerrar discusiones académica
 | **(ἀνάστασις)**           | anastasis       | levantamiento, resurrección                           | Negada por los tzedukim y afirmada por Yehoshua con Escritura y poder.                                                                       | Aproximada; no se reduce a reanimación biológica simple.                                                                                                                                                        |
 | **ὑστερήματος**           | hysterēmatos    | falta, carencia, escasez                              | Genitivo de **ὑστέρημα** en 12:44: la viuda da desde lo que le falta, en contraste con quienes dan desde la abundancia.                      | «Necesidad» comunica el contraste, pero no autoriza a convertir el elogio narrativo en una orden universal de empobrecimiento.                                                                                  |
 | **βίος**                  | bios            | vida, medios de vida, sustento                        | En 12:44, «todo cuanto tenía, toda su vida» hace visible que las dos monedas representan sus recursos vitales, no sólo una cantidad pequeña. | «Vida» puede significar existencia o medios; aquí el contexto económico exige mantener ambas posibilidades y no espiritualizar la pobreza.                                                                      |
+| **(כרם)**                 | _kerem_         | viña, plantación de uvas                              | Trasfondo hebreo de la viña de 12:1-12; ilumina la imagen de Isaías, pero no convierte cada detalle de la parábola en una alegoría fija.     | Aproximada con **ἀμπελών**, _ampelōn_; la equivalencia depende del contexto de la cita y de la parábola.                                                                                                        |
+| **(בן)**                  | _ben_           | hijo, descendiente                                    | Ayuda a explicar «hijo amado» en 12:6 y la tensión de heredero en 12:7.                                                                      | Aproximada con **υἱός**, _huios_; no prueba por sí sola una doctrina completa de filiación.                                                                                                                     |
+| **(אבן)**                 | _even_          | piedra                                                | Trasfondo de la piedra rechazada en 12:10-11; la función depende del Salmo citado.                                                           | Aproximada con **λίθος**, _lithos_; el sentido figurado procede de la cita y su contexto.                                                                                                                       |
+| **(צלם)**                 | _tselem_        | imagen, representación                                | Ilumina la pregunta por la imagen del denario en 12:16, sin afirmar que el término hebreo sea citado literalmente.                           | Aproximada con **εἰκών**, _eikōn_; se explica como comparación semántica, no como retrotraducción demostrada.                                                                                                   |
+
+## La viña, la piedra y el impuesto: responsabilidad antes de las controversias (12:1-17)
+
+Aunque las clases documentadas de Eric para esta nota comienzan en 12:18, una nota canónica de Marcos 12 debe conservar el inicio del capítulo. Yehoshua cuenta una parábola sobre un hombre que planta una viña, la protege, cava un lagar, edifica una torre y la entrega a labradores. El propietario envía siervos en serie; ellos los golpean, apedrean, hieren o matan. Finalmente envía a su hijo amado, y los labradores lo matan para quedarse con la herencia (#markos_12_1-8). Esta sección se desarrolla desde el texto local, no se atribuye a una transcripción de Eric.
+
+La repetición de envíos establece una responsabilidad que no se puede ocultar detrás de la administración religiosa. **(παραβολή)**, _parabolē_, significa comparación o parábola; introduce una escena que exige interpretar acciones, no una clave automática para asignar cada personaje a una institución moderna. El trasfondo de **(כרם)**, _kerem_, «viña», puede acercarse a la imagen profética de Israel, pero Marcos deja que la parábola avance hasta la violencia contra el hijo y la entrega de la viña a otros. La palabra **(κληρονόμος)**, _klēronomos_, «heredero», explica la motivación declarada por los labradores: su cálculo convierte el asesinato en una pretensión de posesión.
+
+<!-- prettier-ignore -->
+La pregunta del dueño —qué hará— recibe una respuesta de juicio y transferencia: hará perecer a los labradores y dará la viña a otros (#markos_12_9). Luego Yehoshua cita la piedra que los edificadores rechazaron y que llegó a ser cabeza del ángulo. **(λίθος)**, _lithos_, «piedra», es una forma concreta en la cita; la interpretación mesiánica debe probarse por el lugar que ocupa dentro del relato, no por una definición aislada. La reacción de los dirigentes confirma que entendieron que la parábola hablaba acerca de ellos, pero el temor al pueblo les impide actuar de inmediato (#markos_12_12).
+
+<!-- prettier-ignore -->
+La siguiente prueba cambia del homicidio alegórico a la moneda visible. Perushim y siervos de Horodós elogian a Yehoshua con palabras que aparentan respeto y preguntan si es lícito pagar impuesto al César (#markos_12_13-15). Yehoshua conoce su **(ὑπόκρισις)**, _hypokrisis_, «hipocresía o actuación fingida», y pide un denario. La moneda tiene imagen e inscripción; por eso la respuesta «den al César lo del César y a Elohim lo de Elohim» distingue una obligación reclamada por la moneda de la lealtad que no puede agotarse en ella. **(εἰκών)**, _eikōn_, «imagen», puede compararse con **(צלם)**, _tselem_, pero la comparación hebrea no debe presentarse como si Marcos hubiera citado Bereshit en este versículo.
+
+El orden inicial prepara los temas posteriores. La viña muestra administradores que traicionan al dueño y al hijo; el denario muestra una pregunta política que intenta atrapar al maestro; las escenas de resurrección, Shemá, señorío y ofrenda continúan preguntando quién recibe fidelidad y cómo se reconoce una autoridad legítima. Esta conexión literaria es segura como progresión del capítulo; no convierte el impuesto en una explicación exhaustiva de la relación entre todos los gobiernos y la comunidad.
 
 ## Tzedukim, levirato y el Elohim de los vivos (12:18-27)
 
@@ -150,6 +177,7 @@ La cercanía literaria importa. El relato acaba de denunciar a quienes devoran c
 
 ## Prueba de lectura: la ofrenda debe leerse después de la denuncia
 
+<!-- prettier-ignore -->
 La secuencia final de Marcos 12 impide aislar la ofrenda de la viuda como una receta de financiación religiosa. Primero, Yehoshua denuncia a los escribas que devoran las casas de las viudas y usan una apariencia de oración (#markos_12_38-40); después observa a una viuda que deposita dos monedas (#markos_12_41-44). El contraste es deliberado: la mujer es vista por Yehoshua, mientras la autoridad que la explota queda bajo juicio. La enseñanza de Eric sobre una entrega que compromete toda la vida se sostiene en **ὅλον τὸν βίον**, _holon ton bion_, «toda la vida o sustento», pero el contexto local prohíbe convertir ese reconocimiento en presión sobre quienes carecen de recursos.
 
 El capítulo enlaza esa escena económica con la pregunta por el mandamiento. **περισσόν**, _perisson_, «más, abundante o excedente», describe lo que los ricos echan desde su abundancia; **ὑστέρημα**, _hysterēma_, «carencia o déficit», describe el punto desde el que da la viuda. El contraste no es entre una moneda con poder mágico y otra sin valor, sino entre excedente y sustento. Por eso el amor al prójimo del Shemá requiere que la comunidad no devore las casas que afirma servir.

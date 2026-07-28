@@ -71,14 +71,17 @@ El video de Eric pone el domingo en el título, pero Marcos 16:20 pone el peso f
 
 ## Léxico clave
 
-| Forma            | Transliteración | Sentido normal y contextual            | Equivalencia                                                      |
-| ---------------- | --------------- | -------------------------------------- | ----------------------------------------------------------------- |
-| **(ἠγέρθη)**     | _ēgerthē_       | fue levantado, despertó; aquí resucitó | Exacta en el anuncio narrativo; no codifica un día                |
-| **(προάγει)**    | _proagei_       | va delante, precede, guía              | Exacta con la promesa de Galil                                    |
-| **(εὐαγγέλιον)** | _euangelion_    | buena noticia, anuncio favorable       | Aproximada con _Besorah_                                          |
-| **(κηρύξατε)**   | _kēryxate_      | proclamen públicamente                 | Exacta como imperativo de misión                                  |
-| **(πιστεύσας)**  | _pisteusas_     | el que cree o confía                   | Aproximada con _emunah_; el contexto incluye respuesta al anuncio |
-| **(ἀνελήμφθη)**  | _anelēmphthē_   | fue recibido o llevado arriba          | Exacta en sentido narrativo; el matiz teológico requiere contexto |
+| Forma            | Transliteración | Sentido normal y contextual            | Equivalencia                                                                                                                                                                                       |
+| ---------------- | --------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(ἠγέρθη)**     | _ēgerthē_       | fue levantado, despertó; aquí resucitó | Exacta en el anuncio narrativo; no codifica un día                                                                                                                                                 |
+| **(προάγει)**    | _proagei_       | va delante, precede, guía              | Exacta con la promesa de Galil                                                                                                                                                                     |
+| **(εὐαγγέλιον)** | _euangelion_    | buena noticia, anuncio favorable       | Aproximada con _Besorah_                                                                                                                                                                           |
+| **(κηρύξατε)**   | _kēryxate_      | proclamen públicamente                 | Exacta como imperativo de misión                                                                                                                                                                   |
+| **(πιστεύσας)**  | _pisteusas_     | el que cree o confía                   | Aproximada con _emunah_; el contexto incluye respuesta al anuncio                                                                                                                                  |
+| **(ἀνελήμφθη)**  | _anelēmphthē_   | fue recibido o llevado arriba          | Exacta en sentido narrativo; el matiz teológico requiere contexto                                                                                                                                  |
+| **(שבת)**        | _shabbat_       | reposo, cesación del trabajo           | En 16:1, «después del Shabat» fija el marco temporal; Marcos usa **σάββατον**, _sabbaton_, y la equivalencia es contextual. No equivale aquí a «primer día» ni a una orden de trasladar el reposo. |
+| **(בשורה)**      | _besorah_       | buena noticia, anuncio                 | Ayuda a expresar el encargo de proclamar en 16:15, pero no reemplaza el análisis de **εὐαγγέλιον**, _euangelion_; la equivalencia semántica es aproximada.                                         |
+| **(עולם)**       | _olam_          | mundo, era o duración                  | Puede iluminar «todo el mundo» en 16:15, pero aquí no construye una cronología de la era venidera; su equivalencia con **κόσμος** o «toda la creación» depende del contexto.                       |
 
 ## Control de la perícopa: del sepulcro al testimonio
 
