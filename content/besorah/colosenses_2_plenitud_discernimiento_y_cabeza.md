@@ -86,6 +86,16 @@ En las sesiones 8–9, Eric vuelve al «nadie» de #colossians_2_16 para leerlo 
 
 Al preguntar por qué quienes murieron con el Mesías se someten a ordenanzas mundanas, Pablo cita prohibiciones y las vincula con mandamientos y enseñanzas humanas (#colossians_2_20-22). Su evaluación final es severa: pueden tener apariencia de sabiduría en culto autoimpuesto, humildad y trato duro del cuerpo, pero carecen de valor contra la complacencia de la carne (#colossians_2_23). La respuesta no es despreciar el cuerpo, sino discernir lo que realmente procede de la cabeza y produce el crecimiento que Elohim da (#colossians_2_19).
 
+## Evaluación lexical de los pasajes disputados
+
+La observación de Eric sobre «sombra» debe conservar la secuencia completa, no solo el sustantivo. **(κρίνω)**, _krinō_, significa juzgar, evaluar o emitir una sentencia; en #colossians_2_16 su fuerza contextual es la acción de convertir comida, bebida y tiempos señalados en base de condena comunitaria. «Juzgar» es traducción directa, aunque el verbo por sí solo no identifica quiénes eran esos jueces ni resuelve el debate sobre la práctica.
+
+**(σκιά)**, _skia_, significa sombra, silueta o representación; en #colossians_2_17 caracteriza esas realidades como relacionadas con lo venidero. «Sombra» es una traducción directa y la relación temporal es textual; decidir si la metáfora implica continuidad, anticipación o cumplimiento requiere considerar **(σῶμα)**, _sōma_, que significa cuerpo y en el mismo contexto puede funcionar como contraste metafórico. La propuesta de Eric —que el versículo no autoriza una cancelación automática de las fiestas— es una inferencia cualificada y pastoralmente prudente, no una definición exhaustiva de la sintaxis.
+
+**(χειρόγραφον)**, _cheirographon_, significa escrito a mano o documento reconocido; en #colossians_2_14 aparece como aquello que estaba contra nosotros y fue quitado en conexión con perdón y triunfo. «Acta de deuda» es una traducción interpretativa aproximada: el término no equivale automáticamente a toda la Torah ni permite decidir por sí solo si Pablo habla de culpa, acusación o una obligación escrita. **(δογματίζω)**, _dogmatizō_, significa decretar, someter a decretos o imponer reglamentos; su fuerza en #colossians_2_20-22 describe una presión normativa vinculada a mandamientos humanos. «Someterse a ordenanzas» es aproximado y debe leerse con el sujeto y la ironía del argumento, no como condena de toda instrucción.
+
+Así, la clase acierta al rechazar dos atajos opuestos: ni «sombra» borra por sí sola toda observancia, ni la prohibición de juzgar convierte cualquier práctica en medida de justicia. El criterio explícito del cierre sigue siendo asirse a la cabeza y crecer con el crecimiento que da Elohim (#colossians_2_19,23).
+
 ## Hoja léxica
 
 | Forma fuente       | Transliteración | Sentido normal                                         | Fuerza contextual                                                                                                                                                                                                          | Relación de traducción                                                                                                                    |
@@ -115,9 +125,8 @@ Eric organiza las sesiones 6–9 alrededor de estas expresiones: contrapone la p
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la sintaxis y el campo semántico de #colossians_2_9-15 con una edición griega y léxicos.
 - [ ] Documentar el trasfondo de #colossians_2_16-23 sin atribuir de antemano un grupo histórico concreto a los opositores.
-- [ ] Examinar el referente de «sombra» y «cuerpo» en #colossians_2_17 dentro de la unidad #colossians_2_16-19.
+- [ ] Examinar en una edición crítica la sintaxis de «sombra» y «cuerpo» en #colossians_2_17 y el alcance de **(χειρόγραφον)** en #colossians_2_14.
 - [ ] Verificar las equivalencias hebreas y etimologías propuestas por la clase antes de usarlas como argumento.
 
 ## Conclusión

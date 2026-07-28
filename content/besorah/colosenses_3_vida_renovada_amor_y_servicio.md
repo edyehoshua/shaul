@@ -93,6 +93,16 @@ En la sesión 15, Eric cuestiona que «sujeción» se oiga simplemente como «su
 
 #colossians_3_22-25 se dirige a esclavos y les pide obediencia sincera, no servicio de apariencia, trabajando de corazón para el Señor y recordando la herencia y el juicio imparcial. La sesión 15 retoma el lenguaje de subordinación y reserva #colossians_4_1 para cerrar la unidad porque, según Eric, la división posterior de capítulos interrumpe el hilo entre subordinados y señores. El texto confirma que #colossians_4_1 continúa inmediatamente el bloque, pero no formula aquí una orden explícita de manumisión. Esa observación describe lo que el mandato dice y no dice, pero no vuelve la esclavitud justa ni proporciona autorización para explotación actual. La dignidad de las personas y la imparcialidad de Elohim deben regir toda aplicación; el pasaje debe leerse junto con #colossians_4_1, que ordena justicia y equidad a los amos.
 
+## Evaluación lexical de la vida nueva
+
+**(ζητέω)**, _zēteō_, significa buscar, procurar o intentar encontrar; en #colossians_3_1 su fuerza contextual es orientar activamente la vida hacia «lo de arriba» después de haber sido levantados con el Mesías. «Buscar» es traducción directa; no significa evasión de la tierra, porque el resto del capítulo ordena cambios visibles en el cuerpo, la lengua, el trabajo y la casa. **(φρονέω)**, _phroneō_, significa pensar, orientar la mente o tener una disposición; en #colossians_3_2 pide una disposición sostenida, no una emoción pasajera. «Poner la mira» es una paráfrasis pedagógica aproximada.
+
+**(ἀνακαινόω)**, _anakainoō_, significa renovar o hacer nuevo; el participio en #colossians_3_10 describe un proceso de renovación conforme al conocimiento y a la imagen del Creador. «Renovarse» es directo en sentido general, pero el término no autoriza una teoría de perfección instantánea: el contexto muestra una comunidad que debe quitar mentira, ira y lenguaje dañino y vestirse continuamente de compasión, perdón y amor. **(ἐνδύω)**, _endyō_, significa vestirse o ponerse una prenda; en #colossians_3_12 la imagen comunica adopción práctica de virtudes, no una equivalencia exacta con vestiduras sacerdotales. Las conexiones con Edén y sacerdocio que Eric propone son pedagógicas y canónicas, no demostraciones lexicales.
+
+En #colossians_3_18, **(ὑποτάσσω)**, _hypotassō_, significa someter, colocar bajo un orden o disponerse bajo una relación; «someterse» es una traducción aproximada cuyo alcance depende de «como conviene en el Señor». El verbo no puede aislarse del mandato paralelo de amar sin amargura (#colossians_3_19) ni de la prohibición de exasperar (#colossians_3_21). En #colossians_3_22, **(δοῦλος)**, _doulos_, significa esclavo o siervo en una relación de dependencia; «siervo» puede suavizar el término y «esclavo» hace visible la condición social, pero ninguna glosa convierte la institución en justa. La exhortación al trabajo sincero y el juicio imparcial del Señor limitan la lectura, mientras #colossians_4_1 exige justicia y equidad a quienes poseen poder.
+
+La observación de Eric sobre la continuidad entre #colossians_3_22-25 y #colossians_4_1 es sólida como observación literaria. Su aplicación actual debe ser cualificada: el texto llama a la fidelidad y al juicio del Señor dentro de una situación antigua, pero no ofrece permiso para reproducir esclavitud, coerción o abuso.
+
 ## Hoja léxica
 
 | Forma fuente                                     | Transliteración                       | Sentido normal                               | Fuerza contextual y relación                                                                                                                                                                                                                                                                                                                                         |
@@ -118,7 +128,7 @@ En la sesión 15, Eric cuestiona que «sujeción» se oiga simplemente como «su
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la terminología de muerte, resurrección, viejo ser y nuevo ser con el texto griego.
+- [ ] Cotejar en una edición crítica la terminología de muerte, resurrección, viejo ser y nuevo ser y la sintaxis de #colossians_3_18.
 - [ ] Examinar las conexiones propuestas con Edén, sacerdocio y libertad sin tratarlas como alusiones explícitas.
 - [ ] Estudiar #colossians_3_18-21 junto con los paralelos literarios e históricos, priorizando la protección contra abuso.
 - [ ] Documentar el contexto de esclavitud y la relación entre #colossians_3_22-25 y #colossians_4_1 antes de conclusiones sociales amplias.
