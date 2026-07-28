@@ -54,6 +54,16 @@ El título de la fuente habla de no profanar el cuerpo de Mashíaj. Esa formulac
 
 El mismo bloque ordena Pesaj, Shavuot y la fiesta de la recolección, y manda que los varones aparezcan ante el Adón יהוה. TTH llama a esta última «la fiesta de la colección». En el marco de Jol Hamo'ed, esto impide tratar la fiesta como entretenimiento sin memoria: la celebración recuerda liberación, primeros frutos y dependencia. También evita el extremo opuesto de convertir el descanso en una excusa para despreciar el cuerpo que necesita cesar.
 
+## El rostro de יהוה y la exclusividad del pacto
+
+La petición de Moshéh no busca una experiencia que pueda poseerse. **(נחני)**, _najeni_, de נחה, significa guiar, conducir o dar descanso; la forma pide que יהוה muestre el camino. La presencia no es un adorno añadido a la misión: sin יהוה, Moshéh dice que no se puede distinguir al pueblo de los demás. **(פלא)**, _pala_, significa ser maravilloso, extraordinario o separado; en 33:16 la distinción del pueblo procede de la presencia de יהוה, no de una superioridad fabricada por Israel.
+
+Cuando Moshéh pide ver la gloria, **(כבוד)**, _kavod_, mantiene el campo de peso, honor y gloria. El texto responde proclamando el Nombre y protegiendo a Moshéh en la hendidura de la roca. «Ver el rostro» y «conocer plenamente a Dios» serían equivalencias pedagógicas demasiado fuertes: la narración afirma revelación real y límite real. La presencia puede ser reconocida por sus efectos sin quedar sometida a la mirada humana.
+
+Éxodo 34:6–7 debe permanecer junto a 34:12–16. **(ארך אפים)**, _erekh apayim_, significa «largo de ira» o paciente; la traducción «tardo para la ira» es aproximada y convencional. **(נקה)**, _naqqeh_, significa declarar limpio o dejar sin culpa; la fórmula «de ningún modo deja sin culpa» muestra que compasión y responsabilidad no se cancelan. El mismo Dios que proclama abundante bondad prohíbe un pacto que incline al pueblo hacia otros elohim.
+
+El título de Eric habla de «profanar el cuerpo de Mashíaj». Esa aplicación pública puede conservarse como preocupación de la clase, pero su evaluación textual debe ser gradual: Éxodo 33–34 no usa esa frase, mientras que sí ordena distinguirse por presencia, pacto, santuario, tiempos y culto exclusivo. La conexión con una comunidad corporal requiere otros textos para su formulación completa; aquí funciona como inferencia cualificada y no como traducción de **(מקדש)**, _miqdash_, «santuario».
+
 ### Hoja de comparación
 
 | Referencia    | Hebreo (sin nikud)                  | TTH (OE/TTH)                                       | Observación                                   |

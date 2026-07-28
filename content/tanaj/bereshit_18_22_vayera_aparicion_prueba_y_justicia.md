@@ -53,6 +53,22 @@ El capítulo finaliza con **(נסה)**, _nasá_, «probar, poner a prueba» (22:
 
 En 22:14 el nombre **(יראה)**, _yir’eh_, está relacionado con ראה, «ver», y el TTH ofrece «יהוה verá». Traducir «proveerá» es una interpretación contextual posible, pero pedagógica: el verbo es «ver», mientras el contexto enseña que la visión de יהוה incluye disponer el carnero y sostener la promesa. La prueba no cancela al hijo ni convierte el sacrificio humano en mandato; el texto detiene la mano y reafirma la bendición.
 
+## Sedom: justicia que escucha la intercesión sin negar el juicio
+
+Entre la aparición y la prueba, el relato de Sedom muestra cómo la presencia recibida se convierte en responsabilidad. יהוה declara que ha escogido a Abraham para que ordene a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (#bereshit_18_19). **(דרך)**, _derekh_, significa camino, senda o manera de proceder; aquí su fuerza contextual es una conducta estable que puede enseñarse. «Método religioso» sería una equivalencia pedagógica demasiado estrecha. **(שמר)**, _shamar_, significa guardar, vigilar o custodiar, y en la frase expresa una obediencia transmitida a la casa, no una emoción privada.
+
+La pregunta de Abraham —«¿El Juez de toda la tierra no hará justicia?»— no convierte al patriarca en tribunal superior. **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; el sustantivo **(משפט)**, _mishpat_, reúne el ejercicio de ese juicio y el orden justo que Abraham espera de יהוה. La intercesión reduce el número de justos, pero el narrador no anuncia que la ciudad sea inocente por la sola existencia de una negociación. La observación que el título de Eric permite conservar es la centralidad de la aparición y la justicia; cualquier reconstrucción de su explicación oral debe quedar pendiente, porque la transcripción no está disponible.
+
+El rescate de Lot añade un límite importante. Lot dice que יהוה ha engrandecido su **(חסד)**, _jesed_, y ha salvado su vida; la forma significa bondad leal, misericordia o fidelidad activa. «Gracia» es una equivalencia pedagógica posible, no exacta. La misericordia no llama bueno al pecado de Sedom: sostiene al vulnerable dentro de un juicio que el capítulo describe como responsabilidad pública.
+
+## Moriah: escuchar, ver y recibir la provisión
+
+En Bereshit 22 Abraham responde **(הנני)**, _hineni_, «heme aquí». La forma no es un nombre técnico de perfección; es una disponibilidad inmediata ante quien llama. Luego el mandato de tomar al hijo es descrito como una **(נסה)**, _nisáh_, prueba de Elohim. El verbo **(נסה)**, _nasah_, significa probar o poner a prueba; «tentar» es aproximado y puede sugerir seducción al mal, una idea ajena al movimiento narrativo.
+
+El muchacho pregunta por el cordero y Abraham responde: **אלהים יראה לו השה**, _Elohim yireh lo haseh_, «Elohim verá para sí el cordero» (22:8). La forma **(יראה)**, _yir'eh_, viene de ראה, «ver». TTH ofrece «Elohim verá para sí», mientras que «proveerá» explica el resultado contextual: el carnero aparece y la mano es detenida, pero no debe sustituirse la forma verbal hebrea por una teología automática de prosperidad. En 22:14, **יהוה יראה**, _YHWH yireh_, vuelve a dejar abierta la relación entre ver y disponer. La equivalencia «proveedor» es pedagógica; el texto afirma primero que יהוה ve y que su visión sostiene la obediencia.
+
+El cierre retoma la promesa a la descendencia y a las naciones. **(עקב)**, _eqev_, significa talón, huella o consecuencia; en 22:18 la obediencia de Abraham aparece como condición narrativa de la bendición, pero el juramento y la promesa siguen siendo iniciativa de יהוה. La nota no convierte la prueba en una fórmula para comprar favor divino: el capítulo comienza con una palabra recibida, muestra una obediencia probada y termina con una bendición jurada.
+
 ### Hoja de comparación
 
 | Referencia      | Hebreo (sin nikud)        | TTH (OE/TTH)               | Observación                                            |
