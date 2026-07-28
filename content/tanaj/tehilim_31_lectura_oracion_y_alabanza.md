@@ -31,6 +31,10 @@ Tehilim 31 presenta a David refugiado en יהוה mientras todavía pide ser sac
 
 Se sigue el salmo en orden textual y se explican las observaciones concretas de la exposición pública de Eric de Jesús Rodríguez Mendoza. La transcripción automática se usó como apoyo de localización y no como cita literal. El hebreo procede del corpus OE local y se normaliza sin barras de segmentación. Las conexiones entre David, el amado y el Mesías se conservan como lectura atribuida y se distinguen del sentido inmediato de cada verso.
 
+## Ruta pública de la exposición
+
+La clase vuelve varias veces a la diferencia entre una cueva natural y el refugio que יהוה ofrece: alrededor de **7:23** Eric describe la caverna como protección física, y cerca de **16:54** enlaza refugio y rescate. Estos puntos temporales son rutas públicas de la misma clase —no citas literales— y ayudan a ubicar la observación que luego se contrasta con 31:1-9. Video: <https://www.youtube.com/watch?v=Nm5fsBe_NSA&t=443s> — source_id: `youtube:Nm5fsBe_NSA`.
+
 ## Refugio, justicia y la cueva que no salva por sí sola — Tehilim 31:1-5
 
 El encabezado dice: **למנצח מזמור לדוד**, «para el director, cántico de David» (#tehilim_31_1). Eric comienza recordando que el personaje histórico puede hablar de David, pero que la exposición emplea una convención: detrás de David aparece el amado, y lo literal pasa a una realidad espiritual que no queda en símbolo abstracto. Esa lectura no elimina el encabezado; primero reconoce la escena histórica y después pregunta qué realidad mayor expresa.
@@ -41,7 +45,7 @@ Los vv. 3-5 acumulan roca, fortaleza, casa de fortalezas, guía y red. Eric imag
 
 ## Entregar el espíritu y salir de la protección — Tehilim 31:6-9
 
-«En tu mano encomiendo mi espíritu» (#tehilim_31_6) expresa entrega confiada, no fatalismo. Eric conecta la frase con el amado y con la entrega consciente de la vida, pero el sentido directo es que el orante deposita su espíritu en la mano de יהוה y recuerda que fue redimido. **רוח** (_ruaj_) puede significar aliento, espíritu o viento; aquí designa la vida interior que el orante confía a יהוה. Su relación con la entrega mesiánica es intertextual, no una traducción distinta.
+«En tu mano encomiendo mi espíritu» (#tehilim_31_6) expresa entrega confiada, no fatalismo. Eric conecta la frase con el amado y con la entrega consciente de la vida, pero el sentido directo es que el orante deposita su espíritu en la mano de יהוה y recuerda que fue redimido. **רוח** (\_ruaj\_) puede significar aliento, espíritu o viento; aquí designa la vida interior que el orante confía a יהוה. Su relación con la entrega mesiánica es intertextual, no una traducción distinta.
 
 En el v. 7 el salmista contrasta a quienes guardan vanidades vacías con él, que confía en יהוה. Eric desarrolla «vanidades» como realidades que prometen protección sin poder darla. El hebreo **הבלי שוא** significa vanidades de falsedad o vacío; la aplicación a sistemas de confianza alternativos es apropiada, aunque el verso no enumera cada sistema moderno.
 
@@ -53,7 +57,7 @@ La sección central hace visible el costo del asedio: ojos, vida, vientre, años
 
 En 31:14-16 la respuesta de confianza vuelve a aparecer: «en ti, יהוה, confié» y «en tu mano están mis tiempos». Eric usa **עתותי** (_ittotai_, mis tiempos o momentos) para insistir en que la vida no está gobernada finalmente por Shaul, los perseguidores ni el azar. El término normalmente significa tiempos o ocasiones; la aplicación a la soberanía de יהוה es contextual y exacta en su dirección general.
 
-«Haz resplandecer tu rostro sobre tu siervo; sálvame en tu bondad leal» (#tehilim_31_17) une rostro, gracia y rescate. Eric relaciona la luz del rostro con la revelación de la justicia divina y con el amado; el salmo pide directamente favor y salvación. **חסד** (_jesed_) significa bondad leal, misericordia o fidelidad relacional. Decir «justicia por gracia» resume la aplicación de Eric, no reemplaza la forma concreta en que el poema suplica por חסד.
+«Haz resplandecer tu rostro sobre tu siervo; sálvame en tu bondad leal» (#tehilim_31_17) une rostro, gracia y rescate. Eric relaciona la luz del rostro con la revelación de la justicia divina y con el amado; el salmo pide directamente favor y salvación. **חסד** (\_jesed\_) significa bondad leal, misericordia o fidelidad relacional. Decir «justicia por gracia» resume la aplicación de Eric, no reemplaza la forma concreta en que el poema suplica por חסד.
 
 ## Verdad contra la calumnia y bien escondido para los que esperan — Tehilim 31:18-23
 

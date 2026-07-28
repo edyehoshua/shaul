@@ -30,6 +30,10 @@ Tehilim 32 comienza con la felicidad del ser humano cuya rebelión es levantada,
 
 Se recorren los once versos en orden, explicando observaciones concretas de la clase de Eric de Jesús Rodríguez Mendoza y probándolas contra el texto hebreo local. La transcripción automática sirve para localizar la enseñanza, no se presenta como cita literal. Se normaliza el hebreo sin barras de segmentación. Las distinciones entre pecado, iniquidad y rebelión se presentan como el esquema pedagógico de Eric; el campo semántico de los términos puede solaparse en otros contextos.
 
+## Ruta pública de la exposición
+
+La clase hace explícita la transición entre callar y confesar: alrededor de **41:10** Eric explica que dejar de confesar mantiene encerrada la culpa, y cerca de **1:02:50** retoma el acto de confesar a יהוה. Son rutas públicas para localizar el argumento atribuido, no transcripciones literales. Video: <https://www.youtube.com/watch?v=UoOufP7bDkA&t=2470s> — source_id: `youtube:UoOufP7bDkA`.
+
 ## Felicidad: rebelión levantada, pecado cubierto y espíritu sin engaño — Tehilim 32:1-2
 
 El encabezado **לדוד משכיל** puede entenderse como «de David, una composición de instrucción». Eric retoma su convención de leer a David y al amado: el personaje histórico permite entrar en el relato, pero la enseñanza busca formar conciencia y revelar al Mesías. La atribución davídica debe mantenerse; la extensión al amado es la lectura teológica de la clase.
