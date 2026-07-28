@@ -79,6 +79,14 @@ La clase vincula esta gracia con una vida transformada y anticipa la pregunta de
 | **δικαιοσύνη** | justicia; en #romanos_5_17, don de justicia         | Distinguir el sentido del sustantivo y sus relaciones con justificación y conducta según el contexto. |
 | **παράπτωμα**  | delito o transgresión                               | Pablo lo contrapone al don; no debe confundirse automáticamente con cada término cercano del pasaje.  |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Evaluación en esta nota |
+| --- | --- | --- |
+| Romanos 5:1-11 | Eric presenta la gracia y la reconciliación como iniciativa de Elohim, no como salario humano, y las vincula con una vida de santidad. | Apoyo textual cualificado: el bloque habla de gracia, reconciliación y esperanza; la aplicación concreta a la santidad se contrasta con Romanos 6 y no se presenta como una definición aislada de 5:1-11. |
+| Romanos 5:12-14 | Eric explica el pecado como desviación y relaciona la muerte que reina desde Adán con la condición humana. | Apoyo textual y aclaración léxica: el capítulo afirma pecado, muerte y el período Adán-Moisés; la equivalencia entre **ἁμαρτία** y «error» es aproximada, y su alcance antropológico total queda pendiente. |
+| Romanos 5:15-21 | Eric contrasta el delito de Adán con el don abundante de gracia y justicia por Yehoshua, rechazando que la gracia sea licencia para pecar. | Apoyo textual con conexión canónica: Pablo insiste en la asimetría entre transgresión y don, mientras Romanos 6 desarrolla explícitamente la respuesta a la gracia; las extensiones doctrinales se mantienen cualificadas. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el griego de #romanos_5_12-21, especialmente «todos pecaron», el cálculo del pecado en #romanos_5_13 y «para que aumentara» en #romanos_5_20.

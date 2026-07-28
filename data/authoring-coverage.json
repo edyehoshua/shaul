@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 789,
-  "pending_videos": 169,
-  "transcript_notes": 372,
+  "covered_videos": 791,
+  "pending_videos": 167,
+  "transcript_notes": 373,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -118,7 +118,7 @@
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 26,
+      "covered": 28,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
