@@ -48,29 +48,29 @@ Esta nota ordena las partes 42 y 43 del estudio de Marcos del **hermano Eric de 
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la lectura |
-| --- | --- | --- |
-| #markos_14_1-2 | TTH: en dos días era Pésaj y Matzot; sacerdotes y escribas buscaban prenderlo con engaño, pero no en la fiesta para evitar alboroto. | El marco calendárico y la cautela política abren el capítulo. |
-| #markos_14_3-9 | TTH: en Bet Aniah una mujer derrama nardo costoso; Yehoshua dice que se anticipó a ungir su cuerpo para la sepultura y que su obra será contada con la Besorah. | La unción anticipa la muerte antes de la captura. |
-| #markos_14_12-16 | TTH: el primer día de Matzot, cuando sacrificaban el Pésaj, los discípulos preparan la habitación superior. | La preparación une sacrificio del cordero y mesa compartida. |
-| #markos_14_22-25 | TTH: pan partido como cuerpo; copa como sangre del pacto renovado derramada por muchos; no beberá del fruto de la vid hasta el reino. | La mesa interpreta la entrega venidera. |
-| #markos_14_27-31 | TTH cita «¡Hiere al pastor!»; Kefa promete no tambalearse; Yehoshua anuncia la negación antes del gallo. | La Escritura y la debilidad humana se cruzan antes de Getsemaní. |
-| #zejariah_13_7 | TTH: «¡Hiere al pastor!, y se dispersarán las ovejas». | Trasfondo explícito del anuncio de 14:27. |
-| #markos_14_32-42 | TTH: en Gue Shemanim ora «Padre, Padre mío… no es lo que yo quiero, sino lo que Tú»; tres veces halla dormidos a los discípulos; la hora ha venido. | La sumisión precede a la entrega. |
-| #markos_14_53-65 | TTH: testimonios falsos no concuerdan; el sumo sacerdote pregunta si es el Mesías; Yehoshua responde «Yo soy» y habla del Ben HaAdam a la diestra del poder y en las nubes. | La confesión pública precipita el juicio de muerte. |
-| #markos_14_66-72 | TTH: Kefa niega tres veces; el gallo grita la segunda vez y él llora. | El discípulo confiado descubre su límite. |
+| Referencia       | Texto local                                                                                                                                                                 | Función en la lectura                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| #markos_14_1-2   | TTH: en dos días era Pésaj y Matzot; sacerdotes y escribas buscaban prenderlo con engaño, pero no en la fiesta para evitar alboroto.                                        | El marco calendárico y la cautela política abren el capítulo.    |
+| #markos_14_3-9   | TTH: en Bet Aniah una mujer derrama nardo costoso; Yehoshua dice que se anticipó a ungir su cuerpo para la sepultura y que su obra será contada con la Besorah.             | La unción anticipa la muerte antes de la captura.                |
+| #markos_14_12-16 | TTH: el primer día de Matzot, cuando sacrificaban el Pésaj, los discípulos preparan la habitación superior.                                                                 | La preparación une sacrificio del cordero y mesa compartida.     |
+| #markos_14_22-25 | TTH: pan partido como cuerpo; copa como sangre del pacto renovado derramada por muchos; no beberá del fruto de la vid hasta el reino.                                       | La mesa interpreta la entrega venidera.                          |
+| #markos_14_27-31 | TTH cita «¡Hiere al pastor!»; Kefa promete no tambalearse; Yehoshua anuncia la negación antes del gallo.                                                                    | La Escritura y la debilidad humana se cruzan antes de Getsemaní. |
+| #zejariah_13_7   | TTH: «¡Hiere al pastor!, y se dispersarán las ovejas».                                                                                                                      | Trasfondo explícito del anuncio de 14:27.                        |
+| #markos_14_32-42 | TTH: en Gue Shemanim ora «Padre, Padre mío… no es lo que yo quiero, sino lo que Tú»; tres veces halla dormidos a los discípulos; la hora ha venido.                         | La sumisión precede a la entrega.                                |
+| #markos_14_53-65 | TTH: testimonios falsos no concuerdan; el sumo sacerdote pregunta si es el Mesías; Yehoshua responde «Yo soy» y habla del Ben HaAdam a la diestra del poder y en las nubes. | La confesión pública precipita el juicio de muerte.              |
+| #markos_14_66-72 | TTH: Kefa niega tres veces; el gallo grita la segunda vez y él llora.                                                                                                       | El discípulo confiado descubre su límite.                        |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal | Fuerza contextual | Equivalencia |
-| --- | --- | --- | --- | --- |
-| **(פסח)** | pesaj | pasar por alto; también el sacrificio/fiesta de Pésaj | En 14:1 y 12 marca el tiempo y el animal sacrificado; la clase distingue el cordero del día 14 y la fiesta de Matzot. | Aproximada con el uso griego de la fiesta; no confudir fiesta y víctima. |
-| **(מצות)** | matzot | panes sin levadura | Acompaña a Pésaj en 14:1 y enmarca la preparación. | Exacta en el nombre de la fiesta; el calendario detallado requiere cotejo. |
-| **(διαθήκη)** / **(ברית)** | diatheke / berit | pacto, alianza | 14:24 llama a la copa «sangre del pacto renovado». | Aproximada; «nuevo» no autoriza borrar la continuidad con la Escritura. |
-| **(אבא)** | abba | padre, papá; forma aramea íntima o vocativa | En 14:36 TTH traduce «Padre, Padre mío». La clase lo lee como consulta a la condición ideal/justicia divina; eso es elaboración teológica, no glosa léxica directa. | Aproximada; no equivalencia automática con «juramento» o «Torá». |
-| **(בן האדם)** | Ben HaAdam | hijo del hombre | Une entrega (14:21, 41) y exaltación (14:62). | Aproximada con **(ὁ υἱὸς τοῦ ἀνθρώπου)**; no se reduce a «un humano cualquiera». |
-| **(ναός)** / **(היכל)** | naos / hejal | santuario, templo | El falso testimonio habla de derribar el Hejal hecho de manos. | Aproximada; el sentido exacto de la acusación debe leerse con el resto de Marcos. |
-| **(βλασφημία)** | blasphemia | blasfemia, injuria contra lo sagrado | El sanedrín oye blasfemia en la confesión de 14:62-64. | Traducción usual; no prueba por sí sola la categoría jurídica posterior. |
+| Forma                      | Transliteración  | Sentido normal                                        | Fuerza contextual                                                                                                                                                   | Equivalencia                                                                      |
+| -------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **(פסח)**                  | pesaj            | pasar por alto; también el sacrificio/fiesta de Pésaj | En 14:1 y 12 marca el tiempo y el animal sacrificado; la clase distingue el cordero del día 14 y la fiesta de Matzot.                                               | Aproximada con el uso griego de la fiesta; no confundir fiesta y víctima.         |
+| **(מצות)**                 | matzot           | panes sin levadura                                    | Acompaña a Pésaj en 14:1 y enmarca la preparación.                                                                                                                  | Exacta en el nombre de la fiesta; el calendario detallado requiere cotejo.        |
+| **(διαθήκη)** / **(ברית)** | diatheke / berit | pacto, alianza                                        | 14:24 llama a la copa «sangre del pacto renovado».                                                                                                                  | Aproximada; «nuevo» no autoriza borrar la continuidad con la Escritura.           |
+| **(אבא)**                  | abba             | padre, papá; forma aramea íntima o vocativa           | En 14:36 TTH traduce «Padre, Padre mío». La clase lo lee como consulta a la condición ideal/justicia divina; eso es elaboración teológica, no glosa léxica directa. | Aproximada; no equivalencia automática con «juramento» o «Torá».                  |
+| **(בן האדם)**              | Ben HaAdam       | hijo del hombre                                       | Une entrega (14:21, 41) y exaltación (14:62).                                                                                                                       | Aproximada con **(ὁ υἱὸς τοῦ ἀνθρώπου)**; no se reduce a «un humano cualquiera».  |
+| **(ναός)** / **(היכל)**    | naos / hejal     | santuario, templo                                     | El falso testimonio habla de derribar el Hejal hecho de manos.                                                                                                      | Aproximada; el sentido exacto de la acusación debe leerse con el resto de Marcos. |
+| **(βλασφημία)**            | blasphemia       | blasfemia, injuria contra lo sagrado                  | El sanedrín oye blasfemia en la confesión de 14:62-64.                                                                                                              | Traducción usual; no prueba por sí sola la categoría jurídica posterior.          |
 
 ## Pésaj cercano, unción y traición (14:1-11)
 
@@ -90,7 +90,7 @@ La promesa de beberlo nuevo en el reino (#markos_14_25) proyecta la mesa más al
 
 ## Pastor herido, promesas humanas y Gue Shemanim (14:27-42)
 
-Yehoshua cita la Escritura: herirán al pastor y las ovejas se dispersarán (#markos_14_27; #zejariah_13_7). Eric conecta esta palabra con la huida real de 14:50. El texto lo permite con claridad. Kefa responde con una lealtad absoluta; Yehoshua anuncia la negación triple antes del gallo. La clase comenta hábitos urbanos sobre cuándo cantaba el gallo; eso ilumina color local, pero el punto narrativo es la palabra cumplida, no la ornitología.
+Yehoshua cita la Escritura: herirán al pastor y las ovejas se dispersarán (#markos_14_27; #zejariah_13_7). Eric conecta esta palabra con la huida real de 14:50. El texto lo permite con claridad. Kefa responde con una lealtad absoluta; Yehoshua anuncia la negación triple antes del gallo. La clase comenta hábitos urbanos sobre cuándo cantaba el gallo; eso puede iluminar el color local, pero el punto narrativo es la palabra cumplida, no la ornitología. La secuencia de anuncio, sueño, arresto y negación mantiene el foco en la fragilidad de la promesa humana, no en una cronología reconstruida desde fuera del relato.
 
 En Gue Shemanim pide a los discípulos que se sienten y ora. Toma a Kefa, Iaacob e Iojanán; su ser está abatido hasta la muerte. La petición es concreta: si es posible, que pase la hora; «Padre, Padre mío, todo lo puedes Tú… pero no es lo que yo quiero, sino lo que Tú» (#markos_14_36). Eric propone que esta oración no introduce un segundo dios al que se ruega, sino la sumisión del Mesías —despojado y sujeto al ámbito humano— a la disposición de la justicia divina / la palabra. Esa lectura doctrinal es la tesis fuerte de la clase y debe marcarse como elaboración: el texto da la forma filial **(אבא)** y la renuncia a la propia voluntad; no define por sí solo un glosario metafísico completo de Abba.
 
