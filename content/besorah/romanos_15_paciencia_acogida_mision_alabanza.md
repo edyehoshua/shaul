@@ -89,6 +89,12 @@ La acogida de #romanos_15_7 funciona como bisagra. **(προσλαμβάνω)**,
 
 La colecta para Jerusalén muestra que la unidad de las naciones no queda en una fórmula verbal. Pablo habla de participación espiritual y ayuda material (#romanos_15_25-28), y después pide oración por un servicio concreto (#romanos_15_30-32). La aplicación atribuible al foco público de Eric puede llamarse apoyo textual **cualificado**: la paciencia, la paz y la acogida sostienen una comunidad capaz de servir; el capítulo, sin embargo, no ofrece por sí solo un programa moderno de financiación ni garantiza el resultado de la ruta proyectada hacia España.
 
+## De la acogida a una misión examinada
+
+El recorrido de Romanos 15 impide separar la paz comunitaria de la misión. **(προσλαμβάνω)**, _proslambanō_, significa recibir, acoger o tomar consigo; en #romanos_15_7 su fuerza contextual es recibir al hermano como el Mesías recibió a la comunidad, «para gloria de Elohim». La glosa «acoger» es **directa** en la escena, pero su alcance práctico es **cualificado**: no borra la exhortación ni permite usar la unidad para dominar la conciencia. La acogida produce una boca común porque está orientada a la gloria, no porque todos posean la misma historia o costumbre.
+
+La misión de Pablo conserva el mismo criterio. **(λειτουργός)**, _leitourgos_, significa servidor público o cultual; en #romanos_15_16 describe el servicio apostólico entre las naciones con un matiz sacerdotal. «Ministro» sería una traducción **aproximada y pedagógica**; no demuestra un rango posterior ni convierte a las naciones en objetos. El texto vincula palabra, obra, poder del Rúaj, ayuda material y oración (#romanos_15_18-19, #romanos_15_25-32). Así, el énfasis público de Eric sobre paciencia, consolación y paz recibe apoyo **cualificado**: una comunidad reconciliada puede servir, pero el capítulo sigue sometiendo todo proyecto a las promesas, a la misericordia, a la necesidad real de Jerusalén y a la voluntad de Elohim.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                 | Observación atribuible a la clase                                                                                         | Evaluación frente a Romanos                                                                                                                                    |

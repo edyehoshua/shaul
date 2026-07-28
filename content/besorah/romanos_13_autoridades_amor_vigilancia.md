@@ -102,6 +102,12 @@ El sustantivo **(διάκονος)**, _diakonos_, significa servidor o ministro;
 
 La vigilancia de #romanos_13_11-14 completa, en vez de abandonar, la cuestión pública. **(πρόνοια)**, _pronoia_, significa previsión, provisión o cuidado anticipado; en #romanos_13_14 describe no preparar una ocasión para que la carne gobierne mediante deseos desordenados. «No proveer» es una glosa **aproximada y pedagógica**: no manda negar necesidades corporales legítimas, sino rechazar una planificación moral que alimente la rivalidad, la borrachera, la inmoralidad o los celos. La fidelidad visible que la sesión subraya queda así medida por una vida sobria y amorosa, no por lealtad automática a una institución.
 
+## Tres límites para leer la sujeción
+
+La unidad del capítulo ofrece tres límites que deben mantenerse juntos. Primero, la autoridad es funcional: **(ἐξουσία)**, _exousia_, tiene como sentido ordinario autoridad, potestad o esfera de competencia; aquí su fuerza contextual queda ligada a servir para el bien y castigar lo malo. Segundo, la respuesta de la comunidad es consciente: **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior; en #romanos_13_5 explica que la sujeción no es solo cálculo para evitar la espada. Tercero, la norma positiva es **(ἀγάπη)**, _agapē_, amor comprometido que no hace mal al prójimo. La correspondencia de estas glosas es **directa** en su sentido básico, pero su aplicación política es **cualificada**: el texto no ofrece una autorización para santificar a todo gobernante ni una licencia para que cada individuo ignore el orden público.
+
+Por eso la observación pública de Eric sobre las autoridades puede conservarse como un llamado a reconocer responsabilidad y orden, mientras Romanos 13 la corrige en dos direcciones. La sujeción no elimina la evaluación moral de la autoridad, y la conciencia no convierte la preferencia personal en ley para los demás. El paso hacia el amor y hacia el despertar (#romanos_13_8-14) muestra que el capítulo termina juzgando la vida pública por el bien que hace al prójimo y por la sobriedad con que espera al Mesías. Esta es una inferencia **pedagógica**, no una cita literal de la sesión.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                   | Observación concreta de la clase                                                                                                | Evaluación frente a Romanos                                                                                                                              |
