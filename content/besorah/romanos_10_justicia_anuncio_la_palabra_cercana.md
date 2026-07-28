@@ -80,6 +80,12 @@ En #romanos_10_11-13 Pablo pasa de la confesión individual a la amplitud de la 
 
 La clase subraya el verbo hebreo de «invocar» y propone que Joel hace visible la precedencia del llamado divino. En la tabla léxica se conserva esa propuesta como calificada. **(ἐπικαλέω)**, _epikaleō_, tiene el sentido ordinario de invocar, apelar o llamar sobre alguien; en Romanos 10:12-14 describe la acción de quienes se dirigen al Señor. El hebreo **(קרא)**, _qara_, puede significar llamar, proclamar o invocar según su construcción. La relación entre ambos es aproximada y contextual: el argumento de Eric es pedagógicamente útil para preguntar quién inicia la salvación, pero no sustituye la sintaxis comprobada de Romanos.
 
+### Invocar y ser llamado: dos movimientos que el capítulo mantiene
+
+La observación de Eric protege una prioridad importante, pero Romanos 10 no reemplaza el verbo humano por una sola acción divina. **(ἐπικαλέω)**, _epikaleō_, significa invocar o apelar; su fuerza en #romanos_10_12-13 describe una respuesta dirigida al Señor. **(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; cuando se usa en el marco de Romanos 9–10, puede iluminar el llamamiento divino, pero no es un sinónimo gramatical de _epikaleō_. La relación entre ambos es **canónica y pedagógica**, no una equivalencia exacta de formas: uno nombra la invocación del creyente y el otro el llamamiento de Elohim.
+
+Por eso la cadena de #romanos_10_14-17 debe conservar su forma completa. La iniciativa del anuncio y del envío hace posible la escucha, pero Pablo pregunta también cómo invocarán quienes han oído; y el cierre de #romanos_10_20-21 describe tanto el hallazgo de quienes no buscaban como la resistencia de quienes fueron alcanzados por la palabra. La propuesta de Eric recibe apoyo cuando rechaza una salvación fabricada autónomamente; necesita calificación si se formula de modo que la invocación, la escucha o la desobediencia dejen de ser responsabilidades reales en el argumento.
+
 ## Romanos 10:14-17: la cadena del anuncio y la escucha
 
 Pablo ordena cuatro preguntas en #romanos_10_14-15. No se puede invocar a quien no se ha creído; no se puede creer en quien no se ha oído; no se puede oír sin quien anuncie; y no se puede anunciar sin ser enviado. Los pies hermosos pertenecen a quienes anuncian paz y buenas noticias. La secuencia muestra que la proclamación es un servicio recibido, no una iniciativa de prestigio personal.
