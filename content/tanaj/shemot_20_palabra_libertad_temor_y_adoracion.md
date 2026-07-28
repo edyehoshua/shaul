@@ -36,6 +36,12 @@ Shemot 20 no presenta mandamientos suspendidos sobre un pueblo abstracto. יהו
 
 Esta es la nota canónica de Shemot 20 para la clase «Parashat Yitró: Sguláh mikol ha'amim – Goy Qadosh» del hermano Eric de Jesús Rodríguez Mendoza. La exposición recorre Shemot 18–20 y concentra parte importante de su argumento en el umbral de Shemot 19: escuchar la voz, guardar el pacto, ser un reino de sacerdotes y una nación santa. Esta nota toma ese énfasis como puerta de entrada, pero sigue Shemot 20 en su propio orden. La transcripción automática sirve para localizar observaciones de la clase, no para convertir sus formulaciones en citas literales ni para reemplazar el texto local.
 
+## «Ministro» y «nación santa»: del título de la clase al texto del pacto
+
+Eric llama la atención sobre la expresión pública «Goy Qadosh» y, al explicar el trasfondo de Yitró, propone que **(כהן)**, _kohen_, se entienda primero como «ministro» o funcionario, aunque en la Escritura quede asociado al servicio divino. El sentido normal de _kohen_ es sacerdote o ministro cultual; «ministro» es una equivalencia **aproximada y contextual**, útil para recordar que se trata de un cargo de servicio, pero insuficiente si borra su relación con el culto. No debe derivarse de una semejanza latina una definición del hebreo.
+
+En Shemot 19:6, inmediatamente antes de los mandamientos, יהוה dice: **ממלכת כהנים וגוי קדוש**, «un reino de sacerdotes y una nación santa». **(גוי)**, _goy_, normalmente significa nación o pueblo; aquí no es una etiqueta étnica aislada, sino una comunidad convocada para representar el pacto. **(קדוש)**, _qadosh_, significa santo, apartado o perteneciente a lo sagrado; «santo» es una traducción cercana, aunque su fuerza contextual se verifica en la obediencia que Shemot 20 ordena. La observación de la clase recibe así apoyo textual: el nombre de la parashá no reemplaza el capítulo, sino que conduce desde la vocación colectiva hacia la lealtad, el Shabat y la justicia del prójimo.
+
 ## Hoja de comparación
 
 | Referencia       | Hebreo local OE (sin nikud)                                                                                                 | Observación                                                                             |
@@ -72,11 +78,12 @@ Finalmente, el altar de tierra o de piedras no labradas (#shemot_20_24-25) evita
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual   | Observación concreta de la clase                                                                     | Tratamiento en esta nota                                                                                                     |
-| ---------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| #shemot_19_5-6   | Relaciona escuchar la voz y guardar el pacto con ser **(סגלה)**, reino de sacerdotes y nación santa. | Apoyo contextual: funciona como marco de Shemot 20; sus definiciones léxicas e históricas quedan pendientes de verificación. |
-| #shemot_20_1-3   | Lee la obediencia como respuesta a la liberación de Egipto, no como medio para comprarla.            | Apoyo textual: la declaración de haber sacado a Israel antecede la exigencia de lealtad exclusiva.                           |
-| #shemot_20_18-25 | Relaciona el temor de Elohim con una vida que no peca y con un culto sin imágenes.                   | Clarificación léxica y apoyo textual: se explica **(יראה)** de forma contextual y se sigue el cierre sobre el altar.         |
+| Unidad textual     | Observación concreta de la clase                                                                     | Tratamiento en esta nota                                                                                                                                                    |
+| ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #shemot_19_5-6     | Relaciona escuchar la voz y guardar el pacto con ser **(סגלה)**, reino de sacerdotes y nación santa. | Apoyo contextual: funciona como marco de Shemot 20; sus definiciones léxicas e históricas quedan pendientes de verificación.                                                |
+| #shemot_18_1; 19:6 | Explica _kohen_ como «ministro» y destaca «Goy Qadosh» como título de la parashá.                    | Clarificación léxica y apoyo contextual: se conserva el énfasis de servicio, pero se evalúa _kohen_ desde su uso cultual y «nación santa» desde la obediencia del capítulo. |
+| #shemot_20_1-3     | Lee la obediencia como respuesta a la liberación de Egipto, no como medio para comprarla.            | Apoyo textual: la declaración de haber sacado a Israel antecede la exigencia de lealtad exclusiva.                                                                          |
+| #shemot_20_18-25   | Relaciona el temor de Elohim con una vida que no peca y con un culto sin imágenes.                   | Clarificación léxica y apoyo textual: se explica **(יראה)** de forma contextual y se sigue el cierre sobre el altar.                                                        |
 
 ## Pendiente de verificar
 

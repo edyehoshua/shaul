@@ -37,6 +37,12 @@ En 19:11, quien toca un muerto queda impuro siete días; el proceso incluye el t
 
 El capítulo no presenta las cenizas como magia. La aspersión ocurre conforme al mandato, requiere un hisopo y un tiempo establecido, y aun así el purificador debe lavar sus vestidos. El procedimiento distingue entre la impureza del que toca la muerte y la responsabilidad de quien maneja el agua. El centro no es una sustancia autónoma, sino la santidad ordenada por יהוה.
 
+## Refinamiento, prueba y milagro: conservar la afirmación en su contexto
+
+En la introducción de la clase, Eric contrasta «prueba» con «refinamiento» y relaciona esa discusión con la raíz hebrea **(נסה)**, _nasah_, y con **(נס)**, _nes_, «estandarte» o «señal». La observación conserva una intuición pastoral: Bamidbar 19–20 no muestra a יהוה descubriendo algo que ignoraba, sino a un pueblo puesto en una situación donde su respuesta queda expuesta y donde la provisión divina se hace visible. En el capítulo, sin embargo, la raíz **(נסה)** no aparece como una definición universal de todo sufrimiento. Su sentido normal es probar, poner a prueba o experimentar; la equivalencia «refinar» es **aproximada y pedagógica** cuando describe el efecto formativo que Eric destaca, no una traducción automática de cada aparición.
+
+La misma cautela vale para **(נס)**, _nes_. Su sentido normal es estandarte, señal levantada o señal visible; «milagro» es **aproximado**, porque puede expresar una manifestación que llama la atención sin convertirse por sí solo en una teoría de lo sobrenatural. Bamidbar 20 sí narra que salió agua de la peña después de la acción de Mosheh, pero el texto atribuye la provisión a יהוה y concentra la acusación en la representación de sus ministros (20:12). Por tanto, la clase ayuda a leer el episodio como revelación de la fidelidad divina, pero no permite sustituir el mandato de hablar a la peña por una fórmula de que todo resultado extraordinario aprueba el procedimiento humano.
+
 ## Bamidbar 20: sed, memoria y una orden específica
 
 En el mes primero, la congregación llega al desierto de Tzin; muere Miriam y no hay agua. El pueblo se reúne contra Mosheh y Aharón. La queja recuerda que sus hermanos murieron delante de יהוה, pero transforma la crisis en acusación. El capítulo coloca duelo, sed y liderazgo en la misma escena: una comunidad vulnerable no deja de estar obligada a escuchar.
@@ -61,25 +67,28 @@ La muerte de Aharón no cancela la continuidad del sacerdocio: la vestidura y el
 
 ## Léxico clave
 
-| Forma        | Transliteración | Sentido normal y forma         | Fuerza contextual                                             | Equivalencia                                                   |
-| ------------ | --------------- | ------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| **חקת**      | _juqat_         | Estatuto; constructo de חקה    | Procedimiento recibido como decreto de la Torah               | «Rito misterioso» no es exacta                                 |
-| **פרה אדמה** | _parah adamah_  | Vaca roja                      | Animal completo, sin defecto ni yugo                          | «Vaca roja» es exacta en el referente                          |
-| **אפר**      | _efer_          | Ceniza                         | Reserva para preparar el agua de exclusión                    | «Polvo» sería inexacta                                         |
-| **טמא**      | _tame_          | Impuro, contaminado            | Condición cultual por contacto con muerte                     | «Pecador» no es equivalente exacta                             |
-| **נפש**      | _nefesh_        | Vida, ser viviente, persona    | Persona afectada por la impureza de la muerte                 | «Alma» es tradicional y aproximada                             |
-| **סלע**      | _sela‘_         | Peña, roca                     | Objeto del que יהוה hace salir agua                           | «Roca» es exacta aquí; la aplicación como título es metafórica |
-| **אמן**      | _aman_          | Ser firme, sostenerse, confiar | La confianza que Mosheh y Aharón no manifestaron públicamente | «Creer» es aproximada                                          |
-| **קדש**      | _qadosh_        | Santo, separar para lo santo   | Reconocer la santidad de יהוה ante Israel                     | «Santificar» es funcional y aproximada                         |
-| **מריבה**    | _merivah_       | Contienda, disputa             | Nombre de la crisis de agua y del conflicto con יהוה          | «Pelea» es aproximada                                          |
+| Forma        | Transliteración | Sentido normal y forma         | Fuerza contextual                                                             | Equivalencia                                                   |
+| ------------ | --------------- | ------------------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **חקת**      | _juqat_         | Estatuto; constructo de חקה    | Procedimiento recibido como decreto de la Torah                               | «Rito misterioso» no es exacta                                 |
+| **פרה אדמה** | _parah adamah_  | Vaca roja                      | Animal completo, sin defecto ni yugo                                          | «Vaca roja» es exacta en el referente                          |
+| **אפר**      | _efer_          | Ceniza                         | Reserva para preparar el agua de exclusión                                    | «Polvo» sería inexacta                                         |
+| **טמא**      | _tame_          | Impuro, contaminado            | Condición cultual por contacto con muerte                                     | «Pecador» no es equivalente exacta                             |
+| **נפש**      | _nefesh_        | Vida, ser viviente, persona    | Persona afectada por la impureza de la muerte                                 | «Alma» es tradicional y aproximada                             |
+| **סלע**      | _sela‘_         | Peña, roca                     | Objeto del que יהוה hace salir agua                                           | «Roca» es exacta aquí; la aplicación como título es metafórica |
+| **אמן**      | _aman_          | Ser firme, sostenerse, confiar | La confianza que Mosheh y Aharón no manifestaron públicamente                 | «Creer» es aproximada                                          |
+| **קדש**      | _qadosh_        | Santo, separar para lo santo   | Reconocer la santidad de יהוה ante Israel                                     | «Santificar» es funcional y aproximada                         |
+| **מריבה**    | _merivah_       | Contienda, disputa             | Nombre de la crisis de agua y del conflicto con יהוה                          | «Pelea» es aproximada                                          |
+| **(נסה)**    | _nasah_         | Probar, poner a prueba         | Situación que revela la respuesta del pueblo; efecto formativo por inferencia | «Refinar» es aproximada y pedagógica                           |
+| **(נס)**     | _nes_           | Estandarte, señal visible      | La provisión puede leerse como señal de la acción de יהוה                     | «Milagro» es aproximada                                        |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad           | Observación pública atribuible                                       | Evaluación textual                                                                                          |
-| ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Bamidbar 19–20   | «La Roca» organiza la lectura de la provisión y la prueba            | Aplicación cualificada: la imagen teológica debe permanecer ligada a la peña concreta y a la orden de 20:8. |
-| Bamidbar 19      | La santidad requiere tratar la muerte y la impureza según el mandato | Apoyo textual: el capítulo repite decreto, tiempos, agua de exclusión y responsabilidad comunitaria.        |
-| Bamidbar 20:7-13 | La autoridad del mediador no sustituye la palabra de יהוה            | Apoyo directo: 20:12 identifica no afirmarse y no santificar como la causa de la sentencia.                 |
+| Unidad              | Observación pública atribuible                                                                         | Evaluación textual                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Bamidbar 19–20      | «La Roca» organiza la lectura de la provisión y la prueba                                              | Aplicación cualificada: la imagen teológica debe permanecer ligada a la peña concreta y a la orden de 20:8.                            |
+| Bamidbar 19         | La santidad requiere tratar la muerte y la impureza según el mandato                                   | Apoyo textual: el capítulo repite decreto, tiempos, agua de exclusión y responsabilidad comunitaria.                                   |
+| Bamidbar 20:7-13    | La autoridad del mediador no sustituye la palabra de יהוה                                              | Apoyo directo: 20:12 identifica no afirmarse y no santificar como la causa de la sentencia.                                            |
+| Bamidbar 19–20:2-13 | «Prueba» debe entenderse como refinamiento que manifiesta la acción de יהוה, no como ignorancia divina | Clarificación léxica y cualificación: se conserva la observación de Eric sobre _nasah_ y _nes_, pero se limita su alcance al contexto. |
 
 ## Conexiones principales
 
