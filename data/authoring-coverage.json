@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 796,
-  "pending_videos": 162,
+  "covered_videos": 797,
+  "pending_videos": 161,
   "transcript_notes": 377,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -123,12 +123,12 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 38,
+      "covered": 39,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
       "total": 5,
-      "covered": 0,
+      "covered": 1,
       "lane": "tanaj"
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
