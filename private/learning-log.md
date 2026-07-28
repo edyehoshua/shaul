@@ -150,3 +150,9 @@
 - Validación: `python3 scripts/check_transcript_note_quality.py` → `quality_failures=0`; `git diff --check` limpio; Prettier aplicado solo al Markdown tocado. No se modificaron notas con fuentes de otra lane y no se usaron rutas privadas visibles.
 - Corregí la trazabilidad de la nota: son cuatro fuentes exclusivas (`youtube:f0PQY7bXbJQ`, `youtube:OG2PPYieRhk`, `youtube:EHZDK_XPB1A`, `youtube:eJlTuHME674`), sin solapamiento con otra lane. La nota pasó `check_transcript_note_quality.py` (`quality_failures=0`) y `git diff --check`; se ejecutó Prettier solo sobre el Markdown tocado.
 - No se tocaron notas con fuentes de otras lanes ni se creó cobertura sin transcript verificable; los tres IDs marcados como faltantes siguen pendientes para el integrador.
+
+## 2026-07-28 — Integrator cron (feat/eric_youtube) batch 3
+
+- Remedié `content/besorah/apocalipsis_20_revelacion_reino_juicio_y_vida.md` para `youtube:1heGTh7m5Lk`. La nota ahora sigue Apocalipsis 20:1-15 en orden, usa el Delitzsch local normalizado, conserva las observaciones concretas de Eric sobre *alef shanim*/los años de la Torá, la marca como apostasía, la primera resurrección, la liberación de Satanás y el lago de fuego, y las clasifica como apoyo textual, lectura simbólica o aplicación pastoral.
+- Añadí hoja léxica, seis entradas de trazabilidad en `Mapa de la enseñanza de Eric`, créditos públicos únicos y pendientes para cronologías, afirmaciones rabínicas, científicas, históricas y textuales no verificadas. No hay rutas privadas ni segmentación hebrea; `python3 scripts/check_transcript_note_quality.py` devolvió `quality_failures=0`.
+- Cobertura refrescada: 748/958 cubiertos, 210 pendientes; sin source IDs duplicados ni créditos visibles ausentes. Las lanes bajo 40 siguen sin grupo elegible no asignado disponible; no se reasignó ninguna fuente ni nota canónica de otra lane.

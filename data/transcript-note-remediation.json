@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 277,
+  "total_notes_requiring_remediation": 276,
   "notes": [
     {
       "path": "content/besorah/apocalipsis_11_revelacion_testigos_reino_y_fidelidad.md",
@@ -20,18 +20,6 @@
 
 
 
-    {
-      "path": "content/besorah/apocalipsis_20_revelacion_reino_juicio_y_vida.md",
-      "substantive_words": 167,
-      "thematic_sections": [
-        "lectura del capítulo"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
     {
       "path": "content/besorah/apocalipsis_21_revelacion_nueva_yerushalayim_y_presencia.md",
       "substantive_words": 167,

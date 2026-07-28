@@ -1,15 +1,20 @@
 ---
-title: "Apocalipsis 20: reino, juicio y vida"
-description: "El reino, el juicio y el libro de la vida sostienen la esperanza de que el mal no tendrá la última palabra; las construcciones cronológicas detalladas requieren contraste con el texto completo."
-date: 2026-07-27
+title: "Apocalipsis 20: los años de la Torá, resurrección y juicio"
+description: "Apocalipsis 20 presenta el encadenamiento de Satanás, la primera resurrección, la liberación final, el juicio y el libro de la vida; la lectura simbólica de los mil años se conserva como propuesta de Eric y se contrasta con el texto local."
+date: 2026-07-28
 tags:
   - apocalipsis
   - revelacion
   - yehoshua
+  - resurreccion
+  - juicio
 references:
   - "#revelation_20_1"
+  - "#revelation_20_2"
   - "#revelation_20_4"
-  - "#revelation_20_6"
+  - "#revelation_20_5"
+  - "#revelation_20_7"
+  - "#revelation_20_8"
   - "#revelation_20_10"
   - "#revelation_20_12"
   - "#revelation_20_14"
@@ -24,40 +29,91 @@ translation: "[Delitzsch]"
 
 # Tesis
 
-El reino, el juicio y el libro de la vida sostienen la esperanza de que el mal no tendrá la última palabra; las construcciones cronológicas detalladas requieren contraste con el texto completo.
+Apocalipsis 20 enlaza el límite impuesto al acusador, el reinado con el Mesías, la primera resurrección, la rebelión posterior y el juicio ante el trono. La enseñanza de Eric propone que «los mil años» pueden leerse como **los años de la Torá** —un período cualitativo de instrucción y cumplimiento— sin negar una resurrección y un juicio todavía pendientes. Esa propuesta ayuda a seguir el hilo simbólico de la clase, pero el capítulo mismo conserva una secuencia concreta que no permite convertir cada cifra en una mera metáfora.
 
 ## Alcance de la nota
 
-Esta nota canónica reúne la enseñanza correspondiente al capítulo 20 de la serie del hermano Eric de Jesús Rodríguez Mendoza. La transcripción automática permite localizar los énfasis de las clases; no es una cita literal ni sustituye el examen del texto bíblico. Las conclusiones de la clase se conservan como propuestas de lectura cuando exceden lo que afirma explícitamente el pasaje.
+Esta nota remedia la exposición canónica de la parte 28 de la serie de Apocalipsis del hermano Eric de Jesús Rodríguez Mendoza. Se sigue Apocalipsis 20:1-15 en orden textual y se conservan sus observaciones concretas: el trasfondo semítico de los nombres del adversario, la lectura de _alef shanim_ como años de la Torá, la marca de la bestia como apostasía y no como un chip, la doble dimensión de la muerte y el sentido simbólico del lago de fuego. La transcripción automática se usa para localizar argumentos, no como cita literal. Las cronologías, atribuciones rabínicas, afirmaciones históricas, manuscritas o científicas no comprobadas quedan señaladas como pendientes.
 
 ## Hoja de comparación
 
-| Referencia       | Texto local (Delitzsch, sin nikud)                                                                                                                                          | Observación                              |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| #revelation_20_1 | **וארא מלאך יורד מןהשמים ובידו מפתח התהום וכבל גדול**                                                                                                                       | Ancla textual para el tema de esta nota. |
-| #revelation_20_4 | **וארא כסאות וישבו עליהם והמשפט נתן בידם ונפשות ההרוגים עלעדות ישוע ועלדבר האלהים ואשר לא השתחוו לחיה ולצלמה ולא קבלו אתתוה עלמצחותם ועלידם ויחיו וימלכו עםהמשיח אלף שנים** | Ancla textual para el tema de esta nota. |
+| Referencia           | Texto local (Delitzsch, sin nikud)                                                                                                                                                                                                          | Función en la enseñanza                                                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #revelation_20_1-3   | **וארא מלאך יורד מןהשמים ובידו מפתח התהום וכבל גדול**; **ויתפש אתהתנין אתהנחש הקדמוני הוא המלשין והוא השטן ויאסרהו אלף שנים**; **וישליכהו אלתהום ויסגר עליו ויחתם עליו למען אשר לאידיח עוד אתהגוים עדמלאת אלף השנים ואחריכן יתר לזמן מצער** | El ángel encadena al dragón, la serpiente antigua, el acusador y Satanás; el límite busca impedir que engañe a las naciones hasta completar el período. |
+| #revelation_20_4-6   | **וארא כסאות וישבו עליהם והמשפט נתן בידם... ויחיו וימלכו עםהמשיח אלף שנים**; **ויתר המתים לאחיו עדמלאת אלף השנים זאת התחיה הראשונה**; **ומי שישלו חלק בתחיה הראשונה אשריו וקדוש הוא... ומלכו אתו אלף שנים**                                 | Tronos, testimonio, rechazo de la marca, vida, sacerdocio y reinado aparecen juntos; el texto nombra explícitamente la primera resurrección.            |
+| #revelation_20_7-10  | **ואחרי כלות אלף השנים יתר השטן מבית משמרו**; **ויצא להדיח אתהגוים... אתגוג ומגוג**; **והשטן... השלך באגםאש וגפרית**                                                                                                                        | La liberación sucede después del período; la rebelión de Gog y Magog termina con fuego y con el destino final del adversario.                           |
+| #revelation_20_11-15 | **וארא כסא לבן וגדול...**; **ויפתח ספר אחר והוא ספר החיים וישפטו המתים... כמעשיהם**; **והמות והשאול השלכו באגםהאש והוא המות השני**                                                                                                          | La escena final juzga a los muertos según sus obras, distingue el libro de la vida y llama al lago de fuego «la segunda muerte».                        |
 
-## Lectura del capítulo
+## El adversario atado y el período de mil años: 20:1-3
 
-El capítulo debe leerse dentro de la secuencia de la visión y junto con sus alusiones escriturales. La enseñanza organizada aquí destaca el tema indicado por las clases, pero el texto local es el criterio para distinguir afirmación explícita, conexión literaria y aplicación pastoral. Por ello no se convierten en hechos establecidos las dataciones, identificaciones históricas o equivalencias simbólicas que requieran investigación adicional.
+Eric comienza por los nombres acumulados del capítulo: dragón, serpiente antigua, acusador y Satanás. No quiere que «dragón» produzca una imagen fantástica desligada del argumento; recalca que la visión identifica al personaje y que el libro debe leerse dentro de un trasfondo semítico aunque esté redactado en griego. La observación es útil para no aislar el símbolo, pero la historia lingüística que la clase propone para cada término requiere verificación independiente.
+
+El punto central de la clase es la expresión «mil años». Eric la vincula con la idea que pronuncia como **alef shanim**, «los años de la Torá»: no mil unidades cronológicas necesariamente, sino el tiempo en que la Torá es enseñada, sus promesas se cumplen y Satanás queda impedido de engañar. El texto sí afirma un encadenamiento, un sello, un límite para el engaño y una liberación posterior; por eso la lectura simbólica debe convivir con la estructura temporal del pasaje. La propuesta de contar desde la venida del Mesías, y no desde una fecha humana calculable, también preserva la advertencia de Eric contra convertir Apocalipsis en una agenda para adivinar fechas.
+
+La clase conecta el número con Tehilim 90, las generaciones desde Adán hasta Moshe y discusiones antiguas sobre «mil generaciones». Eric menciona incluso cálculos de miles de millones de años y su posible coincidencia con modelos científicos. Son observaciones concretas de la enseñanza, pero no son datos establecidos por Apocalipsis 20 ni por el texto local de Tehilim 90; quedan pendientes.
+
+## Tronos, marca y primera resurrección: 20:4-6
+
+La visión pasa de la prisión del adversario a los tronos. Eric subraya que reinan quienes dieron testimonio de Yehoshua y de la palabra de Elohim y no adoraron a la bestia ni recibieron su marca en frente o mano. Su aplicación es directa: la marca no debe reducirse a un futuro chip; para la clase representa la apostasía, es decir, apartarse de los mandamientos y sustituir la adoración debida a יהוה. Esta aplicación pastoral conserva el énfasis ético de la enseñanza, aunque la identificación de «marca = apostasía» debe presentarse como interpretación, no como glosa léxica del versículo.
+
+Eric insiste en que «vivieron» y «reinaron» hablan de resurrección, no simplemente de personas vivas en tiempo real. A la vez, relaciona la muerte de los creyentes con la muerte simbólica al mundo: Colosenses 3 y 1 Corintios 15 ayudan a explicar cómo una persona puede haber muerto a la concupiscencia y comenzar una vida nueva sin que eso elimine la resurrección corporal anunciada por el capítulo. La nota conserva las dos capas: el uso espiritual de «morir» es una conexión apostólica; «esta es la primera resurrección» sigue siendo la afirmación propia de Apocalipsis 20.
+
+## Liberación, Gog y Magog: 20:7-10
+
+Después de completarse los mil años, Satanás es soltado por un tiempo breve y vuelve a engañar a las naciones. Este detalle lleva a Eric a negar que el período pueda describir simplemente el estado actual del mundo: si el adversario sigue engañando a las naciones y aún no han ocurrido la resurrección y el juicio del pasaje, la secuencia apunta a un acto futuro asociado por él con la venida del Mesías. Eric también imagina una diferencia entre quienes reinan con el Mesías y las naciones restantes, pero reconoce que muchos detalles —niños, discapacidades y condiciones de vida durante ese período— no están explicados por el texto y pertenecen a la soberanía de Elohim.
+
+La reunión de Gog y Magog, el cerco de la ciudad amada y el fuego del cielo concluyen la rebelión. Eric relaciona «ciudad amada» con una Jerusalén renovada y con Zacarías 14, no con una identificación simplista de la ciudad contemporánea. Esa conexión intertextual es posible, pero su desarrollo histórico y su relación exacta con la ciudad de este capítulo quedan pendientes. El destino de Satanás aparece después de la bestia y el falso profeta: el pasaje lo expresa mediante fuego y azufre y una fórmula de duración cuya traducción y alcance deben ser examinados en sus lenguas y testigos textuales.
+
+## Trono blanco, obras y segunda muerte: 20:11-15
+
+La última perícopa abre los libros y el libro de la vida. Eric recalca que los muertos son juzgados «según sus obras» y que la justicia divina no aplana toda responsabilidad en una condena idéntica. También advierte contra declarar anticipadamente el destino de personas concretas: la pertenencia al libro de la vida y la medida del juicio corresponden al juez. La nota conserva esa cautela sin convertir ejemplos contemporáneos mencionados en la clase en doctrina.
+
+Eric lee el lago de fuego simbólicamente. Observa que «lago» no es una traducción hebrea literal disponible en el pasaje, conecta el mar de cristal y fuego con el lavatorio sacerdotal, y entiende el fuego como juicio que elimina lo corruptible. La imagen de «segunda muerte» permite sostener la consecuencia definitiva, pero no autoriza por sí sola una reconstrucción completa de la duración del castigo. El capítulo termina con una exclusión explícita del libro de la vida, mientras que la explicación detallada de «fuego», «azufre» y la fórmula de duración requiere estudio léxico y textual adicional.
+
+## Hoja léxica
+
+| Forma                 | Transliteración   | Sentido normal y fuerza contextual                                                                  | Estado de la correspondencia                                                                                               |
+| --------------------- | ----------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **(δράκων)**          | _drakon_          | dragón; imagen de poder hostil. En 20:2 queda identificada con la serpiente, el acusador y Satanás. | La identificación es textual; la reconstrucción del trasfondo semítico propuesta por Eric es una inferencia pendiente.     |
+| **(διάβολος)**        | _diabolos_        | acusador, calumniador; título del adversario.                                                       | Sentido léxico aproximado; no equivale automáticamente a toda la demonología posterior.                                    |
+| **(שטן)**             | _satan_           | adversario u oponente en el marco semítico evocado por Eric.                                        | Aproximación contextual, no prueba de una cadena etimológica completa entre todas las formas.                              |
+| **(ἔτη χίλια)**       | _etē chilia_      | mil años. La forma griega expresa la cifra del texto.                                               | Exacto para la cifra; «años de la Torá» es una lectura simbólica/pedagógica de Eric, no la traducción literal.             |
+| **(ἀνάστασις)**       | _anastasis_       | levantamiento, resurrección. En 20:5-6 el texto habla de «la primera resurrección».                 | Correspondencia contextual directa; la relación adicional con morir al mundo es una aplicación apostólica.                 |
+| **(σφραγίς)**         | _sphragis_        | sello; marca de cierre, autenticación o limitación.                                                 | El sello del abismo tiene función narrativa; equiparar la marca de la bestia con apostasía es una interpretación pastoral. |
+| **(λίμνη τοῦ πυρός)** | _limnē tou pyros_ | lago del fuego. Imagen de juicio en la visión.                                                      | Traducción descriptiva; la lectura como sangre, lavatorio o eliminación de lo corruptible es simbólica y debe verificarse. |
+
+## Mapa de la enseñanza de Eric
+
+| Punto concreto tomado de Eric                                                                                                                                                 | Versículos o perícopa                                              | Evaluación en esta nota                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| «Los mil años» pueden leerse como **alef shanim**, los años de la Torá: el período en que la instrucción y las promesas avanzan, no una cifra que permita adivinar fechas.    | Apocalipsis 20:2-3, 7; conexión propuesta con Tehilim 90 y la Torá | **Inferencia simbólica calificada**: se conserva el argumento, pero el griego afirma literalmente «mil años» y el capítulo mantiene una secuencia de comienzo, cumplimiento y liberación. |
+| La marca de la bestia no es principalmente un chip futuro, sino la apostasía y el apartamiento de los mandamientos.                                                           | Apocalipsis 20:4-6                                                 | **Aplicación pastoral**: el contraste entre adoración, marca y fidelidad está en el texto; la equivalencia total entre marca y apostasía no es una definición léxica explícita.           |
+| La primera resurrección no describe simplemente a gente viva: incluye a los que murieron por el testimonio, aunque la muerte al mundo también puede expresarse figuradamente. | Apocalipsis 20:4-6; conexión con Colosenses 3 y 1 Corintios 15     | **Apoyo textual con conexión apostólica**: «vivieron», «reinaron» y «primera resurrección» sostienen la afirmación; la aplicación espiritual es una analogía, no una sustitución.         |
+| El hecho de que Satanás sea liberado y todavía ocurran resurrección, juicio y reinado muestra que el período no debe identificarse sin más con toda la historia presente.     | Apocalipsis 20:7-10                                                | **Inferencia cronológica calificada**: la secuencia del capítulo apoya una distinción, pero la fecha de inicio y la duración histórica no se pueden calcular aquí.                        |
+| El lago de fuego es lenguaje simbólico de juicio y de eliminación del mal, no una descripción física que deba forzarse literalmente.                                          | Apocalipsis 20:10, 14-15                                           | **Lectura figurada pendiente**: el capítulo usa imágenes visionarias y llama al lago «segunda muerte», pero la semántica completa y las variantes textuales requieren cotejo.             |
+| El juicio según las obras no permite que la clase declare de antemano el destino de cada persona; el libro de la vida pertenece al juicio de Elohim.                          | Apocalipsis 20:11-15                                               | **Apoyo textual y cautela pastoral**: los libros, el libro de la vida y el juicio según las obras están explícitos; las aplicaciones a casos modernos no se presentan como veredictos.    |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar las conexiones históricas y simbólicas sugeridas en la clase con los pasajes del Tanaj que Apocalipsis evoca.
-- [ ] Distinguir las imágenes propias del capítulo de las aplicaciones contemporáneas propuestas durante la enseñanza.
+- [ ] Localizar y comprobar la fuente exacta de las afirmaciones sobre 974 generaciones, discusiones rabínicas, el número de años desde Adán hasta Moshe y la lectura de Tehilim 90.
+- [ ] Verificar la propuesta de relacionar los cálculos de Eric —incluidos los quince mil millones de años y el Big Bang— con fuentes científicas; no presentarla como confirmación bíblica.
+- [ ] Estudiar **(ἔτη χίλια)** y la expresión hebrea que Eric pronuncia como _alef shanim_ antes de tratarla como una lectura lingüística establecida.
+- [ ] Cotejar Zacarías 14, Isaías 2 y los pasajes apostólicos usados para completar la escena de Gog, la ciudad amada y la resurrección.
+- [ ] Revisar manuscritos y traducciones de Apocalipsis 20:10, especialmente la fórmula de duración, sin afirmar que una frase sea una adición sin evidencia documental.
+- [ ] Comparar **(λίμνη)**, **(πῦρ)**, «mar de cristal» y las imágenes del lavatorio sacerdotal; mantener la lectura del lago como juicio simbólico hasta completar ese estudio.
 
 ## Conclusión
 
-Apocalipsis 20 llama a recibir la visión con reverencia, atención al testimonio de Yehoshua y perseverancia. Su lenguaje simbólico pide lectura canónica y cautelosa: la esperanza anunciada no elimina la responsabilidad de comprobar cada interpretación por el texto.
+Apocalipsis 20 no ofrece una tabla para adivinar fechas. Presenta una secuencia: el adversario es limitado, los fieles reinan con el Mesías, ocurre la primera resurrección, Satanás es soltado, la rebelión termina y el juicio abre los libros y el libro de la vida. Eric lee los mil años como los años de la Torá y la marca como apostasía; la nota conserva esas observaciones porque son el núcleo concreto de la enseñanza, pero las clasifica como lectura simbólica o pastoral cuando exceden la traducción. La esperanza queda anclada en la resurrección, la fidelidad y el juicio de Elohim, no en cálculos humanos.
 
 ## Ver también
 
+- [[apocalipsis_11_revelacion_testigos_reino_y_fidelidad|Apocalipsis 11: testigos, reino y fidelidad]]
 - [[apocalipsis_4_trono_redencion_y_adoracion|Apocalipsis 4: trono, redención y adoración]]
 
 ## Créditos
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 28 La revelación de Yehoshúa' Hamashíaj: 'Alef Shanim, los años de la toráh» — https://www.youtube.com/watch?v=1heGTh7m5Lk (`source_id: youtube:1heGTh7m5Lk`).
-
-Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.
+- Video: [Parte 28 La revelación de Yehoshúa' Hamashíaj: «Alef Shanim, los años de la Toráh»](https://www.youtube.com/watch?v=1heGTh7m5Lk) (`source_id`: `youtube:1heGTh7m5Lk`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
