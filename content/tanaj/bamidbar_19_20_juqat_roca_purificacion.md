@@ -65,6 +65,14 @@ Israel solicita pasar por Edom y promete no entrar en campos ni beber agua. Edom
 
 La muerte de Aharón no cancela la continuidad del sacerdocio: la vestidura y el encargo pasan a Eleazar. La secuencia confirma que el servicio depende del mandato de יהוה y no de la permanencia de un solo mediador. Bamidbar 19 había enseñado a tratar la muerte con purificación; Bamidbar 20 muestra ahora cómo Israel atraviesa una muerte sacerdotal sin abandonar el orden del campamento.
 
+## Edom y el final de Aharón: límites del mediador y continuidad del servicio
+
+Israel envía mensajeros al rey de Edom y recuerda la aflicción de sus padres: «hemos clamado a יהוה, y él oyó nuestra voz» (#bamidbar_20_14-17). **אח**, _aj_, significa hermano; en «tu hermano Israel» la palabra presenta una relación reclamada en el mensaje diplomático, no garantiza que Edom acepte el paso. **דרך**, _dérek_, significa camino o vía; aquí designa la ruta prometida, sin convertir el rodeo posterior en una negación de la fidelidad de יהוה. La respuesta de Edom obliga a Israel a apartarse, pero el texto no atribuye ese rechazo a la misma falta que juzgó a Mosheh y Aharón en Meribah.
+
+En Hor, יהוה ordena quitar a Aharón sus vestiduras y vestir con ellas a Eleazar (#bamidbar_20_25-28). **אסף**, _asaf_, significa reunir o recoger; «ser reunido a su pueblo» es una fórmula de muerte cuyo referente contextual es el final de Aharón, no la desaparición del sacerdocio. «Relevo administrativo» sería una equivalencia **pedagógica** demasiado moderna: la transferencia de las vestiduras hace visible la continuidad del servicio bajo el mandato de יהוה. La comunidad llora treinta días, de modo que el capítulo termina con duelo real y con orden preservado, no con una espiritualización de la muerte.
+
+Esta secuencia amplía la cautela de Eric sobre «La Roca». La provisión de agua no elimina los límites del representante, y la muerte de Aharón no convierte al representante en indispensable. El texto mantiene juntas la compasión por una comunidad sedienta, el juicio sobre una representación defectuosa y la continuidad de la obra sacerdotal.
+
 ## Léxico clave
 
 | Forma        | Transliteración | Sentido normal y forma         | Fuerza contextual                                                             | Equivalencia                                                   |

@@ -95,6 +95,14 @@ Cuando Esav entra, Yitsjaq tiembla y reconoce: «también bendito será». Esa f
 | **(בכרה)**   | _bekhoráh_      | Primogenitura, condición del primogénito       | Bien que Esav desprecia y vende                    | «Herencia» es pedagógica                               |
 | **(ברך)**    | _baraj_         | Bendecir, conceder bendición                   | Pronuncia el don patriarcal bajo la promesa        | «Transferir poder» es pedagógica                       |
 
+## 28:1-9: la bendición recibida y la separación de las alianzas
+
+El último movimiento del bloque corrige cualquier lectura que dejara la bendición de Yaakov suspendida en el engaño. Yitsjaq lo llama, lo bendice y le ordena: «no tomarás mujer de las hijas de Kenaan» (#bereshit_28_1-2). **(צוה)**, _tsavah_, significa mandar u ordenar; aquí la instrucción paterna concreta acompaña la transmisión de la bendición y orienta la salida de Yaakov. «Consagrar el matrimonio» sería una aplicación **pedagógica**; la fuerza inmediata es una orden sobre el vínculo familiar y la continuidad de la casa.
+
+Yitsjaq vuelve a decir: «El Elohim Todopoderoso te bendiga ... y te dé la bendición de Avraham» (#bereshit_28_3-4). **(שדי)**, _Shaddai_, es el título divino conservado en la fórmula; no debe convertirse sin más en una etimología única. **(ברכה)**, _berajah_, significa bendición; en este cierre designa el don de descendencia y tierra recibido dentro de la promesa. «Éxito personal» sería una equivalencia **inexacta**, porque la frase mira a la descendencia y a la heredad.
+
+Esav percibe que las mujeres cananeas disgustan a Yitsjaq y toma a Majalat, hija de Ishmael. El gesto muestra que la percepción de la preferencia familiar puede producir una respuesta imitativa, pero el narrador no dice que esa acción sea la misma bendición dada a Yaakov. Eric acierta al poner en primer plano la elección y la bendición; el recorrido textual añade que la promesa se expresa junto con separación, obediencia y desplazamiento, no como licencia para eludir las consecuencias del conflicto.
+
 ## Conclusión
 
 Toldot no enseña que la astucia humana produzca la promesa. La palabra llega antes del nacimiento, la primogenitura es despreciada por apetito, la preferencia de Yitsjaq se liga a la caza y la bendición se disputa dentro de una casa herida. El cierre, sin embargo, vuelve a la promesa de Avraham y muestra que יהוה puede sostener su propósito a través de decisiones humanas sin llamar bueno al engaño. La elección debe escucharse y obedecerse; no puede ser reemplazada por apariencia, favoritismo o transacción.
