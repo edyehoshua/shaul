@@ -34,6 +34,15 @@ Tehilim 29 no diviniza la tormenta: llama a dar gloria a יהוה porque su voz 
 
 Esta nota organiza la clase sobre Tehilim 29 del hermano Eric de Jesús Rodríguez Mendoza. La exposición medita en la repetición de `קול יהוה`, la voz de יהוה, y la relaciona con las aguas de la creación y el diluvio. Esas conexiones ayudan a leer el salmo canónicamente; no convierten la imagen poética en una descripción técnica de fenómenos naturales ni hacen que cada referencia a la voz sea una cita directa de otro pasaje.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #tehilim_29_1-2 | Eric presenta la convocatoria a los “hijos de los poderosos” como un llamado a reconocer que la gloria y la fuerza pertenecen a יהוה, no a las potencias creadas. | **Apoyo textual** para la invitación a dar gloria y adorar; la identidad exacta de בני אלים queda pendiente. |
+| #tehilim_29_3-5 | La clase sigue la repetición de `קול יהוה` sobre las muchas aguas y la vincula con la soberanía creadora de יהוה frente a las aguas. | **Clarificación léxica y apoyo textual**: el salmo repite explícitamente “voz de יהוה”; la conexión con Bereshit 1 se conserva como resonancia, no como cita. |
+| #tehilim_29_6-9 | Eric observa que cedros, fuego, desierto, ciervas y bosques quedan afectados por la voz, y aplica esa conmoción a la necesidad humana de abandonar la autosuficiencia y responder con gloria. | **Apoyo textual e inferencia cualificada**: las imágenes pertenecen al poema; la aplicación al corazón se mantiene como exhortación de la clase. |
+| #tehilim_29_10-11 | El expositor contrasta el diluvio con el reinado permanente de יהוה y destaca que el cierre entrega fuerza y shalom al pueblo, en vez de dejarlo en temor. | **Apoyo textual** para el reinado, la fuerza y el shalom; la relación con Bereshit 9 se presenta como memoria intertextual aproximada. |
+
 ## Hoja de comparación
 
 | Referencia        | Texto local (hebreo sin nikud)                                                          | Observación                                                             |
@@ -64,12 +73,12 @@ Por eso el cierre no glorifica una catástrofe. El mismo יהוה que posee `ע�
 
 ## Léxico clave
 
-| Forma      | Transliteración | Sentido en la nota | Observación                                                            |
-| ---------- | --------------- | ------------------ | ---------------------------------------------------------------------- |
-| **(קול)**  | qol             | voz, sonido        | No es un poder independiente: el salmo dice repetidamente «qol יהוה».  |
-| **(כבוד)** | kavod           | gloria             | El templo responde con gloria ante la majestad revelada.               |
-| **(מבול)** | mabul           | diluvio            | Su mención evoca la soberanía de יהוה sobre las aguas del juicio.      |
-| **(שלום)** | shalom          | paz, plenitud      | No reducir a ausencia de conflicto; es una bendición recibida de יהוה. |
+| Forma      | Transliteración | Sentido normal | Fuerza contextual | Relación en esta nota |
+| ---------- | --------------- | -------------- | ----------------- | --------------------- |
+| **(קול)**  | qol             | voz, sonido    | La repetición nombra la voz de יהוה sobre las aguas, con poder y majestad. | **Exacta** como “voz/sonido” en el salmo; tratarla como una entidad separada sería una inferencia no textual. |
+| **(כבוד)** | kavod           | gloria, honor  | La respuesta del templo y la convocatoria inicial reconocen la majestad de יהוה. | **Exacta** como gloria/honor; la aplicación al corazón humano es **pedagógica**. |
+| **(מבול)** | mabul           | diluvio       | Su mención evoca la soberanía de יהוה sobre las aguas del juicio. | **Exacta** como diluvio; la conexión con Bereshit 9 es **intertextual aproximada**, no una cita. |
+| **(שלום)** | shalom          | paz, plenitud | El cierre presenta el shalom como una bendición que el Rey da a su pueblo. | **Aproximada** la traducción por “paz” sola: el contexto conserva bienestar e integridad. |
 
 ## Conexiones principales
 
