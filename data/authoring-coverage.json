@@ -2,18 +2,9 @@
   "inventory_videos": 958,
   "covered_videos": 804,
   "pending_videos": 154,
-  "transcript_notes": 384,
+  "transcript_notes": 382,
   "notes_missing_visible_credits": [],
-  "duplicate_source_ids": {
-    "IhLu5hOaxYs": [
-      "content/besorah/markos_4_5_palabra_tormenta_autoridad_pureza.md",
-      "content/besorah/markos_4_palabra_tormenta_fidelidad.md"
-    ],
-    "YVyesqxbVJg": [
-      "content/tanaj/shemot_10_13_bo_memoria_y_salida.md",
-      "content/tanaj/shemot_10_13_mano_firme_pesaj_y_memoria.md"
-    ]
-  },
+  "duplicate_source_ids": {},
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
