@@ -120,16 +120,16 @@ El texto local da contenido a la comparación de 8:6-13. El versículo 6 llama a
 
 La cita de Yirmeyahu aporta la prueba material y también fija sus límites. 8:8-10 mantiene a Israel y Judá como destinatarios y promete: **וְכָרַתִּי אֶת־בֵּית יִשְׂרָאֵל וְאֶת־בֵּית יְהוּדָה בְּרִית חֲדָשָׁה** y **נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתֳּבֶנָּה**. La forma **תורה** (_torah_) significa “instrucción, enseñanza o ley”; aquí designa el contenido que Elohim interioriza, no algo que la promesa elimine. Después 8:12 añade **כִּי אֶסְלַח לַעֲוֹנָם ... לׂא אֶזְכָּר־עוֹד**, perdón y no imputación, y 8:13 dice que el primer pacto envejeció: **הִנֵּה כְּשֶׁאָמַר בְּרִית חֲדָשָׁה יִשֵּׁן אֶת־הָרִאשׁוֹנָה**. Por eso Eric puede defender una mejora que interioriza la instrucción y trae perdón, pero la reconstrucción sobre el becerro de oro y la temporalidad exacta del orden levítico sigue siendo una **propuesta histórica atribuida**, no una conclusión exhaustiva de Hebreos 8.
 
-## Conexiones principales
+## El pacto nuevo conserva sus destinatarios y su contenido
 
-- [[hebreos_7_melquisedec_sacerdocio_y_perfeccion|Hebreos 7: Melquisedec, sacerdocio y perfección]] prepara el sacerdocio permanente que Hebreos 8 resume.
-- Yirmeyahu 31:31-34 aporta el texto profético citado en 8:8-12.
-- [[hebreos_9_santuario_conciencia_y_redencion|Hebreos 9: santuario, conciencia y redención]] desarrolla la purificación y el acceso que el pacto mejor sostiene.
+La observación de Eric sobre una esperanza «mejorada» debe probarse con la cita completa de Yirmeyahu, no solo con el adjetivo «nuevo». **καινή** (_kainē_, nueva, renovada o de una clase nueva) califica la alianza en 8:8; su sentido contextual marca una novedad real en la administración del pacto. No significa automáticamente «sin continuidad». El texto nombra de manera explícita a la casa de Israel y a la casa de Judá: aplicar la promesa a la comunidad actual puede ser **canónico y cualificado**, pero sustituir esos destinatarios por otro grupo sin argumento sería **ilegítimo**.
 
-## Pendiente de verificar
+El contenido anunciado es igualmente concreto. **ἐντολή** (_entolē_, mandamiento, orden o instrucción) no es la forma que rige toda la cita, pero sirve para distinguir pedagógicamente una obediencia abstracta de la **תּוֹרָה** (_torah_, instrucción, enseñanza o ley) que יהוה promete escribir en el interior. En 8:10, «poner dentro» y «escribir sobre el corazón» son afirmaciones **directas** de interiorización; decir que cada aplicación práctica ya está resuelta por este versículo sería **aproximado** y requiere otros pasajes.
 
-- [ ] Cotejar la reconstrucción histórica de Eric según la cual el sacerdocio levítico y sus sacrificios se establecen como administración temporal después del becerro de oro, frente a la vocación de Éxodo 19:5-6. Hebreos 8:5-6 sostiene la relación entre modelo, servicio y realidades celestiales, pero no narra por sí solo toda esa transición.
-- [ ] Verificar la afirmación histórica de la clase sobre la composición y transmisión de Tehilim antes de usarla como argumento para clasificarlo como libro profético. En Hebreos 8 la autoridad comprobable es la cita de Yirmeyahu 31:31-34 y su contenido, no esa reconstrucción de la historia editorial.
+La promesa une instrucción con relación: «yo seré su Elohim» y «ellos serán mi pueblo». **διαθήκη** (_diathēkē_, pacto, disposición o alianza) tiene un campo más amplio que un contrato moderno; en 8:6 y 8:8 su fuerza contextual es la relación establecida por promesa y mediación. «Pacto mejor» es **directo** como comparación, mientras «misma esperanza mejorada» es la síntesis **pedagógica** de Eric. El mediador **μεσίτης** (_mesitēs_, mediador o intermediario) vincula esa alianza con el sacerdocio del capítulo anterior, pero no convierte la palabra en una explicación legal exhaustiva.
+
+El cierre exige mantener perdón y conocimiento junto con la Torá interiorizada. **ἵλεως** (_hileōs_, propicio, misericordioso o favorable) en 8:12 califica la promesa de perdón; su fuerza es pactal y no una amnesia literal de Elohim. **παλαιόω** (_palaioō_, hacer antiguo o envejecer) en 8:13 califica al primer pacto dentro de la argumentación sacerdotal. La lectura de Eric recibe apoyo cuando denuncia usar «nuevo» para borrar la justicia; debe calificarse cuando convierte «envejecido» en rechazo de toda palabra que la misma promesa dice que será escrita en el corazón.
+
 ## Ver también
 
 - [[hebreos_7_melquisedec_sacerdocio_y_perfeccion|Hebreos 7: Melquisedec, sacerdocio y perfección]]

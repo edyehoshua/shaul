@@ -209,6 +209,14 @@
       "classification": "musical-performance",
       "reason": "Interpretación musical de una canción sobre Jerusalén; el material disponible no presenta una exposición bíblica sostenida para convertirla en un estudio canónico.",
       "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:O2jFt6kAl30",
+      "title": "Piyut Akdamut Leshavuot. פיוט אקדמות לשבועות Akdamut",
+      "url": "https://www.youtube.com/watch?v=O2jFt6kAl30",
+      "classification": "liturgical-music",
+      "reason": "El inventario identifica un piyut litúrgico de Shavuot y los proveedores no recuperaron una exposición bíblica sostenida; no se fabrica un estudio canónico a partir de una pieza litúrgica.",
+      "classified_at": "2026-07-29"
     }
   ]
 }
