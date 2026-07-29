@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 865,
-  "pending_videos": 93,
+  "covered_videos": 864,
+  "pending_videos": 94,
   "transcript_notes": 426,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -98,7 +98,7 @@
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 11,
+      "covered": 10,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
