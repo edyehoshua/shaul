@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 902,
-  "pending_videos": 56,
-  "transcript_notes": 458,
+  "covered_videos": 903,
+  "pending_videos": 55,
+  "transcript_notes": 459,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -113,7 +113,7 @@
     },
     "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
       "total": 35,
-      "covered": 12,
+      "covered": 13,
       "lane": "haftarot"
     },
     "Hebreas de antes": {
