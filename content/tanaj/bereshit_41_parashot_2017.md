@@ -113,7 +113,6 @@ Iosef repite dos veces que la respuesta no procede de él: «No está en mí; El
 El plan también tiene límites textuales. **(חמש)**, _jamesh_, significa poner una quinta parte o disponer en proporción de cinco; en 41:34 la propuesta de recoger una quinta parte durante los años de abundancia es una medida concreta para aquella crisis. «Diezmo» no es una equivalencia exacta: el texto no usa aquí el lenguaje de diez por ciento ni establece una mitzvah general. **(בר)**, _bar_, significa grano o cereal; su almacenamiento preserva alimento real. La misericordia que la clase asocia con la administración debe por tanto medirse por el fin declarado: que la tierra no sea consumida por el hambre, no por el tamaño del tesoro.
 
 El narrador deja que la provisión y la vulnerabilidad convivan. Durante los años buenos Iosef reúne «como la arena del mar» y deja de contar porque no había número (#bereshit_41_49); durante los años malos «hubo hambre en todos los países» (#bereshit_41_54). **(כלה)**, _kalah_, significa terminar, consumirse o acabar; su fuerza contextual describe la escasez cuando ya no hay alimento ordinario. El capítulo no permite espiritualizar el hambre hasta hacerla una simple metáfora de falta interior. La lectura de Eric queda mejor anclada cuando habla de misericordia ante una necesidad corporal, mientras reserva la evaluación de la política de compra y concentración para Bereshit 47.
-<<<<<<< HEAD
 
 ## El sueño se convierte en una responsabilidad pública
 
