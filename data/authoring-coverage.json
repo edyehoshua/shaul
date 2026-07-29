@@ -78,12 +78,12 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 12,
+      "covered": 11,
       "lane": "efesios"
     },
     "Haftarot de Bre’shit/Génesis restantes sin asignar (grupo coherente)": {
       "total": 11,
-      "covered": 11,
+      "covered": 10,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
@@ -113,7 +113,7 @@
     },
     "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
       "total": 35,
-      "covered": 10,
+      "covered": 13,
       "lane": "haftarot"
     },
     "Hebreas de antes": {
