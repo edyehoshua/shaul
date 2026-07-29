@@ -214,6 +214,18 @@ La meta se expresa con **(τέλειος)**, _teleios_, que significa completo, 
 - [[tesalonicenses_2_verdad_enganio_firmeza|2 Tesalonicenses 2: verdad, engaño y firmeza]]
 - [[tesalonicenses_2_comunidad_trabajo_correccion_paz|2 Tesalonicenses 3: comunidad, trabajo, corrección y paz]]
 
+## Reparación final: plenitud, reconciliación y servicio sin confusión
+
+La lectura consolidada debe conservar dos límites que se pierden cuando se aíslan los lemas del capítulo. Primero, el himno no presenta la plenitud como una idea abstracta separada de creación, comunidad, resurrección y reconciliación; segundo, el sufrimiento de Pablo en 1:24-29 pertenece a su servicio por el cuerpo y no completa la eficacia reconciliadora que 1:20-22 atribuye a Yehoshua. Esta síntesis evalúa las observaciones públicas de Eric con el texto local, sin convertir una paráfrasis de la clase en cita literal.
+
+En #colossians_1_15-20, **(εἰκών)**, _eikōn_, significa imagen, representación o figura; su fuerza contextual es presentar a Yehoshua como imagen del Elohim invisible. «Imagen» es una glosa **directa**. **(πρωτότοκος)**, _prōtotokos_, significa primogénito; aquí comunica primacía respecto de la creación y de los muertos, no simplemente prioridad temporal de nacimiento. «Primogénito» es **directo**, mientras convertirlo en «primer ser creado» sería **ilegítimo** frente a 1:16-17. **(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o aquello que llena; en 1:19 señala la plenitud que habita en Yehoshua. «Plenitud» es **directa en el campo ordinario**, pero sus consecuencias ontológicas completas son **inferenciales** desde el sustantivo aislado.
+
+En #colossians_1_20-22, **(ἀποκαταλλάσσω)**, _apokatallassō_, significa reconciliar plenamente o restaurar una relación; su fuerza contextual es la paz hecha por medio de la sangre de la cruz y aplicada a quienes estaban alienados. «Reconciliar» es **directo y contextual**. La comparación pedagógica con **כפר**, _kipper_, «cubrir, expiar o hacer reparación», es **aproximada**: ilumina un campo canónico, pero no demuestra que el verbo griego sea una forma hebrea ni fija por sí sola un modelo de expiación. **(ἄμωμος)**, _amōmos_, significa sin mancha o irreprochable; en 1:22 describe la presentación de la comunidad, y su relación con **מוּם**, _mum_, «defecto», es solo **pedagógica y aproximada**.
+
+En #colossians_1_24-29, **(ἀνταναπληρόω)**, _antanaplēroō_, significa completar en correspondencia, llenar lo que falta o suplir; su fuerza contextual describe lo que Pablo lleva en su propia carne por el cuerpo, no una deficiencia en la reconciliación del Mesías. **(διακονία)**, _diakonia_, significa servicio o ministerio; **(μυστήριον)**, _mystērion_, significa secreto o realidad antes oculta; y **(νουθετέω)**, _noutheteō_, significa amonestar o instruir. Las tres formas muestran que el sufrimiento se integra en un encargo público que anuncia y forma a toda persona. Sus glosas son **directas** en el campo ordinario; convertir el servicio apostólico en mérito expiatorio sería **ilegítimo**.
+
+La reparación queda, por tanto, graduada: la primacía, la reconciliación por la cruz y el propósito comunitario del ministerio tienen **apoyo textual**; las correspondencias entre formas griegas y hebreas son **aproximadas y pedagógicas**; y las teorías históricas o ontológicas que no surgen del pasaje son **inferenciales**. El recorrido canónico permanece unido: identidad recibida, fruto y conocimiento, primacía de Yehoshua, reconciliación, perseverancia, misterio anunciado y madurez de toda persona.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
