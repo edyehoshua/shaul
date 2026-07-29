@@ -186,6 +186,12 @@ Eric distingue en la clase entre **(משיח)**, _mashiaj_, y una simple etiquet
 
 La clase también advierte que la opinión popular no equivale a verdad bíblica: las respuestas «Iojanán», «Eliyahu» o «uno de los profetas» recogen voces distintas, pero no responden a la pregunta personal «¿ustedes quién dicen que soy?». Marcos confirma esa diferencia por la secuencia, y la muerte previa de Iojanán hace que la explicación atribuida a Herodes en 6:14-16 sea una hipótesis de temor, no una enseñanza de reencarnación. La conexión de Eric con Malaquías 3 y la expectativa de Eliyahu queda como trasfondo propuesto; no reemplaza el movimiento local de Marcos 8: rumor público, confesión de Kefa, silencio ordenado y corrección por el camino de la cruz.
 
+## Control de dependencia y fuentes
+
+Marcos 8 debe leerse en el orden que las tres sesiones públicas conservan: la parte 25 recorre la vista parcial del ciego y la confesión de Kefa (8:22–30); la parte 26 sigue el anuncio del padecimiento y la reprensión de Kefa (8:31–33); la parte 27 extiende ese anuncio al costo del seguimiento y a la discusión sobre la simiente (8:31–38). El TTH local gobierna el relato de Marcos; Iojanán, Tehilim, Yirmeyahu y Galatiyim funcionan como comparaciones públicas identificadas, no como reemplazos del contexto de 8:22–38.
+
+La progresión controla también las afirmaciones léxicas. **βλέπω**, _blepō_, «ver», y **διδάσκω**, _didaskō_, «enseñar», enlazan la restauración y la explicación del título; **ἐπιτιμάω**, _epitimaō_, «reprender», marca el intento de Kefa de detener el anuncio; y **ἀκολουθέω**, _akoloutheō_, «seguir», lleva la corrección al llamado público de 8:34. Las conexiones sobre Jeconías, la simiente y la naturaleza del Mesías permanecen atribuidas y calificadas donde exceden la perícopa. Los tres videos tienen IDs públicos distintos y se conservan como fuentes independientes dentro de esta única nota canónica del capítulo.
+
 ## Conclusión
 
 Marcos 8 lleva de una vista incompleta a una confesión probada. Kefa dice correctamente que Yehoshua es el Mesías, pero la explicación de Yehoshua impide que ese título se llene con ambición política o triunfo sin entrega. El Ben HaAdam debe sufrir, ser rechazado, morir y levantarse; después llama a quienes lo oyen a venir detrás de él, no delante de él con sus propias expectativas.
