@@ -31,23 +31,23 @@ Esta nota organiza una clase sobre Tehilim 16. La transcripción registra que el
 
 ## Hoja de comparación
 
-| Referencia     | Texto local (hebreo sin nikud)                          | Observación                                                                         |
-| -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #tehilim_16_1  | מכתם לדוד שמרני אל כי חסיתי בך                       | La súplica abre con refugio en Elohim; `מכתם` forma parte del verso en este corpus. |
+| Referencia      | Texto local (hebreo sin nikud)                                                                    | Observación                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| #tehilim_16_1   | מכתם לדוד שמרני אל כי חסיתי בך                                                                    | La súplica abre con refugio en Elohim; `מכתם` forma parte del verso en este corpus.     |
 | #tehilim_16_2-4 | אמרת ליהוה אדני אתה טובתי בל עליך · לקדושים אשר בארץ המה ואדירי כל חפצי בם · ירבו עצבותם אחר מהרו | La pertenencia a יהוה ordena el afecto por los santos y contrasta con correr tras otro. |
-| #tehilim_16_5-7 | יהוה מנת חלקי וכוסי אתה תומיך גורלי · חבלים נפלו לי בנעמים · אברך את יהוה אשר יעצני | Porción, heredad y consejo se reciben de יהוה. |
-| #tehilim_16_8-9 | שויתי יהוה לנגדי תמיד כי מימיני בל אמוט · לכן שמח לבי ויגל כבודי אף בשרי ישכן לבטח | Tener a יהוה delante conduce a estabilidad, alegría y seguridad. |
-| #tehilim_16_10 | כי לא תעזב נפשי לשאול לא תתן חסידך לראות שחת        | El salmista confiesa que no será abandonado al Seol.                                |
-| #tehilim_16_11 | תודיעני ארח חיים שבע שמחות את פניך נעמות בימינך נצח | El cierre nombra un sendero de vida, plenitud de alegrías y delicias duraderas.     |
+| #tehilim_16_5-7 | יהוה מנת חלקי וכוסי אתה תומיך גורלי · חבלים נפלו לי בנעמים · אברך את יהוה אשר יעצני               | Porción, heredad y consejo se reciben de יהוה.                                          |
+| #tehilim_16_8-9 | שויתי יהוה לנגדי תמיד כי מימיני בל אמוט · לכן שמח לבי ויגל כבודי אף בשרי ישכן לבטח                | Tener a יהוה delante conduce a estabilidad, alegría y seguridad.                        |
+| #tehilim_16_10  | כי לא תעזב נפשי לשאול לא תתן חסידך לראות שחת                                                      | El salmista confiesa que no será abandonado al Seol.                                    |
+| #tehilim_16_11  | תודיעני ארח חיים שבע שמחות את פניך נעמות בימינך נצח                                               | El cierre nombra un sendero de vida, plenitud de alegrías y delicias duraderas.         |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal | Fuerza en el salmo | Equivalencia |
-| --- | --- | --- | --- | --- |
-| **(מכתם)** | mikhtam | título o designación poética de sentido discutido | Encabeza el poema; la clase se detiene precisamente en que no tiene una explicación segura. No debe convertirse en una doctrina a partir de una etimología propuesta. | No establecida; cualquier glosa española es aproximada. |
-| **(חסיתי)** | jasiti | «me he refugiado» | En v. 1 expresa la acción ya asumida por el orante que pide guarda; sostiene la lectura de dependencia que subraya la clase. | Aproximación funcional a «buscar refugio», no equivalencia doctrinal exhaustiva. |
-| **(מנת חלקי)** | menat jelqi | «la porción de mi parte» | En v. 5 nombra a יהוה como la porción asignada al orante; junto con «mi copa» y «tú sostienes mi suerte» evita tratar la heredad como un objeto autónomo. | Aproximada: «porción» conserva la imagen, pero no agota sus asociaciones de reparto y herencia. |
-| **(שחת)** | shajat | fosa, corrupción o destrucción, según contexto | En v. 10 está en paralelo con Seol y delimita el peligro del que יהוה no abandona al fiel. | Aproximada; no se debe decidir solo por esta palabra una teoría completa del más allá. |
+| Forma          | Transliteración | Sentido normal                                    | Fuerza en el salmo                                                                                                                                                    | Equivalencia                                                                                    |
+| -------------- | --------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **(מכתם)**     | mikhtam         | título o designación poética de sentido discutido | Encabeza el poema; la clase se detiene precisamente en que no tiene una explicación segura. No debe convertirse en una doctrina a partir de una etimología propuesta. | No establecida; cualquier glosa española es aproximada.                                         |
+| **(חסיתי)**    | jasiti          | «me he refugiado»                                 | En v. 1 expresa la acción ya asumida por el orante que pide guarda; sostiene la lectura de dependencia que subraya la clase.                                          | Aproximación funcional a «buscar refugio», no equivalencia doctrinal exhaustiva.                |
+| **(מנת חלקי)** | menat jelqi     | «la porción de mi parte»                          | En v. 5 nombra a יהוה como la porción asignada al orante; junto con «mi copa» y «tú sostienes mi suerte» evita tratar la heredad como un objeto autónomo.             | Aproximada: «porción» conserva la imagen, pero no agota sus asociaciones de reparto y herencia. |
+| **(שחת)**      | shajat          | fosa, corrupción o destrucción, según contexto    | En v. 10 está en paralelo con Seol y delimita el peligro del que יהוה no abandona al fiel.                                                                            | Aproximada; no se debe decidir solo por esta palabra una teoría completa del más allá.          |
 
 ## Refugio y pertenencia: vv. 1-4
 
@@ -67,12 +67,18 @@ Los vv. 8–11 unen estabilidad, liberación del Seol y sendero de vida. El salm
 
 Una lectura mesiánica de #tehilim_16_10 debe distinguir entre el sentido del poema y sus usos posteriores. Hechos 2:25-31 cita el salmo en el anuncio acerca de Yehoshua; esa recepción apostólica merece leerse en su argumento completo, sin borrar la voz original de confianza de David.
 
+## Prueba ordenada de refugio, heredad y vida
+
+La observación de Eric se prueba mejor siguiendo los verbos del poema y no aislando la frase «mi porción». Primero aparece la petición **שמרני אל** («guárdame, Elohim») y la razón **כי חסיתי בך** («porque me he refugiado en ti», 16:1). Después, el orante confiesa **יהוה מנת חלקי וכוסי** («יהוה es mi porción y mi copa», 16:5) y añade **אתה תומיך גורלי** («tú sostienes mi suerte»). La imagen de heredad, por tanto, está subordinada a la acción de יהוה: no es una propiedad que el orante controla, sino una porción que recibe y cuyo destino Elohim sostiene.
+
+La segunda transición también importa. **שויתי יהוה לנגדי תמיד** («puse a יהוה delante de mí continuamente», 16:8) precede a **בל אמוט** («no vacilaré») y a la seguridad de la carne que reposa, 16:9. Eric presenta esta presencia deliberada como la disciplina que convierte refugio en estabilidad; el orden local respalda la conexión, aunque no convierte _siempre_ en una técnica psicológica. Finalmente, **לא תעזב נפשי לשאול** («no abandonarás mi nefesh al Seol», 16:10) y **תודיעני ארח חיים** («me harás conocer el sendero de vida», 16:11) llevan la confianza hacia el futuro. La esperanza de vida es explícita; que cada detalle sea una profecía directa sobre Yehoshua depende de la recepción apostólica en Hechos 2, no de una traducción adicional del salmo.
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta tomada de la clase | Evaluación en esta nota |
-| --- | --- | --- |
-| Tehilim 16:1-4 | Eric comienza con **(מכתם)** y conserva la incertidumbre de su significado; después lee el refugio como dependencia de Elohim y como rechazo de correr tras otro. | **Apoyo textual y aclaración léxica**: el título es discutido, mientras que la súplica y el contraste cultual sí aparecen explícitamente en los vv. 1-4. |
-| Tehilim 16:5-9 | La clase presenta a יהוה como porción y copa, y relaciona la heredad agradable con el consejo nocturno, la presencia continua y la estabilidad. | **Apoyo textual**: la secuencia porción–consejo–presencia–firmeza sigue el orden del salmo; «heredad» se mantiene como imagen, no como posesión autónoma. |
+| Unidad textual   | Observación concreta tomada de la clase                                                                                                                            | Evaluación en esta nota                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tehilim 16:1-4   | Eric comienza con **(מכתם)** y conserva la incertidumbre de su significado; después lee el refugio como dependencia de Elohim y como rechazo de correr tras otro.  | **Apoyo textual y aclaración léxica**: el título es discutido, mientras que la súplica y el contraste cultual sí aparecen explícitamente en los vv. 1-4.                                          |
+| Tehilim 16:5-9   | La clase presenta a יהוה como porción y copa, y relaciona la heredad agradable con el consejo nocturno, la presencia continua y la estabilidad.                    | **Apoyo textual**: la secuencia porción–consejo–presencia–firmeza sigue el orden del salmo; «heredad» se mantiene como imagen, no como posesión autónoma.                                         |
 | Tehilim 16:10-11 | Eric vincula el sendero de vida y la liberación del Seol con la esperanza mesiánica, pero la nota distingue la voz original del salmo de su recepción en Hechos 2. | **Inferencia calificada**: la esperanza de vida está en el texto; la aplicación mesiánica se atribuye al argumento apostólico y no se presenta como el único sentido inmediato de cada expresión. |
 
 ## Pendiente de verificar

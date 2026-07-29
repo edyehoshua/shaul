@@ -76,6 +76,36 @@ La respuesta final es litúrgica: “nosotros cantaremos y entonaremos tu poder�
 - #bereshit_3_15: una conexión canónica para pensar la enemistad y la victoria, no una identificación explícita hecha por el salmo.
 - #romanos_1_16: la salvación de יהוה es confesada como poder para quien cree.
 
+## Recorrido textual en el orden del salmo
+
+### vv. 2-3: el rey se alegra en una autoridad recibida
+
+Eric comienza observando que el encabezado y los comentarios que él consulta ofrecen un marco mesiánico, pero advierte que esos comentarios son referencia y no definición automática del himno. Su punto material se prueba primero en el v. 2: **יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד**. El rey se alegra «en tu fuerza» y «en tu salvación»; la fuente de su alegría no es una capacidad autónoma. Eric desarrolla **עז** como poder entendido como fuente de autoridad y potestad, incluso con la analogía de los poderes que legislan, juzgan y ejecutan. La analogía explica su aplicación a la soberanía de יהוה, pero el verso local solo exige afirmar que la fuerza y la salvación pertenecen a יהוה.
+
+El v. 3 continúa: **תאות לבו נתתה לו וארשת שפתיו בל מנעת סלה**. Eric llama la atención sobre **תאות**, el deseo o anhelo del corazón, y dice que el deseo del rey mesiánico no se reduce a destruir a los impíos: incluye el reencuentro con su pueblo. La primera parte sí declara que יהוה concede el deseo y no retiene la petición de los labios; la identificación de ese deseo con el reencuentro mesiánico es una lectura atribuida, no una traducción del sustantivo. El mismo expositor relaciona la promesa con la fidelidad de יהוה: aunque un gobernante humano pueda emitir decretos errados, יהוה no revoca caprichosamente lo que ha declarado. Esa aplicación doctrinal debe juzgarse con el conjunto de la Torah; aquí el verso confirma que la respuesta procede de יהוה.
+
+### vv. 4-8: bendición, vida, gloria y confianza
+
+La secuencia de dones se vuelve visible en los vv. 4-6: **כי תקדמנו ברכות טוב תשית לראשו עטרת פז**; **חיים שאל ממך נתתה לו ארך ימים עולם ועד**; **גדול כבודו בישועתך הוד והדר תשוה עליו**. יהוה sale al encuentro del rey con bendiciones, pone corona de oro fino sobre su cabeza, concede la vida que pidió y reviste al rey de gloria, esplendor y majestad. Eric conecta corona, vida y gloria con la recepción mesiánica en Yehoshua, pero conserva el principio que ordena todas las conexiones: son dones de יהוה. La relación de **ישועה** (_yeshuah_, salvación, liberación o victoria) con el nombre Yehoshua es sonora y pedagógica, no una prueba etimológica de que el salmo nombre explícitamente al Mesías.
+
+El v. 7 añade: **כי תשיתהו ברכות לעד תחדהו בשמחה את פניך**. Eric lo relaciona con la idea de estar completo o satisfecho delante de יהוה: no se trata meramente de una emoción pasajera, sino de recibir en Él lo que no deja carencia. El texto afirma bendición perpetua y alegría ante el rostro divino; «contentamiento» es la explicación pastoral del expositor. El v. 8 da el fundamento: **כי המלך בטח ביהוה ובחסד עליון בל ימוט**. La estabilidad del rey depende de su confianza en יהוה y del **חסד** (_hesed_, lealtad, bondad firme o misericordia), no de la autosuficiencia del trono. La correspondencia entre _hesed_ y «misericordia» es aproximada: el contexto conserva también la dimensión de fidelidad relacional.
+
+### vv. 9-13: juicio de יהוה y derrota de los adversarios
+
+Eric no deja los dones reales separados del juicio. En los vv. 9-10 lee la mano del rey como instrumento del juicio recibido: **תמצא ידך לכל איביך ימינך תמצא שנאיך**; **תשיתמו כתנור אש לעת פניך יהוה באפו יבלעם ותאכלם אש**. El texto habla de enemigos, mano derecha, horno de fuego, ira y fuego que consume. La clase los conecta con la enemistad de Bereshit 3:15 y con la victoria del Mesías sobre el mal. Esa conexión canónica es una inferencia cualificada: el salmo afirma el juicio contra adversarios, pero no identifica por sí mismo a cada enemigo con una figura espiritual ni describe la ejecución romana.
+
+Los vv. 11-13 explican por qué el juicio alcanza a esos adversarios: **פרימו מארץ תאבד וזרעם מבני אדם**; **כי נטו עליך רעה חשבו מזמה בל יוכלו**; **כי תשיתמו שכם במיתריך תכונן על פניהם**. Su fruto desaparece de la tierra, tramaron mal contra יהוה y no pudieron realizarlo; finalmente quedan expuestos como blanco ante sus cuerdas. Eric relaciona esta imposibilidad de hacer prevalecer el mal con la autoridad soberana de יהוה y con la promesa de que sus decretos no fallan. El texto local apoya la derrota de los planes, mientras la extensión a una doctrina completa de retribución proporcional pertenece a la exposición y debe verificarse con otros pasajes.
+
+### v. 14: la victoria termina en alabanza
+
+El cierre cambia de la tercera persona a la invocación comunitaria: **רומה יהוה בעזך נשירה ונזמרה גבורתך**. «¡Levántate, יהוה, en tu fuerza! Cantaremos y entonaremos tu poder». Eric insiste en que el destino de la victoria no es la venganza privada, sino la exaltación de יהוה. El movimiento completo del salmo confirma esa lectura: la fuerza que alegra al rey (v. 2), los dones recibidos (vv. 3-8), el juicio de los adversarios (vv. 9-13) y el canto final (v. 14) devuelven la autoridad a su fuente. La recepción mesiánica puede confesar que Yehoshua recibe vida y gloria, pero debe terminar donde termina el poema: en la fuerza de יהוה.
+
+## Prueba ordenada de don, juicio y canto
+
+La exposición de Eric no presenta la corona y la vida como atributos autónomos del rey. El texto comienza con **יהוה בעזך ישמח מלך** («el rey se alegra en tu fuerza», 21:2) y continúa con **ובישועתך** («y en tu salvación»). Solo después enumera bendición, corona, vida y gloria: **תאות לבו נתתה לו** («le diste el deseo de su corazón»), **עטרת פז** («corona de oro fino») y **חיים שאל ממך נתתה לו** («vida pidió de ti; se la diste», 21:3-5). La observación de la clase sobre Yehoshua puede conservarse como recepción mesiánica, pero la dirección gramatical permanece clara: el rey recibe de יהוה.
+
+El centro de estabilidad es **כי המלך בטח ביהוה** («porque el rey confió en יהוה», 21:8), unido a **ובחסד עליון בל ימוט** («por la bondad firme del Altísimo no vacilará»). Luego el salmo pasa al juicio de los adversarios: la mano, el horno de fuego y los planes que no pueden realizarse, 21:9-13. Eric relaciona esta unidad con la enemistad de Bereshit 3:15 y con la victoria mesiánica; es una extensión canónica cualificada, no el significado aislado de **איביך** («tus enemigos»). El cierre corrige cualquier lectura de poder independiente: **רומה יהוה בעזך** vuelve a invocar a יהוה y la comunidad responde cantando su poder. Así, el orden confirma la tesis de la clase —victoria recibida y no autosuficiente— sin convertir el juicio del salmo en licencia personal para vengarse.
+
 ## Pendiente de verificar
 
 - [ ] Verificar en fuentes primarias la atribución específica al Targum y a comentaristas que la clase menciona para una lectura mesiánica del salmo.
