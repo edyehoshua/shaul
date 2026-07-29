@@ -105,6 +105,12 @@ La nota conserva el límite del pasaje: Yehoshua promete presencia, enseñanza y
 - #iojanan_14_25-26: el Menajem enseña haciendo recordar las palabras que Yehoshua ya entregó.
 - #ieshaiahu_11_3-4: la clase propone un discernimiento formado por justicia; leer primero el oráculo en su propio contexto mesiánico.
 
+## La secuencia que el pasaje exige
+
+Eric no separa la pregunta de Iehudáh de la respuesta de Yehoshua: el contraste con el olam (#iojanan_14_22) se explica por una relación de amor y obediencia, no por una clave esotérica. El texto local mantiene el orden: «Si un hombre me ama, mi palabra guardará»; «mi Padre lo amará»; «vendremos a él, y con él haremos morada» (#iojanan_14_23). El v. 24 confirma el negativo: «El que no me ama, mi palabra no guardará», y vuelve a anclar la palabra en el Padre que envió a Yehoshua.
+
+La clase amplía esa morada hacia la vida diaria y hacia la conciencia formada por la palabra. Esa aplicación es atribuible a Eric, pero la prueba canónica no debe invertirse: primero el pasaje define amor, guardar y morada; luego #iojanan_14_25-26 explica que el Menajem enseña y recuerda «todo lo que les he hablado». Así, la memoria prometida no autoriza un mensaje desligado del discurso previo. La asociación con Ieshaiahu 11:3-4 y Tehilim 119:20 puede iluminar discernimiento y deseo por los juicios de יהוה, pero funciona como conexión pedagógica, no como sustituto del argumento de Yojanán 14.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el griego de #iojanan_14_23-26, especialmente **(μονή)**, **(παράκλητος)**, **(διδάσκω)** y **(ὑπομιμνῄσκω)**, y revisar sus usos en el cuarto evangelio.

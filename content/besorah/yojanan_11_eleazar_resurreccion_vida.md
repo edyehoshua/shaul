@@ -206,6 +206,12 @@ La clase subraya que #iojanan_11_51 no atribuye la palabra al hombre Caifás com
 
 Yehoshua deja de andar manifiestamente entre los yehudim y se retira a Efráim (#iojanan_11_54). Se acerca Pesaj de los yehudim (#iojanan_11_55): Pesaj de יהוה en Judea, no reducción étnica a «pascua de los judíos».
 
+## De la enfermedad a la decisión del concilio
+
+Eric lee el capítulo como una progresión, no como una colección de frases sobre milagros: la enfermedad es orientada a la honra (#iojanan_11_4), la demora queda dentro del amor declarado (#iojanan_11_5-6), la confesión de Martah concentra la esperanza en Yehoshua (#iojanan_11_24-27), y la señal termina provocando una decisión pública (#iojanan_11_47-53). La secuencia local confirma el movimiento: «Esta enfermedad no es para muerte, sino para honra de Elohim»; después, ante el sepulcro, Yehoshua dice «si te afirmas, verás la honra de Elohim»; finalmente el concilio reconoce que «este hombre hace muchas señales» y teme perder «lugar y nación».
+
+La exposición de Eric presenta esa reacción como el reverso de la señal: muchos se afirman en Yehoshua (#iojanan_11_45), mientras los principales sacerdotes y los fariseos reúnen al concilio (#iojanan_11_47). El texto no dice que el concilio niegue que haya ocurrido una señal; su temor es político y comunitario, y la profecía de Caifás transforma la muerte proyectada en una línea narrativa sobre el pueblo (#iojanan_11_49-52). Por eso la lectura de la clase sobre honra, testimonio y conflicto conserva fuerza textual, aunque la reconstrucción histórica del cargo sacerdotal y de su contexto siga pendiente.
+
 ## Conexiones principales
 
 - #iojanan_11_4 con #iojanan_11_40: la enfermedad orientada a honra se confirma en la promesa de ver la honra de Elohim.
