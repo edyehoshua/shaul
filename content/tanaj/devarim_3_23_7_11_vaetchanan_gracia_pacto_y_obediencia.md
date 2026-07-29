@@ -23,6 +23,7 @@ sources:
   - "docs/scriptures/oe/json/deuteronomy/5.json"
   - "docs/scriptures/oe/json/deuteronomy/6.json"
   - "docs/scriptures/oe/json/deuteronomy/7.json"
+  - "docs/scriptures/tth/json/devarim.json"
 source_ids:
   - "youtube:iJJX9zpbryk"
 translation: "[OE]"
@@ -69,35 +70,52 @@ Como Israel no vio “ninguna imagen” cuando יהוה habló desde el fuego, E
 
 Devarim 5 repite que el pacto fue cortado “con nosotros, todos vivos hoy”. La clase conserva este presente comunitario y rechaza tratar el Decálogo como una memoria ajena. El primer mandamiento identifica al que sacó a Israel de Egipto; la gracia precede a la obediencia, pero la obediencia expresa la pertenencia. El texto local no autoriza separar liberación y mandamiento.
 
+## Buscar, volver y hallar misericordia (4:25-31)
+
+La advertencia sobre el futuro no abandona el recorrido de la gracia. Si Israel engendra hijos y nietos, se corrompe y fabrica una imagen, Devarim anuncia dispersión y aflicción; pero también dice: «desde allí buscarás a יהוה tu Elohim, y lo hallarás, cuando lo busques con todo tu corazón y con toda tu alma» (4:29, TTH local). **שוב**, _shuv_, significa volver, regresar o retornar; su fuerza contextual es reorientarse hacia יהוה después de la infidelidad, no limitarse a sentir pesar. «Arrepentimiento interior» es una equivalencia pedagógica aproximada.
+
+El mismo tramo llama a יהוה **רחום**, _rajum_: misericordioso o compasivo. «Gracia» se relaciona con la enseñanza de Eric, pero no es equivalencia exacta de esta forma. La promesa se apoya en que יהוה no abandona ni destruye, y no olvida el pacto con los padres. Así, la clase acierta al presentar la gracia como participación que preserva y llama a volver, siempre que no borre la disciplina histórica que el pasaje acaba de anunciar. La secuencia textual es juicio, búsqueda, hallazgo y memoria del pacto; no una absolución desligada de la vuelta.
+
 ## Shema, amor y elección (6:4-9; 7:6-11)
 
 El **שמע**, _shema_, de 6:4 concentra la confesión: יהוה es nuestro Dios, יהוה es uno. Eric relaciona escuchar con hacerse consciente, obedecer y deleitarse; como glosa pedagógica es amplia, mientras el sentido normal incluye oír y atender. El amor de 6:5 —**אהב**, _ahav_— ocupa corazón, nefesh y fuerza/medida total. La Torah se enseña en casa, camino, acostarse y levantarse: la gracia se vuelve memoria encarnada.
+
+La Torah se enseña en casa, camino, acostarse y levantarse: la gracia se vuelve memoria encarnada.
+
+El Shemá continúa con la memoria de la tierra recibida: «cuando יהוה tu Elohim te haya introducido en la tierra» y Israel habite casas, cisternas, viñas y olivares que no edificó ni plantó, no debe olvidar a quien lo sacó de Mitzráim (6:10-12, TTH local). **שכח**, _shakach_, significa olvidar, descuidar o dejar de tener presente; aquí su fuerza contextual es vivir el don como autosuficiencia. «Ingratitud» resume la aplicación de Eric, pero es equivalencia pedagógica, no traducción aislada.
+
+La respuesta se ordena en verbos: temer a יהוה, servirle, jurar por su nombre, guardar sus mandamientos y hacer lo recto y bueno (6:13-18). **עבד**, _avad_, significa servir, trabajar o ser siervo; en este contexto contrasta el servicio debido a יהוה con la servidumbre anterior a Faraón. «Liberación interior» sería una ampliación, no el sentido exacto. El testimonio que se da a los hijos (6:20-25) vuelve a contar «éramos siervos de Faraón» y explica que יהוה sacó al pueblo para guardar estos estatutos. La gracia participada, por tanto, se conserva como memoria familiar, confesión y práctica, no como posesión que permita olvidar al Dador.
 
 Devarim 7 corrige una lectura de elección basada en superioridad numérica. Israel es pueblo santo y tesoro particular, pero יהוה lo escogió por amor y por guardar el juramento a los padres. **חסד**, _chesed_, expresa bondad fiel o misericordia de pacto; aquí el texto une amor, juramento, redención y mandato. Eric afirma que el pacto renovado en el Mesías da sentido a los procedimientos; esa es una lectura apostólica atribuida. La unidad de Devarim, sin embargo, ya declara el orden básico: amor y fidelidad de יהוה, luego “guardar la ordenanza, los estatutos y los juicios”.
 
 ## Hoja léxica
 
-| Forma fuente | Transliteración | Sentido normal              | Fuerza contextual y relación                                        |
-| ------------ | --------------- | --------------------------- | ------------------------------------------------------------------- |
-| **(ואתחנן)** | _va’etchanan_   | suplicar, implorar favor    | “Participar de la gracia” es explicación teológica aproximada.      |
-| **(חן)**     | _chen_          | gracia, favor               | Base conceptual de la clase; no sustituye la forma verbal completa. |
-| **(חזק)**    | _chazaq_        | ser fuerte, fortalecer      | Fortalecer a Yehoshua; exacta en 3:28.                              |
-| **(אמץ)**    | _amets_         | ser firme, fortalecer       | Afirmar y sostener; explicación contextual directa.                 |
-| **(חקים)**   | _juqim_         | estatutos, ordenanzas       | Mandatos recibidos; “elementos del pacto” es aproximación.          |
-| **(משפטים)** | _mishpatim_     | juicios, decisiones legales | Procedimientos y decisiones; paráfrasis pedagógica.                 |
-| **(דבקים)**  | _deveqim_       | adheridos, unidos           | Adhesión a יהוה vinculada con vida; exacta en 4:4.                  |
-| **(שמע)**    | _shema_         | oír, escuchar, atender      | Escucha que desemboca en hacer; fuerza contextual directa.          |
-| **(חסד)**    | _chesed_        | bondad fiel, misericordia   | Fidelidad de pacto; no equivale solo a emoción.                     |
+| Forma fuente | Transliteración | Sentido normal               | Fuerza contextual y relación                                                      |
+| ------------ | --------------- | ---------------------------- | --------------------------------------------------------------------------------- |
+| **(ואתחנן)** | _va’etchanan_   | suplicar, implorar favor     | “Participar de la gracia” es explicación teológica aproximada.                    |
+| **(חן)**     | _chen_          | gracia, favor                | Base conceptual de la clase; no sustituye la forma verbal completa.               |
+| **(חזק)**    | _chazaq_        | ser fuerte, fortalecer       | Fortalecer a Yehoshua; exacta en 3:28.                                            |
+| **(אמץ)**    | _amets_         | ser firme, fortalecer        | Afirmar y sostener; explicación contextual directa.                               |
+| **(חקים)**   | _juqim_         | estatutos, ordenanzas        | Mandatos recibidos; “elementos del pacto” es aproximación.                        |
+| **(משפטים)** | _mishpatim_     | juicios, decisiones legales  | Procedimientos y decisiones; paráfrasis pedagógica.                               |
+| **(דבקים)**  | _deveqim_       | adheridos, unidos            | Adhesión a יהוה vinculada con vida; exacta en 4:4.                                |
+| **(שמע)**    | _shema_         | oír, escuchar, atender       | Escucha que desemboca en hacer; fuerza contextual directa.                        |
+| **(חסד)**    | _chesed_        | bondad fiel, misericordia    | Fidelidad de pacto; no equivale solo a emoción.                                   |
+| **(שוב)**    | _shuv_          | volver, regresar, retornar   | Reorientación hacia יהוה después de la infidelidad; «arrepentirse» es aproximado. |
+| **(רחום)**   | _rajum_         | misericordioso, compasivo    | Compasión ligada a no abandonar el pacto; «gracia» es relacionada, no exacta.     |
+| **(שכח)**    | _shakach_       | olvidar, descuidar           | Olvidar al Dador en la prosperidad; «ingratitud» es pedagógica.                   |
+| **(עבד)**    | _avad_          | servir, trabajar, ser siervo | Contraste entre Faraón y el servicio debido a יהוה.                               |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual           | Observación concreta de la clase                                                                                                                                            | Tratamiento                                                                                          |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| #devarim_3_23-28         | Eric lee _va’etchanan_ como participación en la gracia aunque Moisés no recibe permiso para cruzar, y explica fortalecer/afirmar a Yehoshua como resistencia y permanencia. | Se confirma la paradoja narrativa; gracia y “participación” se marcan como interpretación atribuida. |
-| #devarim_4_1-9           | La gracia se manifiesta en no perecer, adherirse a יהוה, escuchar, hacer, no añadir ni quitar y enseñar a los hijos.                                                        | Apoyo textual; “procedimientos” para _mishpatim_ queda como aproximación pedagógica.                 |
-| #devarim_4_15-24; 5:1-10 | Eric vincula la voz sin imagen con el celo exclusivo de יהוה y recalca que el pacto habla a la comunidad presente.                                                          | Apoyo local y aclaración de _temunah_ y _qana_.                                                      |
-| #devarim_6_4-9           | Escuchar significa conciencia, obediencia y deleite; el amor se transmite en toda la vida cotidiana.                                                                        | Shema y amor tienen apoyo textual; la expansión de “escuchar” es pedagógica.                         |
-| #devarim_7_6-11          | La elección no procede del tamaño del pueblo sino del amor y del juramento; la gracia no desconecta los mandamientos.                                                       | Apoyo textual; la conexión con el pacto renovado en el Mesías queda como lectura canónica atribuida. |
+| Unidad textual            | Observación concreta de la clase                                                                                                                                            | Tratamiento                                                                                                                 |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| #devarim_3_23-28          | Eric lee _va’etchanan_ como participación en la gracia aunque Moisés no recibe permiso para cruzar, y explica fortalecer/afirmar a Yehoshua como resistencia y permanencia. | Se confirma la paradoja narrativa; gracia y “participación” se marcan como interpretación atribuida.                        |
+| #devarim_4_1-9            | La gracia se manifiesta en no perecer, adherirse a יהוה, escuchar, hacer, no añadir ni quitar y enseñar a los hijos.                                                        | Apoyo textual; “procedimientos” para _mishpatim_ queda como aproximación pedagógica.                                        |
+| #devarim_4_15-24; 5:1-10  | Eric vincula la voz sin imagen con el celo exclusivo de יהוה y recalca que el pacto habla a la comunidad presente.                                                          | Apoyo local y aclaración de _temunah_ y _qana_.                                                                             |
+| #devarim_6_4-9            | Escuchar significa conciencia, obediencia y deleite; el amor se transmite en toda la vida cotidiana.                                                                        | Shema y amor tienen apoyo textual; la expansión de “escuchar” es pedagógica.                                                |
+| #devarim_7_6-11           | La elección no procede del tamaño del pueblo sino del amor y del juramento; la gracia no desconecta los mandamientos.                                                       | Apoyo textual; la conexión con el pacto renovado en el Mesías queda como lectura canónica atribuida.                        |
+| #devarim_4_25-31; 6:10-25 | La gracia no autoriza olvidar: el pueblo debe volver, recordar la salida de Egipto y enseñar a sus hijos por qué guarda los mandamientos.                                   | Apoyo textual en TTH local; _shuv_, _rajum_, _shakach_ y _avad_ precisan que la gracia incluye retorno, memoria y servicio. |
 
 ## Conexiones principales
 
