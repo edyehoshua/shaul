@@ -172,11 +172,13 @@
     },
     {
       "video_id": "86QJBg5Aw5E",
-      "playlist_title": "Uncategorized",
+      "playlist_title": "Parashot Tanaj (clasificadas desde Uncategorized)",
       "title": "Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad",
       "url": "https://www.youtube.com/watch?v=86QJBg5Aw5E",
-      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
-      "status": "confirmed_unavailable"
+      "reason": "No local transcript under private/transcripts/ericdejes for owned tanaj lane source",
+      "status": "pending_transcript",
+      "lane": "tanaj",
+      "source_id": "youtube:86QJBg5Aw5E"
     },
     {
       "video_id": "Gw0vvb4MGI8",
@@ -252,11 +254,13 @@
     },
     {
       "video_id": "iw2v71qC7lk",
-      "playlist_title": "Uncategorized",
+      "playlist_title": "Parashot Tanaj (clasificadas desde Uncategorized)",
       "title": "Parashat Vayerá' - Parasháh \"Y fue visible\" Gn 18:1-22:24",
       "url": "https://www.youtube.com/watch?v=iw2v71qC7lk",
-      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
-      "status": "confirmed_unavailable"
+      "reason": "No local transcript under private/transcripts/ericdejes for owned tanaj lane source",
+      "status": "pending_transcript",
+      "lane": "tanaj",
+      "source_id": "youtube:iw2v71qC7lk"
     },
     {
       "video_id": "jamQ95BSuN0",
@@ -291,6 +295,96 @@
       "status": "confirmed_unavailable"
     },
     {
+      "video_id": "qoPOuZN5G4c",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Éqev Dt 7:12-11:25 Zajor, recuerda",
+      "url": "https://www.youtube.com/watch?v=qoPOuZN5G4c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "qzr_u89uzUk",
+      "playlist_title": "Uncategorized",
+      "title": "Janukáh (2017): La casa, la asamblea, pilar y baluarte de la verdad",
+      "url": "https://www.youtube.com/watch?v=qzr_u89uzUk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "r4_qmQa-HEY",
+      "playlist_title": "Uncategorized",
+      "title": "I have been given - I have been given - Hejag - Part 2",
+      "url": "https://www.youtube.com/watch?v=r4_qmQa-HEY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sHbKR7IjJ6A",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco - Parte 24: CAp 7 y 8 La Senal de Yonáh",
+      "url": "https://www.youtube.com/watch?v=sHbKR7IjJ6A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sTl5WJfH61Q",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 125 en guitarra מזמור קכ''ה בגיטרה",
+      "url": "https://www.youtube.com/watch?v=sTl5WJfH61Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sdJBSJjFIns",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Miqetz - Genesis 41:1 - 44:17 Speak Qashot",
+      "url": "https://www.youtube.com/watch?v=sdJBSJjFIns",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "se8OJZlKeQ8",
+      "playlist_title": "Uncategorized",
+      "title": "Zéjer Qodshó, el recuerdo de su santidad, una nueva visión de Janukáh",
+      "url": "https://www.youtube.com/watch?v=se8OJZlKeQ8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "st3eM0SNXRM",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Ntzavim Dt 29:9-30:20 The seed that YHWH blessed",
+      "url": "https://www.youtube.com/watch?v=st3eM0SNXRM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "stsUp5v3SXE",
+      "playlist_title": "Parashot Tanaj (clasificadas desde Uncategorized)",
+      "title": "Parashat 'Ajarey Mot - Passover Seder Part 5",
+      "url": "https://www.youtube.com/watch?v=stsUp5v3SXE",
+      "reason": "Local transcript is a stub (~one caption line); insufficient for canonical note authoring",
+      "status": "pending_transcript",
+      "lane": "tanaj",
+      "source_id": "youtube:stsUp5v3SXE"
+    },
+    {
+      "video_id": "tJKzd52fFbE",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Shmini Vayiqrá' (Lv) 9:1-11:47  El Octavo día, fuego extraño y algo mas",
+      "url": "https://www.youtube.com/watch?v=tJKzd52fFbE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "uXzXFluGIdg",
+      "playlist_title": "Uncategorized",
+      "title": "A Heart Fit for Hashem / In the House of Ephraim",
+      "url": "https://www.youtube.com/watch?v=uXzXFluGIdg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
       "video_id": "vB6aDB59o48",
       "playlist_title": "Uncategorized",
       "title": "Maravilloso Salvador  מושיענו הנפלא.wmv (Hebreo-Español)",
@@ -321,6 +415,54 @@
       "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
-    }
+      },
+      {
+      "video_id": "p7Tu9dJAgN0",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Haftarát Vayishlaj Parte 1",
+      "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
+      "reason": "Local transcript contains only an incomplete introductory segment (about 22 minutes) and does not preserve enough verse-specific exposition for a substantive canonical study; revisit if a complete transcript is recovered.",
+      "status": "incomplete_transcript"
+      },
+      {
+      "video_id": "dWfZ0pLJAlk",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
+      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
+      "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
+      "status": "confirmed_unavailable"
+      },
+      {
+      "video_id": "xjQ5RfijeVU",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Num 8:1 - 12:16 The Mnorah and the Prophecy",
+      "url": "https://www.youtube.com/watch?v=xjQ5RfijeVU",
+      "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
+      "status": "confirmed_unavailable"
+      },
+      {
+      "video_id": "sfGXMp9LYCc",
+      "playlist_title": "Shavuot independiente (balanceado desde Uncategorized)",
+      "title": "Jag Hashavu'ot 2020",
+      "url": "https://www.youtube.com/watch?v=sfGXMp9LYCc",
+      "reason": "La fuente está asignada a esta lane, pero no existe una transcripción local recuperable en este worktree; se pospone sin fabricar una exposición ni clasificar el contenido a partir del título.",
+      "status": "missing_local_transcript"
+      },
+      {
+      "video_id": "xpihVrZGGI4",
+      "playlist_title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
+      "title": "Haftaráh de Mtzorá' 2 Reyes cap 7: El redargüir de Hashem",
+      "url": "https://www.youtube.com/watch?v=xpihVrZGGI4",
+      "reason": "La exposición es elegible, pero no existe una transcripción local en este worktree; se pospone sin fabricar el estudio hasta disponer del texto fuente.",
+      "status": "missing_local_transcript"
+      },
+      {
+      "video_id": "7HdoY1mD98",
+      "playlist_title": "Haftarah de Ajarey-mot pendiente sin asignar",
+      "title": "Haftarah de Ajarey-mot",
+      "url": "https://www.youtube.com/watch?v=7HdoY1mD98",
+      "reason": "No existe una transcripción local recuperable. Además, el ID publicado en la lane tiene 10 caracteres y yt-dlp lo rechaza como ID de YouTube truncado; se requiere corregir la referencia antes de intentar recuperar el material.",
+      "status": "invalid_source_id_missing_transcript"
+      }
   ]
 }

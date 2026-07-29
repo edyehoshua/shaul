@@ -20,19 +20,10 @@ references:
   - "#korintim_alef_15_20-23"
   - "#romanos_11_35-36"
 sources:
-  - "https://www.youtube.com/watch?v=f0PQY7bXbJQ"
-  - "https://www.youtube.com/watch?v=OG2PPYieRhk"
-  - "https://www.youtube.com/watch?v=EHZDK_XPB1A"
-  - "https://www.youtube.com/watch?v=eJlTuHME674"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/exodus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
   - "docs/scriptures/delitzsch/json/acts.json"
-source_ids:
-  - "youtube:f0PQY7bXbJQ"
-  - "youtube:OG2PPYieRhk"
-  - "youtube:EHZDK_XPB1A"
-  - "youtube:eJlTuHME674"
 translation: "[OE, Delitzsch]"
 ---
 
@@ -42,7 +33,7 @@ Vaikra 23 presenta el ómer, el conteo de siete semanas y la ofrenda nueva como 
 
 ## Alcance de la nota
 
-Esta es la nota canónica de Vaikra 23 para los materiales locales sobre el ómer y Shavu’ot. Integra catorce enseñanzas del hermano Eric de Jesús Rodríguez Mendoza. Las transcripciones automáticas sirven para localizar los énfasis de cada sesión y no se usan como citas literales ni como autoridad por encima del texto bíblico.
+Esta es la nota canónica de Vaikra 23 para los materiales locales sobre el ómer y Shavu’ot. Las cuatro sesiones públicas del hermano Eric de Jesús Rodríguez Mendoza que enlazan Beha'alotjá con Shavu’ot tienen su atribución canónica única en la nota de Bamidbar 8; aquí se conserva su observación temática como contexto cruzado y se desarrolla Vaikra 23 desde sus fuentes escriturales. Las transcripciones automáticas sirven para localizar los énfasis y no se usan como citas literales ni como autoridad por encima del texto bíblico.
 
 Las sesiones discuten el inicio del conteo, el día de Shavu’ot, el pan con levadura, la relación con primicias, prácticas posteriores y vínculos mesiánicos. La nota distingue el mandato explícito de Vaikra de esas propuestas interpretativas; en particular, no presenta una reconstrucción calendárica o rabínica discutida como conclusión ya demostrada.
 
@@ -50,20 +41,28 @@ Las cuatro sesiones tituladas «Parashat-Beha'alotcha - Chag Hashavu'ot» comien
 
 ## Hoja de comparación
 
-| Referencia                      | Texto local                                                                                                                                                                                                             | Observación                                                                                            |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| #vaikra_23_9-10                 | **וידבר יהוה אל משה לאמר׃ דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן׃**                                                                             | La instrucción presupone entrada en la tierra, cosecha y presentación de la primera porción.           |
-| #vaikra_23_15-17                | **וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה׃ עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה׃ ממושבתיכם תביאו לחם תנופה שתים שני עשרנים סלת תהיינה חמץ תאפינה בכורים ליהוה׃** | El texto ordena siete semanas completas, cincuenta días y dos panes de primicias cocidos con levadura. |
-| #vaikra_23_21-22                | **וקראתם בעצם היום הזה מקרא קדש יהיה לכם כל מלאכת עבדה לא תעשו חקת עולם בכל מושבתיכם לדרתיכם׃ ובקצרכם את קציר ארצכם לא תכלה פאת שדך בקצרך ולקט קצירך לא תלקט לעני ולגר תעזב אתם אני יהוה אלהיכם׃**                      | Convocación, reposo de labor servil y provisión para pobre y extranjero aparecen en la misma unidad.   |
-| #shemot_23_14-17, #shemot_23_19 | **שלש רגלים תחג לי בשנה׃ ... וחג הקציר בכורי מעשיך אשר תזרע בשדה ... ראשית בכורי אדמתך תביא בית יהוה אלהיך**                                                                                                            | Shemot nombra la fiesta de la cosecha y las primicias antes de la legislación detallada de Vaikra.     |
-| #devarim_16_9-12                | **שבעה שבעת תספר לך מהחל חרמש בקמה תחל לספר שבעה שבעות׃ ועשית חג שבעות ליהוה אלהיך מסת נדבת ידך ... ושמחת לפני יהוה אלהיך אתה ובנך ובתך ... והגר והיתום והאלמנה ... וזכרת כי עבד היית במצרים**                          | Devarim une cuenta, ofrenda voluntaria, gozo inclusivo y memoria de la esclavitud.                     |
-| #maasei_ha_shlichim_2_1-4       | **וביום מלאת שבעת השבעות נאספו כלם לב אחד׃ ויהי קול רעש מן השמים פתאם ... וימלאו כלם רוח הקדש ויחלו לדבר בלשנות אחרות כאשר נתנם הרוח לספר׃**                                                                            | Hechos sitúa a los discípulos reunidos al cumplirse las semanas y atribuye su habla al Ruaj.           |
+| Referencia                      | Texto local                                                                                                                                                                                                                                                                                    | Observación                                                                                                     |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| #vaikra_23_1-8                  | **וידבר יהוה אל משה לאמר׃ דבר אל בני ישראל ואמרת אלהם מועדי יהוה אשר תקראו אתם מקראי קדש אלה הם מועדי׃ ששת ימים תעשה מלאכה וביום השביעי שבת שבתון מקרא קדש... בחדש הראשון בארבעה עשר לחדש בין הערבים פסח ליהוה׃ ובחמשה עשר יום לחדש הזה חג המצות ליהוה שבעת ימים מצות תאכלו**                  | Antes del ómer, el capítulo define los tiempos señalados, el Shabat, Pésaj y Matsot como convocaciones de יהוה. |
+| #vaikra_23_9-10                 | **וידבר יהוה אל משה לאמר׃ דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן׃**                                                                                                                                                    | La instrucción presupone entrada en la tierra, cosecha y presentación de la primera porción.                    |
+| #vaikra_23_15-17                | **וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה׃ עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה׃ ממושבתיכם תביאו לחם תנופה שתים שני עשרנים סלת תהיינה חמץ תאפינה בכורים ליהוה׃**                                                                        | El texto ordena siete semanas completas, cincuenta días y dos panes de primicias cocidos con levadura.          |
+| #vaikra_23_21-22                | **וקראתם בעצם היום הזה מקרא קדש יהיה לכם כל מלאכת עבדה לא תעשו חקת עולם בכל מושבתיכם לדרתיכם׃ ובקצרכם את קציר ארצכם לא תכלה פאת שדך בקצרך ולקט קצירך לא תלקט לעני ולגר תעזב אתם אני יהוה אלהיכם׃**                                                                                             | Convocación, reposo de labor servil y provisión para pobre y extranjero aparecen en la misma unidad.            |
+| #vaikra_23_33-44                | **וידבר יהוה אל משה לאמר׃ דבר אל בני ישראל לאמר בחמשה עשר יום לחדש השביעי הזה חג הסכות שבעת ימים ליהוה... ולקחתם לכם ביום הראשון פרי עץ הדר כפת תמרים וענף עץ עבת וערבי נחל ושמחתם לפני יהוה אלהיכם שבעת ימים... בסכת תשבו שבעת ימים... כי בסכות הושבתי את בני ישראל בהוציאי אותם מארץ מצרים** | Sucot cierra el calendario con asamblea, alegría, morada en cabañas y memoria del éxodo.                        |
+| #shemot_23_14-17, #shemot_23_19 | **שלש רגלים תחג לי בשנה׃ ... וחג הקציר בכורי מעשיך אשר תזרע בשדה ... ראשית בכורי אדמתך תביא בית יהוה אלהיך**                                                                                                                                                                                   | Shemot nombra la fiesta de la cosecha y las primicias antes de la legislación detallada de Vaikra.              |
+| #devarim_16_9-12                | **שבעה שבעת תספר לך מהחל חרמש בקמה תחל לספר שבעה שבעות׃ ועשית חג שבעות ליהוה אלהיך מסת נדבת ידך ... ושמחת לפני יהוה אלהיך אתה ובנך ובתך ... והגר והיתום והאלמנה ... וזכרת כי עבד היית במצרים**                                                                                                 | Devarim une cuenta, ofrenda voluntaria, gozo inclusivo y memoria de la esclavitud.                              |
+| #maasei_ha_shlichim_2_1-4       | **וביום מלאת שבעת השבעות נאספו כלם לב אחד׃ ויהי קול רעש מן השמים פתאם ... וימלאו כלם רוח הקדש ויחלו לדבר בלשנות אחרות כאשר נתנם הרוח לספר׃**                                                                                                                                                   | Hechos sitúa a los discípulos reunidos al cumplirse las semanas y atribuye su habla al Ruaj.                    |
 
 ## El mandato de contar y presentar
 
 Vaikra ordena presentar el `עמר` de las primicias y contar desde su presentación siete semanas completas (#vaikra_23_9-10, #vaikra_23_15-16). El resultado del conteo es una ofrenda nueva a יהוה. Las clases señalan correctamente que el pasaje tiene un marco agrícola y que el número cincuenta pertenece al propio texto.
 
 El desacuerdo sobre la expresión «al día siguiente del shabat» no se resuelve solo por afirmar una práctica contemporánea. Las sesiones defienden una lectura que cuenta siete shabatot completos y por ello ubica Shavu’ot en el primer día de la semana; otras interpretaciones históricas también deben describirse a partir de sus fuentes. Lo seguro en el capítulo es que la cuenta está ligada al ómer y que debe completarse según la fórmula de Vaikra.
+
+## El calendario comienza con convocación y Shabat
+
+Los versículos 1–3 no presentan las fiestas como inventos de Israel: la fórmula «los tiempos señalados de יהוה» las identifica como convocaciones que el pueblo debe proclamar. El término **(מועד)**, _moed_, significa normalmente tiempo señalado, cita o momento fijado; aquí tiene la fuerza contextual de una ocasión cultual ordenada. «Fiesta» es una traducción **aproximada**: puede ser correcta en algunos contextos, pero _moed_ no se limita a una celebración alegre. El Shabat aparece primero como **(שבת שבתון)**, _Shabat shabbaton_, un reposo solemne y convocatoria santa en todas las moradas de Israel.
+
+Los versículos 4–8 aplican ese marco a Pésaj y a la fiesta de los panes sin levadura: el día catorce, entre las tardes, es Pésaj para יהוה; el quince inicia siete días de Matsot. La enseñanza de Eric insiste en que el calendario debe recibirse del texto y no de costumbres desconectadas. Esa exhortación recibe apoyo directo aquí, aunque el capítulo todavía no resuelve todas las discusiones posteriores sobre cómputo, luna o práctica comunitaria. La ofrenda de los siete días y la convocatoria del séptimo muestran que la santidad del tiempo incluye límites concretos al trabajo servil.
 
 ## Panes, primicias y una ofrenda nueva
 
@@ -76,6 +75,12 @@ Shemot llama a esta fecha «fiesta de la cosecha» y manda llevar las primicias 
 El capítulo nombra una convocación santa y prohíbe el trabajo servil en ese día (#vaikra_23_21). Inmediatamente manda no agotar el borde del campo ni recoger el rebusco, sino dejarlo para el pobre y el extranjero (#vaikra_23_22). Por ello, la gratitud de Shavu’ot no queda restringida a un gesto privado ni a una ceremonia desligada de la economía del prójimo.
 
 Devarim amplía esa dirección: el gozo ante יהוה incluye a la familia, siervos, levita, extranjero, huérfano y viuda, y se guarda la memoria de haber sido esclavos en Egipto (#devarim_16_11-12). La aplicación de las clases a compartir y no excluir tiene este fundamento textual. Convertir la fiesta en un juicio automático sobre la práctica concreta de otra persona, en cambio, excede el mandato citado.
+
+## El cierre del calendario: Sucot, alegría y memoria del éxodo
+
+Los versículos 33–36 vuelven a la fórmula «habló יהוה a Moshe» y sitúan Sucot en el día quince del séptimo mes. Hay siete días de ofrendas, una convocatoria santa al comienzo y otra en el octavo día. El texto no mezcla sin distinción cada acto: en los versículos 37–38 enumera ofrendas diarias y distingue las convocaciones de los Shabatot, las dádivas, los votos y las ofrendas voluntarias. La estructura confirma la observación de las clases: el calendario necesita ser leído en su orden, porque cada tiempo tiene su señal y su acción.
+
+En los versículos 39–43, la cosecha reunida conduce a siete días de celebración, ramas tomadas el primer día, alegría delante de יהוה y permanencia en cabañas. **(סכה)**, _sukkah_, es una cabaña o refugio temporal; «tabernáculo» puede ser una traducción **pedagógica** cuando busca conectar con otros temas, pero no es una equivalencia exacta en este versículo. La razón explícita es que las generaciones sepan que יהוה hizo habitar así a los hijos de Israel al sacarlos de Egipto. Por eso la alegría no es evasión de la historia: se apoya en memoria, cuerpo, morada y liberación. El versículo 44 cierra devolviendo las palabras de los tiempos señalados al pueblo, desde la revelación hasta la transmisión comunitaria.
 
 ## Conexiones mesiánicas propuestas
 
@@ -143,8 +148,5 @@ Vaikra 23 ordena una respuesta concreta a la provisión de יהוה: presentar p
 
 - Nota de frontera: clases de Fiestas/Shavuot de otras lanes no se reasignan aquí; la nota se limita a las fuentes exclusivas de la lane tanaj sobre Behaalotja/Shavuot.
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 1](https://www.youtube.com/watch?v=f0PQY7bXbJQ) (`source_id`: `youtube:f0PQY7bXbJQ`).
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 2](https://www.youtube.com/watch?v=OG2PPYieRhk) (`source_id`: `youtube:OG2PPYieRhk`).
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 3](https://www.youtube.com/watch?v=EHZDK_XPB1A) (`source_id`: `youtube:EHZDK_XPB1A`).
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 4](https://www.youtube.com/watch?v=eJlTuHME674) (`source_id`: `youtube:eJlTuHME674`).
+- Las cuatro clases públicas de Beha'alotjá–Shavu’ot y sus URL/`source_id` están acreditadas de forma única en [[bamidbar_8_parashot_2017|Bamidbar 8]]; no se duplican aquí para mantener un solo registro canónico por fuente.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 893,
-  "pending_videos": 65,
-  "transcript_notes": 450,
+  "covered_videos": 898,
+  "pending_videos": 60,
+  "transcript_notes": 454,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -78,12 +78,12 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 12,
+      "covered": 11,
       "lane": "efesios"
     },
     "Haftarot de Bre’shit/Génesis restantes sin asignar (grupo coherente)": {
       "total": 11,
-      "covered": 11,
+      "covered": 10,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
@@ -113,7 +113,7 @@
     },
     "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
       "total": 35,
-      "covered": 10,
+      "covered": 12,
       "lane": "haftarot"
     },
     "Hebreas de antes": {
@@ -173,7 +173,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 47,
+      "covered": 44,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)": {
@@ -183,7 +183,7 @@
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
       "total": 5,
-      "covered": 3,
+      "covered": 5,
       "lane": "tanaj"
     },
     "Parashot 2016-2017: Dvarim pendiente no asignado": {
@@ -193,7 +193,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 51,
+      "covered": 58,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {

@@ -14,10 +14,12 @@ references:
   - "#shemot_25_40"
 sources:
   - "https://www.youtube.com/watch?v=cls5RxEzxtQ"
+  - "https://www.youtube.com/watch?v=4BXW1nJCLCc"
   - "docs/scriptures/oe/json/exodus/25.json"
   - "docs/scriptures/tth/json/shemot.json"
 source_ids:
   - "youtube:cls5RxEzxtQ"
+  - "youtube:4BXW1nJCLCc"
 translation: "[OE, TTH]"
 ---
 
@@ -31,13 +33,17 @@ Esta nota estudia Shemot 25:1-40 en el orden del capítulo, con atención especi
 
 ## Hoja de comparación
 
-| Referencia    | Hebreo local (OE, sin nikud)                                                | TTH                                                                                                        | Función en la lectura                                  |
-| ------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| #shemot_25_1  | **וידבר יהוה אל משה לאמר**                                                  | «Y habló יהוה a Moshéh, diciendo»                                                                          | La iniciativa procede de יהוה.                         |
-| #shemot_25_2  | **דבר אל בני ישראל ויקחו לי תרומה מאת כל איש אשר ידבנו לבו תקחו את תרומתי** | «Tomen para Mí una terumáh, de todo hombre que dé voluntariamente con su corazón»                          | La entrega es convocada y voluntaria.                  |
-| #shemot_25_8  | **ועשו לי מקדש ושכנתי בתוכם**                                               | «Y harán para Mí un Santuario, y habitaré en medio de ellos»                                               | El propósito del diseño es la morada de יהוה.          |
-| #shemot_25_9  | **ככל אשר אני מראה אותך את תבנית המשכן ואת תבנית כל כליו וכן תעשו**         | «Conforme a todo lo que Yo te muestro, a la estructura del Mishkán y de todos sus utensilios, y así harán» | La obediencia incluye el modelo, no solo la intención. |
-| #shemot_25_22 | **ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים**                      | «Me reuniré para ti allí, y hablaré contigo de sobre la cubierta»                                          | El lugar se define por encuentro y palabra.            |
+| Referencia    | Hebreo local (OE, sin nikud)                                                | TTH                                                                                                        | Función en la lectura                                                      |
+| ------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| #shemot_25_1  | **וידבר יהוה אל משה לאמר**                                                  | «Y habló יהוה a Moshéh, diciendo»                                                                          | La iniciativa procede de יהוה.                                             |
+| #shemot_25_2  | **דבר אל בני ישראל ויקחו לי תרומה מאת כל איש אשר ידבנו לבו תקחו את תרומתי** | «Tomen para Mí una terumáh, de todo hombre que dé voluntariamente con su corazón»                          | La entrega es convocada y voluntaria.                                      |
+| #shemot_25_8  | **ועשו לי מקדש ושכנתי בתוכם**                                               | «Y harán para Mí un Santuario, y habitaré en medio de ellos»                                               | El propósito del diseño es la morada de יהוה.                              |
+| #shemot_25_9  | **ככל אשר אני מראה אותך את תבנית המשכן ואת תבנית כל כליו וכן תעשו**         | «Conforme a todo lo que Yo te muestro, a la estructura del Mishkán y de todos sus utensilios, y así harán» | La obediencia incluye el modelo, no solo la intención.                     |
+| #shemot_25_16 | **ונתת אל הארן את העדת אשר אתן אליך**                                       | «Y pondrás en el arca el Testimonio que daré a ti»                                                         | El arca recibe su función por el testimonio, no por el material solamente. |
+| #shemot_25_22 | **ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים**                      | «Me reuniré para ti allí, y hablaré contigo de sobre la cubierta que está entre los dos querubines»        | La cubierta es el lugar prometido de reunión y palabra.                    |
+| #shemot_25_30 | **ונתת על השלחן לחם פנים לפני תמיד**                                        | «Y pondrás sobre la mesa el Pan del Rostro delante de Mí constantemente»                                   | La mesa queda orientada a una presencia continua delante de יהוה.          |
+| #shemot_25_31 | **ועשית מנרת זהב טהור מקשה תיעשה המנורה**                                   | «Y harás una Menoráh de oro puro. De trabajo a martillo será la Menoráh»                                   | La luz forma parte del diseño ordenado del santuario.                      |
+| #shemot_25_40 | **וראה ועשה בתבניתם אשר אתה מראה בהר**                                      | «Y mira que los hagas con su diseño que a ti te ha sido mostrado en el monte»                              | El cierre vuelve a someter la ejecución al modelo mostrado.                |
 
 ## De lo recibido a la terumah: Shemot 25:1-9
 
@@ -63,6 +69,18 @@ La **מנרת** (_menorah_; forma normal: _menorah_) se hace de oro puro, trabaj
 
 El cierre vuelve al principio de obediencia: «וראה ועשה בתבניתם אשר אתה מראה בהר», «mira que los hagas conforme a su diseño que te ha sido mostrado en el monte». **(תבנית)** (_tavnit_) significa modelo, patrón o representación. La correspondencia con “diseño” es aproximada pero adecuada al contexto. La presencia es gracia de יהוה, y la respuesta humana es voluntaria en la entrega; sin embargo, la ejecución no queda a merced de una creatividad religiosa privada. La clase insiste en el orden: después de organizar al pueblo, la habitación se construye conforme a instrucciones. El capítulo apoya que el orden sirve al propósito de la morada, aunque la afirmación general “sin orden no hay habitación” es una aplicación de Eric y no una fórmula literal de Shemot 25.
 
+### La forma material también comunica obediencia
+
+Las medidas del arca, la mesa y la menorah no son decoración añadida a una idea espiritual. El arca recibe anillos y varas para ser transportada sin que se toque arbitrariamente su contenido (25:12-15); la mesa recibe un borde y anillos para el mismo servicio (25:26-28). **(טבעת)** (_tabbaat_) significa anillo; su fuerza contextual es un soporte funcional fijado al utensilio, no un símbolo secreto aislado. **(בדים)** (_badim_) significa varas o barras; “palos” sería una equivalencia pedagógica demasiado pobre para la función de cargar el arca.
+
+El vocabulario de medida también limita la improvisación: **(אמה)** (_ammah_) es una medida de longitud, normalmente “codo”; “medida humana” es una explicación aproximada, no el sentido léxico completo. La repetición de “harás” y de las dimensiones hace visible que la entrega voluntaria de 25:2 no autoriza a cada artesano a redefinir el encuentro. La observación de Eric sobre orden y presencia queda así reforzada por la materialidad del texto: la presencia prometida en 25:22 está vinculada a un objeto, un lugar y una forma que יהוה muestra.
+
+## La cortina y una conexión con el árbol: lectura teológica de la segunda clase
+
+La segunda clase de Eric enlaza la separación del santuario con Bereshit 3 y con Romanos 7. Su observación central es que el engaño consiste en confundir el árbol cuyo fruto trae muerte con el árbol de la vida; desde allí propone leer la obra del Mesías como destrucción del pecado y recuperación del acercamiento a יהוה. La conexión puede funcionar como lectura canónica posterior, pero no debe presentarse como si Shemot 25:31-40 afirmara directamente todo ese desarrollo. En el capítulo que tenemos delante, la **פרכת** (_paroket_) todavía es una cortina que separa espacios; “velo” es una equivalencia **aproximada**, útil si se explica su función espacial, no una prueba autónoma sobre Bereshit 3.
+
+La clase también advierte contra poner en boca de יהוה una orden que el texto no pronunció. Ese principio sí armoniza con 25:9 y 25:40: el santuario se ejecuta conforme al modelo mostrado, no conforme a una asociación libre. Por eso la lectura del árbol debe mantenerse como una inferencia teológica calificada. El texto de Shemot aporta el lenguaje de acceso regulado, testimonio y presencia; Bereshit y los escritos apostólicos deben aportar sus propios argumentos.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal                        | Fuerza contextual                          | Equivalencia                                                             |
@@ -75,12 +93,12 @@ El cierre vuelve al principio de obediencia: «וראה ועשה בתבניתם 
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad   | Observación concreta de la clase                                                                                                       | Tratamiento en esta nota                                                                                                    |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 25:1-7   | Eric presenta la _terumah_ como una porción de lo recibido que se eleva a un uso santo y recalca que nace del corazón.                 | Apoyo textual y aclaración léxica: es una contribución voluntaria; “exaltación” se marca como pedagogía.                    |
-| 25:8-9   | La clase enseña que, una vez ordenado el pueblo, יהוה prepara su lugar para habitar en medio de ellos y que el diseño debe respetarse. | Apoyo textual: se citan _miqdash_, _shakan_ y _tavnit_; se califica la aplicación general sobre el orden.                   |
-| 25:10-22 | Eric distingue el arca, la cubierta y los querubines, y relaciona la cubierta con reconciliación y encuentro.                          | Apoyo textual y calificación: el capítulo afirma encuentro y palabra; los desarrollos rituales se dejan para otros pasajes. |
-| 25:23-40 | La clase identifica mesa y menorah como elementos del santuario y advierte que sus detalles no deben explicarse sin suficiente base.   | Apoyo textual: se sigue la secuencia y se evita asignar significados no dichos a cada detalle.                              |
+| Unidad   | Observación concreta de la clase                                                                                                                                        | Tratamiento en esta nota                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 25:1-7   | Eric presenta la _terumah_ como una porción de lo recibido que se eleva a un uso santo y recalca que nace del corazón.                                                  | Apoyo textual y aclaración léxica: es una contribución voluntaria; “exaltación” se marca como pedagogía.                       |
+| 25:8-9   | La clase enseña que, una vez ordenado el pueblo, יהוה prepara su lugar para habitar en medio de ellos y que el diseño debe respetarse.                                  | Apoyo textual: se citan _miqdash_, _shakan_ y _tavnit_; se califica la aplicación general sobre el orden.                      |
+| 25:10-22 | Eric distingue el arca, la cubierta y los querubines, y relaciona la cubierta con reconciliación y encuentro.                                                           | Apoyo textual y calificación: el capítulo afirma encuentro y palabra; los desarrollos rituales se dejan para otros pasajes.    |
+| 25:23-40 | La clase identifica mesa y menorah como elementos del santuario, relaciona la cortina con el acceso y conecta teológicamente el árbol de la vida con la reconciliación. | Apoyo textual para mesa, menorah y separación; la conexión con Bereshit 3 y Romanos 7 queda calificada como lectura posterior. |
 
 ## La presencia prometida sigue siendo presencia regulada
 
@@ -112,4 +130,5 @@ Shemot 25 ordena la respuesta del pueblo alrededor de una iniciativa de יהוה
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Trumah Ex 25:1-27:19 — The Parochet and the Tree of Life Part 1](https://www.youtube.com/watch?v=cls5RxEzxtQ) (`source_id`: `youtube:cls5RxEzxtQ`).
+- Video: [Parashat Trumah Ex 25:1-27:19 — The Parochet and the Tree of Life Part 2](https://www.youtube.com/watch?v=4BXW1nJCLCc) (`source_id`: `youtube:4BXW1nJCLCc`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

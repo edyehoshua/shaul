@@ -20,6 +20,7 @@ references:
   - "#bamidbar_36_5-9"
 sources:
   - "https://www.youtube.com/watch?v=35whlBfDPkA"
+  - "https://www.youtube.com/watch?v=j2lf7LdAJn0"
   - "docs/scriptures/oe/json/numbers/30.json"
   - "docs/scriptures/oe/json/numbers/31.json"
   - "docs/scriptures/oe/json/numbers/32.json"
@@ -30,6 +31,7 @@ sources:
   - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
   - "youtube:35whlBfDPkA"
+  - "youtube:j2lf7LdAJn0"
 translation: "[OE, TTH]"
 ---
 
@@ -39,7 +41,7 @@ Bamidbar 30–36 cierra el relato del desierto mostrando que entrar en la tierra
 
 ## Alcance de la nota
 
-Esta nota es la canónica para Bamidbar 30–36 y usa la clase pública «Parashat Matot-Mas'ey Nm 30:2-36:13 La sujeción de la mujer y el gobierno del hombre». Se sigue el orden de los capítulos. La transcripción automática identifica observaciones de la exposición, pero no se presenta como cita literal. Cuando la clase formula una aplicación doctrinal o social, se la atribuye y se la contrasta con el texto local OE.
+Esta nota es la canónica para Bamidbar 30–36 y usa las clases públicas «Parashat Matot-Mas'ey Nm 30:2-36:13 La sujeción de la mujer y el gobierno del hombre» y «Parashat Matot-Mas'ey (2017) Las decisiones son concertadas en pro de la unidad». Se sigue el orden de los capítulos. La transcripción automática identifica observaciones de la exposición, pero no se presenta como cita literal. Cuando la clase formula una aplicación doctrinal o social, se la atribuye y se la contrasta con el texto local OE.
 
 ## Hoja de comparación
 
@@ -80,6 +82,12 @@ La repetición de **(נחלה)**, _najaláh_, «heredad o posesión recibida», 
 
 Finalmente, Bamidbar 36 retoma la herencia de las hijas de Tzelofjad. La disposición de que la herencia permanezca dentro de la tribu no debe presentarse como una solución universal a toda cuestión de propiedad; su función explícita es preservar el reparto dado por יהוה. La sección termina donde comenzó: una palabra obedecida sostiene la vida común.
 
+## De la frontera a la ciudad de refugio: responsabilidad que protege
+
+La asignación de la tierra (34:16-29) nombra a los responsables del reparto antes de que el capítulo 35 describa las ciudades levíticas. La forma **נתן**, _natan_, significa dar, poner o entregar; en «la tierra que yo doy» la equivalencia «conceder» es aproximada, porque la entrega divina no elimina la obligación humana de medir límites y administrar justicia. Después, **והקריתם**, _vehiqritem_, de קרה, significa hacer que ocurra o disponer; el contexto lo usa para «proveeréis» ciudades de refugio. «Refugio» comunica el resultado, pero no reemplaza la decisión comunitaria que organiza el acceso.
+
+La ciudad no convierte automáticamente al homicida en inocente. El texto distingue entre el que mata «sin intención» y el vengador de la sangre, y reserva el proceso ante la comunidad. **גאל**, _goel_, es el redentor o pariente con derecho de reivindicación; aquí el «vengador de la sangre» traduce su función contextual, no una autorización para la violencia sin juicio. Eric acierta al presentar la unidad como responsabilidad concertada cuando se conserva esta secuencia: límites públicos, ciudades designadas y discernimiento comunitario impiden que la venganza privada gobierne la herencia.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal                       | Fuerza contextual                         | Equivalencia                       |
@@ -93,13 +101,14 @@ Finalmente, Bamidbar 36 retoma la herencia de las hijas de Tzelofjad. La disposi
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual          | Observación concreta de la clase                                                                             | Tratamiento                                                                                                                          |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #bamidbar_30_1-8        | _Matot_ se entiende como varas/báculos y el voto compromete la vida; la autoridad paterna puede invalidarlo. | Clarificación léxica y apoyo textual; la aplicación de «sujeción» queda cualificada por las condiciones del capítulo.                |
-| #bamidbar_30_9-16       | La autoridad del hombre protege el orden de la casa y la palabra no debe profanarse.                         | Inferencia cualificada: se conserva la regulación de votos, sin presentar la formulación social de la clase como traducción literal. |
-| #bamidbar_32_20-24      | La posesión de Rubén y Gad depende de luchar junto al pueblo y no abandonar a los hermanos.                  | Apoyo textual: la unidad comunitaria está explícita en la promesa de cruzar delante.                                                 |
-| #bamidbar_33_1-2; 35–36 | El cierre del libro debe leerse como memoria, orden territorial y continuidad de la herencia.                | Desarrollo canónico en orden textual; las conexiones más amplias quedan pendientes de verificación.                                  |
-| #bamidbar_34_1-15       | La tierra prometida debe reconocerse por sus límites y por servidores encargados de repartirla.              | Apoyo textual y clarificación léxica: _gevul_ y _najaláh_ describen un reparto concreto, no una metáfora ilimitada.                  |
+| Unidad textual          | Observación concreta de la clase                                                                             | Tratamiento                                                                                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_30_1-8        | _Matot_ se entiende como varas/báculos y el voto compromete la vida; la autoridad paterna puede invalidarlo. | Clarificación léxica y apoyo textual; la aplicación de «sujeción» queda cualificada por las condiciones del capítulo.                                                             |
+| #bamidbar_30_9-16       | La autoridad del hombre protege el orden de la casa y la palabra no debe profanarse.                         | Inferencia cualificada: se conserva la regulación de votos, sin presentar la formulación social de la clase como traducción literal.                                              |
+| #bamidbar_32_20-24      | La posesión de Rubén y Gad depende de luchar junto al pueblo y no abandonar a los hermanos.                  | Apoyo textual: la unidad comunitaria está explícita en la promesa de cruzar delante.                                                                                              |
+| #bamidbar_33_1-2; 35–36 | El cierre del libro debe leerse como memoria, orden territorial y continuidad de la herencia.                | Desarrollo canónico en orden textual; las conexiones más amplias quedan pendientes de verificación.                                                                               |
+| #bamidbar_34_1-15       | La tierra prometida debe reconocerse por sus límites y por servidores encargados de repartirla.              | Apoyo textual y clarificación léxica: _gevul_ y _najaláh_ describen un reparto concreto, no una metáfora ilimitada.                                                               |
+| #bamidbar_30–36         | Las decisiones deben concertarse para preservar la unidad.                                                   | La observación del segundo video recibe apoyo cualificado: el texto exige acuerdos verificables, promesas cumplidas y participación común, no uniformidad ni control sin límites. |
 
 ## Conexiones principales
 
@@ -159,4 +168,5 @@ La comparación con TTH ayuda a precisar el argumento de la clase sin convertir 
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Matot-Mas'ey Nm 30:2-36:13 La sujeción de la mujer y el gobierno del hombre](https://www.youtube.com/watch?v=35whlBfDPkA) (`source_id`: `youtube:35whlBfDPkA`).
+- Video: [Parashat Matot-Mas'ey (2017) Las decisiones son concertadas en pro de la unidad](https://www.youtube.com/watch?v=j2lf7LdAJn0) (`source_id`: `youtube:j2lf7LdAJn0`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

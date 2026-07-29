@@ -113,7 +113,7 @@ Los vv. 10-11 abren el horizonte que la clase apenas toca al cerrar el marco: ir
 
 ## Pendiente de verificar
 
-- [ ] Integrar, cuando se autoricen en esta lane, las partes 1, 3 y 4 de la misma serie (`youtube:p7Tu9dJAgN0`, `youtube:Aly9Mvp-Nts`, `youtube:WDnxTbBQP8I`) para completar Hoshea 12 y las aplicaciones de identidad.
+- [x] Integrar la parte 4 de la misma serie en [[oseas_12_memoria_lucha_y_misericordia|Oseas 12: memoria, lucha y misericordia]]. Las partes 1 y 3 siguen pendientes de tratamiento propio; sus fuentes quedan reservadas para el tratamiento canónico correspondiente.
 - [ ] Cotejar el listado tribal exacto que la clase enumera de memoria con la distribución territorial de Melajim y con el uso profético posterior de “Efraín”.
 - [ ] Verificar en fuentes judías el estatuto litúrgico de Hoshea 11:7–12:12 (o el corte sefardí/ashkenazí pertinente) como haftaráh de Vayishlaj frente a la lectura de Obadías en otras costumbres.
 - [ ] Revisar la cadena homilética “idolatría → inmoralidad → homicidio” como marco de los tres delitos capitales antes de presentarla como exégesis directa de Melajim 12.

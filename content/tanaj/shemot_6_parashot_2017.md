@@ -54,6 +54,16 @@ La cadena puede escucharse también en el texto hebreo sin nikud: **והוצאת
 
 El versículo 9 introduce una tensión decisiva: «no escucharon a Moshéh, por pequeño espíritu y por la dura esclavitud». **(שמע)**, _shama_, significa oír, escuchar y obedecer; aquí describe una recepción impedida por el sufrimiento, no una simple rebeldía intelectual. **(רוח)**, _ruaj_, significa espíritu, aliento o viento; en «pequeño espíritu» su fuerza contextual es ánimo abatido o capacidad interior reducida. **(עבודה)**, _avodah_, significa trabajo, servicio o servidumbre; «esclavitud» es adecuada en este contexto, pero no agota todos sus usos. La promesa de יהוה permanece verdadera aun cuando el pueblo no puede escucharla con facilidad.
 
+## La promesa entra en la historia de un pueblo que no puede escuchar
+
+Shemot 6:10-13 vuelve a mostrar el límite humano que ya apareció en 6:9. יהוה manda a Moshéh hablar con Faraón, pero Moshéh responde que los hijos de Israel no lo han escuchado; pregunta cómo lo escuchará Faraón, siendo él de labios incircuncisos. El OE conserva **הן בני ישראל לא שמעו אלי ואיך ישמעני פרעה** («he aquí, los hijos de Israel no me han escuchado, ¿y cómo me escuchará Faraón?»), y TTH mantiene la dificultad de ser «incircunciso de labios». Eric enfatiza la dureza y la escucha; el texto sostiene que la obediencia del enviado no depende de una elocuencia humana autosuficiente.
+
+**ערל**, _arel_, significa «incircunciso» o «no circuncidado». En **ערל שפתים**, _arel sefatayim_, su fuerza contextual es una limitación figurada del habla, no una descripción médica de los labios de Moshéh. «Tartamudo» sería una equivalencia pedagógica posible pero no exacta: el versículo no especifica una patología. **שמע**, _shama_, normalmente significa oír, escuchar u obedecer; su repetición conecta la recepción debilitada de Israel con la pregunta de Moshéh ante Faraón.
+
+En 6:14-27 la genealogía de Reuvén, Shimón y Leví devuelve la promesa a nombres concretos y prepara la misión de Aharón y Moshéh. El texto no abandona la historia familiar para convertirse en una fórmula abstracta de redención. **תולדות**, _toledot_, significa generaciones, descendencia o historia familiar; aquí introduce una línea genealógica que ubica a los enviados dentro de Israel. «Lista incidental» sería inexacta: su función narrativa es identificar a quienes hablarán con Faraón.
+
+El capítulo retoma en 6:28-30 la orden de hablar y la objeción de Moshéh: **אני ערל שפתים** («yo soy incircunciso de labios»). La repetición confirma que la promesa de יהוה avanza a través de un mensajero consciente de su insuficiencia. La observación de Eric sobre «Qasheh, Jazaq y Kaved» puede leerse como un mapa de dureza, fuerza y peso en la exposición, pero el capítulo exige distinguir los términos y no convertirlos en una clave que sustituya la secuencia: יהוה promete, Israel escucha con dificultad, Moshéh objeta y aun así recibe la misión.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual | Observación visible de la fuente pública                                    | Evaluación desde el capítulo                                                   |
@@ -71,6 +81,16 @@ El versículo 9 introduce una tensión decisiva: «no escucharon a Moshéh, por 
 | **(גאל)** | _gaal_          | redimir, recuperar        | Liberación con lenguaje de pertenencia                | «Comprar de nuevo» es pedagógica |
 | **(שמע)** | _shama_         | oír, escuchar, obedecer   | Recepción impedida por la aflicción                   | «Prestar atención» es aproximada |
 | **(רוח)** | _ruaj_          | espíritu, aliento, viento | Ánimo interior debilitado                             | «Emoción» es inexacta            |
+
+## La cadena de la promesa y la resistencia del receptor
+
+La secuencia «sacar–rescatar–redimir–tomar–introducir» debe leerse como una respuesta a la opresión descrita antes del capítulo, no como una fórmula desligada del sufrimiento. En 6:6, **(סבל)**, _saval_, significa carga o trabajo pesado; la expresión «de debajo de las cargas de Mitzráim» presenta una opresión que pesa sobre el cuerpo y el servicio. **(עבד)**, _avad_, significa trabajar o servir; en «de su trabajo» su fuerza contextual es servidumbre forzada. La enseñanza de Eric sobre redención «de ayer y de hoy» puede conservar el movimiento de la promesa, pero «liberación interior» sería solo una aplicación pedagógica: el texto comienza con cargas históricas y con la acción de יהוה sobre un pueblo real.
+
+El verbo **(גאל)**, _gaal_, merece una precisión adicional. Su sentido normal es redimir, recuperar o actuar como pariente-redentor; en 6:6 aparece con «brazo extendido» y «juicios grandes», por lo que el contexto destaca una intervención pública de יהוה contra Mitzráim. La equivalencia «pagar un precio» es aproximada y no está exigida por este versículo. El TTH conserva «los redimiré», mientras que la cadena completa impide reducir la redención a una sola imagen: יהוה saca, libra, redime, toma como pueblo y conduce hacia la tierra jurada.
+
+Pero la promesa no produce automáticamente una recepción tranquila. **(קצר רוח)**, _qotsar ruaj_, es literalmente «cortedad de espíritu»; **(קצר)**, _qatsar_, significa ser corto, y **(רוח)**, _ruaj_, puede ser aliento, espíritu o disposición. «Desánimo» es una equivalencia aproximada que comunica el efecto, no una traducción exhaustiva. En 6:9 el trabajo duro estrecha la capacidad de escuchar; por eso no es fiel usar la demora del pueblo como prueba automática de incredulidad culpable. La clase acierta al observar la dureza, siempre que la aplicación pastoral conserve la compasión narrativa.
+
+En 6:10–13 la misma palabra vuelve a encontrar un mensajero resistente. **(דבר)**, _dabar_, significa hablar, declarar o comunicar; **(ערל שפתים)**, _arel sefatayim_, significa «incircunciso de labios», una imagen de impedimento expresivo. «Tartamudo» puede ser una paráfrasis pedagógica, pero no es una equivalencia exacta porque el texto no diagnostica una condición médica. La misión permanece porque la eficacia está en la palabra de יהוה, no en una elocuencia ideal de Moshéh. Así la observación de Eric sobre fuerza y dureza no debe borrar que el capítulo conserva la fragilidad tanto del pueblo como del enviado.
 
 ## Pendiente de verificar
 

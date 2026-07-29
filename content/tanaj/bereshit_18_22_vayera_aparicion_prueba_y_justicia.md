@@ -47,6 +47,14 @@ Abraham permanece delante de יהוה y pregunta si el Juez de toda la tierra no
 
 En 19:19 Lot habla de **(חסד)**, _jesed_, «misericordia, bondad leal o acto fiel». TTH traduce «has engrandecido tu misericordia». «Gracia» puede ser una equivalencia pedagógica, pero no agota la idea de lealtad activa. El rescate de Lot muestra misericordia en medio de juicio, sin convertir la salida de la ciudad en aprobación de su corrupción.
 
+## Juicio, rescate y nacimiento de la promesa: Génesis 19:1–21:34
+
+Los capítulos intermedios impiden que la intercesión de Abraham se convierta en una teoría abstracta. En 19:16 el narrador dice que los mensajeros tomaron a Lot, a su mujer y a sus hijas «por la mano», porque יהוה tuvo misericordia de él. El verbo **(חמל)**, _jamal_, significa compadecerse, perdonar o apiadarse; su fuerza aquí es una acción que saca al vulnerable, no una aprobación de Sedom. En 19:17 ordenan **(המלט)**, _himalet_, «escapa» o «pon a salvo tu vida». «Huir de todo conflicto» sería una equivalencia pedagógica ilegítima: el contexto es escapar de un juicio anunciado.
+
+En 20:6 Elohim explica a Avimelej: «Yo también te detuve de pecar contra mí». **(חטא)**, _jata_, significa errar o pecar; la forma contextualiza el acto como transgresión contra Elohim, mientras el relato también reconoce que Avimelej no había tocado a Sarah. La observación pública de Eric sobre Vayerá queda mejor evaluada así: la misericordia no elimina la responsabilidad, y la protección de la promesa opera mediante advertencia y corrección, no mediante favoritismo sin discernimiento.
+
+El nacimiento de Isaac vuelve a la palabra inicial. En 21:1 OE y TTH afirman que יהוה «visitó» a Sarah; **(פקד)**, _paqad_, puede significar visitar, atender o intervenir, y aquí expresa la intervención eficaz de יהוה conforme a su palabra. En 21:6 Sarah dice que Elohim le ha dado risa: **(צחק)**, _tsajaq_, «reír»; el mismo campo verbal que antes expresaba incredulidad ahora nombra gozo compartido. La equivalencia «risa de burla» sería demasiado estrecha. Luego Avraham planta un tamarisco e invoca el nombre de יהוה en Beer Sheva (21:33): la promesa se encarna en memoria y culto dentro de una historia todavía marcada por conflictos familiares.
+
 ## La prueba y el ver de יהוה: Génesis 22:1–19
 
 El capítulo finaliza con **(נסה)**, _nasá_, «probar, poner a prueba» (22:1). «Tentar» es una equivalencia aproximada que puede inducir a pensar en seducción al mal; aquí la narración presenta una prueba de obediencia y confianza. Abraham responde **(הנני)**, _hineni_, «heme aquí», fórmula de disponibilidad, no una confesión abstracta.
@@ -118,6 +126,16 @@ El cierre de 22:18 dice que las naciones serán bendecidas «porque escuchaste m
 ## Conclusión
 
 En Vayerá, ver y ser visto desemboca en caminar delante de יהוה. Abraham ve visitantes, discierne la justicia, ruega por una ciudad y escucha en la montaña. La promesa permanece firme, pero nunca queda separada de una casa que practica justicia ni de una obediencia que escucha.
+
+## Cierre textual: una misma promesa bajo tres pruebas
+
+El recorrido final permite evaluar con más precisión la observación de Eric sobre una aparición que exige respuesta. En 18:19 el TTH dice que Abraham fue conocido para ordenar a su casa «guardar el camino de יהוה, para hacer justicia y juicio»; en 22:18 vuelve a decir que las naciones serán benditas «porque escuchaste mi voz». **(שמע)**, _shama_, significa oír, escuchar y obedecer; su fuerza en estos dos extremos no es recepción pasiva, sino una respuesta que organiza la casa y atraviesa la prueba. «Entender» es una equivalencia pedagógica demasiado débil.
+
+Entre ambos extremos, la intercesión muestra que la justicia no es una abstracción. El OE pregunta: **השפט כל הארץ לא יעשה משפט**, «¿el Juez de toda la tierra no hará juicio?» (#bereshit_18_25). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; aquí sostiene el argumento de Abraham ante יהוה, no una pretensión de superioridad del patriarca. El TTH conserva «hacer juicio», mientras «hacer justicia» es una equivalencia contextual válida pero no borra el sustantivo **(משפט)**, _mishpat_. La lectura de Eric sobre justicia y misericordia queda apoyada cuando mantiene juntas la pregunta por el carácter del Juez y la realidad del juicio.
+
+En Moriah, la frase de Abraham «Elohim verá para sí el cordero» (#bereshit_22_8) recibe su respuesta narrativa cuando el carnero queda atrapado y la mano se detiene. **(אחז)**, _ajaz_, significa agarrar, asir o quedar prendido; su fuerza contextual en 22:13 describe el modo concreto en que aparece el sustituto, no una metáfora abstracta de que todo deseo será provisto. «Provisión automática» sería inexacta. La secuencia confirma la lectura prudente de Eric: la fe no niega la orden difícil ni fabrica un desenlace; espera que la visión de יהוה se manifieste dentro del texto.
+
+Por eso la aparición de 18:1 no puede reducirse a una experiencia extraordinaria. El verbo **(וירא)**, _vayerá_, «apareció» o «se dejó ver», abre una cadena de hospitalidad, enseñanza de justicia, intercesión, rescate y obediencia. «Visión espiritual» puede servir como resumen pedagógico, pero es más amplio que la forma verbal. La nota conserva la intuición pública de Eric y la somete al orden de la perícopa: יהוה se hace visible, Abraham escucha, actúa y vuelve a recibir la promesa bajo responsabilidad.
 
 ## Créditos
 

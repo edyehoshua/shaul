@@ -21,10 +21,12 @@ references:
   - "#tehilim_89_31-35"
   - "#timoteos_bet_2_13"
 sources:
+  - "https://www.youtube.com/watch?v=sfA7OZ8LtFk"
   - "https://www.youtube.com/watch?v=IzbgqzNwD4k"
   - "docs/scriptures/oe/json/leviticus/26.json"
   - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
+  - "youtube:sfA7OZ8LtFk"
   - "youtube:IzbgqzNwD4k"
 translation: "[OE, TTH]"
 ---
@@ -76,6 +78,26 @@ Finalmente: «recordaré para ellos **(ברית ראשנים)**, _berit rishonim
 
 El cierre del capítulo presenta estos estatutos, juicios y torot que יהוה dio en el Sinaí por mano de Moshé (#vaikra_26_46). La consolación no dispensa de la Torá: la enmarca.
 
+## «Míos son los hijos de Yisra'el»: pertenencia después de la disciplina
+
+La fuente adicional de Eric lleva como título «Míos son los hijos de Yisra'el, son mis siervos» y enlaza Behar con Bejuqotay. Esa formulación no debe atribuirse como cita literal de la clase, pero identifica una observación concreta que el cierre de Vaikra 26 permite examinar: después de hablar de confesión, exilio y pacto, יהוה no describe a Israel como posesión descartable. En #vaikra_26_44-45 dice que no los desechará para anular su pacto y que recordará el pacto de los primeros cuando los sacó de Mitsraim.
+
+El paralelo inmediato con #vaikra_25_42, 55 es especialmente relevante: **כי עבדי הם**, _ki avadai hem_, «porque mis siervos son», y **עבדי הם**, _avaday hem_, «mis siervos son». **עבד**, _eved_, normalmente significa siervo o esclavo; su forma plural con sufijo en **עבדי** marca pertenencia a יהוה. En Vaikra 25 la fuerza contextual limita el dominio de un israelita sobre otro: el pueblo pertenece al libertador que lo sacó de Egipto. En Vaikra 26 la misma pertenencia no cancela la disciplina por desobediencia, pero sí explica por qué la disciplina no culmina en el abandono del pacto. «Dueños absolutos de sí mismos» sería una equivalencia contraria al pasaje; «siervos» tampoco autoriza a un gobernante humano a apropiarse del pueblo.
+
+La conexión entre ambas parashot es, por tanto, **exacta** en el hilo de pertenencia y pacto, pero solo **aproximada** si se convierte en una fórmula general sobre toda experiencia espiritual. Behar ordena economía, tierra y servicio en el ámbito concreto de Israel; Bejuqotay interpreta obediencia, castigo, confesión y memoria. La observación de Eric conserva un núcleo textual fuerte cuando afirma que los hijos siguen siendo de יהוה aun bajo corrección. El capítulo añade el límite necesario: pertenecerle no vuelve irrelevantes los juqot, las mitzvot ni la responsabilidad histórica.
+
+## La tierra no es propiedad absoluta: Behar como umbral de Bejuqotay
+
+La clase sobre Behar y Bejuqotay presenta el capítulo 25 como un paréntesis que corona el movimiento de Vaikra: la santidad sale del santuario y alcanza la tierra, la casa y las relaciones económicas. Su tesis pública es concreta: «la tierra es de Dios» y los hijos de Israel son siervos suyos. Vaikra 25:23 dice: «La tierra no se venderá a perpetuidad, porque Mía es la tierra; pues extranjeros y residentes son ustedes conmigo». La observación de Eric conserva aquí un núcleo textual fuerte, pero debe mantenerse en su escena: no es una autorización para resolver toda cuestión política contemporánea con una sola frase.
+
+En 25:2, **(ושבתה הארץ)**, _veshavtah haarets_, combina la tierra con el cese sabático: «la tierra guardará un shabat para יהוה». **(שבת)**, _shavat_, significa cesar, detenerse o dejar de trabajar; «descansar» es una equivalencia tradicional y **aproximada**, porque el énfasis inmediato está en la interrupción de la siembra y la poda. Eric insiste en que _shabat_ no debe convertirse en mera relajación; esa observación es pedagógicamente útil y el texto la respalda mediante acciones agrícolas concretas. La clase también rechaza usar cada año de shemitá para fabricar miedo o predicciones: esa cautela coincide con leer primero el mandato de la tierra y no convertirlo en un calendario de presagios.
+
+El límite sobre la propiedad se vuelve personal en 25:42 y 25:55: **(כי עבדי הם)**, _ki avadai hem_, «porque mis siervos son». **(עבד)**, _eved_, normalmente significa siervo o esclavo; aquí la forma plural con sufijo **עבדי**, _avaday_, expresa que el pueblo pertenece a יהוה, quien lo sacó de Mitsraim. «Siervos de Dios» es **exacto** como traducción funcional en este contexto, aunque no agota las consecuencias sociales del capítulo. La fuerza contextual es negativa y positiva a la vez: un israelita no debe ser vendido como esclavo permanente, y ningún comprador humano puede reclamar una propiedad absoluta sobre quienes pertenecen al libertador.
+
+La clase describe el sacerdocio levítico como una institución situada dentro del despliegue histórico de la Torá, no como una razón para abolir automáticamente todo lo demás. Esa formulación es una síntesis doctrinal de Eric, no una definición de **(חק)**, _joq_. El texto de Vaikra 25–26 sí permite una conexión más precisa: la ley de la tierra, la liberación, la obediencia y la presencia forman una secuencia en la que יהוה conserva la titularidad y exige responsabilidad. Por eso el comienzo de Vaikra 26 no autoriza separar _juqot_ de la vida material: andar en los estatutos incluye vivir bajo límites para tierra, deuda, servidumbre y memoria del éxodo.
+
+La relación entre Behar y Bejuqotay es, entonces, **exacta** en la continuidad de tierra, pacto y pertenencia; es **aproximada** cuando se transforma en una teoría general de economía o en una predicción sobre el futuro. La exposición de Eric acierta al oponer acumulación sin límite y obediencia al ritmo que יהוה fija, pero el capítulo exige añadir la protección del pobre, el rescate de la propiedad y el retorno de cada cual a su familia. La santidad no es únicamente una idea interior: adopta la forma de una tierra que cesa y de un pueblo que no puede ser poseído como si no tuviera dueño superior.
+
 ## Hoja léxica
 
 | Forma             | Transliteración  | Sentido normal y forma                            | Fuerza contextual                          | Tipo de relación                                   |
@@ -112,6 +134,16 @@ El límite decisivo se encuentra en 26:44: «aun con todo esto, estando ellos en
 
 Así se evalúa con mayor precisión la tesis de Eric sobre «la salvación no se pierde»: la observación recibe apoyo canónico y pastoral en la negativa de יהוה a anular el pacto, pero no es una equivalencia exacta de **ברית ראשנים**, _berit rishonim_. Esta expresión significa «pacto de los primeros» o «de los antiguos»; el contexto la explica por los patriarcas y por el éxodo, no por una oposición simplista entre un canon viejo y uno nuevo. La fidelidad de יהוה sostiene la esperanza precisamente porque el texto mantiene juntas confesión, disciplina, tierra, obediencia y memoria.
 
+## Control textual de la promesa y la disciplina
+
+La secuencia de Vaikra 26 impide separar la promesa de la respuesta requerida. El OE abre con **אם בחקתי תלכו ואת מצותי תשמרו ועשיתם אתם**, _im bejuqotai teleju ve'et mitzvotai tishmeru va'asitem otam_, «si andan en mis estatutos, guardan mis mandamientos y los hacen» (#vaikra_26_3). **תלכו**, _teleju_, es una forma de הלך, _halaj_, «andar o caminar»; su fuerza contextual es conducta continuada, no una afirmación puntual. **תשמרו**, _tishmeru_, es una forma de שמר, _shamar_, «guardar, vigilar u observar»; **ועשיתם**, _va'asitem_, procede de עשה, _asah_, «hacer o realizar». Eric distingue entre juqot y mitzvot para iluminar la fijeza de la promesa, pero el paralelismo verbal conserva una responsabilidad concreta: la promesa no convierte la obediencia en decoración.
+
+El resultado positivo también está delimitado. **ונתתי גשמיכם בעתם**, _venatati gishmeikhem be'itam_, «daré sus lluvias en su tiempo», usa **ונתתי**, _venatati_, forma de נתן, _natan_, «dar». La iniciativa permanece en יהוה; la obediencia no funciona como poder autónomo que controla la lluvia. **והתהלכתי בתוככם**, _vehithalakhti betokhekhem_, «andaré en medio de ustedes» (#vaikra_26_12), vuelve a usar la raíz הלך en una forma reflexiva. La repetición no nivela a Dios y al pueblo: Israel anda en los estatutos, mientras יהוה anda en medio de él. La observación de Eric sobre presencia pactal tiene apoyo fuerte; «garantía de prosperidad individual» sería una aplicación que el capítulo no autoriza.
+
+La misma precisión debe regir la parte severa. **ואם לא תשמעו לי**, _ve'im lo tishme'u li_, «y si no me escuchan», emplea שמע, _shama_, cuyo sentido normal es oír, escuchar o atender. En contexto no se refiere a recepción acústica solamente, pues se contrapone a rechazar los estatutos y quebrar el pacto. **ויספתי ליסרה**, _veyasafti leyasrah_, «añadiré para disciplinar», contiene יסר, _yasar_, «disciplinar, corregir o instruir». «Venganza» no es equivalencia exacta: el marco es una corrección de alianza, aunque sus efectos históricos sean terribles. Eric tiene razón al advertir contra leer solo miedo, pero la esperanza de 26:44 debe interpretar la disciplina, no borrarla.
+
+Por último, **לא מאסתים ולא געלתים**, _lo ma'astim velo ge'altim_, «no los desecharé ni los aborreceré», contiene dos negaciones argumentalmente acumulativas. **מאס**, _maas_, significa rechazar o despreciar; **געל**, _gaal_, significa repudiar o aborrecer. El contexto no afirma que la infidelidad sea irrelevante: acaba de nombrar confesión, iniquidad, tierra enemiga y desolación. Afirma algo más estrecho y más firme: יהוה no consume a Israel hasta anular su pacto. Así se preserva la observación de Eric sobre fidelidad sin convertir **ברית**, _berit_, en una fórmula abstracta que ignore tierra, mandamiento y memoria.
+
 ## Pendiente de verificar
 
 - [ ] Mapear con precisión todos los usos de **(חק)/(חקה)** en la Torá y los Profetas para sopesar cuándo denota estatuto ritual, orden cósmico o fijeza pactal.
@@ -132,5 +164,6 @@ Vaikra 26 enseña a andar en lo que יהוה fija y a hacer lo que manda, promet
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashát Behar + Bejuqotay (2017) Míos son los hijos de Yisra'el, son mis siervos](https://www.youtube.com/watch?v=sfA7OZ8LtFk) (`source_id`: `youtube:sfA7OZ8LtFk`).
 - Video: [Parashat Bejuqotay - If they have my juqot inside, they will keep my mitzvot](https://www.youtube.com/watch?v=IzbgqzNwD4k) (`source_id`: `youtube:IzbgqzNwD4k`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

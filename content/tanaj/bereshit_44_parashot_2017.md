@@ -19,8 +19,10 @@ references:
   - "#bereshit_49_22-26"
   - "#bereshit_50_15-21"
   - "#bereshit_50_24-26"
+  - "#bereshit_45_25-28"
   - "#iejezkel_37_15-28"
 sources:
+  - "https://www.youtube.com/watch?v=4hBwWXXSvQQ"
   - "https://www.youtube.com/watch?v=VPMoZun2Bww"
   - "https://www.youtube.com/watch?v=86l71sgugKc"
   - "docs/scriptures/oe/json/genesis/44.json"
@@ -32,6 +34,7 @@ sources:
   - "docs/scriptures/oe/json/genesis/50.json"
   - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
+  - "youtube:4hBwWXXSvQQ"
   - "youtube:VPMoZun2Bww"
   - "youtube:86l71sgugKc"
 translation: "[OE, TTH]"
@@ -44,6 +47,8 @@ Bereshit 44–50 presenta la preservación de la familia de Israel mediante una 
 ## Alcance de la nota
 
 La nota reúne dos clases consecutivas del hermano Eric de Jesús Rodríguez Mendoza: «Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah» y «Parashat Vaychi - Genesis 47:28 - 50:26 - Doing in accordance with the divine will». La transcripción automática sirve para localizar observaciones; no se presenta como cita literal. Se sigue el relato en orden desde el alegato de Yehudá hasta la muerte de Iosef y la esperanza de salida. Las relaciones que Eric propone con Iejezkel 37, 1 Reyes 2 e Isaías 63 se conservan como conexiones canónicas cualificadas, no como identidades históricas demostradas.
+
+Las tres fuentes cumplen funciones distintas dentro de esta nota. `youtube:4hBwWXXSvQQ` presenta Vayigash (44:18–47:27) bajo el énfasis de quienes «santifican la vida»; `youtube:VPMoZun2Bww` desarrolla el alegato de Yehudá y la obediencia a las palabras de la Torá; `youtube:86l71sgugKc` recorre Vaychi (47:28–50:26) bajo el llamado a actuar conforme a la voluntad divina. No se fusionan sus títulos en una sola afirmación: se contrastan con las perícopas locales, de modo que «santificar la vida» queda como formulación temática **pedagógica**, mientras que el sustento, el juramento, la bendición y la promesa de subida son afirmaciones del relato.
 
 ## Hoja de comparación
 
@@ -78,6 +83,14 @@ El orden de #bereshit_45_1-8 es decisivo. Iosef expulsa a los egipcios, llora, s
 
 Cuando Iosef dice que Elohim lo envió «para dejar vivir» (#bereshit_45_5-7), interpreta su historia desde la preservación. El texto mantiene simultáneamente dos niveles: los hermanos lo vendieron y Elohim lo envió delante de ellos. Por eso «la providencia hizo irrelevante la culpa» sería una inferencia que el pasaje no autoriza. **(מחיה)**, _mejiyáh_, es una forma relacionada con חיה, «vivir», y en este contexto expresa sustento o preservación de vida. «Resurrección» sería una aplicación **pedagógica** si se usa aquí; el sentido inmediato es mantener con vida durante el hambre.
 
+## La noticia que devuelve el ánimo: Bereshit 45:25-28
+
+Antes de que Israel descienda a Mitsraim, la narración muestra cómo recibe la noticia. En #bereshit_45_25-28 los hermanos vuelven de Mitsraim, cuentan «todas las palabras de Iosef» y Yaakov ve las carrozas que Iosef envió. El movimiento textual es palabra, evidencia y decisión: Yaakov no es persuadido por una emoción aislada, sino por el testimonio acompañado de señales visibles. Eric presenta este momento como una exhortación a dejar de alimentar la herida cuando la vida restaurada ya ha sido anunciada; esa aplicación es pastoral, pero respeta la secuencia si no se convierte en negación del daño anterior.
+
+**(ויגדו)**, _vayagidu_, es una forma de נגד, «declarar, contar o hacer saber»; aquí introduce el informe de los hermanos. «Predicar» sería una equivalencia **pedagógica**, no el sentido específico del verbo narrativo. **(ראה)**, _raah_, significa «ver, percibir»; cuando Yaakov ve las carrozas, la percepción confirma el relato, pero el verbo no significa por sí solo «creer sin examen». **(ותחי רוח יעקב)**, _vateji ruaj Yaakov_, combina חיה, «vivir», con **(רוח)**, _ruaj_, «viento, aliento o espíritu»; en contexto comunica que el ánimo de Yaakov revive. «Resurrección» sería inexacta: la escena describe recuperación de vigor antes del viaje, no retorno corporal de la muerte.
+
+La exclamación **(רב עוד יוסף בני חי)**, _rav od Yosef beni jai_, puede verterse «basta; todavía Iosef, mi hijo, vive». **(רב)**, _rav_, normalmente significa «mucho, bastante o suficiente»; su fuerza aquí es una exclamación de satisfacción ante la noticia, no una regla universal para cortar toda conversación difícil. **(חי)**, _jai_, significa «vivo»; el contexto le da fuerza concreta: Iosef no es solo un recuerdo, sino una persona que Yaakov podrá volver a ver. La observación de Eric sobre recibir la vida antes de seguir rumiando el agravio recibe apoyo como aplicación prudencial, mientras el texto conserva su referencia familiar inmediata.
+
 ## El descenso de Israel y la compañía de יהוה
 
 En #bereshit_46_1-4 Israel llega a Beersheva, ofrece sacrificios al Elohim de Itzjak y recibe la palabra «no tengas miedo de descender a Mitzráim». Eric observa que la familia no se mueve solamente por cálculo político: el viaje es presentado ante Elohim. La promesa «Yo descenderé contigo» da el centro teológico del pasaje. La permanencia en Mitsraim no debe confundirse todavía con la esclavitud posterior de Shemot; el relato se encuentra en la etapa de provisión y crecimiento familiar.
@@ -89,6 +102,10 @@ En #bereshit_46_1-4 Israel llega a Beersheva, ofrece sacrificios al Elohim de It
 #bereshit_47_13-16 muestra el hambre extendiéndose por Mitsraim y Kenaan. Iosef administra el grano y recibe dinero, ganado y tierras para Faraón. La clase de Eric destaca que el descenso de la familia tiene alcance histórico, pero el texto también obliga a mirar con seriedad la concentración de recursos. La preservación de Israel no convierte cada decisión económica de Iosef en mandato universal ni elimina la vulnerabilidad de quienes venden sus bienes para comer.
 
 **(רעב)**, _raav_, significa hambre; en #bereshit_47 funciona como crisis material que afecta territorios enteros. «Prueba espiritual» sería una analogía **pedagógica**, no el sentido léxico. **(מקניכם)**, _miqnejem_, significa «su ganado» y procede del campo de adquirir posesiones; aquí el ganado se vuelve medio de intercambio por alimento. La palabra no justifica ni condena por sí sola la política descrita: el juicio requiere leer la secuencia completa de 47:13-26.
+
+El párrafo final de este tramo evita que la preservación se reduzca a una transacción estatal. En 47:27 TTH afirma: «Israel habitó en la tierra de Mitsráim, en la tierra de Goshen, y adquirieron posesiones en ella, fueron fructíferos y se multiplicaron mucho». La forma **ויאחזו**, _vayajazu_, de אחז, «asir, tomar posesión o establecerse», comunica asentamiento efectivo; «conquistar» sería una equivalencia inexacta, porque el versículo describe una familia que prospera dentro de la tierra asignada a Goshen. **ויפרו**, _vayifru_, de פרה, «fructificar o ser fecundo», retoma el lenguaje de multiplicación de la promesa.
+
+Eric lee el crecimiento en Mitsraim junto con la voluntad de Elohim y la futura salida. La conexión es coherente con el arco de Bereshit, pero el orden importa: en este momento Israel no está siendo oprimido, sino preservado y multiplicado. El mismo lugar puede ser escenario de provisión en Bereshit y de opresión en Shemot; no debemos adelantar el segundo sentido para borrar la bondad concreta del primero ni usar la prosperidad del capítulo como aprobación indiscriminada del poder de Faraón.
 
 ## Hoja léxica
 
@@ -140,6 +157,8 @@ Eric presenta esta bendición como perseverancia bajo oposición y la relaciona 
 El cierre inmediato de la historia no termina en la muerte de Yaakov. En #bereshit_50_15-21 los hermanos temen que Iosef les devuelva el mal, pero él responde: «**התחת אלהים אני**» («¿estoy yo en lugar de Elohim?»). **(תחת)**, _tajat_, vuelve a aparecer con el sentido de «en lugar de»; aquí no designa sustitución física como en 44:33, sino que marca el límite de la autoridad de Iosef para ocupar el lugar del juez divino. «Perdonar» es una descripción **aproximada** de su respuesta, no una traducción de la preposición.
 
 Iosef reconoce con precisión la doble lectura de la historia: «**ואתם חשבתם עלי רעה אלהים חשבה לטבה**» («ustedes pensaron contra mí mal, Elohim lo pensó para bien»). **(רעה)**, _ra'ah_, significa mal o daño; **(טובה)**, _tovah_, bondad o beneficio. El contraste no rebautiza la venta como buena: conserva la intención dañina de los hermanos y afirma la finalidad providencial de preservar «un pueblo grande» (**עם רב**). La clase conecta esta escena con la reconciliación; el texto la apoya, pero también exige que el consuelo produzca sustento concreto: «**אנכי אכלכל אתכם**» («yo los sustentaré»). La reconciliación narrada no es olvido sentimental, sino renuncia a la venganza y cuidado responsable.
+
+Esta distinción también protege la lectura de #bereshit_47_13-26. La observación de la primera fuente sobre «santificar la vida» encuentra una base concreta en que el grano conserva a la población durante una hambruna; no autoriza, sin embargo, a llamar santo cada mecanismo de transferencia de dinero, ganado y tierra. **(ויאסף)**, _vayeasef_, forma de אסף, «recoger o reunir», describe que Iosef reúne el dinero en la casa de Faraón; su sentido contextual es administrativo, no una aprobación moral automática. «Salvar» aplicado a toda la política económica sería **pedagógico** y demasiado amplio; «reunir» es la equivalencia aproximada del verbo en este contexto. Así la nota conserva el argumento de Eric —la vida tiene prioridad sobre los bienes— y a la vez deja que el lector vea el costo social narrado.
 
 ## Esperar cuando Iosef muere
 
@@ -198,13 +217,21 @@ Por eso la reconciliación en 50:15–21 no consiste en reescribir la historia. 
 
 La fuente asignada sobre Vayigash desarrolla un detalle concreto de #bereshit_45_25-28: Yaakov escucha «todas las palabras de Iosef», ve las carrozas y dice **רב עוד יוסף בני חי** («basta; todavía Iosef, mi hijo, vive»). Eric lo presenta como una decisión de detener la rumiación sobre el daño pasado y atender el hecho presente de que su hijo vive. La exhortación pastoral es una aplicación, pero la secuencia textual sí pone primero la palabra recibida, luego la evidencia visible y finalmente la respuesta de Israel: no se trata de negar la pérdida, sino de permitir que una noticia verdadera reordene su ánimo.
 
-**רוח**, _ruaj_, normalmente significa viento, aliento o espíritu. En **ותחי רוח יעקב**, _vateji ruaj Yaakov_, el contexto de Yaakov favorece «su ánimo cobró vida» o «su espíritu revivió»; «alma inmortal» sería una equivalencia **inexacta**. **ויחי**, _vayeji_, es una forma de חיה, «vivir»; aquí expresa recuperación de ánimo, no resurrección corporal. **רב**, _rav_, significa «mucho, bastante o suficiente»; en **רב עוד**, su fuerza contextual es una exclamación de suficiencia gozosa, no una orden universal de cortar toda conversación difícil.
+**רוח**, _ruaj_, normalmente significa viento, aliento o espíritu. En **ותחי רוח יעקב**, _vateji ruaj Yaakov_, el contexto de Yaakov favorece «su ánimo cobró vida» o «su espíritu revivió»; «alma inmortal» sería una equivalencia **inexacta**. **ויחי**, _vayeji_, es una forma de חיה, «vivir»; aquí expresa recuperación de ánimo, no resurrección corporal. **רב**, _rav_, significa «mucho, bastante o suficiente»; en **רב עוד**, su fuerza contextual es una exclamación de suficiencia gozosa, no una orden universal de cortar toda conversación difícil. La afirmación de Eric sobre «basta» recibe apoyo como aplicación prudencial, mientras que el versículo conserva su referencia inmediata: Yaakov decide ir a ver a Iosef antes de morir.
+
+La observación de la clase sobre que la vida vale más que la acumulación encuentra un marco sobrio en #bereshit_47_13-26. El hambre lleva a las personas a entregar dinero, ganado y tierra por pan; el relato no romantiza la prosperidad ni presenta cada política de Iosef como norma. **החיתנו**, _hajiytenu_, procede de חיה en una forma causativa: «nos has dado vida» o «nos has mantenido vivos». «Nos redimiste» sería **pedagógica**, no exacta. Así, el hilo de la clase —la vida recibida debe prevalecer sobre bienes y preocupaciones futuras— puede conservarse sin convertir la crisis económica en una alegoría simple.
+
+La fuente también conecta el silencio de los hermanos en 45:3 con la confesión futura de toda boca ante el Mesías. El paralelo canónico puede registrarse como **tipológico o pedagógico**: el texto inmediato dice que ellos no podían responder porque estaban turbados, no que el narrador esté ofreciendo ya una exposición completa de la escatología. **נבהלו**, _nivhalu_, procede de בהל, «alarmarse, turbarse o quedar consternado»; «se sorprendieron» es **aproximada**, porque la fuerza contextual incluye miedo y desmoralización. La conexión de Eric preserva una intuición sobre culpa expuesta ante una revelación, pero no debe sustituir la escena familiar.
 
 ## Recorrido final: del pan recibido a la promesa pendiente
 
-La unidad económica de Bereshit 47:13-26 debe permanecer junto a la historia familiar. El OE dice **ולחם אין בכל הארץ כי כבד הרעב מאד** («no había pan en toda la tierra, porque el hambre era muy grave»), y TTH conserva que «desfalleció la tierra de Mitsráim y la tierra de Kenaan a causa del hambre». **כבד**, _kaved_, significa «pesado, grave o intenso»; aquí da fuerza a la severidad material del hambre. «Crisis espiritual» es una equivalencia pedagógica, no el sentido de la palabra. Eric ve en Iosef un administrador de la vida; la observación se apoya en el grano distribuido, pero no elimina el costo político del sistema descrito.
+La unidad económica de Bereshit 47:13-26 debe permanecer junto a la historia familiar. El OE dice **ולחם אין בכל הארץ כי כבד הרעב מאד** («no había pan en toda la tierra, porque el hambre era muy grave»), y TTH conserva que «desfalleció la tierra de Mitsráim y la tierra de Kenaan a causa del hambre». **כבד**, _kaved_, normalmente significa «pesado, grave o intenso»; aquí da fuerza a la severidad material del hambre. «Crisis espiritual» es una equivalencia pedagógica, no el sentido de la palabra. Eric ve en Iosef un administrador de la vida; la observación se apoya en el grano distribuido, pero no elimina el costo político del sistema descrito.
 
-Cuando el dinero se acaba, Iosef dice **הבו מקניכם** («den su ganado»). **הבו**, _havu_, es un imperativo plural de יהב, «den» o «entreguen»; su fuerza contextual es una propuesta de intercambio dentro de la emergencia. En 47:25 el pueblo responde **החיתנו** («nos has dado vida»), forma causativa de חיה: «has mantenido con vida». «Redimiste» sería una ampliación pedagógica; el texto inmediato habla de sustento bajo hambre.
+Cuando el dinero se acaba, Iosef dice **הבו מקניכם** («den su ganado»). **הבו**, _havu_, es un imperativo plural de יהב, «den» o «entreguen»; su fuerza contextual es una propuesta de intercambio dentro de la emergencia. La palabra no significa «exploten» ni «salven gratuitamente». En 47:25 el pueblo responde **החיתנו** («nos has dado vida»), forma causativa de חיה: «has mantenido con vida». «Redimiste» sería una ampliación pedagógica; el texto inmediato habla de sustento bajo hambre.
+
+En el tramo final, la promesa de Yehoshúa 24:32 —**ואת עצמות יוסף אשר העלו בני ישראל ממצרים קברו בשכם** («los huesos de Iosef, que los hijos de Israel habían subido de Mitsraim, los enterraron en Shejem»)— muestra que Bereshit 50 deja una tarea histórica que el libro todavía no cuenta. La referencia es una conexión canónica posterior, no una cita encubierta del cierre de Bereshit. **העלו**, _he'elu_, forma causativa de עלה, normalmente «hacer subir»; aquí su fuerza es el traslado real de los huesos desde Mitsraim. «Elevar espiritualmente» sería solo una aplicación pedagógica.
+
+La esperanza también tiene una dimensión comunitaria en Iejezkel 37. El OE dice **הנה אני לקח את בני ישראל מבין הגוים** («he aquí, yo tomaré a los hijos de Israel de entre las naciones») y TTH habla de reunirlos de entre las naciones. **לקח**, _leqaj_, significa «tomar» o «recibir»; en el contexto profético es la acción de reunir a Israel, no una descripción literal de la escena familiar de Iosef. Eric relaciona la revelación de los hermanos y la reunión futura; la semejanza puede leerse como patrón canónico, mientras la diferencia de género y alcance debe permanecer visible.
 
 Así, cada perícopa aporta un límite a la siguiente. Yehudá no es salvador por acercarse: su **תחת**, _tajat_, queda probado por el costo que acepta. Iosef no es juez divino: **התחת אלהים אני** («¿estoy yo en lugar de Elohim?») limita su poder y fundamenta su renuncia a la venganza. Yaakov no convierte la muerte en derrota: **פקד יפקד אלהים אתכם** («Elohim, visitando, los visitará») orienta la familia hacia la promesa. Las observaciones de Eric sobre hablar y hacer conforme a la voluntad divina reciben apoyo cuando se siguen estas formas en su orden, no cuando se desprenden de sus escenas.
 
@@ -221,6 +248,7 @@ El gesto de los huesos completa la enseñanza con una señal corporal: **והע�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashat Vayigash (2017) The people who sanctify life](https://www.youtube.com/watch?v=4hBwWXXSvQQ) (`source_id`: `youtube:4hBwWXXSvQQ`).
 - Video: [Parashat Vayigash - Genesis 44:18 - 47:27 - Hablar dentro de las Palabras de la Torah](https://www.youtube.com/watch?v=VPMoZun2Bww) (`source_id`: `youtube:VPMoZun2Bww`).
 - Video: [Parashat Vaychi - Genesis 47:28 - 50:26 - Doing in accordance with the divine will](https://www.youtube.com/watch?v=86l71sgugKc) (`source_id`: `youtube:86l71sgugKc`).
 - Esta nota organiza y contrasta la exposición asignada a esta lane; no presenta la transcripción automática como cita literal.

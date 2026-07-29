@@ -1,6 +1,6 @@
 ---
 title: "Devarim 32: Ha'azinu, la Roca y la fidelidad que juzga"
-description: "Lectura canónica de Ha'azinu sobre la palabra que desciende como lluvia, la memoria de la Roca, la apostasía de Israel y la misericordia que restaura el testimonio de יהוה."
+description: "Lectura canónica de Ha'azinu sobre la advertencia de Mosheh, la palabra que desciende como lluvia, la memoria de la Roca, la apostasía de Israel y la misericordia que restaura el testimonio de יהוה."
 date: 2026-07-28
 tags:
   - parashot
@@ -9,22 +9,36 @@ tags:
   - fidelidad
   - roca
 references:
+  - "#devarim_31_29"
   - "#devarim_32_1-4"
   - "#devarim_32_7-14"
   - "#devarim_32_15-21"
   - "#devarim_32_35-43"
+  - "#devarim_32_44-47"
 sources:
+  - "https://www.youtube.com/watch?v=e54Boaj8Z_8"
   - "https://www.youtube.com/watch?v=86QJBg5Aw5E"
   - "docs/scriptures/oe/json/deuteronomy/32.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
+  - "youtube:e54Boaj8Z_8"
   - "youtube:86QJBg5Aw5E"
 translation: "[OE, TTH]"
 ---
 
 # Tesis
 
-Ha'azinu es un testimonio poético que llama a cielos y tierra para que escuchen. La clase pública de Eric resume su eje como «Nuestra Roca - La fidelidad»; esa observación es compatible con el capítulo, pero el poema no convierte la fidelidad en una abstracción cómoda. Contrasta la obra completa y justa de la Roca con la corrupción de Jeshurún, recuerda el cuidado del desierto, anuncia juicio y termina llamando a las naciones a alegrarse cuando יהוה hace justicia y reconcilia a su pueblo.
+Ha'azinu es un testimonio poético que llama a cielos y tierra para que escuchen. La clase pública «PARASHAT HA'AZINU ESPAÑOL 2015» enlaza el cántico con la advertencia de Devarim 31:29 y con la «posteridad de los días», mientras «Nuestra Roca - La fidelidad» resume su centro en la firmeza de יהוה. Ambas observaciones son compatibles con el capítulo, pero el poema no convierte la fidelidad en una abstracción cómoda. Contrasta la obra completa y justa de la Roca con la corrupción de Jeshurún, recuerda el cuidado del desierto, anuncia juicio y termina llamando a las naciones a alegrarse cuando יהוה hace justicia y reconcilia a su pueblo.
+
+## Hoja de comparación
+
+| Referencia     | Hebreo local OE (sin nikud)                                               | TTH local                                                                                                                                                    | Función en el canto                                                  |
+| -------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| #devarim_32_1  | **האזינו השמים ואדברה ותשמע הארץ אמרי פי**                                | «Den oído los cielos, y déjenme hablar; y escuche la tierra los dichos de mi boca.»                                                                          | Convoca testigos celestiales y terrestres antes de la acusación.     |
+| #devarim_32_4  | **הצור תמים פעלו כי כל דרכיו משפט אל אמונה ואין עול צדיק וישר הוא**       | «La Roca, completa es su acción, porque todos sus caminos son juicio; Él es emunah y sin injusticia, justo y recto es Él.»                                   | Define la Roca por obra completa, juicio, firmeza y rectitud.        |
+| #devarim_32_15 | **וישמן ישרון ויבעט שמנת עבית כשית ויטש אלוה עשהו וינבל צור ישעתו**       | «Pero engordó Ieshurún y pateó; engordaste, engrosaste, te saciaste; y abandonó a Eloha que lo hizo, y despreció a la Roca de su salvación.»                 | Muestra que el problema es abandonar al dador, no recibir provisión. |
+| #devarim_32_39 | **ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא** | «Vean ahora que Yo, Yo soy Él, y no hay dios conmigo; Yo hago morir y hago vivir, Yo hiero y Yo sano.»                                                       | La soberanía de יהוה sostiene juicio y restauración.                 |
+| #devarim_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו**       | «Griten de alegría, gentiles, su pueblo, porque la sangre de sus siervos vengará, y venganza regresará a sus enemigos, y reconciliará su tierra, su pueblo.» | El cierre reúne venganza, alegría de las naciones y reconciliación.  |
 
 ## Recorrido textual
 
@@ -33,6 +47,8 @@ Moshéh comienza: «Den oído los cielos, y déjenme hablar; y escuche la tierra
 En 32:3 el nombre de יהוה se proclama y se atribuye grandeza a Elohim. En 32:4 aparece **הצור**, _haTzur_, «la Roca». Una roca puede ser refugio y estabilidad; aquí la metáfora recibe contenido ético: «completa es su acción», todos sus caminos son juicio, y él es _emunah_, sin injusticia, justo y recto. La traducción «fidelidad» para **אמונה**, _emunah_, es **aproximada**; su fuerza contextual incluye firmeza y confiabilidad. La observación de Eric acerca de la fidelidad de la Roca se apoya en la secuencia, no sólo en el título.
 
 ## Memoria del cuidado y olvido de la Roca
+
+Entre la convocatoria y la definición de la Roca, el canto formula una pregunta acusatoria: «¿Así pagáis a יהוה, pueblo necio y no sabio?» (32:6, TTH). **שחת**, _shajat_, significa corromper, arruinar o echar a perder; en 32:5 su forma describe una deformación que contradice la filiación recibida, no una simple imperfección estética. «Corrompidos» es una equivalencia adecuada en este contexto, mientras que «dañados» sería demasiado débil. **דור**, _dor_, significa generación; aquí señala al colectivo que reproduce la torcedura, no solo a una persona aislada. La acusación prepara la memoria: la infidelidad no se entiende sin recordar primero quién dio la vida y la herencia.
 
 El poema pregunta si Israel paga a יהוה con corrupción, aunque él es el padre que lo compró, hizo y estableció (32:6). **קנה**, _qanah_, significa adquirir o comprar; «redimir» puede ser una equivalencia **pedagógica**, pero el versículo enfatiza pertenencia originada en la acción divina. «Recuerda los días de antaño» (32:7) manda consultar a padres y ancianos. La memoria no es nostalgia: reconstruye cómo Elyón separó pueblos y dio a Yaakov como porción a יהוה.
 
@@ -56,6 +72,14 @@ Los vv. 28-34 diagnostican a las naciones: «son un pueblo sin consejo, y no hay
 
 El cierre (32:43) llama a las naciones a alegrarse con el pueblo de יהוה: la sangre de sus siervos será vengada, los enemigos recibirán retribución y יהוה reconciliará su tierra y su pueblo. **כפר**, _kafar_, puede significar cubrir, expiar o hacer reconciliación según el contexto. «Reconciliará» es una equivalencia **aproximada**, pero la fuerza final es restauradora y no borra la justicia anunciada. El v. 44 añade que Moshéh vino y habló «todas las palabras de este canto a oídos del pueblo» junto con Hoshea. La recepción final del poema es pública y completa: «aplicad vuestro corazón a todas las palabras» (32:46, TTH), porque no es una opinión privada, sino la palabra que forma la vida del pacto. **שימו**, _simu_, de שום, «poner», es un imperativo plural: «pongan». Su fuerza contextual es tomar en serio el canto como instrucción, no admirarlo a distancia.
 
+## El encargo final y el límite de Moshe: 32:48-52
+
+El capítulo no termina en la exhortación del v. 47. יהוה dice: **ויאמר יהוה אל משה בעצם היום הזה לאמר עלה אל הר העברים הזה הר נבו... וראה את ארץ כנען אשר אני נתן לבני ישראל לאחזה**; TTH: «Y habló יהוה a Moshéh en aquel mismo día, diciendo: sube a este monte de los Avarim, el monte Nebo… y mira la tierra de Kenáan que Yo doy a los hijos de Israel como posesión». Ese mismo día יהוה manda a Moshe subir al monte Nebo y mirar la tierra, pero le anuncia que no entrará en ella. **(עלה)**, _alah_, significa subir o ascender; aquí describe un movimiento real hacia el monte, no una metáfora automática de “subir al cielo”. **(ראה)**, _raah_, significa ver o mirar; su fuerza contextual es contemplar la herencia desde lejos, no poseerla por el hecho de verla.
+
+La razón se formula con dos verbos: Moshe quebrantó la confianza y no santificó a יהוה ante la asamblea en las aguas de Meribá. **(מעל)**, _maal_, significa actuar infielmente o cometer una traición contra una confianza; “desobedecer” es una equivalencia aproximada que no agota el matiz de quebranto de confianza. **(קדש)**, _qiddesh_, significa santificar, tratar como santo o reconocer como apartado; su fuerza aquí es que Moshe debía mostrar públicamente la santidad de יהוה, no producirla. El cierre protege el argumento de Eric sobre fidelidad: la Roca permanece justa incluso cuando el mediador recibe un límite severo.
+
+La tierra es llamada «esta buena tierra» y «el Jordán», mientras la muerte de Moshe queda dentro de la palabra de יהוה. El canto, por tanto, no ofrece una promesa individual desligada de la obediencia ni una explicación sentimental del juicio. La fidelidad divina sostiene la promesa al pueblo, y al mismo tiempo la palabra juzga a sus siervos. Esa tensión es la conclusión narrativa de Ha'azinu, no un detalle secundario después de la poesía.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal                          | Fuerza contextual                              | Equivalencia                               |
@@ -67,6 +91,8 @@ El cierre (32:43) llama a las naciones a alegrarse con el pueblo de יהוה: la
 | **קנה**    | _qanah_         | Adquirir, comprar                       | Pertenencia de Israel por acción divina        | «Redimir» es pedagógica                    |
 | **נשא**    | _nasa_          | Llevar, levantar, cargar                | Cuidado protector en el desierto               | «Sostener» es aproximada                   |
 | **כפר**    | _kafar_         | Cubrir, expiar, purgar                  | Reconciliar tierra y pueblo al final del poema | «Reconciliar» es aproximada                |
+| **מעל**    | _maal_          | Actuar infielmente, traicionar          | Quebranto de confianza en Meribá               | «Desobedecer» es aproximada                |
+| **קדש**    | _qiddesh_       | Santificar, tratar como santo           | Reconocer públicamente la santidad de יהוה     | «Consagrar» es pedagógica                  |
 
 ## El canto recibido como testimonio público
 
@@ -76,13 +102,21 @@ La forma **שימו**, _simu_, es un imperativo plural de שום, «poner, coloc
 
 El versículo 47 explica por qué: «no es palabra vacía de vosotros, porque es vuestra vida» (TTH). **ריק**, _req_, significa vacío, vano o sin contenido; «palabra vacía» es una traducción contextual. El poema no afirma que cada experiencia difícil tenga una explicación inmediata, pero sí niega que su testimonio sea inútil. La enseñanza pública «Nuestra Roca - La fidelidad» queda así evaluada de manera precisa: la fidelidad de יהוה sostiene un canto que juzga, instruye y promete, mientras la respuesta de Israel consiste en escuchar todas sus palabras y vivir por ellas.
 
+## La advertencia de Devarim 31 y la posteridad de los días
+
+Devarim 31:29 proporciona el marco narrativo que Eric destaca en la clase «PARASHAT HA'AZINU ESPAÑOL 2015»: después de la muerte de Mosheh, Israel se apartaría del camino y «en la posteridad de los días» vendría el mal. El hebreo **(אחרית)**, _ajarit_, significa final, resultado o posteridad; «antesala de la era mesiánica» es una aplicación teológica **pedagógica**, no una equivalencia exacta de la palabra. El cántico debe conservar primero su función explícita: enseñar de antemano cómo leer la futura infidelidad.
+
+La clase también relaciona Romanos 3:21–22 y 5:15 con la fidelidad de Yehoshua. Esa conexión pertenece a la lectura canónica posterior y no reemplaza el argumento de Devarim 32: la justicia de la Roca se declara antes de que el pueblo sea acusado. La lectura queda, por tanto, cualificada: el cántico permite una línea de cumplimiento que la comunidad puede explorar, pero no dice por sí solo que **(אחרית)** sea una fórmula técnica para una era determinada.
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad           | Observación pública atribuible                                    | Evaluación textual                                                                                                                  |
-| ---------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Devarim 32       | «Nuestra Roca - La fidelidad»                                     | Apoyo directo: 32:4 llama a la Roca _emunah_ y la describe justa y recta.                                                           |
-| Devarim 32:7-14  | La memoria del cuidado sostiene la confianza                      | Apoyo textual: el poema recuerda desierto, protección y herencia antes de narrar el abandono.                                       |
-| Devarim 32:15-43 | La infidelidad recibe juicio, pero el final conserva restauración | Apoyo cualificado: el poema une retribución, soberanía y reconciliación; no permite reducirlo a prosperidad o condena sin contexto. |
+| Unidad                 | Observación pública atribuible                                                                                                            | Evaluación textual                                                                                                                                             |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Devarim 31:29; 32:1-19 | El cántico recuerda la advertencia sobre la «posteridad de los días» y funciona como testimonio histórico de lo que יהוה hizo por Israel. | Apoyo textual e inferencia cualificada: se conserva la conexión de la clase, pero _ajarit_ no se convierte en una equivalencia automática con «era mesiánica». |
+| Devarim 32             | «Nuestra Roca - La fidelidad»                                                                                                             | Apoyo directo: 32:4 llama a la Roca _emunah_ y la describe justa y recta.                                                                                      |
+| Devarim 32:7-14        | La memoria del cuidado sostiene la confianza                                                                                              | Apoyo textual: el poema recuerda desierto, protección y herencia antes de narrar el abandono.                                                                  |
+| Devarim 32:15-43       | La infidelidad recibe juicio, pero el final conserva restauración                                                                         | Apoyo cualificado: el poema une retribución, soberanía y reconciliación; no permite reducirlo a prosperidad o condena sin contexto.                            |
+| Devarim 32:44-47       | El canto debe aprenderse y recordarse; no es palabra vacía, sino vida.                                                                    | Apoyo textual: la enseñanza pública se recibe entera y se guarda mediante el corazón, los hijos y la práctica.                                                 |
 
 ## La palabra como herencia que se practica
 
@@ -105,5 +139,6 @@ La fidelidad de la Roca es el criterio que ordena todo el canto. יהוה es com
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [PARASHAT HA'AZINU ESPAÑOL 2015](https://www.youtube.com/watch?v=e54Boaj8Z_8) (`source_id`: `youtube:e54Boaj8Z_8`).
 - Video: [Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad](https://www.youtube.com/watch?v=86QJBg5Aw5E) (`source_id`: `youtube:86QJBg5Aw5E`).
 - Esta nota organiza y contrasta el énfasis público del video; no presenta una transcripción automática como cita literal.

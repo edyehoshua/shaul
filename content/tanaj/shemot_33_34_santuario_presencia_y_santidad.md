@@ -40,6 +40,10 @@ La respuesta «Mi rostro irá contigo, y te daré descanso» (33:14) usa **(פנ
 
 Moshéh pide: «Hazme ver, por favor, tu gloria» (33:18). **(כבוד)**, _kavod_, normalmente significa «peso, honor o gloria»; «manifestación visible» es una aproximación pedagógica. La respuesta proclama la bondad y el Nombre, pero limita el acceso: «No podrás ver mi rostro, porque no me puede ver hombre y vivir» (33:20). El texto no niega toda revelación; niega que una criatura controle o agote la presencia divina. La mano, la roca y la visión de «tras de mí» funcionan como lenguaje narrativo de revelación limitada.
 
+Antes de la petición de Moshéh, el capítulo conserva una tensión que el título de Eric no permite omitir. יהוה manda subir hacia la tierra prometida, pero anuncia que no subirá en medio del pueblo de dura cerviz para no consumirlo (33:1–5). **(קשה ערף)**, _qesheh oref_, significa «duro de cerviz»; la expresión describe resistencia obstinada, no una anatomía espiritual. «Rebelde» es una equivalencia contextual y aproximada. El pueblo se despoja de sus adornos, y la tienda de reunión queda fuera del campamento (33:6–7). **(עד)**, _ed_, significa adorno o joya; aquí su retiro expresa duelo y disposición a escuchar, no un mandamiento general contra todo adorno.
+
+La tienda fuera del campamento hace visible que la presencia no se manipula desde el centro de la comunidad. **(אהל)**, _ohel_, significa tienda; en esta escena la tienda de reunión funciona como lugar de encuentro y consulta, no como una palabra automática para el Mishkán completo. Cuando la columna desciende, el pueblo se levanta y cada uno se postra a la entrada de su tienda (33:8–10). **(עמד)**, _amad_, significa estar de pie o permanecer; su fuerza narrativa es la atención reverente ante la señal de la presencia. El texto sostiene así la preocupación pública por la santidad con acciones observables: duelo, separación, consulta, espera y postración.
+
 ## Bondad, celos y pacto: Éxodo 34:6–16
 
 OE presenta **(רחום)**, _rajum_, «compasivo», y **(חנון)**, _janun_, «clemente o favorecedor», en la proclamación de 34:6. También aparece **(חסד)**, _jesed_, bondad leal, y **(אמת)**, _emet_, firmeza o verdad. Traducir _jesed_ como «misericordia» es apropiado en este contexto, pero aproximado; no es un permiso para trivializar el pacto. El mismo pasaje sostiene perdón y responsabilidad: no declara inocente al culpable sin matiz.
@@ -64,9 +68,21 @@ Cuando Moshéh pide ver la gloria, **(כבוד)**, _kavod_, mantiene el campo de
 
 El título de Eric habla de «profanar el cuerpo de Mashíaj». Esa aplicación pública puede conservarse como preocupación de la clase, pero su evaluación textual debe ser gradual: Éxodo 33–34 no usa esa frase, mientras que sí ordena distinguirse por presencia, pacto, santuario, tiempos y culto exclusivo. La conexión con una comunidad corporal requiere otros textos para su formulación completa; aquí funciona como inferencia cualificada y no como traducción de **(מקדש)**, _miqdash_, «santuario».
 
-### Hoja de comparación
+## El rostro resplandeciente y la palabra mediada — Éxodo 34:29–35
 
-| Referencia    | Hebreo (sin nikud)                  | TTH (OE/TTH)                                       | Observación                                   |
+Al bajar del monte, Moshéh no sabe que la piel de su rostro resplandece por haber hablado con יהוה. El OE dice que Aharon y los hijos de Israel «temieron acercarse a él», y el TTH conserva ese temor ante la señal visible. **(קרן)**, _qaran_, significa emitir rayos, resplandecer o tener cuernos según la lectura y el contexto; aquí su fuerza narrativa es describir el resplandor del rostro de Moshéh después del encuentro. «Brillar» es una equivalencia pedagógica adecuada, pero no elimina la discusión léxica de la forma.
+
+Moshéh llama a la comunidad y les comunica todo lo que יהוה había hablado en el monte; después pone un velo sobre su rostro cuando termina de hablar. **(מסוה)**, _masveh_, significa velo o cobertura; en esta escena regula cuándo el pueblo ve el resplandor, no una técnica para apropiarse de la gloria. **(דבר)**, _davar_, significa palabra, asunto o mandato; aquí se refiere al contenido del pacto que Moshéh transmite. La presencia, por tanto, produce mediación obediente: la señal visible no reemplaza la palabra ni autoriza a convertir al mensajero en objeto de culto.
+
+Esta conclusión precisa la aplicación de Eric sobre profanación. Si la comunidad corporal ha de reflejar santidad, el criterio local no es exhibir una experiencia espiritual, sino recibir la palabra, practicar el pacto y reconocer sus límites. El rostro resplandeciente confirma un encuentro real, mientras el velo recuerda que ninguna criatura controla la gloria de יהוה.
+
+El comienzo de Éxodo 34 completa la restauración después de las tablas quebradas. Moshéh debe labrar dos tablas como las primeras y subir de nuevo sin llevar consigo a nadie (34:1–3). **(פסל)**, _pasal_, significa labrar o tallar; aquí la forma imperativa ordena preparar las piedras, mientras que en 34:17 el sustantivo **(פסל)**, _pesel_, designa una imagen tallada prohibida. La semejanza gráfica no borra la diferencia de forma y función: una tabla preparada para recibir palabras no es un ídolo. **(כתב)**, _katav_, significa escribir; su fuerza contextual en 34:1 es restaurar por escrito las palabras del pacto, no producir una experiencia privada desligada de la comunidad.
+
+La nube desciende, יהוה proclama su Nombre y Moshéh se inclina (34:5–8). **(עבר)**, _avar_, significa pasar, atravesar o transitar; en la proclamación «pasó יהוה delante de él» comunica una manifestación real pero no una captura visual de la gloria. **(חוה)**, _hava_, significa inclinarse o postrarse; aquí la respuesta corporal de Moshéh confirma que la revelación conduce a adoración y súplica. La secuencia refuerza la evaluación del título: el cuerpo no se profana por estar presente, sino cuando la presencia y la palabra se sustituyen por un objeto o una alianza rival.
+
+## Hoja de comparación
+
+| Referencia    | Hebreo (sin nikud)                  | TTH                                                | Observación                                   |
 | ------------- | ----------------------------------- | -------------------------------------------------- | --------------------------------------------- |
 | #shemot_33_14 | פני ילכו והנחתי לך                  | «Mi rostro irá contigo, y te daré descanso»        | Presencia y reposo van juntos.                |
 | #shemot_33_18 | הראני נא את כבדך                    | «Hazme ver… tu gloria»                             | Revelación pedida, no posesión de יהוה.       |

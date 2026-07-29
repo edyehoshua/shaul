@@ -16,10 +16,12 @@ references:
   - "#devarim_1_34-46"
   - "#yehoshua_1_1-9"
 sources:
+  - "https://www.youtube.com/watch?v=CLeAjF2EGoE"
   - "https://www.youtube.com/watch?v=n6AaHG2kTCo"
   - "docs/scriptures/oe/json/deuteronomy/1.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
+  - "youtube:CLeAjF2EGoE"
   - "youtube:n6AaHG2kTCo"
 translation: "[OE, TTH]"
 ---
@@ -153,5 +155,6 @@ Devarim 1 enseña que la memoria del desierto debe producir escucha obediente. �
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat Dvarim (2017) The last enemy to be defeated will be death itself](https://www.youtube.com/watch?v=n6AaHG2kTCo) (`source_id`: `youtube:n6AaHG2kTCo`).
-- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+- Video: [Parashat Dvarim, Dt. 1:1–3:22: escuchando sólo la voz de יהוה](https://www.youtube.com/watch?v=CLeAjF2EGoE) (`source_id`: `youtube:CLeAjF2EGoE`).
+- Video previamente acreditado en esta nota: [Parashat Dvarim (2017) The last enemy to be defeated will be death itself](https://www.youtube.com/watch?v=n6AaHG2kTCo) (`source_id`: `youtube:n6AaHG2kTCo`).
+- Esta nota organiza y contrasta la exposición; no presenta una transcripción automática como cita literal.

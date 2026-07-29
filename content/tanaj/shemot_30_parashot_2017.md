@@ -59,6 +59,18 @@ Luego aparecen **משח**, _mashaj_, «ungir», y **קדש**, _qadesh_, «separa
 
 El incienso termina el capítulo con la misma lógica. **קטרת**, _qetóret_, es incienso o mezcla aromática preparada para quemarse. **רקח**, _raqaj_, significa preparar como perfumista; **ממלח**, _memulaj_, indica una mezcla sazonada o compuesta. Eric insiste en que lo apartado no se seculariza. Eso encuentra apoyo textual: la composición de los versículos 34-38 es «santidad de santidades» y no debe copiarse para olerla como perfume privado. La exposición puede aplicar este principio a la vida comunitaria, pero el argumento crítico es primero cultual y textual.
 
+## El medio shekel: igualdad ante el memorial
+
+Los versículos 11-16 fijan el alcance del primer encargo antes de describir los objetos del santuario. La frase **ולא יהיה בהם נגף**, _velo yihyeh vahem negef_, «no habrá en ellos plaga», explica el propósito del pago en el contexto del registro. **נגף**, _negef_, normalmente significa golpe, tropiezo o plaga; leerlo como una garantía automática contra toda desgracia sería excesivo. **ונתנו איש כפר נפשו**, _venatenu ish kofer nafsho_, presenta a cada persona dando, no comprando una posición. El TTH llama al medio shekel «ofrenda de יהוה» y lo destina al servicio de la Tienda. Eric acierta al ver responsabilidad común, pero la igualdad del importe no elimina la diferencia entre el pueblo contado y los ministros consagrados.
+
+La repetición «el rico no dará más y el pobre no dará menos» hace que la reconciliación no dependa de capacidad económica. **עשיר**, _ashir_, es rico, y **דל**, _dal_, es pobre o débil; ambas formas reciben aquí el mismo límite. «Dignidad idéntica» es una aplicación pedagógica legítima, mientras que la equivalencia exacta es una contribución no graduada para el memorial. El texto también preserva el destino: **לזכרון**, _lezikaron_, significa para memoria o memorial. No es una inversión para financiar ambición religiosa; es una señal delante de יהוה.
+
+## Del lavacro a la presencia: acercarse con manos preparadas
+
+El lavacro de 30:17-21 protege la frontera entre acercarse y tratar lo santo como cotidiano. **ורחצו ממנו משה ואהרן ובניו**, _verajatsu mimenu Mosheh veAharon uvanav_, ordena lavar manos y pies. **רגל**, _regel_, es pie; la mención corporal concreta impide convertir el rito en una metáfora sin conducta. Eric aplica el principio a la disposición del servidor y a la necesidad de preparar la vida. El texto confirma una preparación prescrita, aunque no define por sí solo una liturgia moderna.
+
+La finalidad se repite: «cuando entren en la Tienda» y «cuando se acerquen al altar para ministrar». **מות ימתו**, _mot yumat_, intensifica la advertencia «morirán». La equivalencia «santificar cada actividad» es pedagógica; la fuerza contextual es que el sacerdote no entra ni ministra sin lavarse. La secuencia importa: primero el pueblo es contado y reconciliado; luego el servicio se acerca con limpieza; después aceite e incienso quedan reservados. La clase de Eric sobre encargo y santidad queda así anclada en el orden del capítulo, no solo en una imagen de prosperidad.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual   | Observación concreta de Eric                                               | Evaluación frente al texto                                                                                         |

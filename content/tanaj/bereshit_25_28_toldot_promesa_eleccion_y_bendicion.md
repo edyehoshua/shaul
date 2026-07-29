@@ -109,6 +109,18 @@ El orden del relato impide dos reducciones opuestas. Por un lado, la elección n
 
 La frase **(והיה גביר לאחיך)**, _vehayah gavir le'achekha_, «y sé señor de tus hermanos», muestra por qué la bendición no debe separarse de su contexto. **(גביר)**, _gavir_, puede expresar señor, poderoso o autoridad; en 27:29 su fuerza es una palabra de dominio dentro de la bendición, no una autorización general para que Yaakov trate a Esav sin justicia. «Autoridad espiritual» sería una equivalencia **pedagógica** y demasiado amplia. El texto posterior revela el costo de la rivalidad: separación, amenaza y huida. La elección bíblica no borra la necesidad de discernir el modo en que se busca la bendición.
 
+## La voz de la bendición no borra el temblor del padre — Bereshit 27:30–33
+
+La escena posterior a la salida de Yaakov exige leer el desenlace, no solo la fórmula pronunciada. Cuando Esav llega con su comida, Yitsjaq pregunta quién es y **ויחרד יצחק חרדה גדלה עד מאד** (_vayeḥerad Yitsḥaq ḥaradah gedolah ad meod_), «Yitsjaq tembló con un temblor muy grande». **(חרד)**, _jarad_, significa temblar, estremecerse o temer; aquí expresa el impacto del descubrimiento y no una aprobación serena del engaño. «Confirmación espiritual» sería una equivalencia pedagógica que ocultaría la reacción narrativa.
+
+Yitsjaq continúa: **גם ברוך יהיה** (_gam barukh yihyeh_), «también bendito será» (27:33). **(גם)**, _gam_, significa también, aun o incluso; su fuerza contextual enlaza la bendición ya pronunciada con la imposibilidad de tratarla como una palabra sin efecto. **(ברוך)**, _barukh_, significa bendito, favorecido o proclamado bajo bendición; no equivale por sí solo a «moralmente aprobado». Eric acierta al distinguir la palabra de la apariencia, pero el texto obliga a mantener juntas la irrevocabilidad reconocida y la perturbación causada por el procedimiento.
+
+La bendición, por tanto, no convierte el engaño en norma ni la elección en premio de la astucia. En 28:3–4 Yitsjaq vuelve a bendecir a Yaakov deliberadamente y nombra «la bendición de Avraham»; la repetición posterior permite evaluar el oráculo inicial dentro de una transmisión pactual más clara. La forma **(ויתן)**, _veyitten_, significa «y dé» o «y conceda», de נתן, _natan_, «dar»; aquí la fuerza es petición de don divino, no una técnica humana para producir prosperidad.
+
+**(ברית)**, _berit_, significa pacto o alianza; aunque el sustantivo no gobierne cada línea de este bloque, su fuerza contextual aparece en la bendición de Avraham como continuidad de descendencia y tierra. «Destino individual» es una equivalencia inexacta: la palabra mira a una casa, una tierra y una historia. Así, la observación de Eric sobre la elección queda confirmada, pero afinada por el relato: la promesa precede a la maniobra, la bendición no absuelve el engaño y la transmisión explícita de 28:3–4 vuelve visible su marco pactual.
+
+## La bendición recibida y la separación de las alianzas
+
 El cierre en 28:1–4 es decisivo porque Yitsjaq ya no habla desde la sospecha de sus sentidos ni desde la comida que pidió. Ordena a Yaakov no tomar mujer de Kenaan y pronuncia explícitamente «la bendición de Avraham». La forma **(ברכת)**, _birkat_, es el constructo de ברכה, «bendición», y aquí enlaza el don familiar con descendencia y tierra. «Éxito personal» no es una equivalencia exacta: reduce una promesa de pacto a bienestar individual. Eric preserva el vínculo entre elección y bendición; la secuencia textual añade que recibirla implica salir, separarse de alianzas incompatibles y continuar la línea prometida.
 
 ## Conclusión

@@ -10,6 +10,7 @@ tags:
   - santidad
 references:
   - "#bamidbar_25_1-9"
+  - "#bamidbar_25_6-9"
   - "#bamidbar_25_10-15"
   - "#bamidbar_25_16-18"
   - "#hoshea_9_10"
@@ -78,6 +79,25 @@ El cierre ordena hostilizar a Midian porque sus acciones en Peor y el asunto de 
 
 El vínculo con #hoshea_9_10 y #tehilim_106_28-31 es una conexión canónica útil: ambos recuerdan Peor y la respuesta de Pinjas. Pero esos textos deben hablar con sus propios términos. La repetición confirma que el episodio fue memoria de infidelidad y juicio; no convierte cada aplicación posterior en una glosa literal de Bamidbar 25.
 
+## 5. El recorrido completo: de la comida al pacto
+
+La perícopa no comienza con una abstracción sobre «el afuera», sino con una cadena de verbos: Israel se asentó, el pueblo comió, se inclinó y se apegó (#bamidbar_25_1-3). **ויצמד**, _vayitsamed_, no describe una emoción vaga: la raíz צמד expresa unirse o estar atado. El TTH «se apegó» conserva mejor la imagen que «se interesó». Eric acierta al advertir que la crisis afecta el centro de la lealtad, pero su explicación sobre gentiles periféricos debe evaluarse con cautela: el narrador culpa a Israel por sus acciones y luego identifica a los midianitas en la hostilidad del conflicto; no ofrece una regla étnica general.
+
+En 25:6-9 la escena se hace visible ante Mosheh, la asamblea y la tienda de reunión. El OE dice **ויבך** («y lloraba») y luego **ויבא** («y llevó»), de modo que el llanto comunitario y la provocación pública están en el mismo marco narrativo. **קהל**, _qahal_, significa asamblea o congregación; aquí señala al pueblo reunido, no una audiencia privada. El mapa del campamento que Eric usa para explicar la proximidad al Mishkán es una imagen útil apoyada por Bamidbar 2, pero debe conservarse como conexión contextual: Bamidbar 25 no dice que toda murmuración empiece siempre en el borde ni atribuye corrupción natural a los que están fuera.
+
+La acción de Pinjas produce el giro que יהוה interpreta en 25:10-13. **השיב**, _heshiv_, forma causativa de שוב, significa «hizo volver»; el objeto es la ira de יהוה, no una autonomía de Pinjas para gobernar el juicio. **את קנאתי**, _et qinati_, «mi celo», conserva la primera persona divina. Por eso la aplicación de Eric sobre «celo por la casa» puede exhortar a no tolerar la profanación, pero sólo es segura si permanece sometida a la palabra que reconoce a Pinjas en esta escena singular.
+
+Finalmente, la instrucción contra Midian (#bamidbar_25_16-18) vuelve a nombrar el daño: **בנכליהם**, _benakhelehem_, significa «con sus engaños o artificios», y apunta a la estrategia narrada en Peor. «Influencias impuras» es una equivalencia pedagógica; no sustituye la referencia a acciones históricas. La secuencia completa —adhesión, juicio, intervención, interpretación divina y conflicto— impide aislar el pacto de paz de la gravedad de la ruptura.
+
+## Evaluación ampliada de las observaciones de Eric
+
+| Observación pública                                                                 | Apoyo en Bamidbar 25                                                           | Límite necesario                                                                     |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| El campamento alrededor del Mishkán ayuda a entender la seriedad de la profanación. | La tienda, la asamblea y la presencia están en el escenario de 25:6.           | La distribución de Bamidbar 2 es contexto; no prueba que todo extranjero sea impuro. |
+| Eric prefiere «refinamiento» a «prueba» para describir el desierto.                 | La exposición vincula el episodio con la fidelidad a la promesa y el desierto. | **נסה** no aparece aquí; es una aplicación conceptual, no el verbo de la perícopa.   |
+| Pinjas «hizo volver» la ira y recibió pacto de paz.                                 | 25:11-13 lo declara explícitamente y 25:8 narra el cese de la plaga.           | El reconocimiento divino no concede licencia moderna para violencia privada.         |
+| El episodio se relaciona con Gan Eden y con ciudades de refugio.                    | Son conexiones temáticas sobre perímetros, acceso y protección.                | No son equivalencias léxicas ni el argumento directo de 25:1-18.                     |
+
 ## Léxico clave
 
 | Forma     | Transliteración | Sentido normal             | Fuerza contextual                         | Equivalencia                          |
@@ -121,6 +141,13 @@ El versículo siguiente dice en TTH: «Por eso, di: He aquí que le doy mi pacto
 
 El final del capítulo también debe permanecer visible. TTH traduce #bamidbar_25_18: «porque ellos son hostiles para ustedes con sus engaños, con los que los engañaron en el asunto de Peor». **בנכליהם**, _benakhelehem_, procede de נכל, «actuar con engaño o artificio»; su fuerza contextual recuerda una estrategia concreta asociada con Peor. «Toda influencia impura» es una aplicación pedagógica, no una equivalencia exacta. La perícopa queda así cerrada por memoria y discernimiento: nombra acciones, agentes y conflicto; no autoriza al lector a fabricar adversarios espirituales sin evidencia.
 
+## La paz del pacto está delimitada por la palabra
+
+La clase de Eric insiste en que el título «El celo de tu casa me consumió» debe llevar al lector hasta la escena previa: Pinjas actuó cuando la provocación era pública, delante de Mosheh, de la asamblea y de la tienda de reunión. Esa observación preserva un dato narrativo importante, pero la interpretación divina de 25:11-13 establece el límite. **בקנאו את קנאתי**, _beqano et qinati_, significa «al tener celo por mi celo»: **קנאתי**, _qinati_, es «mi celo», con el sufijo de primera persona. «Defender la casa» puede ser una aplicación aproximada; «ser dueño del juicio» contradice la estructura del versículo, donde יהוה explica la acción y concede el pacto.
+
+La fórmula **לכן הנני נתן לו את בריתי שלום**, _lachen hineni noten lo et beriti shalom_, comienza con «por eso» y «he aquí, doy». **נתן**, _natan_, normalmente significa dar o entregar; aquí su fuerza es la iniciativa divina. **שלום**, _shalom_, significa paz, integridad o bienestar, y en este contexto nombra un pacto ligado al sacerdocio perpetuo. «Tranquilidad interior» es una reducción pedagógica, no el alcance completo. Eric conecta esta paz con la restauración mesiánica y con el celo por la presencia; puede conservarse como lectura canónica posterior, pero no debe presentarse como si Pinjas recibiera permiso para reproducir el acto en cualquier época.
+
+El cierre con Midian también conserva el orden del argumento. **בנכליהם**, _benakhelehem_, alude a sus artificios o engaños en el asunto de Peor. La equivalencia «influencias impuras» puede comunicar una aplicación pastoral, pero no reemplaza la referencia a una estrategia narrada y a un conflicto histórico. Bamidbar 25, por tanto, sostiene simultáneamente la gravedad de la infidelidad, la intervención pública de Pinjas y la soberanía de יהוה para interpretar y conceder paz. La exposición es más fiel al texto cuando llama a una lealtad vigilante que cuando convierte el celo en autoridad privada.
 
 ## Créditos
 
