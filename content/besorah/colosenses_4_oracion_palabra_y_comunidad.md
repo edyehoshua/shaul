@@ -129,6 +129,16 @@ La secuencia permite evaluar también el énfasis de Eric sobre la comunidad que
 
 ## Pendiente de verificar
 
+## Reparación desarrollada: justicia, oración y palabra pública
+
+El cierre de Colosenses debe leerse en su secuencia completa: el mandato de justicia a quienes tienen poder (#colossians_4_1) precede a la oración vigilante, la petición por una puerta para la palabra y la exhortación a responder con sabiduría (#colossians_4_2-6). La observación de Eric sobre asociarse a una causa y servir dentro de una red comunitaria es **pedagógica y cualificada**: el texto sí une perseverancia, misión y colaboradores, pero no convierte una técnica de oración ni una estructura institucional moderna en requisito apostólico.
+
+**(ἰσότης)**, _isotēs_, significa igualdad, equidad o trato justo; en #colossians_4_1 acompaña a «lo justo» que los señores deben dar a sus esclavos. «Equidad» es una glosa **aproximada y contextual**: el versículo limita el poder al recordar que también ellos tienen un Señor en los cielos, pero no borra por sí solo la realidad histórica de la esclavitud ni prescribe un modelo laboral actual. **(προσκαρτερέω)**, _proskartereō_, significa persistir, dedicarse o mantenerse firme; junto con **(γρηγορέω)**, _grēgoreō_, «velar» o «estar despierto», describe en 4:2 una oración constante y atenta. «Asociarse a una causa» es una aplicación **pedagógica**, no el sentido exhaustivo de los verbos.
+
+En #colossians_4_3-6, **(θύρα)**, _thyra_, significa puerta, y **(λόγος)**, _logos_, significa palabra, mensaje o discurso. «Puerta de la palabra» es una metáfora **contextual y aproximada** para una oportunidad de anunciar y manifestar el misterio; no demuestra una puerta física ni garantiza que todo obstáculo sea señal de voluntad divina. **(καιρός)**, _kairos_, significa tiempo oportuno u ocasión; su fuerza en 4:5 orienta la conducta sabia ante quienes están fuera. **(ἀποκρίνομαι)**, _apokrinomai_, significa responder o contestar; en 4:6 exige una respuesta adecuada a cada persona. La palabra sazonada con sal es una imagen **directa en el texto y pedagógica en su aplicación**: claridad y amabilidad no equivalen a manipulación ni a agresividad.
+
+El resto del capítulo confirma que la misión es corporal y compartida. **(ἀγωνίζομαι)**, _agōnizomai_, significa luchar, esforzarse intensamente o contender; en la forma participial de 4:12 describe la intercesión perseverante de Epafras por la madurez de la comunidad. «Luchar en oración» es una traducción **aproximada y contextual**, no una promesa técnica de resultados. Tíquico, Onésimo, Marcos, Lucas y los demás hacen visible un servicio distribuido; la lectura de Eric recibe **apoyo textual cualificado** cuando une oración, palabra, cuidado y lectura compartida, mientras las reconstrucciones históricas de rutas y fechas permanecen pendientes.
+
 - [ ] Documentar el trasfondo de la servidumbre romana y su relevancia precisa para #colossians_4_1.
 - [ ] Cotejar los verbos de oración y el vocabulario de «puerta» y «sal» con el texto griego y léxicos.
 - [ ] Identificar con fuentes las relaciones entre los colaboradores mencionados y las otras cartas, sin reconstruir biografías a partir de una lista de nombres.

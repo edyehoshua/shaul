@@ -143,6 +143,16 @@ El cierre orienta el misterio hacia una práctica de anuncio, amonestación, ens
 
 ## Pendiente de verificar
 
+## Reparación desarrollada: primacía, plenitud y reconciliación
+
+La parte central de la nota debe conservar el orden del himno antes de aplicar sus términos a debates posteriores. Eric relaciona la imagen, la primacía y la plenitud de Yehoshua con la reconciliación; esa observación recibe **apoyo textual cualificado** porque Colosenses 1:15-20 encadena creación, anterioridad, cabeza de la comunidad, resurrección, plenitud y paz. No es legítimo aislar una palabra para construir una teoría que contradiga el movimiento completo del himno.
+
+**(εἰκών)**, _eikōn_, significa imagen, representación o figura; en #colossians_1_15 su fuerza contextual es presentar a Yehoshua como imagen del Elohim invisible. «Imagen» es una glosa **directa**, mientras identificarla automáticamente con **תמונה**, _temunah_, «imagen o figura», es una relación **aproximada y pedagógica**, no una derivación etimológica. **(πρωτότοκος)**, _prōtotokos_, significa primogénito; en 1:15 y 1:18 señala primacía en relación con la creación y con los muertos, y su sentido no se reduce a «primer ser creado». Esa última conclusión sería **ilegítima** frente a la explicación de 1:16-17 de que todas las cosas fueron creadas por medio de él y que él es anterior a todas.
+
+**(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o aquello que llena; en #colossians_1_19 expresa que toda la plenitud tuvo a bien habitar en Yehoshua. «Plenitud» es una glosa **directa en el campo ordinario**, pero decidir todas sus consecuencias ontológicas a partir del sustantivo aislado sería **inferencial**. **(ἀποκαταλλάσσω)**, _apokatallassō_, significa reconciliar plenamente o restaurar una relación; en 1:20-22 describe la paz hecha por medio de la sangre de su cruz y la presentación de quienes estaban alienados. «Reconciliar» es **directo y contextual**; enlazarlo con _kipur_ es **pedagógico y aproximado**, no una equivalencia hebrea demostrada por la forma griega.
+
+La conclusión controla la aplicación: la primacía del Mesías no autoriza a despreciar la comunidad ni a convertir la reconciliación en licencia para abandonar la perseverancia. #colossians_1_21-23 mantiene juntas la obra realizada «ahora» y el llamado a permanecer fundados en la emunah y en la esperanza del evangelio. La clase conserva un hilo útil —primacía, plenitud y servicio reconciliado—, pero el texto califica cada extensión más allá de estas afirmaciones como **canónica, pedagógica o inferencial** según la evidencia.
+
 ## Control sintáctico: sufrimiento, misterio y madurez
 
 La unidad final no permite leer el sufrimiento de Pablo como una carencia en la reconciliación realizada por Yehoshua. En #colossians_1_24, **(χαίρω)**, _chairō_, significa alegrarse o regocijarse; aquí su fuerza contextual es que Pablo interpreta su aflicción apostólica como servicio gozoso por el cuerpo, no como una moneda que compra perdón. **(θλῖψις)**, _thlipsis_, significa presión, aflicción o tribulación, y **(ὑστέρημα)**, _hysterēma_, significa falta, carencia o lo que queda pendiente. «Lo que falta» es una traducción **directa** del campo léxico, pero la aplicación doctrinal «la cruz quedó incompleta» sería una inferencia que contradice el movimiento inmediato de #colossians_1_20-22 y debe rechazarse.
