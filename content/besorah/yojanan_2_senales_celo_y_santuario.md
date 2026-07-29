@@ -89,6 +89,14 @@ La última unidad (#iojanan_2_23-25) vuelve al vocabulario de las señales y de 
 
 Esto completa el recorrido en orden: Caná manifiesta gloria (#iojanan_2_1-11); la subida en Pésaj conduce a la palabra sobre la casa del Padre y el santuario (#iojanan_2_13-22); finalmente, las señales en Yerushaláim suscitan respuesta sin que el narrador presente esa respuesta como criterio suficiente para conocer el corazón (#iojanan_2_23-25). La conexión con Isaías sirve como énfasis de la enseñanza de Eric, mientras que la base textual de esta conclusión está en la distinción explícita de Yojanán.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta tomada de Eric | Evaluación en la nota |
+| --- | --- | --- |
+| #iojanan_2_1-11 | Eric lee el vino reservado como contraste pedagógico y destaca que los servidores conocen el proceso mientras el maestresala evalúa el resultado. | Apoyo textual cualificado: la nota sigue los vv. 7-11 y limita el simbolismo a la finalidad explícita de gloria y afirmación. |
+| #iojanan_2_13-17 | Eric relaciona la expulsión de animales y cambistas con la santidad de la casa y el riesgo de convertir el acercamiento en beneficio. | Apoyo textual: el reproche por la casa del Padre se conserva; los detalles económicos históricos quedan pendientes. |
+| #iojanan_2_18-25 | Eric conecta la palabra sobre el santuario con una relación renovada y advierte que las señales no bastan para conocer el corazón. | Apoyo textual cualificado: el narrador identifica el santuario con el cuerpo y distingue señales de conocimiento humano; la aplicación de Isaías queda pendiente. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la explicación lingüística de la clase sobre las construcciones de `#iojanan_2_11` y `#iojanan_2_22` antes de afirmar una equivalencia léxica entre `pisteuo` y **(אמונה)**.

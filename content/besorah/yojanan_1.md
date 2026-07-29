@@ -158,6 +158,14 @@ de usarse como contexto establecido.
 | Mishnah / arquitectura del culto | Ohel, mishkan, mikdash                | Distinguir tabernáculo de otras estructuras | Mención indirecta en la nota |
 | BDB / Jastrow                    | שכן, מימרא, חסד                       | Apoyo léxico                                | Pendiente de verificar       |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta tomada de Eric | Evaluación en la nota |
+| --- | --- | --- |
+| #iojanan_1_1-3 | Eric acerca **(λόγος)** (_logos_) a **(מימרא)** (_meymrá_) como expresión activa de Elohim, no como idea abstracta. | Apoyo textual cualificado: se conserva la conexión semítica como lectura pedagógica y se explica que no es equivalencia exacta. |
+| #iojanan_1_4-5 | La vida y la luz avanzan desde el prólogo y la luz enfrenta la oscuridad. | Apoyo textual: la secuencia local sostiene vida, luz y testimonio; no se añade una reconstrucción histórica no comprobada. |
+| #iojanan_1_14-18 | La Palabra entra en la carne y tabernaculiza; el unigénito da a conocer al Elohim no visto. | Apoyo textual y aclaración léxica: **(μονογενής)** y **(שכן)** se explican con límites, dejando las ecuaciones históricas pendientes. |
+
 ## Pendiente de verificar
 
 - [ ] Afinar qué matices deben citarse explícitamente desde la tradición judía sobre meymrá.
@@ -177,15 +185,8 @@ de usarse como contexto establecido.
 
 ## Créditos
 
-<<<<<<< HEAD
-Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
-
-- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (part 3) Thanks to his name, grace» — <https://www.youtube.com/watch?v=oWBXDeXiqUI> — source_id: `youtube:oWBXDeXiqUI`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel according to Yojanán / John (Part 4) Meymra' basar hayah» — <https://www.youtube.com/watch?v=OYKCQLXnX3I> — source_id: `youtube:OYKCQLXnX3I`.
-=======
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Yojanán / Juan (parte 2): cap. 1:1, Arjë, Logos y Meymra'](https://www.youtube.com/watch?v=1MoxwBR4bg4) (`source_id`: `youtube:1MoxwBR4bg4`).
 - Video: [The Gospel according to Yojanán / John (part 3) Thanks to his name, grace](https://www.youtube.com/watch?v=oWBXDeXiqUI) (`source_id`: `youtube:oWBXDeXiqUI`).
 - Video: [The Gospel according to Yojanán / John (Part 4) Meymra' basar hayah](https://www.youtube.com/watch?v=OYKCQLXnX3I) (`source_id`: `youtube:OYKCQLXnX3I`).
 - Esta nota organiza y contrasta la exposición; no presenta las transcripciones automáticas como citas literales.
->>>>>>> a4ac46fa83 (docs(yojanan): deepen canonical studies 1 and 2)
