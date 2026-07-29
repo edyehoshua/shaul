@@ -214,6 +214,17 @@ La apertura de Efesios sitúa a Pablo bajo la voluntad de Elohim, no bajo una in
 
 El recorrido completo del capítulo amplía esa apertura: bendición, elección, redención, perdón y propósito revelado desembocan en una oración por sabiduría, esperanza y conocimiento. Su culminación es la acción poderosa de Elohim en la resurrección y la presentación del Mesías como cabeza de la asamblea. Así, la nota reúne las seis sesiones sin confundir las elaboraciones de la serie con afirmaciones explícitas del texto bíblico.
 
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [La Carta A Los Efesios Parte 1: ¿Cuál es la voluntad de Dios para mi vida?](https://www.youtube.com/watch?v=6gCUX55_ID0) (`source_id`: `youtube:6gCUX55_ID0`).
+- Video: [La carta a los efesios parte 2](https://www.youtube.com/watch?v=qsn5BfZMZ8o) (`source_id`: `youtube:qsn5BfZMZ8o`).
+- Video: [La carta a los efesios parte 3](https://www.youtube.com/watch?v=9Tzh2oZtmAk) (`source_id`: `youtube:9Tzh2oZtmAk`).
+- Video: [La carta a los efesios parte 4](https://www.youtube.com/watch?v=KPdeVmwOViQ) (`source_id`: `youtube:KPdeVmwOViQ`).
+- Video: [La carta a los efesios parte 5](https://www.youtube.com/watch?v=k2V_xN81ozU) (`source_id`: `youtube:k2V_xN81ozU`).
+- Video: [La carta a los efesios parte 6](https://www.youtube.com/watch?v=WSIaQ6rlhDc) (`source_id`: `youtube:WSIaQ6rlhDc`).
+- Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
+
 ## Ver también
 
 - [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
