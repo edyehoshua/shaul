@@ -153,11 +153,21 @@ La aceptación de la ofrenda tampoco depende de una emoción aislada. En 22:19�
 
 Los versículos 26–30 muestran que la santidad incluye tiempo, relación y mesa. **(נותר)**, _notar_, significa quedar como sobrante o permanecer; en **לא תותירו**, _lo totiru_, prohíbe dejar hasta la mañana la ofrenda de acción de gracias. «No ofrecer sobras» es una aplicación aproximada que debe partir de este mandato específico. **(תודה)**, _todah_, significa acción de gracias, confesión agradecida u ofrenda de gratitud; aquí nombra una categoría cultual que se come el mismo día, no solo una emoción espontánea. El capítulo une víctima íntegra, espera junto a la madre, prohibición de degollar madre y cría el mismo día y consumo oportuno. La honra no es apariencia: es obediencia completa al procedimiento que יהוה santifica.
 
+## Pendiente de verificar
+
 - [ ] Cotejar estudios léxicos trazables sobre **(חלל)** y **(קדש)** para describir sus rangos semánticos sin depender de imágenes etimológicas.
 - [ ] Examinar por separado la relación tipológica entre las víctimas **(תמים)**, las afirmaciones apostólicas sobre Yehoshua y la regulación inmediata de Vaikra 22.
 - [ ] Documentar con fuentes históricas los desarrollos posteriores sobre porciones sacerdotales; esta nota se limita al texto de la Torah.
 
-## Del santuario cultual a una vocación pública
+## La santidad se verifica en una cadena, no en un lema
+
+La observación pública de Eric —que el pueblo no debe profanar el cuerpo o el nombre santo— gana precisión si se mantiene la cadena que Vaikra 22 construye. Primero, el sacerdote debe apartarse mientras la impureza está sobre él; después, la persona que come por inadvertencia devuelve la cosa santa y añade una quinta parte; luego, la ofrenda presentada por Israelita o _ger_ debe ser íntegra y aceptable. **(שמר)**, _shamar_, significa guardar, custodiar u observar; en 22:9 y 31 su fuerza contextual es vigilar el encargo recibido y practicarlo, no solo admirar la santidad. «Cuidado espiritual» es una síntesis pedagógica; «guardar» es la equivalencia más directa.
+
+El capítulo también limita la aplicación. **(גר)**, _ger_, significa residente o forastero residente; en 22:18 aparece entre quienes pueden presentar una ofrenda, mientras **(זר)**, _zar_, designa a quien no está autorizado para comer la porción sacerdotal en 22:10. No son términos intercambiables: «extranjero» para ambos borraría la diferencia textual. **(קרב)**, _qarav_, significa acercarse; en **יקריב**, _yaqriv_, describe la acción de acercar una ofrenda a יהוה. «Acercamiento espiritual» es pedagógico, no el sentido exhaustivo del verbo.
+
+Así, la nota puede conservar la aplicación mesiánica y comunitaria sin convertirla en la definición inmediata de cada forma. El cierre atribuye la santificación a יהוה: **אני יהוה מקדשכם**, «yo soy יהוה que los santifico». La conducta de Israel hace visible o profana el Nombre, pero no fabrica la santidad de יהוה. La observación de Eric recibe apoyo cualificado: la santidad se muestra públicamente, y se muestra mediante una obediencia concreta a condición, tiempo, restitución y nombre.
+
+## Reparación: santidad, aceptación y testimonio público
 
 El cierre de Vaikra 22 no permite que la aplicación de Eric convierta toda santidad en una metáfora sin procedimiento. OE dice **ולא תחללו את שם קדשי ונקדשתי בתוך בני ישראל אני יהוה מקדשכם**, «no profanarán el nombre de mi Santidad y seré santificado en medio de los hijos de Israel; Yo soy יהוה que los santifico» (#vaikra_22_32). **(מקדשכם)**, _meqaddeshekem_, es una forma verbal de קדש, «santificar o consagrar», con sufijo «a ustedes»; su fuerza contextual atribuye la santificación a יהוה, mientras la obediencia de Israel evita la profanación.
 

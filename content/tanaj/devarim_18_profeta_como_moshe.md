@@ -99,6 +99,10 @@ Sobre **(מלך אלהיך)** en perfecto —«tu Elohim reinó»— Eric insist
 
 ## Hoja léxica y desarrollo textual
 
+La promesa del profeta debe leerse después de la prohibición de las prácticas de las naciones, no como una autorización para buscar cualquier voz sobrenatural. El OE dice **לא תלמד לעשות כתועבת הגוים ההם** —«no aprenderás a hacer conforme a las abominaciones de esas naciones»— (#devarim_18_9), y TTH conserva el verbo «aprender» antes de enumerar adivinación, hechicería y consulta a muertos. **למד**, _lamad_, significa aprender, instruirse o acostumbrarse; aquí su fuerza contextual es adquirir una práctica que forma la conducta. «Informarse» sería demasiado débil; la prohibición alcanza la imitación.
+
+El contraste de 18:13, **תמים תהיה עם יהוה אלהיך**, funciona como respuesta positiva. **היה**, _hayah_, significa ser, llegar a ser o permanecer; en **תהיה**, _tihyeh_, sostiene una exhortación dirigida a Israel. «Serás» es exacto; «vivirás en totalidad» es una equivalencia pedagógica. **עם**, _im_, significa con, junto a o en compañía de; su fuerza aquí es lealtad relacional con יהוה, no una fusión de identidades. La clase acierta al oponer esta integridad a la dependencia de voces adivinatorias, siempre que no convierta _tammim_ en una exigencia de impecabilidad abstracta.
+
 ## La promesa se entiende por su secuencia — vv. 15–22
 
 El orden de Devarim 18 impide separar la promesa del profeta de las condiciones que la rodean. Primero el pueblo recuerda el temor de Horeb: pidió no seguir oyendo la voz desde el fuego (#devarim_18_16). Después יהוה confirma que su petición fue buena y anuncia una mediación que no nace de la curiosidad humana, sino de una palabra que él mismo pondrá en la boca del profeta (#devarim_18_17-18). Finalmente, el pasaje exige escucha y ofrece examen. **(קום)**, _qum_, significa levantarse o hacer surgir; en **נביא אקים להם**, _naví aqim lahem_, su fuerza contextual es que יהוה establecerá un portavoz para su pueblo. «Designar» es una equivalencia aproximada; «crear de la nada» sería una lectura excesiva.
