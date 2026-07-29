@@ -585,33 +585,6 @@
             "youtube:7Hdo6Y1mD98"
           ],
           "reason": "Tras la cobertura, haftarot quedó en 27 fuentes pendientes (<40). Esta exposición de Ajarey-mot permanece sin asignar, sin nota canónica ni trabajo en progreso; se asigna exclusivamente a la lane haftarot por coherencia temática de haftarah."
-        },
-        {
-          "title": "613 Mitzvot: bloque bíblico restante para balance de haftarot",
-          "source_ids": [
-            "youtube:E6KrU1gAZds",
-            "youtube:jWockkxhp0w",
-            "youtube:TllFPKGdAOU",
-            "youtube:HFJu64S1ufo",
-            "youtube:5p0sOPbQflA",
-            "youtube:aC2uTIEfzE4",
-            "youtube:W5Pear4YiFk",
-            "youtube:GQRI30jwp2g",
-            "youtube:cIoJQuAq8SY",
-            "youtube:UgH1d1YDlVI",
-            "youtube:Cd1j0zCQKl0",
-            "youtube:Xfina1Aomn4",
-            "youtube:Ex7gvjkxQJ8",
-            "youtube:h80L1Ko9I6I",
-            "youtube:_IxB3yzc_vg",
-            "youtube:TE2H0LfOmII",
-            "youtube:7iiTlivZhJ4",
-            "youtube:Oz36NRg_vXk",
-            "youtube:yPYOSfFabcM",
-            "youtube:VdU_YA4Yf0Q",
-            "youtube:hypEBG3HADc"
-          ],
-          "reason": "Tras la cobertura, haftarot quedó con 19 fuentes elegibles pendientes (<40). Se asigna exclusivamente este bloque coherente del playlist 613 Mitzvot, cuyo propietario colosenses ya agotó su cola elegible inmediata; las 21 fuentes tienen transcripción local, no están en missing-transcripts, no están en progreso y no tienen nota canónica de otra lane."
         }
         ],
         "priority": "Remediate existing canonical notes tied to owned sources first; otherwise process the first eligible biblical exposition in source order."
