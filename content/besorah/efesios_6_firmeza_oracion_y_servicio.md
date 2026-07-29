@@ -264,6 +264,14 @@ El final de Efesios mantiene la misma dirección de la carta: el Mesías forma u
 
 ## Ver también
 
+## Control de cierre: permanecer, comunicar y servir
+
+El cierre de Efesios 6 debe conservar el movimiento del capítulo. **(ἐνδυναμοῦσθε)**, _endynamousthe_, «reciban fuerza o fortalézcanse», dirige la fuente al Señor; **(ἐνδύσασθε)**, _endysasthe_, «vístanse», y **(στῆναι)**, _stēnai_, «permanecer de pie», describen resistencia, no conquista. La observación de Eric sobre una formación espiritual queda apoyada por la secuencia de verbos, mientras que **(πάλη)**, _palē_, «lucha o combate», queda limitada por la negación explícita de luchar contra sangre y carne.
+
+La lista de piezas tampoco debe separarse de su propósito. **(ἀλήθεια)**, _alētheia_, «verdad», **(δικαιοσύνη)**, _dikaiosynē_, «justicia», **(εἰρήνη)**, _eirēnē_, «paz», **(πίστις)**, _pistis_, «fe o confianza», y **(σωτήριον)**, _sōtērion_, «salvación», nombran recursos y orientaciones dentro de la metáfora; **(ῥῆμα)**, _rhema_, «palabra o declaración», es la palabra de Elohim asociada con la espada del Rúaj. Ninguna forma autoriza una fórmula mágica, una vestidura sacerdotal automática o una agresión contra personas.
+
+La consecuencia textual es comunitaria: **(προσευχόμενοι)**, _proseuchomenoi_, «orando», **(ἀγρυπνοῦντες)**, _agrypnountes_, «velando o permaneciendo atentos», y **(παρρησία)**, _parrēsia_, «franqueza o confianza para hablar», llevan la firmeza hacia la súplica por todos y hacia el anuncio del misterio. Tíquico comunica noticias y consuela, de modo que el capítulo termina en servicio relacional. La enseñanza de Eric sobre discernir y pedir valentía encaja con esta dependencia: permanecer conduce a orar, comunicar y servir, no a aislarse ni dominar.
+
 - [[efesios_5_amor_luz_y_sabiduria|Efesios 5: amor, luz y sabiduría]]
 - [[efesios_4_llamado_unidad_y_vida_nueva|Efesios 4: llamado, unidad y vida nueva]]
 

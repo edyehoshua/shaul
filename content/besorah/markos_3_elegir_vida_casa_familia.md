@@ -322,6 +322,14 @@ Este control también evita convertir la casa dividida en una teoría general so
 
 ## Ver también
 
+## Control de dependencia: una autoridad que restaura y reúne
+
+La lectura de Eric queda mejor delimitada cuando cada afirmación depende de la escena que la sostiene. En 3:1-6, **(ἀποκαθίστημι)**, _apokathistēmi_, «restaurar o devolver a una condición», recibe como objeto la mano seca; por eso «escoger la vida» describe aquí la acción visible de hacer el bien dentro de la controversia, no una licencia para ignorar el Shabbat. La conexión con **(ובחרת בחיים)**, _uvajarta bajayim_, «escogerás o escoge la vida», sigue siendo un eco temático de Devarim 30:19, mientras que el griego de Marcos gobierna la prueba.
+
+La autoridad se desplaza después a los Doce sin volverse autónoma. **(προσκαλέομαι)**, _proskaleomai_, «llamar hacia sí», y **(ποιέω)**, _poieō_, «hacer o establecer», introducen el grupo que debe estar con Yehoshua antes de ser enviado; **(ἀποστέλλω)**, _apostellō_, «enviar con encargo», nombra una misión recibida. La afirmación de Eric sobre presencia antes del servicio queda apoyada por ese orden, pero no permite convertir el título de enviado en dominio personal.
+
+Finalmente, la casa dividida y la familia obediente no son dos consignas separadas. **(οἶκος)**, _oikos_, «casa u hogar», aparece como dominio que no puede permanecer si está dividido; **(δέω)**, _deō_, «atar», señala la condición previa para saquear la casa del fuerte; y **(ποιεῖ)**, _poiei_, «hace», define en 3:35 a quien pertenece a la familia por practicar la voluntad de Elohim. Así, la perícopa avanza en orden desde vida restaurada, a autoridad derivada, a pertenencia visible; no autoriza acusar a personas ni sustituir obediencia por parentesco.
+
 - [[markos_2_torah_promesas_procedimientos|Marcos 2: perdón, nuevo pacto y Torah que permanece]]
 - [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/shabat|Shabat]]
