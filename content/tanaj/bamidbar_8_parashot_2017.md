@@ -184,6 +184,14 @@ La comunidad no queda como espectadora. Los hijos de Israel ponen sus manos sobr
 
 Finalmente, 8:24-26 distingue entrada, labor y asistencia. **(עמד)**, _amad_, significa estar de pie o permanecer; en este marco ayuda a describir la permanencia responsable ante la Tienda, no una postura mística. **(שרת)**, _sharet_, significa servir o asistir; en 8:26 el levita ayuda a sus hermanos y no ejerce dominio. **(משא)**, _massa_, significa carga o labor de llevar; aplicado a «carga espiritual» es **pedagógico**, mientras el contexto inmediato habla de trabajo levítico. Por eso la aplicación de Eric al liderazgo actual es válida solo como analogía: el capítulo sí enseña servicio recibido, preparación y relevo, pero regula específicamente a los leviím.
 
+## La lámpara, el servicio y la medida del relevo — lectura de cierre
+
+El último control de la perícopa confirma la observación de Eric sin convertirla en una alegoría ilimitada. OE y TTH ponen en relación la orden inicial y la obediencia final: **אל מול פני המנורה יאירו שבעת הנרות** — «hacia la faz de la Menoráh alumbrarán las siete lámparas»— y, más adelante, Israel, Aharón y los leviím hacen «conforme a todo lo que mandó יהוה». La repetición del verbo **עשה**, _asah_, «hacer, realizar o ejecutar», tiene aquí fuerza de cumplimiento visible. «Producir una luz propia» sería una equivalencia pedagógica, no exacta; la luz recibe dirección y el servicio recibe forma.
+
+La transición no elimina la agencia humana, pero sí la ordena. **(פנים)**, _panim_, significa rostro, faz o presencia; en 8:2 funciona espacialmente, indicando hacia dónde alumbran las lámparas. **(הבדל)**, _hivdil_, significa separar o distinguir; en 8:14 describe la reserva de los leviím para la labor cultual. **(תחת)**, _tajat_, significa debajo, bajo o «en lugar de»; en 8:18 limita la sustitución a la función levítica, no a una superioridad moral universal. Estas equivalencias son exactas en su sentido básico y contextuales en su aplicación; no autorizan a hacer de cada término una doctrina posterior.
+
+El relevo de los vv. 24-26 lleva la misma enseñanza a su límite práctico. **(משא)**, _massa_, significa carga o labor de llevar; su fuerza inmediata es el trabajo asignado al levita, mientras «carga espiritual» es una aplicación aproximada. **(שרת)**, _sharet_, significa servir o asistir; al final del capítulo el levita mayor sigue ayudando a sus hermanos, pero no domina sobre ellos. La clase acierta al denunciar un liderazgo centrado en sí mismo: el texto muestra lámparas orientadas hacia la Menoráh y servidores dados a יהוה para una tarea comunitaria. La extensión a todo liderazgo contemporáneo permanece pedagógica, no normativa en cada detalle.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
