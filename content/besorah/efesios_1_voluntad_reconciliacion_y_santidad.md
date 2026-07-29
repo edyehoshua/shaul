@@ -214,6 +214,14 @@ La cadena verbal también limita las equivalencias. **ἀνακεφαλαιώσ�
 
 Por último, 1:19-23 prueba el destino comunitario de la revelación. **ὑπεράνω** (_hyperanō_, «por encima») sitúa al Mesías sobre toda autoridad; **κεφαλή** (_kephalē_, «cabeza») expresa su primacía; y **πλήρωμα** (_plērōma_, «plenitud o aquello que llena») describe la relación con la asamblea como cuerpo. Eric puede relacionar esta plenitud con la reconciliación y la santidad, pero el texto obliga a terminar en esperanza, poder, cabeza y cuerpo. Las aplicaciones sobre jerarquías concretas o equivalencias semíticas amplias permanecen atribuidas y calificadas.
 
+## Verificación dirigida: del envío a la asamblea
+
+La perícopa conserva un movimiento que limita las aplicaciones privadas de la clase. En 1:1, **θέλημα**, _thelēma_, «voluntad o propósito», aparece en la fórmula «por voluntad de Elohim» y explica el origen del envío de Pablo; su equivalencia con **(רצון)**, _ratson_, «voluntad o beneplácito», es de campo semántico en el Delitzsch, no una retroversión demostrada. En 1:9, **γνωρίσας**, _gnōrisas_, «habiendo dado a conocer», sitúa el misterio en una comunicación recibida, no en una intuición privada.
+
+El argumento pasa entonces de propósito a recepción. **ἀκούσαντες**, _akousantes_, «habiendo oído», y **πιστεύσαντες**, _pisteusantes_, «habiendo confiado o creído», preceden a **ἐσφραγίσθητε**, _esphragisthēte_, «fuisteis sellados», en 1:13. Las formas son participios y un aoristo pasivo: el texto relaciona palabra, respuesta y sello del Rúaj de la promesa sin presentar el sello como una técnica manipulable. «Fe» y «fidelidad» son glosas posibles para **πίστις**, _pistis_, «confianza o fidelidad», pero el contexto conserva el objeto «en el Mesías».
+
+La oración de 1:15-23 prueba el destino comunitario de lo recibido. **ἐπίγνωσις**, _epignōsis_, «conocimiento reconocido o pleno conocimiento», y **πεφωτισμένους**, _pephōtismenous_, «habiendo sido iluminados», tienen como objetos la esperanza, la herencia y el poder; **ἐγείρας**, _egeiras_, «habiendo levantado», identifica ese poder por la resurrección del Mesías. Finalmente, **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», sitúan la voluntad revelada en una asamblea dependiente de Yehoshua. La equivalencia con **(ראש)**, _rosh_, «cabeza», puede orientar la comparación, pero no autoriza una teoría de jerarquía fuera de la sintaxis.
+
 ## Pendiente de verificar
 
 ## Control de orden textual: del propósito a la asamblea
