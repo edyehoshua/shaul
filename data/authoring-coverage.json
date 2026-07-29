@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 874,
-  "pending_videos": 84,
-  "transcript_notes": 433,
+  "covered_videos": 877,
+  "pending_videos": 81,
+  "transcript_notes": 436,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -158,17 +158,17 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 43,
+      "covered": 46,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)": {
       "total": 5,
-      "covered": 2,
+      "covered": 4,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
       "total": 5,
-      "covered": 2,
+      "covered": 3,
       "lane": "tanaj"
     },
     "Parashot 2016-2017: Dvarim pendiente no asignado": {

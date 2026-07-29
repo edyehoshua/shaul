@@ -66,7 +66,6 @@ sources:
   - "https://youtu.be/8geNmTcW6ZI?si=CfFScYVQEf-T7cK3"
   - "https://www.youtube.com/live/W1agi038QCs?si=I5vk4GKthCUPDBE_"
   - "https://www.youtube.com/live/4Jw7Tt5he6o?si=R3SHhUyeQH54d5In"
-  - "https://youtu.be/-5nbvwGrEDY?si=3QQmMgjBQB1lvs4Z"
   - "https://www.youtube.com/live/FV3WHeOQbzg?si=p6KP3k6gZ2eIM3p0"
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
   - "https://www.youtube.com/live/LCt5Wt86POA?si=rMD1SDqGgVCsH5kI"
@@ -79,7 +78,7 @@ source_ids:
   - "youtube:8geNmTcW6ZI"
   - "youtube:W1agi038QCs"
   - "youtube:4Jw7Tt5he6o"
-  - "youtube:-5nbvwGrEDY"
+
   - "youtube:FV3WHeOQbzg"
   - "youtube:csFssLdcLsE"
   - "youtube:LCt5Wt86POA"
@@ -175,7 +174,7 @@ Yojanán 10 no separa identidad, obras y cuidado pastoral. La puerta excluye el 
 - [[yojanan_10_puerta_pastor_abba|La puerta, el buen pastor y Abba]] — #iojanan_10_7-18; `youtube:8geNmTcW6ZI`.
 - [[yojanan_10_nefesh_janukah_mesias|Nefesh, Janucá y la pregunta por el Mesías]] — #iojanan_10_17-24; `youtube:W1agi038QCs`.
 - [[yojanan_10_janukah_senales_mesias|Janucá y las señales del Mesías]] — #iojanan_10_22-30; `youtube:4Jw7Tt5he6o`.
-- [[yojanan_10_abba_obras_y_morada|Abba, las obras y la morada]] — #iojanan_10_14-38; `youtube:-5nbvwGrEDY`.
+- [[yojanan_10_abba_obras_y_morada|Abba, las obras y la morada]] — #iojanan_10_14-38.
 - [[yojanan_10_emunah_obras_ovejas|Emunah, obras y ovejas]] — #iojanan_10_25-38; `youtube:csFssLdcLsE`.
 - [[yojanan_10_elohim_obras_y_mensajero|Elohim, obras y mensajero]] — #iojanan_10_33-42; `youtube:FV3WHeOQbzg`.
 - [[yojanan_10_17_28_vida_indestructible|Vida indestructible y mandamiento de Abba]] — #iojanan_10_17-28; `youtube:LCt5Wt86POA`.
@@ -186,7 +185,7 @@ Yojanán 10 no separa identidad, obras y cuidado pastoral. La puerta excluye el 
 - Video: <https://www.youtube.com/watch?v=8geNmTcW6ZI> — source_id: `youtube:8geNmTcW6ZI`.
 - Video: <https://www.youtube.com/watch?v=W1agi038QCs> — source_id: `youtube:W1agi038QCs`.
 - Video: <https://www.youtube.com/watch?v=4Jw7Tt5he6o> — source_id: `youtube:4Jw7Tt5he6o`.
-- Video: <https://www.youtube.com/watch?v=-5nbvwGrEDY> — source_id: `youtube:-5nbvwGrEDY`.
+
 - Video: <https://www.youtube.com/watch?v=FV3WHeOQbzg> — source_id: `youtube:FV3WHeOQbzg`.
 - Video: <https://www.youtube.com/watch?v=csFssLdcLsE> — source_id: `youtube:csFssLdcLsE`.
 - Video: <https://www.youtube.com/watch?v=LCt5Wt86POA> — source_id: `youtube:LCt5Wt86POA`.
