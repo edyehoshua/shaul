@@ -231,6 +231,14 @@ La meta tampoco es que una voz concentre la interpretación. **καταντήσ�
 
 El contraste con 4:14-15 cierra el control. **κυβεύοντες**, _kybeuontes_, «jugando a los dados o siendo llevados por la inestabilidad», y **μεθοδεία**, _methodeia_, «engaño o artimaña», describen el peligro de la inmadurez; **ἀληθεύοντες**, _alētheuontes_, «hablando o viviendo en la verdad», y **αὐξήσωμεν**, _auxēsōmen_, describen la respuesta. «Verdad en amor» no equivale a silencio para conservar unidad ni a dureza para demostrar discernimiento. El orden textual exige una comunidad que crece junta.
 
+## Control de madurez: el don se prueba por lo que edifica (4:7-16)
+
+La observación de Eric sobre no abarcar la medida de todo el cuerpo puede comprobarse siguiendo la finalidad de los verbos. **ἐδόθη**, _edothē_, «fue dado», presenta la gracia como don recibido por cada miembro; **καταρτισμόν**, _katartismon_, «equipamiento o preparación», explica para qué existen los servicios; y **οἰκοδομήν**, _oikodomēn_, «edificación o construcción», nombra el resultado comunitario. La equivalencia con **(בנה)**, _banah_, «construir», es temática y aproximada: el griego de Pablo gobierna la lectura.
+
+La meta tampoco es que una voz concentre la interpretación. **καταντήσωμεν**, _katantēsōmen_, «lleguemos», está en primera persona plural; **ἄνδρα τέλειον**, _andra teleion_, describe una humanidad madura; y **αὐξήσωμεν**, _auxēsōmen_, «crezcamos», mantiene al cuerpo entero en movimiento hacia la cabeza. Por eso la prueba de un servicio no es su alcance personal, sino si equipa a los santos, guarda la verdad en amor y hace crecer a otros. La aplicación contemporánea de Eric queda apoyada mientras conserve esa finalidad y no convierta la crítica a la concentración de autoridad en una acusación contra todo liderazgo.
+
+El contraste con 4:14-15 cierra el control. **κυβεύοντες**, _kybeuontes_, «jugando a los dados o siendo llevados por la inestabilidad», y **μεθοδεία**, _methodeia_, «engaño o artimaña», describen el peligro de la inmadurez; **ἀληθεύοντες**, _alētheuontes_, «hablando o viviendo en la verdad», y **αὐξήσωμεν**, _auxēsōmen_, describen la respuesta. «Verdad en amor» no equivale a silencio para conservar unidad ni a dureza para demostrar discernimiento. El orden textual exige una comunidad que crece junta.
+
 ## Conclusión
 
 Efesios 4 describe un pueblo llamado a cuidar una unidad recibida, a servir para la edificación común y a abandonar prácticas que destruyen. La verdad en amor, el habla que da gracia y el perdón sitúan la renovación en relaciones reales. La medida de la madurez no es la autosuficiencia, sino crecer hacia Yehoshua el Mesías, cabeza del cuerpo.
