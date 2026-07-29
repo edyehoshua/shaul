@@ -21,7 +21,6 @@ sources:
   - "docs/benhaelohim.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
-  - "https://www.youtube.com/watch?v=1MoxwBR4bg4"
   - "https://www.youtube.com/watch?v=oWBXDeXiqUI"
   - "https://www.youtube.com/watch?v=OYKCQLXnX3I"
 source_ids:
@@ -82,18 +81,14 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 
 ## Reshit, logos y meymrá
 
-<<<<<<< HEAD
 - La nota distingue la idea griega de logos de la connotación semítica de meymrá.
 - Reshit se entiende como el origen que sostiene y atrae todo hacia Elohim.
-- "La meymrá era para Elohim" se lee en clave de pertenencia: la expresión corpórea le pertenece a Elohim.
+- «La meymrá era para Elohim» se lee en clave de pertenencia: la expresión corpórea le pertenece a Elohim.
 - La fórmula no se reduce al logos filosófico griego ni a un dios secundario.
-=======
-Eric comienza el prólogo en #iojanan_1_1-3 como una afirmación de pertenencia y no como una genealogía: la Palabra estaba en la primicia, estaba orientada hacia Elohim y participa en la obra creadora. Su lectura contrasta la **(מימרא)** (\_meymrá*) aramea con un _logos_ entendido de forma filosófica y autosuficiente. El texto griego local afirma que todo llegó a existir por medio de ella; por eso la propuesta de la clase ayuda a preservar el trasfondo semítico, pero no permite convertir _meymrá_ en una traducción demostrada de cada matiz de **(λόγος)** (_logos_).
 
-La primera clase de la serie (parte 2) insiste precisamente en que **(λόγος)** (_logos_) no debe quedar reducido a una idea abstracta: Eric lo acerca a la **(מימרא)** (_meymrá_), la expresión activa de Elohim, y lee «En la primicia estaba la Palabra» como una afirmación sobre su anterioridad y relación con Elohim. El texto local permite sostener la secuencia concreta: «todas las cosas por su mano llegaron a existir» (#iojanan_1_3), «en Él era la vida» (#iojanan_1_4) y «la luz brilla en la oscuridad» (#iojanan_1_5). La conexión meymrá–logos es, sin embargo, una interpretación semítica atribuida a Eric: _meymrá_ es una forma aramea de «palabra/expresión», mientras que _logos_ puede significar palabra, mensaje, razón o discurso; la relación es pedagógica y contextual, no una equivalencia exacta.
+Eric comienza el prólogo en #iojanan_1_1-3 como una afirmación de pertenencia y no como una genealogía: la Palabra estaba en la primicia, estaba orientada hacia Elohim y participa en la obra creadora. Su lectura contrasta la **(מימרא)** (_meymrá_) aramea con un _logos_ entendido de forma filosófica y autosuficiente. El texto griego local afirma que todo llegó a existir por medio de ella; por eso la propuesta de la clase ayuda a preservar el trasfondo semítico, pero no permite convertir _meymrá_ en una traducción demostrada de cada matiz de **(λόγος)** (_logos_).
 
 La repetición de **(ἐγένετο)** (_egeneto_, «llegó a ser» o «aconteció») en la unidad conecta creación, vida y testimonio. Eric la relaciona pedagógicamente con **(היה)** (_hayah_, «ser, acontecer, llegar a ser»). La relación es aproximada: sirve para seguir el movimiento del prólogo, pero el griego conserva su propia sintaxis y no queda agotado por una sola forma hebrea.
->>>>>>> a4ac46fa83 (docs(yojanan): deepen canonical studies 1 and 2)
 
 ## Vida y luz
 
@@ -186,7 +181,7 @@ de usarse como contexto establecido.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [El Evangelio según Yojanán / Juan (parte 2): cap. 1:1, Arjë, Logos y Meymra'](https://www.youtube.com/watch?v=1MoxwBR4bg4) (`source_id`: `youtube:1MoxwBR4bg4`).
+
 - Video: [The Gospel according to Yojanán / John (part 3) Thanks to his name, grace](https://www.youtube.com/watch?v=oWBXDeXiqUI) (`source_id`: `youtube:oWBXDeXiqUI`).
 - Video: [The Gospel according to Yojanán / John (Part 4) Meymra' basar hayah](https://www.youtube.com/watch?v=OYKCQLXnX3I) (`source_id`: `youtube:OYKCQLXnX3I`).
 - Esta nota organiza y contrasta la exposición; no presenta las transcripciones automáticas como citas literales.
