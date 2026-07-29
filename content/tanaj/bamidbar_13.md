@@ -1,75 +1,81 @@
 ---
-title: "Bamidbar 13: distribución de los pueblos en Kenaan"
-description: "Cuadro sobre la distribución de los pueblos en la tierra de Kenaan y nota sobre Bamidbar 13:21"
-date: 2025-12-06
+title: "Bamidbar 13: recorrido, promesa y otro ruaj"
+description: "Nota canónica de Bamidbar 13 que conserva el mapa de los pueblos y evalúa la lectura de Eric sobre los espías, la promesa y el otro ruaj."
+date: 2026-07-28
 tags:
-  - kenaan
-  - israel
-  - bamidbar_13
+  - parashot
+  - bamidbar
+  - espias
+  - tierra
+  - ruaj
 references:
-  - "#bamidbar_13_21"
-  - "#bamidbar_13_29"
-  - "#bereshit_10_15"
-  - "#devarim_11_30"
-  - "#bereshit_23_3"
-  - "#iehoshua_1_4"
-  - "#devarim_7_1"
-  - "#iehoshua_3_10"
-  - "#iehoshua_24_10"
-  - "#bereshit_14_13"
-  - "#devarim_3_8"
-  - "#iehoshua_10_5"
-  - "#bereshit_13_7"
-  - "#iehoshua_17_15"
-  - "#shoftim_1_4"
-  - "#bereshit_34_2"
-  - "#iehoshua_9_1"
-  - "#iehoshua_11_3"
-  - "#shoftim_3_3"
-  - "#iehoshua_15_8"
-  - "#shemuel_bet_5_6"
+  - "#bamidbar_13_1-2"
+  - "#bamidbar_13_17-25"
+  - "#bamidbar_13_26-33"
+  - "#bamidbar_14_6-9"
+  - "#bamidbar_15_37-41"
+  - "#devarim_1_22-33"
+  - "#tehilim_16_8"
+  - "#mishlei_3_5-6"
+  - "#bereshit_6_1-4"
 sources:
-  - "docs/scriptures/tth/json/bamidbar.json"
-  - "docs/scriptures/oe/json/numbers/13.json"
   - "https://www.youtube.com/watch?v=R2ViDhA4RQQ"
+  - "https://www.youtube.com/watch?v=lnNEKuqlFhg"
+  - "docs/scriptures/oe/json/numbers/13.json"
+  - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
   - "youtube:R2ViDhA4RQQ"
-translation: "[TTH, OE]"
+  - "youtube:lnNEKuqlFhg"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
 
-Bamidbar 13 muestra que los pueblos de Kenaan estaban distribuidos en las cuatro esquinas de la tierra que יהוה prometió a Israel; ese mapa ayuda a leer expresiones como ארבע כנפות הארץ y el recorrido de los exploradores desde Tzin hasta Jamat.
+Bamidbar 13 narra el envío de representantes para recorrer la tierra que יהוה está dando a Israel. La clase de Eric enlaza el recorrido de los espías con el mandato final de los flecos: no «hacer tour» detrás de los ojos y del corazón. Conserva también el contraste entre los diez que miran la fuerza visible y Caleb y Yehoshua, que responden a la promesa con otro ruaj. El texto apoya la secuencia, la bondad de la tierra, el fruto y la diferencia entre los informes; pero no dice que Mosheh enviara a los hombres para decidir si la promesa era válida. La lectura posterior sobre nefilim, potestades y culto debe quedar marcada como hipótesis o tradición, no como definición automática de cada gigante.
 
 ## Alcance de la nota
 
-- Cuadro de referencia geográfica y apunte sobre #bamidbar_13_21 y #bamidbar_13_29.
-- Las descripciones de ubicación resumen referencias bíblicas dispersas; no pretenden ser arqueología cerrada.
-- Se usa OE y TTH para los versículos ancla del capítulo.
-
-Este cuadro es para explicar la distribución que tenían los pueblos que habitaban la tierra de kenaan antes que יהוה hiciera entrar al pueblo de Israel y poseer la tierra; podemos apreciar que estaban distribuidos en los 4 puntos (esquinas) de la tierra.
-
-| Pueblo                      | Ubicación Principal                                | Referencias Bíblicas                                           | Descripción breve                                                                             |
-| --------------------------- | -------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Cananeos כנענים Kena'anim   | Costa oeste y valle del Jordán (este)              | #bamidbar_13_29; #bereshit_10_15; #devarim_11_30               | Habitaban las llanuras costeras del Mediterráneo y las zonas a lo largo del río Jordán.       |
-| Hititas חיתים Jitim         | Centro-sur (región montañosa)                      | #bamidbar_13_29; #bereshit_23_3; #iehoshua_1_4                 | Vivían principalmente en las colinas de Judea, alrededor de Hebrón.                           |
-| Girgasitas גרגשים Girgashim | Norte                                              | #devarim_7_1; #iehoshua_3_10; #iehoshua_24_10                  | Asociados a la región de Galilea superior y cerca del monte Hermón/Líbano.                    |
-| Amorreos אמורים Emorim      | Centro y este (montañas en ambos lados del Jordán) | #bamidbar_13_29; #bereshit_14_13; #devarim_3_8; #iehoshua_10_5 | Ocupaban las zonas montañosas centrales y el este del Jordán (incluyendo Bashán).             |
-| Perizitas פרזים Perizim     | Centro (valles y campos abiertos)                  | #bereshit_13_7; #iehoshua_17_15; #shoftim_1_4                  | Habitaban áreas rurales y valles fértiles, especialmente al sur y suroeste del monte Carmelo. |
-| Hivitas חוים Jivim          | Norte y centro-norte                               | #bereshit_34_2; #iehoshua_9_1; #iehoshua_11_3; #shoftim_3_3    | Vivían cerca del monte Hermón, en el Líbano y en ciudades como Gabaón.                        |
-| Jebuseos יבוסים Yevusim     | Centro (Jerusalén y alrededores)                   | #bamidbar_13_29; #iehoshua_15_8; #shemuel_bet_5_6              | Controlaban Jerusalén (llamada Jebús) y las colinas circundantes.                             |
-
-## Texto base
-
-- #bamidbar_13_21
-- #bamidbar_13_29
+Esta nota reúne el cuadro geográfico ya asociado con la clase de Shlach y la exposición pública «The mark of another Ruach». Se sigue Bamidbar 13 en orden y se conserva el dato de que los pueblos aparecen distribuidos en Néguev, montaña, costa y lado del Jordán. Las conexiones con Devarim, Tehilim, Mishlei, Bereshit y escritos posteriores sirven para evaluar argumentos de Eric; no sustituyen el relato de Bamidbar 13 ni convierten una conjetura de la clase en dato histórico demostrado.
 
 ## Hoja de comparación
 
-| Referencia      | Hebreo (OE, sin nikud)                                                            | TTH (ES)                                                                                                                                                | Observación                                                                        |
-| --------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| #bamidbar_13_21 | ויעלו ויתרו את הארץ ממדבר צן עד רחב לבא חמת                                       | Y subieron y exploraron la tierra, desde el desierto de Tzin hasta Rejob, por la entrada de Jamat.                                                      | Recorrido norte-sur de הארץ; límite meridional y septentrional.                    |
-| #bamidbar_13_29 | עמלק יושב בארץ הנגב והחתי והיבוסי והאמרי יושב בהר והכנעני ישב על הים ועל יד הירדן | Amalek habita en la tierra del Néguev, y el jití, el iebusí y el emorí habita en la montaña, y el kenaaní habita junto al mar y por la mano del Iardén. | Cuatro puntos: neguev (sur), har (centro/norte), yam (oeste), yad haIardén (este). |
+| Unidad             | Texto local OE/TTH                                                                            | Fuerza en el capítulo                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| #bamidbar_13_1-2   | «Envía para ti hombres y que exploren la tierra de Kenaan, que Yo doy a los hijos de Israel». | La tierra es promesa presente; la exploración obtiene información.    |
+| #bamidbar_13_17-20 | «Suban por el Néguev y suban a la montaña; vean qué es la tierra y el pueblo».                | El mandato pregunta por tierra, ciudades, fortaleza, fruto y árboles. |
+| #bamidbar_13_21-25 | «Recorrieron la tierra desde el desierto de Tzin hasta Rejob, por la entrada de Jamat».       | El recorrido es real y dura cuarenta días.                            |
+| #bamidbar_13_26-29 | «Fluye leche y miel; sin embargo, es fuerte el pueblo».                                       | El informe afirma simultáneamente bondad y obstáculo.                 |
+| #bamidbar_13_30-33 | Caleb dice «subir subiremos y la poseeremos»; los otros dicen «no podremos».                  | Dos respuestas a la misma evidencia, bajo promesa y temor.            |
+
+## 1. La tierra dada y el propósito del recorrido
+
+Eric insiste en la diferencia entre «reconocer» y «hacer un tour». El verbo **לתור**, _latur_, deriva de תור y significa explorar, recorrer o inspeccionar. En 13:2 y 13:17 su fuerza contextual es reunir información sobre una tierra ya prometida; «tour turístico» es una equivalencia pedagógica, no el sentido completo. El título de la clase llama la atención sobre el vínculo con 15:39, donde Israel no debe «explorar» detrás de sus corazones y ojos. La conexión verbal es sugerente y puede orientar la memoria del capítulo, aunque Bamidbar 13 todavía narra el envío y 15:39 formula una advertencia cultual distinta.
+
+El texto dice **אשר אני נתן**, _asher ani noten_, «que Yo estoy dando». El participio de נתן, _noten_, significa dar o entregar y presenta la iniciativa de יהוה. Eric usa ese presente para afirmar que el informe no podía convertir la promesa en una opción de «sí o no». La observación está bien fundada en la frase, pero Devarim 1 recuerda que el pueblo pidió exploradores y Mosheh aprobó la propuesta; por ello no conviene borrar la complejidad narrativa. El capítulo sí prohíbe usar la mala apariencia de la tierra para declarar falsa la palabra recibida.
+
+El mandato de 13:18-20 es concreto. **ראה**, _re'eh_, «ve», pide observar; **חזק**, _jazaq_, «fuerte», califica al pueblo; **מעט** y **רב**, _me'at_ y _rav_, significan poco y mucho; **טובה** y **רעה**, _tovah_ y _ra'ah_, buena y mala. Estas formas no son claves secretas: delimitan las preguntas de la inspección. Eric acierta al decir que la información servía para prepararse, no para negociar si entrarían; esta última formulación es una evaluación teológica del orden del texto, no una cita literal de la intención de cada espía.
+
+## 2. Recorrido, fruto y mapa de los pueblos
+
+Los espías suben por el Néguev, llegan a Hebrón y vuelven con un racimo de uvas llevado entre dos. **עלה**, _alah_, significa subir; la forma narra el desplazamiento desde la región meridional hacia la montaña. **פרי**, _peri_, es fruto; en el contexto el racimo, las granadas y los higos funcionan como evidencia de productividad. La clase recuerda que eran días de primicias de uvas y conecta el fruto con la promesa. Esa conexión es pedagógica; el texto inmediato solo afirma la estación y el objeto llevado.
+
+Bamidbar 13:29 distribuye los pueblos: Amalec en el Néguev; hitita, jebuseo y amorreo en la montaña; cananeo junto al mar y junto al Jordán. El OE conserva **עמלק יושב בארץ הנגב ... והכנעני ישב על הים ועל יד הירדן** y el TTH mantiene las zonas. El cuadro geográfico de la nota no pretende trazar fronteras arqueológicas exactas: los grupos podían solaparse y «cuatro esquinas» es una síntesis espacial. **נגב**, _negev_, es sur o región meridional; **הר**, _har_, montaña; **ים**, _yam_, mar; **יד הירדן**, _yad haYarden_, lado o ribera del Jordán. Son equivalencias contextuales, no una cartografía moderna completa.
+
+## 3. Caleb, Yehoshua y el otro ruaj
+
+El informe negativo reconoce que la tierra fluye leche y miel, pero coloca **אפס**, _efes_, «sin embargo» o «no obstante», antes del temor. Los diez dicen que el pueblo es demasiado fuerte y luego se describen como langostas. La autodescripción **וכן היינו בעיניהם**, _vekhen hayinu be'einehem_, «y así éramos a sus ojos», es una inferencia sobre la mirada ajena, no una medición objetiva. Eric subraya que todos vieron lo mismo, pero respondieron de modo distinto. Esa observación sigue la secuencia narrativa: el contraste no se debe a datos diferentes, sino a cómo pesan la amenaza y la promesa.
+
+Caleb responde **עלה נעלה וירשנו אתה**, _alah na'aleh veyarashnu otah_, «subir subiremos y la poseeremos», y añade **יכול נוכל לה**, _yakhol nukhal lah_, «poder podremos con ella». La repetición verbal comunica resolución; «confianza en uno mismo» sería una lectura equivocada, porque el argumento de Caleb depende de que יהוה está con ellos y la tierra fue dada. Eric conecta esto con Tehilim 16:8 —«pongo a יהוה siempre delante de mí»— y Mishlei 3:5 —«no te apoyes en tu entendimiento». Es una aplicación canónica coherente, pero el capítulo mismo fundamenta la respuesta en la presencia y promesa divinas.
+
+Bamidbar 14:24 describe a Caleb como alguien con **רוח אחרת**, _ruaj ajeret_, «otro espíritu» o «otro ánimo», y que siguió plenamente a יהוה. **רוח**, _ruaj_, normalmente es viento, aliento o espíritu; aquí su fuerza contextual es disposición interior orientada por fidelidad. «Mentalidad positiva» sería demasiado débil; «Espíritu Santo» como identificación técnica sería una ampliación no explícita en este versículo. Eric traduce la diferencia como ver espiritualmente: no consiste en inventar potestades, sino en creer lo que יהוה dijo. Ese límite es una buena corrección pastoral a usos sensacionalistas del lenguaje espiritual.
+
+## 4. Nefilim, hijos de Elohim y límites de la hipótesis
+
+En 13:33 aparece **נפילים**, _nefilim_, y los espías dicen que se veían como langostas. Eric propone que _nefilim_ viene de נפל, _nafal_, «caer», y distingue esa forma de los hijos de Anac, a quienes el informe también presenta como grandes. La observación etimológica es relevante: la forma se relaciona con «caídos» en la discusión léxica, aunque su significado contextual y su relación con Bereshit 6 requieren cautela. El texto de Bamidbar no dice que fueran estatuas, demonios o patronos de Canaán.
+
+La clase menciona un midrash anónimo, tradiciones medievales y una lectura de **בני אלהים**, _bene Elohim_, como herederos de un culto. Es importante preservar la atribución: Eric presenta una fuente antigua cuya fecha y autor no puede fijar, y la conexión con ídolos y potestades queda pendiente. Bereshit 6:4 distingue «nefilim» de los «giborim» o valientes, pero no resuelve por sí solo la identificación propuesta para Bamidbar 13. «Potestad demoníaca» es una aplicación teológica posible dentro del marco de la clase; no es equivalencia exacta de **נפילים**.
+
+Por tanto, la guerra no debe abstraerse en una teoría sobre toda oposición humana. Eric enlaza el episodio con «no tenemos lucha contra carne y sangre» y con la idea de que lo grande ante ojos humanos no limita a Elohim. Como exhortación, puede conservarse. El relato, sin embargo, habla de pueblos, ciudades, descendientes de Anac, fruto y la respuesta de Israel. Una lectura responsable puede reconocer la preocupación espiritual de Eric sin afirmar que Bamidbar 13 diagnostique físicamente una descendencia demoníaca.
 
 ## La promesa no es un informe condicional
 
@@ -89,37 +95,56 @@ Los exploradores no vuelven con un informe simplemente falso. En #bamidbar_13_27
 
 Caleb responde **(עלה נעלה)**, _alah na'aleh_, «subir subiremos». La repetición de עלה, _alah_, verbo de subir o ascender, intensifica la decisión; no niega las ciudades ni convierte la confianza en autosuficiencia. **(יכול נוכל)**, _yakhol nukhal_, repite «poder podremos» y depende del marco de 14:8-9: יהוה está con ellos y no deben rebelarse. Eric aplica esta respuesta a la perseverancia del discípulo; la correspondencia es pedagógica, mientras que la fuerza exacta del pasaje es obedecer la promesa en presencia de un peligro real.
 
-## Léxico base
+## Léxico clave
 
+| Forma          | Transliteración | Sentido normal             | Fuerza contextual                 | Equivalencia                       |
+| -------------- | --------------- | -------------------------- | --------------------------------- | ---------------------------------- |
+| **(לתור)**     | _latur_         | explorar, recorrer         | Inspeccionar la tierra            | «Hacer tour» es pedagógica         |
+| **(נתן)**      | _natan_         | dar, entregar              | יהוה está dando la tierra         | «Prometer» es aproximada           |
+| **(חזק)**      | _jazaq_         | fuerte, firme              | Fortaleza del pueblo observado    | «Invencible» es inexacta           |
+| **(פרי)**      | _peri_          | fruto                      | Evidencia de fertilidad           | Exacta en este contexto            |
+| **(רוח אחרת)** | _ruaj ajeret_   | otro espíritu, otro ánimo  | Disposición fiel de Caleb         | «Espíritu Santo» es ampliación     |
+| **(נפילים)**   | _nefilim_       | forma asociada a «caídos»  | Término del informe de los espías | «Demonios» es hipótesis pedagógica |
+| **(ירש)**      | _yarash_        | poseer, heredar, desposeer | Entrada en la tierra prometida    | «Conquistar» es contextual         |
 
-| Hebreo         | Transliteración (es) | Significado               | Raíz | Sentido de la raíz | Observación                                                  |
-| -------------- | -------------------- | ------------------------- | ---- | ------------------ | ------------------------------------------------------------ |
-| **(הארץ)**     | ha'aretz             | la tierra                 | ארץ  | tierra, territorio | En esta nota suele referirse a la tierra de Israel / Kenaan. |
-| **(נגב)**      | neguev               | sur, región meridional    | נגב  | secar, sur         | Amalek en el neguev.                                         |
-| **(הר)**       | har                  | montaña, región montañosa | הר   | montaña            | Hití, iebusí y emorí en la montaña.                          |
-| **(ים)**       | yam                  | mar, occidente            | ים   | mar                | Kenaaní junto al mar (costa mediterránea).                   |
-| **(יד הירדן)** | yad haIardén         | a la orilla del Jordán    | יד   | mano, lado         | Extremo oriental de la tierra.                               |
+## Mapa de la enseñanza de Eric
+
+| Unidad textual     | Observación concreta de Eric                                                                | Evaluación desde Bamidbar 13                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 13:1-2             | La tierra está siendo dada; el recorrido no decide si יהוה cumplirá.                        | Apoyo textual en **אשר אני נתן**, con la complejidad de Devarim 1 señalada.           |
+| 13:17-25           | _Latur_ se entiende como recorrer; el fruto confirma la productividad de la tierra.         | Apoyo léxico y narrativo; «tour» es una paráfrasis pedagógica.                        |
+| 13:26-33           | Diez y dos ven las mismas ciudades, pueblos y fruto, pero responden distinto.               | Apoyo textual; se conserva el contraste sin atribuirlo solo a psicología moderna.     |
+| 14:24 y conexiones | Caleb tiene otro ruaj porque cree la palabra y no se apoya en la mirada humana.             | Apoyo textual cualificado; no se convierte ruaj en una clave para ver potestades.     |
+| 13:33 y Bereshit 6 | _Nefilim_ se relaciona con «caídos» y con tradiciones sobre culto y potestades.             | Léxico parcialmente apoyado; identificación como estatuas o demonios queda pendiente. |
+| 15:39              | El mandamiento de no explorar detrás de ojos y corazón recuerda el recorrido de los espías. | Conexión verbal y pedagógica, no explicación única de ambas perícopas.                |
 
 ## Referencias judías y fuentes externas
 
-| Fuente         | Referencia                       | Uso en la nota                          | Estado                 |
-| -------------- | -------------------------------- | --------------------------------------- | ---------------------- |
-| Tanaj (TTH/OE) | #bamidbar_13_21, #bamidbar_13_29 | Exploración y distribución de pueblos   | Cotejado               |
-| Josefo         | Ant. (descripción de Kenaan)     | Contexto histórico de los siete pueblos | Pendiente de verificar |
-| Atlas bíblico  | —                                | Ubicación de Tzin, Rejob y Jamat        | Pendiente de verificar |
+| Fuente                                          | Uso                                       | Estado                                        |
+| ----------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
+| Midrash anónimo citado por Eric                 | Explicar _nefilim_ como imágenes de culto | Mención de la clase; fecha y autor pendientes |
+| Malbim y comentaristas lingüísticos mencionados | Transmitir la lectura de _nefilim_        | Pendiente de cotejo directo                   |
+| TTH/OE                                          | Recorrido, mapa y formas hebreas          | Cotejado                                      |
 
 ## Pendiente de verificar
 
-- [ ] Límites exactos del recorrido en #bamidbar_13_21 (Tzin–Rejob–Jamat).
-- [ ] Solapamiento entre pueblos en la tabla (no son compartimentos herméticos).
+- [ ] Identificar el midrash anónimo y verificar la cita exacta atribuida por la clase.
+- [ ] Cotejar la relación entre _nefilim_, Bereshit 6 y los descendientes de Anac en comentarios independientes.
+- [ ] Verificar límites geográficos de Tzin, Rejob y Jamat sin convertir el cuadro en arqueología cerrada.
 
-## Ver también
-
-- [Sodot 7](../besorah/sodot_7.md) — ארבע כנפות y distribución cardinal.
-- [Mateo introducción 2](../besorah/mateo_introduccion_2.md) — contexto del segundo templo y tierra de Israel.
-- #ieshaiahu_11_12 — reunión desde ארבע כנפות הארץ (desarrollado en [Sodot 7](../besorah/sodot_7.md)).
+## Conclusión
 
 Bamidbar 13 enseña que la promesa no desaparece porque la tierra contenga ciudades fortificadas o pueblos fuertes. Los espías recorren, observan y traen fruto; diez convierten la evidencia en un «no podremos», mientras Caleb y Yehoshua responden desde la palabra recibida. Eric aporta una conexión útil entre _latur_, los ojos y el corazón, y otro ruaj como fidelidad práctica. La nota recibe esa exhortación, pero mantiene el límite textual: _nefilim_ no significa automáticamente demonios o estatuas, y el discernimiento espiritual no autoriza a inventar enemigos. La promesa se discierne creyendo a יהוה y caminando en el orden que su palabra establece.
+
+## Cierre textual: memoria que corrige el informe
+
+El final de la unidad muestra que el problema del informe no es simplemente una emoción individual. El OE dice: **וילנו על משה ועל אהרן כל בני ישראל**, «murmuraron contra Mosheh y contra Aharón todos los hijos de Israel» (#bamidbar_14_2); el TTH conserva la murmuración comunitaria. **(לון)**, _lun_, significa murmurar, pasar la noche o quejarse; aquí su fuerza contextual es una protesta persistente contra la conducción recibida, no solo «sentirse triste». «Procesar el miedo» es una aplicación pedagógica, no una traducción del verbo. Eric acierta al tratar el temor como un juicio sobre la promesa cuando se reconoce que el sujeto termina hablando contra Mosheh y contra יהוה.
+
+Yehoshua y Caleb responden: «La tierra por la que pasamos para explorarla es tierra muy, muy buena» y «no temáis al pueblo de la tierra, porque nuestro pan son ellos» (#bamidbar_14_7-9). **(טרף)**, _taraf_, significa desgarrar o devorar; la imagen de «pan» no autoriza a deshumanizar al enemigo, sino que expresa la confianza en que no podrá resistir la presencia de יהוה. El contexto mismo explica la metáfora: «su protección se ha apartado de ellos, y יהוה está con nosotros». La exposición de Eric sobre otro _ruaj_ queda mejor anclada así: no es una técnica para negar la dificultad, sino una disposición que escucha la promesa y no se rebela.
+
+El mandato de los flecos retoma la responsabilidad de la mirada. OE y TTH dicen que Israel debe ver los flecos, recordar los mandamientos y hacerlos, «y no explorar detrás de vuestro corazón y detrás de vuestros ojos» (#bamidbar_15_39). **(זכר)**, _zakar_, significa recordar; **(עשה)**, _asah_, hacer o realizar; la cadena verbal convierte la memoria en práctica. La conexión que Eric establece entre _latur_ y los ojos es real como eco léxico, pero el texto no declara que todo reconocimiento de la tierra sea transgresión. La equivalencia «recordar para sentir» es incompleta: aquí recordar conduce a hacer, y hacer conduce a santidad.
+
+Así, la secuencia textual corrige dos reducciones opuestas. La primera sería espiritualizar los _nefilim_ hasta borrar pueblos, ciudades y fruto; la segunda sería reducir la fe a optimismo hasta borrar el peligro. **(נשא)**, _nasa_, significa levantar, llevar o soportar; en 13:23 los exploradores llevan el racimo, mientras en 14:33 el pueblo carga las consecuencias de su infidelidad. La misma historia pasa de una evidencia levantada para mostrar la bondad a una carga nacida de la rebelión. La lectura de Eric sobre perseverar conserva fuerza cuando termina en memoria, obediencia y santidad, no en negar los hechos.
 
 ## 5. Del informe al temor y al recordatorio de los flecos
 
@@ -145,6 +170,7 @@ La comparación con 14:8-9 vuelve explícita la condición: «Si יהוה se agr
 - **Bamidbar 13:26-33 — informe y temor.** La clase destaca que el problema fue aceptar las apariencias como veredicto contra la promesa; la nota lo evalúa como **inferencia calificada**, sostenida por el contraste entre el informe y la respuesta de Caleb.
 - **Bamidbar 14:6-9 — otro ruaj.** Eric presenta la respuesta de Caleb y Yehoshua como fidelidad práctica; la nota conserva la aplicación con **apoyo textual y aclaración léxica**, pues el pasaje concreta esa disposición en no rebelarse y no temer.
 - **Bamidbar 15:37-41 — memoria visible.** Eric conecta los flecos con recordar y hacer los mandamientos; la nota lo trata como **conexión verbal real y relación pedagógica**, no como identidad literaria absoluta con la exploración.
+- **Bamidbar 13:17-25 y Yehoshua 1 — esfuerzo y evidencia.** Eric exhorta a perseverar en la tarea recibida; la nota lo conserva como **aplicación pedagógica cualificada**, porque el capítulo pide observar, recorrer y traer fruto sin prometer que no existan obstáculos.
 
 ## Revisión de la secuencia y del argumento
 
@@ -156,8 +182,49 @@ La respuesta de Yehoshua y Caleb en 14:7-9 confirma el límite de la aplicación
 
 Así, el mapa de Eric queda mejor delimitado: _latur_ conecta exploración y mirada; _ruaj ajeret_ describe la disposición fiel de Caleb; y los _nefilim_ pertenecen al lenguaje temeroso del informe. Ninguno de esos términos autoriza a sustituir el relato por una teoría de potestades. La perícopa pide discernir una palabra recibida frente a una interpretación que, aun reconociendo el fruto, convierte el miedo en sentencia.
 
+## Ver, esforzarse y no negar el obstáculo
+
+Eric aplica también el llamado de Yehoshua a «esforzarse» y «fortalecerse» a la perseverancia de quienes obedecen aunque el camino sea incómodo. La aplicación es coherente con la exhortación posterior de Yehoshua 1, pero Bamidbar 13 debe conservar su propio vocabulario. En el mandato de exploración, **והתחזקתם**, _vehitjazaktem_, significa «fortalecéos» o «mostrad fortaleza»; su fuerza contextual es pedir información y traer fruto, no ordenar que los espías fabriquen una victoria imaginaria. La equivalencia «hacer un esfuerzo» es pedagógica y parcial.
+
+La secuencia del capítulo mantiene juntas observación y confianza. El OE dice que los exploradores regresaron «al cabo de cuarenta días» y que mostraron el fruto; luego el informe afirma: «fluye leche y miel; sin embargo, es poderoso el pueblo». **חזק**, _jazaq_, normalmente significa ser fuerte o hacerse firme; aquí califica al pueblo y no debe diluirse en «apariencia». Eric acierta al rechazar el temor como veredicto final, pero la fe de Caleb no elimina ciudades fortificadas, pueblos ni geografía: interpreta esos datos bajo la frase «יהוה está con nosotros» (#bamidbar_14_9). Así, «discernir espiritualmente» queda anclado en creer la palabra y obedecerla, no en dejar de mirar los hechos.
+
+## La respuesta de Caleb no niega la tierra difícil
+
+La transcripción muestra que Eric no presenta el recorrido como una encuesta para decidir si la promesa seguía vigente. Después de leer que los espías debían observar la tierra, el pueblo y sus cultivos, la clase vuelve a la diferencia entre información y veredicto: podían describir ciudades fortificadas sin convertir esa descripción en un «no» contra יהוה. Bamidbar 13 confirma esa distinción en el orden del informe. Los hombres dicen que la tierra es buena y luego introducen **אפס**, _efes_, «sin embargo»; el término normalmente marca una excepción o limitación. Aquí su fuerza no cancela el fruto, sino que muestra cómo los diez dejan que el obstáculo domine la conclusión. «Pero» es una equivalencia exacta en la relación discursiva; «duda espiritual» es una aplicación pedagógica.
+
+La respuesta de Caleb, **עלה נעלה**, _alah naaleh_, repite la raíz עלה, «subir». La repetición es intensificadora: «subir, subiremos». No promete que las ciudades estén abiertas ni que el pueblo observado sea débil. Su argumento se completa en 14:8-9: יהוה se complace en Israel, está con ellos y el pueblo de la tierra no debe ser temido. Eric relaciona esta confianza con las promesas que son «sí y amén» en 2 Corintios 1:18-20; esa lectura pertenece a la recepción apostólica posterior, no es una traducción de **עלה נעלה**. Como evaluación, la conexión conserva bien el principio de que la promesa gobierna la respuesta, siempre que no borre la observación concreta de los espías ni la responsabilidad de obedecer.
+
+## 6. La comisión, el informe y la responsabilidad de escuchar
+
+La marcha argumental comienza antes de que los hombres vean la tierra. El OE y el TTH presentan a יהוה hablando a Mosheh y ordenando: «Envía para ti hombres y que exploren la tierra de Kenaan, que Yo doy a los hijos de Israel» (#bamidbar_13_1-2). La forma **שלח**, _shalaj_, significa enviar o despachar; en este contexto establece una misión bajo autoridad, no una expedición autónoma. «Delegar» es una equivalencia **aproximada**: el verbo incluye la iniciativa de quien envía y la responsabilidad de quienes van. Eric conserva bien la diferencia entre recibir una tarea y convertirla en una encuesta sobre la fidelidad de יהוה.
+
+La lista de nombres de 13:4-16 también limita una lectura puramente abstracta. **נשיא**, _nasi_, significa jefe, príncipe o dirigente; aquí identifica a un representante de cada tribu. «Experto militar» sería una equivalencia **pedagógica** no demostrada por la forma. El texto no dice que cada hombre poseyera la misma función profesional, sino que fueron escogidos de entre los jefes. La observación de Eric sobre responsabilidad comunitaria tiene apoyo en esa representación, pero no permite atribuir a cada nombre una biografía que el capítulo no ofrece.
+
+Mosheh les dice que suban por el Néguev y por la montaña y que examinen la tierra, sus habitantes, ciudades, árboles y fruto (#bamidbar_13_17-20). **חקר**, _jaqar_, significa investigar, examinar o escudriñar; cuando la forma aparece en la tradición de la clase como «analizar», su equivalencia es **aproximada**, no una licencia para especular. El encargo reúne datos favorables y desfavorables. Eric acierta al insistir en que la fe bíblica no necesita fingir que las ciudades no están fortificadas; el problema llega cuando una descripción se transforma en veredicto contra la palabra recibida.
+
+El recorrido termina con una evidencia compartida. «Llegaron hasta el valle de Eshkol y cortaron de allí una rama y un racimo de uvas» (#bamidbar_13_23), dice el OE; el TTH conserva el fruto llevado entre dos. **אשכול**, _eshkol_, significa racimo o conjunto; aquí designa una prueba visible de fertilidad. La clase relaciona el fruto con la bondad prometida y con la necesidad de mostrar a la comunidad lo que יהוה había dado. Esa conexión posee **apoyo textual** en el informe, mientras que convertir cada fruto en un símbolo doctrinal fijo sería una equivalencia **pedagógica**, no exacta.
+
+## 7. Del informe público a la murmuración
+
+Cuando los hombres vuelven, el texto mantiene juntos dos datos: «fluye leche y miel» y «el pueblo es fuerte» (#bamidbar_13_27-28). **ספר**, _safar_, significa contar, enumerar o relatar; la forma **ויספרו**, _vayesapperu_, presenta un reporte público. No significa todavía interpretar espiritualmente los hechos. Eric observa que los diez no inventan la bondad de la tierra, sino que permiten que el obstáculo gobierne la conclusión. La observación es **textualmente apoyada** por el orden del relato.
+
+El giro **אפס**, _efes_, normalmente comunica «sin embargo», «no obstante» o una limitación. Su fuerza contextual es introducir las ciudades fortificadas y a los descendientes de Anac sin borrar la frase anterior. «La promesa fue anulada» sería una equivalencia **inexacta**. Caleb responde con **עלה נעלה**, _alah naaleh_: «subir subiremos». La repetición del verbo **עלה**, _alah_, significa subir o ascender y funciona aquí como intensificación; «subiremos sin dificultad» sería una paráfrasis **pedagógica** que el versículo no afirma.
+
+La comunidad, sin embargo, escucha el informe como sentencia. El OE dice: «Y alzó toda la asamblea su voz y lloró el pueblo en aquella noche» (#bamidbar_14_1); el TTH conserva el llanto y la murmuración. **לון**, _lun_, significa murmurar, quejarse o pasar la noche; en este contexto nombra una protesta persistente, no solo una emoción pasajera. Eric aplica la escena a la tendencia de convertir el temor en doctrina. La aplicación es **pedagógica**, pero el texto la fundamenta cuando la queja se dirige contra Mosheh, Aharón y finalmente contra יהוה.
+
+Yehoshua y Caleb no niegan el peligro: dicen que la tierra es «muy, muy buena» y que no se debe temer al pueblo porque «su protección se ha apartado de ellos, y יהוה está con nosotros» (#bamidbar_14_7-9). **מרד**, _marad_, significa rebelarse; aquí contrasta la resistencia a יהוה con el temor a los habitantes. «Mentalidad positiva» es una equivalencia **pedagógica** demasiado débil. El otro _ruaj_ se manifiesta en escuchar, no rebelarse y obedecer; no es una técnica para dejar de ver ciudades, pueblos o responsabilidad.
+
+## 8. Memoria visible y evaluación final de la conexión de Eric
+
+El capítulo no termina conceptualmente en el informe. En 15:37-41, el OE y el TTH mandan hacer flecos para verlos, recordar todos los mandamientos y hacerlos, «y no explorar detrás de vuestro corazón y detrás de vuestros ojos». **ציצת**, _tsitsit_, significa fleco o borla; su fuerza contextual es un recordatorio visible de obediencia. «Amuleto espiritual» sería una equivalencia **inexacta**. Eric relaciona este mandato con la exploración de 13 mediante la raíz **תור**, _tur_, explorar o recorrer. La conexión verbal es real y su uso pastoral es útil, pero no prueba que la misión de los espías fuera ya una transgresión.
+
+La secuencia de los verbos ofrece la corrección: **זכר**, _zakar_, significa recordar; **עשה**, _asah_, hacer o realizar; **קדש**, _qadosh_, significa ser santo o estar apartado. En 15:39-40 la memoria conduce al hacer y el hacer a la santidad. La clase de Eric acierta cuando transforma «otro ruaj» en fidelidad práctica; la nota debe rechazar, sin embargo, una equivalencia **pedagógica** que reduzca el pasaje a «ver cosas espirituales». El texto pide que la mirada sea gobernada por mandamientos.
+
+Por tanto, la evaluación final queda diferenciada. Es **exacto** que la tierra es presentada como dádiva, que el recorrido produce fruto, que el informe reconoce bondad y peligro, y que Caleb y Yehoshua responden desde la presencia de יהוה. Es **aproximado** conectar _latur_ con un «tour» o usar el capítulo como imagen general de perseverancia. Es **hipotético** convertir **נפילים**, _nefilim_, en demonios, estatuas o una clase definida de potestades: el término aparece en el informe y su etimología asociada con «caídos» no resuelve por sí sola su referente histórico. La enseñanza de Eric conserva fuerza cuando permanece anclada en el texto, la memoria y la obediencia.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Shlach Lecha (2017) The Nephilim and the Defamation of the Land](https://www.youtube.com/watch?v=R2ViDhA4RQQ) (source_id: `youtube:R2ViDhA4RQQ`).
-- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
+- [Parashat Shlach Lecha (2017) — The Nephilim and the Defamation of the Land](https://www.youtube.com/watch?v=R2ViDhA4RQQ) (`source_id`: `youtube:R2ViDhA4RQQ`).
+- [Parashat Shláj Nm13-15 — The mark of another Ruach](https://www.youtube.com/watch?v=lnNEKuqlFhg) (`source_id`: `youtube:lnNEKuqlFhg`).
+- Esta nota organiza y contrasta las exposiciones; no presenta la transcripción automática como cita literal.
