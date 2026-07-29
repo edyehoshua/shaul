@@ -112,12 +112,23 @@ La exposición conecta después la permanencia sacerdotal con su límite: mientr
 | **(σκηνή)**      | _skēnē_         | tienda, tabernáculo                     | Describe el santuario del primer orden; «santuario» es glosa contextual del conjunto.                     |
 | **(συνείδησις)** | _syneidēsis_    | conciencia, conocimiento interior       | Señala la dimensión interior que los ritos anteriores no perfeccionaban.                                  |
 | **(διόρθωσις)**  | _diorthōsis_    | corrección, enderezamiento              | Marca un tiempo de ordenamiento; «reforma» es aproximada y no implica desprecio de la Torah.              |
-| **(λύτρωσις)**   | _lytrōsis_      | liberación, rescate, redención          | La obra del Mesías libera; «redención» es aproximada y no fija un modelo único.                           |
+| **(λύτρωσις)**   | _lytrōsis_      | liberación, rescate, redención           | La obra del Mesías libera; «redención» es aproximada y no fija un modelo único.                           |
 | **(καθαρίζω)**   | _katharizō_     | limpiar, purificar                      | La sangre limpia la conciencia para servir; la fuerza cultual y moral se mantienen juntas.                |
 | **(μεσίτης)**    | _mesitēs_       | mediador, intermediario                 | Yehoshua hace efectiva la promesa del pacto; glosa ordinaria relativamente exacta.                        |
+| **(λατρεύω)**    | _latreuō_       | servir, rendir culto                     | La purificación tiene finalidad activa: servir al Elohim vivo.                                            |
 | **(κοσμικός)**   | _kosmikos_      | relativo al mundo, mundano              | El contraste «terrenal/celestial» es contextual; no prueba por sí mismo inferioridad moral.               |
 | **(עולם)**       | _olam_          | duración indefinida, era, tiempo oculto | La asociación de Eric con «perpetuo» y «eterno» es aproximada y queda pendiente en su historia semántica. |
 | **(ἅπαξ)**       | _hapax_         | una sola vez                            | Marca la singularidad no repetible de la entrega del Mesías; equivalencia exacta en el argumento.         |
+
+## La transición sacerdotal en la exposición de Eric
+
+Eric abre la sesión recordando que Hebreos 8 había tratado una actualización del sacerdocio: el Mesías ofrece el sacrificio perfecto, es superior al sacerdocio de Aharón y permanece como mediador. Luego presenta Hebreos 9 como la consecuencia de esa transición. En su lectura, el «primer pacto» de 9:1 se entiende dentro del orden sacerdotal temporal que la carta acaba de describir, no como una negación del pacto de Avraham. Esta es una reconstrucción atribuible de la clase; el versículo local afirma directamente: **הן גם־הברית הראשונה גם לה היו דיני עבודה ומקדש בארץ**, «también el primer pacto tenía ordenanzas de servicio y un santuario terrenal».
+
+La clase se detiene además en dos términos que sostienen su argumento. **κοσμικός** (_kosmikos_) significa perteneciente al mundo, al orden creado o terrenal; en 9:1 califica el santuario, y su relación con «terrenal» es **aproximada pero fuerte**, no una declaración de que el santuario fuera falso. **αἰών** (_aiōn_) significa edad, era o duración indefinida; aunque la sesión conecta **ברית כהנת עולם** (_berit kehunat olam_) con un sacerdocio de tiempo oculto o indefinido, esa expresión hebrea no aparece en Hebreos 9:1. La relación con «temporal» es **pedagógica y cualificada**: el contexto de 8:13–9:1 permite hablar de un orden envejecido, pero no convierte la glosa de _olam_ en una traducción obligatoria en todos los pasajes.
+
+Eric también observa que algunas traducciones hacen explícita la palabra «tabernáculo» al verter 9:1, mientras que la forma griega puede leerse de manera más breve. El texto local conserva la idea central de **δικαιώματα λατρείας** (_dikaiōmata latreias_), «ordenanzas de servicio», junto con el santuario de este orden. **δικαίωμα** (_dikaiōma_) significa ordenanza, requisito o acto justo; aquí su fuerza es normativa dentro del servicio cultual, no una prueba de que la primera administración careciera de valor. Esta observación de traducción es atribuible a la clase y debe mantenerse separada de la afirmación bíblica explícita.
+
+La exposición finalmente relaciona el sacerdocio con la aparición del Mesías: mientras él comparece ante Elohim por nosotros, ejerce la mediación; cuando aparece como rey, Eric propone que esa mediación ya no se describe del mismo modo. Hebreos 9 sí afirma **νῦν ἐμφανισθῆναι τῷ προσώπῳ τοῦ θεοῦ ὑπὲρ ἡμῶν** (_nyn emphanisthēnai tō prosōpō tou theou hyper hēmōn_), «comparecer ahora ante el rostro de Elohim por nosotros», y anuncia que aparecerá nuevamente para salvación. La relación con una cronología completa de funciones es **inferencial**; la presencia actual, la ofrenda única y la aparición futura son **textuales**.
 
 ## Mapa de la enseñanza de Eric
 
