@@ -214,6 +214,14 @@ Eric afirma que la reconciliación no debe usarse como permiso para continuar en
 
 Por eso «una sin la otra no tiene sentido» puede conservarse como resumen de la clase con una precisión final. La sangre trata la Santidad, la Tienda y el altar; la confesión y el macho cabrío vivo representan la salida de las iniquidades; la humillación y el reposo hacen participar a toda la asamblea. **(אחד)**, _ejad_, significa uno o único; no es necesario introducirlo como prueba de que los dos animales sean idénticos. La unidad del día y de la reconciliación es **exacta** como descripción narrativa; la afirmación de que ambos animales son dos partes de una sola obra mesiánica es **teológica y aproximada**, dependiente de la lectura canónica posterior.
 
+## La confesión delimita la aplicación ética
+
+Las exposiciones que Eric reúne bajo los source IDs `youtube:8Btk2jATjfk`, `youtube:Y97CMPXJ4cA` y `youtube:stsUp5v3SXE` enfatizan que la reconciliación no debe convertirse en permiso para continuar en el pecado. La observación conserva una dirección ética reconocible, pero Vaikra 16 la expresa mediante el rito: Aharón confiesa **את כל עונתם** —«todas sus iniquidades»— sobre el macho cabrío vivo (#vaikra_16_21), y la asamblea aflige sus _nefesh_ y cesa de trabajar (#vaikra_16_29-31). El texto no formula todavía una teoría completa de perseverancia; por eso «vida reconciliada» es una **inferencia teológica**, mientras «confesar», «enviar», «afligir» y «no trabajar» son acciones **textualmente exactas** del capítulo.
+
+Aquí conviene distinguir **(וידוי)**, _vidui_, sustantivo para confesión o reconocimiento verbal, de **(כפר)**, _kafar_, hacer reconciliación en la construcción sacerdotal. _Vidui_ nombra la declaración de las iniquidades; _kafar_ nombra la acción ritual que trata la Santidad y a la asamblea. «Confesar es expiar» sería una equivalencia **pedagógica** demasiado fuerte: el capítulo relaciona ambas acciones, pero no las convierte en sinónimos. Del mismo modo, **(עון)**, _avon_, significa iniquidad, culpa o torcimiento; su fuerza aquí es aquello que Aharón declara y el animal carga, no una definición filosófica de culpa heredada.
+
+Esta precisión mantiene la observación real de Eric sin sustituirla por una cautela genérica. Los source IDs pertenecen a varias exposiciones del mismo ciclo y la nota conserva sus énfasis comunes; la evaluación contra OE y TTH limita la aplicación: el rito enseña una respuesta ordenada a la culpa, pero el capítulo no autoriza borrar las diferencias entre sacrificio por el pecado, confesión, envío, purificación y reposo.
+
 - [ ] Comparar el rango de _Azazel_ en traducciones antiguas y comentaristas sin presentarlo como conclusión del hebreo.
 - [ ] Verificar por separado las afirmaciones calendáricas y astronómicas de las clases de Pésaj.
 - [ ] Contrastar con Hebreos 5–10 la relación entre el rito anual de Vaikra 16 y la lectura mesiánica de Eric.
