@@ -286,6 +286,14 @@ El tercer movimiento vuelve a la confesión apostólica. En #romanim_10_9, la fo
 <!-- prettier-ignore -->
 Finalmente, #romanim_10_9 y #maasav_2_24 deben mantenerse juntos sin borrar la diferencia verbal. **ἤγειρεν**, _ēgeiren_, «levantó», en la confesión de la resurrección presenta a Elohim como sujeto; la clase lo relaciona con #yojanan_10_17-18, donde Yehoshua dice que tiene autoridad para entregar y volver a tomar su vida. La conclusión de Eric —que la resurrección no debe imaginarse como un poder separado de la identidad divina del Mesías— es una síntesis doctrinal atribuible. El texto local apoya la combinación de resurrección, autoridad y vida entregada, pero no permite eliminar todas las distinciones entre sujeto gramatical, Padre, Hijo y lenguaje de envío.
 
+## Control final: la autoridad se prueba en todo Marcos 2
+
+La nota debe seguir la perícopa completa antes de derivar una doctrina sobre Torah o libertad. En 2:1-12, **ἀφίημι**, _aphiēmi_, «perdonar, dejar ir o remitir», aparece en la declaración sobre las transgresiones; su equivalencia con **(סלח)**, _salaj_, «perdonar», es funcional y aproximada, no una retroversión demostrada. **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica lo que el relato atribuye al Ben HaAdam «en la tierra». La orden **ἔγειρε**, _egeire_, «levántate», y la acción visible del hombre no compran el perdón: lo confirman narrativamente ante la multitud.
+
+En 2:13-17, **ἀκολουθέω**, _akoloutheō_, «seguir», gobierna el llamado de Levi; en 2:18-22, **νυμφίος**, _nymphios_, «novio o esposo», y **καινός**, _kainos_, «nuevo o renovado en cualidad», explican la imagen de la presencia del Mesías y de los odres. Estos términos no autorizan a identificar toda práctica anterior con una tradición inválida. La aplicación de Eric sobre renovación queda probada sólo como analogía cuando se conserva la situación concreta del ayuno y la imagen de recipientes incompatibles.
+
+En 2:23-28, **ἔξεστιν**, _exestin_, «es lícito o está permitido», formula la cuestión sobre las espigas; **κύριος**, _kyrios_, «señor o dueño», califica al Hijo del Hombre respecto del Shabbat, y **ἐγένετο**, _egeneto_, «fue hecho o llegó a ser», introduce el propósito de la ordenanza. La comparación con **(שבת)**, _Shabbat_, «reposo», ilumina el trasfondo, pero no sustituye la sintaxis griega. Marcos termina presentando una autoridad que perdona, llama, discierne y restaura; la lectura de Eric sobre una Torah que permanece queda apoyada cuando la autoridad mesiánica interpreta para la vida y no se convierte en abolición general.
+
 ## Conclusión
 
 El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam demuestra en la tierra que posee autoridad para perdonar: habla, levanta y devuelve al hombre al camino. Irmeiahu explica la profundidad de esa restauración: יהוה pone su Torah en el interior y vuelve a llamar pueblo a quienes eran incapaces de restaurarse por sí mismos.

@@ -265,6 +265,14 @@ Por tanto, Efesios 2 une gracia, memoria, paz, acceso y morada. La unidad no nac
 - [ ] Examinar el verbo de #colossians_1_20 y su relación con #colossians_1_21-22 antes de sustituir «reconciliar» por «regenerar» o «hacer todo de nuevo» como significado definitivo.
 - [ ] Cotejar las afirmaciones de la undécima clase sobre la carne incorruptible del Mesías y el alcance de la renovación de «todo» con la sintaxis y los contextos de #ephesians_2_14-16 y #colossians_1_20-22.
 
+## Control final: la gracia desemboca en una morada reconciliada
+
+Efesios 2 debe conservar una sola progresión. En 2:1-10, **νεκρούς**, _nekrous_, «muertos», describe la condición introducida por delitos y pecados; **συνεζωοποίησεν**, _synezōopoiēsen_, «vivificó juntamente», atribuye la iniciativa a Elohim; y **περιπατήσωμεν**, _peripatēsōmen_, «caminemos», expresa la finalidad de las buenas obras. La equivalencia con **(חיים)**, _jayim_, «vida», puede orientar la comparación semítica, pero no convierte la metáfora en diagnóstico ni las obras en causa de la salvación.
+
+En 2:11-18, **μνημονεύετε**, _mnēmoneuete_, «recuerden», mantiene visible la antigua lejanía; **νυνὶ δὲ**, _nyni de_, «pero ahora», introduce el giro; y **ἐγενήθητε**, _egenēthēte_, «fueron hechos o llegaron a ser», presenta la cercanía como condición recibida. Después **ποιήσας**, _poiēsas_, «haciendo», forma de los dos un solo hombre nuevo, mientras **καταργήσας**, _katargēsas_, «dejando sin efecto o desactivando», describe la acción sobre la enemistad dentro de la perícopa. Ninguno de esos verbos equivale por sí solo a abolir toda instrucción divina. **προσαγωγή**, _prosagōgē_, «acceso o introducción», verifica el resultado: ambos llegan al Padre en un solo Rúaj.
+
+En 2:19-22, **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», reemplazan las categorías de extranjería; **θεμέλιος**, _themelios_, «fundamento», y **ἀκρογωνιαῖος**, _akrogōniaios_, «piedra angular», sitúan la edificación sobre lo que el texto nombra; y **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», la presenta como obra corporativa en curso. La relación con **(שלום)**, _shalom_, «paz, integridad o bienestar», es una equivalencia de campo aproximada para **εἰρήνη**, no una sustitución léxica. La síntesis de Eric —un solo pueblo y morada del poder de Elohim— queda apoyada cuando conserva memoria, dos grupos, un cuerpo, un acceso y una casa.
+
 ## Conclusión
 
 Efesios 2 no construye la identidad del creyente sobre una superioridad étnica o una obra propia. Recuerda la lejanía y afirma el acercamiento realizado en Yehoshua el Mesías; por ello anuncia paz, reconciliación, acceso común y una casa donde Elohim habita. Las ampliaciones históricas, léxicas y psicológicas de la clase pueden servir como preguntas de estudio, pero deben conservarse bajo la medida del texto.
