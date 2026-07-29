@@ -148,6 +148,22 @@ La prohibición no cancela la visión ni la transmisión. יהוה manda a Mois�
 
 Así, el juicio y el favor permanecen juntos. Moisés no cruza el Jordán, pero no queda excluido de la palabra ni del trabajo de preparar al sucesor. La conexión de Eric con una herencia celestial puede funcionar como lectura canónica **posterior y pedagógica**; no reemplaza la tierra visible que Moisés recibe orden de contemplar. El texto inmediato enseña que una petición no concedida puede quedar dentro de una relación de pacto cuando el oyente sigue escuchando, ve lo que יהוה le muestra y entrega fielmente el encargo.
 
+## La gracia se oye en una palabra que no puede modificarse
+
+Devarim 4:1–9 concreta qué significa participar de la gracia después de que la súplica de Moisés recibe un límite. El OE dice: **ועתה ישראל שמע אל החקים ואל המשפטים אשר אנכי מלמד אתכם לעשות למען תחיו**; el TTH: «Y ahora, Israel, escucha los estatutos y los juicios que yo les enseño para hacer, para que vivan». **(חיה)**, _hayah_, significa vivir, permanecer con vida o tener vida; en **למען תחיו**, _lema'an tikhyu_, la fuerza contextual une vida con la escucha obediente, no con una inmortalidad abstracta. «Prosperar» es una equivalencia pedagógica posible, pero más estrecha que «vivir».
+
+El límite siguiente es doble: **לא תספו על הדבר ולא תגרעו ממנו**, «no añadirán a la palabra ni quitarán de ella» (4:2). **(יסף)**, _yasaf_, significa añadir, continuar o aumentar; en **תספו**, _tosifu_, prohíbe incorporar mandatos como si la autoridad del maestro fuera fuente del pacto. **(גרע)**, _gara‘_, significa disminuir, retirar o quitar; **תגרעו**, _tigreu_, prohíbe suavizar la exigencia para hacerla más cómoda. «No cambien la doctrina» es una equivalencia pedagógica; el sentido inmediato regula la palabra enseñada a Israel. Eric acierta al presentar la gracia como participación responsable, pero el texto exige que esa participación permanezca sometida al mandato recibido.
+
+La vida se explica mediante adhesión: **ואתם הדבקים ביהוה אלהיכם חיים כלכם היום**, «ustedes que se adhieren a יהוה su Elohim están vivos todos hoy» (4:4). **(דבק)**, _davaq_, significa adherirse, pegarse o mantenerse unido; en **הדבקים**, _hadeveqim_, su fuerza es una relación perseverante con יהוה, no una sensación interior momentánea. «Intimidad espiritual» es una equivalencia aproximada; puede servir como aplicación sólo si conserva la imagen de apego y la consecuencia práctica de vivir.
+
+## Voz, imagen y memoria: la forma del pacto
+
+Devarim 4:15–16 explica por qué la gracia recibida no autoriza a fabricar una figura. El TTH dice: «Pues no vieron ninguna figura el día que habló יהוה a ustedes en Horeb desde en medio del fuego; no sea que se corrompan y se hagan una imagen». **(תמונה)**, _temunah_, significa figura, forma o representación; en el contexto designa una forma visible que Israel podría convertir en objeto de culto. «Toda imagen artística» sería una extensión inexacta: el argumento se dirige a la representación cultual de יהוה y a la idolatría que sigue.
+
+El texto primero afirma que Israel oyó una voz y no vio figura. **(קול)**, _qol_, significa voz, sonido o ruido; aquí su fuerza es la palabra audible que establece el pacto. «Revelación interior» es pedagógica y puede desviar el énfasis: la voz viene desde el fuego y queda vinculada a una orden histórica. Eric relaciona esta ausencia de imagen con el rechazo de una religión manipulable; el pasaje lo sostiene, siempre que no se convierta en una prohibición indiscriminada de toda representación ni se borre el objeto específico del mandato.
+
+La memoria vuelve a ser parte de la obediencia. **(זכר)**, _zakhar_, significa recordar, traer a memoria o mencionar; en el bloque de Devarim 4 y 6 la forma contextual exige conservar lo visto, enseñarlo a hijos y nietos y relatar la salida de Egipto. «Recordar emocionalmente» es pedagógico; el texto reclama una memoria que gobierna las acciones. Por eso el Shema no es una fórmula aislada: **ואהבת**, _veahavta_, de **(אהב)**, _ahav_, significa amar, querer o mostrar afecto leal; aquí su fuerza alcanza corazón, nefesh y todo el recurso de la persona. «Sentir cariño» sería insuficiente. Eric conserva bien la unión entre gracia, amor y práctica: el pueblo ama al que lo redimió y enseña esa memoria en la casa, en el camino, al acostarse y al levantarse.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar gramáticas hebreas para la construcción de Devarim 3:24 y la referencia de “tu siervo”.
