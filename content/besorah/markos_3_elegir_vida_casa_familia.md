@@ -183,6 +183,16 @@ La escena cierra el hilo de la casa. Una casa dividida no permanece, pero Yehosh
 | Tradiciones de exorcismo | Sin referencia precisa                          | La clase afirma que algunos exorcistas pensaban operar mediante espíritus subordinados.      | Pendiente de verificar; no usar como hecho histórico  |
 | Hipótesis lingüística    | Original hebreo/arameo de Marcos                | Las expresiones semíticas se interpretan como huellas de una traducción posterior al griego. | Hipótesis de la clase; pendiente de análisis textual  |
 
+## Reparación dirigida: la casa se prueba por sus acciones (3:1-35)
+
+La lectura de Eric puede resumirse como «escoger la vida», pero Marcos 3 exige seguir cómo esa elección se vuelve visible. En 3:1-6, **ἔξεστιν**, _exestin_, «es lícito o está permitido», introduce la pregunta; **ἀγαθοποιῆσαι**, _agathopoiēsai_, «hacer el bien», y **σῶσαι**, _sōsai_, «salvar», se contraponen a **κακοποιῆσαι**, _kakopoiēsai_, «hacer el mal», y **ἀποκτεῖναι**, _apokteinai_, «matar». La comparación con **ובחרת בחיים**, _uvajarta bajayim_, «escoge la vida», de Devarim 30:19 es una conexión temática atribuible a la clase, no una cita formal; la narración sí demuestra que la restauración de una vida interpreta el conflicto mejor que la acusación.
+
+El capítulo vuelve a probar la autoridad por una secuencia, no por títulos. **ἐποίησεν δώδεκα**, _epoiēsen dōdeka_, «estableció a doce», queda explicado por **ἵνα ὦσιν μετ’ αὐτοῦ**, «para que estén con él», y **ἵνα ἀποστέλλῃ**, _hina apostellē_, «para que los envíe». Eric insiste en que la presencia precede al envío; el texto lo confirma. **ἐξουσία**, _exousia_, «autoridad o potestad», es recibida dentro de esa convocatoria. Su equivalencia con **שליח**, _shaliaj_, «enviado o representante», es funcional y aproximada: no autoriza a importar toda una teoría rabínica al pasaje.
+
+La acusación de los escribas también se juzga por sus objetos. **Βεελζεβούλ**, _Beelzeboul_, es el nombre griego de la acusación; **παραβολαῖς**, _parabolais_, «comparaciones», introduce la respuesta de Yehoshua. Reino, casa y hombre fuerte forman una sola refutación: **διαμερισθῇ**, _diameristhē_, «sea dividido», describe una casa que no puede permanecer, mientras **δήσῃ**, _dēsē_, «ate», precede al saqueo de la casa del fuerte. Eric puede aplicar la imagen a la incoherencia de una casa que coopera con su propio destructor, pero el texto no convierte la metáfora en un manual de guerra espiritual.
+
+Finalmente, **βλασφημήσῃ**, _blasphēmēsē_, «injurie o hable ofensivamente», recibe su alcance narrativo de 3:30: «porque decían: tiene un espíritu impuro». El pasaje no declara imperdonable toda duda, temor o pregunta; condena la inversión consciente de la obra de liberación que el relato pone delante de ellos. En 3:35, **ποιεῖ**, _poiei_, «hace», presenta la voluntad de Elohim como práctica visible. Así, la nota conserva la intuición de Eric —vida, autoridad y casa— y la prueba en el orden de Marcos: sanar, estar con Yehoshua, recibir autoridad, discernir la obra y hacer la voluntad.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la explicación gramatical de **(ובחרת בחיים)** en #devarim_30_19; la fuerza exhortativa del contexto no debe reducirse a llamar la forma simplemente “futuro”.
