@@ -124,6 +124,18 @@ El objetivo aparece en 41:36: «Y sea la comida para depósito para la tierra po
 
 La respuesta de Faraón reconoce el resultado: «¿Acaso encontraremos como este hombre, en quien está el espíritu de Elohim?» (41:38). **(רוח)**, _ruaj_, significa viento, aliento o espíritu; «inspiración» es **aproximada** y **pedagógica** aquí. La frase no autoriza a convertir cada capacidad política en prueba de una investidura divina; en el relato señala que Faraón percibe una diferencia en Iosef después de haber oído la interpretación y el plan. La clase puede hablar de sabiduría dada por Elohim, pero el texto mantiene esa afirmación dentro de esta escena concreta.
 
+## Esperar no es abandonar la responsabilidad
+
+En la clase **youtube:sdJBSJjFIns**, Eric se detiene en el intervalo de dos años entre la interpretación de los sueños del copero y el llamado de Iosef ante Faraón. La observación —que el tiempo de espera no cancela lo que יהוה ha mostrado— debe conservarse como lectura de la exposición, no como una cronología inventada: Bereshit 41:1 dice literalmente **ויהי מקץ שנתים ימים** («y ocurrió al cabo de dos años»), y el narrador conecta ese lapso con el sueño del rey. **(קץ)**, _qets_, significa fin, extremo o término; aquí su fuerza contextual es el cierre de un período, mientras «temporada de preparación» es una equivalencia **pedagógica**, no exacta.
+
+La espera tampoco convierte a Iosef en un intérprete pasivo. Cuando llega el momento, Faraón manda llamarlo, Iosef se afeita, cambia sus vestidos y entra (#bereshit_41_14). **(חלף)**, _jalaf_, significa pasar, cambiar o suceder; en el cambio de vestidos describe una acción narrativa concreta, no una transformación espiritual automática. Eric relaciona esa transición con estar dispuesto a hablar el asunto difícil. La relación es **teológica y aproximada**: el texto afirma el cambio de ropa y la comparecencia, y luego muestra que Iosef responde sin atribuirse el don.
+
+La frase que gobierna la escena sigue siendo «no está en mí; Elohim responderá el bienestar de Faraón» (#bereshit_41_16). La forma **(ענה)**, _anah_, significa responder o contestar; su fuerza aquí es ofrecer una respuesta pertinente a una crisis pública. «Resolverlo todo» sería una equivalencia **pedagógica** demasiado amplia. La clase acierta al desconfiar de una interpretación fabricada después de los hechos, pero el criterio del capítulo es más preciso: la palabra de Iosef se verifica por su coherencia con la revelación y por el plan que preserva alimento.
+
+El pasaje también permite evaluar la afirmación de que el conocimiento debe servir a otros. Iosef propone almacenar una quinta parte, y Faraón lo pone sobre la tierra (#bereshit_41_33-41). **(חמש)**, _jamesh_, significa poner en proporción de cinco o tomar una quinta parte; «diezmar» no es una equivalencia exacta. La medida es concreta y limitada al hambre anunciada. Así, la observación de Eric recibe apoyo cuando vincula sabiduría con responsabilidad pública, pero no autoriza convertir la política de Iosef en una norma económica universal.
+
+Esta ampliación conserva la secuencia que la exposición destaca: tiempo que llega a su término, llamado, palabra humilde, interpretación y administración. La aplicación «la demora también forma» es **pedagógica**; las afirmaciones textuales exactas son que pasaron dos años, Iosef fue llamado, atribuyó la respuesta a Elohim y propuso un plan para que la tierra no pereciera por el hambre (#bereshit_41_36).
+
 ## Pendiente de verificar
 
 - [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
