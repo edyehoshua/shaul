@@ -262,6 +262,19 @@ La secuencia final también corrige una lectura que separara la experiencia del 
 
 En 9:35, **(διακονεῖν)**, _diakonein_, «servir», responde a la discusión sobre quién es grande; en 9:42, **(σκανδαλίσῃ)**, _skandalisē_, «haga tropezar», traslada la responsabilidad al cuidado de los pequeños; y en 9:50, **(εἰρηνεύετε)**, _eirēneuete_, «mantengan la paz», cierra el recorrido. La observación de Eric sobre la sal como integridad comunitaria se ajusta a esa progresión: no es una sustancia secreta ni una autorización para controlar a otros. La relación con **(מלח)**, _melaj_, «sal», y **(שלום)**, _shalom_, «paz o bienestar», es una comparación pedagógica; Vaikra 2:13 ilumina el trasfondo, pero Marcos conserva su propio argumento.
 
+Los cuatro `source_ids` públicos de esta nota (`youtube:3UA4ZtIYBpI`, `youtube:tgSr43Ivl60`, `youtube:ZSJOKcCqycU` y `youtube:q2Uoc19Zkms`) pertenecen a este único estudio canónico de Marcos 9. La sesión 29 se conserva como alcance documentado por su título porque su transcripción no está disponible; no se atribuyen a Eric argumentos que no puedan comprobarse. El JSON local de Marcos gobierna el texto base, mientras Vaikra 2:13 y las conexiones con Éxodo 33 funcionan como fuentes comparativas delimitadas.
+
+## Control de dependencia: la grandeza se prueba protegiendo a los pequeños (9:33-50)
+
+La discusión sobre quién es grande no queda resuelta únicamente por el mandato de servir. En 9:36, **ἐναγκαλισάμενος**, _enankalisamenos_, «abrazando», y **ἐδέξατο**, _edexato_, «recibió», convierten al niño colocado en medio en una acción visible de acogida; en 9:37, **δέχηται**, _dechētai_, «reciba», extiende esa acogida al que recibe a uno de los pequeños en el nombre de Yehoshua. La observación de Eric sobre el servicio como responsabilidad queda así anclada en una práctica concreta: la grandeza se mide por recibir al vulnerable, no por reclamar una posición.
+
+El episodio del hombre que no seguía al grupo corrige el monopolio antes de que la advertencia se vuelva disciplina. **κωλύομεν**, _kōlyomen_, «impedimos», y **ἀκολουθεῖ**, _akolouthei_, «sigue», muestran que Iojanán intentaba cerrar el acceso por una pertenencia visible; Yehoshua responde que quien no está contra ellos está a favor de ellos. Esa palabra no elimina el discernimiento, porque inmediatamente aparece **σκανδαλίσῃ**, _skandalisē_, «haga tropezar», aplicado al daño contra los pequeños. La equivalencia con **(מכשול)**, _mikhshol_, «tropiezo u obstáculo», es comparativa y aproximada; el texto gobierna la advertencia.
+
+Las imágenes de mano, pie y ojo deben leerse como una progresión de responsabilidad propia. **σκανδαλίζει**, _skandalizei_, «hace tropezar», y **ἀπόκοψον**, _apokopson_, «corta», usan lenguaje severo para exigir que el discípulo trate sin concesiones aquello que lo conduce al mal; no ordenan mutilar a otro ni autorizan violencia espiritual contra los vulnerables. El fuego y la sal de 9:49-50 llevan la disciplina hacia una comunidad preservada: **ἔχετε**, _echete_, «tengan», la sal en ustedes y **εἰρηνεύετε**, _eirēneuete_, «mantengan la paz», entre ustedes. Eric relaciona esa sal con Vaikra 2:13; el trasfondo ilumina la imagen, pero no reemplaza la secuencia local ni resuelve por sí solo la cláusula difícil de 9:49.
+
+Así, 9:33-50 desarrolla el segundo anuncio de entrega en términos comunitarios. El primero será servidor, recibe al pequeño, no impide sin causa y corta el tropiezo propio antes de exigir a otro. La observación de Eric sobre una sal que conserva integridad y produce _shalom_ queda probada por el cierre imperativo; la disciplina solo cumple su propósito cuando desemboca en paz entre los discípulos.
+
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
