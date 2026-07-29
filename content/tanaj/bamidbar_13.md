@@ -239,16 +239,6 @@ El verbo **(שלח)**, _shalaj_, significa enviar, despachar o dejar ir. En la c
 
 La responsabilidad se ve también en el verbo **(ספר)**, _safar_, contar, enumerar o relatar. En **(ויספרו לו)**, _vayesapperu lo_, los exploradores cuentan a Mosheh y a la asamblea lo que vieron; su fuerza contextual es un informe público antes de que el pueblo lo convierta en murmuración. Eric preserva correctamente la diferencia entre evidencia y veredicto. El texto no exige ocultar ciudades fortificadas ni pueblos fuertes; exige escuchar esos datos dentro de la promesa, del fruto traído y de la presencia de יהוה. Así la fe de Caleb no es negación de la investigación, sino una evaluación obediente del informe.
 
-## Reparación focal: el informe debe conservar la promesa y el obstáculo
-
-La enseñanza de Eric sobre no convertir el recorrido en una votación queda más precisa al seguir los sujetos del relato. OE dice **וישלח אתם משה ממדבר פארן על פי יהוה** y TTH conserva que Mosheh los envió «por boca de יהוה» desde el desierto de Paran. **(שלח)**, _shalaj_, significa enviar, despachar o dejar ir; aquí la forma presenta una comisión bajo autoridad, no una expedición autónoma. «Delegación» es una equivalencia **aproximada**: comunica la misión, pero no elimina la responsabilidad del enviado ni la autoridad de quien envía.
-
-Luego el mandato mezcla observación favorable y desfavorable: **וראיתם את הארץ מה הוא ואת העם הישב עליה החזק הוא הרפה** —«veréis la tierra, cómo es, y el pueblo que habita en ella, si es fuerte o débil» (13:18). **(ראה)**, _ra'ah_, significa ver, mirar o percibir; **(חזק)**, _jazaq_, significa fuerte, firme o poderoso; **(רפה)**, _rafah_, significa débil, flojo o debilitado. «Diagnóstico espiritual» es una aplicación **pedagógica**; la afirmación exacta es que la misión exige describir condiciones reales. Eric conserva bien que la fe no necesita fingir que las ciudades están abiertas.
-
-El reporte no borra la bondad de la tierra. Los exploradores dicen **וגם זבת חלב ודבש הוא וזה פריה**, «y también mana leche y miel, y este es su fruto» (13:27), antes de introducir **אפס**, _efes_, «sin embargo» o «no obstante». **(ספר)**, _safar_, significa contar o relatar; **(אפס)**, _efes_, limita o introduce una excepción. La observación de Eric sobre que el temor reorganiza la evidencia recibe **apoyo textual cualificado**: la frase negativa no niega el fruto, sino que deja que el obstáculo gobierne la conclusión. «La promesa falló» sería una equivalencia **inexacta**.
-
-Caleb responde **עלה נעלה וירשנו אתה**, «subir subiremos y la poseeremos» (13:30). **(ירש)**, _yarash_, significa poseer, heredar o desposeer; aquí su fuerza depende de que יהוה está dando la tierra y no de autosuficiencia militar. «Conquistar» es una equivalencia **contextual** que puede ocultar esa dependencia. Así, la evaluación de Eric queda graduada: es **exacto** que el informe debía conservar datos y que la promesa no era una opción sometida al miedo; es **aproximado** usar «tour» para _latur_; y es **hipotético** convertir _nefilim_ en una clase demoníaca definida. La obediencia de Caleb no niega el obstáculo: lo escucha sin convertirlo en veredicto contra la palabra de יהוה.
-
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
