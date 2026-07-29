@@ -239,6 +239,16 @@ El verbo **(שלח)**, _shalaj_, significa enviar, despachar o dejar ir. En la c
 
 La responsabilidad se ve también en el verbo **(ספר)**, _safar_, contar, enumerar o relatar. En **(ויספרו לו)**, _vayesapperu lo_, los exploradores cuentan a Mosheh y a la asamblea lo que vieron; su fuerza contextual es un informe público antes de que el pueblo lo convierta en murmuración. Eric preserva correctamente la diferencia entre evidencia y veredicto. El texto no exige ocultar ciudades fortificadas ni pueblos fuertes; exige escuchar esos datos dentro de la promesa, del fruto traído y de la presencia de יהוה. Así la fe de Caleb no es negación de la investigación, sino una evaluación obediente del informe.
 
+## El informe no decide la dádiva: ve, cuenta y responde
+
+La exposición de Eric sobre el «otro _ruaj_» se entiende mejor si se conserva la diferencia entre la misión y la reacción de la asamblea. El OE dice **וראיתם את הארץ מה הוא** —«y veréis la tierra, qué es»— (#bamidbar_13_18), y luego **ומה הארץ השמנה הוא אם רזה** —«y qué tal es la tierra, si es fértil o pobre». **(ראה)**, _raah_, significa ver, mirar o percibir; aquí su fuerza contextual es examinar lo que יהוה manda examinar, no inventar una visión interior. **(שמן)**, _shamen_, significa gordo, fértil o abundante; en la pregunta por la tierra, «fértil» es una equivalencia contextual aproximada que describe productividad, no una promesa desligada de la observación.
+
+El mandato también pregunta por las ciudades: **ומה הערים אשר הוא יושב בהנה הבמחנים אם במבצרים** —«y qué son las ciudades en que habita, si en campamentos o en fortalezas» (#bamidbar_13_19). **(מחנה)**, _majaneh_, significa campamento o lugar de acampada; **(מבצר)**, _mivtsar_, significa fortaleza o plaza fortificada. La clase no necesita negar el obstáculo para defender la promesa: el texto pide traer precisamente esta información. «Barreras espirituales» sería una aplicación pedagógica, no la equivalencia exacta de **מבצרים**.
+
+Cuando el informe llega a la comunidad, los verbos cambian de observar a interpretar. Los exploradores dicen **לא נוכל לעלות אל העם כי חזק הוא ממנו** —«no podremos subir contra el pueblo, porque es más fuerte que nosotros» (#bamidbar_13_31). **(עלה)**, _alah_, significa subir o ascender; aquí nombra entrar en la tierra por la ruta indicada. **(חזק)**, _jazaq_, significa ser fuerte, firme o poderoso; su fuerza contextual reconoce una amenaza real. El problema textual no es haber visto fuerza, sino convertirla en el veredicto final contra la dádiva.
+
+Caleb responde **עלה נעלה וירשנו אתה** —«subir subiremos y la poseeremos» (#bamidbar_13_30). **(ירש)**, _yarash_, significa poseer, heredar o desposeer; en esta forma su fuerza es recibir la tierra bajo la promesa de יהוה, no conquistar por autosuficiencia. «Optimismo» es una equivalencia pedagógica demasiado débil. El _ruaj ajeret_ de 14:24 se vuelve visible en una respuesta que mira los mismos datos, pero se rehúsa a dejar que los datos ocupen el lugar de la palabra. Esta precisión conserva la observación de Eric y mantiene el orden de la perícopa: comisión, examen, informe y respuesta.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
