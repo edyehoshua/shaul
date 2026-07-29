@@ -118,6 +118,14 @@ Por eso la lectura de Eric sobre orden comunitario recibe apoyo directo, con un 
 
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
 
+## La luz no convierte al servidor en su propia fuente — vv. 1-4, 20-26
+
+La imagen de las lámparas debe conservar su dirección. OE dice **אל מול פני המנורה יאירו שבעת הנרות**, «hacia la faz de la Menoráh alumbrarán las siete lámparas», y TTH mantiene que las lámparas deben alumbrar hacia la faz del candelero. **(מול)**, _mul_, significa frente, enfrente o en dirección a; aquí fija una relación espacial entre la llama y la Menoráh. «Hacia el mundo» sería una equivalencia inexacta si se atribuyera al verso. Eric puede aplicar la orientación a un testimonio que no se centra en el servidor, pero la fuerza inmediata del mandato es ritual y concreta.
+
+El capítulo evita después que la metáfora de luz se vuelva autonomía. **(לקח)**, _laqaj_, significa tomar o recibir; en la forma **ולקחת את הלוים**, «tomarás a los levitas», señala selección para una tarea ordenada. **(הניף)**, _henif_, significa mecer, mover o presentar; en los vv. 11 y 13 describe la presentación pública de los levitas delante de יהוה. «Investir de poder» es una equivalencia pedagógica, no el sentido normal de la forma. La comunidad pone sus manos, Aharón los presenta y יהוה los recibe: la luz apunta al centro del servicio, pero el servidor permanece receptor de una función.
+
+El relevo final confirma el mismo límite. **(שמר)**, _shamar_, significa guardar, custodiar u observar; en 8:26 la asistencia de los levitas a sus hermanos tiene la fuerza de una responsabilidad vigilada, no de una jerarquía sin término. **(משא)**, _massa_, significa carga o labor de llevar; aplicada a la «carga» espiritual de un líder, la equivalencia es pedagógica, mientras el contexto habla de trabajo levítico. La observación de Eric sobre orden y responsabilidad queda, por tanto, bien apoyada cuando se formula así: יהוה orienta la luz, purifica al servidor, lo recibe mediante la comunidad y también determina cuándo deja la labor pesada. No se trata de fabricar brillo propio, sino de servir dentro de una forma recibida.
+
 ## Sustitución que conserva la memoria — vv. 14-19
 
 La afirmación de Eric de que el servidor recibe una tarea y no una gloria privada se vuelve especialmente clara en la explicación de la sustitución. יהוה dice: **כי לי כל בכור ביום הכתי כל בכור בארץ מצרים הקדשתי אתם לי** (8:17), «porque Mío es todo primogénito; el día que golpeé a todo primogénito en la tierra de Mitzráim, los consagré para Mí». El TTH conserva la relación entre el golpe en Mitzráim y la pertenencia de los primogénitos. Bamidbar 8 no borra esa memoria al establecer a los leviím; la convierte en la razón explícita de su servicio representativo.
