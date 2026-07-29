@@ -171,6 +171,16 @@ La respuesta posterior de Yaakov también tiene un límite. En 28:18–19 levant
 
 Así, la secuencia completa afina la tesis de Eric: bendición y envío, salida vulnerable, visión recibida, promesa de custodia y voto. La escalera no reemplaza el camino, y el diezmo no reemplaza la obediencia; ambos quedan dentro de una respuesta a una palabra que tomó la iniciativa.
 
+## Reparación focal: la visión no cancela la geografía del camino
+
+La fuente asignada `youtube:X0hILB8r8N8`, «Y salió» y «La Escalera», debe evaluarse siguiendo el movimiento de la perícopa. OE dice **ויצא יעקב מבאר שבע וילך חרנה** (#bereshit_28_10): Yaakov sale de Beersheva y va hacia Jarán. **(יצא)**, _yatsa_, significa salir o partir; **(הלך)**, _halakh_, significa ir o caminar. Sus sentidos normales son geográficos, y «despertar espiritual» es una aplicación **pedagógica**, no una traducción de las formas. Eric acierta al tratar la salida como el comienzo de una experiencia acompañada, siempre que la experiencia no borre el viaje real del fugitivo.
+
+En 28:12 la escalera no es fabricada por Yaakov. **(סלם)**, _sulam_, significa escalera; en la visión conecta la tierra y el cielo como imagen recibida. **(עלה)**, _alah_, significa subir o ascender, y **(ירד)**, _yarad_, bajar o descender; ambos verbos describen el movimiento de los mensajeros, no una técnica humana para obtener acceso. «Puente al cielo» sería una equivalencia **inexacta**. El título público de la fuente permite conservar el énfasis en la escalera, pero el texto limita su fuerza: Yaakov duerme, ve y recibe la palabra; no construye la conexión.
+
+La promesa interpreta la visión antes del voto. יהוה dice **והנה אנכי עמך ושמרתיך בכל אשר תלך** (#bereshit_28_15), «he aquí, Yo estoy contigo y te guardaré dondequiera que vayas». **(שמר)**, _shamar_, significa guardar, custodiar u observar; su fuerza contextual es protección durante el trayecto. **(שוב)**, _shuv_, significa volver o hacer volver; la promesa incluye el regreso a la tierra. La observación de Eric sobre un camino acompañado recibe apoyo textual, pero «prosperidad automática» sería una inferencia **inexacta**: la custodia prometida no elimina conflicto, trabajo ni espera.
+
+La respuesta de Yaakov confirma el orden. **וידר**, _vayidor_, es una forma de נדר, _nadar_, «hacer un voto», y **עשר אעשרנו**, _aser asrenu_, repite la raíz de diezmar. La décima parte aparece después de la promesa y dentro de la petición de pan, vestido y retorno en paz; «pagar para activar la presencia» contradice el orden narrativo. Eric conserva un punto válido al leer el diezmo como respuesta comprometida, pero la equivalencia exacta del capítulo es más sobria: la presencia es iniciativa de יהוה y el voto es la respuesta situada de Yaakov.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

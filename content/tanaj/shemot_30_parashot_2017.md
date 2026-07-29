@@ -163,6 +163,14 @@ La segunda transición es corporal. OE dice **ורחצו מים ולא ימתו*
 
 Finalmente, 30:32 y 30:37 repiten que el aceite y el incienso no serán hechos «para ustedes» según su composición. **(רקח)**, _raqaj_, significa preparar o mezclar como perfumista; su fuerza contextual se refiere a una receta cultual definida. La prohibición de reproducir no implica que la materia sea mágica: manifiesta que la santidad pertenece a la orden de יהוה. Así, «levantar la cabeza» significa recibir reconocimiento bajo responsabilidad; no significa subir por encima del orden.
 
+## Reparación focal: el registro recibe una finalidad, no una autonomía
+
+La fuente asignada `youtube:8cLCP_e_2MI`, «Levantar la cabeza», permite volver a leer el encabezamiento de 30:11–16 sin separarlo de su propósito. El OE dice **ונתנו איש כפר נפשו ליהוה בפקד אתם**, «cada hombre dará una reconciliación por su vida a יהוה al registrarlos»; TTH conserva la relación entre el registro, la contribución y el servicio. **(פקד)**, _paqad_, significa visitar, atender, encargar o pasar revista; en **בפקד**, _befaqed_, su fuerza contextual es registrar al pueblo para una responsabilidad concreta. «Contar para controlar» sería una equivalencia **inexacta** si elimina el destino cultual del dinero.
+
+La contribución es igual: «el rico no dará más y el pobre no dará menos» (30:15). **(עשיר)**, _ashir_, significa rico, y **(דל)**, _dal_, significa pobre o débil; las formas nombran posiciones sociales reales, pero el procedimiento no permite que el estatus altere el medio shekel. «Igual valor espiritual» es una aplicación **pedagógica**; la afirmación exacta es que cada persona registrada entrega la misma cantidad para el servicio y el memorial delante de יהוה. Eric acierta al leer el levantamiento como reconocimiento, siempre que el reconocimiento permanezca unido a responsabilidad común.
+
+El capítulo vincula ese memorial con la Tienda: **ונתת אתו על עבודת אהל מועד**, «lo darás para el servicio de la Tienda de la Reunión» (30:16). **(זכרון)**, _zikaron_, significa recuerdo o memorial; su fuerza contextual es hacer que la contribución represente a Israel delante de יהוה, no comprar protección individual. **(עבודה)**, _avodah_, significa trabajo o servicio; aquí designa la labor cultual sostenida por el fondo. La observación de Eric recibe apoyo textual cualificado: levantar la cabeza no es elevar al individuo por encima de la comunidad, sino incorporarlo a un servicio recibido, igualado y limitado por el mandato.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
