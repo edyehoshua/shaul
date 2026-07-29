@@ -34,6 +34,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=g3NfiksYo50"
   - "https://www.youtube.com/watch?v=zSJes_lSWbE"
+  - "https://www.youtube.com/watch?v=1TSSvIKzEzQ"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/bereshit.json"
   - "docs/scriptures/tth/json/tehilim.json"
@@ -41,6 +42,7 @@ translation: "[TTH]"
 source_ids:
   - "youtube:g3NfiksYo50"
   - "youtube:zSJes_lSWbE"
+  - "youtube:1TSSvIKzEzQ"
 ---
 
 # Tesis
@@ -49,7 +51,7 @@ Marcos 10 ordena el discipulado alrededor de una entrega que no puede ser compra
 
 ## Alcance de la nota
 
-Esta nota sigue todo Marcos 10 en el orden del texto local TTH. Reúne las partes 32 y 33 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**. La parte 32 retoma el divorcio (10:1-12), desarrolla 10:13-23 y corrige la imagen de la aguja; la 33 continúa con el hombre de muchas posesiones, la imposibilidad humana de salvarse y la promesa a quienes dejan bienes o vínculos por la Besorah. Sus observaciones se presentan como exposición atribuida y se contrastan con el texto; las secciones sin detalle de clase se desarrollan desde la Escritura local.
+Esta nota sigue todo Marcos 10 en el orden del texto local TTH. Reúne las partes 32, 33 y 34 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**. Las partes 32–33 retoman el divorcio (10:1-12), desarrollan 10:13-31 y corrigen la imagen de la aguja; la parte 34 continúa en 10:32-45 y enlaza el anuncio repetido de la muerte con la petición de puestos de gloria. Sus observaciones se presentan como exposición atribuida y se contrastan con el texto; las secciones sin detalle de clase se desarrollan desde la Escritura local.
 
 ## Hoja de comparación
 
@@ -110,6 +112,15 @@ Inmediatamente Yehoshua se adelanta hacia Jerusalén y anuncia entrega, burla, a
 
 Por eso **(בן האדם)** explica su misión: no vino a ser servido, sino a servir y dar su vida como **(λύτρον)** para muchos. La grandeza no es ausencia de autoridad, sino rechazo de dominar como los gobernantes de las naciones. El servicio que Marcos exige no es una etiqueta humilde para mantener el control; es una vida ordenada por la entrega del Mesías.
 
+<!-- prettier-ignore -->
+La parte 34 insiste en que Yehoshua vuelve a anunciar su muerte y resurrección antes de llegar a Ierushaláim (#markos_10_32-34). Eric contrapone ese anuncio a las imágenes apócrifas de un Mesías-superhéroe que vence con fuego o una mirada; la clase usa esa comparación para insistir en que la madurez debe recibir al Mesías que muere y se levanta. Marcos sí repite la entrega, la burla, los azotes, la muerte y el levantamiento; la afirmación sobre qué textos apócrifos concretos alimentaron esas imágenes queda pendiente y no se usa como evidencia histórica.
+
+<!-- prettier-ignore -->
+Iaacob e Iojanán piden sentarse a la derecha y a la izquierda «en tu gloria» (#markos_10_35-40). Eric lee la petición como deseo de dirigir el juicio y la contrasta con la respuesta de Yehoshua: no saben qué piden. El texto permite afirmar ambición de posición, pero no especifica que imaginaran literalmente un puesto en cielo e infierno. La copa y la inmersión que Yehoshua pregunta si pueden recibir (**ποτήριον**, _potērion_, copa; **βάπτισμα**, _baptisma_, inmersión o bautismo) nombran participación en su sufrimiento; no funcionan como contrato para obtener un asiento.
+
+<!-- prettier-ignore -->
+El verbo **κατακυριεύω**, _katakyrieuō_, significa dominar o enseñorearse sobre alguien y aparece en el contraste con los gobernantes de las naciones (#markos_10_42). **Μεγας**, _megas_, «grande», y **διάκονος**, _diakonos_, «servidor», reordenan la escala: quien quiera ser grande sirve, y quien quiera ser primero es siervo de todos. Esta equivalencia española es directa en el contexto, mientras que relacionarla automáticamente con todo uso hebreo de «siervo» sería solo pedagógico. La observación de Eric queda probada en la secuencia: el anuncio de entrega precede la corrección de la ambición, y el servicio culmina en **λύτρον**, _lytron_, rescate o precio de liberación, sin que el término resuelva por sí solo todo modelo de expiación.
+
 ## BarTimai ve y sigue por el camino (10:46-52)
 
 A la salida de Ierijó, BarTimai no acepta el silenciamiento de la multitud. Su grito «Hijo de David» reconoce una esperanza mesiánica; su petición es concreta: «que vea». Yehoshua pregunta la misma pregunta que hizo a Iaacob e Iojanán (#markos_10_36, 51). Ellos pidieron posiciones; el ciego pide visión. El contraste prepara al lector para revisar qué desea realmente recibir.
@@ -138,6 +149,7 @@ El capítulo interpreta su propia salida: la promesa de casas y familia incluye 
 - **Marcos 10:13-16 — siervos y reino:** Eric acentúa la recepción sin rango; la nota lo apoya con la indignación de Yehoshua y califica las edades de mayoría como color histórico.
 - **Marcos 10:17-27 — posesiones y aguja:** la clase distingue bondad de Elohim, amor al dinero y «cuerda» frente a camello; la nota lo ancla en 10:18-25 y rechaza biografías no dichas del rico.
 - **Marcos 10:28-52 — promesa, servicio y camino:** la parte 33 aplica el dejarlo todo y el seguimiento; la nota lo sitúa bajo el anuncio de entrega, el rescate para muchos y BarTimai.
+- **Marcos 10:32-45 — anuncio, gloria y servicio:** la parte 34 contrasta las expectativas espectaculares sobre el Mesías con su muerte anunciada y la petición de los hijos de Zebedeo; la nota sostiene la ambición explícita, califica los detalles inferidos y prueba el giro hacia servicio y rescate.
 
 ## Pendiente de verificar
 
@@ -156,6 +168,7 @@ Marcos 10 no permite separar vida perdurable, alianza, comunidad y camino de la 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Marcos, parte 32: 10:13-23, divorcio, el joven rico, la aguja y el camello](https://www.youtube.com/watch?v=g3NfiksYo50) (`source_id`: `youtube:g3NfiksYo50`).
 - Video: [El Evangelio según Marcos, parte 33: capítulo 10, continuación sobre el joven rico](https://www.youtube.com/watch?v=zSJes_lSWbE) (`source_id`: `youtube:zSJes_lSWbE`).
+- Video: [El Evangelio según Marcos, parte 34: 10:32–11:11, Nazareno y Nétzer](https://www.youtube.com/watch?v=1TSSvIKzEzQ) (`source_id`: `youtube:1TSSvIKzEzQ`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también

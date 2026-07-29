@@ -48,6 +48,7 @@ sources:
   - "https://www.youtube.com/watch?v=pANyVs_rkmU"
   - "https://www.youtube.com/watch?v=zaeuqpePDmc"
   - "https://www.youtube.com/watch?v=dh5VYLTt5v4"
+  - "https://www.youtube.com/watch?v=bwPzt_r3XY0"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/devarim.json"
   - "docs/scriptures/tth/json/vaikra.json"
@@ -58,6 +59,7 @@ source_ids:
   - "youtube:pANyVs_rkmU"
   - "youtube:zaeuqpePDmc"
   - "youtube:dh5VYLTt5v4"
+  - "youtube:bwPzt_r3XY0"
 ---
 
 # Tesis
@@ -66,7 +68,7 @@ Marcos 12 no usa las controversias del templo para cerrar discusiones académica
 
 ## Alcance de la nota
 
-- La nota organiza las partes 37, 38 y 39 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**: matrimonios y resurrección (12:18-27), Shemá y Salmo 110 (12:28-37) y su continuación.
+- La nota organiza las partes 36–39 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**: la transición desde la higuera y la parábola de la viña (11:20–12:12), matrimonios y resurrección (12:18-27), Shemá y Salmo 110 (12:28-37) y su continuación.
 - Eric observa que el error de los tzedukim es ignorar Escritura y poder; que la pregunta por el mandamiento principal examina conocimiento y peso de las mitzvot; y que el Shemá y el Salmo 110 interpelan la identidad del Mesías.
 - La transcripción automática no se trata como cita literal. Afirmaciones sobre herodianos, “dos poderes”, Zóhar, genealogías y una interpretación exclusivamente no humana del Mesías quedan delimitadas.
 - Los textos de la hoja de comparación se tomaron del corpus local TTH. La parte inicial del capítulo (12:1-17) no cuenta aquí con clase exclusiva adicional y no se inventa.
@@ -124,6 +126,17 @@ La pregunta del dueño —qué hará— recibe una respuesta de juicio y transfe
 La siguiente prueba cambia del homicidio alegórico a la moneda visible. Perushim y siervos de Horodós elogian a Yehoshua con palabras que aparentan respeto y preguntan si es lícito pagar impuesto al César (#markos_12_13-15). Yehoshua conoce su **(ὑπόκρισις)**, _hypokrisis_, «hipocresía o actuación fingida», y pide un denario. La moneda tiene imagen e inscripción; por eso la respuesta «den al César lo del César y a Elohim lo de Elohim» distingue una obligación reclamada por la moneda de la lealtad que no puede agotarse en ella. **(εἰκών)**, _eikōn_, «imagen», puede compararse con **(צלם)**, _tselem_, pero la comparación hebrea no debe presentarse como si Marcos hubiera citado Bereshit en este versículo.
 
 El orden inicial prepara los temas posteriores. La viña muestra administradores que traicionan al dueño y al hijo; el denario muestra una pregunta política que intenta atrapar al maestro; las escenas de resurrección, Shemá, señorío y ofrenda continúan preguntando quién recibe fidelidad y cómo se reconoce una autoridad legítima. Esta conexión literaria es segura como progresión del capítulo; no convierte el impuesto en una explicación exhaustiva de la relación entre todos los gobiernos y la comunidad.
+
+## La viña, la higuera y los administradores que rechazan al heredero (12:1-12)
+
+<!-- prettier-ignore -->
+La parte 36 retoma la higuera seca y avanza a la parábola de la viña (#markos_11_20-12_12). Eric llama la atención sobre la fidelidad de Elohim y sobre el paralelismo entre una higuera sin fruto y unos labradores que reciben una viña, golpean a los siervos y finalmente matan al hijo amado. El texto local sí enlaza las escenas por su posición y sí presenta una responsabilidad progresiva; no autoriza, sin una fuente adicional, a convertir cada detalle de la parábola en un mapa de instituciones contemporáneas.
+
+<!-- prettier-ignore -->
+La observación más concreta de la clase es que la viña sigue siendo Israel aunque la administración sea entregada a otros (#markos_12_9). La frase de Yehoshua habla de quitar la viña a los labradores y darla a otros: permite distinguir el terreno de la administración homicida, y protege contra la conclusión de que Elohim abandona automáticamente a Israel. **ἀμπελών**, _ampelōn_, significa viña o plantación; su comparación con **כרם**, _kerem_, es aproximada y recuerda el trasfondo profético, pero no demuestra por sí sola una retroversión hebrea.
+
+<!-- prettier-ignore -->
+La parábola termina con el heredero arrojado fuera y muerto, y con la piedra rechazada convertida en cabeza del ángulo (#markos_12_6-11). **κληρονόμος**, _klēronomos_, «heredero», expresa el cálculo de los labradores; **ἀποκτείνω**, _apokteinō_, «matar», muestra que el conflicto no es una diferencia administrativa neutral. La lectura de Eric sobre dirigentes que reciben juicio encuentra apoyo en la reacción de quienes entienden que la parábola habla de ellos (#markos_12_12), mientras que las afirmaciones históricas sobre la identidad exacta de cada grupo quedan calificadas.
 
 ## Tzedukim, levirato y el Elohim de los vivos (12:18-27)
 
@@ -202,6 +215,7 @@ Así, el capítulo progresa de una esperanza corregida por Escritura y poder, a 
 
 ## Mapa de la enseñanza de Eric
 
+- **Marcos 11:20–12:12 — fidelidad, higuera y viña:** la parte 36 relaciona la higuera seca con la viña y sostiene que la viña permanece vinculada a Israel aunque otros reciban la administración; la nota apoya la progresión narrativa, distingue terreno y labradores y califica los detalles históricos no documentados.
 - **Marcos 12:18-27 — tzedukim y resurrección:** la parte 37 expone el levirato como trampa y la respuesta por Escritura y poder; la nota lo ancla en Devarim 25 y Shemot 3, y califica el alcance de «como los ángeles».
 - **Marcos 12:28-34 — Shemá y prójimo:** Eric presenta el mandamiento mayor como una prueba de conocimiento y obediencia; la nota lo sostiene con Devarim y Vayiqra, y califica sus expansiones léxicas.
 - **Marcos 12:35-37 — Señor de David:** la clase conecta el Salmo 110 con una lectura unitaria de la identidad del Mesías; la nota conserva la pregunta narrativa y limita la conclusión metafísica no demostrada por el término **(אדני)**.
@@ -223,6 +237,7 @@ Marcos 12 une poder de resurrección, Shemá y medida de la ofrenda. Los tzeduki
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El evangelio según Marcos, parte 36: capítulos 11–12, fidelidad de Dios y parábola](https://www.youtube.com/watch?v=bwPzt_r3XY0) (`source_id`: `youtube:bwPzt_r3XY0`).
 - Video: [El Evangelio según Marcos, parte 37: capítulo 12, matrimonios aquí y en el mundo venidero](https://www.youtube.com/watch?v=pANyVs_rkmU) (`source_id`: `youtube:pANyVs_rkmU`).
 - Video: [Evangelio según Marco, parte 38: cap. 12:28-37, el Shmá y el Salmo 110](https://www.youtube.com/watch?v=zaeuqpePDmc) (`source_id`: `youtube:zaeuqpePDmc`).
 - Video: [Evangelio según Marcos, parte 39: YHWH–Yehoshua, Señor y Dios](https://www.youtube.com/watch?v=dh5VYLTt5v4) (`source_id`: `youtube:dh5VYLTt5v4`).
