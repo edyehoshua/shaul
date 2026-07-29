@@ -106,6 +106,20 @@ Asimismo, **δοκιμή**, _dokimē_, significa carácter probado o resultado d
 
 La referencia de Eric a Job necesita precisamente ese límite. Job 1 no explica la pérdida como consecuencia de una falta moral del protagonista; la escena narrativa muestra una prueba cuya causa no se entrega al razonamiento de sus amigos. Por ello, decir que una gran pérdida demuestra que «está en juego quién es» alguien puede ser una aplicación posible, pero es cualificada y no una conclusión exacta para cada caso.
 
+## Reparación desarrollada: paciencia que permanece, sirve y discierne
+
+La sesión pública `youtube:6d59VNAitEA` presenta la paciencia de los santos como resistencia fiel y no como espera inerte. Esa observación recibe **apoyo textual cualificado**: Apocalipsis une paciencia con tribulación, obras, trabajo, servicio, mandamientos y fidelidad, pero no convierte cada sufrimiento en una prueba automática ni llama a buscar el dolor. La atribución conserva el foco visible de Eric y la evaluación sigue las perícopas locales.
+
+En #revelation_1_9, **ὑπομονή**, _hypomonē_, significa perseverancia, resistencia o constancia bajo una carga; su fuerza contextual describe la participación de Juan en tribulación, reino y paciencia vinculada a Yehoshua. «Paciencia» es una traducción **directa** en el campo normal, mientras «espera pasiva» sería **ilegítima**. **θλῖψις**, _thlipsis_, significa presión, aflicción, angustia o tribulación; «tribulación» es **directa**, pero identificar todo problema personal con persecución por la fe sería **inferencial**.
+
+En #revelation_2_2-4, **ἔργον**, _ergon_, significa obra, hecho o tarea, y **κόπος**, _kopos_, trabajo fatigoso, esfuerzo o labor. Sus glosas son **directas**; la fuerza contextual muestra que la perseverancia se reconoce junto con trabajo y discernimiento, pero el reproche sobre el primer amor impide convertir actividad en prueba de fidelidad completa. **δοκιμάζω**, _dokimazō_, significa probar, examinar o aprobar después de evaluar; en la prueba de falsos apóstoles su fuerza es discernimiento comunitario, no sospecha indiscriminada.
+
+En #revelation_2_19, **διακονία**, _diakonia_, significa servicio o ministerio; aquí designa atención práctica a otros, y «ministerio» es **aproximado** si sugiere un rango institucional. **πίστις**, _pistis_, significa fe, confianza o fidelidad; dentro de la lista de obras, amor, servicio y paciencia su fuerza es **contextual** y no se resuelve por una sola traducción. La exposición de Eric queda mejor evaluada cuando la paciencia incluye amor y servicio, no solo resistencia endurecida.
+
+En #revelation_13_10 y #revelation_14_12, **τηρέω**, _tēreō_, significa guardar, conservar, vigilar u observar; su fuerza contextual une la paciencia de los santos con los mandamientos de Elohim y la fidelidad de Yehoshua. «Guardar» es **directo**, pero afirmar perfección sin lucha sería **ilegítimo**. **μαρτυρία**, _martyria_, significa testimonio o declaración; su fuerza vincula la permanencia con una confesión pública, no con inmunidad frente a la aflicción.
+
+La síntesis es equilibrada: la paciencia bíblica soporta presión, sigue trabajando, discierne el engaño, sirve al prójimo y conserva la fidelidad. **νικάω**, _nikaō_, significa vencer o conquistar; en Apocalipsis su fuerza contextual es vencer mediante permanencia fiel, no dominar por violencia. La observación pública recibe **apoyo textual cualificado**: la esperanza sostiene la resistencia, pero el canon no permite glorificar el sufrimiento, diagnosticar la culpa del herido ni sustituir la justicia por pasividad.
+
 ## Conclusión
 
 La paciencia de los santos es una resistencia activa: permanece bajo presión, trabaja, sirve, discierne y guarda la fidelidad de Yehoshua. Eric acierta al separar paciencia de esperanza y al mostrar que Apocalipsis asocia la paciencia con tribulación, obras y trabajo. El texto corrige cualquier exceso: la paciencia no es pasividad, búsqueda del dolor, explicación automática de cada pérdida ni permiso para abandonar el amor. Apocalipsis consuela al llamar a vencer y permanecer; la esperanza futura convierte la tribulación presente en perseverancia responsable.
