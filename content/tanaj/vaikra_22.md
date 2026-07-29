@@ -116,6 +116,14 @@ En 22:29-30, el sacrificio de acción de gracias debe presentarse para aceptaci�
 
 Vaikra 22 no trata la santidad como prestigio del sacerdote ni como una apariencia exterior. Ordena cómo se guarda lo consagrado, cómo se repara un uso inadvertido, quién participa de una porción sacerdotal y qué animal puede subir al altar. Todo termina con el nombre de יהוה santificado en medio de Israel y con la memoria de Egipto. La integridad que el capítulo demanda es, por tanto, una respuesta concreta al Dios que santifica y libera.
 
+## La honra se comprueba en la secuencia completa
+
+El énfasis de Eric contra entregar a יהוה «lo que sobra» gana precisión cuando se sigue la perícopa completa. El sacrificio aceptable no se define solo por la apariencia del animal: **(רצון)**, _ratson_, significa favor, aceptación o beneplácito, y en **(לרצנכם)**, _lirtzonkhem_, expresa la finalidad de que la ofrenda sea recibida (#vaikra_22_19, 29). La forma no significa «dar lo mejor» por sí sola; su fuerza contextual aparece junto a **(תמים)**, _tamim_, «completo o íntegro», y la prohibición de **(מום)**, _mum_, «defecto». «Honrar a יהוה con lo primero» es una síntesis **aproximada y pedagógica** de esa combinación, no una traducción de _ratson_.
+
+La secuencia temporal añade otra prueba contra una religiosidad de apariencia. La cría permanece siete días con su madre, y la madre y su cría no se degüellan el mismo día (#vaikra_22_26–28). **(יום)**, _yom_, significa día; aquí fija un límite concreto para el acto sacrificial, no una imagen general de maduración espiritual. Luego la ofrenda de acción de gracias, **(תודה)**, _todah_, «acción de gracias o confesión agradecida», se come el mismo día (#vaikra_22_29–30). Eric puede aplicar esta unidad contra la improvisación y el sobrante, pero el texto hace algo más específico: somete condición, espera, relación entre animales y consumo a la palabra de יהוה.
+
+El cierre explica por qué la obediencia no es una técnica para comprar aceptación: «Yo soy יהוה, quien los santifica, quien los sacó de la tierra de Egipto» (#vaikra_22_31–33). **(קדש)**, _qodesh_, significa santo, apartado o consagrado; aquí su fuerza contextual es que יהוה establece el carácter de lo que Israel guarda. «La ofrenda produce santidad» sería una inferencia inexacta: el texto atribuye la santificación a יהוה y exige que Israel no profane su nombre mediante una práctica descuidada. Así la analogía mesiánica de Eric queda sometida al orden local: la honra se ve en obedecer una secuencia recibida, no en sustituirla por una emoción religiosa.
+
 ## Ver también
 
 - [[vaikra_21|Vaikra 21]]
