@@ -28,6 +28,7 @@ sources:
   - "https://www.youtube.com/watch?v=_4q0WLCdK1c"
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/tth/json/vaikra.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:8Btk2jATjfk"
   - "youtube:Y97CMPXJ4cA"
@@ -187,6 +188,12 @@ El cierre de la perícopa confirma que la reconciliación tiene respuesta visibl
 ## Conclusión
 
 Vaikra 16 responde a la muerte producida por un acercamiento no regulado con un orden de reconciliación que atraviesa sacerdote, sangre, confesión, envío, humillación y purificación. Eric conserva un punto decisivo: no basta hablar de expiación si se borra la remoción del pecado y la obediencia que el rito exige. El texto, sin embargo, también conserva sus propios límites: Azazel no se traduce automáticamente como demonio, _nefesh_ no obliga a un dualismo, y el Mesías es una lectura canónica posterior que debe someterse al recorrido de la perícopa. La Santidad no se vuelve accesible por el deseo humano; יהוה la regula y, en el día señalado, hace reconciliación para que su pueblo sea purificado.
+
+## Lectura canónica posterior: una vez al año y no sin sangre
+
+Delitzsch traduce Ivrim 9:7 así: **והמשכן אשר לפנים ממנו שמה בא הכהן הגדול לבדו פעם אחת בשנה לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «el tabernáculo interior ... el sumo sacerdote solo una vez al año, no sin sangre que ofreciera por su vida y por los yerros del pueblo». La cita retoma explícitamente los límites que Vaikra 16 acaba de establecer: entrada exclusiva, frecuencia anual y sangre ofrecida por el sacerdote y el pueblo. Es una lectura canónica posterior, no una segunda traducción de la perícopa de Vaikra.
+
+La misma versión dice en Ivrim 9:11-12 que el Mesías entró en el «tabernáculo más grande en grandeza y perfección» y «no por sangre de machos cabríos y becerros, sino por la sangre de su vida, una vez». Eric conecta las dos cabras con la reconciliación mesiánica; esta conexión queda documentada por Delitzsch, pero debe evaluarse con cuidado: Ivrim interpreta el patrón sacerdotal desde su propia afirmación sobre el Mesías, mientras Vaikra 16 conserva la función distinta de la sangre y del macho cabrío vivo. **(פעם)**, _paam_, significa vez, ocasión o golpe; en Vaikra 16:34 forma parte de la periodicidad «una vez al año», y la equivalencia «definitivamente» en Ivrim es una inferencia teológica, no el sentido aislado del sustantivo. **(דם)**, _dam_, significa sangre; en Vaikra nombra la sangre ritual rociada por Aharón, y en Ivrim la frase la usa dentro de una comparación canónica. La relación es aproximada y explícitamente intertextual, no una licencia para borrar el procedimiento local.
 
 ## Reparación: dos movimientos coordinados, no una fórmula indiferenciada
 
