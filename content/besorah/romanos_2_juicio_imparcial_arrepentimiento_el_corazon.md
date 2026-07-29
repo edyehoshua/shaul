@@ -508,6 +508,16 @@ En 2:25-29, **(περιτομή)**, _peritomē_, significa circuncisión o corte
 
 Así, la pregunta de Eric queda preservada sin ampliar la evidencia de la fuente. Romanos 2 no enseña que las señales carezcan de todo valor; enseña que el nombre, la instrucción y la señal deben responder ante el mismo juicio imparcial. La conclusión es **textual** en la secuencia del capítulo y **cualificada** en sus aplicaciones pastorales: una identidad confesada debe ser examinada por la verdad practicada y por la alabanza que solo Elohim puede otorgar.
 
+## Reparación desarrollada: una pregunta de identidad bajo el argumento completo
+
+La pregunta pública de Eric en `youtube:6D7Yj0bDSfU` —«¿qué es ser judío? ¿qué es ser creyente?»— debe conservarse con el límite de la evidencia: el inventario local no ofrece transcript de esta sesión, así que se atribuyen únicamente el título, la URL pública y su foco visible. Romanos 2 permite evaluar la pregunta sin inventar una explicación de la clase. Pablo comienza por la bondad que conduce a la **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento; la relación con **תשובה**, _teshuvá_, «retorno», es **aproximada y pedagógica**, no una equivalencia exacta entre lenguas. Después pasa al juicio sin favoritismo y termina examinando nombre, enseñanza y señal.
+
+En #romanos_2_13-16, **(ἀκροατής)**, _akroatēs_, significa oyente o quien escucha, mientras **(ποιητής)**, _poiētēs_, significa hacedor o practicante. El contraste es **directo** en el argumento: oír la Torah no basta para presentarse justo ante Elohim. **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; su fuerza contextual es **forense**, porque acusa o defiende dentro del juicio de los secretos. «Conciencia» es una glosa **directa**; convertir cada intuición en revelación suficiente sería **ilegítimo**, porque el pasaje la coloca ante el juicio de Elohim por medio de Yehoshua.
+
+En #romanos_2_17-29, **(Ἰουδαῖος)**, _Ioudaios_, significa judío y designa al interlocutor histórico que recibe la Torah y enseña; extender la reprensión a todo Israel sería una inferencia **ilegítima**. **(περιτομή)**, _peritomē_, significa circuncisión o corte ritual; su fuerza es **condicional** en 2:25, pues beneficia si se practica la Torah. **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; en 2:29 la aprobación decisiva procede de Elohim, no de la reputación humana. La observación pública de Eric recibe **apoyo textual cualificado**: identidad y señal son realidades serias, pero ninguna funciona como escudo contra la incoherencia ni autoriza desprecio étnico.
+
+La nota preserva así la consolidación del capítulo: bondad que llama al retorno, juicio imparcial, Torah oída y practicada, conciencia testigo, y una identidad visible sometida a la alabanza de Elohim. Lo que procede directamente de Romanos se marca como textual; la conexión entre _metanoia_ y _teshuvá_ es pedagógica; y la explicación detallada de la sesión permanece no demostrada por falta de transcript local.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
