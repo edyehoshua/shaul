@@ -31,7 +31,7 @@ sources:
   - "https://www.youtube.com/watch?v=ObzMEUgFrTw"
   - "https://www.youtube.com/watch?v=sHbKR7IjJ6A"
   - "docs/scriptures/tth/json/markos.json"
-  - "docs/scriptures/tth/json/yeshayahu.json"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
   - "docs/scriptures/tth/json/vaikra.json"
 translation: "[TTH]"
 source_ids:
