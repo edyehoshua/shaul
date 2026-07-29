@@ -155,6 +155,14 @@ La unidad completa protege dos afirmaciones pastorales. Primero, la cruz no es u
 - [ ] Examinar si el velo rasgado debe explicarse como cortina corrida, acceso abierto u otro simbolismo del Hejal según fuentes del período.
 - [ ] Revisar el esquema calendárico completo de la fiesta y el Shabat propuesto por la clase antes de fijarlo como cronología única.
 
+## Control de dependencia: realeza, santuario y testimonio (15:1-47)
+
+La lectura de Eric sobre la realeza debe seguir la repetición narrativa y no una etimología aislada. **βασιλεὺς**, _basileus_, «rey», aparece en la pregunta de Pilato, en la burla de los soldados y en el letrero; **σταυρῶσαι**, _staurōsai_, «crucificar», marca la acción a la que Yehoshua es entregado. La correspondencia con **(מלך)**, _mélej_, «rey», es semítica y aproximada. El texto permite hablar de una realeza expuesta en la cruz, pero no convierte el título romano en una explicación exhaustiva del reino del Mesías.
+
+El clamor y el velo forman la segunda dependencia. **ἐκραύγασεν**, _ekraugasen_, «clamó», registra la voz de Yehoshua; **ἐξέπνευσεν**, _exepneusen_, «expiró», afirma la muerte; y **ἐσχίσθη**, _eschisthē_, «fue rasgado», introduce el velo después de esa muerte. La forma hebrea **(עזבתני)**, _azavtani_, «me dejaste o abandonaste», pertenece al eco de Tehilim 22 y no debe ser convertida en una retroversión del griego ni en una forma verbal futura sin prueba. La observación de Eric sobre leer el salmo completo queda apoyada como método intertextual; el sentido básico de cada forma permanece separado.
+
+Finalmente, el capítulo conserva testigos corporales y públicos. **κεντυρίων**, _kentyriōn_, «centurión», ve cómo Yehoshua expira; **ἐνείλησεν**, _eneilēsen_, «envolvió», describe la acción de Iosef sobre el cuerpo; y **θεωροῦσαι**, _theōrousai_, «observando», mantiene a las mujeres como testigos del lugar. La equivalencia de **(קבר)**, _kever_, «sepulcro», con **μνημεῖον**, _mnēmeion_, «sepulcro o lugar de memoria», es contextual. Así, la cronología del Shabat y la lectura del santuario deben servir a la secuencia comprobable: muerte, signo, confesión, sepultura y memoria del lugar.
+
 ## Conclusión
 
 Marcos 15 muestra al Rey sin ejército humano, preferido en contra, burlado, colgado y confesado. Tehilim 22 no es un adorno: da lengua al clamor y a la burla. El velo se rasga, un gentil reconoce al Hijo de Elohim, las mujeres no se marchan y un consejero valiente sepulta el cuerpo. La historia no termina en el letrero de Pilato; termina en un sepulcro cerrado y vigilado por la mirada de quienes servían al Mesías.
