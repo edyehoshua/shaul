@@ -133,6 +133,14 @@ La fuente `youtube:u0NtR-y-T2Y` solo permite atribuir el título público y su a
 
 ## Pendiente de verificar
 
+## Reparación: el título público no reemplaza la perícopa
+
+La sesión acreditada a Eric en `youtube:u0NtR-y-T2Y` solo permite afirmar públicamente el foco «A los que están dentro de la ley» y el recorrido anunciado desde #romanos_3_17. Por eso la nota no le atribuye una definición detallada de cada término ni una cita literal. El argumento de Romanos se conserva en orden: la Torah habla a quienes están bajo su ámbito, toda boca queda cerrada, la justicia se manifiesta en el Mesías y la emunah no deja nula la Torah.
+
+En #romanos_3_19-20, **(λαλέω)**, _laleō_, significa hablar, declarar o decir; su fuerza contextual es que la Torah pronuncia su testimonio para cerrar la defensa humana. **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o culpable; «culpable» es una glosa **directa y forense**, pero no una licencia para convertir «dentro de la ley» en una frontera que excluya al resto del mundo, pues el mismo pasaje dice que todo el mundo queda responsable. En #romanos_3_21, **(μαρτυρέω)**, _martyreō_, significa dar testimonio o atestiguar; «dar testimonio» es **directo**, mientras afirmar que Torah y justicia manifestada cumplen exactamente la misma función sería **inferencial**.
+
+El cierre sigue gobernando la evaluación. **(καταργέω)**, _katargeō_, significa anular, hacer ineficaz o dejar sin efecto; **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. En #romanos_3_31, la negación enfática rechaza que la emunah haga ineficaz la Torah y la respuesta afirma su establecimiento. Las glosas son **directas en el campo ordinario**; decidir cómo se aplica cada mandamiento después de esta afirmación es una cuestión **contextual y cualificada**, no algo que el título del video resuelva por sí solo.
+
 ## El foco público y la responsabilidad universal
 
 La fuente pública `youtube:u0NtR-y-T2Y` permite atribuir a Eric únicamente el foco anunciado «A los que están dentro de la ley» y «Rom 3:17ss»; no permite reconstruir una explicación detallada de la sesión. Ese límite no deja la perícopa sin contenido: Romanos 3:19-20 explica que la Torah habla a quienes están bajo su ámbito para cerrar toda boca, y que el mundo entero queda culpable ante Elohim. La observación atribuible se conserva, por tanto, como una pregunta de alcance y se evalúa con el argumento local, no como una cita de Eric.
