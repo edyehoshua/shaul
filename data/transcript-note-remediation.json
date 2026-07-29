@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 245,
+  "total_notes_requiring_remediation": 244,
   "notes": [
     {
       "path": "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md",
@@ -2493,18 +2493,7 @@
         "missing_eric_map"
       ]
     },
-    {
-      "path": "content/tanaj/yejezkel_22_ciudad_de_sangres_y_responsabilidad.md",
-      "substantive_words": 77,
-      "thematic_sections": [
-        "santidad no aislada de la vida"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
+
     {
       "path": "content/tanaj/yejezkel_28_reunion_santidad_y_tierra.md",
       "substantive_words": 58,
