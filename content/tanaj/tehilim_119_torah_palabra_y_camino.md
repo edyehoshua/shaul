@@ -28,6 +28,8 @@ sources:
   - "https://www.youtube.com/watch?v=kZW4IL2Cn6Q"
   - "https://www.youtube.com/watch?v=kv6HOQs_fD0"
   - "https://www.youtube.com/watch?v=OlpNpJjRYB8"
+  - "https://www.youtube.com/watch?v=ZNpxvynYZXk"
+  - "https://www.youtube.com/watch?v=xeOQWtMOwvg"
   - "docs/scriptures/oe/json/psalms/119.json"
 source_ids:
   - "youtube:FlhAcYD1xHY"
@@ -37,6 +39,8 @@ source_ids:
   - "youtube:kZW4IL2Cn6Q"
   - "youtube:kv6HOQs_fD0"
   - "youtube:OlpNpJjRYB8"
+  - "youtube:ZNpxvynYZXk"
+  - "youtube:xeOQWtMOwvg"
 translation: "[OE]"
 ---
 
@@ -59,7 +63,34 @@ Se recorren las unidades principales en orden textual, desde Alef hasta la súpl
 | #tehilim_119_97-104  | **מה אהבתי תורתך כל היום היא שיחתי ... מפקודיך אתבונן על כן שנאתי כל ארח שקר**               | Amor por la Torah, sabiduría, discernimiento y rechazo de la falsedad.               |
 | #tehilim_119_129-136 | **פלאות עדותיך על כן נצרתם נפשי ... פלגי מים ירדו עיני על לא שמרו תורתך**                    | Testimonios maravillosos, apertura que ilumina y duelo por la desobediencia.         |
 | #tehilim_119_137-144 | **צדיק אתה יהוה וישר משפטיך ... צר ומצוק מצאוני מצותיך שעשעי צדק עדותיך לעולם הבינני ואחיה** | Justicia, aflicción y vida recibida al entender los testimonios.                     |
+| #tehilim_119_157-160 | **רבים רדפי וצרי מעדותיך לא נטיתי ... ראש דברך אמת ולעולם כל משפט צדקך**                     | Persecución, fidelidad sin desviarse y verdad permanente de la palabra.              |
+| #tehilim_119_161-168 | **שרים רדפוני חנם ומדבריך פחד לבי ... שמרתי פקודיך ועדתיך כי כל דרכי נגדך**                  | Temor reverente, gozo, amor a la Torah, paz y caminos expuestos ante יהוה.           |
 | #tehilim_119_169-176 | **תקרב רנתי לפניך יהוה כדברך הבינני ... תעיתי כשה אבד בקש עבדך**                             | La voz pide entendimiento conforme a la palabra y el Pastor busca al siervo perdido. |
+
+Para las unidades finales, el corpus local OE conserva este texto hebreo completo (normalizado sin nikud ni segmentación):
+
+| Verso   | Texto local                                   |
+| ------- | --------------------------------------------- |
+| 119:157 | **רבים רדפי וצרי מעדותיך לא נטיתי**           |
+| 119:158 | **ראיתי בגדים ואתקוטטה אשר אמרתך לא שמרו**    |
+| 119:159 | **ראה כי פקודיך אהבתי יהוה כחסדך חיני**       |
+| 119:160 | **ראש דברך אמת ולעולם כל משפט צדקך**          |
+| 119:161 | **שרים רדפוני חנם ומדבריך פחד לבי**           |
+| 119:162 | **שש אנכי על אמרתך כמוצא שלל רב**             |
+| 119:163 | **שקר שנאתי ואתעבה תורתך אהבתי**              |
+| 119:164 | **שבע ביום הללתיך על משפטי צדקך**             |
+| 119:165 | **שלום רב לאהבי תורתך ואין למו מכשול**        |
+| 119:166 | **שברתי לישועתך יהוה ומצותיך עשיתי**          |
+| 119:167 | **שמרה נפשי עדתיך ואהבם מאד**                 |
+| 119:168 | **שמרתי פקודיך ועדתיך כי כל דרכי נגדך**       |
+| 119:169 | **תקרב רנתי לפניך יהוה כדברך הבינני**         |
+| 119:170 | **תבוא תחנתי לפניך כאמרתך הצילני**            |
+| 119:171 | **תבענה שפתי תהלה כי תלמדני חקיך**            |
+| 119:172 | **תען לשוני אמרתך כי כל מצותיך צדק**          |
+| 119:173 | **תהי ידך לעזרני כי פקודיך בחרתי**            |
+| 119:174 | **תאבתי לישועתך יהוה ותורתך שעשעי**           |
+| 119:175 | **תחי נפשי ותהללך ומשפטך יעזרני**             |
+| 119:176 | **תעיתי כשה אבד בקש עבדך כי מצותיך לא שכחתי** |
 
 ## Alef–Gimel: el camino íntegro aprende a guardar — 119:1-24
 
@@ -97,6 +128,20 @@ Eric lee después el celo de sus adversarios como una oposición a la palabra de
 
 Los vv. 142-144 llevan la estrofa a su conclusión: la justicia de יהוה es eterna, su Torah es verdad, la angustia y la estrechez encuentran deleite en los mandamientos, y entender los testimonios da vida. Eric insiste en que obedecer no debe depender de recibir un premio: se guarda la mitzvá porque expresa el deber ser de la vida ante יהוה. El texto apoya el deleite en medio de la aflicción y la petición «hazme entender y vivir»; la afirmación de que el mismo camino produce vida en este mundo y el venidero es una inferencia teológica de la clase, no una glosa literal de **אחיה**, _eḥyeh_, «viviré».
 
+## Persecución, desvío y fidelidad sin apartarse — 119:157-160
+
+En la clase sobre la estrofa Sámej, Eric retoma la imagen de los obstáculos: la palabra **מכשול** (_mikhshol_, tropiezo u obstáculo) no invita a golpear cada piedra. Propone que la práctica de la Torah enseña a esquivar o saltar lo que puede evitarse, y a enfrentarlo solamente cuando la Escritura exige quitarlo del camino. El consejo no se queda en una técnica de supervivencia: Eric pide revisar si el problema está también en la propia conducta cuando una persona tropieza continuamente con lo mismo. El texto local de 157-159 sostiene la presión de «muchos perseguidores y adversarios», pero la respuesta explícita es **לא נטיתי**, «no me desvié», y el verbo **נטה** (_natah_, inclinarse o apartarse) marca una deriva progresiva, no necesariamente una confrontación directa.
+
+En 158 el salmista dice **ראיתי בגדים**, «he visto a los infieles», y Eric distingue **בגד** (_bagad_) de una traducción plana como «mentirosos»: la clase lo acerca a quienes traicionan o abandonan los testimonios, incluso «apóstatas» en una aplicación contemporánea. Esa fuerza es interpretativa; el sentido normal del participio es actuar traidoramente o ser infiel, y el contexto añade que la aflicción nace de que no guardan la palabra. El v. 159 vuelve del adversario al examen ante יהוה: «mira que amo tus preceptos; vivifícame conforme a tu misericordia». La exposición, por tanto, no convierte el celo en licencia para pelear con cada infiel; lo prueba contra el texto, que combina amor, petición de vida y perseverancia.
+
+## La verdad como cabeza de la palabra — 119:161-168
+
+Eric observa que los príncipes pueden perseguir «sin causa», pero el corazón del siervo tiembla ante la palabra, no ante el poder de esos príncipes. En 161-163 la secuencia es concreta: temor ante los mandamientos, gozo ante la **אמרה** (_imrah_, palabra, dicho o promesa), odio a la falsedad y amor a la Torah. La imagen de hallar un gran botín explica la intensidad del gozo, no una promesa de riqueza material. Después, «siete veces al día te alabo» y «mucha paz» muestran una disciplina reiterada y una estabilidad que el salmo atribuye a los amantes de la Torah; no dicen que el observante quede libre de toda oposición.
+
+En 166-168 Eric lee **שברתי** (_sibarti_, esperé o aguardé) junto con «tus mandamientos hice»: esperar la salvación de יהוה se demuestra haciendo lo mandado, no solamente declarando esperanza. La clase usa la figura de alguien rescatado que recibe coordenadas: si no permanece en el lugar indicado, quien pierde tiempo y esfuerzo es él, aunque la ayuda siga siendo segura. Es una parábola pedagógica de la obediencia; el hebreo afirma esperanza y práctica, pero no especifica helicópteros ni una teoría de la demora divina. Luego Eric insiste en **כל דרכי נגדך**, «todos mis caminos están delante de ti»: _derekh_ normalmente es camino o conducta, y aquí el plural abarca las maneras concretas de vivir que deben ser confrontadas ante יהוה, no una apariencia religiosa para los demás.
+
+En su lectura de 160, Eric traduce **ראש דברך אמת** como «la cabeza de tu palabra es verdad», y enlaza «cabeza» con Yehoshua como cabeza y verdad. La forma **ראש** (_rosh_) significa cabeza, comienzo o parte principal; por eso «la esencia/principio de tu palabra es verdad» conserva mejor la observación que una lectura de «suma de todas tus palabras». La conexión mesiánica es canónica y pedagógica, no una identificación gramatical obligatoria: el versículo mismo continúa diciendo que cada juicio justo de יהוה es eterno. La clase prueba su aplicación al afirmar que el deber ser no es una imposición política sobre otros, sino una conciencia que el discípulo practica ante la autoridad de la palabra.
+
 ## La súplica final: palabras recibidas y oveja perdida — 119:169-176
 
 En Taw, la petición «que se acerque mi clamor» pide entendimiento **כדברך** (_kidvarekha_, conforme a tu palabra) y liberación conforme a la promesa. Eric insiste en que no son las fórmulas privadas del orante las que obligan a יהוה: son las palabras de יהוה en la boca del siervo. Esa exhortación tiene apoyo directo en la repetición «conforme a tu palabra», aunque el vínculo específico con Isaías 59:21 es intertextual y aproximado.
@@ -105,32 +150,40 @@ Los labios rebosan alabanza porque יהוה enseña estatutos; la lengua respond
 
 ## Hoja léxica
 
-| Forma     | Transliteración | Sentido normal            | Fuerza contextual y relación                                                               |
-| --------- | --------------- | ------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| **אשרי**  | _ashrei_        | feliz, dichoso            | Felicidad del que camina íntegramente; exacta.                                             |
-| **תורה**  | _torah_         | instrucción, enseñanza    | Norma que forma el camino; exacta, no solo «libro».                                        |
-| **זכה**   | _zakah_         | ser limpio, puro          | Eric lo aplica a transparencia sin ocultamiento; relación pedagógica aproximada.           |
-| **אמרה**  | _imrah_         | palabra, dicho, promesa   | Palabra guardada y dulce; exacta en el campo semántico.                                    |
-| **זכר**   | _zakhar_        | recordar, traer a memoria | «Dar preeminencia» explica la fuerza contextual; aproximada.                               |
-| **פתח**   | _petach_        | apertura, entrada         | Apertura de la palabra que ilumina; exacta como metáfora, aplicación de acceso pedagógica. |
-| **בין**   | _bin_           | entender, discernir       | Distinguir el camino falso del bueno; exacta.                                              |
-| **תעיתי** | _taiti_         | me desvié, erré           | Oveja perdida al final; exacta en la imagen de extravío, lectura mesiánica aproximada.     |
-| **צדק**   | _tsedeq_        | justicia, rectitud        | Norma de los juicios y testimonios de יהוה                                                 | exacta; «estado ideal» es aplicación pedagógica  |
-| **שכח**   | _shakhaj_       | olvidar                   | Oposición de los adversarios a la palabra                                                  | aproximada a «dejar de poner primero»            |
-| **צר**    | _tsar_          | estrecho, angustia        | Presión que no anula el deleite en los mandamientos                                        | exacta en el campo de aflicción                  |
-| **אחיה**  | _eḥyeh_         | viviré, seré vivificado   | Vida pedida junto con entendimiento                                                        | exacta; alcance escatológico de Eric es inferido |
+| Forma     | Transliteración | Sentido normal                    | Fuerza contextual y relación                                                                                               |
+| --------- | --------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **אשרי**  | _ashrei_        | feliz, dichoso                    | Felicidad del que camina íntegramente; exacta.                                                                             |
+| **תורה**  | _torah_         | instrucción, enseñanza            | Norma que forma el camino; exacta, no solo «libro».                                                                        |
+| **זכה**   | _zakah_         | ser limpio, puro                  | Eric lo aplica a transparencia sin ocultamiento; relación pedagógica aproximada.                                           |
+| **אמרה**  | _imrah_         | palabra, dicho, promesa           | Palabra guardada y dulce; exacta en el campo semántico.                                                                    |
+| **זכר**   | _zakhar_        | recordar, traer a memoria         | «Dar preeminencia» explica la fuerza contextual; aproximada.                                                               |
+| **פתח**   | _petach_        | apertura, entrada                 | Apertura de la palabra que ilumina; exacta como metáfora, aplicación de acceso pedagógica.                                 |
+| **בין**   | _bin_           | entender, discernir               | Distinguir el camino falso del bueno; exacta.                                                                              |
+| **תעיתי** | _taiti_         | me desvié, erré                   | Oveja perdida al final; exacta en la imagen de extravío, lectura mesiánica aproximada.                                     |
+| **צדק**   | _tsedeq_        | justicia, rectitud                | Norma de los juicios y testimonios de יהוה                                                                                 | Exacta; «estado ideal» es aplicación pedagógica.                                             |
+| **שכח**   | _shakhaj_       | olvidar                           | Oposición de los adversarios a la palabra                                                                                  | aproximada a «dejar de poner primero»                                                        |
+| **צר**    | _tsar_          | estrecho, angustia                | Presión que no anula el deleite en los mandamientos                                                                        | exacta en el campo de aflicción                                                              |
+| **אחיה**  | _eḥyeh_         | viviré, seré vivificado           | Vida pedida junto con entendimiento                                                                                        | Exacta; el alcance escatológico de Eric es inferido.                                         |
+| **מכשול** | _mikhshol_      | tropiezo, obstáculo               | En 119:165 nombra aquello que no domina al amante de la Torah; la clase lo usa para discernir cuándo esquivar o enfrentar. | Exacta en el sentido nominal; la estrategia práctica de Eric es pedagógica.                  |
+| **נטיתי** | _natiti_        | me desvié, me incliné             | En 119:157 el perseguido afirma que no se apartó de los testimonios.                                                       | Exacta; la idea de una deriva gradual explica el contexto, no lo reemplaza.                  |
+| **בגדים** | _bogdim_        | infieles, traidores               | En 119:158 describe a quienes no guardan la palabra; Eric los acerca a apóstatas.                                          | Aproximada en la aplicación «apóstatas»; el sentido normal es infidelidad o traición.        |
+| **שברתי** | _sibarti_       | esperé, aguardé                   | En 119:166 la espera de la salvación aparece junto con hacer los mandamientos.                                             | Exacta como lectura verbal; la demostración práctica es una inferencia de la clase.          |
+| **ראש**   | _rosh_          | cabeza, comienzo, parte principal | En 119:160 sostiene la lectura de Eric sobre la «cabeza» o principio de la palabra como verdad.                            | Exacta en el campo semántico; la conexión con Yehoshua como cabeza es canónica y pedagógica. |
+| **נגדך**  | _negedkha_      | delante de ti, frente a ti        | En 119:168 todos los caminos del siervo quedan expuestos ante יהוה.                                                        | Exacta; «confrontar cada hábito» es aplicación pastoral.                                     |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad      | Observación concreta de Eric                                                                                                                                     | Tratamiento frente al texto                                                                                                                          |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 119:1-8     | La estructura de ocho versos por letra hace del salmo una composición alfabética singular; la obediencia se verifica caminando y guardando.                      | La estructura y la secuencia verbal son textuales; el simbolismo del ocho queda calificado como interpretación tradicional.                          |
-| 119:9-24    | La limpieza del joven implica transparencia, palabra escondida en el corazón, vida, ojos abiertos y testimonios como consejo.                                    | Se confirma guardar/buscar/meditar; «transparencia» se marca como paráfrasis pedagógica de **זכה**.                                                  |
-| 119:49-56   | Recordar la promesa es darle preeminencia; la palabra vivifica y produce cántico en la aflicción.                                                                | «Traer al frente» explica **זכר**; el consuelo en aflicción está directamente en la estrofa.                                                         |
-| 119:97-104  | La Torah amada vuelve sabio al obediente y lleva a rechazar todo camino falso.                                                                                   | El salmo da la razón en mandamientos guardados; la «sabiduría de arriba manifestada abajo» queda como conexión teológica.                            |
-| 119:129-136 | La apertura de las palabras da luz; la voz debe usar las palabras de יהוה y llorar por la desobediencia.                                                         | **פתח** y la luz son textuales; el enlace con Isaías 59:21 es intertextual y atribuible.                                                             |
-| 119:137-144 | Eric presenta la justicia de יהוה como estable, el celo contra quienes olvidan la palabra, la fidelidad del despreciado y la mitzvá como deber, no como negocio. | Justicia, verdad, aflicción, deleite y petición de vida tienen apoyo textual; «estado ideal», prioridad y vida venidera se marcan como aplicaciones. |
-| 119:169-176 | El clamor debe llegar conforme a la palabra divina; el final muestra al siervo como oveja perdida que יהוה busca.                                                | «Conforme a tu palabra», extravío y búsqueda son directos; la lectura mesiánica se califica.                                                         |
+| Unidad      | Observación concreta de Eric                                                                                                                                          | Tratamiento frente al texto                                                                                                                          |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 119:1-8     | La estructura de ocho versos por letra hace del salmo una composición alfabética singular; la obediencia se verifica caminando y guardando.                           | La estructura y la secuencia verbal son textuales; el simbolismo del ocho queda calificado como interpretación tradicional.                          |
+| 119:9-24    | La limpieza del joven implica transparencia, palabra escondida en el corazón, vida, ojos abiertos y testimonios como consejo.                                         | Se confirma guardar/buscar/meditar; «transparencia» se marca como paráfrasis pedagógica de **זכה**.                                                  |
+| 119:49-56   | Recordar la promesa es darle preeminencia; la palabra vivifica y produce cántico en la aflicción.                                                                     | «Traer al frente» explica **זכר**; el consuelo en aflicción está directamente en la estrofa.                                                         |
+| 119:97-104  | La Torah amada vuelve sabio al obediente y lleva a rechazar todo camino falso.                                                                                        | El salmo da la razón en mandamientos guardados; la «sabiduría de arriba manifestada abajo» queda como conexión teológica.                            |
+| 119:129-136 | La apertura de las palabras da luz; la voz debe usar las palabras de יהוה y llorar por la desobediencia.                                                              | **פתח** y la luz son textuales; el enlace con Isaías 59:21 es intertextual y atribuible.                                                             |
+| 119:137-144 | Eric presenta la justicia de יהוה como estable, el celo contra quienes olvidan la palabra, la fidelidad del despreciado y la mitzvá como deber, no como negocio.      | Justicia, verdad, aflicción, deleite y petición de vida tienen apoyo textual; «estado ideal», prioridad y vida venidera se marcan como aplicaciones. |
+| 119:157-160 | Eric distingue el tropiezo que se esquiva del obstáculo que debe enfrentarse, y lee a los infieles como quienes abandonan los testimonios; la fidelidad no se desvía. | **מכשול**, **נטה** y **בגד** se explican con su sentido normal; la aplicación sobre «apóstatas» y la estrategia de obstáculos queda calificada.      |
+| 119:161-168 | La persecución de los príncipes no gobierna el corazón; el temor a la palabra, el gozo, la paz y la práctica muestran una esperanza demostrada.                       | La secuencia de los versos lo sostiene; la parábola de las coordenadas y la lectura de «deber ser» son pedagógicas.                                  |
+| 119:169-176 | El clamor debe llegar conforme a la palabra divina; el final muestra al siervo como oveja perdida que יהוה busca.                                                     | «Conforme a tu palabra», extravío y búsqueda son directos; la lectura mesiánica se califica.                                                         |
 
 ## Pendiente de verificar
 
@@ -158,5 +211,7 @@ Tehilim 119 no presenta la Torah como una colección que se admira desde lejos. 
 - Video: «Tehilim/Himnos/Salmo cap 119 (parte 5)» — <https://www.youtube.com/watch?v=fvzC2oDcPig> — source_id: `youtube:fvzC2oDcPig`.
 - Video: «Tehilim/Himnos/Salmo cap 119 (parte 11)» — <https://www.youtube.com/watch?v=kZW4IL2Cn6Q> — source_id: `youtube:kZW4IL2Cn6Q`.
 - Video: «Tehilim/Himnos/Salmo Cap 119 (parte 13)» — <https://www.youtube.com/watch?v=kv6HOQs_fD0> — source_id: `youtube:kv6HOQs_fD0`.
-- Video: «Tehilim/Hymnos/Psalm Chapter 119 (part 12)» — <https://www.youtube.com/watch?v=OlpNpJjRYB8> — source_id: `youtube:OlpNpJjRYB8`.
+- Video: «Tehillim/Hymns/Psalm 119 (part 14)» — <https://www.youtube.com/watch?v=ZNpxvynYZXk> — source_id: `youtube:ZNpxvynYZXk`.
+- Video: «Tehilim/Hymnos/Salmo Cap 119 (parte 16)» — <https://www.youtube.com/watch?v=xeOQWtMOwvg> — source_id: `youtube:xeOQWtMOwvg`.
+- Video: «Tehilim/Hymnos/Salmo Cap 119 (parte 12)» — <https://www.youtube.com/watch?v=OlpNpJjRYB8> — source_id: `youtube:OlpNpJjRYB8`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
