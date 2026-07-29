@@ -146,15 +146,6 @@ La respuesta implícita de Yeshúa ya está en el contexto: lo ha dicho y lo ha 
 
 El cierre del video anticipa una discusión posterior: qué se esperaba del Mesías y qué expresa realmente el Tanaj. La clase menciona la objeción de que el Mesías debería traer paz mundial o reconstruir el templo, pero propone ordenar la expectativa: primero debe pagarse la deuda delante de Elohim; la paz entre pueblos solo puede ser fruto de esa reconciliación, no un acuerdo político sin transformación.
 
-## Mapa de la enseñanza de Eric
-
-| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
-| --- | --- | --- |
-| #iojanan_10_17-18 | Eric lee la entrega y recuperación de la **נפש** como una acción voluntaria del Mesías recibida como mandamiento de Abba, no como derrota impuesta. | **Apoyo textual y aclaración léxica:** el pasaje dice que nadie quita la vida y que él la pone; la relación entre **נפש** y **ψυχή** se marca como aproximada. |
-| #ieshaiahu_53_10; #tehilim_16_10; #maasei_hashlijim_2_27 | La clase une vida puesta como ofrenda de culpa con la promesa de no ver corrupción y con la aplicación apostólica del salmo. | **Cadena canónica atribuida:** los textos locales sostienen ofrenda, Sheol y corrupción; la conclusión cristológica se conserva como lectura de Eric, no como equivalencia léxica automática. |
-| #iojanan_10_19-21; #iojanan_9_6-7 | Eric interpreta la división como reacción al peso de las palabras y vuelve a la sanidad del ciego como obra pública contra la acusación. | **Prueba narrativa:** Yojanán registra la contienda y remite a la obra visible; la aplicación sobre tradición de Shabat queda atribuida y no sustituye la escena. |
-| #iojanan_10_22-24 | La clase usa Janucá, el templo y la petición de hablar con franqueza para explicar por qué la pregunta mesiánica aparece después de las obras. | **Contexto cualificado:** el capítulo confirma fiesta, lugar y pregunta; las afirmaciones arquitectónicas e históricas permanecen pendientes. |
-
 ## Pendiente de verificar
 
 - [ ] Cotejar el griego de #iojanan_10_17-24, especialmente psyje, daimonion, mainetai, rhema, enkainia y parresia.
