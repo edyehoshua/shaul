@@ -179,7 +179,6 @@ El v. 39 refuerza la exclusividad: **ראו עתה כי אני אני הוא ו�
 
 Finalmente, 32:43 llama a las naciones a alegrarse con el pueblo y termina con **וכפר אדמתו עמו**, «y hará reconciliación por su tierra, su pueblo». **(כפר)**, _kafar_, puede significar cubrir y, en una construcción cultual o poética, hacer expiación o reconciliación; «perdonar» es **aproximado** y no agota la forma. El final no borra la sangre vengada ni la retribución contra los enemigos: coordina justicia, alegría de las naciones y restauración de la tierra. La lectura mesiánica de Eric puede recibir este movimiento como figura de redención, pero la afirmación inmediata del canto es más sobria: la Roca vindica a sus siervos, juzga a sus adversarios y reconcilia a su pueblo.
 
-
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
