@@ -190,6 +190,20 @@ Eric aplica este orden a su enseñanza sobre una reconciliación que no autoriza
 
 ## Pendiente de verificar
 
+## Un solo día, acciones que no se confunden
+
+La exposición de Eric presenta sangre y envío como inseparables. La secuencia de Vaikra 16 permite conservar esa observación con mayor precisión: no se trata de dos nombres para la misma acción, sino de dos operaciones coordinadas dentro del mismo día. En los vv. 14–17, Aharón rocía la sangre sobre la cubierta y delante de ella, y hace reconciliación por la Santidad, la Tienda y el altar. **(הזה)**, _hizah_, significa rociar o salpicar; su fuerza contextual es una acción ritual localizada, no una imagen general de «derramar vida». «Aplicar la sangre» es una paráfrasis aproximada.
+
+Después de terminar la reconciliación por esos ámbitos, Aharón coloca las manos sobre el macho cabrío vivo y confiesa. **(סמך)**, _samakh_, significa apoyar o poner; en 16:21 hace visible el gesto que acompaña a la confesión. **(התודה)**, _hitvadah_, significa confesarse o reconocer; la forma reflexiva nombra una declaración verbal de las iniquidades, no una fuerza automática que las transfiera sin el rito ordenado. Eric acierta al rechazar una reconciliación reducida a una idea interior, pero el capítulo distribuye los sujetos: el sacerdote rocía y confiesa, el animal carga y la asamblea se humilla.
+
+La palabra **(עזאזל)**, _Azazel_, sigue siendo una designación discutida. El texto asigna una suerte «para יהוה» y otra «para Azazel»; no explica aquí si el término es nombre propio, lugar o designación ritual. Por eso «demonio» sería una equivalencia interpretativa no demostrada por la forma, y «cabra que se fue» una explicación pedagógica, no exacta. La clase relaciona el envío con la remoción del pecado; la observación es compatible con el efecto narrativo de 16:22, pero no resuelve el referente de Azazel.
+
+Los vv. 23–28 muestran que la reconciliación no termina cuando el animal desaparece en el desierto. Aharón se quita las vestiduras de lino, se baña, se viste de nuevo y presenta sus holocaustos. **(פשט)**, _pashat_, significa quitar, desvestir o extender; aquí describe quitar las vestiduras interiores. **(רחץ)**, _rajats_, significa lavar o bañarse; «purificarse interiormente» es una aplicación aproximada, no la traducción de la forma. El conductor del macho cabrío y quien quema los restos también lavan sus vestidos y su cuerpo. El rito deja consecuencias de procedimiento y estado cultual para quienes lo ejecutan.
+
+El cierre hace participar a toda la comunidad: **תענו את נפשתיכם**, _teannu et nafshoteikhem_, «afligirán sus nefesh», y no harán trabajo. **(ענה)**, _anah_, significa afligir, humillar o someter; **(נפש)**, _nefesh_, significa vida, persona, ser viviente o garganta. «Alma» es una equivalencia tradicional y aproximada, no una prueba de una entidad separable del cuerpo. El TTH hace visible la dimensión corporal al traducir «gargantas». Eric puede aplicar la humillación a un corazón rendido, pero el sentido inmediato incluye ayuno o abstención y reposo de toda la asamblea.
+
+La evaluación final queda así: sangre, confesión, envío, lavado, ofrendas, humillación y reposo forman una unidad narrativa y cultual; no son intercambiables ni autorizan una espiritualización sin límites. **(כפר)**, _kafar_, significa cubrir y, en esta construcción, hacer reconciliación o expiación; **(טהר)**, _taher_, significa estar limpio o purificar. «Perdón interior» puede ser una aplicación teológica, pero el capítulo afirma directamente reconciliación y purificación delante de יהוה dentro de una fecha, un sacerdote, unos espacios y unas acciones concretas.
+
 ## La reconciliación alcanza el espacio y la asamblea
 
 La observación de Eric sobre que la reconciliación no puede quedar reducida a una idea interior se vuelve especialmente clara en #vaikra_16_16-17. Aharón hace reconciliación por la Santidad, por la Tienda del Encuentro y por el altar, y nadie permanece en la Tienda mientras él entra. La sangre no aparece como una fuerza autónoma: tiene un ámbito, un sacerdote, un momento y una finalidad. «Limpiar la atmósfera espiritual» sería una equivalencia **pedagógica** y demasiado amplia; el texto habla de tratar la impureza y las transgresiones que afectan el espacio santo.
@@ -264,13 +278,13 @@ Esta precisión mantiene la observación real de Eric sin sustituirla por una ca
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta de Eric | Evaluación frente al texto |
-| --- | --- | --- |
-| #vaikra_16_1-2 | El acceso a la Santidad no ocurre en cualquier momento; la muerte de Nadav y Avihú explica la regulación. | El marco narrativo y la prohibición de entrar «en todo tiempo» lo sostienen; _qarav_ y _qodesh_ requieren lectura contextual. |
-| #vaikra_16_6-10 | Los dos machos cabríos deben leerse juntos: uno para יהוה y otro lleva las iniquidades al desierto. | Los vv. 9-10 asignan funciones distintas; la unidad del rito es textual, pero Azazel y cualquier identificación mesiánica quedan pendientes. |
-| #vaikra_16_14-17 | La sangre trata la Santidad y la Tienda, no es una fuerza mágica separada de la mediación sacerdotal. | El sacerdote, el lugar, el momento y la acción de rociar aparecen explícitamente; la aplicación mesiánica es cualificada. |
-| #vaikra_16_20-22 | La reconciliación incluye confesar y apartar las iniquidades mediante el macho cabrío vivo. | La imposición de manos, confesión, carga y envío están en orden; «transferir culpa» es una síntesis aproximada. |
-| #vaikra_16_29-34 | La humillación del nefesh y el reposo hacen que la reconciliación alcance la vida del pueblo. | El texto ordena afligirse y cesar de trabajar; la lectura de cuerpo incorruptible es una conexión mesiánica pendiente de cotejo. |
+| Unidad textual   | Observación concreta de Eric                                                                              | Evaluación frente al texto                                                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| #vaikra_16_1-2   | El acceso a la Santidad no ocurre en cualquier momento; la muerte de Nadav y Avihú explica la regulación. | El marco narrativo y la prohibición de entrar «en todo tiempo» lo sostienen; _qarav_ y _qodesh_ requieren lectura contextual.                |
+| #vaikra_16_6-10  | Los dos machos cabríos deben leerse juntos: uno para יהוה y otro lleva las iniquidades al desierto.       | Los vv. 9-10 asignan funciones distintas; la unidad del rito es textual, pero Azazel y cualquier identificación mesiánica quedan pendientes. |
+| #vaikra_16_14-17 | La sangre trata la Santidad y la Tienda, no es una fuerza mágica separada de la mediación sacerdotal.     | El sacerdote, el lugar, el momento y la acción de rociar aparecen explícitamente; la aplicación mesiánica es cualificada.                    |
+| #vaikra_16_20-22 | La reconciliación incluye confesar y apartar las iniquidades mediante el macho cabrío vivo.               | La imposición de manos, confesión, carga y envío están en orden; «transferir culpa» es una síntesis aproximada.                              |
+| #vaikra_16_29-34 | La humillación del nefesh y el reposo hacen que la reconciliación alcance la vida del pueblo.             | El texto ordena afligirse y cesar de trabajar; la lectura de cuerpo incorruptible es una conexión mesiánica pendiente de cotejo.             |
 
 ## Ver también
 

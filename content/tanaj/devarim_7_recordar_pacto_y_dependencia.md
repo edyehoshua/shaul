@@ -158,6 +158,20 @@ Esta comparación también limita una posible exageración de la clase. Decir qu
 
 ## Pendiente de verificar
 
+## La memoria se vuelve obediencia visible
+
+El recorrido de la clase de Eric se puede precisar siguiendo la progresión textual, sin convertir la parashá en una colección de lemas. Devarim 7:12 comienza con la condición **והיה עקב תשמעון**: escuchar, guardar y hacer. **(עקב)**, _eqev_, tiene como sentidos normales talón, huella o consecuencia; aquí introduce lo que sigue a la respuesta de Israel. «Recompensa» es una equivalencia pedagógica demasiado estrecha, porque el resultado que el versículo nombra es que יהוה guarda el pacto y la bondad que juró a los padres. La forma no convierte a יהוה en un deudor comercial.
+
+En 7:18–19, **(זכר)**, _zakar_, significa recordar; su fuerza contextual es traer al presente las señales, las grandes pruebas y la mano fuerte con que יהוה sacó a Israel de Mitsraim. Eric presenta ese recuerdo como una defensa contra el temor. El texto lo apoya, pero el objeto del recuerdo no es una técnica psicológica: es la acción histórica de יהוה. «Visualización de victoria» sería una paráfrasis pedagógica, no el sentido del verbo. La memoria responde a una liberación ya narrada y gobierna la lectura de los enemigos que Israel todavía ve.
+
+Devarim 8:2 añade que יהוה hizo caminar al pueblo cuarenta años para afligirlo y probarlo, para saber lo que había en su corazón y si guardaría sus mandamientos. **(נסה)**, _nasah_, significa probar o poner a prueba; no equivale exactamente a «tentar» en el sentido de inducir al mal. La clase acierta al unir desierto y dependencia cuando conserva este sujeto: el texto atribuye la conducción a יהוה, mientras la respuesta del pueblo queda examinada. La memoria no excusa la desobediencia; revela si la obediencia existe cuando falta seguridad visible.
+
+El contraste final con 9:4–6 evita una lectura simplista de 7:12. **(צדקה)**, _tsedaqah_, significa justicia o rectitud; aquí el texto niega que Israel pueda presentar su propia justicia como causa de la entrada. **(ישר)**, _yashar_, significa recto o íntegro; «mérito» resume la discusión, pero no traduce la forma. La parashá sostiene dos afirmaciones simultáneas: Israel debe escuchar, guardar, hacer, amar, andar y adherirse; Israel no puede atribuirse el don, la fuerza ni la herencia. Esta tensión es el mejor respaldo textual a la advertencia de Eric contra negociar con יהוה.
+
+Así, la observación sobre libertad queda localizada en 11:22–25. **(הלך)**, _halakh_, significa caminar o ir; aquí su fuerza es conducirse en los caminos de יהוה. **(דבק)**, _davaq_, significa pegarse, adherirse o permanecer unido; «comunión» es pedagógica y aproximada. La libertad que Eric describe no es el significado aislado de esas palabras, pero sí una aplicación coherente si conserva el orden de la perícopa: amor, camino y adhesión preceden a la permanencia y al temor que יהוה pone delante de Israel.
+
+Este desarrollo califica la tesis de la clase con dos límites. La obediencia no compra el pacto, porque el pacto descansa en el amor y el juramento de יהוה; tampoco es irrelevante, porque el discurso manda hacer y vincula la fortaleza con guardar el mandamiento. Recordar, entonces, no es repetir una consigna de prosperidad: es reconocer al Dador, obedecer en el camino y rechazar la apropiación orgullosa de lo recibido.
+
 - [ ] Cotejar con un léxico hebreo el vínculo exacto entre _eqev_ y la construcción de Devarim 7:12.
 - [ ] Verificar el alcance de **(חיל)** en Devarim 8:17-18 y si el contexto justifica preferir «fuerza/ejército» frente a «riqueza».
 - [ ] Localizar y cotejar las referencias exactas de Rambán, Ibn Ezra, Saadia Gaón y otros comentaristas mencionados indirectamente en la clase sobre **(צרעה)**; no se afirma aquí una atribución precisa.
