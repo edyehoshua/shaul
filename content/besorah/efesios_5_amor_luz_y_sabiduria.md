@@ -130,6 +130,16 @@ En 5:28-30 el argumento vuelve al cuerpo: amar a la esposa «como a su propio cu
 | **(ἐκτρέφω)**              | _ektrephō_           | alimentar, criar, sostener                                         | En 5:29 concreta el cuidado del propio cuerpo y, por comparación, de la esposa; no es una orden de tutela coercitiva.                          |
 | **(θάλπω)**                | _thalpō_             | calentar, cuidar con ternura                                       | En 5:29-30 expresa cuidado corporal dentro de la unión; la equivalencia «proteger» es aproximada y debe permanecer subordinada al contexto.        |
 
+## Control de dependencias: la luz se verifica en el tiempo y el cuidado
+
+La transición de 5:1 a 5:21 impide separar la imitación de Elohim de sus resultados observables. **(μιμηταί)**, _mimētai_, «imitadores», recibe su contenido de **(περιπατεῖτε)**, _peripateite_, «caminad», y del amor que el Mesías entrega; no describe una copia abstracta de atributos divinos. En 5:8, **(φῶς)**, _phōs_, «luz», y **(σκότος)**, _skotos_, «oscuridad», nombran condiciones de vida dentro del contraste de Pablo. El puente con **(אור)**, _or_, «luz», y **(חשך)**, _joshej_, «oscuridad», es semítico y pedagógico; no reemplaza el argumento griego.
+
+La luz se prueba por **(καρπός)**, _karpos_, «fruto», que Pablo concreta en bondad, justicia y verdad, y por **(δοκιμάζω)**, _dokimazō_, «probar o discernir», lo agradable al Señor (5:9-10). La exposición de Eric sobre salir de la oscuridad puede conservarse como aplicación atribuible, pero el verbo no autoriza vigilancia humillante de personas. Del mismo modo, **(ἐξαγοράζω)**, _exagorazō_, «aprovechar o rescatar», en 5:16 califica el tiempo oportuno (**καιρός**, _kairos_, «ocasión o tiempo señalado») en días malos; no funda una teoría de calendarios ni una promesa de control del futuro.
+
+El contexto explica qué significa estar llenos del Rúaj. **(πληροῦσθε)**, _plērousthe_, «sed llenos», aparece frente a la embriaguez y es seguido por salmos, himnos, cantos, gratitud y sometimiento mutuo (5:18-21). **(ὑποτάσσω)**, _hypotassō_, «ordenarse bajo una relación», debe leerse primero en la reciprocidad de «unos a otros» y después junto al amor sacrificial exigido al esposo. **(παραδίδωμι)**, _paradidōmi_, «entregar», **(ἐκτρέφω)**, _ektrephō_, «alimentar o criar», y **(θάλπω)**, _thalpō_, «cuidar con ternura», hacen que el orden relacional sea cuidado corporal, no dominio ni control de conciencia.
+
+La relación con Bereshit se mantiene dentro del propio cierre: **(μυστήριον)**, _mystērion_, «realidad antes oculta y ahora explicada», interpreta la unión de una carne desde el Mesías y la asamblea (5:31-32). La nota conserva así las observaciones de Eric sobre amor, luz, tiempo y orden, pero las prueba mediante la secuencia del capítulo: caminar, discernir, agradecer, servir y cuidar.
+
 ## Desarrollo y prueba textual
 
 ## La luz se prueba por su fruto y por su discernimiento
