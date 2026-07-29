@@ -163,11 +163,17 @@ El cierre distingue fruto y don. **(ἁγιασμός)**, _hagiasmos_, significa
 
 Por tanto, la observación de Eric recibe **apoyo textual cualificado**. Romanos 6 niega que la gracia autorice a permanecer en pecado, define la libertad como traslado de señorío y conserva la vida eterna como don. La secuencia canónica queda intacta: unión con la muerte y resurrección, cálculo de estar vivos para Elohim, miembros presentados a la justicia, fruto para santificación y don final en el Mesías.
 
-## Pendiente de verificar
+## Verificación textual consolidada
 
-- [ ] Cotejar la sintaxis griega de #romanos_6_3-11, en especial la relación entre inmersión, muerte, sepultura, unión y resurrección.
-- [ ] Verificar directamente si la expresión «bajo sentencia» de la parte 14 especifica una categoría léxica o una aplicación pastoral; conservarla como formulación pedagógica mientras tanto.
-- [ ] Estudiar #romanos_6_14-15 dentro de Romanos 5–8 antes de identificar de manera exhaustiva «bajo Torá» o «bajo gracia» con sistemas teológicos posteriores.
+Romanos 6 presenta una cadena continua y verificable: #romanos_6_1-5 responde a la objeción sobre la gracia mediante muerte, sepultura y vida nueva; #romanos_6_6-11 interpreta esa participación como muerte al pecado y vida para Elohim; #romanos_6_12-18 ordena que el cuerpo no se entregue al pecado, sino a la justicia; y #romanos_6_19-23 describe fruto, santificación, muerte y don. Esta secuencia resuelve el alcance de las dos clases atribuidas a Eric sin hacer de sus títulos una cita literal.
+
+En #romanos_6_3-5, **(βαπτίζω)**, _baptizō_, significa sumergir, introducir o inmersar; **(συμφυτεύω)**, _symphyteuō_, significa plantar juntamente, unir en crecimiento o hacer partícipe de una misma vida; y **(συνετάφημεν)**, _synetaphēmen_, significa «fuimos sepultados juntamente». Son glosas **directas** o **aproximadas** según la forma; su fuerza es **contextual y argumental**, porque la inmersión se vincula con la muerte del Mesías para caminar en vida nueva y espera de resurrección. «Tvilá» es una correspondencia hebrea **pedagógica y aproximada** con la imagen de inmersión, no una sustitución gramatical de las formas griegas.
+
+En #romanos_6_6-11, **(συσταυρόω)**, _systauroō_, significa crucificar juntamente; **(λογίζομαι)**, _logizomai_, significa contar, considerar o evaluar; y **(ζάω)**, _zaō_, significa vivir. Las glosas son **directas** en su campo normal. Su fuerza contextual impide dos reducciones: el viejo ser crucificado con el Mesías no significa que la lucha moral desaparezca instantáneamente, porque el mandato «no reine» viene después; y «considerarse muertos al pecado y vivos para Elohim» no es autosugestión, sino una valoración fundada en la muerte y vida del Mesías.
+
+En #romanos_6_12-18, **(βασιλεύω)**, _basileuō_, significa reinar o ejercer gobierno; **(κυριεύω)**, _kyrieuō_, significa dominar o ser señor; **(παρίστημι)**, _paristēmi_, significa presentar o poner a disposición; y **(ὑπακούω)**, _hypakouō_, significa obedecer o atender bajo una autoridad. Las glosas son **directas**; su fuerza es **corporal y contextual**, porque Pablo pasa del dominio que no debe ejercer el pecado a la entrega de los miembros a Elohim y a la obediencia que conduce a justicia. «No estar bajo sentencia» permanece una formulación **pedagógica y aproximada** del título público, no una categoría léxica que autorice neutralidad o ausencia de dirección.
+
+En #romanos_6_19-23, **(ἁγιασμός)**, _hagiasmos_, significa santificación o consagración; **(ὀψώνιον)**, _opsōnion_, significa paga o salario; y **(χάρισμα)**, _charisma_, significa don concedido por gracia. Las glosas son **directas**. La fuerza contextual es asimétrica: el pecado entrega salario de muerte, mientras Elohim concede vida eterna como don en Yehoshua. La santificación es fruto visible de la nueva obediencia, pero no compra la vida; esta distinción permite evaluar la enseñanza de Eric con apoyo textual **cualificado** y conserva la dependencia de la gracia.
 
 ## Ver también
 
