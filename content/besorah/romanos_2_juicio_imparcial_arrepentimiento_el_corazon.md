@@ -201,6 +201,14 @@ Esta precisión también corrige una lectura individualista de la conciencia. En
 
 El mapa canónico queda entonces ordenado en cuatro pasos: la bondad conduce al retorno (2:4), la verdad juzga sin acepción (2:6-11), la conciencia muestra que oír no reemplaza hacer (2:13-16), y la señal visible debe corresponder a una vida que honra al Nombre (2:17-29). «Sin acepción» traduce de forma **aproximada** el efecto de **(προσωπολημψία)**, _prosōpolēmpsia_, «favoritismo» o preferencia por la apariencia; no elimina la prioridad histórica «al judío primeramente». Así se conserva la observación atribuible de Eric y se evita convertirla en una acusación contra Israel: el capítulo somete a examen al que presume, no autoriza a despreciar al pueblo.
 
+## Reparación de evidencia: la sesión 6A y el alcance de la identidad
+
+La fuente `youtube:6D7Yj0bDSfU` está registrada públicamente con el título «¿Qué es ser judío? ¿Qué es ser creyente?», pero no tiene transcript local disponible. Por eso la atribución responsable se limita al foco visible del título y a la relación que ese foco mantiene con #romanos_2_17-29; no se reconstruye una exposición detallada ni se presentan palabras del título como una cita de Eric. El control canónico sí puede ser preciso: Pablo no elimina la identidad histórica del interlocutor judío, pero niega que nombre, enseñanza o señal funcionen como escudo contra el juicio.
+
+En esa evaluación, **(Ἰουδαῖος)**, _Ioudaios_, significa judío; en #romanos_2_17 identifica al interlocutor que lleva ese nombre y enseña a otros. La glosa es **directa**, mientras extender la crítica a todo el pueblo judío sería una inferencia **ilegítima**. **(περιτομή)**, _peritomē_, significa circuncisión; en #romanos_2_25-29 su fuerza contextual es condicional, porque la señal se considera provechosa junto con hacer la Torah. **(καρδία)**, _kardia_, significa corazón o centro interior; en la «circuncisión del corazón» funciona **contextualmente** para describir una respuesta interior ante Elohim, y su relación pedagógica con **(לב)**, _lev_, «corazón», es **aproximada**, no una equivalencia automática entre lenguas.
+
+Así, la observación atribuible queda separada de la evaluación textual: el título público orienta la pregunta; Romanos 2 responde dentro de su propio orden, desde el juicio imparcial hasta la alabanza que procede de Elohim. La nota conserva la fuente asignada y su URL pública sin inventar contenido ausente.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
