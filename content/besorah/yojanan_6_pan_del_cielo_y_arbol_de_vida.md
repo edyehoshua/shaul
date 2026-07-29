@@ -1,5 +1,5 @@
 ---
-title: "Yojanán 6: pan del cielo y árbol de vida"
+title: "Yojanan 6: pan del cielo y árbol de vida"
 description: "Nota desde una clase sobre Yojanan 6:40-56, el que envió al Mesías, la promesa de Aba, el pan vivo, el árbol de vida y la carne entregada por la vida del olam"
 date: 2026-06-05
 tags:
@@ -64,7 +64,7 @@ sources:
 
 # Tesis
 
-Yojanán 6:40-56 presenta al Mesías como el pan vivo que descendió de los cielos, pero la clase insiste en que esa frase no debe aislarse del Tanaj. El que lo envía es la propia palabra, promesa y juramento de Aba: lo que יהוה había revelado desde antiguo se corporiza en Yehoshua, se ofrece como korban y da vida olam a los que son traídos por esa promesa.
+Yojanan 6:40-56 presenta al Mesías como el pan vivo que descendió de los cielos, pero la clase insiste en que esa frase no debe aislarse del Tanaj. El que lo envía es la propia palabra, promesa y juramento de Aba: lo que יהוה había revelado desde antiguo se corporiza en Yeshúa, se ofrece como korban y da vida olam a los que son traídos por esa promesa.
 
 ## Alcance de la nota
 
@@ -249,10 +249,4 @@ La clase relaciona este punto con la imagen de Adam: del costado abierto de Adam
 
 ## Conclusión
 
-Yojanán 6 no presenta solo una disputa sobre pan. Presenta la promesa de Aba hecha carne: el Mesías descendido de los cielos, el pan vivo, el árbol de vida acercado al hombre expulsado, el korban cuya carne y sangre dan vida. El hombre no llega a esta vida por lectura superficial, decisión autónoma o privilegio religioso; es enseñado por יהוה, traído por Aba, afirmado por el Mesías y levantado en el día postrero.
-
-## Créditos
-
-- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=3mikRgwy-xw> — source_id: `youtube:3mikRgwy-xw`.
-- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+Yojanan 6 no presenta solo una disputa sobre pan. Presenta la promesa de Aba hecha carne: el Mesías descendido de los cielos, el pan vivo, el árbol de vida acercado al hombre expulsado, el korban cuya carne y sangre dan vida. El hombre no llega a esta vida por lectura superficial, decisión autónoma o privilegio religioso; es enseñado por יהוה, traído por Aba, afirmado por el Mesías y levantado en el día postrero.
