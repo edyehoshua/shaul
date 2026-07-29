@@ -141,6 +141,16 @@ La conexión de este rescate con la relectura de Delitzsch en Ivrim 4:9–11 es 
 - [ ] Examinar la relación entre el descanso de la tierra, el exilio y #yejezkel_36_16-21 sin reducir los profetas a una sola causa de juicio.
 - [ ] Distinguir con precisión las leyes sobre interés a israelitas y extranjeros al comparar #vaikra_25_35-38 con #devarim_23_20-21.
 
+## Control del yovel: libertad que devuelve y sostiene
+
+La observación de Eric sobre el yovel como devolución y libertad necesita conservar la secuencia jurídica. El OE proclama **וקראתם דרור בארץ לכל ישביה** y el TTH: «proclamarán libertad en la tierra para todos sus habitantes» (#vaikra_25_10). **(קרא)**, _qara_, significa llamar, proclamar o convocar; en esta forma su fuerza es hacer pública la libertad, no producir una liberación interior por la sola pronunciación. **(דרור)**, _deror_, significa libertad o liberación; «reconciliación» es una equivalencia **pedagógica**, mientras el retorno de cada uno a su posesión y familia es el efecto textual inmediato.
+
+La venta tampoco se calcula fuera del tiempo. «Según la multitud de los años después del yovel comprarás» (#vaikra_25_15) y el precio disminuye con los años de cosecha restantes. **(רבה)**, _ravah_, significa ser mucho, crecer o multiplicarse; su fuerza contextual en la «multitud» de años permite calcular el valor de uso que queda, no convertir la necesidad del hermano en una ganancia sin límite. Eric acierta al unir calendario y justicia económica: el yovel no es un eslogan abstracto de libertad, sino un mecanismo que impide que una crisis temporal se vuelva pérdida perpetua.
+
+El capítulo fundamenta esa protección en la pertenencia: **כי לי הארץ** («porque mía es la tierra») y **כי עבדי הם** («porque mis siervos son») (#vaikra_25_23, 42). **(גר)**, _ger_, significa residente extranjero o forastero; en **גרים ותושבים אתם עמדי**, «extranjeros y residentes son ustedes conmigo», describe la condición de Israel frente al dueño de la tierra. «Administradores» es una paráfrasis **pedagógica**, no una traducción exacta. La lectura de Eric sobre la confianza en יהוה queda respaldada cuando la posesión humana se presenta como tenencia recibida, pero debe producir el trato ordenado al hermano, no una espiritualización que ignore parcela, deuda y servicio.
+
+Por eso el versículo 43, **לא תרדה בו בפרך**, «no te enseñorearás de él con dureza», funciona como prueba de la enseñanza. **(רדה)**, _radah_, significa dominar, gobernar o ejercer autoridad; **(פרך)**, _farekh_, expresa dureza o rigor quebrantador. «Liderazgo fuerte» sería una equivalencia **inexacta**: el texto prohíbe convertir al empobrecido en esclavo cruel. El yovel mira al futuro precisamente porque ordena el presente: sostener al hermano, no cobrarle interés mordiente, respetar su pertenencia a יהוה y devolverle la posibilidad de volver.
+
 ## Conclusión
 
 Vayikra 25 no sacraliza la escasez ni el control económico. Ordena un descanso que hace depender el alimento de la bendición de יהוה, un yovel que impide convertir la pérdida en destino permanente, y una ayuda que permite al hermano vivir contigo. Tierra, posesión y servicio quedan limitados por el Dios que dice «mía es la tierra» y «mis siervos son». Esa pertenencia sostiene tanto la confianza ante la provisión como la responsabilidad concreta ante el vulnerable.
