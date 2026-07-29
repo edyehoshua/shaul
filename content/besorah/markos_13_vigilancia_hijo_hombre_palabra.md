@@ -215,6 +215,14 @@ El punto doctrinal de la clase es que el Mesías, sin pecado propio, cargó la c
 
 La parte 41 afirma de manera explícita que las setenta semanas ya se cumplieron con la destrucción del segundo templo y que no queda una semana suspendida para un anticristo futuro. Eric dice además que dos comentarios rabínicos que consultó coinciden con esa lectura. La observación histórica queda preservada, pero no se presentan esos comentarios como citas comprobadas: el transcript no entrega autor, obra ni pasaje estable. El texto de Marcos confirma que el templo, la desolación y la huida pertenecen al horizonte del discurso (#markos_13_1-4, #markos_13_14), mientras que 13:32-37 impide usar cualquier reconstrucción para calcular el día y la hora. Así se puede evaluar la tesis fuerte de Eric sin convertir una mención bibliográfica incompleta en evidencia independiente ni confundir el cumplimiento histórico del templo con una licencia para fechar la venida.
 
+## Verificación adicional: dos preguntas, una vigilancia (13:1-37)
+
+La parte 41 vuelve a una observación concreta de Eric: las preguntas de los discípulos no deben fundirse en una sola fecha. La primera nace de la advertencia «no quedará piedra sobre piedra» (#markos_13_1-2); después preguntan por el tiempo y la señal, y Yehoshua responde con engaño, persecución, testimonio y perseverancia (#markos_13_3-13). **(ἐπερώτων)**, _eperōtōn_, «preguntaban», introduce esas preguntas en plural; la forma no resuelve por sí sola toda la cronología, pero sí permite conservar la distinción narrativa que la clase enfatiza.
+
+Desde 13:14 el discurso cambia a la señal de desolación, huida, tribulación, falsos mesías, signos cósmicos y reunión de los escogidos. La exposición relaciona ese tramo con la destrucción del segundo templo y rechaza una semana suspendida sin prueba independiente. Marcos apoya con claridad el horizonte del templo y la urgencia de huir; la conclusión histórica sobre Daniel 9 sigue siendo una inferencia atribuible, porque el evangelio no ofrece una tabla que determine cada fecha.
+
+El cierre vuelve a impedir la especulación. **(οὐκ οἴδατε)**, _ouk oidate_, «no saben», limita el conocimiento comunitario; **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos», y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», son imperativos presentes que describen una práctica sostenida. Eric usa este final para insistir en que la profecía no debe convertirse en calendario; la repetición de los mandatos lo confirma. La variante local entre TTH y Delitzsch sobre «ni el Hijo» debe permanecer visible y no ser resuelta ocultando un testigo.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la afirmación de que a la sabiduría se le llamó Abba en Targum, midrash o literatura rabínica.
