@@ -151,7 +151,11 @@ La redención y la justificación tampoco deben reducirse a una imagen aislada. 
 
 El cierre controla tanto la jactancia como la anulación. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular; **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. En #romanos_3_31 Pablo niega enfáticamente que la emunah deje nula la Torah y afirma que la establece. Las glosas son **directas** en el campo ordinario; decidir cómo se aplica cada mandamiento después de este versículo es **contextual y cualificado**, no una conclusión que pueda extraerse del título público de la sesión. La fuente permite atribuir a Eric el foco anunciado, pero no una exégesis detallada no documentada; la perícopa misma ofrece la evaluación.
 
-## Pendiente de verificar
+## Control de fuente y alcance de la reparación
+
+- La única observación atribuible directamente a la fuente pública `youtube:u0NtR-y-T2Y` es su título, «A los que están dentro de la ley», y el alcance anunciado «Rom 3:17ss»; no se reconstruyen frases ni argumentos adicionales sin transcript local disponible.
+- El desarrollo canónico que sigue no suplanta la enseñanza de Eric: usa Romanos 3:17-31 como prueba local para evaluar el foco visible, y marca como **textual**, **cualificado**, **pedagógico** o **inferencial** cada salto interpretativo relevante.
+- La secuencia se conserva en orden: acusación universal (3:17-20), justicia manifestada y redención (3:21-26), y emunah que excluye la jactancia sin anular la Torah (3:27-31).
 
 - [ ] Recuperar, si llega a estar disponible, el transcript de `youtube:u0NtR-y-T2Y` para contrastar observaciones concretas de la sesión más allá de su título público.
 - [ ] Cotejar en una edición crítica la sintaxis de #romanos_3_20, #romanos_3_22 y #romanos_3_31 antes de convertir estas glosas en conclusiones sobre toda la carta.
