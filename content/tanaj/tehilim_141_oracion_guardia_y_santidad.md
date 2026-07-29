@@ -87,6 +87,18 @@ El cierre espera que los malvados caigan en sus propias redes mientras el orante
 - **141:5-7:** la corrección del justo es recibida como bondad y aceite, en contraste con el juicio de los malvados. **Tratamiento:** apoyo textual; no toda reprensión humana se valida automáticamente.
 - **141:8-10:** la mirada puesta en יהוה protege de redes y deja que la trampa se vuelva contra los malvados. **Tratamiento:** apoyo textual y lectura de confianza, sin convertir el poema en predicción individual.
 
+## Conexiones principales
+
+- #tehilim_141_1-2 presenta la oración y las manos alzadas con imágenes cultuales; Shemot 30:34-38 aporta contexto para el incienso, no una alegoría obligatoria de cada ingrediente.
+- #tehilim_141_3-4 desarrolla la guardia de la boca y del corazón; la petición de separación de los malhechores prepara la recepción de la corrección en los vv. 5-7.
+- #tehilim_141_8-10 cierra el movimiento: ojos puestos en יהוה, refugio frente a la red y espera del juicio sin fabricar venganza.
+
+## Pendiente de verificar
+
+- [ ] Cotejar la tradición litúrgica mencionada por Eric sobre el horario del incienso; el salmo especifica la ofrenda de la tarde.
+- [ ] Verificar la referencia exacta de la conexión entre la sal, el pacto y la oración en Vayiqra 2:13 y Bemidbar 18:19.
+- [ ] Revisar si la lectura judicial de **תפלה** pertenece a una fuente identificable o debe conservarse solo como aplicación pedagógica.
+
 ## Conclusión
 
 Tehilim 141 enseña que la oración urgente no se separa de la santidad. El orante pide que su palabra sea guardada, que su corazón no se incline y que la corrección fiel sea recibida como bondad. El incienso da una imagen de aceptación cultual; la sal y el pacto que Eric relaciona con Vayiqra 2:13 y Bemidbar 18:19 desarrollan una lectura intertextual de preservación, no una sustitución del sentido del salmo. Al final, los ojos permanecen en יהוה: la protección no consiste en dominar al enemigo, sino en pasar sin caer en su trampa.
