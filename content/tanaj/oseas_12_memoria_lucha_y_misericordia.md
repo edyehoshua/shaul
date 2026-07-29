@@ -26,12 +26,14 @@ references:
   - "#shemot_4_26"
 sources:
   - "https://www.youtube.com/watch?v=WDnxTbBQP8I"
+  - "https://www.youtube.com/watch?v=Bd7DFDMxVYo"
   - "docs/scriptures/oe/json/hosea/12.json"
   - "docs/scriptures/tth/json/hoshea.json"
   - "docs/scriptures/oe/json/genesis/32.json"
   - "docs/scriptures/oe/json/exodus/4.json"
 source_ids:
   - "youtube:WDnxTbBQP8I"
+  - "youtube:Bd7DFDMxVYo"
 translation: "[OE, TTH]"
 ---
 
@@ -101,6 +103,27 @@ La respuesta de יהוה recuerda Mitzráim y las tiendas. Eric relaciona las ti
 | #oseas_12_8-9                     | Las balanzas de engaño y la frase “me enriquecí” muestran una riqueza usada para negar la culpa.                                        | Apoyo textual; se evita convertirlo en una condena genérica de toda posesión.                                                    |
 | #oseas_12_10                      | El recuerdo de Mitzráim, las tiendas y los profetas enseña que la revelación se recibe dentro de la memoria de Israel.                  | Apoyo textual; la aplicación a la continuidad profética se presenta como lectura de la clase.                                    |
 
+## Amor fingido, viento y la memoria de Yaakov — ampliación de Vayétze
+
+La exposición pública de Eric para la haftaráh de Vayétze agrega una advertencia concreta al diagnóstico de Oseas 12: la casa del norte puede rodear a יהוה con palabras hermosas y, sin embargo, vivir de alianzas que contradicen esas palabras. La formulación «amor fingido» se conserva como síntesis atribuida a `youtube:Bd7DFDMxVYo`, no como una traducción literal del capítulo. El texto local sí sostiene el contraste: Efraín persigue el viento, multiplica mentira y destrucción, pacta con Asiria y lleva aceite a Egipto (#oseas_12_1-2). La lisonja religiosa no corrige una práctica que busca seguridad fuera de יהוה.
+
+Eric sitúa la exposición en los últimos decenios antes de la caída de Samaria y la cautividad del reino del norte. La nota conserva el marco histórico como explicación de la clase, pero no convierte las fechas aproximadas —incluida la referencia a unos cuarenta años— en una cronología demostrada por Oseas 12. El argumento textual más firme es profético: la advertencia antecede al desenlace histórico y denuncia la falsa paz antes de que la alianza produzca dependencia.
+
+En 12:3-6, el pleito con Yehudáh y la visita a Yaakov hacen que la memoria alcance a toda la casa. La clase observa que Efraín no debe llamar fidelidad a sus palabras bonitas cuando su conducta desmiente el pacto. **(מרמה)**, _mirmah_, significa engaño o fraude; en este contexto se acerca a la acusación de una vida torcida, pero no es equivalente automático de «amor fingido». **(רוח)**, _ruaj_, significa viento o espíritu; en «pastorea el viento» la imagen contextual es perseguir lo inasible, no una definición negativa de todo uso de _ruaj_. **(קדים)**, _qadim_, significa oriente o viento oriental; la equivalencia depende de la construcción y sostiene la imagen del viento que seca y dispersa.
+
+La comparación con Yaakov vuelve práctica la crítica. Yaakov luchó, lloró y pidió bendición; Efraín habla de fidelidad mientras amontona engaño y se apoya en potencias. **(חסד)**, _jesed_, expresa bondad leal o misericordia comprometida, y **(משפט)**, _mishpat_, justicia o juicio ordenado. Oseas 12:7 no manda producir una emoción religiosa convincente, sino volver a Elohim, guardar _jesed_ y _mishpat_ y esperar continuamente. Así se prueba la observación de Eric: la sinceridad no se mide por el adorno de la frase, sino por el retorno que puede verse en la conducta.
+
+La clase también relaciona el aceite llevado a Egipto con sumisión política. Esa lectura es una aplicación histórica atribuida: el versículo menciona el aceite y las alianzas, pero no declara que cada detalle del aceite sea un símbolo exhaustivo. Lo seguro es que el reino busca dos apoyos incompatibles con una confianza indivisa. La memoria de Yaakov corrige esa oscilación: el que recibe el nombre Israel no vence por autosuficiencia, sino que queda herido y dependiente de la bendición.
+
+### Control de fuente y alcance
+
+| Fuente pública | Observación conservada | Prueba textual y límite |
+| --- | --- | --- |
+| `youtube:Bd7DFDMxVYo` | Oseas denuncia lisonja y «amor fingido» antes de la caída del norte; la casa persigue el viento y busca seguridad en Asiria y Egipto. | #oseas_12_1-7 apoya el contraste entre discurso, alianzas y retorno; «amor fingido» es síntesis homilética, no glosa literal. |
+| `youtube:WDnxTbBQP8I` | Yaakov, la lucha, el llanto, la petición de bendición y el retorno forman el espejo de Efraín. | #oseas_12_3-10 y #bereshit_32_25-30 sostienen la memoria; las aplicaciones sobre identidad comunitaria quedan calificadas. |
+
+La adición no crea otra nota para Oseas 12: integra la fuente de Vayétze en la nota canónica existente. Sus dos identificadores son distintos, tienen crédito público y no se atribuyen frases de la transcripción como citas literales.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la alineación de versículos entre `docs/scriptures/oe/json/hosea/12.json` y `docs/scriptures/tth/json/hoshea.json`; la numeración local muestra un desfase visible en esta unidad.
@@ -129,4 +152,5 @@ Oseas 12 confronta a Efraín con una memoria que no permite presumir. El antepas
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Haftarat Vayishlaj Part 4](https://www.youtube.com/watch?v=WDnxTbBQP8I) (`source_id`: `youtube:WDnxTbBQP8I`).
+- Video: [Haftarah de Vayétze' (2017) El amor no es fingido](https://www.youtube.com/watch?v=Bd7DFDMxVYo) (`source_id`: `youtube:Bd7DFDMxVYo`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
