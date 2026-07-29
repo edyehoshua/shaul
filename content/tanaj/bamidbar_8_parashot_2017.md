@@ -586,6 +586,18 @@ La secuencia importa para evaluar la aplicación pastoral. La congregación iden
 
 Eric acierta, por tanto, al insistir en que la luz y el servicio deben beneficiar a Israel; el texto añade que ese beneficio necesita presentación, sustitución y límites. La edad tampoco cancela el fruto: el levita deja la labor pesada, pero sirve a sus hermanos y guarda la custodia. La aplicación contemporánea queda como **pedagógica y aproximada**; la afirmación exacta es que Bamidbar 8 hace visible una responsabilidad recibida, comunitaria y regulada por יהוה.
 
+## Reparación focal: la custodia protege el acceso sin crear una élite
+
+La exposición de Eric sobre servidores que reciben su tarea debe probarse con el propósito que el capítulo da a los leviím. OE dice: **ולכפר על בני ישראל ולא יהיה בבני ישראל נגף בגשת בני ישראל אל הקדש**, y TTH: «para hacer reconciliación por los hijos de Israel, para que no haya plaga entre los hijos de Israel al acercarse los hijos de Israel a la Santidad» (#bamidbar_8_19). La función no consiste en poseer la presencia ni en controlar al pueblo por iniciativa propia: protege a la congregación de un acercamiento no regulado.
+
+**(כפר)**, _kafar_, tiene como sentido normal cubrir y, en esta construcción cultual, hacer reconciliación; su fuerza contextual es una función ritual asignada a los leviím, no una autorización personal para absolver. **(נגף)**, _negaf_, significa golpe, plaga o tropiezo; aquí señala la consecuencia del acercamiento indebido al santuario, no una promesa general de protección contra cualquier daño. **(קרב)**, _qarav_, significa acercarse o aproximarse; en este versículo describe la aproximación física al ámbito santo. «Acceso espiritual» es una aplicación pedagógica, no la equivalencia exacta del verbo.
+
+El orden de los sujetos también limita la aplicación. יהוה habla, Moshéh transmite, Aharón presenta, Israel identifica y los leviím sirven. La comunidad participa mediante la imposición de manos, pero el gesto no convierte a los levitas en propietarios del santuario. **(סמך)**, _samakh_, significa apoyar o poner; su fuerza contextual es identificación y entrega pública. «Transferir poder» es pedagógico e inexacto si borra la orden divina y el propósito comunitario. Eric acierta al denunciar el protagonismo privado; el texto añade que el servicio debe ser verificable, ordenado y protector.
+
+El relevo de 8:23–26 completa la misma lógica. **(שוב)**, _shuv_, significa volver o regresar; aquí marca el cambio desde la labor pesada. **(שרת)**, _sharet_, significa servir o asistir; el levita mayor sigue sirviendo a sus hermanos. **(משמרת)**, _mishmeret_, significa custodia, guardia o encargo; su fuerza contextual es una responsabilidad que permanece, no una autoridad vitalicia. La observación pastoral de Eric es **teológica y aproximada**; la afirmación textual exacta es que יהוה regula la edad, la tarea y la asistencia dentro del servicio levítico.
+
+Delitzsch ofrece un paralelo canónico útil en Ivrim 9:6: **ואחרי נעשו אלה ככה באו הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**, «los sacerdotes entran continuamente en el tabernáculo exterior para realizar allí su servicio». **(עבודה)**, _avodah_, significa trabajo, servicio o labor. La conexión es canónica y aproximada: ambos textos describen servicio cultual regulado, pero Ivrim habla de sacerdotes y Bamidbar 8 de leviím dados para servir a Israel. La comparación confirma el principio de acceso ordenado sin fusionar instituciones ni convertir una aplicación de Eric en el sentido original del capítulo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

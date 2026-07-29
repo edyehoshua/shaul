@@ -705,6 +705,18 @@ El v. 34 resume sin convertir el proceso en automatismo: **והיתה זאת ל�
 
 Así, Eric conserva una intuición importante: la reconciliación no puede separarse de una transformación visible. OE y TTH añaden el límite que hace responsable la aplicación: hay sacerdote, sangre, confesión, envío, lavado, reposo y comunidad. La lectura mesiánica es **canónica y aproximada**; el sentido textual inmediato es un estatuto anual que purifica delante de יהוה y ordena cómo Israel responde.
 
+## Reparación focal: la reconciliación termina en retorno regulado
+
+La observación de Eric sobre una reconciliación que alcanza la vida del pueblo debe incluir el final operativo de Vaikra 16. Después de la confesión y del envío del macho cabrío vivo, Aharón no permanece en una escena simbólica: sale de la Tienda, se quita las vestiduras de lino, se baña, se viste de nuevo y presenta sus holocaustos (#vaikra_16_23-25). El conductor del macho cabrío y quien quema los restos también lavan sus vestidos y su cuerpo antes de regresar al campamento (#vaikra_16_26-28). La secuencia muestra que el rito tiene salida, responsables y reintegración.
+
+**(יצא)**, _yatsa_, significa salir; aquí su fuerza contextual es abandonar el espacio interior después de una fase concluida, no escapar de la presencia divina. **(פשט)**, _pashat_, significa quitar, desvestir o extender; en 16:23 nombra la retirada de las vestiduras de lino, no el despojo de una identidad espiritual. **(לבש)**, _lavash_, significa vestir o ponerse una prenda; marca el cambio de función antes de las ofrendas públicas. «Salir de una experiencia espiritual» es una equivalencia pedagógica, no exacta.
+
+Los servidores secundarios quedan incluidos en la responsabilidad ritual. **(כבס)**, _kavas_, significa lavar, especialmente ropa; **(רחץ)**, _rajats_, significa lavar o bañarse; y **(מחנה)**, _majaneh_, significa campamento. El texto no dice que el lavado sea una regeneración interior automática: prescribe acciones corporales para volver al campamento. La aplicación ética de Eric —una reconciliación que no autoriza continuar en el pecado— es **teológica y aproximada**; la afirmación textual exacta es que quienes manipulan el rito observan un procedimiento antes de reintegrarse.
+
+La asamblea responde en la misma clave visible. OE dice: **תענו את נפשתיכם וכל מלאכה לא תעשו**, y TTH: «Afligirán sus gargantas y no harán ninguna obra» (#vaikra_16_29). **(ענה)**, _anah_, significa afligir, humillar o someter; **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; **(מלאכה)**, _melakhah_, significa obra, labor o trabajo. «Alma separable» es una equivalencia tradicional y aproximada, no una conclusión exigida por la forma. La humillación y el reposo son respuesta comunitaria en una fecha concreta.
+
+Delitzsch relee el patrón en Ivrim 9:7: **והמשכן אשר לפנים ממנו שמה בא הכהן הגדול לבדו פעם אחת בשנה לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «el tabernáculo interior ... el sumo sacerdote solo una vez al año, no sin sangre que ofreciera por su vida y por los yerros del pueblo». **(פעם)**, _paam_, significa vez u ocasión; en Ivrim sostiene la periodicidad anual. La relación es canónica y aproximada: Ivrim interpreta el patrón sacerdotal, pero no elimina de Vaikra la confesión, el envío, el lavado, el reposo ni la diferencia entre los dos machos cabríos. La frase de Eric —«la una sin la otra no tiene sentido»— queda mejor formulada como unidad coordinada del día, no como identidad de funciones.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
