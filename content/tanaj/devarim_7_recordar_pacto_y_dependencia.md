@@ -178,6 +178,14 @@ Este desarrollo califica la tesis de la clase con dos límites. La obediencia no
 - [ ] Comprobar la referencia bibliográfica exacta de la frase sobre libertad atribuida en la clase a George McDowell.
 - [ ] Verificar las alusiones de la clase a Gálatas, Isaías 49 y otros pasajes antes de presentarlas como citas directas o conclusiones históricas.
 
+## La obediencia no compra el pacto: síntesis textual
+
+La observación de Eric sobre recordar para no negociar con יהוה queda especialmente clara al leer juntos OE y TTH. Devarim 7:12 dice **והיה עקב תשמעון את המשפטים האלה ושמרתם ועשיתם אתם**, «y sucederá como consecuencia de que escuchen estos juicios, los guarden y los hagan»; TTH conserva la cadena de escuchar, guardar y hacer. **משפטים**, _mishpatim_, significa juicios, decisiones o normas; aquí su fuerza contextual es el contenido concreto de la obediencia, no una abstracción religiosa. **עקב**, _eqev_, significa talón, huella o consecuencia; «salario» sería una equivalencia pedagógica inexacta, porque el resultado nombrado es que יהוה guarda el pacto y la bondad jurada a los padres.
+
+El mismo discurso limita cualquier lectura de mérito autónomo. OE y TTH presentan Devarim 9:4–6 negando que Israel entre por su justicia o rectitud; **צדקה**, _tsedaqah_, significa justicia o rectitud, y «mérito» solo resume pedagógicamente la pretensión que el texto rechaza. En cambio, 11:22 manda amar, andar y adherirse a יהוה. **דבק**, _davaq_, significa pegarse o adherirse; «comunión» es una equivalencia aproximada. La evaluación de Eric debe conservar ambos lados: la herencia no se compra, pero la respuesta pactal se vuelve visible en escuchar, guardar, hacer, amar y andar.
+
+Así, la dependencia no es pasividad. En 8:18, **וזכרת את יהוה אלהיך כי הוא הנתן לך כח לעשות חיל**, «recordarás a יהוה tu Elohim, porque él es quien te da fuerza para hacer virtud», OE atribuye la capacidad a יהוה y TTH mantiene el contraste con «mi fuerza». **כח**, _koaj_, significa fuerza o capacidad; **חיל**, _jail_, puede significar fuerza, capacidad, riqueza o ejército según el contexto. «Prosperidad garantizada» excede la forma y el pasaje; «capacidad recibida dentro del camino, la tierra y el pacto» es una equivalencia aproximada que conserva mejor la observación pública de Eric.
+
 ## Conclusión
 
 Éqev enseña a recordar para no apropiarse de lo recibido. La obediencia no desaparece: escuchar, guardar, amar y andar con יהוה son la forma visible de una relación de pacto. Pero el pueblo debe recordar que la liberación, la fuerza, la herencia y el cumplimiento de la palabra proceden de יהוה. Así, la memoria protege la obediencia del orgullo y la convierte en dependencia agradecida.
