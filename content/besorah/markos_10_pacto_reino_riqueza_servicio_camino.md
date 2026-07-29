@@ -161,6 +161,14 @@ En el extremo opuesto, **(ἐλέησόν με)**, _eleēson me_, «ten miserico
 
 El resultado prueba la tesis de Eric sin simplificarla. El rico se retira afligido porque la demanda desordena su seguridad; BarTimai recupera la vista y sigue por el camino. La diferencia no demuestra que toda posesión sea pecado ni que toda sanidad produzca discipulado automático. Sí muestra que Marcos pone la herencia, la misericordia y el seguimiento bajo la iniciativa de Yehoshua y que la respuesta visible no es control del reino, sino obediencia dependiente.
 
+## Control de la primera mitad: pacto, recepción y apego
+
+La primera transición del capítulo debe conservarse antes de llegar al hombre rico. En 10:5, **σκληροκαρδία**, _sklērokardia_, «dureza de corazón», explica por qué Moshéh permitió una disposición sobre el divorcio; no convierte la concesión en el propósito creador. En 10:8, **σὰρξ μία**, _sarx mia_, «una sola carne», retoma Bereshit 2:24 y da el criterio positivo de la unión. La equivalencia hebrea **(בשר אחד)**, _basar ejad_, «una carne», acompaña al TTH como comparación semítica funcional, no como prueba de que Marcos sea una retroversión hebrea.
+
+El episodio siguiente cambia de una disputa sobre estatus legal a personas que los discípulos intentan mantener lejos. **παιδία**, _paidia_, «niños», nombra a quienes son acercados a Yehoshua, y **δέξηται**, _dexētai_, «reciba o acoja», describe la respuesta que el reino exige en 10:15. La forma no significa «inocencia perfecta» ni justifica dependencia ciega: dentro de la escena, los niños son quienes carecen de rango y los discípulos son quienes bloquean el acceso. Eric puede hablar de un reino no administrado por privilegio; el orden narrativo lo apoya antes de que aparezca el rico con su propia seguridad.
+
+Por eso la pregunta **τί ποιήσω**, _ti poiēsō_, «¿qué haré?», de 10:17 debe leerse después de esa recepción y no como una fórmula aislada de mérito. **κληρονομήσω**, _klēronomēsō_, «heredaré», pertenece al campo de recibir una herencia, mientras **πώλησον**, _pōlēson_, «vende», **δός**, _dos_, «da», y **ἀκολούθει**, _akolouthei_, «sigue», forman la respuesta concreta de 10:21. «Heredar» y «recibir» son equivalencias contextuales relacionadas, no idénticas; la secuencia muestra que Yehoshua expone el apego del personaje y no establece aquí una regla financiera idéntica para cada discípulo.
+
 ## Mapa de la enseñanza de Eric
 
 - **Marcos 10:1-12 — divorcio y creación:** la parte 32 sitúa el debate de escuelas y la restricción a la inmoralidad sexual; la nota sostiene el retorno a Bereshit y marca el alcance pastoral extendido como elaboración.
