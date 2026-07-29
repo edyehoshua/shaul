@@ -105,6 +105,14 @@ El final convoca: «alégrense en יהוה y gócense, justos; y canten todos lo
 | #tehilim_32_8-9   | La Escritura debe cultivar conciencia; יהוה enseña el camino, y el ser humano no debe vivir como caballo que sólo responde a freno.                                    | Entender, enseñar, camino, ojo, caballo, freno y brida son textuales; la aplicación al orden comunitario es pedagógica.                                   |
 | #tehilim_32_10-11 | No hay destino de pecado generacional que excuse la rebelión; el que confía queda rodeado por חסד y termina cantando con los rectos.                                   | El contraste entre malvado y confiado, חסד y canto es textual; los hijos de Coré y los profetas son apoyo intertextual que debe cotejarse.                |
 
+## Verificación desarrollada: confesión, responsabilidad y freno
+
+La fuente pública `youtube:UoOufP7bDkA` permite precisar el énfasis de Eric sin convertir la transcripción en cita literal. Aproximadamente entre 00:41:10 y 00:41:35, explica que dejar de confesar mantiene la culpa encerrada; cerca de 00:46:10-00:47:00 vuelve al rugido, al desgaste y a la presión interior. Tehilim 32:3-5 prueba el recorrido que la clase observa: callar se expresa como huesos que se consumen y mano pesada, mientras hacer conocer el pecado, no cubrir la iniquidad y confesar las rebeliones precede a que יהוה levante la culpa. La conexión con síntomas médicos concretos sería ilegítima; el salmo ofrece una imagen poética y moral de aflicción.
+
+Entre aproximadamente 00:46:56 y 00:48:00, Eric distingue **חטאה**, **עון** y **פשע** como pecado, iniquidad y rebelión, y reconoce que la confesión no funciona como una negociación para evitar responsabilidad. La secuencia local contiene las tres formas en 32:5, pero sus campos pueden solaparse en otros pasajes. **חטא** (_chata_) significa errar o pecar; **עון** (_avon_) significa iniquidad o culpa torcida; **פשע** (_pesha_) significa rebelión o transgresión. La distinción de tres niveles es **pedagógica y aproximada**; el movimiento «reconocer, confesar y recibir levantamiento» es **textual**.
+
+La clase vuelve a la responsabilidad personal frente a la idea de pecados generacionales, aproximadamente entre 00:58:37 y 01:00:00. Eric usa ejemplos de los hijos de Coré y de los profetas para sostener que el descendiente no está obligado a repetir la rebelión de su padre. Tehilim 32:10 solo contrasta los muchos dolores del malvado con el חסד que rodea al que confía; por eso la aplicación requiere el cotejo intertextual que Eric hace y no debe atribuir al v. 10 una teoría genética completa. Finalmente, cerca de 01:10:20, la imagen del caballo y el asno sin entendimiento se aplica a quien solo obedece bajo freno: 32:8-9 sí contrapone enseñanza y brida, pero la formación de la conciencia es una extensión pastoral de la clase.
+
 ## Pendiente de verificar
 
 - [ ] Comparar los matices de נשוי, כסוי, חטאה, עון y פשע en los contextos de Torah y profetas.

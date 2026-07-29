@@ -104,6 +104,14 @@ El cierre manda amar a יהוה, porque él guarda a los fieles y retribuye al q
 | #tehilim_31_18-23 | Las lenguas mentirosas no deben fijar la honra; la presencia de יהוה es la cueva verdadera que guarda de la conspiración.                                              | Mentira, orgullo, secreto del rostro y escucha son textuales; «cueva verdadera» es metáfora explicativa.                                                      |
 | #tehilim_31_24-25 | Esperar no es quedar inmóvil: amar a יהוה y fortalecer el corazón permite perseverar hasta que llegue la liberación.                                                   | El mandato de amar, guardar fidelidad y fortalecer el corazón es directo; la explicación contra el positivismo es aplicación.                                 |
 
+## Verificación desarrollada: cueva histórica, refugio y rescate
+
+La fuente pública `youtube:Nm5fsBe_NSA` permite precisar el desdoblamiento que Eric mantiene a lo largo de la clase. Aproximadamente entre 00:07:23 y 00:08:00, describe al David histórico refugiado literalmente en cavernas y cuevas; poco después insiste en que ese refugio natural no es todavía la seguridad última. Esta observación concreta se prueba con #tehilim_31_3-5: el poema nombra roca, fortaleza y red, pero atribuye la seguridad a יהוה y le pide sacar al orante de la trampa. La cueva histórica es, por tanto, contexto atribuido; no debe reemplazar el acto verbal de confiar y pedir rescate.
+
+Aproximadamente entre 00:10:46 y 00:11:20, Eric vuelve a enlazar «refugio y rescate»: el orante puede estar refugiado y, aun así, pedir que יהוה lo libre. Romanos no está en discusión aquí; el propio salmo confirma la tensión en 31:2-5 y 31:8-9: «en ti me refugié» aparece junto a «sácame de la red» y «pusiste mis pies en espacio amplio». **חסה** (_chasah_) significa refugiarse o buscar protección; **פלט** (_palat_) significa librar o hacer escapar. Sus sentidos normales son directos en el movimiento del poema; leer la salida como una libertad mesiánica completa es una aplicación intertextual y cualificada.
+
+La misma clase entreteje al David histórico con un David profético o amado, aproximadamente entre 00:21:42 y 00:22:20 y de nuevo cerca de 00:39:43. Esa lectura explica por qué la nota conserva ambas capas: el encabezado y las cuevas sostienen el plano histórico, mientras la entrega del espíritu, el rostro iluminado y la espera abren una lectura canónica posterior. La relación mesiánica es **aproximada y pedagógica**, no una traducción alternativa del nombre David ni una afirmación de que cada detalle geográfico sea profecía directa.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la reconstrucción histórica de David en el desierto de Yehudáh con los relatos de Shemuel.
