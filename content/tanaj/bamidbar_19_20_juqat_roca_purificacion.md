@@ -144,6 +144,19 @@ La muerte de Aharón confirma el mismo límite. Sus vestiduras pasan a Eleazar, 
 - Tehilim 95:7-11 — Meribah se recuerda como advertencia contra endurecer el corazón.
 - Devarim 32:4 — la Roca es completa en su acción y justa en todos sus caminos.
 
+## Mapa ampliado de la exposición y de la perícopa
+
+La fuente pública `youtube:0a9JenvoNhM` presenta «La Roca» como una enseñanza sobre provisión, prueba y responsabilidad del mediador. Esa formulación no debe quedar separada en lemas: Bamidbar 19 comienza con un **חקת** (_juqat_), estatuto recibido, y Bamidbar 20 termina con la muerte de Aharón y el relevo de sus vestiduras. El recorrido local permite evaluar la observación de Eric en cuatro movimientos:
+
+| Unidad textual | Observación concreta de Eric                                                                                                 | Evaluación contra OE y TTH                                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 19:1-10        | La santidad trata la muerte mediante una orden recibida, no mediante una técnica autónoma.                                   | Apoyo textual: la vaca, las cenizas, el hisopo, el agua y los días están regulados; «magia purificadora» sería una equivalencia pedagógica que el capítulo rechaza. |
+| 19:11-22       | La impureza de la muerte alcanza a la persona y al campamento, pero el procedimiento también impone límites al que purifica. | Apoyo directo: **טמא** (_tame_) nombra un estado cultual; **הזה** (_hizah_) nombra rociar; ninguno significa automáticamente «culpa moral».                         |
+| 20:1-13        | La Roca provee agua, pero el representante no puede reemplazar la palabra de יהוה con su propia acción.                      | Apoyo cualificado: el agua sale, pero 20:12 identifica no afirmarse y no santificar; el resultado no convierte el golpe en obediencia.                              |
+| 20:14-29       | La continuidad del servicio no depende de la permanencia de un solo mediador.                                                | Apoyo narrativo: **בגד** (_beged_) son las vestiduras que pasan a Eleazar y **אסף** (_asaf_) describe ser reunido; «transferencia de poder» sería inexacto.         |
+
+La equivalencia «La Roca» es, por tanto, **teológica y aproximada** cuando designa la fidelidad de יהוה; **סלע** (_sela‘_) conserva en 20:8-11 el sentido normal y contextual de peña concreta. Eric acierta al unir provisión y dependencia, pero el texto limita la aplicación: la santidad se recibe, la palabra se obedece y el mediador no se convierte en fuente del don.
+
 ## Conclusión
 
 Bamidbar 19–20 no opone purificación y provisión: ambas dependen de la palabra de יהוה. La muerte exige un tratamiento santo; la sed recibe agua; y aun así el liderazgo es juzgado por cómo representa al dador. «La Roca» es una lectura provechosa sólo si conserva esta tensión: יהוה permanece firme, provee a su pueblo y exige que su santidad no sea reemplazada por una acción humana, aunque produzca agua.
