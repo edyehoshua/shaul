@@ -76,19 +76,19 @@ Desde ahí la clase enlaza emunah (#ivrim_11_1) como entrega de Elohim, corrige 
 
 La institucionalidad divina se manifiesta en casi toda la Escritura bajo dos tronos:
 
-| Trono | Función en la clase | Asociación |
-| --- | --- | --- |
-| Trono de la gracia | Misericordia, amor entrañable, acceso al lugar santísimo | Elohim |
-| Trono del juicio | Tribunal de justicia, presentación de causa | יהוה |
+| Trono              | Función en la clase                                      | Asociación |
+| ------------------ | -------------------------------------------------------- | ---------- |
+| Trono de la gracia | Misericordia, amor entrañable, acceso al lugar santísimo | Elohim     |
+| Trono del juicio   | Tribunal de justicia, presentación de causa              | יהוה       |
 
 Para el lector hebreo de Ivrim esto era «sobreentendido»: no hace falta un tratado aparte porque una sola línea basta para evocar el marco entero.
 
 ### Hoja de comparación: Ivrim y los dos tronos
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #ivrim_4_16 | עַל כֵּן נִקְרַבָה בְּבִטְחוֹן לִפְנֵי כִּסֵּא הַחֶסֶד לְשָׂאַת רַחֲמִים וְלִמְצֹא חֶסֶד לְעֶזְרָה בְּעִתָּהּ (Delitzsch) | Acercarse confiadamente al trono de la gracia para misericordia y socorro oportuno |
-| #ivrim_10_19 | וְעַתָּה אַחַי בִּהְיוֹת לָנוּ בִּטְחוֹן דֶּרֶךְ הַקֹּדֶשׁ בְּדַם יֵשׁוּעַ (Delitzsch) | Libertad de entrar al lugar santísimo por el sacrificio de Yeshúa |
+| Referencia   | Texto local                                                                                                                                            | Función en la clase                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| #ivrim_4_16  | עַל כֵּן נִקְרַבָה בְּבִטְחוֹן לִפְנֵי כִּסֵּא הַחֶסֶד לְשָׂאַת רַחֲמִים וְלִמְצֹא חֶסֶד לְעֶזְרָה בְּעִתָּהּ (Delitzsch)                              | Acercarse confiadamente al trono de la gracia para misericordia y socorro oportuno                                   |
+| #ivrim_10_19 | וְעַתָּה אַחַי בִּהְיוֹת לָנוּ בִּטְחוֹן דֶּרֶךְ הַקֹּדֶשׁ בְּדַם יֵשׁוּעַ (Delitzsch)                                                                 | Libertad de entrar al lugar santísimo por el sacrificio de Yeshúa                                                    |
 | #ivrim_10_22 | נִקְרַבָה נָא בְּלֵבָב שָׁלֵם וּבֶאֱמוּנָה תְמִימָה מְטֹהֲרִים בְּהַזָּיַת לְבָבֵנוּ מֵרוּחַ רָעָה וְרָחוּצֵי הַבָּשָׂר בְּמַיִם טְהוֹרִים (Delitzsch) | Corazón sincero, certidumbre de fidelidad, corazones purificados, cuerpos lavados en agua pura (inmersión/confesión) |
 
 TTH no está disponible localmente para estos pasajes de Ivrim; Delitzsch cubre el texto hebreo citado en la clase.
@@ -109,17 +109,17 @@ La misma lógica aplica cuando el texto dice que ora a Elohim: no implica autom�
 
 La clase retoma el inventario de los cuatro evangelios (34 palabras en total en escenas de dirección hacia el cielo) y enlaza tres verbos con #iojanan_11:
 
-| Verbo griego / hebreo | Sentido en la clase | Enlace en Yojanán 11 |
-| --- | --- | --- |
-| **(εὐλογέω)** / confesar adopción | Al comer se confiesa que יהוה es padre de muchos (**varuj**, injertos) | Confesión hacia el cielo |
-| **(εὐχαριστέω)** / **(הִתְאַנֶּה)** hit'aneh | Suplicar gracia, no «dar gracias» en sentido moderno | #iojanan_11_41 |
-| **(ἐντυγχάνω)** | Gestionar, procurar promesas (cap. 17) | Misma línea argumental |
+| Verbo griego / hebreo                        | Sentido en la clase                                                    | Enlace en Yojanán 11     |
+| -------------------------------------------- | ---------------------------------------------------------------------- | ------------------------ |
+| **(εὐλογέω)** / confesar adopción            | Al comer se confiesa que יהוה es padre de muchos (**varuj**, injertos) | Confesión hacia el cielo |
+| **(εὐχαριστέω)** / **(הִתְאַנֶּה)** hit'aneh | Suplicar gracia, no «dar gracias» en sentido moderno                   | #iojanan_11_41           |
+| **(ἐντυγχάνω)**                              | Gestionar, procurar promesas (cap. 17)                                 | Misma línea argumental   |
 
 ### Hoja de comparación: #iojanan_11_41-42
 
-| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #iojanan_11_41 | וישוע נשא את עיניו למרום ויאמר אודך אבי כי עניתני | Y alzó sus ojos arriba, diciendo: Padre mío, te confieso, porque me has escuchado. | **Abba** aquí no abre diálogo con otro ser, sino confesión ante el cielo |
+| Referencia     | Hebreo (Delitzsch, sin nikud)                                                               | TTH (ES)                                                                                                                                         | Observación                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| #iojanan_11_41 | וישוע נשא את עיניו למרום ויאמר אודך אבי כי עניתני                                           | Y alzó sus ojos arriba, diciendo: Padre mío, te confieso, porque me has escuchado.                                                               | **Abba** aquí no abre diálogo con otro ser, sino confesión ante el cielo              |
 | #iojanan_11_42 | ואני ידעתי כי מדי אדבר אתה תענה אפס בעבור העם העמד עלי דברתי כן לבעבור יאמינו כי אתה שלחתני | Yo sabía que en todo tiempo me has escuchado, pero por causa de la gente que está alrededor lo dije, para que se afirmen, que Tú me has enviado. | La pregunta clave: **¿quién eres tú?** — la palabra que envía es la palabra de Elohim |
 
 ## Abba como palabra instituida
@@ -130,11 +130,11 @@ Eso encaja con #bereshit_15 y con la lectura de #iojanan_11_42: «para que crean
 
 ### Hoja de comparación: juramento y antorcha (#bereshit_15, #ivrim_6_13)
 
-| Referencia | Hebreo (OE / Delitzsch) | Función en la clase |
-| --- | --- | --- |
-| #bereshit_15_12 | ויהי השמש לבוא ותרדמה נפלה על אברם והנה אימה חשכה גדלה נפלת עליו (OE) | Sueño profundo sobre Abraham; solo la antorcha pasa entre las piezas |
-| #bereshit_15_17 | והנה תנור עשן ולפיד אש אשר עבר בין הגזרים האלה (OE) | Elohim jura por sí mismo: no hay otro mayor por quien jurar |
-| #ivrim_6_13 | כי בהבטיח אלהים את אברהם נשבע בנפשו יען אשר אין גדול ממנו להשבע בו (Delitzsch) | Si las promesas estuvieran amenazadas, él mismo vendría a morir para garantizarlas |
+| Referencia      | Hebreo (OE / Delitzsch)                                                        | Función en la clase                                                                |
+| --------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| #bereshit_15_12 | ויהי השמש לבוא ותרדמה נפלה על אברם והנה אימה חשכה גדלה נפלת עליו (OE)          | Sueño profundo sobre Abraham; solo la antorcha pasa entre las piezas               |
+| #bereshit_15_17 | והנה תנור עשן ולפיד אש אשר עבר בין הגזרים האלה (OE)                            | Elohim jura por sí mismo: no hay otro mayor por quien jurar                        |
+| #ivrim_6_13     | כי בהבטיח אלהים את אברהם נשבע בנפשו יען אשר אין גדול ממנו להשבע בו (Delitzsch) | Si las promesas estuvieran amenazadas, él mismo vendría a morir para garantizarlas |
 
 El último sello de las promesas es el sacrificio de Elohim en carne.
 
@@ -148,35 +148,35 @@ La clase resuelve la tensión así:
 - No está gestionando ante «otro» como persona separada, sino ante la palabra instituida.
 - No podía quedarse en el sepulcro por ser Elohim; la escena describe el protocolo de entrega, no duda sobre su poder de resucitar.
 
-| Referencia | Texto local | Observación |
-| --- | --- | --- |
-| #ivrim_5_7 | אשר בימי היותו בבשר הקריב תפלות ותחנונים בצעקה גדולה ובדמעות לפני מי שיכול להושיעו ממות (Delitzsch) | Clamor por nosotros, no confesión de pecado propio |
-| #iojanan_10_18 | איש לא יקח נפשי ממני כי אם אני אתננה… זאת המצוה צויתי מאת אבי (Delitzsch) | Dominio sobre su vida; el «Padre» aquí encaja con palabra/mandato instituido |
+| Referencia     | Texto local                                                                                         | Observación                                                                  |
+| -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| #ivrim_5_7     | אשר בימי היותו בבשר הקריב תפלות ותחנונים בצעקה גדולה ובדמעות לפני מי שיכול להושיעו ממות (Delitzsch) | Clamor por nosotros, no confesión de pecado propio                           |
+| #iojanan_10_18 | איש לא יקח נפשי ממני כי אם אני אתננה… זאת המצוה צויתי מאת אבי (Delitzsch)                           | Dominio sobre su vida; el «Padre» aquí encaja con palabra/mandato instituido |
 
 ## Emunah: entrega de Elohim (#ivrim_11_1)
 
 La clase redefine **emunah** frente al uso moderno de «fe» como obra humana:
 
-| Aspecto | Lectura de la clase |
-| --- | --- |
-| Definición (#ivrim_11_1) | בטחון במה שֶׁנִּצְפֶּה לוֹ — confianza en lo prometido; demostración de lo no visto |
-| Origen | No es logro humano: es la entrega de Elohim, la instancia última de la esperanza |
-| Manifestación | Elohim vino a ofrecer su propio cuerpo como corbán perfecto |
-| En #iojanan_11_45 | «Se afirmaron en él» = recibieron emunah concedida, no generaron fe por esfuerzo propio |
+| Aspecto                  | Lectura de la clase                                                                     |
+| ------------------------ | --------------------------------------------------------------------------------------- |
+| Definición (#ivrim_11_1) | בטחון במה שֶׁנִּצְפֶּה לוֹ — confianza en lo prometido; demostración de lo no visto     |
+| Origen                   | No es logro humano: es la entrega de Elohim, la instancia última de la esperanza        |
+| Manifestación            | Elohim vino a ofrecer su propio cuerpo como corbán perfecto                             |
+| En #iojanan_11_45        | «Se afirmaron en él» = recibieron emunah concedida, no generaron fe por esfuerzo propio |
 
 Texto base:
 
-| Referencia | Delitzsch (hebreo) |
-| --- | --- |
+| Referencia  | Delitzsch (hebreo)                                                       |
+| ----------- | ------------------------------------------------------------------------ |
 | #ivrim_11_1 | כי האמונה היא בטחון במה שֶׁנִּצְפֶּה לוֹ והוכחת דברים שֶׁאֵינָם נְרָאִים |
 
 La clase cita también #efesios_2_8-9 y #filipenses_1_29 en la misma línea: la emunah y aun el padecer por el Mesías son concedidos, no producidos como mérito humano.
 
-| Referencia | Delitzsch | Función en la clase |
-| --- | --- | --- |
-| #efesios_2_8 | כִּי־בַחֶסֶד נוֹשַׁעְתֶּם עַל־יְדֵי הָאֱמוּנָה וְלׂא מִיֶּדְכֶם הָיְתָה זּׂאת כִּי־מַתַּת אֱלׂהִים הִיא | Salvación por gracia mediante emunah: don de Elohim |
-| #efesios_2_9 | לׂא מִתּוֹךְ הַמַּעֲשִׂים שֶׁלּא יִתְהַלֵּל אִישׁ | Excluye la jactancia por obras |
-| #filipenses_1_29 | כִּי־לָכֶם נִתַּן לְהִתְעַנּוֹת בְּעַד הַמָּשִׁיחַ וְלׂא־לְהַאֲמִין בּוֹ בִּלְבָד | Se concede afirmarse en él y padecer por él |
+| Referencia       | Delitzsch                                                                                               | Función en la clase                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| #efesios_2_8     | כִּי־בַחֶסֶד נוֹשַׁעְתֶּם עַל־יְדֵי הָאֱמוּנָה וְלׂא מִיֶּדְכֶם הָיְתָה זּׂאת כִּי־מַתַּת אֱלׂהִים הִיא | Salvación por gracia mediante emunah: don de Elohim |
+| #efesios_2_9     | לׂא מִתּוֹךְ הַמַּעֲשִׂים שֶׁלּא יִתְהַלֵּל אִישׁ                                                       | Excluye la jactancia por obras                      |
+| #filipenses_1_29 | כִּי־לָכֶם נִתַּן לְהִתְעַנּוֹת בְּעַד הַמָּשִׁיחַ וְלׂא־לְהַאֲמִין בּוֹ בִּלְבָד                       | Se concede afirmarse en él y padecer por él         |
 
 ## «Cumplió la ley»: por qué el cliché falla
 
@@ -186,9 +186,9 @@ Tanto en cristianismo como en cierto mesianismo se repite que Yeshúa «cumplió
 - Decir «cumplió todo» abre objeciones concretas (¿diezmos? ¿esposa e hijos? ¿shemitá?).
 - Mejor formulación bíblica: **vino a hacer lo escrito sobre él en el rollo**.
 
-| Referencia | Texto local | Función |
-| --- | --- | --- |
-| #ivrim_10_7 | אז אמרתי הנני באתי במגילת ספר כתוב עלי לעשות רצונך אלהי (Delitzsch) | Citando el salmo: vino a la voluntad escrita sobre él |
+| Referencia       | Texto local                                                          | Función                                                                       |
+| ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| #ivrim_10_7      | אז אמרתי הנני באתי במגילת ספר כתוב עלי לעשות רצונך אלהי (Delitzsch)  | Citando el salmo: vino a la voluntad escrita sobre él                         |
 | #matityahu_20_28 | כאשר בן האדם לא בא… כי אם לשרת ולתת את נפשו כפר תחת רבים (Delitzsch) | Vino a dar su vida en rescate por muchos, no a «cumplir los 613» en abstracto |
 
 Los **júkjim olam** (estatutos de tiempo oculto) — sacrificios, templo, sacerdocio — apuntaban hasta el tiempo de reformar las cosas y volver al principio, cuando los patriarcas no ofrecían sacrificios por el pecado (desde el becerro de oro en adelante).
@@ -199,10 +199,10 @@ Los **júkjim olam** (estatutos de tiempo oculto) — sacrificios, templo, sacer
 
 En #romanim_10 la clase distingue:
 
-| Tipo | Texto | Límite |
-| --- | --- | --- |
-| Justicia de la Torah | #romanim_10_5 — אשר יעשה אתם האדם וחי בהם | Vive dentro del procedimiento correcto, pero no alcanza vida eterna por sí sola |
-| Justicia de Elohim por emunah | #romanim_10_3 — לא ידעו את צדקת אלהים | Inalcanzable por esfuerzo humano; es don |
+| Tipo                          | Texto                                     | Límite                                                                          |
+| ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------- |
+| Justicia de la Torah          | #romanim_10_5 — אשר יעשה אתם האדם וחי בהם | Vive dentro del procedimiento correcto, pero no alcanza vida eterna por sí sola |
+| Justicia de Elohim por emunah | #romanim_10_3 — לא ידעו את צדקת אלהים     | Inalcanzable por esfuerzo humano; es don                                        |
 
 Israel antiguo ya sabía que la Torah, aunque guardada, no bastaba para salvación eterna. En el siglo I los fariseos complicaron el mapa con meritocracia, limpieza de culpas, seno de Abraham y obras póstumas en nombre de los muertos.
 
@@ -210,8 +210,8 @@ Israel antiguo ya sabía que la Torah, aunque guardada, no bastaba para salvaci�
 
 #romanim_6_22 inverte la lógica farisaica:
 
-| Referencia | Delitzsch | Lectura |
-| --- | --- | --- |
+| Referencia    | Delitzsch                                    | Lectura                                                                                    |
+| ------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | #romanim_6_22 | אכן עתה… יש לכם פריכם לקדשה ואחריתו חיי עולם | Ya liberados del pecado: el fruto es santificación; el fin (vida eterna) ya está asegurado |
 
 La observancia de la Torah no es carrera para «ganar» salvación, sino deber natural del injerto en el olivo: fruto apacible de justicia, como #yoel_2_22 y el salmo 1 (fruto en su tiempo).
@@ -222,12 +222,12 @@ Analogía de la clase: primero recibes el título (salvación por emunah); despu
 
 La clase enlaza esta lógica con Yaakov: las obras no compran salvación, pero una emunah recibida no queda estéril. El énfasis no es competir por mérito, sino exhibir el fruto natural de quienes fueron hechos siervos de Elohim.
 
-| Referencia | Delitzsch / OE | Lectura |
-| --- | --- | --- |
-| #yoel_2_22 | אל תיראו בהמות שדי כי דשאו נאות מדבר כי עץ נשא פריו תאנה וגפן נתנו חילם (OE) | El fruto viene en su tiempo; imagen usada para santificación sin medición competitiva |
-| #yaakov_2_17 | כָּכָה גַּם־הָאֱמוּנָה אִם־אֵין בָּהּ מַעֲשִׂים מֵתָה הִיא בְּעַצְמָהּ | Emunah sin obras queda muerta en sí misma |
-| #yaakov_2_18 | וְאִם־יׂאמַר אִישׁ אַתָּה אֱמוּנָה בְךָ וְלִי מַעֲשִׂים... | Las obras muestran la emunah, no la fabrican como mérito |
-| #yaakov_2_22 | הִנְּךָ רׂאֶה כִּי־הָאֱמוּנָה עׂזֶרֶת לְמַעֲשָׂיו וּמִתּוֹךְ הַמַּעֲשִׂים הָשְׁלְמָה הָאֱמוּנָה | Obras y emunah operan juntas; la emunah se completa en la práctica |
+| Referencia   | Delitzsch / OE                                                                                  | Lectura                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| #yoel_2_22   | אל תיראו בהמות שדי כי דשאו נאות מדבר כי עץ נשא פריו תאנה וגפן נתנו חילם (OE)                    | El fruto viene en su tiempo; imagen usada para santificación sin medición competitiva |
+| #yaakov_2_17 | כָּכָה גַּם־הָאֱמוּנָה אִם־אֵין בָּהּ מַעֲשִׂים מֵתָה הִיא בְּעַצְמָהּ                          | Emunah sin obras queda muerta en sí misma                                             |
+| #yaakov_2_18 | וְאִם־יׂאמַר אִישׁ אַתָּה אֱמוּנָה בְךָ וְלִי מַעֲשִׂים...                                      | Las obras muestran la emunah, no la fabrican como mérito                              |
+| #yaakov_2_22 | הִנְּךָ רׂאֶה כִּי־הָאֱמוּנָה עׂזֶרֶת לְמַעֲשָׂיו וּמִתּוֹךְ הַמַּעֲשִׂים הָשְׁלְמָה הָאֱמוּנָה | Obras y emunah operan juntas; la emunah se completa en la práctica                    |
 
 ## #iojanan_11_45-52: emunah, sanedrín y herederos de Elohim
 
@@ -235,13 +235,13 @@ Tras la resurrección de Eleazar, el evangelio pasa del milagro a la consecuenci
 
 ### Hoja de comparación: reacción y profecía de Caifás
 
-| Referencia | Hebreo (Delitzsch) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #iojanan_11_45 | ורבים מן היהודים… ויאמינו בו | Muchos… se afirmaron en Él | Emunah concedida, no obra |
-| #iojanan_11_47 | ויקהילו… את הסנהדרין | Se reunieron… con la asamblea | **Synagōgē** = reunión; aquí el sanedrín |
-| #iojanan_11_50 | כי טוב לכם אשר ימות איש אחד בעד העם | Un hombre muera por el pueblo | Caifás: conveniencia política |
-| #iojanan_11_51 | נבא בפיו כי ישוע ימות בעד העם | Profetizó que Yeshúa moriría por el pueblo | Por cargo de gran sacerdote, no por santidad personal |
-| #iojanan_11_52 | ולא לבד בעד העם כי אם גם לקבץ את בני האלהים הנפצים והיו לאחדים | No solo por el pueblo, sino para reunir en uno a los hijos de Elohim dispersos | Corrección de Yojanán al marco estrecho de Caifás |
+| Referencia     | Hebreo (Delitzsch)                                             | TTH (ES)                                                                       | Observación                                           |
+| -------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| #iojanan_11_45 | ורבים מן היהודים… ויאמינו בו                                   | Muchos… se afirmaron en Él                                                     | Emunah concedida, no obra                             |
+| #iojanan_11_47 | ויקהילו… את הסנהדרין                                           | Se reunieron… con la asamblea                                                  | **Synagōgē** = reunión; aquí el sanedrín              |
+| #iojanan_11_50 | כי טוב לכם אשר ימות איש אחד בעד העם                            | Un hombre muera por el pueblo                                                  | Caifás: conveniencia política                         |
+| #iojanan_11_51 | נבא בפיו כי ישוע ימות בעד העם                                  | Profetizó que Yeshúa moriría por el pueblo                                     | Por cargo de gran sacerdote, no por santidad personal |
+| #iojanan_11_52 | ולא לבד בעד העם כי אם גם לקבץ את בני האלהים הנפצים והיו לאחדים | No solo por el pueblo, sino para reunir en uno a los hijos de Elohim dispersos | Corrección de Yojanán al marco estrecho de Caifás     |
 
 ### Hijos de Elohim = herederos del trono de la gracia
 
@@ -259,43 +259,43 @@ Identidad actual del creyente: hijo/heredero de Elohim, siervo del Logos; no hac
 
 La clase usa #iojanan_11_52 contra la idea de dos pueblos separados, uno judío y otro «iglesia» con instrucciones distintas. Si el propósito del sacrificio es congregar en uno a los dispersos, entonces la respuesta práctica tampoco puede dividirse en dos marcos de fidelidad.
 
-| Referencia | Hebreo (OE, sin nikud) | Función en la clase |
-| --- | --- | --- |
-| #shemot_12_49 | תורה אחת יהיה לאזרח ולגר הגר בתוככם | Una misma Torah para natural y extranjero residente |
+| Referencia      | Hebreo (OE, sin nikud)                    | Función en la clase                                 |
+| --------------- | ----------------------------------------- | --------------------------------------------------- |
+| #shemot_12_49   | תורה אחת יהיה לאזרח ולגר הגר בתוככם       | Una misma Torah para natural y extranjero residente |
 | #bamidbar_15_16 | תורה אחת ומשפט אחד יהיה לכם ולגר הגר אתכם | Una Torah y un juicio para el pueblo y el injertado |
 
 La observancia no se presenta como condición para ser reunido, sino como forma coherente de vivir después de haber sido unido a la raíz. El problema que la clase confronta es usar «eso era para los judíos» como excusa para autoexcluirse de la instrucción de יהוה.
 
 ## Cierre del capítulo: retiro, Pésaj y captura (#iojanan_11_53-57)
 
-| Referencia | Lectura en la clase |
-| --- | --- |
-| #iojanan_11_53 | «Matarle» — mejor: no **preservarle** la vida (mismo verbo que en #corinthians2_3_6: la letra no da vida eterna, solo se acerca) |
-| #iojanan_11_54 | Yeshúa se retira a Efráim, cerca del desierto; ya no anda abiertamente entre los yehudim |
-| #iojanan_11_55 | **Pésaj de los yehudim** — no la pascua samaritana ni calendarios esenios; suben para **purificarse** / rehabilitarse |
-| #iojanan_11_56-57 | Búsqueda en el Hejal; orden de delatarlo para capturarlo |
+| Referencia        | Lectura en la clase                                                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_11_53    | «Matarle» — mejor: no **preservarle** la vida (mismo verbo que en #corinthians2_3_6: la letra no da vida eterna, solo se acerca) |
+| #iojanan_11_54    | Yeshúa se retira a Efráim, cerca del desierto; ya no anda abiertamente entre los yehudim                                         |
+| #iojanan_11_55    | **Pésaj de los yehudim** — no la pascua samaritana ni calendarios esenios; suben para **purificarse** / rehabilitarse            |
+| #iojanan_11_56-57 | Búsqueda en el Hejal; orden de delatarlo para capturarlo                                                                         |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la clase | Observación |
-| --- | --- | --- | --- |
-| **(כִּסֵּא הַחֶסֶד)** | kise ha-jésed | trono de la gracia | #ivrim_4_16; Elohim, misericordia |
-| **(כִּסֵּא הַמִּשְׁפָּט)** | kise ha-mishpat | trono del juicio | Presentación de causa; contraparte del trono de gracia |
-| **(אַבָּא)** | Abba | palabra instituida, promesa enviada | No «Padre» como otro ser en #iojanan_11_41-42 |
-| **(הִתְאַנֶּה)** | hit'aneh | someterse a gracia | Enlazado con εὐχαριστέω en #iojanan_11_41 |
-| **(אֱמוּנָה)** | emunah | entrega/confianza de Elohim | #ivrim_11_1; don, no obra humana |
-| **(בְּנֵי אֱלֹהִים)** | benei Elohim | hijos/herederos de Elohim | En #iojanan_11_52: dispersos reunidos en uno |
-| **(συναγωγή)** | synagōgē | reunión, asamblea | #iojanan_11_47: sanedrín, no «sinagoga» como edificio |
-| **(חֻקֵּי עוֹלָם)** | jukkei olam | estatutos de tiempo oculto | Sacrificios y culto «hasta reformar las cosas» |
+| Término                    | Transliteración | Sentido en la clase                 | Observación                                            |
+| -------------------------- | --------------- | ----------------------------------- | ------------------------------------------------------ |
+| **(כִּסֵּא הַחֶסֶד)**      | kise ha-jésed   | trono de la gracia                  | #ivrim_4_16; Elohim, misericordia                      |
+| **(כִּסֵּא הַמִּשְׁפָּט)** | kise ha-mishpat | trono del juicio                    | Presentación de causa; contraparte del trono de gracia |
+| **(אַבָּא)**               | Abba            | palabra instituida, promesa enviada | No «Padre» como otro ser en #iojanan_11_41-42          |
+| **(הִתְאַנֶּה)**           | hit'aneh        | someterse a gracia                  | Enlazado con εὐχαριστέω en #iojanan_11_41              |
+| **(אֱמוּנָה)**             | emunah          | entrega/confianza de Elohim         | #ivrim_11_1; don, no obra humana                       |
+| **(בְּנֵי אֱלֹהִים)**      | benei Elohim    | hijos/herederos de Elohim           | En #iojanan_11_52: dispersos reunidos en uno           |
+| **(συναγωγή)**             | synagōgē        | reunión, asamblea                   | #iojanan_11_47: sanedrín, no «sinagoga» como edificio  |
+| **(חֻקֵּי עוֹלָם)**        | jukkei olam     | estatutos de tiempo oculto          | Sacrificios y culto «hasta reformar las cosas»         |
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Uso en la clase | Estado |
-| --- | --- | --- |
-| b. Sanhedrin (mundo venidero de todo Israel) | Los fariseos presuponen salvación por descendencia de Abraham | Pendiente de verificar referencia exacta |
-| Talmud (vestidor / comedor) | Esta vida prepara para el mundo venidero; limpieza antes de entrar | Ilustración rabínica citada oralmente |
-| **lifnim mi-shurat ha-din** | Más allá de la línea estricta del juicio: el bien no tiene techo si no contradice el mínimo escrito | Principio citado en la clase |
-| Costumbre de obras por los muertos | Escuelas, hospitales con nombre del difunto para sumar méritos | Contexto histórico farisaico |
+| Fuente                                       | Uso en la clase                                                                                     | Estado                                   |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| b. Sanhedrin (mundo venidero de todo Israel) | Los fariseos presuponen salvación por descendencia de Abraham                                       | Pendiente de verificar referencia exacta |
+| Talmud (vestidor / comedor)                  | Esta vida prepara para el mundo venidero; limpieza antes de entrar                                  | Ilustración rabínica citada oralmente    |
+| **lifnim mi-shurat ha-din**                  | Más allá de la línea estricta del juicio: el bien no tiene techo si no contradice el mínimo escrito | Principio citado en la clase             |
+| Costumbre de obras por los muertos           | Escuelas, hospitales con nombre del difunto para sumar méritos                                      | Contexto histórico farisaico             |
 
 ## Conexiones principales
 
@@ -315,6 +315,17 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 - [ ] Verificar referencia talmúdica exacta sobre «todos los israelitas tienen parte en el mundo venidero».
 - [ ] Revisar léxico de #iojanan_11_53 (ἀποκτείνω vs. preservar vida) en el griego del pasaje.
 - [ ] Desarrollar tabla de jukkei olam citada como pendiente en la clase.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual                                    | Observación concreta de Eric                                                                                                                                  | Prueba y tratamiento en esta nota                                                                                                                                                                                                      |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #ivrim_4_16, #ivrim_10_19-22                      | Las escenas celestiales deben leerse como acceso a una institucionalidad de dos tronos: gracia y juicio.                                                      | Ivrim sí nombra el trono de la gracia y el acceso por la sangre; «trono del juicio» se conserva como marco interpretativo de la clase, no como nombre explícito de esos versos.                                                        |
+| #iojanan_11_41-42                                 | Yehoshua alza los ojos y habla a Abba para que la gente se afirme en que fue enviado; no está pidiendo a otro ser separado.                                   | El texto local confirma la acción pública y su finalidad testimonial; la lectura de «Abba» como palabra instituida es atribuida y se distingue de lo que el verso dice directamente.                                                   |
+| #iojanan_10_18, #ivrim_5_7                        | La vida puesta voluntariamente y el clamor en los días de la carne no son una contradicción: el siervo ejecuta la promesa sin perder autoridad sobre su vida. | Los dos textos afirman, respectivamente, autoridad para poner y retomar la vida y ruegos ante quien podía librar de la muerte; la armonización de «protocolo» queda como inferencia teológica cualificada.                             |
+| #ivrim_11_1, #efesios_2_8-9, #filipenses_1_29     | Emunah es entrega de Elohim y no mérito humano; las obras posteriores son fruto de la santificación.                                                          | Los textos relacionan emunah, gracia, don y obras; «entrega de Elohim» es la formulación de la clase, mientras Yaakov 2 se usa para probar que la emunah no queda estéril.                                                             |
+| #iojanan_11_45-52                                 | La afirmación de muchos y la profecía de Caifás culminan en reunir en uno a los hijos de Elohim dispersos.                                                    | El texto local mantiene la secuencia de creer, deliberar, profetizar y reunir; «herederos del trono de la gracia» se trata como conexión con Ivrim 4:16, no como glosa literal de בני האלהים.                                          |
+| #iojanan_11_53-57, #shemot_12_49, #bamidbar_15_16 | El cierre político y la una Torah contradicen separar a los reunidos en dos marcos de fidelidad.                                                              | Yojanán narra el plan, el retiro y la búsqueda; Shemot y Bamidbar sí expresan una Torah para natural y extranjero. La aplicación comunitaria se conserva como argumento de Eric y no se presenta como resumen exclusivo de Yojanán 11. |
 
 ## Conclusión
 
