@@ -86,6 +86,14 @@ El OE de 35:3 conserva la confesión de Yaakov: **נקומה ונעלה בית �
 
 Por eso el título público de Eric recibe una evaluación doble. Es fiel como consuelo: Yaakov no atraviesa la amenaza y el duelo abandonado por Elohim. Pero sería débil como resumen si quitara la oración, la prudencia, la reprensión de la violencia, la purificación de la casa y la memoria genealógica. «No te dejaré solo» no significa «no tendrás que decidir»; significa que el retorno responsable ocurre bajo una presencia que también corrige.
 
+## 10. La separación de Esav no borra la bendición: Bereshit 36:1–8
+
+El cierre de la unidad no debe terminar en Bet-El como si la historia de Esav fuese un apéndice prescindible. Bereshit 36 comienza con «estas son las generaciones de Esav, él es Edom» y después registra que Esav tomó sus mujeres, sus bienes y «se fue a una tierra, de delante de Yaakov su hermano» (36:1–8). **תולדות**, _toledot_, significa generaciones, descendencia o historia familiar; aquí introduce una genealogía real, no una nota decorativa. **ארץ**, _erets_, significa tierra o territorio; en 36:6–8 señala el espacio al que Esav se traslada porque los bienes de ambos no caben juntos.
+
+La separación se explica por la abundancia, no por la desaparición de Esav. El narrador conserva su nombre, su descendencia y su territorio mientras el relato sigue la línea de Yaakov. «Apartarse del hermano» puede ser una aplicación prudencial **aproximada**, pero no equivale a declarar que el otro queda fuera de toda bendición o de toda responsabilidad histórica. Esta precisión completa la observación de Eric: la presencia de Elohim acompaña a Yaakov sin exigir que la reconciliación visible se convierta en convivencia permanente.
+
+Así, el recorrido textual termina con dos realidades juntas: Yaakov recibe la tierra y la promesa reafirmada en Bet-El, mientras Esav aparece como una nación con genealogía y territorio. La nota no convierte la elección de Yaakov en licencia para despreciar a Edom. La presencia que «no deja solo» también enseña a distinguir retorno, herencia y separación con verdad.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal             | Fuerza contextual                          | Equivalencia                                |
@@ -105,6 +113,7 @@ Por eso el título público de Eric recibe una evaluación doble. Es fiel como c
 | Bereshit 32:24-32 | La identidad se recibe en un forcejeo que termina en bendición.   | Apoyado por el cambio de nombre y la petición de bendición; no se debe ocultar la cojera.                          |
 | Bereshit 33–34    | Reconciliación y conflicto deben discernirse, no confundirse.     | Esav abraza; la violencia de Shimón y Leví es reprendida por Yaakov.                                               |
 | Bereshit 35       | El retorno exige quitar dioses extraños y subir a Bet-El.         | Apoyado directamente por la orden doméstica, el entierro de objetos y el altar.                                    |
+| Bereshit 36:1-8   | La separación de Esav conserva su genealogía y territorio.        | Apoyo textual: la bendición de Yaakov no borra al hermano ni convierte la distancia en desprecio.                  |
 
 ## Conclusión
 
