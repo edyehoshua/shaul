@@ -96,6 +96,14 @@ Esta lectura también evita confundir formas de autoridad. **(כבד)**, _kaved_
 - [ ] Cotejar el texto hebreo de #shemot_22_28 y la sintaxis de Romanos 13 con una edición griega/hebraica completa.
 - [ ] Precisar los contextos históricos de la autoridad del Sanedrín sin convertir la aplicación contemporánea en dato del texto antiguo.
 
+## Observaciones localizadas y límite de la honra
+
+En `youtube:xE79IvA2JdA`, la exposición presenta la diferencia entre honrar a una autoridad y quedar sometido a todo lo que esa autoridad disponga. Se conserva aquí como paráfrasis atribuible, no como cita literal, porque el argumento de Eric funciona como advertencia pastoral contra una palabra religiosa que cambia «dar peso» por «entregar la conciencia». La aplicación recibe **apoyo cualificado**: Éxodo 22:28 prohíbe tratar con desprecio a יהוה o al gobernante, pero Hechos 5:29 muestra que una orden humana no puede desplazar la obediencia a Elohim.
+
+Conviene separar tres formas que la enseñanza relaciona sin hacerlas sinónimas. **(τιμάω)**, _timaō_, significa honrar, valorar o estimar; no es la forma hebrea de Éxodo 22:28, pero sirve como término griego **pedagógico** para describir el reconocimiento de dignidad. **(ὑπακούω)**, _hypakouō_, significa escuchar y obedecer; su sentido ordinario ya añade respuesta a la palabra, por lo que no debe usarse como traducción automática de **(כבד)**, _kaved_, «dar peso u honrar». La relación entre honra y obediencia es **aproximada** y depende de la orden concreta y de su legitimidad.
+
+Levítico 4 impide que la autoridad se vuelva intocable. **(נשיא)**, _nasi_, significa príncipe, jefe o dirigente; en #vaikra_4_22 identifica el cargo del responsable, mientras **(שגגה)**, _shegagah_, significa inadvertencia o error no intencional y limita el caso sacrificial. Estas formas son **directas** en sus respectivos campos; aplicarlas para encubrir una transgresión deliberada sería **ilegítimo**. La observación de Eric queda así preservada en su mejor alcance: honrar protege la dignidad, corregir reconoce la verdad y someterse solo puede exigirse dentro de la autoridad que no contradice a יהוה.
+
 ## Conclusión
 
 La honra bíblica pesa las palabras y protege la dignidad, pero no entrega la conciencia a un cargo. Eric acierta al advertir contra la trampa que convierte respeto en sometimiento; Levítico añade que el dirigente responde por su conducta y puede necesitar perdón. La comunidad debe honrar sin adular, corregir sin difamar y obedecer a יהוה antes que a los hombres cuando el conflicto sea real y demostrable.
