@@ -84,6 +84,14 @@ El versículo 47 explica por qué: «no es palabra vacía de vosotros, porque es
 | Devarim 32:7-14  | La memoria del cuidado sostiene la confianza                      | Apoyo textual: el poema recuerda desierto, protección y herencia antes de narrar el abandono.                                       |
 | Devarim 32:15-43 | La infidelidad recibe juicio, pero el final conserva restauración | Apoyo cualificado: el poema une retribución, soberanía y reconciliación; no permite reducirlo a prosperidad o condena sin contexto. |
 
+## La palabra como herencia que se practica
+
+La exposición de `youtube:e54Boaj8Z_8` no trata el cántico como una pieza para admirar una vez: insiste en que Mosheh debe enseñarlo y ponerlo en la boca de Israel. Esa observación encuentra su lugar exacto entre 32:44 y 32:47. El canto se pronuncia «a oídos del pueblo», se ordena aplicar el corazón a «todas» sus palabras y se declara que no es una palabra vacía, sino vida. La recepción es, por tanto, comunitaria y obediente; no basta seleccionar las frases de consuelo y omitir las de acusación.
+
+El verbo **שימו**, _simu_, ya explicado como «pongan», y **לבבכם**, _levavkhem_, «su corazón», describen una acción de atención y disposición. **לבב**, _levav_, significa corazón, centro interior o voluntad; en este contexto su fuerza alcanza el discernimiento que debe quedar formado por el cántico. «Intelecto» sería demasiado estrecho y «sentimiento» demasiado débil. TTH conserva la exhortación a aplicar el corazón, mientras OE mantiene el mandato plural dirigido a la asamblea. La equivalencia «interiorizar» es pedagógica, no una traducción completa.
+
+Eric conecta esta transmisión con su lectura de la fidelidad de Yehoshua y con Romanos 3 y 5. Esa conexión puede conservarse como recepción canónica posterior, pero no debe reemplazar la conclusión inmediata: el canto forma a Israel para reconocer la Roca, recordar el cuidado, diagnosticar la apostasía y esperar la justicia. Incluso la frase «es vuestra vida» no promete que toda circunstancia será cómoda; afirma que la palabra tiene consecuencias vitales para la comunidad que entra en la tierra. La enseñanza queda mejor preservada cuando la aplicación mesiánica nace de la estructura del testimonio y no la sustituye.
+
 ## Conexiones principales
 
 - Devarim 8:11-18 — recordar al dador impide que la abundancia produzca autosuficiencia.
