@@ -14,10 +14,12 @@ references:
   - "#bamidbar_22_22"
   - "#bamidbar_22_31"
 sources:
+  - "https://www.youtube.com/watch?v=qKWysdkjyQQ"
   - "https://www.youtube.com/watch?v=JynK66A9mn0"
   - "docs/scriptures/oe/json/numbers/22.json"
   - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
+  - "youtube:qKWysdkjyQQ"
   - "youtube:JynK66A9mn0"
 translation: "[OE, TTH]"
 ---
@@ -121,6 +123,14 @@ El capítulo no presenta a Balaq como dueño de la interpretación. En 22:41 el 
 | Bamidbar 22:22-35 | El lucro y la concupiscencia vuelven ciego al profeta; el asna ve antes que él.                                       | Apoyo narrativo, con cautela sobre la psicología no explícita.                                   |
 | Bamidbar 22:4     | קהל puede leerse como asamblea y acercarse pedagógicamente a ἐκκλησία.                                                | Aclaración léxica: relación aproximada, no identidad histórica o semántica perfecta.             |
 
+## Aporte de la exposición de 2017: el conjuro no convierte la palabra en mercancía
+
+La clase de 2017 formula el conflicto de manera directa: Balaq no pide refuerzos militares, sino un especialista religioso que debilite a Israel; Eric presenta la oferta de plata y oro como el incentivo que deja al descubierto el lucro de Bilam. El texto sí permite conservar esa observación en forma atribuida: Balaq envía mensajeros para que Bilam diga **ארה**, _'arah_, «maldecir», y promete una recompensa creciente. Sin embargo, «brujo mayor» y la reconstrucción completa de una transacción espiritual son caracterizaciones de la exposición y de su marco pastoral, no definiciones léxicas de **בלעם**, _Bilam_. La nota las evalúa contra los hechos narrados y mantiene pendiente cualquier etimología del nombre.
+
+Eric llama la atención sobre la formulación «hazle un conjuro» y sobre el verbo que traduce como cortar o separar. En el v. 6, **ארה**, _'arah_, pertenece al campo de maldecir; «cortar a alguien de la bendición» es una equivalencia aproximada o una inferencia intertextual, no la traducción completa de la forma. La respuesta de Bilam en 22:18 —aunque Balaq le diera una casa llena de plata y oro, no puede pasar la boca de יהוה— es una declaración textual fuerte. La exposición sospecha que la frase puede funcionar como una maniobra para ganar tiempo; esa lectura recibe apoyo parcial del hecho de que Bilam vuelve a consultar después de una prohibición, pero la psicología de la hipocresía no queda demostrada por una sola frase.
+
+La sesión también describe a Bilam como alguien que reconoce el poder de יהוה dentro de un marco de negociación propio de la adivinación. El capítulo permite evaluar el contraste sin afirmar que cada detalle de la demonología mencionada por Eric esté explícito: en 22:8 Bilam espera la palabra de יהוה, en 22:22 el camino provoca enojo y en 22:35 sólo puede hablar lo que se le diga. Así, el argumento de «vencer con el bien al mal» queda anclado en la soberanía del mensaje: la práctica de Balaq busca manipular, pero la palabra recibida no se somete al precio ofrecido.
+
 ## Conexiones principales
 
 - Devarim 23:4-6 retoma a Moab y a Bilam desde la memoria de esta amenaza.
@@ -141,4 +151,5 @@ Bamidbar 22 desarma la ilusión de que el poder, el miedo o el dinero puedan gob
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Balaq Nm 22:1-25:9 El lucro y la concupiscencia](https://www.youtube.com/watch?v=JynK66A9mn0) (`source_id`: `youtube:JynK66A9mn0`).
+- Video: [Parashat Balaq (2017): Venced con el bien al mal](https://www.youtube.com/watch?v=qKWysdkjyQQ) (`source_id`: `youtube:qKWysdkjyQQ`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -8,6 +8,7 @@ tags:
 references:
   - "#bamidbar_8_1"
 sources:
+  - "https://www.youtube.com/watch?v=Ps_KEolNVdU"
   - "https://www.youtube.com/watch?v=f0PQY7bXbJQ"
   - "https://www.youtube.com/watch?v=OG2PPYieRhk"
   - "https://www.youtube.com/watch?v=EHZDK_XPB1A"
@@ -15,6 +16,7 @@ sources:
   - "docs/scriptures/oe/json/numbers/8.json"
   - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
+  - "youtube:Ps_KEolNVdU"
   - "youtube:f0PQY7bXbJQ"
   - "youtube:OG2PPYieRhk"
   - "youtube:EHZDK_XPB1A"
@@ -116,6 +118,12 @@ El capítulo explica además por qué la congregación interviene: los levitas s
 
 Por eso la lectura de Eric sobre orden comunitario recibe apoyo directo, con un límite importante. El texto no enseña que toda autoridad deba reproducir literalmente las edades levíticas ni que toda persona apartada sea superior a la congregación. Enseña que la consagración tiene un destinatario, una comunidad que reconoce, una tarea recibida y un relevo regulado. La luz orientada, la purificación y la entrega pertenecen a una sola progresión: presencia, preparación y servicio responsable.
 
+## Aporte de la exposición de 2017: subir, rostro visible y fuego recibido
+
+La clase de 2017 vuelve sobre una diferencia que puede perderse en castellano: Eric observa que el mandato no dice simplemente «cuando enciendas», sino «cuando hagas subir» las lámparas. Esa observación se ajusta a **בהעלתך**, _beha'alotekha_, forma de עלה, _alah_, «subir» o «hacer subir». En Bamidbar 8:2 su fuerza contextual es la acción ritual de Aharón al disponer las lámparas; «encender» es una equivalencia aproximada útil, pero «elevar espiritualmente» es pedagógico, no exacto. La repetición de «así lo hizo Aharón» en el v. 3 confirma que Eric está describiendo un procedimiento obedecido, no una metáfora desligada del santuario.
+
+Eric también explica **פנים**, _panim_, como aquello visible o expuesto a los ojos, y relaciona la «faz» de la Menoráh con el pan colocado delante de ella y con la imagen posterior de siete lámparas delante del trono. El primer punto es una aclaración léxica razonable: _panim_ puede significar rostro, faz o superficie/presencia visible, y aquí orienta espacialmente la luz hacia la Menoráh. El enlace con el «pan de la faz» y con Apocalipsis es una conexión canónica y tipológica, no una equivalencia exacta ni una afirmación que Bamidbar 8 haga sobre Apocalipsis. Finalmente, la clase insiste en que el fuego para las lámparas procede del fuego provisto por יהוה en el altar. La fuente inmediata de Bamidbar 8:2-4 es la orden de alumbrar y la ejecución de Aharón; la procedencia del fuego debe cotejarse con el contexto sacerdotal más amplio. Por eso se conserva como observación atribuida y como inferencia cualificada, no como detalle explícito de cada palabra de este capítulo.
+
 ## Conclusión
 
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
@@ -175,4 +183,5 @@ Finalmente, 8:24-26 distingue entrada, labor y asistencia. **(עמד)**, _amad_,
 - Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 2](https://www.youtube.com/watch?v=OG2PPYieRhk) (`source_id`: `youtube:OG2PPYieRhk`).
 - Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 3](https://www.youtube.com/watch?v=EHZDK_XPB1A) (`source_id`: `youtube:EHZDK_XPB1A`).
 - Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 4](https://www.youtube.com/watch?v=eJlTuHME674) (`source_id`: `youtube:eJlTuHME674`).
+- Video: [Parashat Beha'alotjá (2017) The seven lamps will shine on the face of the Mnoráh](https://www.youtube.com/watch?v=Ps_KEolNVdU) (`source_id`: `youtube:Ps_KEolNVdU`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
