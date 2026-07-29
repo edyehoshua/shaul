@@ -35,13 +35,13 @@ Hebreos 12 exhorta a correr con perseverancia, interpreta la disciplina como for
 
 ## Hoja de comparación
 
-| Referencia | Texto local (Delitzsch, sin nikud) | Función en el argumento |
-| --- | --- | --- |
-| #hebrews_12_1-2 | **על-כן גם-אנחנו אשר ענן עדים כזה סביב לנו נשׁליכה ממנו כל-טרח והחטא המקיף עלינו ונרוצה בסבלנות את-המרוצה הערוכה לפנינו׃ ונביטה אל-ישׁוע המתחיל והגומר את-האמונה** | La nube de testigos, el abandono del peso y la mirada puesta en Yehoshua enmarcan la carrera. |
-| #hebrews_12_5-8 | **מוסר יהוה בני אל-תמאס ואל-תקׂץ בתוכחתו׃ כי את אשׁר יאהב יהוה יוכיח**; **ואם-תהיו באין-מוסר... ממזרים אתם ולׂא בנים** | La disciplina se presenta como instrucción/corrección filial, no como una teoría automática sobre todo sufrimiento. |
-| #hebrews_12_10-13 | **אבל זה להועיל למען יהיה-לנו חלק בקדשׁתו׃ וכל-מוסר... באחריתו יתן פרי שׁלום לצדקה** | El propósito y el fruto posterior orientan la respuesta a la disciplina. |
-| #hebrews_12_14-17 | **רדפו את-השׁלום... ואת הקדשׁה**; **פן-ישׁ בכם... שׂרשׁ פׂרה לענה**; **כאעשׂו... מכר את-בכורתו** | La exhortación pasa a la vida comunitaria, la vigilancia y la advertencia contra despreciar la herencia. |
-| #hebrews_12_22-24 | **כי אם-באתם אל-הר ציון ואל-עיר אלׂהים חיים... ואל-ישׁוע מתוך הברית החדשׁה** | El contraste con Sinaí culmina en una asamblea celestial y en Yehoshua mediador del nuevo pacto. |
+| Referencia        | Texto local (Delitzsch, sin nikud)                                                                                                                                 | Función en el argumento                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| #hebrews_12_1-2   | **על-כן גם-אנחנו אשר ענן עדים כזה סביב לנו נשׁליכה ממנו כל-טרח והחטא המקיף עלינו ונרוצה בסבלנות את-המרוצה הערוכה לפנינו׃ ונביטה אל-ישׁוע המתחיל והגומר את-האמונה** | La nube de testigos, el abandono del peso y la mirada puesta en Yehoshua enmarcan la carrera.                       |
+| #hebrews_12_5-8   | **מוסר יהוה בני אל-תמאס ואל-תקׂץ בתוכחתו׃ כי את אשׁר יאהב יהוה יוכיח**; **ואם-תהיו באין-מוסר... ממזרים אתם ולׂא בנים**                                             | La disciplina se presenta como instrucción/corrección filial, no como una teoría automática sobre todo sufrimiento. |
+| #hebrews_12_10-13 | **אבל זה להועיל למען יהיה-לנו חלק בקדשׁתו׃ וכל-מוסר... באחריתו יתן פרי שׁלום לצדקה**                                                                               | El propósito y el fruto posterior orientan la respuesta a la disciplina.                                            |
+| #hebrews_12_14-17 | **רדפו את-השׁלום... ואת הקדשׁה**; **פן-ישׁ בכם... שׂרשׁ פׂרה לענה**; **כאעשׂו... מכר את-בכורתו**                                                                   | La exhortación pasa a la vida comunitaria, la vigilancia y la advertencia contra despreciar la herencia.            |
+| #hebrews_12_22-24 | **כי אם-באתם אל-הר ציון ואל-עיר אלׂהים חיים... ואל-ישׁוע מתוך הברית החדשׁה**                                                                                       | El contraste con Sinaí culmina en una asamblea celestial y en Yehoshua mediador del nuevo pacto.                    |
 
 ## La carrera: testimonio, peso y mirada fija
 
@@ -57,13 +57,13 @@ La secuencia de 12:5–13 conserva el dolor real: la disciplina no parece gozosa
 
 ### Hoja léxica
 
-| Forma | Transliteración | Sentido normal y fuerza contextual | Correspondencia y estado |
-| --- | --- | --- | --- |
-| **(מוסר)** | _musar_ | instrucción, disciplina y formación correctiva | Correspondencia aproximada con la disciplina de Hebreos 12; la clase la acerca al hebreo de Proverbios. La relación intertextual queda pendiente de cotejo completo. |
-| **(תוכחה)** | _tojejáh_ | reprensión o corrección que pone algo a prueba y lo endereza | Analogía pedagógica con la corrección del pasaje; no equivale automáticamente a castigo físico ni explica todo sufrimiento. |
-| **(παιδεία)** | _paideia_ | formación, educación y disciplina de un hijo | El sentido contextual favorece «formación filial» más que «castigo» aislado; equivalencia español-griego aproximada. |
-| **(ὑπομονή)** | _hypomonē_ | perseverancia, permanecer bajo presión | En 12:1 sostiene la carrera; no significa pasividad. |
-| **(τελειωτής)** | _teleiōtēs_ | quien lleva a término o consuma | En 12:2 se aplica al Mesías; la explicación de Eric sobre la consumación de la fidelidad se conserva como interpretación, no como definición exhaustiva. |
+| Forma           | Transliteración | Sentido normal y fuerza contextual                           | Correspondencia y estado                                                                                                                                             |
+| --------------- | --------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(מוסר)**      | _musar_         | instrucción, disciplina y formación correctiva               | Correspondencia aproximada con la disciplina de Hebreos 12; la clase la acerca al hebreo de Proverbios. La relación intertextual queda pendiente de cotejo completo. |
+| **(תוכחה)**     | _tojejáh_       | reprensión o corrección que pone algo a prueba y lo endereza | Analogía pedagógica con la corrección del pasaje; no equivale automáticamente a castigo físico ni explica todo sufrimiento.                                          |
+| **(παιδεία)**   | _paideia_       | formación, educación y disciplina de un hijo                 | El sentido contextual favorece «formación filial» más que «castigo» aislado; equivalencia español-griego aproximada.                                                 |
+| **(ὑπομονή)**   | _hypomonē_      | perseverancia, permanecer bajo presión                       | En 12:1 sostiene la carrera; no significa pasividad.                                                                                                                 |
+| **(τελειωτής)** | _teleiōtēs_     | quien lleva a término o consuma                              | En 12:2 se aplica al Mesías; la explicación de Eric sobre la consumación de la fidelidad se conserva como interpretación, no como definición exhaustiva.             |
 
 ## Santidad, paz y la advertencia de Esaú
 
@@ -77,14 +77,24 @@ En la parte 16 Eric presenta 12:18–24 como un punto de llegada: la comunidad n
 
 La imagen de Tziyón no borra la reverencia. Los versículos 25–29 todavía llaman a no rechazar al que habla, anuncian una conmoción de lo creado y concluyen con recibir un reino inconmovible y servir a יהוה con reverencia y temor. Por eso el acercamiento es comunitario y celestial, pero no trivializa la santidad ni convierte «Tziyón» en una contraseña política moderna.
 
+## 12:25-29: escuchar, remover lo movible y servir con temor
+
+El cierre vuelve a la responsabilidad que acompaña al acercamiento. El texto local advierte: **ראו ואל תמאנו לשמע את המדבר כי אם־המה לא נמלטו אשר מאנו לשמע את המדבר בארץ אף כי־אנחנו אם נסור מעל המדבר מן־השמים׃** (12:25). Eric usa esta transición para corregir una lectura de Tziyón como privilegio sin obediencia: haber llegado a la asamblea celestial no permite rechazar al que habla. **παραιτέομαι** (_paraiteomai_) significa rechazar, excusarse o declinar; su fuerza aquí es una negativa responsable ante la voz divina, no una duda intelectual aislada.
+
+Después la voz promete una conmoción todavía mayor: **אשר קולו אז הרעיש את הארץ ועתה הבטיח לאמר עוד אחת ואני מרעיש לא את הארץ בלבד כי גם את־השמים׃** (12:26). La clase relaciona esta sacudida con el discernimiento de lo que permanece después de que caen las estructuras humanas. El versículo sí contrasta tierra y cielos, pero no ofrece una cronología física detallada. **σαλεύω** (_saleuō_) significa sacudir, mover o hacer tambalear; la relación con la explicación de Eric es exacta en el eje de la remoción y pedagógica cuando se aplica a cada institución contemporánea.
+
+El autor interpreta la promesa: **ואשר אמר עוד אחת מורה על הסרת הדברים הנרעשים בהיותם מעשה יד למען יעמדו הדברים אשר אינם נרעשים׃** (12:27). “Una vez más” señala la remoción de las cosas movibles por ser hechas, para que permanezcan las inconmovibles. Eric lee aquí una prueba contra convertir el templo, el territorio o una estructura religiosa visible en el centro último de la esperanza. Es una aplicación atribuible y coherente con el contraste textual; no se debe presentar como si el versículo nombrara esos proyectos concretos. **ἀσάλευτος** (_asaleutos_) significa inconmovible o firme; su fuerza contextual es permanencia bajo el juicio, no inmovilidad material sin relación con la fidelidad.
+
+La conclusión une reino y culto: **לכן בקבלנו מלכות אשר לא־תמוט נרצה בה את־האלהים בעבודה רצויה ביראה ובחרדה׃ כי אלהינו אש אכלה הוא׃** (12:28-29). El reino inconmovible no produce autosuficiencia, sino un servicio agradable “con reverencia y temor”. Eric conserva la tensión: la gracia del acceso no elimina la santidad del Elohim que habla. La imagen del fuego consumidor retoma el lenguaje de Devarim y refuerza la gravedad; es una conexión canónica de la clase, mientras la afirmación directa del capítulo es que el culto debe responder a un reino que no se mueve.
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Qué enseñanza concreta se tomó de Eric | Cómo se evaluó |
-| --- | --- | --- |
-| #hebrews_12_1-4 | La fe de los capítulos anteriores es una demostración visible; correr implica quitar el peso del pecado y enfrentar una lucha, no asistir pasivamente. | Apoyo textual en nube, peso, pecado, carrera y perseverancia; «peso egipcio» se clasificó como aplicación pedagógica, no como significado exhaustivo. |
-| #hebrews_12_5-13 | _Musar_ y _tojejáh_ muestran a יהוה como instructor/padre que forma hijos; la disciplina no debe reducirse a un castigador iracundo. | Apoyo textual en 12:5–13 y aclaración léxica con **(מוסר)**, **(תוכחה)** y **(παιδεία)**; la conexión exacta con todas las fuentes hebreas queda pendiente. |
-| #hebrews_12_14-17 | La santidad y la paz requieren vigilancia comunitaria, y Esaú ilustra el peligro de vender la herencia por un beneficio inmediato. | Apoyo textual en 12:14–17; la exhortación comunitaria es una inferencia cualificada y las afirmaciones psicológicas o históricas sobre Esaú quedan pendientes. |
-| #hebrews_12_18-29 | El monte Tziyón y la Jerusalén celestial expresan el acceso al pacto nuevo por Yehoshua, no la necesidad de reconstruir un templo humano. | Apoyo textual en 12:22–24; la aplicación al debate contemporáneo sobre un tercer templo se conserva como argumento de Eric y queda pendiente de verificación histórica. |
+| Unidad textual    | Qué enseñanza concreta se tomó de Eric                                                                                                                 | Cómo se evaluó                                                                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #hebrews_12_1-4   | La fe de los capítulos anteriores es una demostración visible; correr implica quitar el peso del pecado y enfrentar una lucha, no asistir pasivamente. | Apoyo textual en nube, peso, pecado, carrera y perseverancia; «peso egipcio» se clasificó como aplicación pedagógica, no como significado exhaustivo.                   |
+| #hebrews_12_5-13  | _Musar_ y _tojejáh_ muestran a יהוה como instructor/padre que forma hijos; la disciplina no debe reducirse a un castigador iracundo.                   | Apoyo textual en 12:5–13 y aclaración léxica con **(מוסר)**, **(תוכחה)** y **(παιδεία)**; la conexión exacta con todas las fuentes hebreas queda pendiente.             |
+| #hebrews_12_14-17 | La santidad y la paz requieren vigilancia comunitaria, y Esaú ilustra el peligro de vender la herencia por un beneficio inmediato.                     | Apoyo textual en 12:14–17; la exhortación comunitaria es una inferencia cualificada y las afirmaciones psicológicas o históricas sobre Esaú quedan pendientes.          |
+| #hebrews_12_18-29 | El monte Tziyón y la Jerusalén celestial expresan el acceso al pacto nuevo por Yehoshua, no la necesidad de reconstruir un templo humano.              | Apoyo textual en 12:22–24; la aplicación al debate contemporáneo sobre un tercer templo se conserva como argumento de Eric y queda pendiente de verificación histórica. |
 
 Este mapa registra los puntos concretos tomados de las tres clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
 
