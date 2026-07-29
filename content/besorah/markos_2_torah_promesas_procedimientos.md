@@ -36,8 +36,6 @@ sources:
   - "https://www.youtube.com/watch?v=poyAzSdiTQU"
   - "https://www.youtube.com/watch?v=c_Ww_KfQuwI"
   - "https://www.youtube.com/watch?v=OYK01CPrwKk"
-  - "https://www.youtube.com/watch?v=YKQCpmNS3KM"
-  - "https://www.youtube.com/watch?v=wR0WA_TLcCc"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/oe/json/jeremiah/31.json"
@@ -51,8 +49,6 @@ source_ids:
   - "youtube:poyAzSdiTQU"
   - "youtube:c_Ww_KfQuwI"
   - "youtube:OYK01CPrwKk"
-  - "youtube:YKQCpmNS3KM"
-  - "youtube:wR0WA_TLcCc"
 ---
 
 # Tesis
@@ -63,7 +59,7 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 
 ## Alcance de la nota
 
-- Fuentes de Eric: _Evangelio Según Marcos Parte 4_, _Parte 5: Introducción a Abá_, _Parte 6: continuación, Torah, yud y qotz_ y _Parte 7: Abá, la mente de Mashiaj_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza su argumento y no reproduce la transcripción automática como cita literal.
+- Fuentes de Eric: _Evangelio Según Marcos Parte 4_, _Parte 5: Introducción a Abá_ y _Parte 6: continuación, Torah, yud y qotz_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza su argumento y no reproduce la transcripción automática como cita literal.
 - Los primeros 22 minutos repasan Ben HaAdam, Daniel 7 y la metamorfosis. Ese material ya está desarrollado en [[markos_ben_adam_metamorfosis_glosario|Marcos: Ben Adam, metamorfosis y glosario mesiánico]].
 - Esta nota se concentra en el material nuevo: #markos_2_5-12, el nuevo pacto, Torah en el corazón, **juqim**, **mishpatim**, voluntad y permanencia de la palabra.
 - El corpus local se usa como base para los textos de la hoja de comparación.
@@ -71,15 +67,13 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 
 ## Control de fuentes
 
-| Fuente pública                                                                  | Tramo o dependencia                                       | Límite de atribución                                                                                                                |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Parte 4](https://www.youtube.com/watch?v=poyAzSdiTQU) (`youtube:poyAzSdiTQU`)  | Marcos 2:1-12 y la autoridad del Ben HaAdam para perdonar | La observación sobre perdón y sanidad se contrasta con 2:5-12; no se atribuye a la clase una doctrina completa fuera de esa escena. |
-| [Parte 5](https://www.youtube.com/watch?v=c_Ww_KfQuwI) (`youtube:c_Ww_KfQuwI`)  | Introducción a Abá y el lenguaje de padre/origen          | Las posibilidades semíticas se presentan como marco de la clase, no como equivalencias automáticas de cada uso griego.              |
-| [Parte 6](https://www.youtube.com/watch?v=OYK01CPrwKk) (`youtube:OYK01CPrwKk`)  | Torah, yud, qotz y permanencia de la palabra              | La nota conserva el argumento pedagógico y lo limita al cotejo de Jeremías, Salmos, Mateo y Hebreos.                                |
-| [Parte 7](https://www.youtube.com/watch?v=YKQCpmNS3KM) (`youtube:YKQCpmNS3KM`)  | Abá y mente de Mashiaj                                    | Se atribuye la aplicación doctrinal; las formas hebreas y griegas se explican por contexto, no por etimología aislada.              |
-| [Parte 10](https://www.youtube.com/watch?v=wR0WA_TLcCc) (`youtube:wR0WA_TLcCc`) | Elohim, El y Eloah como dependencia doctrinal             | Sirve como conexión teológica independiente y no sustituye el argumento narrativo de Marcos 2.                                      |
+| Fuente pública                                                                 | Tramo o dependencia                                       | Límite de atribución                                                                                                                |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Parte 4](https://www.youtube.com/watch?v=poyAzSdiTQU) (`youtube:poyAzSdiTQU`) | Marcos 2:1-12 y la autoridad del Ben HaAdam para perdonar | La observación sobre perdón y sanidad se contrasta con 2:5-12; no se atribuye a la clase una doctrina completa fuera de esa escena. |
+| [Parte 5](https://www.youtube.com/watch?v=c_Ww_KfQuwI) (`youtube:c_Ww_KfQuwI`) | Introducción a Abá y el lenguaje de padre/origen          | Las posibilidades semíticas se presentan como marco de la clase, no como equivalencias automáticas de cada uso griego.              |
+| [Parte 6](https://www.youtube.com/watch?v=OYK01CPrwKk) (`youtube:OYK01CPrwKk`) | Torah, yud, qotz y permanencia de la palabra              | La nota conserva el argumento pedagógico y lo limita al cotejo de Jeremías, Salmos, Mateo y Hebreos.                                |
 
-Los cinco `source_ids` son únicos dentro de esta nota y corresponden a créditos públicos del grupo exclusivo de Marcos. La nota mantiene una sola unidad canónica para el capítulo: la enseñanza de Eric queda atribuida, mientras que la prueba argumental sigue el orden del relato y de los textos comparados.
+Los tres `source_ids` son únicos dentro de esta nota y corresponden a créditos públicos del grupo exclusivo de Marcos. La nota mantiene una sola unidad canónica para el capítulo: la enseñanza de Eric queda atribuida, mientras que la prueba argumental sigue el orden del relato y de los textos comparados.
 
 ## Ruta de la clase
 
@@ -268,7 +262,7 @@ El argumento completo conserva así tres límites: el llamado produce seguimient
 
 ## Control de fuentes y orden del capítulo
 
-Las fuentes públicas se mantienen separadas por función. `youtube:poyAzSdiTQU` y `youtube:c_Ww_KfQuwI` introducen la autoridad del Ben HaAdam y el llamado de Abba; `youtube:OYK01CPrwKk` desarrolla la continuidad de Torah, yud y qotz; `youtube:YKQCpmNS3KM` retoma Abba, la mente del Mesías y la obediencia; `youtube:wR0WA_TLcCc` amplía la comparación entre El, Eloah y Elohim. La nota no convierte esas sesiones en cinco estudios independientes del capítulo: las ordena alrededor de Marcos 2:1-28 y marca como canónicas las conexiones que deben gobernarse por el texto local.
+Las fuentes públicas se mantienen separadas por función. `youtube:poyAzSdiTQU` y `youtube:c_Ww_KfQuwI` introducen la autoridad del Ben HaAdam y el llamado de Abba; `youtube:OYK01CPrwKk` desarrolla la continuidad de Torah, yud y qotz. La nota no convierte esas sesiones en tres estudios independientes del capítulo: las ordena alrededor de Marcos 2:1-28 y mantiene la dependencia entre autoridad, palabra, promesa y obediencia.
 
 El recorrido permanece en orden: (1) la fe de quienes acercan al paralítico y el perdón declarado; (2) la autoridad del Ben HaAdam verificada al levantarlo; (3) el llamado de Levi y la misericordia en la mesa; (4) el novio y los odres; y (5) David, las espigas y el señorío sobre el Shabbat. Jeremías 31:31-33 y los demás pasajes de apoyo explican la tesis de la Torah interior, pero no desplazan las perícopas ni permiten afirmar que Marcos 2 cite formalmente cada conexión.
 
@@ -304,8 +298,7 @@ La palabra que יהוה sostiene y la obediencia que pide no compiten. Su promes
 - Video: [Evangelio Según Marcos Parte 4](https://www.youtube.com/watch?v=poyAzSdiTQU) (`source_id`: `youtube:poyAzSdiTQU`).
 - Video: [Evangelio según Marco — Parte 5: Introducción a Abá](https://www.youtube.com/watch?v=c_Ww_KfQuwI) (`source_id`: `youtube:c_Ww_KfQuwI`).
 - Video: [Evangelio según Marco — Parte 6: continuación, Torah, yud y qotz](https://www.youtube.com/watch?v=OYK01CPrwKk) (`source_id`: `youtube:OYK01CPrwKk`).
-- Video: [Evangelio según Marco — Parte 7: Abá, la mente de Mashiaj](https://www.youtube.com/watch?v=YKQCpmNS3KM) (`source_id`: `youtube:YKQCpmNS3KM`).
-- Video: [El evangelio según Marcos — Parte 10: El, Eloah y Elohim](https://www.youtube.com/watch?v=wR0WA_TLcCc) (`source_id`: `youtube:wR0WA_TLcCc`).
+
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
