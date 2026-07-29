@@ -158,6 +158,12 @@ La mesa confirma el criterio. **(ואכלתם)**, _vajaltem_, procede de אכל,
 
 Devarim 12 enseña que la heredad no se recibe para consagrar el propio criterio. Israel abandona los modos idólatras de la tierra, busca el lugar elegido por יהוה, lleva allí lo que él ordena y se alegra con quienes dependen de esa mesa. El descanso esperado no es una evasión de la voluntad de יהוה: en el propio capítulo conduce desde «lo recto en sus ojos» hacia lo bueno y recto ante los ojos de יהוה.
 
+## La promesa se verifica en una forma recibida
+
+El cierre del capítulo permite volver a la tesis de Eric sin separar promesa y procedimiento. En 12:29–31 Israel todavía debe cuidarse cuando יהוה corte a las naciones y le dé su tierra. **(ירש)**, _yarash_, significa heredar, tomar posesión o desposeer; aquí su fuerza es recibir la tierra en el marco del juicio de יהוה, no conquistar una libertad religiosa sin límites. «Vencer espiritualmente» sería una equivalencia **pedagógica**, no el sentido exacto de la forma. La advertencia «no preguntes cómo servían» usa **(עבד)**, _avad_, servir o trabajar; en esta unidad designa servicio cultual. Eric acierta al presentar la imitación como una amenaza a la identidad del pueblo, pero el texto precisa que el peligro nace de copiar prácticas de culto, no de toda observación cultural.
+
+La orden final, **(לא תעשה כן)**, _lo taaseh ken_, «no harás así», funciona como límite negativo después de toda la instrucción positiva: lugar elegido, comida, sangre derramada, votos, alegría y cuidado del leví. **(תועבה)**, _toevah_, significa cosa detestable o abominable; en 12:31 su fuerza contextual califica los actos cultuales que las naciones realizan para sus dioses, incluso la entrega de hijos. «Corrupción interior» es una aplicación **aproximada y pedagógica**; el referente inmediato es una práctica religiosa concreta. La lectura de la _menujáh_ queda así probada al final: descansar en la heredad no autoriza inventar el culto, sino recibir límites que protegen la vida y la lealtad.
+
 ## Ver también
 
 - [[devarim_11_parashot_2017|Devarim 11: escuchar, obedecer y el lugar del nombre]]

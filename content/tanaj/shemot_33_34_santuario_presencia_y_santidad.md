@@ -120,6 +120,12 @@ Finalmente, 34:29–35 presenta la mediación de Moshéh. **(בוש)**, _bosh_, 
 
 Éxodo 33–34 no permite separar presencia de conducta. יהוה acompaña y da descanso, pero el pueblo debe guardar el pacto, rechazar la idolatría y cesar del trabajo en el séptimo día. La santidad del cuerpo y de la comunidad, tomada como preocupación explícita del título de Eric, queda aquí evaluada por una obediencia concreta: recibir la presencia sin domesticarla y celebrar sin profanar el pacto.
 
+## Recorrido textual: del campamento a la palabra transmitida
+
+Leído sin saltos, el bloque comienza con un pueblo que ha pecado y que debe despojarse de sus adornos antes de saber cómo continuará la marcha (33:1–7). Luego la tienda fuera del campamento, la petición de Moshéh y la promesa de «mi rostro» muestran que la presencia de יהוה no es un suplemento decorativo de la misión (33:8–17). **(מצא)**, _matsa_, significa encontrar o hallar; en «has hallado favor» su fuerza contextual es una relación concedida, no una cualidad autónoma de Moshéh. «Ser digno» es una equivalencia **pedagógica** y demasiado estrecha: el texto habla de favor recibido.
+
+Después, la petición de ver la gloria recibe una respuesta doble: bondad proclamada y límite de ver el rostro (33:18–23). La renovación de las tablas y la proclamación de 34:6–9 llevan esa presencia hacia el pacto; no permiten que la experiencia de Moshéh sustituya la palabra. Finalmente, 34:10–28 traduce la santidad en alianzas, altares, fiestas, trabajo y Pesaj, y 34:29–35 muestra al mediador comunicando lo oído. **(שמר)**, _shamar_, significa guardar, custodiar u observar; en 34:11 su fuerza es atender al pacto para practicarlo. «Cuidar la identidad» es una síntesis **aproximada**, no la equivalencia única del verbo. Así se conserva la preocupación de Eric y se la somete al orden local: cuerpo, tiempo y comunidad quedan juzgados por la palabra recibida.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
