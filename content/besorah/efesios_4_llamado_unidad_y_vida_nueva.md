@@ -241,6 +241,14 @@ El contraste con 4:14-15 cierra el control. **κυβεύοντες**, _kybeuonte
 
 ## Conclusión
 
+## Control final: el sello se honra en la vida comunitaria (4:25-32)
+
+El cierre de Efesios 4 no abandona el tema de la unidad para ofrecer una lista moral independiente. «Somos miembros unos de otros» explica por qué dejar la mentira y hablar verdad; **(ἀποθέμενοι)**, _apothemenoi_, «habiendo dejado a un lado», introduce el cambio de práctica, mientras **(λαλεῖτε)**, _laleite_, «hablen», lo vuelve una responsabilidad mutua. La verdad no es una licencia para herir: el criterio de 4:15 y 4:29 sigue siendo verdad en amor y palabra útil para edificar.
+
+La advertencia sobre el Espíritu confirma esa dependencia. **(λυπεῖτε)**, _lypeite_, «entristezcan», está en presente y muestra que la conducta repetida de la comunidad puede contradecir el sello recibido; **(σφραγίζω)**, _sphragizō_, «sellar o marcar como perteneciente», señala identidad y pertenencia, no una autorización para conservar amargura. Por eso **(αἴρω)**, _airō_, «quitar», y **(χαρίζομαι)**, _charizomai_, «conceder gracia o perdonar», llevan la unidad hacia acciones concretas: remover la malicia y perdonar como Elohim perdonó en el Mesías.
+
+Así, el argumento de Eric sobre madurez se prueba por el efecto del don en las relaciones. La comunidad que llega a la cabeza en verdad y amor no puede medir su crecimiento por influencia, sino por si deja el robo para compartir, cambia la palabra corrupta por edificación y sustituye la ira alojada por bondad y compasión. El sello del Espíritu no borra la responsabilidad; la hace visible en el cuerpo.
+
 Efesios 4 describe un pueblo llamado a cuidar una unidad recibida, a servir para la edificación común y a abandonar prácticas que destruyen. La verdad en amor, el habla que da gracia y el perdón sitúan la renovación en relaciones reales. La medida de la madurez no es la autosuficiencia, sino crecer hacia Yehoshua el Mesías, cabeza del cuerpo.
 
 ## Ver también

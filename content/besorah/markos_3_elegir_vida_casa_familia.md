@@ -252,6 +252,12 @@ La casa dividida y la familia del cierre completan la prueba. **διαμερισ
 
 ## Conclusión
 
+## Control final: la compasión no es indecisión y la autoridad no es aislamiento
+
+La pregunta de 3:4 se vuelve más precisa cuando se observa la reacción interior de Yehoshua antes de la restauración. Marcos dice que los mira con enojo y tristeza por la dureza de su corazón. **(ὀργή)**, _orgē_, «ira o indignación», y **(συλλυπέω)**, _syllypeō_, «afligirse o entristecerse con», no describen una pérdida de dominio propio: muestran que la resistencia al bien afecta al Mesías y que la compasión no es indiferencia. La conexión de Eric con escoger la vida queda así protegida de dos reducciones opuestas: hacer el bien no es sentimentalismo, pero tampoco convierte la ira en permiso para humillar al que discrepa.
+
+La misma cautela rige la autoridad de los Doce y la casa del fuerte. **(ἀποστέλλω)**, _apostellō_, «enviar con encargo», y **(ἐξουσία)**, _exousia_, «autoridad o potestad», aparecen ligados a estar con Yehoshua y a una tarea recibida; **(ἰσχύς)**, _ischys_, «fuerza o capacidad», no autoriza a los enviados a convertirse en una nueva fuente independiente. En 3:27, **(ἁρπάζω)**, _harpazō_, «arrebatar o saquear», depende de atar primero al fuerte; la imagen sostiene liberación bajo autoridad del Mesías, no control coercitivo sobre personas. La síntesis de la clase se mantiene solo si la vida restaurada, el silencio de los espíritus, el envío y la familia obediente permanecen en ese orden.
+
 Marcos 3 no presenta a Yehoshua quebrantando la Torah, sino devolviendo su lectura al bien y a la vida. La mano restaurada desenmascara una interpretación que protegía su propia autoridad mientras planeaba muerte. El Mesías escoge, reúne y envía una comunidad que primero debe estar con él y luego actuar bajo su autoridad.
 
 La casa que Yehoshua forma no puede edificarse sobre acusación, engaño ni parentesco automático. Permanece porque reconoce la obra del Ruaj, recibe corrección y hace la voluntad de Elohim. Escoger la vida, estar con el Mesías y obedecer la voluntad divina no son tres temas dispersos: son el movimiento de una misma familia reunida alrededor de Yehoshua.
