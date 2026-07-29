@@ -225,6 +225,26 @@ La unidad central conserva sus objetos y sus resultados. **ποιήσας** (_po
 
 El final traduce el acceso en pertenencia visible. **συμπολῖται** (_sympolitai_, «conciudadanos») y **οἰκεῖοι** (_oikeioi_, «miembros de la casa») sustituyen las categorías de extranjería, mientras **θεμέλιος** (_themelios_, «fundamento») y **ἀκρογωνιαῖος** (_akrogōniaios_, «piedra angular») sitúan la casa sobre el fundamento nombrado. Las formas pasivas **συναρμολογουμένη** (_synarmologoumenē_, «ensamblada juntamente») y **συνοικοδομεῖσθε** (_synoikodomeisthe_, «sois edificados juntamente») dejan la obra en curso. Eric observa una morada del poder de Elohim; el texto prueba esa observación al mostrar una comunidad reconciliada que recibe fundamento, acceso y edificación del Mesías.
 
+## Verificación dirigida: del «ahora» a la morada común (2:11-22)
+
+La síntesis de Eric sobre un solo pueblo debe conservar el giro verbal del capítulo. Pablo manda **(μνημονεύετε)**, _mnēmoneuete_, «recuerden», la condición anterior de los gentiles: estaban lejos del Mesías, de la ciudadanía de Israel y de los pactos de la promesa. No se trata de una memoria ornamental. La orden mantiene visible la historia de exclusión antes de presentar el **(νυνὶ δὲ)**, _nyni de_, «pero ahora», y la cercanía recibida en la sangre del Mesías. La enseñanza sobre una nueva creación puede conservarse como aplicación, pero el texto primero exige recordar y luego anuncia el acercamiento.
+
+En 2:14-16, los verbos distinguen la obra de Yehoshua. **(ποιήσας)**, _poiēsas_, «haciendo», forma de los dos un solo hombre nuevo y hace paz; **(καταργήσας)**, _katargēsas_, «dejando sin efecto o desactivando», describe la acción sobre la enemistad dentro de la frase sobre mandamientos y decretos; y **(ἀποκαταλλάξῃ)**, _apokatallaxē_, «reconciliar plenamente», lleva a ambos hacia Elohim en un solo cuerpo. La observación de Eric sobre la paz que vence la enemistad recibe apoyo en la cadena, pero ninguno de estos verbos equivale por sí solo a «abolir toda Torah» o a «regenerar todo» sin contexto.
+
+La frase «los dos» continúa gobernando la conclusión. **(ἄμφω)**, _amphō_, «ambos», no permite que «uno» borre retrospectivamente la identidad histórica de los grupos; en 2:18, **(προσαγωγή)**, _prosagōgē_, «acceso o introducción», afirma que ambos tienen entrada al Padre en un mismo Rúaj. La relación pedagógica con **(שלום)**, _shalom_, «paz, integridad o bienestar», puede iluminar la amplitud de **(εἰρήνη)**, _eirēnē_, pero es aproximada. La paz bíblica aquí no es solo tranquilidad interior: es acceso compartido producido por la obra del Mesías.
+
+En 2:19-22, la pertenencia se vuelve arquitectura comunitaria. **(συμπολῖται)**, _sympolitai_, «conciudadanos», y **(οἰκεῖοι)**, _oikeioi_, «miembros de la casa», reemplazan las categorías de extranjeros y residentes sin ciudadanía plena. Luego **(συναρμολογουμένη)**, _synarmologoumenē_, «ensamblada juntamente», y **(συνοικοδομεῖσθε)**, _synoikodomeisthe_, «sois edificados juntamente», presentan una obra pasiva y corporativa. Eric habla de una morada del poder de Elohim; el texto la prueba como una casa que recibe fundamento, piedra angular y crecimiento, no como una plataforma para superioridad privada.
+
+Por tanto, Efesios 2 une gracia, memoria, paz, acceso y morada. La unidad no nace de borrar diferencias ni de fabricar méritos: el Mesías acerca a los lejanos, reconcilia a los dos y edifica una habitación común de Elohim en el Rúaj. Esa lectura conserva la observación atribuible de Eric y la limita a lo que la secuencia realmente demuestra.
+
+## Mapa adicional de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de Eric | Tratamiento en esta nota |
+| --- | --- | --- |
+| Efesios 2:1-10 | La salvación por gracia no deja a la comunidad sin fruto; Elohim vivifica para un caminar nuevo. | **(χάριτι)**, **(πεποιημένοι)** y **(περιπατήσωμεν)** se leen en la secuencia don–hechura–camino. |
+| Efesios 2:11-18 | El Mesías acerca a los gentiles, derriba la enemistad y forma un solo pueblo con acceso al Padre. | **(μνημονεύετε)**, **(νυνὶ δὲ)**, **(καταργήσας)** y **(προσαγωγή)** conservan memoria, giro, reconciliación y acceso; no se borra la historia de los dos grupos. |
+| Efesios 2:19-22 | La unidad es una morada conjunta del poder de Elohim, no una identidad privada. | **(συμπολῖται)**, **(οἰκεῖοι)**, **(συναρμολογουμένη)** y **(συνοικοδομεῖσθε)** sostienen la pertenencia y la edificación corporativas. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el análisis de **σάρξ** en #ephesians_2_11 y #ephesians_2_15 con léxicos y con los usos del término en Efesios antes de fijar «físicamente» como glosa definitiva.

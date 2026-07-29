@@ -234,6 +234,24 @@ En 2:23-28, los discípulos arrancan espigas y los perushim cuestionan la acció
 
 Así, Marcos 2 avanza desde una palabra de perdón hacia una mesa que llama a pecadores, una discusión sobre ayuno y un discernimiento del Shabbat. La autoridad del Ben HaAdam no es una licencia para despreciar la instrucción, sino la autoridad que restaura, interpreta y dirige a la misericordia. Esta secuencia también limita las equivalencias semíticas: **חסד** (_jesed_, «bondad leal o misericordia») puede iluminar **ἔλεος**, pero no reemplaza la forma griega ni demuestra que cada aplicación de Eric sea una traducción literal.
 
+## Verificación dirigida: la autoridad del Ben HaAdam interpreta sin abolir (2:13-28)
+
+La secuencia posterior prueba la afirmación de Eric con escenas distintas. En 2:13-17, Yehoshua vuelve a enseñar junto al mar, ve a Levi y le dice **(ἀκολούθει)**, _akolouthei_, «sígueme»; el presente imperativo presenta una respuesta continua, no solo un traslado físico. Levi se levanta y lo sigue, y la mesa con publicanos y pecadores provoca la pregunta de los escribas. La explicación **(οὐ χρείαν ἔχουσιν)**, _ou chreian echousin_, «no tienen necesidad», y **(μετανοήσωσιν)**, _metanoēsōsin_, «se arrepientan o cambien de mente», dirige la misión hacia quienes reconocen necesidad. La relación pedagógica con **(חסד)**, _jesed_, «bondad leal o misericordia», ilumina la cita profética, pero no convierte el griego en una retroversión hebrea.
+
+En 2:18-22, la presencia del **(νυμφίος)**, _nymphios_, «novio o esposo», explica por qué los discípulos no ayunan mientras él está con ellos. Después aparecen **(καινὸς)**, _kainos_, «nuevo o de cualidad renovada», y **(ἀσκοί)**, _askoi_, «odres o recipientes de cuero». La advertencia sobre vino y odres describe incompatibilidad entre contenido y recipiente; Eric la aplica a la renovación de la vida y al peligro de encerrar la palabra en formas humanas. Esa aplicación es razonable como analogía, pero el pasaje no declara que toda práctica antigua sea inválida ni que «nuevo» signifique automáticamente abolición.
+
+Los vv. 23-28 vuelven a una necesidad concreta: los discípulos arrancan espigas en Shabbat. **(ἔξεστιν)**, _exestin_, «es lícito o está permitido», formula la cuestión normativa; el ejemplo de David en 1 Samuel 21 introduce precedente escritural antes de la conclusión. **(κύριός)**, _kyrios_, «señor o dueño», califica al Hijo del Hombre respecto del Shabbat, mientras **(ἐγένετο)**, _egeneto_, «llegó a ser o fue hecho», afirma que el Shabbat fue hecho para el ser humano. La autoridad mesiánica interpreta el propósito de la ordenanza y protege la vida; no autoriza a borrar el Shabbat ni a convertir la interpretación en desprecio de la Torah.
+
+El argumento completo conserva así tres límites: el llamado produce seguimiento, la misericordia busca restaurar al pecador y el discernimiento del Shabbat se ejerce desde la Escritura y la necesidad humana. El perdón de 2:5-12, la mesa de 2:13-17 y las espigas de 2:23-28 no son episodios aislados: muestran una autoridad que levanta, llama, sana y enseña. La tesis de Eric sobre una Torah que permanece queda mejor probada cuando la novedad se entiende como renovación obediente, no como licencia para ignorar el texto.
+
+## Mapa adicional de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de Eric | Tratamiento en esta nota |
+| --- | --- | --- |
+| Marcos 2:13-17 | El llamado de Levi y la mesa muestran que la misericordia busca al pecador y no cancela la responsabilidad. | **(ἀκολούθει)** y **(ἔλεος)** se explican en contexto; la conexión con **(חסד)** queda como aproximación semítica. |
+| Marcos 2:18-22 | La presencia del novio y los odres advierten contra encerrar la renovación del Mesías en estructuras humanas. | **(νυμφίος)**, **(καινὸς)** y **(ἀσκοί)** sostienen la escena; la aplicación a formas eclesiales queda como analogía. |
+| Marcos 2:23-28 | El caso de David enseña a discernir el Shabbat sin convertir la Torah en una carga contra la vida. | **(ἔξεστιν)**, **(κύριός)** y **(ἐγένετο)** se prueban contra el precedente narrado; no se concluye abolición. |
+
 ## Conclusión
 
 El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam demuestra en la tierra que posee autoridad para perdonar: habla, levanta y devuelve al hombre al camino. Irmeiahu explica la profundidad de esa restauración: יהוה pone su Torah en el interior y vuelve a llamar pueblo a quienes eran incapaces de restaurarse por sí mismos.
