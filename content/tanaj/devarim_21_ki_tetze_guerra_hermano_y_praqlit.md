@@ -1,7 +1,7 @@
 ---
 title: "Devarim 21: cuando salgas a la guerra, el hermano y el praqlit"
 description: "Lectura de Devarim 21 en la parashá Ki tetzé: marco de guerra, hijo rebelde, colgado del madero, y el hilo del mandamiento como defensor que la clase acerca al paráclito."
-date: 2026-07-28
+date: 2026-07-29
 tags:
   - devarim
   - devarim_21
@@ -134,6 +134,14 @@ Esa construcción es **pedagógica y canónica en su segundo paso** (Juan 14), e
 - [ ] Localizar la cita exacta del dicho talmúdico «quien adquiere un mandamiento adquiere un abogado» (la clase alude a b. Talmud; no inventar número de folio).
 - [ ] Documentar usos de _praqlit_/_prqlit_ en fuentes judías y su relación con _orekh din_ u otras figuras de litigio.
 - [ ] Cotejar recepciones clásicas de #devarim_22_5 (Sifre, Rashi, etc.) junto a la lectura contextual de guerra/objetos.
+
+## El hermano no es una abstracción: devolver y levantar — Dt 22:1-4
+
+La observación de Eric sobre no esconderse del hermano necesita conservar los verbos concretos de la unidad que la clase usa como puente. El OE dice **לא תראה את שור אחיך או את שיו נדחים והתעלמת מהם השב תשיבם לאחיך**, y el TTH: «No verás el buey de tu hermano o su oveja extraviados y te ocultarás de ellos; devolver, los devolverás a tu hermano». **(אחיך)**, _ajija_, es «tu hermano»; en este contexto no es una metáfora genérica de humanidad, sino la relación de responsabilidad entre miembros de la comunidad del pacto. «Prójimo universal» sería una ampliación pedagógica, no la equivalencia exacta de la forma.
+
+**(השב תשיבם)**, _hashev tashivem_, combina una forma de שוב, _shuv_, «hacer volver o devolver», con el infinitivo absoluto que intensifica la obligación. «Los devolverás sin falta» es una equivalencia **aproximada** que comunica el énfasis; no conviene reducirlo a una buena intención. Y en 22:4, **(הקם תקים עמו)**, _haqem taqim imo_, repite la raíz קום, _qum_, «levantar o poner de pie»: si el animal caído pertenece al hermano, se levanta «con él». La clase acierta al describir una mitzvá que defiende antes del juicio, pero el texto muestra una defensa material: devolver la propiedad y ayudar al hermano a levantar la carga. La analogía con el _praqlit_ es **pedagógica**; la obligación de restitución es la afirmación textual inmediata.
+
+Esta precisión también evita que el capítulo 21 quede separado artificialmente del 22. La sangre desconocida exige que la comunidad responda; la cautiva no puede quedar a merced del deseo; y el animal extraviado no puede convertirse en propiedad del que lo encuentra. **(התעלמת)**, _hit'alemta_, significa ocultarse, desentenderse o pasar por alto; aquí su fuerza es negarse a actuar ante una pérdida visible. «Indiferencia» es una traducción **aproximada**. El hilo de Eric se sostiene cuando «el mandamiento como defensor» significa que la instrucción interrumpe la apropiación, la violencia y el abandono mediante acciones verificables.
 
 ## Conclusión
 

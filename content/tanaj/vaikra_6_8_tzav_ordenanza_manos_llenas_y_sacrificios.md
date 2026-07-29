@@ -1,7 +1,7 @@
 ---
 title: "Vaikra 6–8: Tzav, ordenanza, manos llenas y servicio íntegro"
 description: "Lectura canónica de Tzav: la ordenanza que capacita al sacerdote, distingue los sacrificios y consagra a Aharón y sus hijos."
-date: 2026-07-28
+date: 2026-07-29
 tags:
   - vaikra
   - tzav
@@ -130,6 +130,14 @@ El cierre de la sección repite la prohibición de comer sangre y grasa reservad
 Vaikra 8 confirma esa lógica mediante una ceremonia pública. Moshéh reúne la asamblea, lava a Aharón y sus hijos, los viste, unge el Mishkán y ofrece los sacrificios. **(וישחט)**, _vayishjat_, procede de שחט, «degollar o sacrificar»; aquí introduce una acción ritual ejecutada conforme al mandato, no una imagen genérica de entrega. Después Moshéh aplica sangre a la oreja, el pulgar y el dedo del pie de Aharón y sus hijos: el texto representa oído, mano y camino consagrados por la ceremonia, aunque «todo el cuerpo moral» es una síntesis pedagógica. Los siete días y la repetición de lo mandado muestran que _milluim_ es dotación recibida bajo autoridad, no autosuficiencia carismática.
 
 Por tanto, la conexión mesiánica que Eric propone puede conservarse como lectura tipológica de un mediador autorizado y consagrado, pero no como sustitución de las categorías levíticas. **(ויעש)**, _vayaas_, de עשה, «hacer o realizar», resume la respuesta final: Aharón y sus hijos hicieron todo lo que יהוה ordenó por mano de Moshéh. El texto prueba la capacitación por la obediencia concreta; «tener las manos llenas» sin hacer lo ordenado sería una equivalencia inexacta del argumento de Tzav.
+
+## Oído, mano y camino: la investidura se verifica en el cuerpo — Lv 8:22-36
+
+La ceremonia de Vaikra 8 no solo entrega un título; muestra dónde debe operar el servicio. Moshéh pone sangre en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho de Aharón y sus hijos (#vaikra_8_23-24). El OE conserva **ונתן על תנוך אזן אהרן הימנית ועל בהן ידו הימנית ועל בהן רגלו הימנית**, y el TTH mantiene esas tres localizaciones. **(תנוך)**, _tenuj_, significa lóbulo o parte blanda de la oreja; **(בהן)**, _bohen_, designa el pulgar o dedo principal de mano o pie. «Oído, obra y caminar» es una lectura **pedagógica** de la distribución corporal, no una traducción escondida de esos sustantivos.
+
+Eric relaciona la investidura con una capacidad recibida para servir al Mesías. El texto permite una tipología prudente porque la sangre y el aceite consagran a personas concretas para una tarea pública, pero el sentido inmediato sigue siendo levítico: Aharón y sus hijos deben permanecer siete días en la entrada de la Tienda y guardar lo que יהוה mandó (#vaikra_8_35-36). **(שמר)**, _shamar_, significa guardar, custodiar u observar; aquí su fuerza es vigilar el encargo durante el plazo ordenado. «Disposición interior» es una equivalencia **aproximada**; la prueba textual de la capacitación es permanecer, guardar y hacer.
+
+El orden también limita la imagen de «manos llenas». Las manos no están llenas para apropiarse del altar, sino para recibir una función bajo autoridad. **(ימין)**, _yamin_, significa derecha o mano derecha; en este rito marca las partes derechas seleccionadas, no una teoría universal sobre lateralidad. **(מלא)**, _male_, significa llenar o completar, y **(מלאים)**, _milluim_, nombra la investidura; «dotación espiritual» es una equivalencia pedagógica. Eric conserva una intuición válida cuando entiende la consagración como equipamiento para dar, pero Vaikra 8 exige que ese equipamiento permanezca sometido a la palabra, al espacio y al tiempo del servicio.
 
 ## Créditos
 
