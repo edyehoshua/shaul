@@ -195,6 +195,14 @@ Por tanto, la evaluación más firme de la exposición es doble: Eric acierta al
 
 ## Conclusión
 
+## Evaluación final de la exposición, siguiendo la perícopa
+
+La enseñanza de Eric sobre una reconciliación que no puede reducirse a una sola imagen queda mejor delimitada al seguir los verbos del capítulo. En los vv. 11-19 Aharón acerca el becerro, entra con el incensario y rocía la sangre; el OE dice **וכפר על הקדש מטמאת בני ישראל** y el TTH: «hará reconciliación por la Santidad debido a la impureza de los hijos de Israel». **(הזה)**, _hizah_, significa rociar o salpicar; su fuerza contextual es una acción sacerdotal localizada, y «aplicar la sangre» es una equivalencia pedagógica. **(כפר)**, _kafar_, significa cubrir y, en esta construcción cultual, hacer reconciliación; «pagar una deuda» es aproximado, no el sentido único de la raíz.
+
+Solo después de que Aharón termina esa fase, el v. 21 dice **והתודה עליו את כל עונת בני ישראל**: confiesa sobre el animal todas las iniquidades de Israel. **(ידה)**, _yadah_, significa reconocer, confesar o dar gracias; en la forma reflexiva **והתודה**, _vehitvadah_, la fuerza contextual es declarar verbalmente las faltas sobre el macho cabrío. Luego **ונשא השעיר עליו את כל עונתם**, «el peludo cargará sobre sí todas sus iniquidades». **(נשא)**, _nasa_, significa llevar, cargar o levantar; «eliminar la culpa» resume el efecto narrativo, pero no sustituye al verbo. Eric acierta al unir confesión y remoción, mientras el texto impide convertirlas en una sola acción indiferenciada.
+
+La respuesta de la asamblea confirma que el rito alcanza una vida concreta: «afligirán sus nefesh» y no harán trabajo. **(ענה)**, _anah_, significa afligir, humillar o someter; **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto. «Alma» es una equivalencia tradicional y aproximada; aquí el TTH «afligirán sus gargantas» conserva la dimensión corporal. **(שבתון)**, _shabbaton_, significa reposo solemne y nombra la cesación ordenada. La aplicación de Eric a una obediencia que debe verse es razonable como lectura teológica, pero la afirmación exacta sigue siendo la respuesta ritual de Israel en la fecha prescrita.
+
 Vaikra 16 responde a la muerte producida por un acercamiento no regulado con un orden de reconciliación que atraviesa sacerdote, sangre, confesión, envío, humillación y purificación. Eric conserva un punto decisivo: no basta hablar de expiación si se borra la remoción del pecado y la obediencia que el rito exige. El texto, sin embargo, también conserva sus propios límites: Azazel no se traduce automáticamente como demonio, _nefesh_ no obliga a un dualismo, y el Mesías es una lectura canónica posterior que debe someterse al recorrido de la perícopa. La Santidad no se vuelve accesible por el deseo humano; יהוה la regula y, en el día señalado, hace reconciliación para que su pueblo sea purificado.
 
 ## Prueba textual de la reconciliación completa — vv. 11-34

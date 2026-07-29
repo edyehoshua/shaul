@@ -153,6 +153,16 @@ El vínculo entre luz y servicio queda además limitado por **(עבודה)**, _a
 
 ## Conclusión
 
+## Evaluación final de las cinco fuentes y del orden del capítulo
+
+Las cinco exposiciones públicas no deben fundirse en una sola afirmación. `youtube:Ps_KEolNVdU` destaca que las siete lámparas deben orientarse hacia la Menoráh; `youtube:f0PQY7bXbJQ` llama a no convertir una reconstrucción histórica en certeza bíblica; `youtube:OG2PPYieRhk` desarrolla la purificación de los leviím; `youtube:EHZDK_XPB1A` subraya su sustitución funcional por los primogénitos; y `youtube:eJlTuHME674` observa el relevo por edad. Bamidbar 8 confirma la secuencia, pero también limita cada aplicación: los vv. 1-4 hablan de una disposición cultual, los vv. 5-13 de una preparación pública, los vv. 14-19 de pertenencia y servicio en lugar de los primogénitos, y los vv. 20-26 de etapas concretas del trabajo levítico.
+
+El OE resume la respuesta de Aharón con **ויעש כן אהרן**, «y Aharón hizo así», y el TTH conserva la obediencia a la configuración recibida. **(עשה)**, _asah_, significa hacer, realizar o ejecutar; aquí su fuerza contextual es cumplir una orden, no fabricar un símbolo privado. La orientación se expresa en **אל מול פני המנורה**, «hacia la faz de la Menoráh». **(מול)**, _mul_, significa frente o en dirección a; **(פנים)**, _panim_, significa rostro, faz o presencia. La equivalencia «mirar a יהוה» es pedagógica y teológica; la referencia exacta es espacial.
+
+En la consagración, **והבדלת את הלוים** significa «separarás a los leviím». **(בדל)**, _badal_, significa separar o distinguir; su fuerza contextual es reservar una función, no declarar superioridad moral. El v. 18 dice que יהוה tomó a los leviím **תחת כל בכור**, «en lugar de todo primogénito». **(תחת)**, _tajat_, significa debajo, bajo o en lugar de; aquí indica sustitución funcional dentro del servicio, no reemplazo universal de toda autoridad. Por eso la aplicación de Eric al liderazgo puede conservarse como analogía, pero no como una ley directa para toda comunidad.
+
+El cierre protege la dignidad del relevo. **(שוב)**, _shuv_, significa volver o regresar; en 8:25 marca el cambio de la labor pesada a otra forma de asistencia. **(שרת)**, _sharet_, significa servir o asistir; en 8:26 describe ayuda a los hermanos, no dominio. La nota, por tanto, conserva el argumento de Eric en su forma más fuerte: la luz recibida se vuelve servicio visible, comunitario y limitado por la palabra de יהוה.
+
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación. El recorrido es deliberadamente acumulativo: las lámparas reciben una orientación concreta (vv. 1-4), los levitas atraviesan una preparación visible (vv. 5-13), la sustitución queda explicada por la memoria de los primogénitos (vv. 14-19) y el servicio termina siendo limitado por edad y tarea (vv. 20-26). Así, la aplicación de Eric al liderazgo puede conservarse como analogía pedagógica, pero la afirmación exacta del capítulo es más estrecha: יהוה ordena un servicio levítico recibido, comunitariamente reconocido y sujeto a relevo.
 
 ## Una misma ordenanza une luz, pertenencia y relevo
