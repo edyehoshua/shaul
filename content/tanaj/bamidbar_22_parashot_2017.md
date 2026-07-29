@@ -181,6 +181,14 @@ La conversación final también limita la autonomía del portavoz. Bilam confies
 
 Por eso la lectura de Eric sobre vencer el mal con el bien queda mejor delimitada por la perícopa. Balaq procura una maldición, Bilam desea avanzar, el asna percibe el peligro, el mensajero corrige el trayecto y יהוה fija el contenido de la palabra. La aplicación ética es pedagógica; la afirmación textual es más concreta y más exigente: ningún pago, miedo o técnica de maldecir puede alterar lo que יהוה manda decir sobre Israel.
 
+## La reprensión posterior confirma, pero no reemplaza, la escena — vv. 21-35
+
+La lectura de Eric sobre el lucro recibe una evaluación canónica especialmente clara en Delitzsch. En Keifas Bet 2:15-16, el texto griego dice **ἐπλανήθησαν ἀκολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ ... ὃς μισθὸν ἀδικίας ἠγάπησεν· ἔσχεν δὲ ἔλεγχον τῆς ἰδίας παρανομίας**, «se extraviaron siguiendo el camino de Bilam ... que amó el salario de la injusticia; pero recibió reprensión por su propia transgresión». **(ὁδός)**, _hodos_, significa camino o conducta; aquí retoma el trayecto de Bamidbar 22 y lo evalúa como una manera de vivir. **(μισθός)**, _misthos_, significa salario o recompensa; en este contexto hace explícito el motivo del lucro. «Soborno» es una equivalencia pedagógica posible para el efecto de la recompensa, pero no el sentido aislado del sustantivo.
+
+La carta también dice que la asna **ἐκώλυσεν**, _ekolysen_, «impidió», la locura del profeta. **(κωλύω)**, _kolyo_, significa impedir, estorbar o detener; su fuerza contextual es interpretar el bloqueo del camino como reprensión, no convertir al animal en una autoridad profética independiente. Esta lectura posterior confirma la dirección moral que Eric observa, pero no permite borrar la ambigüedad narrativa de Bamidbar 22: el capítulo muestra acciones, enojo y corrección; la afirmación psicológica completa sobre la codicia se vuelve más firme al leer la memoria canónica posterior.
+
+La secuencia conserva tres niveles de equivalencia. Es **exacto** que יהוה manda a Bilam hablar sólo lo que se le diga, es **aproximado** llamar «lucro» al deseo que el narrador deja ver mediante el camino y la recompensa, y es **pedagógico** extender la advertencia a todo ministerio contemporáneo. La exposición de Eric queda así preservada sin convertir Keifas Bet en una cita literal de Bamidbar 22 ni presentar una aplicación pastoral como si fuera la definición de **ארה**, _'arah_, «maldecir».
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

@@ -544,6 +544,14 @@ El destino de la luz también limita la aplicación: **אל מול פני המנ
 
 Esta precisión también conserva la diferencia entre la primera perícopa y el final del capítulo. En 8:20, toda la congregación hace con los levitas conforme a lo mandado; en 8:26, el levita mayor continúa sirviendo a sus hermanos. La imagen de Eric pasa de lámparas atendidas a servidores responsables, pero el texto sostiene ese movimiento mediante verbos y sujetos concretos, no mediante una alegoría ilimitada. La aplicación comunitaria es razonable y **aproximada**; la afirmación exacta es que la luz y el servicio quedan sometidos a una ordenanza de יהוה.
 
+## Dos edades, una responsabilidad regulada — vv. 23-26
+
+El cierre de Bamidbar 8 merece una precisión que protege la aplicación de Eric sobre el relevo. OE dice en 8:24: **זאת אשר ללוים מבן חמש ועשרים שנה ומעלה יבוא לצבא צבא בעבדת אהל מועד**, «esto es para los leviím: desde los veinticinco años y arriba entrará al servicio del ejército en la obra de la Tienda del Encuentro». TTH conserva la entrada desde los veinticinco años. Luego OE dice en 8:25: **ומבן חמשים שנה ישוב מצבא העבדה ולא יעבד עוד**, «y desde los cincuenta años volverá del servicio de la labor y no trabajará más». **(צבא)**, _tsava_, puede significar ejército, servicio organizado o periodo de servicio; aquí su fuerza contextual es el servicio regulado, no una guerra literal. **(עבודה)**, _avodah_, significa trabajo, servicio o labor; «ministerio» es una equivalencia pedagógica aproximada.
+
+La clase puede aplicar este relevo a la necesidad de no confundir edad con inutilidad, pero la afirmación exacta es más estrecha: el levita deja la labor pesada y **ושרת את אחיו**, _vesheret et ajav_, «servirá a sus hermanos», guardando la custodia. **(שרת)**, _sharet_, significa servir o asistir; **(שמר)**, _shamar_, significa guardar o custodiar. «Conservar el poder» sería una equivalencia inexacta: el texto cambia la tarea, no prolonga una autoridad personal. La diferencia con otros censos levíticos, que emplean otra edad para otra función, no debe armonizarse aquí sin cotejar el contexto; Bamidbar 8 regula la entrada y el relevo de este servicio concreto.
+
+Delitzsch ofrece un paralelo útil y limitado en Ivrim 9:6: **καὶ μετὰ ταῦτα οἱ ἱερεῖς εἰσέρχονται διὰ παντὸς εἰς τὴν πρώτην σκηνὴν τὰς λατρείας ἐπιτελοῦντες**, «y después de estas cosas los sacerdotes entran continuamente en la primera tienda, realizando los servicios». **(λατρεία)**, _latreia_, significa servicio cultual o adoración; su fuerza contextual es el servicio sacerdotal dentro del santuario, no una traducción del **צבא** levítico. El paralelo confirma que el acceso y la labor son regulados, pero no fusiona sacerdotes y levitas ni convierte la observación pastoral de Eric en una norma universal.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
