@@ -58,6 +58,14 @@ Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depen
 - Donde la transcripción menciona literatura rabínica, términos arameos o etimologías sin referencia exacta, la nota conserva el punto como material de clase y lo marca como pendiente.
 - El texto TTH de #markos_13_32 consultado localmente no incluye la frase "ni el Hijo"; Delitzsch sí la conserva. La diferencia queda indicada en la hoja de comparación. La oración de #markos_14_36 aparece solo como conexión posterior para probar el marco propuesto, no como un segundo estudio canónico de capítulo.
 
+## Mapa público de las fuentes y control del argumento
+
+Las cuatro fuentes públicas se distinguen por función. La parte 40 introduce la discusión de las setenta semanas; la parte 41 relaciona esa lectura con la destrucción del templo y con el cierre de Marcos 13; la parte 42 recorre públicamente las señales de 13:14-32; y la parte 13 aporta la exposición doctrinal sobre la divinidad del Mesías. Se conservan como fuentes independientes con sus créditos públicos, pero la nota mantiene una sola unidad canónica para Marcos 13 y no convierte los títulos de los videos en transcripciones.
+
+El control de la perícopa sigue el orden del texto: **βδέλυγμα**, _bdelygma_, «cosa abominable o profanadora», aparece en 13:14; **πλανάω**, _planaō_, «desviar o engañar», califica la amenaza de los falsos mesías en 13:22; **ἐπισυνάγω**, _episynagō_, «reunir», describe la acción del Hijo del Hombre sobre los escogidos en 13:27; y **γρηγορεῖτε**, _grēgoreite_, «vigilen», cierra la exhortación en 13:35 y 37. Las aproximaciones hebreas **(שקוץ)**, _shiqquṣ_, «cosa detestable», **(תעה)**, _taá_, «extraviarse», **(אסף)**, _asaf_, «recoger», y **(שמרו)**, _shimru_, «guarden o vigilen», iluminan campos semíticos relacionados, pero no son retroversiones demostradas del griego de Marcos.
+
+La tensión de 13:32 debe probarse desde sus formas y sus testigos, no resolverse borrando una variante. **οἶδεν**, _oiden_, «sabe», aparece en la negación del conocimiento; **ἡμέρα**, _hēmera_, «día», y **ὥρα**, _hōra_, «hora o momento señalado», delimitan lo que no se entrega a los discípulos. TTH omite «ni el Hijo», mientras Delitzsch conserva **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo». En ambos textos el mandato resultante es velar. Por eso la lectura de Eric sobre la palabra inamovible puede exponerse como interpretación teológica, mientras la equivalencia entre el Hijo y una manifestación específica de Abba queda calificada y subordinada al llamado narrativo a perseverar.
+
 ## Ruta del argumento
 
 La enseñanza parte de una cadena de equivalencias: Hijo significa heredero; Adam se asocia con reino de los cielos; Bar Enash es el heredero del reino de los cielos. Desde Daniel 7, la clase lee al Hijo del Hombre no como una figura inferior ajena al Anciano de Días, sino como la manifestación descendida del mismo Mesías en su condición de siervo.
