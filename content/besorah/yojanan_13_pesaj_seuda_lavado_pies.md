@@ -81,16 +81,16 @@ Desde esa escena, el texto junta tres líneas: Yeshúa ama a los suyos hasta el 
 | #matityahu_26_17 | TTH: Y en el primer día de la fiesta de los panes sin levadura, se acercaron los discípulos a Yeshúa diciendo: ¿Dónde prepararemos para ti la comida del Pésaj? | La clase lo lee en relación con el día de preparación, no como contradicción cronológica.         |
 | #markos_14_12    | TTH: Y en el primer día de Matzot, cuando sacrificaban el Pésaj, le dijeron sus discípulos: ¿Dónde quieres que vayamos y preparemos para que comas el Pésaj?    | Marcos aclara que se trata del tiempo en que se sacrificaba el Pesaj.                             |
 | #lukas_22_7      | TTH: Y vino el día de Matzot, en el que era necesario sacrificar el Pésaj.                                                                                      | El sacrificio del cordero ubica la discusión en el día 14, antes del comienzo pleno de la fiesta. |
-| #shemot_12_13    | והיה הדם לכם לאת על הבתים אשר אתם שם וראיתי את הדם ופסחתי עלכם ולא יהיה בכם נגף למשחית בהכתי בארץ מצרים                                          | Pesaj está atado a sangre, juicio y rescate.                                                      |
-| #shemot_12_15    | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשן עד יום השבעי                                  | La eliminación de levadura enmarca por qué la clase insiste en pan sin levadura.                  |
+| #shemot_12_13    | והיה הדם לכם לאת על הבתים אשר אתם שם וראיתי את הדם ופסחתי עלכם ולא יהיה בכם נגף למשחית בהכתי בארץ מצרים                                                         | Pesaj está atado a sangre, juicio y rescate.                                                      |
+| #shemot_12_15    | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשן עד יום השבעי                                             | La eliminación de levadura enmarca por qué la clase insiste en pan sin levadura.                  |
 
 ### Lavado de pies en la Torah
 
-| Referencia      | Hebreo (sin nikud)                                                                                      | Función en la clase                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| #bereshit_18_4  | יקח נא מעט מים ורחצו רגליכם והשענו תחת העץ                                                          | Avraham ofrece lavar los pies a los visitantes; la clase lo menciona como antecedente narrativo.   |
+| Referencia      | Hebreo (sin nikud)                                                                       | Función en la clase                                                                                |
+| --------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| #bereshit_18_4  | יקח נא מעט מים ורחצו רגליכם והשענו תחת העץ                                               | Avraham ofrece lavar los pies a los visitantes; la clase lo menciona como antecedente narrativo.   |
 | #bereshit_24_32 | ויבא האיש הביתה ויפתח הגמלים ויתן תבן ומספוא לגמלים ומים לרחץ רגליו ורגלי האנשים אשר אתו | El siervo de Avraham recibe agua para sus pies al cumplir la misión de buscar esposa para Yitzjaq. |
-| #bereshit_22_14 | ויקרא אברהם שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה                                    | La clase lo conecta con el Cordero provisto por יהוה y con #iojanan_8_56.                          |
+| #bereshit_22_14 | ויקרא אברהם שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה                          | La clase lo conecta con el Cordero provisto por יהוה y con #iojanan_8_56.                          |
 
 ## Hoja léxica
 
@@ -160,6 +160,23 @@ Aplicado a Yojanán 13, el lavado de pies significa dos cosas: sujeción a la vo
 La objeción de Kefa muestra que el gesto no puede reducirse a cortesía. Yeshúa responde: si no lo lava, Kefa no tiene parte con él. En la lectura de la clase, no se trata de una limpieza física superior, sino de aceptar la forma mesiánica de la misión: el enviado se somete a la voluntad del que lo envía, y por esa sujeción las promesas pasan de anuncio a manifestación.
 
 Cuando Yeshúa dice que ellos ya están limpios pero necesitan los pies, la clase lo entiende como lenguaje metafórico. La palabra ya los había preparado; faltaba el signo de la sujeción y de la participación concreta. Desde allí, ellos serían fundamento apostólico de la edificación de Israel, junto con los profetas, y testigos de los bienes del mundo venidero.
+
+## Mapa de la enseñanza de Eric
+
+Eric abre con #iojanan_13_1-3 y sitúa la cena en dirección a Pesaj: Yehoshua sabe que llegó su hora, ama a los suyos hasta el fin, y sale de Elohim para volver a יהוה. La hoja local respalda que el pasaje encadena la hora, el amor, el conocimiento de que todo fue puesto en sus manos y el retorno; la lectura de «Elohim» y «Abba» como categorías de una única obra divina es la síntesis doctrinal de la clase, no una traducción automática del verso.
+
+En #iojanan_13_2 y en los relatos sinópticos, Eric insiste en que había una comida real y que la escena no debe reducirse a pan y copa ni convertirse sin prueba en un seder completo. Los textos locales mencionan el banquete y el día de los panes sin levadura; sostienen el marco de comida y Pesaj, pero la reconstrucción precisa de fechas, copas y orden ritual permanece pendiente de verificación histórica.
+
+Después, al leer #iojanan_13_4-5 y los antecedentes de #bereshit_18_4 y #bereshit_24_32, Eric trata el lavado de pies como más que cortesía: es servicio, sujeción a la misión y señal de que las promesas pasan a la concreción. El agua para los pies está explícita en los relatos patriarcales y el gesto de Yehoshua también; la conexión tipológica con la redención es una lectura pedagógica de la clase, no una equivalencia narrativa exacta.
+
+Finalmente, en #iojanan_13_8-10, Eric explica «no tendrás parte conmigo» como la necesidad de aceptar la forma humilde en que el Mesías cumple su encargo. La respuesta de Kefa confirma que el lavado no es un gesto indiferente, pero el texto no enumera por sí solo todo el programa apostólico que la clase deriva de él. La aplicación sobre participación, limpieza y misión queda distinguida de la afirmación textual directa.
+
+| Unidad textual                                           | Observación concreta atribuida a Eric                                                                                                 | Prueba y evaluación local                                                                                                             |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_13_1-3                                          | La cena prepara la hora de Pesaj; el amor hasta el fin y el retorno hacia יהוה forman una sola obra mesiánica.                        | El texto encadena hora, amor, salida de Elohim y retorno; la arquitectura de categorías divinas es interpretación doctrinal.          |
+| #iojanan_13_2; Matityahu 26:17; Markos 14:12; Lukas 22:7 | Había comida real en el marco de Pesaj, sin que esto autorice llamar a la escena un seder completo o una sustitución del mandamiento. | Los textos locales hablan de banquete, Matzot y sacrificio del Pesaj; cronología, copas y costumbre requieren verificación histórica. |
+| #iojanan_13_4-5; Bereshit 18:4; 24:32                    | El lavado de pies retoma hospitalidad y misión patriarcales, y muestra sujeción del Mesías.                                           | Agua y lavado aparecen en los textos; la tipología de concreción de promesas es pedagógica.                                           |
+| #iojanan_13_8-10                                         | Aceptar que Yehoshua lave es condición para tener parte con él y participar en su misión.                                             | «Si no te lavo, no tendrás parte conmigo» es explícito; la extensión al programa apostólico es inferida.                              |
 
 ## Conexiones principales
 
