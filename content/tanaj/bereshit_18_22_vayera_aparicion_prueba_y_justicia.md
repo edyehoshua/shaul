@@ -87,6 +87,16 @@ El narrador vuelve a mostrar esa tensión en 21:33: Abraham planta un tamarisco 
 
 Esta línea también limita una lectura individualista de la clase. Abraham intercede como miembro de una historia familiar y escucha como padre; Sarah recibe la promesa, Lot es rescatado y el muchacho pregunta en el camino a Moriah. La presencia sostiene personas concretas, pero el texto evalúa su fruto en justicia, misericordia, cuidado y obediencia. «Dios está conmigo» sería un resumen insuficiente si no incluye «para hacer justicia y juicio» y «porque escuchaste mi voz».
 
+## La aparición comprobable y la exposición pendiente
+
+Como la transcripción local de `youtube:iw2v71qC7lk` no está disponible, no corresponde atribuir a Eric una explicación específica de cada versículo. Sí es posible conservar su observación visible —el título «Y fue visible»— y probarla con el texto que la clase anuncia. El OE de Bereshit 18:1 dice **וירא אליו יהוה באלני ממרא**, «y se apareció a él יהוה en los robles de Mamré»; TTH conserva «Y apareció a él יהוה». **(ראה)**, _raah_, significa ver, mirar o aparecer; en **(וירא)**, _vayerá_, su fuerza contextual es una aparición que se hace perceptible, no una simple mirada de Abraham. «Visión interior» sería una equivalencia pedagógica que añade una dimensión no expresada.
+
+La escena inmediatamente matiza esa aparición: 18:2 presenta **(אנשים)**, _anashim_, «hombres». Abraham corre, se inclina y prepara alimento. La nota, por tanto, no debe elegir entre «YHWH» y «hombres» como si uno eliminara al otro; debe conservar la tensión narrativa y observar la respuesta. La hospitalidad no demuestra que todo visitante sea divino, pero sí muestra que la presencia recibida produce acción concreta. Esta es una evaluación textual, no una cita reconstruida del audio.
+
+La misma disciplina gobierna la justicia. OE formula en 18:19 **לעשות צדקה ומשפט**, «hacer justicia y juicio», y en 18:25 **השפט כל הארץ לא יעשה משפט**, «¿el Juez de toda la tierra no hará juicio?». **(צדקה)**, _tsedaqah_, significa justicia o rectitud; **(משפט)**, _mishpat_, significa juicio, decisión o administración del derecho. «Moralidad» es una equivalencia pedagógica demasiado general. El texto deja que Abraham interceda sin convertirse en juez superior: apela al carácter de יהוה y recibe una respuesta que sigue distinguiendo justos y culpables.
+
+Finalmente, Génesis 22 impide que «ver» se convierta en una consigna de provisión automática. En 22:8 Abraham dice **אלהים יראה לו השה**, «Elohim verá para sí el cordero»; en 22:14 repite **יהוה יראה**, «יהוה verá». **(ראה)** conserva el sentido normal de ver, mientras «proveerá» es una equivalencia **contextual y pedagógica**, explicada por el carnero que aparece. **(שמע)**, _shama_, en 22:18 significa oír, escuchar y obedecer; su fuerza incluye una respuesta practicada. Así, la aparición conduce a hospitalidad, justicia, intercesión y obediencia, pero los detalles hablados de la clase quedan correctamente marcados como pendientes.
+
 ### Hoja de comparación
 
 | Referencia      | Hebreo (sin nikud)        | TTH (OE/TTH)               | Observación                                            |

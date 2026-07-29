@@ -116,6 +116,16 @@ En 5:23–24 el responsable debe devolver lo tomado y añadir una quinta parte. 
 | **חטאת**  | _jatat_         | ofrenda por el pecado            | Categoría ritual de Vaikra 4–5             | «Error» no traduce toda la función       |
 | **אשם**   | _asham_         | culpa, ofensa, ofrenda por culpa | Culpa acompañada de restitución            | «Castigo» no es equivalente exacta       |
 
+## Prueba de la lectura mesiánica: altar, cuerpo y restitución
+
+La segunda parte de la enseñanza de Eric acerca a Yehoshúa la expresión de Ivrim sobre un cuerpo preparado. El Delitzsch local dice en Ivrim 10:5: **זבח ומנחה לא חפצת גוף כוננת לי**, «sacrificio y ofrenda no quisiste; cuerpo preparaste para mí», y en 10:10 habla de la santificación «por la ofrenda del cuerpo de Yehoshúa el Mesías una vez». Esa cita debe conservar su destinatario y su argumento: es la recepción de los Salmos y de la práctica levítica en Ivrim, no una definición que pueda retroproyectarse sin matiz sobre cada aparición de **(קרבן)**, _qorban_, en Vaikra. La equivalencia entre **גוף**, _guf_, «cuerpo», y _qorban_ es **canónica y aproximada**, no léxicamente exacta.
+
+El propio Vaikra ofrece el control. En 1:2, **אדם כי יקריב מכם קרבן ליהוה**, «cuando alguno de ustedes presente una ofrenda a יהוה», el verbo **(קרב)**, _qarav_, significa acercarse o hacer acercar, y **(יקריב)**, _yaqriv_, describe presentar el don. En 5:5, **והתודה אשר חטא עליה**, «confesará aquello en que pecó», la forma **(ידה)**, _yadah_, significa confesar, reconocer o dar gracias; aquí su fuerza es reconocer una falta concreta. En 5:23–24, **והשיב את הגזלה** exige devolver lo tomado y añadir la quinta parte. «El cuerpo perfecto reemplaza toda respuesta humana» sería, por tanto, una inferencia **inexacta** frente a la secuencia local.
+
+La observación de Eric conserva fuerza cuando afirma que el acercamiento no es una idea sin materia: Vaikra hace visible animal, grano, sangre, grasa, altar, sacerdote, confesión y devolución, mientras Ivrim relee esa materialidad en una argumentación mesiánica. Pero la misma comparación impide convertir «sacrificio» en una palabra mágica. **(קדש)**, _qadosh_, significa santo o apartado; aunque la santificación de Ivrim es una conclusión teológica de ese escrito, Vaikra muestra que la santidad ritual se expresa mediante límites y acciones verificables. «Consagración instantánea sin reparación» sería una equivalencia pedagógica defectuosa.
+
+La evaluación final debe mantener tres niveles: el sentido **exacto** de las formas levíticas dentro de sus ritos, la relación **aproximada** que Ivrim establece con esos patrones y la aplicación **pedagógica** que presenta a Yehoshúa como cumplimiento. Los niveles se enriquecen cuando no se confunden. La lectura de Eric puede dirigir al lector desde el altar hacia la reconciliación mesiánica; el texto de Vaikra todavía exige que quien dañó a otro confiese, restituya y solo entonces complete el procedimiento de culpa.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad     | Observación pública atribuible a Eric                                    | Evaluación frente al texto                                                                                        |
