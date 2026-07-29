@@ -486,6 +486,16 @@ El término **(λογίζομαι)**, _logizomai_, significa considerar, calcula
 
 Así, la reparación conserva el foco de Eric sin exceder la evidencia pública: nombre, enseñanza, conciencia y señal deben responder ante el juicio de Elohim; la autocrítica de Pablo no es una condena étnica de Israel, y la interioridad no es una autoridad privada desligada de la Escritura. Romanos 3 queda como control inmediato contra cualquier lectura que transforme la obediencia examinada en mérito autónomo.
 
+## Reparación final: identidad confesada y corazón examinado
+
+La pregunta pública de Eric en `youtube:6D7Yj0bDSfU` —«¿qué es ser judío? ¿qué es ser creyente?»— debe conservarse como foco visible del título, no como una transcripción reconstruida: el inventario local marca esta sesión sin transcript disponible. Romanos 2 permite evaluarla en el orden completo. Pablo reconoce conocimiento de la Torah, capacidad de enseñar y una señal histórica; después confronta al maestro que no se enseña a sí mismo y llega al corazón que recibe alabanza de Elohim. La observación recibe **apoyo textual cualificado**: identidad, enseñanza y señal son realidades serias, pero ninguna sirve de escudo contra la incoherencia.
+
+En 2:17-24, **(Ἰουδαῖος)**, _Ioudaios_, significa judío; su sentido ordinario identifica al interlocutor histórico de Pablo, y su fuerza contextual no autoriza a convertir la reprensión dirigida a un maestro en desprecio de todo Israel. **(διδάσκω)**, _didaskō_, significa enseñar o instruir; en 2:21 forma la pregunta que devuelve la enseñanza al propio maestro. «Enseñar» es una glosa **directa**; aplicar el pasaje a toda autoridad religiosa moderna es **aproximado y pedagógico**, no una identificación exacta.
+
+En 2:25-29, **(περιτομή)**, _peritomē_, significa circuncisión o corte ritual; **(ἀκροβυστία)**, _akrobystia_, significa incircuncisión; y **(κρυπτός)**, _kryptos_, significa oculto o interior. Sus sentidos ordinarios son **directos**, pero la fuerza del pasaje es relacional: la señal se evalúa junto con la práctica, y la alabanza final procede de Elohim, no de una reputación pública. **(καρδία)**, _kardia_, significa corazón o centro interior; «corazón» es **directo**, mientras convertirlo en una facultad desligada de conducta sería **ilegítimo**.
+
+Así, la pregunta de Eric queda preservada sin ampliar la evidencia de la fuente. Romanos 2 no enseña que las señales carezcan de todo valor; enseña que el nombre, la instrucción y la señal deben responder ante el mismo juicio imparcial. La conclusión es **textual** en la secuencia del capítulo y **cualificada** en sus aplicaciones pastorales: una identidad confesada debe ser examinada por la verdad practicada y por la alabanza que solo Elohim puede otorgar.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
