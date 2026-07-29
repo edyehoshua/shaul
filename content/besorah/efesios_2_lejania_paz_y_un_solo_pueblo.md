@@ -10,9 +10,14 @@ tags:
   - gentiles
 references:
   - "#ephesians_2_1"
+  - "#ephesians_2_2"
+  - "#ephesians_2_3"
   - "#ephesians_2_4"
   - "#ephesians_2_5"
+  - "#ephesians_2_6"
+  - "#ephesians_2_7"
   - "#ephesians_2_8"
+  - "#ephesians_2_9"
   - "#ephesians_2_10"
   - "#ephesians_2_11"
   - "#ephesians_2_12"

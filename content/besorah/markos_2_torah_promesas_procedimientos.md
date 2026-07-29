@@ -13,10 +13,29 @@ tags:
   - obediencia
   - mesias
 references:
+  - "#markos_2_1"
+  - "#markos_2_2"
+  - "#markos_2_3"
+  - "#markos_2_4"
   - "#markos_2_5"
   - "#markos_2_7"
   - "#markos_2_10"
   - "#markos_2_11"
+  - "#markos_2_12"
+  - "#markos_2_13"
+  - "#markos_2_14"
+  - "#markos_2_15"
+  - "#markos_2_17"
+  - "#markos_2_18"
+  - "#markos_2_19"
+  - "#markos_2_21"
+  - "#markos_2_22"
+  - "#markos_2_23"
+  - "#markos_2_24"
+  - "#markos_2_25"
+  - "#markos_2_26"
+  - "#markos_2_27"
+  - "#markos_2_28"
   - "#irmeiahu_31_31"
   - "#irmeiahu_31_33"
   - "#melajim_alef_2_3"
@@ -89,21 +108,24 @@ Los tres `source_ids` son únicos dentro de esta nota y corresponden a créditos
 
 ## Hoja de comparación
 
-| Referencia          | Texto local                                                                                                                                            | Función en la clase                                                                                                                  |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #markos_2_1-4       | TTH: Yehoshua entra de nuevo en Kefar Najum, enseña la palabra y cuatro llevan al paralítico por el techo hasta dejarlo ante él.                       | La fe se muestra corporativamente en una aproximación que vence el obstáculo de la multitud.                                         |
-| #markos_2_5         | TTH: Yehoshua vio la emunah de quienes cargaban al hombre y le dijo: «Hijo mío, te son soportadas tus transgresiones».                                 | El perdón aparece como restauración real, no como una frase sin consecuencias.                                                       |
-| #markos_2_7         | TTH: los escribas preguntan quién puede soportar las transgresiones «sino solamente Elohim».                                                           | La objeción identifica el peso teológico de lo que Yehoshua acaba de hacer.                                                          |
-| #markos_2_10-11     | TTH: «el Ben HaAdam tiene poder para soportar las transgresiones en la tierra»; luego ordena al hombre levantarse, tomar su camilla e ir a casa.       | La sanidad visible confirma la autoridad invisible para perdonar.                                                                    |
-| #irmeiahu_31_31     | OE: הנה ימים באים נאם יהוה וכרתי את בית ישראל ואת בית יהודה ברית חדשה                                                                                  | יהוה promete un pacto nuevo con la casa de Israel y la casa de Iehudáh.                                                              |
-| #irmeiahu_31_33     | OE: נתתי את תורתי בקרבם ועל לבם אכתבנה והייתי להם לאלהים והמה יהיו לי לעם                                                                              | El nuevo pacto internaliza la Torah y reafirma la relación «Elohim y pueblo»; no define novedad como abolición.                      |
-| #melajim_alef_2_3-4 | OE: David manda a Shlomó guardar la encomienda de יהוה, andar en sus caminos y guardar חקתיו, מצותיו, משפטיו y עדותיו; así יהוה confirmará su palabra. | Obediencia humana y palabra divina aparecen unidas sin confundirse.                                                                  |
-| #tehilim_40_7-9     | OE: זבח ומנחה לא חפצת... הנה באתי במגלת ספר כתוב עלי... לעשות רצונך אלהי חפצתי ותורתך בתוך מעי                                                         | El salmo describe al que viene según el rollo, desea hacer la voluntad de Elohim y lleva su Torah dentro.                            |
-| #ivrim_10_5-7       | Delitzsch cita el salmo y expresa «me preparaste cuerpo» antes de «he aquí, vengo... para hacer tu voluntad».                                          | La clase conecta el cuerpo preparado con la obediencia concreta del Mesías.                                                          |
-| #matityahu_5_18     | TTH: mientras permanezcan cielo y tierra, «ni una letra ni un punto cesará de la Torah o de los profetas, porque todo será establecido».               | Cierre de la clase: la fidelidad de יהוה alcanza hasta el detalle más pequeño.                                                       |
-| #markos_7_15-19     | TTH: lo que entra desde fuera no contamina el corazón; va al vientre y sale a la letrina.                                                              | La clase lo usa para distinguir impureza moral de higiene y para discutir añadidos tradicionales sobre alimentos declarados limpios. |
-| #efesiyim_2_1-5     | Delitzsch: muertos en delitos, siguiendo la corriente de este mundo, pero vivificados por misericordia.                                                | La Torah escrita en el corazón es obra de gracia; no una cualidad natural intacta en todo ser humano.                                |
-| #sodot_21_3         | Delitzsch: la morada de Elohim está con los hombres; ellos serán su pueblo y Elohim estará con ellos.                                                  | El hilo del pacto llega a la restauración final de la relación anunciada en Irmeiahu.                                                |
+| Referencia          | Texto local                                                                                                                                                               | Función en la clase                                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| #markos_2_1-4       | TTH: Yehoshua entra de nuevo en Kefar Najum, enseña la palabra y cuatro llevan al paralítico por el techo hasta dejarlo ante él.                                          | La fe se muestra corporativamente en una aproximación que vence el obstáculo de la multitud.                                         |
+| #markos_2_5         | TTH: Yehoshua vio la emunah de quienes cargaban al hombre y le dijo: «Hijo mío, te son soportadas tus transgresiones».                                                    | El perdón aparece como restauración real, no como una frase sin consecuencias.                                                       |
+| #markos_2_7         | TTH: los escribas preguntan quién puede soportar las transgresiones «sino solamente Elohim».                                                                              | La objeción identifica el peso teológico de lo que Yehoshua acaba de hacer.                                                          |
+| #markos_2_10-11     | TTH: «el Ben HaAdam tiene poder para soportar las transgresiones en la tierra»; luego ordena al hombre levantarse, tomar su camilla e ir a casa.                          | La sanidad visible confirma la autoridad invisible para perdonar.                                                                    |
+| #markos_2_13-17     | TTH: Yehoshua enseña junto al mar, llama a Levi: «Ven detrás de Mí», y responde que no necesitan sanador los saludables, sino los enfermos; llama a pecadores a teshuváh. | El perdón se extiende en un llamado concreto y en una mesa orientada a la restauración, no a la exclusión.                           |
+| #markos_2_18-22     | TTH: Yehoshua explica que los hijos del novio no ayunan mientras el novio está con ellos, y habla del vestido y del vino nuevo en odres nuevos.                           | La presencia del novio y la novedad del vino forman la unidad inmediata de la enseñanza sobre ayuno y renovación.                    |
+| #markos_2_23-28     | TTH: los discípulos arrancan espigas en Shabat; Yehoshua recuerda a David y declara: «El Shabat fue hecho por causa del hombre» y que el Ben Ha’Adam es Dueño del Shabat. | La autoridad interpreta la ordenanza desde la necesidad, la Escritura y su propósito; no afirma una abolición general.               |
+| #irmeiahu_31_31     | OE: הנה ימים באים נאם יהוה וכרתי את בית ישראל ואת בית יהודה ברית חדשה                                                                                                     | יהוה promete un pacto nuevo con la casa de Israel y la casa de Iehudáh.                                                              |
+| #irmeiahu_31_33     | OE: נתתי את תורתי בקרבם ועל לבם אכתבנה והייתי להם לאלהים והמה יהיו לי לעם                                                                                                 | El nuevo pacto internaliza la Torah y reafirma la relación «Elohim y pueblo»; no define novedad como abolición.                      |
+| #melajim_alef_2_3-4 | OE: David manda a Shlomó guardar la encomienda de יהוה, andar en sus caminos y guardar חקתיו, מצותיו, משפטיו y עדותיו; así יהוה confirmará su palabra.                    | Obediencia humana y palabra divina aparecen unidas sin confundirse.                                                                  |
+| #tehilim_40_7-9     | OE: זבח ומנחה לא חפצת... הנה באתי במגלת ספר כתוב עלי... לעשות רצונך אלהי חפצתי ותורתך בתוך מעי                                                                            | El salmo describe al que viene según el rollo, desea hacer la voluntad de Elohim y lleva su Torah dentro.                            |
+| #ivrim_10_5-7       | Delitzsch cita el salmo y expresa «me preparaste cuerpo» antes de «he aquí, vengo... para hacer tu voluntad».                                                             | La clase conecta el cuerpo preparado con la obediencia concreta del Mesías.                                                          |
+| #matityahu_5_18     | TTH: mientras permanezcan cielo y tierra, «ni una letra ni un punto cesará de la Torah o de los profetas, porque todo será establecido».                                  | Cierre de la clase: la fidelidad de יהוה alcanza hasta el detalle más pequeño.                                                       |
+| #markos_7_15-19     | TTH: lo que entra desde fuera no contamina el corazón; va al vientre y sale a la letrina.                                                                                 | La clase lo usa para distinguir impureza moral de higiene y para discutir añadidos tradicionales sobre alimentos declarados limpios. |
+| #efesiyim_2_1-5     | Delitzsch: muertos en delitos, siguiendo la corriente de este mundo, pero vivificados por misericordia.                                                                   | La Torah escrita en el corazón es obra de gracia; no una cualidad natural intacta en todo ser humano.                                |
+| #sodot_21_3         | Delitzsch: la morada de Elohim está con los hombres; ellos serán su pueblo y Elohim estará con ellos.                                                                     | El hilo del pacto llega a la restauración final de la relación anunciada en Irmeiahu.                                                |
 
 ## Hoja léxica
 
