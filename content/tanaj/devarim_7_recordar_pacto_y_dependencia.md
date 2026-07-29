@@ -198,6 +198,14 @@ El v. 16 ordena consumir a los pueblos que יהוה entrega y no servir a sus di
 
 Éqev enseña a recordar para no apropiarse de lo recibido. La obediencia no desaparece: escuchar, guardar, amar y andar con יהוה son la forma visible de una relación de pacto. Pero el pueblo debe recordar que la liberación, la fuerza, la herencia y el cumplimiento de la palabra proceden de יהוה. Así, la memoria protege la obediencia del orgullo y la convierte en dependencia agradecida.
 
+## El pacto se recuerda frente al temor: Devarim 7:17–21
+
+La advertencia contra atribuirse la fuerza debe leerse también frente al miedo. El texto imagina que Israel diga en su corazón: **רבים הגוים האלה ממני איכה אוכל להורישם**, «son más numerosos que yo estos pueblos; ¿cómo podré desposeerlos?». **(רב)**, _rav_, significa grande, abundante o numeroso; aquí describe una desventaja visible, no una evaluación del valor espiritual de Israel. **(ירש)**, _yarash_, significa poseer, heredar o desposeer; en esta perícopa su fuerza es la acción de tomar posesión de la tierra bajo la entrega de יהוה. «Conquistar por autoestima» sería una aplicación pedagógica ajena al sentido exacto.
+
+La respuesta a ese temor es la memoria: **לא תירא מהם זכור תזכר את אשר עשה יהוה אלהיך לפרעה ולכל מצרים**, «no tendrás temor de ellos; recordar, recordarás lo que hizo יהוה tu Elohim a Faraón y a todo Mitsraim» (#devarim_7_18). La repetición **זכור תזכר**, _zakhor tizkor_, intensifica el mandato de recordar. **(ירא)**, _yare_, significa temer o reverenciar; aquí se refiere al miedo ante el poder enemigo, que debe ser corregido por la memoria de la liberación. «Pensamiento positivo» es una equivalencia inexacta: el argumento descansa en una acción histórica de יהוה.
+
+El capítulo no promete que Israel no verá oposición. Dice que יהוה enviará la **(צרעה)**, _tsir'ah_, hasta que perezcan los que queden y los que se escondan; como ya observa Eric, el texto asegura la agencia y el efecto, pero no resuelve por sí solo si el agente debe entenderse como insecto, plaga o figura interpretativa. La presencia de enemigos, temor y ocultamiento hace que la dependencia sea concreta. Recordar no elimina la obediencia ni autoriza imprudencia: permite que Israel interprete la amenaza dentro del pacto, sin atribuirse la victoria y sin convertir una hipótesis sobre _tsir'ah_ en certeza textual.
+
 ## Mapa ampliado: promesa recibida, obediencia realizada
 
 Las dos fuentes públicas tienen énfasis relacionados, pero no idénticos. `youtube:qoPOuZN5G4c` desarrolla la memoria de la liberación y la advertencia contra atribuirse la fuerza; `youtube:GZ2LxhmNRRU` concentra la atención en que יהוה tomó a Israel para sí. La lectura textual conserva ambos énfasis sin fusionar sus unidades:
