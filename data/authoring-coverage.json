@@ -1,7 +1,7 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 922,
-  "pending_videos": 36,
+  "covered_videos": 921,
+  "pending_videos": 37,
   "transcript_notes": 473,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
@@ -223,7 +223,7 @@
     },
     "Romanos": {
       "total": 35,
-      "covered": 35,
+      "covered": 34,
       "lane": "colosenses"
     },
     "Shavuot independiente (balanceado desde Uncategorized)": {
