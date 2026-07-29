@@ -53,13 +53,13 @@ Esta nota organiza la clase _Jag Hashavu'ot 2020_. La transcripción automática
 
 | Referencia           | Texto hebreo local (OE, sin nikud)                                                                                       | Función en la enseñanza                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| #shemot_23_14, 16    | שלש רגלים תחג לי בשנה / וחג הקציר בכורי מעשיך אשר תזרע בשדה                                                              | Primera mención: peregrinaciones, cosecha y primeros frutos.                                 |
+| #shemot_23_14, 16    | שלש רגלים תחג לי בשנה · וחג הקציר בכורי מעשיך אשר תזרע בשדה                                                              | Primera mención: peregrinaciones, cosecha y primeros frutos.                                 |
 | #shemot_23_19        | ראשית בכורי אדמתך תביא בית יהוה אלהיך                                                                                    | Lo primero y mejor pertenece a la casa de יהוה; no autoriza imponer el primer salario.       |
-| #vaikra_23_10-11     | כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן / והניף את העמר לפני יהוה לרצנכם      | El עמר inaugura la cosecha delante de יהוה.                                                  |
-| #vaikra_23_15-17     | וספרתם לכם ממחרת השבת... שבע שבתות תמימת תהיינה / עד ממחרת השבת השביעת תספרו חמשים יום... לחם תנופה שתים... בכורים ליהוה | El conteo conduce a una ofrenda nueva de dos panes, llamados primicias.                      |
-| #vaikra_23_21-22     | וקראתם בעצם היום הזה מקרא קדש יהיה לכם... / ובקצרכם את קציר ארצכם לא תכלה... לעני ולגר תעזב אתם                          | La cita es convocación santa y la cosecha conserva un derecho para el pobre y el extranjero. |
-| #devarim_16_9-12     | שבעה שבעת תספר לך... / ושמחת לפני יהוה אלהיך... / וזכרת כי עבד היית במצרים                                               | Conteo, alegría, inclusión y memoria de la esclavitud.                                       |
-| #devarim_26_2, 5, 10 | ולקחת מראשית כל פרי האדמה... / ארמי אבד אבי... / הנה הבאתי את ראשית פרי האדמה                                            | La primicia se presenta con una confesión histórica, no como fórmula de prosperidad.         |
+| #vaikra_23_10-11     | כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן · והניף את העמר לפני יהוה לרצנכם      | El עמר inaugura la cosecha delante de יהוה.                                                  |
+| #vaikra_23_15-17     | וספרתם לכם ממחרת השבת... שבע שבתות תמימת תהיינה · עד ממחרת השבת השביעת תספרו חמשים יום... לחם תנופה שתים... בכורים ליהוה | El conteo conduce a una ofrenda nueva de dos panes, llamados primicias.                      |
+| #vaikra_23_21-22     | וקראתם בעצם היום הזה מקרא קדש יהיה לכם... · ובקצרכם את קציר ארצכם לא תכלה... לעני ולגר תעזב אתם                          | La cita es convocación santa y la cosecha conserva un derecho para el pobre y el extranjero. |
+| #devarim_16_9-12     | שבעה שבעת תספר לך... · ושמחת לפני יהוה אלהיך... · וזכרת כי עבד היית במצרים                                               | Conteo, alegría, inclusión y memoria de la esclavitud.                                       |
+| #devarim_26_2, 5, 10 | ולקחת מראשית כל פרי האדמה... · ארמי אבד אבי... · הנה הבאתי את ראשית פרי האדמה                                            | La primicia se presenta con una confesión histórica, no como fórmula de prosperidad.         |
 
 ## De la primera mención a la fiesta de la cosecha
 
