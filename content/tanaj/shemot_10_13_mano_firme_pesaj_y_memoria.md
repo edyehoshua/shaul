@@ -29,6 +29,7 @@ sources:
   - "docs/scriptures/oe/json/exodus/12.json"
   - "docs/scriptures/oe/json/exodus/13.json"
   - "docs/scriptures/tth/json/shemot.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:YVyesqxbVJg"
 ---
@@ -126,6 +127,14 @@ Los egipcios «apremiaron» al pueblo para echarlo de la tierra (12:33). **(גר
 En 13:11–16, la consagración del primogénito interpreta la salida como pertenencia y rescate. **(פדה)**, _padah_, significa rescatar o redimir; aquí su sentido contextual es el rescate ritual del primogénito humano, no todavía una definición completa de «redención espiritual». «Redimir» es una equivalencia tradicional y aproximada; el pasaje la concreta mediante la sustitución y la explicación al hijo. Cuando el hijo pregunta «¿qué es esto?», la respuesta vuelve a la acción de יהוה: «con fuerte mano nos sacó de Mitzráim». **(זכרון)**, _zikkaron_, significa memorial o recuerdo que hace presente una acción; en 12:14 y 13:9 su fuerza incluye celebración, palabra y práctica visible. La clase conserva bien la primera persona de la confesión, siempre que se reconozca como participación litúrgica en la memoria de Israel, no como afirmación de que cada oyente vivió personalmente el éxodo.
 
 La señal «en tu mano» y el memorial «entre tus ojos» desembocan en que la Torah de יהוה esté en la boca (13:9). El orden textual impide tratar la señal como amuleto aislado: la mano, los ojos y la boca forman una memoria obediente que debe responder cuando la siguiente generación pregunte. Esta lectura conserva la observación de Eric y la somete al pasaje: la memoria no es nostalgia privada, sino una práctica que enseña quién sacó al pueblo y por qué el primogénito es redimido.
+
+## Pésaj recibido con fe y obediencia — conexión con Ivrim 11
+
+Delitzsch relee esta unidad en Ivrim 11:28–29. En el v. 28 escribe: **בָּאֱמוּנָה עָשָׂה אֶת־הַפֶּסַח וּנְתִינַת הַדָּם לְמַעַן אֲשֶׁר לׂא־יִגַּע הַמַּשְׁחִית בִּבְכוֹרֵיהֶם**, «por fe hizo el Pésaj y la puesta de la sangre, para que el destructor no tocara a sus primogénitos»; y el v. 29 añade que «por fe atravesaron el Mar de Suf en seco». La conexión es canónica y aproximada: Ivrim interpreta la acción como fe, pero no elimina las instrucciones concretas de Shemot 12 ni convierte la sangre en poder autónomo.
+
+**(אמונה)**, _emunah_, significa firmeza, fidelidad o fe; en **באמונה**, _beemunah_, su fuerza contextual describe una confianza que actúa haciendo el Pésaj. «Opinión interior» sería inexacto. **(נתינה)**, _netinah_, significa dar, poner o entrega; en **ונתינת הדם**, _unetinat haddam_, nombra la colocación de la sangre tal como el mandamiento la ordena. **(משחית)**, _mashjit_, es destructor o agente que destruye; aquí designa al que no toca las casas señaladas, no una definición completa de toda figura del juicio.
+
+El v. 29 de Ivrim también protege la secuencia narrativa: atravesar el mar no es la misma acción que preparar la comida, aunque ambas pertenecen a la salida y son leídas bajo la fe. De modo semejante, Eric puede hablar de una mano firme que conduce hasta la libertad, pero la nota debe conservar el orden de Shemot: יהוה anuncia, Israel prepara, el juicio pasa, Faraón expulsa y el pueblo sale. La equivalencia «fe = obediencia» es pedagógica y útil, no una definición léxica de **(אמונה)**; el texto la muestra por la acción.
 
 ## Conclusión
 

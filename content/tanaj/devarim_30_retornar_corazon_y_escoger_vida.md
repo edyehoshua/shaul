@@ -16,6 +16,7 @@ sources:
   - "https://www.youtube.com/watch?v=st3eM0SNXRM"
   - "docs/scriptures/oe/json/deuteronomy/30.json"
   - "docs/scriptures/tth/json/devarim.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:st3eM0SNXRM"
 translation: "[OE, TTH]"
@@ -126,6 +127,14 @@ La cercanía de la palabra tampoco significa que el lector sea su dueño. El OE 
 La clase puede usar este pasaje contra un elitismo que envía al pueblo a buscar la palabra en un cielo o mar inaccesibles. La objeción textual es directa: Mosheh pregunta quién subirá o cruzará para traerla, y responde que ya está cerca. Sin embargo, «cerca» no equivale a «fácil de reinterpretar»; la palabra cercana es **המצוה הזאת**, _hamitsvah hazo't_, «este mandamiento». **(מצוה)**, _mitsvah_, significa mandamiento, encargo u orden; aquí su fuerza es la instrucción concreta que Mosheh manda hoy. «Principio general» es pedagógico y demasiado amplio si borra el referente.
 
 El cierre convierte la alternativa en una relación completa: **לאהבה את יהוה אלהיך לשמע בקלו ולדבקה בו כי הוא חייך**, «amar a יהוה tu Elohim, escuchar su voz y aferrarte a él, porque él es tu vida» (#devarim_30_20). **(דבק)**, _davaq_, significa pegarse, adherirse o aferrarse; en **ולדבקה**, _uledevqah_, expresa lealtad perseverante, no una sensación mística aislada. El verbo **(בחר)**, _bajar_, significa escoger o elegir; en **ובחרת**, _uvajarta_, es una exhortación directa. Eric puede leer «escoge la vida» como llamada espiritual, pero el texto define esa vida por amor, escucha, adhesión, permanencia y continuidad de la simiente.
+
+## La palabra escrita en el interior, sin borrar la voz — conexión con Ivrim 10
+
+La nota puede poner en diálogo Devarim 30 con la cita de Delitzsch en Ivrim 10:16: **זׂאת הַבְּרִית אֲשֶׁר אֶכְרׂת אִתָּם אַחֲרֵי הַיָּמִים הָהֵם אָמַר יְהוָֹה נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתֳבֶנָּה׃**, «Este es el pacto que haré con ellos después de aquellos días, dice יהוה: pondré mi Torah dentro de ellos y sobre su corazón la escribiré». La conexión es canónica y aproximada: ambos pasajes hablan de la palabra y del corazón, pero Devarim 30 enfatiza que el mandamiento ya está cerca «para hacerla», mientras Ivrim cita una promesa de escritura interior.
+
+**(תורה)**, _torah_, significa instrucción, enseñanza o Torah; en Delitzsch su fuerza es la instrucción de יהוה inscrita en el interior, y no una vaga intuición. **(קרב)**, _qerev_, significa interior, medio o entraña; **בקרבם**, _beqirbam_, hace explícita la ubicación interior de la Torah. «Conciencia» es una equivalencia pedagógica, no exacta. **(כתב)**, _katav_, significa escribir; en **אכתבנה**, _ekhtovennah_, la imagen es de una inscripción estable que orienta al pueblo.
+
+La conexión no autoriza a reemplazar el imperativo de Devarim 30:19–20 por una pasividad religiosa. La palabra cercana está en la boca y el corazón **para hacerla**; la promesa de escritura interior explica la profundidad de la obediencia, pero no cambia el objeto del mandato. Eric acierta al resistir la idea de una palabra reservada a especialistas, y el cotejo evita dos excesos: ni la cercanía permite inventar el contenido, ni el corazón circuncidado convierte la elección en una ficción.
 
 ## Conclusión
 
