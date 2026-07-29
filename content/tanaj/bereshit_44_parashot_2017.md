@@ -200,6 +200,16 @@ Cuando el dinero se acaba, Iosef dice **הבו מקניכם** («den su ganado»
 
 Así, cada perícopa aporta un límite a la siguiente. Yehudá no es salvador por acercarse: su **תחת**, _tajat_, queda probado por el costo que acepta. Iosef no es juez divino: **התחת אלהים אני** («¿estoy yo en lugar de Elohim?») limita su poder y fundamenta su renuncia a la venganza. Yaakov no convierte la muerte en derrota: **פקד יפקד אלהים אתכם** («Elohim, visitando, los visitará») orienta la familia hacia la promesa. Las observaciones de Eric sobre hablar y hacer conforme a la voluntad divina reciben apoyo cuando se siguen estas formas en su orden, no cuando se desprenden de sus escenas.
 
+## La promesa se transmite mediante palabra, juramento y cuerpo
+
+El cierre de la exposición de Eric insiste en que la voluntad divina no se demuestra con una afirmación aislada, sino haciendo lo que se ha recibido. La secuencia final del libro permite evaluar esa observación con tres actos concretos. Yaakov pide: **ועשית עמדי חסד ואמת** («harás conmigo bondad y verdad», #bereshit_47_29); Iosef responde: **אנכי אעשה כדברך** («yo haré conforme a tu palabra», #bereshit_47_30); y, al final, Iosef pide que sus huesos sean llevados cuando Elohim visite a Israel. **(עשה)**, _asah_, significa hacer o realizar; aquí su fuerza contextual es cumplir un encargo verificable. «Obediencia espiritual» es una equivalencia pedagógica, no el sentido aislado de la forma.
+
+**(חסד)**, _chesed_, significa bondad, lealtad o benevolencia; en 47:29 su fuerza es la fidelidad que Yaakov solicita dentro de una relación familiar y jurada. **(אמת)**, _emet_, significa firmeza, verdad o confiabilidad; junto con _chesed_ comunica una acción fiable, no una emoción general. La traducción «misericordia» es aproximada y puede ser demasiado estrecha. Eric acierta al ligar palabra y acción, pero el texto inmediato habla de sepultura y promesa familiar; extenderlo a toda decisión comunitaria es una aplicación, no una traducción.
+
+La respuesta se vuelve juramento: **וישבע לו** («y le juró», #bereshit_47_31). **(שבע)**, _shava_, significa jurar o comprometerse mediante un juramento; su fuerza contextual es hacer pública y obligatoria la promesa de Iosef. «Profetizar» sería una equivalencia inexacta. Cuando 50:24 repite **פקד יפקד**, _paqad yifqod_, la forma normal de **(פקד)**, _paqad_, es visitar, atender o intervenir; el infinitivo absoluto intensifica la certeza de la visita anunciada. «Recordar» puede ser una aproximación pastoral, pero no debe borrar la intervención futura que la narración afirma.
+
+El gesto de los huesos completa la enseñanza con una señal corporal: **והעלתם את עצמי מזה** («y harán subir mis huesos de aquí», #bereshit_50_25). **(עצם)**, _etsem_, significa hueso o estructura corporal; en plural con primera persona posesiva designa literalmente los restos de Iosef. «Identidad espiritual» es una ampliación pedagógica, no la equivalencia normal. El cumplimiento posterior en Yehoshúa 24:32 confirma que la esperanza de Bereshit no era solo una metáfora interior. Así, la observación de Eric queda mejor calibrada: actuar según la palabra incluye obediencia presente y espera histórica, mientras la providencia de Elohim no elimina la responsabilidad ni convierte el mal de los hermanos en bien moral.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
