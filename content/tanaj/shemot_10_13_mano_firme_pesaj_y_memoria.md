@@ -109,6 +109,16 @@ La «señal en tu mano» y el «memorial entre tus ojos» (13:9, 16) se explican
 
 ## Conexiones principales
 
+## La mano firme no borra la responsabilidad de escuchar
+
+La repetición de «mano fuerte» debe leerse junto con los verbos que la rodean. En Shemot 10:1–2 el OE dice: «porque Yo he hecho pesado su corazón y el corazón de sus siervos, para poner estas mis señales en medio de él, y para que cuentes en los oídos de tu hijo y del hijo de tu hijo lo que hice en Mitzráim». TTH conserva el propósito de contar las señales para que sepan que יהוה es él. **(ספר)**, _saper_, significa contar, relatar o enumerar; su forma en «para que cuentes» hace de la memoria una acción verbal dirigida a la siguiente generación. «Inspirar» sería una equivalencia pedagógica posible para el efecto formativo, pero no el sentido normal del verbo.
+
+Eric relaciona la dureza de Faraón con la mano firme de יהוה. El texto permite esa lectura temática, pero distingue **הכבדתי**, _hikhbadti_, «hice pesado», de **ויחזק**, _vayjezeq_, «se hizo fuerte» (10:20), y de **הקשה**, _hiqshah_, «hizo duro» (13:15). **(כבד)**, _kaved_, significa ser pesado o tener peso; en 10:1 presenta el corazón bajo la imagen del peso que hace visibles las señales. **(חזק)**, _jazaq_, significa ser fuerte o afirmarse; en 10:20 describe la acción narrada sobre el corazón de Faraón. **(קשה)**, _qashah_, significa ser duro, severo o difícil; en 13:15 califica la resistencia de Faraón a enviar al pueblo. «Endurecer» es una equivalencia aproximada que comunica el resultado, pero no autoriza a convertir las tres formas en una sola palabra hebrea.
+
+La secuencia también preserva la agencia de Israel. Pésaj no se recibe como una abstracción: «lo comeréis ceñidos» y «es Pésaj para יהוה» (Shemot 12:11); después, «será para ustedes por memorial» (12:14). **(אכל)**, _akhal_, significa comer; en 12:11 su fuerza contextual es participar obedientemente en la comida señalada antes de la salida. **(זכר)**, _zakhar_, significa recordar o hacer memoria; en 12:14 convierte la intervención de יהוה en una práctica pública repetida. El OE y TTH convergen en «memorial», mientras «recordar mentalmente» sería demasiado estrecho. La observación de Eric sobre una salida que exige decisión queda apoyada por estos imperativos, pero la mano firme de יהוה no vuelve innecesaria la respuesta concreta de la casa.
+
+La relectura de Delitzsch en Ivrim 11:28 confirma este vínculo sin reemplazarlo: **בָּאֱמוּנָה עָשָׂה אֶת־הַפֶּסַח וּנְתִינַת הַדָּם**, «por fe hizo el Pésaj y la puesta de la sangre». Es una conexión canónica **aproximada**: **(עשה)**, _asah_, significa hacer o realizar, y allí describe una obediencia que actúa; no redefine **זכרון** ni convierte la sangre en un poder autónomo. La enseñanza pública se evalúa mejor así: יהוה sostiene la salida, la familia escucha y obedece, y la comunidad cuenta después lo que יהוה hizo.
+
 - #shemot_12_1 — La institución de Pésaj se enlaza con el memorial de 12:14 y la pregunta del hijo en 13:14.
 - #shemot_13_17 — La salida de 13:17 continúa con el camino que יהוה escoge para el pueblo; la presente nota termina en la instrucción de memoria de 13:16.
 - #vaikra_23_4 — Las convocaciones de יהוה pueden estudiarse junto con la relación entre tiempo señalado, memoria y celebración.
