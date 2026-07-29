@@ -484,6 +484,14 @@ La cadena de #romanos_10_14-17 conserva iniciativa y responsabilidad. **(ἀκο
 
 La comparación entre **(ῥῆμα)**, _rhēma_, «palabra, declaración o mensaje pronunciado», y **דָּבָר**, _davar_, «palabra, asunto o declaración», es **aproximada y pedagógica**, no una equivalencia etimológica. Igualmente, relacionar **(καλέω)**, _kaleō_, «llamar, convocar o nombrar», con **(ἐπικαλέω)** no produce una identidad gramatical: uno ilumina canónicamente el llamamiento y el otro nombra la invocación. Así se conserva el aporte público de Eric sin fabricar una certeza filológica: el capítulo mantiene juntos iniciativa, anuncio, escucha, confesión, obediencia y resistencia.
 
+## Reparación desarrollada: invocación, llamamiento y palabra recibida
+
+La sesión pública `youtube:ililQLS9UJE`, aproximadamente entre 00:01:50 y 00:02:20, pregunta quiénes son «los que invocan» y relaciona el verbo de invocar con la acción de llamar en hebreo. Más adelante, aproximadamente entre 00:20:08 y 00:24:58, Eric vincula la fidelidad con la palabra de Elohim y distingue la recepción del mensaje de un sonido vacío. Estas observaciones se conservan como paráfrasis atribuibles, con URL pública y marcas de tiempo, no como citas literales.
+
+Romanos 10:12-13 confirma que el mismo Señor es rico para judío y griego y que todo el que invoque su nombre será salvo. **(ἐπικαλέω)**, _epikaleō_, significa invocar, apelar o llamar sobre alguien; en esta perícopa su fuerza contextual es la respuesta dirigida al Señor. **(קרא)**, _qara_, significa llamar, proclamar o invocar según su construcción; en Joel 2:32 la cláusula final tiene a יהוה como sujeto de «llama» al remanente. La correspondencia entre ambos verbos es **aproximada y pedagógica**, no una identidad gramatical o etimológica. La observación de Eric recibe apoyo cualificado: la iniciativa divina puede iluminar quiénes invocan, pero no elimina la acción que Pablo atribuye al invocador.
+
+En Romanos 10:16-17, **(ἀκοή)**, _akoē_, significa oído, escucha o noticia recibida; su fuerza contextual supera la recepción acústica porque el capítulo distingue oír de obedecer la buena noticia. **(ῥῆμα)**, _rhēma_, significa palabra, declaración o mensaje pronunciado; su relación con **דָּבָר**, _davar_, «palabra, asunto o declaración», es **aproximada y pedagógica**, no una equivalencia etimológica. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 muestra que no todos obedecieron. Por tanto, «la fidelidad por la palabra» no es sonido mágico: el envío hace posible la escucha, la escucha enfrenta una respuesta y el cierre conserva la resistencia de Israel.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

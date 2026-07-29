@@ -158,6 +158,14 @@ Galatim 1 aporta la prueba de dirección. **(μετατίθημι)**, _metatith�
 
 Por tanto, la aportación atribuible de Eric recibe **apoyo textual cualificado**. Una práctica no fabrica la promesa ni puede convertirse en puerta de entrada a la salvación; tampoco debe llamarse irrelevante toda obediencia posterior. La distinción entre **(אוֹת)**, _ot_, y **(בְּרִית)**, _berit_, es **aproximada y pedagógica** cuando se usa para iluminar la controversia, no una fórmula que resuelva por sí sola la relación entre pacto, señal y vida comunitaria. La gracia que llama produce discernimiento: la comunidad debe probar el anuncio conforme al evangelio apostólico y no convertir ni el rito ni la independencia personal en mérito.
 
+## Reparación desarrollada: promesa anterior al requisito
+
+La sesión pública de Eric de Jesús Rodríguez Mendoza en `youtube:4R5-ywKdnYw`, aproximadamente entre 00:01:49 y 00:03:31, parte de Hechos 15:1 y observa que presentar la circuncisión como requisito para recibir las promesas trastornaría la senda de salvación anunciada desde Génesis. La exposición usa a Abraham como prueba: las promesas fueron dadas antes de la circuncisión, por lo que no se debe imponer a las naciones un prerrequisito que Abraham no tuvo. Esta paráfrasis conserva una observación localizada de Eric sin presentarla como cita literal.
+
+El control canónico debe mantener cada texto en su lugar. Hechos 15:1 emplea **(ἔθος)**, _ethos_, «costumbre, práctica habitual o uso»; su fuerza contextual describe la práctica que algunos querían imponer junto con Mosheh. «Rito» es **aproximado**, mientras «mandamiento» no es la glosa ordinaria del sustantivo y sería **inferencial**. Romanos 4:9-12 respalda directamente el orden de la promesa y la justicia de Abraham antes de la circuncisión, pero Galatim 1:6-9 conserva el diagnóstico inmediato: el problema es trasladarse hacia otro evangelio.
+
+En Génesis 17:11, **(אוֹת)**, _ot_, significa señal, marca o signo; su fuerza contextual es la señal visible del pacto. **(בְּרִית)**, _berit_, significa pacto o alianza; su fuerza es la relación prometida por Elohim, no el rito mismo. «Señal» y «pacto» son glosas **directas** en sus contextos; confundirlas sería **ilegítimo**. La relación entre ambos es textual, mientras concluir que toda obediencia posterior es irrelevante sería **inferencial**. La enseñanza atribuible recibe así apoyo textual cualificado: la señal no fabrica la promesa, y la gracia que llama no autoriza un evangelio distinto ni una obediencia convertida en mérito autónomo.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el itinerario, las ciudades de Galacia y la fecha relativa de la carta con bibliografía histórica y con Hechos 13–14, sin asumir que toda propuesta geográfica es indiscutida.
