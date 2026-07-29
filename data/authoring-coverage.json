@@ -4,12 +4,7 @@
   "pending_videos": 31,
   "transcript_notes": 480,
   "notes_missing_visible_credits": [],
-  "duplicate_source_ids": {
-    "gK3V7SYBI_U": [
-      "content/besorah/yojanan_10_pastor_vida_obras.md",
-      "content/besorah/yojanan_9_10_ceguera_puerta_ovejas.md"
-    ]
-  },
+  "duplicate_source_ids": {},
   "playlists": {
     "1 Tesalonicenses completo": {
       "total": 14,
