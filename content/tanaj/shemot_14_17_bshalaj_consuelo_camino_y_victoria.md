@@ -169,6 +169,14 @@ La misma cautela aplica a **(ירא)**, _yare_, «temer» o «reverenciar». En 
 
 Bshalaj no presenta una libertad frágil abandonada a sus propios recursos. יהוה guía por el desierto, abre el mar, recibe el canto, da pan, hace brotar agua y sostiene la lucha contra Amalec. Pero la misma secuencia muestra que el consuelo se aprende: Israel debe dejar de interpretar cada amenaza como una invitación a volver, caminar cuando se le ordena, recibir el pan diario y permitir que la comunidad sostenga las manos cansadas. La salida se vuelve vida sólo cuando la memoria de יהוה gobierna el camino.
 
+## Consuelo que se vuelve obediencia: del mar al pan diario
+
+La enseñanza de Eric sobre un pueblo que necesita consuelo gana una forma más precisa cuando se observa el cambio de verbos entre el mar y el maná. En el mar Moshéh oye **אל תיראו התיצבו וראו את ישועת יהוה**, «no teman; estén firmes y vean la salvación de יהוה» (#shemot_14_13), pero enseguida יהוה manda: **דבר אל בני ישראל ויסעו**, «habla a los hijos de Israel y que avancen» (#shemot_14_15). **(נסע)**, _nasa_, significa partir, levantar el campamento o avanzar; en esta forma su fuerza contextual es salir del punto de miedo bajo una orden concreta. «Dar el salto de fe» es una equivalencia **pedagógica**, no exacta: el texto habla de movimiento de un campamento guiado.
+
+El maná continúa esa pedagogía sin repetir el milagro del mar. OE dice **הנני ממטיר לכם לחם מן השמים למען אנסנו הילך בתורתי אם לא**, «he aquí que haré llover para ustedes pan del cielo para probarlo, si caminará en mi Torah o no» (#shemot_16_4); TTH conserva que la provisión prueba si el pueblo caminará en la Torah. **(תורה)**, _torah_, significa instrucción, enseñanza o dirección; aquí su fuerza contextual es la palabra que regula la recolección, el sexto día y el reposo. «Regla religiosa» es una equivalencia **aproximada** y demasiado estrecha si borra la relación diaria de dependencia. Eric acierta al conectar consuelo y formación: el pan no solo calma el hambre, sino que enseña a recibir.
+
+Delitzsch lee el cruce desde esa misma relación entre confianza y acción: **בָּאֱמוּנָה עָבְרוּ אֶת־יַם־סוּף בַּיַּבָּשָׁה**, «por fe atravesaron el mar de Suf en seco» (Ivrim 11:29). El pasaje apostólico es una lectura canónica posterior, no una sustitución de Shemot 14. **(עבר)**, _avar_, significa pasar o atravesar; en **עָבְרוּ**, _avru_, la forma plural presenta el cruce realizado por la comunidad. «Confianza interior» sería inexacta si elimina el cruce corporal. La observación de Eric queda así evaluada con equilibrio: el consuelo de יהוה no termina en alivio, sino que sostiene una obediencia visible, compartida y ordenada por su palabra.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

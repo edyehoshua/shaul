@@ -175,6 +175,16 @@ La memoria vuelve a ser parte de la obediencia. **(זכר)**, _zakhar_, signific
 
 Va'etchanán no enseña una gracia que elimina toda negativa ni una obediencia que compra el pacto. Moisés suplica, recibe un límite, ve, encarga y sigue enseñando. Israel vive al adherirse a יהוה, recibe estatutos y juicios, rechaza imágenes, escucha el Shema, ama y transmite. Devarim 7 cierra el movimiento: la elección nace del amor y del juramento de יהוה, y por eso la respuesta correcta es guardar. Eric acierta al mantener unidas gracia, pacto y práctica; el texto local impide que cualquiera de las tres sea aislada.
 
+## Reparación focal: la elección recibida se vuelve memoria obediente — Devarim 7:6-11
+
+El cierre de la perícopa debe conservar el orden que Eric subraya: la elección no nace del tamaño de Israel ni de una superioridad previa, pero tampoco queda separada de guardar el mandamiento. OE dice **כי עם קדוש אתה ליהוה אלהיך בך בחר יהוה אלהיך להיות לו לעם סגלה מכל העמים אשר על פני האדמה**, «porque pueblo santo eres para יהוה tu Elohim; en ti escogió יהוה ... para serle pueblo especial». **(קדוש)**, _qadosh_, significa santo, consagrado o apartado; aquí su fuerza contextual es una identidad pactual recibida, mientras «élite espiritual» sería una equivalencia **pedagógica e inexacta**. **(בחר)**, _bajar_, significa escoger o elegir; la forma atribuye la iniciativa a יהוה, no al mérito numérico del pueblo.
+
+El v. 7 limita expresamente la lectura de superioridad: Israel era el menor de todos los pueblos. **(מעט)**, _meat_, significa poco, pequeño o escaso; su fuerza contextual contradice una elección basada en poder cuantitativo. Eric acierta al presentar el amor de יהוה como fundamento de la elección, pero «amor» no debe convertirse en una emoción humana sin pacto. El v. 8 lo vincula con **(שבועה)**, _shevuah_, juramento, y con el recuerdo de que יהוה sacó a Israel de la casa de esclavos. «Gracia» es una síntesis **teológica y aproximada**; la afirmación textual concreta es amor, juramento, redención y fidelidad a los padres.
+
+La respuesta aparece en 7:9-11. **(שמר)**, _shamar_, significa guardar, custodiar u observar; en «guarda los mandamientos» su fuerza contextual es perseverar en la práctica recibida. **(מצוה)**, _mitsvah_, significa mandamiento, encargo u orden; aquí nombra una instrucción pactual concreta, no una energía interior. «Obediencia como pago» sería una equivalencia **inexacta**: el texto coloca el guardar después del amor y del juramento, como respuesta a la fidelidad, no como precio que compra la elección. Eric conserva bien la dirección de la clase cuando une gracia y procedimiento; Devarim limita esa unión a la forma escrita del pacto.
+
+Este cierre también corrige la conexión con la esperanza posterior. La lectura mesiánica puede reconocer en el amor fiel de יהוה un horizonte canónico, pero no debe borrar que Devarim habla de un pueblo histórico, sus padres, su salida de Mitsráyim y sus mandamientos. La elección que el texto proclama no autoriza orgullo contra las naciones ni desprecio de la Torah. En la secuencia completa de Va'etchanán, súplica, límite, escucha, memoria, amor y elección desembocan en una vida que guarda lo recibido.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

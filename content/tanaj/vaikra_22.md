@@ -20,6 +20,7 @@ sources:
   - "https://www.youtube.com/watch?v=72RM95hoEPY"
   - "docs/scriptures/oe/json/leviticus/22.json"
   - "docs/scriptures/tth/json/vaikra.json"
+  - "docs/scriptures/delitzsch/json/peter1.json"
 source_ids:
   - "youtube:72RM95hoEPY"
 translation: "[OE, TTH]"
@@ -155,6 +156,14 @@ Los versículos 26–30 muestran que la santidad incluye tiempo, relación y mes
 - [ ] Cotejar estudios léxicos trazables sobre **(חלל)** y **(קדש)** para describir sus rangos semánticos sin depender de imágenes etimológicas.
 - [ ] Examinar por separado la relación tipológica entre las víctimas **(תמים)**, las afirmaciones apostólicas sobre Yehoshua y la regulación inmediata de Vaikra 22.
 - [ ] Documentar con fuentes históricas los desarrollos posteriores sobre porciones sacerdotales; esta nota se limita al texto de la Torah.
+
+## Del santuario cultual a una vocación pública
+
+El cierre de Vaikra 22 no permite que la aplicación de Eric convierta toda santidad en una metáfora sin procedimiento. OE dice **ולא תחללו את שם קדשי ונקדשתי בתוך בני ישראל אני יהוה מקדשכם**, «no profanarán el nombre de mi Santidad y seré santificado en medio de los hijos de Israel; Yo soy יהוה que los santifico» (#vaikra_22_32). **(מקדשכם)**, _meqaddeshekem_, es una forma verbal de קדש, «santificar o consagrar», con sufijo «a ustedes»; su fuerza contextual atribuye la santificación a יהוה, mientras la obediencia de Israel evita la profanación.
+
+El Delitzsch local de Kefa alef 2:9 dice **וְאַתֶּם הִנְּכֶם זֶרַע נִבְחָר מַמְלֶכֶת כֹּהֲנִים וְגוֹי קָדוֹשׁ וְעַם סְגֻלָּה לְמַעַן תְּסַפְּרוּ תְּהִלּוֹת הַקּוֹרֵא אֶתְכֶם מֵחֹשֶׁךְ אֶל־אוֹרוֹ הַנִּפְלָא**, «ustedes son linaje elegido, reino de sacerdotes, nación santa y pueblo de posesión, para anunciar las alabanzas de quien los llamó de las tinieblas a su luz admirable». La conexión con Vaikra es **canónica y pedagógica**: ambos textos hablan de una comunidad santa y de una vocación visible, pero **(תמים)**, _tamim_, sigue describiendo primero la integridad de una víctima en Vaikra 22, no la perfección moral de cada miembro de la comunidad.
+
+Por tanto, Eric acierta al llevar el nombre santificado hacia un testimonio público, pero el recorrido debe conservar el orden textual: apartarse de la impureza, restituir el uso inadvertido, acercar una víctima íntegra, respetar tiempo y consumo, y guardar los mandamientos del Dios que sacó a Israel de Egipto.
 
 ## Conclusión
 

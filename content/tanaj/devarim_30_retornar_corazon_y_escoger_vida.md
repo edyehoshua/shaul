@@ -103,6 +103,14 @@ El contraste de 30:15 también debe conservar sus parejas: **החיים והטו
 
 La forma **העידתי**, _ha‘idoti_, de עוד, _‘ud_, significa «hice testificar» o «puse por testigos». El cielo y la tierra no son decoración poética: funcionan como testigos públicos de una alternativa anunciada. **למען תחיה**, _lema‘an tijyeh_, «para que vivas», expresa propósito; «vivir» es una equivalencia exacta en el verbo, mientras «prosperar sin excepción» sería una expansión no exigida. La simiente queda incluida en la promesa y en la responsabilidad: el v. 19 dice explícitamente «tú y tu simiente».
 
+## La simiente bendecida no es una lectura separada del pacto
+
+La pregunta de la clase —si la simiente bendecida debe entenderse en relación con el Mesías— conduce a una distinción necesaria. Eric afirma que la promesa anunciada por los profetas no acontece «si no es a través de la simiente»; esa es una afirmación cristológica real de la exposición, no una cita de Devarim 30. El capítulo sí habla de **זרע**, _zera_, «semilla, simiente o descendencia», en 30:6 y 30:19. Su forma nominal no identifica por sí sola a una persona individual; su fuerza contextual incluye la continuidad de Israel y de sus hijos dentro de la alianza. «Mesías» sería aquí una equivalencia **canónica y teológica**, no exacta del sustantivo.
+
+El argumento gana precisión al poner junto al v. 6 el cierre del v. 20: «porque él es tu vida y la largura de tus días». **(הוא)**, _hu_, es el pronombre «él»; **(חייך)**, _jaieja_, significa «tu vida», y **(לשמע)**, _lishmoa_, es el infinitivo de שמע, «escuchar». La frase no ofrece una fórmula para reclamar una identidad privilegiada: define la vida por amar, escuchar y aferrarse a יהוה, y confirma la promesa a Abraham, Itzjak y Yaakov. La lectura mesiánica puede dialogar con ese patrón canónico, pero no debe borrar que el sujeto explícito de la circuncisión del corazón es יהוה y que el pueblo sigue siendo llamado a responder.
+
+Así, «simiente que יהוה bendijo» conserva un centro textual si se entiende como descendencia restaurada por misericordia y orientada a la obediencia. La exposición acierta al rechazar una salvación producida por capacidad humana; necesita ser limitada cuando convierte una aplicación posterior en el significado único del capítulo. La equivalencia pedagógica «simiente = Mesías» puede servir para una lectura canónica, mientras que la equivalencia exacta de **זרע** en este contexto es «descendencia».
+
 ## Mapa de la enseñanza de Eric
 
 | Observación pública atribuida a Eric                                                     | Evaluación frente al texto                                                                                                               |

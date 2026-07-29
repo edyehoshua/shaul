@@ -42,6 +42,16 @@ Esta es la nota canónica para Vayikra 10–11; Vayikra 9 conserva su nota propi
 | #vaikra_10_16-20 | **וידבר אהרן ... הייטב בעיני יהוה**                            | «¿hubiera sido buena en los ojos de יהוה?»                                                     | La respuesta de Aharón interpreta su abstención en duelo.                         |
 | #vaikra_11_44-45 | **והתקדשתם והייתם קדשים כי קדוש אני**                          | «Conságrense y sean kedoshim, porque Kadosh soy Yo»                                            | La dieta se integra en la identidad del pueblo redimido.                          |
 
+## Hoja léxica: acercarse, distinguir y santificarse
+
+| Forma     | Transliteración | Sentido normal                         | Fuerza contextual                                                                                                      | Equivalencia en español                                                              |
+| --------- | --------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **(קרב)** | _qarav_         | acercarse, aproximarse o presentar     | En 10:1–3 nombra la aproximación cultual de Nadab y Avihu delante de יהוה; no prueba por sí solo una intención rebelde | «acercarse» es exacto; «usurpar» es una inferencia pedagógica                        |
+| **(זרה)** | _zarah_         | extraña, ajena o no autorizada         | En **אש זרה** queda definida por **אשר לא צוה אתם**: el fuego no correspondía a la orden recibida                      | «fuego extraño» es cercano; «fuego falso» es pedagógico                              |
+| **(בדל)** | _badal_         | separar o distinguir                   | En 10:10 organiza la tarea sacerdotal de reconocer santo y común, impuro y puro                                        | «discernir» es aproximado y útil; no equivale a juzgar el valor moral de una persona |
+| **(ירה)** | _yarah_         | enseñar, instruir o mostrar            | En 10:11 el sacerdote hace conocer los estatutos de יהוה a Israel                                                      | «predicar» es una ampliación pedagógica                                              |
+| **(קדש)** | _qadash_        | apartar, consagrar o tratar como santo | En 11:44–45 vincula la santidad del pueblo redimido con las distinciones concretas de la perícopa                      | «santificar» es cercano; «separarse del mundo» es solo una aplicación pedagógica     |
+
 ## Fuego no ordenado y santidad que escucha — Vayikra 10:1–7
 
 El episodio empieza con dos hijos de Aharón, cada uno con su incensario, fuego e incienso. **(ויקחו)**, _yiqju_, es una forma de לקח, _laqaj_: «tomar» o «llevar». Su sentido normal es exacto en «tomaron»; «se apropiaron» es una equivalencia contextual que expresa la iniciativa, no una traducción única. **(מחתה)**, _majtah_, es un brasero o recipiente para brasas; «incensario» es la equivalencia funcional. **(קטורת)**, _qetoret_, es incienso o mezcla aromática; «oración» puede ser una aplicación poética, pero no el sentido normal del sustantivo.

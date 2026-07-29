@@ -112,6 +112,14 @@ En Midyan, las hijas llaman a Mosheh **איש מצרי**, _ish mitsri_, «un hom
 
 El cierre conecta esa condición con el pacto, no con una contraseña étnica. **ברית**, _berit_, significa pacto o alianza; en 2:24 su fuerza contextual es la promesa hecha a los padres que mueve la atención divina. **נאק**, _na’aq_, significa gemido o quejido; TTH lo vierte como «gemido», mientras **זעק**, _za‘aq_, nombra el clamor. La progresión «gimieron… clamaron… escuchó… recordó… vio… conoció» conserva tanto el dolor real como la respuesta pactual de Elohim. «La oración activa a Dios» sería una formulación teológica demasiado mecánica: el texto atribuye la iniciativa de la liberación al pacto que Elohim recuerda.
 
+## Temor de Elohim y límites de la lectura espiritual — vv. 1–25
+
+La clase vuelve varias veces al «temor de Elohim» como criterio que libera de los parámetros de Faraón. En Shemot 2, esa observación debe conservar su enlace con 1:17–21: allí las parteras no obedecen la orden de matar y el narrador dice que **יראו את האלהים**, _yare'u et ha-Elohim_, «temieron a Elohim». En 2:2 la madre ve que el niño es **טוב**, _tov_, «bueno» o «favorable», y lo esconde; la forma normal del adjetivo no significa «ungido» ni garantiza por sí misma un destino mesiánico. La lectura espiritual de Eric es **pedagógica** cuando contrasta el temor al poder imperial con la reverencia a Elohim, pero el texto concreto muestra primero protección de una vida amenazada.
+
+La exposición también describe a Egipto como un lugar de estrechez y usa esa imagen para interpretar los parámetros que esclavizan. **(מצרים)**, _Mitsrayim_, es el gentilicio o nombre propio «Egipto»; su forma no autoriza una etimología hebrea exacta de «angustia». «Lugar estrecho» es una equivalencia **pedagógica e interpretativa**, no una traducción del nombre en 2:23. El capítulo sí ofrece hechos que justifican hablar de opresión: Israel **נאנחו**, _ne'enaju_, «gimió», y **ויזעקו**, _vayizaku_, «clamó». El discurso gana fuerza cuando esa aplicación no reemplaza el trabajo, la violencia y la huida narrados.
+
+Finalmente, el clamor no funciona como una técnica que obligue a Elohim. **(וישמע)**, _vayishma_, es la forma narrativa «y escuchó»; **(ויזכר)**, _vayizkor_, «y recordó»; **(וידע)**, _vayeda_, «y conoció». Su fuerza conjunta es atención pactual activa, no adquisición de información que faltara. TTH dice que Elohim recordó su pacto con Abraham, Itzjak y Yaakov. Eric acierta al ubicar la liberación en la iniciativa divina; la nota debe añadir que esa iniciativa no hace irrelevantes las acciones intermedias de las mujeres ni la ayuda de Moshe en el pozo.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual          | Observación concreta de la clase                                                                           | Tratamiento en la nota                                                           |

@@ -173,6 +173,26 @@ La equivalencia «La Roca» es, por tanto, **teológica y aproximada** cuando de
 
 Bamidbar 19–20 no opone purificación y provisión: ambas dependen de la palabra de יהוה. La muerte exige un tratamiento santo; la sed recibe agua; y aun así el liderazgo es juzgado por cómo representa al dador. «La Roca» es una lectura provechosa sólo si conserva esta tensión: יהוה permanece firme, provee a su pueblo y exige que su santidad no sea reemplazada por una acción humana, aunque produzca agua.
 
+## La custodia de la ceniza y la responsabilidad del contacto — Bamidbar 19:9-22
+
+La clase pública de Eric presenta la «segunda Mishméret» como una llamada a custodiar lo que יהוה entrega para la restauración de la congregación. El texto usa **למשמרת**, _lemishmeret_, «para custodia» o «para guardar», de la raíz **(שמר)**, _shamar_, guardar, custodiar u observar. Su fuerza contextual es una responsabilidad comunitaria concreta: la ceniza queda disponible para preparar las aguas y no se convierte en propiedad privada del sacerdote o del hombre que la recoge. «Administración espiritual» sería una equivalencia pedagógica; «para custodia de los hijos de Israel» es la formulación más exacta.
+
+El capítulo vuelve a definir el problema mediante contacto. **(נגע)**, _naga_, significa tocar, alcanzar o golpear; en 19:11 describe el contacto con un muerto. **(מת)**, _met_, significa muerto o cadáver; aquí no es una metáfora general de tristeza, sino la condición que produce impureza ritual durante siete días. Eric puede relacionar la muerte con la ruptura de la vida del campamento, pero «muerte espiritual» es una aplicación aproximada y no debe sustituir el referente corporal del versículo.
+
+La restauración se ejecuta en dos momentos: **והזה הטהר על הטמא ביום השלישי וביום השביעי**, «el puro rociará al impuro en el día tercero y en el día séptimo». **(טהור)**, _tahor_, significa puro o limpio; **(טמא)**, _tame_, significa impuro o contaminado. En este contexto ambos términos describen estados rituales dentro de un procedimiento; no equivalen automáticamente a justo e injusto. «Limpio de corazón» sería una aplicación pedagógica que necesita otros textos. La observación de Eric es fuerte cuando insiste en que la comunidad no puede negar la contaminación ni inventar un atajo: el capítulo especifica agente, agua, instrumento y días.
+
+El verbo **(חטא)**, _jata_, puede significar errar o, en la forma causativa de esta unidad, purificar mediante la acción prescrita. Su fuerza contextual debe establecerse por la forma verbal y por el objeto, no por una simple asociación castellana entre pecado y limpieza. «Expiar» puede ser una equivalencia canónica aproximada, pero no debe borrar que Bamidbar 19 ordena una acción de rociar. La ceniza y el agua no operan como amuletos; la restauración procede de la palabra recibida.
+
+## La Roca, la santidad y el mediador — Bamidbar 20:1-13
+
+La fuente `youtube:0a9JenvoNhM` enlaza la purificación con «La Roca» y con la prueba del liderazgo. Bamidbar 20 conserva ese enlace mediante una transición textual: Miriam muere, no hay agua para la congregación, יהוה ordena reunir al pueblo y hablar a la peña, y el agua sale. **(סלע)**, _sela_, significa peña o roca; en 20:8-11 designa un objeto concreto. «Roca de salvación» es una equivalencia teológica y pedagógica, no el sentido léxico exhaustivo de la forma.
+
+La orden dice **ודברתם אל הסלע לעיניהם**, «hablarán a la peña ante sus ojos». **(דבר)**, _davar_, significa hablar, palabra o asunto; aquí su fuerza verbal es dirigir una palabra obediente a la peña. **(עין)**, _ayin_, significa ojo o vista; en **לעיניהם**, _le'eneihem_, hace visible ante la congregación quién provee. Mosheh pregunta **המן הסלע הזה נוציא לכם מים**, «¿sacaremos agua de esta peña?». **(יצא)**, _yatsa_, significa salir o hacer salir; la primera persona plural puede sonar a apropiación, pero la evaluación explícita de 20:12 es no afirmarse en יהוה y no santificarlo ante Israel. Eric acierta al advertir sobre el mediador, siempre que la aplicación no convierta cada matiz de la pregunta en una acusación separada.
+
+El agua sale pese a la forma defectuosa del liderazgo. El resultado no convierte el golpe en obediencia, del mismo modo que la ceniza no se vuelve eficaz por una manipulación humana. **(קדש)**, _qadash_, significa apartar, santificar o tratar como santo; en **להקדישני**, _lehaqdisheni_, la fuerza es representar públicamente la santidad de יהוה ante la comunidad. «Hacer santo a Dios» es una equivalencia inexacta, porque la santidad divina no depende del mediador. La lectura de Eric se conserva mejor así: la provisión es real, pero el servidor debe presentar al dador según la palabra recibida.
+
+La sucesión de Aharón completa el límite del individuo. **(בגד)**, _beged_, significa vestido o prenda; en 20:26 las vestiduras pasan a Eleazar. «Transferencia de poder» es una paráfrasis pedagógica no demostrada por el sustantivo. La continuidad del servicio muestra que la santidad y la provisión pertenecen a יהוה, no a la personalidad de un ministro. Por eso el recorrido conjunto de 19–20 evalúa la exposición de Eric con equilibrio: muerte, sed y relevo exigen custodia, obediencia y humildad, pero no una técnica privada para controlar lo santo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

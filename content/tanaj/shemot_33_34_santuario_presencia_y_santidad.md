@@ -89,6 +89,17 @@ La nube desciende, יהוה proclama su Nombre y Moshéh se inclina (34:5–8). 
 | #shemot_34_6  | אל רחום וחנון ארך אפים ורב חסד ואמת | «El compasivo y clemente…»                         | Misericordia y fidelidad describen el Nombre. |
 | #shemot_34_21 | ששת ימים תעבד וביום השביעי תשבת     | «Seis días trabajarás… en el séptimo te detendrás» | _Shavat_ subraya cesar del trabajo.           |
 
+## Hoja léxica: presencia, pacto y descanso
+
+| Forma          | Transliteración | Sentido normal                                    | Fuerza contextual                                                                                                      | Equivalencia en español                                                   |
+| -------------- | --------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **(פנים)**     | _panim_         | rostro, cara o presencia                          | En «mi rostro irá contigo» comunica acompañamiento y favor personal de יהוה, no una cara que el pueblo pueda controlar | «presencia» es contextual y aproximada                                    |
+| **(כבוד)**     | _kavod_         | peso, honor o gloria                              | En 33:18–23 designa la manifestación que Moshéh pide ver, pero que sigue limitada para la criatura                     | «gloria» es la traducción tradicional; «visión plena» sería inexacta      |
+| **(חסד)**      | _jesed_         | bondad leal, fidelidad benevolente o misericordia | En 34:6 pertenece a la proclamación del carácter de יהוה junto con verdad y responsabilidad                            | «misericordia» es aproximada; no significa indulgencia sin pacto          |
+| **(כרת ברית)** | _karat berit_   | cortar o establecer un pacto                      | En 34:12–16 nombra una alianza pública que Israel no debe celebrar con los habitantes de la tierra                     | «hacer pacto» es equivalencia convencional y exacta en contexto           |
+| **(שבת)**      | _shavat_        | cesar, detenerse o descansar                      | En 34:21 regula el trabajo agrícola y hace corporal y comunitario el descanso del séptimo día                          | «guardar el Shabat» es una síntesis pedagógica; «cesar» conserva el verbo |
+| **(קנא)**      | _qaná_          | ser celoso o reclamar exclusividad                | En 34:14 expresa la lealtad exclusiva de יהוה y la incompatibilidad con otros elohim, no inseguridad humana            | «celoso» es normal y cercano; «posesivo» sería una deformación            |
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad                       | Observación disponible de la clase                                                                 | Tratamiento textual                                                                                                      |

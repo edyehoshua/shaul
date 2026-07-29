@@ -28,6 +28,7 @@ sources:
   - "https://www.youtube.com/watch?v=1Dqriiq9bIU"
   - "docs/scriptures/oe/json/leviticus/19.json"
   - "docs/scriptures/tth/json/vaikra.json"
+  - "docs/scriptures/delitzsch/json/peter1.json"
 source_ids:
   - "youtube:zjob2_-uFTs"
   - "youtube:1Dqriiq9bIU"
@@ -168,6 +169,14 @@ El v. 37 cierra con **(שמר)**, _shamar_, «guardar, observar o custodiar», j
 - [ ] Revisar estudios léxicos sobre **(קלל)**, **(חלל)** y **(קדש)** para afinar rangos semánticos más allá de las imágenes pedagógicas de la clase.
 - [ ] Evaluar con más detalle la vocalización y sintaxis de **(לרעך)** frente a las traducciones «a tu prójimo» y «por ser tú el compañero».
 - [ ] Separar con claridad el sentido cultual de **(מקדש)** en Vaikra y las relecturas de templo/pueblo en Kefa y Apocalipsis.
+
+## La santidad de la asamblea y la relectura apostólica
+
+La conexión de Eric entre el santuario y la comunidad debe conservar la diferencia entre una relectura y el referente inmediato de Vaikra. El OE dice **קדשים תהיו כי קדוש אני יהוה אלהיכם** (#vaikra_19_2): «santos serán, porque santo soy yo, יהוה su Elohim». El mandato se dirige a toda la congregación y luego se despliega en cosecha, juicio, palabra, salario y amor al compañero. **(עדה)**, _edah_, significa congregación o asamblea; aquí su fuerza contextual es un pueblo reunido bajo una orden común, no una metáfora del edificio.
+
+El Delitzsch local de Kefa alef 2:9 relee esa vocación así: **וְאַתֶּם הִנְּכֶם זֶרַע נִבְחָר מַמְלֶכֶת כֹּהֲנִים וְגוֹי קָדוֹשׁ וְעַם סְגֻלָּה לְמַעַן תְּסַפְּרוּ תְּהִלּוֹת הַקּוֹרֵא אֶתְכֶם מֵחֹשֶׁךְ אֶל־אוֹרוֹ הַנִּפְלָא**, «ustedes son linaje elegido, reino de sacerdotes, nación santa y pueblo de posesión, para anunciar las alabanzas de quien los llamó de las tinieblas a su luz admirable». **(γένος)**, _genos_, significa linaje o género, y **(ἔθνος)**, _ethnos_, nación o pueblo; en el texto de Delitzsch la equivalencia hebrea es canónica y aproximada, no una traducción de **(קדשים)** en Vaikra. La relectura apostólica amplía la vocación hacia el anuncio, pero no cancela la prueba ética del capítulo: el _ger_, el pobre, el compañero y la balanza.
+
+Así, la observación de Eric recibe una evaluación graduada. Es **exacto** que la santidad se dirige a la asamblea y que debe reconocerse en el trato; es **canónico y aproximado** enlazarla con «nación santa» en Kefa; y sería **inexacto** usar la relectura para convertir el santuario de Vaikra 19 en una idea sin campo, juicio ni medidas honestas.
 
 ## Conclusión
 

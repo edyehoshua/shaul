@@ -156,6 +156,14 @@ Después del agua, la nota debe conservar la tensión que Eric destaca entre pro
 
 La dependencia final queda visible en **ויסגר יהוה בעדו**, «y יהוה cerró por él» (#bereshit_7_16). **(סגר)**, _sagar_, significa cerrar, encerrar o bloquear; aquí el sujeto es יהוה, aunque Nóaj ha obedecido entrando. La lectura de Eric sobre una salvación recibida y no autogestionada es una síntesis canónica y pedagógica, no la traducción de _tevah_. El recorrido textual conserva ambas acciones: Nóaj hace «conforme a todo» lo mandado, y יהוה cierra la puerta. Así, gracia y obediencia no compiten: el favor precede, la obediencia responde y la protección final pertenece a יהוה.
 
+## La alianza anunciada antes del agua: palabra, preservación y límite
+
+La preservación no aparece como una intuición privada de Nóaj. Antes de describir el ingreso al arca, Elohim declara: **והקמתי את בריתי אתך**, _vehaqimoti et beriti itakh_, «estableceré mi pacto contigo» (#bereshit_6_18). **(קום)**, _qum_, significa levantarse, ponerse en pie o establecer; en **והקמתי**, _vehaqimoti_, su fuerza contextual es hacer firme una alianza que todavía será desarrollada después del diluvio. «Pacto ya consumado» sería inexacto: el anuncio precede a la ejecución y luego el arco de 9:9–16 amplía el alcance a toda carne. La observación de Eric sobre una salvación recibida queda mejor delimitada así: la iniciativa pactal es de Elohim, mientras la obediencia de Nóaj sigue siendo una respuesta real.
+
+El mismo anuncio usa **מבול מים**, _mabul mayim_, «diluvio de aguas», y contrasta «toda carne» que perecerá con la entrada de Nóaj, su casa y los vivientes (#bereshit_6_17–20). **(מבול)**, _mabul_, designa el diluvio como inundación judicial; «bautismo» no es su sentido léxico, sino una lectura canónica posterior cuando 1 Pedro 3:20–21 relaciona el agua con salvación y apelación de buena conciencia. Eric puede extraer de esa conexión una enseñanza sobre dependencia y conciencia, pero la secuencia de Bereshit debe permanecer primero: violencia, anuncio, arca, entrada y cierre.
+
+Después, el pacto no elimina la responsabilidad humana. La prohibición de derramar sangre en 9:6 se funda en que el hombre fue hecho **בצלם אלהים**, _betselem Elohim_, «a imagen de Elohim». **(צלם)**, _tselem_, significa imagen, figura o representación; aquí su fuerza contextual fundamenta el valor jurídico de la vida, no una descripción física de Dios. «Dignidad humana» es una equivalencia teológica útil y aproximada. Por eso la lectura de Eric sobre gracia no debe convertirse en impunidad: el texto preserva al mundo para que la vida bajo el pacto sea juzgada y protegida, aun cuando el _yétzer_ siga siendo malo desde la juventud.
+
 ## Ver también
 
 - [[bereshit_1]]

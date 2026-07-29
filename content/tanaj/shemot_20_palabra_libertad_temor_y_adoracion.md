@@ -25,6 +25,7 @@ sources:
   - "docs/scriptures/oe/json/exodus/20.json"
   - "docs/scriptures/oe/json/deuteronomy/5.json"
   - "docs/scriptures/tth/json/shemot.json"
+  - "docs/scriptures/delitzsch/json/1peter.json"
 source_ids:
   - "youtube:8cPipT6K-9Q"
 translation: "[OE, TTH]"
