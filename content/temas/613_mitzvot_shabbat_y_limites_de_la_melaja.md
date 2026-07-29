@@ -79,6 +79,16 @@ En 1 Corintios 5:1–5, Pablo responde a una relación sexual ilícita dentro de
 
 La conclusión de Eric sobre la desaparición del templo, el sacerdocio levítico y el Sanedrín requiere diferenciar hechos históricos de interpretación teológica. El texto de 1 Corintios sí muestra un tipo de disciplina comunitaria distinto de la ejecución. No demuestra por sí solo toda la historia institucional posterior ni permite afirmar que toda norma de Levítico quedó anulada.
 
+## Recorrido canónico y límites de la aplicación
+
+El orden de los textos impide fundir todas las afirmaciones de la clase en una sola regla. #exodus_12_15 trata la labor en los días de panes sin levadura y conserva la necesidad de comer; #exodus_20_8-11 ordena recordar y santificar el séptimo día, incluyendo el descanso de siervos, residentes y animales; y #exodus_31_14-15 expresa la gravedad de profanarlo dentro del pacto. **(מַעֲשֶׂה)**, _ma‘aseh_, significa obra, hecho o acción; su fuerza normal es amplia y **aproximada** para el argumento, por lo que no puede sustituir a **(מְלָאכָה)**, _melajá_, ni establecer por sí solo una lista de actividades prohibidas.
+
+La observación de Eric sobre la persona y el Shabat encuentra su prueba más cercana en #mark_2_27-28. **(γίνομαι)**, _ginomai_, significa llegar a ser, suceder o hacerse; en «el Shabat fue hecho» su fuerza contextual es la finalidad ordenada del día, una glosa **directa** en el marco de la frase. **(ἄνθρωπος)**, _anthrōpos_, significa ser humano o persona; su referencia es **directa** para el destinatario humano, pero no autoriza una oposición absoluta entre humanidad y mandamiento. Yehoshua interpreta el propósito del Shabat; no declara que toda restricción sea indiferente.
+
+Después, #leviticus_18_6-23 cambia de perícopa y de asunto: regula relaciones prohibidas, no la lista de labores del Shabat. La forma textual relevante es **(גָּלָה)**, _galá_, «descubrir, revelar o exponer»; su fuerza en «descubrir la desnudez» es **directa** para el eufemismo legal. Mantener esta precisión evita que la crítica de Eric a la fragmentación de mitzvot borre las fronteras literarias de Levítico.
+
+Por último, #first_corinthians_5_1-5 muestra una respuesta comunitaria apostólica ante un caso sexual grave. **(παραδίδωμι)**, _paradidōmi_, significa «entregar» o «poner en manos de»; su fuerza es **contextual**, porque la medida tiene finalidad correctiva y no transfiere a la comunidad actual la pena de Éxodo 31 ni una autoridad civil para ejecutar. Llamarla «disciplina» es una glosa **pedagógica** que resume el propósito de la acción, no una autorización para reproducir la sanción del pacto.
+
 ## La secuencia de las inmoralidades sexuales
 
 La segunda sección de la clase pasa de las obras en Shabat a las prohibiciones de Levítico 18. Eric conserva la observación de que «entrar» es una forma bíblica de referirse a tener relaciones sexuales y recorre casos de parentesco, incluida la hija de la esposa del padre y la nieta. La exposición también advierte contra leer relatos patriarcales como permiso normativo: que una conducta aparezca en una narración no significa que Levítico la apruebe.

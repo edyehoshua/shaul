@@ -53,6 +53,18 @@ La pregunta «¿por qué celebramos?» debe mantener la diferencia entre narraci
 
 **זָכַר**, _zakar_, significa recordar o traer a la memoria; en este contexto la memoria es activa y transmisible. «Memoria» es una glosa **directa**, mientras afirmar que cada costumbre moderna reproduce exactamente el texto sería **aproximado**. **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres; la equivalencia es **directa** y el cuidado social pertenece a la instrucción narrativa. **שָׁלוֹם**, _shalom_, significa paz, integridad o bienestar; en 10:3 su fuerza es el bien público buscado por el liderazgo. Reducirlo a ausencia de conflicto sería **aproximado**.
 
+## Recorrido de Ester en orden
+
+En #esther_3_7-13, el _pur_ de Amán fija una fecha y el decreto convierte el cálculo del enemigo en amenaza pública. La narración describe el procedimiento, pero no lo recomienda: **גָּזַר**, _gazar_, significa cortar, decretar o determinar; su fuerza aquí es la promulgación de una sentencia imperial contra los judíos. «Destino» como traducción del decreto sería **pedagógico y excesivo**, porque el texto sigue mostrando decisiones humanas y responsabilidad.
+
+En #esther_4_13-16, Mardoqueo confronta la falsa seguridad de Ester y ella responde con ayuno, reunión y riesgo. **צוּם**, _tsum_, significa ayunar o abstenerse de alimento; en este episodio su fuerza es una preparación comunitaria para actuar, no una técnica para manipular al rey. La observación atribuible a Eric sobre una memoria que debe producir respuesta recibe aquí apoyo **cualificado**: Ester no celebra todavía; discierne y se expone.
+
+En #esther_8_8-17, la inversión se concreta mediante un nuevo escrito que permite defender la vida. **כָּתַב**, _katav_, significa escribir o poner por escrito; su fuerza contextual es legal y pública. «Revertir» resume el cambio de situación, pero es **aproximado** si se entiende como borrar el primer decreto, pues el relato conserva su irrevocabilidad y responde con una autorización de defensa.
+
+En #esther_9_20-28, **מִשְׁתֶּה**, _mishteh_, significa banquete o celebración; **מִשְׁלוֹחַ מָנוֹת**, _mishloaj manot_, significa envío de porciones; y **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres. Las tres expresiones tienen sentido **directo** en la descripción de la fiesta, aunque convertirlas en una regla exhaustiva de cada costumbre posterior es **aproximado**. La clase puede preguntar por qué se celebra; Ester responde mediante memoria compartida, alegría concreta y cuidado del vulnerable.
+
+Finalmente, #esther_10_3 no termina en la exaltación de Mardoqueo, sino en procurar el bien del pueblo y hablar paz. La lectura canónica limita cualquier aplicación política contemporánea: **טוֹב**, _tov_, significa bueno, bienestar o beneficio; aquí su fuerza es el bien público procurado por el liderazgo. La glosa «servicio» es **pedagógica**, no una identificación automática de todo dirigente moderno con Mardoqueo.
+
 ## Reparación desarrollada: Purim no es azar sin gobierno
 
 En `youtube:lJpkAqUpOiM`, aproximadamente entre 00:01:02 y 00:07:47, Eric distingue el término persa **פּוּר**, _pur_, de la idea castellana de «buena suerte». Explica que el sorteo de Amán da nombre a Purim, pero sostiene que el resultado no debe imaginarse como un azar autónomo: al repartir la tierra, Israel establece criterios antes de echar suertes, de modo que la decisión queda dentro de un marco y no se repite caprichosamente. La observación es atribuible en ese alcance; no se presenta como una cita literal.
