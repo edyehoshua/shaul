@@ -41,23 +41,35 @@ Esta nota organiza una clase sobre el salmo 21. El hermano Eric lo lee en clave 
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta tomada de la clase | Evaluación en esta nota |
-| --- | --- | --- |
-| #tehilim_21_2-6 | Eric lee la fuerza, la salvación, la corona, la vida y la gloria como dones que proceden de יהוה y los relaciona con Yehoshua. | Apoyo textual e inferencia cualificada: la dirección de los dones es explícita; la aplicación mesiánica se conserva como recepción de la clase. |
-| #tehilim_21_7-8 | La estabilidad del rey depende de la misericordia y la confianza en יהוה, no de una autonomía real. | Apoyo textual: el poema vincula permanencia, hesed y confianza; la aplicación doctrinal amplia queda atribuida. |
-| #tehilim_21_9-13 | Eric conecta la derrota de los enemigos con Bereshit 3:15 y con la victoria del Mesías sobre el mal. | Inferencia cualificada: el salmo afirma juicio contra adversarios, pero no identifica por sí solo una figura espiritual concreta. |
-| #tehilim_21_14 | La victoria termina en canto comunitario a la fuerza de יהוה, no en venganza privada. | Apoyo textual y aplicación ética: la alabanza final está explícita; el límite a la venganza se deriva del movimiento del poema. |
+| Unidad textual   | Observación concreta tomada de la clase                                                                                        | Evaluación en esta nota                                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_21_2-6  | Eric lee la fuerza, la salvación, la corona, la vida y la gloria como dones que proceden de יהוה y los relaciona con Yehoshua. | Apoyo textual e inferencia cualificada: la dirección de los dones es explícita; la aplicación mesiánica se conserva como recepción de la clase. |
+| #tehilim_21_7-8  | La estabilidad del rey depende de la misericordia y la confianza en יהוה, no de una autonomía real.                            | Apoyo textual: el poema vincula permanencia, hesed y confianza; la aplicación doctrinal amplia queda atribuida.                                 |
+| #tehilim_21_9-13 | Eric conecta la derrota de los enemigos con Bereshit 3:15 y con la victoria del Mesías sobre el mal.                           | Inferencia cualificada: el salmo afirma juicio contra adversarios, pero no identifica por sí solo una figura espiritual concreta.               |
+| #tehilim_21_14   | La victoria termina en canto comunitario a la fuerza de יהוה, no en venganza privada.                                          | Apoyo textual y aplicación ética: la alabanza final está explícita; el límite a la venganza se deriva del movimiento del poema.                 |
 
+## Hoja de comparación
 
-| Referencia       | Texto local (hebreo sin nikud)                   | Observación                                                                      |
-| ---------------- | ------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Referencia       | Texto local (hebreo sin nikud)              | Observación                                                                      |
+| ---------------- | ------------------------------------------- | -------------------------------------------------------------------------------- |
 | #tehilim_21_2    | יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד | El gozo del rey procede de la fuerza y de la salvación de יהוה.                  |
-| #tehilim_21_4    | כי תקדמנו ברכות טוב תשית לראשו עטרת פז        | La bendición y la corona son acciones de יהוה hacia el rey.                      |
-| #tehilim_21_5    | חיים שאל ממך נתתה לו ארך ימים עולם ועד        | El pedido de vida recibe una respuesta que se extiende “olam va-ed”.             |
+| #tehilim_21_4    | כי תקדמנו ברכות טוב תשית לראשו עטרת פז      | La bendición y la corona son acciones de יהוה hacia el rey.                      |
+| #tehilim_21_5    | חיים שאל ממך נתתה לו ארך ימים עולם ועד      | El pedido de vida recibe una respuesta que se extiende «olam va-ed».             |
 | #tehilim_21_6    | גדול כבודו בישועתך הוד והדר תשוה עליו       | La gloria del rey está en la salvación de יהוה, no en autonomía.                 |
-| #tehilim_21_8    | כי המלך בטח ביהוה ובחסד עליון בל ימוט        | La confianza en יהוה y su hesed sostiene al rey.                                 |
-| #tehilim_21_9-10 | תמצא ידך לכל איביך... יהוה באפו יבלעם      | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada. |
+| #tehilim_21_8    | כי המלך בטח ביהוה ובחסד עליון בל ימוט       | La confianza en יהוה y su hesed sostiene al rey.                                 |
+| #tehilim_21_9-10 | תמצא ידך לכל איביך... יהוה באפו יבלעם       | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada. |
 | #tehilim_21_14   | רומה יהוה בעזך נשירה ונזמרה גבורתך          | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.    |
+
+Las formas se conservan sin segmentación morfológica y las traducciones españolas funcionan como guía de lectura, no como sustituto del poema hebreo.
+
+## Hoja léxica
+
+| Forma fuente  | Transliteración | Sentido normal                      | Fuerza contextual                                                                                   | Relación                                                                                                                                         |
+| ------------- | --------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **(עז)**      | _oz_            | fuerza, poder, firmeza              | En 21:2 y 21:14 nombra la fuerza de יהוה, fuente del gozo del rey y del canto final.                | «Fuerza» es una traducción directa; aplicarla a una teoría moderna del poder sería una inferencia cualificada.                                   |
+| **(ישועה)**   | _yeshuah_       | salvación, liberación, victoria     | En 21:2 y 21:6 describe la salvación de יהוה en la que el rey se alegra y por la que recibe gloria. | «Salvación» es aproximada según el contexto; su semejanza sonora con Yehoshua es pedagógica, no una prueba etimológica del Mesías en este salmo. |
+| **(חסד)**     | _hesed_         | bondad firme, lealtad, misericordia | En 21:8 sostiene la estabilidad del rey que confía en יהוה.                                         | «Misericordia» es una glosa aproximada; el contexto conserva la fidelidad relacional.                                                            |
+| **(עטרת פז)** | _ateret paz_    | corona de oro fino                  | En 21:4 representa un don que יהוה coloca sobre el rey, no una fuente autónoma de autoridad.        | Equivalencia directa de imagen; la aplicación mesiánica es una recepción canónica cualificada.                                                   |
 
 ## La fuerza que no procede del rey
 
