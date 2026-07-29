@@ -243,7 +243,7 @@ La expresión **(πᾶς Ἰσραήλ)**, _pas Israēl_, significa «todo Israe
 
 El cierre de #romanos_11_30-36 impide que esa esperanza produzca superioridad. **(οἰκτίρμων)**, _oiktirmōn_, significa misericordioso o compasivo; no es la forma central de la doxología, de modo que su empleo aquí es **pedagógico**, mientras **(ἀνεξιχνίαστος)**, _anexichniastos_, sí califica la imposibilidad de rastrear por completo los caminos de Elohim. La observación atribuible de Eric contra la jactancia recibe **apoyo textual directo** en #romanos_11_18 y **apoyo cualificado** cuando se extiende a debates históricos modernos. La perícopa termina en adoración, no en dominio interpretativo.
 
-## Reparación final: dependencia, misericordia y orden del argumento
+ ## Reparación final: dependencia, misericordia y orden del argumento
 
 La observación atribuida a Eric en `youtube:MHLbizeZrPc` —que la rama gentil no debe considerarse mejor que las ramas naturales— no depende de una comparación moderna añadida al texto. Romanos 11:17-18 la sostiene directamente: la rama silvestre participa de la raíz y de la savia, pero no sostiene la raíz. El mandato «no te jactes» debe leerse después de 11:1-16, donde Pablo niega el desecho de Israel y explica el tropiezo de algunos; por eso la aplicación contra el reemplazo triunfalista es **textual y cualificada**, no una cronología exhaustiva de cada comunidad.
 
@@ -252,7 +252,7 @@ En 11:20-23, **(ἀπιστία)**, _apistia_, significa incredulidad o falta de
 La segunda fuente, `youtube:bL-3YKdV0wo`, anuncia al Redentor de Tziyón. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; en 11:25 frena que las naciones sean sabias en su propia opinión. «Secreto» es **aproximado** y su comparación pedagógica con **(סוד)**, _sod_, «secreto o consejo», no decide el referente de «todo Israel». **(οὕτως)**, _houtōs_, significa así o de este modo; en 11:26 enlaza la salvación anunciada con el misterio previo. Traducirlo como una cronología exclusiva sería **inferencial**. Así se conserva la esperanza pública de Eric sin atribuirle un calendario que el capítulo no entrega.
 
 
-## Ver también
+ ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
 - [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]

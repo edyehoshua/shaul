@@ -228,7 +228,7 @@ El mandato de vencer el mal tampoco debe extraerse de #romanos_12_17-21. **(πα
 
 Así, el título público «El patrón de la fidelidad» queda evaluado sin convertirlo en una fórmula privada: misericordia recibida, cuerpo presentado, mente examinadora, dones sobrios, amor visible y bien activo. La atribución a Eric se limita al foco público y a las observaciones localizadas ya documentadas; la arquitectura verso a verso pertenece a la lectura canónica de Romanos 12.
 
-## Reparación final: fidelidad visible sin mérito ni pasividad
+ ## Reparación final: fidelidad visible sin mérito ni pasividad
 
 El título público «El patrón de la fidelidad» permite atribuir a Eric el foco general, pero la perícopa define ese patrón en orden: las misericordias preceden al cuerpo ofrecido (#romanos_12_1), la mente renovada examina (#romanos_12_2), la sobriedad regula los dones (#romanos_12_3-8) y el amor se vuelve conducta (#romanos_12_9-21). **(οἰκτιρμός)**, _oiktirmos_, significa misericordia, compasión o piedad; «misericordias» es una glosa **directa** en 12:1. **(παρίστημι)**, _paristēmi_, significa presentar o poner a disposición; «ofrecer» es **aproximado y contextual**, y no describe un pago que compre el favor de Elohim.
 
@@ -237,7 +237,7 @@ La renovación tampoco autoriza una inspiración privada sin examen. **(δοκι
 En 12:17-21, **(νικάω)**, _nikaō_, significa vencer o conquistar; «vencer el mal con el bien» es **directo** como conclusión del versículo, mientras «triunfar sin reproducir la violencia» es una aplicación **pedagógica** definida por alimentar al enemigo y dejar la venganza a Elohim. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en 12:18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». Por eso la lectura de Eric recibe apoyo textual cuando llama al bien activo, pero sería **ilegítimo** usarla para silenciar protección, denuncia o justicia legítima.
 
 
-## Ver también
+ ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]
 - [[romanos_13_autoridades_amor_vigilancia|Romanos 13: autoridades, amor y vigilancia]]
