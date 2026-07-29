@@ -81,6 +81,14 @@ Así, el ejemplo no justifica prestigio para quien enseña ni pasividad para qui
 - #iojanan_13_17 con #tehilim_40_8 e #ivrim_10_7: la clase relaciona la dicha de hacer con la voluntad de יהוה expresada en la Escritura.
 - #iojanan_13_4-8 con #iojanan_13_12-17: el signo antes explicado por Yehoshua es desarrollado en [[yojanan_13_pesaj_seuda_lavado_pies|Pesaj, seudá y lavado de pies]].
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #iojanan_13_12-15 | Eric lee el lavado de pies como un acto que no cancela la autoridad de Yehoshua como Maestro y Adón, sino que convierte su servicio en el modelo que los discípulos deben practicar unos con otros. | **Apoyo textual directo:** la pregunta «¿Saben qué les he hecho?», los títulos y el mandato de hacer «como» él hizo se siguen en orden; la nota no convierte el ejemplo en un ritual detallado que el pasaje no especifica. |
+| #iojanan_13_16 | La clase explica «el enviado no es más grande que quien lo envió» mediante la figura del **(שליח)**, un comisionado que no inventa una autoridad propia. | **Clarificación léxica e inferencia cualificada:** se explica **(ἀπόστολος)**, _apostolos_, como enviado comisionado y se aproxima pedagógicamente a _shaliaj_; la equivalencia jurídica e histórica queda pendiente. |
+| #iojanan_13_17 | Eric subraya que conocer lo enseñado no basta: la dicha queda ligada a hacerlo, de modo que la obediencia visible verifica el aprendizaje. | **Apoyo textual y aplicación pastoral acotada:** la condición «si estas cosas saben… si las hacen» sostiene el vínculo saber-hacer; la conexión con Salmo 40 y Hebreos 10 se mantiene como desarrollo intertextual de la clase. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el uso de ἀπόστολος en #iojanan*13_16 frente a **(שליח)**/\_shaliaj* y sus alcances jurídicos en fuentes antiguas.

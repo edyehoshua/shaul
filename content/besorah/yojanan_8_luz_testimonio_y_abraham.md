@@ -90,6 +90,15 @@ La clase conecta «Antes que Abraham fuese, Yo soy» con Éxodo y con la preexis
 | **(בן האדם)** | ben ha-adam | hijo del hombre / hijo de Adán | Delitzsch representa así el título de #iojanan_8_28. «Portador del Adán de arriba», expresión de la clase, es una explicación pedagógica que no agota el título. |
 | **(אב)** | av | padre | Eric lo explica como fuente y verdad. Ese valor metafórico puede iluminar su argumento, pero **אב** significa ordinariamente padre; «fuente» es una extensión contextual cualificada. |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #iojanan_8_12-20 | Eric lee «Yo soy la luz del mundo» en relación con el templo, la vida y el testimonio de dos testigos; el testimonio escrito y su realización en Yehoshua sirven para responder a la objeción de los perushim. | **Apoyo textual e intertexto cualificado:** se sigue la transición de luz a testimonio y se conserva la conexión con Salmo 36; se distingue lo que dicen directamente Yehoshua y el Padre de la identificación teológica más amplia con Torah y verdad. |
+| #iojanan_8_21-38 | La clase vincula «de arriba/de abajo», el levantamiento del Ben Ha’Adam y la permanencia en la palabra con la libertad; también usa el participio de «creer» para proponer que algunos seguidores no permanecieron. | **Apoyo textual y calificación léxica:** el orden de procedencia, levantamiento, permanencia, verdad y esclavitud al pecado está en el pasaje; la lectura de «excreyentes» se conserva como inferencia pedagógica, no como significado necesario de **(πεπιστευκότας)**. |
+| #iojanan_8_39-47 | Eric contrasta la genealogía invocada por los interlocutores con las obras de Abraham y conecta el rechazo de la verdad con su discusión sobre Satanás y las posturas judías. | **Apoyo textual y contexto cualificado:** el criterio de obras, escucha y verdad se expone desde los versículos; las generalizaciones históricas sobre judaísmos y Satanás quedan como afirmaciones por verificar. |
+| #iojanan_8_48-59 | La clase relaciona la controversia final, la gloria recibida del Padre y «Antes que Abraham fuese, Yo soy» con Éxodo y la preexistencia de Yehoshua. | **Apoyo textual e inferencia cualificada:** se sigue la escalada hasta la reacción de tomar piedras; la conexión con Éxodo y la fórmula hebrea no se presentan como equivalencia lingüística automática. |
+
 ## Pendiente de verificar
 
 - [ ] Revisar el texto griego y la sintaxis de #iojanan_8_25 antes de traducirlo de manera concluyente como «Yo soy el Principio».
