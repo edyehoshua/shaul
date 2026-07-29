@@ -396,6 +396,14 @@ El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam 
 
 La palabra que יהוה sostiene y la obediencia que pide no compiten. Su promesa hace posible la respuesta; la respuesta manifiesta que la promesa está obrando. Yehoshua reúne ambas: viene según lo escrito, lleva la Torah en sus entrañas, hace la voluntad de Elohim y confirma que ni el detalle más pequeño quedará vacío.
 
+## Corrección dirigida: la objeción y el llamado no son la misma escena
+
+Marcos 2:7 y 2:17 requieren conservar dos problemas distintos dentro de la misma progresión. En 2:7, los escribas preguntan **τί οὗτος οὕτως λαλεῖ βλασφημεῖ** (_ti houtos houtōs lalei blasphēmei_, «¿por qué habla así? blasfema»). **βλασφημέω**, _blasphēmeō_, significa hablar injuriosamente o difamar; aquí nombra la evaluación de los escribas sobre la palabra de perdón, no una definición abstracta de toda afirmación humana. Yehoshua responde con la autoridad del Ben HaAdam y con la señal de levantar al hombre.
+
+En 2:17, después de la mesa con Levi, **μετανοήσωσιν** (_metanoēsōsin_, «se arrepientan o cambien de rumbo») explica el propósito de la llamada a pecadores. La forma pertenece a la misión del sanador y no debe retrocederse artificialmente a la escena del paralítico como si Marcos identificara el pecado particular de cada enfermo. La continuidad es real —perdón que restaura y misericordia que llama—, pero la secuencia conserva sus límites: objeción sobre autoridad, luego seguimiento y arrepentimiento.
+
+Esta precisión protege la síntesis de Eric. La autoridad del Mesías no se demuestra por una etimología de «blasfemia» ni por una acusación general contra los escribas, sino por la respuesta narrativa a la objeción; y la misericordia no elimina la respuesta humana, sino que llama a una vuelta concreta. La comparación con **(סלח)**, _salaj_, «perdonar», y **(שוב)**, _shuv_, «volver o retornar», es de campo semántico y no una retroversión demostrada de las formas griegas.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
