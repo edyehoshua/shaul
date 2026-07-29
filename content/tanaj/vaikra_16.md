@@ -352,6 +352,7 @@ La salida completa el rito. OE dice: **וכבס בגדיו ורחץ את בשר�
 Delitzsch relee el patrón en Ivrim 9:7: **והמשכן אשר לפנים ממנו שמה בא הכהן הגדול לבדו פעם אחת בשנה לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «el tabernáculo interior ... el sumo sacerdote solo una vez al año, no sin sangre que ofreciera por su vida y por los yerros del pueblo». **(פעם)**, _paam_, significa vez, ocasión o golpe; en Ivrim sostiene la periodicidad anual, no una teoría de repetición vacía. La conexión con la obra del Mesías es canónica y aproximada: Ivrim interpreta el patrón, pero no borra que Vaikra 16 distingue sangre, confesión, envío, lavado y reposo.
 
 La evaluación final de Eric queda así graduada: «una sin la otra» es una síntesis teológica exacta sobre la unidad del día; decir que ambos machos cabríos son la misma acción es inexacto; y aplicar el rito a una vida reconciliada es una inferencia pastoral razonable. El capítulo mantiene sus límites —fecha, sacerdote, lugar, sangre, desierto, humillación y retorno— y precisamente por eso la reconciliación alcanza algo verificable: la Santidad es tratada, la culpa es confesada y la comunidad vuelve bajo una obediencia recibida.
+
 ## Pendiente de verificar
 
 ## El incienso cubre el acceso, no lo vuelve autónomo — vv. 11-17
