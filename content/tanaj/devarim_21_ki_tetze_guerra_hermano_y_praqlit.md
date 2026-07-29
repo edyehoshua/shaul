@@ -138,6 +138,16 @@ La continuidad defendible está en la función de protección, no en una identid
 | #devarim_22_1-5            | No esconderse; 22:5 sobre objetos/prendas en clave de hallazgo, no solo ropa | Lectura contextual plausible; otras recepciones abiertas  |
 | Hilo _praqlit_ / paráclito | Mitzvá como abogado; Yehoshua da otro Defensor                               | Analogía pedagógica + Juan 14; sin forzar el hebreo de Dt |
 
+## El mandamiento defiende mediante verbos concretos
+
+La analogía de Eric entre mitzvá y _praqlit_ gana precisión cuando se observa la cadena verbal que continúa de Devarim 21 a 22. El mandamiento no «defiende» como una fuerza abstracta: ordena devolver, levantar, esperar, juzgar y enterrar. En 22:1 el OE dice **השב תשיבם לאחיך**, «devolver, los devolverás a tu hermano». La repetición de la raíz **(שוב)**, _shuv_, intensifica la obligación de hacer volver lo perdido. «Restauración» es una equivalencia **aproximada**; el objeto inmediato es el animal o la prenda que pertenece al hermano.
+
+En 22:4 aparece **הקם תקים עמו**, «levantar, levantarás con él». **(קום)**, _qum_, significa levantarse, ponerse en pie o hacer levantar; en esta forma repetida su fuerza contextual es asistir al hermano y a su animal caído. «Solidaridad» es una síntesis **pedagógica**, no el sentido aislado del verbo. La clase tiene razón al rechazar el ocultamiento del hermano, pero el texto no pide solo una actitud: pide una intervención material que impide que la pérdida se convierta en apropiación.
+
+La misma lógica ya estaba presente en el capítulo 21. Ante el muerto cuyo agresor no se conoce, los ancianos declaran **ידינו לא שפכו את הדם הזה ועינינו לא ראו**, «nuestras manos no derramaron esta sangre y nuestros ojos no vieron». **(שפך)**, _shafaj_, significa derramar o verter; su fuerza contextual recuerda que la comunidad no puede fingir que la sangre desaparece por falta de testigo. **(ראה)**, _raah_, significa ver o percibir; en la declaración, «nuestros ojos no vieron» no elimina la obligación pública, sino que delimita lo que los ancianos pueden afirmar. «Culpa colectiva» es **pedagógica** y puede ser engañosa; el rito expresa responsabilidad comunitaria sin inventar un culpable.
+
+Finalmente, el límite del colgado dice **לא תלין נבלתו על העץ**, «no dejarás pernoctar su cadáver sobre el árbol». **(לין)**, _lin_, significa pasar la noche o permanecer durante la noche; aquí su fuerza contextual es impedir que el cuerpo quede expuesto más allá del día. «Dignidad póstuma» es una aplicación **pedagógica**, mientras que enterrar el cadáver es la instrucción **exacta**. La lectura del _praqlit_ queda así sometida al orden textual: una mitzvá protege por medio de límites y procedimientos, y el puente hacia **(παράκλητος)**, _paráklētos_, es **canónico y aproximado**, no una identidad léxica entre Devarim y Iojanan.
+
 ## Pendiente de verificar
 
 - [ ] Localizar la cita exacta del dicho talmúdico «quien adquiere un mandamiento adquiere un abogado» (la clase alude a b. Talmud; no inventar número de folio).
