@@ -578,6 +578,14 @@ La clase puede aplicar este relevo a la necesidad de no confundir edad con inuti
 
 Delitzsch ofrece un paralelo útil y limitado en Ivrim 9:6: **καὶ μετὰ ταῦτα οἱ ἱερεῖς εἰσέρχονται διὰ παντὸς εἰς τὴν πρώτην σκηνὴν τὰς λατρείας ἐπιτελοῦντες**, «y después de estas cosas los sacerdotes entran continuamente en la primera tienda, realizando los servicios». **(λατρεία)**, _latreia_, significa servicio cultual o adoración; su fuerza contextual es el servicio sacerdotal dentro del santuario, no una traducción del **צבא** levítico. El paralelo confirma que el acceso y la labor son regulados, pero no fusiona sacerdotes y levitas ni convierte la observación pastoral de Eric en una norma universal.
 
+## La obediencia visible no sustituye la santidad del encargo
+
+El capítulo permite afinar otra observación de Eric: la comunidad no convierte al servidor en una figura autónoma, pero tampoco reduce el servicio a una intención invisible. En 8:10 Israel pone sus manos sobre los leviím y en 8:11 Aharón los presenta delante de יהוה. OE dice **והניף אהרן את הלוים תנופה לפני יהוה מאת בני ישראל והיו לעבד את עבדת יהוה**; TTH conserva la presentación de los leviím como una ofrenda elevada para que realicen el servicio de יהוה. **(נוף)**, _nuf_, significa mover, mecer o presentar; en la forma **והניף**, _henif_, su fuerza contextual es un gesto ritual de presentación, no «elevar la conciencia». **(עבד)**, _avad_, significa trabajar o servir; en **לעבד את עבדת**, _la'avod et avodat_, la repetición une al servidor con una tarea concreta. «Ministerio» es una equivalencia pedagógica y aproximada; «trabajo o servicio» es más cercano.
+
+La secuencia importa para evaluar la aplicación pastoral. La congregación identifica públicamente, Aharón presenta, יהוה recibe y luego los leviím realizan el trabajo. El orden no prueba que toda comunidad actual deba copiar cada gesto levítico, pero sí contradice la idea de que el encargo nace de la autoafirmación del ministro. **(קדש)**, _qadesh_, significa consagrar o apartar; en **וקדשת את הלוים**, _qidashta et haleviim_, señala una separación ritual para una función delimitada. «Perfecto moralmente» sería una equivalencia inexacta: el pasaje regula pertenencia y servicio, no declara impecabilidad.
+
+Eric acierta, por tanto, al insistir en que la luz y el servicio deben beneficiar a Israel; el texto añade que ese beneficio necesita presentación, sustitución y límites. La edad tampoco cancela el fruto: el levita deja la labor pesada, pero sirve a sus hermanos y guarda la custodia. La aplicación contemporánea queda como **pedagógica y aproximada**; la afirmación exacta es que Bamidbar 8 hace visible una responsabilidad recibida, comunitaria y regulada por יהוה.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

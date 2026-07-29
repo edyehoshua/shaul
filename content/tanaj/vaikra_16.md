@@ -695,6 +695,16 @@ La regulación confirma la lógica de Vaikra 16. **(שחט)**, _shajat_, signifi
 
 Así, el puente con Pésaj y con Hebreos puede conservarse sin desplazar el capítulo. **(כפר)**, _kafar_, significa cubrir y, en la construcción cultual, hacer reconciliación; en Vaikra 16 nombra una acción ritual ordenada. No significa por sí solo «muerte del Mesías» ni «pagar una deuda»; esas formulaciones son lecturas teológicas **pedagógicas y aproximadas**. La contribución de la clase queda preservada: la reconciliación trata la Santidad, remueve las iniquidades y reclama una respuesta visible. El texto añade el límite decisivo: la vida y la sangre pertenecen al orden que יהוה establece, no a una apropiación privada.
 
+## El límite del estatuto protege la lectura mesiánica
+
+La observación de Eric sobre una reconciliación que alcanza la vida necesita una última precisión: Vaikra 16 no describe una idea flotante de perdón, sino un estatuto con destinatarios, fecha y respuesta. OE dice **והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו**; TTH conserva el reposo solemne y la aflicción de las gargantas en el décimo día del séptimo mes. **(חקה)**, _juqah_, significa estatuto, ordenanza o prescripción; su forma aquí designa una norma establecida, no una metáfora interior. **(חדש)**, _jodesh_, significa mes o luna nueva; «temporada espiritual» es una equivalencia pedagógica, no el sentido normal del término. **(עשור)**, _asor_, significa décimo; fija el momento del rito.
+
+La respuesta de Israel no es pasividad. La forma **תענו**, _teannu_, procede de ענה, _anah_, «afligir, humillar o someter», y en contexto ordena una práctica comunitaria; **(מלאכה)**, _melakhah_, significa trabajo o labor, y la prohibición delimita el reposo del día. Eric puede aplicar esta humillación a una vida que abandona el pecado, pero esa extensión es **teológica y aproximada**. La afirmación exacta es que la asamblea se somete a un día de reposo y a una ordenanza ritual mientras Aharón actúa en el santuario.
+
+El v. 34 resume sin convertir el proceso en automatismo: **והיתה זאת לכם לחקת עולם לכפר על בני ישראל מכל חטאתם אחת בשנה**. **(אחת)**, _ajat_, significa una o una sola; aquí subraya la periodicidad anual. **(שנה)**, _shanah_, significa año; la expresión limita la celebración al ciclo señalado. **(כפר)**, _kafar_, significa cubrir y, en la construcción cultual, hacer reconciliación; no significa por sí solo «pagar una deuda» ni autoriza a borrar los medios del rito. El puente con Ivrim y Pésaj puede conservarse como lectura canónica, pero no sustituye al capítulo.
+
+Así, Eric conserva una intuición importante: la reconciliación no puede separarse de una transformación visible. OE y TTH añaden el límite que hace responsable la aplicación: hay sacerdote, sangre, confesión, envío, lavado, reposo y comunidad. La lectura mesiánica es **canónica y aproximada**; el sentido textual inmediato es un estatuto anual que purifica delante de יהוה y ordena cómo Israel responde.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
