@@ -243,6 +243,14 @@ La imagen de las vasijas debe permanecer bajo la sintaxis de la perícopa. **(κ
 
 La observación de Eric gana precisión cuando el capítulo se recorre completo. La misericordia, el llamamiento y la promesa no cancelan la conclusión de #romanos_9_30-33: las naciones alcanzan justicia por emunah, mientras Israel tropieza al perseguirla como si procediera de obras. Así, la distinción entre propósito histórico y salvación recibe **apoyo textual cualificado**; convertirla en una doctrina exhaustiva sobre cada individuo sería una inferencia que la perícopa no demuestra. La nota preserva el capítulo consolidado, el URL público, el `source_id` y el crédito visible de Eric.
 
+## Reparación de orden canónico: función, llamamiento y respuesta
+
+La observación atribuida a Eric en `youtube:atIdZY13b_c` distingue entre ser usado dentro de un propósito histórico y ser declarado salvo. La perícopa respalda esa cautela en #romanos_9_17, donde Faraón aparece en función de la proclamación del nombre de Elohim, pero la lectura no debe detenerse allí. #romanos_9_23-24 habla de vasos de misericordia llamados a gloria y #romanos_9_30-33 termina con justicia recibida por emunah y tropiezo ante la piedra. La distinción recibe **apoyo textual cualificado**: es exacto separar función y salvación, pero sería inferencial convertir esa separación en un mapa exhaustivo del destino individual.
+
+En #romanos_9_24, **(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; su fuerza contextual es la incorporación de personas de entre judíos y naciones al pueblo llamado por Elohim. «Llamar» es una glosa **directa**, pero el verbo aislado no decide por sí solo si cada uso describe convocatoria histórica, respuesta eficaz o ambas. En #romanos_9_30, **(λαμβάνω)**, _lambanō_, significa tomar, recibir o alcanzar; «alcanzaron» es **aproximado y contextual**, porque la forma no elimina la relación entre iniciativa divina y respuesta de emunah.
+
+El control de la atribución también protege la conclusión pastoral de Eric sobre la seguridad del creyente. Su referencia a una obra que Elohim inicia y termina puede dialogar con Romanos 8:38-39 y Filipenses 1:6, pero no convierte Romanos 9 en una exposición completa de perseverancia. **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o paciencia bajo presión; aquí solo funciona como conexión canónica **pedagógica y aproximada**, no como si fuera el término que gobierna la discusión de Faraón. La nota conserva el crédito visible, la URL pública y el `source_id` único, y deja que la secuencia completa de Romanos mantenga juntas promesa, misericordia, responsabilidad y esperanza.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]

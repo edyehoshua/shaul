@@ -227,6 +227,14 @@ El cierre mantiene la interioridad bajo evaluación. **(συμμαρτυρέω)*
 
 Esta reparación deja explícita la evaluación de la fuente propia de la lane: el título público orienta la pregunta sobre identidad, y la perícopa gobierna la respuesta. La secuencia queda intacta —bondad que conduce al retorno, juicio sin favoritismo, conciencia que acusa o defiende y señal que debe corresponder a obediencia—, con URL pública, `source_id` único y crédito visible de Eric.
 
+## Reparación focal: identidad visible bajo juicio
+
+La fuente `youtube:6D7Yj0bDSfU` solo permite atribuir públicamente la pregunta «¿qué es ser judío? ¿Qué es ser creyente?». El título no documenta una explicación completa, de modo que esta reparación no inventa argumentos de la sesión. Sí permite evaluar el foco en #romanos_2_17-29: Pablo reconoce la ventaja de conocer la Torah, pero somete nombre, enseñanza y señal a la coherencia ante Elohim. La observación recibe **apoyo textual cualificado** y conserva el límite de la evidencia: título y URL pública, no cita reconstruida.
+
+En #romanos_2_25, **(ὠφελέω)**, _ōpheleō_, significa ayudar, beneficiar o ser provechoso; su fuerza contextual es condicional, porque la circuncisión beneficia si se practica la Torah. En #romanos_2_29, **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; aquí la alabanza relevante no procede de seres humanos, sino de Elohim. Ambas glosas son **directas** en su sentido ordinario; convertirlas en una teoría exhaustiva de identidad o elección sería **inferencial**.
+
+La síntesis canónica mantiene el orden: la bondad conduce a la **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento; la **(προσωπολημψία)**, _prosōpolēmpsia_, «acepción de personas o favoritismo», no altera el juicio; la **(συνείδησις)**, _syneidēsis_, «conciencia», testifica dentro del proceso; y la señal debe acompañar una vida que honra a Elohim. «Teshuvá» y **(לב)**, _lev_, «corazón», son correspondencias **pedagógicas y aproximadas** con las formas griegas, no sustitutos de ellas. Así, el capítulo corrige la jactancia sin convertir la autocrítica de Pablo en desprecio contra Israel.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
