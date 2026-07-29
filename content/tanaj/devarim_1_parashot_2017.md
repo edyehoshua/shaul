@@ -110,11 +110,19 @@ El final mantiene el discernimiento temporal. Primero se ordena subir (1:21); de
 | #devarim_1_26-33 | La incredulidad nace cuando Israel interpreta la tierra y el camino desde el temor, olvidando que יהוה lo llevó y lo guió.                                            | Apoyo textual y clarificación léxica: se contrastan _ma'aminim_ y la imagen de _nasa_ con el relato del miedo.                                                                                                      |
 | #devarim_1_34-46 | La clase contrasta la palabra recibida con el impulso humano y, al recorrer la guerra posterior contra enemigos grandes, insiste en no medir la promesa por el temor. | Apoyo textual cualificado: se conserva la advertencia sobre Caleb, Yehoshua y la presunción; el enlace con los enemigos de Devarim 3 es una aplicación canónica, no una afirmación de que 1:34-46 narre esa guerra. |
 
+## Observaciones localizadas y control de atribución
+
+En la sesión pública `youtube:n6AaHG2kTCo`, aproximadamente entre 00:00:11 y 00:02:13, Eric explica que **דברים**, _devarim_, puede referirse a palabras, asuntos, juramentos o promesas, y lo relaciona con **דבר**, _davar_. También distingue el título griego _Deuteronomion_ como «segunda ley» o repetición de la ley. La primera observación conserva un énfasis lingüístico real de la clase; «promesas» es una aplicación **aproximada**, porque el plural hebreo nombra ante todo palabras o asuntos y su fuerza concreta depende del discurso de Mosheh. La explicación del título griego es **pedagógica y cualificada**: ilumina la recepción del libro, pero no sustituye su título hebreo ni prueba por sí sola una teoría sobre la Torah.
+
+Entre aproximadamente 00:08:56 y 00:10:09, Eric lee Devarim 1:1 como «los asuntos, palabras o promesas» hablados a todo Israel y conecta esa expresión con Romanos 11:25–26 y «todo Israel». La relación intertextual es una observación atribuible de la exposición, no una cita de Pablo ni una definición exhaustiva de «todo Israel». Devarim 1 sí afirma que Mosheh habla a todo Israel; Romanos 11 debe gobernar su propia sintaxis cuando habla del misterio, la plenitud de las naciones y la salvación. **(מלא)**, _male_, significa lleno o completo; como idea de «plenitud» en la explicación de Eric es **pedagógica y aproximada**, no una equivalencia morfológica con el griego **(πλήρωμα)**, _plērōma_.
+
+Desde aproximadamente 00:11:14, la clase introduce a Sijón y Og, y presta atención a las características de Og de Bashán y al lenguaje de enemigos poderosos. Esa observación ayuda a evaluar el temor de Devarim 1:28, pero el capítulo 1 no narra todavía toda la campaña de Devarim 2–3. La aplicación es **canónica y cualificada**: el tamaño o la reputación del enemigo no debe reemplazar la palabra de יהוה, pero no se debe importar a 1:26–46 cada detalle de la guerra posterior. El crédito público y la atribución quedan limitados a estas observaciones localizadas; la nota conserva la evaluación mediante la perícopa de Devarim 1 y no presenta la transcripción automática como cita literal.
+
 ## Pendiente de verificar
 
-- [ ] Cotejar cualquier transcripción revisada de `youtube:n6AaHG2kTCo` para separar sus observaciones habladas de las inferencias que aquí se derivan del recorrido de Devarim 1–3; no se presenta una transcripción automática como cita.
 - [ ] Verificar en una edición TTH actualizada las formulaciones resumidas de 1:19–46; la hoja actual conserva sólo los extractos locales disponibles y no reconstruye traducciones ausentes.
 - [ ] Verificar la relación propuesta en la clase entre la derrota del enemigo y la muerte, sin desplazar el juicio histórico inmediato del capítulo.
+- [ ] Cotejar la sintaxis de Romanos 11:25–26 antes de convertir la conexión de «todo Israel» en una conclusión exclusiva.
 
 ## La orden vigente distingue confianza de presunción
 
