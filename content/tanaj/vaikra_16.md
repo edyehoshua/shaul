@@ -126,7 +126,7 @@ Por eso «una sin la otra no tiene sentido» puede conservarse como resumen de l
 
 ## La confesión delimita la aplicación ética
 
-Las exposiciones que Eric reúne bajo los source IDs `youtube:8Btk2jATjfk`, `youtube:Y97CMPXJ4cA` y `youtube:stsUp5v3SXE` enfatizan que la reconciliación no debe convertirse en permiso para continuar en el pecado. La observación conserva una dirección ética reconocible, pero Vaikra 16 la expresa mediante el rito: Aharón confiesa **את כל עונתם** —«todas sus iniquidades»— sobre el macho cabrío vivo (#vaikra_16_21), y la asamblea aflige sus _nefesh_ y cesa de trabajar (#vaikra_16_29-31). El texto no formula todavía una teoría completa de perseverancia; por eso «vida reconciliada» es una **inferencia teológica**, mientras «confesar», «enviar», «afligir» y «no trabajar» son acciones **textualmente exactas** del capítulo.
+Las exposiciones de Eric del mismo ciclo enfatizan que la reconciliación no debe convertirse en permiso para continuar en el pecado. La observación conserva una dirección ética reconocible, pero Vaikra 16 la expresa mediante el rito: Aharón confiesa **את כל עונתם** —«todas sus iniquidades»— sobre el macho cabrío vivo (#vaikra_16_21), y la asamblea aflige sus _nefesh_ y cesa de trabajar (#vaikra_16_29-31). El texto no formula todavía una teoría completa de perseverancia; por eso «vida reconciliada» es una **inferencia teológica**, mientras «confesar», «enviar», «afligir» y «no trabajar» son acciones **textualmente exactas** del capítulo.
 
 Aquí conviene distinguir **(וידוי)**, _vidui_, sustantivo para confesión o reconocimiento verbal, de **(כפר)**, _kafar_, hacer reconciliación en la construcción sacerdotal. _Vidui_ nombra la declaración de las iniquidades; _kafar_ nombra la acción ritual que trata la Santidad y a la asamblea. «Confesar es expiar» sería una equivalencia **pedagógica** demasiado fuerte: el capítulo relaciona ambas acciones, pero no las convierte en sinónimos. Del mismo modo, **(עון)**, _avon_, significa iniquidad, culpa o torcimiento; su fuerza aquí es aquello que Aharón declara y el animal carga, no una definición filosófica de culpa heredada.
 
@@ -135,6 +135,16 @@ Esta precisión mantiene la observación real de Eric sin sustituirla por una ca
 - [ ] Comparar el rango de _Azazel_ en traducciones antiguas y comentaristas sin presentarlo como conclusión del hebreo.
 - [ ] Verificar por separado las afirmaciones calendáricas y astronómicas de las clases de Pésaj.
 - [ ] Contrastar con Hebreos 5–10 la relación entre el rito anual de Vaikra 16 y la lectura mesiánica de Eric.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de Eric | Evaluación frente al texto |
+| --- | --- | --- |
+| #vaikra_16_1-2 | El acceso a la Santidad no ocurre en cualquier momento; la muerte de Nadav y Avihú explica la regulación. | El marco narrativo y la prohibición de entrar «en todo tiempo» lo sostienen; _qarav_ y _qodesh_ requieren lectura contextual. |
+| #vaikra_16_6-10 | Los dos machos cabríos deben leerse juntos: uno para יהוה y otro lleva las iniquidades al desierto. | Los vv. 9-10 asignan funciones distintas; la unidad del rito es textual, pero Azazel y cualquier identificación mesiánica quedan pendientes. |
+| #vaikra_16_14-17 | La sangre trata la Santidad y la Tienda, no es una fuerza mágica separada de la mediación sacerdotal. | El sacerdote, el lugar, el momento y la acción de rociar aparecen explícitamente; la aplicación mesiánica es cualificada. |
+| #vaikra_16_20-22 | La reconciliación incluye confesar y apartar las iniquidades mediante el macho cabrío vivo. | La imposición de manos, confesión, carga y envío están en orden; «transferir culpa» es una síntesis aproximada. |
+| #vaikra_16_29-34 | La humillación del nefesh y el reposo hacen que la reconciliación alcance la vida del pueblo. | El texto ordena afligirse y cesar de trabajar; la lectura de cuerpo incorruptible es una conexión mesiánica pendiente de cotejo. |
 
 ## Ver también
 
