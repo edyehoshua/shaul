@@ -247,7 +247,11 @@ Desde 13:14 el discurso cambia a la señal de desolación, huida, tribulación, 
 
 El cierre vuelve a impedir la especulación. **(οὐκ οἴδατε)**, _ouk oidate_, «no saben», limita el conocimiento comunitario; **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos», y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», son imperativos presentes que describen una práctica sostenida. Eric usa este final para insistir en que la profecía no debe convertirse en calendario; la repetición de los mandatos lo confirma. La variante local entre TTH y Delitzsch sobre «ni el Hijo» debe permanecer visible y no ser resuelta ocultando un testigo.
 
-## Pendiente de verificar
+## Verificaciones pendientes
+
+- [ ] Cotejar la omisión de «ni el Hijo» en TTH frente a Delitzsch con una edición crítica griega y su aparato, sin resolverla por doctrina.
+- [ ] Localizar las referencias rabínicas atribuidas a Ibn Ezra y al Gaón de Vilna sobre Daniel 9 antes de presentarlas como apoyo independiente.
+- [ ] Verificar las fechas y las identificaciones históricas de la reconstrucción 66–70/73 con fuentes primarias o estudios históricos públicos.
 
 ## Desarrollo seleccionado de la parte 41: el ungido, el santuario y el corte
 
@@ -395,6 +399,14 @@ El contraste final protege la lectura contra el cálculo. **(ἐπισυνάξε
 La relación entre las fuentes y el cierre canónico puede comprobarse sin forzar una solución a la variante de 13:32. La parte 41 conserva la observación de Eric sobre las dos preguntas: el templo abre el discurso, pero el día y la hora no se entregan al discípulo. La parte 40 aporta la lectura histórica de Daniel 9 y la parte 42 enfoca la señal, la higuera y la venida; ninguna de ellas autoriza a convertir **(ἐγγύς)**, _engys_, «cerca», en una fecha exacta. El texto permite reconocer proximidad y, a la vez, prohíbe reclamar el momento.
 
 El cierre enlaza **(λόγοι)**, _logoi_, «palabras, dichos o mensajes», con **(οὐ μὴ παρέλθωσιν)**, _ou mē parelthōsin_, «de ningún modo pasarán», y después con **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». La enseñanza de Eric sobre una palabra inamovible encuentra aquí apoyo textual: la palabra permanece y la comunidad recibe una tarea. Su asociación de esa firmeza con **(אמונה)**, _emunah_, «fidelidad o firmeza», es aproximada y pedagógica, no una retroversión del griego. La consecuencia canónica es obediencia perseverante, no un nuevo método para calcular la venida.
+
+## Desarrollo dirigido: la ignorancia compartida y el encargo recibido (13:32-37)
+
+El cierre no contrapone una élite que conoce el calendario con discípulos que deben descubrirlo. En la formulación de Delitzsch, **οὐδεὶς οἶδεν**, _oudeis oiden_, «nadie sabe», incluye a ángeles y al Hijo, y deja al Padre como excepción; TTH omite la frase «ni el Hijo», pero conserva «nadie sabe... sino el Padre». La diferencia textual es real en el corpus local y debe quedar visible. Lo que ambas lecturas comparten es el efecto narrativo: **οὐκ οἴδατε**, _ouk oidate_, «no saben», se dirige después a los discípulos, de modo que ninguna lectura les concede acceso al momento.
+
+La parábola explica qué debe hacerse con esa falta de información. El dueño de casa **ἀφείς**, _apheis_, «habiéndose ido o dejado», entrega a sus siervos **ἐξουσία**, _exousia_, «autoridad, responsabilidad o encargo», y asigna a cada uno su obra; al portero manda **γρηγορεῖν**, _grēgorein_, «vigilar». La vigilancia, por tanto, no es ansiedad producida por una fecha desconocida: es fidelidad al trabajo recibido. Eric acierta al rechazar el cálculo como centro de la profecía; el texto lo prueba sustituyendo la información negada por una responsabilidad distribuida.
+
+La llegada inesperada refuerza el límite. **ἔλθῃ**, _elthē_, «llegue», y **εὕρῃ**, _heurē_, «encuentre», forman la condición de la parábola: el señor puede llegar al anochecer, a medianoche, al canto del gallo o por la mañana, y puede hallar a los siervos dormidos. **γρηγορεῖτε**, _grēgoreite_, «vigilen», vuelve como mandato para todos, no como contraseña de un intérprete. La conexión con **(שמר)**, _shamar_, «guardar o vigilar», es semítica y pedagógica; el contexto griego gobierna la equivalencia. La palabra permanente de 13:31 produce así servicio perseverante, no una licencia para reclamar conocimiento reservado.
 
 ## Créditos
 
