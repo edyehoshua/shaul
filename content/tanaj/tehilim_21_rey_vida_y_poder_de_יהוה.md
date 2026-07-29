@@ -152,5 +152,5 @@ Tehilim 21 enseña a recibir la victoria como don: el rey se alegra, vive y perm
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Psalms/Hymns/Psalm Ch. 21](https://www.youtube.com/watch?v=V6cspEvIX7s). (`youtube:V6cspEvIX7s`).
+- Video: [Psalms/Hymns/Psalm Ch. 21](https://www.youtube.com/watch?v=V6cspEvIX7s) (`source_id`: `youtube:V6cspEvIX7s`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
