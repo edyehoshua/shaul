@@ -167,6 +167,18 @@ La clase conecta #bereshit_3_21, #bereshit_22_13-14 y #sodot_13_8:
 
 Esa conexión es fuerte como lectura de clase, pero debe quedar marcada: la referencia al Targum de Bereshit 22 y su relación con #sodot_13_8 necesita cotejo directo.
 
+## Prueba ordenada: recibir, discernir y hablar
+
+La observación de Eric se vuelve comprobable cuando se conserva el orden de `#qorintiyim_alef_2_12-16`. Primero, Pablo no dice que el discípulo fabrique una mente superior: afirma **(ἐλάβομεν)**, _elabomen_, «recibimos», una forma verbal que presenta el **(πνεῦμα)**, _pneuma_, «espíritu, viento o aliento», como don recibido. La equivalencia con **(רוח)**, _ruaj_, es aproximada y contextual: ambos campos pueden incluir aliento y disposición, pero no son formas del mismo idioma ni deben confundirse como identidad lexical.
+
+Después viene el propósito: conocer **(εἰδῶμεν)**, _eidomen_, «conocer o reconocer», lo que Elohim concedió. El texto no describe una intuición privada desligada de la enseñanza apostólica. La secuencia don–conocimiento explica por qué Eric relaciona ruaj con mente: el ruaj capacita para discernir, pero el pasaje no define cada aparición hebrea de **(רוח)** como «mente».
+
+Finalmente aparece la cita de `#ieshaiahu_40_13`: **(νοῦν)**, _noun_, acusativo de _nous_, «mente, entendimiento o pensamiento», traduce en la cadena griega la pregunta por el ruaj de יהוה. La forma acusa una función sintáctica de objeto, no una doctrina de que «ruaj» y «nous» sean equivalentes en todos los contextos. Y la frase **(νοῦν Χριστοῦ)**, _noun Christou_, «mente de Mashíaj», describe la participación concedida al pueblo. La clase puede llamarla «mente de arriba» como síntesis pedagógica; la prueba local exige mantener el verbo recibir, el propósito conocer y el contraste con el hombre natural.
+
+Esta secuencia también corrige una posible exageración. `#iojanan_12_49-50` muestra a Yeshúa diciendo que no habla desde sí mismo y que el mandamiento recibido de Abba es vida olam. El sentido contextual de **(ἐντολή)**, _entolē_, es «mandamiento, encargo o instrucción», no «mente» por definición. Por tanto, los textos convergen en obediencia revelada: el Hijo habla lo que recibe y la comunidad discierne lo que recibe. La identificación teológica de esa revelación con יהוה manifestado pertenece al argumento de la clase; las equivalencias de términos deben seguir siendo graduadas.
+
+La aplicación pastoral queda así: pedir el ruaj no es reclamar acceso a secretos ni usar «Abba» para suspender la prueba bíblica. Es recibir capacidad para leer la palabra, reconocer su fuente y someter la propia interpretación al Mesías. Esa formulación conserva la intuición concreta de Eric y evita que una metáfora de profundidad sustituya el contexto de cada término.
+
 ## Conexiones principales
 
 - [[markos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]: nota hermana sobre Abba y Getsemaní.

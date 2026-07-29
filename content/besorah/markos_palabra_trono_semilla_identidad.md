@@ -187,6 +187,18 @@ Esos datos hacen legítima la pregunta, pero no bastan para cerrarla:
 
 La conclusión segura es más modesta: «carpintero» no debe tratarse como traducción indiscutible, y la opción «agricultor» de TTH merece ser examinada junto al griego, el hebreo y el contexto galileo.
 
+## Prueba ordenada: palabra, semilla y fruto
+
+La tesis de Eric no depende de juntar imágenes por asociación libre. Marcos da una progresión explícita. En `#markos_4_14`, **(ὁ σπείρων)**, _ho speirōn_, es «el que siembra», participio presente de **(σπείρω)**, «sembrar»; y **(ὁ λόγος)**, _ho logos_, es «la palabra, el mensaje o el dicho». La equivalencia entre _logos_ y «semilla» no es lexical: el versículo dice que la semilla representa la palabra. Conviene mantener esa relación gramatical antes de aplicarla pedagógicamente al Mesías.
+
+Luego `#markos_4_26-29` cambia el foco hacia el crecimiento. **(αὐτομάτη)**, _automatē_, significa «por sí misma» o «de manera espontánea» en el relato; no autoriza a imaginar una cosecha sin sembrador, tierra ni tiempo. La semilla brota, crece y llega a la cosecha mientras el hombre duerme y se levanta. Eric usa este orden para enseñar que el reino no se mide por el tamaño inicial de la manifestación. El texto respalda el crecimiento que no controla el observador, pero la identificación directa de cada etapa con una fase biográfica de Yeshúa es interpretación de la clase.
+
+En `#markos_4_30-32` aparece **(βασιλεία)**, _basileia_, «reino, reinado o autoridad real», y el **(κόκκος σινάπεως)**, _kokkos sinapeōs_, «grano de mostaza». «Reino de los cielos» es una formulación equivalente de tradición sinóptica, no la traducción de _basileia_ por «cielo». El pequeño comienzo y las ramas grandes sostienen la observación de Eric sobre una autoridad que se manifiesta en pequeñez y después ofrece sombra. La mención de las aves permite una conexión con imágenes proféticas, pero no prueba por sí sola que cada ave represente a las naciones.
+
+La secuencia desemboca en `#markos_8_35`. **(ἀπολέσει)**, _apolesei_, forma futura de **(ἀπόλλυμι)**, «perder, destruir o arruinar», aparece junto a **(σώσει)**, _sōsei_, futuro de **(σῴζω)**, «salvar, rescatar o preservar». Marcos vincula perder la vida por causa de Yeshúa con salvarla por causa de la Besorah. No presenta una técnica de autosacrificio ni separa al Mesías del anuncio: el contexto exige lealtad a una persona y a un mensaje. Esa es la prueba narrativa de la enseñanza, no una definición aislada de «vida».
+
+Así, la ruta canónica queda en orden: el sembrador identifica la semilla como palabra; la palabra crece hasta cosecha; el reino se muestra pequeño y extenso; y el discípulo confirma su recepción entregando la vida por Yeshúa y la Besorah. La silla de Moshéh funciona como control ético de esa lectura: quien enseña crecimiento debe hacer la palabra, no solo describirla. La nota conserva la crítica concreta de Eric a la autoridad sin misericordia, pero deja como pendiente cualquier reconstrucción histórica que el texto local no demuestra.
+
 ## Conexiones principales
 
 - #tehilim_119_89 con #matityahu_23_2-3: la palabra firme en los cielos limita la autoridad de la silla en la tierra.
