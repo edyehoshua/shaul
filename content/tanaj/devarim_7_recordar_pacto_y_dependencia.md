@@ -236,6 +236,26 @@ El v. 9 continúa: **וידעת כי יהוה אלהיך הוא האלהים ה�
 
 Esta distinción también evalúa la advertencia contra atribuirse la fuerza. Israel puede ser posesión especial sin poder reclamar autonomía: 7:10–11 une la retribución del que aborrece con el mandato de guardar estatutos, leyes y mandamientos. Eric acierta al denunciar el orgullo, pero el capítulo no reduce la elección a una experiencia interior ni la obediencia a una señal opcional. La secuencia completa es textual: יהוה ama, escoge y guarda; Israel conoce, escucha y guarda. La aplicación de «dependencia agradecida» es **pedagógica**, siempre que deje visibles esos verbos y no los reemplace por una doctrina abstracta de prosperidad.
 
+## La memoria responde al temor y a la fuerza recibida
+
+La exposición de Eric en `youtube:qoPOuZN5G4c` no reduce «recordar» a una consigna emocional: lo coloca contra la tentación de decir «por mi fuerza hice esto» y contra la definición de libertad como hacer lo que uno sabe que debe hacer. Devarim 7:17-19 da el contexto exacto. El OE dice **כי תאמר בלבבך רבים הגוים האלה ממני איכה אוכל להורישם לא תירא מהם זכור תזכר את אשר עשה יהוה אלהיך לפרעה ולכל מצרים**, y el TTH conserva la pregunta por los pueblos numerosos, el mandato de no temer y el recuerdo de lo que יהוה hizo a Faraón y a Mitsraim. La aplicación de Eric recibe apoyo textual cuando la memoria mira a una liberación histórica; «visualizar una victoria» sería una equivalencia pedagógica, no el sentido de la forma.
+
+**(זכור תזכר)**, _zakhor tizkor_, combina un imperativo de זכר, _zakar_, «recordar, traer a la memoria», con una forma que intensifica el mismo verbo. Su fuerza contextual es hacer presente la acción salvadora de יהוה para interpretar una amenaza visible; «no olvidar emocionalmente» es aproximado y demasiado estrecho. **(ירא)**, _yare_, significa temer o reverenciar; aquí nombra miedo ante los pueblos, no reverencia cultual. «Pensamiento positivo» es inexacto: el texto no niega la superioridad numérica, sino que la somete al recuerdo de la mano fuerte de יהוה.
+
+La misma corrección aparece en Devarim 8:17-18. OE dice **ואמרת בלבבך כחי ועצם ידי עשה לי את החיל הזה וזכרת את יהוה אלהיך כי הוא הנתן לך כח לעשות חיל**, mientras TTH contrapone «mi fuerza y el poder de mi mano» con el reconocimiento de que יהוה da fuerza para hacer capacidad o virtud. **(כח)**, _koaj_, significa fuerza o capacidad; **(עצם)**, _etsem_, significa hueso, sustancia o fuerza esencial y aquí refuerza la autoatribución; **(חיל)**, _jail_, puede significar fuerza, capacidad, riqueza o ejército. La clase acierta al denunciar la apropiación orgullosa, pero «prosperidad» no es equivalencia exacta: la unidad habla de capacidad dentro del desierto, la tierra y el pacto.
+
+La libertad que Eric formula como «hacer lo que sabes que tienes que hacer» es una síntesis pastoral. El texto la puede sostener solo al recorrer la cadena de Devarim 11:22: amar, andar y adherirse a יהוה. **(הלך)**, _halakh_, significa caminar o ir; aquí su fuerza es conducirse por los caminos de יהוה. **(דבק)**, _davaq_, significa pegarse, adherirse o permanecer unido; «comunión» es una equivalencia pedagógica y aproximada. La memoria no fabrica autonomía: recuerda al Dador, corrige el temor y vuelve visible una obediencia que responde al pacto.
+
+## Mapa ampliado: recordar, obedecer y no apropiarse
+
+| Unidad textual   | Observación concreta de Eric                                                                                        | Evaluación frente a OE y TTH                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Devarim 7:17-19  | El pueblo debe recordar la liberación cuando vea pueblos más grandes y no permitir que el temor dicte el resultado. | Apoyo directo: **זכור תזכר** intensifica el recuerdo de Faraón y Mitsraim; la aplicación a toda ansiedad moderna es pedagógica.   |
+| Devarim 8:17-18  | No decir «mi fuerza»; la capacidad debe atribuirse a יהוה.                                                          | Apoyo directo para la corrección del orgullo; el alcance de **חיל** queda contextual y no equivale automáticamente a prosperidad. |
+| Devarim 11:22-25 | La libertad se muestra en amar, andar y adherirse a יהוה, no en hacer cualquier cosa.                               | Síntesis pastoral apoyada por la secuencia verbal; no es una definición léxica de «libertad».                                     |
+
+Este recorrido conserva la observación real de la clase sin confundir aplicación y traducción. Es exacto que el discurso vincula memoria con la obra histórica de יהוה y niega que Israel pueda atribuirse la fuerza; es aproximado trasladar ese eje a toda experiencia moderna; y sería inexacto convertirlo en una promesa de éxito individual. La parashá mantiene juntas elección, obediencia y dependencia.
+
 ## Ver también
 
 - [[bereshit_12_llamado_promesa_y_bendicion|Bereshit 12: llamado, promesa y bendición]]
