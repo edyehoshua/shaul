@@ -108,6 +108,12 @@ Este recorrido en tres movimientos explica el énfasis de Eric sin borrar las di
 - [ ] Revisar con una gramática hebrea más amplia los matices de _mesapperim_, _meshivat_ y _shegigot_.
 - [ ] Verificar las citas intertextuales que Eric evoca de Isaías 60:21, Filipenses 2:15-16, Hechos 17:30 y 2 Timoteo 3:15 antes de desarrollar una nota enlazada sobre ellas.
 
+## Prueba del movimiento creación–Torah–oración
+
+El texto local confirma que las tres partes no son temas yuxtapuestos. Primero, **השמים מספרים כבוד אל** («los cielos cuentan la gloria de El», 19:2) y **יום ליום יביע אמר** («día a día expresa un dicho», 19:3) presentan un testimonio universal; después, **תורת יהוה תמימה משיבת נפש** («la Torah de יהוה es íntegra, restaura la vida», 19:8) convierte ese testimonio en instrucción que transforma; por último, **שגיאות מי יבין מנסתרות נקני** («¿quién entiende los errores? límpiame de los ocultos», 19:13) somete al propio testigo a la palabra que anuncia. La insistencia de Eric en una vida visible no sustituye la exégesis: nace del giro interno del salmo.
+
+La conclusión también limita la aplicación. **גם מזדים חשך עבדך** («también de los presuntuosos guarda a tu siervo», 19:14) muestra que comunicar la Torah no coloca al expositor por encima de ella. Solo después aparece **יהיו לרצון אמרי פי והגיון לבי** («sean aceptables los dichos de mi boca y la meditación de mi corazón», 19:15). Así, la conexión de la clase entre enseñanza y testimonio es pedagógicamente fuerte, mientras que la afirmación textual exacta es más humilde: el salmista pide que יהוה, su roca y redentor, haga aceptables su palabra y su interior.
+
 ## Conclusión
 
 Tehilim 19 no deja la gloria en el cielo ni la Torah en una definición abstracta. El anuncio de la creación conduce a una palabra que restaura, instruye y alumbra; esa palabra conduce a una confesión humilde sobre errores, faltas ocultas y pecado soberbio. Eric acierta al exigir que el testimonio se vea en una vida que comunica la Torah, pero el salmo también recuerda que la limpieza y la aceptación dependen de יהוה. Por eso la oración final es la respuesta adecuada: que la boca, el corazón y la conducta sean recibidos por la Roca y Redentor.

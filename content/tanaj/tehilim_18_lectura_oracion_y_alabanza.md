@@ -124,6 +124,12 @@ El orden del poema importa para la lectura de Eric. La angustia de 18:5-7 no se 
 - [ ] Comparar la sintaxis temporal de Tehilim 18 con Shemuel Bet 22 y una gramática hebrea antes de convertir todos los futuros en profecía directa.
 - [ ] Revisar la afirmación histórica sobre la prohibición de que David construyera el templo y distinguirla del argumento poético del salmo.
 
+## Prueba de la secuencia propuesta
+
+La lectura de Eric se sostiene mejor cuando se respeta la progresión completa del poema. El clamor de **אפפוני חבלי מות** («me rodearon los lazos de muerte», 18:5) no se salta directamente a la victoria: conduce a **בצר לי אקרא יהוה** («en mi angustia llamé a יהוה», 18:7), luego a **ישלח ממרום יקחני** («envió desde lo alto y me tomó», 18:17) y finalmente a **ויוציאני למרחב** («me sacó a espacio amplio», 18:20). Por eso la clase puede extender el rescate hacia el Mesías sin borrar el testimonio de David: el texto ofrece primero una experiencia de aflicción y rescate, no una alegoría desligada del encabezado.
+
+La segunda mitad confirma el criterio de prueba. **כי כל משפטיו לנגדי** («todos sus juicios están delante de mí», 18:23) precede a la instrucción para el combate, mientras que **מגדל מגדיל ישועות מלכו** («engrandece las salvaciones de su rey», 18:51) precede a la mención de **משיחו** y de la simiente. La observación mesiánica de Eric tiene un anclaje real en el cierre, pero la identificación plena con Yehoshua sigue siendo una lectura tipológica: el salmo nombra al rey ungido y su descendencia, y la Besorah aporta el desarrollo posterior.
+
 ## Conclusión
 
 Tehilim 18 recuerda un rescate real, pero lo canta con una escala que alcanza el juicio, las aguas, las naciones, el ungido y la simiente. Eric observa que el poema se mueve del David histórico hacia una figura mesiánica; el texto local sostiene la progresión de rescate, integridad, guerra, victoria y alabanza, aunque no resuelve por sí solo cada identificación. La lectura más responsable conserva el vigor de la enseñanza y también sus fronteras: יהוה es la roca, el escudo y quien ensancha el camino; el cierre mantiene abierta la esperanza del rey ungido y su simiente para siempre.
