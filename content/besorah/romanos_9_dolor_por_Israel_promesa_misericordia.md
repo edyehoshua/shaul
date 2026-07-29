@@ -253,7 +253,6 @@ En 9:14-18, **(ἐλεέω)**, _eleeō_, significa tener misericordia o mostrar 
 El capítulo conserva además la voz de la criatura que objeta y la respuesta del formador. **(ἐγείρω)**, _egeirō_, significa levantar, suscitar o hacer aparecer; en 9:17 introduce a Faraón en una finalidad pública. «Levantar» es **directo**, mientras afirmar que el verbo equivale a «salvar» sería **ilegítimo**. **(ἐξουσία)**, _exousia_, significa autoridad o potestad; en 9:21 la imagen del alfarero comunica autoridad del formador sobre el barro, pero no autoriza al lector a reclamar esa potestad para juzgar el destino secreto de otras personas.
 
 La perícopa termina con promesa, remanente, misericordia y tropiezo, no con una teoría abstracta separada de Israel. La enseñanza atribuible a Eric queda mejor evaluada siguiendo el orden: propósito histórico, objeción de la criatura, paciencia del formador y respuesta ante la piedra de tropiezo. La conclusión es **textual** cuando limita lo que Romanos 9:17 afirma sobre Faraón y **pedagógica** cuando usa esa distinción para frenar la superioridad o el fatalismo.
-
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
