@@ -210,6 +210,14 @@ El cierre repite tres bienes que moderan la imagen bélica: **εἰρήνη**, _
 
 Por eso la palabra **ἀφθαρσία**, _aphtharsia_, «incorrupción o permanencia no corrompida», califica el amor con que se ama al Señor (#ephesians_6_24), no una licencia para declarar impecable cualquier conducta de un grupo. La clase puede hablar de permanencia y fidelidad; el texto las prueba en paz, amor, fe, noticia veraz, oración y gracia. La resistencia termina sirviendo.
 
+## De la armadura al testimonio confiable
+
+La última unidad no abandona la escena de la lucha para iniciar un tema desconectado. Pablo pide que oren **περὶ πάντων τῶν ἁγίων**, (peri pantōn tōn hagiōn), «por todos los santos», y que oren también por él para que le sea dada palabra al abrir la boca (#ephesians_6_18-20). **Δέησις**, (deēsis), «súplica o petición», especifica una necesidad presentada ante Elohim; no es una contraseña para controlar acontecimientos. **Παρρησία**, (parrēsia), «franqueza, libertad o confianza para hablar», califica el anuncio, no la agresividad del mensajero.
+
+La observación de Eric sobre estudiar y discernir antes de repetir una enseñanza queda mejor probada por esta dependencia: la armadura produce vigilancia, oración por otros y comunicación responsable. El verbo **γνωρίσει**, _gnōrisei_, «hará saber o dará a conocer», describe la tarea de Tíquico en 6:21; sus noticias deben consolar, **παρακαλέσῃ**, _parakalesē_, «animar o consolar», a los corazones. El cierre convierte la firmeza en una práctica comprobable: recibir información veraz, sostener a la comunidad y pedir valentía para anunciar el misterio, no atribuir autoridad espiritual a rumores.
+
+El saludo final confirma el criterio. **Εἰρήνη**, (eirēnē), «paz», **ἀγάπη**, (agapē), «amor», y **χάρις**, (charis), «gracia o favor», acompañan la fe y la permanencia del amor a Yehoshua (#ephesians_6_23-24). Su relación temática con **(שלום)**, (shalom), es útil pero aproximada: el griego del cierre gobierna la conclusión. Por tanto, la lectura de la clase sobre una comunidad que permanece unida se apoya en el movimiento completo de la carta: autoridad limitada, resistencia no dirigida contra personas, oración y comunicación que edifican.
+
 ## Verificación dirigida: de la autoridad limitada al servicio comunicativo
 
 La lectura atribuible de Eric sobre autoridad bajo el Señor se prueba por el orden del capítulo, no por una jerarquía abstracta. **ὑπακούετε**, _hypakouete_, «escuchen y obedezcan», aparece para hijos y siervos; en ambos casos el contexto limita la respuesta: los hijos obedecen **ἐν Κυρίῳ**, _en Kyriō_, «en el Señor», y los siervos no convierten al señor humano en autoridad absoluta. A los padres se les ordena **ἐκτρέφετε**, _ektrephete_, «críen o alimenten», y a los señores **ἀνιέντες**, _anientes_, «dejen o cesen», las amenazas. La correspondencia con **(יראה)**, _yirah_, «temor reverente», puede orientar el matiz de 6:5, pero no legitima intimidación.

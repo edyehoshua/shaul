@@ -170,6 +170,14 @@ En 6:17–20, **(συνέδησεν)**, _synedēsen_, «ató o encarceló», y *
 
 Cuando los enviados regresan, **(συναχθέντες)**, _synachthentes_, «reunidos», cuentan lo que hicieron y enseñaron; Yehoshua responde con **(ἀναπαύσασθε)**, _anapausasthe_, «descansen». La cadena une persecución, servicio y límite corporal: el mismo capítulo que muestra la muerte de un testigo reconoce que los enviados necesitan descanso antes de volver a servir. Así, la compasión posterior hacia la multitud no borra el duelo ni convierte la misión en rendimiento ilimitado.
 
+## El borde del manto y la compasión que llega a las aldeas
+
+El cierre de 6:53-56 devuelve la lectura desde la barca a los cuerpos concretos de las aldeas. Al desembarcar en Genesaret, la gente reconoce a Yehoshua, corre por la región y lleva a los enfermos en camillas. Marcos repite que los colocan en plazas y que le ruegan tocar **τοῦ κρασπέδου τοῦ ἱματίου**, _tou kraspedou tou himatiou_, «el borde o fleco de su manto»; **κρασπέδον**, _kraspedon_, puede designar el borde, fleco o borla de una vestidura, y aquí no funciona como una fórmula mágica aislada del encuentro con Yehoshua.
+
+La exposición de Eric presenta la compasión como algo que se verifica en la enseñanza, el pan, la presencia en el mar y la sanidad. El texto confirma esa secuencia sin afirmar que cada persona recibió una explicación idéntica: «cuantos lo tocaban» eran salvados, **διεσῴζοντο**, _diesōzonto_, «eran salvados, preservados o sanados» según el contexto. La equivalencia con **(ציצת)**, _tsitsit_, «flecos o borlas», es temática y aproximada; Marcos no desarrolla aquí una exégesis de Números 15. La forma griega y la acción narrativa deben permanecer en primer plano.
+
+Así, el capítulo no termina con el prodigio del mar como espectáculo. El mismo Yehoshua que dice «soy yo» a los discípulos vuelve a la tierra, donde la gente busca ayuda y la recibe en el espacio público. El contraste con Nazaret queda abierto: el conocimiento familiar puede producir tropiezo, mientras quienes reconocen al maestro llevan a los vulnerables hasta él. Es una inferencia narrativa apoyada por la repetición de reconocer, llevar y tocar; no una regla que permita medir la fe de cada persona por el resultado de una enfermedad.
+
 ## Conclusión
 
 Marcos 6 presenta una misión que no nace de la autopromoción: Yehoshua envía, da autoridad, recibe el informe y manda descansar. El rechazo en Nazaret, la muerte de Iojanán y el viento contrario impiden una lectura triunfalista. Sin embargo, el capítulo tampoco deja a los enviados en la escasez o a la multitud sin atención: el maestro enseña, da pan, llega a la barca y sana a quienes acuden. La fidelidad que la clase llama emunah se prueba justamente allí: en escuchar la orden, servir con lo que se recibe y volver a reconocer a Yehoshua cuando el temor oscurece la comprensión.
