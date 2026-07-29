@@ -112,7 +112,7 @@ En 5:28-30 el argumento vuelve al cuerpo: amar a la esposa «como a su propio cu
 ## Hoja léxica
 
 | Forma                      | Transliteración      | Sentido normal y fuerza contextual                                 | Correspondencia y cautela                                                                                                                   |
-| -------------------------- | -------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| -------------------------- | -------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **(ἀγαπάω)**               | _agapaō_             | amar con una entrega que busca el bien del otro                    | En 5:2 y 5:25 sostiene el amor ofrecido por el Mesías; no equivale automáticamente a emoción o permisividad.                                |
 | **(φῶς)** / **(σκότος)**   | _phōs_ / _skotos_    | luz / oscuridad                                                    | La oposición describe una manera de vivir y discernir; “luz” no funciona como etiqueta para juzgar exteriormente a una persona.             |
 | **(καιρός)**               | _kairos_             | ocasión, tiempo oportuno                                           | En 5:16 fundamenta aprovechar la oportunidad; la aplicación a calendarios o productividad moderna es pedagógica, no definición exhaustiva.  |
