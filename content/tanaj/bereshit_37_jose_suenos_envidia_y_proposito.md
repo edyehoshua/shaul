@@ -136,6 +136,16 @@ Así, la evaluación debe caminar en orden. Primero, el texto registra favoritis
 - [ ] Estudiar la relación narrativa entre madanitas e ismaelitas sin armonizarla más allá de los datos de Bereshit 37.
 - [ ] Revisar las conexiones de la clase con “verdad, juicio y paz” en Bereshit 38–40 y distinguir cada desarrollo posterior del sentido inmediato de este capítulo.
 
+## La verdad del encargo y la evidencia fabricada — vv. 12-36
+
+La secuencia completa contrasta dos usos de una señal. Jacob envía a José con **ראה נא**, _re'eh na_, «mira, por favor», y el TTH vierte la misión como comprobar el bienestar de los hermanos. **נא**, _na_, es una partícula de ruego o cortesía; su fuerza contextual hace del encargo una petición urgente pero no una orden para dominar. La exposición de Eric sobre verdad y paz se sostiene en este detalle: la paz debe ser buscada mediante una comprobación concreta, no proclamada desde lejos.
+
+Cuando los hermanos deciden falsear la muerte, el verbo cambia de registro. Dicen **ונשלכהו באחד הבורות**, «lo arrojaremos en uno de los pozos» (TTH, 37:20), y luego toman la túnica y la sumergen en sangre. **כסה**, _kasah_, significa cubrir u ocultar; aunque la forma exacta aparece en la frase «ocultemos su sangre» (37:26), su fuerza contextual describe encubrimiento de responsabilidad, no una cobertura que restaure la vida. La clase observa que el juicio humano puede construir un relato para protegerse; aquí OE y TTH muestran el procedimiento: despojo, venta, sangre y una pregunta dirigida a Jacob.
+
+La fórmula **הכר נא**, _haker na_, «reconoce, por favor», merece atención porque repite una invitación a interpretar una prueba. **נכר**, _nakar_, significa reconocer, identificar o discernir; en 37:32 su fuerza no es una investigación neutral, sino una pregunta que entrega a Jacob una evidencia manipulada. «Discernir espiritualmente» sería una aplicación **pedagógica** y demasiado amplia; la equivalencia aproximada es «reconoce». Jacob reconoce la túnica, pero no reconoce la maniobra. Así, la nota de Eric sobre verdad, juicio y paz queda confirmada con un límite: una señal visible puede guiar el juicio hacia una conclusión falsa.
+
+El final dice que los madanitas vendieron a José a Mitsráyim, a Potifar. OE presenta **והמדנים מכרו אתו אל מצרים לפוטיפר**; TTH: «los madanitas lo vendieron a Mitzráyim, a Potifar» (37:36). **מכר**, _makhar_, significa vender; su correspondencia aquí es **exacta**, mientras «entregar para un propósito» es una lectura teológica posterior. El propósito providencial solo puede declararse plenamente desde Bereshit 45:5 y 50:20. En el capítulo 37, la venta sigue siendo una transgresión humana real y el duelo de Jacob sigue siendo verdadero.
+
 ## Conclusión
 
 Bereshit 37 no romantiza la familia ni convierte los sueños en una autorización para el orgullo. Muestra una casa asentada en la tierra, pero fracturada por favoritismo, odio y engaño; muestra también que la violencia de los hermanos no logra cerrar la historia de José. La preservación se verá con mayor claridad después, mientras este capítulo llama a juzgar los actos por lo que son y a esperar la obra de יהוה sin llamar bueno al mal.

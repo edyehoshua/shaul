@@ -134,6 +134,16 @@ Eric conecta esta transmisión con su lectura de la fidelidad de Yehoshua y con 
 - Shemot 19:4 — la imagen de llevar a Israel sobre alas enlaza con el águila de 32:11.
 - Tehilim 18:2 — la Roca como refugio desarrolla la metáfora sin borrar su dimensión de juicio.
 
+## La palabra completa y el límite de una aplicación mesiánica — vv. 44-52
+
+La última unidad no permite cerrar el canto en una consigna de consuelo. OE conserva la orden: **שימו לבבכם לכל הדברים אשר אנכי מעיד בכם היום**; TTH: «aplicad vuestro corazón a todas las palabras que yo os testifico hoy» (32:46). El adjetivo **כל**, _kol_, significa «todo» o «cada»; su fuerza contextual impide seleccionar solo la promesa y dejar fuera la acusación. «Aplicar» es una equivalencia **aproximada** de poner o fijar el corazón; no significa convertir el texto en una impresión subjetiva. La exposición de Eric sobre retener la palabra queda respaldada, pero el «todo» del versículo exige recibir también el juicio y el límite.
+
+El v. 47 añade: **כי לא דבר רק הוא מכם כי הוא חייכם**, «porque no es palabra vacía de vosotros, porque es vuestra vida» (TTH). **חיים**, _hayyim_, es «vida» en forma plural intensiva; aquí su fuerza contextual señala la palabra como condición vital para permanecer en la tierra, no como promesa de comodidad inmediata. «Vida espiritual» sería una aplicación **pedagógica**, no la equivalencia exacta del sustantivo. El poema enseña eficacia y responsabilidad juntas: la palabra desciende como lluvia, pero la comunidad debe ponerla en el corazón y hacerla transmisible.
+
+Moshe recibe después la orden de subir al monte Nebo y ver la tierra que Israel recibirá. OE dice **עלה אל הר העברים הזה הר נבו וראה את ארץ כנען** y TTH: «sube a este monte de los Avarim, el monte Nebo… y mira la tierra de Kenáan». **אחזה**, _ahuzzah_, significa posesión o propiedad; aquí describe la herencia dada a Israel, no una posesión que Moshe adquiere por contemplarla. La observación pastoral de Eric sobre una promesa que permanece firme puede sostenerse solo con esta distinción: la fidelidad de la Roca asegura la dádiva al pueblo, mientras el mediador queda sometido a la palabra que lo juzga.
+
+Esta unidad refuerza la evaluación de las tres exposiciones asociadas a este capítulo. La Roca es fiel, pero su fidelidad no cancela el «todo» del testimonio; el canto produce vida, pero demanda una respuesta comunitaria; la promesa continúa, pero no convierte a cada servidor en dueño de la herencia. La lectura mesiánica puede recibir este patrón como anticipación **tipológica y pedagógica**, no como equivalencia exacta de cada forma hebrea.
+
 ## Conclusión
 
 La fidelidad de la Roca es el criterio que ordena todo el canto. יהוה es completo en su obra y recto en sus caminos; por eso Israel debe recordar el cuidado recibido, reconocer su corrupción y esperar la justicia que él mismo ejecuta. La enseñanza pública de Eric queda mejor evaluada cuando «la Roca» no se separa de _emunah_, juicio, disciplina y reconciliación.
