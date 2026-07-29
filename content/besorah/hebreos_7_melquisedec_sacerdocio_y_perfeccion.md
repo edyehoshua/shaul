@@ -134,6 +134,11 @@ La misma secuencia limita la cronología. El texto termina diciendo que la palab
 - [[tehilim_110_senorio_sacerdocio_y_juicio|Tehilim 110: señorío, sacerdocio y juicio]] aporta la fórmula “sacerdote para siempre” que Hebreos 7 interpreta.
 - [[hebreos_8_pacto_mejor_y_servicio_celestial|Hebreos 8: pacto mejor y servicio celestial]] desarrolla la consecuencia celestial del sacerdocio que 7 presenta como permanente.
 
+## Pendiente de verificar
+
+- [ ] Comprobar en una gramática hebrea y en comentarios de Hebreos la explicación de Eric sobre la polisemia de **אלהים** y su relación con los usos de “mensajero”, “juez” y “sumo sacerdote” que la clase recapitula al inicio. Esa observación pertenece al marco de Hebreos 1–2; no debe usarse como definición del nombre en 7:1-28.
+- [ ] Localizar la referencia exacta de los comentaristas que Eric menciona al discutir la ubicación de Salem. Hebreos 7:1-3 sí interpreta el nombre y la ausencia de genealogía, pero no decide por sí solo la geografía histórica de Salem.
+
 ## Ver también
 
 - [[hebreos_6_esperanza_ancla_y_sacerdocio|Hebreos 6: esperanza, ancla y sacerdocio]]

@@ -120,6 +120,16 @@ El texto local da contenido a la comparación de 8:6-13. El versículo 6 llama a
 
 La cita de Yirmeyahu aporta la prueba material y también fija sus límites. 8:8-10 mantiene a Israel y Judá como destinatarios y promete: **וְכָרַתִּי אֶת־בֵּית יִשְׂרָאֵל וְאֶת־בֵּית יְהוּדָה בְּרִית חֲדָשָׁה** y **נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתֳּבֶנָּה**. La forma **תורה** (_torah_) significa “instrucción, enseñanza o ley”; aquí designa el contenido que Elohim interioriza, no algo que la promesa elimine. Después 8:12 añade **כִּי אֶסְלַח לַעֲוֹנָם ... לׂא אֶזְכָּר־עוֹד**, perdón y no imputación, y 8:13 dice que el primer pacto envejeció: **הִנֵּה כְּשֶׁאָמַר בְּרִית חֲדָשָׁה יִשֵּׁן אֶת־הָרִאשׁוֹנָה**. Por eso Eric puede defender una mejora que interioriza la instrucción y trae perdón, pero la reconstrucción sobre el becerro de oro y la temporalidad exacta del orden levítico sigue siendo una **propuesta histórica atribuida**, no una conclusión exhaustiva de Hebreos 8.
 
+## Conexiones principales
+
+- [[hebreos_7_melquisedec_sacerdocio_y_perfeccion|Hebreos 7: Melquisedec, sacerdocio y perfección]] prepara el sacerdocio permanente que Hebreos 8 resume.
+- Yirmeyahu 31:31-34 aporta el texto profético citado en 8:8-12.
+- [[hebreos_9_santuario_conciencia_y_redencion|Hebreos 9: santuario, conciencia y redención]] desarrolla la purificación y el acceso que el pacto mejor sostiene.
+
+## Pendiente de verificar
+
+- [ ] Cotejar la reconstrucción histórica de Eric según la cual el sacerdocio levítico y sus sacrificios se establecen como administración temporal después del becerro de oro, frente a la vocación de Éxodo 19:5-6. Hebreos 8:5-6 sostiene la relación entre modelo, servicio y realidades celestiales, pero no narra por sí solo toda esa transición.
+- [ ] Verificar la afirmación histórica de la clase sobre la composición y transmisión de Tehilim antes de usarla como argumento para clasificarlo como libro profético. En Hebreos 8 la autoridad comprobable es la cita de Yirmeyahu 31:31-34 y su contenido, no esa reconstrucción de la historia editorial.
 ## Ver también
 
 - [[hebreos_7_melquisedec_sacerdocio_y_perfeccion|Hebreos 7: Melquisedec, sacerdocio y perfección]]
