@@ -1,12 +1,16 @@
 ---
-title: "Bereshit 25: Promesa, herencia y la elección de Jacob"
-description: "Nota canónica de Bereshit 25, organizada a partir de una clase de la serie Parashot 2016-2017."
-date: 2026-07-27
+title: "Bereshit 25: promesa, primogenitura y el mayor que sirve al menor"
+description: "Estudio canónico de Bereshit 25 sobre la oración de Yitsjaq, el oráculo de Rivqah, la primogenitura y la inversión anunciada por יהוה."
+date: 2026-07-29
 tags:
   - parashot
   - bereshit
+  - primogenitura
+  - promesa
 references:
-  - "#bereshit_25_1"
+  - "#bereshit_25_19-23"
+  - "#bereshit_25_27-28"
+  - "#bereshit_25_29-34"
 sources:
   - "https://www.youtube.com/watch?v=MhGbDzmcCGg"
   - "docs/scriptures/oe/json/genesis/25.json"
@@ -17,35 +21,63 @@ translation: "[OE]"
 
 # Tesis
 
-Bereshit 25 abre un tramo que sitúa la vida del pueblo delante de יהוה. La clase de la serie _Parashot 2016-2017_ ofrece una lectura temática del pasaje; esta nota conserva como ancla el texto bíblico y distingue sus aplicaciones del sentido explícito del capítulo.
+Bereshit 25 presenta la promesa antes de las maniobras familiares: Yitsjaq ora, Rivqah consulta a יהוה y el oráculo anuncia que el mayor servirá al menor. La sesión de Eric se titula «El abundante trabajará pequeño» y pone en primer plano la inversión de grandeza contenida en «ורב יעבד צעיר». El capítulo confirma esa dirección, pero también muestra que la primogenitura no debe tratarse como una abstracción: Esav la desprecia por hambre y Yaakov la obtiene mediante una transacción concreta.
 
 ## Alcance de la nota
 
-Esta es la nota canónica para Bereshit 25 dentro de esta incorporación. La transcripción automática de la clase se usa para identificar su tema y su pasaje de partida, no como cita literal verificable. El título de la sesión —«Parashat Toldot (2016) Gn 25:19-28:9 El abundante trabajará pequeño»— orienta la selección temática, pero las afirmaciones doctrinales, históricas o léxicas que excedan el texto requieren cotejo adicional.
+Esta es la nota canónica de la sesión pública de Eric de Jesús Rodríguez Mendoza sobre Bereshit 25:19-28:9. Se desarrolla aquí el capítulo 25 en su orden textual; el título público es la evidencia atribuible del énfasis «el abundante trabajará pequeño», mientras que las observaciones verso a verso se prueban con el texto local. La transcripción automática no se presenta como cita literal.
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo local (OE, sin nikud)           | Observación                                                                                           |
-| -------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_25_1 | **ויסף אברהם ויקח אשה ושמה קטורה** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| Unidad   | Texto local OE, sin nikud                                                                                 | Fuerza del argumento                                                                                |
+| -------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 25:19-23 | **ואלה תולדת יצחק בן אברהם אברהם הוליד את יצחק** … **ורב יעבד צעיר**                                      | La historia nace dentro de la casa de Yitsjaq y el oráculo anuncia la inversión entre los hermanos. |
+| 25:27-28 | **ויגדלו הנערים ויהי עשו איש ידע ציד איש שדה ויעקב איש תם ישב אהלים** … **ויאהב יצחק את עשו כי ציד בפיו** | Las diferencias de los hermanos y el favoritismo preparan el conflicto.                             |
+| 25:29-34 | **מכרה כיום את בכרתך לי** … **ויבז עשו את הבכרה**                                                         | La primogenitura se intercambia por comida y el narrador juzga el desprecio de Esav.                |
 
-## Lectura inicial
+## Mapa de la enseñanza de Eric
 
-El comienzo de Bereshit 25 establece el marco inmediato de la sección. La clase vincula este tramo con «promesa, herencia y la elección de jacob»; esa relación puede servir como guía de lectura, siempre que no sustituya el desarrollo concreto del texto ni convierta una formulación de la exposición en una cita bíblica.
+- **Bereshit 25:19-23 — «el abundante trabajará pequeño»:** el título de la sesión presenta como observación central la inversión entre el mayor y el menor. El texto apoya directamente **ורב יעבד צעיר**; «abundante» es una paráfrasis pedagógica de רב, no una sustitución de «mayor».
+- **Bereshit 25:21-23 — la palabra precede al conflicto:** Eric sitúa la dirección de la casa bajo la respuesta recibida por Rivqah, no bajo el apetito o el favoritismo posteriores. El orden narrativo confirma que la consulta y el oráculo preceden a la venta de la primogenitura.
+- **Bereshit 25:27-34 — primogenitura y apetito:** la lectura contrasta al hombre de campo con el habitante de tiendas y observa que Esav trata la primogenitura como algo sacrificable por un guiso. El relato lo confirma y concluye explícitamente que la despreció.
 
-La respuesta responsable al pasaje parte de escuchar su lenguaje, sus destinatarios y su continuidad narrativa. Las conexiones con Yehoshua y con otros escritos pueden ser lecturas canónicas valiosas, pero deben señalarse como tales cuando el capítulo no las formula explícitamente.
+## 25:19-23: oración, embarazo y oráculo
 
-## Pendiente de verificar
+El encabezamiento **ואלה תולדת יצחק** (_ve-eleh toldot Yitsjaq_) significa «estas son las generaciones o descendencia de Yitsjaq». **תולדות** (_toldot_) tiene como sentido normal generaciones, descendencia o resultados producidos; su fuerza aquí abre la historia de la casa. «Nacimientos» puede ser una explicación pedagógica, pero no agota el término.
 
-- [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
-- [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
+Yitsjaq tiene cuarenta años cuando toma a Rivqah, y ella es estéril. El texto dice: **ויעתר יצחק ליהוה לנכח אשתו כי עקרה הוא** —«Yitsjaq suplicó a יהוה frente a su mujer, porque era estéril»—. **עתר** (_atar_) significa suplicar o insistir; presenta una oración persistente, no una técnica para obligar a יהוה. יהוה responde, Rivqah concibe y los hijos se agitan dentro de ella.
+
+Rivqah pregunta «¿por qué esto?» y va a consultar a יהוה: **ותלך לדרש את יהוה**. **דרש** (_darash_) significa buscar, investigar o consultar; su fuerza contextual es llevar la crisis a la presencia de יהוה. La respuesta anuncia dos pueblos y dos naciones: **ורב יעבד צעיר**. **רב** (_rav_) significa grande, abundante o numeroso; **עבד** (_avad_) significa trabajar o servir; **צעיר** (_tsa'ir_) significa pequeño, joven o menor. La relación entre «el abundante trabajará pequeño» y «el mayor servirá al menor» es pedagógica y aproximadamente equivalente; la frase narrativa directa sigue siendo «mayor» y «menor».
+
+## 25:27-28: dos hermanos y afectos familiares
+
+El texto no deja a los hermanos como nombres abstractos. Esav es **איש ידע ציד איש שדה**, un hombre conocedor de la caza y del campo; Yaakov es **איש תם ישב אהלים**, un hombre íntegro, sencillo o completo que habita tiendas. **תם** (_tam_) significa completo, íntegro o sencillo; en esta escena es una descripción narrativa y no una declaración de impecabilidad absoluta.
+
+Yitsjaq ama a Esav porque la caza está en su boca, mientras Rivqah ama a Yaakov. Eric usa este contraste para mostrar cómo el gusto y el afecto pueden oscurecer la palabra recibida. El texto apoya directamente la razón dada para el amor de Yitsjaq, pero no explica aquí la razón del amor de Rivqah. La observación debe conservar esa asimetría: el capítulo muestra favoritismo, no una teoría completa de la psicología familiar.
+
+## 25:29-34: hambre, primogenitura y desprecio
+
+Yaakov cocina un guiso cuando Esav vuelve agotado. Esav pide comer y Yaakov responde: **מכרה כיום את בכרתך לי**, «véndeme hoy tu primogenitura». **בכרה** (_bekhorah_) significa primogenitura, condición y porción del primogénito. «Herencia» comunica una parte de su alcance, pero es una equivalencia pedagógica, no el sentido total del sustantivo.
+
+Esav responde que está a punto de morir y pregunta qué provecho tiene la primogenitura. Jura, vende, come, bebe, se levanta y se va. El narrador concluye: **ויבז עשו את הבכרה**, «Esav despreció la primogenitura». El título de Eric sobre la inversión del mayor y el menor recibe aquí una prueba concreta: la grandeza anunciada no es una simple medida física, y el mayor actúa como quien no valora su propia condición. Pero el texto tampoco presenta el procedimiento de Yaakov como una virtud sin mezcla; la negociación muestra cálculo y presión en una casa ya marcada por preferencias.
+
+## Léxico clave
+
+| Forma fuente | Transliteración | Sentido normal                           | Fuerza contextual y relación                                                                      |
+| ------------ | --------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **תולדות**   | _toldot_        | generaciones, descendencia, resultados   | Encabeza la historia familiar; «nacimientos» es pedagógico.                                       |
+| **עתר**      | _atar_          | suplicar, insistir                       | Describe la oración de Yitsjaq; relación directa.                                                 |
+| **דרש**      | _darash_        | buscar, investigar, consultar            | Rivqah consulta a יהוה; «preguntar» es aproximado.                                                |
+| **רב**       | _rav_           | grande, abundante, numeroso              | En el oráculo puede sostener «el mayor» y el énfasis público «el abundante»; relación aproximada. |
+| **עבד**      | _avad_          | trabajar, servir                         | Anuncia subordinación futura en la fórmula; relación directa.                                     |
+| **בכרה**     | _bekhorah_      | primogenitura, condición del primogénito | Bien que Esav vende y desprecia; «herencia» es pedagógico.                                        |
 
 ## Conclusión
 
-Bereshit 25 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
+Bereshit 25 confirma el eje público de Eric: la palabra de יהוה anuncia que el mayor servirá al menor antes de que la familia convierta la primogenitura en objeto de apetito y negociación. El capítulo mantiene juntas promesa y responsabilidad. La elección no nace del guiso ni del favoritismo, pero tampoco convierte el cálculo humano en modelo. La grandeza que cuenta es la que יהוה ordena, y la primogenitura despreciada revela el costo de no reconocerla.
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Toldot (2016) Gn 25:19-28:9 El abundante trabajará pequeño](https://www.youtube.com/watch?v=MhGbDzmcCGg) (source_id: `youtube:MhGbDzmcCGg`).
-- Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.
+- Video: «Parashat Toldot (2016) Gn 25:19-28:9 El abundante trabajará pequeño» — <https://www.youtube.com/watch?v=MhGbDzmcCGg> — source_id: `youtube:MhGbDzmcCGg`.
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
