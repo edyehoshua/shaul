@@ -200,6 +200,14 @@ El verbo **(שפך)**, _shafakh_, significa derramar o verter; en 12:24 ordena d
 
 Esta precisión también protege la inclusión del leví. La carne permitida puede comerse en las puertas, pero las cosas santas y los votos siguen llevándose al lugar elegido (#devarim_12_26-28), y el leví no debe ser abandonado. **(עזב)**, _azav_, significa dejar, abandonar o soltar; aquí su fuerza contextual es no excluir al leví de la celebración y del sustento ordenado. «Solidaridad religiosa» es una síntesis **pedagógica**, no la traducción aislada de la forma. Eric acierta al resistir una libertad que privatiza lo consagrado, pero el texto la corrige mediante procedimientos concretos: comer sin sangre, llevar lo santo, escuchar y guardar.
 
+## El umbral del reposo no es la medida del ojo individual
+
+La transcripción conserva la observación de Eric en el umbral de 12:8: «cada uno lo recto en sus ojos». La frase automática no sustituye al texto, pero identifica con precisión el contraste que la clase quiere subrayar. El OE dice **לא תעשון ככל אשר אנחנו עשים פה היום איש כל הישר בעיניו**, y el TTH: «no harán conforme a todo lo que hacemos aquí hoy, cada hombre todo lo recto en sus ojos». **(תעשון)**, _taasun_, procede de עשה y significa hacer o realizar; su fuerza aquí niega una práctica cultual determinada por la percepción privada. **(הישר)**, _hayashar_, es «lo recto» o «lo correcto», y **(בעיניו)**, _be'einav_, literalmente «en sus ojos», localiza la evaluación en la persona. «Individualismo religioso» es una equivalencia **pedagógica**, no una traducción exacta.
+
+La razón aparece en el v. 9 y no debe adelantarse artificialmente: «porque todavía no han venido al reposo y a la heredad que יהוה vuestro Elohim les da». **(באתם)**, _vatem_, es la segunda persona plural de בוא, «venir o entrar»; la forma presenta una llegada comunitaria aún no consumada. El reposo no es aquí una contraseña interior que el expositor pueda declarar desligada de la entrada, la tierra y el don divino. Eric tiene razón al leer una transición desde hacer lo que parece recto hacia recibir una forma de culto; el texto exige añadir que esa forma se concreta en el lugar elegido, las ofrendas y la mesa con el leví.
+
+La secuencia siguiente confirma la evaluación. El OE promete: **והניח לכם מכל איביכם מסביב וישבתם בטח**, «y les dará reposo de todos sus enemigos alrededor, y habitarán seguros» (12:10); después ordena traer allí «todo lo que yo les mando» y alegrarse delante de יהוה (12:11-12). **(בטח)**, _betaj_, significa estar seguro o confiar; su fuerza contextual es seguridad estable tras el reposo concedido, no licencia para suspender el mandato. La conexión de Eric con el Mesías y con Hebreos puede conservarse como lectura canónica **pedagógica**; la equivalencia exacta del pasaje inmediato sigue siendo reposo territorial recibido que desemboca en obediencia visible.
+
 ## Pendiente de verificar
 
 ## La sangre, el voto y la responsabilidad de la mesa
