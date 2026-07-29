@@ -395,6 +395,8 @@
 - Quality: `python3 scripts/check_transcript_note_quality.py` on all six touched notes → `quality_failures=0`; content-wide `duplicate_source_ids={}`; `notes_missing_visible_credits=[]`.
 - Remediation registry: removed three cleared paths; total 220 remaining.
 - Coverage refresh (`--write`): **928 covered / 30 pending** of 958; verse-index rebuild 7350 verses.
+
+- 2026-07-29 — Lane Yojanán: reparé dos estudios canónicos independientes de Tehilim, `content/tanaj/tehilim_65_lectura_oracion_y_alabanza.md` (`youtube:G_FifOKWuR4`) y `content/tanaj/tehilim_86_lectura_oracion_y_alabanza.md` (`youtube:6YMSW80IzL0`). Añadí recorrido textual, observaciones concretas de Eric sobre silencio expectante, Sion, voto, oración urgente, sustento y abrigo, confesión, camino y señal para bien; incluí texto OE local, léxico con forma, transliteración, sentido normal, fuerza contextual y relación cualificada, además de mapas de enseñanza y créditos públicos. Ambas notas pasan el verificador dirigido (`quality_failures=0`) y `git diff --check`; no contienen rutas privadas ni segmentación hebrea.
 - Load balance: all lanes below 40 eligible pending sources; **0 unassigned eligible sources** remain (missing/non-expository/covered exhausted), so no exclusive group reassignment.
 
 ## 2026-07-29 — integrator batch (tanaj / efesios / yojanan)
