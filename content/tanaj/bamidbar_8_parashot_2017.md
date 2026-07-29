@@ -118,6 +118,14 @@ Por eso la lectura de Eric sobre orden comunitario recibe apoyo directo, con un 
 
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
 
+## Sustitución que conserva la memoria — vv. 14-19
+
+La afirmación de Eric de que el servidor recibe una tarea y no una gloria privada se vuelve especialmente clara en la explicación de la sustitución. יהוה dice: **כי לי כל בכור ביום הכתי כל בכור בארץ מצרים הקדשתי אתם לי** (8:17), «porque Mío es todo primogénito; el día que golpeé a todo primogénito en la tierra de Mitzráim, los consagré para Mí». El TTH conserva la relación entre el golpe en Mitzráim y la pertenencia de los primogénitos. Bamidbar 8 no borra esa memoria al establecer a los leviím; la convierte en la razón explícita de su servicio representativo.
+
+**(בכור)**, _bekhor_, significa primogénito o primero nacido; aquí su fuerza contextual es la categoría que quedó apartada por el éxodo, no una medida de madurez espiritual. «Heredero principal» sería una equivalencia pedagógica y demasiado amplia. **(הקדשתי)**, _hiqdashti_, significa «consagré» o «aparté»; la forma verbal describe la designación de los primogénitos para יהוה, no una transformación de naturaleza. **(תחת)**, _tajat_, significa debajo, en lugar de o bajo; en 8:18 introduce la sustitución de los leviím «en lugar de todo primogénito». «Reemplazo total en cualquier sentido» sería una equivalencia inexacta: el capítulo habla de una función cultual concreta.
+
+La observación de Eric recibe así apoyo directo, pero también un límite. Los leviím son entregados a יהוה y luego dados a Aharón y sus hijos para servir a Israel; no son una élite separada de la congregación. El gesto comunitario de apoyar las manos y la explicación de los vv. 16-19 muestran que la autoridad del servicio procede de una orden y una sustitución pública. La aplicación a líderes actuales es pedagógica; la afirmación textual exacta es que la memoria del juicio en Mitzráim, la consagración y el servicio levítico quedan unidos.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
