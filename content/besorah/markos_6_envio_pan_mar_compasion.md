@@ -1,7 +1,7 @@
 ---
 title: "Marcos 6: envío, pan, mar y compasión"
 description: "Estudio canónico de Marcos 6: rechazo en Nazaret, envío de los Doce, muerte de Iojanán, pan para la multitud y Yehoshua sobre el mar."
-date: 2026-07-27
+date: 2026-07-29
 tags:
   - markos
   - markos_6
@@ -215,6 +215,22 @@ El cierre del bloque también prepara 6:30. Los discípulos de Iojanán (**μα�
 La lectura canónica conserva el orden de Marcos 6: rechazo en Nazaret (6:1–6), comisión y sobriedad de los Doce (6:7–13), muerte de Iojanán dentro del relato de la misión (6:14–29), retorno y descanso (6:30–31), enseñanza y pan (6:34–44), auxilio en el mar y sanidades (6:45–56). Los tres videos públicos de Eric pertenecen exclusivamente a esta nota mediante `youtube:Ug-0YTiNV34`, `youtube:47kx4pTWdFA` y `youtube:BrbPFZ2Mh6I`; las referencias a sus observaciones no crean una segunda nota canónica para el capítulo.
 
 El JSON local `docs/scriptures/tth/json/markos.json` gobierna las afirmaciones sobre el texto de Marcos. Tehilim 107:29 funciona como comparación pública delimitada: el salmo describe a יהוה calmando la tormenta, pero Marcos no presenta la escena como una cita formal. Las equivalencias **(τέκτων)**–**(חורש)** y **(ἀπόστολοι)**–**(שליחים)** son ayudas de campo semántico y no sustituyen las formas griegas; **(σπλαγχνίζομαι)** se explica por su contexto narrativo de enseñar, alimentar y sanar. Cualquier afirmación histórica sobre sinagoga, _shaliaj_ u hospitalidad permanece calificada en la nota.
+
+## Prueba ordenada: rechazo, envío, pan y presencia (6:1-56)
+
+La secuencia del capítulo local impide tratar el envío como un título honorífico y el pan como un milagro aislado. En 6:3, TTH registra que los vecinos preguntan si Yehoshua no es «el agricultor, hijo de Miriam» y que «tropezaron por Él»; **ἐσκανδαλίζοντο**, _eskandalizonto_, «tropezaban o se ofendían», describe una reacción social, no una evaluación doctrinal del oficio. En 6:6, **ἐθαύμασεν**, _ethaumasen_, «se asombró», responde a la falta de emunah y no a una carencia de poder. Eric observa que la familiaridad puede impedir la escucha; el texto lo prueba por el tropiezo y por el hecho de que Yehoshua sigue enseñando por las aldeas.
+
+El envío de 6:7-13 y el regreso de 6:30-31 forman una sola comisión. **ἤρξατο ἀποστέλλειν**, _ērxato apostellein_, «comenzó a enviar», y **ἐδίδου**, _edidou_, «daba», colocan autoridad y tarea en manos de Yehoshua; **κηρύσσειν**, _kēryssein_, «proclamar», y **μετανοῶσιν**, _metanoōsin_, «que se vuelvan o se arrepientan», definen el contenido público del encargo. La comparación de Eric con **(שליח)**, _shaliaj_, «enviado o representante», aclara la dependencia, pero permanece aproximada: Marcos usa **ἀπόστολοι**, _apostoloi_, «enviados», al regreso y no expone aquí un estatuto jurídico completo. La orden **ἀναπαύσασθε**, _anapausasthe_, «descansen», prueba además que el servicio no anula el límite corporal.
+
+La mesa y el mar cierran la prueba con la misma diferencia entre fuente y mediación. En 6:34, **ἐσπλαγχνίσθη**, _esplagchnisthē_, «se le agitaron las entrañas / fue movido a compasión», conduce primero a enseñar; en 6:37, el mandato «Denles ustedes de comer» responsabiliza a los discípulos sin convertirlos en origen del pan. **εὐλόγησεν**, _eulogēsen_, «bendijo», y **κατέκλασεν**, _kateklasen_, «partió», son acciones de Yehoshua; **ἐδίδου**, _edidou_, «daba», describe la distribución por medio de ellos. Después, en 6:48-52, los ve **βασανιζομένους**, _basanizomenous_, «afligidos o esforzándose», camina hacia ellos y dice **ἐγώ εἰμι**, _egō eimi_, «soy Yo»; el narrador añade que «no entendían acerca del pan» porque el corazón estaba entenebrecido. Así, la observación de Eric sobre sobriedad y compasión queda anclada en el orden textual: rechazo, comisión, descanso, enseñanza, provisión, presencia y sanidad en las aldeas.
+
+## Pendiente de verificar
+
+- [ ] Cotejar el campo léxico de **τέκτων** y la glosa local «agricultor» antes de decidir un oficio histórico preciso para Yehoshua en Nazaret.
+- [ ] Verificar fuentes y fechas del concepto **שליח** cuando se use para iluminar **ἀπόστολοι**, sin importar reglas jurídicas posteriores al relato.
+- [ ] Documentar el trasfondo del gesto de sacudir el polvo (6:11) y su relación con prácticas de separación conocidas.
+- [ ] Examinar si la frase **ἐγώ εἰμι** de 6:50 debe leerse solo como identificación o también en diálogo con fórmulas bíblicas del nombre divino, sin forzar una equivalencia exclusiva.
+- [ ] Delimitar el valor comparativo de #tehilim_107_29 respecto del mar de Marcos 6, manteniéndolo como trasfondo y no como cita explícita del evangelista.
 
 ## Conclusión
 

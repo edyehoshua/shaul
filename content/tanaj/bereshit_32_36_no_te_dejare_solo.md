@@ -1,7 +1,7 @@
 ---
 title: "Bereshit 32–36: lucha, reconciliación y retorno"
 description: "Nota canónica de Bereshit 32–36 sobre el retorno de Yaakov, la lucha nocturna, la reconciliación y la separación de caminos."
-date: 2026-07-28
+date: 2026-07-29
 tags:
   - parashot
   - bereshit
@@ -13,9 +13,12 @@ references:
   - "#bereshit_34_1-7"
   - "#bereshit_35_1-15"
   - "#bereshit_36_1-8"
+  - "#oseas_12_3-5"
 sources:
   - "https://www.youtube.com/watch?v=VCfzHkmdwoc"
   - "docs/scriptures/oe/json/genesis/32.json"
+  - "docs/scriptures/oe/json/genesis/33.json"
+  - "docs/scriptures/oe/json/genesis/35.json"
   - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
   - "youtube:VCfzHkmdwoc"
@@ -24,11 +27,23 @@ translation: "[TTH, OE]"
 
 # Tesis
 
-Bereshit 32–36 narra el retorno de Yaakov a la tierra, su lucha ante el temor, el encuentro con Esav, la crisis de Shejem y la renovación de la casa en Bet-El. El título público de la clase de Eric —«No te dejaré solo»— ofrece una observación pastoral real: la historia no presenta a Yaakov como un héroe autosuficiente. Esta nota la conserva y la prueba contra el orden del relato, que incluye oración, reparación, peligro, purificación y memoria.
+Bereshit 32–36 narra el retorno de Yaakov a la tierra, su lucha ante el temor, el encuentro con Esav, la crisis de Shejem y la renovación de la casa en Bet-El. El título público de la clase de Eric —«No te dejaré solo»— ofrece una observación pastoral real: la historia no presenta a Yaakov como un héroe autosuficiente. Esta nota la conserva y la prueba contra el orden del relato, que incluye oración, reparación, peligro, purificación y memoria. También evalúa la lectura de la clase sobre el **(איש)**, el **(שחר)** y quién bendice a Yaakov, sin convertir Oseas 12 en un reemplazo de la narrativa de Génesis.
 
 ## Alcance de la nota
 
-Esta es la nota canónica para Bereshit 32–36. Se cita el video mediante su URL pública y su source_id; no se atribuyen al audio frases que no puedan verificarse. La clase se toma por su énfasis visible y se evalúa con OE y TTH. Las lecturas mesiánicas o pastorales son aplicaciones posteriores y pedagógicas, no sustitutos del sentido inmediato de Yaakov, Esav, Dina, Shimón, Leví y Bet-El.
+Esta es la nota canónica para Bereshit 32–36. Se elabora a partir de «Parashat vayishlaj - y envió - Gn 32:4-36:43 No te dejaré solo», del hermano Eric de Jesús Rodríguez Mendoza (`youtube:VCfzHkmdwoc`). Se cita el video mediante su URL pública y su source_id; no se atribuyen al audio frases que no puedan verificarse, ni se exponen rutas privadas de transcripción. La clase se toma por su énfasis visible y se evalúa con OE y TTH. Las lecturas mesiánicas, angelológicas o escatológicas de Bet-El son aplicaciones posteriores y pedagógicas, no sustitutos del sentido inmediato de Yaakov, Esav, Dina, Shimón, Leví y Bet-El.
+
+## Hoja de comparación
+
+| Referencia      | Hebreo local OE (sin nikud; sin barras morfológicas)                  | TTH (ES)                                                                                                       | Observación                                                            |
+| --------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| #bereshit_32_25 | **ויותר יעקב לבדו ויאבק איש עמו עד עלות השחר**                        | «Y Yaakov quedó solo… y un hombre luchó con él hasta subir el alba»                                            | Soledad narrativa + _ish_ + _shajar_ como marco de la lucha.           |
+| #bereshit_32_26 | **וירא כי לא יכל לו ויגע בכף ירכו ותקע כף ירך יעקב**                  | «vio que no prevaleció… tocó la palma de su muslo… se dislocó»                                                 | La herida precede a la petición de bendición.                          |
+| #bereshit_32_27 | **ויאמר שלחני כי עלה השחר ויאמר לא אשלחך כי אם ברכתני**               | «Envíame, porque sube el alba… No te enviaré; sino que Tú me bendecirás»                                       | Eric detiene aquí la identidad del que bendice.                        |
+| #bereshit_32_29 | **לא יעקב יאמר עוד שמך כי אם ישראל כי שרית עם אלהים ועם אנשים ותוכל** | «No será más tu nombre Yaakov, sino Israel… serás Principado con Elohim y con los hombres, y serás victorioso» | Nombre nuevo + lucha/principado; TTH acentúa el futuro de la victoria. |
+| #bereshit_32_30 | **ויברך אתו שם** / **פניאל כי ראיתי אלהים פנים אל פנים ותנצל נפשי**   | «Él lo bendijo allí» / «Penuel… he visto a Elohim cara a cara y sobrevivió mi ser»                             | Bendición y visión se nombran en la misma unidad.                      |
+| #bereshit_33_4  | **וירץ עשו לקראתו ויחבקהו ויפל על צוארו וישקהו ויבכו**                | «corrió Esav… lo abrazó… lo besó, y lloraron»                                                                  | Reconciliación visible con gestos concretos.                           |
+| #bereshit_35_2  | **הסרו את אלהי הנכר אשר בתככם והטהרו והחליפו שמלתיכם**                | «Aparten a los dioses del extranjero… purifíquense y reemplacen sus vestidos»                                  | Retorno a Bet-El exige actos domésticos observables.                   |
 
 ## 1. Yaakov vuelve con temor y palabra
 
@@ -122,24 +137,50 @@ La muerte de Rajel y la genealogía de Esav impiden cerrar con triunfalismo. **(
 
 ## Léxico clave
 
-| Forma      | Transliteración | Sentido normal             | Fuerza contextual                          | Equivalencia                                |
-| ---------- | --------------- | -------------------------- | ------------------------------------------ | ------------------------------------------- |
-| **קטנתי**  | _qatonti_       | soy pequeño, he disminuido | Confesión de Yaakov ante el jesed recibido | «No valgo nada» es demasiado fuerte         |
-| **חסד**    | _jesed_         | bondad leal, misericordia  | Fidelidad que Yaakov recuerda en oración   | «Favor» es aproximado                       |
-| **ויאבק**  | _vayeaveq_      | forcejeó, luchó            | Encuentro nocturno que deja una herida     | «Batalla espiritual» es pedagógica          |
-| **שרית**   | _sarita_        | luchaste, prevaleciste     | Explicación narrativa del nombre Israel    | «Ganaste siempre» no es exacto              |
-| **הצילני** | _hatsileni_     | líbrame, rescátame         | Petición ante Esav y el peligro            | «Evítame toda consecuencia» excede el verbo |
-| **הסרו**   | _hasiru_        | quiten, retiren            | Apartar los dioses extraños de la casa     | «Cambien de ánimo» omite el acto            |
+| Forma      | Transliteración | Sentido normal                      | Fuerza contextual                                       | Equivalencia                                               |
+| ---------- | --------------- | ----------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| **קטנתי**  | _qatonti_       | soy pequeño, he disminuido          | Confesión de Yaakov ante el jesed recibido              | «No valgo nada» es demasiado fuerte                        |
+| **חסד**    | _jesed_         | bondad leal, misericordia           | Fidelidad que Yaakov recuerda en oración                | «Favor» es aproximado                                      |
+| **ויאבק**  | _vayeaveq_      | forcejeó, luchó                     | Encuentro nocturno que deja una herida                  | «Batalla espiritual» es pedagógica                         |
+| **איש**    | _ish_           | hombre, varón                       | El que lucha con Yaakov; el relato no lo nombra primero | «Ángel» o «potestad» son lecturas posteriores cualificadas |
+| **שחר**    | _shajar_        | alba, despuntar de la luz           | Límite temporal del forcejeo y motivo del «envíame»     | «Aurora» (fenómeno polar) es inexacto                      |
+| **שרית**   | _sarita_        | luchaste, prevaleciste / principado | Explicación narrativa del nombre Israel                 | «Ganaste siempre» no es exacto                             |
+| **פניאל**  | _Peniel_        | rostro de El / cara de Dios         | Nombre del lugar tras la visión                         | «Templo interior» es pedagógico                            |
+| **הצילני** | _hatsileni_     | líbrame, rescátame                  | Petición ante Esav y el peligro                         | «Evítame toda consecuencia» excede el verbo                |
+| **הסרו**   | _hasiru_        | quiten, retiren                     | Apartar los dioses extraños de la casa                  | «Cambien de ánimo» omite el acto                           |
+| **במרמה**  | _bemirmah_      | con engaño, fraude                  | Método de los hijos en Shejem                           | «Defensa santa» no es equivalencia                         |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad            | Observación pública atribuible a Eric                             | Evaluación frente al texto                                                                                         |
-| ----------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Bereshit 32       | «No te dejaré solo» orienta la lectura del retorno y de la lucha. | Apoyo pastoral en la oración y en la presencia del encuentro; el texto también muestra temor, estrategia y herida. |
-| Bereshit 32:24-32 | La identidad se recibe en un forcejeo que termina en bendición.   | Apoyado por el cambio de nombre y la petición de bendición; no se debe ocultar la cojera.                          |
-| Bereshit 33–34    | Reconciliación y conflicto deben discernirse, no confundirse.     | Esav abraza; la violencia de Shimón y Leví es reprendida por Yaakov.                                               |
-| Bereshit 35       | El retorno exige quitar dioses extraños y subir a Bet-El.         | Apoyado directamente por la orden doméstica, el entierro de objetos y el altar.                                    |
-| Bereshit 36:1-8   | La separación de Esav conserva su genealogía y territorio.        | Apoyo textual: la bendición de Yaakov no borra al hermano ni convierte la distancia en desprecio.                  |
+| Unidad             | Observación pública atribuible a Eric                                                               | Evaluación frente al texto                                                                                                            |
+| ------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Bereshit 32        | «No te dejaré solo» orienta la lectura del retorno y de la lucha.                                   | Apoyo pastoral en la oración y en la presencia del encuentro; el texto también muestra temor, estrategia y herida.                    |
+| #bereshit_32_25-27 | Prefiere _alba_ (_shajar_) a «aurora»; detiene la pregunta de quién bendice a Yaakov.               | Apoyo léxico a _shajar_; la distinción _ish_/luz/Mesías se marca como lectura pedagógica cualificada, no como glosa única del hebreo. |
+| Bereshit 32:24-32  | La identidad se recibe en un forcejeo que termina en bendición; la cojera permanece.                | Apoyado por el cambio de nombre, la bendición y el muslo tocado; no se debe ocultar la vulnerabilidad.                                |
+| Oseas 12 (clase)   | Lee la lucha con el mensajero y la súplica en Bet-El para precisar el episodio de Génesis.          | Apoyo canónico cualificado: Oseas comenta el episodio; no autoriza a borrar el _ish_ narrativo de Génesis.                            |
+| Bereshit 33–34     | Reconciliación y conflicto deben discernirse, no confundirse; Dina sola en la ciudad es un aviso.   | Esav abraza; la violencia de Shimón y Leví es reprendida por Yaakov; el abuso no justifica el engaño.                                 |
+| Bereshit 35        | El retorno exige quitar dioses extraños y subir a Bet-El; la clase proyecta Bet-El hacia el Mesías. | Apoyo directo a la purificación doméstica; la lectura escatológica de Bet-El como Jerusalén/Mesías es pedagógica.                     |
+| Bereshit 36:1-8    | La separación de Esav conserva su genealogía y territorio.                                          | Apoyo textual: la bendición de Yaakov no borra al hermano ni convierte la distancia en desprecio.                                     |
+
+## El _ish_, el _shajar_ y quién bendice — Bereshit 32:25-32
+
+La clase de Eric (`youtube:VCfzHkmdwoc`) no se detiene solo en el consuelo de la presencia. Insiste en tres observaciones concretas del forcejeo nocturno: (1) Yaakov queda **solo**; (2) el hebreo dice **(שחר)**, _shajar_, alba o despuntar de la luz, y no «aurora» como fenómeno polar; (3) la petición «no te enviaré sino que me bendigas» obliga a preguntar **quién** bendice realmente a Yaakov.
+
+El OE de la unidad dice **ויותר יעקב לבדו ויאבק איש עמו עד עלות השחר** (#bereshit_32_25): «y Yaakov quedó solo, y un hombre luchó con él hasta subir el alba». **(לבדו)**, _levado_, significa solo, por sí mismo; su fuerza aquí es situacional: la familia ya cruzó el Yaboq. **(איש)**, _ish_, significa hombre o varón; el sentido normal es humano y concreto. «Ángel» es una equivalencia **canónica posterior** cuando se lee con Oseas 12; «potestad espiritual» es **pedagógica**. Eric tiene razón al no aplanar demasiado pronto el _ish_ en una etiqueta devocional: el relato primero presenta un varón sin nombre.
+
+**(שחר)**, _shajar_, significa alba, madrugada o primera luz. La clase corrige con buen criterio la traducción «aurora» cuando esta evoca auroras boreales: el hebreo apunta al despuntar del día. TTH traduce «alba». La equivalencia «luz del Mesías» que la clase asocia con el _shajar_ es **pedagógica y tipológica**, no el sentido léxico obligatorio del sustantivo en Génesis. El texto usa el alba como límite temporal: el adversario pide ser enviado porque subió el _shajar_ (#bereshit_32_27).
+
+La pregunta de Eric —«¿quién bendice a Yaakov?»— nace del diálogo: **לא אשלחך כי אם ברכתני**, «no te enviaré sino que me bendigas». **(ברך)**, _barakh_, significa bendecir; aquí la bendición se arranca en un forcejeo, no se recibe como fórmula tranquila. El relato responde de dos maneras que hay que mantener juntas: el nombre Israel se explica con **(שרית)**, _sarita_, «has luchado / has prevalecido» o, en la lectura de TTH, un principado con Elohim y con hombres (#bereshit_32_29); y el narrador dice que **lo bendijo allí** (#bereshit_32_30). La clase acierta al negar que cualquier mensajero anónimo sea, por sí solo, la fuente última de la identidad de Israel. También hay que marcar el límite: Génesis no narra un monólogo de Yaakov al sol; narra un encuentro personal que termina en bendición, nombre nuevo y herida.
+
+Oseas 12:3-5, que la clase invoca, describe a Yaakov contiendo con un mensajero, llorando y hallándolo en Bet-El. Esa lectura profética es un comentario canónico del episodio, no una licencia para borrar el _ish_ de Génesis ni para convertir toda la escena en una alegoría del alba mesiánica. El apoyo es **cualificado**: Oseas confirma lucha, súplica y encuentro; Génesis aporta la secuencia de soledad, muslo, nombre, Peniel y cojera.
+
+Peniel cierra la unidad: **כי ראיתי אלהים פנים אל פנים ותנצל נפשי**, «porque vi a Elohim cara a cara y fue librada mi nefesh». **(נצל)**, _natsal_, aquí en nifal, significa ser librado o escapar; «salvación espiritual plena» es **aproximada**. El mismo relato añade que Yaakov cojea (#bereshit_32_31 en TTH). Eric subraya la cojera para impedir un triunfalismo barato: la bendición no cancela la marca. Esa observación tiene apoyo textual fuerte.
+
+## Bet-El, Dina y los límites de la proyección
+
+La clase enumera tres temas de la parashá: el reencuentro con Esav, el caso de Dina y las genealogías. El orden importa. Después del abrazo de Esav, Dina «sale» y es humillada; los hermanos responden **במרמה**, _bemirmah_, con engaño (#bereshit_34_13). Eric advierte el peligro de ir sola a la ciudad; el texto sostiene la gravedad del abuso, pero también juzga el método de Shimón y Leví. «Celos santos» no es equivalencia de _mirmah_.
+
+En Bet-El, la casa quita dioses extraños, se purifica y cambia de vestidos (#bereshit_35_2). La clase proyecta Bet-El —«casa de Dios»— hacia una lectura escatológica del Mesías como templo. **(בית אל)**, _Bet-El_, significa casa de El/Dios; en el relato nombra un lugar de altar y promesa. La proyección a la Jerusalén celestial o al cuerpo del Mesías es **pedagógica y canónica cualificada**: puede iluminar, pero no debe borrar la orden doméstica de enterrar ídolos y subir al lugar señalado. El consuelo «no te dejaré solo» se verifica, otra vez, en actos: oración, forcejeo herido, reconciliación prudente, rechazo del engaño y purificación visible.
 
 ## Reparación: la presencia se prueba en el orden del retorno
 

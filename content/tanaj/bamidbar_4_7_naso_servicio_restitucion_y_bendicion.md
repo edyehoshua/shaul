@@ -1,7 +1,7 @@
 ---
 title: "Bamidbar 4–7: servicio, restitución y bendición sobre el campamento"
 description: "Lectura de la parashá Naso sobre las cargas del Mishkán, la restitución, la bendición sacerdotal y la dedicación del altar."
-date: 2026-07-28
+date: 2026-07-29
 tags:
   - parashot
   - bamidbar
@@ -16,7 +16,10 @@ references:
   - "#bamidbar_7_1-89"
 sources:
   - "https://www.youtube.com/watch?v=9tDjIv6tla0"
-  - "docs/scriptures/oe/json/raw/numbers.json"
+  - "docs/scriptures/oe/json/numbers/4.json"
+  - "docs/scriptures/oe/json/numbers/5.json"
+  - "docs/scriptures/oe/json/numbers/6.json"
+  - "docs/scriptures/oe/json/numbers/7.json"
   - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
   - "youtube:9tDjIv6tla0"
@@ -33,14 +36,15 @@ La exposición recorre Bamidbar 4:21–7:89. Aquí se siguen sus unidades en ord
 
 ## Hoja de comparación
 
-| Referencia        | TTH local                                                                                                         | Función en la lectura                                             |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| #bamidbar_4_23    | «de edad de treinta años y arriba… todo el que entre a la compañía para servir en la obra de la Tienda del Mo’ed» | El servicio tiene edad, ámbito y responsabilidad definidos.       |
-| #bamidbar_4_49    | «por boca de יהוה los encargó… cada hombre de acuerdo a su servicio y de acuerdo a su carga»                      | La distribución procede de יהוה, no de una ambición personal.     |
-| #bamidbar_5_7     | «confesarán sus pecados… y restituirá su culpa en su totalidad»                                                   | La confesión incluye reparación al ofendido.                      |
-| #bamidbar_6_24-27 | «Te bendecirá יהוה y te guardará… pondrá para ti shalom… pondrán mi Nombre»                                       | La bendición sacerdotal culmina en el Nombre y la acción de יהוה. |
-| #bamidbar_7_3-5   | «seis carretas cubiertas y doce bueyes… cada hombre de acuerdo con su servicio»                                   | La comunidad aporta medios para las cargas reales del santuario.  |
-| #bamidbar_7_89    | «escuchó la voz que le hablaba desde sobre la cubierta»                                                           | El servicio culmina en escucha, no en espectáculo.                |
+| Referencia        | Hebreo local OE (sin nikud; sin barras)                                                                               | TTH (ES)                                                                                                                          | Función en la lectura                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| #bamidbar_4_22    | **נשא את ראש בני גרשון גם הם**                                                                                        | «Levanta la cabeza de los hijos de Guershón, también ellos…»                                                                      | _Naso_ = levantar la cabeza; no un simple «toma el número».           |
+| #bamidbar_4_49    | **על פי יהוה פקד אותם ביד משה איש איש על עבדתו ועל משאו**                                                             | «Por boca de יהוה los encargó… cada hombre de acuerdo a su servicio y de acuerdo a su carga»                                      | Servicio + carga por boca de יהוה, no por ambición.                   |
+| #bamidbar_5_7     | **והתודו את חטאתם אשר עשו והשיב את אשמו בראשו וחמישתו יסף עליו**                                                      | «confesarán… y restituirá su culpa en su totalidad… y su quinta parte añadirá»                                                    | Confesión verificable con reparación.                                 |
+| #bamidbar_6_24-27 | **יברכך יהוה וישמרך… יאר יהוה פניו אליך ויחנך… ישא יהוה פניו אליך וישם לך שלום… ושמו את שמי על בני ישראל ואני אברכם** | «Te bendecirá יהוה y te guardará… hará brillar su rostro… alzará su rostro… pondrá shalom… pondrán mi Nombre… y Yo los bendeciré» | Los sacerdotes ponen el Nombre; יהוה bendice.                         |
+| #bamidbar_7_2     | **ויקריבו נשיאי ישראל ראשי בית אבתם**                                                                                 | «se acercaron los jefes de Israel, cabezas de la casa de sus padres»                                                              | _Nesi'ei_ = levantados/jefes, no «príncipes» monárquicos automáticos. |
+| #bamidbar_7_9     | **ולבני קהת לא נתן כי עבדת הקדש עליהם בכתף ישאו**                                                                     | «a los hijos de Kehat no dio, porque su servicio era la santidad… en los hombros cargaban»                                        | Hay cargas que no se delegan a carretas.                              |
+| #bamidbar_7_89    | **וישמע את הקול מדבר אליו מעל הכפרת**                                                                                 | «escuchó la voz que le hablaba desde sobre la cubierta»                                                                           | El servicio culmina en escucha, no en espectáculo.                    |
 
 ## Cargas asignadas y liderazgo que sirve: Bamidbar 4:21-49
 
@@ -88,22 +92,47 @@ La misma lógica aparece en la relación entre ofrenda y escucha. El TTH dice qu
 
 ## Léxico clave
 
-| Forma       | Transliteración | Sentido normal             | Fuerza contextual                 | Equivalencia                |
-| ----------- | --------------- | -------------------------- | --------------------------------- | --------------------------- |
-| **(עבודה)** | _avodah_        | trabajo, servicio          | Tarea cultual asignada            | “Ministerio” es pedagógica. |
-| **(משא)**   | _masa_          | carga                      | Responsabilidad que se transporta | “Carga” es cercana.         |
-| **(אשם)**   | _asham_         | culpa, reparación          | Culpa confesada con restitución   | “Castigo” es insuficiente.  |
-| **(שלום)**  | _shalom_        | integridad, bienestar, paz | Resultado de la bendición de יהוה | “Paz” es aproximada.        |
-| **(קרבן)**  | _qorban_        | aquello que se acerca      | Ofrenda presentada ante יהוה      | “Ofrenda” es contextual.    |
+| Forma         | Transliteración | Sentido normal             | Fuerza contextual                               | Equivalencia                           |
+| ------------- | --------------- | -------------------------- | ----------------------------------------------- | -------------------------------------- |
+| **(נשא)**     | _nasa_          | levantar, cargar, alzar    | Raíz de Naso, de la carga y del alzar el rostro | «Promover» es demasiado organizacional |
+| **(נשא ראש)** | _naso rosh_     | levantar la cabeza         | Censo/encargo de Guershón y levitas             | «Tomar el número» es aproximado        |
+| **(עבודה)**   | _avodah_        | trabajo, servicio          | Tarea cultual asignada                          | “Ministerio” es pedagógica.            |
+| **(משא)**     | _masa_          | carga                      | Responsabilidad que se transporta               | “Cargo/puesto” confunde el hebreo.     |
+| **(נשיא)**    | _nasi_          | jefe levantado, dirigente  | Los que aportan carretas y ofrendas             | “Príncipe” monárquico es aproximado.   |
+| **(אשם)**     | _asham_         | culpa, reparación          | Culpa confesada con restitución                 | “Castigo” es insuficiente.             |
+| **(שלום)**    | _shalom_        | integridad, bienestar, paz | Resultado de la bendición de יהוה               | “Paz” es aproximada.                   |
+| **(קרבן)**    | _qorban_        | aquello que se acerca      | Ofrenda presentada ante יהוה                    | “Ofrenda” es contextual.               |
+| **(כתף)**     | _katef_         | hombro                     | Modo de transporte de Qehat                     | “Carga espiritual” es pedagógica.      |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad           | Observación concreta de la clase                                                                             | Tratamiento en esta nota                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| Bamidbar 4:21-49 | El liderazgo levítico se expresa en responsabilidades, cargas y servicio a favor del pueblo.                 | Apoyo textual y aclaración léxica de _avodah_ y _masa_.                    |
-| Bamidbar 5:5-31  | La santidad exige tratar el pecado con confesión y consecuencias, no solo con discurso.                      | Apoyo textual para la restitución; calificación de la prueba ritual.       |
-| Bamidbar 6:22-27 | Los sacerdotes ponen el Nombre, pero יהוה es quien bendice.                                                  | Apoyo textual y análisis de _barakh_ y _shalom_.                           |
-| Bamidbar 7:1-89  | Los jefes aportan recursos para que otros puedan llevar sus cargas; el capítulo culmina en la voz escuchada. | Apoyo textual; la aplicación al liderazgo actual se marca como contextual. |
+| Unidad           | Observación concreta de la clase                                                                                         | Tratamiento en esta nota                                                              |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Nombre Naso      | _Naso_ significa «levanta»; levantar la cabeza no es un eufemismo burocrático.                                           | Apoyo léxico de #bamidbar_4_22; se distingue censo de promoción mundana.              |
+| Bamidbar 4:21-49 | El liderazgo levítico se expresa en _masa_ (carga) y _avodah_ (servicio), no en «cargo» como puesto.                     | Apoyo textual y aclaración léxica; contraste con Marcos 10 (servir, no ser servido).  |
+| Rebelión de Coré | Naso prepara la crisis posterior: Coré quiso un cargo sin asumir la carga del pectoral.                                  | Inferencia pedagógica de la clase; el texto de 4–7 sienta autoridad por boca de יהוה. |
+| Bamidbar 5:5-31  | La santidad exige confesión y consecuencias, no solo discurso; el siervo hace de puente de reconciliación.               | Apoyo textual para la restitución; calificación de la prueba ritual.                  |
+| Bamidbar 6       | Nazir y corona (_nezer_) ilustran dedicación; no se confunde con Nazareno sin matiz.                                     | Léxico cualificado; la corona es del voto, no un título genérico.                     |
+| Bamidbar 6:22-27 | Los sacerdotes ponen el Nombre, pero יהוה es quien bendice.                                                              | Apoyo textual y análisis de _barakh_, _panim_ y _shalom_.                             |
+| Bamidbar 7:1-89  | _Nasi_ es levantado, no «príncipe» automático; el Mishkán se levanta cuando hay cabezas levantadas; culmina la voz oída. | Apoyo textual; la aplicación eclesial se marca como contextual y pedagógica.          |
+
+## Naso: levantar la cabeza no es inventar un cargo — Bamidbar 4:21-49
+
+La clase abre con el nombre de la parashá. **(נשא)**, _nasa_, significa levantar, alzar o cargar. En #bamidbar_4_22 el OE dice **נשא את ראש בני גרשון**, «levanta la cabeza de los hijos de Guershón». TTH conserva «Levanta la cabeza». «Toma el censo» es una equivalencia **aproximada** que comunica el resultado administrativo, pero pierde la imagen hebrea. Eric insiste en que la cabeza se levanta para un encargo, no para una eminencia. El apoyo es fuerte cuando se lee junto a 4:49: **איש איש על עבדתו ועל משאו**, cada uno sobre su servicio y sobre su carga.
+
+La distinción entre **(משא)**, _masa_, «carga», y el castellano «cargo» es una de las observaciones más útiles de la exposición (`youtube:9tDjIv6tla0`). El hebreo no está ofreciendo un organigrama de puestos que se delegan para no sudar; describe piezas del Mishkán que se transportan. **(עבודה)**, _avodah_, es servicio u obra. Eric aplica: todo líder religioso que no lleve carga ni sirva no ha sido levantado por la boca de יהוה. Esa aplicación es **pedagógica y fuerte en dirección**, pero no convierte cada función contemporánea en un clan de Guershón o Qehat. El texto afirma primero la distribución por boca de יהוה y por mano de Moshéh (#bamidbar_4_49).
+
+La clase enlaza el punto con Marcos: el Hijo del Hombre no vino a ser servido sino a servir. El paralelo es **canónico y pedagógico**. Bamidbar 4 no cita a Yehoshua; sí corrige la fantasía del liderazgo como privilegio. La advertencia de 4:20 —no mirar lo santo al cubrirse— añade que la carga no autoriza curiosidad irreverente. **(קדש)**, _qodesh_, cosa santa, regula el acceso; «misterio iniciático» sería una equivalencia demasiado amplia.
+
+Eric también anticipa Coré: quien confunde el sacerdocio con un cargo ambicionado no ha entendido la carga de los hombros y del pectoral. Bamidbar 4–7 no narra aún la rebelión, pero sí fija la premisa que la rebelión negará: la autoridad se recibe, se carga y se sirve. Esa lectura prospectiva es **inferencia pedagógica legítima** si no se presenta como exégesis explícita de cada verso de Naso.
+
+## Nasi, nazir y el Mishkán en pie — Bamidbar 6–7
+
+En el capítulo 7, TTH dice «príncipes» o «jefes», pero el hebreo usa **(נשיאי ישראל)**, _nesi'ei Yisrael_ (#bamidbar_7_2). **(נשיא)**, _nasi_, viene de la misma familia de levantar: un levantado, un dirigente. «Príncipe» monárquico es **aproximado** y puede importar una corte que el texto no describe. Eric corrige la traducción hacia «cabeza levantada». El apoyo léxico es bueno; la aplicación —no levantar un edificio de reunión sin cabezas que carguen y sirvan— es **pedagógica**: el capítulo une la dedicación del altar con ofrendas de los _nesi'im_, no con una teoría general de «plantar iglesias».
+
+La parashá también incluye la torá del **(נזיר)**, _nazir_. Eric distingue **(נזר)**, _nezer_, corona o diadema de dedicación, del enredo popular entre nazir y nazareno. **(נזר)** significa consagración o corona; en el voto describe el cabello como señal de separación a יהוה. «Santidad interior sin signos» sería una equivalencia insuficiente; «corona mágica» sería excesiva. La clase usa el nazir para mostrar dedicación costosa; esta nota lo conserva como bloque de Naso sin convertirlo en el centro de la tesis del liderazgo.
+
+El cierre de 7:9 dice que a Qehat no se le dieron carretas porque **עבדת הקדש עליהם בכתף ישאו**, «el servicio de lo santo estaba sobre ellos; sobre el hombro cargarían». **(כתף)**, _katef_, hombro, mantiene la corporalidad de la carga. Eric tiene razón: no toda responsabilidad se alivia con recursos externos. Algunas tareas se llevan encima. Y 7:89 devuelve el criterio final: Moshéh oye la voz desde la cubierta. El liderazgo bíblico de Naso, evaluado contra el texto, es levantar cabezas para cargar, reparar, poner el Nombre y escuchar.
 
 ## La carga no es una licencia para apropiarse de lo santo
 
