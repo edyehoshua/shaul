@@ -18,11 +18,13 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=e54Boaj8Z_8"
   - "https://www.youtube.com/watch?v=86QJBg5Aw5E"
+  - "https://www.youtube.com/watch?v=CHpD4KHEGMA"
   - "docs/scriptures/oe/json/deuteronomy/32.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
   - "youtube:e54Boaj8Z_8"
   - "youtube:86QJBg5Aw5E"
+  - "youtube:CHpD4KHEGMA"
 translation: "[OE, TTH]"
 ---
 
@@ -136,9 +138,50 @@ Eric conecta esta transmisión con su lectura de la fidelidad de Yehoshua y con 
 
 La fidelidad de la Roca es el criterio que ordena todo el canto. יהוה es completo en su obra y recto en sus caminos; por eso Israel debe recordar el cuidado recibido, reconocer su corrupción y esperar la justicia que él mismo ejecuta. La enseñanza pública de Eric queda mejor evaluada cuando «la Roca» no se separa de _emunah_, juicio, disciplina y reconciliación.
 
+## «No es palabra vacía»: lluvia, retención y vida — vv. 1-4, 44-47
+
+La fuente `youtube:CHpD4KHEGMA` presenta Ha'azinu como un cántico que debe leerse en un tiempo de temor, pero que no deja al pueblo en la desesperación. Eric concentra la exposición en la lluvia de la enseñanza, en lo que queda retenido en el corazón y en la afirmación final: «no es palabra vacía de vosotros, porque es vuestra vida». El texto apoya ese hilo, aunque limita la aplicación: el cántico no promete que toda experiencia será cómoda ni convierte toda impresión personal en una palabra de יהוה.
+
+En 32:1-2, Mosheh llama a cielos y tierra y dice: «destile como la lluvia mi enseñanza; fluya como el rocío mi dicho». **(יערף)**, _ya'arof_, significa gotear, destilar o dejar caer; su fuerza contextual es la imagen de una palabra que desciende gradualmente y alcanza la tierra. «Retentiva» es la aplicación de Eric a lo que permanece en el oyente, no la equivalencia normal del verbo. **(לקח)**, _leqaj_, significa enseñanza, recepción o lo tomado; aquí nombra el contenido que Mosheh comunica. «Doctrina retenida» es **pedagógica**, mientras que «mi enseñanza» es una equivalencia aproximada que mantiene el campo de instrucción.
+
+La comparación con la lluvia no es un adorno aislado. En 32:2 la palabra cae sobre la hierba y las plantas; la exposición la conecta con Isaías 55:10-11, donde la lluvia y la nieve riegan la tierra y la palabra enviada no vuelve vacía, sino que realiza aquello para lo que יהוה la envió. Esa relación es **canónica y aproximada**: Isaías interpreta la eficacia de la palabra en su propio contexto profético, mientras Devarim 32 usa el rocío para introducir el canto. El paralelo sí permite conservar la observación de Eric de que la palabra recibida produce fruto; no permite afirmar que cada oyente retenga idéntico detalle ni que el fruto humano ocurra sin juicio y obediencia.
+
+El v. 4 proporciona el criterio: **(הצור)**, _haTzur_, «la Roca», es completo en su obra y recto en todos sus caminos. La palabra que desciende no es autónoma del carácter de quien habla: nace de la Roca y debe juzgar el corazón. Por eso Eric enlaza el canto con la «mente renovada» y con la palabra escrita dentro de la comunidad. «Renovación interior» es **pedagógica**; el texto exige oír, poner en el corazón y hacer, no solo experimentar una sensación espiritual.
+
+## De la rebeldía a la promesa de retorno — vv. 15-21, 39-43
+
+Eric describe el cántico como esperanza aun cuando el pronóstico humano es oscuro. La estructura local permite esa lectura, porque la acusación a Jeshurún no es la última sección: después de abandono, juicio y derrota, יהוה declara su soberanía y llama a las naciones a alegrarse con su pueblo. **(ישורון)**, _Yeshurun_, es un nombre poético para Israel; aquí no es una etiqueta intercambiable para toda comunidad religiosa. **(בעט)**, _va'yiv'at_, de בעט, significa patear o dar coces; su fuerza contextual es la rebelión insolente de quien se ha saciado, no una mera duda intelectual.
+
+En 32:15-18 la secuencia es provisión, saciedad, patada, abandono y desprecio. **(ויטש)**, _vayitosh_, significa abandonar o dejar; **(ינבל)**, _yenabel_, significa tratar neciamente o deshonrar. La clase tiene razón al decir que el problema no es que Israel haya recibido alimento, sino que haya convertido la abundancia en olvido de la Roca. La formulación «provisión que debe producir fruto» es una aplicación **aproximada**; la denuncia explícita es abandonar a quien hizo al pueblo.
+
+En 32:39, **(אני אני הוא)**, _ani ani hu_, significa «Yo, Yo soy Él». La repetición intensifica la autoafirmación: no hay otro elohim con יהוה, y él tiene autoridad sobre herir, sanar, hacer morir y hacer vivir. «Yo soy la vida» puede ser una conexión teológica posterior, pero no traduce por sí sola **(אחיה)**, _ajayeh_, «haré vivir». El v. 43 vuelve a **(וכפר)**, _vekhiper_, «y hará reconciliación/expiación» sobre su tierra y su pueblo. **(כפר)**, _kafar_, normalmente puede cubrir, expiar o hacer reconciliación; «perdonar» es **aproximado** y no debe borrar la justicia previa.
+
+La esperanza, entonces, no es evasión del juicio. El llamado «alégrense, naciones, con su pueblo» se apoya en que la sangre de los siervos será vengada, los enemigos recibirán retribución y la tierra será reconciliada. Eric conecta este final con la obra del Mesías y con la resurrección; esa conexión es **tipológica y canónica**, mientras que Ha'azinu afirma directamente que יהוה juzga, sana, venga y restaura bajo su soberanía. El canto permite esperar porque la Roca no abandona su justicia.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la exposición `youtube:CHpD4KHEGMA`                                     | Evaluación frente al texto                                                                  |
+| -------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 32:1-4         | La enseñanza desciende como lluvia y debe quedar retenida para producir fruto.                  | Apoyo textual para la metáfora de lluvia y enseñanza; «retentiva» es aplicación pedagógica. |
+| 32:5-18        | Israel se rebela después de recibir cuidado y provisión, abandonando a la Roca.                 | Apoyo directo: corrupción, engorde, patada y abandono aparecen en secuencia.                |
+| 32:35-43       | El juicio no cancela la esperanza: יהוה hace justicia, sana y llama a las naciones a alegrarse. | Apoyo textual cualificado; la lectura mesiánica y de resurrección es tipológica posterior.  |
+| 32:44-47       | El canto se entrega entero y no es palabra vacía, sino vida para el pueblo.                     | Apoyo directo: debe hablarse, ponerse en el corazón y enseñarse a los hijos.                |
+
+La observación pastoral sobre retener la palabra queda mejor calibrada por el propio cántico. La lluvia cae, pero la tierra también puede producir espinos; la enseñanza se oye, pero el pueblo puede corromperse. La eficacia de la palabra no significa que la respuesta humana sea irrelevante. El cierre afirma «es vuestra vida» porque el testimonio gobierna la permanencia en la tierra y la lectura de la historia, no porque permita separar doctrina, fruto, juicio y obediencia.
+
+## La Roca juzga sin dejar de ser refugio — vv. 35-43
+
+El cierre del cántico debe leerse como una respuesta a la pregunta de 32:4: ¿cómo puede la Roca ser fiel cuando Israel y las naciones han corrompido sus caminos? OE dice: **לי נקם ושלם לעת תמוט רגלם כי קרוב יום אידם וחש עתדת למו** (32:35), y TTH: «Mía es la venganza y la retribución; al tiempo que vacile su pie, porque cercano es el día de su calamidad». La clase de Eric conserva la esperanza de que la Roca no abandona a su pueblo, pero el texto sitúa esa esperanza después de una declaración explícita de juicio. **(נקם)**, _naqam_, significa vengar o ejecutar venganza; su fuerza contextual es la reivindicación judicial de יהוה, no autorización para que el individuo se vengue. «Hacer justicia» es una equivalencia **pedagógica y aproximada**; «venganza» mantiene el término del cántico, aunque necesita el sujeto divino para no volverse una consigna privada.
+
+En 32:36 la compasión no cancela la evaluación: «porque juzgará יהוה a su pueblo, y sobre sus siervos se compadecerá». **(דין)**, _din_, significa juzgar, litigar o administrar justicia; aquí une examen y decisión pública. **(נחם)**, _najam_, significa compadecerse, consolar o cambiar de disposición según el contexto; «sentir lástima» es demasiado estrecho. Eric puede hablar de restauración porque el poema avanza hacia la vindicación de los siervos, pero la equivalencia **exacta** no es «todo estará bien»: es que יהוה juzga a su pueblo y tiene compasión de sus siervos bajo su propia autoridad.
+
+El v. 39 refuerza la exclusividad: **ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא**, «vean ahora que Yo, Yo soy Él, y no hay dios conmigo; Yo hago morir y hago vivir, Yo hiero y Yo sano». **(מחץ)**, _majats_, significa herir, aplastar o golpear; **(רפא)**, _rapha_, significa sanar o curar. La pareja no permite convertir cada enfermedad en una lectura moral inmediata: su fuerza aquí es declarar que juicio y restauración no escapan al gobierno de יהוה. «Sanar el corazón» es una aplicación **teológica y aproximada**, no la equivalencia exclusiva de _rapha_.
+
+Finalmente, 32:43 llama a las naciones a alegrarse con el pueblo y termina con **וכפר אדמתו עמו**, «y hará reconciliación por su tierra, su pueblo». **(כפר)**, _kafar_, puede significar cubrir y, en una construcción cultual o poética, hacer expiación o reconciliación; «perdonar» es **aproximado** y no agota la forma. El final no borra la sangre vengada ni la retribución contra los enemigos: coordina justicia, alegría de las naciones y restauración de la tierra. La lectura mesiánica de Eric puede recibir este movimiento como figura de redención, pero la afirmación inmediata del canto es más sobria: la Roca vindica a sus siervos, juzga a sus adversarios y reconcilia a su pueblo.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [PARASHAT HA'AZINU ESPAÑOL 2015](https://www.youtube.com/watch?v=e54Boaj8Z_8) (`source_id`: `youtube:e54Boaj8Z_8`).
 - Video: [Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad](https://www.youtube.com/watch?v=86QJBg5Aw5E) (`source_id`: `youtube:86QJBg5Aw5E`).
+- Video: [Parashat Ha'azinu (2017) Él no es palabra vacía](https://www.youtube.com/watch?v=CHpD4KHEGMA) (`source_id`: `youtube:CHpD4KHEGMA`).
 - Esta nota organiza y contrasta el énfasis público del video; no presenta una transcripción automática como cita literal.
