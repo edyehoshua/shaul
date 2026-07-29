@@ -221,6 +221,14 @@ El cierre alcanza a la asamblea encarnada: **תענו את נפשתיכם וכל
 
 ## Conclusión
 
+## Control final de la asamblea: nativo, residente y reposo
+
+La exposición de Eric extiende la reconciliación hasta la vida concreta del pueblo. Los vv. 29–34 permiten evaluar esa extensión sin convertirla en una doctrina separada del calendario. OE dice **והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם**; TTH conserva que el nativo y el extranjero residente deben afligir sus gargantas y no hacer trabajo. **(אזרח)**, _ezraj_, significa nativo o ciudadano del país; aquí designa al israelita de la comunidad. **(גר)**, _ger_, significa residente extranjero o forastero que habita entre el pueblo; su fuerza contextual es incluir al residente bajo la respuesta ritual, no convertirlo automáticamente en israelita ni excluirlo del cuidado comunitario. «Todos los creyentes por igual» sería una aplicación pedagógica; el sentido exacto es la obligación cultual de los dos grupos nombrados.
+
+El texto repite el propósito: **כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו**. **(לטהר)**, _letaher_, significa «para purificar» o «para poner en estado de pureza»; aquí la forma expresa el resultado declarado del rito delante de יהוה. «Sanar emocionalmente» es una equivalencia aproximada, no la traducción exacta. **(חטאת)**, _jattat_, puede nombrar pecado, falta u ofrenda por el pecado según la construcción; en plural, «sus pecados» es una equivalencia contextual adecuada, pero no borra que el capítulo también trata impureza del espacio y funciones sacerdotales.
+
+Así, la observación de Eric sobre una reconciliación que debe alcanzar la vida y no quedarse en un símbolo queda bien apoyada como inferencia teológica: la comunidad ayuna o se humilla, cesa del trabajo y observa un estatuto anual. Pero la afirmación inmediata no es una regla moderna desligada del rito. El capítulo especifica fecha, sacerdote, sangre, macho cabrío, desierto, lavado y reposo. La equivalencia entre esta asamblea y una comunidad posterior es **canónica y aproximada**; la responsabilidad del nativo y del residente en Vaikra 16 es **textual y exacta** dentro del mandato recibido.
+
 ## Evaluación final de la exposición, siguiendo la perícopa
 
 La enseñanza de Eric sobre una reconciliación que no puede reducirse a una sola imagen queda mejor delimitada al seguir los verbos del capítulo. En los vv. 11-19 Aharón acerca el becerro, entra con el incensario y rocía la sangre; el OE dice **וכפר על הקדש מטמאת בני ישראל** y el TTH: «hará reconciliación por la Santidad debido a la impureza de los hijos de Israel». **(הזה)**, _hizah_, significa rociar o salpicar; su fuerza contextual es una acción sacerdotal localizada, y «aplicar la sangre» es una equivalencia pedagógica. **(כפר)**, _kafar_, significa cubrir y, en esta construcción cultual, hacer reconciliación; «pagar una deuda» es aproximado, no el sentido único de la raíz.
