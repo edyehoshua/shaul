@@ -618,6 +618,16 @@ El relevo de los vv. 23-26 completa la misma lógica. **(שוב)**, _shuv_, sign
 
 Delitzsch ofrece un paralelo canónico útil en Ivrim 9:6: **ואחרי נעשו אלה ככה באו הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**, «los sacerdotes entran continuamente en el tabernáculo exterior para realizar allí su servicio». **(עבודה)**, _avodah_, significa trabajo, servicio o labor; en Bamidbar 8 nombra la labor levítica y en Ivrim la labor sacerdotal. La conexión es **canónica y aproximada**, no una fusión de funciones. La luz orientada conduce al servicio, pero el capítulo conserva sus destinatarios, límites y propósito.
 
+## Reparación focal: la custodia que permanece — vv. 23-26
+
+La aplicación de Eric sobre un servidor que no abandona a sus hermanos cuando cambia de etapa necesita quedar atada a la perícopa final. OE dice **ושרת את אחיו באהל מועד לשמר משמרת ועבודה לא יעבד**, y TTH: «servirá a sus hermanos en la Tienda del Mo’ed, guardando la custodia, pero no trabajará en la labor». La observación de Eric recibe apoyo directo en la continuidad del verbo: el levita deja una clase de trabajo, pero no deja de servir. No obstante, la norma exacta pertenece a los levitas y no autoriza a trasladar sus edades a todo liderazgo contemporáneo.
+
+**(שוב)**, _shuv_, es una forma verbal cuyo sentido normal es volver, regresar o cambiar de dirección; en el v. 25 su fuerza contextual es regresar de la labor pesada al término de la edad establecida. «Retirarse» es una equivalencia aproximada, porque puede sugerir el fin de toda responsabilidad. **(שרת)**, _sharet_, significa servir o asistir; en el v. 26 describe ayuda a los hermanos, no gobierno. «Ministrar» es una equivalencia pedagógica útil, pero puede sonar más amplia que la asistencia cultual. **(שמר)**, _shamar_, significa guardar, custodiar o conservar; unido a **משמרת**, _mishmeret_, «custodia, guardia o encargo», nombra una responsabilidad delimitada. «Supervisar espiritualmente» sería una aplicación aproximada, no el sentido exacto.
+
+Eric también vincula la luz de los vv. 1-4 con una vida que no busca exhibirse. La conexión es teológica y pedagógica: el texto dice con exactitud que las lámparas alumbran hacia la faz de la Menoráh, y luego dice que el levita mayor sirve a sus hermanos. La inferencia no debe convertir cada lámpara en una alegoría fija; sí puede señalar una coherencia narrativa entre dirección recibida y servicio que protege a la comunidad. Delitzsch conserva un paralelo canónico en Ivrim 9:6: **ואחרי נעשו אלה ככה באו הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**, «después de hechas estas cosas, entran continuamente los sacerdotes en el tabernáculo exterior para realizar allí su servicio». **(עבודה)**, _avodah_, significa trabajo, servicio o labor en ambos textos; la relación es canónica y aproximada, no una fusión entre sacerdotes y levitas.
+
+La evaluación final es, por tanto, graduada: es exacto que Bamidbar 8 regula un servicio recibido, comunitario y limitado; es razonable aplicar el relevo a la madurez del servicio; y es inexacto convertir la edad levítica en una ley universal. La clase conserva una exhortación válida porque el capítulo une orden, obediencia, custodia y asistencia. La aplicación se mantiene bajo el texto, no por encima de él.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
