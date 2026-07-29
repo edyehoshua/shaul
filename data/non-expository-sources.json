@@ -201,6 +201,14 @@
       "classification": "musical-performance",
       "reason": "La transcripción local conserva una interpretación musical en árabe, con aplausos, música y fragmentos líricos; no contiene una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
       "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:YgDxHdLEmKc",
+      "title": "Jerusalén de Oro en español ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "classification": "musical-performance",
+      "reason": "Interpretación musical de una canción sobre Jerusalén; el material disponible no presenta una exposición bíblica sostenida para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-29"
     }
   ]
 }
