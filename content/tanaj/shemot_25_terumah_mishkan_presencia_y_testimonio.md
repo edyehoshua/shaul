@@ -17,6 +17,7 @@ sources:
   - "https://www.youtube.com/watch?v=4BXW1nJCLCc"
   - "docs/scriptures/oe/json/exodus/25.json"
   - "docs/scriptures/tth/json/shemot.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:cls5RxEzxtQ"
   - "youtube:4BXW1nJCLCc"
@@ -109,6 +110,16 @@ La preposición **(בתוך)**, _betokh_, significa dentro de, en medio de o ent
 El punto culminante de 25:22 aclara qué significa encuentro: **ונועדתי לך שם ודברתי אתך** («me reuniré contigo allí y hablaré contigo»). **(יעד)**, _yaad_, en la forma **ונועדתי**, significa reunirse o señalar un encuentro; su fuerza contextual es la cita prometida entre יהוה y Moshe, no una energía impersonal del objeto. **(דבר)**, _davar_, significa hablar o declarar; aquí la presencia se reconoce por palabra dirigida, no por una experiencia muda. «Comunión» es una equivalencia pedagógica aproximada; «hablaré contigo» es la formulación más cercana al TTH y al argumento local.
 
 Esta precisión también evalúa la conexión de la clase entre la cubierta y la reconciliación. **(כפרת)**, _kaporet_, designa normalmente la cubierta del arca; en Shemot 25 su función inmediata es ser el lugar «de sobre la cubierta» desde donde יהוה habla entre los querubines. «Propiciatorio» es una traducción tradicional y aproximada que necesita explicación ritual posterior. No es lícito hacer que toda la doctrina de Vayikra 16 sea el significado exclusivo del término aquí. Eric conserva una dirección canónica válida al relacionar encuentro, acceso y reconciliación, pero el pasaje de Shemot exige empezar por testimonio, palabra, modelo y presencia prometida.
+
+## El testimonio del Mishkán y la lectura de Ivrim 9
+
+La lectura canónica de Ivrim 9 confirma la relación entre los objetos y el acceso, pero también obliga a conservar el orden de Shemot 25. Delitzsch describe el primer espacio así: **כי־הוקם המשכן החיצון אשר־בו המנורה והשולחן ומערכת הלחם והוא נקרא קדש**, «se levantó el Mishkán exterior, donde estaban la Menoráh, la mesa y la disposición del pan, y se llamaba santo» (Ivrim 9:2). Es una conexión **canónica y aproximada**: Ivrim enumera los utensilios que Shemot manda fabricar, mientras Shemot 25 presenta el encargo original y no formula todavía toda la argumentación sobre la entrada sacerdotal.
+
+Delitzsch continúa: **ומבית לפרכת השנית משכן הנקרא קדש הקדשים**, «y detrás de la segunda cortina, el Mishkán llamado Santo de los Santos» (Ivrim 9:3). **(פרכת)**, _paroket_, significa cortina o separador; en Shemot 25:31–40 el término no aparece como una explicación de Bereshit 3, sino como parte del acceso regulado que la exposición de Eric relaciona con el árbol. «Barrera del pecado» es una equivalencia **pedagógica**; la fuerza inmediata es una división espacial santa. El cotejo apostólico amplía la lectura, pero no permite borrar la materialidad ni inventar una etimología.
+
+La lista de Ivrim 9:4–5 incluye **וארון הברית מצפה זהב כלו ... ולחות הברית** y **וכרובי הכבוד הסככים על הכפרת**, «el arca del pacto recubierta de oro ... y las tablas del pacto» y «los querubines de gloria que cubrían la cubierta». La conexión con Shemot 25:16 y 25:18–22 es directa en los objetos, pero **aproximada** en la aplicación: Delitzsch está argumentando sobre el santuario y sus límites, mientras Shemot subraya que יהוה da el testimonio, se reúne y habla desde encima de la cubierta. **(עדות)**, _edut_, es testimonio; **(כפרת)**, _kaporet_, cubierta; «presencia salvadora» sería una paráfrasis teológica y no una equivalencia exacta de ninguna de las dos formas.
+
+Así, Eric puede enlazar el Mishkán con acceso y reconciliación sin convertir cada utensilio en una alegoría autónoma. El modelo mostrado, la ofrenda voluntaria, el testimonio guardado y la palabra pronunciada desde la cubierta forman una secuencia: el pueblo entrega, Mosheh recibe el patrón, los artesanos obedecen y יהוה promete el encuentro. Ivrim 9 relee ese orden desde la historia posterior; no lo sustituye.
 
 ## Pan, luz y acceso: tres servicios bajo una misma palabra
 
