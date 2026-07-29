@@ -127,6 +127,14 @@ El leproso lleva la cadena a la pureza pública. **λεπρός**, _lepros_, «p
 
 ## Pendiente de verificar
 
+## Control de orden textual: anuncio, autoridad y retorno al testimonio
+
+Marcos 1 primero prepara el camino (1:1-8), después confirma al Hijo en la inmersión y la prueba (1:9-13), y solo entonces anuncia que el reino se ha acercado (1:14-15). **εὐαγγέλιον** (_euangelion_, «buena noticia») nombra el anuncio; **μετανοεῖτε** (_metanoeite_, «vuelvan o cambien de rumbo») y **πιστεύετε** (_pisteuete_, «confíen») describen la respuesta coordinada. La lectura de Eric sobre el reino como intervención gobernante se ajusta a **βασιλεία** (_basileia_, «reino o reinado»), cuya equivalencia con **(מלכות)**, _maljut_, es cercana y pedagógica, no una identidad de formas.
+
+La escena de la sinagoga (1:21-27) no aparece desconectada de ese anuncio. **ἐξουσία** (_exousia_, «autoridad o derecho para actuar») califica la enseñanza y el mandato; **ἐπιτιμάω** (_epitimaō_, «reprender o imponer una orden») y **ἔξελθε** (_exelthe_, «sal») muestran que la liberación ocurre por palabra autorizada. La observación de Eric sobre distinguir espíritu impuro y enfermedad recibe apoyo adicional en 1:32-34: Marcos enumera por separado a los que se encontraban mal y los demonios expulsados. Esa diferencia narrativa no es un diagnóstico moderno para todo sufrimiento.
+
+El cierre vuelve a la misión y a la restauración. **κηρύσσω** (_kērussō_, «proclamar públicamente») explica por qué Yehoshua sale a otras ciudades después de orar (1:35-39); **σπλαγχνισθείς** (_splagchnistheis_, «movido a compasión») y **καθαρίσθητι** (_katharisthēti_, «sé limpiado») describen la respuesta al leproso (1:40-42). El envío al sacerdote (1:44) conserva el procedimiento de Moshéh, y la divulgación posterior del hombre (1:45) explica la retirada de Yehoshua. Por tanto, la autoridad que Eric destaca se verifica en una cadena de anuncio, oración, distinción y restauración ordenada, no en fama o espectáculo.
+
 - [ ] Localizar la fuente rabínica precisa que la clase relaciona con el uso de _bat qol_ o con las categorías de impureza, antes de atribuirle una referencia concreta.
 - [ ] Cotejar en una fuente léxica el alcance de **(λεπρός)** y su relación histórica con **(צרעת)**, sin trasladar automáticamente una categoría a la otra.
 

@@ -216,6 +216,14 @@ Por último, 1:19-23 prueba el destino comunitario de la revelación. **ὑπε�
 
 ## Pendiente de verificar
 
+## Control de orden textual: del propósito a la asamblea
+
+El capítulo debe leerse como una sola progresión, no como una colección de frases sobre elección y poder. En 1:1 el **θέλημα** (_thelēma_, «voluntad o propósito») explica el origen del envío; en 1:3-6 la bendición y la elección tienen como horizonte ser santos y sin defecto; en 1:7-10 la redención, el perdón y el misterio revelado muestran cómo ese propósito se comunica en el Mesías. La observación de Eric sobre una voluntad que se reconoce en una vida reconciliada queda así apoyada como síntesis pastoral, pero el texto añade santidad, adopción y reunión bajo una cabeza.
+
+En 1:11-14 el argumento pasa de propósito a recepción. **ἐκληρώθημεν** (_eklērōthēmen_, «fuimos hechos herederos o recibimos una porción») y **ἐσφραγίσθητε** (_esphragisthēte_, «fuisteis sellados») no describen técnicas de control espiritual; son formas pasivas que presentan una herencia y un sello recibidos. La secuencia de **ἀκούσαντες** (_akousantes_, «habiendo oído») y **πιστεύσαντες** (_pisteusantes_, «habiendo confiado») conserva la respuesta humana dentro del anuncio de la palabra de verdad. La equivalencia de sello con una marca de pertenencia es cercana y pedagógica, no una retroversión hebrea demostrada.
+
+La oración de 1:15-23 lleva esa recepción hacia una comunidad que necesita conocer. **ἐπίγνωσις** (_epignōsis_, «conocimiento reconocido o pleno conocimiento») tiene como objetos la esperanza, la herencia y el poder; **ἐγείρας** (_egeiras_, «habiendo levantado») y **καθίσας** (_kathisas_, «habiendo sentado») identifican ese poder por la resurrección y exaltación del Mesías. Finalmente, **κεφαλή** (_kephalē_, «cabeza») y **σῶμα** (_sōma_, «cuerpo») impiden convertir la voluntad revelada en una clave privada: el destino del argumento es una asamblea dependiente de Yehoshua. Esto prueba la observación de Eric sobre esperanza y vida compartida, mientras deja como inferencia sus reconstrucciones sobre jerarquías concretas.
+
 - [ ] Cotejar el análisis del aparato crítico y la propuesta de la clase sobre el destinatario de #ephesians_1_1 con una edición crítica y estudios de transmisión textual.
 - [ ] Verificar el uso de _thelema_ en #ephesians_1_1 y sus equivalencias con **(רצון)** antes de usar una sola glosa como definitiva.
 - [ ] Revisar si la reconciliación puede presentarse como definición exhaustiva de la voluntad de Elohim o como el eje temático propuesto por esta clase.
