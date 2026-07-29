@@ -82,6 +82,18 @@ El término **(πίστεως)**, _pisteos_, es genitivo de **πίστις**, _p
 - [ ] Examinar las categorías **(חול)**; **(טמא)** y **(κοινός)**; **(ἀκάθαρτος)** en sus contextos antes de presentarlas como equivalencias exactas.
 - [ ] Verificar la reconstrucción histórica de judíos y gentiles en Roma y su relación específica con Romanos 14.
 
+## Reparación de la secuencia: recibir, no juzgar y edificar
+
+Las tres fuentes públicas de esta nota —`youtube:IU50N7zdeww`, `youtube:FXNL9LiBWFk` y `youtube:UpiptaA32B4`— se conservan como atribución de las sesiones sobre convivencia, norma comunitaria y débiles y fuertes. La observación de Eric sobre el trasfondo judío y gentil, y sobre reglas de mesa que pueden convertirse en tribunal, es una propuesta atribuible; el título público no permite presentarla como reconstrucción histórica exhaustiva. Romanos 14 gobierna la evaluación verso a verso.
+
+En #romanos_14_1-4, **(προσλαμβάνω)**, _proslambanō_, significa recibir, acoger o tomar consigo; su fuerza contextual es incorporar al hermano a la comunión sin convertir sus dudas en un juicio preliminar. «Recibir» es una glosa **directa**, mientras identificar al débil exclusivamente con un grupo étnico es **inferencial**. **(διακρίσεις διαλογισμῶν)**, _diakriseis dialogismōn_, nombra disputas, juicios o diferencias de pensamientos; la expresión no autoriza a despreciar al que come ni a condenar al que se abstiene.
+
+En #romanos_14_13-15, **(πρόσκομμα)**, _proskomma_, significa tropiezo, obstáculo o causa de caída, y **(λυπέω)**, _lypeō_, significa entristecer, afligir o causar dolor. Sus fuerzas contextuales trasladan la libertad alimentaria al amor responsable: una práctica permitida no debe destruir la conciencia del hermano por quien murió el Mesías. «Tropiezo» es **aproximada** como imagen moral y «entristecer» es **directa** en el efecto relacional; ninguna forma convierte una preferencia comunitaria en una ley universal.
+
+En #romanos_14_19-23, **(οἰκοδομή)**, _oikodomē_, significa edificación, construcción o fortalecimiento; aquí nombra el bien que la comunidad debe perseguir junto con la paz. **(διακρίνω)**, _diakrinō_, significa distinguir, juzgar o dudar; en el cierre la acción sin convicción queda expuesta como problema de conciencia, no como permiso para que otro presione. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; su relación con **אמונה**, _emunah_, es **pedagógica y aproximada**, y el término aislado no decide toda la sintaxis de «de la fe» o «de la fidelidad».
+
+La lectura de Eric recibe apoyo **textual** cuando prioriza acogida, paz y edificación; queda **cualificada** cuando identifica al débil, las legumbres o las categorías de preparación con una reconstrucción histórica concreta; y es **pedagógica** cuando aplica el capítulo a prendas, bebidas o costumbres contemporáneas. El equilibrio canónico no es «cada uno hace lo que quiere»: Elohim recibe y juzga a sus siervos, mientras el hermano fuerte renuncia a usar su libertad para destruir y el hermano débil no convierte su conciencia en tribunal de todos.
+
 ## Conclusión
 
 Romanos 14 camina desde la acogida del débil hasta la conciencia ante Elohim. Eric llama la atención sobre un conflicto de mesa y sobre el daño que producen normas humanas cuando se vuelven acusación; el texto deja claro, en cualquier caso, que ni el que come ni el que se abstiene recibe permiso para despreciar o juzgar. La comunidad persigue justicia, paz y edificación porque Yehoshua murió por el hermano, y cada persona dará cuenta a Elohim.
