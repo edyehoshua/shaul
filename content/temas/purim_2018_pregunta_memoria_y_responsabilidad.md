@@ -24,11 +24,11 @@ translation: "[OE]"
 
 # Tesis
 
-El título público de la sesión de Eric de Jesús Rodríguez Mendoza pregunta por qué celebramos Purim. Como no hay transcript local utilizable, la atribución se limita al título visible, la URL pública y el tema anunciado; no se inventan citas ni detalles de la exposición. El libro de Ester responde desde su propia secuencia: una amenaza legal contra la vida, una intervención responsable de Ester y Mardoqueo, una inversión del decreto, descanso, alegría, envío de porciones y dones a los pobres. Celebrar, según el texto, no es consumir una tradición sin examen: es recordar una preservación concreta y dejar que esa memoria produzca responsabilidad.
+El título público de la sesión de Eric de Jesús Rodríguez Mendoza pregunta por qué celebramos Purim. La transcripción pública recuperada permite conservar observaciones concretas como paráfrasis atribuibles, sin convertir el texto automático en cita literal. El libro de Ester responde desde su propia secuencia: una amenaza legal contra la vida, una intervención responsable de Ester y Mardoqueo, una inversión del decreto, descanso, alegría, envío de porciones y dones a los pobres. Celebrar, según el texto, no es consumir una tradición sin examen: es recordar una preservación concreta y dejar que esa memoria produzca responsabilidad.
 
 ## Alcance y evidencia pública
 
-El inventario registra `youtube:lJpkAqUpOiM` con el título «Jag Purim (2018) ¿Por qué celebramos Purim?». Ese dato es evidencia **exacta** del foco anunciado, pero no permite atribuir a Eric una reconstrucción detallada de argumentos. La Escritura local gobierna el estudio. Las conexiones con prácticas actuales son **pedagógicas y aproximadas**, no declaraciones directas del expositor.
+El inventario registra `youtube:lJpkAqUpOiM` con el título «Jag Purim (2018) ¿Por qué celebramos Purim?». La transcripción recuperada permite atribuir con precisión localizada la distinción de Eric entre suerte, azar y decisión bajo parámetros, así como su explicación de la pregunta de Ester 9:26-28; se conserva en paráfrasis y con el alcance de la evidencia. La Escritura local gobierna el estudio. Las conexiones con prácticas actuales son **pedagógicas y aproximadas**, no declaraciones directas del expositor.
 
 ## Hoja de comparación
 
@@ -53,6 +53,18 @@ La pregunta «¿por qué celebramos?» debe mantener la diferencia entre narraci
 
 **זָכַר**, _zakar_, significa recordar o traer a la memoria; en este contexto la memoria es activa y transmisible. «Memoria» es una glosa **directa**, mientras afirmar que cada costumbre moderna reproduce exactamente el texto sería **aproximado**. **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres; la equivalencia es **directa** y el cuidado social pertenece a la instrucción narrativa. **שָׁלוֹם**, _shalom_, significa paz, integridad o bienestar; en 10:3 su fuerza es el bien público buscado por el liderazgo. Reducirlo a ausencia de conflicto sería **aproximado**.
 
+## Reparación desarrollada: Purim no es azar sin gobierno
+
+En `youtube:lJpkAqUpOiM`, aproximadamente entre 00:01:02 y 00:07:47, Eric distingue el término persa **פּוּר**, _pur_, de la idea castellana de «buena suerte». Explica que el sorteo de Amán da nombre a Purim, pero sostiene que el resultado no debe imaginarse como un azar autónomo: al repartir la tierra, Israel establece criterios antes de echar suertes, de modo que la decisión queda dentro de un marco y no se repite caprichosamente. La observación es atribuible en ese alcance; no se presenta como una cita literal.
+
+Ester 3:7 usa **פּוּר**, _pur_, que significa suerte, porción sorteada o lote; su fuerza contextual es el mecanismo con que Amán fija el día, no una doctrina de que el destino gobierne a Elohim. «Sorteo» es **directo** en el contexto narrativo, mientras «azar» es **aproximado y pedagógico**. El contraste de Eric con una repetición sin criterios recibe apoyo cualificado de Proverbios 16:33, donde el sorteo cae en el regazo pero la decisión pertenece a יהוה; no convierte cada procedimiento humano en revelación.
+
+Entre 00:08:34 y 00:13:31, Eric aplica el mismo control a Hechos 1:26: Matías es escogido después de fijar requisitos para los candidatos, no mediante una bolsa abierta a cualquier persona. La conexión ayuda a discernir, pero Hechos 1 no explica retrospectivamente todo Purim. **(κληρόω)**, _klēroō_, significa asignar por suerte, obtener por lote o recibir una parte; su sentido ordinario es **directo**, mientras afirmar que «suerte» equivale siempre a elección divina es **ilegítimo** sin el contexto. En Ester, la narración muestra la amenaza de Amán y luego la preservación; no ordena repetir su método para tomar decisiones comunitarias.
+
+La segunda parte de la exposición, aproximadamente entre 00:13:36 y 00:20:37, lee Ester 9:26-28 como respuesta a la pregunta «¿por qué estamos aquí?». Eric observa que los judíos y quienes se asociaron con ellos reciben la obligación de mantener los días; la pertenencia celebrativa se describe desde el texto como adhesión y memoria compartida, no como una afirmación étnica inventada por la nota. **(קִיֵּם)**, _qiyyēm_, significa confirmar, establecer o mantener; en Ester 9:27 su fuerza es asumir y sostener una práctica conmemorativa. «Dejaron vigente» es **aproximado y contextual**, y no prueba que toda costumbre posterior tenga el mismo rango que un mandato de la Torah.
+
+La exposición recibe **apoyo textual cualificado**: Ester 9:20-28 sí fundamenta la memoria en el sorteo que dio nombre a los días, la preservación narrada y la recepción comunitaria; el texto también debe gobernar la aplicación. La memoria no autoriza fatalismo, desprecio del extranjero ni violencia contemporánea. Su fruto canónico se mide por recordar la preservación, celebrar responsablemente y sostener el bien del prójimo.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad y fuente                                       | Observación atribuible por la fuente pública                          | Evaluación frente a Ester                                                           |
@@ -67,11 +79,11 @@ Ester responde a la pregunta por Purim sin convertirla en una celebración vací
 
 ## Pendiente de verificar
 
-- [ ] Recuperar un transcript público utilizable para distinguir observaciones adicionales de Eric más allá del título.
+- [ ] Contrastar en una edición crítica las formas de Ester 9:26-28 y Hechos 1:26 antes de convertir la comparación entre Purim y Matías en una conclusión histórica.
 - [ ] Cotejar prácticas históricas posteriores de Purim con fuentes trazables sin presentarlas como contenido de Ester.
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [Jag Purim (2018) ¿Por qué celebramos Purim?](https://www.youtube.com/watch?v=lJpkAqUpOiM) (`source_id`: `youtube:lJpkAqUpOiM`).
-- Esta nota conserva el foco público y lo contrasta con Ester; no presenta un transcript automático como cita literal.
+- Esta nota conserva observaciones localizadas de la transcripción pública como paráfrasis atribuibles y las contrasta con Ester; no presenta el transcript automático como cita literal.
