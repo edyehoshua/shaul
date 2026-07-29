@@ -52,8 +52,6 @@ references:
   - "#bamidbar_15_16"
 sources:
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
-  - "private/sources/LfJ1LGjOXho.md"
-  - "/Users/jhonny/.codex/attachments/2aa04a5f-60a5-4c99-aac2-8229e8676f09/pasted-text.txt"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
