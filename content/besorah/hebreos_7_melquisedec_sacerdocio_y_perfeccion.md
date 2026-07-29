@@ -79,6 +79,12 @@ El sacerdote que nos convenía es santo, inocente, sin mancha, apartado de los p
 
 Leído de corrido, 7:20-28 encadena cuatro afirmaciones: el Mesías fue constituido con juramento (**כִּי הֵמָּה נִתְכַּהֲנוּ בְלִי־שְׁבוּעָה וְזֶה בִּשְׁבוּעָה עַל־יְדֵי הָאׂמֵר לוֹ נִשְׁבַּע יְהוָֹה וְלׂא יִנָּחֵם אַתָּה־כׂהֵן לְעוֹלָם**), vive siempre para interceder, es santo e inocente, y ofreció una vez por todas. Eric recalca que el juramento no es un detalle decorativo: diferencia el oficio del Hijo de los nombramientos que terminan con la muerte. El texto local también conserva el contraste final entre los sumos sacerdotes que necesitan ofrecer diariamente por sus propios pecados y el Hijo que lo hizo “una vez” por el pueblo. Así se prueba en el propio capítulo la conclusión de la clase: permanencia e intercesión no son atributos separados, sino la razón por la que su sacerdocio alcanza completamente a quienes se acercan por medio de él.
 
+## Control de la transición: 7:13-19 antes del juramento
+
+La transición entre la comparación con Leví y el juramento no debe saltarse. En 7:13-14 la carta dice que aquel de quien se habla pertenece a otra tribu, de la cual nadie sirvió al altar, y recuerda que el Mesías procede de Yehudá, no de Leví. En 7:15-16 vuelve a la semejanza con Melquisedec y la funda en “el poder de una vida indestructible”, antes de citar el testimonio de que es sacerdote para siempre. Eric usa este orden para explicar por qué el oficio del Hijo no es una reforma genealógica del sacerdocio levítico: primero se excluye la descendencia sacerdotal terrenal, después se declara la base vital del nuevo oficio.
+
+El texto local conserva el punto material: **כִּי אֲשֶׁר־מְדֻבָּר בּוֹ כָּזׂאת הוּא מִשֵּׁבֶט אַחֵר אֲשֶׁר מֵעוֹלָם לׂא־שֵׁרֵת אִישׁ מִמֶּנּוּ בַּמִּזְבֵּחַ** (7:13), y luego **אֲשֶׁר אֵינֶנּוּ עַל־פִּי חֻקַּת בָּשָׂר וָדָם אֶלָּא עַל־פִּי כּׂחַ חַיִּים שֶׁאֵין לָהֶם הֶפְסֵק** (7:16). **ἀκατάλυτος**, _akatalytos_, significa “indestructible” o “que no puede disolverse”; la correspondencia con “vida que no se interrumpe” es exacta en el eje del argumento y pedagógica cuando Eric la extiende a explicaciones sobre la condición celestial. Así, 7:18-19 (“mandamiento anterior” y “esperanza mejor”) queda como consecuencia del cambio de oficio, no como un rechazo genérico de la Torá.
+
 ## Léxico clave
 
 | Forma              | Transliteración | Sentido normal                      | Fuerza contextual y relación                                                                          |
