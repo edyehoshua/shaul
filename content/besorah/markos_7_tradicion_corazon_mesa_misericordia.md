@@ -123,6 +123,14 @@ La tercera escena mantiene la tensión de la mesa. La mujer sirofenicia no borra
 - **Marcos 7:24-30 — prioridad y misericordia:** Eric lee el «primero» de los hijos como prioridad de la misión y observa que la mujer responde dentro de la imagen de la mesa; la nota conserva la misericordia concedida y deja las reconstrucciones históricas como pendientes.
 - **Marcos 7:31-37 — abrir oídos y lengua:** Eric explica **(ܐܬܦܬܚ)** como orden aramea y advierte que los gestos no son una fórmula repetible; la nota sostiene el resultado textual y marca la relación arameo-hebreo como aproximada.
 
+## Prueba adicional: la palabra que desplaza y la palabra que restaura
+
+La respuesta de Yehoshua a los perushim y la respuesta de la mujer sirofenicia deben permanecer en la misma secuencia, pero no confundirse. En 7:8, **(ἐντολή)**, _entolē_, «mandamiento u orden», designa lo que procede de Elohim; en 7:13, **(παράδοσις)**, _paradosis_, «tradición transmitida», designa lo que los interlocutores reciben de seres humanos. La diferencia no convierte toda tradición en rebelión: el verbo **(ἀθετέω)**, _atheteō_, «rechazar, invalidar o dejar sin efecto», muestra que el problema es el resultado de una práctica que anula el mandamiento. La equivalencia pedagógica con **(מצוה)**, _mitzvah_, es cercana en el campo de «mandato», pero Marcos gobierna la prueba mediante su propia sintaxis.
+
+La escena de la mesa introduce después una forma distinta de respuesta. La mujer no obtiene la liberación por una fórmula secreta ni por una genealogía reconstruida; el narrador dice **(διὰ τοῦτον τὸν λόγον)**, _dia touton ton logon_, «por esta palabra», y la manda de vuelta a su casa. **(ὑπάγε)**, _hypage_, «ve o marcha», es una orden de retorno que confirma que la hija queda libre antes de que la madre pueda presentar una prueba visible. Eric destaca la prioridad de los hijos y la amplitud de las migajas; el texto permite sostener ambas cosas como tensión narrativa: hay un orden expresado y hay misericordia efectiva para quien responde dentro de la imagen.
+
+La última perícopa confirma el tema del oído, pero mediante una acción corporal concreta. **(ἀκούω)**, _akouō_, «oír o escuchar», aparece en el resultado de 7:35, mientras **(λύω)**, _lyō_, «soltar o desatar», describe la lengua que deja de estar impedida. La relación con **(שמע)**, _shama_, es una equivalencia temática y aproximada; no prueba que Marcos haya retrovertido un término hebreo. El capítulo empieza con personas que juzgan lo que oyen sobre una mesa y termina con un hombre que oye y habla correctamente: la restauración no borra la enseñanza anterior, sino que muestra cómo la misericordia produce escucha y testimonio.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar fuentes rabínicas tempranas y su datación para el uso de «cerco para la Torá» y para las prácticas de lavado mencionadas por la clase.
