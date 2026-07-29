@@ -120,6 +120,16 @@ Esta unidad también explica por qué el canto será testigo. La palabra oída e
 - [ ] Separar en nota propia Ha'azinu (Devarim 32) el desarrollo completo del canto aquí solo anunciado.
 - [ ] Examinar sin precipitación las afirmaciones de la clase sobre inhabitación, elección y «quién se pierde» a la luz del destinatario histórico de Devarim 31.
 
+## Control del argumento: presencia que ordena y testigo que acusa
+
+El recorrido del capítulo obliga a mantener juntas dos afirmaciones que la exposición de Eric presenta como tensión pastoral: יהוה va delante y no abandona, pero el pueblo puede apartarse y ser juzgado. En 31:6-8 el OE repite **לא ירפך ולא יעזבך**, y el TTH dice «no te soltará y no te dejará»; en 31:16-18 el mismo יהוה anuncia **והסתרתי פני מהם**, «ocultaré mi rostro de ellos». La primera frase promete compañía para el cruce encomendado; la segunda describe el juicio del pacto después de la infidelidad. No es legítimo convertir «Dios con nosotros» en inmunidad contra las consecuencias.
+
+**(עזב)**, _azav_, significa dejar, abandonar o desamparar; en 31:6 y 8 su fuerza contextual es la promesa de no desertar del pueblo en la misión dada. «Seguridad emocional» es **pedagógica**, no equivalencia exacta. **(רפה)**, _rafah_, significa aflojar, dejar caer o debilitar; con la negación refuerza que יהוה no soltará la mano. **(פנים)**, _panim_, significa rostro, faz o presencia; en **והסתרתי פני** su fuerza es la retirada judicial de la atención favorable, no una afirmación filosófica de que יהוה deje de existir o de estar en todas partes.
+
+El canto funciona como testigo precisamente porque la palabra fue oída. **(עד)**, _ed_, es testigo o testimonio; en 31:19 no significa una contraseña que protege automáticamente, sino un testimonio que permanece en la boca de Israel y puede acusar su rebelión. **(שכח)**, _shajaj_, significa olvidar; la frase «no será olvidada» expresa memoria pública, mientras «memoria espiritual» es una aplicación aproximada. Eric acierta al unir presencia, memoria y responsabilidad: la lectura textual exacta no promete que la revelación haga imposible la apostasía, sino que deja al pueblo sin excusa para llamar inesperado al juicio.
+
+Por eso la tipología de Yehoshúa debe conservar el orden del capítulo. **(עבר)**, _avar_, significa pasar o cruzar; aplicado a יהוה y a Yehoshúa describe la entrada dirigida por la palabra divina. «El Mesías garantiza todo éxito del creyente» sería una extensión **pedagógica** que el capítulo no formula. La lectura canónica posterior puede anunciar descanso y herencia, pero Devarim 31 mantiene como argumento crítico la comisión, la escucha, la obediencia y el testimonio frente a Israel.
+
 ## Conclusión
 
 Devarim 31 sostiene al pueblo entre dos certezas: quien pasa delante y no abandona es יהוה —y Yehoshúa es comisionado en ese marco—; y el mismo pueblo, conocido en su inclinación, llevará en la boca un canto y un libro que testificarán cuando el rostro se oculte. La valentía no nace de confesar el propio avance, sino de oír la Torá ante el rostro de יהוה y de no invertir el orden del que va delante.

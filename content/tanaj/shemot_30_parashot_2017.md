@@ -94,6 +94,16 @@ Así, la lectura de Eric sobre levantar la cabeza se sostiene cuando se sigue el
 - [ ] Comparar el rango de **פקד** en otros pasajes de servicio levítico.
 - [ ] Precisar históricamente la relación entre el medio shekel de Shemot 30 y contribuciones posteriores.
 
+## Control del argumento: el encargo no compra acceso
+
+La unidad del capítulo se vuelve más precisa cuando se separan tres movimientos: el pueblo es registrado y entrega una contribución, los sacerdotes se lavan antes de acercarse y los objetos de la unción y del incienso quedan reservados. Eric observa que levantar la cabeza no debe transformarse en una doctrina de autoexaltación. El texto lo confirma: el medio shekel se da **לזכרון**, «para memorial», mientras el lavacro y el aceite obedecen órdenes específicas de servicio. Ningún movimiento permite que el servidor fabrique acceso a la presencia.
+
+**(פקד)**, _paqad_, significa visitar, atender, asignar o pasar revista; en **לפקדיהם**, _lefiqdehem_, su fuerza contextual es registrar a personas bajo una responsabilidad ordenada. «Nombramiento ministerial» es **pedagógico**, no equivalencia exacta del sustantivo. **(כפר)**, _kafar_, significa cubrir y, en el ámbito ritual, hacer expiación o reconciliación; en **כפר נפשו** apunta a la vida de la persona y a su memorial cultual. «Comprar protección» es una lectura **inexacta**: el versículo limita la suma y la destina a la Tienda.
+
+La frontera se hace corporal en 30:20-21: **ורחצו מים**, «se lavarán con agua», antes de entrar o ministrar. **(רחץ)**, _rajats_, significa lavarse; su fuerza exacta es una preparación prescrita de manos y pies, no una metáfora libre de renovación interior. **(מות)**, _mut_, significa morir; la duplicación **מות ימתו**, _mot yumat_, intensifica la sanción: «morirán». «Consecuencia espiritual» puede ser una aplicación **pedagógica**, pero no debe borrar la advertencia cultual concreta.
+
+Finalmente, **קדש**, _qadesh_, significa separar o consagrar; en la unción aparta a Aharón y sus hijos para el sacerdocio, no convierte al ministro en dueño de lo santo. **(זר)**, _zar_, significa extraño o no autorizado; en la prohibición del aceite y del incienso delimita quién no puede reproducir el uso cultual. La observación de Eric sobre no secularizar lo santo queda apoyada, aunque el capítulo no autoriza trasladar sin mediación cada fórmula del santuario a cualquier práctica moderna. La equivalencia crítica es clara: responsabilidad recibida, acceso regulado y santidad que pertenece a יהוה.
+
 ## Conclusión
 
 El capítulo levanta la cabeza del pueblo al ponerlo bajo encargo, no al liberarlo de la obediencia. Cada vida queda recordada delante de יהוה mediante una contribución igual; el servicio requiere lavamiento; la unción y el incienso permanecen apartados. Eric acierta al resistir una lectura plana de «contar», y también al relacionar el levantamiento con el servicio comunitario. El texto, sin embargo, mantiene la medida: la restauración del pueblo no se demuestra por una exaltación humana, sino por una responsabilidad santa y recibida.
