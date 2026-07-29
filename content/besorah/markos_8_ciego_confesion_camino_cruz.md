@@ -180,7 +180,6 @@ La corrección de Kefa prepara el mandato a todos. **(ὀπίσω)**, _opisō_, 
 
 El cálculo de 8:36 cierra el argumento sin convertirlo en desprecio de la vida. **(ὠφελέω)**, _ōpheleō_, «beneficiar o aprovechar», pregunta por la ganancia real; **(ζημιόω)**, _zēmioō_, «perjudicar o sufrir pérdida», nombra lo que se pierde; y **(ψυχή)**, _psychē_, «vida, persona o ser viviente», conserva el campo semántico que TTH vierte como «vida». Eric aplica esta paradoja a la renuncia de la autosuficiencia. Marcos la limita a «por causa de mí y de la Besorah»: no toda pérdida es fidelidad, y no toda preservación material es negación. La visión clara del final consiste en ordenar título, padecimiento y seguimiento bajo la palabra del propio Mesías.
 
->>>>>>> e7dbeb8aa9 (docs(markos): deepen vision and crucifixion studies)
 ## Conclusión
 
 Marcos 8 lleva de una vista incompleta a una confesión probada. Kefa dice correctamente que Yehoshua es el Mesías, pero la explicación de Yehoshua impide que ese título se llene con ambición política o triunfo sin entrega. El Ben HaAdam debe sufrir, ser rechazado, morir y levantarse; después llama a quienes lo oyen a venir detrás de él, no delante de él con sus propias expectativas.
