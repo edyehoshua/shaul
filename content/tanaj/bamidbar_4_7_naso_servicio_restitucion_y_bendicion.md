@@ -153,6 +153,14 @@ La conclusión de 7:89 da el criterio final para todo liderazgo: Moshéh «oyó 
 - [ ] Estudiar el trasfondo histórico de las carretas levíticas sin convertir una reconstrucción en afirmación del texto.
 - [ ] Revisar con fuentes jurídicas y pastorales la diferencia entre describir la prueba de Bamidbar 5 y aplicarla hoy.
 
+## La autoridad se prueba por carga, reparación y escucha
+
+La clase de Eric resume el liderazgo como servicio a favor del pueblo; el orden de la parashá permite probar esa afirmación sin convertirla en un eslogan. El OE dice **איש איש על עבדתו ועל משאו**, «cada hombre según su servicio y según su carga» (#bamidbar_4_49). **(עבד)**, _avad_, significa trabajar o servir; en **עבדתו**, _avodato_, su forma nominal señala la tarea asignada. **(משא)**, _masa_, significa carga o peso transportado; «responsabilidad emocional» sería una equivalencia pedagógica que no debe reemplazar el peso real de las piezas del Mishkán.
+
+La responsabilidad tampoco termina cuando el dirigente entrega recursos. En Bamidbar 5, quien actuó con infidelidad debe **והתוודו**, «confesar», y devolver lo tomado con la quinta parte (#bamidbar_5_7). **(ידה)**, _yadah_, significa reconocer o confesar; la forma reflexiva pone la admisión en boca del culpable. «Pedir disculpas» es aproximado: el texto exige reconocimiento y restitución, no solo una fórmula verbal. Eric acierta al oponer autoridad servidora y privilegio cuando esta reparación permanece dentro de la definición de santidad.
+
+Finalmente, el OE de 7:89 dice **וישמע את הקול מדבר אליו**, «oyó la voz que le hablaba». **(שמע)**, _shama_, significa oír, escuchar o atender; su fuerza contextual es recibir una palabra dirigida desde la cubierta, no producir una experiencia autónoma. «Inspiración personal» sería una equivalencia inexacta. El movimiento completo de Naso es, por tanto, textual: יהוה asigna la carga, la comunidad repara el daño, los sacerdotes ponen el Nombre y Moshéh escucha. La aplicación contemporánea es pedagógica; la afirmación exacta es que el servicio queda bajo la voz de יהוה.
+
 ## Conclusión
 
 Naso enseña que el campamento se conserva mediante cargas distribuidas, reparación de la culpa, bendición bajo el Nombre y ofrendas que hacen posible el servicio. El liderazgo bíblico no se define por título sino por responsabilidad recibida. Al final, toda esa organización apunta a una finalidad sencilla y exigente: entrar en la presencia ordenada de יהוה y escuchar su voz.

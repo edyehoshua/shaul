@@ -27,6 +27,7 @@ sources:
   - "docs/scriptures/oe/json/genesis/24.json"
   - "docs/scriptures/oe/json/genesis/25.json"
   - "docs/scriptures/tth/json/bereshit.json"
+  - "docs/scriptures/delitzsch/json/corinthians2.json"
 source_ids:
   - "youtube:PM4WRF-kTM8"
 translation: "[OE, TTH]"
@@ -161,6 +162,14 @@ El cierre de la transacción reúne tres acciones que Eric tiende a leer como pr
 El narrador no deja la posesión en una promesa oral. El TTH declara que «el campo de Efrón ... fue establecido para Abraham por compra, ante los hijos de Jet» (#bereshit_23_17-18), y el OE usa **לאברהם למקנה**. **(מקנה)**, _miqneh_, significa adquisición, compra o propiedad obtenida; aquí su fuerza es una transferencia concreta de campo, cueva y árboles. «Garantía absoluta de toda la tierra» sería una equivalencia **inexacta**: Abraham adquiere una parcela de sepultura, no el dominio total de Kenáan. La clase acierta al ver una esperanza que no depende de favores ambiguos, pero el texto la muestra humilde y limitada.
 
 La misma sobriedad protege la lectura de separación. Abraham se inclina ante los hijos de Jet y negocia con respeto; **(חוה)**, _jawa_, en la fórmula de inclinarse, expresa reverencia o homenaje, no adopción de su culto. «No comunión» es una aplicación **canónica y pedagógica** cuando Eric la enlaza con 2 Corintios 6, no una orden de romper toda relación social. Bereshit 23 prueba algo más preciso: se puede tratar justamente con el pueblo de la tierra sin convertir un regalo informal en fundamento de la herencia. La separación consiste en guardar la promesa con transparencia, no en despreciar a los testigos.
+
+## Separación con respeto, no aislamiento: evaluación canónica
+
+La observación de Eric sobre no descansar en favores de los hijos de Jet necesita conservar dos datos simultáneos. El OE llama a Abraham **גר ותושב**, «forastero y residente» (#bereshit_23_4), y el TTH conserva que se inclina ante el pueblo antes de pedir la cueva. **(חוה)**, _jawa_, significa inclinarse o postrarse; su fuerza contextual es una muestra pública de respeto, no una adopción del culto hitita. «No comunión» es una equivalencia **pedagógica** cuando la clase la enlaza con 2 Corintios 6, pero no significa cortar toda conversación o comercio.
+
+La conexión apostólica debe citarse desde su propio texto. Delitzsch dice: **אל־תִּהְיוּ משְׁכִים בְּעׂל עִם־חַסְרֵי אֱמוּנָה כִּי אֵי־זׂה חֶבְרָה לַצְּדָקָה עִם־הָעַוְלָה**, «no lleguen a estar unidos en yugo con los que carecen de fe; ¿qué comunión hay entre la justicia y la injusticia?» (2 Corintios 6:14). **(חברה)**, _javerah_, significa asociación o comunión; aquí su fuerza es una unión espiritual incompatible, no una definición del trato civil de Bereshit 23. La equivalencia entre ambos pasajes es **canónica y aproximada**: Abraham negocia justamente con los hititas, mientras la exhortación de Delitzsch habla de una alianza que compromete la fidelidad.
+
+Por eso la compra de Majpelah no debe convertirse en una regla que prohíba toda relación con el prójimo. Abraham escucha, se inclina, paga y deja testigos; el OE termina diciendo **לאברהם למקנה לעיני בני חת**, «para Abraham por compra, ante los hijos de Jet» (#bereshit_23_18). **(עד)**, _ed_, significa testigo; aquí su sentido normal se ve en la publicidad de la operación, aunque «notaría» sería una equivalencia pedagógica moderna. La clase acierta al reclamar una herencia no dependiente de promesas ambiguas, pero el texto califica esa separación como transparencia y justicia, no como desprecio.
 
 ## Conclusión
 
