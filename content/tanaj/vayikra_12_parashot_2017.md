@@ -133,6 +133,16 @@ La exposición de Eric extiende la discusión hasta 1 Corintios 15:56 y propone 
 
 Esta precisión importa para Vayikra 12. Eric conecta muerte, pecado, parto, _olah_ y _jatat_, y la conexión canónica puede iluminar su preocupación por la restauración. Pero 1 Corintios 15:56 es una recepción apostólica posterior y no una glosa hebrea de **חטאת**, _jatat_, en el rito de la parturienta. La nota puede conservar el argumento de Eric —la expiación no debe reducirse a una acusación moral contra la madre— sin convertir una discusión griega sobre muerte y pecado en el significado inmediato de los días, las sangres o la ofrenda de Vayikra 12.
 
+## Control final: días, sangre y acceso restaurado
+
+El movimiento de la perícopa puede resumirse con las formas que aparecen en su orden. **והיתה בנדתה**, _vehayetah benidata_, mantiene a la mujer en su separación después del parto; **נדה**, _nidah_, normalmente comunica separación o apartamiento ritual. «Impureza moral» sería una equivalencia inexacta. Luego **תשב בדמי טהרה**, _teshev bedeme taharah_, dice que ella se sentará en las sangres de su pureza. **שב**, _shav_, significa sentarse, permanecer o habitar; en contexto indica la duración prescrita. **דם**, _dam_, sangre, en plural **דמים**, _damim_, conserva una referencia corporal; «restos emocionales» es una aplicación pedagógica, no el sentido necesario del sustantivo.
+
+Cuando se completan los días, el texto no salta directamente a una acusación, sino a una ofrenda. **והביאה**, _vehevi'ah_, procede de בוא en forma causativa: «traerá» o «hará venir». Su fuerza contextual es acercar el animal al santuario en el momento fijado. **עלה**, _olah_, significa lo que sube y designa el holocausto; **חטאת**, _jatat_, puede nombrar la ofrenda por pecado o una ofrenda de purificación según el contexto. La distinción importa: el segundo término no autoriza por sí solo a declarar que la parturienta haya cometido una falta personal.
+
+El sacerdote **וכפר עליה**, _veqiper aleha_, «hará expiación por ella», y **וטהרה**, _vetaharah_, «será pura» (#vayikra_12_7). **כפר**, _kiper_, expresa cubrir, expiar o reparar ritualmente; **טהר**, _taher_, expresa quedar puro o apto. La equivalencia «borrar toda culpa» es demasiado amplia para este contexto. La clase de Eric acierta al presentar la restauración como un proceso que no debe abandonarse cuando cesa el dolor: el propio texto encadena días cumplidos, ofrenda, acción sacerdotal y pureza.
+
+El último límite es económico y comunitario. **ואם לא תגיע ידו**, _ve'im lo tagia yado_, literalmente «si su mano no alcanza», usa **יד**, _yad_, mano; aquí funciona como expresión contextual de recursos disponibles. **ולקחה**, _velaqah_, significa «tomará» o «recibirá» y abre la alternativa de dos aves. La mujer pobre no queda fuera del acercamiento porque no pueda traer un cordero. Por eso la evaluación de Eric debe conservarse con precisión: el capítulo regula el acceso y la reintegración, protege la participación y distingue la ofrenda de una condena moral automática.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
