@@ -25,10 +25,12 @@ references:
   - "#kefa_alef_2_4-5"
 sources:
   - "https://www.youtube.com/watch?v=zjob2_-uFTs"
+  - "https://www.youtube.com/watch?v=1Dqriiq9bIU"
   - "docs/scriptures/oe/json/leviticus/19.json"
   - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
   - "youtube:zjob2_-uFTs"
+  - "youtube:1Dqriiq9bIU"
 translation: "[OE, TTH]"
 ---
 
@@ -88,6 +90,14 @@ Sobre Mólej, la clase menciona el consenso de una divinidad cananea y la posibi
 **(חלל)**, _jillel_, «profanar», aparece con fuerza en estos capítulos. Eric explica _jalal_/_jillel_ como hacer huecos, romper la continuidad de lo entero, y relaciona la imagen con heridos o decapitados (_jalalim_). Como pedagogía de aula es memorable; como equivalencia léxica exacta es insuficiente. El sentido normal es tratar como común, desacralizar o violar lo santo. En la práctica de la clase, profanar el Nombre o el santuario incluye dejar de tratar al hermano como distinguido por Dios. Esa aplicación ética es **aproximada** y debe subordinarse al texto: los mandamientos mismos definen dónde se abre el «hueco».
 
 El final del capítulo vuelve al _ger_ (#vaikra_19_33-34), a pesos y medidas justas (#vaikra_19_35-36) y a guardar estatutos y juicios (#vaikra_19_37). El amor al extranjero «como a ti mismo» y la memoria de Egipto impiden que la distinción de Israel se vuelva desprecio del residente. La santidad que distingue del paganismo no autoriza oprimir al que mora en la tierra.
+
+## La santidad no es de medio tiempo
+
+La exposición de Eric en **youtube:1Dqriiq9bIU** resume la aplicación de Vaikra 16–20 con una imagen deliberadamente cotidiana: «la santidad te persigue hasta las sábanas». También advierte que la santidad no se limita al momento de entrar al santuario, sino que alcanza la vida diaria y las relaciones del hogar. La frase es una paráfrasis pastoral, no una cita de Vaikra 19; sin embargo, el recorrido del capítulo le da un fundamento concreto. Después de hablar del altar y de los shabatot, el texto regula la cosecha, el salario, el juicio, la sexualidad, la comida, el extranjero y las balanzas. **(קדוש)**, _qadosh_, significa santo, consagrado o apartado; en 19:2 su fuerza contextual es una identidad que debe hacerse visible en prácticas públicas, no una etiqueta reservada al recinto cultual. «Santificar cada área» es una equivalencia pedagógica que resume el recorrido, no el sentido aislado de la forma.
+
+Eric relaciona además el límite del santuario con la obligación de vivir de modo compatible con la santidad de יהוה. El OE de 19:2 dice **קדשים תהיו כי קדוש אני יהוה אלהיכם**, «santos serán, porque santo soy yo, יהוה su Elohim», y TTH conserva la dirección a toda la congregación. La forma **(תהיו)**, _tihyu_, procede de היה y normalmente significa «serán» o «llegarán a ser»; aquí funciona como mandato dirigido a Israel y no prueba por sí sola una transformación automática. La observación de Eric recibe apoyo como exhortación: no se debe dividir la vida entre una reunión sagrada y una conducta indiferente. El texto añade el criterio verificable: guardar shabatot, dejar parte de la cosecha al pobre y al residente, no defraudar, juzgar rectamente y amar al compañero.
+
+El mismo principio aparece en el cierre social. **(גר)**, _ger_, significa residente extranjero o forastero protegido; en 19:33–34 no es una metáfora de una conciencia privada, sino una persona que habita con Israel. TTH dice: «como un nativo de ustedes será para ustedes el extranjero que habita con ustedes... y lo amarás como a ti mismo, porque extranjeros fueron ustedes en la tierra de Mitzráim». Eric identifica al _ger_ de la enseñanza como alguien incorporado a la comunidad aunque no sea israelita de nacimiento; «prosélito» es una equivalencia posible dentro de su aplicación, pero no agota el término en todos sus usos. La memoria del éxodo confirma la dirección ética: la distinción que יהוה da a Israel debe producir protección y amor, no superioridad explotadora.
 
 ## Hoja léxica
 
@@ -156,4 +166,5 @@ Vaikra 19 enseña una santidad que se camina en la tierra: dejar borde al pobre,
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Parashat Qedoshim Leviticus chapters 19 - 20 Saints will be](https://www.youtube.com/watch?v=zjob2_-uFTs) (`source_id`: `youtube:zjob2_-uFTs`).
+- Video: [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) (`source_id`: `youtube:1Dqriiq9bIU`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
