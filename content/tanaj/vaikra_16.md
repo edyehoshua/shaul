@@ -286,6 +286,14 @@ Esta precisión mantiene la observación real de Eric sin sustituirla por una ca
 | #vaikra_16_20-22 | La reconciliación incluye confesar y apartar las iniquidades mediante el macho cabrío vivo.               | La imposición de manos, confesión, carga y envío están en orden; «transferir culpa» es una síntesis aproximada.                              |
 | #vaikra_16_29-34 | La humillación del nefesh y el reposo hacen que la reconciliación alcance la vida del pueblo.             | El texto ordena afligirse y cesar de trabajar; la lectura de cuerpo incorruptible es una conexión mesiánica pendiente de cotejo.             |
 
+## El rito termina cuando el campamento vuelve a recibir a sus servidores
+
+La enseñanza de Eric sobre una reconciliación que alcanza la vida del pueblo debe incluir los vv. 26–28, no solo la sangre y el macho cabrío. El TTH dice que quien envía al macho cabrío «lavará sus vestidos y bañará su carne en agua, y después entrará al campamento»; del mismo modo, quien quema los restos lava sus vestidos y se baña antes de regresar. El OE mantiene el orden corporal: **וכבס בגדיו ורחץ את בשרו במים ואחרי כן יבוא אל המחנה**. La reconciliación no se presenta como una energía automática, sino como un rito con personas, materiales, estados y pasos de retorno.
+
+**(כבס)**, _kavas_, significa lavar, especialmente vestidos; **(רחץ)**, _rajats_, significa lavar o bañarse; **(מחנה)**, _majaneh_, significa campamento o lugar de acampada. En este contexto «purificarse interiormente» es una equivalencia **pedagógica** y demasiado amplia: el pasaje prescribe lavado y baño antes de entrar al campamento. **(טמא)**, _tame_, significa impuro o ritualmente contaminado; su fuerza aquí describe el estado cultual de quienes han manipulado el animal y los restos, no una condena moral permanente.
+
+Por eso la frase de Eric sobre que la reconciliación debe alcanzar la práctica recibe apoyo, pero con precisión. El capítulo ordena entrada, rociamiento, confesión, envío, salida, lavado, baño, ofrendas, humillación y reposo. «Vida transformada» es una aplicación **teológica y aproximada**; el orden de retorno es afirmación textual. Separar la salida y el lavado del rito deja incompleta la perícopa, pero convertir cada baño en una teoría moderna de regeneración también excede el texto.
+
 ## Ver también
 
 - [[vaikra_17_sangre_y_vida|Vaikra 17: sangre, vida y sacrificio]]

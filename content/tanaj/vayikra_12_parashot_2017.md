@@ -67,6 +67,14 @@ Eric conserva la diferencia entre los sacrificios: no todos son simplemente «po
 
 La clase conecta este capítulo con el Talmud de Jerusalén, Bereshit 3, 1 Corintios 15, Mishlei 20:27, Yohanan 1:9 y Gálatas 3:28. La relación con muerte, luz y dignidad de la mujer puede conservarse como lectura canónica posterior, no como la explicación explícita de cada día de Vayikra 12. En particular, la afirmación de que la mujer introdujo por sí sola el pecado y la muerte no debe presentarse como conclusión del capítulo. La ofrenda la reintegra; no la convierte en chivo expiatorio.
 
+## La restauración se confirma con acciones visibles
+
+La observación de Eric de que la recuperación no concluye cuando cesa el dolor queda especialmente clara en 12:3-8. El capítulo mantiene dos líneas simultáneas: al octavo día se circuncida al hijo, mientras la madre sigue sentada «en las sangres de su pureza» hasta completar el plazo; después trae la _olah_ y la _jatat_, y el sacerdote hace expiación por ella. El TTH conserva el movimiento: «Y al cumplirse los días de su pureza… traerá un hijo de su año para holocausto y un hijo de paloma o tórtola para ofrenda por el pecado». La cita confirma una secuencia ritual, no una acusación moral contra la parturienta.
+
+La forma **(ובמלאת)**, _uvimlot_, significa «al completarse»; aquí su fuerza contextual es que los días deben llegar a su término antes del acercamiento. **(הביא)**, _hevi_, significa traer o hacer venir; en 12:6 introduce el acto de acercar la ofrenda. «Reconstitución» es una equivalencia **pedagógica** para la aplicación pastoral de Eric, mientras «completar» y «traer» son más cercanas a las formas del versículo. La secuencia también protege a quien no puede pagar un cordero: **(תגיע ידו)**, _tagia yado_, literalmente «alcance su mano», funciona idiomáticamente como tener recursos. La alternativa de dos aves no rebaja la dignidad del rito ni excluye a la mujer pobre; hace posible su reintegración dentro de la misma orden.
+
+Esta lectura evalúa la clase con dos límites. Es **textualmente exacto** que hay un plazo, una señal de pacto, ofrendas diferenciadas y una alternativa económica. Es **teológico y aproximado** afirmar que cada detalle explica por sí mismo la muerte, la maternidad futura o la obra mesiánica. Esas conexiones pueden conservarse como recepción canónica, pero la perícopa primero muestra una mujer que espera, trae y vuelve a quedar pura mediante el servicio sacerdotal.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal                    | Fuerza contextual                                  | Equivalencia                    |
