@@ -247,8 +247,7 @@ Efesios 5 no opone espiritualidad y vida cotidiana. El amor, la luz, la gratitud
 
 ## Créditos
 
-Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
-
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - «La carta a los Efesios (parte 25) Cap 5 ¿Cómo empezar a imitar a Dios?» — https://www.youtube.com/watch?v=Ij-rarUs2z0 (`source_id: youtube:Ij-rarUs2z0`).
 - «La carta a los Efesios (parte 26) Cap 5 “en él (la luz) nos movemos vivimos y somos”» — https://www.youtube.com/watch?v=GY7a_nQHJ3g (`source_id: youtube:GY7a_nQHJ3g`).
 - «La carta a los Efesios (parte 27) Cap 5 ¿Cómo saber si aún estás en oscuridad?» — https://www.youtube.com/watch?v=vMKZxSXm6do (`source_id: youtube:vMKZxSXm6do`).
