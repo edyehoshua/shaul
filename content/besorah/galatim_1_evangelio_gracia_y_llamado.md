@@ -140,6 +140,14 @@ En Génesis 17:11, **(אוֹת)**, _ot_, significa señal, marca o signo; su fue
 
 La clase también conecta Jeremías 31:31-34 con Hebreos 8:8-12 y observa que la fórmula «yo seré su Dios y ellos serán mi pueblo» no presenta una ruptura simple con la promesa anterior. **(תּוֹרָה)**, _torah_, significa instrucción, enseñanza o ley; en Jeremías 31:33 su fuerza es la instrucción interiorizada en mente y corazón. «Ley» es una traducción tradicional y **aproximada**, mientras «instrucción» hace visible el sentido ordinario; ninguna de las dos autoriza a decir que Galatim 1 resuelve toda la teología de la alianza. La evaluación canónica queda, por tanto, en tres niveles: promesa antes de la señal, apoyo intertextual para distinguir salvación y práctica, y cautela ante cualquier sistema que haga de una señal el fundamento de la gracia.
 
+## Control de evidencia: la promesa no se convierte en requisito
+
+La observación atribuida a Eric en `youtube:4R5-ywKdnYw` debe conservarse en su alcance concreto: la promesa dada a Abraham precede a la circuncisión, y la señal no puede transformarse en una condición autónoma de salvación. Romanos 4:9-12 respalda directamente ese orden; Galatim 1:6-9 aporta el control inmediato al condenar un anuncio que altera la gracia. La conexión con Hechos 15:1 es **intertextual y cualificada**, no una cita de Galatim 1 ni una solución completa de la controversia.
+
+En Génesis 17:11, **(אוֹת)**, _ot_, significa señal, marca o signo; su fuerza contextual es la señal visible del pacto. La glosa «señal» es **directa**. **(בְּרִית)**, _berit_, significa pacto o alianza; su fuerza es la relación prometida por Elohim, no el rito mismo. La distinción entre ambas formas es **textual**, mientras afirmar que toda práctica posterior queda excluida de la obediencia es **inferencial**. La enseñanza recibe apoyo cuando separa señal y fundamento de la promesa, pero el texto exige seguir examinando cómo la comunidad vive después de recibir la gracia.
+
+La fuente pública permite atribuir el foco de la sesión y la observación general, no una formulación filológica exhaustiva. No se presenta una cita literal ni se confunde **(ἔθος)**, _ethos_, «costumbre o práctica habitual», en Hechos 15:1 con un término usado por Galatim 1. La calificación preserva la aportación de Eric y deja que cada perícopa gobierne su propia conclusión.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el itinerario, las ciudades de Galacia y la fecha relativa de la carta con bibliografía histórica y con Hechos 13–14, sin asumir que toda propuesta geográfica es indiscutida.
