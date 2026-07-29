@@ -170,7 +170,7 @@ Yojanán 10 no separa identidad, obras y cuidado pastoral. La puerta excluye el 
 
 ## Ver también
 
-- [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]] — #iojanan_9_39-#iojanan_10_8; `youtube:gK3V7SYBI_U`.
+- [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]] — #iojanan_9_39-#iojanan_10_8 (la fuente pública está acreditada en la nota enlazada).
 - [[yojanan_10_puerta_pastor_abba|La puerta, el buen pastor y Abba]] — #iojanan_10_7-18; `youtube:8geNmTcW6ZI`.
 - [[yojanan_10_nefesh_janukah_mesias|Nefesh, Janucá y la pregunta por el Mesías]] — #iojanan_10_17-24; `youtube:W1agi038QCs`.
 - [[yojanan_10_janukah_senales_mesias|Janucá y las señales del Mesías]] — #iojanan_10_22-30; `youtube:4Jw7Tt5he6o`.
