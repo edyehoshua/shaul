@@ -276,6 +276,16 @@ En 9:19-24, **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o
 
 El cierre reúne propósito y respuesta. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; y **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra. En 9:30-33, sus sentidos básicos son **directos**; la relación pedagógica entre _pistis_ y **אמונה**, _emunah_, es **aproximada**, no una sustitución automática del griego. La enseñanza de Eric recibe apoyo al distinguir utilidad y salvación; necesita corrección si la soberanía borra la responsabilidad o si el tropiezo de Israel se transforma en desprecio étnico.
 
+## Reparación final: el propósito de Faraón no agota la respuesta
+
+La observación atribuible a Eric en `youtube:atIdZY13b_c` debe conservar su alcance concreto: que Faraón sea usado dentro de un propósito histórico no demuestra, por ese solo hecho, su salvación personal. Romanos 9:17 ofrece apoyo **directo** para la función declarada. **(ἐγείρω)**, _egeirō_, significa levantar, suscitar o hacer aparecer; aquí introduce a Faraón en el propósito de mostrar el poder de Elohim y anunciar su Nombre en toda la tierra. La glosa «levantar» es **directa**, mientras extraer de ella el destino final de Faraón sería **inferencial y no demostrado** por la perícopa.
+
+La secuencia anterior impide aislar esa función de Israel. **(λύπη)**, _lypē_, significa tristeza, dolor o aflicción; en #romanos_9_2 nombra el sufrimiento real de Pablo por sus hermanos. **(διαθήκη)**, _diathēkē_, significa pacto, alianza o disposición; «pactos» es una glosa **directa** en la lista de privilegios de 9:4. Por tanto, la cautela sobre Faraón no puede convertirse en desprecio del pueblo al que Pablo atribuye adopción, gloria, pactos, Torah, culto y promesas.
+
+En 9:19-24, **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa responder, replicar o contestar; **(κεραμεύς)**, _kerameus_, significa alfarero; y **(πηλός)**, _pēlos_, significa barro o arcilla. Sus glosas son **directas** en el campo ordinario. La fuerza contextual sí mantiene la asimetría entre formador y criatura, pero no entrega una biografía exhaustiva de cada vaso ni convierte toda pregunta sincera en rebelión. La relación pedagógica con **יוצר**, _yotser_, «formador o alfarero», es **aproximada**, no una identidad entre la forma hebrea y la griega.
+
+El cierre conserva responsabilidad junto con misericordia. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; y **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra. En 9:30-33 sus glosas son **directas**, pero la relación pedagógica entre _pistis_ y **אמונה**, _emunah_, es **aproximada**. La lectura de Eric recibe apoyo cuando distingue utilidad histórica y salvación; necesita corrección si transforma la soberanía en fatalismo o el tropiezo de Israel en condena étnica. Romanos 9 termina con promesa, remanente, justicia y respuesta, y prepara la esperanza y la responsabilidad de Romanos 10–11.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
