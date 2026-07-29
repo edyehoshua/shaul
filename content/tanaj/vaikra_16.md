@@ -775,6 +775,18 @@ La forma **(כפר)**, _kafar_, tiene como sentido normal cubrir y, en la constr
 
 La secuencia final conserva además a toda la asamblea: «desde el nativo hasta el extranjero que reside en medio de ustedes». Esta inclusión no borra la mediación de Aharón ni convierte el rito en una práctica espontánea. El sacerdote entra, rocía, confiesa y sale; los servidores lavan sus vestidos y el pueblo se humilla. La observación de Eric sobre una obra completa queda mejor evaluada así: sangre, remoción, purificación, lavado y reposo pertenecen a un mismo día, pero cada acción mantiene su sujeto, momento y función. La unidad del rito se demuestra conservando sus diferencias.
 
+## Reparación focal: la asamblea y el extranjero quedan dentro del estatuto — Vaikra 16:29-34
+
+La observación de Eric sobre una reconciliación que alcanza la vida debe incluir a quienes no realizan el rito sacerdotal. OE dice **והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם**; TTH conserva que tanto el nativo como el extranjero que reside en medio de Israel deben afligir sus _nefesh_ y cesar del trabajo (#vaikra_16_29). **(אזרח)**, _ezraj_, significa nativo o natural del país; **(גר)**, _ger_, significa residente extranjero o forastero establecido. Su fuerza contextual es ampliar la obligación comunitaria del día, no borrar la diferencia entre sacerdote, pueblo y residente.
+
+**(ענה)**, _anah_, significa afligir, humillar o someter; aquí ordena una respuesta corporal y pública. **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; en «afligirán sus _nefesh_» no exige una sustancia interior separable. **(מלאכה)**, _melakhah_, significa obra, labor o trabajo; su fuerza es la cesación prescrita durante el día. «Arrepentimiento emocional» es una equivalencia pedagógica: puede expresar una aplicación ética de Eric, pero no sustituye la orden textual de afligirse y no trabajar.
+
+El v. 30 explica el propósito: **כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו**, «porque en este día hará reconciliación por ustedes para purificarlos de todos sus pecados; delante de יהוה serán purificados». **(טהר)**, _taher_, significa ser limpio o quedar puro; aquí describe el resultado cultual declarado para la asamblea. **(חטאת)**, _jattat_, significa pecado, falta o, según la construcción, ofrenda por el pecado; en este versículo nombra las faltas de las que el pueblo es purificado. «Borrar automáticamente toda consecuencia» es una equivalencia inexacta, porque el mismo pasaje exige fecha, estatuto y respuesta.
+
+El cierre repite la finalidad anual: **אחת בשנה**. **(שנה)**, _shanah_, significa año; la forma limita la celebración al ciclo que יהוה establece. **(חקת עולם)**, _juqat olam_, significa estatuto perpetuo o prescripción permanente; no describe una experiencia sin forma. Delitzsch relee el acceso anual en Ivrim 9:7, **לא בלתי־דם**, «no sin sangre», como parte de su argumento canónico sobre el santuario. La conexión con Vaikra es aproximada y posterior: no elimina al sacerdote, las dos cabras, la confesión, el lavado ni la aflicción de la asamblea.
+
+La clase de Eric queda así evaluada con precisión: es textual que la reconciliación trata la Santidad y alcanza a la comunidad; es aproximado hablar de «vida reconciliada» como una categoría teológica posterior; y sería inexacto convertir la purificación en permiso para omitir la respuesta de Israel. El estatuto concluye con «y lo hizo como יהוה mandó a Moshe» (#vaikra_16_34): la obra completa depende de una orden recibida, no de una fórmula disponible al intérprete.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
