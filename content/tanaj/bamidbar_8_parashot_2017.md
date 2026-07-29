@@ -516,6 +516,14 @@ En los vv. 9-19, la comunidad pone sus manos sobre los leviím y Aharón los pre
 
 El final prueba la continuidad de la custodia. Desde los cincuenta años el levita deja la labor pesada, pero **ושרת את אחיו**, _vesheret et ajav_, «servirá a sus hermanos». **(שרת)**, _sharet_, significa servir o asistir; «gobernar» es una equivalencia **inexacta**. La afirmación textual exacta es que la edad modifica la tarea sin cancelar la responsabilidad. Así, las cinco fuentes públicas convergen en un principio que el capítulo permite sostener como aplicación: la luz recibida debe volverse obediencia, servicio comunitario y custodia, no protagonismo autónomo.
 
+## Control final: la sustitución no elimina la responsabilidad
+
+La exposición de Eric sobre un servicio recibido se verifica en la relación entre los sujetos de 8:16–19. OE dice **כי לי כל בכור בבני ישראל... ואקח את הלוים תחת כל בכור** y TTH: «Porque Mío es todo primogénito ... y he tomado a los leviím en lugar de todo primogénito». **(בכור)**, _bekhor_, significa primogénito o primero nacido; su fuerza contextual recuerda la consagración vinculada al éxodo. **(תחת)**, _tajat_, significa debajo, bajo o en lugar de; aquí expresa sustitución funcional en el servicio, no superioridad moral ni reemplazo de toda responsabilidad de Israel. La aplicación de Eric a servidores que cargan por la comunidad es pedagógica y aproximada; la afirmación exacta sigue siendo levítica.
+
+El v. 19 explica el propósito: **ולכפר על בני ישראל**, «para hacer reconciliación por los hijos de Israel», y **ולא יהיה בבני ישראל נגף**, «para que no haya plaga entre los hijos de Israel». **(כפר)**, _kafar_, significa cubrir y, en esta construcción cultual, hacer reconciliación; su fuerza contextual nombra una función ritual asignada, no una autorización personal para absolver. **(נגף)**, _negaf_, significa golpe, plaga o tropiezo; aquí señala la consecuencia del acercamiento no regulado al santuario. «Proteger espiritualmente de todo daño» sería una equivalencia inexacta: el capítulo delimita un peligro cultual concreto.
+
+Delitzsch ayuda a comparar sin fusionar instituciones: **וְאַחֲרֵי נַעֲשׂוּ אֵלֶּה כָּכָה בָּאוּ הַכּׂהֲנִים תָּמִיד אֶל־הַמִּשְׁכָּן הַחִיצוֹן לַעֲבֹד שָׁם אֶת־עֲבוֹדָתָם**, «después de hechas estas cosas, entran los sacerdotes continuamente al tabernáculo exterior para trabajar allí su servicio», en Ivrim 9:6. La conexión es canónica y aproximada; Ivrim no convierte a los leviím en sacerdotes ni hace de **עבודה**, _avodah_, una abstracción. El término significa trabajo, servicio o labor, y en Bamidbar 8 nombra el servicio de Israel en la Tienda. Eric acierta al rechazar el protagonismo privado, pero el texto prueba esa exhortación mediante una cadena concreta: יהוה separa, la congregación identifica, Aharón presenta y los leviím sirven.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
