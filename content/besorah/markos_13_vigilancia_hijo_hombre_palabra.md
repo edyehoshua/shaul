@@ -307,6 +307,14 @@ Después, **γενεά**, _genea_, significa «generación, descendencia o époc
 
 Finalmente, **βλέπετε**, _blepete_, «miren o estén atentos», **ἀγρυπνεῖτε**, _agrypneite_, «manténganse despiertos», y **γρηγορεῖτε**, _grēgoreite_, «vigilen», son imperativos plurales que convierten la falta de información en una tarea comunitaria sostenida. La equivalencia temática con **(אמונה)**, _emunah_, «fidelidad, firmeza o confianza», es aproximada; no demuestra que los verbos griegos sean retroversiones hebreas. La lectura de Eric sobre la palabra inamovible conserva su fuerza cuando desemboca en vigilancia y obediencia, no cuando se usa para reclamar un calendario.
 
+## Control de dependencia: del templo a la vigilancia (13:1-37)
+
+La enseñanza debe conservar el movimiento completo del discurso. En 13:1-4 el templo y las dos preguntas abren el problema; en 13:14-27 aparecen la abominación, la huida, la tribulación, la venida del Hijo del Hombre y la reunión; en 13:28-31 la higuera y la palabra que no pasa ofrecen reconocimiento y certeza; y en 13:32-37 la falta de acceso al día y la hora desemboca en velar. La tesis histórica de Eric sobre Daniel 9 puede evaluarse dentro de ese recorrido, pero no puede desplazar el mandato final ni convertir una perícopa en calendario.
+
+**ἐπισυνάξει** (_episynaxei_, «reunirá») atribuye la reunión de los escogidos al Hijo del Hombre; **παραγενήσεται** (_paragenēsetai_, «llegará o estará presente») expresa la cercanía reconocible de la comparación; y **οὐκ οἴδατε** (_ouk oidate_, «no saben») limita el conocimiento de los discípulos. Estas formas no son equivalentes ni autorizan una retroversión hebrea automática. La variante local es igualmente decisiva: TTH omite «ni el Hijo» en 13:32 y Delitzsch la conserva, pero ambas lecturas mantienen la ignorancia comunitaria y la orden de vigilar.
+
+La observación de Eric sobre la palabra inamovible queda mejor probada por el contraste inmediato: **λόγοι** (_logoi_, «palabras o dichos») no pasarán, mientras **γρηγορεῖτε** (_grēgoreite_, «vigilen») convierte esa certeza en práctica sostenida. Así, Daniel, templo, venida y Getsemaní permanecen como dependencias interpretativas calificadas; el texto local conserva como núcleo firme una palabra estable, un momento no revelado y una comunidad responsable de permanecer despierta.
+
 ## Conclusión
 
 Marcos 13 deja al discípulo ante una tarea concreta: velar, porque el día y la hora no han sido entregados para el cálculo. La clase sostiene que el Hijo del Hombre no revela ese dato porque la vigilancia pertenece a la forma misma de la fidelidad. Su lectura de Abba como palabra inamovible es una propuesta teológica, no una traducción automática del arameo; ayuda a enlazar la venida repentina con la obediencia posterior de Yehoshua, pero exige conservar la distinción entre el texto y su desarrollo doctrinal.
