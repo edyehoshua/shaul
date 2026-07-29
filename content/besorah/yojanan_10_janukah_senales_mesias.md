@@ -189,6 +189,15 @@ Por eso la advertencia pastoral es práctica: no seguir anuncios de falsos mesí
 - #romanos_3_21-22: la justicia nuestra se manifiesta por la fidelidad del Mesías.
 - #zejariah_14_16: la segunda venida conduce a obediencia y adoración restaurada.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #iojanan_10_22-25 | Eric sitúa la pregunta mesiánica en Janucá y sostiene que las obras de Yehoshua ya funcionaban como testimonio público. | **Apoyo textual y contexto cualificado:** el capítulo fija la fiesta, el pórtico, la pregunta y las obras; la reconstrucción histórica del recinto queda pendiente. |
+| #bereshit_3_15; #shemot_12_3-6 | La clase reúne simiente y cordero para corregir una expectativa del Mesías reducida a rey político triunfante. | **Lectura canónica atribuida:** los pasajes locales sostienen simiente y cordero; su aplicación directa a Yehoshua es una conexión mesiánica de la clase. |
+| #ieshaiahu_11_1; #ieshaiahu_53_5; #irmeiahu_33_15-16 | Eric mantiene juntos retoño, siervo sufriente y brote de justicia, en vez de separar sufrimiento y reinado en dos figuras. | **Síntesis intertextual cualificada:** las imágenes están en los profetas; la identificación unificada y su relación con Romanos 3 se conserva como interpretación atribuida. |
+| #zejariah_9_9; #daniel_7_13; #hoshea_6_3 | La clase explica dos venidas del mismo Mesías mediante Rey humilde, Hijo del Hombre glorioso y lluvia temprana/tardía. | **Inferencia escatológica marcada:** los textos contienen las imágenes; la cronología de dos venidas y su aplicación al capítulo no se presenta como significado explícito de cada verso. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la explicación histórica del pórtico de Shelomóh, los niveles del recinto y las placas de exclusión gentil con fuentes arqueológicas y literarias.
