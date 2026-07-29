@@ -8,20 +8,21 @@ tags:
   - verdad
   - palabra
 references:
-  - "#john_8_30"
-  - "#john_8_31"
-  - "#john_8_32"
-  - "#john_8_34"
-  - "#john_8_39"
-  - "#john_8_42"
-  - "#john_8_51"
-  - "#john_8_58"
+  - "#iojanan_8_30"
+  - "#iojanan_8_31"
+  - "#iojanan_8_32"
+  - "#iojanan_8_34"
+  - "#iojanan_8_39"
+  - "#iojanan_8_42"
+  - "#iojanan_8_51"
+  - "#iojanan_8_58"
 sources:
   - "https://www.youtube.com/watch?v=VsjYQKWSKMs"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:VsjYQKWSKMs"
-translation: "[Delitzsch]"
+translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
@@ -34,12 +35,12 @@ Esta nota organiza la parte 23 de la serie de Eric sobre Yojanán 8:30 en adelan
 
 ## Hoja de comparación
 
-| Referencia | Texto local (Delitzsch) | Función en el argumento |
-| --- | --- | --- |
-| #john_8_30-32 | **ויהי כדברו את הדברים האלה ויאמינו בו רבים**; **אם תעמדו בדברי אז תהיו תלמידי באמת ובתמים... והאמת תעשה אתכם חפשים** | La fe inicial debe continuar en permanencia y discipulado; la verdad produce libertad. |
-| #john_8_34-36 | **כל איש אשר יעשה חטא עבד לחטא הוא**; **לכן אם הבן יעשה אתכם חפשים חפשים תהיו אל נכון** | Yehoshua distingue libertad del pecado y libertad concedida por el Hijo. |
-| #john_8_39-42 | **לו הייתם בני אברהם כמעשי אברהם עשיתם**; **כי מאת אלהים יצאתי... כי הוא שלחני** | La descendencia de Abraham se prueba por las obras; el enviado procede del Padre. |
-| #john_8_51-59 | **אם ישמר איש את דברי לא יראה-מות לעולם**; **אני הייתי עוד עד לא-היה אברהם** | Guardar la palabra, la vida y la declaración «Yo soy» llevan la discusión a su clímax. |
+| Referencia       | Texto local (TTH; cotejo Delitzsch)                                                                                       | Función en el argumento                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| #iojanan_8_30-32 | TTH: «muchos se afirmaron en Él»; «si permanecen en mi palabra… serán mis discípulos»; «la verdad los liberará».          | La fe inicial debe continuar en permanencia y discipulado; la verdad produce libertad. |
+| #iojanan_8_34-36 | TTH: «todo el que hace pecado, siervo del pecado es»; «si el Hijo los libera, en verdad hijos de libertad serán ustedes». | Yehoshua distingue libertad del pecado y libertad concedida por el Hijo.               |
+| #iojanan_8_39-42 | TTH: «si fueran hijos de Abraham, también las obras de Abraham harían»; «de Elohim he salido… Él me envió».               | La descendencia de Abraham se prueba por las obras; el enviado procede del Padre.      |
+| #iojanan_8_51-59 | TTH: «si un hombre guarda mi palabra, no saboreará la muerte nunca»; «antes que Abraham fuese, Yo soy».                   | Guardar la palabra, la vida y la declaración «Yo soy» llevan la discusión a su clímax. |
 
 ## Permanecer antes de reclamar libertad
 
@@ -53,29 +54,35 @@ La respuesta sobre Abraham revela el problema: «nunca fuimos esclavos» contrad
 
 La nota no usa «esclavitud» para etiquetar a una persona concreta sin examen. Sí conserva la afirmación del pasaje: la filiación reclamada debe concordar con la obra y con la recepción del enviado.
 
+Eric sigue la respuesta de los interlocutores en orden: primero apelan a ser simiente de Abraham y niegan haber servido a alguien; después Yehoshua redefine el problema desde la práctica del pecado (#iojanan_8_33-34). El texto local de TTH conserva ambos movimientos: «Simiente de Abraham somos» y «todo el que hace pecado, siervo del pecado es». La observación de la clase no es una acusación genérica contra una identidad étnica: señala que una herencia invocada no puede anular el diagnóstico que Yehoshua acaba de pronunciar.
+
+En #iojanan_8_35-38, Eric atiende a la casa y a la palabra recibida: el siervo no permanece para siempre, mientras el Hijo permanece, y Yehoshua habla de lo que ha visto con su Padre. El TTH dice: «el Hijo será para siempre» y «Yo lo que le he visto a mi Padre, hablo; y ustedes lo que han visto de su padre, hacen». Así, la libertad no queda separada de permanencia, escucha y procedencia; la conexión que la clase hace con una filiación demostrada por obras se apoya en la secuencia, aunque no convierte cada uso de «padre» en una definición doctrinal fuera de este diálogo.
+
 ## Abraham, el Padre y «Yo soy»
 
 En el orden textual, la discusión pasa de «somos descendencia de Abraham» a «si fueran hijos de Abraham, harían las obras de Abraham». Eric destaca que la genealogía no es suficiente: el texto confronta las obras de quienes buscan matar a Yehoshua por decir la verdad que oyó de יהוה. Luego el propio Yehoshua explica que salió de יהוה y que el Padre lo envió; la misión no nace de un capricho personal.
+
+La controversia se agudiza en 8:43-47. Eric observa que el problema ya no es sólo que los oyentes rechacen una explicación, sino que «no pueden escuchar» la palabra; el texto local lo expresa así: «no pueden escuchar mi palabra» y «todo el que es de Elohim, las palabras de Elohim escucha». La mención de Ha’satán y de la mentira pertenece al lenguaje fuerte del pasaje. Por eso esta nota conserva el contraste que hace la clase entre escuchar y reclamar filiación, pero no lo transforma en una etiqueta contemporánea aplicada sin el examen narrativo que el texto exige.
 
 Finalmente, Abraham se alegra de ver el día de Yehoshua y la declaración **(ἐγώ εἰμι)** (_egō eimi_) de 8:58 provoca la reacción del auditorio. Eric conecta «Yo soy» con la permanencia de quien no deja de ser, pero esa explicación filosófica excede la sola frase. El texto sí presenta una afirmación excepcional sobre la relación temporal entre Yehoshua y Abraham y muestra que sus oyentes la entendieron como una provocación grave.
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido en la nota | Estado |
-| --- | --- | --- | --- |
-| **(μένω)** | _menō_ | permanecer, continuar en la palabra | Correspondencia contextual directa en 8:31; no significa inmovilidad. |
-| **(ἀλήθεια)** | _alētheia_ | verdad o realidad que libera al discípulo | Aproximación contextual; no se aplana a información neutral. |
-| **(ἐλεύθερος)** | _eleutheros_ | libre, especialmente frente a esclavitud | Aproximación que debe leerse con casa, pecado e Hijo. |
-| **(ἐγώ εἰμι)** | _egō eimi_ | «Yo soy» | La relación con Éxodo 3 requiere estudio intertextual; se mantiene como pendiente, no como equivalencia automática. |
+| Forma           | Transliteración | Sentido en la nota                        | Estado                                                                                                              |
+| --------------- | --------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **(μένω)**      | _menō_          | permanecer, continuar en la palabra       | Correspondencia contextual directa en 8:31; no significa inmovilidad.                                               |
+| **(ἀλήθεια)**   | _alētheia_      | verdad o realidad que libera al discípulo | Aproximación contextual; no se aplana a información neutral.                                                        |
+| **(ἐλεύθερος)** | _eleutheros_    | libre, especialmente frente a esclavitud  | Aproximación que debe leerse con casa, pecado e Hijo.                                                               |
+| **(ἐγώ εἰμι)**  | _egō eimi_      | «Yo soy»                                  | La relación con Éxodo 3 requiere estudio intertextual; se mantiene como pendiente, no como equivalencia automática. |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Qué se tomó concretamente de Eric | Cómo se evaluó |
-| --- | --- | --- |
-| #john_8_30-32 | La fe debe permanecer en la palabra; «cumplir» debe entenderse como colmar o materializar, no solamente terminar. | Apoyo textual para permanecer y discipulado; la ampliación semántica de «cumplir» queda como observación pedagógica pendiente. |
-| #john_8_34-36 | La libertad verdadera no es la que se reclama por identidad, sino la que el Hijo concede frente al pecado. | Apoyo textual y aclaración léxica de **(ἐλεύθερος)**; se evita convertir la imagen en juicio personal indiscriminado. |
-| #john_8_39-47 | Ser descendencia de Abraham se prueba por hacer sus obras y escuchar la palabra de יהוה; el enviado no actúa por cuenta propia. | Apoyo textual en obras, verdad, escucha y envío; las referencias adicionales de la clase requieren cotejo separado. |
-| #john_8_51-59 | «Yo soy» afirma una permanencia que la muerte no cancela y lleva a la confrontación final con Abraham. | Apoyo textual en guardar la palabra y 8:58; la conexión etimológica o filosófica exhaustiva queda pendiente. |
+| Unidad textual   | Qué se tomó concretamente de Eric                                                                                               | Cómo se evaluó                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| #iojanan_8_30-32 | La fe debe permanecer en la palabra; «cumplir» debe entenderse como colmar o materializar, no solamente terminar.               | Apoyo textual para permanecer y discipulado; la ampliación semántica de «cumplir» queda como observación pedagógica pendiente. |
+| #iojanan_8_34-36 | La libertad verdadera no es la que se reclama por identidad, sino la que el Hijo concede frente al pecado.                      | Apoyo textual y aclaración léxica de **(ἐλεύθερος)**; se evita convertir la imagen en juicio personal indiscriminado.          |
+| #iojanan_8_39-47 | Ser descendencia de Abraham se prueba por hacer sus obras y escuchar la palabra de יהוה; el enviado no actúa por cuenta propia. | Apoyo textual en obras, verdad, escucha y envío; las referencias adicionales de la clase requieren cotejo separado.            |
+| #iojanan_8_51-59 | «Yo soy» afirma una permanencia que la muerte no cancela y lleva a la confrontación final con Abraham.                          | Apoyo textual en guardar la palabra y 8:58; la conexión etimológica o filosófica exhaustiva queda pendiente.                   |
 
 Este mapa registra los puntos concretos tomados de la clase y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
 
