@@ -192,6 +192,8 @@ El mapa conserva las observaciones concretas de Eric y prueba cada una contra el
 
 La nota tiene una sola fuente pública de enseñanza, `youtube:okx3HZGjZk8`, y la acredita con el enlace canónico completo en el frente y en los créditos. Esa fuente se usa para atribuir la lectura de escoger la vida, el llamado de los Doce, la casa dividida y la familia que hace la voluntad; no se presenta la transcripción automática como una cita literal ni se atribuye a Eric una fuente rabínica que la clase no identifica con precisión.
 
+La dependencia de cada afirmación queda delimitada: Devarim 30:19 ilumina la fórmula «escoger la vida»; el texto de Marcos gobierna la escena del Shabbat, la elección de los Doce, la acusación de los escribas y la familia reunida; las notas semíticas sobre nombres, Baal Zebub y una posible tradición aramea permanecen como propuestas atribuidas y pendientes. Así se evita que una conexión temática suplante la evidencia de la perícopa o que una reconstrucción histórica se presente como si proviniera del versículo.
+
 La secuencia del capítulo permanece intacta: primero la pregunta por hacer el bien y salvar una vida en Shabbat; después la sanidad y la conspiración; luego la multitud, el silencio impuesto a los espíritus y el establecimiento de los Doce; a continuación la acusación de los escribas, la casa dividida y la advertencia sobre la injuria; finalmente, la familia definida por hacer la voluntad de Elohim. Devarim 30:19 ilumina el contraste entre vida y muerte, pero Marcos gobierna el argumento y no queda convertido en una cita hebrea implícita.
 
 ## Control de la perícopa: vida, autoridad y casa

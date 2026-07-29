@@ -39,6 +39,15 @@ Marcos 5 presenta tres escenas enlazadas por una misma autoridad restauradora: Y
 
 La fuente de Eric está acreditada por su título público y su URL. El archivo de transcripción no estuvo disponible para este ciclo; por eso no atribuyo a la clase frases o argumentos que no puedo cotejar. La observación segura de la fuente es su foco explícito en el endemoniado de Gdarah. El resto de la nota es lectura del texto TTH local y deja las afirmaciones específicas de la exposición como pendientes, no como hechos inventados.
 
+### Control de fuente y atribución
+
+| Fuente pública                         | Alcance comprobable                                                        | Límite de uso                                                                                      |
+| -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Parte 18 (`youtube:jamQ95BSuN0`)       | El título público identifica el episodio del endemoniado de Gdarah.        | No se reconstruyen argumentos hablados que no estén disponibles para cotejo.                       |
+| `docs/scriptures/tth/json/markos.json` | Texto local de Marcos 5:1-43, usado para seguir las tres escenas en orden. | El corpus bíblico prueba el relato; no convierte en palabras de Eric las inferencias de esta nota. |
+
+Este control conserva una sola unidad canónica para Marcos 5 y mantiene el identificador público único de la clase. La atribución queda limitada al foco anunciado por el video; la comparación léxica y la lectura de 5:21-43 se presentan como trabajo textual de la nota, no como una transcripción implícita.
+
 ## La llegada a la región y el hombre de los sepulcros (5:1-20)
 
 El capítulo comienza al otro lado del mar, en la región de los gadarim. Al salir Yehoshua del bote, un hombre que vive entre sepulcros corre y se postra ante él. Marcos describe una opresión que ha roto los límites sociales y físicos: nadie logra sujetarlo con grilletes, grita día y noche y se hiere con piedras. No es una caricatura del enfermo ni una invitación a expulsar al diferente; el relato hace visible a una persona cuya vida ha quedado reducida a aislamiento, violencia contra sí mismo y dominio de espíritus impuros.
@@ -72,6 +81,8 @@ En la segunda mitad, la mujer se acerca desde atrás y la hija de Iair queda en 
 Así, la secuencia completa puede resumirse sin perder sus diferencias: (1) autoridad que enfrenta la opresión en los sepulcros; (2) restauración visible que devuelve a casa; (3) confianza expuesta en medio de una multitud; (4) perseverancia durante la demora; y (5) vida levantada que vuelve a lo cotidiano. La observación pública de Eric queda limitada al foco del primer movimiento, mientras el capítulo local permite probar el desarrollo posterior sin adjudicarle a la clase argumentos no recuperados.
 
 La cadena verbal refuerza ese movimiento. En 5:8, **ἔξελθε**, _exelthe_, «sal», es un imperativo dirigido al espíritu y no al hombre como si su identidad fuese idéntica a la opresión; en 5:19, **ὕπαγε**, _hypage_, «ve», dirige al hombre restaurado hacia su casa; y en 5:41, **ἔγειρε**, _egeire_, «levántate», produce una acción corporal verificable en la muchacha. Las tres órdenes deben distinguirse: expulsión, retorno y levantamiento. Juntas impiden resumir el capítulo como una técnica indiferenciada de milagros y conservan la observación más segura del texto: la autoridad de Yehoshua devuelve a personas concretas a relaciones, testimonio y vida cotidiana.
+
+La perícopa también distingue quién habla y qué efecto tiene cada palabra. Los espíritus reconocen a Yehoshua, pero su reconocimiento no se convierte en proclamación autorizada; los habitantes le piden que se retire, mientras el hombre restaurado recibe un encargo de anunciar misericordia. **(διηγοῦ)**, _diēgou_, «cuenta o relata», está en imperativo y dirige el testimonio a «los tuyos», no a una audiencia abstracta. Después, la mujer cuenta «toda la verdad» ante Yehoshua y la casa de Iair recibe una orden breve que se comprueba en el cuerpo de la niña. La secuencia muestra que restaurar no significa solamente expulsar un mal: significa devolver palabra, vínculos y capacidad de vivir delante de otros.
 
 El verbo **σῴζω**, _sōzō_, «salvar, rescatar, sanar o poner a salvo», ayuda a no separar artificialmente las escenas. La mujer dice que será salvada al tocar el vestido y oye después que su _pistis_ la ha salvado; el contexto especifica una sanidad que también la devuelve a la palabra pública y al _shalom_. No es el mismo resultado narrativo que la expulsión de los espíritus ni que el levantamiento de la niña. La comparación con **(ישע)**, _yasha_, «salvar o librar», es un puente semítico aproximado; el argumento depende del uso griego en la perícopa, no de afirmar que Marcos traduce una forma hebrea.
 
