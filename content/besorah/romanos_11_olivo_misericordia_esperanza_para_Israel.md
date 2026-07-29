@@ -189,6 +189,18 @@ La esperanza tampoco elimina la desobediencia. Pablo concluye que Elohim encerr�
 
 Este control conduce naturalmente a #romanos_11_33-36. **(ἀνεξιχνίαστος)**, _anexichniastos_, significa inescrutable o imposible de rastrear por completo; en la doxología limita la pretensión de dominar el misterio. «Inescrutable» es una glosa **directa**, pero no una prohibición de estudiar el argumento. La respuesta canónica a la enseñanza pública de Eric es, por tanto, una esperanza humilde: la raíz sostiene, Elohim puede reinjertar, la misericordia no se reclama como mérito y toda conclusión vuelve a la adoración.
 
+## Reparación: el misterio no cancela la responsabilidad
+
+La exposición de Eric debe conservarse en dos niveles. En `youtube:MHLbizeZrPc`, la pregunta atribuida —si la rama gentil se cree mejor que las ramas naturales— funciona como una aplicación directa de #romanos_11_18, donde Pablo prohíbe gloriarse contra ellas. En `youtube:bL-3YKdV0wo`, el anuncio del Redentor de Tziyón permite reconocer el foco público de #romanos_11_25-27, pero no autoriza a convertir el título en una cita ni en un calendario escatológico. En ambos casos, la evaluación canónica debe seguir el orden del capítulo: remanente, olivo, misterio, misericordia y doxología.
+
+La forma **(ἐγκεντρίζω)**, _enkentrizō_, tiene el sentido ordinario de injertar; en #romanos_11_17-24 describe una incorporación dependiente de la raíz. La traducción «injertar» es **directa**, mientras decir que la rama recibe propiedad del árbol sería **ilegítimo**. **(συνκοινωνός)**, _synkoinōnos_, significa participante o copartícipe; su fuerza contextual es compartir la raíz y la savia, no convertirse en origen. La relación pedagógica con **(שרש)**, _shoresh_, «raíz», en la traducción de Delitzsch es **aproximada**: ilumina la imagen semítica, pero no establece una etimología común.
+
+En #romanos_11_20-23, **(ἀπιστία)**, _apistia_, significa incredulidad o falta de confianza; aquí explica el desgajamiento y contrasta con permanecer en la bondad. «Falta de fidelidad» es una glosa **aproximada**, porque el contexto y no el sustantivo aislado determina el matiz. **(ἀποτομία)**, _apotomia_, significa severidad o rigor; su fuerza contextual aparece junto a la bondad de Elohim (#romanos_11_22). Presentarla como crueldad sería una inferencia **ilegítima**; presentarla como advertencia seria contra la jactancia es **textual y cualificada**.
+
+La esperanza de #romanos_11_25-32 tampoco debe desprenderse de la desobediencia. **(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o cumplimiento; en «la plenitud de las naciones» su traducción es **aproximada**, pues el término no fija por sí solo una cifra ni una cronología. **(σώζω)**, _sōzō_, significa salvar, rescatar o preservar; «será salvo» es **directo** en la frase, pero la identificación exacta de «todo Israel» queda **cualificada** por la sintaxis inmediata, las citas y el conjunto de Romanos 9–11. **(ἀμεταμέλητος)**, _ametamelētos_, significa irrevocable o no sujeto a arrepentimiento; en #romanos_11_29 califica los dones y el llamamiento, sin borrar las exhortaciones a permanecer.
+
+Así se preserva la observación pastoral de Eric sin atribuirle más de lo que permiten la fuente y la Escritura. La crítica a la superioridad recibe **apoyo textual directo**; una teoría histórica completa de reemplazo o una cronología detallada recibe solo **apoyo cualificado**. El capítulo termina con **(ἀνεξιχνίαστος)**, _anexichniastos_, «inescrutable», cuya fuerza es limitar la pretensión de dominar el misterio. La respuesta apropiada no es jactancia, sino misericordia humilde y adoración.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
