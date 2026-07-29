@@ -127,6 +127,20 @@ La hospitalidad también tiene un límite verificable. **(φιλοξενία)**,
 
 El orden evita dos reducciones del foco público de Eric. El reconocimiento de mujeres y colaboradores no elimina la prueba de la enseñanza, y la advertencia contra la división no borra la obligación de recibir a quienes sirven. **(φρόνιμος)**, _phronimos_, significa prudente, sensato o sabio; en #romanos_16_19 pide sabiduría para el bien. «Sabios» es una traducción **directa**, pero su fuerza es inseparable de ser inocentes para el mal: el discernimiento paulino no es sospecha permanente ni ingenuidad comunitaria. La doxología final confirma el criterio: la comunidad es afirmada conforme al evangelio y llevada a la obediencia de la emunah, no organizada alrededor de la reputación de una sola persona.
 
+## Lectura del capítulo
+
+Romanos 16 avanza desde la recepción concreta hasta el discernimiento y la doxología. En #romanos_16_1-2, Pablo recomienda a Febe y pide que la comunidad la reciba y la ayude; en #romanos_16_3-16, los saludos recuerdan trabajo, riesgo, casas y colaboración de mujeres y hombres; en #romanos_16_17-20, la comunidad recibe una advertencia contra quienes producen divisiones y tropiezos contra la enseñanza aprendida. Los saludos finales de #romanos_16_21-24 muestran que la carta también depende de escribientes, anfitriones y compañeros.
+
+El cierre de #romanos_16_25-27 devuelve toda esa red al evangelio y a las Escrituras proféticas. La obediencia de la emunah no queda como una etiqueta privada: es la finalidad pública de la revelación entre las naciones. Así, el capítulo mantiene juntas acogida, servicio, examen de la enseñanza y estabilidad que procede de Elohim.
+
+## Conexiones principales
+
+El título público de la clase sobre el papel de la mujer y asuntos congregacionales recibe **apoyo textual cualificado** en la recomendación de Febe y en la lista de colaboradoras y colaboradores. **(διάκονος)**, _diakonos_, significa servidor, ayudante o ministro según el contexto; en #romanos_16_1 describe a Febe en relación con la comunidad de Cencrea. «Servidora» es una glosa **aproximada y contextual**: reconoce el servicio nombrado sin resolver por sí sola un cargo técnico. **(προστάτις)**, _prostatis_, significa protectora, benefactora o ayudadora; en #romanos_16_2 destaca el apoyo que Febe prestó a muchos y a Pablo. «Ayudadora» es **directa en efecto**, mientras «patrona» requiere evidencia social adicional.
+
+La conexión entre reconocimiento y discernimiento es **textual**: Pablo pide recibir a quien sirve, y después manda observar a quienes causan división. **(σκοπέω)**, _skopeō_, significa mirar atentamente, observar o vigilar; en #romanos_16_17 su fuerza es examinar enseñanza y conducta, no sospechar de toda diferencia. **(διχοστασία)**, _dichostasia_, significa división o discordia; «división» es una traducción **directa**, pero aplicarla a cualquier desacuerdo sería una inferencia **ilegítima**. **(ὑπακοὴ πίστεως)**, _hypakoē pisteōs_, significa obediencia de fe o de fidelidad; la relación pedagógica con _emunah_ es **aproximada**, y la expresión debe leerse dentro del evangelio y de la misión a las naciones.
+
+La nota conserva así la observación de Eric sin convertir un título en una constitución completa de cargos. Romanos 16 permite afirmar que la comunidad debe recibir, ayudar y reconocer a quienes sirven; también exige probar una enseñanza divisiva. Las conclusiones sobre estructuras posteriores son **cualificadas** y deben someterse al conjunto de la Escritura.
+
 ## Pendiente de verificar
 
 ## Observaciones de Eric y evaluación textual ampliada

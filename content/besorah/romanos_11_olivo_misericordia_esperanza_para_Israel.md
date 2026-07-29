@@ -163,6 +163,20 @@ La conclusión de Romanos 11 exige distinguir promesa, respuesta y autoridad. **
 
 **(σπλάγχνον)**, _splanchon_, significa entrañas, afecto profundo o compasión; no es la forma central de Romanos 11, por lo que no debe presentarse como si Pablo la empleara aquí. Como término pedagógico, ayuda a describir la misericordia solo de manera **aproximada**; el texto local expresa esa misericordia mediante **(ἐλεέω)**, _eleeō_, «tener misericordia», cuyo sentido normal es mostrar compasión o favor. En #romanos_11_30-32, **(ἐλεέω)** tiene fuerza **contextual**: la misericordia de Elohim reúne a quienes estaban en desobediencia, pero no borra el hecho de la desobediencia ni permite reclamar mérito.
 
+## Lectura del capítulo
+
+Romanos 11 debe recorrerse en el orden en que Pablo construye su argumento. En #romanos_11_1-10, la pregunta sobre el rechazo de Israel recibe una negación enfática y una prueba personal: Pablo sigue siendo israelita, y el remanente existe por gracia. En #romanos_11_11-16, el tropiezo de algunos abre una misión hacia las naciones y una expectativa de celo para Israel; el texto no autoriza convertir ese tropiezo en abandono definitivo. En #romanos_11_17-24 aparece el olivo: la rama silvestre participa de la raíz, pero depende de ella y permanece bajo la advertencia de no jactarse.
+
+En #romanos_11_25-32, el misterio reúne endurecimiento parcial, entrada de las naciones, Redentor, pacto, padres y misericordia. La frase «todo Israel será salvo» debe permanecer dentro de esa secuencia y no funcionar como un lema separado de la exhortación a permanecer en la bondad. La doxología de #romanos_11_33-36 cierra el recorrido con humildad: el conocimiento de los caminos de Elohim no convierte al intérprete en dueño del misterio.
+
+## Conexiones principales
+
+La observación de Eric sobre no creerse mejor que los judíos tiene **apoyo textual directo** en «no te jactes contra las ramas» (#romanos_11_18). La aplicación a comunidades actuales es **pedagógica y cualificada**: denuncia la superioridad religiosa, pero no permite identificar sin más a cada grupo moderno con una rama particular. La conexión entre la raíz y las promesas a los padres es **contextual** y coherente con #romanos_11_28-29; no convierte la traducción hebrea de Delitzsch en una clave etimológica del griego.
+
+La forma **(ἐγκεντρίζω)**, _enkentrizō_, significa injertar; en #romanos_11_17-24 su fuerza contextual es una incorporación que Elohim realiza, no una transferencia de propiedad. **(συνκοινωνός)**, _synkoinōnos_, significa participante o copartícipe; «copartícipe» es una glosa **directa**, mientras «dueño» sería una inferencia **ilegítima**. **(ἐλεέω)**, _eleeō_, significa tener misericordia o mostrar compasión; en #romanos_11_30-32 sostiene la iniciativa misericordiosa de Elohim sin borrar la desobediencia que Pablo acaba de nombrar.
+
+Por tanto, el olivo conecta humildad, dependencia y esperanza, no reemplazo triunfalista. La clase acierta al confrontar la jactancia cuando conserva la dirección de la imagen; la lectura se vuelve solo **aproximada** cuando intenta convertir el capítulo en una cronología exhaustiva o en una clasificación automática de pueblos.
+
 - [ ] Cotejar las citas de #romanos_11_26-27 y su forma en Isaías con el texto griego de Romanos.
 - [ ] Examinar la sintaxis de «todo Israel» y «plenitud de las naciones» antes de fijar una lectura escatológica exclusiva.
 - [ ] Verificar desde las transcripciones disponibles los desarrollos adicionales que Eric haga a partir de la analogía del olivo y del Redentor de Tziyón.
