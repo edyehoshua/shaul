@@ -204,6 +204,14 @@ La advertencia sobre el Espíritu confirma esa dependencia. **λυπεῖτε**,
 
 La comunidad que llega a la cabeza en verdad y amor no mide su crecimiento por influencia, sino por si deja el robo para compartir, cambia la palabra corrupta por edificación y sustituye la ira alojada por bondad y compasión. El sello del Espíritu no borra la responsabilidad; la hace visible en el cuerpo.
 
+## Control de dependencia: una unidad recibida que se conserva andando (4:1-6)
+
+La exhortación de 4:1-3 depende de la identidad anunciada en los capítulos anteriores. **περιπατῆσαι**, _peripatēsai_, «caminar o conducirse», no introduce una espiritualidad abstracta: describe la respuesta práctica de quienes han sido llamados. **μετὰ πάσης ταπεινοφροσύνης**, _meta pasēs tapeinophrosynēs_, «con toda humildad», y **πραΰτητος**, _prautētos_, «mansedumbre», califican la forma de caminar; **ἀνεχόμενοι**, _anechomenoi_, «soportándose», y **σπουδάζοντες**, _spoudazontes_, «procurando con diligencia», muestran que guardar la unidad requiere paciencia activa. La comparación con **(הלך)**, _halaj_, «caminar», es pedagógica y no una retroversión del griego.
+
+La lista de 4:4-6 explica qué unidad se debe guardar: **ἓν σῶμα**, _hen sōma_, «un cuerpo», **ἓν πνεῦμα**, _hen pneuma_, «un Rúaj», una esperanza, un Señor, una fe, un bautismo y un Padre. El texto no ordena fabricar una uniformidad institucional; ordena conservar una confesión compartida mediante una conducta que soporta y ama. La repetición de **εἷς**, _heis_, «uno», limita la rivalidad entre servicios, mientras que 4:7 introduce **ἑνὶ ἑκάστῳ**, _heni hekastō_, «a cada uno», para afirmar una distribución diversa de gracia. Unidad y diversidad son, por tanto, movimientos consecutivos del argumento, no doctrinas enfrentadas.
+
+Esta dependencia también protege la lectura de los dones. Pablo no pasa de «un cuerpo» a una autoridad que absorba a todos; pasa de la confesión común a la gracia dada a cada miembro y a la finalidad de equipar y edificar. La observación de Eric sobre la necesidad de que cada parte sirva al cuerpo queda apoyada cuando se mantiene el orden: llamado humilde, unidad guardada, gracia distribuida y madurez común. El criterio no es cuánto poder reclama una persona, sino si su servicio conserva la paz y prepara a los santos para la obra.
+
 ## Conclusión
 
 Efesios 4 muestra cómo la gracia recibida se vuelve vida compartida. El llamado se camina con humildad, mansedumbre, paciencia y paz; la unidad se confiesa como un solo cuerpo y se protege sin negar que cada miembro recibe una medida; los servicios equipan a todos para crecer hacia el Mesías. La vida nueva no queda en una declaración: abandona la mentira, limita la ira, trabaja para compartir, habla para edificar y quita la amargura para aprender el perdón.
