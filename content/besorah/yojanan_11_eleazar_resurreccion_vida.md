@@ -42,11 +42,8 @@ references:
   - "#devarim_13_3"
 sources:
   - "https://www.youtube.com/live/LO66ZTVQ5Cw?si=0aY60gS2j6j-A55R"
-  - "private/sources/youtube_LO66ZTVQ5Cw_transcript.txt"
   - "https://www.youtube.com/watch?v=4nYEkCmDn14"
-  - "private/sources/4nYEkCmDn14.md"
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
-  - "private/sources/LfJ1LGjOXho.md"
 source_ids:
   - "youtube:LO66ZTVQ5Cw"
   - "youtube:4nYEkCmDn14"
@@ -231,6 +228,14 @@ Yehoshua deja de andar manifiestamente entre los yehudim y se retira a Efráim (
 - [ ] Cotejar en griego el cambio entre `phileo` y `agapao` en #iojanan_11_3 y #iojanan_11_5, manteniendo cautela frente a conclusiones rígidas.
 - [ ] Verificar la referencia litúrgica de la Amidah sobre יהוה como resucitador de muertos y su uso en el siglo primero.
 
+## Mapa de la enseñanza de Eric
+
+| Perícopa | Observación concreta tomada de Eric | Evaluación en la nota |
+| --- | --- | --- |
+| #iojanan_11_4-6 | La enfermedad y la demora no niegan el amor; la honra de Elohim gobierna el momento de la señal. | Apoyo textual cualificado: se conserva la demora y se distingue inferencia pastoral de explicación del relato. |
+| #iojanan_11_21-27 | Martah lamenta sin abandonar la confianza, y Yehoshua concentra el levantamiento y la vida en su propia persona. | Apoyo textual y aclaración léxica: se cotejan los términos de amor, vida y levantamiento sin afirmar equivalencias perfectas. |
+| #iojanan_11_39-45 | La corrupción visible y la orden pública a Eleazar muestran una señal que llama a la comunidad al testimonio. | Apoyo textual: la nota sigue la secuencia de piedra, llamado, desatar y respuesta de los testigos. |
+
 ## Conclusión
 
 Yojanán 11 presenta la muerte de Eleazar como el escenario donde se revela quién es Yehoshua. Él no llega tarde por falta de amor, ni llora por impotencia, ni resucita como simple agente externo. La clase lo presenta como el portador de Elohim, el que administra el amor divino en su momento y puede decir con autoridad: "Yo soy el levantamiento y la vida".
@@ -251,7 +256,7 @@ Yojanán 11 presenta la muerte de Eleazar como el escenario donde se revela qui�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «El Evangelio según Yojanan/Juan (parte 38, Cap 11)» — <https://www.youtube.com/watch?v=LO66ZTVQ5Cw> — transcripción: `private/sources/youtube_LO66ZTVQ5Cw_transcript.txt` — source_id: `youtube:LO66ZTVQ5Cw`.
-- Video: «El evangelio según Yojanan (parte 39) Cap 11» — <https://www.youtube.com/watch?v=4nYEkCmDn14> — transcripción: `private/sources/4nYEkCmDn14.md` — source_id: `youtube:4nYEkCmDn14`.
-- Video: «El evangelio según Yojanán (parte 40)» — <https://www.youtube.com/watch?v=LfJ1LGjOXho> — transcripción: `private/sources/LfJ1LGjOXho.md` — source_id: `youtube:LfJ1LGjOXho`.
+- Video: «El Evangelio según Yojanan/Juan (parte 38, Cap 11)» — <https://www.youtube.com/watch?v=LO66ZTVQ5Cw> — source_id: `youtube:LO66ZTVQ5Cw`.
+- Video: «El evangelio según Yojanan (parte 39) Cap 11» — <https://www.youtube.com/watch?v=4nYEkCmDn14> — source_id: `youtube:4nYEkCmDn14`.
+- Video: «El evangelio según Yojanán (parte 40)» — <https://www.youtube.com/watch?v=LfJ1LGjOXho> — source_id: `youtube:LfJ1LGjOXho`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
