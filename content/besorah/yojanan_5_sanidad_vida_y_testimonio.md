@@ -99,8 +99,8 @@ Yojanán 5 no permite separar sanidad, Torah, vida y Escrituras. La palabra de Y
 
 ## Ver también
 
-- [[yojanan_3_nacer_de_arriba_y_testimonio|Yojanán 3: nacer de arriba y testimonio]]
-- [[yojanan_4_agua_viva_y_adoracion|Yojanán 4: agua viva, adoración y confianza]]
+- [[yojanan_3_estudio_canonico_nacer_de_arriba_y_testimonio|Yojanán 3: estudio canónico — nacer de arriba y testimonio]]
+- [[yojanan_4_estudio_canonico_agua_viva_adoracion_y_confianza|Yojanán 4: estudio canónico — agua viva, adoración y confianza]]
 - [[yojanan_6_pan_de_vida_y_palabras_de_vida|Yojanán 6: pan de vida y palabras de vida]]
 
 ## Créditos

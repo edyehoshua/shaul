@@ -94,7 +94,7 @@ Caná y el santuario pertenecen a una misma secuencia narrativa: una señal mani
 ## Ver también
 
 - [[yojanan_1_testigo_cordero]]
-- [[yojanan_3_nacer_de_arriba_y_testimonio]]
+- [[yojanan_3_estudio_canonico_nacer_de_arriba_y_testimonio]]
 
 ## Créditos
 
