@@ -233,6 +233,16 @@ La imagen de los vasos requiere la misma disciplina. **(σκεῦος)**, _skeuo
 
 Así, la seguridad pastoral que Eric relaciona con la obra que Elohim comienza y termina debe permanecer en su nivel correcto. Puede dialogar canónicamente con #romanos_8_38-39 y #filipenses_1_6, pero es una aplicación **cualificada**, no el significado exhaustivo de #romanos_9_19-24. El capítulo afirma función histórica, paciencia, misericordia y llamamiento; también conserva el tropiezo y la necesidad de emunah. La lectura madura no transforma la experiencia personal en prueba automática sobre otra persona ni transforma el misterio del alfarero en permiso para borrar el dolor de Pablo por Israel.
 
+## Reparación final: propósito, misericordia y límite de la inferencia
+
+La sesión pública `youtube:atIdZY13b_c` permite atribuir a Eric la exposición de Romanos 9:19-24 sobre la objeción humana, el alfarero, Faraón y la diferencia entre una función dentro del propósito divino y la salvación personal. La atribución se conserva como paráfrasis localizada, no como cita literal. Romanos 9:17 sí afirma que Faraón fue levantado para que el poder y el nombre de Elohim fueran proclamados; el versículo establece una función histórica, pero no responde por sí solo todas las preguntas sobre el destino final de Faraón.
+
+En #romanos_9_19, **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o hallar falta; su fuerza contextual aparece en la pregunta «¿por qué todavía reprocha?». En #romanos_9_20, **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa responder, replicar o contestar; describe la réplica de la criatura frente a su formador. «Inculpar» y «responder contra» son glosas **aproximadas y contextuales**, no definiciones que resuelvan por sí solas la relación entre soberanía y responsabilidad.
+
+La imagen de las vasijas debe permanecer bajo la sintaxis de la perícopa. **(καταρτίζω)**, _katartizō_, significa preparar, ajustar o disponer; en #romanos_9_22-23 su fuerza contextual participa en la descripción de vasos y de la manifestación de la gloria. «Preparar» es **aproximado**, porque la construcción no presenta una simetría simple en todos sus detalles. La correspondencia pedagógica con **(יוצר)**, _yotser_, «formador o alfarero», es **aproximada**: ilumina la imagen bíblica compartida, pero no prueba que el hebreo sea la forma fuente del argumento griego.
+
+La observación de Eric gana precisión cuando el capítulo se recorre completo. La misericordia, el llamamiento y la promesa no cancelan la conclusión de #romanos_9_30-33: las naciones alcanzan justicia por emunah, mientras Israel tropieza al perseguirla como si procediera de obras. Así, la distinción entre propósito histórico y salvación recibe **apoyo textual cualificado**; convertirla en una doctrina exhaustiva sobre cada individuo sería una inferencia que la perícopa no demuestra. La nota preserva el capítulo consolidado, el URL público, el `source_id` y el crédito visible de Eric.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
