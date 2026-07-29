@@ -219,6 +219,12 @@ Así, el énfasis de Eric recibe **apoyo textual directo** cuando une paciencia,
 
 La evaluación de `youtube:mjo6EdF3RPs` debe conservar tres límites. Primero, **(προσλαμβάνω)**, _proslambanō_, significa recibir o acoger y en 15:7 sostiene una bienvenida orientada a la gloria de Elohim; no significa aprobar toda práctica ni suspender el discernimiento. Segundo, **(βεβαιόω)**, _bebaioō_, significa confirmar o hacer firme y en 15:8 protege la continuidad de las promesas; no autoriza a oponerlas a la misericordia mostrada a las naciones. Tercero, **(συναγωνίζομαι)**, _synagōnizomai_, significa esforzarse juntamente y en 15:30 describe la oración compartida por una misión expuesta a riesgos. Estas glosas son directas en su campo, mientras la aplicación a procedimientos modernos de reconciliación y financiación es cualificada. El capítulo termina con servicio e intercesión bajo la voluntad de Elohim, no con una promesa automática de éxito.
 
+## Control de la perícopa final: colecta, oración y paz
+
+La última unidad (#romanos_15_22-33) debe conservarse dentro del mismo argumento, no como un apéndice biográfico. Pablo proyecta el viaje a España, pero primero prioriza llevar la colecta a Jerusalén y pide que la comunidad luche con él en oración. **(κοινωνέω)**, _koinōneō_, significa participar, compartir o tener comunión; en #romanos_15_27 su fuerza contextual relaciona bienes espirituales recibidos y ayuda material ofrecida. «Compartir» es una glosa **directa en el campo ordinario**, mientras convertir el pasaje en un modelo económico universal sería **inferencial**.
+
+La petición de oración también califica cualquier lectura triunfalista de la misión. **(συναγωνίζομαι)**, _synagōnizomai_, significa esforzarse juntamente o luchar con alguien; en #romanos_15_30 describe participación intercesora, no violencia ni control del resultado. La observación pública atribuible a Eric sobre paciencia y paz recibe aquí **apoyo textual cualificado**: la paz puede sostener una misión que comparte recursos y enfrenta riesgos, pero el cierre subordina el viaje, la recepción del servicio y la visita a Roma a la voluntad de Elohim. «Éxito» como resultado garantizado sería una inferencia **ilegítima**.
+
 ## Ver también
 
 - [[romanos_14_acogida_mutua_conciencia_edificacion|Romanos 14: acogida mutua, conciencia y edificación]]

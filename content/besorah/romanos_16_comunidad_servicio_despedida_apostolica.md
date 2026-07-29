@@ -189,6 +189,14 @@ En #romanos_16_17-20, recibir a quienes sirven no elimina el discernimiento. **(
 
 El cierre vuelve a la fuente de esa estabilidad. **(στηρίζω)**, _stērizō_, significa afirmar, fortalecer o establecer; en 16:25 describe la obra de Elohim que sostiene a la comunidad conforme al evangelio. **(φανερόω)**, _phaneroō_, significa hacer manifiesto o dar a conocer; su fuerza en la doxología es reveladora, no una licencia para inventar información secreta. **(ὑπακοὴ πίστεως)**, _hypakoē pisteōs_, significa obediencia de fe o fidelidad; su relación pedagógica con _emunah_ es aproximada, no una equivalencia perfecta. La nota conserva así el foco público de Eric con una evaluación precisa: Febe debe ser recibida y ayudada, la red de colaboradores debe ser reconocida, la división debe ser examinada y toda estructura queda subordinada al evangelio.
 
+## Control final: recepción, discernimiento y obediencia
+
+Romanos 16 no permite convertir la recomendación de Febe en una regla aislada ni la advertencia contra la división en sospecha general. **(συνίστημι)**, _synistēmi_, significa recomendar, presentar o hacer constar la calidad de alguien; en #romanos_16_1 su fuerza contextual es solicitar confianza comunitaria para una servidora concreta. «Recomendar» es una glosa **directa**, mientras derivar de ella una constitución completa de cargos sería **inferencial**. La observación de Eric sobre reconocer el servicio de las mujeres recibe así apoyo textual, pero sus límites institucionales permanecen cualificados.
+
+La advertencia posterior usa otro criterio. **(ἐκκλίνω)**, _ekklinō_, significa apartarse, desviarse o evitar; en #romanos_16_17 su fuerza contextual es la separación ordenada frente a quienes producen división. «Apartarse» es una glosa **directa**, mientras convertirla en sospecha contra todo desacuerdo sería **ilegítimo**. El término central **(διχοστασία)**, _dichostasia_, significa división o discordia; su fuerza contextual se limita a quienes contradicen la enseñanza aprendida y engañan con palabras suaves. Por eso el capítulo sostiene simultáneamente recepción responsable y prueba doctrinal.
+
+La doxología fija el resultado. **(ὑπακοή)**, _hypakoē_, significa obediencia, escucha obediente o sumisión; en #romanos_16_26 forma parte de «obediencia de la fe» dirigida a las naciones. «Obediencia» es una glosa **directa**, mientras identificarla sin más con una definición exhaustiva de _emunah_ es **aproximado y pedagógico**. Toda continuidad comunitaria que Eric aplica debe volver a ese centro: Elohim afirma a la comunidad mediante el evangelio, no la reputación de un líder.
+
 ## Ver también
 
 - [[romanos_14_acogida_mutua_conciencia_edificacion|Romanos 14: acogida mutua, conciencia y edificación]]
