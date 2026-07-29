@@ -32,7 +32,7 @@ references:
   - "#devarim_30_19"
   - "#nejemiah_9_33"
 sources:
-  - "https://youtu.be/okx3HZGjZk8?si=w4-3qzKqdX89z9gT"
+  - "https://www.youtube.com/watch?v=okx3HZGjZk8"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/deuteronomy/30.json"
@@ -187,6 +187,12 @@ La escena cierra el hilo de la casa. Una casa dividida no permanece, pero Yehosh
 - **#markos_3_31-35 — familia definida por hacer la voluntad:** Eric conecta la escena de la madre y los hermanos con una familia mesiánica reunida alrededor de la obediencia. La respuesta de Yehoshua lo apoya directamente: mira a quienes están sentados alrededor y llama familia a quien hace la voluntad de Elohim; esto no borra el parentesco ni autoriza despreciar a la familia biológica.
 
 El mapa conserva las observaciones concretas de Eric y prueba cada una contra el orden narrativo de Marcos; las reconstrucciones históricas y semíticas no verificadas siguen marcadas como pendientes.
+
+## Control de fuente y secuencia narrativa
+
+La nota tiene una sola fuente pública de enseñanza, `youtube:okx3HZGjZk8`, y la acredita con el enlace canónico completo en el frente y en los créditos. Esa fuente se usa para atribuir la lectura de escoger la vida, el llamado de los Doce, la casa dividida y la familia que hace la voluntad; no se presenta la transcripción automática como una cita literal ni se atribuye a Eric una fuente rabínica que la clase no identifica con precisión.
+
+La secuencia del capítulo permanece intacta: primero la pregunta por hacer el bien y salvar una vida en Shabbat; después la sanidad y la conspiración; luego la multitud, el silencio impuesto a los espíritus y el establecimiento de los Doce; a continuación la acusación de los escribas, la casa dividida y la advertencia sobre la injuria; finalmente, la familia definida por hacer la voluntad de Elohim. Devarim 30:19 ilumina el contraste entre vida y muerte, pero Marcos gobierna el argumento y no queda convertido en una cita hebrea implícita.
 
 ## Control de la perícopa: vida, autoridad y casa
 

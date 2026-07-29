@@ -254,6 +254,12 @@ El argumento completo conserva así tres límites: el llamado produce seguimient
 | Marcos 2:18-22 | La presencia del novio y los odres advierten contra encerrar la renovación del Mesías en estructuras humanas. | **(νυμφίος)**, **(καινὸς)** y **(ἀσκοί)** sostienen la escena; la aplicación a formas eclesiales queda como analogía. |
 | Marcos 2:23-28 | El caso de David enseña a discernir el Shabbat sin convertir la Torah en una carga contra la vida.            | **(ἔξεστιν)**, **(κύριός)** y **(ἐγένετο)** se prueban contra el precedente narrado; no se concluye abolición.        |
 
+## Control de fuentes y orden del capítulo
+
+Las fuentes públicas se mantienen separadas por función. `youtube:poyAzSdiTQU` y `youtube:c_Ww_KfQuwI` introducen la autoridad del Ben HaAdam y el llamado de Abba; `youtube:OYK01CPrwKk` desarrolla la continuidad de Torah, yud y qotz; `youtube:YKQCpmNS3KM` retoma Abba, la mente del Mesías y la obediencia; `youtube:wR0WA_TLcCc` amplía la comparación entre El, Eloah y Elohim. La nota no convierte esas sesiones en cinco estudios independientes del capítulo: las ordena alrededor de Marcos 2:1-28 y marca como canónicas las conexiones que deben gobernarse por el texto local.
+
+El recorrido permanece en orden: (1) la fe de quienes acercan al paralítico y el perdón declarado; (2) la autoridad del Ben HaAdam verificada al levantarlo; (3) el llamado de Levi y la misericordia en la mesa; (4) el novio y los odres; y (5) David, las espigas y el señorío sobre el Shabbat. Jeremías 31:31-33 y los demás pasajes de apoyo explican la tesis de la Torah interior, pero no desplazan las perícopas ni permiten afirmar que Marcos 2 cite formalmente cada conexión.
+
 ## Verificación dirigida: nombres, función y confesión mesiánica (2:1-28)
 
 <!-- prettier-ignore -->
