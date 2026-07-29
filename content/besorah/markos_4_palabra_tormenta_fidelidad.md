@@ -78,7 +78,7 @@ Los discípulos no reciben una promesa de navegación cómoda. Yehoshua duerme e
 
 ### El viento y el mar obedecen (4:39-41)
 
-Yehoshua se levanta, reprende el viento y ordena al mar: **(ἐπιτίμα)**, _epitima_, «reprende» o «censura con autoridad»; **(σιώπα)**, _siopa_, «calla»; **(πεφίμωσο)**, _pephimoso_, «queda amordazado» o «enmudece». Son formas de mandato, no una descripción de una mejoría meteorológica espontánea. El resultado es **(γαλήνη)**, _galene_, «calma» o quietud del mar.
+Yehoshua se levanta, reprende el viento y ordena al mar: **(ἐπετίμησεν)**, _epetīmesen_, «reprendió»; después manda **(σιώπα)**, _siōpa_, «calla», y **(πεφίμωσο)**, _pephimōso_, «queda amordazado» o «enmudece». La primera forma narra la reprensión y las dos siguientes son mandatos; no se trata de una descripción de una mejoría meteorológica espontánea. El resultado es **(γαλήνη)**, _galene_, «calma» o quietud del mar.
 
 Eric conecta esta escena con Tehilim 89:9, donde יהוה domina la soberbia del mar, y con Tehilim 107:23-29, donde quienes están en el mar claman y יהוה convierte la tempestad en calma. La conexión es textual y temática: ambos testimonios atribuyen el dominio de las aguas a la autoridad divina. Marcos no cita formalmente esos salmos, pero la pregunta de los discípulos —«¿quién es este?»— invita al lector formado por ellos a considerar la identidad de quien manda y es obedecido por el mar.
 

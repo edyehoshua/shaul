@@ -90,7 +90,7 @@ La cadena verbal refuerza ese movimiento. En 5:8, **ἔξελθε**, _exelthe_, 
 | Forma              | Transliteración | Sentido normal y contextual                      | Equivalencia                                                                             |
 | ------------------ | --------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | **(λεγιών)**       | _legiōn_        | legión o gran cuerpo; nombre narrativo de muchos | Exacta como préstamo contextual; no es diagnóstico moderno                               |
-| **(σωφρονεῖν)**    | _sōphronein_    | ser sensato, tener juicio sano                   | Aproximada con «estar cuerdo»                                                            |
+| **(σωφρονοῦντα)**  | _sōphronounta_  | estar en juicio sano, ser sensato                | Aproximada con «estar cuerdo»                                                            |
 | **(πίστις)**       | _pistis_        | confianza, fidelidad, fe                         | Aproximada con _emunah_; el contexto decide el matiz                                     |
 | **(εἰρήνη)**       | _eirēnē_        | paz, bienestar, condición de concordia           | Pedagógica con _shalom_; no equivalencia total                                           |
 | **(πίστευε)**      | _pisteue_       | cree, confía; imperativo presente                | Exacta como mandato griego; aplicación sostenida por la forma verbal                     |
