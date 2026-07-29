@@ -50,15 +50,18 @@ Esta nota organiza una clase sobre el salmo 21. El hermano Eric lo lee en clave 
 
 ## Hoja de comparación
 
-| Referencia       | Texto local (hebreo sin nikud)              | Observación                                                                      |
-| ---------------- | ------------------------------------------- | -------------------------------------------------------------------------------- |
-| #tehilim_21_2    | יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד | El gozo del rey procede de la fuerza y de la salvación de יהוה.                  |
-| #tehilim_21_4    | כי תקדמנו ברכות טוב תשית לראשו עטרת פז      | La bendición y la corona son acciones de יהוה hacia el rey.                      |
-| #tehilim_21_5    | חיים שאל ממך נתתה לו ארך ימים עולם ועד      | El pedido de vida recibe una respuesta que se extiende «olam va-ed».             |
-| #tehilim_21_6    | גדול כבודו בישועתך הוד והדר תשוה עליו       | La gloria del rey está en la salvación de יהוה, no en autonomía.                 |
-| #tehilim_21_8    | כי המלך בטח ביהוה ובחסד עליון בל ימוט       | La confianza en יהוה y su hesed sostiene al rey.                                 |
-| #tehilim_21_9-10 | תמצא ידך לכל איביך... יהוה באפו יבלעם       | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada. |
-| #tehilim_21_14   | רומה יהוה בעזך נשירה ונזמרה גבורתך          | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.    |
+| Referencia        | Texto local (hebreo sin nikud)                                                                         | Observación                                                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #tehilim_21_2     | יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד                                                            | El gozo del rey procede de la fuerza y de la salvación de יהוה.                                                                                              |
+| #tehilim_21_3     | תאות לבו נתתה לו וארשת שפתיו בל מנעת סלה                                                               | Eric relaciona el deseo concedido con la promesa de יהוה; el verso afirma la respuesta divina, mientras la aplicación al reencuentro mesiánico es atribuida. |
+| #tehilim_21_4     | כי תקדמנו ברכות טוב תשית לראשו עטרת פז                                                                 | La bendición y la corona son acciones de יהוה hacia el rey.                                                                                                  |
+| #tehilim_21_5     | חיים שאל ממך נתתה לו ארך ימים עולם ועד                                                                 | El pedido de vida recibe una respuesta que se extiende «olam va-ed».                                                                                         |
+| #tehilim_21_6     | גדול כבודו בישועתך הוד והדר תשוה עליו                                                                  | La gloria del rey está en la salvación de יהוה, no en autonomía.                                                                                             |
+| #tehilim_21_7     | כי תשיתהו ברכות לעד תחדהו בשמחה את פניך                                                                | La bendición perpetua y la alegría ante el rostro de יהוה sostienen la lectura de Eric sobre contentamiento; no es una definición técnica de la raíz.        |
+| #tehilim_21_8     | כי המלך בטח ביהוה ובחסד עליון בל ימוט                                                                  | La confianza en יהוה y su hesed sostiene al rey.                                                                                                             |
+| #tehilim_21_9-10  | תמצא ידך לכל איביך ימינך תמצא שנאיך תשיתמו כתנור אש לעת פניך יהוה באפו יבלעם ותאכלם אש                 | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada.                                                                             |
+| #tehilim_21_11-13 | פרימו מארץ תאבד וזרעם מבני אדם כי נטו עליך רעה חשבו מזמה בל יוכלו כי תשיתמו שכם במיתריך תכונן על פניהם | Los planes de los adversarios no prevalecen; la lectura de Eric sobre justicia proporcional requiere otros textos para su desarrollo.                        |
+| #tehilim_21_14    | רומה יהוה בעזך נשירה ונזמרה גבורתך                                                                     | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.                                                                                |
 
 Las formas se conservan sin segmentación morfológica y las traducciones españolas funcionan como guía de lectura, no como sustituto del poema hebreo.
 
