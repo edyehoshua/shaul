@@ -269,6 +269,16 @@ La exhortación final prueba cómo debe recibirse esa palabra. **βλέπετε*
 
 Marcos 13 deja al discípulo ante una tarea concreta: velar, porque el día y la hora no han sido entregados para el cálculo. La clase sostiene que el Hijo del Hombre no revela ese dato porque la vigilancia pertenece a la forma misma de la fidelidad. Su lectura de Abba como palabra inamovible es una propuesta teológica, no una traducción automática del arameo; ayuda a enlazar la venida repentina con la obediencia posterior de Yehoshua, pero exige conservar la distinción entre el texto y su desarrollo doctrinal.
 
+## Control adicional: de la higuera a las palabras que no pasan
+
+La comparación de la higuera en 13:28-29 no funciona como una clave separada del discurso. **μανθάνετε**, _manthanete_, «aprended» o «comprended», introduce una observación de estación: cuando la rama se ablanda y brotan las hojas, se reconoce que el verano está cerca. El verbo enseña a leer una señal visible, pero **ἐγγύς**, _engys_, «cerca», no equivale a una fecha exacta. Eric puede aplicar la imagen a la atención ante los acontecimientos; el texto limita esa aplicación al reconocimiento de proximidad.
+
+En 13:30, **γενεὰ**, _genea_, «generación, descendencia o época según el contexto», aparece en la afirmación sobre «esta generación». La forma exige que se mantenga la tensión del pasaje: Marcos afirma que la generación no pasará antes de que sucedan las cosas anunciadas, y enseguida contrasta esa afirmación con la ignorancia del día y la hora. Resolver toda la relación entre «esta generación», la destrucción del templo y la venida final desde un solo término sería añadir una cronología que el texto no entrega.
+
+El versículo 31 desplaza la certeza desde los signos hacia las palabras. **λόγοι**, _logoi_, «palabras, dichos o mensajes», recibe la negación enfática **οὐ μὴ**, _ou mē_, «de ningún modo». La permanencia de los dichos de Yehoshua puede relacionarse pedagógicamente con **(אמונה)**, _emunah_, «fidelidad o firmeza», pero no es una retrotraducción hebrea del griego. La enseñanza de Eric sobre una palabra estable queda probada en contraste con cielo y tierra; su lectura sobre Torah, profecía y Abba permanece como desarrollo teológico que debe distinguirse de la sintaxis inmediata.
+
+Así, la secuencia completa protege dos verdades a la vez: las señales permiten reconocer el horizonte anunciado, mientras la palabra y la hora no se convierten en propiedad del intérprete. **ἀγρυπνεῖτε**, _agrypneite_, «manteneos despiertos», y **γρηγορεῖτε**, _grēgoreite_, «vigilad», convierten esa limitación informativa en encargo. La vigilancia fiel no corrige la incertidumbre con especulación; recibe la palabra, cumple el servicio y permanece despierta.
+
 ## Prueba final de la transición
 
 El argumento de Eric puede comprobarse sin resolver por adelantado la cronología de Daniel. Marcos comienza con **(βλέπετε)**, _blepete_, «miren o estén atentos», y **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos»; luego repite **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». Son imperativos presentes dirigidos a la comunidad, no claves para identificar una fecha. La negación de **(οἶδεν)**, _oiden_, «sabe», en 13:32, y la llegada inesperada del señor en 13:35-36 forman el contraste: la información queda restringida, pero la responsabilidad queda explícita.
