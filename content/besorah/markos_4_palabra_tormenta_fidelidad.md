@@ -48,6 +48,16 @@ Marcos 4 lleva la palabra desde el oído hasta una fidelidad probada. Yehoshua e
 
 Esta nota reúne las observaciones de Eric de Jesús Rodríguez Mendoza en la parte 8, la parte 16 («Las parábolas») y la parte 17, que continúa las parábolas y la travesía. La fuente de la parte 16 está registrada por su título público, pero su transcripción no estuvo disponible; por eso no se atribuyen a Eric detalles que no puedan comprobarse. La exposición disponible insiste en que escuchar incluye comprender y obedecer, que el crecimiento no es una técnica controlable por el sembrador y que la tormenta prueba una palabra ya recibida. Cada observación se contrasta a continuación con la secuencia local de Marcos 4; las conexiones hebreas se presentan como equivalencias aproximadas, no como prueba de que el griego sea una traducción mecánica.
 
+## Hoja de comparación
+
+| Referencia                               | Texto local TTH                                                                                                     | Función en la lectura                                                                                                        |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| #markos_4_1, #markos_4_9                 | «Y otra vez comenzó a enseñar junto al mar»; «Todo el que tenga oídos para escuchar, escuchará».                    | La enseñanza comienza en un escenario público y termina con una llamada a una escucha responsable.                           |
+| #markos_4_14, #markos_4_20               | «El sembrador de la semilla es el que siembra la palabra»; la tierra buena escucha, toma la palabra y da fruto.     | La explicación del propio Yehoshua prueba que la semilla no es una técnica de éxito, sino la palabra recibida y fructífera.  |
+| #markos_4_24, #markos_4_26, #markos_4_30 | «Con la medida que miden, se les medirá»; el reino es como semilla echada en tierra y se compara mediante parábola. | La medida regula la recepción de la enseñanza, mientras las parábolas describen un crecimiento que no controla el sembrador. |
+| #markos_4_33, #markos_4_35               | «Les decía la palabra, conforme a lo que ellos podían escuchar»; «Pasemos al otro lado».                            | La palabra entendida conduce a una acción concreta antes de la prueba del mar.                                               |
+| #markos_4_39-41                          | «¡Calla, séllate!»; «¿Cómo no hay para ustedes emunah?»; los vientos y el mar escuchan su voz.                      | La calma y la pregunta final conectan la fidelidad de los discípulos con la autoridad de Yehoshua sobre las aguas.           |
+
 ## Perícopas en orden
 
 ### La semilla y los terrenos: recibir la palabra (4:1-20)
