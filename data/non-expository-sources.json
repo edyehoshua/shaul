@@ -193,6 +193,14 @@
       "classification": "liturgical-prayer",
       "reason": "Aleinu prayer clip; liturgical recitation rather than biblical exposition.",
       "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:_QlsdBq_GTc",
+      "title": "Emil Zrihan - God is alive, I praise Him",
+      "url": "https://www.youtube.com/watch?v=_QlsdBq_GTc",
+      "classification": "musical-performance",
+      "reason": "La transcripción local conserva una interpretación musical en árabe, con aplausos, música y fragmentos líricos; no contiene una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-29"
     }
   ]
 }
