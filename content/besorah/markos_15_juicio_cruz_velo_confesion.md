@@ -48,6 +48,12 @@ Marcos 15 narra el paso del sanedrín al poder romano sin convertir la cruz en u
 
 Esta nota sigue la parte 44 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**, dedicada al capítulo 15. Eric introduce la lectura con Tehilim 22, discute el sentido de «Elí, Elí…», propone matices arameos para Baraba y Gólgota, y comenta el velo, el calendario respecto del Shabat y la sepultura. Se presentan como exposición atribuible, no como citas literales de una transcripción automática. Las etimologías, la reconstrucción horaria completa de la fiesta y las lecturas de formas hebreas del salmo que alteran el tiempo verbal quedan explícitamente cualificadas.
 
+## Control de fuente y recorrido
+
+La única fuente de enseñanza atribuida a esta nota es la parte 44, identificada públicamente como `youtube:-YSk73bQ3c4`; los archivos locales de TTH, Tehilim e Ieshaiahu son textos de comparación y no fuentes adicionales de Eric. El capítulo se recorre sin saltos: juicio y burla (#markos_15_1-20), ejecución y Escritura (#markos_15_21-32), clamor, velo y confesión (#markos_15_33-41), y sepultura antes del Shabat (#markos_15_42-47). Así se evita atribuir a la parte 44 materiales de Marcos 14 o 16, y cada eco intertextual queda subordinado a la escena de Marcos que lo activa.
+
+La exposición pública de Eric se conserva en forma atribuible: su lectura de Tehilim 22, sus observaciones sobre Baraba, Gólgota, el velo y el calendario orientan las preguntas, pero no se convierten en citas textuales. Cuando el argumento depende de una forma crítica, se ofrece la forma, su transliteración, sentido normal, función en el contexto y una equivalencia semítica marcada como aproximada. La prioridad interpretativa permanece en el texto local de la perícopa.
+
 ## Hoja de comparación
 
 | Referencia             | Texto local                                                                                                                          | Función en la lectura                                                   |

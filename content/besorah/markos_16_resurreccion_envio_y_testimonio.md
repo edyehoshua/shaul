@@ -37,6 +37,12 @@ Marcos 16 comienza después del Shabat y termina con una noticia que obliga a la
 
 Esta es una nota canónica única para Marcos 16. El corpus TTH local ofrece el capítulo completo en 1-20; esta nota lo sigue en orden. El título público de la clase permite registrar una observación concreta —la clase cuestiona llamar al domingo «el día del Señor»—, pero no autoriza reconstruir sus pruebas habladas. Las conclusiones sobre Shabat, primer día y envío se derivan del texto TTH y quedan marcadas como apoyo textual o pendiente cuando exceden lo explícito.
 
+## Control de fuente y alcance del argumento
+
+La enseñanza atribuida procede únicamente del video público `youtube:nddC-xoPguU`, cuyo título anuncia el capítulo 16 y cuestiona identificar el domingo como «el día del Señor». No se atribuyen a Eric frases ni pruebas que no estén disponibles en esa identificación pública. El TTH local es el texto de cotejo: permite seguir 16:1-8, 16:9-18 y 16:19-20, pero no transforma el título del video en una exposición completa del calendario.
+
+El orden de la nota mantiene la dependencia narrativa. Primero se concluye el Shabat y se anuncia que Yehoshua fue levantado; luego el anuncio pasa por testigos cuya palabra encuentra incredulidad; después llega la comisión de proclamar; finalmente la palabra sale acompañada por la acción de יהוה. Por eso la crítica calendárica se evalúa dentro de Marcos 16 y no se usa para absorber la resurrección, el envío o la discusión textual del final largo.
+
 ## Después del Shabat: buscar al que vive (16:1-8)
 
 Cuando pasa el Shabat, Miriam Migdalit, Miriam madre de Iaacob y Shelomit compran perfume y aceite valioso para ungir a Yehoshua. El texto no llama al primer día un nuevo Shabat ni dice que las mujeres hayan recibido un mandato de cambiar el día de reposo. Dice que vienen temprano, conforme amanece el sol, y que se preguntan quién hará girar la piedra. La escena, por tanto, distingue una referencia temporal de una institución cultual: el primer día marca cuándo regresan al sepulcro después del reposo narrado.
