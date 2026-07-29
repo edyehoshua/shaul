@@ -70,6 +70,15 @@ El cierre ordena rodear Sión y contar sus torres para que se lo narre a la gene
 - #ivrim_12_22-24: Sión y la Jerusalén celestial ofrecen una recepción canónica para la lectura de la clase; no sustituyen el contexto literario de Tehilim 48.
 - [[tehilim_21_rey_vida_y_poder_de_יהוה|Tehilim 21: el Rey, la vida y el poder de יהוה]]: ambos salmos devuelven la gloria y la seguridad del rey o de la ciudad a la fuerza de יהוה.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento frente al texto local |
+| --- | --- | --- |
+| #tehilim_48_1-3 | Eric presenta Sión como la ciudad del gran Rey y relaciona su hermosura con la presencia de Elohim, no con una grandeza política autónoma. | El salmo apoya que la alabanza comienza en יהוה y que Sión recibe su dignidad de él; la extensión a una Sión celestial queda como recepción canónica cualificada. |
+| #tehilim_48_4-8 | La clase lee los palacios, los reyes reunidos y las naves quebradas como una escena de protección y derrota de las naciones que se levantan contra la ciudad. | `למשגב`, *lemisgav*, significa «como refugio / plaza fuerte»; su fuerza contextual identifica a Elohim como seguridad. La identificación concreta de los reyes con un episodio escatológico es una inferencia pendiente. |
+| #tehilim_48_9-11 | Eric detiene la lectura en el hesed dentro del templo y en la diestra llena de justicia: la ciudad permanece por el carácter del Rey, no por sus murallas. | **חסד**, *hesed*, tiene el sentido normal de bondad leal o amor firme; aquí su fuerza es la fidelidad celebrada en el culto. La correspondencia entre hesed y «misericordia mesiánica» es pedagógica, no una traducción exclusiva. |
+| #tehilim_48_12-15 | El recorrido de las torres se presenta como una inspección que debe convertirse en memoria para los hijos y en testimonio de que este Elohim guía para siempre. | El texto ordena rodear Sión, contar sus torres y anunciar a la generación venidera; **ינהגנו**, *yinahagenu*, significa «nos guiará» y sostiene exactamente esa conclusión de conducción divina. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la cronología propuesta en la clase sobre los hijos de Coré, David, la toma de Sión y la construcción del templo.

@@ -63,6 +63,15 @@ Al final, la voz se vuelve personal: «contaré ... lo que hizo por mi vida» (#
 
 La clase relaciona esta sección con la obra de Yehoshua. Esa lectura debe tratarse como una conexión canónica propuesta por el expositor y no como el único sentido directo del hablante de Tehilim 66. El texto asegura ante todo que quien teme a Elohim puede anunciar lo que él ha hecho y bendecirle por su escucha.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento frente al texto local |
+| --- | --- | --- |
+| #tehilim_66_1-4 | Eric comienza con una convocatoria a toda la tierra y subraya que la alabanza debe reconocer obras temibles, no producir una emoción religiosa sin objeto. | La repetición de «toda la tierra», el canto al nombre y la postración apoyan el alcance universal; la explicación de cada cambio de hablante se conserva como observación de la clase y no como dato seguro. |
+| #tehilim_66_5-7 | La clase relaciona el mar convertido en tierra seca y el cruce del río con la memoria del éxodo y del Yarden, y los usa para mostrar el gobierno de Elohim sobre la creación y las naciones. | El salmo sí evoca dos cruces y afirma que Elohim gobierna; #shemot_14_21-22 y #yehoshua_3_14-17 son conexiones canónicas explícitas de esta nota, mientras la ampliación simbólica es cualificada. |
+| #tehilim_66_8-12 | Eric insiste en que la plata probada, el fuego, el agua y la carga no cancelan la preservación: la prueba termina en una salida a la abundancia. | **בחנתנו**, *bejantanu*, significa «nos probaste» y **צרפתנו**, *tseraftanu*, «nos refinaste»; ambas formas apoyan la imagen de examen y purificación. La aplicación a cada sufrimiento particular sería solo pedagógica. |
+| #tehilim_66_16-20 | El expositor presenta el testimonio personal como fruto de un clamor escuchado: quien teme a Elohim debe contar lo que hizo por su vida y bendecir por su hesed. | **חסד**, *hesed*, significa bondad leal o misericordia firme; en el cierre describe la fidelidad de Elohim que no apartó la oración. La conexión mesiánica propuesta por Eric queda como recepción canónica, no como sustituto de la voz del salmista. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la propuesta de la clase sobre los cambios de persona y el posible ocultamiento del hablante en Tehilim 66.
