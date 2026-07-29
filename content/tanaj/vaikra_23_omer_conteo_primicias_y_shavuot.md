@@ -20,19 +20,10 @@ references:
   - "#korintim_alef_15_20-23"
   - "#romanos_11_35-36"
 sources:
-  - "https://www.youtube.com/watch?v=f0PQY7bXbJQ"
-  - "https://www.youtube.com/watch?v=OG2PPYieRhk"
-  - "https://www.youtube.com/watch?v=EHZDK_XPB1A"
-  - "https://www.youtube.com/watch?v=eJlTuHME674"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/exodus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
   - "docs/scriptures/delitzsch/json/acts.json"
-source_ids:
-  - "youtube:f0PQY7bXbJQ"
-  - "youtube:OG2PPYieRhk"
-  - "youtube:EHZDK_XPB1A"
-  - "youtube:eJlTuHME674"
 translation: "[OE, Delitzsch]"
 ---
 
@@ -42,7 +33,7 @@ Vaikra 23 presenta el ómer, el conteo de siete semanas y la ofrenda nueva como 
 
 ## Alcance de la nota
 
-Esta es la nota canónica de Vaikra 23 para los materiales locales sobre el ómer y Shavu’ot. Integra cuatro sesiones del hermano Eric de Jesús Rodríguez Mendoza. Las transcripciones automáticas sirven para localizar los énfasis de cada sesión y no se usan como citas literales ni como autoridad por encima del texto bíblico.
+Esta es la nota canónica de Vaikra 23 para los materiales locales sobre el ómer y Shavu’ot. Las cuatro sesiones públicas del hermano Eric de Jesús Rodríguez Mendoza que enlazan Beha'alotjá con Shavu’ot tienen su atribución canónica única en la nota de Bamidbar 8; aquí se conserva su observación temática como contexto cruzado y se desarrolla Vaikra 23 desde sus fuentes escriturales. Las transcripciones automáticas sirven para localizar los énfasis y no se usan como citas literales ni como autoridad por encima del texto bíblico.
 
 Las sesiones discuten el inicio del conteo, el día de Shavu’ot, el pan con levadura, la relación con primicias, prácticas posteriores y vínculos mesiánicos. La nota distingue el mandato explícito de Vaikra de esas propuestas interpretativas; en particular, no presenta una reconstrucción calendárica o rabínica discutida como conclusión ya demostrada.
 
@@ -157,8 +148,5 @@ Vaikra 23 ordena una respuesta concreta a la provisión de יהוה: presentar p
 
 - Nota de frontera: clases de Fiestas/Shavuot de otras lanes no se reasignan aquí; la nota se limita a las fuentes exclusivas de la lane tanaj sobre Behaalotja/Shavuot.
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 1](https://www.youtube.com/watch?v=f0PQY7bXbJQ) (`source_id`: `youtube:f0PQY7bXbJQ`).
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 2](https://www.youtube.com/watch?v=OG2PPYieRhk) (`source_id`: `youtube:OG2PPYieRhk`).
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 3](https://www.youtube.com/watch?v=EHZDK_XPB1A) (`source_id`: `youtube:EHZDK_XPB1A`).
-- Video: [Parashat-Beha'alotcha - Chag Hashavu'ot Shavuot - Pentecost Part 4](https://www.youtube.com/watch?v=eJlTuHME674) (`source_id`: `youtube:eJlTuHME674`).
+- Las cuatro clases públicas de Beha'alotjá–Shavu’ot y sus URL/`source_id` están acreditadas de forma única en [[bamidbar_8_parashot_2017|Bamidbar 8]]; no se duplican aquí para mantener un solo registro canónico por fuente.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
