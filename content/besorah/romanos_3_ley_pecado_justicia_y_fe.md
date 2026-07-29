@@ -153,6 +153,10 @@ El cierre controla tanto la jactancia como la anulación. **(καταργέω)**
 
 ## Pendiente de verificar
 
+- [ ] Recuperar, si llega a estar disponible, el transcript de `youtube:u0NtR-y-T2Y` para contrastar observaciones concretas de la sesión más allá de su título público.
+- [ ] Cotejar en una edición crítica la sintaxis de #romanos_3_20, #romanos_3_22 y #romanos_3_31 antes de convertir estas glosas en conclusiones sobre toda la carta.
+- [ ] Revisar el trasfondo de «propiciación» o «cubierta» en #romanos_3_25 sin imponer un modelo sacrificial único al término.
+
 ## Reparación desarrollada: de la responsabilidad a la justicia recibida
 
 La pregunta pública «a los que están dentro de la ley» debe evaluarse siguiendo los conectores de #romanos_3_19-31, no aislando la expresión de su desenlace. Primero, la Torah habla a quienes están bajo su ámbito y el resultado es que toda boca queda cerrada; después, el alcance se ensancha hasta «todo el mundo» culpable ante Elohim. **(λαλέω)**, _laleō_, significa hablar, declarar o decir; su fuerza contextual es la voz testimonial de la Torah en el tribunal, no una descripción de la Torah como autoridad defectuosa. **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o culpable; la glosa «culpable» es **directa y forense**, mientras inferir desde ella un mecanismo completo de condena sería **aproximado**.
