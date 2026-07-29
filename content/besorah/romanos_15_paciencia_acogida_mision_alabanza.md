@@ -215,6 +215,10 @@ En #romanos_15_25-32, **(κοινωνέω)**, _koinōneō_, significa participar
 
 Así, el énfasis de Eric recibe **apoyo textual directo** cuando une paciencia, consolación, paz y acogida; recibe **apoyo cualificado** cuando se aplica a procedimientos modernos de reconciliación o financiación; y permanece **pedagógico** cuando una analogía comunitaria se presenta como si fuera el significado exhaustivo de un término. Romanos 15 no termina en una comunidad que evita conflictos: termina en una comunidad que sirve, comparte recursos, ora bajo riesgo y espera que el Dios de paz gobierne el resultado.
 
+## Control final: acogida, promesa y oración
+
+La evaluación de `youtube:mjo6EdF3RPs` debe conservar tres límites. Primero, **(προσλαμβάνω)**, _proslambanō_, significa recibir o acoger y en 15:7 sostiene una bienvenida orientada a la gloria de Elohim; no significa aprobar toda práctica ni suspender el discernimiento. Segundo, **(βεβαιόω)**, _bebaioō_, significa confirmar o hacer firme y en 15:8 protege la continuidad de las promesas; no autoriza a oponerlas a la misericordia mostrada a las naciones. Tercero, **(συναγωνίζομαι)**, _synagōnizomai_, significa esforzarse juntamente y en 15:30 describe la oración compartida por una misión expuesta a riesgos. Estas glosas son directas en su campo, mientras la aplicación a procedimientos modernos de reconciliación y financiación es cualificada. El capítulo termina con servicio e intercesión bajo la voluntad de Elohim, no con una promesa automática de éxito.
+
 ## Ver también
 
 - [[romanos_14_acogida_mutua_conciencia_edificacion|Romanos 14: acogida mutua, conciencia y edificación]]
