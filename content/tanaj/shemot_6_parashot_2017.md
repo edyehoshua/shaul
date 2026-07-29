@@ -94,8 +94,20 @@ En 6:10–13 la misma palabra vuelve a encontrar un mensajero resistente. **(ד�
 
 ## Pendiente de verificar
 
-- [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
-- [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
+- [x] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
+- [x] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
+
+## Control canónico: promesa, escucha y camino de obediencia
+
+La cadena de promesas de Shemot 6 no debe separarse de la respuesta debilitada de Israel ni de la misión objetada por Moshéh. El OE y el TTH ponen en primer plano la palabra de יהוה: «Yo soy יהוה» y «los tomaré para Mí por pueblo». **(ברית)**, _berit_, significa pacto o alianza; aunque el sustantivo no aparece en cada forma de 6:6-8, expresa el marco de la promesa patriarcal. La equivalencia «contrato» sería pedagógica y demasiado estrecha: la escena describe pertenencia y fidelidad divina, no un intercambio entre partes iguales.
+
+La lectura hebrea de Delitzsch en Ivrim 11:8 ofrece una conexión canónica precisa: **בָּאֱמוּנָה שָׁמַע אַבְרָהָם כַּאֲשֶׁר נִקְרָא לָלֶכֶת אֶל־הָאָרֶץ אֲשֶׁר יִירָשֶׁנָּה וַיֵּצֵא וְלׂא־יָדַע אָנָא יָבוֹא**, «por fe Abraham escuchó cuando fue llamado a ir a la tierra que recibiría por herencia; y salió sin saber adónde iba». La relación con Shemot 6 es **canónica y aproximada**: **(שמע)**, _shama_, significa oír, escuchar o obedecer; en Ivrim 11:8 la escucha desemboca en salida, mientras en Shemot 6:9 la esclavitud hace difícil escuchar. La equivalencia «fe» no debe imponerse como traducción automática de _shama_; la conexión muestra que la promesa recibida puede producir camino, pero no borra el sufrimiento del receptor.
+
+En Shemot 6:6-8, **(והוצאתי)**, _vehotséti_, es una forma verbal de יצא, _yatsa_, «salir o sacar»; su fuerza causativa presenta a יהוה como quien produce la salida. **(ולקחתי)**, _velaqajti_, procede de לקח, _laqaj_, «tomar o recibir»; aquí construye la relación «para Mí por pueblo». «Adoptaré» es una equivalencia pedagógica, no exacta. La progresión «sacar–rescatar–redimir–tomar–traer» sigue siendo la mejor evaluación del énfasis de Eric, siempre que se lea como acumulación de promesas y no como cinco etapas mecánicas independientes.
+
+La respuesta de Israel introduce el límite pastoral decisivo: **קצר רוח**, _qotsar ruaj_, «cortedad de espíritu», y **עבודה קשה**, _avodah qashah_, «trabajo duro». **(קצר)**, _qatsar_, significa ser corto, recoger o segar; con **(רוח)**, _ruaj_, su fuerza contextual es ánimo o capacidad interior estrechada. **(קשה)**, _qashah_, significa duro, severo o difícil; aquí califica la servidumbre y no diagnostica por sí sola una culpa moral. Eric acierta al relacionar la dureza con la escucha, pero una aplicación que reprende automáticamente al afligido excedería el texto.
+
+Finalmente, Delitzsch conserva en Ivrim 11:29 la memoria del éxodo: **בָּאֱמוּנָה עָבְרוּ אֶת־יַם־סוּף בַּיַּבָּשָׁה אֲשֶׁר נִסּוּ מִצְרַיִם גַּם־הֵמָּה לַעֲבָר־בּוֹ וַיִּטְבָּעוּ**, «por fe atravesaron el Mar de Suf en seco, mientras los egipcios, al intentar atravesarlo, se ahogaron». Es una lectura posterior del acto redentor, no una cita de Shemot 6:6-9; sirve para confirmar el arco canónico de salida y juicio sin convertir la promesa en una fórmula de triunfo instantáneo. La fidelidad de יהוה permanece eficaz aun cuando el pueblo todavía no puede escucharla con fuerza.
 
 ## Conclusión
 
