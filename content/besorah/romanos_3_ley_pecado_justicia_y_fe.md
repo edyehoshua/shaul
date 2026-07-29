@@ -89,6 +89,16 @@ La expresión **(ὑπὸ νόμον)**, _hypo nomon_, combina **(ὑπό)**, _h
 - El desarrollo canónico que sigue no suplanta la enseñanza de Eric: usa Romanos 3:17-31 como prueba local para evaluar el foco visible, y marca como **textual**, **cualificado**, **pedagógico** o **inferencial** cada salto interpretativo relevante.
 - La secuencia se conserva en orden: acusación universal (3:17-20), justicia manifestada y redención (3:21-26), y emunah que excluye la jactancia sin anular la Torah (3:27-31).
 
+## Reparación: justicia recibida y Torah establecida
+
+La fuente pública `youtube:u0NtR-y-T2Y` permite atribuir a Eric el foco anunciado «A los que están dentro de la ley», pero no una reconstrucción detallada de su exposición sin transcript local. Romanos 3:17-31 ofrece el control: la Torah silencia la jactancia, las Escrituras atestiguan la justicia de Elohim y la emunah no la anula. La aplicación de la clase recibe **apoyo textual cualificado** cuando mantiene esa secuencia y no convierte el título en una doctrina aislada.
+
+En #romanos_3_19-20, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o culpable; su fuerza contextual alcanza a todo el mundo ante Elohim. «Culpable» es una glosa **directa**, mientras presentar la Torah como una acusación contra un solo pueblo sería **ilegítimo**. **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno, reconocimiento o comprensión; aquí la Torah hace reconocible el pecado. La relación entre revelación del pecado y condena universal es **textual**, pero no convierte la Torah en causa del pecado.
+
+En #romanos_3_21-26, **(φανερόω)**, _phaneroō_, significa manifestar, hacer visible o revelar; su fuerza contextual muestra públicamente la justicia de Elohim «aparte de obras de Torah», mientras la Torah y los profetas dan testimonio. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o reconocer como justo; en 3:24-26 describe la acción gratuita de Elohim mediante la redención, no un salario adquirido. «Manifestar» y «justificar» son glosas **directas en el campo normal**; decidir toda la teoría de expiación desde una sola palabra sería **inferencial**.
+
+El cierre mantiene unidos don y obediencia. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular; en 3:31 la negación enfática impide decir que la emunah deja nula la Torah. **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener; aquí afirma que la emunah la establece. «Establecer» es **directo y contextual**, pero la forma no especifica por sí sola cómo se aplica cada mandamiento. Así, el foco público de Eric queda evaluado con una distinción **textual**: la gracia excluye la jactancia y la emunah no autoriza despreciar la instrucción.
+
 ## Reparación desarrollada: la Torah como testigo y límite de la jactancia
 
 La fuente pública `youtube:u0NtR-y-T2Y` permite atribuir a Eric el foco anunciado «A los que están dentro de la ley» y el tramo «Rom 3:17ss». Puesto que el transcript local no está disponible, la atribución se mantiene en ese alcance visible; la evaluación debe proceder de Romanos 3:17-31 y no de una reconstrucción imaginada de la clase. La perícopa sostiene dos controles simultáneos: la Torah expone la culpa universal y las Escrituras atestiguan la justicia que Elohim manifiesta en el Mesías.
