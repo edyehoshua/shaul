@@ -330,6 +330,14 @@ En 2:15-16, **(συνείδησις)**, _syneidēsis_, significa conciencia o co
 
 Así, la observación atribuible a Eric en `youtube:6D7Yj0bDSfU` queda limitada a su título público y a la pregunta que armoniza con el cierre del capítulo; no se le atribuye una explicación detallada que la fuente disponible no documenta. Romanos 2 sí permite afirmar, en orden, que la bondad llama al retorno, la conciencia testifica, la conducta queda juzgada y la señal visible no funciona como escudo. La evaluación es **textual y cualificada**, mientras la conexión entre _metanoia_ y _teshuvá_ permanece **pedagógica y aproximada**.
 
+## Reparación final: la señal no sustituye la respuesta
+
+La pregunta pública de `youtube:6D7Yj0bDSfU` —«¿qué es ser judío? ¿qué es ser creyente?»— debe conservarse como foco visible, no como transcript reconstruido. Romanos 2 responde examinando la coherencia del interlocutor: conocer la Torah y enseñar a otros son bienes reales, pero **(διδάσκω)**, _didaskō_, significa enseñar o instruir y, en 2:21, su fuerza contextual forma una pregunta contra quien enseña al otro sin enseñarse a sí mismo. La glosa es **directa**; convertirla en una condena de toda autoridad docente sería **inferencial**.
+
+En 2:24, **(βλασφημέω)**, _blasphēmeō_, significa injuriar, difamar o desacreditar; su fuerza contextual es que la incoherencia del interlocutor hace que el Nombre sea deshonrado entre las naciones. «Deshonrar» es **aproximado** como efecto público de la conducta y no autoriza a atribuir la culpa a todo Israel. La observación de Eric recibe **apoyo textual cualificado**: la identidad afecta el testimonio, pero el reproche de Pablo permanece dirigido al que presume y transgrede.
+
+El argumento termina en la señal y el corazón. **(ὠφελέω)**, _ōpheleō_, significa ayudar, beneficiar o ser provechoso; en 2:25 su fuerza es condicional, porque la circuncisión beneficia si se practica la Torah. **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; en 2:29 identifica la alabanza que procede de Elohim y no de los seres humanos. Las glosas son **directas** en su sentido ordinario, pero usarlas para afirmar que el corazón borra la historia de la señal sería **inferencial**. La síntesis canónica queda en orden: bondad que conduce a **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento; conciencia que testifica; y una identidad visible que debe corresponder a obediencia. «Teshuvá», _teshuvá_, es una correspondencia **pedagógica y aproximada**, no la forma griega de Pablo.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]

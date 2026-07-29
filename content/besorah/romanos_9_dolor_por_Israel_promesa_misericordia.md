@@ -149,6 +149,14 @@ La objeción de 9:19 y la imagen del alfarero tampoco deben separarse del cierre
 
 Finalmente, 9:30-33 devuelve la discusión a la justicia: **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra; describe la respuesta ante la piedra de Sion. «Tropezar» es **directo** como imagen, mientras usarlo para condenar indistintamente a Israel sería **ilegítimo**, porque el capítulo comenzó con dolor, pactos y promesas reales. La secuencia canónica es, entonces, promesa no frustrada, misericordia, llamamiento de judíos y naciones, y respuesta de emunah; las conclusiones soteriológicas que excedan esa secuencia son **cualificadas**, no afirmaciones necesarias del video o de un término aislado.
 
+## Reparación final: la objeción no cancela la responsabilidad
+
+La observación de Eric en `youtube:atIdZY13b_c` queda mejor evaluada cuando la distinción entre función histórica y salvación se mantiene junto a la pregunta de #romanos_9_19. El texto no convierte a Faraón en una prueba suficiente de destino personal: **(ἐγείρω)**, _egeirō_, significa levantar, despertar o suscitar, y en 9:17 su fuerza contextual es introducir a Faraón en un propósito de manifestar el poder y proclamar el Nombre. «Levantar» es **directo**; concluir desde esa función que Faraón fue salvo o condenado sería **inferencial**.
+
+La respuesta de 9:20 tampoco debe usarse para silenciar toda investigación. **(ὦ ἄνθρωπε)**, _ō anthrōpe_, significa «oh hombre» o «ser humano»; su fuerza retórica recuerda el límite de la criatura frente al formador. **(ἀντιλέγω)**, _antilegō_, significa contradecir, disputar o hablar contra; aquí describe la objeción que pretende exigir cuentas al formador, no una prohibición de leer el contexto. La glosa es **directa**, mientras convertirla en una doctrina de que toda pregunta es rebelión resulta **ilegítimo**: Pablo conserva la pregunta y responde dentro del argumento.
+
+El cierre vuelve a la responsabilidad de la respuesta. **(ζητέω)**, _zēteō_, significa buscar, procurar o intentar alcanzar; en 9:30-31 contrasta la justicia que las naciones alcanzaron con la que Israel buscaba. **(προσκόπτω)**, _proskoptō_, significa tropezar o chocar contra; en 9:32-33 presenta la piedra de Sion como punto de tropiezo. La relación entre ambos verbos es **contextual y textual**: el capítulo no deja la justicia en una función externa, sino que examina cómo se persigue y cómo se responde. Así, la lectura atribuible recibe apoyo **cualificado**: propósito histórico no equivale a salvación, pero tampoco elimina emunah, obediencia, dolor por Israel y responsabilidad ante la piedra.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
