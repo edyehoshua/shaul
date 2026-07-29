@@ -1,7 +1,7 @@
 ---
 title: "Marcos 13: vigilancia, Hijo del Hombre y la palabra inamovible"
 description: "Estudio canónico de Marcos 13:32-37: vigilancia ante el día no revelado, el Hijo del Hombre y la palabra establecida en los cielos."
-date: 2026-07-28
+date: 2026-07-29
 tags:
   - markos
   - abba
@@ -287,7 +287,7 @@ La exposición también confronta la lectura dispensacional que detiene el reloj
 
 ## Dependencias textuales: Daniel, el discurso y Getsemaní
 
-Las tres fuentes de Eric se distribuyen en una secuencia que debe permanecer visible. La parte 40 plantea la cuestión de Daniel 9; la parte 41 la relaciona con el discurso de Marcos 13; la parte 13 aporta el contraste doctrinal sobre la divinidad de Mashíaj. La nota no convierte ese orden de clases en un orden bíblico alternativo: en Marcos, el anuncio de la destrucción (#markos_13_1-4) precede a la señal, la tribulación y la venida (#markos_13_14-27), y todo desemboca en el mandato repetido de velar (#markos_13_32-37). Getsemaní (#markos_14_32-36) funciona después como dependencia narrativa para examinar la obediencia, no como prueba de que Marcos 13 entregue una fecha.
+Las cuatro fuentes de Eric se distribuyen en una secuencia que debe permanecer visible. La parte 40 plantea la cuestión de Daniel 9; la parte 41 la relaciona con el discurso de Marcos 13; la parte 42 enfoca las señales de 13:14-32; y la parte 13 aporta el contraste doctrinal sobre la divinidad de Mashíaj. La nota no convierte ese orden de clases en un orden bíblico alternativo: en Marcos, el anuncio de la destrucción (#markos_13_1-4) precede a la señal, la tribulación y la venida (#markos_13_14-27), y todo desemboca en el mandato repetido de velar (#markos_13_32-37). Getsemaní (#markos_14_32-36) funciona después como dependencia narrativa para examinar la obediencia, no como prueba de que Marcos 13 entregue una fecha.
 
 La distinción es especialmente necesaria para los términos de Daniel. **(שבעים)**, _shavuim_, nombra «sietes» o «semanas» en su construcción; **(משיח)**, _mashiach_, significa ungido; y **(נגיד)**, _nagid_, designa un líder o gobernante. Ninguna de esas formas, aislada, demuestra que la última semana esté suspendida ni que cada «ungido» sea automáticamente el Mesías. La tesis histórica conservada de Eric puede discutirse con Daniel, Marcos y el contexto de la destrucción del templo, pero el llamado de Marcos a velar permanece más firme que cualquier cronograma derivado.
 
@@ -361,6 +361,12 @@ Así, la secuencia completa protege dos verdades a la vez: las señales permiten
 El argumento de Eric puede comprobarse sin resolver por adelantado la cronología de Daniel. Marcos comienza con **(βλέπετε)**, _blepete_, «miren o estén atentos», y **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos»; luego repite **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». Son imperativos presentes dirigidos a la comunidad, no claves para identificar una fecha. La negación de **(οἶδεν)**, _oiden_, «sabe», en 13:32, y la llegada inesperada del señor en 13:35-36 forman el contraste: la información queda restringida, pero la responsabilidad queda explícita.
 
 Por eso la afirmación histórica sobre las setenta semanas debe ocupar un lugar subordinado al movimiento del capítulo. **(שבעים)**, _shavuim_, designa «sietes» o «semanas», y **(משיח)**, _mashiach_, «ungido»; ninguna forma por sí sola demuestra el acontecimiento que cierra el período. La clase de Eric puede sostener que el templo y su destrucción son un horizonte decisivo, porque Marcos abre el discurso con el templo y habla de desolación y huida. Pero la equivalencia entre ese horizonte y una cronología exhaustiva es una inferencia histórica, no el sentido automático de las palabras hebreas. El cierre conserva la prioridad textual: **(οὐ μὴ παρέλθωσιν)**, _ou mē parelthōsin_, «de ningún modo pasarán», afirma la permanencia de las palabras, mientras **(γρηγορεῖτε)** ordena obedecerlas sin pretender saber la hora.
+
+## Control editorial de Marcos 13:32 y 13:33-37
+
+La diferencia entre los testigos locales no debe quedar como una nota marginal. En la edición TTH de `#markos_13_32` se lee que nadie sabe el día y la hora, «sino el Padre»; la edición Delitzsch añade **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo». La forma hebrea está escrita sin nikud y no contiene segmentación morfológica. La nota no usa la adición para fabricar una escala de seres ni usa la omisión para borrar la dificultad: registra ambos testigos y deja que el contexto inmediato determine el efecto común, la ignorancia del momento y la orden de vigilar.
+
+La secuencia verbal de 13:33-37 confirma ese efecto. **βλέπετε**, _blepete_, «miren o estén atentos», **ἀγρυπνεῖτε**, _agrypneite_, «manténganse despiertos», y **γρηγορεῖτε**, _grēgoreite_, «vigilen», no son sinónimos ornamentales: forman una cadena de atención sostenida antes de la parábola del señor ausente. **οἰκοδεσπότης**, _oikodespotēs_, «dueño de casa», y **δοῦλος**, _doulos_, «siervo», sitúan la responsabilidad en una casa y un encargo concretos. La observación de Eric sobre una palabra estable se prueba así en la conducta solicitada; su desarrollo sobre Abba y Bar Enash permanece como interpretación doctrinal atribuible, no como equivalencia léxica de estas formas.
 
 ## Verificación dirigida: templo, abominación y límite histórico (13:14-31)
 

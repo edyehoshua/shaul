@@ -1,7 +1,7 @@
 ---
 title: "Efesios 6: firmeza, oración y servicio"
 description: "Nota canónica sobre Efesios 6: relaciones responsables, fortaleza en el Señor, la armadura de Elohim, oración y testimonio."
-date: 2026-07-27
+date: 2026-07-29
 tags:
   - efesios
   - oracion
@@ -233,6 +233,12 @@ La unidad final vuelve sobre el mismo problema de autoridad que la carta trató 
 El giro hacia la armadura conserva esa responsabilidad. **ἵστημι**, _histēmi_, «estar de pie o permanecer», y **ἀνθίστημι**, _anthistēmi_, «resistir o hacer frente», no describen una conquista de la familia ni una campaña contra el prójimo. El objeto de la resistencia son las **μεθοδεῖαι**, _methodeiai_, «artimañas o estrategias engañosas», y el pasaje niega que la lucha sea contra sangre y carne. Eric puede hablar de discernimiento espiritual, pero la observación solo es fiel cuando evita convertir desacuerdos, enfermedades o conflictos sociales en etiquetas sobre personas.
 
 La secuencia desemboca en intercesión y comunicación. **αἴτησις**, _aitēsis_, «petición», acompaña a **δέησις**, _deēsis_, «súplica», en la oración por todos los santos; después Pablo pide **λαλῆσαι**, _lalēsai_, «hablar», el misterio con franqueza. Tíquico debe **γνωρίσει**, _gnōrisei_, «dar a conocer», noticias verdaderas y **παρακαλέσει**, _parakalesei_, «animar o consolar», los corazones. La correspondencia con **(שלום)**, _shalom_, «integridad y paz», es temática, no una retroversión del texto. El capítulo prueba así la lectura de Eric mediante una trayectoria completa: autoridad limitada, resistencia no agresiva, oración por otros y servicio comunicativo.
+
+## Control editorial de la armadura y sus límites
+
+La imagen de la armadura debe conservar su orden y su finalidad. **ἀλήθεια**, _alētheia_, «verdad», y **δικαιοσύνη**, _dikaiosynē_, «justicia», se ciñen y visten antes de que los pies reciban la disposición de la buena noticia de paz; después aparecen **πίστις**, _pistis_, «fe o confianza», **σωτηρία**, _sōtēria_, «salvación», y **ῥῆμα**, _rhēma_, «palabra o declaración». La forma **πανοπλία**, _panoplia_, «equipo completo», no significa que cada objeto sea una técnica independiente: los imperativos **ἐνδύσασθε**, _endysasthe_, «vístanse», y **στῆναι**, _stēnai_, «estar de pie», gobiernan la metáfora.
+
+La observación de Eric sobre discernir antes de actuar queda probada por la negación de 6:12: **πάλη**, _palē_, «lucha o combate», no es contra sangre y carne. La conexión pedagógica con **(אמת)**, _emet_, «verdad o fidelidad», y **(שלום)**, _shalom_, «integridad y paz», puede iluminar el campo semítico, pero no reemplaza las formas griegas ni demuestra que Pablo esté citando una lista sacerdotal. El límite pastoral es parte del argumento: la firmeza se expresa en paz, fe, palabra y oración, nunca en identificar a una persona como el enemigo.
 
 ## Conclusión
 
