@@ -80,6 +80,12 @@ Una lectura mesiánica de #tehilim_16_10 debe distinguir entre el sentido del po
 - [ ] Verificar en léxicos y comentarios primarios las propuestas específicas para `מכתם`; la clase reconoce que su significado no es indiscutido.
 - [ ] Examinar por separado el empleo de Tehilim 16 en Hechos 2 antes de asignar a cada expresión del salmo una referencia mesiánica única.
 
+## Control de las imágenes que sostienen la exposición
+
+La clase no trata «refugio», «porción» y «vida» como tres consignas separadas. El texto pasa de **שמרני אל** y **כי חסיתי בך** (16:1) a **יהוה מנת חלקי וכוסי** (16:5), y después a **שויתי יהוה לנגדי תמיד** (16:8). Esa progresión prueba la observación de Eric sobre una pertenencia que se vuelve práctica: quien busca protección confiesa también quién sostiene su suerte y a quién mantiene delante de sí. La relación entre **חסיתי** (_jasiti_, me refugié) y una disciplina permanente de atención es funcional y pedagógica; el verbo por sí solo no define una técnica espiritual.
+
+El cierre conserva la misma dirección. **לא תעזב נפשי לשאול** (16:10) expresa la petición de no ser abandonado al Seol, mientras **תודיעני ארח חיים** (16:11) atribuye a יהוה el conocimiento del sendero. Eric puede enlazar esta esperanza con la proclamación apostólica de la resurrección, pero la prueba local es más precisa: la vida se recibe de la acción de יהוה y culmina en **שבע שמחות את פניך**, «plenitud de alegrías ante tu rostro». Así se conserva la fuerza de la lectura mesiánica sin convertir una recepción posterior en la traducción exclusiva del salmo.
+
 ## Conclusión
 
 Tehilim 16 forma una confesión de pertenencia: el orante se refugia en יהוה, recibe de él su porción y espera el sendero de vida. Esa secuencia permite leer la esperanza con sobriedad: la vida y la alegría no nacen del control humano, sino de estar ante el rostro de יהוה.

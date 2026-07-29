@@ -81,6 +81,12 @@ La respuesta final es litúrgica: “nosotros cantaremos y entonaremos tu poder�
 - [ ] Verificar en fuentes primarias la atribución específica al Targum y a comentaristas que la clase menciona para una lectura mesiánica del salmo.
 - [ ] Verificar por separado cualquier afirmación histórica sobre la ubicación exacta de los clavos en la crucifixión; no es necesaria para establecer el sentido de este salmo.
 
+## Control de la dirección del poder
+
+La observación central de Eric se comprueba por la sintaxis, no solo por el tema de la corona. Primero el rey se alegra **בישועתך** («en tu salvación», 21:2); luego recibe el deseo de su corazón, la corona y la vida que pidió (**נתתה לו**, 21:3-5). La gloria tampoco queda autónoma: **גדול כבודו בישועתך** (21:6) vuelve a ponerla dentro de la salvación de יהוה. Por eso la recepción mesiánica que la clase hace de Yehoshua conserva una frontera textual: puede confesar al Mesías como receptor de vida y gloria, pero el poema atribuye la fuente y la acción a יהוה.
+
+La segunda frontera aparece cuando el canto pasa al juicio. **כי המלך בטח ביהוה** (21:8) precede a la mano, el horno y los planes frustrados de los adversarios (21:9-13), y el último verso no celebra una venganza privada sino **רומה יהוה בעזך** («sé exaltado, יהוה, en tu fuerza», 21:14). La conexión de Eric con Bereshit 3:15 puede funcionar como lectura canónica de la enemistad y la victoria, pero **איביך** («tus enemigos») no identifica por sí solo una figura espiritual. El orden del salmo permite conservar la esperanza mesiánica y, al mismo tiempo, someter el poder y el juicio a la alabanza final de יהוה.
+
 ## Conclusión
 
 Tehilim 21 enseña a recibir la victoria como don: el rey se alegra, vive y permanece porque confía en יהוה. La lectura que lo relaciona con Yehoshua puede servir como confesión canónica cuando conserva esta dirección: la corona, la vida y el juicio muestran la fuerza de יהוה, y culminan en canto.
