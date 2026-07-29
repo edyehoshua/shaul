@@ -24,6 +24,7 @@ sources:
   - "https://www.youtube.com/watch?v=kNM4bV6k3Z8"
   - "docs/scriptures/oe/json/leviticus/25.json"
   - "docs/scriptures/tth/json/vaikra.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:kNM4bV6k3Z8"
 translation: "[OE, TTH]"
@@ -133,6 +134,14 @@ La conexión de este rescate con la relectura de Delitzsch en Ivrim 4:9–11 es 
 | #vaikra_25_20-24     | La bendición del sexto año revela que el fruto depende de יהוה; la tierra pertenece a él.                                                     | Apoyo textual: la promesa de provisión y la negación de venta definitiva articulan dependencia y posesión limitada.                                 |
 | #vaikra_25_35-43, 55 | El israelita no puede convertirse en siervo absoluto de otro, porque pertenece al libertador de Egipto.                                       | Apoyo textual cualificado: se explica la prohibición de dominio duro dentro de la legislación sobre pobreza y servicio.                             |
 | #hebreos_4_1-11      | La tierra y el descanso se leen como figura de la patria celestial.                                                                           | Inferencia cualificada: se reconoce la relectura canónica sin borrar el sentido agrícola, social y territorial de Vayikra 25.                       |
+
+## El reposo de la tierra y la relectura de Hebreos
+
+La conexión de Eric con Hebreos 4 debe conservar el movimiento social de Vayikra 25. Delitzsch dice: «**על־כן נשארה עוד מנוחת שבת לעם אלהים**» (Hebreos 4:9), y exhorta: «**נשקדה־נא לבוא אל־המנוחה ההיא**» (4:11). Estas frases hacen explícita una relectura del reposo, pero no convierten **שבת הארץ**, «el descanso de la tierra», en una palabra que por sí sola signifique cielo o Mesías. El capítulo de Vayikra especifica siembra, cosecha, posesión, rescate y trato al hermano; Hebreos amplía canónicamente el horizonte.
+
+**(מנוחה)**, _menujah_, significa descanso o lugar de reposo; en Delitzsch 4:9 y 4:11 su fuerza es el reposo prometido al pueblo de Elohim, mientras en Vayikra 25 el contexto inmediato es el cese de la tierra y la liberación económica. «Patria celestial» es una equivalencia **pedagógica y canónica**, no exacta en la forma hebrea. **(שבת)**, _shabat_, significa cesar, descansar o día de reposo; en **שבת שבתון** intensifica el cese agrícola, y no autoriza a llamar inactividad a la justicia que el capítulo ordena.
+
+La advertencia de Delitzsch sobre no caer en desobediencia también ayuda a evaluar la clase: el reposo no es una contraseña para escapar de la responsabilidad. Vayikra exige sostener al empobrecido, no cobrarle **נשך**, no dominarlo **בפרך** y recordar que Israel pertenece al libertador. La conexión posterior es **cualificada**: amplía la esperanza del reposo, pero la prueba de la lectura sigue siendo si el descanso recibido produce liberación, restitución y vida compartida en la perícopa local.
 
 ## Pendiente de verificar
 

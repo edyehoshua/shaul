@@ -20,6 +20,7 @@ sources:
   - "https://www.youtube.com/watch?v=8cLCP_e_2MI"
   - "docs/scriptures/oe/json/exodus/30.json"
   - "docs/scriptures/tth/json/shemot.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:ELZQY8k1Ibo"
   - "youtube:dNFrW9BaMU8"
@@ -88,6 +89,14 @@ El propósito inmediato se formula como **ולא יהיה בהם נגף**, «par
 El cierre cultual conserva el mismo límite. **וקדשת אתם לכהן לי**, _veqidashta otam lekhahen li_, significa «los consagrarás para que sean sacerdotes para mí». **קדש**, _qadesh_, normalmente es separar o apartar; aquí su fuerza contextual es destinación al servicio de יהוה, no una cualidad autónoma del cuerpo. **והיתה להם חקת עולם**, _vehayetah lahem juqat olam_, contiene **חקה**, _juqah_, «estatuto establecido», y **עולם**, _olam_, duración prolongada o indefinida. «Eterno» puede ser una equivalencia tradicional aproximada; el pasaje define primero la continuidad del servicio ordenado.
 
 Así, la lectura de Eric sobre levantar la cabeza se sostiene cuando se sigue el orden local: registro responsable, cobertura de cada vida, lavamiento antes de acercarse y objetos reservados. El pueblo no es una masa apropiable, pero tampoco una comunidad liberada de límites. La santidad del servicio se verifica en acciones recibidas —dar, lavarse, ungir y preparar— y no en una exaltación privada del ministro.
+
+## La liturgia ordenada y el servicio interior: lectura de Delitzsch
+
+La lectura de Delitzsch sobre Hebreos 9:6–14 ofrece una conexión canónica pertinente, pero no borra el referente de Shemot 30. Describe que los sacerdotes entraban continuamente al santuario exterior «**לבוא הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**» (Hebreos 9:6, Delitzsch) y que el Mesías sirve «**בדם־נפשו**» y «**בלי־מום**» (9:12, 14). La primera frase confirma que el santuario bíblico se organiza alrededor de un servicio repetido; la segunda constituye la relectura mesiánica de Hebreos, no una traducción escondida de **כפר נפש** en Shemot 30.
+
+**(עבודה)**, _avodah_, significa trabajo, servicio o labor; en Hebreos 9:6 su fuerza contextual es el servicio sacerdotal regular. «Ministerio interior» sería una equivalencia **pedagógica**, no el sentido único del sustantivo. **(דם)**, _dam_, significa sangre; la expresión de Delitzsch «sangre de su vida» es una formulación canónica del sacrificio del Mesías, mientras Shemot 30 ordena una contribución de medio shekel, lavamiento y objetos reservados. **(מום)**, _mum_, significa defecto o lesión; en Hebreos 9:14 la ausencia de defecto aplica a la ofrenda mesiánica, mientras que trasladarla directamente al aceite o al incienso de Shemot sería una analogía **pedagógica**, no exacta.
+
+La relación sí ilumina la advertencia de Eric contra convertir los medios santos en mecanismos autónomos. El capítulo de Shemot delimita quién sirve, cómo se lava y qué no puede reproducirse; Delitzsch afirma que el orden exterior no perfecciona por sí mismo el corazón del servidor. La conexión es **canónica y cualificada**: el texto posterior amplía la función del santuario y del sacrificio, pero el lector debe conservar primero el encargo concreto de Israel y la santidad que pertenece a יהוה.
 
 ## Pendiente de verificar
 
