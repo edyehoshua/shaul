@@ -73,6 +73,12 @@ Deuteronomio 11 vuelve a unir escuchar, amar y servir con todo el corazón y el 
 
 Juan 10:22 menciona la fiesta de la dedicación y 10:27-28 describe ovejas que escuchan la voz del Pastor, lo siguen y reciben vida. **(γινώσκω)**, _ginōskō_, significa conocer, reconocer o llegar a conocer; su fuerza contextual es una relación reconocible entre Pastor y ovejas. La glosa «conocer» es **directa**, mientras identificar Números 7 como una predicción detallada de Juan 10 sería **inferencial**. La conexión canónica sí permite una aplicación: el altar dedicado no debe desplazar la voz del Mesías ni la responsabilidad de seguirla.
 
+## Deuteronomio 11:13-21: memoria que se vuelve práctica
+
+La dedicación del altar no queda encerrada en Números 7. Deuteronomio 11 repite que Israel debe escuchar, amar y servir, y ordena poner las palabras «sobre el corazón y sobre el alma» (#devarim_11_13-21). **(נָתַן)**, _natan_, significa dar, poner o establecer; su fuerza contextual es colocar la palabra en la interioridad y en la vida pública, no realizar un gesto vacío. «Poner» es una glosa **directa**; afirmar que una inscripción externa produce obediencia automática sería **ilegítimo**. La enseñanza atribuible a Eric sobre llevar la palabra a la casa recibe aquí respaldo textual, pero también su límite: la memoria debe producir amor y servicio.
+
+Deuteronomio manda enseñar «a tus hijos», hablar en casa y por el camino, al acostarse y al levantarse. **(שָׁנַן)**, _shanan_, significa afilar, aguzar o inculcar repetidamente; en 6:7 su fuerza es una instrucción perseverante que forma la memoria familiar. «Enseñar diligentemente» es **directo y contextual**, mientras reducirlo a una técnica educativa particular sería **pedagógico y aproximado**. La dedicación se conserva cuando el pueblo repite la palabra con fidelidad, no cuando convierte el recuerdo en una reliquia separada de la obediencia.
+
 ## Evaluación y conclusión
 
 Eric conserva tres observaciones valiosas. Primero, la dedicación bíblica incluye santificar y poner en servicio, no solo conmemorar. Segundo, el servicio se distribuye conforme al encargo, como muestran Gershón, Merarí y Cohat. Tercero, la palabra se transmite en la asamblea y en la casa cotidiana. Números 7 respalda directamente las dos primeras; Deuteronomio 6 y 11 respaldan la tercera. La relación con Janukáh posterior y con Juan 10 es **canónica y pedagógica**, no una afirmación de que todos los detalles históricos sean idénticos.
