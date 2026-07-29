@@ -87,8 +87,8 @@ La progresión del capítulo es significativa: la luz ordenada precede al servic
 
 ## Pendiente de verificar
 
-- [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
-- [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
+- [x] Cotejar los desarrollos léxicos principales de la clase con el hebreo, el contexto literario y OE/TTH locales.
+- [x] Delimitar los versículos tratados directamente antes de ampliar las aplicaciones pedagógicas.
 
 ## Correspondencia pública de las cuatro exposiciones
 
@@ -119,6 +119,18 @@ Por eso la lectura de Eric sobre orden comunitario recibe apoyo directo, con un 
 ## Conclusión
 
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
+
+## Reparación: la Menoráh, los levitas y la lógica de la sustitución
+
+La exposición de Eric no trata las lámparas como una imagen aislada. Su insistencia en que la luz debe mirar hacia la Menoráh se enlaza con la transición hacia personas preparadas para servir. El vínculo puede sostenerse al caminar por el capítulo, pero con una distinción necesaria: los vv. 1-4 describen una orientación ritual y los vv. 5-26 describen una consagración levítica. La lectura espiritual es una aplicación que nace de la secuencia; no es el significado secreto de cada objeto.
+
+En 8:2-4, **אל מול פני המנורה** significa «hacia la faz de la Menoráh». **(פנים)**, _panim_, tiene como sentido normal «rostro», «faz» o «presencia»; aquí ejerce fuerza espacial y orientadora: las siete lámparas alumbran frente al candelero. «Hacia el rostro de יהוה» sería una equivalencia inexacta, porque el objeto inmediato es la Menoráh. **(נר)**, _ner_, es una lámpara individual; «luz» es aproximado y puede ocultar la materialidad del utensilio. Eric conserva una observación textual válida al decir que la lámpara no ilumina una carencia divina; el verso, sin embargo, solo afirma su disposición y su función.
+
+En 8:6-13 la comunidad no fabrica servidores autónomos. **(לקח)**, _laqaj_, significa tomar o recibir; la forma ordena separar a los levitas de entre Israel para una tarea concreta. **(הזה)**, _hizah_, significa rociar o salpicar; «bautizar» sería una equivalencia teológica aproximada, no el sentido exacto del rito. **(סמך)**, _samakh_, significa apoyar o poner; cuando Israel pone sus manos sobre los levitas, la fuerza contextual es identificación y entrega pública, no transferencia automática de poder. **(הניף)**, _henif_, significa mecer, mover o presentar; en forma causativa expresa la presentación de los levitas delante de יהוה.
+
+Los vv. 14-19 explican la razón de esa entrega. **(הבדל)**, _hivdil_, significa separar o distinguir; aquí reserva a los levitas para el servicio, sin afirmar superioridad moral. **(בכור)**, _bekhor_, significa primogénito o primero nacido; recuerda la consagración vinculada al éxodo, no una categoría universal de liderazgo. **(תחת)**, _tajat_, significa debajo, bajo o «en lugar de»; su fuerza contextual es sustitución cultual concreta. «Reemplazo universal» sería inexacto. Eric acierta al advertir que el servicio no es gloria privada: la nota ahora muestra quién entrega, quién recibe y para quién se realiza el trabajo.
+
+Finalmente, 8:23-26 limita la tarea por edad. **(צבא)**, _tsava_, normalmente puede significar ejército o servicio organizado; aquí designa un periodo de servicio levítico. **(משא)**, _massa_, significa carga o labor de llevar; «carga espiritual» es pedagógico, mientras el contexto habla de trabajo regulado. **(שרת)**, _sharet_, significa servir o asistir; a los cincuenta años el levita no desaparece, sino que asiste a sus hermanos. La tesis de Eric queda así evaluada: el capítulo sí enseña luz orientada, preparación, sustitución y relevo; extender sus edades a todo liderazgo moderno sería solo una analogía.
 
 ## La secuencia del servicio impide la autosuficiencia — vv. 1–26
 
