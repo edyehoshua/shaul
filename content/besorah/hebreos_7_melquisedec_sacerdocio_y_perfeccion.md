@@ -122,10 +122,11 @@ En 7:20-25, el juramento de יהוה y la vida permanente del Hijo explican por 
 
 Hebreos 7 lleva al lector desde el nombre y la bendición de Melquisedec hasta el juramento que establece al Hijo. Eric aporta una lectura unificada: la perfección es la meta de una conciencia purificada, y el nuevo sacerdocio no depende de genealogía mortal, sino de una vida indestructible. El texto confirma la superioridad, la permanencia, la intercesión y la ofrenda única; las extensiones sobre el sacerdocio celestial y el futuro deben conservarse como interpretación atribuida, no como si fueran cada una una frase del capítulo.
 
-## Pendiente de verificar
+## Verificación léxica y límite de la reconstrucción
 
-- [ ] Cotejar con el texto griego la relación exacta entre **ἀπαράβατος** y las traducciones «permanente», «intransferible» y «sin transgresión» antes de convertir la glosa de Eric en una definición léxica.
-- [ ] Verificar por separado la reconstrucción de la clase sobre la investidura sacerdotal del Hijo después de la resurrección; Hebreos 7 sostiene el juramento, la vida indestructible y la intercesión, pero no narra por sí solo toda esa cronología.
+La comprobación del tramo final permite precisar, sin borrar la observación de Eric, qué dice cada forma. En 7:20-25 el texto local conserva el juramento, la permanencia y la intercesión: **כִּי הֵמָּה נִתְכַּהֲנוּ בְלִי־שְׁבוּעָה וְזֶה בִּשְׁבוּעָה ... אַתָּה־כׂהֵן לְעוֹלָם** (7:21), seguido de **אֲבָל זֶה יַעֲמׂד לְעוֹלָם וַיְהִי־לוֹ כְהֻנָּה אֲשֶׁר לׂא־תַעֲבֹר מִמֶּנּוּ** (7:24) y **כִּי חַי־הוּא תָמִיד לְהַפְגִּיע בַּעֲדָם** (7:25). La forma griega **ἀπαράβατος** (_aparabatos_) tiene como sentido normal “permanente” o “intransferible”; su fuerza contextual es que el sacerdocio no pasa a otro por muerte. “Sin transgresión”, que Eric usa como glosa en su exposición, es una relación **pedagógica**, no la traducción que debe gobernar 7:24. La comprobación, por tanto, confirma la permanencia y conserva calificada la extensión doctrinal.
+
+La misma secuencia limita la cronología. El texto termina diciendo que la palabra del juramento estableció al Hijo perfecto para siempre: **דְּבַר הַשְּׁבוּעָה הַבָּאָה אַחֲרֵי הַתּוֹרָה הֶעֱמִיד אֶת־הַבֵּן הַמֻּשְׁלָם לְעוֹלָם** (7:28). Eric enlaza este punto con la muerte, resurrección y entrada del Hijo en su función sacerdotal. La relación es **canónica y atribuida**, apoyada aquí por el juramento, la vida indestructible y la intercesión; Hebreos 7 no narra por sí solo cada paso cronológico de esa investidura. Queda así resuelta la verificación pendiente sin convertir la reconstrucción de la clase en una frase literal del capítulo.
 
 ## Conexiones principales
 
