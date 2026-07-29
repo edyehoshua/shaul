@@ -210,6 +210,12 @@ En #romanos_10_14-17, **(κηρύσσω)**, _kēryssō_, significa proclamar o a
 
 En #romanos_10_16 y #romanos_10_21, **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder, y **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir. Las glosas son **directas** en su campo ordinario; su fuerza contextual impide presentar la iniciativa divina como si volviera irrelevante la respuesta humana. La comparación entre **קרא**, _qara_, «llamar, proclamar o invocar», y **(ἐπικαλέω)**, _epikaleō_, «invocar o apelar», sigue siendo **aproximada y pedagógica**, no una equivalencia morfológica. Así se preserva la enseñanza pública sin convertir una propuesta de sintaxis hebrea en certeza absoluta.
 
+## Precisión de Joel 2:32: la invocación y el remanente llamado
+
+La observación de Eric sobre quiénes son «los que invocan» se vuelve más precisa al no fusionar dos cláusulas de Joel 2:32. La primera promete que todo el que invoque el nombre de יהוה será librado; la última habla de los supervivientes «a quienes יהוה llame». En la forma hebrea **יִקְרָא**, _yiqra_, derivada de **קרא**, _qara_, el sentido ordinario puede ser llamar, proclamar o invocar según la construcción. En la primera cláusula, su fuerza contextual describe la invocación humana dirigida al Nombre; en la última, el sujeto explícito יהוה presenta el llamamiento divino del remanente. La forma y el sujeto cambian el argumento: la semejanza verbal permite una conexión **pedagógica**, pero no una identidad sintáctica.
+
+Romanos 10:13 cita la primera promesa de Joel con **(ἐπικαλέω)**, _epikaleō_, «invocar, apelar o llamar sobre alguien»; su fuerza contextual es la respuesta del que se dirige al Señor. Pablo no cita la cláusula final para borrar esa respuesta, aunque Romanos 9–10 sí permite leerla dentro del marco del llamamiento divino. Es **textual** que la salvación se promete al que invoca, **cualificado** que Joel también habla del remanente llamado por יהוה, y **inferencial** convertir la relación entre ambas cláusulas en una explicación exhaustiva de la elección. Esta precisión conserva el énfasis atribuible de Eric contra el mérito autónomo y mantiene la cadena de anuncio, escucha, fe e invocación que Romanos 10 desarrolla.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]

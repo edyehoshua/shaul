@@ -191,6 +191,14 @@ En #galatians_3_10, **(ἐπικατάρατος)**, _epikataratos_, significa m
 
 El segundo foco se evalúa con #galatians_3_19-25. **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; en 3:19-20 nombra la figura relacionada con la entrega de la Torah. «Mediador» es **directo en el sentido ordinario** y **cualificado en su alcance teológico**: el término no identifica por sí solo todas las partes ni reconstruye la enseñanza privada de una sesión cuyo transcript no está disponible. **(παιδαγωγός)**, _paidagōgos_, significa tutor o acompañante de un menor; su fuerza en 3:24 es custodiar y orientar hacia el Mesías. «Pedagogo» es **aproximado**; «carcelero» sería una paráfrasis **pedagógica demasiado fuerte**. Así se conserva la evidencia real de Eric, se evita inventar observaciones y se deja que la perícopa juzgue cualquier aplicación.
 
+## Precisión del argumento de Galatim 3:10-14
+
+La secuencia de la maldición y la redención debe conservar sus conectores. En 3:10, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual recae sobre quien no permanece en todo lo escrito en el libro de la Torah. **(ἐμμένω)**, _emmenō_, significa permanecer, continuar o mantenerse dentro de algo; aquí hace visible que la cita acusa una falta de permanencia completa, no una simple ausencia de interés religioso. «Permanecer» es una glosa **directa**, mientras convertir el término en una teoría detallada del mérito es **inferencial**.
+
+En 3:13, **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, rescatar o liberar mediante adquisición; su fuerza contextual es que el Mesías libera de la maldición descrita en la cita. **(γενόμενος)**, _genomenos_, procede de **γίνομαι**, «llegar a ser, suceder o hacerse»; aquí presenta al Mesías como hecho maldición en relación con la Escritura, sin definirlo como moralmente maldito en su identidad. El conector **(ἵνα)**, _hina_, significa para que, a fin de que o con el propósito de; en 3:14 introduce el propósito explícito de la redención: que la bendición de Abraham llegue a las naciones y que recibamos la promesa del Ruaj por la emunah. «Para que» es **directo**; leer «bendición» como injerto etimológicamente exacto desde **ברכה**, _berakah_, sigue siendo **pedagógico y aproximado**.
+
+Esta sintaxis evalúa con justicia el foco público de Eric. Es **textual** que Galatim vincula permanencia, maldición, redención y propósito para las naciones; es **aproximado** trasladar el campo hebreo de **קללה**, _qelalah_, al griego **(κατάρα)**, _katara_; y es **inferencial** usar una sola glosa para resolver toda la ontología del Mesías o toda la doctrina de la Torah. La nota conserva así la observación anunciada por el título, pero deja que los conectores del pasaje gobiernen su alcance.
+
 ## Ver también
 
 - [[galatim_2_gracia_unidad_y_verdad_del_evangelio|Galatim 2: gracia, unidad y verdad del evangelio]]
