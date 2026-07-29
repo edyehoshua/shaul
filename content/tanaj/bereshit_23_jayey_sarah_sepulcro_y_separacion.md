@@ -175,6 +175,14 @@ Por eso la compra de Majpelah no debe convertirse en una regla que prohíba toda
 
 Bereshit 23 enseña a llorar a Sarah sin improvisar la herencia. Abraham, forastero y residente, compra con plata completa un campo con cueva y árboles a ojos de la ciudad. La clase de Eric acierta al ver ahí una negativa a depender del favor del pueblo de la tierra; el capítulo 24 prolonga esa lógica en el matrimonio de Itzjak. La promesa camina por duelo, contrato y jésed de יהוה, no por atajos que mañana deshagan los hijos de Jet.
 
+## Evaluación de la compra: separación responsable y trato justo
+
+La exposición de Eric en `youtube:PM4WRF-kTM8` lee la insistencia de Abraham en pagar como una protección para los herederos: un favor privado podría ser disputado después, mientras una compra pública deja un derecho reconocible. El capítulo apoya la observación como inferencia, no como predicción explícita de un litigio. Repite que la operación ocurre «a oídos de los hijos de Jet», menciona el campo, la cueva, los árboles y el límite, y termina con la sepultura de Sarah (#bereshit_23_16-20). La transparencia no es un detalle moderno añadido al relato; es la forma concreta en que Abraham administra el duelo y la promesa.
+
+El verbo **(שקל)**, _shaqal_, significa pesar; la forma **וישקל**, _vayishqol_, describe la entrega medida de la plata, no simplemente «pagar caro». **(מקנה)**, _miqneh_, significa adquisición, compra o propiedad obtenida; en **לאברהם למקנה**, _leAvraham lemiqneh_, su fuerza contextual es una transferencia pública, no una garantía de dominio sobre toda Kenáan. **(עד)**, _ed_, significa testigo; aunque en el capítulo la idea se expresa mediante los oídos de los hijos de Jet y la publicidad de la puerta, «notaría» sería una equivalencia pedagógica, no exacta. Estos términos sostienen la observación de Eric sin convertir una transacción antigua en un contrato moderno.
+
+La aplicación a la separación también necesita el equilibrio del texto. Abraham es **(גר ותושב)**, _ger wetoshav_, «forastero y residente», pero se inclina ante el pueblo y negocia con respeto. **(חוה)**, _jawa_, significa inclinarse o postrarse; aquí su fuerza es homenaje público, no adopción del culto hitita. Por eso la conexión canónica con Delitzsch en 2 Corintios 6:14 es aproximada y pedagógica: advierte contra una unión que comprometa la fidelidad, mientras Bereshit 23 no prohíbe todo comercio o trato civil. Eric acierta al rechazar la dependencia ambigua; el capítulo precisa que la separación fiel puede incluir escucha, precio justo, testigos y respeto al prójimo.
+
 ## Ver también
 
 - [[bereshit_12_llamado_promesa_y_bendicion]]
