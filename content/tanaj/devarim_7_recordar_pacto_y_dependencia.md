@@ -148,6 +148,14 @@ La libertad enseñada por Eric queda así sometida a una secuencia concreta: **(
 
 La evaluación completa también incluye el motivo de la memoria. **(זכר)**, _zakar_, significa recordar; en #devarim_8_2 y 8:18 su fuerza contextual es reconocer de nuevo el camino y al Dador de la fuerza. Eric observa que recordar protege contra decir «mi fuerza y el poder de mi mano»; el OE y el TTH apoyan directamente ese contraste. «Agradecimiento» es una equivalencia **aproximada**, no el rango total de _zakar_. La clase no enseña que la obediencia fabrique la bendición; enseña que la obediencia responde a una fuerza recibida. Esa distinción articula la parashá: dependencia no es pasividad, y mandamiento no es una factura contra יהוה.
 
+## La herencia se recibe, pero el mandamiento se hace
+
+La tensión entre don y responsabilidad aparece con especial claridad al poner Devarim 9:4–6 junto a 11:8–9. El OE niega: **לא בצדקתך ובישר לבבך אתה בא לרשת את ארצם**, «no por tu justicia ni por la rectitud de tu corazón entras a poseer su tierra». Después, el mismo discurso ordena guardar el mandamiento «a fin de que sean fuertes» y para entrar y poseer la tierra. TTH mantiene ambos movimientos. Eric tiene razón al rechazar una lectura de salario espiritual, pero la corrección no convierte la obediencia en algo opcional: la herencia no se compra y, precisamente por eso, la respuesta pactal debe hacerse visible.
+
+**(צדקה)**, _tsedaqah_, significa justicia o rectitud; aquí su fuerza contextual es la cualidad que Israel no puede presentar como causa de la entrada. **(ישר)**, _yashar_, significa recto, derecho o íntegro; «mérito» es una equivalencia pedagógica que resume la discusión, no el sentido aislado de la forma. **(ירש)**, _yarash_, significa poseer, heredar o desposeer; en estos versículos describe la recepción de la tierra bajo la acción de יהוה, no un premio ganado por superioridad. **(חזק)**, _chazaq_, significa ser fuerte, fortalecerse o afirmarse; en 11:8 su fuerza es capacidad para perseverar en el camino del mandamiento, no autosuficiencia independiente del Dador.
+
+Esta comparación también limita una posible exageración de la clase. Decir que la promesa no depende del desempeño de Israel es exacto como negación de la justicia propia; decir que el desempeño no importa sería contrario a 7:12 y 11:22. El texto sostiene pacto, amor y obediencia en ese orden argumental: יהוה escoge y jura; Israel escucha, guarda, hace, ama, anda y se adhiere. «Obediencia que produce poder» sería demasiado mecánico; «obediencia como respuesta fortalecida por יהוה» es una equivalencia aproximada que conserva mejor la enseñanza de Eric y la sintaxis del discurso.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar con un léxico hebreo el vínculo exacto entre _eqev_ y la construcción de Devarim 7:12.

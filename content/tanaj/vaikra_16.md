@@ -180,6 +180,14 @@ Los vv. 25-28 también impiden una lectura que convierta la culpa removida en un
 
 Este cierre evalúa otra vez la enseñanza de Eric sobre una reconciliación que debe tocar la vida. La observación recibe apoyo en la forma ordenada de salir y regresar, pero debe mantenerse en el nivel que el capítulo permite: el rito produce un estado cultual y exige respuestas observables. No dice que cada manipulador sea expulsado definitivamente, ni convierte el lavado en una fórmula de regeneración interior. La sangre, la confesión y el envío quedan unidos al resto del procedimiento, de modo que «la una sin la otra» expresa una lectura teológica acertada solo si no borra la diferencia entre expiación, remoción y limpieza ritual.
 
+## La sangre trata la Santidad y la confesión nombra la culpa
+
+La observación de Eric sobre la inseparabilidad del rito gana una precisión adicional cuando se compara el lenguaje de 16:16 con el de 16:21. El OE dice **וכפר על הקדש מטמאת בני ישראל ומפשעיהם לכל חטאתם**: Aharón «hará reconciliación por la Santidad debido a la impureza de los hijos de Israel y debido a sus transgresiones, por todos sus pecados». TTH conserva los tres ámbitos del problema —impureza, transgresión y pecado— antes de describir que el sacerdote pone las iniquidades sobre el animal vivo. El texto no presenta una sangre abstracta que funciona sin destinatario: la acción tiene lugar «por la Santidad», mientras la confesión posterior identifica aquello que será llevado fuera.
+
+**(טמאה)**, _tumah_, significa impureza o contaminación ritual; su fuerza aquí es el estado que afecta al ámbito santo, no una emoción privada. **(פשׁע)**, _pesha_, significa transgresión o rebelión; en 16:21 nombra una ruptura imputada a la asamblea. **(חטאת)**, _chatat_, significa pecado, falta u ofrenda por el pecado según su construcción; en 16:16 forma parte de la lista de aquello por lo que se hace reconciliación, pero en 16:9 designa también la ofrenda. «Desorden moral» es una equivalencia pedagógica que reúne los términos; no es exacta para cada forma.
+
+Eric aplica este orden a su enseñanza sobre una reconciliación que no autoriza seguir practicando el pecado. El capítulo no formula esa máxima en lenguaje doctrinal posterior, pero sí vincula confesión, envío, purificación y respuesta comunitaria. La evaluación más segura es, por tanto, doble: la aplicación ética es una inferencia teológica razonable de la secuencia, mientras que el significado inmediato de _tumah_, _pesha_ y _chatat_ sigue siendo cultual y contextual. La unidad que Eric percibe no elimina los sujetos: el sacerdote rocía, la asamblea se humilla y el macho cabrío carga.
+
 ## Pendiente de verificar
 
 ## El día señalado: humillación, reposo y alcance de la reconciliación
