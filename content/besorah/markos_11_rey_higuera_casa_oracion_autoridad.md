@@ -27,11 +27,13 @@ references:
   - "#markos_11_33"
 sources:
   - "https://www.youtube.com/watch?v=1TSSvIKzEzQ"
+  - "https://www.youtube.com/watch?v=pmg5YfsYOkQ"
   - "https://www.youtube.com/watch?v=bwPzt_r3XY0"
   - "docs/scriptures/tth/json/markos.json"
 translation: "[TTH]"
 source_ids:
   - "youtube:1TSSvIKzEzQ"
+  - "youtube:pmg5YfsYOkQ"
   - "youtube:bwPzt_r3XY0"
 ---
 
@@ -41,7 +43,7 @@ Marcos 11 presenta a Yehoshua entrando en Ierushaláim sin la autosuficiencia de
 
 ## Alcance de la nota
 
-Esta nota canónica sigue Marcos 11 en su orden textual y organiza las partes 34 y 36 del estudio del **hermano Eric de Jesús Rodríguez Mendoza**. La primera clase abarca el cierre de Marcos 10 y la entrada de 11:1-11; conserva una propuesta sobre _Nazareno_ y **(נצר)**. La segunda trabaja 11:20-33 y relaciona higuera, Hejal, emunah, tefilah y perdón. Sus observaciones se atribuyen a la clase y se contrastan con el texto local TTH. No se presenta como cita literal ni como demostración de hipótesis sobre el idioma original de Marcos.
+Esta nota canónica sigue Marcos 11 en su orden textual y organiza las partes 34, 35 y 36 del estudio del **hermano Eric de Jesús Rodríguez Mendoza**. La primera clase abarca el cierre de Marcos 10 y la entrada de 11:1-11; conserva una propuesta sobre _Nazareno_ y **(נצר)**. La fuente pública de la parte 35 se titula «La Higuera y la casa de Oración» y confirma el bloque 11:12-19; al no disponer de una transcripción verificable en este ciclo, no se atribuyen a esa clase argumentos orales adicionales. La tercera trabaja 11:20-33 y relaciona higuera, Hejal, emunah, tefilah y perdón. Sus observaciones se atribuyen a la clase y se contrastan con el texto local TTH. No se presenta como cita literal ni como demostración de hipótesis sobre el idioma original de Marcos 11.
 
 ## Hoja de comparación
 
@@ -57,14 +59,14 @@ Esta nota canónica sigue Marcos 11 en su orden textual y organiza las partes 34
 
 ## Hoja léxica
 
-| Forma             | Transliteración | Sentido normal                                                                            | Fuerza contextual                                                                                                                                                                                                                                               | Equivalencia                                                                                                              |
-| ----------------- | --------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **(ὡσαννά)**      | hosanna         | súplica de auxilio; aclamación conservada como préstamo semítico                          | En 11:9 acompaña al que viene en el Nombre de יהוה. No es solo un grito festivo separado de la necesidad de salvación.                                                                                                                                          | Aproximada con **(הושיעה נא)**, _hoshia na_, «salva, por favor»; el paso al uso litúrgico exige matiz.                    |
-| **(ἱερόν)**       | hieron          | recinto del templo, complejo sagrado                                                      | En 11:11 y 15 TTH usa _Hejal_ para el espacio que Yehoshua observa y purifica. El griego no designa automáticamente solo el santísimo.                                                                                                                          | Aproximada con **(היכל)**, _hejal_; no equivalencia arquitectónica exacta en cada contexto.                               |
+| Forma             | Transliteración | Sentido normal                                                                              | Fuerza contextual                                                                                                                                                                                                                                               | Equivalencia                                                                                                              |
+| ----------------- | --------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **(ὡσαννά)**      | hosanna         | súplica de auxilio; aclamación conservada como préstamo semítico                            | En 11:9 acompaña al que viene en el Nombre de יהוה. No es solo un grito festivo separado de la necesidad de salvación.                                                                                                                                          | Aproximada con **(הושיעה נא)**, _hoshia na_, «salva, por favor»; el paso al uso litúrgico exige matiz.                    |
+| **(ἱερόν)**       | hieron          | recinto del templo, complejo sagrado                                                        | En 11:11 y 15 TTH usa _Hejal_ para el espacio que Yehoshua observa y purifica. El griego no designa automáticamente solo el santísimo.                                                                                                                          | Aproximada con **(היכל)**, _hejal_; no equivalencia arquitectónica exacta en cada contexto.                               |
 | **(πίστιν θεοῦ)** | pistin theou    | fe o fidelidad de Dios; construcción con genitivo que puede entenderse de más de una manera | La clase propone «la fidelidad de Dios esté con ustedes» para 11:22. La frase griega permite debatir si el genitivo es objetivo («fe en Dios») o subjetivo («fidelidad de Dios»); el contexto impide usar cualquiera de las dos lecturas para controlar a Dios. | **(אמונה)**, _emunah_, es aproximación pedagógica; no prueba una redacción hebrea subyacente.                             |
-| **(προσεύχομαι)** | proseuchomai    | orar, dirigirse a Dios en oración                                                         | 11:24 relaciona la petición con la confianza y 11:25 con el perdón. No significa una fórmula que obligue una respuesta deseada.                                                                                                                                 | Cercana a **(תפלה)**, _tefilah_; el valor de «juicio» propuesto por la clase necesita documentación léxica independiente. |
-| **(ἀφίημι)**      | afiemi          | dejar ir, remitir, perdonar                                                               | En 11:25-26 expresa el acto de remitir al otro, enlazado con el perdón del Padre.                                                                                                                                                                               | Aproximada con «perdonar» y con el TTH «soportar»; ninguna glosa agota todos sus usos.                                    |
-| **(נצר)**         | netzer          | brote, retoño, vástago                                                                    | Eric conecta este vocablo con la designación de Yehoshua en la clase sobre 10:47–11:11. Marcos 11 no emplea el término; por tanto, no debe imponerse sobre su narración de la entrada.                                                                          | La conexión con **(Ναζωραῖος)** es una propuesta pedagógica y textual pendiente, no equivalencia demostrada.              |
+| **(προσεύχομαι)** | proseuchomai    | orar, dirigirse a Dios en oración                                                           | 11:24 relaciona la petición con la confianza y 11:25 con el perdón. No significa una fórmula que obligue una respuesta deseada.                                                                                                                                 | Cercana a **(תפלה)**, _tefilah_; el valor de «juicio» propuesto por la clase necesita documentación léxica independiente. |
+| **(ἀφίημι)**      | afiemi          | dejar ir, remitir, perdonar                                                                 | En 11:25-26 expresa el acto de remitir al otro, enlazado con el perdón del Padre.                                                                                                                                                                               | Aproximada con «perdonar» y con el TTH «soportar»; ninguna glosa agota todos sus usos.                                    |
+| **(נצר)**         | netzer          | brote, retoño, vástago                                                                      | Eric conecta este vocablo con la designación de Yehoshua en la clase sobre 10:47–11:11. Marcos 11 no emplea el término; por tanto, no debe imponerse sobre su narración de la entrada.                                                                          | La conexión con **(Ναζωραῖος)** es una propuesta pedagógica y textual pendiente, no equivalencia demostrada.              |
 
 ## Del asnito a la inspección del Hejal (11:1-11)
 
@@ -80,6 +82,7 @@ Marcos intercala la higuera entre la llegada y la intervención en el Hejal. Yeh
 
 En el Hejal Yehoshua expulsa a quienes venden y compran, vuelca las mesas y no deja que se transporten vasijas. Su explicación controla el sentido: «mi casa, casa de oración será llamada para todos los pueblos», pero «ustedes la han hecho cueva de ladrones» (#markos_11_17). La acusación no autoriza odio contra el santuario ni contra el pueblo que ora allí; denuncia una práctica que contradice la vocación de la casa. También alcanza a cualquier comunidad que conserve actividad religiosa mientras impide la oración, la justicia o el acceso de los pueblos.
 
+<!-- prettier-ignore -->
 La parte 35 de Eric lleva precisamente en su título los dos elementos que Marcos intercala: «La higuera y la casa de oración». Esa coincidencia confirma que la sesión pertenece a #markos_11_12-19, pero no sustituye una transcripción ni permite inventar una interpretación específica. El texto sí ofrece la dependencia necesaria: la higuera sin fruto enmarca la acción del Hejal, y la frase **(οἶκός μου)**, _oikos mou_, «mi casa», identifica la finalidad declarada del recinto dentro de la cita de Isaías; su equivalencia con **(בית)**, _beit_, es funcional y contextual, no evidencia de que Marcos esté retrovertiendo el pasaje.
 
 Los sacerdotes y escribas oyen, buscan cómo hacerlo perecer y temen a la multitud asombrada por su enseñanza. La tensión ya no es la de un reformador con una sugerencia administrativa. Marcos presenta una confrontación de autoridad: quién puede juzgar el uso del recinto que ellos administran y qué harán ellos ante esa palabra.
@@ -107,7 +110,7 @@ Ese orden prueba y limita las aplicaciones de la clase. La esterilidad es una in
 ## Mapa de la enseñanza de Eric
 
 - **Marcos 10:47–11:11 — Nazareno, netzer y entrada:** Eric compara formas griegas relacionadas con Nazaret y propone un nexo con **(נצר)**; la nota conserva la propuesta como analogía pedagógica y deja su demostración filológica pendiente.
-- **Marcos 11:12-21 — higuera y Hejal:** la clase relaciona la higuera seca con la condición del recinto; la nota reconoce el enlace literario de Marcos, sin identificar la higuera de forma absoluta con un colectivo.
+- **Marcos 11:12-21 — higuera y Hejal:** la parte 35 lleva públicamente el título «La Higuera y la casa de Oración» (`youtube:pmg5YfsYOkQ`), y la parte 36 relaciona la higuera seca con la condición del recinto; la nota reconoce el enlace literario de Marcos, sin atribuir a la parte 35 detalles no comprobados ni identificar la higuera de forma absoluta con un colectivo.
 - **Marcos 11:22-24 — emunah y el monte:** Eric lee la expresión como «fidelidad de Dios» frente a una fe manipulable; la nota explica la ambigüedad del genitivo y apoya su corrección contra el voluntarismo.
 - **Marcos 11:25-33 — perdón y autoridad:** Eric vincula la oración con perdón responsable y muestra el cálculo de los dirigentes ante Iojanán; la nota lo trata como apoyo textual y distingue la escena de una simple disputa técnica.
 
@@ -152,6 +155,7 @@ Marcos 11 dirige la esperanza de la multitud hacia un rey que entra, examina y j
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Marcos, parte 34: 10:32–11:11, «Nazarino/Nazaretano y Nétzer»](https://www.youtube.com/watch?v=1TSSvIKzEzQ) (`source_id`: `youtube:1TSSvIKzEzQ`).
+- Video: [Evangelio según Marco, parte 35: la higuera y la casa de oración](https://www.youtube.com/watch?v=pmg5YfsYOkQ) (`source_id`: `youtube:pmg5YfsYOkQ`).
 - Video: [El Evangelio según Marcos, parte 36: capítulos 11–12, «Fidelidad de Dios / Parábola»](https://www.youtube.com/watch?v=bwPzt_r3XY0) (`source_id`: `youtube:bwPzt_r3XY0`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
