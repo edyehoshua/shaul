@@ -15,9 +15,11 @@ references:
   - "#tehilim_128_5"
   - "#tehilim_128_6"
 sources:
+  - "https://www.youtube.com/watch?v=E32ztB2NacQ"
   - "https://www.youtube.com/watch?v=9KTiuVdqaT4"
   - "docs/scriptures/oe/json/psalms/128.json"
 source_ids:
+  - "youtube:E32ztB2NacQ"
   - "youtube:9KTiuVdqaT4"
 ---
 
@@ -27,7 +29,7 @@ Tehilim 128 presenta la bendición como una vida que teme a יהוה, camina en 
 
 ## Alcance de la nota
 
-La clase «Tehilim/Himnos/Salmo Cap 128 (parte 2)» retoma el capítulo y aplica sus imágenes a la diligencia, la enseñanza dentro del hogar y la perseverancia. Esta nota conserva esas observaciones atribuibles, pero prueba cada paso contra el texto hebreo local. Las extensiones sobre procreación espiritual, injerto y Jerusalén celestial se señalan como lecturas pedagógicas o intertextuales, no como traducciones directas del salmo.
+La parte 1, «Tehilim/Hymnos/Psalm Chapter 128 (part 1)», introduce el capítulo desde **אשרי**, la felicidad o dicha, y desde el temor de יהוה; la parte 2 retoma el capítulo y aplica sus imágenes a la diligencia, la enseñanza dentro del hogar y la perseverancia. Esta nota conserva ambas observaciones atribuibles, pero prueba cada paso contra el texto hebreo local. Las extensiones sobre procreación espiritual, injerto y Jerusalén celestial se señalan como lecturas pedagógicas o intertextuales, no como traducciones directas del salmo.
 
 ## Texto base
 
@@ -53,6 +55,8 @@ La clase «Tehilim/Himnos/Salmo Cap 128 (parte 2)» retoma el capítulo y aplica
 ## Temor y camino: v. 1
 
 El salmo no empieza con prosperidad sino con la condición que la ordena: «אשרי כל ירא יהוה» —«dichoso todo el que teme a יהוה»— y «ההלך בדרכיו» —«el que camina en sus caminos». Eric insiste en que la predicación nunca puede servir de pretexto para pecar ni para adoptar idolatría bajo la excusa de acercarse a otros. Esa exhortación es una aplicación directa y reconocible del vínculo entre temor y caminar: el verso no autoriza separar mensaje y obediencia. Su explicación de «al judío me hice judío y al griego griego» pertenece a su argumento apostólico, no al vocabulario del salmo; aquí funciona como ejemplo pedagógico de no negociar la santidad.
+
+En la parte 1 Eric subraya **אשרי** como una exclamación de dicha o felicidad a causa del camino, no como un adjetivo abstracto que garantice comodidad. También rechaza suavizar **ירא** hasta convertirlo solo en respeto: reconoce temor ante la justicia de יהוה, aunque aclara que ese temor debe conducir a obediencia y servicio, no a una relación de pánico. El texto local sostiene la unión entre el que teme y el que camina; la explicación psicológica sobre el miedo que permanece y la conexión con Tehilim 19 y 119 son desarrollos de la clase.
 
 ## Manos, pies y alimento: v. 2
 
@@ -88,5 +92,6 @@ Tehilim 128 no promete una casa desligada del camino. El temor de יהוה se vu
 
 ## Créditos
 
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Psalm Chapter 128 (part 1)» — <https://www.youtube.com/watch?v=E32ztB2NacQ> — source_id: `youtube:E32ztB2NacQ`.
 - **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 128 (parte 2)» — <https://www.youtube.com/watch?v=9KTiuVdqaT4> — source_id: `youtube:9KTiuVdqaT4`.
 - La transcripción automática se usa como apoyo de estudio y atribución; no se presenta como cita literal ni como transcripción revisada por el expositor.
