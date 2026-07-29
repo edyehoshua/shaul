@@ -32,9 +32,11 @@ Esta es la nota canónica para Bamidbar 8 dentro de esta incorporación. La tran
 
 ## Hoja de comparación
 
-| Referencia    | Hebreo local (OE, sin nikud) | Observación                                                                                           |
-| ------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bamidbar_8_1 | **וידבר יהוה אל משה לאמר**   | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| Referencia        | Hebreo local (OE, sin nikud)                          | TTH local                                                                                       | Observación                                                                                             |
+| ----------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| #bamidbar_8_1     | **וידבר יהוה אל משה לאמר**                            | «Y habló יהוה a Moshéh, diciendo»                                                               | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones.   |
+| #bamidbar_8_2-4   | **בהעלתך את הנרת אל מול פני המנורה יאירו שבעת הנרות** | «Cuando levantes las lámparas, hacia frente la faz de la Menoráh alumbrarán las siete lámparas» | La orientación y la obediencia de Aharón son explícitas; una lectura de “luz espiritual” es aplicación. |
+| #bamidbar_8_23-26 | **ומבן חמשים שנה ישוב מצבא העבדה ולא יעבד עוד**       | «Desde la edad de cincuenta años podrá regresar de la compañía de la obra, y no trabajará más»  | El relevo y la asistencia siguen siendo servicio regulado, no una regla universal sobre toda edad.      |
 
 ## Lectura inicial
 
