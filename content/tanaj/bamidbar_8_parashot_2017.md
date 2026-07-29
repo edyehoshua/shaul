@@ -330,6 +330,12 @@ Delitzsch ofrece un paralelo canónico que debe permanecer como paralelo. En Ivr
 
 Así, la síntesis de la clase queda evaluada en tres niveles: la luz orientada y la custodia del servicio son exactas; la lectura de una vida que no busca gloria propia es una inferencia teológica bien apoyada; y la extensión de las edades levíticas a todo liderazgo es una analogía pedagógica. El capítulo camina de lámparas a purificación, de purificación a sustitución y de sustitución a relevo: toda luz recibida queda bajo una orden, una comunidad y una custodia.
 
+## Control final: la luz y el servicio reciben su dirección
+
+La lectura en orden permite formular la evaluación sin separar símbolo y procedimiento. En los vv. 1-4, **(יאירו)**, _ya'iru_, significa alumbrar o dar luz; su fuerza contextual describe la función de las lámparas hacia la Menoráh. En los vv. 5-13, **(טהר)**, _taher_, significa limpiar o poner en estado de pureza; aquí nombra la preparación cultual de los leviím mediante acciones concretas. En los vv. 14-19, **(נתן)**, _natan_, significa dar o entregar; la repetición muestra pertenencia funcional a יהוה y servicio para Israel. En los vv. 23-26, **(שמר)**, _shamar_, significa guardar o custodiar; el relevo modifica la carga, pero no elimina la custodia. «Brillar», «purificarse», «ser entregado» y «guardar» pueden resumir la aplicación de Eric, pero la equivalencia exacta depende de cada forma y de su sujeto.
+
+Así, la tesis de la exposición queda preservada y limitada por el capítulo: la luz no autoriza autonomía, la consagración no crea superioridad moral y el relevo no equivale a abandono. El OE y el TTH muestran una secuencia verificable de mandato, ejecución, presentación, sustitución y asistencia. La conexión con un liderazgo contemporáneo es teológica y pedagógica; la afirmación inmediata de Bamidbar 8 es que יהוה ordena un servicio levítico, reconocido por la congregación y orientado a protegerla.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

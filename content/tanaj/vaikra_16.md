@@ -502,6 +502,12 @@ Delitzsch relee la estructura en Ivrim 9:7: **לא בלתי־דם אשר יקר�
 | #vaikra_16_20-28 | La confesión sobre el macho cabrío vivo expresa la remoción de las iniquidades y su envío fuera del campamento.                                               | **(התודה)**, _hitvadah_, significa confesar o reconocer, y **(נשא)**, _nasa_, llevar o cargar; «eliminar el pecado» resume pedagógicamente el efecto narrativo, pero no traduce por sí solo ninguno de los verbos. |
 | #vaikra_16_29-34 | La reconciliación exige una respuesta comunitaria de humillación, reposo y obediencia anual.                                                                  | **(ענה)**, _anah_, afligir o humillar, y **(שבתון)**, _shabbaton_, reposo solemne, describen acciones concretas; la aplicación a un «corazón purificado» es teológica y aproximada.                                |
 
+## Control final: reconciliación, remoción y respuesta
+
+El recorrido completo exige distinguir tres planos que la exposición de Eric reúne: el tratamiento de los espacios santos, la remoción representada por el macho cabrío vivo y la respuesta de la asamblea. **(כפר)**, _kafar_, significa cubrir y, en la construcción sacerdotal, hacer reconciliación; su fuerza contextual alcanza la Santidad, la Tienda y el altar. **(נשא)**, _nasa_, significa llevar o cargar; en 16:22 describe al macho cabrío llevando las iniquidades hacia una tierra separada. **(ענה)**, _anah_, significa afligir, humillar o someter; en 16:29 nombra la respuesta corporal y comunitaria. «Perdón interior» puede expresar una aplicación teológica, pero no sustituye esas tres acciones textuales.
+
+Esta distinción también disciplina la lectura mesiánica. Delitzsch en Ivrim 9 relee el acceso anual y la sangre desde la obra del Mesías, una conexión canónica y aproximada; no convierte **(עזאזל)**, _Azazel_, en un término resuelto ni hace que **(נפש)**, _nefesh_, signifique siempre un alma separable. La síntesis de Eric es sólida cuando afirma que sangre y envío pertenecen a una sola reconciliación, y es inexacta si fusiona sus funciones. Vaikra 16 mantiene juntas la Santidad tratada, la culpa confesada, el animal enviado, el retorno lavado y la asamblea humillada.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
