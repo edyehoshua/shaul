@@ -381,3 +381,14 @@
 - Coverage refresh (`--write`): **928 covered / 30 pending** of 958; verse-index rebuild 7350 verses.
 - Load balance: all lanes below 40 eligible pending sources; **0 unassigned eligible sources** remain (missing/non-expository/covered exhausted), so no exclusive group reassignment.
 
+## 2026-07-29 — integrator batch (tanaj / efesios / yojanan)
+
+- Integrated 3 validated worker candidates on `feat/eric_youtube`:
+  1. **tanaj remediation** — `bereshit_32_36_no_te_dejare_solo.md`, `bamidbar_4_7_naso_servicio_restitucion_y_bendicion.md` (OE/TTH comparison, expanded Eric maps).
+  2. **efesios remediation** — `markos_6_envio_pan_mar_compasion.md`, `efesios_5_amor_luz_y_sabiduria.md` (ordered lexical/pericope controls).
+  3. **yojanan new work** — replaced skeletal Tehilim 71/73 with developed studies (`tehilim_71_refugio_juventud_y_justicia.md`, `tehilim_73_santuario_envidia_y_cercania.md`).
+- All six notes passed `check_transcript_note_quality.py`; source_ids unique; public Eric credits; no private transcript paths; no morphological Hebrew slash segmentation; Eric maps ≥3 entries.
+- Rejected for this run (not ready / already integrated / lane risk): epistles tip (+thin focal patches only, optional next), haftarot tip (tiny slash→middle-dot normalization; already quality-clean on canonical), tanaj Tehilim 141/142 worker notes (yojanan-owned source_ids — do not cross-lane).
+- Coverage refresh: inventory 958 / covered 928 / pending 30. Remaining pending are almost all missing-transcript, non-expository music/liturgy, or the four yojanan Tehilim items already assigned (`hh75H_Ii_wA`, `hPwnpHmmPBg`, `JFt32TbSL68`, `JxLhysPXd_0`).
+- Load balance: every lane is below the 40 pending-source target, but **no eligible unassigned sources remain** to reassign without taking in-progress work, missing transcripts, non-expository media, or another lane’s canonical notes. No manifest source_group added.
+- Remediation registry fully re-scanned → 115 notes still failing quality (down from 220 after clearing integrated/passing paths).

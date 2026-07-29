@@ -11,4 +11,4 @@ Revisar esta muestra antes de cada hito de 25 integraciones.
 - [ ] `content/besorah/hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles.md` — fuentes: youtube:lY1jXkbJGtk, youtube:5PPpjmPkyro; créditos visibles: sí.
 - [ ] `content/besorah/yojanan_15_vid_fruto_amor_discipulado.md` — fuentes: youtube:XB7AjfErsCI; créditos visibles: sí.
 - [ ] `content/tanaj/cantar_8_lectura_poetica_y_relacional.md` — fuentes: youtube:c-cPzZYvPJs, youtube:pSq69Bx_xqo; créditos visibles: sí.
-- [ ] `content/tanaj/bamidbar_8_parashot_2017.md` — fuentes: youtube:Ps_KEolNVdU, youtube:f0PQY7bXbJQ, youtube:OG2PPYieRhk, youtube:EHZDK_XPB1A, youtube:eJlTuHME674; créditos visibles: sí.
+- [ ] `content/tanaj/tehilim_73_santuario_envidia_y_cercania.md` — fuentes: youtube:KsDBATpp6ls; créditos visibles: sí.
