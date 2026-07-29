@@ -83,7 +83,7 @@ Los hijos de Israel, Aharón y sus hijos hacen conforme a lo mandado, y los levi
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta de las cuatro sesiones                                                      | Evaluación frente a Bamidbar 8                                                                                                 |
+| Unidad textual | Observación concreta de las cinco exposiciones                                                   | Evaluación frente a Bamidbar 8                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | vv. 1-4        | Las siete lámparas alumbran hacia la faz de la Menoráh y la luz no suple una carencia de יהוה.   | Apoyo textual directo para la orientación; el enlace con Apocalipsis queda como tipología.                                     |
 | vv. 5-7        | La impureza se trata mediante un procedimiento de purificación y orden, no como simple suciedad. | Apoyo textual cualificado: el capítulo describe agua, navaja y ropa; la definición general de impureza requiere otros pasajes. |
@@ -97,9 +97,9 @@ La progresión del capítulo es significativa: la luz ordenada precede al servic
 - [x] Cotejar los desarrollos léxicos principales de la clase con el hebreo, el contexto literario y OE/TTH locales.
 - [x] Delimitar los versículos tratados directamente antes de ampliar las aplicaciones pedagógicas.
 
-## Correspondencia pública de las cuatro exposiciones
+## Correspondencia pública de las cinco exposiciones
 
-La unidad temática procede de cuatro videos, pero no todos cumplen la misma función dentro de la nota. `youtube:f0PQY7bXbJQ` introduce la imagen de las siete lámparas y la discusión sobre la forma de la Menoráh; esa observación queda evaluada en 8:1-4 como apoyo para la orientación de la luz y como hipótesis histórica pendiente. `youtube:OG2PPYieRhk` desarrolla la purificación y el servicio de los leviím; el texto confirma agua, afeitado, lavado, ofrenda y presentación, mientras la extensión a todo liderazgo es una aplicación pedagógica. `youtube:EHZDK_XPB1A` enlaza la sustitución de los primogénitos con la responsabilidad de servir; 8:16-19 respalda la entrega y el reemplazo, sin convertir a los leviím en propietarios del santuario. `youtube:eJlTuHME674` lleva la lectura hacia las edades y el relevo; 8:23-26 confirma límites y asistencia, pero no una regla universal fuera del marco levítico.
+La unidad temática procede de cinco exposiciones, pero no todas cumplen la misma función dentro de la nota. `youtube:Ps_KEolNVdU` fija la observación de 2017 sobre la dirección de las siete lámparas; `youtube:f0PQY7bXbJQ` introduce la discusión sobre la forma de la Menoráh; `youtube:OG2PPYieRhk` desarrolla la purificación y el servicio de los leviím; `youtube:EHZDK_XPB1A` enlaza la sustitución de los primogénitos con la responsabilidad de servir; y `youtube:eJlTuHME674` lleva la lectura hacia las edades y el relevo. Bamidbar 8 confirma, respectivamente, la orientación ritual, el límite de la reconstrucción histórica, el procedimiento de purificación, la entrega funcional y la asistencia posterior, sin convertir ninguna aplicación en una regla universal fuera del marco levítico.
 
 Esta distribución conserva las observaciones de Eric sin atribuir a un video lo que pertenece a otro. El hilo que las une es textual —luz orientada, personas purificadas, entrega comunitaria y servicio regulado—; las conexiones con Apocalipsis, la Torah entregada y el liderazgo posterior son lecturas canónicas o pedagógicas, no citas directas de Bamidbar 8.
 
