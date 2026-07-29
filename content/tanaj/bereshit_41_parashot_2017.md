@@ -113,6 +113,7 @@ Iosef repite dos veces que la respuesta no procede de él: «No está en mí; El
 El plan también tiene límites textuales. **(חמש)**, _jamesh_, significa poner una quinta parte o disponer en proporción de cinco; en 41:34 la propuesta de recoger una quinta parte durante los años de abundancia es una medida concreta para aquella crisis. «Diezmo» no es una equivalencia exacta: el texto no usa aquí el lenguaje de diez por ciento ni establece una mitzvah general. **(בר)**, _bar_, significa grano o cereal; su almacenamiento preserva alimento real. La misericordia que la clase asocia con la administración debe por tanto medirse por el fin declarado: que la tierra no sea consumida por el hambre, no por el tamaño del tesoro.
 
 El narrador deja que la provisión y la vulnerabilidad convivan. Durante los años buenos Iosef reúne «como la arena del mar» y deja de contar porque no había número (#bereshit_41_49); durante los años malos «hubo hambre en todos los países» (#bereshit_41_54). **(כלה)**, _kalah_, significa terminar, consumirse o acabar; su fuerza contextual describe la escasez cuando ya no hay alimento ordinario. El capítulo no permite espiritualizar el hambre hasta hacerla una simple metáfora de falta interior. La lectura de Eric queda mejor anclada cuando habla de misericordia ante una necesidad corporal, mientras reserva la evaluación de la política de compra y concentración para Bereshit 47.
+<<<<<<< HEAD
 
 ## El sueño se convierte en una responsabilidad pública
 
@@ -137,18 +138,6 @@ El pasaje también permite evaluar la afirmación de que el conocimiento debe se
 Esta ampliación conserva la secuencia que la exposición destaca: tiempo que llega a su término, llamado, palabra humilde, interpretación y administración. La aplicación «la demora también forma» es **pedagógica**; las afirmaciones textuales exactas son que pasaron dos años, Iosef fue llamado, atribuyó la respuesta a Elohim y propuso un plan para que la tierra no pereciera por el hambre (#bereshit_41_36).
 
 ## Pendiente de verificar
-
-## El sueño se convierte en una responsabilidad pública
-
-El recorrido de Bereshit 41 empieza antes de la propuesta administrativa. Faraón ve siete vacas hermosas y siete espigas llenas, seguidas por vacas y espigas consumidas; la repetición indica que el asunto está establecido, pero no entrega por sí misma la respuesta. Cuando Iosef dice que la solución no está en él, la clase de Eric queda protegida de una lectura de autosuficiencia: el intérprete recibe el don, pero el gobernante debe responder a una advertencia que afecta a toda la tierra.
-
-En 41:33 Iosef dice: «Ahora, mire Faraón un hombre sabio e inteligente, y ponlo sobre la tierra de Mitzráim». **(ראה)**, _re'eh_, es la forma imperativa de «ver» o «considerar»; aquí pide que Faraón examine una propuesta, no que admire una visión religiosa. **(נבון)**, _navon_, significa entendido o discernidor; **(חכם)**, _jajam_, sabio o hábil. «Estratega» es una equivalencia **pedagógica**, porque el texto habla de discernimiento y sabiduría, mientras la aplicación administrativa se desprende de los verbos que siguen.
-
-El objetivo aparece en 41:36: «Y sea la comida para depósito para la tierra por los siete años del hambre ... y no sea reducida la tierra en el hambre». **(אכל)**, _okhel_, es comida o alimento; **(פקד)**, _paqad_, en la propuesta de poner supervisores, expresa encargar, visitar o poner a cargo. «Controlar» es demasiado estrecho; la fuerza contextual es organizar una tarea confiada. La sabiduría que Eric relaciona con misericordia queda así evaluada por el fin declarado: que la tierra no perezca, no por el brillo del cargo.
-
-La respuesta de Faraón reconoce el resultado: «¿Acaso encontraremos como este hombre, en quien está el espíritu de Elohim?» (41:38). **(רוח)**, _ruaj_, significa viento, aliento o espíritu; «inspiración» es **aproximada** y **pedagógica** aquí. La frase no autoriza a convertir cada capacidad política en prueba de una investidura divina; en el relato señala que Faraón percibe una diferencia en Iosef después de haber oído la interpretación y el plan. La clase puede hablar de sabiduría dada por Elohim, pero el texto mantiene esa afirmación dentro de esta escena concreta.
-
-La administración alcanza a los hambrientos. «Tuvieron hambre en toda la tierra de Mitzráim ... Vayan a Iosef, lo que él les diga a ustedes, hagan» (41:55). **(רעב)**, _ra'av_, significa hambre; no es solo una imagen espiritual de carencia. **(שבר)**, _shever_, se relaciona con grano o provisión de alimento; según la construcción, el campo semántico incluye comprar y distribuir grano. «Misericordia» resume pedagógicamente el efecto preservador, pero el capítulo 41 no resuelve todavía la evaluación completa de la política económica que se narra después. La nota conserva la observación de Eric y limita su alcance: una autoridad se prueba por cómo responde al hambre real y por si reconoce que el don no le pertenece.
 
 - [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
 - [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
