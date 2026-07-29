@@ -755,6 +755,16 @@ El cierre no permite resumir el día solo como una experiencia interior. OE dice
 
 La respuesta ordenada en los vv. 29-31 —afligir el _nefesh_, cesar la obra y guardar reposo— evalúa la aplicación de Eric sin reemplazar el calendario. **(מלאכה)**, _melakhah_, significa obra, labor o trabajo; su fuerza contextual es la actividad que la asamblea debe suspender. **(שבתון)**, _shabbaton_, significa reposo solemne; «retiro espiritual» es pedagógico, no exacto. La reconciliación alcanza a la comunidad de manera visible, pero el texto conserva sacerdote, fecha, rito y estatuto; la conexión mesiánica con Delitzsch es canónica y aproximada.
 
+## La reconciliación termina en una respuesta pública
+
+La última unidad del capítulo impide hablar de una reconciliación puramente invisible. Después de la sangre, la confesión y el envío, el texto ordena al nativo y al extranjero residente afligir su _nefesh_, no hacer obra y guardar reposo. El OE dice **תענו את נפשתיכם וכל מלאכה לא תעשו**, y TTH: «Afligirán sus gargantas y no harán ninguna obra» (#vaikra_16_29). **(ענה)**, _anah_, significa afligir, humillar o someter; aquí describe la respuesta corporal de la asamblea. «Arrepentimiento interior» es una equivalencia **pedagógica**, no el sentido completo de la forma.
+
+**(מלאכה)**, _melakhah_, significa obra, labor o trabajo; su fuerza contextual es la actividad que la comunidad debe suspender en el día señalado. **(שבתון)**, _shabbaton_, significa reposo solemne; «retiro espiritual» es una paráfrasis **aproximada** que no puede sustituir la cesación concreta. Eric enseña que la reconciliación debe alcanzar la vida y no quedarse en un símbolo aislado. El capítulo apoya esa aplicación en un sentido limitado: el pueblo responde con humillación, descanso y obediencia, pero no convierte esas acciones en una definición nueva de **(כפר)**, _kafar_.
+
+La forma **(כפר)**, _kafar_, tiene como sentido normal cubrir y, en la construcción cultual, hacer reconciliación o expiación. En 16:30 aparece **יכפר**, _yekhapper_, «hará reconciliación», seguido de **לטהר**, _letaher_, «para purificar». **(טהר)**, _taher_, significa estar limpio o purificar; su fuerza contextual es el estado cultual que יהוה declara después del rito. «Sanidad interior» puede ser una aplicación **teológica y aproximada**, pero no es una equivalencia exacta de estas formas.
+
+La secuencia final conserva además a toda la asamblea: «desde el nativo hasta el extranjero que reside en medio de ustedes». Esta inclusión no borra la mediación de Aharón ni convierte el rito en una práctica espontánea. El sacerdote entra, rocía, confiesa y sale; los servidores lavan sus vestidos y el pueblo se humilla. La observación de Eric sobre una obra completa queda mejor evaluada así: sangre, remoción, purificación, lavado y reposo pertenecen a un mismo día, pero cada acción mantiene su sujeto, momento y función. La unidad del rito se demuestra conservando sus diferencias.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

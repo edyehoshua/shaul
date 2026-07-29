@@ -319,6 +319,16 @@ El movimiento culmina en **(שמח)**, _samaj_, «alegrarse». En 12:7 la alegr�
 
 Finalmente, 12:8–9 conserva la tensión entre el presente y la heredad: «no haréis conforme a todo lo que hacemos aquí hoy, cada uno todo lo recto ante sus ojos», porque todavía no han llegado al reposo y a la heredad. **(נוח)**, _nuaj_, significa descansar, reposar o establecer; en **המנוחה** designa el reposo otorgado por יהוה, no una técnica humana para producir calma. «Establecimiento» es una equivalencia contextual aproximada. Así, la enseñanza de Eric se sostiene sin reducir el capítulo: la libertad crece cuando se abandona el criterio privado, se busca el lugar elegido y se practica una alegría compartida bajo la palabra recibida.
 
+## La libertad recibida se prueba en lo consagrado
+
+La advertencia de Eric contra convertir la libertad en autonomía encuentra una prueba adicional en la transición entre los vv. 15-19 y 20-28. El OE permite comer carne en las puertas «según todo el deseo de tu nefesh», pero mantiene aparte la sangre, los diezmos, los votos y las ofrendas. **(תאוה)**, _taavah_, significa deseo o apetito; en esta unidad su fuerza contextual es un deseo permitido dentro de los límites que יהוה establece. «Impulso soberano» sería una equivalencia **pedagógica** e inexacta: el deseo no recibe autoridad para redefinir lo santo.
+
+La forma **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto. En #devarim_12_15 y 23 se refiere a la persona o al apetito de comer, mientras que «la sangre es la nefesh» relaciona la sangre con la vida del animal. «Alma» es una traducción **aproximada**, no una prueba de que el texto separe una sustancia invisible del cuerpo. La clase de Eric puede hablar de libertad ordenada con apoyo textual, siempre que la aplicación conserve la comida real, la sangre derramada y el mandamiento.
+
+El contraste reaparece en los votos. **(נדר)**, _neder_, significa voto o promesa votiva; en el capítulo nombra una obligación consagrada que no se consume como comida ordinaria en las puertas. El verbo **(נדר)**, _nadar_, «hacer un voto», y el sustantivo no son una licencia para tratar toda intención religiosa como ofrenda. La equivalencia «compromiso interior» es **pedagógica**; la fuerza exacta del pasaje es llevar lo consagrado al lugar que יהוה elige. Eric acierta al unir reposo y responsabilidad: la mesa delante de יהוה es alegre, pero también distingue lo común de lo apartado.
+
+Esta distinción evita dos reducciones opuestas. No es correcto decir que Devarim 12 elimina toda comida cotidiana, pues el texto permite comer en las localidades; tampoco es correcto convertir la comida permitida en un culto diseñado por cada persona. **(דם)**, _dam_, significa sangre, y **(שפך)**, _shafakh_, significa derramar o verter. En los vv. 23-24 la orden de derramar la sangre «como agua» limita el apetito sin negar el permiso de comer. La observación de Eric queda así cualificada: la libertad recibida se reconoce precisamente porque sigue escuchando, guardando y haciendo lo que יהוה ordena.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
