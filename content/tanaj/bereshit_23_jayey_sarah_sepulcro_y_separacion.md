@@ -128,6 +128,24 @@ El OE dice **ויקם שדה עפרון... לאברהם למקנה לעיני ב
 
 Así se evalúa el énfasis de Eric sin convertirlo en una regla absoluta contra toda relación con quienes no comparten la fe. Bereshit 23 condena aquí la dependencia patrimonial incierta, no ordena aislarse de toda negociación. Abraham trata con respeto a los hijos de Jet, se inclina ante ellos y compra con transparencia. La separación es una administración fiel de la promesa, no desprecio del prójimo.
 
+## Escuchar, pesar y dejar testigos: la forma pública de la esperanza
+
+La negociación de Bereshit 23 no es un intercambio privado entre Abraham y Efrón. Abraham habla ante los hijos de Jet, Efrón responde «a los oídos» de su pueblo y Abraham pesa la plata delante de ellos (#bereshit_23_10, 16, 18). La observación de Eric sobre no depender de un favor recibe aquí su soporte más firme: el relato repite actores, lugar y testigos para mostrar que la posesión de la cueva no descansa en una promesa informal.
+
+El verbo **(שקל)**, _shaqal_, significa pesar; en #bereshit_23_16 su forma narrativa describe la entrega medida de los cuatrocientos siclos. «Pagar caro» es una paráfrasis **pedagógica**, porque el verbo nombra la acción de pesar y el precio solo se evalúa por comparación externa. **(כסף)**, _késef_, significa plata o dinero; unido a **(מלא)**, _malé_, «lleno, completo», forma la expresión «plata completa». La equivalencia «sin descuento» es **aproximada**: comunica la ausencia de regalo o deuda implícita, pero no calcula el valor comercial exacto.
+
+La puerta de la ciudad también limita la aplicación de la clase. **(שער)**, _shaar_, significa puerta o entrada; en este contexto es el espacio público donde se negocian asuntos de la comunidad, no simplemente una puerta arquitectónica aislada. **(עדה)**, _edah_, significa asamblea o congregación; aquí la expresión «hijos de Jet» identifica a quienes oyen y pueden dar reconocimiento social a la transacción. «Notaría» sería una equivalencia **pedagógica**, no exacta: el texto no reproduce una institución moderna, aunque sí muestra publicidad, testimonio y transferencia verificable.
+
+## Forastero, posesión y promesa todavía no consumada
+
+Abraham se define como **(גר ותושב)**, _ger wetoshav_, «forastero y residente», mientras pide una **(אחזת קבר)**, _ajuzat qever_, «posesión de sepulcro». La tensión es argumental. No posee todavía la tierra como soberano, pero sí necesita un lugar concreto donde enterrar a Sarah. La compra no convierte a Abraham en dueño de todo Kenáan ni autoriza una lectura triunfalista de la promesa; establece una posesión limitada que el relato puede señalar y transmitir.
+
+**(גר)**, _ger_, puede significar forastero o residente protegido; su fuerza contextual es la condición de alguien que vive entre un pueblo sin presentarse como propietario originario. **(תושב)**, _toshav_, significa residente o habitante establecido; unido a _ger_, mantiene la doble condición de Abraham. «Refugiado» sería una equivalencia **pedagógica** demasiado específica. Eric conserva bien el carácter separado de Abraham, pero el capítulo también muestra respeto: se inclina, escucha y negocia con los hijos de Jet, de modo que separación no equivale a desprecio.
+
+La forma **(נתן)**, _natan_, significa dar, poner o entregar. En «el campo de Efrón ... fue establecido para Abraham por compra» (#bereshit_23_17), el resultado no es un don gratuito: el contexto de 23:16–18 especifica plata pesada, testigos y compra. «Regalo providencial» sería una equivalencia inexacta. El capítulo sí permite una lectura de esperanza porque la cueva queda en la tierra prometida, pero la esperanza se expresa mediante un acto humilde y documentado, no mediante apropiación anticipada de todo lo que יהוה ha prometido.
+
+Esta precisión también cualifica el puente con Bereshit 24 y 2 Corintios 6. La prohibición de tomar esposa de las hijas de Kenáan pertenece al encargo del capítulo 24; la exhortación apostólica sobre el yugo desigual pertenece a su propio contexto. **(חבר)**, _javar_, significa unirse, asociarse o vincularse; una conexión teológica entre los pasajes puede ser **aproximada y pedagógica**, pero no debe presentarse como si Bereshit 23 ordenara aislarse de toda relación económica o social. Abraham trata con los hititas sin adoptar su culto ni aceptar una propiedad ambigua.
+
 ## Conclusión
 
 Bereshit 23 enseña a llorar a Sarah sin improvisar la herencia. Abraham, forastero y residente, compra con plata completa un campo con cueva y árboles a ojos de la ciudad. La clase de Eric acierta al ver ahí una negativa a depender del favor del pueblo de la tierra; el capítulo 24 prolonga esa lógica en el matrimonio de Itzjak. La promesa camina por duelo, contrato y jésed de יהוה, no por atajos que mañana deshagan los hijos de Jet.

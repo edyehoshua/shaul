@@ -121,6 +121,22 @@ El término **(פנים)**, _panim_, «rostro» o «presencia», aparece en «ha
 - [[vayikra_1_parashot_2017|Vaikra 1: acercamiento y ofrenda]]
 - #bamidbar_6_27 — el Nombre puesto sobre Israel.
 
+## La bendición no reemplaza la reparación
+
+La proximidad entre Bamidbar 5 y 6 impide separar la bendición de la justicia cotidiana. El texto primero ordena que quien haya defraudado a su prójimo confiese y devuelva «la culpa en su totalidad», añadiendo la quinta parte (#bamidbar_5_7). Después manda a los sacerdotes bendecir: «Te bendecirá יהוה y te guardará» (#bamidbar_6_24). Eric presenta el liderazgo como servicio al pueblo; esta secuencia permite evaluar esa observación con una precisión adicional: el dirigente no puede usar una palabra de bendición para encubrir un daño que todavía no ha sido reconocido y reparado.
+
+La forma **(שוב)**, _shuv_, significa volver o regresar; no es el verbo central de la restitución, pero ayuda a describir el movimiento moral que el procedimiento exige: volver desde la apropiación indebida hacia la devolución. En 5:7 aparece **(והתוודו)**, _vehitvadu_, forma reflexiva de ודה, _yadah_, «confesar o reconocer». Su fuerza contextual es admitir públicamente la culpa antes de devolver. «Arrepentimiento completo» es una equivalencia **pedagógica y aproximada**; el versículo especifica confesión y reparación, no una teoría psicológica exhaustiva.
+
+El destinatario de la restitución también importa. Si la persona perjudicada ha muerto y no tiene pariente, lo devuelto pasa a יהוה por medio del sacerdote (#bamidbar_5_8). **(גאל)**, _goel_, significa pariente redentor o rescatador; en este contexto nombra al familiar que podría recibir la restitución, no una autorización genérica para ejercer poder sobre el culpable. Eric acierta al insistir en que la santidad se verifica en la relación con otros, pero la equivalencia «el líder redime» sería **teológica y demasiado fuerte**: aquí la ley distribuye con precisión quién recibe y cómo se repara.
+
+## Cargas, Nombre y escucha: el criterio del servicio
+
+La repetición de **(נשא)**, _nasa_, «llevar, levantar o cargar», vincula el servicio de los levitas con las carretas de los jefes y con la responsabilidad del campamento. En Bamidbar 7 los jefes ofrecen medios de transporte; la palabra **(עגלה)**, _agalah_, significa carreta o carro, y su fuerza contextual es un recurso material para que los levitas transporten lo que les fue asignado. «Apoyo ministerial» es una equivalencia **pedagógica**, no una traducción del sustantivo. La clase de Eric puede aplicar el principio a quienes facilitan el trabajo de otros, siempre que no se borre la distribución concreta entre Guershón, Merari y Qehat.
+
+El texto además diferencia el reparto: las carretas se entregan a los hijos de Guershón y Merari según sus cargas, pero los hijos de Qehat no reciben carreta porque llevan las cosas santas sobre sus hombros (#bamidbar_7_6-9). **(כתף)**, _katef_, significa hombro; aquí señala el modo corporal de transporte asignado a Qehat. «Carga espiritual» es una equivalencia **aproximada y pedagógica** que solo sirve si conserva el peso físico y el límite ritual del pasaje. La autoridad no consiste en repartir idénticos recursos a todos, sino en discernir qué servicio corresponde a cada uno bajo la palabra recibida.
+
+Finalmente, Bamidbar 7:89 dice que Moshéh oyó la voz que le hablaba desde la cubierta del arca. **(דבר)**, _davar_, puede significar hablar, palabra o asunto; en la forma **(מדבר)**, _medaber_, significa hablando. Su fuerza contextual es una voz dirigida desde el centro del testimonio, no un ambiente religioso producido por la actividad de los jefes. «Inspiración interior» sería una equivalencia **pedagógica** e inexacta si desplazara al hablante y al lugar. El arco de Naso queda así completo: se asignan cargas, se repara el daño, se pone el Nombre y el servicio termina sometido a la escucha de יהוה.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en gramáticas hebreas el alcance de _masa_ y _asham_ en sus distintos contextos cultuales y civiles.
