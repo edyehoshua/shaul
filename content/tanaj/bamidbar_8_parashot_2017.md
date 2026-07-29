@@ -120,6 +120,14 @@ Por eso la lectura de Eric sobre orden comunitario recibe apoyo directo, con un 
 
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
 
+## La secuencia del servicio impide la autosuficiencia — vv. 1–26
+
+Leído de principio a fin, el capítulo no presenta primero un ideal humano y luego lo adorna con culto. יהוה habla, Moshéh transmite, Aharón dispone las lámparas y la congregación reconoce a los leviím. En 8:2, **(בהעלתך)**, _beha'alotekha_, es el infinitivo constructo de עלה con sufijo de segunda persona: «al hacer subir» o «al disponer para arder». Su sentido normal es subir o hacer subir; aquí fuerza a Aharón a ejecutar una orden ritual concreta. «Elevar espiritualmente» es pedagógico, no exacto.
+
+La transición a los levitas vuelve visible el mismo principio. En 8:10 Israel apoya sus manos sobre ellos; **(סמך)**, _samakh_, normalmente significa apoyar, sostener o poner, y aquí expresa identificación y entrega pública. No equivale exactamente a «transferir autoridad espiritual». Después, **(הניף)**, _henif_, forma causativa de נוף, significa mecer o mover; su fuerza contextual es presentar a los levitas delante de יהוה como ofrenda para el servicio. Eric conserva una observación válida al describir al servidor como alguien recibido por la comunidad para una tarea que no inventa, pero el rito no autoriza una élite autónoma.
+
+En 8:16–19, **(תחת)**, _tajat_, significa debajo, bajo o «en lugar de». Aquí expresa la sustitución cultual de los leviím por los primogénitos vinculados al éxodo. «Reemplazo universal» sería inexacto: el capítulo delimita la función al servicio de la Tienda y al cuidado de Israel. Finalmente, **(משא)**, _massa_, significa carga o labor de llevar; en 8:24–26 designa el trabajo levítico regulado por edad, mientras «carga espiritual» es una aplicación pedagógica. La luz orientada, la purificación, la entrega comunitaria y el relevo forman una sola secuencia de servicio recibido.
+
 ## La luz no convierte al servidor en su propia fuente — vv. 1-4, 20-26
 
 La imagen de las lámparas debe conservar su dirección. OE dice **אל מול פני המנורה יאירו שבעת הנרות**, «hacia la faz de la Menoráh alumbrarán las siete lámparas», y TTH mantiene que las lámparas deben alumbrar hacia la faz del candelero. **(מול)**, _mul_, significa frente, enfrente o en dirección a; aquí fija una relación espacial entre la llama y la Menoráh. «Hacia el mundo» sería una equivalencia inexacta si se atribuyera al verso. Eric puede aplicar la orientación a un testimonio que no se centra en el servidor, pero la fuerza inmediata del mandato es ritual y concreta.
