@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 922,
-  "pending_videos": 36,
-  "transcript_notes": 473,
+  "covered_videos": 924,
+  "pending_videos": 34,
+  "transcript_notes": 474,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -48,12 +48,12 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 51,
+      "covered": 52,
       "lane": "efesios"
     },
     "Fiestas restantes sin asignar (grupo coherente de inventario)": {
       "total": 5,
-      "covered": 4,
+      "covered": 5,
       "lane": "efesios"
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
@@ -78,12 +78,12 @@
     },
     "Haftarot de Bre’shit/Génesis": {
       "total": 12,
-      "covered": 11,
+      "covered": 12,
       "lane": "efesios"
     },
     "Haftarot de Bre’shit/Génesis restantes sin asignar (grupo coherente)": {
       "total": 11,
-      "covered": 10,
+      "covered": 11,
       "lane": "efesios"
     },
     "Haftarot de Dvarim/Deuteronomio": {
