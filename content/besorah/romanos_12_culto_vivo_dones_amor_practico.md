@@ -236,7 +236,6 @@ La renovación tampoco autoriza una inspiración privada sin examen. **(δοκι
 
 En 12:17-21, **(νικάω)**, _nikaō_, significa vencer o conquistar; «vencer el mal con el bien» es **directo** como conclusión del versículo, mientras «triunfar sin reproducir la violencia» es una aplicación **pedagógica** definida por alimentar al enemigo y dejar la venganza a Elohim. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en 12:18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». Por eso la lectura de Eric recibe apoyo textual cuando llama al bien activo, pero sería **ilegítimo** usarla para silenciar protección, denuncia o justicia legítima.
 
-
  ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]

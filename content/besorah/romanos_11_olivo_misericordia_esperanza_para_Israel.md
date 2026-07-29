@@ -251,7 +251,6 @@ En 11:20-23, **(ἀπιστία)**, _apistia_, significa incredulidad o falta de
 
 La segunda fuente, `youtube:bL-3YKdV0wo`, anuncia al Redentor de Tziyón. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; en 11:25 frena que las naciones sean sabias en su propia opinión. «Secreto» es **aproximado** y su comparación pedagógica con **(סוד)**, _sod_, «secreto o consejo», no decide el referente de «todo Israel». **(οὕτως)**, _houtōs_, significa así o de este modo; en 11:26 enlaza la salvación anunciada con el misterio previo. Traducirlo como una cronología exclusiva sería **inferencial**. Así se conserva la esperanza pública de Eric sin atribuirle un calendario que el capítulo no entrega.
 
-
  ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
