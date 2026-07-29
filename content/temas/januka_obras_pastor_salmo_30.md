@@ -77,6 +77,12 @@ El desarrollo del salmo frena una celebración triunfalista. En #tehilim_30_8 el
 
 La última estrofa explica la dirección de la restauración. יהוה cambia el lamento en danza, suelta el saco y ciñe de alegría, «para que» la gloria cante y no calle (#tehilim_30_12-13). Junto al relato de Iojanán, el resultado no es reclamar un privilegio religioso: es recibir la obra de יהוה como motivo de testimonio, seguimiento y gratitud.
 
+## La prueba visible y la respuesta de la comunidad
+
+Un énfasis repetido de Eric es que la discusión no se resuelve aislando una palabra solemne de la vida que la acompaña. En Iojanán 10, la pregunta por la identidad se encuentra rodeada por obras, voz, conocimiento y seguimiento. La respuesta de Yehoshua no invita a evaluar una apariencia religiosa, sino a mirar la coherencia entre lo que hace en nombre del Padre y lo que el Padre realiza por medio de él. La nota conserva esta observación como lectura del argumento, pero no transforma cada aplicación de la clase en una afirmación explícita del evangelio.
+
+La comunidad que escucha también queda implicada. Las ovejas no son descritas como espectadores de una señal pasada: oyen, son conocidas y siguen. Esa secuencia impide usar la seguridad del v. 28 como una licencia para la indiferencia. Del mismo modo, Tehilim 30 no termina en la experiencia privada del salmista. El motivo de cantar y no callar convierte la liberación recibida en testimonio público. Así, la enseñanza de Eric sobre la casa puede tratarse como una aplicación pastoral: una comunidad que recuerda la dedicación debe discernir las obras, perseverar en la escucha y devolver la gratitud a יהוה.
+
 ## Hoja léxica
 
 | Término     | Transliteración | Sentido en la nota       | Raíz o base | Observación                                                                                                                                                              |
