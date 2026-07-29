@@ -250,6 +250,16 @@ El capítulo desplaza luego la atención hacia la deuda que permanece. **(ὀφ�
 
 Finalmente, **(καιρός)**, _kairos_, significa momento u ocasión decisiva; en #romanos_13_11 llama a despertar porque la salvación está más cerca, pero no entrega una fecha calculable. **(ἐνδύω)**, _endyō_, significa vestirse o ponerse una prenda; en #romanos_13_12 y 14 expresa adoptar una conducta visible de luz y revestirse del Señor Yehoshua. «Vigilancia» es una síntesis **pedagógica** del efecto ético, no un calendario profético. Así, la enseñanza atribuible recibe apoyo textual cualificado: reconocer responsabilidad pública, amar sin dañar y vivir despiertos; el texto corrige tanto la obediencia servil como la rebeldía caprichosa.
 
+## Reparación consolidada: autoridad funcional y conciencia despierta
+
+La observación atribuible a Eric en `youtube:Wvj5LCGsSLw` sobre sujetarse a las autoridades recibe una evaluación más precisa cuando se mantiene el orden de #romanos_13_1-14. **(ὑποτάσσω)**, _hypotassō_, significa someterse o colocarse bajo un orden; en 13:1 y 13:5 su fuerza contextual describe una postura responsable ante la autoridad pública, pero no una obediencia ciega. **(ἐξουσία)**, _exousia_, significa autoridad, potestad o esfera de competencia; «autoridad» es una glosa **directa**, mientras «poder absoluto» sería **ilegítimo**, porque Pablo la caracteriza por su función para el bien.
+
+La lista de 13:6-7 impide convertir la sujeción en una consigna sin obligaciones concretas. **(φόρος)**, _phoros_, significa tributo o carga fiscal; **(τέλος)**, _telos_, significa impuesto, pago o término; y **(τιμή)**, _timē_, significa honor, estima o valor. En este bloque, las glosas son **directas** en el campo ordinario y **contextuales** en su aplicación: Pablo habla de pagos y honra debidos, no de rendir culto a una autoridad ni de llamar justo todo cobro. La conciencia de 13:5 sigue siendo responsable ante Elohim y debe leer la función pública junto con el mandato de servir al bien.
+
+El capítulo cambia luego a la deuda permanente del amor. **(ὀφείλω)**, _opheilō_, significa deber, estar obligado o tener una deuda; en 13:8 distingue obligaciones concretas de la deuda que permanece. **(ἀγάπη)**, _agapē_, significa amor o benevolencia comprometida; su fuerza contextual se verifica en no hacer mal al prójimo y en cumplir la Torah. La relación es **textual y directa** en el argumento, pero reducir el amor a sentimiento privado sería **ilegítimo**. El amor, por tanto, funciona como criterio moral que impide usar la obediencia civil para encubrir daño.
+
+Finalmente, **(καιρός)**, _kairos_, significa momento u ocasión decisiva; en 13:11 llama a despertar, no a calcular una fecha. **(ἐνδύω)**, _endyō_, significa vestirse o ponerse una prenda; en 13:12 y 13:14 su fuerza contextual es adoptar una conducta visible de luz y revestirse del Señor Yehoshua. «Vigilancia» es una síntesis **pedagógica** del efecto ético: la clase recibe **apoyo textual cualificado** cuando llama al orden, al amor y a la sobriedad, y queda corregida si convierte la sujeción en servilismo o la esperanza en especulación.
+
 ## Conclusión
 
 Romanos 13 invita a escuchar el argumento de Pablo como una unidad: la obra de Elohim en Yehoshua orienta a la comunidad hacia una emunah que se hace visible en perseverancia, discernimiento y amor.
