@@ -80,77 +80,77 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 
 ## Hoja léxica: cuatro verbos y sus equivalencias
 
-| Término | Transliteración | Sentido en la clase | Raíz o base | Observación |
-| --- | --- | --- | --- | --- |
-| **(προσεύχομαι)** | proseuchomai | presentarse, someterse al tribunal celestial | προσεύχ- | En LXX equivale aprox. a **(לְהִתְפַּלֵּל)** lehitpallel; no equivale a «hablar con Dios» en castellano |
-| **(לְהִתְפַּלֵּל)** | lehitpallel | presentarse en juicio, confesar justicia del cielo y pecado | פלל | Para el pueblo: confesar Torah, justicia celestial y pecado; Yeshúa, sin pecado, confiesa el Nombre |
-| **(εὐλογέω)** | eulogeo | confesar/proclamar a Elohim como fuente de provisión | εὐλογ- | Equivale aprox. a **(לְבָרֵךְ)** levarej; no dice «a Dios» sino «al cielo» (#markos_6_41) |
-| **(לְבָרֵךְ)** | levarej | expresar gratitud y confesar que Elohim provee | ברך | En hamotsi se confiesa que Elohim creó vid, pan, fruto, etc. |
-| **(εὐχαριστέω)** | eucharisteo | hacer partícipe de gracia divina | εὐχαριστ- | En #markos_14_23; trasfondo de someterse a gracia, no «dar gracias» a otro ser separado |
-| **(הִתְאַנֶּה)** | hit'aneh | someterse a gracia / favor divino | אנה | La clase cita Devarim 4 (mujer que se somete por Israel); referencia exacta pendiente |
-| **(ἐντυγχάνω)** | entynchano | procurar, gestionar diligencia a favor de otros | ἐντυγχ- | En #iojanan_17_9,15,20: no «rogar» como súplica humana, sino gestionar promesas |
-| **(דָּרַשׁ)** | darash | buscar, solicitar rostro | דרש | En #tehilim_105_4; distinto de «procurar» |
-| **(לְבַקֵּשׁ)** | levakesh | buscar algo extraviado | בקש | Contraste pedagógico con gestionar lo ya prometido |
-| **(אֱלֹהִים)** | Elohim | amor entrañable manifiesto, corte, jueces según contexto | אלהים | No equivale automáticamente a «Dios» castellano ni a θεός griego clásico |
-| **(מַלְאָךְ)** | malaj | mensajero, representante de oficina celestial | מלאך | En #zejariah_3_1: malaj de יהוה; no identificar automáticamente a Yeshúa con «el ángel de יהוה» |
-| **(אַבָּא)** | Abba | en #iojanan_11_41 aparece en confesión hacia el cielo | אבא | La clase lee la escena como confesión ante tribunal, no diálogo con otro ser |
+| Término             | Transliteración | Sentido en la clase                                         | Raíz o base | Observación                                                                                             |
+| ------------------- | --------------- | ----------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
+| **(προσεύχομαι)**   | proseuchomai    | presentarse, someterse al tribunal celestial                | προσεύχ-    | En LXX equivale aprox. a **(לְהִתְפַּלֵּל)** lehitpallel; no equivale a «hablar con Dios» en castellano |
+| **(לְהִתְפַּלֵּל)** | lehitpallel     | presentarse en juicio, confesar justicia del cielo y pecado | פלל         | Para el pueblo: confesar Torah, justicia celestial y pecado; Yeshúa, sin pecado, confiesa el Nombre     |
+| **(εὐλογέω)**       | eulogeo         | confesar/proclamar a Elohim como fuente de provisión        | εὐλογ-      | Equivale aprox. a **(לְבָרֵךְ)** levarej; no dice «a Dios» sino «al cielo» (#markos_6_41)               |
+| **(לְבָרֵךְ)**      | levarej         | expresar gratitud y confesar que Elohim provee              | ברך         | En hamotsi se confiesa que Elohim creó vid, pan, fruto, etc.                                            |
+| **(εὐχαριστέω)**    | eucharisteo     | hacer partícipe de gracia divina                            | εὐχαριστ-   | En #markos_14_23; trasfondo de someterse a gracia, no «dar gracias» a otro ser separado                 |
+| **(הִתְאַנֶּה)**    | hit'aneh        | someterse a gracia / favor divino                           | אנה         | La clase cita Devarim 4 (mujer que se somete por Israel); referencia exacta pendiente                   |
+| **(ἐντυγχάνω)**     | entynchano      | procurar, gestionar diligencia a favor de otros             | ἐντυγχ-     | En #iojanan_17_9,15,20: no «rogar» como súplica humana, sino gestionar promesas                         |
+| **(דָּרַשׁ)**       | darash          | buscar, solicitar rostro                                    | דרש         | En #tehilim_105_4; distinto de «procurar»                                                               |
+| **(לְבַקֵּשׁ)**     | levakesh        | buscar algo extraviado                                      | בקש         | Contraste pedagógico con gestionar lo ya prometido                                                      |
+| **(אֱלֹהִים)**      | Elohim          | amor entrañable manifiesto, corte, jueces según contexto    | אלהים       | No equivale automáticamente a «Dios» castellano ni a θεός griego clásico                                |
+| **(מַלְאָךְ)**      | malaj           | mensajero, representante de oficina celestial               | מלאך        | En #zejariah_3_1: malaj de יהוה; no identificar automáticamente a Yeshúa con «el ángel de יהוה»         |
+| **(אַבָּא)**        | Abba            | en #iojanan_11_41 aparece en confesión hacia el cielo       | אבא         | La clase lee la escena como confesión ante tribunal, no diálogo con otro ser                            |
 
 ## Hoja de comparación
 
 ### Marcos y el primer uso de «orar»
 
-| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
+| Referencia   | Hebreo (Delitzsch, sin nikud)                       | TTH (ES)                                                | Función en la clase                                                                                                                                 |
+| ------------ | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | #markos_1_35 | וישכם בבקר בעוד נשף ויצא וילך אלמקום חרבה ויתפלל שם | Y madrugó... y fue a un lugar del desierto, y allí oró. | Primer texto del evangelio más antiguo; `proseuchomai` / `lehitpallel` = presentarse al tribunal celestial, no «hablar con Dios» en sentido moderno |
 
 ### Confesar provisión y gracia
 
-| Referencia | Hebreo (Delitzsch) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #markos_6_41 | ויקח... וישא עיניו השמימה ויברך | tomó los panes... miró arriba a los cielos y bendijo | `eulogeo` / levarej: confiesa al cielo, no «a Dios» o «al Padre» como otro ser |
-| #markos_14_23 | ויקח אתהכוס ויברך | tomó la copa y bendijo | `eucharisteo`: hacer partícipe de gracia a los que beben |
+| Referencia    | Hebreo (Delitzsch)              | TTH (ES)                                             | Función en la clase                                                            |
+| ------------- | ------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------ |
+| #markos_6_41  | ויקח... וישא עיניו השמימה ויברך | tomó los panes... miró arriba a los cielos y bendijo | `eulogeo` / levarej: confiesa al cielo, no «a Dios» o «al Padre» como otro ser |
+| #markos_14_23 | ויקח אתהכוס ויברך               | tomó la copa y bendijo                               | `eucharisteo`: hacer partícipe de gracia a los que beben                       |
 
 ### Yojanán 16-17: de dónde salió y a quién gestiona
 
-| Referencia | Hebreo (Delitzsch) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #iojanan_16_29 | ויאמרו תלמידיו הנך מדבר עתה במלים בררות | He aquí, ahora eres claro al hablar | Los discípulos reconocen claridad |
-| #iojanan_16_30 | ...בזאת נאמין כי מאת אלהים יצאת | ...nos afirmamos en que saliste de Elohim | Dicen «Elohim», no «Dios» genérico; distancia semántica importante |
-| #iojanan_17_9 | ואני בעדם מפגיע... כי אםבעד אלה אשר נתתה לי | Yo pido acerca de ellos; no pido acerca del olam | `entygchano`: gestiona por los dados; no súplica a otro ser |
-| #iojanan_17_15 | ...אינני מפגיע בעדם כי תקחם מןהעולם | No pido que los quites del olam | Procura preservación, no «oración» devocional |
-| #iojanan_17_20 | ...גםבעד אלה אשר יאמינו בי עלפי דברם | también acerca de los que se afirmarán en Mí | Incluye a quienes creerán por la palabra de los discípulos |
+| Referencia     | Hebreo (Delitzsch)                          | TTH (ES)                                         | Función en la clase                                                |
+| -------------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
+| #iojanan_16_29 | ויאמרו תלמידיו הנך מדבר עתה במלים בררות     | He aquí, ahora eres claro al hablar              | Los discípulos reconocen claridad                                  |
+| #iojanan_16_30 | ...בזאת נאמין כי מאת אלהים יצאת             | ...nos afirmamos en que saliste de Elohim        | Dicen «Elohim», no «Dios» genérico; distancia semántica importante |
+| #iojanan_17_9  | ואני בעדם מפגיע... כי אםבעד אלה אשר נתתה לי | Yo pido acerca de ellos; no pido acerca del olam | `entygchano`: gestiona por los dados; no súplica a otro ser        |
+| #iojanan_17_15 | ...אינני מפגיע בעדם כי תקחם מןהעולם         | No pido que los quites del olam                  | Procura preservación, no «oración» devocional                      |
+| #iojanan_17_20 | ...גםבעד אלה אשר יאמינו בי עלפי דברם        | también acerca de los que se afirmarán en Mí     | Incluye a quienes creerán por la palabra de los discípulos         |
 
 ### Tribunal celestial en el Tanaj
 
-| Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #zejariah_3_1 | ויראני את יהושע הכהן הגדול עמד לפני מלאך יהוה | Yehoshúa el gran sacerdote parado delante del ángel de יהוה | Protocolo de corte celestial; Yeshúa no es el malaj ante quien se presenta otro Yeshúa |
-| #zejariah_3_2 | ויאמר יהוה אל השטן יגער יהוה בך השטן | יהוה reprende a Ha'satán | Mensajero de la oficina judicial; יהוה como atributo de juicio |
-| #tehilim_110_1 | נאם יהוה לאדני שב לימיני | Declaración de יהוה a mi Amo: Siéntate a mi diestra | Edicto de la corte celestial, no dos personas rivales |
-| #daniel_7_9 | ...עתיק יומין יתב לבושה כתלג חור ושער ראשה כעמר נקא | — (sin TTH local) | Atik Yomin: metalenguaje de majestad, no anciano literal separado del Hijo |
-| #daniel_7_13 | ...כבר אנש... ועד עתיק יומיא מטה וקדמוהי הקרבוהי | — (sin TTH local) | Bar Enash se acerca; la corte celestial lo presenta |
+| Referencia     | Hebreo (OE, sin nikud)                              | TTH (ES)                                                    | Función en la clase                                                                    |
+| -------------- | --------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| #zejariah_3_1  | ויראני את יהושע הכהן הגדול עמד לפני מלאך יהוה       | Yehoshúa el gran sacerdote parado delante del ángel de יהוה | Protocolo de corte celestial; Yeshúa no es el malaj ante quien se presenta otro Yeshúa |
+| #zejariah_3_2  | ויאמר יהוה אל השטן יגער יהוה בך השטן                | יהוה reprende a Ha'satán                                    | Mensajero de la oficina judicial; יהוה como atributo de juicio                         |
+| #tehilim_110_1 | נאם יהוה לאדני שב לימיני                            | Declaración de יהוה a mi Amo: Siéntate a mi diestra         | Edicto de la corte celestial, no dos personas rivales                                  |
+| #daniel_7_9    | ...עתיק יומין יתב לבושה כתלג חור ושער ראשה כעמר נקא | — (sin TTH local)                                           | Atik Yomin: metalenguaje de majestad, no anciano literal separado del Hijo             |
+| #daniel_7_13   | ...כבר אנש... ועד עתיק יומיא מטה וקדמוהי הקרבוהי    | — (sin TTH local)                                           | Bar Enash se acerca; la corte celestial lo presenta                                    |
 
 ### Siervo disminuido, gloria y trono
 
-| Referencia | Hebreo | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #tehilim_8_5 | — (OE #tehilim_8_5 = otro contenido) | ¡Lo disminuirás un poco menos que los Elohim! | `mach achat`: disminuido, no «un poco menor que ángeles»; base de la condición de siervo |
-| #ivrim_1_3 | ...וישב לימין הגדלה במרומים (Delitzsch) | Pendiente en TTH local | Después de purificar pecados, se sienta a la diestra de la majestad |
-| #markos_9_2 | וישתנה לעיניהם (Delitzsch) | se transformó delante de ellos | Metamorfosis conectada con Atik Yomin |
-| #markos_9_3 | ויזהירו בגדיו... כשלג | vestiduras resplandecientes como nieve | Paralelo con #daniel_7_9: vestidura blanca, trono de fuego |
-| #iojanan_13_16 | אין העבד גדול מאדניו | El siervo no es más grande que su amo | En condición de siervo no puede recibir más honra que la palabra que ejecuta |
-| #iojanan_6_15 | ...חלץ מהם... אלההר לבדו | volvió solo al monte | Rechaza reinado humano; no recibe gloria de hombres |
+| Referencia     | Hebreo                                  | TTH (ES)                                      | Función en la clase                                                                      |
+| -------------- | --------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| #tehilim_8_5   | — (OE #tehilim_8_5 = otro contenido)    | ¡Lo disminuirás un poco menos que los Elohim! | `mach achat`: disminuido, no «un poco menor que ángeles»; base de la condición de siervo |
+| #ivrim_1_3     | ...וישב לימין הגדלה במרומים (Delitzsch) | Pendiente en TTH local                        | Después de purificar pecados, se sienta a la diestra de la majestad                      |
+| #markos_9_2    | וישתנה לעיניהם (Delitzsch)              | se transformó delante de ellos                | Metamorfosis conectada con Atik Yomin                                                    |
+| #markos_9_3    | ויזהירו בגדיו... כשלג                   | vestiduras resplandecientes como nieve        | Paralelo con #daniel_7_9: vestidura blanca, trono de fuego                               |
+| #iojanan_13_16 | אין העבד גדול מאדניו                    | El siervo no es más grande que su amo         | En condición de siervo no puede recibir más honra que la palabra que ejecuta             |
+| #iojanan_6_15  | ...חלץ מהם... אלההר לבדו                | volvió solo al monte                          | Rechaza reinado humano; no recibe gloria de hombres                                      |
 
 ### Aplicación en Yojanán 11
 
-| Referencia | Hebreo (Delitzsch) | TTH (ES) | Función en la clase |
-| --- | --- | --- | --- |
-| #iojanan_11_4 | ...לכבוד האלהים למען יכבדבה בןהאלהים | para honra de Elohim, y para que sea honrado el Hijo de Elohim | La gloria es de la palabra ejecutada, no tomada por el siervo |
-| #iojanan_11_40 | — | si te afirmas, verás la honra de Elohim | Honra = `kabod`, peso demostrado |
-| #iojanan_11_41 | וישוע נשא אתעיניו למרום ויאמר אודך אבי כי עניתני | alzó sus ojos... Padre mío, te confieso | `eucharisteo`/confesión de gracia ante el cielo; «para que crean que tú me has enviado» |
-| #iojanan_11_51 | ...בהיותו כהן גדול בשנה ההיא נבא בפיו | siendo el gran sacerdote en aquel año, profetizó | La profecía de Caifás por el cargo, no por persona |
-| #iojanan_11_54 | ...נטה... אלעיר אפרים | fue a Efráim | Se retira de manifestación pública entre los yehudim |
-| #iojanan_11_55 | — | Pesaj de los yehudim estaba cerca | Pesaj de יהוה, no «pascua de los judíos» en sentido étnico reducido |
+| Referencia     | Hebreo (Delitzsch)                               | TTH (ES)                                                       | Función en la clase                                                                     |
+| -------------- | ------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| #iojanan_11_4  | ...לכבוד האלהים למען יכבדבה בןהאלהים             | para honra de Elohim, y para que sea honrado el Hijo de Elohim | La gloria es de la palabra ejecutada, no tomada por el siervo                           |
+| #iojanan_11_40 | —                                                | si te afirmas, verás la honra de Elohim                        | Honra = `kabod`, peso demostrado                                                        |
+| #iojanan_11_41 | וישוע נשא אתעיניו למרום ויאמר אודך אבי כי עניתני | alzó sus ojos... Padre mío, te confieso                        | `eucharisteo`/confesión de gracia ante el cielo; «para que crean que tú me has enviado» |
+| #iojanan_11_51 | ...בהיותו כהן גדול בשנה ההיא נבא בפיו            | siendo el gran sacerdote en aquel año, profetizó               | La profecía de Caifás por el cargo, no por persona                                      |
+| #iojanan_11_54 | ...נטה... אלעיר אפרים                            | fue a Efráim                                                   | Se retira de manifestación pública entre los yehudim                                    |
+| #iojanan_11_55 | —                                                | Pesaj de los yehudim estaba cerca                              | Pesaj de יהוה, no «pascua de los judíos» en sentido étnico reducido                     |
 
 ## Primera palabra: proseuchomai y lehitpallel
 
@@ -242,15 +242,26 @@ Antes de llamar a Eleazar, Yeshúa alza los ojos y confiesa. La clase insiste:
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Hatch-Redpath | Concordance GNT–LXX–Hebrew | Equivalencia `proseuchomai` / `lehitpallel` | Pendiente de verificar en fuente primaria |
-| Septuaginta | Uso de προσεύχομαι | Metodología de reconstrucción semítica | Mención indirecta en la clase |
-| Talmud / liturgia | Tefillah, confesión de justicia y pecado | Marco de `lehitpallel` | Pendiente de verificar |
-| Zekharyah (siriaco) | #zejariah_3_2 | Variante mencionada en la clase | Pendiente de verificar |
-| Josefo | Antigüedades — sumos sacerdotes en tiempo de Herodes | Contexto de Caifás «aquel año» | Pendiente de verificar |
-| Comentarios | Atik Yomin en Daniel 7 | Lectura no literal del «anciano de días» | Pendiente de verificar |
-| Ivrim 12 | Tribunal celestial | Yeshúa como juez | Mención indirecta en la clase |
+| Fuente              | Referencia                                           | Uso en la nota                              | Estado                                    |
+| ------------------- | ---------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
+| Hatch-Redpath       | Concordance GNT–LXX–Hebrew                           | Equivalencia `proseuchomai` / `lehitpallel` | Pendiente de verificar en fuente primaria |
+| Septuaginta         | Uso de προσεύχομαι                                   | Metodología de reconstrucción semítica      | Mención indirecta en la clase             |
+| Talmud / liturgia   | Tefillah, confesión de justicia y pecado             | Marco de `lehitpallel`                      | Pendiente de verificar                    |
+| Zekharyah (siriaco) | #zejariah_3_2                                        | Variante mencionada en la clase             | Pendiente de verificar                    |
+| Josefo              | Antigüedades — sumos sacerdotes en tiempo de Herodes | Contexto de Caifás «aquel año»              | Pendiente de verificar                    |
+| Comentarios         | Atik Yomin en Daniel 7                               | Lectura no literal del «anciano de días»    | Pendiente de verificar                    |
+| Ivrim 12            | Tribunal celestial                                   | Yeshúa como juez                            | Mención indirecta en la clase             |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual                                  | Observación concreta de Eric                                                                                                                                                                                | Prueba y evaluación local                                                                                                                                                                                                                                            |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #markos_1_35                                    | «Orar» traduce _proseuchomai_ en una escena que Eric relaciona con _lehitpallel_: presentarse ante el tribunal celestial y confesar la justicia del cielo, no reducir la acción a una conversación privada. | Marcos afirma que Yeshúa madrugó, salió a un lugar desierto y allí oró; la equivalencia griego-hebreo y el protocolo judicial son aproximados y requieren cotejo de la LXX.                                                                                          |
+| #markos_6_41 y #markos_14_23                    | Eric distingue _eulogeo_ y _eucharisteo_: alzar los ojos y bendecir confiesa la provisión, mientras dar gracias hace partícipes de la gracia; no son dos fórmulas indistintas de «hablar con Dios».         | Los relatos narran que Yeshúa toma pan o copa, mira al cielo, bendice y da gracias; la extensión semítica a _levarej_ y la explicación de gracia son funcionales y pedagógicas.                                                                                      |
+| #iojanan_11_4, #iojanan_11_40-41                | La confesión ante el cielo precede a la salida de Eleazar: Yeshúa no busca gloria propia, sino que declara haber sido oído para que la multitud crea que fue enviado.                                       | La enfermedad es para la honra de Elohim y del Hijo; Yeshúa alza los ojos, dice «Padre mío, te confieso porque me oíste» y ordena a Eleazar salir. El texto prueba la finalidad testimonial, sin decidir por sí solo toda la teoría del tribunal.                    |
+| #iojanan_11_47-57                               | Eric conecta el concilio, la profecía de Caifás por su cargo y el retiro a Efráim con un Mesías que no toma el reinado por gloria humana y cuya hora se aproxima en Pesaj.                                  | El concilio teme perder lugar y nación, Caifás profetiza como gran sacerdote, Yeshúa se retira y el Pesaj de los yehudim se acerca. La lectura sobre motivación política y cronología histórica queda cualificada.                                                   |
+| #iojanan_17_9, #iojanan_17_15, #iojanan_17_20   | Eric entiende _entygchano_ como gestionar o procurar en favor de los que el Padre dio, incluidos los que creerán por la palabra de los discípulos, más que como súplica genérica.                           | Yeshúa dice explícitamente «Yo pido acerca de ellos», «no pido que los quites del olam» y «también acerca de los que se afirmarán en Mí». El alcance léxico de _entygchano_ y su relación con promesas abrahámicas son aproximados.                                  |
+| #zejariah_3_1-2, #tehilim_110_1, #daniel_7_9-13 | La clase usa la corte celestial para interpretar presentación, edicto, diestra y gloria: el Bar Enash recibe autoridad sin convertir las figuras en dos dioses rivales.                                     | Zekharyah muestra al gran sacerdote ante el malaj y al adversario reprendido; Tehilim habla de sentarse a la diestra y Daniel presenta al Bar Enash ante el Atik Yomin. Son conexiones canónicas e interpretativas, no una descripción literal única de cada escena. |
 
 ## Conexiones principales
 
