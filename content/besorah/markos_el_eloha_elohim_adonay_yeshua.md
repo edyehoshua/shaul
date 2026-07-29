@@ -188,6 +188,12 @@ Su conclusión se concentra en la confesión de #romanim_10_9: יהוה Yeshúa.
 | Romanim 10:9            | «יהוה Yeshúa» expresa la confesión de salvación y no la subordinación a un dios menor.                | TTH sostiene esa formulación; Delitzsch conserva «Yeshúa es el Adón», por lo que la conclusión debe mantener ambos testigos.                   |
 | Resurrección            | La muerte no puede retener al Mesías y su entrega es voluntaria.                                      | Hechos 2:24 y Yojanán 10:17-18 apoyan la secuencia; la formulación metafísica sobre naturaleza divina queda como síntesis teológica atribuida. |
 
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Evangelio según Marcos, parte 10: El, Eloha y Elohim](https://www.youtube.com/watch?v=wR0WA_TLcCc) (`source_id`: `youtube:wR0WA_TLcCc`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+
 ## Ver también
 
 - [[../temas/bat_kol_propiciatorio_elohim_encargo|La voz del cielo y el encargo de Elohim]]

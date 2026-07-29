@@ -2,7 +2,7 @@
   "inventory_videos": 958,
   "covered_videos": 925,
   "pending_videos": 33,
-  "transcript_notes": 475,
+  "transcript_notes": 477,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -264,6 +264,11 @@
     "Tehilim/Himnos/Salmos: Salmo 21 pendiente sin asignar": {
       "total": 1,
       "covered": 1,
+      "lane": "yojanan"
+    },
+    "Tehilim/Himnos/Salmos: cuatro exposiciones restantes elegibles": {
+      "total": 4,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
