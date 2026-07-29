@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 906,
-  "pending_videos": 52,
-  "transcript_notes": 461,
+  "covered_videos": 908,
+  "pending_videos": 50,
+  "transcript_notes": 463,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -58,7 +58,7 @@
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 15,
+      "covered": 17,
       "lane": "colosenses"
     },
     "Gálatas": {
@@ -128,7 +128,7 @@
     },
     "Janukáh: estudios temáticos pendientes sin asignar": {
       "total": 3,
-      "covered": 0,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Juan": {
