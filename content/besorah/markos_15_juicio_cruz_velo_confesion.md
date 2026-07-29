@@ -62,6 +62,13 @@ Esta nota sigue la parte 44 del estudio de Marcos del **hermano Eric de Jesús R
 | #markos_15_40-47       | TTH: mujeres miran; Iosef pide el cuerpo antes del Shabat; lo envuelve y lo pone en el sepulcro.                                     | El cuidado del cuerpo y el testimonio femenino preparan el capítulo 16. |
 | #ieshaiahu_53_12       | TTH: «con los transgresores fue contado».                                                                                            | Eco de #markos_15_28.                                                   |
 
+### Citas locales para los argumentos críticos
+
+- **#markos_15_2:** «¿Tú eres el Rey de los yehudim? [...] Tú lo has dicho.» La forma breve de la respuesta deja que el título gobierne la escena sin convertirla en un discurso político de Pilato.
+- **#markos_15_26:** «Este es el Rey de los yehudim.» El letrero confirma que la realeza permanece visible incluso en la ejecución.
+- **#markos_15_34:** «¡Elí, Elí!, ¿lama azavtani?» El texto local conserva el clamor en su forma semítica; su interpretación debe cotejarse con Tehilim 22 completo.
+- **#markos_15_38-39:** «Y la cortina del Hejal se rasgó en dos, de arriba abajo [...] En verdad este hombre era Hijo de Elohim.» El orden local coloca el signo del santuario antes de la confesión del centurión.
+
 ## Hoja léxica
 
 | Forma                 | Transliteración | Sentido normal                                         | Fuerza contextual                                                                                 | Equivalencia                                                                   |

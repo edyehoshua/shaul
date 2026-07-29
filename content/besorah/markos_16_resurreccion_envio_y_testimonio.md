@@ -69,6 +69,13 @@ El video de Eric pone el domingo en el título, pero Marcos 16:20 pone el peso f
 | #markos_16_15-18 | «Vayan a todo el olam y proclamen la Besorah a toda la creación».                                         | La comisión se centra en proclamar, creer y responder; las señales no sustituyen la palabra.  |
 | #markos_16_19-20 | Yehoshua es recibido en los cielos; los discípulos anuncian y יהוה los fortalece.                         | El cierre vincula exaltación, misión y confirmación del anuncio.                              |
 
+### Citas locales para los argumentos críticos
+
+- **#markos_16_1-2:** «Y cuando pasó el Shabat [...] en el primer día de la semana [...] vinieron al sepulcro». El texto fija una secuencia temporal; no llama al primer día «día del Señor».
+- **#markos_16_6-7:** «Él se levantó, y no está aquí [...] Él va delante de ustedes a Galil». La resurrección y la iniciativa del resucitado son el centro del anuncio.
+- **#markos_16_15-16:** «Vayan a todo el olam y proclamen la Besorah a toda la creación. El que crea y sea sumergido será salvo». La comisión se formula como proclamación y respuesta.
+- **#markos_16_19-20:** «Fue recibido en los cielos y se sentó a la diestra de Elohim [...] ellos salieron y anunciaron la buena noticia por toda la tierra». El cierre desplaza el énfasis del calendario a la palabra anunciada y fortalecida.
+
 ## Léxico clave
 
 | Forma                  | Transliteración    | Sentido normal y contextual                                                                                   | Equivalencia                                                                                                                                                                                       |
