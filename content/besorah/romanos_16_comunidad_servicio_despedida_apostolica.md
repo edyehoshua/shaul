@@ -33,7 +33,7 @@ Romanos 16 cierra la carta sin reducir la verdad apostólica a una abstracción:
 
 ## Alcance de la nota
 
-Esta es la nota canónica de Romanos 16 y organiza la sesión final de la serie del hermano Eric de Jesús Rodríguez Mendoza. El título público de la clase anuncia un examen del papel de la mujer y de asuntos congregacionales; por ello su observación material inicial es que los nombres y funciones del capítulo no son un apéndice prescindible, sino parte de la conversación sobre la vida de la comunidad. Sin una transcripción disponible para atribuir formulaciones más detalladas, esta nota no le adjudica conclusiones no verificables: contrasta ese énfasis anunciado con el texto local y distingue las preguntas que quedan abiertas.
+Esta es la nota canónica de Romanos 16 y organiza la sesión final de la serie del hermano Eric de Jesús Rodríguez Mendoza. El título público de la clase anuncia un examen del papel de la mujer y de asuntos congregacionales; la exposición comienza además recordando que los saludos y la despedida no deben tratarse como material secundario. La atribución conserva esas observaciones localizadas en prosa, no como citas literales, y contrasta sus conclusiones con el texto local, distinguiendo los datos explícitos de las aplicaciones doctrinales que requieren otros pasajes.
 
 ## Hoja de comparación
 
@@ -87,11 +87,14 @@ La doxología de #romanos_16_25-26 devuelve esa red a su fuente. Elohim puede af
 
 ## Mapa de la enseñanza de Eric
 
-La sesión pública de `youtube:hXBq_VelTJc` se anuncia como una exposición final sobre el papel de la mujer y otros aspectos congregacionales. Como el transcript no está disponible en el inventario local, las siguientes entradas conservan solo lo que el título permite atribuir y evalúan ese foco frente a Romanos 16. Así se preserva la atribución sin convertir el título en una transcripción ni en una conclusión doctrinal completa:
+La sesión pública `youtube:hXBq_VelTJc` trata el papel de la mujer y otros aspectos congregacionales. Aproximadamente entre 00:00:13 y 00:00:47, Eric presenta el estudio verso a verso como una plantilla para estudiantes posteriores y dice que ni siquiera los saludos finales deben pasarse por alto. Esa observación recibe **apoyo textual directo**: Romanos 16 nombra servidores, colaboradores, anfitriones y al escribiente; no es un apéndice sin función.
 
-- **Romanos 16:1-2:** el título dirige la atención al papel de una mujer en la comunidad; el pasaje ofrece datos concretos sobre Febe, su recepción y su ayuda a muchos. La nota apoya ese punto, pero no convierte un título en una definición completa de oficio.
-- **Romanos 16:3-16:** el foco congregacional anunciado se contrasta con la red de colaboradores, casas, trabajos y saludos que el capítulo registra. La aplicación comunitaria está apoyada por el texto; las funciones no explicitadas quedan calificadas.
-- **Romanos 16:17-27:** la vida congregacional se evalúa junto con el discernimiento ante divisiones, la hospitalidad y la obediencia de la emunah. El texto sostiene esas conexiones; no se atribuye a Eric una formulación doctrinal que la fuente pública no permite verificar.
+- **Romanos 16:1-2; `youtube:hXBq_VelTJc`:** Eric identifica a Febe como mujer que sirve a la comunidad y distingue el don o servicio de una autoridad automática sobre otros. El texto confirma que es **(διάκονος)**, _diakonos_, y **(προστάτις)**, _prostatis_; la regla general sobre autoridad es **inferencial y cualificada**, no una definición de esas formas.
+- **Romanos 16:3-16; `youtube:hXBq_VelTJc`:** Eric insiste, aproximadamente entre 00:08:51 y 00:10:29, en que una comunidad debe formar colaboradores para no quedar vacía si falta su maestro. La lista de saludos apoya **textualmente** una red de trabajo y hospitalidad; el programa moderno de capacitación es **aplicación pastoral**.
+- **Romanos 16:17-20; `youtube:hXBq_VelTJc`:** Eric vincula la recepción de quienes sirven con la necesidad de examinar la enseñanza y apartarse de la división. **(σκοπέω)**, _skopeō_, significa observar o vigilar; en 16:17 su fuerza es examinar enseñanza y conducta, no sospechar de todo desacuerdo. La conexión recibe **apoyo cualificado**.
+- **Romanos 16:25-27; `youtube:hXBq_VelTJc`:** Eric presenta la despedida como una base de estudio que debe producir continuidad y obediencia, no dependencia de una sola persona. **(ὑπακοὴ πίστεως)**, _hypakoē pisteōs_, significa obediencia de fe o fidelidad; su relación con **(אמונה)**, _emunah_, es **aproximada y pedagógica**, no una equivalencia exacta.
+
+La transcripción permite atribuir también afirmaciones más específicas: entre 00:01:05 y 00:03:37 Eric llama a Febe «diácono/servidora», distingue don y autoridad, y usa a Débora como ejemplo de profetisa y jueza que convoca a Barac sin asumir su función militar. Entre 00:04:55 y 00:08:20 cuestiona que la esposa de un líder sea sucesora automática y relaciona la enseñanza entre mujeres con una cadena de formación. Romanos 16 sí respalda reconocer el servicio de Febe y de las colaboradoras; las restricciones generales sobre autoridad, la lectura de Débora y la sucesión congregacional son **inferencias doctrinales cualificadas** que deben probarse con el conjunto canónico, no atribuirse como si fueran el significado aislado de 16:1.
 
 ## Evaluación integrada: recibir, reconocer y discernir
 
