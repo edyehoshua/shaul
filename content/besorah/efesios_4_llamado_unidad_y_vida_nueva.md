@@ -196,6 +196,12 @@ Desde 4:17 el capítulo cambia de la imagen corporal a la conducta personal y co
 
 El cierre regula la aplicación sobre pasiones. **παροργισμός**, _parorgismos_, «provocación o irritación», y **τόπος**, _topos_, «lugar u ocasión», en 4:26-27 no ordenan negar todo enojo ni convertir a la persona herida en el adversario. **ἐσφραγίσθητε**, _esphragisthēte_, «fuisteis sellados», sitúa al Rúaj en la esperanza del día de la redención; **χαριζόμενοι**, _charizomenoi_, «perdonándoos o concediéndoos gracia», ordena bondad y compasión en 4:32. La equivalencia con **(סלח)**, _salaj_, «perdonar», es aproximada y no autoriza a exigir reconciliación sin verdad, seguridad y responsabilidad. La madurez que Eric relaciona con libertad se verifica en una comunidad que deja la mentira, edifica con sus palabras y perdona sin borrar el daño.
 
+## Descenso, ascenso y finalidad del don (4:7-13)
+
+La explicación de Eric sobre la plenitud del Mesías debe conservar el orden que Pablo da a la cita. En 4:9, **κατέβη**, _katebē_, «descendió», y en 4:10, **ἀναβάς**, _anabas_, «habiendo subido», forman el contraste que sostiene la interpretación del que «subió a lo alto». El pasaje no presenta la exaltación como una fuga de la creación: afirma primero el descenso y después el ascenso «sobre todos los cielos». La relación con **(ירד)**, _yarad_, «bajar», y **(עלה)**, _alah_, «subir», es una comparación semítica aproximada; Delitzsch ayuda a leer el campo verbal, pero no convierte la traducción hebrea en el original de Pablo.
+
+La finalidad se expresa con **ἵνα πληρώσῃ τὰ πάντα**, _hina plērōsē ta panta_, «para llenar todas las cosas». **πληρόω**, _plēroō_, significa «llenar, completar o llevar a plenitud»; aquí su sentido depende de la secuencia: el Mesías que desciende y asciende es quien da gracia y servicios para que el cuerpo crezca. La clase relaciona esta plenitud con **מלאים**, _miluim_, «llenuras o consagraciones», pero esa equivalencia es pedagógica, no lexicalmente automática. El texto prueba la tesis por la consecuencia inmediata: apóstoles, profetas, evangelistas, pastores y maestros equipan a los santos, y la comunidad llega junta a la madurez. La plenitud no legitima que un dirigente absorba todos los dones; se verifica en edificación compartida.
+
 ## Pendiente de verificar
 
 ## Verificación de dependencia: del llamado al cuerpo y del cuerpo a la conducta
