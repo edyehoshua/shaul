@@ -13,12 +13,13 @@ sources:
   - "https://www.youtube.com/watch?v=EHZDK_XPB1A"
   - "https://www.youtube.com/watch?v=eJlTuHME674"
   - "docs/scriptures/oe/json/numbers/8.json"
+  - "docs/scriptures/tth/json/bamidbar.json"
 source_ids:
   - "youtube:f0PQY7bXbJQ"
   - "youtube:OG2PPYieRhk"
   - "youtube:EHZDK_XPB1A"
   - "youtube:eJlTuHME674"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -56,6 +57,20 @@ La exposición pasa inmediatamente de la luz al servicio de los levitas. Eric in
 **(טהר)**, _taher_, significa estar limpio o ser puro; en el capítulo su fuerza es aptitud cultual después de un procedimiento ordenado. «Limpieza moral» sería una aplicación pedagógica y no una equivalencia exacta. **(קדש)**, _qadesh_, significa apartar o consagrar; aquí señala que los levitas son dados para un servicio específico, no que cada detalle de su persona se vuelva divino. **(נתן)**, _natan_, significa dar o entregar; su repetición en vv. 16-19 subraya que los levitas pertenecen al servicio de יהוה en lugar de los primogénitos. **(כפר)**, _kiper_, significa cubrir o hacer expiación; «borrar automáticamente toda culpa» es una equivalencia inexacta si se separa del rito y de su contexto.
 
 El texto ordena también que los levitas sean «mecidos» delante de יהוה y que hagan expiación por los hijos de Israel. Eric lee esto como una función de mediación y carga, pero la nota mantiene la diferencia entre la función levítica inmediata y la lectura mesiánica posterior. Bamidbar 8 termina fijando edades y tareas: el servicio no es una emoción espontánea ni una autoridad sin límites, sino una entrega comunitaria con preparación, sustitución y duración regulada.
+
+## La consagración tiene un propósito comunitario — vv. 8-19
+
+La secuencia no termina en la purificación individual. TTH traduce 8:9-11: «acercarás a los leviím delante de la Tienda del Mo’ed», reunirás a toda la congregación, los pondrás delante de יהוה y los hijos de Israel apoyarán sus manos sobre ellos; Aharón los mecerá «como ofrenda mecida» para que estén «para servir al trabajo de יהוה». La repetición de acercar, reunir, apoyar y mecer muestra que el servicio levítico queda reconocido por toda la comunidad. Eric insiste en que el servidor no se separa para una gloria personal: es apartado para cargar una tarea recibida.
+
+En 8:16-19 el texto explica la razón: «dados, dados me son ellos a Mí» y «he tomado a los leviím en lugar de todo primogénito». **(מועד)**, _moed_, significa tiempo señalado, cita o lugar de reunión; en **אהל מועד**, _ohel moed_, su fuerza contextual es la Tienda del Encuentro, el espacio que concentra reunión y servicio, no una fecha abstracta. **(משמרת)**, _mishmeret_, significa custodia, guardia o encargo; aunque el sustantivo no aparece en cada frase de este capítulo, expresa con precisión la responsabilidad regulada que Eric destaca. **(עבודה)**, _avodah_, significa trabajo, servicio o labor; aquí nombra el trabajo cultual de los levitas. «Ministerio» es una equivalencia pedagógica útil, pero más estrecha que el campo normal de _avodah_. **(צבא)**, _tsava_, significa ejército, servicio organizado o periodo de servicio; en 8:24-25 describe la edad y el turno del levita, por lo que «soldado» sería una equivalencia exacta solo en otros contextos, no aquí.
+
+La sustitución tampoco autoriza a borrar la memoria del éxodo. El propio capítulo recuerda que todo primogénito fue santificado cuando יהוה golpeó a los primogénitos de Mitzráim. **(נתן)**, _natan_, significa dar, poner o entregar; sus formas en 8:16 y 19 hacen visible que los levitas son entregados a יהוה y dados a Aharón y sus hijos para servir al pueblo. **(קדש)**, _qadesh_, significa apartar o consagrar; su fuerza aquí es una designación cultual concreta. «Volverse divino» sería una equivalencia inexacta: el texto habla de pertenencia y función, no de cambio de naturaleza.
+
+## Edades, relevo y responsabilidad — vv. 20-26
+
+Los hijos de Israel, Aharón y sus hijos hacen conforme a lo mandado, y los levitas se purifican, lavan sus vestiduras y Aharón los mece delante de יהוה. Después el capítulo delimita el comienzo del trabajo y su relevo: desde los veinticinco años entran a la organización del servicio, y a los cincuenta regresan de la labor pesada para asistir a sus hermanos en la Tienda del Encuentro. El número no debe armonizarse apresuradamente con otras listas ni usarse para construir una regla moderna sin contexto; aquí sirve para mostrar que la vocación tiene preparación, etapa y límite.
+
+**(שרת)**, _sharet_, significa servir o ministrar; en 8:26 su fuerza contextual es asistir a los hermanos y guardar una responsabilidad en la Tienda, no ejercer dominio. **(עבד)**, _avad_, significa trabajar o servir; cuando la nota distingue «trabajo pesado» de asistencia, sigue la diferencia funcional del pasaje y no inventa dos castas espirituales. La clase aplica esta regulación a todo liderazgo: esa extensión es pedagógica, mientras que la afirmación exacta es que יהוה ordena el servicio de los levitas por edades y tareas. Así, la luz de los vv. 1-4 no queda flotando como símbolo aislado; conduce a un pueblo purificado, reconocido y responsable ante la presencia.
 
 ## Mapa de la enseñanza de Eric
 
