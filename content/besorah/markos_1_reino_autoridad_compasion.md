@@ -37,7 +37,7 @@ Marcos 1 presenta la buena noticia como la irrupción del reino de יהוה en l
 
 ## Alcance de la nota
 
-Esta nota ordena dos clases del **hermano Eric de Jesús Rodríguez Mendoza** dedicadas al cierre de Marcos 1. La clase propone leer «espíritu impuro» desde los campos semíticos de poder y de impedimento para la santidad, y distingue la expulsión del espíritu de la sanidad de una fiebre. También recalca la petición del leproso: «si quieres, puedes limpiarme». Se contrasta cada propuesta con el texto local; las explicaciones médicas, psicológicas o históricas que exceden el pasaje no se convierten aquí en afirmaciones del evangelio.
+Esta nota ordena dos clases del **hermano Eric de Jesús Rodríguez Mendoza** dedicadas a Marcos 1, desde el anuncio del reino hasta la limpieza del leproso. La clase propone leer «espíritu impuro» desde los campos semíticos de poder y de impedimento para la santidad, y distingue la expulsión del espíritu de la sanidad de una fiebre. También recalca la petición del leproso: «si quieres, puedes limpiarme». Se contrasta cada propuesta con el texto local; las explicaciones médicas, psicológicas o históricas que exceden el pasaje no se convierten aquí en afirmaciones del evangelio.
 
 ## Control de fuentes
 
@@ -105,9 +105,11 @@ El hombre divulga el hecho, con la consecuencia de que Yehoshua permanece fuera 
 
 ## Dependencias textuales: anuncio, autoridad y restauración
 
-La lectura no debe comenzar con la sanidad final como si fuera una escena aislada. **κηρύσσω**, _kērussō_, «proclamar públicamente», aparece cuando Yehoshua anuncia la buena noticia en Galil y cuando decide ir a otras ciudades (#markos*1_14, #markos_1_38-39). Su sentido contextual es el de un anuncio abierto; se aproxima a **(קרא)**, \_qara*, «llamar o proclamar», pero no prueba que Marcos esté retrovirtiendo un verbo hebreo. Esa proclamación explica por qué la autoridad de la sinagoga no es un fin en sí mismo: la enseñanza y la liberación sirven al anuncio del reino.
+<!-- prettier-ignore -->
+**κηρύσσω**, _kērussō_, «proclamar públicamente», aparece cuando Yehoshua anuncia la buena noticia en Galil y cuando decide ir a las ciudades vecinas (#markos_1_14, #markos_1_38–#markos_1_39). Su sentido contextual es el de un anuncio abierto; se aproxima a **(קרא)**, _qara_, «llamar o proclamar», pero no prueba que Marcos esté retrovirtiendo un verbo hebreo. Esa proclamación explica por qué la autoridad de la sinagoga no es un fin en sí mismo: la enseñanza y la liberación sirven al anuncio del reino.
 
-El relato vuelve a ordenar las acciones en 1:29–45. Primero la fiebre abandona a la suegra de Shimón; después se distinguen enfermos y personas con demonios; finalmente el leproso pide limpieza. **καθαρίζω**, _katharizō_, «limpiar o declarar limpio», nombra el resultado pedido por el leproso y el mandato de Yehoshua (#markos*1_40-42). Puede acercarse a **(טהר)**, \_taher*, «estar limpio o purificar», dentro del lenguaje de pureza, pero la correspondencia es aproximada: el texto de Marcos cuenta una restauración concreta y luego ordena la presentación al sacerdote. Así, la observación de Eric sobre no mezclar enfermedad, espíritu impuro y lepra queda probada por el vocabulario y por la secuencia narrativa, no por una teoría general sobre todas las dolencias.
+<!-- prettier-ignore -->
+**καθαρίζω**, _katharizō_, «limpiar o declarar limpio», nombra el resultado pedido por el leproso y el mandato de Yehoshua (#markos_1_40–#markos_1_42). Puede acercarse a **(טהר)**, _taher_, «estar limpio o purificar», dentro del lenguaje de pureza, pero la correspondencia es aproximada: el texto de Marcos cuenta una restauración concreta y luego ordena la presentación al sacerdote. Así, la observación de Eric sobre no mezclar enfermedad, espíritu impuro y lepra queda probada por el vocabulario y por la secuencia narrativa.
 
 ## Prueba de lectura: autoridad que anuncia, distingue y restaura
 
