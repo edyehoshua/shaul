@@ -110,15 +110,6 @@
             "youtube:csFssLdcLsE"
           ],
           "reason": "Después de la cobertura, yojanan quedó con 10 fuentes elegibles pendientes (<40). Se asigna exclusivamente este grupo coherente de tres exposiciones restantes de su playlist propio Juan; ninguna está en progreso, en missing-transcripts ni tiene nota canónica de otra lane."
-        },
-        {
-          "title": "Tehilim/Himnos/Salmos: cuatro exposiciones restantes elegibles",
-          "source_ids": [
-            "youtube:hPwnpHmmPBg",
-            "youtube:JFt32TbSL68",
-            "youtube:JxLhysPXd_0"
-          ],
-          "reason": "Después de la cobertura, yojanan quedó por debajo del objetivo de 40 fuentes pendientes y estas cuatro fuentes elegibles de su playlist propio siguen sin asignar. Se reservan exclusivamente para yojanan; no aparecen en missing-transcripts, no están en progreso y no tienen nota canónica de otra lane."
         }
       ]
     },
@@ -259,22 +250,6 @@
             "youtube:3lVCw8AOye4"
           ],
           "reason": "Después de la cobertura, colosenses quedó con 23 fuentes elegibles pendientes (<40). Se asigna exclusivamente este bloque coherente restante del playlist propio Las 613 mitzvot 2a parte, para llevar la lane a 53 pendientes; no incluye fuentes en progreso, missing-transcripts, no expositivas ni notas canónicas de otra lane."
-        },
-        {
-          "title": "Janukáh: estudios temáticos pendientes sin asignar",
-          "source_ids": [
-            "youtube:qzr_u89uzUk",
-            "youtube:NR4_pnOZA8Q",
-            "youtube:6xs3BWuATN4"
-          ],
-          "reason": "Tras la cobertura, colosenses quedó por debajo del objetivo de 40 fuentes pendientes. Este grupo coherente de tres estudios sobre Janukáh estaba sin asignar, no figura en missing-transcripts, no está en progreso y no tiene nota canónica de otra lane; se asigna exclusivamente a colosenses."
-        },
-        {
-          "title": "Purim: estudio temático independiente pendiente",
-          "source_ids": [
-            "youtube:lJpkAqUpOiM"
-          ],
-          "reason": "Después de la cobertura, colosenses permaneció por debajo del objetivo de 40 fuentes pendientes. Este estudio temático de Purim tiene transcripción local, no está en missing-transcripts ni en progreso y no tiene nota canónica de otra lane; se asigna exclusivamente a colosenses junto con su cola de fiestas y estudios temáticos."
         },
         {
           "title": "Las 613 mitzvot 2a parte: bloque final no asignado",
