@@ -140,6 +140,18 @@ La muerte de Aharón confirma el mismo límite. Sus vestiduras pasan a Eleazar, 
 
 ## Conexiones principales
 
+## La santidad recibida atraviesa muerte, sed y sucesión
+
+Bamidbar 19 comienza con **זאת חקת התורה**, _zot juqat haTorah_, «este es el estatuto de la Torah», y no con una explicación del mecanismo de las cenizas. **זאת**, _zot_, es un demostrativo femenino, «esta»; su fuerza contextual señala el procedimiento que sigue. **חקה**, _juqah_, significa estatuto o disposición fijada, y **תורה**, _Torah_, instrucción o enseñanza. «Código secreto» sería una equivalencia pedagógica inexacta: el capítulo hace pública una orden que regula quién toca, quién rocía, cuándo se lava y cuándo vuelve la persona al campamento.
+
+La secuencia de 19:17-20 distingue la mezcla, la aspersión y el resultado. **מים חיים**, _mayim jayim_, son literalmente «aguas vivas», normalmente agua corriente o fresca; «agua de vida eterna» sería una extensión canónica, no el sentido local. **הזה**, _hizah_, significa rociar o salpicar; la forma muestra una acción ritual ejecutada conforme a la instrucción, no una energía autónoma de la ceniza. El que queda impuro y no se purifica «contamina el Mishkán»; **חלל**, _jalal_, significa profanar o tratar como común. La observación de Eric sobre no trivializar la muerte queda apoyada por esta disciplina espacial y temporal: la muerte es real, la impureza tiene límites y la santidad del campamento también requiere cuidado.
+
+Cuando falta agua en Bamidbar 20, la audiencia vuelve a ser decisiva. יהוה manda que la peña dé sus aguas **לעיניהם**, _le'eneihem_, «ante sus ojos». **עין**, _ayin_, significa ojo o vista; aquí la expresión recalca que Israel debe presenciar quién provee. Mosheh pregunta **המן הסלע הזה נוציא לכם מים**, _hamin ha-sela hazeh notsi mayim_, «¿sacaremos agua de esta peña?». **נוצִיא**, _notsi_, procede de יצא, _yatsa_, sacar o hacer salir; su sujeto plural puede sonar como apropiación pública, aunque el versículo 12 fija el problema con más precisión: no afirmarse en יהוה y no santificarlo. La lectura de Eric sobre el mediador debe conservar ese límite: no todo matiz de la frase permite una acusación separada, pero el texto sí juzga la representación ante la congregación.
+
+La sentencia y la sucesión completan el argumento. **יען**, _ya'an_, «por cuanto», introduce la causa textual; **לא האמנתם**, _lo he'emantem_, procede de **אמן**, _aman_, ser firme, sostenerse o confiar. «No tuvieron fe» es una equivalencia aproximada; la fuerza contextual es que los mediadores no permanecieron firmes en la confianza que debían mostrar delante de Israel. En Hor, las vestiduras de Aharón pasan a Eleazar. **בגד**, _beged_, significa vestido o prenda; «unción transferida» sería una equivalencia pedagógica inexacta. El signo visible es continuidad del servicio bajo la palabra de יהוה, no transmisión mágica de la persona de Aharón.
+
+Así, la Roca del título no es una idea separada del capítulo. **סלע**, _sela‘_, significa peña o roca; en 20:8-11 es el objeto narrativo del que sale agua. La aplicación «Roca» como imagen de fidelidad divina es teológica y aproximada, pero queda gobernada por el orden local: el estatuto trata la muerte, la palabra ordena la provisión, la representación es juzgada y el sacerdocio continúa en Eleazar. Eric conserva correctamente la provisión y la prueba; el texto añade que la santidad del dador exige una forma obediente de servir.
+
 - Vaikra 17:11 — la vida y la sangre muestran que la purificación pertenece al orden cultual de יהוה.
 - Tehilim 95:7-11 — Meribah se recuerda como advertencia contra endurecer el corazón.
 - Devarim 32:4 — la Roca es completa en su acción y justa en todos sus caminos.

@@ -114,6 +114,18 @@ La conexión de Eric con Yesha'yahu 60:18-22 y con la discusión rabínica sobre
 
 ## Conexiones principales
 
+## La liturgia hace visible lo que la comunidad debe sostener
+
+La primera mitad del capítulo no separa entrada, culto y enseñanza. Después de ordenar que se escriban las palabras sobre las piedras, Moshé manda levantar un altar de piedras enteras y ofrecer **שלמים**, _shelamim_, «ofrendas de bienestar o integridad» (#devarim_27_5-7). La forma pertenece al campo de **שלם**, _shalem_, estar completo o entero; «ofrendas de paz» es una equivalencia tradicional y aproximada, mientras que la comida delante de יהוה muestra que la obediencia escrita desemboca en comunión celebrada. El altar no compite con la Torah escrita: la ceremonia mantiene juntas palabra, sacrificio y alegría.
+
+El v. 9 vuelve a nombrar la identidad: **הסכת ושמע**, _hasket ushema_, «haz silencio y escucha». **הסכת**, _hasket_, es una forma exhortativa de atender o prestar oído; «callar por miedo» sería una equivalencia inexacta, porque la finalidad es recibir la palabra. **נהיית**, _nihyeta_, procede de היה, _hayah_, «ser o llegar a ser», y aquí afirma que Israel ha llegado a ser pueblo de יהוה en relación con la escucha y la práctica del v. 10. Eric acierta al tratar el nombre como una identidad vivida, pero el texto no permite reducirla a una declaración verbal: **ושמעת** (_veshamata_, escucharás) y **ועשית** (_veasita_, harás) son inseparables.
+
+La distribución de Gerizim y Ebal hace pública esa responsabilidad antes de la lista de sanciones. **לברך**, _levarekh_, «para bendecir», y **על הקללה**, _al haqelalah_, «sobre la maldición», describen funciones litúrgicas de las tribus, no dos pueblos moralmente puros y corruptos. **קללה**, _qelalah_, significa maldición, menosprecio o condición degradada; aquí introduce declaraciones pactales que el pueblo debe reconocer con amén. La equivalencia «condena eterna» sería una ampliación teológica: Devarim 27 presenta una asamblea que ratifica la Torah dentro de la tierra, no una explicación exhaustiva de todo juicio final.
+
+En los vv. 15-26, la fórmula «en secreto» aparece junto con idolatría, abusos contra el vulnerable, violencia y soborno. **סתר**, _satar_, significa ocultar o esconder; su fuerza contextual es que la falta puede escapar a los ojos de la comunidad, pero no al juicio pactal. **גר**, _ger_, significa residente extranjero; **יתום**, _yatom_, huérfano; y **אלמנה**, _almanah_, viuda. Las formas nombran personas concretas con protección jurídica disminuida, no categorías abstractas de «los débiles». La observación de Eric sobre el nombre de יהוה recibe aquí su prueba más exigente: el amén no santifica una reputación, sino que reconoce una palabra que juzga la idolatría y la injusticia con el mismo peso.
+
+El último pronunciamiento vuelve al verbo **יקים**, _yaqim_: mantener en pie, establecer o sostener. La raíz **קום**, _qum_, significa levantarse o hacer permanecer; en 27:26 su fuerza contextual es poner la Torah en vigor mediante la práctica. «Cumplir una lista» es aproximado y demasiado estrecho. El capítulo comenzó con piedras que reciben escritura y termina con la comunidad que responde a las palabras que debe hacer. Esa inclusión confirma que la visibilidad del pacto no depende de una inscripción aislada: la palabra debe quedar de pie en la vida pública.
+
 - Yehoshua 8:30-35 narra la realización de la ceremonia de altar, escritura, bendición y maldición en los montes Gerizim y Ebal.
 - Devarim 6:4-9 relaciona escuchar, enseñar y escribir con la identidad del pueblo.
 - Devarim 28:1-2 continúa la condición de escuchar la voz de יהוה y muestra que el capítulo 27 prepara la sección de bendiciones y sanciones.
