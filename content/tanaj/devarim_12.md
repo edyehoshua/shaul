@@ -182,6 +182,14 @@ La evaluación de Eric queda así equilibrada. Su advertencia contra declarar re
 
 La mesa confirma el criterio. **(ואכלתם)**, _vajaltem_, procede de אכל, _ajal_, «comer»; en 12:7 y 12:18 designa una comida real delante de יהוה, acompañada de alegría y participación del leví. «Comunión espiritual» es una síntesis **pedagógica**, no una traducción de la forma. Por eso el descanso que Eric relaciona canónicamente con el Mesías debe conservar una señal textual verificable: recibe forma en el lugar escogido, la comida consagrada, la alegría de la casa y la inclusión del leví. La conexión posterior puede ampliar la lectura; no puede eliminar esos actos que el capítulo presenta como fruto del reposo.
 
+## La sangre no se come: vida recibida y altar regulado
+
+El capítulo no termina cuando Israel llega a la mesa. En #devarim_12_20-25, la ampliación del territorio permite comer carne según la bendición de יהוה, pero la sangre queda excluida: «solamente no comerás la sangre; sobre la tierra la derramarás como agua». **(דם)**, _dam_, significa sangre; en esta unidad designa la vida derramada del animal y el elemento que no se incorpora como alimento. «Energía espiritual» sería una equivalencia pedagógica ajena a la forma. El TTH relaciona esta prohibición con **(נפש)**, _nefesh_, ser viviente, vida o garganta según contexto: decir «la sangre es el alma» puede resumir una conexión tradicional, pero no agota el argumento legal de la perícopa.
+
+La orden **(שפך)**, _shafakh_, significa derramar o verter; aquí su fuerza contextual es disponer la sangre sobre la tierra, no consumirla en la casa. «Devolver la vida a Dios» es una interpretación teológica aproximada, mientras «derramar» es la equivalencia directa del verbo. La prohibición aparece junto a la autorización de comer carne «como se come la gacela y el ciervo», pero el permiso no convierte una comida doméstica en una nueva forma de altar. Eric acierta al insistir en que la libertad recibida no es autonomía cultual: incluso cuando se come en las puertas, la sangre sigue bajo el mandato de יהוה.
+
+Los vv. 26-28 reintroducen lo consagrado: votos, ofrendas elevadas y holocaustos deben llevarse al lugar elegido; allí se escucha y se guarda para que vaya bien a Israel. **(נדר)**, _nadar_, significa hacer un voto; en contexto nombra una promesa cultual que crea una obligación concreta. «Intención religiosa» es solo una paráfrasis aproximada: el texto pasa de la promesa a la presentación ordenada. Este movimiento confirma la tesis de Eric sobre promesa y procedimiento, con una precisión: la mesa permitida, la sangre derramada y la ofrenda votiva no son tres espiritualidades separadas, sino aplicaciones distintas de una misma autoridad que el capítulo atribuye a יהוה.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en léxicos hebreos trazables los rangos de **(קללה)** y **(אררה)** antes de usar su distinción fuera de estos pasajes.

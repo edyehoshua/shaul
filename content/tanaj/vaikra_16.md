@@ -164,6 +164,14 @@ La clase también une el rito con «Crea en mí, Elohim, un corazón puro» (#sa
 
 La relación con Pésaj tampoco borra las fechas. Eric presenta la sangre, el pan sin levadura y la copa como un puente hacia la obra de Yehoshua; esa lectura puede conservarse como conexión mesiánica. Pero Vaikra 16 dice «en el mes séptimo, el décimo del mes» (#vaikra_16_29), mientras Pésaj pertenece a la primera luna según #vaikra_23_5–8. La semejanza teológica no convierte ambas convocaciones en una misma fiesta. Esta precisión protege la observación central de la clase: sangre y remoción están unidas por la reconciliación, pero cada rito conserva su tiempo, sujeto y acción.
 
+## La salida, el holocausto y los restos: el rito no termina en el desierto
+
+La perícopa vuelve a Aharón después del envío del macho cabrío. En #vaikra_16_23-24 el sacerdote se quita las vestiduras de lino, se baña en un lugar santo, se viste de nuevo y ofrece sus holocaustos y los del pueblo. **(עלה)**, _alah_, significa subir, hacer subir o presentar; en la forma cultual de «subir el holocausto» su fuerza es presentar la ofrenda que asciende al altar. «Subir espiritualmente» sería una equivalencia pedagógica, no el sentido suficiente del verbo. El texto conserva así una secuencia corporal: entrada regulada, tratamiento de la Santidad, envío, baño, cambio de vestiduras y ofrenda final.
+
+Los vv. 25-28 también impiden una lectura que convierta la culpa removida en un acto sin consecuencias comunitarias. La grasa de la ofrenda por el pecado se quema sobre el altar, mientras el que conduce al macho cabrío y el que quema las pieles y restos lavan sus vestidos y bañan su cuerpo antes de volver al campamento. **(טמא)**, _tame_, significa ser impuro o quedar ritualmente contaminado; aquí su fuerza contextual alcanza a quienes manipulan los materiales del rito, aunque no autoriza afirmar que su contacto sea «pecado moral» en cada uso. **(כבס)**, _kavas_, significa lavar; la equivalencia «purificarse» es contextual y aproximada, porque el versículo prescribe una acción concreta de lavado.
+
+Este cierre evalúa otra vez la enseñanza de Eric sobre una reconciliación que debe tocar la vida. La observación recibe apoyo en la forma ordenada de salir y regresar, pero debe mantenerse en el nivel que el capítulo permite: el rito produce un estado cultual y exige respuestas observables. No dice que cada manipulador sea expulsado definitivamente, ni convierte el lavado en una fórmula de regeneración interior. La sangre, la confesión y el envío quedan unidos al resto del procedimiento, de modo que «la una sin la otra» expresa una lectura teológica acertada solo si no borra la diferencia entre expiación, remoción y limpieza ritual.
+
 ## Pendiente de verificar
 
 - [ ] Comparar el rango de _Azazel_ en traducciones antiguas y comentaristas sin presentarlo como conclusión del hebreo.
