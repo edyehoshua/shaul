@@ -128,6 +128,16 @@ La comprobación del tramo final permite precisar, sin borrar la observación de
 
 La misma secuencia limita la cronología. El texto termina diciendo que la palabra del juramento estableció al Hijo perfecto para siempre: **דְּבַר הַשְּׁבוּעָה הַבָּאָה אַחֲרֵי הַתּוֹרָה הֶעֱמִיד אֶת־הַבֵּן הַמֻּשְׁלָם לְעוֹלָם** (7:28). Eric enlaza este punto con la muerte, resurrección y entrada del Hijo en su función sacerdotal. La relación es **canónica y atribuida**, apoyada aquí por el juramento, la vida indestructible y la intercesión; Hebreos 7 no narra por sí solo cada paso cronológico de esa investidura. Queda así resuelta la verificación pendiente sin convertir la reconstrucción de la clase en una frase literal del capítulo.
 
+## Perfección, acceso y límite de la inferencia
+
+La observación de Eric sobre la perfección debe conservar el orden del argumento. Hebreos 7:11 no pregunta si la Torá es mala, sino si la **τελείωσις** (_teleiōsis_, perfección, realización o llegada a la meta) podía alcanzarse por el sacerdocio levítico. El sentido ordinario del término es «llevar a la meta»; su fuerza contextual es sacerdotal: el problema es que ese orden no llevó a los adoradores al acceso pleno que la carta busca. «Conciencia purificada» es una conexión **aproximada y transversal** con 9:9, 9:14 y 10:14, no una glosa exhaustiva de 7:11.
+
+El paso siguiente es **ἐγγίζω** (_engizō_, acercarse). En 7:19, la esperanza mejor permite acercarse a Elohim; «acercamiento» es una glosa **directa** del verbo, mientras afirmar que todo acceso quedó definido en una sola experiencia interior sería **inferencial**. La clase acierta al relacionar sacerdocio y conciencia, porque el capítulo no separa oficio, esperanza e intimidad con Elohim; debe calificarse, sin embargo, cuando convierte una conexión con capítulos posteriores en una definición aislada de Melquisedec.
+
+La comparación con el orden levítico tampoco equivale a una condena de toda instrucción. **νόμος** (_nomos_, norma, ley o instrucción) aparece en el argumento como el marco en que fue dado el sacerdocio; **ἀθέτησις** (_athetēsis_, puesta a un lado, anulación o cancelación) describe en 7:18 la relación de la ordenanza anterior con la llegada de una esperanza mejor. «Abolición total de la Torá» sería una inferencia **ilegítima**: Hebreos 7 habla del límite del sacerdocio para llevar a la meta y enlaza el cambio con otro sacerdote. La lectura de Eric queda mejor sostenida cuando distingue administración sacerdotal, acceso y valor de la instrucción.
+
+Finalmente, **ἐντυγχάνω** (_entynchano_, interceder, presentarse a favor o suplicar) en 7:25 explica qué hace el Hijo vivo. «Intercesión» es **directa**; decir que cada detalle de su ministerio celestial queda descrito aquí sería **aproximado**. La secuencia completa —juramento, vida indestructible, sacerdocio permanente e intercesión— confirma la permanencia que Eric destaca y conduce a una esperanza fundada en el sacerdote vivo, no en la autosuficiencia del intérprete.
+
 ## Conexiones principales
 
 - [[hebreos_6_esperanza_ancla_y_sacerdocio|Hebreos 6: esperanza, ancla y sacerdocio]] prepara la entrada del juramento y la referencia a Melquisedec.
