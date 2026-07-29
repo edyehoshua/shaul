@@ -236,6 +236,14 @@ El cierre cita #bereshit*2_24 y llama al vínculo **μυστήριον**, \_myst
 - [ ] Estudiar #ephesians_5_21-33 en su contexto literario e histórico, incluyendo la relación entre consideración mutua, sujeción y el amor sacrificial ordenado al esposo.
 - [ ] Revisar las aplicaciones pastorales sobre matrimonio y orden familiar con fuentes que protejan la seguridad, responsabilidad y dignidad de cada persona.
 
+## Control final de dependencia: del discernimiento al cuidado
+
+La unidad 5:15-33 no presenta dos técnicas separadas, una para administrar el tiempo y otra para ordenar la casa. **σοφός**, _sophos_, «sabio», se prueba por un andar cuidadoso; **συνίημι**, _syniēmi_, «comprender», recibe como objeto la voluntad del Señor; y **πληρόω**, _plēroō_, «llenar», se reconoce por palabra, canto, gratitud y mutualidad. La observación de Eric sobre discernir la enseñanza antes de recibirla queda apoyada como exhortación, pero el texto no permite convertir la sabiduría en una contraseña privada.
+
+El flujo relacional mantiene esa misma prueba. **ὑποτάσσω**, _hypotassō_, «ordenar bajo o someter», aparece dentro del marco de **ἀλλήλοις**, _allēlois_, «unos a otros», y el mandato específico al esposo queda medido por **παραδίδωμι**, _paradidōmi_, «entregar». La forma **κεφαλή**, _kephalē_, «cabeza», no puede desligarse del modelo de entrega, limpieza y cuidado; por eso la equivalencia con **ראש**, _rosh_, «cabeza», es una comparación de campo semántico, no una licencia para dominio. La secuencia completa prueba que la sabiduría de la casa se reconoce en amor sacrificial, seguridad y edificación.
+
+Finalmente, **ἐκκλησία**, _ekklesia_, «asamblea convocada», y **μυστήριον**, _mystērion_, «realidad antes oculta y ahora revelada», conservan el marco comunitario de 5:32-33. La referencia a Bereshit 2:24 se mantiene como cita y la relación con Mesías y asamblea como interpretación explícita de Pablo; no autoriza a borrar el sentido corporal de «una sola carne» ni a usar el misterio para silenciar a quien sufre. Así, el capítulo avanza de luz y discernimiento a relaciones responsables: la observación de Eric queda atribuida, probada por el orden textual y limitada por el cuidado exigido.
+
 ## Conclusión
 
 Efesios 5 no opone espiritualidad y vida cotidiana. El amor, la luz, la gratitud, la sabiduría con el tiempo y las relaciones quedan unidos bajo la obra del Mesías. La exhortación no puede usarse para dominar: llama a una conducta que rechaza lo destructivo y aprende la entrega de Yehoshua.

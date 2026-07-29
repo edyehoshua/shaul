@@ -244,6 +244,20 @@ La imagen de la armadura debe conservar su orden y su finalidad. **ἀλήθει
 
 La observación de Eric sobre discernir antes de actuar queda probada por la negación de 6:12: **πάλη**, _palē_, «lucha o combate», no es contra sangre y carne. La conexión pedagógica con **(אמת)**, _emet_, «verdad o fidelidad», y **(שלום)**, _shalom_, «integridad y paz», puede iluminar el campo semítico, pero no reemplaza las formas griegas ni demuestra que Pablo esté citando una lista sacerdotal. El límite pastoral es parte del argumento: la firmeza se expresa en paz, fe, palabra y oración, nunca en identificar a una persona como el enemigo.
 
+## Control añadido: la oración se verifica en el cierre relacional (6:18-24)
+
+La armadura alcanza su prueba final cuando Pablo pasa de la exhortación general a nombres y acciones concretas. **προσευχόμενοι**, _proseuchomenoi_, «orando», y **δεήσει**, _deēsei_, «con súplica», colocan la vigilancia de 6:18 al servicio de «todos los santos»; no es una técnica privada para descubrir enemigos. La petición por Pablo añade **ἀνοιχθῇ**, _anoichthē_, «sea abierta», aplicada a la boca para anunciar el misterio: la firmeza que Eric relaciona con discernimiento desemboca en comunicación dependiente, no en control de otras personas.
+
+Los vv. 21-24 muestran cómo esa oración se vuelve cuidado verificable. Tíquico debe hacer saber las cosas de Pablo y consolar los corazones; **γνωρίσει**, _gnōrisei_, «dará a conocer», y **παρακαλέσει**, _parakalesei_, «animará o consolará», describen servicio relacional. El saludo final une **εἰρήνη**, _eirēnē_, «paz», **ἀγάπη**, _agapē_, «amor», y **χάρις**, _charis_, «gracia». La conexión temática con **(שלום)**, _shalom_, es aproximada: el griego local gobierna, pero el cierre confirma la observación de Eric de que la armadura termina en paz, noticias fieles, oración y servicio.
+
+## Control final de dependencia: firmeza, palabra y paz
+
+Efesios 6 conserva una cadena que impide convertir la armadura en un catálogo de poderes. **ἐνδυναμόω**, _endynamoō_, «fortalecer o recibir fuerza», tiene como fuente al Señor; **πανοπλία**, _panoplia_, «equipo completo», describe la preparación; y **στῆναι**, _stēnai_, «estar de pie», describe el resultado. El objeto de la resistencia son las **μεθοδεῖαι**, _methodeiai_, «artimañas o estrategias engañosas», mientras 6:12 niega que la lucha sea contra sangre y carne. La observación de Eric sobre discernimiento recibe apoyo directo sólo dentro de esos límites.
+
+La lista de la armadura tampoco sustituye la vida que la carta ya describió. **ἀλήθεια**, _alētheia_, «verdad», **δικαιοσύνη**, _dikaiosynē_, «justicia», **εἰρήνη**, _eirēnē_, «paz», **πίστις**, _pistis_, «fe o confianza», y **σωτηρία**, _sōtēria_, «salvación», son formas y conceptos argumentales que se manifiestan en la permanencia; **ῥῆμα**, _rhēma_, «palabra o declaración», nombra la espada metafórica del Rúaj. Su relación temática con **אמת**, _emet_, «verdad o fidelidad», y **שלום**, _shalom_, «paz o integridad», es aproximada: el griego local gobierna la lectura y no demuestra una retroversión hebrea.
+
+La finalidad aparece en 6:18-24. **αἴτησις**, _aitēsis_, «petición», y **δέησις**, _deēsis_, «súplica», orientan la vigilancia hacia todos los santos; **παρρησία**, _parrēsia_, «franqueza o confianza para hablar», pide un anuncio fiel; y **παρακαλέω**, _parakaleō_, «animar o consolar», explica el servicio de Tíquico. El saludo de paz, amor, fe y gracia demuestra que la firmeza termina en comunicación y cuidado mutuo. La enseñanza de Eric queda así preservada en prosa atribuible y probada contra la perícopa: resistir no es conquistar personas, sino permanecer, orar y servir.
+
 ## Conclusión
 
 El final de Efesios mantiene la misma dirección de la carta: el Mesías forma un pueblo que vive de otra manera. La firmeza no es agresión contra personas, sino permanecer en el Señor mediante verdad, justicia, paz, fe, salvación, palabra y oración. Pablo termina deseando paz, amor, fe y gracia, no temor ni autosuficiencia.
