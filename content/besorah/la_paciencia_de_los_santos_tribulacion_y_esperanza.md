@@ -12,6 +12,7 @@ tags:
 references:
   - "#revelation_1_9"
   - "#revelation_2_2"
+  - "#revelation_2_4"
   - "#revelation_2_19"
   - "#revelation_13_10"
   - "#revelation_14_12"
@@ -78,12 +79,13 @@ Eric afirma que Apocalipsis fue escrito para consolar, no para infundir miedo. E
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual                                              | Observación atribuible de Eric                                                                                        | Evaluación frente a la Escritura                                                                                                                                                             |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #revelation_1_9; `youtube:6d59VNAitEA`                      | Eric relaciona tribulación, reino y paciencia de Yehoshua, y pregunta cómo participan los creyentes en esa paciencia. | Apoyo textual cualificado: Juan enumera las tres realidades juntas; la pregunta sobre el sufrimiento del Mesías queda abierta por la construcción y no debe resolverse con una cita aislada. |
-| #revelation_2_2-3; `youtube:6d59VNAitEA`                    | La exposición enlaza paciencia con obras y trabajo, no con una espera vacía.                                          | Apoyo textual directo: el pasaje menciona obras, trabajo, paciencia y perseverancia; también exige recordar el amor abandonado en #revelation_2_4.                                           |
-| #revelation_2_19; `youtube:6d59VNAitEA`                     | Eric amplía la relación entre paciencia, servicio y una vida que sigue haciendo la obra.                              | Apoyo textual: obras, amor, servicio, fe y paciencia aparecen juntos; la aplicación a toda pérdida personal es aproximada.                                                                   |
-| #revelation_13_10; #revelation_14_12; `youtube:6d59VNAitEA` | La paciencia de los santos se entiende como resistencia fiel en un contexto de presión y espera.                      | Inferencia canónica pertinente: ambos pasajes unen paciencia con fidelidad, mandamientos y Yehoshua; no autorizan fijar fechas ni alimentar miedo.                                           |
+| Unidad textual                                              | Observación atribuible de Eric                                                                                                                 | Evaluación frente a la Escritura                                                                                                                                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #revelation_1_9; `youtube:6d59VNAitEA`                      | Eric relaciona tribulación, reino y paciencia de Yehoshua, y pregunta cómo participan los creyentes en esa paciencia.                          | Apoyo textual cualificado: Juan enumera las tres realidades juntas; la pregunta sobre el sufrimiento del Mesías queda abierta por la construcción y no debe resolverse con una cita aislada. |
+| #revelation_2_2-3; `youtube:6d59VNAitEA`                    | La exposición enlaza paciencia con obras y trabajo, no con una espera vacía.                                                                   | Apoyo textual directo: el pasaje menciona obras, trabajo, paciencia y perseverancia; también exige recordar el amor abandonado en #revelation_2_4.                                           |
+| #revelation_2_19; `youtube:6d59VNAitEA`                     | Eric amplía la relación entre paciencia, servicio y una vida que sigue haciendo la obra.                                                       | Apoyo textual: obras, amor, servicio, fe y paciencia aparecen juntos; la aplicación a toda pérdida personal es aproximada.                                                                   |
+| #revelation_2_4-5; `youtube:6d59VNAitEA`                    | Eric entiende el abandono del primer amor como pérdida de celo por buenas obras y como búsqueda creciente de comodidad frente al padecimiento. | Apoyo cualificado: la exhortación confirma que obras y resistencia no sustituyen el amor; el texto no reduce el amor a sufrir ni condena todo descanso.                                      |
+| #revelation_13_10; #revelation_14_12; `youtube:6d59VNAitEA` | La paciencia de los santos se entiende como resistencia fiel en un contexto de presión y espera.                                               | Inferencia canónica pertinente: ambos pasajes unen paciencia con fidelidad, mandamientos y Yehoshua; no autorizan fijar fechas ni alimentar miedo.                                           |
 
 ## Hoja léxica
 
@@ -105,6 +107,14 @@ La exposición de Eric ayuda a corregir la asociación superficial entre pacienc
 Asimismo, **δοκιμή**, _dokimē_, significa carácter probado o resultado de una prueba; Pablo la usa en #romanos_5_4 dentro de una secuencia de tribulación, perseverancia, carácter probado y esperanza. «Madurez» es una glosa aproximada y pedagógica: comunica el resultado formativo, pero no agota el sustantivo. El sufrimiento puede formar perseverancia cuando es recibido dentro de la fidelidad, pero la afirmación no convierte al agresor en instrumento justificable ni al herido en culpable.
 
 La referencia de Eric a Job necesita precisamente ese límite. Job 1 no explica la pérdida como consecuencia de una falta moral del protagonista; la escena narrativa muestra una prueba cuya causa no se entrega al razonamiento de sus amigos. Por ello, decir que una gran pérdida demuestra que «está en juego quién es» alguien puede ser una aplicación posible, pero es cualificada y no una conclusión exacta para cada caso.
+
+## El primer amor no es comodidad ni dureza
+
+En la misma exposición, Eric interpreta la advertencia a Éfeso sobre haber dejado el primer amor como una pérdida de celo por las buenas obras: la comunidad puede conservar trabajo, discernimiento y resistencia, pero empezar a esquivar el padecimiento y buscar comodidad. La observación es una paráfrasis atribuible, localizada aproximadamente entre 00:10:43 y 00:12:01, no una cita literal. Apocalipsis 2:4-5 confirma que la perseverancia no basta si se ha abandonado el amor, aunque el pasaje no define «primer amor» exclusivamente como disposición a sufrir.
+
+El sustantivo **ἀγάπη**, _agapē_, significa amor, benevolencia o entrega; en #revelation_2_4 su fuerza contextual es la relación fiel que la comunidad ha dejado atrás, en contraste con sus obras y su discernimiento. «Amor» es una glosa **directa**, pero reducirlo a «celo por buenas obras» es **aproximado y pedagógico**: el texto manda recordar, arrepentirse y volver a las primeras obras, no glorificar el dolor ni medir el amor por una cantidad de sufrimiento. El verbo **μετανοέω**, _metanoeō_, significa cambiar de mente, arrepentirse o volver la orientación; en 2:5 su fuerza es una respuesta concreta al diagnóstico, no una emoción de culpa indefinida. «Arrepentirse» es **directo**, mientras convertirlo en una fórmula de rendimiento es ilegítimo.
+
+La corrección canónica debe operar en ambos sentidos. Eric acierta al advertir que la comodidad puede erosionar la fidelidad y que una comunidad activa puede perder su amor; sin embargo, Apocalipsis 2:2-5 no autoriza a llamar sospechoso todo descanso ni a presentar la aflicción como prueba automática de elección. **κοπιάω**, _kopiaō_, significa trabajar, fatigarse o esforzarse; aunque la forma verbal sirve aquí como apoyo **pedagógico y aproximado** para el «trabajo» de Éfeso, el texto evalúa el fruto comunitario junto con el amor. La paciencia madura no es ni comodidad indiferente ni dureza orgullosa: resiste, discierne, ama y vuelve cuando recibe corrección.
 
 ## Reparación desarrollada: paciencia que permanece, sirve y discierne
 
