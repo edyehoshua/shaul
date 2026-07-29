@@ -76,6 +76,23 @@ La clase conecta esas obras con la resurrección, la reconciliación, el sacrifi
 | **(πιστεύω)** | afirmarse, exhibir fidelidad.               | TTH traduce «afírmense» en #iojanan_14_10-11; no equiparar automáticamente el término con una raíz hebrea sin verificación.                       |
 | **(מעשה)**    | obra, acción hecha.                         | Las obras son el criterio explícito del discurso; la identificación de cada obra con una profecía concreta es una tarea interpretativa adicional. |
 
+## Mapa de la enseñanza de Eric
+
+Eric avanza en el orden de la conversación. Primero, en #iojanan_14_7, presenta el conocimiento de Yehoshua como el punto desde el cual los discípulos conocen al Padre: **לו אתי ידעתם ידעתם גם אתאבי** («si me conocieran, conocerían también a mi Padre»). La afirmación no borra el contexto inmediato de camino y retorno; prueba, más bien, que la petición de ver al Padre debe responderse atendiendo a la persona ya presente.
+
+Luego, en #iojanan_14_8-9, Eric destaca la insuficiencia que Filipos expresa al pedir una manifestación adicional: **הראנו נא אתהאב ורב לנו** («muéstranos al Padre y nos basta»). Yehoshua contesta con una pregunta sobre el tiempo que lleva con ellos y con la frase decisiva: **הראה אתי ראה אתהאב** («el que me ve ha visto al Padre»). El texto local apoya la corrección de la petición; la clase amplía esa frase hacia una doctrina de la plenitud de Abba en el Mesías, pero esa formulación sistemática debe permanecer atribuida a Eric.
+
+En #iojanan_14_10, Eric explica que Yehoshua no habla como una fuente independiente y que el Padre que mora en él realiza sus obras: **האב השכן בי הוא פעל בי פעלותיו**. La observación tiene apoyo directo en palabras y obras coordinadas. Sin embargo, el contraste español que la clase establece entre «ser» y «estar», y la conclusión de que el verso excluye toda delegación, son desarrollos interpretativos; **(μένω)**, *menō*, normalmente expresa permanecer o morar, no resuelve por sí solo toda cuestión metafísica.
+
+Finalmente, #iojanan_14_11 conserva la apelación pública: **האמינו לי כי אני באב והאב בי ואם לא למען פעלות האמינו לי** («afírmense en mí... y si no, por las obras»). Eric insiste en que la unidad declarada no se separa de obras examinables, enlazándola con #iojanan_10_37-38 y con la plenitud que también encuentra en #qolasim_2_9. El primer enlace repite la lógica del propio evangelio; el segundo es una conexión apostólica de la clase y no una explicación automática del pasaje.
+
+| Unidad textual | Observación concreta atribuida a Eric | Prueba y evaluación local |
+| --- | --- | --- |
+| #iojanan_14_7 | Conocer a Yehoshua es el acceso al conocimiento del Padre, no una invitación a buscar otra aparición. | La coordinación «conocerán a mi Padre» y «lo han visto» es explícita; el alcance doctrinal mayor es interpretación. |
+| #iojanan_14_8-9 | Filipos pide ver al Padre; Yehoshua responde que quien lo ve a él ha visto al Padre. | La petición y la respuesta aparecen en orden; **πατήρ / אבא** son formas relacionadas por traducción aproximada, no identidad de lengua. |
+| #iojanan_14_10 | Las palabras no son de iniciativa aislada y el Padre que mora en Yehoshua hace las obras. | El verso une palabras, morada y obras; la lectura de **μένω** como una tesis exhaustiva sobre «ser/estar» queda calificada. |
+| #iojanan_14_11 | Si la afirmación no basta, las obras ofrecen una base verificable para confiar. | Yehoshua dirige expresamente a las obras; la conexión con Colosenses 2:9 es intertextual y debe leerse en su contexto. |
+
 ## Conexiones principales
 
 - #iojanan_14_7-9: conocer y ver a Yehoshua responde a la petición de ver al Padre.
