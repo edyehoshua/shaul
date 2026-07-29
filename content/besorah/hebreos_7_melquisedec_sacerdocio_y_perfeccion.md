@@ -120,6 +120,12 @@ En 7:20-25, el juramento de יהוה y la vida permanente del Hijo explican por 
 
 ## Conclusión
 
+## Reparación de trazabilidad: la secuencia que Eric enseña
+
+La clase pública de Eric no trata «perfección» como una virtud abstracta separada del sacerdocio. Su recorrido enlaza la pregunta de 7:11 con la esperanza de 7:19 y con el juramento de 7:20-22: si el sacerdocio levítico hubiera llevado a la meta, no habría sido necesario levantar otro sacerdote; el sacerdote nuevo permite acercarse a Elohim y queda confirmado por un juramento. El texto local mantiene los tres pasos: **אִם־הָיְתָה הַשְּׁלֵמוּת עַל־יְדֵי כְּהֻנַּת לֵוִי** (7:11), **תִּקְוָה טוֹבָה מִמֶּנָּה אֲשֶׁר־נִקְרַב עַל־יָדָהּ לֵאלֹהִים** (7:19), y **נִשְׁבַּע יְהוָה ... אַתָּה־כֹהֵן לְעוֹלָם** (7:21). Así se conserva la observación material de Eric y se evita resumirla como una cautela genérica sobre «lo antiguo» y «lo nuevo».
+
+El énfasis final de Eric también es concreto: la permanencia del oficio explica la salvación completa y la intercesión, no solo una duración indefinida. **ἐντυγχάνω**, _entynchano_, significa interceder, presentarse a favor o suplicar; en 7:25 su fuerza es la actividad del Hijo vivo por quienes se acercan. La relación es **directa** en «vive siempre para interceder»; la explicación de Eric sobre cada etapa de la investidura celestial es **canónica e inferencial**, porque el versículo prueba vida e intercesión, no una cronología completa.
+
 Hebreos 7 lleva al lector desde el nombre y la bendición de Melquisedec hasta el juramento que establece al Hijo. Eric aporta una lectura unificada: la perfección es la meta de una conciencia purificada, y el nuevo sacerdocio no depende de genealogía mortal, sino de una vida indestructible. El texto confirma la superioridad, la permanencia, la intercesión y la ofrenda única; las extensiones sobre el sacerdocio celestial y el futuro deben conservarse como interpretación atribuida, no como si fueran cada una una frase del capítulo.
 
 ## Verificación léxica y límite de la reconstrucción

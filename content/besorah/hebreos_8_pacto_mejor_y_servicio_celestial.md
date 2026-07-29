@@ -112,6 +112,12 @@ Luego vienen los resultados concretos, en el mismo orden: Torá puesta dentro, e
 
 ## Conclusión
 
+## Reparación de trazabilidad: «mejor» se prueba por su contenido
+
+La clase pública de Eric no deja la palabra «mejor» como un adjetivo suelto. Su recorrido pasa de la función del sacerdote a la cita de Yirmeyahu: primero el Hijo es ministro del santuario verdadero, luego es mediador de un pacto mejor, y finalmente la promesa explica la mejora mediante Torá interiorizada, conocimiento y perdón. El orden local lo confirma: **הוּא מְשָׁרֵת בְּרִית טוֹבָה מִזֹּאת** (8:6), **וְכָרַתִּי אֶת־בֵּית יִשְׂרָאֵל וְאֶת־בֵּית יְהוּדָה בְּרִית חֲדָשָׁה** (8:8), y **נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתֳּבֶנָּה** (8:10). Esta secuencia conserva la enseñanza efectiva de Eric: «mejorada» es una paráfrasis pedagógica, mientras que el texto especifica en qué consiste la novedad.
+
+Eric también usa «nuevo» para confrontar la lectura que convierte el pacto en una licencia para abandonar la obediencia. **καινή**, _kainē_, significa nueva, renovada o de una clase nueva; en 8:8 califica la alianza, no elimina por sí sola a sus destinatarios ni su contenido. La relación entre «pacto nuevo» y una comunidad actual es **canónica y cualificada**; la afirmación directa permanece: la promesa nombra a Israel y Judá, escribe la **תּוֹרָה**, _torah_, en el interior y añade perdón. **παλαιόω**, _palaioō_, significa hacer antiguo o envejecer; en 8:13 califica al primer pacto dentro del argumento, no autoriza a borrar la instrucción que 8:10 promete escribir en el corazón.
+
 Hebreos 8 lleva el argumento a su centro: el sacerdote celestial ministra en el tabernáculo verdadero y media un pacto mejor. Eric ayuda a leer “mejor” como una esperanza mejorada, no como una condena indiscriminada de la revelación anterior. El propio texto define la novedad: Torá escrita en mente y corazón, conocimiento universal de יהוה y perdón de los pecados, dentro de una promesa dirigida a la casa de Israel y a la casa de Judá. La primera forma de pacto envejece en el argumento sacerdotal; la justicia y la instrucción que Elohim escribe en su pueblo no son presentadas como basura.
 
 ## Verificación léxica y límite de la reconstrucción
