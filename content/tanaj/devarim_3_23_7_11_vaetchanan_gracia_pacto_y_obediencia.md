@@ -88,6 +88,14 @@ La respuesta se ordena en verbos: temer a יהוה, servirle, jurar por su nombr
 
 Devarim 7 corrige una lectura de elección basada en superioridad numérica. Israel es pueblo santo y tesoro particular, pero יהוה lo escogió por amor y por guardar el juramento a los padres. **חסד**, _chesed_, expresa bondad fiel o misericordia de pacto; aquí el texto une amor, juramento, redención y mandato. Eric afirma que el pacto renovado en el Mesías da sentido a los procedimientos; esa es una lectura apostólica atribuida. La unidad de Devarim, sin embargo, ya declara el orden básico: amor y fidelidad de יהוה, luego “guardar la ordenanza, los estatutos y los juicios”.
 
+## La memoria impide convertir la gracia en posesión: 4:9–14, 6:10–25
+
+La clase de Eric une la gracia recibida con la obligación de recordar y enseñar. Esa conexión se vuelve más precisa si se observa que Devarim repite la advertencia en dos momentos: primero después de ordenar «escuchar y hacer» (4:9), y luego cuando Israel recibe casas, cisternas, viñas y olivares que no edificó ni plantó (6:10-12). El TTH formula: «Guárdate y guarda tu alma mucho, no sea que olvides las cosas que vieron tus ojos». **(שמר)**, _shamar_, significa guardar, vigilar o custodiar; aquí su fuerza contextual incluye cuidar la memoria recibida, no solamente observar una regla aislada. «Disciplina interior» es una equivalencia **pedagógica**.
+
+El verbo **(זכר)**, _zajar_, significa recordar, traer a la memoria o mencionar. Aunque el bloque de 6:10-25 alterna recordar y no olvidar, el sentido contextual no es nostalgia: Israel debe contar a sus hijos que «éramos siervos de Faraón» y que יהוה lo sacó con mano fuerte. **(ספר)**, _safar_, significa contar, relatar o registrar; en la transmisión familiar, «catequizar» sería una equivalencia **aproximada** y culturalmente cargada. Eric tiene razón al resistir una gracia que deja al oyente pasivo: el texto hace que la memoria de la liberación produzca enseñanza, temor, servicio y obediencia.
+
+Sin embargo, la memoria tampoco compra la elección. Devarim 7:7-9 explica que Israel no fue escogido por ser más numeroso, sino porque יהוה lo amó y guardó el juramento hecho a los padres. **(בחר)**, _bajar_, significa escoger o elegir; su fuerza aquí es la iniciativa de יהוה, no un mérito previo del pueblo. «Preferencia emocional» sería una equivalencia **inexacta**. La secuencia de la parashá queda así: gracia suplicada y límite recibido, palabra escuchada y obedecida, memoria transmitida, y elección fundada en amor y juramento. La lectura de Eric se sostiene cuando conserva esa dependencia; se excedería si transformara la elección en superioridad o la obediencia en pago.
+
 ## Hoja léxica
 
 | Forma fuente | Transliteración | Sentido normal               | Fuerza contextual y relación                                                      |

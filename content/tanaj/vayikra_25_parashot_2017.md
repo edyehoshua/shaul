@@ -23,9 +23,10 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=kNM4bV6k3Z8"
   - "docs/scriptures/oe/json/leviticus/25.json"
+  - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
   - "youtube:kNM4bV6k3Z8"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -92,6 +93,14 @@ El fundamento reaparece al final: **כי לי בני ישראל עבדים עב�
 El contraste entre cosecha, crédito y servidumbre muestra por qué el descanso de la tierra no es una doctrina de prosperidad individual. **לא תקח מאתו נשך ותרבית**, _lo tiqaj meito neshekh vetarbit_, «no tomarás de él interés ni aumento» (#vaikra_25:36), protege la vida del hermano en el mismo capítulo que promete provisión. **תקח**, _tiqaj_, es una forma de לקח, «tomar o recibir»; aquí señala la acción económica que se prohíbe. **מאתו**, _meito_, significa «de él»; el pronombre mantiene ante los ojos al hermano concreto, no una abstracción financiera. La enseñanza pública de Eric sobre depender de יהוה queda mejor evaluada cuando se ve que la dependencia no legitima cobrar al empobrecido por su necesidad.
 
 El versículo 43 refuerza el límite: **לא תרדה בו בפרך ויראת מאלהיך**, «no te enseñorearás de él con dureza, y temerás a tu Elohim». **תרדה**, _tirdeh_, es una forma de רדה, «dominar o gobernar»; **בפרך**, _befarekh_, expresa dureza, rigor opresivo o trabajo quebrantador. «Administrar responsablemente» sería demasiado suave como equivalencia pedagógica: el contexto trata de no convertir la pobreza en una esclavitud cruel. El yovel y la pertenencia a יהוה no son únicamente imágenes de futuro; son frenos concretos al poder del acreedor en la comunidad.
+
+## La promesa de provisión y el límite de la posesión: vv. 18–24
+
+La pregunta «¿qué comeremos en el séptimo año?» no aparece como una objeción externa al mandamiento: la Torah la anticipa y responde dentro de la misma unidad. El OE dice **וצויתי את ברכתי לכם בשנה הששית ועשת את התבואה לשלש השנים** y la TTH: «Y mandaré Mi bendición para ustedes en el año sexto, y hará el producto para los tres años» (#vaikra_25_21). **(ברכה)**, _berajah_, significa bendición; su fuerza contextual es una provisión ordenada por יהוה para que el descanso de la tierra sea practicable. «Prosperidad» es una equivalencia **pedagógica** demasiado amplia: el pasaje no promete acumulación indefinida, sino producto suficiente para un calendario concreto.
+
+El orden de los verbos también corrige una lectura individualista. Israel pregunta, יהוה manda su bendición, la tierra produce y el pueblo siembra en el octavo año mientras come de lo antiguo (#vaikra_25_20-22). **(ישן)**, _yashan_, significa viejo o antiguo; aplicado al producto, describe la cosecha almacenada que sostiene la transición, no una espiritualidad nostálgica. «Reserva» es aproximada y funcional. Eric observa que la dependencia se aprende cuando el rendimiento no está bajo control humano; el texto apoya esa observación como aplicación porque la continuidad de la vida depende de una palabra de יהוה, pero limita su alcance al régimen de la tierra entregada a Israel.
+
+En 25:23 el argumento pasa de la cosecha a la heredad: **והארץ לא תמכר לצמתת כי לי הארץ** («la tierra no se venderá para siempre, porque Mía es la tierra»). **(צמתת)**, _tsmitut_, expresa permanencia absoluta o perpetuidad; su fuerza aquí prohíbe una venta que extinga para siempre la posibilidad de retorno. «Mercado libre» no es una categoría del versículo y sería una equivalencia **inexacta**. El parentesco entre provisión y justicia es, por tanto, textual: el mismo dueño divino que sostiene el alimento impide que la necesidad convierta una posesión familiar en pérdida definitiva.
 
 ## Hoja léxica
 
