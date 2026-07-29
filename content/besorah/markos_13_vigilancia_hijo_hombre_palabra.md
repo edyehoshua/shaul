@@ -390,6 +390,12 @@ El contraste final protege la lectura contra el cálculo. **(ἐπισυνάξε
 | Daniel 9:24-27       | Las setenta semanas se cumplen hasta el segundo templo; **(נחתך)** no obliga a traducir «se le quitará la vida», y **(מָשִׁיחַ נָגִיד)** no debe fijar automáticamente una identidad mesiánica. | Se explican las formas, se conserva la tesis atribuible y se dejan pendientes las referencias rabínicas y la reconstrucción histórica. |
 | Marcos 13:28-37      | Las señales permiten reconocer proximidad, pero nadie recibe la hora; la palabra permanece y la comunidad debe vigilar.                                                                         | **(μανθάνετε)**, **(βλέπετε)**, **(ἀγρυπνεῖτε)** y **(γρηγορεῖτε)** se leen como conducta sostenida; se evita fabricar un calendario.  |
 
+## Control de dependencia: palabra firme, hora velada
+
+La relación entre las fuentes y el cierre canónico puede comprobarse sin forzar una solución a la variante de 13:32. La parte 41 conserva la observación de Eric sobre las dos preguntas: el templo abre el discurso, pero el día y la hora no se entregan al discípulo. La parte 40 aporta la lectura histórica de Daniel 9 y la parte 42 enfoca la señal, la higuera y la venida; ninguna de ellas autoriza a convertir **(ἐγγύς)**, _engys_, «cerca», en una fecha exacta. El texto permite reconocer proximidad y, a la vez, prohíbe reclamar el momento.
+
+El cierre enlaza **(λόγοι)**, _logoi_, «palabras, dichos o mensajes», con **(οὐ μὴ παρέλθωσιν)**, _ou mē parelthōsin_, «de ningún modo pasarán», y después con **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». La enseñanza de Eric sobre una palabra inamovible encuentra aquí apoyo textual: la palabra permanece y la comunidad recibe una tarea. Su asociación de esa firmeza con **(אמונה)**, _emunah_, «fidelidad o firmeza», es aproximada y pedagógica, no una retroversión del griego. La consecuencia canónica es obediencia perseverante, no un nuevo método para calcular la venida.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

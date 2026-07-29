@@ -240,6 +240,12 @@ Para explicar el límite de esa manifestación, la clase vuelve a Éxodo 33. Rel
 | Éxodo 33:12-23, relacionado por la clase | La gloria visible es una manifestación limitada, porque el ser humano no puede ver el rostro pleno de Elohim y vivir.                                | Se conserva como conexión atribuible para iluminar el alcance de «gloria», pero no se usa para afirmar que Marcos identifica literalmente el monte con Éxodo 33. |
 | Marcos 9:1-8 y Éxodo 33:20-23             | Eric distingue la manifestación poderosa que consuela a los discípulos de la plenitud que ningún humano puede ver; relaciona «detrás» con lo que queda después de la gloria. | Marcos prueba la secuencia promesa–transformación–voz; Éxodo prueba el límite del rostro. La lectura de **(פנים)** y **(אחור)** hacia muerte, resurrección y fruto es tipológica y queda calificada. |
 
+## Control de dependencia: de la gloria a la paz
+
+La secuencia final también corrige una lectura que separara la experiencia del monte de la vida comunitaria. En 9:7 la voz manda **(ἀκούετε)**, _akouete_, «escuchen», y en 9:31 el anuncio usa **(παραδίδοται)**, _paradidotai_, «es entregado». El primer verbo convierte la visión en obediencia continua; el segundo coloca delante de los discípulos una entrega que todavía no comprenden. La conexión que Eric hace entre gloria y esperanza corporal queda apoyada por este orden, pero la forma griega no significa por sí sola «gloria final» ni resuelve la cronología de la resurrección.
+
+En 9:35, **(διακονεῖν)**, _diakonein_, «servir», responde a la discusión sobre quién es grande; en 9:42, **(σκανδαλίσῃ)**, _skandalisē_, «haga tropezar», traslada la responsabilidad al cuidado de los pequeños; y en 9:50, **(εἰρηνεύετε)**, _eirēneuete_, «mantengan la paz», cierra el recorrido. La observación de Eric sobre la sal como integridad comunitaria se ajusta a esa progresión: no es una sustancia secreta ni una autorización para controlar a otros. La relación con **(מלח)**, _melaj_, «sal», y **(שלום)**, _shalom_, «paz o bienestar», es una comparación pedagógica; Vaikra 2:13 ilumina el trasfondo, pero Marcos conserva su propio argumento.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
