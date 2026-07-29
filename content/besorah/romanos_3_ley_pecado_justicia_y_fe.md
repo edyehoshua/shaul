@@ -273,6 +273,16 @@ El cierre gobierna la aplicación. **(καταργέω)**, _katargeō_, signific
 | #romanos_3_21-26                        | La justicia de Elohim se manifiesta en el Mesías, no como crédito de la jactancia humana. | Apoyo textual: la Torah y los profetas atestiguan la justicia; la expiación conserva una calificación léxica. |
 | #romanos_3_27-31                        | La emunah excluye la jactancia y no deja nula la Torah.                                   | Apoyo textual directo en el cierre; la aplicación concreta queda para el argumento canónico posterior.        |
 
+## Reparación final: la justicia recibida no cancela el testimonio de la Torah
+
+La exposición pública asociada con `youtube:u0NtR-y-T2Y` queda acreditada por su título, URL y alcance, no por una cita reconstruida. Al seguir Romanos 3:17-31 en orden, el foco «dentro de la ley» recibe una corrección necesaria: la Torah habla en un escenario judicial, pero el veredicto alcanza a todo el mundo; después, la justicia se manifiesta por la fidelidad de Yehoshua el Mesías y se ofrece gratuitamente; finalmente, la emunah excluye la jactancia sin dejar la Torah sin efecto. La evaluación es **textual en la secuencia**, **cualificada en la aplicación doctrinal** y no convierte el título de Eric en sustituto del pasaje.
+
+En #romanos_3_19-20, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o culpable; su fuerza contextual es forense y universal. **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno o reconocimiento; aquí la Torah hace visible el pecado, no produce una casta étnica culpable. Ambas glosas son **directas** en el campo ordinario, mientras deducir de «estar bajo la ley» una teoría completa sobre identidad comunitaria sería **inferencial e ilegítimo** frente a «todo el mundo».
+
+En #romanos_3_21-26, **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; en 3:21 distingue las obras como base de justicia, pero no significa «contra la Torah», porque la Torah y los profetas dan testimonio. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o reconocer como justo; su fuerza contextual es la acción gratuita de Elohim mediante la redención. **(ἱλαστήριον)**, _hilastērion_, puede significar medio de expiación o lugar de propiciación; «propiciación» es **aproximada y pedagógica**, pues la forma no decide por sí sola un modelo técnico exhaustivo de expiación.
+
+El cierre responde a la pregunta sobre la Torah. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular; **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. En 3:31, «anular» y «establecer» son glosas **directas y contextuales**: Pablo niega que la emunah deje nula la Torah. La aplicación concreta de cada mandamiento debe seguir el argumento posterior de Romanos; esta cautela no debilita el versículo, sino que evita usarlo como eslogan aislado. La enseñanza atribuible de Eric recibe así **apoyo cualificado**: la gracia cierra la jactancia, y la Torah permanece como testigo y norma dentro del canon.
+
 ## Ver también
 
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]]
