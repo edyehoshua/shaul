@@ -163,6 +163,20 @@ La revisión de la parte 28 permite precisar todavía más el puente entre 8:35-
 
 La forma **(ψυχικός)**, _psychikos_, describe en 1 Corintios 15:44 lo animado por la vida natural; **(πνευματικός)**, _pneumatikos_, describe lo espiritual. «Corruptible» e «incorruptible» comunican una consecuencia del argumento de resurrección, pero son glosas interpretativas de la exposición, no equivalencias automáticas de cada **(ψυχή)** en Marcos. La enseñanza de Eric queda así preservada en su punto fuerte —la esperanza corporal frente a una lectura de alma separada— y limitada por el contexto de cada pasaje.
 
+## Reparación dirigida: la gloria se subordina a escuchar y servir
+
+La secuencia de Marcos 9 corrige una lectura que aislara la metamorfosis como experiencia de rango. **(μετεμορφώθη)**, _metemorphōthē_, «fue transformado», describe la manifestación visible; **(ἀκούετε)**, _akouete_, «escuchen», convierte la escena en mandato; y **(παραδίδοται)**, _paradidotai_, «es entregado», lleva la gloria al anuncio de sufrimiento. Eric presenta la metamorfosis como anticipo consolador del reino y sostiene que no debe separarse del cuerpo y la resurrección. El relato confirma el enlace narrativo, pero no convierte el verbo en una definición completa de la naturaleza del Mesías.
+
+La prueba comunitaria continúa en 9:35. **(διακονεῖν)**, _diakonein_, «servir», define la acción del primero, mientras **(παιδίον)**, _paidion_, «niño» o «pequeño», identifica a quien Yehoshua coloca en medio. La observación de Eric sobre la grandeza como responsabilidad de servicio queda respaldada por ambos elementos; no hace falta sustituir «niño» por «siervo» para sostenerla. Finalmente, **(ἅλας)**, _halas_, «sal», y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan paz», llevan la disciplina contra el tropiezo al resultado comunitario. La relación con **(מלח)**, _melaj_, y la sal del pacto de Vaikra 2:13 es un trasfondo intertextual atribuido, no una traducción oculta de Marcos.
+
+## Control de lectura: la gloria se verifica en el servicio
+
+El orden de las escenas impide convertir la metamorfosis en una credencial de rango. **μετεμορφώθη**, _metemorphōthē_, «fue transformado», presenta la manifestación ante tres testigos; **ἀκούετε**, _akouete_, «escuchen», convierte esa visión en mandato; y **παραδίδοται**, _paradidotai_, «es entregado», devuelve la atención al anuncio de muerte en 9:31. Eric relaciona la gloria con una esperanza corporal y con el reino venido con poder. El texto sostiene la secuencia promesa–transformación–escucha–entrega, pero no hace que el verbo griego signifique por sí solo «glorificación completa».
+
+La respuesta práctica aparece en 9:35-37. **διακονεῖν**, _diakonein_, «servir», define el camino del primero, mientras **παιδίον**, _paidion_, «niño o pequeño», identifica a quien Yehoshua coloca en medio. La observación de Eric sobre la grandeza como responsabilidad queda apoyada por la sintaxis y la acción, sin sustituir «niño» por «siervo». Más adelante, **ἅλας**, _halas_, «sal», y **εἰρηνεύετε**, _eirēneuete_, «mantengan la paz», llevan la disciplina contra el tropiezo a una comunidad reconciliada. **מלח**, _melaj_, «sal», y **שלום**, _shalom_, «paz o integridad», son equivalencias hebreas pedagógicas aproximadas; Vaikra 2:13 ilumina el trasfondo, pero no prueba una retroversión de Marcos.
+
+Por tanto, la fe que pide ayuda en 9:24 y el servicio que renuncia a la grandeza no son temas aislados. **βοήθει**, _boēthei_, «ayuda», expresa una súplica dirigida a Yehoshua, y **προσευχή**, _proseuchē_, «oración», en 9:29 mantiene la dependencia de Elohim; ninguna forma describe una técnica que controle el resultado. El capítulo conduce de ver a escuchar, de no poder a pedir ayuda y de competir a servir. Esa cadena conserva la observación atribuible de Eric y evita que sal, emunah o gloria se conviertan en lemas separados del texto.
+
 ## Pendiente de verificar
 
 ## Desarrollo seleccionado de la parte 28: de ψυχή a la esperanza corporal
@@ -180,6 +194,8 @@ Eric también usa la fórmula **(ἀμὴν)**, _amēn_, «verdaderamente» o «
 La clase distingue además un amén de un doble amén. Eric propone que el primero puede presentar una conclusión ya preparada por el testimonio de la Torah, mientras que la repetición puede introducir una afirmación cuya forma no se había expresado antes. La observación conserva un criterio de lectura —probar la novedad contra la Escritura recibida—, pero la cantidad de repeticiones no funciona por sí sola como una clave universal para clasificar cada palabra de Yehoshua. Del mismo modo, **(βασιλεία)**, _basileia_, «reino o reinado», se compara con **(מלכות)**, _maljut_, «reino o gobierno»; la correspondencia de campo es aproximada. Marcos permite afirmar que la promesa del reinado con poder queda seguida por una manifestación visible, no que _basileia_ sea una retroversión hebrea.
 
 Para limitar la gloria, Eric relaciona la escena con Éxodo 33:20-23. **(פנים)**, _panim_, puede significar «rostro», «presencia» o «aspecto» según construcción; **(אחור)**, _achor_, señala «parte posterior» o «lo que queda detrás». La clase lee «detrás» como una figura de lo que viene después de la manifestación: muerte, resurrección y fruto. Es una tipología atribuible, no una identificación literal de Marcos 9 con Éxodo 33. La secuencia local sostiene algo más delimitado: la nube y la voz mandan **(ἀκούετε)**, _akouete_, «escuchen», y cuando los discípulos miran ya no ven a nadie sino a Yehoshua. La gloria, por tanto, no autoriza a administrar una experiencia de rango; conduce a escuchar al Hijo y a seguirlo hacia la entrega.
+
+## Pendiente de verificar
 
 - [ ] Cotejar los manuscritos de #markos_9_49 y la presencia o ausencia de la cláusula sobre la ofrenda salada antes de preferir una lectura.
 - [ ] Verificar la afirmación de que Codex Bezae respalda la reconstrucción propuesta por la clase y revisar su fecha y valor textual.

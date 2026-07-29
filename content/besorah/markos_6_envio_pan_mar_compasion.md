@@ -140,6 +140,12 @@ En 6:50, **ἐγώ εἰμι** (_egō eimi_, soy yo o yo soy) funciona primero c
 
 Quedan como aplicaciones históricas calificadas —no como datos afirmados por el capítulo— los detalles de prácticas sinagogales, la hospitalidad antigua, el alcance jurídico del _shaliaj_ y los modelos contemporáneos de apostolado. Así, la nota conserva lo concreto de Eric y deja el núcleo comprobable en el orden narrativo: comisión, sobriedad, descanso, enseñanza, pan, auxilio y sanidad.
 
+## Control de la secuencia: del rechazo a la mesa y al mar
+
+La dependencia entre las escenas impide leer el capítulo como una colección de milagros. **(ἐθαύμασεν)**, _ethaumasen_, «se maravilló», registra la respuesta de Yehoshua ante la falta de confianza en Nazaret; después **(ἀποστέλλει)**, _apostellei_, «envía», pone a los Doce bajo una comisión recibida. Cuando regresan, **(ἀναπαύσασθε)**, _anapausasthe_, «descansen», limita la misión por el cuidado del cuerpo; y ante la multitud **(ἐσπλαγχνίσθη)**, _esplagchnisthē_, «fue movido a compasión», conduce a enseñar antes de alimentar. Eric puede resumir esa trayectoria como dependencia y servicio, pero Marcos la prueba por el orden de los verbos, no por una teoría general sobre el oficio del enviado.
+
+La mesa y el mar continúan la misma prueba. **(εὐλόγησεν)**, _eulogēsen_, «bendijo», y **(ἐδίδου)**, _edidou_, «daba o distribuía», distinguen la acción de Yehoshua de la mediación de los discípulos; luego **(ἐγώ εἰμι)**, _egō eimi_, «soy yo» o «yo soy», responde al temor de quienes se esfuerzan contra el viento. La conexión con Tehilim 107:29 ilumina el dominio bíblico sobre las aguas, pero no convierte el salmo en una cita formal. El capítulo termina con **(διεσῴζοντο)**, _diesōzonto_, «eran salvados, preservados o sanados», en las aldeas: la compasión que comenzó con enseñanza y pan alcanza cuerpos concretos, sin que el resultado permita medir la fe individual de cada enfermo.
+
 ## Desarrollo y prueba textual
 
 El capítulo avanza por contrastes que se corrigen mutuamente. En 6:1-6, **ἐσκανδαλίζοντο** (_eskandalizonto_, tropezaban o se ofendían) describe la respuesta de los vecinos ante alguien cuya procedencia creen conocer; en 6:6, **ἐθαύμασεν** (_ethaumasen_, se maravilló) registra la respuesta de Yehoshua ante su falta de emunah. La observación de Eric sobre el oficio atribuido a Yehoshua debe quedar abierta: **τέκτων** (_tektōn_, artesano o constructor) no equivale exactamente a **חורש** (_joresh_, el que ara). El punto seguro de la perícopa es que familiaridad social no produce escucha fiel.
