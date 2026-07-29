@@ -221,6 +221,8 @@ El cierre alcanza a la asamblea encarnada: **תענו את נפשתיכם וכל
 
 ## Conclusión
 
+Vaikra 16 presenta una reconciliación ordenada, no una operación mágica: el sacerdote entra con sangre e incienso, trata la Santidad y el altar, confiesa sobre el macho cabrío vivo, y la asamblea responde con aflicción y reposo. La observación de Eric sobre la unidad de los dos machos cabríos queda apoyada si se mantiene su diferencia funcional: uno participa en la expiación ritual y el otro carga las iniquidades hacia el desierto. La conexión con la vida en la sangre y con Yehoshua puede ser canónica y pedagógica, pero no reemplaza el sentido textual ni autoriza separar reconciliación de obediencia.
+
 ## Control de términos y límites de la lectura — vv. 1-34
 
 Una observación recurrente de Eric es que el acceso a la presencia no puede separarse de la obediencia. Vaikra 16 la confirma mediante una secuencia verificable: **בוא** (_bo_) significa venir o entrar; en **לא יבא** (_lo yavo_, v. 2) su fuerza contextual es prohibir la entrada a la Santidad «en todo tiempo». **קרב** (_qarav_) significa acercarse; en el marco de la muerte de Nadav y Avihú, el verbo señala aproximación al ámbito de יהוה, no una condena general de todo acercamiento. «Acceso espiritual» es una equivalencia pedagógica y aproximada, mientras que la entrada regulada es la afirmación textual exacta.
