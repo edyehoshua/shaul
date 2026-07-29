@@ -198,13 +198,10 @@ La relación con #devarim*30_11-14 debe conservar sus límites. Pablo reutiliza 
 
 Leído en orden, el bloque equilibra iniciativa y respuesta: Elohim realiza la obra mesiánica, acerca el mensaje, envía anunciadores y llama a confesar y creer. **(πιστεύω)**, _pisteuō_, significa creer, confiar o depositar confianza; en #romanos*10_9-10 su fuerza es una respuesta confiada al Mesías resucitado, no una opinión mental aislada. «Creer» es **directo** como glosa básica, pero la conexión con **אמן**, \_aman*, «afirmar, confiar o ser firme», es **aproximada y pedagógica**. La cadena canónica impide tanto el mérito de una hazaña como el determinismo que elimina confesión, escucha y obediencia.
 
-## Cotejo local de Joel y de las afirmaciones de alcance
-
-El corpus local de Escrituras confirma la distinción que la exposición de Eric pone en diálogo con Romanos 10:13. En Joel 3:5 según la numeración hebrea —Joel 2:32 en la numeración habitual— aparece **יִקְרָא**, _yiqra_, «llamará, proclamará o invocará según la construcción», en la cláusula «todo el que invoque el nombre de יהוה»; más adelante aparece **קֹרֵא**, _qore_, «quien llama», con יהוה como sujeto del llamamiento al remanente. La forma fuente y la diferencia de sujeto son **textuales** en el JSON local de Joel; afirmar que ambas acciones son idénticas sigue siendo **inferencial**. La comparación con **(ἐπικαλέω)**, _epikaleō_, «invocar o apelar», en Romanos 10:13 es **aproximada y pedagógica**, no morfológica ni etimológica.
-
-El mismo cotejo limita la atribución: Eric observa que la invocación no debe convertirse en mérito autónomo y relaciona al remanente con el llamado divino; esa observación queda preservada en prosa atribuible. Romanos 10:13, sin embargo, afirma directamente la promesa para quien invoca, y 10:14-17 conserva anuncio, escucha, creencia y envío como movimientos reales. Por eso la prioridad del llamado recibe **apoyo canónico cualificado**, mientras la sintaxis hebrea concreta de Joel no se presenta como una conclusión absoluta.
-
-Las alusiones de 10:19-21 también deben permanecer en su escala. Romanos cita el lenguaje de Mosheh y de Yesha’yahu para explicar celo provocado, hallazgo de quienes no buscaban y resistencia de Israel; el capítulo sí sostiene esa secuencia, pero no demuestra por sí solo una historia completa de las diez tribus ni toda identificación histórica de las naciones. Esas extensiones de la clase quedan **cualificadas e inferenciales**, mientras la palabra extendida y las manos de Elohim ante un pueblo desobediente son **textuales** en la perícopa. El cotejo local sustituye así las preguntas abiertas por límites verificables sin presentar una transcripción automática como cita literal.
+- [ ] Cotejar la sintaxis hebrea completa de Joel 2:32 y su relación con la forma griega de Romanos 10:13 antes de fijar quién es el sujeto de cada acción.
+- [ ] Verificar las formas hebreas citadas en Romanos 10:19-21 con Devarim 32, Yesha’yahu 65 y sus contextos literarios.
+- [ ] Revisar con una edición griega crítica el alcance de **(τέλος)**, **(πίστις)** y **(ῥῆμα)**; las equivalencias de esta nota son contextuales, no definiciones exhaustivas.
+- [ ] Cotejar las afirmaciones históricas de la clase sobre las diez tribus, el segundo templo y la identificación de las naciones con fuentes históricas y bíblicas trazables.
 
 ## Reparación desarrollada: el Mesías como meta y la palabra cercana
 
