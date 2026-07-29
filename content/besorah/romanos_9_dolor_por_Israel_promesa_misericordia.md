@@ -252,6 +252,16 @@ En 9:25-33, **(λεῖμμα)**, _leimma_, significa remanente o resto; **(δι�
 | #romanos_9_19-24                        | La criatura no puede ocupar el lugar del formador para juzgarlo.                | Apoyo textual cualificado: la asimetría es real, pero no agota todas las preguntas de responsabilidad.                   |
 | #romanos_9_25-33                        | Remanente, naciones, justicia y piedra deben leerse juntos.                     | Apoyo textual: el cierre conserva emunah y tropiezo, no una condena étnica indiscriminada.                               |
 
+## Reparación desarrollada: Faraón, propósito y límite de la inferencia
+
+La observación atribuida a Eric en `youtube:atIdZY13b_c` diferencia entre ser utilizado dentro de un propósito histórico y tener demostrada por ello una salvación personal. Romanos 9:17 ofrece el dato preciso: **(ἐγείρω)**, _egeirō_, significa levantar, suscitar o hacer aparecer; en la cita de Éxodo introduce a Faraón dentro del propósito de mostrar el poder de Elohim y anunciar su Nombre en toda la tierra. «Levantar» es una glosa **directa**, mientras concluir desde ese verbo el destino final de Faraón sería **inferencial** y no demostrado por la perícopa.
+
+La respuesta de Pablo debe seguirse en orden. **(ἐλεέω)**, _eleeō_, significa tener misericordia o compadecerse; en 9:15-18 su fuerza contextual presenta la misericordia como acción favorable de Elohim, no como deuda que la criatura pueda reclamar. **(σκληρύνω)**, _sklērynō_, significa endurecer o hacer rígido; la glosa es **directa**, pero el término aislado no resuelve toda la relación entre iniciativa divina, resistencia y responsabilidad. Eric acierta al resistir que una función histórica sea convertida automáticamente en prueba soteriológica; esa cautela no debe transformarse en una teoría completa sobre Faraón que el texto no formula.
+
+En 9:19-24, **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o hallar falta, y **(ἀποκρίνομαι)**, _apokrinomai_, significa responder o replicar. Sus sentidos ordinarios son **directos**; su fuerza contextual conserva la objeción humana y la respuesta del formador. La imagen de **(κεραμεύς)**, _kerameus_, «alfarero», y **(πηλός)**, _pēlos_, «barro o arcilla», es también **directa** en el campo léxico, pero su aplicación doctrinal es **cualificada**: la asimetría entre criatura y formador es textual, mientras deducir una biografía exhaustiva de cada vaso excede la sección.
+
+El cierre de Romanos 9 impide separar propósito y respuesta. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; y **(προσκόπτω)**, _proskoptō_, significa tropezar o chocar contra. En 9:30-33 sus glosas son **directas**, pero la relación de _pistis_ con **(אמונה)**, _emunah_, es **aproximada y pedagógica**, no una sustitución automática. La enseñanza de Eric recibe **apoyo textual** para distinguir utilidad y salvación, **apoyo cualificado** para hablar de misericordia y endurecimiento, y necesita corrección si convierte la soberanía en fatalismo o el tropiezo de Israel en desprecio étnico.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
