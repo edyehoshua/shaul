@@ -321,6 +321,14 @@ La conciencia vuelve a impedir una lectura automática. **(συνείδησις)
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: identidad, fruto y reconciliación]]
 
+## Reparación consolidada: autoridad funcional, amor y vigilancia
+
+La exposición pública de Eric en `youtube:Wvj5LCGsSLw` debe leerse siguiendo la progresión completa de Romanos 13. El foco sobre la sujeción a las autoridades recibe **apoyo textual cualificado** en #romanos_13_1-7: Pablo ordena una relación responsable con el orden público, pero describe a la autoridad por su encargo de servir al bien y castigar lo malo. La observación no autoriza a presentar a ningún gobierno moderno como justo en cada decisión ni a convertir la conciencia en obediencia ciega.
+
+En #romanos_13_5, **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior; su fuerza contextual es que la sujeción no nace solo del temor a la espada, sino de una responsabilidad ante Elohim. «Conciencia» es una glosa **directa**; aplicarla como permiso para convertir toda preferencia privada en ley sería **ilegítimo**. El capítulo mantiene juntos sujeción, tributo, respeto y honra, pero el paso a #romanos_13_8-10 establece el criterio positivo: **(ἀγάπη)**, _agapē_, significa amor o benevolencia comprometida y aquí se prueba en no hacer mal al prójimo. «Amor» es **directo** en el campo normal y **contextual** en su forma ética.
+
+La última unidad no transforma la vigilancia en cálculo profético. **(καιρός)**, _kairos_, significa momento u ocasión decisiva; en #romanos_13_11 llama a despertar porque la salvación está más cerca, no entrega una fecha. «Hora» como calendario detallado sería una inferencia **ilegítima**. **(ἐνδύω)**, _endyō_, significa vestirse o ponerse una prenda; en #romanos_13_12 y 13:14 describe adoptar una conducta visible de luz y revestirse del Señor Yehoshua. La enseñanza atribuible recibe **apoyo textual cualificado** cuando une orden público, amor y sobriedad; Romanos 13 corrige tanto el servilismo como la rebeldía caprichosa.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

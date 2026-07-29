@@ -156,8 +156,6 @@ La conexión con Débora pertenece a la evaluación canónica de la clase, no a 
 
 El orden del capítulo corrige tanto la invisibilización como la sospecha. Pablo pide recibir y sostener a Febe, recuerda una red de mujeres y hombres, y solo después manda observar a quienes producen división contra la enseñanza (#romanos_16_17-20). **(σκοπέω)**, _skopeō_, significa mirar atentamente, observar o vigilar; su fuerza contextual es examinar enseñanza y conducta, no sospechar de todo desacuerdo. La comunidad que forma servidores no depende de una sola personalidad, pero tampoco convierte el reconocimiento afectuoso en suspensión del discernimiento. La doxología devuelve esa estabilidad a Elohim y a la obediencia de la emunah, no a una estructura humana cerrada.
 
-## Pendiente de verificar
-
 ## Observaciones de Eric y evaluación textual ampliada
 
 Eric abre la sesión recordando que el estudio verso a verso deja una plantilla para estudiantes posteriores y que ni siquiera los saludos finales deben tratarse como material secundario. Romanos 16 confirma esa observación: la carta termina nombrando a quienes sirven, hospedan, escriben y reciben, y la doxología lleva esa red concreta hacia la obediencia de las naciones. Es un **apoyo textual directo** para leer la despedida como parte del argumento, no como un apéndice decorativo.
@@ -202,6 +200,14 @@ La doxología fija el resultado. **(ὑπακοή)**, _hypakoē_, significa obed
 - [[romanos_14_acogida_mutua_conciencia_edificacion|Romanos 14: acogida mutua, conciencia y edificación]]
 - [[romanos_15_paciencia_acogida_mision_alabanza|Romanos 15: paciencia, acogida, misión y alabanza]]
 - [[romanos_12_culto_vivo_dones_amor_practico|Romanos 12: culto vivo, dones y amor práctico]]
+
+## Reparación consolidada: recepción, servicio y discernimiento
+
+La observación atribuible a Eric en `youtube:hXBq_VelTJc` sobre el papel de la mujer debe comenzar con el dato que Pablo sí nombra. En #romanos_16_1-2, **(διάκονος)**, _diakonos_, significa servidor, ayudante o ministro según el contexto; aplicado a Febe, «servidora» es una glosa **aproximada y segura** para su relación con la comunidad de Cencrea. **(προστάτις)**, _prostatis_, significa protectora, benefactora o persona que presta apoyo; en 16:2 reconoce la ayuda dada a muchos y a Pablo. La instrucción de recibirla y auxiliarla tiene **apoyo textual directo**; convertir esas formas en una constitución completa de cargos sería **inferencial**.
+
+La lista de saludos confirma que el servicio es una red y no la reputación de una sola persona. **(συνεργός)**, _synergos_, significa colaborador o compañero de trabajo; en #romanos_16_3 y 16:9 presenta labor compartida. **(κοπιάω)**, _kopiaō_, significa trabajar con esfuerzo o fatigarse; en 16:6 y 16:12 reconoce trabajo real sin especificar un oficio técnico. Estas glosas son **directas** en su sentido ordinario; atribuirles una jerarquía posterior sería **aproximado** y no demostrado.
+
+El capítulo conserva el discernimiento junto con la acogida. **(σκοπέω)**, _skopeō_, significa mirar atentamente, observar o vigilar; en #romanos_16_17 pide examinar a quienes causan divisiones contra la enseñanza, no sospechar de todo desacuerdo. **(διχοστασία)**, _dichostasia_, significa división o discordia; «división» es una glosa **directa**, pero aplicarla a cualquier diferencia sería **ilegítimo**. Finalmente, **(ὑπακοὴ πίστεως)**, _hypakoē pisteōs_, significa obediencia de fe o fidelidad; su relación pedagógica con _emunah_ es **aproximada**, no una equivalencia perfecta. La enseñanza pública recibe apoyo cuando une reconocimiento, servicio y prueba doctrinal; toda estructura congregacional queda subordinada al evangelio y a la obediencia que la doxología dirige a las naciones.
 
 ## Créditos
 
