@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-29",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 115,
+  "total_notes_requiring_remediation": 111,
   "notes": [
     {
       "path": "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
@@ -10,7 +10,10 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 84
+      "substantive_words": 84,
+      "thematic_sections": [
+        "reposo y acercamiento"
+      ]
     },
     {
       "path": "content/besorah/tesalonicenses_1_comunidad_testimonio_esperanza.md",
@@ -225,7 +228,7 @@
       "issues": [
         "missing_eric_map"
       ],
-      "substantive_words": 1007,
+      "substantive_words": 1011,
       "thematic_sections": [
         "del estanque a la palabra que levanta",
         "el lecho, el shabat y la obra que no cesa",
@@ -266,10 +269,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 203,
-      "thematic_sections": []
+      "substantive_words": 203
     },
     {
       "path": "content/tanaj/bereshit_37_parashot_2017.md",
@@ -277,10 +279,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 205,
-      "thematic_sections": []
+      "substantive_words": 205
     },
     {
       "path": "content/tanaj/bereshit_47_parashot_2017.md",
@@ -288,10 +289,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 201,
-      "thematic_sections": []
+      "substantive_words": 201
     },
     {
       "path": "content/tanaj/cantar_1_lectura_poetica_y_relacional.md",
@@ -390,26 +390,14 @@
       ]
     },
     {
-      "path": "content/tanaj/devarim_16_parashot_2017.md",
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
-      ],
-      "substantive_words": 201,
-      "thematic_sections": []
-    },
-    {
       "path": "content/tanaj/devarim_29_parashot_2017.md",
       "issues": [
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 201,
-      "thematic_sections": []
+      "substantive_words": 201
     },
     {
       "path": "content/tanaj/ieshaiahu_1.md",
@@ -430,8 +418,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 54,
-      "thematic_sections": []
+      "substantive_words": 54
     },
     {
       "path": "content/tanaj/melajim_alef_2_firmeza_torah_y_reinado.md",
@@ -452,8 +439,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 62,
-      "thematic_sections": []
+      "substantive_words": 62
     },
     {
       "path": "content/tanaj/melajim_alef_7_casa_terminada_y_presencia_velada.md",
@@ -462,20 +448,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 56,
-      "thematic_sections": []
-    },
-    {
-      "path": "content/tanaj/melajim_bet_4_misericordia_provision_y_vida.md",
-      "issues": [
-        "under_300_substantive_words",
-        "missing_eric_map"
-      ],
-      "substantive_words": 133,
-      "thematic_sections": [
-        "provisión y restauración",
-        "conexiones principales"
-      ]
+      "substantive_words": 56
     },
     {
       "path": "content/tanaj/obadias_1_edom_sion_y_justicia.md",
@@ -599,10 +572,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 203,
-      "thematic_sections": []
+      "substantive_words": 203
     },
     {
       "path": "content/tanaj/shemot_13_parashot_2017.md",
@@ -610,10 +582,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 203,
-      "thematic_sections": []
+      "substantive_words": 203
     },
     {
       "path": "content/tanaj/shemot_18_parashot_2017.md",
@@ -621,10 +592,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 201,
-      "thematic_sections": []
+      "substantive_words": 201
     },
     {
       "path": "content/tanaj/shemot_27_parashot_2017.md",
@@ -632,10 +602,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 204,
-      "thematic_sections": []
+      "substantive_words": 204
     },
     {
       "path": "content/tanaj/shemot_35_parashot_2017.md",
@@ -643,10 +612,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 201,
-      "thematic_sections": []
+      "substantive_words": 201
     },
     {
       "path": "content/tanaj/shoftim_11_memoria_y_posesion.md",
@@ -655,18 +623,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 50,
-      "thematic_sections": []
-    },
-    {
-      "path": "content/tanaj/shoftim_13_nazir_y_liberacion.md",
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ],
-      "substantive_words": 48,
-      "thematic_sections": []
+      "substantive_words": 50
     },
     {
       "path": "content/tanaj/tehilim_1_dos_caminos_torah_y_fruto.md",
@@ -699,7 +656,10 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 154
+      "substantive_words": 154,
+      "thematic_sections": [
+        "lectura del capítulo"
+      ]
     },
     {
       "path": "content/tanaj/tehilim_38_lectura_oracion_y_alabanza.md",
@@ -1093,28 +1053,14 @@
       ]
     },
     {
-      "path": "content/tanaj/vaikra_21.md",
-      "issues": [
-        "under_300_substantive_words",
-        "missing_eric_map"
-      ],
-      "substantive_words": 95,
-      "thematic_sections": [
-        "texto tth disponible",
-        "léxico base",
-        "observaciones por pasaje"
-      ]
-    },
-    {
       "path": "content/tanaj/vayikra_14_parashot_2017.md",
       "issues": [
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 201,
-      "thematic_sections": []
+      "substantive_words": 201
     },
     {
       "path": "content/tanaj/vayikra_1_parashot_2017.md",
@@ -1122,10 +1068,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 201,
-      "thematic_sections": []
+      "substantive_words": 201
     },
     {
       "path": "content/tanaj/vayikra_6_parashot_2017.md",
@@ -1133,10 +1078,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 203,
-      "thematic_sections": []
+      "substantive_words": 203
     },
     {
       "path": "content/tanaj/vayikra_9_parashot_2017.md",
@@ -1144,10 +1088,9 @@
         "under_300_substantive_words",
         "insufficient_thematic_development",
         "missing_eric_map",
-        "lectura_inicial_is_not_a_sufficient_development_section"
+        "lectura_only"
       ],
-      "substantive_words": 204,
-      "thematic_sections": []
+      "substantive_words": 204
     },
     {
       "path": "content/tanaj/yeshayahu_1_hijos_de_sion_y_justicia.md",
@@ -1156,8 +1099,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 39,
-      "thematic_sections": []
+      "substantive_words": 39
     },
     {
       "path": "content/tanaj/yeshayahu_40_consolacion_camino_y_confianza.md",
@@ -1166,8 +1108,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 66,
-      "thematic_sections": []
+      "substantive_words": 66
     },
     {
       "path": "content/tanaj/yeshayahu_42_siervo_justicia_y_luz.md",
@@ -1188,8 +1129,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 35,
-      "thematic_sections": []
+      "substantive_words": 35
     },
     {
       "path": "content/tanaj/yeshayahu_6_vision_purificacion_y_envio.md",
@@ -1198,8 +1138,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 62,
-      "thematic_sections": []
+      "substantive_words": 62
     },
     {
       "path": "content/tanaj/yirmeyahu_1_llamado_y_consagracion.md",
@@ -1208,8 +1147,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 59,
-      "thematic_sections": []
+      "substantive_words": 59
     },
     {
       "path": "content/tanaj/yirmeyahu_2_manantial_y_cisternas_rotas.md",
@@ -1218,8 +1156,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 46,
-      "thematic_sections": []
+      "substantive_words": 46
     },
     {
       "path": "content/tanaj/yirmeyahu_34_pacto_libertad_y_responsabilidad.md",
@@ -1228,8 +1165,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 58,
-      "thematic_sections": []
+      "substantive_words": 58
     },
     {
       "path": "content/tanaj/yirmeyahu_46_juicio_a_egipto_y_refugio.md",
@@ -1238,8 +1174,7 @@
         "insufficient_thematic_development",
         "missing_eric_map"
       ],
-      "substantive_words": 65,
-      "thematic_sections": []
+      "substantive_words": 65
     },
     {
       "path": "content/tanaj/zechariah_3_sacerdote_purificacion_y_tzemaj.md",

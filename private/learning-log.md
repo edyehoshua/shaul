@@ -392,3 +392,17 @@
 - Coverage refresh: inventory 958 / covered 928 / pending 30. Remaining pending are almost all missing-transcript, non-expository music/liturgy, or the four yojanan Tehilim items already assigned (`hh75H_Ii_wA`, `hPwnpHmmPBg`, `JFt32TbSL68`, `JxLhysPXd_0`).
 - Load balance: every lane is below the 40 pending-source target, but **no eligible unassigned sources remain** to reassign without taking in-progress work, missing transcripts, non-expository media, or another lane’s canonical notes. No manifest source_group added.
 - Remediation registry fully re-scanned → 115 notes still failing quality (down from 220 after clearing integrated/passing paths).
+
+## 2026-07-29 — integrator cron batch (yojanan / epistles / tanaj)
+
+- Fetch: `feat/eric_youtube` already up to date with origin before integration.
+- Integrated **3** independent validated worker candidates (remediation-first, then owned deepen):
+  1. **yojanan remediation** `bb4f5d0d30` — `melajim_bet_4_misericordia_provision_y_vida.md` (`youtube:JOTEHMcjsZI`), `shoftim_13_nazir_y_liberacion.md` (`youtube:Ax1RiJiDaHY`). Removed mis-attributed `youtube:FqWcvFzBfwI` (efesios Vayerá haftarah) from Melajim note.
+  2. **epistles/colosenses remediation** `46aebbd24d` — `vaikra_21.md` (`youtube:0cue_4anMrY`), `devarim_16_parashot_2017.md` (`youtube:Ytw0rqtCpII`).
+  3. **tanaj deepen** `fc13f8fd1b` — `devarim_31_yehoshua_delante_canto_y_testigo.md` (`youtube:PViAnOhrabk`), `devarim_21_ki_tetze_guerra_hermano_y_praqlit.md` (`youtube:kw0lpuvIXPk`); learning-log conflict dropped (private skip-worktree).
+- Semantic gates: ordered pericopes, Eric observations preserved with assessment, argument-critical Hebrew/Greek explained, unsupported claims pending, Eric maps ≥3, public credits, local OE/TTH, no private transcript paths, no Hebrew slash segmentation.
+- Quality: `check_transcript_note_quality.py` on all six notes → `quality_failures=0`; content-wide `duplicate_source_ids={}`; `notes_missing_visible_credits=[]`.
+- Rejected this run: efesios tip (thin lexical add-on only; optional later), haftarot tip (2-char slash normalize on already-clean notes).
+- Coverage refresh: **927 covered / 31 pending** of 958 (pending +1 from correcting Melajim source attribution). Verse-index rebuild 7518 verses.
+- Remediation re-scan via quality script: **111** notes remaining (was 115).
+- Load balance: all lanes below 40 eligible pending; **0 unassigned eligible sources**; no manifest reassignment.
