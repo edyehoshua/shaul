@@ -95,14 +95,6 @@ Vaikra 16 presenta el yom hakipurim como día de humillación del nefesh, expiac
 | Besorah        | #ivrim_3_1, #ivrim_5_10     | Obra del Mesías y sacerdocio                  | Pendiente de verificar |
 | Besorah        | #sodot_1_13                 | Conexión apocalíptica citada en la nota       | Pendiente de verificar |
 
-## La reconciliación no autoriza separar sangre y obediencia
-
-La exhortación de Eric —no llamar reconciliación a una vida que continúa practicando el pecado— debe evaluarse con el límite correcto. Vaikra 16 sí usa la familia de **(חטא)**, _jata_, «errar o pecar», pero no la emplea para formular una doctrina posterior sobre la perseverancia; ordena que Aharón confiese «todas las iniquidades de los hijos de Israel, y todas sus transgresiones en todos sus pecados» sobre el macho cabrío vivo (#vaikra_16_21). La repetición de «todas» da al gesto una amplitud ritual, mientras el envío muestra que la confesión no queda como una palabra sin consecuencia. «Romper con la práctica» es una aplicación **pedagógica**, no la traducción aislada de **(עון)**, _avon_, o **(פשׁע)**, _pesha_.
-
-La clase también une el rito con «Crea en mí, Elohim, un corazón puro» (#salmos_51_12). Ese puente es canónico y pastoral, pero el salmo no debe reemplazar la escena sacerdotal. En el propio capítulo, la pureza se expresa mediante **(טהר)**, _taher_, «estar limpio o purificar», y mediante acciones observables: entrar con vestiduras de lino, rociar la sangre en el orden indicado, confesar, enviar, lavar y guardar el reposo. «Corazón puro» es una equivalencia teológica **aproximada** para la aplicación de Eric; la fuerza inmediata de _taher_ es la purificación declarada en el marco del culto.
-
-La relación con Pésaj tampoco borra las fechas. Eric presenta la sangre, el pan sin levadura y la copa como un puente hacia la obra de Yehoshua; esa lectura puede conservarse como conexión mesiánica. Pero Vaikra 16 dice «en el mes séptimo, el décimo del mes» (#vaikra_16_29), mientras Pésaj pertenece a la primera luna según #vaikra_23_5–8. La semejanza teológica no convierte ambas convocaciones en una misma fiesta. Esta precisión protege la observación central de la clase: sangre y remoción están unidas por la reconciliación, pero cada rito conserva su tiempo, sujeto y acción.
-
 ## Pendiente de verificar
 
 - [ ] Matiz de TTH “afligir sus gargantas” frente a lectura estándar “afligir sus nefesh”.
