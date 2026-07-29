@@ -134,6 +134,14 @@ El resultado protege los dos bordes del capítulo. La Torah no es la promesa: ll
 
 ## Pendiente de verificar
 
+## Control de evidencia de las partes 7 y 9
+
+Las fuentes asignadas `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E` no tienen transcripción local disponible. El primer video se acredita públicamente como «La carta a los gálatas Parte 7 - Cap 3:10-14: La “maldición” de la Ley» y el segundo como «La carta a los gálatas parte 9: El Mediador y la Ley». Por tanto, es **exacto** atribuir a Eric esos títulos, sus URL públicas y el alcance anunciado; es **ilegítimo** reconstruir frases o argumentos particulares que no estén documentados.
+
+El control canónico sí puede seguirse en orden. En #galatians_3_10-14, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual recae sobre quien no permanece en todo lo escrito. «Maldito» es una glosa **directa**, mientras «excluido» sería **aproximado y pedagógico**. **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, rescatar o liberar mediante adquisición; «redimir» es **aproximado**, pues expresa liberación sin resolver por sí solo un modelo completo de rescate. El propósito explícito de 3:14 es que la bendición de Abraham llegue a las naciones y que reciban la promesa del Ruaj.
+
+En #galatians_3_19-25, **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; en 3:19-20 nombra la figura vinculada con la entrega de la Torah. La glosa es **directa en el sentido ordinario**, pero su alcance teológico es **cualificado**: el sustantivo no identifica por sí solo todas las partes ni permite reconstruir la clase. **(παιδαγωγός)**, _paidagōgos_, significa tutor o acompañante de un menor; en 3:24 describe una custodia orientada hacia el Mesías. «Pedagogo» es **aproximado** y «carcelero» sería una paráfrasis **pedagógica demasiado fuerte**. Así se conserva el foco visible de Eric y se deja que Galatim evalúe la relación entre promesa, Torah y Mesías.
+
 ## Reparación: gracia, mérito y la promesa que precede
 
 En `youtube:Wqc4npxxCPE`, aproximadamente entre 00:00:50 y 00:03:17, Eric vuelve a leer Galatim 2:15-21 antes de entrar en el capítulo 3. Su observación concreta es que buscar justificación por obras de ley convierte la gracia en algo innecesario: si la justicia proviniera de una ley, el Mesías habría muerto «de más». Entre 00:03:45 y 00:05:24, explica la pregunta de si el Mesías sería «servidor del pecado» como una acusación del sistema de mérito, no como una conclusión del texto. Se conserva la línea argumental de la clase en prosa atribuible, no como transcripción literal.
