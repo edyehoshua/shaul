@@ -95,6 +95,31 @@ La clase de `youtube:5yDcBBBWTkY` relaciona identidad —Adam, _ish_ y _yehudí_
 
 Por tanto, el patrón canónico de Romanos 1 es: promesa, evangelio, poder salvador, justicia revelada, verdad resistida y responsabilidad. El texto apoya **directamente** el centro del anuncio y el intercambio que denuncia; las relaciones hebreas y las aplicaciones históricas son **aproximadas o cualificadas** hasta contar con evidencia adicional. Romanos 1 prepara el juicio de Romanos 2, de modo que ninguna observación de la exposición puede usarse como plataforma de superioridad.
 
+## Estudio desarrollado: del anuncio del Hijo a la responsabilidad humana
+
+La secuencia de las tres clases debe conservar el movimiento interno de Romanos 1. La primera fuente pública, `youtube:VwtpBX1Q444`, introduce a Pablo como apartado para el evangelio prometido; la segunda, `youtube:XpT2I9DGotI`, sigue el evangelio como poder salvador y justicia revelada; la tercera, `youtube:5yDcBBBWTkY`, acerca el intercambio de la gloria al juicio que comenzará en Romanos 2. Eric presenta ese recorrido como una llamada a confesar la propia responsabilidad y no como una plataforma para condenar a otro grupo. Esa observación se conserva en prosa atribuible, no como cita literal: el texto apoya directamente el anuncio y la responsabilidad, y cualifica las aplicaciones históricas o identitarias.
+
+En #romanos_1_1-7, **(δοῦλος)**, _doulos_, significa esclavo, siervo o persona bajo autoridad; en el saludo presenta a Pablo como perteneciente al Mesías y no como propietario del evangelio. «Siervo» es una traducción **aproximada**, porque el término conserva una relación de dependencia más fuerte que una función profesional moderna. **(ἀφορίζω)**, _aphorizō_, significa separar, apartar o delimitar; su fuerza contextual es el apartamiento de Pablo para la buena noticia. «Apartado» es **directo** en el campo normal; relacionarlo con **פרש**, _parash_, «separar o explicar», es una analogía **pedagógica**, no una equivalencia lingüística demostrada.
+
+En #romanos_1_8-17, Pablo pasa de la acción de gracias a su deseo de anunciar en Roma. **(εὐαγγέλιον)**, _euangelion_, significa buena noticia, anuncio favorable o proclamación; aquí nombra el mensaje prometido por medio de los profetas y centrado en el Hijo. «Evangelio» es **directo** en su campo ordinario. **(δύναμις)**, _dynamis_, significa poder, capacidad o fuerza eficaz; en 1:16 su fuerza es la eficacia salvadora de Elohim para todo creyente, primero judío y también griego, no una garantía de señales visibles. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; en 1:17 nombra la justicia que Elohim revela y pone en relación con la vida del justo. «Justicia» es **directa**, aunque su alcance teológico exige seguir Romanos 1–3.
+
+En #romanos_1_18-32, la revelación de justicia queda acompañada por la manifestación de la ira contra la impiedad y la injusticia que retienen la verdad. **(κατέχω)**, _katechō_, significa retener, sujetar o impedir; en 1:18 describe una resistencia culpable a la verdad. «Suprimir» es **aproximado y contextual**: el verbo no cuantifica por sí solo el grado de conocimiento de cada persona. **(ἀναπολόγητος)**, _anapologētos_, significa sin defensa o sin excusa; su fuerza es forense en 1:20, pero no permite borrar las diferencias de conciencia y acceso que la carta desarrollará después.
+
+El intercambio de la gloria por imágenes y de la verdad por la mentira también debe seguir su propio vocabulario. **(μεταλλάσσω)**, _metallassō_, significa cambiar o intercambiar; en 1:23-25 describe el desplazamiento culpable que Pablo denuncia. **(δόξα)**, _doxa_, significa gloria, honor o esplendor; aquí designa el honor debido al Creador, no simplemente una emoción religiosa. Ambas glosas son **directas** en el campo básico; identificar cada práctica cultural moderna con ellas sería **inferencial**. La enseñanza atribuible de Eric recibe, por tanto, apoyo textual cualificado: el evangelio anuncia salvación y la denuncia de la idolatría alcanza al intérprete mismo, de modo que Romanos 1 prepara el juicio imparcial de Romanos 2.
+
+## Hoja léxica
+
+| Forma fuente       | Transliteración | Sentido ordinario               | Fuerza contextual                                      | Calificación                                                            |
+| ------------------ | --------------- | ------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------- |
+| **(δοῦλος)**       | _doulos_        | esclavo, siervo, subordinado    | Pablo pertenece al Mesías y sirve al evangelio.        | «Siervo» es aproximado; conserva dependencia y autoridad.               |
+| **(ἀφορίζω)**      | _aphorizō_      | separar, apartar, delimitar     | Apartamiento para la buena noticia prometida.          | Directa en el campo básico; relación con _parash_ pedagógica.           |
+| **(εὐαγγέλιον)**   | _euangelion_    | buena noticia, anuncio          | Mensaje prometido y centrado en el Hijo.               | Directa en el argumento; alcance doctrinal canónico.                    |
+| **(δύναμις)**      | _dynamis_       | poder, capacidad, fuerza eficaz | El evangelio actúa para salvación de judío y griego.   | Directa; reducirla a milagros visibles sería ilegítimo.                 |
+| **(δικαιοσύνη)**   | _dikaiosynē_    | justicia, rectitud              | Justicia de Elohim revelada en el evangelio.           | Directa en el campo; alcance teológico contextual.                      |
+| **(κατέχω)**       | _katechō_       | retener, sujetar, impedir       | La injusticia contiene culpablemente la verdad.        | Aproximada como «suprimir»; el grado de conocimiento queda cualificado. |
+| **(μεταλλάσσω)**   | _metallassō_    | cambiar, intercambiar           | Intercambio de gloria y verdad por imágenes y mentira. | Directa; aplicación cultural amplia sería inferencial.                  |
+| **(ἀναπολόγητος)** | _anapologētos_  | sin defensa, sin excusa         | Responsabilidad ante lo manifestado en la creación.    | Directa en sentido forense; no elimina el desarrollo de Romanos 2.      |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar los términos griegos relevantes de Romanos 1 con léxicos y la sintaxis del pasaje.
