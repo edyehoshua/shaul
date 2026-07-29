@@ -87,6 +87,14 @@ Esta tensión también ilumina Bamidbar 19. Allí **זאת חקת התורה**, 
 
 Por eso la clase puede hablar de refinamiento sin convertir cada prueba en una definición de _nasah_. En Bamidbar 20 la sed revela la vulnerabilidad del pueblo y la conducta del liderazgo, pero el texto no dice que יהוה ignorara el resultado. La evaluación más segura sigue el orden: muerte e impureza, decreto de purificación, duelo y sed, palabra de provisión, acción defectuosa, sentencia, sucesión de Aharón. La santidad se ve cuando la comunidad recibe la provisión y cuando sus ministros se someten a la palabra que deben transmitir.
 
+## La petición a Edom y el límite de una lectura triunfalista
+
+Antes de la muerte de Aharón, Mosheh envía mensajeros al rey de Edom. La memoria de Egipto se formula con verbos concretos: Israel descendió, clamó y יהוה oyó y envió un mensajero. **(צעק)**, _tsa‘aq_, significa clamar o gritar pidiendo auxilio; aquí recuerda una aflicción histórica, no una contraseña para obligar a Edom. **(שמע)**, _shama‘_, significa oír o escuchar; en la frase «oyó nuestra voz» señala la respuesta de יהוה al clamor, mientras que en 20:10 el imperativo a la asamblea exige atención a la palabra presente.
+
+La solicitud promete no pasar por campo, viña o pozo, y pagar el agua. **(כרם)**, _kerem_, es viña; **(באר)**, _be'er_, pozo; ambos términos dan contenido económico y territorial a la promesa. La equivalencia «no tomaremos nada» es pedagógica si se entiende como resumen, pero el texto especifica qué no harán. Cuando Edom rehúsa y sale armado, Israel se aparta. Eric puede usar la escena para hablar de oposición sin concluir que toda retirada sea derrota: la perícopa conserva una obediencia prudente a la ruta y reserva el juicio de la falta de Mosheh y Aharón para la representación ante la peña.
+
+Esta secuencia también protege la lectura de «La Roca». El título público destaca la provisión, y 20:8–11 sí muestra que salió agua; sin embargo, la palabra de יהוה no autoriza a convertir la provisión en triunfo humano. **(עבר)**, _avar_, significa pasar o atravesar; su forma narrativa en la petición a Edom describe el trayecto que Israel solicita, no una promesa de conquistar al vecino. La equivalencia «avanzar» es aproximada. La roca provee, el pueblo pide, Edom responde y la congregación se aparta: cada actor conserva su lugar en la narración.
+
 ## Léxico clave
 
 | Forma        | Transliteración | Sentido normal y forma         | Fuerza contextual                                                             | Equivalencia                                                   |

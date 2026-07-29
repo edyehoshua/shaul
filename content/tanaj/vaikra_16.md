@@ -94,6 +94,14 @@ Eric relaciona esta humillación con un corazón purificado y con la esperanza d
 
 El cierre repite **(שבת שבתון)**, _Shabbat Shabbaton_, «reposo de reposos» o reposo solemne, y ordena hacerlo una vez al año (#vaikra_16_31, 34). **(חקת עולם)**, _juqqat olam_, es un estatuto permanente; «para siempre» es aproximado y debe leerse dentro de la fórmula cultual del capítulo. El sacerdote ungido que «ha llenado su mano» para servir en lugar de su padre (#vaikra_16_32) recibe vestiduras de lino, no una licencia para entrar cuando quiera. **(משח)**, _mashaj_, significa ungir; «Mesías» es una relación teológica y etimológica aproximada, no el sentido completo de la forma verbal en este versículo.
 
+## 6. La salida del sacerdote completa el rito
+
+Los vv. 23–28 impiden detener la lectura en la entrada de Aharón o en la confesión sobre el segundo macho cabrío. Aharón sale de la Tienda, se quita las vestiduras de lino, se baña y se viste de nuevo; después ofrece sus holocaustos y los del pueblo. **(פשט)**, _pashat_, significa quitar, desvestir o extender; aquí su fuerza contextual es quitar las vestiduras del servicio interior, no «despojarse» como metáfora de una experiencia espiritual. **(רחץ)**, _rajats_, significa lavar o bañarse; la equivalencia «purificarse» es contextual y no reemplaza la acción corporal descrita.
+
+Eric presenta la reconciliación como una obra que debe alcanzar la vida del pueblo y no quedarse en un símbolo aislado. El orden textual permite esa aplicación en un sentido limitado: el sacerdote trata la Santidad, la Tienda y el altar, envía el macho cabrío, cambia de vestiduras, se lava y termina con ofrendas. Pero el texto también conserva una frontera: los vv. 26–28 declaran impuro al que conduce el macho cabrío y al que quema los restos hasta que laven sus vestidos. **(כבס)**, _kavas_, significa lavar; «quitar la culpa interior» sería pedagógico, no una traducción del verbo. La reconciliación del capítulo no elimina la necesidad de obedecer el procedimiento.
+
+Así, la frase real de la clase sobre que «la una sin la otra no tiene sentido» gana una precisión adicional. La sangre y el envío pertenecen al mismo día y a la misma reconciliación, pero no son acciones intercambiables: una trata el espacio santo y la otra lleva las iniquidades al desierto; luego ambas quedan integradas en el reposo y la humillación de la asamblea. Esta lectura conserva la observación de Eric y la evalúa sin hacer que una imagen mesiánica sea el significado exclusivo de **(שעיר)**, _se‘ir_, «macho cabrío» o animal peludo.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal y forma                   | Fuerza contextual                             | Equivalencia                                          |
