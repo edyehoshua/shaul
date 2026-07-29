@@ -201,6 +201,14 @@ El cierre mantiene el propósito comunitario. **(μυστήριον)**, _mystēr
 
 Colosenses 1 une la identidad recibida en el Mesías con una vida de emunah, amor, fruto, resistencia y gratitud. La oración de Pablo no separa conocimiento y caminar, y el himno no separa la primacía de Yehoshua de la reconciliación que anuncia. El cierre vuelve esa proclamación personal y comunitaria: quienes fueron alienados son reconciliados para ser presentados ante él y llamados a permanecer en la esperanza del evangelio.
 
+## Reparación focal: conocimiento anunciado y madurez de toda persona
+
+La sesión pública `youtube:x2w72oTT-rY` presenta el misterio revelado como una responsabilidad de anuncio y formación, no como una contraseña para una élite. Esa observación de Eric se conserva como paráfrasis atribuible y se contrasta con el orden de #colossians_1_26-29: lo antes oculto es manifestado a los santos, se anuncia a toda persona, se amonesta y se enseña con toda sabiduría, y la meta es presentar a toda persona madura en Yehoshua. El texto respalda el carácter público y comunitario del misterio; las extensiones de la clase sobre estructuras de conocimiento quedan cualificadas.
+
+**(μυστήριον)**, _mystērion_, significa secreto o realidad antes oculta; en 1:26 su fuerza contextual es una verdad que ahora se revela, no un acertijo reservado a iniciados. «Misterio» es una glosa **directa**, mientras identificarlo con una categoría hebrea específica es **aproximado y pedagógico**. **(καταγγέλλω)**, _katangellō_, significa anunciar o proclamar públicamente; **(νουθετέω)**, _noutheteō_, significa amonestar, advertir o instruir; y **(διδάσκω)**, _didaskō_, significa enseñar. Las tres formas describen una práctica visible de la comunidad, no una autoridad privada del expositor ni una técnica de control espiritual.
+
+La meta se expresa con **(τέλειος)**, _teleios_, que significa completo, maduro o íntegro. En #colossians_1_28 su fuerza contextual es madurez en el Mesías, no perfección autosuficiente ni uniformidad cultural. La frase «toda persona» limita cualquier lectura elitista: el anuncio se dirige a cada persona y la enseñanza busca formar a la comunidad entera. Eric acierta al unir misterio, servicio y madurez; la evaluación es **textual y cualificada** cuando la aplicación de la clase va más allá de esta secuencia y atribuye al pasaje una teoría completa sobre censura, instituciones o grupos contemporáneos.
+
 ## Ver también
 
 - [[tesalonicenses_2_verdad_enganio_firmeza|2 Tesalonicenses 2: verdad, engaño y firmeza]]
