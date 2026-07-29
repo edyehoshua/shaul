@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 863,
-  "pending_videos": 95,
-  "transcript_notes": 424,
+  "covered_videos": 865,
+  "pending_videos": 93,
+  "transcript_notes": 426,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -208,12 +208,12 @@
     },
     "Tehilim 119 y salmos restantes sin asignar (grupo coherente)": {
       "total": 38,
-      "covered": 30,
+      "covered": 32,
       "lane": "yojanan"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 155,
+      "covered": 157,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
