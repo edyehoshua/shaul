@@ -9,10 +9,16 @@ references:
   - "#bereshit_41_1"
 sources:
   - "https://www.youtube.com/watch?v=Ohs6ntTFAL4"
+  - "https://www.youtube.com/watch?v=sdJBSJjFIns"
   - "docs/scriptures/oe/json/genesis/41.json"
+  - "docs/scriptures/oe/json/genesis/42.json"
+  - "docs/scriptures/oe/json/genesis/43.json"
+  - "docs/scriptures/oe/json/genesis/44.json"
+  - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
   - "youtube:Ohs6ntTFAL4"
-translation: "[OE]"
+  - "youtube:sdJBSJjFIns"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -25,8 +31,8 @@ Esta es la nota canónica para Bereshit 41 dentro de esta incorporación. La tra
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo local (OE, sin nikud)                            | Observación                                                                                           |
-| -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Referencia     | Hebreo local (OE, sin nikud)                       | Observación                                                                                           |
+| -------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | #bereshit_41_1 | **ויהי מקץ שנתים ימים ופרעה חלם והנה עמד על היאר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
@@ -66,17 +72,51 @@ Yehudá transforma su palabra en compromiso: «Yo seré responsable de él» (#b
 | **(ערב)** | _arav_          | garantizar, responder | Responsabilidad por Binyamín  | «Redimir» no es exacta  |
 | **(תחת)** | _tajat_         | debajo, en lugar de   | Sustitución de Yehudá         | «Vicario» es pedagógica |
 
+## La sabiduría se prueba por el pan que preserva
+
+La exposición de Eric relaciona la sabiduría con la misericordia y la administración; Bereshit 41 permite probar esa relación en la secuencia que sigue al nombramiento de Iosef. Faraón reconoce: «No hay entendido ni sabio como tú» (#bereshit_41_39), pero el texto no deja la sabiduría en el elogio. En 41:47–49 la tierra produce abundantemente y Iosef reúne el alimento «como la arena del mar». **(רבה)**, _ravah_, significa aumentar o hacerse grande; aquí describe la abundancia concreta de los años buenos, no una promesa de prosperidad individual permanente. **(קבץ)**, _qavats_, significa reunir o recoger; su fuerza contextual es organizar el excedente para la crisis anunciada.
+
+La segunda mitad del plan confirma su propósito y también introduce un límite crítico. En 41:55 Faraón dice: «Id a Iosef; haced lo que él os diga», y en 41:57 «de todos los países venían a Mitzráim a Iosef para comprar grano». **(שבר)**, _shavar_, puede significar comprar grano o vender provisiones según la forma y el contexto; aquí participa del campo de adquirir alimento durante la escasez. «Misericordia» resume pedagógicamente el efecto preservador, pero el capítulo no afirma que cada decisión económica de Iosef sea moralmente neutral: en 47:13–26 la concentración de recursos y tierras requiere una evaluación separada. La observación de Eric queda mejor sostenida si la administración se juzga por la vida que salva sin adelantar al capítulo una aprobación total del sistema.
+
+El orden narrativo preserva además la memoria de la familia. Antes de que lleguen los hermanos, Iosef nombra a Menashé porque Elohim le hizo olvidar su aflicción y fructificar en la tierra de su aflicción (#bereshit_41_51–52). **(נשׁה)**, _nashah_, significa hacer olvidar o dejar en olvido; aquí no significa borrar mágicamente la historia, pues la llegada de los hermanos la reactiva. **(פרה)**, _parah_, significa dar fruto o ser fecundo; «éxito» es una equivalencia aproximada y más estrecha. La misericordia del capítulo no elimina la herida: sostiene una vida capaz de alimentar a otros mientras la verdad familiar todavía espera ser confrontada.
+
 ## Recorrido textual y evaluación de la enseñanza
 
 El capítulo no presenta la administración como una virtud autónoma. El sueño comienza con Faraón junto al río: «y he aquí que estaba sobre el río» (#bereshit_41_1). En la economía narrativa, el Nilo es el escenario de la abundancia que el rey cree controlar, pero la repetición de «Elohim ha mostrado a Faraón lo que va a hacer» (#bereshit_41_28) desplaza la fuente de conocimiento al Elohim de Israel. La observación de Eric sobre sabiduría práctica es, por tanto, sólida cuando sigue la respuesta de Iosef; sería excesiva si transformara el éxito de Iosef en una garantía de que toda centralización humana es justa.
 
 La palabra de Iosef mantiene esa tensión. El OE conserva: «no está en mí; Elohim responderá el shalom de Faraón» (#bereshit_41_16), y el TTH expresa: «no está en mí; Elohim responderá para el bienestar de Faraón». **(ענה)**, _anah_, es responder o contestar; aquí no es simplemente «tener una opinión», sino dar una respuesta pertinente ante una crisis. **(ראה)**, _raah_, ver o percibir, aparece en la afirmación de que Faraón ha visto el sueño y en la lectura divina de lo que ocurrirá. La equivalencia «revelar» es aproximada: el verbo común es ver, mientras que el contexto atribuye a Elohim la interpretación.
 
+Hay un segundo movimiento que la lectura de Eric debe conservar: Iosef no sólo interpreta, sino que discierne el tiempo y propone una respuesta. El TTH resume 41:33 como la búsqueda de «un hombre entendido y sabio», y el OE añade **איש נבון וחכם**. **(נבון)**, _navon_, significa entendido o discernidor; su fuerza aquí es captar relaciones y consecuencias, no acumular información. **(חכם)**, _jajam_, significa sabio o hábil; en esta perícopa describe competencia para ordenar una tarea pública. «Visionario» sería una equivalencia pedagógica, pero desplazaría el énfasis desde el discernimiento práctico. La propuesta de Iosef queda sometida a la finalidad del texto: «que la tierra no perezca por el hambre» (#bereshit_41_36). La sabiduría se evalúa por la vida que preserva, no por el prestigio del administrador.
+
 En #bereshit_41_33-36, Iosef pasa de explicar a proponer: seleccionar un hombre «entendido y sabio», establecer supervisores y guardar la quinta parte durante los años buenos. **(פקד)**, _paqad_, visitar, encargar o poner a cargo, tiene aquí fuerza administrativa; «controlar» es una equivalencia pedagógica demasiado estrecha. El texto justifica el almacenamiento por la futura escasez: no se trata de acumular por prestigio, sino de que «la tierra no perezca por el hambre» (#bereshit_41_36). Esta es la prueba textual de la misericordia: el plan se juzga por la preservación de vidas, aunque el capítulo no resuelva todas las preguntas sobre impuestos, poder o distribución.
 
 La memoria de la violencia se vuelve explícita en el siguiente tramo. Los hermanos dicen: «ciertamente hemos sido culpables acerca de nuestro hermano» (#bereshit_42_21), y la palabra de Iosef «vosotros sois espías» (#bereshit_42_9) crea una prueba que les hace recordar. Eric acierta al conectar «hablar el asunto difícil» con responsabilidad, pero la escena también impide llamar reconciliación a cualquier confrontación. Iosef todavía retiene a Shimón y exige a Binyamín; el reconocimiento del pecado es un comienzo, no el final.
 
 El movimiento de Yehudá ofrece el cierre ético de la unidad. «Yo seré fiador de él; de mi mano lo demandarás» (#bereshit_43_9) y «permita ahora tu siervo quedarse en lugar del joven» (#bereshit_44_33). **(דרש)**, _darash_, buscar o requerir, en «de mi mano lo demandarás», hace visible que la responsabilidad tiene consecuencias; **(עבד)**, _eved_, siervo, describe la condición que Yehudá acepta, no una metáfora de autosuperación. La clase puede hablar de misericordia porque el poderoso puede soltar al vulnerable, pero el texto la construye mediante confesión, garantía y costo asumido. La lectura más fiel conserva el orden: revelación, administración, prueba, confesión y ofrecimiento.
+
+Este orden también evita una simplificación frecuente de la misericordia. En 44:18 Yehudá se acerca y pide ser oído; **(נא)**, _na_, es una partícula de ruego o cortesía, y su equivalencia «por favor» es aproximada. No elimina la desigualdad de la escena ni convierte automáticamente el discurso en reconciliación. La fuerza contextual está en que el subordinado habla con verdad ante el gobernante, reconstruye la historia del padre y del hermano, y ofrece una sustitución concreta. La exposición de Eric acierta al poner la palabra difícil junto a la misericordia cuando no separa compasión de responsabilidad. El capítulo deja el desenlace pendiente, de modo que el lector debe reconocer arrepentimiento y garantía antes de declarar restaurada la familia.
+
+## La interpretación no termina en la explicación
+
+La secuencia de Bereshit 41:14-36 muestra que Iosef no convierte el sueño en espectáculo. Faraón lo llama, Iosef se afeita, cambia sus vestidos y entra ante el rey; la narración conserva la urgencia pública y no describe una preparación ritual de Iosef. **(חלם)**, _jalam_, significa soñar; aquí nombra la experiencia nocturna de Faraón, no una autorización para que cualquier sueño gobierne la comunidad. **(פתר)**, _patar_, significa interpretar o abrir una explicación; su fuerza contextual es hacer inteligible el sueño dentro de la revelación que Elohim está dando. «Profetizar» sería una ampliación: la forma verbal no contiene por sí sola toda esa categoría.
+
+Iosef repite dos veces que la respuesta no procede de él: «No está en mí; Elohim responderá el bienestar de Faraón» (#bereshit_41_16), y «lo que Elohim va a hacer lo ha mostrado a Faraón» (#bereshit_41_28). **(בלע)**, _bala‘_, significa tragar o consumir; en la imagen de las vacas y las espigas describe cómo los años de hambre absorben la abundancia anterior. El verbo hace visible la severidad de la crisis, pero no convierte las vacas en símbolos libres de la explicación dada por Iosef. Eric acierta al relacionar sabiduría con una palabra difícil cuando la palabra deja de ser adivinanza y se vuelve advertencia responsable.
+
+El plan también tiene límites textuales. **(חמש)**, _jamesh_, significa poner una quinta parte o disponer en proporción de cinco; en 41:34 la propuesta de recoger una quinta parte durante los años de abundancia es una medida concreta para aquella crisis. «Diezmo» no es una equivalencia exacta: el texto no usa aquí el lenguaje de diez por ciento ni establece una mitzvah general. **(בר)**, _bar_, significa grano o cereal; su almacenamiento preserva alimento real. La misericordia que la clase asocia con la administración debe por tanto medirse por el fin declarado: que la tierra no sea consumida por el hambre, no por el tamaño del tesoro.
+
+El narrador deja que la provisión y la vulnerabilidad convivan. Durante los años buenos Iosef reúne «como la arena del mar» y deja de contar porque no había número (#bereshit_41_49); durante los años malos «hubo hambre en todos los países» (#bereshit_41_54). **(כלה)**, _kalah_, significa terminar, consumirse o acabar; su fuerza contextual describe la escasez cuando ya no hay alimento ordinario. El capítulo no permite espiritualizar el hambre hasta hacerla una simple metáfora de falta interior. La lectura de Eric queda mejor anclada cuando habla de misericordia ante una necesidad corporal, mientras reserva la evaluación de la política de compra y concentración para Bereshit 47.
+
+## El sueño se convierte en una responsabilidad pública
+
+El recorrido de Bereshit 41 empieza antes de la propuesta administrativa. Faraón ve siete vacas hermosas y siete espigas llenas, seguidas por vacas y espigas consumidas; la repetición indica que el asunto está establecido, pero no entrega por sí misma la respuesta. Cuando Iosef dice que la solución no está en él, la clase de Eric queda protegida de una lectura de autosuficiencia: el intérprete recibe el don, pero el gobernante debe responder a una advertencia que afecta a toda la tierra.
+
+En 41:33 Iosef dice: «Ahora, mire Faraón un hombre sabio e inteligente, y ponlo sobre la tierra de Mitzráim». **(ראה)**, _re'eh_, es la forma imperativa de «ver» o «considerar»; aquí pide que Faraón examine una propuesta, no que admire una visión religiosa. **(נבון)**, _navon_, significa entendido o discernidor; **(חכם)**, _jajam_, sabio o hábil. «Estratega» es una equivalencia **pedagógica**, porque el texto habla de discernimiento y sabiduría, mientras la aplicación administrativa se desprende de los verbos que siguen.
+
+El objetivo aparece en 41:36: «Y sea la comida para depósito para la tierra por los siete años del hambre ... y no sea reducida la tierra en el hambre». **(אכל)**, _okhel_, es comida o alimento; **(פקד)**, _paqad_, en la propuesta de poner supervisores, expresa encargar, visitar o poner a cargo. «Controlar» es demasiado estrecho; la fuerza contextual es organizar una tarea confiada. La sabiduría que Eric relaciona con misericordia queda así evaluada por el fin declarado: que la tierra no perezca, no por el brillo del cargo.
+
+La respuesta de Faraón reconoce el resultado: «¿Acaso encontraremos como este hombre, en quien está el espíritu de Elohim?» (41:38). **(רוח)**, _ruaj_, significa viento, aliento o espíritu; «inspiración» es **aproximada** y **pedagógica** aquí. La frase no autoriza a convertir cada capacidad política en prueba de una investidura divina; en el relato señala que Faraón percibe una diferencia en Iosef después de haber oído la interpretación y el plan. La clase puede hablar de sabiduría dada por Elohim, pero el texto mantiene esa afirmación dentro de esta escena concreta.
+
+La administración alcanza a los hambrientos. «Tuvieron hambre en toda la tierra de Mitzráim ... Vayan a Iosef, lo que él les diga a ustedes, hagan» (41:55). **(רעב)**, _ra'av_, significa hambre; no es solo una imagen espiritual de carencia. **(שבר)**, _shever_, se relaciona con grano o provisión de alimento; según la construcción, el campo semántico incluye comprar y distribuir grano. «Misericordia» resume pedagógicamente el efecto preservador, pero el capítulo 41 no resuelve todavía la evaluación completa de la política económica que se narra después. La nota conserva la observación de Eric y limita su alcance: una autoridad se prueba por cómo responde al hambre real y por si reconoce que el don no le pertenece.
 
 ## Pendiente de verificar
 

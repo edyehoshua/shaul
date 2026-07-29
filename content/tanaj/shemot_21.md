@@ -17,10 +17,16 @@ references:
   - "#shemot_21_30"
 sources:
   - "https://www.youtube.com/watch?v=E6KrU1gAZds"
+  - "https://www.youtube.com/watch?v=i0kaIhPMHZ8"
   - "docs/scriptures/oe/json/exodus/21.json"
+  - "docs/scriptures/oe/json/exodus/22.json"
+  - "docs/scriptures/oe/json/exodus/23.json"
+  - "docs/scriptures/oe/json/exodus/24.json"
+  - "docs/scriptures/tth/json/shemot.json"
 source_ids:
   - "youtube:E6KrU1gAZds"
-translation: []
+  - "youtube:i0kaIhPMHZ8"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -41,8 +47,8 @@ La fuente de trabajo es una clase de la serie «613 mitzvot» que trata las mitz
 
 | Referencia    | Hebreo local (OE)                                                                                      | Observación                                                                                                                      |
 | ------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| #shemot_21_1  | ואלה המשפטים אשר תשים לפניהם                                                                       | El capítulo abre con _mishpatim_: procedimientos o juicios puestos delante del pueblo.                                           |
-| #shemot_21_16 | וגנב איש ומכרו ונמצא בידו מות יומת                                                               | El texto nombra el rapto y la venta de una persona; la nota no añade aquí un método de ejecución que el versículo no especifica. |
+| #shemot_21_1  | ואלה המשפטים אשר תשים לפניהם                                                                           | El capítulo abre con _mishpatim_: procedimientos o juicios puestos delante del pueblo.                                           |
+| #shemot_21_16 | וגנב איש ומכרו ונמצא בידו מות יומת                                                                     | El texto nombra el rapto y la venta de una persona; la nota no añade aquí un método de ejecución que el versículo no especifica. |
 | #shemot_21_30 | Si un rescate se impone sobre él dará redención de su vida conforme a todo lo que se imponga sobre él. | El TTH local ofrece un anclaje para _kofer_ y _pidion_ en el mismo capítulo.                                                     |
 
 ## Conceptos importantes
@@ -121,6 +127,28 @@ En 21:12–14 el texto distingue el homicidio deliberado del golpe no premeditad
 El v. 16 describe: «el que hurtare un hombre y lo vendiere, y fuere hallado en su mano». **(איש)**, _ish_, normalmente «hombre» o «persona», tiene aquí fuerza humana y no autoriza a reducir al cautivo a mercancía. **(מכר)**, _makar_, vender, es una forma verbal que muestra la conversión del rapto en comercio. La equivalencia pedagógica «trata de personas» comunica bien el daño moderno, pero no debe borrar la formulación antigua ni importar categorías penales que el versículo no enumera. «Morir morirá» es la fórmula enfática del texto; la nota conserva la gravedad y deja la ejecución dentro del ámbito judicial que el capítulo presupone.
 
 El cierre del capítulo sobre el buey permite evaluar el rescate con más precisión. **(שום)**, _sum_, poner o imponer, aparece en la idea de que se imponga un rescate; **(פדה)**, _padah_, redimir o rescatar, describe la liberación mediante un precio. La compensación del v. 30 no convierte toda muerte en una transacción: depende del caso del animal y de la determinación del tribunal. Por ello, «kofer» como «pago por cualquier pecado» sería una equivalencia inexacta. El texto mantiene juntas reparación, responsabilidad y límite.
+
+## Evaluación final del recorrido: procedimiento, poder y reparación
+
+Leído en orden, Shemot 21 no reduce la justicia a la pena de 21:16. El capítulo comienza con **«estos son los juicios que pondrás delante de ellos»** (OE; TTH: «estos son los procesos legales»), regula la servidumbre, distingue homicidio intencional de accidente, limita la responsabilidad del dueño del buey y llega a la compensación determinada por un tribunal. La observación de Eric sobre la necesidad de un marco judicial queda así confirmada, pero el texto añade una prueba concreta: el procedimiento debe proteger al débil y no solo formalizar el poder del fuerte.
+
+En 21:12, **(נכה)**, _nakah_, normalmente golpear o herir, tiene aquí la fuerza contextual de un acto cuya consecuencia depende de intención y resultado. «Asesinar» sería una equivalencia **aproximada**, no exacta para todas las apariciones de la raíz. En 21:14, **(זיד)**, _zid_, significa actuar con insolencia o presunción; «premeditación» es una equivalencia **pedagógica** que comunica parte del contraste, pero no agota la forma. La distinción textual impide aplicar una sanción única sin examinar el caso.
+
+El v. 16 dice: **«el que hurtare un hombre y lo vendiere, y fuere hallado en su mano, morirá»** (OE). **(גנב)**, _ganav_, significa hurtar o robar; **(מכר)**, _makar_, vender; **(נמצא)**, _nimtsa_, ser hallado. La equivalencia «trata de personas» es **pedagógica y contemporánea**, mientras que «secuestrar» es **aproximada**: el versículo describe la apropiación y la venta, sin enumerar cada modalidad penal moderna. La gravedad que Eric destaca se conserva sin inventar un método de ejecución ni trasladar la pena a particulares.
+
+En 21:28–30, el animal y su dueño muestran cómo funciona la responsabilidad probada. **(ידע)**, _yada_, significa conocer; en el caso del buey, «sabía» es una equivalencia **exacta en función** y señala advertencia previa. **(כפר)**, _kofer_, significa cubrir o rescatar mediante un pago; «multa» es **aproximada**, porque el contexto habla de un rescate impuesto. **(פדה)**, _padah_, significa redimir o rescatar; «reparación» es **pedagógica** y no sustituye el término. OE y TTH permiten sostener el argumento de Eric sobre límites judiciales: la compensación depende del caso y de lo que se imponga, no convierte toda muerte en una transacción.
+
+El tránsito a 22:21–23:9 completa el argumento. El extranjero, la viuda, el huérfano y el pobre quedan bajo la escucha de יהוה; 23:6 prohíbe torcer el juicio del pobre. **(נטה)**, _natah_, significa inclinar o extender; aquí su fuerza es desviar una decisión contra alguien vulnerable. «Corrupción» es una equivalencia **aproximada**. La justicia pública, por tanto, no se mide solo por castigar el secuestro: también por no torcer el juicio, no aceptar soborno y recordar la opresión sufrida en Mitsraim.
+
+## La pena grave dentro de un marco de prueba
+
+La progresión de Shemot 21 impide aislar el secuestro de los demás casos. El capítulo empieza con **(עבד)**, _eved_, siervo; la forma nombra a una persona sometida a servicio y, en 21:2, la limita a seis años antes de su salida. «Esclavo» es una equivalencia normal, pero sería engañosa si borrara la duración regulada. Luego aparecen el homicidio y el refugio, la lesión del siervo y el buey peligroso. **(רצח)**, _ratsaj_, significa asesinar o matar ilícitamente; su fuerza contextual depende de la distinción entre quien acecha y quien no lo hizo con intención. La clase de Eric sobre penas severas necesita conservar esta arquitectura: la gravedad no elimina la investigación del caso.
+
+En 21:12-14 el texto contrasta **(מות יומת)**, _mot yumat_, «morir morirá», con la posibilidad de huir al lugar que Elohim prepare. La repetición de la raíz מות, _mut_, es una fórmula enfática de consecuencia, no una descripción del método de ejecución. **(ארב)**, _arav_, significa acechar o tender una emboscada; aquí identifica la acción deliberada contra el prójimo. «Premeditación» es pedagógica y comunica parte del contraste, pero no agota el campo semántico. El pasaje sostiene la evaluación de Eric sobre la seriedad del juicio, al mismo tiempo que desautoriza leer una fórmula penal como permiso para violencia privada.
+
+El v. 16 formula el delito de modo acumulativo: «el que hurtare un hombre y lo vendiere, y fuere hallado en su mano». **(גנב)**, _ganav_, significa hurtar o robar; **(מכר)**, _makar_, vender; **(נמצא)**, _nimtsa_, ser hallado. Las tres formas construyen apropiación, comercio y prueba. «Trata de personas» es una equivalencia pedagógica contemporánea; «secuestro» es aproximada porque no enumera todas las modalidades modernas. La frase no dice quién ejecuta la sentencia ni cómo. Por eso la observación de Eric puede conservar la condena moral del crimen sin añadir una práctica judicial ausente del versículo.
+
+Los vv. 28-30 muestran que incluso una muerte causada por un animal se examina mediante conocimiento previo y responsabilidad. **(שור)**, _shor_, significa buey o toro; **(נגח)**, _nagaj_, significa acornear o embestir. Si el dueño fue advertido y no guardó al animal, su responsabilidad cambia; si no lo sabía, el caso se trata de otra manera. **(ידע)**, _yada‘_, significa conocer; aquí su fuerza contextual es haber recibido noticia del peligro, no una omnisciencia abstracta. **(כפר)**, _kofer_, significa cobertura o rescate mediante un pago; «multa» es aproximada y no puede transformar toda muerte en una transacción. El juicio protege la vida precisamente porque distingue hechos, intención y advertencia.
 
 ## Pendiente de verificar
 
