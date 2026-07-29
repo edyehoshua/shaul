@@ -220,6 +220,23 @@ Desde #romanos_12_9-21, la fidelidad anunciada por Eric se verifica en acciones 
 
 El título público queda así evaluado por la Escritura local. Es **exacto** atribuir el foco general de fidelidad; es **textual y cualificado** describir su patrón mediante cuerpo, mente, dones y amor; y es solo **aproximado** convertirlo en una fórmula universal de crecimiento. Romanos 12 no separa culto y ética: la misericordia recibida se hace cuerpo ofrecido, servicio sobrio y bien practicado.
 
+## Control canónico del culto y de la victoria sobre el mal
+
+Romanos 12:1-2 debe permanecer unido a las «misericordias» que Pablo acaba de desarrollar. **(λατρεία)**, _latreia_, significa servicio, culto o ministración; en la expresión **(λογικὴ λατρεία)**, _logikē latreia_, su fuerza contextual describe una respuesta consciente y entera a la misericordia, no una actividad mental separada del cuerpo. «Culto» es **directo** en el campo ordinario y «racional» es **aproximado**, porque el adjetivo puede expresar lo razonable o correspondiente a la palabra. La relación con **(עבודתכם השכלית)**, _avodatejem hasikhlit_, en Delitzsch es **pedagógica y aproximada**, no una equivalencia morfológica entre hebreo y griego.
+
+El mandato de vencer el mal tampoco debe extraerse de #romanos_12_17-21. **(παρέχω)**, _parechō_, significa proporcionar, ofrecer o poner a disposición; no es la forma central de «hacer bien», por lo que aquí solo puede servir como término **pedagógico** para resumir la ayuda concreta que Pablo manda dar al enemigo. La forma relevante **(νικάω)**, _nikaō_, significa vencer o conquistar; su sentido es **directo** en 12:21, pero la manera de vencer está definida por alimentar, dar de beber y no devolver mal por mal. La cita de #devarim_32_35 sobre la venganza confirma que el juicio pertenece a יהוה; la conexión es **canónica y textual**, mientras convertirla en una prohibición de protección o justicia legítima sería **ilegítimo**.
+
+Así, el título público «El patrón de la fidelidad» queda evaluado sin convertirlo en una fórmula privada: misericordia recibida, cuerpo presentado, mente examinadora, dones sobrios, amor visible y bien activo. La atribución a Eric se limita al foco público y a las observaciones localizadas ya documentadas; la arquitectura verso a verso pertenece a la lectura canónica de Romanos 12.
+
+## Reparación final: fidelidad visible sin mérito ni pasividad
+
+El título público «El patrón de la fidelidad» permite atribuir a Eric el foco general, pero la perícopa define ese patrón en orden: las misericordias preceden al cuerpo ofrecido (#romanos_12_1), la mente renovada examina (#romanos_12_2), la sobriedad regula los dones (#romanos_12_3-8) y el amor se vuelve conducta (#romanos_12_9-21). **(οἰκτιρμός)**, _oiktirmos_, significa misericordia, compasión o piedad; «misericordias» es una glosa **directa** en 12:1. **(παρίστημι)**, _paristēmi_, significa presentar o poner a disposición; «ofrecer» es **aproximado y contextual**, y no describe un pago que compre el favor de Elohim.
+
+La renovación tampoco autoriza una inspiración privada sin examen. **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar después de evaluar; en 12:2 su fuerza es discernir la voluntad buena, agradable y perfecta mediante una mente renovada. «Discernir» es una formulación **pedagógica** del resultado. Asimismo, **(χάρισμα)**, _charisma_, significa don concedido por gracia; en 12:6-8 limita la autoexaltación y ordena servicios distintos dentro de un cuerpo. «Don» es **directo**, pero convertir una capacidad en rango espiritual sería **ilegítimo**.
+
+En 12:17-21, **(νικάω)**, _nikaō_, significa vencer o conquistar; «vencer el mal con el bien» es **directo** como conclusión del versículo, mientras «triunfar sin reproducir la violencia» es una aplicación **pedagógica** definida por alimentar al enemigo y dejar la venganza a Elohim. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en 12:18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». Por eso la lectura de Eric recibe apoyo textual cuando llama al bien activo, pero sería **ilegítimo** usarla para silenciar protección, denuncia o justicia legítima.
+
+
 ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]

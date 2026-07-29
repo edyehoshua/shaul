@@ -235,6 +235,23 @@ La esperanza de #romanos_11_25-32 tampoco debe desprenderse de la desobediencia.
 
 Así se preserva la observación pastoral de Eric sin atribuirle más de lo que permiten la fuente y la Escritura. La crítica a la superioridad recibe **apoyo textual directo**; una teoría histórica completa de reemplazo o una cronología detallada recibe solo **apoyo cualificado**. El capítulo termina con **(ἀνεξιχνίαστος)**, _anexichniastos_, «inescrutable», cuya fuerza es limitar la pretensión de dominar el misterio. La respuesta apropiada no es jactancia, sino misericordia humilde y adoración.
 
+## Control canónico de las citas y del misterio
+
+Las citas de #romanos_11_25-27 deben conservarse como una cadena, no como una contraseña escatológica aislada. El «Redentor» y el apartamiento de la impiedad de Jacob se leen junto con la dureza parcial y la entrada de la plenitud de las naciones; por eso la afirmación de #romanos_11_26 no autoriza por sí sola a fijar una cronología. **(ἥκω)**, _hēkō_, significa venir o haber llegado; aunque no es el término que gobierna toda la frase, sirve como contraste pedagógico para recordar que «vendrá» describe una venida en la cita y no entrega un calendario detallado. Su uso aquí es **aproximado y pedagógico**, no una glosa de cada verbo del pasaje.
+
+La expresión **(πᾶς Ἰσραήλ)**, _pas Israēl_, significa «todo Israel»; **(οὕτως)**, _houtōs_, significa «así» o «de este modo». En #romanos_11_26, la sintaxis enlaza la salvación anunciada con el misterio inmediatamente anterior. «Todo Israel» es una glosa **directa** en la frase, mientras definir su referente histórico final es **cualificado** por el contexto de Romanos 9–11. La comparación con las citas locales de #yeshayahu_59_20-21 y #yeshayahu_27_9 es **canónica y aproximada**: ilumina la promesa de redención y el apartamiento de la impiedad, pero no permite sustituir el argumento de Pablo por una sola forma de cumplimiento.
+
+El cierre de #romanos_11_30-36 impide que esa esperanza produzca superioridad. **(οἰκτίρμων)**, _oiktirmōn_, significa misericordioso o compasivo; no es la forma central de la doxología, de modo que su empleo aquí es **pedagógico**, mientras **(ἀνεξιχνίαστος)**, _anexichniastos_, sí califica la imposibilidad de rastrear por completo los caminos de Elohim. La observación atribuible de Eric contra la jactancia recibe **apoyo textual directo** en #romanos_11_18 y **apoyo cualificado** cuando se extiende a debates históricos modernos. La perícopa termina en adoración, no en dominio interpretativo.
+
+## Reparación final: dependencia, misericordia y orden del argumento
+
+La observación atribuida a Eric en `youtube:MHLbizeZrPc` —que la rama gentil no debe considerarse mejor que las ramas naturales— no depende de una comparación moderna añadida al texto. Romanos 11:17-18 la sostiene directamente: la rama silvestre participa de la raíz y de la savia, pero no sostiene la raíz. El mandato «no te jactes» debe leerse después de 11:1-16, donde Pablo niega el desecho de Israel y explica el tropiezo de algunos; por eso la aplicación contra el reemplazo triunfalista es **textual y cualificada**, no una cronología exhaustiva de cada comunidad.
+
+En 11:20-23, **(ἀπιστία)**, _apistia_, significa incredulidad o falta de confianza; su fuerza contextual explica el desgajamiento y contrasta con permanecer en la bondad. «Falta de fidelidad» es una glosa **aproximada**, pues el contexto determina el matiz. **(ἐλεέω)**, _eleeō_, significa tener misericordia o mostrar compasión; en 11:30-32 reúne a quienes estaban en desobediencia bajo la misericordia de Elohim, sin llamar buena a la desobediencia ni convertir la gracia en mérito. Las glosas son directas en su campo ordinario; la relación entre misericordia, responsabilidad y reinjerto es **cualificada** por la secuencia completa.
+
+La segunda fuente, `youtube:bL-3YKdV0wo`, anuncia al Redentor de Tziyón. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; en 11:25 frena que las naciones sean sabias en su propia opinión. «Secreto» es **aproximado** y su comparación pedagógica con **(סוד)**, _sod_, «secreto o consejo», no decide el referente de «todo Israel». **(οὕτως)**, _houtōs_, significa así o de este modo; en 11:26 enlaza la salvación anunciada con el misterio previo. Traducirlo como una cronología exclusiva sería **inferencial**. Así se conserva la esperanza pública de Eric sin atribuirle un calendario que el capítulo no entrega.
+
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
