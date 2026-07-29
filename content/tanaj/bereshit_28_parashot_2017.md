@@ -143,6 +143,16 @@ En #bereshit_28_20-22, OE dice **וידר יעקב נדר לאמר אם יהיה
 
 La nota, por tanto, conserva las dos observaciones de la fuente: «y salió» nombra un desplazamiento real hacia Jarán y el diezmo aparece en la respuesta de Yaakov. Evaluadas contra el capítulo, ambas quedan subordinadas a una secuencia más amplia: bendición recibida, salida, visión, palabra, custodia prometida, temor reverente y voto. La escalera no es una técnica humana para subir; el diezmo no es una fórmula para obligar a יהוה. Son, respectivamente, imagen recibida y respuesta pronunciada dentro de una promesa que ya tomó la iniciativa.
 
+## Reparación: la presencia prometida precede al voto
+
+La lectura de Eric sobre «y salió» y la escalera gana precisión cuando se leen juntas las palabras de OE y TTH. En 28:15 OE dice **והנה אנכי עמך ושמרתיך בכל אשר תלך והשבתיך אל האדמה הזאת**; TTH: «Y he aquí, Yo estoy contigo, y te guardaré dondequiera que vayas, y te haré volver a esta tierra». **(עמד)** no aparece aquí: la expresión **עמך**, _imkha_, combina «con» y «contigo» y presenta compañía relacional. **(שמר)**, _shamar_, significa guardar, custodiar u observar; su fuerza contextual es protección durante un camino real. **(שוב)**, _shuv_, significa volver o hacer volver; la promesa incluye retorno, no prosperidad automática. La observación de Eric queda apoyada como aplicación teológica, mientras el sentido exacto es la promesa divina de presencia, custodia y regreso.
+
+En 28:20-22 la respuesta de Yaakov sigue a la palabra recibida. OE dice **וידר יעקב נדר לאמר אם יהיה אלהים עמדי ושמרני בדרך הזה אשר אנכי הולך**; TTH conserva: «Y Yaakov hizo un voto, diciendo: Si Elohim está conmigo y me guarda en este camino que yo voy». **(נדר)**, _nadar_, significa hacer un voto; «negociar» es una equivalencia popular y pedagógica, no exacta. **(דרך)**, _derej_, significa camino, vía o conducta; aquí designa primero la ruta del viajero. Finalmente, **עשר אעשרנו**, _aser asrenu_, repite la raíz de diezmar: «diezmar diezmaré». El capítulo registra el compromiso de Yaakov, pero no formula todavía un reglamento universal. La presencia no se compra: la promesa precede al voto.
+
+## Conexión canónica: camino y acceso recibido
+
+La imagen de los mensajeros que suben y bajan en 28:12 reaparece en la palabra de Yohanan 1:51. Delitzsch escribe: **אתם תראו את השמים פתוחים ואת מלאכי אלהים עולים ויורדים על בן האדם**, «verán los cielos abiertos y a los mensajeros de Elohim subiendo y bajando sobre el Hijo del Hombre». Es una conexión canónica aproximada: confirma que la tradición posterior relee la visión como lenguaje de acceso y revelación, pero no convierte **(סלם)**, _sulam_, en una definición mesiánica dentro de Bereshit. Su sentido normal es «escalera»; su fuerza contextual es la visión recibida por Yaakov. **(מלאך)**, _malaj_, significa mensajero; «ángel» es tradicional, mientras «mensajero» conserva su función. La clase puede enlazar ambos pasajes, pero la equivalencia no es exacta ni borra la salida, la promesa y el voto de Bereshit 28.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

@@ -136,6 +136,12 @@ Esta lectura conserva la observación de Eric y la corrige donde hace falta: la 
 
 Bamidbar 16 no enfrenta santidad contra santidad, sino santidad recibida contra una función tomada. Toda la congregación puede ser santa porque יהוה está en medio de ella; justamente por eso nadie puede apropiarse del sacerdocio o acusar a los siervos designados desde la comparación personal. Eric acierta al llamar a discernir la conducta divina y a resistir el ego, mientras el texto fija el criterio: יהוה separa, acerca, elige y confirma. La respuesta fiel no es competir por rango, sino servir el encargo recibido delante de él.
 
+## Reparación final: la autoridad se reconoce por su fruto comunitario
+
+La exposición de Eric sobre «hacer todo como para Hashem» queda mejor evaluada cuando se sigue el capítulo hasta la plaga. En 16:46 OE dice **קח את המחתה ותן עליה אש מעל המזבח ושׂים קטרת והולך מהרה אל העדה וכפר עליהם**; TTH conserva la orden de tomar el incensario, poner fuego e incienso, ir rápidamente a la congregación y hacer reconciliación por ella. **(מחתה)**, _majtah_, significa recipiente o brasero; aquí nombra el utensilio concreto, no una plataforma ministerial. **(קטרת)**, _qetoret_, significa incienso o mezcla aromática; su fuerza es cultual y localizada. **(כפר)**, _kiper_, significa cubrir, expiar o hacer reconciliación; «calmar a Dios» sería una equivalencia pedagógica inexacta.
+
+La forma de la obediencia se ve en 16:48: **ויעמד בין המתים ובין החיים ותעצר המגפה**, «se puso entre los muertos y los vivos, y se detuvo la plaga». **(עמד)**, _amad_, significa estar de pie, permanecer o situarse; aquí describe una interposición obediente a favor de la congregación. **(מגפה)**, _magefah_, significa plaga o golpe; no es una metáfora genérica para conflicto. Eric acierta al oponer servicio humilde y autoexaltación, pero la afirmación exacta es aún más concreta: Aharón obedece una orden, sirve con un utensilio regulado y protege a Israel. La aplicación contemporánea es teológica y pedagógica; no autoriza a cualquier líder a apropiarse de la función sacerdotal.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
