@@ -37,7 +37,7 @@ Marcos 5 presenta tres escenas enlazadas por una misma autoridad restauradora: Y
 
 ## Alcance de la nota
 
-La fuente de Eric está acreditada por su título público y su URL. El archivo de transcripción no estuvo disponible para este ciclo; por eso no atribuyo a la clase frases o argumentos que no puedo cotejar. La observación segura de la fuente es su foco explícito en el endemoniado de Gdarah. El resto de la nota es lectura del texto TTH local y deja las afirmaciones específicas de la exposición como pendientes, no como hechos inventados.
+La fuente de Eric está acreditada por su título público y su URL. La transcripción de esa clase no está disponible en el archivo local consultado; por eso no atribuyo a la clase frases o argumentos que no puedo cotejar. La observación segura de la fuente es su foco explícito en el endemoniado de Gdarah. El resto de la nota es lectura del texto TTH local y deja las afirmaciones específicas de la exposición como pendientes, no como hechos inventados.
 
 ### Control de fuente y atribución
 
@@ -169,6 +169,18 @@ Las escenas siguientes conservan la diferencia entre sus efectos. La mujer es in
 - [ ] Recuperar la transcripción o una fuente pública equivalente para registrar las observaciones concretas de Eric más allá del título del video.
 - [ ] Verificar la geografía de Gadara/Gerasa y las variantes de los manuscritos antes de formular una conclusión histórica.
 - [ ] Cotejar el trasfondo arameo exacto de **Talitha koumi** sin convertir la transliteración en una fórmula ritual.
+
+## Control de poder, contacto y restauración
+
+Aunque el título público de la clase de Eric solo permite atribuirle el foco del endemoniado de Gdarah, el capítulo ofrece un control léxico preciso para no mezclar sus tres restauraciones. En la escena de la mujer, **(δύναμις)**, _dynamis_, «poder, capacidad o fuerza», sale de Yehoshua cuando ella toca su vestido; el narrador no dice que el tejido posea una fuerza autónoma. La forma **(ἥψατο)**, _hēpsato_, «tocó», describe el contacto físico, pero la explicación posterior se concentra en la palabra dirigida a la mujer: **(ἡ πίστις σου σέσωκέν σε)**, _hē pistis sou sesōken se_, «tu confianza/fe te ha salvado». La relación de **(δύναμις)** con **(כח)**, _koach_, «fuerza o capacidad», es aproximada y pedagógica; no demuestra una retroversión hebrea.
+
+El orden narrativo limita también la aplicación pastoral. El hombre de los sepulcros no es llamado «Legión» como identidad definitiva: queda sentado, vestido y en su juicio, y recibe **(ὕπαγε)**, _hypage_, «ve», hacia su casa. La mujer no queda reducida al contacto: sale del anonimato, cuenta toda la verdad y oye **(εἰρήνη)**, _eirēnē_, «paz o bienestar». La muchacha no es presentada como un símbolo desencarnado: **(ἔγειρε)**, _egeire_, «levántate», se verifica en que se incorpora, camina y come. Estas diferencias apoyan el argumento canónico de autoridad restauradora, pero no rellenan lo que Eric dijo en la clase más allá del foco que permite confirmar el título público.
+
+## Reparación de dependencia: liberación, testimonio y vida cotidiana
+
+El control de la fuente exige no atribuir a Eric más de lo que el título público permite. La clase está identificada por su foco en el endemoniado de Gdarah; la mujer y la hija de Iair pertenecen al desarrollo canónico de esta nota, no a una reconstrucción de argumentos hablados que no están disponibles. Esta distinción conserva la trazabilidad sin abandonar el capítulo: la primera perícopa aporta el foco atribuible y las dos siguientes prueban, en el texto local, cómo la autoridad restauradora se expresa de otra manera.
+
+El orden de las tres escenas impide una equivalencia indiferenciada. En 5:8, **(ἔξελθε)**, _exelthe_, «sal», se dirige al espíritu; en 5:19, **(ὕπαγε)**, _hypage_, «ve», envía al hombre restaurado a su casa; y en 5:41, **(ἔγειρε)**, _egeire_, «levántate», produce la incorporación de la muchacha. Son tres mandatos con destinatarios y efectos distintos: expulsión, retorno y vida corporal. La _emunah_ aparece en las escenas de la mujer y de Iair, pero el relato no la presenta como técnica de control: la mujer cuenta toda la verdad, Iair recibe una orden contra el miedo y la muchacha vuelve a comer.
 
 ## Conclusión
 

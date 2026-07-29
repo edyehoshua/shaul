@@ -88,11 +88,11 @@ Los discípulos no reciben una promesa de navegación cómoda. Yehoshua duerme e
 
 ### El viento y el mar obedecen (4:39-41)
 
-Yehoshua se levanta, reprende el viento y ordena al mar: **(ἐπετίμησεν)**, _epetīmesen_, «reprendió»; después manda **(σιώπα)**, _siōpa_, «calla», y **(πεφίμωσο)**, _pephimōso_, «queda amordazado» o «enmudece». La primera forma narra la reprensión y las dos siguientes son mandatos; no se trata de una descripción de una mejoría meteorológica espontánea. El resultado es **(γαλήνη)**, _galene_, «calma» o quietud del mar.
+Yehoshua se levanta, reprende el viento y ordena al mar: **(ἐπετίμησεν)**, _epetimēsen_, «reprendió»; después manda **(σιώπα)**, _siōpa_, «calla», y **(πεφίμωσο)**, _pephimōso_, «queda amordazado» o «enmudece». La primera forma narra la reprensión y las dos siguientes son mandatos; no se trata de una descripción de una mejoría meteorológica espontánea. El resultado es **(γαλήνη)**, _galene_, «calma» o quietud del mar.
 
 Eric conecta esta escena con Tehilim 89:9, donde יהוה domina la soberbia del mar, y con Tehilim 107:23-29, donde quienes están en el mar claman y יהוה convierte la tempestad en calma. La conexión es textual y temática: ambos testimonios atribuyen el dominio de las aguas a la autoridad divina. Marcos no cita formalmente esos salmos, pero la pregunta de los discípulos —«¿quién es este?»— invita al lector formado por ellos a considerar la identidad de quien manda y es obedecido por el mar.
 
-La última pregunta de Yehoshua es sobre su fidelidad: **(πίστις)**, _pistis_, puede significar confianza, fidelidad o fe según contexto. Su relación con **(אמונה)**, _emunah_, «firmeza, fidelidad o confianza», es aproximada. Eric prefiere «fidelidad» para resistir la idea de una fuerza mental que controla resultados. El pasaje sí contrasta miedo y palabra recibida; no promete que toda tormenta termine cuando el discípulo lo desea.
+La pregunta de Yehoshua evalúa la confianza de sus discípulos: **(πίστις)**, _pistis_, puede significar confianza, fidelidad o fe según contexto. Su relación con **(אמונה)**, _emunah_, «firmeza, fidelidad o confianza», es aproximada. Eric prefiere «fidelidad» para resistir la idea de una fuerza mental que controla resultados. El pasaje sí contrasta miedo y palabra recibida; no promete que toda tormenta termine cuando el discípulo lo desea.
 
 ## Mapa de la enseñanza de Eric
 
@@ -187,6 +187,18 @@ Solo después aparece el cruce. **λέγει αὐτοῖς**, _legei autois_, �
 - [ ] Cotejar la forma griega exacta de 4:40 y su gama semántica antes de preferir «fidelidad» sobre todas las traducciones de _pistis_.
 - [ ] Estudiar la relación entre **(משל)** como comparación y las formas de la raíz que expresan gobierno; la conexión de la clase es pedagógica.
 - [ ] Revisar los vínculos intertextuales entre Marcos 4, Tehilim 89 y Tehilim 107 sin presentarlos como citas directas.
+
+## Control de la observación semítica: gobernar, enseñar y confiar
+
+En la parte 17, Eric llama la atención sobre Tehilim 89:9 y sobre el parecido de sonido entre la forma hebrea que allí expresa gobierno sobre el mar y el campo de **(משל)**, _mashal_, «comparación o parábola». La observación es concreta: el mismo capítulo que contiene parábolas termina con Yehoshua gobernando una tormenta, y el salmo describe a יהוה gobernando la soberbia de las aguas. El texto local permite sostener el puente temático, pero no debe confundirse la raíz **(משל)**, _mashal_, con toda forma de «gobernar», ni afirmarse que Marcos 4:33 traduce directamente el hebreo de Tehilim. La relación entre «componer una comparación» y «gobernar» queda como propuesta léxica de la clase, pendiente de cotejo histórico y morfológico.
+
+La misma parte discute la traducción «¿cómo no tienen fe?» en 4:40. Eric observa que una formulación hebrea como **(יש לי אמונה)**, _yesh li emunah_, «hay para mí confianza/fidelidad», no reproduce mecánicamente la construcción griega **(οὔπω ἔχετε πίστιν)**, _ou pō echete pistin_, «todavía no tienen fe, confianza o fidelidad». La diferencia de construcción es útil para advertir contra una retroversión automática; no prueba por sí sola que el evangelio haya sido compuesto originalmente en hebreo. La forma **(ἔχετε)**, _echete_, «tienen», y el objeto **(πίστιν)**, _pistin_, reciben su fuerza del reproche dentro de la barca: los discípulos habían recibido la orden de cruzar, pero el miedo dominó su respuesta. La preferencia de Eric por «fidelidad» puede conservarse como lectura pedagógica, mientras el sentido normal del griego permanece abierto entre fe, confianza y fidelidad según contexto.
+
+## Reparación de dependencia: la calma viene después de la palabra
+
+La secuencia de 4:33-41 debe conservarse como una dependencia y no como dos temas yuxtapuestos. Primero Yehoshua habla «conforme a lo que podían escuchar»; después ordena **(διέλθωμεν)**, _diélthōmen_, «pasemos o atravesemos»; solo entonces aparece la gran tormenta. La observación de Eric —que la crisis prueba una palabra ya recibida— tiene apoyo narrativo en ese orden. No significa que el peligro demuestre una desobediencia previa ni que cada aflicción sea una prueba enviada por Elohim.
+
+La respuesta de Yehoshua también debe distinguirse de la reacción de los discípulos. **(ἐπετίμησεν)**, _epetīmēsen_, «reprendió», introduce la acción sobre el viento; **(σιώπα)**, _siōpa_, «calla», y **(πεφίμωσο)**, _pephīmōso_, «enmudece o queda amordazado», son órdenes al mar. Después de la **(γαλήνη)**, _galēnē_, «calma», Yehoshua pregunta por el miedo y la **(πίστις)**, _pistis_, «fe, confianza o fidelidad». Por tanto, la aplicación de Eric a una fidelidad que permanece en la palabra es legítima como exhortación, pero no convierte la orden en una fórmula para controlar el clima ni la calma en promesa de evitar toda aflicción.
 
 ## Conclusión
 
