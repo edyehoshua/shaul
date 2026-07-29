@@ -11,8 +11,10 @@ tags:
 references:
   - "#vaikra_16_1-2"
   - "#vaikra_16_6-10"
+  - "#vaikra_16_11-13"
   - "#vaikra_16_14-17"
   - "#vaikra_16_20-22"
+  - "#vaikra_16_23-28"
   - "#vaikra_16_29-34"
   - "#vaikra_17_7-14"
   - "#salmos_51_12"
@@ -26,6 +28,7 @@ sources:
   - "https://www.youtube.com/watch?v=_4q0WLCdK1c"
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/tth/json/vaikra.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:8Btk2jATjfk"
   - "youtube:Y97CMPXJ4cA"
@@ -186,6 +189,24 @@ El cierre de la perícopa confirma que la reconciliación tiene respuesta visibl
 
 Vaikra 16 responde a la muerte producida por un acercamiento no regulado con un orden de reconciliación que atraviesa sacerdote, sangre, confesión, envío, humillación y purificación. Eric conserva un punto decisivo: no basta hablar de expiación si se borra la remoción del pecado y la obediencia que el rito exige. El texto, sin embargo, también conserva sus propios límites: Azazel no se traduce automáticamente como demonio, _nefesh_ no obliga a un dualismo, y el Mesías es una lectura canónica posterior que debe someterse al recorrido de la perícopa. La Santidad no se vuelve accesible por el deseo humano; יהוה la regula y, en el día señalado, hace reconciliación para que su pueblo sea purificado.
 
+## Prueba textual de la reconciliación completa — vv. 11-34
+
+La observación de Eric sobre la inseparabilidad de la sangre y del macho cabrío enviado debe probarse con los sujetos y los verbos de la perícopa. Aharón primero acerca su becerro y hace reconciliación por sí y por su casa (#vaikra_16_11); después toma la sangre y la lleva detrás de la cortina (#vaikra_16_12-16); solo «terminado de hacer reconciliación» por la Santidad, la Tienda y el altar, se acerca al macho cabrío vivo (#vaikra_16_20). **(כלה)**, _kalah_, significa terminar, completar o acabar; en la forma **וכלה**, _vekhilah_, su fuerza contextual marca el cierre de una fase ritual antes de comenzar la confesión y el envío. «Todo ocurrió en un solo gesto» sería una equivalencia inexacta.
+
+La sangre tampoco actúa como una sustancia autónoma. **(הזה)**, _hizah_, significa rociar o salpicar; las formas de 16:14-19 describen una acción localizada sobre la cubierta, delante de ella y sobre el altar. «Aplicar la sangre» es una equivalencia **pedagógica** útil, pero no reemplaza al sacerdote, el lugar ni la cantidad de veces indicada por el texto. **(כפר)**, _kafar_, tiene como sentido normal cubrir y, en esta construcción cultual, hacer reconciliación o expiación; «pagar una deuda» es una lectura teológica aproximada, no el significado aislado del verbo.
+
+Luego la confesión hace audible aquello que el rito remueve. **(ודה)**, _yadah_, significa reconocer, confesar o dar gracias; en la forma reflexiva **והתודה**, _vehitvadah_, su fuerza contextual es declarar sobre el animal las iniquidades, transgresiones y pecados de Israel. **(עון)**, _avon_, significa iniquidad, culpa o torcimiento; **(פשׁע)**, _pesha_, significa transgresión o rebelión; **(חטא)**, _jatta_, significa errar, pecar o falta. «Pecado» puede traducir el campo general, pero no agota la diferencia entre los tres términos. Eric conserva correctamente la dimensión ética de la reconciliación; la forma textual muestra que esa dimensión se expresa mediante confesión concreta y envío concreto.
+
+El cierre prueba que el pueblo no es un espectador pasivo. «Afligirán sus nefesh» y «no harán ningún trabajo» (#vaikra_16_29-31) vinculan reconciliación con respuesta comunitaria. **(ענה)**, _anah_, significa afligir, humillar o someter; **(שבתון)**, _shabbaton_, significa reposo solemne. La equivalencia «arrepentimiento interior» es **pedagógica y aproximada**: puede expresar una aplicación, pero el capítulo nombra también acciones corporales, fecha, reposo y abstención. Delitzsch confirma el patrón al traducir Ivrim 9:7: **לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «no sin sangre que ofreciera por su vida y por los yerros del pueblo». Ivrim relee la estructura desde su propia teología; no convierte Azazel ni _nefesh_ en términos griegos o hebreos con un único significado posterior.
+
+Así, «la una sin la otra no tiene sentido» es una buena síntesis **teológica** de la unidad del día, pero no una licencia para igualar las funciones. La sangre trata el espacio santo; la confesión nombra; el animal vivo carga y sale; la asamblea se humilla y reposa. La fuerza de la enseñanza está precisamente en conservar la coordinación sin borrar la diferencia.
+
+## Lectura canónica posterior: una vez al año y no sin sangre
+
+Delitzsch traduce Ivrim 9:7 así: **והמשכן אשר לפנים ממנו שמה בא הכהן הגדול לבדו פעם אחת בשנה לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «el tabernáculo interior ... el sumo sacerdote solo una vez al año, no sin sangre que ofreciera por su vida y por los yerros del pueblo». La cita retoma explícitamente los límites que Vaikra 16 acaba de establecer: entrada exclusiva, frecuencia anual y sangre ofrecida por el sacerdote y el pueblo. Es una lectura canónica posterior, no una segunda traducción de la perícopa de Vaikra.
+
+La misma versión dice en Ivrim 9:11-12 que el Mesías entró en el «tabernáculo más grande en grandeza y perfección» y «no por sangre de machos cabríos y becerros, sino por la sangre de su vida, una vez». Eric conecta las dos cabras con la reconciliación mesiánica; esta conexión queda documentada por Delitzsch, pero debe evaluarse con cuidado: Ivrim interpreta el patrón sacerdotal desde su propia afirmación sobre el Mesías, mientras Vaikra 16 conserva la función distinta de la sangre y del macho cabrío vivo. **(פעם)**, _paam_, significa vez, ocasión o golpe; en Vaikra 16:34 forma parte de la periodicidad «una vez al año», y la equivalencia «definitivamente» en Ivrim es una inferencia teológica, no el sentido aislado del sustantivo. **(דם)**, _dam_, significa sangre; en Vaikra nombra la sangre ritual rociada por Aharón, y en Ivrim la frase la usa dentro de una comparación canónica. La relación es aproximada y explícitamente intertextual, no una licencia para borrar el procedimiento local.
+
 ## Reparación: dos movimientos coordinados, no una fórmula indiferenciada
 
 La afirmación de Eric de que una cabra sin la otra «no tiene sentido» puede conservarse si se la prueba con el orden local. En 16:8-10, las suertes asignan destinos diferentes; en 16:14-17, Aharón administra sangre por la Santidad, la Tienda y el altar; en 16:20-22, ya terminada esa acción, confiesa las iniquidades sobre el animal vivo y lo envía. La unidad anual del rito es textual, mientras que decir que las dos cabras son una sola ofrenda partida en dos es una equivalencia teológica y pedagógica, no exacta.
@@ -316,7 +337,9 @@ Eric afirma que la reconciliación no debe usarse como permiso para continuar en
 
 Por eso «una sin la otra no tiene sentido» puede conservarse como resumen de la clase con una precisión final. La sangre trata la Santidad, la Tienda y el altar; la confesión y el macho cabrío vivo representan la salida de las iniquidades; la humillación y el reposo hacen participar a toda la asamblea. **(אחד)**, _ejad_, significa uno o único; no es necesario introducirlo como prueba de que los dos animales sean idénticos. La unidad del día y de la reconciliación es **exacta** como descripción narrativa; la afirmación de que ambos animales son dos partes de una sola obra mesiánica es **teológica y aproximada**, dependiente de la lectura canónica posterior.
 
-## La confesión delimita la aplicación ética
+## El incensario y la nube protegen el acceso — vv. 11-13
+
+La exposición de Eric sobre un acceso santo que no puede improvisarse también debe pasar por los vv. 11-13, antes de que la sangre sea rociada. Aharón lleva el becerro por su propio pecado, toma el incensario lleno de brasas del altar y dos puñados de incienso aromático, y lo introduce detrás de la cortina; la nube del incienso cubre la cubierta para que no muera. El hebreo **(מחתה)**, _machtah_, significa recipiente o pala para brasas; su fuerza contextual es el utensilio cultual, no una «llave espiritual». **(קטרת)**, _qetoret_, significa incienso o mezcla aromática; aquí nombra el material que produce la nube dentro del rito, mientras «oración» sería una aplicación simbólica y pedagógica, no una equivalencia exacta. **(ענן)**, _anan_, significa nube; en este contexto describe la cobertura que protege el espacio de la manifestación de יהוה. La observación de Eric queda apoyada en la secuencia concreta: sacerdote, utensilio, incienso, nube y cortina. La conexión posterior con la intercesión del Mesías es canónica y aproximada; Vaikra 16 primero regula el modo de entrar.
 
 Las exposiciones que Eric reúne bajo los source IDs `youtube:8Btk2jATjfk`, `youtube:Y97CMPXJ4cA` y `youtube:stsUp5v3SXE` enfatizan que la reconciliación no debe convertirse en permiso para continuar en el pecado. La observación conserva una dirección ética reconocible, pero Vaikra 16 la expresa mediante el rito: Aharón confiesa **את כל עונתם** —«todas sus iniquidades»— sobre el macho cabrío vivo (#vaikra_16_21), y la asamblea aflige sus _nefesh_ y cesa de trabajar (#vaikra_16_29-31). El texto no formula todavía una teoría completa de perseverancia; por eso «vida reconciliada» es una **inferencia teológica**, mientras «confesar», «enviar», «afligir» y «no trabajar» son acciones **textualmente exactas** del capítulo.
 
@@ -431,6 +454,16 @@ OE dice: **ויצא אל המזבח אשר לפני יהוה וכפר עליו**
 El v. 20 establece el corte: **וכלה מכפר את הקדש ואת אהל מועד ואת המזבח והקריב את השעיר החי**. **(כלה)**, _kalah_, significa terminar, completar o acabar; su fuerza contextual marca que una fase ritual concluyó antes de comenzar la confesión. **(הקריב)**, _hiqriv_, significa acercar o presentar; aquí introduce al macho cabrío vivo, no repite sin diferencia el rociamiento anterior. Por eso la frase de Eric —«la una sin la otra no tiene sentido»— es una síntesis **teológica y aproximada** de la unidad del día, pero la afirmación **exacta** conserva los sujetos y el orden: Aharón trata los ámbitos santos, confiesa, el animal carga y luego es enviado.
 
 Delitzsch relee la estructura en Ivrim 9:7: **לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «no sin sangre que ofreciera por su vida y por los yerros del pueblo». La conexión confirma el acceso anual y la sangre como rasgos canónicos, pero no convierte **(עזאזל)**, _Azazel_, en «demonio», ni **(נפש)**, _nefesh_, en «alma separable» por definición. Es una lectura posterior y aproximada; Vaikra 16 sigue afirmando un rito localizado, con sacerdote, altar, confesión, envío y respuesta comunitaria.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual   | Observación concreta de la clase                                                                                                                              | Tratamiento frente al texto local                                                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #vaikra_16_1-5   | Eric relaciona la muerte de Nadav y Avihú con la necesidad de un acceso regulado a la Santidad.                                                               | **(קרב)**, _qarav_, significa acercarse; el capítulo confirma que no se entra «en todo tiempo», pero no permite reconstruir la intención interior de los hijos de Aharón más allá de lo narrado.                   |
+| #vaikra_16_6-10  | La clase insiste en que los dos machos cabríos cumplen funciones inseparables dentro del día de reconciliación: uno se presenta para יהוה y el otro se envía. | Los vv. 9-10 y 20-22 sostienen la diferencia ritual; **(עזאזל)**, _Azazel_, permanece discutido y «demonio» o «cabra que se fue» no son equivalencias exactas demostradas por la forma.                            |
+| #vaikra_16_11-19 | Eric subraya que la sangre trata la impureza que afecta la Santidad, la Tienda y el altar.                                                                    | La secuencia sacerdotal y espacial está explícita; **(הזה)**, _hizah_, es rociar y **(כפר)**, _kiper_, hacer reconciliación o expiación en contexto, no una energía abstracta desligada del rito.                  |
+| #vaikra_16_20-28 | La confesión sobre el macho cabrío vivo expresa la remoción de las iniquidades y su envío fuera del campamento.                                               | **(התודה)**, _hitvadah_, significa confesar o reconocer, y **(נשא)**, _nasa_, llevar o cargar; «eliminar el pecado» resume pedagógicamente el efecto narrativo, pero no traduce por sí solo ninguno de los verbos. |
+| #vaikra_16_29-34 | La reconciliación exige una respuesta comunitaria de humillación, reposo y obediencia anual.                                                                  | **(ענה)**, _anah_, afligir o humillar, y **(שבתון)**, _shabbaton_, reposo solemne, describen acciones concretas; la aplicación a un «corazón purificado» es teológica y aproximada.                                |
 
 ## Créditos
 

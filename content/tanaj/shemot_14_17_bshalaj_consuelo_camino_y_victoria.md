@@ -105,6 +105,18 @@ La escena de Amalec completa el consuelo con cooperación. Cuando las manos de M
 
 Así, el consuelo de Bshalaj no es una promesa de que el camino será cómodo. OE conserva el mandato «sigan viajando» (#shemot_14_15) y TTH traduce la provisión del maná como «el pan que les ha dado יהוה» (#shemot_16_15). La exposición de Eric queda confirmada en una forma más precisa: יהוה restaura el ánimo para que Israel avance, reciba el pan según la palabra y aprenda a sostenerse mutuamente; no para que abandone la obediencia ni para que vuelva a Egipto.
 
+## El altar y la memoria de la guerra: Shemot 17:8–16
+
+La exposición de Eric no presenta la lucha contra Amalec como una licencia para la venganza privada. Esa cautela se ajusta al cierre de la perícopa: Moshéh edifica un altar después de la victoria y lo llama **יהוה נסי** —«יהוה es mi estandarte»— (#shemot_17_15, OE y TTH). El nombre interpreta la batalla desde la adoración y la memoria, no desde la glorificación autónoma de Israel. La comunidad combate, pero no se atribuye el estandarte.
+
+El relato primero dice **ויבא עמלק** —«y vino Amalec»— (#shemot_17_8). **(בוא)**, _bo_, significa venir o entrar; en esta forma su fuerza contextual es la llegada hostil de un adversario al camino de Israel. **(עמלק)**, _Amaleq_, es el nombre propio de Amalec; no debe convertirse en una etiqueta para cualquier persona que nos contradiga. Eric aplica la lucha a la perseverancia contra aquello que intenta hacer volver al pueblo a la esclavitud; esa aplicación es pedagógica y puede orientar la exhortación, pero el sujeto histórico inmediato sigue siendo Amalec.
+
+Moshéh manda a Yehoshúa escoger hombres y salir a combatir, mientras él sube con la vara de Elohim. **(בחר)**, _bachar_, significa escoger o elegir; **(צא)**, _yatsa_, significa salir; y **(לחם)**, _lacham_, significa luchar o combatir. En **הלחם בעמלק**, _hilachem baAmaleq_, la equivalencia normal es «combate contra Amalec»; «pelea contra tus pasiones» es una extensión aproximada, no una traducción de la forma. El texto sostiene simultáneamente acción organizada abajo e intercesión visible arriba: no opone obediencia práctica a dependencia de יהוה.
+
+Cuando las manos de Moshéh se cansan, Aharón y Jur colocan una piedra y las sostienen. **(רפה)**, _raphah_, significa aflojar, debilitar o dejar caer; en **כאשר ירים משה ידו**, _kaasher yarim Mosheh yado_, la narración contrasta manos levantadas y manos que pesan. TTH conserva «sus manos eran emunah», y **(אמונה)**, _emunah_, significa firmeza, fidelidad o constancia. «Fe» es una equivalencia aproximada; aquí la fuerza contextual incluye perseverancia sostenida por otros. La observación de Eric sobre dependencia comunitaria recibe apoyo directo: Aharón y Jur no reemplazan a Moshéh, pero hacen posible que permanezca firme.
+
+El nombre del altar añade **(נס)**, _nes_: señal, estandarte o señal levantada. «Bandera» es pedagógica y aproximada; «estandarte» se acerca mejor al contexto de un altar que memorializa la intervención divina. La frase **מלחמה ליהוה בעמלק מדר דר** —«guerra para יהוה contra Amalec de generación en generación»— (#shemot_17_16) no autoriza a un creyente individual a reclamar el juicio. **(זכר)**, _zakar_, significa recordar o hacer memoria; aunque el verbo aparece con fuerza en otras instrucciones sobre Amalec, la función del altar aquí ya establece una memoria pública orientada a יהוה. La clase puede hablar de una lucha permanente como aplicación espiritual, siempre que el juicio quede bajo la palabra de יהוה y no bajo la ira personal.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal                              | Fuerza contextual                                      | Equivalencia                                                    |

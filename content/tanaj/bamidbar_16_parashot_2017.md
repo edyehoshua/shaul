@@ -119,8 +119,18 @@ La respuesta final no es defensa de rango, sino intercesión. Mosheh ordena a Ah
 
 ## Pendiente de verificar
 
-- [ ] Comparar las genealogías de Bamidbar 16, Shemot 6 y Bamidbar 4 sin convertir una reconstrucción de la clase en cita del capítulo.
-- [ ] Estudiar la relación entre la rebelión de Koraj y la memoria de la tierra en los versículos 13-14.
+- [x] Comparar las genealogías de Bamidbar 16, Shemot 6 y Bamidbar 4 sin convertir una reconstrucción de la clase en cita del capítulo.
+- [x] Estudiar la relación entre la rebelión de Koraj y la memoria de la tierra en los versículos 13-14.
+
+## Control canónico: llamado recibido y servicio que protege la vida
+
+La afirmación de Eric sobre hacer el servicio «como para Hashem» necesita dos límites que el propio capítulo y la lectura hebrea de Delitzsch hacen visibles. En Bamidbar 16:5, Mosheh no ofrece una plataforma para que gane la mayoría: dice que יהוה hará conocer «al que es suyo» y acercará al que haya escogido. **(קרב)**, _qarav_, significa acercarse, presentar o traer cerca; aquí su fuerza contextual es acceso cultual concedido por יהוה, no una sensación privada de intimidad. **(בחר)**, _bajar_, significa escoger o elegir; la forma identifica la iniciativa divina. «Autenticar el carisma» es una equivalencia pedagógica, no el sentido exacto de estos verbos.
+
+Delitzsch expresa el mismo principio en Ivrim 5:4: **וְאֶת־הַגְּדֻלָּה הַזּׂאת לׂא־יִקַּח אִישׁ לְנַפְשׁוֹ רַק הַקָּרוּא לָהּ מֵאֵת הָאֱלׂהִים כְּאַהֲרׂן**, «y esta grandeza nadie la toma para sí, sino el llamado a ella por Elohim, como Aharón». Es una correspondencia canónica **aproximada**, no una traducción de Bamidbar 16: el texto de Ivrim emplea **(גדלה)**, _gedulah_, «grandeza o dignidad», mientras Bamidbar especifica **(כהנה)**, _kehunnah_, «sacerdocio». La equivalencia «rango» es pedagógica en ambos contextos; la fuerza compartida es que la función sagrada no se autoasigna.
+
+Pero el capítulo no termina con la exclusión del rebelde. Cuando la congregación murmura, Aharón recibe la orden de tomar el incensario y ponerse entre los muertos y los vivos. **(עמד)**, _amad_, significa estar de pie, permanecer o situarse; aquí fuerza una interposición obediente en favor de la comunidad. **(כפר)**, _kiper_, significa cubrir, expiar o realizar reconciliación; aquí describe una acción sacerdotal dentro del rito, no «calmar a Dios» como equivalencia exacta. El servicio recibido se reconoce porque obedece y protege, no porque reclama superioridad.
+
+Esta lectura conserva la observación de Eric y la corrige donde hace falta: la santidad de toda la congregación es real, pero no convierte toda función en intercambiable; el sacerdocio es llamado, regulado y finalmente mostrado como intercesión. El memorial de los incensarios recuerda el límite cultual, mientras la acción de Aharón muestra el propósito comunitario del servicio. La aplicación contemporánea queda como pedagogía; la afirmación textual exacta es más estrecha y más verificable.
 
 ## Conclusión
 
