@@ -98,6 +98,20 @@ La lectura de Eric recibe apoyo **textual** cuando prioriza acogida, paz y edifi
 
 Romanos 14 camina desde la acogida del débil hasta la conciencia ante Elohim. Eric llama la atención sobre un conflicto de mesa y sobre el daño que producen normas humanas cuando se vuelven acusación; el texto deja claro, en cualquier caso, que ni el que come ni el que se abstiene recibe permiso para despreciar o juzgar. La comunidad persigue justicia, paz y edificación porque Yehoshua murió por el hermano, y cada persona dará cuenta a Elohim.
 
+## Reparación desarrollada: una mesa gobernada por el Señor
+
+La exposición de Eric sobre una comunidad mixta y reglas de mesa debe conservarse como observación atribuible a `youtube:IU50N7zdeww`, `youtube:FXNL9LiBWFk` y `youtube:UpiptaA32B4`, no como una reconstrucción histórica exhaustiva. Romanos 14 sí permite seguir una secuencia firme: recibir al débil, no despreciar ni juzgar, recordar que cada siervo está ante su propio Señor, renunciar al tropiezo y actuar desde una convicción limpia. La hipótesis sobre legumbres, preparación de alimentos o identidades judías y gentiles puede orientar preguntas, pero el capítulo no nombra por sí solo una práctica rabínica concreta.
+
+En #romanos_14_4, **(κύριος)**, _kyrios_, significa señor, dueño o autoridad; su fuerza contextual es que el siervo pertenece a otro y que Elohim tiene poder para sostenerlo o hacerlo permanecer. «Señor» es una traducción **directa** en el campo básico, mientras usar el término para resolver toda cuestión de autoridad comunitaria sería **aproximado**. La respuesta de Pablo no elimina la rendición de cuentas: desplaza el tribunal definitivo desde el hermano hacia Elohim.
+
+En #romanos_14_10-12, **(παρίστημι)**, _paristēmi_, significa poner delante, presentar o comparecer; aquí describe la comparecencia ante el tribunal de Elohim. **(λογίζομαι)**, _logizomai_, significa considerar, calcular o tomar en cuenta; aunque no es la forma que gobierna cada versículo de la unidad, ayuda a distinguir la cuenta personal que Pablo exige de una contabilidad acusadora entre hermanos. Estas glosas son **directas en su sentido ordinario** cuando se aplican a sus formas respectivas; no prueban una teoría moderna de juicio ni autorizan a ignorar el discernimiento.
+
+En #romanos_14_13-21, **(τίθημι)**, _tithēmi_, significa poner, colocar o establecer; en la exhortación a no poner tropiezo señala una decisión responsable del fuerte respecto del hermano. **(ἀπόλλυμι)**, _apollymi_, significa destruir, perder o arruinar; en el versículo 15 intensifica el costo de usar la libertad sin amor. «Tropiezo» y «destruir» son glosas **contextuales y aproximadas**: Pablo no afirma que toda incomodidad sea destrucción, sino que una práctica puede dañar seriamente la vida de alguien por quien murió el Mesías.
+
+El cierre exige también diferenciar convicción y presión. **(πληροφορέω)**, _plērophoreō_, significa estar plenamente convencido o llevar a plena certeza; en #romanos_14_5 describe la convicción personal sobre los días. **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar; su relación con la conciencia es **pedagógica**, porque el capítulo insiste en que cada persona actúe delante del Señor, no que un grupo fabrique una prueba para los demás. Eric acierta al advertir contra convertir una costumbre en tribunal; la misma cautela impide convertir la conciencia individual en permiso para destruir.
+
+La evaluación canónica queda, por tanto, en tres niveles. Es **textual** decir que Elohim recibe y juzga a sus siervos, que el Mesías murió por el hermano y que la comunidad debe perseguir paz y edificación. Es **cualificada** identificar al débil con un grupo histórico o las legumbres con una regla específica. Es **pedagógico** trasladar el principio a ropa, bebidas o costumbres actuales. La libertad no se mide por vencer una discusión, sino por el amor que renuncia a una práctica cuando amenaza la conciencia ajena.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
