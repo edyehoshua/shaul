@@ -34,12 +34,13 @@ Esta es la nota canónica para Vayikra 10–11; Vayikra 9 conserva su nota propi
 
 ## Hoja de comparación
 
-| Unidad           | OE local sin nikud                         | TTH                                                                                 | Fuerza del pasaje                                            |
-| ---------------- | ------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| #vaikra_10_1-3   | **ויקרבו לפני יהוה אש זרה אשר לא צוה אתם** | «acercaron delante de יהוה fuego extraño, el cual no les había ordenado»            | La iniciativa cultual queda evaluada por el mandato de יהוה. |
-| #vaikra_10_8-11  | **ולהבדיל בין הקדש ובין החל**              | «para que distingan entre lo distinguido y lo perforado, entre lo impuro y lo puro» | El sacerdote enseña y discierne, no solo ejecuta ritos.      |
-| #vaikra_10_16-20 | **וידבר אהרן ... הייטב בעיני יהוה**        | «¿hubiera sido buena en los ojos de יהוה?»                                          | La respuesta de Aharón interpreta su abstención en duelo.    |
-| #vaikra_11_44-45 | **והתקדשתם והייתם קדשים כי קדוש אני**      | «Conságrense y sean kedoshim, porque Kadosh soy Yo»                                 | La dieta se integra en la identidad del pueblo redimido.     |
+| Unidad           | OE local sin nikud                                             | TTH                                                                                            | Fuerza del pasaje                                                                 |
+| ---------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| #vaikra_10_1-3   | **ויקרבו לפני יהוה אש זרה אשר לא צוה אתם**                     | «acercaron delante de יהוה fuego extraño, el cual no les había ordenado»                       | La iniciativa cultual queda evaluada por el mandato de יהוה.                      |
+| #vaikra_10_4-7   | **וישאום בכתנתם אל מחוץ למחנה** ... **ומפתח אהל מועד לא תצאו** | «los sacaron con sus túnicas fuera del campamento» ... «de la entrada de la Tienda no saldrán» | El juicio no disuelve el servicio; el resto sacerdotal permanece bajo el encargo. |
+| #vaikra_10_8-11  | **ולהבדיל בין הקדש ובין החל**                                  | «para que distingan entre lo distinguido y lo perforado, entre lo impuro y lo puro»            | El sacerdote enseña y discierne, no solo ejecuta ritos.                           |
+| #vaikra_10_16-20 | **וידבר אהרן ... הייטב בעיני יהוה**                            | «¿hubiera sido buena en los ojos de יהוה?»                                                     | La respuesta de Aharón interpreta su abstención en duelo.                         |
+| #vaikra_11_44-45 | **והתקדשתם והייתם קדשים כי קדוש אני**                          | «Conságrense y sean kedoshim, porque Kadosh soy Yo»                                            | La dieta se integra en la identidad del pueblo redimido.                          |
 
 ## Fuego no ordenado y santidad que escucha — Vayikra 10:1–7
 
@@ -52,6 +53,14 @@ Eric preserva una observación importante al vincular «fuego extraño» con el 
 El v. 3 interpreta el acontecimiento: «Por los que se acercan a Mí seré santificado, y sobre los rostros de todo el pueblo seré honrado» (TTH). **(אקדש)**, _eqadesh_, de קדש, _qadash_, significa «ser santificado» o «ser tenido por santo». La forma permite una formulación pasiva en español; «mostraré mi santidad» es aproximada. **(אכבד)**, _ekaved_, de כבד, _kaved_, significa «ser honrado» o «manifestar peso». «Glorificaré» es una equivalencia teológica útil, no el único sentido.
 
 Aharón responde con silencio: **וידם אהרן**, _vayidom Aharon_. **(דם)**, _dom_, significa callar, quedar quieto o cesar; aquí «guardó silencio» es exacto en contexto. La clase puede leer este silencio como duelo sometido a la palabra; el pasaje no lo presenta como aprobación emocional del juicio. Los parientes retiran los cuerpos, y Mosheh ordena que la familia no deshaga el signo público de duelo sacerdotal mientras el pueblo lamenta el incendio. El límite textual importa: santidad no elimina el dolor, pero el servicio en ese momento tiene reglas concretas.
+
+## El duelo no borra el encargo sacerdotal — Vayikra 10:4–7
+
+Después de interpretar el fuego, Mosheh llama a Mishael y a Eltsafán para que saquen a sus parientes «de delante del santuario» y «fuera del campamento» (#vaikra_10_4-5). La narración distingue así entre retirar los cuerpos y abandonar el lugar de servicio. **(וישאום)**, _vayisaum_, procede de נשא, _nasa_, «levantar, llevar o cargar»; «transportar» es una equivalencia contextual exacta para esta acción, no una metáfora de quitar la culpa. **(בכתנתם)**, _bekutontam_, significa «con sus túnicas»; la ropa conserva la materialidad del episodio y no prueba que los muertos siguieran ejerciendo el sacerdocio.
+
+Mosheh manda que los hermanos de Aharón no descubran sus cabezas ni rasguen sus vestidos, y que no salgan de la entrada de la Tienda (#vaikra_10_6-7). **(פרע)**, _para_, significa dejar suelto, descubrir o desarreglar; aquí la prohibición regula una señal pública de duelo. **(תצאו)**, _tetseu_, de יצא, _yatsa_, significa salir; la forma negativa mantiene a los sacerdotes en el recinto de su servicio. Eric observa que el servidor no puede convertir su dolor en una autorización para abandonar el mandato. El texto lo apoya en esta situación concreta, pero no prescribe indiferencia ante toda pérdida: el v. 6 también manda a la comunidad lamentar el incendio.
+
+La secuencia corrige dos reducciones opuestas. «Fuego extraño» no significa que toda emoción intensa sea ilegítima, y «santidad» no significa que la muerte permita improvisar el culto. La equivalencia entre este episodio y un modelo universal de liderazgo es **pedagógica**; la equivalencia textual más firme es que el juicio, el traslado de los cuerpos, el duelo comunitario y la continuidad sacerdotal quedan ordenados por la palabra de יהוה.
 
 ## Vino, enseñanza y la distinción sacerdotal — Vayikra 10:8–15
 
@@ -106,6 +115,7 @@ En 11:37–38 la semilla para sembrar no queda impura de la misma manera que el 
 | Observación pública atribuida a Eric                                                           | Evaluación frente al texto                                                                                    |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | El «octavo día» y el fuego extraño confrontan un servicio no gobernado por la palabra de יהוה. | Confirmado en la secuencia de Vayikra 10:1–3; la intención interior de los sacerdotes queda sin especulación. |
+| Tras el juicio, los sacerdotes deben permanecer en la Tienda mientras la comunidad lamenta.    | Apoyo textual a la continuidad ordenada del servicio; no se convierte en una regla universal contra el duelo. |
 | El servidor debe distinguir y enseñar, no solo realizar acciones religiosas.                   | Directamente apoyado por 10:10–11.                                                                            |
 | El fuego extraño puede advertir contra el celo que reemplaza la obediencia.                    | Aplicación pedagógica bien anclada, pero no definición exhaustiva del episodio.                               |
 | Las leyes de comida enseñan discernimiento y santidad práctica.                                | El texto sí vincula las distinciones con «sean santos»; las alegorías particulares requieren cautela.         |

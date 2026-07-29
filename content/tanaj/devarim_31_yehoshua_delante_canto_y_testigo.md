@@ -93,6 +93,14 @@ Eric lee la secuencia histórica —manifestación del rostro, luego apostasía�
 | **(שירה)**         | _shirah_         | Canción, canto                             | Testigo puesto en la boca de Israel                      | «Poema» es aproximado                               |
 | **(אחרית הימים)**  | _ajarit hayamim_ | Posteridad / final de los días             | Horizonte de la corrupción anunciada                     | «Escatología» plena es pedagógica                   |
 
+## El libro junto al arca: testimonio que permanece — vv. 24–30
+
+Cuando Moshé termina de escribir «las palabras de esta Torah en un libro hasta acabarlas», ordena a los levitas ponerlo «al lado del arca del pacto de יהוה» para que esté allí como testigo (#devarim_31_24-26). Esta precisión completa la observación de Eric sobre el canto: no solo una melodía, sino el libro entero queda situado junto al centro visible del pacto. **(תמם)**, _tamam_, significa terminar, completar o llegar a su fin; en **עד תם** su fuerza es la conclusión material de la escritura. «Revelación cerrada» sería una aplicación **pedagógica** que no debe importarse al versículo.
+
+Moshé reconoce que conoce la rebeldía de Israel «mientras todavía estoy vivo» y convoca a los ancianos y oficiales para que oigan que, después de su muerte, se corromperán y se desviarán del camino (#devarim_31_27-29). **(וסרתם)**, _usartem_, es la forma waw-consecutiva de סור, «apartarse, desviarse o retirarse»; aquí describe infidelidad práctica al camino mandado. «Apostasía» es **aproximada y pedagógica**, porque conserva la ruptura religiosa, pero no reemplaza la imagen de desviarse. La expresión **(באחרית הימים)**, _beajarit hayamim_, puede indicar la posteridad o el final de los días; «escatología» es una equivalencia **pedagógica**, no una definición automática de todos los eventos finales.
+
+La clase aplica esta corrupción anunciada a comunidades posteriores y a falsos maestros. El texto permite el patrón de advertencia —palabra escrita, testigo y responsabilidad—, pero mantiene como destinatario inmediato a Israel reunido delante de יהוה. El v. 30, que pone el comienzo del canto en boca de la congregación, enlaza directamente con Devarim 32; no autoriza a tratar el capítulo 31 como si ya contuviera el desarrollo completo de Haazinu.
+
 ## La lectura pública como memoria obediente
 
 La orden de leer la Torah no aparece como un acto privado de especialistas. El OE dice **הקהל את העם האנשים והנשים והטף וגרך אשר בשעריך למען ישמעו ולמען ילמדו ויראו את יהוה אלהיכם ושמרו לעשות את כל דברי התורה הזאת** (#devarim_31_12): «reúne al pueblo, los hombres, las mujeres, los niños y tu ger que está en tus puertas, para que oigan, aprendan, teman a יהוה y guarden para hacer todas las palabras de esta Torah». TTH conserva la cadena de oír, aprender, temer y guardar. La observación de Eric de que la asamblea necesita una enseñanza audible recibe aquí apoyo directo, pero el pasaje no reduce el temor a una emoción pasajera: lo conecta con hacer.
@@ -111,6 +119,7 @@ Esta unidad también explica por qué el canto será testigo. La palabra oída e
 | #devarim_31_10-13                      | En shemitá-Sukot se viene a _ver el rostro_ de יהוה y se lee la Torá ante todo el pueblo.         | Apoyo textual al hebreo del rostro y a la asamblea inclusiva; el pesher nube/fuego→Mesías se marca pedagógico.     |
 | #devarim_31_14-18                      | La nube se hace visible; el pueblo se apartará porque la presencia no está «dentro».              | Apoyo textual a aparición y apostasía; la inhabitación interior se trata como inferencia teológica de la clase.    |
 | #devarim_31_19-29 y 2 Pedro            | El canto es testigo; el patrón de apostasía se repite tras la manifestación del rostro.           | Apoyo textual al testigo y a _ajarit hayamim_; la aplicación eclesial se marca canónica cualificada.               |
+| #devarim_31_24-30                      | El libro terminado queda junto al arca y Moshé convoca a Israel para oír el comienzo del canto.   | Apoyo textual al testimonio escrito y al enlace con Haazinu; no se adelanta el contenido de Devarim 32.            |
 | Pregunta del saber previo y el castigo | Si Dios sabe, ¿por qué castiga? Respuesta con Romanos 9 y la demostración de la dependencia.      | Inferencia doctrinal atribuida a la clase, no como conclusión léxica del capítulo.                                 |
 
 ## Pendiente de verificar
