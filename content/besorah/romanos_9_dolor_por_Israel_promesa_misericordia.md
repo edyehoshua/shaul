@@ -324,6 +324,14 @@ El cierre desplaza la discusión desde la función de un gobernante hacia la res
 
 Por último, **(λίθος)**, _lithos_, significa piedra, y **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra. Sus glosas son **directas**; la fuerza contextual presenta a la piedra como el punto ante el cual unos creen y otros tropiezan. «Tropiezo» no equivale a una condena étnica total: el dolor y los privilegios de 9:1-5 siguen gobernando la lectura, y Romanos 10–11 continúa el argumento. La conclusión es **textual en la secuencia**, **cualificada en la soteriología de Faraón** y **pedagógica** en la comparación entre _pistis_ y _emunah_.
 
+## Control de la fuente y de la perícopa
+
+La exposición pública `youtube:atIdZY13b_c` permite conservar la distinción entre propósito histórico y salvación personal, y su recorrido visible por Romanos 9:19-24 permite ubicar la objeción del barro y el formador. La atribución permanece en paráfrasis, no en cita literal. El texto local debe gobernar el alcance: Romanos 9:17 declara una finalidad histórica para Faraón, pero no entrega una biografía soteriológica completa; Romanos 9:1-5 y 9:25-33 impiden convertir esa cautela en desprecio de Israel o en fatalismo.
+
+**(οἰκτίρμων)**, _oiktirmōn_, significa compasivo o misericordioso; aunque la forma adjetival no sea una solución autónoma para 9:15-18, ilumina de manera **pedagógica y aproximada** el campo de la misericordia que Pablo cita. El término decisivo de la perícopa, **(ἐλεέω)**, _eleeō_, significa tener misericordia o compadecerse; su fuerza contextual es la acción favorable de Elohim, no una deuda que la criatura pueda exigir. «Misericordia» es **directa** como glosa del campo verbal, mientras derivar de ella una teoría exhaustiva sobre cada destino individual sería **inferencial**.
+
+La secuencia queda, por tanto, en orden: dolor por Israel, promesa que no falla, misericordia y endurecimiento, objeción de la criatura, y finalmente justicia recibida por la fe frente a la piedra de tropiezo. La observación de Eric recibe apoyo **textual y cualificado** en la distinción de Faraón; la conclusión soteriológica individual queda abierta donde el capítulo no la resuelve.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]

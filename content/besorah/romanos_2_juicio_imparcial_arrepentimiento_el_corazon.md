@@ -478,6 +478,14 @@ El criterio público del juicio tampoco debe separarse de la misericordia. **(�
 
 Finalmente, **(περιτομή)**, _peritomē_, significa circuncisión o corte ritual, y **(ὠφελέω)**, _ōpheleō_, significa beneficiar o ser provechoso. En 2:25 la señal es provechosa **si** se practica la Torah; la condición forma parte del argumento y no debe omitirse. **(ἔπαινος)**, _epainos_, significa alabanza o aprobación; en 2:29 la alabanza decisiva viene de Elohim. La evaluación de la pregunta pública de Eric es, por tanto, **textual y cualificada**: identidad, conciencia y señal deben responder ante Elohim; ninguna funciona como escudo ni autoriza desprecio étnico.
 
+## Control de la fuente y de la perícopa
+
+La fuente pública `youtube:6D7Yj0bDSfU` conserva únicamente un dato atribuible con seguridad en esta nota: su título plantea qué significa ser judío y qué significa ser creyente. El inventario local registra el transcript como no disponible; por eso no se reconstruye una explicación de Eric a partir del título. La evaluación canónica sí es verificable en Romanos 2: la pregunta queda dentro de la secuencia que pasa del juez al corazón, de la Torah oída a la Torah practicada y de la señal visible a la alabanza que procede de Elohim.
+
+El término **(λογίζομαι)**, _logizomai_, significa considerar, calcular o tomar en cuenta; aunque su uso decisivo se despliega en Romanos 4, ayuda a marcar una cautela al leer 2:26-29: el capítulo no autoriza a «contar» una señal externa como obediencia cuando la práctica contradice la Torah. Esta relación es **pedagógica y aproximada**, no una afirmación de que la forma gobierne toda la perícopa. **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; en 2:29 su fuerza contextual es la aprobación que procede de Elohim y no de los seres humanos. La glosa es **directa**, mientras convertirla en una definición exhaustiva de identidad sería **inferencial**.
+
+Así, la reparación conserva el foco de Eric sin exceder la evidencia pública: nombre, enseñanza, conciencia y señal deben responder ante el juicio de Elohim; la autocrítica de Pablo no es una condena étnica de Israel, y la interioridad no es una autoridad privada desligada de la Escritura. Romanos 3 queda como control inmediato contra cualquier lectura que transforme la obediencia examinada en mérito autónomo.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
