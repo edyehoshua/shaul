@@ -285,6 +285,14 @@ En #romanos*11_25-29, **(σπέρμα)**, \_sperma*, significa semilla, descende
 
 Así se evalúan los dos focos públicos de Eric sin mezclarlos con afirmaciones no demostradas. La advertencia contra la jactancia tiene **apoyo textual directo** en #romanos_11_18; la esperanza de la restauración y de «todo Israel» tiene **apoyo textual cualificado**, porque permanece dentro del misterio, la misericordia, el pacto y la responsabilidad. La doxología de #romanos_11_33-36 funciona como control hermenéutico: estudiar el argumento es legítimo, pero reclamar dominio exhaustivo sobre los caminos de Elohim contradice el cierre del capítulo.
 
+## Reparación final: el olivo exige humildad y permanencia
+
+La observación atribuible a Eric en `youtube:MHLbizeZrPc` —que la rama de las naciones no debe considerarse mejor que las ramas naturales— queda anclada en #romanos_11_17-24 y debe leerse después de la negación inicial de que Elohim haya desechado a Israel (#romanos_11_1-6). **(ἐγκεντρίζω)**, _enkentrizō_, significa injertar; en la imagen describe una incorporación dependiente de una raíz ya existente. «Injertar» es una glosa **directa**; convertirlo en «reemplazar» es **inferencial** y contradice la advertencia «no te jactes contra las ramas».
+
+La fuente `youtube:bL-3YKdV0wo` concentra la esperanza en el Redentor de Tziyón. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; en #romanos_11_25 frena que las naciones sean sabias en su propia opinión. «Misterio» es **directo** en el campo normal, mientras la relación pedagógica con **(סוד)**, _sod_, «secreto o consejo», es **aproximada** y no resuelve por sí sola qué alcance tiene «todo Israel». **(οὕτως)**, _houtōs_, significa así o de este modo; leerlo como una cronología exclusiva es **inferencial**, no obligatorio.
+
+El texto mantiene juntas promesa y responsabilidad. **(ἐπιμένω)**, _epimenō_, significa permanecer, continuar o persistir; en #romanos_11_22-23 califica la permanencia en la bondad y el abandono de la incredulidad. «Perseverar» es una síntesis **pedagógica y aproximada**. La enseñanza de Eric recibe **apoyo textual directo** contra la jactancia y **apoyo cualificado** para la esperanza: la raíz sostiene, Elohim puede reinjertar y la misericordia culmina en la doxología, no en superioridad étnica ni en un calendario inventado.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]

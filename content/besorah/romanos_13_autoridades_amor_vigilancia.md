@@ -272,6 +272,14 @@ Finalmente, **(καιρός)**, _kairos_, significa momento u ocasión decisiva;
 
 Romanos 13 invita a escuchar el argumento de Pablo como una unidad: la obra de Elohim en Yehoshua orienta a la comunidad hacia una emunah que se hace visible en perseverancia, discernimiento y amor.
 
+## Reparación final: autoridad funcional, amor y vigilancia
+
+La observación pública de Eric en `youtube:Wvj5LCGsSLw` sobre la sujeción a las autoridades superiores debe evaluarse recorriendo #romanos_13_1-14, no aislando el primer mandato. **(ὑποτάσσω)**, _hypotassō_, significa someterse o colocarse bajo un orden; en 13:1 y 13:5 su fuerza contextual describe una postura responsable ante la autoridad pública, pero no obediencia ciega. **(ἐξουσία)**, _exousia_, significa autoridad, potestad o esfera de competencia; «autoridad» es una glosa **directa**, mientras «poder absoluto» sería **ilegítimo**, porque Pablo la caracteriza por su función para el bien.
+
+La lista de tributo, impuesto, respeto y honra (#romanos_13_6-7) conserva obligaciones concretas, pero el capítulo desplaza luego la deuda permanente hacia el amor. **(ὀφείλω)**, _opheilō_, significa deber, estar obligado o tener una deuda; **(ἀγάπη)**, _agapē_, significa amor o benevolencia comprometida. Sus glosas son **directas** en el campo ordinario; la fuerza contextual del amor se muestra en no hacer mal al prójimo y en cumplir la Torah, no en una emoción privada ni en la santificación de una institución.
+
+Finalmente, **(καιρός)**, _kairos_, significa momento u ocasión decisiva; en #romanos_13_11 llama a despertar, no a calcular una fecha. **(ἐνδύω)**, _endyō_, significa vestirse o ponerse una prenda; en 13:12 y 13:14 representa adoptar una conducta visible de luz y revestirse del Señor Yehoshua. La enseñanza de Eric recibe **apoyo textual cualificado** cuando llama al orden, al amor y a la sobriedad; el texto corrige toda lectura que convierta la sujeción en servilismo, el amor en permisividad o la vigilancia en especulación política y profética.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
