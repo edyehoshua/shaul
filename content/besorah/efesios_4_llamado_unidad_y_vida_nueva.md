@@ -52,8 +52,8 @@ source_ids:
   - "youtube:M2mb6wYboYg"
   - "youtube:d_lzMjdAuBQ"
   - "youtube:1IZe5w9GA0Y"
-  - "youtube:2_q62-EulhM"
   - "youtube:wgFr5OYXhmk"
+  - "youtube:2_q62-EulhM"
   - "youtube:2yQI9REsPy4"
   - "youtube:wOZk1jiTed4"
 translation: "[Delitzsch]"
@@ -186,6 +186,22 @@ La explicación de Eric sobre la plenitud del Mesías debe conservar el orden qu
 
 La finalidad se expresa con **ἵνα πληρώσῃ τὰ πάντα**, _hina plērōsē ta panta_, «para llenar todas las cosas». **πληρόω**, _plēroō_, significa «llenar, completar o llevar a plenitud»; aquí su sentido depende de la secuencia: el Mesías que desciende y asciende es quien da gracia y servicios para que el cuerpo crezca. La clase relaciona esta plenitud con **מלאים**, _miluim_, «llenuras o consagraciones», pero esa equivalencia es pedagógica, no lexicalmente automática. El texto prueba la tesis por la consecuencia inmediata: apóstoles, profetas, evangelistas, pastores y maestros equipan a los santos, y la comunidad llega junta a la madurez. La plenitud no legitima que un dirigente absorba todos los dones; se verifica en edificación compartida.
 
+## Prueba de la unidad: una confesión, muchos miembros y una sola meta
+
+La enumeración de 4:4-6 no funciona como un lema separado de la conducta que la precede. **ἓν σῶμα**, _hen sōma_, «un cuerpo», y **ἓν πνεῦμα**, _hen pneuma_, «un Rúaj», nombran la identidad compartida; **ἐκλήθητε**, _eklēthēte_, «fueron llamados», conecta esa identidad con la esperanza; y **εἷς κύριος**, _heis kyrios_, «un Señor», impide convertir los servicios del v. 11 en pequeños dominios rivales. La comparación de **(אחד)**, _ejad_, «uno», con **εἷς** es pedagógica y aproximada: el texto griego conserva su propia sintaxis.
+
+La diversidad aparece inmediatamente después. **ἑνὶ δὲ ἑκάστῳ**, _heni de hekastō_, «pero a cada uno», limita cualquier lectura de uniformidad, mientras **ἐδόθη**, _edothē_, «fue dada», mantiene la gracia como recepción y no como conquista. Eric insiste en que nadie puede abarcar por sí solo la medida del cuerpo; la secuencia textual confirma el punto sin despreciar el liderazgo: los servicios equipan a los santos, y el sujeto de «lleguemos» en 4:13 es plural. La madurez se verifica cuando el cuerpo entero llega al conocimiento y a la estatura del Mesías, no cuando una voz acumula todos los dones.
+
+El resultado ético vuelve a la vida diaria. **ἀληθεύοντες**, _alētheuontes_, «hablando o practicando la verdad», y **αὐξήσωμεν**, _auxēsōmen_, «crezcamos», están unidos «en amor» hacia la cabeza; después **συναρμολογούμενον**, _synarmologoumenon_, «siendo ensamblado juntamente», y **ἐπιχορηγίας**, _epichorēgias_, «suministro o apoyo», describen el crecimiento coordinado del cuerpo. La equivalencia con **(בנה)**, _banah_, «construir», puede iluminar **οἰκοδομή**, pero no autoriza una lectura individualista del don. El argumento de Eric queda probado en el orden completo: unidad guardada con paciencia, gracia distribuida, santos equipados, verdad practicada y crecimiento que hace visible el amor.
+
+## Control de dependencia: aprender al Mesías produce una comunidad que edifica
+
+La transición de 4:17 a 4:25 no permite tratar la «libertad» de la clase como una idea sin forma. Pablo contrapone la vida antigua, marcada por **ματαιότης**, _mataiotēs_, «vaciedad o futilidad», a aprender al Mesías y ser renovados. **μανθάνω**, _manthanō_, «aprender», en 4:20 describe un aprendizaje cuyo contenido es una persona y cuyo resultado se ve en la conducta; **ἀποτίθημι**, _apotithēmi_, «quitar o dejar a un lado», y **ἐνδύω**, _endyō_, «vestir», en 4:22-24 forman una imagen de cambio recibido y practicado. Eric observa que Yehoshua no libera para conservar la vieja manera de andar. El texto apoya esa dirección, pero no convierte cada aplicación de la clase sobre libertad en una definición del verbo.
+
+El capítulo especifica cómo se reconoce esa renovación. **ἀληθεύω**, _alētheuō_, «decir o practicar la verdad», se dirige al prójimo porque somos miembros unos de otros; **ἐργάζομαι**, _ergazomai_, «trabajar», y **μεταδίδωμι**, _metadidōmi_, «compartir», hacen que abandonar el robo termine en provisión para quien tiene necesidad; y **οἰκοδομέω**, _oikodomeō_, «edificar», mide la palabra por el bien que comunica al oyente. La observación de Eric sobre una vida «libre» que debe dejar la mentira, el robo y el habla dañina queda probada por esta cadena concreta: identidad renovada, verdad relacional, trabajo generoso y palabra útil.
+
+Finalmente, **σφραγίζω**, _sphragizō_, «sellar o marcar como perteneciente», en 4:30 no funciona como permiso para conservar la amargura. **πικρία**, _pikria_, «amargura», **θυμός**, _thymos_, «furor o arrebato», y **κακία**, _kakia_, «malicia», deben quitarse; **χρηστός**, _chrēstos_, «bondadoso», **εὔσπλαγχνος**, _eusplanchos_, «compasivo», y **χαρίζομαι**, _charizomai_, «conceder gracia o perdonar», describen la alternativa. Así, la madurez que Eric vincula con libertad y servicio se prueba por el modo en que el cuerpo habla, trabaja, protege al débil y perdona; no por una autoridad individual que reclame abarcar la medida de todos.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar con una edición crítica la relación exacta entre la cita de Efesios 4:8 y Salmo 68:19, especialmente la diferencia entre recibir y dar dones.
@@ -195,6 +211,24 @@ La finalidad se expresa con **ἵνα πληρώσῃ τὰ πάντα**, _hina 
 - [ ] Revisar el alcance histórico de «gentiles» en 4:17-19 y evitar trasladar una caracterización retórica de la vida antigua a una condena étnica.
 - [ ] Examinar las afirmaciones de la clase sobre los «tres delitos de muerte» y la liberación de categorías sexuales: esta nota se limita a la secuencia textual de Efesios 4 y no convierte aplicaciones pastorales en diagnósticos sobre personas.
 - [ ] Verificar la relación entre **πνεῦμα τοῦ νοός** y las propuestas de sustituir «Rúaj» por «mente»; el contexto permite una relación, no una equivalencia universal.
+
+## Control de madurez: el don se prueba por lo que edifica (4:7-16)
+
+La observación de Eric sobre no abarcar la medida de todo el cuerpo puede comprobarse siguiendo la finalidad de los verbos. **ἐδόθη**, _edothē_, «fue dado», presenta la gracia como don recibido por cada miembro; **καταρτισμόν**, _katartismon_, «equipamiento o preparación», explica para qué existen los servicios; y **οἰκοδομήν**, _oikodomēn_, «edificación o construcción», nombra el resultado comunitario. La equivalencia con **(בנה)**, _banah_, «construir», es temática y aproximada: el griego de Pablo gobierna la lectura.
+
+La meta tampoco es que una voz concentre la interpretación. **καταντήσωμεν**, _katantēsōmen_, «lleguemos», está en primera persona plural; **ἄνδρα τέλειον**, _andra teleion_, describe una humanidad madura; y **αὐξήσωμεν**, _auxēsōmen_, «crezcamos», mantiene al cuerpo entero en movimiento hacia la cabeza. Por eso la prueba de un servicio no es su alcance personal, sino si equipa a los santos, guarda la verdad en amor y hace crecer a otros. La aplicación contemporánea de Eric queda apoyada mientras conserve esa finalidad y no convierta la crítica a la concentración de autoridad en una acusación contra todo liderazgo.
+
+El contraste con 4:14-15 cierra el control. **κυβεύοντες**, _kybeuontes_, «jugando a los dados o siendo llevados por la inestabilidad», y **μεθοδεία**, _methodeia_, «engaño o artimaña», describen el peligro de la inmadurez; **ἀληθεύοντες**, _alētheuontes_, «hablando o viviendo en la verdad», y **αὐξήσωμεν**, _auxēsōmen_, describen la respuesta. «Verdad en amor» no equivale a silencio para conservar unidad ni a dureza para demostrar discernimiento. El orden textual exige una comunidad que crece junta.
+
+## Control de orden: del único cuerpo a la palabra que edifica
+
+Efesios 4:1-16 debe conservar su movimiento antes de aplicar sus imágenes a una estructura ministerial. **ἀξίως**, _axiōs_, «dignamente o de manera correspondiente», califica el caminar en 4:1; **σπουδάζοντες**, _spoudazontes_, «esforzándose o procurando con diligencia», gobierna la preservación de la unidad en 4:3. La unidad, por tanto, no es un estado producido por uniformidad: se guarda mediante **ἀνεχόμενοι**, _anechomenoi_, «soportándose o tolerándose», «en amor». La observación de Eric sobre una unidad que requiere paciencia queda apoyada, pero el texto la vincula a un solo cuerpo, un solo Espíritu, una esperanza, un Señor, una fe, un bautismo y un Padre.
+
+La enumeración de 4:4-6 también limita una lectura que absolutice cualquier don. **εἷς**, _heis_, «uno», se repite en la confesión comunitaria; después **ἑνὸς ἑκάστῳ**, _henos hekastō_, «a cada uno», introduce la medida particular de la gracia en 4:7. No hay contradicción: la fuente de la unidad es una, mientras la distribución del servicio es diversa. **μέτρον**, _metron_, «medida», no significa que un miembro posea la totalidad; la finalidad explícita de los dones es preparar a los santos para la obra y edificar el cuerpo.
+
+El tramo 4:17-32 muestra cómo esa edificación se prueba en relaciones concretas. **ματαιότης**, _mataiotēs_, «vaciedad o futilidad», describe el entendimiento de la vida antigua; **ἀνανεοῦσθαι**, _ananeousthai_, «ser renovados», y **ἐνδύσασθαι**, _endysasthai_, «vestirse», presentan la vida nueva como una reorientación recibida y practicada. Por eso **μηκέτι κλεπτέτω**, _mēketi kleptetō_, «que ya no robe», desemboca en trabajo honrado para compartir; **σαπρός**, _sapros_, «corrupto o podrido», califica la palabra que debe ser reemplazada por la que edifica. La aplicación de Eric sobre libertad no se verifica por una consigna abstracta, sino por verdad, trabajo, generosidad, dominio de la ira y perdón.
+
+Finalmente, **παροργισμός**, _parorgismos_, «irritación o provocación a ira», y **τόπος**, _topos_, «lugar u oportunidad», en 4:26-27 no autorizan a alojar el resentimiento bajo una apariencia espiritual. El imperativo «no pequen» y la advertencia de no dar lugar al adversario forman una secuencia ética; el texto no identifica automáticamente toda emoción intensa con pecado. Así, la nota conserva la crítica de Eric a la inmadurez y a la amargura, pero deja que la sintaxis determine el diagnóstico: la verdad se habla porque somos miembros unos de otros y el perdón se practica como recibimos perdón en el Mesías.
 
 ## Control final: el sello se honra en la vida comunitaria (4:25-32)
 
