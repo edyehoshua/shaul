@@ -252,6 +252,16 @@ Efesios 4 muestra cómo la gracia recibida se vuelve vida compartida. El llamado
 
 La enseñanza de Eric acierta al insistir en que ningún miembro debe apropiarse de la medida de todo el cuerpo. El texto añade el criterio decisivo: la medida del don se reconoce por su capacidad de equipar, unir y hacer crecer a otros en verdad y amor. La excelencia del llamado no es prestigio; es una humanidad renovada que conserva la unidad mediante el servicio.
 
+## Reparación dirigida: la gracia que equipa y la humanidad que se viste (4:7-24)
+
+La transición de la confesión de un solo cuerpo a los dones no permite convertir la diversidad en competencia. **(ἐδόθη)**, _edothē_, «fue dada», presenta la gracia como algo recibido en 4:7; **(κατὰ τὸ μέτρον)**, _kata to metron_, «según la medida», limita la pretensión de que un servidor sea la fuente de todo. Eric insiste en que el servicio mesiánico debe hacer posible la participación de otros. Marcos no es el pasaje aquí, pero el control de Efesios es claro: **(καταρτισμός)**, _katartismos_, «equipamiento o preparación», apunta a capacitar a los santos, y **(οἰκοδομή)**, _oikodomē_, «edificación», describe el efecto buscado en el cuerpo. La observación de la clase queda probada por la finalidad del texto, no por un modelo organizativo impuesto desde fuera.
+
+La cita del salmo en 4:8 se inserta después de la gracia distribuida y antes de las funciones enumeradas. **(ἀναβάς)**, _anabas_, «habiendo subido», y **(καταβάς)**, _katabas_, «habiendo descendido», ordenan el contraste de exaltación y descenso; **(ᾐχμαλώτευσεν)**, _ēchmalōteusen_, «llevó cautivos», y **(ἔδωκεν)**, _edōken_, «dio», conducen al Mesías que entrega dones. Eric lee ese movimiento como autoridad que vuelve fecunda a la comunidad. El pasaje sí sostiene que el que descendió es también el que subió y que da servicios; no demuestra por sí solo cada identificación doctrinal de «cautividad» ni autoriza a usar el don para dominar.
+
+En 4:11-16, los servicios se ordenan hacia una madurez común. **(καταρτίσαι)**, _katartisai_, «preparar o poner en condiciones», rige la capacitación; **(ἔργον διακονίας)**, _ergon diakonias_, «obra de servicio», nombra la práctica; y **(μέχρι καταντήσωμεν)**, _mechri katantēsōmen_, «hasta que lleguemos», mantiene el horizonte comunitario. Eric relaciona la «plenitud» con una estatura que no depende de un individuo excepcional. El texto lo confirma al pasar de «cada uno» a «todo el cuerpo», que crece cuando cada articulación aporta; la equivalencia de **(ἁφή)**, _haphē_, «unión o ligamento», con una imagen hebrea de unión sería solo comparativa, no una retroversión.
+
+El cambio de vida empieza en lo aprendido del Mesías, no en una técnica de autoformación. **(ἀπεθέσθαι)**, _apesthai_, «quitarse o dejar a un lado», y **(ἐνδύσασθαι)**, _endysasthai_, «vestirse», presentan dos movimientos relacionados con el viejo y el nuevo ser humano; **(ἀνανεοῦσθαι)**, _ananeousthai_, «ser renovado», aparece en medio como proceso que afecta el espíritu de la mente. Eric describe aquí libertad como salida de una forma antigua de vivir; Efesios la prueba con la verdad y la justicia de 4:25-32. La lectura no debe separar madurez doctrinal y conducta: el contexto hace que vestir la nueva humanidad sea visible en el cuerpo que se edifica.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
