@@ -43,6 +43,15 @@ Esta nota consolida las sesiones públicas del hermano Eric de Jesús Rodríguez
 
 La hoja conserva texto hebreo efectivamente extraído del corpus local; las glosas y conclusiones que siguen distinguen entre lo que la perícopa afirma y las conexiones pedagógicas de la exposición.
 
+## Hoja de comparación
+
+| Referencia       | Texto local (Delitzsch)                                                                                                                                                   | Función en el argumento                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| #romanos_9_1-5   | **אֱמֶת אֲנִי מְדַבֵּר בַּמָּשִׁיחַ ... כִּי אֲנִי מִתְאַבֵּל מְאׂד׃** ... **אֲשֶׁר לָהֶם הַבָּנִים וְהַכָּבוֹד וְהַבְּרִיתוֹת וְהַתּוֹרָה וְהָעֲבוֹדָה וְהַהַבְטָחוֹת׃** | El dolor de Pablo y los privilegios de Israel abren la discusión; no hay base para borrar su historia.             |
+| #romanos_9_6-13  | **אֲבָל לׂא שֶׁנָּפַל דְּבַר אֱלׂהִים אָרְצָה כִּי לׂא־כׂל אֲשֶׁר מִיִּשְׂרָאֵל יִשְׂרָאֵל הֵמָּה׃** ... **כִּי בְיִצְחָק יִקָּרֵא לְךָ זָרַע׃**                          | La palabra no falla; Pablo distingue el recorrido de la promesa de la mera descendencia.                           |
+| #romanos_9_14-18 | **אִם־כֵּן הֲנׂאמַר שֶׁיֶּשׁ־עָוֶל בֵּאלׂהִים חָלִילָה׃** ... **בַּעֲבוּר הַרְאׂתְךָ אֶת־כּׂחִי וּלְמַעַן סַפֵּר שְׁמִי בְּכָל־הָאָרֶץ׃**                                 | La objeción de injusticia y el propósito histórico de Faraón quedan dentro de la misericordia y el endurecimiento. |
+| #romanos_9_25-33 | **אֶקְרָא לְלׂא־עַמִּי עַמִּי ... וְעַתָּה הֲנׂאמַר שֶׁהַגּוֹיִם ... הִשִׂיגוּ אֶת־הַצְּדָקָה ... אֲבָל יִשְׂרָאֵל ... נִכְשְׁלוּ בְּאֶבֶן הַנֶּגֶף׃**                    | Remanente, naciones, justicia y tropiezo forman el cierre; no una condena étnica indiscriminada.                   |
+
 ## Romanos 9:1-5: dolor y privilegios reales
 
 Pablo comienza afirmando su verdad en el Mesías y su testimonio en el Ruaj HaKodesh (#romanos_9_1-2). Su angustia por sus hermanos israelitas no expresa desprecio: enumera adopción, gloria, pactos, entrega de la Torah, culto, promesas, patriarcas y la relación mesiánica según la carne (#romanos_9_4-5). La cuestión del capítulo nace, por tanto, dentro de la historia de Israel y no contra ella. Cualquier aplicación que use Romanos 9 para borrar esos privilegios contradice el orden explícito del apóstol.
