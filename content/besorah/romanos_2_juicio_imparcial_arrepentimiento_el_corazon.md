@@ -529,6 +529,6 @@ La nota preserva así la consolidación del capítulo: bondad que llama al retor
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [La carta a los romanos (parte 4) Cap 2:5 Tshuváh - el retorno](https://www.youtube.com/watch?v=s1GjTmOIsc0) (`source_id`: `youtube:s1GjTmOIsc0`).
 - [La carta a los romanos (Parte 5) Cap 2:5-16 La torah escrita en el corazón](https://www.youtube.com/watch?v=ARbk1Ce12Ew) (`source_id`: `youtube:ARbk1Ce12Ew`).
-- [La carta a los romanos (parte 6B) No es predestinación, es elección](https://www.youtube.com/watch?v=58zpHWwa9Xw) (`source_id`: `youtube:58zpHWwa9Xw`).
 - [La carta a los romanos (parte 6A) ¿Qué es ser judío? ¿Qué es ser creyente?](https://www.youtube.com/watch?v=6D7Yj0bDSfU) (`source_id`: `youtube:6D7Yj0bDSfU`).
-- Esta nota organiza y contrasta las clases; no presenta transcripciones automáticas como citas literales.
+- [La carta a los romanos (parte 6B) No es predestinación, es elección](https://www.youtube.com/watch?v=58zpHWwa9Xw) (`source_id`: `youtube:58zpHWwa9Xw`).
+- Las observaciones de las sesiones se conservan como paráfrasis atribuibles y se evalúan frente al texto local; no se presentan transcripciones automáticas como citas literales.
