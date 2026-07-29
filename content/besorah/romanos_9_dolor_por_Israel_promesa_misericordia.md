@@ -286,6 +286,14 @@ En 9:19-24, **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa res
 
 El cierre conserva responsabilidad junto con misericordia. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; y **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra. En 9:30-33 sus glosas son **directas**, pero la relación pedagógica entre _pistis_ y **אמונה**, _emunah_, es **aproximada**. La lectura de Eric recibe apoyo cuando distingue utilidad histórica y salvación; necesita corrección si transforma la soberanía en fatalismo o el tropiezo de Israel en condena étnica. Romanos 9 termina con promesa, remanente, justicia y respuesta, y prepara la esperanza y la responsabilidad de Romanos 10–11.
 
+## Síntesis de la reparación: propósito, misericordia y responsabilidad
+
+La observación de Eric en `youtube:atIdZY13b_c` debe conservarse en su alcance comprobable: Faraón puede ser levantado para una función histórica sin que esa función, por sí sola, demuestre una salvación personal. **(ἐγείρω)**, _egeirō_, significa levantar, suscitar o hacer aparecer; en 9:17 introduce el propósito de mostrar el poder de Elohim y anunciar su Nombre. «Levantar» es una glosa **directa**; deducir desde ella el destino final de Faraón sería **inferencial y no demostrado** por la perícopa. La paráfrasis de la clase se mantiene atribuible, pero no se presenta como cita literal.
+
+El argumento no puede separarse del dolor inicial. **(λύπη)**, _lypē_, significa tristeza, dolor o aflicción; en 9:2 nombra el sufrimiento de Pablo por sus hermanos. **(διαθήκη)**, _diathēkē_, significa pacto, alianza o disposición; «pactos» es una glosa **directa** dentro de la lista de privilegios de 9:4. La cautela sobre utilidad y salvación recibe así una corrección canónica: no permite borrar la historia de Israel ni convertir la soberanía en desprecio étnico.
+
+En 9:19-24, **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa responder, replicar o contestar; **(κεραμεύς)**, _kerameus_, significa alfarero; y **(πηλός)**, _pēlos_, significa barro o arcilla. Sus sentidos ordinarios son **directos**, mientras la asimetría entre formador y criatura es **contextual**. El texto responde a la objeción sin ofrecer una biografía exhaustiva de cada vaso. Finalmente, **(πίστις)**, _pistis_, significa fe, confianza o fidelidad, y **(προσκόπτω)**, _proskoptō_, significa tropezar o chocar contra; sus glosas son **directas**, pero la relación pedagógica con **אמונה**, _emunah_, es **aproximada**. La lectura de Eric queda respaldada **cualificadamente**: propósito histórico, misericordia y responsabilidad deben permanecer juntos mientras Romanos 9 prepara la continuación de 10–11.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]

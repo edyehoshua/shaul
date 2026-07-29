@@ -452,6 +452,14 @@ En #romanos_2_4, **(ἄγω)**, _agō_, significa llevar, conducir o guiar; su f
 
 En 2:15, **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; su fuerza **forense** es que acusa o defiende dentro del juicio, no que cada sentimiento sea una revelación suficiente. En 2:25-29, **(ὠφελέω)**, _ōpheleō_, significa beneficiar o ser provechoso, y su fuerza es condicional: la señal beneficia si se practica la Torah. **(ἔπαινος)**, _epainos_, significa alabanza o aprobación; la alabanza decisiva procede de Elohim. Estas glosas son **directas** en su campo ordinario; convertirlas en una teoría total de identidad o elección sería **inferencial**. Así, la perícopa conserva la historia de Israel, exige coherencia al interlocutor y excluye tanto el desprecio étnico como el mérito autónomo.
 
+## Síntesis de la reparación: la señal queda bajo el juicio
+
+La enseñanza atribuible a Eric en `youtube:6D7Yj0bDSfU` formula públicamente la pregunta por ser judío y ser creyente. La nota puede conservar ese foco sin inventar una transcripción: Romanos 2 responde siguiendo la perícopa, desde el juez que no tiene excusa hasta la alabanza que procede de Elohim. **(ἀναπολόγητος)**, _anapologētos_, significa sin defensa o sin excusa; en 2:1 su fuerza contextual cierra la salida del que condena a otro mientras practica lo mismo. La glosa es **directa**; aplicarla a todo discernimiento moral, sin la condición de hipocresía del versículo, sería **ilegítimo**.
+
+La unidad central distingue recepción y respuesta. **(ἀκροατής)**, _akroatēs_, significa oyente o quien escucha, y **(ποιητής)**, _poiētēs_, significa hacedor o practicante; en 2:13 el contraste es **directo** y **textual**, no una autorización para despreciar el aprendizaje. **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior; en 2:15 su fuerza es **forense**, porque acusa o defiende ante el juicio, no una autoridad autónoma. Eric acierta al poner la identidad bajo examen; Romanos limita la aplicación recordando que la conciencia comparece ante Elohim y que Romanos 3 cerrará toda jactancia.
+
+El cierre mantiene la señal histórica y la exigencia interior. **(ὠφελέω)**, _ōpheleō_, significa beneficiar o ser provechoso; en 2:25 la circuncisión beneficia condicionalmente, «si haces la Torah». **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; en 2:29 identifica la aprobación que viene de Elohim. Ambas glosas son **directas**, mientras afirmar que la circuncisión del corazón elimina la historia de Israel sería **inferencial e ilegítimo**. La evaluación consolidada es, por tanto, **textual y cualificada**: nombre, Torah y señal no son escudos; tampoco se convierten en motivo para una acusación étnica contra el pueblo al que Pablo atribuye pactos y promesas.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
