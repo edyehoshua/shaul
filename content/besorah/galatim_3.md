@@ -233,6 +233,18 @@ El segundo título se evalúa con #galatians_3_19-25. **(μεσίτης)**, _mes
 
 La relación entre **קְלָלָה**, _qelalah_, «maldición, deshonra o condición maldita», y **(κατάρα)**, _katara_, «maldición», es **intertextual y aproximada**, no etimológica. Del mismo modo, la prioridad de la promesa sobre la Torah posterior es **textual** en 3:15-18, mientras concluir que la Torah es enemiga de la promesa sería **ilegítimo** frente a 3:21-25. Así se conserva el alcance público de Eric sin inventar observaciones: los títulos delimitan el tema, los conectores de Galatim gobiernan el argumento y las extensiones ontológicas o históricas permanecen calificadas.
 
+## Reparación desarrollada: los títulos públicos y la perícopa completa
+
+Los videos públicos `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E` permiten atribuir a Eric únicamente los focos visibles de «la maldición de la Ley» y «El Mediador y la Ley». Sus transcripciones no están disponibles en el inventario local; por eso no se reconstruye una cita ni una explicación verbal de esas sesiones. La evaluación debe seguir Galatim 3 en orden: la maldición afecta a quien no permanece en todo lo escrito, el Mesías redime para que la bendición alcance a las naciones y la Torah posterior no anula la promesa.
+
+En #galatians_3_10, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual procede de la obligación de permanecer en todo lo escrito. «Maldito» es una glosa **directa**; sustituirla por «excluido» sería **aproximado y pedagógico**, no una traducción completa. En #galatians_3_13, **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, rescatar o liberar mediante adquisición; «redimir» es **aproximado**, porque comunica liberación sin imponer un único modelo de rescate.
+
+El propósito de la redención gobierna la lectura: **(ἵνα)**, _hina_, significa para que, a fin de que o con el propósito de; en #galatians_3_14 introduce que la bendición de Abraham llegue a las naciones y que recibamos la promesa del Ruaj. «Para que» es **directo**, y la relación entre **ברכה**, _berakah_, «bendición», y cualquier imagen de injerto o adopción es **pedagógica y aproximada**, no una equivalencia etimológica. La ausencia de transcript exige atribuir a Eric solo el foco anunciado, mientras el texto local permite verificar el propósito.
+
+En #galatians_3_19-20, **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; su fuerza contextual nombra la figura vinculada con la entrega de la Torah, pero el sustantivo no identifica por sí solo todas las partes ni resuelve toda la teología de la mediación. En #galatians_3_24, **(παιδαγωγός)**, _paidagōgos_, significa tutor o acompañante de un menor; «pedagogo» es **aproximado**, y llamarlo «carcelero» sería una paráfrasis **pedagógica demasiado fuerte**. La Torah funciona aquí como custodia orientada al Mesías y no como moneda de mérito ni enemiga de la promesa.
+
+La reparación queda en tres niveles: es **textual** que Galatim relaciona maldición, redención, bendición, mediador y promesa; es **exacto** atribuir a los videos sus títulos, URL públicas y focos visibles; y es **inferencial** reconstruir argumentos no documentados por una transcripción. Así se preserva el crédito visible de Eric, se evita usar fuentes privadas y se deja que la perícopa evalúe cualquier extensión doctrinal.
+
 ## Ver también
 
 - [[galatim_2_gracia_unidad_y_verdad_del_evangelio|Galatim 2: gracia, unidad y verdad del evangelio]]

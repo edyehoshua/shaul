@@ -306,6 +306,16 @@ La respuesta a la objeción también debe permanecer visible. **(ἀνταποκ
 
 Finalmente, 9:25-33 mantiene la respuesta humana dentro de la misericordia. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; su relación con **אמונה**, _emunah_, es **pedagógica y aproximada**, no una sustitución automática del griego. **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra; «tropezar» es **directo**, pero convertirlo en condena étnica total sería **ilegítimo** frente al dolor inicial y la continuación de Romanos 10–11. Así, el estudio conserva lo que Eric observa y deja que el capítulo mantenga juntas propósito, misericordia, emunah y responsabilidad.
 
+## Reparación desarrollada: propósito histórico y responsabilidad ante la misericordia
+
+La sesión pública `youtube:atIdZY13b_c` permite atribuir a Eric una distinción concreta en Romanos 9: que Faraón puede ser levantado para un propósito histórico sin que ese uso demuestre, por sí solo, su salvación personal. La exposición se conserva como paráfrasis atribuible y no como cita literal. Romanos 9:17 sí ofrece el dato textual: Elohim levanta a Faraón para mostrar su poder y para que su Nombre sea anunciado en toda la tierra. La conclusión sobre el destino final de Faraón permanece **inferencial y cualificada**, porque el versículo declara una función histórica, no una biografía soteriológica completa.
+
+En #romanos_9_17, **(ἐγείρω)**, _egeirō_, significa levantar, despertar o suscitar; su fuerza contextual introduce a Faraón en una finalidad declarada por Elohim. «Levantar» es una glosa **directa**, mientras convertir el verbo en una afirmación exhaustiva sobre la salvación de Faraón sería **ilegítimo**. **(ἐνδείκνυμι)**, _endeiknymi_, significa mostrar, señalar o demostrar; en el mismo versículo describe el propósito de manifestar el poder divino. «Mostrar» es **directo**, pero no autoriza a extender el propósito histórico a cada aspecto del juicio individual.
+
+La objeción de #romanos_9_19 pregunta por qué Elohim todavía inculpa si alguien resiste su voluntad. **(ἀντιλέγω)**, _antilegō_, significa contradecir, replicar o disputar; en 9:20 presenta la respuesta humana como una objeción ante el Formador. La glosa es **directa**, y la fuerza contextual establece la asimetría entre criatura y Creador, sin convertir toda pregunta honesta en rebelión ni ofrecer una explicación detallada de cada caso. **(πλάσσω)**, _plassō_, significa formar, modelar o dar forma; su relación con **יוצר**, _yotser_, «formador o alfarero», es **aproximada y pedagógica**, no una identidad léxica.
+
+El final del capítulo impide separar soberanía y respuesta. **(ζητέω)**, _zēteō_, significa buscar, procurar o intentar encontrar; en 9:30-31 contrasta a las naciones que alcanzaron justicia con Israel, que la perseguía como si dependiera de obras. **(προσκόπτω)**, _proskoptō_, significa tropezar o chocar contra; en 9:32-33 describe el tropiezo ante la piedra, no una licencia para despreciar a Israel. La enseñanza de Eric recibe **apoyo textual cualificado** en la distinción entre propósito y salvación; necesita límite si la función histórica elimina la responsabilidad o si la elección se convierte en fatalismo.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
