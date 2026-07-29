@@ -67,12 +67,13 @@ El resultado es colectivo: «con alegría saldrán y en paz serán conducidos».
 
 ## Léxico clave
 
-| Término            | Sentido normal              | Fuerza en Isaías 55                                                                                                                  |
-| ------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **דרש** (_darash_) | buscar, consultar, procurar | En 55:6 ordena una búsqueda real de יהוה, no curiosidad religiosa.                                                                   |
-| **שוב** (_shuv_)   | volver, regresar            | En 55:7 describe el retorno del malvado a יהוה después de abandonar su camino.                                                       |
-| **צדק** (_tsedeq_) | justicia, rectitud          | La conexión de la clase con _tzedaqáh_ es pertinente como rectitud practicada, aunque el sustantivo no aparece en cada verso citado. |
-| **דבר** (_davar_)  | palabra, asunto, mensaje    | En 55:11 designa la palabra enviada que cumple el propósito de יהוה.                                                                 |
+| Forma fuente | Transliteración | Sentido normal                  | Fuerza contextual en Isaías 55                                                                                                             | Relación                                                                |
+| ------------ | --------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| **דרש**      | _darash_        | buscar, consultar, procurar     | En **דרשו יהוה** (55:6) ordena una búsqueda real de יהוה mientras se le puede hallar, no curiosidad religiosa.                             | Exacta en el imperativo; «buscar de corazón» es pedagógico.             |
+| **שוב**      | _shuv_          | volver, regresar                | En **וישב** (55:7) describe el retorno del malvado a יהוה después de abandonar camino y pensamientos.                                      | Exacta en el movimiento del verso; «arrepentirse» es aproximado.        |
+| **צדק**      | _tsedeq_        | justicia, rectitud, norma justa | El énfasis de Eric en _tzedaqáh_ se prueba por el abandono del camino injusto y el retorno; el sustantivo no aparece en cada verso citado. | Aproximada: rectitud practicada, no mérito que obligue a יהוה.          |
+| **דבר**      | _davar_         | palabra, asunto, mensaje        | En **כן יהיה דברי** (55:11) designa la palabra enviada que cumple el propósito de יהוה.                                                    | Exacta como palabra/mensaje; «promesa» es contextual, no sentido único. |
+| **שלום**     | _shalom_        | paz, integridad, bienestar      | En **ובשלום תובלו** (55:12) describe la conducción gozosa de la restauración.                                                              | Aproximada si se reduce a tranquilidad interior.                        |
 
 ## Conclusión
 
