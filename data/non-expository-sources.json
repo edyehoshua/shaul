@@ -3,6 +3,14 @@
   "purpose": "Local classifications for lane-owned media that must not become canonical transcript studies.",
   "entries": [
     {
+      "source_id": "youtube:dWfZ0pLJAlk",
+      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
+      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
+      "classification": "musical-performance",
+      "reason": "La captura local es muy breve (17 segmentos) y el título identifica una interpretación musical de Isaías 62; no conserva una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-30"
+    },
+    {
       "source_id": "youtube:GN22XKFRYGM",
       "title": "תהילים טז. the most important decision",
       "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
