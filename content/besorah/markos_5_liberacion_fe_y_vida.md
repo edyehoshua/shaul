@@ -69,26 +69,38 @@ En la segunda mitad, la mujer se acerca desde atrás y la hija de Iair queda en 
 
 Así, la secuencia completa puede resumirse sin perder sus diferencias: (1) autoridad que enfrenta la opresión en los sepulcros; (2) restauración visible que devuelve a casa; (3) confianza expuesta en medio de una multitud; (4) perseverancia durante la demora; y (5) vida levantada que vuelve a lo cotidiano. La observación pública de Eric queda limitada al foco del primer movimiento, mientras el capítulo local permite probar el desarrollo posterior sin adjudicarle a la clase argumentos no recuperados.
 
+La cadena verbal refuerza ese movimiento. En 5:8, **ἔξελθε**, _exelthe_, «sal», es un imperativo dirigido al espíritu y no al hombre como si su identidad fuese idéntica a la opresión; en 5:19, **ὕπαγε**, _hypage_, «ve», dirige al hombre restaurado hacia su casa; y en 5:41, **ἔγειρε**, _egeire_, «levántate», produce una acción corporal verificable en la muchacha. Las tres órdenes deben distinguirse: expulsión, retorno y levantamiento. Juntas impiden resumir el capítulo como una técnica indiferenciada de milagros y conservan la observación más segura del texto: la autoridad de Yehoshua devuelve a personas concretas a relaciones, testimonio y vida cotidiana.
+
 ## Hoja de comparación
 
 | Referencia      | Texto TTH local                                                                                                  | Función en la lectura                                                                       |
 | --------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | #markos_5_1-8   | Yehoshua encuentra al hombre de los sepulcros y manda salir al espíritu impuro.                                  | La autoridad se dirige a una persona aislada y no se limita a discutir con la voz opresora. |
 | #markos_5_9-20  | «Mi nombre es Legión»; después el hombre queda sentado, vestido y cuerdo, y recibe la orden de volver a su casa. | La liberación tiene un resultado visible y una misión de testimonio.                        |
-| #markos_5_21-24 | Iair, grande de la asamblea, cae ante Yehoshua y le ruega por su hija; Yehoshua parte con él.                    | La petición de vida introduce la demora en la que ocurrirá el encuentro con la mujer.       |
+| #markos_5_22-24 | Iair pide por su hija y Yehoshua comienza a ir con él antes de la interrupción de la mujer.                      | La petición de vida queda abierta mientras el relato introduce una demora decisiva.         |
 | #markos_5_25-34 | La mujer toca el vestido, cuenta toda la verdad y escucha: «tu emunah te ha salvado; ve en shalom».              | La confianza queda expuesta, nombrada y acompañada por paz.                                 |
-| #markos_5_35-43 | Llega la noticia de muerte; Yehoshua dice «No temas, sólo afírmate» y manda levantarse a la muchacha.            | La vida restaurada atraviesa la demora y la noticia de muerte.                              |
+| #markos_5_35-43 | Llega la noticia de la muerte; Yehoshua dice «No temas, sólo afírmate» y manda levantarse a la muchacha.         | La vida restaurada atraviesa la demora y la noticia de muerte.                              |
 
 ## Léxico clave
 
-| Forma              | Transliteración | Sentido normal y contextual                      | Equivalencia                                                         |
-| ------------------ | --------------- | ------------------------------------------------ | -------------------------------------------------------------------- |
-| **(λεγιών)**       | _legiōn_        | legión o gran cuerpo; nombre narrativo de muchos | Exacta como préstamo contextual; no es diagnóstico moderno           |
-| **(σωφρονεῖν)**    | _sōphronein_    | ser sensato, tener juicio sano                   | Aproximada con «estar cuerdo»                                        |
-| **(πίστις)**       | _pistis_        | confianza, fidelidad, fe                         | Aproximada con _emunah_; el contexto decide el matiz                 |
-| **(εἰρήνη)**       | _eirēnē_        | paz, bienestar, condición de concordia           | Pedagógica con _shalom_; no equivalencia total                       |
-| **(πίστευε)**      | _pisteue_       | cree, confía; imperativo presente                | Exacta como mandato griego; aplicación sostenida por la forma verbal |
-| **(Ταλιθα κουμι)** | _Talitha koumi_ | niña, levántate                                  | Traducción contextual de la expresión aramea conservada              |
+| Forma              | Transliteración | Sentido normal y contextual                      | Equivalencia                                                                             |
+| ------------------ | --------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **(λεγιών)**       | _legiōn_        | legión o gran cuerpo; nombre narrativo de muchos | Exacta como préstamo contextual; no es diagnóstico moderno                               |
+| **(σωφρονεῖν)**    | _sōphronein_    | ser sensato, tener juicio sano                   | Aproximada con «estar cuerdo»                                                            |
+| **(πίστις)**       | _pistis_        | confianza, fidelidad, fe                         | Aproximada con _emunah_; el contexto decide el matiz                                     |
+| **(εἰρήνη)**       | _eirēnē_        | paz, bienestar, condición de concordia           | Pedagógica con _shalom_; no equivalencia total                                           |
+| **(πίστευε)**      | _pisteue_       | cree, confía; imperativo presente                | Exacta como mandato griego; aplicación sostenida por la forma verbal                     |
+| **(Ταλιθα κουμι)** | _Talitha koumi_ | niña, levántate                                  | Traducción contextual de la expresión aramea conservada                                  |
+| **(ἔξελθε)**       | _exelthe_       | sal, sal fuera; imperativo dirigido al espíritu  | Exacta en la orden narrativa de 5:8; no convierte al hombre en sinónimo del espíritu     |
+| **(ὕπαγε)**        | _hypage_        | ve, retírate, vuelve a tu camino                 | En 5:19 dirige al restaurado a su casa y a los suyos; la autoridad produce reintegración |
+
+## Desarrollo y prueba textual
+
+La secuencia de Marcos 5 no permite tratar «liberación», «sanidad» y «resurrección» como etiquetas intercambiables. En 5:1-20, **ἔξελθε** (_exelthe_, sal) se dirige al espíritu; después el hombre aparece **σωφρονοῦντα** (_sōphronounta_, en juicio sano) y recibe **ὕπαγε** (_hypage_, ve) hacia su casa. La clase de Eric queda confirmada en su foco público sobre el endemoniado de Gdarah, pero la prueba del texto está en el antes y el después: aislamiento, confrontación, juicio restaurado y testimonio. El hombre no queda definido por «Legión»; el relato lo devuelve a nombre, casa y voz.
+
+En 5:21-34, Marcos inserta la mujer dentro del camino hacia la casa de Iair. **ἥψατο** (_hēpsato_, tocó) describe un acto físico, mientras **πίστις** (_pistis_, confianza o fidelidad) interpreta la relación desde la palabra de Yehoshua: «tu emunah te ha salvado». La correspondencia con **אמונה** (_emunah_, firmeza o fidelidad) es aproximada, no una prueba de que el griego sea una traducción mecánica del hebreo. La demora no es un desvío sin función: la mujer habla, recibe dignidad como «hija» y oye **εἰρήνη** (_eirēnē_, paz o bienestar), de modo que la restauración incluye cuerpo, verdad pública y reintegración.
+
+En 5:35-43, la noticia «tu hija murió» intenta cerrar el movimiento, pero Yehoshua manda **μὴ φοβοῦ, μόνον πίστευε** (_mē phobou, monon pisteue_, no temas, sólo confía). Luego toma a la muchacha y ordena **ἔγειρε** (_egeire_, levántate). El imperativo no es una contraseña y la expresión aramea **Talitha koumi** conserva un tono afectuoso; el resultado se verifica porque ella camina y come. Así el capítulo sigue un orden preciso: el espíritu sale, el hombre vuelve, la mujer habla y la niña se levanta. La observación atribuible de Eric se mantiene en ese marco textual, sin convertir la emunah en técnica para controlar el resultado.
 
 ## Mapa de la enseñanza de Eric
 
