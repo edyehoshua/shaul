@@ -118,6 +118,14 @@ Jacob «reconoció» la túnica y concluyó: «una fiera lo ha devorado» (#bere
 
 Bereshit 37 no romantiza la familia ni convierte los sueños en una autorización para el orgullo. Muestra una casa asentada en la tierra, pero fracturada por favoritismo, odio y engaño; muestra también que la violencia de los hermanos no logra cerrar la historia de José. La preservación se verá con mayor claridad después, mientras este capítulo llama a juzgar los actos por lo que son y a esperar la obra de יהוה sin llamar bueno al mal.
 
+## El sueño no justifica la violencia ni la cancela
+
+La clase de Eric insiste en que los hermanos intentan juzgar la palabra destruyendo al portador. Bereshit 37 lo muestra en la frase **ונראה מה יהיו חלמתיו**: «veremos qué serán sus sueños» (#bereshit_37_20). **(היה)**, _hayah_, significa ser, llegar a ser o acontecer; en esta pregunta, su fuerza contextual mira al destino todavía abierto de los sueños, no a una orden para que José reine inmediatamente. La traducción «qué será de sus sueños» es **aproximada**, pero conserva la tensión narrativa. Los hermanos creen que pueden resolver el futuro mediante el pozo; el texto no concede que su violencia sea una obediencia legítima.
+
+El cambio de asesinato a venta tampoco convierte el juicio en paz. Judá pregunta **מה בצע**, _mah betsa_, «¿qué provecho?», y luego los hermanos **וימכרו**, _vayimkeru_, «vendieron» a José. **(בצע)**, _betsa_, significa provecho o ganancia, con frecuencia de manera injusta; aquí descubre el cálculo de la propuesta. **(מכר)**, _makhar_, significa vender; su fuerza contextual es transferir a una persona por plata, no rescatarla. Eric acierta al distinguir una reducción del daño inmediato de una restauración moral: la venta evita el derramamiento directo de sangre, pero sigue siendo explotación y separación.
+
+La providencia solo puede afirmarse desde el arco posterior. En este capítulo, Jacob ve la túnica y dice **טרף טרף יוסף**, _tarof taraf Yosef_, «José ha sido despedazado» (#bereshit_37_33). **(טרף)**, _taraf_, significa desgarrar o devorar como presa; la repetición intensifica la imagen. «Sacrificio» sería una equivalencia **inexacta**. La clase puede leer retrospectivamente el descenso a Mitsráyim como preservación, pero la afirmación inmediata es que la mentira produce duelo verdadero. יהוה no necesita llamar bueno al mal de los hermanos para conducir la historia hacia una preservación que el lector conocerá después.
+
 ## Ver también
 
 - [[bereshit_6_noaj_gracia_juicio_y_consuelo|Bereshit 6: Noaj, gracia y juicio]]

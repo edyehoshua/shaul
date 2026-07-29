@@ -7,6 +7,10 @@ tags:
   - bamidbar
 references:
   - "#bamidbar_8_1"
+  - "#bamidbar_8_2-4"
+  - "#bamidbar_8_5-13"
+  - "#bamidbar_8_14-19"
+  - "#bamidbar_8_20-26"
 sources:
   - "https://www.youtube.com/watch?v=Ps_KEolNVdU"
   - "https://www.youtube.com/watch?v=f0PQY7bXbJQ"
@@ -15,6 +19,7 @@ sources:
   - "https://www.youtube.com/watch?v=eJlTuHME674"
   - "docs/scriptures/oe/json/numbers/8.json"
   - "docs/scriptures/tth/json/bamidbar.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:Ps_KEolNVdU"
   - "youtube:f0PQY7bXbJQ"
@@ -126,7 +131,33 @@ Eric también explica **פנים**, _panim_, como aquello visible o expuesto a l
 
 ## Conclusión
 
-Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación.
+Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación. El recorrido es deliberadamente acumulativo: las lámparas reciben una orientación concreta (vv. 1-4), los levitas atraviesan una preparación visible (vv. 5-13), la sustitución queda explicada por la memoria de los primogénitos (vv. 14-19) y el servicio termina siendo limitado por edad y tarea (vv. 20-26). Así, la aplicación de Eric al liderazgo puede conservarse como analogía pedagógica, pero la afirmación exacta del capítulo es más estrecha: יהוה ordena un servicio levítico recibido, comunitariamente reconocido y sujeto a relevo.
+
+## Una misma ordenanza une luz, pertenencia y relevo
+
+La transición del capítulo no autoriza a tratar la Menoráh y los leviím como dos símbolos independientes. En 8:2 Aharón recibe la orden de hacer subir las lámparas hacia la faz de la Menoráh; en 8:20 Israel, Aharón y sus hijos hacen con los leviím «conforme a todo lo que mandó יהוה». El OE conserva el verbo **(עשה)**, _asah_, «hacer, realizar o ejecutar», en la respuesta de Israel. Su fuerza contextual es obedecer una configuración recibida; «crear una experiencia espiritual» sería una equivalencia pedagógica, no exacta.
+
+Eric observa que la luz del servidor debe apuntar fuera de sí mismo. La imagen queda bien apoyada como aplicación porque las lámparas no se orientan hacia el prestigio de Aharón, sino hacia la Menoráh, y porque los leviím no se presentan como dueños de su función: son tomados de Israel, dados a יהוה y dados a Aharón para el trabajo de la Tienda. Pero el texto establece algo más concreto que una exhortación general. **(הבדל)**, _hivdil_, significa separar o distinguir; en 8:14 reserva a los leviím para una tarea cultual. **(תחת)**, _tajat_, significa «en lugar de»; en 8:18 expresa sustitución funcional de los primogénitos, no una superioridad moral ni un reemplazo universal.
+
+La última delimitación confirma el argumento. TTH vierte 8:26 como asistencia a sus hermanos en la Tienda del Encuentro después de cesar la labor pesada. **(שמר)**, _shamar_, significa guardar, custodiar u observar; su fuerza aquí es responsabilidad continuada, no dominio. **(שרת)**, _sharet_, significa servir o asistir; «gobernar» sería inexacto. Por tanto, la aplicación de Eric al liderazgo es **pedagógica y aproximada**, mientras que la afirmación textual **exacta** es que יהוה orienta las lámparas, prepara a los leviím y regula incluso la forma en que el servidor mayor sigue ayudando.
+
+## La orientación de la luz y la forma del servicio — vv. 1-26
+
+La lectura de Eric gana precisión cuando se observa que Bamidbar 8 no yuxtapone dos sermones, uno sobre la Menoráh y otro sobre los leviím. El mandato inicial y la ejecución final forman un marco de obediencia: «así hizo Aharón» (#bamidbar_8_3), y luego «hicieron los hijos de Israel a los leviím conforme a todo lo que mandó יהוה» (#bamidbar_8_20). **(עשה)**, _asah_, significa hacer, realizar o ejecutar; en estas formas su fuerza contextual es obedecer una configuración recibida, no crear un rito a partir de una intuición privada. «Manifestar la propia luz» es una aplicación pedagógica posible, pero no equivale al verbo.
+
+La dirección **אל מול פני המנורה**, _el mul פני hamenorah_, debe permanecer en el centro del argumento. **(מול)**, _mul_, significa frente, enfrente o hacia la dirección de; **(פנים)**, _panim_, significa rostro, faz o presencia. En el pasaje, su fuerza es espacial: las siete lámparas alumbran hacia la faz de la Menoráh. El TTH conserva esa orientación y OE la deja visible. Eric puede extenderla a un testimonio que mira a יהוה, pero la extensión es **teológica y aproximada**; el sentido inmediato no es que las lámparas iluminen el mundo entero ni que cada lámpara represente automáticamente una doctrina posterior.
+
+El movimiento de los leviím confirma el mismo principio de dependencia. **(הבדל)**, _hivdil_, significa separar o distinguir; en 8:14 reserva a los leviím de entre Israel para una función cultual. **(נתן)**, _natan_, significa dar, poner o entregar; la repetición de 8:16-19 especifica que son dados a יהוה y a Aharón para servir a los hijos de Israel. «Investir de poder» es **pedagógico**, no exacto. La comunidad pone sus manos sobre ellos, pero la acción no convierte al servidor en propietario del santuario: el destinatario último es יהוה y el propósito es el trabajo recibido.
+
+Delitzsch ofrece un contraste canónico útil, no una sustitución de Bamidbar. En Ivrim 9:6 escribe: **ואחרי נעשו אלה ככה באו הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**, «y después de haberse hecho así estas cosas, los sacerdotes entran siempre en el tabernáculo exterior para realizar allí su servicio». La frase comparte con Bamidbar 8 la idea de servicio ordenado, pero no borra la diferencia entre sacerdotes y leviím. **(תמיד)**, _tamid_, significa continuamente, regularmente o siempre; en Ivrim describe la repetición del servicio, mientras Bamidbar 8 regula la entrada, el relevo y la asistencia de una familia levítica. La conexión es **canónica y aproximada**, no una equivalencia institucional.
+
+Por eso la clase queda evaluada en dos niveles. Es exacto decir que la luz está orientada y que el servicio tiene preparación, comunidad y límites. Es una inferencia pedagógica decir que el capítulo establece una regla directa para todo liderazgo contemporáneo. La secuencia textual es más sobria y más fuerte: יהוה habla, Aharón ejecuta, Israel reconoce, los leviím sirven y la edad modifica la labor sin cancelar la responsabilidad. El servidor brilla solo en la dirección recibida y permanece responsable ante la comunidad a la que sirve.
+
+## Conexión canónica: servicio visible y acceso regulado
+
+La conexión con Ivrim debe conservar la dirección del capítulo, no reemplazarla. La traducción hebrea de Delitzsch en Ivrim 9:6-8 dice: **ואחרי נעשו אלה ככה באו הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם** y que «el camino al Santuario» no se había manifestado mientras permanecía el tabernáculo exterior. Es una lectura canónica posterior que confirma dos aspectos que Eric destaca: el servicio tiene un lugar, una tarea y un orden; el acceso no nace de la iniciativa del servidor. No es una traducción de Bamidbar 8 ni prueba que los levitas sean idénticos a los sacerdotes de Ivrim.
+
+En términos léxicos, **(עבודה)**, _avodah_, significa trabajo, servicio o labor; en Bamidbar 8 nombra la labor levítica, mientras que en Delitzsch Ivrim 9:6 aparece dentro del servicio sacerdotal del tabernáculo exterior. La equivalencia «ministerio» es pedagógica y puede ser demasiado estrecha. **(דרך)**, _derekh_, significa camino, vía o manera; en Ivrim 9:8 su fuerza es el acceso al Santuario, no una ruta emocional. La aplicación de Eric —que la luz y el servicio deben permanecer orientados hacia יהוה— es teológica y aproximada; la afirmación textual de Bamidbar sigue siendo concreta: las lámparas se orientan hacia la Menoráh y los levitas son purificados, entregados y regulados para servir.
 
 ## Reparación: la Menoráh, los levitas y la lógica de la sustitución
 
