@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 914,
-  "pending_videos": 44,
-  "transcript_notes": 467,
+  "covered_videos": 916,
+  "pending_videos": 42,
+  "transcript_notes": 469,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -48,12 +48,12 @@
     },
     "Fiestas": {
       "total": 53,
-      "covered": 49,
+      "covered": 51,
       "lane": "efesios"
     },
     "Fiestas restantes sin asignar (grupo coherente de inventario)": {
       "total": 5,
-      "covered": 2,
+      "covered": 4,
       "lane": "efesios"
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
@@ -228,7 +228,7 @@
     },
     "Shavu’ot": {
       "total": 7,
-      "covered": 5,
+      "covered": 7,
       "lane": "colosenses"
     },
     "Shir hashirim completo": {
