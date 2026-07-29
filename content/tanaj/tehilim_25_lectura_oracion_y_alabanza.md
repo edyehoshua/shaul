@@ -32,11 +32,23 @@ Esta nota desarrolla la fuente pública de la clase «Tehilim/Himnos/Salmo Cap 2
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
-| --- | --- | --- |
-| #tehilim_25_1-7 | La clase presenta el capítulo como una oración de confianza que une el acto de elevar el alma, la espera y la petición de memoria misericordiosa. | **Apoyo textual**: el orante confía, espera todo el día y pide que יהוה recuerde sus רחמים y חסדים; la exposición completa queda pendiente de cotejo. |
-| #tehilim_25_4-14 | Eric orienta la atención a los caminos que יהוה enseña a los humildes y a la relación entre temor de יהוה, pacto y conocimiento. | **Apoyo textual y clarificación léxica**: דרכים, ענוים, יראה, סוד y ברית aparecen en una secuencia de aprendizaje; no se afirma una equivalencia automática entre “temor” y una sola emoción moderna. |
-| #tehilim_25_15-22 | La enseñanza conduce desde la red y la soledad del afligido hasta la petición final por Israel; la oración personal se abre hacia el pueblo. | **Apoyo textual e inferencia cualificada**: el texto pasa de “mis ojos” y “mi aflicción” a la redención de Israel; la aplicación comunitaria es coherente con el cierre, pero no reemplaza su sentido poético. |
+| Unidad textual    | Observación concreta de la clase                                                                                                                  | Tratamiento en esta nota                                                                                                                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_25_1-7   | La clase presenta el capítulo como una oración de confianza que une el acto de elevar el alma, la espera y la petición de memoria misericordiosa. | **Apoyo textual**: el orante confía, espera todo el día y pide que יהוה recuerde sus רחמים y חסדים; la exposición completa queda pendiente de cotejo.                                                          |
+| #tehilim_25_4-14  | Eric orienta la atención a los caminos que יהוה enseña a los humildes y a la relación entre temor de יהוה, pacto y conocimiento.                  | **Apoyo textual y clarificación léxica**: דרכים, ענוים, יראה, סוד y ברית aparecen en una secuencia de aprendizaje; no se afirma una equivalencia automática entre “temor” y una sola emoción moderna.          |
+| #tehilim_25_15-22 | La enseñanza conduce desde la red y la soledad del afligido hasta la petición final por Israel; la oración personal se abre hacia el pueblo.      | **Apoyo textual e inferencia cualificada**: el texto pasa de “mis ojos” y “mi aflicción” a la redención de Israel; la aplicación comunitaria es coherente con el cierre, pero no reemplaza su sentido poético. |
+
+## Control de la secuencia: confianza que aprende y termina intercediendo
+
+La clase de Eric presenta Tehilim 25 como una oración que no separa confianza de instrucción. El comienzo lo muestra literalmente: «אליך יהוה נפשי אשא», «hacia ti, יהוה, levanto mi vida» (25:1), seguido de «אלהי בך בטחתי», «Elohim mío, en ti confié» (25:2). **(נשא)**, _nasa_, significa llevar, levantar o cargar; aquí la forma expresa orientar la propia vida hacia יהוה. **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; «alma» es una traducción tradicional **aproximada**, no una prueba de una entidad separable del cuerpo. La confianza, además, tiene un adversario concreto: «אל אבושה», «no seré avergonzado», y «אל יעלצו אויבי לי», «no se alegren mis enemigos sobre mí».
+
+En los vv. 4-5 la petición cambia de rescate a formación: «דרכיך יהוה הודיעני», «hazme conocer tus caminos», «ארחותיך למדני», «enséñame tus sendas», y «הדריכני באמתך», «guíame en tu verdad». **(דרך)**, _derekh_, significa camino o manera de proceder; **(ארח)**, _oraj_, significa senda o trayecto. «Camino espiritual» puede ser una paráfrasis pastoral, pero el sentido inmediato es que יהוה debe enseñar una manera de vivir. **(למד)**, _lamad_, significa aprender o enseñar; en el imperativo dirigido a יהוה, su fuerza es pedir instrucción, no simplemente pedir información. Eric acierta al leer la espera como discipulado: «אותך קויתי כל היום», «a ti esperé todo el día» (25:5), une dirección y perseverancia.
+
+Los vv. 6-11 fundamentan esa petición en la memoria de יהוה: «זכר רחמיך יהוה וחסדיך», «recuerda tus compasiones y tus bondades», pero también confiesan «חטאות נעורי ופשעי», «los pecados de mi juventud y mis rebeliones» (25:7). **(רחם)**, _rajam_, se relaciona con compasión o misericordia; **(חסד)**, _jesed_, es bondad leal o misericordia relacional. «Amor» puede transmitir parte del campo, pero es **aproximado**. **(סלח)**, _salaj_, significa perdonar; en «וסלחת לעוני כי רב הוא», «perdona mi iniquidad, porque es grande» (25:11), el salmista no minimiza su culpa para reclamar enseñanza. La clase vincula confesión y gracia; el texto lo hace mediante la súplica explícita, aunque no convierte el poema en una fórmula automática de absolución.
+
+En 25:8-14 el que enseña es «טוב וישר יהוה», «bueno y recto es יהוה», quien «ידרך ענוים במשפט», «guía a los humildes en juicio». **(ענו)**, _anav_, significa humilde, afligido o manso; aquí designa al que recibe dirección, no una personalidad pasiva idealizada. El «temor de יהוה» **ירא יהוה** recibe enseñanza y habita en un pacto: «סוד יהוה ליראיו ובריתו להודיעם», «el consejo de יהוה es para quienes le temen, y su pacto para darlo a conocer» (25:14). **(סוד)**, _sod_, significa consejo, confidencia o intimidad; «secreto» es posible, pero la fuerza contextual es consejo compartido, no esoterismo.
+
+Finalmente, los ojos del orante permanecen hacia יהוה porque él saca sus pies de la red (25:15). La persona dice «יחיד ועני אני», «estoy solo y afligido» (25:16), pide que sean perdonados «כל חטאותי» (25:18) y concluye: «פדה אלהים את ישראל מכל צרותיו», «redime, Elohim, a Israel de todas sus angustias» (25:22). **(פדה)**, _padah_, significa rescatar o redimir; aquí su sujeto es Elohim y su objeto final es Israel. La observación de Eric sobre pasar de la oración personal a la esperanza del pueblo está, por tanto, en el último verso. La aplicación comunitaria es **textual y directa** en el cierre; la conexión mesiánica posterior queda **canónica y aproximada** y no reemplaza la voz del salmo.
 
 ## De levantar el alma a pedir dirección: vv. 1-7
 
@@ -62,22 +74,22 @@ La última línea ensancha el horizonte: «פדה אלהים את ישראל מ�
 
 ## Hoja de comparación
 
-| Referencia | Texto hebreo local (OE, sin segmentación) | Función en la lectura |
-| --- | --- | --- |
-| #tehilim_25_1-5 | לדוד אליך יהוה נפשי אשא; אלהי בך בטחתי... דרכיך יהוה הודיעני ארחותיך למדני; הדריכני באמתך ולמדני | Confianza que pide dirección y enseñanza. |
-| #tehilim_25_6-11 | זכר רחמיך יהוה וחסדיך... חטאות נעורי ופשעי אל תזכר... וסלחת לעוני כי רב הוא | Memoria de misericordia, confesión y perdón. |
-| #tehilim_25_12-15 | מי זה האיש ירא יהוה יורנו בדרך יבחר... סוד יהוה ליראיו ובריתו להודיעם; עיני תמיד אל יהוה | Temor reverente, pacto y mirada perseverante. |
-| #tehilim_25_16-22 | פנה אלי וחנני כי יחיד ועני אני... תם וישר יצרוני כי קויתיך; פדה אלהים את ישראל מכל צרותיו | Aflicción personal que termina en intercesión por Israel. |
+| Referencia        | Texto hebreo local (OE, sin segmentación)                                                        | Función en la lectura                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| #tehilim_25_1-5   | לדוד אליך יהוה נפשי אשא; אלהי בך בטחתי... דרכיך יהוה הודיעני ארחותיך למדני; הדריכני באמתך ולמדני | Confianza que pide dirección y enseñanza.                 |
+| #tehilim_25_6-11  | זכר רחמיך יהוה וחסדיך... חטאות נעורי ופשעי אל תזכר... וסלחת לעוני כי רב הוא                      | Memoria de misericordia, confesión y perdón.              |
+| #tehilim_25_12-15 | מי זה האיש ירא יהוה יורנו בדרך יבחר... סוד יהוה ליראיו ובריתו להודיעם; עיני תמיד אל יהוה         | Temor reverente, pacto y mirada perseverante.             |
+| #tehilim_25_16-22 | פנה אלי וחנני כי יחיד ועני אני... תם וישר יצרוני כי קויתיך; פדה אלהים את ישראל מכל צרותיו        | Aflicción personal que termina en intercesión por Israel. |
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido normal | Fuerza contextual | Relación |
-| --- | --- | --- | --- | --- |
-| **(נפש)** | nefesh | vida, persona, ser | La vida del orante es elevada hacia יהוה (#tehilim_25_1). | “Alma” es una traducción tradicional **aproximada**, no necesariamente una entidad separada del cuerpo. |
-| **(דרך)** | derekh | camino, manera de proceder | Los caminos de יהוה son enseñados y escogidos (#tehilim_25_4-5, 12). | “Camino” es **exacto**; aplicarlo como método moderno completo sería pedagógico. |
-| **(חסד)** | hesed | bondad leal, misericordia | La memoria de la bondad sostiene la petición de perdón (#tehilim_25_6-7). | “Misericordia” es **aproximada**: el término conserva una dimensión de lealtad relacional. |
-| **(ירא)** | yare | temer, reverenciar | El que teme a יהוה recibe enseñanza y entra en relación de pacto (#tehilim_25_12-14). | “Temor” es **exacto** en lo básico; “respeto” solo sería una reducción pedagógica. |
-| **(סוד)** | sod | consejo, intimidad, confidencia | יהוה hace conocer su consejo a quienes le temen (#tehilim_25_14). | “Secreto” es **posible pero aproximado**; aquí pesa la idea de consejo compartido, no de esoterismo. |
+| Forma     | Transliteración | Sentido normal                  | Fuerza contextual                                                                     | Relación                                                                                                |
+| --------- | --------------- | ------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **(נפש)** | nefesh          | vida, persona, ser              | La vida del orante es elevada hacia יהוה (#tehilim_25_1).                             | “Alma” es una traducción tradicional **aproximada**, no necesariamente una entidad separada del cuerpo. |
+| **(דרך)** | derekh          | camino, manera de proceder      | Los caminos de יהוה son enseñados y escogidos (#tehilim_25_4-5, 12).                  | “Camino” es **exacto**; aplicarlo como método moderno completo sería pedagógico.                        |
+| **(חסד)** | hesed           | bondad leal, misericordia       | La memoria de la bondad sostiene la petición de perdón (#tehilim_25_6-7).             | “Misericordia” es **aproximada**: el término conserva una dimensión de lealtad relacional.              |
+| **(ירא)** | yare            | temer, reverenciar              | El que teme a יהוה recibe enseñanza y entra en relación de pacto (#tehilim_25_12-14). | “Temor” es **exacto** en lo básico; “respeto” solo sería una reducción pedagógica.                      |
+| **(סוד)** | sod             | consejo, intimidad, confidencia | יהוה hace conocer su consejo a quienes le temen (#tehilim_25_14).                     | “Secreto” es **posible pero aproximado**; aquí pesa la idea de consejo compartido, no de esoterismo.    |
 
 ## Pendiente de verificar
 
