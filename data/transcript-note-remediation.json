@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-28",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 244,
+  "total_notes_requiring_remediation": 220,
   "notes": [
     {
       "path": "content/besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion.md",
@@ -39,8 +39,6 @@
         "missing_eric_map"
       ]
     },
-
-
     {
       "path": "content/besorah/romanos_11_olivo_misericordia_esperanza_para_Israel.md",
       "substantive_words": 254,
@@ -123,18 +121,6 @@
         "conexiones principales"
       ],
       "issues": [
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/besorah/romanos_2_juicio_imparcial_arrepentimiento_el_corazon.md",
-      "substantive_words": 253,
-      "thematic_sections": [
-        "lectura del capítulo",
-        "conexiones principales"
-      ],
-      "issues": [
-        "under_300_substantive_words",
         "missing_eric_map"
       ]
     },
@@ -713,7 +699,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/bamidbar_1.md",
       "substantive_words": 60,
@@ -736,7 +721,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/bamidbar_8_parashot_2017.md",
       "substantive_words": 208,
@@ -761,7 +745,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/bereshit_25_parashot_2017.md",
       "substantive_words": 201,
@@ -792,8 +775,6 @@
         "missing_eric_map"
       ]
     },
-
-
     {
       "path": "content/tanaj/bereshit_47_parashot_2017.md",
       "substantive_words": 201,
@@ -910,7 +891,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/devarim_26_parashot_2017.md",
       "substantive_words": 201,
@@ -931,7 +911,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/devarim_7_parashot_2017.md",
       "substantive_words": 201,
@@ -1277,7 +1256,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/shemot_27_parashot_2017.md",
       "substantive_words": 204,
@@ -1288,7 +1266,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/shemot_35_parashot_2017.md",
       "substantive_words": 201,
@@ -1299,7 +1276,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/shemuel_alef_12_retorno_y_servicio.md",
       "substantive_words": 42,
@@ -1394,7 +1370,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/tehilim_18_lectura_oracion_y_alabanza.md",
       "substantive_words": 154,
@@ -1619,30 +1594,6 @@
     },
     {
       "path": "content/tanaj/tehilim_42_lectura_oracion_y_alabanza.md",
-      "substantive_words": 154,
-      "thematic_sections": [
-        "lectura del capítulo"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/tanaj/tehilim_43_lectura_oracion_y_alabanza.md",
-      "substantive_words": 154,
-      "thematic_sections": [
-        "lectura del capítulo"
-      ],
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map"
-      ]
-    },
-    {
-      "path": "content/tanaj/tehilim_44_lectura_oracion_y_alabanza.md",
       "substantive_words": 154,
       "thematic_sections": [
         "lectura del capítulo"
@@ -2304,7 +2255,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/vayikra_14_parashot_2017.md",
       "substantive_words": 201,
@@ -2345,7 +2295,6 @@
         "missing_eric_map"
       ]
     },
-
     {
       "path": "content/tanaj/yejezkel_28_reunion_santidad_y_tierra.md",
       "substantive_words": 58,
