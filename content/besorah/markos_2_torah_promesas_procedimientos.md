@@ -193,6 +193,14 @@ Ese patrón ayuda a leer Irmeiahu 31 sin forzar una oposición entre interiorida
 - [ ] Revisar la terminología escribal sobre **yod**, **qotz** y la invalidez de un rollo por un trazo defectuoso.
 - [ ] Cotejar la equivalencia de #tehilim_40_7 «abriste/cavaste oídos» con #ivrim_10_5 «me preparaste cuerpo» en hebreo, LXX y griego de Ivrim.
 
+## Prueba final: perdón recibido, Torah interior y obediencia visible
+
+Marcos 2 no deja que el perdón se vuelva una abstracción separada del cuerpo. En 2:5, **ἀφίενται**, _aphientai_, «son perdonadas» o «son dejadas», presenta el perdón como resultado declarado; en 2:10, **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica la afirmación del Ben HaAdam; y en 2:11 aparecen los imperativos **ἔγειρε**, _egeire_, «levántate», **ἆρόν**, _aron_, «toma», y **ὕπαγε**, _hypage_, «ve». La secuencia no convierte la acción del hombre en pago por la gracia: muestra que la palabra recibida produce una restauración pública y un camino nuevo.
+
+La conexión con Irmeiahu 31 debe conservar el mismo orden. **(תורה)**, _Torah_, significa instrucción, enseñanza u orientación, no solo «ley» moderna; **(ברית חדשה)**, _berit jadashah_, significa pacto nuevo, y su contenido explícito incluye que la Torah sea puesta dentro y escrita sobre el corazón. La relación con Marcos es canónica y teológica, no una cita formal: la autoridad que perdona y levanta armoniza con una promesa de restauración interior, pero cada pasaje conserva su contexto. La equivalencia entre **(לב)**, _lev_, «corazón», y **καρδία**, _kardia_, es aproximada; ambos pueden señalar el centro interior, pero no deben intercambiarse sin atender a la sintaxis.
+
+La distinción de Eric entre palabra que Elohim sostiene y procedimientos que el pueblo practica también requiere límites léxicos. **(חקים)**, _juqim_, puede significar estatutos o decretos, y **(משפטים)**, _mishpatim_, juicios, decisiones o normas; «promesas divinas» y «procedimientos humanos» son glosas pedagógicas, no sentidos exhaustivos. El texto local de Melajim Alef 2:3-4 sí mantiene juntos mandato humano y palabra prometida, mientras Tehilim 40:7-9 presenta deseo de hacer la voluntad y Torah interior. Así, la obediencia del Mesías y la restauración del paralítico no enseñan que el ser humano obligue a Elohim: responden a una palabra que primero concede vida.
+
 ## Mapa de la enseñanza de Eric
 
 - **#markos_2_1-5 — fe comunitaria que acerca al incapacitado:** Eric presenta la escena como una entrada al tema de la autoridad del Ben HaAdam: quienes cargan al hombre abren camino y Yehoshua responde a la fe observada con una palabra de restauración. El texto apoya la secuencia de casa, palabra, camilla, techo y perdón; la lectura de Ben HaAdam como heredero queda cualificada como conexión semítica.
