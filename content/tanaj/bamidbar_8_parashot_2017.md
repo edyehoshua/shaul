@@ -291,6 +291,15 @@ TTH traduce 8:19 como una entrega de los leviím «a Aharón y a sus hijos, para
 
 El cierre confirma que recibir una tarea también incluye recibir un límite. **(שוב)**, _shuv_, significa volver o regresar; en 8:25 marca el cambio de etapa desde la labor pesada. **(שרת)**, _sharet_, significa servir o asistir; en 8:26 describe ayuda a los hermanos, no dominio sobre ellos. Así, la aplicación de Eric al liderazgo contemporáneo es **teológica y pedagógica**, mientras la perícopa afirma de modo **exacto** que la lámpara, el servidor y el relevo permanecen orientados por una orden recibida y por el bien del pueblo.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual    | Observación concreta de la clase                                                                                                       | Tratamiento frente al texto local                                                                                                                                                             |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #bamidbar_8_1-4   | Eric orienta la enseñanza desde las siete lámparas que alumbran hacia la faz de la Menoráh, no hacia la gloria del servidor.           | El OE y la TTH sostienen exactamente la dirección ritual; aplicar la imagen al testimonio es una extensión pedagógica, no el sentido espacial completo del verso.                             |
+| #bamidbar_8_5-13  | La clase presenta la preparación de los leviím como purificación, entrega pública y servicio recibido, no como autonomía religiosa.    | El texto enumera rociado, afeitado, lavado, imposición de manos y presentación; **(סמך)**, _samakh_, se explica como apoyar o poner, y «transferir poder» queda como equivalencia pedagógica. |
+| #bamidbar_8_14-19 | Eric vincula la separación de los leviím con la sustitución de los primogénitos y con una responsabilidad orientada al bien de Israel. | **(תחת)**, _tajat_, expresa aquí sustitución cultual concreta, no superioridad moral ni reemplazo universal; el v. 19 confirma el servicio para la congregación.                              |
+| #bamidbar_8_23-26 | El relevo por edad muestra que dejar la labor pesada no equivale a abandonar el servicio.                                              | El capítulo afirma entrada, cese de la carga y asistencia a los hermanos; la aplicación a liderazgo contemporáneo es una analogía pedagógica, no una regla universal de edades.               |
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
