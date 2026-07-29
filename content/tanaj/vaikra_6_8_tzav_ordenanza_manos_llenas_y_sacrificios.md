@@ -157,14 +157,6 @@ La investidura hace visible el mismo límite. En 8:35-36, TTH dice que Aharón y
 
 Delitzsch en Ivrim 9:6 ofrece un paralelo canónico: **לבוא הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**, «entran continuamente los sacerdotes en el tabernáculo exterior para realizar allí su servicio». **(תמיד)**, _tamid_, significa continuamente, regularmente o siempre; en Ivrim describe la repetición del servicio. La relación es **canónica y aproximada**: confirma la categoría de servicio regulado, pero no fusiona el sacerdocio de Ivrim con la investidura levítica de Vaikra 8 ni convierte _milluim_ en un título mesiánico. La enseñanza queda mejor delimitada así: יהוה llena las manos para una tarea, y la tarea conserva límites visibles.
 
-## Reparación: la ordenanza se reconoce en límites visibles
-
-La observación de Eric sobre recibir «manos llenas» necesita terminar en la obediencia que el propio texto puede observar. En Vaikra 8:35-36, OE dice **ושמרתם את משמרת יהוה ולא תמותו כי כן צויתי**, «guardarán la custodia de יהוה y no morirán, porque así se me ha ordenado», y TTH conserva que Aharón y sus hijos guardaron todo lo que יהוה ordenó por mano de Moshéh. **(שמר)**, _shamar_, significa guardar, custodiar o vigilar; en esta forma su fuerza contextual es permanecer fielmente dentro del encargo durante los siete días. «Disciplina espiritual» es una equivalencia **pedagógica**, no el sentido completo del verbo. La dotación sacerdotal se prueba en guardar, no en reclamar una capacidad privada.
-
-La misma lógica aparece en la mesa. OE llama al sacrificio de paz **וזאת תורת זבח השלמים**, «esta es la instrucción del sacrificio de las ofrendas de paz» (#vaikra_7_11), y TTH distingue la acción de gracias, el voto y la ofrenda voluntaria. **(שלם)**, _shalam_, significa estar completo, íntegro o en paz; en el plural **(שלמים)**, _shelamim_, designa una categoría sacrificial de bienestar o comunión. «Reconciliación» es una equivalencia **aproximada**, porque no expresa por sí sola los distintos motivos y plazos de consumo. Eric acierta al denunciar una espiritualidad sin forma, pero el texto muestra que la comunión recibida queda bajo categorías, porciones y tiempos.
-
-Delitzsch en Ivrim 9:6 ofrece un paralelo local: **לבוא הכהנים תמיד אל־המשכן החיצון לעבוד שם את־עבודתם**, «entran continuamente los sacerdotes en el tabernáculo exterior para realizar allí su servicio». **(עבד)**, _avad_, significa trabajar o servir; en **לעבוד**, _la'avod_, su fuerza contextual es el servicio cultual repetido. La conexión es **canónica y aproximada**, no una identificación entre los sacerdocios: confirma que el acceso sacerdotal es una tarea regulada. Así, la lectura de Eric queda afinada: יהוה llena las manos para servir, y el servicio se verifica por fuego atendido, porciones respetadas, límites de la mesa y obediencia perseverante.
-
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
