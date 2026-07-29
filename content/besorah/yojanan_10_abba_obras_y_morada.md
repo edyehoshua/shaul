@@ -35,13 +35,14 @@ references:
   - "#ieshaiahu_49_6"
   - "#tehilim_17_15"
 sources:
-  - "https://youtu.be/-5nbvwGrEDY?si=3QQmMgjBQB1lvs4Z"
-  - "private/sources/youtube_-5nbvwGrEDY_transcript.txt"
+  - "https://www.youtube.com/watch?v=-5nbvwGrEDY"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/delitzsch/json/hebrews.json"
   - "docs/scriptures/oe/json/psalms/17.json"
   - "docs/scriptures/oe/json/isaiah/49.json"
+source_ids:
+  - "youtube:-5nbvwGrEDY"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -182,6 +183,12 @@ La promesa va en aumento: no solo perdón, no solo vida eterna, no solo Rúaj, s
 ## Conclusión
 
 La clase presenta Abba como la fuente y plenitud de las obras de יהוה, no como una figura separada que delega la salvación en un inferior. Yeshúa conoce a Abba porque ejecuta la obra de Abba: pone su vida por las ovejas, vence la muerte, derrama el Rúaj y prepara la morada de Elohim en su pueblo. La promesa no termina en ser perdonados desde lejos, sino en que יהוה habite con los suyos y ellos vean su rostro.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Clase sobre Yojanán 10: Abba, obras y morada](https://www.youtube.com/watch?v=-5nbvwGrEDY) (`source_id`: `youtube:-5nbvwGrEDY`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 

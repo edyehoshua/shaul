@@ -34,8 +34,7 @@ references:
   - "#iojanan_3_16"
   - "#iojanan_8_56"
 sources:
-  - "https://www.youtube.com/live/G6nNREo8isI?si=aJK8Q0Snh39Z64qR"
-  - "/Users/jhonny/.codex/attachments/6200520d-ce25-45d5-8ef3-f49ce05e9f25/pasted-text.txt"
+  - "https://www.youtube.com/watch?v=G6nNREo8isI"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/tth/json/markos.json"

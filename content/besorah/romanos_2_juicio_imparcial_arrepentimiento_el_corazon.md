@@ -20,6 +20,7 @@ sources:
   - "https://www.youtube.com/watch?v=ARbk1Ce12Ew"
   - "https://www.youtube.com/watch?v=58zpHWwa9Xw"
   - "https://www.youtube.com/watch?v=6D7Yj0bDSfU"
+  - "docs/scriptures/tth/json/romanos.json"
 source_ids:
   - "youtube:s1GjTmOIsc0"
   - "youtube:ARbk1Ce12Ew"
