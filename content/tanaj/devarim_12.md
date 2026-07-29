@@ -190,6 +190,16 @@ La orden **(שפך)**, _shafakh_, significa derramar o verter; aquí su fuerza c
 
 Los vv. 26-28 reintroducen lo consagrado: votos, ofrendas elevadas y holocaustos deben llevarse al lugar elegido; allí se escucha y se guarda para que vaya bien a Israel. **(נדר)**, _nadar_, significa hacer un voto; en contexto nombra una promesa cultual que crea una obligación concreta. «Intención religiosa» es solo una paráfrasis aproximada: el texto pasa de la promesa a la presentación ordenada. Este movimiento confirma la tesis de Eric sobre promesa y procedimiento, con una precisión: la mesa permitida, la sangre derramada y la ofrenda votiva no son tres espiritualidades separadas, sino aplicaciones distintas de una misma autoridad que el capítulo atribuye a יהוה.
 
+## La sangre delimita la libertad de la mesa
+
+La autorización de comer carne en las puertas (#devarim_12_20-25) precisa todavía más qué significa recibir descanso. El OE permite comer «según todo el deseo de tu nefesh», pero inmediatamente ordena: **רק חזק לבלתי אכל הדם כי הדם הוא הנפש**. **(רק)**, _raq_, significa solamente, únicamente o no más que; en este contexto funciona como límite explícito dentro del permiso, no como una partícula decorativa. «Libertad sin restricciones» sería una lectura **inexacta** de la unidad: el permiso para comer queda encerrado por la prohibición de la sangre.
+
+**(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto. En 12:23 aparece junto a **(דם)**, _dam_, «sangre», y su fuerza contextual relaciona la sangre con la vida del animal; no define una sustancia invisible separable del cuerpo. «Alma» es una equivalencia **aproximada y pedagógica**, mientras «vida» expresa mejor la función argumental de la prohibición. Eric puede aplicar esta conexión para advertir contra consumir lo que יהוה reserva, pero la aplicación debe empezar por el acto textual: no comer sangre y derramarla sobre la tierra como agua.
+
+El verbo **(שפך)**, _shafakh_, significa derramar o verter; en 12:24 ordena disponer la sangre sobre la tierra. La expresión «devolver la vida» es una interpretación teológica **aproximada**, no la equivalencia exacta del verbo. El capítulo, por tanto, no contrapone una espiritualidad interior a una comida material: regula alimento, sangre, altar, voto y mesa en una misma obediencia. La alegría del reposo no es autonomía; es recibir un don que conserva límites visibles.
+
+Esta precisión también protege la inclusión del leví. La carne permitida puede comerse en las puertas, pero las cosas santas y los votos siguen llevándose al lugar elegido (#devarim_12_26-28), y el leví no debe ser abandonado. **(עזב)**, _azav_, significa dejar, abandonar o soltar; aquí su fuerza contextual es no excluir al leví de la celebración y del sustento ordenado. «Solidaridad religiosa» es una síntesis **pedagógica**, no la traducción aislada de la forma. Eric acierta al resistir una libertad que privatiza lo consagrado, pero el texto la corrige mediante procedimientos concretos: comer sin sangre, llevar lo santo, escuchar y guardar.
+
 ## Pendiente de verificar
 
 ## La sangre, el voto y la responsabilidad de la mesa

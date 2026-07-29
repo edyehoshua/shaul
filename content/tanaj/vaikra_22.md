@@ -130,6 +130,16 @@ La propiedad divina también aparece en el tiempo. La cría permanece siete día
 
 Así se puede conservar la conexión mesiánica sin borrar la perícopa. La Torah no dice que **(מום)**, _mum_, «defecto», sea una teoría general sobre la imperfección humana; dice que una víctima con defecto no se acerca al altar. Tampoco dice que todo sacerdote con una limitación corporal sea moralmente profano: regula la función sacrificial y el acceso a ciertas tareas. «Provisión de la obra del Mesías» es una lectura **canónica y pedagógica** de Eric; el sentido local sigue siendo la integridad requerida para el servicio. El nombre de יהוה es santificado cuando Israel guarda y hace lo que él ordenó, no cuando impone al texto una alegoría sin sus límites.
 
+## La aceptación se prueba en el tiempo y en la mesa
+
+La enseñanza de Eric contra presentar a יהוה «lo que sobra» alcanza su forma más precisa cuando se observa la relación entre ofrenda y consumo. En #vaikra_22_29-30, la **(תודה)**, _todah_, significa acción de gracias, confesión agradecida u ofrenda de gratitud; aquí nombra una categoría cultual concreta. No es simplemente una emoción que se añade a cualquier sacrificio. Debe ofrecerse **(לרצנכם)**, _lirtzonkhem_, «para vuestro favor» o «para vuestra aceptación», y ha de comerse el mismo día. «Agradecimiento espontáneo» es una equivalencia **pedagógica** incompleta: la Torah regula la forma, la finalidad y el plazo.
+
+El mandato **(לא תותירו)**, _lo totiru_, combina la negación con una forma de **(נותר)**, _notar_, «dejar sobrante o dejar que permanezca». Su fuerza contextual es no conservar hasta la mañana lo que la ofrenda de acción de gracias había destinado al consumo del día. «No desperdiciar» es una aplicación **aproximada**, porque el texto no formula primero una regla general de administración: establece el tiempo ritual de esta ofrenda. Eric conserva correctamente la crítica a una entrega descuidada cuando su aplicación parte de este referente y no lo reemplaza por una máxima moderna.
+
+La secuencia anterior sobre la cría confirma que la santidad también tiene una dimensión temporal. **(שבעת)**, _shiv'at_, es la forma constructa de «siete»; junto con **(ימים)**, _yamim_, «días», fija el plazo durante el cual la cría permanece con su madre (#vaikra_22_26-28). «Preparación espiritual» sería una equivalencia **pedagógica**, no el significado de la expresión. **(אם)**, _em_, significa madre; la prohibición de degollar madre y cría el mismo día no convierte la compasión en una palabra abstracta, sino que ordena una relación concreta dentro del sacrificio.
+
+Así, **(רצון)**, _ratson_, «favor, aceptación o beneplácito», no describe una emoción que el oferente pueda producir mediante intensidad religiosa. El capítulo vincula aceptación con una víctima íntegra, un momento ordenado y un consumo obediente. La observación de Eric contra la religiosidad de sobrantes recibe apoyo, pero el texto mantiene la dirección correcta: יהוה santifica, Israel guarda y hace, y la ofrenda se acerca según la palabra recibida.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar estudios léxicos trazables sobre **(חלל)** y **(קדש)** para describir sus rangos semánticos sin depender de imágenes etimológicas.
