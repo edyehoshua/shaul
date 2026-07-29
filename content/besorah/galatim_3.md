@@ -134,6 +134,14 @@ El resultado protege los dos bordes del capítulo. La Torah no es la promesa: ll
 
 ## Pendiente de verificar
 
+## Reparación: gracia, mérito y la promesa que precede
+
+En `youtube:Wqc4npxxCPE`, aproximadamente entre 00:00:50 y 00:03:17, Eric vuelve a leer Galatim 2:15-21 antes de entrar en el capítulo 3. Su observación concreta es que buscar justificación por obras de ley convierte la gracia en algo innecesario: si la justicia proviniera de una ley, el Mesías habría muerto «de más». Entre 00:03:45 y 00:05:24, explica la pregunta de si el Mesías sería «servidor del pecado» como una acusación del sistema de mérito, no como una conclusión del texto. Se conserva la línea argumental de la clase en prosa atribuible, no como transcripción literal.
+
+La perícopa local respalda el contraste sin permitir que «obras de ley» se convierta en un nombre para toda obediencia. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o justificar; en #galatians_2_16 su fuerza contextual niega que la carne sea justificada por una base meritoria. **(ἔργα νόμου)**, _erga nomou_, significa obras de ley o prácticas prescritas por la ley; «obras de la Torah» es una glosa **aproximada y contextual**, no una equivalencia automática con cada acto de obediencia. **(διάκονος)**, _diakonos_, significa servidor o ministro; en 2:17 aparece dentro de una pregunta retórica sobre si el Mesías produce pecado. «Servidor» es **directo** en el sentido ordinario, mientras atribuir a Eric una teoría completa de la palabra sería **inferencial**.
+
+La parte 8 (`youtube:Xl2rGFwbELE`) retoma #galatians_3_13-14 aproximadamente entre 00:00:52 y 00:03:43. Eric sostiene que la bendición de Abraham se define por la justicia que Elohim le contó y que la redención tiene como propósito que llegue a las naciones y reciban la promesa del Ruaj. Esa observación recibe apoyo textual directo en #galatians_3_6-9 y 3:13-14. **(εὐλογία)**, _eulogia_, significa bendición, alabanza o buena palabra; en 3:14 nombra la bendición de Abraham que alcanza a las naciones en el Mesías. La relación propuesta en la clase entre **בְּרָכָה**, _berakah_, e injerto o adopción es **pedagógica y aproximada**, no el sentido léxico directo de la forma hebrea.
+
 ## Dos fuentes públicas, un recorrido canónico
 
 Los IDs públicos `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E` pertenecen a esta lane y delimitan dos focos del capítulo: la «maldición» de la Ley en 3:10-14 y el mediador en 3:19-25. Como no hay transcript local de esas sesiones, es exacto atribuirles sus títulos, URL públicas y alcance anunciado; sería inferencial atribuirles una explicación completa de la sintaxis o una cita literal. La nota conserva así el crédito visible de Eric y deja que Galatim 3 evalúe cada afirmación.

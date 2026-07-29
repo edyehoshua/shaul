@@ -143,6 +143,14 @@ El cierre orienta el misterio hacia una práctica de anuncio, amonestación, ens
 
 ## Pendiente de verificar
 
+## Reparación: «santos y fieles» sin cercos humanos
+
+En `youtube:LSfmSufaylQ`, aproximadamente entre 00:01:26 y 00:07:22, Eric vuelve sobre el saludo de #colossians_1_2 y explica que «santos» comunica una identidad distinguida, mientras «fieles» intenta traducir la idea de quienes son portadores de la _emunah_. Después contrasta la palabra recibida de Elohim con los cercos humanos que pretenden elevar una tradición al rango de mandato divino. Esta es una observación concreta de la clase, conservada como paráfrasis atribuible y no como cita literal.
+
+El texto de Colosenses apoya el punto en su orden inmediato: Pablo llama a la comunidad «santos y fieles en el Mesías» antes de describir su emunah, amor y esperanza (#colossians_1_1-5). **קְדוֹשִׁים**, _qedoshim_, significa santos, apartados o consagrados; su fuerza contextual en el texto semítico local es una designación comunitaria recibida, no una escala de mérito fabricada por añadir reglas. **נֶאֱמָנִים**, _ne’emanim_, significa fieles, firmes o dignos de confianza; aquí funciona como aproximación pedagógica al calificativo de la comunidad. Las glosas son **directas en su campo ordinario**, pero afirmar que cualquier tradición posterior es necesariamente ilegítima sería **inferencial** y excedería el saludo.
+
+La distinción que Eric traza entre **חֻקִּים**, _juqim_, y **מִשְׁפָּטִים**, _mishpatim_, también debe calificarse. En la exposición, los primeros se presentan como estatutos o declaraciones que se guardan, y los segundos como juicios o procedimientos que se hacen; esa explicación ayuda a separar lo que Elohim manda de los cercos protectores construidos por personas. «Estatutos» y «juicios» son sentidos **aproximados y pedagógicos** de esas formas hebreas, no una clasificación exhaustiva de toda la Torah. Colosenses sí exige que el conocimiento produzca caminar, fruto y gratitud (#colossians_1_9-12); por eso la crítica a la tradición no debe convertirse ni en desprecio de la obediencia ni en autorización para juzgar la santidad de otros.
+
 ## Reparación desarrollada: primacía, plenitud y reconciliación
 
 La parte central de la nota debe conservar el orden del himno antes de aplicar sus términos a debates posteriores. Eric relaciona la imagen, la primacía y la plenitud de Yehoshua con la reconciliación; esa observación recibe **apoyo textual cualificado** porque Colosenses 1:15-20 encadena creación, anterioridad, cabeza de la comunidad, resurrección, plenitud y paz. No es legítimo aislar una palabra para construir una teoría que contradiga el movimiento completo del himno.
