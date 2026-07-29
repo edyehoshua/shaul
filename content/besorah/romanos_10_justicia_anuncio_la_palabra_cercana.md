@@ -143,6 +143,14 @@ La responsabilidad comunitaria aparece en los mensajeros. **(κηρύσσω)**, 
 
 Por último, 10:18-21 mantiene juntas extensión y resistencia. **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir; aquí caracteriza al pueblo que contradice mientras Elohim extiende sus manos. La lectura de Eric recibe **apoyo cualificado** cuando afirma que la palabra de Elohim sostiene la fidelidad y que la invocación responde a una iniciativa divina; necesita corrección si transforma esa iniciativa en fatalismo o si convierte la conexión entre **(קרא)**, _qara_, «llamar, proclamar o invocar», y **(ἐπικαλέω)** en una equivalencia exacta. El capítulo conserva anuncio, escucha, invocación, obediencia y resistencia en una sola progresión.
 
+## Reparación desarrollada: Joel distingue invocación y llamamiento
+
+La observación atribuida a Eric en `youtube:ililQLS9UJE` sobre «los que invocan» necesita conservar las dos cláusulas de Joel 2:32. La primera promete que será librado todo el que invoque el nombre de יהוה; la última habla del remanente que יהוה llama. Romanos 10:13 cita la primera afirmación con **(ἐπικαλέω)**, _epikaleō_, cuyo sentido ordinario es invocar, apelar o llamar sobre alguien. En el argumento de Pablo, su fuerza contextual es la respuesta dirigida al Señor dentro de una promesa universal. «Invocar» es una glosa **directa y contextual**, pero no describe un mérito autónomo.
+
+En la cláusula final de Joel aparece **קֹרֵא**, _qore_, participio de **קרא**, _qara_, «llamar, proclamar o invocar según la construcción». Allí el sujeto explícito יהוה da a la forma la fuerza contextual de convocar al remanente. «Llama» es **directo** para esa cláusula; convertirlo en una identidad sintáctica entre quien invoca y quien es llamado sería **inferencial**. La comparación entre **קרא**, _qara_, y **(ἐπικαλέω)**, _epikaleō_, es **aproximada y pedagógica**, no una equivalencia morfológica ni etimológica.
+
+La cadena de Romanos 10 mantiene la responsabilidad que esta precisión podría perder: se invoca después de creer, se cree después de oír, se oye mediante el anuncio y el anuncio requiere enviados (#romanos_10_14-17). **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 muestra que no todos obedecieron la buena noticia. **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir; en 10:21 caracteriza la resistencia de Israel. Ambas glosas son **directas**, y su fuerza **contextual** impide transformar el llamamiento divino en fatalismo. La exposición de Eric recibe **apoyo cualificado**: la iniciativa de Elohim y la invocación humana están relacionadas canónicamente, pero el capítulo conserva anuncio, escucha, obediencia y resistencia.
+
 ## Pendiente de verificar
 
 ## Control sintáctico: obedecer la buena noticia y resistir
