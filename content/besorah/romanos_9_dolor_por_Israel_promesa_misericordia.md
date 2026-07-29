@@ -183,6 +183,14 @@ La imagen del vaso controla la aplicación. **(κεραμεύς)**, _kerameus_, 
 - [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: identidad, fruto y reconciliación]]
 
+## Estudio desarrollado: la función histórica no agota la respuesta
+
+La observación atribuida a Eric en `youtube:atIdZY13b_c` distingue entre ser usado dentro de un propósito histórico y tener por ello asegurada la salvación personal. Romanos 9:17 sostiene el primer punto de forma **directa**: Faraón aparece en el propósito de manifestar el poder de Elohim y proclamar su Nombre. La conclusión de que una función no demuestra automáticamente el destino final es **inferencial pero cualificada**, porque el versículo declara una función histórica y no emite por sí solo un veredicto soteriológico completo. La nota conserva la atribución como paráfrasis localizada y deja que la perícopa gobierne la evaluación.
+
+La objeción de 9:19 y la imagen del formador impiden convertir esta distinción en una evasión. **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o hallar falta; su fuerza contextual formula la pregunta sobre por qué Elohim todavía reprocha. **(ἀντιλέγω)**, _antilegō_, significa contradecir, disputar o hablar contra; describe la oposición de la criatura al formador, pero no autoriza a decir que toda pregunta sincera sea rebelión. **(κεραμεύς)**, _kerameus_, significa alfarero, y **(πλάσμα)**, _plasma_, cosa formada o criatura modelada. Las glosas son **directas**; la asimetría entre formador y criatura es **contextual**. La relación con **יוצר**, _yotser_, «formador o alfarero», es **aproximada y pedagógica**, no prueba que el hebreo sea la forma fuente del razonamiento griego.
+
+El cierre devuelve la discusión a la manera de responder. **(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; en 9:24 incluye a llamados de judíos y naciones. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; en 9:30-33 contrasta la justicia alcanzada por las naciones mediante emunah con la que Israel persigue como si procediera de obras. **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra; presenta la respuesta ante la piedra de Sion. «Justicia», «llamados» y «tropezar» son glosas **directas** en su campo normal, pero la conclusión sobre cada destino individual es **inferencial**. Romanos 9 mantiene juntos dolor por Israel, promesa, misericordia, llamamiento y responsabilidad; por ello la enseñanza de Eric recibe **apoyo textual cualificado**, no una teoría exhaustiva de elección.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
