@@ -251,6 +251,18 @@ En 11:20-23, **(ἀπιστία)**, _apistia_, significa incredulidad o falta de
 
 La segunda fuente, `youtube:bL-3YKdV0wo`, anuncia al Redentor de Tziyón. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; en 11:25 frena que las naciones sean sabias en su propia opinión. «Secreto» es **aproximado** y su comparación pedagógica con **(סוד)**, _sod_, «secreto o consejo», no decide el referente de «todo Israel». **(οὕτως)**, _houtōs_, significa así o de este modo; en 11:26 enlaza la salvación anunciada con el misterio previo. Traducirlo como una cronología exclusiva sería **inferencial**. Así se conserva la esperanza pública de Eric sin atribuirle un calendario que el capítulo no entrega.
 
+## Reparación de cierre: raíz, injerto y doxología
+
+La observación pública de Eric sobre la rama gentil que no debe considerarse superior a las ramas naturales recibe su prueba más fuerte en el orden de #romanos_11_17-24. La rama silvestre participa de la raíz y de la savia, pero Pablo niega que la rama sostenga la raíz. Esta es una evaluación **textual directa** del énfasis de `youtube:MHLbizeZrPc`; aplicarla a una comunidad actual es **pedagógico y cualificado**, porque el capítulo no asigna automáticamente cada grupo moderno a una rama determinada.
+
+**(ἐκκλάω)**, _ekklaō_, significa quebrar o desgajar; en #romanos_11_17-20 describe la remoción de ramas en relación con la incredulidad. «Desgajar» es una glosa **directa**, pero convertir el verbo en una sentencia irreversible sobre cada individuo sería **ilegítimo**, pues el mismo argumento dice que Elohim puede volver a injertar. **(ἐγκεντρίζω)**, _enkentrizō_, significa injertar; su fuerza contextual muestra una incorporación dependiente de la raíz, no una transferencia de origen o propiedad. La comparación con **(שרש)**, _shoresh_, «raíz», en la traducción local es **aproximada y pedagógica**, no una etimología común.
+
+El anuncio del Redentor de Tziyón en `youtube:bL-3YKdV0wo` debe permanecer junto a #romanos_11_25-32. **(πώρωσις)**, _pōrōsis_, significa endurecimiento o insensibilidad; «endurecimiento» es **directo** en el campo léxico, mientras decidir su duración exacta desde el sustantivo aislado sería **aproximado**. **(οὕτως)**, _houtōs_, significa así o de este modo; en 11:26 enlaza la salvación de «todo Israel» con la secuencia del misterio, la plenitud de las naciones y el Redentor. Traducirlo como una cronología exclusiva es **inferencial**, no obligatorio.
+
+La nota también debe conservar la responsabilidad que acompaña a la esperanza. **(ἐπιμένω)**, _epimenō_, significa permanecer, continuar o persistir; en 11:22-23 califica la permanencia en la bondad y el abandono de la incredulidad. «Perseverar» es una formulación **pedagógica y aproximada**: comunica continuidad, pero no resuelve por sí sola toda pregunta sobre seguridad final. La misericordia de #romanos_11_30-32 tampoco llama buena a la desobediencia; la reúne bajo la iniciativa compasiva de Elohim.
+
+Por eso la doxología de #romanos_11_33-36 regula las dos observaciones de Eric. **(ἀνεξιχνίαστος)**, _anexichniastos_, significa inescrutable o imposible de rastrear por completo; su fuerza contextual limita la pretensión de dominar el misterio sin prohibir el estudio. El olivo exige dependencia, la promesa exige esperanza y la misericordia excluye el mérito. La conclusión **directa** del capítulo es adoración; cualquier esquema histórico más detallado queda **cualificado** y debe permanecer sometido a las citas y a la sintaxis de Pablo.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]

@@ -236,6 +236,20 @@ La renovación tampoco autoriza una inspiración privada sin examen. **(δοκι
 
 En 12:17-21, **(νικάω)**, _nikaō_, significa vencer o conquistar; «vencer el mal con el bien» es **directo** como conclusión del versículo, mientras «triunfar sin reproducir la violencia» es una aplicación **pedagógica** definida por alimentar al enemigo y dejar la venganza a Elohim. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en 12:18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». Por eso la lectura de Eric recibe apoyo textual cuando llama al bien activo, pero sería **ilegítimo** usarla para silenciar protección, denuncia o justicia legítima.
 
+## Reparación de cierre: fidelidad encarnada y bien activo
+
+El título público «El patrón de la fidelidad» permite atribuir a Eric el foco general de `youtube:8z-3MkpomOo`, pero el capítulo define ese patrón con una secuencia verificable: misericordias recibidas, cuerpo presentado, mente renovada, dones sobrios y amor visible. La atribución del foco es **exacta en alcance público**; la arquitectura verso a verso pertenece a la evaluación canónica. Romanos 12 respalda la lectura cuando la fidelidad deja de ser una afirmación privada y se vuelve servicio concreto.
+
+En #romanos_12_1-2, **(λατρεία)**, _latreia_, significa servicio, culto o ministración; en **(λογικὴ λατρεία)**, _logikē latreia_, su fuerza contextual es una respuesta consciente y entera a las misericordias de Elohim, no una actividad mental separada del cuerpo. «Culto» es **directo** en el campo ordinario y «racional» es **aproximado**, porque el adjetivo puede expresar lo razonable o correspondiente a la palabra. **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar después de evaluar; «discernir» es **pedagógico** como resultado y no autoriza a reclamar inspiración privada sin examen.
+
+La diversidad comunitaria también califica la idea de fidelidad. **(χάρισμα)**, _charisma_, significa don concedido por gracia; en #romanos_12_6-8 ordena capacidades diversas para el servicio, no rangos de prestigio. «Don» es **directo**, mientras convertir una capacidad visible en medida de valor espiritual sería **ilegítimo**. **(φρονέω)**, _phroneō_, significa pensar, tener una disposición o juzgar; en 12:3 regula la autoevaluación para que nadie piense más alto de lo debido. La conexión pedagógica con sobriedad es **contextual**, y no equivale a negar toda valoración responsable.
+
+Desde #romanos_12_9-16, la fidelidad se prueba en amor sin fingimiento, honra, provisión, hospitalidad, oración y cercanía con humildes y afligidos. **(φιλοξενία)**, _philoxenia_, significa amor al extranjero u hospitalidad; «hospitalidad» es **aproximada**, porque el compuesto conserva una orientación hacia el extranjero. **(εὐλογέω)**, _eulogeō_, significa bendecir o hablar bien; en 12:14 su fuerza **directa** contrasta con maldecir a quien persigue. La observación de Eric recibe apoyo textual cuando el patrón se entiende como conducta que protege la dignidad del otro, no como una emoción religiosa.
+
+El cierre requiere una salvaguarda pastoral. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en 12:18 está limitado por «si es posible» y «en cuanto dependa de vosotros». «Reconciliarse siempre» sería **ilegítimo** porque ignora esa condición. **(νικάω)**, _nikaō_, significa vencer o conquistar; en 12:21 su sentido es **directo**, pero el modo de vencer queda definido por hacer bien y no devolver el mal. Usar el mandato para silenciar protección, denuncia o justicia legítima sería una inferencia que el contexto no sostiene.
+
+Así, la enseñanza pública queda conservada y evaluada: la misericordia no se compra mediante servicio, los dones no fundan superioridad y el bien no es una técnica de manipulación. El patrón de fidelidad que el capítulo permite afirmar es corporal, comunitario y sobrio; sus extensiones pastorales son **cualificadas** cuando exceden las acciones concretas enumeradas por Pablo.
+
 ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]
