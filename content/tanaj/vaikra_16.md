@@ -749,6 +749,12 @@ La segunda acción completa la primera sin borrarla. OE dice **ונשא השעי
 
 La respuesta de Israel mantiene el carácter encarnado del rito. OE dice **תענו את נפשתיכם וכל מלאכה לא תעשו**, y TTH: «Afligirán sus gargantas y no harán ninguna obra» (#vaikra_16_29). **(ענה)**, _anah_, significa afligir, humillar o someter; **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; **(מלאכה)**, _melakhah_, significa obra, labor o trabajo. «Alma separable» excede la forma. Delitzsch en Ivrim 9:7 confirma canónicamente el acceso anual no sin sangre, pero no elimina la confesión, el envío, el reposo ni la distinción entre las dos cabras. Eric acierta al exigir una reconciliación que alcance la conducta; la afirmación exacta sigue siendo un rito regulado, y la aplicación mesiánica es teológica y aproximada.
 
+## Control de la conclusión anual — vv. 29-34
+
+El cierre no permite resumir el día solo como una experiencia interior. OE dice **כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני יהוה תטהרו**, y TTH: «porque en este día él hará reconciliación por ustedes para purificarlos; de todos sus pecados delante de יהוה serán puros» (#vaikra_16_30). **(יכפר)**, _yekhapper_, es una forma verbal de כפר que en esta construcción cultual significa hacer reconciliación o expiación; su sentido normal puede relacionarse con cubrir, pero «borrar automáticamente toda culpa» es una equivalencia teológica demasiado amplia. **(לטהר)**, _letaher_, significa purificar o poner en estado de pureza; aquí nombra el resultado ritual delante de יהוה.
+
+La respuesta ordenada en los vv. 29-31 —afligir el _nefesh_, cesar la obra y guardar reposo— evalúa la aplicación de Eric sin reemplazar el calendario. **(מלאכה)**, _melakhah_, significa obra, labor o trabajo; su fuerza contextual es la actividad que la asamblea debe suspender. **(שבתון)**, _shabbaton_, significa reposo solemne; «retiro espiritual» es pedagógico, no exacto. La reconciliación alcanza a la comunidad de manera visible, pero el texto conserva sacerdote, fecha, rito y estatuto; la conexión mesiánica con Delitzsch es canónica y aproximada.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

@@ -628,6 +628,12 @@ Eric también vincula la luz de los vv. 1-4 con una vida que no busca exhibirse.
 
 La evaluación final es, por tanto, graduada: es exacto que Bamidbar 8 regula un servicio recibido, comunitario y limitado; es razonable aplicar el relevo a la madurez del servicio; y es inexacto convertir la edad levítica en una ley universal. La clase conserva una exhortación válida porque el capítulo une orden, obediencia, custodia y asistencia. La aplicación se mantiene bajo el texto, no por encima de él.
 
+## Control de sujetos y funciones — vv. 14-19
+
+La sustitución de los leviím no debe confundirse con una promoción espiritual. OE dice **ולקחת את הלוים לי אני יהוה תחת כל בכור בבני ישראל** y TTH: «Y tomarás a los leviím para Mí —Yo soy יהוה— en lugar de todo primogénito de los hijos de Israel» (#bamidbar_8_16). **(לקחת)**, _laqajta_, es una forma verbal que significa tomar o recibir; su fuerza contextual es seleccionar para una función. **(תחת)**, _tajat_, significa debajo o en lugar de; aquí expresa sustitución cultual concreta. La equivalencia «reemplazo de toda autoridad» sería inexacta.
+
+Eric observa que el servidor no debe apropiarse de una gloria que pertenece a יהוה. La observación es pedagógica y recibe apoyo en la dirección del capítulo, pero la afirmación exacta es más delimitada: los leviím son dados para el servicio de la Tienda y para proteger a la congregación de un acercamiento no autorizado. **(שמר)**, _shamar_, significa guardar o custodiar; en 8:19 su fuerza contextual es proteger el orden santo, no gobernar a Israel. La secuencia distingue pertenencia, tarea y protección, y evita convertir la sustitución levítica en una categoría general de superioridad.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
