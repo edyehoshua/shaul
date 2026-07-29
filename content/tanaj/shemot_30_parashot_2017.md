@@ -153,6 +153,16 @@ En #shemot_29_45-46, la exposición lleva el tema desde la ropa hasta la presenc
 | #shemot_29_45-46 | La meta del orden cultual es la morada de יהוה en medio del pueblo.   | Apoyo textual; no se reduce a una técnica de acceso humano.                |
 | #shemot_30_1-10  | El incienso enseña reserva y dependencia del Mediador.                | La reserva cultual es textual; la aplicación al discipulado es pedagógica. |
 
+## Reparación focal: la misma santidad atraviesa pueblo, sacerdote y objeto
+
+El capítulo debe leerse como una progresión, no como una colección de símbolos independientes. Primero, cada israelita entrega una contribución cuando es registrado; después, Aharón y sus hijos se lavan antes de entrar o ministrar; finalmente, el aceite y el incienso reciben límites de uso. La observación de Eric sobre «levantar la cabeza» conserva fuerza cuando se la somete a este orden. **(מועד)**, _moed_, significa tiempo señalado, reunión o cita; en **אהל מועד**, _ohel moed_, su fuerza contextual es el lugar de encuentro ordenado, no una atmósfera religiosa fabricada por el ministro. «Espacio de conexión» es una equivalencia **pedagógica**.
+
+En 30:16 el dinero se da **על עבודת אהל מועד**, «para el servicio de la Tienda de la Reunión». **(עבודה)**, _avodah_, significa trabajo, servicio o labor; aquí designa el servicio cultual sostenido por la contribución, no una carrera individual de autoridad. El medio shekel recuerda a las personas, pero no las convierte en propietarias del santuario. La clase puede aplicar este principio a una comunidad que reconoce a cada miembro, pero esa aplicación es **teológica y aproximada**; el sentido exacto es el memorial y el servicio prescritos.
+
+La segunda transición es corporal. OE dice **ורחצו מים ולא ימתו**, «se lavarán con agua y no morirán» (#shemot_30_20). **(מים)**, _mayim_, significa agua; su fuerza contextual es el medio concreto del lavamiento. La forma no autoriza sustituir el acto por una emoción de pureza. TTH hace visible la misma secuencia: manos y pies se lavan antes de entrar o acercarse al altar. Eric acierta al resistir una santidad abstracta, aunque «preparación interior» es solo una aplicación **pedagógica**.
+
+Finalmente, 30:32 y 30:37 repiten que el aceite y el incienso no serán hechos «para ustedes» según su composición. **(רקח)**, _raqaj_, significa preparar o mezclar como perfumista; su fuerza contextual se refiere a una receta cultual definida. La prohibición de reproducir no implica que la materia sea mágica: manifiesta que la santidad pertenece a la orden de יהוה. Así, «levantar la cabeza» significa recibir reconocimiento bajo responsabilidad; no significa subir por encima del orden.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

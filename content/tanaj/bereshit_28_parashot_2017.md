@@ -161,6 +161,16 @@ En 28:20-22 la respuesta de Yaakov sigue a la palabra recibida. OE dice **ויד
 
 La imagen de los mensajeros que suben y bajan en 28:12 reaparece en la palabra de Yohanan 1:51. Delitzsch escribe: **אתם תראו את השמים פתוחים ואת מלאכי אלהים עולים ויורדים על בן האדם**, «verán los cielos abiertos y a los mensajeros de Elohim subiendo y bajando sobre el Hijo del Hombre». Es una conexión canónica aproximada: confirma que la tradición posterior relee la visión como lenguaje de acceso y revelación, pero no convierte **(סלם)**, _sulam_, en una definición mesiánica dentro de Bereshit. Su sentido normal es «escalera»; su fuerza contextual es la visión recibida por Yaakov. **(מלאך)**, _malaj_, significa mensajero; «ángel» es tradicional, mientras «mensajero» conserva su función. La clase puede enlazar ambos pasajes, pero la equivalencia no es exacta ni borra la salida, la promesa y el voto de Bereshit 28.
 
+## Reparación focal: la salida empieza con una bendición recibida
+
+La perícopa no comienza en la escalera, sino en la orden de Itzjak: **ויצוהו ויאמר לו לא תקח אשה מבנות כנען**, «y le mandó diciendo: no tomarás mujer de las hijas de Kenaan» (#bereshit_28_1). La exposición de Eric sobre la salida y el camino queda mejor evaluada cuando se conserva este inicio. **(צוה)**, _tsavah_, significa mandar u ordenar; su fuerza contextual es la instrucción paterna que acompaña la bendición, no una sugerencia devocional. **(ברך)**, _barakh_, significa bendecir; en 28:1–4 la bendición transmite descendencia, tierra y continuidad del pacto. «Activación de potencial» sería una equivalencia **pedagógica**, no el sentido del verbo.
+
+Itzjak envía a Yaakov hacia Paddan-Aram y la narración añade que Esav percibe que las hijas de Kenaan desagradaban a su padre (#bereshit_28_6–9). Esa observación textual impide aislar la marcha como una técnica espiritual: Yaakov parte bajo una palabra familiar, una promesa y una situación de conflicto. **(שלח)**, _shalaj_, significa enviar; aquí describe una acción autorizada que contrasta con la lectura de una huida sin dirección. Eric acierta al leer «y salió» como un paso decisivo, pero la fuerza exacta de **ויצא**, _vayetse_, sigue siendo «y salió»; el carácter traumático es una inferencia narrativa apoyada por el contexto anterior.
+
+La respuesta posterior de Yaakov también tiene un límite. En 28:18–19 levanta la piedra y llama al lugar Bet-El. **(קום)**, _qum_, significa levantarse o ponerse en pie; su fuerza aquí introduce la acción del viajero al despertar, no la producción de una presencia. **(קרא)**, _qara_, significa llamar o proclamar; al nombrar el lugar, Yaakov memorializa lo recibido. La lectura de la clase sobre un lugar de encuentro es **aproximada y teológica**: el texto afirma que Yaakov reconoce la presencia de יהוה, pero no convierte la estela en un objeto que controle el acceso.
+
+Así, la secuencia completa afina la tesis de Eric: bendición y envío, salida vulnerable, visión recibida, promesa de custodia y voto. La escalera no reemplaza el camino, y el diezmo no reemplaza la obediencia; ambos quedan dentro de una respuesta a una palabra que tomó la iniciativa.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
