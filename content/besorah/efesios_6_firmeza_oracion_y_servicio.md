@@ -182,6 +182,14 @@ El vocabulario de 6:10-18 tampoco convierte la metáfora en un inventario de cau
 
 Estas precisiones cierran las preguntas léxicas principales de la nota. Siguen siendo comparaciones históricas, no demostraciones del texto, las conexiones con vestiduras sacerdotales, las reglas rabínicas sobre enviados y las reconstrucciones sociales detalladas. Mantenerlas como cautelas protege la atribución a Eric y deja el argumento verificable: responsabilidades limitadas, firmeza no agresiva y oración comunitaria.
 
+## Control de dependencias: Efesios 5 conduce a la armadura
+
+Efesios 6 no puede leerse como un manual independiente de combate espiritual. La exhortación retoma el «fortalecerse» comunitario que en Efesios 5 se veía en gratitud, canto y sometimiento mutuo: la armadura comienza después de haber descrito cómo se cuida al prójimo y termina en oración por todos los santos. **(ἀλλήλοις)**, _allēlois_, «unos a otros», funciona como recordatorio de reciprocidad en la sección inmediata anterior; su equivalencia con una jerarquía unilateral sería inexacta para el flujo de la carta.
+
+La transición de 6:1-9 a 6:10-20 conserva además el examen de la autoridad. **(κύριος)**, _kyrios_, «señor», aparece para los superiores sociales y para el Señor celestial; el contexto limita al primero mediante la prohibición de amenazas y somete a ambos al segundo. **(πρόσωπον)**, _prosōpon_, «rostro o persona», aparece en la idea de acepción de personas del versículo 9; no es un detalle ornamental, sino la razón por la que la posición social no puede decidir el valor de quien sirve. La lectura de Eric sobre autoridad bajo Elohim se apoya en esta dependencia textual, no en una autorización de dominio.
+
+La armadura alcanza su propósito en 6:18-24. **(προσευχή)**, _proseuchē_, «oración», y **(δέησις)**, _deēsis_, «súplica», no son añadidos después de la batalla: explican cómo permanece la comunidad, por quién intercede y qué palabra pide Pablo en cadenas. El cierre con Tíquico, paz, amor, fe y gracia prueba que «estar firme» desemboca en comunicación confiable y cuidado mutuo. Las conexiones de Eric con vestiduras sacerdotales o con ataques concretos permanecen como comparaciones pendientes; el texto local establece con claridad una resistencia no dirigida contra sangre y carne.
+
 ## Conclusión
 
 El final de Efesios mantiene la misma dirección de la carta: el Mesías forma un pueblo que vive de otra manera. La firmeza no es agresión contra personas, sino permanecer en el Señor mediante verdad, justicia, paz, fe, salvación, palabra y oración. Pablo termina deseando paz, amor, fe y gracia, no temor ni autosuficiencia.

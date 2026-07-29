@@ -155,6 +155,14 @@ Después del arresto, la confesión ocurre ante testigos hostiles. **(σὺ ε�
 
 Así, la secuencia crítica es mesa, copa, vigilancia, entrega y testimonio. La equivalencia entre **(αἷμα)**, _haima_, «sangre», y **(דם)**, _dam_, «sangre», es directa como vocabulario; la interpretación pactal y sacrificial es sostenida por el contexto de Pésaj y la frase de Yehoshua, pero sus modelos doctrinales posteriores requieren argumentos adicionales. La observación de Eric sobre una entrega real queda respaldada por las formas del texto; la afirmación de que cada matiz de promesa, justicia y trono está lexicalmente contenido en **(אבא)** queda calificada como propuesta teológica.
 
+## Control de dependencias: del Pésaj a la confesión (14:1-72)
+
+La lectura no debe saltar de la copa a la cruz dejando fuera los pasos intermedios. Marcos primero sitúa el complot en Pésaj y Matzot (14:1-2), luego contrapone la mujer que prepara el cuerpo para la sepultura con Iehudáh que busca entregarlo (14:3-11), y solo después narra la mesa, la dispersión anunciada, la oración, el arresto y el juicio. La observación de Eric sobre una entrega real se prueba por esta progresión, no por una definición aislada de «pacto». **(καιρός)**, _kairos_, «momento u ocasión», puede describir un tiempo señalado; aquí su equivalencia con el calendario hebreo es contextual y no autoriza reconstruir una fecha civil que Marcos no da.
+
+La dependencia intertextual también tiene límites. #zejariah_13_7 explica la imagen del pastor herido y las ovejas dispersas, y Marcos 14:50 narra esa dispersión; #daniel_7_13 ilumina la imagen del Ben HaAdam con las nubes, pero el capítulo conserva su propia escena de interrogatorio y sentencia. La relación con Iojanán 12 para identificar al murmurador como Iehudáh es una armonización atribuida, no un dato que Marcos nombre. **(πληρόω)**, _plēroō_, «llenar o cumplir», no aparece como una contraseña que resuelva todos los detalles: la afirmación de cumplimiento debe demostrarse por cada cita y por la secuencia narrativa.
+
+Finalmente, el término **(παραδίδωμι)**, _paradidōmi_, «entregar o transmitir», une sin igualar a los actores: Iehudáh entrega, la autoridad entrega al prisionero, la sangre es derramada por muchos y el Ben HaAdam es puesto en manos de pecadores. La forma verbal explica la continuidad del capítulo, mientras el contexto conserva responsabilidad moral, miedo y obediencia diferenciados. Así la tesis de Eric queda atribuida y comprobada en el orden textual: el pacto interpreta la entrega, la oración enfrenta la hora y la confesión pública recibe el costo del juicio.
+
 ## Mapa de la enseñanza de Eric
 
 - **Marcos 14:1-11 — Pésaj, unción y traición:** Eric distingue sacrificio y fiesta, lee la unción como sepultura anticipada e identifica la murmuración con Iehudáh; la nota sostiene el marco calendárico y la interpretación de Yehoshua, y marca la armonización con Iojanán y las fechas exactas como elaboraciones.
