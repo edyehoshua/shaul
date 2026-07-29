@@ -19,12 +19,14 @@ references:
   - "#hebreos_4_1-11"
 sources:
   - "https://www.youtube.com/watch?v=3Et5rwoIj_Y"
+  - "https://www.youtube.com/watch?v=St2dkeSW2uE"
   - "docs/scriptures/oe/json/deuteronomy/11.json"
   - "docs/scriptures/oe/json/deuteronomy/12.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
   - "youtube:3Et5rwoIj_Y"
+  - "youtube:St2dkeSW2uE"
 translation: "[OE, TTH]"
 ---
 
@@ -105,6 +107,33 @@ El cierre vuelve a la advertencia. **(דרש)**, _darash_, significa buscar, inv
 | **(מקום)**  | _maqom_         | Sustantivo masculino: lugar, sitio                     | Lugar que יהוה elige para poner allí su nombre                                | «Santuario central» es pedagógica                   |
 | **(מנוחה)** | _menujáh_       | Sustantivo femenino de נוח: descanso, reposo           | Reposo/asentamiento aún no alcanzado antes de entrar                          | «Mesías» como equivalencia es pedagógica, no exacta |
 | **(נחלה)**  | _najaláh_       | Sustantivo femenino de נחל: heredad, posesión heredada | Don territorial que יהוה da a Israel                                          | «Herencia» es aproximada                            |
+
+## El lugar elegido y la marca visible de la presencia — vv. 4-14
+
+La exposición de Eric sobre Re'eh insiste en que Israel no debe confundir el lugar elegido con cualquier sitio que parezca religioso. Esa observación encuentra un apoyo directo en el movimiento de los vv. 4-5: «no harán así a יהוה» y, en contraste, buscarán el **(מקום)**, _maqom_, que יהוה elija para poner allí su nombre. _Maqom_ significa lugar o sitio; aquí su fuerza contextual es el lugar de reunión cultual que recibe una elección divina. «La habitación de Dios» es una paráfrasis teológica **aproximada**, no una definición exhaustiva del sustantivo.
+
+Eric relaciona este lugar con Sion, la Jerusalén celestial y la manifestación visible de la deidad. La nota debe conservar el hilo sin borrar las distinciones: Devarim 12 habla primero de un lugar histórico donde Israel llevará holocaustos, sacrificios, diezmos, votos y ofrendas; Tehilim 132 y Hebreos 12 amplían después la lectura hacia Sion y la ciudad celestial. La relación es **canónica y pedagógica**, no una equivalencia exacta entre cada aparición de _maqom_ y la Jerusalén celestial. El propio capítulo protege la centralidad del nombre sin convertir el sitio en una deidad separada: **(שם)**, _shem_, significa nombre, reputación o designación; aquí identifica la presencia y autoridad de יהוה puesta en el lugar escogido.
+
+La clase también explica **(ציון)**, _Tsiyon_, como una marca o señal. Esa observación puede ayudar a pensar cómo un lugar visible remite a una realidad mayor, pero no debe presentarse como la etimología segura de toda la palabra ni como si el texto de Devarim 12 nombrara a Sion. La fuerza textual es más sobria: Israel debe ir hacia el lugar que יהוה elija, y allí reconocer que el culto no nace de la invención humana. «Marca de lo invisible» es una equivalencia **pedagógica**; «lugar elegido para poner el nombre» es la formulación **exacta** del pasaje.
+
+## Comer ante el rostro y hacer lo bueno — vv. 9-28
+
+Eric lee la frase «comeréis allí delante de יהוה» como comer ante el rostro o bajo la vigilancia benévola de יהוה. El texto permite atender a la expresión, pero el sentido inmediato no es una visión mística: **(לפני)**, _lifne_, significa delante de, frente a o en presencia de; con **(פנים)**, _panim_, «rostro/faz», sitúa la comida en relación con יהוה. «Bajo su cuidado» es una aplicación **aproximada**. La escena concreta incluye la casa, los hijos, las hijas y el leví, y exige que la alegría permanezca dentro de la forma cultual recibida.
+
+La alegría y la obediencia se sostienen mutuamente. **(שמח)**, _samaj_, significa alegrarse o regocijarse; en 12:7 y 12:12 su fuerza es un gozo comunitario asociado a ofrendas y presencia, no una licencia para elegir cualquier rito. **(עבד)**, _avad_, significa servir o trabajar; cuando describe el servicio de los pueblos a sus dioses (12:30), su contexto es cultual. Eric advierte que Israel no debe copiar aquello que las naciones hacen para sus dioses. Esa evaluación está respaldada por la prohibición de «buscar» cómo sirven ellos para hacer lo mismo a יהוה, aunque la aplicación a cualquier costumbre contemporánea requiere un argumento adicional.
+
+El capítulo repite una oposición decisiva. En 12:8, **(ישר)**, _yashar_, significa recto, derecho o correcto; «cada uno todo lo recto en sus ojos» denuncia la medida privada como autoridad cultual. En 12:28, la misma raíz aparece en «lo bueno y lo recto ante los ojos de יהוה». La equivalencia «autonomía moral» es **pedagógica**, pero la fuerza contextual es exacta: no basta que una práctica parezca correcta al individuo; debe ser escuchada y hecha conforme a la palabra recibida. La _menujáh_ no elimina el mandamiento, sino que establece el ámbito donde el pueblo puede obedecer, celebrar y cuidar al leví.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la exposición `youtube:St2dkeSW2uE`                                                       | Evaluación frente al capítulo                                                                                            |
+| -------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 11:26-32       | Bendición y deshonra no describen una exclusión caprichosa, sino la consecuencia de escuchar o apartarse.         | Apoyo textual cualificado: el contraste está en escuchar y desviarse; la teoría más amplia de reinserción es aplicación. |
+| 12:1-7         | El culto rival debe ser destruido y el nombre de יהוה debe concentrarse en el lugar que él elige.                 | Apoyo directo para destruir altares y buscar el lugar; «marca del lugar» es explicación pedagógica.                      |
+| 12:8-12        | La llegada al reposo no autoriza a hacer cada uno lo que quiere; la mesa delante de יהוה tiene forma comunitaria. | Apoyo textual: reposo, lugar, ofrendas, alegría y leví aparecen unidos.                                                  |
+| 12:28-31       | No se debe copiar la forma de servicio de las naciones para ofrecerla a יהוה.                                     | Apoyo directo para la prohibición; extenderla a prácticas actuales exige discernimiento adicional.                       |
+
+La exposición enlaza el lugar histórico con la Jerusalén celestial y con la manifestación visible del Mesías. Esa lectura puede conservarse como **tipología canónica**, pero el recorrido de Devarim 12 debe seguir siendo el criterio: eliminar altares rivales, buscar el lugar elegido, llevar allí la ofrenda, comer delante de יהוה, incluir al leví y hacer lo bueno y recto ante sus ojos. La sombra histórica puede apuntar a una realidad posterior, pero no sustituye el cuerpo de la instrucción que Israel recibió.
 
 ## La prueba de la mesa: escuchar, alegrarse y no olvidar al leví
 
@@ -264,8 +293,7 @@ La orden final, **(לא תעשה כן)**, _lo taaseh ken_, «no harás así», f
 
 ## Créditos
 
-- Nota de frontera: las piezas de 613 mitzvot sobre secularizar lo sagrado pertenecen a la lane colosenses; aquí se usa la parashá Reeh asignada a tanaj.
-
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashah Re'eh (2017) El lugar en el que habita el nombre de YHWH](https://www.youtube.com/watch?v=St2dkeSW2uE) (`source_id`: `youtube:St2dkeSW2uE`).
 - Video: [Parashah Reh Dt 11:26-16:17 The land of Israel and the Munuchah](https://www.youtube.com/watch?v=3Et5rwoIj_Y) (`source_id`: `youtube:3Et5rwoIj_Y`).
-- Esta nota organiza y contrasta las exposiciones; no presenta las transcripciones automáticas como citas literales.
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
