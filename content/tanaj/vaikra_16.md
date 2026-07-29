@@ -18,7 +18,6 @@ references:
   - "#salmos_51_12"
   - "#ivrim_5_10"
 sources:
-  - "https://www.youtube.com/watch?v=1Dqriiq9bIU"
   - "https://www.youtube.com/watch?v=8Btk2jATjfk"
   - "https://www.youtube.com/watch?v=Y97CMPXJ4cA"
   - "https://www.youtube.com/watch?v=stsUp5v3SXE"
@@ -28,7 +27,6 @@ sources:
   - "docs/scriptures/oe/json/leviticus/16.json"
   - "docs/scriptures/tth/json/vaikra.json"
 source_ids:
-  - "youtube:1Dqriiq9bIU"
   - "youtube:8Btk2jATjfk"
   - "youtube:Y97CMPXJ4cA"
   - "youtube:stsUp5v3SXE"
@@ -313,5 +311,5 @@ Las clases de Eric identificadas por `youtube:8Btk2jATjfk` y `youtube:Y97CMPXJ4c
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Videos: [Parashat 'Ajarey mot + Qedoshim (2017): Reconciliation, Redemption, and the New Jerusalem](https://www.youtube.com/watch?v=1Dqriiq9bIU) (`source_id`: `youtube:1Dqriiq9bIU`); [Parashat 'Ajarey Mot - Passover Seder Part 1](https://www.youtube.com/watch?v=8Btk2jATjfk) (`source_id`: `youtube:8Btk2jATjfk`); [Parashat 'Ajarey Mot - Séder de Pésaj Parte 4](https://www.youtube.com/watch?v=Y97CMPXJ4cA) (`source_id`: `youtube:Y97CMPXJ4cA`); [Parashat 'Ajarey Mot - Passover Seder Part 5](https://www.youtube.com/watch?v=stsUp5v3SXE) (`source_id`: `youtube:stsUp5v3SXE`); [Parashat 'Ajarey Mot - Seder of Pesach Part 2](https://www.youtube.com/watch?v=jCax7bvw4Y8) (`source_id`: `youtube:jCax7bvw4Y8`); [Parashat 'Ajarey Mot - Seder of Pesach Part 3](https://www.youtube.com/watch?v=fVAh5QTMH-8) (`source_id`: `youtube:fVAh5QTMH-8`); [Parashat Acharei Mot. Lev 16-18 The Ministry of Reconciliation](https://www.youtube.com/watch?v=_4q0WLCdK1c) (`source_id`: `youtube:_4q0WLCdK1c`).
+- Videos: [Parashat 'Ajarey Mot - Passover Seder Part 1](https://www.youtube.com/watch?v=8Btk2jATjfk) (`source_id`: `youtube:8Btk2jATjfk`); [Parashat 'Ajarey Mot - Séder de Pésaj Parte 4](https://www.youtube.com/watch?v=Y97CMPXJ4cA) (`source_id`: `youtube:Y97CMPXJ4cA`); [Parashat 'Ajarey Mot - Passover Seder Part 5](https://www.youtube.com/watch?v=stsUp5v3SXE) (`source_id`: `youtube:stsUp5v3SXE`); [Parashat 'Ajarey Mot - Seder of Pesach Part 2](https://www.youtube.com/watch?v=jCax7bvw4Y8) (`source_id`: `youtube:jCax7bvw4Y8`); [Parashat 'Ajarey Mot - Seder of Pesach Part 3](https://www.youtube.com/watch?v=fVAh5QTMH-8) (`source_id`: `youtube:fVAh5QTMH-8`); [Parashat Acharei Mot. Lev 16-18 The Ministry of Reconciliation](https://www.youtube.com/watch?v=_4q0WLCdK1c) (`source_id`: `youtube:_4q0WLCdK1c`).
 - Esta nota organiza y contrasta las exposiciones; no presenta las transcripciones automáticas como citas literales.
