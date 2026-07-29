@@ -410,6 +410,13 @@
             "youtube:xpihVrZGGI4"
           ],
           "reason": "Tras la cobertura, haftarot quedó en 28 fuentes pendientes (<40). Se asigna exclusivamente esta exposición bíblica de Haftarah aún no asignada; no se tomó una fuente en progreso ni una nota canónica de otra lane."
+        },
+        {
+          "title": "Haftarah de Ajarey-mot pendiente sin asignar",
+          "source_ids": [
+            "youtube:7HdoY1mD98"
+          ],
+          "reason": "Tras la cobertura, haftarot quedó en 27 fuentes pendientes (<40). Esta exposición de Ajarey-mot permanece sin asignar, sin nota canónica ni trabajo en progreso; se asigna exclusivamente a la lane haftarot por coherencia temática de haftarah."
         }
       ],
       "priority": "Remediate existing canonical notes tied to owned sources first; otherwise process the first eligible biblical exposition in source order."
