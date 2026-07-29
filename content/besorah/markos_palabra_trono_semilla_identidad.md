@@ -205,12 +205,6 @@ La clase presenta una sola palabra en tres posiciones. En los cielos está firme
 
 El resultado práctico no es acumular imágenes nuevas, sino someterlas al texto. Si una tradición sobre el más allá, el oficio del Mesías o su humanidad excede lo que se ha cotejado, debe quedar abierta. La palabra entronizada también amonesta al investigador: hablar con precisión, distinguir texto de propuesta pedagógica y esperar que el conocimiento produzca misericordia, fidelidad y fruto.
 
-## Créditos
-
-- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Evangelio según Marcos, parte 2](https://www.youtube.com/watch?v=LuxlrvnMbu8) (`source_id`: `youtube:LuxlrvnMbu8`).
-- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
-
 ## Ver también
 
 - [[markos_abba_ruaj_mente_mashiaj|Marcos: Abba, ruaj y la mente del Mesías]]
