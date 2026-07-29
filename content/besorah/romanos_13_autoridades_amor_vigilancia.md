@@ -149,11 +149,13 @@ El paso al amor conserva el límite moral. **(μηδενὶ μηδὲν ὀφε�
 
 Finalmente, **(γρηγορέω)**, _grēgoreō_, significa estar despierto o mantenerse vigilante; aunque Romanos 13:11 usa la imagen de despertar, esta forma ayuda solo de manera **pedagógica** a resumir la vigilancia. La enseñanza de Eric se conserva con apoyo textual cuando llama a abandonar tinieblas y revestirse de Yehoshua; se limita cuando una lectura convierte «la hora» en calendario profético. La progresión completa es sobria: autoridad funcional, conciencia responsable, amor que no daña y esperanza que produce una conducta despierta.
 
-## Pendiente de verificar
+## Control final de atribución y aplicación
 
-- [ ] Cotejar los términos griegos relevantes de Romanos 13 con léxicos y la sintaxis del pasaje.
-- [ ] Revisar las conexiones intertextuales propuestas en las sesiones antes de describirlas como citas o equivalencias exactas.
-- [ ] Distinguir la afirmación explícita del texto de las aplicaciones contemporáneas de la enseñanza.
+La sesión pública `youtube:Wvj5LCGsSLw` conserva como observación atribuible el llamado a reconocer la sujeción a las autoridades superiores. El título de la fuente no autoriza a convertir esa observación en una defensa de todo gobierno ni en una cita literal de Eric. La evaluación canónica mantiene el orden de la perícopa: autoridad funcional, conciencia responsable, tributo y honra, deuda de amor y vigilancia sobria.
+
+El control léxico distingue lo exacto de lo interpretativo. **(ἐξουσία)**, _exousia_, significa autoridad, potestad o esfera de competencia; en #romanos_13_1-4 su fuerza contextual es una función pública responsable ante Elohim. «Autoridad» es una glosa **directa**, mientras «poder absoluto» sería una inferencia **ilegítima**. **(ὑποτάσσω)**, _hypotassō_, significa someterse o colocarse bajo un orden; en #romanos_13_1 y 5 su traducción es **aproximada** porque incluye conciencia, tributo, respeto y honra, no obediencia ciega.
+
+La misma cautela rige la vigilancia. **(ἐγείρω)**, _egeirō_, significa levantar o despertar; en #romanos_13_11 la exhortación es **directa**, pero convertir «la hora» en un calendario profético sería una inferencia **ilegítima**. **(πρόνοια)**, _pronoia_, significa previsión, provisión o cuidado anticipado; en #romanos_13_14 su fuerza es no preparar una ocasión para deseos desordenados. «No proveer» es **aproximado y pedagógico**: no niega necesidades corporales legítimas, sino la planificación moral del mal.
 
 ## Conclusión
 

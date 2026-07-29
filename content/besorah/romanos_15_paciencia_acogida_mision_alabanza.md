@@ -124,7 +124,13 @@ El cierre del capítulo muestra qué clase de misión produce esa acogida. **(σ
 | **(ἐλπίς)**; **(תקוה)**       | _elpis_; _tiqvah_        | esperanza, expectativa                         | #romanos_15_4 y #romanos_15_13 sitúan esperanza en la acción de Elohim mediante las Escrituras y el Rúaj. | Aproximada: ambas pertenecen al campo de la esperanza, pero cada una debe leerse en su propia lengua y sintaxis.                       |
 | **(λειτουργός)**; **(משרת)**  | _leitourgos_; _mesharet_ | servidor público o cultual; ministro, servidor | #romanos_15_16 caracteriza el servicio de Pablo entre las naciones con lenguaje de culto.                 | Pedagógica: **(משרת)** comunica servicio, sin agotar el matiz cultual de _leitourgos_.                                                 |
 
-## Pendiente de verificar
+## Control final de atribución y recorrido
+
+La fuente pública `youtube:mjo6EdF3RPs`, titulada «Patience, Consolation, and Peace», permite atribuir a Eric el foco de paciencia, consolación y paz, además de su conexión con el tropiezo tratado en Romanos 14. No se presenta el título ni la paráfrasis como cita literal. El capítulo evalúa ese énfasis en orden: cargar las flaquezas, recibir al hermano, confirmar las promesas, alabar con las naciones, servir con humildad y sostener la misión mediante ayuda e intercesión.
+
+La atribución queda limitada por el texto local. **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o resistencia; en #romanos_15_4-5 su fuerza contextual es paciencia sostenida por las Escrituras y orientada a la esperanza. «Paciencia» es **aproximada**, porque el pasaje no describe resignación sin esperanza. **(προσλαμβάνω)**, _proslambanō_, significa recibir, acoger o tomar consigo; en #romanos_15_7 la glosa «acoger» es **directa** en la escena, pero su aplicación es **cualificada**: no borra corrección, límites ni diferencias de conciencia.
+
+El cierre confirma que la paz no es pasividad. **(λειτουργός)**, _leitourgos_, significa servidor público o cultual; en #romanos_15_16 describe el servicio de Pablo entre las naciones con matiz sacerdotal. «Ministro» es **pedagógico y aproximado**, no una prueba de rango institucional posterior. **(συναγωνίζομαι)**, _synagōnizomai_, significa luchar juntamente o esforzarse con alguien; en #romanos_15_30 su fuerza es intercesión compartida, no violencia. La misión, la colecta para Jerusalén y la oración quedan bajo la voluntad de Elohim, no bajo una promesa automática de éxito.
 
 - [ ] Cotejar **(ὑπομονή)**, **(παράκλησις)**, **(προσλαμβάνω)**, **(ἐλπίς)** y **(λειτουργός)** con el texto griego y léxicos, sin convertir las formas hebreas de Delitzsch en equivalencias automáticas.
 - [ ] Examinar las citas de #romanos_15_9-12 en sus contextos de Tanaj y en la forma en que Pablo las encadena.
