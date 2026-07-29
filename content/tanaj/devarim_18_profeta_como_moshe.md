@@ -89,7 +89,17 @@ Más allá del capítulo, Eric identifica al anunciador de #ieshaiahu_52_7-10 co
 
 Sobre **(מלך אלהיך)** en perfecto —«tu Elohim reinó»— Eric insiste en el pasado: el reinado anunciado implica conquista de la muerte y pueblo ganado donde antes reinaban tinieblas, frente a un «siempre reina» que borra el drama. Cita #tehilim_93_1. La observación aspectual es **hermenéuticamente fértil** y debe sopesarse con el resto del salterio donde el reinado de יהוה se confiesa también como eterno.
 
-## Hoja léxica
+## Hoja léxica y desarrollo textual
+
+## La promesa se entiende por su secuencia — vv. 15–22
+
+El orden de Devarim 18 impide separar la promesa del profeta de las condiciones que la rodean. Primero el pueblo recuerda el temor de Horeb: pidió no seguir oyendo la voz desde el fuego (#devarim_18_16). Después יהוה confirma que su petición fue buena y anuncia una mediación que no nace de la curiosidad humana, sino de una palabra que él mismo pondrá en la boca del profeta (#devarim_18_17-18). Finalmente, el pasaje exige escucha y ofrece examen. **(קום)**, _qum_, significa levantarse o hacer surgir; en **נביא אקים להם**, _naví aqim lahem_, su fuerza contextual es que יהוה establecerá un portavoz para su pueblo. «Designar» es una equivalencia aproximada; «crear de la nada» sería una lectura excesiva.
+
+La frase **מקרבך מאחיך**, _miqirbeja me'ajeja_, contiene dos límites argumentales: «de en medio de ti» y «de tus hermanos». **(קרב)**, _qerev_, significa interior, medio o proximidad; aquí señala pertenencia al pueblo, no una voz extranjera que se impone desde fuera. **(אח)**, _aj_, significa hermano y puede operar como parentesco o miembro del mismo pueblo según el contexto. Eric usa ese doble límite para sostener que el profeta no es un adivino autónomo; la observación tiene apoyo textual. La identificación mesiánica posterior puede desarrollar el patrón, pero no debe borrar la forma concreta de la promesa.
+
+El mandato **אליו תשמעון**, _elav tishme'un_, «a él escucharéis», está en plural y se dirige a la comunidad. **(שמע)**, _shama_, significa oír, escuchar o atender; aquí la fuerza contextual incluye obediencia a la palabra autorizada, pero la equivalencia «obedecer» es aproximada porque resume el efecto, no la forma. La misma unidad introduce el límite: el profeta que habla presuntuosamente **(בזדון)**, _bizadon_, «con insolencia/presunción», no habla por יהוה. La prueba **לא יהיה הדבר ולא יבא**, _lo yihyeh hadavar velo yavo_, «la palabra no sucederá ni vendrá», es un criterio público. Eric acierta al insistir en la autoridad de la voz prometida, y el texto obliga a añadir que esa autoridad nunca queda fuera de la palabra comprobable.
+
+Esta secuencia también precisa la conexión con Hechos 3:22–23. La cita apostólica identifica a Yehoshua dentro del patrón de «profeta como Moshé», pero Devarim conserva simultáneamente el horizonte comunitario de escuchar, el origen «de los hermanos» y la responsabilidad de discernir. La equivalencia entre el profeta y el Mesías es **canónica**, mientras que decir que cada profeta posterior es automáticamente ese cumplimiento sería una generalización **pedagógicamente peligrosa**. La exposición de Eric queda mejor preservada cuando se distingue la promesa toráica, su recepción apostólica y el examen textual que el propio capítulo manda.
 
 | Forma                  | Transliteración     | Sentido normal y forma                   | Fuerza contextual                                     | Tipo de relación                                      |
 | ---------------------- | ------------------- | ---------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
