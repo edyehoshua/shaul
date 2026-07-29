@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 908,
-  "pending_videos": 50,
-  "transcript_notes": 463,
+  "covered_videos": 912,
+  "pending_videos": 46,
+  "transcript_notes": 465,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -58,7 +58,7 @@
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 17,
+      "covered": 19,
       "lane": "colosenses"
     },
     "Gálatas": {
@@ -168,12 +168,12 @@
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 45,
+      "covered": 46,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 46,
+      "covered": 47,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)": {
@@ -188,7 +188,7 @@
     },
     "Parashot 2016-2017: Ajarey mot, Beha'alotjá, Balaq, Re'eh y Ha'azinu": {
       "total": 5,
-      "covered": 2,
+      "covered": 3,
       "lane": "tanaj"
     },
     "Parashot 2016-2017: Dvarim pendiente no asignado": {
