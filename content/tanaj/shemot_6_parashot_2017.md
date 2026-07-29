@@ -144,6 +144,22 @@ La lectura canónica de Delitzsch conserva el arco de promesa y salida sin reemp
 
 Así se preserva la observación de Eric y se corrige su posible exceso. La cadena **והוצאתי**, _vehotséti_, «sacaré», **והצלתי**, _vehitsalti_, «salvaré», **וגאלתי**, _vegaalti_, «redimiré», **ולקחתי**, _velaqajti_, «tomaré», y **והבאתי**, _vehevéti_, «traeré», muestra una obra de יהוה orientada a pertenencia y herencia. Cada forma recibe su sentido normal y su fuerza local; ninguna autoriza afirmar que la promesa ya anuló el sufrimiento, la objeción de Moshéh o la necesidad de obedecer la palabra recibida.
 
+## Verificación final: promesa, escucha y misión
+
+La fuente propia de esta lane, `youtube:YFejem1jPTk`, concentra la exposición en _Qasheh_, _Jazaq_ y _Kaved_. La observación de Eric conserva valor cuando se prueba con el orden de Shemot 6: יהוה declara quién es, promete sacar y redimir, el pueblo no escucha por la opresión, y Moshéh vuelve a ser enviado. La exposición no debe convertirse en una cita del audio; la evaluación depende de OE y TTH locales.
+
+En 6:6, OE dice **והוצאתי אתכם מתחת סבלת מצרים והצלתי אתכם מעבדתם וגאלתי אתכם בזרוע נטויה ובשפטים גדלים**, y TTH: «Los sacaré de debajo de las cargas de Mitsraim, los salvaré de su trabajo y los redimiré con brazo extendido y con juicios grandes». **(סבל)**, _saval_, significa carga o trabajo pesado; en **סבלת**, _sivlot_, su fuerza es la opresión que pesa sobre Israel. **(נצל)**, _natsal_, significa rescatar o librar; **(גאל)**, _gaal_, significa redimir o recuperar como pariente. «Liberación interior» puede ser una aplicación **pedagógica**, pero la afirmación **exacta** comienza con cargas históricas y con la intervención de יהוה.
+
+La cadena verbal no debe convertirse en cinco etapas mecánicas ni reducirse a sinónimos. **(לקח)**, _laqaj_, significa tomar o recibir; en **ולקחתי**, _velaqajti_, su fuerza contextual es constituir a Israel «para Mí por pueblo». «Adoptaré» es una equivalencia **aproximada**, útil para explicar la relación, pero más interpretativa que «tomaré». Eric acierta al ver una promesa cuyo destino es pertenencia y no solo salida; el capítulo une rescate, redención, pueblo, Elohim y tierra jurada en una sola declaración acumulativa.
+
+El v. 9 impide una lectura triunfalista. OE dice **ולא שמעו אל משה מקצר רוח ומעבדה קשה**, y TTH: «Y no escucharon a Moshéh por cortedad de espíritu y por trabajo duro». **(קצר)**, _qatsar_, significa ser corto, recoger o segar; con **(רוח)**, _ruaj_, aliento, espíritu o viento, su fuerza contextual es un ánimo estrechado. **(קשה)**, _qashah_, significa duro, severo o difícil; aquí califica la servidumbre. «Falta de fe» sería una equivalencia **teológica y aproximada**, no la traducción exacta. La observación de Eric sobre _Kaved_ y la carga recibe apoyo cuando se conserva la compasión narrativa: el sufrimiento afecta la capacidad de escuchar.
+
+Moshéh comparte la fragilidad del pueblo. En 6:12 y 6:30 repite **אני ערל שפתים**, «yo soy incircunciso de labios». **(ערל)**, _arel_, significa incircunciso o no circuncidado; en **ערל שפתים**, _arel sefatayim_, la fuerza es una imagen de impedimento expresivo. «Tartamudo» es una paráfrasis **pedagógica**, no una equivalencia exacta, porque el texto no diagnostica una condición médica. **(דבר)**, _dabar_, significa hablar, declarar o comunicar; la misión persiste porque יהוה encarga la palabra a un mensajero limitado, no porque Moshéh haya demostrado elocuencia.
+
+Delitzsch relee este arco en Ivrim 11:8: **באמונה שמע אברהם כאשר נקרא ללכת אל־הארץ אשר יירשנה ויצא**, «por fe Abraham escuchó cuando fue llamado a ir a la tierra que recibiría por herencia, y salió». **(שמע)**, _shama_, significa oír, escuchar u obedecer; en Ivrim la escucha desemboca en salida, mientras en Shemot 6 la esclavitud la dificulta. La relación es **canónica y aproximada**, no una definición de _shama_ como «fe». Así se conserva la aportación de Eric sin borrar la diferencia entre una relectura posterior y la situación inmediata de Israel.
+
+La evaluación final es doble: la iniciativa de יהוה, la secuencia de redención y la carga que debilita la escucha tienen **apoyo textual**; convertir el «plan de ayer y de hoy» en una cronología universal o en prosperidad automática sería una aplicación **pedagógica** sin equivalencia exacta. Shemot 6 enseña que la promesa permanece eficaz a través de un pueblo herido y de un enviado que objeta: la fidelidad divina no depende de una recepción humana inmediata.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
