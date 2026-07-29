@@ -94,6 +94,15 @@ El punto explícito permanece firme: Yehoshua no señala un mediador alternativo
 | **(אמת)**  | verdad, firmeza                 | La clase la relaciona con lo inmutable; requiere cotejo léxico y contextual.                                                    |
 | **(חיים)** | vida                            | La clase la enlaza con vida del olam; distinguir la asociación teológica del significado de cada forma textual.                 |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #iojanan_14_1 | Eric presenta el llamado a no turbarse como una invitación a afirmarse en Elohim y en Yehoshua durante la partida anunciada. | Apoyo textual: el mandato de confiar aparece al inicio; la lectura doctrinal sobre la identidad del Mesías se conserva como interpretación, no como sustituto del mandato. |
+| #iojanan_14_2-3 | La clase interpreta casa, moradas y lugar preparado desde pertenencia, promesa y retorno, no solo como habitaciones físicas. | Apoyo textual e inferencia cualificada: ir, preparar, volver y recibir están expresos; las dimensiones espaciales, comunitarias o escatológicas no se resuelven por una sola imagen. |
+| #iojanan_14_4-6 | Eric lee la pregunta de Tomáh como el paso de una ruta geográfica a Yehoshua mismo como camino, verdad y vida hacia el Padre. | Apoyo textual y clarificación conceptual: el diálogo confirma el cambio de plano; las aproximaciones a **(דרך)**, **(אמת)** y **(חיים)** son pedagógicas y no equivalencias exactas con el griego. |
+| #bereshit_12_1 / #shemot_1_21 | La exposición usa «casa» en otros pasajes para mostrar que puede expresar pertenencia o una casa otorgada, no únicamente un edificio. | Inferencia cualificada: las comparaciones ayudan a leer el campo semántico, pero no fijan por sí solas el sentido de #iojanan_14_2. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar **(μονή)**, «casa» y «lugar» en el griego de #iojanan_14_2-3 y en el resto del evangelio antes de decidir si el sentido es espacial, comunitario, escatológico o una combinación de ellos.

@@ -87,6 +87,15 @@ La nota conserva el límite del pasaje: Yehoshua promete presencia, enseñanza y
 | **(ὑπομιμνῄσκω)** | hacer recordar.                                      | La clase relaciona el verbo con memoria permanente; verificar forma, sintaxis y alcance en #iojanan_14_26.                                          |
 | **(שכן)**         | morar, habitar; aparece en el Delitzsch «ושכנו אתו». | No identificar automáticamente el hebreo de Delitzsch con la lengua original ni con una fuente rabínica concreta.                                   |
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #iojanan_14_22-24 | Eric lee la manifestación de Yehoshua a los discípulos en contraste con el olam y la relaciona con amar y guardar la palabra. | Apoyo textual: la pregunta, la condición del amor y el contraste positivo/negativo aparecen en orden; la explicación de una manifestación reservada se mantiene ligada al pasaje. |
+| #iojanan_14_23 | La clase amplía «morada» hacia la presencia de la Shejiná, la conciencia y una vida cotidiana transformada. | Apoyo textual e inferencia cualificada: el Padre y el Hijo prometen hacer morada; las aplicaciones sobre conciencia, misión cultural y era mesiánica quedan como elaboración del expositor. |
+| #iojanan_14_25-26 | Eric destaca que el Menajem enseña y hace recordar lo que Yehoshua ya habló, no un mensaje desligado de él. | Apoyo textual y clarificación léxica: enseñar y recordar tienen objeto explícito; la amplitud de memoria permanente requiere cotejo del verbo y del contexto. |
+| #ieshaiahu_11_3-4 / #tehilim_119_20 | La exposición vincula discernimiento, justicia y orientación continua a la voluntad de יהוה con la morada prometida. | Inferencia cualificada: se conservan las conexiones canónicas y se evita presentarlas como citas directas de Yojanán 14:22-26. |
+
 ## Conexiones principales
 
 - #iojanan_14_22-24: la manifestación se explica mediante amor y guardar la palabra, no mediante una señal pública separada.
