@@ -65,6 +65,14 @@ La clase conecta la entrada en la casa de יהוה con el acceso por medio de Ye
 
 Al final, el poema pasa de la amenaza al gozo de quienes se refugian en יהוה. La protección se expresa con lenguaje de cobertura y bendición. La clase interpreta el término final como «reconciliación» y lo enlaza con una consumación futura; esa precisión semántica y su desarrollo escatológico necesitan contraste con léxicos y con el uso del término en su contexto.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual  | Observación concreta de la clase                                                                                                                                                        | Tratamiento frente al texto local                                                                                                                                                                       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #tehilim_5_1-3  | Eric sigue la cadena de dichos, clamor, oración, preparación y vigilancia, y relaciona «de mañana» con una búsqueda perseverante de יהוה.                                               | El orden de los verbos y la referencia temporal son explícitos; la lectura de vigilancia como disciplina espiritual es una aplicación contextual, no una reconstrucción militar.                        |
+| #tehilim_5_4-8  | La exposición contrasta la entrada ante יהוה con la jactancia, la violencia y el engaño, y conecta «condúceme en tu justicia» con una dependencia que no toma venganza por mano propia. | El salmo niega que la maldad permanezca ante יהוה y pide dirección; las distinciones técnicas entre raíces y las identificaciones de enemigos concretos quedan cualificadas.                            |
+| #tehilim_5_9-12 | Eric enlaza la falsedad de la boca con la necesidad de refugiarse en יהוה y lee la cobertura final junto con acceso, reconciliación y esperanza futura.                                 | El texto sí contrasta garganta abierta, sepulcro, lengua engañosa y el gozo de quienes se refugian; la identificación mesiánica y el alcance escatológico se conservan como lectura canónica pendiente. |
+
 ## Hoja léxica
 
 | Forma       | Transliteración | Sentido en la nota     | Observación                                                                         |
