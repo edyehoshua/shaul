@@ -44,7 +44,7 @@ La secuencia verbal de 1:7 refuerza la resistencia: **פרו** (_paru_) signific
 
 La clase permite preguntar cómo se vence el mal; el episodio de Shifrah y Puah responde sin glorificar el poder de Faraón. **(ירא)**, _yare_, tiene el sentido normal de temer, reverenciar o quedar sobrecogido; en **ותיראן** (_vatirena_) el sujeto plural femenino —las parteras— «teme a Elohim». El contexto fuerza una equivalencia contextual de reverencia obediente: «no hicieron como les habló el rey» y dejaron vivir a los niños (#shemot_1_17). No es idéntico a pánico ni una licencia para usar «temor» como emoción vaga.
 
-El narrador repite que Elohim hizo bien a las parteras y que el pueblo se multiplicó (#shemot_1_20–21). «Casas» (**בתים**, _batim_) puede leerse literalmente como casas y, en este contexto, como una recompensa o establecimiento familiar; afirmar que define por sí solo una institución posterior sería una inferencia mayor. El capítulo termina con Faraón extendiendo la orden a «todo su pueblo», lo que muestra que el mal se institucionaliza, pero también que la preservación ya ha comenzado dentro del sistema.
+El narrador repite que Elohim hizo bien a las parteras y que el pueblo se multiplicó (#shemot*1_20–21). «Casas» (**בתים**, \_batim*) puede leerse literalmente como casas y, en este contexto, como una recompensa o establecimiento familiar; afirmar que define por sí solo una institución posterior sería una inferencia mayor. El capítulo termina con Faraón extendiendo la orden a «todo su pueblo», lo que muestra que el mal se institucionaliza, pero también que la preservación ya ha comenzado dentro del sistema.
 
 ## Mapa de la enseñanza de Eric
 
