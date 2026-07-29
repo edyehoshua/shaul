@@ -350,6 +350,7 @@ El verbo griego **(ἐπικαλέω)**, _epikaleō_, significa invocar, apelar 
 
 La perícopa conserva, sin embargo, la respuesta humana que la observación podría dejar en segundo plano. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 aparece en la afirmación de que no todos obedecieron a la buena noticia. **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir; en 10:21 describe la resistencia de Israel mientras Elohim extiende sus manos. Ambas glosas son **directas** y su fuerza **contextual**: la iniciativa del llamado y del envío no convierte al oyente en un objeto sin responsabilidad. Así, la enseñanza de Eric recibe **apoyo textual cualificado** al rechazar una invocación convertida en mérito autónomo, pero requiere corrección si la prioridad divina se transforma en fatalismo o si la propuesta sobre Joel se presenta como certeza filológica.
 
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
