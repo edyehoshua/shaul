@@ -211,6 +211,30 @@ En 9:20 Pablo responde «oh hombre» antes de presentar la imagen del alfarero. 
 
 Por último, la seguridad que Eric relaciona con Romanos 8:38-39 funciona como conexión canónica y pastoral, no como sustituto de Romanos 9. **(σῴζω)**, _sōzō_, significa salvar, rescatar o preservar; «salvación» es **directa** como campo semántico, pero afirmar que una función histórica prueba la salvación personal sería **ilegítimo**. La evaluación equilibrada conserva la tesis atribuible —propósito no equivale automáticamente a salvación— y también conserva el límite del capítulo: misericordia, endurecimiento, promesa, responsabilidad y el tropiezo de Israel deben leerse en la secuencia completa de Romanos 9–11.
 
+## Reparación de la perícopa: propósito sin reducir la salvación
+
+La observación de Eric en `youtube:atIdZY13b_c` debe conservarse en su alcance concreto: Faraón puede cumplir una función dentro del propósito histórico de Elohim sin que esa función, por sí sola, demuestre su experiencia personal de salvación. La transcripción automática permite localizar la paráfrasis, no presentar una cita literal. Romanos 9:17 respalda **directamente** la función —mostrar el poder de Elohim y anunciar su Nombre—; el límite soteriológico es **inferencial y cualificado**, porque el versículo no ofrece una biografía completa de Faraón.
+
+Romanos 9:1-5 impide que esa discusión borre a Israel. **(λύπη)**, _lypē_, significa tristeza, dolor o aflicción; en 9:2 su fuerza contextual es el sufrimiento real de Pablo por sus hermanos. **(διαθήκη)**, _diathēkē_, significa pacto, alianza o disposición; «pactos» es una glosa **directa** y la lista de privilegios históricos debe permanecer al inicio del argumento. La observación atribuible recibe aquí un límite pastoral: distinguir función y salvación no autoriza a despreciar a quienes Pablo enumera como portadores de adopción, gloria, pactos, Torah, culto y promesas.
+
+En 9:6-13, **(ἐκπίπτω)**, _ekpiptō_, significa caer, quedar fuera o fallar; aplicado a la palabra, niega que la promesa de Elohim haya quedado frustrada. **(σπέρμα)**, _sperma_, significa semilla, descendencia o linaje, y **(ἐπαγγελία)**, _epangelia_, significa promesa o compromiso anunciado. Sus glosas son **directas en el campo básico**, pero «descendencia de la promesa» es **contextual**: Pablo distingue el recorrido de la promesa sin borrar la genealogía ni los privilegios del comienzo.
+
+En 9:14-18, **(ἐλεέω)**, _eleeō_, significa tener misericordia o compadecerse; su fuerza contextual presenta la misericordia como acción favorable de Elohim, no como deuda reclamable. **(σκληρύνω)**, _sklērynō_, significa endurecer o hacer rígido; «endurecer» es **directo**, mientras explicar toda la relación entre iniciativa divina, resistencia y responsabilidad es **aproximado**. **(ἐγείρω)**, _egeirō_, significa levantar, suscitar o hacer aparecer; en 9:17 introduce el propósito histórico referido a Faraón. El verbo no decide por sí solo el destino final de la persona.
+
+En 9:19-24, **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o hallar falta; la pregunta de 9:19 formula la objeción sobre la responsabilidad. **(ἀποκρίνομαι)**, _apokrinomai_, significa responder o replicar, y **(κεραμεύς)**, _kerameus_, significa alfarero. Sus sentidos ordinarios son **directos**; su fuerza contextual marca la asimetría entre criatura y formador. La imagen no permite resolver por una sola palabra toda la doctrina de cada destino, ni convierte toda pregunta sincera en rebelión.
+
+En 9:25-33, **(λεῖμμα)**, _leimma_, significa remanente o resto; **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; y **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra. El remanente comunica preservación por misericordia, la justicia organiza el contraste entre naciones e Israel y la piedra explica el tropiezo ante el Mesías. Las glosas son **directas**, pero condenar indistintamente a Israel sería **ilegítimo** frente al dolor y los privilegios de 9:1-5. El capítulo termina con responsabilidad y emunah, no con superioridad étnica.
+
+## Mapa reparado de la enseñanza de Eric
+
+| Unidad textual                          | Observación concreta atribuible                                                 | Evaluación frente a Romanos 9                                                                                            |
+| --------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| #romanos_9_1-5                          | Pablo habla desde dolor por Israel, no desde desprecio.                         | Apoyo textual directo: la angustia y los privilegios abren el capítulo.                                                  |
+| #romanos_9_6-13                         | La filiación de la promesa no se reduce a genealogía.                           | Apoyo cualificado: la palabra no falla, pero la distinción no borra la historia de Israel.                               |
+| #romanos_9_14-18; `youtube:atIdZY13b_c` | La función histórica de Faraón no prueba automáticamente su salvación personal. | Apoyo directo para la función y límite inferencial para el destino; el texto no ofrece biografía soteriológica completa. |
+| #romanos_9_19-24                        | La criatura no puede ocupar el lugar del formador para juzgarlo.                | Apoyo textual cualificado: la asimetría es real, pero no agota todas las preguntas de responsabilidad.                   |
+| #romanos_9_25-33                        | Remanente, naciones, justicia y piedra deben leerse juntos.                     | Apoyo textual: el cierre conserva emunah y tropiezo, no una condena étnica indiscriminada.                               |
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
