@@ -189,6 +189,16 @@ La exposición sobre la Torá escrita en el corazón también requiere distingui
 
 Por último, **(περιτομή)**, _peritomē_, significa circuncisión y **(γράμμα)**, _gramma_, significa letra, escrito o documento. En #romanos_2_25-29 las glosas son **directas** en su sentido ordinario, pero su fuerza depende del contraste entre señal, obediencia y alabanza procedente de Elohim. La observación atribuible de Eric sobre qué significa ser judío y qué significa ser creyente recibe **apoyo cualificado**: el nombre, la enseñanza y la señal no son escudos, pero la crítica de Pablo se dirige a un interlocutor concreto y no autoriza desprecio contra Israel.
 
+## Reparación: el criterio del capítulo no es mérito autónomo
+
+La frase «los hacedores de la Torah serán justificados» (#romanos_2_13) debe conservar su lugar antes de usarla en una disputa doctrinal. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o reconocer como justo; en este versículo su fuerza contextual pertenece al anuncio del juicio conforme a la respuesta visible, no a una afirmación aislada de que el ser humano pueda fabricar justicia sin la misericordia de Elohim. Romanos 3:20 y 3:23-24 impiden esa lectura de autosuficiencia, mientras Romanos 2 impide reducir la obediencia a mera audición.
+
+La enseñanza atribuible a Eric sobre la Torah escrita en el corazón recibe así una evaluación doble. Es **textual** que la conciencia testifica y que los pensamientos acusan o defienden (#romanos_2_15); es **aproximado y pedagógico** relacionar esa interioridad con **(לב)**, _lev_, «corazón», porque el texto griego no se vuelve hebreo por una asociación temática. **(ἔργον)**, _ergon_, significa obra, acción o hecho; aquí nombra la conducta que hace visible la respuesta, pero no autoriza a convertir el rendimiento en motivo de jactancia. El capítulo siguiente conserva la tensión: la Torah revela el pecado y la justicia se recibe gratuitamente.
+
+La última unidad exige además una atribución proporcionada a la evidencia. `youtube:6D7Yj0bDSfU` permite acreditar públicamente el foco «¿Qué es ser judío? ¿Qué es ser creyente?», pero no una explicación completa que no esté disponible en el transcript local. Lo que sí puede afirmarse con el texto es que **(Ἰουδαῖος)**, _Ioudaios_, significa judío y designa aquí al interlocutor histórico que se gloría en la Torah; su glosa es **directa**, mientras extender la reprensión a todo Israel sería **ilegítimo**. La nota preserva el crédito visible de Eric sin fabricar una cita y deja que la perícopa evalúe la pregunta.
+
+## Pendiente de verificar
+
 - [ ] Examinar la cita implícita de #romanos_2_24 y su contexto profético antes de describir con precisión su alcance.
 - [ ] Revisar directamente la argumentación completa de la clase sobre elección y predestinación para distinguir sus afirmaciones de las que el capítulo formula explícitamente.
 
