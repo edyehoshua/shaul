@@ -80,6 +80,8 @@ Marcos intercala la higuera entre la llegada y la intervención en el Hejal. Yeh
 
 En el Hejal Yehoshua expulsa a quienes venden y compran, vuelca las mesas y no deja que se transporten vasijas. Su explicación controla el sentido: «mi casa, casa de oración será llamada para todos los pueblos», pero «ustedes la han hecho cueva de ladrones» (#markos_11_17). La acusación no autoriza odio contra el santuario ni contra el pueblo que ora allí; denuncia una práctica que contradice la vocación de la casa. También alcanza a cualquier comunidad que conserve actividad religiosa mientras impide la oración, la justicia o el acceso de los pueblos.
 
+La parte 35 de Eric lleva precisamente en su título los dos elementos que Marcos intercala: «La higuera y la casa de oración». Esa coincidencia confirma que la sesión pertenece a #markos_11_12-19, pero no sustituye una transcripción ni permite inventar una interpretación específica. El texto sí ofrece la dependencia necesaria: la higuera sin fruto enmarca la acción del Hejal, y la frase **(οἶκός μου)**, _oikos mou_, «mi casa», identifica la finalidad declarada del recinto dentro de la cita de Isaías; su equivalencia con **(בית)**, _beit_, es funcional y contextual, no evidencia de que Marcos esté retrovertiendo el pasaje.
+
 Los sacerdotes y escribas oyen, buscan cómo hacerlo perecer y temen a la multitud asombrada por su enseñanza. La tensión ya no es la de un reformador con una sugerencia administrativa. Marcos presenta una confrontación de autoridad: quién puede juzgar el uso del recinto que ellos administran y qué harán ellos ante esa palabra.
 
 ## La emunah que recibe y la petición que perdona (11:20-26)

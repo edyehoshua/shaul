@@ -107,6 +107,12 @@ La nota separa aquí el dato textual de la atribución al expositor: la fuente d
 
 La parte 30, retomando la clase anterior, observa que ayuno y oración no son fórmulas que controlen la liberación; su énfasis está en el poder de Elohim. Esa cautela es necesaria contra métodos mágicos. Sin embargo, la afirmación de que solo quien confiesa de determinada manera puede ejercer toda liberación excede lo que #markos_9_29 formula. El versículo TTH menciona tefilah y ayuno; el conjunto de la escena presenta la autoridad de Yehoshua y la necesidad que se dirige a él.
 
+### La súplica del padre y el límite de una fórmula
+
+La perícopa de #markos_9_14-29 debe conservar la diferencia entre la confesión vulnerable del padre y la reprensión dirigida a la generación. El padre dice **(πιστεύω)**, _pisteuō_, «creo o confío», y enseguida añade **(βοήθει μου τῇ ἀπιστίᾳ)**, _boēthei mou tē apistia_, «ayuda a mi falta de confianza». La forma **(βοήθει)**, _boēthei_, es un imperativo de «ayudar»; no pide una técnica para producir una cantidad suficiente de fe, sino auxilio para una confianza incompleta. Su relación con **(אמונה)**, _emunah_, «firmeza o fidelidad», es aproximada y contextual.
+
+El relato tampoco presenta la oración como una contraseña privada. Después de que Yehoshua reprende al espíritu y levanta al muchacho, los discípulos preguntan en privado por qué ellos no pudieron expulsarlo. La respuesta nombra **(προσευχή)**, _proseuchē_, «oración», y el testimonio local añade ayuno. La forma explica dependencia de Elohim, no un mecanismo que garantice el resultado que el orante elija. Esta precisión conserva el eje anunciado públicamente por Eric —emunáh, fidelidad y poder de Dios— sin atribuirle a la parte 29 una explicación cuya transcripción no está disponible.
+
 ### La vida que se pierde y el cuerpo que se transforma (8:35-9:13)
 
 <!-- prettier-ignore -->
