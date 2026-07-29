@@ -195,6 +195,12 @@ Cuando Pablo cita Bereshit, **μυστήριον**, _mystērion_, significa una 
 | #ephesians_5_15-20 | Redimir el tiempo exige caminar con sabiduría, entender la voluntad, llenarse del Rúaj y responder con canto y gratitud.                       | Apoyo textual: la secuencia aparece en 5:15-20; cualquier teoría moderna de calendarios o productividad queda pendiente.                                       |
 | #ephesians_5_21-33 | El orden relacional no puede separarse del sometimiento mutuo y del amor del esposo que se entrega como el Mesías; no es permiso para dominar. | Apoyo textual con salvaguarda pastoral: se conserva la estructura del pasaje y se rechaza una extrapolación abusiva; el trasfondo histórico queda pendiente.   |
 
+### Embriaguez, doctrina y canto: una aplicación que debe permanecer atribuida
+
+En la parte 26, Eric contrapone la embriaguez de 5:18 con la llenura del Rúaj y observa que el vino puede funcionar también como imagen de una doctrina extraña que produce disolución. En el tramo conservado de la exposición, relaciona **ψαλμός**, _psalmos_, con la melodía, **ὕμνος**, _hymnos_, con la letra y los cánticos espirituales con la respuesta cantada de la comunidad. El texto local sí establece el contraste entre embriagarse y ser llenos, y sí continúa con hablar, cantar y dar gracias (5:18-20); por eso la conexión entre llenura y canto tiene apoyo directo.
+
+La extensión de «vino» a doctrina y la afirmación de que la doctrina debe ser «sanadora» son aplicaciones de la clase, no el sentido léxico de **οἶνος**, _oinos_, ni una definición de **πληρόω**, _plēroō_. Se conservan como lectura atribuible y pedagógica: pueden preguntar qué forma de enseñanza desordena la vida, pero no permiten etiquetar una tradición concreta como «extraña» sin examinar sus frutos y su relación con la voluntad del Señor. Así la observación de Eric queda probada por la secuencia del pasaje sin convertir una metáfora pastoral en una traducción literal.
+
 La trazabilidad de las partes es deliberadamente concreta: la parte 25 abre con imitar a Elohim y el amor (5:1-2); las partes 26–27 desarrollan luz, oscuridad y fruto (5:3-14); la parte 28 trabaja el tiempo y la voluntad (5:15-20); y las partes 29–30 recorren el orden relacional y la unión del Mesías con la comunidad (5:21-33). Esta distribución conserva el recorrido de Eric sin atribuir a una sola sesión afirmaciones de toda la carta.
 
 El mapa registra los puntos concretos tomados de las clases y su evaluación; no afirma cobertura exhaustiva de cada afirmación hablada.
