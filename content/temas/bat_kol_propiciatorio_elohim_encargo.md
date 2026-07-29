@@ -84,6 +84,10 @@ Los relatos de la tevilah y la metamorfosis repiten una declaración sobre el Hi
 
 La comparación con un trueno en #iojanan_12_29 apoya la lectura de una manifestación pública. Sin embargo, no todos interpretan correctamente lo oído: algunos discernieron palabras y otros solo trueno o la intervención de un mensajero. La audibilidad no reemplaza la necesidad de comprender el testimonio.
 
+La parte 9 precisa el contraste entre «tú eres mi Hijo» en el bautismo y «este es mi Hijo» en la metamorfosis. Eric sostiene que no son dos mensajes rivales, sino una misma declaración dirigida primero a la misión de Yehoshua y luego a los discípulos que deben escucharlo. Marcos 1:9-11 sí encadena agua, descenso del Rúaj y voz celestial; Mateo 17:5 y Lucas 9:35 conservan el mandato de escuchar. La síntesis de una sola _bat qol_ es interpretación de la clase: la similitud verbal apoya un testimonio común, pero las formas narrativas no deben colapsarse en una cita idéntica.
+
+Eric también define _bat qol_ como una manifestación audible, comparable al trueno, cuyo contenido puede probarse con la Escritura. **φωνή**, _phōnē_, significa «voz» o «sonido» y en Yojanán 12:28-30 introduce una palabra que la multitud oye; **קוֹל**, _qol_, puede significar voz, sonido o estruendo. La correspondencia griego-hebreo es aproximada y pedagógica. El punto local más firme es público: unos oyentes escuchan una voz y otros la interpretan como trueno; no es suficiente llamar _bat qol_ a una impresión interior sin testimonio textual.
+
 ## Hijo, Siervo y Profeta en una misma declaración
 
 La clase interpreta la voz de la metamorfosis como un **drash** que reúne tres pasajes. No se trata de una cita literal única, sino de un tejido que concentra tres funciones mesiánicas en Yeshúa.
@@ -141,6 +145,8 @@ La clase aplica #devarim_18_18 y #devarim_18_22 a las afirmaciones contemporáne
 
 La exhortación práctica es sobria: una impresión personal no debe elevarse automáticamente al rango de bat kol ni de palabra profética. La palabra escrita ofrece un testimonio seguro y un criterio para probar lo que se afirma en el Nombre.
 
+La distinción de Eric entre profeta presuntuoso y falso profeta organiza la aplicación: Devarim 18:22 trata la palabra atribuida a יהוה que no acontece, mientras Devarim 13:2-4 advierte que una señal cumplida tampoco legitima un mensaje que conduce a otros dioses. **נביא**, _naví_, significa profeta; su contexto añade la responsabilidad de hablar lo que יהוה manda. Así, el criterio de la clase no convierte cada predicción acertada en voz celestial: el mensaje debe permanecer dentro de la fidelidad al Elohim de la Torah.
+
 ## Conexiones principales
 
 - La **kapóret** vincula lugar de encuentro, reconciliación y voz; Romanos dirige esa figura hacia el Mesías.
@@ -178,6 +184,8 @@ La voz del cielo funciona como testimonio escritural: señala a Yeshúa como Hij
 | Bat kol, kapóret y voz | Eric relaciona la voz celestial con la palabra que יהוה promete dar desde la kapóret, y con Yeshúa como Propiciatorio.                                  | Shemot 25:22 ubica la palabra sobre la cubierta; Romanos 3:25 presenta al Mesías como Propiciatorio. La relación es tipológica, no una identidad léxica demostrada. | Eje textual verificable; tipología marcada.  |
 | Hijo, Siervo y Profeta | Eric lee la voz de la metamorfosis como un tejido de Tehilim 2, Ieshaiáhu 42 y Devarim 18, no como una cita aislada.                                    | Los tres pasajes aportan hijo, siervo y profeta; los relatos apostólicos mandan escuchar al Hijo.                                                                   | Intertexto explícito; síntesis de la clase.  |
 | Elohim y encargo       | Eric explica que recibir palabra o ejercer juicio puede justificar el título elohim sin conceder inmortalidad, y aplica el límite a ministros y jueces. | Yojanán 10:35 cita Tehilim 82:6; Tehilim 82:7 recuerda que los investidos mueren como Adam.                                                                         | Directamente probado en el argumento citado. |
+
+La ruta completa de la parte 9 queda así: voz pública, tejido de Hijo-Siervo-Profeta, prueba de la palabra y límite del encargo. La clase conserva una observación concreta —la autoridad no nace de una sensación privada ni del título que alguien se atribuye— y el texto la prueba mediante el mandato de escuchar, la advertencia contra la presunción y la mortalidad de los jueces. La identificación plena de Yehoshua con cada hilo mesiánico sigue siendo una síntesis teológica, no una definición de _bat qol_ ni de _Elohim_.
 
 ## Créditos
 

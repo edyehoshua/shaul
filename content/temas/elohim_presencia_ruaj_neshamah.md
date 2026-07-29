@@ -124,6 +124,8 @@ La manifestación local no obliga a dividir a Elohim ni a vaciar los cielos. י�
 
 Este patrón sirve como antesala al lenguaje de Padre e Hijo. Si יהוה pudo estar verdaderamente en la nube sin dejar de llenar los cielos, su manifestación no debe imaginarse automáticamente como otro ser separado. Primero hay que preguntar quién está presente, de qué forma se manifiesta y qué función cumple esa manifestación.
 
+La parte 11 hace explícita esta tensión con la imagen de una casa que no puede contener a quien llena los cielos. Eric pasa de la nube y el fuego a la voz de la _bat qol_ y sostiene que una manifestación localizada no divide a Elohim. 1 Reyes 8:27 afirma que los cielos no pueden contenerlo, mientras Shemot 19:9 presenta la nube como medio para que el pueblo oiga a יהוה. La relación entre presencia y trascendencia está, por tanto, apoyada en dos afirmaciones locales; la explicación de «espacio sin separación» permanece como formulación filosófica atribuida.
+
 ## Ruaj ha-qodesh, neshamah y Shekhinah
 
 La clase ordena tres términos que suelen confundirse:
@@ -133,6 +135,10 @@ La clase ordena tres términos que suelen confundirse:
 3. **Shekhinah**: palabra posbíblica usada para la habitación o el acompañamiento de Elohim con Israel, especialmente mientras el pueblo padece castigo o exilio.
 
 La utilidad de la distinción es pastoral y exegética: no llamar `Shekhinah` a toda manifestación del poder santo, ni convertir `neshamah` en un alma autónoma que entra y sale del cuerpo. Sin embargo, el esquema es una reconstrucción presentada en la clase. El Tanaj sí contiene **ruaj**, **qodesh**, **neshamah** y **nefesh**; `Shekhinah` como término técnico pertenece a literatura posterior. La relación exacta entre las categorías no puede establecerse solo por semejanza temática.
+
+Eric formula además una equivalencia funcional: el Rúaj de santidad es el poder amplio de Elohim, la _neshamah_ nombra ese poder vivificante recibido en una persona y _Shekhinah_ describe, en la recepción judía posterior, el acompañamiento de Israel incluso bajo disciplina o exilio. Las formas no son intercambiables. **רוח**, _ruaj_, puede ser viento, aliento o espíritu; **נשמה**, _neshamah_, aliento o respiración; **שכינה**, _Shekhinah_, procede del campo de «habitar» y no aparece como sustantivo técnico en los versos bíblicos citados. La clase ofrece una taxonomía útil para su enseñanza, pero no una equivalencia gramatical demostrada.
+
+La observación sobre la _neshamah_ vivificante se prueba con cautela en Bereshit 2:7 y 1 Corintios 15:45. El primer texto distingue el aliento de vida y el ser viviente; el segundo contrasta al primer Adam con el postrer Adam como espíritu vivificante. Esa relación permite seguir el movimiento vida recibida–vida comunicada, pero no autoriza a traducir automáticamente **πνεῦμα ζῳοποιοῦν**, _pneuma zōopoioun_, como _neshamah_ ni a afirmar que toda aparición de _ruaj_ designa la misma categoría.
 
 ## Nefesh, circuncisión y vida
 
@@ -195,6 +201,8 @@ Su aporte más útil es la exigencia de no confundir términos cercanos. Nube, f
 | Romanos 10 y el Nombre     | Eric lee la confesión de Yeshúa como Adón en continuidad con el uso de kyrios para יהוה, y no como un título separado del Nombre.     | Romanos 10:9 y Filipiyim 2:11 confiesan a Yeshúa como Adón; la equivalencia concreta con יהוה debe cotejarse en el griego y sus citas del Tanaj. | Núcleo textual; equivalencia delimitada.   |
 | Nube, fuego y presencia    | Eric sostiene que יהוה estuvo verdaderamente presente en la nube, el fuego y la voz sin quedar contenido por una manifestación local. | Shemot 13:21, 14:24 y 19:9 atribuyen la guía, mirada y voz a יהוה; Melajim Alef 8:27 niega que los cielos puedan contenerlo.                     | Directamente verificable.                  |
 | Ruaj, neshamah y Shekhinah | Eric distingue el poder santo, el aliento vivificante recibido en una persona y la categoría posterior de habitación divina.          | Bereshit 2:7 distingue neshamat jaim y nefesh jaiá; Shekhinah no aparece como término técnico en el texto bíblico local.                         | Distinción pedagógica; historia pendiente. |
+
+La contribución específica de la parte 11 es ordenar la presencia en tres niveles sin convertirlos en tres seres: manifestación pública en nube, acción vivificante en la persona y categoría posterior de acompañamiento. La Escritura prueba la nube, el aliento y la vida; la clasificación de Eric y la historia de _Shekhinah_ permanecen delimitadas por las casillas de verificación y no sustituyen los términos del texto.
 
 ## Créditos
 
