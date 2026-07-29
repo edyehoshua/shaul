@@ -220,6 +220,14 @@ El OE de 8:18 dice **וזכרת את יהוה אלהיך כי הוא הנתן ל
 
 La clase también relaciona libertad con andar y adherirse a יהוה. Devarim 11:22 habla de amar, andar en sus caminos y **(דבק)**, _davaq_, «pegarse, adherirse o permanecer unido». «Comunión» es una equivalencia **pedagógica**, no una traducción literal. La observación es válida como aplicación si permanece bajo el orden del texto: la dependencia no cancela la acción, y la obediencia no compra al Dador.
 
+## El pacto guardado por el Dador y respondido por el pueblo
+
+La formulación de Eric sobre «ser tomado por pueblo» necesita conservar el equilibrio de 7:6–11. El OE dice: **כי עם קדוש אתה ליהוה אלהיך בך בחר יהוה אלהיך להיות לו לעם סגלה מכל העמים אשר על פני האדמה**; el TTH expresa que Israel es pueblo santo y que יהוה lo escogió para serle un pueblo especial. **(סגלה)**, _seguláh_, significa propiedad especial, tesoro particular o posesión valiosa; su fuerza contextual es pertenencia reclamada por יהוה, no superioridad innata. «Pueblo escogido» es una equivalencia **aproximada** que resume la elección, pero no debe borrar el motivo explícito: amor y juramento a los padres.
+
+El v. 9 continúa: **וידעת כי יהוה אלהיך הוא האלהים האל הנאמן שמר הברית והחסד לאהביו ולשמרי מצותיו**. **(נאמן)**, _ne'eman_, significa fiel, digno de confianza o firme; aquí califica a יהוה como quien mantiene su palabra. **(שמר)**, _shamar_, significa guardar, custodiar u observar. En «guarda el pacto» el sujeto divino protege la relación jurada; en «los que guardan sus mandamientos» el sujeto humano observa la instrucción. El verbo compartido no hace idénticas ambas acciones: la fidelidad de יהוה es fundamento; la obediencia de Israel es respuesta. La traducción «premia» sería **inexacta** si convierte el pacto en salario, mientras «mantiene la bondad» es **aproximada** y conserva mejor la iniciativa divina.
+
+Esta distinción también evalúa la advertencia contra atribuirse la fuerza. Israel puede ser posesión especial sin poder reclamar autonomía: 7:10–11 une la retribución del que aborrece con el mandato de guardar estatutos, leyes y mandamientos. Eric acierta al denunciar el orgullo, pero el capítulo no reduce la elección a una experiencia interior ni la obediencia a una señal opcional. La secuencia completa es textual: יהוה ama, escoge y guarda; Israel conoce, escucha y guarda. La aplicación de «dependencia agradecida» es **pedagógica**, siempre que deje visibles esos verbos y no los reemplace por una doctrina abstracta de prosperidad.
+
 ## Ver también
 
 - [[bereshit_12_llamado_promesa_y_bendicion|Bereshit 12: llamado, promesa y bendición]]

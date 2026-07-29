@@ -285,6 +285,14 @@ El cierre del capítulo permite volver a la tesis de Eric sin separar promesa y 
 
 La orden final, **(לא תעשה כן)**, _lo taaseh ken_, «no harás así», funciona como límite negativo después de toda la instrucción positiva: lugar elegido, comida, sangre derramada, votos, alegría y cuidado del leví. **(תועבה)**, _toevah_, significa cosa detestable o abominable; en 12:31 su fuerza contextual califica los actos cultuales que las naciones realizan para sus dioses, incluso la entrega de hijos. «Corrupción interior» es una aplicación **aproximada y pedagógica**; el referente inmediato es una práctica religiosa concreta. La lectura de la _menujáh_ queda así probada al final: descansar en la heredad no autoriza inventar el culto, sino recibir límites que protegen la vida y la lealtad.
 
+## El mandato inicial interpreta el descanso
+
+El propio encabezado del capítulo impide separar la _menujáh_ de la práctica: **אלה החקים והמשפטים אשר תשמרון לעשות בארץ**, «estos son los estatutos y los juicios que guardarán para hacer en la tierra» (#devarim_12_1). **(חק)**, _joq_, significa estatuto o disposición establecida; **(משפט)**, _mishpat_, significa juicio, decisión o norma; y **(שמר)**, _shamar_, significa guardar, observar o custodiar. En conjunto, el v. 1 no describe una espiritualidad sin forma: anuncia una instrucción que debe ser conservada y realizada en la tierra recibida. «Procedimientos» es una equivalencia **pedagógica** útil para la distinción de Eric, pero no agota el alcance de _mishpat_.
+
+El v. 28 retoma la misma cadena: **שמר ושמעת את כל הדברים האלה אשר אנכי מצוך למען ייטב לך ולבניך אחריך עד עולם כי תעשה הטוב והישר בעיני יהוה אלהיך**. **(יטב)**, _yatav_, significa ser bueno, ir bien o prosperar; aquí su fuerza contextual es el bienestar de Israel y sus hijos bajo la obediencia pactal, no una garantía de éxito individual desligada del mandamiento. **(טוב)**, _tov_, es bueno o favorable, y **(ישר)**, _yashar_, recto o correcto. «Bienestar» es una equivalencia **aproximada**; «prosperidad automática» es una inferencia **inexacta**. Así, la lectura de Eric queda probada en su propio orden: el reposo recibido no autoriza el criterio privado, sino que produce una vida regulada por escuchar, guardar, hacer, comer con alegría e incluir al leví.
+
+La inclusión del leví muestra que la enseñanza no puede reducirse a una experiencia del individuo. El capítulo repite que el leví no tiene parte ni heredad y, por eso, debe participar de la celebración delante de יהוה. **(עזב)**, _azav_, significa dejar o abandonar; en 12:19 su fuerza es una prohibición comunitaria: no abandonar al servidor sin heredad. «Responsabilidad social» es una síntesis **pedagógica**, no la traducción aislada del verbo. El reposo bíblico se reconoce por esta obediencia visible y compartida, no por una declaración privada de haber llegado a él.
+
 ## Ver también
 
 - [[devarim_11_parashot_2017|Devarim 11: escuchar, obedecer y el lugar del nombre]]
