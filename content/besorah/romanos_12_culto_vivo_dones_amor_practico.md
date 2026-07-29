@@ -266,6 +266,16 @@ En #romanos_12_3-8, **(φρονέω)**, _phroneō_, significa pensar, tener una 
 
 El cierre requiere una salvaguarda igualmente explícita. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en #romanos_12_18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». «Reconciliarse siempre» sería **ilegítimo**. **(νικάω)**, _nikaō_, significa vencer o conquistar; en 12:21 su fuerza es **directa**, pero el modo de vencer queda determinado por el bien activo de 12:20-21, no por manipular, humillar o dejar sin protección a quien sufre. La atribución a `youtube:8z-3MkpomOo` permanece pública y cualificada: se conserva el foco de Eric sin convertir el título en una transcripción.
 
+## Control final: culto, dones y bien activo
+
+La síntesis del capítulo debe conservar la dirección de causa y respuesta. **(λατρεία)**, _latreia_, significa servicio, culto o ministración; en #romanos_12_1 su fuerza contextual es la respuesta completa del cuerpo a las misericordias de Elohim. «Culto» es **directo en el campo normal**, mientras reducirlo a una actividad interior sería **ilegítimo**, porque el verbo de presentar afecta a los cuerpos. **(παρίστημι)**, _paristēmi_, significa presentar, poner a disposición o colocar delante; «ofrecer» es **aproximado y contextual**, no un pago que compre la gracia.
+
+En #romanos_12_3-8, **(σωφρονέω)**, _sōphroneō_, significa pensar con sensatez, tener juicio sobrio o moderarse; su fuerza contextual regula la autoevaluación y protege al cuerpo de convertir un don en rango. «Sobriedad» es una glosa **aproximada** del efecto, y no una prohibición de valorar responsablemente el servicio. **(χαρίζομαι)**, _charizomai_, significa conceder gratuitamente o mostrar favor; no es la forma central del catálogo, pero su uso pedagógico recuerda la relación entre gracia y don. La conexión es **aproximada**, mientras **(χάρισμα)**, _charisma_, sí nombra directamente el don concedido por gracia.
+
+El cierre mantiene el mismo criterio frente al mal. **(ἀνταποδίδωμι)**, _antapodidōmi_, significa devolver, pagar o retribuir; en la cita de #romanos_12_19 pertenece a la retribución reservada a Elohim, no a una autorización de venganza privada. **(ὑπερνικάω)**, _hypernikaō_, significa vencer ampliamente o triunfar por completo; no es la forma de #romanos_12_21, por lo que emplearla como si fuera el verbo de Pablo sería **ilegítimo**. La forma relevante **(νικάω)**, _nikaō_, significa vencer o conquistar y recibe una glosa **directa**; su fuerza contextual queda definida por hacer bien y alimentar al enemigo, no por manipularlo ni por silenciar la protección ante el daño.
+
+Así, el «patrón de la fidelidad» que Eric presenta públicamente tiene **apoyo textual cualificado**: misericordia, cuerpo, mente, dones, amor y bien activo aparecen en el orden del capítulo. La atribución del foco general es pública; las conclusiones sobre cada situación contemporánea son **pedagógicas y cualificadas** por «si es posible» y «en cuanto dependa de vosotros» (#romanos_12_18).
+
 ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]

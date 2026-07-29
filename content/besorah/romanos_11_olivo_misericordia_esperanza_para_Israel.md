@@ -277,9 +277,18 @@ La distinción evita dos excesos en la atribución pública. En `youtube:MHLbize
 
 Por eso la doxología de #romanos_11_33-36 limita la pretensión de dominar el misterio. **(ἀνεξιχνίαστος)**, _anexichniastos_, significa inescrutable o imposible de rastrear por completo; su fuerza contextual no prohíbe el estudio, pero exige marcar como **cualificado** cualquier esquema histórico que exceda las citas y la sintaxis de Pablo. La conclusión **directa** del capítulo es adoración.
 
+## Control final: promesa, advertencia y doxología
+
+La perícopa no permite separar la promesa de la advertencia. **(χρηστότης)**, _chrēstotēs_, significa bondad, benignidad o generosidad; en #romanos_11_22 nombra la bondad de Elohim que debe permanecer junto a su severidad. «Bondad» es una glosa **directa**; convertirla en aprobación automática de cualquier conducta sería **ilegítimo**, porque Pablo la contrapone a la incredulidad y ordena permanecer en ella. **(ἀποτομία)**, _apotomia_, significa severidad, rigor o decisión tajante; su fuerza contextual es la seriedad del juicio sobre la incredulidad, no una licencia para atribuir crueldad a Elohim ni para juzgar a grupos enteros.
+
+En #romanos_11_25-29, **(σπέρμα)**, _sperma_, significa semilla, descendencia o linaje; aunque la forma no gobierna por sí sola la frase sobre los padres, sirve para distinguir una relación histórica de una clasificación moderna. Su uso aquí es **pedagógico y aproximado**, no una glosa de «todo Israel». **(διαθήκη)**, _diathēkē_, significa pacto, disposición testamentaria o acuerdo establecido; en #romanos_11_27 sostiene la cita sobre Jacob junto con el apartamiento de la impiedad. «Pacto» es **directo en el campo normal**, mientras definir su cumplimiento final es **cualificado** por las citas y por el conjunto de Romanos 9–11.
+
+Así se evalúan los dos focos públicos de Eric sin mezclarlos con afirmaciones no demostradas. La advertencia contra la jactancia tiene **apoyo textual directo** en #romanos_11_18; la esperanza de la restauración y de «todo Israel» tiene **apoyo textual cualificado**, porque permanece dentro del misterio, la misericordia, el pacto y la responsabilidad. La doxología de #romanos_11_33-36 funciona como control hermenéutico: estudiar el argumento es legítimo, pero reclamar dominio exhaustivo sobre los caminos de Elohim contradice el cierre del capítulo.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
+- [[romanos_12_culto_vivo_dones_amor_practico|Romanos 12: culto vivo, dones y amor práctico]]
 - [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]
 - [[romanos_15_paciencia_acogida_mision_alabanza|Romanos 15: paciencia, acogida, misión y alabanza]]
 
