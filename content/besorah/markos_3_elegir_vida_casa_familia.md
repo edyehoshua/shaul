@@ -330,8 +330,6 @@ Marcos fija la causa en 3:30: «porque ellos decían: tiene un espíritu impuro�
 
 Este control también evita convertir la casa dividida en una teoría general sobre todo conflicto comunitario. En 3:24-27, reino, casa y hombre fuerte responden a la acusación específica de que Yehoshua expulsa por Beelzeboul. La metáfora sostiene unidad y confrontación del dominio, pero no concede a los discípulos un método para etiquetar opositores ni una autoridad autónoma sobre personas.
 
-## Ver también
-
 ## Control de dependencia: una autoridad que restaura y reúne
 
 La lectura de Eric queda mejor delimitada cuando cada afirmación depende de la escena que la sostiene. En 3:1-6, **(ἀποκαθίστημι)**, _apokathistēmi_, «restaurar o devolver a una condición», recibe como objeto la mano seca; por eso «escoger la vida» describe aquí la acción visible de hacer el bien dentro de la controversia, no una licencia para ignorar el Shabbat. La conexión con **(ובחרת בחיים)**, _uvajarta bajayim_, «escogerás o escoge la vida», sigue siendo un eco temático de Devarim 30:19, mientras que el griego de Marcos gobierna la prueba.
