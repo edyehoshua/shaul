@@ -202,6 +202,14 @@ La misma perícopa conserva la forma humana **(ἐπικαλέω)**, _epikaleō_
 
 Este cotejo repara el límite de atribución de la fuente: el título público y la exposición disponible permiten conservar la pregunta de Eric sobre quiénes son «los que invocan», no presentar su propuesta sintáctica como consenso filológico. El argumento canónico queda en tres grados: es **textual** que quien invoca el nombre del Señor será salvo; es **cualificado** que Joel aporta el marco del llamado divino y del remanente; y es **pedagógico e inferencial** afirmar que una sola lectura hebrea resuelve toda la relación entre llamamiento y respuesta. La nota mantiene así la observación del expositor, la forma fuente y la responsabilidad del anuncio sin fabricar una cita literal.
 
+## Control final de la cadena: palabra, escucha e invocación
+
+La observación atribuida a Eric en `youtube:ililQLS9UJE` sobre quiénes son «los que invocan» queda mejor equilibrada cuando se conserva la cadena completa de Romanos 10. El capítulo afirma que no hay diferencia entre judío y griego, promete salvación al que invoca el nombre del Señor y enseguida pregunta cómo invocará quien no ha creído, cómo creerá quien no ha oído y cómo oirá sin un anunciador. Por eso el énfasis en el llamamiento divino recibe **apoyo cualificado**, pero no permite eliminar el anuncio, la escucha, la confesión o la responsabilidad que el propio capítulo conserva.
+
+En #romanos_10_14-17, **(κηρύσσω)**, _kēryssō_, significa proclamar o anunciar públicamente; su fuerza contextual es la misión que hace audible el mensaje, no una experiencia interior desconectada de mensajeros. «Anunciar» es una glosa **directa**. **(ἀκούω)**, _akouō_, significa oír, escuchar o atender; en la cadena de preguntas funciona como condición narrativa para la fe, mientras en 10:18 la voz extendida por la tierra muestra que la audición no garantiza una respuesta obediente. La relación entre ambas formas es **textual** en la secuencia y **cualificada** en cualquier conclusión soteriológica que vaya más allá del pasaje.
+
+En #romanos_10_16 y #romanos_10_21, **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder, y **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir. Las glosas son **directas** en su campo ordinario; su fuerza contextual impide presentar la iniciativa divina como si volviera irrelevante la respuesta humana. La comparación entre **קרא**, _qara_, «llamar, proclamar o invocar», y **(ἐπικαλέω)**, _epikaleō_, «invocar o apelar», sigue siendo **aproximada y pedagógica**, no una equivalencia morfológica. Así se preserva la enseñanza pública sin convertir una propuesta de sintaxis hebrea en certeza absoluta.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]

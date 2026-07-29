@@ -235,6 +235,14 @@ En #romanos_2_25, **(ὠφελέω)**, _ōpheleō_, significa ayudar, beneficiar
 
 La síntesis canónica mantiene el orden: la bondad conduce a la **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento; la **(προσωπολημψία)**, _prosōpolēmpsia_, «acepción de personas o favoritismo», no altera el juicio; la **(συνείδησις)**, _syneidēsis_, «conciencia», testifica dentro del proceso; y la señal debe acompañar una vida que honra a Elohim. «Teshuvá» y **(לב)**, _lev_, «corazón», son correspondencias **pedagógicas y aproximadas** con las formas griegas, no sustitutos de ellas. Así, el capítulo corrige la jactancia sin convertir la autocrítica de Pablo en desprecio contra Israel.
 
+## Control final de la pregunta pública: nombre, obra y corazón
+
+La pregunta pública de `youtube:6D7Yj0bDSfU` —«¿qué es ser judío? ¿qué es ser creyente?»— debe permanecer como foco verificable, no como una transcripción reconstruida. Romanos 2 responde en orden: reconoce que el interlocutor posee conocimiento de la Torah, denuncia la incoherencia de enseñar y transgredir, y finalmente distingue entre una señal visible y una alabanza que procede de Elohim. La nota atribuye a Eric únicamente el alcance público del título; la evaluación de sus implicaciones procede del texto local.
+
+En #romanos_2_17-24, **(ἐπονομάζῃ)**, _eponomazē_, significa llevar un nombre, ser llamado o recibir una designación; su fuerza contextual es la identidad confesada de quien se llama judío. «Llevar el nombre» es una glosa **aproximada y pedagógica**, porque el verbo participa en la acusación retórica y no define por sí solo toda identidad pactual. **(κατακλέπτω)**, _katakleptō_, significa robar o hurtar; su mención concreta muestra que la denuncia de Pablo examina obras, no solo etiquetas. La glosa es **directa**, pero no autoriza a convertir la reprensión dirigida al interlocutor en una acusación indiscriminada contra Israel.
+
+En #romanos_2_25-29, **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; su fuerza contextual culmina en que la alabanza verdadera procede de Elohim y no de los seres humanos. «Alabanza» es una glosa **directa**, mientras afirmar que el corazón reemplaza toda forma visible de obediencia sería **inferencial** y contrario a la condición que Pablo acaba de expresar: la señal es provechosa si se practica la Torah. La pregunta de la fuente recibe así apoyo **textual cualificado**: ser judío o creyente no se reduce a nombre, apariencia o mera audición, pero tampoco se redefine por una fórmula desligada de la historia y del argumento de Pablo.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
