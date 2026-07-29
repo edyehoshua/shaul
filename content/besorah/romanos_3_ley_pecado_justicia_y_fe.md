@@ -215,6 +215,16 @@ El cierre vuelve explícita la respuesta a la pregunta de la clase. **(καύχ�
 
 Así, el foco atribuible a Eric recibe **apoyo textual cualificado**. Estar bajo el testimonio de la Torah no concede una plataforma para gloriarse; recibir justicia gratuitamente tampoco concede permiso para llamarla inútil. La construcción **(πίστις)**, _pistis_, puede expresar fe, confianza o fidelidad, y su relación con **אמונה**, _emunah_, es **aproximada y pedagógica**, no una identidad automática. La lectura canónica mantiene juntas acusación universal, don inmerecido, justicia en Yehoshua y una obediencia que responde sin convertir sus obras en crédito ante Elohim.
 
+## Reparación desarrollada: «dentro de la ley» bajo el juicio universal
+
+La fuente pública `youtube:u0NtR-y-T2Y` solo permite atribuir con exactitud el título «A los que están dentro de la ley» y el alcance visible «Rom 3:17ss»; como no hay transcripción local recuperable, no se reconstruye una explicación verbal de Eric. Ese límite no vuelve estéril el estudio: Romanos 3:17-31 puede probar el foco en orden y mostrar que «dentro» no significa una plataforma de superioridad, sino un ámbito cuyo testimonio deja a toda boca sin defensa. La atribución al hermano Eric de Jesús Rodríguez Mendoza permanece, por tanto, en el título, la URL pública y la pregunta que introduce.
+
+En 3:19, **(λαλέω)**, _laleō_, significa hablar, declarar o decir; su fuerza contextual es la voz judicial de la Torah dirigida a quienes están bajo su ámbito. **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o culpable; «culpable» es una glosa **directa** en el campo forense, y el versículo extiende el resultado a todo el mundo. **(στόμα)**, _stoma_, significa boca; «toda boca quede cerrada» es una imagen **aproximada y pedagógica** de la jactancia y la defensa silenciadas, no una afirmación sobre una incapacidad física.
+
+El argumento no termina en acusación. **(φανερόω)**, _phaneroō_, significa manifestar, hacer visible o revelar; en 3:21 introduce la justicia de Elohim que ahora se hace manifiesta. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o reconocer como justo; en 3:24-26 describe la acción gratuita de Elohim mediante la redención. Las glosas son **directas**, mientras el alcance pactual de **(δικαιοσύνη)**, _dikaiosynē_, «justicia o rectitud», es **contextual** y no debe definirse solo por una traducción española.
+
+El cierre responde a la posible objeción del título. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular; **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. En 3:31 Pablo niega enfáticamente que la emunah anule la Torah y afirma que la establece. La conclusión de Eric recibe **apoyo textual cualificado**: quienes están dentro del testimonio de la Torah no tienen motivo para gloriarse, y la justicia gratuita no autoriza a despreciar la instrucción. Aun así, decidir cómo se aplica cada mandamiento requiere seguir el argumento posterior de Romanos; sería **inferencial** resolverlo todo desde estos dos verbos.
+
 ## Ver también
 
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]]
