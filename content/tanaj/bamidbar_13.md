@@ -242,6 +242,14 @@ El verbo **(שלח)**, _shalaj_, significa enviar, despachar o dejar ir. En la c
 
 La responsabilidad se ve también en el verbo **(ספר)**, _safar_, contar, enumerar o relatar. En **(ויספרו לו)**, _vayesapperu lo_, los exploradores cuentan a Mosheh y a la asamblea lo que vieron; su fuerza contextual es un informe público antes de que el pueblo lo convierta en murmuración. Eric preserva correctamente la diferencia entre evidencia y veredicto. El texto no exige ocultar ciudades fortificadas ni pueblos fuertes; exige escuchar esos datos dentro de la promesa, del fruto traído y de la presencia de יהוה. Así la fe de Caleb no es negación de la investigación, sino una evaluación obediente del informe.
 
+## La autoridad del envío y la responsabilidad del informe
+
+Antes de que aparezcan el fruto y el miedo, el capítulo identifica a los enviados como jefes de sus tribus. El OE dice que Mosheh los envió desde el desierto de Paran «por boca de יהוה» y enumera un representante por cada tribu (#bamidbar_13_1-16); el TTH conserva esa representación. **(נשיא)**, _nasi_, significa jefe, príncipe o dirigente; aquí su fuerza contextual es la autoridad representativa de quien informa a toda la comunidad. «Especialista militar» es una equivalencia **pedagógica** no exigida por la forma. Eric puede aplicar el pasaje a quienes reciben responsabilidad comunitaria, pero el texto primero sitúa el informe bajo una comisión pública.
+
+El verbo **(שלח)**, _shalaj_, significa enviar, despachar o dejar ir. En la construcción **(וישלח אותם משה)**, _vayishlaj otam Mosheh_, su forma narrativa presenta una acción concreta de Mosheh, mientras la frase anterior atribuye la iniciativa a יהוה. «Delegar» es una equivalencia **aproximada**: comunica la misión, pero no reemplaza la relación entre autoridad, representantes y comunidad. La observación de Eric sobre que el recorrido no era una votación queda mejor formulada así: los hombres debían traer un reporte responsable acerca de una tierra que יהוה ya declara estar dando, no pronunciar sentencia sobre la fidelidad divina.
+
+La responsabilidad se ve también en el verbo **(ספר)**, _safar_, contar, enumerar o relatar. En **(ויספרו לו)**, _vayesapperu lo_, los exploradores cuentan a Mosheh y a la asamblea lo que vieron; su fuerza contextual es un informe público antes de que el pueblo lo convierta en murmuración. Eric preserva correctamente la diferencia entre evidencia y veredicto. El texto no exige ocultar ciudades fortificadas ni pueblos fuertes; exige escuchar esos datos dentro de la promesa, del fruto traído y de la presencia de יהוה. Así la fe de Caleb no es negación de la investigación, sino una evaluación obediente del informe.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
