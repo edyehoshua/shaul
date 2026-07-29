@@ -250,6 +250,14 @@ El cierre requiere una salvaguarda pastoral. **(εἰρηνεύω)**, _eirēneu�
 
 Así, la enseñanza pública queda conservada y evaluada: la misericordia no se compra mediante servicio, los dones no fundan superioridad y el bien no es una técnica de manipulación. El patrón de fidelidad que el capítulo permite afirmar es corporal, comunitario y sobrio; sus extensiones pastorales son **cualificadas** cuando exceden las acciones concretas enumeradas por Pablo.
 
+## Control de términos para una fidelidad verificable
+
+La secuencia de Romanos 12 exige distinguir transformación, examen y servicio. **(ἀνακαινόω)**, _anakainoō_, significa renovar o hacer nuevo; en #romanos_12_2 describe la renovación de la mente que permite examinar la voluntad de Elohim. «Renovar» es una glosa **directa del campo semántico**, mientras convertirlo en perfección instantánea es una inferencia **ilegítima**. **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar después de evaluar; «discernir» es **aproximado y pedagógico** como resultado contextual, no una licencia para reclamar revelación privada sin examen.
+
+En #romanos_12_3-8, **(φρονέω)**, _phroneō_, significa pensar, tener una disposición o juzgar; su fuerza contextual regula la autoevaluación y no prohíbe toda valoración responsable. **(χάρισμα)**, _charisma_, significa don concedido por gracia; «don» es **directo**, pero convertirlo en rango espiritual sería **ilegítimo**, porque Pablo lo ordena dentro de un cuerpo con miembros interdependientes. La observación atribuida a Eric sobre un patrón de fidelidad recibe así **apoyo textual cualificado**: el título público fija el foco general, mientras la arquitectura concreta proviene del recorrido canónico.
+
+El cierre requiere una salvaguarda igualmente explícita. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en #romanos_12_18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». «Reconciliarse siempre» sería **ilegítimo**. **(νικάω)**, _nikaō_, significa vencer o conquistar; en 12:21 su fuerza es **directa**, pero el modo de vencer queda determinado por el bien activo de 12:20-21, no por manipular, humillar o dejar sin protección a quien sufre. La atribución a `youtube:8z-3MkpomOo` permanece pública y cualificada: se conserva el foco de Eric sin convertir el título en una transcripción.
+
 ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]
