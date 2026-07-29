@@ -195,6 +195,14 @@ Finalmente, 16:20 usa **(ἐκήρυξαν)**, _ekēryxan_, «proclamaron», jun
 
 ## Pendiente de verificar
 
+## Control final: el marco calendárico queda subordinado al testimonio
+
+La pregunta planteada públicamente por Eric sobre llamar al domingo «el día del Señor» debe mantenerse en el lugar exacto que ocupa en Marcos 16. **διαγενομένου τοῦ σαββάτου**, _diagenomenou tou sabbatou_, «habiendo pasado el Shabat», y **μιᾷ τῶν σαββάτων**, _mia tōn sabbatōn_, «el primero de los Shabat», describen cuándo las mujeres llegan al sepulcro. No son un mandato en modo imperativo ni una fórmula que dé nombre litúrgico al día. La comparación con **(שבת)**, _shabbat_, «reposo o cesación», es útil para explicar el marco, pero no convierte el griego en una retroversión hebrea.
+
+El peso narrativo pasa inmediatamente a la evidencia y a la palabra recibida. **ἀποκεκύλισται**, _apokekylistai_, «ha sido rodada fuera», presenta la piedra ya retirada; **ἴδετε**, _idete_, «miren», pide comprobar el lugar; y **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta la ausencia del cuerpo. Después **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», y **προάγει**, _proagei_, «va delante», orientan a los discípulos hacia Galil. El primer día, por tanto, enmarca una visita que sirve al anuncio de la resurrección; no es presentado como la fuente de autoridad del anuncio.
+
+La misma subordinación se ve en el cierre largo. La comisión **κηρύξατε**, _kēryxate_, «proclamen públicamente», y la salida efectiva **ἐκήρυξαν**, _ekēryxan_, «proclamaron», llevan la noticia a toda la creación. **συνεργοῦντος**, _synergountos_, «obrando juntamente», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», atribuyen a יהוה el acompañamiento y la confirmación de la palabra. La lectura de Eric queda conservada con precisión: este capítulo no usa «día del Señor» para el primer día, pero tampoco permite reemplazar resurrección, comisión y testimonio por una disputa de calendario.
+
 - [ ] Recuperar una transcripción o fuente pública equivalente para documentar el argumento completo de Eric sobre domingo y «día del Señor».
 - [ ] Cotejar la historia textual de Marcos 16:9-20 en una edición crítica, sin alterar el contenido del corpus local.
 - [ ] Comparar todos los pasajes del Nuevo Testamento que usan «día del Señor» antes de formular una conclusión canónica amplia.
