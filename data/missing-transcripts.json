@@ -455,6 +455,14 @@
       "url": "https://www.youtube.com/watch?v=xpihVrZGGI4",
       "reason": "La exposición es elegible, pero no existe una transcripción local en este worktree; se pospone sin fabricar el estudio hasta disponer del texto fuente.",
       "status": "missing_local_transcript"
-    }
+      },
+      {
+      "video_id": "7HdoY1mD98",
+      "playlist_title": "Haftarah de Ajarey-mot pendiente sin asignar",
+      "title": "Haftarah de Ajarey-mot",
+      "url": "https://www.youtube.com/watch?v=7HdoY1mD98",
+      "reason": "No existe una transcripción local recuperable. Además, el ID publicado en la lane tiene 10 caracteres y yt-dlp lo rechaza como ID de YouTube truncado; se requiere corregir la referencia antes de intentar recuperar el material.",
+      "status": "invalid_source_id_missing_transcript"
+      }
   ]
 }
