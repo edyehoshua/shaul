@@ -151,6 +151,14 @@ La clase también conecta Jeremías 31:31-34 con Hebreos 8:8-12 y observa que la
 
 Galatim 1 no invita a Shaul ni a sus lectores a defender una identidad por presión social. Primero anuncia gracia y la entrega del Mesías; después confronta un anuncio que altera esa gracia; por último, narra que quien antes perseguía fue llamado para anunciar al Hijo entre las naciones. La clase de Eric aporta preguntas útiles sobre geografía, tradición y reverencia al Mesías. La lectura responsable conserva esas preguntas, pero deja que el orden y los límites del texto gobiernen la conclusión.
 
+## Reparación: del saludo al evangelio no negociable
+
+La perícopa inicial debe leerse sin saltar directamente de la controversia sobre la circuncisión a la biografía de Shaul. En #galatians_1_1-5, el saludo fija el origen del envío, la gracia y la paz; el Mesías se entrega por los pecados para librar del presente siglo malo conforme a la voluntad de Elohim. Solo después, en #galatians_1_6-9, aparece el asombro de que las comunidades se aparten hacia otro anuncio. Esta progresión respalda la insistencia atribuida a Eric en que una práctica no puede convertirse en puerta de entrada a la promesa: el texto primero presenta la gracia recibida y luego juzga el mensaje que la altera.
+
+**(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; en #galatians_1_6 su fuerza contextual señala a Elohim como quien llama en la gracia del Mesías. «Llamar» es una glosa **directa**, mientras afirmar que toda formulación posterior de la clase queda automáticamente validada por ese llamado sería **inferencial**. **(μετατίθημι)**, _metatithēmi_, significa trasladar, cambiar de posición o transferir; aquí describe el apartarse de la fuente del llamado hacia otro evangelio. «Apartarse» es **aproximado y contextual**, porque el verbo expresa un cambio de lealtad y no cualquier diferencia secundaria.
+
+En #galatians_1_8-9, **(ἀνάθεμα)**, _anathema_, significa cosa puesta aparte, maldición o persona entregada a una prohibición; su fuerza es la exclusión solemne del anuncio que contradice el evangelio recibido. «Anatema» es **directo** como término heredado, pero usarlo para maldecir personas contemporáneas sin examinar su mensaje sería una aplicación **ilegítima**. Así, la observación de Eric sobre no agradar a seres humanos recibe apoyo textual, mientras la propia carta conserva el control: la independencia frente a la presión social no es autoridad sin examen, sino fidelidad al evangelio de gracia anunciado por Shaul.
+
 ## Ver también
 
 - [[galatim_2_gracia_unidad_y_verdad_del_evangelio|Galatim 2: gracia, unidad y verdad del evangelio]]
