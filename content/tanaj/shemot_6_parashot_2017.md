@@ -12,6 +12,7 @@ sources:
   - "https://www.youtube.com/watch?v=YFejem1jPTk"
   - "docs/scriptures/oe/json/exodus/6.json"
   - "docs/scriptures/tth/json/shemot.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:jmaOISSHuOs"
   - "youtube:YFejem1jPTk"
@@ -132,6 +133,16 @@ El desarrollo de 6:6–9 también corrige una lectura demasiado lineal de la red
 La frase **ולא שמעו אל משה מקצר רוח ומעבדה קשה**, _velo shamu el Mosheh miqotsar ruaj umeavodah qashah_, conserva dos causas narrativas de esa escucha bloqueada: «cortedad de espíritu» y «trabajo duro». **קצר**, _qatsar_, normalmente significa ser corto, recoger o segar; aquí, junto con _ruaj_, describe un ánimo estrechado. **קשה**, _qashah_, significa duro, severo o difícil; su fuerza contextual califica la servidumbre, no el carácter moral de cada israelita. «Desesperación» es una equivalencia aproximada, útil para explicar el efecto, pero más estrecha que la expresión hebrea.
 
 Por eso la promesa debe evaluarse en dos direcciones. En 6:8, «los introduciré en la tierra» y «se la daré» orientan hacia la herencia jurada; en 6:9, la aflicción impide recibir el anuncio. Eric conserva bien la fidelidad de יהוה cuando relaciona ayer y hoy, siempre que la aplicación no culpe al sufriente por no reaccionar con entusiasmo. El texto sostiene simultáneamente la eficacia de la palabra divina y la realidad de un pueblo herido. Esa tensión prepara 6:10–13: Moshéh vuelve a ser enviado, aunque él mismo diga **הן בני ישראל לא שמעו אלי**, «he aquí, los hijos de Israel no me han escuchado».
+
+## Reparación: redención prometida, recepción herida y salida obediente
+
+La fuente propia de esta lane, `youtube:YFejem1jPTk`, concentra la exposición en _Qasheh_, _Jazaq_ y _Kaved_. El plan de redención «de ayer y de hoy» queda mencionado como tema de la nota ya existente, no como una atribución nueva a una fuente fuera de este grupo. La referencia visible es pública y no presenta una cita literal del audio. OE dice en Shemot 6:6 **והוצאתי אתכם מתחת סבלת מצרים והצלתי אתכם מעבדתם וגאלתי אתכם בזרוע נטויה ובשפטים גדלים**, y TTH conserva: «los sacaré de debajo de las cargas de Egipto, y los salvaré de su trabajo, y los redimiré con brazo extendido y con juicios grandes». La repetición de la primera persona hace textual la iniciativa de יהוה; «plan» es una equivalencia pedagógica, no el nombre de una forma hebrea.
+
+La promesa debe leerse junto con su recepción. En 6:9 el OE dice **ולא שמעו אל משה מקצר רוח ומעבדה קשה**, «y no escucharon a Moshéh por cortedad de espíritu y por trabajo duro» (TTH). **(קצר)**, _qatsar_, significa ser corto, recoger o segar; unido a **(רוח)**, _ruaj_, «aliento, espíritu o viento», su fuerza contextual es ánimo estrechado por la opresión. **(קשה)**, _qashah_, significa duro, severo o difícil; aquí califica la servidumbre, no una condena automática del carácter de Israel. La observación de Eric sobre la dureza queda apoyada, pero reprender al afligido por no responder con entusiasmo sería una equivalencia teológica inexacta.
+
+La lectura canónica de Delitzsch conserva el arco de promesa y salida sin reemplazar el contexto de Shemot. En Ivrim 11:8 leemos **בָּאֱמוּנָה שָׁמַע אַבְרָהָם כַּאֲשֶׁר נִקְרָא לָלֶכֶת אֶל־הָאָרֶץ אֲשֶׁר יִירָשֶׁנָּה וַיֵּצֵא וְלׂא־יָדַע אָנָא יָבוֹא**, «por fe Abraham escuchó cuando fue llamado a ir a la tierra que recibiría por herencia; y salió sin saber adónde iba». **(שמע)**, _shama_, significa oír, escuchar u obedecer; en Ivrim la escucha desemboca en salida, mientras en Shemot 6:9 la esclavitud dificulta escuchar. La relación es **canónica y aproximada**: Delitzsch relee el patrón, pero no convierte _shama_ en «fe» ni elimina la herida de Israel.
+
+Así se preserva la observación de Eric y se corrige su posible exceso. La cadena **והוצאתי**, _vehotséti_, «sacaré», **והצלתי**, _vehitsalti_, «salvaré», **וגאלתי**, _vegaalti_, «redimiré», **ולקחתי**, _velaqajti_, «tomaré», y **והבאתי**, _vehevéti_, «traeré», muestra una obra de יהוה orientada a pertenencia y herencia. Cada forma recibe su sentido normal y su fuerza local; ninguna autoriza afirmar que la promesa ya anuló el sufrimiento, la objeción de Moshéh o la necesidad de obedecer la palabra recibida.
 
 ## Créditos
 

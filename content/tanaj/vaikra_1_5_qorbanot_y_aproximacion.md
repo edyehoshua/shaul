@@ -17,6 +17,8 @@ sources:
   - "https://www.youtube.com/watch?v=JMdxbQtZ9wc"
   - "https://www.youtube.com/watch?v=h5LhqPYCi4E"
   - "docs/scriptures/tth/json/vaikra.json"
+  - "docs/scriptures/oe/json/leviticus/1.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:JMdxbQtZ9wc"
   - "youtube:h5LhqPYCi4E"
@@ -84,6 +86,16 @@ Eric también distingue entre **חטאת**, _jatat_, para transgresiones inadver
 La observación de Eric sobre el testigo que calla sí encuentra un anclaje preciso en 5:1: **ולא יגיד ונשא עונו**, _velo yagid venasa avono_, «y no lo declara, llevará su iniquidad». **יגיד**, _yagid_, es una forma de נגד, «declarar, informar o hacer saber»; aquí el silencio ante un testimonio exigido hace responsable al testigo. **ונשא**, _venasa_, procede de נשא, «llevar, cargar o soportar»; su fuerza contextual es quedar bajo la responsabilidad de la falta, no simplemente experimentar vergüenza. Por eso la exposición acierta al insistir en que ocultar lo que se sabe participa de la culpa, aunque la palabra «iniquidad» sea una equivalencia interpretativa de la consecuencia descrita.
 
 Finalmente, el paralelo con Yehoshúa debe mantenerse como recepción canónica y no como sustitución de la escena levítica. El texto de Vaikra limita el acercamiento mediante mandamientos concretos; la clase puede leer esos patrones hacia el Mesías, pero no puede usar la categoría «cuerpo perfecto» para eliminar el daño al prójimo, la confesión **והתודה**, _vehitvadah_, o la devolución **והשיב**, _veheshiv_. La mejor síntesis de la observación de Eric es, por tanto, «Dios provee el medio material y ordenado del acercamiento»; «cualquier sacrificio hace innecesaria la obediencia» no es equivalente al argumento de Vaikra 1–5.
+
+## Reparación: el qorban acerca, pero no sustituye la restitución
+
+Los dos source IDs pertenecen a la misma enseñanza pública, pero sus títulos marcan dos aportes: `youtube:JMdxbQtZ9wc` anuncia «Yehoshúa' y los Qorbanot Parte 2» y `youtube:h5LhqPYCi4E` presenta la Parte 1. La nota conserva ese eje mesiánico como observación de Eric, no como cita del audio. OE abre Vaikra 1:2 con **אדם כי יקריב מכם קרבן ליהוה**, y TTH: «cuando alguno de ustedes traiga una ofrenda a יהוה». **(קרב)**, _qarav_, significa acercarse o aproximarse; en **יקריב**, _yaqriv_, su fuerza es presentar el don conforme a la orden del altar. «Activar la presencia» sería una equivalencia pedagógica, no el sentido exacto.
+
+La secuencia de 1:4 también limita la aplicación. OE dice **וסמך ידו על ראש העלה ונרצה לו לכפר עליו**, y TTH: «apoyará su mano sobre la cabeza de la ofrenda quemada, y será aceptada para él, para expiar por él». **(סמך)**, _samakh_, significa apoyar o colocar; aquí nombra el gesto ritual y no demuestra por sí solo una transferencia mecánica de toda culpa. **(רצה)**, _ratsah_, significa agradar o ser aceptado; **ונרצה**, _venirtsah_, describe aceptación cultual dentro del procedimiento. **(כפר)**, _kafar_, puede significar cubrir y, en la fórmula ritual, hacer expiación; «borrar automáticamente toda consecuencia» es una equivalencia teológica inexacta.
+
+Delitzsch expresa la recepción mesiánica en Ivrim 10:5: **וְעַל־כֵּן אׂמֵר בְּבוֹאוֹ לָעוֹלָם זֶבַח וּמִנְחָה לׂא חָפַצְתָּ גְּוִיָּה כּוֹנַנְתָּ לִּי**, «por eso dice al entrar en el mundo: sacrificio y ofrenda no quisiste, pero me preparaste cuerpo». En 10:10 añade **וּבָרָצוֹן הַזֶּה מְקֻדָּשִׁים אֲנַחְנוּ עַל־יְדֵי הַקְרָבַת קָרְבַּן גּוּפוֹ שֶׁל־יֵשׁוּעַ הַמָּשִׁיחַ בְּפַעַם אֶחָת**, «por esa voluntad somos santificados mediante la presentación del cuerpo de Yehoshúa el Mesías una vez». **(גוף)**, _guf_, significa cuerpo; allí su fuerza pertenece a la argumentación de Ivrim, no convierte _qorban_ en «cuerpo» como sentido léxico en cada verso de Vaikra. La relación es **canónica y aproximada**.
+
+El control final viene de Vaikra 5. **והשיב**, _veheshiv_, procede de שוב, _shuv_, «volver o devolver»; su fuerza contextual es restituir lo tomado y añadir la quinta parte. **(אשם)**, _asham_, significa culpa, ofensa o ofrenda por culpa; «castigo» es demasiado estrecho. Por eso la lectura de Eric puede afirmar que Yehoshúa recibe y reinterpreta el patrón de acercamiento, pero no que el sacrificio vuelva innecesarias la confesión, la reparación o la obediencia. El texto de Vaikra y la recepción de Delitzsch convergen solo después de conservar sus destinatarios, vocabularios y contextos.
 
 ## Confesión, compensación y acceso diferenciado: Vaikra 5:1–26
 
