@@ -115,6 +115,12 @@ Finalmente, así como está establecido que los seres humanos mueran una vez y d
 - [ ] Comparar Hebreos 9:15-17 con los usos de **(διαθήκη)** en la Septuaginta y en el resto de la carta.
 - [ ] Precisar qué afirmaciones escatológicas de la clase exceden la segunda aparición que Hebreos 9:28 afirma explícitamente.
 
+## Lectura corrida y prueba de la enseñanza
+
+La exposición de Eric en `youtube:RX3-_bvubqo` puede comprobarse siguiendo cuatro movimientos del capítulo. En 9:1-10, el santuario terrenal, la cortina y la entrada anual del sumo sacerdote muestran un acceso real pero restringido; **πρώτη**, _prōtē_, significa «primera» y, en esta secuencia, identifica el orden anterior sin llamarlo carente de valor. En 9:11-15, el Mesías entra por el tabernáculo mayor con su propia sangre y purifica la conciencia para servir; **λύτρωσις**, _lytrōsis_, significa «redención o rescate», relación directa con la liberación eterna del pasaje, mientras la aplicación de Eric a _tikun_ es pedagógica y aproximada.
+
+En 9:16-22, la muerte y la sangre explican la inauguración del pacto: **διαθήκη**, _diathēkē_, puede significar «pacto» o «disposición testamentaria», y aquí la relación entre ambos sentidos depende del argumento, no de una equivalencia automática. En 9:23-28, el Mesías comparece ante Elohim una vez y aparecerá nuevamente para salvación; **ἅπαξ**, _hapax_, significa «una vez» y expresa de manera exacta la singularidad de la ofrenda. Así, la observación de Eric sobre una purificación que produce servicio recibe apoyo textual en 9:14, pero la cronología escatológica y el mapa del santuario deben permanecer como inferencias calificadas.
+
 ## Conclusión
 
 Hebreos 9 no presenta una religión sin santidad, sino una progresión desde el santuario y las ordenanzas del primer orden hasta la entrada única del Mesías y la purificación de la conciencia. Eric ayuda a conservar la diferencia entre pacto sacerdotal temporal y mediación superior, y llama a revisar traducciones como «terrenal» o «perpetuo». El texto gobierna la evaluación: Yehoshua ofrece una sola vez, limpia para el servicio y volverá para la salvación de quienes lo esperan.

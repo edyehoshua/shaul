@@ -89,6 +89,12 @@ Leído de corrido, 7:20-28 encadena cuatro afirmaciones: el Mesías fue constitu
 | **ἀπαράβατος**     | _aparabatos_    | permanente, intransferible          | En 7:24 explica un sacerdocio que no pasa a otro; “sin transgresión” es una glosa pedagógica posible. |
 | **ἐφάπαξ**         | _ephapax_       | una vez, de una vez para siempre    | En 7:27 marca la ofrenda única del Hijo frente a la repetición sacerdotal.                            |
 
+## Lectura corrida y prueba de la enseñanza
+
+La clase de Eric en `youtube:0RbDcydhCFE` sigue un argumento que no debe invertirse. En 7:1-10, Melquisedec bendice a Abraham y recibe el diezmo; **εὐλογέω**, _eulogeō_, significa «bendecir», y su fuerza contextual sostiene la regla de que el menor recibe bendición del mayor. La afirmación de que Leví participa figurativamente en Abraham es la inferencia que la carta construye en 7:9-10, no una genealogía adicional. En 7:11-19, **τελείωσις**, _teleiōsis_, significa «perfección o llegada a la meta»: el capítulo la vincula al sacerdocio que permite acercarse, mientras la conciencia limpia se desarrolla explícitamente en 9–10.
+
+En 7:20-25, el juramento de יהוה y la vida permanente del Hijo explican por qué su sacerdocio no pasa a otro. **ἀπαράβατος**, _aparabatos_, significa «permanente o intransferible»; la relación con la intercesión es exacta, aunque «sin posibilidad de transgredir» permanece como glosa pedagógica de Eric. Finalmente, 7:26-28 contrapone sacerdotes que ofrecen repetidamente por sus propios pecados con el Hijo, que se ofreció una vez; **ἐφάπαξ**, _ephapax_, significa «una vez, de una vez para siempre». La secuencia confirma permanencia, intercesión y ofrenda única sin convertir las extensiones sobre el ámbito celestial en frases literales del capítulo.
+
 ## Conclusión
 
 Hebreos 7 lleva al lector desde el nombre y la bendición de Melquisedec hasta el juramento que establece al Hijo. Eric aporta una lectura unificada: la perfección es la meta de una conciencia purificada, y el nuevo sacerdocio no depende de genealogía mortal, sino de una vida indestructible. El texto confirma la superioridad, la permanencia, la intercesión y la ofrenda única; las extensiones sobre el sacerdocio celestial y el futuro deben conservarse como interpretación atribuida, no como si fueran cada una una frase del capítulo.
