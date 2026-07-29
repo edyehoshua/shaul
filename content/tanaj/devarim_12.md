@@ -309,6 +309,16 @@ La prohibición de abandonar al leví (12:19) hace visible la evaluación de Eri
 - [[devarim_16_parashot_2017|Devarim 16: justicia, fiestas y jueces para el pueblo]]
 - [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y Shavuot]]
 
+## Verificación textual adicional: la centralización no cancela la mesa común
+
+La primera mitad del capítulo debe leerse antes de aplicar la palabra _menujáh_ a una experiencia interior. En 12:2–7 Israel recibe la orden de derribar altares, romper estelas y quemar imágenes; después debe buscar el lugar que יהוה escogerá. **(אבד)**, _avad_, significa perder, destruir o hacer perecer; en **אבד תאבדון** la repetición intensifica la destrucción de los lugares cultuales rivales. «Limpiar la mente» es una equivalencia pedagógica, no el sentido exacto del verbo. Eric acierta al presentar el descanso como una salida de la competencia entre cultos, pero el texto comienza con una acción pública contra santuarios concretos.
+
+La orden positiva usa **(דרש)**, _darash_, «buscar, consultar o investigar». En **לשכנו תדרשו**, la búsqueda del lugar no significa que cada israelita invente dónde está la presencia, sino que el pueblo debe acudir al sitio que יהוה elija. «Buscar a Dios en cualquier lugar» sería una aplicación posible en otros contextos, pero aquí sería inexacta si borra la elección divina. El TTH expresa que allí habitará su nombre; la formulación protege tanto la presencia como el nombre de יהוה de una apropiación privada.
+
+El movimiento culmina en **(שמח)**, _samaj_, «alegrarse». En 12:7 la alegría ocurre delante de יהוה y alcanza a la casa y al leví; no es el premio de una élite que llegó a la _menujáh_ por mérito propio. La observación de Eric sobre una vida recibida queda confirmada en una forma más verificable: el pueblo lleva lo que יהוה manda, come en su presencia y se alegra con quienes no tienen heredad. La equivalencia «descanso emocional» es pedagógica y demasiado estrecha; la perícopa muestra un orden de culto, sustento y comunidad.
+
+Finalmente, 12:8–9 conserva la tensión entre el presente y la heredad: «no haréis conforme a todo lo que hacemos aquí hoy, cada uno todo lo recto ante sus ojos», porque todavía no han llegado al reposo y a la heredad. **(נוח)**, _nuaj_, significa descansar, reposar o establecer; en **המנוחה** designa el reposo otorgado por יהוה, no una técnica humana para producir calma. «Establecimiento» es una equivalencia contextual aproximada. Así, la enseñanza de Eric se sostiene sin reducir el capítulo: la libertad crece cuando se abandona el criterio privado, se busca el lugar elegido y se practica una alegría compartida bajo la palabra recibida.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
