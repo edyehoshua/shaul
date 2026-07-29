@@ -197,6 +197,14 @@ La carta también dice que la asna **ἐκώλυσεν**, _ekolysen_, «impidió
 
 La secuencia conserva tres niveles de equivalencia. Es **exacto** que יהוה manda a Bilam hablar sólo lo que se le diga, es **aproximado** llamar «lucro» al deseo que el narrador deja ver mediante el camino y la recompensa, y es **pedagógico** extender la advertencia a todo ministerio contemporáneo. La exposición de Eric queda así preservada sin convertir Keifas Bet en una cita literal de Bamidbar 22 ni presentar una aplicación pastoral como si fuera la definición de **ארה**, _'arah_, «maldecir».
 
+## La vista parcial de Balaq y la palabra completa de יהוה
+
+El cierre del capítulo no permite que el rey controle la realidad controlando el encuadre. Balaq lleva a Bilam a Bamot-Baal y le muestra **קצה העם**, _qetseh ha-am_, «el extremo del pueblo» (#bamidbar_22_41). **(קצה)**, _qetseh_, significa extremo, borde o límite; aquí su fuerza contextual es la porción visible del campamento que Balaq decide presentar. «Manipular el encuadre» es una equivalencia **pedagógica**, no el sentido aislado de la forma. Eric observa que Israel puede ser reducido a una perspectiva parcial, pero el texto prepara la corrección: la mirada del rey no determina lo que יהוה dirá.
+
+La palabra decisiva ya había sido pronunciada por Bilam: **הדבר אשר ישים אלהים בפי אתו אדבר**, «la palabra que Elohim ponga en mi boca, ésa hablaré» (#bamidbar_22_38). El TTH mantiene la dependencia del mensaje respecto de Elohim. **(שים)**, _sim_, significa poner, colocar o establecer; en esta frase su fuerza contextual es que el contenido es colocado por Elohim en la boca del portavoz. **(דבר)**, _davar_, significa palabra, asunto o cosa; aquí designa el mensaje que Bilam debe pronunciar, no una energía que pueda administrarse. «Inspiración automática» sería una equivalencia **inexacta**: Bilam sigue siendo responsable de hablar, pero no puede fabricar el contenido.
+
+La secuencia completa evalúa la observación de Eric sobre lucro y concupiscencia sin exagerar la psicología. Balaq teme, ofrece plata y oro, pide una maldición, cambia el lugar de observación y pretende gobernar el resultado; Bilam, por su parte, declara el límite de la boca de יהוה, pero su camino provoca el enojo divino y necesita la reprensión del mensajero. Es **exacto** que la palabra no queda sometida al pago; es **aproximado** llamar «soborno» a toda la transacción, porque **(כסף)**, _kesef_, significa plata o dinero y **(זהב)**, _zahav_, significa oro, no soborno en todos sus usos. La exposición queda mejor preservada cuando distingue la materialidad de la oferta, la inferencia pastoral sobre el lucro y la afirmación textual de que sólo se habla lo que יהוה manda.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

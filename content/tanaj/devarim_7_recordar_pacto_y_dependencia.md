@@ -266,6 +266,14 @@ La libertad que Eric formula como «hacer lo que sabes que tienes que hacer» es
 
 Este recorrido conserva la observación real de la clase sin confundir aplicación y traducción. Es exacto que el discurso vincula memoria con la obra histórica de יהוה y niega que Israel pueda atribuirse la fuerza; es aproximado trasladar ese eje a toda experiencia moderna; y sería inexacto convertirlo en una promesa de éxito individual. La parashá mantiene juntas elección, obediencia y dependencia.
 
+## La memoria que vence el temor sin fabricar mérito
+
+Devarim 7:17–19 une el temor con una memoria concreta. El OE dice: **לא תירא מהם זכור תזכר את אשר עשה יהוה אלהיך לפרעה ולכל מצרים**, «no tendrás temor de ellos; recordar, recordarás lo que hizo יהוה tu Elohim a Faraón y a todo Mitsraim». El TTH conserva la misma dirección: el pueblo debe recordar la obra de יהוה, no inventar una confianza autosuficiente. Eric presenta esta repetición como una disciplina contra el miedo; la observación es **exacta** en su anclaje textual, mientras aplicarla a toda ansiedad moderna es **pedagógica**.
+
+**(ירא)**, _yare_, significa temer o reverenciar; aquí su fuerza contextual es el miedo ante pueblos numerosos, no la reverencia cultual. **(זכר)**, _zakar_, significa recordar o traer a la memoria; en **זכור תזכר**, _zakhor tizkor_, la repetición intensifica el mandato y hace del recuerdo una acción deliberada. «Pensamiento positivo» sería una equivalencia **inexacta**: el texto no niega la amenaza, sino que la interpreta a la luz de la liberación. **(עשה)**, _asah_, significa hacer o realizar; en **את אשר עשה**, «lo que hizo», remite a actos históricos de יהוה, no a una sensación interior.
+
+La unidad no separa memoria y obediencia. En 8:2, **(נסה)**, _nasah_, significa probar o poner a prueba; su fuerza contextual es que el camino del desierto revela el corazón y si Israel guardará los mandamientos. En 8:18, el OE añade: **וזכרת את יהוה אלהיך כי הוא הנתן לך כח לעשות חיל**, «recordarás a יהוה tu Elohim, porque él es quien te da fuerza para hacer capacidad». **(כח)**, _koaj_, significa fuerza o capacidad; **(חיל)**, _jail_, puede significar fuerza, capacidad, riqueza o ejército. «Prosperidad garantizada» es una equivalencia **aproximada y demasiado estrecha**; «capacidad recibida dentro del camino y del pacto» comunica mejor la fuerza argumental. Así, Eric acierta al contraponer memoria y orgullo, pero la nota debe conservar el equilibrio: recordar al Dador conduce a una obediencia visible, no a pasividad ni a una factura presentada a יהוה.
+
 ## Ver también
 
 - [[bereshit_12_llamado_promesa_y_bendicion|Bereshit 12: llamado, promesa y bendición]]
