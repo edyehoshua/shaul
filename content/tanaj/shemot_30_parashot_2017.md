@@ -67,6 +67,16 @@ El incienso termina el capítulo con la misma lógica. **קטרת**, _qetóret_,
 | #shemot_30_12-16 | El medio shekel es reconciliación y responsabilidad compartida, no precio. | Apoyado por **כפר נפש**, el destino memorial y la igualdad entre rico y pobre.                                     |
 | #shemot_30_17-38 | Los oficios sagrados y sus objetos no deben tratarse como comunes.         | Apoyado por el lavacro, la unción y las prohibiciones sobre aceite e incienso; la aplicación amplia es pedagógica. |
 
+## El encargo, la cobertura y el límite del servicio
+
+La secuencia de Shemot 30 evita dos reducciones opuestas. El OE dice **ונתנו איש כפר נפשו ליהוה** y TTH: «dará cada uno la expiación de su alma a יהוה» (#shemot_30_12). **ונתנו**, _venatenu_, es una forma de נתן, «dar o entregar», con sujeto plural; su fuerza contextual distribuye la responsabilidad entre las personas contadas. No significa que cada israelita pueda comprar el favor divino. **כפר**, _kofer_, tiene el sentido normal de cobertura o rescate y, en el contexto cultual, participa en la reconciliación; «precio que compra la vida» sería una equivalencia pedagógica demasiado fuerte.
+
+El propósito inmediato se formula como **ולא יהיה בהם נגף**, «para que no haya en ellos plaga». **נגף**, _negef_, normalmente es golpe, tropiezo o plaga; aquí explica el riesgo que acompaña al registro, pero no es una promesa general de inmunidad. Eric observa que «levantar la cabeza» comunica dignidad y encargo. La observación recibe apoyo en **נשא ראש**, _nasa rosh_: **נשא** significa levantar, llevar o soportar, mientras **ראש** significa cabeza o principal. Sin embargo, el capítulo hace visible esa dignidad por una obligación concreta: cada uno aporta al memorial, y el rico no compra mayor rango que el pobre.
+
+El cierre cultual conserva el mismo límite. **וקדשת אתם לכהן לי**, _veqidashta otam lekhahen li_, significa «los consagrarás para que sean sacerdotes para mí». **קדש**, _qadesh_, normalmente es separar o apartar; aquí su fuerza contextual es destinación al servicio de יהוה, no una cualidad autónoma del cuerpo. **והיתה להם חקת עולם**, _vehayetah lahem juqat olam_, contiene **חקה**, _juqah_, «estatuto establecido», y **עולם**, _olam_, duración prolongada o indefinida. «Eterno» puede ser una equivalencia tradicional aproximada; el pasaje define primero la continuidad del servicio ordenado.
+
+Así, la lectura de Eric sobre levantar la cabeza se sostiene cuando se sigue el orden local: registro responsable, cobertura de cada vida, lavamiento antes de acercarse y objetos reservados. El pueblo no es una masa apropiable, pero tampoco una comunidad liberada de límites. La santidad del servicio se verifica en acciones recibidas —dar, lavarse, ungir y preparar— y no en una exaltación privada del ministro.
+
 ## Pendiente de verificar
 
 - [ ] Comparar el rango de **פקד** en otros pasajes de servicio levítico.
