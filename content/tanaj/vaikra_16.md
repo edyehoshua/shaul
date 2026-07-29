@@ -166,6 +166,16 @@ Esta precisión mantiene la observación real de Eric sin sustituirla por una ca
 - [Shemot 34](./shemot_34.md) — jatá, avón, pesha y pureza.
 - [Temas: Shabat](../temas/shabat.md) — reposo y santidad del tiempo.
 
+## Evaluación final de la reconciliación: espacio, culpa y respuesta
+
+La exposición de Eric insiste en que la sangre y el macho cabrío enviado no deben separarse. La lectura completa permite conservar esa observación sin borrar la arquitectura de la perícopa. En 16:14–17, Aharón rocía la sangre y hace reconciliación por la Santidad, la Tienda del Encuentro y el altar; en 16:20–22, una vez terminada esa acción, confiesa las iniquidades sobre el macho cabrío vivo y lo envía al desierto. El orden no es decorativo. **(הזה)**, _hizah_, significa rociar o salpicar; aquí describe una acción ritual localizada. **(התודה)**, _hitvadah_, significa confesarse o reconocer; en este contexto nombra la declaración verbal de las iniquidades. «Aplicar la sangre» y «transferir la culpa» son equivalencias **pedagógicas y aproximadas**, no los sentidos aislados de las formas.
+
+La diferencia de sujetos también importa para evaluar la aplicación mesiánica de la clase: el sacerdote actúa, la sangre es administrada en el ámbito santo, el animal vivo carga y la asamblea se humilla. **(עזאזל)**, _Azazel_, sigue siendo una designación discutida; «demonio» o «cabra que se fue» son interpretaciones posibles, pero no equivalencias exactas demostradas por el término. El texto sí afirma que el macho cabrío lleva **(עון)**, _avon_, «iniquidad, culpa o torcimiento», junto con **(פשׁע)**, _pesha_, «transgresión o rebelión», y **(חטאת)**, _chatat_, «pecado, falta u ofrenda por el pecado» según la construcción. «Desorden moral» reúne los tres como paráfrasis pedagógica, pero no elimina sus diferencias.
+
+La respuesta comunitaria confirma que la reconciliación no es una sustancia autónoma. En 16:29–31, el nativo y el extranjero residente afligen su **(נפש)**, _nefesh_, y cesan de toda **(מלאכה)**, _melakhah_, «trabajo, labor u obra». El TTH hace visible la dimensión corporal con «afligirán sus gargantas», mientras «alma» es una equivalencia tradicional y aproximada. La forma no obliga a separar una entidad espiritual del cuerpo. Del mismo modo, **(טהר)**, _taher_, significa estar limpio o purificar; su fuerza inmediata es el estado cultual declarado después de la acción sacerdotal, aunque Eric puede extenderlo teológicamente hacia un corazón renovado. La conexión con Hebreos y con la muerte del Mesías queda, por tanto, como lectura canónica posterior: recibe estructura del capítulo, pero no reemplaza su fecha, sacerdote, sangre, confesión, envío, lavado, reposo y obediencia.
+
+Esta precisión fortalece la frase de Eric de que «la una sin la otra no tiene sentido». Sangre y envío pertenecen a una misma jornada de reconciliación, pero no son dos nombres para una sola acción: una trata la impureza del espacio santo y el otro representa la salida de las iniquidades confesadas. La unidad ritual sostiene la lectura; la diferencia textual la disciplina.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
