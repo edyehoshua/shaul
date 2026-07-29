@@ -41,13 +41,20 @@ sources:
   - "https://www.youtube.com/watch?v=moNw6MC0jG4"
   - "https://www.youtube.com/watch?v=M2mb6wYboYg"
   - "https://www.youtube.com/watch?v=d_lzMjdAuBQ"
-  - "https://www.youtube.com/watch?v=2_q62-EulhM"
+  - "https://www.youtube.com/watch?v=1IZe5w9GA0Y"
+  - "https://www.youtube.com/watch?v=wgFr5OYXhmk"
+  - "https://www.youtube.com/watch?v=2yQI9REsPy4"
+  - "https://www.youtube.com/watch?v=wOZk1jiTed4"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
   - "youtube:moNw6MC0jG4"
   - "youtube:M2mb6wYboYg"
   - "youtube:d_lzMjdAuBQ"
+  - "youtube:1IZe5w9GA0Y"
   - "youtube:2_q62-EulhM"
+  - "youtube:wgFr5OYXhmk"
+  - "youtube:2yQI9REsPy4"
+  - "youtube:wOZk1jiTed4"
 translation: "[Delitzsch]"
 ---
 
@@ -208,7 +215,11 @@ La enseñanza de Eric acierta al insistir en que ningún miembro debe apropiarse
 - Video: [La carta a los Efesios (parte 17) Cap 4: La excelencia del llamado de Mashiaj](https://www.youtube.com/watch?v=moNw6MC0jG4) (`source_id`: `youtube:moNw6MC0jG4`).
 - Video: [La carta a los Efesios (parte 18): La unidad de Mashíaj](https://www.youtube.com/watch?v=M2mb6wYboYg) (`source_id`: `youtube:M2mb6wYboYg`).
 - Video: [La carta a los Efesios (parte 19) Cap 4: milu’im de Mashíaj, la plenitud de Cristo](https://www.youtube.com/watch?v=d_lzMjdAuBQ) (`source_id`: `youtube:d_lzMjdAuBQ`).
+- Video: [The Epistle to the Ephesians (Part 20) Ch. 4: Unshakable in the Love of Messiah](https://www.youtube.com/watch?v=1IZe5w9GA0Y) (`source_id`: `youtube:1IZe5w9GA0Y`).
 - Video: [La carta a los Efesios (parte 21) Cap 4: La ignorancia de la vida](https://www.youtube.com/watch?v=2_q62-EulhM) (`source_id`: `youtube:2_q62-EulhM`).
+- Video: [La carta a los Efesios (parte 22) Cap 4: Sólo Yehoshua Hamashiaj te hace libre](https://www.youtube.com/watch?v=wgFr5OYXhmk) (`source_id`: `youtube:wgFr5OYXhmk`).
+- Video: [La carta a los Efesios (parte 23) Cap 4: cómo echar fuera la mentira](https://www.youtube.com/watch?v=2yQI9REsPy4) (`source_id`: `youtube:2yQI9REsPy4`).
+- Video: [La carta a los Efesios (parte 24) Cap 4: cómo limitar las pasiones](https://www.youtube.com/watch?v=wOZk1jiTed4) (`source_id`: `youtube:wOZk1jiTed4`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
