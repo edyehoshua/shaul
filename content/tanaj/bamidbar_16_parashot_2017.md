@@ -150,6 +150,16 @@ La exposición de Eric sobre «hacer todo como para Hashem» queda mejor evaluad
 
 La forma de la obediencia se ve en 16:48: **ויעמד בין המתים ובין החיים ותעצר המגפה**, «se puso entre los muertos y los vivos, y se detuvo la plaga». **(עמד)**, _amad_, significa estar de pie, permanecer o situarse; aquí describe una interposición obediente a favor de la congregación. **(מגפה)**, _magefah_, significa plaga o golpe; no es una metáfora genérica para conflicto. Eric acierta al oponer servicio humilde y autoexaltación, pero la afirmación exacta es aún más concreta: Aharón obedece una orden, sirve con un utensilio regulado y protege a Israel. La aplicación contemporánea es teológica y pedagógica; no autoriza a cualquier líder a apropiarse de la función sacerdotal.
 
+## El reclamo de igualdad y la diferencia entre acercarse y usurpar
+
+La protesta de Koraj merece una lectura que no confunda su premisa verdadera con su conclusión. El OE dice **כי כל העדה כלם קדשים ובתוכם יהוה**, «porque toda la congregación, todos ellos son santos, y יהוה está en medio de ellos» (#bamidbar_16_3); el TTH conserva la afirmación de una congregación santa. **(קדש)**, _qadosh_, significa ser santo, estar separado o pertenecer a lo sagrado. Aquí su fuerza es corporativa: Israel ha sido apartado por יהוה. Eric conserva ese punto para advertir que la santidad no es propiedad de una élite; la observación recibe apoyo textual directo.
+
+Pero Mosheh responde con otra pregunta: «¿os parece poco que el Elohim de Israel os haya separado de la congregación… para acercaros a sí?» (#bamidbar_16_9). **(קרב)**, _qarav_, significa acercarse, presentar o traer cerca; en este contexto nombra acceso funcional al servicio del Mishkán, no una emoción privada de intimidad. «Adorar» es una equivalencia pedagógica amplia; «acercarse con el servicio asignado» es más exacto. La crítica de Eric a la comparación humana queda así mejor delimitada: la santidad común es real, pero no vuelve intercambiables las tareas que יהוה separó.
+
+La frase final de Mosheh identifica el blanco: «tú y toda tu compañía os habéis juntado contra יהוה» (#bamidbar_16_11). **(נועד)**, _noad_, significa reunirse o fijar una cita; aquí describe una coalición deliberada. «Conspiración» es una equivalencia contextual posible, no el sentido único de la raíz. El texto no condena toda pregunta sobre autoridad ni todo desacuerdo comunitario; condena convertir una cercanía recibida en derecho para tomar el sacerdocio. La enseñanza de Eric sobre hacer el servicio «como para Hashem» queda respaldada cuando se aplica a esta diferencia concreta, no cuando se usa para blindar a cualquier dirigente de examen.
+
+El capítulo también impide una aplicación unilateral del juicio. Después de la muerte de los rebeldes, la asamblea murmura y Aharón recibe la orden de interponerse. **(עמד)**, _amad_, significa estar de pie o permanecer; aquí su fuerza es ocupar el espacio entre muertos y vivos en obediencia a Mosheh. **(כפר)**, _kiper_, significa cubrir, expiar o realizar reconciliación; «calmar a Dios» es una equivalencia inexacta, porque el verbo describe la acción sacerdotal frente a la plaga. Eric ve humildad en el servicio; el relato prueba esa humildad por la intercesión que protege a la comunidad, no por una declaración de rango.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

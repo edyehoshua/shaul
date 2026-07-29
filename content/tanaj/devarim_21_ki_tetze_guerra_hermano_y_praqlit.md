@@ -31,6 +31,7 @@ sources:
   - "docs/scriptures/oe/json/deuteronomy/24.json"
   - "docs/scriptures/oe/json/deuteronomy/25.json"
   - "docs/scriptures/tth/json/devarim.json"
+  - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:kw0lpuvIXPk"
 translation: "[OE, TTH]"
@@ -105,6 +106,14 @@ El cierre vuelve a la tierra: **(טמא)**, _tame_, significa hacer impuro o con
 La tesis homilética de Eric se articula así: en el habla rabínica existe la idea de que quien adquiere un mandamiento adquiere un abogado (la clase alude a dicho del Talmud de Babilonia). El mitzvá “defiende” porque te aparta del lío antes de que llegue el juicio. En griego, el **(παράκλητος)**, _paráklētos_, es el llamado a favor: abogado, intercesor, defensor; “consolador” es **aproximación** de muchas versiones. Eric distingue, en el horizonte hebreo, figuras de asesoramiento del juicio frente al defensor que toma la causa; traslada el préstamo _praqlit_ al anuncio de Yehoshua: «yo pediré al Padre y os dará otro abogado» (#iojanan_14_16). La lógica de la clase: si antes el mandamiento custodiaba desde fuera, ahora la presencia del Defensor y la “mente del Mesías” custodian desde dentro, en continuidad con la paz que la Torá buscaba al prevenir.
 
 Esa construcción es **pedagógica y canónica en su segundo paso** (Juan 14), e **histórica-aproximada en el primero** (dicho talmúdico y préstamo griego). No debe leerse como si Devarim 21 contuviera la palabra _paráklētos_. Sí puede leerse como una respuesta fiel a la pregunta: ¿para qué tanta mitzvá concreta en clima de guerra y de casa? Para no abandonar al hermano, para no torcer la herencia, para limitar la violencia del deseo y del espectáculo de la muerte —es decir, para defender la vida del pacto.
+
+## Delitzsch y el defensor prometido: continuidad sin identidad
+
+La conexión con Iojanan debe citar la forma que Eric está interpretando, no fingir que el griego o el hebreo de Delitzsch pertenece a Devarim 21. Delitzsch traduce Iojanan 14:16-17 así: **ואני אחללה פני האב ויתן לכם מליץ אחר אשר ישכן אתכם עדי עד ... הלא הוא רוח האמת אשר העולם לא יכל לקבלו**: «yo rogaré al Padre y os dará otro defensor, que morará con vosotros para siempre ... él es el Espíritu de la verdad, que el mundo no pudo recibir».
+
+**(מליץ)**, _melits_, significa intérprete, portavoz, mediador o defensor; en esta traducción hebrea ejerce la fuerza contextual de «defensor/abogado» para el **(παράκλητος)**, _paráklētos_. «Consolador» es una equivalencia **aproximada** que recoge una función, pero no agota el campo de «uno llamado a favor». **(רוח האמת)**, _ruaj ha-emet_, significa espíritu de la verdad; aquí nombra la presencia prometida, no una propiedad abstracta de la mitzvá. La relación con el argumento de Eric es **canónica y pedagógica**, no una equivalencia exacta: Devarim 21 regula casos concretos y Iojanan anuncia una presencia que habita con los discípulos.
+
+La continuidad defendible está en la función de protección, no en una identidad institucional. En Devarim, la restitución, el plazo de duelo, el derecho del primogénito, el entierro y la responsabilidad de la comunidad interrumpen daños previsibles. En Iojanan, el defensor es dado por iniciativa del Padre y permanece con los discípulos. Eric puede llamar a la mitzvá «abogado» como síntesis homilética, pero el lector debe conservar tres niveles: el sentido **exacto** de cada ley, la analogía **aproximada** con la defensa y la afirmación **canónica** posterior sobre el Espíritu.
 
 ## Hoja léxica
 
