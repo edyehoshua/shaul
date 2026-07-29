@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 918,
-  "pending_videos": 40,
-  "transcript_notes": 471,
+  "covered_videos": 922,
+  "pending_videos": 36,
+  "transcript_notes": 473,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -58,7 +58,7 @@
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 23,
+      "covered": 25,
       "lane": "colosenses"
     },
     "Gálatas": {
@@ -128,7 +128,7 @@
     },
     "Janukáh: estudios temáticos pendientes sin asignar": {
       "total": 3,
-      "covered": 1,
+      "covered": 3,
       "lane": "colosenses"
     },
     "Juan": {
@@ -156,6 +156,11 @@
       "covered": 96,
       "lane": "colosenses"
     },
+    "Las 613 mitzvot 2a parte: bloque final no asignado": {
+      "total": 53,
+      "covered": 53,
+      "lane": "colosenses"
+    },
     "Las 613 mitzvot 2a parte: bloque inicial restante": {
       "total": 5,
       "covered": 5,
@@ -173,7 +178,7 @@
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 47,
+      "covered": 49,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)": {
@@ -188,7 +193,7 @@
     },
     "Parashot 2016-2017: Ajarey mot, Beha'alotjá, Balaq, Re'eh y Ha'azinu": {
       "total": 5,
-      "covered": 3,
+      "covered": 5,
       "lane": "tanaj"
     },
     "Parashot 2016-2017: Dvarim pendiente no asignado": {
