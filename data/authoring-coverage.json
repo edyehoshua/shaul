@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 867,
-  "pending_videos": 91,
-  "transcript_notes": 429,
+  "covered_videos": 873,
+  "pending_videos": 85,
+  "transcript_notes": 432,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -73,7 +73,7 @@
     },
     "Haftarah de Ajarey-mot pendiente sin asignar": {
       "total": 1,
-      "covered": 0,
+      "covered": 1,
       "lane": "haftarot"
     },
     "Haftarot de Bre’shit/Génesis": {
@@ -98,7 +98,7 @@
     },
     "Haftarot de Vayiqra’/Levítico": {
       "total": 11,
-      "covered": 10,
+      "covered": 11,
       "lane": "yojanan"
     },
     "Haftarot de bemidbar/Números": {
@@ -153,17 +153,17 @@
     },
     "Marcos (clasificado desde Uncategorized)": {
       "total": 46,
-      "covered": 42,
+      "covered": 43,
       "lane": "efesios"
     },
     "Parashot 2016-2017": {
       "total": 49,
-      "covered": 41,
+      "covered": 43,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)": {
       "total": 5,
-      "covered": 0,
+      "covered": 2,
       "lane": "colosenses"
     },
     "Parashot 2016-2017 restantes sin asignar (grupo coherente)": {
@@ -218,12 +218,12 @@
     },
     "Tehilim 119 y salmos restantes sin asignar (grupo coherente)": {
       "total": 38,
-      "covered": 32,
+      "covered": 34,
       "lane": "yojanan"
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 158,
+      "covered": 160,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
