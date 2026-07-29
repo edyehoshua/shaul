@@ -370,6 +370,14 @@ En 2:11, **(προσωπολημψία)**, _prosōpolēmpsia_, significa acepci�
 
 El cierre confirma la misma lógica. **(περιτομή)**, _peritomē_, significa circuncisión; **(καρδία)**, _kardia_, significa corazón o centro interior; y **(πνεῦμα)**, _pneuma_, significa espíritu, aliento o viento. Sus sentidos ordinarios son **directos**, pero «circuncisión del corazón en Rúaj, no en letra» es una fuerza **contextual**: la señal no funciona como escudo contra una vida que deshonra al Nombre y tampoco se convierte en desprecio de Israel o de la Escritura. La relación pedagógica con **מילה**, _milah_, **לב**, _lev_, y **רוח**, _rúaj_, es **aproximada**, no una equivalencia automática entre lenguas. Así, la nota conserva el foco visible de Eric, preserva la responsabilidad del interlocutor y deja que Romanos 2 gobierne la aplicación.
 
+## Reparación desarrollada: una identidad que responde ante Elohim
+
+La pregunta pública de `youtube:6D7Yj0bDSfU` queda mejor evaluada cuando se la coloca después de la acusación inicial, no cuando se la convierte en un lema separado. Romanos 2:1-5 retira la excusa del que juzga; 2:6-11 afirma que el juicio considera las obras sin favoritismo; 2:13-16 distingue oír de hacer y pone la conciencia ante el día de los secretos; 2:17-29 aplica ese mismo criterio al nombre, la enseñanza y la circuncisión. La observación atribuible de Eric recibe **apoyo textual cualificado**: ser judío o ser creyente implica una respuesta verificable, pero el título público no permite reconstruir una exposición detallada del transcript ausente.
+
+En #romanos_2_4, **(ἄγω)**, _agō_, significa llevar, conducir o guiar; su fuerza contextual es direccional: la bondad de Elohim conduce hacia **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento. «Teshuvá», **תשובה**, _teshuvá_, «retorno», es una relación **aproximada y pedagógica**, no la forma griega de Pablo. La dirección es textual; afirmar que toda persona responde necesariamente sería inferencial, porque el v. 5 habla de quien desprecia la bondad.
+
+En 2:15, **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; su fuerza **forense** es que acusa o defiende dentro del juicio, no que cada sentimiento sea una revelación suficiente. En 2:25-29, **(ὠφελέω)**, _ōpheleō_, significa beneficiar o ser provechoso, y su fuerza es condicional: la señal beneficia si se practica la Torah. **(ἔπαινος)**, _epainos_, significa alabanza o aprobación; la alabanza decisiva procede de Elohim. Estas glosas son **directas** en su campo ordinario; convertirlas en una teoría total de identidad o elección sería **inferencial**. Así, la perícopa conserva la historia de Israel, exige coherencia al interlocutor y excluye tanto el desprecio étnico como el mérito autónomo.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
