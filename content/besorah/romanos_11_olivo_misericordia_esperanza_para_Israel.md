@@ -300,6 +300,16 @@ El texto mantiene juntas promesa y responsabilidad. **(ἐπιμένω)**, _epim
 - [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]
 - [[romanos_15_paciencia_acogida_mision_alabanza|Romanos 15: paciencia, acogida, misión y alabanza]]
 
+## Estudio desarrollado: la raíz, el injerto y la esperanza sin jactancia
+
+La observación atribuida a Eric en `youtube:MHLbizeZrPc` —preguntar si la rama gentil se cree mejor que las ramas naturales— debe conservarse en el orden de Romanos 11. Pablo no empieza con la rama silvestre, sino con la negación de que Elohim haya desechado a Israel, el remanente por gracia y el tropiezo que no equivale a caída definitiva (#romanos_11_1-16). Solo después presenta el injerto y ordena no jactarse. La aplicación de Eric recibe **apoyo textual directo** en #romanos_11_18; extenderla a una clasificación completa de comunidades actuales es **pedagógico y cualificado**.
+
+En #romanos_11_17-18, **(ἐγκεντρίζω)**, _enkentrizō_, significa injertar o incorporar una rama; su fuerza contextual describe una participación dependiente de la raíz, no una transferencia de propiedad. **(συνκοινωνός)**, _synkoinōnos_, significa participante o copartícipe; aquí califica a la rama que participa de la raíz y de la savia. «Injertar» y «copartícipe» son glosas **directas** en su campo ordinario; afirmar «reemplazo» o «dueño» sería **inferencial e ilegítimo** frente a «la raíz te sustenta a ti». La relación pedagógica con **שֹׁרֶשׁ**, _shoresh_, «raíz», en la traducción local es **aproximada**, no una equivalencia etimológica entre hebreo y griego.
+
+La esperanza anunciada en `youtube:bL-3YKdV0wo` tampoco puede separarse de la advertencia. **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; en #romanos_11_25 frena que las naciones sean sabias en su propia opinión. **(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o cumplimiento; en «la plenitud de las naciones» su fuerza es **contextual**, pero no fija por sí sola una cifra ni una cronología. **(οὕτως)**, _houtōs_, significa así o de este modo; en #romanos_11_26 enlaza «todo Israel será salvo» con la secuencia previa. Leerlo exclusivamente como «entonces» cronológico es **aproximado e inferencial**, no una conclusión obligatoria de la forma aislada.
+
+El cierre mantiene la misericordia y la responsabilidad juntas. **(ἐλεέω)**, _eleeō_, significa tener misericordia o mostrar compasión; en #romanos_11_30-32 describe la acción misericordiosa de Elohim sobre quienes estaban en desobediencia, sin llamar buena a la desobediencia. **(ἀμεταμέλητος)**, _ametamelētos_, significa irrevocable o no sujeto a arrepentimiento; en #romanos_11_29 califica los dones y el llamamiento. «Misericordia» e «irrevocable» son glosas **directas o aproximadas según el término y el contexto**; usarlas para borrar la exhortación a permanecer en la bondad sería **ilegítimo**. La doxología de #romanos_11_33-36 gobierna la lectura: el misterio conduce a humildad y adoración, no a superioridad étnica.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

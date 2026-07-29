@@ -282,6 +282,16 @@ Así, el «patrón de la fidelidad» que Eric presenta públicamente tiene **apo
 - [[romanos_13_autoridades_amor_vigilancia|Romanos 13: autoridades, amor y vigilancia]]
 - [[romanos_14_acogida_mutua_conciencia_edificacion|Romanos 14: acogida mutua, conciencia y edificación]]
 
+## Estudio desarrollado: el patrón de la fidelidad en cuerpo, servicio y bien
+
+La fuente pública `youtube:8z-3MkpomOo`, titulada «El patrón de la fidelidad», permite atribuir a Eric el foco general de la sesión, no una cita literal ni una lista exhaustiva de argumentos. En la exposición, localizada aproximadamente entre 00:01:20 y 00:02:04, el cuerpo ofrecido aparece como respuesta a las misericordias de Elohim; más adelante, entre 00:04:40 y 00:08:12, Eric relaciona la sobriedad de no ser sabio en los propios ojos con temor de יהוה, apartarse del mal y obedecer lo escrito. Estas observaciones reciben **apoyo textual cualificado**: Romanos 12:1-3 conecta misericordia, cuerpo, mente y sobriedad, mientras las conexiones con Proverbios son **intertextuales y aproximadas**, no citas de Romanos.
+
+En #romanos_12_1-2, **(παρίστημι)**, _paristēmi_, significa presentar, poner a disposición o colocar delante; su fuerza contextual es entregar los cuerpos como respuesta a misericordias ya recibidas. «Presentar» es una glosa **directa**; decir que el servicio compra el favor de Elohim sería **ilegítimo**. **(λογικός)**, _logikos_, significa racional, razonable o perteneciente a la palabra; en «culto racional» califica una respuesta congruente con esas misericordias. «Racional» es **directo en el campo ordinario**, mientras reducirlo al intelecto moderno o convertirlo en una definición hebrea cerrada es **aproximado y pedagógico**. La relación con **שִׂכְלִי**, _sikli_, «intelectual o racional», en la traducción local es **aproximada**, no una equivalencia morfológica.
+
+En #romanos_12_2-8, **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar después de evaluar; su fuerza contextual es discernir la voluntad buena, agradable y perfecta mediante una mente renovada. **(φρονέω)**, _phroneō_, significa pensar, tener una disposición o juzgar; en #romanos_12_3 regula la autoevaluación sobria y no prohíbe toda valoración responsable. **(χάρισμα)**, _charisma_, significa don concedido por gracia; en #romanos_12_6-8 ordena capacidades distintas hacia el servicio del cuerpo. Estas glosas son **directas en su campo normal**, pero convertir el «patrón» en una escala de prestigio espiritual sería **inferencial e ilegítimo**.
+
+El cierre de la enseñanza muestra que la fidelidad no es pasividad. **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en #romanos_12_18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». **(ἀνταποδίδωμι)**, _antapodidōmi_, significa devolver, pagar o retribuir; en #romanos_12_19 pertenece a la cita sobre la retribución de Elohim y no autoriza venganza privada. **(νικάω)**, _nikaō_, significa vencer o conquistar; en #romanos_12_21 su fuerza contextual define la victoria por el bien que responde al mal. Las glosas son **directas**, mientras aplicar «vencer» para exigir exposición al abuso sería **ilegítimo**: el propio límite «en cuanto dependa de vosotros» reconoce situaciones que requieren protección y justicia legítima.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
