@@ -239,6 +239,24 @@ El cierre gobierna la aplicación. **(καταργέω)**, _katargeō_, signific
 | #romanos_3_21-26                        | La justicia de Elohim se manifiesta en el Mesías, no como crédito de la jactancia humana. | Apoyo textual: la Torah y los profetas atestiguan la justicia; la expiación conserva una calificación léxica. |
 | #romanos_3_27-31                        | La emunah excluye la jactancia y no deja nula la Torah.                                   | Apoyo textual directo en el cierre; la aplicación concreta queda para el argumento canónico posterior.        |
 
+## Estudio desarrollado: dentro de la ley, fuera de la jactancia
+
+La fuente pública `youtube:u0NtR-y-T2Y` anuncia el foco «A los que están dentro de la ley» y «Rom 3:17ss». Puesto que no hay transcript local disponible, la atribución a Eric se limita exactamente a ese título, a la URL pública y al alcance anunciado. Romanos 3 permite desarrollar la pregunta sin inventar una explicación de la sesión: quienes oyen la voz de la Torah quedan bajo su testimonio judicial, pero el resultado alcanza a todo el mundo y no crea una casta condenada por etnia. La observación recibe **apoyo textual cualificado**: el título fija el punto de entrada y la perícopa corrige cualquier lectura que convierta «dentro» en privilegio para gloriarse.
+
+En #romanos_3_19-20, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio, responsable o culpable; su fuerza contextual es forense y universal, porque toda boca queda sin base de jactancia ante Elohim. «Culpable» es una glosa **directa**; decir que la Torah acusa solamente a un pueblo sería **ilegítimo** frente a «todo el mundo». **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno, reconocimiento o comprensión; aquí describe el conocimiento del pecado que la Torah hace visible. La glosa es **directa en el argumento**, mientras afirmar que la instrucción produce por sí sola la rebeldía sería **inferencial e ilegítimo**.
+
+En #romanos_3_21-26, **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; su fuerza contextual distingue la base de la justificación de las obras, no una guerra contra la Torah, porque Torah y profetas dan testimonio de la justicia. **(ἱλαστήριον)**, _hilastērion_, puede significar medio de expiación o lugar de propiciación; «propiciación» es **aproximada y pedagógica**, pues el término no decide por sí solo un único modelo técnico de expiación. La lectura debe conservar el propósito explícito: Elohim muestra su justicia y justifica gratuitamente al que tiene emunah.
+
+El cierre gobierna la aplicación. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular; en 3:31 participa de la pregunta que Pablo niega enfáticamente. **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener; «establecer la Torah» es **directo y contextual**, aunque el verbo no enumera la aplicación posterior de cada mandamiento. Es **textual** que la emunah excluye la jactancia y establece la Torah; sería **inferencial** usar el título público para construir una doctrina completa de «los que están dentro» sin leer Romanos 2–3 en conjunto.
+
+## Mapa focal de la enseñanza de Eric
+
+| Unidad textual                          | Observación atribuible y alcance de la fuente                                             | Evaluación frente a Romanos 3                                                                                 |
+| --------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| #romanos_3_17-20; `youtube:u0NtR-y-T2Y` | El título enfoca a quienes están dentro de la ley.                                        | Apoyo cualificado: la Torah testifica judicialmente y el alcance del juicio es universal.                     |
+| #romanos_3_21-26                        | La justicia de Elohim se manifiesta en el Mesías, no como crédito de la jactancia humana. | Apoyo textual: la Torah y los profetas atestiguan la justicia; la expiación conserva una calificación léxica. |
+| #romanos_3_27-31                        | La emunah excluye la jactancia y no deja nula la Torah.                                   | Apoyo textual directo en el cierre; la aplicación concreta queda para el argumento canónico posterior.        |
+
 ## Ver también
 
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]]
