@@ -32,6 +32,17 @@ Romanos 9 no presenta una teoría aislada de elección, sino el dolor de Pablo p
 
 Esta nota consolida las sesiones públicas del hermano Eric de Jesús Rodríguez Mendoza acreditadas en los créditos. La sesión `youtube:atIdZY13b_c` se concentra en Romanos 9:19-24 y trata la objeción humana, el alfarero, Faraón y la diferencia entre ser usado dentro de un propósito y tener por ello asegurada la salvación. La atribución se conserva como paráfrasis localizada, no como cita literal. Las transcripciones automáticas sirven para ubicar observaciones; el texto de Romanos gobierna la evaluación.
 
+## Hoja de comparación
+
+| Referencia       | Texto local de Delitzsch                                                                                            | Función en el argumento                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| #romanos_9_1-5   | **אֱמֶת אֲנִי מְדַבֵּר בַּמָּשִׁיחַ ... וְלָהֶם מִשְׁפַּט הַבָּנִים וְהַכָּבוֹד וְהַבְּרִיתוֹת וּמַתַּן הַתּוֹרָה** | El dolor de Pablo y los privilegios de Israel son el punto de partida; el capítulo no nace de desprecio étnico.   |
+| #romanos_9_6-18  | **אֲבָל לׂא שֶׁנָּפַל דְּבַר אֱלׂהִים אָרְצָה ... וְחַנּׂתִי אֶת־אֲשֶׁר אָחׂן וְרִחַמְתִּי אֶת־אֲשֶׁר אֲרַחֵם**     | La palabra no falla; promesa y misericordia se explican en la iniciativa de Elohim.                               |
+| #romanos_9_19-24 | **וְאִם תּׂאמַר לָמָּה־זֶּה יִפְקׂד עָוֹן ... הֲיׂאמַר יֵצֶר לְיׂצְרוֹ מַדּוּעַ כָּכָה עֲשִׂיתָנִי**                | La objeción sobre reproche y voluntad recibe la respuesta que conserva la asimetría entre formador y criatura.    |
+| #romanos_9_25-33 | **וְהֵם אֲנַחְנוּ אֲשֶׁר קְרָאָנוּ ... הִשִׂיגוּ אֶת־הַצְּדָקָה הִיא הַצְּדָקָה אֲשֶׁר מִתּוֹךְ הָאֱמוּנָה**        | El llamamiento de judíos y naciones desemboca en la justicia recibida por emunah y en el tropiezo ante la piedra. |
+
+La hoja conserva texto hebreo efectivamente extraído del corpus local; las glosas y conclusiones que siguen distinguen entre lo que la perícopa afirma y las conexiones pedagógicas de la exposición.
+
 ## Romanos 9:1-5: dolor y privilegios reales
 
 Pablo comienza afirmando su verdad en el Mesías y su testimonio en el Ruaj HaKodesh (#romanos_9_1-2). Su angustia por sus hermanos israelitas no expresa desprecio: enumera adopción, gloria, pactos, entrega de la Torah, culto, promesas, patriarcas y la relación mesiánica según la carne (#romanos_9_4-5). La cuestión del capítulo nace, por tanto, dentro de la historia de Israel y no contra ella. Cualquier aplicación que use Romanos 9 para borrar esos privilegios contradice el orden explícito del apóstol.
