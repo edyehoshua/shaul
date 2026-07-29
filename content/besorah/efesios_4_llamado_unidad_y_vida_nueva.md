@@ -43,6 +43,7 @@ sources:
   - "https://www.youtube.com/watch?v=d_lzMjdAuBQ"
   - "https://www.youtube.com/watch?v=1IZe5w9GA0Y"
   - "https://www.youtube.com/watch?v=wgFr5OYXhmk"
+  - "https://www.youtube.com/watch?v=2_q62-EulhM"
   - "https://www.youtube.com/watch?v=2yQI9REsPy4"
   - "https://www.youtube.com/watch?v=wOZk1jiTed4"
   - "docs/scriptures/delitzsch/json/ephesians.json"

@@ -41,7 +41,6 @@ references:
   - "#iojanan_10_18"
   - "#maasei_hashlijim_2_24"
 sources:
-  - "https://www.youtube.com/watch?v=wR0WA_TLcCc&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=10"
   - "https://www.youtube.com/watch?v=wR0WA_TLcCc"
   - "docs/scriptures/oe/json/"
   - "docs/scriptures/tth/json/"
