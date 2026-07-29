@@ -36,8 +36,9 @@ references:
   - "#ivrim_1_6"
   - "#ivrim_2_14"
 sources:
-  - "https://www.youtube.com/live/FV3WHeOQbzg?si=p6KP3k6gZ2eIM3p0"
-  - "private/sources/youtube_FV3WHeOQbzg_transcript.txt"
+  - "https://www.youtube.com/watch?v=FV3WHeOQbzg"
+source_ids:
+  - "youtube:FV3WHeOQbzg"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -59,60 +60,60 @@ Desde esa amplitud, Yeshúa responde con #tehilim_82_6: si la Escritura llamó `
 
 ### Yojanán 10:33-42 (Delitzsch + TTH)
 
-| Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #iojanan_10_33 | ויענו אתו היהודים לאמר עלמעשה טוב לא נסקלך כי אםעלחלול השם באשר כי אדם אתה והנך אמר לנפשך אלהים אתה | Por obra buena no te apedreamos, sino por injurias, y porque Tú eres hombre, y te haces a ti mismo por Elohim. | La acusación depende de cómo entienden `elohim`. |
-| #iojanan_10_34 | ויען אתם ישוע הלא כתוב בתורתכם אני אמרתי אלהים אתם | ¿No está escrito en su Torah: Yo dije: Ustedes son elohim? | Yeshúa responde desde la Escritura, no desde categoría filosófica tardía. |
-| #iojanan_10_35 | ועתה אםאנשים נקראו אלהים אשר תורת האלהים אתם ודבר הכתוב אין להשיב | Si a estos, a quienes fue la palabra de Elohim, les dijo «elohim» – y la Escritura no se puede tomar en vano –, | Uso funcional de `elohim` para quienes reciben y ejecutan palabra divina. |
-| #iojanan_10_36 | איך תאמרון עלזה אשר קדשו האב וישלחהו בארץ מגדף אתה יען אמרתי בןהאלהים אני | a quien distinguió el Padre y envió al olam, ¿ustedes le dicen: "Blasfemas"? ¡Porque dije: "Hijo de Elohim soy"! | Santificado y enviado; no blasfemo en el terreno de #tehilim_82_6. |
-| #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי | Y si no hago las obras de mi Padre, no se afirmen por Mí; | Las obras son el criterio de discernimiento. |
-| #iojanan_10_38 | ואםעשיתים אף כי לאאביתם להאמין בי האמינו במעשי ידי למען תדעו ותאמינו כי האב בי ואני באב | pero si las hago... afírmense por las obras... porque mi Padre es en Mí, y Yo en Él. | Conecta con plenitud de Abba en el Mesías (#qolasim_2_9). |
-| #iojanan_10_41 | ויבאו אליו רבים ויאמרו הנה יוחנן לאנתן מופת אבל כלאשר דבר עלהאיש הזה אמת הוא | Iojanán ninguna señal hizo, pero todo lo que dijo Iojanán acerca de Este es verdad. | Testigo autorizado sin señales. |
-| #iojanan_10_42 | ויאמינובו רבים במקום ההוא | Y muchos se afirmaron en Él allí. | Fidelidad al reconocer testimonio de Iojanán y obras de Yeshúa. |
+| Referencia     | Hebreo (Delitzsch, sin nikud)                                                                       | TTH (ES)                                                                                                         | Observación                                                               |
+| -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| #iojanan_10_33 | ויענו אתו היהודים לאמר עלמעשה טוב לא נסקלך כי אםעלחלול השם באשר כי אדם אתה והנך אמר לנפשך אלהים אתה | Por obra buena no te apedreamos, sino por injurias, y porque Tú eres hombre, y te haces a ti mismo por Elohim.   | La acusación depende de cómo entienden `elohim`.                          |
+| #iojanan_10_34 | ויען אתם ישוע הלא כתוב בתורתכם אני אמרתי אלהים אתם                                                  | ¿No está escrito en su Torah: Yo dije: Ustedes son elohim?                                                       | Yeshúa responde desde la Escritura, no desde categoría filosófica tardía. |
+| #iojanan_10_35 | ועתה אםאנשים נקראו אלהים אשר תורת האלהים אתם ודבר הכתוב אין להשיב                                   | Si a estos, a quienes fue la palabra de Elohim, les dijo «elohim» – y la Escritura no se puede tomar en vano –,  | Uso funcional de `elohim` para quienes reciben y ejecutan palabra divina. |
+| #iojanan_10_36 | איך תאמרון עלזה אשר קדשו האב וישלחהו בארץ מגדף אתה יען אמרתי בןהאלהים אני                           | a quien distinguió el Padre y envió al olam, ¿ustedes le dicen: "Blasfemas"? ¡Porque dije: "Hijo de Elohim soy"! | Santificado y enviado; no blasfemo en el terreno de #tehilim_82_6.        |
+| #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי                                                                  | Y si no hago las obras de mi Padre, no se afirmen por Mí;                                                        | Las obras son el criterio de discernimiento.                              |
+| #iojanan_10_38 | ואםעשיתים אף כי לאאביתם להאמין בי האמינו במעשי ידי למען תדעו ותאמינו כי האב בי ואני באב             | pero si las hago... afírmense por las obras... porque mi Padre es en Mí, y Yo en Él.                             | Conecta con plenitud de Abba en el Mesías (#qolasim_2_9).                 |
+| #iojanan_10_41 | ויבאו אליו רבים ויאמרו הנה יוחנן לאנתן מופת אבל כלאשר דבר עלהאיש הזה אמת הוא                        | Iojanán ninguna señal hizo, pero todo lo que dijo Iojanán acerca de Este es verdad.                              | Testigo autorizado sin señales.                                           |
+| #iojanan_10_42 | ויאמינובו רבים במקום ההוא                                                                           | Y muchos se afirmaron en Él allí.                                                                                | Fidelidad al reconocer testimonio de Iojanán y obras de Yeshúa.           |
 
 ### Tanaj y cartas (OE + TTH / Delitzsch)
 
-| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #tehilim_82_1 | מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט | Elohim toma su posición en la congregación de El; en medio de los jueces (heb.: elohim) juzga. | `elohim` como jueces en contexto de tribunal. |
-| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם | Yo dije: Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón todos ustedes. | Cita directa usada por Yeshúa en #iojanan_10_34. |
-| #tehilim_82_7 | אכן כאדם תמותון וכאחד השרים תפלו | Sin embargo, como Adam morirán, y como uno de los príncipes caerán. | Los jueces llamados `elohim` siguen siendo mortales. |
-| #bereshit_3_24 | ויגרש את האדם וישכן מקדם לגן עדן את הכרבים ואת להט החרב המתהפכת לשמר את דרך עץ החיים | Y expulsó al hombre; e hizo habitar desde el este del jardín de Éden a los querubines... | La clase lee `garash` con valor tipológico de repudio; pendiente de cotejo léxico. |
-| #tehilim_40_6 | זבח ומנחה לא חפצת אזנים כרית לי עולה וחטאה לא שאלת | Sacrificio y ofrenda de grano no has deseado; los oídos me abriste... | Numeración TTH/OE: el contenido sacrificatorio corresponde al hebreo de Salmo 40:7 MT. |
-| #tehilim_40_8 | לעשות רצונך אלהי חפצתי ותורתך בתוך מעי | En hacer tu voluntad, Elohim mío, me deleito, y tu Torah está dentro de mis entrañas. | יהוה cumple su propia sentencia; no delega a un inferior. |
-| #devarim_32_39 | ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא ואין מידי מציל | Yo hago morir y hago vivir... no hay quien de mi mano pueda salvar. | יהוה no delega plenitud de amor y juicio a una criatura. |
-| #bereshit_48_16 | המלאך הגאל אתי מכל רע יברך את הנערים... | el mensajero que me ha redimido de todo mal, bendiga a los jóvenes... | `malaj` redentor: manifestación enviada, no encarnación previa del Mesías. |
-| #lukas_1_17 | והוא ילך לפניו ברוח אליהו ובגבורתו להשיב לב אבות עלבנים... (Delitzsch) | Y él andará delante de Él en el rúaj y poder de Eliyáhu... | Iojanán como enviado profético que prepara pueblo para יהוה. |
-| #sodot_5_1 | וארא בימין הישב עלהכסא ספר כתוב פנים ואחור וחתום בשבעה חתמות (Delitzsch) | Y vi en la mano derecha del que estaba sentado sobre el trono un rollo escrito... | Nadie digno de abrir el rollo. |
-| #sodot_5_5 | ויאמר אלי אחד מןהזקנים אלתבכה הנה נצח האריה אשר הוא משבט יהודה שרש דוד... (Delitzsch) | ha vencido el león de la tribu de Iehudáh, la Raíz de David, para abrir el rollo... | El Cordero inmolado asume el juicio que nadie creado podía abrir. |
-| #qolasim_2_9 | כי בו בגופו שכן כלמלא האלהות ובו אתם נמלאים (Delitzsch) | Pendiente en TTH local | Plenitud de la deidad corporalmente en Yeshúa. |
-| #ivrim_1_6 | ובהביאו אתהבכור שנית לעולם אמר והשתחוולו כלאלהים (Delitzsch) | Pendiente en TTH local | `elohim` puede referirse a mensajeros celestiales. |
-| #ivrim_2_14 | ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם... למען אשר יבטל עלידי המות את אשרלו ממשלת המות (Delitzsch) | Pendiente en TTH local | Encarnación una vez para vencer al que tenía dominio de muerte. |
+| Referencia      | Hebreo (sin nikud)                                                                                            | TTH (ES)                                                                                       | Observación                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| #tehilim_82_1   | מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט                                                                  | Elohim toma su posición en la congregación de El; en medio de los jueces (heb.: elohim) juzga. | `elohim` como jueces en contexto de tribunal.                                          |
+| #tehilim_82_6   | אני אמרתי אלהים אתם ובני עליון כלכם                                                                           | Yo dije: Ustedes son elohim (poderosos; o, jueces), e hijos de Elyón todos ustedes.            | Cita directa usada por Yeshúa en #iojanan_10_34.                                       |
+| #tehilim_82_7   | אכן כאדם תמותון וכאחד השרים תפלו                                                                              | Sin embargo, como Adam morirán, y como uno de los príncipes caerán.                            | Los jueces llamados `elohim` siguen siendo mortales.                                   |
+| #bereshit_3_24  | ויגרש את האדם וישכן מקדם לגן עדן את הכרבים ואת להט החרב המתהפכת לשמר את דרך עץ החיים                          | Y expulsó al hombre; e hizo habitar desde el este del jardín de Éden a los querubines...       | La clase lee `garash` con valor tipológico de repudio; pendiente de cotejo léxico.     |
+| #tehilim_40_6   | זבח ומנחה לא חפצת אזנים כרית לי עולה וחטאה לא שאלת                                                            | Sacrificio y ofrenda de grano no has deseado; los oídos me abriste...                          | Numeración TTH/OE: el contenido sacrificatorio corresponde al hebreo de Salmo 40:7 MT. |
+| #tehilim_40_8   | לעשות רצונך אלהי חפצתי ותורתך בתוך מעי                                                                        | En hacer tu voluntad, Elohim mío, me deleito, y tu Torah está dentro de mis entrañas.          | יהוה cumple su propia sentencia; no delega a un inferior.                              |
+| #devarim_32_39  | ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא ואין מידי מציל                          | Yo hago morir y hago vivir... no hay quien de mi mano pueda salvar.                            | יהוה no delega plenitud de amor y juicio a una criatura.                               |
+| #bereshit_48_16 | המלאך הגאל אתי מכל רע יברך את הנערים...                                                                       | el mensajero que me ha redimido de todo mal, bendiga a los jóvenes...                          | `malaj` redentor: manifestación enviada, no encarnación previa del Mesías.             |
+| #lukas_1_17     | והוא ילך לפניו ברוח אליהו ובגבורתו להשיב לב אבות עלבנים... (Delitzsch)                                        | Y él andará delante de Él en el rúaj y poder de Eliyáhu...                                     | Iojanán como enviado profético que prepara pueblo para יהוה.                           |
+| #sodot_5_1      | וארא בימין הישב עלהכסא ספר כתוב פנים ואחור וחתום בשבעה חתמות (Delitzsch)                                      | Y vi en la mano derecha del que estaba sentado sobre el trono un rollo escrito...              | Nadie digno de abrir el rollo.                                                         |
+| #sodot_5_5      | ויאמר אלי אחד מןהזקנים אלתבכה הנה נצח האריה אשר הוא משבט יהודה שרש דוד... (Delitzsch)                         | ha vencido el león de la tribu de Iehudáh, la Raíz de David, para abrir el rollo...            | El Cordero inmolado asume el juicio que nadie creado podía abrir.                      |
+| #qolasim_2_9    | כי בו בגופו שכן כלמלא האלהות ובו אתם נמלאים (Delitzsch)                                                       | Pendiente en TTH local                                                                         | Plenitud de la deidad corporalmente en Yeshúa.                                         |
+| #ivrim_1_6      | ובהביאו אתהבכור שנית לעולם אמר והשתחוולו כלאלהים (Delitzsch)                                                  | Pendiente en TTH local                                                                         | `elohim` puede referirse a mensajeros celestiales.                                     |
+| #ivrim_2_14     | ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם... למען אשר יבטל עלידי המות את אשרלו ממשלת המות (Delitzsch) | Pendiente en TTH local                                                                         | Encarnación una vez para vencer al que tenía dominio de muerte.                        |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
-| --- | --- | --- | --- | --- |
-| **(אלהים)** | elohim | juez, mensajero, atributo divino o Ser supremo según contexto | אלהים | No reducir siempre a "Dios"; la clase insiste en lectura contextual (Ibn Ezra: pendiente de verificar). |
-| **(רחמים)** | rajamim | amor entrañable asociado a Elohim en la clase | רחם | Vinculación atributo/nombre: línea pedagógica; cotejar con comentadores. |
-| **(מלאך)** | malaj | mensajero, enviado (humano o celestial) | לאך | No leer con imaginario de "ángel" alado; `malaj elohim` ≠ `malaj יהוה` automáticamente. |
-| **(ἄγγελος)** | angelos | mensajero en griego de Yojanán | ἀγγελ- | Equivalencia aproximada con `malaj`; no implica identidad con Yeshúa en cada aparición. |
-| **(גרש)** | garash | expulsar, arrojar fuera | גרש | En #bereshit_3_24 la clase explora matiz de repudio; pendiente de verificación léxica. |
-| **(בן)** | ben | Hijo de Elohim: portador, representante, ejecutor | בן | No solo filiación biológica; ver [[../temas/ben_hijo_titulos_mesias|Ben y títulos del Mesías]]. |
-| **(מצוה)** | mitzvah | competencia/capacidad recibida (en notas hermanas) | צוה | En #iojanan_10_18 el mandamiento de Abba se enlaza con dominio sobre la vida. |
-| **(אמן)** | emun / aman | afirmarse, mostrar fidelidad | אמן | Traducciones de "creer" en #iojanan_10_37-42: fidelidad ante las obras, no adhesión emocional. |
+| Término       | Transliteración | Sentido en la nota                                            | Raíz o base | Observación                                                                                             |
+| ------------- | --------------- | ------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
+| **(אלהים)**   | elohim          | juez, mensajero, atributo divino o Ser supremo según contexto | אלהים       | No reducir siempre a "Dios"; la clase insiste en lectura contextual (Ibn Ezra: pendiente de verificar). |
+| **(רחמים)**   | rajamim         | amor entrañable asociado a Elohim en la clase                 | רחם         | Vinculación atributo/nombre: línea pedagógica; cotejar con comentadores.                                |
+| **(מלאך)**    | malaj           | mensajero, enviado (humano o celestial)                       | לאך         | No leer con imaginario de "ángel" alado; `malaj elohim` ≠ `malaj יהוה` automáticamente.                 |
+| **(ἄγγελος)** | angelos         | mensajero en griego de Yojanán                                | ἀγγελ-      | Equivalencia aproximada con `malaj`; no implica identidad con Yeshúa en cada aparición.                 |
+| **(גרש)**     | garash          | expulsar, arrojar fuera                                       | גרש         | En #bereshit_3_24 la clase explora matiz de repudio; pendiente de verificación léxica.                  |
+| **(בן)**      | ben             | Hijo de Elohim: portador, representante, ejecutor             | בן          | No solo filiación biológica; ver [[../temas/ben_hijo_titulos_mesias]].                                  |
+| **(מצוה)**    | mitzvah         | competencia/capacidad recibida (en notas hermanas)            | צוה         | En #iojanan_10_18 el mandamiento de Abba se enlaza con dominio sobre la vida.                           |
+| **(אמן)**     | emun / aman     | afirmarse, mostrar fidelidad                                  | אמן         | Traducciones de "creer" en #iojanan_10_37-42: fidelidad ante las obras, no adhesión emocional.          |
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Ibn Ezra | Comentario sobre usos de אלהים y atributos divinos | `elohim` como amor entrañable manifiesto | Pendiente de verificar |
-| Rudolf Meyer | Gramática hebrea (formas plurales) | Vestigio de artículo semítico en `elohim` | Pendiente de verificar |
-| Talmud / midrash | Uso judicial de אלהים en contexto de jueces | Respaldo de lectura de #tehilim_82 en Yojanán 10 | Mención indirecta en la clase |
-| Targum / comentarios | #bereshit_48_16, mensajero redentor | Distinguir aparición enviada de encarnación mesiánica | Pendiente de verificar |
-| Josefo / fuentes del siglo I | Expectativas mesiánicas y movimientos | Contexto de acusación por blasfemia | Mención indirecta en la serie |
-| Carta a los Ivrim | #ivrim_1_6, #ivrim_2_14 (Delitzsch) | Plenitud de deidad y encarnación única | Cotejado (Delitzsch local) |
-| Apocalipsis / Sodot | #sodot_5_1-5 (Delitzsch) | Nadie digno salvo el Cordero | Cotejado (Delitzsch local) |
+| Fuente                       | Referencia                                         | Uso en la nota                                        | Estado                        |
+| ---------------------------- | -------------------------------------------------- | ----------------------------------------------------- | ----------------------------- |
+| Ibn Ezra                     | Comentario sobre usos de אלהים y atributos divinos | `elohim` como amor entrañable manifiesto              | Pendiente de verificar        |
+| Rudolf Meyer                 | Gramática hebrea (formas plurales)                 | Vestigio de artículo semítico en `elohim`             | Pendiente de verificar        |
+| Talmud / midrash             | Uso judicial de אלהים en contexto de jueces        | Respaldo de lectura de #tehilim_82 en Yojanán 10      | Mención indirecta en la clase |
+| Targum / comentarios         | #bereshit_48_16, mensajero redentor                | Distinguir aparición enviada de encarnación mesiánica | Pendiente de verificar        |
+| Josefo / fuentes del siglo I | Expectativas mesiánicas y movimientos              | Contexto de acusación por blasfemia                   | Mención indirecta en la serie |
+| Carta a los Ivrim            | #ivrim_1_6, #ivrim_2_14 (Delitzsch)                | Plenitud de deidad y encarnación única                | Cotejado (Delitzsch local)    |
+| Apocalipsis / Sodot          | #sodot_5_1-5 (Delitzsch)                           | Nadie digno salvo el Cordero                          | Cotejado (Delitzsch local)    |
 
 ## El rango de `elohim`
 
@@ -169,6 +170,15 @@ El punto doctrinal principal es que Yeshúa no debe identificarse de manera auto
 - #sodot_5_1-5 con la muerte del Cordero: nadie creado puede abrir el rollo; el León vence como Cordero inmolado.
 - #bereshit_48_16 con #ivrim_2_14: el mensajero redentor de los patriarcas no debe confundirse automáticamente con una aparición preencarnada de Yeshúa.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual               | Observación concreta de la clase                                                                                                                                                                                                             | Tratamiento en esta nota                                                                                                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_10_33-36            | Eric explica que la defensa de Yeshúa depende del rango contextual de **(אלהים)**, _elohim_: la Escritura puede llamar así a quienes recibieron la palabra, y el Hijo santificado y enviado no queda refutado por la acusación de blasfemia. | **Apoyo textual y clarificación léxica:** se sigue la cita de Tehilim 82 y se distingue el uso judicial de la afirmación cristológica más amplia de la clase.                                            |
+| #iojanan_10_37-38            | La clase insiste en que las obras del Padre son el criterio visible: aun quien tropieza con la apariencia humana de Yeshúa debe examinar sus obras y reconocer la relación «el Padre es en Mí y Yo en el Padre».                             | **Apoyo textual con alcance cualificado:** las obras y la fórmula de unidad están en el pasaje; la identificación de esa unidad con plenitud ontológica se conserva como desarrollo atribuido.           |
+| #iojanan_10_40-42            | Eric reúne el testimonio de Iojanán, que no hizo señales, con la respuesta de muchos que se afirmaron en Yeshúa donde Iojanán había inmerso.                                                                                                 | **Apoyo textual:** el cierre sigue el orden del relato y no convierte la falta de señales de Iojanán en falta de autoridad profética.                                                                    |
+| #bereshit_48_16; #ivrim_2_14 | La exposición diferencia al mensajero redentor de los patriarcas de la encarnación única del Mesías y usa la carne y sangre de Ivrim para negar que Yeshúa sea simplemente otro `malaj`.                                                     | **Inferencia cualificada y contraste canónico:** `malaj`/`angelos` se explican como «mensajero»; la distinción entre apariciones enviadas y encarnación queda atribuida y requiere cotejo caso por caso. |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en hebreo y fuentes léxicas la afirmación de que `elohim` como atributo del amor entrañable es una lectura sostenida por Ibn Ezra.
@@ -183,6 +193,12 @@ El punto doctrinal principal es que Yeshúa no debe identificarse de manera auto
 La clase presenta #iojanan_10_33-42 como una defensa hebrea de Yeshúa. El problema no es si un hombre cualquiera puede autoproclamarse Dios, sino si las obras, el testimonio de Iojanán y la Escritura permiten reconocer que en Yeshúa está Abba. La respuesta de la clase es afirmativa: Yeshúa es `elohim` como ejecutor de la voluntad divina y, más profundamente, como manifestación corporal de la plenitud del amor de יהוה.
 
 El excursus sobre mensajeros protege la misma tesis: si Yeshúa es la encarnación única del Elohim vivo, no debe ser reducido a un "ángel" más de las apariciones antiguas. Los mensajeros anteriores fueron comisiones y destellos; en el Mesías vino la plenitud.
+
+## Créditos
+
+- Exposición base: Eric de Jesús Rodríguez Mendoza, «Yojanán 10: Elohim, obras y mensajero», [video público](https://www.youtube.com/watch?v=FV3WHeOQbzg).
+- `source_id`: `youtube:FV3WHeOQbzg`.
+- Esta nota organiza y contrasta las observaciones de la clase con el texto local; las identificaciones léxicas e históricas que requieren cotejo permanecen marcadas como pendientes.
 
 ## Ver también
 

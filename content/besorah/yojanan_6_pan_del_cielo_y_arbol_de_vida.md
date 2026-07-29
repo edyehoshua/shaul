@@ -250,3 +250,9 @@ La clase relaciona este punto con la imagen de Adam: del costado abierto de Adam
 ## Conclusión
 
 Yojanan 6 no presenta solo una disputa sobre pan. Presenta la promesa de Aba hecha carne: el Mesías descendido de los cielos, el pan vivo, el árbol de vida acercado al hombre expulsado, el korban cuya carne y sangre dan vida. El hombre no llega a esta vida por lectura superficial, decisión autónoma o privilegio religioso; es enseñado por יהוה, traído por Aba, afirmado por el Mesías y levantado en el día postrero.
+
+## Créditos
+
+- Exposición base: Eric de Jesús Rodríguez Mendoza, «Yojanán 6: pan del cielo y árbol de vida», [video público](https://www.youtube.com/watch?v=3mikRgwy-xw).
+- `source_id`: `youtube:3mikRgwy-xw`.
+- Esta nota organiza y contrasta la exposición con el texto local; las observaciones del expositor se conservan como atribuidas y las extensiones pendientes permanecen señaladas.
