@@ -578,6 +578,14 @@ La trazabilidad pública del ciclo también requiere distinguir sus aportes. `yo
 
 El término **(כפר)**, _kafar_, significa cubrir y, en la construcción sacerdotal, hacer reconciliación o expiación; su fuerza contextual nombra la acción ordenada sobre la Santidad, la Tienda y el altar. **(נשא)**, _nasa_, significa llevar, cargar o levantar; en 16:22 describe al macho cabrío llevando las iniquidades al desierto. «Pagar una deuda» o «borrar mecánicamente» son equivalencias **teológicas y aproximadas**, no sentidos automáticos de las formas. La unidad textual del día es exacta; la lectura mesiánica posterior permanece canónica y aproximada.
 
+## Síntesis textual: una reconciliación, varias acciones coordinadas
+
+La frase de Eric —«la una sin la otra no tiene sentido»— se entiende mejor al conservar el orden de la perícopa. Primero Aharón trata la Santidad, la Tienda y el altar mediante la sangre; después, terminado ese trabajo, confiesa las iniquidades sobre el macho cabrío vivo y lo envía al desierto. **(כלה)**, _kalah_, significa terminar o completar; en 16:20 marca el cierre de una fase antes de comenzar la siguiente. **(התודה)**, _hitvadah_, significa confesar o reconocer; su fuerza contextual es una declaración ritual, no una emoción privada. La unidad del día es **textual y exacta**; decir que las dos cabras son una sola acción indiferenciada es **teológico y aproximado**.
+
+El vocabulario mantiene también la diferencia entre tratar y remover. **(הזה)**, _hizah_, significa rociar o salpicar; describe una acción sacerdotal localizada. **(נשא)**, _nasa_, significa llevar, cargar o levantar; en 16:22 describe al macho cabrío llevando las iniquidades hacia una tierra separada. **(שלח)**, _shalaj_, significa enviar o despachar; «eliminar el pecado» resume el efecto narrativo de la secuencia, pero no es la equivalencia exacta de ninguno de esos verbos. La lectura mesiánica de Eric puede recibir el patrón, siempre que no borre sus sujetos, lugares y momentos.
+
+La reconciliación tampoco termina en el centro cultual. Aharón cambia sus vestiduras y se baña; el conductor del macho cabrío y quien quema los restos lavan su cuerpo y sus ropas; la asamblea aflige su _nefesh_ y cesa del trabajo. **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; «alma separable» es una equivalencia **tradicional y aproximada**, no una definición obligatoria. OE y TTH muestran así una respuesta corporal y comunitaria. Eric acierta al exigir una reconciliación que alcance la vida visible, pero la forma exacta del capítulo sigue siendo un rito anual regulado por sacerdote, sangre, confesión, envío, lavado, reposo y purificación.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

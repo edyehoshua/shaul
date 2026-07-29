@@ -466,6 +466,14 @@ Las cinco fuentes no deben aplanarse en una sola transcripción. `youtube:Ps_KEo
 
 El TTH resume el cierre: «servirá a sus hermanos en la Tienda del Encuentro, para guardar la custodia». La forma **(משמרת)**, _mishmeret_, significa custodia, guardia o encargo; su fuerza contextual es una responsabilidad recibida que continúa después de cesar la labor pesada. «Liderazgo espiritual» es una equivalencia **teológica y pedagógica**, no el sentido normal del sustantivo. La lectura queda así en tres niveles: la dirección de las lámparas y la regulación del servicio son textuales; la aplicación de Eric a la gloria personal y al relevo comunitario es una inferencia bien apoyada; y cualquier regla universal para líderes actuales sería una extensión aproximada.
 
+## Síntesis textual: luz orientada, servicio recibido y custodia
+
+La lectura completa de Bamidbar 8 no permite separar la primera instrucción de la última. Las lámparas no son encendidas para que Aharón se exhiba: **אל מול פני המנורה**, _el mul penei hamenorah_, dirige la luz hacia la faz de la Menoráh. **(מול)**, _mul_, significa frente o en dirección a; su fuerza contextual es espacial. **(פנים)**, _panim_, significa rostro, faz o presencia; «presencia espiritual» es una equivalencia **pedagógica y aproximada**, no la traducción exacta de esta frase. La observación de Eric sobre una luz que no nace del protagonismo del servidor queda apoyada como aplicación, mientras el sentido inmediato sigue siendo la disposición ritual de siete lámparas.
+
+Después, el texto desplaza la atención desde el objeto hacia la comunidad. Israel pone sus manos sobre los leviím, Aharón los presenta y יהוה los recibe «en lugar de todo primogénito». **(סמך)**, _samakh_, significa apoyar o poner; aquí expresa identificación y entrega pública. **(תחת)**, _tajat_, significa debajo o en lugar de; su fuerza contextual es sustitución funcional dentro del servicio, no superioridad moral. Eric puede aplicar este patrón a servidores que reciben una tarea para el bien común, pero «investidura de poder» sería una equivalencia **pedagógica e inexacta**.
+
+El cierre convierte la vocación en custodia verificable. El levita que deja la labor pesada no abandona a sus hermanos: **ושרת את אחיו**, _vesheret et ajav_, «servirá a sus hermanos». **(שרת)**, _sharet_, significa servir o asistir; **(שמר)**, _shamar_, significa guardar o custodiar. En contexto, ambos verbos describen una responsabilidad limitada por el santuario y por la orden recibida. La síntesis de Eric es, por tanto, sólida cuando dice que la luz debe volverse servicio; excedería el capítulo si transformara el régimen levítico en una regla literal para toda autoridad contemporánea.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
