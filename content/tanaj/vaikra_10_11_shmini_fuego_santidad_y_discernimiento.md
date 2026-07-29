@@ -118,6 +118,14 @@ En 11:29 aparecen los animales que «serán impuros entre los animales que se mu
 
 El cierre de la unidad recuerda que la impureza también puede afectar la semilla destinada a la siembra (11:37–38). La santidad se despliega en cuerpos, alimentos, recipientes y agricultura; no queda confinada a la emoción del culto. Por eso el llamado «sean santos» debe leerse junto con las instrucciones que lo hacen visible: el texto pide distinguir, lavar, esperar, quebrar o conservar según cada caso.
 
+## Discernir antes de enseñar — Vayikra 10:8–11; 11:44–47
+
+La transición entre el fuego y las leyes alimentarias no es accidental. Después de la muerte de Nadab y Avihu, יהוה encarga al sacerdote no beber vino ni bebida embriagante al entrar en la Tienda y añade el propósito: **ולהבדיל בין הקדש ובין החל ובין הטמא ובין הטהור**, _ulehavdil ben haqqodesh uven haqqol, uven hattame uven hattahor_. **(להבדיל)**, _lehavdil_, procede de בדל, _badal_, «separar o distinguir»; su fuerza contextual es establecer diferencias cultuales para poder servir y enseñar. «Discernimiento espiritual» es una equivalencia **pedagógica**, no el sentido exclusivo del verbo.
+
+El v. 11 usa **ולהורת**, _ulehorot_, de ירה, _yarah_, «enseñar, instruir o mostrar». Aquí su fuerza es hacer conocer a Israel los estatutos que יהוה habló por medio de Mosheh; «predicar» es una equivalencia **aproximada** y más amplia. Eric observa que el servidor no puede guiar desde la confusión. El texto lo confirma, pero la razón inmediata es sacerdotal y didáctica: distinguir y enseñar preceden a cualquier aplicación sobre liderazgo contemporáneo.
+
+El cierre de Vayikra 11 une esa instrucción con el cuerpo del pueblo: «se consagrarán y serán santos, porque santo soy Yo» (#vaikra_11_44). **(והתקדשתם)**, _vehitqadashtem_, significa consagrarse o santificarse; **(קדוש)**, _qadosh_, significa santo, apartado o consagrado. «Separarse del mundo» es una aplicación **pedagógica**; la equivalencia contextual más exacta es vivir las distinciones que la perícopa acaba de ordenar. La exposición de Eric queda así preservada y evaluada: la santidad recibida se vuelve discernible en enseñanza, mesa, contacto y obediencia, sin que cada detalle alimentario se convierta automáticamente en alegoría moral.
+
 ## Conclusión
 
 Vayikra 10–11 une juicio, duelo, enseñanza, mesa, contacto y memoria del éxodo. La pregunta no es si el servidor parece fervoroso, sino si se acerca conforme a la palabra de יהוה; no es si la santidad queda en una emoción interior, sino cómo el pueblo distingue, come, toca y vive. Eric conserva el llamado a un servicio santo, y el texto lo afina: la cercanía necesita mandato, el duelo necesita discernimiento, la impureza tiene estados y remedios definidos, y la santidad recibida se reconoce en obediencia concreta.

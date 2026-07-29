@@ -26,7 +26,7 @@ sources:
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
   - "youtube:iJJX9zpbryk"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -35,7 +35,7 @@ Va'etchanán comienza con una súplica que no obtiene el resultado terrenal pedi
 
 ## Alcance de la nota
 
-Se sigue la parashá desde la súplica de Moisés hasta Devarim 7:11 en unidades textuales sucesivas. La clase hace afirmaciones lingüísticas sobre **ואתחנן**, _va’etchanan_, **חן**, _chen_, **חזק** y **אמץ\_, y distingue **חקים** y **משפטים\*\*. Se presenta la forma fuente, el sentido normal y la fuerza contextual; las conexiones con la Jerusalén celestial, Yehoshua y las cartas apostólicas se mantienen como lectura atribuida y pedagógica, no como sustituto del texto local.
+Se sigue la parashá desde la súplica de Moisés hasta Devarim 7:11 en unidades textuales sucesivas. La clase hace afirmaciones lingüísticas sobre **ואתחנן**, _va’etchanan_, **חן**, _chen_, **חזק** y **אמץ**, y distingue **חקים** y **משפטים**. Se presenta la forma fuente, el sentido normal y la fuerza contextual; las conexiones con la Jerusalén celestial, Yehoshua y las cartas apostólicas se mantienen como lectura atribuida y pedagógica, no como sustituto del texto local.
 
 ## Hoja de comparación
 
@@ -130,6 +130,14 @@ Sin embargo, la memoria tampoco compra la elección. Devarim 7:7-9 explica que I
 - #devarim_34_1-4 confirma la visión de la tierra desde el monte, pero no elimina el límite de 3:27.
 - #tehilim_119_65-72 comparte la idea de que el bien de יהוה puede enseñar mediante disciplina.
 - Hebreos 11:13,16 y Colosenses 3:1-4 son conexiones usadas por Eric para el horizonte celestial; no deben confundirse con el sentido inmediato de Devarim.
+
+## La súplica limitada todavía produce servicio — Devarim 3:23-29
+
+La primera unidad merece conservar su doble movimiento completo. Moisés dice **ואתחנן אל יהוה**, _va’etchanan el יהוה_: **(ואתחנן)**, _va’etchanan_, es una forma verbal de חנן, _janan_, «implorar favor o pedir gracia»; su fuerza contextual es la súplica insistente de Moisés, no una declaración de que el suplicante controle el resultado. «Participar de la gracia» es una equivalencia **teológica y pedagógica**; «suplicó» es la equivalencia aproximada más directa. La clase de Eric acierta al poner la gracia en el centro, pero el relato conserva la negativa: «no me hables más de este asunto» (#devarim_3_26, TTH).
+
+La prohibición no cancela la visión ni la transmisión. יהוה manda a Moisés subir a la cumbre, levantar los ojos y ver hacia el oeste, el norte, el sur y el este; después le ordena fortalecer a Yehoshua. **(חזק)**, _jazaq_, significa ser fuerte o fortalecer, y **(אמץ)**, _amats_, significa ser firme, esforzarse o dar ánimo. En **וחזקהו ואמצהו**, _vejazeqehu veametsehu_, las formas tienen a Yehoshua como objeto: «fortalécelo y anímalo» es **contextual y aproximado**, no una prueba de dos etapas psicológicas separadas. Eric conserva una observación importante al relacionar la gracia con capacitar a otro; el texto la apoya mediante una comisión concreta, no mediante una abstracción sobre éxito personal.
+
+Así, el juicio y el favor permanecen juntos. Moisés no cruza el Jordán, pero no queda excluido de la palabra ni del trabajo de preparar al sucesor. La conexión de Eric con una herencia celestial puede funcionar como lectura canónica **posterior y pedagógica**; no reemplaza la tierra visible que Moisés recibe orden de contemplar. El texto inmediato enseña que una petición no concedida puede quedar dentro de una relación de pacto cuando el oyente sigue escuchando, ve lo que יהוה le muestra y entrega fielmente el encargo.
 
 ## Pendiente de verificar
 
