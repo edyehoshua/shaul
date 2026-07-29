@@ -128,6 +128,14 @@ El OE dice **ויקם שדה עפרון... לאברהם למקנה לעיני ב
 
 Así se evalúa el énfasis de Eric sin convertirlo en una regla absoluta contra toda relación con quienes no comparten la fe. Bereshit 23 condena aquí la dependencia patrimonial incierta, no ordena aislarse de toda negociación. Abraham trata con respeto a los hijos de Jet, se inclina ante ellos y compra con transparencia. La separación es una administración fiel de la promesa, no desprecio del prójimo.
 
+## Del lamento a una posesión concreta — vv. 1–4, 17–20
+
+El movimiento del capítulo no empieza con la cifra de Efrón, sino con la muerte de Sarah. El OE dice **ויבא אברהם לספד לשרה ולבכתה**, «Abraham vino a lamentar a Sarah y a llorarla» (#bereshit_23_2); el TTH mantiene ambas acciones. **(ספד)**, _safad_, significa hacer duelo o lamentar públicamente; **(בכה)**, _bakah_, significa llorar. En su fuerza contextual, los dos verbos muestran que el cuidado de la herencia no reemplaza el dolor. «Fe sin duelo» sería una equivalencia **inexacta**: el texto presenta al patriarca llorando antes de negociar.
+
+La clase de Eric lee la compra como una decisión de largo alcance para los herederos. Esa observación gana precisión cuando se mantiene el orden narrativo: Abraham primero se levanta «de delante de su muerto» (#bereshit_23_3), después habla con los hijos de Jet y solo al final entierra a Sarah en la parcela adquirida (#bereshit_23_19). **(קום)**, _qum_, significa levantarse o ponerse de pie; aquí marca el paso corporal del lamento a una responsabilidad pública, no una desaparición instantánea de la tristeza. «Recomponerse» es una equivalencia **pedagógica**, mientras que la secuencia exacta es duelo, petición, compra y sepultura.
+
+El cierre repite que el campo fue establecido para Abraham «a ojos de los hijos de Jet» y que allí fue enterrada Sarah. **(קום)** también aparece en la fórmula de que el campo «se levantó» o quedó establecido para Abraham (#bereshit_23_17), pero el contexto de **(מקנה)**, _miqneh_, «adquisición o compra», fija el sentido patrimonial. «Garantía de la herencia completa» sería una equivalencia **inexacta**: la parcela es una posesión sepulcral concreta, aunque dentro del arco de la promesa. Así, la aplicación de Eric sobre proteger a los descendientes queda apoyada como inferencia razonable, no como un litigio futuro narrado por el capítulo.
+
 ## Escuchar, pesar y dejar testigos: la forma pública de la esperanza
 
 La negociación de Bereshit 23 no es un intercambio privado entre Abraham y Efrón. Abraham habla ante los hijos de Jet, Efrón responde «a los oídos» de su pueblo y Abraham pesa la plata delante de ellos (#bereshit_23_10, 16, 18). La observación de Eric sobre no depender de un favor recibe aquí su soporte más firme: el relato repite actores, lugar y testigos para mostrar que la posesión de la cueva no descansa en una promesa informal.
