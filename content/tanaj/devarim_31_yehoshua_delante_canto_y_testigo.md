@@ -93,6 +93,16 @@ Eric lee la secuencia histórica —manifestación del rostro, luego apostasía�
 | **(שירה)**         | _shirah_         | Canción, canto                             | Testigo puesto en la boca de Israel                      | «Poema» es aproximado                               |
 | **(אחרית הימים)**  | _ajarit hayamim_ | Posteridad / final de los días             | Horizonte de la corrupción anunciada                     | «Escatología» plena es pedagógica                   |
 
+## La lectura pública como memoria obediente
+
+La orden de leer la Torah no aparece como un acto privado de especialistas. El OE dice **הקהל את העם האנשים והנשים והטף וגרך אשר בשעריך למען ישמעו ולמען ילמדו ויראו את יהוה אלהיכם ושמרו לעשות את כל דברי התורה הזאת** (#devarim_31_12): «reúne al pueblo, los hombres, las mujeres, los niños y tu ger que está en tus puertas, para que oigan, aprendan, teman a יהוה y guarden para hacer todas las palabras de esta Torah». TTH conserva la cadena de oír, aprender, temer y guardar. La observación de Eric de que la asamblea necesita una enseñanza audible recibe aquí apoyo directo, pero el pasaje no reduce el temor a una emoción pasajera: lo conecta con hacer.
+
+**(הקהל)**, _haqhel_, es una forma causativa de קהל, «reunir o convocar»; su fuerza contextual es formar una asamblea visible en el tiempo señalado, no simplemente enviar un mensaje. «Evento comunitario» es una equivalencia pedagógica. **(שמעו)**, _shimu_, significa oír, escuchar o atender; aquí la audición debe producir aprendizaje. **(למדו)**, _limdu_, significa aprender o ser instruido; «estudiar» es aproximado, porque el versículo añade el temor y la práctica. **(שמרו)**, _shamru_, significa guardar, cuidar u observar; en «guardar para hacer» la forma impide separar conocimiento de obediencia.
+
+La inclusión del **(גר)**, _ger_, «residente extranjero o forastero», también precisa la aplicación de Eric sobre una comunidad que no puede reservar la Torah a una élite. El término no significa automáticamente «todo visitante moderno», pero en este contexto designa al residente dentro de las puertas de Israel, sujeto a la convocatoria. La lectura pública, por tanto, es **exactamente** inclusiva en la lista del capítulo; convertirla en un programa contemporáneo particular es **pedagógico y aproximado**.
+
+Esta unidad también explica por qué el canto será testigo. La palabra oída en la asamblea debe permanecer en la boca y orientar la conducta antes de que llegue la crisis. El canto no funciona como amuleto contra la apostasía: Devarim 31 anuncia que el pueblo puede conocer la palabra y aun así apartarse. Eric acierta al presentar memoria y obediencia juntas; el texto limita la aplicación al mostrar que el testigo denuncia precisamente una infidelidad responsable, no una falta de información.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual                         | Observación concreta de la clase                                                                  | Tratamiento en esta nota                                                                                           |
