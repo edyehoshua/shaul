@@ -141,6 +141,14 @@ La imagen del alfarero establece asimetría sin entregar un sistema completo de 
 
 El cierre de la perícopa impide que la doctrina se convierta en desprecio. **(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; en 9:24 su fuerza contextual incluye a judíos y naciones. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; en 9:30-33 contrasta la justicia alcanzada por las naciones mediante emunah con la que Israel persigue como si procediera de obras. «Justicia» es una glosa **directa**, pero su fuerza es **argumental**: Pablo denuncia una manera de perseguirla, no toda obediencia. La enseñanza de Eric recibe **apoyo textual cualificado** cuando distingue función y salvación; Romanos 9 exige mantener juntos promesa, misericordia, llamamiento, dolor por Israel y tropiezo ante la piedra.
 
+## Reparación final: propósito, llamamiento y tropiezo
+
+Romanos 9 debe conservar la tensión entre la función histórica y la respuesta ante la justicia. En 9:17, **(ἐγείρω)**, _egeirō_, significa levantar, despertar o suscitar; su fuerza contextual es que Faraón aparece dentro de un propósito de manifestar el poder y proclamar el Nombre. «Levantar» es **directo**, pero concluir desde esa función que el destino final de Faraón queda resuelto sería **inferencial**. La observación de Eric en `youtube:atIdZY13b_c` recibe por ello apoyo **cualificado**: utilidad histórica no equivale automáticamente a salvación personal.
+
+La objeción de 9:19 y la imagen del alfarero tampoco deben separarse del cierre del capítulo. **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o hallar falta; aquí formula la pregunta sobre el reproche divino. **(κεραμεύς)**, _kerameus_, significa alfarero, y **(πλάσμα)**, _plasma_, cosa formada o criatura modelada. Las glosas son **directas**; la asimetría entre formador y criatura es **contextual**. La comparación con **יוצר**, _yotser_, «formador o alfarero», es **aproximada y pedagógica**, no prueba que el hebreo sea la forma fuente ni entrega por sí sola una teoría exhaustiva de cada destino.
+
+Finalmente, 9:30-33 devuelve la discusión a la justicia: **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra; describe la respuesta ante la piedra de Sion. «Tropezar» es **directo** como imagen, mientras usarlo para condenar indistintamente a Israel sería **ilegítimo**, porque el capítulo comenzó con dolor, pactos y promesas reales. La secuencia canónica es, entonces, promesa no frustrada, misericordia, llamamiento de judíos y naciones, y respuesta de emunah; las conclusiones soteriológicas que excedan esa secuencia son **cualificadas**, no afirmaciones necesarias del video o de un término aislado.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]

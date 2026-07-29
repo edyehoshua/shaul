@@ -312,6 +312,14 @@ El paso a la circuncisión conserva la misma lógica. **(ὠφελέω)**, _ōph
 
 La perícopa, por tanto, no responde con una etiqueta nueva, sino con una secuencia: la bondad conduce a la **(μετάνοια)**, _metanoia_, «cambio de mente» o arrepentimiento; la **(συνείδησις)**, _syneidēsis_, «conciencia», acusa o defiende dentro del juicio; y la señal debe corresponder a una vida que honra a Elohim. «Teshuvá», retorno, es una relación **pedagógica y aproximada** con _metanoia_, no la forma griega de Pablo. La enseñanza atribuible de Eric queda así conservada y evaluada: la identidad confesada no es un escudo, pero la autocrítica de Pablo tampoco es permiso para borrar la historia de Israel.
 
+## Reparación final: la identidad se prueba ante el juicio
+
+La perícopa debe conservar su movimiento completo antes de aplicar la pregunta pública de Eric sobre qué significa ser judío y qué significa ser creyente. **(μετάνοια)**, _metanoia_, significa cambio de mente o arrepentimiento; en #romanos_2_4 su fuerza es el retorno al que conduce la bondad de Elohim. La relación con **(תשובה)**, _teshuvá_, «retorno», es **aproximada y pedagógica**, no una equivalencia exacta entre las formas. **(ἀποδίδωμι)**, _apodidōmi_, significa dar, devolver o retribuir; en 2:6 introduce la rendición de cuentas conforme a las obras. «Dar» es **directo**, pero leerlo como mérito autónomo sería **ilegítimo** frente a la acusación universal que Romanos 3 desarrolla.
+
+En 2:15-16, **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; su fuerza contextual es **forense**, porque acusa o defiende mientras Elohim juzga los secretos. No es una autoridad privada ni una garantía de que toda intuición sea verdadera. En 2:28-29, **(περιτομή)**, _peritomē_, significa circuncisión, y **(καρδία)**, _kardia_, significa corazón o centro interior. Sus glosas son **directas**; la circuncisión del corazón «en Rúaj, no en letra» es una aplicación **contextual y cualificada**: exige coherencia ante Elohim, pero no borra la identidad histórica de Israel ni convierte la crítica de Pablo en desprecio étnico.
+
+Así, la observación atribuible a Eric en `youtube:6D7Yj0bDSfU` queda limitada a su título público y a la pregunta que armoniza con el cierre del capítulo; no se le atribuye una explicación detallada que la fuente disponible no documenta. Romanos 2 sí permite afirmar, en orden, que la bondad llama al retorno, la conciencia testifica, la conducta queda juzgada y la señal visible no funciona como escudo. La evaluación es **textual y cualificada**, mientras la conexión entre _metanoia_ y _teshuvá_ permanece **pedagógica y aproximada**.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
