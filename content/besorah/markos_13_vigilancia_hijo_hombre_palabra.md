@@ -28,6 +28,11 @@ references:
   - "#ivrim_5_7"
   - "#ivrim_5_8"
   - "#ivrim_5_9"
+  - "#daniel_9_24"
+  - "#daniel_9_25"
+  - "#daniel_9_26"
+  - "#daniel_9_27"
+  - "#lucas_21_20"
 sources:
   - "https://www.youtube.com/watch?v=G5SL_tqQ8eA"
   - "https://www.youtube.com/watch?v=cLaRVGxIAy8"
@@ -41,6 +46,8 @@ sources:
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/delitzsch/json/matthew.json"
   - "docs/scriptures/delitzsch/json/hebrews.json"
+  - "docs/scriptures/oe/json/daniel/9.json"
+  - "docs/scriptures/tth/json/lukas.json"
 translation: "[TTH, Delitzsch]"
 source_ids:
   - "youtube:G5SL_tqQ8eA"
