@@ -165,6 +165,12 @@ El Delitzsch local de Kefa alef 2:9 dice **וְאַתֶּם הִנְּכֶם ז�
 
 Por tanto, Eric acierta al llevar el nombre santificado hacia un testimonio público, pero el recorrido debe conservar el orden textual: apartarse de la impureza, restituir el uso inadvertido, acercar una víctima íntegra, respetar tiempo y consumo, y guardar los mandamientos del Dios que sacó a Israel de Egipto.
 
+## Error, restitución y límites del ministro — vv. 10–16
+
+La observación de Eric sobre no tratar el «pan de Elohim» como una comida cualquiera necesita incluir la salida que el propio capítulo ofrece para el error. OE dice: **ואיש כי יאכל קדש בשגגה ויסף חמשיתו עליו ונתן לכהן את הקדש**, «y si un hombre come una cosa santa por inadvertencia, añadirá su quinta parte y dará al sacerdote la cosa santa» (#vaikra_22_14); TTH conserva la secuencia de comer, añadir una quinta parte y entregar. **(אכל)**, _akal_, significa comer; en **כי יאכל**, _ki yojal_, presenta el acto de consumo. **(שגגה)**, _shegagah_, significa error o inadvertencia; su fuerza contextual distingue una falta no intencional de una apropiación desafiante. «Descuido espiritual» es una equivalencia pedagógica, no el sentido completo de la forma.
+
+La reparación tampoco queda desligada de la responsabilidad comunitaria. Los vv. 15–16 advierten que los sacerdotes no deben profanar las santidades ni hacer que el pueblo cargue con culpa al comerlas. **(נשא)**, _nasa_, significa levantar, llevar o cargar; en **והשיאו אותם עון אשמה**, _vehis'u otam avon ashamah_, su fuerza contextual es hacer que otros soporten una culpa o responsabilidad cultual. «Manipular la conciencia» es una aplicación aproximada: el texto habla primero de santidades, culpa y reparación dentro del servicio. Eric acierta al denunciar la secularización de lo consagrado, pero el mismo pasaje limita al ministro: la santidad no autoriza a inventar cargas más allá del mandato ni a borrar la diferencia entre error reparable y rebelión.
+
 ## Conclusión
 
 Vaikra 22 no trata la santidad como prestigio del sacerdote ni como una apariencia exterior. Ordena cómo se guarda lo consagrado, cómo se repara un uso inadvertido, quién participa de una porción sacerdotal y qué animal puede subir al altar. Todo termina con el nombre de יהוה santificado en medio de Israel y con la memoria de Egipto. La integridad que el capítulo demanda es, por tanto, una respuesta concreta al Dios que santifica y libera.

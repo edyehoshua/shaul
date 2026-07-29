@@ -178,6 +178,12 @@ El Delitzsch local de Kefa alef 2:9 relee esa vocación así: **וְאַתֶּם
 
 Así, la observación de Eric recibe una evaluación graduada. Es **exacto** que la santidad se dirige a la asamblea y que debe reconocerse en el trato; es **canónico y aproximado** enlazarla con «nación santa» en Kefa; y sería **inexacto** usar la relectura para convertir el santuario de Vaikra 19 en una idea sin campo, juicio ni medidas honestas.
 
+## La santidad se verifica en el trato y en la medida — vv. 9–18, 33–37
+
+La lectura de Eric sobre una santidad que alcanza la vida diaria queda especialmente comprobada por la secuencia entre el campo y la balanza. OE ordena: **לא תעשו עול במשפט במדה במשקל ובמשורה**, «no harán injusticia en juicio, en medida, en peso y en capacidad» (#vaikra_19_35); TTH mantiene la lista de ámbitos donde puede falsearse la justicia. **(עול)**, _avel_, significa injusticia, fraude o acto torcido; aquí su fuerza contextual es una alteración verificable de la decisión o del instrumento. «Corrupción económica» es una síntesis aproximada y pedagógica, no una sustitución del vocabulario concreto de juicio, peso y medida. La observación de Eric recibe apoyo cuando se mantiene pegada a esos instrumentos, no cuando se reduce a una intención interior.
+
+El cierre une comercio honrado, memoria y obediencia: **ושמרתם את כל חקותי ואת כל משפטי ועשיתם אתם אני יהוה**, «guardarán todos mis estatutos y todos mis juicios, y los harán; yo soy יהוה» (#vaikra_19_37). **(שמר)**, _shamar_, significa guardar, observar o custodiar; junto con **(עשה)**, _asah_, «hacer o realizar», exige conservar y practicar la instrucción. «Santidad integral» es una equivalencia pedagógica útil solo si incluye al pobre, al _ger_, al compañero, al tribunal y al mercado. Eric acierta al decir que la distinción dada por יהוה debe verse públicamente; el texto precisa cómo: dejando rebusco, rechazando el odio, amando al compañero y usando medidas justas.
+
 ## Conclusión
 
 Vaikra 19 enseña una santidad que se camina en la tierra: dejar borde al pobre, no mentir al compañero, no rebajar al vulnerable, no alimentar el odio callado, reprender con verdad y amar sin venganza. La distinción que יהוה da a su pueblo no produce castas internas; produce un trato que teme su santuario y guarda su Nombre. Ser _qedoshim_ es responder al Santo de Israel en el campo, en el juicio y en el corazón.
