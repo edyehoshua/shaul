@@ -71,6 +71,16 @@ Marcos 12 no usa las controversias del templo para cerrar discusiones académica
 - La transcripción automática no se trata como cita literal. Afirmaciones sobre herodianos, “dos poderes”, Zóhar, genealogías y una interpretación exclusivamente no humana del Mesías quedan delimitadas.
 - Los textos de la hoja de comparación se tomaron del corpus local TTH. La parte inicial del capítulo (12:1-17) no cuenta aquí con clase exclusiva adicional y no se inventa.
 
+### Control de fuentes y alcance
+
+| Fuente pública                   | Tramo que se le atribuye                                              | Límite de atribución                                                                                                                        |
+| -------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parte 37 (`youtube:pANyVs_rkmU`) | Marcos 12:18-27: levirato, resurrección, Escritura y poder de Elohim  | La observación se contrasta con Devarim 25:5-6 y Shemot 3:6; no se presenta como tratado completo sobre la vida futura.                     |
+| Parte 38 (`youtube:zaeuqpePDmc`) | Marcos 12:28-37: Shemá, amor al prójimo y Salmo 110                   | Se conserva la pregunta narrativa sobre el Señor de David; las conclusiones metafísicas del expositor quedan atribuidas y calificadas.      |
+| Parte 39 (`youtube:dh5VYLTt5v4`) | Continuación doctrinal sobre YHWH, Yehoshua y el señorío en Marcos 12 | El título público identifica el tema, pero no autoriza a reconstruir frases no cotejadas; la prueba principal sigue siendo Marcos 12:35-37. |
+
+Los tres identificadores son distintos y corresponden a créditos públicos al final de la nota. Esta matriz evita asignar la sección 12:1-17 a una clase inexistente y separa el argumento verificable de Marcos de las expansiones doctrinales de cada fuente.
+
 ## Hoja de comparación
 
 | Referencia       | Texto local                                                                                                                                                                                                                         | Función en la lectura                                                                             |
