@@ -173,7 +173,7 @@ El cierre hace que la teología sea evaluable en la vida social. **Κατεσθ�
 
 Por eso la secuencia completa no es un conjunto de temas aislados: Escritura y poder corrigen una esperanza mal planteada; el amor a יהוה y al prójimo corrige una religión separada del cuidado; la pregunta a David impide domesticar al Mesías; y la viuda queda protegida por el contexto de la denuncia, aun cuando su entrega sea reconocida. La enseñanza de Eric sobre vida entregada y fidelidad comunitaria encaja con este movimiento. Las conexiones con “dos poderes”, Zóhar y reglas genealógicas deben permanecer pendientes porque no son necesarias para probar el argumento de Marcos.
 
-La cercanía literaria importa. El relato acaba de denunciar a quienes devoran casas de viudas; enseguida muestra a una viuda que entrega todo en el templo. Por eso no es responsable usar este pasaje para presionar económicamente a personas vulnerables. La admiración de Yehoshua revela el valor de su entrega; la advertencia anterior exige que toda comunidad examine si protege o consume a quienes poseen menos.
+La cercanía literaria importa. El relato acaba de denunciar a quienes devoran casas de viudas; enseguida muestra a una viuda que entrega todo en el templo. Por eso no es responsable usar este pasaje para presionar económicamente a personas vulnerables. La admiración de Yehoshua revela el valor de su entrega; la advertencia anterior exige que toda comunidad examine si protege o consume a quienes poseen menos. La forma **(ἔβαλεν)**, _ebalen_, «echó o depositó», mantiene la escena en una acción observable: Marcos no registra que Yehoshua ordene a la viuda repetirla ni que convierta su carencia en medida para otros.
 
 ## Prueba de lectura: la ofrenda debe leerse después de la denuncia
 
