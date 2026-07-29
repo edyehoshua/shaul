@@ -52,7 +52,7 @@ Efesios 2:11–22 recuerda una condición anterior de exclusión y describe un a
 
 ## Alcance de la nota
 
-- Fuentes: «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder» y «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj».
+- Fuentes públicas: «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder» (`youtube:byKm54KeTyQ`) y «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj» (`youtube:0p62JJfVydA`), junto con las partes 7–9 listadas en los créditos.
 - La clase lee sobre todo #ephesians_2_11-14 (00:07:51–01:12:05) y anticipa los versículos siguientes, que quedan incluidos aquí para conservar el capítulo como unidad canónica.
 - El texto de la hoja procede del Delitzsch local, sin nikud. La transcripción automática ayuda a atribuir y organizar la clase; no constituye una cita literal del video.
 
