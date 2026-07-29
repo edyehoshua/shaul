@@ -94,12 +94,13 @@ La progresión completa conserva la enseñanza sin mezclar sus procedimientos: D
 | Éxodo 13:11–16 y Números 18:15–18              | Eric relaciona primogénito, éxodo y redención.                                                            | Apoyo textual: la memoria del éxodo es explícita, pero «redimir» debe conservar sujetos y procedimientos distintos.                      |
 | 1 Samuel 3:1–10                                | La exposición plantea una excepcionalidad relacionada con Samuel y el santuario.                          | Aplicación pedagógica: el servicio de Samuel está narrado; la afirmación sobre dormir en el lugar santísimo no está demostrada.          |
 
-## Pendiente de verificar
+## Control de atribución y alcance
 
-- La numeración exacta de las mitzvot 142–146 en la lista de referencia usada por la sesión.
-- La identificación histórica de la práctica del rescate y cualquier afirmación sobre la distribución de patios del templo.
-- La lectura de 1 Samuel 3 que ubique físicamente a Samuel dentro del lugar santísimo; el texto local no lo afirma.
-- Las conexiones entre primogenitura y funciones sacerdotales: Éxodo, Números y Deuteronomio deben mantenerse diferenciados.
+La numeración 142–146 pertenece al sistema de enumeración que la sesión está explicando, no a una división visible dentro de Deuteronomio 12, Éxodo 13, Números 18 o Deuteronomio 15. Por eso se conserva como referencia de la clase y no como si el número fuera una palabra del texto bíblico. La enseñanza atribuible a Eric puede resumirse con seguridad así: lo consagrado no se consume ni se administra como cosa ordinaria; su tratamiento depende del lugar escogido, del sujeto y del procedimiento ordenado.
+
+La secuencia también corrige una posible mezcla de categorías. **(פֶּטֶר)**, _peter_, significa «apertura» o «el que abre»; unido a **(רֶחֶם)**, _rekhem_, «matriz», forma «el que abre la matriz» en Números 18:15. La expresión es **directa** para el primer nacido, pero no convierte al primogénito humano, al asno y al ganado limpio en una sola clase ritual. **(גָּאַל)**, _ga'al_, significa redimir o rescatar a un pariente; no es el verbo principal de Éxodo 13 para todo rescate del primogénito, por lo que usarlo como sinónimo universal de **פָּדָה**, _padah_, sería **aproximado e impreciso**. La nota mantiene el verbo y el procedimiento propios de cada perícopa.
+
+Finalmente, 1 Samuel 3:1–10 solo permite afirmar que Samuel servía junto a Eli y que יהוה lo llamó. **(הֵיכָל)**, _heikhal_, significa palacio o santuario; no aparece como prueba de que el muchacho durmiera dentro del lugar santísimo en esta escena. La excepcionalidad que Eric aplica a Samuel queda, por tanto, como lectura **pedagógica**: ilumina servicio, disponibilidad y llamado, pero no establece una excepción arquitectónica ni una función sacerdotal automática. La afirmación canónica segura es más sobria: pertenencia, rescate, ofrenda y servicio están relacionados por la memoria del éxodo, pero siguen siendo obligaciones diferenciadas.
 
 ## Conclusión
 
