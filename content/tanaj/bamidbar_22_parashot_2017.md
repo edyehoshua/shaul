@@ -147,6 +147,18 @@ La sesión también describe a Bilam como alguien que reconoce el poder de יה�
 
 Bamidbar 22 desarma la ilusión de que el poder, el miedo o el dinero puedan gobernar la palabra de יהוה. Balaq ve un pueblo y teme; Bilam ve finalmente al mensajero y aprende que incluso su boca está bajo mandato. La enseñanza sobre lucro y concupiscencia encuentra un soporte narrativo fuerte, pero debe permanecer unida a la secuencia textual: la ceguera se demuestra en el camino, la corrección llega por revelación y el profeta sólo queda en su lugar cuando acepta hablar lo que יהוה diga.
 
+## El camino revela lo que la petición intenta ocultar — vv. 21-35
+
+La narración no salta desde la segunda consulta de Bilam hasta su respuesta pública. En 22:21 él se levanta temprano, ensilla su asna y va con los jefes de Moav; en 22:22 יהוה se enoja porque va, aunque la orden previa le había permitido ir bajo una condición. La clase de Eric presenta aquí una tensión entre una autorización externa y un deseo que sigue buscando la recompensa. El texto permite conservar la advertencia, pero la motivación interior debe formularse como inferencia: la ira divina y la escena del camino son explícitas; la codicia completa se confirma por la evaluación posterior de la Escritura, no por una afirmación psicológica directa de este versículo.
+
+El mensajero se coloca tres veces en el camino. **(מלאך)**, _malakh_, significa mensajero o enviado; aquí su fuerza contextual es un agente de יהוה que bloquea el trayecto, no una palabra que por sí sola describa toda la doctrina de los ángeles. **(חרב)**, _jerev_, significa espada; en la mano del mensajero hace visible una amenaza de juicio. **(דרך)**, _derekh_, significa camino, senda o trayecto; en esta escena es la ruta concreta de Bilam y también el espacio narrativo donde queda expuesto su rumbo. «Camino espiritual» es una equivalencia pedagógica, no exacta.
+
+El asna ve lo que Bilam no ve. **(ראה)**, _raah_, significa ver, mirar o percibir; la forma narrativa atribuye primero esa percepción al animal, mientras los ojos de Bilam son abiertos después (#bamidbar_22_31). **(גלה)**, _galah_, significa descubrir, revelar o llevar al descubierto; cuando יהוה descubre los ojos de Bilam, la acción procede de יהוה y no de una capacidad adquirida por el profeta. Eric conserva una observación central al decir que el mensajero estaba presente antes de que Bilam lo reconociera: el contraste pertenece al orden del relato, aunque «ceguera espiritual» sea una aplicación aproximada.
+
+La conversación final también limita la autonomía del portavoz. Bilam confiesa que pecó porque no sabía que el mensajero estaba de pie frente a él, y recibe permiso para continuar con una frontera inequívoca: «solamente la palabra que yo te hable, esa hablarás» (#bamidbar_22_35). **(חטא)**, _jatta_, significa errar o pecar; aquí nombra la admisión de Bilam, pero no resuelve por sí sola la profundidad de su intención. **(דבר)**, _davar_, significa hablar, palabra o asunto; en esta orden su fuerza es el mensaje pronunciado bajo autoridad de יהוה. «Canal automático» sería una equivalencia inexacta: Bilam sigue siendo responsable de hablar, pero no puede convertir la palabra recibida en mercancía.
+
+Por eso la lectura de Eric sobre vencer el mal con el bien queda mejor delimitada por la perícopa. Balaq procura una maldición, Bilam desea avanzar, el asna percibe el peligro, el mensajero corrige el trayecto y יהוה fija el contenido de la palabra. La aplicación ética es pedagógica; la afirmación textual es más concreta y más exigente: ningún pago, miedo o técnica de maldecir puede alterar lo que יהוה manda decir sobre Israel.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

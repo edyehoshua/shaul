@@ -250,6 +250,16 @@ Finalmente, 16:29-30 dice: «En el mes séptimo, en el décimo día del mes, afl
 
 ## Pendiente de verificar
 
+## El incienso cubre el acceso, no lo vuelve autónomo — vv. 11-17
+
+La unidad central del día incluye una acción que puede perderse si la lectura se concentra únicamente en las dos cabras. Aharón lleva su becerro, toma el incensario y entra detrás de la cortina; la nube del incienso cubre la cubierta para que no muera (#vaikra_16_11-13). Eric insiste en que la cercanía a la Santidad exige un orden recibido. El texto confirma esa dirección mediante sujeto, utensilio, nube, sangre y lugar, pero no convierte el incienso en una clave secreta para cada forma de oración.
+
+**(מחתה)**, _machtah_, significa recipiente, brasero o pala para transportar brasas; aquí designa el utensilio cultual que Aharón lleva detrás de la cortina. **(קטרת)**, _qetoret_, significa incienso o mezcla aromática; su fuerza contextual es producir una nube delante de la cubierta, no simplemente perfumar una habitación. **(ענן)**, _anan_, significa nube; en este pasaje funciona como cobertura ritual asociada a la presencia, y «protección espiritual» es una equivalencia pedagógica. **(כסה)**, _kasah_, significa cubrir u ocultar; aquí su fuerza contextual describe la acción de la nube sobre la cubierta, no una garantía para entrar sin obediencia.
+
+Después Aharón rocía la sangre del becerro y del macho cabrío sobre la cubierta y delante de ella (#vaikra_16_14-15). **(הזה)**, _hizah_, significa rociar o salpicar; la forma nombra una acción localizada y repetida, mientras «aplicar la sangre» es una equivalencia aproximada. **(כפר)**, _kafar_, significa cubrir y, en la construcción sacerdotal, hacer reconciliación; su fuerza aquí es tratar la Santidad, la Tienda y el altar por el procedimiento establecido. «Pagar una deuda» sería una paráfrasis teológica, no el sentido exacto del verbo.
+
+La nota de Eric sobre que nadie puede fabricar un acceso propio queda, por tanto, apoyada con precisión. En 16:17 nadie permanece en la Tienda mientras Aharón hace reconciliación; el sacerdote entra, actúa y sale conforme a la orden. La conexión con la oración o con el sacerdocio mesiánico puede conservarse como lectura canónica aproximada, pero el significado inmediato de **(קדש)**, _qodesh_, es el ámbito santo o apartado que requiere tratamiento ritual. La secuencia completa —incienso, nube, sangre y salida— impide convertir la reconciliación en una técnica disponible al deseo humano.
+
 ## Correspondencia pública de las exposiciones de Eric
 
 Los seis source IDs pertenecen a un mismo ciclo de enseñanza, pero la nota no los trata como una sola transcripción indiferenciada. `youtube:8Btk2jATjfk` aporta la formulación de que la cabra cuya sangre se presenta y la cabra enviada no deben separarse; `youtube:Y97CMPXJ4cA` retoma la relación entre sangre, vida y reconciliación. `youtube:stsUp5v3SXE` insiste en que la reconciliación no puede convertirse en permiso para seguir practicando el pecado. `youtube:jCax7bvw4Y8` y `youtube:fVAh5QTMH-8` amplían el puente con Pésaj, la sangre, el pan sin levadura y la copa. `youtube:_4q0WLCdK1c` resume el tema como «el ministerio de reconciliación».
