@@ -88,6 +88,12 @@ El mismo bloque ordena escuchar la voz y hacer los mandamientos, mientras descri
 
 La palabra **(שוב)**, _shuv_, reaparece en el retorno de Israel y en el «volver» de la acción divina. Su sentido normal es volver, hacer volver o restaurar; «reencarnar» o «reiniciar» serían equivalencias ajenas al pasaje. La simiente no aparece como una identidad inmóvil: recibe una historia en la que puede apartarse, recordar, volver, escuchar y vivir. Esa secuencia protege la enseñanza de dos reducciones opuestas: ni la bendición es mérito autónomo, ni la gracia vuelve innecesaria la fidelidad.
 
+## El retorno se oye en una alianza concreta — Devarim 30:8–10
+
+El texto vuelve a describir la restauración con verbos que pueden perderse en una fórmula espiritual general. En 30:8, **ושמעת בקול יהוה** (_veshamata beqol יהוה_) significa «escucharás la voz de יהוה», y **ועשית את כל מצותיו** (_veasita et kol mitzvotav_) significa «harás todos sus mandamientos». **(קול)**, _qol_, significa voz, sonido o proclamación; aquí señala la autoridad audible de יהוה. «Inspiración interior» es una equivalencia pedagógica insuficiente, porque el objeto de la escucha es una voz que ordena.
+
+El v. 10 añade **לשמר מצותיו וחקתיו** (_lishmor mitzvotav vejuqotav_), «guardar sus mandamientos y sus estatutos». **(שמר)**, _shamar_, significa guardar, custodiar u observar; en este contexto exige práctica sostenida, no solo conservar una convicción. **(חק)**, _joq_, significa decreto, estatuto o disposición establecida; «regla arbitraria» sería una paráfrasis inexacta. La exposición de Eric sobre una simiente bendecida queda mejor fundada cuando la bendición se reconoce como restauración hacia la voz, la acción y la custodia de la palabra.
+
 ## «Hoy» hace urgente la palabra cercana — Devarim 30:11–20
 
 El capítulo repite **היום**, _hayom_, «hoy», en los vv. 11, 15 y 19. Su sentido normal es el día presente; su fuerza contextual convierte el discurso de Mosheh en una convocación concreta para la generación que escucha, no en una promesa aplazada para una élite futura. En 30:11, **המצוה הזאת**, _hamitzvah hazo’t_, «este mandamiento», identifica el contenido de la palabra cercana. «Revelación interior» sería una paráfrasis incompleta: el objeto sigue siendo el mandamiento ordenado.
