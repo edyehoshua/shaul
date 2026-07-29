@@ -440,6 +440,20 @@ Finalmente, 8:25-26 limita el relevo. El OE dice **ומבן חמשים שנה י
 
 La evaluación final es graduada. Es exacto que el capítulo ordena la luz, purifica y entrega a los levitas, protege a la congregación y regula el relevo. Es aproximado decir que cada lámpara representa una doctrina posterior o que toda autoridad religiosa debe reproducir literalmente el régimen levítico. La exposición conserva fuerza cuando la aplicación vuelve a la secuencia visible: mandato, ejecución, comunidad, servicio y custodia.
 
+## Reparación de cierre: la custodia sirve al pueblo sin apropiarse de la presencia
+
+La observación de Eric sobre un servidor que no fabrica su propia gloria encuentra su límite más claro en el propósito declarado del v. 19. OE dice **ונתתי את הלוים נתנים לאהרן ולבניו מתוך בני ישראל לעשות את עבדת בני ישראל באהל מועד ולכפר על בני ישראל ולא יהיה בבני ישראל נגף בגשת בני ישראל אל הקדש**; TTH presenta a los leviím como dados a Aharón y a sus hijos «para hacer el servicio de los hijos de Israel» y para evitar una plaga cuando Israel se acerque a la Santidad. La aplicación a todo liderazgo es **pedagógica y aproximada**; la afirmación **exacta** es que la función levítica ordena el acercamiento de esta congregación concreta.
+
+**(נגף)**, _negaf_, significa golpe, plaga o tropiezo; aquí su fuerza contextual es la consecuencia del acercamiento no autorizado, no una promesa general de que un dirigente proteja a todos de cualquier daño. **(קרב)**, _qarav_, significa acercarse o aproximarse; en este marco describe la aproximación al ámbito santo y no una intimidad emocional abstracta. **(קדש)**, _qodesh_, significa santo, cosa apartada o ámbito consagrado; «espacio espiritual» es una equivalencia **pedagógica**, no exacta. La clase acierta al conectar servicio y responsabilidad, pero Bamidbar 8 impide convertir al servidor en dueño del acceso: יהוה establece el límite, la comunidad participa y los leviím reciben una tarea en favor de Israel.
+
+El relevo confirma esa misma lógica. En 8:26 el levita mayor «sirve a sus hermanos» y guarda la custodia. **(משמרת)**, _mishmeret_, significa guardia, custodia o encargo; su fuerza contextual es una responsabilidad que permanece después de cesar la labor pesada. «Retiro» sería inexacto y «autoridad vitalicia» también: la forma del servicio cambia. Así, la síntesis de Eric queda evaluada con precisión: la luz se orienta, la consagración se verifica públicamente, la sustitución protege a la congregación y la custodia continúa bajo una orden recibida.
+
+## Verificación de las cinco exposiciones
+
+Las cinco fuentes no deben aplanarse en una sola transcripción. `youtube:Ps_KEolNVdU` introduce la orientación de las lámparas en 8:1-4; `youtube:f0PQY7bXbJQ` desarrolla la preparación de los leviím en 8:5-13; `youtube:OG2PPYieRhk` trata la separación y la entrega para el servicio en 8:14-19; `youtube:EHZDK_XPB1A` relaciona esa entrega con la custodia de la congregación; y `youtube:eJlTuHME674` retoma el relevo y la asistencia de 8:23-26. Esta distribución conserva las observaciones de Eric sin atribuir a cada video una cita literal que la nota no ha verificado.
+
+El TTH resume el cierre: «servirá a sus hermanos en la Tienda del Encuentro, para guardar la custodia». La forma **(משמרת)**, _mishmeret_, significa custodia, guardia o encargo; su fuerza contextual es una responsabilidad recibida que continúa después de cesar la labor pesada. «Liderazgo espiritual» es una equivalencia **teológica y pedagógica**, no el sentido normal del sustantivo. La lectura queda así en tres niveles: la dirección de las lámparas y la regulación del servicio son textuales; la aplicación de Eric a la gloria personal y al relevo comunitario es una inferencia bien apoyada; y cualquier regla universal para líderes actuales sería una extensión aproximada.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
