@@ -470,6 +470,14 @@ La conciencia tampoco es un tribunal autónomo. **(συνείδησις)**, _syn
 
 El cierre conserva la historia de la señal sin absolutizarla. **(ὠφελέω)**, _ōpheleō_, significa beneficiar, ayudar o ser provechoso; en 2:25 su fuerza es condicional: la circuncisión beneficia si se practica la Torah. **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; en 2:29 sitúa la aprobación decisiva ante Elohim y no ante los seres humanos. Estas glosas son **directas** en el campo ordinario; afirmar que la circuncisión del corazón borra la identidad histórica sería **inferencial e ilegítimo**. La pregunta pública queda así evaluada sin desprecio étnico: nombre, Torah y señal importan, pero responden ante el mismo juicio.
 
+## Reparación de cierre: la conciencia acusa, pero no justifica por sí sola
+
+La secuencia de Romanos 2 debe impedir que «la obra de la Torah escrita en los corazones» se convierta en una autorización para seguir únicamente la intuición privada. **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; en 2:15 su fuerza contextual es la de un testigo que acusa o defiende. «Conciencia» es una glosa **directa**, pero afirmar que todo dictamen interior es verdadero sería **ilegítimo**, porque el v. 16 coloca los secretos ante el juicio de Elohim por medio de Yehoshua.
+
+El criterio público del juicio tampoco debe separarse de la misericordia. **(ἀποδίδωμι)**, _apodidōmi_, significa dar, devolver o retribuir conforme a una medida; en 2:6 introduce la rendición de cuentas conforme a las obras. «Dar» es **directo**, mientras convertirlo en mérito autónomo sería **inferencial** frente a Romanos 3. La clase atribuible sobre la Torah en el corazón recibe apoyo cuando rechaza una religión de mera audición; necesita calificación si reemplaza la instrucción recibida por una conciencia autosuficiente.
+
+Finalmente, **(περιτομή)**, _peritomē_, significa circuncisión o corte ritual, y **(ὠφελέω)**, _ōpheleō_, significa beneficiar o ser provechoso. En 2:25 la señal es provechosa **si** se practica la Torah; la condición forma parte del argumento y no debe omitirse. **(ἔπαινος)**, _epainos_, significa alabanza o aprobación; en 2:29 la alabanza decisiva viene de Elohim. La evaluación de la pregunta pública de Eric es, por tanto, **textual y cualificada**: identidad, conciencia y señal deben responder ante Elohim; ninguna funciona como escudo ni autoriza desprecio étnico.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]

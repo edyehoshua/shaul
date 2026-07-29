@@ -316,6 +316,14 @@ La objeción de #romanos_9_19 pregunta por qué Elohim todavía inculpa si algui
 
 El final del capítulo impide separar soberanía y respuesta. **(ζητέω)**, _zēteō_, significa buscar, procurar o intentar encontrar; en 9:30-31 contrasta a las naciones que alcanzaron justicia con Israel, que la perseguía como si dependiera de obras. **(προσκόπτω)**, _proskoptō_, significa tropezar o chocar contra; en 9:32-33 describe el tropiezo ante la piedra, no una licencia para despreciar a Israel. La enseñanza de Eric recibe **apoyo textual cualificado** en la distinción entre propósito y salvación; necesita límite si la función histórica elimina la responsabilidad o si la elección se convierte en fatalismo.
 
+## Reparación de cierre: el propósito no cancela la piedra de tropiezo
+
+La distinción atribuible de Eric sobre Faraón queda completa únicamente al leerla junto con el final de Romanos 9. **(ἐνδείκνυμι)**, _endeiknymi_, significa mostrar, señalar o demostrar; en 9:17 describe el propósito de hacer visible el poder de Elohim. La glosa «mostrar» es **directa**, pero extender el propósito histórico a una conclusión completa sobre el destino personal de Faraón sería **inferencial y no demostrado**. **(καταρτίζω)**, _katartizō_, significa preparar, ajustar o disponer; su fuerza en la imagen de los vasos exige cautela, porque el término aislado no resuelve toda la relación entre misericordia, endurecimiento y responsabilidad.
+
+El cierre desplaza la discusión desde la función de un gobernante hacia la respuesta ante la justicia. **(διώκω)**, _diōkō_, significa perseguir, seguir o procurar intensamente; en 9:30-31 contrasta la búsqueda de justicia de las naciones con la de Israel. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; su relación con **אמונה**, _emunah_, es **aproximada y pedagógica**, no una sustitución automática del griego. La observación de Eric recibe apoyo cuando distingue propósito histórico y salvación; necesita corrección si la soberanía borra la respuesta o si «obras» se convierte en caricatura de toda obediencia.
+
+Por último, **(λίθος)**, _lithos_, significa piedra, y **(προσκόπτω)**, _proskoptō_, significa tropezar, chocar o golpear contra. Sus glosas son **directas**; la fuerza contextual presenta a la piedra como el punto ante el cual unos creen y otros tropiezan. «Tropiezo» no equivale a una condena étnica total: el dolor y los privilegios de 9:1-5 siguen gobernando la lectura, y Romanos 10–11 continúa el argumento. La conclusión es **textual en la secuencia**, **cualificada en la soteriología de Faraón** y **pedagógica** en la comparación entre _pistis_ y _emunah_.
+
 ## Ver también
 
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]]
