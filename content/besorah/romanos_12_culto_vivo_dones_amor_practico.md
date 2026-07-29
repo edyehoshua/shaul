@@ -276,6 +276,16 @@ El cierre mantiene el mismo criterio frente al mal. **(ἀνταποδίδωμι
 
 Así, el «patrón de la fidelidad» que Eric presenta públicamente tiene **apoyo textual cualificado**: misericordia, cuerpo, mente, dones, amor y bien activo aparecen en el orden del capítulo. La atribución del foco general es pública; las conclusiones sobre cada situación contemporánea son **pedagógicas y cualificadas** por «si es posible» y «en cuanto dependa de vosotros» (#romanos_12_18).
 
+## Estudio de control: fidelidad que se verifica en el cuerpo
+
+La fuente pública `youtube:8z-3MkpomOo` permite atribuir a Eric el foco general de «El patrón de la fidelidad». La observación localizada sobre presentar el cuerpo en respuesta a las misericordias y relacionar la sobriedad con el servicio se evalúa siguiendo Romanos 12 en orden, no como una consigna aislada. El capítulo comienza con misericordia, pasa por mente renovada y dones diversos, y termina en amor concreto y bien activo frente al mal. La atribución del foco es **directa**; la arquitectura verso a verso es la evaluación canónica y cualquier ampliación pastoral queda **cualificada**.
+
+En #romanos_12_1-2, **(παρακαλέω)**, _parakaleō_, significa exhortar, animar, rogar o llamar al lado; su fuerza contextual introduce un ruego basado en las misericordias, no una exigencia separada de la gracia. **(παρίστημι)**, _paristēmi_, significa presentar, poner a disposición o colocar delante; describe la entrega real de los cuerpos. «Presentar» es **directo**; entender el servicio como pago que compra el favor de Elohim sería **ilegítimo**. **(δοκιμάζω)**, _dokimazō_, significa probar, examinar o aprobar después de evaluar; en 12:2 expresa el discernimiento de la voluntad de Elohim, no una autorización para reclamar inspiración privada sin examen.
+
+En #romanos_12_3-8, **(φρονέω)**, _phroneō_, significa pensar, tener una disposición o juzgar; su fuerza contextual ordena la autoevaluación sobria y no niega toda valoración responsable. **(χάρισμα)**, _charisma_, significa don concedido por gracia; en 12:6-8 ordena capacidades distintas hacia el servicio del cuerpo. «Don» es **directo**, mientras convertir una capacidad visible en rango espiritual sería **inferencial e ilegítimo**. Así, el patrón que Eric destaca no es uniformidad ni una plataforma personal: es servicio interdependiente.
+
+En #romanos_12_17-21, **(εἰρηνεύω)**, _eirēneuō_, significa vivir en paz o mantener la paz; en 12:18 queda limitado por «si es posible» y «en cuanto dependa de vosotros». **(νικάω)**, _nikaō_, significa vencer o conquistar; en 12:21 define la victoria mediante el bien que responde al mal. Ambas glosas son **directas**, pero usar «vencer» para silenciar protección, denuncia o justicia legítima sería **ilegítimo**. La enseñanza recibe **apoyo textual cualificado**: la fidelidad nace de la misericordia, se encarna en servicio y no reproduce la violencia.
+
 ## Ver también
 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]

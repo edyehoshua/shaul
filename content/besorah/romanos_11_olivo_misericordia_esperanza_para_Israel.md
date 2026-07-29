@@ -293,6 +293,16 @@ La fuente `youtube:bL-3YKdV0wo` concentra la esperanza en el Redentor de Tziyón
 
 El texto mantiene juntas promesa y responsabilidad. **(ἐπιμένω)**, _epimenō_, significa permanecer, continuar o persistir; en #romanos_11_22-23 califica la permanencia en la bondad y el abandono de la incredulidad. «Perseverar» es una síntesis **pedagógica y aproximada**. La enseñanza de Eric recibe **apoyo textual directo** contra la jactancia y **apoyo cualificado** para la esperanza: la raíz sostiene, Elohim puede reinjertar y la misericordia culmina en la doxología, no en superioridad étnica ni en un calendario inventado.
 
+## Estudio de control: la promesa no elimina la advertencia
+
+Las dos observaciones públicas de Eric deben conservarse como una sola progresión. En `youtube:MHLbizeZrPc`, la pregunta sobre si la rama gentil se considera mejor que las ramas naturales confronta la jactancia; en `youtube:bL-3YKdV0wo`, el anuncio del Redentor de Tziyón sostiene la esperanza. Romanos 11 ordena ambos focos: primero niega que Elohim haya desechado a Israel y presenta el remanente por gracia; después explica el injerto y manda no jactarse; finalmente reúne misterio, pacto, misericordia y doxología. La atribución es **directa** respecto de los focos públicos y **cualificada** respecto de cualquier cronología o sistema histórico que exceda la perícopa.
+
+En #romanos_11_17-24, **(ἐγκεντρίζω)**, _enkentrizō_, significa injertar o incorporar una rama; su fuerza contextual describe participación dependiente de una raíz que ya sostiene. «Injertar» es **directo**; traducirlo como «reemplazar» sería **inferencial e ilegítimo**. **(συνκοινωνός)**, _synkoinōnos_, significa participante o copartícipe; en la imagen comparte la raíz y la savia, pero no se convierte en origen. La comparación pedagógica con **שֹׁרֶשׁ**, _shoresh_, «raíz», en Delitzsch es **aproximada**, no una equivalencia etimológica.
+
+En #romanos_11_25-32, **(οἰκονομία)**, _oikonomia_, significa administración, encargo o disposición; no es la forma central de esta perícopa y por eso solo sirve como término **pedagógico y aproximado** para describir el orden del argumento, no como una palabra escondida detrás de «misterio». La forma decisiva **(μυστήριον)**, _mystērion_, significa misterio o realidad antes no revelada plenamente; su fuerza es impedir que las naciones sean sabias en su propia opinión. **(οὕτως)**, _houtōs_, significa así o de este modo; en 11:26 enlaza «todo Israel será salvo» con la secuencia previa. Leerlo exclusivamente como «entonces» cronológico es **inferencial**.
+
+El cierre conserva responsabilidad y misericordia. **(ἐλεέω)**, _eleeō_, significa tener misericordia o mostrar compasión; en 11:30-32 sitúa la desobediencia bajo la acción misericordiosa de Elohim, sin llamar buena a la desobediencia. **(ἀμεταμέλητος)**, _ametamelētos_, significa irrevocable o no sujeto a arrepentimiento; en 11:29 califica dones y llamamiento, pero no borra la exhortación a permanecer en la bondad. La enseñanza de Eric recibe **apoyo textual directo** contra la jactancia y **apoyo cualificado** para la esperanza: la raíz sostiene, Elohim puede reinjertar y la misericordia termina en adoración.
+
 ## Ver también
 
 - [[romanos_9_dolor_por_Israel_promesa_misericordia|Romanos 9: dolor por Israel, promesa y misericordia]]
