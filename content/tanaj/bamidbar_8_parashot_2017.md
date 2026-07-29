@@ -192,6 +192,14 @@ La transición no elimina la agencia humana, pero sí la ordena. **(פנים)**,
 
 El relevo de los vv. 24-26 lleva la misma enseñanza a su límite práctico. **(משא)**, _massa_, significa carga o labor de llevar; su fuerza inmediata es el trabajo asignado al levita, mientras «carga espiritual» es una aplicación aproximada. **(שרת)**, _sharet_, significa servir o asistir; al final del capítulo el levita mayor sigue ayudando a sus hermanos, pero no domina sobre ellos. La clase acierta al denunciar un liderazgo centrado en sí mismo: el texto muestra lámparas orientadas hacia la Menoráh y servidores dados a יהוה para una tarea comunitaria. La extensión a todo liderazgo contemporáneo permanece pedagógica, no normativa en cada detalle.
 
+## Reparación: la sustitución no elimina la responsabilidad de Israel
+
+La explicación de Eric sobre los leviím como servidores recibidos necesita una precisión adicional en los vv. 14-19. El texto no solo dice que los leviím son separados; explica por qué esa separación puede representar a Israel sin convertirlos en una casta autónoma. OE dice: **והבדלת את הלוים מתוך בני ישראל והיו הלוים לי** (#bamidbar_8_14), «separarás a los leviím de entre los hijos de Israel, y los leviím serán para Mí». TTH conserva el movimiento desde la comunidad hacia יהוה. **(בדל)**, _badal_, significa separar, distinguir o poner aparte; aquí su fuerza contextual es reservar una función cultual concreta. «Hacerlos espiritualmente superiores» sería una equivalencia **pedagógica**, no exacta.
+
+El v. 18 añade: **ואקח את הלוים תחת כל בכור בבני ישראל**, «tomé a los leviím en lugar de todo primogénito de los hijos de Israel». **(לקח)**, _laqaj_, significa tomar o recibir; en esta forma describe la designación divina, no una conquista personal de autoridad. **(תחת)**, _tajat_, significa debajo, bajo o «en lugar de»; su fuerza contextual es sustitución funcional dentro del servicio de la Tienda. «Reemplazo universal» sería **inexacto**, porque el capítulo delimita quién sirve, a quién pertenece el servicio y para quién se realiza.
+
+Eric acierta al advertir que el servidor no debe convertir la luz ni la consagración en gloria privada. La observación recibe apoyo directo en 8:19: los leviím son dados a Aharón y a sus hijos «para hacer el servicio de los hijos de Israel en la Tienda del Encuentro». **(עבודה)**, _avodah_, significa trabajo, servicio o labor; aquí nombra una responsabilidad cultual y comunitaria. «Ministerio» es una equivalencia **aproximada**. La aplicación contemporánea de Eric es **teológica y pedagógica**: el sentido textual **exacto** es que יהוה toma y entrega a los leviím para proteger la congregación y regular su servicio. Así, la luz orientada de los vv. 1-4 termina en una responsabilidad que sigue perteneciendo a יהוה y que beneficia al pueblo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

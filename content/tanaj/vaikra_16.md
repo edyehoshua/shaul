@@ -402,6 +402,14 @@ Delitzsch relee esta estructura en Ivrim 9:7: **לא בלתי־דם אשר יק�
 
 Finalmente, los vv. 29-34 muestran que la reconciliación alcanza a la asamblea mediante acciones concretas: **(ענה)**, _anah_, significa afligir, humillar o someter; **(שבתון)**, _shabbaton_, significa reposo solemne; **(טהר)**, _taher_, significa purificar o estar limpio. «Corazón purificado» es una aplicación teológica aproximada; el texto inmediato habla de humillación, abstención laboral y purificación ritual en el día señalado. Así, Eric queda preservado y evaluado: el rito une sangre, confesión, envío y respuesta comunitaria, sin borrar las diferencias ni autorizar una reconciliación desligada de obediencia.
 
+## Reparación: el altar queda incluido en la reconciliación
+
+La observación de Eric sobre que la sangre y el macho cabrío enviado deben permanecer juntos puede fortalecerse recorriendo también el altar. Vaikra 16 no presenta solo la entrada detrás de la cortina. Después de tratar la Santidad y la Tienda, Aharón sale hacia el altar que está delante de יהוה y hace reconciliación por él (#vaikra_16_18-19). OE dice: **ויצא אל המזבח אשר לפני יהוה וכפר עליו**; TTH mantiene «saldrá al altar que está delante de יהוה y hará reconciliación por él». El sujeto sigue siendo Aharón y el objeto cambia: la sangre no opera por sí misma, sino dentro de una secuencia sacerdotal que alcanza los espacios del culto.
+
+**(יצא)**, _yatsa_, significa salir o salir fuera; aquí su fuerza contextual es el desplazamiento de Aharón desde el interior de la Tienda al altar exterior, no una huida de la presencia. **(מזבח)**, _mizbeaj_, significa altar; su sentido normal es el lugar de sacrificio, y en estos vv. nombra el ámbito que también necesita tratamiento por la impureza de Israel. «Centro espiritual» sería una equivalencia **pedagógica**, no exacta. **(קרן)**, _qeren_, significa cuerno; los cuernos del altar son partes concretas que Aharón toca con la sangre. «Poderes» sería una interpretación **aproximada** y no el sentido normal del sustantivo.
+
+El v. 20 marca el límite decisivo: «y terminado de hacer reconciliación por la Santidad, por la Tienda del Encuentro y por el altar, traerá el peludo vivo». **(כלה)**, _kalah_, significa terminar, completar o acabar; su fuerza contextual es cerrar una fase ritual antes de iniciar la confesión y el envío. **(חי)**, _jai_, significa vivo; distingue al animal que permanece delante de יהוה antes de cargar las iniquidades. Por eso Eric tiene razón en afirmar la unidad del día, pero la evaluación textual exige conservar el orden: la sangre trata los ámbitos santos, la confesión nombra, el animal carga y el sacerdote envía. La lectura mesiánica es **teológica y aproximada**; esa secuencia de sujetos, lugares y acciones es la afirmación **exacta** de la perícopa.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
