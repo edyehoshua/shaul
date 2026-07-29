@@ -14,9 +14,11 @@ references:
   - "#bereshit_12_7"
 sources:
   - "https://www.youtube.com/watch?v=FK5RxbplFK0"
-  - "docs/scriptures/oe/json/raw/genesis.json"
+  - "docs/scriptures/oe/json/genesis/12.json"
+  - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
   - "youtube:FK5RxbplFK0"
+translation: "[OE, TTH]"
 ---
 
 # Tesis

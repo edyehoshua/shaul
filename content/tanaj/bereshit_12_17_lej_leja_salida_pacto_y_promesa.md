@@ -28,9 +28,10 @@ sources:
   - "docs/scriptures/oe/json/genesis/15.json"
   - "docs/scriptures/oe/json/genesis/16.json"
   - "docs/scriptures/oe/json/genesis/17.json"
+  - "docs/scriptures/tth/json/bereshit.json"
 source_ids:
   - "youtube:JqAnsH6Coq0"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -54,6 +55,8 @@ Esta nota organiza la clase de Eric de Jesús Rodríguez Mendoza «Parashat Lej 
 | #bereshit_15_13-18     | ויאמר לאברם ידע תדע כי גר יהיה זרעך בארץ לא להם ועבדום וענו אתם ארבע מאות שנה ... ביום ההוא כרת יהוה את אברם ברית לאמר לזרעך נתתי את הארץ הזאת                                                                               | La promesa incluye aflicción histórica y una acción unilateral de pacto.                          |
 | #bereshit_16_1-2,11,13 | ושרי אשת אברם לא ילדה לו ולה שפחה מצרית ושמה הגר / ותאמר שרי אל אברם הנה נא עצרני יהוה מלדת ... / ויאמר לה מלאך יהוה ... כי שמע יהוה אל עניך / ותקרא שם יהוה הדבר אליה אתה אל ראי                                            | La espera produce una solución humana, pero יהוה escucha a Hagar y se revela como el Dios que ve. |
 | #bereshit_17_1,5-7,10  | אני אל שדי התהלך לפני והיה תמים / ולא יקרא עוד את שמך אברם והיה שמך אברהם כי אב המון גוים נתתיך / והקמתי את בריתי ... לברית עולם ... / זאת בריתי אשר תשמרו ... המול לכם כל זכר                                               | El nombre, el pacto y la señal corporal reordenan la promesa bajo obediencia.                     |
+
+El TTH confirma el movimiento inicial: «Ve para ti de tu tierra… hacia la tierra que Yo te mostraré» (#bereshit_12_1) y «se fue Abram, como le había hablado יהוה» (#bereshit_12_4). En el centro del relato, «Y él se afirmó por יהוה, y la consideró a él justicia» (#bereshit_15_6) conserva la respuesta de confianza sin reducirla a una emoción; al final, «camina delante de Mí, y sé íntegro» (#bereshit_17_1) une promesa y obediencia. El corpus local no contiene una traducción Delitzsch para Bereshit; por eso esta nota cita OE y TTH y no inventa un tercer texto.
 
 ## Léxico clave
 
