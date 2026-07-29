@@ -316,6 +316,14 @@ La evaluación final es graduada: Eric recibe **apoyo directo** al distinguir un
 - [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: identidad, fruto y reconciliación]]
 
+## Reparación desarrollada: la promesa no autoriza una lectura fragmentaria
+
+La observación pública de Eric en `youtube:atIdZY13b_c` —que la utilidad histórica de Faraón no demuestra por sí sola su salvación personal— debe permanecer dentro del recorrido de Romanos 9. En 9:1-5, Pablo habla desde **(λύπη)**, _lypē_, «dolor, tristeza o aflicción»; su fuerza contextual es el sufrimiento por Israel, no una condena del pueblo. En 9:6-13, **(ἐπαγγελία)**, _epangelia_, significa «promesa» o «compromiso anunciado» y explica que la palabra de Elohim no ha fallado. Estas glosas son **directas** en el sentido ordinario; concluir desde ellas una teoría completa sobre cada individuo sería **inferencial**.
+
+Solo después llega Faraón. **(ἐγείρω)**, _egeirō_, significa levantar, suscitar o hacer aparecer; en 9:17 introduce una función histórica declarada: mostrar el poder de Elohim y anunciar su Nombre. «Levantar» es una glosa **directa**, mientras afirmar que ese uso prueba o niega el destino final de Faraón sería **ilegítimo** por exceder la perícopa. **(ἐλεέω)**, _eleeō_, significa tener misericordia o compadecerse; en 9:15-18 presenta la acción favorable de Elohim. **(σκληρύνω)**, _sklērynō_, significa endurecer o volver rígido; su fuerza contextual participa en el argumento sobre Faraón, pero no resuelve por sí sola toda la relación entre iniciativa, resistencia y responsabilidad.
+
+La respuesta de 9:19-24 conserva la asimetría entre formador y criatura, pero no permite convertir toda pregunta en rebelión. **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa responder o replicar; en 9:20 describe la réplica de la criatura al formador. **(κεραμεύς)**, _kerameus_, significa alfarero, y **(πηλός)**, _pēlos_, significa barro o arcilla. Sus glosas son **directas**; la comparación pedagógica con **יוצר**, _yotser_, «formador», es **aproximada**, no una identidad entre lenguas. Así, la enseñanza atribuida a Eric recibe apoyo directo para la función histórica y apoyo cualificado para sus límites soteriológicos, mientras el cierre del capítulo mantiene remanente, naciones, justicia, emunah y tropiezo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

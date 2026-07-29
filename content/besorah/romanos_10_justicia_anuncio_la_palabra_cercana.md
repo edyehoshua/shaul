@@ -410,6 +410,14 @@ En #romanos_10_18-21, **(ἀπειθέω)**, _apeitheō_, significa desobedecer 
 - [[romanos_11_olivo_misericordia_esperanza_para_Israel|Romanos 11: olivo, misericordia y esperanza para Israel]]
 - [[romanos_12_culto_vivo_dones_amor_practico|Romanos 12: culto vivo, dones y amor práctico]]
 
+## Reparación desarrollada: invocar, oír y responder sin separar la cadena
+
+La observación de Eric en `youtube:ililQLS9UJE` sobre la iniciativa del llamamiento debe evaluarse siguiendo Romanos 10:12-21, no aislando 10:13. **(ἐπικαλέω)**, _epikaleō_, significa invocar, apelar o llamar sobre alguien; en 10:12-14 nombra la respuesta dirigida al Señor. «Invocar» es una glosa **directa** en el campo ordinario, pero convertirlo en mérito autónomo sería **ilegítimo**, porque Pablo lo coloca dentro de una cadena de anuncio, escucha y fe. **(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; su relación canónica con el llamamiento divino es **aproximada y pedagógica**, no una equivalencia gramatical con _epikaleō_.
+
+La secuencia de 10:14-17 conserva la responsabilidad del mensajero y del oyente. **(κηρύσσω)**, _kērussō_, significa proclamar o anunciar públicamente; **(ἀποστέλλω)**, _apostellō_, significa enviar con encargo; y **(ἀκούω)**, _akouō_, significa oír, escuchar o enterarse. Sus sentidos ordinarios son **directos**, pero la fuerza contextual muestra que el anuncio hace audible el mensaje y no convierte al mensajero en dueño de él. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 impide reducir la escucha a recepción acústica. La iniciativa del envío, por tanto, no elimina una respuesta responsable.
+
+En 10:18-21, **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir; describe la resistencia de Israel mientras Elohim extiende sus manos. **(ῥῆμα)**, _rhēma_, significa palabra, declaración o mensaje pronunciado; su relación con **דבר**, _davar_, «palabra, asunto o declaración», es **aproximada y pedagógica**, no una equivalencia etimológica. La enseñanza atribuida recibe apoyo textual cualificado: la palabra y el envío proceden de la iniciativa de Elohim, pero el capítulo conserva anuncio, escucha, obediencia y resistencia. «La fidelidad por la palabra» no es sonido mágico ni fatalismo; es una síntesis pedagógica que debe permanecer bajo la secuencia de Pablo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
