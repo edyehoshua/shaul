@@ -130,6 +130,12 @@ En 5:21-34, Marcos inserta la mujer dentro del camino hacia la casa de Iair. **�
 
 En 5:35-43, la noticia «tu hija murió» intenta cerrar el movimiento, pero Yehoshua manda **μὴ φοβοῦ, μόνον πίστευε** (_mē phobou, monon pisteue_, no temas, sólo confía). Luego toma a la muchacha y ordena **ἔγειρε** (_egeire_, levántate). El imperativo no es una contraseña y la expresión aramea **Talitha koumi** conserva un tono afectuoso; el resultado se verifica porque ella camina y come. Así el capítulo sigue un orden preciso: el espíritu sale, el hombre vuelve, la mujer habla y la niña se levanta. La observación atribuible de Eric se mantiene en ese marco textual, sin convertir la emunah en técnica para controlar el resultado.
 
+## Alcance público de la fuente y límite de atribución
+
+El inventario público del canal identifica `jamQ95BSuN0` como «Evangelio Segun Marco Parte 18 cap 5 El Endemoniado de Gdarah» y atribuye el video a **Eric de Jesús Rodríguez Mendoza**. Ese dato permite afirmar algo concreto sobre la asignación de la clase: el endemoniado de la primera perícopa es su centro anunciado. No permite, por sí solo, reconstruir lo que Eric dijo sobre cada detalle de la legión, los cerdos, la mujer o la hija de Iair. Por eso la nota separa tres niveles: el título público, que se atribuye; el texto local de Marcos 5, que se analiza en orden; y las aplicaciones pastorales, que se presentan como lectura de esta nota.
+
+Esta separación no debilita el estudio. Evita que una inferencia del autor se convierta falsamente en una cita de Eric y deja visible qué evidencia debe recuperarse antes de ampliar el mapa de la clase. La única fuente de enseñanza sigue siendo `youtube:jamQ95BSuN0`; los pasajes del corpus no son fuentes de Eric ni nuevos identificadores de video. La secuencia probada permanece: la autoridad enfrenta la opresión, la persona restaurada vuelve a casa, la mujer es llamada hija y la muchacha vuelve a caminar.
+
 ## Mapa de la enseñanza de Eric
 
 | Tramo          | Observación atribuible                                                                                   | Tratamiento                                                                                                                         |

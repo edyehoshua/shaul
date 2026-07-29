@@ -234,6 +234,14 @@ El orden de las formas verbales impide separar “vida”, “autoridad” y “
 
 La misma autoridad produce una comunidad enviada: **(ἀποστέλλω)**, _apostellō_, «enviar con encargo», depende de **(ἐποίησεν)**, _epoiēsen_, «estableció o hizo», en 3:14-15. Después, **(ποιεῖ)**, _poiei_, «hace», en 3:35 no designa una identidad declarada sino una voluntad practicada. La conexión de Eric entre estar con Yehoshua, escoger la vida y pertenecer a su casa queda así apoyada por la secuencia textual; la comparación semítica o histórica sigue siendo aproximada cuando el griego no la explicita.
 
+## Prueba de la acusación: el relato no permite invertir los sujetos
+
+La perícopa hace que la acusación se juzgue por sus sujetos y sus efectos. Los perushim observan para acusar, callan ante la pregunta por el bien y, después de la mano restaurada, salen a consultar cómo destruir a Yehoshua (`#markos_3_2-6`). **(συμβούλιον ἐδίδουν)**, _symboulion edidoun_, «daban consejo o deliberaban», describe la conspiración; no es una consecuencia inevitable de guardar Shabbat, sino la respuesta de quienes han visto una vida restaurada y eligen la muerte. La observación de Eric sobre «escoger la vida» queda así anclada en una inversión narrativa concreta: el mandamiento es invocado por quienes terminan planeando quitar la vida.
+
+El mismo criterio protege la lectura de la casa dividida. En 3:22 los escribas atribuyen la expulsión a **(Βεελζεβούλ)**, _Beelzeboul_, mientras que en 3:30 Marcos explica que decían: «Tiene un espíritu impuro». Yehoshua responde con **(εἰ ὁ σατανᾶς ἀνέστη ἐφ’ ἑαυτόν)**, «si HaSatán se levantó contra sí mismo»; **(ἀνέστη)**, _anestē_, «se levantó», formula la hipótesis de una rebelión interna, y 3:26 concluye que no puede permanecer. La imagen no prueba una demonología completa: prueba que la explicación de los escribas destruye su propio supuesto.
+
+Finalmente, el cierre no reemplaza el discernimiento por una consigna familiar. **(ὅστις γὰρ ἂν ποιήσῃ)**, _hostis gar an poiēsē_, «porque cualquiera que haga», abre la definición de la familia en 3:35; el sujeto es cualquiera que practica la voluntad de Elohim, no una élite que controla el acceso. **(θέλημα)**, _thelēma_, «voluntad, deseo o propósito», recibe aquí el complemento «de Elohim», y su sentido se verifica por el verbo **(ποιεῖ)**, _poiei_, «hace». Eric relaciona esta familia con obediencia; Marcos permite sostenerlo precisamente porque la pertenencia se define por una acción continuada y no por una etiqueta.
+
 ## Conclusión
 
 Marcos 3 no presenta a Yehoshua quebrantando la Torah, sino devolviendo su lectura al bien y a la vida. La mano restaurada desenmascara una interpretación que protegía su propia autoridad mientras planeaba muerte. El Mesías escoge, reúne y envía una comunidad que primero debe estar con él y luego actuar bajo su autoridad.
