@@ -39,7 +39,15 @@ Tehilim 21 celebra al rey que se alegra en la fuerza y la salvación de יהוה
 
 Esta nota organiza una clase sobre el salmo 21. El hermano Eric lo lee en clave mesiánica y enlaza sus imágenes de vida, corona, gloria y victoria con Yehoshua. Esas conexiones se presentan aquí como una línea interpretativa de la clase; el texto del salmo no nombra explícitamente al Mesías ni identifica por sí solo a cada enemigo.
 
-## Hoja de comparación
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación concreta tomada de la clase | Evaluación en esta nota |
+| --- | --- | --- |
+| #tehilim_21_2-6 | Eric lee la fuerza, la salvación, la corona, la vida y la gloria como dones que proceden de יהוה y los relaciona con Yehoshua. | Apoyo textual e inferencia cualificada: la dirección de los dones es explícita; la aplicación mesiánica se conserva como recepción de la clase. |
+| #tehilim_21_7-8 | La estabilidad del rey depende de la misericordia y la confianza en יהוה, no de una autonomía real. | Apoyo textual: el poema vincula permanencia, hesed y confianza; la aplicación doctrinal amplia queda atribuida. |
+| #tehilim_21_9-13 | Eric conecta la derrota de los enemigos con Bereshit 3:15 y con la victoria del Mesías sobre el mal. | Inferencia cualificada: el salmo afirma juicio contra adversarios, pero no identifica por sí solo una figura espiritual concreta. |
+| #tehilim_21_14 | La victoria termina en canto comunitario a la fuerza de יהוה, no en venganza privada. | Apoyo textual y aplicación ética: la alabanza final está explícita; el límite a la venganza se deriva del movimiento del poema. |
+
 
 | Referencia       | Texto local (hebreo sin nikud)                   | Observación                                                                      |
 | ---------------- | ------------------------------------------------ | -------------------------------------------------------------------------------- |
