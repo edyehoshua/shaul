@@ -22,11 +22,9 @@ references:
   - "#romanos_10_20"
   - "#romanos_10_21"
 sources:
-  - "https://www.youtube.com/watch?v=zLynBpmjJr0"
   - "https://www.youtube.com/watch?v=ililQLS9UJE"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
-  - "youtube:zLynBpmjJr0"
   - "youtube:ililQLS9UJE"
 translation: "[Delitzsch]"
 ---
@@ -51,12 +49,11 @@ Esta nota canónica reúne las clases públicas del hermano Eric de Jesús Rodr�
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad                                                           | Observación concreta de la enseñanza                                                                                                                                                                                            | Tratamiento en esta nota                                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Romanos 9:24-29 en continuidad con 10:1-4; `youtube:zLynBpmjJr0` | Eric relaciona el llamamiento de judíos y gentiles con un pueblo que Elohim llama desde ambos grupos, sin exigir una conversión étnica previa; advierte que la circuncisión no puede convertirse en prerrequisito de salvación. | Inferencia cualificada y apoyo textual: Romanos 10:12-13 sí elimina una diferencia de acceso y el capítulo 4 recuerda la promesa anterior a la circuncisión; la clase no autoriza borrar la identidad histórica de Israel.                                 |
-| Romanos 10:12-13; `youtube:ililQLS9UJE`                          | La clase observa que quienes invocan son aquellos a quienes Elohim llama, y lee la sintaxis de Joel como «el que יהוה llame por nombre» o «el que יהוה llame» en vez de poner toda la iniciativa en el invocador.               | Clarificación lexical y pendiente de verificación: el hebreo de Joel debe cotejarse con su sintaxis; Romanos afirma explícitamente que el mismo Señor es rico para quienes invocan, sin resolver por sí solo todas las cuestiones de la traducción hebrea. |
-| Romanos 10:14-17; `youtube:ililQLS9UJE`                          | Eric sigue la cadena «¿cómo invocarán?, ¿cómo creerán?, ¿cómo oirán?, ¿cómo anunciarán?» y afirma que la fidelidad no nace del mero sonido, sino de la palabra de Elohim que concede oír.                                       | Apoyo textual con calificación: Pablo conecta la emunah con la escucha y con la palabra del Mesías, mientras Romanos 10:18-21 mantiene la responsabilidad de quienes no obedecen al anuncio.                                                               |
-| Romanos 10:18-21; `youtube:zLynBpmjJr0`, `youtube:ililQLS9UJE`   | La exposición conecta las citas de Moshe, Yesha’yahu y Joel con remanente, naciones y resistencia de Israel.                                                                                                                    | Apoyo intertextual general; la identificación precisa de cada forma hebrea y la historia de las diez tribus quedan pendientes cuando la clase va más allá de lo que el capítulo afirma directamente.                                                       |
+| Unidad                                  | Observación concreta de la enseñanza                                                                                                                                                                              | Tratamiento en esta nota                                                                                                                                                                                                                                   |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Romanos 10:12-13; `youtube:ililQLS9UJE` | La clase observa que quienes invocan son aquellos a quienes Elohim llama, y lee la sintaxis de Joel como «el que יהוה llame por nombre» o «el que יהוה llame» en vez de poner toda la iniciativa en el invocador. | Clarificación lexical y pendiente de verificación: el hebreo de Joel debe cotejarse con su sintaxis; Romanos afirma explícitamente que el mismo Señor es rico para quienes invocan, sin resolver por sí solo todas las cuestiones de la traducción hebrea. |
+| Romanos 10:14-17; `youtube:ililQLS9UJE` | Eric sigue la cadena «¿cómo invocarán?, ¿cómo creerán?, ¿cómo oirán?, ¿cómo anunciarán?» y afirma que la fidelidad no nace del mero sonido, sino de la palabra de Elohim que concede oír.                         | Apoyo textual con calificación: Pablo conecta la emunah con la escucha y con la palabra del Mesías, mientras Romanos 10:18-21 mantiene la responsabilidad de quienes no obedecen al anuncio.                                                               |
+| Romanos 10:18-21; `youtube:ililQLS9UJE` | La exposición conecta las citas de Moshe, Yesha’yahu y Joel con remanente, naciones y resistencia de Israel.                                                                                                      | Apoyo intertextual general; la identificación precisa de cada forma hebrea y la historia de las diez tribus quedan pendientes cuando la clase va más allá de lo que el capítulo afirma directamente.                                                       |
 
 ## Romanos 10:1-4: celo, justicia y la meta de la Torah
 
@@ -206,7 +203,7 @@ La lectura de Eric queda mejor delimitada cuando se distinguen tres movimientos 
 
 La cita de Joel tampoco permite eliminar la respuesta humana. **קֹרֵא**, _qore_, es la forma participial de **קָרָא**, _qara_, «llamar, proclamar o invocar»; en Joel 2:32 puede describir a quien יהוה llama dentro del remanente. **(ἐπικαλέω)**, _epikaleō_, significa invocar o apelar; en Romanos 10:12-14 describe la acción dirigida al Señor. La correspondencia entre ambas formas es **aproximada y contextual**, no exacta ni morfológica. Eric acierta al rechazar una invocación convertida en mérito autónomo; Pablo, sin embargo, conserva la cadena de anuncio, escucha, creencia e invocación y responsabiliza a quienes no obedecen la buena noticia. La iniciativa divina y la respuesta convocada deben permanecer juntas.
 
-Por tanto, la evidencia de los videos se usa con dos grados: el foco público de `youtube:zLynBpmjJr0` y `youtube:ililQLS9UJE` permite atribuir la pregunta sobre el llamamiento y la secuencia del anuncio, mientras el texto local permite evaluar el argumento verso a verso. La propuesta sintáctica específica de Joel queda **cualificada** hasta cotejar el hebreo completo; la igualdad de acceso para judío y griego, la necesidad del anuncio y la resistencia de Israel son afirmaciones **textuales** de Romanos 10. No se presenta ninguna transcripción como cita literal ni se extiende la clase más allá de sus fuentes públicas.
+Por tanto, la evidencia del video `youtube:ililQLS9UJE` permite atribuir la pregunta sobre el llamamiento y la secuencia del anuncio, mientras el texto local permite evaluar el argumento verso a verso. La propuesta sintáctica específica de Joel queda **cualificada** hasta cotejar el hebreo completo; la igualdad de acceso para judío y griego, la necesidad del anuncio y la resistencia de Israel son afirmaciones **textuales** de Romanos 10. No se presenta ninguna transcripción como cita literal ni se extiende la clase más allá de su fuente pública.
 
 ## Reparación de la secuencia: llamar, invocar y responder
 
@@ -277,6 +274,5 @@ El cierre de la perícopa impide convertir la elección en fatalismo. **(ἀπε
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 24) ¿El fin de la ley es Cristo?](https://www.youtube.com/watch?v=zLynBpmjJr0) (`source_id`: `youtube:zLynBpmjJr0`).
 - [La carta a los romanos (parte 25) La fidelidad es por la palabra de Dios](https://www.youtube.com/watch?v=ililQLS9UJE) (`source_id`: `youtube:ililQLS9UJE`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
