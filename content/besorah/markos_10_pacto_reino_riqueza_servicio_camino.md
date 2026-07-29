@@ -210,6 +210,12 @@ La demanda al hombre rico tiene tres movimientos que deben conservarse: **(πώ�
 
 El capítulo resuelve la pregunta por la grandeza cuando contrapone **(δοῦλος)**, _doulos_, «siervo o esclavo», con **(κύριος)**, _kyrios_, «señor», dentro de la crítica a quienes dominan. «Siervo» es una equivalencia contextual de **doulos**, no una invitación a borrar límites, justicia o protección frente al abuso. Yehoshua define su propio camino mediante **(διακονέω)**, _diakoneō_, «servir o atender», y mediante la entrega de su vida como **(λύτρον)**, _lytron_, «rescate o precio de liberación». BarTimai cierra la prueba: después de recibir misericordia, no reclama dominio, sino que sigue por el camino. La observación de Eric queda así anclada en verbos de recepción, renuncia, servicio y seguimiento.
 
+## Control de la imagen de la aguja (10:23-27)
+
+La imagen debe conservar su lugar después de que Yehoshua explica la dificultad de quienes confían en las riquezas. La forma **(κάμηλος)**, _kamelos_, significa «camello», mientras **(κάμιλος)**, _kamilos_, puede designar una cuerda o cable; la semejanza gráfica explica por qué la tradición textual y las traducciones discuten la lectura. El TTH local ofrece «cuerda», y Eric defiende esa opción, pero la variante no convierte el dicho en una puerta material estrecha ni permite rebajar la afirmación de 10:27: para los seres humanos es imposible, pero no para Elohim.
+
+La equivalencia hebrea **(גמל)**, _gamal_, «camello», ayuda a explicar el trasfondo semítico de la imagen, pero no decide entre las dos formas griegas. En orden narrativo, el punto no es resolver la etimología sino desmontar la confianza en bienes: **(πεποιθότας)**, _pepoithotas_, «los que han puesto su confianza», califica a los ricos en 10:24. Por eso la lectura de «cuerda» puede conservarse como opción textual atribuida a la clase y al TTH, mientras la imposibilidad humana y la posibilidad de Elohim permanecen como el argumento seguro del pasaje.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la forma griega de #markos_10_25 y las razones textuales de «cuerda» (**κάμιλος**) frente a «camello» (**κάμηλος**) en el aparato crítico.
