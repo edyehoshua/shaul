@@ -98,7 +98,7 @@ Los vv. 10-11 abren el horizonte que la clase apenas toca al cerrar el marco: ir
 | **(נהפך)**     | nehpaj          | se ha revuelto / volcado                        | הפך         | En 11:8 el corazón de יהוה se revuelve; contraste con el “corazón inclinado” de Shelomóh en Melajim 11.     |
 | **(נחומי)**    | nijumai         | mis consolaciones / compasiones                 | נחם         | En 11:8 se encienden o se comprimen; no aplanar a un solo matiz emocional moderno.                          |
 | **(שחת)**      | shajet          | destruir / corromper                            | שחת         | 11:9: “no volveré a destruir a Efráim”; contraste deliberado con el destino de Admáh y Tzeboim.             |
-| **(עגלי זהב)** | eglei zahav     | becerros de oro                                 | עגל / זהב   | Melajim 12:28; culto alternativo con fórmula de éxodo usurpada.                                             |
+| **(עגלי זהב)** | eglei zahav     | becerros de oro                                 | עגל · זהב   | Melajim 12:28; culto alternativo con fórmula de éxodo usurpada.                                             |
 | **(קרע)**      | qará            | arrancar / desgarrar                            | קרע         | Verbo de la sentencia sobre el reino en Melajim 11; marco histórico de la “casa” dividida.                  |
 
 ## Mapa de la enseñanza de Eric
