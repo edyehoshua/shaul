@@ -42,7 +42,6 @@ references:
   - "#yaakov_3_17"
   - "#sodot_19_10"
 sources:
-  - "/Users/jhonny/.codex/attachments/4ec22d16-14f8-4a60-83be-5aca773594a4/pasted-text.txt"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/daniel/7.json"
@@ -114,7 +113,7 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | **(מלכות האלהים)** | malkhut ha-Elohim | reino de Elohim | Aproximada | En #markos_9_1 la clase lo identifica con Yeshúa revelado con poder. |
 | **(וישתנה)** | vayishtaneh | se transformó | Aproximada | Delitzsch usa "cambió / fue transformado"; la clase lo llama metamorfosis. |
 | **(חכמה)** | jojmá | sabiduría | Pedagógica | La clase la relaciona con Torah, Moshéh y anulación del ego; requiere cotejo con fuentes judías citadas. |
-| **(בינה / דעת)** | biná / daat | inteligencia / conocimiento | Aproximada | La clase prefiere "inteligencia" para la profecía; Delitzsch de #qolosim_2_3 usa דעת. |
+| **(בינה; דעת)** | biná; daat | inteligencia; conocimiento | Aproximada | La clase prefiere "inteligencia" para la profecía; Delitzsch de #qolosim_2_3 usa דעת. |
 | **(מרכבה)** | merkavá | carroza | Pedagógica | En la clase: imagen de sujeción absoluta; la atribución a patriarcas queda pendiente de fuente midráshica exacta. |
 | **(שושנה)** | shoshanáh | lirio / flor entre espinos | Aproximada | TTH conserva shoshanáh; la lectura como planta espinosa y corona de espinas queda pendiente de verificación. |
 | **(לבנון)** | Levanón | Líbano / altar que blanquea | Pedagógica | La clase lo toma del Targum de Shir HaShirim 4:15; no se cerró como lexicografía directa. |

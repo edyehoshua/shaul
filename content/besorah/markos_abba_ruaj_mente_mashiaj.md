@@ -32,7 +32,6 @@ references:
   - "#bereshit_22_14"
   - "#sodot_13_8"
 sources:
-  - "/Users/jhonny/.codex/attachments/96a9227e-b474-41a9-a4ef-e236c1d13d74/pasted-text.txt"
   - "docs/scriptures/delitzsch/json/corinthians1.json"
   - "docs/scriptures/oe/json/isaiah/40.json"
   - "docs/scriptures/oe/json/ikings/10.json"
