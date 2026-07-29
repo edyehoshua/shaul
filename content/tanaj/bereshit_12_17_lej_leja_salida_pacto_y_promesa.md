@@ -154,6 +154,16 @@ Finalmente, #bereshit_17_1-11 cambia la promesa recibida en responsabilidad visi
 
 Lej Lejá no presenta una vida sin pruebas, sino una vida reordenada por la palabra de יהוה. Avram sale antes de poseer la tierra, espera antes de ver al hijo, atraviesa conflicto y aprende que la bendición no procede del botín ni de una solución fabricada. El relato culmina en Abraham, hombre cuyo nuevo nombre y señal expresan que la promesa recibida también reclama caminar delante de יהוה con integridad.
 
+## Reparación textual: la promesa incluye al vulnerable y limita la aplicación
+
+La escena de Hagar impide que la exposición sobre el «atajo» convierta a la sierva en un simple instrumento del error de Sarai. El mensajero dice **שובי אל גברתך והתעני תחת ידיה**, «vuelve a tu señora y humíllate bajo su mano» (#bereshit_16_9). **(ענה)**, _anah_, significa afligir, humillar u oprimir; aquí la forma reflexiva ordena una situación de sometimiento que el relato no presenta como ideal moral. «Sométete» es una equivalencia **aproximada**, y no debe borrar que Hagar está sufriendo.
+
+Al mismo tiempo, el anuncio a Hagar usa **הרבה ארבה את זרעך**, _harbah arbeh et zar'ekh_, «multiplicaré en gran manera tu descendencia» (#bereshit_16_10). **(רבה)**, _ravah_, significa hacerse grande, multiplicarse o abundar; en este contexto promete una descendencia numerosa a una mujer que ha sido expulsada y está en el desierto. «Éxito del plan de Sarai» sería una equivalencia **inexacta**: יהוה escucha a Hagar y le promete futuro sin declarar que la maniobra doméstica haya sido el cumplimiento de la promesa dada a Avram.
+
+La misma tensión reaparece cuando Abraham intercede por Ishmael: **לו ישמעאל יחיה לפניך**, «¡ojalá Ishmael viva delante de Ti!» (#bereshit_17_18). **(חיה)**, _hayah_, significa vivir, permanecer con vida o tener vida; aquí expresa la súplica de Abraham por su hijo, no una definición de la descendencia pactada. La respuesta distingue: **והקמתי את בריתי אתו**, «estableceré mi pacto con él» respecto de Isaac (#bereshit_17_21). Eric acierta al relacionar promesa y obediencia, pero el capítulo obliga a mantener dos líneas: יהוה atiende a Ishmael y, a la vez, delimita el pacto específico.
+
+Así, la salida de Lej Lejá no autoriza una espiritualidad que abandone a las personas heridas para proteger una interpretación de la promesa. **(שמע)**, _shama_, significa oír, escuchar o atender; en «יהוה שמע אל עניך» (#bereshit_16_11) su fuerza contextual es atención efectiva a la aflicción de Hagar. «Dios aprobó cada resultado» sería inexacto. La evaluación de Eric queda mejor fundada cuando conserva simultáneamente la crítica al control humano, la misericordia hacia Hagar y la distinción narrativa entre Ishmael e Isaac.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

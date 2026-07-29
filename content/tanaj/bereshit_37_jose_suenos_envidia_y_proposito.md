@@ -148,6 +148,16 @@ El cambio de asesinato a venta tampoco convierte el juicio en paz. Judá pregunt
 
 La providencia solo puede afirmarse desde el arco posterior. En este capítulo, Jacob ve la túnica y dice **טרף טרף יוסף**, _tarof taraf Yosef_, «José ha sido despedazado» (#bereshit_37_33). **(טרף)**, _taraf_, significa desgarrar o devorar como presa; la repetición intensifica la imagen. «Sacrificio» sería una equivalencia **inexacta**. La clase puede leer retrospectivamente el descenso a Mitsráyim como preservación, pero la afirmación inmediata es que la mentira produce duelo verdadero. יהוה no necesita llamar bueno al mal de los hermanos para conducir la historia hacia una preservación que el lector conocerá después.
 
+## Reparación textual: del encargo de Jacob a la sangre de la túnica
+
+El capítulo también deja ver que el conflicto no empieza en el pozo. Jacob pregunta a José: **הלא אחיך רעים בשכם לכה ואשלחך אליהם**, «¿no están tus hermanos pastoreando en Shejem? Ven, y te enviaré a ellos» (#bereshit_37_13). **(רעה)**, _raah_, significa pastorear, apacentar o cuidar; en esta forma su fuerza contextual identifica el trabajo de los hermanos, no una afirmación de que su conducta sea moralmente buena. La observación de Eric sobre una casa que debe ser examinada en sus frutos se vuelve más precisa aquí: el narrador pone en contraste el oficio de cuidar el rebaño con el trato que los hermanos darán a José.
+
+José responde **הנני**, _hineni_, «aquí estoy» (#bereshit_37_13). La forma es una partícula de disponibilidad o presencia; «obediencia perfecta» sería una equivalencia **pedagógica**, no exacta. El texto sí muestra que José acepta la misión y que luego persevera hasta encontrar a sus hermanos en Dotán. Esa disponibilidad no elimina la responsabilidad de quienes lo reciben con odio, ni prueba que cada decisión de José carezca de imprudencia.
+
+La sangre de cabrito permite evaluar la mentira por su procedimiento. **(טבל)**, _taval_, significa sumergir o mojar; en **ויטבלו את הכתנת בדם**, _vayitbelu et haketonet bedam_, describe una acción deliberada sobre la túnica, no una evidencia espontánea de muerte. «Purificar» sería una equivalencia **inexacta** en este contexto, aunque la misma raíz pueda aparecer en otros ritos. Eric insiste en que la verdad no se fabrica mediante una señal manipulada: Bereshit 37 lo confirma sin necesidad de afirmar que la sangre tenga un poder simbólico universal.
+
+Por último, el cierre dice que Potifar era **סריס פרעה**, _seris Paroh_, «oficial de Faraón» según el TTH. **(סריס)**, _saris_, normalmente designa un eunuco u oficial de corte; aquí la equivalencia «oficial» es **contextual y aproximada**, porque la forma puede conservar ambos matices. Este dato no resuelve todavía el destino de José. Su función narrativa es colocar al vendido dentro de una casa egipcia concreta, para que el lector siga el propósito a través de circunstancias reales en lugar de saltar directamente a la explicación posterior.
+
 ## Ver también
 
 - [[bereshit_6_noaj_gracia_juicio_y_consuelo|Bereshit 6: Noaj, gracia y juicio]]
