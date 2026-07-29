@@ -113,6 +113,12 @@ Entre aproximadamente 00:46:56 y 00:48:00, Eric distingue **חטאה**, **עון
 
 La clase vuelve a la responsabilidad personal frente a la idea de pecados generacionales, aproximadamente entre 00:58:37 y 01:00:00. Eric usa ejemplos de los hijos de Coré y de los profetas para sostener que el descendiente no está obligado a repetir la rebelión de su padre. Tehilim 32:10 solo contrasta los muchos dolores del malvado con el חסד que rodea al que confía; por eso la aplicación requiere el cotejo intertextual que Eric hace y no debe atribuir al v. 10 una teoría genética completa. Finalmente, cerca de 01:10:20, la imagen del caballo y el asno sin entendimiento se aplica a quien solo obedece bajo freno: 32:8-9 sí contrapone enseñanza y brida, pero la formación de la conciencia es una extensión pastoral de la clase.
 
+## Responsabilidad personal y conciencia que aprende
+
+La exposición no deja la afirmación sobre los «pecados generacionales» como una consigna aislada. Entre aproximadamente 00:58:37 y 01:00:00, Eric contrasta la suerte de los hijos de Coré con la rebelión de su padre y recuerda la formulación profética de que cada persona muere por su propio pecado. Su conclusión atribuible es que continuar voluntariamente en la transgresión del padre mantiene una responsabilidad real, pero apartarse de ella no deja al descendiente condenado por una culpa automática. Tehilim 32:10 no desarrolla por sí solo toda esa doctrina: sí contrapone **רבים מכאובים לרשע** («muchos dolores para el malvado») con **והבוטח ביהוה חסד יסובבנו** («al que confía en יהוה lo rodea el חסד»). La conexión con los hijos de Coré y los profetas es **canónica y cualificada**; no se presenta como si el salmo contuviera literalmente esas referencias.
+
+Eric también relaciona la confesión con una conciencia que aprende a obedecer sin esperar siempre un freno externo. En torno a 01:09:10-01:11:00, aplica **אל תהיו כסוס כפרד אין הבין** («no sean como caballo o mula, sin entendimiento») a quien solo responde cuando la brida lo obliga. El verbo **בין** (_bin_) significa entender o discernir; su fuerza en 32:9 es directa como contraste entre entendimiento y control exterior. La aplicación a una comunidad formada por la enseñanza es **pedagógica**, pero el recorrido del salmo la respalda: después de confesar, el orante es instruido en el camino (#tehilim_32_8), no simplemente retenido por castigo.
+
 ## Pendiente de verificar
 
 - [ ] Comparar los matices de נשוי, כסוי, חטאה, עון y פשע en los contextos de Torah y profetas.

@@ -112,6 +112,12 @@ Aproximadamente entre 00:10:46 y 00:11:20, Eric vuelve a enlazar «refugio y res
 
 La misma clase entreteje al David histórico con un David profético o amado, aproximadamente entre 00:21:42 y 00:22:20 y de nuevo cerca de 00:39:43. Esa lectura explica por qué la nota conserva ambas capas: el encabezado y las cuevas sostienen el plano histórico, mientras la entrega del espíritu, el rostro iluminado y la espera abren una lectura canónica posterior. La relación mesiánica es **aproximada y pedagógica**, no una traducción alternativa del nombre David ni una afirmación de que cada detalle geográfico sea profecía directa.
 
+## La roca, la Torá y la entrega del espíritu
+
+La exposición añade un matiz material que conviene no perder: entre aproximadamente 00:16:20 y 00:18:20 Eric vuelve a la petición de amparo y relaciona la roca y la fortaleza con la protección que יהוה ofrece mediante la palabra y las promesas de la Torá. El punto no es que **צור** (_tsur_, roca) signifique etimológicamente «Torá», sino que la clase lee la imagen de 31:3-4 canónicamente: la cueva protege de manera provisional, mientras יהוה —y la palabra en la que se refugia el siervo— constituye el amparo último. La relación entre roca física, fortaleza y Torah es **pedagógica y aproximada**; el texto afirma directamente «tú eres mi roca y mi fortaleza» y pide ser sacado de la red.
+
+En torno a 00:21:40-00:23:20, Eric conecta **בידך אפקיד רוחי** («en tu mano encomiendo mi espíritu», #tehilim*31_6) con las palabras de Yehoshua en el madero y con Lucas 23:46. Esa conexión no debe borrarse como una cautela genérica: es una observación intertextual concreta de la clase. El sentido inmediato de **רוח** (\_ruaj*) sigue siendo aliento, espíritu o vida confiada a יהוה; la relación con Lucas es **canónica y aproximada**, porque el salmo no se convierte por ello en una cita exclusiva de la escena del madero. La forma hebrea sostiene la entrega confiada; el uso posterior por Yehoshua confirma una recepción mesiánica del lenguaje, no una redefinición léxica de _ruaj_.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la reconstrucción histórica de David en el desierto de Yehudáh con los relatos de Shemuel.
