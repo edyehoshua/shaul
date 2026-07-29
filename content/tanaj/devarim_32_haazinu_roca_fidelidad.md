@@ -189,6 +189,14 @@ El v. 46 devuelve la enseñanza a la comunidad: **שימו לבבכם לכל ה�
 
 Por eso el cierre «porque no es palabra vacía de vosotros, porque es vuestra vida» (32:47) no funciona como eslogan separado de la tierra. **(ריק)**, _req_, significa vacío, vano o sin contenido; «palabra sin efecto» es aproximada, pues el contexto añade consecuencias: por esta palabra Israel prolongará sus días en la tierra. La lectura mesiánica que Eric enlaza con la fidelidad de Yehoshua puede conservarse como recepción canónica, pero no reemplaza el testimonio de Mosheh. La Roca es refugio precisamente porque es juez confiable; y la palabra da vida precisamente porque confronta la corrupción, forma la memoria y ordena la obediencia.
 
+## El canto completo: testimonio, juicio y vida
+
+La observación de Eric sobre una palabra que no es «vacía» debe conservar la estructura completa de Ha'azinu. El canto no entrega primero una promesa cómoda y después una corrección secundaria; llama a cielos y tierra, recuerda el cuidado, acusa el abandono y finalmente anuncia justicia y reconciliación. En 32:46 OE dice **שימו לבבכם לכל הדברים**, «pongan vuestro corazón en todas las palabras», mientras TTH conserva «aplicad vuestro corazón a todas las palabras». **(לבב)**, _levav_, significa corazón, centro interior, voluntad o entendimiento; aquí su fuerza contextual incluye discernimiento y respuesta, no solo sentimiento. «Interiorizar» es una equivalencia **pedagógica** y aproximada.
+
+La palabra «todas» limita la selección interesada. **(כל)**, _kol_, significa todo, cada uno o totalidad; en esta exhortación reúne bendición, acusación, juicio, memoria y esperanza. No es una explicación de cada sufrimiento individual, pero sí un mandato a recibir el testimonio sin recortarlo. **(עוד)**, _od_, en «porque no es palabra vacía» expresa la negación de algo sin contenido o sin efecto; «eslogan» es una paráfrasis pedagógica. La clase acierta al insistir en que el canto produce vida, pero el texto define esa vida mediante escucha, memoria y obediencia.
+
+El v. 43 añade el límite comunitario del cierre: **הרנינו גוים עמו**, _harninu goyim ammo_, «alégrense, naciones, con su pueblo». **(רנן)**, _ranan_, significa gritar de alegría o cantar jubilosamente; aquí su fuerza contextual es una respuesta pública de las naciones al acto judicial y restaurador de יהוה. «Celebración universal» es una equivalencia aproximada, no una desaparición del juicio previo. Delitzsch relee este movimiento en Ivrim 11:39–40 al hablar del testimonio recibido por los antiguos; esa conexión es canónica y posterior, mientras Devarim afirma directamente que la Roca juzga, vindica y reconcilia.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
