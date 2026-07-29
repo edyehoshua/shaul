@@ -18,6 +18,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=E6KrU1gAZds"
   - "https://www.youtube.com/watch?v=i0kaIhPMHZ8"
+  - "https://www.youtube.com/watch?v=F0y9JGvv4CE"
   - "docs/scriptures/oe/json/exodus/21.json"
   - "docs/scriptures/oe/json/exodus/22.json"
   - "docs/scriptures/oe/json/exodus/23.json"
@@ -26,6 +27,7 @@ sources:
 source_ids:
   - "youtube:E6KrU1gAZds"
   - "youtube:i0kaIhPMHZ8"
+  - "youtube:F0y9JGvv4CE"
 translation: "[OE, TTH]"
 ---
 
@@ -84,15 +86,28 @@ Shemot 23 prohíbe informe falso, presión de la mayoría, torcer el juicio y so
 
 En #shemot_24_3-8 el pueblo responde: «Las palabras que ha hablado יהוה haremos» y «haremos y obedeceremos». **(עשה)**, _asah_, significa hacer o realizar; **(שמע)**, _shama_, oír, escuchar y obedecer. El pacto une palabra escrita, acción prometida y sangre; no permite separar adoración de justicia. El título de la fuente acierta al subrayar procedimientos, siempre que los procedimientos se lean como la forma concreta de una comunidad redimida que no debe reproducir la opresión de Mitsraim.
 
+## «Varones de santidad»: título público y límites de la atribución
+
+La fuente asignada `youtube:F0y9JGvv4CE` lleva el título público «Parashát Mishpatim (2017). Varones de santidad». El transcript no está disponible en el inventario local: yt-dlp y la recuperación de subtítulos nativos no lo pudieron obtener. Por eso solo es atribuible a Eric el título público, su referencia a Parashat Mishpatim y el alcance temático que anuncia; no se inventan citas, marcas de tiempo ni argumentos privados. La expresión «varones de santidad» se evalúa desde Shemot 22:30, donde la santidad aparece junto con la entrega de lo que pertenece a יהוה, no como una licencia para declarar superior a un grupo.
+
+En 22:30, **(אנשי קדש)**, _anshei qodesh_, significa «varones de santidad» o «hombres santos»: **(איש)**, _ish_, nombra a un hombre o persona, y **(קדש)**, _qodesh_, al campo de lo santo o apartado. «Santos» es una glosa directa en el marco del versículo; decir que la expresión describe una élite sin deberes sería ilegítimo. La fuerza contextual se muestra en la orden siguiente: no comer carne despedazada en el campo, porque la consagración del pueblo se expresa en límites concretos sobre alimento y trato de lo que ha sido apartado.
+
+La misma unidad manda no demorar la ofrenda de la plenitud y del lagar, y llama «primogénito» a lo que se entrega a יהוה (22:29). **(מלאה)**, _mele'ah_, significa plenitud, abundancia o producto completo; aquí señala lo que llena la cosecha y no debe retenerse indefinidamente. **(דמע)**, _deme'a_, significa lágrima o jugo que gotea; en este contexto se refiere al producto exprimido de la cosecha. Las glosas son aproximadas y contextuales: no convierten las formas en una teoría de mérito, sino que muestran que la santidad anunciada por el título público se prueba mediante una respuesta material, temporal y obediente.
+
+El pasaje también enlaza «varones de santidad» con el extranjero, la viuda, el huérfano y el pobre (22:21–27). **(גר)**, _ger_, significa extranjero residente; su fuerza contextual es una persona vulnerable dentro del orden comunitario, no un extraño sin protección. **(ענה)**, _anah_, significa afligir, humillar u oprimir; aquí describe un abuso que provoca el clamor de la víctima y la respuesta judicial de יהוה. La correspondencia entre santidad y justicia social es textual en el orden de Mishpatim: la consagración no puede separarse de no oprimir, escuchar el clamor y prestar sin usura.
+
+La observación pública recibe así apoyo cualificado. Es textual que Shemot llama «santos» a los hombres dentro de una serie de mandatos y que el bloque protege al vulnerable; es aproximado usar el título para resumir toda la parashá; y sería inferencial atribuir a Eric una definición detallada de _qodesh_ sin transcript. La lectura canónica conserva el título visible, pero deja que los versículos determinen su fuerza: santidad significa pertenencia a יהוה expresada en límites, generosidad, justicia y obediencia.
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual   | Observación visible de la fuente pública                          | Tratamiento                                      |
-| ---------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
-| #shemot_21_1-11  | «Estos son los procedimientos» sitúa la parashá en la práctica.   | Apoyo textual y aclaración de _mishpatim_.       |
-| #shemot_21_23-27 | La respuesta al daño tiene un límite proporcional.                | Se distingue justicia legal de venganza privada. |
-| #shemot_22_21-27 | La memoria de Mitsraim fundamenta el cuidado del vulnerable.      | Se siguen extranjero, viuda, huérfano y pobre.   |
-| #shemot_23_1-12  | Los procedimientos incluyen tribunal, enemigo, tierra y descanso. | Se conserva el alcance social de la justicia.    |
-| #shemot_24_3-8   | El pacto exige hacer y obedecer las palabras.                     | Se vinculan texto, acción y sangre.              |
+| Unidad textual                          | Observación visible de la fuente pública                                                                          | Tratamiento                                                                                                                                                                       |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #shemot_21_1-11                         | «Estos son los procedimientos» sitúa la parashá en la práctica.                                                   | Apoyo textual y aclaración de _mishpatim_.                                                                                                                                        |
+| #shemot_21_23-27                        | La respuesta al daño tiene un límite proporcional.                                                                | Se distingue justicia legal de venganza privada.                                                                                                                                  |
+| #shemot_22_21-27                        | La memoria de Mitsraim fundamenta el cuidado del vulnerable.                                                      | Se siguen extranjero, viuda, huérfano y pobre.                                                                                                                                    |
+| #shemot_23_1-12                         | Los procedimientos incluyen tribunal, enemigo, tierra y descanso.                                                 | Se conserva el alcance social de la justicia.                                                                                                                                     |
+| #shemot_24_3-8                          | El pacto exige hacer y obedecer las palabras.                                                                     | Se vinculan texto, acción y sangre.                                                                                                                                               |
+| #shemot_22_21-31; `youtube:F0y9JGvv4CE` | El título público «Parashát Mishpatim (2017). Varones de santidad» fija un foco de santidad dentro de la parashá. | Se contrasta el alcance anunciado con 22:21–31: santidad, alimento, primicias, primogénito y protección del vulnerable; sin transcript no se atribuyen explicaciones adicionales. |
 
 ## Léxico ampliado
 
@@ -164,4 +179,5 @@ Shemot 21 une normas concretas con responsabilidad pública. La lectura de #shem
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Las "613" mitzvot #227-230 Acerca de las penas capitales](https://www.youtube.com/watch?v=E6KrU1gAZds) — `youtube:E6KrU1gAZds`.
 - Video: [Estos son los procedimientos que pondrás delante de ellos](https://www.youtube.com/watch?v=i0kaIhPMHZ8) — `youtube:i0kaIhPMHZ8`.
+- Video: [Parashát Mishpatim (2017). Varones de santidad](https://www.youtube.com/watch?v=F0y9JGvv4CE) — `youtube:F0y9JGvv4CE`. Transcript no disponible; se usa el título público para delimitar el alcance.
 - Esta nota organiza y contrasta la exposición; la transcripción automática no se presenta como cita literal.
