@@ -131,6 +131,16 @@ El clamor debe probarse en dos testigos puestos en relación, no mezclarse. **(�
 
 El velo y la sepultura impiden reducir el capítulo a una idea espiritual sin cuerpo. **(καταπέτασμα)**, _katapetasma_, «velo o cortina», se rasga **(σχίζω)**, _schizō_, «partir o rasgar», de arriba abajo después de que Yehoshua expira. Luego Iosef **(ἐνείλησεν)**, _eneilesen_, «envolvió», el cuerpo y lo coloca en un sepulcro, y las mujeres observan dónde era puesto. La posible lectura de acceso al Hejal debe permanecer como inferencia; el orden seguro es muerte, signo del santuario, confesión, cuidado del cuerpo y testimonio del lugar. Así, las observaciones históricas y litúrgicas de Eric se miden contra una secuencia concreta que prepara la resurrección sin anticiparla indebidamente.
 
+## Control del cierre: cuerpo, Shabat y testigos (15:33-47)
+
+La parte 44 de Eric insiste en que el calendario de la fiesta no debe separarse del cuerpo sepultado. El texto local permite afirmar algo más limitado y más firme: la oscuridad va de la hora sexta a la novena, Yehoshua expira, Iosef pide el cuerpo «porque era preparación, es decir, víspera del Shabat», y las mujeres observan el sepulcro (`#markos_15_33-47`). **(παρασκευή)**, _paraskeuē_, significa preparación o día preparatorio; su equivalencia con **(ערב שבת)**, _erev Shabat_, es funcional y contextual, no una prueba suficiente para reconstruir por sí sola todas las horas de la Pascua.
+
+Eric relaciona la palabra **(ἐσχίσθη)**, _eschisthē_, «fue rasgado», con una apertura del Hejal y con el acceso a la presencia de Elohim. Marcos sí coloca el rasgado del **(καταπέτασμα)**, _katapetasma_, «velo o cortina», inmediatamente después de la muerte y antes de la confesión del centurión; por tanto, la lectura intertextual tiene un anclaje narrativo. Pero el verbo pasivo no dice quién rasga ni explica en una frase el alcance ritual del signo. La equivalencia con **(פרכת)**, _paroket_, «cortina o velo», ayuda a comparar el santuario, aunque es aproximada hasta cotejar el uso preciso en la Torah y en el período del Segundo Templo.
+
+El capítulo termina con tres testigos que no deben confundirse: el centurión ve cómo Yehoshua expira y confiesa; las mujeres ven de lejos y recuerdan quiénes servían; la presencia de Iosef queda verificada por Pilato y por el centurión cuando recibe el cuerpo y lo coloca. **(θεωρέω)**, _theōreō_, «mirar, observar o contemplar», y **(ἐνείλησεν)**, _eneilesen_, «envolvió», mantienen el cierre en acciones verificables. La observación de Eric sobre la importancia del testimonio queda apoyada por esta cadena; las identificaciones históricas de Alejandro, Rufos y las mujeres siguen siendo inferencias, no datos que Marcos desarrolla aquí.
+
+La unidad completa protege dos afirmaciones pastorales. Primero, la cruz no es una apariencia: el cuerpo muere, es confirmado y queda depositado. Segundo, el Shabat no aparece como un detalle descartable: organiza la urgencia de la sepultura y prepara el «después del Shabat» de Marcos 16. La nota conserva así la lectura de Eric sobre calendario y santuario sin permitir que una cronología discutida desplace el texto explícito.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la propuesta de leer #tehilim_22_1 / #markos_15_34 con matiz de futuro o de no-abandono consumado frente a la gramática masorética y las versiones antiguas.
