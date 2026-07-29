@@ -110,8 +110,6 @@ Luego vienen los resultados concretos, en el mismo orden: Torá puesta dentro, e
 | **σκιά**       | _skia_          | sombra                      | En 8:5 expresa representación de lo celestial; la relación tipológica es aproximada, no desprecio de lo terrenal.      |
 | **תּוֹרָה**    | _torah_         | instrucción, enseñanza, ley | En 8:10 es el contenido que יהוה escribe dentro; contradice la lectura de “pacto nuevo” como eliminación de toda Torá. |
 
-## Conclusión
-
 ## Reparación de trazabilidad: «mejor» se prueba por su contenido
 
 La clase pública de Eric no deja la palabra «mejor» como un adjetivo suelto. Su recorrido pasa de la función del sacerdote a la cita de Yirmeyahu: primero el Hijo es ministro del santuario verdadero, luego es mediador de un pacto mejor, y finalmente la promesa explica la mejora mediante Torá interiorizada, conocimiento y perdón. El orden local lo confirma: **הוּא מְשָׁרֵת בְּרִית טוֹבָה מִזֹּאת** (8:6), **וְכָרַתִּי אֶת־בֵּית יִשְׂרָאֵל וְאֶת־בֵּית יְהוּדָה בְּרִית חֲדָשָׁה** (8:8), y **נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתֳּבֶנָּה** (8:10). Esta secuencia conserva la enseñanza efectiva de Eric: «mejorada» es una paráfrasis pedagógica, mientras que el texto especifica en qué consiste la novedad.

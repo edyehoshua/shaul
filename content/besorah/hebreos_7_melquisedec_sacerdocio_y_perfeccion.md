@@ -118,7 +118,11 @@ La clase de Eric en `youtube:0RbDcydhCFE` sigue un argumento que no debe inverti
 
 En 7:20-25, el juramento de יהוה y la vida permanente del Hijo explican por qué su sacerdocio no pasa a otro. **ἀπαράβατος**, _aparabatos_, significa «permanente o intransferible»; la relación con la intercesión es exacta, aunque «sin posibilidad de transgredir» permanece como glosa pedagógica de Eric. Finalmente, 7:26-28 contrapone sacerdotes que ofrecen repetidamente por sus propios pecados con el Hijo, que se ofreció una vez; **ἐφάπαξ**, _ephapax_, significa «una vez, de una vez para siempre». La secuencia confirma permanencia, intercesión y ofrenda única sin convertir las extensiones sobre el ámbito celestial en frases literales del capítulo.
 
-## Conclusión
+## Control de lectura: la transición no es un salto doctrinal
+
+La exposición de Eric une la pregunta por la perfección con la investidura del Hijo, pero la carta conserva varios pasos que deben quedar visibles. Primero dice que el sacerdote pertenece a otra tribu: **כִּי אֲשֶׁר־מְדֻבָּר בּוֹ כָּזׂאת הוּא מִשֵּׁבֶט אַחֵר אֲשֶׁר מֵעוֹלָם לׂא־שֵׁרֵת אִישׁ מִמֶּנּוּ בַּמִּזְבֵּחַ** (7:13). Después funda la semejanza no en genealogía levítica, sino en **כִּי־עֵד עָלָיו כִּי־אַתָּה כׂהֵן לְעוֹלָם עַל־דִּבְרָתִי מַלְכִּי־צֶדֶק** (7:17). La observación de Eric sobre un oficio recibido tras la vida indestructible es, por tanto, una paráfrasis atribuible apoyada por el orden del pasaje; no debe presentarse como si 7:1-3 narrara una biografía celestial completa.
+
+La consecuencia también se expresa con precisión local: **כִּי הַתּוֹרָה לׂא־הִשְׁלִימָה דָּבָר וְהִנֵּה נִכְנְסָה תַּחְתֶּיהָ תִּקְוָה טוֹבָה מִמֶּנָּה אֲשֶׁר־נִקְרַב עַל־יָדָהּ לֵאלֹהִים** (7:19). **τελείωσις**, _teleiōsis_, significa perfección, realización o llegada a la meta; su fuerza en este capítulo es sacerdotal, mientras la relación con conciencia limpia se desarrolla en 9–10. “Perfección de la conciencia” es así una síntesis **aproximada y canónica** de la enseñanza de Eric, no una sustitución de la pregunta de 7:11. La carta prueba el cambio de sacerdocio, la esperanza de acercamiento y la permanencia del Hijo; las extensiones sobre su condición celestial deben quedar calificadas.
 
 ## Reparación de trazabilidad: la secuencia que Eric enseña
 
