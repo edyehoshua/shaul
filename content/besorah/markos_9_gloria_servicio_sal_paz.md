@@ -165,6 +165,12 @@ La conexión con la sal debe mantenerse igualmente en su lugar. **(ἅλας)**,
 
 Marcos 9 lleva del monte a la casa y de la gloria a la comunidad concreta. La voz no manda construir una experiencia aparte, sino escuchar a Yehoshua cuando anuncia su entrega y resurrección. La fe que pide ayuda, el servicio que renuncia a ser primero, la protección de los pequeños y la sal que produce _shalom_ son expresiones distintas de esa escucha. El discípulo no domina el poder de Elohim ni convierte la cercanía al Mesías en monopolio: recibe, sirve y corta de raíz aquello que hace caer.
 
+## Prueba final de la secuencia
+
+La unidad no se sostiene solo por sus temas; el orden de los verbos también limita la interpretación. En 9:2 **(μετεμορφώθη)**, _metemorphōthē_, «fue transformado», presenta una manifestación recibida por los tres testigos. En 9:7 **(ἀκούετε)**, _akouete_, «escuchen», convierte esa manifestación en encargo. Después, en 9:31 **(παραδίδοται)**, _paradidotai_, «es entregado», y en 9:35 **(διακονεῖν)**, _diakonein_, «servir», llevan la gloria hacia la entrega y el servicio. La equivalencia entre «transformarse» y «glorificarse» es interpretativa; la secuencia manifestación–escucha–entrega–servicio sí está en el relato.
+
+La misma prueba corrige dos excesos. **(παιδίον)**, _paidion_, significa «niño» o «pequeño» en 9:36; no debe reemplazarse por «siervo» solo para hacer encajar una tesis sobre jerarquía. Y **(ἅλας)**, _halas_, significa «sal» en 9:50; el trasfondo de **(מלח)**, _melaj_, «sal», y la sal del pacto de Vaikra 2:13 iluminan la imagen, pero no convierten automáticamente el pasaje en una retroversión hebrea. Así, la observación de Eric sobre una comunidad preservada en paz queda probada por el cierre «haya shalom entre ustedes», mientras las reconstrucciones textuales permanecen calificadas.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

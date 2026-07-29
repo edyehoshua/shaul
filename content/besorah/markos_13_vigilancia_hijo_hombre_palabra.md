@@ -257,6 +257,12 @@ La exhortación final prueba cómo debe recibirse esa palabra. **βλέπετε*
 
 Marcos 13 deja al discípulo ante una tarea concreta: velar, porque el día y la hora no han sido entregados para el cálculo. La clase sostiene que el Hijo del Hombre no revela ese dato porque la vigilancia pertenece a la forma misma de la fidelidad. Su lectura de Abba como palabra inamovible es una propuesta teológica, no una traducción automática del arameo; ayuda a enlazar la venida repentina con la obediencia posterior de Yehoshua, pero exige conservar la distinción entre el texto y su desarrollo doctrinal.
 
+## Prueba final de la transición
+
+El argumento de Eric puede comprobarse sin resolver por adelantado la cronología de Daniel. Marcos comienza con **(βλέπετε)**, _blepete_, «miren o estén atentos», y **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos»; luego repite **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». Son imperativos presentes dirigidos a la comunidad, no claves para identificar una fecha. La negación de **(οἶδεν)**, _oiden_, «sabe», en 13:32, y la llegada inesperada del señor en 13:35-36 forman el contraste: la información queda restringida, pero la responsabilidad queda explícita.
+
+Por eso la afirmación histórica sobre las setenta semanas debe ocupar un lugar subordinado al movimiento del capítulo. **(שבעים)**, _shavuim_, designa «sietes» o «semanas», y **(משיח)**, _mashiach_, «ungido»; ninguna forma por sí sola demuestra el acontecimiento que cierra el período. La clase de Eric puede sostener que el templo y su destrucción son un horizonte decisivo, porque Marcos abre el discurso con el templo y habla de desolación y huida. Pero la equivalencia entre ese horizonte y una cronología exhaustiva es una inferencia histórica, no el sentido automático de las palabras hebreas. El cierre conserva la prioridad textual: **(οὐ μὴ παρέλθωσιν)**, _ou mē parelthōsin_, «de ningún modo pasarán», afirma la permanencia de las palabras, mientras **(γρηγορεῖτε)** ordena obedecerlas sin pretender saber la hora.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
