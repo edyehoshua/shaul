@@ -193,6 +193,8 @@ El punto doctrinal de la clase es que el Mesías, sin pecado propio, cargó la c
 | Literatura judía        | Patriarcas como merkavah             | Sabiduría como sujeción absoluta a Elohim                          | Pendiente de localizar |
 | Léxicos hebreo y arameo | פלל, תפלה, אבא                       | Oración como juicio y Abba como padre u origen                     | Pendiente de cotejar   |
 
+La parte 41 afirma de manera explícita que las setenta semanas ya se cumplieron con la destrucción del segundo templo y que no queda una semana suspendida para un anticristo futuro. Eric dice además que dos comentarios rabínicos que consultó coinciden con esa lectura. La observación histórica queda preservada, pero no se presentan esos comentarios como citas comprobadas: el transcript no entrega autor, obra ni pasaje estable. El texto de Marcos confirma que el templo, la desolación y la huida pertenecen al horizonte del discurso (#markos_13_1-4, #markos_13_14), mientras que 13:32-37 impide usar cualquier reconstrucción para calcular el día y la hora. Así se puede evaluar la tesis fuerte de Eric sin convertir una mención bibliográfica incompleta en evidencia independiente ni confundir el cumplimiento histórico del templo con una licencia para fechar la venida.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la afirmación de que a la sabiduría se le llamó Abba en Targum, midrash o literatura rabínica.
