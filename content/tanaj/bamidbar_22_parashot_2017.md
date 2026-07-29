@@ -104,6 +104,30 @@ Esa orden aparece en **ואפס את הדבר אשר אדבר אליך אתו ת
 | **(מלאך)** | _malakh_        | mensajero              | agente que ejecuta el mandato divino     | “ángel” es traducción tradicional y aproximada                                                 |
 | **(שטן)**  | _satan_         | adversario, obstáculo  | el mensajero se opone al camino de Bilam | “Satanás” como nombre propio es una lectura más estrecha                                       |
 
+## La ceguera del mensajero y la obediencia de la boca: vv. 22–35
+
+La escena del camino no presenta al asna como una fuente autónoma de revelación. El OE dice que el mensajero de יהוה estaba **נצב בדרך לשטן לו**, «de pie en el camino como adversario para él» (#bamidbar_22_22). **(יצב)**, _yatsav_, significa estar de pie, colocarse o mantenerse firme; su fuerza contextual es una oposición visible que bloquea el trayecto. **(שטן)**, _satan_, significa adversario u obstáculo; «Satanás» como nombre propio es una equivalencia interpretativa más estrecha. Eric identifica esta oposición con el límite impuesto al profeta, y el relato lo apoya sin exigir una demonología completa.
+
+El asna ve tres veces al mensajero mientras Bilam no lo ve. **(ראה)**, _raah_, significa ver, percibir o mirar; en 22:31, cuando יהוה descubre los ojos de Bilam, la forma adquiere fuerza narrativa de percepción concedida. «Iluminación espiritual» es una aplicación pedagógica, no el sentido exclusivo del verbo. La ironía queda en los sujetos: el animal percibe el peligro y el vidente golpea al animal. Eric conserva bien la denuncia de una visión obstruida por el camino que el profeta insiste en seguir, pero el texto atribuye la apertura de los ojos a la acción de יהוה, no a una técnica de sensibilidad interior.
+
+Después de ver la espada, Bilam dice **חטאתי**, _jatati_, «he pecado», de **(חטא)**, _jata_, errar o pecar. La confesión es una equivalencia aproximada de la forma verbal en primera persona; no prueba por sí sola que toda su motivación haya quedado transformada. La instrucción decisiva viene enseguida: «la palabra que te hable, ésa hablarás» (#bamidbar_22:35). **(דבר)**, _davar_, significa hablar, palabra o asunto; aquí su fuerza contextual es el mensaje autorizado que Bilam no puede modificar. La clase acierta al contrastar don y codicia cuando se mantiene esta secuencia: reconocer el pecado debe desembocar en hablar solo lo mandado.
+
+## Del encuentro con Balaq a la palabra autorizada: vv. 36–41
+
+Balaq sale al límite de Moab para reprochar a Bilam: «¿No envié yo a llamarte?». La respuesta de Bilam no promete eficacia, sino dependencia: «¿Podré ahora hablar algo? La palabra que Elohim ponga en mi boca, ésa hablaré» (#bamidbar_22_38). **(יכול)**, _yajol_, significa poder, ser capaz o tener posibilidad; aquí su fuerza es una capacidad limitada por la autoridad divina. «Tener permiso» es una equivalencia **aproximada**, porque el verbo presenta capacidad y el contexto la restringe.
+
+El capítulo todavía muestra una negociación ritual. Balaq sacrifica bueyes y ovejas, y al día siguiente lleva a Bilam a Bamot-Baal para que vea «el extremo del pueblo» (#bamidbar_22_40–41). **(זבח)**, _zavaj_, significa sacrificar o realizar un sacrificio; aquí designa la acción cultual del rey, pero el narrador no dice que el sacrificio compre la bendición. **(קצה)**, _qetsé_, significa extremo, borde o límite; al enfocar solo una parte del campamento, Balaq intenta administrar la perspectiva del profeta. «Reducir el pueblo al encuadre» es una paráfrasis **pedagógica**, no la traducción de la forma.
+
+Este cierre evalúa con sobriedad el énfasis de Eric sobre lucro y concupiscencia. El texto no ofrece un monólogo que permita reconstruir toda la psicología de Bilam, pero sí mantiene tres hechos en secuencia: Balaq ofrece honor, el camino de Bilam provoca el enojo divino y la palabra final queda fuera del control de ambos. La mirada parcial de Balaq tampoco cambia el objeto de la promesa. La escena prepara Bamidbar 23: el escenario puede ser escogido por el rey, pero la bendición o maldición no se produce por comprar al mensajero ni por recortar la vista.
+
+## Recorrido final: ver, escuchar y hablar bajo mandato
+
+La narración coloca la percepción antes de la proclamación. Balaq **ראה**, _raah_, «ve», a Israel y teme; Bilam ve finalmente al mensajero cuando יהוה descubre sus ojos; y después debe hablar lo que se le ordene. El verbo **(גלה)**, _galah_, significa descubrir, revelar o dejar al descubierto. En 22:31 su fuerza es que la percepción de Bilam depende de una acción divina, no de una superioridad automática del profeta. «Despertar interior» es pedagógico, pero no equivale exactamente a la forma narrativa.
+
+La frase de 22:35 fija el límite: **ואפס את הדבר אשר אדבר אליך אתו תדבר**, «pero solamente la palabra que yo te hable, ésa hablarás». **(דבר)**, _davar_, puede significar palabra, asunto o cosa; aquí funciona como mensaje que debe ser repetido sin modificación. «Inspiración libre» sería una equivalencia inexacta. La observación de Eric sobre el don no comercializable queda confirmada por la sintaxis del mandato: Bilam puede desplazarse, pero no puede decidir el contenido.
+
+El capítulo no presenta a Balaq como dueño de la interpretación. En 22:41 el rey muestra «el extremo del pueblo» desde Bamot-Baal; **(ראה)**, _raah_, describe la mirada dirigida y **(קצה)**, _qetsé_, el borde o extremo. «Manipular el encuadre» es una paráfrasis pedagógica que ayuda a explicar la acción, no el sentido léxico completo. La secuencia textual conserva así la evaluación: el poder selecciona el ángulo y ofrece la recompensa, pero יהוה determina la palabra. La enseñanza pastoral sobre codicia debe permanecer subordinada a esa diferencia entre perspectiva humana y autorización divina.
+
 ## Mapa de la enseñanza de Eric
 
 | Perícopa                                 | Observación concreta atribuida a la clase                                                                                      | Prueba y tratamiento                                                                                                                                          |

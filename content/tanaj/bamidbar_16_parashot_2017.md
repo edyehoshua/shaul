@@ -78,6 +78,14 @@ Cuando la gloria aparece y la nube cubre la Tienda, Mosheh y Aharón caen sobre 
 
 Esta secuencia también corrige una aplicación demasiado simple de «hacer todo como para יהוה». El texto conserva juicio, queja, intercesión y límite. La conducta de Aharón no imita la sentencia de יהוה ni reclama autoridad propia; obedece una instrucción, lleva el incienso y sirve a la congregación. La correspondencia con el servicio actual es pedagógica, mientras que la fuerza exacta de 16:36-50 es mostrar cómo el memorial y la intercesión protegen a Israel de repetir la rebelión.
 
+## Recorrido textual: de la demanda de rango al servicio que detiene la plaga
+
+El capítulo avanza desde una acusación general hacia criterios verificables. Koraj dice que toda la congregación es santa, pero Mosheh responde recordando una cercanía ya recibida: **להקטיר את קטרת יהוה**, «para quemar el incienso de יהוה» (#bamidbar_16_7). **(קרב)**, _qarav_, significa acercarse o presentar; en esta unidad expresa acceso regulado al servicio, no una sensación privada de proximidad. «Adorar» es una equivalencia pedagógica amplia: el texto habla de acercarse con incienso dentro del orden del Mishkán.
+
+La prueba no se decide por volumen de seguidores. Mosheh pide que cada hombre tome su incensario y comparezca ante יהוה; **(בחן)**, _bajan_, significa probar o examinar, y su fuerza contextual es dejar que יהוה manifieste a quién ha escogido. El OE conserva «y será que el hombre que יהוה escogiere, él será el santo», mientras el TTH expresa la elección en términos de acercamiento. «Elección popular» sería una equivalencia inexacta: la multitud participa en la escena, pero no determina la función sacerdotal.
+
+El desenlace muestra qué significa hacer el servicio delante de יהוה. Cuando la plaga comienza, Mosheh manda a Aharón a tomar el incensario y ponerse entre los muertos y los vivos (#bamidbar_16_46-48). La forma **(עמד)**, _amad_, significa estar de pie o permanecer; aquí su fuerza es interponerse obedientemente en favor de la congregación. «Héroe» sería una ampliación ajena al pasaje. Eric acierta al llamar a la humildad una marca del servicio cuando se la mide por esta acción: la autoridad recibida se reconoce porque protege la vida y no porque reclama un rango.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual     | Observación concreta de Eric                                                                                               | Evaluación frente al texto                                                                                                             |
