@@ -30,11 +30,13 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=agFU_axg_s0"
   - "https://www.youtube.com/watch?v=IhLu5hOaxYs"
+  - "https://www.youtube.com/watch?v=1qwfOY-W8Fo"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
   - "youtube:agFU_axg_s0"
   - "youtube:IhLu5hOaxYs"
+  - "youtube:1qwfOY-W8Fo"
 translation: "[TTH]"
 ---
 
@@ -44,7 +46,7 @@ Marcos 4 lleva la palabra desde el oído hasta una fidelidad probada. Yehoshua e
 
 ## Alcance y atribución
 
-Esta nota reúne las observaciones de Eric de Jesús Rodríguez Mendoza en la parte 8, centrada en la semilla y el reino, y en la parte 17, que continúa las parábolas y la travesía. La transcripción automática no se reproduce como cita literal. Eric insiste en que escuchar incluye comprender y obedecer, que el crecimiento no es una técnica controlable por el sembrador y que la tormenta prueba una palabra ya recibida. Cada observación se contrasta a continuación con la secuencia local de Marcos 4; las conexiones hebreas se presentan como equivalencias aproximadas, no como prueba de que el griego sea una traducción mecánica.
+Esta nota reúne las observaciones de Eric de Jesús Rodríguez Mendoza en la parte 8, la parte 16 («Las parábolas») y la parte 17, que continúa las parábolas y la travesía. La fuente de la parte 16 está registrada por su título público, pero su transcripción no estuvo disponible; por eso no se atribuyen a Eric detalles que no puedan comprobarse. La exposición disponible insiste en que escuchar incluye comprender y obedecer, que el crecimiento no es una técnica controlable por el sembrador y que la tormenta prueba una palabra ya recibida. Cada observación se contrasta a continuación con la secuencia local de Marcos 4; las conexiones hebreas se presentan como equivalencias aproximadas, no como prueba de que el griego sea una traducción mecánica.
 
 ## Perícopas en orden
 
@@ -85,7 +87,7 @@ La última pregunta de Yehoshua es sobre su fidelidad: **(πίστις)**, _pist
 ## Mapa de la enseñanza de Eric
 
 - **Parte 8, Marcos 4:26-32:** Eric relaciona la semilla, el crecimiento y el reino, y observa que el proceso no queda bajo control del sembrador. Marcos confirma las etapas y el fruto; la lectura de las aves como naciones queda como intertexto.
-- **Parte 16, capítulo 4:** el título público centra la sesión en las parábolas. La nota conserva ese foco dentro del orden de Marcos, desde la semilla hasta la orden de cruzar; no trata «escuchar» como una equivalencia automática de obedecer.
+- **Parte 16, capítulo 4 — «Las parábolas»:** el título público centra la sesión en las parábolas. La fuente añade un crédito público a la misma unidad canónica, pero su transcripción figura como no disponible; se prueba el capítulo únicamente con Marcos 4 local, sin reconstruir una enseñanza no verificable.
 - **Parte 17, Marcos 4:33-41:** Eric lee la tormenta como prueba de una palabra ya oída y conecta la autoridad sobre el mar con los salmos. Marcos confirma la orden, el miedo, la reprensión y la calma; la identificación intertextual con la acción de יהוה se presenta como argumento, no como cita explícita.
 
 ## Léxico de control
@@ -122,6 +124,7 @@ Marcos 4 lleva de la palabra sembrada a la palabra que ordena al mar. El reino c
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [El Evangelio según Marco — Parte 8: la semilla y el reino](https://www.youtube.com/watch?v=agFU_axg_s0) (`source_id`: `youtube:agFU_axg_s0`).
 - Video: [El Evangelio según Marco — Parte 17: capítulo 4, parábolas y tormenta](https://www.youtube.com/watch?v=IhLu5hOaxYs) (`source_id`: `youtube:IhLu5hOaxYs`).
+- Video: [Evangelio según Marco — Parte 16: capítulo 4, las parábolas](https://www.youtube.com/watch?v=1qwfOY-W8Fo) (`source_id`: `youtube:1qwfOY-W8Fo`). La transcripción no estuvo disponible; solo se atribuye el alcance indicado por el título público.
 - Esta nota organiza y contrasta la exposición; no presenta una transcripción automática como cita literal.
 
 ## Ver también
