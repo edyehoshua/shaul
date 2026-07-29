@@ -93,6 +93,14 @@ En 11:44 el TTH dice: «Porque Yo soy יהוה su Elohim; y se consagrarán, y s
 
 El orden de las perícopas también importa: primero el fuego extraño y la enseñanza sacerdotal, después la mesa de Israel y la memoria del éxodo. **(למד)**, _lamad_, significa aprender o enseñar; en 10:11 la forma tiene fuerza causativa, «hacer conocer» los estatutos a los hijos de Israel. «Predicar» es una equivalencia aproximada y demasiado amplia. El servidor aprende a separar lo santo de lo común para enseñar al pueblo, y la comunidad practica esa diferencia en su vida corporal; la aplicación al Mashíaj puede ser posterior, pero no debe saltarse esta arquitectura textual.
 
+## La santidad también regula el contacto — Vayikra 11:24–40
+
+La distinción alimentaria no termina cuando se identifica qué animal puede comerse. En 11:24–25 el contacto con el cadáver produce impureza «hasta la tarde» y exige lavar la ropa. **(ערב)**, _erev_, significa tarde o anochecer; aquí marca el límite temporal del estado ritual, no una imagen de oscuridad moral. **(כבס)**, _kavas_, significa lavar; «arrepentirse» sería una equivalencia pedagógica incorrecta, porque el texto prescribe una acción corporal concreta.
+
+El v. 28 resume la respuesta: quien cargue el cadáver lavará sus vestidos y será impuro hasta la tarde. **(נשא)**, _nasa_, significa llevar o cargar; en esta perícopa describe manipulación física, mientras que en 11:45 «hacer subir» recuerda la salida de Mitzráim. La misma raíz no tiene una única traducción fija: la fuerza depende de la unidad. Eric puede aplicar la categoría a la responsabilidad del servidor, pero el texto primero distingue estados, duración y respuesta, sin convertir toda impureza en culpa moral.
+
+En 11:37–38 la semilla para sembrar no queda impura de la misma manera que el alimento húmedo. La regla muestra que el discernimiento atiende al uso y a las condiciones, no a etiquetas simplistas. **(זרע)**, _zera_, significa semilla o descendencia; aquí es semilla destinada a la siembra. «Potencial espiritual» sería una analogía pedagógica, no el sentido normal. El cierre evalúa la observación de Eric con equilibrio: la santidad se aprende en diferencias concretas, y precisamente por eso no debe reemplazarse por alegorías arbitrarias.
+
 ## Mapa de la enseñanza de Eric
 
 | Observación pública atribuida a Eric                                                           | Evaluación frente al texto                                                                                    |
