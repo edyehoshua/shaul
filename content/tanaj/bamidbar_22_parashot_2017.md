@@ -69,6 +69,14 @@ Tres veces el asna ve al mensajero y tres veces Bilam la golpea. La repetición 
 
 Balaq sale al encuentro y reprocha a Bilam no haber acudido antes. Bilam responde que ahora puede hablar, pero no garantiza el resultado. La escena conserva la tesis de la clase: el don no es propiedad comercial del portador. La palabra puede ser anunciada por un hombre atraído por honor y recompensa, pero no queda sometida a él. El capítulo termina en Bamot-Baal, desde donde Balaq muestra sólo el extremo del pueblo; el próximo capítulo mostrará que cambiar el ángulo no cambia la palabra de יהוה.
 
+## El rey cambia de lugar, pero no cambia la palabra: vv. 36-41
+
+En el cierre Balaq sale al encuentro de Bilam y le reprocha que no haya venido antes. El OE conserva el reproche y el TTH presenta la llegada al extremo de la ciudad, donde el rey lleva al profeta a Bamot-Baal. **(יצא)**, _yatsa_, significa salir; aquí describe el movimiento de Balaq hacia Bilam, no una liberación espiritual. **(פגש)**, _pagash_, significa encontrarse o salir al encuentro; su fuerza contextual es el encuentro diplomático entre rey y profeta. «Reconciliarse» sería una equivalencia **pedagógica** no exigida por la forma.
+
+Bilam responde que ahora ha venido, pero pregunta qué puede hablar. La pregunta conserva el límite ya declarado en 22:18: el mensajero puede trasladarse, pero no se convierte en dueño del mensaje. Eric subraya que el don no se compra; la escena lo evalúa mediante la repetición del mandato, no mediante una descripción abstracta del corazón de Bilam. **(יכל)**, _yajal_, significa poder o ser capaz; en la respuesta **היכל אוכל דבר מאומה** su fuerza contextual es la capacidad restringida de Bilam para producir un mensaje propio. «No tengo libertad de interpretación» es una paráfrasis aproximada, no el sentido aislado del verbo.
+
+Balaq muestra a Israel sólo desde el extremo del pueblo. **(קצה)**, _qetseh_, significa extremo, borde o final; aquí limita el campo visual del rey. El capítulo termina antes de la bendición de los capítulos siguientes: cambiar el ángulo no cambia la palabra que יהוה impondrá. La observación de Eric sobre el mapa y sobre la incapacidad de manipular la palabra queda así anclada en la secuencia local: miedo, contratación, camino impedido y llegada al lugar de observación. La aplicación contra el lucro es coherente, pero sigue siendo una evaluación pastoral de las acciones, no una traducción de **(כסף)**, _kesef_, plata, ni de **(זהב)**, _zahav_, oro.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal         | Fuerza contextual                        | Equivalencia                                                                                   |
