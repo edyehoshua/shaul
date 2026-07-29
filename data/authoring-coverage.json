@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 864,
-  "pending_videos": 94,
-  "transcript_notes": 426,
+  "covered_videos": 867,
+  "pending_videos": 91,
+  "transcript_notes": 429,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -106,6 +106,11 @@
       "covered": 9,
       "lane": "yojanan"
     },
+    "Haftarot propias restantes de bemidbar, Dvarim y Vayiqra (grupo exclusivo)": {
+      "total": 22,
+      "covered": 22,
+      "lane": "yojanan"
+    },
     "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)": {
       "total": 35,
       "covered": 8,
@@ -168,7 +173,7 @@
     },
     "Parashot Tanaj (clasificadas desde Uncategorized)": {
       "total": 58,
-      "covered": 44,
+      "covered": 46,
       "lane": "tanaj"
     },
     "Qohélet - Eclesiastés": {
@@ -213,7 +218,7 @@
     },
     "Tehilim/Himnos/Salmos": {
       "total": 166,
-      "covered": 157,
+      "covered": 158,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {

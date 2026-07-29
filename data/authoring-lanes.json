@@ -178,6 +178,17 @@
           "reason": "Tras la cobertura, colosenses permaneció por debajo del objetivo de 40 fuentes pendientes y esta exposición de Parashot 2016-2017 era el único origen bíblico elegible aún no asignado. Se asigna exclusivamente a la lane colosenses, propietaria del playlist, sin tomar una fuente en progreso ni una nota canónica de otra lane."
         },
         {
+          "title": "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)",
+          "source_ids": [
+            "youtube:Qi_OffhOumg",
+            "youtube:ytk79FxpTY4",
+            "youtube:c2tSRBEl5wU",
+            "youtube:RGPTa4kWjbM",
+            "youtube:F0y9JGvv4CE"
+          ],
+          "reason": "Tras la cobertura, colosenses quedó por debajo del objetivo de 40 fuentes pendientes y este bloque bíblico de Parashot 2016-2017 seguía sin asignar. Se asigna exclusivamente a la lane colosenses, propietaria del playlist; no incluye fuentes en progreso, canónicas o no expositivas."
+        },
+        {
           "title": "Las 613 mitzvot 2a parte: bloque inicial restante",
           "source_ids": [
             "youtube:0KIf2pmoseI",
@@ -442,7 +453,7 @@
         {
           "title": "Haftarah de Ajarey-mot pendiente sin asignar",
           "source_ids": [
-            "youtube:7HdoY1mD98"
+            "youtube:7Hdo6Y1mD98"
           ],
           "reason": "Tras la cobertura, haftarot quedó en 27 fuentes pendientes (<40). Esta exposición de Ajarey-mot permanece sin asignar, sin nota canónica ni trabajo en progreso; se asigna exclusivamente a la lane haftarot por coherencia temática de haftarah."
         }
