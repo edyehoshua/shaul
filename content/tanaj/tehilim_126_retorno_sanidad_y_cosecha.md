@@ -41,10 +41,16 @@ Se sigue el salmo en orden textual. La nota conserva las observaciones materiale
 ## Mapa de la enseñanza de Eric
 
 - **Versículo 1 — el retorno de Sion:** Eric distingue **שיבת** (_shivat_, retorno) de una lectura simplificada de “cautividad”. El texto local contiene **שוב** (_shuv_, volver/regresar) y el sustantivo **שיבה** (_shivah_, retorno); la observación de que el salmo puede poner el acento en volver, y no únicamente en estar cautivo, recibe apoyo textual. La idea de que יהוה vuelve “con” los que regresan es una inferencia pastoral a partir de la preposición y del cuadro completo, no una traducción obligatoria.
-- **Versículos 1-2 — “como soñadores” y sanidad:** la clase relaciona **כחלמים** (_kacholמים_, como soñadores) con personas que pasan de un estado de enfermedad o delirio a la alegría restaurada. El hebreo afirma asombro y una alegría repentina; “sanidad” es una aplicación aproximada, no el sentido exclusivo de “soñadores”.
+- **Versículos 1-2 — “como soñadores” y sanidad:** la clase relaciona **כחלמים** (_kecholmim_, como soñadores) con personas que pasan de un estado de enfermedad o delirio a la alegría restaurada. El hebreo afirma asombro y una alegría repentina; “sanidad” es una aplicación aproximada, no el sentido exclusivo de “soñadores”.
 - **Versículos 2-3 — la alegría que proclama:** Eric observa que la boca llena de risa y la lengua de canto no son una emoción privada, sino una confesión visible que hace que los pueblos digan: “Grande ha hecho יהוה”. El texto apoya directamente tanto la voz de la comunidad como el reconocimiento de las naciones.
 - **Versículo 4 — restauración como torrentes:** la clase lee **כאפיקים בנגב** (_ka'afikim banegev_, como corrientes en el Néguev) como imagen de una restauración que trae vida a un lugar seco. El símil sí contrasta sequedad y flujo abundante; aplicarlo a la sanidad interior es pedagógico y debe conservar la referencia geográfica del salmo.
 - **Versículos 5-6 — lágrimas y cosecha:** Eric insiste en que el sembrador no abandona el campo por llorar, y que el retorno verdadero debe producir obediencia y fruto. El paralelismo “sembrar/cosechar” y “llorar/cantar” sostiene perseverancia y resultado; no promete que cada sufrimiento individual produzca prosperidad inmediata.
+
+## La secuencia completa del cántico
+
+El texto local mantiene una progresión que la exposición no deja disolver en una sola promesa: **שיר המעלות בשוב יהוה את שיבת ציון היינו כחלמים** (126:1) presenta el retorno y el asombro; **אז ימלא שחוק פינו ולשוננו רנה** (126:2) convierte la restauración en habla corporal; y **הגדיל יהוה לעשות עמנו היינו שמחים** (126:3) hace que la comunidad atribuya la obra a יהוה. Después, **שובה יהוה את שבותנו כאפיקים בנגב** (126:4) vuelve a pedir restauración, de modo que la alegría recibida no cancela la necesidad de seguir siendo restaurados.
+
+Los dos últimos versículos dan la prueba práctica de esa petición: **הזרעים בדמעה ברנה יקצרו** (126:5) y **הלוך ילך ובכה נשא משך הזרע בא יבוא ברנה נשא אלמתיו** (126:6). Eric aplica esta imagen al discípulo que continúa sembrando palabra y obediencia mientras todavía llora. La aplicación conserva la dirección del paralelismo, pero el poema no autoriza una ecuación mecánica entre cualquier pérdida y una ganancia material: la cosecha es una promesa de gozo para el trabajo perseverante dentro de la restauración que el salmo canta.
 
 ## El retorno no es solo traslado
 

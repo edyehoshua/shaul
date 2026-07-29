@@ -36,11 +36,15 @@ Después de denunciar los días de los baales y la atribución de los dones a lo
 
 El texto añade que el valle de Acor será «puerta de esperanza» y que allí responderá Israel como en los días de su juventud y de la salida de Egipto (#hoshea_2_17). Eric trata esta memoria como una relectura de la historia: el lugar asociado con perturbación no queda condenado a repetir su pasado. La esperanza no niega la culpa; la atraviesa y abre una respuesta nueva.
 
+La forma hebrea local deja visible el hilo que la traducción puede ocultar: **לָכֵן הִנְנִי מְפַתֶּיהָ וְהֹלַכְתִּיהָ הַמִּדְבָּר וְדִבַּרְתִּי עַל לִבָּהּ** (2:16 en la numeración local) y **וְנָתַתִּי לָהּ אֶת כְּרָמֶיהָ מִשָּׁם וְאֶת עֵמֶק עָכוֹר לְפֶתַח תִּקְוָה** (2:17). **מְפַתֶּיהָ** (_mefatteha_) tiene el sentido normal de persuadir o atraer; aquí la fuerza contextual es una iniciativa tierna de יהוה, no manipulación romántica. **לְפֶתַח תִּקְוָה** (_lefetaj tiqvah_) es literalmente “para una puerta de esperanza”: la relación entre ambas palabras es exacta en la imagen, mientras que “puerta hacia un futuro seguro” es una explicación pedagógica.
+
 ## Oseas 2:16-18 — cambiar el lenguaje de posesión por el de relación
 
 «En aquel día, dice יהוה, me llamarás Ishí y no me llamarás más Baalí» (#hoshea_2_18). La diferencia entre ambos tratamientos es significativa para la enseñanza. La clase presenta el cambio como una limpieza del lenguaje de alianza: יהוה no quiere que Israel mezcle su relación con él con el vocabulario de los baales. El texto sigue diciendo que quitará de la boca los nombres de los baales, para que no sean recordados (#hoshea_2_19).
 
 La aplicación de Eric es que la restauración también reeduca los nombres con los que el corazón interpreta la provisión. No basta recibir beneficios; hay que reconocer correctamente a quien los concede. La eliminación de los nombres no es una amnesia histórica, sino una ruptura de lealtad con la idolatría. El pasaje conserva la responsabilidad de Israel mientras anuncia la iniciativa misericordiosa de יהוה.
+
+El texto local dice: **וְהָיָה בַיּוֹם הַהוּא נְאֻם יְהוָה תִּקְרְאִי אִישִׁי וְלֹא תִקְרְאִי לִי עוֹד בַּעְלִי** y luego **וַהֲסִרֹתִי אֶת שְׁמוֹת הַבְּעָלִים מִפִּיהָ** (2:18-19). **אִישִׁי** (_ishi_) significa “mi hombre/esposo” en el marco relacional; **בַּעְלִי** (_baali_) puede significar “mi señor/esposo”, pero en este contexto activa la memoria de Baal. Eric acierta al tratar el cambio como una purificación de lealtad, aunque la relación entre la semejanza de las palabras y la intención del pasaje es contextual, no una etimología que por sí sola resuelva todo el argumento.
 
 ## Oseas 2:19-20 — una alianza fundada en fidelidad
 
@@ -53,6 +57,8 @@ Pero la promesa tampoco elimina la forma ética de la alianza. Justicia y juicio
 La secuencia final presenta a יהוה respondiendo al cielo, al cielo respondiendo a la tierra y la tierra respondiendo al trigo, al vino y al aceite (#hoshea_2_23-24). La provisión vuelve a ser recibida dentro del orden correcto: no como trofeo de los amantes, sino como don que circula bajo la palabra de יהוה. Luego se anuncia: «Tendré misericordia de Lo-Rujamá» y «diré a Lo-Amí: Tú eres mi pueblo», y la respuesta será: «Tú eres mi Elohim» (#hoshea_2_25).
 
 Eric lee este cierre como una recuperación de pertenencia. La puerta de esperanza no termina en una emoción privada; conduce a una confesión mutua: pueblo y Elohim. La misericordia cambia nombres que habían expresado rechazo, pero lo hace dentro de la historia que el juicio reveló. Por eso la restauración es concreta, relacional y obediente.
+
+La cadena hebrea confirma el orden material de la provisión: **וְעָנְתָה בַּיּוֹם הַהוּא נְאֻם יְהוָה אֶעֱנֶה אֶת הַשָּׁמָיִם וְהֵם יַעֲנוּ אֶת הָאָרֶץ** y **וְהָאָרֶץ תַּעֲנֶה אֶת הַדָּגָן וְאֶת הַתִּירוֹשׁ וְאֶת הַיִּצְהָר** (2:23-24). **עָנָה** (_anah_) normalmente es responder; su repetición hace que la restauración parezca una respuesta coordinada, no una prosperidad autónoma. Eric conecta esa coordinación con la confesión de pertenencia: es una relación aproximada y canónica con la imagen de “cuerpo” o comunidad, pero el texto de Oseas mantiene su propia escena agrícola y de alianza.
 
 ## Hoja de comparación
 
