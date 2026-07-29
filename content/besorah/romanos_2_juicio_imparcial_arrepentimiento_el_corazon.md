@@ -518,6 +518,16 @@ En #romanos_2_17-29, **(Ἰουδαῖος)**, _Ioudaios_, significa judío y de
 
 La nota preserva así la consolidación del capítulo: bondad que llama al retorno, juicio imparcial, Torah oída y practicada, conciencia testigo, y una identidad visible sometida a la alabanza de Elohim. Lo que procede directamente de Romanos se marca como textual; la conexión entre _metanoia_ y _teshuvá_ es pedagógica; y la explicación detallada de la sesión permanece no demostrada por falta de transcript local.
 
+## Estudio final: la pregunta pública dentro del argumento de Pablo
+
+La pregunta de Eric en `youtube:6D7Yj0bDSfU` queda mejor conservada cuando se distingue lo que la fuente permite atribuir de lo que la Escritura permite evaluar. Es **exacto** atribuir a la sesión su título público, su URL y su foco sobre «ser judío» y «ser creyente»; como el transcript local no está disponible, sería ilegítimo reconstruir una explicación verbal. Romanos 2 sí ofrece una respuesta ordenada: el nombre y la enseñanza son reales, pero el maestro debe enseñarse a sí mismo; la señal es significativa, pero beneficia solo en relación con la práctica de la Torah; y la alabanza decisiva procede de Elohim.
+
+En #romanos_2_17-24, **(Ἰουδαῖος)**, _Ioudaios_, significa judío; su fuerza contextual identifica al interlocutor histórico que descansa en la Torah y enseña a otros, no una caricatura de todo Israel. **(διδάσκω)**, _didaskō_, significa enseñar o instruir; en 2:21 participa en la pregunta que devuelve al maestro la obligación de aplicarse su propia enseñanza. Ambas glosas son **directas** en el sentido ordinario; convertir la reprensión en una condena étnica sería **ilegítimo**, y convertirla en un ataque contra toda autoridad docente sería **aproximado y pedagógico**, no una conclusión del capítulo.
+
+En #romanos_2_25-29, **(ὠφελέω)**, _ōpheleō_, significa beneficiar, ayudar o ser provechoso; su fuerza contextual es condicional: la circuncisión beneficia «si haces la Torah». **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento; en 2:29 sitúa la aprobación que cuenta ante Elohim y no ante la reputación humana. Las glosas son **directas**; la conclusión de que la señal funciona como escudo sería **ilegítima**, mientras la conexión con una identidad que alcanza el corazón es **textual y contextual**.
+
+La respuesta canónica no elimina ni absolutiza la identidad. **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta; en 2:15 su fuerza es **forense**, porque acusa o defiende mientras los secretos esperan el juicio. **(μετάνοια)**, _metanoia_, significa cambio de mente o arrepentimiento; en 2:4 nombra el retorno al que conduce la bondad de Elohim. Relacionar _metanoia_ con **תשובה**, _teshuvá_, «retorno», es **pedagógico y aproximado**, no una equivalencia exacta entre lenguas. Así, la enseñanza atribuible de Eric recibe apoyo **textual cualificado**: la identidad debe producir una respuesta visible ante Elohim, pero Romanos 3 impide convertir esa respuesta en mérito autónomo.
+
 ## Ver también
 
 - [[romanos_1_evangelio_justicia_responsabilidad_humana|Romanos 1: evangelio, justicia y responsabilidad humana]]
