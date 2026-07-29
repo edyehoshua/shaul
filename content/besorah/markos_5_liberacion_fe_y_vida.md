@@ -73,6 +73,8 @@ Así, la secuencia completa puede resumirse sin perder sus diferencias: (1) auto
 
 La cadena verbal refuerza ese movimiento. En 5:8, **ἔξελθε**, _exelthe_, «sal», es un imperativo dirigido al espíritu y no al hombre como si su identidad fuese idéntica a la opresión; en 5:19, **ὕπαγε**, _hypage_, «ve», dirige al hombre restaurado hacia su casa; y en 5:41, **ἔγειρε**, _egeire_, «levántate», produce una acción corporal verificable en la muchacha. Las tres órdenes deben distinguirse: expulsión, retorno y levantamiento. Juntas impiden resumir el capítulo como una técnica indiferenciada de milagros y conservan la observación más segura del texto: la autoridad de Yehoshua devuelve a personas concretas a relaciones, testimonio y vida cotidiana.
 
+El verbo **σῴζω**, _sōzō_, «salvar, rescatar, sanar o poner a salvo», ayuda a no separar artificialmente las escenas. La mujer dice que será salvada al tocar el vestido y oye después que su _pistis_ la ha salvado; el contexto especifica una sanidad que también la devuelve a la palabra pública y al _shalom_. No es el mismo resultado narrativo que la expulsión de los espíritus ni que el levantamiento de la niña. La comparación con **(ישע)**, _yasha_, «salvar o librar», es un puente semítico aproximado; el argumento depende del uso griego en la perícopa, no de afirmar que Marcos traduce una forma hebrea.
+
 ## Hoja de comparación
 
 | Referencia      | Texto TTH local                                                                                                                            | Función en la lectura                                                                                                         |
@@ -87,16 +89,17 @@ La cadena verbal refuerza ese movimiento. En 5:8, **ἔξελθε**, _exelthe_, 
 
 ## Léxico clave
 
-| Forma              | Transliteración | Sentido normal y contextual                      | Equivalencia                                                                             |
-| ------------------ | --------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| **(λεγιών)**       | _legiōn_        | legión o gran cuerpo; nombre narrativo de muchos | Exacta como préstamo contextual; no es diagnóstico moderno                               |
-| **(σωφρονοῦντα)**  | _sōphronounta_  | estar en juicio sano, ser sensato                | Aproximada con «estar cuerdo»                                                            |
-| **(πίστις)**       | _pistis_        | confianza, fidelidad, fe                         | Aproximada con _emunah_; el contexto decide el matiz                                     |
-| **(εἰρήνη)**       | _eirēnē_        | paz, bienestar, condición de concordia           | Pedagógica con _shalom_; no equivalencia total                                           |
-| **(πίστευε)**      | _pisteue_       | cree, confía; imperativo presente                | Exacta como mandato griego; aplicación sostenida por la forma verbal                     |
-| **(Ταλιθα κουμι)** | _Talitha koumi_ | niña, levántate                                  | Traducción contextual de la expresión aramea conservada                                  |
-| **(ἔξελθε)**       | _exelthe_       | sal, sal fuera; imperativo dirigido al espíritu  | Exacta en la orden narrativa de 5:8; no convierte al hombre en sinónimo del espíritu     |
-| **(ὕπαγε)**        | _hypage_        | ve, retírate, vuelve a tu camino                 | En 5:19 dirige al restaurado a su casa y a los suyos; la autoridad produce reintegración |
+| Forma              | Transliteración | Sentido normal y contextual                      | Equivalencia                                                                                                                                                                                     |
+| ------------------ | --------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **(λεγιών)**       | _legiōn_        | legión o gran cuerpo; nombre narrativo de muchos | Exacta como préstamo contextual; no es diagnóstico moderno                                                                                                                                       |
+| **(σωφρονοῦντα)**  | _sōphronounta_  | estar en juicio sano, ser sensato                | Aproximada con «estar cuerdo»                                                                                                                                                                    |
+| **(πίστις)**       | _pistis_        | confianza, fidelidad, fe                         | Aproximada con _emunah_; el contexto decide el matiz                                                                                                                                             |
+| **(εἰρήνη)**       | _eirēnē_        | paz, bienestar, condición de concordia           | Pedagógica con _shalom_; no equivalencia total                                                                                                                                                   |
+| **(πίστευε)**      | _pisteue_       | cree, confía; imperativo presente                | Exacta como mandato griego; aplicación sostenida por la forma verbal                                                                                                                             |
+| **(Ταλιθα κουμι)** | _Talitha koumi_ | niña, levántate                                  | Traducción contextual de la expresión aramea conservada                                                                                                                                          |
+| **(ἔξελθε)**       | _exelthe_       | sal, sal fuera; imperativo dirigido al espíritu  | Exacta en la orden narrativa de 5:8; no convierte al hombre en sinónimo del espíritu                                                                                                             |
+| **(ὕπαγε)**        | _hypage_        | ve, retírate, vuelve a tu camino                 | En 5:19 dirige al restaurado a su casa y a los suyos; la autoridad produce reintegración                                                                                                         |
+| **(σῴζω; ἔσωσεν)** | _sōzō; esōsen_  | salvar, rescatar, sanar o poner a salvo          | En 5:28 y 5:34 la mujer busca ser salvada y Yehoshua relaciona su _pistis_ con ese resultado; el verbo reúne rescate y sanidad según el contexto, sin convertir la fe en una técnica de control. | Aproximada con **(ישע)**, _yasha_, «salvar o librar»; la relación de campo no prueba una fuente hebrea del relato. |
 
 ## Control de dependencias: misericordia que devuelve una voz
 
