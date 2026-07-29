@@ -105,7 +105,6 @@ El cierre vuelve explícita la relación con la Torah. **(καύχησις)**, _
 
 Romanos 3:17-31 no permite que un grupo use la Torah para gloriarse ni que otro use la emunah para declararla nula. La Torah revela el pecado y atestigua la justicia; Elohim manifiesta esa justicia en Yehoshua, justifica gratuitamente y reúne a circuncisos e incircuncisos bajo un mismo Señor. La emunah recibe el don sin jactancia y el cierre de Pablo gobierna la lectura: no anulamos la Torah; la establecemos.
 
-
 ## Ver también
 
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]]
