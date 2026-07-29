@@ -156,6 +156,18 @@ Eric también llama la atención sobre **ἀμὴν**, _amēn_, «verdaderamente
 
 El final del capítulo vuelve a probarlo mediante la pregunta por la autoridad. Los dirigentes preguntan **ἐν ποίᾳ ἐξουσίᾳ**, _en poia exousia_, «con qué autoridad», pero al responder sobre Iojanán calculan las consecuencias públicas de cada opción. Eric observa que su «no sabemos» protege la posición en vez de reconocer la evidencia. Marcos lo narra con los verbos **διελογίζοντο**, _dielogizonto_, «deliberaban entre sí», y **φοβούμεθα**, _phoboumetha_, «tememos»: la autoridad de Yehoshua no queda refutada por la negativa, sino que la negativa revela una respuesta moral ante el testimonio.
 
+## Control ampliado: la aclamación queda bajo examen (11:1-11)
+
+La entrada no debe leerse como una coronación ya consumada. Marcos conserva una secuencia de preparación, aclamación e inspección. **(ἀποστέλλει)**, _apostellei_, «envía», presenta a los dos discípulos como mensajeros bajo una instrucción concreta; **(δεδεμένον)**, _dedemenon_, «atado», describe el asnito que será desatado, y **(λύσατε)**, _lysate_, «desaten», da la orden que hace posible la entrada. La relación con **(עני)**, _ani_, «afligido o humilde», puede orientar una lectura semítica del animal humilde, pero es aproximada: Marcos no cita aquí una forma hebrea ni convierte el asnito en una prueba filológica.
+
+La aclamación también necesita conservar sus dos direcciones. **(ὡσαννά)**, _hōsanna_, mantiene el ruego «salva, por favor» aun cuando funciona como aclamación; **(εὐλογημένος)**, _eulogēmenos_, «bendito», recibe su fuerza de la frase «en el Nombre de יהוה»; y **(ἐρχόμενος)**, _erchomenos_, «el que viene», designa al que llega, no una explicación completa de su identidad. Eric observa la expectativa mesiánica y la cuestión de _netzer_; el vocabulario local sostiene la bienvenida real, pero no autoriza a convertirla en un programa político ni a derivar automáticamente **(נצר)** del título narrativo.
+
+El v. 11 funciona como control contra esa exageración. **(εἰσῆλθεν)**, _eisēlthen_, «entró», y **(περιβλεψάμενος)**, _periblepsamenos_, «mirando alrededor», preceden a la salida por la hora tardía. La inspección deja pendiente el juicio que se desarrollará al día siguiente: la autoridad de Yehoshua se muestra atenta al propósito del Hejal antes de confrontar su uso. La equivalencia de **(ἱερόν)** con **(היכל)** es funcional y contextual, no una identidad arquitectónica absoluta.
+
+Este control prueba la observación de Eric en su forma más concreta: el rey recibido por la multitud no queda definido por el volumen del aplauso, sino por la finalidad que examina. La entrada, por tanto, prepara el contraste entre apariencia y fruto sin borrar la secuencia ni cargar el asnito con una simbología que el texto no explicita.
+
+## Pendiente de verificar
+
 - [ ] Cotejar el aparato crítico y la distribución de **(Ναζωραῖος)**, **(Ναζαρηνός)** y formas afines antes de derivarlas de **(נצר)**.
 - [ ] Examinar gramáticas y léxicos para valorar el genitivo de **(πίστις)** en #markos_11_22 sin decidirlo por una retroversión hebrea hipotética.
 - [ ] Documentar la propuesta de que _tefilah_ significa primariamente «ser hecho partícipe de un juicio»; no tratarla como etimología establecida sin fuente léxica.
