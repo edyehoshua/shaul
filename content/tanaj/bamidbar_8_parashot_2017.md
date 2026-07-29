@@ -482,6 +482,14 @@ Después, el texto desplaza la atención desde el objeto hacia la comunidad. Isr
 
 El cierre convierte la vocación en custodia verificable. El levita que deja la labor pesada no abandona a sus hermanos: **ושרת את אחיו**, _vesheret et ajav_, «servirá a sus hermanos». **(שרת)**, _sharet_, significa servir o asistir; **(שמר)**, _shamar_, significa guardar o custodiar. En contexto, ambos verbos describen una responsabilidad limitada por el santuario y por la orden recibida. La síntesis de Eric es, por tanto, sólida cuando dice que la luz debe volverse servicio; excedería el capítulo si transformara el régimen levítico en una regla literal para toda autoridad contemporánea.
 
+## Reparación final: la custodia no es protagonismo
+
+La observación de Eric queda mejor evaluada si se sigue el sujeto de cada acción. En los vv. 1-4, יהוה habla, Moshéh recibe y Aharón ejecuta: **ויעש כן אהרן**, _vayaas ken Aharon_, «Aharón hizo así». **(עשה)**, _asah_, significa hacer, realizar o ejecutar; su fuerza contextual es obedecer una configuración recibida. «Crear una luz propia» es una equivalencia **pedagógica**, no exacta. La luz apunta **אל מול פני המנורה**, _el mul penei hamenorah_, «hacia la faz de la Menoráh»; **(מול)**, _mul_, significa frente o en dirección a, y **(פנים)**, _panim_, significa rostro, faz o presencia. Aquí la fuerza es espacial, aunque Eric la aplique teológicamente a un servidor que no se exhibe.
+
+En los vv. 9-19, la comunidad pone sus manos sobre los leviím y Aharón los presenta. **(סמך)**, _samakh_, significa apoyar o poner; en este gesto señala identificación y entrega pública. **(נתן)**, _natan_, significa dar o entregar; su repetición muestra que los leviím son dados a יהוה para servir a Israel, no que obtengan propiedad privada del santuario. **(תחת)**, _tajat_, significa debajo o en lugar de; en 8:18 expresa sustitución funcional de los primogénitos. La aplicación de Eric a la responsabilidad recibida está bien apoyada, pero «investidura de poder» sería **inexacta**.
+
+El final prueba la continuidad de la custodia. Desde los cincuenta años el levita deja la labor pesada, pero **ושרת את אחיו**, _vesheret et ajav_, «servirá a sus hermanos». **(שרת)**, _sharet_, significa servir o asistir; «gobernar» es una equivalencia **inexacta**. La afirmación textual exacta es que la edad modifica la tarea sin cancelar la responsabilidad. Así, las cinco fuentes públicas convergen en un principio que el capítulo permite sostener como aplicación: la luz recibida debe volverse obediencia, servicio comunitario y custodia, no protagonismo autónomo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

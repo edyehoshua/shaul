@@ -596,6 +596,14 @@ El vocabulario mantiene también la diferencia entre tratar y remover. **(הזה
 
 La reconciliación tampoco termina en el centro cultual. Aharón cambia sus vestiduras y se baña; el conductor del macho cabrío y quien quema los restos lavan su cuerpo y sus ropas; la asamblea aflige su _nefesh_ y cesa del trabajo. **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; «alma separable» es una equivalencia **tradicional y aproximada**, no una definición obligatoria. OE y TTH muestran así una respuesta corporal y comunitaria. Eric acierta al exigir una reconciliación que alcance la vida visible, pero la forma exacta del capítulo sigue siendo un rito anual regulado por sacerdote, sangre, confesión, envío, lavado, reposo y purificación.
 
+## Reparación final: la unidad del rito no borra sus límites
+
+La tesis de Eric —que la sangre y el macho cabrío enviado deben leerse juntos— recibe apoyo solo si se conserva la secuencia. **וכלה מכפר את הקדש**, _vekhilah mekaper et haqodesh_, marca que Aharón termina de hacer reconciliación por la Santidad antes de acercarse al animal vivo. **(כלה)**, _kalah_, significa terminar, completar o acabar; su fuerza contextual es cerrar una fase del rito. **(כפר)**, _kafar_, puede significar cubrir y, en la construcción sacerdotal, hacer reconciliación; «pagar una deuda» es una equivalencia **pedagógica y aproximada**, no el sentido aislado del verbo.
+
+Después **והתודה עליו**, _vehitvadah alav_, significa «confesará sobre él». **(ידה)**, _yadah_, significa reconocer, confesar o dar gracias; en la forma reflexiva **(התודה)**, _hitvadah_, su fuerza es la declaración ritual de las faltas. El macho cabrío **ונשא**, _venasa_, «cargará» las iniquidades y será **ושלח**, _veshilaj_, «enviado» al desierto. **(נשא)**, _nasa_, significa llevar, cargar o levantar; **(שלח)**, _shalaj_, significa enviar o despachar. «Eliminar el pecado» resume el efecto narrativo, pero no equivale exactamente a ninguno de los dos verbos.
+
+La asamblea completa la respuesta: **תענו את נפשתיכם**, _teannu et nafshoteikhem_, «afligirán sus nefesh». **(ענה)**, _anah_, significa afligir, humillar o someter; **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto. «Alma separable» es una equivalencia **inexacta** para esta orden corporal. Eric acierta al presentar una reconciliación que alcanza la vida visible; la afirmación exacta de la perícopa, sin embargo, incluye fecha, sacerdote, sangre, confesión, envío, lavado, reposo y purificación. La conexión con Yehoshua y Hebreos permanece **canónica y aproximada**, no una traducción secreta de Azazel, _nefesh_ o _kafar_.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
