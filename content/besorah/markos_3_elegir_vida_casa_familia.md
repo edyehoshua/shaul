@@ -242,6 +242,14 @@ El mismo criterio protege la lectura de la casa dividida. En 3:22 los escribas a
 
 Finalmente, el cierre no reemplaza el discernimiento por una consigna familiar. **(ὅστις γὰρ ἂν ποιήσῃ)**, _hostis gar an poiēsē_, «porque cualquiera que haga», abre la definición de la familia en 3:35; el sujeto es cualquiera que practica la voluntad de Elohim, no una élite que controla el acceso. **(θέλημα)**, _thelēma_, «voluntad, deseo o propósito», recibe aquí el complemento «de Elohim», y su sentido se verifica por el verbo **(ποιεῖ)**, _poiei_, «hace». Eric relaciona esta familia con obediencia; Marcos permite sostenerlo precisamente porque la pertenencia se define por una acción continuada y no por una etiqueta.
 
+## Control de transición: vida restaurada, autoridad recibida y casa obediente
+
+El capítulo debe leerse como una progresión, no como una colección de consignas. En la sinagoga, **ἔξεστιν**, _exestin_, «es lícito o está permitido», introduce la pregunta por hacer el bien y salvar una vida; **ἀγαθοποιῆσαι**, _agathopoiēsai_, «hacer el bien», y **σῶσαι**, _sōsai_, «salvar», se prueban en la mano restaurada. La conexión de Eric con **ובחרת בחיים**, _uvajarta bajayim_, «escogerás la vida», es un eco temático controlado por la narración, no una cita formal de Devarim.
+
+La autoridad que restaura también delimita quién puede hablar. Los espíritus **ἔκραζον**, _ekrazon_, «clamaban», pero Yehoshua **ἐπετίμα**, _epetima_, «reprendía o amonestaba», y no les permitía manifestarlo. Después **ἐποίησεν δώδεκα**, _epoiēsen dōdeka_, «estableció a doce», **ἵνα ὦσιν μετ’ αὐτοῦ**, «para que estuvieran con él», y para enviarlos. La observación de Eric sobre presencia antes del servicio queda apoyada por la sintaxis; la autoridad del enviado es recibida y relacional, no una propiedad autónoma.
+
+La casa dividida y la familia del cierre completan la prueba. **διαμερισθῇ**, _diameristhē_, «sea dividida», describe una casa que no puede permanecer, mientras **δήσῃ**, _dēsē_, «ate», señala la condición previa para saquear la casa del fuerte. En 3:35, **ποιεῖ**, _poiei_, «hace», convierte la voluntad de Elohim en práctica visible. Así, “escoger la vida”, “estar con Yehoshua” y pertenecer a su familia forman una secuencia coherente: el texto describe restauración, autoridad derivada y obediencia, no una licencia para dominar personas ni para llamar impuro a todo desacuerdo.
+
 ## Conclusión
 
 Marcos 3 no presenta a Yehoshua quebrantando la Torah, sino devolviendo su lectura al bien y a la vida. La mano restaurada desenmascara una interpretación que protegía su propia autoridad mientras planeaba muerte. El Mesías escoge, reúne y envía una comunidad que primero debe estar con él y luego actuar bajo su autoridad.

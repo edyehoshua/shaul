@@ -224,6 +224,14 @@ Por último, 1:19-23 prueba el destino comunitario de la revelación. **ὑπε�
 - [ ] Verificar las afirmaciones léxicas de las partes 2–6 —en especial las equivalencias propuestas para _pistis_, _agape_, _energeia_, «cabeza» y «padre de gloria»— directamente en textos griegos, hebreos y léxicos especializados.
 - [ ] Evaluar contextualmente las conexiones de la clase entre #ephesians_1_17-23, #isaiah_41_4 y #psalms_24_7 antes de presentarlas como intertextos directos.
 
+## Control de transición: voluntad recibida, respuesta y cuerpo (1:1-23)
+
+La tesis de Eric sobre reconocer la voluntad de Elohim debe seguir el orden de la carta. En 1:1, **θέλημα**, _thelēma_, «voluntad o propósito», califica el origen del envío de Pablo; en 1:9, **εὐδοκία**, _eudokia_, «beneplácito o buena intención», y **βουλή**, _boulē_, «consejo o determinación», describen el propósito que se revela. Son formas relacionadas pero no intercambiables: el texto pasa del envío recibido al misterio dado a conocer, no de una intuición privada a una regla universal.
+
+La respuesta de la comunidad aparece después del anuncio. **ἀκούσαντες**, _akousantes_, «habiendo oído», y **πιστεύσαντες**, _pisteusantes_, «habiendo confiado o creído», preceden a **ἐσφραγίσθητε**, _esphragisthēte_, «fuisteis sellados», en 1:13. El orden permite conservar la observación de Eric sobre palabra, identidad y esperanza, pero limita su alcance: el sello se atribuye al Rúaj de la promesa y no es una técnica que produzca seguridad por manipulación humana.
+
+La oración final verifica el destino de esa obra. **ἐπίγνωσις**, _epignōsis_, «conocimiento reconocido o pleno conocimiento», y **ἐλπίς**, _elpis_, «esperanza», orientan la petición hacia la comunidad; el poder se prueba en **ἐγείρας**, _egeiras_, «habiendo levantado», y **καθίσας**, _kathisas_, «habiendo sentado», al Mesías. Finalmente, **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», impiden convertir la voluntad revelada en una clave individual: la esperanza recibida se vive bajo una cabeza común. Las conexiones semíticas de la clase siguen siendo aproximaciones pedagógicas y no sustituyen la sintaxis griega.
+
 ## Conclusión
 
 La apertura de Efesios sitúa a Pablo bajo la voluntad de Elohim, no bajo una iniciativa aislada. La clase enlaza esa frase con la reconciliación obrada en el Mesías Yehoshua y con frutos concretos: santidad, gratitud, discernimiento y bien. Los textos comparados sostienen esos llamados, mientras que sus definiciones generales y aplicaciones particulares deben seguir siendo examinadas a la luz de sus contextos.
