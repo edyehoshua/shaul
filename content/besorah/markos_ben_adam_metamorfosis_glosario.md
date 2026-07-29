@@ -42,7 +42,6 @@ references:
   - "#yaakov_3_17"
   - "#sodot_19_10"
 sources:
-  - "https://www.youtube.com/watch?v=3UA4ZtIYBpI"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/daniel/7.json"
@@ -53,8 +52,6 @@ sources:
   - "docs/scriptures/delitzsch/json/colossians.json"
   - "docs/scriptures/delitzsch/json/james.json"
   - "docs/scriptures/tth/json/sodot.json"
-source_ids:
-  - "youtube:3UA4ZtIYBpI"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -121,15 +118,6 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | **(שושנה)** | shoshanáh | lirio / flor entre espinos | Aproximada | TTH conserva shoshanáh; la lectura como planta espinosa y corona de espinas queda pendiente de verificación. |
 | **(לבנון)** | Levanón | Líbano / altar que blanquea | Pedagógica | La clase lo toma del Targum de Shir HaShirim 4:15; no se cerró como lexicografía directa. |
 
-## Mapa de la enseñanza de Eric
-
-| Unidad textual                        | Observación concreta de la clase                                                                                                    | Tratamiento en esta nota                                                                                                                                 |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #markos_8_38-9_9                      | El anuncio del reino venido con poder desemboca en la metamorfosis; la voz ordena escuchar a Yehoshua y los discípulos lo ven solo. | Apoyo textual en la secuencia; la relación con Torah y profecía se presenta como inferencia canónica, no como desaparición de sus testimonios.           |
-| #daniel_7_9-14; #markos_13_26         | Ben HaAdam y Bar Enash comparten el campo de nubes, dominio y honra; el título debe leerse junto con padecimiento y vindicación.    | Clarificación léxica y apoyo cualificado: la correspondencia es temática y contextual, no una identidad automática de todas las formas.                  |
-| #iojanan_7_37-38; #shir_hashirim_4_15 | La frase «como dice la Escritura» puede relacionarse con aguas vivas y la lectura targúmica de Levanón y altar.                     | Inferencia atribuida a la clase; queda pendiente de verificar el Targum exacto y no se presenta como cita directa.                                       |
-| #qolosim_2_2-3; #yaakov_3_13-17       | Sabiduría e inteligencia escondidas en el Mesías deben producir mansedumbre y obras, no orgullo interpretativo.                     | Apoyo textual en los pasajes citados; la identificación exclusiva de sabiduría con Torah y de inteligencia con profecía queda como propuesta pedagógica. |
-
 ## Ben HaAdam como reino venido con poder
 
 La clase parte de una afirmación fuerte: Yeshúa no usa **Ben HaAdam** como un título débil, sino como una expresión técnica que lo conecta con el reino de los cielos. En #markos_9_1 promete que algunos verán el reino de Elohim venido con poder; el renglón siguiente narra la subida al monte y la transformación delante de Kefa, Iaacob e Iojanán. La lectura de la clase es que el reino no aparece como un sistema separado de Yeshúa, sino como Yeshúa mismo manifestado.
@@ -180,16 +168,6 @@ La última parte de la clase insiste en la necesidad de un glosario bíblico-sim
 
 En ese marco, #shir_hashirim_4_5 se menciona por la interpretación targúmica de los dos pechos como Moshéh y Aharón, y #shir_hashirim_2_1-2 por la shoshaná entre espinos. La clase conecta esa imagen con la corona de espinas del Mesías. Es una lectura homilética fuerte, pero debe quedar pendiente hasta revisar el Targum, el hebreo botánico y los usos de shoshaná en el Tanaj.
 
-## Control de secuencia: del reino al testimonio del Ben HaAdam
-
-Marcos conserva una progresión que limita las asociaciones más amplias de la clase. En 8:38, **ἐπαισχυνθῇ**, _epaischynthē_, «se avergüence», y **ὁ υἱὸς τοῦ ἀνθρώπου**, _ho huios tou anthrōpou_, «el Hijo del Hombre», colocan la confesión y las palabras de Yehoshua delante de su venida en gloria. En 9:1, **βασιλεία τοῦ θεοῦ**, _basileia tou theou_, «reino de Elohim», y **ἐληλυθυῖαν ἐν δυνάμει**, _elēlythuian en dynamei_, «venida con poder», abren la escena siguiente. La clase puede identificar la metamorfosis como señal de esa promesa porque 9:2 la narra inmediatamente; aun así, la forma griega de «reino» no equivale de manera exacta a **מלכות**, _maljut_, «reino o reinado», y la identificación debe mantenerse contextual.
-
-En 9:2-8, **μετεμορφώθη**, _metemorphōthē_, «fue transformado en su forma», describe lo que los discípulos ven; **λευκά**, _leuka_, «blancas», intensifica la descripción de las vestiduras; y **νεφέλη**, _nephelē_, «nube», introduce el espacio desde el que habla la voz. El paralelo con Daniel 7:9-14 es una red de imágenes —blancura, nube, honra y dominio—, no una prueba de que cada detalle de Marcos reproduzca una sola escena de Daniel. El imperativo **ἀκούετε**, _akouete_, «escúchenlo», y la observación **συναυτοῖς**, _synautois_, «con ellos», cuando solo queda Yehoshua, dan el control narrativo: Moisés y Eliyahu pueden funcionar como testigos interpretativos, pero la voz dirige la escucha al Mesías.
-
-La secuencia se extiende a 9:9, 10:33 y 13:26. **ἀναστῇ**, _anastē_, «se levante», vincula el secreto de la visión con la resurrección; **παραδίδοται**, _paradidotai_, «es entregado», en 10:33 impide separar el título de su padecimiento; y **ἐρχόμενον ἐν νεφέλαις**, _erchomenon en nephelais_, «viniendo en nubes», en 13:26 vuelve a unir al Ben HaAdam con poder y gloria. La observación de Eric sobre un heredero que recibe y reparte el reino es una lectura teológica posible, pero **בר אנש**, _bar enash_, «como hijo de hombre», y **בן האדם**, _ben ha-adam_, «hijo del ser humano», deben explicarse desde sus contextos arameo, hebreo y griego; ninguna glosa aislada demuestra por sí sola «repartidor».
-
-Por último, la cadena de sabiduría y profecía debe someterse al fruto visible. **σοφία**, _sophia_, «sabiduría», y **γνῶσις**, _gnōsis_, «conocimiento», en Colosenses 2:2-3 pertenecen a los tesoros escondidos en el Mesías; **σοφός**, _sophos_, «sabio», y **ἐπιστήμων**, _epistēmōn_, «entendido o experto», en Santiago 3:13 preguntan por las obras y la mansedumbre. La clase acierta al resistir un glosario que alimente el ego: el texto prueba una sabiduría que se muestra en conducta. La correspondencia de **חכמה**, _jojmá_, «sabiduría», y **בינה**, _biná_, «entendimiento», con esas formas griegas es aproximada; la propuesta «Torah = sabiduría, profecía = inteligencia» queda como marco pedagógico pendiente, no como definición universal.
-
 ## Referencias judías y fuentes externas
 
 | Fuente | Referencia | Uso en la nota | Estado |
@@ -215,12 +193,6 @@ Por último, la cadena de sabiduría y profecía debe someterse al fruto visible
 ## Conclusión
 
 La clase presenta Marcos 9 como una escena de revelación, no como una visión aislada. Yeshúa promete que algunos verán el reino venido con poder, sube al monte, se transforma, muestra las señales de Daniel 7, recibe el testimonio de la nube y queda solo ante los discípulos. La Torah y la profecía apuntan hacia él; la sabiduría y la inteligencia están escondidas en él; el Bar Enash de Daniel y el Ben HaAdam de Marcos convergen en el Mesías que padece, resucita y viene con honra.
-
-## Créditos
-
-- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [El Evangelio según Marco Parte 28: La Metamorfosis de Mashíaj](https://www.youtube.com/watch?v=3UA4ZtIYBpI) (`source_id`: `youtube:3UA4ZtIYBpI`).
-- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
