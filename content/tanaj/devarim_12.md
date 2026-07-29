@@ -210,6 +210,16 @@ La secuencia siguiente confirma la evaluación. El OE promete: **והניח לכ
 
 ## Pendiente de verificar
 
+## La puerta, la bendición y el límite de la sangre
+
+El capítulo distingue dos espacios sin convertir esa diferencia en dos autoridades. En #devarim_12_15 la carne permitida puede comerse «en todas las puertas» según la bendición de יהוה, pero en los vv. 17-18 los diezmos, primogenituras, votos y dones santos deben comerse delante de יהוה en el lugar elegido. La exposición de Eric advierte contra hacer de la libertad recibida una excusa para secularizar lo consagrado; la distinción espacial del texto sostiene esa advertencia, aunque «secularizar» es una aplicación moderna y **pedagógica**, no una palabra de la perícopa.
+
+**(שעריך)**, _sheareikha_, es una forma plural de **(שער)**, _shaar_, «puerta, entrada o población». En este contexto su fuerza es la vida ordinaria de las localidades de Israel, no una puerta interior del santuario. «Vida privada» es una equivalencia **aproximada**: comunica el contraste con el lugar elegido, pero no significa que el hogar quede fuera del gobierno de יהוה. **(קדשיך)**, _qodashékha_, procede de **(קדש)**, _qodesh_, «santo, apartado o consagrado»; aquí designa las cosas que Israel ha apartado y debe llevar al lugar elegido. «Objeto espiritual» sería una equivalencia **pedagógica** demasiado vaga.
+
+La sangre marca el límite dentro del permiso. **(רק)**, _raq_, significa «solamente» o «únicamente»; en 12:23 introduce una restricción enfática: no comer la sangre, porque la sangre es la _nefesh_. **(חזק)**, _chazaq_, significa ser fuerte, esforzarse o afirmarse; la construcción exhorta a mantenerse firme en la prohibición. «Dominar la energía vital» no es una equivalencia exacta. La observación de Eric sobre tratar la vida como don recibido encuentra aquí apoyo textual cuando la carne se permite «según todo el deseo de tu _nefesh_», pero el deseo queda subordinado al mandato.
+
+La unidad termina reuniendo comida, santidad y escucha. **(נפש)**, _nefesh_, significa ser viviente, vida, persona o garganta según el contexto; en 12:23 relaciona sangre y vida animal, no una sustancia invisible separada del cuerpo. **(שמר)**, _shamar_, significa guardar, custodiar u observar; **(שמע)**, _shama_, oír y escuchar. En 12:28 ambos verbos apuntan a una atención perseverante que desemboca en hacer lo bueno y recto ante יהוה. Eric acierta al ver que la mesa no es autónoma, pero la nota debe conservar la forma del argumento: el reposo recibido permite comer con alegría, no transformar el deseo individual en criterio final.
+
 ## La sangre, el voto y la responsabilidad de la mesa
 
 La autorización de comer carne en las puertas no deshace la diferencia entre alimento común y lo que el capítulo reserva para יהוה. En #devarim_12_20-24 el OE ordena: **רק חזק לבלתי אכל הדם כי הדם הוא הנפש ולא תאכל הנפש עם הבשר**; el TTH conserva la prohibición de comer la sangre porque la sangre es la vida. **(חזק)**, _chazaq_, significa ser fuerte, esforzarse o afirmarse; aquí introduce una exhortación insistente para no comer la sangre, no una invitación a ejercer dominio sobre la vida. «Controlar la energía vital» es una equivalencia pedagógica, no una traducción de la forma.
