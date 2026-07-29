@@ -1,6 +1,6 @@
 ---
 title: "Devarim 32: Ha'azinu, la Roca y la fidelidad que juzga"
-description: "Lectura canónica de Ha'azinu sobre la palabra que desciende como lluvia, la memoria de la Roca, la apostasía de Israel y la misericordia que restaura el testimonio de יהוה."
+description: "Lectura canónica de Ha'azinu sobre la advertencia de Mosheh, la palabra que desciende como lluvia, la memoria de la Roca, la apostasía de Israel y la misericordia que restaura el testimonio de יהוה."
 date: 2026-07-28
 tags:
   - parashot
@@ -9,22 +9,26 @@ tags:
   - fidelidad
   - roca
 references:
+  - "#devarim_31_29"
   - "#devarim_32_1-4"
   - "#devarim_32_7-14"
   - "#devarim_32_15-21"
   - "#devarim_32_35-43"
+  - "#devarim_32_44-47"
 sources:
+  - "https://www.youtube.com/watch?v=e54Boaj8Z_8"
   - "https://www.youtube.com/watch?v=86QJBg5Aw5E"
   - "docs/scriptures/oe/json/deuteronomy/32.json"
   - "docs/scriptures/tth/json/devarim.json"
 source_ids:
+  - "youtube:e54Boaj8Z_8"
   - "youtube:86QJBg5Aw5E"
 translation: "[OE, TTH]"
 ---
 
 # Tesis
 
-Ha'azinu es un testimonio poético que llama a cielos y tierra para que escuchen. La clase pública de Eric resume su eje como «Nuestra Roca - La fidelidad»; esa observación es compatible con el capítulo, pero el poema no convierte la fidelidad en una abstracción cómoda. Contrasta la obra completa y justa de la Roca con la corrupción de Jeshurún, recuerda el cuidado del desierto, anuncia juicio y termina llamando a las naciones a alegrarse cuando יהוה hace justicia y reconcilia a su pueblo.
+Ha'azinu es un testimonio poético que llama a cielos y tierra para que escuchen. La clase pública «PARASHAT HA'AZINU ESPAÑOL 2015» enlaza el cántico con la advertencia de Devarim 31:29 y con la «posteridad de los días», mientras «Nuestra Roca - La fidelidad» resume su centro en la firmeza de יהוה. Ambas observaciones son compatibles con el capítulo, pero el poema no convierte la fidelidad en una abstracción cómoda. Contrasta la obra completa y justa de la Roca con la corrupción de Jeshurún, recuerda el cuidado del desierto, anuncia juicio y termina llamando a las naciones a alegrarse cuando יהוה hace justicia y reconcilia a su pueblo.
 
 ## Hoja de comparación
 
@@ -98,13 +102,21 @@ La forma **שימו**, _simu_, es un imperativo plural de שום, «poner, coloc
 
 El versículo 47 explica por qué: «no es palabra vacía de vosotros, porque es vuestra vida» (TTH). **ריק**, _req_, significa vacío, vano o sin contenido; «palabra vacía» es una traducción contextual. El poema no afirma que cada experiencia difícil tenga una explicación inmediata, pero sí niega que su testimonio sea inútil. La enseñanza pública «Nuestra Roca - La fidelidad» queda así evaluada de manera precisa: la fidelidad de יהוה sostiene un canto que juzga, instruye y promete, mientras la respuesta de Israel consiste en escuchar todas sus palabras y vivir por ellas.
 
+## La advertencia de Devarim 31 y la posteridad de los días
+
+Devarim 31:29 proporciona el marco narrativo que Eric destaca en la clase «PARASHAT HA'AZINU ESPAÑOL 2015»: después de la muerte de Mosheh, Israel se apartaría del camino y «en la posteridad de los días» vendría el mal. El hebreo **(אחרית)**, _ajarit_, significa final, resultado o posteridad; «antesala de la era mesiánica» es una aplicación teológica **pedagógica**, no una equivalencia exacta de la palabra. El cántico debe conservar primero su función explícita: enseñar de antemano cómo leer la futura infidelidad.
+
+La clase también relaciona Romanos 3:21–22 y 5:15 con la fidelidad de Yehoshua. Esa conexión pertenece a la lectura canónica posterior y no reemplaza el argumento de Devarim 32: la justicia de la Roca se declara antes de que el pueblo sea acusado. La lectura queda, por tanto, cualificada: el cántico permite una línea de cumplimiento que la comunidad puede explorar, pero no dice por sí solo que **(אחרית)** sea una fórmula técnica para una era determinada.
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad           | Observación pública atribuible                                    | Evaluación textual                                                                                                                  |
-| ---------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Devarim 32       | «Nuestra Roca - La fidelidad»                                     | Apoyo directo: 32:4 llama a la Roca _emunah_ y la describe justa y recta.                                                           |
-| Devarim 32:7-14  | La memoria del cuidado sostiene la confianza                      | Apoyo textual: el poema recuerda desierto, protección y herencia antes de narrar el abandono.                                       |
-| Devarim 32:15-43 | La infidelidad recibe juicio, pero el final conserva restauración | Apoyo cualificado: el poema une retribución, soberanía y reconciliación; no permite reducirlo a prosperidad o condena sin contexto. |
+| Unidad                 | Observación pública atribuible                                                                                                            | Evaluación textual                                                                                                                                             |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Devarim 31:29; 32:1-19 | El cántico recuerda la advertencia sobre la «posteridad de los días» y funciona como testimonio histórico de lo que יהוה hizo por Israel. | Apoyo textual e inferencia cualificada: se conserva la conexión de la clase, pero _ajarit_ no se convierte en una equivalencia automática con «era mesiánica». |
+| Devarim 32             | «Nuestra Roca - La fidelidad»                                                                                                             | Apoyo directo: 32:4 llama a la Roca _emunah_ y la describe justa y recta.                                                                                      |
+| Devarim 32:7-14        | La memoria del cuidado sostiene la confianza                                                                                              | Apoyo textual: el poema recuerda desierto, protección y herencia antes de narrar el abandono.                                                                  |
+| Devarim 32:15-43       | La infidelidad recibe juicio, pero el final conserva restauración                                                                         | Apoyo cualificado: el poema une retribución, soberanía y reconciliación; no permite reducirlo a prosperidad o condena sin contexto.                            |
+| Devarim 32:44-47       | El canto debe aprenderse y recordarse; no es palabra vacía, sino vida.                                                                    | Apoyo textual: la enseñanza pública se recibe entera y se guarda mediante el corazón, los hijos y la práctica.                                                 |
 
 ## La palabra como herencia que se practica
 
@@ -127,5 +139,6 @@ La fidelidad de la Roca es el criterio que ordena todo el canto. יהוה es com
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [PARASHAT HA'AZINU ESPAÑOL 2015](https://www.youtube.com/watch?v=e54Boaj8Z_8) (`source_id`: `youtube:e54Boaj8Z_8`).
 - Video: [Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad](https://www.youtube.com/watch?v=86QJBg5Aw5E) (`source_id`: `youtube:86QJBg5Aw5E`).
 - Esta nota organiza y contrasta el énfasis público del video; no presenta una transcripción automática como cita literal.
