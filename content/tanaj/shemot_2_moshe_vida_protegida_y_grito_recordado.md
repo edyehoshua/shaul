@@ -94,6 +94,14 @@ El mismo orden aparece con la escucha. Israel gime y clama, y TTH dice: «escuch
 
 Por eso el cierre de Shemot 2 debe leerse como bisagra. **פקד**, _paqad_, significa visitar, atender o encargar según el contexto; aunque el verbo aparece explícitamente en la continuación de 3:16, 2:25 prepara esa intervención al decir que Elohim conoció a Israel. «Intervino» es una equivalencia **aproximada** cuando se resume el movimiento narrativo. El capítulo termina antes de la comisión de Moshe para conservar esta distinción: la compasión humana protege vidas en momentos concretos, pero la liberación nacional nace de que Elohim escucha, recuerda y conoce.
 
+## Del «hebreo» al «forastero»: identidad y responsabilidad — vv. 1–22
+
+Shemot 2 usa varias designaciones que no deben colapsarse. **עברי**, _ivri_, significa «hebreo» y en 2:6 identifica al niño por el pueblo al que pertenece; **מצרי**, _mitsri_, significa «egipcio» y en 2:12 identifica al hombre muerto. Son gentilicios normales, no equivalencias automáticas de «justo» y «opresor». El relato deja que la conducta revele el conflicto: la hija de Faraón tiene compasión, mientras un egipcio golpea a un hebreo.
+
+En Midyan, las hijas llaman a Mosheh **איש מצרי**, _ish mitsri_, «un hombre egipcio» (2:19), porque esa es la apariencia o procedencia que ellas perciben; el narrador ya lo ha presentado como hebreo criado en la casa de Faraón. **נכריה**, _nokhriyah_, en **בארץ נכריה**, _be’erets nokhriyah_, significa extranjera o ajena; la frase de Mosheh «en tierra extranjera» expresa desarraigo, no una negación de que יהוה siga gobernando fuera de Egipto. La lectura de Eric sobre la formación del libertador gana precisión cuando se conserva esta tensión entre identidad recibida y condición de forastero.
+
+El cierre conecta esa condición con el pacto, no con una contraseña étnica. **ברית**, _berit_, significa pacto o alianza; en 2:24 su fuerza contextual es la promesa hecha a los padres que mueve la atención divina. **נאק**, _na’aq_, significa gemido o quejido; TTH lo vierte como «gemido», mientras **זעק**, _za‘aq_, nombra el clamor. La progresión «gimieron… clamaron… escuchó… recordó… vio… conoció» conserva tanto el dolor real como la respuesta pactual de Elohim. «La oración activa a Dios» sería una formulación teológica demasiado mecánica: el texto atribuye la iniciativa de la liberación al pacto que Elohim recuerda.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual          | Observación concreta de la clase                                                                           | Tratamiento en la nota                                                           |

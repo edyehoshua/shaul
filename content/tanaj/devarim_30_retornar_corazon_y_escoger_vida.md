@@ -88,6 +88,14 @@ El mismo bloque ordena escuchar la voz y hacer los mandamientos, mientras descri
 
 La palabra **(שוב)**, _shuv_, reaparece en el retorno de Israel y en el «volver» de la acción divina. Su sentido normal es volver, hacer volver o restaurar; «reencarnar» o «reiniciar» serían equivalencias ajenas al pasaje. La simiente no aparece como una identidad inmóvil: recibe una historia en la que puede apartarse, recordar, volver, escuchar y vivir. Esa secuencia protege la enseñanza de dos reducciones opuestas: ni la bendición es mérito autónomo, ni la gracia vuelve innecesaria la fidelidad.
 
+## «Hoy» hace urgente la palabra cercana — Devarim 30:11–20
+
+El capítulo repite **היום**, _hayom_, «hoy», en los vv. 11, 15 y 19. Su sentido normal es el día presente; su fuerza contextual convierte el discurso de Mosheh en una convocación concreta para la generación que escucha, no en una promesa aplazada para una élite futura. En 30:11, **המצוה הזאת**, _hamitzvah hazo’t_, «este mandamiento», identifica el contenido de la palabra cercana. «Revelación interior» sería una paráfrasis incompleta: el objeto sigue siendo el mandamiento ordenado.
+
+El contraste de 30:15 también debe conservar sus parejas: **החיים והטוב**, _hajayim vehatov_, «la vida y el bien», frente a **המות והרע**, _hamavet vehara‘_, «la muerte y el mal». **טוב**, _tov_, significa bueno o favorable, y **רע**, _ra‘_, malo o dañino; aquí describen las consecuencias pactales vinculadas a escuchar o apartarse, no una teoría abstracta sobre dos sustancias. Eric puede aplicar «escoge la vida» a la decisión espiritual del oyente, pero la orden inmediata incluye amar a יהוה, escuchar su voz y aferrarse a Él (30:16, 20).
+
+La forma **העידתי**, _ha‘idoti_, de עוד, _‘ud_, significa «hice testificar» o «puse por testigos». El cielo y la tierra no son decoración poética: funcionan como testigos públicos de una alternativa anunciada. **למען תחיה**, _lema‘an tijyeh_, «para que vivas», expresa propósito; «vivir» es una equivalencia exacta en el verbo, mientras «prosperar sin excepción» sería una expansión no exigida. La simiente queda incluida en la promesa y en la responsabilidad: el v. 19 dice explícitamente «tú y tu simiente».
+
 ## Mapa de la enseñanza de Eric
 
 | Observación pública atribuida a Eric                                                     | Evaluación frente al texto                                                                                                               |
