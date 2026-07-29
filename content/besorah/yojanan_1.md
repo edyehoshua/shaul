@@ -24,7 +24,6 @@ sources:
   - "https://www.youtube.com/watch?v=oWBXDeXiqUI"
   - "https://www.youtube.com/watch?v=OYKCQLXnX3I"
 source_ids:
-  - "youtube:1MoxwBR4bg4"
   - "youtube:oWBXDeXiqUI"
   - "youtube:OYKCQLXnX3I"
 translation: "[TTH, Delitzsch]"
