@@ -1,23 +1,32 @@
 ---
 title: "Vaikra 1–5: qorbanot, acercamiento y obediencia"
 description: "Nota canónica de Vaikra 1–5 sobre las ofrendas y la lectura de Eric acerca de Yehoshúa y los qorbanot."
-date: 2026-07-28
+date: 2026-07-29
 tags:
   - parashot
   - vaikra
   - qorbanot
   - servicio
+  - vayiqra
 references:
   - "#vaikra_1_1-9"
   - "#vaikra_2_1-3"
+  - "#vaikra_2_13"
   - "#vaikra_3_1-5"
   - "#vaikra_4_1-12"
+  - "#vaikra_5_1"
+  - "#vaikra_5_5"
   - "#vaikra_5_14-19"
+  - "#ivrim_10_5-10"
 sources:
   - "https://www.youtube.com/watch?v=JMdxbQtZ9wc"
   - "https://www.youtube.com/watch?v=h5LhqPYCi4E"
   - "docs/scriptures/tth/json/vaikra.json"
   - "docs/scriptures/oe/json/leviticus/1.json"
+  - "docs/scriptures/oe/json/leviticus/2.json"
+  - "docs/scriptures/oe/json/leviticus/3.json"
+  - "docs/scriptures/oe/json/leviticus/4.json"
+  - "docs/scriptures/oe/json/leviticus/5.json"
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:JMdxbQtZ9wc"
@@ -32,6 +41,18 @@ Vaikra 1–5 presenta los qorbanot como acercamientos regulados por יהוה, no
 ## Alcance y criterio
 
 Esta es la nota canónica para Vaikra 1–5. La exposición pública se usa para identificar su tema, no se inventan frases del audio ni se presenta una transcripción automática como cita literal. TTH y el hebreo local se citan en unidades argumentales. La conexión con Yehoshúa es una recepción canónica posterior y pedagógica; el sentido inmediato de Vaikra es el servicio del altar en Israel.
+
+## Hoja de comparación
+
+| Referencia     | Hebreo local OE (sin nikud)                                     | TTH (ES)                                                                                           | Observación                                                         |
+| -------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| #vaikra_1_1-2  | **ויקרא אל משה… אדם כי יקריב מכם קרבן ליהוה מן הבהמה…**         | «Y llamó a Moshéh… El hombre que acercase… un korbán a יהוה, de animales…»                         | יהוה inicia; el oferente acerca bajo orden.                         |
+| #vaikra_1_4    | **וסמך ידו על ראש העלה ונרצה לו לכפר עליו**                     | «apoyará su mano sobre la cabeza de la ofrenda ascendida, y será acepta… para reconciliación…»     | Gesto, aceptación y expiación cultual en la _olah_.                 |
+| #vaikra_2_1,13 | **ונפש כי תקריב קרבן מנחה… במלח תמלח ולא תשבית מלח ברית אלהיך** | «la persona que acerque una ofrenda de grano… con sal sazonarás… no harás cesar la sal del pacto…» | La _minjah_ es tributo vegetal; la sal del pacto no se omite.       |
+| #vaikra_3_1    | **ואם זבח שלמים קרבנו… תמים יקריבנו לפני יהוה**                 | «si sacrificio de retribuciones es su ofrenda… completo la acercará delante de יהוה»               | _Shelamim_: categoría de comunión/retribución con animal íntegro.   |
+| #vaikra_4_2    | **נפש כי תחטא בשגגה מכל מצות יהוה אשר לא תעשינה**               | «La persona que peque por error, en cualquiera de todos los mandamientos…»                         | La _jatat_ se abre con inadvertencia, no con toda clase de pecado.  |
+| #vaikra_5_1,5  | **והוא עד… אם לוא יגיד ונשא עונו… והתודה אשר חטא עליה**         | «es testigo… si no lo informa, cargará su iniquidad… confesará que ha pecado en eso»               | Silencio del testigo y confesión introducen responsabilidad y rito. |
+| #vaikra_5_15   | **נפש כי תמעל מעל… והביא את אשמו ליהוה איל תמים… לאשם**         | «La persona que transgrede apropiándose… traerá su ofrenda de culpa… para ofrenda de culpa»        | El _asham_ une ofensa, valoración y ofrenda.                        |
 
 ## 1. El acercamiento tiene forma y costo
 
@@ -107,14 +128,21 @@ En 5:23–24 el responsable debe devolver lo tomado y añadir una quinta parte. 
 
 ## Léxico clave
 
-| Forma     | Transliteración | Sentido normal                   | Fuerza contextual                          | Equivalencia                             |
-| --------- | --------------- | -------------------------------- | ------------------------------------------ | ---------------------------------------- |
-| **ויקרא** | _vayiqra_       | llamó, convocó                   | יהוה inicia la instrucción desde la Tienda | «Inspiró» sería pedagógico, no exacto    |
-| **קרבן**  | _qorban_        | acercamiento, ofrenda            | Don llevado al altar bajo orden cultual    | «Sacrificio» es tradicional y aproximado |
-| **סמך**   | _samakh_        | apoyar, colocar                  | Gesto ritual sobre la víctima              | «Transferir todo pecado» excede la forma |
-| **מנחה**  | _minjah_        | regalo, tributo, ofrenda         | Presentación vegetal con aceite y sal      | «Pan» es demasiado limitado              |
-| **חטאת**  | _jatat_         | ofrenda por el pecado            | Categoría ritual de Vaikra 4–5             | «Error» no traduce toda la función       |
-| **אשם**   | _asham_         | culpa, ofensa, ofrenda por culpa | Culpa acompañada de restitución            | «Castigo» no es equivalente exacta       |
+| Forma     | Transliteración | Sentido normal                      | Fuerza contextual                                  | Equivalencia                                                               |
+| --------- | --------------- | ----------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------- |
+| **ויקרא** | _vayiqra_       | llamó, convocó                      | יהוה inicia la instrucción desde la Tienda         | «Inspiró» sería pedagógico, no exacto                                      |
+| **קרבן**  | _qorban_        | acercamiento, ofrenda               | Don llevado al altar bajo orden cultual            | «Sacrificio» es tradicional y aproximado; «cuerpo dispuesto» es pedagógico |
+| **עלה**   | _olah_          | ofrenda que sube / holocausto       | Animal que asciende entero en humo (Vaikra 1)      | «Holocausto» es tradicional                                                |
+| **סמך**   | _samakh_        | apoyar, colocar                     | Gesto ritual sobre la víctima                      | «Transferir todo pecado» excede la forma                                   |
+| **מנחה**  | _minjah_        | regalo, tributo, ofrenda            | Presentación vegetal con aceite y sal              | «Pan» es demasiado limitado                                                |
+| **שלמים** | _shelamim_      | ofrendas de paz / retribuciones     | Comunión regulada con porciones y altar            | «Comunión» es pedagógica                                                   |
+| **חטאת**  | _jatat_         | ofrenda por el pecado               | Categoría de Vaikra 4–5, a menudo por _shegagah_   | «Error» no traduce toda la función                                         |
+| **אשם**   | _asham_         | culpa, ofensa, ofrenda por culpa    | Culpa acompañada de estimación y restitución       | «Castigo» no es equivalente exacta                                         |
+| **שגגה**  | _shegagah_      | inadvertencia, error                | Delimita casos de 4:2; no universaliza todo pecado | «Accidente total» es inexacto                                              |
+| **מעל**   | _maal_          | infidelidad, abuso de lo confiado   | Transgresión que abre el _asham_                   | «Sentirse mal» es demasiado débil                                          |
+| **התודה** | _hitvadah_      | confesar, reconocer                 | Nombrar la falta dentro del procedimiento          | «Descargar emociones» es insuficiente                                      |
+| **השיב**  | _heshiv_        | devolver, restituir                 | Reparar lo tomado antes/con la ofrenda de culpa    | «Perdón interior» no basta                                                 |
+| **עוון**  | _avon_          | iniquidad, torcedura, culpa cargada | El testigo que calla «llevará su iniquidad» (5:1)  | «Vergüenza» empobrece la forma                                             |
 
 ## Prueba de la lectura mesiánica: altar, cuerpo y restitución
 
@@ -128,11 +156,25 @@ La evaluación final debe mantener tres niveles: el sentido **exacto** de las fo
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad     | Observación pública atribuible a Eric                                    | Evaluación frente al texto                                                                                        |
-| ---------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Vaikra 1–5 | Los títulos presentan «Yehoshúa' y los Qorbanot» como eje de dos clases. | Conexión mesiánica legítima como lectura posterior; el capítulo inmediato trata acercamiento, altar y sacerdocio. |
-| Vaikra 1–3 | La ofrenda expresa acercamiento y comunión con יהוה.                     | Apoyado por קרבן, la convocatoria y la regulación de sangre, fuego, aceite y sal.                                 |
-| Vaikra 4–5 | El pecado y la culpa requieren tratamiento ordenado.                     | Apoyado por חטאת y אשם; Vaikra 5 añade restitución, no solo rito.                                                 |
+| Unidad     | Observación pública atribuible a Eric                                                                   | Evaluación frente al texto                                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vaikra 1–5 | Los títulos presentan «Yehoshúa' y los Qorbanot» como eje de dos clases.                                | Conexión mesiánica legítima como lectura posterior; el capítulo inmediato trata acercamiento, altar y sacerdocio.                                             |
+| Vaikra 1   | _Qorban_ = lo acercado; la _olah_ se consume y el v. 4 habla de expiación/reconciliación.               | Apoyo léxico fuerte a קרב y קרבן y a 1:4; «reconciliación» glosa _kipper_ de modo aproximado y contextual.                                                    |
+| Vaikra 1–2 | Diferencia _olah_ (expiación en 1:4) y _minjah_ (olor fragante; posible sin sangre).                    | Apoyo textual a las categorías distintas; la _minjah_ no anula la sangre en el sistema global del altar.                                                      |
+| Vaikra 1–5 | El _qorban_ es «el cuerpo dispuesto por Dios» para tratar el pecado y sus efectos.                      | Observación pedagógica fuerte sobre materialidad; no es equivalencia léxica exacta de _qorban_ (hay ofrenda vegetal) ni borra confesión/restitución.          |
+| Vaikra 4–5 | _Jatat_ sobre todo por error; faltas mayores/a sabiendas se asocian en la clase con _olah_ y confesión. | Media verdad textual: 4:2 ancla _shegagah_; la tabla universal _olah_=delito consciente no está formulada así en Vaikra y se marca como síntesis de la clase. |
+| Vaikra 5:1 | El testigo que vio/oyó y calla participa de la iniquidad.                                               | Apoyo textual exacto en **אם לוא יגיד ונשא עונו**; «iniquidad» como ocultamiento deliberado es aplicación cualificada.                                        |
+| Ivrim 10   | Yehoshúa como _qorban_ más perfecto / cuerpo preparado.                                                 | Recepción canónica en Delitzsch (Ivrim 10:5, 10); no retroproyecta «cuerpo» como sentido de cada _qorban_ levítico.                                           |
+
+## Categorías que la clase distingue y el texto ordena
+
+La segunda parte de Eric resume: el _qorban_ es el cuerpo dispuesto por Dios para eliminar el pecado y sus efectos, y enumera de memoria _olah_, _minjah_, _shelamim_, _jatat_ y el eje del cuerpo más que de la sola sangre, porque la _minjah_ no derrama sangre y aun así es olor fragante. OE 1:9 llama a la _olah_ **אשה ריח ניחוח ליהוה**, «ofrenda de fuego de olor calmante a יהוה»; TTH: «ofrenda de fuego de olor calmante a יהוה». **(ניחוח)**, _nijóaj_, significa calmante, agradable o de sosiego; su fuerza es la aceptación cultual del aroma, no una emoción privada del oferente. «Perfume espiritual» es **pedagógico**.
+
+La distinción _jatat_ / _olah_ debe evaluarse con sobriedad. OE 4:2 abre: **נפש כי תחטא בשגגה**, «cuando una persona peque por inadvertencia». TTH: «por error». Eric afirma con razón que la _jatat_ atiende sobre todo el error; también propone que la falta hecha a sabiendas se resolvía con _olah_ y confesión ante el sacerdote. La primera mitad tiene anclaje textual; la segunda es **síntesis de la clase**, porque Vaikra 1 presenta la _olah_ con su propio procedimiento y 4–5 desarrollan _jatat_ y _asham_ sin una tabla que diga «toda intención = _olah_». Conservar la observación de Eric exige citarla como propuesta pedagógica y dejar visible la distribución local de los ritos.
+
+El testigo de 5:1 cierra el argumento ético del bloque. OE: **והוא עד או ראה או ידע אם לוא יגיד ונשא עונו**; TTH: «es testigo o ha visto o sabe algo, si no lo informa, cargará su iniquidad». **(גיד)** y **(נגד)**, _higgid_ y _nagad_, significan declarar o informar; **(נשא)**, _nasa_, llevar o cargar; **(עוון)**, _avon_, iniquidad o culpa torcida. Eric identifica el silencio encubridor con iniquidad. El texto apoya la participación del testigo callado; convertir toda reserva prudente en el mismo caso sería una extensión **pedagógica** que el versículo no detalla.
+
+Así, el eje público «Yehoshúa y los qorbanot» puede mantenerse sin anular Vaikra: hay acercamiento material, categorías distintas, confesión, sangre o grano según el rito, y reparación. La recepción de Ivrim puede hablar de un cuerpo preparado una vez; el altar de Vaikra sigue exigiendo que el daño al prójimo no se disuelva en una metáfora sacrificial.
 
 ## Conclusión
 

@@ -127,10 +127,11 @@ Así, la enseñanza canónica no es una oposición entre judíos y gentiles ni e
 
 ## Mapa de la enseñanza de Eric
 
-- **Marcos 7:1-13 — tradición y corbán:** Eric distingue la higiene de la impureza ritual y denuncia una tradición que desplaza el mandamiento; la nota lo apoya con el caso concreto de ayudar a padre y madre.
+- **Marcos 7:1-13 — tradición y corbán:** Eric distingue higiene de impureza ritual (**טמא** no equivale automáticamente a manos no lavadas), nombra el cerco a la Torá y denuncia una tradición que desplaza el mandamiento; la nota lo apoya con el caso concreto de ayudar a padre y madre y califica Hilel/Shamai como trasfondo no datado por Marcos.
 - **Marcos 7:14-23 — corazón y contaminación:** Eric discute la lectura alimentaria de 7:19; la nota sigue el contexto de manos y corazón y deja la sintaxis griega como verificación pendiente.
-- **Marcos 7:24-30 — prioridad y misericordia:** Eric lee el «primero» de los hijos como prioridad de la misión y observa que la mujer responde dentro de la imagen de la mesa; la nota conserva la misericordia concedida y deja las reconstrucciones históricas como pendientes.
+- **Marcos 7:24-30 — prioridad y misericordia:** Eric lee el «primero» de los hijos como prioridad de la misión y observa que la mujer responde dentro de la imagen de la mesa, no como un insulto étnico cerrado; la nota conserva la misericordia concedida y deja las reconstrucciones históricas como pendientes.
 - **Marcos 7:31-37 — abrir oídos y lengua:** Eric explica **(ܐܬܦܬܚ)** como orden aramea y advierte que los gestos no son una fórmula repetible; la nota sostiene el resultado textual y marca la relación arameo-hebreo como aproximada.
+- **Puente a Marcos 8:1-21:** la misma sesión que cierra 7:31-37 introduce panes, señal y levadura; esas unidades se desarrollan en la nota canónica de Marcos 8 para conservar un capítulo por nota, sin duplicar el `source_id` de la parte 24.
 
 ## Prueba adicional: la palabra que desplaza y la palabra que restaura
 
@@ -144,9 +145,23 @@ La nota conserva una sola progresión de Marcos 7 y no mezcla el trabajo de las 
 
 La dependencia argumental también queda acotada: **ἀκυρόω**, _akuroō_, «invalidar o dejar sin efecto», prueba el resultado de la tradición en 7:13; **καθαρίζων**, _katharizōn_, «purificando», requiere conservar la discusión de puntuación en 7:19; y **διὰ τοῦτον τὸν λόγον**, _dia touton ton logon_, «por esta palabra», explica la respuesta concedida a la mujer en 7:29. Ninguna de estas formas autoriza por sí sola una teoría total sobre dietas, «dos casas» o una ceremonia aramea de sanidad. Las tres fuentes de video tienen IDs públicos distintos y cada una queda vinculada a la perícopa que desarrolla.
 
+## Prueba final: escuchar, responder y anunciar
+
+El capítulo comienza con una acusación sobre cómo comen los discípulos y concluye con una restauración de la escucha. Esa relación no borra las escenas intermedias, pero sí permite probar la observación de Eric sobre manos, boca, corazón, oídos y lengua. **ἀκούω**, _akouō_, «oír o escuchar», aparece en el llamado de 7:14; **καρδία**, _kardia_, «corazón», identifica el centro moral en 7:21; y **μογιλάλος**, _mogilalos_, «tartamudo o de habla dificultosa», describe al hombre llevado a Yehoshua en 7:32. Son funciones distintas: la multitud debe escuchar y considerar, el corazón produce acciones y el hombre necesita una restauración concreta del habla.
+
+La orden aramea **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», no funciona como explicación abstracta de la impureza. Marcos la coloca después de los gestos y del mirar al cielo, y el resultado se verifica en dos verbos: **ἀνεῴχθησαν**, _aneōchthēsan_, «fueron abiertos», aplicado a los oídos, y **ἐλύθη**, _elythē_, «fue soltada», aplicado a la atadura de la lengua. Eric relaciona la forma aramea con una raíz hebrea de abrir; la comparación semítica puede ser útil, pero es aproximada y no sustituye la forma que el relato conserva. La prueba narrativa está en que el hombre oye y habla correctamente.
+
+La mesa también debe leerse por el resultado de la palabra. La mujer responde a **πρῶτον**, _prōton_, «primero», y a la imagen de **κυνάρια**, _kynaria_, «perritos», sin negar el orden expresado; Yehoshua responde a su dicho y la hija queda libre. **λόγος**, _logos_, «palabra, dicho o mensaje», en «por esta palabra» vincula la liberación con la respuesta de la mujer, no con una fórmula lingüística transferible. Así, la progresión es concreta: una tradición es juzgada por si invalida el mandamiento, una palabra humilde recibe misericordia y otra palabra abre al que no podía oír ni hablar. Las extensiones sobre higiene, dos casas o ritual arameo quedan subordinadas a esa secuencia.
+
+## Prueba ordenada: manos, corazón, mesa y apertura (7:1-37)
+
+La secuencia local de Marcos 7 impide tratar tradición, dieta, gentiles y sanidad como temas sueltos. En 7:5, la acusación usa **(ἀνίπτοις)**, _aniptois_, «no lavadas», y el campo de **(κοινός)**, _koinos_, «común o profanado». Eric insiste en una distinción concreta: manos sucias o antihigiénicas no son automáticamente **(טמא)**, _tame_, «impuras» en el sentido de la Torá. El inciso narrativo lo confirma al glosar «esto es, sin lavarse». La clase también nombra el «cerco» —**סייג לתורה**, _siyag la-Torah_— y menciona las escuelas de Hilel y Shamai como marco de tradiciones de ancianos; eso se conserva como trasfondo pedagógico atribuible, no como datación demostrada por Marcos. El argumento seguro sigue en 7:8-13: **(ἐντολή)**, _entolē_, «mandamiento», queda desplazada por **(παράδοσις)**, _paradosis_, «tradición», cuando **(κορβᾶν)**, _korban_, «ofrenda», se usa para no beneficiar a padre o madre. **(ἀκυρόω)**, _akuroō_, «invalidar», mide el resultado.
+
+<!-- prettier-ignore -->
+En 7:14-23, **(ἀκούετε)**, _akouete_, «escuchad», y **(καρδία)**, _kardia_, «corazón», desplazan la discusión de lo que entra a lo que sale. Eric objeta que 7:19 se use para declarar aptos todos los animales de Vayiqra; el contexto inmediato es lavado de manos y contaminación moral, y **(καθαρίζων)**, _katharizōn_, «purificando», exige conservar la discusión de puntuación. La equivalencia de **(κοινόω)** con **(טמא)** es aproximada. En 7:24-30, la mujer sirofenicia responde dentro de la imagen de **(πρῶτον)** y **(κυνάρια)**; Eric subraya que no se trata de un insulto étnico cerrado sino de un orden de mesa, y el narrador concede la liberación **(διὰ τοῦτον τὸν λόγον)**, _dia touton ton logon_, «por esta palabra». En 7:31-37, **(ܐܬܦܬܚ)**, _ethpethach_, «ábrete», produce **(ἀνεῴχθησαν)** y **(ἐλύθη)**; la clase lo identifica como arameo y lo compara de modo aproximado con hebreo de «abrir». Así el capítulo pasa de una tradición que bloquea el bien a una palabra que restaura escucha y habla.
 ## Pendiente de verificar
 
-- [ ] Cotejar fuentes rabínicas tempranas y su datación para el uso de «cerco para la Torá» y para las prácticas de lavado mencionadas por la clase.
+- [ ] Cotejar fuentes rabínicas tempranas y su datación para el uso de «cerco para la Torá» (**סייג לתורה**) y para las prácticas de lavado mencionadas por la clase, incluidas las escuelas de Hilel y Shamai.
 - [ ] Comparar la sintaxis griega, la puntuación y las variantes de #markos_7_19 para determinar si **(καθαρίζων)** continúa la voz de Yehoshua o cierra la explicación narrativa antes de fijar una conclusión exhaustiva sobre «purifica toda la comida».
 - [ ] Verificar el valor histórico y semántico de **(Ἑλληνίς)** y **(Συροφοινίκισσα)**, y el modo en que Mateo llama «cananea» a la misma mujer.
 - [ ] Cotejar la forma aramea **(ܐܬܦܬܚ)** y su relación precisa con el hebreo **(הפתח)** en gramáticas y léxicos semíticos.
@@ -154,7 +169,7 @@ La dependencia argumental también queda acotada: **ἀκυρόω**, _akuroō_, 
 
 ## Conclusión
 
-Marcos 7 desarrolla una sola línea a través de escenas diferentes. La tradición falla cuando deja sin ayuda a padre y madre; el corazón se muestra por los males que produce; la mujer extranjera persevera dentro de la imagen de la mesa y recibe misericordia; el sordomudo oye y habla. Yehoshua no enseña una piedad de exterior ni una misericordia abstracta. Su palabra examina lo que sale del ser humano y, al mismo tiempo, abre espacio para que quien se acerca con necesidad sea atendido.
+Marcos 7 desarrolla una sola línea a través de escenas diferentes. La tradición falla cuando deja sin ayuda a padre y madre; el corazón se muestra por los males que produce; la mujer extranjera persevera dentro de la imagen de la mesa y recibe misericordia; el sordomudo oye y habla. Yehoshua no enseña una piedad de exterior ni una misericordia abstracta. Su palabra examina lo que sale del ser humano y, al mismo tiempo, abre espacio para que quien se acerca con necesidad sea atendido. La distinción de Eric entre higiene e impureza, y entre cerco humano y mandamiento de יהוה, queda sujeta a ese orden textual.
 
 ## Créditos
 
@@ -167,5 +182,6 @@ Marcos 7 desarrolla una sola línea a través de escenas diferentes. La tradici�
 ## Ver también
 
 - [[markos_6_envio_pan_mar_compasion|Marcos 6: envío, pan, mar y compasión]]
+- [[markos_8_ciego_confesion_camino_cruz|Marcos 8: visión restaurada, confesión y camino de la cruz]]
 - [[markos_4_palabra_tormenta_fidelidad|Marcos 4: palabra, tormenta y fidelidad]]
 - [[markos_3_elegir_vida_casa_familia|Marcos 3: elegir la vida, una casa firme y la familia del Mesías]]

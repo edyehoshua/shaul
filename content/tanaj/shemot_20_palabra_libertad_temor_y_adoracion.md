@@ -1,7 +1,7 @@
 ---
 title: "Shemot 20: palabra, libertad, temor y adoración"
 description: "Lectura de Shemot 20: la voz que libera, los mandamientos, el temor que guarda del pecado y el altar sin imagen."
-date: 2026-07-27
+date: 2026-07-29
 tags:
   - shemot
   - sinai
@@ -9,6 +9,7 @@ tags:
   - shabat
   - idolatria
   - adoracion
+  - yitro
 references:
   - "#shemot_19_5-6"
   - "#shemot_20_1-3"
@@ -23,9 +24,11 @@ sources:
   - "docs/scriptures/oe/json/exodus/19.json"
   - "docs/scriptures/oe/json/exodus/20.json"
   - "docs/scriptures/oe/json/deuteronomy/5.json"
+  - "docs/scriptures/tth/json/shemot.json"
+  - "docs/scriptures/delitzsch/json/1peter.json"
 source_ids:
   - "youtube:8cPipT6K-9Q"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -44,13 +47,13 @@ En Shemot 19:6, inmediatamente antes de los mandamientos, יהוה dice: **ממ�
 
 ## Hoja de comparación
 
-| Referencia       | Hebreo local OE (sin nikud)                                                                                                 | Observación                                                                             |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #shemot_20_1-3   | **וידבר אלהים את כל הדברים האלה לאמר׃ אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים׃ לא יהיה לך אלהים אחרים על פני**    | La declaración de liberación antecede al mandato de exclusividad.                       |
-| #shemot_20_7-8   | **לא תשא את שם יהוה אלהיך לשוא כי לא ינקה יהוה את אשר ישא את שמו לשוא׃ זכור את יום השבת לקדשו**                             | Nombre y Shabat pertenecen al orden de una vida apartada para יהוה.                     |
-| #shemot_20_12-17 | **כבד את אביך ואת אמך... לא תרצח׃ לא תנאף׃ לא תגנב׃ לא תענה ברעך עד שקר׃ לא תחמד בית רעך**                                  | Los mandamientos descienden hacia relaciones familiares, vida, verdad y deseo.          |
-| #shemot_20_18-20 | **וכל העם ראים את הקולת... ויעמדו מרחק׃ ... אל תיראו כי לבעבור נסות אתכם בא האלהים ובעבור תהיה יראתו על פניכם לבלתי תחטאו** | El pueblo se aleja, pero Mosheh explica que el temor de יהוה debe apartarlo del pecado. |
-| #shemot_20_22-25 | **אתם ראיתם כי מן השמים דברתי עמכם׃ לא תעשון אתי אלהי כסף ואלהי זהב לא תעשו לכם׃ מזבח אדמה תעשה לי**                        | La voz desde los cielos excluye ídolos de metal y regula el altar.                      |
+| Referencia       | Hebreo local OE (sin nikud)                                                                                            | TTH (ES)                                                                                                                                      | Observación                                                         |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| #shemot_20_1-3   | **וידבר אלהים את כל הדברים האלה לאמר אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים לא יהיה לך אלהים אחרים על פני** | «Y habló Elohim todas estas palabras… Yo soy יהוה tu Elohim, que te saqué… de la casa de esclavos. No tendrás… otros dioses sobre mi rostro.» | La declaración de liberación antecede al mandato de exclusividad.   |
+| #shemot_20_7-8   | **לא תשא את שם יהוה אלהיך לשוא… זכור את יום השבת לקדשו**                                                               | «No levantarás el Nombre de יהוה… para mentira… Recuerda el día del Shabat para apartarlo.»                                                   | Nombre y Shabat pertenecen al orden de una vida apartada para יהוה. |
+| #shemot_20_12-17 | **כבד את אביך ואת אמך… לא תרצח לא תנאף לא תגנב לא תענה ברעך עד שקר לא תחמד בית רעך**                                   | «Honrarás a tu padre y a tu madre… No asesinarás… No adulterarás… No robarás… No responderás… falso… No codiciarás…»                          | Los mandamientos descienden hacia familia, vida, verdad y deseo.    |
+| #shemot_20_18-20 | **וכל העם ראים את הקולת… ויעמדו מרחק… אל תיראו כי לבעבור נסות אתכם בא האלהים ובעבור תהיה יראתו על פניכם לבלתי תחטאו**  | «todo el pueblo veía las voces… se colocaron de lejos… No teman, porque para hacerlos experimentar vino Elohim… para que no pequen.»          | El pueblo se aleja; el temor debe apartarlo del pecado.             |
+| #shemot_20_22-25 | **אתם ראיתם כי מן השמים דברתי עמכם לא תעשון אתי אלהי כסף ואלהי זהב לא תעשו לכם מזבח אדמה תעשה לי**                     | «Ustedes han visto que desde el cielo he hablado… No harán conmigo dioses de plata… Un altar de tierra harás para Mí…»                        | La voz desde los cielos excluye ídolos de metal y regula el altar.  |
 
 ## La voz del libertador y la primera lealtad
 
@@ -96,14 +99,35 @@ El contraste final también está en ambas capas locales. El TTH dice: «No har�
 
 En #shemot_20_20 el TTH traduce **נסה** como «hacerlos experimentar»: «No teman, porque para hacerlos experimentar vino Elohim… para que no pequen». OE y TTH convergen en el propósito moral. **(נס)**, _nasah_, significa probar, examinar o poner a prueba; «tentar» puede ser equívoco si sugiere inducir al mal. Esta precisión conserva la observación de Eric sobre el temor que guarda del pecado y a la vez limita la aplicación: la reverencia debe nacer de la palabra recibida, no de manipular miedo religioso.
 
+## Hoja léxica
+
+| Forma                  | Transliteración  | Sentido normal y forma                | Fuerza contextual en Shemot 20 / marco 19                         | Tipo de relación                              |
+| ---------------------- | ---------------- | ------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- |
+| **(שמע)**              | _shama_          | Oír, escuchar, atender                | Recibir la voz para responder; no solo captar sonido              | «Obedecer» es aproximada y contextual         |
+| **(סגלה)**             | _segulah_        | Propiedad especial, tesoro particular | Pertenencia pactal de 19:5 que enmarca la lealtad de 20           | «Tesoro sentimental» empobrece el hebreo      |
+| **(כהן)**              | _kohen_          | Sacerdote, ministro cultual           | En 19:6, servicio/representación del reino sacerdotal             | «Ministro» es aproximada; no borra el culto   |
+| **(גוי קדוש)**         | _goy qadosh_     | Nación santa / pueblo apartado        | Vocación colectiva verificada en mandamientos concretos           | «Etiqueta étnica superior» es inexacta        |
+| **(עבדים)**            | _avadim_         | Esclavos, siervos                     | Casa de esclavos de la que יהוה saca (#shemot_20_2)               | Memoria de liberación, no autonomía abstracta |
+| **(שוא)**              | _shav_           | Vanidad, mentira, vacío               | Levantar el Nombre para mentira (#shemot_20_7)                    | «Blasfemia genérica» es demasiado amplio      |
+| **(שבת)**              | _shabat_         | Cese, descanso, día séptimo           | Tiempo apartado que incluye casa, siervos y extranjero            | «Pausa privada» es incompleta                 |
+| **(כבד)**              | _kabed_          | Dar peso, honrar                      | Honra a padre y madre (#shemot_20_12)                             | «Respetar» es aproximada                      |
+| **(חמד)**              | _jamad_          | Codiciar, desear indebidamente        | Deseo posesivo sobre lo del prójimo (#shemot_20_17)               | «Pensamiento malo genérico» es demasiado vago |
+| **(יראה)** / **(ירא)** | _yirah_ / _yare_ | Temor, reverencia; temer              | Distingue pánico que aleja y temor que frena el pecado            | «Respeto» puede suavizar de más               |
+| **(נסה)**              | _nasah_          | Probar, examinar                      | Elohim viene para probar, no para inducir al mal (#shemot_20_20)  | «Tentación» es equívoca                       |
+| **(פסל)**              | _pesel_          | Imagen tallada, ídolo labrado         | Prohibición de fabricar representación (#shemot_20_4 context)     | «Espiritualidad controlable» es pedagógico    |
+| **(מזבח)**             | _mizbeaj_        | Altar, lugar de sacrificio            | Tierra o piedras no labradas; Nombre recordado (#shemot_20_24-25) | «Plataforma de acceso» es pedagógico          |
+| **(זכר)**              | _zajar_          | Recordar, hacer memoria               | יהוה hace recordar su Nombre en el lugar del altar                | «Activar presencia» es inexacto               |
+
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual     | Observación concreta de la clase                                                                     | Tratamiento en esta nota                                                                                                                                                    |
-| ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #shemot_19_5-6     | Relaciona escuchar la voz y guardar el pacto con ser **(סגלה)**, reino de sacerdotes y nación santa. | Apoyo contextual: funciona como marco de Shemot 20; sus definiciones léxicas e históricas quedan pendientes de verificación.                                                |
-| #shemot_18_1; 19:6 | Explica _kohen_ como «ministro» y destaca «Goy Qadosh» como título de la parashá.                    | Clarificación léxica y apoyo contextual: se conserva el énfasis de servicio, pero se evalúa _kohen_ desde su uso cultual y «nación santa» desde la obediencia del capítulo. |
-| #shemot_20_1-3     | Lee la obediencia como respuesta a la liberación de Egipto, no como medio para comprarla.            | Apoyo textual: la declaración de haber sacado a Israel antecede la exigencia de lealtad exclusiva.                                                                          |
-| #shemot_20_18-25   | Relaciona el temor de Elohim con una vida que no peca y con un culto sin imágenes.                   | Clarificación léxica y apoyo textual: se explica **(יראה)** de forma contextual y se sigue el cierre sobre el altar.                                                        |
+| Unidad textual   | Observación concreta de la clase                                                                  | Tratamiento en esta nota                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| #shemot_18_1     | _Kohen_ de Midian se lee primero como «ministro»; critica traducciones que oscurecen el servicio. | Clarificación léxica: se conserva el énfasis de servicio y se evalúa _kohen_ desde su uso cultual bíblico.                   |
+| #shemot_19_5-6   | _Shama_ implica oír, entender y obedecer; _segulah_ / _goy qadosh_ es prototipo y nación santa.   | Apoyo contextual fuerte a la cadena de escucha; definiciones históricas de _goy_ se marcan pedagógicas y se verifican en 20. |
+| #shemot_19_6     | «Reino de sacerdotes y nación santa» da título y vocación a la parashá.                           | Apoyo textual: la vocación precede y se verifica en la lealtad, el Shabat y la justicia de Shemot 20.                        |
+| #shemot_20_1-3   | Lee la obediencia como respuesta a la liberación de Egipto, no como medio para comprarla.         | Apoyo textual exacto: la declaración de haber sacado a Israel antecede la exigencia de lealtad exclusiva.                    |
+| #shemot_20_7-17  | La santidad se reconoce en Nombre, tiempo apartado y trato al prójimo, no en etiqueta verbal.     | Apoyo textual: se sigue el descenso de 20:7-17 y se limita la aplicación a lo que el capítulo ordena.                        |
+| #shemot_20_18-25 | Relaciona el temor de Elohim con una vida que no peca y con un culto sin imágenes fabricadas.     | Clarificación léxica y apoyo textual: se distingue pánico y temor que frena el pecado; se sigue el cierre del altar.         |
 
 ## Reparación: escuchar la voz y guardar una libertad con forma
 
@@ -146,6 +170,18 @@ El discurso continúa: **אתם ראיתם כי מן השמים דברתי עמ�
 El altar de tierra completa el límite: **מזבח אדמה תעשה לי**, «altar de tierra harás para Mí», y «si me haces altar de piedras, no las labrarás» (#shemot_20_24-25). **(אדמה)**, _adamah_, significa tierra o suelo; aquí designa el material sencillo del altar. **(פסל)**, _pesel_, significa imagen tallada o objeto labrado; aunque el mandato del altar emplea otra forma, el contraste con la fabricación de dioses es claro: el culto no queda a merced de una imagen que haga visible y controlable a יהוה. «Culto sin materia» sería una lectura inexacta; el capítulo regula materia, lugar, nombre y sacrificio.
 
 Delitzsch vuelve a expresar la vocación en Keifa alef 2:9: **ἵνα τὰς ἀρετὰς ἐξαγγείλητε**, «para que anuncien las virtudes» de quien llamó de las tinieblas a su luz. **(ἀρετή)**, _aretē_, significa excelencia, virtud o acto digno de alabanza; aquí la forma vincula la identidad sacerdotal con proclamación pública, no con superioridad privada. Es una conexión canónica posterior y aproximada, no una segunda traducción de Shemot 20. Confirma el énfasis de Eric sobre «Goy Qadosh» solo cuando ese título se traduce en escucha, justicia, reposo para el vulnerable y adoración que no fabrica otro dios.
+
+## Control ordenado: de la vocación a la mesa del prójimo
+
+La clase de Eric ancla Yitró en #shemot_19_5-6 antes de bajar a los mandamientos. OE y TTH de 19:5-6 hablan de escuchar la voz, guardar el pacto, ser **(סגלה)**, _segulah_, y **ממלכת כהנים וגוי קדוש**, «reino de sacerdotes y nación santa». **(סגלה)**, _segulah_, significa propiedad especial o tesoro particular; su fuerza contextual es pertenencia dentro del pacto, no una superioridad étnica abstracta. Eric propone leerla también como «prototipo» puesto en medio de los pueblos. Eso es **pedagógico y aproximado**: el hebreo de 19:5 habla de posesión especial «de entre todos los pueblos»; la función de modelo puede inferirse de la vocación sacerdotal, pero no debe sustituir la forma del versículo.
+
+**(כהן)**, _kohen_, en «reino de sacerdotes», designa un servicio cultual y representativo. La observación de Eric de que _kohen_ puede glosarse como «ministro» ayuda a recordar el cargo de servicio; la equivalencia es **aproximada** y no autoriza a vaciar el vínculo con el altar. **(גוי)**, _goy_, significa nación o pueblo; **(קדוש)**, _qadosh_, santo o apartado. La clase insiste en que «Goy Qadosh» no es una etiqueta sin práctica. Shemot 20 confirma esa dirección: la santidad se reconoce cuando no hay otros elohim sobre el rostro de יהוה, cuando el Nombre no se levanta para mentira, cuando el Shabat alcanza al siervo y al extranjero, y cuando el prójimo no es asesinado, robado, calumniado ni codiciado.
+
+El verbo **(שמע)**, _shama_, recibe en la clase tres capas: oír, entender y obedecer. El OE de 20:19 dice **דבר אתה עמנו ונשמעה**, «habla tú con nosotros y escucharemos»; TTH: «Habla tú con nosotros y escucharemos». La forma **(נשמעה)**, _nishma'ah_, conserva el oír comunitario. «Obedecer» es una equivalencia **aproximada**: resume el efecto que 20:20 hace explícito —«para que no pequen»—, pero no es el único sentido de toda forma de la raíz. Eric acierta al negar una escucha estéril; el texto obliga a añadir el propósito moral y el contenido de los mandamientos.
+
+La segunda tabla no es un apéndice ético separado del Sinaí. OE 20:12-17 ordena **כבד**, _kabed_, «honra / da peso»; prohíbe asesinar, adulterar, robar, testimonio falso y **לא תחמד**, _lo tajmod_, «no codiciarás». **(רע)**, _rea'_, significa compañero o prójimo; su fuerza contextual es el otro concreto dentro de la comunidad, no una abstracción moral moderna. La codicia del v. 17 nombra casa, esposa, siervo, buey y asno: el deseo se mide por objetos y relaciones. La exposición de Eric sobre una nación santa queda, por tanto, bajo prueba textual: si la vocación no protege al prójimo, no ha leído Shemot 20.
+
+El cierre del monte une temor y culto. OE 20:20 distingue **אל תיראו** y **תהיה יראתו על פניכם לבלתי תחטאו**. TTH: «No teman… para que sea su temor… para que no pequen». El pánico que aleja no es el fin; el temor que permanece delante del rostro sí lo es. Luego 20:22-25 prohíbe dioses de plata y oro «conmigo» y manda un altar de tierra o de piedras no labradas. **(גזית)**, _gazit_, designa piedra labrada o escuadrada; la herramienta sobre la piedra profana el altar. Eric relaciona correctamente voz celestial e imagen fabricada: quien ha oído desde los cielos no necesita un dios controlable de metal. La equivalencia «culto sin materia» sería **inexacta**; el capítulo regula materia, Nombre y sacrificio.
 
 ## Conclusión
 
