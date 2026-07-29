@@ -13,21 +13,39 @@ tags:
   - mesias
 references:
   - "#markos_3_1"
+  - "#markos_3_2"
+  - "#markos_3_3"
   - "#markos_3_4"
   - "#markos_3_5"
   - "#markos_3_6"
+  - "#markos_3_7"
+  - "#markos_3_8"
+  - "#markos_3_9"
   - "#markos_3_10"
   - "#markos_3_11"
+  - "#markos_3_12"
   - "#markos_3_13"
   - "#markos_3_14"
   - "#markos_3_15"
+  - "#markos_3_16"
+  - "#markos_3_17"
+  - "#markos_3_18"
+  - "#markos_3_19"
+  - "#markos_3_20"
   - "#markos_3_21"
   - "#markos_3_22"
+  - "#markos_3_23"
   - "#markos_3_24"
   - "#markos_3_25"
+  - "#markos_3_26"
   - "#markos_3_27"
+  - "#markos_3_28"
   - "#markos_3_29"
   - "#markos_3_30"
+  - "#markos_3_31"
+  - "#markos_3_32"
+  - "#markos_3_33"
+  - "#markos_3_34"
   - "#markos_3_35"
   - "#devarim_30_19"
   - "#nejemiah_9_33"
@@ -217,8 +235,8 @@ La siguiente unidad amplía el alcance sin cambiar la fuente de la autoridad. La
 <!-- prettier-ignore -->
 El conflicto de la casa interpreta esas liberaciones. **(παραβολαῖς)**, _parabolais_, «comparaciones», introduce la respuesta de Yehoshua a los escribas, pero las tres imágenes —reino, casa y hombre fuerte— avanzan juntas (#markos_3_23-27). **(ἐρημοῦται)**, _erēmoutai_, «queda desolado», describe el destino de un reino dividido; **(δήσῃ)**, _dēsē_, «ate», explica la condición previa para saquear la casa del fuerte. El texto permite afirmar confrontación y derrota del dominio, pero no autoriza a convertir la metáfora en un manual de guerra espiritual ni a atribuir todo mal social a un único agente invisible.
 
+<!-- prettier-ignore -->
 La explicación de la injuria está pegada a la acción interpretada: «porque ellos decían: tiene un espíritu impuro» (#markos_3_30). **(βλασφημήσῃ)**, _blasphēmēsē_, «injurie o hable ofensivamente», aparece en la advertencia de 3:29; su alcance narrativo se fija por la acusación concreta de 3:22 y 3:30. El pasaje no llama imperdonable a una duda pasajera ni a la angustia de quien busca volver a Elohim. Finalmente, **(ποιεῖ)**, _poiei_, «hace», en 3:35 traduce la voluntad en práctica visible: la familia reunida alrededor de Yehoshua no se define por una declaración verbal, sino por hacer la voluntad de Elohim. La progresión completa va de discernir el bien a obedecerlo.
-
 
 ## Prueba de lectura: una sola autoridad, tres respuestas
 
@@ -250,7 +268,13 @@ La autoridad que restaura también delimita quién puede hablar. Los espíritus 
 
 La casa dividida y la familia del cierre completan la prueba. **διαμερισθῇ**, _diameristhē_, «sea dividida», describe una casa que no puede permanecer, mientras **δήσῃ**, _dēsē_, «ate», señala la condición previa para saquear la casa del fuerte. En 3:35, **ποιεῖ**, _poiei_, «hace», convierte la voluntad de Elohim en práctica visible. Así, “escoger la vida”, “estar con Yehoshua” y pertenecer a su familia forman una secuencia coherente: el texto describe restauración, autoridad derivada y obediencia, no una licencia para dominar personas ni para llamar impuro a todo desacuerdo.
 
-## Conclusión
+## Control de la secuencia: vida restaurada, autoridad recibida y casa obediente
+
+Marcos 3 no permite convertir «escoger la vida» en un lema separado de las escenas que lo explican. En 3:1-6, **(ἔξεστιν)**, _exestin_, «es lícito o está permitido», abre una pregunta situada en Shabbat; **(ἀγαθοποιῆσαι)**, _agathopoiēsai_, «hacer el bien», y **(σῶσαι)**, _sōsai_, «salvar», reciben su contenido en la mano que Yehoshua restaura. Eric lee este contraste junto con **(ובחרת בחיים)**, _uvajarta bajayim_, «escogerás la vida», de Devarim 30:19. La conexión es temática y atribuible: Marcos prueba la elección mediante una acción de misericordia, pero no presenta la frase hebrea como cita formal.
+
+La autoridad se desplaza después de la sinagoga a la multitud y a los Doce. Los espíritus impuros **(ἔκραζον)**, _ekrazon_, «clamaban», pero Yehoshua **(ἐπετίμα)**, _epetima_, «reprendía o amonestaba», y no les permitía manifestarlo. Luego **(ἐποίησεν δώδεκα)**, _epoiēsen dōdeka_, «estableció a doce», para que estuvieran con él y fueran enviados. La observación de Eric sobre presencia antes del servicio queda apoyada por la sintaxis: la autoridad de los enviados es recibida del Mesías y no nace de una proclamación autónoma.
+
+Por último, la casa dividida y la familia reunida deben leerse juntas sin confundirse. **(διαμερισθῇ)**, _diameristhē_, «sea dividida», describe una casa que no puede permanecer; **(δήσῃ)**, _dēsē_, «ate», describe la condición para saquear la casa del fuerte; y **(ποιεῖ)**, _poiei_, «hace», en 3:35 define a la familia por la práctica de la voluntad de Elohim. Eric conserva esta unidad como una casa que escoge la vida y permanece alrededor de Yehoshua. El texto la sostiene cuando se mantiene el orden: restauración, autoridad derivada y obediencia visible.
 
 ## Control final: la compasión no es indecisión y la autoridad no es aislamiento
 
@@ -265,7 +289,7 @@ La casa que Yehoshua forma no puede edificarse sobre acusación, engaño ni pare
 ## Ver también
 
 - [[markos_2_torah_promesas_procedimientos|Marcos 2: perdón, nuevo pacto y Torah que permanece]]
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
+- [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/shabat|Shabat]]
 - [[../temas/ruaj_tumah_posesion_y_liberacion|Ruaj tumah, posesión y liberación]]
 - [[markos_palabra_trono_semilla_identidad|Marcos: palabra entronizada, semilla e identidad]]
