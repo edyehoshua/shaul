@@ -37,6 +37,7 @@ sources:
   - "https://www.youtube.com/watch?v=c_Ww_KfQuwI"
   - "https://www.youtube.com/watch?v=OYK01CPrwKk"
   - "https://www.youtube.com/watch?v=YKQCpmNS3KM"
+  - "https://www.youtube.com/watch?v=wR0WA_TLcCc"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/oe/json/jeremiah/31.json"
@@ -51,6 +52,7 @@ source_ids:
   - "youtube:c_Ww_KfQuwI"
   - "youtube:OYK01CPrwKk"
   - "youtube:YKQCpmNS3KM"
+  - "youtube:wR0WA_TLcCc"
 ---
 
 # Tesis
@@ -252,6 +254,20 @@ El argumento completo conserva así tres límites: el llamado produce seguimient
 | Marcos 2:18-22 | La presencia del novio y los odres advierten contra encerrar la renovación del Mesías en estructuras humanas. | **(νυμφίος)**, **(καινὸς)** y **(ἀσκοί)** sostienen la escena; la aplicación a formas eclesiales queda como analogía. |
 | Marcos 2:23-28 | El caso de David enseña a discernir el Shabbat sin convertir la Torah en una carga contra la vida. | **(ἔξεστιν)**, **(κύριός)** y **(ἐγένετο)** se prueban contra el precedente narrado; no se concluye abolición. |
 
+## Verificación dirigida: nombres, función y confesión mesiánica (2:1-28)
+
+La parte 10 retoma Marcos 2 para explicar por qué «Hijo del Hombre» no debe reducirse a «un humano». Eric distingue tres voces hebreas que la clase emplea al recorrer la Escritura: **(אֵל)**, _El_, «Dios», presentado como nombre o componente nominativo en nombres como Yisrael e Yishmael; **(אֱלוֹהַּ)**, _Eloah_, «Dios» como ser divino en sentido genérico, con concentración poética en Iyov y en cánticos; y **(אֱלֹהִים)**, _Elohim_, «Dios» en su dimensión funcional y, según el contexto, quienes reciben un encargo o representan su autoridad. Las equivalencias son pedagógicas y no una regla para traducir cada ocurrencia: **אֵל** también puede funcionar como sustantivo común, **אֱלוֹהַּ** no está limitado a poesía en todos los corpus, y **אֱלֹהִים** exige número, sintaxis y contexto.
+
+El primer movimiento de la exposición va de #markos_2_1-12 a #yojanan_10_34-36 y #tehilim_82_1-7. Eric conserva la observación de que Yehoshua usa el salmo para responder a la acusación de blasfemia: si la Escritura llama **אֱלֹהִים**, _Elohim_, a aquellos a quienes llegó la palabra de Dios, la forma no prueba que todos sean divinos por naturaleza. El texto de Yojanán sí contiene ese argumento; no obstante, la afirmación de Eric de que **Elohim** designa siempre un cargo de juez, sacerdote o profeta es más amplia que los pasajes locales. La nota conserva la función de representación como una lectura contextual, no como definición exhaustiva.
+
+En el segundo movimiento, Eric contrasta **אֵל עֶלְיוֹן**, _El Elyon_, «Dios Altísimo», en #bereshit_14_18-22; **אֵל רֳאִי**, _El Roí_, «Dios que ve» o «Dios de la aparición», en #bereshit_16_13; **אֵל שַׁדַּי**, _El Shaddai_, nombre divino en #bereshit_17_1; y **אֵל עוֹלָם**, _El Olam_, «Dios eterno», en #bereshit_21_33. La observación de que los nombres propios no deben disolverse automáticamente en una traducción descriptiva es útil para leer la enseñanza, pero las vocalizaciones y los matices deben cotejarse con el texto hebreo local. En #shemot_20_1-2, la forma **אֱלֹהִים**, _Elohim_, introduce al hablante de los mandamientos; la clase la relaciona con la mediación angelical mencionada en #maasav_7_53 y #galatim_3_19. Esa conexión canónica existe, pero no autoriza a afirmar que cada uso de Elohim nombra a un ángel.
+
+La discusión de #iyov_1_6-12 y 2:1-7 es el punto más polémico. Eric sostiene que **בְּנֵי הָאֱלֹהִים**, _bene haElohim_, «hijos de Dios» o «seres de la esfera divina», y Satanás aparecen en el marco de un desafío relacionado con la tierra y la casa de Iyov, no como una entrada literal del acusador al cielo. La forma hebrea **וַיָּבֹאוּ**, _vayavo'u_, «entraron o vinieron», permite discutir el movimiento narrado, pero por sí sola no fija el escenario metafísico; la respuesta de Satanás en 2:2 menciona recorrer la tierra, y el relato debe leerse completo. La comparación de Eric con **יִתְיַצְּבוּ**, _yityatzevu_, «se alzaron o se apostaron», en #tehilim_2_2 conserva una observación verbal concreta, aunque la semejanza no demuestra identidad de escena. Tampoco se debe convertir la afirmación de que Satanás era el líder «en medio» de ese grupo en un dato que Job explicite sin ambigüedad.
+
+El tercer movimiento vuelve a la confesión apostólica. En #romanim_10_9, la forma griega **ἐὰν ὁμολογήσῃς**, _ean homologēsēs_, «si confiesas», introduce una confesión pública; **κύριον Ἰησοῦν**, _kyrion Iēsoun_, «Señor Jesús», y **πιστεύσῃς**, _pisteusēs_, «si crees», vinculan boca y corazón. Eric propone leer la frase hebraicamente como una confesión unida de Adonay y Yehoshua, y la conecta con #filipiyim_2_10-11, donde toda lengua confiesa que Yehoshua es Señor. El griego de Romanos sí usa el acusativo **κύριον** y el nombre **Ἰησοῦν**, no un vocativo indivisible; por eso la lectura de Eric se preserva como argumento teológico sobre identidad y encarnación, no como una traducción literal obligatoria de la sintaxis griega.
+
+Finalmente, #romanim_10_9 y #maasav_2_24 deben mantenerse juntos sin borrar la diferencia verbal. **ἤγειρεν**, _ēgeiren_, «levantó», en la confesión de la resurrección presenta a Elohim como sujeto; la clase lo relaciona con #yojanan_10_17-18, donde Yehoshua dice que tiene autoridad para entregar y volver a tomar su vida. La conclusión de Eric —que la resurrección no debe imaginarse como un poder separado de la identidad divina del Mesías— es una síntesis doctrinal atribuible. El texto local apoya la combinación de resurrección, autoridad y vida entregada, pero no permite eliminar todas las distinciones entre sujeto gramatical, Padre, Hijo y lenguaje de envío.
+
 ## Conclusión
 
 El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam demuestra en la tierra que posee autoridad para perdonar: habla, levanta y devuelve al hombre al camino. Irmeiahu explica la profundidad de esa restauración: יהוה pone su Torah en el interior y vuelve a llamar pueblo a quienes eran incapaces de restaurarse por sí mismos.
@@ -265,6 +281,7 @@ La palabra que יהוה sostiene y la obediencia que pide no compiten. Su promes
 - Video: [Evangelio según Marco — Parte 5: Introducción a Abá](https://www.youtube.com/watch?v=c_Ww_KfQuwI) (`source_id`: `youtube:c_Ww_KfQuwI`).
 - Video: [Evangelio según Marco — Parte 6: continuación, Torah, yud y qotz](https://www.youtube.com/watch?v=OYK01CPrwKk) (`source_id`: `youtube:OYK01CPrwKk`).
 - Video: [Evangelio según Marco — Parte 7: Abá, la mente de Mashiaj](https://www.youtube.com/watch?v=YKQCpmNS3KM) (`source_id`: `youtube:YKQCpmNS3KM`).
+- Video: [El evangelio según Marcos — Parte 10: El, Eloah y Elohim](https://www.youtube.com/watch?v=wR0WA_TLcCc) (`source_id`: `youtube:wR0WA_TLcCc`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
