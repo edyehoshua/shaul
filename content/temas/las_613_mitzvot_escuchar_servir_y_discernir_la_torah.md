@@ -127,7 +127,7 @@ sources:
   - "https://www.youtube.com/watch?v=8qyiOhRgdTU"
   - "https://www.youtube.com/watch?v=7S2dL7XAvkI"
   - "https://www.youtube.com/watch?v=Qr5k6gJspSk"
-  - "https://www.youtube.com/watch?v=0KIf2pmoseI"
+
   - "https://www.youtube.com/watch?v=BOeYBxe-7O8"
   - "https://www.youtube.com/watch?v=Q0m91bFi99I"
   - "https://www.youtube.com/watch?v=qqicR0QF9xk"
@@ -281,7 +281,7 @@ source_ids:
   - "youtube:8qyiOhRgdTU"
   - "youtube:7S2dL7XAvkI"
   - "youtube:Qr5k6gJspSk"
-  - "youtube:0KIf2pmoseI"
+
   - "youtube:BOeYBxe-7O8"
   - "youtube:Q0m91bFi99I"
   - "youtube:qqicR0QF9xk"
@@ -402,6 +402,12 @@ La sesión final vuelve a Devarim 17 y a las restricciones para el rey. El texto
 
 El valor de esta serie está en hacer visible la amplitud de la Torah y en invitar a volver a sus pasajes. El número tradicional puede ordenar una ruta de estudio, pero no reemplaza la voz concreta de la Escritura. Escuchar a יהוה, amarle y tratar responsablemente al prójimo son el marco desde el cual el catálogo debe ser examinado.
 
+## Mapa de la enseñanza de Eric
+
+- **Introducción y mandamientos de escucha:** Eric presenta el cómputo como una ruta para volver a la Torah, no como sustituto de sus perícopas. La nota conserva esa propuesta y la evalúa contra Shemot 20 y Devarim 6; la aplicación del número a cada caso queda cualificada.
+- **Fiestas, conteo y primicias:** Eric relaciona las sesiones sobre calendario, Omer y convocaciones con memoria, servicio y fruto. Las perícopas locales sostienen el orden festivo, mientras las afirmaciones históricas sobre calendarios y prácticas posteriores permanecen pendientes de verificación.
+- **Servicio, santidad y responsabilidad:** Eric insiste en que escuchar debe producir servicio discernido y cuidado del prójimo. La nota contrasta esa enseñanza con los textos citados y la trata como aplicación pastoral cuando excede el destinatario o procedimiento de una mitzvá concreta.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
@@ -507,7 +513,7 @@ El valor de esta serie está en hacer visible la amplitud de la Torah y en invit
 - [Las "613" mitzvot 173-179 Acerca de la pureza, la santidad y la vida diaria](https://www.youtube.com/watch?v=8qyiOhRgdTU) (source_id: `youtube:8qyiOhRgdTU`).
 - [Las "613" mitzvot: #265-268 acerca de la contemplación el atractivo y el capricho](https://www.youtube.com/watch?v=7S2dL7XAvkI) (source_id: `youtube:7S2dL7XAvkI`).
 - [Las "613" mitzvot: 165-170 "La conciencia de un Kohén en Mashíaj"](https://www.youtube.com/watch?v=Qr5k6gJspSk) (source_id: `youtube:Qr5k6gJspSk`).
-- [Las 613 mitzvot /Segunda sección: Lo' Ta'aséh #1-4](https://www.youtube.com/watch?v=0KIf2pmoseI) (source_id: `youtube:0KIf2pmoseI`).
+
 - [Las 613 Mitzvot #108-112 Respeta lo que es Qódesh](https://www.youtube.com/watch?v=BOeYBxe-7O8) (source_id: `youtube:BOeYBxe-7O8`).
 - [Las 613 Mitzvot #126-129 acerca del tamé'](https://www.youtube.com/watch?v=Q0m91bFi99I) (source_id: `youtube:Q0m91bFi99I`).
 - [Las 613 Mitzvot #130](https://www.youtube.com/watch?v=qqicR0QF9xk) (source_id: `youtube:qqicR0QF9xk`).

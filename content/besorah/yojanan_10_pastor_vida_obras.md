@@ -82,7 +82,7 @@ source_ids:
   - "youtube:FV3WHeOQbzg"
   - "youtube:csFssLdcLsE"
   - "youtube:LCt5Wt86POA"
-  - "youtube:2oGHEpfFPlM"
+
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -189,5 +189,5 @@ Yojanán 10 no separa identidad, obras y cuidado pastoral. La puerta excluye el 
 - Video: <https://www.youtube.com/watch?v=FV3WHeOQbzg> — source_id: `youtube:FV3WHeOQbzg`.
 - Video: <https://www.youtube.com/watch?v=csFssLdcLsE> — source_id: `youtube:csFssLdcLsE`.
 - Video: <https://www.youtube.com/watch?v=LCt5Wt86POA> — source_id: `youtube:LCt5Wt86POA`.
-- Video: <https://www.youtube.com/watch?v=2oGHEpfFPlM> — source_id: `youtube:2oGHEpfFPlM`.
+
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
