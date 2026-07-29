@@ -131,6 +131,14 @@ La menorah recibe una descripción distinta: no se coloca pan, sino luz producid
 
 Así, mesa y menorah no compiten con el arca: alimento colocado delante de יהוה, luz ordenada y testimonio guardado convergen en una presencia que habla. **(פנים)**, _panim_, puede traducirse «rostro» exactamente en sentido normal, mientras «presencia» es contextual; **(תמיד)**, _tamid_, conserva la continuidad del servicio, mientras «eternamente» sería una ampliación. La lectura de Eric sobre una comunidad ordenada para habitar delante de יהוה recibe apoyo cuando se mantiene esta secuencia textual: el corazón voluntario de 25:2 no elimina la forma, y la forma no sustituye al corazón.
 
+## La ofrenda voluntaria no sustituye la obediencia del modelo
+
+La observación de Eric sobre elevar lo recibido debe probarse en el límite que abre y cierra el capítulo. Israel da de lo que tiene «según lo que su corazón mueve» (#shemot_25_2), pero Mosheh no decide el santuario por preferencia personal. El texto dice **ככל אשר אני מראה אותך** y **וכן תעשו** (#shemot_25_9): «conforme a todo lo que Yo te muestro» y «así harán». **(ראה)**, _raah_, significa ver o mirar; aquí su fuerza contextual es recibir un patrón mostrado. **(עשה)**, _asah_, significa hacer o realizar; en la respuesta de la comunidad nombra ejecución conforme al encargo. «Creatividad consagrada» es una equivalencia **pedagógica**, no una traducción de estos verbos.
+
+El cierre repite el control: **וראה ועשה בתבניתם אשר אתה מראה בהר** (#shemot_25_40). **(תבנית)**, _tavnit_, significa modelo, patrón o representación; «diseño» es una equivalencia **aproximada** adecuada al contexto. Eric acierta al vincular presencia y orden, pero la afirmación exacta es más estrecha: יהוה muestra el modelo y Mosheh debe hacerlo. La voluntariedad de la terumah no convierte el santuario en un proyecto definido por quien aporta más, ni la precisión del modelo convierte el corazón del dador en irrelevante.
+
+La frase de 25:22 muestra el propósito de esa obediencia: **ונועדתי לך שם ודברתי אתך**, «me reuniré contigo allí y hablaré contigo». **(ועד)**, _yaad_, significa señalar o concertar un encuentro; en **ונועדתי**, _veno'adeti_, su fuerza contextual es la cita prometida por יהוה. «Presencia sentida» sería una paráfrasis **pedagógica** demasiado débil: el texto afirma encuentro y palabra dirigida. Así, la lectura de Eric queda conservada en su centro —lo recibido se ordena para una morada—, pero la morada no es producida mecánicamente por los materiales; יהוה es quien promete reunirse y hablar.
+
 ## Conexiones principales
 
 - [Shemot 20: Palabra, libertad, temor y adoración](./shemot_20_palabra_libertad_temor_y_adoracion.md)
