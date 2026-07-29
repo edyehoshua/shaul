@@ -146,7 +146,6 @@ Así se conserva el argumento de la clase y se delimita su alcance. La aplicaci�
 ## Conclusión
 
 Bamidbar 8 llama a atender el texto en su propio marco. La sesión aporta una vía temática para su estudio; esta nota mantiene esa vía bajo la autoridad del pasaje y deja las inferencias amplias abiertas a verificación. El recorrido es deliberadamente acumulativo: las lámparas reciben una orientación concreta (vv. 1-4), los levitas atraviesan una preparación visible (vv. 5-13), la sustitución queda explicada por la memoria de los primogénitos (vv. 14-19) y el servicio termina siendo limitado por edad y tarea (vv. 20-26). Así, la aplicación de Eric al liderazgo puede conservarse como analogía pedagógica, pero la afirmación exacta del capítulo es más estrecha: יהוה ordena un servicio levítico recibido, comunitariamente reconocido y sujeto a relevo.
-
 ## Una misma ordenanza une luz, pertenencia y relevo
 
 La transición del capítulo no autoriza a tratar la Menoráh y los leviím como dos símbolos independientes. En 8:2 Aharón recibe la orden de hacer subir las lámparas hacia la faz de la Menoráh; en 8:20 Israel, Aharón y sus hijos hacen con los leviím «conforme a todo lo que mandó יהוה». El OE conserva el verbo **(עשה)**, _asah_, «hacer, realizar o ejecutar», en la respuesta de Israel. Su fuerza contextual es obedecer una configuración recibida; «crear una experiencia espiritual» sería una equivalencia pedagógica, no exacta.

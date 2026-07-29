@@ -11,8 +11,10 @@ tags:
 references:
   - "#vaikra_16_1-2"
   - "#vaikra_16_6-10"
+  - "#vaikra_16_11-13"
   - "#vaikra_16_14-17"
   - "#vaikra_16_20-22"
+  - "#vaikra_16_23-28"
   - "#vaikra_16_29-34"
   - "#vaikra_17_7-14"
   - "#salmos_51_12"
@@ -316,7 +318,9 @@ Eric afirma que la reconciliación no debe usarse como permiso para continuar en
 
 Por eso «una sin la otra no tiene sentido» puede conservarse como resumen de la clase con una precisión final. La sangre trata la Santidad, la Tienda y el altar; la confesión y el macho cabrío vivo representan la salida de las iniquidades; la humillación y el reposo hacen participar a toda la asamblea. **(אחד)**, _ejad_, significa uno o único; no es necesario introducirlo como prueba de que los dos animales sean idénticos. La unidad del día y de la reconciliación es **exacta** como descripción narrativa; la afirmación de que ambos animales son dos partes de una sola obra mesiánica es **teológica y aproximada**, dependiente de la lectura canónica posterior.
 
-## La confesión delimita la aplicación ética
+## El incensario y la nube protegen el acceso — vv. 11-13
+
+La exposición de Eric sobre un acceso santo que no puede improvisarse también debe pasar por los vv. 11-13, antes de que la sangre sea rociada. Aharón lleva el becerro por su propio pecado, toma el incensario lleno de brasas del altar y dos puñados de incienso aromático, y lo introduce detrás de la cortina; la nube del incienso cubre la cubierta para que no muera. El hebreo **(מחתה)**, _machtah_, significa recipiente o pala para brasas; su fuerza contextual es el utensilio cultual, no una «llave espiritual». **(קטרת)**, _qetoret_, significa incienso o mezcla aromática; aquí nombra el material que produce la nube dentro del rito, mientras «oración» sería una aplicación simbólica y pedagógica, no una equivalencia exacta. **(ענן)**, _anan_, significa nube; en este contexto describe la cobertura que protege el espacio de la manifestación de יהוה. La observación de Eric queda apoyada en la secuencia concreta: sacerdote, utensilio, incienso, nube y cortina. La conexión posterior con la intercesión del Mesías es canónica y aproximada; Vaikra 16 primero regula el modo de entrar.
 
 Las exposiciones que Eric reúne bajo los source IDs `youtube:8Btk2jATjfk`, `youtube:Y97CMPXJ4cA` y `youtube:stsUp5v3SXE` enfatizan que la reconciliación no debe convertirse en permiso para continuar en el pecado. La observación conserva una dirección ética reconocible, pero Vaikra 16 la expresa mediante el rito: Aharón confiesa **את כל עונתם** —«todas sus iniquidades»— sobre el macho cabrío vivo (#vaikra_16_21), y la asamblea aflige sus _nefesh_ y cesa de trabajar (#vaikra_16_29-31). El texto no formula todavía una teoría completa de perseverancia; por eso «vida reconciliada» es una **inferencia teológica**, mientras «confesar», «enviar», «afligir» y «no trabajar» son acciones **textualmente exactas** del capítulo.
 
