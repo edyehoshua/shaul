@@ -207,6 +207,12 @@ En 3:13, **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, resca
 
 Esta sintaxis evalúa con justicia el foco público de Eric. Es **textual** que Galatim vincula permanencia, maldición, redención y propósito para las naciones; es **aproximado** trasladar el campo hebreo de **קללה**, _qelalah_, al griego **(κατάρα)**, _katara_; y es **inferencial** usar una sola glosa para resolver toda la ontología del Mesías o toda la doctrina de la Torah. La nota conserva así la observación anunciada por el título, pero deja que los conectores del pasaje gobiernen su alcance.
 
+## Reparación: el mediador y la promesa no compiten
+
+El título público de `youtube:1owk-zoap1E` permite atribuir a Eric únicamente el foco «El Mediador y la Ley»; no permite reconstruir una frase de la sesión sin transcript local. Galatim 3:19-25 sí ofrece el orden que debe gobernar la evaluación: la Torah fue añadida por causa de las transgresiones, se entregó mediante un mediador y funcionó como custodia hasta el Mesías. **(προστίθημι)**, _prostithēmi_, significa añadir, poner además o incorporar; en 3:19 su fuerza contextual marca una función posterior respecto de la promesa, no una declaración de que la Torah sea mala. «Fue añadida» es **directo**; convertirlo en desprecio de la instrucción sería **ilegítimo**.
+
+La afirmación de 3:20 sobre el mediador debe permanecer dentro de su sintaxis. **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; su fuerza contextual identifica una figura en la entrega de la Torah, pero el sustantivo aislado no decide todas las partes implicadas ni toda la teología de la mediación. **(εἷς)**, _heis_, significa uno o único; en la pregunta y respuesta del versículo participa en el contraste entre mediación y la unidad de Elohim. «Uno» es **directo**, mientras derivar del número una teoría completa de la naturaleza divina sería **inferencial**. La nota conserva el alcance público de Eric y deja que 3:21-25 mantenga juntos promesa, Torah y orientación hacia el Mesías.
+
 ## Ver también
 
 - [[galatim_2_gracia_unidad_y_verdad_del_evangelio|Galatim 2: gracia, unidad y verdad del evangelio]]
