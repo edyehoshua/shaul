@@ -93,6 +93,14 @@ El capítulo no permite detenerse en Abraham. «No fue escrito solamente por cau
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]] prepara el problema de la jactancia identitaria que Romanos 4 desarrolla con Abraham.
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]] prolonga la relación entre justificación, vida y Yehoshua.
 
+## Reparación: señal, promesa y caminar en las huellas
+
+Las partes 8–10 atribuidas a Eric pueden resumirse con una progresión que el capítulo confirma: la justicia no se presenta como salario, la señal de la circuncisión aparece después de que la emunah fue contada, y la esperanza mira al Elohim que cumple lo prometido y levanta a Yehoshua. Esta formulación recibe **apoyo textual directo** en #romanos_4_4-5, #romanos_4_10-12 y #romanos_4_23-25. La conclusión pastoral de que la obediencia nunca puede convertirse en la puerta de entrada a la promesa es **cualificada**: Pablo niega la deuda como base de la justificación, pero también habla de caminar en las huellas de la emunah.
+
+En #romanos_4_11, **(σημεῖον)**, _sēmeion_, significa señal, signo o indicio; su fuerza contextual es visible y pactual, porque la circuncisión señala una justicia ya contada. «Señal» es una glosa **directa**, mientras decir que la señal es inútil sería **ilegítimo**: el texto también la llama **(σφραγίς)**, _sphragis_, sello o marca de confirmación. El sello confirma; no convierte una deuda en gracia ni produce retrospectivamente la justicia. **(ἴχνος)**, _ichnos_, significa huella, rastro o marca de un paso; no es la forma que gobierna #romanos_4_12, donde Pablo habla de andar en las huellas, por lo que se usa solo como término **pedagógico y aproximado** para explicar la imagen.
+
+La promesa mantiene su firmeza porque depende del prometedor. **(βεβαιόω)**, _bebaioō_, significa confirmar, hacer firme o asegurar; en #romanos_4_16 la finalidad es que la promesa quede firme para toda la descendencia. «Firme» es **directo en el campo semántico**, pero no autoriza a borrar la respuesta descrita en el capítulo. **(ἐγείρω)**, _egeirō_, significa levantar o resucitar; en #romanos_4_24-25 su fuerza contextual vincula la confianza de los lectores con el Elohim que levantó a Yehoshua. La referencia a la resurrección no es una metáfora de motivación: es el cierre argumental que Pablo aplica a quienes confían.
+
 ## Mapa de la enseñanza de Eric
 
 - **youtube:T5Gz07-mSLw — justicia desde la fidelidad:** Eric lee Romanos 1:17 y 3:21-22 como una justicia que procede de Elohim y se revela en Yehoshua; la nota conserva esa tesis, pero distingue la propuesta de traducción «por/de mi fidelidad» de lo que la sintaxis griega y la cita de Habacuc permiten afirmar con seguridad. **Evaluación: lectura atribuible, con calificación lingüística.**
