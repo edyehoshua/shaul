@@ -22,9 +22,11 @@ references:
   - "#romanos_10_20"
   - "#romanos_10_21"
 sources:
+  - "https://www.youtube.com/watch?v=zLynBpmjJr0"
   - "https://www.youtube.com/watch?v=ililQLS9UJE"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
+  - "youtube:zLynBpmjJr0"
   - "youtube:ililQLS9UJE"
 translation: "[Delitzsch]"
 ---
@@ -172,6 +174,18 @@ La exposición de Eric sobre la palabra que produce fidelidad recibe apoyo cuand
 
 Por tanto, Romanos 10 conserva juntos el envío soberanamente ordenado, la proclamación pública, la escucha convocada y la respuesta responsable. La iniciativa divina no convierte al mensajero en dueño del mensaje ni al oyente en un objeto sin responsabilidad; la resistencia de #romanos_10_16 y #romanos_10_21 tampoco cancela que el Señor sea rico para todos los que lo invocan (#romanos_10_12). Esta evaluación apoya el énfasis atribuible de Eric en la palabra de Elohim, pero califica cualquier formulación que haga innecesarios el anuncio, la obediencia o el discernimiento de la comunidad.
 
+## Estudio desarrollado: «el fin de la Torah» como foco anunciado
+
+La fuente pública `youtube:zLynBpmjJr0` lleva el título «¿El fin de la ley es Cristo?». Ese título permite atribuir al hermano Eric de Jesús Rodríguez Mendoza el foco visible en Romanos 10:4, pero no autoriza a reconstruir una frase, una explicación completa ni una cita literal que no esté documentada aquí. La evaluación debe seguir la perícopa en orden: celo sin conocimiento, justicia propia, el Mesías como **τέλος** de la Torah, la cita de Mosheh y la palabra cercana (#romanos_10_1-8).
+
+En #romanos_10_2-3, **(ζῆλος)**, _zēlos_, significa celo, ardor o empeño; su fuerza contextual reconoce intensidad dirigida a Elohim, pero la califica como no conforme al conocimiento. **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud; aquí contrasta la justicia de Elohim con la que algunos procuran establecer por sí mismos. Ambas glosas son **directas** en su campo ordinario; afirmar que todo celo o toda práctica de Torah es rechazado sería **ilegítimo**, porque Pablo critica la dirección del celo y la justicia propia, no borra la historia de Israel ni la Torah del argumento.
+
+En #romanos_10_4, **(τέλος)**, _telos_, significa fin, resultado, culminación o meta; su fuerza contextual debe leerse junto con los versículos 5-8, donde Pablo todavía cita a Mosheh y aplica el lenguaje de Devarim a la justicia de la emunah. «Fin» es una traducción **aproximada y pedagógica**: puede expresar terminación, resultado o meta, pero la forma aislada no decide entre esas posibilidades. Es **textual** que el Mesías está relacionado con la justicia «para todo el que cree»; es **inferencial** convertir el título del video o una sola glosa de _telos_ en la afirmación de que el versículo cancela toda Torah.
+
+La relación con **(πληρόω)**, _plēroō_, «llenar, completar o llevar a plenitud», es una conexión **canónica y pedagógica**, no una sustitución del verbo que aparece en el versículo local. Del mismo modo, **תּוֹרָה**, _torah_, significa instrucción, enseñanza o Torah; en la traducción hebrea de Romanos 10 participa en el argumento sobre la justicia y no puede reducirse automáticamente a «legalismo». La observación anunciada por Eric recibe **apoyo cualificado** cuando resiste el eslogan «Mesías contra toda Torah»; necesita cautela si se usa para imponer una única definición de _telos_ sin considerar la sintaxis y el desarrollo de Romanos.
+
+Los versículos 5-8 equilibran la lectura. **(ποιέω)**, _poieō_, significa hacer, practicar o producir; en la cita de Mosheh describe la justicia asociada con hacer lo escrito. **(ἐγγύς)**, _engys_, significa cerca, próximo o accesible; en 10:8 califica la palabra de la emunah que está en la boca y el corazón. Las glosas son **directas** en el campo normal, mientras concluir que «hacer» y «creer» son dos caminos desligados o que la cercanía elimina la respuesta humana sería **ilegítimo** frente al movimiento inmediato de la carta. La exposición debe conservar, por tanto, la meta mesiánica anunciada por el título público y dejar que Romanos 10:5-8 califique sus extensiones.
+
 ## Romanos 10:4-8: meta, descenso y palabra cercana
 
 La expresión «el Mesías es el fin de la Torah» (#romanos_10_4) debe permanecer dentro de la secuencia que Pablo desarrolla. **(τέλος)**, _telos_, significa fin, resultado, cumplimiento o meta; su fuerza contextual puede señalar el punto hacia el que la Torah conduce la cuestión de la justicia, aunque la forma por sí sola no decide entre terminación y culminación. La lectura de Eric que resiste usar el versículo como consigna contra la Torah recibe **apoyo cualificado**: el contexto inmediato sigue citando a Moshe y habla de la palabra de la emunah, pero una definición exhaustiva de _telos_ requiere el argumento completo de Romanos.
@@ -274,5 +288,6 @@ El cierre de la perícopa impide convertir la elección en fatalismo. **(ἀπε
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- [La carta a los romanos (parte 24) ¿El fin de la ley es Cristo?](https://www.youtube.com/watch?v=zLynBpmjJr0) (`source_id`: `youtube:zLynBpmjJr0`). El título público delimita el foco en Romanos 10:4; no se reconstruye una cita literal sin evidencia local.
 - [La carta a los romanos (parte 25) La fidelidad es por la palabra de Dios](https://www.youtube.com/watch?v=ililQLS9UJE) (`source_id`: `youtube:ililQLS9UJE`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
