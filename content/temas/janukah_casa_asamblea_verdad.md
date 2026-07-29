@@ -75,6 +75,18 @@ Eric acierta al tratar la dedicación como llamado a renovar el servicio y a for
 
 La síntesis es **textual** en Juan 10:22, Salmo 30 y 2 Timoteo 3:14-17; **cualificada** al conectar el templo histórico con una comunidad actual; y **pedagógica** cuando la enseñanza de Eric usa Janukáh para exhortar a perseverar en el aprendizaje y la obediencia. La fiesta no se presenta como mecanismo de salvación, sino como ocasión para recordar, escuchar y volver a poner el servicio bajo la verdad.
 
+## Una casa dedicada no reemplaza la comunidad formada
+
+La observación de Eric sobre el templo como lugar de consulta y formación puede sostenerse solo si se mantiene el movimiento textual. Juan 10:22-30 comienza con la fiesta y termina con la identidad del Pastor; el Salmo 30 convierte la dedicación en acción de gracias por una restauración recibida; 2 Timoteo 3:14-17 describe el aprendizaje perseverante que equipa para la buena obra; 1 Timoteo 3:15 nombra a la comunidad como casa de Elohim. Ninguna de estas perícopas permite que un recinto, una ceremonia o un maestro quede fuera del examen de la verdad.
+
+En Juan 10:28, **(ἁρπάζω)**, _harpazō_, significa arrebatar, apoderarse o quitar por la fuerza; su fuerza contextual aparece en la negación de que alguien pueda arrebatar las ovejas de la mano del Pastor. «Arrebatar» es **directo**, pero extender esa promesa a una organización visible sin la previa descripción de las ovejas que oyen y siguen sería **inferencial**. En Juan 10:30, **(ἕν)**, _hen_, significa uno o una unidad; aquí es una forma neutra cuyo contexto habla de unidad, no de borrar toda distinción entre el Padre y el Hijo. «Uno» es **directo**, mientras convertirlo en una afirmación ajena al argumento del pasaje sería **ilegítimo**.
+
+El Salmo 30 mantiene la gratitud en el lugar correcto. **(רָפָא)**, _rapha_, significa sanar, restaurar o remediar; en #tehilim_30_3 describe la ayuda de Elohim al salmista. «Sanaste» es **directo**, pero no promete que toda crisis termine al ritmo de una conmemoración. La dedicación recuerda quién levantó al afligido; no convierte al celebrante en dueño de la casa ni le permite reclamar inmunidad frente a la disciplina.
+
+La formación comunitaria también requiere distinguir términos y funciones. En 2 Timoteo 3:16, **(ὠφέλιμος)**, _ōphelimos_, significa útil, provechoso o beneficioso; su fuerza contextual califica a la Escritura por lo que produce en enseñanza, reprensión, corrección y educación justa. «Útil» es **directo**, mientras afirmar que cualquier lectura o tradición educativa comparte automáticamente esa autoridad sería **ilegítimo**. En 1 Timoteo 3:15, **(ἐκκλησία)**, _ekklēsia_, significa asamblea o congregación; su fuerza contextual es la comunidad reunida como casa de Elohim, no una piedra consagrada. «Iglesia» puede ser una glosa **tradicional y aproximada**, pero «edificio» sería **ilegítimo** como sustituto del sujeto del versículo.
+
+Por eso la aplicación pedagógica de Eric es valiosa en cuanto exhorta a perseverar, consultar y obedecer, pero debe recibir una calificación explícita. La formación no es acumulación de datos ni sumisión ciega a un recinto: es permanecer en lo aprendido, dejar que la Escritura corrija y demostrar la verdad en buenas obras. La conexión entre Janukáh y ese proceso es **analógica y pedagógica**, no una orden explícita de Juan 10 ni una prueba automática de que una comunidad sea fiel.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
