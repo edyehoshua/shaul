@@ -255,6 +255,16 @@ La clase de Eric también presenta el relevo como una forma de sabiduría. Bamid
 
 Esta precisión evalúa la aplicación contemporánea de Eric sin convertirla en una ley universal de edades. La afirmación textual **exacta** es que יהוה regula un cuerpo levítico, sus años de entrada, su trabajo y su asistencia posterior. La inferencia **pedagógica** es que una comunidad madura debe distinguir entre abandonar a una persona y relevarla de una carga. La luz de la Menoráh no justifica agotamiento indefinido: el capítulo une dirección, purificación, sustitución, custodia y relevo.
 
+## Reparación: la tarea recibida no elimina al pueblo que sirve
+
+La exposición de Eric describe al servidor como alguien cuya luz y cuyo trabajo apuntan fuera de sí mismo. Bamidbar 8 permite precisar esa observación en la secuencia completa: las lámparas reciben dirección (vv. 1-4), los levitas son tomados de entre Israel (vv. 5-13), y luego son dados para el servicio de los hijos de Israel (vv. 14-19). El texto no crea una élite que abandona a la congregación; conserva una relación de origen, entrega y beneficio comunitario.
+
+OE dice: **והבדלת את הלוים מתוך בני ישראל והיו הלוים לי** (#bamidbar_8_14), «separarás a los leviím de entre los hijos de Israel, y los leviím serán para Mí». **(בדל)**, _badal_, significa separar, distinguir o poner aparte; aquí su fuerza contextual es reservar una función cultual, no declarar una superioridad moral. «Hacerlos de otra naturaleza» sería una equivalencia inexacta. Enseguida, **ואקח את הלוים תחת כל בכור** (#bamidbar_8_18) usa **(לקח)**, _laqaj_, «tomar o recibir», y **(תחת)**, _tajat_, «debajo, bajo o en lugar de». La equivalencia «reemplazo universal» es pedagógica pero inexacta: la sustitución está delimitada al servicio de la Tienda.
+
+TTH traduce 8:19 como una entrega de los leviím «a Aharón y a sus hijos, para hacer el servicio de los hijos de Israel en la Tienda del Encuentro». **(עבודה)**, _avodah_, significa trabajo, servicio o labor; «ministerio» es una equivalencia aproximada que puede sonar más amplia que la tarea cultual. **(כפר)**, _kiper_, significa cubrir o hacer reconciliación; aquí señala la función ritual de los leviím en favor de Israel, no una autoridad para perdonar por iniciativa propia. Eric acierta al denunciar la gloria privada del servidor; la afirmación textual exacta es que יהוה separa, toma y entrega a los leviím para proteger y servir a la congregación.
+
+El cierre confirma que recibir una tarea también incluye recibir un límite. **(שוב)**, _shuv_, significa volver o regresar; en 8:25 marca el cambio de etapa desde la labor pesada. **(שרת)**, _sharet_, significa servir o asistir; en 8:26 describe ayuda a los hermanos, no dominio sobre ellos. Así, la aplicación de Eric al liderazgo contemporáneo es **teológica y pedagógica**, mientras la perícopa afirma de modo **exacto** que la lámpara, el servidor y el relevo permanecen orientados por una orden recibida y por el bien del pueblo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

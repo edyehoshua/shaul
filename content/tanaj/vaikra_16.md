@@ -422,6 +422,16 @@ La observación de Eric sobre que la sangre y el macho cabrío enviado deben per
 
 El v. 20 marca el límite decisivo: «y terminado de hacer reconciliación por la Santidad, por la Tienda del Encuentro y por el altar, traerá el peludo vivo». **(כלה)**, _kalah_, significa terminar, completar o acabar; su fuerza contextual es cerrar una fase ritual antes de iniciar la confesión y el envío. **(חי)**, _jai_, significa vivo; distingue al animal que permanece delante de יהוה antes de cargar las iniquidades. Por eso Eric tiene razón en afirmar la unidad del día, pero la evaluación textual exige conservar el orden: la sangre trata los ámbitos santos, la confesión nombra, el animal carga y el sacerdote envía. La lectura mesiánica es **teológica y aproximada**; esa secuencia de sujetos, lugares y acciones es la afirmación **exacta** de la perícopa.
 
+## Reparación: el altar completa el recorrido de la sangre
+
+La observación de Eric de que la sangre y el macho cabrío enviado no pueden separarse gana precisión cuando se incluye el altar. El capítulo no pasa directamente de la sangre detrás de la cortina a la confesión sobre el animal vivo. En los vv. 18-19 Aharón sale al altar que está delante de יהוה, toca sus cuernos con la sangre y hace reconciliación por él. TTH conserva así una secuencia espacial: Santidad, Tienda y altar son tratados antes de que el macho cabrío vivo sea presentado.
+
+OE dice: **ויצא אל המזבח אשר לפני יהוה וכפר עליו** (#vaikra_16_18). **(יצא)**, _yatsa_, significa salir o salir fuera; aquí señala el desplazamiento del sacerdote desde el interior hacia el altar, no escapar de la presencia. **(מזבח)**, _mizbeaj_, significa altar, el lugar de sacrificio; «centro espiritual» sería una equivalencia pedagógica, no exacta. **(קרן)**, _qeren_, significa cuerno; en este contexto nombra las partes concretas del altar que Aharón toca con la sangre. «Poderes» sería una lectura aproximada que el sustantivo no exige.
+
+El v. 20 establece el corte: **וכלה מכפר את הקדש ואת אהל מועד ואת המזבח והקריב את השעיר החי**. **(כלה)**, _kalah_, significa terminar, completar o acabar; su fuerza contextual marca que una fase ritual concluyó antes de comenzar la confesión. **(הקריב)**, _hiqriv_, significa acercar o presentar; aquí introduce al macho cabrío vivo, no repite sin diferencia el rociamiento anterior. Por eso la frase de Eric —«la una sin la otra no tiene sentido»— es una síntesis **teológica y aproximada** de la unidad del día, pero la afirmación **exacta** conserva los sujetos y el orden: Aharón trata los ámbitos santos, confiesa, el animal carga y luego es enviado.
+
+Delitzsch relee la estructura en Ivrim 9:7: **לא בלתי־דם אשר יקריב בעד נפשו ובעד שגגות העם**, «no sin sangre que ofreciera por su vida y por los yerros del pueblo». La conexión confirma el acceso anual y la sangre como rasgos canónicos, pero no convierte **(עזאזל)**, _Azazel_, en «demonio», ni **(נפש)**, _nefesh_, en «alma separable» por definición. Es una lectura posterior y aproximada; Vaikra 16 sigue afirmando un rito localizado, con sacerdote, altar, confesión, envío y respuesta comunitaria.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
