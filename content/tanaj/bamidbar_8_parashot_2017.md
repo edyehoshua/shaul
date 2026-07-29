@@ -88,6 +88,12 @@ La progresión del capítulo es significativa: la luz ordenada precede al servic
 - [ ] Cotejar los desarrollos léxicos, históricos y doctrinales de la clase con el hebreo, el contexto literario y fuentes trazables.
 - [ ] Delimitar los versículos que la sesión comenta de forma directa antes de ampliar esta nota.
 
+## Correspondencia pública de las cuatro exposiciones
+
+La unidad temática procede de cuatro videos, pero no todos cumplen la misma función dentro de la nota. `youtube:f0PQY7bXbJQ` introduce la imagen de las siete lámparas y la discusión sobre la forma de la Menoráh; esa observación queda evaluada en 8:1-4 como apoyo para la orientación de la luz y como hipótesis histórica pendiente. `youtube:OG2PPYieRhk` desarrolla la purificación y el servicio de los leviím; el texto confirma agua, afeitado, lavado, ofrenda y presentación, mientras la extensión a todo liderazgo es una aplicación pedagógica. `youtube:EHZDK_XPB1A` enlaza la sustitución de los primogénitos con la responsabilidad de servir; 8:16-19 respalda la entrega y el reemplazo, sin convertir a los leviím en propietarios del santuario. `youtube:eJlTuHME674` lleva la lectura hacia las edades y el relevo; 8:23-26 confirma límites y asistencia, pero no una regla universal fuera del marco levítico.
+
+Esta distribución conserva las observaciones de Eric sin atribuir a un video lo que pertenece a otro. El hilo que las une es textual —luz orientada, personas purificadas, entrega comunitaria y servicio regulado—; las conexiones con Apocalipsis, la Torah entregada y el liderazgo posterior son lecturas canónicas o pedagógicas, no citas directas de Bamidbar 8.
+
 ## La luz orientada y el servicio recibido
 
 La lectura en orden también corrige una posible reducción simbólica de la clase. En 8:1-4, Moshéh no recibe una instrucción general para «brillar», sino una orden concreta sobre siete lámparas: **בהעלתך את הנרות אל מול פני המנורה יאירו שבעת הנרות**. El infinitivo constructo **(בהעלתך)**, _beha'alotekha_, procede de עלה, _alah_, «subir, hacer subir o encender»; su fuerza contextual es la acción de disponer y hacer subir la llama, no una experiencia interior. «Encender» es una equivalencia aproximada que TTH hace comprensible. La preposición **(אל מול)**, _el mul_, significa «hacia frente de» o «en dirección a»; aquí especifica la orientación de las lámparas hacia la Menoráh. Eric acierta al observar que la luz no se dirige a suplir una carencia de יהוה, pero esa aplicación se apoya en la dirección del texto y no en una definición oculta de _ner_.

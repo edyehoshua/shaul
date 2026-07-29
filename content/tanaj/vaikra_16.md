@@ -214,6 +214,12 @@ Eric aplica este orden a su enseñanza sobre una reconciliación que no autoriza
 
 ## Pendiente de verificar
 
+## Correspondencia pública de las exposiciones de Eric
+
+Los seis source IDs pertenecen a un mismo ciclo de enseñanza, pero la nota no los trata como una sola transcripción indiferenciada. `youtube:8Btk2jATjfk` aporta la formulación de que la cabra cuya sangre se presenta y la cabra enviada no deben separarse; `youtube:Y97CMPXJ4cA` retoma la relación entre sangre, vida y reconciliación. `youtube:stsUp5v3SXE` insiste en que la reconciliación no puede convertirse en permiso para seguir practicando el pecado. `youtube:jCax7bvw4Y8` y `youtube:fVAh5QTMH-8` amplían el puente con Pésaj, la sangre, el pan sin levadura y la copa. `youtube:_4q0WLCdK1c` resume el tema como «el ministerio de reconciliación».
+
+La evaluación textual conserva esas observaciones en su nivel correcto: Vaikra 16 confirma la coordinación del día, la administración localizada de la sangre, la confesión, el envío, el lavado, la humillación y el reposo. Las conexiones con Pésaj, Hebreos y la muerte del Mesías son lecturas canónicas de Eric, teológicas y aproximadas; no son equivalencias léxicas de **(כפר)**, _kafar_, **(נפש)**, _nefesh_ o **(עזאזל)**, _Azazel_. Esta trazabilidad pública también evita presentar una reconstrucción de la transcripción automática como cita literal.
+
 ## Un solo día, acciones que no se confunden
 
 La exposición de Eric presenta sangre y envío como inseparables. La secuencia de Vaikra 16 permite conservar esa observación con mayor precisión: no se trata de dos nombres para la misma acción, sino de dos operaciones coordinadas dentro del mismo día. En los vv. 14–17, Aharón rocía la sangre sobre la cubierta y delante de ella, y hace reconciliación por la Santidad, la Tienda y el altar. **(הזה)**, _hizah_, significa rociar o salpicar; su fuerza contextual es una acción ritual localizada, no una imagen general de «derramar vida». «Aplicar la sangre» es una paráfrasis aproximada.
