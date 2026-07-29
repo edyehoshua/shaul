@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 916,
-  "pending_videos": 42,
-  "transcript_notes": 469,
+  "covered_videos": 918,
+  "pending_videos": 40,
+  "transcript_notes": 471,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -58,7 +58,7 @@
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 21,
+      "covered": 23,
       "lane": "colosenses"
     },
     "Gálatas": {
@@ -203,7 +203,7 @@
     },
     "Purim: estudio temático independiente pendiente": {
       "total": 1,
-      "covered": 0,
+      "covered": 1,
       "lane": "colosenses"
     },
     "Qohélet - Eclesiastés": {
