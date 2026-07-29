@@ -69,6 +69,18 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 - El corpus local se usa como base para los textos de la hoja de comparación.
 - Las equivalencias lexicales propuestas por la clase se conservan como marco pedagógico y quedan pendientes de cotejo; no se presentan como traducciones exhaustivas de los términos hebreos.
 
+## Control de fuentes
+
+| Fuente pública                                                                  | Tramo o dependencia                                       | Límite de atribución                                                                                                                |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Parte 4](https://www.youtube.com/watch?v=poyAzSdiTQU) (`youtube:poyAzSdiTQU`)  | Marcos 2:1-12 y la autoridad del Ben HaAdam para perdonar | La observación sobre perdón y sanidad se contrasta con 2:5-12; no se atribuye a la clase una doctrina completa fuera de esa escena. |
+| [Parte 5](https://www.youtube.com/watch?v=c_Ww_KfQuwI) (`youtube:c_Ww_KfQuwI`)  | Introducción a Abá y el lenguaje de padre/origen          | Las posibilidades semíticas se presentan como marco de la clase, no como equivalencias automáticas de cada uso griego.              |
+| [Parte 6](https://www.youtube.com/watch?v=OYK01CPrwKk) (`youtube:OYK01CPrwKk`)  | Torah, yud, qotz y permanencia de la palabra              | La nota conserva el argumento pedagógico y lo limita al cotejo de Jeremías, Salmos, Mateo y Hebreos.                                |
+| [Parte 7](https://www.youtube.com/watch?v=YKQCpmNS3KM) (`youtube:YKQCpmNS3KM`)  | Abá y mente de Mashiaj                                    | Se atribuye la aplicación doctrinal; las formas hebreas y griegas se explican por contexto, no por etimología aislada.              |
+| [Parte 10](https://www.youtube.com/watch?v=wR0WA_TLcCc) (`youtube:wR0WA_TLcCc`) | Elohim, El y Eloah como dependencia doctrinal             | Sirve como conexión teológica independiente y no sustituye el argumento narrativo de Marcos 2.                                      |
+
+Los cinco `source_ids` son únicos dentro de esta nota y corresponden a créditos públicos del grupo exclusivo de Marcos. La nota mantiene una sola unidad canónica para el capítulo: la enseñanza de Eric queda atribuida, mientras que la prueba argumental sigue el orden del relato y de los textos comparados.
+
 ## Ruta de la clase
 
 | Momento aproximado | Tema                             | Función en el argumento                                                                                           |

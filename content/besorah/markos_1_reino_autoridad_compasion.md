@@ -39,6 +39,15 @@ Marcos 1 presenta la buena noticia como la irrupción del reino de יהוה en l
 
 Esta nota ordena dos clases del **hermano Eric de Jesús Rodríguez Mendoza** dedicadas al cierre de Marcos 1. La clase propone leer «espíritu impuro» desde los campos semíticos de poder y de impedimento para la santidad, y distingue la expulsión del espíritu de la sanidad de una fiebre. También recalca la petición del leproso: «si quieres, puedes limpiarme». Se contrasta cada propuesta con el texto local; las explicaciones médicas, psicológicas o históricas que exceden el pasaje no se convierten aquí en afirmaciones del evangelio.
 
+## Control de fuentes
+
+| Fuente pública                                                                 | Tramo que se le atribuye                                        | Límite de atribución                                                                                                                                    |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Parte 1](https://www.youtube.com/watch?v=Farvi5l0RRA) (`youtube:Farvi5l0RRA`) | Marcos 1:14-45: reino, autoridad, oración, sanidades y limpieza | La nota conserva las observaciones de Eric sobre distinguir enfermedad, espíritu impuro y lepra, pero las prueba únicamente con la secuencia de Marcos. |
+| [Parte 3](https://www.youtube.com/watch?v=BRqiJzOHBkQ) (`youtube:BRqiJzOHBkQ`) | Continuación pública sobre Marcos 1 y la autoridad de Yehoshua  | El título y la atribución no autorizan a reconstruir frases no cotejadas; las conexiones semíticas permanecen comparativas y calificadas.               |
+
+Los dos `source_ids` son distintos, pertenecen al grupo exclusivo de Marcos y reciben crédito público aquí. La hoja de comparación y el texto local tienen prioridad sobre cualquier formulación automática o sobre una explicación semítica que no pueda demostrarse en el pasaje.
+
 ## Hoja de comparación
 
 | Referencia       | Texto local                                                                                                                   | Función en el argumento                                                                                          |
