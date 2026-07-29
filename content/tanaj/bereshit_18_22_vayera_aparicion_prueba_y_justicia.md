@@ -69,6 +69,16 @@ El muchacho pregunta por el cordero y Abraham responde: **אלהים יראה ל
 
 El cierre retoma la promesa a la descendencia y a las naciones. **(עקב)**, _eqev_, significa talón, huella o consecuencia; en 22:18 la obediencia de Abraham aparece como condición narrativa de la bendición, pero el juramento y la promesa siguen siendo iniciativa de יהוה. La nota no convierte la prueba en una fórmula para comprar favor divino: el capítulo comienza con una palabra recibida, muestra una obediencia probada y termina con una bendición jurada.
 
+## La casa de Abraham: presencia que se vuelve enseñanza
+
+La aparición no termina en la tienda. En 18:17–19 יהוה habla de Abraham ante la pregunta de si ocultará lo que va a hacer, y el motivo dado es que Abraham debe mandar a sus hijos y a su casa después de él. El verbo **(ידע)**, _yada_, significa conocer, reconocer o tener conocimiento; en «yo lo he conocido» su fuerza contextual incluye escogerlo para una responsabilidad visible, no solo poseer información sobre él. «Intimidad» puede ser una equivalencia pedagógica, pero no reemplaza el resultado explícito: guardar el camino y hacer justicia y juicio.
+
+El sustantivo **(בית)**, _bayit_, significa casa, hogar o edificio. Aquí designa la comunidad doméstica que recibe instrucción; «ministerio» sería una ampliación no exigida por la forma. La clase puede aplicar este pasaje a una comunidad que aprende a discernir, pero la secuencia textual es más concreta: la promesa a Abraham se verifica en cómo ordena su casa. **(שמר)**, _shamar_, significa guardar, vigilar o custodiar; en 18:19 enlaza memoria, obediencia y transmisión. Así, la hospitalidad de 18:1–8 no queda separada de la justicia de 18:19 ni de la intercesión de 18:23–33.
+
+El narrador vuelve a mostrar esa tensión en 21:33: Abraham planta un tamarisco e invoca el nombre de יהוה, mientras en 22:3 se levanta temprano, ensilla su asno y prepara la marcha. **(ויקרא)**, _vayiqra_, de קרא, significa llamar, proclamar o invocar; en Beer Sheva describe culto público, no una fórmula para controlar el resultado. **(וישכם)**, _vayashkem_, de שכם, significa madrugar o levantarse temprano; su fuerza narrativa comunica prontitud ante la orden, no mérito automático. La visibilidad de יהוה produce una casa que enseña, un altar que invoca y una obediencia que actúa.
+
+Esta línea también limita una lectura individualista de la clase. Abraham intercede como miembro de una historia familiar y escucha como padre; Sarah recibe la promesa, Lot es rescatado y el muchacho pregunta en el camino a Moriah. La presencia sostiene personas concretas, pero el texto evalúa su fruto en justicia, misericordia, cuidado y obediencia. «Dios está conmigo» sería un resumen insuficiente si no incluye «para hacer justicia y juicio» y «porque escuchaste mi voz».
+
 ### Hoja de comparación
 
 | Referencia      | Hebreo (sin nikud)        | TTH (OE/TTH)               | Observación                                            |
