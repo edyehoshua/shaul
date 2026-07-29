@@ -149,6 +149,20 @@ El cierre evita convertir la santificación en una moneda de pago. **(παραδ
 
 Leída como perícopa continua, la secuencia queda así: la unión con la muerte y resurrección del Mesías responde a la objeción sobre la gracia; el cálculo de estar muertos al pecado se vuelve una orden sobre el cuerpo; la liberación del dominio antiguo produce obediencia; y esa obediencia da fruto para santificación mientras la vida eterna sigue siendo don. Esta evaluación conserva las observaciones públicas de ambas clases sin convertir «tvilá», «subordinación» o «sentencia» en sustitutos de los términos y argumentos de Pablo.
 
+## Reparación desarrollada: unión, señorío y fruto en orden
+
+La enseñanza atribuida a Eric debe conservarse siguiendo el movimiento de Romanos 6, no como dos consignas separadas. La sesión pública `youtube:hj1Eu4BPPBc` enfoca la **tvilá** y la muerte al pecado; `youtube:o87CBGw9-Zo` enfoca el cambio de subordinación y la expresión pastoral «no estar bajo sentencia». Se trata de paráfrasis atribuibles, no de citas literales. El capítulo evalúa ambos énfasis al pasar de la unión con el Mesías a la presentación del cuerpo y al fruto de la justicia.
+
+En #romanos_6_1-5, **(βαπτίζω)**, _baptizō_, significa sumergir, introducir o inmersar; su fuerza contextual es la participación en la muerte del Mesías que conduce a caminar en vida nueva. «Inmersión» es una glosa **pedagógica y aproximada**: la forma verbal no funciona como una contraseña ritual ni decide por sí sola todos los efectos doctrinales. **(συμφυτεύω)**, _symphyteuō_, significa plantar juntamente, unir en crecimiento o hacer partícipe de una misma vida; en 6:5 vincula la semejanza de la muerte con la de la resurrección. «Unidos» es **aproximado y contextual**, porque Pablo mantiene juntos sepultura, vida nueva y esperanza de resurrección.
+
+En #romanos_6_6-11, **(συσταυρόω)**, _systauroō_, significa crucificar juntamente; en 6:6 describe al hombre viejo crucificado con el Mesías para que el cuerpo del pecado pierda su dominio. «Crucificado con» es **directo**, pero convertirlo en impecabilidad instantánea sería **ilegítimo** frente al mandato posterior «no reine» de 6:12. **(λογίζομαι)**, _logizomai_, significa contar, considerar o evaluar; en 6:11 ordena valorar la propia vida a partir de la muerte al pecado y la vida para Elohim. «Considerarse» es **aproximado y contextual**, no una invitación a negar la lucha moral.
+
+En #romanos_6_12-18, **(κυριεύω)**, _kyrieuō_, significa ser señor, dominar o ejercer autoridad; en 6:14 describe el dominio que el pecado ya no debe ejercer sobre el cuerpo mortal. **(παρίστημι)**, _paristēmi_, significa presentar, poner al lado o poner a disposición; en 6:13 dirige los miembros hacia Elohim como instrumentos de justicia. «No estar bajo sentencia» es **pedagógico y aproximado**, mientras «presentar» es **directo y contextual**: la libertad proclamada por Eric tiene dirección y no equivale a autonomía sin obediencia.
+
+El cierre distingue fruto y don. **(ἁγιασμός)**, _hagiasmos_, significa santificación o consagración; en 6:19 y 6:22 nombra la dirección y el fruto de la nueva obediencia. **(ὀψώνιον)**, _opsōnion_, significa paga, ración o salario; en 6:23 presenta la muerte como resultado del pecado. **(χάρισμα)**, _charisma_, significa don concedido por gracia; en el mismo versículo presenta la vida eterna como regalo de Elohim en Yehoshua. Las glosas son **directas en el campo ordinario**; la conclusión es **textual y cualificada**: la santificación no compra la vida eterna, pero tampoco queda sin una entrega corporal visible.
+
+Por tanto, la observación de Eric recibe **apoyo textual cualificado**. Romanos 6 niega que la gracia autorice a permanecer en pecado, define la libertad como traslado de señorío y conserva la vida eterna como don. La secuencia canónica queda intacta: unión con la muerte y resurrección, cálculo de estar vivos para Elohim, miembros presentados a la justicia, fruto para santificación y don final en el Mesías.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis griega de #romanos_6_3-11, en especial la relación entre inmersión, muerte, sepultura, unión y resurrección.
