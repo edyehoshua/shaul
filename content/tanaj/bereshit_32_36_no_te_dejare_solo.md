@@ -94,6 +94,22 @@ La separación se explica por la abundancia, no por la desaparición de Esav. El
 
 Así, el recorrido textual termina con dos realidades juntas: Yaakov recibe la tierra y la promesa reafirmada en Bet-El, mientras Esav aparece como una nación con genealogía y territorio. La nota no convierte la elección de Yaakov en licencia para despreciar a Edom. La presencia que «no deja solo» también enseña a distinguir retorno, herencia y separación con verdad.
 
+## La presencia prometida también confronta el método — Bereshit 32–34
+
+La enseñanza de Eric sobre no caminar abandonado necesita conservar la tensión entre confianza y método. Antes de la lucha, Yaakov ora: **הצילני נא מיד אחי מיד עשו**, «líbrame ahora de la mano de mi hermano, de la mano de Esav» (#bereshit_32_12). **(נצל)**, _natsal_, significa librar, rescatar o arrebatar; en esta forma su fuerza es una petición urgente de protección, no una promesa de que Yaakov quedará exento de actuar. La división del campamento y el envío del regalo muestran prudencia, pero el relato no los presenta como sustitutos de la palabra de יהוה.
+
+En 33:10 Yaakov dice a Esav: **ראיתי פניך כראת פני אלהים ותרצני**, «he visto tu rostro como quien ve el rostro de Elohim, y me has aceptado». **(פנים)**, _panim_, significa rostro, faz o presencia; aquí designa el encuentro personal con el hermano. La comparación es una equivalencia retórica **aproximada**, no una identificación de Esav con Elohim. Eric puede conservar la observación de que la reconciliación hace visible una misericordia recibida, pero el texto mantiene la diferencia entre el hermano reconciliado y el Dios que prometió guardar a Yaakov.
+
+El capítulo 34 pone un límite indispensable a toda lectura de protección. Los hijos de Yaakov hablan a Shejem **במרמה**, _bemirmah_, «con engaño»; **(מרמה)**, _mirmah_, significa fraude, engaño o astucia, y su fuerza contextual califica la estrategia de la familia. «Defensa santa» sería una equivalencia **pedagógica** que el pasaje no autoriza. La reprensión de Yaakov en 34:30 —«me habéis turbado»— muestra que la casa no puede justificar cualquier violencia apelando al honor del pacto. La presencia no elimina el discernimiento moral; lo exige.
+
+## Bet-El: volver acompañado es ordenar la casa — Bereshit 35–36
+
+La subida a Bet-El hace comprobable el retorno. Yaakov ordena: **והטהרו והחליפו שמלתיכם**, «purifíquense y cambien sus vestidos» (#bereshit_35_2). **(טהר)**, _taher_, significa purificarse o quedar limpio; aquí su fuerza es una preparación doméstica visible junto con el abandono de los dioses extraños. «Renovación interior» es una aplicación **pedagógica**, no la equivalencia exacta del verbo. **(שלם)**, _shelam_, significa estar completo o en paz; la forma **שמלותיכם**, _simlotekhem_, nombra vestidos, no una metáfora obligatoria de una nueva identidad.
+
+Después, la familia entrega los objetos y Yaakov los entierra bajo la encina (#bereshit_35_4). **(קבר)**, _qavar_, significa enterrar; el acto narrado impide reducir la purificación a una emoción. El OE dice **ונקומה ונעלה בית אל**, «levantémonos y subamos a Bet-El», y **ואעשה שם מזבח**, «haré allí un altar». **(קום)**, _qum_, significa levantarse; **(עלה)**, _alah_, subir; **(מזבח)**, _mizbeaj_, altar. Sus equivalencias son directas en este contexto: la respuesta al acompañamiento prometido toma la forma de movimiento y culto.
+
+La muerte de Rajel y la genealogía de Esav impiden cerrar con triunfalismo. **(תולדות)**, _toledot_, significa generaciones, descendencia o historia familiar; en 36:1 introduce una memoria real del hermano, aunque el relato siga la línea de Yaakov. La clase puede exhortar a descansar en la compañía de יהוה, pero Bereshit 32–36 evalúa esa compañía por una fidelidad que ora, repara, renuncia a los ídolos, construye un altar y enfrenta el duelo sin negar la historia del otro.
+
 ## Léxico clave
 
 | Forma      | Transliteración | Sentido normal             | Fuerza contextual                          | Equivalencia                                |
