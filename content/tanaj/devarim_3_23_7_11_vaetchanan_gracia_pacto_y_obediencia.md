@@ -24,6 +24,7 @@ sources:
   - "docs/scriptures/oe/json/deuteronomy/6.json"
   - "docs/scriptures/oe/json/deuteronomy/7.json"
   - "docs/scriptures/tth/json/devarim.json"
+  - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
   - "youtube:iJJX9zpbryk"
 translation: "[OE, TTH]"
@@ -130,6 +131,14 @@ Sin embargo, la memoria tampoco compra la elección. Devarim 7:7-9 explica que I
 - #devarim_34_1-4 confirma la visión de la tierra desde el monte, pero no elimina el límite de 3:27.
 - #tehilim_119_65-72 comparte la idea de que el bien de יהוה puede enseñar mediante disciplina.
 - Hebreos 11:13,16 y Colosenses 3:1-4 son conexiones usadas por Eric para el horizonte celestial; no deben confundirse con el sentido inmediato de Devarim.
+
+## La promesa visible y la morada mejor: control de la conexión con Ivrim
+
+La clase relaciona la visión de la tierra y la esperanza futura. Esa conexión debe conservar el doble testimonio: Devarim no cancela la tierra que Moisés ve, y Delitzsch en Ivrim 11 tampoco convierte la promesa histórica en una excusa para despreciar la obediencia presente. En Ivrim 11:13-16 leemos: **בָּאֱמוּנָה מֵתוּ כָל־אֵלֶּה וְלׂא רָאוּ אֶת־הַהַבְטָחוֹת רַק מֵרָחוֹק צִפּוּ לָהֵן ... וְתוֹשָׁבִים בָּאָרֶץ ... אָכֵן נִכְסְפוּ לְמוֹשָׁב טוֹב מִמֶּנּוּ וְהוּא בַּשָּׁמָיִם**: «por fe murieron todos estos sin ver las promesas; las miraron de lejos ... y confesaron que eran extranjeros y residentes en la tierra ... pero anhelaban una morada mejor, la celestial».
+
+**(הבטחה)**, _havtaja_, significa promesa; en Ivrim 11:13 su fuerza es algo esperado que todavía no se posee visiblemente. **(גר)**, _ger_, significa extranjero o residente; allí describe la autocomprensión de los antepasados, no una negación de la tierra prometida a Israel. **(מושב)**, _moshav_, significa morada, asiento o lugar de residencia; en el v. 16 Delitzsch lo usa para la morada celestial. Estas equivalencias son exactas en el sentido léxico básico, pero la relación con Devarim 3 es **canónica y aproximada**: Moisés recibe la orden de ver la tierra y la comisión de Yehoshua, mientras Ivrim interpreta la perseverancia de los antepasados desde una esperanza posterior.
+
+La conexión, por tanto, no autoriza a decir que el límite de Moisés fue irrelevante ni que «gracia» significa abandonar toda responsabilidad histórica. La observación de Eric queda mejor formulada así: יהוה puede negar una petición concreta y, a la vez, sostener al siervo dentro de una promesa más amplia. El texto de Devarim aporta la visión, el límite y el relevo; Delitzsch aporta una lectura confesional posterior sobre la esperanza. No son dos traducciones del mismo versículo.
 
 ## La súplica limitada todavía produce servicio — Devarim 3:23-29
 
