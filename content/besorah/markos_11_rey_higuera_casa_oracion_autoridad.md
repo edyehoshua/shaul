@@ -131,6 +131,12 @@ La cita de Isaías controla el alcance de la denuncia. **(οἶκος προσε
 
 La higuera seca desde la raíz conduce a la respuesta sobre confianza, petición y perdón. **(ἐξηραμμένην)**, _exērammenēn_, «seca», es participio perfecto: Kefa contempla un estado resultante de la palabra anterior. En 11:22, **(ἔχετε πίστιν θεοῦ)**, _echete pistin theou_, puede oírse como «tengan fe en Dios» o «tengan la fidelidad de Dios»; el genitivo exige cautela y la equivalencia con **(אמונה)**, _emunah_, es aproximada. La secuencia no termina en capacidad de mover montes: **(προσευχόμενοι)**, _proseuchomenoi_, «al orar», y **(ἀφίετε)**, _aphiete_, «remitan o perdonen», ponen la petición dentro de una relación reconciliada. Por eso la pregunta final de autoridad no es un apéndice: los dirigentes que dicen **(οὐκ οἴδαμεν)**, _ouk oidamen_, «no sabemos», conocen el costo de cada respuesta y eligen no confesarlo. El capítulo contrasta fruto, oración y autoridad recibida con hojas, cálculo y autoprotección.
 
+## Control de la secuencia: fruto, oración y autoridad
+
+Marcos mantiene tres respuestas en orden. La higuera muestra **(καρπός)**, _karpos_, «fruto», ausente bajo una apariencia de hojas; el Hejal recibe la denuncia porque debía ser **(οἶκος προσευχῆς)**, _oikos proseuchēs_, «casa de oración», para los pueblos. La equivalencia contextual con **(פרי)**, _peri_, «fruto», y **(בית תפלה)**, _beit tefilah_, «casa de oración», ayuda a comparar el vocabulario, pero no demuestra una retroversión hebrea ni convierte la escena en alegoría total.
+
+Después, **(ἀφίετε)**, _aphiete_, «remitan o perdonen», limita **(πιστεύετε)**, _pisteuete_, «confíen o crean», en la unidad de oración: la petición no es una técnica para someter a Elohim. Finalmente, **(ἐξουσία)**, _exousia_, «autoridad o poder», recibe la pregunta de los dirigentes y queda ligada a **(ποιεῖς)**, _poieis_, «haces»: Marcos hace que las obras precedan al interrogatorio. La correspondencia con **(רשות)**, _reshut_, «permiso o autoridad», es aproximada; la negativa **(οὐκ οἴδαμεν)**, _ouk oidamen_, «no sabemos», revela cálculo, no falta de datos narrativos.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el aparato crítico y la distribución de **(Ναζωραῖος)**, **(Ναζαρηνός)** y formas afines antes de derivarlas de **(נצר)**.

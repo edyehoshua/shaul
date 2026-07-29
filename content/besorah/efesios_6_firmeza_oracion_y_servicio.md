@@ -182,6 +182,12 @@ El vocabulario de 6:10-18 tampoco convierte la metáfora en un inventario de cau
 
 Estas precisiones cierran las preguntas léxicas principales de la nota. Siguen siendo comparaciones históricas, no demostraciones del texto, las conexiones con vestiduras sacerdotales, las reglas rabínicas sobre enviados y las reconstrucciones sociales detalladas. Mantenerlas como cautelas protege la atribución a Eric y deja el argumento verificable: responsabilidades limitadas, firmeza no agresiva y oración comunitaria.
 
+## Control de la transición: autoridad, resistencia y anuncio
+
+La secuencia de 6:1-20 impide separar ética y armadura. **(ἐν Κυρίῳ)**, _en Kyriō_, «en el Señor», califica la obediencia filial; **(ἀνιέντες)**, _anientes_, «dejando o cesando», califica el abandono de las amenazas por parte de los señores. La equivalencia temática con **(יראה)**, _yirah_, «temor reverente», es aproximada y no convierte el temor de 6:5 en una defensa de violencia. El texto prueba que la autoridad queda bajo juicio antes de introducir la resistencia espiritual.
+
+En 6:10-20, **(στῆναι)**, _stēnai_, «estar de pie o permanecer firme», y **(προσευχόμενοι)**, _proseuchomenoi_, «orando», describen la respuesta de la comunidad frente a las artimañas; no son órdenes para conquistar personas. **(παρρησία)**, _parrēsia_, «franqueza o confianza para hablar», explica la petición de Pablo por el anuncio del misterio. Su correspondencia contextual con **(עז)**, _oz_, «fuerza», solo orienta una comparación semítica: la sintaxis griega y el límite de «no contra sangre y carne» gobiernan la interpretación.
+
 ## Control de dependencias: Efesios 5 conduce a la armadura
 
 Efesios 6 no puede leerse como un manual independiente de combate espiritual. La exhortación retoma el «fortalecerse» comunitario que en Efesios 5 se veía en gratitud, canto y sometimiento mutuo: la armadura comienza después de haber descrito cómo se cuida al prójimo y termina en oración por todos los santos. **(ἀλλήλοις)**, _allēlois_, «unos a otros», funciona como recordatorio de reciprocidad en la sección inmediata anterior; su equivalencia con una jerarquía unilateral sería inexacta para el flujo de la carta.
