@@ -11,6 +11,10 @@ tags:
   - deidad_de_mashiaj
 references:
   - "#markos_13_32"
+  - "#markos_13_33"
+  - "#markos_13_35"
+  - "#markos_13_36"
+  - "#markos_13_37"
   - "#markos_14_32"
   - "#markos_14_36"
   - "#malaji_3_1"

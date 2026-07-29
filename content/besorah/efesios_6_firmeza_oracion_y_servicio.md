@@ -21,7 +21,11 @@ references:
   - "#ephesians_6_17"
   - "#ephesians_6_18"
   - "#ephesians_6_19"
+  - "#ephesians_6_20"
+  - "#ephesians_6_21"
+  - "#ephesians_6_22"
   - "#ephesians_6_23"
+  - "#ephesians_6_24"
 sources:
   - "https://www.youtube.com/watch?v=v03-WzaF5uw"
   - "https://www.youtube.com/watch?v=nwno_x1eN6E"
