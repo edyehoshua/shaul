@@ -1,8 +1,8 @@
 {
   "inventory_videos": 958,
-  "covered_videos": 929,
-  "pending_videos": 29,
-  "transcript_notes": 483,
+  "covered_videos": 930,
+  "pending_videos": 28,
+  "transcript_notes": 484,
   "notes_missing_visible_credits": [],
   "duplicate_source_ids": {},
   "playlists": {
@@ -58,7 +58,7 @@
     },
     "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)": {
       "total": 28,
-      "covered": 27,
+      "covered": 28,
       "lane": "colosenses"
     },
     "Gálatas": {
