@@ -146,6 +146,12 @@ En 6:34-44, la compasión se hace visible en **ἐσπλαγχνίσθη** (_esp
 
 En 6:45-56, **ἐγώ εἰμι** (_egō eimi_, soy yo o yo soy) responde al miedo de la barca, y **ἐκόπια** (_ekopia_, se esforzaban) describe el trabajo de los discípulos contra el viento. El salmo 107:29 ofrece un trasfondo bíblico para el dominio sobre el mar, no una cita explícita de Marcos. El cierre, con enfermos que tocan el borde del manto, mantiene la compasión en el cuerpo y en las aldeas. La secuencia completa —rechazo, envío, duelo, descanso, enseñanza, pan, auxilio y sanidad— conserva las observaciones concretas de Eric mientras deja sus propuestas históricas y semíticas en el nivel correspondiente.
 
+## Control final del capítulo: comisión, mesa y temor
+
+La cadena del capítulo puede verificarse también por sus sujetos y objetos. **ἀποστέλλειν**, _apostellein_, «enviar con encargo», explica la iniciativa de Yehoshua en 6:7; **ἐκήρυξαν**, _ekēryxan_, «proclamaron», describe la tarea pública de los Doce en 6:12; y **ἐδίδου**, _edidou_, «daba o iba dando», muestra en 6:41 la distribución continuada del pan por medio de ellos. El enviado no es fuente autónoma: recibe autoridad, proclama el giro de vida y sirve lo que el Mesías provee.
+
+La escena del mar prueba el mismo punto desde el miedo. **ἤθελεν παρελθεῖν**, _ēthelen parelthein_, «quería pasar de largo», debe leerse junto con **εἶδεν αὐτοὺς βασανιζομένους**, _eiden autous basanizomenous_, «los vio afligidos o esforzándose»; la frase no autoriza a concluir abandono cuando el relato continúa con la palabra «fortalézcanse» y la entrada en la barca. **ἐκόπια**, _ekopia_, «se fatigaban», nombra el trabajo real contra el viento. Así, pan y mar no son dos prodigios sin relación: ambos exponen la dependencia de los discípulos y corrigen su incomprensión, mientras la compasión se vuelve alimento, presencia y auxilio.
+
 ## Conclusión
 
 Marcos 6 presenta una misión que no nace de la autopromoción: Yehoshua envía, da autoridad, recibe el informe y manda descansar. El rechazo en Nazaret, la muerte de Iojanán y el viento contrario impiden una lectura triunfalista. Sin embargo, el capítulo tampoco deja a los enviados en la escasez o a la multitud sin atención: el maestro enseña, da pan, llega a la barca y sana a quienes acuden. La fidelidad que la clase llama emunah se prueba justamente allí: en escuchar la orden, servir con lo que se recibe y volver a reconocer a Yehoshua cuando el temor oscurece la comprensión.

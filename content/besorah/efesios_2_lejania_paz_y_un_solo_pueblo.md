@@ -199,6 +199,12 @@ La misma prueba evita reducir la paz a una experiencia interior. **ποιήσα�
 
 Finalmente, **συμπολῖται** (_sympolitai_, «conciudadanos») y **οἰκεῖοι** (_oikeioi_, «miembros de la casa») cambian la condición de los destinatarios, pero las formas pasivas **συναρμολογουμένη** (_synarmologoumenē_, «ensamblada juntamente») y **συνοικοδομεῖσθε** (_synoikodomeisthe_, «sois edificados juntamente») muestran que la pertenencia sigue siendo una obra en curso. La morada de Elohim no se demuestra por reclamar una identidad superior, sino por una edificación común sobre el fundamento nombrado. Así se conserva lo concreto de la enseñanza y se la prueba contra el orden textual: gracia, memoria, paz, acceso y morada.
 
+## Control final del movimiento: recordar, acercar y edificar
+
+La perícopa conserva una progresión que protege la síntesis «un solo pueblo» de convertirse en eslogan. **μνημονεύετε**, _mnēmoneuete_, «recuerden», mantiene la memoria de la lejanía en 2:11; **ἐγενήθητε**, _egenēthēte_, «fueron hechos o llegaron a ser cercanos», describe el giro de 2:13 como una acción recibida en el Mesías; y **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», deja el resultado abierto como obra comunitaria en 2:22. La secuencia no permite saltar directamente de una identidad anterior a una posesión privada: el texto pasa por sangre, paz, acceso y edificación.
+
+La relación entre «los dos» y «uno» también debe probarse en sus formas. **ἀμφοτέρους**, _amphoterous_, «a ambos», conserva la referencia a los grupos reconciliados; **ἕνα καινὸν ἄνθρωπον**, _hena kainon anthrōpon_, «un solo hombre nuevo», nombra la unidad creada por el Mesías; y **ἑνὶ πνεύματι**, _heni pneumati_, «en un solo Rúaj», califica el acceso al Padre. «Uno» no borra retrospectivamente «ambos». La observación de Eric queda apoyada cuando la comunidad común se entiende como fruto de una obra divina que reconcilia diferencias reales y exige una pertenencia visible.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el análisis de **σάρξ** en #ephesians_2_11 y #ephesians_2_15 con léxicos y con los usos del término en Efesios antes de fijar «físicamente» como glosa definitiva.
