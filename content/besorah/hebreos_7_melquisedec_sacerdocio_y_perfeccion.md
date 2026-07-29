@@ -122,6 +122,17 @@ En 7:20-25, el juramento de יהוה y la vida permanente del Hijo explican por 
 
 Hebreos 7 lleva al lector desde el nombre y la bendición de Melquisedec hasta el juramento que establece al Hijo. Eric aporta una lectura unificada: la perfección es la meta de una conciencia purificada, y el nuevo sacerdocio no depende de genealogía mortal, sino de una vida indestructible. El texto confirma la superioridad, la permanencia, la intercesión y la ofrenda única; las extensiones sobre el sacerdocio celestial y el futuro deben conservarse como interpretación atribuida, no como si fueran cada una una frase del capítulo.
 
+## Pendiente de verificar
+
+- [ ] Cotejar con el texto griego la relación exacta entre **ἀπαράβατος** y las traducciones «permanente», «intransferible» y «sin transgresión» antes de convertir la glosa de Eric en una definición léxica.
+- [ ] Verificar por separado la reconstrucción de la clase sobre la investidura sacerdotal del Hijo después de la resurrección; Hebreos 7 sostiene el juramento, la vida indestructible y la intercesión, pero no narra por sí solo toda esa cronología.
+
+## Conexiones principales
+
+- [[hebreos_6_esperanza_ancla_y_sacerdocio|Hebreos 6: esperanza, ancla y sacerdocio]] prepara la entrada del juramento y la referencia a Melquisedec.
+- [[tehilim_110_senorio_sacerdocio_y_juicio|Tehilim 110: señorío, sacerdocio y juicio]] aporta la fórmula “sacerdote para siempre” que Hebreos 7 interpreta.
+- [[hebreos_8_pacto_mejor_y_servicio_celestial|Hebreos 8: pacto mejor y servicio celestial]] desarrolla la consecuencia celestial del sacerdocio que 7 presenta como permanente.
+
 ## Ver también
 
 - [[hebreos_6_esperanza_ancla_y_sacerdocio|Hebreos 6: esperanza, ancla y sacerdocio]]

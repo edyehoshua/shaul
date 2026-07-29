@@ -114,6 +114,11 @@ Luego vienen los resultados concretos, en el mismo orden: Torá puesta dentro, e
 
 Hebreos 8 lleva el argumento a su centro: el sacerdote celestial ministra en el tabernáculo verdadero y media un pacto mejor. Eric ayuda a leer “mejor” como una esperanza mejorada, no como una condena indiscriminada de la revelación anterior. El propio texto define la novedad: Torá escrita en mente y corazón, conocimiento universal de יהוה y perdón de los pecados, dentro de una promesa dirigida a la casa de Israel y a la casa de Judá. La primera forma de pacto envejece en el argumento sacerdotal; la justicia y la instrucción que Elohim escribe en su pueblo no son presentadas como basura.
 
+## Pendiente de verificar
+
+- [ ] Cotejar con el griego de Hebreos 8 y con Yirmeyahu 31 la relación entre **κρείττων** (_kreittōn_), «mejor», y la paráfrasis «mejorado» usada por Eric; la continuidad teológica no debe presentarse como equivalencia léxica.
+- [ ] Verificar la reconstrucción histórica de la clase sobre el becerro de oro, el reino de sacerdotes y la temporalidad del orden levítico; Hebreos 8 prueba modelo, sombra, pacto y promesas, pero no desarrolla por sí solo toda esa secuencia histórica.
+
 ## Ver también
 
 - [[hebreos_7_melquisedec_sacerdocio_y_perfeccion|Hebreos 7: Melquisedec, sacerdocio y perfección]]
