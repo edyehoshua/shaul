@@ -17,8 +17,10 @@ references:
   - "#markos_5_19"
   - "#markos_5_22"
   - "#markos_5_27"
+  - "#markos_5_30"
   - "#markos_5_34"
   - "#markos_5_36"
+  - "#markos_5_38"
   - "#markos_5_41"
   - "#markos_5_43"
 sources:
@@ -73,13 +75,15 @@ La cadena verbal refuerza ese movimiento. En 5:8, **ἔξελθε**, _exelthe_, 
 
 ## Hoja de comparación
 
-| Referencia      | Texto TTH local                                                                                                  | Función en la lectura                                                                       |
-| --------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| #markos_5_1-8   | Yehoshua encuentra al hombre de los sepulcros y manda salir al espíritu impuro.                                  | La autoridad se dirige a una persona aislada y no se limita a discutir con la voz opresora. |
-| #markos_5_9-20  | «Mi nombre es Legión»; después el hombre queda sentado, vestido y cuerdo, y recibe la orden de volver a su casa. | La liberación tiene un resultado visible y una misión de testimonio.                        |
-| #markos_5_22-24 | Iair pide por su hija y Yehoshua comienza a ir con él antes de la interrupción de la mujer.                      | La petición de vida queda abierta mientras el relato introduce una demora decisiva.         |
-| #markos_5_25-34 | La mujer toca el vestido, cuenta toda la verdad y escucha: «tu emunah te ha salvado; ve en shalom».              | La confianza queda expuesta, nombrada y acompañada por paz.                                 |
-| #markos_5_35-43 | Llega la noticia de la muerte; Yehoshua dice «No temas, sólo afírmate» y manda levantarse a la muchacha.         | La vida restaurada atraviesa la demora y la noticia de muerte.                              |
+| Referencia      | Texto TTH local                                                                                                                            | Función en la lectura                                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| #markos_5_1-8   | Yehoshua encuentra al hombre de los sepulcros y manda salir al espíritu impuro.                                                            | La autoridad se dirige a una persona aislada y no se limita a discutir con la voz opresora.                                   |
+| #markos_5_9-20  | «Mi nombre es Legión»; después el hombre queda sentado, vestido y cuerdo, y recibe la orden de volver a su casa.                           | La liberación tiene un resultado visible y una misión de testimonio.                                                          |
+| #markos_5_22-24 | Iair pide por su hija y Yehoshua comienza a ir con él antes de la interrupción de la mujer.                                                | La petición de vida queda abierta mientras el relato introduce una demora decisiva.                                           |
+| #markos_5_25-34 | La mujer toca el vestido, cuenta toda la verdad y escucha: «tu emunah te ha salvado; ve en shalom».                                        | La confianza queda expuesta, nombrada y acompañada por paz.                                                                   |
+| #markos_5_35-43 | Llega la noticia de la muerte; Yehoshua dice «No temas, sólo afírmate» y manda levantarse a la muchacha.                                   | La vida restaurada atraviesa la demora y la noticia de muerte.                                                                |
+| #markos_5_30    | TTH: Yehoshua reconoce que ha salido poder de él y pregunta quién tocó sus vestidos.                                                       | La pregunta enlaza contacto, poder y testimonio; no presenta el vestido como un objeto mágico autónomo.                       |
+| #markos_5_38-39 | TTH: en la casa hay alboroto, llanto y gran lamentación; Yehoshua pregunta por qué alborotan y dice que la niña no murió, sino que duerme. | La escena distingue la noticia recibida de la palabra y la acción de Yehoshua; no elimina la realidad de la muerte anunciada. |
 
 ## Léxico clave
 
