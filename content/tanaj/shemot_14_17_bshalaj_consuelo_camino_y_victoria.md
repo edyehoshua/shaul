@@ -93,6 +93,18 @@ Entonces Amalec ataca. Yehoshua combate, mientras Moshéh permanece en la cumbre
 
 Moshéh edifica un altar y lo llama **(יהוה נסי)**, _Adonai Nissi_, «יהוה es mi estandarte». **(נס)**, _nes_, puede referir a señal, estandarte o señal levantada; «bandera» es una traducción **aproximada**. El nombre no convierte la batalla en propaganda humana: confiesa que la victoria y la memoria de la guerra quedan bajo la identidad de יהוה.
 
+## Un camino guiado que forma una comunidad: 13:21–17:16
+
+La nube y el fuego resumen la conducción: «יהוה iba delante de ellos, de día en columna de nube para guiarlos por el camino, y de noche en columna de fuego para alumbrarlos» (#shemot_13_21). **(נחה)**, _najah_, significa guiar, conducir o dar descanso; en la forma **(לנחתם)**, _lenajotam_, su fuerza contextual es orientar a una comunidad vulnerable por una ruta concreta. «Consolar» es aquí una equivalencia **pedagógica** derivada del efecto de la guía, no la traducción exacta del verbo. La clase acierta al unir consuelo y dirección: el texto no presenta una presencia abstracta, sino una que va delante.
+
+El movimiento se repite en el mar: «los hijos de Israel entraron en medio del mar en seco» (#shemot_14_22), y después « יהוה salvó a Israel aquel día de mano de Egipto» (#shemot_14_30). **(יבש)**, _yavesh_, significa seco o reseco; aplicado al suelo, su fuerza narrativa contrasta el paso de Israel con el agua que vuelve sobre el ejército. **(ישע)**, _yasha_, significa salvar, librar o dar espacio seguro; en **(ויושע)**, _vayosha_, «salvó», el sujeto es יהוה. «Victoria humana con ayuda divina» sería una equivalencia **inexacta** para este versículo, aunque Israel sí obedece al entrar y avanzar.
+
+En el desierto, la guía no se limita a llevar al pueblo a un destino. El maná recibe el propósito explícito de probar si Israel caminará en la Torah (#shemot_16_4), y el agua de Refidim deja al descubierto la pregunta «¿está יהוה entre nosotros o no?» (#shemot_17_7). **(הלך)**, _halaj_, significa caminar o conducirse; aquí la forma **(ילך)**, _yelekh_, describe obediencia cotidiana, no una peregrinación mística añadida. **(נסה)**, _nasah_, significa probar o poner a prueba; en la forma **(אנסנו)**, _anassenu_, el efecto contextual es una prueba que revela la respuesta del pueblo. La distinción importa: «probar» y «caminar» se relacionan en el argumento, pero no son el mismo término.
+
+La escena de Amalec completa el consuelo con cooperación. Cuando las manos de Moshéh se cansan, Aharón y Jur ponen una piedra y las sostienen (#shemot_17_12). **(אמונה)**, _emunah_, significa firmeza, fidelidad o constancia; en «sus manos eran _emunah_» su fuerza contextual es perseverancia sostenida hasta la puesta del sol. «Fe interior» es una equivalencia **pedagógica incompleta** si elimina el apoyo visible de los hermanos. Eric puede hablar de dependencia comunitaria con fundamento en la escena: la victoria se narra mediante Moshéh, Aharón, Jur, Yehoshua y el pueblo, mientras el altar atribuye el estandarte a יהוה.
+
+Así, el consuelo de Bshalaj no es una promesa de que el camino será cómodo. OE conserva el mandato «sigan viajando» (#shemot_14_15) y TTH traduce la provisión del maná como «el pan que les ha dado יהוה» (#shemot_16_15). La exposición de Eric queda confirmada en una forma más precisa: יהוה restaura el ánimo para que Israel avance, reciba el pan según la palabra y aprenda a sostenerse mutuamente; no para que abandone la obediencia ni para que vuelva a Egipto.
+
 ## Léxico clave
 
 | Forma       | Transliteración | Sentido normal                              | Fuerza contextual                                      | Equivalencia                                                    |
