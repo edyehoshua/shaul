@@ -195,6 +195,14 @@ Finalmente, 16:20 usa **(ἐκήρυξαν)**, _ekēryxan_, «proclamaron», jun
 
 ## Pendiente de verificar
 
+## Control ampliado: el testimonio nace de una ausencia comprobable (16:1-20)
+
+La observación pública de Eric sobre el nombre del primer día debe conservarse junto con la evidencia que Marcos coloca inmediatamente después. **ἀποκεκύλισται**, _apokekylistai_, «ha sido rodada fuera», describe la piedra ya retirada; **ἴδετε**, _idete_, «miren», dirige la atención al lugar; y **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta la ausencia de Yehoshua. La comparación con **(ראה)**, _raah_, «ver», y **(קום)**, _qum_, «levantarse», es pedagógica y aproximada: ayuda a ordenar el campo bíblico, pero no sustituye la forma griega ni demuestra una retroversión hebrea.
+
+El anuncio no queda encerrado en la primera escena. **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», envía a las mujeres hacia los discípulos y Kefa; **ὄψεσθε**, _opsesthe_, «verán», conserva la promesa de un encuentro en Galil. Después **ἠπίστησαν**, _ēpistēsan_, «no creyeron», y **ὠνείδισεν**, _ōneidisen_, «reprendió», muestran que el envío del final largo está precedido por testimonio rechazado y corrección. La secuencia impide presentar la misión como una costumbre calendárica nacida del primer día: el mandato descansa en el acontecimiento anunciado y en la autoridad del resucitado.
+
+En 16:15-20, **πορευθέντες**, _poreuthentes_, «habiendo ido» o «vayan», y **κηρύξατε**, _kēryxate_, «proclamen públicamente», convierten la noticia en tarea universal; **πιστεύσας**, _pisteusas_, «el que cree o confía», nombra la respuesta al anuncio. El cierre usa **ἐκήρυξαν**, _ekēryxan_, «proclamaron», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», para mostrar que la palabra sale y que יהוה la confirma. La equivalencia con **(בשורה)**, _besorah_, «buena noticia», es aproximada y contextual. Por tanto, el título público de la clase puede documentar una crítica concreta al «día del Señor», mientras el capítulo probado en orden termina en resurrección, testigos, proclamación y confirmación, no en una institución explícita de otro día.
+
 ## Control final: el marco calendárico queda subordinado al testimonio
 
 La pregunta planteada públicamente por Eric sobre llamar al domingo «el día del Señor» debe mantenerse en el lugar exacto que ocupa en Marcos 16. **διαγενομένου τοῦ σαββάτου**, _diagenomenou tou sabbatou_, «habiendo pasado el Shabat», y **μιᾷ τῶν σαββάτων**, _mia tōn sabbatōn_, «el primero de los Shabat», describen cuándo las mujeres llegan al sepulcro. No son un mandato en modo imperativo ni una fórmula que dé nombre litúrgico al día. La comparación con **(שבת)**, _shabbat_, «reposo o cesación», es útil para explicar el marco, pero no convierte el griego en una retroversión hebrea.
