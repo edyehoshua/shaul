@@ -129,6 +129,18 @@ La dependencia entre las unidades es **directa** en el recorrido del capítulo, 
 - [[romanos_3_ley_pecado_justicia_y_fe|Romanos 3: ley, pecado, justicia y emunah]]
 - [[romanos_4_promesa_emunah_la_descendencia_de_Abraham|Romanos 4: promesa, emunah y la descendencia de Abraham]]
 
+## Estudio desarrollado: la identidad se prueba ante el juicio
+
+Las sesiones públicas asociadas con Romanos 2 convergen en una advertencia verificable: la bondad que demora el juicio debe conducir al retorno, y el nombre religioso no puede reemplazar una respuesta obediente. `youtube:s1GjTmOIsc0` anuncia la teshuvá; `youtube:ARbk1Ce12Ew` anuncia la Torah escrita en el corazón; `youtube:6D7Yj0bDSfU` plantea qué significa ser judío y creyente; y `youtube:58zpHWwa9Xw` contrasta elección y predestinación. Estas formulaciones conservan el foco público de Eric de Jesús Rodríguez Mendoza como paráfrasis atribuible, no como cita literal. Romanos 2 evalúa cada foco en el orden de la perícopa.
+
+En 2:1-5, **(καταφρονέω)**, _kataphroneō_, significa despreciar o tener en poco; su fuerza contextual describe despreciar la bondad, tolerancia y paciencia de Elohim. **(θησαυρίζω)**, _thēsaurizō_, significa acumular o atesorar; en 2:5 presenta la dureza como algo que reúne juicio, no como una demora neutral. Ambas glosas son **directas** en el campo ordinario. La observación sobre la teshuvá recibe apoyo **textual cualificado**: **(μετάνοια)**, _metanoia_, significa cambio de mente o arrepentimiento, y compararla con **תשובה**, _teshuvá_, «retorno», es **pedagógico y aproximado**, no una identidad léxica.
+
+En 2:6-16, **(κρίνω)**, _krinō_, significa juzgar, evaluar o decidir, y **(ἀλήθεια)**, _alētheia_, significa verdad o realidad manifiesta. El juicio «conforme a las obras» es **textual**, pero no debe aislarse para fabricar autosalvación: Romanos 2 establece responsabilidad y Romanos 3 continúa el argumento sobre la jactancia. **(προσωπολημψία)**, _prosōpolēmpsia_, significa favoritismo o acepción de personas; su fuerza directa niega que rango o pertenencia manipulen el juicio. La observación sobre la Torah y la conciencia recibe apoyo **cualificado**, porque **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior de la conducta, no una autoridad autónoma por encima de Elohim.
+
+En 2:17-29, **(καυχάομαι)**, _kauchaomai_, significa gloriarse o jactarse; su fuerza contextual denuncia confiar en el nombre, la Torah o la señal sin practicar lo que se enseña. **(περιτομή)**, _peritomē_, significa circuncisión o corte ritual, mientras **(ἀκροβυστία)**, _akrobystia_, significa incircuncisión. Las glosas son **directas**; el argumento es **cualificado** porque Pablo no llama inútil a la señal, sino que la somete a la condición explícita de hacer la Torah. **(ἔπαινος)**, _epainos_, significa alabanza o aprobación; en 2:29 la aprobación que importa procede de Elohim. Así, la pregunta pública por la identidad recibe apoyo textual sin permitir desprecio étnico ni fatalismo.
+
+La síntesis atribuible queda, por tanto, en tres niveles. Es **directo** que la bondad conduce hacia el retorno, que Elohim juzga sin favoritismo y que la señal separada de la obediencia no protege. Es **aproximado y pedagógico** relacionar _metanoia_ con teshuvá, o corazón con **לב**, _lev_, «corazón o centro interior». Es **inferencial** convertir Romanos 2 en una doctrina completa de elección o predestinación. El capítulo mantiene juntas paciencia, responsabilidad, conciencia, identidad y aprobación divina, y prepara el diagnóstico universal de Romanos 3.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
