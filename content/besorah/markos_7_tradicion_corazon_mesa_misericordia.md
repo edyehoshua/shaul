@@ -100,6 +100,7 @@ Yehoshua responde con #yeshayahu_29_13 y no se detiene en una regla de lavamient
 
 Después de contestar a los dirigentes, Yehoshua llama a la multitud: «Escuchen todos, y consideren atentamente». La secuencia importa. No pronuncia una consigna aislada sobre alimentos; interpreta la acusación previa y después los discípulos le preguntan en privado acerca de la parábola. Lo que entra no llega al corazón sino al vientre; lo que sale del interior contamina. Por eso Marcos enumera actos y disposiciones —adulterios, robos, plan malvado, ojo maligno, injuria, altivez— que sí hieren al prójimo y revelan un corazón desordenado.
 
+<!-- prettier-ignore -->
 Eric objeta que 7:19 se use para afirmar que Yehoshua convirtió en apto para comer todo animal que Vayiqra llama no apto. El alcance inmediato de la objeción es sólido: el relato no debate especies animales sino el lavado de manos, y #vaikra_11_1-8 ofrece categorías dietarias que Marcos no cita ni revisa aquí. A la vez, **(καθαρίζων)**, _katharizōn_, «purificando», es un participio presente que puede leerse como continuación de la explicación («porque no entra en el corazón... purificando todos los alimentos») o, según la puntuación, como una conclusión del narrador. La traducción «purifica toda la comida» comunica el verbo, pero no resuelve por sí sola su sujeto, su alcance ni su relación con Vayiqra. La conclusión sobria es que Marcos 7 dirige la denuncia contra la contaminación moral que sale del corazón y no autoriza leer el episodio como una simple abolición o una simple repetición de todas las normas dietarias.
 
 La palabra **(κοινόω)** ayuda a conservar la pregunta del pasaje. Puede expresar hacer común o contaminar; su empleo aquí no es una etiqueta moderna para «higiene». Eric lo acerca a **(טמא)**, _tame_, pero la equivalencia no es perfecta: cada lengua organiza sus categorías de modo propio. El lector debe retener la fuerza ética que Marcos sí expone: lavarse o no lavarse no produce por sí mismo la lista de males que procede del corazón humano.
@@ -122,8 +123,10 @@ El cierre repite una tensión que atraviesa Marcos: Yehoshua manda no divulgarlo
 
 ## Dependencias textuales: de la tradición a la mesa y al oído
 
+<!-- prettier-ignore -->
 La lectura de Eric sobre tradición y mandamiento debe conservar el movimiento de la perícopa. Marcos primero presenta la acusación sobre manos no lavadas y luego cita el mandamiento de honrar al padre y a la madre (#markos_7_1-13). La palabra **(κορβᾶν)**, _korban_, «ofrenda o don dedicado», no significa por sí sola una institución completa de abuso; su fuerza narrativa aparece cuando una declaración de dedicación se usa para evitar la ayuda debida. El verbo **(ἀκυρόω)**, _akuroō_, «invalidar o dejar sin efecto», describe el resultado que Yehoshua atribuye a esa tradición: la práctica no es juzgada solo por su apariencia ritual, sino por el mandamiento que desplaza.
 
+<!-- prettier-ignore -->
 Después, Yehoshua llama a la multitud y desplaza la discusión desde lo que entra en la persona hacia lo que sale del corazón (#markos_7_14-23). La palabra **(κοινόω)**, _koinoō_, «hacer común o profanar», nombra la contaminación en la explicación del relato, mientras **(καρδία)**, _kardia_, «corazón», es el centro del que proceden pensamientos, engaño, orgullo y otras acciones.
 La tercera escena mantiene la tensión de la mesa. La mujer sirofenicia no borra el orden expresado por Yehoshua —primero los hijos, luego los perritos—, sino que responde dentro de esa imagen y recibe la liberación de su hija (#markos_7_24-30). La palabra **(κυνάρια)**, _kynaria_, «perritos» o perros domésticos pequeños, conserva el diminutivo del texto; no autoriza a convertir el diálogo en una descalificación étnica universal. En la escena final, el mandato arameo **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», produce oídos abiertos y lengua desatada (#markos_7_31-37). El capítulo pasa de una tradición que bloquea el bien a una palabra que restaura la escucha y el habla: esa es una dependencia narrativa más firme que cualquier fórmula reproducible basada en los gestos.
 
@@ -169,6 +172,7 @@ La secuencia local de Marcos 7 impide tratar tradición, dieta, gentiles y sanid
 
 <!-- prettier-ignore -->
 En 7:14-23, **(ἀκούετε)**, _akouete_, «escuchad», y **(καρδία)**, _kardia_, «corazón», desplazan la discusión de lo que entra a lo que sale. Eric objeta que 7:19 se use para declarar aptos todos los animales de Vayiqra; el contexto inmediato es lavado de manos y contaminación moral, y **(καθαρίζων)**, _katharizōn_, «purificando», exige conservar la discusión de puntuación. La equivalencia de **(κοινόω)** con **(טמא)** es aproximada. En 7:24-30, la mujer sirofenicia responde dentro de la imagen de **(πρῶτον)** y **(κυνάρια)**; Eric subraya que no se trata de un insulto étnico cerrado sino de un orden de mesa, y el narrador concede la liberación **(διὰ τοῦτον τὸν λόγον)**, _dia touton ton logon_, «por esta palabra». En 7:31-37, **(ܐܬܦܬܚ)**, _ethpethach_, «ábrete», produce **(ἀνεῴχθησαν)** y **(ἐλύθη)**; la clase lo identifica como arameo y lo compara de modo aproximado con hebreo de «abrir». Así el capítulo pasa de una tradición que bloquea el bien a una palabra que restaura escucha y habla.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar fuentes rabínicas tempranas y su datación para el uso de «cerco para la Torá» (**סייג לתורה**) y para las prácticas de lavado mencionadas por la clase, incluidas las escuelas de Hilel y Shamai.
@@ -176,6 +180,14 @@ En 7:14-23, **(ἀκούετε)**, _akouete_, «escuchad», y **(καρδία)**
 - [ ] Verificar el valor histórico y semántico de **(Ἑλληνίς)** y **(Συροφοινίκισσα)**, y el modo en que Mateo llama «cananea» a la misma mujer.
 - [ ] Cotejar la forma aramea **(ܐܬܦܬܚ)** y su relación precisa con el hebreo **(הפתח)** en gramáticas y léxicos semíticos.
 - [ ] Distinguir, con fuentes primarias, la reconstrucción de las «dos casas» y la diáspora de Israel de lo que Marcos 7 afirma explícitamente.
+
+## Prueba final: escuchar antes de juzgar y responder antes de excluir
+
+La progresión de Marcos 7 ofrece un control adicional sobre la observación de Eric acerca de manos, boca, corazón y oídos. La multitud debe **ἀκούετε** (_akouete_, «escuchad»), pero los perushim juzgan desde una señal exterior; después la explicación identifica **καρδία** (_kardia_, «corazón» o centro interior) como el lugar de donde salen las acciones. El contraste no desprecia las prácticas visibles: pregunta qué autoridad tienen y qué fruto producen. La comparación con **(שמע)**, _shema_, «escuchar y atender», ilumina el trasfondo hebreo de la escucha obediente, pero no sustituye la forma griega ni convierte cada escucha en obediencia automática.
+
+La escena de la mujer prueba ese principio mediante una respuesta verbal. **(ἀποκρίνομαι)**, _apokrinomai_, «responder», describe el acto de entrar en el diálogo; **(λόγος)**, _logos_, «palabra, dicho o mensaje», aparece en la razón explícita de su liberación: «por esta palabra». Eric puede leer la respuesta como una comprensión de prioridad y misericordia, pero Marcos no presenta una fórmula para reclamar milagros. La mujer responde dentro de la imagen de la mesa, y el resultado se confirma en la casa: la hija queda libre. La equivalencia temática con **(ענה)**, _anah_, «responder», es aproximada y pedagógica.
+
+El cierre devuelve la escucha al cuerpo restaurado. **(μογιλάλος)**, _mogilalos_, «de habla dificultosa», identifica la necesidad del hombre; **(ἀκούω)**, _akouō_, «oír o escuchar», y **(λαλέω)**, _laleō_, «hablar», nombran el resultado verificable. La orden **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», no convierte los gestos en una técnica, sino que conduce a oídos abiertos y lengua desatada. Así el capítulo mide toda piedad por su capacidad de escuchar la palabra, proteger el mandamiento, recibir al necesitado y anunciar con claridad; no por la severidad con que inspecciona a otros.
 
 ## Conclusión
 
