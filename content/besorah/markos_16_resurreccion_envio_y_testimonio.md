@@ -209,6 +209,12 @@ La misma subordinación se ve en el cierre largo. La comisión **κηρύξατ�
 
 ## Conclusión
 
+## Control dirigido: del sepulcro comprobable a la palabra confirmada
+
+Marcos ordena la autoridad del testimonio mediante acciones concretas. **(ἀποκεκύλισται)**, _apokekylistai_, «ha sido rodada fuera», presenta la piedra ya retirada; **(ἴδετε)**, _idete_, «miren», dirige a las mujeres al lugar; y **(ἠγέρθη)**, _ēgerthē_, «fue levantado», interpreta la ausencia del cuerpo. La clase de Eric pone el foco en el primer día y el «día del Señor»; el texto permite conservar esa pregunta, pero muestra que el día solo enmarca la visita. El centro de la perícopa es una evidencia recibida y una palabra que debe transmitirse.
+
+La transmisión mantiene una dependencia semejante en el final largo: **(ἀπαγγείλατε)**, _apangeilate_, «anuncien o informen», precede a **(κηρύξατε)**, _kēryxate_, «proclamen públicamente», y ambos desembocan en **(ἐκήρυξαν)**, _ekēryxan_, «proclamaron». La comisión no queda en manos de un mensajero autónomo: **(συνεργοῦντος)**, _synergountos_, «obrando juntamente», y **(βεβαιοῦντος)**, _bebaiountos_, «confirmando o haciendo firme», atribuyen a יהוה el acompañamiento y la confirmación. La equivalencia con **(בשורה)**, _besorah_, es aproximada y pedagógica; la forma griega gobierna la lectura. Por eso la observación calendárica se conserva sin dejar que sustituya resurrección, testigos, misión y confirmación.
+
 Marcos 16 comienza después del Shabat, anuncia que Yehoshua fue levantado y termina enviando testigos a proclamar la buena noticia. El primer día de la semana es el marco temporal de la visita al sepulcro; el capítulo no lo nombra «día del Señor». Esa observación coincide con el foco público del video de Eric, pero la crítica completa del calendario necesita una transcripción y otros textos. Lo que Marcos sí deja inequívoco es el centro del cierre: el resucitado va delante, corrige la incredulidad, manda proclamar y acompaña la palabra anunciada.
 
 ## Síntesis de lectura: el calendario sirve al anuncio

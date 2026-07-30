@@ -280,6 +280,12 @@ El propósito final corrige cualquier lectura triunfalista. **(αἴτησις)*
 
 ## Conclusión
 
+## Control dirigido: la casa y la armadura bajo el mismo Señor
+
+La transición de 6:1-9 a 6:10 no cambia de autoridad: la casa, el trabajo y la resistencia espiritual quedan bajo el mismo Señor. **(κύριος)**, _kyrios_, «señor o dueño», aparece en las relaciones sociales y vuelve a gobernar la fuente de la fortaleza; su sentido contextual no autoriza a trasladar una obediencia antigua a la dominación moderna. En 6:4, **(ἐκτρέφετε)**, _ektrephete_, «críen o alimenten», obliga a los padres a formar sin provocar; en 6:9, **(ἀνιέντες)**, _anientes_, «dejando o cesando», manda a los señores abandonar las amenazas. La observación de Eric sobre autoridad rendida a Elohim recibe apoyo textual precisamente porque el superior también es juzgado.
+
+Solo después de establecer esos límites Pablo ordena **(ἐνδυναμοῦσθε)**, _endynamousthe_, «reciban fuerza o fortalézcanse», y **(στῆναι)**, _stēnai_, «estar de pie o permanecer». La firmeza no crea una élite que domina a otros: se expresa en **(ἀλήθεια)**, _alētheia_, «verdad», **(δικαιοσύνη)**, _dikaiosynē_, «justicia», y **(εἰρήνη)**, _eirēnē_, «paz». La comparación con **(שלום)**, _shalom_, es temática y aproximada; el griego local conserva el argumento. Así, la armadura prueba la enseñanza de Eric por continuidad: autoridad limitada, resistencia no agresiva y oración por todos.
+
 El final de Efesios mantiene la misma dirección de la carta: el Mesías forma un pueblo que vive de otra manera. La firmeza no es agresión contra personas, sino permanecer en el Señor mediante verdad, justicia, paz, fe, salvación, palabra y oración. Pablo termina deseando paz, amor, fe y gracia, no temor ni autosuficiencia.
 
 ## Registro dirigido de la armadura: contexto, paz y lenguaje creado
