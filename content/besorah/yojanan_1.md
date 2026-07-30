@@ -39,6 +39,12 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 - Las lecturas sobre **(מימרא)**, logos y tabernáculo se conservan como línea de trabajo; las ecuaciones con Targum o filosofía helenística quedan pendientes de cotejo.
 - No reproduce un transcript literal; sintetiza material de clase y apuntes previos.
 
+## Ruta textual y atribución de la enseñanza
+
+La parte 2 de la serie empieza con la pregunta de los enviados: «¿Tú quién eres?» (#iojanan_1_19). Eric observa que la pregunta puede buscar procedencia y no sólo una etiqueta personal; contrasta esa escena con la respuesta de Yojanán: «Yo soy la voz de uno que clama en el desierto» (#iojanan_1_23). La observación ayuda a leer el testimonio en su marco geográfico y profético, pero el texto local sigue siendo el control: Yojanán niega ser el Mesías, Eliyahu o el profeta que esperan, y se identifica mediante Isaías.
+
+En las partes 3 y 4, Eric vuelve al prólogo para explicar que **(λόγος)** (_logos_) no debe aplanarse en una abstracción filosófica. Lo acerca a **(מימרא)** (_meymrá_), la expresión activa de Elohim, y relaciona «la Palabra llegó a ser carne» con una presencia real entre el pueblo (#iojanan*1_14). La conexión semítica es atribuida y pedagógica; el texto sí afirma, en orden, que la Palabra estaba al principio, que por ella llegaron a existir todas las cosas, que en ella estaba la vida y que habitó entre nosotros. La parte 4 extiende esa línea a «gracia y verdad» y al Hijo único que declara a Elohim (#iojanan_1_16-18), sin que esas extensiones deban presentarse como una traducción automática de \_meymrá*.
+
 ## Contexto del libro
 
 - La nota sitúa la redacción alrededor de los años 90 d.C.

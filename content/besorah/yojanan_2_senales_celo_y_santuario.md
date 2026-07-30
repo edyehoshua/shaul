@@ -1,7 +1,7 @@
 ---
 title: "Yojanán 2: señales, celo y el santuario"
 description: "Lectura de Yojanán 2:1-25: Caná, el celo por la casa de יהוה y la palabra sobre el santuario."
-date: 2026-07-27
+date: 2026-07-29
 tags:
   - yojanan
   - yojanan_2
@@ -10,14 +10,13 @@ tags:
   - senales
 references:
   - "#iojanan_2_1-11"
+  - "#iojanan_2_12"
   - "#iojanan_2_13-22"
   - "#iojanan_2_23-25"
   - "#tehilim_69_9"
   - "#ieshaiahu_11_3"
 sources:
   - "https://www.youtube.com/watch?v=mvOl-EjSYi0"
-  - "docs/scriptures/tth/json/iojanan.json"
-  - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:mvOl-EjSYi0"
 translation: "[TTH, Delitzsch]"
@@ -25,22 +24,41 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-Yojanán 2 une la primera señal con una confrontación en el área del santuario. El relato presenta la señal de Caná como manifestación de gloria que conduce a los discípulos a afirmarse, y conserva la acción de Yehoshua en el santuario junto con una palabra que los discípulos recuerdan después de su levantamiento.
+Yojanán 2 une la primera señal con una confrontación en el área del santuario. Eric de Jesús Rodríguez Mendoza destaca el vino bueno reservado, la respuesta de los discípulos como fidelidad y el riesgo de convertir el acercamiento a Elohim en comercio; también lee la palabra de los tres días como una señal que apunta a una relación renovada alrededor de Yehoshua. El relato confirma parte de esas observaciones y limita otra parte: Caná manifiesta gloria, la palabra identifica el santuario con el cuerpo de Yehoshua y las señales no sustituyen el conocimiento que Él tiene del ser humano. Esta nota recorre 2:1-11, 2:13-22 y 2:23-25 en ese orden, sin convertir una reconstrucción histórica en texto bíblico.
 
 ## Alcance de la nota
 
 La clase 7 de Eric de Jesús Rodríguez Mendoza sigue #iojanan_2_1-25, con atención a Caná, la purificación del área del santuario y la expresión «tres días». Esta nota contrasta su lectura con el texto local; una transcripción automática no es una cita literal ni basta para establecer afirmaciones históricas o textuales amplias.
 
+## Ruta textual y atribución de la enseñanza
+
+Eric comienza la clase con la fórmula «al tercer día» y reconoce que el punto exacto desde el cual se cuenta no queda resuelto por el relato. Después sigue la escena de Caná: la madre de Yehoshua informa «no tienen vino», él responde «¿qué tengo Yo contigo?» y declara que su hora todavía no ha llegado (#iojanan_2_3-4). La clase entiende la respuesta como una separación de intenciones, no como una obediencia automática a una demanda familiar; el texto local confirma la tensión y conserva la instrucción de la madre a los servidores: «hagan todo lo que Él les diga» (#iojanan_2_5).
+
+En el tramo del santuario, Eric pone en primer plano la casa del Padre, los vendedores y cambistas, y el celo recordado por los discípulos (#iojanan_2_13-17). Luego explica que «Desaten este Hejal» (#iojanan_2_19) no debe quedarse en una disputa sobre un edificio: el narrador aclara que Yehoshua hablaba del santuario de su cuerpo (#iojanan_2_21). La lectura de la clase sobre una relación renovada alrededor de Yehoshua es una inferencia teológica atribuida; la secuencia verificable es gesto, petición de señal, palabra sobre tres días, levantamiento y memoria posterior de la Escritura (#iojanan_2_22).
+
 ## Hoja de comparación
 
-| Referencia       | Texto local                                                                                                                               | Observación                                               |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| #iojanan_2_1     | Delitzsch: **וביום השלישי היתה חתנה בקנה אשר לגליל ואם ישוע היתה שמה**.                                                                   | La escena comienza con una boda en Caná de Galil.         |
-| #iojanan_2_11    | TTH: «Y esto hizo Yeshúa, el comienzo de sus señales, en Cané de Galil, y sacó a relucir su gloria, y sus discípulos se afirmaron en Él». | El narrador interpreta la señal por su función.           |
-| #iojanan_2_16    | TTH: «No hagan la casa de mi Padre por casa de comercio».                                                                                 | La palabra interpreta el gesto dentro del relato.         |
-| #iojanan_2_19    | TTH: «Desaten este Hejal, y en tres días lo levantaré»; Delitzsch: **הרסו את ההיכל הזה ואני בשלשת ימים אקימנו**.                          | La respuesta queda ligada al santuario y a los tres días. |
-| #iojanan_2_21-22 | TTH: «Él hablaba acerca del Hejal de su cuerpo»; después los discípulos recordaron y «se afirmaron por la Escritura».                     | El narrador entrega la aclaración retrospectiva.          |
-| #iojanan_2_23-25 | TTH: «muchos se afirmaron por su Nombre»; pero Yehoshua «no era afirmado su ser por ellos, porque Él los conocía a todos».                | El cierre distingue ver señales de la reciprocidad que el relato atribuye a Yehoshua. |
+| Referencia       | Texto local                                                                                                                                                                                                     | Observación                                                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_2_1     | Delitzsch: **וביום השלישי היתה חתנה בקנה אשר לגליל ואם ישוע היתה שמה**.                                                                                                                                         | La escena comienza con una boda en Caná de Galil.                                                                             |
+| #iojanan_2_3-10  | TTH: «Y al faltar el vino, le dijo la madre de Yeshúa: No tienen vino»; Yehoshua manda llenar seis tinajas, el agua llega a ser vino y el señor del banquete dice: «tú has guardado el vino bueno hasta ahora». | La observación de Eric sobre el contraste entre el vino primero y el reservado queda anclada en la secuencia real del relato. |
+| #iojanan_2_11    | TTH: «Y esto hizo Yeshúa, el comienzo de sus señales, en Cané de Galil, y sacó a relucir su gloria, y sus discípulos se afirmaron en Él».                                                                       | El narrador interpreta la señal por su función.                                                                               |
+| #iojanan_2_12    | TTH: «Después de esto descendió a Kefar Najum, Él y su madre y sus hermanos y sus discípulos; y allí estuvieron no muchos días».                                                                                | El desplazamiento conecta la señal de Caná con la subida posterior a Ierushaláim; no debe omitirse en el orden del capítulo.  |
+| #iojanan_2_13-15 | TTH: «Y estaba cerca el Pésaj de los yehudim, y subió Yeshúa a Ierushaláim»; halló vendedores en el Hejal, hizo un azote de cuerdas, los echó y volcó las mesas.                                                | El gesto en el Hejal inicia la segunda unidad y no queda reducido a una alusión sin texto.                                    |
+| #iojanan_2_16    | TTH: «No hagan la casa de mi Padre por casa de comercio».                                                                                                                                                       | La palabra interpreta el gesto dentro del relato.                                                                             |
+| #iojanan_2_19    | TTH: «Desaten este Hejal, y en tres días lo levantaré»; Delitzsch: **הרסו את ההיכל הזה ואני בשלשת ימים אקימנו**.                                                                                                | La respuesta queda ligada al santuario y a los tres días.                                                                     |
+| #iojanan_2_21-22 | TTH: «Él hablaba acerca del Hejal de su cuerpo»; después los discípulos recordaron y «se afirmaron por la Escritura».                                                                                           | El narrador entrega la aclaración retrospectiva.                                                                              |
+| #iojanan_2_23-25 | TTH: «muchos se afirmaron por su Nombre»; pero Yehoshua «no era afirmado su ser por ellos, porque Él los conocía a todos».                                                                                      | El cierre distingue ver señales de la reciprocidad que el relato atribuye a Yehoshua.                                         |
+
+## El «tercer día» y la señal que comienza en Caná
+
+Eric se detiene en #iojanan_2_1: «al tercer día». Lo relaciona con la cadena de «al día siguiente» que precede a la boda y reconoce que el punto desde el cual se cuenta no queda completamente explícito; también menciona propuestas sobre el día habitual de ciertas bodas y variantes manuscritas. El texto local confirma la fórmula temporal y la boda en Caná, pero no resuelve por sí solo el calendario, la costumbre matrimonial ni una variante de copia. Por eso la nota conserva la observación como una pregunta textual, no como dato histórico cerrado.
+
+La respuesta de Yehoshua a su madre también recibe una lectura concreta en la clase. Eric entiende «¿qué tengo Yo contigo?» como una separación de intenciones: ella señala la falta de vino, pero él no se somete a una exigencia familiar ni anuncia de antemano el modo de actuar. La forma griega **(τί ἐμοὶ καὶ σοί)** (_ti emoi kai soi_) significa literalmente «¿qué a mí y a ti?»; su fuerza contextual es una pregunta de relación o pertinencia, y la traducción «¿qué tengo Yo contigo?» es aproximada. La frase «mi hora todavía no ha llegado» limita la escena, mientras la instrucción de María a los servidores —«hagan todo lo que Él les diga»— deja el resultado bajo la palabra de Yehoshua.
+
+El v. 12 no debe saltarse entre Caná y Pésaj: después de la señal, Yehoshua baja a Kefar Najum con su madre, sus hermanos y sus discípulos, y permanecen allí pocos días. El movimiento prepara la subida a Ierushaláim y muestra que la primera señal no es una escena aislada del itinerario del capítulo.
+
+El desplazamiento también evita una falsa unión temporal entre la boda y la purificación. **(καταβαίνω)** (_katabainō_) significa bajar o descender; en este verso describe el movimiento hacia Kefar Najum. **(μένω)** (_menō_) significa permanecer, quedarse o habitar; «estuvieron no muchos días» es una traducción contextual que conserva una estancia breve, no una pausa indefinida. La clase concentra su argumento en Caná y el Hejal, pero el texto local conserva esta transición como parte de la perícopa: la señal produce afirmación de los discípulos y luego el grupo continúa el camino.
 
 ## La señal no se agota en el prodigio
 
@@ -50,9 +68,11 @@ La clase atiende al contraste narrativo entre la petición por falta de vino y l
 
 La unidad no termina en la orden de llenar las tinajas. El maestresala prueba el vino sin conocer su procedencia, mientras los servidores sí conocen el proceso; el narrador reserva para el v. 11 la interpretación de lo ocurrido. Ese detalle sostiene la observación de Eric sobre el vino «reservado» como contraste narrativo, pero no autoriza a asignar un simbolismo independiente a cada tinaja. La primera señal funciona porque revela la gloria de Yehoshua y conduce a sus discípulos a afirmarse en Él.
 
-La acción se describe con una cadena precisa: Yehoshua ordena llenar las tinajas «hasta arriba», manda sacar y llevar al maestresala, y éste prueba el agua «hecha vino» sin conocer su origen (#iojanan_2_7-9). Eric llama la atención sobre la diferencia entre quienes sirven y quien evalúa el resultado: los primeros conocen la obediencia concreta, mientras el segundo sólo pronuncia el juicio sobre la calidad. El verbo **(ποιέω)** (_poieō_) tiene como sentido normal hacer o producir; aquí «hizo» no convierte el episodio en una fórmula técnica sobre la materia, pues el narrador lo llama «comienzo de sus señales» y explica su finalidad en el v. 11. La relación con **(אות)** (_ot_, señal) es aproximada y pedagógica: ayuda a conectar la lectura semítica de la clase con el griego del relato, pero no reemplaza la palabra local «señal».
+La acción se describe con una cadena precisa: Yehoshua ordena llenar las tinajas «hasta arriba», manda sacar y llevar al maestresala, y éste prueba el agua «hecha vino» sin conocer su origen (#iojanan_2_7-9). Eric llama la atención sobre la diferencia entre quienes sirven y quien evalúa el resultado: los primeros conocen la obediencia concreta, mientras el segundo sólo pronuncia el juicio sobre la calidad. El verbo **(ποιέω)** (\_poieō\*) tiene como sentido normal hacer o producir; aquí «hizo» no convierte el episodio en una fórmula técnica sobre la materia, pues el narrador lo llama «comienzo de sus señales» y explica su finalidad en el v. 11. La relación con **(אות)** (\_ot\*, señal) es aproximada y pedagógica: ayuda a conectar la lectura semítica de la clase con el griego del relato, pero no reemplaza la palabra local «señal».
 
 La progresión que Eric destaca queda visible sólo si se mantienen juntos los vv. 7-11: mandato a los servidores, resultado que el maestresala no sabe explicar, evaluación del «vino bueno» y, finalmente, interpretación del narrador. «Esto hizo Yeshúa, el comienzo de sus señales, en Cané de Galil, y sacó a relucir su gloria, y sus discípulos se afirmaron en Él» (#iojanan_2_11) es el control textual de la lectura. Por eso la clase puede usar el vino reservado como figura de una revelación que llega a su momento, pero no debe presentar cada detalle del banquete como un símbolo independiente ni desplazar la finalidad explícita: gloria manifestada y discípulos afirmados.
+
+La transición de #iojanan_2_11 a #iojanan_2_13 también importa para la lectura de Eric. El relato dice primero que Yehoshua bajó a Kefar Najum con su madre, sus hermanos y sus discípulos, y que allí estuvieron «unos días, no muchos» (#iojanan_2_12); sólo después anuncia la cercanía del Pésaj y la subida a Yerushaláim. La clase enlaza Caná y el santuario como una progresión de señales, pero esta bisagra impide tratarlos como una sola escena continua. **(μετά)**, \_meta\*, puede marcar «después de» o una relación temporal/contextual; aquí la traducción temporal es **exacta en función narrativa**, aunque no fija por sí sola la duración de cada intervalo. Así, el texto local conserva tanto la señal que manifiesta gloria como el itinerario que conduce al conflicto del Hejal.
 
 ## Los discípulos y la respuesta a la señal
 
@@ -62,12 +82,12 @@ La secuencia del capítulo también importa: la comprensión plena no se atribuy
 
 ## Hoja léxica
 
-| Forma | Transliteración | Sentido habitual | Fuerza en este capítulo | Equivalencia y límite |
-| --- | --- | --- | --- | --- |
-| **(σημεῖον)** | semeion | señal | En #iojanan_2_11 y #iojanan_2_23 no designa sólo un hecho admirable: el narrador la vincula con gloria y con la respuesta de quienes la ven. | «Señal» es una traducción aproximada y suficiente aquí; no convierte cada detalle de Caná en un código independiente. |
-| **(πιστεύω)** | pisteuo | confiar, creer, afirmarse | La repetición en #iojanan_2_11, #iojanan_2_22 y #iojanan_2_23-24 sostiene la observación de Eric sobre una respuesta que involucra fidelidad; el contraste final impide tratarla como una reacción automática a lo visible. | La relación pedagógica con **(אמן)**, *aman*, «ser firme/fiel», no es una equivalencia léxica exacta entre el griego y el hebreo. |
-| **(ναός)** | naos | santuario, recinto sagrado | En #iojanan_2_19-21 la pregunta sobre el edificio recibe la aclaración narrativa: Yehoshua hablaba del santuario de su cuerpo. | Delitzsch usa **(היכל)**, *hejal*, «santuario/palacio». Es una traducción hebrea del griego, no prueba de que las formas sean idénticas. |
-| **(δόξα)** | doxa | gloria, honra manifiesta | #iojanan_2_11 define el resultado de Caná antes de explicar sus posibles figuras: la señal hace visible la gloria de Yehoshua. | «Gloria» traduce de modo aproximado; no debe reducirse a prestigio humano ni identificarse sin resto con **(כבוד)**, *kavod*. |
+| Forma         | Transliteración | Sentido habitual           | Fuerza en este capítulo                                                                                                                                                                                                     | Equivalencia y límite                                                                                                                    |
+| ------------- | --------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **(σημεῖον)** | semeion         | señal                      | En #iojanan_2_11 y #iojanan_2_23 no designa sólo un hecho admirable: el narrador la vincula con gloria y con la respuesta de quienes la ven.                                                                                | «Señal» es una traducción aproximada y suficiente aquí; no convierte cada detalle de Caná en un código independiente.                    |
+| **(πιστεύω)** | pisteuo         | confiar, creer, afirmarse  | La repetición en #iojanan_2_11, #iojanan_2_22 y #iojanan_2_23-24 sostiene la observación de Eric sobre una respuesta que involucra fidelidad; el contraste final impide tratarla como una reacción automática a lo visible. | La relación pedagógica con **(אמן)**, _aman_, «ser firme/fiel», no es una equivalencia léxica exacta entre el griego y el hebreo.        |
+| **(ναός)**    | naos            | santuario, recinto sagrado | En #iojanan_2_19-21 la pregunta sobre el edificio recibe la aclaración narrativa: Yehoshua hablaba del santuario de su cuerpo.                                                                                              | Delitzsch usa **(היכל)**, _hejal_, «santuario/palacio». Es una traducción hebrea del griego, no prueba de que las formas sean idénticas. |
+| **(δόξα)**    | doxa            | gloria, honra manifiesta   | #iojanan_2_11 define el resultado de Caná antes de explicar sus posibles figuras: la señal hace visible la gloria de Yehoshua.                                                                                              | «Gloria» traduce de modo aproximado; no debe reducirse a prestigio humano ni identificarse sin resto con **(כבוד)**, _kavod_.            |
 
 ## Celo, casa y santuario
 
@@ -81,7 +101,7 @@ La conversación de #iojanan_2_18-22 no autoriza a sustituir sin más el sentido
 
 Eric entiende la expulsión de los animales y el vuelco de las mesas como una señal pedagógica que anticipa una relación renovada alrededor de Yehoshua. La nota conserva esa línea como interpretación de la clase, no como una conclusión que el texto formule con esas palabras. El dato explícito es más sobrio y suficiente: quienes piden una señal reciben una palabra sobre el Hejal, y el narrador conecta esa palabra con el cuerpo de Yehoshua y su levantamiento.
 
-La secuencia verbal también impide separar la protesta del santuario de la memoria pascual: los discípulos recuerdan «el celo de tu casa me consumió» (#tehilim_69_9), los dirigentes piden una señal y Yehoshua responde: «Desaten este Hejal, y en tres días lo levantaré» (#iojanan_2_19). El verbo **(ἐγείρω)** (_egeirō_) significa levantar, despertar o hacer levantarse; aquí el narrador lo interpreta mediante «el Hejal de su cuerpo» y el recuerdo posterior de los discípulos. La relación que Eric propone entre limpieza del recinto y una relación renovada puede conservarse como lectura teológica; la fuerza local comprobable es que el cuerpo de Yehoshua reinterpreta el santuario y que la comprensión llega después de su levantamiento.
+La secuencia verbal también impide separar la protesta del santuario de la memoria pascual: los discípulos recuerdan «el celo de tu casa me consumió» (#tehilim_69_9), los dirigentes piden una señal y Yehoshua responde: «Desaten este Hejal, y en tres días lo levantaré» (#iojanan_2_19). El verbo **(ἐγείρω)** (\_egeirō\*) significa levantar, despertar o hacer levantarse; aquí el narrador lo interpreta mediante «el Hejal de su cuerpo» y el recuerdo posterior de los discípulos. La relación que Eric propone entre limpieza del recinto y una relación renovada puede conservarse como lectura teológica; la fuerza local comprobable es que el cuerpo de Yehoshua reinterpreta el santuario y que la comprensión llega después de su levantamiento.
 
 ## Señales vistas y el conocimiento de Yehoshua
 
@@ -91,11 +111,13 @@ Esto completa el recorrido en orden: Caná manifiesta gloria (#iojanan_2_1-11); 
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Observación concreta tomada de Eric | Evaluación en la nota |
-| --- | --- | --- |
-| #iojanan_2_1-11 | Eric lee el vino reservado como contraste pedagógico y destaca que los servidores conocen el proceso mientras el maestresala evalúa el resultado. | Apoyo textual cualificado: la nota sigue los vv. 7-11 y limita el simbolismo a la finalidad explícita de gloria y afirmación. |
-| #iojanan_2_13-17 | Eric relaciona la expulsión de animales y cambistas con la santidad de la casa y el riesgo de convertir el acercamiento en beneficio. | Apoyo textual: el reproche por la casa del Padre se conserva; los detalles económicos históricos quedan pendientes. |
-| #iojanan_2_18-25 | Eric conecta la palabra sobre el santuario con una relación renovada y advierte que las señales no bastan para conocer el corazón. | Apoyo textual cualificado: el narrador identifica el santuario con el cuerpo y distingue señales de conocimiento humano; la aplicación de Isaías queda pendiente. |
+| Unidad textual               | Observación concreta de la clase                                                                                                                             | Tratamiento en esta nota                                                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_2_1-11              | Eric destaca el contraste entre la falta de vino y el vino bueno reservado «hasta ahora», y propone una figura pedagógica del Mesías, no dos mesías rivales. | Inferencia cualificada: se conserva la propuesta, pero el texto local ancla la unidad en señal, gloria y la respuesta de los discípulos.                        |
+| #iojanan_2_11, #iojanan_2_22 | La clase prefiere describir la respuesta de los discípulos como fidelidad manifestada, antes que adhesión intelectual.                                       | Clarificación léxica: **(πιστεύω)**, _pisteuo_, se explica en relación pedagógica —no exacta— con **(אמן)**, _aman_; la TTH ofrece «se afirmaron».              |
+| #iojanan_2_13-17             | Eric relaciona el gesto contra comerciantes y cambistas con la santidad de la casa y con el riesgo de convertir el acercamiento a Elohim en beneficio.       | Apoyo textual para la casa del Padre y #tehilim_69_9; la reconstrucción económica concreta queda pendiente de documentación histórica.                          |
+| #iojanan_2_18-22             | La clase lee la expulsión y la palabra sobre los tres días como una señal pedagógica de una relación renovada alrededor de Yehoshua.                         | Inferencia cualificada: el narrador identifica el **(ναός)**, _naos_, con el cuerpo de Yehoshua; el alcance renovador se mantiene como formulación de la clase. |
+| #iojanan_2_23-25             | Eric vincula la respuesta ante las señales con la advertencia de no decidir sólo por apariencia, evocando #ieshaiahu_11_3.                                   | Apoyo textual para la distinción entre respuesta pública y conocimiento de Yehoshua; la aplicación de Isaías queda pendiente de verificación.                   |
 
 ## Pendiente de verificar
 
@@ -117,3 +139,4 @@ Caná y el santuario pertenecen a una misma secuencia narrativa: una señal mani
 Esta nota usa una transcripción automática, que puede contener errores y no sustituye la escucha ni una edición crítica. Se agradece al **hermano Eric de Jesús Rodríguez Mendoza** por la enseñanza usada:
 
 - «El evangelio según Yojanán / Juan (Parte 7): Kanáh de Galil - Yerushaláyim» — https://www.youtube.com/watch?v=mvOl-EjSYi0 — (`youtube:mvOl-EjSYi0`).
+- Esta fuente pública se cita sólo por su URL y `source_id`; no se expone ninguna ruta local de transcripción.
