@@ -36,7 +36,7 @@ Tehilim 52 confronta al «héroe» de la lengua engañosa con el que confía en 
 
 ## Alcance de la nota
 
-La fuente es la clase que resume Tehilim 52 y continúa en Tehilim 55. La transcripción automática es ruidosa en términos hebreos; se conservan las observaciones argumentales claras y se califican las propuestas léxicas. El hebreo se cita desde OE normalizado, sin barras morfológicas. La nota hermana de Tehilim 55 remite aquí para el `source_id`.
+La fuente pública es la clase que resume Tehilim 52 y continúa en Tehilim 55; se conserva el enlace de YouTube y el `source_id` como identificación estable. La transcripción automática es ruidosa en términos hebreos; se conservan las observaciones argumentales claras y se califican las propuestas léxicas. El hebreo se cita desde OE normalizado, sin barras morfológicas. La nota hermana de Tehilim 55 remite aquí para el mismo `source_id`.
 
 ## Hoja de comparación
 
