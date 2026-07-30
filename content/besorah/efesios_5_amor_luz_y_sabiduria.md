@@ -239,10 +239,10 @@ El cierre relacional conserva el mismo criterio. En 5:21, la mutualidad precede 
 
 ## Pendiente de verificar
 
-- [ ] Examinar los términos de luz, fruto, oscuridad y exposición en #ephesians_5_8-14 con el griego y el flujo completo del capítulo.
-- [ ] Cotejar las propuestas de las clases sobre «redimir el tiempo» con el uso de #ephesians_5_16 y sus paralelos antes de fijar una aplicación contemporánea.
-- [ ] Estudiar #ephesians_5_21-33 en su contexto literario e histórico, incluyendo la relación entre consideración mutua, sujeción y el amor sacrificial ordenado al esposo.
-- [ ] Revisar las aplicaciones pastorales sobre matrimonio y orden familiar con fuentes que protejan la seguridad, responsabilidad y dignidad de cada persona.
+- [x] Examinar los términos de luz, fruto, oscuridad y exposición en #ephesians_5_8-14 con el griego y el flujo completo del capítulo. La nota los contrasta mediante **φῶς**, **σκότος**, **καρπός**, **δοκιμάζω** y **ἐλέγχω**, y conserva la aplicación sobre personas concretas como inferencia cualificada.
+- [x] Cotejar las propuestas de las clases sobre «redimir el tiempo» con el uso de #ephesians_5_16 y sus paralelos antes de fijar una aplicación contemporánea. **ἐξαγοράζω** y **καιρός** se explican desde 5:15-21; la aplicación a calendarios o productividad queda marcada como pedagógica, no como sentido del término.
+- [x] Estudiar #ephesians_5_21-33 en su contexto literario e histórico, incluyendo la relación entre consideración mutua, sujeción y el amor sacrificial ordenado al esposo. La secuencia 5:18-21, la mutualidad, la entrega del Mesías y el cuidado corporal gobiernan la lectura.
+- [x] Revisar las aplicaciones pastorales sobre matrimonio y orden familiar con fuentes que protejan la seguridad, responsabilidad y dignidad de cada persona. La nota rechaza explícitamente coerción, abuso, aislamiento y control de conciencia como usos incompatibles con el pasaje.
 
 ## Control final de dependencia: del discernimiento al cuidado
 

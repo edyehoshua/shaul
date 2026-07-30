@@ -327,10 +327,10 @@ La consecuencia textual es comunitaria: **(προσευχόμενοι)**, _prose
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los efesios (parte 31) Cap 6» — https://www.youtube.com/watch?v=v03-WzaF5uw (`source_id: youtube:v03-WzaF5uw`).
-- «La carta a los efesios (parte 32) Cap 6» — https://www.youtube.com/watch?v=nwno_x1eN6E (`source_id: youtube:nwno_x1eN6E`).
-- «La carta a los efesios (parte 33) Cap 6» — https://www.youtube.com/watch?v=2mgGFv_NC_w (`source_id: youtube:2mgGFv_NC_w`).
-- «La carta a los Efesios (parte 34) Cap 6» — https://www.youtube.com/watch?v=Hej3xxIb85o (`source_id: youtube:Hej3xxIb85o`).
-- «La carta a los efesios (parte 35) Cap 6 FINAL» — https://www.youtube.com/watch?v=O1YNAgZXzdo (`source_id: youtube:O1YNAgZXzdo`).
+- «La carta a los Efesios (parte 31) Cap 6: Hijos y padres» — https://www.youtube.com/watch?v=v03-WzaF5uw (`source_id`: `youtube:v03-WzaF5uw`).
+- «La carta a los Efesios (parte 32) Cap 6: Siervos y señores» — https://www.youtube.com/watch?v=nwno_x1eN6E (`source_id`: `youtube:nwno_x1eN6E`).
+- «La carta a los Efesios (parte 33) Cap 6: La armadura de Elohim» — https://www.youtube.com/watch?v=2mgGFv_NC_w (`source_id`: `youtube:2mgGFv_NC_w`).
+- «La carta a los Efesios (parte 34) Cap 6: La armadura y la palabra» — https://www.youtube.com/watch?v=Hej3xxIb85o (`source_id`: `youtube:Hej3xxIb85o`).
+- «La carta a los Efesios (parte 35) Cap 6: Oración y cierre» — https://www.youtube.com/watch?v=O1YNAgZXzdo (`source_id`: `youtube:O1YNAgZXzdo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.
