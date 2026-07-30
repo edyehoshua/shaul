@@ -269,6 +269,14 @@ La unidad del capítulo depende de no convertir las comparaciones hebreas en tra
 
 En 12:35-37, **(κύριος)**, _kyrios_, «señor», recibe su fuerza por la relación entre la palabra de יהוה y «mi Señor» en el Salmo 110. **אדני**, _adoni_, «mi señor», es la forma hebrea comparada del salmo, no una prueba independiente de una solución metafísica. Finalmente, **(βίος)**, _bios_, «vida o medios de vida», y **(ὑστέρημα)**, _hysterēma_, «carencia o déficit», explican por qué la ofrenda de la viuda es total; no transforman su pobreza en una cuota religiosa. Cada equivalencia sirve a su perícopa y queda limitada por el contexto inmediato.
 
+## Verificación dirigida: la confesión se mide por el cuidado (12:28-44)
+
+La transición desde el Shemá hasta la viuda impide dejar el amor en una afirmación abstracta. **ἀκούω**, _akouō_, «oír o escuchar», y **ἀγαπάω**, _agapaō_, «amar», aparecen en el tramo donde el escriba reconoce que amar a יהוה y al prójimo vale más que holocaustos y sacrificios. El veredicto **οὐ μακρὰν**, _ou makran_, «no lejos», conserva una distancia narrativa: comprender la prioridad del mandamiento es una orientación correcta, pero no una prueba automática de obediencia. La comparación con **(שמע)**, _shema_, «escuchar y atender», sigue siendo de campo semántico; no convierte cada escucha en obediencia consumada.
+
+La pregunta por David continúa esa prueba de comprensión. **λέγουσιν**, _legousin_, «dicen», atribuye a los escribas la fórmula «hijo de David»; **εἶπεν**, _eipen_, «dijo», introduce la palabra de David por el Rúaj HaKódesh; y **πῶς**, _pōs_, «cómo», obliga a explicar por qué la filiación no agota la identidad del Mesías. Eric puede conservar su lectura unitaria como síntesis doctrinal atribuida, pero **κύριος**, _kyrios_, «señor», no resuelve por sí solo toda metafísica. La forma comparada **(אדני)**, _adoni_, «mi señor», ayuda a seguir el Salmo 110 sin borrar la distinción entre el nombre de יהוה y el título del destinatario.
+
+El cierre hace visible el costo de una religión que no protege al vulnerable. **κατεσθίω**, _katesthiō_, «devorar o consumir», describe la conducta de los escribas; **προφάσει**, _prophasei_, «pretexto o apariencia», muestra que la oración larga puede cubrir explotación. En contraste, **ὑστέρημα**, _hysterēma_, «carencia o déficit», y **βίος**, _bios_, «vida o medios de vida», explican la entrega de la viuda desde su sustento. La observación de Eric sobre una vida entregada está apoyada por la comparación entre excedente y carencia, pero la secuencia impide usarla para exigir empobrecimiento. Marcos hace que el amor confesado sea verificable: una comunidad que ama al prójimo no devora su casa.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el rango de **(אחד)** en #devarim_6_4 antes de presentar “indivisible” como más que una aplicación teológica.
