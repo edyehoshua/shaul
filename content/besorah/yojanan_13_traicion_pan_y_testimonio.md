@@ -59,13 +59,14 @@ Esta nota organiza dos clases consecutivas de Eric de Jesús sobre #iojanan_13_1
 | #tehilim_41_9     | TTH: «Incluso el hombre de mi shalom, en quien yo confiaba, el que comía de mi pan, ha engrandecido sobre mí su talón.»                                                               | El salmo aporta el lenguaje de paz, pan y talón que Yojanán recoge.                                        |
 | #iojanan_13_19-20 | TTH: «Desde ahora Yo les digo, antes de que sea; para que cuando sea, se afirmen, porque Yo soy… el que reciba al que Yo enviaré, me recibirá a Mí.»                                  | El anuncio previo busca sostener la afirmación de los discípulos y continúa el tema del envío.             |
 | #iojanan_13_21    | TTH: «Y cuando dijo Yeshúa estas palabras, se estremeció en su espíritu… uno de ustedes me entregará.»                                                                                | La entrega no se describe con indiferencia; conmueve a Yehoshua.                                           |
+| #iojanan_13_24-26 | TTH: «Shimón Kefa le hizo señal… ¿quién es aquel de quien habla?… Es aquel a quien Yo dé el bocado después de mojarlo»; Yehoshua mojó el bocado y se lo dio a Iehudáh. | La pregunta pública recibe una identificación reservada mediante un acto concreto de mesa. |
 | #iojanan_13_25-27 | Delitzsch: «אדני מי הוא … זה הוא אשר אטבללו פרוסה ונתתיה לו … ואחרי אכלו את הפרוסה בא השטן אל קרבו»                                                                                   | La pregunta reservada recibe una señal: el bocado sumergido dado a Iehudáh.                                |
 | #iojanan_13_28-30 | TTH: «Ninguno de los que estaban sentados en la ronda entendió… Y cuando tomó el bocado de pan, rápidamente salió. Y era de noche.»                                                   | Los otros no comprenden el sentido del encargo; el relato marca la salida de Iehudáh.                      |
 | #bereshit_3_15    | OE: «ואיבה אשית בינך ובין האשה ובין זרעך ובין זרעה הוא ישופך ראש ואתה תשופנו עקב»                                                                                          | La clase asocia el motivo del talón con esta promesa; la conexión es intertextual, no una cita de Yojanán. |
 
 ## Escritura, cercanía y el talón
 
-Yojanán cita #tehilim*41_9 para hablar de quien come del mismo pan y levanta el talón. El salmo nombra a un «hombre de mi shalom», de confianza y mesa compartida; el golpe procede, por tanto, de una proximidad real. La clase destaca el término **(עקב)**, \_aqev* («talón»), y lo relaciona con #bereshit_3_15. Esa relación puede servir como ruta de lectura bíblica, pero no demuestra por sí sola que cada aparición de «talón» tenga un sentido mesiánico técnico.
+Yojanán cita #tehilim_41_9 para hablar de quien come del mismo pan y levanta el talón. El salmo nombra a un «hombre de mi shalom», de confianza y mesa compartida; el golpe procede, por tanto, de una proximidad real. La clase destaca el término **(עקב)**, _aqev_, «talón», y lo relaciona con #bereshit_3_15. Esa relación puede servir como ruta de lectura bíblica, pero no demuestra por sí sola que cada aparición de «talón» tenga un sentido mesiánico técnico.
 
 La frase «para que se llene la Escritura» (#iojanan_13_18) no cancela la responsabilidad moral de Iehudáh ni explica mecánicamente cómo se relacionan la presciencia, la traición y el propósito de יהוה. La clase desarrolla una explicación amplia sobre elección y maldad; esta nota retiene únicamente el hecho textual: Yehoshua conoce a los escogidos, anuncia la traición y apela a la Escritura.
 
@@ -73,13 +74,15 @@ La frase «para que se llene la Escritura» (#iojanan_13_18) no cancela la respo
 
 #iojanan_13_19 vincula la anticipación con la respuesta de los discípulos: Yehoshua lo dice antes de que ocurra «para que cuando sea, se afirmen». Inmediatamente, #iojanan_13_20 retoma la recepción del enviado. Así, el pasaje no se concentra solo en descubrir al traidor: también prepara a quienes recibirán la comisión de Yehoshua y deben permanecer afirmados ante lo que viene.
 
-La clase propone una relación entre el enviado de #iojanan*13_20 y la figura de **(שליח)**, \_shaliaj*. Conviene mantenerla como analogía pedagógica: el versículo emplea el vocabulario griego de envío y su equivalencia jurídica exacta con el uso rabínico posterior requiere cotejo histórico y lingüístico.
+La clase propone una relación entre el enviado de #iojanan_13_20 y la figura de **(שליח)**, _shaliaj_. Conviene mantenerla como analogía pedagógica: el versículo emplea el vocabulario griego de envío y su equivalencia jurídica exacta con el uso rabínico posterior requiere cotejo histórico y lingüístico.
 
 ## El bocado y la salida de Iehudáh
 
 Tras el anuncio de #iojanan_13_21, los discípulos no saben de quién habla (#iojanan_13_22). La pregunta de un discípulo amado recibe una respuesta particular: Yehoshua dará el bocado sumergido a la persona indicada (#iojanan_13_25-26). Iehudáh recibe ese bocado; después, Yehoshua le manda hacer pronto lo que hará (#iojanan_13_27), pero los demás interpretan el encargo desde su función de administrar la bolsa (#iojanan_13_28-29). Finalmente, Iehudáh sale de noche (#iojanan_13_30).
 
 La clase distingue con cuidado tres referencias posibles al pan: la comida compartida, el bocado identificado en #iojanan_13_26 y el pan partido de los relatos sinópticos. Esta distinción es una observación razonable del relato: Yojanán no llama al bocado «mi cuerpo» ni narra en este capítulo las palabras de institución que aparecen en los sinópticos.
+
+El orden inmediato añade un detalle que la reconstrucción de la clase debe conservar: Kefa no pregunta desde una conversación privada con Yehoshua, sino que hace una señal al discípulo amado; éste se inclina y pregunta, y sólo entonces llega la identificación mediante el bocado (#iojanan_13_24-26). **(ἄρτος)** (_artos_) es el término normal para «pan» en el vocabulario de la cena, mientras **(ψωμίον)** (_psōmion_) designa aquí un bocado o porción pequeña. La relación entre ambas formas es exacta sólo en el campo general del alimento; no son intercambiables en esta escena. Así se preserva la observación de Eric sobre la diferencia entre el bocado y el pan partido, sin afirmar que el relato resuelva por sí solo toda la cronología sinóptica.
 
 ## La propuesta de armonización y sus límites
 

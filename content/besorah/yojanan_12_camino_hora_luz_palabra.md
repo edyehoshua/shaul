@@ -321,6 +321,8 @@ La clase insiste correctamente en que oír y guardar no deben separarse en una r
 - [[yojanan_12_luz_emunah_kabod|Luz, emunah y kabod]] — #iojanan_12_36-47; `youtube:AYrCYjkwyYo`.
 - [[yojanan_12_palabra_juicio_vida_olam|Palabra, juicio y vida olam]] — #iojanan_12_47-50; `youtube:dKqd5lQXyEA`.
 
+El cierre debe leerse sin borrar sus pasos intermedios. Primero, Yehoshua clama que quien se afirma en Él se afirma en quien lo envió (#iojanan_12_44); luego declara que quien lo ve ve al que lo envió y que vino como Luz para que el que se afirma no permanezca en oscuridad (#iojanan_12_45-46). Después distingue la finalidad de su venida —salvar al olam— del juicio futuro de la palabra rechazada (#iojanan_12_47-48), y termina diciendo que no habla por iniciativa propia: el mandamiento del Padre es vida olam (#iojanan_12_49-50). Eric usa esta cadena para insistir en oír y guardar, pero el texto local es el que sostiene el recorrido afirmación–visión–luz–salvación–juicio–mandamiento. **(ἀκούω)** (_akouō_), «oír» o «escuchar», tiene aquí fuerza de recepción de un mensaje; su relación con «guardar» en la aplicación de la clase es pedagógica y contextual, no una equivalencia léxica automática.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar las afirmaciones léxicas sobre **(כבד / כבוד)**, δόξα y el uso de «glorificar» en Yojanán.
