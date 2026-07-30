@@ -282,6 +282,12 @@ BarTimai cierra el control con una respuesta visible. **ἐλέησον**, _ele�
 
 Marcos 10 no permite separar vida perdurable, alianza, comunidad y camino de la cruz. El reino se recibe; la riqueza no puede comprarlo; el discípulo no puede usar lo que dejó para reclamar superioridad. Yehoshua avanza hacia la entrega y convierte el servicio en la medida de la grandeza. BarTimai, que recibe vista y sigue por el camino, ofrece la imagen final de una respuesta que deja atrás la pretensión de controlar al Mesías.
 
+## Control de los términos arameos en el cierre
+
+El nombre **בר־טימאי**, _bar-Timai_, es una forma aramea compuesta por **bar**, «hijo de», y el nombre propio Timai; Marcos lo traduce para el lector como «hijo de Timai». No es un título mesiánico: el título argumental que el ciego grita es **υἱὲ Δαυίδ**, _huie Dauid_, «Hijo de David», una designación griega de expectativa real. La distinción importa porque el relato une el nombre personal con la súplica, pero reserva el reconocimiento mesiánico para la invocación pública.
+
+También **ῥαββουνί**, _rabbouni_, «mi maestro» o «mi rabino», es una forma aramea de tratamiento respetuoso, no una fórmula que obligue la sanidad. En 10:51 aparece dentro de la respuesta concreta «que recobre la vista»; el verbo **ἀναβλέπω**, _anablepō_, «ver de nuevo o recobrar la vista», y el seguimiento posterior prueban el movimiento de la escena. Su relación con **רבי**, _rabí_, «mi maestro», es una comparación semítica funcional, no una prueba de que todo el diálogo griego sea una transcripción aramea. Así se explica el vocabulario argumental sin borrar el texto local ni convertir la súplica de BarTimai en una técnica espiritual.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
