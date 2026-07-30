@@ -232,6 +232,14 @@ En Romanos 10:12-13, **(ἐπικαλέω)**, _epikaleō_, significa invocar, ll
 
 La clase también subraya que no basta una respuesta momentánea producida por una necesidad. Romanos 10:14-17 conserva el orden: oír requiere un anunciador, el anuncio requiere envío y la emunah viene de la escucha de la palabra del Mesías. **(ἀκοή)**, _akoē_, significa oído, escucha o mensaje oído; aquí puede referirse tanto al acto de oír como al contenido recibido, por lo que «sonido» sería **demasiado estrecho**. **(ῥῆμα)**, _rhēma_, significa palabra, declaración o mensaje pronunciado; su fuerza contextual es el mensaje anunciado, y su relación pedagógica con **דבר**, _davar_, «palabra, asunto o declaración», es **aproximada**, no etimológica. La enseñanza de Eric recibe apoyo **cualificado** cuando rechaza una invocación vacía, pero el cierre de la perícopa conserva la responsabilidad de Israel al oír y contradecir.
 
+## Reparación final: traducción, atribución y alcance de la respuesta
+
+La lectura de Eric sobre la palabra cercana y la invocación debe conservar una distinción adicional. En Romanos 10:8, **ῥῆμα**, _rhēma_, significa palabra, declaración o mensaje pronunciado; «palabra» es una glosa **directa**, mientras identificarla sin más con toda la noción hebrea de **דבר**, _davar_, «palabra, asunto o declaración», es una correspondencia **aproximada y pedagógica**. El término describe el mensaje dentro del argumento de Pablo; no prueba por sí solo una técnica vocal ni una teoría completa sobre la eficacia de la pronunciación.
+
+En Romanos 10:12-13, **ἐπικαλέω**, _epikaleō_, significa invocar, apelar o llamar sobre alguien. Su sentido ordinario es **directo** y su fuerza contextual dirige la respuesta al Señor dentro de una promesa para judío y griego. Relacionarlo con **קרא**, _qara_, «llamar, proclamar o invocar según la construcción», es **aproximado**, no una identidad léxica o morfológica. La observación atribuible de Eric recibe **apoyo textual cualificado**: invocar no es mérito autónomo, pero el capítulo sí exige confesión, confianza, anuncio, escucha y una respuesta que puede obedecer o contradecir.
+
+Esta reparación se limita a las dos fuentes públicas propietarias de esta lane: `youtube:zLynBpmjJr0` y `youtube:ililQLS9UJE`. Sus títulos, URL y créditos visibles son atribuibles de forma **exacta**; las formulaciones interpretativas anteriores son paráfrasis evaluadas por Romanos 10, no citas reconstruidas. La unidad canónica queda consolidada en una sola nota y no añade otra fuente ni duplica ningún `source_id`.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
