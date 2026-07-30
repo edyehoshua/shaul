@@ -222,8 +222,6 @@ El argumento pasa entonces de propósito a recepción. **ἀκούσαντες**
 
 La oración de 1:15-23 prueba el destino comunitario de lo recibido. **ἐπίγνωσις**, _epignōsis_, «conocimiento reconocido o pleno conocimiento», y **πεφωτισμένους**, _pephōtismenous_, «habiendo sido iluminados», tienen como objetos la esperanza, la herencia y el poder; **ἐγείρας**, _egeiras_, «habiendo levantado», identifica ese poder por la resurrección del Mesías. Finalmente, **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», sitúan la voluntad revelada en una asamblea dependiente de Yehoshua. La equivalencia con **(ראש)**, _rosh_, «cabeza», puede orientar la comparación, pero no autoriza una teoría de jerarquía fuera de la sintaxis.
 
-## Pendiente de verificar
-
 ## Control de orden textual: del propósito a la asamblea
 
 El capítulo debe leerse como una sola progresión, no como una colección de frases sobre elección y poder. En 1:1 el **θέλημα** (_thelēma_, «voluntad o propósito») explica el origen del envío; en 1:3-6 la bendición y la elección tienen como horizonte ser santos y sin defecto; en 1:7-10 la redención, el perdón y el misterio revelado muestran cómo ese propósito se comunica en el Mesías. La observación de Eric sobre una voluntad que se reconoce en una vida reconciliada queda así apoyada como síntesis pastoral, pero el texto añade santidad, adopción y reunión bajo una cabeza.
