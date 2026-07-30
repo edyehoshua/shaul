@@ -64,6 +64,14 @@ El cierre pregunta si por la emunah anulamos la Torah y responde: «de ninguna m
 
 La expresión **(ὑπὸ νόμον)**, _hypo nomon_, combina **(ὑπό)**, _hypo_, «bajo o sometido a», con **(νόμος)**, _nomos_. En 3:19 expresa ámbito y responsabilidad, no una frontera que deje a las naciones fuera del juicio; el mismo versículo dice que todo el mundo queda culpable. La observación pública de Eric recibe por tanto **apoyo textual cualificado**: el título dirige la atención a 3:17ss, pero el capítulo corrige tanto la jactancia de quien posee la ley como la afirmación de que la emunah la anula.
 
+## Control de la perícopa: justicia recibida sin jactancia
+
+Romanos 3:17-31 conserva un orden que debe gobernar la aplicación de la enseñanza. Primero, la Torah habla para cerrar toda boca y hacer responsable al mundo; después, la justicia de Elohim se manifiesta y recibe testimonio de la Torah y los profetas; finalmente, la emunah excluye la jactancia sin dejar nula la Torah. Por eso la observación atribuible a Eric sobre quienes están «dentro de la ley» recibe **apoyo textual cualificado**: el título enfoca una unidad real, pero Pablo amplía el juicio a todos y no permite usar la Torah como motivo de superioridad.
+
+**(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o reconocer como justo; en 3:24-26 su fuerza contextual describe la acción gratuita de Elohim mediante la redención, no un salario humano. **(δωρεάν)**, _dōrean_, significa gratuitamente, sin pago o como don; su fuerza limita la jactancia. **(καύχησις)**, _kauchēsis_, significa jactancia, orgullo o motivo de gloriarse; en 3:27 queda excluida porque la justicia no se convierte en crédito para reclamar. Las glosas son **directas en el campo normal**, mientras construir desde ellas una teoría exhaustiva de la justificación sería **aproximado e inferencial**.
+
+El cierre impide dos reducciones opuestas: «aparte de obras de Torah» no significa «contra la Torah», y «establecer la Torah» no significa que este versículo por sí solo detalle la aplicación de cada mandamiento. **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. Sus sentidos son **directos**; la conclusión teológica amplia es **contextual y cualificada** por Romanos 3:19-31 y por el desarrollo posterior de la carta.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual   | Observación concreta atribuible                                              | Tratamiento frente al texto                                                                      |

@@ -84,6 +84,14 @@ Pablo pregunta si Israel no oyó y responde con el lenguaje del alcance de la vo
 
 **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir. En 10:21 caracteriza una resistencia culpable dentro de la imagen profética; «desobediente» es directo, aunque conserva también el matiz de rechazo a ser persuadido. La lectura de Eric recibe apoyo textual cuando insiste en que la palabra de Elohim sostiene la fidelidad, pero necesita corrección si la iniciativa divina elimina la respuesta, el anuncio o la desobediencia.
 
+## Control de la cadena: cercanía, confesión y obediencia
+
+La cadena de Romanos 10 no debe fragmentarse en una fórmula de salvación separada de su contenido. En 10:5-8, Pablo contrasta la justicia que habla de hacer con la palabra ya cercana; en 10:9-13, esa cercanía toma forma de confesión, confianza e invocación; en 10:14-17, la respuesta depende de un anuncio enviado y oído; y en 10:18-21, el mismo pueblo puede resistir. La observación de Eric de que la invocación no es un mérito autónomo recibe **apoyo textual cualificado**: el llamado y el anuncio preceden la respuesta, pero el texto sigue describiendo confesión, invocación y obediencia reales.
+
+**(ὁμολογέω)**, _homologeō_, significa confesar, reconocer o declarar de común acuerdo; su fuerza contextual en 10:9 es una confesión pública cuyo contenido es que Yehoshua es Señor, no una contraseña vocal. **(ἐπικαλέω)**, _epikaleō_, significa invocar, apelar o llamar sobre alguien; en 10:12-13 dirige la respuesta al Señor y retoma el lenguaje profético. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 muestra que oír la buena noticia no equivale automáticamente a obedecerla. Las glosas son **directas en el campo ordinario**; relacionarlas con **קרא**, _qara_, y **שמע**, _shama_, es una correspondencia **pedagógica y aproximada**, no una identidad léxica entre lenguas.
+
+Así, la enseñanza atribuible de Eric se conserva en una proporción verificable: la palabra no es sonido vacío y la respuesta no produce por sí sola la obra del Mesías. El capítulo, sin embargo, no permite eliminar el envío, la escucha ni la resistencia de Israel. La iniciativa de Elohim y la responsabilidad humana permanecen juntas; cualquier aplicación que convierta una de ellas en negación de la otra sería **inferencial e ilegítima** frente al recorrido completo.
+
 ## Mapa de la enseñanza de Eric
 
 | Perícopa                                | Observación concreta de la enseñanza                                                                                             | Evaluación frente a Romanos                                                                               |
