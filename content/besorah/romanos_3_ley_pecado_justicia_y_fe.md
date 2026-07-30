@@ -135,6 +135,26 @@ La tesis pública queda así evaluada sin exageración. Eric puede ser acreditad
 - [[romanos_4_promesa_emunah_la_descendencia_de_Abraham|Romanos 4: promesa, emunah y la descendencia de Abraham]]
 - [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]
 
+## Estudio desarrollado: de la boca cerrada a la Torah establecida
+
+La sesión pública `youtube:u0NtR-y-T2Y`, cuyo título enfoca «a los que están dentro de la ley», puede conservarse como una observación atribuible sobre el alcance judicial de Romanos 3. El texto local debe controlar la aplicación: la Torah habla a quienes están en su ámbito para cerrar toda boca, pero la justicia manifestada en Yehoshua está testificada por la Torah y los profetas y la emunah no la deja sin efecto. Esta secuencia recibe **apoyo textual directo**; convertir el título del video en una frontera de superioridad sería **ilegítimo** frente al alcance universal del pasaje.
+
+En #romanos_3_17-20, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o responsable ante un tribunal; su fuerza contextual es que todo el mundo queda bajo responsabilidad de Elohim. **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno, reconocimiento o comprensión; aquí la Torah hace reconocible el pecado, no lo crea moralmente. **(φράσσω)**, _phrassō_, significa cerrar, obstruir o tapar; la boca cerrada es una imagen judicial de la jactancia silenciada. Las glosas son **directas** en el campo ordinario; describir la escena como una sala formal es una explicación **pedagógica y aproximada**.
+
+En #romanos_3_21-26, **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; en 3:21 distingue la base de la justicia de las obras, pero el mismo versículo dice que la Torah y los profetas la atestiguan. **(φανερόω)**, _phaneroō_, significa manifestar, hacer visible o revelar; su fuerza contextual es la aparición pública de la justicia de Elohim. **(δωρεάν)**, _dōrean_, significa gratuitamente, sin pago o como don; excluye una jactancia que convierta la justificación en salario. «Aparte de Torah» es una glosa **aproximada y contextual**, no una afirmación de hostilidad contra toda instrucción.
+
+En #romanos_3_27-31, **(καύχησις)**, _kauchēsis_, significa jactancia, orgullo o motivo de gloriarse; el argumento la excluye porque la justicia se recibe y no se fabrica. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular, mientras **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. El contraste «no anulamos la Torah, sino que la establecemos» es **textual y directo**; decidir cómo se aplica cada mandamiento requiere el desarrollo posterior de Romanos y no puede resolverse por una sola forma verbal.
+
+La síntesis atribuible a Eric queda así graduada: el título público identifica un foco real, la Torah denuncia el pecado y cierra la defensa, la justicia se manifiesta gratuitamente en Yehoshua y la emunah excluye la jactancia sin anular la Torah. La correspondencia pedagógica entre **(νόμος)**, _nomos_, «ley, norma o instrucción», y **תורה**, _torah_, «instrucción o enseñanza», es **aproximada**, no una equivalencia que permita ignorar el contexto griego. Romanos 3:17-31 conduce de responsabilidad universal a don, y del don a una obediencia que la emunah no desecha.
+
+## Estudio desarrollado: el don que excluye la jactancia
+
+El foco público de `youtube:u0NtR-y-T2Y` queda delimitado por su título y no por una cita reconstruida: «A los que están dentro de la ley» puede examinarse en el recorrido de Romanos 3:17-31. La perícopa no deja que «dentro» funcione como una categoría de privilegio. En 3:19-20, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o responsable ante un tribunal; la glosa es **directa** en el campo forense y su fuerza contextual alcanza a todo el mundo. **(φράσσω)**, _phrassō_, significa cerrar, obstruir o tapar; la boca cerrada es una imagen **pedagógica** de la jactancia silenciada, no una descripción física.
+
+El giro de 3:21-26 debe mantenerse unido a ese diagnóstico. **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; aquí distingue la justicia manifestada de una base de obras, pero el versículo añade que Torah y profetas dan testimonio de ella. **(δωρεάν)**, _dōrean_, significa gratuitamente, sin pago o como don; su fuerza **directa** excluye que la justificación se convierta en salario. **(ἱλαστήριον)**, _hilastērion_, puede significar medio de expiación o lugar asociado con la expiación; «propiciación» es **aproximado y pedagógico**, porque el término aislado no resuelve un modelo exhaustivo.
+
+El cierre devuelve el don a una forma de obediencia sin jactancia. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular, mientras **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. La oposición verbal es **textual y directa**: la emunah no anula la Torah, sino que la establece. Así, la atribución pública se conserva con exactitud en su alcance visible; la evaluación canónica afirma responsabilidad universal, justicia gratuita y Torah establecida, mientras cualquier aplicación detallada de cada mandamiento queda **inferencial** y debe seguir el argumento posterior de la carta.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

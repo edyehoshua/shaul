@@ -428,6 +428,18 @@ La precisión léxica también limita la aplicación. **(μενοῦνγε)**, _
 
 La metáfora de la vasija debe leerse con sus límites. **(κεραμεύς)**, _kerameus_, significa alfarero; **(πηλός)**, _pēlos_, barro o arcilla; y **(πλάσμα)**, _plasma_, cosa formada o criatura modelada. Las glosas ordinarias son **directas** y la relación formador–vasija es **contextual**. La conexión pedagógica con **יוצר**, _yotser_, «formador o alfarero», es **aproximada**: ilumina la imagen bíblica, pero no convierte el hebreo en la fuente lingüística del argumento griego. Así, la enseñanza de Eric ayuda a no igualar utilidad histórica con salvación, mientras Romanos 9 exige mantener juntas misericordia, juicio, promesa y responsabilidad.
 
+La sesión pública `youtube:atIdZY13b_c`, aproximadamente entre 00:03:49 y 00:04:48, vuelve a Romanos 9:19-20 y presenta la objeción de la criatura ante el formador mediante la imagen del vaso de barro. Estas observaciones se conservan como paráfrasis atribuibles, no como citas literales. El capítulo las apoya al recordar la asimetría entre criatura y formador, pero no autoriza a convertir la imagen en una explicación exhaustiva de cada destino individual.
+
+## Estudio desarrollado: propósito histórico, misericordia y responsabilidad
+
+La sesión pública `youtube:atIdZY13b_c` puede atribuirse por su URL, su exposición sobre Romanos 9:19-24 y el foco visible de la objeción del vaso; el desarrollo oral se conserva como paráfrasis, no como cita literal. Eric distingue que una función dentro del propósito histórico de Elohim no demuestra por sí sola la salvación personal de quien la cumple. Romanos 9 apoya esa cautela, pero exige seguir el capítulo completo: Pablo comienza con el dolor por Israel, pasa por la promesa, explica la misericordia y termina hablando de fe, tropiezo y justicia.
+
+En 9:17, **(ἐξήγειρα)**, _exēgeira_, significa levantar, suscitar o hacer aparecer; su fuerza contextual es que Faraón aparece en la escena para que el poder de Elohim sea mostrado. **(ἐξαγγέλλω)**, _exangellō_, significa anunciar, declarar o hacer público; aquí expresa el propósito histórico de que el Nombre sea anunciado. Las glosas son **directas** en el campo normal, pero deducir de la función de Faraón su destino final sería **inferencial e ilegítimo**: el versículo declara un uso histórico, no una biografía completa de su interioridad.
+
+En 9:20, **(μενοῦνγε)**, _menounge_, funciona como respuesta correctiva —«más bien», «ciertamente» o «al contrario»—; su equivalencia española es **aproximada y pedagógica**, porque su fuerza discursiva devuelve la discusión a la criatura frente al formador. **(ἀνταποκρίνομαι)**, _antapokrinomai_, significa responder o replicar; su fuerza contextual presenta una contestación que debe medirse ante la asimetría entre vaso y alfarero. La imagen sostiene la humildad de la criatura, pero no elimina el cierre del capítulo: el tropiezo se relaciona con no buscar la justicia por emunah.
+
+Por eso la observación atribuible recibe **apoyo textual cualificado**. Es directo que Faraón cumple una función dentro del anuncio del poder divino y que Pablo limita la pretensión de la criatura; es aproximado trasladar _menounge_ a una sola partícula española; y es inferencial convertir propósito histórico en certeza o condena individual. Romanos 9 mantiene juntas soberanía, misericordia, dolor por Israel y responsabilidad ante la piedra de tropiezo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
