@@ -256,7 +256,6 @@ En 1:11-14, **κληρόω**, _klēroō_, «asignar una herencia» o hacer part�
 
 La oración de 1:15-23 confirma el destino de todo lo anterior. **παύομαι**, _pauomai_, «cesar» o dejar de hacer algo, aparece en la expresión «no ceso de dar gracias»; **μνημονεύω**, _mnēmoneuō_, «recordar» o tener presente, muestra que la oración nace de una relación comunitaria ya oída. Pablo no pide una fórmula para producir poder, sino que el Padre dé **πνεῦμα σοφίας**, _pneuma sophias_, «espíritu de sabiduría», y que ilumine los ojos del corazón. La respuesta a la voluntad revelada se verifica, por tanto, en memoria agradecida, esperanza, herencia y pertenencia al cuerpo bajo la cabeza; esta secuencia apoya la síntesis de Eric sin convertirla en un método privado.
 
-
 ## Control final de la unidad: voluntad comunicada, respuesta y cuerpo
 
 Efesios 1 termina donde debe terminar la pregunta por la voluntad: no en una intuición privada, sino en una comunidad que recibe, conoce y vive bajo el Mesías. En 1:1, **θέλημα**, _thelēma_, «voluntad o propósito», explica el origen del envío de Pablo; en 1:9, **μυστήριον**, _mystērion_, «misterio antes oculto y ahora comunicado», queda unido a **γνωρίσας**, _gnōrisas_, «habiendo dado a conocer». La observación de Eric sobre una voluntad que se reconoce por la reconciliación y la revelación se ajusta a esta secuencia, pero no autoriza a presentar cada decisión personal como una revelación equivalente.
@@ -346,16 +345,3 @@ El recorrido completo del capítulo amplía esa apertura: bendición, elección,
 
 - [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
 - [[tesalonicenses_1_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]
-
-## Créditos
-
-Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**:
-
-- «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?» — https://www.youtube.com/watch?v=6gCUX55_ID0 (`source_id: youtube:6gCUX55_ID0`).
-- «La carta a los Efesios Parte 2 ¿Predestinados?» — https://www.youtube.com/watch?v=qsn5BfZMZ8o (`source_id: youtube:qsn5BfZMZ8o`).
-- «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk (`source_id: youtube:9Tzh2oZtmAk`).
-- «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ (`source_id: youtube:KPdeVmwOViQ`).
-- «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU (`source_id: youtube:k2V_xN81ozU`).
-- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed — משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc (`source_id: youtube:WSIaQ6rlhDc).
-
-Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.
