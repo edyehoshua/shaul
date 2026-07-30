@@ -141,7 +141,17 @@ El cierre orienta el misterio hacia una práctica de anuncio, amonestación, ens
 | #colossians_1_21-23           | Conecta alienación, reconciliación en el cuerpo de carne y permanencia en la emunah con #deuteronomy_30_6 y Hebreos 10; propone una explicación de ἄμωμος mediante _mum_. | Apoyo textual del contraste «antes/ahora»; las conexiones canónicas y la etimología quedan como inferencias cualificadas.                                                                   |
 | #colossians_1_24-29           | Sitúa el sufrimiento y el servicio de Pablo por la comunidad junto al misterio revelado, la esperanza de gloria y la madurez de toda persona en el Mesías.                | Apoyo textual del servicio y del misterio; se rechaza convertir #colossians_1_24 en insuficiencia de la cruz y se marcan las aplicaciones contemporáneas como pendientes.                   |
 
-## Pendiente de verificar
+## Control de verificación aplicado
+
+La revisión de esta nota no deja como hechos establecidos las conexiones que proceden de la exposición pero exceden el texto local. **(ἀπόστολος)**, _apostolos_, significa enviado o comisionado; en #colossians_1_1 identifica el encargo de Pablo. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; en 1:4 y 1:23 su fuerza contextual se relaciona con la confianza de la comunidad y con permanecer en la esperanza. La relación pedagógica con **אמונה**, _emunah_, es aproximada, no una identidad léxica.
+
+En el himno, **(εἰκών)**, _eikōn_, significa imagen o representación; **(πρωτότοκος)**, _prōtotokos_, significa primogénito; y **(ἀρχή)**, _archē_, significa principio, origen o autoridad. Sus glosas ordinarias son directas; la primacía de Yehoshua se evalúa por 1:15-18, donde el contexto incluye creación, anterioridad, comunidad y resurrección. Las correspondencias con **תמונה**, _temunah_, **בכור**, _bekhor_, y **ראשית**, _reshit_, son aproximadas y pedagógicas, no etimologías demostradas.
+
+**(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o aquello que llena; **(ἀποκαταλλάσσω)**, _apokatallassō_, significa reconciliar plenamente o restaurar una relación; y **(ἄμωμος)**, _amōmos_, significa sin mancha o irreprochable. En 1:19-22, «plenitud» y «reconciliación» reciben apoyo directo en el movimiento del himno y su aplicación a la comunidad; relacionar _apokatallassō_ con **כפר**, _kipper_, o _amōmos_ con **מום**, _mum_, es aproximado y pedagógico, no una equivalencia de formas.
+
+La relación entre #colossians_1_9-10 y #deuteronomy_4_6, y entre #colossians_1_21-23 y #deuteronomy_30_6, queda clasificada como conexión canónica sugerida: ambos conjuntos pueden iluminar sabiduría, práctica y corazón transformado, pero Colosenses no cita esos pasajes en esta perícopa. Tampoco se afirma aquí una reconstrucción histórica de cultos o corrientes de Colosas sin evidencia adicional. En #colossians_1_24, la sintaxis y el contexto inmediato controlan la lectura: **(ἀνταναπληρόω)**, _antanaplēroō_, significa completar o suplir; su fuerza es ministerial y corporal, no una insuficiencia expiatoria de la cruz.
+
+Con esto quedan aplicados los controles léxicos, intertextuales, históricos y sintácticos señalados durante la redacción. Las glosas se presentan como directas, aproximadas o pedagógicas según su evidencia; ninguna correspondencia hebreo-griega se usa como prueba etimológica, y ninguna hipótesis histórica se presenta como sentido necesario de Colosenses 1.
 
 ## Reparación: «santos y fieles» sin cercos humanos
 
