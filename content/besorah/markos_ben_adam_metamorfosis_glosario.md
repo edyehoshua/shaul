@@ -195,7 +195,7 @@ La clase presenta Marcos 9 como una escena de revelación, no como una visión a
 
 ## Ver también
 
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
+- [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]
 - [[yojanan_9_ben_adam_y_el_ciego|Yojanán 9: Ben Adam y el ciego que se postró]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]
