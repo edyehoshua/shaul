@@ -160,6 +160,14 @@ En 6:10-17, **ἐνδυναμοῦσθε** (_endynamousthe_, «recibid fuerza o 
 
 En 6:18-24, la armadura desemboca en **προσευχόμενοι** (_proseuchomenoi_, «orando») y **ἀγρυπνοῦντες** (_agrypnountes_, «velando o permaneciendo atentos»), con súplica por todos los santos y por la valentía de Pablo. Tíquico lleva noticias y consuelo, y el cierre saluda con paz, amor, fe y gracia. Así, la observación de Eric sobre estudiar, discernir y pedir valentía se prueba en una secuencia pública y relacional: permanecer no es aislarse ni atacar, sino orar, comunicar y servir bajo el señorío de Yehoshua.
 
+## Control de términos: la firmeza se vuelve servicio
+
+La distinción que Eric propone entre capacidad y resistencia debe probarse en la sintaxis local. **(δύναμις)**, _dynamis_, «capacidad o poder», nombra en 6:10 el poder cuya fuente es el Señor; **(ἰσχύς)**, _ischys_, «fuerza o vigor», aparece en la expresión que califica ese poder. La pareja no demuestra una teoría técnica de dos energías espirituales: su sentido seguro aquí es que la comunidad no se fortalece desde sí misma. La relación pedagógica con **(עז)**, _oz_, «fuerza», es aproximada y no una retroversión hebrea.
+
+La armadura tampoco convierte la firmeza en agresión. **(ἀνθίστημι)**, _anthistēmi_, «resistir o hacer frente», describe en 6:13 la respuesta ante el día malo; **(μεθοδεία)**, _methodeia_, «artimaña, método engañoso», nombra aquello que se enfrenta. El contexto decide la equivalencia: resistir es permanecer después de vestirse, no atacar a personas. Esa prueba confirma la cautela atribuible de Eric sobre la guerra espiritual, porque 6:12 niega que la lucha sea contra sangre y carne.
+
+El cierre muestra qué produce esa resistencia. **(λαλέω)**, _laleō_, «hablar o comunicar», aparece en 6:20 cuando Pablo pide anunciar el misterio con franqueza; **(παρακαλέω)**, _parakaleō_, «animar, exhortar o consolar», describe la tarea de Tíquico en 6:22. Son equivalencias directas dentro de sus escenas, pero su relación con «servicio» es una síntesis narrativa: el texto no define una jerarquía ministerial abstracta, sino una comunicación que informa, consuela y pide oración. La armadura queda así comprobada por su fruto relacional.
+
 ## Prueba de la armadura: resistir, permanecer y orar (6:10-20)
 
 La clase presenta la armadura como una formación espiritual y no como un objeto mágico. El orden de Pablo confirma esa cautela. La forma **ἐνδυναμοῦσθε**, _endynamousthe_, de **ἐνδυναμόω**, _endynamoō_, significa «fortaleceos o recibid fuerza» y tiene como esfera «en el Señor»; la fuente de la firmeza no es la autosuficiencia del discípulo. **πανοπλία**, _panoplia_, significa «armadura completa» y, en 6:11, está subordinada al verbo ponerse para poder permanecer frente a las maquinaciones. «Armadura» es una traducción directa en la imagen, pero la aplicación a disciplinas modernas es analógica, no una definición adicional del sustantivo.
