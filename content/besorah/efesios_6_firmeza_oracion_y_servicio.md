@@ -338,19 +338,11 @@ La prueba final está en el propósito comunitario. **προσευχόμενοι
 - [ ] Verificar en léxicos y comentarios la posible alusión cultural de **ἐπουράνιος**, _epouranios_, a cosmologías griegas. La nota conserva la observación de Eric como hipótesis contextual, no como el sentido automático de «lugares celestiales».
 - [ ] Comparar el vocabulario de la armadura con Isaías 59 y otras imágenes sacerdotales antes de afirmar una dependencia literaria directa; la correspondencia temática no demuestra una identificación textual de cada pieza.
 
-## Control de cierre: permanecer, comunicar y servir
+## Control de dependencia: firmeza que se verifica en servicio
 
-El cierre de Efesios 6 debe conservar el movimiento del capítulo. **(ἐνδυναμοῦσθε)**, _endynamousthe_, «reciban fuerza o fortalézcanse», dirige la fuente al Señor; **(ἐνδύσασθε)**, _endysasthe_, «vístanse», y **(στῆναι)**, _stēnai_, «permanecer de pie», describen resistencia, no conquista. La observación de Eric sobre una formación espiritual queda apoyada por la secuencia de verbos, mientras que **(πάλη)**, _palē_, «lucha o combate», queda limitada por la negación explícita de luchar contra sangre y carne.
+La lectura de Eric sobre la armadura queda incompleta si se separa de los encargos que abren y cierran el capítulo. En 6:1-9, **ποιεῖτε**, _poieite_, «hagan», y **ἀνιέντες**, _anientes_, «dejen o cesen», muestran que la autoridad se prueba por acciones observables: escuchar «en el Señor», criar sin provocar y abandonar las amenazas. En 6:10-13, **ἐνδυναμοῦσθε**, _endynamousthe_, «reciban fuerza», y **στῆναι**, _stēnai_, «permanezcan de pie», desplazan la fuente de la capacidad al Señor y describen resistencia, no dominio. La correspondencia pedagógica con **(עז)**, _oz_, «fuerza», es aproximada; la sintaxis griega y el límite de 6:12 gobiernan el argumento.
 
-La lista de piezas tampoco debe separarse de su propósito. **(ἀλήθεια)**, _alētheia_, «verdad», **(δικαιοσύνη)**, _dikaiosynē_, «justicia», **(εἰρήνη)**, _eirēnē_, «paz», **(πίστις)**, _pistis_, «fe o confianza», y **(σωτήριον)**, _sōtērion_, «salvación», nombran recursos y orientaciones dentro de la metáfora; **(ῥῆμα)**, _rhema_, «palabra o declaración», es la palabra de Elohim asociada con la espada del Rúaj. Ninguna forma autoriza una fórmula mágica, una vestidura sacerdotal automática o una agresión contra personas.
-
-La consecuencia textual es comunitaria: **(προσευχόμενοι)**, _proseuchomenoi_, «orando», **(ἀγρυπνοῦντες)**, _agrypnountes_, «velando o permaneciendo atentos», y **(παρρησία)**, _parrēsia_, «franqueza o confianza para hablar», llevan la firmeza hacia la súplica por todos y hacia el anuncio del misterio. Tíquico comunica noticias y consuela, de modo que el capítulo termina en servicio relacional. La enseñanza de Eric sobre discernir y pedir valentía encaja con esta dependencia: permanecer conduce a orar, comunicar y servir, no a aislarse ni dominar.
-
-## Verificación final: la armadura se mide por su fruto
-
-El capítulo conserva un orden que impide convertir sus imágenes en un inventario autónomo. Primero, **ἐνδυναμοῦσθε**, _endynamousthe_, «reciban fuerza o fortalézcanse», dirige la fuente al Señor; luego **ἐνδύσασθε**, _endysasthe_, «vístanse», y **στῆναι**, _stēnai_, «estar de pie o permanecer», describen la respuesta. La **πανοπλία**, _panoplia_, «armadura o equipo completo», recibe su sentido de esos verbos y de la finalidad de resistir las **μεθοδεῖαι**, _methodeiai_, «artimañas o estrategias engañosas».
-
-La negación de 6:12 gobierna la aplicación: **πάλη**, _palē_, «lucha o combate», no es contra sangre y carne. Por eso la observación de Eric sobre discernimiento espiritual es verificable solo dentro de ese límite; no permite convertir a familiares, pueblos, enfermos o adversarios en blancos espirituales. La lista de 6:14-17 confirma el fruto esperado: **ἀλήθεια**, _alētheia_, «verdad», **δικαιοσύνη**, _dikaiosynē_, «justicia», **εἰρήνη**, _eirēnē_, «paz», **πίστις**, _pistis_, «fe o confianza», **σωτηρία**, _sōtēria_, «salvación», y **ῥῆμα**, _rhēma_, «palabra o declaración». La relación temática con **(אמת)**, _emet_, «verdad o fidelidad», y **(שלום)**, _shalom_, «paz o integridad», es aproximada; el griego local gobierna la exégesis.
+El orden de 6:14-20 prueba el fruto de esa firmeza. **ἀλήθεια**, _alētheia_, «verdad», **δικαιοσύνη**, _dikaiosynē_, «justicia», **εἰρήνη**, _eirēnē_, «paz», **πίστις**, _pistis_, «fe o confianza», y **ῥῆμα**, _rhēma_, «palabra o declaración», no son nombres de técnicas aisladas: forman la imagen que conduce a **προσευχόμενοι**, _proseuchomenoi_, «orando», y **παρρησία**, _parrēsia_, «franqueza para hablar». Por eso la observación atribuible de Eric sobre discernir lo que se oye y se ve encaja solo cuando produce oración por todos y anuncio fiel; una aplicación que produce acusación o violencia contradice «no contra sangre y carne».
 
 El cierre con Tíquico confirma la dependencia comunitaria. **γνωρίσει**, _gnōrisei_, «dará a conocer», y **παρακαλέσει**, _parakalei_, «animará o consolará», convierten la firmeza en comunicación confiable. La correspondencia con **(שלום)**, _shalom_, «paz o integridad», es temática y aproximada, no una retroversión de **εἰρήνη**. Así, el capítulo prueba la enseñanza de Eric mediante una secuencia completa: autoridad limitada, resistencia recibida, oración perseverante y servicio que comunica paz.
 
@@ -362,14 +354,6 @@ Efesios 6 lleva la firmeza desde la casa y las relaciones laborales hacia la arm
 
 - [[efesios_5_amor_luz_y_sabiduria|Efesios 5: amor, luz y sabiduría]]
 - [[efesios_4_llamado_unidad_y_vida_nueva|Efesios 4: llamado, unidad y vida nueva]]
-
-## Control de dependencia: firmeza que se verifica en servicio
-
-La lectura de Eric sobre la armadura queda incompleta si se separa de los encargos que abren y cierran el capítulo. En 6:1-9, **ποιεῖτε**, _poieite_, «hagan», y **ἀνιέντες**, _anientes_, «dejen o cesen», muestran que la autoridad se prueba por acciones observables: escuchar «en el Señor», criar sin provocar y abandonar las amenazas. En 6:10-13, **ἐνδυναμοῦσθε**, _endynamousthe_, «reciban fuerza», y **στῆναι**, _stēnai_, «permanezcan de pie», desplazan la fuente de la capacidad al Señor y describen resistencia, no dominio. La correspondencia pedagógica con **(עז)**, _oz_, «fuerza», es aproximada; la sintaxis griega y el límite de 6:12 gobiernan el argumento.
-
-El orden de 6:14-20 prueba el fruto de esa firmeza. **ἀλήθεια**, _alētheia_, «verdad», **δικαιοσύνη**, _dikaiosynē_, «justicia», **εἰρήνη**, _eirēnē_, «paz», **πίστις**, _pistis_, «fe o confianza», y **ῥῆμα**, _rhēma_, «palabra o declaración», no son nombres de técnicas aisladas: forman la imagen que conduce a **προσευχόμενοι**, _proseuchomenoi_, «orando», y **παρρησία**, _parrēsia_, «franqueza para hablar». Por eso la observación atribuible de Eric sobre discernir lo que se oye y se ve encaja solo cuando produce oración por todos y anuncio fiel; una aplicación que produce acusación o violencia contradice «no contra sangre y carne».
-
-El cierre con Tíquico confirma la dependencia comunitaria. **γνωρίσει**, _gnōrisei_, «dará a conocer», y **παρακαλέσει**, _parakalei_, «animará o consolará», convierten la firmeza en comunicación confiable. La correspondencia con **(שלום)**, _shalom_, «paz o integridad», es temática y aproximada, no una retroversión de **εἰρήνη**. Así, el capítulo prueba la enseñanza de Eric mediante una secuencia completa: autoridad limitada, resistencia recibida, oración perseverante y servicio que comunica paz.
 
 ## Créditos
 
