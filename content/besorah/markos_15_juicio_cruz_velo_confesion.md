@@ -219,6 +219,14 @@ En 15:33-39, **ἐκραύγασεν**, _ekraugasen_, «clamó», **ἐξέπν�
 
 El cierre corporal verifica lo que la escena ha narrado. Iosef **ἐνείλησεν**, _eneilēsen_, «envolvió», el cuerpo; las mujeres **ἐθεώρουν**, _etheōroun_, «observaban» dónde era puesto; y la cercanía del **παρασκευή**, _paraskeuē_, «preparación o víspera», explica la urgencia antes del Shabat. Así, la nota conserva la lectura de Eric sobre calendario, santuario y testimonio sin convertir una cronología discutida en dogma. El resultado textual es más sobrio y más fuerte: el Rey es humillado, muere realmente, es confesado ante la cruz y queda sepultado ante testigos que preparan la noticia del capítulo siguiente.
 
+## Control arameo: el clamor no se reduce a una traducción cómoda (15:34-37)
+
+El grito de 15:34 requiere distinguir la forma que Marcos conserva de la traducción que ofrece el contexto. **Ἐλωΐ**, _Eloi_, es la invocación «mi Dios»; su forma semítica funciona como vocativo dirigido a Elohim y no como el nombre propio de un espectador. **λαμὰ**, _lama_, pregunta «¿por qué?» o introduce la causa buscada. **σαβαχθανί**, _sabachthani_, comunica «me dejaste» o «me abandonaste»; se relaciona con el campo arameo de dejar atrás, pero la transliteración del evangelio no debe convertirse en una morfología hebrea inventada. La equivalencia con **(עזבתני)**, _azavtani_, «me dejaste o abandonaste», procede del texto hebreo de Tehilim 22:1 y es una comparación intertextual, no la forma aramea exacta de Marcos.
+
+La clase de Eric propone leer el salmo completo para que el clamor no quede aislado de sus preguntas, memoria de la confianza y esperanza final. Esa observación es metodológicamente válida: el eco de Tehilim amplía el horizonte de la escena. Pero el orden de Marcos conserva tres acciones que no pueden disolverse en una paráfrasis: **ἐκραύγασεν**, _ekraugasen_, «clamó con fuerza»; **ἀφείς**, _apheis_, «dejando ir» o «emitiendo», en la descripción de la voz; y **ἐξέπνευσεν**, _exepneusen_, «expiró». El salmo puede impedir una lectura de desesperación sin salida, pero no elimina el sufrimiento audible ni la muerte real que el narrador coloca antes del velo y de la confesión.
+
+Esta distinción también limita la propuesta de oír **עזבתני**, _azavtani_, con valor futuro o como una simple súplica de «no me abandones». La forma hebrea local es perfectiva con sufijo de primera persona; su valor básico no debe ser reemplazado por una reconstrucción devocional. La lectura responsable conserva ambas capas: Marcos presenta un grito de abandono en una forma semítica preservada, y Tehilim 22 ofrece el contexto poético completo. La equivalencia entre _Eloi_ y «Elí», entre _lama_ y «¿por qué?», y entre _sabachthani_ y _azavtani_ es funcional y aproximada; no prueba que Marcos haya copiado una única forma hebrea ni resuelve por sí sola la teología del abandono.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
