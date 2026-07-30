@@ -368,10 +368,18 @@ El fruto de esa administración se define en 3:6 y se comprueba en 3:14-21. **σ
 
 ## Conclusión
 
-Efesios 3 sigue una sola línea: Pablo recibe una administración de gracia, comunica por revelación el misterio y define ese misterio como la participación conjunta de los gentiles en la herencia, el cuerpo y la promesa en el Mesías. La oración final muestra el destino de ese encargo: una comunidad fortalecida por el Rúaj, habitada por el Mesías, arraigada en amor y capaz de comprender «con todos los santos». Las formulaciones de Eric sobre sustentabilidad, mente, riqueza y escuela se conservan como observaciones públicas de la enseñanza; el texto sostiene con mayor precisión el encargo, la inclusión, la formación comunitaria y la gloria dirigida a Elohim.
+Efesios 3 sigue una sola línea: Pablo recibe una administración de gracia, comunica por revelación el misterio y define ese misterio como la participación conjunta de los gentiles en la herencia, el cuerpo y la promesa en el Mesías. La oración final muestra el destino de ese encargo: una comunidad fortalecida por el Rúaj, habitada por el Mesías, arraigada en amor y capaz de comprender «con todos los santos». Las formulaciones de Eric sobre sustentabilidad, mente, riqueza y escuela se conservan como observaciones atribuidas y quedan sujetas al orden del capítulo.
+
+## Control de cierre: del encargo a la plenitud comunitaria (3:8-21)
+
+La segunda mitad del capítulo no abandona el misterio anunciado en 3:6. En 3:8, **ἐλάχιστος**, _elachistos_, «el menor o más pequeño», califica la autodescripción de Pablo antes de **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», la riqueza inescrutable del Mesías. **ἀνεξιχνίαστος**, _anexichniastos_, «imposible de rastrear por completo», limita la aplicación de Eric sobre la riqueza: la clase puede exhortar a una administración generosa de la gracia, pero la forma no convierte «sustentabilidad» en una traducción exhaustiva de **οἰκονομία**, _oikonomia_, «administración o encargo». La comparación con **עשר**, _osher_, «riqueza», es de campo semántico y no una retroversión demostrada.
+
+En 3:10-13 el propósito se vuelve público. **γνωρισθῇ**, _gnōristhē_, «sea dado a conocer», aparece en pasiva cuando la sabiduría multiforme de Elohim se manifiesta por medio de la asamblea; **πολυποίκιλος**, _polypoikilos_, «multiforme o de muchas clases», describe esa sabiduría. Después **παρρησία**, _parrēsia_, «franqueza o confianza», y **προσαγωγή**, _prosagōgē_, «acceso o entrada», describen la aproximación en el Mesías. La observación de Eric sobre una gracia que sostiene a otros recibe apoyo en esta dirección comunitaria, mientras que convertir los «poderes» en instituciones contemporáneas queda como inferencia pendiente.
+
+La oración de 3:14-21 muestra el fruto del encargo en el orden del texto. **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», presentan peticiones recibidas para el ser interior y el corazón; **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», ocurre «con todos los santos», no como posesión individual. **πληρωθῆτε**, _plērōthēte_, «seáis llenados o llevados a plenitud», queda en pasiva y apunta al don de Elohim. Así, la mente y el Rúaj que Eric relaciona pedagógicamente desembocan en amor, comprensión compartida y gloria en la asamblea; no en una técnica privada de revelación o autosuperación.
 ## Créditos
 
-Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 
 - «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ (`source_id: youtube:bG4SqOvNolQ`).
 - «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8 (`source_id: youtube:GulS21GtPP8`).
