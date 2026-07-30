@@ -206,6 +206,14 @@ La prueba final no es una teoría sobre la pared sino el acceso común. **ἀπ�
 - [[efesios_3_gracia_revelacion_y_misterio|Efesios 3: gracia, revelación y misterio]]
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: sabiduría, herencia y plenitud]]
 
+## Prueba de sujetos y resultado: ambos reciben el mismo acceso (2:13-22)
+
+La frase «un solo pueblo» debe conservar los sujetos que Pablo mantiene activos. **ἐγενήθητε**, _egenēthēte_, «fueron hechos cercanos», está en voz pasiva y tiene como destinatarios a los que antes estaban lejos; el acercamiento no se presenta como conquista de los gentiles. Luego **ποιήσας**, _poiēsas_, «haciendo», toma al Mesías como sujeto de la acción y **ἄμφω**, _amphō_, «ambos», como objeto visible de la unidad. La sintaxis, por tanto, no permite narrar que un grupo desaparece: el resultado nuevo depende de dos grupos que son reunidos.
+
+El mismo control aparece en 2:16-18. **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconcilie plenamente», tiene a «ambos» como destinatarios de la reconciliación y los conduce «en un cuerpo» hacia Elohim; **προσαγωγή**, _prosagōgē_, «acceso o introducción», no describe un privilegio reservado a una mitad. La comparación con **(קרוב)**, _qarov_, «cercano», y **(שלום)**, _shalom_, «paz o integridad», puede iluminar el campo semítico, pero no sustituye los objetos griegos ni prueba una retroversión.
+
+El cierre convierte ese acceso en pertenencia comprobable. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», nombran lo que reciben los que eran extranjeros; **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», mantiene la acción comunitaria en presente pasivo. La observación de Eric sobre una morada común queda así apoyada por una cadena precisa: acercamiento recibido, dos grupos reconciliados, acceso común y edificación conjunta. No autoriza una ciudadanía política moderna ni una absorción étnica.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
