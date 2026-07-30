@@ -173,6 +173,12 @@ El texto local sí permite recorrer ambos focos en orden. En #galatians_3_10-14,
 
 Así se repara la trazabilidad sin rellenar la ausencia del transcript: los títulos públicos fijan el alcance de las sesiones, Galatim 3 gobierna la evaluación verso a verso y la atribución a Eric queda limitada a lo que realmente puede sostenerse. La nota conserva la observación general de la clase sobre promesa, maldición, mediador y Torah, pero no inventa citas, marcas de tiempo ni argumentos no documentados.
 
+## Control léxico de promesa, emunah y herencia
+
+La secuencia de Galatim 3 exige no mezclar tres afirmaciones. **(ἐπαγγελία)**, _epangelia_, significa promesa o anuncio comprometedor; en 3:16-18 su fuerza contextual es la promesa dada a Abraham y a su simiente antes de la llegada de la Torah. «Promesa» es una glosa **directa**; convertirla en una garantía desligada de su destinatario mesiánico sería **inferencial**. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; en 3:6-9 y 3:22 relaciona a Abraham y a los creyentes con la acción de Elohim, pero el debate sobre la fidelidad del Mesías y la confianza en él permanece **cualificado**, no resuelto por el sustantivo aislado.
+
+**(κληρονόμος)**, _klēronomos_, significa heredero o receptor de una herencia; en 3:29 su fuerza contextual describe la participación en la promesa por pertenecer al Mesías. «Herederos» es **directo** en el argumento, mientras usarlo para borrar la historia de Israel o para fabricar una jerarquía humana sería **ilegítimo**. Así, la observación atribuible de Eric recibe apoyo textual en el arco promesa–Mesías–naciones, pero las equivalencias entre _emunah_, _pistis_ y «fidelidad» siguen siendo **aproximadas y pedagógicas** cuando se trasladan entre lenguas.
+
 ## Reparación final: promesa, mediador y alcance de la evidencia
 
 Las fuentes públicas asignadas conservan dos focos que deben leerse en orden: `youtube:9KQYTf0aRe0` anuncia «la “maldición” de la Ley» para #galatians_3_10-14, y `youtube:1owk-zoap1E` anuncia «El Mediador y la Ley» para #galatians_3_19-25. Como esas dos transcripciones no están disponibles en el inventario local, es **exacto** atribuirles título, URL y alcance anunciado; sería **ilegítimo** presentar como cita o detalle de Eric una reconstrucción no documentada. Galatim 3 sí permite evaluar ambos focos mediante su propia secuencia: la promesa precede, la Torah se añade por las transgresiones y el Mesías redime para que la bendición llegue a las naciones.
