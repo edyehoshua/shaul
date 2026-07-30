@@ -202,6 +202,14 @@ La demora entre 5:24 y 5:35 tampoco es un accidente que deba eliminarse para lle
 
 Marcos 5 no separa la autoridad de Yehoshua en tres milagros desconectados. El hombre que vuelve de los sepulcros, la mujer que sale del anonimato y la niña a quien se ordena levantarse son restaurados en cuerpo, relación y lugar. La _pistis_ no funciona como técnica para controlar a Yehoshua: la mujer habla, Iair recibe una palabra contra el miedo y la muchacha necesita comer. La clase de Eric señala públicamente al endemoniado de Gdarah; el capítulo completo permite ver que esa liberación desemboca en una vida capaz de volver a casa y anunciar misericordia.
 
+## Control de orden: la restauración se vuelve testimonio
+
+El título público de la clase permite atribuir a Eric el foco del endemoniado de Gdarah, pero no frases orales que no han sido cotejadas. La secuencia local sí ofrece una prueba completa de lo que significa restauración. Primero Yehoshua ordena **ἔξελθε**, _exelthe_, «sal», al espíritu; después el hombre queda **σωφρονοῦντα**, _sōphronounta_, «en juicio sano», y recibe **ὕπαγε**, _hypage_, «ve», hacia su casa. **ἀπαγγέλλω**, _apangellō_, «anunciar o informar», se acerca funcionalmente a **(נגד)**, _nagad_, «hacer saber», pero la equivalencia es aproximada: el griego y sus objetos gobiernan el argumento.
+
+La mujer y la hija no son repeticiones de la primera escena. **ἥψατο**, _hēpsato_, «tocó», inicia el contacto de la mujer; sin embargo, su restauración se confirma cuando habla toda la verdad y recibe **εἰρήνη**, _eirēnē_, «paz o bienestar». Luego **μὴ φοβοῦ, μόνον πίστευε**, _mē phobou, monon pisteue_, «no temas, solo confía», responde a la noticia de muerte, y **ἔγειρε**, _egeire_, «levántate», se verifica en que la niña camina y come. La relación de **πίστις**, _pistis_, con **(אמונה)**, _emunah_, es de campo semántico y no una fórmula para controlar el resultado.
+
+Así, la observación atribuible sobre liberación queda probada sin borrar el resto del capítulo: Yehoshua devuelve al hombre a sus vínculos, a la mujer a una voz pública y a la niña a una mesa. El mapa de la enseñanza debe conservar ese límite de atribución; la interpretación canónica puede seguir el capítulo entero, pero no convertir sus inferencias en citas de Eric.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

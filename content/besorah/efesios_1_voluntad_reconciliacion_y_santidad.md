@@ -198,6 +198,16 @@ La oración final verifica el destino comunitario de esa obra. **ἐλπίς**, 
 | El poder anunciado a los creyentes se ve en la resurrección, y el Mesías queda presentado como cabeza de la asamblea, su cuerpo.                           | Efesios 1:19-23                           | **Apoyo textual**: el cierre une poder, resurrección, supremacía y cuerpo; los ecos de Salmo 24 e Isaías 41 son conexiones propuestas, no intertextos demostrados aquí.                                             |
 | La autoridad del Mesías sobre todo nombre y la plenitud de la asamblea deben leerse juntas, no como una espiritualidad desligada de la comunidad.          | Efesios 1:20-23                           | **Apoyo textual con aclaración léxica**: ὑπεράνω, κεφαλή, σῶμα y πλήρωμα sostienen la relación; las reconstrucciones de Eric sobre poderes particulares permanecen pendientes.                                      |
 
+El mapa distingue lo que la exposición observa del alcance que el pasaje permite afirmar; la transcripción automática sirve para atribución y orientación.
+
+## Conexiones principales: voluntad recibida, no clave privada
+
+La conexión con 2 Corintios 5 debe permanecer en el punto que la clase realmente usa: la nueva creación y la reconciliación proceden de Elohim. **καταλλάσσω**, _katallassō_, significa «reconciliar» o «cambiar una relación»; en 2 Corintios 5:18-19 describe la acción que Elohim realiza y el servicio que entrega. Su relación con **רצה**, _ratsah_, «complacer, aceptar o mostrar favor», es una comparación semítica aproximada, no una equivalencia textual. Esta dependencia ilumina Efesios 1:1-14, pero no autoriza a convertir toda decisión personal en una revelación privada de voluntad.
+
+La conexión con 1 Tesalonicenses 4:3 y 5:18-22 es más explícita: **θέλημα**, _thelēma_, «voluntad o propósito», aparece unido a santidad, gratitud y discernimiento. En Efesios 1 esos frutos no sustituyen la obra anunciada; nacen dentro de una cadena que pasa por bendición, redención, palabra oída, confianza y sello. **δοκιμάζω**, _dokimazō_, significa «probar o examinar»; en 1 Tesalonicenses 5:21 ordena evaluar, no aceptar cualquier impresión espiritual. Por eso la aplicación de Eric sobre una vida reconciliada y santa queda apoyada, mientras sus extensiones pastorales deben seguir sometidas al texto.
+
+Finalmente, Efesios 1:19-23 controla la conexión con Salmo 24 e Isaías 41. **ἐνέργεια**, _energeia_, «actividad eficaz u operación», y **δύναμις**, _dynamis_, «poder o capacidad», se prueban por la resurrección y exaltación del Mesías; **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», terminan en la asamblea. Los ecos de gloria y gobierno pueden servir como lectura comparativa, pero no desplazan la conclusión local: la voluntad revelada forma una comunidad bajo la cabeza del Mesías.
+
 ## Control añadido: de la voluntad revelada a la esperanza comunitaria
 
 La pregunta de Eric sobre la voluntad de Elohim queda mejor delimitada cuando se sigue el movimiento completo de 1:3-23. **εὐλογήσας** (_eulogēsas_, «habiendo bendecido») abre la cadena como una acción recibida; **προορίσας** (_proorisas_, «habiendo destinado o determinado de antemano») y **ἐχαρίτωσεν** (_echaritōsen_, «agració o concedió favor») describen el propósito y el favor en el Mesías. En 1:7, **ἔχομεν** (_echomen_, «tenemos») presenta la redención y el perdón como posesión anunciada, mientras **γνωρίσας** (_gnōrisas_, «habiendo dado a conocer») muestra que el misterio no queda como intuición privada. Estas formas no son sinónimos: juntas sostienen una secuencia de bendición, propósito, gracia, redención y revelación.
@@ -255,7 +265,6 @@ El argumento sigue hacia la revelación. **μυστήριον**, _mystērion_, �
 En 1:11-14, **κληρόω**, _klēroō_, «asignar una herencia» o hacer partícipe de una porción, y **σφραγίζω**, _sphragizō_, «sellar», llevan el propósito hacia una comunidad que oye la palabra de verdad. **ἀκούσαντες**, _akousantes_, «habiendo oído», y **πιστεύσαντες**, _pisteusantes_, «habiendo confiado», preceden al sello del Rúaj de la promesa. La cadena no presenta la respuesta como compra del don ni el sello como objeto manipulable. Puede compararse de modo cualificado con **נחל**, _najal_, «recibir una herencia», y **חתם**, _jatam_, «sellar», pero esas formas hebreas no son equivalentes automáticas del texto griego.
 
 La oración de 1:15-23 confirma el destino de todo lo anterior. **παύομαι**, _pauomai_, «cesar» o dejar de hacer algo, aparece en la expresión «no ceso de dar gracias»; **μνημονεύω**, _mnēmoneuō_, «recordar» o tener presente, muestra que la oración nace de una relación comunitaria ya oída. Pablo no pide una fórmula para producir poder, sino que el Padre dé **πνεῦμα σοφίας**, _pneuma sophias_, «espíritu de sabiduría», y que ilumine los ojos del corazón. La respuesta a la voluntad revelada se verifica, por tanto, en memoria agradecida, esperanza, herencia y pertenencia al cuerpo bajo la cabeza; esta secuencia apoya la síntesis de Eric sin convertirla en un método privado.
-
 
 ## Control final de la unidad: voluntad comunicada, respuesta y cuerpo
 
@@ -346,16 +355,3 @@ El recorrido completo del capítulo amplía esa apertura: bendición, elección,
 
 - [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
 - [[tesalonicenses_1_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]
-
-## Créditos
-
-Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**:
-
-- «La Carta A Los Efesios Parte 1 ¿Cuál es la voluntad de Dios para mi vida?» — https://www.youtube.com/watch?v=6gCUX55_ID0 (`source_id: youtube:6gCUX55_ID0`).
-- «La carta a los Efesios Parte 2 ¿Predestinados?» — https://www.youtube.com/watch?v=qsn5BfZMZ8o (`source_id: youtube:qsn5BfZMZ8o`).
-- «La carta a los Efesios (Parte 3) Cap 1 / La revelación de su voluntad» — https://www.youtube.com/watch?v=9Tzh2oZtmAk (`source_id: youtube:9Tzh2oZtmAk`).
-- «La carta a los Efesios (parte 4) El esplendor de la honra de Mashiaj/Hadar kevod Hamashiaj» — https://www.youtube.com/watch?v=KPdeVmwOViQ (`source_id: youtube:KPdeVmwOViQ`).
-- «The Letter to the Ephesians (part 5) Chapter 1 Yehoshua's Hamashiaj, 'the father will say'» — https://www.youtube.com/watch?v=k2V_xN81ozU (`source_id: youtube:k2V_xN81ozU`).
-- «The Epistle to the Ephesians (Part 6) Ch. 1: Mashiach Head and Seed — משיח ראש וזרע» — https://www.youtube.com/watch?v=WSIaQ6rlhDc (`source_id: youtube:WSIaQ6rlhDc).
-
-Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

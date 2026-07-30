@@ -256,6 +256,14 @@ Finalmente, la provisión debe leerse junto al descanso. **ἀναπαύσασθ
 
 Marcos 6 presenta una misión que no nace de la autopromoción: Yehoshua envía, da autoridad, recibe el informe y manda descansar. El rechazo en Nazaret, la muerte de Iojanán y el viento contrario impiden una lectura triunfalista. Sin embargo, el capítulo tampoco deja a los enviados en la escasez o a la multitud sin atención: el maestro enseña, da pan, llega a la barca y sana a quienes acuden. La fidelidad que la clase llama emunah se prueba justamente allí: en escuchar la orden, servir con lo que se recibe y volver a reconocer a Yehoshua cuando el temor oscurece la comprensión.
 
+## Control de orden: comisión, descanso, pan y presencia
+
+La observación de Eric sobre el enviado como representante debe seguir el recorrido del capítulo. **ἐδίδου**, _edidou_, «daba», y **παρήγγειλεν**, _parēngeilen_, «encargó», aparecen antes de que los Doce proclamen **μετανοῶσιν**, _metanoōsin_, «que se vuelvan o se arrepientan». La comparación con **(שליח)**, _shaliaj_, «enviado o representante», es funcional y aproximada; no importa automáticamente una institución posterior. Cuando regresan, **ἀναπαύσασθε**, _anapausasthe_, «descansen», muestra que la autoridad recibida incluye un límite corporal y no una obligación de rendimiento continuo.
+
+La compasión interpreta después el pan. **ἐσπλαγχνίσθη**, _esplagchnisthē_, «fue movido a compasión», conduce a enseñar antes de alimentar; **εὐλόγησεν**, _eulogēsen_, «bendijo», y **κατέκλασεν**, _kateklasen_, «partió», describen acciones de Yehoshua, mientras **ἐδίδου**, _edidou_, «daba o iba dando», describe la mediación de los discípulos. Por eso la exhortación «denles ustedes de comer» responsabiliza a los enviados sin hacerlos fuente autónoma. Las doce canastas son un dato narrativo; no se convierten aquí en una clave simbólica demostrada.
+
+Finalmente, **ἐγώ εἰμι**, _egō eimi_, «soy yo» o «yo soy», responde al temor de la barca después del pan y del cansancio. Puede dialogar intertextualmente con el dominio de יהוה sobre el mar en Tehilim 107:29, pero no es una equivalencia hebrea automática ni una cita formal del salmo. El capítulo vuelve a las aldeas y a los cuerpos enfermos: la compasión de Yehoshua se reconoce por enseñanza, provisión, presencia y sanidad, mientras la emunah permanece como lectura pastoral cualificada.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

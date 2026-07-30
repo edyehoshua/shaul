@@ -126,11 +126,17 @@ La clase propone que la imagen describe a Yehoshua como mediación de la comunic
 
 El primer capítulo no deja a Iojanán en el centro: su voz prepara y su testimonio señala al Cordero. Los primeros discípulos oyen, siguen, permanecen, llaman a otros y confiesan. El anuncio final de los cielos abiertos no abandona ese hilo; lo sitúa dentro de la memoria de Yaakov y llama a leer a Yehoshua a la luz de las Escrituras, sin convertir las asociaciones interpretativas en afirmaciones que el texto no hace.
 
+## Mapa de la enseñanza de Eric
+
+- **Yojanán 1:19-27 — el testigo y la voz:** Eric distingue a Iojanán de las figuras mesiánicas por las que le preguntan; la nota lo prueba con su confesión negativa y con la función preparatoria de la voz.
+- **Yojanán 1:29-42 — el Cordero y los primeros discípulos:** la clase subraya que Iojanán señala, pero no produce, la identidad de Yehoshua; la nota conserva esa observación y sigue el movimiento de oír, seguir, permanecer y anunciar.
+- **Yojanán 1:43-51 — invitación, confesión y Sulam:** Eric relaciona «ven y ve», los títulos de Netanel y los cielos abiertos con Bereshit 28; la nota apoya la conexión intertextual y califica las extensiones etimológicas o metafísicas.
+
 ## Ver también
 
 - [[yojanan_10_pastor_vida_obras|Yojanán 10: el pastor, la vida y las obras]] — el criterio de las obras y del testimonio.
 - [[../temas/bat_kol|Bat qol y testimonio desde el cielo]] — la voz y el testimonio.
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]] — el Cordero y la lectura de la obra mesiánica.
+- [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]] — el Cordero y la lectura de la obra mesiánica.
 
 ## Créditos
 

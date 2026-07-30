@@ -364,7 +364,18 @@ La autoridad se desplaza después a los Doce sin volverse autónoma. **(προσ
 
 Finalmente, la casa dividida y la familia obediente no son dos consignas separadas. **(οἶκος)**, _oikos_, «casa u hogar», aparece como dominio que no puede permanecer si está dividido; **(δέω)**, _deō_, «atar», señala la condición previa para saquear la casa del fuerte; y **(ποιεῖ)**, _poiei_, «hace», define en 3:35 a quien pertenece a la familia por practicar la voluntad de Elohim. Así, la perícopa avanza en orden desde vida restaurada, a autoridad derivada, a pertenencia visible; no autoriza acusar a personas ni sustituir obediencia por parentesco.
 
-- [[markos_2_torah_promesas_procedimientos|Marcos 2: perdón, nuevo pacto y Torah que permanece]]
+## Reparación dirigida: la vida restaurada prueba la autoridad recibida
+
+La exposición de Eric sobre «escoger la vida» debe conservarse unida a la controversia concreta de 3:1-6. Los fariseos **παρετήρουν**, _paretēroun_, «observaban atentamente» o «vigilaban», para acusar; Yehoshua ordena al hombre ponerse en medio y pregunta si en Shabbat es lícito **ἀγαθοποιῆσαι**, _agathopoiēsai_, «hacer el bien», o **κακοποιῆσαι**, _kakopoiēsai_, «hacer el mal», salvar una vida o matar. La forma **ψυχή**, _psychē_, «vida, ser viviente o persona», recibe su sentido por el contraste de la escena: la mano restaurada es una vida humana atendida, no una abstracción sobre calendarios. La relación con **(נפש)**, _nefesh_, «vida o persona», es una equivalencia semítica aproximada; Marcos gobierna la lectura.
+
+El relato hace visible la dureza antes de narrar la conspiración. Yehoshua mira alrededor con ira y tristeza por la dureza de sus corazones, y luego dice **ἔγειρε**, _egeire_, «levántate» o «extiende», en la orden dirigida a la mano. **πωρόω**, _pōroō_, «endurecer o volver insensible», no describe simplemente falta de información: el contexto muestra una resistencia que permanece aun cuando el bien está delante de ellos. Eric puede usar esta escena para llamar a escoger la vida, pero el texto no permite convertirla en una etiqueta para toda persona que discrepe; la acusación debe permanecer ligada a los sujetos y acciones que Marcos nombra.
+
+La transición a los Doce protege el sentido de autoridad. En 3:13-15, Yehoshua **προσκαλεῖται**, _proskaleitai_, «llama hacia sí», y **ἐποίησεν δώδεκα**, _epoiēsen dōdeka_, «estableció a doce», con dos propósitos explícitos: estar con él y enviarlos a proclamar, con autoridad para expulsar demonios. **ἀποστέλλω**, _apostellō_, «enviar con encargo», no es sinónimo de **ἐξουσία**, _exousia_, «autoridad o potestad»; el envío nombra la misión y la potestad describe la capacidad recibida para cumplirla. La observación de Eric sobre presencia antes del servicio queda así probada por la sintaxis y limitada contra el dominio personal.
+
+La casa dividida y la familia del cierre completan la misma progresión. **οἶκος**, _oikos_, «casa u hogar», funciona en 3:25 como una unidad que no puede permanecer dividida; en 3:27, la casa del fuerte solo puede ser saqueada si primero se le ata. Luego **ποιεῖ**, _poiei_, «hace», en 3:35 recibe como objeto la voluntad de Elohim. No basta reclamar cercanía ni repetir una confesión: la pertenencia se reconoce por una práctica visible. La enseñanza de Eric sobre una familia reunida alrededor del Mesías recibe apoyo cuando se mantiene el orden de Marcos: vida restaurada, autoridad recibida y voluntad hecha; no una licencia para controlar a otros ni para confundir todo conflicto con impureza.
+
+[[markos_2_torah_promesas_procedimientos|Marcos 2: perdón, nuevo pacto y Torah que permanece]]
+
 - [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/shabat|Shabat]]
 - [[../temas/ruaj_tumah_posesion_y_liberacion|Ruaj tumah, posesión y liberación]]

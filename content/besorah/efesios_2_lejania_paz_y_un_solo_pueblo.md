@@ -59,7 +59,21 @@ Efesios 2 sigue un movimiento único: Elohim vivifica a quienes estaban muertos 
 
 - La fuente principal es la exposición pública de Eric de Jesús Rodríguez Mendoza sobre Efesios 2, especialmente «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder» (`youtube:byKm54KeTyQ`) y «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj» (`youtube:0p62JJfVydA`). Las partes 7–9 quedan acreditadas porque la nota conserva sus conexiones preparatorias.
 - La lectura sigue el capítulo en orden: 2:1-10, 2:11-12, 2:13-18 y 2:19-22. La transcripción automática orienta la atribución y la organización; no se presenta como cita literal.
-- El texto base es el Delitzsch local sin nikud. Las formas griegas se explican porque gobiernan el argumento, mientras las equivalencias hebreas se identifican como traducciones o comparaciones de campo.
+- Las formas griegas se explican porque gobiernan el argumento, mientras las equivalencias hebreas se identifican como traducciones o comparaciones de campo.
+
+## Control de fuentes
+
+La nota canónica conserva cinco identificadores públicos sin reutilizarlos en otra nota de Efesios:
+
+| Fuente pública                                                                  | Alcance atribuido                                                          |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Parte 7](https://www.youtube.com/watch?v=vCrg-tQllxU) (`youtube:vCrg-tQllxU`)  | Conexiones preparatorias que desembocan en la lectura del capítulo 2.      |
+| [Parte 8](https://www.youtube.com/watch?v=kPRNLeXCmb8) (`youtube:kPRNLeXCmb8`)  | Continuación preparatoria sobre la obra del Mesías y la comunidad.         |
+| [Parte 9](https://www.youtube.com/watch?v=wOLrgSpNpQI) (`youtube:wOLrgSpNpQI`)  | Material preparatorio acreditado, sin atribuirle aquí frases no cotejadas. |
+| [Parte 10](https://www.youtube.com/watch?v=byKm54KeTyQ) (`youtube:byKm54KeTyQ`) | Un solo pueblo y morada de su poder; Efesios 2:11-22.                      |
+| [Parte 11](https://www.youtube.com/watch?v=0p62JJfVydA) (`youtube:0p62JJfVydA`) | Nueva creación en el Mesías; Efesios 2:1-10 y su enlace con 2:11-22.       |
+
+Los tres primeros videos quedan como dependencias preparatorias; la prueba de cada afirmación sigue el texto local de Efesios 2 y no convierte el título del video en una cita literal.
 
 ## Hoja de comparación
 

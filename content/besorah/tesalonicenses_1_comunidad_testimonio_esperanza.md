@@ -111,10 +111,16 @@ La clase relaciona la palabra “esperar” con una descomposición del griego y
 
 1 Tesalonicenses 1 no separa doctrina, vida comunitaria y esperanza final. La comunidad recibe la palabra bajo aflicción, persevera con gozo, se vuelve un ejemplo audible, abandona los ídolos, sirve al Elohim vivo y verdadero y espera al Hijo resucitado. Así, el capítulo define el testimonio no como autosuficiencia religiosa, sino como una fe que cambia de servicio y permanece orientada hacia la resurrección.
 
+## Mapa de la enseñanza de Eric
+
+- **1 Tesalonicenses 1:1-4 — memoria de fe, amor y esperanza:** la clase presenta estas tres realidades como fruto visible de una comunidad llamada y amada; la nota las conserva como afirmación textual y evita convertir la propuesta sintáctica en traducción indiscutible.
+- **1 Tesalonicenses 1:5-8 — palabra recibida en aflicción:** Eric destaca que la palabra llega con poder y Rúaj haQódesh, pero dentro de mucha aflicción; la nota lo prueba con la comparación local y conserva la tribulación como dato, no como metáfora.
+- **1 Tesalonicenses 1:9-10 — abandonar ídolos y esperar al Hijo:** la clase relaciona conversión, servicio y resurrección; la nota apoya la secuencia textual y deja pendientes las extensiones históricas o etimológicas no cotejadas.
+
 ## Ver también
 
 - [[romanim_10|Romanos 10]]
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
+- [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[yojanan_1_testigo_cordero|Yojanán 1: el testigo que presenta al Cordero]]
 
 ## Créditos

@@ -135,6 +135,10 @@ Eric explica **(משיח)** desde la unción y menciona usos plurales para profe
 
 El silencio no niega la confesión; prepara su corrección. Una identidad anunciada sin el camino que Yehoshua mismo revelará puede ser verdadera en palabras y equivocada en contenido. El episodio del ciego ilumina precisamente este peligro: se puede ver algo real y, sin embargo, no verlo todavía «con buena luz».
 
+La secuencia verbal confirma esa dependencia entre título y camino. **(ἐπιτιμάω)**, _epitimaō_, «reprender o censurar», describe la intervención de Kefa en 8:32; no es una pregunta abierta, sino un intento de detener la enseñanza sobre el padecimiento. Yehoshua responde con **(φρονέω)**, _phroneō_, «pensar, tener una disposición o fijar la mente»: el problema no es que Kefa ignore el título, sino que interpreta «Mesías» desde «lo de los hombres». La observación de Eric sobre una confesión que necesita ser llenada de contenido recibe aquí apoyo narrativo directo.
+
+Por eso el llamado de 8:34 no puede separarse del anuncio anterior. **(ἀκολουθέω)**, _akoloutheō_, «seguir o acompañar», ordena ponerse detrás de Yehoshua; **(ἀπαρνέομαι)**, _aparneomai_, «negarse o renunciar a sí mismo», y **(αἴρω)**, _airō_, «levantar o tomar», describen la respuesta del discípulo. **(σταυρός)**, _stauros_, «cruz o madero de ejecución», conserva el costo público del camino. La comparación con **(אמן)**, _aman_, «afirmarse o confiar», es pedagógica y aproximada; no reemplaza las formas griegas. Así, la clase puede hablar de una visión que madura, pero el texto fija la prueba: reconocer al Mesías incluye seguirlo en el camino que él mismo anuncia.
+
 ## El Ben HaAdam debe padecer, morir y levantarse (8:31-33)
 
 El giro llega con «comenzó a enseñarles». #markos_8_31 no presenta el padecimiento como accidente que sorprende al Mesías, sino como enseñanza necesaria dentro del camino del **(בן האדם)**. El versículo enumera rechazo por ancianos, sacerdotes y oficiales, muerte y levantamiento después de tres días. Es una secuencia, no una celebración genérica del dolor: rechazo, muerte y resurrección quedan unidos.
@@ -255,6 +259,16 @@ Solo entonces el ciego pasa de ver hombres como árboles a ver con buena luz, y 
 Marcos 8 lleva del pan dado y la señal rechazada a una vista incompleta y a una confesión probada. Antes de Cesarea, los discípulos ya muestran corazones endurecidos al confundir levadura con harina; el ciego y Kefa continúan esa pedagogía de ver por etapas. Kefa dice correctamente que Yehoshua es el Mesías, pero la explicación de Yehoshua impide que ese título se llene con ambición política o triunfo sin entrega. El Ben HaAdam debe sufrir, ser rechazado, morir y levantarse; después llama a quienes lo oyen a venir detrás de él, no delante de él con sus propias expectativas.
 
 La claridad final no consiste en conocer una etiqueta religiosa, sino en reconocer que la gloria del Mesías no cancela la cruz y que la vida se salva precisamente al no retenerla contra la Besorah.
+
+## Control final de orden: la provisión prueba la confesión
+
+La unidad completa mantiene una prueba progresiva. En 8:1-9, **σπλαγχνίζομαι**, _splanchnizomai_, «compadecerse», explica la provisión de los panes; en 8:10-13, **σημεῖον**, _sēmeion_, «señal», nombra la demanda que Yehoshua no concede. La clase de Eric distingue ambos movimientos, y el texto confirma que la compasión hacia la multitud no debe confundirse con una demostración hecha para satisfacer a quien tienta.
+
+En 8:14-21, **ζύμη**, _zymē_, «levadura o fermento», es interpretada por los discípulos como falta de pan, pero **νοεῖτε**, _noeite_, «entender», y **πεπωρωμένη**, _pepōrōmenē_, «endurecida o embotada», muestran que el problema es la comprensión de lo ya visto. La memoria de cinco panes y siete panes prepara la escena siguiente: el ciego ve primero de manera parcial y luego con claridad. La relación literaria es una inferencia controlada por el orden, no una alegoría obligatoria.
+
+En 8:27-33, la confesión **ὁ χριστός**, _ho christos_, «el Mesías, el Ungido», queda inmediatamente llenada por **διδάσκειν**, _didaskein_, «enseñar»: el Ben HaAdam debe padecer, ser rechazado, morir y levantarse. Kefa **ἐπιτιμάω**, _epitimaō_, «reprender o censurar», porque no acepta ese contenido; Yehoshua responde con **φρονέω**, _phroneō_, «pensar o tener la mente puesta». La observación de Eric sobre una confesión correcta pero incompleta recibe apoyo directo: la identidad no puede separarse del camino que Yehoshua anuncia.
+
+Finalmente, 8:34-38 convierte esa corrección en discipulado. **ἀκολουθέω**, _akoloutheō_, «seguir», y **ὀπίσω**, _opisō_, «detrás», sitúan al discípulo detrás de Yehoshua; **ἀπαρνέομαι**, _aparneomai_, «negarse o renunciar», y **σταυρός**, _stauros_, «cruz o madero de ejecución», describen el costo público. **ψυχή**, _psychē_, «vida, persona o ser viviente», no ordena buscar daño: el contraste es perder la vida por Yehoshua y la Besorah frente a ganar el mundo entero. Así, Marcos 8 termina probando la visión por su fruto: recordar la provisión, recibir la corrección del título y seguir al Mesías sin adelantarse a su palabra.
 
 ## Créditos
 

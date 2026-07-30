@@ -42,6 +42,7 @@ references:
   - "#yaakov_3_17"
   - "#sodot_19_10"
 sources:
+   - "content/besorah/markos_9_gloria_servicio_sal_paz.md"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/daniel/7.json"
@@ -61,7 +62,8 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 
 ## Alcance de la nota
 
-- Fuente principal: transcripción automática de una clase en video; se conserva la línea argumental, no cada giro oral.
+- Esta es una hoja léxica complementaria; la fuente pública de la clase y su `source_id` pertenecen al estudio canónico [[markos_9_gloria_servicio_sal_paz|Marcos 9]], para evitar duplicar una fuente exclusiva del capítulo.
+- Se conserva la línea argumental de la clase en forma de glosario, no cada giro oral ni como una segunda nota canónica de capítulo.
 - El video llama a este material "capítulo 2" del estudio de Marcos, pero los anclajes bíblicos principales están en #markos_9_1-9, #markos_10_33 y #markos_13_26.
 - Las referencias a Targum, Midrash, Talmud y literatura judía quedan como marco de la clase, pero se marcan como pendientes cuando no se cotejó la fuente exacta.
 - Para Tanaj y Besorah se usó el corpus local disponible, confirmado con `npm run scriptures:ensure` el 17 de julio de 2026.
@@ -189,13 +191,18 @@ En ese marco, #shir_hashirim_4_5 se menciona por la interpretación targúmica d
 - [ ] Revisar si #qolosim_2_3 debe citarse como "conocimiento" o "inteligencia" según el griego, Delitzsch y la línea de la clase.
 - [ ] Ampliar con Nejemiah 8 el argumento sobre lectura hebrea, explicación y tradición aramea.
 
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público de referencia, acreditado y con `source_id` en el estudio canónico [[markos_9_gloria_servicio_sal_paz|Marcos 9]]: [El Evangelio según Marco - Parte 28 La Metamorfosis de Mashíaj](https://www.youtube.com/watch?v=3UA4ZtIYBpI).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 ## Conclusión
 
 La clase presenta Marcos 9 como una escena de revelación, no como una visión aislada. Yeshúa promete que algunos verán el reino venido con poder, sube al monte, se transforma, muestra las señales de Daniel 7, recibe el testimonio de la nube y queda solo ante los discípulos. La Torah y la profecía apuntan hacia él; la sabiduría y la inteligencia están escondidas en él; el Bar Enash de Daniel y el Ben HaAdam de Marcos convergen en el Mesías que padece, resucita y viene con honra.
 
 ## Ver también
 
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
+- [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]
 - [[yojanan_9_ben_adam_y_el_ciego|Yojanán 9: Ben Adam y el ciego que se postró]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]

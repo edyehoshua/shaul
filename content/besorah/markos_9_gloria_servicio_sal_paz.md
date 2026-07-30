@@ -358,6 +358,12 @@ Eric enlaza esa lectura con **(σῶμα ψυχικόν)**, _sōma psychikon_, �
 
 La misma fuente interpreta la metamorfosis como una muestra consoladora del reino anunciado, no como permiso para buscar rango. **(μετεμορφώθη)**, _metemorphōthē_, «fue transformado», describe el acontecimiento; **(διακονεῖν)**, _diakonein_, «servir», describe la grandeza corregida; y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan la paz», da el fruto comunitario. La relación de **(מלח)**, _melaj_, «sal», con la sal del pacto de Vaikra 2:13 es un trasfondo aproximado. La secuencia textual prueba la lectura atribuible de Eric mejor que una definición aislada: ver, escuchar, pedir ayuda, servir y vivir en paz.
 
+## Cobertura final de la secuencia (9:1-50)
+
+La perícopa completa no permite saltar de la metamorfosis al hogar o a una doctrina aislada. En 9:1-13, **(ἀκούετε)**, _akouete_, «escuchen», gobierna la visión y **(διεστείλατο)**, _diesteilato_, «ordenó expresamente», limita su divulgación hasta la resurrección; **(γέγραπται)**, _gegraptai_, «ha sido escrito», mantiene la explicación sobre Eliyahu dentro del testimonio escritural. En 9:14-29, **(πιστεύω)**, _pisteuō_, «creo o confío», y **(βοήθει)**, _boēthei_, «ayuda», conservan la súplica vulnerable del padre, mientras **(προσευχή)**, _proseuchē_, «oración», expresa dependencia y no una técnica de control.
+
+En 9:30-37, **(παραδίδοται)**, _paradidotai_, «es entregado», precede a **(διακονεῖν)**, _diakonein_, «servir»: el anuncio de la entrega interpreta la discusión por grandeza. **(παιδίον)**, _paidion_, «niño o pequeño», permanece como la persona recibida en medio, de modo que el servicio no es una metáfora para reemplazar al vulnerable. En 9:38-50, **(σκανδαλίσῃ)**, _skandalisē_, «haga tropezar», responsabiliza a quien daña a los pequeños; **(ἅλας)**, _halas_, «sal», y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan la paz», llevan la disciplina al resultado comunitario. La enseñanza atribuible de Eric queda así probada en orden: ver, escuchar, pedir ayuda, servir, proteger y vivir en paz.
+
 ## Conclusión
 
 Marcos 9 lleva la gloria del monte hacia la obediencia que escucha, la compasión que pide ayuda y el servicio que recibe al pequeño. La entrega anunciada impide convertir la metamorfosis en una plataforma de rango: Yehoshua corrige la ambición, protege a los vulnerables y manda conservar la paz. La sal del cierre puede relacionarse de forma pedagógica con la sal del pacto de Vaikra, pero el texto de Marcos fija el resultado: una comunidad preservada en fidelidad y _shalom_.

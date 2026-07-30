@@ -166,6 +166,14 @@ El v. 11 funciona como control contra esa exageración. **(εἰσῆλθεν)**
 
 Este control prueba la observación de Eric en su forma más concreta: el rey recibido por la multitud no queda definido por el volumen del aplauso, sino por la finalidad que examina. La entrada, por tanto, prepara el contraste entre apariencia y fruto sin borrar la secuencia ni cargar el asnito con una simbología que el texto no explicita.
 
+## Prueba final: una autoridad que produce fruto (11:1-33)
+
+La entrada, el Hejal y la pregunta final forman una sola prueba. **εἰσῆλθεν**, _eisēlthen_, «entró», y **περιβλεψάμενος**, _periblepsamenos_, «habiendo mirado alrededor», muestran que la aclamación no basta: Yehoshua inspecciona antes de confrontar. La higuera ofrece el criterio de **καρπός**, _karpos_, «fruto», frente a **φύλλα**, _phylla_, «hojas»; la imagen queda ligada a la casa de oración por el entrelazamiento narrativo, pero no autoriza a condenar un pueblo entero.
+
+La oración confirma la misma dirección ética. **ἔχετε πίστιν θεοῦ**, _echete pistin theou_, admite «tengan fe en Dios» y «tengan la fidelidad de Dios»; la construcción genitiva requiere cautela y su comparación con **אמונה**, _emunah_, «fidelidad o firmeza», es aproximada. Enseguida **προσευχόμενοι**, _proseuchomenoi_, «al orar», queda unido a **ἀφίετε**, _aphiete_, «remitan o perdonen». Por eso la montaña no es una técnica de autosugestión: la petición queda bajo la dependencia de Elohim y la reconciliación con el prójimo.
+
+Finalmente, la autoridad se prueba por la disposición a responder. **ἐξουσία**, _exousia_, «autoridad o poder», es la pregunta de los dirigentes; **ἐκ**, _ek_, «desde o procedente de», estructura la pregunta sobre el origen de la inmersión de Iojanán; y **διελογίζοντο**, _dielogizonto_, «deliberaban entre sí», revela cálculo. La negativa **οὐκ οἴδαμεν**, _ouk oidamen_, «no sabemos», no corrige las obras de Yehoshua: expone el costo moral de evitar la verdad. Así, el énfasis de Eric queda contrastado con el capítulo completo: autoridad, fruto, oración y perdón pertenecen juntos.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el aparato crítico y la distribución de **(Ναζωραῖος)**, **(Ναζαρηνός)** y formas afines antes de derivarlas de **(נצר)**.
