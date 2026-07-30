@@ -99,6 +99,16 @@ El cierre repite el éxodo: «Yo soy יהוה vuestro Elohim, que os saqué de l
 | **(זָכַר)**  | _zajar_         | recordar                  | Memoria que conduce a hacer                  | Directa y contextual.                           |
 | **(עָשָׂה)** | _asah_          | hacer, practicar          | Respuesta concreta a los mandamientos        | Directa.                                        |
 
+## Reparación desarrollada: memoria que conduce a obediencia
+
+La recitación pública de Eric conserva tres movimientos que la Torah misma pone en relación: escuchar y amar en Deuteronomio 6, servir y permanecer atentos en Deuteronomio 11, y mirar, recordar y hacer en Números 15. El estudio no debe convertir esos movimientos en tres prácticas separadas. **שָׁמַע**, _shama_, tiene el sentido ordinario de oír, escuchar y atender; su fuerza contextual se ve en que el imperativo desemboca en amor y servicio. **זָכַר**, _zajar_, significa recordar o traer a la memoria; en Números 15 no es nostalgia abstracta, porque prepara el verbo **עָשָׂה**, _asah_, «hacer o practicar». La relación «memoria que produce obediencia» es textual y directa, no una aplicación inventada para completar el audio.
+
+Deuteronomio 6 distribuye la instrucción por la totalidad de la vida. **שִׁנֵּן**, _shinen_, significa repetir, afilar o inculcar; en el mandato a los padres su fuerza contextual es una enseñanza insistente que forma conversación y conducta. **דֶּרֶךְ**, _derekh_, significa camino, vía o manera de vivir; «camino» es directo, mientras convertirlo en una teoría moderna de hábitos requiere una calificación pedagógica. La casa, el camino, el acostarse y el levantarse no son una lista de lugares mágicos: muestran que la palabra debe acompañar las rutinas, la crianza y las decisiones ordinarias.
+
+Números 15 añade una salvaguarda contra una señal que se vuelve amuleto. **תּוּר**, _tur_, significa explorar, recorrer o seguir; en la advertencia «no andaréis tras vuestro corazón y vuestros ojos» su fuerza es la desviación del deseo respecto de los mandamientos. El texto no condena la vista ni el corazón como órganos, sino el gobierno de una inclinación que aparta de la obediencia. **זָכַר**, _zajar_, vuelve a unir señal y memoria; **עָשָׂה**, _asah_, muestra que la memoria alcanza su finalidad cuando el pueblo practica. La comparación con otras prendas, filacterias o usos posteriores queda fuera del alcance de la recitación y debe permanecer separada.
+
+La fórmula final también ordena la identidad. **קָדַשׁ**, _qadash_, significa apartar, consagrar o santificar; en 15:40 su fuerza contextual es que Israel vive como pueblo separado por la acción de יהוה, no que fabrica su propia redención mediante una marca visible. **יָצָא**, _yatsa_, significa salir; en la fórmula «os saqué de la tierra de Egipto» recuerda que la obediencia responde a una liberación previa. La tesis atribuible de la fuente queda, por ello, limitada pero firme: Eric recita una palabra que manda oír, amar, recordar y hacer; la interpretación desarrollada aquí muestra que las señales sirven a ese recorrido y no lo reemplazan.
+
 ## Pendiente de verificar
 
 - [ ] Comparar la recitación hebrea del video con una edición masorética completa, pues el transcript automático contiene formas deformadas por reconocimiento de voz.
