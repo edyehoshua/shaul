@@ -344,6 +344,12 @@ En #galatians_3_19-25, **(μεσίτης)**, _mesitēs_, significa mediador o in
 - [[romanos_4_promesa_emunah_la_descendencia_de_Abraham|Romanos 4: promesa, emunah y la descendencia de Abraham]]
 - [[las_613_mitzvot_escuchar_servir_y_discernir_la_torah|Las 613 mitzvot: escuchar, servir y discernir la Torah]]
 
+## Control final: dos focos públicos dentro de la secuencia
+
+Las fuentes `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E` deben permanecer separadas de las sesiones con transcripción disponible. Es **exacto** atribuir al hermano Eric de Jesús Rodríguez Mendoza los títulos, las URL públicas y los focos anunciados; es **inferencial** reconstruir frases o argumentos no conservados. El primer foco se contrasta con #galatians_3_10-14: **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; en este contexto caracteriza la sentencia para quien no permanece en todo lo escrito. «Maldito» es **directo**; traducirlo como «excluido» es **aproximado y pedagógico**, no un reemplazo de la forma fuente. **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, rescatar o liberar mediante adquisición; «redimir» es **aproximado**, pues comunica liberación sin imponer un único modelo de rescate. El conector **(ἵνα)**, _hina_, significa para que o con el propósito de; su fuerza **directa** en 3:14 expresa que la bendición de Abraham alcance a las naciones y que reciban la promesa del Ruaj.
+
+El segundo foco se contrasta con #galatians_3_19-25. **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; su sentido ordinario es **directo**, pero su alcance teológico es **cualificado**, porque el sustantivo no identifica por sí solo todas las partes ni permite reconstruir la clase. **(παιδαγωγός)**, _paidagōgos_, significa tutor o acompañante de un menor; en 3:24 señala una custodia orientada hacia el Mesías. «Pedagogo» es **aproximado**; llamarlo «carcelero» sería una paráfrasis **pedagógica demasiado fuerte**. La evaluación canónica mantiene el orden promesa–maldición–redención–mediación–herencia y evita convertir una equivalencia hebreo-griega en una identidad etimológica. Así se conserva lo observable de Eric y el texto local juzga cada extensión.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
