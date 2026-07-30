@@ -211,6 +211,14 @@ La misma subordinación se ve en el cierre largo. La comisión **κηρύξατ�
 
 Marcos 16 comienza después del Shabat, anuncia que Yehoshua fue levantado y termina enviando testigos a proclamar la buena noticia. El primer día de la semana es el marco temporal de la visita al sepulcro; el capítulo no lo nombra «día del Señor». Esa observación coincide con el foco público del video de Eric, pero la crítica completa del calendario necesita una transcripción y otros textos. Lo que Marcos sí deja inequívoco es el centro del cierre: el resucitado va delante, corrige la incredulidad, manda proclamar y acompaña la palabra anunciada.
 
+## Síntesis de lectura: el calendario sirve al anuncio
+
+Marcos 16 no permite que una discusión sobre el nombre del primer día absorba el argumento del capítulo. **μετὰ τὸ σάββατον**, _meta to sabbaton_, «después del Shabat», y **μιᾷ τῶν σαββάτων**, _mia tōn sabbatōn_, «el primero de los Shabat», delimitan el momento de la visita; no son un mandato de cambiar el día de reposo. La equivalencia con **(שבת)**, _shabbat_, «reposo o cesación», ayuda a explicar el marco temporal, pero no convierte la frase griega en una retroversión hebrea ni en el título «día del Señor».
+
+El argumento decisivo se mueve enseguida del tiempo a la evidencia. **ἴδετε**, _idete_, «miren», dirige a las mujeres al lugar; **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta la ausencia del cuerpo; y **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», convierte la comprobación en responsabilidad comunitaria. La noticia encuentra incredulidad —**ἠπίστησαν**, _ēpistēsan_, «no creyeron»— antes de la comisión, de modo que la misión no depende de una recepción humana inmediata.
+
+Finalmente, **κηρύξατε**, _kēryxate_, «proclamen públicamente», y **ἐκήρυξαν**, _ekēryxan_, «proclamaron», forman el marco verbal del envío. **συνεργοῦντος**, _synergountos_, «obrando juntamente», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», atribuyen a יהוה el acompañamiento y la confirmación de la palabra, no la sustitución de la palabra por señales. La observación pública de Eric queda así delimitada con honestidad: el título de la clase abre una pregunta calendárica legítima, pero Marcos 16 culmina en resurrección anunciada, testigos corregidos, proclamación y confirmación divina.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

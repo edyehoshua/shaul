@@ -195,6 +195,14 @@ Finalmente, el capítulo conserva testigos corporales y públicos. **κεντυ�
 
 Marcos 15 muestra al Rey sin ejército humano, preferido en contra, burlado, colgado y confesado. Tehilim 22 no es un adorno: da lengua al clamor y a la burla. El velo se rasga, un gentil reconoce al Hijo de Elohim, las mujeres no se marchan y un consejero valiente sepulta el cuerpo. La historia no termina en el letrero de Pilato; termina en un sepulcro cerrado y vigilado por la mirada de quienes servían al Mesías.
 
+## Síntesis de lectura: una realeza comprobada por testigos
+
+La unidad completa debe leerse como una cadena, no como una colección de símbolos aislados. En 15:1-20, **παραδίδωμι**, _paradidōmi_, «entregar», y **βασιλεύς**, _basileus_, «rey», ponen a Yehoshua ante una autoridad que pregunta por su título y luego lo entrega a la burla. En 15:21-32, **σταυρόω**, _stauroō_, «crucificar», y **κλῆρος**, _klēros_, «suerte o lote», mantienen la escena en acciones públicas, mientras el letrero vuelve a fijar la acusación real. La comparación con **(מלך)**, _mélej_, «rey», es útil como equivalencia semítica de campo, pero no permite sustituir la sintaxis narrativa de Marcos.
+
+En 15:33-39, **ἐκραύγασεν**, _ekraugasen_, «clamó», **ἐξέπνευσεν**, _exepneusen_, «expiró», y **ἐσχίσθη**, _eschisthē_, «fue rasgado», ordenan clamor, muerte y signo del velo. El texto no presenta el rasgado como una explicación verbal del santuario: lo coloca después de la muerte y antes de la confesión del centurión. Eric puede relacionar el velo con el Hejal y el clamor con Tehilim 22, pero esas conexiones son más responsables cuando conservan la diferencia entre el sentido normal de **καταπέτασμα**, _katapetasma_, «velo o cortina», y la inferencia sobre acceso o juicio.
+
+El cierre corporal verifica lo que la escena ha narrado. Iosef **ἐνείλησεν**, _eneilēsen_, «envolvió», el cuerpo; las mujeres **ἐθεώρουν**, _etheōroun_, «observaban» dónde era puesto; y la cercanía del **παρασκευή**, _paraskeuē_, «preparación o víspera», explica la urgencia antes del Shabat. Así, la nota conserva la lectura de Eric sobre calendario, santuario y testimonio sin convertir una cronología discutida en dogma. El resultado textual es más sobrio y más fuerte: el Rey es humillado, muere realmente, es confesado ante la cruz y queda sepultado ante testigos que preparan la noticia del capítulo siguiente.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
