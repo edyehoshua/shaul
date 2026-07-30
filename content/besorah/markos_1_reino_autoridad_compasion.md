@@ -208,6 +208,14 @@ Este anuncio prepara el mandato de 1:15. **πεπλήρωται**, _peplērōtai
 
 El mandato final al hombre limpiado confirma que Marcos no opone compasión y testimonio. **μαρτύριον**, _martyrion_, significa testimonio o evidencia; en 1:44 la presentación ante el sacerdote y la ofrenda ordenada por Moshéh hacen visible una restauración que debe ser reconocida, no una ruptura de toda norma. La lectura no afirma que cada detalle cultual del pasaje resuelva debates posteriores sobre pureza; sí conserva el límite textual: Yehoshua toca, limpia y envía al procedimiento indicado. La autoridad del capítulo sirve al retorno del ser humano a יהוה y a la comunidad, no a una exhibición privada de poder.
 
+## Control final: el anuncio gobierna la autoridad y la restauración
+
+Marcos 1 ordena la autoridad de Yehoshua desde el anuncio hasta la limpieza, no desde el milagro aislado. En 1:14-15, **κηρύσσω**, _kērussō_, «proclamar públicamente», anuncia que el reino se ha acercado, mientras **μετανοεῖτε**, _metanoeite_, «vuelvan o cambien de rumbo», y **πιστεύετε**, _pisteuete_, «confíen», describen la respuesta. La relación pedagógica con **(בשר)**, _basar_, «anunciar buenas noticias», y **(מלכות)**, _maljut_, «reino o reinado», es aproximada; el orden griego local prueba que la autoridad posterior sirve al anuncio y exige respuesta.
+
+En 1:21-34 la enseñanza precede a la liberación y Marcos mantiene categorías distintas. **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», se reconoce en la enseñanza y en el mandato; **φιμόω**, _phimoō_, «hacer callar», y **ἔξελθε**, _exelthe_, «sal», muestran dos órdenes dirigidas al espíritu. Después **πυρέσσω**, _pyressō_, «tener fiebre», describe a la suegra de Shimón, mientras **δαιμονίζομαι**, _daimonizomai_, «estar bajo la acción de un demonio», nombra otra categoría. La observación de Eric sobre no confundir enfermedad y espíritu impuro recibe apoyo narrativo, pero no autoriza diagnósticos espirituales automáticos.
+
+El cierre une oración, misión y compasión. **καταδιώκω**, _katadiōkō_, «buscar intensamente», describe la presión de los discípulos, pero Yehoshua responde **ἄγωμεν**, _agōmen_, «vayamos», porque salió para **κηρύσσω**, _kērussō_, proclamar en otras ciudades. Luego **ἐὰν θέλῃς**, _ean thelēs_, «si quieres», y **σπλαγχνισθείς**, _splagchnistheis_, «movido a compasión», introducen la limpieza; **μαρτύριον**, _martyrion_, «testimonio», explica el envío al sacerdote. Así, la observación atribuible de Eric queda probada en una cadena de anuncio, distinción, oración, restauración y obediencia a Moshéh.
+
 ## Conclusión
 
 Marcos 1 llama a recibir el reino mediante retorno a יהוה y confianza en la buena noticia. La autoridad de Yehoshua se hace audible en su enseñanza y visible en una liberación que no confunde con toda enfermedad. Su oración impide reducir la misión a popularidad, y su toque al leproso revela compasión que restaura y, a la vez, dirige al testimonio ordenado por Moshéh.
