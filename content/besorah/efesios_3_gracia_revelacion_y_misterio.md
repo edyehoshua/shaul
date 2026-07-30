@@ -296,6 +296,16 @@ Efesios 3 presenta la gracia como un encargo confiado a Pablo y el misterio como
 - [[efesios_1_voluntad_reconciliacion_y_santidad|Efesios 1: voluntad, reconciliación y santidad]]
 - [[efesios_2_lejania_paz_y_un_solo_pueblo|Efesios 2: lejanía, paz y un solo pueblo]]
 
+## Reparación dirigida: del encargo recibido a la oración de la asamblea
+
+La enseñanza de Eric sobre una gracia que sostiene debe seguir el orden de Efesios 3, no quedar como una metáfora económica separada del capítulo. En 3:1, **δέσμιος**, _desmios_, «prisionero o encadenado», califica a Pablo en relación con el Mesías y con los gentiles; en 3:2, **οἰκονομία**, _oikonomía_, «administración, encargo o responsabilidad confiada», explica qué recibió. Su equivalencia temática con **(הנהגה)**, _hanhagá_, «dirección o administración», en el Delitzsch es útil para comparar traducciones, pero no convierte «sustentabilidad» en el sentido exclusivo del griego. La gracia es recibida y administrada para otros.
+
+En 3:3-5, **ἀποκάλυψις**, _apokalypsis_, «revelación o descubrimiento», y **γνωρίζω**, _gnōrizō_, «dar a conocer», describen la comunicación del misterio. **μυστήριον**, _mystērion_, «realidad antes oculta y ahora comunicada», no significa un conocimiento reservado a una élite: Pablo escribe para que los lectores puedan entender. La relación con **(סוד)**, _sod_, «consejo o secreto», ilumina el campo semítico del texto local, aunque no sea una retroversión demostrada. La propuesta de Eric sobre someter la revelación a la Escritura queda, por tanto, apoyada en el movimiento de recibir, escribir y leer, no en una autoridad privada del expositor.
+
+El versículo 6 ofrece la prueba concreta del misterio. **συγκληρονόμος**, _synklēronomos_, «coheredero», **σύσσωμος**, _syssōmos_, «del mismo cuerpo», y **συμμέτοχος**, _symmetochos_, «copartícipe», están coordinados y limitados por «la promesa en el Mesías por medio de la buena noticia». Las formas presentan participación común de los gentiles; no autorizan a borrar la historia de Israel ni a inventar una segunda promesa. En 3:7, **διάκονος**, _diakonos_, «servidor o ministro», y **ἐνέργεια**, _energeia_, «acción eficaz», ponen el ministerio bajo el don y el poder de Elohim. Eric puede hablar de una gracia que sostiene, pero Pablo prueba ese sostén por un servicio que incluye, anuncia y depende de Elohim.
+
+La oración de 3:14-21 muestra el destino de ese encargo. **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», son peticiones recibidas para el ser interior y el corazón; **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», ocurre «con todos los santos». La comprensión de la anchura, longitud, profundidad y altura no es una técnica individual. **πληρωθῆτε**, _plērōthēte_, «seáis llenados», es una forma pasiva orientada al don de Elohim, y **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», dirige la doxología a su poder. Así, la riqueza, la mente y la escuela del Mesías que Eric desarrolla quedan probadas en su núcleo por una secuencia verificable: encargo, participación, fortalecimiento, amor y gloria comunitaria.
+
 ## Créditos
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.

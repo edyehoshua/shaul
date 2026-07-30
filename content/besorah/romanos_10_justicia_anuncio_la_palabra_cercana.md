@@ -44,7 +44,7 @@ Esta nota consolida dos sesiones públicas de Eric de Jesús Rodríguez Mendoza.
 
 ## Texto local para controlar la secuencia
 
-La comparación debe quedar anclada en el texto local de Delitzsch, no solamente en el resumen de la perícopa. En #romanos_10_1-4 se lee: **אֶחָי חֵפֶץ לְבָבִי וּתְפִילָּתִי לֵאלׂהִים בְּעַד יִשְׂרָאֵל אֲשֶׁר יִוָּשֵׁעוּ׃ ... כִּי הַמָּשִׁיחַ סוֹף הַתּוֹרָה לִצְדָקָה לְכָל־הַמַּאֲמִין בּוֹ׃**. El fragmento conserva el deseo de salvación, el celo sin conocimiento y la relación del Mesías con la Torah para justicia; por eso no debe aislarse **τέλος**, _telos_, como un eslogan contra toda instrucción.
+La comparación debe quedar anclada en el texto local de Delitzsch, no solamente en el resumen de la perícopa. En #romanos*10_1-4 se lee: **אֶחָי חֵפֶץ לְבָבִי וּתְפִילָּתִי לֵאלׂהִים בְּעַד יִשְׂרָאֵל אֲשֶׁר יִוָּשֵׁעוּ׃ ... כִּי הַמָּשִׁיחַ סוֹף הַתּוֹרָה לִצְדָקָה לְכָל־הַמַּאֲמִין בּוֹ׃**. El fragmento conserva el deseo de salvación, el celo sin conocimiento y la relación del Mesías con la Torah para justicia; por eso no debe aislarse **τέλος**, \_telos*, como un eslogan contra toda instrucción.
 
 En #romanos_10_8-13 el corpus dice: **קָרוֹב אֵלֶיךָ הַדָּבָר בְּפִיךָ וּבִלְבָבֶךָ ... כִּי אִם־בְּפִיךָ תוֹדֶה שֶׁיֵּשׁוּעַ הוּא הָאָדוֹן וְתַאֲמִין בִּלְבָבְךָ שֶׁהָאֱלׂהִים הֱעִירוֹ מִן־הַמֵּתִים תִּוָּשֵׁעַ׃ ... כִּי כָּל־אֲשֶׁר יִקְרָא בְּשֵׁם יְהוָֹה יִוָּשֵׁעַ׃**. La cercanía de la palabra incluye boca, corazón, confesión, confianza e invocación; el pasaje no presenta una pronunciación autónoma que obligue a Elohim.
 
