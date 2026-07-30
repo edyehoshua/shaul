@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-29",
   "policy": "Remediate before using as an authoring model; do not delete source attribution.",
-  "total_notes_requiring_remediation": 111,
+  "total_notes_requiring_remediation": 109,
   "notes": [
     {
       "path": "content/besorah/hebreos_4_reposo_palabra_y_trono_de_gracia.md",
@@ -575,26 +575,6 @@
         "lectura_only"
       ],
       "substantive_words": 203
-    },
-    {
-      "path": "content/tanaj/shemot_13_parashot_2017.md",
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map",
-        "lectura_only"
-      ],
-      "substantive_words": 203
-    },
-    {
-      "path": "content/tanaj/shemot_18_parashot_2017.md",
-      "issues": [
-        "under_300_substantive_words",
-        "insufficient_thematic_development",
-        "missing_eric_map",
-        "lectura_only"
-      ],
-      "substantive_words": 201
     },
     {
       "path": "content/tanaj/shemot_27_parashot_2017.md",
