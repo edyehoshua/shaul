@@ -242,6 +242,16 @@ En Romanos 10:12-13, **ἐπικαλέω**, _epikaleō_, significa invocar, apel
 
 Esta reparación se limita a las dos fuentes públicas propietarias de esta lane: `youtube:zLynBpmjJr0` y `youtube:ililQLS9UJE`. Sus títulos, URL y créditos visibles son atribuibles de forma **exacta**; las formulaciones interpretativas anteriores son paráfrasis evaluadas por Romanos 10, no citas reconstruidas. La unidad canónica queda consolidada en una sola nota y no añade otra fuente ni duplica ningún `source_id`.
 
+## Reparación desarrollada: la universalidad no borra la responsabilidad
+
+Las dos fuentes públicas de esta nota deben leerse junto con el cierre de Romanos 10, no como consignas aisladas. Eric relaciona la invocación con el llamado de Elohim y subraya que la fidelidad no nace de repetir un sonido; esas observaciones se conservan como paráfrasis atribuibles y reciben una evaluación canónica en el orden de 10:12-21. La promesa es universal —un mismo Señor es rico para judío y griego—, pero la cadena continúa con envío, anuncio, escucha y obediencia. La universalidad del acceso no elimina la historia de Israel ni la responsabilidad del oyente.
+
+En 10:12-13, **(διαστολή)**, _diastolē_, significa distinción o diferencia; aunque la forma aparece en la afirmación «no hay diferencia», su fuerza contextual es que no existe una barrera de rango entre judío y griego ante el mismo Señor. «No hay diferencia» es **directo** en la proposición, pero convertirlo en borrado de toda distinción histórica sería **inferencial** y chocaría con el argumento de Romanos 9-11. **(πλούσιος)**, _plousios_, significa rico, abundante o provisto; en 10:12 califica la generosidad del Señor hacia todos los que lo invocan, no una promesa de prosperidad material. La glosa es **directa**; la aplicación económica sería **ilegítima**.
+
+La cadena de 10:14-17 contiene **(πέμπω)**, _pempō_, «enviar», y **(κηρύσσω)**, _kērussō_, «proclamar o anunciar públicamente». «Enviar» y «anunciar» son glosas **directas**; su fuerza contextual muestra que la respuesta no se fabrica en aislamiento. **(πιστεύω)**, _pisteuō_, significa creer, confiar o depositar confianza; su relación con **אמונה**, _emunah_, «fidelidad o firmeza», es **aproximada y pedagógica**, no identidad léxica. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 limita cualquier lectura automática de «oír»: algunos no obedecieron la buena noticia.
+
+Finalmente, **(παρακούω)**, _parakouō_, significa oír de lado, desatender o desobedecer. No debe sustituir a **(ὑπακούω)**, pero sirve como contraste pedagógico para explicar que la recepción del sonido y la respuesta obediente no son idénticas. La enseñanza de Eric recibe apoyo **cualificado**: la palabra cercana tiene contenido, la invocación depende de la promesa y el llamado de Elohim precede la autosuficiencia humana; aun así, Romanos 10 conserva anuncio, escucha y resistencia. La correspondencia entre los verbos griegos y **שמע**, _shama_, «oír o escuchar con respuesta», es **aproximada**, no una derivación demostrada.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
