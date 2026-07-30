@@ -305,6 +305,14 @@ En #galatians_3_19-25, **(μεσίτης)**, _mesitēs_, significa mediador o in
 
 La comparación hebreo-griego debe conservar sus límites. **קְלָלָה**, _qelalah_, significa maldición, deshonra o condición maldita, y **(κατάρα)**, _katara_, significa maldición; la relación es **intertextual y aproximada**, no etimológica. De igual modo, **ברכה**, _berakah_, y **εὐλογία**, _eulogia_, comparten el campo de bendición en sus respectivos contextos, pero una forma no decide toda la sintaxis de la otra. Así, la enseñanza atribuible queda preservada sin inventar transcriptos: Galatim gobierna la afirmación y mantiene juntas promesa, redención, mediación, custodia y responsabilidad.
 
+## Control de las fuentes asignadas y alcance de la reparación
+
+Las fuentes `youtube:9KQYTf0aRe0` y `youtube:1owk-zoap1E` pertenecen exclusivamente a la lane colosenses y se conservan aquí como fuentes públicas de los focos «maldición de la Ley» y «mediador y la Ley». El inventario local registra sus títulos y URL, pero no una transcripción reutilizable; por eso no se atribuyen a Eric ejemplos, definiciones ni conclusiones orales que no puedan comprobarse. La afirmación atribuible queda limitada al foco visible y la evaluación sigue las perícopas en orden: 3:10-14, 3:15-18 y 3:19-25.
+
+En #galatians_3_10-14, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual califica a quien no permanece en todo lo escrito. La glosa «maldito» es **directa**, mientras convertirla en una teoría completa de exclusión es **inferencial**. **(ἐξαγοράζω)**, _exagorazō_, significa comprar fuera, rescatar o liberar mediante adquisición; «redimir» es **aproximado y pedagógico**, porque comunica liberación sin imponer un único modelo de rescate. **(ἵνα)**, _hina_, significa para que o con el propósito de; en 3:14 introduce el propósito textual de que la bendición de Abraham alcance a las naciones y se reciba la promesa del Ruaj.
+
+En #galatians_3_19-25, **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; su fuerza contextual se relaciona con la entrega de la Torah, pero el sustantivo no resuelve por sí solo toda la teología de la mediación. **(παιδαγωγός)**, _paidagōgos_, significa tutor, guardián o acompañante de un menor; aquí describe una custodia orientada hacia el Mesías. «Pedagogo» es **aproximado**; «carcelero» sería una paráfrasis **pedagógica demasiado fuerte**. Así, la observación pública recibe apoyo **cualificado**: la promesa gobierna el argumento y la Torah tiene una función temporal, sin que el texto autorice despreciar toda obediencia confiada.
+
 ## Ver también
 
 - [[galatim_2_gracia_unidad_y_verdad_del_evangelio|Galatim 2: gracia, unidad y verdad del evangelio]]
