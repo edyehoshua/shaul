@@ -79,6 +79,12 @@ La frase **יוליכם יהוה**, «יהוה los conducirá», es interpretada
 
 El cierre, **שלום על ישראל**, «paz sobre Israel», impide que la nota termine en paranoia. Eric insiste en que la seguridad no viene de adivinar tiempos ni de construir una defensa humana absoluta, sino de mantenerse en la voluntad de יהוה y esperar el resultado que él determine. El salmo conserva una frontera moral —buenos, rectos, torcidos y hacedores de iniquidad— y concluye con paz comunitaria, no con triunfo individualista.
 
+## Control de la seguridad que Eric describe
+
+La ilustración de Eric sobre la aversión al riesgo y los seguros no pretende convertir la economía moderna en el significado de **בטחים**. Su observación material es más concreta: la inseguridad puede hacer que una persona compre una falsa protección o abandone lo recto para reducir una amenaza. El texto local corrige y confirma la aplicación en dos movimientos. Primero, **הבטחים ביהוה** nombra a quienes descansan en יהוה y son comparados con Sion; segundo, los versos 3-5 muestran que esa seguridad no elimina la presión, sino que impide que el cetro de la maldad produzca manos injustas y termina pidiendo **שלום על ישראל**. La relación entre «seguridad» y obediencia es, por tanto, una inferencia pastoral apoyada por la secuencia ética del salmo, no una equivalencia léxica de **בטח**.
+
+También debe conservarse la diferencia entre la imagen y su extensión. **לא ימוט** significa «no será movido» en la comparación con Sion; no significa que el creyente nunca pierda empleo, posición o comodidad. **גורל הצדיקים** designa en el verso la porción o lote de los justos; la exposición lo relaciona con una herencia recibida que no debe cambiarse por pánico. Esa relación es intertextual y pedagógica. El salmo sí establece el límite moral: la autoridad de la iniquidad no debe reposar de tal modo que los justos extiendan sus manos a la injusticia.
+
 ## Hoja léxica
 
 | Forma         | Transliteración | Sentido normal                                        | Fuerza contextual y relación                                                                                         |

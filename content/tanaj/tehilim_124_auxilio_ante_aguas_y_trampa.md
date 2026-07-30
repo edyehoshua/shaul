@@ -33,24 +33,24 @@ La fuente es una exposición del hermano Eric de Jesús Rodríguez Mendoza sobre
 
 ## Hoja de comparación
 
-| Referencia | Texto local OE (sin nikud y sin segmentación) | Función en la lectura |
-| --- | --- | --- |
-| #tehilim_124_1-2 | **שיר המעלות לדוד לולי יהוה שהיה לנו יאמר נא ישראל; לולי יהוה שהיה לנו בקום עלינו אדם** | La comunidad repite que su preservación depende de que יהוה estuvo con ella. |
-| #tehilim_124_3-5 | **אזי חיים בלעונו בחרות אפם בנו; אזי המים שטפונו נחלה עבר על נפשנו; אזי עבר על נפשנו המים הזידונים** | El poema intensifica la amenaza: devorar, desbordar y pasar sobre la vida. |
-| #tehilim_124_6-7 | **ברוך יהוה שלא נתננו טרף לשניהם; נפשנו כצפור נמלטה מפח יוקשים הפח נשבר ואנחנו נמלטנו** | La alabanza responde con la imagen de presa no entregada y ave liberada. |
-| #tehilim_124_8 | **עזרנו בשם יהוה עשה שמים וארץ** | El final nombra al auxiliador y su señorío creador. |
+| Referencia       | Texto local OE (sin nikud y sin segmentación)                                                        | Función en la lectura                                                        |
+| ---------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| #tehilim_124_1-2 | **שיר המעלות לדוד לולי יהוה שהיה לנו יאמר נא ישראל; לולי יהוה שהיה לנו בקום עלינו אדם**              | La comunidad repite que su preservación depende de que יהוה estuvo con ella. |
+| #tehilim_124_3-5 | **אזי חיים בלעונו בחרות אפם בנו; אזי המים שטפונו נחלה עבר על נפשנו; אזי עבר על נפשנו המים הזידונים** | El poema intensifica la amenaza: devorar, desbordar y pasar sobre la vida.   |
+| #tehilim_124_6-7 | **ברוך יהוה שלא נתננו טרף לשניהם; נפשנו כצפור נמלטה מפח יוקשים הפח נשבר ואנחנו נמלטנו**              | La alabanza responde con la imagen de presa no entregada y ave liberada.     |
+| #tehilim_124_8   | **עזרנו בשם יהוה עשה שמים וארץ**                                                                     | El final nombra al auxiliador y su señorío creador.                          |
 
 ## «Si no hubiera estado יהוה con nosotros» — Tehilim 124:1-2
 
 El salmo abre y vuelve a abrir con **לולי יהוה שהיה לנו**, «si no hubiera estado יהוה con nosotros». Eric llama la atención sobre la repetición: antes de describir enemigos o estrategias, el testimonio atribuye la supervivencia a la presencia de יהוה. También propone leer el encabezado **לדוד** no solo como «de David», sino como «para el amado», y desde allí identifica al amado con el Mesías y con el verdadero Israel. El hebreo local contiene el encabezado y el llamado «diga ahora Israel», pero no decide por sí mismo esa lectura mesiánica; debe tratarse como una interpretación canónica, no como una traducción establecida.
 
-La clase toma **אדם** del v. 2 como la humanidad caída que se levanta contra Israel, y traza una oposición tipológica entre Adán, Edom y Jacob. El texto afirma de modo sobrio que un *adam* se levantó contra el «nosotros»; no identifica a Edom, ni define a Israel como una categoría distinta de toda referencia histórica o política. La observación pastoral de Eric sí queda clara: no convertir la hostilidad recibida en una disputa centrada en el propio yo, porque el poema dirige la mirada a יהוה que está con su pueblo.
+La clase toma **אדם** del v. 2 como la humanidad caída que se levanta contra Israel, y traza una oposición tipológica entre Adán, Edom y Jacob. El texto afirma de modo sobrio que un _adam_ se levantó contra el «nosotros»; no identifica a Edom, ni define a Israel como una categoría distinta de toda referencia histórica o política. La observación pastoral de Eric sí queda clara: no convertir la hostilidad recibida en una disputa centrada en el propio yo, porque el poema dirige la mirada a יהוה que está con su pueblo.
 
 ## Aguas que desbordan y discernimiento — Tehilim 124:3-5
 
 Después del alzamiento humano, los vv. 3-5 avanzan en orden desde ser devorados vivos hasta aguas que arrasan y pasan sobre la **נפש** colectiva. Eric conserva la fuerza de esa progresión y aplica las aguas a una inundación de doctrinas, calendarios, discusiones e información que puede nublar el entendimiento. Es una observación concreta de la clase: no toda amenaza llega como persecución abierta; algunas llegan como acumulación que desgasta y divide. Sin embargo, en el salmo las aguas son una imagen poética de peligro; «doctrinas» es una analogía pedagógica, no el significado léxico de **מים**.
 
-Eric relaciona **נפש** con el cuello y la cabeza al explicar que ser sobrepasado implica perder el norte. El texto local dice literalmente que el torrente pasa «sobre nuestra *nefesh*»; el uso de «pescuezo» y la exhortación a cerrar una discusión destructiva son desarrollos de la exposición. La aplicación merece conservarse con prudencia: ante una presión que ya anula el juicio, la clase aconseja no responder cada argumento, buscar orientación responsable y poner límites sin pretender que el salmo prescriba por sí solo un procedimiento para toda controversia.
+Eric relaciona **נפש** con el cuello y la cabeza al explicar que ser sobrepasado implica perder el norte. El texto local dice literalmente que el torrente pasa «sobre nuestra _nefesh_»; el uso de «pescuezo» y la exhortación a cerrar una discusión destructiva son desarrollos de la exposición. La aplicación merece conservarse con prudencia: ante una presión que ya anula el juicio, la clase aconseja no responder cada argumento, buscar orientación responsable y poner límites sin pretender que el salmo prescriba por sí solo un procedimiento para toda controversia.
 
 El adjetivo **זידונים** caracteriza las aguas del v. 5. Eric lo acerca a acciones premeditadas y a una emboscada ya preparada. El contraste entre aguas comunes y aguas de agresores insolentes encaja con la escena de peligro, pero la derivación precisa y la traducción «premeditadas» requieren comprobación léxica. La nota no convierte esa propuesta en la base de una acusación contra personas reales.
 
@@ -66,25 +66,31 @@ El último verso no explica la salida mediante el ingenio del ave: **עזרנו 
 
 La clase también observa que **עשה** está en participio y lo desarrolla como acción creadora presente. El participio permite describir a יהוה como «hacedor»; la expansión hacia una creación que se completa diariamente es una reflexión teológica, no una conclusión exigida por este verso. Aun con esa distinción, el final sí cierra el recorrido con una confesión suficiente para el poema: el auxilio viene de quien gobierna sobre todo lo creado.
 
+## Control de la imagen de las aguas y del auxilio
+
+La exposición no usa «aguas» sólo como una metáfora vaga de problemas. Eric las presenta como una acumulación que puede sobrepasar la capacidad de discernir: discusiones, doctrinas y datos que llegan como un torrente, de modo que responder a cada corriente termina desorientando a la persona. El texto local permite probar el movimiento sin convertirlo en diccionario: **אזי המים שטפונו** dice que las aguas nos habrían arrastrado, y la repetición de **עבר על נפשנו** coloca el peligro sobre la vida de la comunidad. «Avalancha informativa» es una aplicación pedagógica; devorar, inundar y pasar sobre la **נפש** son las imágenes directas del poema.
+
+La misma precisión gobierna el cierre. Eric aconseja no buscar la liberación en vencer verbalmente al agresor, sino volver al nombre de יהוה como cabeza de la lectura. **עזרנו בשם יהוה** afirma que el auxilio está en el nombre, y **עשה שמים וארץ** identifica al auxiliador como quien hace cielos y tierra. «Cabeza» y la identificación cristológica son desarrollos canónicos de la clase; la relación exacta del verso es nombre, auxilio y creador. Así, la aplicación conserva la dirección del salmo sin borrar la confesión comunitaria: «nosotros escapamos».
+
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la nota | Relación y alcance |
-| --- | --- | --- | --- |
-| **(לולי)** | lulé | si no hubiera sido por | Partícula condicional que introduce la confesión del v. 1; no contiene por sí misma la cristología propuesta en la clase. |
-| **(אדם)** | adam | ser humano, humanidad | Sentido textual general; la relación tipológica con Edom y la humanidad caída es pedagógica y pendiente. |
-| **(נפש)** | néfesh | vida, persona o ser colectivo | El salmo habla de la *nefesh* amenazada; «cuello/cabeza» en la clase es una aplicación aproximada. |
-| **(זידונים)** | zedonim | insolentes, orgullosos o presuntuosos | Describe las aguas del v. 5; «premeditación» exige cotejo léxico. |
-| **(פח)** | paj | trampa | Imagen textual de asechanza; la aplicación a manipulación moderna es pastoral. |
-| **(עשה)** | osé | hacedor | Participio de «hacer» en el v. 8; la idea de creación continuamente completada es una extensión teológica. |
+| Término       | Transliteración | Sentido en la nota                    | Relación y alcance                                                                                                        |
+| ------------- | --------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **(לולי)**    | lulé            | si no hubiera sido por                | Partícula condicional que introduce la confesión del v. 1; no contiene por sí misma la cristología propuesta en la clase. |
+| **(אדם)**     | adam            | ser humano, humanidad                 | Sentido textual general; la relación tipológica con Edom y la humanidad caída es pedagógica y pendiente.                  |
+| **(נפש)**     | néfesh          | vida, persona o ser colectivo         | El salmo habla de la _nefesh_ amenazada; «cuello/cabeza» en la clase es una aplicación aproximada.                        |
+| **(זידונים)** | zedonim         | insolentes, orgullosos o presuntuosos | Describe las aguas del v. 5; «premeditación» exige cotejo léxico.                                                         |
+| **(פח)**      | paj             | trampa                                | Imagen textual de asechanza; la aplicación a manipulación moderna es pastoral.                                            |
+| **(עשה)**     | osé             | hacedor                               | Participio de «hacer» en el v. 8; la idea de creación continuamente completada es una extensión teológica.                |
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual | Punto tomado de Eric | Versos | Cómo se evaluó |
-| --- | --- | --- | --- |
-| Presencia e Israel | «Para David» puede leerse «para el amado»; el amado sería el Mesías, verdadero Israel, frente a Adán/Edom. | #tehilim_124_1-2 | La presencia de יהוה, Israel y *adam* están en el texto local; la traducción alternativa y la tipología mesiánica se preservan como inferencias pendientes. |
-| Aguas y presión | Las aguas representan una avalancha doctrinal e informativa que puede sobrepasar la mente; no hace falta responder cada discusión. | #tehilim_124_3-5 | El desbordamiento y la *nefesh* amenazada son textuales; «doctrina», «cuello» y el consejo práctico se clasifican como aplicación pedagógica concreta. |
-| Dientes y trampa | Los dientes figuran presión y manipulación; la trampa rota llama a salir de una situación que somete, como Daniel salió libre. | #tehilim_124_6-7 | Presa, dientes, ave y trampa quebrada están en el poema; Daniel y las aplicaciones sobre coerción se dejan como conexiones a verificar. |
-| Nombre y cabeza | El auxilio está en el nombre; Yehoshua debe ser la cabeza que evita que una lectura se inunde de otras ideas. | #tehilim_124_8; #tehilim_119_160 | El auxilio y el hacedor se confirman en Tehilim 124; el análisis de Tehilim 119, la identificación cristológica y las conclusiones doctrinales requieren fundamentación adicional. |
+| Unidad textual     | Punto tomado de Eric                                                                                                               | Versos                           | Cómo se evaluó                                                                                                                                                                     |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Presencia e Israel | «Para David» puede leerse «para el amado»; el amado sería el Mesías, verdadero Israel, frente a Adán/Edom.                         | #tehilim_124_1-2                 | La presencia de יהוה, Israel y _adam_ están en el texto local; la traducción alternativa y la tipología mesiánica se preservan como inferencias pendientes.                        |
+| Aguas y presión    | Las aguas representan una avalancha doctrinal e informativa que puede sobrepasar la mente; no hace falta responder cada discusión. | #tehilim_124_3-5                 | El desbordamiento y la _nefesh_ amenazada son textuales; «doctrina», «cuello» y el consejo práctico se clasifican como aplicación pedagógica concreta.                             |
+| Dientes y trampa   | Los dientes figuran presión y manipulación; la trampa rota llama a salir de una situación que somete, como Daniel salió libre.     | #tehilim_124_6-7                 | Presa, dientes, ave y trampa quebrada están en el poema; Daniel y las aplicaciones sobre coerción se dejan como conexiones a verificar.                                            |
+| Nombre y cabeza    | El auxilio está en el nombre; Yehoshua debe ser la cabeza que evita que una lectura se inunde de otras ideas.                      | #tehilim_124_8; #tehilim_119_160 | El auxilio y el hacedor se confirman en Tehilim 124; el análisis de Tehilim 119, la identificación cristológica y las conclusiones doctrinales requieren fundamentación adicional. |
 
 ## Pendiente de verificar
 
