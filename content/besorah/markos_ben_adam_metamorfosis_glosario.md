@@ -86,7 +86,7 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | #markos_9_1 | TTH: algunos no probarán muerte hasta ver "el reino de Elohim viniendo con poder". | La clase identifica esta promesa con la escena inmediata de la metamorfosis. |
 | #markos_9_2 | TTH: Yeshúa tomó a Kefa, Iaacob e Iojanán y "se transformó delante de ellos". Delitzsch: וישתנה לעיניהם. | La transformación revela quién es el Mesías, no solo un prodigio visual. |
 | #markos_9_3 | TTH: sus vestiduras quedaron "muy blancas como la nieve". | Se conecta con #daniel_7_9 y la figura del Anciano de días. |
-| #markos_9_7 | TTH: la nube cubre y la voz dice: "Este es mi Hijo amado, escúchenlo." | La bat kol centra la atención en Yeshúa; ver también [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]. |
+| #markos_9_7 | TTH: la nube cubre y la voz dice: "Este es mi Hijo amado, escúchenlo." | La bat kol centra la atención en Yehoshua; ver también [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]. |
 | #markos_9_8 | TTH: "no vieron a nadie más, sino a Yeshúa sólo con ellos." | La clase lo lee como cierre interpretativo: Moisés y Eliyahu quedan reunidos en él. |
 | #markos_9_9 | TTH: no contaran lo visto hasta que el Ben HaAdam se levantara de los muertos. | El título Ben HaAdam queda unido a muerte y resurrección. |
 | #markos_10_33 | TTH: el Ben HaAdam será entregado, condenado y entregado a gentiles. | Ejemplo de Yeshúa apropiándose el título para hablar de su padecimiento. |
@@ -102,7 +102,6 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | #qolosim_2_2-3 | Delitzsch: "סוד האלהים... וסוד המשיח... כל אצרות החכמה והדעת". | La clase lee los tesoros de sabiduría e inteligencia como Torah y profecía escondidas en el Mesías. |
 | #qolosim_2_9 | Delitzsch: "בו בגופו שכן כל מלא האלהות". | La plenitud corporal del Mesías explica por qué todo converge en él. |
 | #yaakov_3_13 | Delitzsch: "מי בכם חכם ונבון... בענות החכמה". | Sabiduría e inteligencia deben mostrarse en mansedumbre y conducta, no en ego religioso. |
-| #sodot_19_10 | TTH: "el Testimonio de Yeshúa es el Rúaj de la profecía." | La profecía se mide por el testimonio de Yeshúa. |
 
 ## Hoja léxica
 
