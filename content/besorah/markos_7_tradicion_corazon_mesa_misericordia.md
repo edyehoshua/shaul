@@ -50,6 +50,16 @@ Marcos 7 no contrapone la Torá a una supuesta libertad religiosa. Confronta una
 - Eric distingue la higiene de una declaración de impureza ritual, llama la atención sobre _corbán_, entiende la escena de la mujer como una cuestión de prioridad y explica **(ܐܬܦܬܚ)** en la sanidad final. Estas son observaciones atribuibles a la clase, no citas literales de una transcripción automática.
 - Los pasajes citados se comprobaron en el corpus local TTH. Las afirmaciones de historia rabínica, geografía antigua y reconstrucción de las «dos casas» se mantienen separadas de lo que Marcos afirma directamente.
 
+## Control de fuentes
+
+| Fuente pública                                                                          | Unidad atribuida                                | Límite de atribución                                                                                                                                        |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Marcos, parte 22](https://www.youtube.com/watch?v=N3aU6MhISZc) (`youtube:N3aU6MhISZc`) | 7:1-23: manos, tradición, corbán y corazón      | Se atribuyen a Eric las distinciones de higiene e impureza y la crítica a una tradición que invalida el mandamiento; la sintaxis de 7:19 permanece abierta. |
+| [Marcos, parte 23](https://www.youtube.com/watch?v=ObzMEUgFrTw) (`youtube:ObzMEUgFrTw`) | 7:24-30: mujer sirofenicia, prioridad y migajas | La lectura de «primero» como orden de la misión se conserva como interpretación; Marcos prueba la respuesta de la mujer y la liberación de la hija.         |
+| [Marcos, parte 24](https://www.youtube.com/watch?v=sHbKR7IjJ6A) (`youtube:sHbKR7IjJ6A`) | 7:31-37: Decápolis, sordomudo y **(ܐܬܦܬܚ)**     | Se atribuye a Eric la explicación aramea y la advertencia contra convertir los gestos en fórmula; el resultado se verifica en la perícopa local.            |
+
+Los tres `source_ids` son públicos, distintos y exclusivos de esta nota canónica de Marcos 7. Eric recibe crédito por las observaciones delimitadas; las equivalencias semíticas y los trasfondos rabínicos se presentan como aproximaciones o pendientes, nunca como citas privadas ni hechos cerrados.
+
 ## Hoja de comparación
 
 | Referencia       | Texto local                                                                                                                                                          | Función en el argumento                                                                                                    |

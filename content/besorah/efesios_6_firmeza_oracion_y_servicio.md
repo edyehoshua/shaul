@@ -52,6 +52,18 @@ Efesios 6 termina una carta dirigida a una comunidad concreta: hijos y padres, s
 - Las clases recorren las relaciones de #ephesians_6_1-9, la firmeza y la armadura en #ephesians_6_10-17, y la oración y la embajada de Pablo en #ephesians_6_18-20.
 - El texto de la comparación procede del Delitzsch local, sin nikud. La transcripción automática orienta la atribución de la enseñanza; no es una cita literal.
 
+## Control de fuentes
+
+| Fuente pública                                                                           | Unidad atribuida                                              | Límite de atribución                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Efesios, parte 31](https://www.youtube.com/watch?v=v03-WzaF5uw) (`youtube:v03-WzaF5uw`) | 6:1-4: hijos, padres y disciplina                             | Se atribuye a Eric la lectura de responsabilidades familiares; el texto local fija los mandatos y no autoriza obediencia ciega ni abuso.                                   |
+| [Efesios, parte 32](https://www.youtube.com/watch?v=nwno_x1eN6E) (`youtube:nwno_x1eN6E`) | 6:5-9: siervos, señores y autoridad bajo el Señor celestial   | El trasfondo de esclavitud se conserva como contexto de la clase, no como ideal; las afirmaciones jurídicas detalladas quedan pendientes de fuentes especializadas.        |
+| [Efesios, parte 33](https://www.youtube.com/watch?v=2mgGFv_NC_w) (`youtube:2mgGFv_NC_w`) | 6:10-13: fuerza, armadura y lucha no dirigida contra personas | Se atribuye a Eric la cautela ante la guerra espiritual; la perícopa local limita la lucha y gobierna el argumento.                                                        |
+| [Efesios, parte 34](https://www.youtube.com/watch?v=Hej3xxIb85o) (`youtube:Hej3xxIb85o`) | 6:14-17: piezas de la armadura y palabra de Elohim            | La lectura metafórica y el rechazo de una identificación sacerdotal automática se atribuyen como interpretación; no se presenta una dependencia literaria como demostrada. |
+| [Efesios, parte 35](https://www.youtube.com/watch?v=O1YNAgZXzdo) (`youtube:O1YNAgZXzdo`) | 6:18-24: oración, anuncio, Tíquico, paz y gracia              | Se conserva la aplicación pastoral al servicio comunicativo; el cierre de Pablo y el texto Delitzsch prueban las afirmaciones bíblicas.                                    |
+
+Los cinco `source_ids` son públicos, distintos y exclusivos de esta nota canónica de Efesios 6. Eric recibe crédito por las observaciones delimitadas; las formas griegas, las equivalencias hebreas aproximadas y las dependencias con Efesios 5 se someten al orden local del capítulo.
+
 ## Hoja de comparación
 
 | Referencia         | Texto local (Delitzsch, sin nikud)                                                                                                                                 | Función en el argumento                                                                                    |
@@ -277,8 +289,6 @@ La enseñanza de Eric sobre autoridad bajo Elohim debe probarse siguiendo la tra
 El giro hacia la armadura tampoco autoriza trasladar el conflicto a personas. **ἐνδυναμοῦσθε** (_endynamousthe_, «reciban fuerza o fortalézcanse») tiene como fuente al Señor; **ἐνδύσασθε** (_endysasthe_, «vístanse») y **στῆναι** (_stēnai_, «estar de pie o permanecer») describen preparación y perseverancia. **πάλη** (_palē_, «lucha o combate») aparece dentro de la negación «no contra sangre y carne», de modo que la observación de Eric sobre discernimiento espiritual solo conserva su valor cuando no convierte a familiares, pueblos, enfermos o adversarios en blancos espirituales. **ῥῆμα θεοῦ** (_rhēma theou_, «palabra o declaración de Elohim») es la espada metafórica del Rúaj; no es una fórmula manipulable.
 
 La prueba final está en el propósito comunitario. **προσευχόμενοι** (_proseuchomenoi_, «orando»), **δέησις** (_deēsis_, «súplica») y **ἀγρυπνοῦντες** (_agrypnountes_, «velando o permaneciendo atentos») orientan la firmeza hacia todos los santos y hacia la petición de **παρρησία** (_parrēsia_, «franqueza o confianza para hablar») para anunciar el misterio. Tíquico comunica noticias y consuela; el cierre añade paz (**εἰρήνη**, _eirēnē_, «paz»), amor (**ἀγάπη**, _agapē_, «amor comprometido») y gracia (**χάρις**, _charis_, «gracia o favor»). Su relación con **(שלום)**, _shalom_, «paz, integridad o bienestar», es temática y aproximada. La armadura termina, por tanto, en oración, comunicación veraz y servicio, no en dominación.
-
-## Pendiente de verificar
 
 ## Control final: autoridad limitada, resistencia y comunicación
 
