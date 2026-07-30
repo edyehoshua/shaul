@@ -97,6 +97,12 @@ El resultado se expresa con **ἀποκαταλλάξῃ**, _apokatallaxē_, «r
 
 Finalmente, **προσαγωγή**, _prosagōgē_, «acceso o introducción», y **ἐν ἑνὶ πνεύματι**, «en un solo Rúaj», muestran el efecto concreto: ambos tienen entrada al Padre. No hay dos accesos de distinta calidad ni una espiritualidad separada de la reconciliación comunitaria. La paz se verifica por unidad, cuerpo y acceso común.
 
+### La sangre se prueba por la paz que produce
+
+La exposición de Eric habla de la sangre como el recurso provisto por Yehoshua para acercar a los lejanos. Esa formulación se conserva como explicación atribuida, pero el texto local permite probar el resultado sin convertir **αἷμα**, _haima_, «sangre», en una metáfora económica obligatoria. En 2:13, «en la sangre del Mesías» aparece junto a **ἐγενήθητε**, _egenēthēte_, «fueron hechos cercanos», y en 2:16 la cruz aparece junto a **ἀποκτείνας**, _apokteinas_, «habiendo dado muerte», cuyo objeto es la enemistad. La sangre y la cruz deben leerse por la reconciliación que el pasaje describe.
+
+La dependencia verbal continúa: **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconcilie plenamente», conduce a ambos a Elohim en un cuerpo; **προσαγωγή**, _prosagōgē_, «acceso», los coloca ante el mismo Padre; y **εἰρήνη**, _eirēnē_, «paz», resume la obra del Mesías. La comparación con **(דם)**, _dam_, «sangre», y **(שלום)**, _shalom_, «paz o integridad», es semítica y pedagógica, no una retroversión demostrada. Así, la lectura de Eric queda afirmada en su centro —la sangre no es un adorno, sino el medio narrativamente ligado al acercamiento— y limitada por el texto: la prueba pública de esa obra es un pueblo reconciliado, no una teoría financiera ni la absorción de un grupo por otro.
+
 ## De extranjeros a una casa edificada (2:19-22)
 
 **ξένοι**, _xenoi_, «extraños o extranjeros», y **πάροικοι**, _paroikoi_, «residentes sin ciudadanía plena», describen la condición anterior. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», describen la pertenencia recibida. La síntesis de Eric, «un solo pueblo», queda apoyada sólo si se entiende como ciudadanía y casa recibidas en el Mesías, no como ciudadanía política moderna ni como plataforma de superioridad.
@@ -150,5 +156,5 @@ Efesios 2 recuerda la lejanía para anunciar un acercamiento recibido en Yehoshu
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Videos públicos: «La carta a los efesios (parte 10) Cap 2: Sod Hamashiaj: Un solo pueblo, morada de su poder» — <https://www.youtube.com/watch?v=byKm54KeTyQ> (`source_id`: `youtube:byKm54KeTyQ`); «La carta a los efesios (parte 11) Cap 2 Una nueva creación en Mashiaj» — <https://www.youtube.com/watch?v=0p62JJfVydA> (`source_id`: `youtube:0p62JJfVydA`).
-- Partes relacionadas acreditadas en el frente: `youtube:vCrg-tQllxU`, `youtube:kPRNLeXCmb8` y `youtube:wOLrgSpNpQI`.
+- Partes relacionadas acreditadas en el frente: «La carta a los efesios (parte 7)» — <https://www.youtube.com/watch?v=vCrg-tQllxU> (`source_id`: `youtube:vCrg-tQllxU`); «La carta a los efesios (parte 8)» — <https://www.youtube.com/watch?v=kPRNLeXCmb8> (`source_id`: `youtube:kPRNLeXCmb8`); «La carta a los efesios (parte 9)» — <https://www.youtube.com/watch?v=wOLrgSpNpQI> (`source_id`: `youtube:wOLrgSpNpQI`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
