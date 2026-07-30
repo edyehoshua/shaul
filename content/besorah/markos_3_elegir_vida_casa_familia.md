@@ -354,6 +354,14 @@ Finalmente, la casa dividida y la familia obediente no son dos consignas separad
 - [[../temas/ruaj_tumah_posesion_y_liberacion|Ruaj tumah, posesión y liberación]]
 - [[markos_palabra_trono_semilla_identidad|Marcos: palabra entronizada, semilla e identidad]]
 
+## Reparación dirigida: la acusación se juzga por la secuencia de acciones
+
+La conexión que Eric establece entre «escoger la vida» y Marcos 3 debe conservar el orden narrativo. En 3:1-6, **ἀγαθοποιῆσαι**, _agathopoiēsai_, «hacer el bien», y **σῶσαι**, _sōsai_, «salvar», se oponen a **κακοποιῆσαι**, _kakopoiēsai_, «hacer el mal», y **ἀποκτεῖναι**, _apokteinai_, «matar». **ἀποκαθίστημι**, _apokathistēmi_, «restaurar o devolver a una condición», describe el resultado en la mano seca. La relación con **(ובחרת בחיים)**, _uvajarta bajayim_, «escoge la vida», de Devarim 30:19 es un eco temático atribuible a la clase, no una cita formal ni una licencia para ignorar el Shabbat.
+
+La autoridad se recibe antes de ejercerse. En 3:11-15, **ἔκραζον**, _ekrazon_, «clamaban», y **ἐπετίμα**, _epetima_, «reprendía o amonestaba», muestran que Yehoshua controla quién puede hacer público su identidad; después **ἐποίησεν δώδεκα**, _epoiēsen dōdeka_, «estableció a doce», para que estuvieran con él y fueran enviados. **ἐξουσία**, _exousia_, «autoridad o potestad», queda dentro de esa convocatoria. La observación de Eric sobre presencia antes del servicio está apoyada por la sintaxis; no autoriza a convertir el título de enviado en dominio personal.
+
+La casa dividida y la familia obediente son la prueba final, no dos consignas aisladas. **διαμερισθῇ**, _diameristhē_, «sea dividida», describe una casa que no puede permanecer; **δέω**, _deō_, «atar», marca la condición previa para saquear la casa del fuerte; y **ποιεῖ**, _poiei_, «hace», recibe en 3:35 el complemento **θέλημα**, _thelēma_, «voluntad o propósito», de Elohim. Marcos explica la injuria por la acusación concreta de 3:30: «tiene un espíritu impuro»; por eso **βλασφημήσῃ**, _blasphēmēsē_, «injurie o hable ofensivamente», no debe ampliarse a toda duda honesta o angustia espiritual. La lectura de Eric queda probada en una línea controlada: vida restaurada, autoridad derivada, discernimiento de la obra y obediencia visible.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
