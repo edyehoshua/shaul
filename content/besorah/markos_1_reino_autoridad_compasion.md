@@ -132,6 +132,14 @@ El leproso lleva la cadena a la pureza pública. **λεπρός**, _lepros_, «p
 - [ ] Cotejar la terminología de **(λεπρός)** y su relación histórica con **(צרעת)** en una fuente léxica y en el contexto de Vaikra antes de hacer equivalencias diagnósticas.
 - [ ] Verificar en una edición crítica si las variantes de Marcos 1:41 cambian la lectura de la compasión de Yehoshua; esta nota sigue el texto TTH y no presenta una variante como lectura segura.
 
+## Conexiones principales: anuncio, autoridad y testimonio
+
+La conexión con Isaías 40:3 y Malaquías 3:1 debe conservar la función que Marcos le da al comienzo: el camino preparado introduce la proclamación de Iojanán y no convierte la cita en una explicación total de cada escena posterior. **ὁδός**, _hodos_, significa «camino, ruta o manera de proceder»; en 1:2-3 su sentido narrativo es el camino preparado delante de Yehoshua. Su relación con **דרך**, _derej_, «camino», es de campo semántico y no una retroversión demostrada. La clase puede leer allí preparación para el reino, pero Marcos gobierna el alcance.
+
+La relación con Vaikra 13–14 también tiene un límite preciso. **καθαρίζω**, _katharizō_, «limpiar o declarar limpio», aparece en la petición y en la orden al hombre afectado; **μαρτύριον**, _martyrion_, «testimonio o evidencia», explica el envío al sacerdote. La correspondencia con **טהר**, _taher_, «estar limpio o purificar», es cercana en el campo de pureza, mientras que la identificación histórica de **λεπρός**, _lepros_, con **צרעת**, _tsaraat_, permanece pendiente. La conexión sostiene el procedimiento del relato, no un diagnóstico moderno.
+
+La conexión con Salmo 107:20 se mantiene como paralelo temático de palabra y restauración, no como cita que Marcos haga explícita. En el capítulo, **λόγος**, _logos_, significa «palabra, mensaje o discurso»; la autoridad de Yehoshua se manifiesta por su enseñanza y sus órdenes, especialmente **ἔξελθε**, _exelthe_, «sal», dirigido al espíritu. Así se conserva la observación de Eric: la autoridad libera y restaura, pero su secuencia textual empieza con el anuncio del reino, pasa por la oración y termina en un testimonio ordenado, no en espectáculo.
+
 ## Control de orden textual: anuncio, autoridad y retorno al testimonio
 
 Marcos 1 primero prepara el camino (1:1-8), después confirma al Hijo en la inmersión y la prueba (1:9-13), y solo entonces anuncia que el reino se ha acercado (1:14-15). **εὐαγγέλιον** (_euangelion_, «buena noticia») nombra el anuncio; **μετανοεῖτε** (_metanoeite_, «vuelvan o cambien de rumbo») y **πιστεύετε** (_pisteuete_, «confíen») describen la respuesta coordinada. La lectura de Eric sobre el reino como intervención gobernante se ajusta a **βασιλεία** (_basileia_, «reino o reinado»), cuya equivalencia con **(מלכות)**, _maljut_, es cercana y pedagógica, no una identidad de formas.
