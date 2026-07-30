@@ -248,6 +248,18 @@ En #colossians_1_24-29, **(ἀνταναπληρόω)**, _antanaplēroō_, signi
 
 La reparación queda, por tanto, graduada: la primacía, la reconciliación por la cruz y el propósito comunitario del ministerio tienen **apoyo textual**; las correspondencias entre formas griegas y hebreas son **aproximadas y pedagógicas**; y las teorías históricas o ontológicas que no surgen del pasaje son **inferenciales**. El recorrido canónico permanece unido: identidad recibida, fruto y conocimiento, primacía de Yehoshua, reconciliación, perseverancia, misterio anunciado y madurez de toda persona.
 
+## Estudio desarrollado: conocimiento que se convierte en fruto y gratitud
+
+La exposición consolidada de Eric de Jesús Rodríguez Mendoza lee la oración de Colosenses 1 como una progresión práctica: conocer la voluntad de Elohim, caminar dignamente, producir fruto, resistir con paciencia y agradecer por la herencia. Esa observación recibe apoyo **textual cualificado** en #colossians_1_9-14, porque Pablo no deja el conocimiento en una esfera privada; lo orienta a una conducta visible y a la gratitud. La conexión de la clase con textos de la Torah puede iluminar el tema, pero sigue siendo **canónica y aproximada**, no una cita directa de Pablo.
+
+En #colossians_1_9-10, **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno, reconocimiento o comprensión; su fuerza contextual es el conocimiento de la voluntad de Elohim que debe producir un caminar digno. **(περιπατέω)**, _peripateō_, significa caminar o conducirse; aquí funciona como imagen de la conducta completa de la comunidad. Las glosas son **directas en el campo normal** y el vínculo entre conocimiento y conducta es **contextual**. No sería legítimo convertir «conocimiento» en una contraseña reservada a una élite ni en una garantía automática de madurez.
+
+En #colossians_1_10-12, **(καρποφορέω)**, _karpophoreō_, significa producir fruto; **(αὐξάνω)**, _auxanō_, crecer o aumentar; y **(εὐχαριστέω)**, _eucharisteō_, dar gracias. Su fuerza contextual encadena obra buena, crecimiento en el conocimiento y gratitud. «Fruto» es una glosa **directa y contextual**, mientras afirmar que cada resultado visible demuestra por sí solo una posición espiritual sería **inferencial**. La enseñanza de Eric se conserva con esa cautela: la emunah se hace observable en servicio y perseverancia, pero no se mide por una fórmula humana de éxito.
+
+En #colossians_1_11-14, **(δυναμόω)**, _dynamoō_, significa fortalecer o hacer poderoso; **(ἱκανόω)**, _hikanoō_, hacer suficiente, capacitar o habilitar; y **(μετατίθημι)**, _metatithēmi_, trasladar o cambiar de lugar. El texto atribuye a Elohim la capacitación para participar en la herencia, la liberación del dominio de las tinieblas y el traslado al reino del Hijo amado. Las glosas son **directas**, y su fuerza es **textual**: la gratitud responde a una obra recibida. La aproximación pedagógica con **נחלה**, _nachalah_, «herencia o posesión recibida», puede iluminar el tema, pero no reemplaza los verbos griegos ni demuestra una identidad de vocabulario.
+
+La progresión protege dos extremos. El conocimiento no puede separarse del fruto, la resistencia y la gratitud; pero tampoco debe transformarse en una escala de superioridad espiritual. Colosenses 1 presenta una herencia recibida, una liberación atribuida a Elohim y un caminar que la comunidad debe vivir. Así, la observación pública de Eric queda respaldada en su dirección pastoral y limitada en cualquier aplicación que convierta la experiencia de una comunidad en medida infalible de las demás.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

@@ -277,6 +277,14 @@ La pregunta por David continúa esa prueba de comprensión. **λέγουσιν**
 
 El cierre hace visible el costo de una religión que no protege al vulnerable. **κατεσθίω**, _katesthiō_, «devorar o consumir», describe la conducta de los escribas; **προφάσει**, _prophasei_, «pretexto o apariencia», muestra que la oración larga puede cubrir explotación. En contraste, **ὑστέρημα**, _hysterēma_, «carencia o déficit», y **βίος**, _bios_, «vida o medios de vida», explican la entrega de la viuda desde su sustento. La observación de Eric sobre una vida entregada está apoyada por la comparación entre excedente y carencia, pero la secuencia impide usarla para exigir empobrecimiento. Marcos hace que el amor confesado sea verificable: una comunidad que ama al prójimo no devora su casa.
 
+## Reparación dirigida: el amor confesado se prueba en la economía del templo (12:28-44)
+
+La unidad final de Marcos 12 impide separar el Shemá de la denuncia y de la ofrenda. En 12:28-34, **ἀκούω**, _akouō_, «oír o escuchar», y **ἀγαπάω**, _agapaō_, «amar», llevan la respuesta desde la recitación hacia una práctica dirigida a Elohim y al prójimo. El escriba reconoce que ese amor vale más que holocaustos y sacrificios, pero **οὐ μακρὰν**, _ou makran_, «no lejos», conserva una distancia: la comprensión correcta orienta, pero no certifica por sí sola una fidelidad consumada. La comparación con **(שמע)**, _shema_, «escuchar y atender», ilumina el trasfondo de Devarim; no convierte cada forma griega en obediencia ya completada.
+
+La denuncia de 12:38-40 da el criterio social de ese amor. **κατεσθίω**, _katesthiō_, «devorar o consumir», describe a escribas que consumen casas de viudas, mientras **προφάσει**, _prophasei_, «pretexto o apariencia», muestra que la oración larga puede cubrir explotación. La observación de Eric sobre una vida entregada sólo puede conservarse dentro de esta advertencia: una comunidad que afirma amar al prójimo no puede financiar su prestigio consumiendo a la vulnerable.
+
+Por eso la viuda de 12:41-44 no debe convertirse en una cuota religiosa. **ὑστέρημα**, _hysterēma_, «carencia o déficit», contrasta con **περισσεύω**, _perisseuō_, «abundar o sobrar», y **βίος**, _bios_, «vida o medios de vida», explica que las dos monedas representan su sustento. Yehoshua observa y valora el alcance de su entrega, pero Marcos no registra una orden para que ella repita el gesto ni para que otros le exijan empobrecimiento. La secuencia prueba la enseñanza atribuida a Eric con un límite textual firme: el amor del Shemá se mide por el cuidado del vulnerable, no por la presión sobre sus últimos recursos.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el rango de **(אחד)** en #devarim_6_4 antes de presentar “indivisible” como más que una aplicación teológica.
