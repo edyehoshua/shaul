@@ -113,6 +113,13 @@ La forma **(ציבור)**, _tsibur_, significa público, colectividad o comunida
 
 La misma secuencia protege contra una lectura salarial de la obediencia. Éxodo 20:2 pone delante la liberación de יהוה; Levítico 4 describe responsabilidad y reparación; Levítico 17:7 delimita una prohibición cultual concreta. **(אשם)**, _asham_, significa ser culpable o quedar responsable; en #vaikra_4_27-35 su fuerza contextual nombra la responsabilidad que activa el procedimiento, no una tarifa universal para toda omisión posterior. La clasificación pública/individual de Eric recibe, por tanto, **apoyo textual cualificado**: ayuda a no imponer obligaciones sin destinatario, pero la Torah sigue exigiendo obediencia, discernimiento y reparación donde el texto las ordena.
 
+## Reparación focal: obligación situada, no contabilidad aislada
+
+La observación pública de Eric en `youtube:0KIf2pmoseI`, aproximadamente entre 00:01:37 y 00:02:25, distingue una mitzvá pública —pone la construcción del templo como ejemplo— de una obligación individual dependiente de una circunstancia. La formulación es una paráfrasis atribuible y no una cita literal. Romanos 3:19-20 aporta un límite canónico: **(νόμος)**, _nomos_, significa ley, norma o instrucción; en ese pasaje su fuerza contextual es el testimonio que deja a todo el mundo responsable. «Torah» es una glosa **aproximada y pedagógica** en español; no permite convertir toda instrucción en una carga idéntica ni borrar el sujeto de cada mandamiento.
+
+La clasificación tampoco debe romper la relación entre liberación y respuesta. **(מִשְׁפָּט)**, _mishpat_, significa juicio, derecho, decisión o norma; su fuerza contextual depende de la perícopa que lo emplea y no equivale automáticamente a una sanción individual. Éxodo 20:2 presenta primero la liberación de יהוה; Levítico 4:27-35 después delimita un caso de pecado inadvertido y su reparación. La observación de Eric recibe así **apoyo textual cualificado**: preguntar quién debe hacer qué evita imponer ritos fuera de situación, pero no convierte la obediencia en una opción indiferente.
+
+
 ## Conclusión
 
 La segunda sección se entiende mejor cuando el número sirve para localizar y no para reemplazar la Torah. Hay mandamientos públicos, personales, eventuales, étnicos y cultuales; cada uno exige atender a su sujeto y condición. Eric acierta al resistir una obligación plana que convierta la obediencia en miedo o salario. La lectura bíblica añade que la liberación de יהוה convoca a escuchar, reparar y discernir con responsabilidad.
