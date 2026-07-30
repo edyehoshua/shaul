@@ -60,6 +60,8 @@ La parte 15 pone precisamente el foco en «la novedad del Rúaj» frente a «la 
 
 La siguiente pregunta evita una conclusión equivocada: «¿es la Torá pecado?». Pablo responde **חלילה**, de ninguna manera (#romanos_7_7). El mandamiento «no codiciarás» da conocimiento del pecado; el pecado, en cambio, toma ocasión por medio del mandamiento, produce codicia, engaña y mata (#romanos_7_8-11). La conclusión es inequívoca: la Torá es santa, y el mandamiento santo, justo y bueno (#romanos_7_12).
 
+La forma hebrea **חלילה**, _ḥalilah_, tiene como sentido ordinario «lejos esté» o «de ninguna manera»; en este contexto funciona como negación enfática de que la Torá sea pecado. «De ninguna manera» es una traducción **aproximada y contextual**, no una equivalencia morfológica con el griego de la carta. La forma griega **(ἁμαρτία)**, _hamartia_, significa pecado o fallo; en #romanos_7_7-13 nombra el poder que aprovecha el mandamiento, engaña y mata. «Pecado» es una glosa **directa**, y distinguirlo del mandamiento santo recibe apoyo textual directo en 7:12.
+
 Esta secuencia permite afinar la preocupación de la clase por no convertir la «letra» en un nombre para todo mandamiento. En Romanos 7, el problema nombrado no es la santidad del mandamiento, sino el pecado que lo aprovecha. La afirmación de Eric sobre una libertad verdadera puede, por tanto, leerse como libertad del dominio engañador del pecado; no como permiso para declarar malo lo que Pablo acaba de llamar santo y bueno.
 
 ## 7:14-25 — La tragedia carnal y el clamor por liberación
