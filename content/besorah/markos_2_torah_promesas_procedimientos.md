@@ -396,6 +396,12 @@ El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam 
 
 La palabra que יהוה sostiene y la obediencia que pide no compiten. Su promesa hace posible la respuesta; la respuesta manifiesta que la promesa está obrando. Yehoshua reúne ambas: viene según lo escrito, lleva la Torah en sus entrañas, hace la voluntad de Elohim y confirma que ni el detalle más pequeño quedará vacío.
 
+## Reparación dirigida: ayuno, novedad y propósito del Shabbat
+
+La transición de la mesa a los odres requiere conservar el vocabulario del ayuno. **νηστεύω**, _nēsteuō_, significa «ayunar»; en 2:18 la pregunta de los discípulos de Iojanán y de los perushim trata de una práctica concreta, y **νηστεύουσιν**, _nēsteuousin_, describe a quienes ayunan. **νυμφίος**, _nymphios_, «novio o esposo», explica la excepción por la presencia de Yehoshua. Por eso la aplicación de Eric sobre una renovación que no cabe en estructuras humanas puede mantenerse como analogía, pero **καινός**, _kainos_, «nuevo o renovado en cualidad», no significa por sí solo «sin Torah» ni «abolido».
+
+En 2:21-22, **ἐπίβλημα**, _epiblēma_, «parche o pieza aplicada», **ἀσκός**, _askos_, «odre», y **γλεύκος**, _gleukos_, «vino nuevo o mosto», forman una imagen de incompatibilidad material: un parche no encoge del mismo modo que un vestido viejo, y el vino que fermenta requiere un recipiente capaz de soportarlo. La equivalencia con **(חדש)**, _jadash_, «nuevo», es de campo semítico y no una retroversión demostrada. En 2:23-28, **ἔξεστιν**, _exestin_, «es lícito o está permitido», introduce la cuestión; **κύριος**, _kyrios_, «señor o dueño», y **ἐγένετο**, _egeneto_, «fue hecho o llegó a ser», llevan la respuesta al propósito: el Shabbat fue hecho para el ser humano. La autoridad mesiánica discierne la ordenanza desde la Escritura y la necesidad; no convierte el episodio en una licencia para abolirla.
+
 ## Corrección dirigida: la objeción y el llamado no son la misma escena
 
 Marcos 2:7 y 2:17 requieren conservar dos problemas distintos dentro de la misma progresión. En 2:7, los escribas preguntan **τί οὗτος οὕτως λαλεῖ βλασφημεῖ** (_ti houtos houtōs lalei blasphēmei_, «¿por qué habla así? blasfema»). **βλασφημέω**, _blasphēmeō_, significa hablar injuriosamente o difamar; aquí nombra la evaluación de los escribas sobre la palabra de perdón, no una definición abstracta de toda afirmación humana. Yehoshua responde con la autoridad del Ben HaAdam y con la señal de levantar al hombre.
