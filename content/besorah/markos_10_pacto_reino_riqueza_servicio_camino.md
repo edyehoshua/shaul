@@ -49,7 +49,7 @@ Marcos 10 ordena el discipulado alrededor de una entrega que no puede ser compra
 
 ## Alcance de la nota
 
-Esta nota sigue todo Marcos 10 en el orden del texto local TTH. Reúne las partes 32 y 33 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**. La parte 32 retoma el divorcio (10:1-12), desarrolla 10:13-23 y corrige la imagen de la aguja; la 33 continúa con el hombre de muchas posesiones, la imposibilidad humana de salvarse y la promesa a quienes dejan bienes o vínculos por la Besorah. Sus observaciones se presentan como exposición atribuida y se contrastan con el texto; las secciones sin detalle de clase se desarrollan desde la Escritura local.
+Esta nota sigue todo Marcos 10 en el orden del texto local TTH. Reúne las partes 32 y 33 del estudio de Marcos del **hermano Eric de Jesús Rodríguez Mendoza**. La parte 32 está identificada públicamente por su título como exposición de 10:13-23: recibe a los niños, presenta al hombre rico y llega a la imagen de la aguja; la parte 33 continúa con el hombre de muchas posesiones, la imposibilidad humana de salvarse y la promesa a quienes dejan bienes o vínculos por la Besorah. El título de la parte 32 no autoriza a atribuirle una exposición del divorcio de 10:1-12, que aquí se desarrolla desde el texto local y queda separada de la atribución. Sus observaciones se presentan como exposición atribuida y se contrastan con el texto; las secciones sin detalle de clase se desarrollan desde la Escritura local.
 
 ## Hoja de comparación
 
@@ -177,6 +177,8 @@ Por eso la pregunta **τί ποιήσω**, _ti poiēsō_, «¿qué haré?», de 
 - **Marcos 10:13-16 — siervos y reino:** Eric acentúa la recepción sin rango; la nota lo apoya con la indignación de Yehoshua y califica las edades de mayoría como color histórico.
 - **Marcos 10:17-27 — posesiones y aguja:** la clase distingue bondad de Elohim, amor al dinero y «cuerda» frente a camello; la nota lo ancla en 10:18-25 y rechaza biografías no dichas del rico.
 - **Marcos 10:28-52 — promesa, servicio y camino:** la parte 33 aplica el dejarlo todo y el seguimiento; la nota lo sitúa bajo el anuncio de entrega, el rescate para muchos y BarTimai.
+
+La atribución queda delimitada por los títulos públicos: la parte 32 se usa para 10:13-23 y la parte 33 para la continuación del hombre rico y la promesa de 10:28-31. La lectura de 10:1-12 conserva su lugar textual, pero no se presenta como contenido hablado de la parte 32. Esta distinción protege la trazabilidad sin romper la unidad canónica del capítulo.
 
 ## Control de dependencias: herencia, rescate y seguimiento
 
