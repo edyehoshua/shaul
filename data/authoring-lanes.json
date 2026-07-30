@@ -110,6 +110,14 @@
             "youtube:csFssLdcLsE"
           ],
           "reason": "Después de la cobertura, yojanan quedó con 10 fuentes elegibles pendientes (<40). Se asigna exclusivamente este grupo coherente de tres exposiciones restantes de su playlist propio Juan; ninguna está en progreso, en missing-transcripts ni tiene nota canónica de otra lane."
+        },
+        {
+          "title": "Tehilim/Himnos/Salmos: dos exposiciones restantes sin asignar",
+          "source_ids": [
+            "youtube:hh75H_Ii_wA",
+            "youtube:JxLhysPXd_0"
+          ],
+          "reason": "Tras la cobertura, yojanan quedó por debajo del objetivo de 40 fuentes pendientes. Estas dos exposiciones restantes de Tehilim/Himnos/Salmos pertenecen a su playlist propio, tienen transcript local disponible y no están en progreso ni tienen nota canónica; se asignan exclusivamente a yojanan."
         }
       ]
     },
@@ -424,6 +432,13 @@
             "youtube:U_4B3FIUJzs"
           ],
           "reason": "Tras la cobertura, efesios quedó con 14 fuentes elegibles pendientes (<40). Se asigna exclusivamente el grupo restante de Qohélet, ya incluido en su cola de playlists, sin tomar fuentes en progreso ni notas canónicas de otra lane."
+        },
+        {
+          "title": "Haftarot de Bre’shit/Génesis: exposición restante sin asignar",
+          "source_ids": [
+            "youtube:FqWcvFzBfwI"
+          ],
+          "reason": "Tras la cobertura, efesios quedó por debajo del objetivo de 40 fuentes pendientes. Esta única exposición restante de Haftarot de Bre’shit/Génesis pertenece a su cola propia, tiene transcript local disponible y no está en progreso ni tiene nota canónica; se asigna exclusivamente a efesios."
         }
       ]
     },

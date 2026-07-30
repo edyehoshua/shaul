@@ -86,6 +86,11 @@
       "covered": 10,
       "lane": "efesios"
     },
+    "Haftarot de Bre’shit/Génesis: exposición restante sin asignar": {
+      "total": 1,
+      "covered": 0,
+      "lane": "efesios"
+    },
     "Haftarot de Dvarim/Deuteronomio": {
       "total": 9,
       "covered": 9,
@@ -254,6 +259,11 @@
     "Tehilim/Himnos/Salmos: Salmo 21 pendiente sin asignar": {
       "total": 1,
       "covered": 1,
+      "lane": "yojanan"
+    },
+    "Tehilim/Himnos/Salmos: dos exposiciones restantes sin asignar": {
+      "total": 2,
+      "covered": 0,
       "lane": "yojanan"
     },
     "Yesha’yahu - Isaías": {
