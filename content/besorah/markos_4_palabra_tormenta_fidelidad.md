@@ -192,6 +192,16 @@ La lámpara y la medida no interrumpen ese argumento. **ὅ τι ἐὰν ἀκ�
 
 Solo después aparece el cruce. **λέγει αὐτοῖς**, _legei autois_, «les dice», introduce la orden de 4:35; **διέλθωμεν**, _diēlthōmen_, «pasemos o atravesemos», incluye a los discípulos en la acción que viene. La tormenta, **λαῖλαψ μεγάλη**, _lailaps megalē_, «gran vendaval», no demuestra que la palabra haya fallado, y el sueño de Yehoshua no equivale a abandono. Cuando él ordena **σιώπα** y **πεφίμωσο**, «calla» y «enmudece», el relato muestra autoridad sobre una amenaza concreta; después pregunta por **πίστις**, _pistis_, «fe, confianza o fidelidad». La aplicación de Eric a una fidelidad que permanece en la palabra es legítima como exhortación, pero no convierte la calma en promesa de controlar toda aflicción.
 
+## Control final: de la semilla recibida a la pregunta por la identidad (4:1-41)
+
+La clase de Eric relaciona la escucha con una respuesta fiel, y Marcos permite probarlo sin convertir **ἀκούω**, _akoúō_, «oír o escuchar», en una definición semítica oculta. El sembrador arroja **ὁ λόγος**, _ho lógos_, «la palabra», y el buen terreno **παραδέχονται**, _paradéchontai_, «recibe o acepta», para luego **καρποφοροῦσιν**, _karpophoroûsin_, «dar fruto». La comparación con **שמע**, _shema_, «oír, atender y obedecer», ilumina una relación temática; no reemplaza el griego ni hace que todo oyente produzca fruto automáticamente.
+
+La medida y el crecimiento limitan cualquier lectura de control humano. **βλέπετε**, _blépete_, «miren o tengan cuidado», exige atención a lo que se oye; **αὐτομάτη**, _automatē_, «que sucede por sí misma desde la perspectiva del sembrador», describe el crecimiento que el agricultor no fabrica. Eric puede exhortar a una obediencia perseverante, pero el texto conserva una tensión: el discípulo recibe y trabaja, mientras el reino crece sin quedar reducido a una técnica de resultados.
+
+La travesía lleva esa palabra a una crisis concreta. **διέλθωμεν**, _diélthōmen_, «pasemos o atravesemos», incluye a los discípulos en la orden; después **λαῖλαψ μεγάλη**, _laîlaps megálē_, «gran vendaval», pone a prueba su reacción. Yehoshua **ἐπετίμησεν**, _epetímēsen_, «reprendió», y ordenó **σιώπα**, _siṓpa_, «calla», y **πεφίμωσο**, _pephímōso_, «enmudece o queda amordazado»; solo después pregunta por **πίστις**, _pístis_, «fe, confianza o fidelidad». La preferencia de Eric por «fidelidad» funciona como aplicación a la palabra recibida, pero no convierte la calma en promesa de evitar toda aflicción.
+
+El cierre pregunta «¿quién es este?» y no «¿qué fórmula pueden repetir los discípulos?». Los ecos de Tehilim 89:9 y 107:29 hacen razonable el puente temático con el dominio de יהוה sobre las aguas, pero Marcos sostiene su argumento mediante mandato, calma y asombro. La escucha se reconoce por fruto y perseverancia; la autoridad sobre el mar dirige la atención hacia la identidad de Yehoshua.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar la forma griega exacta de 4:40 y su gama semántica antes de preferir «fidelidad» sobre todas las traducciones de _pistis_.
