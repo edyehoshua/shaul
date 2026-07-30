@@ -60,8 +60,8 @@ Esta introducción propone leer Yojanan como un escrito transmitido en griego, p
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Uso en la nota |
 | --- | --- | --- | --- |
-| #tehilim_105_15 | אל תגעו ב/משיח/י ו/ל/נביא/י אל תרעו | ¡No toquen a mis ungidos, y a mis profetas no hagan mal! | **(משיח)** y "ungido" no son categorías vacías ni meramente occidentales. |
-| #tehilim_118_25 | אנא יהוה הושיע/ה נא אנא יהוה הצליח/ה נא | Te ruego, יהוה: ¡Hoshiana (Salva, por favor)! Te ruego, יהוה: ¡Da éxito, por favor! | Base para leer **(הושענא)** en #iojanan_12_13 como súplica, no como interjección. |
+| #tehilim_105_15 | אל תגעו במשיחי ולנביאי אל תרעו | ¡No toquen a mis ungidos, y a mis profetas no hagan mal! | **(משיח)** y "ungido" no son categorías vacías ni meramente occidentales. |
+| #tehilim_118_25 | אנא יהוה הושיעה נא אנא יהוה הצליחה נא | Te ruego, יהוה: ¡Hoshiana (Salva, por favor)! Te ruego, יהוה: ¡Da éxito, por favor! | Base para leer **(הושענא)** en #iojanan_12_13 como súplica, no como interjección. |
 
 ## Hoja léxica
 

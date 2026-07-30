@@ -42,7 +42,7 @@ references:
   - "#yaakov_3_17"
   - "#sodot_19_10"
 sources:
-  - "/Users/jhonny/.codex/attachments/4ec22d16-14f8-4a60-83be-5aca773594a4/pasted-text.txt"
+  - "content/besorah/markos_9_gloria_servicio_sal_paz.md"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/daniel/7.json"
@@ -62,7 +62,8 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 
 ## Alcance de la nota
 
-- Fuente principal: transcripción automática de una clase en video; se conserva la línea argumental, no cada giro oral.
+- Esta es una hoja léxica complementaria; la fuente pública de la clase y su `source_id` pertenecen al estudio canónico [[markos_9_gloria_servicio_sal_paz|Marcos 9]], para evitar duplicar una fuente exclusiva del capítulo.
+- Se conserva la línea argumental de la clase en forma de glosario, no cada giro oral ni como una segunda nota canónica de capítulo.
 - El video llama a este material "capítulo 2" del estudio de Marcos, pero los anclajes bíblicos principales están en #markos_9_1-9, #markos_10_33 y #markos_13_26.
 - Las referencias a Targum, Midrash, Talmud y literatura judía quedan como marco de la clase, pero se marcan como pendientes cuando no se cotejó la fuente exacta.
 - Para Tanaj y Besorah se usó el corpus local disponible, confirmado con `npm run scriptures:ensure` el 17 de julio de 2026.
@@ -87,15 +88,15 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | #markos_9_1 | TTH: algunos no probarán muerte hasta ver "el reino de Elohim viniendo con poder". | La clase identifica esta promesa con la escena inmediata de la metamorfosis. |
 | #markos_9_2 | TTH: Yeshúa tomó a Kefa, Iaacob e Iojanán y "se transformó delante de ellos". Delitzsch: וישתנה לעיניהם. | La transformación revela quién es el Mesías, no solo un prodigio visual. |
 | #markos_9_3 | TTH: sus vestiduras quedaron "muy blancas como la nieve". | Se conecta con #daniel_7_9 y la figura del Anciano de días. |
-| #markos_9_7 | TTH: la nube cubre y la voz dice: "Este es mi Hijo amado, escúchenlo." | La bat kol centra la atención en Yeshúa; ver también [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]. |
+| #markos_9_7 | TTH: la nube cubre y la voz dice: "Este es mi Hijo amado, escúchenlo." | La bat kol centra la atención en Yehoshua; ver también [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]. |
 | #markos_9_8 | TTH: "no vieron a nadie más, sino a Yeshúa sólo con ellos." | La clase lo lee como cierre interpretativo: Moisés y Eliyahu quedan reunidos en él. |
 | #markos_9_9 | TTH: no contaran lo visto hasta que el Ben HaAdam se levantara de los muertos. | El título Ben HaAdam queda unido a muerte y resurrección. |
 | #markos_10_33 | TTH: el Ben HaAdam será entregado, condenado y entregado a gentiles. | Ejemplo de Yeshúa apropiándose el título para hablar de su padecimiento. |
 | #markos_13_26 | TTH: verán al Ben HaAdam venir en las nubes con fuerza y honra. | Conecta Marcos con Daniel 7 y la venida en nubes. |
 | #romanos_9_6-8 | TTH: "no todos los que son de Israel son Israel"; tampoco todos los descendientes físicos de Abraham son hijos, sino que los hijos del juramento son considerados simiente. | La clase usa este pasaje para distinguir descendencia física de la condición de hijo y heredero. |
-| #daniel_7_9 | OE: "לבוש/ה כ/תלג חור ו/שער ראש/ה כ/עמר נקא... גלגלו/הי נור דלק". | Vestido blanco, cabello como lana y ruedas de fuego dan el campo simbólico de la escena. |
-| #daniel_7_13-14 | OE: "כ/בר אנש... ו/ל/ה יהיב שלטן ו/יקר ו/מלכו". | El Bar Enash recibe dominio, honra y reino indestructible. |
-| #melakhim_bet_2_11 | OE: "רכב אש ו/סוסי אש... ו/יעל אליהו ב/סערה ה/שמים". | El fuego y la carroza evocan a Eliyahu dentro del lenguaje de la clase. |
+| #daniel_7_9 | OE: "לבושה כתלג חור ושער ראשה כעמר נקא... גלגלוהי נור דלק". | Vestido blanco, cabello como lana y ruedas de fuego dan el campo simbólico de la escena. |
+| #daniel_7_13-14 | OE: "כבר אנש... ולה יהיב שלטן ויקר ומלכו". | El Bar Enash recibe dominio, honra y reino indestructible. |
+| #melakhim_bet_2_11 | OE: "רכב אש וסוסי אש... ויעל אליהו בסערה השמים". | El fuego y la carroza evocan a Eliyahu dentro del lenguaje de la clase. |
 | #iojanan_7_37-38 | TTH: en el gran día de la fiesta, Yeshúa habla de ríos de aguas vivas "como dice la Escritura". | La clase propone que la pista apunta hacia los Ketuvim, especialmente Shir HaShirim leído targúmicamente. |
 | #lukas_24_44-45 | TTH: Torah de Moshéh, profetas y salmos; luego abrió el entendimiento. | Apoya la división tripartita: Torah, Neviim y Ketuvim. |
 | #shir_hashirim_4_5 | TTH: "Tus dos pechos son como dos cervatillos gemelos de gacela". | La clase cita el Targum: Moisés y Aharón / Torah y profecía; pendiente de cotejo exacto. |
@@ -103,7 +104,6 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | #qolosim_2_2-3 | Delitzsch: "סוד האלהים... וסוד המשיח... כל אצרות החכמה והדעת". | La clase lee los tesoros de sabiduría e inteligencia como Torah y profecía escondidas en el Mesías. |
 | #qolosim_2_9 | Delitzsch: "בו בגופו שכן כל מלא האלהות". | La plenitud corporal del Mesías explica por qué todo converge en él. |
 | #yaakov_3_13 | Delitzsch: "מי בכם חכם ונבון... בענות החכמה". | Sabiduría e inteligencia deben mostrarse en mansedumbre y conducta, no en ego religioso. |
-| #sodot_19_10 | TTH: "el Testimonio de Yeshúa es el Rúaj de la profecía." | La profecía se mide por el testimonio de Yeshúa. |
 
 ## Hoja léxica
 
@@ -114,7 +114,7 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 | **(מלכות האלהים)** | malkhut ha-Elohim | reino de Elohim | Aproximada | En #markos_9_1 la clase lo identifica con Yeshúa revelado con poder. |
 | **(וישתנה)** | vayishtaneh | se transformó | Aproximada | Delitzsch usa "cambió / fue transformado"; la clase lo llama metamorfosis. |
 | **(חכמה)** | jojmá | sabiduría | Pedagógica | La clase la relaciona con Torah, Moshéh y anulación del ego; requiere cotejo con fuentes judías citadas. |
-| **(בינה / דעת)** | biná / daat | inteligencia / conocimiento | Aproximada | La clase prefiere "inteligencia" para la profecía; Delitzsch de #qolosim_2_3 usa דעת. |
+| **(בינה; דעת)** | biná; daat | inteligencia; conocimiento | Aproximada | La clase prefiere "inteligencia" para la profecía; Delitzsch de #qolosim_2_3 usa דעת. |
 | **(מרכבה)** | merkavá | carroza | Pedagógica | En la clase: imagen de sujeción absoluta; la atribución a patriarcas queda pendiente de fuente midráshica exacta. |
 | **(שושנה)** | shoshanáh | lirio / flor entre espinos | Aproximada | TTH conserva shoshanáh; la lectura como planta espinosa y corona de espinas queda pendiente de verificación. |
 | **(לבנון)** | Levanón | Líbano / altar que blanquea | Pedagógica | La clase lo toma del Targum de Shir HaShirim 4:15; no se cerró como lexicografía directa. |
@@ -191,13 +191,18 @@ En ese marco, #shir_hashirim_4_5 se menciona por la interpretación targúmica d
 - [ ] Revisar si #qolosim_2_3 debe citarse como "conocimiento" o "inteligencia" según el griego, Delitzsch y la línea de la clase.
 - [ ] Ampliar con Nejemiah 8 el argumento sobre lectura hebrea, explicación y tradición aramea.
 
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público de referencia, acreditado y con `source_id` en el estudio canónico [[markos_9_gloria_servicio_sal_paz|Marcos 9]]: [El Evangelio según Marco - Parte 28 La Metamorfosis de Mashíaj](https://www.youtube.com/watch?v=3UA4ZtIYBpI).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 ## Conclusión
 
 La clase presenta Marcos 9 como una escena de revelación, no como una visión aislada. Yeshúa promete que algunos verán el reino venido con poder, sube al monte, se transforma, muestra las señales de Daniel 7, recibe el testimonio de la nube y queda solo ante los discípulos. La Torah y la profecía apuntan hacia él; la sabiduría y la inteligencia están escondidas en él; el Bar Enash de Daniel y el Ben HaAdam de Marcos convergen en el Mesías que padece, resucita y viene con honra.
 
 ## Ver también
 
-- [[markos_1_sanidad_limpieza_voluntad|Marcos 1: sanidad, limpieza y voluntad del Mesías]]
+- [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]
 - [[yojanan_9_ben_adam_y_el_ciego|Yojanán 9: Ben Adam y el ciego que se postró]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]

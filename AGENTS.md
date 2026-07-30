@@ -71,7 +71,7 @@ External literature:
 - Keep tables and comparison sheets concise and scannable.
 - Prefer links between notes over duplicated explanation blocks.
 
-## Hermes Agent Workflow
+## Agent Workflow
 
 1. Receive a topic request.
 2. Detect request mode: raw notes organization, source-based research, or mixed.
@@ -79,7 +79,7 @@ External literature:
 4. Ingest source material and normalize it into structured points.
 5. Execute the requested output shape: edit existing notes, create one consolidated note, or create several linked notes.
 6. Add or refresh verse links and cross references.
-7. Append learning summary to private/hermes/learning-log.md.
+7. Append learning summary to private/learning-log.md.
 
 ## Raw Notes Workflow
 
@@ -93,15 +93,15 @@ External literature:
 
 - Primary transcript API: youtube-transcript-api.
 - Fallback method: yt-dlp auto subtitles.
-- Use scripts/hermes/fetch_transcript.py for ingestion.
+- Use scripts/fetch_transcript.py for ingestion.
 
 ## Local Scripture Workflow
 
 1. Mirror scripture JSON from edyhvh/davar into docs/scriptures/.
 2. Keep translation families separated under oe/json/, tth/json/, and delitzsch/json/.
 3. OE stays chapter-oriented by book folder; TTH and Delitzsch stay book-oriented JSON files.
-4. Treat docs/scriptures/ as the fast local source for Hermes and note normalization work.
-5. Use npm run scriptures:ensure before scripture-dependent Hermes or note work.
+4. Treat docs/scriptures/ as the fast local source for agent and note normalization work.
+5. Use npm run scriptures:ensure before scripture-dependent agent or note work.
 6. Use npm run scriptures:sync -- --corpus <name> (or --corpus all) for explicit refreshes.
 
 ## Safety and Quality

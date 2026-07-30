@@ -1,0 +1,615 @@
+{
+  "version": 1,
+  "purpose": "Exclusive book lanes for parallel Eric de Jesús transcript authoring. A source may be handled only by its assigned lane, so two workers never author the same book at once.",
+  "integration_branch": "feat/eric_youtube",
+  "lanes": {
+    "yojanan": {
+      "worker_branch": "worker/shaul-yojanan",
+      "playlists_in_order": [
+        "Juan",
+        "Tehilim/Himnos/Salmos",
+        "Yesha’yahu - Isaías",
+        "Haftarot de Vayiqra’/Levítico",
+        "Haftarot de bemidbar/Números",
+        "Haftarot de Dvarim/Deuteronomio",
+        "La deidad de Mashiaj",
+        "Sobre el Shabat"
+      ],
+      "source_groups": [
+        {
+          "title": "Juan: parte 29 capítulos 9–10 pendiente no asignada",
+          "source_ids": [
+            "youtube:gK3V7SYBI_U"
+          ],
+          "reason": "Tras la cobertura, yojanan quedó por debajo del objetivo de 40 fuentes elegibles y esta exposición de Juan era la única fuente elegible no asignada de su playlist propio. Se asigna exclusivamente a yojanan; no está en progreso ni tiene nota canónica de otra lane."
+        },
+        {
+          "title": "Tehilim 119 y salmos restantes sin asignar (grupo coherente)",
+          "source_ids": [
+            "youtube:FlhAcYD1xHY",
+            "youtube:kZW4IL2Cn6Q",
+            "youtube:kv6HOQs_fD0",
+            "youtube:qXMn78sfFGU",
+            "youtube:PC4aR6RIsqI",
+            "youtube:fvzC2oDcPig",
+            "youtube:yBt-N44fmMA",
+            "youtube:ASKtoaXU0Xg",
+            "youtube:wcW2sbyejeg",
+            "youtube:gthAr2L7Mfw",
+            "youtube:BiZ8TXdYsww",
+            "youtube:_l81sYVUsKo",
+            "youtube:hPwnpHmmPBg",
+            "youtube:JFt32TbSL68",
+            "youtube:WMaVm1xtao8",
+            "youtube:JxLhysPXd_0",
+            "youtube:dKBaLiM1JdU",
+            "youtube:gOO8dOyWHPg",
+            "youtube:2o5bkLc3GQY",
+            "youtube:OlpNpJjRYB8",
+            "youtube:hh75H_Ii_wA",
+            "youtube:E32ztB2NacQ",
+            "youtube:TOT2zoskIGw",
+            "youtube:xlqPZWeLrJw",
+            "youtube:xeOQWtMOwvg",
+            "youtube:bzrcSNMhywY",
+            "youtube:KZsPjtLou_g",
+            "youtube:qH2J2KtpCAw",
+            "youtube:NgYZoD0PbeM",
+            "youtube:cKjkhUJOR4Y",
+            "youtube:tl3mTl4WmO8",
+            "youtube:Cd4qLmlWvDM",
+            "youtube:hGRkNtObsMQ",
+            "youtube:QxPPJgj0p4s",
+            "youtube:3lKWKZyOYao",
+            "youtube:ZNpxvynYZXk",
+            "youtube:DmaS_AXN2HM",
+            "youtube:62Ws5J4GXAA"
+          ],
+          "reason": "Tras la cobertura, yojanan quedó en 38 fuentes pendientes (<40). Se asigna exclusivamente el grupo restante de Tehilim/Himnos/Salmos, coherente por playlist y aún sin nota canónica, sin tomar fuentes en progreso ni de otra lane."
+        },
+        {
+          "title": "Haftarot propias restantes de bemidbar, Dvarim y Vayiqra (grupo exclusivo)",
+          "source_ids": [
+            "youtube:VcXyZS6Btk4",
+            "youtube:Ax1RiJiDaHY",
+            "youtube:M8iCPw4MVO4",
+            "youtube:O1L2jwVLU-M",
+            "youtube:aS47zjh67Kw",
+            "youtube:W7YQMoZZLWc",
+            "youtube:LfXDqma0ONk",
+            "youtube:7mwpoXK-GO4",
+            "youtube:5TGUU01teBU",
+            "youtube:D1CVhLpPy4M",
+            "youtube:0tc7KX2dwHI",
+            "youtube:u0xlyaA5Jb4",
+            "youtube:4RxX_pGV8Lc",
+            "youtube:vi9MScPZ19s",
+            "youtube:a5vFxYJGFFo",
+            "youtube:KFnAJ5hPCK0",
+            "youtube:QvVgjYqT3iI",
+            "youtube:FuUDfJ1_x38",
+            "youtube:JOTEHMcjsZI",
+            "youtube:R2_RYABc2AI",
+            "youtube:DCF5IDBzHtE",
+            "youtube:n6u7FR7nD4o"
+          ],
+          "reason": "Tras la cobertura, yojanan quedó por debajo del objetivo de 40 fuentes pendientes. Se asigna exclusivamente el grupo restante de sus playlists propias de Haftarot de bemidbar/Números, Dvarim/Deuteronomio y Vayiqra/Levítico; se excluyen fuentes ya cubiertas o asignadas a otra lane, y no se toma trabajo en progreso ni nota canónica ajena."
+        },
+        {
+          "title": "Tehilim/Himnos/Salmos: Salmo 21 pendiente sin asignar",
+          "source_ids": [
+            "youtube:V6cspEvIX7s"
+          ],
+          "reason": "Tras la cobertura, todas las lanes quedaron por debajo del objetivo de 40 fuentes pendientes y este único video elegible aún no estaba asignado. Se asigna exclusivamente a yojanan, propietaria de Tehilim/Himnos/Salmos; no está en progreso ni tiene nota canónica de otra lane."
+        },
+        {
+          "title": "Juan: partes 33, 36 y 37 pendientes sin asignar",
+          "source_ids": [
+            "youtube:FV3WHeOQbzg",
+            "youtube:LCt5Wt86POA",
+            "youtube:csFssLdcLsE"
+          ],
+          "reason": "Después de la cobertura, yojanan quedó con 10 fuentes elegibles pendientes (<40). Se asigna exclusivamente este grupo coherente de tres exposiciones restantes de su playlist propio Juan; ninguna está en progreso, en missing-transcripts ni tiene nota canónica de otra lane."
+        },
+        {
+          "title": "Tehilim/Himnos/Salmos: dos exposiciones restantes sin asignar",
+          "source_ids": [
+            "youtube:hh75H_Ii_wA",
+            "youtube:JxLhysPXd_0"
+          ],
+          "reason": "Tras la cobertura, yojanan quedó por debajo del objetivo de 40 fuentes pendientes. Estas dos exposiciones restantes de Tehilim/Himnos/Salmos pertenecen a su playlist propio, tienen transcript local disponible y no están en progreso ni tienen nota canónica; se asignan exclusivamente a yojanan."
+        }
+      ]
+    },
+    "colosenses": {
+      "worker_branch": "worker/shaul-epistles",
+      "playlists_in_order": [
+        "Colosenses",
+        "2 Tesalonicenses completo",
+        "Romanos",
+        "Shavu’ot",
+        "Yom hakipurim",
+        "Yom tru’áh",
+        "Hebreas de antes",
+        "Gálatas",
+        "613 Mitzvot",
+        "Las 613 mitzvot 2a parte",
+        "Parashot 2016-2017"
+      ],
+      "source_groups": [
+        {
+          "title": "Fiestas, 613 y estudios temáticos (balanceado desde Uncategorized)",
+          "source_ids": [
+            "youtube:FFTXWUbDVAI",
+            "youtube:Mv_H45lKGkQ",
+            "youtube:e1oGNyhvSEQ",
+            "youtube:gpnXufuyDgA",
+            "youtube:yH1eiSUCdTY",
+            "youtube:lJpkAqUpOiM",
+            "youtube:0jssylSPp4g",
+            "youtube:qzr_u89uzUk",
+            "youtube:NR4_pnOZA8Q",
+            "youtube:6xs3BWuATN4",
+            "youtube:O2jFt6kAl30",
+            "youtube:r4_qmQa-HEY",
+            "youtube:Wc4JdxmC-Qs",
+            "youtube:se8OJZlKeQ8",
+            "youtube:XQjMnOoXJMY",
+            "youtube:aaOsAn3ilxg",
+            "youtube:v_02B_oF30A",
+            "youtube:8tbhWSUV3kk",
+            "youtube:KHqPveKvk0c",
+            "youtube:b4StIF_mR0A",
+            "youtube:WCO-PKJ0IDc",
+            "youtube:NoUgAfg5OWg",
+            "youtube:lTV1Im2d5QI",
+            "youtube:QvmWSGo6qZU",
+            "youtube:6d59VNAitEA",
+            "youtube:U6SQe5EOnF4",
+            "youtube:XCiS-STIKaI",
+            "youtube:4LEGO26UuNA"
+          ],
+          "reason": "Rebalanceo supervisado: esta lane tenía 19 fuentes pendientes frente a 46–70 de las otras lanes. Los temas continúan su cola de 613 mitzvot, fiestas y estudios teológicos; se asignan de manera exclusiva."
+        },
+        {
+          "title": "Epístolas Romanos y Gálatas (clasificadas desde Uncategorized)",
+          "source_ids": [
+            "youtube:9KQYTf0aRe0",
+            "youtube:4R5-ywKdnYw",
+            "youtube:1owk-zoap1E",
+            "youtube:atIdZY13b_c",
+            "youtube:ililQLS9UJE",
+            "youtube:6D7Yj0bDSfU",
+            "youtube:u0NtR-y-T2Y"
+          ],
+          "reason": "Asignación exclusiva del grupo coherente de fuentes epistolares no asignadas a la lane colosenses, que cayó por debajo del objetivo de 40 fuentes pendientes. No se tomaron fuentes en progreso ni notas canónicas de otra lane."
+        },
+        {
+          "title": "613 Mitzvot 2a parte restantes (grupo coherente)",
+          "source_ids": [
+            "youtube:IJv0HaPaOdk",
+            "youtube:xE79IvA2JdA",
+            "youtube:zbq2ONSng6g",
+            "youtube:4iKdU2GWr9Y"
+          ],
+          "reason": "Tras la cobertura, colosenses quedó en 39 fuentes pendientes (<40). Se asigna exclusivamente este grupo restante del playlist propio Las 613 mitzvot 2a parte; ninguna fuente está en progreso ni tiene nota canónica de otra lane."
+        },
+        {
+          "title": "Parashot 2016-2017: Dvarim pendiente no asignado",
+          "source_ids": [
+            "youtube:n6AaHG2kTCo"
+          ],
+          "reason": "Tras la cobertura, colosenses permaneció por debajo del objetivo de 40 fuentes pendientes y esta exposición de Parashot 2016-2017 era el único origen bíblico elegible aún no asignado. Se asigna exclusivamente a la lane colosenses, propietaria del playlist, sin tomar una fuente en progreso ni una nota canónica de otra lane."
+        },
+        {
+          "title": "Parashot 2016-2017 restantes del inventario (grupo bíblico coherente)",
+          "source_ids": [
+            "youtube:Qi_OffhOumg",
+            "youtube:ytk79FxpTY4",
+            "youtube:c2tSRBEl5wU",
+            "youtube:RGPTa4kWjbM",
+            "youtube:F0y9JGvv4CE"
+          ],
+          "reason": "Tras la cobertura, colosenses quedó por debajo del objetivo de 40 fuentes pendientes y este bloque bíblico de Parashot 2016-2017 seguía sin asignar. Se asigna exclusivamente a la lane colosenses, propietaria del playlist; no incluye fuentes en progreso, canónicas o no expositivas."
+        },
+        {
+          "title": "Las 613 mitzvot 2a parte: bloque inicial restante",
+          "source_ids": [
+            "youtube:0KIf2pmoseI",
+            "youtube:94Uum8S5pe4",
+            "youtube:yWl1pEEHqoA",
+            "youtube:v7LP_5ckq4k",
+            "youtube:bUQJsxITyEs"
+          ],
+          "reason": "Tras la cobertura, colosenses quedó en 37 fuentes pendientes (<40). Se asigna exclusivamente el bloque inicial consecutivo aún elegible del playlist Las 613 mitzvot 2a parte, de su cola propia; las cinco fuentes no están en progreso ni tienen nota canónica de otra lane."
+        },
+        {
+          "title": "Las 613 mitzvot 2a parte: bloque restante de inventario",
+          "source_ids": [
+            "youtube:6uI72fSkxOE",
+            "youtube:WSuNB9r5fyY",
+            "youtube:9OzErjDVBTw",
+            "youtube:wHVHLqbiO50",
+            "youtube:cPmY5G8d7mg",
+            "youtube:W8v3x0QRpm0",
+            "youtube:8GZvHu8PDJc",
+            "youtube:dkZ5cK4kAS0",
+            "youtube:NKY7tmRT4QU",
+            "youtube:zH-MNm-N4ug",
+            "youtube:LsyxSQmzQsA",
+            "youtube:GZWnhQNxdio",
+            "youtube:vSwEWAh9ngE",
+            "youtube:rJ9WbZ-YeT8",
+            "youtube:LXilKtQ-fhc",
+            "youtube:mD5SJWM3sP0",
+            "youtube:OO9gR0gvli8",
+            "youtube:5e7WzNIoudY",
+            "youtube:Rirb5Mm1cKU",
+            "youtube:S_2yHVI1dsY",
+            "youtube:ojjJKtdQQuQ",
+            "youtube:tCMc1i8DsiE",
+            "youtube:KJi56hRdr20",
+            "youtube:eAMeBqrH4Ro",
+            "youtube:mKpKvJiTFcU",
+            "youtube:eTFMmOdU4kQ",
+            "youtube:vqHkW9sONfM",
+            "youtube:MPefG3AXsj0",
+            "youtube:wiO3Oxc1bHA",
+            "youtube:3lVCw8AOye4"
+          ],
+          "reason": "Después de la cobertura, colosenses quedó con 23 fuentes elegibles pendientes (<40). Se asigna exclusivamente este bloque coherente restante del playlist propio Las 613 mitzvot 2a parte, para llevar la lane a 53 pendientes; no incluye fuentes en progreso, missing-transcripts, no expositivas ni notas canónicas de otra lane."
+        },
+        {
+          "title": "Las 613 mitzvot 2a parte: bloque final no asignado",
+          "source_ids": [
+            "youtube:E1eOXWfuQIA",
+            "youtube:KzeFAzs6skQ",
+            "youtube:kpRmwbh7QEE",
+            "youtube:whA0Rm1f4vE",
+            "youtube:8qyiOhRgdTU",
+            "youtube:7S2dL7XAvkI",
+            "youtube:Qr5k6gJspSk",
+            "youtube:BOeYBxe-7O8",
+            "youtube:Q0m91bFi99I",
+            "youtube:qqicR0QF9xk",
+            "youtube:bqf29zdgUOI",
+            "youtube:VrXnhppON4Q",
+            "youtube:tHbhVMb1hSs",
+            "youtube:649tiM1KaeE",
+            "youtube:vr8FjJtnWLo",
+            "youtube:v_OlXqqd9dE",
+            "youtube:3blo2f3tVhg",
+            "youtube:gV0UxnfkdCo",
+            "youtube:wfy27PxrxVk",
+            "youtube:Cpon0ujv7Vc",
+            "youtube:I8y1r1SuDBU",
+            "youtube:q1iTAj6JCSs",
+            "youtube:CJuw_R66JYM",
+            "youtube:wCCor0zxs_Y",
+            "youtube:hJLQF_pd3Yo",
+            "youtube:rNMZ0kiRkCM",
+            "youtube:uY3ovSzArA0",
+            "youtube:H1ylXNPpFHY",
+            "youtube:QKvtmcT1fac",
+            "youtube:YrWRMcnDfpo",
+            "youtube:4SrWQqG4Blg",
+            "youtube:z71W8INXgcQ",
+            "youtube:Rx7RVcJJ3p4",
+            "youtube:GYs3HOz9j1k",
+            "youtube:pbymahRm2sE",
+            "youtube:H57cvpIx8kg",
+            "youtube:AM9pzarLGrg",
+            "youtube:tQyjq-oGUmo",
+            "youtube:jtBOGgvmma8",
+            "youtube:QemIRx0s8iY",
+            "youtube:pntt_-sbqR8",
+            "youtube:l9gnphg_s3M",
+            "youtube:f3rTNdNvdec",
+            "youtube:Dz0ApIrg29I",
+            "youtube:Nu_vdrQRgMw",
+            "youtube:JyRL2kDG2aI",
+            "youtube:MRkB0EIv5oU",
+            "youtube:QpjcE4tHgWQ",
+            "youtube:uc7MeIrTfWE",
+            "youtube:_mqRapap5WQ",
+            "youtube:zlyIOzaPh5o",
+            "youtube:Ac26liOpDrM",
+            "youtube:hMHVR1KkTOE"
+          ],
+          "reason": "Tras la cobertura, colosenses quedó por debajo del objetivo de 40 fuentes pendientes. Se asigna exclusivamente este bloque final y coherente de Las 613 mitzvot 2a parte, aún sin asignación de lane, sin tomar fuentes en progreso ni notas canónicas de otra lane; la propiedad del playlist ya corresponde a colosenses."
+        },
+        {
+          "title": "Romanos parte 24: el fin de la ley",
+          "source_ids": [
+            "youtube:zLynBpmjJr0"
+          ],
+          "reason": "Después de la cobertura, colosenses quedó por debajo del objetivo de 40 fuentes pendientes y esta exposición de Romanos era la única fuente elegible no asignada de su cola epistolar. Se asigna exclusivamente a colosenses; no está en progreso, en missing-transcripts ni tiene nota canónica de otra lane."
+        }
+      ]
+    },
+    "efesios": {
+      "worker_branch": "worker/shaul-efesios",
+      "playlists_in_order": [
+        "Efesios completo",
+        "1 Tesalonicenses completo",
+        "Qohélet - Eclesiastés",
+        "Shir hashirim completo",
+        "Apocalipsis",
+        "Fiestas",
+        "Hebreos",
+        "Haftarot de Bre’shit/Génesis",
+        "Haftarot de Shmot/Éxodo"
+      ],
+      "source_groups": [
+        {
+          "title": "Marcos (clasificado desde Uncategorized)",
+          "source_ids": [
+            "youtube:j52NQB6sKSQ",
+            "youtube:cLaRVGxIAy8",
+            "youtube:IhLu5hOaxYs",
+            "youtube:yeVZgEraRzA",
+            "youtube:3UA4ZtIYBpI",
+            "youtube:q2Uoc19Zkms",
+            "youtube:BRqiJzOHBkQ",
+            "youtube:ZSJOKcCqycU",
+            "youtube:3RRxUezpfXo",
+            "youtube:G5SL_tqQ8eA",
+            "youtube:m3u6ei-rNKA",
+            "youtube:4xxUgmWPEmw",
+            "youtube:wR0WA_TLcCc",
+            "youtube:1TSSvIKzEzQ",
+            "youtube:bwPzt_r3XY0",
+            "youtube:wS79RPN81a8",
+            "youtube:PuOCeGw5jaU",
+            "youtube:nddC-xoPguU",
+            "youtube:4QQiCc5fCMw",
+            "youtube:jamQ95BSuN0",
+            "youtube:Ug-0YTiNV34",
+            "youtube:47kx4pTWdFA",
+            "youtube:BrbPFZ2Mh6I",
+            "youtube:5zrMo85sj98",
+            "youtube:sHbKR7IjJ6A",
+            "youtube:c_Ww_KfQuwI",
+            "youtube:okx3HZGjZk8",
+            "youtube:1qwfOY-W8Fo",
+            "youtube:LuxlrvnMbu8",
+            "youtube:N3aU6MhISZc",
+            "youtube:ObzMEUgFrTw",
+            "youtube:eH4eSuVIDrg",
+            "youtube:u2NYGAjwlns",
+            "youtube:pmg5YfsYOkQ",
+            "youtube:zaeuqpePDmc",
+            "youtube:OYK01CPrwKk",
+            "youtube:YKQCpmNS3KM",
+            "youtube:agFU_axg_s0",
+            "youtube:dh5VYLTt5v4",
+            "youtube:poyAzSdiTQU",
+            "youtube:Farvi5l0RRA",
+            "youtube:-YSk73bQ3c4",
+            "youtube:pANyVs_rkmU",
+            "youtube:tgSr43Ivl60",
+            "youtube:g3NfiksYo50",
+            "youtube:zSJes_lSWbE"
+          ],
+          "reason": "46 uploads del Evangelio según Marcos identificados por título; exclusivo para esta lane tras agotar su cola elegible original."
+        },
+        {
+          "title": "Haftarot de Bre’shit/Génesis restantes sin asignar (grupo coherente)",
+          "source_ids": [
+            "youtube:FqWcvFzBfwI",
+            "youtube:Bd7DFDMxVYo",
+            "youtube:YoauCD9H3E8",
+            "youtube:zhC_PXVOfag",
+            "youtube:_E9RcYtZifA",
+            "youtube:pMP3wkV3ya0",
+            "youtube:zrVHKQKJ5rQ",
+            "youtube:US1GdLYd5Bg",
+            "youtube:mYxHiWxlrjo",
+            "youtube:Sbmr5kDBwWc",
+            "youtube:azQfmu7VHXQ"
+          ],
+          "reason": "Tras la cobertura, la lane efesios quedó por debajo de 40 fuentes pendientes. Se asigna exclusivamente el grupo restante de Haftarot de Bre’shit/Génesis, que pertenece a su cola de libro y no figura en otra lane, no está en progreso y no tiene nota canónica."
+        },
+        {
+          "title": "Fiestas restantes sin asignar (grupo coherente de inventario)",
+          "source_ids": [
+            "youtube:pupDxpHjY8g",
+            "youtube:ILFHBTEagyc",
+            "youtube:nUq66eB6Iz0",
+            "youtube:s65OJxbjMDY",
+            "youtube:1XCJHcOIERw"
+          ],
+          "reason": "La lane efesios quedó por debajo de 40 fuentes pendientes tras la cobertura. Se asigna exclusivamente este grupo restante de Fiestas; no incluye fuentes en progreso ni notas canónicas de otra lane."
+        },
+        {
+          "title": "Qohélet restante sin asignar (grupo coherente de capítulos 4 y 10)",
+          "source_ids": [
+            "youtube:zchS6Q0D5SM",
+            "youtube:6HgU6a_cf7E",
+            "youtube:UMnek0zzbZU",
+            "youtube:FFUU2hgLZ0M",
+            "youtube:rfRAvg1PzK8",
+            "youtube:U_4B3FIUJzs"
+          ],
+          "reason": "Tras la cobertura, efesios quedó con 14 fuentes elegibles pendientes (<40). Se asigna exclusivamente el grupo restante de Qohélet, ya incluido en su cola de playlists, sin tomar fuentes en progreso ni notas canónicas de otra lane."
+        },
+        {
+          "title": "Haftarot de Bre’shit/Génesis: exposición restante sin asignar",
+          "source_ids": [
+            "youtube:FqWcvFzBfwI"
+          ],
+          "reason": "Tras la cobertura, efesios quedó por debajo del objetivo de 40 fuentes pendientes. Esta única exposición restante de Haftarot de Bre’shit/Génesis pertenece a su cola propia, tiene transcript local disponible y no está en progreso ni tiene nota canónica; se asigna exclusivamente a efesios."
+        }
+      ]
+    },
+    "tanaj": {
+      "worker_branch": "worker/shaul-tanaj",
+      "playlists_in_order": [],
+      "source_groups": [
+        {
+          "title": "Parashot Tanaj (clasificadas desde Uncategorized)",
+          "source_ids": [
+            "youtube:3Et5rwoIj_Y",
+            "youtube:8Btk2jATjfk",
+            "youtube:Y97CMPXJ4cA",
+            "youtube:stsUp5v3SXE",
+            "youtube:jCax7bvw4Y8",
+            "youtube:fVAh5QTMH-8",
+            "youtube:72RM95hoEPY",
+            "youtube:qoPOuZN5G4c",
+            "youtube:_4q0WLCdK1c",
+            "youtube:JynK66A9mn0",
+            "youtube:kNM4bV6k3Z8",
+            "youtube:IzbgqzNwD4k",
+            "youtube:YVyesqxbVJg",
+            "youtube:2D-i1G2vY-k",
+            "youtube:CLeAjF2EGoE",
+            "youtube:86QJBg5Aw5E",
+            "youtube:e54Boaj8Z_8",
+            "youtube:PM4WRF-kTM8",
+            "youtube:0a9JenvoNhM",
+            "youtube:ODE1WeAmOIY",
+            "youtube:kw0lpuvIXPk",
+            "youtube:8cLCP_e_2MI",
+            "youtube:FTlICgQF21Y",
+            "youtube:JqAnsH6Coq0",
+            "youtube:35whlBfDPkA",
+            "youtube:sdJBSJjFIns",
+            "youtube:i0kaIhPMHZ8",
+            "youtube:9tDjIv6tla0",
+            "youtube:st3eM0SNXRM",
+            "youtube:Wu5jU8k4mXA",
+            "youtube:cDOCQ1RXrH8",
+            "youtube:zjob2_-uFTs",
+            "youtube:lnNEKuqlFhg",
+            "youtube:tJKzd52fFbE",
+            "youtube:SPEatJ6nkyc",
+            "youtube:_rBnzOUJ6Ds",
+            "youtube:ELZQY8k1Ibo",
+            "youtube:nOrCP8wDipM",
+            "youtube:cls5RxEzxtQ",
+            "youtube:4BXW1nJCLCc",
+            "youtube:ZJ1vhJLEL3c",
+            "youtube:FZlCNcBpknU",
+            "youtube:YFejem1jPTk",
+            "youtube:iJJX9zpbryk",
+            "youtube:86l71sgugKc",
+            "youtube:PViAnOhrabk",
+            "youtube:iw2v71qC7lk",
+            "youtube:X0hILB8r8N8",
+            "youtube:VPMoZun2Bww",
+            "youtube:JMdxbQtZ9wc",
+            "youtube:h5LhqPYCi4E",
+            "youtube:VCfzHkmdwoc",
+            "youtube:GTTiPhYP4eQ",
+            "youtube:8cPipT6K-9Q",
+            "youtube:f0PQY7bXbJQ",
+            "youtube:OG2PPYieRhk",
+            "youtube:EHZDK_XPB1A",
+            "youtube:eJlTuHME674"
+          ],
+          "reason": "Fuentes no asignadas de parashot identificadas por título; exclusivas para remediar y desarrollar notas canónicas Tanaj sin solaparse con otras lanes."
+        },
+        {
+          "title": "Parashot 2016-2017 restantes sin asignar (grupo coherente)",
+          "source_ids": [
+            "youtube:4hBwWXXSvQQ",
+            "youtube:sfA7OZ8LtFk",
+            "youtube:j2lf7LdAJn0",
+            "youtube:GZ2LxhmNRRU",
+            "youtube:ZXfMBc8_H54"
+          ],
+          "reason": "La lane tanaj quedó por debajo de 40 fuentes pendientes tras la cobertura. Se asigna exclusivamente este grupo coherente de parashot aún no asignadas y sin nota canónica o trabajo en progreso de otra lane."
+        },
+        {
+          "title": "Parashot 2016-2017: Ajarey mot, Beha'alotjá, Balaq, Re'eh y Ha'azinu",
+          "source_ids": [
+            "youtube:1Dqriiq9bIU",
+            "youtube:Ps_KEolNVdU",
+            "youtube:qKWysdkjyQQ",
+            "youtube:St2dkeSW2uE",
+            "youtube:CHpD4KHEGMA"
+          ],
+          "reason": "Después de la cobertura, tanaj quedó con 0 fuentes pendientes en su cola asignada. Este bloque coherente de cinco parashot de 2016-2017 permanecía elegible, sin nota canónica ni trabajo en progreso de otra lane; se asigna exclusivamente a tanaj para mantener la lane en el objetivo de 40–70 fuentes pendientes."
+        }
+      ]
+    },
+    "haftarot": {
+      "branch": "worker/shaul-haftarot",
+      "worktree": "/home/david/shaul-workers/haftarot",
+      "playlists_in_order": [],
+      "source_groups": [
+        {
+          "title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+          "source_ids": [
+            "youtube:uXzXFluGIdg",
+            "youtube:6yvN36B5280",
+            "youtube:w8HoMQSjKyQ",
+            "youtube:7uBEYFbUy2A",
+            "youtube:_QlsdBq_GTc",
+            "youtube:qw74-9iWKGI",
+            "youtube:LOCn1StkW4M",
+            "youtube:WDnxTbBQP8I",
+            "youtube:h84ocNkUd0I",
+            "youtube:srNlYR8BNnQ",
+            "youtube:Kiq69SwJqEE",
+            "youtube:zdW5CnkKt_4",
+            "youtube:ylAeMhup8o0",
+            "youtube:EdDuQREWp3Y",
+            "youtube:p7Tu9dJAgN0",
+            "youtube:Aly9Mvp-Nts",
+            "youtube:x5NiMis3izg",
+            "youtube:YgDxHdLEmKc",
+            "youtube:vB6aDB59o48",
+            "youtube:xjQ5RfijeVU",
+            "youtube:cvt-w1oDtmE",
+            "youtube:0-KPe89FY7I",
+            "youtube:dWfZ0pLJAlk",
+            "youtube:HXpeQAgaCoA",
+            "youtube:sTl5WJfH61Q",
+            "youtube:MlM2bk7h0hc",
+            "youtube:4i_5Hr0stwE",
+            "youtube:S6cc-nUH6Mg",
+            "youtube:kKv_J4gwBkc",
+            "youtube:Gw0vvb4MGI8",
+            "youtube:hMKGpQItwvY",
+            "youtube:yoYZGJOMi38",
+            "youtube:iRGczDAqu9c",
+            "youtube:GN22XKFRYGM",
+            "youtube:dsI1NFrPTZY"
+          ],
+          "reason": "Quinta lane exclusiva. Agrupa las 35 fuentes pendientes no asignadas tras el rebalanceo; prioriza Haftarot y estudios bíblicos. Las piezas musicales, bodas u otro material no expositivo se registran como no apto para nota canónica, sin inventar una enseñanza."
+        },
+        {
+          "title": "Shavuot independiente (balanceado desde Uncategorized)",
+          "source_ids": [
+            "youtube:sfGXMp9LYCc"
+          ],
+          "reason": "Rebalanceo supervisado: haftarot tenía 33 pendientes (<40) y solo restaba 1 fuente elegible no asignada tras cobertura. Se asigna de forma exclusiva; no se tomaron fuentes in-progress ni notas canónicas de otras lanes."
+        },
+        {
+          "title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
+          "source_ids": [
+            "youtube:xpihVrZGGI4"
+          ],
+          "reason": "Tras la cobertura, haftarot quedó en 28 fuentes pendientes (<40). Se asigna exclusivamente esta exposición bíblica de Haftarah aún no asignada; no se tomó una fuente en progreso ni una nota canónica de otra lane."
+        },
+        {
+          "title": "Haftarah de Ajarey-mot pendiente sin asignar",
+          "source_ids": [
+            "youtube:7Hdo6Y1mD98"
+          ],
+          "reason": "Tras la cobertura, haftarot quedó en 27 fuentes pendientes (<40). Esta exposición de Ajarey-mot permanece sin asignar, sin nota canónica ni trabajo en progreso; se asigna exclusivamente a la lane haftarot por coherencia temática de haftarah."
+        }
+        ],
+        "priority": "Remediate existing canonical notes tied to owned sources first; otherwise process the first eligible biblical exposition in source order."
+    }
+  },
+  "uncategorized_policy": "Do not process an Uncategorized video until its biblical book is identified from its title/transcript and assigned by the integrator to a lane not currently owning that book. Record the assignment before authoring it.",
+  "overflow_policy": "When a lane has completed every eligible source in its assigned queue (missing local transcripts must be recorded in data/missing-transcripts.json), the integrator rebalances it onto the largest remaining unstarted playlist from another lane. The integrator is the only process allowed to move a playlist between lanes, must first verify that no worker has started it, and must publish the manifest change before the borrowing worker begins. A borrowed playlist is exclusively owned by its new lane until completion.",
+  "load_balance_policy": {
+    "target_pending_sources_per_author": "40-70",
+    "review_frequency": "Each integrator run after coverage refresh",
+    "rule": "When a lane falls below 40 eligible pending sources while another is above 70 or unassigned sources are available, the integrator assigns an exclusive coherent source group, records it here, and never moves an in-progress source or canonical note."
+  }
+}

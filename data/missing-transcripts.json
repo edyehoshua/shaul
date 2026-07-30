@@ -1,0 +1,598 @@
+{
+  "schema_version": 1,
+  "purpose": "Inventory sources skipped because their local transcript is unavailable. Revisit when a transcript becomes available.",
+  "entries": [
+    {
+      "video_id": "DgWLnsUmDcM",
+      "playlist_title": "Fiestas",
+      "title": "Jag hasukot 5786-2025",
+      "url": "https://www.youtube.com/watch?v=DgWLnsUmDcM",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "1owk-zoap1E",
+      "playlist_title": "Gálatas",
+      "title": "La carta a los gálatas parte 9: El Mediador y la Ley",
+      "url": "https://www.youtube.com/watch?v=1owk-zoap1E",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "9KQYTf0aRe0",
+      "playlist_title": "Gálatas",
+      "title": "La carta a los gálatas  Parte 7 - Cap 3:10-14: La \"maldición\" de la Ley",
+      "url": "https://www.youtube.com/watch?v=9KQYTf0aRe0",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "5DwytpFiKYc",
+      "playlist_title": "Hebreas de antes",
+      "title": "ציון גולן - שמע ישראל  Zion Golan - Shema Israel",
+      "url": "https://www.youtube.com/watch?v=5DwytpFiKYc",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "fD1lFuadSTA",
+      "playlist_title": "Hebreas de antes",
+      "title": "Emil Zrihan and Yossi Fine Live at JSMF 2014",
+      "url": "https://www.youtube.com/watch?v=fD1lFuadSTA",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "F0y9JGvv4CE",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashát Mishpatim (2017). Varones de santidad",
+      "url": "https://www.youtube.com/watch?v=F0y9JGvv4CE",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "Qi_OffhOumg",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Bre'shit Parte 2 Gn 2:1-3:22 El Postrer 'Adam - 'Adam Qadmon",
+      "url": "https://www.youtube.com/watch?v=Qi_OffhOumg",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "RGPTa4kWjbM",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Trumáh (2017) Las tablas de la piedra",
+      "url": "https://www.youtube.com/watch?v=RGPTa4kWjbM",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "c2tSRBEl5wU",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Jayey Saráh (2016) - 'Almah, Na'arah y Betuláh",
+      "url": "https://www.youtube.com/watch?v=c2tSRBEl5wU",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "ytk79FxpTY4",
+      "playlist_title": "Parashot 2016-2017",
+      "title": "Parashat Vayera' (2016) Gn 18-22 Hashem ya sabe...",
+      "url": "https://www.youtube.com/watch?v=ytk79FxpTY4",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "6D7Yj0bDSfU",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 6A) ¿Qué es ser judío? ¿Qué es ser creyente?",
+      "url": "https://www.youtube.com/watch?v=6D7Yj0bDSfU",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "u0NtR-y-T2Y",
+      "playlist_title": "Romanos",
+      "title": "La carta a los romanos (parte 7) \"A los que están dentro de la ley\" Rom 3:17ss",
+      "url": "https://www.youtube.com/watch?v=u0NtR-y-T2Y",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "Sdnjwi67bxY",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=Sdnjwi67bxY",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "scYLRRQz0Tg",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmos Cap 149 (parte 1)",
+      "url": "https://www.youtube.com/watch?v=scYLRRQz0Tg",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "t6IM15Pf9x8",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 148",
+      "url": "https://www.youtube.com/watch?v=t6IM15Pf9x8",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "vZUK885TC4Q",
+      "playlist_title": "Tehilim/Himnos/Salmos",
+      "title": "Tehilim/Himnos/Salmo cap 119 (parte 6)",
+      "url": "https://www.youtube.com/watch?v=vZUK885TC4Q",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "0-KPe89FY7I",
+      "playlist_title": "Uncategorized",
+      "title": "Oyfn Pripetchik - La estufa Español-yidish by Monserrat Franco",
+      "url": "https://www.youtube.com/watch?v=0-KPe89FY7I",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "1qwfOY-W8Fo",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco Parte 16  Cap 4 Las Parábolas",
+      "url": "https://www.youtube.com/watch?v=1qwfOY-W8Fo",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "3RRxUezpfXo",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco parte 40 Escatología las setenta semanas de Daniel",
+      "url": "https://www.youtube.com/watch?v=3RRxUezpfXo",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "4LEGO26UuNA",
+      "playlist_title": "Uncategorized",
+      "title": "אבון דבשמיא. (Avun Devishmaya' Padre nuestro (arameo",
+      "url": "https://www.youtube.com/watch?v=4LEGO26UuNA",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "4i_5Hr0stwE",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 91 en Hebreo תהילים צ'''א בעברית",
+      "url": "https://www.youtube.com/watch?v=4i_5Hr0stwE",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "86QJBg5Aw5E",
+      "playlist_title": "Parashot Tanaj (clasificadas desde Uncategorized)",
+      "title": "Parashat Ha'azinu Dt 32 Nuestra Roca - La fidelidad",
+      "url": "https://www.youtube.com/watch?v=86QJBg5Aw5E",
+      "reason": "No local transcript under private/transcripts/ericdejes for owned tanaj lane source",
+      "status": "pending_transcript",
+      "lane": "tanaj",
+      "source_id": "youtube:86QJBg5Aw5E"
+    },
+    {
+      "video_id": "Gw0vvb4MGI8",
+      "playlist_title": "Uncategorized",
+      "title": "Torah reading prayer",
+      "url": "https://www.youtube.com/watch?v=Gw0vvb4MGI8",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "HXpeQAgaCoA",
+      "playlist_title": "Uncategorized",
+      "title": "Recibimiento y despedida de Shabat",
+      "url": "https://www.youtube.com/watch?v=HXpeQAgaCoA",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "MlM2bk7h0hc",
+      "playlist_title": "Uncategorized",
+      "title": "salmo 23 en hebreo con traducción.wmv",
+      "url": "https://www.youtube.com/watch?v=MlM2bk7h0hc",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "O2jFt6kAl30",
+      "playlist_title": "Uncategorized",
+      "title": "Piyut Akdamut Leshavuot.  פיוט אקדמות לשבועות Akdamut",
+      "url": "https://www.youtube.com/watch?v=O2jFt6kAl30",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "S6cc-nUH6Mg",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 92 en Hebreo/español תהילים צ''ב בעברית -לספרדית",
+      "url": "https://www.youtube.com/watch?v=S6cc-nUH6Mg",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "U6SQe5EOnF4",
+      "playlist_title": "Uncategorized",
+      "title": "המשיח אשר ישראל חייב לקוות",
+      "url": "https://www.youtube.com/watch?v=U6SQe5EOnF4",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "WCO-PKJ0IDc",
+      "playlist_title": "Uncategorized",
+      "title": "El Dios verdadero el emet אל אמת",
+      "url": "https://www.youtube.com/watch?v=WCO-PKJ0IDc",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "cLaRVGxIAy8",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco - Parte 13: La divinidad de Mashíaj",
+      "url": "https://www.youtube.com/watch?v=cLaRVGxIAy8",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "hMKGpQItwvY",
+      "playlist_title": "Uncategorized",
+      "title": "Va'ani bechasdecho va'ani bejasdejó ואני בחסדך - en español",
+      "url": "https://www.youtube.com/watch?v=hMKGpQItwvY",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "iw2v71qC7lk",
+      "playlist_title": "Parashot Tanaj (clasificadas desde Uncategorized)",
+      "title": "Parashat Vayerá' - Parasháh \"Y fue visible\" Gn 18:1-22:24",
+      "url": "https://www.youtube.com/watch?v=iw2v71qC7lk",
+      "reason": "No local transcript under private/transcripts/ericdejes for owned tanaj lane source",
+      "status": "pending_transcript",
+      "lane": "tanaj",
+      "source_id": "youtube:iw2v71qC7lk"
+    },
+    {
+      "video_id": "jamQ95BSuN0",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio Segun Marco Parte 18 cap 5   El Endemoniado de Gdarah",
+      "url": "https://www.youtube.com/watch?v=jamQ95BSuN0",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "nddC-xoPguU",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marcos parte 45 Cap 16 - FIN - El Domingo no es el día del Señor",
+      "url": "https://www.youtube.com/watch?v=nddC-xoPguU",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "pmg5YfsYOkQ",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco parte 35 La Higuera y la casa de Oración",
+      "url": "https://www.youtube.com/watch?v=pmg5YfsYOkQ",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "q2Uoc19Zkms",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marco parte 29 cap 9:14 ss La 'emunáh - fidelidad y el poder de  Dios",
+      "url": "https://www.youtube.com/watch?v=q2Uoc19Zkms",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "qoPOuZN5G4c",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat 'Éqev Dt 7:12-11:25 Zajor, recuerda",
+      "url": "https://www.youtube.com/watch?v=qoPOuZN5G4c",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "qzr_u89uzUk",
+      "playlist_title": "Uncategorized",
+      "title": "Janukáh (2017): La casa, la asamblea, pilar y baluarte de la verdad",
+      "url": "https://www.youtube.com/watch?v=qzr_u89uzUk",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "r4_qmQa-HEY",
+      "playlist_title": "Uncategorized",
+      "title": "I have been given - I have been given - Hejag - Part 2",
+      "url": "https://www.youtube.com/watch?v=r4_qmQa-HEY",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sHbKR7IjJ6A",
+      "playlist_title": "Uncategorized",
+      "title": "Evangelio según Marco - Parte 24: CAp 7 y 8 La Senal de Yonáh",
+      "url": "https://www.youtube.com/watch?v=sHbKR7IjJ6A",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sTl5WJfH61Q",
+      "playlist_title": "Uncategorized",
+      "title": "Salmo 125 en guitarra מזמור קכ''ה בגיטרה",
+      "url": "https://www.youtube.com/watch?v=sTl5WJfH61Q",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "sdJBSJjFIns",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Miqetz - Genesis 41:1 - 44:17 Speak Qashot",
+      "url": "https://www.youtube.com/watch?v=sdJBSJjFIns",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "se8OJZlKeQ8",
+      "playlist_title": "Uncategorized",
+      "title": "Zéjer Qodshó, el recuerdo de su santidad, una nueva visión de Janukáh",
+      "url": "https://www.youtube.com/watch?v=se8OJZlKeQ8",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "st3eM0SNXRM",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Ntzavim Dt 29:9-30:20 The seed that YHWH blessed",
+      "url": "https://www.youtube.com/watch?v=st3eM0SNXRM",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "stsUp5v3SXE",
+      "playlist_title": "Parashot Tanaj (clasificadas desde Uncategorized)",
+      "title": "Parashat 'Ajarey Mot - Passover Seder Part 5",
+      "url": "https://www.youtube.com/watch?v=stsUp5v3SXE",
+      "reason": "Local transcript is a stub (~one caption line); insufficient for canonical note authoring",
+      "status": "pending_transcript",
+      "lane": "tanaj",
+      "source_id": "youtube:stsUp5v3SXE"
+    },
+    {
+      "video_id": "tJKzd52fFbE",
+      "playlist_title": "Uncategorized",
+      "title": "Parashat Shmini Vayiqrá' (Lv) 9:1-11:47  El Octavo día, fuego extraño y algo mas",
+      "url": "https://www.youtube.com/watch?v=tJKzd52fFbE",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "uXzXFluGIdg",
+      "playlist_title": "Uncategorized",
+      "title": "A Heart Fit for Hashem / In the House of Ephraim",
+      "url": "https://www.youtube.com/watch?v=uXzXFluGIdg",
+      "reason": "Transcript unavailable after full inventory refresh",
+      "status": "pending_transcript"
+    },
+    {
+      "video_id": "vB6aDB59o48",
+      "playlist_title": "Uncategorized",
+      "title": "Maravilloso Salvador  מושיענו הנפלא.wmv (Hebreo-Español)",
+      "url": "https://www.youtube.com/watch?v=vB6aDB59o48",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "wS79RPN81a8",
+      "playlist_title": "Uncategorized",
+      "title": "El Evangelio según Marcos parte 42: Cap 13:14-32: Las señales a la venida de Mashíaj",
+      "url": "https://www.youtube.com/watch?v=wS79RPN81a8",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "x5NiMis3izg",
+      "playlist_title": "Uncategorized",
+      "title": "Isaías 12 cantado con guitarra",
+      "url": "https://www.youtube.com/watch?v=x5NiMis3izg",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "yoYZGJOMi38",
+      "playlist_title": "Uncategorized",
+      "title": "Yequm Purqan.  יְקוּם פֻּרְקָן en español",
+      "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
+      "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "p7Tu9dJAgN0",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Haftarát Vayishlaj Parte 1",
+      "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
+      "reason": "Local transcript contains only an incomplete introductory segment (about 22 minutes) and does not preserve enough verse-specific exposition for a substantive canonical study; revisit if a complete transcript is recovered.",
+      "status": "incomplete_transcript"
+    },
+    {
+      "video_id": "Aly9Mvp-Nts",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Haftarát Vayishlaj Parte 3",
+      "url": "https://www.youtube.com/watch?v=Aly9Mvp-Nts",
+      "reason": "La fuente es una exposición bíblica elegible, pero no existe una transcripción local disponible en este worktree; se pospone sin fabricar el estudio hasta recuperar el texto fuente.",
+      "status": "missing_local_transcript"
+    },
+    {
+      "video_id": "dWfZ0pLJAlk",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
+      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
+      "reason": "Clasificación local: la transcripción disponible conserva una interpretación musical de un texto de Isaías, no una exposición bíblica atribuible. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:dWfZ0pLJAlk"
+    },
+    {
+      "video_id": "xjQ5RfijeVU",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Num 8:1 - 12:16 The Mnorah and the Prophecy",
+      "url": "https://www.youtube.com/watch?v=xjQ5RfijeVU",
+      "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
+      "status": "confirmed_unavailable"
+    },
+    {
+      "video_id": "sfGXMp9LYCc",
+      "playlist_title": "Shavuot independiente (balanceado desde Uncategorized)",
+      "title": "Jag Hashavu'ot 2020",
+      "url": "https://www.youtube.com/watch?v=sfGXMp9LYCc",
+      "reason": "La fuente está asignada a esta lane, pero no existe una transcripción local recuperable en este worktree; se pospone sin fabricar una exposición ni clasificar el contenido a partir del título.",
+      "status": "missing_local_transcript"
+    },
+    {
+      "video_id": "xpihVrZGGI4",
+      "playlist_title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
+      "title": "Haftaráh de Mtzorá' 2 Reyes cap 7: El redargüir de Hashem",
+      "url": "https://www.youtube.com/watch?v=xpihVrZGGI4",
+      "reason": "La exposición es elegible, pero no existe una transcripción local en este worktree; se pospone sin fabricar el estudio hasta disponer del texto fuente.",
+      "status": "missing_local_transcript"
+    },
+    {
+      "video_id": "7uBEYFbUy2A",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Despedida de Janukáh (2018) Análisis de Jn 10:22ss y lectura del Himno 30",
+      "url": "https://www.youtube.com/watch?v=7uBEYFbUy2A",
+      "reason": "La fuente parece incluir una exposición de Juan 10 junto con la lectura de un himno, pero no existe una transcripción local recuperable en este worktree; se pospone sin fabricar el estudio hasta disponer del texto fuente.",
+      "status": "missing_local_transcript"
+    },
+    {
+      "video_id": "qw74-9iWKGI",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarah de Shabat Zajor (2018): Tener presente la obra de 'Amaleq",
+      "url": "https://www.youtube.com/watch?v=qw74-9iWKGI",
+      "reason": "La fuente es una exposición bíblica elegible asignada a la lane haftarot, pero no existe una transcripción local recuperable; la recuperación automática fue bloqueada por YouTube, así que se pospone sin fabricar el estudio.",
+      "status": "missing_local_transcript",
+      "lane": "haftarot",
+      "source_id": "youtube:qw74-9iWKGI"
+    },
+    {
+      "video_id": "LOCn1StkW4M",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarat Vayishlaj Part 2",
+      "url": "https://www.youtube.com/watch?v=LOCn1StkW4M",
+      "reason": "La fuente es una exposición bíblica elegible asignada a la lane haftarot, pero no existe una transcripción local recuperable; la recuperación automática fue bloqueada por YouTube, así que se pospone sin fabricar el estudio.",
+      "status": "missing_local_transcript",
+      "lane": "haftarot",
+      "source_id": "youtube:LOCn1StkW4M"
+    },
+    {
+      "video_id": "6yvN36B5280",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Al zeh (En español) על זה  כמו ששר מורדכי בן דויד בספרדית",
+      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
+      "reason": "Clasificación local: el título identifica una canción interpretada en español, no una exposición bíblica. No se fabrica una nota canónica ni se procesa como estudio.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:6yvN36B5280"
+    },
+    {
+      "video_id": "w8HoMQSjKyQ",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Ana & Eric   Videoclip de nuestra boda (21 de Shvat 5779 - 27 de enero 2019)",
+      "url": "https://www.youtube.com/watch?v=w8HoMQSjKyQ",
+      "reason": "Clasificación local: el título identifica un videoclip de boda, no una exposición bíblica. Aunque hay transcripción técnica, no se fabrica una enseñanza ni una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:w8HoMQSjKyQ"
+    },
+    {
+      "video_id": "_QlsdBq_GTc",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Emil Zrihan - God is alive, I praise Him",
+      "url": "https://www.youtube.com/watch?v=_QlsdBq_GTc",
+      "reason": "Clasificación local: la transcripción consiste en una interpretación musical, no en una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:_QlsdBq_GTc"
+    },
+    {
+      "video_id": "YgDxHdLEmKc",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Jerusalén de Oro en español  ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "reason": "Clasificación local: la transcripción es la letra interpretada de una canción sobre Jerusalén, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:YgDxHdLEmKc"
+    },
+    {
+      "video_id": "cvt-w1oDtmE",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Ofrah Hazah - Horashoot - עפרה חזה הרשות English - Spanish",
+      "url": "https://www.youtube.com/watch?v=cvt-w1oDtmE",
+      "reason": "Clasificación local: la transcripción conserva música y fragmentos de interpretación, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:cvt-w1oDtmE"
+    },
+    {
+      "video_id": "sTl5WJfH61Q",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Salmo 125 en guitarra מזמור קכ''ה בגיטרה",
+      "url": "https://www.youtube.com/watch?v=sTl5WJfH61Q",
+      "reason": "Clasificación local: el título y la transcripción identifican una interpretación musical del Salmo 125, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:sTl5WJfH61Q"
+    },
+    {
+      "video_id": "kKv_J4gwBkc",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Todas las palabras - Idan Raichel -punteo en guitarra",
+      "url": "https://www.youtube.com/watch?v=kKv_J4gwBkc",
+      "reason": "Clasificación local: la transcripción corresponde a una interpretación musical, no a una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:kKv_J4gwBkc"
+    },
+    {
+      "video_id": "iRGczDAqu9c",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "ישעיהו פרק 60 עברית - ספרדית   Isaías capítulo 60 hebreo- español",
+      "url": "https://www.youtube.com/watch?v=iRGczDAqu9c",
+      "reason": "Clasificación local: el material disponible es una lectura bilingüe fragmentaria de Isaías 60 y no conserva tratamiento expositivo atribuible. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:iRGczDAqu9c"
+    },
+    {
+      "video_id": "GN22XKFRYGM",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "תהילים טז. the most important decision",
+      "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
+      "reason": "Clasificación local: la transcripción es un canto basado en Tehilim 16, sin desarrollo expositivo atribuible. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:GN22XKFRYGM"
+    },
+    {
+      "video_id": "dsI1NFrPTZY",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "תפלת עלינו the Aleynu Prayer La oración Aleynu´Aleinu",
+      "url": "https://www.youtube.com/watch?v=dsI1NFrPTZY",
+      "reason": "Clasificación local: el material disponible es una oración, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:dsI1NFrPTZY"
+    }
+  ]
+}

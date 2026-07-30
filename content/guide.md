@@ -1,8 +1,8 @@
 ---
 title: "Guía v2 para Notas en Shaul"
-description: "Reglas prácticas para crear notas bíblicas con Obsidian + Quartz + Hermes"
+description: "Reglas prácticas para crear notas bíblicas con Obsidian + Quartz + agente"
 date: 2026-04-27
-tags: [guia, obsidian, quartz, hermes, notas]
+tags: [guia, obsidian, quartz, agente, notas]
 references: []
 sources: []
 ---
@@ -55,7 +55,7 @@ No hay plantilla fija obligatoria. Usa solo las secciones que el tema necesita:
 - Pendiente de verificar
 - Ver también
 
-Para la especificación completa que usan los agentes (Grok, Cursor, Codex, Hermes), ver [docs/note-authoring.md](../docs/note-authoring.md).
+Para la especificación completa que usan los agentes (Grok, Cursor, Codex, agente), ver [docs/note-authoring.md](../docs/note-authoring.md).
 
 ## Comparación de textos
 
@@ -111,19 +111,19 @@ Prioridad:
 3. https://www.youtube.com/@SomosElCuerpodelMesias
 4. Investigación adicional cuando haga falta contexto
 
-## Flujo con Hermes
+## Flujo con agente
 
 1. Definir tema.
 2. Buscar fuente principal (blog o video).
 3. Extraer transcripción (API o fallback).
 4. Crear/actualizar nota en `content/`.
 5. Enlazar versículos y notas relacionadas.
-6. Registrar aprendizaje en `private/hermes/learning-log.md`.
+6. Registrar aprendizaje en `private/learning-log.md`.
 
 ## Herramientas para transcripción
 
 ```bash
-python3 scripts/hermes/fetch_transcript.py "https://www.youtube.com/watch?v=VIDEO_ID"
+python3 scripts/fetch_transcript.py "https://www.youtube.com/watch?v=VIDEO_ID"
 ```
 
 Si no hay transcripción directa, el script usa fallback con `yt-dlp`.

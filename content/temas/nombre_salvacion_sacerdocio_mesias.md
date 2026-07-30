@@ -60,14 +60,14 @@ Por eso Markos 1 importa. El evangelio no inicia la manifestación pública del 
 | --- | --- | --- |
 | #markos_1_24 | אהה מהלנו ולך ישוע הנצרי להאבידנו באת ידעתיך מי אתה קדוש האלהים | El espíritu inmundo pregunta si Yeshúa vino a destruirlos; Markos presenta autoridad sobre fuerzas impuras. |
 | #markos_1_27 | ויבהלו כלם... אשר אףלרוחות הטמאה מצוה הוא בגבורה והנה שמעות לו | La autoridad del Mesías no es solo enseñanza; aun los espíritus inmundos obedecen. |
-| #shemot_3_14 | ו/יאמר אלהים אל משה אהיה אשר אהיה... אהיה שלח/ני אלי/כם | El Nombre revelado a Moshéh se explica desde אהיה: presencia futura y fidelidad de Elohim con su pueblo. |
-| #shemot_3_15 | ...יהוה אלהי אבתי/כם... זה שמ/י ל/עלם ו/זה זכר/י ל/דר דר | יהוה queda como Nombre memorial de generación en generación. |
-| #tehilim_22_23 | אספרה שמ/ך ל/אח/י ב/תוך קהל אהלל/ך | Ivrim aplica este verso al Mesías: él declara el Nombre a sus hermanos. |
+| #shemot_3_14 | ויאמר אלהים אל משה אהיה אשר אהיה... אהיה שלחני אליכם | El Nombre revelado a Moshéh se explica desde אהיה: presencia futura y fidelidad de Elohim con su pueblo. |
+| #shemot_3_15 | ...יהוה אלהי אבתיכם... זה שמי לעלם וזה זכרי לדר דר | יהוה queda como Nombre memorial de generación en generación. |
+| #tehilim_22_23 | אספרה שמך לאחי בתוך קהל אהללך | Ivrim aplica este verso al Mesías: él declara el Nombre a sus hermanos. |
 | #ivrim_2_12 | לאמר אספרה שמך לאחי בתוך קהל אהלל | Delitzsch conserva la cita de Tehilim 22 en la carta a los Ivrim. |
 | #ivrim_2_14 | ...למען אשר יבטל עלידי המות את אשרלו ממשלת המות הוא השטן | El objetivo de la encarnación y muerte: anular al que tenía el dominio de la muerte. |
-| #ieshaiahu_33_22 | כי יהוה שפט/נו יהוה מחקק/נו יהוה מלכ/נו הוא יושיע/נו | La clase insiste: יהוה mismo salva; si el Mesías salva, no puede ser reducido a criatura. |
+| #ieshaiahu_33_22 | כי יהוה שפטנו יהוה מחקקנו יהוה מלכנו הוא יושיענו | La clase insiste: יהוה mismo salva; si el Mesías salva, no puede ser reducido a criatura. |
 | #iojanan_8_58 | ...אני הייתי עוד עד לאהיה אברהם | La preexistencia del Mesías se conecta con la revelación del Nombre y con su superioridad a los patriarcas. |
-| #tehilim_110_4 | נשבע יהוה ו/לא ינחם אתה כהן ל/עולם על דברתי מלכי צדק | Base del sacerdocio eterno según Malqui Tzédek. |
+| #tehilim_110_4 | נשבע יהוה ולא ינחם אתה כהן לעולם על דברתי מלכי צדק | Base del sacerdocio eterno según Malqui Tzédek. |
 | #ivrim_7_16 | ...עלפי כח חיים שאין להם הפסק | El sacerdocio del Mesías no depende de descendencia carnal, sino de vida indestructible. |
 | #ivrim_7_25 | ...יוכל להושיע בכל וכל אתהנגשים עלידו לאלהים כי חיהוא תמיד להפגיע בעדם | El Mesías salva perpetuamente porque vive para interceder. |
 

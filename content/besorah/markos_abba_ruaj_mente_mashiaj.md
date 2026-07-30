@@ -32,7 +32,7 @@ references:
   - "#bereshit_22_14"
   - "#sodot_13_8"
 sources:
-  - "/Users/jhonny/.codex/attachments/96a9227e-b474-41a9-a4ef-e236c1d13d74/pasted-text.txt"
+  - "https://www.youtube.com/watch?v=YKQCpmNS3KM"
   - "docs/scriptures/delitzsch/json/corinthians1.json"
   - "docs/scriptures/oe/json/isaiah/40.json"
   - "docs/scriptures/oe/json/ikings/10.json"
@@ -45,6 +45,8 @@ sources:
   - "docs/scriptures/tth/json/sodot.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
 translation: "[TTH, Delitzsch, OE]"
+source_ids:
+  - "youtube:YKQCpmNS3KM"
 ---
 
 # Tesis
@@ -61,51 +63,51 @@ La clase continúa el estudio de Marcos y del **Ben HaAdam** abriendo el signifi
 
 ## Ruta de la clase
 
-| Momento aproximado | Tema | Función en la explicación |
-| --- | --- | --- |
-| 00:00-09:40 | #qorintiyim_alef_2_12-16 e #ieshaiahu_40_13 | Pablo une "espíritu que proviene de Elohim", "mente del Señor" y "mente de Mashíaj". |
-| 09:40-24:40 | Ruaj como mente/ánimo/espíritu | **(רוח)** no se limita a una "persona"; puede nombrar viento, ánimo, mente, poder, condición incorruptible o depósito de vida. |
-| 24:40-36:40 | "Quién" como "nadie"; sondear la mente de יהוה | #ieshaiahu_40_13, #romanim_11_33-34 y #efesios_3_17-19 explican la profundidad insondable de Elohim. |
-| 36:40-52:00 | Abba como profundidad de la sabiduría | Abba se presenta como la mente insondable de Elohim, no como otro ser separado del Mesías. |
-| 52:00-01:05:00 | Torah manifiesta y Mesías manifestado | La Torah escrita es una manifestación mínima de la mente de יהוה; el Mesías en carne es la imagen visible de esa plenitud. |
-| 01:05:00-01:17:00 | Abraham, el cordero y revelación por ruaj | Abraham solo puede captar la promesa profunda si Elohim le concede ruaj para discernir más allá de lo visible. |
+| Momento aproximado | Tema                                           | Función en la explicación                                                                                                      |
+| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 00:00-09:40        | #qorintiyim_alef_2_12-16 e #ieshaiahu_40_13    | Pablo une "espíritu que proviene de Elohim", "mente del Señor" y "mente de Mashíaj".                                           |
+| 09:40-24:40        | Ruaj como mente/ánimo/espíritu                 | **(רוח)** no se limita a una "persona"; puede nombrar viento, ánimo, mente, poder, condición incorruptible o depósito de vida. |
+| 24:40-36:40        | "Quién" como "nadie"; sondear la mente de יהוה | #ieshaiahu_40_13, #romanim_11_33-34 y #efesios_3_17-19 explican la profundidad insondable de Elohim.                           |
+| 36:40-52:00        | Abba como profundidad de la sabiduría          | Abba se presenta como la mente insondable de Elohim, no como otro ser separado del Mesías.                                     |
+| 52:00-01:05:00     | Torah manifiesta y Mesías manifestado          | La Torah escrita es una manifestación mínima de la mente de יהוה; el Mesías en carne es la imagen visible de esa plenitud.     |
+| 01:05:00-01:17:00  | Abraham, el cordero y revelación por ruaj      | Abraham solo puede captar la promesa profunda si Elohim le concede ruaj para discernir más allá de lo visible.                 |
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #qorintiyim_alef_2_12 | Delitzsch: ואנחנו לא לקחנו את־רוח העולם כי אם־הרוח מאת האלהים... | El punto de partida: el pueblo recibe el ruaj que proviene de Elohim para conocer lo concedido. |
-| #qorintiyim_alef_2_14 | Delitzsch: הן האדם הטבעי איננו מקבל את־דברי רוח אלהים... | El hombre natural no percibe las cosas del ruaj de Elohim. |
-| #qorintiyim_alef_2_16 | Delitzsch: כי מי־תכן את־רוח יהוה ומי יודיענו ואנחנו הנה יש־לנו רוח המשיח | Delitzsch conserva la conexión hebrea: "ruaj de יהוה" y "ruaj de Mashíaj". |
-| #ieshaiahu_40_13 | OE: מי תכן את רוח יהוה ו/איש עצת/ו יודיע/נו | Texto citado por Pablo; la clase lee **תכן** como medir, sondear o establecer medida. |
-| #melakhim_alef_10_5 | OE: ולא היה ב/ה עוד רוח | La reina de Sheba no "murió"; quedó sin ánimo/mente ante la sabiduría de Shlomó. |
-| #romanim_11_33-34 | Delitzsch: מה־עמק עשר חכמת אלהים... כי מי־תכן את־רוח יהוה | Pablo vuelve al mismo campo: profundidad insondable de sabiduría y conocimiento. |
-| #efesios_3_17-19 | Delitzsch: מה הרוחב והארך והעמק והגבה... | Anchura, longitud, profundidad y altura describen el amor/conocimiento que excede todo conocimiento. |
-| #iojanan_12_49-50 | TTH: "no he hablado de Mí mismo... mi Padre... me mandó qué decir"; "su mandamiento es vida olam." | Yeshúa habla desde la palabra/mente de Abba; no desde iniciativa humana separada. |
-| #bereshit_3_21 | OE: ויעש יהוה אלהים... כתנות עור וילבש/ם | La clase conecta las vestiduras de piel con el Cordero preparado; queda pendiente de cotejo targúmico. |
-| #bereshit_22_13-14 | OE: Abraham ve el ayil y llama el lugar יהוה יראה | Figura del padre que entrega al hijo y de la provisión vista de antemano. |
-| #sodot_13_8 | TTH: "el Cordero que fue sacrificado desde la fundación del olam." | Se usa para enlazar la provisión previa con el Mesías; cotejar el Targum citado por la clase. |
+| Referencia            | Texto local                                                                                        | Función en la clase                                                                                    |
+| --------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| #qorintiyim_alef_2_12 | Delitzsch: ואנחנו לא לקחנו את־רוח העולם כי אם־הרוח מאת האלהים...                                   | El punto de partida: el pueblo recibe el ruaj que proviene de Elohim para conocer lo concedido.        |
+| #qorintiyim_alef_2_14 | Delitzsch: הן האדם הטבעי איננו מקבל את־דברי רוח אלהים...                                           | El hombre natural no percibe las cosas del ruaj de Elohim.                                             |
+| #qorintiyim_alef_2_16 | Delitzsch: כי מי־תכן את־רוח יהוה ומי יודיענו ואנחנו הנה יש־לנו רוח המשיח                           | Delitzsch conserva la conexión hebrea: "ruaj de יהוה" y "ruaj de Mashíaj".                             |
+| #ieshaiahu_40_13      | OE: מי תכן את רוח יהוה ואיש עצתו יודיענו                                                           | Texto citado por Pablo; la clase lee **תכן** como medir, sondear o establecer medida.                  |
+| #melakhim_alef_10_5   | OE: ולא היה בה עוד רוח                                                                             | La reina de Sheba no "murió"; quedó sin ánimo/mente ante la sabiduría de Shlomó.                       |
+| #romanim_11_33-34     | Delitzsch: מה־עמק עשר חכמת אלהים... כי מי־תכן את־רוח יהוה                                          | Pablo vuelve al mismo campo: profundidad insondable de sabiduría y conocimiento.                       |
+| #efesios_3_17-19      | Delitzsch: מה הרוחב והארך והעמק והגבה...                                                           | Anchura, longitud, profundidad y altura describen el amor/conocimiento que excede todo conocimiento.   |
+| #iojanan_12_49-50     | TTH: "no he hablado de Mí mismo... mi Padre... me mandó qué decir"; "su mandamiento es vida olam." | Yeshúa habla desde la palabra/mente de Abba; no desde iniciativa humana separada.                      |
+| #bereshit_3_21        | OE: ויעש יהוה אלהים... כתנות עור וילבשם                                                            | La clase conecta las vestiduras de piel con el Cordero preparado; queda pendiente de cotejo targúmico. |
+| #bereshit_22_13-14    | OE: Abraham ve el ayil y llama el lugar יהוה יראה                                                  | Figura del padre que entrega al hijo y de la provisión vista de antemano.                              |
+| #sodot_13_8           | TTH: "el Cordero que fue sacrificado desde la fundación del olam."                                 | Se usa para enlazar la provisión previa con el Mesías; cotejar el Targum citado por la clase.          |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la nota | Tipo de equivalencia | Observación |
-| --- | --- | --- | --- | --- |
-| **(רוח)** | ruaj | viento, ánimo, mente, poder, condición incorruptible, depósito de vida | Aproximada por contexto | La clase insiste en no fijarla siempre como "espíritu" separado de "mente". |
-| **(נους)** | nous | mente | Aproximada | En #qorintiyim_alef_2_16 traduce el campo de #ieshaiahu_40_13; la nota lo usa con cautela por no haber cotejado el griego localmente. |
-| **(תכן)** | tiken / tajan | medir, sondear, establecer medida | Pendiente | La clase prefiere "sondear" sobre "enseñar"; requiere revisión léxica formal. |
-| **(אבא)** | abba | padre; en la clase, profundidad de sabiduría y plenitud de la Torah | Pedagógica / pendiente | No reducir a "papá" ni convertir en otra persona divina sin revisar el marco semítico. |
-| **(משיח)** | Mashíaj | Mesías, ungido | Aproximada | En la clase, la mente de Mashíaj es el ruaj de יהוה concedido al pueblo. |
-| **(בר אנש)** | Bar Enash | Hijo del Hombre | Aproximada | El Anciano de Días manifestado abajo como heredero/siervo; ver [[markos_ben_adam_metamorfosis_glosario]]. |
+| Término      | Transliteración | Sentido en la nota                                                     | Tipo de equivalencia    | Observación                                                                                                                           |
+| ------------ | --------------- | ---------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **(רוח)**    | ruaj            | viento, ánimo, mente, poder, condición incorruptible, depósito de vida | Aproximada por contexto | La clase insiste en no fijarla siempre como "espíritu" separado de "mente".                                                           |
+| **(נους)**   | nous            | mente                                                                  | Aproximada              | En #qorintiyim_alef_2_16 traduce el campo de #ieshaiahu_40_13; la nota lo usa con cautela por no haber cotejado el griego localmente. |
+| **(תכן)**    | tiken / tajan   | medir, sondear, establecer medida                                      | Pendiente               | La clase prefiere "sondear" sobre "enseñar"; requiere revisión léxica formal.                                                         |
+| **(אבא)**    | abba            | padre; en la clase, profundidad de sabiduría y plenitud de la Torah    | Pedagógica / pendiente  | No reducir a "papá" ni convertir en otra persona divina sin revisar el marco semítico.                                                |
+| **(משיח)**   | Mashíaj         | Mesías, ungido                                                         | Aproximada              | En la clase, la mente de Mashíaj es el ruaj de יהוה concedido al pueblo.                                                              |
+| **(בר אנש)** | Bar Enash       | Hijo del Hombre                                                        | Aproximada              | El Anciano de Días manifestado abajo como heredero/siervo; ver [[markos_ben_adam_metamorfosis_glosario]].                             |
 
 ## La cadena de 1 Corintios 2
 
 La clase arma el paralelismo así:
 
-| Cláusula | Lectura de la clase |
-| --- | --- |
-| "Recibimos el ruaj que proviene de Elohim" (#qorintiyim_alef_2_12) | El don recibido permite conocer lo concedido por Elohim. |
-| "¿Quién sondeó el ruaj de יהוה?" (#ieshaiahu_40_13) | Nadie, desde lo natural, mide la mente/ruaj de יהוה. |
-| "Nosotros tenemos el ruaj de Mashíaj" (#qorintiyim_alef_2_16) | Por misericordia, el pueblo recibe capacidad de discernir lo de Elohim. |
+| Cláusula                                                           | Lectura de la clase                                                     |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| "Recibimos el ruaj que proviene de Elohim" (#qorintiyim_alef_2_12) | El don recibido permite conocer lo concedido por Elohim.                |
+| "¿Quién sondeó el ruaj de יהוה?" (#ieshaiahu_40_13)                | Nadie, desde lo natural, mide la mente/ruaj de יהוה.                    |
+| "Nosotros tenemos el ruaj de Mashíaj" (#qorintiyim_alef_2_16)      | Por misericordia, el pueblo recibe capacidad de discernir lo de Elohim. |
 
 La fuerza del argumento no está en una palabra aislada, sino en el paralelismo completo: **Elohim / Señor / יהוה / Mashíaj** quedan alineados; **ruaj / mente** quedan alineados; y el límite humano queda superado por don, no por capacidad natural.
 
@@ -115,12 +117,12 @@ Por eso la clase conecta esta lectura con #romanim_10_9: confesar que Yeshúa es
 
 La clase enumera cinco usos principales de **(רוח)**:
 
-| Uso | Ejemplo o explicación de la clase |
-| --- | --- |
-| Viento | El soplo o viento que actúa en la creación o en los relatos del Tanaj. |
-| Ánimo / mente / actitud | #melakhim_alef_10_5: la reina de Sheba quedó sin **ruaj**, es decir, sin ánimo o palabras ante la sabiduría de Shlomó. |
-| Poder | "Recibiréis poder" se entiende dentro del campo de ruaj que capacita desde lo alto. |
-| Condición incorruptible | Ruaj como estado no sujeto a corrupción carnal. |
+| Uso                     | Ejemplo o explicación de la clase                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Viento                  | El soplo o viento que actúa en la creación o en los relatos del Tanaj.                                                      |
+| Ánimo / mente / actitud | #melakhim_alef_10_5: la reina de Sheba quedó sin **ruaj**, es decir, sin ánimo o palabras ante la sabiduría de Shlomó.      |
+| Poder                   | "Recibiréis poder" se entiende dentro del campo de ruaj que capacita desde lo alto.                                         |
+| Condición incorruptible | Ruaj como estado no sujeto a corrupción carnal.                                                                             |
 | Depósito de vida eterna | "En tus manos encomiendo mi ruaj" se lee como depósito de vida, no como una entidad que sale del cuerpo en sentido popular. |
 
 El punto práctico es evitar una lectura rígida. En español se debe escoger una palabra, pero el hebreo puede sostener varias connotaciones a la vez. Si se traduce solo "espíritu", se puede perder el matiz de mente; si se traduce solo "mente", se puede perder el matiz de poder y vida.
@@ -131,11 +133,11 @@ La pregunta "¿quién?" funciona en la clase como "nadie" cuando el contexto con
 
 La clase relaciona tres textos:
 
-| Texto | Conexión |
-| --- | --- |
-| #ieshaiahu_40_13 | Pregunta por quién midió o sondeó el ruaj de יהוה. |
-| #romanim_11_33-34 | Habla de la profundidad de las riquezas, sabiduría y conocimiento de Elohim. |
-| #efesios_3_17-19 | Habla de anchura, longitud, profundidad y altura, y de conocer el amor de Mashíaj que excede todo conocimiento. |
+| Texto             | Conexión                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| #ieshaiahu_40_13  | Pregunta por quién midió o sondeó el ruaj de יהוה.                                                              |
+| #romanim_11_33-34 | Habla de la profundidad de las riquezas, sabiduría y conocimiento de Elohim.                                    |
+| #efesios_3_17-19  | Habla de anchura, longitud, profundidad y altura, y de conocer el amor de Mashíaj que excede todo conocimiento. |
 
 De ahí sale la frase central de la clase: la mente de Elohim es insondable, pero el ruaj de Mashíaj permite discernir lo que Elohim concede.
 
@@ -165,6 +167,18 @@ La clase conecta #bereshit_3_21, #bereshit_22_13-14 y #sodot_13_8:
 
 Esa conexión es fuerte como lectura de clase, pero debe quedar marcada: la referencia al Targum de Bereshit 22 y su relación con #sodot_13_8 necesita cotejo directo.
 
+## Prueba ordenada: recibir, discernir y hablar
+
+La observación de Eric se vuelve comprobable cuando se conserva el orden de `#qorintiyim_alef_2_12-16`. Primero, Pablo no dice que el discípulo fabrique una mente superior: afirma **(ἐλάβομεν)**, _elabomen_, «recibimos», una forma verbal que presenta el **(πνεῦμα)**, _pneuma_, «espíritu, viento o aliento», como don recibido. La equivalencia con **(רוח)**, _ruaj_, es aproximada y contextual: ambos campos pueden incluir aliento y disposición, pero no son formas del mismo idioma ni deben confundirse como identidad lexical.
+
+Después viene el propósito: conocer **(εἰδῶμεν)**, _eidomen_, «conocer o reconocer», lo que Elohim concedió. El texto no describe una intuición privada desligada de la enseñanza apostólica. La secuencia don–conocimiento explica por qué Eric relaciona ruaj con mente: el ruaj capacita para discernir, pero el pasaje no define cada aparición hebrea de **(רוח)** como «mente».
+
+Finalmente aparece la cita de `#ieshaiahu_40_13`: **(νοῦν)**, _noun_, acusativo de _nous_, «mente, entendimiento o pensamiento», traduce en la cadena griega la pregunta por el ruaj de יהוה. La forma acusa una función sintáctica de objeto, no una doctrina de que «ruaj» y «nous» sean equivalentes en todos los contextos. Y la frase **(νοῦν Χριστοῦ)**, _noun Christou_, «mente de Mashíaj», describe la participación concedida al pueblo. La clase puede llamarla «mente de arriba» como síntesis pedagógica; la prueba local exige mantener el verbo recibir, el propósito conocer y el contraste con el hombre natural.
+
+Esta secuencia también corrige una posible exageración. `#iojanan_12_49-50` muestra a Yeshúa diciendo que no habla desde sí mismo y que el mandamiento recibido de Abba es vida olam. El sentido contextual de **(ἐντολή)**, _entolē_, es «mandamiento, encargo o instrucción», no «mente» por definición. Por tanto, los textos convergen en obediencia revelada: el Hijo habla lo que recibe y la comunidad discierne lo que recibe. La identificación teológica de esa revelación con יהוה manifestado pertenece al argumento de la clase; las equivalencias de términos deben seguir siendo graduadas.
+
+La aplicación pastoral queda así: pedir el ruaj no es reclamar acceso a secretos ni usar «Abba» para suspender la prueba bíblica. Es recibir capacidad para leer la palabra, reconocer su fuente y someter la propia interpretación al Mesías. Esa formulación conserva la intuición concreta de Eric y evita que una metáfora de profundidad sustituya el contexto de cada término.
+
 ## Conexiones principales
 
 - [[markos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]: nota hermana sobre Abba y Getsemaní.
@@ -175,13 +189,13 @@ Esa conexión es fuerte como lectura de clase, pero debe quedar marcada: la refe
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Targum | Bereshit 22:13-14 | Lectura del ayil como visión/provisión mesiánica anterior | Pendiente de cotejar |
-| Targum / tradición aramea | Bereshit 3:21 | Vestiduras de piel como señal del Cordero preparado | Pendiente de verificar |
-| Zohar | referencia exacta no localizada | Uso de Abba para Elohim según mención de la clase | Pendiente de verificar |
+| Fuente                                         | Referencia                       | Uso en la nota                                                 | Estado                               |
+| ---------------------------------------------- | -------------------------------- | -------------------------------------------------------------- | ------------------------------------ |
+| Targum                                         | Bereshit 22:13-14                | Lectura del ayil como visión/provisión mesiánica anterior      | Pendiente de cotejar                 |
+| Targum / tradición aramea                      | Bereshit 3:21                    | Vestiduras de piel como señal del Cordero preparado            | Pendiente de verificar               |
+| Zohar                                          | referencia exacta no localizada  | Uso de Abba para Elohim según mención de la clase              | Pendiente de verificar               |
 | Literatura judía del Segundo Templo / rabínica | uso temprano de Abba para Elohim | La clase afirma que el Evangelio sería el registro más antiguo | Pendiente de investigación histórica |
-| Léxicos hebreos | תכן, רוח, אבא | Medir/sondear, mente/espíritu, padre/origen | Pendiente de cotejo formal |
+| Léxicos hebreos                                | תכן, רוח, אבא                    | Medir/sondear, mente/espíritu, padre/origen                    | Pendiente de cotejo formal           |
 
 ## Pendiente de verificar
 
@@ -195,6 +209,21 @@ Esa conexión es fuerte como lectura de clase, pero debe quedar marcada: la refe
 ## Conclusión
 
 La clase sostiene que la frase "tenemos la mente de Mashíaj" no es psicología religiosa ni esfuerzo mental humano. Es una forma apostólica de decir que Elohim concede su ruaj para discernir lo que nadie puede sondear naturalmente. Desde ese punto, **Abba** nombra la profundidad de la sabiduría de Elohim: la plenitud de su Torah, su palabra y su amor, manifestada en el Mesías. El Bar Enash no habla desde una mente humana caída; habla desde la mente de arriba, y por eso confesarlo como Señor es confesar a יהוה manifestado.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad de la clase           | Observación concreta de Eric                                                                  | Comprobación y límite en esta nota                                                                                                                           |
+| ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 Corintios 2 e Ieshaiahu 40 | Pablo vincula el ruaj de Elohim, la mente del Señor y la mente de Mashíaj.                    | La cadena de 1 Corintios 2:12-16 y Yesha'yahu 40:13 respalda el paralelismo; no convierte automáticamente «ruaj» y «mente» en sinónimos en todos los textos. |
+| Ruaj                         | **(רוח)** puede expresar viento, ánimo, mente, poder o vida según el contexto.                | Melajim Alef 10:5 y los ejemplos comparados apoyan la amplitud; cada sentido debe probarse por sintaxis y contexto.                                          |
+| Abba y sabiduría             | Abba nombra pedagógicamente la profundidad de la sabiduría de Elohim, no una deidad separada. | Romanim 11:33-34 y Efesios 3:17-19 sostienen la insondabilidad; la aplicación histórica sobre usos de Abba queda pendiente.                                  |
+| Mesías y revelación          | El Mesías manifiesta la palabra y la mente recibidas de arriba.                               | Yojanán 12:49-50 apoya el lenguaje de encargo; la conclusión sobre la identidad divina permanece como síntesis teológica de la clase.                        |
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Evangelio según Marcos Parte 7: Aba - La mente de Mashiaj](https://www.youtube.com/watch?v=YKQCpmNS3KM) (`source_id`: `youtube:YKQCpmNS3KM`).
+- Esta nota organiza y contrasta la exposición; no presenta una transcripción automática como cita literal.
 
 ## Ver también
 

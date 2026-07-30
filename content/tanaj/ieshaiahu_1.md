@@ -12,7 +12,15 @@ references:
   - "#ieshaiahu_1_18"
   - "#ieshaiahu_1_20"
   - "#ieshaiahu_1_21"
-sources: []
+sources:
+  - "https://www.youtube.com/watch?v=SrmxQo97ptE"
+  - "https://www.youtube.com/watch?v=HgqgVFSqhmY"
+  - "https://www.youtube.com/watch?v=cAW2M4P-QIc"
+  - "docs/scriptures/oe/json/isaiah/1.json"
+source_ids:
+  - "youtube:SrmxQo97ptE"
+  - "youtube:HgqgVFSqhmY"
+  - "youtube:cAW2M4P-QIc"
 ---
 
 # Tesis
@@ -41,8 +49,17 @@ Ieshaiahu 1 se presenta como juicio contra una nación que se rebeló aun conoci
 
 ## Observaciones
 
+- Las dos introducciones de la serie presentan el proyecto de estudiar Ieshaiahu y su marco histórico; la tercera clase entra en el capítulo 1. Esta nota conserva esas contribuciones como guía de lectura, no como citas literales de la transcripción automática.
 - Pesha se resume como transgresión consciente: pasar por encima del mandamiento aun conociéndolo.
 - Goi jote se trabaja como contraste con goi kadosh.
 - La corrupción del pueblo se agrava porque también el liderazgo falló en su función.
 - "Debatamos" no se entiende como igualdad entre Elohim y el hombre, sino como llamado judicial donde יהוה ya tiene las evidencias.
 - El castigo aparece como consecuencia del pecado, y la mención del remanente preserva la fidelidad del juramento divino.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- «Yesha’yahu - Isaías (parte 1) Intro» — <https://www.youtube.com/watch?v=SrmxQo97ptE> — source_id: `youtube:SrmxQo97ptE`.
+- «Yesha’yahu - Isaías (parte 2) Intro II» — <https://www.youtube.com/watch?v=HgqgVFSqhmY> — source_id: `youtube:HgqgVFSqhmY`.
+- «Yesha'yahu - Isaías (parte 3) Cap 1» — <https://www.youtube.com/watch?v=cAW2M4P-QIc> — source_id: `youtube:cAW2M4P-QIc`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

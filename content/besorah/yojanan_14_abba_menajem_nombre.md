@@ -1,7 +1,7 @@
 ---
 title: "Yojanán 14: Abba, el Nombre y el Menajem"
-description: "Nota desde una clase sobre Yojanán 14-15, Abba como fuente de las promesas, el Nombre de Yeshúa, la oración conforme a la voluntad de Elohim y el Menajem enviado por el Mesías"
-date: 2026-06-10
+description: "Estudio canónico de Yojanán 14-15: Abba como fuente de las promesas, el Nombre de Yehoshua, la oración conforme a la voluntad de Elohim y el Menajem enviado por el Mesías."
+date: 2026-07-29
 tags:
   - yojanan
   - yojanan_14
@@ -33,16 +33,21 @@ references:
   - "#qorintiyim_alef_2_16"
   - "#tito_2_13"
 sources:
-  - "https://www.youtube.com/live/2oGHEpfFPlM?si=JuFmPC0LwkQiAuah"
-  - "private/hermes/sources/youtube_2oGHEpfFPlM_transcript.txt"
+  - "https://www.youtube.com/watch?v=2oGHEpfFPlM"
+  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/delitzsch/json/john.json"
+  - "docs/scriptures/oe/json/psalms/94.json"
+  - "docs/scriptures/oe/json/isaiah/40.json"
+source_ids:
+  - "youtube:2oGHEpfFPlM"
 translation: "[TTH, Delitzsch]"
 ---
 
 # Tesis
 
-Yojanán 14 continúa la explicación abierta en #iojanan_10_15: cuando Yeshúa habla de Abba, no está presentando a otro ser separado del único y sabio Elohim, sino desplegando el lenguaje de la fuente, la promesa y la obra que Elohim mismo cumple en el Mesías.
+Yojanán 14 continúa la explicación abierta en #iojanan_10_15: cuando Yehoshua habla de Abba, no está presentando a otro ser separado del único y sabio Elohim, sino desplegando el lenguaje de la fuente, la promesa y la obra que Elohim mismo cumple en el Mesías.
 
-La clase lee "Yo soy el camino, la verdad y la vida" como una sola realidad vista desde tres ángulos: el camino es la conducta, la verdad es la razón que sostiene esa conducta, y la vida es la fuente que preserva y comunica esa verdad. Por eso el acceso a Abba no se entiende como ida hacia una figura distante, sino como venir al Mesías en quien Abba se ha hecho visible.
+La clase de Eric lee "Yo soy el camino, la verdad y la vida" como una sola realidad vista desde tres ángulos: el camino es la conducta, la verdad es la razón que sostiene esa conducta, y la vida es la fuente que preserva y comunica esa verdad. Por eso el acceso a Abba no se entiende como ida hacia una figura distante, sino como venir al Mesías en quien Abba se ha hecho visible. La formulación sobre conducta, razón y fuente es una observación atribuida a la clase; el texto local confirma que las tres expresiones están unidas, pero no las define con esas tres glosas abstractas.
 
 ## Alcance de la nota
 
@@ -64,7 +69,7 @@ La clase lee "Yo soy el camino, la verdad y la vida" como una sola realidad vist
 | #iojanan_14_11 | האמינו לי כיאני באב והאב בי ואםלא האמינו לי בגלל הפעלות האלה | Afírmense en Mí... afírmense en Mí por estas obras. | Obras como testimonio de identidad. |
 | #iojanan_14_13 | וכלאשר תשאלו בשמי אתו אעשה לבעבור יגדל כבוד האב בבנו | Y todo lo que pidan en mi Nombre, lo haré... | Pedir en el Nombre revelado, no capricho humano. |
 | #iojanan_14_15 | אםאהבתם אתי אתמצתי תשמרו | Si ustedes me aman, también mis mandamientos guardarán. | Mandamientos del Mesías = voluntad de Elohim. |
-| #iojanan_14_16 | ואני אחלה פני האב ויתן לכם מליץ אחר אשרישכן אתכם עדיעד | ...les dará al siguiente Menajem, que estará con ustedes para siempre. | `allos`/אחר: adicional, no competidor (ver léxico). |
+| #iojanan_14_16 | ואני אחלה פני האב ויתן לכם מליץ אחר אשרישכן אתכם עדיעד | ...les dará al siguiente Menajem, que estará con ustedes para siempre. | `allos` — אחר: adicional, no competidor (ver léxico). |
 | #iojanan_14_26 | והמליץ הוא רוח הקדש אשרישלחהו האב בשמי ילמדכם אתכל... | el Menajem, el Rúaj Ha'Kódesh, que lo enviará mi Padre en mi Nombre... | Consolación que enseña y recuerda. |
 | #iojanan_15_26 | אך כאשר יבא המליץ אשר אשלחנו אליכם מאת האב... | ...el Menajem, el que Yo enviaré a ustedes de mi Padre... | Abba y Yeshúa envían: unidad de emisor. |
 
@@ -72,10 +77,10 @@ La clase lee "Yo soy el camino, la verdad y la vida" como una sola realidad vist
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #tehilim_94_19 | ב/רב שרעפ/י ב/קרב/י תנחומי/ך ישעשעו נפש/י | En la multitud de mis pensamientos... tus restauraciones acarician mi ser. | Base de Menajem como consolación/restauración. |
-| #bereshit_32_10 | ו/יאמר יעקב אלהי אב/י אברהם ו/אלהי אב/י יצחק יהוה ה/אמר אל/י שוב ל/ארצ/ך ו/ל/מולדת/ך ו/איטיבה עמ/ך | (oración de Yaakov apelando a promesa) | Pedir conforme a lo que Elohim prometió. |
-| #bereshit_32_12 | הציל/ני נא מ/יד אח/י מ/יד עשו כי ירא אנכי את/ו... | Hazme escapar... de la mano de Esav... | Súplica desde la promesa, no declaración autónoma. |
-| #ieshaiahu_40_13 | מי תכן את רוח יהוה ו/איש עצת/ו יודיע/נו | ¿Quién midió al Rúaj de יהוה...? | Rúaj como mente/consejo de יהוה. |
+| #tehilim_94_19 | ברב שרעפי בקרבי תנחומיך ישעשעו נפשי | En la multitud de mis pensamientos... tus restauraciones acarician mi ser. | Base de Menajem como consolación/restauración. |
+| #bereshit_32_10 | ויאמר יעקב אלהי אבי אברהם ואלהי אבי יצחק יהוה האמר אלי שוב לארצך ולמולדתך ואיטיבה עמך | (oración de Yaakov apelando a promesa) | Pedir conforme a lo que Elohim prometió. |
+| #bereshit_32_12 | הצילני נא מיד אחי מיד עשו כי ירא אנכי אתו... | Hazme escapar... de la mano de Esav... | Súplica desde la promesa, no declaración autónoma. |
+| #ieshaiahu_40_13 | מי תכן את רוח יהוה ואיש עצתו יודיענו | ¿Quién midió al Rúaj de יהוה...? | Rúaj como mente/consejo de יהוה. |
 | #qorintiyim_alef_2_16 | כי מיתכן אתרוח יהוה ומי יודיענו ואנחנו הנה ישלנו רוח המשיח (Delitzsch) | Pendiente en TTH local | Rúaj de יהוה y Rúaj del Mesías convergen. |
 | #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח (Delitzsch) | Pendiente en TTH local | Yeshúa el Mesías como gran Elohim y Salvador. |
 
@@ -168,6 +173,25 @@ Hacia el cierre, el expositor advierte contra separar al Mesías en categorías 
 
 La nota conserva el punto doctrinal sin simplificarlo: hay un solo Mesías. El que murió y sufrió es el mismo que resucitó, fue entronizado y será manifestado como gran Elohim y Salvador.
 
+## Mapa de la enseñanza de Eric
+
+Eric comienza en #iojanan_14_6 con la pregunta de Tomás y observa que «camino, verdad y vida» son un solo tema visto desde tres ángulos: conducta, razón y fuente de vida. El texto local presenta las tres expresiones juntas y las enlaza inmediatamente con venir al Padre; la explicación de la clase sobre la Torah como preservación de la vida es una conexión teológica atribuida, no una definición adicional del versículo.
+
+En #iojanan_14_7-11, Eric insiste en la dirección «nadie viene al Padre», no «nadie va», y usa la respuesta a Filipos —«el que me ve a Mí ha visto al Padre»— para negar una revelación de Abba separada de Yeshúa. El texto sostiene «conocer», «ver», «Yo en el Padre» y «el Padre en Mí» en la misma unidad; la conclusión sobre la identidad divina del Mesías es la lectura doctrinal de Eric y se conserva como tal.
+
+En #iojanan_14_12-15, Eric interpreta «voy al Padre» como el paso que completa las promesas mediante muerte, resurrección y entronización, y lee pedir «en mi Nombre» como pedir desde la obra y la promesa reveladas, no usar una fórmula para imponer deseos. El texto local promete obras mayores, vincula la petición con el Nombre y une amor con guardar mandamientos; la ampliación a la oración de Yaakov en #bereshit_32_10-12 es una analogía canónica, no una cita de Yojanán.
+
+En #iojanan*14_16-26 y #iojanan_15_26, Eric explica que Abba da o envía el Menajem y que Yehoshua también lo envía desde Abba sin convertirlos en dos centros rivales. La clase relaciona **ἄλλος**, \_allos*, «otro adicional», con el hebreo **אחר**, _acher_; esa es una relación aproximada y pedagógica, no una licencia para borrar el contexto griego. El texto local sí presenta al Menajem como quien permanece, enseña, recuerda y da testimonio.
+
+Finalmente, Eric conecta #ieshaiahu_40_13 con #qorintiyim_alef_2_11-16 para hablar del Rúaj como mente o consejo de Elohim y del Rúaj del Mesías, y advierte contra separar un Mesías sufriente de otro davídico. Ieshaiahu y Qorintiyim sostienen la pregunta por el Rúaj y su función reveladora; la identificación completa y la crítica a categorías de dos mesías pertenecen a la síntesis doctrinal de la clase y quedan marcadas como interpretación.
+
+| Unidad textual                             | Observación concreta atribuida a Eric                                                                                         | Prueba y evaluación local                                                                                                                                       |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_14_6-11                           | Camino, verdad y vida forman una unidad; venir al Padre es conocerlo y verlo en Yeshúa.                                       | La secuencia local une las tres expresiones con «viene», «conoce» y «ha visto»; la lectura doctrinal se atribuye a la clase.                                    |
+| #iojanan_14_12-15                          | Ir al Padre completa la obra, y pedir en el Nombre significa apelar a la promesa, mientras amar implica guardar mandamientos. | El pasaje menciona obras, petición en el Nombre y mandamientos; #bereshit_32_10-12 funciona como comparación pedagógica.                                        |
+| #iojanan_14_16-26; 15_26                   | El Menajem enviado por Abba y por Yeshúa manifiesta unidad de envío, presencia, enseñanza y memoria.                          | Los verbos «permanecer», «enseñar», «recordar» y «enviar» aparecen localmente; _allos_ significa aquí «otro» y su fuerza contextual es aproximada, no absoluta. |
+| #ieshaiahu_40_13; #qorintiyim_alef_2_11-16 | El Rúaj de Elohim y el Rúaj del Mesías convergen en la revelación de las cosas de Elohim.                                     | La relación temática está apoyada por ambos textos, pero la conclusión sobre identidad y categorías mesiánicas es teológica.                                    |
+
 ## Conexiones principales
 
 - #iojanan_10_15 con #iojanan_14_6-11: Abba se explica desde el Mesías visible, no desde una figura separada que debe mostrarse aparte.
@@ -195,3 +219,9 @@ La nota conserva el punto doctrinal sin simplificarlo: hay un solo Mesías. El q
 - [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]
 - [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [Ben, hijo y títulos del Mesías](../temas/ben_hijo_titulos_mesias)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El evangelio según Yojanan parte 32](https://www.youtube.com/watch?v=2oGHEpfFPlM) (`source_id`: `youtube:2oGHEpfFPlM`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

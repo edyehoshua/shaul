@@ -34,8 +34,7 @@ references:
   - "#iojanan_3_16"
   - "#iojanan_8_56"
 sources:
-  - "https://www.youtube.com/live/G6nNREo8isI?si=aJK8Q0Snh39Z64qR"
-  - "/Users/jhonny/.codex/attachments/6200520d-ce25-45d5-8ef3-f49ce05e9f25/pasted-text.txt"
+  - "https://www.youtube.com/watch?v=G6nNREo8isI"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/tth/json/markos.json"
@@ -43,6 +42,8 @@ sources:
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/genesis/*.json"
   - "docs/scriptures/oe/json/exodus/12.json"
+source_ids:
+  - "youtube:G6nNREo8isI"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -63,45 +64,45 @@ Desde esa escena, el texto junta tres líneas: Yeshúa ama a los suyos hasta el 
 
 ### Yojanán 13
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
-| #iojanan_13_1 | Delitzsch: ויהי לפני חגהפסח וידע ישוע כי בא זמנו לעלות מןהארץ אלהאב ואתבחיריו אשר אהב בארץ מאז כן אהבם עדאחרית | Punto de partida: antes/en dirección a Pesaj, Yeshúa sabe que llegó su hora de salir de este mundo hacia Abba. TTH local no incluye este verso. |
-| #iojanan_13_2 | TTH: Y era el banquete de la tarde, y ya Ha'satán había sido lanzado al corazón de Iehudáh, hijo de Shimón, Ish-Kariot, para entregarlo. | La clase subraya la cena o comida como interludio, no solo pan y copa. |
-| #iojanan_13_3 | TTH: Y sabía Yeshúa que todas las cosas había puesto su Padre en sus manos, y que de Elohim salió y a יהוה iba. | Verso clave para leer "de Elohim salió" y "a יהוה iba" sin convertir al Mesías en otro centro separado. |
-| #iojanan_13_4 | TTH: Y se levantó del banquete, y se puso sus vestiduras sobre sí, y tomó una tela de lino y la ciñó en sus lomos. | El gesto ocurre durante la comida; prepara el signo del servicio y la sujeción. |
-| #iojanan_13_5 | TTH: Y después de eso, puso agua en una vasija de lavar, y comenzó a lavar los pies de los discípulos y a frotarlos con la tela de lino con que estaba ceñido. | Lavado de pies como acto simbólico que la clase conecta con promesas patriarcales. |
-| #iojanan_13_8 | TTH: Y le dijo Kefa: No me lavarás los pies jamás. Y le respondió Yeshúa: Si Yo no te lavo, no tendrás parte conmigo. | La participación con el Mesías depende de aceptar el signo, no de imponer una lectura de honor humano. |
+| Referencia    | Texto local                                                                                                                                                    | Función en la clase                                                                                                                             |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_13_1 | Delitzsch: ויהי לפני חגהפסח וידע ישוע כי בא זמנו לעלות מןהארץ אלהאב ואתבחיריו אשר אהב בארץ מאז כן אהבם עדאחרית                                                 | Punto de partida: antes/en dirección a Pesaj, Yeshúa sabe que llegó su hora de salir de este mundo hacia Abba. TTH local no incluye este verso. |
+| #iojanan_13_2 | TTH: Y era el banquete de la tarde, y ya Ha'satán había sido lanzado al corazón de Iehudáh, hijo de Shimón, Ish-Kariot, para entregarlo.                       | La clase subraya la cena o comida como interludio, no solo pan y copa.                                                                          |
+| #iojanan_13_3 | TTH: Y sabía Yeshúa que todas las cosas había puesto su Padre en sus manos, y que de Elohim salió y a יהוה iba.                                                | Verso clave para leer "de Elohim salió" y "a יהוה iba" sin convertir al Mesías en otro centro separado.                                         |
+| #iojanan_13_4 | TTH: Y se levantó del banquete, y se puso sus vestiduras sobre sí, y tomó una tela de lino y la ciñó en sus lomos.                                             | El gesto ocurre durante la comida; prepara el signo del servicio y la sujeción.                                                                 |
+| #iojanan_13_5 | TTH: Y después de eso, puso agua en una vasija de lavar, y comenzó a lavar los pies de los discípulos y a frotarlos con la tela de lino con que estaba ceñido. | Lavado de pies como acto simbólico que la clase conecta con promesas patriarcales.                                                              |
+| #iojanan_13_8 | TTH: Y le dijo Kefa: No me lavarás los pies jamás. Y le respondió Yeshúa: Si Yo no te lavo, no tendrás parte conmigo.                                          | La participación con el Mesías depende de aceptar el signo, no de imponer una lectura de honor humano.                                          |
 
 ### Tiempo de Pesaj y panes sin levadura
 
-| Referencia | Texto local | Observación |
-| --- | --- | --- |
-| #matityahu_26_17 | TTH: Y en el primer día de la fiesta de los panes sin levadura, se acercaron los discípulos a Yeshúa diciendo: ¿Dónde prepararemos para ti la comida del Pésaj? | La clase lo lee en relación con el día de preparación, no como contradicción cronológica. |
-| #markos_14_12 | TTH: Y en el primer día de Matzot, cuando sacrificaban el Pésaj, le dijeron sus discípulos: ¿Dónde quieres que vayamos y preparemos para que comas el Pésaj? | Marcos aclara que se trata del tiempo en que se sacrificaba el Pesaj. |
-| #lukas_22_7 | TTH: Y vino el día de Matzot, en el que era necesario sacrificar el Pésaj. | El sacrificio del cordero ubica la discusión en el día 14, antes del comienzo pleno de la fiesta. |
-| #shemot_12_13 | ו/היה ה/דם ל/כם ל/את על ה/בתים אשר אתם שם ו/ראיתי את ה/דם ו/פסחתי על/כם ו/לא יהיה ב/כם נגף ל/משחית ב/הכת/י ב/ארץ מצרים | Pesaj está atado a sangre, juicio y rescate. |
-| #shemot_12_15 | שבעת ימים מצות תאכלו אך ב/יום ה/ראשון תשביתו שאר מ/בתי/כם כי כל אכל חמץ ו/נכרתה ה/נפש ה/הוא מ/ישראל מ/יום ה/ראשן עד יום ה/שבעי | La eliminación de levadura enmarca por qué la clase insiste en pan sin levadura. |
+| Referencia       | Texto local                                                                                                                                                     | Observación                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| #matityahu_26_17 | TTH: Y en el primer día de la fiesta de los panes sin levadura, se acercaron los discípulos a Yeshúa diciendo: ¿Dónde prepararemos para ti la comida del Pésaj? | La clase lo lee en relación con el día de preparación, no como contradicción cronológica.         |
+| #markos_14_12    | TTH: Y en el primer día de Matzot, cuando sacrificaban el Pésaj, le dijeron sus discípulos: ¿Dónde quieres que vayamos y preparemos para que comas el Pésaj?    | Marcos aclara que se trata del tiempo en que se sacrificaba el Pesaj.                             |
+| #lukas_22_7      | TTH: Y vino el día de Matzot, en el que era necesario sacrificar el Pésaj.                                                                                      | El sacrificio del cordero ubica la discusión en el día 14, antes del comienzo pleno de la fiesta. |
+| #shemot_12_13    | והיה הדם לכם לאת על הבתים אשר אתם שם וראיתי את הדם ופסחתי עלכם ולא יהיה בכם נגף למשחית בהכתי בארץ מצרים                                                         | Pesaj está atado a sangre, juicio y rescate.                                                      |
+| #shemot_12_15    | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשן עד יום השבעי                                             | La eliminación de levadura enmarca por qué la clase insiste en pan sin levadura.                  |
 
 ### Lavado de pies en la Torah
 
-| Referencia | Hebreo (sin nikud) | Función en la clase |
-| --- | --- | --- |
-| #bereshit_18_4 | יקח נא מעט מים ו/רחצו רגלי/כם ו/השענו תחת ה/עץ | Avraham ofrece lavar los pies a los visitantes; la clase lo menciona como antecedente narrativo. |
-| #bereshit_24_32 | ו/יבא ה/איש ה/בית/ה ו/יפתח ה/גמלים ו/יתן תבן ו/מספוא ל/גמלים ו/מים ל/רחץ רגלי/ו ו/רגלי ה/אנשים אשר את/ו | El siervo de Avraham recibe agua para sus pies al cumplir la misión de buscar esposa para Yitzjaq. |
-| #bereshit_22_14 | ו/יקרא אברהם שם ה/מקום ה/הוא יהוה יראה אשר יאמר ה/יום ב/הר יהוה יראה | La clase lo conecta con el Cordero provisto por יהוה y con #iojanan_8_56. |
+| Referencia      | Hebreo (sin nikud)                                                                       | Función en la clase                                                                                |
+| --------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| #bereshit_18_4  | יקח נא מעט מים ורחצו רגליכם והשענו תחת העץ                                               | Avraham ofrece lavar los pies a los visitantes; la clase lo menciona como antecedente narrativo.   |
+| #bereshit_24_32 | ויבא האיש הביתה ויפתח הגמלים ויתן תבן ומספוא לגמלים ומים לרחץ רגליו ורגלי האנשים אשר אתו | El siervo de Avraham recibe agua para sus pies al cumplir la misión de buscar esposa para Yitzjaq. |
+| #bereshit_22_14 | ויקרא אברהם שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה                          | La clase lo conecta con el Cordero provisto por יהוה y con #iojanan_8_56.                          |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
-| --- | --- | --- | --- | --- |
-| **(πρό)** | pro | antes / hacia delante de | griego | La clase propone un matiz direccional: en camino hacia Pesaj. Verificar el uso exacto en #iojanan_13_1. |
-| **(πάσχα)** | pascha | Pesaj | griego/hebreo פסח | No reducir a "pascua" cristiana desconectada del mandamiento. |
-| **(סעודה)** | seudá | comida, cena, banquete | hebreo | La clase distingue la comida real del uso posterior de "cena" para solo pan y copa. |
-| **(סעודת מצוה)** | seudat mitzvah | cena por una mitzvá o momento de cumplimiento | hebreo | Usado como categoría pedagógica para la cena previa; requiere verificación histórica. |
-| **(אבא)** | Abba | plenitud, fuente, gloria a la que Yeshúa vuelve | arameo/hebreo | La clase evita traducirlo de forma plana como "Padre" cuando eso separa personas como centros rivales. |
-| **(אלהים)** | Elohim | amor manifestado en la obra redentora | hebreo | En la clase, "salir de Elohim" apunta al amor prometido que se concreta en el Mesías. |
-| **(διάβολος)** | diabolos | adversario, acusador, destructor | griego | La clase sugiere posible relación pedagógica con "destructor"; verificar etimología y equivalencias. |
-| **(רחץ רגלים)** | rachatz raglayim | lavar los pies | hebreo | En la nota funciona como sujeción a la misión y concreción de promesas. |
+| Término          | Transliteración  | Sentido en la nota                              | Raíz o base       | Observación                                                                                             |
+| ---------------- | ---------------- | ----------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------- |
+| **(πρό)**        | pro              | antes / hacia delante de                        | griego            | La clase propone un matiz direccional: en camino hacia Pesaj. Verificar el uso exacto en #iojanan_13_1. |
+| **(πάσχα)**      | pascha           | Pesaj                                           | griego/hebreo פסח | No reducir a "pascua" cristiana desconectada del mandamiento.                                           |
+| **(סעודה)**      | seudá            | comida, cena, banquete                          | hebreo            | La clase distingue la comida real del uso posterior de "cena" para solo pan y copa.                     |
+| **(סעודת מצוה)** | seudat mitzvah   | cena por una mitzvá o momento de cumplimiento   | hebreo            | Usado como categoría pedagógica para la cena previa; requiere verificación histórica.                   |
+| **(אבא)**        | Abba             | plenitud, fuente, gloria a la que Yeshúa vuelve | arameo/hebreo     | La clase evita traducirlo de forma plana como "Padre" cuando eso separa personas como centros rivales.  |
+| **(אלהים)**      | Elohim           | amor manifestado en la obra redentora           | hebreo            | En la clase, "salir de Elohim" apunta al amor prometido que se concreta en el Mesías.                   |
+| **(διάβολος)**   | diabolos         | adversario, acusador, destructor                | griego            | La clase sugiere posible relación pedagógica con "destructor"; verificar etimología y equivalencias.    |
+| **(רחץ רגלים)**  | rachatz raglayim | lavar los pies                                  | hebreo            | En la nota funciona como sujeción a la misión y concreción de promesas.                                 |
 
 ## Pesaj no se sustituye
 
@@ -135,7 +136,7 @@ Ese amor no termina porque Yeshúa salga de este mundo. Al contrario, su salida 
 
 #iojanan_13_3 es el eje doctrinal de la clase. El texto dice que todas las cosas fueron puestas en sus manos, que de Elohim salió y que a יהוה iba. La clase rechaza leer esto como si Yeshúa fuera un delegado separado que sale de un Dios distante y vuelve hacia otro centro superior.
 
-En la lógica de la clase, Elohim nombra el amor manifestado en la obra de redención, y Abba/יהוה apunta a la plenitud de gloria, honra y majestad a la que el Mesías vuelve después de la humillación. No es un viaje entre dos seres rivales, sino el descenso y retorno del mismo יהוה que se despojó, vino en forma de siervo, cumplió lo prometido y retoma el peso de honra que tenía desde el principio.
+En la lógica de la clase, Elohim nombra el amor manifestado en la obra de redención, y Abba — יהוה apunta a la plenitud de gloria, honra y majestad a la que el Mesías vuelve después de la humillación. No es un viaje entre dos seres rivales, sino el descenso y retorno del mismo יהוה que se despojó, vino en forma de siervo, cumplió lo prometido y retoma el peso de honra que tenía desde el principio.
 
 Por eso #iojanan_3_16 se vuelve central: Elohim amó al mundo y dio a su Hijo único. La clase entiende que ese don no puede ser un tercero desconectado del amor de Elohim. Si יהוה prometió amor eterno, la concreción de ese amor debía ser él mismo viniendo a salvar, no un sustituto menor que cargara la gloria en su lugar.
 
@@ -158,6 +159,23 @@ Aplicado a Yojanán 13, el lavado de pies significa dos cosas: sujeción a la vo
 La objeción de Kefa muestra que el gesto no puede reducirse a cortesía. Yeshúa responde: si no lo lava, Kefa no tiene parte con él. En la lectura de la clase, no se trata de una limpieza física superior, sino de aceptar la forma mesiánica de la misión: el enviado se somete a la voluntad del que lo envía, y por esa sujeción las promesas pasan de anuncio a manifestación.
 
 Cuando Yeshúa dice que ellos ya están limpios pero necesitan los pies, la clase lo entiende como lenguaje metafórico. La palabra ya los había preparado; faltaba el signo de la sujeción y de la participación concreta. Desde allí, ellos serían fundamento apostólico de la edificación de Israel, junto con los profetas, y testigos de los bienes del mundo venidero.
+
+## Mapa de la enseñanza de Eric
+
+Eric abre con #iojanan_13_1-3 y sitúa la cena en dirección a Pesaj: Yehoshua sabe que llegó su hora, ama a los suyos hasta el fin, y sale de Elohim para volver a יהוה. La hoja local respalda que el pasaje encadena la hora, el amor, el conocimiento de que todo fue puesto en sus manos y el retorno; la lectura de «Elohim» y «Abba» como categorías de una única obra divina es la síntesis doctrinal de la clase, no una traducción automática del verso.
+
+En #iojanan_13_2 y en los relatos sinópticos, Eric insiste en que había una comida real y que la escena no debe reducirse a pan y copa ni convertirse sin prueba en un seder completo. Los textos locales mencionan el banquete y el día de los panes sin levadura; sostienen el marco de comida y Pesaj, pero la reconstrucción precisa de fechas, copas y orden ritual permanece pendiente de verificación histórica.
+
+Después, al leer #iojanan_13_4-5 y los antecedentes de #bereshit_18_4 y #bereshit_24_32, Eric trata el lavado de pies como más que cortesía: es servicio, sujeción a la misión y señal de que las promesas pasan a la concreción. El agua para los pies está explícita en los relatos patriarcales y el gesto de Yehoshua también; la conexión tipológica con la redención es una lectura pedagógica de la clase, no una equivalencia narrativa exacta.
+
+Finalmente, en #iojanan_13_8-10, Eric explica «no tendrás parte conmigo» como la necesidad de aceptar la forma humilde en que el Mesías cumple su encargo. La respuesta de Kefa confirma que el lavado no es un gesto indiferente, pero el texto no enumera por sí solo todo el programa apostólico que la clase deriva de él. La aplicación sobre participación, limpieza y misión queda distinguida de la afirmación textual directa.
+
+| Unidad textual                                           | Observación concreta atribuida a Eric                                                                                                 | Prueba y evaluación local                                                                                                             |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| #iojanan_13_1-3                                          | La cena prepara la hora de Pesaj; el amor hasta el fin y el retorno hacia יהוה forman una sola obra mesiánica.                        | El texto encadena hora, amor, salida de Elohim y retorno; la arquitectura de categorías divinas es interpretación doctrinal.          |
+| #iojanan_13_2; Matityahu 26:17; Markos 14:12; Lukas 22:7 | Había comida real en el marco de Pesaj, sin que esto autorice llamar a la escena un seder completo o una sustitución del mandamiento. | Los textos locales hablan de banquete, Matzot y sacrificio del Pesaj; cronología, copas y costumbre requieren verificación histórica. |
+| #iojanan_13_4-5; Bereshit 18:4; 24:32                    | El lavado de pies retoma hospitalidad y misión patriarcales, y muestra sujeción del Mesías.                                           | Agua y lavado aparecen en los textos; la tipología de concreción de promesas es pedagógica.                                           |
+| #iojanan_13_8-10                                         | Aceptar que Yehoshua lave es condición para tener parte con él y participar en su misión.                                             | «Si no te lavo, no tendrás parte conmigo» es explícito; la extensión al programa apostólico es inferida.                              |
 
 ## Conexiones principales
 
@@ -191,3 +209,9 @@ El lavado de pies cierra la primera parte de la clase como una señal densa. El 
 - [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[yojanan_conceptos_deidad|Yojanán: conceptos de deidad]]
 - [[../temas/pesaj_faraon|Pesaj y Faraón]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: <https://www.youtube.com/watch?v=G6nNREo8isI> — source_id: `youtube:G6nNREo8isI`.
+- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

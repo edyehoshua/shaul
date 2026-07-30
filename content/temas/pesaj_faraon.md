@@ -34,12 +34,12 @@ El endurecimiento del corazón de Faraón se explica aquí a partir de varios ve
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #shemot_4_21 | ו/אני אחזק את לב/ו ו/לא ישלח את ה/עם | …Yo mostraré la dureza de su corazón, y no enviará al pueblo. | **(אחזק)** / kasheh: resistencia previa. |
-| #shemot_7_3 | ו/אני אקשה את לב פרעה ו/הרביתי את אתת/י ו/את מופת/י ב/ארץ מצרים | …Yo mostraré la dureza del corazón de Faraón… | La dureza se integra al despliegue de señales. |
-| #shemot_7_14 | כבד לב פרעה מאן ל/שלח ה/עם | Es pesado el corazón de Faraón, se rehúsa a enviar al pueblo. | **(כבד)**: pesadez y negativa persistente. |
-| #shemot_9_12 | ו/יחזק יהוה את לב פרעה ו/לא שמע אל/הם | …se hizo fuerte יהוה con el corazón de Faraón… | **(יחזק)**: fortalecer/cerrar ante la palabra. |
-| #shemot_13_15 | ו/יהי כי הקשה פרעה ל/שלח/נו ו/יהרג יהוה כל בכור… | …cuando se endureció Faraón a enviarnos… | Pésaj recordado junto a la dureza previa. |
-| #shemot_14_4 | ו/חזקתי את לב פרעה ו/רדף אחרי/הם… | …me haré fuerte con el corazón de Faraón… | La persecución sirve para honrar a יהוה. |
+| #shemot_4_21 | ואני אחזק את לבו ולא ישלח את העם | …Yo mostraré la dureza de su corazón, y no enviará al pueblo. | **(אחזק)** / kasheh: resistencia previa. |
+| #shemot_7_3 | ואני אקשה את לב פרעה והרביתי את אתתי ואת מופתי בארץ מצרים | …Yo mostraré la dureza del corazón de Faraón… | La dureza se integra al despliegue de señales. |
+| #shemot_7_14 | כבד לב פרעה מאן לשלח העם | Es pesado el corazón de Faraón, se rehúsa a enviar al pueblo. | **(כבד)**: pesadez y negativa persistente. |
+| #shemot_9_12 | ויחזק יהוה את לב פרעה ולא שמע אלהם | …se hizo fuerte יהוה con el corazón de Faraón… | **(יחזק)**: fortalecer/cerrar ante la palabra. |
+| #shemot_13_15 | ויהי כי הקשה פרעה לשלחנו ויהרג יהוה כל בכור… | …cuando se endureció Faraón a enviarnos… | Pésaj recordado junto a la dureza previa. |
+| #shemot_14_4 | וחזקתי את לב פרעה ורדף אחריהם… | …me haré fuerte con el corazón de Faraón… | La persecución sirve para honrar a יהוה. |
 
 ## Hoja léxica
 

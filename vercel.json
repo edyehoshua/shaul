@@ -1,5 +1,6 @@
 {
   "cleanUrls": true,
+  "ignoreCommand": "[ \"$VERCEL_GIT_COMMIT_REF\" = \"feat/eric_youtube\" ]",
   "installCommand": "npm ci",
   "buildCommand": "npm run vercel-build",
   "outputDirectory": "public"

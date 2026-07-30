@@ -1,6 +1,6 @@
 # Note Authoring Spec (All LLM Agents)
 
-Canonical rules for Grok Build, Cursor, Codex, Hermes, and any other agent that creates or edits notes in this repository.
+Canonical rules for Grok Build, Cursor, Codex, agent, and any other agent that creates or edits notes in this repository.
 
 Human-facing note prose stays in Spanish. Agent process communication stays in English.
 
@@ -16,7 +16,8 @@ Companion docs:
 
 - [content/guide.md](../content/guide.md) — Spanish overview for human authors
 - [content/templates/topic-v2.md](../content/templates/topic-v2.md) — starter template
-- [docs/obsidian-mcp-hermes.md](./obsidian-mcp-hermes.md) — Hermes + Obsidian integration
+- [docs/obsidian-mcp.md](./obsidian-mcp.md) — agent + Obsidian integration
+- [docs/verse-index-api.md](./verse-index-api.md) — verse-addressable static index contract
 - [AGENTS.md](../AGENTS.md) — short agent entry point
 
 ## Prerequisites
@@ -31,12 +32,12 @@ Use local corpus paths under `docs/scriptures/` first. Fall back to shafan.xyz o
 
 ## Note Modes
 
-| Mode | Input | Output |
-| --- | --- | --- |
-| `raw-notes` | User rough notes | One or more reorganized notes |
-| `transcript` | YouTube URL or `private/hermes/sources/*.txt` | One consolidated note or a linked series |
-| `thematic` | Topic + scripture anchors | One focused note under `content/temas/` |
-| `edit-existing` | Target path + new material | Update in place, preserve metadata conventions |
+| Mode            | Input                                  | Output                                         |
+| --------------- | -------------------------------------- | ---------------------------------------------- |
+| `raw-notes`     | User rough notes                       | One or more reorganized notes                  |
+| `transcript`    | YouTube URL or `private/sources/*.txt` | One consolidated note or a linked series       |
+| `thematic`      | Topic + scripture anchors              | One focused note under `content/temas/`        |
+| `edit-existing` | Target path + new material             | Update in place, preserve metadata conventions |
 
 Detect mode from the user request. Default to `edit-existing` when a target path is named.
 
@@ -50,6 +51,7 @@ date: YYYY-MM-DD
 tags: []
 references: []
 sources: []
+source_ids: []
 ---
 ```
 
@@ -57,27 +59,61 @@ Rules:
 
 - YAML uses spaces only, never tabs
 - `references` holds verse tags like `#iojanan_10_11`
-- `sources` holds URLs, transcript paths, or internal docs like `docs/benhaelohim.md`
+- `sources` holds public source URLs or internal public-facing docs like `docs/benhaelohim.md`; never include private local filesystem paths.
+- `source_ids` optionally holds stable source identifiers such as `youtube:VID...[truncated]
 - Optional: `translation: "[TTH, Delitzsch]"` when multiple corpora are cited
+
+## Créditos de videos
+
+Toda nota derivada de una clase o video debe incluir al final un encabezado `## Créditos` visible para el lector. Atribuir explícitamente al **hermano Eric de Jesús Rodríguez Mendoza** y enlazar cada video usado. Para una sola clase:
+
+```markdown
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Título de la clase](https://www.youtube.com/watch?v=VIDEO_ID) (`source_id`: `youtube:VIDEO_ID`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+  ``...[truncated]
+```
+
+Para una nota canónica de capítulo que reúne varias clases, incluir una tabla o lista con **cada** título y URL, además del expositor acreditado una sola vez. El crédito visible complementa —no reemplaza— `sources` y `source_ids` del frontmatter.
+
+- In Spanish prose, use **Yehoshua** for the Messiah rather than the shorter form `Yeshua`, except when preserving an exact quotation or a source-language text.
+
+## Minimum substance for transcript notes
+
+A transcript-derived note must be a developed study, not a publication of a bare outline. Before it can be integrated it must:
+
+- contain at least 300 substantive prose words outside frontmatter, tables and `## Créditos`;
+- develop at least two transcript-specific thematic sections named for the passage or argument;
+- for a chapter study, follow the relevant verses or coherent verse units in textual order; do not jump from an opening reading to conclusion;
+- identify and explain relevant Hebrew, Aramaic or Greek terms when Eric's argument depends on them: source form, transliteration, normal sense, contextual force and whether the correspondence is exact, approximate or pedagogical;
+- preserve Eric's material observations in attributable prose (for example, “la clase observa/proponer…”) and then test them against the local text; do not replace his exposition with generic cautions;
+- include `## Mapa de la enseñanza de Eric` with at least three rows or bullets. For each textual unit, record the verse/pericope, the concrete observation or argument from the class, and how the note treated it: textual support, lexical clarification, qualified inference, or pending verification. This is the traceability record; do not claim that every spoken assertion was incorporated without it;
+- use the local Scripture corpus for the verses it discusses;
+- never use `## Lectura inicial` / `## Lectura` as the only development section;
+- never expose `private/transcripts/` paths in frontmatter, prose or credits. Cite the public video URL and stable `source_id` instead.
+
+Run `python3 scripts/check_transcript_note_quality.py <changed-note-paths>` before integration. Existing notes that fail are remediation backlog, not examples to copy.
 
 ## Section Vocabulary
 
 Use topic-specific structure. Do not force every section on every note. Pick only what the argument needs.
 
-| Section | When to use |
-| --- | --- |
-| `# Tesis` | Always — one tight paragraph with the main claim |
-| `## Alcance de la nota` | Transcript/class notes — source, scope, verification disclaimer |
-| `## Contexto de lectura` | Historical or literary framing needed before exposition |
-| `## Texto base` | Short list of anchor verses when helpful before tables |
-| `## Hoja de comparación` | Note directly discusses verses — include actual text from local corpus |
-| `## Hoja léxica` / `## Léxico base` / `## Léxico clave` | Word-study or translation-sensitive argument |
-| `## Referencias judías y fuentes externas` | Talmud, midrash, targum, commentators, historians cited or implied |
-| Thematic `##` headings | Argument blocks named by idea, not by rigid template |
-| `## Conexiones principales` | Cross-links between verses and related notes |
-| `## Pendiente de verificar` | Unverified lexical, rabbinic, or historical claims |
-| `## Conclusión` | Short closing synthesis |
-| `## Ver también` | Links to related notes in `content/` |
+| Section                                                 | When to use                                                            |
+| ------------------------------------------------------- | ---------------------------------------------------------------------- |
+| `# Tesis`                                               | Always — one tight paragraph with the main claim                       |
+| `## Alcance de la nota`                                 | Transcript/class notes — source, scope, verification disclaimer        |
+| `## Contexto de lectura`                                | Historical or literary framing needed before exposition                |
+| `## Texto base`                                         | Short list of anchor verses when helpful before tables                 |
+| `## Hoja de comparación`                                | Note directly discusses verses — include actual text from local corpus |
+| `## Hoja léxica` / `## Léxico base` / `## Léxico clave` | Word-study or translation-sensitive argument                           |
+| `## Referencias judías y fuentes externas`              | Talmud, midrash, targum, commentators, historians cited or implied     |
+| Thematic `##` headings                                  | Argument blocks named by idea, not by rigid template                   |
+| `## Conexiones principales`                             | Cross-links between verses and related notes                           |
+| `## Pendiente de verificar`                             | Unverified lexical, rabbinic, or historical claims                     |
+| `## Conclusión`                                         | Short closing synthesis                                                |
+| `## Ver también`                                        | Links to related notes in `content/`                                   |
 
 Recent high-quality examples:
 
@@ -92,14 +128,14 @@ When a note discusses a verse, extract text from the local corpus instead of lea
 
 ### Standard Tanaj + TTH
 
-| Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
-| --- | --- | --- | --- |
-| #bereshit_1_1 | ... | ... | ... |
+| Referencia    | Hebreo (sin nikud) | TTH (ES) | Observación |
+| ------------- | ------------------ | -------- | ----------- |
+| #bereshit_1_1 | ...                | ...      | ...         |
 
 ### Besorah / mixed local corpora
 
-| Referencia | Texto local | Función en la clase |
-| --- | --- | --- |
+| Referencia    | Texto local             | Función en la clase                    |
+| ------------- | ----------------------- | -------------------------------------- |
 | #iojanan_11_4 | Delitzsch / TTH excerpt | Why this verse matters in the argument |
 
 Corpus priority:
@@ -118,16 +154,16 @@ Add a lexical sheet when the argument depends on terms that must not be flattene
 
 Use for Besorah notes with semitic background or word-study notes:
 
-| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
-| --- | --- | --- | --- | --- |
-| **(אמן)** | emun / aman | afirmarse, fidelidad | אמן | No reducir a "fe" emocional |
-| **(πιστεύω)** | pisteuo | afirmarse, mostrar fidelidad | πιστ- | Cotejar con אמן, no asumir equivalencia total |
-| **(ψυχή)** | psuche | nefesh, vida expuesta | ψυχ- | La clase lo acerca a nefesh; marcar si es pedagógico |
+| Término       | Transliteración | Sentido en la nota           | Raíz o base | Observación                                          |
+| ------------- | --------------- | ---------------------------- | ----------- | ---------------------------------------------------- |
+| **(אמן)**     | emun / aman     | afirmarse, fidelidad         | אמן         | No reducir a "fe" emocional                          |
+| **(πιστεύω)** | pisteuo         | afirmarse, mostrar fidelidad | πιστ-       | Cotejar con אמן, no asumir equivalencia total        |
+| **(ψυχή)**    | psuche          | nefesh, vida expuesta        | ψυχ-        | La clase lo acerca a nefesh; marcar si es pedagógico |
 
 Formatting rules:
 
 - Put source script in bold parentheses: **(אבא)**, **(πνεῦμα)**, **(ܐܒܐ)** when citing forms
-- Prefer Hebrew without nikud unless disambiguation requires vowels
+- Prefer Hebrew without nikud unless disambiguation requires vowels. Normalize corpus morphology before publication: remove segmentation slashes and join the word (`ו/הבאתם` → `והבאתם`, `קציר/כם` → `קצירכם`).
 - Keep Greek and Aramaic in source script, not only transliteration
 - State whether the link is exact equivalence, approximate translation, or pedagogical analogy
 - Never claim perfect equivalence between Greek, Hebrew, Aramaic, and Spanish without qualification
@@ -136,18 +172,18 @@ Formatting rules:
 
 Use for introductory notes or glossaries of loaded terms:
 
-| Forma | Aproximación usual | Matiz que hay que preservar |
-| --- | --- | --- |
-| **(רבי)** | maestro | Título relacional del siglo I; no agota el uso cultural |
-| **(משיח)** | cristo | No absorbe la densidad de unción y función mesiánica |
+| Forma      | Aproximación usual | Matiz que hay que preservar                             |
+| ---------- | ------------------ | ------------------------------------------------------- |
+| **(רבי)**  | maestro            | Título relacional del siglo I; no agota el uso cultural |
+| **(משיח)** | cristo             | No absorbe la densidad de unción y función mesiánica    |
 
 ### Hebrew-only root sheet
 
 Use for Tanaj-heavy notes:
 
-| Hebreo | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación |
-| --- | --- | --- | --- | --- | --- |
-| **(ימלט)** | imalet | escapar | מלט | escapar, librarse | El que libra es יהוה |
+| Hebreo     | Transliteración (es) | Significado | Raíz | Sentido de la raíz | Observación          |
+| ---------- | -------------------- | ----------- | ---- | ------------------ | -------------------- |
+| **(ימלט)** | imalet               | escapar     | מלט  | escapar, librarse  | El que libra es יהוה |
 
 ## External Literature References
 
@@ -160,17 +196,17 @@ Jewish, patristic, historical, and lexical sources appear often in class notes. 
 
 Use this pattern in Spanish prose and in `## Referencias judías y fuentes externas`:
 
-| Source type | Format | Example |
-| --- | --- | --- |
-| Talmud Bavli | `Nombre del tratado` + daf | b. Sanhedrin 37a |
-| Talmud Yerushalmi | `y.` + tratado + capítulo/página | y. Berakhot 1:1 |
-| Midrash | Colección + referencia interna | Bereishit Rabbah 44:7 |
-| Targum | Nombre + pasaje bíblico | Targum Onkelos, Bereshit 1:1 |
-| Commentator | Autor + obra + pasaje | Ibn Ezra, Bereshit 1:1 |
-| Mishnah | Tratado + capítulo:mishná | m. Shabbat 7:2 |
-| Zohar | Sección + folio if known | Zohar 1:134b — mark dating as pending if uncertain |
-| Historian | Author + work + citation | Josefo, Ant. 18.23 |
-| Lexicon / grammar | Title + entry or page | BDB, אמן; Jastrow, אַבָּא |
+| Source type       | Format                           | Example                                            |
+| ----------------- | -------------------------------- | -------------------------------------------------- |
+| Talmud Bavli      | `Nombre del tratado` + daf       | b. Sanhedrin 37a                                   |
+| Talmud Yerushalmi | `y.` + tratado + capítulo/página | y. Berakhot 1:1                                    |
+| Midrash           | Colección + referencia interna   | Bereishit Rabbah 44:7                              |
+| Targum            | Nombre + pasaje bíblico          | Targum Onkelos, Bereshit 1:1                       |
+| Commentator       | Autor + obra + pasaje            | Ibn Ezra, Bereshit 1:1                             |
+| Mishnah           | Tratado + capítulo:mishná        | m. Shabbat 7:2                                     |
+| Zohar             | Sección + folio if known         | Zohar 1:134b — mark dating as pending if uncertain |
+| Historian         | Author + work + citation         | Josefo, Ant. 18.23                                 |
+| Lexicon / grammar | Title + entry or page            | BDB, אמן; Jastrow, אַבָּא                          |
 
 When the source is mentioned in a transcript but the exact reference is unknown:
 
@@ -189,11 +225,11 @@ Example pending item:
 ```markdown
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Talmud Bavli | b. Sanhedrin 37a | Contexto sobre ... | Pendiente de verificar |
-| Ibn Ezra | Bereshit 1:1 | Setenta nombres / ancianos | Pendiente de verificar |
-| Targum Onkelos | Bereshit 1:1 | ... | Cotejado |
+| Fuente         | Referencia       | Uso en la nota             | Estado                 |
+| -------------- | ---------------- | -------------------------- | ---------------------- |
+| Talmud Bavli   | b. Sanhedrin 37a | Contexto sobre ...         | Pendiente de verificar |
+| Ibn Ezra       | Bereshit 1:1     | Setenta nombres / ancianos | Pendiente de verificar |
+| Targum Onkelos | Bereshit 1:1     | ...                        | Cotejado               |
 ```
 
 `Estado` values: `Cotejado`, `Pendiente de verificar`, `Mención indirecta en la clase`
@@ -236,7 +272,9 @@ Never:
 7. Add lexical sheets when words carry the argument
 8. Record external literature in citation format or pending checklist
 9. Refresh `references`, `sources`, and cross-links
-10. Append a short learning entry to `private/hermes/learning-log.md` when Hermes-style work is done
+10. For transcript-derived notes, add `source_ids` and a timestamp route when the video has distinct argument blocks
+11. Run `npm run verse-index:build` after a batch that changes `references`
+12. Append a short learning entry to `private/learning-log.md` when agent-style work is done
 
 ## Suggested User Prompt (Copy/Paste)
 

@@ -43,7 +43,7 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 | #iojanan_2_13 | ויקרב חגהפסח ליהודים ויעל ישוע ירושלימה | Y estaba cerca el Pésaj de los yehudim, y subió Yeshúa a Ierushaláim. | Fiesta leída desde el marco de Judea/Ierushaláim, no como etiqueta étnica absoluta. |
 | #iojanan_4_9 | ותאמר אליו האשה השמרנית הלא יהודי אתה… כיאין דבר ליהודים עםהשמרנים | ¿Cómo Tú, siendo iehudí, me pides de beber…? Porque no… andan los yehudim con los shomronim. | Uso social y geográfico del término en boca de una samaritana. |
 | #iojanan_5_1 | ואחריכן בא מועד חג היהודים ויעל ישוע ירושלימה | TTH no disponible en corpus local para este verso | Caso de prueba: fiesta bíblica caracterizada desde el ámbito de los yehudim. |
-| #ester_8_17 | ו/רבים מ/עמי ה/ארץ מ/תיהדים כי נפל פחד ה/יהודים עלי/הם | TTH no disponible en corpus local | **(מתיהדים)** muestra adhesión religiosa o identificación con el pueblo de יהוה. |
+| #ester_8_17 | ורבים מעמי הארץ מתיהדים כי נפל פחד היהודים עליהם | TTH no disponible en corpus local | **(מתיהדים)** muestra adhesión religiosa o identificación con el pueblo de יהוה. |
 
 ## Las capas de sentido que propone el transcript
 

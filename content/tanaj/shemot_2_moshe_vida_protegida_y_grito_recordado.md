@@ -1,0 +1,175 @@
+---
+title: "Shemot 2: Moshe, vida protegida y el grito recordado"
+description: "Lectura de Shemot 2 en orden: la preservación de Moshe, su salida prematura, el refugio en Midyan y la memoria del pacto ante el clamor de Israel."
+date: 2026-07-28
+tags:
+  - shemot
+  - shemot_2
+  - moshe
+  - egipto
+  - midyan
+  - pacto
+  - esclavitud
+references:
+  - "#shemot_2_1-10"
+  - "#shemot_2_11-15"
+  - "#shemot_2_16-22"
+  - "#shemot_2_23-25"
+sources:
+  - "https://www.youtube.com/watch?v=SPEatJ6nkyc"
+  - "docs/scriptures/oe/json/exodus/2.json"
+  - "docs/scriptures/tth/json/shemot.json"
+source_ids:
+  - "youtube:SPEatJ6nkyc"
+translation: "[OE, TTH]"
+---
+
+# Tesis
+
+Shemot 2 muestra que la liberación de Israel no comienza con la fuerza ni con el cálculo de Moshe, sino con una cadena de vidas que temen a Elohim, protegen al vulnerable y esperan el tiempo de יהוה. El niño es preservado en medio del decreto de muerte; el adulto fracasa cuando intenta imponer justicia por su mano; en Midyan aprende a vivir como forastero; y al final el clamor de Israel sube, Elohim escucha, recuerda el pacto, ve y conoce. La clase de Eric presenta estos movimientos como el contraste entre la estrechez de Egipto y la dependencia del gobierno divino. Esa aplicación espiritual es útil, pero el capítulo debe conservar también sus hechos concretos: violencia, huida, trabajo, matrimonio y memoria pactual.
+
+## Alcance de la nota
+
+Esta es la nota canónica de Shemot 2. Organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza en la clase «Parashat Shmot Exodus 1:1 - 6:1 Be God-fearing» y la contrasta con el texto local OE. La exposición recorre también Shemot 1 y 3–6; aquí se sigue únicamente el capítulo 2, con una breve conexión a 1:17–21 y 3:7–10 para explicar su marco. La transcripción automática no se presenta como cita literal revisada.
+
+## Hoja de comparación
+
+Las citas hebreas proceden del OE local; se quitaron las barras morfológicas del archivo para conservar palabras legibles. El TTH se incluye donde la formulación española afecta la lectura.
+
+| Referencia      | Hebreo local OE, normalizado sin nikud                                                            | TTH local                                                                                                                           | Función en la lectura                                            |
+| --------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| #shemot_2_1-3   | **וילך איש מבית לוי ויקח את בת לוי** / **ולא יכלה עוד הצפינו ותקח לו תבת גמא... ותשם בה את הילד** | «Y fue un hombre de la casa de Levi, y tomó por mujer a una hija de Levi» (2:1); «ella tomó para él un arca de papiro» (2:3).       | Una familia levita protege al niño y lo coloca en una cesta.     |
+| #shemot_2_5-10  | **ותרא את התבה בתוך הסוף... ותפתח ותראהו את הילד... ותחמל עליו... ותקרא שמו משה**                 | «Y tuvo piedad por él... De los niños de los ivrim es este» (2:6); «Porque del agua lo he sacado» (2:10).                           | La hija de Faraón ve, tiene compasión y nombra a Moshe.          |
+| #shemot_2_11-15 | **וירא בסבלתם... ויך את המצרי... מי שמך לאיש שר ושפט עלינו... ויברח משה**                         | «Y salió a sus hermanos y vio sus cargas» (2:11); «¿Quién te nombró por hombre capitán y juez sobre nosotros?» (2:14).              | Moshe ve la opresión, actúa violentamente y huye.                |
+| #shemot_2_16-22 | **ויקם משה ויושען וישק את צאנם... גר הייתי בארץ נכריה**                                           | «Se levantó Moshéh y las rescató, y dio de beber a su rebaño» (2:17); «Extranjero soy en tierra extranjera» (2:22).                 | En Midyan vuelve a defender a débiles y reconoce su extranjería. |
+| #shemot_2_23-25 | **ויאנחו בני ישראל מן העבודה ויזעקו... וישמע אלהים את נאקתם ויזכר אלהים את בריתו... וידע אלהים**  | «Gemían los hijos de Israel desde la esclavitud, y gritaron» (2:23); «recordó Elohim su pacto» (2:24); «los conoció Elohim» (2:25). | El clamor y el pacto abren el camino de la intervención divina.  |
+
+## Vida escondida, río y nombre — vv. 1–10
+
+El capítulo comienza sin nombrar todavía a Moshe: «fue un hombre de la casa de Leví y tomó a una hija de Leví» (#shemot_2_1). La madre ve que el niño es bueno (**טוב**, _tov_: bueno, adecuado, favorable) y lo esconde tres meses. Eric enlaza este gesto con las parteras que «temieron a Elohim» en el capítulo anterior. **ירא**, _yare_, puede expresar miedo, reverencia o temor obediente; aquí la exposición lo usa para decir que la autoridad de Faraón no es el criterio último. Como aplicación, es pedagógica; el texto de Shemot 2 confirma sobre todo una resistencia doméstica que preserva la vida.
+
+Cuando ya no puede esconderlo, la madre fabrica una **תבה**, _tevah_, una caja o arca, la sella con betún y la pone entre los juncos. «Tevah» es una equivalencia exacta para el objeto narrado; traducirla simplemente como «barquito» sería reducir su fuerza. La escena recuerda el arca de Nóaj por el término, pero la conexión es intertextual y no afirma que ambos relatos sean idénticos. La hermana se queda a distancia para saber qué sucederá. La vigilancia de Miriam no sustituye la providencia: participa en ella sin controlar el resultado.
+
+La hija de Faraón abre la cesta, ve al niño llorando y **תחמל**, _techamol_, tiene compasión de él. «Compasión» es una traducción aproximada pero contextual; el verbo nombra una respuesta afectiva que contradice el decreto real. Eric destaca que el poder egipcio que ordenó muerte termina sosteniendo al niño hebreo. La princesa reconoce su identidad, y la hermana propone llamar a una nodriza hebrea. Así la madre vuelve a recibir a su propio hijo y hasta obtiene salario. Moshe (**משה**, _Moshe_) se explica en el relato por **משה**, _mashah_, «sacar del agua»: es una etimología narrativa ligada a la acción de la princesa, no una demostración de que el nombre egipcio original tuviera exactamente la misma raíz.
+
+## Ver la aflicción sin convertirla en autosalvación — vv. 11–15
+
+«Moshe creció y salió hacia sus hermanos; vio sus cargas» (#shemot_2_11). **ראה**, _raah_, «ver», aquí no es mera percepción: el verbo introduce una implicación ante el sufrimiento. Eric observa que el futuro libertador no permanece indiferente, pero también advierte que su primer acto no es todavía la redención ordenada por יהוה. Moshe golpea y oculta al egipcio. El texto no llama santo al homicidio ni disuelve la violencia en una aplicación espiritual.
+
+Al día siguiente intenta detener una disputa entre dos hebreos. La pregunta «¿quién te puso por príncipe y juez sobre nosotros?» (#shemot_2_14) revela que Moshe aún no ha recibido ese encargo. Eric conecta la huida con el límite de actuar desde la fuerza propia: la preocupación por la justicia es real, pero la comisión y el tiempo pertenecen a Elohim. La reacción de Moshe es **ירא**, «tuvo miedo», y Faraón busca matarlo. El que quiso enfrentar a Egipto termina huyendo de Egipto. No es el final de su llamado; es una desinstalación de su autosuficiencia.
+
+## Midyan: defensa, extranjería y formación — vv. 16–22
+
+En el pozo, Moshe se levanta para ayudar a las hijas de Reuel cuando los pastores las expulsan. «Salvar» en la traducción de la escena corresponde al verbo **ישע**, _yasha_, librar o ayudar; la equivalencia con «redentor» sería pedagógica, no exacta, porque aquí se describe una intervención local. El patrón muestra que Moshe sigue viendo el abuso y respondiendo, pero ahora su fuerza sirve para proteger y no para matar.
+
+Nace Gershom: «forastero fui en tierra extranjera» (#shemot_2_22). **גר**, _ger_, es residente forastero o extranjero establecido; no significa automáticamente esclavo ni describe toda la teología posterior del prosélito. La observación de Eric sobre Egipto como lugar estrecho (**מצרים**, _Mitzrayim_) funciona como aplicación simbólica; la etimología popular de «estrechez» no debe presentarse como derivación histórica segura del nombre. El capítulo sí contrasta la casa opresora de Faraón con el desarraigo de Midyan y prepara a Moshe para escuchar el clamor de otros desplazados.
+
+## El clamor, el pacto y el conocimiento — vv. 23–25
+
+Después de muchos días muere el rey de Egipto. Israel gime y clama desde el trabajo. **אנח**, _anaj_, es gemir o suspirar; **זעק**, _zaaq_, es clamar pidiendo auxilio. No son palabras decorativas: el dolor de un pueblo entra en la narración como voz dirigida hacia Elohim. «Elohim escuchó su gemido, recordó su pacto con Abraham, con Yitsjaq y con Yaakov; vio a los hijos de Israel y Elohim conoció» (#shemot_2_24-25).
+
+**זכר**, _zakar_, «recordar», no implica que Elohim hubiera olvidado una información. Es lenguaje pactual de pasar a la acción conforme a una promesa. **ידע**, _yada_, «conocer», puede expresar conocimiento relacional y reconocimiento de una situación; aquí es más fuerte que una observación distante. El capítulo termina antes de la zarza, pero ya ha establecido la base: la intervención que viene en Shemot 3 responde al pacto y al clamor, no al mérito de Moshe ni a una rebelión autónoma del pueblo.
+
+## Hoja léxica y desarrollo textual
+
+## La cadena narrativa: ver, actuar, huir y ser escuchado
+
+Leído en orden, el capítulo no presenta una sola clase de «fe» abstracta. La madre ve que el niño es bueno y lo oculta; Miriam observa desde lejos; la hija de Faraón ve la cesta y se compadece (#shemot_2_2-6). **(צפן)**, _tsafan_, significa esconder o guardar; en la forma **ותצפנהו**, su fuerza contextual es una protección deliberada frente al decreto de muerte. «Guardar espiritualmente» sería pedagógico, no una traducción exacta. Eric conserva esta red de mujeres que actúan bajo una autoridad mayor que Faraón; el texto la respalda sin atribuirles conocimiento de todo el plan futuro.
+
+Luego Moshe ve las cargas y ve a un egipcio golpeando a un hebreo (#shemot_2_11-12). **(נכה)**, _nakah_, significa golpear, herir o abatir; en **ויך את המצרי**, _vayak et ha-mitsri_, el contexto describe un acto violento que causa la muerte, no una simple reprensión. La palabra **(טמן)**, _taman_, significa ocultar o enterrar; Moshe «lo escondió en la arena», y ese detalle conecta el acto con su intento de mantenerlo secreto. Eric interpreta la escena como celo por la justicia mezclado con autosuficiencia. Esa evaluación es una inferencia narrativa razonable: el capítulo muestra compasión por los oprimidos, pero también miedo, ocultamiento y huida, y no llama a este episodio la comisión liberadora.
+
+En Midyan se repite el verbo de levantarse: **ויקם משה**, _vayaqom Moshe_, «se levantó Moshe», y defiende a las hijas de Reuel (#shemot_2_17). **(גרש)**, _garash_, significa expulsar o echar; las muchachas dicen que los pastores las echaron, de modo que la ayuda de Moshe responde a una exclusión concreta. «Redimir» como título de esta acción sería una equivalencia **pedagógica**, no exacta; **(ישע)**, _yasha_, expresa librar o ayudar en ese contexto. La diferencia con 2:12 es importante: la fuerza todavía aparece, pero ahora el resultado narrado es que las mujeres pueden abrevar el rebaño. Eric puede sostener que Midyan forma al futuro servidor, siempre que la aplicación no sustituya los hechos del relato.
+
+El final cambia de sujeto y de iniciativa. Israel **(אנח)**, _anaj_, gime; **(זעק)**, _zaaq_, clama; Elohim **(שמע)**, _shama_, escucha, **(זכר)**, _zakar_, recuerda, **(ראה)**, _raah_, ve y **(ידע)**, _yada_, conoce (#shemot_2_23-25). Son formas y sentidos normales; su fuerza conjunta es una respuesta pactual que abre el capítulo 3. «Recordar» no significa recuperar un dato olvidado, y «conocer» no equivale a enterarse por primera vez. Eric insiste en que la liberación no nace de la iniciativa autónoma de Moshe; la progresión final lo confirma. A la vez, la narración no desprecia la acción humana: las mujeres preservan, Miriam vigila y Moshe ayuda. La equivalencia «la oración obliga a Elohim» sería inexacta; el texto atribuye la intervención al pacto que Elohim recuerda y a su atención soberana al clamor.
+
+| Forma     | Transliteración | Sentido normal                     | Fuerza contextual                                                                      | Equivalencia                                                             |
+| --------- | --------------- | ---------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **(ירא)** | _yare_          | temer, reverenciar                 | Temor que coloca a Elohim sobre Faraón; luego miedo humano de Moshe                    | Exacta para «temer»; «reverencia» es aproximada según contexto           |
+| **(תבה)** | _tevah_         | caja, arca                         | Recipiente de preservación en agua                                                     | Exacta como «arca/caja»; «barca» es aproximada                           |
+| **(חמל)** | _chamal_        | compadecerse, apiadarse            | La hija de Faraón responde al llanto y preserva vida                                   | Aproximada: «compasión» expresa el efecto contextual                     |
+| **(משה)** | _Moshe_         | nombre explicado por «sacar»       | El nombre queda ligado a la extracción del agua                                        | Pedagógica como etimología narrativa                                     |
+| **(ישע)** | _yasha_         | librar, ayudar                     | La intervención de Moshe en el pozo protege a las hijas                                | Pedagógica si se amplía a «redimir»                                      |
+| **(כהן)** | _kohen_         | ministro, sacerdote según contexto | El TTH llama «sacerdote de Midián» al padre; no basta este título para probar su culto | Aproximada: «sacerdote» traduce el contexto, no resuelve toda su función |
+| **(גר)**  | _ger_           | forastero, residente extranjero    | Moshe interpreta su vida en Midyan                                                     | Aproximada si se traduce simplemente «exiliado»                          |
+| **(אנח)** | _anaj_          | gemir, suspirar                    | El sufrimiento de Israel se expresa antes del clamor de auxilio                        | Aproximada si se reduce a «quejarse»                                     |
+| **(זעק)** | _zaaq_          | clamar, pedir auxilio              | El sufrimiento de Israel llega ante Elohim                                             | Exacta en el marco de auxilio                                            |
+| **(זכר)** | _zakar_         | recordar, tener presente           | Recordar el pacto mediante acción fiel                                                 | Aproximada si sugiere recuperar un olvido                                |
+| **(ידע)** | _yada_          | conocer                            | Reconocimiento relacional de la aflicción                                              | Aproximada si se limita a información mental                             |
+
+## Ver, oír y esperar el tiempo de la liberación
+
+El capítulo repite acciones de percepción, pero no las convierte en una capacidad humana para producir salvación. La hija de Faraón **ראה**, _raah_, «ve» la cesta y al niño; Moshe «ve» las cargas de sus hermanos; y al final Elohim «ve» a los hijos de Israel. La forma verbal conserva el sentido normal de ver o percibir, mientras que su fuerza cambia con el sujeto y el contexto. En 2:5–6, ver conduce a compasión; en 2:11, ver expone a Moshe al sufrimiento pero no le confiere todavía autoridad; en 2:25, la mirada divina acompaña el recuerdo del pacto. «Ver la aflicción» como comprensión espiritual es una equivalencia **pedagógica**, no la traducción del verbo.
+
+El mismo orden aparece con la escucha. Israel gime y clama, y TTH dice: «escuchó Elohim su gemido, y recordó Elohim su pacto» (2:24). **שמע**, _shama_, significa oír o escuchar; aquí su fuerza contextual es atender al clamor de un pueblo oprimido y actuar conforme al pacto. No describe una información que antes faltara a Elohim. La clase de Eric acierta al resistir la autosalvación de Moshe, pero el texto también resiste una espera pasiva: las parteras, la madre, Miriam, la hija de Faraón y Moshe en el pozo realizan actos concretos de preservación y justicia, aunque ninguno sustituye el llamado soberano de יהוה.
+
+Por eso el cierre de Shemot 2 debe leerse como bisagra. **פקד**, _paqad_, significa visitar, atender o encargar según el contexto; aunque el verbo aparece explícitamente en la continuación de 3:16, 2:25 prepara esa intervención al decir que Elohim conoció a Israel. «Intervino» es una equivalencia **aproximada** cuando se resume el movimiento narrativo. El capítulo termina antes de la comisión de Moshe para conservar esta distinción: la compasión humana protege vidas en momentos concretos, pero la liberación nacional nace de que Elohim escucha, recuerda y conoce.
+
+## Del «hebreo» al «forastero»: identidad y responsabilidad — vv. 1–22
+
+Shemot 2 usa varias designaciones que no deben colapsarse. **עברי**, _ivri_, significa «hebreo» y en 2:6 identifica al niño por el pueblo al que pertenece; **מצרי**, _mitsri_, significa «egipcio» y en 2:12 identifica al hombre muerto. Son gentilicios normales, no equivalencias automáticas de «justo» y «opresor». El relato deja que la conducta revele el conflicto: la hija de Faraón tiene compasión, mientras un egipcio golpea a un hebreo.
+
+En Midyan, las hijas llaman a Mosheh **איש מצרי**, _ish mitsri_, «un hombre egipcio» (2:19), porque esa es la apariencia o procedencia que ellas perciben; el narrador ya lo ha presentado como hebreo criado en la casa de Faraón. **נכריה**, _nokhriyah_, en **בארץ נכריה**, _be’erets nokhriyah_, significa extranjera o ajena; la frase de Mosheh «en tierra extranjera» expresa desarraigo, no una negación de que יהוה siga gobernando fuera de Egipto. La lectura de Eric sobre la formación del libertador gana precisión cuando se conserva esta tensión entre identidad recibida y condición de forastero.
+
+El cierre conecta esa condición con el pacto, no con una contraseña étnica. **ברית**, _berit_, significa pacto o alianza; en 2:24 su fuerza contextual es la promesa hecha a los padres que mueve la atención divina. **נאק**, _na’aq_, significa gemido o quejido; TTH lo vierte como «gemido», mientras **זעק**, _za‘aq_, nombra el clamor. La progresión «gimieron… clamaron… escuchó… recordó… vio… conoció» conserva tanto el dolor real como la respuesta pactual de Elohim. «La oración activa a Dios» sería una formulación teológica demasiado mecánica: el texto atribuye la iniciativa de la liberación al pacto que Elohim recuerda.
+
+## Temor de Elohim y límites de la lectura espiritual — vv. 1–25
+
+La clase vuelve varias veces al «temor de Elohim» como criterio que libera de los parámetros de Faraón. En Shemot 2, esa observación debe conservar su enlace con 1:17–21: allí las parteras no obedecen la orden de matar y el narrador dice que **יראו את האלהים**, _yare'u et ha-Elohim_, «temieron a Elohim». En 2:2 la madre ve que el niño es **טוב**, _tov_, «bueno» o «favorable», y lo esconde; la forma normal del adjetivo no significa «ungido» ni garantiza por sí misma un destino mesiánico. La lectura espiritual de Eric es **pedagógica** cuando contrasta el temor al poder imperial con la reverencia a Elohim, pero el texto concreto muestra primero protección de una vida amenazada.
+
+La exposición también describe a Egipto como un lugar de estrechez y usa esa imagen para interpretar los parámetros que esclavizan. **(מצרים)**, _Mitsrayim_, es el gentilicio o nombre propio «Egipto»; su forma no autoriza una etimología hebrea exacta de «angustia». «Lugar estrecho» es una equivalencia **pedagógica e interpretativa**, no una traducción del nombre en 2:23. El capítulo sí ofrece hechos que justifican hablar de opresión: Israel **נאנחו**, _ne'enaju_, «gimió», y **ויזעקו**, _vayizaku_, «clamó». El discurso gana fuerza cuando esa aplicación no reemplaza el trabajo, la violencia y la huida narrados.
+
+Finalmente, el clamor no funciona como una técnica que obligue a Elohim. **(וישמע)**, _vayishma_, es la forma narrativa «y escuchó»; **(ויזכר)**, _vayizkor_, «y recordó»; **(וידע)**, _vayeda_, «y conoció». Su fuerza conjunta es atención pactual activa, no adquisición de información que faltara. TTH dice que Elohim recordó su pacto con Abraham, Itzjak y Yaakov. Eric acierta al ubicar la liberación en la iniciativa divina; la nota debe añadir que esa iniciativa no hace irrelevantes las acciones intermedias de las mujeres ni la ayuda de Moshe en el pozo.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual          | Observación concreta de la clase                                                                           | Tratamiento en la nota                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| #shemot_1_15-21; 2:1-10 | El temor de Elohim preserva a los niños; la vida de Moshe queda protegida dentro de la casa y del palacio  | Apoyo textual, con la aplicación espiritual marcada como pedagógica              |
+| #shemot_2_3-10          | La cesta, el agua y el nombre Moshe muestran una preservación providencial                                 | Léxico aclarado y conexión con Nóaj tratada como intertextual                    |
+| #shemot_2_11-15         | Moshe ve la opresión, pero su violencia prematura no es todavía la redención de יהוה                       | Inferencia calificada a partir del relato y de la huida                          |
+| #shemot_2_16-22         | En Midyan Moshe protege a las hijas y aprende la condición de forastero; Egipto se presenta como estrechez | Defensa apoyada en el texto; etimología de Mitzrayim marcada como pendiente      |
+| #shemot_2_23-25; 3:7-10 | El clamor sube, Elohim recuerda el pacto y luego llama a Moshe                                             | Apoyo textual y conexión narrativa directa, sin atribuir mérito autónomo a Moshe |
+
+## La liberación no borra las responsabilidades intermedias
+
+El capítulo sostiene una diferencia importante entre preservar una vida y liberar a un pueblo. En 2:1-10, varias personas actúan para que Moshe viva: la madre lo esconde, Miriam vigila y la hija de Faraón se compadece. **(חיה)**, _jayáh_, significa vivir o permanecer con vida; aunque el verbo no domina toda la escena, expresa su resultado narrativo. «Salvar» puede resumirlo de manera pedagógica, pero no debe atribuir a estas mujeres la liberación nacional que el cierre reserva a la intervención de Elohim. La observación de Eric sobre una cadena de obediencias pequeñas es compatible con el relato si se conserva esa diferencia de escala.
+
+En 2:11-15, Moshe ve la carga y responde, pero el texto no transforma su iniciativa en comisión divina. **(נצב)**, _natsav_, significa estar de pie, presentarse o mantenerse; en la pregunta «¿quién te puso por príncipe y juez?» la forma de autoridad no está establecida en Moshe. **(שר)**, _sar_, significa príncipe, jefe o funcionario; **(שפט)**, _shafat_, significa juzgar o administrar justicia. Sus sentidos normales son claros, pero la fuerza contextual es una impugnación de autoridad: el hebreo no dice que Moshe haya recibido ese nombramiento en ese momento. «Libertador ungido» sería una ampliación teológica, no una equivalencia exacta de esos términos.
+
+La escena del pozo muestra, sin embargo, que el fracaso no convierte a Moshe en indiferente. **(וישען)**, _vayosha_, forma de ישע, significa librar, ayudar o rescatar; aquí describe que Moshe ayuda a las hijas frente a los pastores (#shemot_2_17). «Redimir» es pedagógico porque el verbo no establece todavía el oficio nacional posterior. La repetición del patrón —ver aflicción y actuar— permite a Eric hablar de formación, pero la narración no presenta Midyan como una escuela explícita ni afirma que la violencia de 2:12 haya quedado automáticamente corregida. La prudencia de la lectura está en observar un cambio de resultado, no en inventar una conversión psicológica detallada.
+
+El cierre da el criterio para ordenar todas estas acciones: **(וישמע)**, _vayishma_, significa escuchar; **(ויזכר)**, _vayizkor_, recordar; **(וירא)**, _vayar_, ver; y **(וידע)**, _vayeda_, conocer (#shemot_2_24-25). Son formas narrativas consecutivas, no una lista de atributos abstractos. TTH traduce que Elohim escuchó el gemido y recordó su pacto. La equivalencia «Elohim se acordó porque Israel logró activar su memoria» sería inexacta: **(ברית)**, _berit_, significa pacto o alianza, y su fuerza contextual es que la intervención se mueve conforme a la promesa a los padres. Eric preserva bien la dependencia del gobierno divino cuando no hace del clamor una técnica para obligar a Elohim.
+
+## Pendiente de verificar
+
+- [ ] Cotejar en gramáticas y léxicos la relación histórica entre **מצרים** y la lectura de «estrechez» usada en la clase.
+- [ ] Precisar las tradiciones antiguas sobre la etimología egipcia del nombre Moshe sin convertir la explicación narrativa hebrea en un dato histórico externo.
+- [ ] Verificar la referencia talmúdica mencionada indirectamente en la exposición sobre la dificultad de vivir en un lugar estrecho.
+
+## El recipiente, el agua y el nombre recibido: vv. 1-10
+
+La preservación de Moshe comienza antes de que él pueda hablar. La madre ve que el niño es bueno y lo oculta tres meses; cuando ya no puede esconderlo, toma una **תבה**, _tevah_, «caja, arca o recipiente», la calafatea y la coloca entre los juncos junto al río (#shemot_2_3). El término comparte forma con el recipiente de Nóaj, pero la conexión es **intertextual y pedagógica**, no una identidad de escenas: aquí una madre entrega a su hijo al agua bajo el decreto de Faraón, mientras el relato anterior describe un juicio universal. Eric conserva bien el motivo de preservación, siempre que la semejanza no sustituya las diferencias narrativas.
+
+La hermana se coloca «de lejos para saber qué le sería hecho». **(ידע)**, _yada_, significa conocer, reconocer o averiguar; en este contexto expresa vigilancia atenta sobre el destino del niño, no omnisciencia. «Esperar una señal» es una paráfrasis **aproximada**. La hija de Faraón desciende, ve la caja y la abre; al oír el llanto, **(חמל)**, _chamal_, significa compadecerse o apiadarse. Su compasión tiene un resultado narrativo concreto: identifica al niño como hebreo y decide conservarlo vivo, aunque pertenece a la casa del poder que ordenó su muerte. El texto no atribuye a ella una conversión religiosa; muestra una decisión que contradice en la práctica la violencia del decreto.
+
+La propuesta de Miriam es igualmente concreta: llamar a una nodriza hebrea, y así la madre recibe al niño para amamantarlo. **(ינק)**, _yanaq_, significa mamar o amamantar; en esta escena sostiene la continuidad de la vida y de la relación materna. «Restauración familiar» es una síntesis **pedagógica**, porque el relato describe un arreglo temporal y no una teoría de reparación. Eric puede hablar de providencia a través de una cadena de mujeres, pero el texto invita a observar la cadena de acciones: esconder, vigilar, compadecerse, hablar y alimentar.
+
+Cuando el niño crece, la hija de Faraón lo adopta y llama su nombre **משה**, _Moshe_, «sacado» según la explicación narrativa: **כי מן המים משיתהו**, «porque de las aguas lo saqué» (#shemot_2_10). **(משה)**, _Moshe_, funciona aquí como nombre propio interpretado por el verbo **(משה)**, _mashah_, sacar o extraer. La semejanza formal explica el juego narrativo, pero no obliga a resolver toda la historia lingüística egipcia del nombre. «Rescatado» es una equivalencia **pedagógica**; «sacado de las aguas» es la explicación explícita del versículo. El nombre conserva la memoria de una extracción realizada por la hija de Faraón, mientras el lector sabe que la vida fue preservada mediante varias acciones bajo la providencia de יהוה.
+
+La evaluación de Eric queda así equilibrada: la vida de Moshe sí funciona como señal de que el decreto de muerte no tiene la última palabra, pero el capítulo no presenta todavía al niño como libertador consciente ni convierte cada detalle en una alegoría. La liberación nacional aparece solamente cuando Elohim escucha y recuerda el pacto al final; antes de eso, el texto honra la responsabilidad concreta de quienes protegen la vida.
+
+## Conclusión
+
+Shemot 2 no idealiza a Moshe: lo presenta protegido por decisiones valientes, limitado por su violencia, formado como forastero y finalmente situado ante el clamor de Israel. La iniciativa divina aparece en el cierre del capítulo: Elohim escucha, recuerda, ve y conoce. La liberación será obra de יהוה; la fe obediente participa protegiendo vida y respondiendo al sufrimiento, pero no puede fabricar el llamado ni adelantar su hora.
+
+## Ver también
+
+- [[bereshit_6_noaj_gracia_juicio_y_consuelo]]
+- [[shemot_20_palabra_libertad_temor_y_adoracion]]
+- [[shemot_25_terumah_mishkan_presencia_y_testimonio]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [Parashat Shmot Exodus 1:1 - 6:1 Be God-fearing](https://www.youtube.com/watch?v=SPEatJ6nkyc) (`source_id`: `youtube:SPEatJ6nkyc`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

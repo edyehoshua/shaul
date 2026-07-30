@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "purpose": "Local classifications for lane-owned media that must not become canonical transcript studies.",
+  "entries": [
+    {
+      "source_id": "youtube:dWfZ0pLJAlk",
+      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
+      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
+      "classification": "musical-performance",
+      "reason": "La captura local es muy breve (17 segmentos) y el título identifica una interpretación musical de Isaías 62; no conserva una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-30"
+    },
+    {
+      "source_id": "youtube:6yvN36B5280",
+      "title": "Al zeh (En español) על זה como ששר מורדכי בן דויד בספרדית",
+      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
+      "classification": "musical-performance",
+      "reason": "La transcripción local conserva una interpretación cantada con letra fragmentaria en español; no contiene una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:w8HoMQSjKyQ",
+      "title": "Ana & Eric Videoclip de nuestra boda (21 de Shvat 5779 - 27 de enero 2019)",
+      "url": "https://www.youtube.com/watch?v=w8HoMQSjKyQ",
+      "classification": "wedding-clip",
+      "reason": "Videoclip personal de boda con música y subtítulos fragmentarios; no presenta una exposición bíblica sostenida para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:GN22XKFRYGM",
+      "title": "תהילים טז. the most important decision",
+      "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
+      "classification": "musical-performance",
+      "reason": "La transcripción local conserva una interpretación cantada de Tehilim 16 con música, no una exposición sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-28"
+    },
+    {
+      "source_id": "youtube:dsI1NFrPTZY",
+      "title": "תפלת עלינו the Aleynu Prayer La oración Aleynu´Aleinu",
+      "url": "https://www.youtube.com/watch?v=dsI1NFrPTZY",
+      "classification": "liturgical-prayer",
+      "reason": "La captura local solo contiene unos pocos fragmentos de una oración en árabe y no identifica una exposición bíblica desarrollada; no se fabrica un estudio canónico.",
+      "classified_at": "2026-07-28"
+    },
+    {
+      "source_id": "youtube:p7Tu9dJAgN0",
+      "title": "Haftarát Vayishlaj Parte 1",
+      "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
+      "classification": "non-expository-introduction-and-song",
+      "reason": "La captura local solo conserva una introducción general sobre la división de la Biblia, las porciones de la Torá y una canción; no desarrolla una perícopa identificable de Vayishlaj. No se fabrica un estudio canónico.",
+      "classified_at": "2026-07-28"
+    },
+    {
+      "source_id": "youtube:_QlsdBq_GTc",
+      "title": "Emil Zrihan - God is alive, I praise Him",
+      "url": "https://www.youtube.com/watch?v=_QlsdBq_GTc",
+      "classification": "musical-performance",
+      "reason": "Music performance; the title and available inventory metadata do not identify a sustained biblical exposition suitable for a canonical study.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:x5NiMis3izg",
+      "title": "Isaías 12 cantado con guitarra",
+      "url": "https://www.youtube.com/watch?v=x5NiMis3izg",
+      "classification": "musical-performance",
+      "reason": "Sung performance of Isaiah 12 with guitar; title indicates music rather than sustained biblical exposition for a canonical study.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:YgDxHdLEmKc",
+      "title": "Jerusalén de Oro en español ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "classification": "musical-performance",
+      "reason": "Spanish performance of Jerusalem of Gold; short lyric/music captions only, not a biblical exposition class.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:vB6aDB59o48",
+      "title": "Maravilloso Salvador מושיענו הנפלא.wmv (Hebreo-Español)",
+      "url": "https://www.youtube.com/watch?v=vB6aDB59o48",
+      "classification": "musical-performance",
+      "reason": "Bilingual worship song performance; not a sustained scriptural exposition.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:cvt-w1oDtmE",
+      "title": "Ofrah Hazah - Horashoot - עפרה חזה הרשות English - Spanish",
+      "url": "https://www.youtube.com/watch?v=cvt-w1oDtmE",
+      "classification": "musical-performance",
+      "reason": "Music video/performance with minimal caption text; no biblical teaching to author.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:0-KPe89FY7I",
+      "title": "Oyfn Pripetchik - La estufa Español-yidish by Monserrat Franco",
+      "url": "https://www.youtube.com/watch?v=0-KPe89FY7I",
+      "classification": "musical-performance",
+      "reason": "Yiddish/Spanish song performance; not an expository study.",
+      "classified_at": "2026-07-27"
+    },
+
+    {
+      "source_id": "youtube:HXpeQAgaCoA",
+      "title": "Recibimiento y despedida de Shabat",
+      "url": "https://www.youtube.com/watch?v=HXpeQAgaCoA",
+      "classification": "liturgical-music",
+      "reason": "Shabbat welcome/farewell liturgical piece; not a verse-by-verse biblical exposition class.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:sTl5WJfH61Q",
+      "title": "Salmo 125 en guitarra מזמור קכ''ה בגיטרה",
+      "url": "https://www.youtube.com/watch?v=sTl5WJfH61Q",
+      "classification": "musical-performance",
+      "reason": "Guitar performance of Psalm 125; music captions only.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:MlM2bk7h0hc",
+      "title": "salmo 23 en hebreo con traducción.wmv",
+      "url": "https://www.youtube.com/watch?v=MlM2bk7h0hc",
+      "classification": "musical-performance",
+      "reason": "Sung/recited Psalm 23 with translation; not a developed exposition class.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:4i_5Hr0stwE",
+      "title": "Salmo 91 en Hebreo תהילים צ'''א בעברית",
+      "url": "https://www.youtube.com/watch?v=4i_5Hr0stwE",
+      "classification": "musical-performance",
+      "reason": "Hebrew performance of Psalm 91; musical/recitational rather than expository teaching.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:S6cc-nUH6Mg",
+      "title": "Salmo 92 en Hebreo/español תהילים צ''ב בעברית -לספרדית",
+      "url": "https://www.youtube.com/watch?v=S6cc-nUH6Mg",
+      "classification": "musical-performance",
+      "reason": "Bilingual Psalm 92 performance; not a canonical exposition study source.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:kKv_J4gwBkc",
+      "title": "Todas las palabras - Idan Raichel -punteo en guitarra",
+      "url": "https://www.youtube.com/watch?v=kKv_J4gwBkc",
+      "classification": "musical-performance",
+      "reason": "Guitar arrangement of a modern song; no biblical exposition.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:Gw0vvb4MGI8",
+      "title": "Torah reading prayer",
+      "url": "https://www.youtube.com/watch?v=Gw0vvb4MGI8",
+      "classification": "liturgical-prayer",
+      "reason": "Liturgical Torah-reading prayer clip; not a sustained biblical exposition.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:hMKGpQItwvY",
+      "title": "Va'ani bechasdecho va'ani bejasdejó ואני בחסדך - en español",
+      "url": "https://www.youtube.com/watch?v=hMKGpQItwvY",
+      "classification": "musical-performance",
+      "reason": "Song performance in Spanish/Hebrew; not an exposition class.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:yoYZGJOMi38",
+      "title": "Yequm Purqan. יְקוּם פֻּרְקָן en español",
+      "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
+      "classification": "liturgical-music",
+      "reason": "Liturgical hymn/prayer performance; not a developed scriptural study.",
+      "classified_at": "2026-07-27"
+    },
+    {
+      "source_id": "youtube:iRGczDAqu9c",
+      "title": "ישעיהו פרק 60 עברית - ספרדית Isaías capítulo 60 hebreo- español",
+      "url": "https://www.youtube.com/watch?v=iRGczDAqu9c",
+      "classification": "musical-performance",
+      "reason": "Short bilingual rendering of Isaiah 60; insufficient exposition for a canonical study.",
+      "classified_at": "2026-07-27"
+    },
+
+    {
+      "source_id": "youtube:O2jFt6kAl30",
+      "title": "Piyut Akdamut Leshavuot. פיוט אקדמות לשבועות Akdamut",
+      "url": "https://www.youtube.com/watch?v=O2jFt6kAl30",
+      "classification": "liturgical-music",
+      "reason": "El inventario identifica un piyut litúrgico de Shavuot y los proveedores no recuperaron una exposición bíblica sostenida; no se fabrica un estudio canónico a partir de una pieza litúrgica.",
+      "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:YgDxHdLEmKc",
+      "title": "Jerusalén de Oro en español ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "classification": "musical-performance",
+      "reason": "El título identifica una interpretación de una canción y no una exposición bíblica sostenida; no se fabrica un estudio canónico a partir de una actuación musical.",
+      "classified_at": "2026-07-30"
+    },
+    {
+      "source_id": "youtube:cvt-w1oDtmE",
+      "title": "Ofrah Hazah - Horashoot - עפרה חזה הרשות English - Spanish",
+      "url": "https://www.youtube.com/watch?v=cvt-w1oDtmE",
+      "classification": "musical-performance",
+      "reason": "El título identifica una canción/actuación musical de Ofra Haza; no conserva una exposición bíblica sostenida para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-30"
+    }
+  ]
+}
