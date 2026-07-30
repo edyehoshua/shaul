@@ -267,6 +267,14 @@ El tramo intermedio añade entrega, testimonio y perseverancia. **παραδίδ
 
 Esta apertura también evita atribuir a la parte 41 una reconstrucción que el pasaje no afirma. Marcos sí pone en orden admiración del templo, anuncio de ruina, preguntas, engaño, persecución y perseverancia; la lectura histórica de Eric sobre las setenta semanas permanece una inferencia atribuible que debe cotejarse con Daniel 9 y con fuentes históricas públicas. La cadena narrativa prepara 13:32-37: quien no controla el momento recibe, en cambio, la tarea de velar.
 
+## Control dirigido: «esta generación» no entrega la hora (13:28-37)
+
+La comparación de la higuera y la orden de velar deben permanecer juntas. **μανθάνετε**, _manthanete_, es un imperativo de «aprender o comprender»; **ἐγγύς**, _engys_, significa «cerca»; y **γενεά**, _genea_, puede designar generación, descendencia o época según el contexto. En 13:28-30 esas formas permiten reconocer que el anuncio se aproxima y que «esta generación» no pasará antes de que sucedan las cosas anunciadas, pero ninguna convierte el dicho en una fecha calculable. La lectura de Eric sobre el cumplimiento histórico de las setenta semanas debe distinguirse de esa observación léxica: Marcos afirma la permanencia de su palabra y la cercanía de lo anunciado, no entrega una tabla para fechar el día.
+
+El límite aparece inmediatamente en 13:32-37. **οὐκ οἴδατε**, _ouk oidate_, «no saben», niega a los discípulos el acceso al momento; **βλέπετε**, _blepete_, «miren o estén atentos», y **ἀγρυπνεῖτε**, _agrypneite_, «manténganse despiertos», convierten la falta de información en una tarea. Después **γρηγορεῖτε**, _grēgoreite_, «vigilen», se repite en 13:35 y 37. Son imperativos presentes plurales: describen una práctica sostenida de siervos responsables, no una clave para resolver la tensión entre «esta generación» y el día desconocido.
+
+Así se puede conservar la observación concreta de Eric sin forzar el texto. La generación, el cielo y la tierra y las palabras de Yehoshua pertenecen al anuncio; la hora pertenece a lo que no se revela. **παρέρχομαι**, _parerchomai_, «pasar o desaparecer», contrasta lo pasajero de cielo y tierra con **λόγοι**, _logoi_, «palabras o dichos», que no pasarán. La equivalencia temática con **(אמונה)**, _emunah_, «fidelidad o firmeza», es aproximada; el argumento canónico se sostiene en la secuencia griega y en el mandato repetido de velar.
+
 ## Verificaciones pendientes
 
 - [ ] Cotejar en fuentes históricas públicas la cuenta 516, 66, 70 y 73 antes de presentar la reconstrucción de la parte 41 como cronología demostrada.

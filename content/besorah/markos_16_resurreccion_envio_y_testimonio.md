@@ -237,6 +237,14 @@ El título público de Eric cuestiona llamar al domingo «el día del Señor», 
 
 La narración desplaza enseguida el peso hacia evidencia y comisión. **ἴδετε**, _idete_, «miren», orienta al lugar; **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta el sepulcro abierto; y **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», transforma la comprobación en responsabilidad. Más tarde, **κηρύξατε**, _kēryxate_, «proclamen», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», cierran la cadena con palabra anunciada y confirmada. Por eso la observación calendárica atribuible queda preservada, pero el texto local prueba que la autoridad del cierre descansa en resurrección, testigos, envío y confirmación, no en nombrar el primer día.
 
+## Control dirigido: el texto recibido y el final largo (16:8-20)
+
+El corpus local presenta 16:9-20 como continuación del capítulo, pero la nota no debe ocultar que existe una cuestión pública de transmisión. En 16:8, **ἔφυγον**, _ephygon_, «huyeron», y **τρόμος**, _tromos_, «temblor», describen la reacción inmediata ante el anuncio; desde 16:9, **ἐφανερώθη**, _ephanerōthē_, «se manifestó o apareció», reabre la cadena de testigos. El cambio de escena no autoriza a borrar 16:9-20 ni a tratarlo como si la discusión textual no existiera: permite leer el material recibido y, a la vez, dejar pendiente la comparación de manuscritos y ediciones críticas.
+
+La dependencia argumental del cierre largo puede comprobarse internamente. **ἀπήγγειλεν**, _apēngeilen_, «anunció», y **ἠπίστησαν**, _ēpistēsan_, «no creyeron», muestran que la comisión aparece después de testimonio rechazado; **ὠνείδισεν**, _ōneidisen_, «reprendió», explica la corrección de los once antes de **κηρύξατε**, _kēryxate_, «proclamen públicamente». Finalmente **ἐκήρυξαν**, _ekēryxan_, «proclamaron», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», cierran con palabra anunciada y confirmada. La forma **τέλος**, _telos_, «fin o culminación», no resuelve por sí sola la historia de transmisión.
+
+Este control también limita la atribución a Eric. El título público permite atribuirle la pregunta sobre domingo y «día del Señor», pero no una defensa textual específica del final largo. Marcos 16, tal como lo conserva el corpus local, sitúa el primer día después del Shabat, anuncia la resurrección, corrige la incredulidad y envía a proclamar. La discusión del calendario y la historia textual son dependencias distintas; ninguna debe desplazar la secuencia narrativa.
+
 ## Pendiente de verificar: calendario y transmisión del cierre
 
 - [ ] Recuperar una transcripción o una fuente pública equivalente para documentar el argumento completo de Eric sobre domingo y «día del Señor»; el título solo permite atribuir la pregunta, no reconstruir la exposición.
