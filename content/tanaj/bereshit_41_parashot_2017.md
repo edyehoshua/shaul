@@ -7,6 +7,12 @@ tags:
   - bereshit
 references:
   - "#bereshit_41_1"
+  - "#bereshit_41_14-16"
+  - "#bereshit_41_25-36"
+  - "#bereshit_41_47-57"
+  - "#bereshit_42_18-24"
+  - "#bereshit_43_8-9"
+  - "#bereshit_44_16-34"
 sources:
   - "https://www.youtube.com/watch?v=Ohs6ntTFAL4"
   - "https://www.youtube.com/watch?v=sdJBSJjFIns"

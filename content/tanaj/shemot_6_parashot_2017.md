@@ -7,6 +7,11 @@ tags:
   - shemot
 references:
   - "#shemot_6_1"
+  - "#shemot_6_2-5"
+  - "#shemot_6_6-9"
+  - "#shemot_6_10-13"
+  - "#shemot_6_14-27"
+  - "#shemot_6_28-30"
 sources:
   - "https://www.youtube.com/watch?v=jmaOISSHuOs"
   - "https://www.youtube.com/watch?v=YFejem1jPTk"
