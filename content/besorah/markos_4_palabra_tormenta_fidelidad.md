@@ -198,7 +198,13 @@ Solo después aparece el cruce. **λέγει αὐτοῖς**, _legei autois_, �
 - [ ] Estudiar la relación entre **(משל)** como comparación y las formas de la raíz que expresan gobierno; la conexión de la clase es pedagógica.
 - [ ] Revisar los vínculos intertextuales entre Marcos 4, Tehilim 89 y Tehilim 107 sin presentarlos como citas directas.
 
-## Control de la observación semítica: gobernar, enseñar y confiar
+## Reparación dirigida: la escucha se reconoce por fruto y respuesta
+
+El capítulo no permite separar la observación atribuida a Eric —escuchar implica una respuesta responsable— de las escenas que la prueban. En 4:14, **ὁ σπείρων τὸν λόγον**, _ho speirōn ton logon_, «el que siembra la palabra», identifica el contenido sembrado; en 4:20, **παραδέχονται**, _paradechontai_, «reciben o aceptan», precede a **καρποφοροῦσιν**, _karpophorousin_, «dan fruto». La relación con **(שמע)**, _shema_, «oír, atender y obedecer», es aproximada y pedagógica: el verbo griego **ἀκούω** sigue significando «oír o escuchar», y el fruto pertenece al desarrollo narrativo, no a una definición secreta del término.
+
+La medida y el cruce mantienen la misma dependencia. **βλέπετε**, _blepete_, «miren o tengan cuidado», en 4:24 exige atención; luego **διέλθωμεν**, _diēlthōmen_, «pasemos o atravesemos», en 4:35 convierte la palabra recibida en una dirección concreta. La tormenta no demuestra que los discípulos hayan fabricado el peligro ni que toda aflicción sea castigo. Sí revela que la pregunta por **πίστις**, _pistis_, «fe, confianza o fidelidad», debe leerse después de la orden, el miedo y la calma. Así, la aplicación de la clase queda apoyada como lectura narrativa cualificada, no como promesa de controlar el mar.
+
+## Control adicional: la palabra prueba al oyente y revela al Maestro
 
 En la parte 17, Eric llama la atención sobre Tehilim 89:9 y sobre el parecido de sonido entre la forma hebrea que allí expresa gobierno sobre el mar y el campo de **(משל)**, _mashal_, «comparación o parábola». La observación es concreta: el mismo capítulo que contiene parábolas termina con Yehoshua gobernando una tormenta, y el salmo describe a יהוה gobernando la soberbia de las aguas. El texto local permite sostener el puente temático, pero no debe confundirse la raíz **(משל)**, _mashal_, con toda forma de «gobernar», ni afirmarse que Marcos 4:33 traduce directamente el hebreo de Tehilim. La relación entre «componer una comparación» y «gobernar» queda como propuesta léxica de la clase, pendiente de cotejo histórico y morfológico.
 
