@@ -260,6 +260,16 @@ Marcos 8 lleva del pan dado y la señal rechazada a una vista incompleta y a una
 
 La claridad final no consiste en conocer una etiqueta religiosa, sino en reconocer que la gloria del Mesías no cancela la cruz y que la vida se salva precisamente al no retenerla contra la Besorah.
 
+## Control final de orden: la provisión prueba la confesión
+
+La unidad completa mantiene una prueba progresiva. En 8:1-9, **σπλαγχνίζομαι**, _splanchnizomai_, «compadecerse», explica la provisión de los panes; en 8:10-13, **σημεῖον**, _sēmeion_, «señal», nombra la demanda que Yehoshua no concede. La clase de Eric distingue ambos movimientos, y el texto confirma que la compasión hacia la multitud no debe confundirse con una demostración hecha para satisfacer a quien tienta.
+
+En 8:14-21, **ζύμη**, _zymē_, «levadura o fermento», es interpretada por los discípulos como falta de pan, pero **νοεῖτε**, _noeite_, «entender», y **πεπωρωμένη**, _pepōrōmenē_, «endurecida o embotada», muestran que el problema es la comprensión de lo ya visto. La memoria de cinco panes y siete panes prepara la escena siguiente: el ciego ve primero de manera parcial y luego con claridad. La relación literaria es una inferencia controlada por el orden, no una alegoría obligatoria.
+
+En 8:27-33, la confesión **ὁ χριστός**, _ho christos_, «el Mesías, el Ungido», queda inmediatamente llenada por **διδάσκειν**, _didaskein_, «enseñar»: el Ben HaAdam debe padecer, ser rechazado, morir y levantarse. Kefa **ἐπιτιμάω**, _epitimaō_, «reprender o censurar», porque no acepta ese contenido; Yehoshua responde con **φρονέω**, _phroneō_, «pensar o tener la mente puesta». La observación de Eric sobre una confesión correcta pero incompleta recibe apoyo directo: la identidad no puede separarse del camino que Yehoshua anuncia.
+
+Finalmente, 8:34-38 convierte esa corrección en discipulado. **ἀκολουθέω**, _akoloutheō_, «seguir», y **ὀπίσω**, _opisō_, «detrás», sitúan al discípulo detrás de Yehoshua; **ἀπαρνέομαι**, _aparneomai_, «negarse o renunciar», y **σταυρός**, _stauros_, «cruz o madero de ejecución», describen el costo público. **ψυχή**, _psychē_, «vida, persona o ser viviente», no ordena buscar daño: el contraste es perder la vida por Yehoshua y la Besorah frente a ganar el mundo entero. Así, Marcos 8 termina probando la visión por su fruto: recordar la provisión, recibir la corrección del título y seguir al Mesías sin adelantarse a su palabra.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
