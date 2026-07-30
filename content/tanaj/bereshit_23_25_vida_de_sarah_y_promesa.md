@@ -91,6 +91,20 @@ La genealogía de Ismael enumera doce príncipes y sus territorios (#genesis_25_
 | **(נחם)**    | _najam_         | consolar, lamentar, cambiar de disposición | En #genesis_24_67 describe el consuelo de Isaac después de recibir a Rebeca.           | Contextual y directa como consuelo; no elimina el duelo por Sarah.      |
 | **(ירשׁ)**   | _yarash_        | poseer, heredar, recibir en posesión       | En el marco de la herencia de Isaac, ilumina la continuidad de la promesa.             | Aproximada si se usa para resumir toda la teología de la tierra.        |
 
+## Control de la lectura y límites de atribución
+
+La secuencia de la perícopa impide convertir el título público de Eric en una reconstrucción total de la clase. En 23:1-20, el duelo y la compra de Majpeláh son el marco material de la memoria de Sarah; en 24:1-67, la misión del siervo, la oración, la observación y la respuesta de Rebeca deben permanecer en ese orden; en 25:1-18, la herencia de Isaac y la genealogía de Ismael deben leerse juntas. Esa organización es **directa** respecto del texto local. La afirmación de que cada término del título resuelve por sí solo la edad, virginidad o consentimiento de Rebeca sería **inferencial** e ilegítima.
+
+La observación atribuible a Eric queda limitada al foco anunciado —**'almah**, **na'arah** y **betulah**— y no se presenta como cita literal. **(בתולה)**, _betulah_, significa joven virgen o doncella; en #genesis_24_16 su fuerza contextual participa en la descripción de Rebeca, pero no autoriza a borrar los verbos, las acciones y la pregunta explícita de 24:57-58. **(שׁאל)**, _sha'al_, significa pedir, preguntar o consultar; su fuerza narrativa en la decisión familiar ayuda a mostrar que la partida de Rebeca se relata mediante una pregunta y una respuesta, no mediante una deducción etimológica. «Consentimiento» es una síntesis **pedagógica** del intercambio; el texto sí registra su respuesta, pero no define con ese sustantivo moderno todos los aspectos de la práctica matrimonial.
+
+La continuidad de la promesa también requiere calificación. **(זרע)**, _zera‘_, significa semilla, descendencia o linaje; su fuerza contextual cambia entre una descendencia concreta y una línea narrativa de promesa. «Linaje» es **aproximado** cuando resume toda la sección. El relato honra a Sarah, da a Isaac la herencia principal, bendice a Ismael y reúne a Isaac e Ismael en la sepultura de Abraham. La lectura canónica puede distinguir funciones sin convertir esa distinción en desprecio de Ismael ni en una afirmación que el capítulo no formula.
+
+## Pendiente de verificar
+
+- [ ] Recuperar un transcript público utilizable de `youtube:c2tSRBEl5wU` para separar observaciones verbales de lo que solo permite conocer el título.
+- [ ] Comparar el uso de **'almah**, **na'arah** y **betulah** en el conjunto de las Escrituras antes de formular conclusiones generales sobre edad o estado civil.
+- [ ] Revisar el vocabulario de herencia y bendición en Bereshit 25 para mantener diferenciadas la línea de la promesa y la bendición concedida a Ismael.
+
 ## Conclusión
 
 La muerte de Sarah no cierra la promesa: Abraham sepulta con honra, busca continuidad para Isaac y reconoce la guía de יהוה. Rebeca no aparece como una etiqueta aislada, sino como una mujer descrita por palabras, acciones y consentimiento dentro de una historia familiar. La muerte de Abraham reúne a Isaac e Ismael, y la genealogía de Ismael confirma que la bendición de Elohim no debe reducirse a desprecio por una rama. El foco público de Eric en **'almah**, **na'arah** y **betulah** puede ser estudiado con provecho cuando cada término conserva su forma, sentido ordinario y límite contextual.

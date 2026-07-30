@@ -64,6 +64,14 @@ Romanos 6:12-14 ordena que el pecado no reine en el cuerpo mortal y que las part
 
 La gracia no convierte el deseo en rey, pero tampoco enseña que el cuerpo sea malo por ser cuerpo. Pablo habla de miembros corporales como instrumentos que pueden servir a la injusticia o a Elohim. **(ὅπλον)**, _hoplon_, significa arma, instrumento o herramienta; su fuerza contextual hace visible que la conducta participa en la obediencia. «Instrumento» es **aproximado**. Así se corrigen dos extremos: la pasión no es destino inevitable, y la santidad no es desprecio de la creación corporal.
 
+## Control canónico de las mitzvot 262–267
+
+El título público de la fuente anuncia las mitzvot 262–267 como una enseñanza sobre no ser gobernados por las pasiones, pero no conserva aquí una enumeración verificable de cada número. Por eso no se asigna un precepto concreto a cada cifra. La evaluación sigue el argumento bíblico en orden: Bereshit 4:7 muestra la amenaza del pecado y la responsabilidad de gobernar; Mishlei 14:29, 16:32 y 25:28 describen la paciencia y el dominio del espíritu; Yaakov 1:19-20 limita la ira humana; Galatim 5:22-23 ubica el dominio propio dentro del fruto del Ruaj; y Romanos 6:12-14 niega al pecado el derecho de reinar sobre el cuerpo. Esa secuencia es **directa** como lectura intertextual, mientras identificarla con el contenido exacto de cada mitzvá es **inferencial** mientras falte el transcript.
+
+La palabra «pasiones» debe conservar su alcance cualificado. **(ἐπιθυμία)**, _epithymia_, significa deseo, anhelo o apetito; en Yaakov 1:14-15 su fuerza contextual describe un deseo que atrae y puede concebir pecado. «Pasión» es una glosa **aproximada y pedagógica**, no una condena de toda aspiración ni de todo deseo creado. **(κρατέω)**, _krateō_, significa sujetar, apoderarse o mantener firme; su fuerza ordinaria ayuda a explicar la idea de no quedar dominado, pero no reemplaza el vocabulario específico de Romanos 6 ni demuestra por sí solo una técnica de autodominio. La lectura responsable, por tanto, no es reprimir indiscriminadamente, sino discernir, retardar la ira, recibir el fruto del Ruaj y presentar el cuerpo a Elohim.
+
+La observación atribuible a Eric recibe **apoyo textual cualificado**: las Escrituras sí contraponen el gobierno del pecado con la obediencia y el dominio propio. Pero no se atribuye al expositor una lista de aplicaciones ni una definición de cada número que la fuente disponible no permite verificar. La gracia sigue siendo el marco de Romanos 6; «no ser gobernado por pasiones» no significa justificación por fuerza de voluntad, y «dominio propio» no autoriza despreciar el cuerpo ni controlar la conciencia ajena.
+
 ## Hoja léxica
 
 | Forma fuente        | Transliteración | Sentido ordinario           | Fuerza contextual                                            | Calificación                        |
