@@ -76,6 +76,18 @@ En 6:63 Eric lee «el Rúaj es el que da vida» como una afirmación acerca del 
 
 La pregunta final a los doce recibe la respuesta de Shimón Kefa: no hay otro lugar adonde ir porque Yehoshua tiene palabras de vida olam (6:67-69). El capítulo termina, sin embargo, con la referencia a Judas (6:70-71). Así, la permanencia que confiesa Kefa no se mide por entusiasmo ante el pan, sino por escuchar cuando la palabra resulta difícil y por dejar que el relato conserve su advertencia interna.
 
+## Léxico clave del discurso
+
+| Forma fuente  | Transliteración | Sentido normal                     | Fuerza contextual                                                                                      | Relación con la exposición                                                                              |
+| ------------- | --------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **(πιστεύω)** | _pisteuō_       | creer, confiar, poner la confianza | En 6:29 y 6:35 orienta la obra y el venir hacia el enviado, no sólo una opinión mental.                | Su relación con **(אמונה)**, _emunah_, es aproximada y pedagógica; no una identidad de diccionario.     |
+| **(ἄρτος)**   | _artos_         | pan, alimento                      | En 6:35-51 el pan pasa del sustento recibido al pan vivo que Yehoshua identifica consigo mismo.        | «Pan» es traducción cercana; la aplicación al aprendizaje y la práctica es una inferencia de Eric.      |
+| **(σάρξ)**    | _sarx_          | carne, corporalidad                | En 6:51 intensifica que la vida se comunica por Yehoshua mismo; no permite borrar la palabra «carne».  | Su correspondencia con **(בשר)**, _basar_, es aproximada entre lenguas.                                 |
+| **(πνεῦμα)**  | _pneuma_        | espíritu, aliento, viento          | En 6:63 aparece como el que da vida y se contrapone a una lectura meramente material de la carne.      | Delitzsch usa **(רוח)**, _ruaj_; la equivalencia es traductiva y contextual, no exhaustiva.             |
+| **(ῥήματα)**  | _rēmata_        | palabras, dichos                   | Las palabras habladas por Yehoshua son «Rúaj y vida» en 6:63 y explican el tropiezo de los discípulos. | La aplicación de Eric al estudio y la práctica conserva el efecto del discurso, pero amplía su alcance. |
+
+Esta hoja mantiene juntas las dos afirmaciones que la clase debe explicar: el discurso habla de carne y, a la vez, dice que el Rúaj da vida. No resuelve la tensión eliminando uno de los términos; deja que 6:51, 6:60 y 6:63 regulen la lectura en su propio orden.
+
 ## Conclusión
 
 La exposición de Eric pone en primer plano Pésaj, Moshéh, el maná, la palabra, Abba y Rúaj. Leída en el orden de Yojanán 6, esa red de observaciones no diluye el capítulo: muestra el signo, confronta una búsqueda satisfecha con pan, identifica a Yehoshua como pan de vida y llega a la división entre retirarse y permanecer. Los términos cargados deben servir a esa secuencia y conservar sus límites de traducción.
