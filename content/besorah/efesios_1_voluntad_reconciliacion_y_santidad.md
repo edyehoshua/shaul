@@ -313,6 +313,10 @@ En 1:11-14 la respuesta comunitaria no queda separada de la palabra. **ἀκού
 
 La oración de 1:15-23 verifica el destino de esa obra. **ἐπίγνωσις**, _epignōsis_, «conocimiento reconocido», tiene como objetos la esperanza, la herencia y el poder; **ἐγείρας**, _egeiras_, «habiendo levantado», y **καθίσας**, _kathisas_, «habiendo sentado», identifican el poder por la resurrección y exaltación del Mesías. Finalmente, **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», impiden leer la voluntad revelada como una clave individual desligada de la asamblea. La observación atribuible de Eric queda apoyada en su límite: voluntad, gracia y revelación desembocan en esperanza compartida y vida bajo la cabeza.
 
+## Dependencia canónica: de la cabeza a un solo pueblo
+
+Efesios 1 deja preparada la lectura de Efesios 2: la asamblea no recibe una identidad autónoma, sino que vive bajo la **(κεφαλή)**, _kephalē_, «cabeza», y participa de una obra de gracia que el capítulo atribuye a Elohim. La conexión con Efesios 2 debe leerse como continuidad canónica, no como si 1:22-23 ya contuviera todos sus detalles: el capítulo siguiente desarrolla la cercanía, la paz y la formación de un solo pueblo. Del mismo modo, la relación con Colosenses 1 ilumina el lenguaje de cabeza y plenitud, pero permanece comparación apostólica y no reemplaza la sintaxis propia de Efesios 1.
+
 ## Conclusión
 
 La apertura de Efesios sitúa a Pablo bajo la voluntad de Elohim, no bajo una iniciativa aislada. La clase enlaza esa frase con la reconciliación obrada en el Mesías Yehoshua y con frutos concretos: santidad, gratitud, discernimiento y bien. Los textos comparados sostienen esos llamados, mientras que sus definiciones generales y aplicaciones particulares deben seguir siendo examinadas a la luz de sus contextos.

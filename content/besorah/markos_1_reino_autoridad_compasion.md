@@ -129,6 +129,9 @@ El leproso lleva la cadena a la pureza pública. **λεπρός**, _lepros_, «p
 
 ## Pendiente de verificar
 
+- [ ] Cotejar la terminología de **(λεπρός)** y su relación histórica con **(צרעת)** en una fuente léxica y en el contexto de Vaikra antes de hacer equivalencias diagnósticas.
+- [ ] Verificar en una edición crítica si las variantes de Marcos 1:41 cambian la lectura de la compasión de Yehoshua; esta nota sigue el texto TTH y no presenta una variante como lectura segura.
+
 ## Control de orden textual: anuncio, autoridad y retorno al testimonio
 
 Marcos 1 primero prepara el camino (1:1-8), después confirma al Hijo en la inmersión y la prueba (1:9-13), y solo entonces anuncia que el reino se ha acercado (1:14-15). **εὐαγγέλιον** (_euangelion_, «buena noticia») nombra el anuncio; **μετανοεῖτε** (_metanoeite_, «vuelvan o cambien de rumbo») y **πιστεύετε** (_pisteuete_, «confíen») describen la respuesta coordinada. La lectura de Eric sobre el reino como intervención gobernante se ajusta a **βασιλεία** (_basileia_, «reino o reinado»), cuya equivalencia con **(מלכות)**, _maljut_, es cercana y pedagógica, no una identidad de formas.
