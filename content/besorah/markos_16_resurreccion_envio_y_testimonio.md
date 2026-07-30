@@ -193,8 +193,6 @@ La comisión de 16:15-18 tampoco entrega una autoridad autónoma al mensajero. *
 
 Finalmente, 16:20 usa **(ἐκήρυξαν)**, _ekēryxan_, «proclamaron», junto con **(συνεργοῦντος)**, _synergountos_, «obrando juntamente», y **(βεβαιοῦντος)**, _bebaiountos_, «confirmando o haciendo firme». El sujeto humano anuncia; יהוה acompaña y confirma la palabra. Así, la observación pública de Eric sobre el nombre del domingo queda limitada con precisión: Marcos no llama «día del Señor» al primer día en este capítulo, pero la culminación narrativa no es un calendario alternativo, sino resurrección, envío y palabra confirmada.
 
-## Pendiente de verificar
-
 ## Control ampliado: el testimonio nace de una ausencia comprobable (16:1-20)
 
 La observación pública de Eric sobre el nombre del primer día debe conservarse junto con la evidencia que Marcos coloca inmediatamente después. **ἀποκεκύλισται**, _apokekylistai_, «ha sido rodada fuera», describe la piedra ya retirada; **ἴδετε**, _idete_, «miren», dirige la atención al lugar; y **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta la ausencia de Yehoshua. La comparación con **(ראה)**, _raah_, «ver», y **(קום)**, _qum_, «levantarse», es pedagógica y aproximada: ayuda a ordenar el campo bíblico, pero no sustituye la forma griega ni demuestra una retroversión hebrea.

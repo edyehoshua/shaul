@@ -169,6 +169,12 @@ El encargo se vuelve visible en la asamblea: **γνωρισθῇ**, _gnōristhē
 
 La oración prueba el resultado del misterio con formas recibidas. **ἐνδυναμωθῆναι**, _endynamōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», en 3:16-17 describen lo que Pablo pide al Padre por medio del Rúaj y para el Mesías en los corazones. **σὺν πᾶσιν τοῖς ἁγίοις**, _syn pasin tois hagiois_, «con todos los santos», limita una lectura individualista de **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», en 3:18. Eric relaciona la mente, el Rúaj y la formación; el texto confirma fortalecimiento, morada y comprensión compartida, pero no convierte esas glosas en equivalencias léxicas universales.
 
+## Control de 3:10-13: sabiduría pública y tribulación
+
+La enseñanza sobre una gracia que sostiene debe pasar también por la asamblea y la tribulación, no detenerse en la experiencia de Pablo. En 3:10, **γνωρισθῇ**, _gnōristhē_, «sea dado a conocer», está en forma pasiva y presenta la sabiduría de Elohim como algo que llega a manifestarse por medio de la asamblea; **πολυποίκιλος**, _polypoikilos_, «multiforme o de muchas clases», califica esa sabiduría. La clase puede relacionar esta manifestación con una comunidad que hace visible la riqueza del Mesías, pero el texto no identifica automáticamente cada poder celestial con una institución contemporánea.
+
+En 3:12-13, **παρρησία**, _parrēsia_, «franqueza o confianza», y **προσαγωγή**, _prosagōgē_, «acceso o acercamiento», describen el acceso en el Mesías; **θλῖψις**, _thlipsis_, «aflicción o presión», nombra las tribulaciones de Pablo. El argumento queda así probado en dos direcciones: la revelación se vuelve pública mediante la asamblea y la prisión no debe producir desánimo. La comparación de **παρρησία** con la libertad de hablar propia de un mensajero es aproximada; no convierte la franqueza en licencia para una autoridad privada.
+
 ## Mapa de la enseñanza de Eric
 
 | Punto de enseñanza tomado de Eric                                                                                                | Versos seguidos                       | Evaluación en esta nota                                                                                                                  |
