@@ -287,6 +287,16 @@ La doxología cierra el movimiento con una medida que no pertenece al esfuerzo h
 - [ ] Examinar la propuesta de sustituir «espíritu» por «mente», «incorruptiblemente» o «acción» en #ephesians_3_5 y #corinthians1_2_10-16; las formas hebreas y griegas, la sintaxis y los contextos deben conservarse y estudiarse antes de adoptar una equivalencia definitiva.
 - [ ] Verificar la conexión léxica propuesta entre la acción del poder en #ephesians_3_7 y #ephesians_1_19, así como las conclusiones doctrinales que la clase deriva de ella.
 
+## Control de dependencia: del encargo a la doxología
+
+Efesios 3 no deja el misterio en la experiencia privada de Pablo. En 3:1-5, **δέσμιος**, _desmios_, «prisionero o encadenado», y **οἰκονομία**, _oikonomia_, «administración o encargo», sitúan la gracia «para vosotros, los gentiles»; **ἀποκάλυψις**, _apokalypsis_, «revelación o descubrimiento», y **γνωρίζω**, _gnōrizō_, «dar a conocer», muestran que lo recibido se comunica. La comparación con **אסיר**, _asir_, «prisionero», y **גלה**, _galah_, «descubrir o llevar al descubierto», puede orientar el estudio hebreo, pero no reemplaza la forma griega ni demuestra una retroversión.
+
+En 3:6 el contenido se vuelve verificable y corporativo. **συγκληρονόμοι**, _synklēnomoi_, «coherederos», **σύσσωμα**, _syssōma_, «del mismo cuerpo», y **συμμέτοχα**, _symmetocha_, «copartícipes», están coordinados y limitados por «la promesa en el Mesías por medio de la buena noticia». La tríada sostiene participación común de los gentiles; no autoriza a convertir «sustentabilidad» en la definición exhaustiva de **οἰκονομία**, ni a inferir una jerarquía espiritual desde una sola palabra.
+
+La sección 3:7-13 lleva esa participación al servicio y al acceso. **διάκονος**, _diakonos_, «servidor o ministro», describe la función recibida; **ἐνεργέω**, _energeō_, «obrar eficazmente», atribuye la capacidad al poder de Elohim; y **παρρησία**, _parrēsia_, «franqueza o confianza», junto con **προσαγωγή**, _prosagōgē_, «acceso o acercamiento», describe la entrada al Padre. **θλῖψις**, _thlipsis_, «aflicción o presión», no invalida el encargo: Pablo pide que la comunidad no se desanime por sus tribulaciones.
+
+La oración de 3:14-21 confirma el destino de la revelación. **κραταιόω**, _krataioō_, «fortalecer», **κατοικέω**, _katoikeō_, «habitar», y **ῥιζόω**, _rhizoō_, «arraigar», ordenan las peticiones hacia el ser interior, el corazón y el amor; **καταλαμβάνω**, _katalambanō_, «comprender o captar», ocurre «con todos los santos»; y **πληρόω**, _plēroō_, «llenar o llevar a plenitud», queda como don recibido. La doxología con **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», devuelve la gloria a Elohim en la asamblea y en el Mesías. Así la enseñanza de Eric queda conservada y probada en el orden encargo, participación, servicio, oración y gloria compartida.
+
 ## Conclusión
 
 Efesios 3 presenta la gracia como un encargo confiado a Pablo y el misterio como algo revelado y comunicado para que sea comprendido. El contenido que sigue impide aislar esa gracia en la experiencia individual: incluye a los gentiles como participantes de la promesa en Yehoshua el Mesías. Las analogías de prisión, casa y sustento propuestas por la clase pueden orientar el estudio, siempre que se mantengan bajo el sentido y el contexto de los versículos.
