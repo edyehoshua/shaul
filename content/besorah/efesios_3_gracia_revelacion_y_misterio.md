@@ -297,8 +297,6 @@ La sección 3:7-13 lleva esa participación al servicio y al acceso. **διάκ�
 
 La oración de 3:14-21 confirma el destino de la revelación. **κραταιόω**, _krataioō_, «fortalecer», **κατοικέω**, _katoikeō_, «habitar», y **ῥιζόω**, _rhizoō_, «arraigar», ordenan las peticiones hacia el ser interior, el corazón y el amor; **καταλαμβάνω**, _katalambanō_, «comprender o captar», ocurre «con todos los santos»; y **πληρόω**, _plēroō_, «llenar o llevar a plenitud», queda como don recibido. La doxología con **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», devuelve la gloria a Elohim en la asamblea y en el Mesías. Así la enseñanza de Eric queda conservada y probada en el orden encargo, participación, servicio, oración y gloria compartida.
 
-## Conclusión
-
 Efesios 3 presenta la gracia como un encargo confiado a Pablo y el misterio como algo revelado y comunicado para que sea comprendido. El contenido que sigue impide aislar esa gracia en la experiencia individual: incluye a los gentiles como participantes de la promesa en Yehoshua el Mesías. Las analogías de prisión, casa y sustento propuestas por la clase pueden orientar el estudio, siempre que se mantengan bajo el sentido y el contexto de los versículos.
 
 ## Ver también
@@ -324,6 +322,19 @@ En 3:3-7 el misterio deja de ser una palabra general y recibe una prueba textual
 
 El capítulo verifica esa inclusión en 3:8-21. **διάκονος**, _diakonos_, «servidor o ministro», y **ἐνέργεια**, _energeia_, «acción eficaz», atribuyen el ministerio y el poder a Elohim; **παρρησία**, _parrēsia_, «franqueza o confianza», y **προσαγωγή**, _prosagōgē_, «acceso o acercamiento», describen la entrada común en el Mesías. Después **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», **κατοικῆσαι**, _katoikēsai_, «habitar», y **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», conducen a fuerza interior, morada y comprensión «con todos los santos». La aplicación de Eric sobre mente, escuela y riqueza queda conservada como enseñanza atribuida, mientras el texto prueba una secuencia más precisa: encargo, participación, fortalecimiento, amor y gloria comunitaria.
 
+## Control de dependencia: revelación, tribulación y oración (3:8-21)
+
+La parte final del capítulo no abandona el misterio definido en 3:6. En 3:8-9, **ἐλάχιστος**, _elachistos_, «el más pequeño», y **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», presentan a Pablo como servidor de una riqueza que no posee para sí; **ἀνεξιχνίαστος**, _anexichniastos_, «inescrutable o imposible de rastrear por completo», limita cualquier intento de encerrar al Mesías en una fórmula. La observación de Eric sobre una gracia que sostiene a otros queda apoyada como encargo público, mientras «sustentabilidad» permanece como aplicación de **οἰκονομία**, _oikonomia_, no como traducción exhaustiva.
+
+En 3:10-13 el destinatario del encargo vuelve a ser comunitario. **γνωρισθῇ**, _gnōristhē_, «sea dado a conocer», describe la manifestación de la sabiduría por medio de la asamblea; **πολυποίκιλος**, _polypoikilos_, «multiforme o de muchas clases», califica esa sabiduría; y **θλῖψις**, _thlipsis_, «aflicción o presión», nombra las tribulaciones de Pablo. El texto no permite tratar el sufrimiento como prueba automática de aprobación ni convertir cada poder celestial en una estructura contemporánea identificable. Sí permite afirmar que la asamblea hace visible la sabiduría y que Pablo pide que sus cadenas no desanimen a los gentiles.
+
+La oración de 3:14-21 prueba el fruto del misterio mediante una cadena recibida. **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», describen peticiones al Padre para el ser interior y el corazón; **ῥιζωθέντες**, _rhizōthentes_, «habiendo sido arraigados», y **θεμελιωθέντες**, _themeliōthentes_, «habiendo sido cimentados», sitúan esa vida en amor. Después **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», ocurre «con todos los santos», y **πληρωθῆτε**, _plērōthēte_, «seáis llenados», aparece como recepción, no como técnica. Así, la mente y la escuela del Mesías que Eric desarrolla pueden conservarse como aplicación atribuida, pero la prueba local es más precisa: encargo, participación, perseverancia, comprensión común y gloria a Elohim.
+
+La doxología confirma el límite. **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», atribuye la sobreabundancia al poder que obra en la comunidad; **δόξα**, _doxa_, «gloria u honor», termina dirigida a Elohim en la asamblea y en el Mesías. La secuencia protege la nota contra una lectura individualista: la revelación se comunica, los gentiles comparten promesa y cuerpo, la tribulación no debe producir desánimo y la oración busca una plenitud recibida junto con todos los santos.
+
+## Conclusión
+
+Efesios 3 sigue una sola línea: Pablo recibe una administración de gracia, comunica por revelación el misterio y define ese misterio como la participación conjunta de los gentiles en la herencia, el cuerpo y la promesa en el Mesías. La oración final muestra el destino de ese encargo: una comunidad fortalecida por el Rúaj, habitada por el Mesías, arraigada en amor y capaz de comprender «con todos los santos». Las formulaciones de Eric sobre sustentabilidad, mente, riqueza y escuela se conservan como observaciones públicas de la enseñanza; el texto sostiene con mayor precisión el encargo, la inclusión, la formación comunitaria y la gloria dirigida a Elohim.
 ## Créditos
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.

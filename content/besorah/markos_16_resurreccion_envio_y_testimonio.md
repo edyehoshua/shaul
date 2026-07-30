@@ -207,8 +207,6 @@ La misma subordinación se ve en el cierre largo. La comisión **κηρύξατ�
 - [ ] Cotejar la historia textual de Marcos 16:9-20 en una edición crítica, sin alterar el contenido del corpus local.
 - [ ] Comparar todos los pasajes del Nuevo Testamento que usan «día del Señor» antes de formular una conclusión canónica amplia.
 
-## Conclusión
-
 ## Control dirigido: del sepulcro comprobable a la palabra confirmada
 
 Marcos ordena la autoridad del testimonio mediante acciones concretas. **(ἀποκεκύλισται)**, _apokekylistai_, «ha sido rodada fuera», presenta la piedra ya retirada; **(ἴδετε)**, _idete_, «miren», dirige a las mujeres al lugar; y **(ἠγέρθη)**, _ēgerthē_, «fue levantado», interpreta la ausencia del cuerpo. La clase de Eric pone el foco en el primer día y el «día del Señor»; el texto permite conservar esa pregunta, pero muestra que el día solo enmarca la visita. El centro de la perícopa es una evidencia recibida y una palabra que debe transmitirse.
@@ -224,6 +222,10 @@ Marcos 16 no permite que una discusión sobre el nombre del primer día absorba 
 El argumento decisivo se mueve enseguida del tiempo a la evidencia. **ἴδετε**, _idete_, «miren», dirige a las mujeres al lugar; **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta la ausencia del cuerpo; y **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», convierte la comprobación en responsabilidad comunitaria. La noticia encuentra incredulidad —**ἠπίστησαν**, _ēpistēsan_, «no creyeron»— antes de la comisión, de modo que la misión no depende de una recepción humana inmediata.
 
 Finalmente, **κηρύξατε**, _kēryxate_, «proclamen públicamente», y **ἐκήρυξαν**, _ekēryxan_, «proclamaron», forman el marco verbal del envío. **συνεργοῦντος**, _synergountos_, «obrando juntamente», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», atribuyen a יהוה el acompañamiento y la confirmación de la palabra, no la sustitución de la palabra por señales. La observación pública de Eric queda así delimitada con honestidad: el título de la clase abre una pregunta calendárica legítima, pero Marcos 16 culmina en resurrección anunciada, testigos corregidos, proclamación y confirmación divina.
+
+## Conclusión
+
+La secuencia de Marcos 16 debe conservarse completa: después del Shabat, las mujeres encuentran el sepulcro abierto; reciben el anuncio de que Yehoshua fue levantado y que va delante de sus discípulos; los testigos enfrentan incredulidad y corrección; y la comunidad es enviada a proclamar la buena noticia. El primer día de la semana ubica la visita, pero el capítulo no lo llama «día del Señor» ni lo presenta como la fuente de autoridad de la misión. La observación pública de Eric queda documentada como una pregunta calendárica concreta, mientras el texto local prueba que el cierre descansa en resurrección, testimonio, obediencia y palabra confirmada por יהוה.
 
 ## Créditos
 
