@@ -26,7 +26,7 @@ Yojanán 19:1-30 no presenta la cruz como un accidente sin interpretación: el g
 
 ## Alcance de la nota
 
-La fuente pública es «El Evangelio Según Yojanán/Juan Parte 71 Cap 19». La nota recorre 19:1-30, el tramo de flagelación, sentencia, crucifixión y muerte; 19:31-42 se desarrolla en la nota hermana sobre costado y sepultura. El video se cita por URL pública y `source_id`; no se reproduce una transcripción automática como cita literal.
+La fuente pública es «El Evangelio Según Yojanán/Juan Parte 71 Cap 19», título que corresponde a la ficha pública de YouTube del `source_id` citado. La nota recorre 19:1-30, el tramo de flagelación, sentencia, crucifixión y muerte; 19:31-42 se desarrolla en la nota hermana sobre costado y sepultura. El video se cita por URL pública y `source_id`; no se reproduce una transcripción automática como cita literal.
 
 ## Hoja de comparación
 

@@ -25,7 +25,7 @@ Yojanán 19:31-42 cierra la muerte con verificaciones concretas: los soldados di
 
 ## Alcance de la nota
 
-La fuente pública es «El Evangelio Según Yojanán/Juan (Parte 72) Cap 19». Se estudia 19:31-42, desde la solicitud de retirar los cuerpos hasta la sepultura. El video se cita sólo con URL pública y `source_id`; las formulaciones de la clase se presentan como paráfrasis atribuibles, no como transcripción literal.
+La fuente pública es «El Evangelio Según Yojanán/Juan (Parte 72) Cap 19», título que corresponde a la ficha pública de YouTube del `source_id` citado. Se estudia 19:31-42, desde la solicitud de retirar los cuerpos hasta la sepultura. El video se cita sólo con URL pública y `source_id`; las formulaciones de la clase se presentan como paráfrasis atribuibles, no como transcripción literal.
 
 ## Hoja de comparación
 
