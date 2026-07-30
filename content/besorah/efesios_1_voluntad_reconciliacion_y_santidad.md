@@ -317,6 +317,14 @@ La oración de 1:15-23 verifica el destino de esa obra. **ἐπίγνωσις**,
 
 Efesios 1 deja preparada la lectura de Efesios 2: la asamblea no recibe una identidad autónoma, sino que vive bajo la **(κεφαλή)**, _kephalē_, «cabeza», y participa de una obra de gracia que el capítulo atribuye a Elohim. La conexión con Efesios 2 debe leerse como continuidad canónica, no como si 1:22-23 ya contuviera todos sus detalles: el capítulo siguiente desarrolla la cercanía, la paz y la formación de un solo pueblo. Del mismo modo, la relación con Colosenses 1 ilumina el lenguaje de cabeza y plenitud, pero permanece comparación apostólica y no reemplaza la sintaxis propia de Efesios 1.
 
+## Reparación dirigida: propósito comunicado y esperanza compartida
+
+El tramo final debe conservar la dependencia entre propósito y comunidad. **εὐδοκία**, _eudokia_, significa «beneplácito o buena intención» y en 1:5 aparece junto con **προορίσας**, _proorisas_, «habiendo destinado de antemano», para describir el propósito de adopción; **βουλή**, _boulē_, «consejo o determinación», aparece en 1:11 para hablar del designio que obra todas las cosas. Son formas distintas y no deben comprimirse en una sola definición de «voluntad». La comparación con **(רצון)**, _ratson_, «voluntad o beneplácito», sigue siendo aproximada y no una retroversión hebrea del griego.
+
+La respuesta tampoco se separa del anuncio. **ἀκούσαντες**, _akousantes_, «habiendo oído», y **πιστεύσαντες**, _pisteusantes_, «habiendo confiado», preceden a **ἐσφραγίσθητε**, _esphragisthēte_, «fuisteis sellados», en 1:13; después **ἐπίγνωσις**, _epignōsis_, «conocimiento reconocido», orienta la oración hacia esperanza, herencia y poder. La secuencia prueba la lectura de Eric sobre una voluntad que produce identidad y esperanza, pero la limita: no ofrece una clave privada ni convierte el sello en una práctica manipulable.
+
+El poder anunciado recibe una prueba histórica dentro del capítulo. **ἐνέργεια**, _energeia_, significa «operación o actividad eficaz» y se explica por **ἐγείρας**, _egeiras_, «habiendo levantado», y **καθίσας**, _kathisas_, «habiendo sentado», al Mesías. El resultado no es una autoridad individual aislada: **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», cierran el argumento en la asamblea. La relación con **(ראש)**, _rosh_, «cabeza», puede orientar una comparación, pero no autoriza a imponer un organigrama ajeno al texto.
+
 ## Conclusión
 
 La apertura de Efesios sitúa a Pablo bajo la voluntad de Elohim, no bajo una iniciativa aislada. La clase enlaza esa frase con la reconciliación obrada en el Mesías Yehoshua y con frutos concretos: santidad, gratitud, discernimiento y bien. Los textos comparados sostienen esos llamados, mientras que sus definiciones generales y aplicaciones particulares deben seguir siendo examinadas a la luz de sus contextos.

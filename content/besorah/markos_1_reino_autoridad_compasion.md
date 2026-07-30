@@ -219,6 +219,14 @@ En 1:21-34 la enseñanza precede a la liberación y Marcos mantiene categorías 
 
 El cierre une oración, misión y compasión. **καταδιώκω**, _katadiōkō_, «buscar intensamente», describe la presión de los discípulos, pero Yehoshua responde **ἄγωμεν**, _agōmen_, «vayamos», porque salió para **κηρύσσω**, _kērussō_, proclamar en otras ciudades. Luego **ἐὰν θέλῃς**, _ean thelēs_, «si quieres», y **σπλαγχνισθείς**, _splagchnistheis_, «movido a compasión», introducen la limpieza; **μαρτύριον**, _martyrion_, «testimonio», explica el envío al sacerdote. Así, la observación atribuible de Eric queda probada en una cadena de anuncio, distinción, oración, restauración y obediencia a Moshéh.
 
+## Reparación dirigida: la autoridad se prueba en tres categorías
+
+La secuencia final de Marcos 1 exige conservar tres categorías sin mezclarlas. **πυρέσσω**, _pyressō_, significa «tener fiebre» y describe a la suegra de Shimón en 1:30; **δαιμονίζομαι**, _daimonizomai_, significa «estar bajo la acción de un demonio» y pertenece a los casos que Marcos separa en 1:32-34; **λεπρός**, _lepros_, nombra a la persona con una afección llamada lepra en 1:40. La relación con **(קדחת)**, _qadachat_, «fiebre», **(שד)**, _shed_, «ser dañino», y **(צרעת)**, _tsaraat_, «afección de piel o estado de impureza», es comparativa y aproximada. Ninguna de esas relaciones permite diagnosticar todo sufrimiento desde una sola causa.
+
+La autoridad se reconoce por su propósito y por su límite. **ἐξουσία**, _exousia_, significa «autoridad o derecho para actuar»; en 1:22 y 1:27 se manifiesta en enseñanza y mandato, mientras **φιμόω**, _phimoō_, «hacer callar», y **ἔξελθε**, _exelthe_, «sal», muestran una orden dirigida al espíritu. Luego **κηρύσσω**, _kērussō_, «proclamar públicamente», explica la salida hacia otras ciudades, de modo que la autoridad no se convierte en espectáculo local.
+
+El cierre une compasión y restauración reconocible. **σπλαγχνισθείς**, _splagchnistheis_, significa «movido a compasión»; **καθαρίσθητι**, _katharisthēti_, «sé limpiado», expresa la respuesta al leproso; y **μαρτύριον**, _martyrion_, «testimonio», explica el envío al sacerdote. La observación de Eric queda apoyada en orden textual: Yehoshua anuncia, enseña, distingue, ora, restaura y devuelve al procedimiento de Moshéh, sin convertir la sanidad en una fórmula ni la compasión en abolición de la Torá.
+
 ## Conclusión
 
 Marcos 1 llama a recibir el reino mediante retorno a יהוה y confianza en la buena noticia. La autoridad de Yehoshua se hace audible en su enseñanza y visible en una liberación que no confunde con toda enfermedad. Su oración impide reducir la misión a popularidad, y su toque al leproso revela compasión que restaura y, a la vez, dirige al testimonio ordenado por Moshéh.
