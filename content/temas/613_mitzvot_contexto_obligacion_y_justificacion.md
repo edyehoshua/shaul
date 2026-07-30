@@ -119,6 +119,14 @@ La observación pública de Eric en `youtube:0KIf2pmoseI`, aproximadamente entre
 
 La clasificación tampoco debe romper la relación entre liberación y respuesta. **(מִשְׁפָּט)**, _mishpat_, significa juicio, derecho, decisión o norma; su fuerza contextual depende de la perícopa que lo emplea y no equivale automáticamente a una sanción individual. Éxodo 20:2 presenta primero la liberación de יהוה; Levítico 4:27-35 después delimita un caso de pecado inadvertido y su reparación. La observación de Eric recibe así **apoyo textual cualificado**: preguntar quién debe hacer qué evita imponer ritos fuera de situación, pero no convierte la obediencia en una opción indiferente.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad de la exposición              | Observación atribuible                                                                                                                      | Evaluación frente a la Escritura                                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Introducción metodológica            | La referencia de Maimónides reúne una regulación principal, pero otras disposiciones pueden estar dispersas y deben buscarse en la Torah.   | Apoyo metodológico cualificado: la perícopa local gobierna el alcance y la nota no presenta una cita bibliográfica reconstruida. |
+| Obligaciones públicas e individuales | Algunas mitzvot requieren al pueblo o dependen de una situación individual; no todos los preceptos recaen idénticamente sobre cada persona. | Apoyo contextual: Levítico 4:27-35 delimita un caso individual y exige identificar sujeto y ocasión.                             |
+| Mandamientos étnicos y cultuales     | Las obligaciones ligadas a una condición o al templo no deben aplicarse fuera de su destinatario ni generar una penalidad por lo imposible. | Inferencia responsable: Deuteronomio y Levítico deben leerse en su ámbito; la cautela no borra otras obligaciones morales.       |
+| Obediencia y justificación           | La lista no es un salario de salvación; la gracia libera y la Torah orienta una vida de respuesta santa.                                    | Apoyo canónico cualificado: Romanos 3:31 mantiene la Torah mientras rechaza la jactancia.                                        |
 
 ## Conclusión
 
