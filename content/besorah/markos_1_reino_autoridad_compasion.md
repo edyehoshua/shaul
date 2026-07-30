@@ -241,6 +241,14 @@ El capítulo distingue liberación, fiebre y limpieza. En la casa de Shimón, la
 
 La respuesta **(θέλω)**, _thelō_, «quiero o deseo», muestra voluntad de restaurar, mientras **(ἐκαθαρίσθη)**, _ekatharisthē_, «fue limpiado», es un aoristo pasivo que relata el resultado (1:41-42). Yehoshua manda al hombre mostrar su limpieza al sacerdote y ofrecer lo prescrito por Moshéh (1:44). El milagro, por tanto, no cancela el procedimiento de la Torá ni convierte al beneficiario en publicidad ambulante. Cuando el hombre proclama el hecho y la fama se extiende, Yehoshua queda fuera en lugares desiertos y la gente sigue acudiendo: la compasión restaura al individuo, pero la misión continúa gobernada por proclamación, oración y obediencia.
 
+## Control final de dependencia: autoridad bajo el anuncio (1:1-45)
+
+Marcos no presenta los actos de poder como una colección independiente. **εὐαγγέλιον**, _euangelion_, «buena noticia», abre el capítulo; **μετανοεῖτε**, _metanoeite_, «vuelvan o cambien de mente», y **πιστεύετε**, _pisteuete_, «confíen», responden al anuncio de que el reino se ha acercado. Solo después la autoridad se vuelve visible en la enseñanza y en el mandato al espíritu impuro. La conexión semítica con **(בשורה)**, _besorah_, «noticia», es pedagógica y aproximada; la progresión la determina el griego local.
+
+La distinción entre aflicciones también debe seguir el orden narrativo. **πυρέσσω**, _pyressō_, «tener fiebre», describe a la suegra de Shimón; **δαιμονίζομαι**, _daimonizomai_, «estar bajo la acción de un demonio», nombra otra categoría en 1:32; y **λεπρός**, _lepros_, «persona con una afección llamada lepra», introduce al hombre que pide limpieza. Estas formas no autorizan diagnósticos automáticos. La observación de Eric queda apoyada precisamente porque Marcos cambia el vocabulario y la acción: sanar, expulsar y limpiar no son sinónimos.
+
+El cierre muestra para qué sirve la autoridad. **θέλω**, _thelō_, «querer», responde a «si quieres»; **καθαρίζω**, _katharizō_, «limpiar o declarar limpio», describe el resultado; y **μαρτύριον**, _martyrion_, «testimonio o evidencia», explica la presentación ante el sacerdote. La compasión no cancela el testimonio ordenado por Moshéh, mientras la oración en el lugar desierto y la proclamación a otras ciudades impiden medir la misión por fama. Así, la autoridad del capítulo enseña, libera y restaura bajo el anuncio del reino, no bajo una búsqueda privada de espectáculo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
