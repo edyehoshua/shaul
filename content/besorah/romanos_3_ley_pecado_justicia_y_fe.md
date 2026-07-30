@@ -105,6 +105,12 @@ El cierre vuelve explícita la relación con la Torah. **(καύχησις)**, _
 
 Romanos 3:17-31 no permite que un grupo use la Torah para gloriarse ni que otro use la emunah para declararla nula. La Torah revela el pecado y atestigua la justicia; Elohim manifiesta esa justicia en Yehoshua, justifica gratuitamente y reúne a circuncisos e incircuncisos bajo un mismo Señor. La emunah recibe el don sin jactancia y el cierre de Pablo gobierna la lectura: no anulamos la Torah; la establecemos.
 
+## Pendiente de verificar
+
+- [ ] Comparar en léxicos y comentarios trazables los matices de **(ἱλαστήριον)**, _hilastērion_, sin convertir una de sus traducciones posibles en un modelo exhaustivo de expiación.
+- [ ] Revisar la discusión gramatical de **(πίστις)**, _pistis_, en las expresiones relacionadas con Yehoshua antes de decidir si el énfasis contextual recae en la fidelidad de Yehoshua, la confianza en él o una formulación que conserve ambos matices.
+- [ ] Cotejar la relación entre **(νόμος)**, _nomos_, y «Torah» en Romanos 3 con el uso de la carta completa; esta nota conserva «Torah» como decisión contextual y aproximada.
+
 ## Reparación consolidada: la justicia recibida establece la Torah
 
 La única fuente pública de esta nota, `youtube:u0NtR-y-T2Y`, ofrece un foco verificable en «A los que están dentro de la ley» y en Romanos 3:17 en adelante. El título permite una atribución **exacta** del tema público, pero no una reconstrucción de frases de Eric: la prueba debe venir de la perícopa local. En orden, Romanos 3 muestra la boca cerrada y la responsabilidad universal, la justicia manifestada y testificada por Torah y profetas, y una emunah que excluye la jactancia sin anular la Torah.

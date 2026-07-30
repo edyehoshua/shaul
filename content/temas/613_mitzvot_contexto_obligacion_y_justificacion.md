@@ -132,6 +132,12 @@ La clasificación tampoco debe romper la relación entre liberación y respuesta
 
 La segunda sección se entiende mejor cuando el número sirve para localizar y no para reemplazar la Torah. Hay mandamientos públicos, personales, eventuales, étnicos y cultuales; cada uno exige atender a su sujeto y condición. Eric acierta al resistir una obligación plana que convierta la obediencia en miedo o salario. La lectura bíblica añade que la liberación de יהוה convoca a escuchar, reparar y discernir con responsabilidad.
 
+## Pendiente de verificar
+
+- [ ] Recuperar una referencia bibliográfica trazable para la observación atribuida a Eric sobre Maimónides y la relación entre una mitzvá enumerada y las regulaciones dispersas en la Torah.
+- [ ] Precisar, con una fuente histórica identificable, el alcance de las categorías pública, individual, étnica y cultual usadas en la introducción de la clase; aquí se conservan como clasificación pedagógica, no como taxonomía bíblica exhaustiva.
+- [ ] Cotejar la conexión entre Levítico 17:7 y la advertencia apostólica sobre sacrificios a demonios antes de formular una correspondencia más fuerte que la lectura canónica cualificada indicada arriba.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
