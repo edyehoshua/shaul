@@ -102,13 +102,13 @@ La exposición relaciona esta gloria con materialización, transformación y el 
 
 ## Hoja léxica
 
-| Forma             | Sentido usado en la clase          | Tipo de relación                                                    | Cautela                                                                                                                 |
-| ----------------- | ---------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **(παρουσία)**    | venida, presencia o manifestación  | Término griego de #thessalonians2_2_1 y #thessalonians2_2_8         | Cotejar su rango semántico y si exige una presencia física en este contexto.                                            |
-| **(ἐπισυναγωγή)** | reunión o asamblea junto al Señor  | Término griego de #thessalonians2_2_1                               | La relación con «sinagoga» y _qahal_ es pedagógica; no es equivalencia automática.                                      |
-| **(ἀνομία)**      | iniquidad o transgresión de la ley | Término griego asociado a #thessalonians2_2_3 y #thessalonians2_2_7 | La clase lo amplía a tergiversación de la Torah; verificar antes de fijarlo como definición técnica.                    |
-| **(ἀλήθεια)**     | verdad                             | Término griego de #thessalonians2_2_10 y #thessalonians2_2_12-13    | El texto exige amor y fe de la verdad; la ecuación total «verdad = Yehoshua» es un desarrollo intertextual de la clase. |
-| **(כבוד)**        | peso, honra, gloria                | Aproximación hebrea usada para #thessalonians2_2_14                 | Cotejar la relación con el vocabulario griego de «gloria»; no asumir equivalencia uno a uno.                            |
+| Forma             | Sentido usado en la clase          | Tipo de relación                                                    | Cautela                                                                                                                      |
+| ----------------- | ---------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **(παρουσία)**    | venida, presencia o manifestación  | Término griego de #thessalonians2_2_1 y #thessalonians2_2_8         | Cotejar su rango semántico y si exige una presencia física en este contexto.                                                 |
+| **(ἐπισυναγωγή)** | reunión o asamblea junto al Señor  | Término griego de #thessalonians2_2_1                               | La relación con «sinagoga» y _qahal_ es pedagógica; no es equivalencia automática.                                           |
+| **(ἀνομία)**      | iniquidad o transgresión de la ley | Término griego asociado a #thessalonians2_2_3 y #thessalonians2_2_7 | La clase lo amplía a tergiversación de la Torah; verificar antes de fijarlo como definición técnica.                         |
+| **(ἀλήθεια)**     | verdad                             | Término griego de #thessalonians2_2_10 y #thessalonians2_2_12-13    | El texto exige amor y fe de la verdad; la ecuación total «verdad = Yehoshua» es un desarrollo intertextual de la clase.      |
+| **(כבוד)**        | _kavod_; peso, honra, gloria       | Aproximación hebrea usada para #thessalonians2_2_14                 | El sentido ordinario es honra o gloria; su relación con el vocabulario griego es pedagógica y no una equivalencia uno a uno. |
 
 ## Conexiones principales
 
@@ -116,6 +116,12 @@ La exposición relaciona esta gloria con materialización, transformación y el 
 - #thessalonians2_2_3-8 con #thessalonians2_2_9-10: la revelación del inicuo incluye autoexaltación y engaño, pero su final pertenece al Señor.
 - #thessalonians2_2_10-12 con #thessalonians2_2_13-14: el rechazo de la verdad se contrasta con una comunidad llamada por el evangelio para salvación.
 - #thessalonians2_2_16-17 con #thessalonians2_1_11-12: la esperanza de la carta desemboca en palabra, obra y gloria del Nombre de Yehoshua.
+
+## Control de términos argumentales
+
+La clase relaciona la «reunión» con vocabulario hebreo de congregación. La forma **(ἐπισυναγωγή)**, _episynagōgē_, significa reunión o congregación; en #thessalonians2_2_1 describe el acto de reunirse con el Señor. «Reunión» es **directa** en el contexto; conectarla formalmente con _qahal_ o _beit keneset_ es **pedagógico e interlingüístico**, no una equivalencia exacta. **(ἀνομία)**, _anomia_, significa ilegalidad, impiedad o ausencia de norma; en 2:7-8 caracteriza el misterio y al inicuo. «Iniquidad» es **directa como glosa tradicional**, pero traducirla automáticamente como una doctrina completa sobre la Torah sería **inferencial**.
+
+En 2:10, **(ἀγάπη)**, _agapē_, significa amor, benevolencia o afecto; aquí aparece como el amor de la verdad que los que perecen no recibieron. «Amor» es **directo**, y su fuerza contextual es una disposición receptiva hacia la verdad, no una emoción abstracta. En 2:13, **(ἁγιασμός)**, _hagiasmos_, significa santificación o consagración; junto con el Espíritu y la fe de la verdad describe el modo en que la salvación se expresa en la comunidad. «Santificación» es **directa**, mientras convertir la secuencia en un esquema exhaustivo de elección es **inferencial**. En 2:15, **(παράδοσις)**, _paradosis_, significa entrega, tradición o enseñanza transmitida; aquí se refiere a lo recibido por palabra o carta apostólica. «Tradición» es **directa**, con fuerza contextual de instrucción apostólica, no permiso para elevar toda costumbre posterior al mismo rango.
 
 ## Mapa de la enseñanza de Eric
 
