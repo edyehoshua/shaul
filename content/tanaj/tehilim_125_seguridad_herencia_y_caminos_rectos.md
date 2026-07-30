@@ -17,11 +17,9 @@ references:
   - "#zacarías_14_3-5"
 sources:
   - "https://www.youtube.com/watch?v=sDw938pc3OU"
-  - "https://www.youtube.com/watch?v=sTl5WJfH61Q"
   - "docs/scriptures/oe/json/psalms/125.json"
 source_ids:
   - "youtube:sDw938pc3OU"
-  - "youtube:sTl5WJfH61Q"
 translation: "[OE]"
 ---
 
@@ -81,14 +79,6 @@ La frase **יוליכם יהוה**, «יהוה los conducirá», es interpretada
 
 El cierre, **שלום על ישראל**, «paz sobre Israel», impide que la nota termine en paranoia. Eric insiste en que la seguridad no viene de adivinar tiempos ni de construir una defensa humana absoluta, sino de mantenerse en la voluntad de יהוה y esperar el resultado que él determine. El salmo conserva una frontera moral —buenos, rectos, torcidos y hacedores de iniquidad— y concluye con paz comunitaria, no con triunfo individualista.
 
-## El canto confirma la confianza como postura comunitaria
-
-En el video musical sobre Tehilim 125, Eric canta y repite en español el núcleo del primer verso: quienes confían en יהוה son «como Sion, que nunca se desmorona» (00:01:19–00:01:55). Después conserva la imagen del segundo verso: «Montes rodean a Jerusalén y a su pueblo rodea יהוה» (00:01:55–00:02:10). Aunque el registro cantado no desarrolla una exposición nueva, estas observaciones concretas funcionan como una segunda entrada atribuible al mismo salmo: la confianza no se presenta como una idea abstracta, sino como la postura de un pueblo rodeado por יהוה.
-
-El texto local confirma la estructura que el canto hace audible. **הבטחים ביהוה** nombra a «los que confían en יהוה»; **כהר ציון** («como el monte de Sion») aporta la comparación, y **ויהוה סביב לעמו** («y יהוה alrededor de su pueblo») retoma el verbo de rodear del verso 2. La relación entre la versión cantada y el hebreo es **pedagógica y aproximada**: «nunca se desmorona» comunica la estabilidad de **לא ימוט**, pero el verbo hebreo significa literalmente «no será movido» o «no tambaleará». Del mismo modo, el canto resume **סביב** como una protección que rodea; no añade por sí solo una promesa de ausencia de toda aflicción.
-
-La repetición musical también evita leer el salmo como seguridad individual aislada. El sujeto plural del verso 1 y «su pueblo» del verso 2 conducen al cierre **שלום על ישראל**, «paz sobre Israel». Por eso la canción puede incorporarse a la lectura canónica sin sustituir la perícopa: hace resonar los versos 1–2, mientras los versos 3–5 explican el límite moral de esa seguridad, la petición por los rectos y la conducción de los caminos torcidos.
-
 ## Control de la seguridad que Eric describe
 
 La ilustración de Eric sobre la aversión al riesgo y los seguros no pretende convertir la economía moderna en el significado de **בטחים**. Su observación material es más concreta: la inseguridad puede hacer que una persona compre una falsa protección o abandone lo recto para reducir una amenaza. El texto local corrige y confirma la aplicación en dos movimientos. Primero, **הבטחים ביהוה** nombra a quienes descansan en יהוה y son comparados con Sion; segundo, los versos 3-5 muestran que esa seguridad no elimina la presión, sino que impide que el cetro de la maldad produzca manos injustas y termina pidiendo **שלום על ישראל**. La relación entre «seguridad» y obediencia es, por tanto, una inferencia pastoral apoyada por la secuencia ética del salmo, no una equivalencia léxica de **בטח**.
@@ -110,14 +100,13 @@ También debe conservarse la diferencia entre la imagen y su extensión. **לא 
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual                          | Observación concreta de la clase                                                                                                                  | Cómo se trató                                                                                                                                                                             |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tehilim 125:1                           | **בטחים** comunica seguridad continua; confiar es moverse dentro de lo que יהוה ha dicho aun bajo amenaza.                                        | El participio y la comparación con Sion tienen apoyo local; la obediencia diaria es una aplicación pedagógica.                                                                            |
-| Tehilim 125:2                           | Las montañas rodean Jerusalén, pero יהוה rodea a su pueblo dondequiera que esté; la protección no depende de la geografía.                        | El paralelismo de **סביב** se confirma; la aplicación universal y la conexión celestial se califican.                                                                                     |
-| Tehilim 125:1-2 — `youtube:sTl5WJfH61Q` | En el canto, Eric repite que quienes confían en יהוה son como Sion y que los montes rodean Jerusalén mientras יהוה rodea a su pueblo.             | Correspondencia **pedagógica y aproximada**: el canto resume **לא ימוט** como «no desmoronarse» y conserva el paralelismo de **סביב** sin convertirlo en inmunidad contra toda aflicción. |
-| Tehilim 125:3                           | El cetro de la maldad no reposará sobre la herencia; **גורל** es porción asignada y no una invitación a cambiar el resultado por capricho.        | Vara, lote y herencia están en el texto; la teoría de decisión divina se presenta como conexión intertextual.                                                                             |
-| Tehilim 125:4-5                         | יהוה hace bien a los rectos, conduce los caminos torcidos y termina con paz; la persona no debe abandonar la herencia para escapar de la presión. | La oración y el contraste moral son textuales; la aplicación a persecución, empleo y temporalidad queda como exhortación de Eric.                                                         |
-| Zacarías 14 y Sion                      | El Sion terrenal puede moverse; por eso la estabilidad prometida apunta a una realidad celestial y no solo al terreno actual.                     | Zacarías 14 se conserva como argumento de la clase, pero no como conclusión gramatical de Tehilim 125:1.                                                                                  |
+| Unidad textual     | Observación concreta de la clase                                                                                                                  | Cómo se trató                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Tehilim 125:1      | **בטחים** comunica seguridad continua; confiar es moverse dentro de lo que יהוה ha dicho aun bajo amenaza.                                        | El participio y la comparación con Sion tienen apoyo local; la obediencia diaria es una aplicación pedagógica.                    |
+| Tehilim 125:2      | Las montañas rodean Jerusalén, pero יהוה rodea a su pueblo dondequiera que esté; la protección no depende de la geografía.                        | El paralelismo de **סביב** se confirma; la aplicación universal y la conexión celestial se califican.                             |
+| Tehilim 125:3      | El cetro de la maldad no reposará sobre la herencia; **גורל** es porción asignada y no una invitación a cambiar el resultado por capricho.        | Vara, lote y herencia están en el texto; la teoría de decisión divina se presenta como conexión intertextual.                     |
+| Tehilim 125:4-5    | יהוה hace bien a los rectos, conduce los caminos torcidos y termina con paz; la persona no debe abandonar la herencia para escapar de la presión. | La oración y el contraste moral son textuales; la aplicación a persecución, empleo y temporalidad queda como exhortación de Eric. |
+| Zacarías 14 y Sion | El Sion terrenal puede moverse; por eso la estabilidad prometida apunta a una realidad celestial y no solo al terreno actual.                     | Zacarías 14 se conserva como argumento de la clase, pero no como conclusión gramatical de Tehilim 125:1.                          |
 
 ## Pendiente de verificar
 
@@ -140,5 +129,4 @@ Tehilim 125 no ofrece seguridad mediante el control de los tiempos ni mediante u
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Tehilim/Hymnos/Salmo Chap 125](https://www.youtube.com/watch?v=sDw938pc3OU) (`source_id`: `youtube:sDw938pc3OU`).
-- Video: [Salmo 125 en guitarra](https://www.youtube.com/watch?v=sTl5WJfH61Q) (`source_id`: `youtube:sTl5WJfH61Q`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
