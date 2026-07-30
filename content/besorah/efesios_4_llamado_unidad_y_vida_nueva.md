@@ -65,7 +65,7 @@ Efesios 4 convierte la revelación de los tres primeros capítulos en una forma 
 
 ## Alcance de la nota
 
-- Esta nota reúne las partes 17–19 y 21 de la serie pública de Efesios del hermano Eric de Jesús Rodríguez Mendoza. La parte 20 no se incluye porque no aparece como fuente identificable en el inventario local; no se rellena ese vacío con una atribución inventada.
+- Esta nota reúne las partes 17–24 de la serie pública de Efesios del hermano Eric de Jesús Rodríguez Mendoza. La parte 20 se conserva como una fuente pública identificable para la continuidad del argumento; no se rellena ningún vacío con una atribución inventada.
 - Las clases recorren 4:1–16 desde el llamado y la unidad hasta los dones y la plenitud, y 4:17–32 desde el entendimiento oscurecido hasta la vida nueva y el perdón.
 - La transcripción automática sirvió para localizar observaciones concretas de Eric; esta nota las atribuye y las contrasta con el texto local. No se presenta como cita literal.
 - El pasaje hebreo de comparación procede de Delitzsch local y se transcribe sin nikud. Las formas hebreas no se tratan como una retroversión original del griego.
@@ -276,7 +276,7 @@ El cambio ético confirma el mismo argumento en orden. **ἀποθέσθαι**, 
 
 ## Reparación dirigida: la gracia que equipa y la humanidad que se viste (4:7-24)
 
-La transición de la confesión de un solo cuerpo a los dones no permite convertir la diversidad en competencia. **(ἐδόθη)**, _edothē_, «fue dada», presenta la gracia como algo recibido en 4:7; **(κατὰ τὸ μέτρον)**, _kata to metron_, «según la medida», limita la pretensión de que un servidor sea la fuente de todo. Eric insiste en que el servicio mesiánico debe hacer posible la participación de otros. Marcos no es el pasaje aquí, pero el control de Efesios es claro: **(καταρτισμός)**, _katartismos_, «equipamiento o preparación», apunta a capacitar a los santos, y **(οἰκοδομή)**, _oikodomē_, «edificación», describe el efecto buscado en el cuerpo. La observación de la clase queda probada por la finalidad del texto, no por un modelo organizativo impuesto desde fuera.
+La transición de la confesión de un solo cuerpo a los dones no permite convertir la diversidad en competencia. **(ἐδόθη)**, _edothē_, «fue dada», presenta la gracia como algo recibido en 4:7; **(κατὰ τὸ μέτρον)**, _kata to metron_, «según la medida», limita la pretensión de que un servidor sea la fuente de todo. Eric insiste en que el servicio mesiánico debe hacer posible la participación de otros. El control de Efesios es claro: **(καταρτισμός)**, _katartismos_, «equipamiento o preparación», apunta a capacitar a los santos, y **(οἰκοδομή)**, _oikodomē_, «edificación», describe el efecto buscado en el cuerpo. La observación de la clase queda probada por la finalidad del texto, no por un modelo organizativo impuesto desde fuera.
 
 La cita del salmo en 4:8 se inserta después de la gracia distribuida y antes de las funciones enumeradas. **(ἀναβάς)**, _anabas_, «habiendo subido», y **(καταβάς)**, _katabas_, «habiendo descendido», ordenan el contraste de exaltación y descenso; **(ᾐχμαλώτευσεν)**, _ēchmalōteusen_, «llevó cautivos», y **(ἔδωκεν)**, _edōken_, «dio», conducen al Mesías que entrega dones. Eric lee ese movimiento como autoridad que vuelve fecunda a la comunidad. El pasaje sí sostiene que el que descendió es también el que subió y que da servicios; no demuestra por sí solo cada identificación doctrinal de «cautividad» ni autoriza a usar el don para dominar.
 
