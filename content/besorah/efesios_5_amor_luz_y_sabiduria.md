@@ -272,6 +272,12 @@ El cierre de esta unidad, **ὑποτασσόμενοι ἀλλήλοις**, _hy
 
 Efesios 5 no opone espiritualidad y vida cotidiana. El amor, la luz, la gratitud, la sabiduría con el tiempo y las relaciones quedan unidos bajo la obra del Mesías. La exhortación no puede usarse para dominar: llama a una conducta que rechaza lo destructivo y aprende la entrega de Yehoshua.
 
+## Control de orden: del amor a la responsabilidad relacional
+
+La nota conserva el recorrido del capítulo sin saltar directamente a la sección del hogar. Primero, 5:1-7 define la imitación mediante amor entregado y contrasta ese camino con impureza, codicia y habla que no agradece. Después, 5:8-14 prueba la identidad de luz por su fruto de bondad, justicia y verdad, y manda examinar lo agradable al Señor. En 5:15-20, ese discernimiento se vuelve caminar cuidadoso, comprensión de la voluntad, llenura del Rúaj, canto y gratitud. Solo entonces 5:21-33 aplica la vida comunitaria a esposas y esposos.
+
+Esta dependencia limita la enseñanza atribuible de Eric sobre «orden divino». **δοκιμάζω**, _dokimazō_, «probar o discernir», y **συνίημι**, _syniēmi_, «comprender», preparan la exhortación; **ὑποτάσσω**, _hypotassō_, «ordenar bajo o someterse», queda dentro de la mutualidad de 5:21; y **παραδίδωμι**, _paradidōmi_, «entregar», mide el amor del esposo por la entrega del Mesías. La secuencia local no permite convertir una aplicación doméstica en autoridad para controlar conciencias: la luz se reconoce por fruto, la sabiduría por gratitud y el orden por cuidado sacrificial.
+
 ## Verificación de la perícopa: la palabra que limpia no es control humano (5:25-30)
 
 La afirmación de Eric sobre una «palabra» que forma a la comunidad debe permanecer dentro de 5:25-30. Pablo dice que el Mesías amó a la asamblea y se entregó por ella; después usa **ῥῆμα**, _rhēma_, «palabra, declaración o asunto expresado», en la imagen de agua y palabra. No es la autorización para que un esposo se convierta en intérprete infalible de la conciencia de su esposa. El sujeto de **ἁγιάζω**, _hagiazō_, «santificar o apartar para Elohim», y de **καθαρίζω**, _katharizō_, «limpiar», es el Mesías en la analogía de Pablo.

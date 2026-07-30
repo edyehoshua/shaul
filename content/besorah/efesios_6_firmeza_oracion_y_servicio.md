@@ -290,6 +290,12 @@ El propósito final corrige cualquier lectura triunfalista. **(αἴτησις)*
 
 ## Conclusión
 
+## Control de orden: de la casa a la oración comunitaria
+
+Efesios 6 conserva una progresión que debe leerse completa. En 6:1-9, hijos, padres, siervos y señores reciben responsabilidades concretas; la autoridad queda limitada por **ἐν Κυρίῳ**, _en Kyriō_, «en el Señor», por la prohibición de provocar y por la orden de dejar las amenazas. En 6:10-17, la exhortación a recibir fuerza, vestirse y permanecer firme no reemplaza esa ética: la armadura se describe con verdad, justicia, paz, fe, salvación y palabra, y la lucha se niega contra sangre y carne. Finalmente, 6:18-24 convierte la firmeza en oración por todos, anuncio valiente, noticias veraces, consuelo, paz, amor y gracia.
+
+Este orden prueba y limita la lectura atribuible de Eric. **ὑπακούω**, _hypakouō_, «escuchar y obedecer», no significa obediencia ciega cuando el mismo pasaje juzga al superior; **στῆναι**, _stēnai_, «estar de pie o permanecer», describe resistencia y no conquista; y **προσευχή**, _proseuchē_, «oración», muestra el destino comunitario de la armadura. La secuencia no autoriza esclavitud, abuso, acusaciones espirituales contra personas ni una espiritualidad aislada: permanecer en el Señor desemboca en intercesión, comunicación fiel y servicio.
+
 ## Control dirigido: la casa y la armadura bajo el mismo Señor
 
 La transición de 6:1-9 a 6:10 no cambia de autoridad: la casa, el trabajo y la resistencia espiritual quedan bajo el mismo Señor. **(κύριος)**, _kyrios_, «señor o dueño», aparece en las relaciones sociales y vuelve a gobernar la fuente de la fortaleza; su sentido contextual no autoriza a trasladar una obediencia antigua a la dominación moderna. En 6:4, **(ἐκτρέφετε)**, _ektrephete_, «críen o alimenten», obliga a los padres a formar sin provocar; en 6:9, **(ἀνιέντες)**, _anientes_, «dejando o cesando», manda a los señores abandonar las amenazas. La observación de Eric sobre autoridad rendida a Elohim recibe apoyo textual precisamente porque el superior también es juzgado.
