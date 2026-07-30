@@ -111,6 +111,7 @@ En 5:28-30 el argumento vuelve al cuerpo: amar a la esposa «como a su propio cu
 
 ## Hoja léxica
 
+<!-- prettier-ignore -->
 | Forma                      | Transliteración      | Sentido normal y fuerza contextual                                 | Correspondencia y cautela                                                                                                                   |
 | -------------------------- | -------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **(ἀγαπάω)**               | _agapaō_             | amar con una entrega que busca el bien del otro                    | En 5:2 y 5:25 sostiene el amor ofrecido por el Mesías; no equivale automáticamente a emoción o permisividad.                                |
@@ -144,6 +145,7 @@ La relación con Bereshit se mantiene dentro del propio cierre: **(μυστήρ�
 
 ### La luz se prueba por su fruto y por su discernimiento
 
+<!-- prettier-ignore -->
 Pablo no salta de «luz» a una identidad espiritual autosuficiente. El mandato **περιπατεῖτε**, _peripateite_, «caminad», en 5:8 recibe la calificación «como hijos de luz»; después el texto explica el camino mediante **καρπός**, _karpos_, «fruto», y enumera bondad, justicia y verdad (#ephesians_5_8-9). La clase de Eric pregunta si la vida realmente está en la luz; la respuesta local no es una inspección de etiquetas religiosas, sino una práctica que puede examinarse. **δοκιμάζω**, _dokimazō_, «probar, examinar y discernir», tiene como objeto «lo agradable al Señor» (5:10), de modo que discernir no significa sospechar de todos ni exponer públicamente a personas.
 
 La sección negativa también debe seguirse en orden. **συγκοινωνέω**, _sygkoinōneō_, «participar juntamente», en 5:11 prohíbe compartir las obras infructuosas de la oscuridad; **ἐλέγχω**, _elenchō_, «poner en evidencia o reprender», las relaciona con una manifestación que deja ver su carácter. La exhortación no transforma la vergüenza en método de discipulado: el contraste está entre participar y andar en luz. La afirmación de Eric sobre que las obras deben hacerse visibles queda apoyada cuando se mantiene el fruto de 5:9 y el discernimiento de 5:10, no cuando se convierte en vigilancia sobre la intimidad ajena.
@@ -217,6 +219,7 @@ Finalmente, 5:21-33 prueba el llamado al orden por la forma del amor. **ἀλλ�
 
 ## Verificación de dependencia: sabiduría, llenura y amor responsable
 
+<!-- prettier-ignore -->
 La lectura de Eric sobre «redimir el tiempo» debe seguir el movimiento de #ephesians_5_15-21, no convertirse en una teoría de calendarios. **βλέπετε**, _blepete_, «mirad o prestad atención», y **ἀκριβῶς**, _akribōs_, «cuidadosamente o con exactitud», describen el modo de andar; **ἄσοφοι**, _asophoi_, «insensatos o sin sabiduría», y **σοφοί**, _sophoi_, «sabios», forman el contraste. **καιρός**, _kairos_, «ocasión o tiempo oportuno», no equivale simplemente a reloj o fecha: **ἐξαγοραζόμενοι**, _exagorazomenoi_, «rescatando o aprovechando», llama a usar la oportunidad porque los días son malos.
 
 El texto define qué significa comprender. **συνίετε**, _syniete_, «entended o comprended», recibe como objeto la voluntad del Señor, y **μεθύσκεσθε**, _methyskesthe_, «emborrachaos», queda contrastado con **πληροῦσθε**, _plērousthe_, «sed llenos». La forma pasiva de «sed llenos» dirige la fuente al Rúaj, mientras los participios **λαλοῦντες**, _lalountes_, «hablando», **ᾄδοντες**, _adontes_, «cantando», y **ψάλλοντες**, _psallontes_, «entonando salmos», muestran cómo se manifiesta esa llenura. Eric relaciona sabiduría con entender y agradecer; #ephesians_5_17-20 lo apoya porque la comprensión desemboca en canto, gratitud y alabanza comunitaria, no en una experiencia secreta.
@@ -227,6 +230,7 @@ En 5:22-33, el argumento mide toda autoridad por la entrega. **ὑποτάσσε
 
 Los verbos del cuidado vuelven la aplicación verificable. **ἁγιάσῃ**, _hagiasē_, «santifique», **καθαρίσας**, _katharisas_, «habiendo limpiado», y **ἐκτρέφει**, _ektrephei_, «alimenta o cría», describen la obra del Mesías y el cuidado del propio cuerpo. **θάλπει**, _thalpei_, «calienta o cuida con ternura», impide reducir el amor a una declaración formal. La correspondencia con **(קדש)**, _qodesh_, «santo o apartado», y **(רחם)**, _rajam_, «mostrar compasión», es temática y aproximada; las formas griegas gobiernan el sentido de esta perícopa. Cualquier aplicación que tolere violencia, coerción o aislamiento contradice la medida textual del amor entregado.
 
+<!-- prettier-ignore -->
 El cierre cita #bereshit_2_24 y llama al vínculo **μυστήριον**, _mystērion_, «realidad antes oculta y ahora dada a conocer». **ἓν σάρξ**, _hen sarx_, «una sola carne», conserva la unión corporal de la cita, mientras Pablo la relaciona con Mesías y comunidad; no borra el sentido del relato de Bereshit ni convierte a la esposa en propiedad. La clase puede hablar de una unidad profunda, pero **ἐκκλησία**, _ekklesia_, «asamblea o comunidad convocada», y **ἀγάπη**, _agapē_, «amor comprometido», mantienen el marco comunitario. La sabiduría de 5:15-33 termina así en gratitud, mutualidad, entrega y cuidado responsable.
 
 ## Prueba ordenada: imitar, discernir y cuidar (5:1-33)
@@ -279,6 +283,14 @@ La transición desde la luz hasta la vida comunitaria tiene una secuencia verifi
 En 5:15-18, la sabiduría se reconoce en el modo de caminar. **βλέπετε**, _blepete_, «mirad o prestad atención», y **περιπατεῖτε**, _peripateite_, «caminad», enmarcan el aprovechamiento de la ocasión; **ἐξαγοραζόμενοι**, _exagorazomenoi_, «aprovechando o rescatando», no designa una técnica de calendario. El contraste entre **μεθύσκεσθε**, _methyskesthe_, «emborrachaos», y **πληροῦσθε**, _plērousthe_, «sed llenos», lleva a hablar, cantar y agradecer. La forma pasiva de «sed llenos» dirige la fuente al Rúaj y limita la aplicación de Eric sobre doctrina: puede orientar el discernimiento, pero no reemplaza el sentido contextual de **οἶνος**, _oinos_, «vino».
 
 El cierre de esta unidad, **ὑποτασσόμενοι ἀλλήλοις**, _hypotassomenoi allēlois_, «sometiéndoos u ordenándoos unos a otros», funciona como puente hacia las instrucciones del hogar. No es una frase decorativa que pueda omitirse para construir una jerarquía unilateral. Cuando Pablo manda amar y entregarse, **παραδίδωμι**, _paradidōmi_, «entregar», es la medida del esposo; **ἐκτρέφω**, _ektrephō_, «alimentar o criar», y **θάλπω**, _thalpō_, «cuidar con ternura», vuelven verificable el cuidado. Así, el capítulo pasa de discernir la luz a practicar gratitud, mutualidad y entrega segura.
+
+## Verificación final de dependencia (5:1-33)
+
+La unidad completa prueba la enseñanza atribuible de Eric sin convertir sus títulos de clase en una estructura genérica. En 5:1-7, **(μιμηταί)**, _mimētai_, «imitadores», recibe contenido del amor entregado y **(εὐχαριστία)**, _eucharistia_, «acción de gracias», contrasta la codicia y el habla que destruye. En 5:8-14, **(περιπατεῖτε)**, _peripateite_, «caminad», se mide por **(καρπός)**, _karpos_, «fruto», de bondad, justicia y verdad, y por **(δοκιμάζω)**, _dokimazō_, «probar o discernir», lo agradable al Señor. La luz no es una etiqueta para juzgar personas; es un camino verificable.
+
+En 5:15-21, **(καιρός)**, _kairos_, «ocasión o tiempo oportuno», y **(ἐξαγοράζω)**, _exagorazō_, «aprovechar o rescatar», llaman a caminar con cuidado, no a controlar fechas. **(συνίημι)**, _syniēmi_, «comprender», recibe como objeto la voluntad del Señor; **(πληροῦσθε)**, _plērousthe_, «sed llenos», desemboca en canto, gratitud y **(ὑποτάσσω)**, _hypotassō_, «ordenarse bajo», en mutualidad. Así, la «llenura» de la clase queda probada por prácticas comunitarias, no por una experiencia secreta.
+
+Solo entonces 5:22-33 aplica ese marco al hogar. **(ἀγαπάω)**, _agapaō_, «amar buscando el bien», se mide por **(παραδίδωμι)**, _paradidōmi_, «entregar», y **(ἐκτρέφω)**, _ektrephō_, «alimentar o criar», junto con **(θάλπω)**, _thalpō_, «cuidar con ternura». **(μυστήριον)**, _mystērion_, «realidad antes oculta y ahora revelada», interpreta Bereshit desde Mesías y asamblea, pero no confiere al esposo autoridad sobre la conciencia de su esposa. La secuencia completa —imitar, discernir, agradecer, someterse mutuamente, entregar y cuidar— conserva la exposición de Eric y fija su límite contra coerción, violencia y control.
 
 ## Conclusión
 
