@@ -144,6 +144,12 @@ La clase de Eric sobre sangre, nueva creación y morada puede conservarse como e
 - [ ] Revisar las afirmaciones sobre «hacer todo de nuevo», la carne incorruptible y el alcance cósmico de Colosenses 1:20-22.
 - [ ] No derivar diagnósticos clínicos o sociales de la lista de Efesios 2:12 sin fuentes externas responsables.
 
+## Control añadido: la ley se lee dentro de la reconciliación (2:14-18)
+
+La observación de Eric sobre un solo pueblo debe conservar los objetos y el orden de los verbos. **λύσας**, _lysas_, «soltar o desatar», es la forma que el texto local usa al describir la barrera; **καταργήσας**, _katargēsas_, «dejar inoperante o desactivar», explica la acción respecto de la enemistad y de los mandamientos expresados en decretos. Ninguna de estas formas significa por sí sola que toda instrucción de Elohim haya desaparecido: el resultado explícito es **ἕνα καινὸν ἄνθρωπον**, _hena kainon anthrōpon_, «un solo hombre nuevo», y después la reconciliación de ambos en un cuerpo.
+
+La secuencia final mantiene el destino comunitario. **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconciliar plenamente», conduce a ambos a Elohim; **ἀποκτείνας**, _apokteinas_, «habiendo dado muerte», tiene como objeto la enemistad; y **προσαγωγή**, _prosagōgē_, «acceso o introducción», se completa «en un solo Rúaj». Así se prueba la formulación de Eric en su alcance firme: la paz derriba hostilidad y comparte acceso. La relación con **(שלום)**, _shalom_, «paz o integridad», y **(תורה)**, _Torah_, «instrucción», es comparativa; no reemplaza la sintaxis griega ni autoriza una conclusión sobre cada mandamiento fuera de esta perícopa.
+
 ## Conclusión
 
 Efesios 2 recuerda la lejanía para anunciar un acercamiento recibido en Yehoshua el Mesías. La sangre y la cruz producen paz: los dos grupos son reconciliados en un cuerpo y reciben un mismo acceso al Padre en un solo Rúaj. La consecuencia no es superioridad ni aislamiento, sino una casa fundada en apóstoles y profetas, con el Mesías como piedra angular y una morada que Elohim edifica juntamente.
