@@ -1,108 +1,88 @@
 ---
-title: "Janucá: rehabilitación, memoria y expectativa mesiánica"
-description: "Apuntes sobre Janucá, la rehabilitación del templo, la helenización y la expectativa mesiánica alrededor de Yehoshua"
-date: 2026-07-27
+title: "Janucá: memoria, libertad de conciencia y la pregunta mesiánica"
+description: "Estudio canónico de Janucá en Tehilim 30 y Yojanan 10:22-30, a partir de dos exposiciones públicas de Eric."
+date: 2026-07-30
 tags:
   - janukah
   - templo
-  - macabeos
-  - helenizacion
+  - identidad
+  - yojanan
+  - tehilim
 references:
-  - "#tehilim_30"
-  - "#tehilim_30_1"
-  - "#tehilim_30_2"
-  - "#iojanan_10_22"
-  - "#iojanan_10_24"
+  - "#tehilim_30_1-5"
+  - "#tehilim_30_6-13"
+  - "#yojanan_10_22-24"
+  - "#yojanan_10_25-30"
 sources:
   - "https://www.youtube.com/watch?v=gyOX6oI8iss"
   - "https://www.youtube.com/watch?v=HpsB8Dd-Xbw"
+  - "docs/scriptures/oe/json/psalms/30.json"
+  - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:gyOX6oI8iss"
   - "youtube:HpsB8Dd-Xbw"
-translation: "[TTH, Delitzsch, OE]"
+translation: "[OE, Delitzsch]"
 ---
 
 # Tesis
 
-Janucá aparece aquí como la rehabilitación del templo y la memoria de la santidad en un contexto de helenización, y también como un marco para entender la expectativa mesiánica equivocada que algunos proyectaban sobre Yehoshua.
+Janucá reúne memoria de dedicación, preservación de identidad y una pregunta sobre el Mesías. Eric no presenta la observancia como un mandamiento bíblico que deba imponerse a todos: en la exposición de 2024 dice que quien quiera celebrarla puede hacerlo y quien no quiera no debe ser escandalizado; rechaza tanto la presión de «sí o sí» como la condena automática de la fiesta como pagana. Su segunda exposición recuerda los testimonios históricos de Macabeos, Josefo y la tradición posterior, y anima a retener la Torah. El texto de Yojanan prueba el marco festivo, pero no deja que la festividad sustituya la pregunta central: qué hacen las obras de Yehoshua y qué significa oír su voz.
 
 ## Alcance de la nota
 
-- Apuntes temáticos sobre Janucá, helenización y expectativa mesiánica en #iojanan_10_22-24.
-- La cronología macabea resumida aquí es de trabajo; conviene verificar nombres y fechas con fuentes históricas.
-- #tehilim_30 queda como marco temático; la hoja comparativa despliega solo versículos iniciales.
-
-## Contexto histórico
-
-- La crisis se describe desde el último tramo del sacerdocio aarónico en medio de una fuerte influencia griega, especialmente seléucida.
-- Jasón, Menelao y Antíoco Epífanes aparecen en la nota como figuras de desplazamiento, saqueo y profanación del templo.
-- Menelao tomó del tesoro del templo, y ese deterioro impulsó grupos de resistencia dedicados a preservar la torá.
-- La familia de Matitiyahu y Yehudá Macabeo encarna la revuelta contra la helenización de Israel.
-- La lucha no se presenta solo como conflicto político, sino como guerra contra Adonai y contra la torá.
-- La nota resume el período como una lucha prolongada de 23 años contra el dominio seléucida.
-
-## Texto base
-
-- #tehilim_30
-- #iojanan_10_22
-- #iojanan_10_24
+La nota trabaja con las dos clases públicas «Janukáh 2024 - 5785 Un día para celebrar la identidad bíblica» y «Janukáh 5784-2023 Preservation of identity in the emunáh». Las observaciones históricas se atribuyen a Eric y se mantienen como contexto, no como versículos de Tehilim o Yojanan. Para el texto base uso Tehilim 30 en OE y Yojanan 10:22-30 en la edición hebrea de Delitzsch local. No presento una transcripción automática como cita literal ni convierto la fecha de la fiesta en prueba de cada afirmación histórica.
 
 ## Hoja de comparación
 
-| Referencia     | Hebreo (sin nikud)                                                            | TTH (ES)                                                                          | Observación                                |
-| -------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------ |
-| #iojanan_10_22 | ויהי בימי החנכה בימי החרף בירושלים                                            | Y era Janucá en Ierushaláim, y era invierno.                                      | El relato ubica la escena en la fiesta.    |
-| #iojanan_10_24 | ויסבו אתו היהודים ויאמרו עדאנה תמשכנו בנפשנו אםאתה הוא המשיח הגדלנו לעין השמש | …¿Hasta cuándo nos quitarás la vida? Si Tú eres el Mesías, dínoslo con confianza. | Presión mesiánica en el marco de Janucá.   |
-| #tehilim_30_1  | מזמור שיר חנכת הבית לדוד                                                    | Te exaltaré, יהוה, porque me has liberado…                                        | Encabezado: salmo de dedicación del bayit. |
-| #tehilim_30_2  | ארוממך יהוה כי דליתני ולא שמחת איבי לי                                   | יהוה, mi Elohim, grité por ayuda a ti y me sanaste.                               | Memoria de liberación ligada a la casa.    |
+| Unidad            | Texto local                                                                  | Fuerza del pasaje                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| #tehilim_30_1-2   | **מזמור שיר חנכת הבית לדוד; ארוממך יהוה כי דליתני**                          | El encabezado vincula el canto con la dedicación de la casa; el orante alaba porque fue levantado.           |
+| #tehilim_30_3-5   | **יהוה אלהי שועתי אליך ותרפאני... זמרו ליהוה חסידיו והודו לזכר קדשו**        | El clamor, la sanidad y la memoria de la santidad producen alabanza comunitaria.                             |
+| #yojanan_10_22-24 | **ויהי בימי החנכה בימי החרף בירושלים... אם אתה הוא המשיח הגד לנו לעין השמש** | Yojanan sitúa la escena en Janucá, invierno y el pórtico de Shlomó; allí se exige una declaración mesiánica. |
+| #yojanan_10_25-27 | **המעשים אשר אני עשה בשם אבי הם לי לעדות... צאני שמעות את קולי**             | Yehoshua remite a sus obras y describe a sus ovejas como quienes oyen su voz y le siguen.                    |
+| #yojanan_10_28-30 | **וחיי עולם אתן להן... ואני והאב אחד**                                       | La promesa de vida y la unidad con el Padre son la respuesta teológica del pasaje.                           |
 
-## Hoja léxica
+## Dedicación y memoria: Tehilim 30:1-5
 
-| Forma          | Aproximación usual                | Matiz que hay que preservar                                               |
-| -------------- | --------------------------------- | ------------------------------------------------------------------------- |
-| **(חנוכה)**    | dedicación, habilitación          | En el templo: rehabilitación y reconsagración, no solo «fiesta de luces». |
-| **(חנך)**      | estrenar, educar, dedicar         | Raíz de instrucción y puesta en funcionamiento.                           |
-| **(זכר קדשו)** | memoria de su santidad            | Traer a la memoria lo que יהוה santificó.                                 |
-| **(תודה)**     | confesión, reconocimiento público | En el salmo: confesar y reconocer, no solo «gracias» emotiva.             |
-| **(משיח)**     | ungido, Mesías                    | En #iojanan_10_24 la pregunta asume un modelo mesiánico concreto.         |
+El título dice **חנכת הבית**, _chanukat habayit_, «dedicación de la casa». **חנך**, _chanakh_, significa dedicar, inaugurar o poner en uso; su relación con «rehabilitar» es aproximada, porque el encabezado no narra por sí solo toda la historia macabea. Eric usa el salmo como memoria de una casa restaurada y de una identidad que no debe perderse. El texto confirma la dirección de la lectura: el cantor recuerda la liberación de יהוה y llama a los fieles a cantar, pero no identifica explícitamente Janucá histórica de los Macabeos.
 
-## Salmo 30 y la memoria de la santidad
+La oración dice **ארוממך**, _aromimkha_, «te exaltaré», y explica: **כי דליתני**, «porque me levantaste». **דלה**, _dalah_, significa levantar o sacar de una posición baja; aquí expresa rescate recibido. Luego el orante recuerda que clamó y fue sanado. Eric relaciona **הודו לזכר קדשו**, _hodu lezéker kodsho_, con confesar y mantener memoria de la santidad. **תודה**, _todah_, normalmente significa confesión, acción de gracias o reconocimiento público; en este contexto la relación con una memoria agradecida es directa, aunque no equivale a una obligación moderna de celebrar una forma particular.
 
-- La nota lee #tehilim_30 como un salmo profético relacionado con la rehabilitación de la casa.
-- Zejer Kodsho se entiende como memoria de su santidad: traer a la memoria lo que Adonai santificó.
-- Esa memoria funciona como recordatorio visible de un modelo celestial.
-- Todah se asocia aquí con confesar y reconocer públicamente.
+El salmo contrapone el enojo momentáneo con el favor duradero, el llanto nocturno con el canto de la mañana. La memoria no niega la aflicción: la transforma en testimonio. Esa pauta sirve para leer la insistencia de Eric en conservar identidad y emunah sin forzar a todos a la misma práctica.
 
-## Observaciones mesiánicas
+## La fiesta como marco de una pregunta: Yojanan 10:22-24
 
-- Parte del trasfondo de Janucá alimentó la expectativa de un mesías militar parecido a Yehudá Macabeo.
-- Por eso la pregunta a Yehoshua en #iojanan_10_24 se entiende como una presión para que se identifique con ese modelo.
-- La nota subraya que Yehoshua no valida esa expectativa equivocada, aunque sí confronta la incredulidad de quienes no oyen su voz.
+Yojanan dice que era **בימי החנכה**, _bimei hachanukah_, «en los días de la dedicación», y añade «en invierno» y «en Jerusalén». Yehoshua camina en el templo, en el pórtico de Shlomó. Eric subraya que Janucá no es un fondo decorativo: es el contexto donde se confrontan memoria, identidad y expectativa. El texto local sostiene exactamente la fecha festiva y el lugar; no dice que todos los oyentes compartieran una sola interpretación histórica de la fiesta.
 
-## Referencias judías y fuentes externas
+Los judíos rodean a Yehoshua y preguntan: «¿Hasta cuándo nos tendrás en suspenso? Si tú eres el Mesías, dínoslo abiertamente». **משיח**, _mashiach_, significa ungido; en este versículo la fuerza contextual es la identidad mesiánica que los interlocutores quieren que Yehoshua declare sin ambigüedad. Eric conecta esa presión con expectativas de un libertador semejante a Yehudáh Macabeo. La conexión histórica es plausible como marco de la clase, pero el versículo por sí solo no dice «esperamos un mesías militar»; esa formulación debe mantenerse atribuida.
 
-| Fuente       | Referencia                  | Uso en la nota               | Estado                 |
-| ------------ | --------------------------- | ---------------------------- | ---------------------- |
-| 1-2 Macabeos | Rehabilitación del templo   | Contexto histórico de Janucá | Pendiente de verificar |
-| Josefo       | Ant. 12–13                  | Periodo seléucida y Macabeos | Pendiente de verificar |
-| m. Shabbat   | Janucá y encendido de luces | Práctica festiva posterior   | Pendiente de verificar |
-| #tehilim_30  | Salmo de dedicación         | Memoria de santidad y todah  | Cotejado               |
+## Obras, ovejas y vida: Yojanan 10:25-30
 
-## Pendiente de verificar
+Yehoshua responde que ya les ha dicho y que las obras hechas en nombre del Padre dan testimonio de él. **מעשים**, _maasim_, son obras o hechos; aquí su fuerza es probatoria, no una invitación a juzgar sólo por una etiqueta festiva. Eric insiste en que la identidad bíblica se prueba en la fidelidad y en las obras, no en la presión social alrededor de una celebración. El pasaje confirma que las obras son el testimonio que Yehoshua ofrece, aunque «identidad bíblica» es una síntesis temática de la exposición.
 
-- [ ] Revisar los nombres propios transliterados y la secuencia histórica precisa entre Jasón, Menelao y Antíoco Epífanes.
-- [ ] Añadir una fuente histórica explícita para la cronología macabea resumida en la nota.
-- [ ] Desplegar #tehilim_30 completo en hoja comparativa aparte si la nota crece.
+Después Yehoshua dice: **צאני שמעות את קולי**, «mis ovejas oyen mi voz». **שמע**, _shama_, significa oír, escuchar y atender; la traducción «escuchar obedientemente» es contextual y pedagógica. El texto añade que él las conoce y ellas le siguen. La señal de pertenencia no es una uniformidad impuesta sobre Janucá, sino una relación de escucha y seguimiento. **חיי עולם**, _chayei olam_, «vida eterna», es vida de la era perdurable; la fuerza exacta es la promesa de Yehoshua a sus ovejas.
 
-## Ver también
+La mano de Yehoshua y la mano del Padre guardan a las ovejas, y nadie las arrebata. Finalmente: **ואני והאב אחד**, _va'ani veha'av echad_, «yo y el Padre somos uno». **אחד**, _echad_, significa uno; el sentido doctrinal de la unidad debe leerse con el contexto del evangelio, mientras la afirmación textual es directa. La festividad enmarca la escena, pero la respuesta no es «celebren para demostrar identidad»: es escuchar la voz, reconocer las obras y recibir vida.
 
-- [Yojanan 10: la puerta, el buen pastor y Abba](../besorah/yojanan_10_puerta_pastor_abba)
-- [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias)
-- [Shabat: inicio del día y marcos calendarios](shabat)
+## Historia, libertad y preservación
+
+Eric recuerda en sus clases que la historia de Janucá se conoce mediante testigos como los libros de Macabeos, Josefo y la tradición talmúdica posterior, y que los Macabeos retuvieron la Torah frente a la presión imperial. Es una observación histórica atribuida, no una cita de los dos pasajes base. También reconoce que algunos la llaman tradición o mezcla y otros quieren imponerla; su postura busca un centro de libertad sin escándalo. La nota conserva ese equilibrio: Tehilim 30 ofrece memoria de dedicación y Yojanan 10 ofrece un marco narrativo, pero ninguno autoriza a condenar al hermano que no celebra ni a presentar la fiesta como mandamiento universal.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual    | Observación concreta atribuida a Eric                                                                                 | Prueba y tratamiento                                                                                            |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| #tehilim_30_1-5   | Eric usa la dedicación de la casa y la memoria de la santidad para explicar una identidad que recuerda la liberación. | El encabezado y el llamado a confesar la santidad son directos; la aplicación a Janucá histórica es contextual. |
+| #yojanan_10_22-24 | La fiesta crea el escenario de la presión mesiánica, no una obligación uniforme de celebrarla.                        | El texto fija Janucá y la pregunta; la libertad de conciencia proviene de la exposición atribuida.              |
+| #yojanan_10_25-30 | Eric desplaza el centro hacia obras, escucha, seguimiento y preservación en la mano del Padre.                        | Yehoshua habla de obras, ovejas, voz, vida y unidad; la síntesis de identidad bíblica es pedagógica.            |
+
+## Conclusión
+
+Janucá puede funcionar como memoria de dedicación y preservación de identidad sin convertirse en arma de uniformidad. Tehilim 30 canta la liberación y recuerda la santidad; Yojanan 10 ubica a Yehoshua en la fiesta y muestra que la cuestión decisiva es su testimonio, su voz y su promesa de vida. Eric acierta al rechazar tanto la imposición como la condena automática. El texto local añade el control: la memoria debe conducir a alabanza y escucha, no reemplazar la obediencia ni inventar un mandamiento donde el pasaje no lo formula.
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Janukáh 2024 - 5785 Un día para celebrar la identidad bíblica](https://www.youtube.com/watch?v=gyOX6oI8iss) (source_id: `youtube:gyOX6oI8iss`).
-- [Janukáh 5784-2023 חנוכה התשפ''ד Preservation of identity in the 'emunáh](https://www.youtube.com/watch?v=HpsB8Dd-Xbw) (source_id: `youtube:HpsB8Dd-Xbw`).
-- Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
+- [Janukáh 2024 - 5785 Un día para celebrar la identidad bíblica](https://www.youtube.com/watch?v=gyOX6oI8iss) (`source_id: youtube:gyOX6oI8iss`).
+- [Janukáh 5784-2023 Preservation of identity in the emunáh](https://www.youtube.com/watch?v=HpsB8Dd-Xbw) (`source_id: youtube:HpsB8Dd-Xbw`).
+- Esta nota organiza y contrasta las exposiciones públicas; no presenta transcripciones como citas literales.
