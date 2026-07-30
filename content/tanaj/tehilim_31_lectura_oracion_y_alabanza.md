@@ -18,9 +18,10 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=Nm5fsBe_NSA"
   - "docs/scriptures/oe/json/psalms/31.json"
+  - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
   - "youtube:Nm5fsBe_NSA"
-translation: "[OE]"
+translation: "[OE, TTH]"
 ---
 
 # Tesis
@@ -34,6 +35,8 @@ Se sigue el salmo en orden textual y se explican las observaciones concretas de 
 ## Ruta pública de la exposición
 
 La clase vuelve varias veces a la diferencia entre una cueva natural y el refugio que יהוה ofrece: alrededor de **7:23** Eric describe la caverna como protección física, y cerca de **16:54** enlaza refugio y rescate. Estos puntos temporales son rutas públicas de la misma clase —no citas literales— y ayudan a ubicar la observación que luego se contrasta con 31:1-9. Video: <https://www.youtube.com/watch?v=Nm5fsBe_NSA&t=443s> — source_id: `youtube:Nm5fsBe_NSA`.
+
+La comparación local confirma la cadena de imágenes. OE dice **בך יהוה חסיתי ... היה לי לצור מעוז לבית מצודות** y TTH: «En Ti, יהוה, me refugié ... sé para mí una roca de fortaleza, una casa de fortalezas». En 31:6 OE conserva **בידך אפקיד רוחי פדיתה אותי יהוה אל אמת** y TTH: «En tu mano encomiendo mi espíritu; Tú me redimiste, יהוה, El de la verdad». Son textos locales reales para la exposición: **(רוח)**, _ruaj_, tiene el sentido normal de viento, aliento, espíritu o ánimo; aquí designa la vida confiada, y la conexión con Lucas 23:46 es canónica y aproximada.
 
 ## Refugio, justicia y la cueva que no salva por sí sola — Tehilim 31:1-5
 
