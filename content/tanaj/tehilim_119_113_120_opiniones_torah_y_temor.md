@@ -46,6 +46,8 @@ La clase corresponde a la letra Samej y comienza en el v. 113. Se sigue la unida
 
 Eric explica **סעפים**, _se'afim_, como pensamientos, pareceres u opiniones humanas, y destaca que el salmista los “odia” mientras ama la Torah. El sentido normal de la forma pertenece al campo de ramas, ramificaciones o pensamientos divididos; “opiniones” es una aproximación contextual que la clase justifica comparando la raíz con escenarios de división interior. El verso no manda despreciar a toda persona que piensa distinto: presenta la decisión del orante contra la duplicidad que compite con la instrucción de יהוה.
 
+Eric señala además que esta forma es excepcional y que su propuesta de “opiniones” nace de comparar sus usos relacionados, no de imponer una definición castellana al margen del verso. El texto local mantiene el paralelismo **סעפים שנאתי ותורתך אהבתי**: el objeto rechazado son los pensamientos divididos, mientras que el objeto amado es la Torah. Por eso la relación entre _se'afim_ y “opiniones” es pedagógica-aproximada, pero el contraste ético del verso es directo.
+
 La clase usa la escena de Elías en Melajim Alef 18:21 —cojear entre dos opiniones— para explicar que el problema es una mente partida que no se traduce en obediencia coherente. Esa conexión es canónica y pedagógica: ayuda a iluminar “pensamientos divididos”, pero Elías no es una traducción de _se'afim_. Eric insiste además en que amar no es una emoción romántica, sino transmisión práctica de la voluntad divina. El verbo **אהב**, _ahav_, normalmente significa amar; aquí su fuerza se ve en el contraste con “odiar” y en la relación con la Torah, pero reducir toda forma de amor a acción sería una definición demasiado estrecha.
 
 ## Escondite, escudo y expectativa (v. 114)

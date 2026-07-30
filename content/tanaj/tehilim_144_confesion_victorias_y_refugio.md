@@ -65,6 +65,8 @@ Los vv. 5-8 piden que יהוה incline los cielos, toque los montes, lance relá
 
 El v. 9 responde con un “cántico nuevo”. Eric no trata la novedad como una emoción sin memoria: es una canción nueva porque la comunidad vuelve a nombrar una obra concreta de salvación. Los vv. 10-11 repiten que יהוה da salvación a los reyes y libera a David, su siervo, de espada mala y de extranjeros. La clase conecta la protección con el escudo de la fe y con una vida escondida en el Mesías. Colosenses 3:3-4 permite esa conexión para una comunidad apostólica, pero el salmo primero habla del rescate de David y de la acción de יהוה.
 
+La corrección de Eric al título devocional también queda limitada por el texto: “oración pidiendo socorro y prosperidad” describe una súplica posible, pero **אלהים שיר חדש אשירה לך** y **הנותן תשועה למלכים** presentan alabanza y salvación reconocida. La lectura agradecida es, por tanto, una inferencia contextual bien apoyada; no prueba por sí sola que el poema fuera compuesto después de una campaña concreta.
+
 ## Pueblo, hijos y dicha final (vv. 12-15)
 
 La última unidad imagina hijos como plantas crecidas, hijas como esquinas trabajadas de un palacio, almacenes llenos, rebaños numerosos, bueyes cargados y ausencia de brechas, exilio o clamor. Eric lee esta prosperidad no como mérito individual, sino como fruto de un pueblo ordenado bajo יהוה. La afirmación final es decisiva: “bienaventurado el pueblo que tiene esto; bienaventurado el pueblo cuyo Dios es יהוה”. La bendición culmina en la relación con Dios, no en el inventario de bienes.
