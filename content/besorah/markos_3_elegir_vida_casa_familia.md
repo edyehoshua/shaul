@@ -375,6 +375,7 @@ La transición a los Doce protege el sentido de autoridad. En 3:13-15, Yehoshua 
 La casa dividida y la familia del cierre completan la misma progresión. **οἶκος**, _oikos_, «casa u hogar», funciona en 3:25 como una unidad que no puede permanecer dividida; en 3:27, la casa del fuerte solo puede ser saqueada si primero se le ata. Luego **ποιεῖ**, _poiei_, «hace», en 3:35 recibe como objeto la voluntad de Elohim. No basta reclamar cercanía ni repetir una confesión: la pertenencia se reconoce por una práctica visible. La enseñanza de Eric sobre una familia reunida alrededor del Mesías recibe apoyo cuando se mantiene el orden de Marcos: vida restaurada, autoridad recibida y voluntad hecha; no una licencia para controlar a otros ni para confundir todo conflicto con impureza.
 
 [[markos_2_torah_promesas_procedimientos|Marcos 2: perdón, nuevo pacto y Torah que permanece]]
+
 - [[markos_1_reino_autoridad_compasion|Marcos 1: reino, autoridad y compasión]]
 - [[../temas/shabat|Shabat]]
 - [[../temas/ruaj_tumah_posesion_y_liberacion|Ruaj tumah, posesión y liberación]]
