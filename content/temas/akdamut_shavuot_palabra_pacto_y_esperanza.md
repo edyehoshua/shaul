@@ -37,6 +37,8 @@ El título público _Piyut Akdamut Leshavuot. פיוט אקדמות לשבועו
 
 Esta nota desarrolla únicamente el alcance verificable de la fuente pública `youtube:O2jFt6kAl30`: su título identifica el piyut Akdamut y lo relaciona con Shavuot. No se presenta el título como una cita de Eric ni se reconstruye el contenido oral del video. La lectura sigue el orden canónico: pacto y pueblo en Shemot, conteo y cuidado comunitario en Vaikra, alegría y memoria en Devarim, y los testimonios de Hechos y Hebreos sobre palabra, Ruaj y acercamiento. Las conexiones con Akdamut son evaluaciones pedagógicas, no afirmaciones de que el piyut sea Escritura.
 
+El término visible **אַקְדָּמוּת**, _Akdamut_, se relaciona ordinariamente con «introducciones», «preámbulo» o «palabras que preceden». En el título de la fuente funciona como nombre propio de una composición litúrgica asociada a Shavuot; esa fuerza contextual es **directa** para identificar el foco anunciado, pero no demuestra por sí sola su fecha, autoría, contenido completo ni autoridad doctrinal. La transliteración y la glosa son **aproximadas y pedagógicas** mientras no se coteje una edición trazable del piyut. Así se conserva lo que la fuente pública permite observar sin convertir un título en una cita de Eric.
+
 ## Hoja de comparación
 
 | Unidad            | Texto o eje local                                                                                                                    | Control del foco anunciado                                                                                                        |

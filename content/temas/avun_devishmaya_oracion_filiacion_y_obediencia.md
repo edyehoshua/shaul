@@ -29,6 +29,8 @@ translation: "[Delitzsch]"
 
 La fuente pública `youtube:4LEGO26UuNA`, titulada «Avun Devishmaya' Padre nuestro (arameo», anuncia una reflexión sobre la oración del Padre nuestro en arameo. El título no basta para atribuir a Eric una traducción completa ni una explicación detallada; el texto canónico de Mateo 6:9-13 y sus paralelos gobierna la evaluación. La oración comienza con filiación y santificación del Nombre, pide el reinado y la voluntad de Elohim, solicita pan cotidiano, confiesa la necesidad de perdón y termina con dependencia frente a la prueba y el mal.
 
+El foco arameo del título requiere una precisión de fuente. **אָבוּן דְּבִשְׁמַיָּא**, _avun d’vishmaya_, significa ordinariamente «nuestro Padre en los cielos»; **אָבוּן**, _avun_, es «nuestro Padre», y **דְּבִשְׁמַיָּא**, _d’vishmaya_, significa «que está en los cielos» o «de los cielos». Su fuerza contextual, si se usa como encabezamiento de la oración, es filial y comunitaria, no una fórmula de acceso secreto. Estas glosas son **aproximadas y pedagógicas** porque el video no conserva aquí una transcripción ni una edición aramea cotejada; no deben presentarse como la forma exacta pronunciada por Eric ni como el texto fuente de Mateo.
+
 ## Alcance y límite de atribución
 
 No hay transcript local disponible para esta fuente. Es **exacto** atribuir el título público, la URL y el foco anunciado; sería **ilegítimo** inventar palabras de Eric o presentar una reconstrucción aramea como cita. La nota estudia el texto griego local y usa el nombre arameo visible solo como punto de entrada. Las formas arameas que se explican son comparaciones pedagógicas, no pruebas de que una tradición manuscrita concreta esté documentada por el video.
