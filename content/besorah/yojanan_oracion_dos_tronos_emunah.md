@@ -275,6 +275,8 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 
 ## Hoja léxica
 
+En esta hoja, cada forma fuente se acompaña de transliteración, sentido normal y fuerza contextual. La identificación de **(אבא)** con una palabra instituida y la relación de **(εὐχαριστέω)** con **(הִתְאַנֶּה)** pertenecen al argumento de la clase y quedan como aproximaciones pedagógicas pendientes, no como equivalencias léxicas exactas.
+
 | Término                    | Transliteración | Sentido en la clase                 | Observación                                            |
 | -------------------------- | --------------- | ----------------------------------- | ------------------------------------------------------ |
 | **(כִּסֵּא הַחֶסֶד)**      | kise ha-jésed   | trono de la gracia                  | #ivrim_4_16; Elohim, misericordia                      |
@@ -330,6 +332,12 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 La clase profundiza la respuesta a «¿a quién oraba Yeshúa?» moviendo el foco de personas a tronos, de gratitud moderna a gracia instituida, y de fe humana a emunah como entrega de Elohim. #iojanan_11_42 condensa el punto: «quién eres tú» — la palabra enviada es la palabra de Elohim.
 
 Desde Ivrim y Romanos, la misma sesión corrige dos distorsiones pastorales: «cumplió la ley» como excusa para no observar, y meritocracia farisaica como camino a la salvación. El cierre de Yojanán 11 muestra el costo político del milagro y, en #iojanan_11_52, el horizonte más ancho: reunir en uno a los herederos dispersos del trono de la gracia.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El evangelio según Yojanán (parte 40)](https://www.youtube.com/watch?v=LfJ1LGjOXho) (`source_id`: `youtube:LfJ1LGjOXho`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
