@@ -177,6 +177,7 @@ En 2:11-12, **μνημονεύετε**, _mnēmoneuete_, «recuerden», obliga a 
 En 2:14-18, **εἰρήνη**, _eirēnē_, «paz o relación reconciliada», identifica al Mesías; **ποιήσας**, _poiēsas_, «haciendo», y **ἄμφω**, _amphō_, «ambos», conservan visibles los dos grupos mientras describen al hombre nuevo; y **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconciliar plenamente», lleva a ambos a Elohim. El resultado se concreta en **προσαγωγή**, _prosagōgē_, «acceso o introducción», y **ἐν ἑνὶ πνεύματι**, «en un solo Rúaj». Por eso «un solo pueblo» no significa que una parte absorba a la otra: significa paz, un cuerpo y acceso común al Padre.
 
 El cierre, 2:19-22, cambia el registro de conflicto a pertenencia y edificación. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», nombran la nueva pertenencia; **ἀκρογωνιαῖος**, _akrogōniaios_, «piedra angular», sitúa al Mesías como fundamento; y **συναρμολογουμένη**, _synarmologoumenē_, «ensamblada juntamente», junto con **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», describe una obra comunitaria en curso. **κατοικητήριον**, _katoikētērion_, «morada», fija el propósito: Elohim habita en el Rúaj. La exposición de Eric queda así probada en la progresión completa —gracia, memoria, sangre, paz, acceso y morada—, no en una consigna aislada sobre identidad.
+
 ## Ver también
 
 - [[efesios_1_voluntad_reconciliacion_y_santidad|Efesios 1: voluntad, reconciliación y santidad]]
