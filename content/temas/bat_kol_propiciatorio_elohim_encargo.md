@@ -42,8 +42,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=m3u6ei-rNKA&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=9"
 translation: "[TTH, Delitzsch, OE]"
-source_ids:
-  - "youtube:m3u6ei-rNKA"
 ---
 
 # Tesis
@@ -190,7 +188,7 @@ La ruta completa de la parte 9 queda así: voz pública, tejido de Hijo-Siervo-P
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Evangelio según Marcos, parte 9: Bat Qol / Elohim](https://www.youtube.com/watch?v=m3u6ei-rNKA) (`source_id`: `youtube:m3u6ei-rNKA`).
+- Video público de apoyo: [Evangelio según Marcos, parte 9: Bat Qol / Elohim](https://www.youtube.com/watch?v=m3u6ei-rNKA).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también

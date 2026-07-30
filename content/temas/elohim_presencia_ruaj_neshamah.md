@@ -37,8 +37,6 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=4xxUgmWPEmw&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=11"
 translation: "[TTH, Delitzsch, OE]"
-source_ids:
-  - "youtube:4xxUgmWPEmw"
 ---
 
 # Tesis
@@ -207,7 +205,7 @@ La contribución específica de la parte 11 es ordenar la presencia en tres nive
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [El Evangelio según Marcos, parte 11: Rúaj Haqódesh, Neshamáh y Shjinah](https://www.youtube.com/watch?v=4xxUgmWPEmw) (`source_id`: `youtube:4xxUgmWPEmw`).
+- Video público de apoyo: [El Evangelio según Marcos, parte 11: Rúaj Haqódesh, Neshamáh y Shjinah](https://www.youtube.com/watch?v=4xxUgmWPEmw).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también

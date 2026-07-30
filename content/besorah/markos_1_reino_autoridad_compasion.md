@@ -24,11 +24,15 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=Farvi5l0RRA"
   - "https://www.youtube.com/watch?v=BRqiJzOHBkQ"
+  - "https://www.youtube.com/watch?v=m3u6ei-rNKA"
+  - "https://www.youtube.com/watch?v=4xxUgmWPEmw"
   - "docs/scriptures/tth/json/markos.json"
 translation: "[TTH]"
 source_ids:
   - "youtube:Farvi5l0RRA"
   - "youtube:BRqiJzOHBkQ"
+  - "youtube:m3u6ei-rNKA"
+  - "youtube:4xxUgmWPEmw"
 ---
 
 # Tesis
@@ -41,12 +45,14 @@ Esta nota ordena dos clases del **hermano Eric de Jesús Rodríguez Mendoza** de
 
 ## Control de fuentes
 
-| Fuente pública                                                                 | Tramo que se le atribuye                                        | Límite de atribución                                                                                                                                    |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Parte 1](https://www.youtube.com/watch?v=Farvi5l0RRA) (`youtube:Farvi5l0RRA`) | Marcos 1:14-45: reino, autoridad, oración, sanidades y limpieza | La nota conserva las observaciones de Eric sobre distinguir enfermedad, espíritu impuro y lepra, pero las prueba únicamente con la secuencia de Marcos. |
-| [Parte 3](https://www.youtube.com/watch?v=BRqiJzOHBkQ) (`youtube:BRqiJzOHBkQ`) | Continuación pública sobre Marcos 1 y la autoridad de Yehoshua  | El título y la atribución no autorizan a reconstruir frases no cotejadas; las conexiones semíticas permanecen comparativas y calificadas.               |
+| Fuente pública                                                                  | Tramo que se le atribuye                                        | Límite de atribución                                                                                                                                                               |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Parte 1](https://www.youtube.com/watch?v=Farvi5l0RRA) (`youtube:Farvi5l0RRA`)  | Marcos 1:14-45: reino, autoridad, oración, sanidades y limpieza | La nota conserva las observaciones de Eric sobre distinguir enfermedad, espíritu impuro y lepra, pero las prueba únicamente con la secuencia de Marcos.                            |
+| [Parte 3](https://www.youtube.com/watch?v=BRqiJzOHBkQ) (`youtube:BRqiJzOHBkQ`)  | Continuación pública sobre Marcos 1 y la autoridad de Yehoshua  | El título y la atribución no autorizan a reconstruir frases no cotejadas; las conexiones semíticas permanecen comparativas y calificadas.                                          |
+| [Parte 9](https://www.youtube.com/watch?v=m3u6ei-rNKA) (`youtube:m3u6ei-rNKA`)  | Marcos 1:9-13: voz celestial, Hijo, Siervo, Profeta y encargo   | Se conserva la lectura atribuida sobre la voz y los títulos; Marcos prueba la inmersión, el descenso del Rúaj y la prueba en el desierto, no una definición rabínica de _bat qol_. |
+| [Parte 11](https://www.youtube.com/watch?v=4xxUgmWPEmw) (`youtube:4xxUgmWPEmw`) | Marcos 1:9-13: Rúaj, presencia y vida recibida                  | Se conserva la distinción pedagógica entre Rúaj, neshamah y Shekhinah; el capítulo solo permite probar aquí el Rúaj que desciende y conduce a Yehoshua.                            |
 
-Los dos `source_ids` son distintos, pertenecen al grupo exclusivo de Marcos y reciben crédito público aquí. La hoja de comparación y el texto local tienen prioridad sobre cualquier formulación automática o sobre una explicación semítica que no pueda demostrarse en el pasaje.
+Los cuatro `source_ids` son públicos, distintos y exclusivos de esta nota canónica de Marcos 1. Las partes 9 y 11 también tienen notas temáticas de apoyo, pero sus argumentos se integran aquí para conservar una sola nota canónica por capítulo. La hoja de comparación y el texto local tienen prioridad sobre cualquier formulación automática o sobre una explicación semítica que no pueda demostrarse en el pasaje.
 
 ## Hoja de comparación
 
@@ -84,6 +90,10 @@ Marcos no salta de la cita profética al ministerio público. En #markos_1_4-8 I
 Los vv. 9-13 ordenan la identidad antes de la proclamación del reino. Yehoshua llega desde Natseret, es sumergido por Iojanán, ve abrirse los cielos, recibe el Rúaj y oye la voz que lo llama Hijo amado. Luego el mismo Rúaj lo lleva al desierto, donde permanece cuarenta días y es probado. Eric presenta a Yehoshua como la manifestación de la imagen de Elohim y como aquel cuyo poder enfrenta las tinieblas; el relato sostiene que su misión es confirmada desde arriba y probada en soledad, pero no convierte esas escenas en una demostración pública de poder. **ἐκβάλλω**, _ekballō_, «expulsar o echar fuera», describe la acción del Rúaj al llevarlo al desierto y luego reaparece en los exorcismos: el paralelo verbal no borra la diferencia entre prueba obediente y liberación de un espíritu.
 
 Después de la entrega de Iojanán, el mensaje se vuelve explícito: el tiempo se ha cumplido, el reino se ha acercado, y la respuesta es volver a יהוה y creer a la buena noticia (#markos_1_14-15). El anuncio queda enlazado con el camino preparado, la identidad confirmada y la prueba superada; por eso no es una invitación a admirar milagros aislados. La autoridad que se verá en la sinagoga está al servicio de una misión ya definida.
+
+Las partes 9 y 11 amplían esta misma unidad inicial sin cambiar su orden. Eric relaciona la voz de 1:11 con el testimonio público de Hijo, Siervo y Profeta, y distingue el **Rúaj** que desciende sobre Yehoshua de la **neshamah** como categoría pedagógica de vida recibida; también emplea _bat qol_ y _Shekhinah_ como vocabulario de la exposición. Marcos permite afirmar algo más preciso: **φωνή**, _phōnē_, «voz o sonido», identifica al Hijo; **πνεῦμα**, _pneuma_, «espíritu, viento o aliento», desciende y después conduce al desierto; y **υἱός**, _huios_, «hijo», recibe la calificación «amado». La relación con **(בת קול)**, _bat qol_, «voz celestial»; **(רוח)**, _ruaj_, «viento, aliento o espíritu»; y **(נשמה)**, _neshamah_, «aliento o vida», es comparativa y no una retroversión demostrada. La secuencia local prueba testimonio, investidura y prueba obediente, no una taxonomía completa de presencia divina.
+
+La voz tampoco debe separarse de la prueba que sigue. El mismo Rúaj que desciende en 1:10 **ἐκβάλλει**, _ekballei_, «lleva o expulsa», a Yehoshua hacia el desierto en 1:12; el verbo puede expresar conducción en este contexto y expulsión en los exorcismos posteriores, pero no hace equivalentes ambas escenas. La observación atribuible de Eric sobre autoridad y presencia queda así controlada: antes de enseñar con autoridad, Yehoshua es declarado Hijo, conducido al desierto y probado. La mención de _Shekhinah_ como categoría posterior queda pendiente de historia rabínica y no se presenta como término del Marcos griego.
 
 La clase observa que la primera demostración de esa autoridad es el enfrentamiento con las tinieblas. El texto permite decir que su mandato desenmascara una oposición a su presencia y libera al hombre; por eso la gente une «enseñanza nueva» y autoridad sobre espíritus impuros (#markos_1_27). Pero no dice que la enseñanza sea nueva porque revele una técnica de exorcismo. La novedad percibida está en que Yehoshua ordena y es obedecido. La confesión «el Apartado de Elohim» (#markos_1_24) tampoco procede de un testigo que él acepte: él lo hace callar (#markos_1_25).
 
@@ -158,6 +168,7 @@ El cierre vuelve a la misión y a la restauración. **κηρύσσω** (_kēruss
 - **#markos_1_21-34 — autoridad que distingue liberación y enfermedad:** Eric recalca que Yehoshua enseña con autoridad, manda al espíritu impuro y sana la fiebre sin mezclar ambas escenas. La nota lo prueba con la sintaxis narrativa de los vv. 21-27 y la enumeración diferenciada de los vv. 32-34; no convierte esa distinción en un diagnóstico moderno ni en una explicación de todo sufrimiento.
 - **#markos_1_35-39 — oración antes que popularidad:** Eric lee la salida al lugar desierto como una corrección de la presión de la multitud. El relato confirma que Yehoshua ora, rechaza quedarse limitado a la fama local y continúa proclamando en otras ciudades; la aplicación pastoral sobre la religiosidad espectacular es una inferencia, no una frase del texto.
 - **#markos_1_40-45 — compasión y procedimiento de Moshéh:** Eric destaca la petición condicional del leproso y la voluntad compasiva de Yehoshua, junto con el envío al sacerdote. La nota conserva el movimiento completo —petición, toque, limpieza, mandato y desobediencia que divulga el hecho— y deja abierta la equivalencia exacta entre **(λεπρός)** y **(צרעת)**.
+- **#markos_1_9-13 — voz, Rúaj y prueba:** Las partes 9 y 11 relacionan la voz celestial con Hijo, Siervo y Profeta, y distinguen Rúaj, neshamah y Shekhinah. La nota conserva esas observaciones atribuibles, pero las prueba por **φωνή**, **πνεῦμα**, **υἱός** y el movimiento al desierto; _bat qol_ y _Shekhinah_ quedan como categorías interpretativas, no como vocabulario explícito de Marcos.
 
 El mapa distingue lo que la exposición observa del alcance que el pasaje permite afirmar; la transcripción automática sirve para atribución y orientación, no como cita literal.
 
@@ -262,6 +273,8 @@ El cierre muestra para qué sirve la autoridad. **θέλω**, _thelō_, «querer
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Gospel According to Mark Part 1](https://www.youtube.com/watch?v=Farvi5l0RRA) (`source_id`: `youtube:Farvi5l0RRA`).
 - Video: [El Evangelio según Marco Parte 3](https://www.youtube.com/watch?v=BRqiJzOHBkQ) (`source_id`: `youtube:BRqiJzOHBkQ`).
+- Video: [El Evangelio según Marco, parte 9: Bat Qol / Elohim](https://www.youtube.com/watch?v=m3u6ei-rNKA) (`source_id`: `youtube:m3u6ei-rNKA`).
+- Video: [El Evangelio según Marco, parte 11: Rúaj Haqódesh, Neshamáh y Shjinah](https://www.youtube.com/watch?v=4xxUgmWPEmw) (`source_id`: `youtube:4xxUgmWPEmw`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
