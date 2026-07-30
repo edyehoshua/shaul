@@ -135,6 +135,12 @@ En #romanos_3_27-31, **(καυχάομαι)**, _kauchaomai_, significa gloriarse
 
 La tesis pública queda así evaluada sin exageración. Eric puede ser acreditado por la URL pública y el foco que anuncia; el texto sostiene que estar «dentro» de una categoría religiosa no produce jactancia legítima, que toda boca queda bajo el diagnóstico de la Escritura y que la emunah no destruye la Torah. Es **exacto** atribuir ese alcance canónico; es **aproximado** trasladar _pistis_ a _emunah_ y _nomos_ a Torah; y sería **pedagógico o inferencial** presentar una glosa de _hilastērion_ como doctrina exhaustiva. Romanos 3 mantiene juntas gracia, justicia, responsabilidad y testimonio de la Torah.
 
+## Reparación focal: el título público no sustituye la exposición
+
+La fuente pública `youtube:u0NtR-y-T2Y` solo permite atribuir con seguridad a Eric de Jesús Rodríguez Mendoza el título «A los que están dentro de la ley» y su referencia visible a Romanos 3:17 en adelante. No hay transcript local utilizable para reconstruir ejemplos, frases o conclusiones orales. Por eso la observación atribuible queda limitada al foco anunciado, mientras el estudio canónico sigue las perícopas en orden: la Torah acusa y cierra toda boca (#romanos_3_17-20), la justicia se manifiesta y es atestiguada por Torah y profetas (#romanos_3_21-26), y la emunah establece la Torah sin devolver la jactancia (#romanos_3_27-31).
+
+En #romanos_3_19, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o responsable ante un tribunal; su fuerza contextual es universal y forense. En #romanos_3_20, **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno o reconocimiento; la Torah hace reconocible el pecado, pero no se convierte por ello en causa de la rebelión. En #romanos_3_31, **(καταργέω)**, _katargeō_, significa anular o dejar sin efecto, mientras **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. Las glosas son directas en su campo ordinario; traducir **(νόμος)**, _nomos_, como Torah es contextual y aproximado, y deducir desde el título una aplicación detallada de cada mandamiento sería inferencial. La evaluación segura conserva responsabilidad universal, don gratuito y Torah establecida, sin atribuir a Eric una transcripción inexistente.
+
 ## Ver también
 
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]]
