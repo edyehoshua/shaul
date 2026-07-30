@@ -42,7 +42,7 @@ references:
   - "#yaakov_3_17"
   - "#sodot_19_10"
 sources:
-   - "content/besorah/markos_9_gloria_servicio_sal_paz.md"
+  - "content/besorah/markos_9_gloria_servicio_sal_paz.md"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/daniel/7.json"
