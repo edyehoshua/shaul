@@ -369,13 +369,11 @@ El fruto de esa administración se define en 3:6 y se comprueba en 3:14-21. **σ
 ## Conclusión
 
 Efesios 3 sigue una sola línea: Pablo recibe una administración de gracia, comunica por revelación el misterio y define ese misterio como la participación conjunta de los gentiles en la herencia, el cuerpo y la promesa en el Mesías. La oración final muestra el destino de ese encargo: una comunidad fortalecida por el Rúaj, habitada por el Mesías, arraigada en amor y capaz de comprender «con todos los santos». Las formulaciones de Eric sobre sustentabilidad, mente, riqueza y escuela se conservan como observaciones atribuidas y quedan sujetas al orden del capítulo.
-
 ## Control de los términos arameos de las partes 15-16
 
 Las partes 15 y 16 amplían la exposición con las expresiones **אבא**, _abba_, «padre», y **ביתא**, _beyta_, «casa» o «escuela» según la construcción que la clase propone. Son formas arameas que deben conservarse como vocabulario atribuido a Eric, no como palabras adicionales de Efesios 3. En el capítulo, la forma griega **πατήρ**, _patēr_, «padre», aparece en la oración de 3:14-15, mientras el campo de casa o familia no convierte automáticamente **οἰκονομία**, _oikonomia_, en «escuela».
 
 El vínculo pedagógico entre _abba_, la filiación y la formación puede iluminar la exhortación de la clase, pero su equivalencia con **πατήρ** es funcional y contextual, no una retroversión demostrada. Del mismo modo, _beyta_ puede expresar «casa» y la clase lo usa para hablar de una «escuela del Mesías»; Efesios 3 prueba una familia nombrada desde el Padre y una comunidad fortalecida, arraigada y edificada en amor, pero no emplea en esta perícopa un sustantivo arameo que signifique literalmente «escuela». Esta distinción evita que las partes 15-16 desplacen la progresión local: encargo, participación, oración y gloria comunitaria.
-
 ## Control de cierre: del encargo a la plenitud comunitaria (3:8-21)
 
 La segunda mitad del capítulo no abandona el misterio anunciado en 3:6. En 3:8, **ἐλάχιστος**, _elachistos_, «el menor o más pequeño», califica la autodescripción de Pablo antes de **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», la riqueza inescrutable del Mesías. **ἀνεξιχνίαστος**, _anexichniastos_, «imposible de rastrear por completo», limita la aplicación de Eric sobre la riqueza: la clase puede exhortar a una administración generosa de la gracia, pero la forma no convierte «sustentabilidad» en una traducción exhaustiva de **οἰκονομία**, _oikonomia_, «administración o encargo». La comparación con **עשר**, _osher_, «riqueza», es de campo semántico y no una retroversión demostrada.
