@@ -516,6 +516,14 @@ El control canónico decisivo permanece en Marcos 13. La **(βδέλυγμα)**,
 - Video: [El Evangelio según Marcos — Parte 42: Cap 13:14-32: Las señales a la venida de Mashíaj](https://www.youtube.com/watch?v=wS79RPN81a8) (`source_id`: `youtube:wS79RPN81a8`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
+## Control de dependencia: información limitada, tarea pública y vigilancia
+
+Marcos 13:28-37 no permite separar la palabra firme de la tarea encomendada. **γινώσκετε**, _ginōskete_, «reconozcan o sepan», permite discernir la proximidad de la higuera, pero **οὐκ οἴδατε**, _ouk oidate_, «no saben», conserva el límite sobre el día y la hora. **οἱ λόγοι μου**, _hoi logoi mou_, «mis palabras», no pasarán; la permanencia de la palabra no convierte esa promesa en acceso a información reservada. La relación pedagógica con **(בין)**, _bin_, «entender o discernir», es aproximada, mientras la sintaxis griega fija la diferencia entre reconocer señales y conocer el momento.
+
+La parábola hace visible el fruto de la vigilancia. El dueño entrega **ἐξουσία**, _exousia_, «autoridad, responsabilidad o encargo», a sus siervos y a cada uno su **ἔργον**, _ergon_, «obra o tarea»; el portero recibe **γρηγορεῖν**, _grēgorein_, «vigilar o mantenerse despierto». El imperativo plural **γρηγορεῖτε**, _grēgoreite_, «vigilen», extiende la responsabilidad a todos. Así, la observación de Eric sobre no fabricar un calendario queda probada localmente: la comunidad no recibe una fecha para controlar a otros, sino una tarea que debe cumplir mientras espera.
+
+La tesis histórica sobre las setenta semanas debe permanecer subordinada a este cierre. **(נחתך)**, _nechtakh_, «cortado, delimitado o decretado», y **(משיח)**, _mashiach_, «ungido», requieren Daniel y contexto; no resuelven por sí solos la cronología ni el referente. Marcos sí conserva **βλέπετε**, _blepete_, «miren o estén atentos», y **γρηγορεῖτε**, _grēgoreite_, «velen», como prácticas sostenidas. La lectura atribuible de Eric puede discutirse con Daniel, Marcos y Lucas, pero su prueba canónica final es pública y ética: palabra estable, conocimiento limitado, trabajo visible y vigilancia compartida.
+
 ## Ver también
 
 - [[elohim_aba|Elohim y Aba como amor manifiesto y fuente]]

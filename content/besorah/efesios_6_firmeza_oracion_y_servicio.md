@@ -356,3 +356,11 @@ Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús R
 - «La carta a los Efesios (parte 35) Cap 6: Oración y cierre» — https://www.youtube.com/watch?v=O1YNAgZXzdo (`source_id`: `youtube:O1YNAgZXzdo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.
+
+## Control de dependencia: firmeza que se verifica en servicio
+
+La lectura de Eric sobre la armadura queda incompleta si se separa de los encargos que abren y cierran el capítulo. En 6:1-9, **ποιεῖτε**, _poieite_, «hagan», y **ἀνιέντες**, _anientes_, «dejen o cesen», muestran que la autoridad se prueba por acciones observables: escuchar «en el Señor», criar sin provocar y abandonar las amenazas. En 6:10-13, **ἐνδυναμοῦσθε**, _endynamousthe_, «reciban fuerza», y **στῆναι**, _stēnai_, «permanezcan de pie», desplazan la fuente de la capacidad al Señor y describen resistencia, no dominio. La correspondencia pedagógica con **(עז)**, _oz_, «fuerza», es aproximada; la sintaxis griega y el límite de 6:12 gobiernan el argumento.
+
+El orden de 6:14-20 prueba el fruto de esa firmeza. **ἀλήθεια**, _alētheia_, «verdad», **δικαιοσύνη**, _dikaiosynē_, «justicia», **εἰρήνη**, _eirēnē_, «paz», **πίστις**, _pistis_, «fe o confianza», y **ῥῆμα**, _rhēma_, «palabra o declaración», no son nombres de técnicas aisladas: forman la imagen que conduce a **προσευχόμενοι**, _proseuchomenoi_, «orando», y **παρρησία**, _parrēsia_, «franqueza para hablar». Por eso la observación atribuible de Eric sobre discernir lo que se oye y se ve encaja solo cuando produce oración por todos y anuncio fiel; una aplicación que produce acusación o violencia contradice «no contra sangre y carne».
+
+El cierre con Tíquico confirma la dependencia comunitaria. **γνωρίσει**, _gnōrisei_, «dará a conocer», y **παρακαλέσει**, _parakalei_, «animará o consolará», convierten la firmeza en comunicación confiable. La correspondencia con **(שלום)**, _shalom_, «paz o integridad», es temática y aproximada, no una retroversión de **εἰρήνη**. Así, el capítulo prueba la enseñanza de Eric mediante una secuencia completa: autoridad limitada, resistencia recibida, oración perseverante y servicio que comunica paz.
