@@ -189,6 +189,12 @@ La escena de la mujer prueba ese principio mediante una respuesta verbal. **(ἀ
 
 El cierre devuelve la escucha al cuerpo restaurado. **(μογιλάλος)**, _mogilalos_, «de habla dificultosa», identifica la necesidad del hombre; **(ἀκούω)**, _akouō_, «oír o escuchar», y **(λαλέω)**, _laleō_, «hablar», nombran el resultado verificable. La orden **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», no convierte los gestos en una técnica, sino que conduce a oídos abiertos y lengua desatada. Así el capítulo mide toda piedad por su capacidad de escuchar la palabra, proteger el mandamiento, recibir al necesitado y anunciar con claridad; no por la severidad con que inspecciona a otros.
 
+## Control de equivalencias: contaminación, palabra y apertura
+
+Tres equivalencias deben permanecer separadas para que la lectura no salte de una escena a otra. **(κοινόω)**, _koinoō_, «hacer común o contaminar», describe en 7:15 y 20 el resultado que Marcos atribuye a lo que sale del interior; su comparación con **טמא**, _tame_, «impuro», es semítica y aproximada, no una identidad morfológica. **(καθαρίζων)**, _katharizōn_, «purificando o declarando limpio», es un participio presente en 7:19: su forma permite la discusión de puntuación, pero por sí sola no decide si el narrador concluye sobre los alimentos ni si Yehoshua está reescribiendo Vayiqra 11.
+
+En la escena de la mujer, **(λόγος)**, _logos_, «palabra, dicho o mensaje», aparece en la razón explícita de 7:29: «por esta palabra». La equivalencia con **דבר**, _davar_, «palabra o asunto», ilumina el campo semítico sólo como comparación; no convierte la respuesta en una fórmula de poder. En la Decápolis, **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», es la forma aramea conservada por el relato; su relación con **פתח**, _patach_, «abrir», es de parentesco semítico, no de sustitución exacta. La prueba de ambas palabras está en sus efectos narrados: la hija queda libre y el hombre oye y habla.
+
 ## Conclusión
 
 Marcos 7 desarrolla una sola línea a través de escenas diferentes. La tradición falla cuando deja sin ayuda a padre y madre; el corazón se muestra por los males que produce; la mujer extranjera persevera dentro de la imagen de la mesa y recibe misericordia; el sordomudo oye y habla. Yehoshua no enseña una piedad de exterior ni una misericordia abstracta. Su palabra examina lo que sale del ser humano y, al mismo tiempo, abre espacio para que quien se acerca con necesidad sea atendido. La distinción de Eric entre higiene e impureza, y entre cerco humano y mandamiento de יהוה, queda sujeta a ese orden textual.

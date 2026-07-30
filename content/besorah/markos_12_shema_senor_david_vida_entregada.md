@@ -263,6 +263,12 @@ El cierre convierte el amor confesado en una prueba social. **κατεσθίω**
 
 Así, la secuencia completa prueba la enseñanza sin separar doctrina y conducta: la Escritura y el poder corrigen una esperanza reducida al presente; el Shemá ordena amor total y cuidado; el señorío del Mesías resiste una genealogía manejable; y la economía religiosa queda juzgada por si protege o consume. Las conexiones de Eric con «dos poderes», Zóhar y una regla universal sobre **(זרע)**, _zera_, «semilla o descendencia», permanecen como propuestas pendientes; no son necesarias para sostener el argumento de Marcos.
 
+## Control de equivalencias: resurrección, Shemá y señorío
+
+La unidad del capítulo depende de no convertir las comparaciones hebreas en traducciones ocultas del griego. **(ἀνάστασις)**, _anastasis_, «levantamiento o resurrección», nombra el horizonte que Yehoshua contrapone al caso de levirato; su relación con **קום**, _qum_, «levantarse», es temática y aproximada, y no describe por sí sola cada detalle del mundo venidero. **(ἄκουε)**, _akoue_, «escucha», introduce el Shemá en Marcos 12:29, mientras **שמע**, _shema_, «escuchar y atender», explica su trasfondo de pacto; no autoriza a traducir todo uso de _akouō_ como obediencia consumada.
+
+En 12:35-37, **(κύριος)**, _kyrios_, «señor», recibe su fuerza por la relación entre la palabra de יהוה y «mi Señor» en el Salmo 110. **אדני**, _adoni_, «mi señor», es la forma hebrea comparada del salmo, no una prueba independiente de una solución metafísica. Finalmente, **(βίος)**, _bios_, «vida o medios de vida», y **(ὑστέρημα)**, _hysterēma_, «carencia o déficit», explican por qué la ofrenda de la viuda es total; no transforman su pobreza en una cuota religiosa. Cada equivalencia sirve a su perícopa y queda limitada por el contexto inmediato.
+
 ## Pendiente de verificar
 
 - [ ] Cotejar el rango de **(אחד)** en #devarim_6_4 antes de presentar “indivisible” como más que una aplicación teológica.
