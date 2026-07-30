@@ -308,4 +308,3 @@ También **ῥαββουνί**, _rabbouni_, «mi maestro» o «mi rabino», es u
 - [[markos_9_gloria_servicio_sal_paz|Marcos 9: gloria revelada, servicio y sal de paz]]
 - [[markos_8_ciego_confesion_camino_cruz|Marcos 8: visión restaurada, confesión y camino de la cruz]]
 - [[markos_14_pesaj_pacto_getsemani_juicio|Marcos 14: Pésaj, pacto, Getsemaní y juicio]]
-- [[markos_abba_juramento_restauracion_reino|Marcos: Abba, juramento de restauración y entrega del reino]]
