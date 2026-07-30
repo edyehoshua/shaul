@@ -335,6 +335,14 @@ El cierre debe leerse sin borrar sus pasos intermedios. Primero, Yehoshua clama 
 
 El capítulo avanza desde una casa llena de aroma hasta una palabra dada para vida olam. En el recorrido, Yehoshua entra como Rey humilde, interpreta su muerte como fruto, pide la glorificación del Nombre, llama a caminar en la Luz y declara que la palabra del que lo envió salva y juzga. Las clases preservadas desarrollan cada tramo; este panorama mantiene la continuidad del capítulo y distingue el texto de las propuestas que aún requieren comprobación.
 
+## Mapa de la enseñanza de Eric
+
+| Punto tomado de Eric | Versos | Evaluación |
+| --- | --- | --- |
+| Betania, el nardo y la entrada humilde anticipan sepultura y realeza. | #iojanan_12_1-15 | La cena, la unción, el clamor y el pollino aparecen en ese orden; las conexiones con Salmos y Zacarías son intertextuales. |
+| La llegada de los griegos conduce a la hora y al grano que muere para dar fruto. | #iojanan_12_16-24 | El recorrido local sostiene la secuencia; la apertura a las naciones queda como inferencia canónica cualificada. |
+| La palabra enviada trae luz, salvación, juicio y vida olam. | #iojanan_12_35-50 | El texto afirma esas funciones; la aplicación de oír y guardar es pedagógica y no una equivalencia léxica automática. |
+
 ## Ver también
 
 - [[yojanan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]

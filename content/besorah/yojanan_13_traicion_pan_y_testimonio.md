@@ -104,6 +104,14 @@ La propuesta no debe presentarse como resultado incuestionable. Los cuatro relat
 - [ ] Cotejar el uso de **(שליח)**/_shaliaj_ frente al vocabulario griego de envío en #iojanan_13_20 y la fuente rabínica mencionada por la clase.
 - [ ] Examinar por separado las afirmaciones de la clase sobre elección, predestinación y responsabilidad de Iehudáh; no se establecen solo con este tramo.
 
+## Mapa de la enseñanza de Eric
+
+| Punto tomado de Eric | Versos | Evaluación |
+| --- | --- | --- |
+| La traición hiere desde la cercanía de la mesa y el lenguaje del talón. | #iojanan_13_18; #tehilim_41_9 | El texto confirma pan compartido y la cita del salmo; la relación adicional con Bereshit 3:15 queda como conexión intertextual pendiente. |
+| Yehoshua anuncia la entrega antes de que ocurra para afirmar a los discípulos. | #iojanan_13_19-21 | La anticipación y el estremecimiento están explícitos; las explicaciones amplias sobre elección quedan cualificadas. |
+| El bocado identifica a Iehudáh y no debe confundirse automáticamente con el pan de la institución. | #iojanan_13_24-30 | El relato confirma la señal, la salida y la noche; la distinción léxica y la armonización sinóptica se mantienen como evaluación contextual e hipótesis pendiente. |
+
 ## Conclusión
 
 El relato conserva a la vez cercanía, dolor y testimonio. Yehoshua anuncia que una persona de la mesa lo entregará, identifica a Iehudáh mediante el bocado y permite que salga; aun así, prepara a sus discípulos para que el acontecimiento no destruya su afirmación. La reconstrucción cronológica de las clases es una vía de lectura útil, pero debe permanecer distinguida del orden explícito de cada evangelio.
