@@ -42,6 +42,14 @@ Esta nota consolida dos sesiones públicas de Eric de Jesús Rodríguez Mendoza.
 | #romanos_10_14-17 | La cadena pregunta cómo invocarán, creerán y oirán sin anunciador ni enviado; la escucha se vincula con la palabra del Mesías.       |
 | #romanos_10_18-21 | El anuncio alcanza ampliamente, mientras Israel aparece como pueblo que oye, contradice y desobedece.                                |
 
+## Texto local para controlar la secuencia
+
+La comparación debe quedar anclada en el texto local de Delitzsch, no solamente en el resumen de la perícopa. En #romanos_10_1-4 se lee: **אֶחָי חֵפֶץ לְבָבִי וּתְפִילָּתִי לֵאלׂהִים בְּעַד יִשְׂרָאֵל אֲשֶׁר יִוָּשֵׁעוּ׃ ... כִּי הַמָּשִׁיחַ סוֹף הַתּוֹרָה לִצְדָקָה לְכָל־הַמַּאֲמִין בּוֹ׃**. El fragmento conserva el deseo de salvación, el celo sin conocimiento y la relación del Mesías con la Torah para justicia; por eso no debe aislarse **τέλος**, _telos_, como un eslogan contra toda instrucción.
+
+En #romanos_10_8-13 el corpus dice: **קָרוֹב אֵלֶיךָ הַדָּבָר בְּפִיךָ וּבִלְבָבֶךָ ... כִּי אִם־בְּפִיךָ תוֹדֶה שֶׁיֵּשׁוּעַ הוּא הָאָדוֹן וְתַאֲמִין בִּלְבָבְךָ שֶׁהָאֱלׂהִים הֱעִירוֹ מִן־הַמֵּתִים תִּוָּשֵׁעַ׃ ... כִּי כָּל־אֲשֶׁר יִקְרָא בְּשֵׁם יְהוָֹה יִוָּשֵׁעַ׃**. La cercanía de la palabra incluye boca, corazón, confesión, confianza e invocación; el pasaje no presenta una pronunciación autónoma que obligue a Elohim.
+
+Finalmente, #romanos_10_14-17 y #romanos_10_20-21 conservan la cadena y su tensión: **וְאֵיכָה יַאֲמִינוּ בַּאֲשֶׁר לׂא־שָׁמְעוּ וְאֵיכָה יִשְׁמְעוּ בְּאֵין מַגִּיד׃ ... וְהָאֱמוּנָה בָּאָה מִשְּׁמוּעָה וְהַשְּׁמוּעָה בִּדְבַר אֱלׂהִים׃ ... נִמְצָאתִי לַאֲשֶׁר לׂא בִקְשׁוּנִי** ... **פֵּרַשְׂתִּי יָדַי כָּל־הַיּוֹם אֶל־עַם סוֹרֵר וּמוֹרֶה**. Así, anuncio, escucha y resistencia permanecen en orden. Las elipsis solo marcan fragmentos del texto local; no son citas de la transcripción de Eric.
+
 ## Romanos 10:1-4: celo, justicia y meta de la Torah
 
 Pablo no comienza con desprecio, sino con deseo y oración: quiere que Israel sea salvo. Reconoce un celo real por Elohim, pero no según conocimiento. El problema no es la intensidad religiosa en sí misma, sino que algunos procuran establecer su propia justicia y no se someten a la justicia divina. El diagnóstico debe conservar el sujeto y el contexto; no equivale a una condena indiscriminada de toda Torah o de todo celo israelita.

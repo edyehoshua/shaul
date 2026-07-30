@@ -38,6 +38,14 @@ La fuente `youtube:u0NtR-y-T2Y` permite atribuir al hermano Eric de Jesús Rodr�
 
 La hoja conserva el texto hebreo publicado por Delitzsch como control local del título de la sesión. Las elipsis solo indican que se citan fragmentos; no convierten el título en una transcripción de Eric.
 
+## Texto local y límites de la lectura
+
+Los fragmentos de Delitzsch sostienen el movimiento completo de la perícopa. En #romanos_3_19-20 aparece: **וְכָל־מַה־שֶּׁאָמְרָה הַתּוֹרָה ... לְמַעַן יִסָּכֵר כָּל־פֶּה וִיהִי כָל־הָעוֹלָם חַיָּב לִפְנֵי אֱלֹהִים׃ כִּי מִמַּעֲשֵׂי הַתּוֹרָה לֹא־יִצְדַּק כָּל־בָּשָׂר לְפָנָיו**. El sujeto del cierre no es un grupo que pueda presumir: «todo el mundo» queda responsable, y la Torah funciona como testimonio que hace reconocible el pecado.
+
+El giro de #romanos_3_21-26 también debe conservar su doble afirmación: **וְעַתָּה בִּבְלִי תוֹרָה צִדְקַת אֱלֹהִים יָצְאָה לָאוֹר אֲשֶׁר הֵעִידוּ עָלֶיהָ הַתּוֹרָה וְהַנְּבִיאִים ... וְנִצְדְּקוּ חִנָּם בְּחַסְדּוֹ**. «Aparte de obras de Torah» no equivale a «contra la Torah»: el mismo texto afirma que Torah y profetas atestiguan la justicia, mientras la justificación se recibe gratuitamente.
+
+Finalmente, #romanos_3_27-31 pregunta y responde: **וּבְכֵן אַיֵּה תְּהִלַּת הַמִּתְהַלֵּל ... הֲמְבַטְּלִים אֲנַחְנוּ אֶת־הַתּוֹרָה בֶּאֱמוּנָה חָלִילָה כִּי אִם־מְקִימִים אֲנַחְנוּ אֶת־הַתּוֹרָה**. El verbo **(καταργέω)**, _katargeō_, «anular o dejar sin efecto», y **(ἵστημι)**, _histēmi_, «poner de pie o establecer», explican el contraste; no autorizan por sí solos a detallar la aplicación de cada mandamiento fuera del argumento posterior de Romanos. Estas citas son del corpus local, no reconstrucciones de la clase de Eric.
+
 ## Romanos 3:17-20: la Torah cierra la boca
 
 La cadena de Escrituras termina describiendo a quienes no conocen el camino de paz ni tienen temor de Elohim delante de los ojos (#romanos_3_17-18). **(εἰρήνη)**, _eirēnē_, significa paz, bienestar o reconciliación; aquí su fuerza contextual es relacional y moral dentro de la acusación, no solo ausencia de conflicto. **(φόβος)**, _phobos_, significa temor o reverencia; «temor de Elohim» es una glosa **aproximada**, porque el contexto conserva a la vez reconocimiento y exposición culpable.
