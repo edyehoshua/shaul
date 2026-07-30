@@ -171,6 +171,18 @@ La evaluación final es, por tanto, doble. La clase acierta al conectar vida res
 
 Colosenses 3 no presenta la vida nueva como idea privada. La vida escondida con el Mesías se vuelve verdad, perdón, amor, paz, canto, trabajo íntegro y relaciones que responden al señorío de Yehoshua. Allí donde el texto habla a quienes tienen poder, su marco de amor, justicia e imparcialidad excluye convertirlo en defensa de la opresión.
 
+## Control consolidado: de la vida escondida al poder responsable
+
+Las seis fuentes públicas de esta nota conservan un recorrido continuo: `youtube:7Ibhrf3fFy0`, `youtube:LgGlLtw7cEI` y `youtube:RMWHD1iRaKU` introducen la vida levantada con el Mesías y el despojo del viejo ser; `youtube:DZDYq-qeSKE`, `youtube:E2RaEpg61Ok` y `youtube:6eD73K6SzU0` desarrollan la nueva humanidad, la palabra, el trabajo y las relaciones domésticas. Eric presenta «lo de arriba» como una realidad visible en la conducta; esta observación se conserva como paráfrasis atribuible y recibe evaluación mediante el orden de Colosenses 3, no mediante frases reconstruidas de la transcripción.
+
+En #colossians_3_1-11, **(συνεγείρω)**, _synegeirō_, significa levantar juntamente o hacer participar en el levantamiento; su fuerza contextual es la vida compartida con el Mesías que produce una conducta nueva. **(νεκρόω)**, _nekroō_, significa hacer morir o volver inactivo, y **(ἀπεκδύομαι)**, _apekdyomai_, significa despojarse o quitarse. Las glosas son **directas en el campo verbal**; relacionarlas con una vestidura sacerdotal concreta es **pedagógico y aproximado**, y usar «hacer morir» para justificar violencia contra el cuerpo sería **ilegítimo**.
+
+En #colossians_3_12-17, **(ἀνέχω)**, _anechō_, significa sostener, soportar o tolerar, mientras **(ἐνοικέω)**, _enoikeō_, significa habitar o residir. El contexto une soportarse con perdón, amor, paz, enseñanza, canto y gratitud; por eso «soportar» no puede convertirse en una orden de permanecer bajo abuso. La glosa es **directa y contextual**; convertir la palabra del Mesías en una técnica litúrgica única sería **inferencial**.
+
+En #colossians_3_18-25, **(ὑποτάσσω)**, _hypotassō_, significa someter, subordinar o colocarse bajo un orden, **(πικραίνω)**, _pikrainō_, significa amargar o tratar con dureza, y **(ἐρεθίζω)**, _erethizō_, significa provocar o exasperar. El verbo de sujeción debe leerse junto a la prohibición de aspereza y desaliento, no como permiso para dominar; sus glosas son **directas**, mientras proyectar el código doméstico como aprobación perpetua de la esclavitud sería **ilegítimo**. **(ἀδικέω)**, _adikeō_, significa cometer injusticia o agraviar; en 3:25 recuerda que el Señor juzga sin acepción y prepara la continuidad con la justicia exigida en 4:1.
+
+Así, la evaluación de Eric queda en tres niveles: **directa** para el paso de identidad a conducta y para los límites contra amargura, exasperación e injusticia; **aproximada** para las conexiones con Edén, sacerdocio y vocabulario hebreo; y **pedagógica** para trasladar la nueva humanidad a relaciones contemporáneas. El capítulo no borra toda condición histórica de un golpe, pero sí impide que una diferencia social se convierta en medida de dignidad o licencia para dañar.
+
 ## Ver también
 
 - [[colosenses_2_plenitud_discernimiento_y_cabeza|Colosenses 2: plenitud, discernimiento y la cabeza]]
