@@ -216,6 +216,16 @@ En #colossians_2_20-23, **(δογματίζω)**, _dogmatizō_, significa decret
 
 La síntesis canónica conserva dos límites simultáneos. Colosenses 2 no autoriza a juzgar personas por asuntos que Pablo enumera, pero tampoco convierte la libertad frente al juicio en permiso para abandonar la unión con Yehoshua. La plenitud, el perdón y la vivificación son obra de Elohim; caminar, asirse a la cabeza y crecer son respuestas comunitarias reales. Las comparaciones con términos hebreos y las conclusiones históricas de la clase quedan **pedagógicas o inferenciales** cuando exceden la perícopa; el centro textual permanece **directo**: la comunidad debe recibir su crecimiento de la cabeza.
 
+## Reparación focal: perdón y triunfo antes del debate sobre las prácticas
+
+La exposición de Eric en `youtube:bZtcpYr74ag` enlaza el perdón de las transgresiones con el documento quitado y con el triunfo sobre principados. La observación se conserva como paráfrasis atribuible, no como cita literal. El orden de #colossians_2_13-15 la respalda de manera **directa y cualificada**: Elohim vivifica con el Mesías, perdona, elimina aquello que estaba contra la comunidad y presenta a las autoridades despojadas en el triunfo de la cruz. Este fundamento precede a la prohibición de juzgar en 2:16; por tanto, el debate sobre comida, bebida y tiempos no puede convertirse en una base alternativa de aceptación.
+
+En #colossians_2_13-14, **(χαρίζομαι)**, _charizomai_, significa conceder gratuitamente, perdonar o mostrar favor; su fuerza contextual es la acción de Elohim que perdona las transgresiones junto con la vivificación. «Perdonar» es una glosa **directa y contextual**. **(ἐξαλείφω)**, _exaleiphō_, significa borrar, eliminar o hacer desaparecer; aquí describe lo que ocurre con el documento que estaba contra nosotros. La relación pedagógica con **מחה**, _majá_, «borrar o eliminar», es **aproximada**, no una derivación demostrada del verbo griego.
+
+El sustantivo **(χειρόγραφον)**, _cheirographon_, significa escrito a mano, documento firmado o reconocimiento escrito; en 2:14 nombra aquello que se describe como contrario y que es quitado. «Acta de deuda» es una traducción **aproximada y pedagógica**: la forma no identifica por sí sola el documento con toda la Torah, con una lista ritual concreta ni con una teoría jurídica moderna. La enseñanza de Eric conserva un punto seguro —el perdón y la eliminación del obstáculo están unidos en la frase—, mientras el referente exacto permanece **cualificado**.
+
+En #colossians_2_15, **(ἀπεκδύομαι)**, _apekdyomai_, significa despojar o quitar, y **(θριαμβεύω)**, _thriambeuō_, significa llevar en triunfo o exhibir victoriosamente. Su fuerza contextual presenta a los principados y autoridades como derrotados y expuestos en relación con la cruz; las glosas son **directas en el campo normal**, pero reconstruir desde ellas una cosmología completa sería **inferencial**. La comparación pedagógica con **שׁלל**, _shalal_, «botín o despojar», puede iluminar la imagen, pero no controla el griego. Así, la libertad frente al juicio de 2:16 descansa en el perdón y en la victoria del Mesías, no en la superioridad interpretativa de otro tribunal.
+
 ## Ver también
 
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: sabiduría, herencia y plenitud]]
