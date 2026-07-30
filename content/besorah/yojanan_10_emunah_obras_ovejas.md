@@ -55,51 +55,53 @@ Por eso Yeshúa responde: "les dije, pero no se afirman" (#iojanan_10_25). Las o
 
 ## Hoja de comparación
 
-| Referencia | Hebreo (OE/Delitzsch) | TTH (ES) | Función/Observación |
-| --- | --- | --- | --- |
-| #iojanan_10_25 | ויען אתם ישוע הן הגדתי לכם ולא האמנתם בי המעשים אשראני עשה בשם אבי הם לי לעדות | Les dije, pero no se afirman; las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí. | La respuesta desplaza la discusión hacia las obras como testimonio ya visible. |
-| #iojanan_10_26 | רק אתם לא תאמינו כי לא מצאני אתם כאשר אמרתי לכם | Pero ustedes no se afirman, porque no son de mis ovejas, como les he dicho. | La falta de emunah revela que no pertenecen al rebaño que reconoce la voz. |
-| #iojanan_10_27 | צאני שמעות אתקלי ואני ידע אתן והנה הלכות אחרי | Mis ovejas escuchan mi voz, y Yo las conozco, y vienen detrás de Mí. | Oír, ser conocido y seguir forman una sola respuesta de las ovejas. |
-| #iojanan_10_28 | וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי | Y Yo les doy vida olam, y no perecerán para siempre; y ningún hombre las devorará de mi mano. | Vida olam = no perecer para siempre; guardados en la mano del Mesías. |
-| #iojanan_10_29 | אבי אשר נתנן לי אדיר הוא מכל ואין איש אשריוכל לחטף אתהן מיד האב | Mi Padre que me las dio, sobre todos grande es. | La mano del Mesías y la mano de Abba sostienen el argumento de unidad. |
-| #iojanan_10_30 | ואני והאב אחד | Yo y mi Padre uno somos. | Conclusión inmediata: obra y custodia no proceden de dos centros separados. |
-| #iojanan_10_32 | ויען אתם ישוע הן מעשים רבים טובים הראיתי לכם מאת האב | Muchas buenas obras les he dado a conocer de mi Padre, ¿por cuál de estas obras me apedrean? | Las obras vienen de Abba; apedrearlo = rechazar la evidencia escritural. |
-| #iojanan_10_34 | ויען אתם ישוע הלא כתוב בתורתכם אני אמרתי אלהים אתם | ¿No está escrito en su Torah: Yo dije: Ustedes son elohim? | Yeshúa responde a la acusación de blasfemia desde la Escritura. |
-| #iojanan_10_35 | ועתה אםאנשים נקראו אלהים אשר תורת האלהים אתם ודבר הכתוב אין להשיב | Si a estos... les dijo «elohim» – y la Escritura no se puede tomar en vano – | La Escritura llama elohim a quienes reciben palabra de Elohim. |
-| #iojanan_10_36 | איך תאמרון עלזה אשר קדשו האב וישלחהו בארץ... בןהאלהים אני | a quien distinguió el Padre y envió al olam... ¡Porque dije: "Hijo de Elohim soy"! | Del portador de palabra al Hijo que porta la plenitud de la obra. |
-| #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי | Y si no hago las obras de mi Padre, no se afirmen por Mí. | Yeshúa permite evaluar su identidad por las obras prometidas. |
-| #iojanan_10_38 | ואםעשיתים... כי האב בי ואני באב | afírmense por las obras... porque mi Padre es en Mí, y Yo en Él. | Aun si su apariencia humana escandaliza, las obras deben llevar al reconocimiento. |
-| #romanos_10_17 | אםכן האמונה באה מתוך השמועה והשמועה עלידי דברהמשיח | la emunah proviene del oír, y el oír por medio de la Palabra del Mesías. | Emunah ligada a oír la promesa, no a sugestión psicológica. |
-| #tehilim_82_6 | אני אמרתי אלהים אתם ובני עליון כלכם | Yo dije: Ustedes son elohim... e hijos de Elyón todos ustedes. | Base de la respuesta de Yeshúa en #iojanan_10_34-35. |
-| #bereshit_3_15 | ואיבה אשית בינך ובין האשה... הוא ישופך ראש ואתה תשופנו עקב | Y odio pondré entre ti y la mujer... él te magullará la cabeza, y tú le magullarás el talón. | Primer compromiso mesiánico de יהוה desde la simiente. |
-| #iojanan_6_44 | לאיוכל איש לבא אלי בלתי אםימשכהו האב אשר שלחני | Ningún hombre puede venir a Mí, si mi Padre que me envió no lo trae. | Abba trae al rebaño hacia el Mesías; conexión con #iojanan_10_26-27. |
-| #iojanan_3_3 | אמן אמן אני אמר לך אםלא יולד איש ממקור על | Si un hombre no nace de arriba, no puede ver el reino de Elohim. | Reconocer señales no basta; hace falta nacimiento de arriba. |
+| Referencia     | Hebreo (OE/Delitzsch)                                                          | TTH (ES)                                                                                                  | Función/Observación                                                                |
+| -------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| #iojanan_10_25 | ויען אתם ישוע הן הגדתי לכם ולא האמנתם בי המעשים אשראני עשה בשם אבי הם לי לעדות | Les dije, pero no se afirman; las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí. | La respuesta desplaza la discusión hacia las obras como testimonio ya visible.     |
+| #iojanan_10_26 | רק אתם לא תאמינו כי לא מצאני אתם כאשר אמרתי לכם                                | Pero ustedes no se afirman, porque no son de mis ovejas, como les he dicho.                               | La falta de emunah revela que no pertenecen al rebaño que reconoce la voz.         |
+| #iojanan_10_27 | צאני שמעות אתקלי ואני ידע אתן והנה הלכות אחרי                                  | Mis ovejas escuchan mi voz, y Yo las conozco, y vienen detrás de Mí.                                      | Oír, ser conocido y seguir forman una sola respuesta de las ovejas.                |
+| #iojanan_10_28 | וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי                         | Y Yo les doy vida olam, y no perecerán para siempre; y ningún hombre las devorará de mi mano.             | Vida olam = no perecer para siempre; guardados en la mano del Mesías.              |
+| #iojanan_10_29 | אבי אשר נתנן לי אדיר הוא מכל ואין איש אשריוכל לחטף אתהן מיד האב                | Mi Padre que me las dio, sobre todos grande es.                                                           | La mano del Mesías y la mano de Abba sostienen el argumento de unidad.             |
+| #iojanan_10_30 | ואני והאב אחד                                                                  | Yo y mi Padre uno somos.                                                                                  | Conclusión inmediata: obra y custodia no proceden de dos centros separados.        |
+| #iojanan_10_32 | ויען אתם ישוע הן מעשים רבים טובים הראיתי לכם מאת האב                           | Muchas buenas obras les he dado a conocer de mi Padre, ¿por cuál de estas obras me apedrean?              | Las obras vienen de Abba; apedrearlo = rechazar la evidencia escritural.           |
+| #iojanan_10_34 | ויען אתם ישוע הלא כתוב בתורתכם אני אמרתי אלהים אתם                             | ¿No está escrito en su Torah: Yo dije: Ustedes son elohim?                                                | Yeshúa responde a la acusación de blasfemia desde la Escritura.                    |
+| #iojanan_10_35 | ועתה אםאנשים נקראו אלהים אשר תורת האלהים אתם ודבר הכתוב אין להשיב              | Si a estos... les dijo «elohim» – y la Escritura no se puede tomar en vano –                              | La Escritura llama elohim a quienes reciben palabra de Elohim.                     |
+| #iojanan_10_36 | איך תאמרון עלזה אשר קדשו האב וישלחהו בארץ... בןהאלהים אני                      | a quien distinguió el Padre y envió al olam... ¡Porque dije: "Hijo de Elohim soy"!                        | Del portador de palabra al Hijo que porta la plenitud de la obra.                  |
+| #iojanan_10_37 | אםלא עשיתי אתמעשי אבי לא תאמינו לי                                             | Y si no hago las obras de mi Padre, no se afirmen por Mí.                                                 | Yeshúa permite evaluar su identidad por las obras prometidas.                      |
+| #iojanan_10_38 | ואםעשיתים... כי האב בי ואני באב                                                | afírmense por las obras... porque mi Padre es en Mí, y Yo en Él.                                          | Aun si su apariencia humana escandaliza, las obras deben llevar al reconocimiento. |
+| #romanos_10_17 | אםכן האמונה באה מתוך השמועה והשמועה עלידי דברהמשיח                             | la emunah proviene del oír, y el oír por medio de la Palabra del Mesías.                                  | Emunah ligada a oír la promesa, no a sugestión psicológica.                        |
+| #tehilim_82_6  | אני אמרתי אלהים אתם ובני עליון כלכם                                            | Yo dije: Ustedes son elohim... e hijos de Elyón todos ustedes.                                            | Base de la respuesta de Yeshúa en #iojanan_10_34-35.                               |
+| #bereshit_3_15 | ואיבה אשית בינך ובין האשה... הוא ישופך ראש ואתה תשופנו עקב                     | Y odio pondré entre ti y la mujer... él te magullará la cabeza, y tú le magullarás el talón.              | Primer compromiso mesiánico de יהוה desde la simiente.                             |
+| #iojanan_6_44  | לאיוכל איש לבא אלי בלתי אםימשכהו האב אשר שלחני                                 | Ningún hombre puede venir a Mí, si mi Padre que me envió no lo trae.                                      | Abba trae al rebaño hacia el Mesías; conexión con #iojanan_10_26-27.               |
+| #iojanan_3_3   | אמן אמן אני אמר לך אםלא יולד איש ממקור על                                      | Si un hombre no nace de arriba, no puede ver el reino de Elohim.                                          | Reconocer señales no basta; hace falta nacimiento de arriba.                       |
 
 ## Hoja léxica
 
-| Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
-| --- | --- | --- | --- | --- |
-| **(אמן)** | emun / aman | fidelidad, educación, permanencia | אמן | La clase rechaza reducir emunah a optimismo mental; incluye crianza e instrucción de יהוה. |
-| **(πιστεύω)** | pisteuo | afirmarse, mostrar fidelidad | πιστ- | TTH: "no se afirman" (#iojanan_10_25-26); cotejar con אמן, no equivalencia total. |
-| **(אבא)** | abba | fuente, Escritura/plenitud de promesas | אב | Hacia el final: Abba nombra el conjunto de promesas reveladas — lectura de clase, pendiente cotejo arameo. |
-| **(צאן)** | tson | ovejas | צאן | Rebaño que oye la voz del pastor (#iojanan_10_27); contraste con opositores que no oyen. |
-| **(קול)** | kol | voz | קול | Oír la voz = respuesta formada por Torah, profetas y promesas. |
-| **(אלהים)** | elohim | jueces/portadores de palabra; poderosos | אלהים | #tehilim_82_6 y #iojanan_10_34-36: título por portar palabra de Elohim, no identidad ontológica plena. |
-| **(בן האלהים)** | ben ha-Elohim | Hijo de Elohim, portador pleno | בן + אלהים | Si otros son llamados elohim, cuánto más el enviado y distinguido por Abba (#iojanan_10_36). |
-| **(מעשה)** | ma'aseh | obra, acción | עשה | Las obras en nombre de Abba testifican; no son espectáculo sin anclaje profético. |
-| **(ψυχή)** / **(נפש)** | psuchē / nefesh | vida | ψυχ- / נפש | Vida olam y entrega de vida conectadas en la serie Yojanán 10 — ver nota de nefesh. |
+Las formas siguientes conservan primero el término fuente y su transliteración; el sentido normal se distingue de la fuerza que recibe en Yojanán 10. Las conexiones entre **(אמן)** y **(πιστεύω)**, o entre **(ψυχή)** y **(נפש)**, son aproximaciones pedagógicas de la clase, no equivalencias exactas entre lenguas.
+
+| Término                | Transliteración | Sentido en la nota                      | Raíz o base | Observación                                                                                                |
+| ---------------------- | --------------- | --------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------- |
+| **(אמן)**              | emun / aman     | fidelidad, educación, permanencia       | אמן         | La clase rechaza reducir emunah a optimismo mental; incluye crianza e instrucción de יהוה.                 |
+| **(πιστεύω)**          | pisteuo         | afirmarse, mostrar fidelidad            | πιστ-       | TTH: "no se afirman" (#iojanan_10_25-26); cotejar con אמן, no equivalencia total.                          |
+| **(אבא)**              | abba            | fuente, Escritura/plenitud de promesas  | אב          | Hacia el final: Abba nombra el conjunto de promesas reveladas — lectura de clase, pendiente cotejo arameo. |
+| **(צאן)**              | tson            | ovejas                                  | צאן         | Rebaño que oye la voz del pastor (#iojanan_10_27); contraste con opositores que no oyen.                   |
+| **(קול)**              | kol             | voz                                     | קול         | Oír la voz = respuesta formada por Torah, profetas y promesas.                                             |
+| **(אלהים)**            | elohim          | jueces/portadores de palabra; poderosos | אלהים       | #tehilim_82_6 y #iojanan_10_34-36: título por portar palabra de Elohim, no identidad ontológica plena.     |
+| **(בן האלהים)**        | ben ha-Elohim   | Hijo de Elohim, portador pleno          | בן + אלהים  | Si otros son llamados elohim, cuánto más el enviado y distinguido por Abba (#iojanan_10_36).               |
+| **(מעשה)**             | ma'aseh         | obra, acción                            | עשה         | Las obras en nombre de Abba testifican; no son espectáculo sin anclaje profético.                          |
+| **(ψυχή)** / **(נפש)** | psuchē / nefesh | vida                                    | ψυχ- / נפש  | Vida olam y entrega de vida conectadas en la serie Yojanán 10 — ver nota de nefesh.                        |
 
 ## Referencias judías y fuentes externas
 
-| Fuente | Referencia | Uso en la nota | Estado |
-| --- | --- | --- | --- |
-| Tanaj (OE) | #tehilim_82_6 | "אלהים אתם" — jueces/portadores de palabra; base de #iojanan_10_34-35 | Cotejado |
-| Tanaj (OE) | #bereshit_3_15 | Promesa de la simiente; primer compromiso mesiánico | Cotejado |
-| BDB / Jastrow | אמן | Raíz de emunah: firmeza, verdad, fidelidad, educación | Pendiente de verificar |
-| Contexto del salmo 82 | #tehilim_82_1-8 | Uso histórico de "elohim" para jueces de Israel | Pendiente de verificar |
-| Targum / fuentes arameas | — | Lectura de Abba como plenitud de promesas/escritura | Pendiente de verificar |
-| Señal de Yonah | #matityahu_12_40 (cotejar) | Imagen de ocultamiento/silencio en la muerte del Mesías | Pendiente de verificar |
-| Nota hermana | [Yojanán 10: Abba y morada](./yojanan_10_abba_obras_y_morada.md) | Continuidad sobre obras, Abba y unidad | Mención indirecta en la clase |
+| Fuente                   | Referencia                                                       | Uso en la nota                                                        | Estado                        |
+| ------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------- |
+| Tanaj (OE)               | #tehilim_82_6                                                    | "אלהים אתם" — jueces/portadores de palabra; base de #iojanan_10_34-35 | Cotejado                      |
+| Tanaj (OE)               | #bereshit_3_15                                                   | Promesa de la simiente; primer compromiso mesiánico                   | Cotejado                      |
+| BDB / Jastrow            | אמן                                                              | Raíz de emunah: firmeza, verdad, fidelidad, educación                 | Pendiente de verificar        |
+| Contexto del salmo 82    | #tehilim_82_1-8                                                  | Uso histórico de "elohim" para jueces de Israel                       | Pendiente de verificar        |
+| Targum / fuentes arameas | —                                                                | Lectura de Abba como plenitud de promesas/escritura                   | Pendiente de verificar        |
+| Señal de Yonah           | #matityahu_12_40 (cotejar)                                       | Imagen de ocultamiento/silencio en la muerte del Mesías               | Pendiente de verificar        |
+| Nota hermana             | [Yojanán 10: Abba y morada](./yojanan_10_abba_obras_y_morada.md) | Continuidad sobre obras, Abba y unidad                                | Mención indirecta en la clase |
 
 ## Emunah como educación y fidelidad
 
@@ -167,6 +169,15 @@ La señal de Yonah aparece como imagen: así como Yonah estuvo oculto en el gran
 - #iojanan_10_37-38: aun si la persona de Yeshúa escandaliza, las obras deben ser atendidas como testimonio.
 - #bereshit_3_15: la simiente prometida concentra el compromiso de יהוה de venir a salvar.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual                 | Observación concreta de la clase                                                                                                                                                                                   | Tratamiento en esta nota                                                                                                                                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #iojanan_10_25-26              | Eric presenta la falta de emunah de los opositores como falta de reconocimiento de las obras ya realizadas, no como ausencia de información; la instrucción de Torah y profetas debía preparar ese reconocimiento. | **Apoyo textual e inferencia cualificada:** el pasaje contrasta obras, afirmación y pertenencia a las ovejas; la explicación sobre la formación previa se mantiene como lectura de la clase.           |
+| #iojanan_10_27-30              | La clase sigue la cadena «oyen mi voz, Yo las conozco, vienen detrás de Mí», vida olam, mano del Mesías, mano del Padre y «Yo y mi Padre uno somos».                                                               | **Apoyo textual:** se conserva el orden de oír, conocer, seguir, guardar y unidad; «una misma obra de salvación» queda como síntesis teológica atribuida.                                              |
+| #iojanan_10_32-38              | Eric vuelve a Tehilim 82 para explicar `elohim` como título contextual de quienes recibieron palabra divina y llama a evaluar las obras del Padre en vez de quedarse en la apariencia humana de Yeshúa.            | **Clarificación léxica y apoyo textual:** la cita y la invitación a examinar las obras están en el texto; «portador pleno» y la lectura de Abba como plenitud de promesas son desarrollos pedagógicos. |
+| #bereshit_3_15; #iojanan_3_3-6 | La exposición enlaza la promesa de la simiente y el nacimiento de arriba con la selección de las ovejas: reconocer señales no basta, pues la respuesta debe formarse por el Rúaj y la promesa.                     | **Conexión canónica cualificada:** los textos locales sostienen los motivos de simiente, nacimiento y obra del Rúaj; la síntesis de elección y formación se conserva como argumento de Eric.           |
+
 ## Pendiente de verificar
 
 - [ ] Cotejar en léxicos hebreos la exposición de אמן como educación/crianza, verdad, permanencia y fidelidad.
@@ -180,6 +191,12 @@ La señal de Yonah aparece como imagen: así como Yonah estuvo oculto en el gran
 La clase lee Yojanán 10:25-38 como una confrontación hermenéutica. Las obras del Mesías estaban delante de todos, pero solo las ovejas formadas por la promesa oyeron su voz. La emunah no aparece como emoción religiosa, sino como fidelidad a la instrucción de יהוה que reconoce en Yeshúa la obra prometida.
 
 La unidad entre Yeshúa y Abba se muestra en la custodia de las ovejas, en las obras y en la Escritura que no puede ser quebrantada. El Mesías no viene como un delegado menor, sino como יהוה cumpliendo su propia palabra, desde la promesa de la simiente hasta la entrega de vida olam a los que oyen su voz.
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video: [El Evangelio según Yojanan/Juan parte 36](https://www.youtube.com/watch?v=csFssLdcLsE) (`source_id`: `youtube:csFssLdcLsE`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
 
