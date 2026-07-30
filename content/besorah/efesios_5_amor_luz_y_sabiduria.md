@@ -272,6 +272,12 @@ El cierre de esta unidad, **ὑποτασσόμενοι ἀλλήλοις**, _hy
 
 Efesios 5 no opone espiritualidad y vida cotidiana. El amor, la luz, la gratitud, la sabiduría con el tiempo y las relaciones quedan unidos bajo la obra del Mesías. La exhortación no puede usarse para dominar: llama a una conducta que rechaza lo destructivo y aprende la entrega de Yehoshua.
 
+### Verificación de la progresión del capítulo
+
+La secuencia de Efesios 5 hace que la aplicación de Eric sea comprobable y no una colección de lemas. En 5:1-7, **(μιμηταί)**, _mimētai_, «imitadores», recibe su contenido del amor entregado, mientras **(πλεονεξία)**, _pleonexia_, «codicia o deseo de tener más», se contrasta con **(εὐχαριστία)**, _eucharistia_, «acción de gracias». En 5:8-14, **(φῶς)**, _phōs_, «luz», se reconoce por **(καρπός)**, _karpos_, «fruto», de bondad, justicia y verdad; la comparación con **(אור)**, _or_, es pedagógica, no una equivalencia textual.
+
+En 5:15-21, **(καιρός)**, _kairos_, «ocasión o tiempo oportuno», y **(συνίημι)**, _syniēmi_, «comprender», conducen a **(πληροῦσθε)**, _plērousthe_, «sed llenos», cuyo resultado es canto, gratitud y mutualidad. Solo entonces 5:22-33 desarrolla las relaciones del hogar: **(ἀγαπάω)**, _agapaō_, «amar buscando el bien», se mide por **(παραδίδωμι)**, _paradidōmi_, «entregarse», y **(θάλπω)**, _thalpō_, «cuidar con ternura». Por eso la lectura atribuible sobre «orden» queda limitada por el texto: luz discernida, gratitud compartida, sometimiento mutuo y amor sacrificial; nunca dominio ni control de conciencia.
+
 ## Ver también
 
 - [[efesios_4_llamado_unidad_y_vida_nueva|Efesios 4: llamado, unidad y vida nueva]]

@@ -193,6 +193,12 @@ El cierre devuelve la escucha al cuerpo restaurado. **(μογιλάλος)**, _m
 
 Marcos 7 desarrolla una sola línea a través de escenas diferentes. La tradición falla cuando deja sin ayuda a padre y madre; el corazón se muestra por los males que produce; la mujer extranjera persevera dentro de la imagen de la mesa y recibe misericordia; el sordomudo oye y habla. Yehoshua no enseña una piedad de exterior ni una misericordia abstracta. Su palabra examina lo que sale del ser humano y, al mismo tiempo, abre espacio para que quien se acerca con necesidad sea atendido. La distinción de Eric entre higiene e impureza, y entre cerco humano y mandamiento de יהוה, queda sujeta a ese orden textual.
 
+### Verificación de la progresión narrativa
+
+La dependencia entre las escenas también corrige dos atajos frecuentes. En 7:1-13, **(παράδοσις)**, _paradosis_, «tradición transmitida», se evalúa por si **(ἀκυρόω)**, _akuroō_, «invalida», el mandamiento de honrar a padre y madre. En 7:14-23, **(κοινόω)**, _koinoō_, «hacer común o profanar», y **(καρδία)**, _kardia_, «corazón», trasladan la discusión al origen moral de las acciones; la equivalencia con **(טמא)**, _tame_, «impuro», es temática y aproximada, no una sustitución de la sintaxis griega.
+
+Solo después, en 7:24-30, la respuesta de la mujer se interpreta dentro de la imagen de la mesa: **(πρῶτον)**, _prōton_, «primero», mantiene un orden, mientras **(λόγος)**, _logos_, «palabra o dicho», explica por qué la hija queda libre. Finalmente, en 7:31-37, **(ܐܬܦܬܚ)**, _etpethach_, «ábrete», se verifica por oídos abiertos y habla restaurada. Así la clase de Eric se conserva como lectura atribuida —mandamiento antes que tradición, corazón antes que apariencia, misericordia sin fórmula y escucha restaurada—, pero cada afirmación queda gobernada por su perícopa y no por una teoría general sobre dieta, fronteras o gestos de sanidad.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
