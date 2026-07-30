@@ -66,6 +66,31 @@ La clase insiste en distinguir la restauración de la justicia de la venganza hu
 
 El cierre del salmo orienta la esperanza hacia el hecho de que Elohim juzga. En esa dirección, la nota puede recibir la exhortación de la clase: la justicia no requiere una malicia personal ni deleite en el daño, sino que expone el mal y deja el veredicto final en manos de Elohim.
 
+## Recorrido textual y prueba de las imágenes
+
+El encabezado local dice **למנצח אל תשחת לדוד מכתם**: “para el director; no destruyas; de David; miktam”. Eric se detiene en que **מכתם** (_miktam_) es una designación difícil y en que “no destruyas” puede funcionar como indicación musical. El texto permite afirmar la forma y la atribución davídica, pero no resolver por sí solo si _miktam_ nombra género, inscripción o una cualidad del canto. La observación de Eric queda así ligada al encabezado real, sin presentar una etimología especulativa como traducción.
+
+En 58:2-3 el texto local pregunta: **ה אמנם אלם צדק תדברו ן מישרים תשפטו בני אדם; אף ב לב עולת תפעלו ן ב ארץ חמס ידי כם תפלסו ן**. La exposición de Eric contrapone la palabra pública de justicia con la injusticia que ya opera “en el corazón” y con la violencia que las manos “pesan” en la tierra. **אלם** (_elem_) puede oírse como “silencio” o como una forma vinculada a mudez, y la construcción es textualmente discutida; por eso la clase usa la tensión, no una falsa certeza de vocalización. En cambio, **צדק** (_tsedeq_) es justicia o rectitud y **חמס** (_chamas_) es violencia o daño injusto: esas dos columnas sí están explícitas en el texto local.
+
+Los vv. 4-5 desplazan la acusación al carácter: **זרו רשעים מרחם תעו מבטן דברי כזב; חמת למו כדמות חמת נחש כמו פתן חרש יאטם אזנו**. Eric explica “desde el vientre” como una descripción de una práctica arraigada y toma la serpiente que se tapa el oído como retrato del poder que se blinda contra la corrección. El hebreo habla literalmente de malvados que se extravían desde el vientre y de palabras de mentira; la aplicación a una autoridad que rehúsa escuchar es pedagógica, pero la imagen de **יאטם אזנו** (_yeatem ozno_, “cierra su oído”) sí prueba el núcleo de la observación.
+
+En 58:6-8 la oración cambia a petición directa: **אשר לא ישמע לקול מלחשים חובר חברים מחכם; אלהים הרס שנימו בפימו מלתעות כפירים נתץ יהוה; ימאסו כמו מים יתהלכו למו ידרך חצו חציו כמו יתמללו**. Eric insiste en que “romper dientes” se le pide a Elohim, no se entrega como mandato al oyente. **הרס** (_haras_) significa derribar o destruir y **מלתעות** (_maltaot_) son quijadas o colmillos; la correspondencia con “romper los dientes” es exacta en la imagen. Los versos de agua que se disipa y de flechas quebradas amplían la súplica: el poder del violento debe perder su capacidad de herir.
+
+Los vv. 9-10 acumulan imágenes de desaparición: **כמו שבלול תמס יהלך נפל אשת בל חזו שמש; בטרם יבינו סירתיכם אטד כמו חי כמו חרון ישערנו**. Eric las lee como una inversión del aparente dominio del injusto: antes de que sus proyectos maduren, el juicio los arranca. El texto compara al caracol que se derrite y al aborto que no ve el sol, y luego usa la olla de espinos arrebatada por el torbellino. Son metáforas violentas del poema, no instrucciones para que el lector produzca daño; la nota conserva la severidad sin convertirla en licencia de venganza.
+
+Finalmente, 58:11-12 dice: **ישמח צדיק כי חזה נקם פעמיו ירחץ בדם הרשע; ויאמר אדם אך פרי לצדיק אך יש אלהים שפטים בארץ**. Eric explica la alegría del justo como confirmación de que la injusticia no triunfa y hace descansar la conclusión en **יש אלהים שפטים בארץ**, “hay Elohim que juzga en la tierra”. La frase “lavará sus pies” pertenece a la imagen local; no debe sustituirse por una lectura de “palmas” sin evidencia textual. La relación entre la enseñanza y el salmo es exacta en la entrega del juicio a Elohim, mientras que la exhortación contemporánea a no disfrutar del daño es una aplicación ética de Eric y no una traducción del v. 11.
+
+## Léxico ampliado
+
+| Forma fuente | Transliteración | Sentido normal | Fuerza contextual y relación |
+| --- | --- | --- | --- |
+| **מכתם** | _miktam_ | designación de sentido discutido | Eric mantiene abierta la clasificación; el encabezado local confirma la forma, no una traducción cerrada. |
+| **אלם** | _elem_ | silencio, mudez o término de lectura discutida | Sostiene la pregunta sobre hablar justicia; la vocalización alternativa queda pendiente, no se presenta como certeza. |
+| **חמס** | _chamas_ | violencia, daño injusto | Nombra la violencia que las manos hacen pesar; correspondencia exacta con el eje ético de la clase. |
+| **יאטם אזנו** | _yeatem ozno_ | cierra su oído | Imagen de escucha deliberadamente bloqueada; la aplicación a autoridad incorregible es pedagógica. |
+| **מלתעות** | _maltaot_ | quijadas, colmillos | Motiva la súplica de romper los dientes del depredador; relación exacta con la metáfora del v. 7. |
+| **נקם** | _naqam_ | venganza, reivindicación o castigo | En el cierre designa el juicio contemplado por el justo; no autoriza la venganza autónoma del lector. |
+
 ## Hoja léxica
 
 | Hebreo     | Transliteración | Sentido en la nota           | Observación                                                                                                                 |

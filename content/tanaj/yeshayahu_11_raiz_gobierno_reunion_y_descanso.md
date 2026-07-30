@@ -86,6 +86,31 @@ El capítulo 12 responde a la visión con una confesión: יהוה manifestó su
 
 Las aguas que se sacan con gozo de las fuentes de la salvación convierten la restauración en experiencia compartida. El pueblo debe confesar, cantar y hacer conocido en toda la tierra lo que יהוה ha hecho. La conclusión vuelve a Tzión: el descanso glorioso produce proclamación y alegría porque יהוה está en medio de su pueblo. Eric termina conectando esta atracción con la muerte y resurrección de Yehoshua: el Mesías levantado reúne, consuela y llama a participar en su obra, sin que la clase presente esa aplicación como sustituto del cántico de Ieshaiáhu.
 
+## Texto local seguido y alcance de la conexión apostólica
+
+La secuencia completa confirma el movimiento que Eric presenta. Ieshaiáhu 11:1-2 dice: **ו יצא חטר מגזע ישי ונצר משרשיו יפרה; ונחה עליו רוח יהוה רוח חכמה ובינה רוח עצה וגבורה רוח דעת ויראת יהוה**. El brote sale del tronco de Ishai y el Rúaj descansa sobre él; por tanto, la exposición acierta al unir genealogía y capacidad recibida. **חטר** (_joter_) tiene el sentido normal de vara o retoño, y **נצר** (_netser_) de brote o retoño. Son dos imágenes próximas dentro del paralelismo, no dos nombres hebreos idénticos.
+
+En 11:3-5 el texto prosigue: **ולא למראה עיניו ישפוט ולא למשמע אזניו יוכיח; ושפט בצדק דלים והוכיח במישור לענוי ארץ ... והיה צדק אזור מתניו והאמונה אזור חלציו**. Eric observa que el gobierno mesiánico no se deja gobernar por apariencia o rumor y que la prueba de su autoridad está en el trato a los débiles. **צדק** (_tsedeq_) significa justicia o rectitud; **אמונה** (_emunah_) significa firmeza, fidelidad o confiabilidad. La relación con “gobierno justo” es exacta en el criterio del pasaje, aunque “no se deja manipular” es la paráfrasis pastoral de la clase.
+
+Los vv. 6-9 enlazan gobierno y creación: **וגר זאב עם כבש ... ואריה כבקר יאכל תבן; לא ירעו ולא ישחיתו בכל הר קדשי כי מלאה הארץ דעה את יהוה כמים לים מכסים**. Eric no trata la paz como una tregua aislada; la explica por la tierra llena del conocimiento de יהוה. El texto local ofrece la razón con **כי מלאה הארץ דעה את יהוה**, “porque la tierra está llena del conocimiento de יהוה”. Así se prueba la causalidad teológica que la exposición destaca, sin reducir la perícopa a una imagen decorativa de animales reconciliados.
+
+En 11:10-12 aparece el estandarte y la reunión: **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו ... ונשא נס לגוים ואסף נדחי ישראל ונפצות יהודה יקבץ מארבע כנפות הארץ**. **נס** (_nes_) es estandarte o señal levantada; su fuerza contextual es pública y convocante. Eric relaciona ese movimiento con Yojanan 12:32, “os atraeré a mí mismo”. La forma griega que sostiene esa conexión es **κἀγὼ ἐὰν ὑψωθῶ ἐκ τῆς γῆς, πάντας ἑλκύσω πρὸς ἐμαυτόν** (_kagō ean hypsōthō ek tēs gēs, pantas helkysō pros emauton_): **ἑλκύω** significa atraer o llevar hacia sí, y **ὑψόω** elevar o levantar. La relación es canónica y pedagógica: ambos textos usan una figura de levantamiento que convoca a muchos, pero Ieshaiáhu habla del estandarte de la raíz y Yojanan interpreta la elevación de Yehoshua en su propia perícopa; no es una equivalencia verbal hebreo-griego.
+
+Los vv. 13-16 completan la restauración: **וסרה קנאת אפרים ... אפרים לא יקנא את יהודה ויהודה לא יצר את אפרים**, y luego el camino de Ashur recuerda el éxodo. Eric llama la atención sobre la reconciliación de Efráim y Yehudáh y sobre la diferencia entre los grupos reunidos. El texto confirma la eliminación de la rivalidad y el motivo de una carretera para el remanente; no convierte “desnaturalizados” y “dispersos” en categorías técnicas fuera de esta perícopa.
+
+El capítulo 12 responde en orden: **הנה אל ישועתי אבטח ולא אפחד** (12:2), **ושאבתם מים בששון ממעיני הישועה** (12:3), y **צהלי ורני יושבת ציון כי גדול בקרבך קדוש ישראל** (12:6). Eric presenta confianza, aguas, canto y presencia del Santo como resultado de la reunión. **ישועה** (_yeshuah_) significa salvación; **אבטח** (_evtach_) significa confiaré; la relación con la aplicación mesiánica es temática, mientras que el sujeto explícito del cántico sigue siendo יהוה y el Santo de Israel.
+
+## Léxico de la perícopa y de Yojanan 12:32
+
+| Forma fuente | Transliteración | Sentido normal | Fuerza contextual y relación |
+| --- | --- | --- | --- |
+| **חטר** | _joter_ | vara, rama o retoño | Primera imagen del brote; corresponde a la rama que sale del tronco. |
+| **נצר** | _netser_ | brote, retoño | Segunda imagen vegetal; relación exacta con 11:1 y vínculo con Nazaret sólo inferencial. |
+| **רוח יהוה** | _Rúaj יהוה_ | espíritu/aliento de יהוה | Presencia y capacidad que descansan sobre el gobernante; el contexto la despliega en seis cualidades. |
+| **נס** | _nes_ | estandarte, señal levantada | Figura pública de convocatoria para pueblos y remanente; apoya la observación de Eric. |
+| **κἀγὼ ... ἑλκύσω** | _kagō ... helkysō_ | “yo ... atraeré” | Griego de Yojanan 12:32; relación canónica aproximada con el estandarte, no traducción de Ieshaiáhu. |
+| **ישועה** | _yeshuah_ | salvación | En 12:2-3 funda confianza, ausencia de temor y gozo; conserva a יהוה como fuente. |
+
 ## Hoja léxica
 
 | Término        | Transliteración | Sentido en la nota                     | Tipo de relación                                                                                |
