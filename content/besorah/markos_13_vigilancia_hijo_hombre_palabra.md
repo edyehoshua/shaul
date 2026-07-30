@@ -499,6 +499,14 @@ La certeza del versículo 31 y la incertidumbre del versículo 32 cumplen funcio
 
 La parábola convierte esa limitación en responsabilidad concreta. El dueño de casa da a sus siervos **ἐξουσία**, _exousia_, «autoridad, responsabilidad o encargo», y a cada uno su **ἔργον**, _ergon_, «obra o tarea»; al portero le ordena **γρηγορεῖν**, _grēgorein_, «vigilar o mantenerse despierto». La forma final **γρηγορεῖτε**, _grēgoreite_, «vigilen», se dirige a todos. La enseñanza de Eric sobre una profecía que no debe volverse calendario queda así probada por el cierre: la comunidad recibe palabra firme, información limitada y trabajo visible. La vigilancia fiel no fabrica una hora; cumple el encargo mientras espera.
 
+## Control de fuente: las setenta semanas no entregan la hora
+
+La parte 41 de Eric formula una tesis histórica precisa: las setenta semanas se cumplieron en el horizonte de la destrucción del segundo templo y no debe introducirse una semana suspendida para un anticristo futuro sin demostrarla. La transcripción muestra que esa afirmación se apoya en Daniel 9 y en dos comentarios rabínicos mencionados oralmente, pero no ofrece citas estables. Por eso se conserva como argumento atribuible, no como consenso rabínico verificado. **(נחתך)**, _nechtakh_, puede expresarse como «cortado», «delimitado» o «decretado» según el contexto; ninguna opción aislada fija una fecha.
+
+Eric también discute **(מָשִׁיחַ נָגִיד)**, _mashiaj nagid_, y rechaza convertir automáticamente la expresión en «Mesías príncipe». **(מָשִׁיחַ)**, _mashiach_, significa «ungido» y **(נָגִיד)**, _nagid_, «líder, gobernante o representante»; Levítico 4:3 y 4:16 prueban el uso de «sacerdote ungido», pero no deciden por sí solos el referente de Daniel 9. Del mismo modo, **(קֹדֶשׁ קָדָשִׁים)**, _qodesh qodashim_, «santísimo», puede mantener en la discusión el santuario y lo consagrado, sin convertir la propuesta histórica de Eric en una traducción obligatoria.
+
+El control canónico decisivo permanece en Marcos 13. La **(βδέλυγμα)**, _bdelygma_, «cosa abominable o profanadora», conduce a huir; **(ἐπισυνάξει)**, _episynaxei_, «reunirá», describe la acción del Hijo del Hombre; y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», cierra el discurso como imperativo presente. TTH omite «ni el Hijo» en 13:32 y Delitzsch conserva **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo»; la variante debe permanecer visible. En ambos testigos el efecto narrativo es el mismo: nadie recibe la hora para calcularla. La observación de Eric sobre el cumplimiento histórico puede discutirse con Daniel, Marcos y Lucas, pero la palabra final del capítulo no es una fecha: es vigilancia perseverante.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

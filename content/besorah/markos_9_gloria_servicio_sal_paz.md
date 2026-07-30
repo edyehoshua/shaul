@@ -350,6 +350,18 @@ Los discípulos obedecen la conversación, pero siguen preguntando qué signific
 
 La transición confirma el orden del capítulo: gloria visible, escucha obediente, resurrección y sufrimiento. Por eso la observación de Eric sobre una manifestación consoladora queda apoyada sin aislarla del camino de entrega; la montaña no sustituye al Mesías que desciende hacia la necesidad, la incomprensión y el servicio.
 
+## Control de fuente: la visión no cancela el camino
+
+La parte 28 de Eric comienza donde Marcos 8 dejó la tensión: la misma **(ψυχή)**, _psychē_, «vida, persona o ser viviente», aparece en el contraste entre salvar y perder, mientras algunas traducciones alternan «vida» y «alma». La observación concreta de la clase se conserva, pero el texto local gobierna su alcance: en 8:35-37 la forma griega se repite con los verbos **(σώσει)**, _sōsei_, «salvará», y **(ἀπολέσει)**, _apolesei_, «perderá». La comparación con **(נפש)**, _nefesh_, «vida o ser viviente», es pedagógica y aproximada; no prueba por sí sola una antropología ni una retroversión hebrea.
+
+Eric enlaza esa lectura con **(σῶμα ψυχικόν)**, _sōma psychikon_, «cuerpo animado por la vida natural», y **(σῶμα πνευματικόν)**, _sōma pneumatikon_, «cuerpo espiritual», de 1 Corintios 15:44. Su formulación «corruptible e incorruptible» comunica una consecuencia teológica de la resurrección, no el sentido automático de **(ψυχή)** en Marcos. Marcos 9 sí sostiene la esperanza corporal en el orden promesa–transformación–resurrección: la voz manda **(ἀκούετε)**, _akouete_, «escuchen», y Yehoshua ordena callar hasta que el Ben HaAdam se levante (#markos_9_7-9). La cronología de dos resurrecciones que Eric también propone queda fuera de lo que esta perícopa demuestra.
+
+La misma fuente interpreta la metamorfosis como una muestra consoladora del reino anunciado, no como permiso para buscar rango. **(μετεμορφώθη)**, _metemorphōthē_, «fue transformado», describe el acontecimiento; **(διακονεῖν)**, _diakonein_, «servir», describe la grandeza corregida; y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan la paz», da el fruto comunitario. La relación de **(מלח)**, _melaj_, «sal», con la sal del pacto de Vaikra 2:13 es un trasfondo aproximado. La secuencia textual prueba la lectura atribuible de Eric mejor que una definición aislada: ver, escuchar, pedir ayuda, servir y vivir en paz.
+
+## Conclusión
+
+Marcos 9 lleva la gloria del monte hacia la obediencia que escucha, la compasión que pide ayuda y el servicio que recibe al pequeño. La entrega anunciada impide convertir la metamorfosis en una plataforma de rango: Yehoshua corrige la ambición, protege a los vulnerables y manda conservar la paz. La sal del cierre puede relacionarse de forma pedagógica con la sal del pacto de Vaikra, pero el texto de Marcos fija el resultado: una comunidad preservada en fidelidad y _shalom_.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
