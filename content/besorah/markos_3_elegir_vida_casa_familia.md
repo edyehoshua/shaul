@@ -207,6 +207,16 @@ Finalmente, **βλασφημήσῃ**, _blasphēmēsē_, «injurie o hable ofens
 - [ ] Delimitar la extensión de la injuria contra el Ruaj HaKódesh: el texto la ata a #markos_3_30, mientras la clase la amplía a toda negación consciente del Mesías.
 - [ ] Verificar las afirmaciones del cierre sobre proclamación angélica universal; #galatas_1_8 es una advertencia hipotética y no demuestra por sí solo esa doctrina.
 
+## Verificación dirigida: de la vida restaurada a la familia obediente
+
+La exposición de Eric reúne cuatro escenas, pero Marcos las encadena. En 3:1-6, **ἔξεστιν**, _exestin_, significa «es lícito o está permitido»; **ἀγαθοποιῆσαι**, _agathopoiēsai_, significa «hacer el bien», y **σῶσαι**, _sōsai_, «salvar». Son infinitivos dentro de una pregunta situada en Shabbat, no una licencia para despreciar la ordenanza. La conexión con **(ובחרת בחיים)**, _uvajarta bajayim_, «escoge la vida», de Devarim 30:19 es temática y atribuible a la clase: el texto de Marcos prueba el contraste por la mano restaurada y por la conspiración que sigue.
+
+La autoridad no se transfiere como una propiedad privada. En 3:13-15, **προσκαλεῖται**, _proskaleitai_, «llama hacia sí», y **ἐποίησεν δώδεκα**, _epoiēsen dōdeka_, «estableció a doce», quedan explicados por **ἵνα ὦσιν μετ’ αὐτοῦ**, «para que estén con él», y **ἵνα ἀποστέλλῃ**, «para que los envíe». Eric insiste en que la presencia precede al envío; la sintaxis lo sostiene. **ἐξουσία**, _exousia_, «autoridad o potestad», describe una autoridad recibida en esa relación. Su comparación con **(שליח)**, _shaliaj_, «enviado o representante», es funcional, no una prueba de que Marcos esté traduciendo una forma hebrea.
+
+La casa dividida y la casa del fuerte deben distinguirse. **διαμερισθῇ**, _diameristhē_, «sea dividida», describe el colapso de un reino o una casa que lucha contra sí misma; **δήσῃ**, _dēsē_, «ate», introduce la condición para saquear la casa del fuerte. La clase aplica estas imágenes a la incoherencia espiritual y al dominio que debe ser vencido. Marcos permite hablar de confrontación, pero no convierte la parábola en un método reproducible para dominar personas. La acusación queda interpretada por **βλασφημήσῃ**, _blasphēmēsē_, «injurie o hable ofensivamente», y por la explicación de 3:30: ellos decían que tenía un espíritu impuro.
+
+El último movimiento impide que «familia» sea una consigna de linaje o de ruptura doméstica. **ποιεῖ**, _poiei_, significa «hace» y en 3:35 presenta la voluntad de Elohim como práctica visible. La clase observa que la cercanía decisiva se reconoce por obedecer; el texto lo prueba en quienes están sentados alrededor y oyen la respuesta de Yehoshua. Así, la progresión del capítulo es concreta: hacer el bien y salvar, recibir autoridad desde la presencia, discernir la obra sin invertirla y hacer la voluntad. La nota conserva la lectura atribuible de Eric, pero no presenta las conexiones históricas o semíticas pendientes como hechos demostrados.
+
 ## Mapa de la enseñanza de Eric
 
 - **#markos_3_1-6 — escoger la vida en Shabbat:** Eric vincula la pregunta de hacer el bien y salvar una `nefesh` con **ובחרת בחיים** de #devarim_30_19. La nota conserva la conexión porque ambos textos ponen vida y bien frente a una decisión, pero distingue el mandato de Devarim de la inferencia de que Marcos esté citándolo formalmente.
