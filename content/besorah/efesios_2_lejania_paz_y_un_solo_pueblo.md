@@ -292,7 +292,6 @@ En 2:14-18, los verbos distinguen el resultado. **ποιήσας**, _poiēsas_, 
 
 El acceso común confirma que «uno» no borra retrospectivamente «ambos». **προσαγωγή**, _prosagōgē_, «acceso o introducción», y **ἑνὶ πνεύματι**, _heni pneumati_, «en un solo Rúaj», explican en 2:18 la entrada compartida al Padre. En 2:19-22, **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», describen la pertenencia; **συναρμολογουμένη**, _synarmologoumenē_, «ensamblada juntamente», y **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», presentan una obra corporativa en curso. La equivalencia con **(שלום)**, _shalom_, «paz o integridad», ilumina **εἰρήνη**, _eirēnē_, solo de manera aproximada: el texto prueba la paz por acceso, reconciliación y edificación, no por una consigna abstracta.
 
-
 ## Control de dependencia: la paz se reconoce por sus efectos (2:13-22)
 
 La lectura de Eric sobre un solo pueblo puede probarse siguiendo la cadena del texto, no aislando la imagen de la pared. En 2:13, **ἐγενήθητε**, _egenēthēte_, «fueron hechos o llegaron a ser», es una forma pasiva que presenta el acercamiento como algo recibido en el Mesías; el versículo no atribuye esa cercanía a una conquista del grupo que estaba lejos. En 2:14, **εἰρήνη**, _eirēnē_, «paz», funciona como predicado de Yehoshua: la paz no es solo una sensación, sino el resultado que Pablo desarrolla mediante unidad, reconciliación y acceso. La comparación con **(שלום)**, _shalom_, «paz, integridad o bienestar», ayuda a situar el campo semítico del Delitzsch, pero no reemplaza el sentido contextual del griego.
@@ -363,7 +362,6 @@ El acceso confirma el alcance comunitario de la paz. **ἀμφότεροι**, _a
 
 Los últimos versículos muestran cómo se verifica esa pertenencia. **ἐποικοδομηθέντες**, _epoikodomēthentes_, «habiendo sido edificados sobre», sitúa la casa sobre el fundamento de apóstoles y profetas; **ἀκρογωνιαῖος**, _akrogōniaios_, «piedra angular», identifica la función decisiva del Mesías; y **συναρμολογουμένη**, _synarmologoumenē_, «ensamblada juntamente», junto con **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», presenta una obra corporativa en curso. La síntesis «un solo pueblo» queda, por tanto, limitada por tres efectos comprobables: acceso común, fundamento recibido y edificación conjunta; no es una plataforma de superioridad ni una identidad privada.
 
-
 ## Verificación dirigida: de la gracia recibida a la morada común
 
 La tesis atribuida a Eric sobre un pueblo reconciliado debe conservar el orden de Efesios 2. En 2:1-10, **χάριτί** (_chariti_, «por gracia o favor recibido») y **σεσῳσμένοι** (_sesōsmenoi_, «habiendo sido salvados») presentan una condición recibida; después **περιπατήσωμεν** (_peripatēsōmen_, «caminemos») da la finalidad de las buenas obras. La gracia no se compra caminando, pero tampoco queda sin dirección: el texto pasa de muerte a vida y de vida a una conducta preparada por Elohim.
@@ -382,6 +380,16 @@ Efesios 2 no construye la identidad del creyente sobre una superioridad étnica 
 
 - [[efesios_1_voluntad_reconciliacion_y_santidad|Efesios 1: voluntad, reconciliación y santidad]]
 - [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
+
+## Reparación dirigida: paz, acceso y edificio en el orden del capítulo
+
+La parte central de Efesios 2 no presenta una paz abstracta ni una absorción de un grupo por otro. Pablo pasa de la sangre del Mesías (2:13) a la afirmación **(εἰρήνη)**, _eirēnē_, «paz o relación reconciliada», en 2:14. La forma es nominativa y funciona como predicado: «él es nuestra paz». La comparación con **(שלום)**, _shalom_, «integridad, bienestar y paz», es cercana por campo semántico, pero no convierte el hebreo en la forma original del versículo. En contexto, la paz se prueba por una acción: hacer de los dos uno y derribar la barrera de enemistad.
+
+El sujeto de esa acción permanece visible. **(ποιήσας)**, _poiēsas_, «habiendo hecho», es un participio aoristo de **ποιέω**, «hacer o producir», y enlaza la paz con el Mesías; **(καταργήσας)**, _katargēsas_, «habiendo dejado sin efecto», describe la neutralización de la enemistad en su carne (2:15). La equivalencia temática con **(איבה)**, _evah_, «enemistad», ayuda a comparar, pero no permite afirmar que cada detalle de la traducción griega proceda de una retroversión hebrea. El contexto limita además la frase sobre los mandamientos: el resultado explícito es «un solo hombre nuevo» y paz, no una licencia para despreciar la instrucción ni para borrar la historia de Israel.
+
+El acceso confirma que la unidad es recibida, no conquistada. **(προσαγωγή)**, _prosagōgē_, «acceso o introducción ante alguien», aparece en 2:18 junto con **(ἀμφότεροι)**, _amphoteroi_, «ambos», y **(ἑνὶ πνεύματι)**, _heni pneumati_, «en un solo Espíritu». La forma de «ambos» conserva a los dos participantes dentro de la reconciliación; no autoriza a llamar irrelevante a uno de ellos. La preposición **διά**, _dia_, «por medio de», atribuye el acceso al Mesías y al único Espíritu, mientras **πρός**, _pros_, «hacia», orienta el movimiento al Padre. Esa cadena gramatical prueba el argumento de Eric sobre dependencia y pertenencia común con más seguridad que una definición aislada de «pueblo».
+
+El cierre cambia de la frontera a la casa. **(συμπολῖται)**, _sympolitai_, «conciudadanos», y **(οἰκεῖοι)**, _oikeioi_, «miembros de la casa o familiares», describen la nueva condición (2:19); **(συναρμολογουμένη)**, _synarmologoumenē_, «siendo ensamblada conjuntamente», es un participio presente pasivo que presenta una edificación en proceso (2:21). La comparación con **(בית)**, _beit_, «casa», es orientativa, no una equivalencia mecánica. La voz pasiva mantiene la iniciativa constructora fuera del orgullo humano: la comunidad crece «en el Señor» y es edificada como morada de Elohim en el Espíritu. Así, la secuencia completa —lejos, acercados, reconciliados, incorporados y edificados— conserva el orden textual y corrige tanto la hostilidad étnica como una espiritualidad sin obras.
 
 ## Créditos
 

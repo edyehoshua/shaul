@@ -162,7 +162,6 @@ El leproso confirma que compasión y procedimiento no son rivales. **παρακ�
 
 El cierre muestra el costo de una fama mal orientada. El hombre, en vez de guardar silencio, **κηρύσσειν**, _kērussein_, «proclamar», y **διαφημίζειν**, _diaphēmizein_, «difundir ampliamente», divulga el hecho; por eso Yehoshua ya no puede entrar abiertamente en la ciudad. Marcos no niega la verdad de la limpieza, pero sí muestra que la divulgación desobediente altera el movimiento de la misión. La autoridad que Eric relaciona con compasión queda mejor definida por esta cadena: enseña, reprende, ora, proclama, toca, restaura y devuelve al procedimiento de la Torá; no se convierte en espectáculo ni en diagnóstico universal del sufrimiento.
 
-
 ## Control de orden: anuncio, autoridad, retiro y restauración
 
 Marcos 1 no permite comenzar por el milagro final y usarlo como clave única del capítulo. **ἤγγικεν**, _ēngiken_, «se ha acercado», anuncia en 1:15 una llegada que exige **μετανοεῖτε**, _metanoeite_, «vuelvan o cambien de mente», y **πιστεύετε**, _pisteuete_, «confíen». La escena de la sinagoga desarrolla ese anuncio: **ἐδίδασκεν**, _edidasken_, «enseñaba», precede al mandato contra el espíritu, de modo que la autoridad no aparece como fuerza desligada de la palabra. Eric puede relacionar el reino con el gobierno de יהוה, pero el texto prueba la afirmación por anuncio, respuesta y enseñanza, no por una definición política completa.
@@ -209,10 +208,19 @@ Este anuncio prepara el mandato de 1:15. **πεπλήρωται**, _peplērōtai
 
 El mandato final al hombre limpiado confirma que Marcos no opone compasión y testimonio. **μαρτύριον**, _martyrion_, significa testimonio o evidencia; en 1:44 la presentación ante el sacerdote y la ofrenda ordenada por Moshéh hacen visible una restauración que debe ser reconocida, no una ruptura de toda norma. La lectura no afirma que cada detalle cultual del pasaje resuelva debates posteriores sobre pureza; sí conserva el límite textual: Yehoshua toca, limpia y envía al procedimiento indicado. La autoridad del capítulo sirve al retorno del ser humano a יהוה y a la comunidad, no a una exhibición privada de poder.
 
->>>>>>> b1e5eafd53 (docs(markos): deepen ordered restoration studies)
 ## Conclusión
 
 Marcos 1 llama a recibir el reino mediante retorno a יהוה y confianza en la buena noticia. La autoridad de Yehoshua se hace audible en su enseñanza y visible en una liberación que no confunde con toda enfermedad. Su oración impide reducir la misión a popularidad, y su toque al leproso revela compasión que restaura y, a la vez, dirige al testimonio ordenado por Moshéh.
+
+## Reparación dirigida: autoridad que enseña, libera y restaura (1:21-45)
+
+La escena de la sinagoga une enseñanza y acción sin reducir la autoridad a espectáculo. **(ἐξεπλήσσοντο)**, _exeplēssonto_, «quedaban profundamente asombrados», es un imperfecto que presenta la reacción sostenida de los oyentes; **(διδαχή)**, _didachē_, «enseñanza o contenido enseñado», nombra aquello que reciben; y **(ἐξουσία)**, _exousia_, «autoridad, derecho o capacidad legítima para actuar», explica por qué comparan a Yehoshua con los escribas (1:22, 27). La relación temática con **(סמכות)**, _samchut_, «autoridad», es aproximada y no reemplaza el vocabulario griego. Marcos muestra que la autoridad se reconoce por la enseñanza y por el mandato obedecido, no por una credencial humana inventada.
+
+El espíritu impuro responde con conocimiento, pero Yehoshua no convierte esa confesión en fundamento de su misión. **(ἐπετίμησεν)**, _epetēmsen_, «reprendió», es un aoristo de **ἐπιτιμάω**, «reprender o imponer una orden», y **(φιμώθητι)**, _phimōthēti_, «cállate», es un imperativo aoristo pasivo con sentido de «sé silenciado» (1:25). Después **(ἐξῆλθεν)**, _exēlthen_, «salió», describe el resultado narrativo. La comparación con **(גער)**, _ga'ar_, «reprender», puede iluminar el campo bíblico, pero no prueba una fórmula hebrea detrás de Marcos. La liberación devuelve el centro al mandato de Yehoshua y no ofrece una técnica reproducible.
+
+El capítulo distingue liberación, fiebre y limpieza. En la casa de Shimón, la fiebre **(ἀφῆκεν)**, _aphēken_, «dejó o abandonó», a la suegra, y ella se levantó para servir (1:31). En el leproso, Yehoshua es movido a compasión: **(σπλαγχνισθείς)**, _splagchnistheis_, «habiendo sido movido en sus entrañas», es un participio aoristo que precede a la palabra y al toque; **(καθαρίσαι)**, _katharisai_, «limpiar o declarar limpio», es el infinitivo de la petición (1:40). La cercanía con **(רחם)**, _rajam_, «tener compasión», y **(טהר)**, _taher_, «estar limpio o purificar», es comparativa. Marcos no autoriza a igualar automáticamente lepra con pecado ni enfermedad con opresión espiritual.
+
+La respuesta **(θέλω)**, _thelō_, «quiero o deseo», muestra voluntad de restaurar, mientras **(ἐκαθαρίσθη)**, _ekatharisthē_, «fue limpiado», es un aoristo pasivo que relata el resultado (1:41-42). Yehoshua manda al hombre mostrar su limpieza al sacerdote y ofrecer lo prescrito por Moshéh (1:44). El milagro, por tanto, no cancela el procedimiento de la Torá ni convierte al beneficiario en publicidad ambulante. Cuando el hombre proclama el hecho y la fama se extiende, Yehoshua queda fuera en lugares desiertos y la gente sigue acudiendo: la compasión restaura al individuo, pero la misión continúa gobernada por proclamación, oración y obediencia.
 
 ## Créditos
 
