@@ -300,6 +300,16 @@ El orden del capítulo impide separar esa madurez de la vida cotidiana. **ἀλ�
 
 El sello del Rúaj cierra la prueba relacional. **μὴ λυπεῖτε**, _mē lypeite_, «no entristezcan», no es una licencia para controlar la conciencia, sino una advertencia contra la amargura, la gritería y la malicia que el pasaje enumera. **χρηστοί**, _chrēstoi_, «bondadosos», **εὔσπλαγχνοι**, _eusplanchnoi_, «compasivos», y **χαριζόμενοι**, _charizomenoi_, «concediendo gracia o perdonando», hacen visible la nueva humanidad. Así, la enseñanza atribuible de Eric sobre dones y libertad queda probada en una sola secuencia: gracia recibida, santos equipados, verdad compartida, trabajo generoso y perdón; no en el dominio de una voz sobre todo el cuerpo.
 
+## Control de la madurez: la verdad sirve al crecimiento (4:14-16, 25-32)
+
+La madurez que Eric relaciona con la plenitud no se demuestra por una voz que nunca puede ser examinada. En 4:14, Pablo contrasta al niño llevado por todo viento de enseñanza con una comunidad que ya no es **νήπιοι**, _nēpioi_, «pequeños o inmaduros», y que no queda expuesta a **κυβεία**, _kybeia_, «juego de dados o engaño». La imagen no convierte toda diferencia doctrinal en engaño; describe la inestabilidad producida por artificio y astucia. La observación de Eric sobre medir lo que se oye contra el Mesías queda apoyada, pero el texto dirige el remedio hacia hablar la verdad en amor, no hacia sospechar de toda persona que enseña.
+
+En 4:15, **ἀληθεύοντες**, _alētheuontes_, puede expresar «hablando o practicando la verdad», y su dirección es crecer **εἰς αὐτόν**, _eis auton_, «hacia él», la cabeza, el Mesías. La verdad no es una bandera para separarse del cuerpo: el versículo la une al amor y al crecimiento. Luego 4:16 explica que el cuerpo se edifica cuando cada articulación aporta según su medida. **ἁφή**, _haphē_, «unión, ligamento o punto de contacto», es una forma discutida en su matiz exacto; aquí basta su función contextual de conexión que permite que el cuerpo crezca.
+
+La prueba continúa en 4:25-32. Si somos miembros unos de otros, dejar la mentira y hablar verdad es una obligación relacional; si el ladrón trabaja, el propósito no es solo dejar de tomar, sino **μεταδιδόναι**, _metadidonai_, «compartir», con quien tiene necesidad. La palabra buena debe dar **χάριν**, _charin_, «gracia o beneficio», a quienes la oyen. Eric puede llamar a esto libertad de la vida vieja, pero Efesios la verifica por prójimos concretos, trabajo generoso y habla que edifica.
+
+Finalmente, el sello del Rúaj no autoriza una autoridad intocable. **ἐσφραγίσθητε**, _esphragisthēte_, «fuisteis sellados», afirma pertenencia orientada al día de la redención; la orden **μὴ λυπεῖτε**, _mē lypeite_, «no entristezcan», se explica por quitar amargura, furor, gritería, malicia y maledicencia. **χαριζόμενοι**, _charizomenoi_, «concediendo gracia o perdonando», cierra la exhortación con el patrón de Elohim en el Mesías. La enseñanza queda probada en una trayectoria única: don recibido, verdad practicada, cuerpo edificado, necesidad atendida y perdón visible.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

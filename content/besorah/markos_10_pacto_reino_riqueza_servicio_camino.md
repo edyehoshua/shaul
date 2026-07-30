@@ -278,6 +278,14 @@ BarTimai cierra el control con una respuesta visible. **ἐλέησον**, _ele�
 - [ ] Distinguir aplicaciones pastorales modernas sobre matrimonios previos a la fe de lo que #markos_10_1-12 formula directamente.
 - [ ] Documentar la referencia rabínica aludida sobre estudiar mucha Torah sin gloriarse, si se usa en la enseñanza.
 
+## Control de la promesa: comunidad recibida y persecución incluida
+
+La promesa de 10:28-31 debe conservar sus dos lados. Eric subraya que quienes dejan casa, hermanos, hermanas, madre, padre, hijos o campos por Yehoshua y por la buena noticia reciben mucho más en el tiempo presente; la clase relaciona esa recepción con una familia de fe que sostiene al discípulo. La observación tiene apoyo en la lista narrativa y en el verbo **λήμψεται**, _lēmpsetai_, «recibirá». Pero el mismo versículo añade **μετὰ διωγμῶν**, _meta diōgmōn_, «con persecuciones». «Ciento por uno» no puede separarse de esa preposición y convertirse en una promesa de rendimiento material o de inmunidad al sufrimiento.
+
+La forma **αἰώνιος**, _aiōnios_, «perteneciente al siglo o perdurable», califica la vida del siglo venidero; su correspondencia con **(עולם)**, _olam_, «duración extensa, era o mundo», es aproximada y contextual. Marcos no describe aquí un intercambio comercial con Elohim: la vida es recibida dentro del seguimiento y la persecución queda dentro de la promesa. Por eso la aplicación de Eric puede conservar una dimensión comunitaria concreta —los discípulos no quedan solos—, pero debe ser probada por la secuencia completa: dejar, recibir, padecer y esperar.
+
+Este límite también protege la lectura de 10:29 frente a una espiritualización que ignore pérdidas reales. Yehoshua no niega que haya casas y vínculos recibidos en la comunidad, pero tampoco promete que toda renuncia será compensada con bienes equivalentes ni autoriza a líderes a exigir desprendimientos para su propio beneficio. El texto orienta la esperanza hacia el Mesías y hacia la vida venidera, no hacia una contabilidad de prosperidad. Así, la enseñanza atribuible sobre la familia de fe queda apoyada como cuidado compartido y cualificada cuando se presenta como multiplicación financiera automática.
+
 ## Conclusión
 
 Marcos 10 no permite separar vida perdurable, alianza, comunidad y camino de la cruz. El reino se recibe; la riqueza no puede comprarlo; el discípulo no puede usar lo que dejó para reclamar superioridad. Yehoshua avanza hacia la entrega y convierte el servicio en la medida de la grandeza. BarTimai, que recibe vista y sigue por el camino, ofrece la imagen final de una respuesta que deja atrás la pretensión de controlar al Mesías.
