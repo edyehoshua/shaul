@@ -384,6 +384,14 @@ En 3:10-13 el propósito se vuelve público. **γνωρισθῇ**, _gnōristhē
 
 La oración de 3:14-21 muestra el fruto del encargo en el orden del texto. **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», presentan peticiones recibidas para el ser interior y el corazón; **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», ocurre «con todos los santos», no como posesión individual. **πληρωθῆτε**, _plērōthēte_, «seáis llenados o llevados a plenitud», queda en pasiva y apunta al don de Elohim. Así, la mente y el Rúaj que Eric relaciona pedagógicamente desembocan en amor, comprensión compartida y gloria en la asamblea; no en una técnica privada de revelación o autosuperación.
 
+## Verificación dirigida: la oración interpreta el misterio sin reemplazarlo
+
+La oración de 3:14-21 debe leerse después de la definición del misterio en 3:6, no como una experiencia separada. **πατριά**, _patria_, «familia, linaje o grupo familiar», aparece en 3:15 junto a **πατήρ**, _patēr_, «padre»; el juego de palabras puede explicar por qué Eric relaciona filiación, casa y formación, pero no demuestra que cada uso arameo de «casa» signifique «escuela». El texto sí afirma que toda familia recibe su nombre del Padre y que la petición se dirige a una comunidad concreta.
+
+La cadena de 3:16-19 también precisa el alcance de «mente» y «Rúaj». **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», depende de la petición al Padre y ocurre «por su Rúaj» en el ser interior; **κατοικῆσαι**, _katoikēsai_, «habitar», describe la morada del Mesías en los corazones por la fe; y **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», se realiza «con todos los santos». Eric puede usar mente y formación como aplicaciones pastorales, pero la sintaxis conserva Rúaj, Mesías, fe y comunidad como coordenadas distintas.
+
+El cierre prueba el resultado, no una capacidad autónoma del discípulo. **πληρωθῆτε**, _plērōthēte_, «seáis llenados o llevados a plenitud», es una petición recibida, y **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», atribuye la sobreabundancia al poder que obra en la comunidad. Por tanto, la observación de Eric sobre una gracia que sostiene queda apoyada cuando conduce a participación, amor y gloria a Elohim; la lectura de «sustentabilidad», «mente» o «escuela» permanece como aplicación calificada y no como equivalencia léxica del capítulo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

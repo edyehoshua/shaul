@@ -286,6 +286,14 @@ El cierre hace visible el costo de una religión que no protege al vulnerable. *
 - [ ] Examinar la lectura de #tehilim_110_1 y las genealogías de Yehoshua sin resolver el pasaje mediante la afirmación no cotejada de que el Mesías no puede ser humano.
 - [ ] Cotejar los usos de **(זרע)** en las promesas bíblicas y la argumentación de #galatim_3_16 antes de universalizar una regla singular = Mesías.
 
+## Verificación dirigida: el amor y la ofrenda se leen bajo la denuncia
+
+La parte final de Marcos 12 no permite separar doctrina y cuidado. En 12:28-34, **ἀγαπάω**, _agapaō_, «amar», recibe como objetos a Elohim y al prójimo; en 12:38-40, **κατεσθίω**, _katesthiō_, «devorar o consumir», describe el daño cometido contra las casas de las viudas. La observación de Eric sobre una vida entregada conserva apoyo en el orden del relato sólo si el amor al prójimo gobierna la práctica religiosa: una comunidad que consume a la vulnerable contradice el mandamiento que acaba de reconocer.
+
+La viuda de 12:41-44 confirma esa tensión sin convertirse en una cuota. **ὑστέρημα**, _hysterēma_, «carencia o déficit», contrasta con **περισσεύω**, _perisseuō_, «abundar o sobrar», y **βίος**, _bios_, puede significar vida o medios de vida. La clase acierta al señalar que las dos monedas representan su sustento, pero el pasaje no registra una orden de Yehoshua para que ella entregue más ni para que otros imiten su precariedad. El elogio narrativo y la denuncia de los escribas deben permanecer juntos.
+
+La pregunta del Señor de David mantiene el mismo límite de lectura. **πῶς**, _pōs_, «cómo», abre una dificultad sobre la suficiencia del título «hijo de David», mientras **κύριος**, _kyrios_, «señor», recibe su sentido de la cita del Salmo 110 y de la relación con יהוה. La síntesis doctrinal de Eric sobre la identidad del Mesías queda atribuida; Marcos prueba que la filiación davídica no agota la pregunta, pero no resuelve por una sola forma griega todas las afirmaciones metafísicas posteriores.
+
 ## Conclusión
 
 Marcos 12 une poder de resurrección, Shemá y medida de la ofrenda. Los tzedukim tropiezan al proyectar el levirato sobre el olam venidero; Yehoshua los devuelve a la Escritura y al Elohim de los vivos. Luego el amor a יהוה y al prójimo ordena la vida, la pregunta por el Señor de David impide reducir al Mesías a una dinastía manejable, y la viuda revela una grandeza que no se compra con abundancia. La lectura de Eric aporta observaciones concretas; permanece sujeta al texto y a la verificación de sus conexiones históricas y doctrinales.
