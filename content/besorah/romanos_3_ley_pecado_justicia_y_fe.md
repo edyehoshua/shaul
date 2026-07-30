@@ -271,6 +271,14 @@ En #romanos*3_21-26, **(χωρίς)**, \_chōris*, significa separado de, sin o 
 
 El cierre mantiene unidas gracia y responsabilidad. **(καταργέω)**, _katargeō_, significa hacer ineficaz, dejar sin efecto o anular; **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. En 3:31 Pablo niega enfáticamente que la emunah anule la Torah y afirma que la establece. Esa conclusión recibe **apoyo textual directo**; decidir desde este versículo la aplicación detallada de cada mandamiento es **inferencial** y exige seguir el argumento posterior de Romanos. Así, el foco público de Eric recibe **apoyo textual cualificado**: estar dentro del testimonio no permite gloriarse, y recibir justicia gratuitamente no permite despreciar la instrucción.
 
+## Control de dependencia: acusación, don y Torah establecida
+
+Romanos 3 debe leerse como una progresión, no como tres lemas independientes. En 3:19-20, **(ὑπόδικος)**, _hypodikos_, significa sujeto a juicio o culpable; su fuerza contextual es forense y universal, porque toda boca queda sin defensa. **(ἐπίγνωσις)**, _epignōsis_, significa conocimiento pleno, reconocimiento o comprensión; aquí describe la función diagnóstica de la Torah al hacer visible el pecado. Estas glosas son **directas**; convertir «dentro de la ley» en una casta de superioridad sería **ilegítimo** frente al alcance universal del pasaje.
+
+En 3:21-26, **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; en contexto distingue las obras como base de justificación, pero no separa la justicia manifestada del testimonio de Torah y profetas. **(δικαιόω)**, _dikaioō_, significa declarar justo, vindicar o reconocer como justo; **(ἱλαστήριον)**, _hilastērion_, puede significar medio de expiación o lugar de propiciación. «Propiciación» es **aproximada y pedagógica**, porque la forma no resuelve por sí sola un modelo técnico completo de expiación.
+
+En 3:27-31, **(καύχησις)**, _kauchēsis_, significa jactancia, orgullo o motivo de gloriarse; su fuerza contextual excluye la superioridad. **(καταργέω)**, _katargeō_, significa hacer ineficaz o dejar sin efecto, mientras **(ἵστημι)**, _histēmi_, significa poner de pie, establecer o sostener. Pablo niega que la emunah anule la Torah y afirma que la establece. La observación atribuible de Eric recibe **apoyo textual cualificado**: la justicia gratuita cierra la jactancia y la gracia no autoriza a despreciar la instrucción; decidir la aplicación detallada de cada mandamiento requiere seguir el argumento posterior.
+
 ## Ver también
 
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]]
