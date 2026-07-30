@@ -262,6 +262,14 @@ En 4:11-16, los servicios se ordenan hacia una madurez común. **(καταρτί
 
 El cambio de vida empieza en lo aprendido del Mesías, no en una técnica de autoformación. **(ἀπεθέσθαι)**, _apesthai_, «quitarse o dejar a un lado», y **(ἐνδύσασθαι)**, _endysasthai_, «vestirse», presentan dos movimientos relacionados con el viejo y el nuevo ser humano; **(ἀνανεοῦσθαι)**, _ananeousthai_, «ser renovado», aparece en medio como proceso que afecta el espíritu de la mente. Eric describe aquí libertad como salida de una forma antigua de vivir; Efesios la prueba con la verdad y la justicia de 4:25-32. La lectura no debe separar madurez doctrinal y conducta: el contexto hace que vestir la nueva humanidad sea visible en el cuerpo que se edifica.
 
+## Verificación final: el don recibido se reconoce en el prójimo (4:7-16, 25-32)
+
+La exposición de Eric sobre la medida del don queda mejor delimitada si se observa la transición desde **ἑνὶ δὲ ἑκάστῳ**, _heni de hekastō_, «pero a cada uno», hasta **ἵνα καταρτίσῃ**, _hina katartisē_, «para preparar o equipar». La gracia no aparece como propiedad acumulable: el propósito de los servicios es que los santos realicen la obra y que el cuerpo sea edificado. **οἰκοδομή**, _oikodomē_, «edificación o construcción», nombra el resultado comunitario; su relación con **(בנה)**, _banah_, «construir», es una comparación de campo semántico, no una retroversión hebrea del griego. La autoridad de un servidor se prueba, por tanto, por lo que capacita en otros.
+
+El orden del capítulo impide separar esa madurez de la vida cotidiana. **ἀληθεύοντες**, _alētheuontes_, «hablando o practicando la verdad», conduce al crecimiento «en amor» hacia la cabeza; después **μηκέτι κλεπτέτω**, _mēketi kleptetō_, «que ya no robe», desemboca en trabajo para compartir, y **λόγος ἀγαθός**, _logos agathos_, «palabra buena», se mide por la edificación de quien escucha. Eric conserva una crítica a la libertad entendida como permiso para seguir igual; el texto local la confirma con verbos observables, no con una definición abstracta de independencia.
+
+El sello del Rúaj cierra la prueba relacional. **μὴ λυπεῖτε**, _mē lypeite_, «no entristezcan», no es una licencia para controlar la conciencia, sino una advertencia contra la amargura, la gritería y la malicia que el pasaje enumera. **χρηστοί**, _chrēstoi_, «bondadosos», **εὔσπλαγχνοι**, _eusplanchnoi_, «compasivos», y **χαριζόμενοι**, _charizomenoi_, «concediendo gracia o perdonando», hacen visible la nueva humanidad. Así, la enseñanza atribuible de Eric sobre dones y libertad queda probada en una sola secuencia: gracia recibida, santos equipados, verdad compartida, trabajo generoso y perdón; no en el dominio de una voz sobre todo el cuerpo.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

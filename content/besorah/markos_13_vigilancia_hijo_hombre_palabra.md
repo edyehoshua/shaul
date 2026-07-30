@@ -487,6 +487,14 @@ La respuesta inmediata es **(βλέπετε)**, _blepete_, «miren o estén aten
 
 La parábola del hombre que se ausenta fija además responsabilidades diferenciadas: cada siervo recibe su tarea y el portero debe velar. **(ἔργον)**, _ergon_, «obra o tarea», y **(θυρωρός)**, _thyrōros_, «portero», convierten la espera en servicio responsable. Por eso «velad» no significa abandonar el trabajo, aislarse ni declarar cumplida toda profecía a partir de una cronología privada. Marcos termina con una exhortación pública —«lo que a vosotros digo, a todos lo digo: velad»— que conserva el horizonte comunitario y hace que la lectura histórica de las setenta semanas permanezca subordinada a una obediencia verificable.
 
+## Verificación final: una palabra firme y una obra encomendada (13:28-37)
+
+La higuera ofrece discernimiento limitado, no acceso al calendario. **γινώσκετε**, _ginōskete_, «reconozcan o sepan», y **ἐγγύς**, _engys_, «cerca», permiten identificar una proximidad cuando aparecen las hojas, pero el contexto inmediato conserva **οὐκ οἴδατε**, _ouk oidate_, «no saben», respecto del día y la hora. Eric puede usar la imagen para llamar a la atención sobre las señales; Marcos impide convertir esa atención en una fecha secreta. La relación pedagógica con **(בין)**, _bin_, «entender o discernir», es aproximada y no sustituye la sintaxis griega.
+
+La certeza del versículo 31 y la incertidumbre del versículo 32 cumplen funciones distintas. **οἱ λόγοι μου**, _hoi logoi mou_, «mis palabras», quedan bajo **οὐ μὴ παρέλθωσιν**, _ou mē parelthōsin_, «de ningún modo pasarán»; la palabra de Yehoshua es estable aunque la hora no sea entregada. La diferencia local permanece explícita: TTH no incluye «ni el Hijo», mientras Delitzsch conserva **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo». Ningún testigo permite usar la permanencia de la palabra para borrar la variante o reclamar conocimiento reservado.
+
+La parábola convierte esa limitación en responsabilidad concreta. El dueño de casa da a sus siervos **ἐξουσία**, _exousia_, «autoridad, responsabilidad o encargo», y a cada uno su **ἔργον**, _ergon_, «obra o tarea»; al portero le ordena **γρηγορεῖν**, _grēgorein_, «vigilar o mantenerse despierto». La forma final **γρηγορεῖτε**, _grēgoreite_, «vigilen», se dirige a todos. La enseñanza de Eric sobre una profecía que no debe volverse calendario queda así probada por el cierre: la comunidad recibe palabra firme, información limitada y trabajo visible. La vigilancia fiel no fabrica una hora; cumple el encargo mientras espera.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
