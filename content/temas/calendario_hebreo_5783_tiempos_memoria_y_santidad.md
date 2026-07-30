@@ -1,25 +1,31 @@
 ---
 title: "Calendario hebreo 5783: tiempos, memoria y santidad"
-description: "Estudio canónico del calendario hebreo 5783 como memoria de la obra de Elohim, convocación y discernimiento de los tiempos sin convertir el calendario en especulación profética."
+description: "Estudio canónico de la explicación de Eric del calendario hebreo 5783: ciclo luni-solar, precisión frente al cómputo rabínico, conteo del omer y las fiestas como mo‘adim de יהוה."
 date: 2026-07-29
 tags:
   - calendario
   - fiestas
+  - moadim
+  - omer
   - tiempos
-  - memoria
   - santidad
 references:
   - "#genesis_1_14"
-  - "#leviticus_23_1-4"
-  - "#deuteronomy_16_1-17"
-  - "#exodus_12_1-14"
+  - "#exodus_12_2"
+  - "#exodus_12_6"
+  - "#exodus_12_8"
+  - "#exodus_12_14"
+  - "#leviticus_23_2-4"
+  - "#leviticus_23_15-16"
+  - "#deuteronomy_16_1"
+  - "#deuteronomy_16_9-10"
   - "#acts_2_1-4"
 sources:
   - "https://www.youtube.com/watch?v=Mv_H45lKGkQ"
   - "docs/scriptures/oe/json/genesis/1.json"
+  - "docs/scriptures/oe/json/exodus/12.json"
   - "docs/scriptures/oe/json/leviticus/23.json"
   - "docs/scriptures/oe/json/deuteronomy/16.json"
-  - "docs/scriptures/oe/json/exodus/12.json"
   - "docs/scriptures/delitzsch/json/acts.json"
 source_ids:
   - "youtube:Mv_H45lKGkQ"
@@ -28,78 +34,101 @@ translation: "[OE, Delitzsch]"
 
 # Tesis
 
-El calendario hebreo 5783 puede estudiarse bíblicamente como una estructura de memoria, convocación y santidad. Eric presenta públicamente una explicación del calendario correspondiente a 5783, es decir, un marco anual destinado a ordenar los tiempos de las fiestas. La fuente disponible permite atribuirle ese tema y ese título, pero no una exposición transcriptual detallada. La Escritura local confirma que las lumbreras señalan tiempos, que las fiestas son convocaciones de יהוה y que la memoria de la liberación debe producir obediencia, gratitud y cuidado comunitario. No permite convertir una fecha del calendario en una predicción exhaustiva ni en una medida automática de la fidelidad de una persona.
+El calendario hebreo no es un accesorio cultural ni un oráculo. En la clase pública _Explicando el calendario Hebreo 5783 - 2022-2023_ (`youtube:Mv_H45lKGkQ`), Eric de Jesús Rodríguez Mendoza expone el año 5783 como marco luni-solar: los meses siguen la luna y deben sincronizarse con el sol para no desplazar las estaciones. Contrasta un cómputo más atento a la visibilidad lunar —el que llama caraíta— con el calendario rabínico, al que critica por ajustar días según tradiciones sobre qué fiestas pueden caer en qué día de la semana. La Escritura local confirma lumbreras para señales y mo‘adim, el mes de la Aviv como cabeza de los meses, la distinción entre el día del sacrificio y la noche de la comida de Pésaj, y el conteo de siete shabatot completos hasta el quincuagésimo día. El estudio del calendario ordena memoria y convocación; no autoriza soberbia ni predicción exhaustiva.
 
 ## Alcance de la nota
 
-Esta es una nota canónica temática sobre el video público `youtube:Mv_H45lKGkQ`, titulado «Explicando el calendario Hebreo 5783 - 2022-2023». Como no hay transcripción local disponible para esta fuente, se conserva con exactitud el título, la URL y el asunto visible; no se inventan frases, fechas particulares defendidas por Eric ni argumentos que el título no documenta. La evaluación procede de Génesis 1, Levítico 23, Deuteronomio 16, Éxodo 12 y Hechos 2. Las correspondencias entre el calendario de la Torah y calendarios civiles posteriores son pedagógicas e históricas, no equivalencias textuales automáticas.
+Esta nota desarrolla `youtube:Mv_H45lKGkQ`. La exposición se conserva en prosa atribuible a partir de la transcripción automática; no se presenta como cita literal. Se siguen los bloques principales de la clase: naturaleza luni-solar del año, duración variable de meses y años, comparación 5783/2022-2023, diferencia entre _qorban_ de Pésaj y séder, conteo del omer y Shavuot, origen histórico del cómputo fijo, y la advertencia de no usar el calendario para sentirse superior. Las tablas numéricas concretas de la clase (días de un mes particular, listas Excel) se tratan como **datos de exposición** y no se convierten aquí en un almanaque republicado; la evaluación canónica usa Génesis 1, Éxodo 12, Levítico 23, Deuteronomio 16 y Hechos 2.
 
 ## Hoja de comparación
 
-| Referencia           | Texto local y recorrido                                                                                    | Fuerza de la lectura                                                                                              |
-| -------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| #genesis_1_14        | Elohim pone lumbreras para separar día y noche y para señales, tiempos señalados, días y años.             | El tiempo creado tiene orden y puede ser observado; el versículo no entrega por sí solo un sistema de predicción. |
-| #leviticus_23_1-4    | Las fiestas de יהוה se presentan como convocaciones santas y descansos establecidos.                       | El calendario bíblico ordena reunión y santidad, no solo cálculo privado.                                         |
-| #exodus_12_1-14      | El mes de la liberación recibe un comienzo particular y la Pascua conserva una memoria ritual del rescate. | La cuenta del tiempo se vincula con la obra salvadora recordada y con una práctica obediente.                     |
-| #deuteronomy_16_1-17 | Pésaj, Shavuot y Sukkot reúnen memoria, ofrenda, alegría y participación del vulnerable.                   | El calendario forma una comunidad agradecida; no es una colección de fechas aisladas.                             |
-| #acts_2_1-4          | Los discípulos están reunidos cuando se cumple el tiempo de las semanas y reciben el Ruaj.                 | Hechos relee una fiesta desde su acontecimiento mesiánico sin borrar la historia de la convocación.               |
+| Referencia           | Hebreo / texto local relevante                                                                | Función en la clase y en la nota                                                     |
+| -------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| #genesis_1_14        | **יהי מארת ברקיע השמים להבדיל בין היום ובין הלילה והיו לאתת ולמועדים ולימים ושנים**           | Lumbreras para señales, mo‘adim, días y años: base creacional del tiempo observable. |
+| #exodus_12_2         | **החדש הזה לכם ראש חדשים ראשון הוא לכם לחדשי השנה**                                           | El mes de la liberación encabeza la cuenta anual.                                    |
+| #exodus_12_6         | **והיה לכם למשמרת עד ארבעה עשר יום לחדש הזה ושחטו אתו ... בין הערבים**                        | El 14 del mes es el día del sacrificio del cordero.                                  |
+| #exodus_12_8         | **ואכלו את הבשר בלילה הזה צלי אש ומצות על מררים יאכלהו**                                      | La comida es «esta noche»: distinta del momento del sacrificio.                      |
+| #exodus_12_14        | **והיה היום הזה לכם לזכרון וחגתם אתו חג ליהוה**                                               | El día se vuelve memorial y fiesta transmitida.                                      |
+| #leviticus_23_2-4    | **מועדי יהוה אשר תקראו אתם מקראי קדש** ... **אלה מועדי יהוה מקראי קדש אשר תקראו אתם במועדם**  | Las fiestas son convocaciones santas en su tiempo señalado.                          |
+| #leviticus_23_15-16  | **וספרתם לכם ממחרת השבת ... שבע שבתות תמימת** ... **עד ממחרת השבת השביעת תספרו חמשים יום**    | Siete shabatot completos y quincuagésimo día: eje del debate sobre el omer.          |
+| #deuteronomy_16_1    | **שמור את חדש האביב ועשית פסח ליהוה אלהיך**                                                   | Guardar el mes de la Aviv une calendario y rescate.                                  |
+| #deuteronomy_16_9-10 | **שבעה שבעת תספר לך** ... **ועשית חג שבעות ליהוה אלהיך**                                      | Contar siete semanas y hacer la fiesta de las semanas.                               |
+| #acts_2_1            | Delitzsch / contexto de Hechos: al cumplirse el día de la _pentēkostē_, estaban todos juntos. | La reunión apostólica ocurre en el marco de la fiesta, sin borrar Levítico.          |
 
-## El tiempo creado no es azar ni oráculo
+## Tiempo creado y ciclo luni-solar
 
-Génesis 1:14 presenta las lumbreras como señales para tiempos, días y años. **(אוֹת)**, _ot_, significa señal, marca o signo; su fuerza contextual es una función observable dentro del orden creado. «Señal» es una glosa directa. Sería ilegítimo convertir cada fenómeno celeste en un mensaje secreto, porque el texto enumera también funciones concretas de separación y medición. **(מוֹעֵד)**, _moed_, significa tiempo señalado, cita o estación fijada; en su campo bíblico puede referirse tanto a una ocasión establecida como a una asamblea. La relación con el calendario de las fiestas es textual cuando Levítico 23 llama convocaciones a los tiempos señalados, pero la aplicación a cada detalle de 5783 es aproximada y requiere una tabla cronológica verificable.
+#genesis_1_14 pone lumbreras **לאתת ולמועדים ולימים ושנים**, «para señales, para tiempos señalados, para días y años». **(אות)**, _ot_, significa señal o marca; **(מועד)**, _mo‘ed_, significa tiempo señalado, cita o estación fijada. Ambas glosas son **directas** en el campo ordinario. Eric no parte de este versículo como lema único, pero su exposición supone que el tiempo se observa y se sincroniza: el mes lunar puro no basta si se quieren respetar primavera, verano, otoño e invierno. Esa necesidad de acoplar luna y sol es **histórica y astronómica** en la clase, y **canónicamente compatible** con mo‘adim ligados a la Aviv y a la cosecha. Convertir cada fenómeno celeste en oráculo privado sería **ilegítimo** frente a Génesis 1:14, que enumera funciones de separación y medición.
 
-El título de Eric orienta una conversación sobre un año concreto, pero la nota debe conservar la diferencia entre explicar el calendario y adivinar el futuro. La observación atribuible es exacta en alcance público: trata del calendario hebreo 5783. La conclusión canónica es cualificada: los tiempos ayudan a recordar la obra de Elohim y a organizar la obediencia, mientras que los cálculos que pretenden fijar acontecimientos finales necesitan textos y evidencias adicionales.
+La clase repite que un año lunar «pleno» ronda 354 días y que, al insertar un mes, el año puede acercarse a 384. El contraste con el año civil de 365/366 días es **pedagógico**: muestra que la cabeza acostumbrada al calendario gregoriano no es la medida bíblica automática. Los números concretos de 2014–2023 que Eric tabula son **datos de su exposición**; aquí se conservan como observación atribuible de método, no como almanaque a reimprimir sin su hoja de cálculo.
 
-## Las fiestas como convocaciones de יהוה
+## Meses que no duran siempre igual
 
-Levítico 23 no comienza entregando fechas desnudas, sino identificando «las fiestas de יהוה» y llamándolas convocaciones santas (#leviticus_23_1-4). **(מִקְרָא־קֹדֶשׁ)**, _miqra qodesh_, significa convocación santa o reunión consagrada; su fuerza contextual es que el tiempo festivo reúne a la comunidad para apartarse de la rutina ordinaria y presentarse ante יהוה. «Convocación santa» es una traducción directa del concepto; relacionarlo con una forma concreta de reunión contemporánea es una aplicación pedagógica.
+Eric insiste en algo que al oyente occidental le suena raro: ni el sistema caraíta ni el rabínico fijan para siempre 30 días a un mes con nombre dado. Un mes puede tener 29 un año y 30 otro, porque el ciclo lunar real no completa 30 días enteros. **(חדש)**, _jodesh_, significa luna nueva / mes; su fuerza ordinaria es el período lunar. «Mes» es **directo**; afirmar que cada tradición posterior calcula el _jodesh_ de modo idéntico a Éxodo 12 sería **aproximado**. La clase usa la comparación con febrero bisiesto solo como analogía didáctica.
 
-La secuencia incluye Shabat y luego las fiestas anuales. Eso impide tratar el calendario como una curiosidad cultural desligada de la vida. **(שַׁבָּת)**, _Shabbat_, significa cese o descanso; en Levítico 23 funciona como día de reposo dentro del orden santo. La relación con el descanso semanal es directa; afirmar que todos los detalles de una práctica moderna quedan resueltos por el sustantivo sería inferencial. La enseñanza de Eric puede ser recibida como invitación a estudiar los tiempos, pero la Torah gobierna el alcance: santidad, reposo, memoria y reunión.
+## 5783: comparación, Pésaj y el conteo del omer
 
-## Memoria que forma obediencia
+Para 5783 / 2022-2023, Eric observa que el cómputo que sigue con más rigor la luna y el rabínico pueden coincidir en varias fechas de primavera y diferir más en otoño cuando se acumula un día. Subraya dos distinciones argumentales:
 
-Éxodo 12 conecta el comienzo del año ritual con la liberación de Egipto (#exodus_12_1-14). **(זִכָּרוֹן)**, _zikaron_, significa memoria o memorial; aunque la forma central aparece en el lenguaje de la Pascua, su fuerza canónica describe una memoria que se celebra y se transmite. «Memorial» es directo en el campo ordinario. **(פֶּסַח)**, _pesaj_, nombra la Pascua; su fuerza contextual es la comida y señal mediante la cual Israel recuerda que יהוה pasó sobre las casas y sacó a su pueblo. La conexión con el calendario es textual en Éxodo 12, pero una explicación histórica exhaustiva de todos los calendarios posteriores es aproximada mientras no se documenten sus fuentes.
+1. **Qorban de Pésaj y séder.** El 14 de Nisán es el día en que se debía sacrificar el cordero (#exodus_12_6); la comida es «esta noche» (#exodus_12_8), es decir, al volverse el día siguiente al ponerse el sol en la cuenta bíblica del día. La clase advierte que muchos se enredan en los evangelios al no separar el día del sacrificio del momento de comer. El hebreo local apoya **directamente** la distinción entre _shajat_ en el 14 y _akhal_ en esa noche. Las aplicaciones a la cronología de la pasión son **cualificadas** y exigen el estudio de los evangelios; no se resuelven solo con esta nota.
 
-Deuteronomio 16 amplía la memoria hacia la alegría y la generosidad. La fiesta no se reduce a conocer el día correcto: incluye ofrenda conforme a la bendición, alegría ante יהוה y participación del levita, extranjero, huérfano y viuda (#deuteronomy_16_9-17). **(שָׂמַח)**, _samach_, significa alegrarse o regocijarse; su fuerza contextual es una alegría pública que se comparte delante de יהוה. «Alegrarse» es directo; hacer de la emoción una prueba infalible de aprobación divina sería ilegítimo. El calendario examina también cómo la comunidad recibe al vulnerable.
+2. **Conteo del omer.** #leviticus_23_15-16 manda contar desde el día después del shabat siete shabatot completas hasta el día después del séptimo shabat, cincuenta días. Eric sostiene que lo más bíblico y lógico es esperar el shabat semanal y contar siete shabatot enteros, frente a un cómputo que empieza «después del shabat de la fiesta» y desplaza Shavuot. **(שבת)**, _shabbat_, significa cese o sábado; en 23:15-16 la repetición **שבע שבתות תמימת**, _sheva shabbatot temimot_, «siete shabatot completas», da fuerza a oír shabatot reales. Esa lectura es **textual y defendible**; la disputa histórica entre sistemas de conteo es antigua y la nota no finge que no exista otra lectura tradicional. Deuteronomio 16:9 habla de siete semanas desde la hoz en la mies: **(שבעה שבעת)**, _shiv‘ah shavu‘ot_, «siete semanas», glosa **directa** que mantiene el arco hasta _Jag Shavuot_.
 
-## De Shavuot a Hechos 2
+## Origen del cómputo fijo y la crítica a la soberbia
 
-Hechos 2 sitúa a los discípulos reunidos en el cumplimiento del día de las semanas (#acts_2_1-4). El texto no autoriza a borrar Levítico y Deuteronomio, ni a afirmar que toda costumbre posterior sea idéntica al acontecimiento apostólico. Sí muestra continuidad narrativa: una comunidad reunida recibe el Ruaj y habla según la capacidad concedida. **(πεντηκοστή)**, _pentēkostē_, significa quincuagésimo; en Hechos nombra la fiesta del quincuagésimo día. «Pentecostés» es una transliteración tradicional y «fiesta de las semanas» una explicación aproximada; el contexto del capítulo identifica la reunión y el derramamiento del Ruaj.
+Eric resume una historia: mientras hubo Sanedrín y emisarios, el mes podía declararse también en condiciones difíciles de visibilidad; en el siglo IV, bajo presión romana y desfinanciamiento, surge un sistema de cálculo anticipado. Menciona tablas cristianas de computación pascual como trasfondo de cálculos posteriores y la resistencia de sectores judíos —incluida la crítica caraíta— cuando el mes «empieza» sin luna visible. Estos datos son **históricos atribuibles a la clase** y deben marcarse **pendientes de verificar** en fuentes primarias; no se inventan aquí detalles talmúdicos no citados con precisión.
 
-**(πνεῦμα)**, _pneuma_, significa espíritu, viento o aliento; en Hechos 2:2-4 su fuerza contextual participa en el sonido semejante a un viento poderoso y en el llenamiento del Ruaj haKodesh. La relación pedagógica con **(רוּחַ)**, _ruaj_, «viento, aliento o espíritu», es aproximada, no una afirmación de que las formas sean intercambiables en todos sus usos. El hecho central es que el Ruaj capacita el testimonio; las aplicaciones sobre dones, señales o cronología deben ser evaluadas contra Hechos 2 y no contra expectativas privadas.
+La crítica moral de Eric es clara: si ya se tiene libertad, recursos y comunicación instantánea, apelar a la inercia o decir «no nos da la gana cambiarlo» le parece soberbia. Prefiere un sistema que busque ver la luna en Israel y no «amañe» días para que ciertas fiestas no caigan junto a shabatot dobles según tradiciones humanas (_lo adu rosh_ y reglas afines, según su exposición). **(מועד)**, _mo‘ed_, en #leviticus_23_4 debe proclamarse **במועדם**, _bemо‘adam_, «en su tiempo señalado». La fuerza contextual apoya la preocupación por el tiempo correcto; convertir esa preocupación en desprecio de personas que aún calculan de otro modo es lo que la propia clase rechaza a continuación.
+
+## No superioridad: precisión sin orgullo
+
+Eric advierte explícitamente que ni él ni los oyentes deben sentirse mejores que quienes siguen otro cómputo. Todos comparecerán ante el tribunal del Mesías. El cambio de calendario le tomó años de convicción; no quiere imitar al judío en todo para agradarle, ni usar el calendario como identidad de superioridad. Quiere testimonio del poder que hay en el creyente. Esa ética recibe **apoyo canónico cualificado**: #leviticus_23 define mo‘adim de יהוה, no un campeonato de precisión; Romanos y la enseñanza de Yehoshua corrigen la jactancia. La observación de Eric es **pastoral y atribuible**; no debe leerse como relativismo («da igual el día»), porque la misma clase insiste en corregir lo que considera incorrecto.
+
+## De las fiestas a Hechos 2
+
+#acts_2_1 sitúa a los discípulos reunidos al cumplirse el día de la _pentēkostē_. **(πεντηκοστή)**, _pentēkostē_, significa el quincuagésimo; nombra la fiesta en griego. La relación con #leviticus_23_16 («cincuenta días») es **textual y aproximada entre lenguas**. Hechos no borra el marco de las semanas ni convierte cada detalle del calendario 5783 en doctrina apostólica. **(πνεῦμα)**, _pneuma_, espíritu/viento/aliento, y su relación pedagógica con **(רוח)**, _ruaj_, describen el don que capacita el testimonio. La continuidad útil es: calendario → convocación → memoria → anuncio; no: calendario → predicción de todos los finales.
 
 ## Mapa de la enseñanza de Eric
 
-| Fuente y evidencia                     | Observación atribuible                                                                        | Evaluación frente a la Escritura                                                                                                 |
-| -------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| `youtube:Mv_H45lKGkQ`, título público  | Eric presenta una explicación del calendario hebreo 5783, correspondiente al ciclo 2022-2023. | Atribución exacta del título y del tema; no se reconstruyen argumentos que el transcript ausente no permite verificar.           |
-| #genesis_1_14 y #leviticus_23_1-4      | El tema del calendario invita a ordenar tiempos, días, años y convocaciones.                  | Apoyo textual cualificado: la Escritura establece orden y fiestas, pero no convierte cada calendario civil en autoridad bíblica. |
-| #exodus_12_1-14 y #deuteronomy_16_1-17 | La cuenta anual se relaciona con memoria de liberación, alegría y obediencia comunitaria.     | Apoyo textual: las fiestas recuerdan la obra de יהוה y ordenan la vida del pueblo; las aplicaciones modernas son pedagógicas.    |
-| #acts_2_1-4                            | El tiempo de las semanas ofrece un marco para la reunión y el don del Ruaj.                   | Apoyo canónico: Hechos narra el acontecimiento en ese marco, sin resolver todas las cuestiones cronológicas de otros años.       |
+| Unidad / evidencia              | Observación concreta de la clase                                                                         | Tratamiento en esta nota                                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Apertura 5783; tablas 2014–2023 | El calendario hebreo es luni-solar; hay años de ~354 y de ~384 días al insertar mes.                     | Se conserva como exposición astronómica-práctica; se ancla en #genesis_1_14 y en la Aviv de Éxodo/Deuteronomio. |
+| Duración de los meses           | Los meses no duran siempre igual; 29/30 alternan según el ciclo y el sistema.                            | Apoyo práctico de la clase; _jodesh_ bíblico se marca sin pretender idénticos algoritmos modernos.              |
+| Pésaj: 14 y la noche            | Distingue _qorban_ del 14 y séder/comida nocturna; advierte confusiones en la lectura de los evangelios. | Apoyo textual fuerte en #exodus_12_6-8; la pasión queda cualificada.                                            |
+| Omer y Shavuot                  | Prefiere contar siete shabatot semanales completas frente al inicio «después del shabat festivo».        | Apoyo textual defendible en #leviticus_23_15-16; se reconoce la disputa histórica.                              |
+| Rabínico vs. caraíta            | Critica ajustes por tradición (_lo adu_, etc.) y defiende mayor atención a la luna visible en Israel.    | Atribución clara; historia del siglo IV y páginas hebreas citadas quedan pendientes de verificación puntual.    |
+| Ética del cambio                | No superioridad; convicción lenta; no imitar para agradar; comparecencia ante el Mesías.                 | Se conserva como límite pastoral necesario del argumento técnico.                                               |
 
 ## Hoja léxica
 
-| Forma fuente               | Transliteración   | Sentido ordinario                     | Fuerza contextual                                              | Calificación                                                                   |
-| -------------------------- | ----------------- | ------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **(אוֹת)**                 | _ot_              | señal, marca, signo                   | Función de las lumbreras dentro del orden creado.              | Directa en Génesis 1:14; la lectura profética de cada señal sería inferencial. |
-| **(מוֹעֵד)**               | _moed_            | tiempo señalado, cita, estación       | Tiempo fijado que puede organizar una convocación.             | Directa como campo léxico; aplicar cada cálculo a 5783 es aproximado.          |
-| **(מִקְרָא־קֹדֶשׁ)**       | _miqra qodesh_    | convocación santa, reunión consagrada | Reunión apartada para las fiestas de יהוה.                     | Directa en Levítico 23; las formas modernas de reunión son pedagógicas.        |
-| **(זִכָּרוֹן)**            | _zikaron_         | memoria, memorial                     | La fiesta conserva la liberación en una práctica transmitida.  | Directa como concepto; reconstruir toda tradición posterior es aproximado.     |
-| **(שָׂמַח)**               | _samach_          | alegrarse, regocijarse                | Gozo comunitario delante de יהוה y con el vulnerable incluido. | Directa en Deuteronomio 16; la emoción no es una prueba automática.            |
-| **(πεντηκοστή)**           | _pentēkostē_      | quincuagésimo                         | Nombre griego de la fiesta en Hechos 2.                        | Directa en el contexto; «Pentecostés» es una transliteración pedagógica.       |
-| **(πνεῦμα)** / **(רוּחַ)** | _pneuma_ / _ruaj_ | espíritu, viento, aliento             | El Ruaj capacita el testimonio de la comunidad reunida.        | Aproximada entre lenguas y directa solo según el contexto de cada pasaje.      |
+| Forma fuente            | Transliteración               | Sentido ordinario             | Fuerza contextual                               | Calificación                                                          |
+| ----------------------- | ----------------------------- | ----------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- |
+| **(מועד)**              | _mo‘ed_                       | tiempo señalado, cita, fiesta | Convocaciones de יהוה en su tiempo.             | Directa; cada fecha civil de 5783 es aplicación aproximada.           |
+| **(מקרא קדש)**          | _miqra qodesh_                | convocación santa             | Reunión apartada en Levítico 23.                | Directa; forma moderna de reunión es pedagógica.                      |
+| **(חדש)**               | _jodesh_                      | luna nueva, mes               | Unidad básica del cómputo mensual.              | Directa; algoritmo de declaración es histórico.                       |
+| **(אביב)**              | _aviv_                        | espigas tiernas / primavera   | Mes de la liberación y del Pésaj.               | Directa en Deuteronomio 16:1.                                         |
+| **(שבת / שבתות תמימת)** | _shabbat / shabbatot temimot_ | cese; shabatot completas      | Base del conteo hacia el día cincuenta.         | Directa en el campo; identificación del “shabat” inicial es debatida. |
+| **(זכרון)**             | _zikaron_                     | memorial, memoria             | El día de la liberación se celebra y transmite. | Directa en #exodus_12_14.                                             |
+| **(πεντηκοστή)**        | _pentēkostē_                  | quincuagésimo                 | Nombre griego de la fiesta en Hechos 2.         | Directa en contexto; puente con los 50 días es aproximado.            |
+| **(πνεῦμα) / (רוח)**    | _pneuma_ / _ruaj_             | espíritu, viento, aliento     | Capacitación del testimonio en la convocación.  | Aproximada entre lenguas; contextual en cada pasaje.                  |
 
 ## Conclusión
 
-La explicación pública de Eric sobre el calendario hebreo 5783 puede conservarse como una invitación a estudiar los tiempos establecidos y su relación con la memoria. La Escritura local evita dos extremos: reducir las fiestas a fechas sin obediencia o convertir sus fechas en un mecanismo de predicción. El calendario bíblico reúne creación, convocación, liberación, alegría, cuidado del prójimo y testimonio del Ruaj. Esa es la fuerza canónica que puede afirmarse; las extensiones históricas y escatológicas permanecen cualificadas.
+La explicación de Eric del calendario 5783 puede conservarse como un llamado a tomar en serio los mo‘adim: observar el tiempo, no desplazar la Aviv, distinguir el sacrificio del banquete, contar hacia Shavuot con integridad y resistir tanto la inercia soberbia como el orgullo del «calendario correcto». Génesis 1, Éxodo 12, Levítico 23 y Deuteronomio 16 sostienen el esqueleto bíblico; Hechos 2 muestra una comunidad reunida en el quincuagésimo sin convertir el almanaque en fin en sí mismo. La precisión sirve a la memoria y a la convocación; no sustituye la fidelidad ni autoriza despreciar al hermano.
+
+## Pendiente de verificar
+
+- [ ] Documentar con fuentes primarias el relato del siglo IV sobre el cómputo fijo y las tablas que la clase menciona.
+- [ ] Cotejar la regla _lo adu rosh_ y sus motivaciones en literatura halájica trazable, sin depender solo de la paráfrasis oral.
+- [ ] Publicar, si se desea, una tabla verificada 5783 aparte de esta nota canónica, sin mezclar almanaque y exégesis.
 
 ## Ver también
 
-- [[shavuot_convocacion_primicias_y_promesa|Shavu’ot: convocación, primicias y promesa]]
+- [[purim_pueblo_uno_memoria_y_responsabilidad|Purim: pueblo uno, memoria y responsabilidad]]
 - [[sukot_habitar_gozo_y_memoria|Sukot: habitar, gozo y memoria]]
+- [[calendario_luna_moadim_discernimiento_local|Calendario, luna, mo‘adim y discernimiento local]]
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Explicando el calendario Hebreo 5783 - 2022-2023](https://www.youtube.com/watch?v=Mv_H45lKGkQ) (`source_id`: `youtube:Mv_H45lKGkQ`).
-- Esta nota conserva solo el alcance público verificable de la fuente y no presenta una transcripción automática como cita literal.
+- Video: [Explicando el calendario Hebreo 5783 - 2022-2023](https://www.youtube.com/watch?v=Mv_H45lKGkQ) (`source_id`: `youtube:Mv_H45lKGkQ`).
+- Esta nota organiza y contrasta la exposición con el texto local; no presenta la transcripción automática como cita literal.

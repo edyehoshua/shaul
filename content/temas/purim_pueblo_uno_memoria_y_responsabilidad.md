@@ -1,25 +1,40 @@
 ---
 title: "Purim: pueblo uno, memoria y responsabilidad"
-description: "Estudio canónico de Purim sobre la inversión del decreto, la memoria comunitaria y el cuidado de los pobres."
+description: "Estudio canónico de Purim según la clase de Eric sobre ‘am ’ejad: Ester 3–10, el cerco de la Torah y el evangelio, la inversión del decreto y el cuidado de los pobres."
 date: 2026-07-29
 tags:
   - purim
   - ester
+  - am-ejad
   - memoria
   - comunidad
   - misericordia
 references:
-  - "#esther_2_5"
-  - "#esther_2_7"
-  - "#esther_3_7"
-  - "#esther_8_8"
-  - "#esther_9_16"
-  - "#esther_9_22"
-  - "#esther_9_26"
+  - "#esther_1_1"
+  - "#esther_2_5-7"
+  - "#esther_3_7-13"
+  - "#esther_4_13-16"
+  - "#esther_7_3-6"
+  - "#esther_8_8-17"
+  - "#esther_9_5-22"
+  - "#esther_9_26-28"
   - "#esther_10_3"
+  - "#psalms_80_9-14"
+  - "#psalms_83_1-8"
+  - "#zechariah_2_9"
 sources:
   - "https://www.youtube.com/watch?v=0jssylSPp4g"
-  - "docs/scriptures/oe/json/raw/esther.json"
+  - "docs/scriptures/oe/json/esther/1.json"
+  - "docs/scriptures/oe/json/esther/2.json"
+  - "docs/scriptures/oe/json/esther/3.json"
+  - "docs/scriptures/oe/json/esther/4.json"
+  - "docs/scriptures/oe/json/esther/7.json"
+  - "docs/scriptures/oe/json/esther/8.json"
+  - "docs/scriptures/oe/json/esther/9.json"
+  - "docs/scriptures/oe/json/esther/10.json"
+  - "docs/scriptures/oe/json/psalms/80.json"
+  - "docs/scriptures/oe/json/psalms/83.json"
+  - "docs/scriptures/oe/json/zechariah/2.json"
 source_ids:
   - "youtube:0jssylSPp4g"
 translation: "[OE]"
@@ -27,68 +42,110 @@ translation: "[OE]"
 
 # Tesis
 
-La fuente pública de Eric de Jesús Rodríguez Mendoza anuncia Purim como una fiesta de «Am 'ejad», pueblo uno. Ester permite evaluar ese énfasis sin convertirlo en una consigna abstracta: la amenaza contra los judíos es enfrentada mediante una defensa legal de la vida, la inversión del plan de Amán, el descanso, la alegría compartida y la ayuda a los pobres. La memoria une a la comunidad cuando recuerda la preservación y produce responsabilidad hacia el prójimo.
+Purim no es solo un recuerdo festivo de un peligro superado. En la clase pública _Jag Purim - La fiesta de Purim - 'Am 'ejad, pueblo que es uno!_ (`youtube:0jssylSPp4g`), Eric de Jesús Rodríguez Mendoza lee Ester a partir de la frase hebrea **ישנו עם אחד**, _yeshno ‘am ’ejad_: «hay un pueblo uno». Ese «uno» no es una consigna sentimental; la clase lo interpreta como pueblo cerrado, con cerco, sin brechas que permitan meter en el culto a Elohim las costumbres de los pueblos. Ester 3–10 muestra la amenaza de Amán, la intercesión de Ester, la imposibilidad de revocar un edicto sellado y la defensa legal que termina en descanso, banquete, envío de porciones y dones a los pobres. La memoria une cuando produce responsabilidad hacia el prójimo y vigilancia del cerco; no autoriza odio étnico ni saqueo.
 
-## Alcance y evidencia pública
+## Alcance de la nota
 
-El título visible de `youtube:0jssylSPp4g` permite atribuir a Eric el foco de Purim y de un pueblo unido. No hay aquí transcript local que autorice citas literales o una reconstrucción detallada de la clase; por eso la atribución se limita al título, la URL pública y su tema anunciado. El libro de Ester gobierna la evaluación. Las aplicaciones históricas o contemporáneas que excedan las perícopas quedan cualificadas, no se presentan como afirmaciones directas de Eric.
+Esta nota desarrolla la fuente pública `youtube:0jssylSPp4g`. La exposición se conserva en prosa atribuible a partir de la transcripción automática; no se presenta como cita literal revisada. Se sigue el orden principal de la clase y del libro: identidad del pueblo del libro, lectura de Ester 3:8, imagen de _’ejad_ y del vallado, marco histórico en Shushán, el _pur_ de Amán, la intercesión de Ester, el edicto de defensa, la guerra del 13 de Adar y la institución de los días de Purim. La evaluación procede del hebreo local de Ester y de los salmos y de Zacarías que la clase invoca. Las aplicaciones contemporáneas se marcan como **pedagógicas**, **aproximadas** o **cualificadas**.
 
 ## Hoja de comparación
 
-| Referencia      | Movimiento del texto                                                              | Evaluación del foco público                                                                     |
-| --------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| #esther_2_5-7   | Mardoqueo cría a Hadassah, llamada Ester en la corte.                             | La unidad del pueblo no exige borrar la identidad ni la complejidad de vivir bajo otro imperio. |
-| #esther_3_7-13  | Amán echa suertes y obtiene un decreto contra los judíos.                         | El sorteo explica el nombre de Purim y el plan enemigo; no es autoridad por encima de Elohim.   |
-| #esther_8_8-17  | Un nuevo decreto permite defender la vida y la tristeza se transforma en alegría. | La reversión es legal y comunitaria; no convierte toda violencia narrada en modelo moderno.     |
-| #esther_9_16-28 | Hay defensa, descanso, banquete, envío de porciones y dones a los pobres.         | La fiesta transforma la memoria en solidaridad concreta.                                        |
-| #esther_10_3    | Mardoqueo procura el bien de su pueblo y habla paz.                               | El liderazgo se mide por el bien común, no por la exaltación personal.                          |
+| Referencia     | Hebreo local OE (sin nikud)                                                                                             | Función en la clase y en la nota                                                                |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| #esther_3_8    | **ויאמר המן למלך אחשורוש ישנו עם אחד מפזר ומפרד בין העמים בכל מדינות מלכותך ודתיהם שנות מכל עם ואת דתי המלך אינם עשים** | Amán acusa a un pueblo «uno» con leyes distintas; Eric hace de _‘am ’ejad_ el eje de la fiesta. |
+| #esther_3_7    | **בחדש הראשון הוא חדש ניסן ... הפיל פור הוא הגורל לפני המן ... שנים עשר הוא חדש אדר**                                   | El _pur_ fija el nombre de Purim y la fecha de Adar.                                            |
+| #esther_4_14   | **כי אם החרש תחרישי בעת הזאת רוח והצלה יעמוד ליהודים ממקום אחר ... ומי יודע אם לעת כזאת הגעת למלכות**                   | Mardoqueo exige no callar; la liberación no justifica egoísmo de corte.                         |
+| #esther_7_3-4  | **ותען אסתר המלכה ותאמר אם מצאתי חן בעיניך המלך ... תנתן לי נפשי בשאלתי ועמי בבקשתי**                                   | Ester pide su vida y la de su pueblo; Eric ve aquí conciencia de _‘am ’ejad_.                   |
+| #esther_8_11   | **אשר נתן המלך ליהודים ... להקהל ולעמד על נפשם**                                                                        | El edicto no borra el anterior: autoriza reunirse y defender la vida.                           |
+| #esther_9_16   | **ושאר היהודים ... נקהלו ועמד על נפשם ונוח מאיביהם ... ובבזה לא שלחו את ידם**                                           | Defensa y descanso; no extienden la mano al botín.                                              |
+| #esther_9_22   | **כימים אשר נחו בהם היהודים מאויביהם והחדש אשר נהפך להם מיגון לשמחה ... ומשלוח מנות איש לרעהו ומתנות לאביונים**         | La memoria se vuelve banquete, porciones y dones a pobres.                                      |
+| #esther_10_3   | **כי מרדכי היהודי ... דרש טוב לעמו ודבר שלום לכל זרעו**                                                                 | El liderazgo se mide por el bien del pueblo y la paz.                                           |
+| #psalms_80_13  | **למה פרצת גדריה וארוה כל עברי דרך**                                                                                    | La viña sin vallado queda expuesta; imagen del cerco roto.                                      |
+| #psalms_83_5   | **אמרו לכו ונכחידם מגוי ולא יזכר שם ישראל עוד**                                                                         | El consejo enemigo apunta a borrar la memoria del nombre de Israel.                             |
+| #zechariah_2_9 | **ואני אהיה לה נאם יהוה חומת אש סביב ולכבוד אהיה בתוכה**                                                                | יהוה mismo como muro de fuego alrededor de Jerusalén.                                           |
 
-## Hadassah, Ester y un pueblo bajo presión
+## Pueblo del libro y cerco de _’ejad_
 
-La narración distingue a Hadassah y Ester sin presentar esa doble denominación como traición. #esther_2_5-7 registra el nombre familiar y el nombre usado en el ambiente persa; #esther_2_20 conserva también la obediencia de Ester a Mardoqueo. La unidad de «Am 'ejad» debe reconocer esa historia concreta: una comunidad puede conservar su pertenencia aun cuando vive bajo estructuras y nombres de otro imperio.
+La clase abre situando a los oyentes como pueblo del libro: no «hacerse judíos» por imitación cultural, sino gente santa llegada de cualquier origen a adorar al Dios de Israel dejando costumbres anteriores. Eric insiste en que Elohim es celoso y no se complace en compartir a su pueblo con otros cultos. Invoca el testimonio de Ya‘aqov/Santiago sobre no hacerse amigo del mundo, y aplica esa amistad a participar de fechas que no salen de la Escritura. Esa aplicación es **pastoral y pedagógica**: el texto de Ester no enumera Navidad ni carnaval; la clase usa el contraste para explicar qué significa un pueblo con vallado.
 
-**הֲדַסָּה**, _Hadassah_, significa mirto o la del mirto. En el relato es un nombre propio; decir que el mirto codifica por sí solo toda la misión de Ester sería una lectura **pedagógica**, no una afirmación exacta del texto. **אֶסְתֵּר**, _Ester_, es el nombre con el que ella aparece en la corte; el pasaje registra su uso, pero no entrega allí una etimología completa. La observación atribuible queda, por tanto, en el nivel público del título: identidad comunitaria bajo presión, no una teoría cerrada de nombres.
+El eje léxico aparece en #esther_3_8. **(עם)**, _‘am_, significa pueblo o nación; **(אחד)**, _’ejad_, significa uno, unido o un solo. La frase **ישנו עם אחד**, _yeshno ‘am ’ejad_, es el anuncio de Amán: existe un pueblo uno, esparcido y separado, con leyes distintas. «Pueblo uno» es glosa **directa** del hebreo; la lectura de Eric —pueblo cerrado, sin brechas— es **contextual y pedagógica**: proyecta sobre _’ejad_ la imagen de un cerco compacto. No es una etimología que demuestre por sí sola toda la teología de la unidad.
 
-## Pur, decreto e inversión
+Para ilustrar _’ejad_, la clase compara tres «unos»: יהוה es _’ejad_; el tabernáculo debía ser uno porque sus cortinas se unían; el pueblo es _’ejad_ cuando no deja huecos. **(אחד)**, _’ejad_, en el Shemá y en la teología del Nombre nombra la unicidad de יהוה; trasladar esa unicidad al pueblo es **analogía pedagógica**, no identidad de sujetos. El vallado de la comunidad, dice Eric, es la Torah y el evangelio: todo lo que llega a ojos y oídos debe filtrarse por ese cerco. Esa síntesis es **atribuible a la clase** y **cualificada** frente a Ester: el libro habla de leyes distintas y de no postrarse ante Amán, no formula todavía la expresión «Torah y evangelio».
 
-#esther_3_7-13 presenta el sorteo de Amán y el decreto de destrucción. Luego #esther_8_8-17 muestra la respuesta: el decreto anterior no se borra simplemente, sino que se autoriza a los judíos a reunirse y defender sus vidas. La inversión de la historia no debe confundirse con una fórmula de retribución automática para cada sufrimiento. Ester narra providencia y responsabilidad humana dentro de una situación política específica.
+## Salmo 80, Salmo 83 y el muro de fuego
 
-**פּוּר**, _pur_, significa suerte o sorteo. Su fuerza contextual explica el nombre de Purim y la fecha elegida por Amán; «destino» es **aproximado**, porque el sustantivo no enseña que el azar gobierne la historia. **פּוּרִים**, _purim_, significa suertes y funciona como el nombre de la celebración; es **directo** como denominación, pero resumir con él todo el libro es **pedagógico**. **הָפַךְ**, _hafakh_, significa volver, cambiar o invertir; como término de lectura describe la reversión narrativa, pero no prueba que toda desgracia individual vaya a invertirse de la misma manera.
+Eric lee #psalms_80_9-14: la viña sacada de Egipto llena la tierra, pero cuando se rompen sus vallados cualquiera que pasa la vendimia y la bestia del campo la devora. **(גדר)**, _gader_, significa vallado, seto o cerca; en 80:13 la pregunta «¿por qué rompiste sus vallados?» describe exposición. «Vallado» es **directo**; usarlo como definición exhaustiva de la Torah es **pedagógico**. La clase conecta el hueco del cerco con la entrada de lo extraño en el culto.
 
-La defensa descrita en Ester 8–9 tampoco autoriza a borrar la dureza del relato. El texto dice que los judíos se reunieron para defender su vida y que no tomaron los bienes de sus enemigos (#esther_9_16). Esa limitación apoya una memoria responsable: celebrar la preservación no es convertir el odio étnico o el saqueo en virtud.
+Luego lee #psalms_83_1-8: enemigos que consultan para destruir al pueblo y borrar la memoria del nombre de Israel. **(זכר)**, _zakar_, significa recordar; la forma **יזכר**, _yizakher_, en 83:5 niega que el nombre de Israel vuelva a ser recordado. La observación de Eric de que el conflicto apunta a la memoria recibe **apoyo textual**. Las identificaciones modernas de Edom, Ismael, Tiro o Agar con entidades políticas actuales son **aproximadas e históricas**; el salmo nombra pueblos de su horizonte y no entrega un mapa geopolítico automático del siglo XXI.
 
-## Memoria que se vuelve cuidado
+La clase busca además la promesa de un muro de fuego y la localiza en #zechariah_2_9: «yo seré para ella… muro de fuego alrededor, y para gloria estaré en medio de ella». **(חומת אש)**, _jomat ’esh_, significa muro o muralla de fuego. La glosa es **directa**; la aplicación a la identidad del pueblo en Purim es **pedagógica**: יהוה mismo aparece como cerco, no solo una disciplina humana.
 
-La alegría de Purim no queda en una experiencia privada. #esther_9_22 manda enviar porciones al vecino y dar dones a los pobres; #esther_9_26-28 convierte la memoria en una práctica transmitida por generaciones. La unidad anunciada por la fuente recibe aquí apoyo **textual y cualificado**: el pueblo recuerda junto, come junto y comparte, pero el texto no autoriza a exigir uniformidad cultural ni a apropiarse de la historia de otro pueblo.
+## Shushán, Amán y el _pur_
 
-**זָכַר**, _zakar_, significa recordar o traer a la memoria. Su fuerza contextual en la institución de Purim es activa: recordar significa hacer que los días sean conocidos y observados, no solo conservar un dato. «Memoria» es una glosa **directa**, mientras afirmar que cada forma moderna de celebración reproduce exactamente el mandato es **aproximado**. **מִשְׁלוֹחַ מָנוֹת**, _mishloaḥ manot_, significa envío de porciones o raciones; en #esther_9_22 designa reciprocidad festiva concreta. «Comunión» es una síntesis **pedagógica**, no la traducción exacta del compuesto. **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres; la glosa es **directa** y el cuidado social pertenece al texto, no a una aplicación inventada.
+Eric sitúa la escena hacia el 483 a. C., con judíos aún en las 127 provincias del imperio medo-persa aunque el segundo Templo ya había sido inaugurado. #esther_1_1 sostiene el marco: Ajasuero reina desde la India hasta Kush sobre 127 provincias. Las fechas absolutas de la clase son **históricas aproximadas**; el texto da el escenario imperial, no un reloj moderno completo.
+
+El conflicto arranca cuando Amán exige postración y Mardoqueo no se postra (#esther_3). Eric subraya que Amán es de linaje agagueo/amalecita y que tira _pur_, suerte, como sortilegio. #esther_3_7: **הפיל פור הוא הגורל**, _hipil pur hu hagoral_, «echó pur, esto es, la suerte». **(פור)**, _pur_, es la suerte; el narrador lo glosa con **(גורל)**, _goral_. «Suerte» es **directa**; llamar al acto «brujería» o «zodiaco» es la **paráfrasis de la clase**, útil para oír el contraste con Proverbios —la suerte se echa, pero de יהוה es el juicio—, no una palabra que Ester imprima sobre el zodíaco griego. La fecha cae en Adar; la clase celebra que un 14 de Adar marca la memoria de lo que habría sido destrucción y se volvió preservación.
+
+## Ester 4–7: no callar y no pensar solo en sí
+
+La clase lee el clímax de #esther_4_13-16. Mardoqueo advierte que el silencio en la casa del rey no salva, y lanza la pregunta: «¿quién sabe si para un tiempo como este has llegado al reino?». **(עת)**, _‘et_, significa tiempo u ocasión; aquí la fuerza es la coyuntura decisiva. Ester responde con ayuno de tres días y con la disposición a entrar aunque no sea conforme a la ley. Eric corrige la práctica que coloca el ayuno de Ester automáticamente en el 13 de Adar: según su lectura del relato, el ayuno de Ester 4 cae en otra fecha del ciclo narrativo. Esa corrección cronológica es **inferencial y cualificada**; conviene verificarla con el conjunto de fechas del libro, y no se presenta aquí como dogma.
+
+En los banquetes, Ester no pide la mitad del reino para sí. Pide **נפשי** y **עמי**, su vida y su pueblo (#esther_7_3-4). Eric insiste: tenía en la mano la oferta de riqueza y eligió conciencia de _‘am ’ejad_. Señala a Amán como adversario y el mal tramado se vuelve sobre él. La observación recibe **apoyo textual fuerte** en la petición de Ester; la aplicación a no competir dentro del pueblo ni imitar jefes de este mundo es **pedagógica**, y la clase la une a seguir a Yehoshua como único modelo.
+
+## Edicto irrevocable, defensa y límite del botín
+
+#esther_8 subraya un principio jurídico: un edicto escrito en nombre del rey y sellado con su anillo no se revoca. El rey no anula el decreto de Amán; autoriza a los judíos a reunirse y estar en pie por sus vidas (#esther_8_11). **(קהל)**, _qahal_, en la forma **להקהל**, _lehiqahel_, significa reunirse como asamblea; **(עמד על נפש)**, _‘amad ‘al nefesh_, significa estar en pie por la vida. Las glosas son **directas**. Eric nota los meses de aviso entre Siván y Adar: hubo tiempo para no pelear, y aun así muchos atacaron. Esa lectura del intervalo es **contextual**; el texto da las fechas de escritura y de ejecución.
+
+En #esther_9_5-16 los judíos prevalecen. La clase destaca que, aunque el edicto hablaba de bienes, el narrador repite que **ובבזה לא שלחו את ידם**, «y al botín no extendieron su mano» (#esther_9_16). La memoria de Purim no debe celebrar codicia. «No tocaron el botín» es **directo**; convertir la guerra de Ester 9 en plantilla de toda política moderna sería **ilegítimo**.
+
+## Memoria que se vuelve porciones y pobres
+
+#esther_9_20-28 instituye los días 14 y 15 de Adar como banquete y alegría, envío de porciones cada uno a su compañero y dones a los pobres. **(משלוח מנות)**, _mishloaḥ manot_, significa envío de porciones o raciones; **(מתנות לאביונים)**, _mattanot la’evyonim_, significa regalos para los pobres. Ambas glosas son **directas**. **(הפך)**, _hafakh_, en #esther_9_22 describe el mes vuelto de duelo en bien: «invertir» es **directo** en el campo narrativo, pero no prueba que toda desgracia individual se invierta igual.
+
+**(פורים)**, _purim_, toma nombre del _pur_ (#esther_9_26). La fiesta recuerda la suerte enemiga sin someterse a ella. #esther_10_3 cierra con Mardoqueo buscando el bien de su pueblo y hablando paz a toda su descendencia. **(טוב)**, _tov_, y **(שלום)**, _shalom_, son **directos** como bien y paz/bienestar; reducir _shalom_ a mera ausencia de conflicto sería **aproximado**.
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad                                                | Observación atribuible por la fuente pública                                  | Evaluación frente a Ester                                                                                                             |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| #esther_2_5-20; `youtube:0jssylSPp4g`                 | El título «pueblo uno» dirige la atención a identidad y pertenencia en Purim. | Apoyo **cualificado**: Hadassah y Ester pertenecen a la misma historia, pero el texto conserva la tensión de vivir bajo otro imperio. |
-| #esther_3_7-13; #esther_8_8-17; `youtube:0jssylSPp4g` | Purim recuerda una amenaza que fue invertida.                                 | Apoyo **textual** para el sorteo, el decreto y la reversión; aplicación a conflictos modernos es **aproximada**.                      |
-| #esther_9_16-28; `youtube:0jssylSPp4g`                | La fiesta reúne al pueblo en alegría y memoria.                               | Apoyo **directo y cualificado**: defensa, descanso, porciones y ayuda a los pobres forman parte de la memoria.                        |
-| #esther_10_3; `youtube:0jssylSPp4g`                   | La unidad debe producir cuidado y bien común.                                 | Apoyo **canónico**: Mardoqueo es evaluado por procurar el bien y hablar paz; la extensión a cada comunidad actual es **pedagógica**.  |
+| Unidad textual                         | Observación concreta de la clase                                                                                          | Tratamiento en esta nota                                                                                                      |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Apertura; #esther_3_8                  | Lee **ישנו עם אחד** como pueblo uno/cerrado; el vallado es Torah y evangelio; compara _’ejad_ con tabernáculo y con יהוה. | Apoyo textual en la frase hebrea; la imagen del cerco y el filtro Torah-evangelio se marcan como pedagógicos y cualificados.  |
+| #psalms_80; #psalms_83; #zechariah_2_9 | El hueco del vallado expone la viña; el consejo enemigo busca borrar la memoria de Israel; יהוה es muro de fuego.         | Apoyo textual en los pasajes citados; mapeos geopolíticos modernos quedan aproximados.                                        |
+| #esther_3_7-13                         | Amán echa _pur_ como sortilegio; la fecha cae en Adar; hay un segundo gran intento de borrar la simiente tras Faraón.     | Apoyo textual al _pur_ y a Adar; «sortilegio/zodiaco» y tipología del genocidio son paráfrasis evaluadas, no citas literales. |
+| #esther_4_13-7_10                      | Ester no pide la mitad del reino; pide su vida y su pueblo; el mal de Amán se revierte.                                   | Apoyo textual fuerte; la cronología exacta del ayuno se marca como inferencial.                                               |
+| #esther_8_8-9_28                       | El edicto no se revoca: se autoriza la defensa; no toman el botín; instituyen banquete, porciones y dones a pobres.       | Apoyo textual directo; la aplicación a conflictos presentes es pedagógica y limitada.                                         |
+| Cierre pastoral                        | Ser _‘am ’ejad_ implica no competir, restaurar con mansedumbre y filtrar la vida por el cerco.                            | Cualificado: se conserva como ética de la clase, contrastada con Ester 9–10 y no convertida en ley nueva.                     |
 
-## Control de términos y aplicaciones
+## Hoja léxica
 
-La unidad de Purim no es superioridad. **טוֹב**, _tov_, significa bueno, beneficioso o favorable; en #esther_10_3 califica el bien que Mardoqueo procura a su pueblo. «Bien» es **directo** como sentido ordinario y **contextual** como criterio de liderazgo. **שָׁלוֹם**, _shalom_, significa paz, integridad o bienestar; en el cierre de Ester «paz» es **directa**, pero reducirla a ausencia total de conflicto sería **aproximado**.
-
-La fuente permite conservar un llamado a recordar juntos, pero la Escritura corrige tres excesos. Primero, «pueblo uno» no significa borrar nombres, historias o diferencias. Segundo, la inversión del decreto no convierte toda violencia en justicia transferible a otro contexto. Tercero, el gozo se prueba mediante porciones y dones a pobres, no mediante consumo aislado. Estas conclusiones reciben **apoyo textual cualificado**: surgen del orden de Ester y evalúan el foco anunciado, pero no se presentan como una transcripción de la clase.
+| Forma fuente         | Transliteración       | Sentido ordinario           | Fuerza contextual                               | Calificación                                      |
+| -------------------- | --------------------- | --------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| **(עם אחד)**         | _‘am ’ejad_           | pueblo uno / un solo pueblo | Acusación de Amán y eje del título de la clase. | Directa; «cerrado/impenetrable» es pedagógico.    |
+| **(פור / פורים)**    | _pur / purim_         | suerte / suertes            | Nombre de la fiesta tomado del sorteo de Amán.  | Directa.                                          |
+| **(גורל)**           | _goral_               | suerte, lote                | Glosa narrativa de _pur_ en 3:7.                | Directa.                                          |
+| **(הפך)**            | _hafakh_              | volver, invertir, cambiar   | El mes pasado de duelo a alegría.               | Directa; universalizar la inversión es ilegítimo. |
+| **(משלוח מנות)**     | _mishloaḥ manot_      | envío de porciones          | Reciprocidad festiva en 9:22.                   | Directa.                                          |
+| **(מתנות לאביונים)** | _mattanot la’evyonim_ | dones a los pobres          | Cuidado social unido a la memoria.              | Directa.                                          |
+| **(גדר)**            | _gader_               | vallado, cerca              | Imagen de exposición en Salmo 80.               | Directa; = Torah/evangelio es pedagógico.         |
+| **(חומת אש)**        | _jomat ’esh_          | muro de fuego               | Protección de יהוה en Zacarías 2:9.             | Directa.                                          |
+| **(דרש טוב)**        | _darash tov_          | buscar / procurar el bien   | Criterio del liderazgo de Mardoqueo.            | Directa y contextual.                             |
 
 ## Conclusión
 
-Purim recuerda que el plan de destrucción no tuvo la última palabra, pero la memoria bíblica no termina en triunfo privado. Hadassah y Ester muestran identidad bajo presión; el sorteo de Amán da nombre a la fiesta sin gobernar la historia; la reversión protege la vida dentro de una situación persa concreta; y el gozo se convierte en comida compartida y ayuda a los pobres. La unidad anunciada por Eric queda mejor evaluada cuando se vuelve memoria responsable, cuidado del prójimo y búsqueda del bien común.
+La clase de Eric acierta al no dejar Purim en una fiesta de consumo privado. Ester 3:8 nombra un _‘am ’ejad_ cuyas leyes no se disuelven en las del imperio; la narración muestra amenaza, silencio tentador, intercesión costosa, edicto de defensa, límite del botín y memoria que alimenta al compañero y al pobre. El «pueblo uno» queda bien oído cuando significa cerco fiel y solidaridad concreta, y queda mal oído cuando se vuelve superioridad, odio o justificación de cualquier violencia. La Escritura local sostiene la memoria; las aplicaciones pastorales de la clase se reciben con gratitud y con calificación.
 
 ## Pendiente de verificar
 
-- [ ] Recuperar, si llega a estar disponible, el transcript de `youtube:0jssylSPp4g` para distinguir observaciones adicionales de Eric más allá del título público.
-- [ ] Cotejar las prácticas históricas posteriores de Purim con fuentes trazables sin presentarlas como contenido de Ester 9.
+- [ ] Contrastar la cronología exacta del ayuno de Ester 4 que propone la clase con un esquema completo de fechas internas del libro.
+- [ ] Separar con más detalle, en nota histórica aparte, las lecturas posteriores de Purim de lo que Ester 9 manda explícitamente.
+
+## Ver también
+
+- [[purim_2018_pregunta_memoria_y_responsabilidad|Purim 2018: pregunta, memoria y responsabilidad]]
+- [[purim_hadassah_misericordia_y_memoria|Purim: Hadassah, misericordia y memoria]]
+- [[calendario_hebreo_5783_tiempos_memoria_y_santidad|Calendario hebreo 5783: tiempos, memoria y santidad]]
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video: [Jag Purim - La fiesta de Purim - 'Am 'ejad, pueblo que es uno!](https://www.youtube.com/watch?v=0jssylSPp4g) (`source_id`: `youtube:0jssylSPp4g`).
-- Esta nota conserva el foco público y lo contrasta con Ester; no presenta un transcript automático como cita literal.
+- Esta nota organiza y contrasta la exposición con el texto local; no presenta la transcripción automática como cita literal.
