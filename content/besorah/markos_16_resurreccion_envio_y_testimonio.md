@@ -237,6 +237,12 @@ El título público de Eric cuestiona llamar al domingo «el día del Señor», 
 
 La narración desplaza enseguida el peso hacia evidencia y comisión. **ἴδετε**, _idete_, «miren», orienta al lugar; **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta el sepulcro abierto; y **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», transforma la comprobación en responsabilidad. Más tarde, **κηρύξατε**, _kēryxate_, «proclamen», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», cierran la cadena con palabra anunciada y confirmada. Por eso la observación calendárica atribuible queda preservada, pero el texto local prueba que la autoridad del cierre descansa en resurrección, testigos, envío y confirmación, no en nombrar el primer día.
 
+## Pendiente de verificar: calendario y transmisión del cierre
+
+- [ ] Recuperar una transcripción o una fuente pública equivalente para documentar el argumento completo de Eric sobre domingo y «día del Señor»; el título solo permite atribuir la pregunta, no reconstruir la exposición.
+- [ ] Cotejar Marcos 16:9-20 con una edición crítica y registrar sus testigos antes de formular una conclusión sobre la historia textual del final largo.
+- [ ] Comparar los pasajes del Nuevo Testamento que usan «día del Señor» antes de extender la observación de Marcos 16 a una doctrina calendárica general.
+
 ## Conclusión
 
 La secuencia de Marcos 16 debe conservarse completa: después del Shabat, las mujeres encuentran el sepulcro abierto; reciben el anuncio de que Yehoshua fue levantado y que va delante de sus discípulos; los testigos enfrentan incredulidad y corrección; y la comunidad es enviada a proclamar la buena noticia. El primer día de la semana ubica la visita, pero el capítulo no lo llama «día del Señor» ni lo presenta como la fuente de autoridad de la misión. La observación pública de Eric queda documentada como una pregunta calendárica concreta, mientras el texto local prueba que el cierre descansa en resurrección, testimonio, obediencia y palabra confirmada por יהוה.

@@ -507,6 +507,12 @@ Eric también discute **(מָשִׁיחַ נָגִיד)**, _mashiaj nagid_, y re
 
 El control canónico decisivo permanece en Marcos 13. La **(βδέλυγμα)**, _bdelygma_, «cosa abominable o profanadora», conduce a huir; **(ἐπισυνάξει)**, _episynaxei_, «reunirá», describe la acción del Hijo del Hombre; y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», cierra el discurso como imperativo presente. TTH omite «ni el Hijo» en 13:32 y Delitzsch conserva **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo»; la variante debe permanecer visible. En ambos testigos el efecto narrativo es el mismo: nadie recibe la hora para calcularla. La observación de Eric sobre el cumplimiento histórico puede discutirse con Daniel, Marcos y Lucas, pero la palabra final del capítulo no es una fecha: es vigilancia perseverante.
 
+## Pendiente de verificar: fuentes históricas y formas inciertas
+
+- [ ] Localizar la edición y el pasaje exacto de los comentarios de Ibn Ezra y del Gaón de Vilna mencionados por Eric; hasta entonces, la coincidencia rabínica permanece como afirmación atribuible, no como evidencia independiente.
+- [ ] Cotejar la identificación histórica de Yosef ben Gurión, David Gans y las fechas 66–70/73 antes de presentar la cronología como conclusión demostrada.
+- [ ] Revisar la etimología de Getsemaní y la lectura de **(תפלה)**, _tefilah_, como comparecencia judicial; Marcos 13 prueba la vigilancia, no esas derivaciones externas.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
