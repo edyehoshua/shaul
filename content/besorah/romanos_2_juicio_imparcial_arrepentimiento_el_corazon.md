@@ -76,6 +76,16 @@ En los vv. 25-29, **(περιτομή)**, _peritomē_, significa circuncisión o
 
 La sesión sobre elección y predestinación puede ayudar a resistir el fatalismo, pero Romanos 2 enfatiza responsabilidad, juicio y respuesta; no desarrolla por sí solo una doctrina exhaustiva de elección. **(ἔπαινος)**, _epainos_, significa alabanza, aprobación o reconocimiento. En el v. 29 la alabanza que cuenta procede de Elohim, no de la reputación humana.
 
+## Desarrollo integrado: del retorno a la identidad probada
+
+El movimiento del capítulo es deliberado. Romanos 2:4 no presenta la bondad como una propiedad abstracta, sino como una conducción hacia el retorno: «¿ignoras que su bondad te guía a teshuvá?». En el texto local, **(ἄγω)**, _agō_, significa llevar o conducir, y **(μετάνοια)**, _metanoia_, cambio de mente o arrepentimiento. La relación entre _metanoia_ y **תשובה**, _teshuvá_, retorno, es **pedagógica y aproximada**; la imagen ayuda a conservar la dirección moral, pero no permite afirmar que las dos palabras tengan exactamente la misma historia semántica. La clase de Eric puede conservarse así: la demora del juicio llama a responder, no autoriza a presumir.
+
+En 2:6-11, «a cada uno conforme a sus obras» debe leerse junto con la ausencia de favoritismo y no aislarse como una fórmula de autosalvación. **(ἔργον)**, _ergon_, significa obra, acción o tarea; su fuerza **directa** aquí es la conducta que queda expuesta al juicio. El capítulo no resuelve todavía cómo se relacionan obras, gracia y la justicia que Pablo desarrollará en 3:21-31. Sí establece que la pertenencia nominal no sustituye la respuesta. La prioridad «al judío primeramente» mantiene el orden histórico del argumento y no convierte el juicio en una competencia de méritos étnicos.
+
+La secuencia de 2:17-29 prueba la identidad mediante la enseñanza que se practica. El texto local resume la acusación con preguntas: quien enseña a otro debe enseñarse a sí mismo; quien se gloria en la Torah debe honrar a Elohim con sus actos. **(καυχάομαι)**, _kauchaomai_, significa gloriarse o jactarse; en este contexto su fuerza es la confianza indebida en una ventaja que no produce obediencia. «Gloriarse» es **directo**, pero convertirlo en una prohibición de toda gratitud por los dones de Israel sería una inferencia ilegítima frente a 9:4-5. La «circuncisión del corazón» no cancela la historia de la circuncisión: denuncia que la señal se separe del centro obediente que Elohim examina.
+
+Así, la observación atribuible a Eric sobre la Torah escrita en el corazón recibe apoyo **textual cualificado**. Romanos 2:15 habla de la obra de la Torah escrita en el corazón y de la conciencia que testifica; no dice que toda intuición humana sea idéntica a la revelación ni que la Escritura sea innecesaria. **(μαρτυρέω)**, _martyreō_, significa dar testimonio o declarar; su fuerza contextual es que la conciencia funciona como testigo dentro del juicio, no como juez autónomo. El capítulo termina donde comenzó: la reputación delante de personas no puede reemplazar la aprobación de Elohim.
+
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                  | Observación pública atribuible                                                                     | Evaluación frente a Romanos 2                                                                                     |
