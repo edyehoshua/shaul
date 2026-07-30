@@ -57,16 +57,25 @@ Yom haKippurim es llamado un día de convocación santa en el que Israel debe hu
 
 Los diez videos reunidos incluyen reflexiones contemporáneas, una haftará, un encuentro de preguntas y mensajes de preparación para Yom haKippurim. Las sesiones de 5780, 5781, 5785 y 5786 vuelven al ayuno, la humillación, la conciencia y el sistema levítico; además, la haftará relaciona el refugio en יהוה y el corazón contrito con #isaiah_57_13-15. El encuentro de Zaragoza figura en la lista de reproducción y contiene preguntas misceláneas; no se le atribuye una exposición completa del día. Se ha usado la transcripción automática para delimitar esos asuntos, nunca como cita literal ni como sustituto de la Escritura.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual o temática                 | Observación concreta de la clase                                                                                                                                    | Prueba y límite en la nota                                                                                                                                                        |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Levítico 23:26-32 y Números 29:7          | Eric presenta el día como convocación santa, humillación de la persona y cese de toda labor, y pregunta cómo debe entenderse el ayuno sin medir la devoción ajena.  | Los textos locales repiten convocación, humillación y abstención de trabajo; la aplicación a cada condición física exige cuidado y no se convierte en una regla médica universal. |
+| Levítico 16:29-34                         | Las sesiones posteriores recorren el acceso restringido, el toro, los dos machos cabríos y la confesión sobre el macho cabrío vivo para situar la expiación anual.  | Levítico 16 prueba el rito sacerdotal en su contexto; la relación tipológica con Yehoshua es una conexión canónica que no reemplaza el sentido inmediato del capítulo.            |
+| Génesis 32:21 y Levítico 25:9-10          | Eric enlaza el verbo de acercamiento de Yaakov a Esav con כפר y destaca que el shofar del día décimo anuncia el jubileo y la libertad en la tierra.                 | La coincidencia de raíz y la relación entre expiación y reconciliación requieren cotejo léxico; Levítico 25 sí afirma el toque del shofar y la proclamación del jubileo.          |
+| Isaías 57:13-15 y mensajes de preparación | La haftará presenta a יהוה como refugio del humilde y las reuniones exhortan a una humillación que busque vida, no autodesprecio ni una técnica para comprar favor. | Isaías confirma refugio, quebranto y vivificación; amplía la meditación del día, pero no redefine las instrucciones calendáricas de Levítico.                                     |
+
 ## Hoja de comparación
 
-| Referencia          | Texto local                                                                                                 | Observación                                                                 |
-| ------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Referencia          | Texto local                                                                                       | Observación                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | #leviticus_23_27    | **אך בעשור לחדש השביעי הזה יום הכפרים הוא מקרא קדש יהיה לכם ועניתם את נפשתיכם והקרבתם אשה ליהוה** | El día décimo es Yom haKippurim, convocación santa y día de humillación.    |
-| #leviticus_23_32    | **שבת שבתון הוא לכם ועניתם את נפשתיכם בתשעה לחדש בערב מערב עד ערב תשבתו שבתכם**                     | El texto da el marco de reposo y de una observancia de tarde a tarde.       |
-| #numbers_29_7       | **ובעשור לחדש השביעי הזה מקרא קדש יהיה לכם ועניתם את נפשתיכם כל מלאכה לא תעשו**                     | Números reafirma la convocación, la humillación y la abstención de trabajo. |
+| #leviticus_23_32    | **שבת שבתון הוא לכם ועניתם את נפשתיכם בתשעה לחדש בערב מערב עד ערב תשבתו שבתכם**                   | El texto da el marco de reposo y de una observancia de tarde a tarde.       |
+| #numbers_29_7       | **ובעשור לחדש השביעי הזה מקרא קדש יהיה לכם ועניתם את נפשתיכם כל מלאכה לא תעשו**                   | Números reafirma la convocación, la humillación y la abstención de trabajo. |
 | #leviticus_16_29-30 | **בחדש השביעי בעשור לחדש תענו את נפשתיכם... כי ביום הזה יכפר עליכם לטהר אתכם**                    | Levítico 16 sitúa la humillación y la purificación en el rito anual.        |
-| #leviticus_25_9-10  | **ביום הכפרים תעבירו שופר בכל ארצכם... וקראתם דרור בארץ**                                             | El shofar de Yom haKippurim anuncia el jubileo y la liberación.             |
-| #isaiah_57_13-15    | **והחוסה בי ינחל ארץ... ואת דכא ושפל רוח להחיות רוח שפלים**                                           | La haftará une refugio, camino despejado y la vivificación del humilde.     |
+| #leviticus_25_9-10  | **ביום הכפרים תעבירו שופר בכל ארצכם... וקראתם דרור בארץ**                                         | El shofar de Yom haKippurim anuncia el jubileo y la liberación.             |
+| #isaiah_57_13-15    | **והחוסה בי ינחל ארץ... ואת דכא ושפל רוח להחיות רוח שפלים**                                       | La haftará une refugio, camino despejado y la vivificación del humilde.     |
 
 ## Humillarse sin reducir el día a una fórmula
 
@@ -91,6 +100,15 @@ La reflexión sobre la adopción y la redención del cuerpo se apoya en Romanos 
 ## Refugio y espíritu humillado
 
 La haftará desarrolla #isaiah_57_13-15: quien se refugia en יהוה recibe herencia, y el Alto y Santo habita también con el quebrantado y humilde de espíritu para vivificarlo. Este lenguaje amplía la meditación del día sin redefinir la orden de Levítico: la humillación no es autodesprecio ni una técnica para obtener favor, sino una respuesta ante la santidad de יהוה que busca vida para el humilde.
+
+## Léxico clave
+
+| Forma                | Transliteración            | Sentido normal                                                     | Fuerza contextual y relación                                                                                                                                                        |
+| -------------------- | -------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **עניתם את נפשתיכם** | _innitem et nafshoteikhem_ | afligir o humillar vuestras personas                               | En Levítico 23:27 y 32 ordena una respuesta corporal y comunitaria ante el día santo; “ayuno” es una traducción aproximada y tradicional, no la única glosa posible.                |
+| **יום הכפרים**       | _Yom haKippurim_           | día de las coberturas/expiaciones                                  | Es el nombre calendárico del décimo día; “Día de la Expiación” es una traducción aproximada, mientras la exposición relaciona la expiación con reconciliación de forma pedagógica.  |
+| **כפר**              | _kafar_                    | cubrir, hacer expiación; según el contexto, tratar la culpa ritual | En Génesis 32:21 y Levítico 16-25 la raíz aparece en contextos distintos; la relación de “cubrir”, purificar y reconciliar es aproximada y debe probarse por uso, no sólo por raíz. |
+| **דכא**              | _dakka_                    | quebrantado, aplastado                                             | En Isaías 57:15 describe al espíritu quebrantado con quien habita el Alto y Santo; “humilde” comunica la fuerza contextual, pero no elimina la imagen de aflicción.                 |
 
 ## Pendiente de verificar
 
