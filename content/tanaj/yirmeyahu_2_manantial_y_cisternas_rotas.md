@@ -44,13 +44,28 @@ La pregunta “¿dónde están tus elohim?” no es una invitación a la burla, 
 
 El cierre menciona alianzas con Egipto y Asiria: una alianza busca apoyo y termina produciendo vergüenza. El vestido manchado y las manos de sangre muestran que la falsa inocencia no cambia los hechos. La fuente de agua viva reclama retorno, pero también verdad sobre lo que ocurrió.
 
+## Hoja de comparación
+
+El corpus OE local conserva aquí el hebreo sin nikud en `hebrew_no_nikud`; se normalizan únicamente las barras de segmentación morfológica, sin convertir la cita en una retroversión. Estas unidades muestran el movimiento completo que la clase recorre.
+
+| Referencia      | Texto hebreo local normalizado                                                                             | Función en la enseñanza                                                                                         |
+| --------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| #yirmeyahu_2_2  | **הלך וקראת באזני ירושלם לאמר כה אמר יהוה זכרתי לך חסד נעוריך אהבת כלולתיך לכתך אחרי במדבר בארץ לא זרועה** | La memoria del amor y del seguimiento en el desierto antecede a la acusación.                                   |
+| #yirmeyahu_2_11 | **ההימיר גוי אלהים והמה לא אלהים ועמי המיר כבודו בלוא יועיל**                                              | El intercambio de la gloria por lo inútil prepara el diagnóstico de la fuente abandonada.                       |
+| #yirmeyahu_2_13 | **כי שתים רעות עשה עמי אתי עזבו מקור מים חיים לחצב להם בארות בארת נשברים אשר לא יכלו המים**                | El texto formula los dos males: dejar a יהוה y cavar depósitos rotos que no retienen agua.                      |
+| #yirmeyahu_2_20 | **כי מעולם שברתי עלך נתקתי מוסרתיך ותאמרי לא אעבד אעבור כי על כל גבעה גבהה ותחת כל עץ רענן את צעה זנה**    | La ruptura del yugo y la infidelidad muestran que la cisterna es una decisión persistente, no un accidente.     |
+| #yirmeyahu_2_27 | **אמרים לעץ אבי אתה ולאבן את ילדתני ילדתנו כי פנו אלי ערף ולא פנים ובעת רעתם יאמרו קומה והושיענו**         | La madera y la piedra reciben confianza en lugar de יהוה, y luego se les exige una salvación que no pueden dar. |
+| #yirmeyahu_2_37 | **גם מאת זה תצאי וידיך על ראשך כי מאס יהוה במבטחיך ולא תצליחי להם**                                        | El cierre prueba las alianzas: los apoyos alternativos terminan en vergüenza y fracaso.                         |
+
 ## Hoja léxica
 
-- **maqor, “fuente o manantial”**: en 2:13 identifica a יהוה como origen continuo de agua viva. La palabra sostiene una imagen de provisión que nace fuera del esfuerzo humano.
-- **mayim chayim, “aguas vivas”**: no designa una reserva estancada, sino agua que corre. En el argumento de Eric, la expresión contrasta una vida recibida con sustitutos incapaces de conservarla.
-- **bor, “cisterna o depósito”**: la cisterna puede almacenar agua, pero en 2:13 está rota. El problema no es la técnica de cavar en sí, sino confiar en un recipiente que no retiene lo que promete.
-- **azab, “abandonar o dejar”**: describe la primera mitad del doble pecado. La crisis comienza antes de que el sustituto sea visible: comienza cuando se deja la fuente.
-- **chatzab, “cavar o labrar”**: describe una acción deliberada. El pueblo no cae accidentalmente en la cisterna; invierte trabajo en una alternativa que debe ser examinada.
+| Forma fuente   | Transliteración | Sentido normal              | Fuerza contextual y relación                                                                                                                        |
+| -------------- | --------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(מקור)**     | _maqor_         | fuente, manantial           | En 2:13 identifica a יהוה como origen de agua viva; la relación con “fuente espiritual” es una aplicación pedagógica, no un segundo sentido léxico. |
+| **(מים חיים)** | _mayim jayim_   | aguas vivas, agua corriente | Contrasta agua que fluye con depósito estancado; “vida recibida” expresa la fuerza de la imagen de Eric y es una relación pedagógica.               |
+| **(בארות)**    | _be’erot_       | cisternas, pozos            | En 2:13 nombra sustitutos excavados por el pueblo; la equivalencia con “reservas” es aproximada y el calificativo “rotas” viene del contexto.       |
+| **(עזב)**      | _azav_          | abandonar, dejar            | Es el primer movimiento del doble pecado; la traducción “romper la relación” es una inferencia contextual, no una equivalencia exacta.              |
+| **(חצב)**      | _jatsav_        | cavar, labrar, tallar       | Señala trabajo deliberado para fabricar una alternativa; la aplicación a sistemas de confianza modernos es pedagógica.                              |
 
 ## Mapa de la enseñanza de Eric
 
