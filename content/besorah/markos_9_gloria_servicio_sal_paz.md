@@ -338,6 +338,24 @@ La escena del niño y la advertencia sobre hacer tropezar a los pequeños amplí
 
 Finalmente, **(ἅλας)**, _halas_, «sal», y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan paz», unen disciplina y convivencia en 9:49-50. La comparación con **(מלח)**, _melaj_, y la «sal del pacto» de Vaikra 2:13 puede iluminar el trasfondo, pero es una correspondencia aproximada; Marcos no ordena reconstruir toda la ofrenda vegetal. El cierre sí es explícito: la severidad contra lo que hace tropezar debe conservar una comunidad en paz. La gloria se verifica, por tanto, en escuchar, servir, proteger a los pequeños y vivir reconciliados, no en reclamar una posición superior.
 
+## Control de dependencia: la fe vulnerable precede al servicio (9:14-50)
+
+La unidad que comienza con la incapacidad de los discípulos no debe leerse como una prueba de superioridad espiritual. El padre dice **πιστεύω**, _pisteuō_, «creo o confío», y enseguida pide **βοήθει**, _boēthei_, «ayuda», para su **ἀπιστία**, _apistia_, «falta de confianza». La forma imperativa dirige la necesidad a Yehoshua; no describe una cantidad de fe que el padre deba fabricar. Su relación con **אמונה**, _emunah_, «firmeza, fidelidad o confianza», es una comparación aproximada, mientras el texto conserva una súplica concreta.
+
+La respuesta privada sobre **προσευχή**, _proseuchē_, «oración o súplica», tampoco convierte el episodio en método de control. El relato muestra primero la autoridad de Yehoshua sobre el espíritu y solo después explica a los discípulos su dependencia de la oración y el ayuno. La parte 29 está acreditada aquí por el alcance de su título porque su transcripción no está disponible; por eso no se le atribuye una teoría adicional. El texto sí permite afirmar que la liberación no se presenta como una técnica autónoma de los discípulos.
+
+El segundo anuncio une esa dependencia con la ética comunitaria. **παραδίδοται**, _paradidotai_, «es entregado», aparece antes de la disputa por grandeza; luego **διακονεῖν**, _diakonein_, «servir», define el camino del primero. La visión del monte, la petición vulnerable y el servicio quedan en orden narrativo: escuchar al Hijo, pedir ayuda y renunciar al rango. En 9:36, **παιδίον**, _paidion_, «niño o pequeño», permanece como la persona recibida por Yehoshua; no debe sustituirse por «siervo» para reforzar una tesis jerárquica.
+
+El cierre completa la prueba. **σκανδαλίσῃ**, _skandalisē_, «haga tropezar o ponga una ocasión de caída», responsabiliza a quien daña a los pequeños; **ἅλας**, _halas_, «sal», y **εἰρηνεύετε**, _eirēneuete_, «mantengan la paz», llevan la disciplina hacia la convivencia. La comparación con **(מלח)**, _melaj_, «sal», y **(שלום)**, _shalom_, «paz o integridad», puede iluminar Vaikra 2:13, pero no resuelve la variante de 9:49 ni convierte el griego en una retroversión. La observación de Eric sobre una comunidad preservada en _shalom_ queda apoyada por el imperativo final: la severidad contra el tropiezo solo cumple su propósito cuando produce paz entre los discípulos.
+
+## Verificación de la transición: guardar la visión hasta la resurrección (9:9-13)
+
+La escena del monte no termina en la visión. Mientras bajan, Yehoshua manda a los tres que no cuenten lo que vieron hasta que el **Ben HaAdam** se levante de entre los muertos (#markos_9_9). La forma **διεστείλατο**, _diesteilato_, del verbo **διαστέλλω**, _diastellō_, «ordenar expresamente o instruir», muestra que el silencio tiene un límite definido; no es una prohibición de testificar para siempre ni una invitación a convertir la experiencia en un secreto de élite. La equivalencia «mandó estrictamente» comunica la fuerza contextual, pero no agota el campo del verbo. La referencia a **ἀνάστασις**, _anastasis_, «levantamiento o resurrección», mantiene la visión subordinada al desenlace anunciado; «resurrección» es la equivalencia castellana normal en este contexto.
+
+Los discípulos obedecen la conversación, pero siguen preguntando qué significa que Eliyahu venga primero. Yehoshua responde que Eliyahu ya vino y que le hicieron lo que quisieron, «como está escrito de él» (#markos_9_11-13). **γέγραπται**, _gegraptai_, «ha sido escrito», vincula la explicación con el testimonio escritural; no autoriza a identificar cualquier figura contemporánea con Eliyahu por semejanza superficial. Eric relaciona el pasaje con la función de preparar el camino y con un cumplimiento sufrido. El texto local sí conserva la tensión entre promesa, sufrimiento y escritura, mientras las identificaciones históricas más amplias requieren fuentes adicionales.
+
+La transición confirma el orden del capítulo: gloria visible, escucha obediente, resurrección y sufrimiento. Por eso la observación de Eric sobre una manifestación consoladora queda apoyada sin aislarla del camino de entrega; la montaña no sustituye al Mesías que desciende hacia la necesidad, la incomprensión y el servicio.
+
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.

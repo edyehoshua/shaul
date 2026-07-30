@@ -272,6 +272,14 @@ El cierre de esta unidad, **ὑποτασσόμενοι ἀλλήλοις**, _hy
 
 Efesios 5 no opone espiritualidad y vida cotidiana. El amor, la luz, la gratitud, la sabiduría con el tiempo y las relaciones quedan unidos bajo la obra del Mesías. La exhortación no puede usarse para dominar: llama a una conducta que rechaza lo destructivo y aprende la entrega de Yehoshua.
 
+## Verificación de la perícopa: la palabra que limpia no es control humano (5:25-30)
+
+La afirmación de Eric sobre una «palabra» que forma a la comunidad debe permanecer dentro de 5:25-30. Pablo dice que el Mesías amó a la asamblea y se entregó por ella; después usa **ῥῆμα**, _rhēma_, «palabra, declaración o asunto expresado», en la imagen de agua y palabra. No es la autorización para que un esposo se convierta en intérprete infalible de la conciencia de su esposa. El sujeto de **ἁγιάζω**, _hagiazō_, «santificar o apartar para Elohim», y de **καθαρίζω**, _katharizō_, «limpiar», es el Mesías en la analogía de Pablo.
+
+El resultado esperado también limita la aplicación: presentar a la asamblea santa, sin mancha ni arruga, describe el propósito cristológico del pasaje, no una licencia doméstica para inspeccionar o castigar. Cuando Pablo vuelve al cuerpo, **σάρξ**, _sarx_, «carne o cuerpo», y **σῶμα**, _sōma_, «cuerpo», sostienen una comparación de cuidado: el esposo debe **ἐκτρέφω**, _ektrephō_, «alimentar o criar», y **θάλπω**, _thalpō_, «cuidar con ternura». La equivalencia con **(בשר)**, _basar_, «carne o cuerpo», es una comparación semítica aproximada; no desplaza las formas griegas ni convierte «una sola carne» en propiedad.
+
+Así la observación de Eric queda probada en el orden de la unidad: entrega del Mesías, santificación de la asamblea y cuidado corporal. La palabra no se usa como instrumento de dominio; la imagen completa exige que cualquier aplicación conserve dignidad, seguridad y responsabilidad recíproca.
+
 ### Verificación de la progresión del capítulo
 
 La secuencia de Efesios 5 hace que la aplicación de Eric sea comprobable y no una colección de lemas. En 5:1-7, **(μιμηταί)**, _mimētai_, «imitadores», recibe su contenido del amor entregado, mientras **(πλεονεξία)**, _pleonexia_, «codicia o deseo de tener más», se contrasta con **(εὐχαριστία)**, _eucharistia_, «acción de gracias». En 5:8-14, **(φῶς)**, _phōs_, «luz», se reconoce por **(καρπός)**, _karpos_, «fruto», de bondad, justicia y verdad; la comparación con **(אור)**, _or_, es pedagógica, no una equivalencia textual.
