@@ -181,6 +181,14 @@ Finalmente, la autoridad se prueba por la disposición a responder. **ἐξου�
 - [ ] Documentar la propuesta de que _tefilah_ significa primariamente «ser hecho partícipe de un juicio»; no tratarla como etimología establecida sin fuente léxica.
 - [ ] Verificar las referencias judías que la clase menciona sobre la higuera, el Hejal y procedimientos de perdón antes de citarlas con precisión.
 
+## Reparación dirigida: la oración no separa fidelidad y perdón (11:20-25)
+
+La parte 36 de Eric insiste en que **πίστις θεοῦ**, _pistis theou_, no debe convertirse en una fuerza que el discípulo posee para obligar a Elohim. La construcción admite «fe en Dios» y «fidelidad de Dios»; el genitivo puede debatirse, pero ninguna traducción elimina que el objeto de la confianza sea Dios. La comparación con **(אמונה)**, _emunah_, «firmeza, fidelidad o confianza», es de campo semántico y pedagógica. No prueba que Marcos haya sido traducido de un original hebreo ni convierte la forma griega en una contraseña doctrinal.
+
+El argumento se prueba por el orden que sigue a la higuera seca. **ἐὰν μὴ διακριθῇ**, _ean mē diakrithē_, «si no duda» o «si no vacila», describe la condición de la confianza en la imagen del monte; **προσευχόμενοι**, _proseuchomenoi_, «al orar», introduce inmediatamente una relación con el Padre; y **ἀφίετε**, _aphiete_, «remitan, dejen ir o perdonen», dirige la acción hacia la ofensa contra otro. La oración no queda presentada como una técnica de resultados ilimitados: la palabra sobre recibir está encuadrada por la dependencia y por la disposición a perdonar.
+
+Eric relaciona **ἀφίημι**, _aphiēmi_, con la responsabilidad de no sostener una causa contra el hermano. El término puede significar dejar, liberar, remitir o perdonar; en 11:25 su objeto es una ofensa interpersonal y el modelo es el Padre que remite las transgresiones. La equivalencia con **(סלח)**, _salach_, «perdonar», es aproximada, no una prueba de que los verbos sean idénticos en todos sus usos. Así se conserva la observación concreta de la clase y se la prueba contra el texto: la fidelidad que se pide no autoriza a exigir a Dios ni a orar mientras se retiene deliberadamente la acusación.
+
 ## Conclusión
 
 Marcos 11 dirige la esperanza de la multitud hacia un rey que entra, examina y juzga conforme a la vocación de la casa de יהוה. La higuera y el Hejal revelan que las hojas, el movimiento y el prestigio no sustituyen el fruto ni la oración. En ese marco, la emunah no es posesión humana: pedir, perdonar y reconocer autoridad exige dependencia de Dios. Los dirigentes, que no quieren responder por Iojanán, muestran el reverso de esa dependencia; calculan cómo preservar su posición en vez de recibir el testimonio que los llama a responder.

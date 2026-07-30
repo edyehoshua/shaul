@@ -192,6 +192,14 @@ En 2:14-18, **εἰρήνη**, _eirēnē_, «paz o relación reconciliada», ide
 
 El cierre, 2:19-22, cambia el registro de conflicto a pertenencia y edificación. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», nombran la nueva pertenencia; **ἀκρογωνιαῖος**, _akrogōniaios_, «piedra angular», sitúa al Mesías como fundamento; y **συναρμολογουμένη**, _synarmologoumenē_, «ensamblada juntamente», junto con **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», describe una obra comunitaria en curso. **κατοικητήριον**, _katoikētērion_, «morada», fija el propósito: Elohim habita en el Rúaj. La exposición de Eric queda así probada en la progresión completa —gracia, memoria, sangre, paz, acceso y morada—, no en una consigna aislada sobre identidad.
 
+## Reparación dirigida: el muro se interpreta por el acceso que produce (2:14-18)
+
+La observación de Eric sobre la «pared intermedia» necesita conservar dos movimientos que el pasaje mantiene juntos. Primero, el Mesías es **εἰρήνη**, _eirēnē_, «paz o relación reconciliada»; después **ποιήσας**, _poiēsas_, «haciendo», describe que de los dos hace un solo hombre nuevo. La imagen no autoriza a decir que el Mesías simplemente borra la historia de Israel y de los gentiles. **ἄμφω**, _amphō_, «ambos», y **ἕνα**, _hena_, «uno», conservan simultáneamente la existencia previa de dos grupos y el resultado nuevo de la obra reconciliadora.
+
+Eric vincula esa pared con una separación religiosa que impedía compartir el acceso. La asociación es una lectura atribuible, no una identificación arqueológica demostrada por Efesios 2. El texto controla la propuesta con **μεσότοιχον**, _mesotoichon_, «pared divisoria», **ἔχθρα**, _echthra_, «enemistad», y **καταργήσας**, _katargēsas_, «dejando inoperante o desactivando». La forma **καταργέω** no significa automáticamente «eliminar toda Torah»; su objeto y su resultado deben seguirse dentro de la frase: la enemistad queda desactivada al formar un solo hombre nuevo.
+
+La prueba final no es una teoría sobre la pared sino el acceso común. **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconciliar plenamente», conduce a ambos a Elohim en un cuerpo; **προσαγωγή**, _prosagōgē_, «acceso o introducción», los coloca ante el mismo Padre; y **ἐν ἑνὶ πνεύματι**, «en un solo Rúaj», excluye dos vías espirituales de distinta calidad. La comparación con **(שלום)**, _shalom_, «paz, integridad o bienestar», y **(איבה)**, _eyvah_, «enemistad», ilumina el campo semítico, pero no sustituye la sintaxis griega. Así se conserva la intuición de Eric sobre un pueblo reconciliado y se prueba contra la secuencia local: dos grupos, un hombre nuevo, un cuerpo y un acceso.
+
 ## Ver también
 
 - [[efesios_1_voluntad_reconciliacion_y_santidad|Efesios 1: voluntad, reconciliación y santidad]]
