@@ -415,40 +415,50 @@
       "url": "https://www.youtube.com/watch?v=yoYZGJOMi38",
       "reason": "Unavailable from yt-dlp and Supadata native-caption recovery",
       "status": "confirmed_unavailable"
-      },
-      {
+    },
+    {
       "video_id": "p7Tu9dJAgN0",
       "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
       "title": "Haftarát Vayishlaj Parte 1",
       "url": "https://www.youtube.com/watch?v=p7Tu9dJAgN0",
       "reason": "Local transcript contains only an incomplete introductory segment (about 22 minutes) and does not preserve enough verse-specific exposition for a substantive canonical study; revisit if a complete transcript is recovered.",
       "status": "incomplete_transcript"
-      },
-      {
+    },
+    {
+      "video_id": "Aly9Mvp-Nts",
+      "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
+      "title": "Haftarát Vayishlaj Parte 3",
+      "url": "https://www.youtube.com/watch?v=Aly9Mvp-Nts",
+      "reason": "La fuente es una exposición bíblica elegible, pero no existe una transcripción local disponible en este worktree; se pospone sin fabricar el estudio hasta recuperar el texto fuente.",
+      "status": "missing_local_transcript"
+    },
+    {
       "video_id": "dWfZ0pLJAlk",
       "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
       "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
       "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
-      "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
-      "status": "confirmed_unavailable"
-      },
-      {
+      "reason": "Clasificación local: la transcripción disponible conserva una interpretación musical de un texto de Isaías, no una exposición bíblica atribuible. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:dWfZ0pLJAlk"
+    },
+    {
       "video_id": "xjQ5RfijeVU",
       "playlist_title": "Eric de Jesús Rodríguez Mendoza - Videos",
       "title": "Num 8:1 - 12:16 The Mnorah and the Prophecy",
       "url": "https://www.youtube.com/watch?v=xjQ5RfijeVU",
       "reason": "No local transcript is available; the source was confirmed unavailable by the transcript recovery attempts, so no Eric-specific exposition was fabricated.",
       "status": "confirmed_unavailable"
-      },
-      {
+    },
+    {
       "video_id": "sfGXMp9LYCc",
       "playlist_title": "Shavuot independiente (balanceado desde Uncategorized)",
       "title": "Jag Hashavu'ot 2020",
       "url": "https://www.youtube.com/watch?v=sfGXMp9LYCc",
       "reason": "La fuente está asignada a esta lane, pero no existe una transcripción local recuperable en este worktree; se pospone sin fabricar una exposición ni clasificar el contenido a partir del título.",
       "status": "missing_local_transcript"
-      },
-      {
+    },
+    {
       "video_id": "xpihVrZGGI4",
       "playlist_title": "Haftarah Mtzorá 2 Reyes 7 (balanceada desde Uncategorized)",
       "title": "Haftaráh de Mtzorá' 2 Reyes cap 7: El redargüir de Hashem",
@@ -463,6 +473,126 @@
       "url": "https://www.youtube.com/watch?v=7uBEYFbUy2A",
       "reason": "La fuente parece incluir una exposición de Juan 10 junto con la lectura de un himno, pero no existe una transcripción local recuperable en este worktree; se pospone sin fabricar el estudio hasta disponer del texto fuente.",
       "status": "missing_local_transcript"
+    },
+    {
+      "video_id": "qw74-9iWKGI",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarah de Shabat Zajor (2018): Tener presente la obra de 'Amaleq",
+      "url": "https://www.youtube.com/watch?v=qw74-9iWKGI",
+      "reason": "La fuente es una exposición bíblica elegible asignada a la lane haftarot, pero no existe una transcripción local recuperable; la recuperación automática fue bloqueada por YouTube, así que se pospone sin fabricar el estudio.",
+      "status": "missing_local_transcript",
+      "lane": "haftarot",
+      "source_id": "youtube:qw74-9iWKGI"
+    },
+    {
+      "video_id": "LOCn1StkW4M",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Haftarat Vayishlaj Part 2",
+      "url": "https://www.youtube.com/watch?v=LOCn1StkW4M",
+      "reason": "La fuente es una exposición bíblica elegible asignada a la lane haftarot, pero no existe una transcripción local recuperable; la recuperación automática fue bloqueada por YouTube, así que se pospone sin fabricar el estudio.",
+      "status": "missing_local_transcript",
+      "lane": "haftarot",
+      "source_id": "youtube:LOCn1StkW4M"
+    },
+    {
+      "video_id": "6yvN36B5280",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Al zeh (En español) על זה  כמו ששר מורדכי בן דויד בספרדית",
+      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
+      "reason": "Clasificación local: el título identifica una canción interpretada en español, no una exposición bíblica. No se fabrica una nota canónica ni se procesa como estudio.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:6yvN36B5280"
+    },
+    {
+      "video_id": "w8HoMQSjKyQ",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Ana & Eric   Videoclip de nuestra boda (21 de Shvat 5779 - 27 de enero 2019)",
+      "url": "https://www.youtube.com/watch?v=w8HoMQSjKyQ",
+      "reason": "Clasificación local: el título identifica un videoclip de boda, no una exposición bíblica. Aunque hay transcripción técnica, no se fabrica una enseñanza ni una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:w8HoMQSjKyQ"
+    },
+    {
+      "video_id": "_QlsdBq_GTc",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Emil Zrihan - God is alive, I praise Him",
+      "url": "https://www.youtube.com/watch?v=_QlsdBq_GTc",
+      "reason": "Clasificación local: la transcripción consiste en una interpretación musical, no en una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:_QlsdBq_GTc"
+    },
+    {
+      "video_id": "YgDxHdLEmKc",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Jerusalén de Oro en español  ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "reason": "Clasificación local: la transcripción es la letra interpretada de una canción sobre Jerusalén, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:YgDxHdLEmKc"
+    },
+    {
+      "video_id": "cvt-w1oDtmE",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Ofrah Hazah - Horashoot - עפרה חזה הרשות English - Spanish",
+      "url": "https://www.youtube.com/watch?v=cvt-w1oDtmE",
+      "reason": "Clasificación local: la transcripción conserva música y fragmentos de interpretación, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:cvt-w1oDtmE"
+    },
+    {
+      "video_id": "sTl5WJfH61Q",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Salmo 125 en guitarra מזמור קכ''ה בגיטרה",
+      "url": "https://www.youtube.com/watch?v=sTl5WJfH61Q",
+      "reason": "Clasificación local: el título y la transcripción identifican una interpretación musical del Salmo 125, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:sTl5WJfH61Q"
+    },
+    {
+      "video_id": "kKv_J4gwBkc",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "Todas las palabras - Idan Raichel -punteo en guitarra",
+      "url": "https://www.youtube.com/watch?v=kKv_J4gwBkc",
+      "reason": "Clasificación local: la transcripción corresponde a una interpretación musical, no a una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:kKv_J4gwBkc"
+    },
+    {
+      "video_id": "iRGczDAqu9c",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "ישעיהו פרק 60 עברית - ספרדית   Isaías capítulo 60 hebreo- español",
+      "url": "https://www.youtube.com/watch?v=iRGczDAqu9c",
+      "reason": "Clasificación local: el material disponible es una lectura bilingüe fragmentaria de Isaías 60 y no conserva tratamiento expositivo atribuible. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:iRGczDAqu9c"
+    },
+    {
+      "video_id": "GN22XKFRYGM",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "תהילים טז. the most important decision",
+      "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
+      "reason": "Clasificación local: la transcripción es un canto basado en Tehilim 16, sin desarrollo expositivo atribuible. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:GN22XKFRYGM"
+    },
+    {
+      "video_id": "dsI1NFrPTZY",
+      "playlist_title": "Haftarot, Tanaj y estudios independientes (clasificado desde Uncategorized)",
+      "title": "תפלת עלינו the Aleynu Prayer La oración Aleynu´Aleinu",
+      "url": "https://www.youtube.com/watch?v=dsI1NFrPTZY",
+      "reason": "Clasificación local: el material disponible es una oración, no una exposición bíblica. No se fabrica una nota canónica.",
+      "status": "confirmed_non_expository",
+      "lane": "haftarot",
+      "source_id": "youtube:dsI1NFrPTZY"
     }
   ]
 }

@@ -11,6 +11,22 @@
       "classified_at": "2026-07-30"
     },
     {
+      "source_id": "youtube:6yvN36B5280",
+      "title": "Al zeh (En español) על זה como ששר מורדכי בן דויד בספרדית",
+      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
+      "classification": "musical-performance",
+      "reason": "La transcripción local conserva una interpretación cantada con letra fragmentaria en español; no contiene una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:w8HoMQSjKyQ",
+      "title": "Ana & Eric Videoclip de nuestra boda (21 de Shvat 5779 - 27 de enero 2019)",
+      "url": "https://www.youtube.com/watch?v=w8HoMQSjKyQ",
+      "classification": "wedding-clip",
+      "reason": "Videoclip personal de boda con música y subtítulos fragmentarios; no presenta una exposición bíblica sostenida para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-29"
+    },
+    {
       "source_id": "youtube:GN22XKFRYGM",
       "title": "תהילים טז. the most important decision",
       "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
@@ -25,22 +41,6 @@
       "classification": "liturgical-prayer",
       "reason": "La captura local solo contiene unos pocos fragmentos de una oración en árabe y no identifica una exposición bíblica desarrollada; no se fabrica un estudio canónico.",
       "classified_at": "2026-07-28"
-    },
-    {
-      "source_id": "youtube:6yvN36B5280",
-      "title": "Al zeh (En español) על זה כמו ששר מורדכי בן דויד בספרדית",
-      "url": "https://www.youtube.com/watch?v=6yvN36B5280",
-      "classification": "musical-performance",
-      "reason": "Song performance with fragmentary lyric captions; no sustained biblical exposition to author as a canonical study.",
-      "classified_at": "2026-07-27"
-    },
-    {
-      "source_id": "youtube:w8HoMQSjKyQ",
-      "title": "Ana & Eric Videoclip de nuestra boda (21 de Shvat 5779 - 27 de enero 2019)",
-      "url": "https://www.youtube.com/watch?v=w8HoMQSjKyQ",
-      "classification": "wedding-clip",
-      "reason": "Personal wedding video with music; no biblical exposition to author as a canonical study.",
-      "classified_at": "2026-07-27"
     },
     {
       "source_id": "youtube:p7Tu9dJAgN0",
@@ -98,14 +98,7 @@
       "reason": "Yiddish/Spanish song performance; not an expository study.",
       "classified_at": "2026-07-27"
     },
-    {
-      "source_id": "youtube:dWfZ0pLJAlk",
-      "title": "Por causa de Sión Is. 62 למען ציון מתוך ישעיהו הנביא פרק ס''ב",
-      "url": "https://www.youtube.com/watch?v=dWfZ0pLJAlk",
-      "classification": "musical-performance",
-      "reason": "Very short sung/read rendering of Isaiah 62; insufficient sustained exposition for a canonical transcript study.",
-      "classified_at": "2026-07-27"
-    },
+
     {
       "source_id": "youtube:HXpeQAgaCoA",
       "title": "Recibimiento y despedida de Shabat",
@@ -186,38 +179,7 @@
       "reason": "Short bilingual rendering of Isaiah 60; insufficient exposition for a canonical study.",
       "classified_at": "2026-07-27"
     },
-    {
-      "source_id": "youtube:GN22XKFRYGM",
-      "title": "תהילים טז. the most important decision",
-      "url": "https://www.youtube.com/watch?v=GN22XKFRYGM",
-      "classification": "musical-performance",
-      "reason": "Brief musical/recitational treatment of Psalm 16 with minimal captions; not a full exposition class.",
-      "classified_at": "2026-07-27"
-    },
-    {
-      "source_id": "youtube:dsI1NFrPTZY",
-      "title": "תפלת עלינו the Aleynu Prayer La oración Aleynu´Aleinu",
-      "url": "https://www.youtube.com/watch?v=dsI1NFrPTZY",
-      "classification": "liturgical-prayer",
-      "reason": "Aleinu prayer clip; liturgical recitation rather than biblical exposition.",
-      "classified_at": "2026-07-27"
-    },
-    {
-      "source_id": "youtube:_QlsdBq_GTc",
-      "title": "Emil Zrihan - God is alive, I praise Him",
-      "url": "https://www.youtube.com/watch?v=_QlsdBq_GTc",
-      "classification": "musical-performance",
-      "reason": "La transcripción local conserva una interpretación musical en árabe, con aplausos, música y fragmentos líricos; no contiene una exposición bíblica sostenida y atribuible para convertirla en un estudio canónico.",
-      "classified_at": "2026-07-29"
-    },
-    {
-      "source_id": "youtube:YgDxHdLEmKc",
-      "title": "Jerusalén de Oro en español ירושלים של זהב בספרדית",
-      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
-      "classification": "musical-performance",
-      "reason": "Interpretación musical de una canción sobre Jerusalén; el material disponible no presenta una exposición bíblica sostenida para convertirla en un estudio canónico.",
-      "classified_at": "2026-07-29"
-    },
+
     {
       "source_id": "youtube:O2jFt6kAl30",
       "title": "Piyut Akdamut Leshavuot. פיוט אקדמות לשבועות Akdamut",
@@ -225,6 +187,22 @@
       "classification": "liturgical-music",
       "reason": "El inventario identifica un piyut litúrgico de Shavuot y los proveedores no recuperaron una exposición bíblica sostenida; no se fabrica un estudio canónico a partir de una pieza litúrgica.",
       "classified_at": "2026-07-29"
+    },
+    {
+      "source_id": "youtube:YgDxHdLEmKc",
+      "title": "Jerusalén de Oro en español ירושלים של זהב בספרדית",
+      "url": "https://www.youtube.com/watch?v=YgDxHdLEmKc",
+      "classification": "musical-performance",
+      "reason": "El título identifica una interpretación de una canción y no una exposición bíblica sostenida; no se fabrica un estudio canónico a partir de una actuación musical.",
+      "classified_at": "2026-07-30"
+    },
+    {
+      "source_id": "youtube:cvt-w1oDtmE",
+      "title": "Ofrah Hazah - Horashoot - עפרה חזה הרשות English - Spanish",
+      "url": "https://www.youtube.com/watch?v=cvt-w1oDtmE",
+      "classification": "musical-performance",
+      "reason": "El título identifica una canción/actuación musical de Ofra Haza; no conserva una exposición bíblica sostenida para convertirla en un estudio canónico.",
+      "classified_at": "2026-07-30"
     }
   ]
 }

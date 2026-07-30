@@ -117,10 +117,10 @@ La clase también relaciona el aceite llevado a Egipto con sumisión política. 
 
 ### Control de fuente y alcance
 
-| Fuente pública | Observación conservada | Prueba textual y límite |
-| --- | --- | --- |
+| Fuente pública        | Observación conservada                                                                                                                | Prueba textual y límite                                                                                                       |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | `youtube:Bd7DFDMxVYo` | Oseas denuncia lisonja y «amor fingido» antes de la caída del norte; la casa persigue el viento y busca seguridad en Asiria y Egipto. | #oseas_12_1-7 apoya el contraste entre discurso, alianzas y retorno; «amor fingido» es síntesis homilética, no glosa literal. |
-| `youtube:WDnxTbBQP8I` | Yaakov, la lucha, el llanto, la petición de bendición y el retorno forman el espejo de Efraín. | #oseas_12_3-10 y #bereshit_32_25-30 sostienen la memoria; las aplicaciones sobre identidad comunitaria quedan calificadas. |
+| `youtube:WDnxTbBQP8I` | Yaakov, la lucha, el llanto, la petición de bendición y el retorno forman el espejo de Efraín.                                        | #oseas_12_3-10 y #bereshit_32_25-30 sostienen la memoria; las aplicaciones sobre identidad comunitaria quedan calificadas.    |
 
 La adición no crea otra nota para Oseas 12: integra la fuente de Vayétze en la nota canónica existente. Sus dos identificadores son distintos, tienen crédito público y no se atribuyen frases de la transcripción como citas literales.
 
