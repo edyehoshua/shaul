@@ -135,6 +135,10 @@ Eric explica **(משיח)** desde la unción y menciona usos plurales para profe
 
 El silencio no niega la confesión; prepara su corrección. Una identidad anunciada sin el camino que Yehoshua mismo revelará puede ser verdadera en palabras y equivocada en contenido. El episodio del ciego ilumina precisamente este peligro: se puede ver algo real y, sin embargo, no verlo todavía «con buena luz».
 
+La secuencia verbal confirma esa dependencia entre título y camino. **(ἐπιτιμάω)**, _epitimaō_, «reprender o censurar», describe la intervención de Kefa en 8:32; no es una pregunta abierta, sino un intento de detener la enseñanza sobre el padecimiento. Yehoshua responde con **(φρονέω)**, _phroneō_, «pensar, tener una disposición o fijar la mente»: el problema no es que Kefa ignore el título, sino que interpreta «Mesías» desde «lo de los hombres». La observación de Eric sobre una confesión que necesita ser llenada de contenido recibe aquí apoyo narrativo directo.
+
+Por eso el llamado de 8:34 no puede separarse del anuncio anterior. **(ἀκολουθέω)**, _akoloutheō_, «seguir o acompañar», ordena ponerse detrás de Yehoshua; **(ἀπαρνέομαι)**, _aparneomai_, «negarse o renunciar a sí mismo», y **(αἴρω)**, _airō_, «levantar o tomar», describen la respuesta del discípulo. **(σταυρός)**, _stauros_, «cruz o madero de ejecución», conserva el costo público del camino. La comparación con **(אמן)**, _aman_, «afirmarse o confiar», es pedagógica y aproximada; no reemplaza las formas griegas. Así, la clase puede hablar de una visión que madura, pero el texto fija la prueba: reconocer al Mesías incluye seguirlo en el camino que él mismo anuncia.
+
 ## El Ben HaAdam debe padecer, morir y levantarse (8:31-33)
 
 El giro llega con «comenzó a enseñarles». #markos_8_31 no presenta el padecimiento como accidente que sorprende al Mesías, sino como enseñanza necesaria dentro del camino del **(בן האדם)**. El versículo enumera rechazo por ancianos, sacerdotes y oficiales, muerte y levantamiento después de tres días. Es una secuencia, no una celebración genérica del dolor: rechazo, muerte y resurrección quedan unidos.
