@@ -58,13 +58,19 @@ La lista «Hebreas de antes» reúne música, recitados y videos de calidad sono
 
 Las transcripciones son automáticas y varias alternan hebreo, árabe, ruso o palabras irreconocibles. Se usan únicamente para identificar el tipo de material y su relación posible con los dos pasajes señalados; no son transcripciones críticas ni citas literales verificadas.
 
+## Mapa de la enseñanza de Eric
+
+- **Deuteronomio 6:4-9 — recitados del Shemá.** La selección que presenta Eric pone juntos la lectura samaritana (`youtube:xTLA4g8jtvg`) y la tradición yemenita (`youtube:XVfGzsU7Afw`) como dos formas audibles de recibir el Shemá. La nota conserva esa observación material —son recitados hebreos que permiten reconocer «שמע ישראל» y la secuencia de enseñanza—, pero la prueba contra el texto local y deja la comparación fonética como pendiente; no trata la transcripción automática como variante bíblica.
+- **Tehilim 121:3-4 — memoria del guardián que no duerme.** Eric incluye «הנה לא ינום» (`youtube:h2iPUA7tm38`) dentro de la colección; el fragmento identificable repite la línea del salmo. La nota lo contrasta con **אל יתן למוט רגלך אל ינום שמרך** y **הנה לא ינום ולא יישן שומר ישראל** en el texto local: la relación con 121:4 es textual para la frase reconocible, mientras que la función de la repetición como ayuda de memoria es una inferencia pedagógica.
+- **El resto de la lista — canto hebreo no equivale a exposición.** Eric también reúne piezas sobre Israel, Jerusalén, Shabat y paz, entre ellas `youtube:YeTXXw1GTqY` y `youtube:Cku5B-UoHPY`. La observación comprobable es la diversidad musical de la lista, no una interpretación bíblica común: como las transcripciones no fijan letras completas ni contexto, la nota registra esos videos como fuentes de la colección y deja su identificación literaria pendiente.
+
 ## Hoja de comparación
 
-| Referencia         | Texto local                                                                                                 | Observación                                                                                       |
-| ------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #deuteronomy_6_4-5 | **שמע ישראל יהוה אלהינו יהוה אחד׃ ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**                  | El Shemá confiesa la unicidad de יהוה y enlaza esa confesión con amarle íntegramente.             |
+| Referencia         | Texto local                                                                                     | Observación                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| #deuteronomy_6_4-5 | **שמע ישראל יהוה אלהינו יהוה אחד׃ ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**            | El Shemá confiesa la unicidad de יהוה y enlaza esa confesión con amarle íntegramente.             |
 | #deuteronomy_6_6-9 | **והיו הדברים האלה אשר אנכי מצוך היום על לבבך׃ ושננתם לבניך ... וכתבתם על מזוזות ביתך ובשעריך** | Las palabras han de permanecer en el corazón, enseñarse y hacerse presentes en la vida cotidiana. |
-| #psalms_121_3-4    | **אל יתן למוט רגלך אל ינום שמרך׃ הנה לא ינום ולא יישן שומר ישראל**                                       | El salmo nombra a יהוה como guardián que no duerme ni se adormece.                                |
+| #psalms_121_3-4    | **אל יתן למוט רגלך אל ינום שמרך׃ הנה לא ינום ולא יישן שומר ישראל**                              | El salmo nombra a יהוה como guardián que no duerme ni se adormece.                                |
 
 ## Del audio al texto comprobable
 
@@ -93,7 +99,7 @@ El Shemá llama a guardar y enseñar las palabras de יהוה, y Tehilim proclam
 - Expositor y responsable de la lista: **hermano Eric de Jesús Rodríguez Mendoza**.
 - [El Evangelio Wganda Kenya](https://www.youtube.com/watch?v=BzRLp-h-FCs) (source_id: `youtube:BzRLp-h-FCs`).
 - [El poderoso de Israel(cantado por judios)](https://www.youtube.com/watch?v=YeTXXw1GTqY) (source_id: `youtube:YeTXXw1GTqY`).
-- [Ofra HAZA - Im Nin' Alu (Original Video Clip - 1988) *** HD ***](https://www.youtube.com/watch?v=O-R-Z8DYb5s) (source_id: `youtube:O-R-Z8DYb5s`).
+- [Ofra HAZA - Im Nin' Alu (Original Video Clip - 1988) **_ HD _**](https://www.youtube.com/watch?v=O-R-Z8DYb5s) (source_id: `youtube:O-R-Z8DYb5s`).
 - [בועז שרעבי - דרור יקרא](https://www.youtube.com/watch?v=L6EeTyJjU34) (source_id: `youtube:L6EeTyJjU34`).
 - [דני מסנג - יצאנו אט - האוסף](https://www.youtube.com/watch?v=LyGQPveZU2U) (source_id: `youtube:LyGQPveZU2U`).
 - [הגבעטרון מחרוזת שירים ישראליים צאנה צאנה, זמר לך,ישמחו השמיים,הבה נגילה,הבאנו שלום עליכם](https://www.youtube.com/watch?v=MVPXV26EuFs) (source_id: `youtube:MVPXV26EuFs`).
