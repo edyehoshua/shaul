@@ -1,0 +1,9 @@
+.git/
+.venv/
+node_modules/
+private/
+docs/
+data/
+public/
+.firecrawl/
+content/.obsidian/

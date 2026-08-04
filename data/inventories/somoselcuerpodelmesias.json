@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "channel_url": "https://www.youtube.com/@SomosElCuerpodelMesias",
+  "channel_slug": "somoselcuerpodelmesias",
+  "generated_at": "2026-07-27",
+  "playlists": [],
+  "videos": [
+    {
+      "id": "iDuvm4VTAJg",
+      "title": "Teología del reemplazo (1)",
+      "url": "https://www.youtube.com/watch?v=iDuvm4VTAJg",
+      "channel": "Somos el Cuerpo del Mesías",
+      "channel_id": "",
+      "playlist": "PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl",
+      "playlist_id": "PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl",
+      "playlist_title": ""
+    },
+    {
+      "id": "jAmhhsLJil8",
+      "title": "Teología del reemplazo (2)",
+      "url": "https://www.youtube.com/watch?v=jAmhhsLJil8",
+      "channel": "Somos el Cuerpo del Mesías",
+      "channel_id": "",
+      "playlist": "PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl",
+      "playlist_id": "PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl",
+      "playlist_title": ""
+    },
+    {
+      "id": "sHZ5OdsU1vo",
+      "title": "Santísima trinidad",
+      "url": "https://www.youtube.com/watch?v=sHZ5OdsU1vo",
+      "channel": "Somos el Cuerpo del Mesías",
+      "channel_id": "",
+      "playlist": "PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl",
+      "playlist_id": "PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl",
+      "playlist_title": ""
+    },
+    {
+      "id": "goTCEVpn-20",
+      "title": "Abolición de la ley",
+      "url": "https://www.youtube.com/watch?v=goTCEVpn-20",
+      "channel": "Somos el Cuerpo del Mesías",
+      "channel_id": "",
+      "playlist": "",
+      "playlist_id": "",
+      "playlist_title": ""
+    },
+    {
+      "id": "jvZU0tznR84",
+      "title": "Neoidolatría",
+      "url": "https://www.youtube.com/watch?v=jvZU0tznR84",
+      "channel": "Somos el Cuerpo del Mesías",
+      "channel_id": "",
+      "playlist": "PL8hWSx6FFBKMAtOFra4Qizdsyjde6_vPf",
+      "playlist_id": "PL8hWSx6FFBKMAtOFra4Qizdsyjde6_vPf",
+      "playlist_title": ""
+    }
+  ]
+}
