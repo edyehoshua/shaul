@@ -99,6 +99,5 @@ Efesios 1:5-10 no separa adopción, favor, redención, perdón y propósito. Tod
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Canal: **Somos El Cuerpo del Mesías** — <https://www.youtube.com/@SomosElCuerpodelMesias>.
 - Video: [LETTER TO THE EPHESIANS | The MESSIAH as HEAD of EVERYTHING | Chapter 1 | #03 | Live](https://www.youtube.com/watch?v=a6vEPBnWxZM) (`source_id`: `youtube:a6vEPBnWxZM`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
