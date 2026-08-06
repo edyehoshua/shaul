@@ -125,5 +125,5 @@ Tehilim 89 canta la misericordia y la fidelidad de יהוה, funda el trono en j
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim/Himnos/Salmo Cap 89](https://www.youtube.com/watch?v=ZxxXuM0Xvnw) — `source_id: youtube:ZxxXuM0Xvnw`.
+- Video: [Tehilim/Himnos/Salmo Cap 89](https://www.youtube.com/watch?v=ZxxXuM0Xvnw) — `source_id`: youtube:ZxxXuM0Xvnw`.
 - Esta nota organiza y contrasta la enseñanza con el texto local; no presenta una transcripción automática como cita literal.

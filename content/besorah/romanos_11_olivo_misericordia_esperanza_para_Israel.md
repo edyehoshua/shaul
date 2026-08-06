@@ -54,13 +54,13 @@ La fuente `youtube:MHLbizeZrPc` acredita una sesión cuyo título pone en primer
 | #romanos_11_25-29 | **שישראל בא לידי טמטום הלב למקצתו עד כי־יכנס מלא הגוים׃ וכן כל־ישראל יושע ככתוב ובא לציון גואל ... חביבים הם בגלל האבות׃ כי לא־ינחם האלהים על־מתנותיו ולא על־קריאתו׃** | El «misterio» mantiene juntas una dureza parcial, las naciones, el Redentor, los padres y los dones irrevocables.  |
 | #romanos_11_30-36 | **כי־האלהים הסגיר את־כלם למרי למען יחן את־כלם׃ ... הלא ממנו הכל ועל־ידו הכל ואליו הכל ולו הכבוד לעולמים אמן׃**                                                         | La misericordia desemboca en doxología; nadie puede reclamarla como mérito propio.                                 |
 
-## Romanos 11:1-10: no desechar, sino recordar el remanente
+## Romanos 11:1-10: no desechar, sino recordar el remanente #romanos_11_1-10
 
 Pablo abre con una pregunta que ya anticipa su respuesta: «¿Ha rechazado Elohim a su pueblo?»; responde **חלילה**, «de ninguna manera» (#romanos_11_1). Su propia procedencia israelita no es un detalle decorativo, sino la primera evidencia que ofrece. Después recurre a Elías y a los siete mil que no doblaron la rodilla ante Baal (#romanos_11_2-4). La inferencia de #romanos_11_5 es precisa: también en su tiempo existe un remanente conforme a la elección de gracia.
 
 Esto ordena una lectura responsable del resto del capítulo. No permite usar la incredulidad de algunos como argumento de reemplazo total, ni transforma el remanente en una razón para despreciar a la mayoría. Pablo contrapone gracia y obras en #romanos_11_6; la gracia nombra la iniciativa de Elohim, mientras el pasaje sigue tratando la incredulidad como una cuestión moral y comunitaria real.
 
-## Romanos 11:11-24: la analogía del olivo y la advertencia a las naciones
+## Romanos 11:11-24: la analogía del olivo y la advertencia a las naciones #romanos_11_11-24
 
 La primera clase acreditada pone la analogía del olivo en primer plano. El propio texto llega a ella después de otra negación: Israel no tropezó «para caer» definitivamente (#romanos_11_11). Pablo describe la salvación llegada a las naciones y la expectativa de provocar celo; no autoriza a las naciones a adjudicarse el lugar de juez sobre Israel.
 
@@ -70,7 +70,7 @@ Pablo añade que algunas ramas fueron desgajadas por incredulidad, mientras la r
 
 La clase acierta al detenerse en la dirección de la imagen: el injerto no convierte a la rama silvestre en propietaria del árbol. Eric formula esa advertencia como una corrección directa a la comparación étnica: que las naciones vean fruto entre ellas no les permite declararse mejores que Israel. Romanos 11 respalda el punto, porque la rama no sostiene a la raíz y la permanencia se presenta bajo una advertencia. El verbo griego **(ἐκκλάω)**, _ekklaō_, tiene el sentido ordinario de quebrar o desgajar; en #romanos_11_17-20 describe una acción judicial relacionada con la incredulidad, no una clasificación étnica permanente. Del mismo modo, **(ἀπιστία)**, _apistia_, significa incredulidad o falta de confianza; su fuerza aquí es la postura que explica el desgajamiento y contrasta con permanecer por la emunah. La relación pedagógica entre _apistia_ y «falta de fidelidad» ayuda a seguir el argumento, pero no autoriza a convertir cada rama en una categoría sociológica fija.
 
-## Romanos 11:25-32: el misterio, el Redentor de Tziyón y la misericordia
+## Romanos 11:25-32: el misterio, el Redentor de Tziyón y la misericordia #romanos_11_25-32
 
 El título de la segunda clase dirige la atención al «Redentor de Tziyón» de #romanos_11_26. Pablo llama a su afirmación un misterio para impedir que los lectores sean sabios en su propia opinión (#romanos_11_25). La dureza se describe como parcial y temporalmente relacionada con la entrada de la plenitud de las naciones. En seguida cita la venida del Redentor y el apartamiento de la impiedad de Jacob (#romanos_11_26-27).
 
@@ -108,7 +108,7 @@ En `youtube:bL-3YKdV0wo`, aproximadamente entre 00:00:12 y 00:00:45, Eric sostie
 
 La exposición también distingue sentidos históricos de «Israel» y los conecta con la esperanza final. Esa propuesta debe conservarse atribuida a Eric y no presentarse como si cada distinción estuviera explicitada por Romanos 11. El texto sí ofrece límites firmes: **(πώρωσις)**, _pōrōsis_, significa endurecimiento o insensibilidad; en 11:25 es parcial y está delimitado por «hasta que entre la plenitud de las naciones». **(πλήρωμα)**, _plērōma_, significa plenitud, totalidad o medida completa; aquí señala la entrada de las naciones dentro de la secuencia del misterio. Ambas glosas son **directas en el campo básico**, pero calcular fechas, cantidades o un mapa tribal a partir de ellas sería **ilegítimo**.
 
-## Romanos 11:25-36: misterio, misericordia y doxología
+## Romanos 11:25-36: misterio, misericordia y doxología #romanos_11_25-36
 
 El orden final impide convertir «todo Israel será salvo» en un lema aislado. Pablo primero prohíbe la autosuficiencia de las naciones, luego habla de endurecimiento parcial, plenitud, Redentor, pacto, enemigos por causa del evangelio, amados por causa de los padres y dones irrevocables (#romanos_11_25-29). **(ἀμεταμέλητος)**, _ametamelētos_, significa no sujeto a arrepentimiento o irrevocable; en 11:29 califica los dones y el llamamiento de Elohim. «Irrevocables» es **aproximado y contextual**: preserva la afirmación de Pablo sin permitir que separemos la promesa de las advertencias y de la misericordia que el capítulo mantiene juntas.
 

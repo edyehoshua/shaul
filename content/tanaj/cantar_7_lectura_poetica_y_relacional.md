@@ -68,8 +68,8 @@ Cantar 7 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 21) Cap 7» — https://www.youtube.com/watch?v=CvqQjg6BMPQ (`source_id: youtube:CvqQjg6BMPQ`).
-- «Shir hashirim (parte 22) Cap 7» — https://www.youtube.com/watch?v=K8lkR7T3FI0 (`source_id: youtube:K8lkR7T3FI0`).
-- «Shir hashirim (parte 23) cap 7final» — https://www.youtube.com/watch?v=rLSnlalekZI (`source_id: youtube:rLSnlalekZI`).
+- «Shir hashirim (parte 21) Cap 7» — https://www.youtube.com/watch?v=CvqQjg6BMPQ (`source_id`: youtube:CvqQjg6BMPQ`).
+- «Shir hashirim (parte 22) Cap 7» — https://www.youtube.com/watch?v=K8lkR7T3FI0 (`source_id`: youtube:K8lkR7T3FI0`).
+- «Shir hashirim (parte 23) cap 7final» — https://www.youtube.com/watch?v=rLSnlalekZI (`source_id`: youtube:rLSnlalekZI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

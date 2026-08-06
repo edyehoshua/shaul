@@ -215,7 +215,7 @@ Ese patrón ayuda a leer Irmeiahu 31 sin forzar una oposición entre interiorida
 - #tehilim_40_7-9 con #ivrim_10_5-7: Torah en las entrañas y cuerpo preparado describen obediencia encarnada.
 - #matityahu_5_18 con #irmeiahu_31_33: la Torah no cesa; יהוה la escribe donde puede producir una respuesta viva.
 
-## Control de dependencia: del llamado al señorío sobre el Shabbat (2:13-28)
+## Control de dependencia: del llamado al señorío sobre el Shabbat (2:13-28) #markos_2_13-28
 
 La autoridad que se revela en el perdón no queda encerrada en la casa de Kefar Najum. En 2:13-17, **ἠκολούθησεν**, _ēkolouthēsen_, «siguió», narra la respuesta de Levi después del imperativo **ἀκολούθει**, _akolouthei_, «sígueme». El movimiento confirma una dependencia importante: la misericordia que Yehoshua anuncia no es mera tolerancia de una condición anterior, sino una llamada que reordena la vida. Cuando los perushim preguntan por la mesa, **ἔλεος**, _eleos_, «misericordia o compasión», gobierna la respuesta; su relación con **(חסד)**, _jesed_, «bondad leal», es una equivalencia de campo y no una traducción oculta del griego.
 
@@ -223,7 +223,7 @@ La escena del novio limita además la lectura de «nuevo». En 2:19, **νυμφ�
 
 El último movimiento lleva la pregunta a la necesidad y al propósito del Shabbat. **ἔξεστιν**, _exestin_, «es lícito o está permitido», formula el problema de 2:24; Yehoshua responde con la memoria de David y concluye que el Shabbat fue hecho para el ser humano. **κύριός**, _kyrios_, «señor o dueño», califica al Hijo del Hombre respecto del Shabbat, mientras **ἐγένετο**, _egeneto_, «llegó a ser o fue hecho», señala el propósito de la ordenanza. La relación con **(שבת)**, _Shabbat_, «reposo», es contextual. Leído en orden, Marcos 2 no opone gracia y obediencia: muestra perdón que levanta, misericordia que llama y autoridad que discierne para la vida.
 
-## Control añadido: la autoridad se extiende sin romper la secuencia (2:1-28)
+## Control añadido: la autoridad se extiende sin romper la secuencia (2:1-28) #markos_2_1-28
 
 Marcos 2 debe leerse como un movimiento único. En 2:1-12, **ἀφίημι**, _aphiēmi_, «perdonar, remitir o dejar ir», aparece en la palabra dirigida al paralítico, y **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica la afirmación del Ben HaAdam en la tierra. La orden **ἔγειρε**, _egeire_, «levántate», no convierte el movimiento del hombre en pago por el perdón: la camilla visible confirma ante la multitud la palabra que los escribas cuestionaron. La comparación con **(סלח)**, _salaj_, «perdonar», es funcional y aproximada; el relato de Marcos gobierna la equivalencia.
 
@@ -260,7 +260,7 @@ La distinción de Eric entre palabra que Elohim sostiene y procedimientos que el
 - **#markos_2_5-12; partes 5 y 6 — Abba, Ben HaAdam y autoridad para reconciliar.** Eric retoma el perdón del paralítico mientras explica **(אב)**, **(אבא)** y **(בן האדם)** como lenguaje de origen, sabiduría y heredero. Marcos sostiene la autoridad visible del Ben HaAdam y la restauración; la ampliación semítica es pedagógica y no reemplaza la escena.
 - **#qorintiyim_alef_2_12-16; parte 7 — ruaj, mente y sabiduría de lo alto.** Eric enlaza el ruaj recibido con la mente del Mesías y llama Abba a la profundidad de esa sabiduría. La conexión se conserva como desarrollo apostólico relacionado; la equivalencia entre **(רוח)** y **(νοῦς)** se marca como aproximada y no como contenido explícito de Marcos 2.
 
-## Prueba del llamado: misericordia que busca teshuváh (2:13-17)
+## Prueba del llamado: misericordia que busca teshuváh (2:13-17) #markos_2_13-17
 
 La afirmación «no he venido a llamar a justos, sino a pecadores» necesita leerse junto con el movimiento de Levi. **καλεῖν**, _kalein_, «llamar o convocar», es un infinitivo dependiente de la declaración de Yehoshua; no significa simplemente tolerar a quienes permanecen sin cambio. El relato ya mostró **ἀκολούθει**, _akolouthei_, «sígueme», y **ἠκολούθησεν**, _ēkolouthēsen_, «siguió»: la mesa nace de una convocatoria que obtiene una respuesta visible.
 
@@ -278,7 +278,7 @@ El llamado de Levi desplaza la pregunta desde el cuerpo restaurado hacia la mesa
 
 Finalmente, las espigas y el Shabbat muestran que la autoridad del Ben HaAdam no es una licencia para despreciar todo mandamiento. **(ἐποίησεν)**, _epoiēsen_, «hizo», y **(ἐξέστησεν)**, _exestēsen_, «dejó asombrados», describen el efecto de la acción de Yehoshua, mientras la discusión gira alrededor de lo permitido y de la necesidad humana. El argumento de David y los panes consagrados prueba que la Escritura ya conoce casos en que la preservación de la vida y el propósito del culto importan para juzgar una aplicación. Marcos 2, leído en orden, presenta perdón, llamado, misericordia y discernimiento del Shabbat; no una abolición general de la Torah.
 
-## Control de la secuencia completa: perdón, mesa y Shabbat (2:1-28)
+## Control de la secuencia completa: perdón, mesa y Shabbat (2:1-28) #markos_2_1-28
 
 La segunda mitad del capítulo confirma que la autoridad anunciada al paralítico no elimina el llamado ni el discernimiento. En 2:13-17, **ἀκολούθει** (_akolouthei_, «sígueme») ordena a Levi una respuesta concreta; **κατακεῖσθαι** (_katakeisthai_, «estar reclinado») describe la mesa donde Yehoshua come con publicanos y pecadores; y **ἔλεος** (_eleos_, «misericordia») nombra, en la cita de Oseas, la prioridad que corrige una religiosidad sin compasión. La frase no contrapone misericordia y obediencia como enemigos: denuncia que el rito sea usado para evitar la restauración del pecador.
 
@@ -288,7 +288,7 @@ En 2:23-28, los discípulos arrancan espigas y los perushim cuestionan la acció
 
 Así, Marcos 2 avanza desde una palabra de perdón hacia una mesa que llama a pecadores, una discusión sobre ayuno y un discernimiento del Shabbat. La autoridad del Ben HaAdam no es una licencia para despreciar la instrucción, sino la autoridad que restaura, interpreta y dirige a la misericordia. Esta secuencia también limita las equivalencias semíticas: **חסד** (_jesed_, «bondad leal o misericordia») puede iluminar **ἔλεος**, pero no reemplaza la forma griega ni demuestra que cada aplicación de Eric sea una traducción literal.
 
-## Verificación dirigida: la autoridad del Ben HaAdam interpreta sin abolir (2:13-28)
+## Verificación dirigida: la autoridad del Ben HaAdam interpreta sin abolir (2:13-28) #markos_2_13-28
 
 La secuencia posterior prueba la afirmación de Eric con escenas distintas. En 2:13-17, Yehoshua vuelve a enseñar junto al mar, ve a Levi y le dice **(ἀκολούθει)**, _akolouthei_, «sígueme»; el presente imperativo presenta una respuesta continua, no solo un traslado físico. Levi se levanta y lo sigue, y la mesa con publicanos y pecadores provoca la pregunta de los escribas. La explicación **(οὐ χρείαν ἔχουσιν)**, _ou chreian echousin_, «no tienen necesidad», y **(μετανοήσωσιν)**, _metanoēsōsin_, «se arrepientan o cambien de mente», dirige la misión hacia quienes reconocen necesidad. La relación pedagógica con **(חסד)**, _jesed_, «bondad leal o misericordia», ilumina la cita profética, pero no convierte el griego en una retroversión hebrea.
 
@@ -312,7 +312,7 @@ Las fuentes públicas se mantienen separadas por función. `youtube:poyAzSdiTQU`
 
 El recorrido permanece en orden: (1) la fe de quienes acercan al paralítico y el perdón declarado; (2) la autoridad del Ben HaAdam verificada al levantarlo; (3) el llamado de Levi y la misericordia en la mesa; (4) el novio y los odres; y (5) David, las espigas y el señorío sobre el Shabbat. Jeremías 31:31-33 y los demás pasajes de apoyo explican la tesis de la Torah interior, pero no desplazan las perícopas ni permiten afirmar que Marcos 2 cite formalmente cada conexión.
 
-## Verificación dirigida: nombres, función y confesión mesiánica (2:1-28)
+## Verificación dirigida: nombres, función y confesión mesiánica (2:1-28) #markos_2_1-28
 
 <!-- prettier-ignore -->
 La parte 10 retoma Marcos 2 para explicar por qué «Hijo del Hombre» no debe reducirse a «un humano». Eric distingue tres voces hebreas que la clase emplea al recorrer la Escritura: **(אל)**, _El_, «Dios», presentado como nombre o componente nominativo en nombres como Yisrael e Yishmael; **(אלוה)**, _Eloah_, «Dios» como ser divino en sentido genérico, con concentración poética en Iyov y en cánticos; y **(אלהים)**, _Elohim_, «Dios» en su dimensión funcional y, según el contexto, quienes reciben un encargo o representan su autoridad. Las equivalencias son pedagógicas y no una regla para traducir cada ocurrencia: **אל** también puede funcionar como sustantivo común, **אלוה** no está limitado a poesía en todos los corpus, y **אלהים** exige número, sintaxis y contexto.

@@ -67,7 +67,7 @@ La clase cita el juego talmúdico sobre **(חרות)** / **(חרות)**: lo grab
 
 Eric insiste además en que «resumen» no es «supresión». Si las tablas comprimen la Torah, o si Hilel y Yehoshua concentran la intención en el prójimo, eso no autoriza dejar el resto al criterio subjetivo de cada uno. Esa línea prepara directamente #galatians_5_14: el amor no es un atajo que borra mandamientos, sino la meta hacia la cual se orientan.
 
-## Galatim 5:1-6: libertad del yugo, no libertad de los mandamientos
+## Galatim 5:1-6: libertad del yugo, no libertad de los mandamientos #galatians_5_1-6
 
 #galatians_5_1 abre con imperativo: permaneced en la libertad con que el Mesías nos liberó, y no volváis a someteros al yugo de esclavitud. Eric pregunta con fuerza: ¿libertad de los mandamientos de Elohim, o libertad de la esclavitud rabínica que vende salvación por obras y señales coercitivas? La clase rechaza la lectura cristiana común que oye aquí un adiós a la Torah. El texto nombra **חרות** y **על העבדות**, _ol ha-avdut_, «yugo de la esclavitud»; el contenido exacto del yugo se lee desde el conjunto de la carta: justificación por obras de ley, circuncisión impuesta a gentiles, y el régimen de subordinación ya denunciado. La observación de Eric es **contextual y atribuible**; no puede usarse para negar que Galatim combate también toda justicia por obras.
 
@@ -75,7 +75,7 @@ En #galatians_5_2-4 Shaul declara con su propia voz: si os circuncidáis, el Mes
 
 #galatians_5_5-6 añade: nosotros, por el Ruaj, aguardamos desde la emunah la esperanza de la justicia; en el Mesías ni la circuncisión ni la incircuncisión valen, sino la emunah que obra por el amor. **(πίστις δι᾽ ἀγάπης ἐνεργουμένη)** / **האמונה הפעלת באהבה**, _pistis di’ agapes energoumene_ / _ha-emunah ha-po’elet be-ahavah_, es «emunah que se pone en obra mediante amor». Eric acierta al impedir que la libertad se vuelva indiferencia ética: la emunah legítima se reconoce en el amor activo. «Fe que obra» es equivalencia **aproximada**; no debe leerse como mérito que compra justificación. La clase también oye en «esperanza de la justicia» no solo un estado forense presente, sino la corrección/consumación esperada; eso es **expansión pedagógica** útil si no borra la justificación ya anunciada en la carta.
 
-## Galatim 5:7-12: carrera estorbada, levadura y tropiezo de la cruz
+## Galatim 5:7-12: carrera estorbada, levadura y tropiezo de la cruz #galatians_5_7-12
 
 #galatians_5_7-10 pregunta quién estorbó una buena carrera para no obedecer a la verdad; el persuasor no viene del que llama; poca levadura fermenta toda la masa; Shaul confía en el Señor respecto de los gálatas y advierte que quien los turba llevará su juicio. Eric lee la «verdad» como la del evangelio: Elohim es Dios también de las naciones por el Mesías. El texto sostiene el vocabulario de carrera, estorbo y levadura; el relleno histórico con Akiva u opositores concretos del siglo I es **trasfondo de la clase** y queda pendiente de verificación puntual.
 
@@ -83,7 +83,7 @@ En #galatians_5_2-4 Shaul declara con su propia voz: si os circuncidáis, el Mes
 
 El tono de #galatians_5_12 es severo porque está en juego el tropiezo del crucificado. Eric lo lee como conflicto entre campaña pro-tradición y el anuncio de la cruz: si Shaul predicara aún la circuncisión, cesaría la persecución. El texto sostiene esa tensión.
 
-## Galatim 5:13-15: libertad que sirve y la Torah que se llena en el amor
+## Galatim 5:13-15: libertad que sirve y la Torah que se llena en el amor #galatians_5_13-15
 
 #galatians_5_13-14 es decisivo para Eric: a libertad fuisteis llamados; solamente que esa libertad no sea pretexto para la carne, sino servíos los unos a los otros por amor; porque toda la Torah se resume / se llena en la palabra: amarás a tu prójimo como a ti mismo. La clase advierte contra una lectura superficial del español «se cumple»: no basta imaginar un bien genérico y declarar cumplida toda la Torah. Eric propone que el amor es la meta o el umbral hacia el cual se orientan los mandamientos, de modo que la Torah se «llena» en esa dirección —como un vaso que alcanza su límite— y no se «suprime» en un solo click ético.
 
@@ -91,7 +91,7 @@ El tono de #galatians_5_12 es severo porque está en juego el tropiezo del cruci
 
 #galatians_5_15 advierte: si os mordéis y os devoráis, mirad no os consumáis unos a otros. La libertad sin amor deviene canibalismo comunitario. Esa observación de la clase tiene apoyo textual directo.
 
-## Galatim 5:16-26: andar en el Ruaj, obras de la carne y fruto
+## Galatim 5:16-26: andar en el Ruaj, obras de la carne y fruto #galatians_5_16-26
 
 #galatians_5_16-18 manda andar en el Ruaj y no satisfacer el deseo de la carne. Carne y Ruaj se oponen; por eso no hacéis lo que queréis. Si sois conducidos por el Ruaj, no estáis bajo la Torah. Eric rechaza entender «andar en el Ruaj» como flotar en un espiritualismo desencarnado de oraciones perpetuas: se trata de caminar con la promesa, con la mente del Mesías y con una vida coherente. **(περιπατέω)** / **התהלכו**, _peripateo_ / _hithaleju_, es «andar, conducirse». Exacta como metáfora de conducta.
 

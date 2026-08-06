@@ -155,7 +155,7 @@ Por último, **לא מאסתים ולא געלתים**, _lo ma'astim velo ge'alt
 
 Vaikra 26 enseña a andar en lo que יהוה fija y a hacer lo que manda, promete una tierra completa bajo su morada, y no esconde la disciplina del rechazo. Su última palabra no es el abandono: es la memoria del pacto con los padres, del éxodo y de la tierra. Los _juqot_ de este capítulo, leídos con Eric, empujan a no olvidar de quién se es pueblo incluso cuando la corrección es séptuple. La fidelidad de יהוה sostiene tanto el fruto de la obediencia como la esperanza dentro del juicio.
 
-## El final interpreta la disciplina sin borrar la confesión — Vaikra 26:40-46
+## El final interpreta la disciplina sin borrar la confesión — Vaikra 26:40-46 #vaikra_26_40-46
 
 El giro final no presenta una salida sentimental del capítulo, sino una secuencia textual: «confesarán su iniquidad», aceptarán la humillación de un corazón incircunciso, y יהוה recordará su pacto. OE dice: **והתודו את עונם ואת עון אבתם במעלם אשר מעלו בי ואף אשר הלכו עמי בקרי**; TTH: «confesarán su iniquidad y la iniquidad de sus padres, por su infidelidad con que me fueron infieles y aun por haber andado conmigo con indiferencia». La restauración no se funda en negar el juicio, sino en reconocer la ruptura dentro de la relación pactal.
 

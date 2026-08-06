@@ -47,5 +47,5 @@ Shemot 35 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayaqhel-Pequdey (2017): Jojmáh, Tvunáh y Dá'at y el tabernáculo](https://www.youtube.com/watch?v=bbbEFpR39a8) (source_id: `youtube:bbbEFpR39a8`).
+- [Parashat Vayaqhel-Pequdey (2017): Jojmáh, Tvunáh y Dá'at y el tabernáculo](https://www.youtube.com/watch?v=bbbEFpR39a8) (`source_id`: `youtube:bbbEFpR39a8`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

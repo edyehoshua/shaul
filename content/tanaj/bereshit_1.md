@@ -41,7 +41,7 @@ Esta nota sigue Bereshit 1:1-31 en orden textual. El TTH local traduce 1:1: «Co
 | #bereshit_1_26-28 | **נעשה אדם בצלמנו כדמותנו**                                                                                     | El ser humano recibe imagen, semejanza y responsabilidad de gobernar.                   |
 | #bereshit_1_29-31 | «Toda planta que da semilla... os será para comer»; «era bueno en gran manera».                                 | El don de alimento y la valoración final cierran la secuencia.                          |
 
-## Del principio a la creación ordenada — 1:1-25
+## Del principio a la creación ordenada — 1:1-25 #bereshit_1_1-25
 
 Eric observa que **ראשית** no debe tratarse como una palabra decorativa: señala prioridad y primicia. La observación está bien orientada si “prioridad” significa que todo el relato comienza bajo la iniciativa de Elohim. Sin embargo, la forma **(בראשית)** (_bereshit_) puede traducirse funcionalmente como «en el principio» o, según la decisión interpretativa reflejada por TTH, «con lo primero». Su equivalencia con «primicias» es **aproximada y pedagógica**, no una identidad gramatical automática con todos los textos de ofrendas.
 
@@ -49,7 +49,7 @@ El verso 1 nombra **(אלהים)** (_Elohim_) como sujeto de **(ברא)** (_bara
 
 La fórmula «y dijo Elohim» se repite desde 1:3. Luz, expansión, tierra seca, lumbreras y criaturas no aparecen como dioses rivales ni como extensiones independientes de una divinidad impersonal. En cada unidad, separación y bendición hacen visible un orden: día y noche, aguas y tierra, especies según sus tipos. Esta progresión respalda la observación de Eric sobre la plenitud recibida del Creador, pero el texto mismo debe gobernar la aplicación: no dice que cada atributo abstracto de Elohim haya sido introducido literalmente en una sustancia llamada _reshit_.
 
-## Imagen, dominio y bendición — 1:26-31
+## Imagen, dominio y bendición — 1:26-31 #bereshit_1_26-31
 
 Al llegar al sexto día, el relato cambia de registro: «Hagamos al ser humano a nuestra imagen, conforme a nuestra semejanza». **(צלם)** (_tselem_) significa imagen, figura o representación; **(דמות)** (_demut_) significa semejanza o similitud. En 1:26 su fuerza contextual es describir la dignidad y función representativa del ser humano ante la creación. «Imagen» no equivale exactamente a «atributos divinos contenidos en el cuerpo»; en esta nota la relación con la enseñanza de Eric se marca como **pedagógica** y se mantiene subordinada al mandato textual de gobernar y cuidar.
 

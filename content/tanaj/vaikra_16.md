@@ -776,7 +776,7 @@ La forma **(כפר)**, _kafar_, tiene como sentido normal cubrir y, en la constr
 
 La secuencia final conserva además a toda la asamblea: «desde el nativo hasta el extranjero que reside en medio de ustedes». Esta inclusión no borra la mediación de Aharón ni convierte el rito en una práctica espontánea. El sacerdote entra, rocía, confiesa y sale; los servidores lavan sus vestidos y el pueblo se humilla. La observación de Eric sobre una obra completa queda mejor evaluada así: sangre, remoción, purificación, lavado y reposo pertenecen a un mismo día, pero cada acción mantiene su sujeto, momento y función. La unidad del rito se demuestra conservando sus diferencias.
 
-## Reparación focal: la asamblea y el extranjero quedan dentro del estatuto — Vaikra 16:29-34
+## Reparación focal: la asamblea y el extranjero quedan dentro del estatuto — Vaikra 16:29-34 #vaikra_16_29-34
 
 La observación de Eric sobre una reconciliación que alcanza la vida debe incluir a quienes no realizan el rito sacerdotal. OE dice **והיתה לכם לחקת עולם בחדש השביעי בעשור לחדש תענו את נפשתיכם וכל מלאכה לא תעשו האזרח והגר הגר בתוככם**; TTH conserva que tanto el nativo como el extranjero que reside en medio de Israel deben afligir sus _nefesh_ y cesar del trabajo (#vaikra_16_29). **(אזרח)**, _ezraj_, significa nativo o natural del país; **(גר)**, _ger_, significa residente extranjero o forastero establecido. Su fuerza contextual es ampliar la obligación comunitaria del día, no borrar la diferencia entre sacerdote, pueblo y residente.
 

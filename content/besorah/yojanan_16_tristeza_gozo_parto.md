@@ -94,5 +94,5 @@ La promesa de #iojanan_16_20-22 no banaliza el dolor de los discípulos: lo anti
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=FTH6tIAoNq0> — source_id: `youtube:FTH6tIAoNq0`.
+- Video: <https://www.youtube.com/watch?v=FTH6tIAoNq0> — `source_id`: `youtube:FTH6tIAoNq0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

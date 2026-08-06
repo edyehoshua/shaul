@@ -56,6 +56,6 @@ Jueces 11 llama a recordar con precisión antes de reclamar posesión, y a recon
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Juqat (2018): YHWH el juez de Yisra'el.](https://www.youtube.com/watch?v=aS47zjh67Kw) — source_id: `youtube:aS47zjh67Kw`.
+- Video: [Haftaráh de Juqat (2018): YHWH el juez de Yisra'el.](https://www.youtube.com/watch?v=aS47zjh67Kw) — `source_id`: `youtube:aS47zjh67Kw`.
 - Texto bíblico local: Jueces 11 en el índice OE (`docs/scriptures/oe/json/judges/11.json`).
 - Esta nota organiza la enseñanza pública y la contrasta con el texto bíblico local; no presenta una transcripción automática como cita literal.

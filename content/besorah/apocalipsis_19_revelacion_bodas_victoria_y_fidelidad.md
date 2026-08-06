@@ -46,7 +46,7 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza e
 | #revelation_19_11-16 | **והנה סוס לבן והרכב עליו יקרא לו נאמן ואמתי ובצדק הוא שפט ולחם** … **מלך המלכים ואדני האדנים** | El jinete aparece como fiel y verdadero; su palabra, juicio y título real concentran la escena de victoria. |
 | #revelation_19_17-21 | **באו והאספו על זבח הגדול אשר לאלהים** … **והעוף שבעו מבשרם** | La convocatoria de las aves y la derrota de la bestia cierran el conflicto mediante imágenes de juicio. |
 
-## La alabanza que responde al juicio: 19:1-6
+## La alabanza que responde al juicio: 19:1-6 #revelation_19_1-6
 
 El capítulo no empieza con la llegada del jinete, sino con una voz colectiva que interpreta lo ocurrido: «aleluya», salvación, gloria y poder pertenecen a Elohim (#revelation_19_1). Eric retoma el capítulo 18 y sostiene que la gran ciudad representa una forma apóstata que ha corrompido a la tierra; en su explicación la mujer y la bestia no son imágenes intercambiables: la mujer es una nación o comunidad que se ha prostituido, mientras la bestia es el sistema apóstata que la sostiene y finalmente la destruye. Esa arquitectura de la enseñanza se conserva como propuesta interpretativa, no como definición que Apocalipsis 19 explique por sí sola.
 
@@ -54,7 +54,7 @@ Los versículos 2-5 justifican la alabanza con dos afirmaciones: los juicios son
 
 En el versículo 6, la multitud proclama que reina «nuestro Elohim יהוה de los ejércitos». La palabra griega **(Ἀλληλούϊα)** (*allēlouia*) es una transliteración de una exhortación hebrea, normalmente entendida como «alaben a יה»; no es sólo una interjección emocional. **(ἐβασίλευσεν)** (*ebasileusen*, «reinó» o «ha comenzado a reinar») expresa la acción de reinar en este anuncio, aunque su aspecto temporal debe evaluarse junto con el contexto apocalíptico. La clase usa este reinado para leer el capítulo como culminación de la derrota de la apostasía, no como celebración de poder humano.
 
-## La esposa, el vestido y el testimonio: 19:7-10
+## La esposa, el vestido y el testimonio: 19:7-10 #revelation_19_7-10
 
 El orden cambia de la caída de la ciudad a la preparación de la esposa: «ha llegado la boda del Cordero y su esposa se ha preparado» (#revelation_19_7). Eric identifica a la esposa con Filadelfia, no con la iglesia tomada indiscriminadamente, ni con el judaísmo como bloque, ni con todas las naciones. Su formulación concreta es un remanente fiel a Yehoshua y a la Torá, reunido dondequiera que se encuentre. La nota mantiene esa observación atribuida y la contrasta con el texto: el pasaje habla de una esposa preparada, pero no nombra aquí a Filadelfia. La identificación depende de la lectura canónica de los capítulos anteriores y queda como inferencia.
 
@@ -62,7 +62,7 @@ El lino fino, limpio y resplandeciente es explicado como «las justicias de los 
 
 El ángel declara bienaventurados a los llamados a la cena y afirma que esas palabras son verdaderas de Elohim (#revelation_19_9). Cuando Yojanan intenta postrarse ante el mensajero, éste lo detiene: es consiervo, y el mandato es adorar a Elohim (#revelation_19_10). Eric usa el cierre para insistir en que ninguna figura, institución o mensajero sustituye al Dios que está en el trono. La razón final es decisiva: «el testimonio de Yehoshua es el espíritu de la profecía». **(μαρτυρία)** (*martyria*) significa testimonio, declaración que da cuenta de algo; **(πνεῦμα)** (*pneuma*) puede significar espíritu, aliento o disposición según el contexto. La frase enlaza la profecía con el testimonio acerca de Yehoshua, pero no autoriza a atribuir inspiración automática a toda afirmación profética contemporánea.
 
-## El jinete fiel y la palabra que juzga: 19:11-16
+## El jinete fiel y la palabra que juzga: 19:11-16 #revelation_19_11-16
 
 Los cielos se abren y aparece un caballo blanco. El jinete se llama Fiel y Verdadero, juzga y combate con justicia (#revelation_19_11). Eric contrasta este caballo con la lectura que había dado de los caballos de los sellos y lo presenta como la manifestación victoriosa del Mesías, no como una conquista humana. El pasaje sostiene los nombres y la justicia del juicio; las correspondencias históricas con imperios anteriores deben permanecer abiertas a cotejo.
 
@@ -80,7 +80,7 @@ Después, #revelation_19_11-16 presenta al jinete antes de narrar el combate. Su
 
 El vínculo entre #revelation_19_9-10 y #revelation_19_11-16 también corrige una lectura centrada solo en símbolos. El ángel no acepta adoración y dirige a Yojanan hacia Elohim; el jinete no vence mediante una institución intermediaria, sino por la autoridad que el texto atribuye a su palabra. Eric insiste en que el «testimonio de Yehoshua» debe producir una profecía orientada a Elohim y una vida que no se someta a la bestia. El texto respalda el mandato de adorar a Elohim, la unión entre testimonio y espíritu de profecía y el juicio del jinete. No establece, sin embargo, una lista de movimientos modernos que deban identificarse automáticamente con la bestia o el falso profeta. Por eso la nota conserva la exhortación al discernimiento y deja bajo verificación sus aplicaciones históricas concretas.
 
-## La cena de juicio y el final de la bestia: 19:17-21
+## La cena de juicio y el final de la bestia: 19:17-21 #revelation_19_17-21
 
 Un ángel convoca a las aves a la gran cena de Elohim (#revelation_19_17-18). Eric explica que las aves pueden representar a las naciones en la literatura bíblica y que la escena invierte la cena de las bodas: la esposa participa de la celebración, mientras los cuerpos de los reyes y de quienes siguieron a la bestia quedan expuestos. La imagen puede dialogar con otros textos proféticos, pero la identificación de «las aves» con todas las naciones requiere verificar cada paralelo y no debe convertirse en una regla léxica.
 

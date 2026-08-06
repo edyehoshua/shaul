@@ -52,7 +52,7 @@ La nota recorre los diecinueve versos en orden con el texto hebreo OE local sin 
 | #tehilim_116_12-16 | **מה אשיב ליהוה כל תגמולוהי עלי / כוס ישועות אשא ובשם יהוה אקרא / נדרי ליהוה אשלם נגדה נא לכל עמו / יקר בעיני יהוה המותה לחסידיו / אנה יהוה כי אני עבדך אני עבדך בן אמתך פתחת למוסרי** | La respuesta a los beneficios es invocar, cumplir votos y confesarse siervo liberado. |
 | #tehilim_116_17-19 | **לך אזבח זבח תודה ובשם יהוה אקרא / נדרי ליהוה אשלם נגדה נא לכל עמו / בחצרות בית יהוה בתוככי ירושלם הללו יה** | Sacrificio de acción de gracias, votos pagados y alabanza pública en la asamblea. |
 
-## Tehilim 116:1-4: amar, escuchar y suplicar
+## Tehilim 116:1-4: amar, escuchar y suplicar #tehilim_116_1-4
 
 Eric llama la atención sobre la construcción de **אהבתי** (_ahavti_, «he amado» o «amo») seguida de «porque יהוה escucha mi voz». Advierte que una traducción causal puede sonar como si el amor dependiera de recibir una respuesta. La forma hebrea es un verbo de estado ya iniciado o afirmado; el salmo sí vincula amor y escucha, pero no obliga a convertirlo en un futuro progresivo. La paráfrasis de la clase —«seguiré ejerciendo el amor y por eso se escuchará»— es una aplicación teológica de continuidad, no una traducción exacta.
 
@@ -60,7 +60,7 @@ En **תחנוני**, _tajanunai_, «mis súplicas de gracia», Eric ve una petic
 
 Los vv. 3-4 no prometen que obedecer eliminará el sufrimiento: las cuerdas de la muerte, las estrecheces del Seol, la angustia y el dolor rodean al orante. Eric aplica este bloque a la misión del Mesías y recuerda que hacer la voluntad divina puede llevar a aflicción. El vocabulario de cuerdas y angustia sostiene directamente la gravedad de la escena; identificar al hablante con Yehoshua es una lectura mesiánica y tipológica, no una identificación explícita del encabezamiento ausente.
 
-## Tehilim 116:5-8: misericordia, sencillez y regreso al reposo
+## Tehilim 116:5-8: misericordia, sencillez y regreso al reposo #tehilim_116_5-8
 
 El verso 5 declara que יהוה es **חנון** (_janun_, lleno de gracia), justo y compasivo. Eric mantiene juntas gracia, justicia y misericordia para impedir una lectura de la respuesta divina como favoritismo caprichoso. En el v. 6, **פתאים** (_petayim_) nombra a los sencillos o ingenuos, personas vulnerables a la persuasión. La clase destaca que יהוה guarda precisamente a quienes no pueden presumir de sus propias facultades. El sentido normal admite ingenuidad o falta de discernimiento; aplicar el verso a toda persona débil de una comunidad es pastoral, pero compatible con la imagen de protección.
 
@@ -68,13 +68,13 @@ El verso 5 declara que יהוה es **חנון** (_janun_, lleno de gracia), just
 
 La orden **שובי נפשי למנוחיכי**, «vuelve, alma mía, a tus reposos», es leída por Eric como regreso al reposo del reino y como imagen de resurrección. **מנוחה** (_menujah_) significa descanso, reposo o lugar de tranquilidad; Hebreos 4 usa el campo del reposo de modo relacionado, pero no prueba por sí solo que cada aparición hebrea signifique vida eterna. La clase conecta este verso con la resurrección de Yehoshua, Tehilim 16:8-11 y la autoridad del Mesías sobre su vida. Es una lectura mesiánica pedagógica; el salmo afirma primero que יהוה ha tratado bien al orante y lo ha librado de muerte, lágrimas y tropiezo.
 
-## Tehilim 116:9-11: caminar y hablar bajo aflicción
+## Tehilim 116:9-11: caminar y hablar bajo aflicción #tehilim_116_9-11
 
 «Caminaré delante de יהוה en las tierras de los vivientes» conserva una orientación pública de vida. Eric entiende la «tierra de los vivientes» como el cielo o la esfera de vida, apoyándose en el desarrollo mesiánico de la clase. El hebreo **ארצות החיים** (_artsot hajayim_) puede describir la tierra de los vivientes frente al dominio de la muerte; la identificación inmediata con el cielo es aproximada y debe cotejarse con el contexto.
 
 El v. 10 conecta fe y habla: «creí, por eso hablé», aunque la aflicción fue grande. Eric enlaza esta forma con 2 Corintios 4:13, donde la fe recibida produce proclamación aun bajo entrega a muerte. La conexión apostólica es explícita en ese texto y sirve como interpretación de la dinámica del salmo; no convierte la frase en una promesa de que todo discurso producirá alivio inmediato. El v. 11 conserva el momento de precipitación: «todo hombre es mentira». La clase lo aplica a la decepción con la fragilidad humana, pero el orante vuelve a hablar desde la fe en vez de edificar sobre la seguridad de los hombres.
 
-## Tehilim 116:12-16: qué devolver y a quién pertenece el siervo
+## Tehilim 116:12-16: qué devolver y a quién pertenece el siervo #tehilim_116_12-16
 
 La pregunta «¿qué devolveré a יהוה por todos sus beneficios sobre mí?» no puede significar pagar una deuda equivalente. Eric insiste en que la respuesta no es una transacción: levantar la copa de salvaciones, invocar el nombre y cumplir votos son formas de confesar lo que יהוה ha hecho. **גמול** (_gemul_) significa trato, retribución o beneficio recibido; la relación con «devolver» es aproximada porque el salmo pregunta por una respuesta agradecida, no por una devolución capaz de igualar la gracia.
 
@@ -84,7 +84,7 @@ El v. 15 afirma que es preciosa a los ojos de יהוה la muerte de sus piadosos
 
 «Soy tu siervo, hijo de tu sierva» lleva a Eric hacia Miriam, la Jerusalén de arriba y la herencia celestial. Gramaticalmente el orante se identifica como siervo liberado de sus ataduras; la filiación de la sierva no identifica por sí sola a Miriam. La relación mesiánica es una lectura tipológica que la clase desarrolla a partir de otros pasajes, no una equivalencia exacta del pronombre del salmo.
 
-## Tehilim 116:17-19: acción de gracias ante el pueblo
+## Tehilim 116:17-19: acción de gracias ante el pueblo #tehilim_116_17-19
 
 El final repite los votos y los sitúa «en medio de todo su pueblo», en los atrios de la casa de יהוה y dentro de Jerusalén. Eric subraya que la fidelidad no debe quedarse en palabras privadas: primero se exhibe en obediencia y luego se comunica. Esa observación se apoya en la progresión del salmo desde súplica hasta sacrificio de acción de gracias y alabanza pública.
 

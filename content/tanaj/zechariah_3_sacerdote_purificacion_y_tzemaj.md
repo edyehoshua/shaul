@@ -8,8 +8,6 @@ sources:
   - "https://www.youtube.com/watch?v=_E9RcYtZifA"
   - "docs/scriptures/oe/json/zechariah/3.json"
 source_ids: ["youtube:_E9RcYtZifA"]
----
-
 ## Tesis
 
 #zechariah_3 presenta la purificación de Yehoshúa el sumo sacerdote y la promesa del siervo llamado Tzémaj, en un marco de restauración posterior al exilio.
@@ -35,4 +33,4 @@ La visión mantiene juntas santidad, servicio y esperanza: יהוה limpia a sus
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Miqetz en Shabat Janukáh (2017) El sumo sacerdote Yehoshúa', el Tzémaj](https://www.youtube.com/watch?v=_E9RcYtZifA) — (source_id: `youtube:_E9RcYtZifA`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Miqetz en Shabat Janukáh (2017) El sumo sacerdote Yehoshúa', el Tzémaj](https://www.youtube.com/watch?v=_E9RcYtZifA) — (`source_id`: `youtube:_E9RcYtZifA`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

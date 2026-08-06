@@ -45,10 +45,11 @@ references:
   - "#iejezkel_36_22"
 sources:
   - "https://youtu.be/8geNmTcW6ZI?si=CfFScYVQEf-T7cK3"
-  - "private/sources/youtube_8geNmTcW6ZI_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/psalms/118.json"
+source_ids:
+  - "youtube:8geNmTcW6ZI"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -294,3 +295,9 @@ La clase lee Yojanán 10 como una revelación concentrada de identidad y acceso.
 - [Yojanán 5: el Hijo, juicio y vida](./yojanan_5_hijo_juicio_vida.md)
 - [Elohim y Aba](../temas/elohim_aba.md)
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=8geNmTcW6ZI) (`source_id`: `youtube:8geNmTcW6ZI`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

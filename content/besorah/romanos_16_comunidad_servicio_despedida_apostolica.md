@@ -47,13 +47,13 @@ Esta nota organiza la sesión final de la serie del hermano Eric de Jesús Rodr�
 | #romanos_16_21-23 | **Timoteos, mi compañero de obra... Yo, Tértios, el que escribe esta carta... Gayos, hospedador mío y de toda la congregación...** | Visibiliza la cooperación detrás de la carta y la hospitalidad congregacional. |
 | #romanos_16_25-27 | **...conforme la revelación del misterio... dado a conocer a todos los gentiles para la obediencia a la emunah...** | La doxología vuelve de los saludos al propósito de la Besorah. |
 
-## 16:1-2: Foibe, sierva y ayudadora
+## 16:1-2: Foibe, sierva y ayudadora #romanos_16_1-2
 
 Eric comienza comparando la traducción «diaconisa» con el sentido básico de sierva. Su argumento es que #romanos_16_1 reconoce servicio real, pero que el sustantivo no basta para atribuir automáticamente autoridad sobre una congregación. El TTH local llama a Foibe «sierva de la congregación» y el Delitzsch usa **משמשת**, una forma de servicio. El dato seguro es que Pablo la recomienda, pide que la reciban de manera digna y ordena sostenerla en lo que necesite.
 
 La clase amplía esta distinción hacia una doctrina sobre enseñanza y autoridad de mujeres. Esa conclusión no se deriva de Romanos 16:1-2 por sí sola y debe probarse con los otros pasajes que Eric menciona sin desarrollar aquí. Tampoco puede borrarse el reconocimiento concreto de Foibe: fue ayuda de muchos y de Pablo mismo, y parece ser enviada o recomendada ante la comunidad romana. La nota conserva ambas fronteras: «sierva» no define por sí sola un cargo posterior, pero tampoco reduce su labor a una presencia decorativa.
 
-## 16:3-16: una comunidad que arriesga, trabaja y pregunta por el shalom
+## 16:3-16: una comunidad que arriesga, trabaja y pregunta por el shalom #romanos_16_3-16
 
 Prisca y Aquilas son compañeros de obra que pusieron sus cuellos por la vida de Pablo y alojan una congregación en casa (#romanos_16_3-5). Eric relaciona «poner el cuello» con una entrega total y con la imagen del sacrificio. El texto sostiene directamente el riesgo asumido; la asociación cultual es pedagógica. Después, Miriam, Trifena, Trifosa y Pérsida aparecen como mujeres que han trabajado mucho. La clase las presenta como ejemplos de servicio diligente. Pablo confirma el trabajo, aunque no detalla cada tarea ni permite derivar de esos verbos una teoría completa de roles por sexo.
 
@@ -61,13 +61,13 @@ Sobre Andrónicos e Iunías (#romanos_16_7), Eric destaca que son parientes de P
 
 El saludo culmina en preguntar por el shalom «un hombre a su compañero» (#romanos_16_16). Eric lo entiende como interés activo por deudas, dificultades y estrecheces, no como una fórmula vacía. Esa aplicación armoniza con la larga lista: Pablo recuerda personas, casas, riesgos y trabajos. La afirmación de la clase de que el «beso santo» no es literal debe tratarse como interpretación cultural, porque el versículo sí nombra el beso y esta sesión no ofrece evidencia histórica suficiente para negar toda práctica concreta.
 
-## 16:17-20: observar división, engaño e intención
+## 16:17-20: observar división, engaño e intención #romanos_16_17-20
 
 La transición del saludo a la amonestación es deliberada. Pablo manda observar a quienes crean divisiones y tropiezos contra la enseñanza aprendida, y apartarse de ellos. Eric insiste en examinar sus intenciones y no dejarse persuadir solo por palabras agradables o bendiciones. El texto apoya esa prueba al describir servicio al propio vientre y engaño de los ingenuos (#romanos_16_18).
 
 La clase aplica esta advertencia a maestros que buscan dinero, renombre o satisfacción propia. «Vientre» permite reconocer interés propio, pero enumerar motivaciones particulares exige observar obras reales, no adivinarlas. Pablo une discernimiento con obediencia, sabiduría para el bien e inocencia para el mal. La victoria final pertenece al Elohim de shalom, quien aplastará a Ha’satán bajo los pies de la comunidad; no es una licencia para violencia personal.
 
-## 16:21-27: escribir, hospedar y obedecer la emunah
+## 16:21-27: escribir, hospedar y obedecer la emunah #romanos_16_21-27
 
 Los últimos saludos muestran labores distintas. Timoteos es compañero de obra; Tértios se identifica como escribiente; Gayos hospeda a Pablo y a toda la congregación; Erastos y Cuartos también son nombrados. Eric elogia especialmente la hospitalidad de Gayos. La clase propone además que Luquios podría ser Lucas por similitud gráfica y contexto de viaje, pero Romanos no hace esa identificación y debe mantenerse pendiente.
 

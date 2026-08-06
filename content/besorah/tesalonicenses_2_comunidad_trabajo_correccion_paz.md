@@ -149,6 +149,6 @@ El cierre conserva el límite de toda disciplina. **(ἐχθρός)**, _echthros
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=dzO6pl2v_Wc> — source_id: `youtube:dzO6pl2v_Wc`.
-- Video: <https://www.youtube.com/watch?v=oLkAGU5jFxs> — source_id: `youtube:oLkAGU5jFxs`.
+- Video: <https://www.youtube.com/watch?v=dzO6pl2v_Wc> — `source_id`: `youtube:dzO6pl2v_Wc`.
+- Video: <https://www.youtube.com/watch?v=oLkAGU5jFxs> — `source_id`: `youtube:oLkAGU5jFxs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

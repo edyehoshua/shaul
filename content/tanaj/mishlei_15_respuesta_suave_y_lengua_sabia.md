@@ -42,7 +42,7 @@ Esta nota organiza la clase pública «PROVERBIOS | La MENTE y LENGUA del SANADO
 | #mishlei_15_3-4 | «En todo lugar están los ojos de יהוה…» / «La lengua sanadora es el árbol de la vida…» | La palabra se evalúa bajo la mirada de יהוה y puede traer vida o rotura. |
 | #mishlei_15_5-7 | «El tonto desprecia la disciplina de su padre…» / «Los labios de los sabios esparcen conocimiento…» | La disciplina recibida explica la diferencia entre labios sabios y corazón indisciplinado. |
 
-## La respuesta suave y el ardor que vuelve (15:1)
+## La respuesta suave y el ardor que vuelve (15:1) #mishlei_15_1
 
 La clase empieza con la respuesta suave como algo «suave, tierno, delicado» y humilde. La exposición relaciona el verbo «hará volver» con el retorno del ardor y lee el versículo principalmente en el marco de la relación con Elohim, no solamente como un consejo para evitar discusiones entre personas. Esa prioridad es importante: la mansedumbre no se presenta como una maniobra para controlar al prójimo, sino como sumisión delante de יהוה.
 
@@ -50,7 +50,7 @@ Eric explica **חמה**, _jemá_, como calor o ardor, y relaciona ese lenguaje c
 
 La clase aplica después el principio a Israel, a las naciones y a la vida diaria. Una persona que baja la cabeza, reconoce su error y escucha la reprensión se coloca en una postura distinta a la del hijo respondón. La aplicación interpersonal es pedagógica y coherente con el contraste del proverbio, pero el texto no promete que toda respuesta suave resolverá automáticamente cada conflicto.
 
-## De la lengua del sabio al conocimiento vivido (15:2, 7)
+## De la lengua del sabio al conocimiento vivido (15:2, 7) #mishlei_15_2
 
 El versículo 2 continúa el hilo: los sabios son aquellos que han escuchado la disciplina de יהוה, y su lengua «hace bien al conocimiento». Eric relaciona **חכמים**, _jajamim_, con quienes responden suavemente y reciben corrección. El conocimiento no se reduce a información intelectual: la exposición lo describe como temor de יהוה, obediencia y experiencia de caminar con Él. Por eso la lengua del sabio no solo repite conceptos; comparte lo que ha aprendido en una vida sometida.
 
@@ -58,7 +58,7 @@ El versículo 7 vuelve a los labios que esparcen conocimiento y al corazón que 
 
 La imagen de la lengua sanadora como árbol de vida en el versículo 4 da dirección a la aplicación. Una enseñanza fiel puede fortalecer, mientras la perversidad rompe el espíritu. «Sanadora» no es una promesa médica automática; en el contexto de Mishlei describe el efecto vivificante de una palabra recta y oportuna. La sabiduría se oye en la boca, pero se forma mediante la disciplina que el corazón acepta.
 
-## La mirada de יהוה y la disciplina del corazón (15:3-6)
+## La mirada de יהוה y la disciplina del corazón (15:3-6) #mishlei_15_3-6
 
 Entre la lengua y sus efectos, Mishlei coloca los ojos de יהוה. El versículo 3 impide imaginar que la conversación religiosa se evalúa solamente por su apariencia pública. יהוה vigila a malos y buenos; la palabra, la oración y la conducta quedan expuestas delante de Él. El versículo 5 añade que el tonto desprecia la disciplina de su padre, mientras que quien guarda la reprensión es astuto. La sabiduría de la lengua nace, entonces, de un corazón dispuesto a ser corregido.
 

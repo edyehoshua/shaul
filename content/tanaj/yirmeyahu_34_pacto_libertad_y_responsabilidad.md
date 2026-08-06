@@ -32,5 +32,5 @@ Quien recuerda la liberación de יהוה debe tratar con justicia a quien depen
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Mishpatim Yirmeyahu/Jeremias 34:8-22, 33:25-26](https://www.youtube.com/watch?v=rRX7vcg6y4k) — source_id: `youtube:rRX7vcg6y4k`.
+- Video: [Haftaráh de Mishpatim Yirmeyahu/Jeremias 34:8-22, 33:25-26](https://www.youtube.com/watch?v=rRX7vcg6y4k) — `source_id`: `youtube:rRX7vcg6y4k`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

@@ -32,12 +32,13 @@ references:
   - "#iojanan_6_44"
 sources:
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
-  - "private/sources/youtube_csFssLdcLsE_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/psalms/82.json"
   - "docs/scriptures/oe/json/genesis/3.json"
+source_ids:
+  - "youtube:csFssLdcLsE"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -191,3 +192,9 @@ La unidad entre Yeshúa y Abba se muestra en la custodia de las ovejas, en las o
 - [[romanim_10|Romanim 10: la emunah es por el oír]]
 - [[../temas/elohim_aba|Elohim y Aba como amor manifiesto y fuente]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, Bar Enash y el Hijo de Elohim]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=csFssLdcLsE) (`source_id`: `youtube:csFssLdcLsE`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

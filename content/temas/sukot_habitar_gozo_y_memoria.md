@@ -59,10 +59,10 @@ El mandato dirige la mirada hacia la vulnerabilidad de la salida y hacia la prov
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Conversatorio de Sukot (2017) - 5778](https://www.youtube.com/watch?v=mZGpW3lwf4Y) — (source_id: `youtube:mZGpW3lwf4Y`).
-- [Especial Sukot 2019](https://www.youtube.com/watch?v=xwuvQhEMMDo) — (source_id: `youtube:xwuvQhEMMDo`).
-- [Inicio de Sukot 5785](https://www.youtube.com/watch?v=ee9P_IfRXhs) — (source_id: `youtube:ee9P_IfRXhs`).
-- [Jag hasukot 5781-2020](https://www.youtube.com/watch?v=oZQuUZei82E) — (source_id: `youtube:oZQuUZei82E`).
-- [Studying Sukkot - Feast of Tabernacles/Booths Part 1](https://www.youtube.com/watch?v=gwepMXjk8So) — (source_id: `youtube:gwepMXjk8So`).
-- [Sukkot Message 5783-2022](https://www.youtube.com/watch?v=cBu5K15TJAg) — (source_id: `youtube:cBu5K15TJAg`).
+- [Conversatorio de Sukot (2017) - 5778](https://www.youtube.com/watch?v=mZGpW3lwf4Y) — (`source_id`: `youtube:mZGpW3lwf4Y`).
+- [Especial Sukot 2019](https://www.youtube.com/watch?v=xwuvQhEMMDo) — (`source_id`: `youtube:xwuvQhEMMDo`).
+- [Inicio de Sukot 5785](https://www.youtube.com/watch?v=ee9P_IfRXhs) — (`source_id`: `youtube:ee9P_IfRXhs`).
+- [Jag hasukot 5781-2020](https://www.youtube.com/watch?v=oZQuUZei82E) — (`source_id`: `youtube:oZQuUZei82E`).
+- [Studying Sukkot - Feast of Tabernacles/Booths Part 1](https://www.youtube.com/watch?v=gwepMXjk8So) — (`source_id`: `youtube:gwepMXjk8So`).
+- [Sukkot Message 5783-2022](https://www.youtube.com/watch?v=cBu5K15TJAg) — (`source_id`: `youtube:cBu5K15TJAg`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

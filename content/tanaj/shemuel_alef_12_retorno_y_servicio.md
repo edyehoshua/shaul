@@ -31,31 +31,31 @@ translation: "[OE, TTH]"
 
 Esta nota organiza la exposición pública **Haftaráh de Qóraj (2018) Las justicias de Hashem**. La transcripción automática no se presenta como cita literal. Se distingue entre el texto de 1 Samuel 12, las observaciones atribuibles a Eric y las aplicaciones pastorales derivadas en la clase. El desarrollo sigue el orden del discurso de Shemuel: testimonio, memoria, confesión, corrección y servicio.
 
-## 1 Samuel 12:1-5 — una autoridad que puede ser examinada
+## 1 Samuel 12:1-5 — una autoridad que puede ser examinada #shemuel_alef_12_1-5
 
 Shemuel comienza diciendo que escuchó la voz del pueblo y puso sobre ellos un rey. Luego pregunta quién ha sufrido despojo, opresión o soborno de su mano (#shemuel_alef_12_1-4). El pueblo responde que no los defraudó. Esta escena no es una autopromoción aislada: el profeta coloca su ministerio delante de la comunidad para que la palabra pueda continuar sin que la autoridad se esconda detrás del cargo.
 
 Eric observa que la justicia de יהוה también debe producir servidores examinables. La defensa de Shemuel no significa que ningún líder pueda ser cuestionado; precisamente por eso solicita testigos y deja que la comunidad responda. La clase relaciona esta apertura con el problema de Qóraj: la autoridad no se legitima únicamente por una pretensión personal, sino por fidelidad, servicio y rendición de cuentas.
 
-## 1 Samuel 12:6-11 — recordar las justicias de יהוה
+## 1 Samuel 12:6-11 — recordar las justicias de יהוה #shemuel_alef_12_6-11
 
 Shemuel pide al pueblo que se presente para recordar «las justicias de יהוה» (#shemuel_alef_12_7). Repasa a Jacob, Moisés, Aarón y la liberación de Egipto, y muestra un patrón repetido: Israel olvida, sirve a otros dioses, queda en angustia y clama; יהוה levanta libertadores y vuelve a salvarlo. El recuerdo bíblico no es una colección de triunfos nacionales. Incluye el pecado del pueblo y la paciencia de יהוה.
 
 Eric subraya que una comunidad que solo recuerda sus agravios termina interpretando la crisis desde sí misma. Shemuel reubica la historia: antes de discutir el rey, Israel debe mirar la acción de יהוה. La exposición presenta esta memoria como una medicina contra la rivalidad y la ingratitud. Recordar las justicias no es negar la opresión sufrida, sino reconocer quién sostuvo al pueblo cuando este no podía sostenerse.
 
-## 1 Samuel 12:12-15 — pedir un rey y escoger la obediencia
+## 1 Samuel 12:12-15 — pedir un rey y escoger la obediencia #shemuel_alef_12_12-15
 
 Cuando Israel vio a Najash, rey de los hijos de Amón, pidió un rey, aunque יהוה era su rey (#shemuel_alef_12_12-13). Shemuel no declara que el rey haga imposible toda obediencia: «Si temen a יהוה, le sirven, escuchan su voz y no se rebelan… serán ustedes y el rey que reina sobre ustedes después de יהוה su Elohim» (#shemuel_alef_12_14). El versículo coloca al rey debajo de la autoridad divina.
 
 La lectura de Eric distingue entre estructura política y fidelidad espiritual. El problema no es simplemente tener una institución, sino buscar seguridad en ella hasta desplazar a יהוה. La clase aplica la advertencia al servicio religioso: un título, un cargo o una pertenencia no reemplaza escuchar y obedecer. El v. 15 presenta la alternativa con claridad: si no escuchan, la mano de יהוה estará contra ellos como estuvo contra sus padres.
 
-## 1 Samuel 12:16-19 — la señal que conduce a la confesión
+## 1 Samuel 12:16-19 — la señal que conduce a la confesión #shemuel_alef_12_16-19
 
 Shemuel anuncia trigo y lluvia en la cosecha para que Israel reconozca su maldad al pedir rey (#shemuel_alef_12_16-18). El trueno y la lluvia producen temor, y el pueblo confiesa: «Añadimos a todos nuestros pecados este mal de pedir rey». La señal no busca entretenimiento sobrenatural; interpreta la conciencia del pueblo a la luz de la palabra.
 
 Eric llama la atención sobre la precisión de la confesión. Israel no dice solamente «nos sentimos mal», sino que nombra un mal añadido. La responsabilidad madura identifica la acción y la incorpora a la historia del pecado. A la vez, la intercesión de Shemuel impide que la confesión se convierta en desesperanza: el profeta no abandona al pueblo cuando este reconoce su culpa.
 
-## 1 Samuel 12:20-25 — no desviarse y servir con todo el corazón
+## 1 Samuel 12:20-25 — no desviarse y servir con todo el corazón #shemuel_alef_12_20-25
 
 La respuesta de Shemuel es el centro pastoral del capítulo: «No teman; ustedes han hecho toda esta maldad; con todo, no se desvíen de detrás de יהוה, sino sirvan a יהוה con todo su corazón» (#shemuel_alef_12_20). La frase sostiene dos verdades: la maldad es real y el retorno todavía es posible. No dice «no ocurrió nada», pero tampoco dice «ya no hay camino».
 

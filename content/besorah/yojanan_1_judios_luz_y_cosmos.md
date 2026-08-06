@@ -22,6 +22,8 @@ references:
   - "#ephesians_2_8"
 sources:
   - "https://www.youtube.com/watch?v=oWBXDeXiqUI&t=2345s"
+source_ids:
+  - "youtube:oWBXDeXiqUI"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -108,3 +110,9 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 - [Introducción al evangelio de Yojanan](./yojanan_introduccion)
 - [Yojanan: yehudim, procedencia y logos](./yojanan_yehudim_y_logos)
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=oWBXDeXiqUI) (`source_id`: `youtube:oWBXDeXiqUI`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

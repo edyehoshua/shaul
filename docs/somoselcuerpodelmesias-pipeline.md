@@ -15,12 +15,12 @@ El inventario contiene **188 videos deduplicados por ID de YouTube**. La fuente 
 
 ## Cuatro workers
 
-| Worker | Playlists | Videos | Criterio |
-| --- | --- | ---: | --- |
-| `somoselcuerpodelmesias-efesios-galatas` | Efesios, Gálatas | 20 | Epístolas de formación y libertad |
-| `somoselcuerpodelmesias-romanos` | Romanos | 29 | Argumento de Romanos en secuencia |
-| `somoselcuerpodelmesias-proverbios` | Proverbios - Mishlei | 100 | Sabiduría, vocabulario y conexiones |
-| `somoselcuerpodelmesias-doctrinas-neoidolatria` | Doctrinas de Ha'Satán, Neoidolatría | 39 | Discernimiento, Israel y naciones |
+| Worker                                          | Playlists                           | Videos | Criterio                            |
+| ----------------------------------------------- | ----------------------------------- | -----: | ----------------------------------- |
+| `somoselcuerpodelmesias-efesios-galatas`        | Efesios, Gálatas                    |     20 | Epístolas de formación y libertad   |
+| `somoselcuerpodelmesias-romanos`                | Romanos                             |     29 | Argumento de Romanos en secuencia   |
+| `somoselcuerpodelmesias-proverbios`             | Proverbios - Mishlei                |    100 | Sabiduría, vocabulario y conexiones |
+| `somoselcuerpodelmesias-doctrinas-neoidolatria` | Doctrinas de Ha'Satán, Neoidolatría |     39 | Discernimiento, Israel y naciones   |
 
 Cada worker tiene ownership exclusivo de sus playlists y `source_id`. Ningún worker debe editar una fuente o una nota perteneciente a otra lane.
 
@@ -39,6 +39,7 @@ Cada worker tiene ownership exclusivo de sus playlists y `source_id`. Ningún wo
 
 ```bash
 npm run content:check-frontmatter
+npm run youtube:check
 python3 scripts/check_transcript_note_quality.py
 npm run verse-index:test
 npm run scriptures:lookup:test

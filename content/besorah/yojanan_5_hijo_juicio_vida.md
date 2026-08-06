@@ -40,6 +40,8 @@ references:
   - "#zejariah_12_10"
 sources:
   - "https://www.youtube.com/watch?v=t4d1TJBqE9g&t=2231s"
+source_ids:
+  - "youtube:t4d1TJBqE9g"
 ---
 
 # Tesis
@@ -176,3 +178,9 @@ La nota resume una lectura en la que Yojanan 5 no contrapone al Mesías contra l
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1.md)
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)
 - [Elohim y Aba](../temas/elohim_aba.md)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=t4d1TJBqE9g) (`source_id`: `youtube:t4d1TJBqE9g`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

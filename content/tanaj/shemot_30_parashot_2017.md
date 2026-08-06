@@ -113,7 +113,7 @@ La frontera se hace corporal en 30:20-21: **ורחצו מים**, «se lavarán c
 
 Finalmente, **קדש**, _qadesh_, significa separar o consagrar; en la unción aparta a Aharón y sus hijos para el sacerdocio, no convierte al ministro en dueño de lo santo. **(זר)**, _zar_, significa extraño o no autorizado; en la prohibición del aceite y del incienso delimita quién no puede reproducir el uso cultual. La observación de Eric sobre no secularizar lo santo queda apoyada, aunque el capítulo no autoriza trasladar sin mediación cada fórmula del santuario a cualquier práctica moderna. La equivalencia crítica es clara: responsabilidad recibida, acceso regulado y santidad que pertenece a יהוה.
 
-## El encargo se verifica en el cuerpo y en el límite — Shemot 30:11–38
+## El encargo se verifica en el cuerpo y en el límite — Shemot 30:11–38 #shemot_30_11-38
 
 La lectura de Eric sobre **כי תשא** queda incompleta si «levantar la cabeza» se separa de lo que el capítulo manda hacer después. OE dice **כי תשא את ראש בני ישראל לפקדיהם** y TTH: «cuando levantes la cabeza de los hijos de Israel por sus cargos» (30:12). **(נשא)**, _nasa_, significa levantar, llevar o soportar; aquí su fuerza contextual es poner al pueblo bajo un registro responsable. **(פקד)**, _paqad_, significa visitar, atender, asignar o pasar revista; en **לפקדיהם**, _lefiqdehem_, se refiere a las personas incluidas bajo una responsabilidad. «Promover» sería una equivalencia **pedagógica**, no exacta. La forma verbal no promete exaltación sin rendición de cuentas: cada persona entrega el medio shekel y queda vinculada al memorial del servicio.
 

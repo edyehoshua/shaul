@@ -133,8 +133,8 @@ Qohélet 7 forma una pedagogía de límites. Enseña a valorar un nombre formado
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=GMkRQQvt8zw> — source_id: `youtube:GMkRQQvt8zw`.
-- Video: <https://www.youtube.com/watch?v=TWTcumYv65o> — source_id: `youtube:TWTcumYv65o`.
-- Video: <https://www.youtube.com/watch?v=yBlH3ZaaIlo> — source_id: `youtube:yBlH3ZaaIlo`.
-- Video: <https://www.youtube.com/watch?v=J0FDZOz0tWU> — source_id: `youtube:J0FDZOz0tWU`.
+- Video: <https://www.youtube.com/watch?v=GMkRQQvt8zw> — `source_id`: `youtube:GMkRQQvt8zw`.
+- Video: <https://www.youtube.com/watch?v=TWTcumYv65o> — `source_id`: `youtube:TWTcumYv65o`.
+- Video: <https://www.youtube.com/watch?v=yBlH3ZaaIlo> — `source_id`: `youtube:yBlH3ZaaIlo`.
+- Video: <https://www.youtube.com/watch?v=J0FDZOz0tWU> — `source_id`: `youtube:J0FDZOz0tWU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

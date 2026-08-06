@@ -213,5 +213,5 @@ El lavado de pies cierra la primera parte de la clase como una señal densa. El 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=G6nNREo8isI> — source_id: `youtube:G6nNREo8isI`.
+- Video: <https://www.youtube.com/watch?v=G6nNREo8isI> — `source_id`: `youtube:G6nNREo8isI`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

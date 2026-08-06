@@ -36,7 +36,7 @@ La exposición compara Tehilim 99 con los himnos inmediatamente anteriores y pre
 | #tehilim_99_4-5 | **ועז מלך משפט אהב אתה כוננת מישרים משפט וצדקה ביעקב אתה עשית; רוממו יהוה אלהינו והשתחוו להדם רגליו קדוש הוא**                                                                                                            | El poder real está unido al amor por el juicio y convoca a postrarse ante el Rey santo.         |
 | #tehilim_99_6-9 | **משה ואהרן בכהניו ושמואל בקראי שמו קראים אל יהוה והוא יענם; בעמוד ענן ידבר אליהם שמרו עדתיו וחק נתן למו; יהוה אלהינו אתה עניתם אל נשא היית להם ונקם על עלילותם; רוממו יהוה אלהינו והשתחוו להר קדשו כי קדוש יהוה אלהינו** | El salmo recuerda oración, respuesta, nube, obediencia y santidad como testimonio del reinado.  |
 
-## 99:1-3: el Rey que se manifiesta
+## 99:1-3: el Rey que se manifiesta #tehilim_99_1-3
 
 Eric sitúa el capítulo en la entronización. La clase lo presenta como una fase final de la secuencia: el Rey ya ha realizado su obra y ahora se manifiesta como quien ocupa el trono. El v. 1 dice **יהוה מלך**, «יהוה reina», y combina esa declaración con el temblor de los pueblos y de la tierra. La lectura de Eric sobre potestades cósmicas es una aplicación de su marco escatológico; el sentido inmediato es que el reinado de יהוה provoca una conmoción que alcanza a la creación y a las naciones.
 
@@ -44,7 +44,7 @@ El salmo dice que יהוה «se sienta sobre los querubines». **כרובים** 
 
 En los vv. 2-3 la grandeza se concentra en Sion y en el nombre. **יודו** (_yodu_) procede de **ידה** (_yadah_), reconocer, confesar o dar gracias. Eric subraya que el reconocimiento de los poderes rebeldes no equivale necesariamente a conversión: una criatura puede confesar la autoridad del Rey sin producir fruto de obediencia. Esa aplicación se relaciona con otros textos de la Besorah, mientras el salmo mismo llama a los pueblos a reconocer que el nombre es grande, temible y santo.
 
-## 99:4-5: el poder del Rey ama el juicio
+## 99:4-5: el poder del Rey ama el juicio #tehilim_99_4-5
 
 La exposición insiste en que el reinado no debe separarse de la justicia. El v. 4 reúne **עז מלך**, «fuerza del Rey», con **משפט אהב**, «ama el juicio», y afirma que יהוה establece **מישרים**, rectitud o equidad. Eric discute la sintaxis de la línea y ofrece más de una manera de relacionar poder, realeza, juicio y justicia. Esa cautela es apropiada: la estructura hebrea permite reconocer el eje semántico sin imponer una reconstrucción castellana como única solución.
 
@@ -52,7 +52,7 @@ La exposición insiste en que el reinado no debe separarse de la justicia. El v.
 
 El v. 5 responde con dos imperativos: **רוממו**, «exalten», y **השתחוו**, «postraos». La «peana de sus pies» no rebaja a יהוה a un objeto local; es lenguaje de entronización y reverencia. La repetición **קדוש הוא**, «él es santo», fundamenta la adoración: el Rey es exaltado porque su gobierno es incomparablemente santo.
 
-## 99:6-9: los intercesores, la nube y la santidad
+## 99:6-9: los intercesores, la nube y la santidad #tehilim_99_6-9
 
 Moisés, Aarón y Samuel aparecen como figuras que invocaron el nombre de יהוה y fueron escuchadas. Eric usa sus nombres para mostrar continuidad entre sacerdocio, profecía, liderazgo y oración. El texto no dice que sus vidas fueran sin error; destaca que clamaron y que יהוה respondió. En el v. 7 la columna de nube recuerda una manifestación histórica en la que יהוה habló y el pueblo guardó sus testimonios y el estatuto que les dio.
 
@@ -99,5 +99,5 @@ Tehilim 99 presenta el reinado de יהוה como una realidad santa, pública y j
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 99» — https://www.youtube.com/watch?v=7EVWzk0LH3w (`source_id: youtube:7EVWzk0LH3w`).
+- «Tehilim/Himnos/Salmo Cap 99» — https://www.youtube.com/watch?v=7EVWzk0LH3w (`source_id`: youtube:7EVWzk0LH3w`).
 - Esta nota organiza y contrasta la exposición; la transcripción automática no se presenta como cita literal.

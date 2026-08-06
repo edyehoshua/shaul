@@ -52,7 +52,7 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza y
 | #micah_6_9-16              | La clase conecta el debido proceso con la paz y denuncia que jueces, ricos, sacerdotes y profetas pueden desmantelar al pueblo mediante soborno, precio y engaño.                           | Apoyo textual en vv. 9-12 y 16; la extensión a cada oficio contemporáneo se conserva como aplicación, no como identificación histórica automática.             |
 | #micah_5_1-8 → #micah_6_8  | Eric enlaza al gobernante de Belén y el remanente entre las naciones con el cuerpo del Mesías y la unidad de Efesiyim 2.                                                                    | Inferencia canónica atribuida: Miqueas 6 exige justicia dentro del pleito; no demuestra por sí solo toda la identificación mesiánica.                          |
 
-## 6:1-5: la creación escucha el pleito
+## 6:1-5: la creación escucha el pleito #micah_6_1-5
 
 La apertura convoca a montes, colinas y fundamentos de la tierra. **ריב** (_riv_) significa pleito, litigio o causa; en 6:2 su fuerza contextual es una audiencia pública en la que יהוה presenta su caso contra su pueblo. No es una discusión entre partes con la misma autoridad: יהוה es quien llama a declarar y quien pregunta qué hizo para merecer el abandono. Eric insiste en que el capítulo debe leerse como una unidad, no como una colección de frases devocionales; esta forma judicial local confirma la observación.
 
@@ -60,7 +60,7 @@ En 6:3 la pregunta es personal: **עמי מה עשיתי לך ומה הלאתי�
 
 La referencia a Balaq no convierte el capítulo en una repetición completa de Bemidbar 22–24. Su función es recordar que la bendición y la entrada en la tierra no dependieron de una compra ritual de יהוה. La clase también reconstruye el marco de dos capitales, Samaria y Yerushalaim, al leer el libro entero: es una orientación histórica atribuida, mientras 6:2 nombra directamente a “su pueblo” e Israel.
 
-## 6:6-8: del sacrificio imaginado a la obediencia
+## 6:6-8: del sacrificio imaginado a la obediencia #micah_6_6-8
 
 La voz del pueblo pregunta cómo acercarse: **במה אקדם יהוה**, “¿con qué me presentaré delante de יהוה?”. La serie aumenta deliberadamente: holocaustos, becerros de un año, miles de carneros, torrentes de aceite y finalmente el primogénito por la rebelión. Eric observa que el oyente intenta resolver una crisis de justicia con una oferta cada vez más costosa. El texto no condena aquí toda ofrenda ordenada por la Torah; expone la insuficiencia de convertir el sacrificio en sustituto de una vida recta.
 
@@ -68,7 +68,7 @@ La respuesta resume el bien ya declarado: **הגיד לך אדם מה טוב**, 
 
 Eric conecta esta tríada con su imagen de carne y huesos: la justicia sería la forma de tratar correctamente al pueblo, el hesed la bondad que lo mantiene unido y el andar humilde el rechazo de la autosuficiencia. Esa síntesis ayuda a aplicar el pasaje, pero Miqueas 6:8 no dice literalmente que “carne” sea la justicia o que “hueso” sea la paz. Lo que sí afirma es que יהוה busca una vida alineada con justicia, lealtad y humildad, no una inflación de regalos religiosos.
 
-## 6:9-12: la ciudad, las balanzas y el cuerpo deshecho
+## 6:9-12: la ciudad, las balanzas y el cuerpo deshecho #micah_6_9-12
 
 El v. 9 vuelve a la voz profética: **קול יהוה לעיר יקרא**, “la voz de יהוה clama a la ciudad”. La sabiduría reconoce el nombre y escucha la vara; el juicio no es una sorpresa sin testigos. En los vv. 10-12 aparecen tesoros de maldad, una medida escasa, balanzas de maldad, bolsas de pesas engañosas, violencia de los ricos y lengua mentirosa. **מרמה** (_mirmah_) significa engaño o fraude; su fuerza aquí se ve en instrumentos comerciales y discurso falso. **חמס** (_jamas_) significa violencia o injusticia abusiva; no es sólo una emoción de enojo.
 
@@ -76,7 +76,7 @@ La clase trae a este punto Miqueas 3:1-5, donde los dirigentes arrancan la piel,
 
 Eric conecta después la paz con Efesiyim 2:13-18, donde Yehoshua es nuestra paz y hace de ambos pueblos uno. Esa es una lectura canónica confesional. Miqueas 6 no nombra a Yehoshua ni cita Efesiyim; por eso la conexión debe iluminar la aplicación sin sustituir el litigio histórico contra la ciudad y sus prácticas.
 
-## 6:13-16: consecuencias y consejos heredados
+## 6:13-16: consecuencias y consejos heredados #micah_6_13-16
 
 El juicio se formula como respuesta de יהוה a los pecados: herir, devastar, comer sin saciarse, sembrar sin cosechar, pisar aceitunas sin ungirse y producir vino sin beberlo. Estas imágenes revierten el trabajo ordinario; la injusticia no es abstracta, sino una ruptura que alcanza alimento, cosecha y seguridad. El cierre acusa haber guardado los estatutos de Omri y las obras de la casa de Ajab. Eric lo aplica como advertencia contra seguir consejos de autoridades corruptas sólo porque son tradición o gobierno establecido. El texto sí acusa una senda concreta de estatutos y obras; generalizarla a cualquier herencia comunitaria exige discernimiento.
 
@@ -111,5 +111,5 @@ Miqueas 6 no responde al pecado con una ceremonia más grande, sino con el retor
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Balaq: Miembros de su carne y de sus huesos](https://www.youtube.com/watch?v=W7YQMoZZLWc) — source_id: `youtube:W7YQMoZZLWc`.
+- Video: [Haftaráh de Balaq: Miembros de su carne y de sus huesos](https://www.youtube.com/watch?v=W7YQMoZZLWc) — `source_id`: `youtube:W7YQMoZZLWc`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

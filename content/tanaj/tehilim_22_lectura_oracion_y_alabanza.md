@@ -51,5 +51,5 @@ La lectura de Tehilim 22 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 22» — <https://www.youtube.com/watch?v=7zBkOZFOzNw> — source_id: `youtube:7zBkOZFOzNw`.
+- «Tehilim/Himnos/Salmo Cap 22» — <https://www.youtube.com/watch?v=7zBkOZFOzNw> — `source_id`: `youtube:7zBkOZFOzNw`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

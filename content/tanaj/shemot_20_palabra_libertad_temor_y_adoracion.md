@@ -159,7 +159,7 @@ El cierre vuelve a ordenar la adoración sin negar la materia. **(שׁם)**, _sh
 - [ ] Verificar las propuestas de la clase sobre **(סגלה)**, **(גוי)** y las categorías históricas de pueblos; la nota no las adopta como definiciones léxicas establecidas.
 - [ ] Examinar por separado la relación canónica entre #shemot_19_5-6, #keifa_alef_2_9-10 y las citas de Oseas que la clase propone.
 
-## La voz que libera también delimita la aproximación: 20:18-26
+## La voz que libera también delimita la aproximación: 20:18-26 #shemot_20_18-26
 
 La reacción del pueblo ante la revelación debe mantenerse en la secuencia del capítulo. El OE dice: **וכל העם ראים את הקולת ואת הלפידים ואת קול השפר ואת ההר עשן וירא העם וינעו ויעמדו מרחק**, «todo el pueblo veía las voces, los relámpagos, la voz del shofar y el monte humeante; el pueblo vio, temió, tembló y se mantuvo lejos» (#shemot_20_18). **(ראה)**, _raah_, significa ver o percibir; aplicado a «voces» conserva una experiencia sensorial extraordinaria, no una definición técnica de visión espiritual. **(נוע)**, _nuá_, significa moverse, temblar o estremecerse; su fuerza contextual muestra que el temor corporal antecede a la explicación de Moshéh. Eric acierta al tratar el temor como parte de la recepción de la voz, pero «éxtasis» sería una equivalencia pedagógica no exigida por el texto.
 
@@ -204,5 +204,5 @@ Shemot 20 enmarca la obediencia en la liberación de Egipto. La voz de יהוה 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Parashat Yitró Éxodo 18:1 - 20:23 Sguláh mikol ha'amim - Goy Qadosh](https://www.youtube.com/watch?v=8cPipT6K-9Q) (source_id: `youtube:8cPipT6K-9Q`).
+- Video: [Parashat Yitró Éxodo 18:1 - 20:23 Sguláh mikol ha'amim - Goy Qadosh](https://www.youtube.com/watch?v=8cPipT6K-9Q) (`source_id`: `youtube:8cPipT6K-9Q`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

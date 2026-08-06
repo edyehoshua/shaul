@@ -26,6 +26,8 @@ references:
   - "#kefa_bet_1_18"
 sources:
   - "https://www.youtube.com/live/jHd1MqzfcNo?si=n9xNtiGFJ-6sCFJH"
+source_ids:
+  - "youtube:jHd1MqzfcNo"
 translation: "[TTH, Delitzsch, OE]"
 ---
 

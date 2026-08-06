@@ -102,5 +102,5 @@ Tehilim 16 forma una confesión de pertenencia: el orante se refugia en יהוה
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 16» — <https://www.youtube.com/watch?v=MbfGO91csB8> — source_id: `youtube:MbfGO91csB8`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 16» — <https://www.youtube.com/watch?v=MbfGO91csB8> — `source_id`: `youtube:MbfGO91csB8`.
 - La transcripción es automática y se usa como apoyo de estudio; no se presenta como cita literal ni como transcripción revisada por el expositor.

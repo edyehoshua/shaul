@@ -40,13 +40,13 @@ Se sigue el salmo completo en orden textual. La exposición del hermano Eric de 
 | #tehilim_132_11-12 | **נשבע יהוה לדוד אמת לא ישוב ממנה מפרי בטנך אשית לכסא לך; אם ישמרו בניך בריתי ועדתי זו אלמדם גם בניהם עדי עד ישבו לכסא לך**                                                                                     | La promesa davídica incluye la responsabilidad de guardar el pacto y el testimonio.                                 |
 | #tehilim_132_13-18 | **כי בחר יהוה בציון אוה למושב לו; זאת מנוחתי עדי עד פה אשב כי אותיה; צידה ברך אברך אביוניה אשביע לחם; וכהניה אלביש ישע וחסידיה רנן ירננו; שם אצמיח קרן לדוד ערכתי נר למשיחי; אויביו אלביש בשת ועליו יציץ נזרו** | Sion es escogida como morada permanente; hay pan, salvación sacerdotal, gozo, cuerno davídico y corona floreciente. |
 
-## Voto de David: memoria que se vuelve prioridad — Tehilim 132:1-5
+## Voto de David: memoria que se vuelve prioridad — Tehilim 132:1-5 #tehilim_132_1-5
 
 Eric empieza observando que el encabezamiento es un cántico de las escaleras y que el salmo no presenta una dedicatoria adicional. En el v. 1 trabaja **זכור** (_zajor_, recuerda) y propone que no sea un recuerdo pasivo, sino mantener a David y sus aflicciones delante de יהוה, con sus planes y su voto presentes. El sentido normal del imperativo es «recuerda» o «ten presente»; la fuerza de prioridad es una ampliación contextual exacta en dirección, pero no una traducción alternativa obligatoria.
 
 El poema no presenta a David buscando primero una casa cómoda. Los vv. 2-5 encadenan juramento, voto, tienda, lecho, sueño y párpados: «hasta que encuentre un lugar para יהוה, moradas para el Poderoso de Jacob». Eric subraya que el descanso personal queda subordinado a la morada divina. La observación está apoyada por la repetición de **אם** (_im_, si) y por el «hasta» del v. 5. No obstante, el texto recuerda un proyecto cultual concreto; aplicarlo directamente a que cada creyente debe convertirse en morada es una lectura canónica y pastoral, no el referente único de David.
 
-## El arca, la morada y el descanso — Tehilim 132:6-10
+## El arca, la morada y el descanso — Tehilim 132:6-10 #tehilim_132_6-10
 
 En vv. 6-7, Eric relaciona Efrata y los campos del bosque con la búsqueda del arca y llama a entrar en las moradas de יהוה para postrarse ante el estrado de sus pies. El texto local afirma escuchar y encontrar, ir a las moradas y adorar; por tanto, la adoración no es una idea abstracta desligada de la presencia representada por el arca. El v. 8 dice **קומה** (_qumah_, levántate) y «tú y el arca de tu poder». Eric insiste en que la súplica no es meramente hallar un terreno: pide que el arca entre con el pueblo y que el poder de יהוה habite en medio de él.
 
@@ -54,13 +54,13 @@ La clase enumera lo que se encontraba en el arca o se asociaba a ella: las tabla
 
 Los vv. 9-10 piden que los sacerdotes se vistan de justicia y que los fieles canten. Eric corrige una reducción de «sacerdotes» a levitas como grupo administrativo: ve una comunidad llamada a participar de la morada mediante el Ruaj y el testimonio. El hebreo **צדק** (_tsedeq_, justicia o rectitud) sostiene el vestido ético; **ישע** (_yesha_, salvación) aparecerá en el v. 16. La aplicación comunitaria es coherente con la imagen de sacerdotes y fieles, pero no elimina la referencia histórica al sacerdocio.
 
-## Pacto, descendencia y obediencia — Tehilim 132:11-12
+## Pacto, descendencia y obediencia — Tehilim 132:11-12 #tehilim_132_11-12
 
 La promesa de יהוה a David es explícita: del fruto de su cuerpo pondrá sobre su trono, pero los hijos deben guardar el pacto y el testimonio que él les enseñará. Eric insiste en que la promesa no autoriza una lectura de elección sin obediencia. El texto confirma la condición con **אם ישמרו** (_im yishmeru_, si guardan). La descendencia davídica y la fidelidad del pacto aparecen juntas; por eso no se debe usar el salmo para convertir una herencia familiar o ministerial en garantía automática.
 
 La frase «esta es la que les enseñaré» conecta la sucesión con instrucción recibida, no sólo con sangre. Eric aplica este punto a la continuidad de una comunidad que debe aprender la palabra y dejar una enseñanza a sus hijos. Es una extensión pedagógica responsable porque el v. 12 menciona expresamente a los hijos y a su enseñanza, aunque el alcance histórico y mesiánico de la promesa requiere leer también Samuel y otros salmos.
 
-## Sion escogida, pan y cuerno levantado — Tehilim 132:13-18
+## Sion escogida, pan y cuerno levantado — Tehilim 132:13-18 #tehilim_132_13-18
 
 El salmo explica la elección: יהוה escogió Sion y la desea como morada. **מושב** (_moshav_, asiento, habitación o lugar de residencia) y **מנוחתי** (_menujati_, mi descanso) describen habitación estable, no simple ocio. Eric vuelve aquí a la idea de «morada»: la presencia deja una huella en el mundo y transforma a quienes reciben el testimonio. La palabra «descanso» no significa ausencia de actividad; el contexto continúa con bendición de alimento, salvación, canto y gobierno.
 
@@ -112,5 +112,5 @@ Tehilim 132 no separa presencia, pacto y cuidado. David recuerda la aflicción, 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Hymnos/Salmo Chap 132» — <https://www.youtube.com/watch?v=287RshijP6o> — source_id: `youtube:287RshijP6o`.
+- Video: «Tehilim/Hymnos/Salmo Chap 132» — <https://www.youtube.com/watch?v=287RshijP6o> — `source_id`: `youtube:287RshijP6o`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

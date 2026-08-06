@@ -58,7 +58,7 @@ La clase continúa el estudio de Marcos y del **Ben HaAdam** abriendo el signifi
 - Fuente principal: transcripción automática de una clase en video; la nota organiza el argumento sin reproducirlo palabra por palabra.
 - La clase se ubica en el estudio de Marcos 2, dentro del paréntesis sobre el Hijo del Hombre y Abba.
 - Esta nota continúa [[markos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]], pero se enfoca en la equivalencia **ruaj / mente** y en la lectura de #qorintiyim_alef_2_12-16.
-- `npm run scriptures:ensure` no pudo ejecutarse porque `npm` no está instalado en este entorno; se usó el corpus local ya presente.
+- Se usó el corpus local ya presente en el repositorio; no se expone aquí el comando de preparación.
 - Las afirmaciones sobre Zohar, Targum y el uso histórico de Abba para Elohim quedan como material de clase pendiente de cotejo.
 
 ## Ruta de la clase

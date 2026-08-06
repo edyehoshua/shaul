@@ -37,7 +37,7 @@ Esta nota canónica reúne la fuente disponible para Tehilim 84. La transcripci�
 | #tehilim_84_1  | למנצח על הגתית לבני קרח מזמור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
 | #tehilim_84_13 | יהוה צבאות אשרי אדם בטח בך    | El verso final permite observar el cierre de la composición.         |
 
-## El encabezado y el deseo de la morada — Tehilim 84:1-5
+## El encabezado y el deseo de la morada — Tehilim 84:1-5 #tehilim_84_1-5
 
 El encabezado dice: «למנצח על הגתית לבני קרח מזמור» (v. 1), un salmo para los hijos de Qoré y, en la traducción tradicional, relacionado con la _gitit_. Eric comienza justamente aquí y observa que la preposición hebrea puede abrir más de una relación: el himno puede estar dedicado a los hijos de Qoré, proceder de ellos o estar relacionado con ellos. La exposición no lo presenta como una certeza única, y esa cautela es adecuada; el encabezado local no explica por sí mismo la historia de composición.
 
@@ -45,7 +45,7 @@ El v. 2 exclama: «מה ידידות משכנותיך יהוה צבאות», «�
 
 El deseo se intensifica: «נכספה וגם כלתה נפשי לחצרות יהוה לבי ובשרי ירננו אל אל חי» (v. 3). El alma desfallece por los atrios de יהוה y corazón y carne cantan al Elohim vivo. Luego el poema imagina incluso a las aves: «גם צפור מצאה בית ודרור קן לה אשר שתה אפרחיה את מזבחותיך יהוה צבאות» (v. 4). La imagen no afirma que las aves literalmente habiten el altar; expresa la seguridad de un lugar cercano a los altares. El v. 5 concluye: «אשרי יושבי ביתך עוד יהללו סלה», «bienaventurados los que habitan en tu casa; continuamente te alabarán».
 
-## Camino, valle y fuerza — Tehilim 84:6-8
+## Camino, valle y fuerza — Tehilim 84:6-8 #tehilim_84_6-8
 
 La segunda bienaventuranza dice: «אשרי אדם עוז לו בך מסלות בלבבם» (v. 6), «bienaventurado el hombre cuya fuerza está en ti; en su corazón están los caminos». Eric lee el capítulo como un recorrido de salvación: la morada no es un escape inmóvil, sino una fuerza que organiza el camino. **(עֹז)** (_oz_) significa fuerza, poder o refugio; su fuerza contextual es dependencia de יהוה, porque el complemento es «en ti», no la autosuficiencia del peregrino.
 
@@ -53,13 +53,13 @@ El v. 7 describe: «עברי בעמק הבכא מעין ישיתהו גם ברכ
 
 El v. 8 resume el avance: «ילכו מחיל אל חיל יראה אל אלהים בציון», «van de fuerza en fuerza; cada uno se presenta ante Elohim en Sion». **(חַיִל)** (_jail_) puede significar fuerza, capacidad o ejército; aquí «de fuerza en fuerza» es una traducción contextual del progreso del peregrino. La meta no es la experiencia interior aislada, sino comparecer ante Elohim en Sion.
 
-## Petición por el ungido — Tehilim 84:9-10
+## Petición por el ungido — Tehilim 84:9-10 #tehilim_84_9-10
 
 La oración irrumpe en los vv. 9-10: «יהוה אלהים צבאות שמעה תפלתי האזינה אלהי יעקב סלה» («יהוה Elohim de los ejércitos, escucha mi oración; presta oído, Elohim de Yaakov») y «מגננו ראה אלהים והבט פני משיחך» («mira, Elohim, nuestro escudo, y contempla el rostro de tu ungido»). La palabra **(מָגֵן)** (_magen_, «escudo») funciona como imagen de protección; el poeta no pide una protección abstracta, sino que solicita que Elohim mire al ungido. **(מָשִׁיחַ)** (_mashiaj_) significa «ungido»; la traducción es directa, mientras que identificarlo con una figura posterior exige otros textos.
 
 Eric relaciona esta petición con la continuidad entre morada, protección y autoridad ungida. La secuencia local confirma que la oración nace de la peregrinación y del deseo de presencia; no autoriza a saltar el v. 9 ni a convertir el término «ungido» en una biografía que el salmo no ofrece.
 
-## Un día, el bien y la confianza — Tehilim 84:11-13
+## Un día, el bien y la confianza — Tehilim 84:11-13 #tehilim_84_11-13
 
 El poeta prefiere: «כי טוב יום בחצריך מאלף בחרתי הסתופף בבית אלהי מדור באהלי רשע» (v. 11), «un día en tus atrios es mejor que mil; escogí estar a la puerta de la casa de mi Elohim antes que habitar en las tiendas de la maldad». Eric usa este contraste para insistir en que la presencia vale más que una ventaja prolongada fuera de ella. El texto sí establece la preferencia; no define que cada estancia fuera del santuario sea idéntica a una persecución concreta.
 
@@ -101,5 +101,5 @@ Tehilim 84 convierte el deseo de la morada en camino, el camino en oración y la
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 84» — <https://www.youtube.com/watch?v=KwdbIvwX9gU> — source_id: `youtube:KwdbIvwX9gU`.
+- «Tehilim/Himnos/Salmo Cap 84» — <https://www.youtube.com/watch?v=KwdbIvwX9gU> — `source_id`: `youtube:KwdbIvwX9gU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

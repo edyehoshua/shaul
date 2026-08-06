@@ -64,13 +64,13 @@ La nota organiza dos clases públicas canónicas del tramo: la parte 6, que cier
 | #galatians_3_19-25 | **מפני הפשעים נוספה ... התורה היתה אמנת אותנו למשיח ... איננו עוד תחת יד האמן**               | La Torah se añade por las transgresiones y funciona como tutor hasta la revelación de la emunah.    |
 | #galatians_3_26-29 | **כי־אתם כלכם בני אלהים ... אין עוד יהודי ולא יוני ... הנכם זרע אברהם ויורשים כפי ההבטחה**    | La filiación y la herencia en el Mesías cierran el argumento sin borrar toda diferencia biográfica. |
 
-## Galatim 3:1-5: Ruaj recibido y pretensión de terminar en la carne
+## Galatim 3:1-5: Ruaj recibido y pretensión de terminar en la carne #galatians_3_1-5
 
 La clase que entra al capítulo 3 desde el cierre de Galatim 2 observa que Shaul no discute una Torah «mala», sino la confianza en méritos que desecha la gracia. Ese hilo se oye ya en #galatians_3_1-5: los gálatas recibieron el Ruaj y vieron obras de poder no «de obras de la Torah», sino de la escucha de la emunah; por eso Shaul pregunta si, habiendo comenzado en el Ruaj, pretenden ahora consumarse en la carne.
 
 **(πνεῦμα)**; en Delitzsch **רוח**, _ruaj_, designa ordinariamente aliento, viento, ánimo o el Espíritu. Aquí su fuerza es el don y la operación de Elohim que los gálatas ya experimentaron. «Espíritu» es equivalencia **aproximada**; reducirla a emoción interior sería una paráfrasis **pedagógica** débil. **(σάρξ)**; **בשר**, _basar_, es «carne, condición humana vulnerable»; en este contraste no niega el cuerpo, sino la pretensión de completar la obra de Elohim por una señal o mérito carnal. La clase acierta al leer el problema como regresión meritoria; el texto no autoriza despreciar la obediencia confiada ni la identidad corporal de Israel.
 
-## Galatim 3:6-14: Abraham, maldición y bendición
+## Galatim 3:6-14: Abraham, maldición y bendición #galatians_3_6-14
 
 Eric detiene la lectura en #galatians_3_6-9 y subraya que la Escritura «previó» la justificación de las naciones y anunció de antemano a Abraham: «serán benditas en ti todas las naciones». En la clase, «los de la fidelidad» son bendecidos con Abraham el creyente, y la justificación no se mide por una fe entendida como mérito humano autónomo, sino por la fidelidad que tiene su centro en Elohim y en su Mesías. El texto Delitzsch dice **בני האמונה**, _bene ha-emunah_, y **באמונה**, _be-emunah_. **(πίστις)**, _pistis_, y **אמונה**, _emunah_, abarcan fidelidad, confianza y lealtad. Tratarla solo como «decisión intelectual del creyente» es una reducción **pedagógica** indebida en este contexto; a la inversa, borrar toda respuesta confiada del creyente también excedería el pasaje. La calificación responsable es la de la clase: prioriza la fidelidad como base divina y mesiánica, y deja el debate del genitivo y de las glosas para cotejo.
 
@@ -80,7 +80,7 @@ La parte 8 relee #galatians_3_13-14 con Deuteronomio 21: el Mesías nos redimió
 
 Sobre **ברכה**, _berakah_, Eric advierte que el español «bendición» (decir bien) no coincide con el campo hebreo que él asocia a injerto y adopción. En la clase, la bendición de Abraham es la justicia que Elohim le contó y la incorporación de las naciones a esa línea. El vínculo etimológico completo de _berakah_ con «injerto» es una ayuda **pedagógica**, no una equivalencia léxica exacta universal; el texto sí une bendición de Abraham, Mesías, naciones y promesa del Ruaj en #galatians_3_14.
 
-## Galatim 3:15-25: berit, Torah y pedagogo
+## Galatim 3:15-25: berit, Torah y pedagogo #galatians_3_15-25
 
 #galatians_3_15-18 argumenta al modo humano: una alianza ratificada no se anula ni se le añade. Las promesas fueron dichas a Abraham y a su simiente —no «a simientes» como a muchos, sino a una, «y a tu simiente», que es el Mesías—. La Torah, llegada cuatrocientos treinta años después, no puede invalidar la berit ni anular la promesa. **(ברית)**, _berit_, significa pacto o alianza; **(διαθήκη)**, _diathēkē_, significa disposición, pacto o testamento. En este argumento la relación es **aproximada y contextual**: ambas formas nombran una promesa pactada, pero no son equivalentes etimológicas ni permiten borrar los matices de cada corpus. Eric lee aquí la prioridad de la gracia prometida sobre cualquier esquema posterior de mérito. El texto sostiene esa prioridad temporal y teológica; las cifras y la reconstrucción histórica exacta del intervalo deben verificarse con el relato del Éxodo y la tradición de conteo, sin convertir cada detalle de la clase en dato cerrado.
 
@@ -90,7 +90,7 @@ En #galatians_3_23-25 la Torah aparece como custodia y como **אמן**; pedagogo
 
 Las dos fuentes públicas añadidas completan este recorrido, pero sus transcripciones no están disponibles en el inventario local. Por eso solo se conserva lo que sus títulos permiten afirmar: la parte 7 se anuncia como «Cap 3:10-14: La “maldición” de la Ley», una entrada coherente con #galatians_3_10-14; la parte 9 se anuncia como «El Mediador y la Ley», que corresponde temáticamente a #galatians_3_19-25. No se atribuyen a Eric argumentos, citas ni conclusiones más precisas que esos focos públicos; el texto de Galatim gobierna la evaluación. En particular, **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; en #galatians_3_19-20 su fuerza contextual es la figura mediadora asociada a la entrega de la Torah. La glosa es **ordinaria y relativamente exacta**, pero no permite por sí sola reconstruir la explicación de la clase ni resolver todos los debates sobre la mediación.
 
-## Galatim 3:26-29: hijos de Elohim y simiente de Abraham
+## Galatim 3:26-29: hijos de Elohim y simiente de Abraham #galatians_3_26-29
 
 El cierre del capítulo declara: todos vosotros sois hijos de Elohim por la emunah en el Mesías Yehoshua; los bautizados en el Mesías se han revestido del Mesías; ya no hay judío ni griego, siervo ni libre, varón ni mujer, porque todos sois uno en el Mesías Yehoshua; y si sois del Mesías, sois simiente de Abraham y herederos según la promesa (#galatians_3_26-29). **(υἱός)**, _huios_, significa hijo o descendiente; aquí su fuerza contextual es filiación recibida en relación con el Mesías, no una afirmación biológica sobre cada miembro. **(βαπτίζω)**, _baptizō_, significa sumergir o bautizar; en #galatians_3_27 funciona como imagen de incorporación visible al Mesías y de revestimiento de su identidad. Ambas glosas son **ordinarias y aproximadas**: no autorizan por sí solas una teoría completa del rito ni borran el argumento de promesa.
 
@@ -241,7 +241,7 @@ En #galatians_3_10, **(ἐπικατάρατος)**, _epikataratos_, significa m
 
 El segundo foco se evalúa con #galatians_3_19-25. **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; en 3:19-20 nombra la figura relacionada con la entrega de la Torah. «Mediador» es **directo en el sentido ordinario** y **cualificado en su alcance teológico**: el término no identifica por sí solo todas las partes ni reconstruye la enseñanza privada de una sesión cuyo transcript no está disponible. **(παιδαγωγός)**, _paidagōgos_, significa tutor o acompañante de un menor; su fuerza en 3:24 es custodiar y orientar hacia el Mesías. «Pedagogo» es **aproximado**; «carcelero» sería una paráfrasis **pedagógica demasiado fuerte**. Así se conserva la evidencia real de Eric, se evita inventar observaciones y se deja que la perícopa juzgue cualquier aplicación.
 
-## Precisión del argumento de Galatim 3:10-14
+## Precisión del argumento de Galatim 3:10-14 #galatians_3_10-14
 
 La secuencia de la maldición y la redención debe conservar sus conectores. En 3:10, **(ἐπικατάρατος)**, _epikataratos_, significa maldito o puesto bajo maldición; su fuerza contextual recae sobre quien no permanece en todo lo escrito en el libro de la Torah. **(ἐμμένω)**, _emmenō_, significa permanecer, continuar o mantenerse dentro de algo; aquí hace visible que la cita acusa una falta de permanencia completa, no una simple ausencia de interés religioso. «Permanecer» es una glosa **directa**, mientras convertir el término en una teoría detallada del mérito es **inferencial**.
 

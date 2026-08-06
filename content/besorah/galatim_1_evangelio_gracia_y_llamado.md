@@ -45,7 +45,7 @@ Esta nota organiza tres clases públicas que recorren #galatians_1_1 y #galatian
 
 La sesión de Galatim 1:1-9 vuelve a Hechos 15:1 y distingue entre presentar la circuncisión como requisito de salvación y reconocer las instrucciones concretas dadas después a las comunidades. Eric contrapone «rito» y «mandamiento» y recuerda que Abraham recibió las promesas antes de la circuncisión. Esa observación es atribuible a la clase y armoniza con el contraste que Pablo establece en Romanos 4; sin embargo, Galatim 1 no cita Hechos 15 ni resuelve por sí solo toda la relación entre promesa, circuncisión y obediencia. La transcripción registra el término como «heti»; la forma griega de Hechos 15:1 es **(ἔθος)**, _ethos_, «costumbre, práctica habitual». Allí su fuerza contextual es una práctica asociada con Moisés, de modo que «rito» es aproximada y «mandamiento» sería una calificación interpretativa, no la traducción exacta del sustantivo.
 
-## Galatim 1:1-9 y Hechos 15: promesa antes del requisito
+## Galatim 1:1-9 y Hechos 15: promesa antes del requisito #galatians_1_1-9
 
 En la segunda sesión, Eric vuelve a Hechos 15:1 como clave histórica para leer la crisis de Galatim. La clase observa que presentar la circuncisión como condición para ser salvo altera el anuncio, mientras que una instrucción sobre la vida posterior de la comunidad no debe confundirse con el requisito de recibir las promesas. Eric ilustra la diferencia con Abraham: recibió la promesa siendo incircunciso, y la ausencia ocasional de la celebración de Pesaj por impureza o duelo no se convierte automáticamente en pérdida de la promesa. Esta es una observación concreta de la exposición; Romanos 4:9-12 sí apoya el orden promesa–circuncisión, pero Galatim 1:6-9 gobierna la reprensión inmediata contra «otro evangelio».
 
@@ -71,7 +71,7 @@ Eric propone además acercar «iglesia» y «sinagoga» al hablar de la congrega
 
 El saludo sigue en orden: el apóstol, Yehoshua el Mesías, el Padre, gracia y paz (#galatians_1_1-3), y la entrega del Mesías «por nuestros pecados» (#galatians_1_4). La clase acierta al no dejar que el contexto geográfico desplace la confesión del texto. El argumento de Shaul nace de ese anuncio y de la voluntad de Elohim, no de una identidad regional.
 
-## Galatim 1:6-12: gracia, otro anuncio y el favor humano
+## Galatim 1:6-12: gracia, otro anuncio y el favor humano #galatians_1_6-12
 
 Eric lee #galatians_1_10 como una declaración de valentía: el siervo del Mesías no acomoda el evangelio para complacer a familia, maestros, audiencia o movimiento religioso. Esa aplicación conserva la dirección del versículo: Shaul pregunta si busca el favor de personas o de Elohim y contrapone agradar a seres humanos con ser siervo del Mesías. No autoriza, sin embargo, un temperamento áspero ni la independencia de toda corrección comunitaria; el problema del pasaje es cambiar el evangelio de la gracia, no la simple existencia de desacuerdo.
 
@@ -79,7 +79,7 @@ La clase enlaza #galatians_1_11-12 con #galatians_1_1 y sostiene que «no según
 
 En #galatians_1_6-9, Shaul no acepta una **(ἕτερον εὐαγγέλιον)**, _heteron euangelion_, «un evangelio de otra clase». «Evangelio alternativo» es una traducción **aproximada y contextual**: la fuerza polémica no presenta dos anuncios legítimos entre los cuales escoger, sino un anuncio que trastorna el recibido. **(χάρις)**, _charis_, significa ordinariamente «gracia, favor dado»; en el capítulo es la esfera en la que Elohim llamó a los gálatas. Traducirla como mera indulgencia emocional sería una reducción **pedagógica** inadecuada, pues el texto la vincula con llamado y lealtad al Mesías.
 
-## Galatim 1:13-16: conducta anterior, tradiciones y llamado por gracia
+## Galatim 1:13-16: conducta anterior, tradiciones y llamado por gracia #galatians_1_13-16
 
 Al llegar a #galatians_1_13-14, Eric advierte que el «judaísmo» del pasaje no debe convertirse en una acusación global contra todos los judíos. Señala la pluralidad de grupos del siglo I y distingue entre Torah escrita y tradición oral; luego relaciona el asunto con la discusión de Hechos 15 acerca de imponer condiciones a los gentiles. Esta cautela contra las generalizaciones es necesaria. Galatim nombra la conducta violenta anterior de Shaul y su celo por «las tradiciones de mis padres»; no autoriza desprecio contra un pueblo ni permite usar «judaísmo» como etiqueta polémica para cualquier práctica judía contemporánea.
 

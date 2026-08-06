@@ -94,5 +94,5 @@ La lectura de Tehilim 86 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 86» — <https://www.youtube.com/watch?v=6YMSW80IzL0> — source_id: `youtube:6YMSW80IzL0`.
+- «Tehilim/Himnos/Salmo Cap 86» — <https://www.youtube.com/watch?v=6YMSW80IzL0> — `source_id`: `youtube:6YMSW80IzL0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

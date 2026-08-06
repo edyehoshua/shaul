@@ -47,7 +47,7 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La TORAH ESCRITA y
 | #galatians_2_3-5 | **אבל גם־טיטו אשר אתי אף כי־יוני הוא לא הוצרך להמול ... מפני אחי השקר ... אשר באו לרגל את־חרותנו אשר־לנו בישוע המשיח למען העבידנו** | Tito no es obligado a circuncidarse; la libertad en Yehoshua se opone a la esclavitud de los falsos hermanos. |
 | #galatians_2_6-10 | **והנחשבים להיות מה היו מה־שהיו ... והנחשבים כעמודים ... נתנו לי ולבר־נבא את־יד ימינם** | La asamblea reconoce la gracia y distribuye el envío sin favoritismo; queda el cuidado de los necesitados. |
 
-## La libertad de Tito no depende de una marca externa: 2:1-5
+## La libertad de Tito no depende de una marca externa: 2:1-5 #galatians_2_1-5
 
 Eric comienza recordando que Pablo no actuó como un mensajero aislado. Después de años de servicio, subió a Jerusalén con Bernabé y Tito, y puso delante de los responsables la buena noticia que anunciaba a las naciones. La clase usa este movimiento para corregir dos errores opuestos: pensar que una revelación personal elimina todo examen comunitario, o pensar que una autoridad humana puede añadir una condición al evangelio.
 
@@ -61,7 +61,7 @@ Para hacer visible la diferencia, Eric menciona prácticas asociadas al Shabbat 
 
 La clase relaciona también la libertad con la enseñanza de Yehoshua de hacer el bien en Shabbat. La conexión con #matthew_12_12 sirve para mostrar que el descanso no puede convertirse en una barrera contra la misericordia. La nota mantiene dos niveles: el texto de Gálatas demuestra una libertad amenazada por imposición; la aplicación al Shabbat y a sus prácticas concretas es una extensión pastoral de la clase. La diferencia entre Torah escrita, tradición oral y costumbre debe seguir verificándose con fuentes históricas precisas, especialmente cuando se habla de la formación posterior de códigos rabínicos.
 
-## Pablo consulta a las columnas sin crear otro evangelio: 2:6-10
+## Pablo consulta a las columnas sin crear otro evangelio: 2:6-10 #galatians_2_6-10
 
 La otra mitad del pasaje impide convertir la defensa de la libertad en individualismo. Pablo presenta su evangelio ante quienes eran considerados columnas. Delitzsch traduce que Jacobo, Kefa y Yojanán reconocieron la gracia dada a Pablo y le dieron la mano derecha de compañerismo. Eric enfatiza que Pablo, aun teniendo una formación farisea, no se proclamó una autoridad separada: buscó confirmar el mismo Ruaj y el mismo anuncio.
 

@@ -160,5 +160,5 @@ La doxología final (#romanim_11_33-36) es también una salvaguarda metodológic
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Romanim 11: remanente, elección y olivo natural](https://www.youtube.com/watch?v=9IScJNK0fwo) (source_id: `youtube:9IScJNK0fwo`).
+- [Romanim 11: remanente, elección y olivo natural](https://www.youtube.com/watch?v=9IScJNK0fwo) (`source_id`: `youtube:9IScJNK0fwo`).
 - Esta nota organiza apuntes y contrasta la enseñanza pública con las Escrituras; no presenta una transcripción como cita literal.

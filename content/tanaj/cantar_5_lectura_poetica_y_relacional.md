@@ -74,10 +74,10 @@ Cantar 5 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (part 17) Cap 5» — https://www.youtube.com/watch?v=CMEiD_2EXrU (`source_id: youtube:CMEiD_2EXrU`).
-- «Shir hashirim (parte 14) Cap 5» — https://www.youtube.com/watch?v=0xRSI1cvFIU (`source_id: youtube:0xRSI1cvFIU`).
-- «Shir hashirim (parte 15) Cap 5» — https://www.youtube.com/watch?v=lLB9-pbVKAk (`source_id: youtube:lLB9-pbVKAk`).
-- «Shir hashirim (parte 16) cap 5» — https://www.youtube.com/watch?v=Amg-3Ot2QmU (`source_id: youtube:Amg-3Ot2QmU`).
-- «Shir hashirim (parte 18) Cap 5» — https://www.youtube.com/watch?v=Owqc-XCwaOo (`source_id: youtube:Owqc-XCwaOo`).
+- «Shir hashirim (part 17) Cap 5» — https://www.youtube.com/watch?v=CMEiD_2EXrU (`source_id`: youtube:CMEiD_2EXrU`).
+- «Shir hashirim (parte 14) Cap 5» — https://www.youtube.com/watch?v=0xRSI1cvFIU (`source_id`: youtube:0xRSI1cvFIU`).
+- «Shir hashirim (parte 15) Cap 5» — https://www.youtube.com/watch?v=lLB9-pbVKAk (`source_id`: youtube:lLB9-pbVKAk`).
+- «Shir hashirim (parte 16) cap 5» — https://www.youtube.com/watch?v=Amg-3Ot2QmU (`source_id`: youtube:Amg-3Ot2QmU`).
+- «Shir hashirim (parte 18) Cap 5» — https://www.youtube.com/watch?v=Owqc-XCwaOo (`source_id`: youtube:Owqc-XCwaOo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

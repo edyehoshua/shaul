@@ -54,7 +54,7 @@ La nota organiza **HAFTARÁH DE SE'UDAT MASHÍAJ 2018: Os atraeré a mí mismo**
 | #ieshaiahu_11_11-16 | “Levantará estandarte para las naciones, y reunirá a los desnaturalizados de Israel, y a los dispersos de Iehudáh juntará de las cuatro esquinas de la tierra.”                                                                        | El estandarte explica la reunión y la reconciliación del pueblo.             |
 | #ieshaiahu_12_1-6   | “El es mi salvación, confiaré y no temeré… sacarán aguas con gozo de las fuentes de la salvación… grande es en medio de ti el Santo de Israel.”                                                                                        | El oráculo termina en confesión, gozo y testimonio público.                  |
 
-## El brote que permanece unido a la raíz — Ieshaiáhu 11:1-2
+## El brote que permanece unido a la raíz — Ieshaiáhu 11:1-2 #ieshaiahu_11_1-2
 
 Eric comienza con la imagen de un árbol cortado. Aunque el tronco parezca destruido, la raíz de Ishai no desaparece; de ella salen un **(חטר)**, _jéter_, rama o vara, y un **(נצר)**, _nétsér_, brote o retoño. La distinción es contextual: ambos términos participan de la imagen vegetal, pero no deben fundirse como si fueran la misma forma hebrea. La enseñanza de la clase insiste en que la promesa no sustituye la raíz de David por un poder sin genealogía. El brote nuevo depende de la obra de יהוה y, aun así, produce fruto.
 
@@ -62,25 +62,25 @@ La clase conecta _nétsér_ con Nazaret y con las expresiones griegas que el eva
 
 Sobre el brote descansa el **(רוח יהוה)**, Rúaj de יהוה. El texto no ofrece una energía indefinida: enumera sabiduría, discernimiento, consejo, poder, conocimiento y temor de יהוה. Eric usa esta lista para mostrar que el Mashíaj se identifica por la calidad de su gobierno y de su discernimiento. La autoridad mesiánica, por tanto, es recibida y orientada hacia יהוה.
 
-## Juicio que no depende de las apariencias — Ieshaiáhu 11:3-5
+## Juicio que no depende de las apariencias — Ieshaiáhu 11:3-5 #ieshaiahu_11_3-5
 
 El gobernante no hace el proceso legal por la vista de sus ojos ni por lo que sus oídos escuchan. Eric aplica esta afirmación al juicio confiable del Mashíaj: no es manipulado por la impresión externa ni por el rumor. El texto concreta ese juicio en los débiles y afligidos de la tierra. La justicia no es una abstracción cortesana; protege a quienes quedarían expuestos ante un poder que juzga mal.
 
 La clase destaca también las imágenes de la vara de la boca y del Rúaj de los labios. Eric las relaciona con la eficacia de la palabra mesiánica y con el juicio contra el malvado. Esa conexión se mantiene como lectura de la perícopa, mientras que la identificación de figuras posteriores debe verificarse en cada pasaje. El cierre de la unidad presenta dos cinturones: **(צדק)**, _tsédeq_, justicia o rectitud, y **(אמונה)**, _emunah_, fidelidad, firmeza o confiabilidad. “Fidelidad” es una aproximación contextual de _emunah_, no una equivalencia exhaustiva para todos sus usos.
 
-## Paz, conocimiento y descanso glorioso — Ieshaiáhu 11:6-10
+## Paz, conocimiento y descanso glorioso — Ieshaiáhu 11:6-10 #ieshaiahu_11_6-10
 
 La convivencia del lobo con el cordero, del leopardo con el cabrito y del león con el ganado no aparece como un adorno separado del gobierno anterior. Eric observa que el texto primero describe al gobernante justo y luego explica que no habrá maldad porque la tierra estará llena del conocimiento de יהוה. La paz tiene una causa teológica: el mundo es reordenado por el conocimiento del Santo, no simplemente por una tregua humana.
 
 En el versículo 10 la raíz de Ishai está en pie como estandarte de los pueblos. Las naciones lo buscan y su **(מנוחה)**, _menújah_, es gloria o descanso glorioso. Eric enlaza este movimiento con Yojanan 12:32: el levantamiento del Mesías atrae hacia él. La correspondencia es temática y pedagógica; Ieshaiáhu habla de la raíz como estandarte y Yojanan interpreta el levantamiento de Yehoshua en su propio argumento. La conexión gana fuerza al observar que ambos textos describen una atracción que alcanza más allá de una sola comunidad, pero no elimina sus diferencias literarias.
 
-## Estandarte, remanente y reconciliación — Ieshaiáhu 11:11-16
+## Estandarte, remanente y reconciliación — Ieshaiáhu 11:11-16 #ieshaiahu_11_11-16
 
 “En aquel día” יהוה vuelve a extender su mano para adquirir al remanente. Eric subraya que el texto nombra regiones y distingue entre los grupos reunidos: no reduce la restauración a una sola población ya organizada. El estandarte para las naciones reúne a los desnaturalizados de Israel y a los dispersos de Yehudáh desde las cuatro esquinas de la tierra. La reunión es espiritual y comunitaria en la exposición, aunque el texto también conserva geografía, pueblos y memoria histórica.
 
 El v. 13 impide imaginar una restauración que deje intacta la rivalidad: la envidia de Efráim se aparta y Yehudáh ya no oprime a Efráim. Eric aplica la imagen del nuevo brote y del injerto para explicar cómo personas de fuera pueden participar de la promesa sin borrar la raíz. Esa aplicación debe mantenerse como inferencia teológica de la clase, no como una definición botánica del pasaje. El camino del remanente recuerda el éxodo: la carretera desde Ashur retoma el patrón de יהוה que abre camino y reúne a su pueblo.
 
-## El cántico de salvación — Ieshaiáhu 12:1-6
+## El cántico de salvación — Ieshaiáhu 12:1-6 #ieshaiahu_12_1-6
 
 El capítulo 12 responde a la visión con una confesión: יהוה manifestó su enojo, pero su ira se volvió y restauró al hablante. Eric presenta este giro como consuelo para una comunidad que reconoce su fracaso sin concluir que la historia terminó. “El es mi salvación, confiaré y no temeré” mantiene unido al Mashíaj con la salvación de יהוה; la mediación mesiánica no desplaza al Santo de Israel.
 
@@ -100,7 +100,7 @@ Los vv. 13-16 completan la restauración: **וסרה קנאת אפרים ... א�
 
 El capítulo 12 responde en orden: **הנה אל ישועתי אבטח ולא אפחד** (12:2), **ושאבתם מים בששון ממעיני הישועה** (12:3), y **צהלי ורני יושבת ציון כי גדול בקרבך קדוש ישראל** (12:6). Eric presenta confianza, aguas, canto y presencia del Santo como resultado de la reunión. **ישועה** (_yeshuah_) significa salvación; **אבטח** (_evtach_) significa confiaré; la relación con la aplicación mesiánica es temática, mientras que el sujeto explícito del cántico sigue siendo יהוה y el Santo de Israel.
 
-## Léxico de la perícopa y de Yojanan 12:32
+## Léxico de la perícopa y de Yojanan 12:32 #iojanan_12_32
 
 | Forma fuente | Transliteración | Sentido normal | Fuerza contextual y relación |
 | --- | --- | --- | --- |

@@ -108,5 +108,5 @@ Yojanán 16:1-11 sitúa la oposición dentro de una palabra anticipada, no fuera
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=ag3Zg3B2sbs> — source_id: `youtube:ag3Zg3B2sbs`.
+- Video: <https://www.youtube.com/watch?v=ag3Zg3B2sbs> — `source_id`: `youtube:ag3Zg3B2sbs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -8,8 +8,6 @@ sources:
   - "https://www.youtube.com/watch?v=Sbmr5kDBwWc"
   - "docs/scriptures/oe/json/raw/ikings.json"
 source_ids: ["youtube:Sbmr5kDBwWc"]
----
-
 ## Tesis
 
 #1_kings_2 presenta la última comisión de David a Salomón: ser fuerte, guardar el camino de יהוה y ejercer el reinado bajo la Torah.
@@ -35,4 +33,4 @@ El relato define la firmeza por fidelidad y obediencia; el poder de Salomón que
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayji (2017) Comportaos varonilmente](https://www.youtube.com/watch?v=Sbmr5kDBwWc) — (source_id: `youtube:Sbmr5kDBwWc`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayji (2017) Comportaos varonilmente](https://www.youtube.com/watch?v=Sbmr5kDBwWc) — (`source_id`: `youtube:Sbmr5kDBwWc`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

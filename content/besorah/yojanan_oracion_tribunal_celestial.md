@@ -46,9 +46,10 @@ references:
   - "#matityahu_3_15"
 sources:
   - "https://www.youtube.com/watch?v=4nYEkCmDn14"
-  - "private/sources/4nYEkCmDn14.md"
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
-  - "private/sources/LfJ1LGjOXho.md"
+source_ids:
+  - "youtube:4nYEkCmDn14"
+  - "youtube:LfJ1LGjOXho"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -290,3 +291,9 @@ Esa lectura se sostiene con Zekharyah 3, Tehilim 110, Daniel 7, Ivrim 1 y llega 
 - [[yojanan_introduccion|Introducción al evangelio de Yojanán]]
 - [[../temas/elohim_aba|Elohim y Aba como amor manifiesto y fuente]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=4nYEkCmDn14) (`source_id`: `youtube:4nYEkCmDn14`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

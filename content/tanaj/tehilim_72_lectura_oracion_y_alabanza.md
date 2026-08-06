@@ -51,5 +51,5 @@ La lectura de Tehilim 72 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 72» — <https://www.youtube.com/watch?v=psVGY-b6Qoc> — source_id: `youtube:psVGY-b6Qoc`.
+- «Tehilim/Himnos/Salmo Cap 72» — <https://www.youtube.com/watch?v=psVGY-b6Qoc> — `source_id`: `youtube:psVGY-b6Qoc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

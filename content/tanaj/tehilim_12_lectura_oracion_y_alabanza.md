@@ -48,7 +48,7 @@ Esta nota organiza la enseñanza «Tehillim/Psalms/Psalm Ch. 12» en el orden de
 | #tehilim_12_8 | אתה יהוה תשמרם תצרנו מן הדור זו לעולם | El salmo confiesa que יהוה guarda frente a esta generación. |
 | #tehilim_12_9 | סביב רשעים יתהלכון כרם זלות לבני אדם | El cierre mantiene ante los ojos el entorno donde prospera lo vil. |
 
-## Del encabezado a la súplica: Tehilim 12:1–2
+## Del encabezado a la súplica: Tehilim 12:1–2 #tehilim_12_1-2
 
 Eric comienza con el encabezado y observa que **(השמינית)**, *hasheminit*, «la octava», puede sugerir un marco musical y, en su lectura, evocar el «día octavo». El texto local confirma la forma del encabezado, pero no explica por sí solo ese sentido adicional; por eso la relación escatológica queda pendiente de verificar.
 
@@ -56,7 +56,7 @@ En el v. 2, la clase se detiene en **(הושיעה)**, *hoshia*, el imperativo �
 
 La clase conecta esta sensación de oscuridad con Yeshayahu 60 y con la espera de Israel antes de Yehoshua. Esa aplicación preserva el tono concreto de Eric —una minoría fiel que parece extinguirse—, pero Tehilim 12 no nombra a Roma ni fecha su escenario. La conexión histórica y mesiánica se mantiene como inferencia cualificada.
 
-## Labios lisos, doble corazón y autosuficiencia: Tehilim 12:3–5
+## Labios lisos, doble corazón y autosuficiencia: Tehilim 12:3–5 #tehilim_12_3-5
 
 El poema pasa de la falta de fieles al modo en que se habla: **(שוא)**, *shav*, nombra lo vano o vacío; **(שפת חלקות)**, *sefat halaqot*, son «labios lisos» o halagadores; y **(בלב ולב)**, *belev valev*, literalmente «con corazón y corazón», describe una comunicación dividida. Eric conserva la imagen literal para denunciar una apariencia rigurosa que encubre otra intención. Esta observación tiene apoyo textual en la repetición de labios, lengua y corazón; no exige convertir cada hablante del salmo en un grupo histórico determinado.
 
@@ -64,7 +64,7 @@ La clase propone que *halaqot* no es mera lisonja: lo relaciona con una «atenua
 
 El v. 5 explicita su orgullo: los hablantes creen que por su lengua prevalecerán y preguntan «¿quién es señor para nosotros?». Eric entiende esto como una rebelión que puede vestirse de religiosidad. La nota evalúa esa aplicación como inferencia cualificada: el versículo sí contrapone la autonomía verbal con el señorío que ellos rechazan, aunque no enumera instituciones ni doctrinas posteriores.
 
-## יהוה se levanta y sus palabras son puras: Tehilim 12:6–7
+## יהוה se levanta y sus palabras son puras: Tehilim 12:6–7 #tehilim_12_6-7
 
 En el v. 6 cambia la voz: por el despojo de los pobres y el gemido de los necesitados, יהוה dice «ahora me levantaré». Eric subraya que levantarse del trono significa actuar y lo vincula a la obra salvadora de Yehoshua. La primera parte de la observación —la intervención divina ante la opresión— sigue el verso; la identificación de ese «levantaré» con una única venida mesiánica es una lectura teológica de la clase, no una afirmación explícita del salmo.
 
@@ -72,7 +72,7 @@ Eric además discute una lectura alternativa para la última frase del v. 6 y la
 
 El v. 7 ofrece el contraste decisivo: frente a labios dobles, las **(אמרות יהוה)**, *imrot יהוה*, son puras, como plata refinada. Eric ve aquí continuidad entre las palabras de יהוה y la enseñanza de Yehoshua, y aplica la metáfora de la refinación a su inocencia probada. La comparación poética afirma sin duda la pureza de las palabras divinas; su traslado directo a la persona del Mesías es una analogía teológica, no una equivalencia léxica exacta. **(טהרות)**, *tehorot*, significa «puras», y **(מזקק שבעתים)**, *mezuqaq shivatayim*, intensifica la imagen de refinamiento «siete veces».
 
-## Guarda en medio de la generación: Tehilim 12:8–9
+## Guarda en medio de la generación: Tehilim 12:8–9 #tehilim_12_8-9
 
 Eric observa que el v. 8 contiene pronombres cuya referencia ha sido discutida y propone una lectura singular para enlazarla con el Mesías; después relaciona «esta generación» con expresiones de los Evangelios. El texto local dice «los guardarás» y «lo guardarás» en la misma línea. La nota no resuelve esa dificultad por conjetura: reconoce que el salmo confiesa la protección de יהוה, pero deja la decisión textual y la conexión evangélica para verificación.
 

@@ -33,7 +33,7 @@ Esta nota canónica reúne la fuente disponible para Tehilim 83. La transcripci�
 | #tehilim_83_1  | שיר מזמור לאסף                              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
 | #tehilim_83_19 | וידעו כי אתה שמך יהוה לבדך עליון על כל הארץ | El verso final permite observar el cierre de la composición.         |
 
-## Súplica ante una conspiración — Tehilim 83:1-9
+## Súplica ante una conspiración — Tehilim 83:1-9 #tehilim_83_1-9
 
 El salmo no comienza con una explicación abstracta del conflicto, sino con tres imperativos acumulados: «אלהים אל דמי לך אל תחרש ואל תשקט אל» (v. 2), «Elohim, no guardes silencio; no calles ni permanezcas quieto». Eric detiene la lectura en esa insistencia y presenta el silencio divino como el problema que la oración lleva delante de יהוה, no como prueba de que יהוה haya abandonado a su pueblo. La repetición verbal hace visible la urgencia antes de enumerar a los enemigos.
 
@@ -41,7 +41,7 @@ Los vv. 3-6 explican la urgencia: «כי הנה אויביך יהמיון ומש
 
 La lista de vv. 7-9 —אדום, ישמעאלים, מואב, הגרים, גבל, עמון, עמלק, פלשת, צור y אשור— muestra una coalición presentada desde la perspectiva del orante. «ברית יכרתו» (v. 6) da forma de pacto a la conjura. La enumeración funciona como acumulación poética: el peligro parece rodear a Israel. Es una observación atribuible a la clase y comprobable en el orden del salmo, no una afirmación de que todos los detalles históricos del episodio puedan reconstruirse desde este poema.
 
-## Memoria judicial y petición de reconocimiento — Tehilim 83:10-19
+## Memoria judicial y petición de reconocimiento — Tehilim 83:10-19 #tehilim_83_10-19
 
 Eric enlaza la petición presente con las derrotas antiguas: «עשה להם כמדין כסיסרא כיבין בנחל קישון» (v. 10). El salmo recuerda a Madián, Sísara y Jabín, y después a Oreb, Zeeb, Zebaj y Zalmuna (vv. 12-13). La comparación con Ju 4–8 es una relación canónica exacta en los nombres y una ayuda de contexto; no reemplaza el sentido del salmo, que pide a יהוה actuar otra vez frente a una alianza que pretende apropiarse de «נאות אלהים», las moradas de Elohim (v. 13).
 
@@ -78,5 +78,5 @@ Tehilim 83 pasa del silencio que se reclama a Elohim, por la descripción de una
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo chap 83» — <https://www.youtube.com/watch?v=mhWdmbOieNA> — source_id: `youtube:mhWdmbOieNA`.
+- «Tehilim/Hymnos/Salmo chap 83» — <https://www.youtube.com/watch?v=mhWdmbOieNA> — `source_id`: `youtube:mhWdmbOieNA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

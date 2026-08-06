@@ -50,19 +50,19 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La TORAH dada por 
 | #galatians_3_19-20 | **אִם־כֵּן־הַתּוֹרָה מַה־הִיא מִפְּנֵי הַפְּשָׁעִים נוֹסָפָה ... עֲרוּכָה עַל־יְדֵי הַמַּלְאָכִים וּבְיַד מְתַוֵּךְ** | La Torah se relaciona con las transgresiones y la mediación; el texto exige no borrar la pregunta sobre su función. |
 | #galatians_3_21-22 | **וְעַתָּה הַמְבַטֶּלֶת הַתּוֹרָה אֶת־הַבְטָחוֹת הָאֱלׂהִים חָלִילָה ... הַכָּתוּב הִסְגִּיר אֶת־הַכּׂל בְּיַד הַחֵטְא** | Shaul niega que la Torah anule las promesas y explica que la Escritura encierra todo bajo pecado para que la promesa se dé por la emunah. |
 
-## El Mesías redime para abrir la promesa: 3:13-14
+## El Mesías redime para abrir la promesa: 3:13-14 #galatians_3_13-14
 
 Eric comienza explicando que muchas traducciones hablan de «la maldición de la ley» y que la clase prefiere hablar de desprecio o deshonra de la Torah. El punto atribuible es que el Mesías no convierte la Torah en algo malo; carga la consecuencia de la transgresión y es expuesto en el madero. La clase usa la imagen de un sensor: la Torah ilumina el pecado y deja al descubierto la infracción, pero la limpieza y la reconciliación no proceden del mérito de quien fue detectado.
 
 El texto local conserva **מִקִּלְלַת הַתּוֹרָה**, «de la maldición de la Torah», y **לִקְלָלָה**, «para maldición», mientras cita que el colgado es «maldición de Elohim». Por tanto, «desprecio» puede registrarse como interpretación de la exposición, pero no debe sustituir silenciosamente la forma del corpus. Gálatas 3:14 fija el propósito: que la bendición de Abraham llegue a las naciones en el Mesías y que recibamos la promesa del Ruaj por la emunah. Esta finalidad gobierna la lectura; la explicación ontológica de cómo el Mesías «se disminuyó» permanece como inferencia doctrinal de la clase.
 
-## La promesa ratificada precede a la Torah: 3:15-18
+## La promesa ratificada precede a la Torah: 3:15-18 #galatians_3_15-18
 
 La segunda unidad usa un ejemplo humano: una alianza ratificada no se invalida ni se le añade. Shaul habla de las promesas a Abraham y a su simiente, que Delitzsch expresa en singular y relaciona con el Mesías. Eric subraya que la promesa no es un salario ganado por Abraham ni una recompensa transferible por los méritos de los patriarcas. El lenguaje de la clase enlaza promesa, juramento, tierra y herencia; la conexión temática está presente en el argumento, aunque no cada palabra sea una equivalencia estricta en todos los pasajes.
 
 El versículo 17 coloca la Torah cuatrocientos treinta años después de la promesa. El dato decisivo para Shaul es funcional: lo posterior no puede invalidar lo anterior. En 3:18 la herencia procede de la promesa, no de la Torah. Esto no convierte a la Torah en un error ni en una intrusa; delimita aquello que no puede hacer. La clase lo aplica diciendo que obedecer no es el fundamento de recibir la promesa, sino la consecuencia de haber recibido una vida transformada. Es una síntesis pastoral coherente con el contraste del capítulo, pero la nota no usa por sí sola la cifra para resolver todas las cronologías del éxodo.
 
-## La Torah: función, transgresión y mediación: 3:19-22
+## La Torah: función, transgresión y mediación: 3:19-22 #galatians_3_19-22
 
 Cuando Shaul pregunta «¿para qué la Torah?», el texto responde que fue añadida por causa de las transgresiones hasta la llegada de la simiente. Eric propone traducir o entender la relación como «para las transgresiones» y afirma que la Torah fue dada por gracia: no es el instrumento de la herencia, pero sí una guía que señala el pecado y orienta la vida. La imagen del manual es pedagógica; el pasaje demuestra una función relacionada con transgresión, mediación y temporalidad, no todos los detalles de esa imagen.
 

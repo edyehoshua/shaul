@@ -36,7 +36,7 @@ Bereshit 2–3 presenta al ser humano como criatura formada por Elohim, colocada
 
 La fuente pública de Eric de Jesús Rodríguez Mendoza se titula «Parashat Bre'shit Parte 2 Gn 2:1-3:22 El Postrer 'Adam - 'Adam Qadmon». El título permite atribuirle el foco general en el segundo Adam y en la lectura conjunta de Génesis 2–3. No se presenta como cita literal ni se añaden afirmaciones específicas de una transcripción no disponible. El texto de la perícopa gobierna la evaluación: primero la formación y vocación, después la prueba, la caída y el juicio, siguiendo el orden narrativo.
 
-## 2:1-17: vida recibida y encargo confiado
+## 2:1-17: vida recibida y encargo confiado #genesis_2_1-17
 
 El cierre de la creación conduce a un escenario particular. Elohim forma al humano del polvo y sopla en él aliento de vida (#genesis_2_7); la vida no aparece como autonomía absoluta, sino como don recibido. El jardín es plantado, el humano es colocado allí y recibe un encargo: cultivarlo y guardarlo (#genesis_2_15). Antes de hablar de transgresión, el capítulo habla de provisión, límites y responsabilidad.
 
@@ -44,19 +44,19 @@ El mandamiento sobre el árbol del conocimiento del bien y del mal establece que
 
 La forma hebrea **(נפשׁ חיה)**, _nefesh jayá_, tiene como sentido ordinario «ser viviente» o «criatura viviente»; en #genesis_2_7 describe al humano convertido en vida por el aliento recibido. La relación con «alma» es pedagógica y aproximada: _nefesh_ no significa automáticamente una entidad incorpórea separada del cuerpo. **(עבד)**, _avad_, significa trabajar, servir o cultivar; en #genesis_2_15 su fuerza contextual es el cuidado activo del jardín. «Labrar» es una glosa directa en este contexto, no una autorización para tratar la creación como propiedad sin obligación.
 
-## 2:18-25: correspondencia, unión y desnudez sin vergüenza
+## 2:18-25: correspondencia, unión y desnudez sin vergüenza #genesis_2_18-25
 
 Elohim declara que no es bueno que el humano esté solo y presenta la creación de la mujer como una respuesta adecuada (#genesis_2_18-22). La mujer no aparece como un accesorio del encargo, sino como la ayuda correspondiente que permite una relación de mutualidad. El reconocimiento «hueso de mis huesos» expresa parentesco y alegría; el versículo no desarrolla por sí solo todas las estructuras sociales posteriores.
 
 #genesis_2_24 resume la unión con lenguaje de salida, adhesión y una sola carne. El capítulo termina con desnudez sin vergüenza (#genesis_2_25), de modo que vergüenza y ocultamiento pertenecen al cambio narrado en el capítulo siguiente, no a la condición original descrita aquí. **(עזר כנגדו)**, _ezer kenegdo_, significa «ayuda correspondiente a él» o «ayuda frente a él»; su fuerza contextual afirma correspondencia adecuada, no inferioridad automática. «Ayuda» es directa, pero leerla como subordinación esencial sería una inferencia ilegítima.
 
-## 3:1-7: la palabra distorsionada y la transgresión
+## 3:1-7: la palabra distorsionada y la transgresión #genesis_3_1-7
 
 La serpiente comienza alterando la pregunta sobre el mandamiento (#genesis_3_1). La mujer responde, pero la conversación muestra cómo una palabra de Elohim puede ser desplazada por una promesa de autonomía: «serán como Elohim, conocedores del bien y del mal» (#genesis_3_5). La mujer ve, toma y come; el hombre también come (#genesis_3_6). La narración atribuye responsabilidad a ambos, aunque el resto de la Escritura puede tratar sus consecuencias en distintos registros.
 
 La primera consecuencia visible es el conocimiento de la desnudez y el intento de cubrirse (#genesis_3_7). El problema no es que el cuerpo haya sido creado malo: el capítulo 2 había cerrado sin vergüenza. La vergüenza aparece como fruto de una relación quebrada con el mandamiento y con el otro. **(נחשׁ)**, _najash_, significa serpiente; su sentido ordinario en el relato es el animal que habla y engaña, mientras las identificaciones teológicas posteriores son cualificadas y deben sostenerse con otros textos. **(ערם)**, _arum_, puede significar astuto o sagaz en #genesis_3_1; la semejanza sonora con **(ערום)**, «desnudo», es literaria y pedagógica, no prueba que ambos términos tengan el mismo sentido.
 
-## 3:8-24: juicio, responsabilidad y promesa
+## 3:8-24: juicio, responsabilidad y promesa #genesis_3_8-24
 
 Elohim llama al humano, pregunta y escucha las respuestas. El hombre culpa a la mujer y la mujer culpa a la serpiente (#genesis_3_9-13); ninguna explicación elimina la responsabilidad de haber comido. El juicio alcanza a la serpiente, a la mujer, al hombre y al suelo, pero no borra la continuidad de la vida. #genesis_3_15 establece enemistad entre la serpiente y la mujer, entre sus descendencias, y describe una herida decisiva en el conflicto.
 

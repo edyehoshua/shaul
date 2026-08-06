@@ -50,7 +50,7 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La JUDAIZACIÓN en
 | #galatians_2_17-18 | **ואם נמצא גם־אנחנו חטאים ... חלילה׃ כי אם־אשוב ואבנה את־אשר סתרתי אעשה את־עצמי לפשע** | La gracia no hace al Mesías servidor del pecado; volver a levantar lo derribado convierte al propio sujeto en transgresor. |
 | #galatians_2_19-21 | **כי־מתי אני לתורה על־ידי התורה למען אחיה לאלהים׃ עם־המשיח נצלבתי ... לא אבטל את־חסד האלהים** | Morir con el Mesías produce vida para Elohim; anular la gracia haría vana la muerte del Mesías. |
 
-## El temor altera la mesa y confunde al cuerpo: 2:11-14
+## El temor altera la mesa y confunde al cuerpo: 2:11-14 #galatians_2_11-14
 
 La clase comienza con una escena concreta: Kefa comía con los gentiles, pero cuando llegaron ciertos hombres desde donde estaba Jacobo, se apartó por temor a los de la circuncisión. La exposición subraya que el texto no describe una simple preferencia privada. Otros judíos y Bernabé fueron arrastrados por la conducta, y los gentiles podían concluir que necesitaban adoptar el patrón religioso de los visitantes para pertenecer al pueblo.
 
@@ -58,7 +58,7 @@ Pablo no espera a que la impresión se consolide. El texto local dice que lo rep
 
 La palabra «judaizar» requiere precisión. En la exposición significa empujar a los gentiles hacia la halajá rabínica y sus rituales —por ejemplo, presentar velas, pan de Shabbat, kipá o requisitos de circuncisión como condiciones divinas—, no enseñar que el pueblo debe abandonar toda obediencia. El episodio sí demuestra presión para que los gentiles vivan «como judíos» según una expectativa de identidad; no enumera en Gálatas 2 cada práctica que la clase menciona. Por eso el ejemplo es pastoral y la identificación histórica de cada costumbre queda pendiente.
 
-## «Obras de la Torah» y la justicia que no se compra: 2:15-18
+## «Obras de la Torah» y la justicia que no se compra: 2:15-18 #galatians_2_15-18
 
 Pablo pasa de la mesa a la afirmación doctrinal: el hombre no es justificado por obras de la Torah, sino por la emunah de Yehoshua el Mesías. Eric insiste en que la frase no debe leerse como una condena de todo mandamiento divino. En la interpretación de la clase, «obras de la Torah» señala el uso de observancias como méritos y como sistema de reconocimiento religioso. Esta explicación ayuda a preservar la tensión con otros textos que llaman buena y santa a la Torah, pero la nota no presenta como demostrado que la expresión tenga siempre el mismo alcance en cada carta.
 
@@ -66,7 +66,7 @@ La diferencia entre obediencia y mérito es decisiva. Una obra puede ser fruto d
 
 Aquí conviene diferenciar el texto de las aplicaciones. «Halajá» viene de una raíz asociada con caminar y puede servir como contraste pedagógico con el «andar» del creyente. Sin embargo, Gálatas 2 no ofrece una definición histórica completa de la halajá ni permite afirmar sin investigación que toda práctica judía sea una invención farisea. La afirmación firme es más estrecha: la conducta de Kefa estaba produciendo una presión incompatible con la verdad de la besorah.
 
-## Morir con el Mesías para vivir ante Elohim: 2:19-21
+## Morir con el Mesías para vivir ante Elohim: 2:19-21 #galatians_2_19-21
 
 La conclusión de Pablo no es «ya nada importa». «Por medio de la Torah morí para la Torah», según el texto local, «para vivir para Elohim». Eric lee esta frase como el fin de la confianza en la justicia propia: quien ha sido unido al Mesías ya no vive centrado en exhibir su propio rendimiento. «Con el Mesías fui crucificado» lleva la misma dirección. El yo que intenta construir una identidad salvadora queda juzgado; la vida presente se recibe en la emunah del Hijo de Elohim que amó y se entregó.
 

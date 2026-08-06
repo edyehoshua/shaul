@@ -8,8 +8,6 @@ sources:
   - "https://www.youtube.com/watch?v=mYxHiWxlrjo"
   - "docs/scriptures/oe/json/obadiah/1.json"
 source_ids: ["youtube:mYxHiWxlrjo"]
----
-
 ## Tesis
 
 #obadiah_1 denuncia la soberbia y violencia de Edom contra su hermano Jacob, y anuncia que en Sion habrá liberación y santidad.
@@ -35,4 +33,4 @@ Abdías llama a abandonar la soberbia que se alegra del desastre ajeno y a esper
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayishláj (2017) En el monte de Tziyón habrá escapatoria](https://www.youtube.com/watch?v=mYxHiWxlrjo) — (source_id: `youtube:mYxHiWxlrjo`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Vayishláj (2017) En el monte de Tziyón habrá escapatoria](https://www.youtube.com/watch?v=mYxHiWxlrjo) — (`source_id`: `youtube:mYxHiWxlrjo`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

@@ -125,6 +125,6 @@ El relato conserva a la vez cercanía, dolor y testimonio. Yehoshua anuncia que 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=xEjiNJv1SwY> — source_id: `youtube:xEjiNJv1SwY`.
-- Video: <https://www.youtube.com/watch?v=mDRnD6fp42I> — source_id: `youtube:mDRnD6fp42I`.
+- Video: <https://www.youtube.com/watch?v=xEjiNJv1SwY> — `source_id`: `youtube:xEjiNJv1SwY`.
+- Video: <https://www.youtube.com/watch?v=mDRnD6fp42I> — `source_id`: `youtube:mDRnD6fp42I`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

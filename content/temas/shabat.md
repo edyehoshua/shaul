@@ -128,8 +128,8 @@ Guardar Shabat no consiste en añadir ansiedad al cese ni en volver indiferente 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Conversatorio sobre el día del Shabat. Parte 1.](https://www.youtube.com/watch?v=YTlUMcNA2qs) (source_id: `youtube:YTlUMcNA2qs`).
-- Video: [Conversatorio sobre el día de SHabat Parte 2: La época del segundo templo](https://www.youtube.com/watch?v=s7XQEhdaOdw) (source_id: `youtube:s7XQEhdaOdw`).
-- Video: [Conversatorio sobre el día de Shabat Parte 3: TALMUD, EDAD MEDIA Y EDAD MODERNA](https://www.youtube.com/watch?v=N1MFZtCzkn8) (source_id: `youtube:N1MFZtCzkn8`).
-- Video: [Conversatorio sobre el día de Shabat - Parte 4 La práctica del Shabat](https://www.youtube.com/watch?v=CnQSQIvZHvs) (source_id: `youtube:CnQSQIvZHvs`).
+- Video: [Conversatorio sobre el día del Shabat. Parte 1.](https://www.youtube.com/watch?v=YTlUMcNA2qs) (`source_id`: `youtube:YTlUMcNA2qs`).
+- Video: [Conversatorio sobre el día de SHabat Parte 2: La época del segundo templo](https://www.youtube.com/watch?v=s7XQEhdaOdw) (`source_id`: `youtube:s7XQEhdaOdw`).
+- Video: [Conversatorio sobre el día de Shabat Parte 3: TALMUD, EDAD MEDIA Y EDAD MODERNA](https://www.youtube.com/watch?v=N1MFZtCzkn8) (`source_id`: `youtube:N1MFZtCzkn8`).
+- Video: [Conversatorio sobre el día de Shabat - Parte 4 La práctica del Shabat](https://www.youtube.com/watch?v=CnQSQIvZHvs) (`source_id`: `youtube:CnQSQIvZHvs`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales ni como sustituto de la Escritura.

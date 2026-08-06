@@ -92,12 +92,12 @@ La nota mesiánica de las clases puede dialogar con Yehoshua y con el lenguaje d
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Acerca De Pésaj 5781-2021](https://www.youtube.com/watch?v=0AAezJaFzTk) — (source_id: `youtube:0AAezJaFzTk`).
-- [Conversatorio sobre el Séder de Pésaj...](https://www.youtube.com/watch?v=gM8GSFGe3go) — (source_id: `youtube:gM8GSFGe3go`).
-- [Conversemos sobre Pésaj (2020)](https://www.youtube.com/watch?v=Yk6Lt97GLmU) — (source_id: `youtube:Yk6Lt97GLmU`).
-- [Fundamentos de Pésaj - Parte 1 Tiempos y fechas](https://www.youtube.com/watch?v=Sdo8perHj5s) — (source_id: `youtube:Sdo8perHj5s`).
-- [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — (source_id: `youtube:kuc2zI9DMZ8`).
-- [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — (source_id: `youtube:JfdMv1nlG2Q`).
-- [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — (source_id: `youtube:Ds5Mju41YzE`).
+- [Acerca De Pésaj 5781-2021](https://www.youtube.com/watch?v=0AAezJaFzTk) — (`source_id`: `youtube:0AAezJaFzTk`).
+- [Conversatorio sobre el Séder de Pésaj...](https://www.youtube.com/watch?v=gM8GSFGe3go) — (`source_id`: `youtube:gM8GSFGe3go`).
+- [Conversemos sobre Pésaj (2020)](https://www.youtube.com/watch?v=Yk6Lt97GLmU) — (`source_id`: `youtube:Yk6Lt97GLmU`).
+- [Fundamentos de Pésaj - Parte 1 Tiempos y fechas](https://www.youtube.com/watch?v=Sdo8perHj5s) — (`source_id`: `youtube:Sdo8perHj5s`).
+- [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — (`source_id`: `youtube:kuc2zI9DMZ8`).
+- [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — (`source_id`: `youtube:JfdMv1nlG2Q`).
+- [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — (`source_id`: `youtube:Ds5Mju41YzE`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -46,7 +46,7 @@ Esta nota estudia Shemot 25:1-40 en el orden del capítulo, con atención especi
 | #shemot_25_31 | **ועשית מנרת זהב טהור מקשה תיעשה המנורה**                                   | «Y harás una Menoráh de oro puro. De trabajo a martillo será la Menoráh»                                   | La luz forma parte del diseño ordenado del santuario.                      |
 | #shemot_25_40 | **וראה ועשה בתבניתם אשר אתה מראה בהר**                                      | «Y mira que los hagas con su diseño que a ti te ha sido mostrado en el monte»                              | El cierre vuelve a someter la ejecución al modelo mostrado.                |
 
-## De lo recibido a la terumah: Shemot 25:1-9
+## De lo recibido a la terumah: Shemot 25:1-9 #shemot_25_1-9
 
 El capítulo abre con יהוה hablando a Moshe. Antes de describir el arca, el texto pide al pueblo una **תרומה** (_terumah_, transliteración: _terumah_). Su sentido normal es una contribución separada o una ofrenda alzada. La raíz **(רום)** (_rum_) se relaciona con altura o elevación. Eric explica que la palabra no significa simplemente “dar algo”, sino tomar una porción de lo que יהוה ha dado y destinarla a un uso elevado. Esa es una aplicación pedagógica coherente con el movimiento del pasaje, aunque la equivalencia “terumah = exaltación” no es exacta en todos sus usos: aquí el sustantivo designa concretamente una contribución para el santuario.
 
@@ -54,7 +54,7 @@ La cláusula «אשר ידבנו לבו» (_asher yidvenu libo_) describe a quie
 
 El centro de esta primera unidad aparece en 25:8: «ועשו לי מקדש ושכנתי בתוכם». **(מקדש)** (_miqdash_) significa santuario o lugar santo; **(שכן)** (_shakan_) significa asentarse o habitar. La TTH conserva “Santuario” y “habitaré”. Eric relaciona _shakan_ con la idea de habitar sin temor y de allí con _Mishkán_; como explicación pastoral expresa el objetivo de una presencia accesible dentro del pacto, pero no debe presentarse como una definición exhaustiva de la raíz ni como garantía de ausencia de toda reverencia o juicio. Además, el hebreo dice “en medio de ellos” (_betokham_), no meramente “en un edificio”: el santuario sirve a la presencia de יהוה en la comunidad.
 
-## El arca, la cubierta y la palabra: Shemot 25:10-22
+## El arca, la cubierta y la palabra: Shemot 25:10-22 #shemot_25_10-22
 
 El segundo movimiento comienza con el arca de madera de acacias recubierta de oro. El texto no deja que el material absorba el propósito: en 25:16 se coloca dentro «את העדת», **(עדות)** (_edut_), el testimonio. Su sentido normal es testimonio o documento que da fe; aquí apunta al testimonio que יהוה entrega. La caja no es un amuleto autónomo: guarda aquello que recuerda la palabra y el pacto.
 
@@ -62,7 +62,7 @@ Sobre el arca se coloca la **כפרת** (_kaporet_), transliterada _kaporet_. La
 
 Los **כרבים** (_keruvim_, querubines) tienen alas extendidas y rostros orientados uno hacia el otro y hacia la cubierta. El texto no ordena adorarlos ni les atribuye autonomía divina. Su función literaria aquí es marcar el lugar sobre el cual יהוה promete encontrarse con Moshe. Eric relaciona el espacio con reconciliación y buena noticia al pueblo; la primera parte está sugerida por el uso posterior del lugar, mientras que la formulación “buena nueva” es una lectura teológica pedagógica, no una traducción de _keruvim_ o _kaporet_.
 
-## Mesa, pan, menorah y obediencia al diseño: Shemot 25:23-40
+## Mesa, pan, menorah y obediencia al diseño: Shemot 25:23-40 #shemot_25_23-40
 
 La mesa recibe el pan del rostro continuamente: «לחם פנים» (_lechem panim_), literalmente “pan de rostros” o “pan de la presencia”. TTH traduce «Pan del Rostro», una solución explicativa y no una equivalencia palabra por palabra. La mesa y el pan muestran que el santuario no es solo un depósito del testimonio: es un ámbito de servicio continuo delante de יהוה.
 

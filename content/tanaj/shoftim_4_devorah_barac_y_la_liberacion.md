@@ -77,6 +77,6 @@ Shoftim 4 conduce de la opresión y el clamor a una liberación que el propio te
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Beshallach Haftarah: In the Time and Place of YHWH» — https://www.youtube.com/watch?v=HCQAeHF7SYQ (`source_id: youtube:HCQAeHF7SYQ`).
+- «Beshallach Haftarah: In the Time and Place of YHWH» — https://www.youtube.com/watch?v=HCQAeHF7SYQ (`source_id`: youtube:HCQAeHF7SYQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

@@ -168,6 +168,6 @@ La evaluación final es doble: la iniciativa de יהוה, la secuencia de redenc
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Va'era' (2017). El plan de la redención de ayer y de hoy - hijos del Dios viviente](https://www.youtube.com/watch?v=jmaOISSHuOs) (source_id: `youtube:jmaOISSHuOs`).
-- [Parashat Va'era' Éxodo 6:2 - 9:35 - Qasheh, Jazaq y Kaved](https://www.youtube.com/watch?v=YFejem1jPTk) (source_id: `youtube:YFejem1jPTk`).
+- [Parashat Va'era' (2017). El plan de la redención de ayer y de hoy - hijos del Dios viviente](https://www.youtube.com/watch?v=jmaOISSHuOs) (`source_id`: `youtube:jmaOISSHuOs`).
+- [Parashat Va'era' Éxodo 6:2 - 9:35 - Qasheh, Jazaq y Kaved](https://www.youtube.com/watch?v=YFejem1jPTk) (`source_id`: `youtube:YFejem1jPTk`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

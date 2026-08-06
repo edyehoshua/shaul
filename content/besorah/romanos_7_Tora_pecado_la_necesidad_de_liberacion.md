@@ -50,13 +50,13 @@ Esta es la nota canónica del capítulo 7 y organiza las partes 15–17 de la se
 | #romanos_7_22-25 | **כי לפי האדם הפנימי חפצתי בתורת אלהים׃ אוילי האדם העני מי יצילני מגוף המות הזה׃ אברכה אתהאלהים בישוע המשיח אדנינו׃**                                                                                                                                                               | El querer interior y la impotencia del hablante desembocan en una petición de liberación y gratitud.                           |
 | #romanos_8_1-4   | **עלכן עתה איןאשמה באלה אשר הם במשיח ישוע המתהלכים שלא כבשר אלא לפי הרוח׃ כי תורת רוח החיים אשר במשיח ישוע הוציאה אתי לחפשי מתורת החטא והמות׃ כדי שתקים צדקת התורה בנו ההלכים לאכדרך הבשר כי אםלפי הרוח׃**                                                                          | La respuesta inmediata no es desprecio de la Torá: la liberación del pecado y de la muerte orienta a un caminar según el Rúaj. |
 
-## 7:1-6 — Morir con el Mesías para servir de nuevo
+## 7:1-6 — Morir con el Mesías para servir de nuevo #romanos_7_1-6
 
 Pablo se dirige a quienes conocen la Torá y abre con su autoridad sobre la persona mientras vive (#romanos_7_1). La analogía matrimonial de #romanos_7_2-3 prepara su afirmación: los hermanos han llegado a ser «muertos a la Torá» mediante el cuerpo del Mesías, con el propósito de pertenecer al resucitado y dar fruto para Elohim (#romanos_7_4). El texto no dice que la Torá haya muerto ni que sea mala; describe un cambio de relación para una comunidad unida al Mesías.
 
 La parte 15 pone precisamente el foco en «la novedad del Rúaj» frente a «la antigüedad de la letra». La observación de Eric conserva un contraste real del cierre: #romanos_7_6 habla de servir según la novedad del Rúaj y no según lo antiguo de la letra. El texto local sitúa ese servicio después de la muerte respecto de aquello que retenía a los creyentes. Por ello, «novedad» no se puede reducir a una oposición entre obediencia e indiferencia moral: el fruto para Elohim de #romanos_7_4 sigue siendo la finalidad explícita.
 
-## 7:7-13 — El mandamiento santo y el pecado que engaña
+## 7:7-13 — El mandamiento santo y el pecado que engaña #romanos_7_7-13
 
 La siguiente pregunta evita una conclusión equivocada: «¿es la Torá pecado?». Pablo responde **חלילה**, de ninguna manera (#romanos_7_7). El mandamiento «no codiciarás» da conocimiento del pecado; el pecado, en cambio, toma ocasión por medio del mandamiento, produce codicia, engaña y mata (#romanos_7_8-11). La conclusión es inequívoca: la Torá es santa, y el mandamiento santo, justo y bueno (#romanos_7_12).
 
@@ -64,13 +64,13 @@ La forma hebrea **חלילה**, _ḥalilah_, tiene como sentido ordinario «lejo
 
 Esta secuencia permite afinar la preocupación de la clase por no convertir la «letra» en un nombre para todo mandamiento. En Romanos 7, el problema nombrado no es la santidad del mandamiento, sino el pecado que lo aprovecha. La afirmación de Eric sobre una libertad verdadera puede, por tanto, leerse como libertad del dominio engañador del pecado; no como permiso para declarar malo lo que Pablo acaba de llamar santo y bueno.
 
-## 7:14-25 — La tragedia carnal y el clamor por liberación
+## 7:14-25 — La tragedia carnal y el clamor por liberación #romanos_7_14-25
 
 La parte 16 se titula «La tragedia de los carnales», y el párrafo central explica por qué el conflicto no admite triunfalismo. Pablo llama espiritual a la Torá, mientras se describe como carnal y vendido al pecado (#romanos_7_14). Reconoce que quiere lo bueno y consiente con la Torá según el ser interior (#romanos_7_15-22), pero observa otra ley en sus miembros que combate y lo hace cautivo (#romanos_7_23).
 
 La clase advierte que #romanos_7_25 no autoriza a separar una mente supuestamente fiel de una vida corporal entregada al pecado. El texto respalda la gravedad de esa advertencia: la frase final resume un conflicto, no una fórmula de tranquilidad. Antes de ella, Pablo exclama «¡miserable hombre de mí!» y pregunta quién lo librará del cuerpo de esta muerte (#romanos_7_24). Su acción de gracias a Elohim por Yehoshua no elimina el diagnóstico; anuncia la liberación que el argumento desarrollará enseguida.
 
-## 8:1-4 — Verdaderamente libres según el Rúaj
+## 8:1-4 — Verdaderamente libres según el Rúaj #romanos_8_1-4
 
 La parte 17 prolonga el grito de Romanos 7 hacia el «ahora» de #romanos_8_1. El texto local declara que no hay condenación para quienes están en el Mesías Yehoshua y nombra la ley del Rúaj de vida que libera de la ley del pecado y de la muerte (#romanos_8_2). La clase insiste en que la libertad es verdadera porque tiene un objeto definido: no es simplemente negación de la Torá, sino salida del régimen del pecado y de la muerte.
 

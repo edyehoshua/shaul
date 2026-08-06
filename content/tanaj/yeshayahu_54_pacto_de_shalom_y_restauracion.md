@@ -96,6 +96,6 @@ Isaías 54 manda cantar a una Sion que todavía recuerda su desolación, porque 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Re'eh (2018) El Déshen y las piedades fieles del amado](https://www.youtube.com/watch?v=0tc7KX2dwHI) — source_id: `youtube:0tc7KX2dwHI`.
-- Video: [Haftaráh de Nóaj (2017) YHWH Tzva'ot es su nombre](https://www.youtube.com/watch?v=pMP3wkV3ya0) — source_id: `youtube:pMP3wkV3ya0`.
+- Video: [Haftaráh de Re'eh (2018) El Déshen y las piedades fieles del amado](https://www.youtube.com/watch?v=0tc7KX2dwHI) — `source_id`: `youtube:0tc7KX2dwHI`.
+- Video: [Haftaráh de Nóaj (2017) YHWH Tzva'ot es su nombre](https://www.youtube.com/watch?v=pMP3wkV3ya0) — `source_id`: `youtube:pMP3wkV3ya0`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -119,7 +119,7 @@ La clase emplea los términos griegos _synklēronoma_, _syssōma_ y _symmetocha_
 
 En #ephesians_3_7 Pablo vuelve a su propio encargo: llegó a ser servidor de la buena noticia por el don de la gracia de Elohim, conforme a la acción de su poder. La enseñanza enlaza ese poder con la actividad de Elohim y con #ephesians_1_19 (00:53:27–00:57:39). El paralelismo merece estudio; el versículo afirma ante todo que el servicio de Pablo procede del don de gracia y del poder de Elohim, no de una autosuficiencia apostólica.
 
-## Riqueza anunciada, tribulación y oración (3:8-21)
+## Riqueza anunciada, tribulación y oración (3:8-21) #ephesians_3_8-21
 
 <!-- prettier-ignore -->
 Después de nombrar su servicio, Pablo no convierte la gracia en propiedad privada. Se describe como el menor de todos los santos y recibe gracia para anunciar a los gentiles la riqueza inescrutable del Mesías y para iluminar a todos sobre la administración del misterio (#ephesians_3_8-9). El texto añade que, por medio de la asamblea, la sabiduría de Elohim se da a conocer a los poderes celestiales (#ephesians_3_10-11). La clase insiste en que la gracia debe sostener y servir; este cierre canónico confirma el encargo, aunque no autoriza a convertir «sustentabilidad» en el sentido único de _oikonomía_. La prueba textual sostiene el encargo y la participación común; deja como inferencia pedagógica la ampliación de _oikonomía_ a «sustentabilidad».
@@ -169,7 +169,7 @@ El encargo se vuelve visible en la asamblea: **γνωρισθῇ**, _gnōristhē
 
 La oración prueba el resultado del misterio con formas recibidas. **ἐνδυναμωθῆναι**, _endynamōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», en 3:16-17 describen lo que Pablo pide al Padre por medio del Rúaj y para el Mesías en los corazones. **σὺν πᾶσιν τοῖς ἁγίοις**, _syn pasin tois hagiois_, «con todos los santos», limita una lectura individualista de **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», en 3:18. Eric relaciona la mente, el Rúaj y la formación; el texto confirma fortalecimiento, morada y comprensión compartida, pero no convierte esas glosas en equivalencias léxicas universales.
 
-## Control de 3:10-13: sabiduría pública y tribulación
+## Control de 3:10-13: sabiduría pública y tribulación #ephesians_3_10-13
 
 La enseñanza sobre una gracia que sostiene debe pasar también por la asamblea y la tribulación, no detenerse en la experiencia de Pablo. En 3:10, **γνωρισθῇ**, _gnōristhē_, «sea dado a conocer», está en forma pasiva y presenta la sabiduría de Elohim como algo que llega a manifestarse por medio de la asamblea; **πολυποίκιλος**, _polypoikilos_, «multiforme o de muchas clases», califica esa sabiduría. La clase puede relacionar esta manifestación con una comunidad que hace visible la riqueza del Mesías, pero el texto no identifica automáticamente cada poder celestial con una institución contemporánea.
 
@@ -241,7 +241,7 @@ La tribulación de Pablo tampoco rompe la cadena. **θλῖψις**, _thlipsis_,
 
 El cierre confirma la dependencia: **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá de toda medida», califica lo que Elohim puede hacer conforme al poder que obra en la comunidad, mientras **δοξάζω**, _doxazō_, «glorificar», termina en la asamblea y en el Mesías por todas las generaciones. Eric puede hablar de riqueza, mente y escuela del Mesías, pero el límite textual es claro: la plenitud se recibe del poder de Elohim y se expresa en una comunidad que comprende, ama, persevera y glorifica, no en una autosuficiencia espiritual.
 
-## Control de secuencia: encargo, acceso y oración comunitaria (3:1-21)
+## Control de secuencia: encargo, acceso y oración comunitaria (3:1-21) #ephesians_3_1-21
 
 Efesios 3 enlaza la administración de la gracia con la oración; no presenta el misterio como una experiencia privada separada del servicio. En 3:1-6, **οἰκονομία**, _oikonomia_, «administración o encargo», describe la responsabilidad recibida por Pablo; **συγκληρονόμα**, _synklēronoma_, «coheredera», **σύσσωμα**, _syssōma_, «del mismo cuerpo», y **συμμέτοχα**, _symmetocha_, «copartícipes», definen la inclusión de las naciones. Eric relaciona la gracia con una riqueza compartida; el texto lo sostiene mediante la repetición de “con”, no mediante una promesa de privilegio individual.
 
@@ -259,7 +259,7 @@ El orden de 3:7-13 impide separar capacidad y misión. **διάκονος**, _di
 
 La oración de 3:14-21 verifica el destino de esa administración. **κραταιόω**, _krataioō_, «fortalecer», **κατοικέω**, _katoikeō_, «habitar», y **ῥιζόω**, _rhizoō_, «arraigar», describen dones pedidos para el ser interior y el corazón; **καταλαμβάνω**, _katalambanō_, «comprender o captar», se realiza «con todos los santos», no fuera de la comunidad. Finalmente **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», dirige la doxología a lo que Elohim hace en nosotros. La riqueza y la escuela del Mesías que Eric desarrolla pueden conservarse como aplicaciones, pero la secuencia local las mide por participación, amor, perseverancia y gloria compartida.
 
-## Control de lectura: de la prisión al amor comprendido (3:1-21)
+## Control de lectura: de la prisión al amor comprendido (3:1-21) #ephesians_3_1-21
 
 La secuencia completa impide separar las afirmaciones de la clase sobre «gracia sustentable» de su objeto apostólico. En 3:1-2, **δέσμιος**, _desmios_, «prisionero o encadenado», y **οἰκονομία**, _oikonomia_, «administración o encargo», describen a Pablo como alguien que recibe una responsabilidad para los gentiles; **χάρις**, _charis_, «gracia o favor concedido», nombra el don, no una capacidad autónoma. El Delitzsch usa **חסד**, _jesed_, «misericordia o lealtad», como aproximación semítica; ilumina el campo de la gracia, pero no prueba que cada matiz de _jesed_ sea el sentido griego de **χάρις**.
 
@@ -269,7 +269,7 @@ La segunda mitad prueba el fruto de esa revelación. En 3:8-13, **διάκονο
 
 Así, la prueba local queda en cuatro movimientos: Pablo es encargado para otros; el misterio se hace público; los gentiles son incorporados a una promesa y un cuerpo; y la comunidad pide recibir fuerza y plenitud. La doxología de 3:20-21 atribuye la capacidad a Elohim mediante **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», y dirige la gloria a la asamblea y al Mesías. Ninguna extensión cosmológica, económica o etimológica de la enseñanza debe desplazar ese orden.
 
-## Control de dependencia: el misterio se vuelve una oración pública (3:1-21)
+## Control de dependencia: el misterio se vuelve una oración pública (3:1-21) #ephesians_3_1-21
 
 La secuencia del capítulo impide separar la administración de la gracia de la oración final. Pablo comienza como prisionero «por ustedes, los gentiles» y enseguida explica que la **οἰκονομία**, _oikonomia_, es una administración o encargo recibido para beneficio de otros. No es una palabra que describa una técnica de sostenimiento material: en 3:2 y 3:9 organiza la responsabilidad de hacer visible lo que Elohim confió. La comparación hebrea **(סוד)**, _sod_, «consejo o secreto», ilumina la idea de algo antes oculto, pero no convierte el griego en una retroversión ni autoriza una lectura esotérica.
 
@@ -287,7 +287,7 @@ Efesios 3 conserva una progresión única. En 3:1-7, **δέσμιος**, _desmio
 
 El texto no termina con la definición doctrinal. En 3:7-13, **διάκονος**, _diakonos_, «servidor», y **ἐνέργεια**, _energeia_, «acción eficaz», atribuyen el ministerio y el poder a la gracia de Elohim; en 3:10 la sabiduría **πολυποίκιλος**, _polypoikilos_, «multiforme», se da a conocer por medio de la asamblea. Luego 3:14-21 responde con oración: **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», **κατοικῆσαι**, _katoikēsai_, «habitar», y **καταλαβέσθαι**, _katalabesthai_, «comprender», conducen a conocer el amor «con todos los santos». Eric puede hablar de gracia sostenible y de mente del Mesías como aplicación pedagógica; el orden local prueba con más precisión un encargo recibido, una inclusión compartida y una plenitud que Elohim concede a la comunidad.
 
-## Control final: revelación pública y fortalecimiento compartido (3:1-21)
+## Control final: revelación pública y fortalecimiento compartido (3:1-21) #ephesians_3_1-21
 
 La observación de Eric sobre una gracia que sostiene no debe separarse del destinatario que Pablo repite. **οἰκονομία**, _oikonomía_, «administración, encargo o responsabilidad confiada», aparece ligada a la gracia recibida para los gentiles; **ἀποκάλυψις**, _apokálypsis_, «revelación o descubrimiento», y **γνωρίζω**, _gnōrízō_, «dar a conocer», describen cómo lo recibido se vuelve comunicable. La comparación con **סוד**, _sod_, «consejo o secreto», es aproximada y contextual: **μυστήριον**, _mystḗrion_, no designa aquí una doctrina esotérica reservada, porque Pablo la expone para que sea entendida.
 
@@ -350,7 +350,7 @@ En 3:3-7 el misterio deja de ser una palabra general y recibe una prueba textual
 
 El capítulo verifica esa inclusión en 3:8-21. **διάκονος**, _diakonos_, «servidor o ministro», y **ἐνέργεια**, _energeia_, «acción eficaz», atribuyen el ministerio y el poder a Elohim; **παρρησία**, _parrēsia_, «franqueza o confianza», y **προσαγωγή**, _prosagōgē_, «acceso o acercamiento», describen la entrada común en el Mesías. Después **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», **κατοικῆσαι**, _katoikēsai_, «habitar», y **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», conducen a fuerza interior, morada y comprensión «con todos los santos». La aplicación de Eric sobre mente, escuela y riqueza queda conservada como enseñanza atribuida, mientras el texto prueba una secuencia más precisa: encargo, participación, fortalecimiento, amor y gloria comunitaria.
 
-## Control de dependencia: revelación, tribulación y oración (3:8-21)
+## Control de dependencia: revelación, tribulación y oración (3:8-21) #ephesians_3_8-21
 
 La parte final del capítulo no abandona el misterio definido en 3:6. En 3:8-9, **ἐλάχιστος**, _elachistos_, «el más pequeño», y **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», presentan a Pablo como servidor de una riqueza que no posee para sí; **ἀνεξιχνίαστος**, _anexichniastos_, «inescrutable o imposible de rastrear por completo», limita cualquier intento de encerrar al Mesías en una fórmula. La observación de Eric sobre una gracia que sostiene a otros queda apoyada como encargo público, mientras «sustentabilidad» permanece como aplicación de **οἰκονομία**, _oikonomia_, no como traducción exhaustiva.
 
@@ -376,7 +376,7 @@ Las partes 15 y 16 amplían la exposición con las expresiones **אבא**, _abba
 
 El vínculo pedagógico entre _abba_, la filiación y la formación puede iluminar la exhortación de la clase, pero su equivalencia con **πατήρ** es funcional y contextual, no una retroversión demostrada. Del mismo modo, _beyta_ puede expresar «casa» y la clase lo usa para hablar de una «escuela del Mesías»; Efesios 3 prueba una familia nombrada desde el Padre y una comunidad fortalecida, arraigada y edificada en amor, pero no emplea en esta perícopa un sustantivo arameo que signifique literalmente «escuela». Esta distinción evita que las partes 15-16 desplacen la progresión local: encargo, participación, oración y gloria comunitaria.
 
-## Control de cierre: del encargo a la plenitud comunitaria (3:8-21)
+## Control de cierre: del encargo a la plenitud comunitaria (3:8-21) #ephesians_3_8-21
 
 La segunda mitad del capítulo no abandona el misterio anunciado en 3:6. En 3:8, **ἐλάχιστος**, _elachistos_, «el menor o más pequeño», califica la autodescripción de Pablo antes de **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», la riqueza inescrutable del Mesías. **ἀνεξιχνίαστος**, _anexichniastos_, «imposible de rastrear por completo», limita la aplicación de Eric sobre la riqueza: la clase puede exhortar a una administración generosa de la gracia, pero la forma no convierte «sustentabilidad» en una traducción exhaustiva de **οἰκονομία**, _oikonomia_, «administración o encargo». La comparación con **עשר**, _osher_, «riqueza», es de campo semántico y no una retroversión demostrada.
 
@@ -395,10 +395,10 @@ El cierre prueba el resultado, no una capacidad autónoma del discípulo. **πλ
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ (`source_id: youtube:bG4SqOvNolQ`).
-- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8 (`source_id: youtube:GulS21GtPP8`).
-- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg (`source_id: youtube:qu6bUTxbmdg`).
-- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0 (`source_id: youtube:kVAJOj4wkR0`).
-- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw (`source_id: youtube:dOHBc1A57kw`).
+- «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ (`source_id`: youtube:bG4SqOvNolQ`).
+- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8 (`source_id`: youtube:GulS21GtPP8`).
+- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg (`source_id`: youtube:qu6bUTxbmdg`).
+- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0 (`source_id`: youtube:kVAJOj4wkR0`).
+- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw (`source_id`: youtube:dOHBc1A57kw`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

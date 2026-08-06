@@ -50,7 +50,7 @@ Esta nota organiza la clase pública **El AMOR al COMPAÑERO**, capítulo 13, #2
 | #vayikra_19_17-18 | **No aborrecerás a tu hermano en tu corazón... no te vengarás... sino amarás a tu compañero como a ti mismo. Yo soy יהוה.** (OE, extracto) | El amor incluye corrección responsable y renuncia a la venganza. |
 | #lukas_10_25-37 | La parábola del samaritano responde a «¿quién es mi compañero?» con la acción misericordiosa del que se acerca. | La clase usa el relato para enseñar que el amor se reconoce en la obra, no solo en una categoría de pertenencia. |
 
-## 13:8-10: la deuda que no se cancela
+## 13:8-10: la deuda que no se cancela #romanos_13_8-10
 
 Eric abre con la frase «no deban nada a nadie, sino el amar». El amor no aparece como una emoción espontánea ni como romanticismo: la clase lo presenta como obras manifiestas que proceden de Elohim. Esa afirmación teológica amplia debe distinguirse del alcance directo de Romanos 13, pero el texto sí une amor, no hacer mal y plenitud de la Torá.
 
@@ -58,7 +58,7 @@ Pablo enumera mandamientos que protegen al compañero: no adulterar, no asesinar
 
 La clase presta atención a **רע**, _rea_, que propone traducir como compañero o amigo en lugar de un «prójimo» entendido de manera vaga. Esa preferencia puede hacer visible la relación, pero la equivalencia castellana es aproximada y no debe depender de una etimología pastoral. El punto sólido es que el mandamiento obliga al creyente a actuar respecto del otro y no solo a cultivar una intención privada.
 
-## 13:8-10 y Lucas 10: ser quien se hace compañero
+## 13:8-10 y Lucas 10: ser quien se hace compañero #romanos_13_8-10
 
 Eric relaciona Levítico 19:18 con la pregunta del intérprete de la Torá en Lucas 10. La clase destaca la diferencia entre preguntar «¿quién es mi prójimo?» y responder «¿quién se hizo compañero del herido?». El samaritano se acerca, venda, transporta, paga y promete cuidar; Yehoshua termina ordenando: «Ve y haz tú lo mismo». Esa aplicación ilumina la forma activa del amor, aunque la explicación exacta de las preposiciones hebreas en Levítico requiere cotejo gramatical.
 
@@ -66,7 +66,7 @@ La exposición también insiste en que Levítico 19:17 vincula amor y correcció
 
 De esta manera, «como a ti mismo» no debe transformarse en una psicología de autoafecto que pone el yo primero. La clase lo traduce pedagógicamente como una medida o comparación de acción, mientras el centro ético permanece en hacerse responsable del bien del otro. El vínculo con Yehoshua 15:14 —la amistad expresada en hacer lo mandado— puede enriquecer la lectura canónica, pero no prueba por sí solo cada detalle de la exégesis hebrea.
 
-## 13:11-14: despertar, despojarse y revestirse
+## 13:11-14: despertar, despojarse y revestirse #romanos_13_11-14
 
 La segunda mitad cambia el tono: conocer el tiempo significa despertar del sueño. Eric presenta la vida presente como una etapa de trabajo, siembra, testimonio y muerte al yo, no como una búsqueda de entretenimiento gobernada por deseos. La exhortación de Romanos sí exige urgencia: la salvación está más cerca, la noche avanza, el día se acerca y las obras de oscuridad deben quitarse.
 

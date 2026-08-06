@@ -43,7 +43,7 @@ La enseñanza atribuida procede únicamente del video público `youtube:nddC-xoP
 
 El orden de la nota mantiene la dependencia narrativa. Primero se concluye el Shabat y se anuncia que Yehoshua fue levantado; luego el anuncio pasa por testigos cuya palabra encuentra incredulidad; después llega la comisión de proclamar; finalmente la palabra sale acompañada por la acción de יהוה. Por eso la crítica calendárica se evalúa dentro de Marcos 16 y no se usa para absorber la resurrección, el envío o la discusión textual del final largo.
 
-## Después del Shabat: buscar al que vive (16:1-8)
+## Después del Shabat: buscar al que vive (16:1-8) #markos_16_1-8
 
 Cuando pasa el Shabat, Miriam Migdalit, Miriam madre de Iaacob y Shelomit compran perfume y aceite valioso para ungir a Yehoshua. El texto no llama al primer día un nuevo Shabat ni dice que las mujeres hayan recibido un mandato de cambiar el día de reposo. Dice que vienen temprano, conforme amanece el sol, y que se preguntan quién hará girar la piedra. La escena, por tanto, distingue una referencia temporal de una institución cultual: el primer día marca cuándo regresan al sepulcro después del reposo narrado.
 
@@ -53,7 +53,7 @@ La observación pública de Eric —cuestionar que el domingo sea llamado «el d
 
 El mensajero manda a las mujeres decir a los discípulos y a Kefa que Yehoshua va delante de ellos a Galil, como había dicho. **(προάγει)**, _proagei_, significa ir delante, conducir o preceder; su presente muestra una iniciativa continua del resucitado. La promesa vuelve a unir anuncio y seguimiento: la comunidad no inventa el destino, recibe una palabra previa y debe acudir al lugar indicado. Las mujeres salen con terror y temblor y no dicen nada a ningún hombre, según el cierre que ofrece TTH en 16:8. La reacción no cancela el anuncio; muestra el peso de la noticia antes de las apariciones siguientes que el mismo corpus continúa narrando.
 
-## Apariciones, incredulidad y comisión (16:9-18)
+## Apariciones, incredulidad y comisión (16:9-18) #markos_16_9-18
 
 El capítulo presenta a Miriam Migdalit como la primera a quien Yehoshua aparece después de levantarse; ella comunica la noticia a quienes están lamentándose y llorando, pero no le creen. Dos que caminan al campo anuncian también lo ocurrido y tampoco son creídos. Finalmente Yehoshua se aparece a los once y reprende su incredulidad y dureza de corazón. El texto no oculta que el envío nace en una comunidad que necesita ser corregida.
 
@@ -61,7 +61,7 @@ La orden es ir a todo el _olam_ y proclamar la _Besorah_ a toda la creación. **
 
 Los vv. 16-18 describen creer, sumergirse, ser salvo, ser juzgado y señales que acompañan a quienes creen. La frase no permite una lectura que convierta las señales en espectáculo independiente de la proclamación. El texto local afirma que en el nombre de Yehoshua se expulsan demonios, se hablan lenguas nuevas, se soportan peligros y se imponen manos sobre enfermos; la equivalencia entre cada señal y una práctica posterior debe permanecer prudente. **(πιστεύσας)**, _pisteusas_, es el que cree o confía; no debe aplanarse como mera opinión mental desligada del anuncio que el pasaje acaba de ordenar.
 
-## Recepción en los cielos y palabra anunciada (16:19-20)
+## Recepción en los cielos y palabra anunciada (16:19-20) #markos_16_19-20
 
 El cierre dice que nuestro Adón Yehoshua fue recibido en los cielos y se sentó a la diestra de Elohim. Los discípulos salen y anuncian la buena noticia por toda la tierra, mientras יהוה los fortalece y las señales acompañan la palabra. **(ἀνελήμφθη)**, _anelēmphthē_, significa fue tomado, recibido o llevado arriba; **(συνεργοῦντος)**, _synergountos_, describe a quien obra juntamente o coopera. La traducción TTH «los fortalecía» comunica la acción divina, aunque la forma griega permite conservar la imagen de una obra conjunta con el testimonio.
 
@@ -144,7 +144,7 @@ El silencio temeroso de 16:8 y la proclamación de 16:15-20 forman una tensión 
 
 Finalmente, 16:20 no presenta las señales como una fuente independiente de autoridad. **ἐκήρυξαν**, _ekēryxan_, «proclamaron», es la acción de los discípulos; **συνεργοῦντος**, _synergountos_, «obrando juntamente», atribuye a יהוה una acción concurrente; y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», indica que la palabra es confirmada. La cadena es anuncio, acompañamiento y confirmación. La lectura de Eric sobre el nombre del día queda por ello calificada: el capítulo permite discutir el marco temporal, pero su culminación canónica está en la palabra del resucitado que sale a toda la creación.
 
-## Control del envío: el acontecimiento precede a la señal (16:6-20)
+## Control del envío: el acontecimiento precede a la señal (16:6-20) #markos_16_6-20
 
 La observación pública de Eric sobre el domingo debe evaluarse dentro de la arquitectura del cierre. El mensajero no dice «ha comenzado otro día sagrado», sino **(ἠγέρθη)**, _ēgerthē_, «fue levantado», y ordena mirar el lugar donde lo pusieron. El anuncio hace que la resurrección sea el centro de la noticia; **(ἴδε)**, _ide_, «mira», convoca a comprobar el sepulcro. La comparación con **(קום)**, _qum_, «levantarse», es aproximada: ayuda a relacionar el anuncio con el lenguaje bíblico de levantamiento, pero no sustituye la forma griega.
 
@@ -170,7 +170,7 @@ Desde 16:9 el capítulo vuelve a presentar testigos y respuestas. **(ἐφανε
 
 La comisión mantiene el centro verbal hasta el final. **(πορευθέντες)**, _poreuthentes_, «habiendo ido» o «vayan», y **(κηρύξατε)**, _kēryxate_, «proclamen públicamente», dirigen a los once hacia toda la creación; **(ἐκήρυξαν)**, _ekēryxan_, «proclamaron», confirma en 16:20 que salieron a anunciar. La relación con **(בשר)**, _basar_, «anunciar buenas noticias», puede iluminar el campo de _Besorah_, pero es una equivalencia semítica aproximada, no una explicación morfológica del griego. El orden textual queda así: reposo concluido, sepulcro vacío, testigos temerosos, discípulos corregidos y palabra proclamada.
 
-## Control añadido: el marco temporal no sustituye la comisión (16:1-20)
+## Control añadido: el marco temporal no sustituye la comisión (16:1-20) #markos_16_1-20
 
 El título público de la clase plantea una cuestión calendárica, pero el capítulo distribuye el peso de la narración en tres movimientos. En 16:1-8, **διαγενομένου**, _diagenomenou_, «habiendo pasado», sitúa la visita después del Shabat; **ἠγέρθη**, _ēgerthē_, «fue levantado», anuncia el acontecimiento; y **προάγει**, _proagei_, «va delante», dirige a los discípulos hacia Galil. Las formas muestran que el primer día funciona como marco temporal del sepulcro, mientras la resurrección y la palabra previa de Yehoshua llevan la acción.
 
@@ -195,7 +195,7 @@ La comisión de 16:15-18 tampoco entrega una autoridad autónoma al mensajero. *
 
 Finalmente, 16:20 usa **(ἐκήρυξαν)**, _ekēryxan_, «proclamaron», junto con **(συνεργοῦντος)**, _synergountos_, «obrando juntamente», y **(βεβαιοῦντος)**, _bebaiountos_, «confirmando o haciendo firme». El sujeto humano anuncia; יהוה acompaña y confirma la palabra. Así, la observación pública de Eric sobre el nombre del domingo queda limitada con precisión: Marcos no llama «día del Señor» al primer día en este capítulo, pero la culminación narrativa no es un calendario alternativo, sino resurrección, envío y palabra confirmada.
 
-## Control ampliado: el testimonio nace de una ausencia comprobable (16:1-20)
+## Control ampliado: el testimonio nace de una ausencia comprobable (16:1-20) #markos_16_1-20
 
 La observación pública de Eric sobre el nombre del primer día debe conservarse junto con la evidencia que Marcos coloca inmediatamente después. **ἀποκεκύλισται**, _apokekylistai_, «ha sido rodada fuera», describe la piedra ya retirada; **ἴδετε**, _idete_, «miren», dirige la atención al lugar; y **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta la ausencia de Yehoshua. La comparación con **(ראה)**, _raah_, «ver», y **(קום)**, _qum_, «levantarse», es pedagógica y aproximada: ayuda a ordenar el campo bíblico, pero no sustituye la forma griega ni demuestra una retroversión hebrea.
 
@@ -237,7 +237,7 @@ El título público de Eric cuestiona llamar al domingo «el día del Señor», 
 
 La narración desplaza enseguida el peso hacia evidencia y comisión. **ἴδετε**, _idete_, «miren», orienta al lugar; **ἠγέρθη**, _ēgerthē_, «fue levantado», interpreta el sepulcro abierto; y **ἀπαγγείλατε**, _apangeilate_, «anuncien o informen», transforma la comprobación en responsabilidad. Más tarde, **κηρύξατε**, _kēryxate_, «proclamen», y **βεβαιοῦντος**, _bebaiountos_, «confirmando o haciendo firme», cierran la cadena con palabra anunciada y confirmada. Por eso la observación calendárica atribuible queda preservada, pero el texto local prueba que la autoridad del cierre descansa en resurrección, testigos, envío y confirmación, no en nombrar el primer día.
 
-## Control dirigido: el texto recibido y el final largo (16:8-20)
+## Control dirigido: el texto recibido y el final largo (16:8-20) #markos_16_8-20
 
 El corpus local presenta 16:9-20 como continuación del capítulo, pero la nota no debe ocultar que existe una cuestión pública de transmisión. En 16:8, **ἔφυγον**, _ephygon_, «huyeron», y **τρόμος**, _tromos_, «temblor», describen la reacción inmediata ante el anuncio; desde 16:9, **ἐφανερώθη**, _ephanerōthē_, «se manifestó o apareció», reabre la cadena de testigos. El cambio de escena no autoriza a borrar 16:9-20 ni a tratarlo como si la discusión textual no existiera: permite leer el material recibido y, a la vez, dejar pendiente la comparación de manuscritos y ediciones críticas.
 
@@ -255,7 +255,7 @@ Este control también limita la atribución a Eric. El título público permite 
 
 La secuencia de Marcos 16 debe conservarse completa: después del Shabat, las mujeres encuentran el sepulcro abierto; reciben el anuncio de que Yehoshua fue levantado y que va delante de sus discípulos; los testigos enfrentan incredulidad y corrección; y la comunidad es enviada a proclamar la buena noticia. El primer día de la semana ubica la visita, pero el capítulo no lo llama «día del Señor» ni lo presenta como la fuente de autoridad de la misión. La observación pública de Eric queda documentada como una pregunta calendárica concreta, mientras el texto local prueba que el cierre descansa en resurrección, testimonio, obediencia y palabra confirmada por יהוה.
 
-## Control de transmisión: de la piedra removida a la palabra confirmada (16:1-20)
+## Control de transmisión: de la piedra removida a la palabra confirmada (16:1-20) #markos_16_1-20
 
 La expresión calendárica debe leerse junto a las acciones que la siguen. **διαγενομένου τοῦ σαββάτου**, _diagenomenou tou sabbatou_, «habiendo pasado el Shabat», es un genitivo absoluto que establece el momento de la visita; no es un imperativo ni un nombre litúrgico. **μιᾷ τῶν σαββάτων**, _mia tōn sabbatōn_, «uno o primero de los Shabat», funciona como cuenta semanal en el relato. La equivalencia con **(שבת)**, _shabbat_, «reposo o cesación», es contextual. Por eso la pregunta pública de Eric sobre el «día del Señor» puede conservarse como crítica al título, pero Marcos 16 no convierte la cuenta temporal en una orden de trasladar el reposo.
 

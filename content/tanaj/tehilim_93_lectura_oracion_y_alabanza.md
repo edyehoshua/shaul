@@ -51,5 +51,5 @@ La lectura de Tehilim 93 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 93» — <https://www.youtube.com/watch?v=BDR49nYo4ZI> — source_id: `youtube:BDR49nYo4ZI`.
+- «Tehilim/Himnos/Salmo Cap 93» — <https://www.youtube.com/watch?v=BDR49nYo4ZI> — `source_id`: `youtube:BDR49nYo4ZI`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

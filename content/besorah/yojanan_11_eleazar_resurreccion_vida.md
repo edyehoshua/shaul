@@ -262,7 +262,7 @@ Yojanán 11 presenta la muerte de Eleazar como el escenario donde se revela qui�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «El Evangelio según Yojanan/Juan (parte 38, Cap 11)» — <https://www.youtube.com/watch?v=LO66ZTVQ5Cw> — source_id: `youtube:LO66ZTVQ5Cw`.
-- Video: «El evangelio según Yojanan (parte 39) Cap 11» — <https://www.youtube.com/watch?v=4nYEkCmDn14> — source_id: `youtube:4nYEkCmDn14`.
-- Video: «El evangelio según Yojanán (parte 40)» — <https://www.youtube.com/watch?v=LfJ1LGjOXho> — source_id: `youtube:LfJ1LGjOXho`.
+- Video: «El Evangelio según Yojanan/Juan (parte 38, Cap 11)» — <https://www.youtube.com/watch?v=LO66ZTVQ5Cw> — `source_id`: `youtube:LO66ZTVQ5Cw`.
+- Video: «El evangelio según Yojanan (parte 39) Cap 11» — <https://www.youtube.com/watch?v=4nYEkCmDn14> — `source_id`: `youtube:4nYEkCmDn14`.
+- Video: «El evangelio según Yojanán (parte 40)» — <https://www.youtube.com/watch?v=LfJ1LGjOXho> — `source_id`: `youtube:LfJ1LGjOXho`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

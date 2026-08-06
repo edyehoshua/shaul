@@ -59,7 +59,7 @@ Ieshaiahu 1 se presenta como juicio contra una nación que se rebeló aun conoci
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Yesha’yahu - Isaías (parte 1) Intro» — <https://www.youtube.com/watch?v=SrmxQo97ptE> — source_id: `youtube:SrmxQo97ptE`.
-- «Yesha’yahu - Isaías (parte 2) Intro II» — <https://www.youtube.com/watch?v=HgqgVFSqhmY> — source_id: `youtube:HgqgVFSqhmY`.
-- «Yesha'yahu - Isaías (parte 3) Cap 1» — <https://www.youtube.com/watch?v=cAW2M4P-QIc> — source_id: `youtube:cAW2M4P-QIc`.
+- «Yesha’yahu - Isaías (parte 1) Intro» — <https://www.youtube.com/watch?v=SrmxQo97ptE> — `source_id`: `youtube:SrmxQo97ptE`.
+- «Yesha’yahu - Isaías (parte 2) Intro II» — <https://www.youtube.com/watch?v=HgqgVFSqhmY> — `source_id`: `youtube:HgqgVFSqhmY`.
+- «Yesha'yahu - Isaías (parte 3) Cap 1» — <https://www.youtube.com/watch?v=cAW2M4P-QIc> — `source_id`: `youtube:cAW2M4P-QIc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

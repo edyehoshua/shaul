@@ -83,7 +83,7 @@ El orden de #bereshit_45_1-8 es decisivo. Iosef expulsa a los egipcios, llora, s
 
 Cuando Iosef dice que Elohim lo envió «para dejar vivir» (#bereshit_45_5-7), interpreta su historia desde la preservación. El texto mantiene simultáneamente dos niveles: los hermanos lo vendieron y Elohim lo envió delante de ellos. Por eso «la providencia hizo irrelevante la culpa» sería una inferencia que el pasaje no autoriza. **(מחיה)**, _mejiyáh_, es una forma relacionada con חיה, «vivir», y en este contexto expresa sustento o preservación de vida. «Resurrección» sería una aplicación **pedagógica** si se usa aquí; el sentido inmediato es mantener con vida durante el hambre.
 
-## La noticia que devuelve el ánimo: Bereshit 45:25-28
+## La noticia que devuelve el ánimo: Bereshit 45:25-28 #bereshit_45_25-28
 
 Antes de que Israel descienda a Mitsraim, la narración muestra cómo recibe la noticia. En #bereshit_45_25-28 los hermanos vuelven de Mitsraim, cuentan «todas las palabras de Iosef» y Yaakov ve las carrozas que Iosef envió. El movimiento textual es palabra, evidencia y decisión: Yaakov no es persuadido por una emoción aislada, sino por el testimonio acompañado de señales visibles. Eric presenta este momento como una exhortación a dejar de alimentar la herida cuando la vida restaurada ya ha sido anunciada; esa aplicación es pastoral, pero respeta la secuencia si no se convierte en negación del daño anterior.
 

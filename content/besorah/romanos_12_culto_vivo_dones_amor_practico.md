@@ -49,13 +49,13 @@ La fuente `youtube:8z-3MkpomOo` acredita la sesión pública «El patrón de la 
 | #romanos_12_14-16 | **ברכו את רדפיכם ברכו ואל תקללו׃ שמחו עם השמחים ובכו עם הבכים׃ לב אחד יהי לכלכם אל תהלכו בגדלות כי אם התנהגו עם השפלים אל תהיו חכמים בעיניכם׃**                                                                                    | Bendición, empatía y humildad protegen la comunión del orgullo.                            |
 | #romanos_12_17-21 | **אל תשלמו לאיש רעה תחת רעה דרשו הטוב בעיני כל אדם׃ ... אל תנקמו נקם ידידי כי אם תנו מקום לחרון אף כי כתוב לי נקם ושלם אמר יהוה׃ ... אל נא יכבשך הרע כבוש אתה את הרע בטוב׃**                                                       | Renunciar a la venganza deja el juicio a יהוה y abre una respuesta activa de bien.         |
 
-## Romanos 12:1-2: misericordia, cuerpo y discernimiento
+## Romanos 12:1-2: misericordia, cuerpo y discernimiento #romanos_12_1-2
 
 El «por las misericordias de Elohim» de #romanos_12_1 enlaza la exhortación con el argumento previo de la carta. Por ello, el patrón de fidelidad que anuncia la clase no comienza con la autoformación religiosa: comienza con una respuesta a la misericordia. Pablo pide presentar los cuerpos como sacrificio vivo, santo y agradable; habla de una vida corporal, no de una devoción que pueda separarse de las decisiones cotidianas.
 
 #romanos_12_2 añade una segunda dirección: no conformarse a esta era, sino ser transformados mediante la renovación de la mente para probar la voluntad buena, agradable y perfecta de Elohim. El discernimiento no aparece como información privada ni como una excusa para imponerse sobre otros. En el curso del capítulo, esa mente renovada toma forma en servicio humilde y relaciones reconciliadoras.
 
-## Romanos 12:3-8: un cuerpo, medidas distintas y servicio sin orgullo
+## Romanos 12:3-8: un cuerpo, medidas distintas y servicio sin orgullo #romanos_12_3-8
 
 Pablo pasa de la presentación de todos a la sobriedad de cada uno. En #romanos_12_3 prohíbe pensar de sí «más alto de lo que conviene» y mide la evaluación personal por la emunah que Elohim distribuyó. Esta advertencia explica por qué el catálogo de dones no funciona como jerarquía de prestigio. En #romanos_12_4-5 la diversidad de miembros pertenece a un solo cuerpo en el Mesías y cada miembro está ligado a los demás.
 
@@ -63,13 +63,13 @@ La clase habla de un patrón de fidelidad; en este bloque el texto muestra que e
 
 La sobriedad también corrige una lectura individualista de la clase: Pablo no pide que cada persona encuentre una marca privada de importancia, sino que actúe dentro de la medida recibida y del cuerpo. **(λογίζομαι)**, _logizomai_, significa contar, considerar o estimar; en #romanos_12_3 su fuerza es evaluar la propia posición con juicio sobrio, no calcular el valor espiritual de otros. **(διακονία)**, \_diakonia\*, significa servicio o ministerio; en #romanos_12_7 nombra una tarea concreta puesta al servicio del cuerpo. «Ministerio» es una traducción aproximada: el término no garantiza por sí solo un rango institucional ni una plataforma pública.
 
-## Romanos 12:9-16: amor sin fingimiento en la comunidad
+## Romanos 12:9-16: amor sin fingimiento en la comunidad #romanos_12_9-16
 
 Desde #romanos_12_9 el argumento abandona el catálogo para describir la textura del amor: sin hipocresía, apegado al bien y hostil al mal. Pablo encadena afecto fraternal, honra mutua, diligencia, fervor en el Rúaj, servicio al Señor, esperanza, paciencia en la aflicción y perseverancia en la oración (#romanos_12_10-12). No son virtudes aisladas: muestran cómo el culto vivo se ve entre personas concretas.
 
 La provisión para los santos y la búsqueda de hospitalidad (#romanos_12_13) impiden que el amor quede en sentimiento. Después, bendecir al perseguidor, compartir la alegría y el llanto, vivir en concordia y acercarse a los humildes forman una secuencia igualmente material (#romanos_12_14-16). El texto no promete que la comunidad nunca tendrá dolor o conflicto; ordena cómo habitar ambos sin altivez.
 
-## Romanos 12:17-21: dejar el juicio a יהוה y vencer el mal con bien
+## Romanos 12:17-21: dejar el juicio a יהוה y vencer el mal con bien #romanos_12_17-21
 
 El cierre lleva el patrón de fidelidad al campo de la hostilidad. No devolver mal por mal ni tomar venganza no significa llamar bueno al mal. Pablo pide procurar lo bueno ante todos y, en cuanto dependa de los creyentes, vivir en paz (#romanos_12_17-18). La renuncia a la venganza se fundamenta en la palabra de יהוה: «Mía es la venganza; yo pagaré» (#romanos_12_19). El juicio no se niega; se deja en manos de quien tiene autoridad para juzgar.
 

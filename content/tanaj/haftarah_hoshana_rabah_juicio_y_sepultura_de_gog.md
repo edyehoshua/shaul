@@ -73,7 +73,7 @@ Eric abre recordando la secuencia de Sukot: tras los días previos se llega al s
 | #iejezkel_39_11-16 | אתן לגוג מקום שם קבר בישראל גי העברים קדמת הים ... וקראו גיא המון גוג ... לטהר את הארץ שבעה חדשים ... וטהרו הארץ   | Daré a Gog un lugar... para sepultura en Israel... Guei Hamón Gog... limpiar la tierra por siete meses... y limpiarán la tierra.                                               | Sepultura pública y limpieza prolongada del suelo.                                      |
 | #iejezkel_39_17-20 | אמר לצפור כל כנף ולכל חית השדה ... זבח גדול על הרי ישראל ... בשר גבורים תאכלו ... מריאי בשן ... על שלחני           | Di al ave... y al animal del campo... gran sacrificio sobre los montes de Israel... carne de poderosos... engordados de Bashán... se saciarán sobre mi mesa.                   | Banquete de las aves; la clase lo acerca al banquete apocalíptico de los poderosos.     |
 
-## Iejezkel 38:16-17: posteridad de los días y memoria profética
+## Iejezkel 38:16-17: posteridad de los días y memoria profética #iejezkel_38_16-17
 
 Eric insiste en la clave temporal de #iejezkel_38_16: **(באחרית הימים)**. No es un “final abstracto” desconectado de la historia de la fe, sino el tramo que la clase describe desde la primera venida del Mesías hasta la consumación, el tiempo en el que la embestida de Gog se vuelve legible. El texto local dice que Gog sube “como nube para cubrir la tierra” y que יהוה lo trae sobre su tierra _para_ que las naciones lo conozcan al santificarse en él. El propósito no es la gloria de Gog, sino el conocimiento de יהוה.
 
@@ -85,13 +85,13 @@ En #iejezkel_38_18 el hebreo no dice solo “tierra-país” de modo plano: habl
 
 La indignación “en la nariz” la glosa Eric como presencia personal no delegada. Esa es lectura homilética sobre la antropomorfía del texto; el hebreo de **(אף)** y **(חמה)** sostiene al menos el ardor del juicio inmediato. La nota retiene ambas capas: el lexema del suelo y la cercanía del juicio.
 
-## Iejezkel 38:19-23: temblor, animales-naciones y montes que caen
+## Iejezkel 38:19-23: temblor, animales-naciones y montes que caen #iejezkel_38_19-23
 
 #iejezkel_38_19-20 describe un gran temblor sobre adamah Israel. Tiemblan peces del mar, ave de los cielos, animal del campo, todo **(רמש)** que se mueve sobre la tierra y todo hombre; se derrumban montes, lugares empinados y muros. Eric propone una lectura retórica de los animales: peces como naciones marítimas, aves como potencias con alcance “transcontinental”, bestias del campo como quienes habitan o invaden el suelo local. Advierte además contra traducciones que convierten **(רמש)** / el ganado en “serpientes” de modo que la imagen se vuelve zoológica y se pierde la figura de las naciones. El texto local TTH ya habla de “todo reptil que se arrastra” y de “todo hombre”; la clase empuja a oír el conjunto como temblor de _órdenes humanos_, no solo de fauna.
 
 Sobre los montes, Eric apela al simbolismo hebreo de la montaña como lugar de doctrina (con el eco del Sinaí en el imaginario bíblico). Derrumbar montes sería entonces derribar sistemas de culto e ideología que se alzan frente a יהוה; las “escalinatas” y muros completan la imagen de religiones que construyen su propia subida al cielo. Esa lectura es coherente con el juicio de #iejezkel_38_21-22 —espada de hermano contra hermano, peste, sangre, granizo, fuego y azufre— y desemboca en #iejezkel_38_23: “me engrandeceré y me santificaré... y sabrán que Yo soy יהוה”. La nota conserva el hilo: el temblor no es espectáculo geológico gratuito; es el escenario del conocimiento del Nombre. La tipología completa de cada animal y de cada “montaña = denominación moderna” queda como mapa de clase, no como glosa obligatoria de cada sustantivo.
 
-## Iejezkel 39:1-7: norte oculto, arco quebrado y Nombre en Israel
+## Iejezkel 39:1-7: norte oculto, arco quebrado y Nombre en Israel #iejezkel_39_1-7
 
 El capítulo 39 reabre el oráculo: “Heme aquí hacia ti, Gog, príncipe de Rosh, Méshej y Tubal” (#iejezkel_39_1). Eric remite el catálogo a la mesa de naciones de Bereshit 10 y subraya el movimiento de #iejezkel_39_2: subir desde los extremos del **norte**. En la clase, el norte no se agota en una brújula moderna; funciona también como figura de lo oculto, de la guarida no visible. Por eso la embestida se describe como un atraer al delincuente con carnada: se le saca de donde acecha y se le hace entrar al terreno donde ya no controla la distancia.
 

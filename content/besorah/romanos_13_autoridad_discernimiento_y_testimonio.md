@@ -45,19 +45,19 @@ Esta nota organiza la clase pública **El RESPETO a la AUTORIDAD**, capítulo 13
 | #romanos_13_6-7 | **Y por eso también pagan los tributos... paguen a todo hombre lo que deban; al que tributo, tributo; al que impuesto, impuesto; al que temor, temor; al que honra, honra.** | La vida pública incluye impuestos, respeto y deudas pagadas. |
 | #maasei_5_29 | **Es necesario obedecer a Elohim antes que a los hombres.** | El testimonio apostólico fija el límite de cualquier autoridad humana. |
 
-## 13:1-2: sujeción sin santificar todo gobierno
+## 13:1-2: sujeción sin santificar todo gobierno #romanos_13_1-2
 
 Eric comienza señalando que una lectura rápida de «no hay autoridad sino de parte de Elohim» puede sugerir que cada presidente, jefe de Estado o decreto recibe aprobación directa de Elohim. La clase propone leer la frase de manera restrictiva: la autoridad verdadera es la que está «de Elohim», mientras que otros poderes existen bajo su permiso, pero no necesariamente conforme a su voluntad. La distinción es atribuible a la exposición; la sintaxis exacta debe verificarse en griego.
 
 El texto local sí manda sujetarse y advierte contra oponerse al orden. La nota no convierte esa advertencia en una teoría de obediencia ilimitada. El resto de la Escritura citada en la clase muestra que la sujeción puede coexistir con una negativa concreta: los enviados continúan anunciando cuando el concilio les ordena callar (#maasei_5_27-29). Por tanto, «sujetarse» describe una disposición ordinaria de respeto al orden civil, no la adoración de la autoridad ni la cooperación con el pecado.
 
-## 13:3-5: autoridad, conciencia y el bien que puede examinarse
+## 13:3-5: autoridad, conciencia y el bien que puede examinarse #romanos_13_3-5
 
 La exposición presenta al gobernante como servidor de Elohim en un sentido funcional, semejante al uso de Asiria como instrumento de juicio en #yeshayahu_10_5. Esa comparación puede ayudar a distinguir permiso providencial de aprobación moral. Romanos 13:3-4 describe qué hace la autoridad en la perícopa: debe producir temor en quien hace el mal, reconocer el bien y portar espada contra la injusticia. El pasaje no dice que cada gobernante actúe siempre de acuerdo con esa descripción.
 
 Eric usa Daniel y los tres compañeros como ejemplos de una ciudadanía no anárquica. Ellos no buscan rebelión por cualquier incomodidad, pero no se inclinan ante la estatua ni abandonan la oración cuando el decreto lo prohíbe (#daniel_3_16-18; #daniel_6_10). La aplicación es sólida como principio de discernimiento, aunque los detalles sobre los imperios y el castigo histórico requieren fuentes adicionales. La conciencia de #romanos_13_5 no es una excusa para seguir el deseo personal: debe probarse contra la palabra de Elohim y contra el bien que el pasaje describe.
 
-## 13:6-7: impuestos, honra y el testimonio visible
+## 13:6-7: impuestos, honra y el testimonio visible #romanos_13_6-7
 
 La segunda parte de la clase insiste en no convertir la oposición a un gobierno en una identidad rebelde. Pablo menciona tributos, impuestos, temor y honra. Eric aplica esto a la ciudadanía contemporánea: pagar lo debido y respetar las normas comunes protege el testimonio público, siempre que una orden no obligue a violar la Torá. La aplicación moderna es pedagógica; el texto sí sostiene directamente el pago de las obligaciones y la devolución de lo debido.
 

@@ -39,13 +39,13 @@ Esta nota desarrolla la exposición pública del hermano Eric de Jesús Rodrígu
 | #bamidbar_1_17-19 | **ויקח משה ואהרן את האנשים האלה אשר נקבו בשמות** … **כאשר צוה יהוה את משה ויפקדם במדבר סיני**                                                     | Moisés y Aharón reúnen a los nombrados y ejecutan la orden en el desierto.          |
 | #bamidbar_1_44-46 | **אלה הפקדים אשר פקד משה ואהרן ונשיאי ישראל שנים עשר איש** … **שש מאות אלף ושלשת אלפים וחמש מאות וחמשים**                                         | El registro concluye con jefes identificados y una cifra total.                     |
 
-## El desierto y el nombre del libro: 1:1
+## El desierto y el nombre del libro: 1:1 #bamidbar_1_1
 
 Eric comienza recordando que el libro se llama **במדבר** (_Bemidbar_), “en el desierto”, mientras que la tradición griega lo llamó Ἀριθμοί (_Arithmoi_), “números”, por las listas que aparecen en él. Su observación material no niega la presencia de cifras; pide que no dejemos que el título griego convierta todo el libro en aritmética. Bamidbar 1 confirma la prioridad narrativa: יהוה habla a Moshe en el desierto de Sinaí, en el tabernáculo de reunión, en el segundo año después de Egipto. El lugar y el momento interpretan la lista: se trata de un pueblo redimido que recibe orden para caminar y servir, no de una población aislada de la presencia divina.
 
 La forma **מדבר** (_midbar_) significa normalmente “desierto” o “zona despoblada”. Aquí su fuerza contextual es el escenario de la palabra y de la organización. La relación entre _Bemidbar_ y “en el desierto” es exacta; la afirmación de que el título griego delata una traducción mediada por la Septuaginta es una observación histórica atribuida a Eric y queda como contexto, no como una conclusión que el versículo pruebe por sí solo.
 
-## Levantar la cabeza: 1:2-3
+## Levantar la cabeza: 1:2-3 #bamidbar_1_2-3
 
 La corrección principal de la clase aparece en la orden **שאו את ראש** (_se'u et rosh_), literalmente “levanten la cabeza”. Eric sostiene que no equivale simplemente a contar individuos para saber cuántos existen. La expresión puede comunicar elevar, reconocer o poner en eminencia; en esta escena se dirige a toda la congregación, pero el proceso distingue a los que serán designados. El texto local mantiene la imagen completa: por familias, por casas de sus padres, “en el número de nombres”, cada varón, “por sus cabezas”. No es una licencia para ignorar la cifra, sino una lectura del propósito que la cifra sirve.
 
@@ -53,7 +53,7 @@ El verbo **נשא** (_nasa_) tiene el sentido normal de levantar, cargar o eleva
 
 La restricción de 1:3 también importa. Son contados los varones de veinte años en adelante que salen al ejército en Israel. Eric usa esa delimitación para mostrar que la cabeza levantada no es una categoría abstracta aplicada sin diferencia a cada persona: aquí se trata de quienes reciben una función concreta. **תפקדו** (_tifqedu_) procede de **פקד** (_paqad_), cuyo campo incluye contar, visitar, asignar, encargar o supervisar. La exposición lo glosa como “encargar”, con turnos y oficio. Esa relación es aproximada pero bien apoyada por 1:3: el verbo aparece junto a “por sus ejércitos”, y el resultado no es solo una cifra sino una organización.
 
-## Nombres, familias y jefes: 1:4-19
+## Nombres, familias y jefes: 1:4-19 #bamidbar_1_4-19
 
 El capítulo no abandona los nombres al pasar a los números. Cada tribu aporta un hombre, y en 1:16 esos hombres son llamados los señalados de la congregación y jefes de las tribus de sus padres. Eric observa que primero se levanta la cabeza de los jefes; luego la organización alcanza al pueblo por familias y casas paternas. Esta secuencia evita imaginar un poder anónimo: la autoridad queda identificada, situada dentro de una casa y subordinada a la orden de יהוה.
 
@@ -91,7 +91,7 @@ Tercero, el capítulo no opone organización a número. Después de enumerar las
 | **נשיא**   | _nasi_          | jefe, líder, príncipe                   | “El levantado” es una conexión pedagógica con _nasa_; no agota el uso del título.                                                  |
 | **פקודים** | _pequdim_       | registrados, encargados, inspeccionados | En 1:44-46 resume a quienes fueron identificados y puestos bajo una responsabilidad.                                               |
 
-## La diferencia del encargo levítico: 1:47-54
+## La diferencia del encargo levítico: 1:47-54 #bamidbar_1_47-54
 
 La clase de Eric no termina la organización en el total de 603.550. Después de distinguir a los convocados al ejército, sigue el cambio de encargo de Leví. En la transcripción, Eric insiste en que los levitas “no fueron encargados” en medio de las otras tribus porque su responsabilidad era el tabernáculo, sus utensilios y todo lo que pertenecía a él. Esta observación material evita hacer del capítulo una simple tabla de rangos: hay una cabeza levantada para coordinar la marcha y hay un servicio separado para custodiar la morada.
 

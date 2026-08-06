@@ -58,7 +58,7 @@ El recorrido también abre dos excursus —Sheol y el oficio atribuido a Yehoshu
 
 - Fuente principal: transcripción automática de una clase en video de aproximadamente 1 hora y 16 minutos; la nota organiza la línea argumental sin reproducir cada intervención.
 - Esta clase continúa [[markos_abba_ruaj_mente_mashiaj|Marcos: Abba, ruaj y la mente del Mesías]] y reutiliza su identificación pedagógica de Abba con la sabiduría profunda de Elohim.
-- El corpus local fue comprobado con `npm run scriptures:ensure` el 17 de julio de 2026.
+- El corpus local fue comprobado el 17 de julio de 2026.
 - Se cotejaron los pasajes centrales en OE, TTH o Delitzsch. La historia material de la silla de Moshéh, las costumbres funerarias, la recepción judía del mundo subterráneo griego y las equivalencias **Sheol/sha'al** y **tektón/joresh** quedan pendientes.
 - Las formulaciones de la clase sobre el origen corporal del Mesías y su relación con Miriam se registran como parte del argumento oral, pero no se cierran aquí sin un estudio textual específico.
 

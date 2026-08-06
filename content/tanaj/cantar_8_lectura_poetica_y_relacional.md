@@ -66,7 +66,7 @@ Cantar 8 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 24) Cap 8» — https://www.youtube.com/watch?v=c-cPzZYvPJs (`source_id: youtube:c-cPzZYvPJs`).
-- «Shir hashirim (parte 25) Cap 8» — https://www.youtube.com/watch?v=pSq69Bx_xqo (`source_id: youtube:pSq69Bx_xqo`).
+- «Shir hashirim (parte 24) Cap 8» — https://www.youtube.com/watch?v=c-cPzZYvPJs (`source_id`: youtube:c-cPzZYvPJs`).
+- «Shir hashirim (parte 25) Cap 8» — https://www.youtube.com/watch?v=pSq69Bx_xqo (`source_id`: youtube:pSq69Bx_xqo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

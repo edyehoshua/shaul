@@ -32,7 +32,7 @@ La clase pública de Eric lleva por título «Shabat Jol Hamo'ed lesukot (2017):
 
 La fuente `youtube:ZXfMBc8_H54` está clasificada en el grupo de parashot 2016–2017 de la lane Tanaj. Su título vincula Shabat y Jol Hamo'ed de Sukkot con una exhortación contra la profanación del cuerpo de Mashíaj. La exposición oral exacta queda pendiente de cotejo. Para no inventar observaciones, se preserva el título como observación pública y se contrasta con Éxodo 33–34, la lectura de pacto y las instrucciones festivas locales.
 
-## Presencia que acompaña: Éxodo 33:12–23
+## Presencia que acompaña: Éxodo 33:12–23 #shemot_33_12-23
 
 Moshéh recuerda que יהוה dijo: «Te he conocido por nombre, y también has encontrado favor en mis ojos» (33:12). OE contiene **(ידעתיך)**, _yedatikha_, «te he conocido», forma verbal de ידע con segunda persona masculina singular. Aquí «conocer» puede incluir reconocimiento y relación de elección; no es una equivalencia exacta de «aprobar todo lo que haces». Moshéh pide saber quién irá con el pueblo porque la herencia sin presencia sería insuficiente.
 
@@ -44,7 +44,7 @@ Antes de la petición de Moshéh, el capítulo conserva una tensión que el tít
 
 La tienda fuera del campamento hace visible que la presencia no se manipula desde el centro de la comunidad. **(אהל)**, _ohel_, significa tienda; en esta escena la tienda de reunión funciona como lugar de encuentro y consulta, no como una palabra automática para el Mishkán completo. Cuando la columna desciende, el pueblo se levanta y cada uno se postra a la entrada de su tienda (33:8–10). **(עמד)**, _amad_, significa estar de pie o permanecer; su fuerza narrativa es la atención reverente ante la señal de la presencia. El texto sostiene así la preocupación pública por la santidad con acciones observables: duelo, separación, consulta, espera y postración.
 
-## Bondad, celos y pacto: Éxodo 34:6–16
+## Bondad, celos y pacto: Éxodo 34:6–16 #shemot_34_6-16
 
 OE presenta **(רחום)**, _rajum_, «compasivo», y **(חנון)**, _janun_, «clemente o favorecedor», en la proclamación de 34:6. También aparece **(חסד)**, _jesed_, bondad leal, y **(אמת)**, _emet_, firmeza o verdad. Traducir _jesed_ como «misericordia» es apropiado en este contexto, pero aproximado; no es un permiso para trivializar el pacto. El mismo pasaje sostiene perdón y responsabilidad: no declara inocente al culpable sin matiz.
 
@@ -52,7 +52,7 @@ Por eso 34:12 advierte: «Guárdate, no sea que hagas pacto con los habitantes d
 
 El título de la fuente habla de no profanar el cuerpo de Mashíaj. Esa formulación explícita pertenece al título y no se debe hacer pasar por una frase de Éxodo. El texto local sí ofrece un criterio comprobable: la santidad del cuerpo comunitario no puede separarse de lealtad, descanso, culto exclusivo y rechazo de alianzas que destruyen la obediencia.
 
-## Shabat y fiestas dentro del pacto: Éxodo 34:18–28
+## Shabat y fiestas dentro del pacto: Éxodo 34:18–28 #shemot_34_18-28
 
 Éxodo 34:21 dice: «Seis días trabajarás, pero en el día séptimo te detendrás». El verbo **(שבת)**, _shavat_, significa «cesar, detenerse»; «guardar el sábado» es una equivalencia tradicional que resume la práctica, mientras que el sentido verbal pone el énfasis en cesar del trabajo. La instrucción aparece junto a arada y cosecha, de modo que el descanso no es una idea desincorporada: regula manos, tiempo y economía.
 
@@ -68,7 +68,7 @@ Cuando Moshéh pide ver la gloria, **(כבוד)**, _kavod_, mantiene el campo de
 
 El título de Eric habla de «profanar el cuerpo de Mashíaj». Esa aplicación pública puede conservarse como preocupación de la clase, pero su evaluación textual debe ser gradual: Éxodo 33–34 no usa esa frase, mientras que sí ordena distinguirse por presencia, pacto, santuario, tiempos y culto exclusivo. La conexión con una comunidad corporal requiere otros textos para su formulación completa; aquí funciona como inferencia cualificada y no como traducción de **(מקדש)**, _miqdash_, «santuario».
 
-## El rostro resplandeciente y la palabra mediada — Éxodo 34:29–35
+## El rostro resplandeciente y la palabra mediada — Éxodo 34:29–35 #shemot_34_29-35
 
 Al bajar del monte, Moshéh no sabe que la piel de su rostro resplandece por haber hablado con יהוה. El OE dice que Aharon y los hijos de Israel «temieron acercarse a él», y el TTH conserva ese temor ante la señal visible. **(קרן)**, _qaran_, significa emitir rayos, resplandecer o tener cuernos según la lectura y el contexto; aquí su fuerza narrativa es describir el resplandor del rostro de Moshéh después del encuentro. «Brillar» es una equivalencia pedagógica adecuada, pero no elimina la discusión léxica de la forma.
 

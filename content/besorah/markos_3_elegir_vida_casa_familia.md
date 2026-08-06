@@ -70,7 +70,7 @@ El resto del capítulo amplía la misma prueba. Los Doce son llamados primero **
 
 - Fuente principal: transcripción automática de **“Evangelio según Marco parte 15 cap 3 Pero elegirás la vida uvajartá bajayim”**, clase de Eric de Jesús Rodríguez Mendoza publicada el 12 de marzo de 2016 (1:08:13).
 - La nota organiza la exposición completa de Marcos 3 y no reproduce como citas exactas todas las formulaciones orales.
-- El corpus local fue comprobado con `npm run scriptures:ensure` el 17 de julio de 2026.
+- El corpus local fue comprobado el 17 de julio de 2026.
 - Las afirmaciones históricas sobre fariseos, herodianos, zelotes, sicarios y prácticas de exorcismo se conservan como contexto de la clase, pero no como hechos cerrados sin fuente primaria.
 - Las reconstrucciones arameas, la hipótesis de un original hebreo/arameo de Marcos y varias etimologías quedan pendientes de cotejo lingüístico.
 
@@ -183,7 +183,7 @@ La escena cierra el hilo de la casa. Una casa dividida no permanece, pero Yehosh
 | Tradiciones de exorcismo | Sin referencia precisa                          | La clase afirma que algunos exorcistas pensaban operar mediante espíritus subordinados.      | Pendiente de verificar; no usar como hecho histórico  |
 | Hipótesis lingüística    | Original hebreo/arameo de Marcos                | Las expresiones semíticas se interpretan como huellas de una traducción posterior al griego. | Hipótesis de la clase; pendiente de análisis textual  |
 
-## Reparación dirigida: la casa se prueba por sus acciones (3:1-35)
+## Reparación dirigida: la casa se prueba por sus acciones (3:1-35) #markos_3_1-35
 
 La lectura de Eric puede resumirse como «escoger la vida», pero Marcos 3 exige seguir cómo esa elección se vuelve visible. En 3:1-6, **ἔξεστιν**, _exestin_, «es lícito o está permitido», introduce la pregunta; **ἀγαθοποιῆσαι**, _agathopoiēsai_, «hacer el bien», y **σῶσαι**, _sōsai_, «salvar», se contraponen a **κακοποιῆσαι**, _kakopoiēsai_, «hacer el mal», y **ἀποκτεῖναι**, _apokteinai_, «matar». La comparación con **ובחרת בחיים**, _uvajarta bajayim_, «escoge la vida», de Devarim 30:19 es una conexión temática atribuible a la clase, no una cita formal; la narración sí demuestra que la restauración de una vida interpreta el conflicto mejor que la acusación.
 

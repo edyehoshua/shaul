@@ -103,19 +103,19 @@ En #ephesians_6_18-20 la perseverancia tiene un alcance explícito: «por todos 
 
 El movimiento de 6:10-20 puede comprobarse sin separar la metáfora de su propósito: (1) el mandato es recibir fuerza «en el Señor» (6:10); (2) la armadura sirve para resistir y permanecer (6:11-13); (3) sus piezas se nombran como verdad, justicia, paz, fe, salvación y palabra (6:14-17); y (4) la postura termina en oración por todos y en anuncio valiente (6:18-20). Por eso la observación de Eric sobre una formación interior y comunitaria encaja con la secuencia local, mientras que una lectura que convierta **πανοπλία** en objeto protector autónomo no encaja con los verbos del pasaje. La correspondencia entre **στάναι** y “permanecer firme” es directa en la función; la aplicación de cada pieza a una práctica moderna queda como analogía, no como significado léxico.
 
-## El límite textual de la autoridad (6:1-9)
+## El límite textual de la autoridad (6:1-9) #ephesians_6_1-9
 
 Eric lee las instrucciones familiares y laborales como responsabilidades bajo una autoridad superior, no como permiso para dominar. La secuencia de #ephesians_6_1-9 confirma esa cautela: los hijos reciben un mandato «en el Señor»; los padres reciben el límite de no provocar; los siervos son llamados a servir con sinceridad; y los señores deben abandonar las amenazas porque ambos tienen un Señor en los cielos. La forma **ὑπακούω** puede traducirse «obedecer», pero la frase que la acompaña y las obligaciones impuestas al superior impiden convertirla en obediencia sin discernimiento.
 
 Esta lectura conserva la observación histórica de la clase sobre una sociedad con esclavitud sin presentar la institución como ideal bíblico. El texto habla a una situación antigua y la somete al Señor imparcial; una aplicación contemporánea responsable debe rechazar esclavitud, explotación y abuso. Así, la enseñanza de Eric se prueba por el flujo del pasaje: la autoridad queda juzgada por la crianza, la ausencia de amenazas y la igualdad ante el Señor.
 
-## Permanecer, no atacar a personas (6:10-18)
+## Permanecer, no atacar a personas (6:10-18) #ephesians_6_10-18
 
 La repetición de **στάναι** organiza la armadura: ponerse el equipo, resistir en el día malo y permanecer de pie. Eric recalca que la armadura no es un objeto mágico ni una identificación automática con vestiduras sacerdotales; la lista local confirma que sus piezas son verdad, justicia, paz, fe, salvación y palabra de Elohim. El sustantivo **πάλη** aparece precisamente cuando Pablo niega que la lucha sea contra sangre y carne. Por eso una lectura que use la guerra espiritual para etiquetar pueblos, familiares o enfermos falla en el límite argumental de 6:12.
 
 La oración de 6:18 no es un apéndice desligado. «En todo tiempo», «con toda perseverancia» y «por todos los santos» amplían la firmeza desde la defensa individual hacia el cuidado comunitario. La enseñanza de Eric sobre velar y discernir puede conservarse si se prueba mediante **ἀγρυπνοῦντες**: estar atentos para orar, no vivir en acusación. La petición de Pablo por **παρρησία** muestra además que valentía para anunciar el misterio significa hablar con claridad bajo presión, no imponerse por agresión.
 
-## El cierre: noticias, paz y gracia (6:21-24)
+## El cierre: noticias, paz y gracia (6:21-24) #ephesians_6_21-24
 
 La carta no termina con la imagen de la armadura, sino con una red de relaciones. Tíquico debe informar a la comunidad de todo lo referente a Pablo y consolar sus corazones (#ephesians_6_21-22). El encargo muestra que la firmeza no es aislamiento: una comunidad necesita noticias verdaderas, consuelo y servidores confiables. Eric relaciona este cierre con la comunicación fiel de la palabra; el texto respalda esa función concreta sin convertir a Tíquico en un modelo abstracto de autoridad.
 
@@ -168,7 +168,7 @@ La armadura tampoco convierte la firmeza en agresión. **(ἀνθίστημι)**
 
 El cierre muestra qué produce esa resistencia. **(λαλέω)**, _laleō_, «hablar o comunicar», aparece en 6:20 cuando Pablo pide anunciar el misterio con franqueza; **(παρακαλέω)**, _parakaleō_, «animar, exhortar o consolar», describe la tarea de Tíquico en 6:22. Son equivalencias directas dentro de sus escenas, pero su relación con «servicio» es una síntesis narrativa: el texto no define una jerarquía ministerial abstracta, sino una comunicación que informa, consuela y pide oración. La armadura queda así comprobada por su fruto relacional.
 
-## Prueba de la armadura: resistir, permanecer y orar (6:10-20)
+## Prueba de la armadura: resistir, permanecer y orar (6:10-20) #ephesians_6_10-20
 
 La clase presenta la armadura como una formación espiritual y no como un objeto mágico. El orden de Pablo confirma esa cautela. La forma **ἐνδυναμοῦσθε**, _endynamousthe_, de **ἐνδυναμόω**, _endynamoō_, significa «fortaleceos o recibid fuerza» y tiene como esfera «en el Señor»; la fuente de la firmeza no es la autosuficiencia del discípulo. **πανοπλία**, _panoplia_, significa «armadura completa» y, en 6:11, está subordinada al verbo ponerse para poder permanecer frente a las maquinaciones. «Armadura» es una traducción directa en la imagen, pero la aplicación a disciplinas modernas es analógica, no una definición adicional del sustantivo.
 
@@ -178,7 +178,7 @@ En 6:14-17 los elementos forman una cadena: **ἀλήθεια**, _alētheia_, «
 
 Los versículos 18-20 completan la prueba. **προσευχή**, _proseuchē_, «oración», **δέησις**, _deēsis_, «súplica», y **ἀγρυπνέω**, _agrypneō_, «velar o mantenerse despierto», orientan la vigilancia hacia todos los santos y hacia la proclamación valiente de Pablo. La clase puede hablar de perseverancia y discernimiento porque el texto lo pide; no puede convertir «velar» en alarma permanente ni en control de otras conciencias.
 
-## Autoridad responsable y cierre comunitario (6:1-9, 21-24)
+## Autoridad responsable y cierre comunitario (6:1-9, 21-24) #ephesians_6_1-9
 
 La armadura no suspende las responsabilidades ya enumeradas. **ὑπακούω**, _hypakouō_, «obedecer o escuchar bajo autoridad», se dirige a los hijos «en el Señor», mientras que **παροργίζω**, _parorgizō_, «provocar a ira», limita de inmediato a los padres. En 6:5-9, **δουλεία** y **δοῦλοι**, _douleia_ y _douloi_, nombran la realidad de esclavitud y esclavos; no son una aprobación lexical de la institución. A los señores se les manda abandonar amenazas porque tienen el mismo Señor celestial, sin acepción de personas. La lectura de Eric sobre autoridad bajo Elohim queda así cualificada: una autoridad que amenaza y explota contradice sus propios límites apostólicos.
 
@@ -242,7 +242,7 @@ La observación de Eric sobre estudiar y discernir antes de repetir una enseñan
 
 El saludo final confirma el criterio. **Εἰρήνη**, (eirēnē), «paz», **ἀγάπη**, (agapē), «amor», y **χάρις**, (charis), «gracia o favor», acompañan la fe y la permanencia del amor a Yehoshua (#ephesians_6_23-24). Su relación temática con **(שלום)**, (shalom), es útil pero aproximada: el griego del cierre gobierna la conclusión. Por tanto, la lectura de la clase sobre una comunidad que permanece unida se apoya en el movimiento completo de la carta: autoridad limitada, resistencia no dirigida contra personas, oración y comunicación que edifican.
 
-## Control ampliado: la autoridad queda probada antes de la armadura (6:1-24)
+## Control ampliado: la autoridad queda probada antes de la armadura (6:1-24) #ephesians_6_1-24
 
 El capítulo no permite saltar directamente a la guerra espiritual. En 6:1-4, **ὑπακούετε**, _hypakouete_, «escuchen y obedezcan», está calificado por **ἐν Κυρίῳ**, _en Kyriō_, «en el Señor»; en 6:4, **ἐκτρέφετε**, _ektrephete_, «críen o alimenten», y **παιδεία**, _paideia_, «formación o disciplina», asignan una responsabilidad concreta a los padres. La prohibición **μὴ παροργίζετε**, _mē parorgizete_, «no provoquen a ira», impide que la enseñanza de Eric sobre autoridad se convierta en obediencia familiar sin límite. La relación temática con **(משפט)**, _mishpat_, «juicio recto», es aproximada y no reemplaza la sintaxis griega.
 
@@ -260,7 +260,7 @@ El mismo control rige la armadura. **ἐνδυναμοῦσθε**, _endynamousth
 
 La conclusión práctica también es textual. **προσευχόμενοι**, _proseuchomenoi_, «orando», **δέησις**, _deēsis_, «súplica», y **ἀγρυπνοῦντες**, _agrypnountes_, «velando o permaneciendo atentos», orientan la firmeza hacia todos los santos y hacia la petición de **παρρησία**, _parrēsia_, «franqueza o confianza para hablar». Tíquico comunica y consuela; el cierre añade **εἰρήνη**, _eirēnē_, «paz», **ἀγάπη**, _agapē_, «amor comprometido», y **χάρις**, _charis_, «gracia o favor». La comparación con **(שלום)**, _shalom_, «paz, integridad o bienestar», es temática y aproximada. La armadura termina sirviendo y comunicando, no dominando.
 
-## Prueba de continuidad: la armadura no cancela la casa (6:1-24)
+## Prueba de continuidad: la armadura no cancela la casa (6:1-24) #ephesians_6_1-24
 
 La unidad final vuelve sobre el mismo problema de autoridad que la carta trató en 5:21-33. **ὑπακοή**, _hypakoē_, «obediencia o escucha atenta», aparece como respuesta de los hijos y de los siervos, pero no queda aislada de los límites dados a padres y señores. A los padres se les manda **ἐκτρέφειν**, _ektrephein_, «criar o alimentar», en la disciplina del Señor; a los señores se les manda **ἀνιέναι**, _anienai_, «dejar o cesar», las amenazas. La equivalencia con **(משפט)**, _mishpat_, «justicia o juicio recto», es una comparación semítica aproximada: el texto griego gobierna, pero la relación ayuda a ver que el poder queda sometido a una norma.
 
@@ -274,7 +274,7 @@ La imagen de la armadura debe conservar su orden y su finalidad. **ἀλήθει
 
 La observación de Eric sobre discernir antes de actuar queda probada por la negación de 6:12: **πάλη**, _palē_, «lucha o combate», no es contra sangre y carne. La conexión pedagógica con **(אמת)**, _emet_, «verdad o fidelidad», y **(שלום)**, _shalom_, «integridad y paz», puede iluminar el campo semítico, pero no reemplaza las formas griegas ni demuestra que Pablo esté citando una lista sacerdotal. El límite pastoral es parte del argumento: la firmeza se expresa en paz, fe, palabra y oración, nunca en identificar a una persona como el enemigo.
 
-## Control añadido: la oración se verifica en el cierre relacional (6:18-24)
+## Control añadido: la oración se verifica en el cierre relacional (6:18-24) #ephesians_6_18-24
 
 La armadura alcanza su prueba final cuando Pablo pasa de la exhortación general a nombres y acciones concretas. **προσευχόμενοι**, _proseuchomenoi_, «orando», y **δεήσει**, _deēsei_, «con súplica», colocan la vigilancia de 6:18 al servicio de «todos los santos»; no es una técnica privada para descubrir enemigos. La petición por Pablo añade **ἀνοιχθῇ**, _anoichthē_, «sea abierta», aplicada a la boca para anunciar el misterio: la firmeza que Eric relaciona con discernimiento desemboca en comunicación dependiente, no en control de otras personas.
 

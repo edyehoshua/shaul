@@ -38,7 +38,7 @@ La fuente pública es «Parashat Shmini (2017): The Perfect High Priest, Yeshua 
 | #vayikra_9_22-23 | **וישא אהרן את ידיו אל העם ויברכם... וירא כבוד יהוה אל כל העם**                           | La bendición sacerdotal precede a la visión pública de la gloria.                                |
 | #vayikra_9_24    | **ותצא אש מלפני יהוה ותאכל על המזבח את העלה ואת החלבים**                                  | El fuego de delante de יהוה consume la ofrenda y el pueblo responde con júbilo y postración.     |
 
-## El octavo día después de la ordenación: 9:1-6
+## El octavo día después de la ordenación: 9:1-6 #vayikra_9_1-6
 
 Eric insiste en el enlace con el capítulo anterior: los siete días de ordenación no son un dato aislado, porque Vayikra 9 comienza «en el día octavo». **שמיני**, _shemini_, significa «octavo»; su fuerza contextual es temporal y narrativa, el día que sigue al período prescrito en 8:33-35. La relación con una idea de «nuevo comienzo» es pedagógica, no una definición del ordinal. Moshe convoca a Aharón, a sus hijos y a los ancianos: el servicio no aparece como iniciativa privada del sacerdote.
 
@@ -46,13 +46,13 @@ Aharón recibe un becerro para ofrenda por el pecado y un carnero para holocaust
 
 Moshe declara: **זה הדבר אשר צוה יהוה תעשו**, «esto es lo que יהוה ordenó; háganlo», y añade que la gloria aparecerá. **כבוד**, _kavod_, significa gloria, peso o honor; aquí su fuerza es visible y pública. La correspondencia entre obediencia y manifestación está explícita en el versículo, aunque no autoriza a prometer una señal visible cada vez que una comunidad repite el rito.
 
-## Aharón ofrece por sí mismo y por el pueblo: 9:7-21
+## Aharón ofrece por sí mismo y por el pueblo: 9:7-21 #vayikra_9_7-21
 
 Moshe manda a Aharón acercarse y hacer su ofrenda por el pecado y su holocausto; después presenta la ofrenda del pueblo. La secuencia conserva una distinción: el sacerdote no salta por encima de su propia necesidad mientras ministra por otros. El verbo **קרב**, _qarav_, significa acercarse o presentar; en este bloque su fuerza es acercarse al altar conforme al encargo. La forma «acercarse» es exacta; convertirla en una teoría completa de acceso espiritual sería una ampliación.
 
 Aharón pone la sangre, quema las partes prescritas y completa los ritos del becerro, el carnero, el macho cabrío, el holocausto y las ofrendas de paz. Eric usa este procedimiento para mostrar que el sacerdocio bíblico está regulado: la consagración no depende de entusiasmo improvisado. El texto local confirma la observación en la repetición de acciones y en la lista diferenciada de sacrificios. También mantiene la materialidad: grasa, sangre, carne y altar no son metáforas intercambiables dentro del capítulo.
 
-## Bendición, entrada y fuego: 9:22-24
+## Bendición, entrada y fuego: 9:22-24 #vayikra_9_22-24
 
 Aharón levanta sus manos y bendice al pueblo; luego desciende de hacer la ofrenda. Moshe y Aharón entran en la tienda, salen y bendicen de nuevo. **ברך**, _barakh_, significa bendecir; aquí describe una acción sacerdotal dirigida al pueblo, no una fórmula inventada por la nota. El texto coloca la bendición antes de que la gloria sea vista por todos.
 
@@ -73,5 +73,5 @@ Vayikra 9 no ofrece una experiencia desligada del mandato. El octavo día llega 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Shmini (2017): The Perfect High Priest, Yeshua HaMashiach](https://www.youtube.com/watch?v=8uYWr9QCDiE) (`source_id: youtube:8uYWr9QCDiE`).
+- [Parashat Shmini (2017): The Perfect High Priest, Yeshua HaMashiach](https://www.youtube.com/watch?v=8uYWr9QCDiE) (`source_id`: youtube:8uYWr9QCDiE`).
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción como cita literal.

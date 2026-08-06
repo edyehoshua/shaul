@@ -61,31 +61,31 @@ Esta es la nota canónica de Devarim 16 dentro de la serie Parashot 2016-2017. L
 | #devarim_17_8-13               | Describe la subida al lugar elegido y la obligación de oír al sacerdote/juez; la insolencia contra esa palabra destruye el sistema.                      | Continuidad de la clase, acotada y enlazada; no reemplaza una nota propia de Devarim 17.                                            |
 | #devarim_17_14-20; #devarim_18 | Limita al rey por la Torah y presenta al profeta como instancia de palabra; el título «YHWH Tzidqenu» resume que la justicia verdadera pertenece a יהוה. | Síntesis atribuida y cualificada; el profeta se remite a [[devarim_18_profeta_como_moshe]].                                         |
 
-## 16:1-17: el calendario y la aparición que no llega vacía
+## 16:1-17: el calendario y la aparición que no llega vacía #devarim_16_1-17
 
 Antes de los jueces, Devarim 16 ordena guardar el mes de Aviv y hacer Pésaj, porque יהוה sacó a Israel de Egipto de noche (#devarim_16_1). El capítulo continúa con panes sin levadura, la cuenta hacia Shavuot, la alegría de Sukot y la regla de las tres apariciones anuales (#devarim_16_16-17). **(שמר)**, _shamar_, significa guardar, vigilar u observar; en 16:1 su fuerza es custodiar el tiempo señalado del éxodo, no una nostalgia privada. «Recordar el mes» es **aproximada**; «guardar el mes» es más directa.
 
 **(ראה)**, _ra'ah_, en la forma pasiva/reflexiva de «aparecer / ser visto» estructura 16:16: el varón de Israel se presenta ante el rostro de יהוה en el lugar que Él elija, y no se presenta **(ריקם)**, _reqam_, «vacío». El TTH dice «en vano»; la fuerza ordinaria de _reqam_ es vacío, sin nada. Eric no concentra esta sesión en el calendario —la parashá nombrada es Shoftim—, pero el capítulo canónico exige leer primero esta memoria. Sin éxodo, lugar elegido y ofrenda según la bendición recibida (#devarim_16_17), los jueces de las puertas quedarían como técnica social sin teología. La evaluación es textual: el orden del capítulo une fiesta y justicia; la clase aporta sobre todo el segundo polo.
 
-## 16:18: jueces, oficiales y el juicio en las puertas
+## 16:18: jueces, oficiales y el juicio en las puertas #devarim_16_18
 
 «**שפטים ושטרים** pondrás para ti en todas tus puertas… y juzgarán al pueblo **משפט צדק**» (#devarim_16_18). **(שפט)**, _shafat_, significa juzgar, gobernar o decidir un caso; **(שפטים)**, _shoftim_, son jueces. **(שטר)**, _shoter_, designa al oficial, alguacil o encargado de ejecución/registro; no es automáticamente un «policía» moderno, aunque la clase use esa glosa para hacerse oír. La equivalencia «policía judicial» es **pedagógica**; «oficiales» es **aproximada** y más segura.
 
 **(שער)**, _sha'ar_, «puerta», es el lugar público de la ciudad donde se ventilan causas. Eric subraya que la justicia no queda monopolizada en una cúpula lejana: se instala en todas las puertas, por tus tribus. El texto lo dice explícitamente. **(משפט צדק)**, _mishpat tzedeq_, une procedimiento/juicio y rectitud. La clase habla de «debido proceso» y de no arrancar piezas a la investigación. Esa glosa moderna es **pedagógica**: el hebreo no usa la jerga procesal contemporánea, pero sí exige un juicio justo y, en el versículo siguiente, prohíbe torcerlo.
 
-## 16:19: no torcer, no reconocer rostros, no tomar soborno
+## 16:19: no torcer, no reconocer rostros, no tomar soborno #devarim_16_19
 
 Tres prohibiciones articulan el oficio: no inclinar el mishpat, no reconocer rostros y no tomar **(שחד)**, _shojad_, soborno (#devarim_16_19). **(נטה)**, _natah_, «inclinar / torcer», describe el desvío del juicio. **(הכיר פנים)**, _hakir panim_, «reconocer rostros», es parcialidad por identidad del compareciente. Eric insiste: no porque sea vecino, amigo o influyente se reescribe el caso. El texto sostiene esa lectura de forma directa.
 
 **(שחד)**, _shojad_, es soborno o don que compra favor. El versículo explica su daño: ciega los ojos de sabios y tuerce **(דברי צדיקים)**, _divrei tzadiqim_, las palabras de los justos. **(צדיק)**, _tzadiq_, significa justo o recto; aquí puede designar a personas justas o declaraciones justas según se lea el constructo. Eric glosa al justo como practicante y perseguidor de la justicia. Eso es **aproximado y pedagógico**: el versículo habla del efecto del soborno sobre la percepción y la palabra, no ofrece una monografía completa de _tzadiq_. La observación de la clase sobre sistemas donde se pierden pruebas o se compra la mirada recibe apoyo analógico, pero la autoridad del argumento sigue siendo la Torah, no el diagnóstico sociológico local.
 
-## 16:20: perseguir la justicia para vivir en la tierra
+## 16:20: perseguir la justicia para vivir en la tierra #devarim_16_20
 
 «**צדק צדק תרדף**» (#devarim_16_20). **(צדק)**, _tzedeq_, significa justicia, rectitud o lo debido conforme a un orden recto. La repetición no es adorno vacío: refuerza la exclusividad y la insistencia de la búsqueda. **(רדף)**, _radaf_, significa perseguir o ir tras algo. Eric lee aquí una lealtad al principio que arrastra al investigador por las pruebas, no por el prejuicio. El texto apoya la persecución activa de la justicia y la ata a un fin: «para que vivas y heredes la tierra que יהוה tu Elohim te da». La justicia no es un accesorio del asentamiento; es condición de permanencia. «YHWH Tzidqenu» como título de la clase resume esa dependencia: la justicia que se persigue no inventa a Dios; responde al Dios que da la tierra y exige mishpat.
 
 La equivalencia entre _tzedeq_ y «justicia social» moderna sería **imprecisa** si borra el marco de la alianza, las puertas y la Torah. «Rectitud judicial y relacional conforme a יהוה» es una paráfrasis **aproximada** más fiel.
 
-## 16:21-22: el altar sin Asheráh ni matzevah
+## 16:21-22: el altar sin Asheráh ni matzevah #devarim_16_21-22
 
 Inmediatamente después de la persecución de la justicia, el texto prohíbe plantar **(אשרה)**, _asherah_, cualquier árbol junto al altar de יהוה, y levantar **(מצבה)**, _matzevah_, pilar o estela que יהוה aborrece (#devarim_16_21-22). Eric conecta este cierre con la tentación de orientar el juicio por medios ajenos —árbol, piedra, adivinación— en lugar de la palabra y las pruebas. El capítulo 16, en sentido estricto, prohíbe contaminar el altar con símbolos prohibidos; no desarrolla aquí un catálogo completo de ocultismo. Esa ampliación aparece con más detalle cuando la parashá avanza. Por tanto: hay apoyo para no mezclar el culto de יהוה con mediaciones aborrecidas; la tipología completa de adivinación es **continuación de Shoftim**, no el contenido exhaustivo de estos dos versículos.
 

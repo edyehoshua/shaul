@@ -36,6 +36,8 @@ references:
   - "#iojanan_5_16"
 sources:
   - "https://www.youtube.com/watch?v=piMtrd0ksmQ"
+source_ids:
+  - "youtube:piMtrd0ksmQ"
 ---
 
 # Tesis
@@ -135,3 +137,9 @@ El video lee Yojanan 5 como una confrontación en dos frentes: primero, Yeshúa 
 - [Yojanan 6: señales, maná y pan de vida](./yojanan_6_pan_vida_senales.md)
 - [Yojanan: yehudim, procedencia y logos](./yojanan_yehudim_y_logos.md)
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=piMtrd0ksmQ) (`source_id`: `youtube:piMtrd0ksmQ`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

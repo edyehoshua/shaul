@@ -48,7 +48,7 @@ Yejezkel 22 muestra que el juicio de יהוה no aparece como una reacción arbi
 
 Esta nota organiza la exposición **Haftarah de ‘ajarey-mot (Ez 22:1-22)** siguiendo el orden de la perícopa. La transcripción automática se usa para localizar las observaciones de Eric, no como cita literal. Las explicaciones sobre vocabulario, historia y aplicaciones contemporáneas se atribuyen a su tratamiento en la clase; el texto bíblico se distingue de esas ampliaciones.
 
-## Yejezkel 22:1-5 — la ciudad de sangre y el tiempo que se acerca
+## Yejezkel 22:1-5 — la ciudad de sangre y el tiempo que se acerca #yejezkel_22_1-5
 
 El texto abre con la palabra de יהוה al profeta: «Y tú, hijo de hombre, ¿juzgarás, juzgarás a la ciudad de sangre? Y le harás conocer todas sus abominaciones» (#yejezkel_22_1-2). La expresión local **עִיר הַדָּמִים** no describe solo una ciudad donde ocurre violencia ocasional. Eric la lee como una ciudad cuya conducta institucional consiste en derramar vida y hacer de la violencia una estructura. La repetición de «¿juzgarás?» subraya que Yejezkel debe aplicar el debido juicio y hacer pública la acusación, no esconderla detrás de una reputación religiosa.
 
@@ -56,7 +56,7 @@ En los versículos 3-4, Jerusalén es llamada «ciudad derramadora de sangre» y
 
 El versículo 4 dice que la ciudad ha acercado sus días y ha llegado a sus años; por eso será afrenta para las naciones. Eric explica la frase como una anticipación de la hora del juicio: la corrupción acumulada trae sobre sí las circunstancias de su propia caída. No se trata de que una comunidad pueda calcular la medida secreta de יהוה, sino de que el pecado sostenido produce una realidad que ya no puede llamarse accidente. El versículo 5 añade que cercanos y lejanos se burlarán de la ciudad «contaminada de nombre, grande en tumulto». La fama sagrada no puede proteger una conducta que contradice el nombre invocado.
 
-## Yejezkel 22:6-12 — poder, vulnerables y sangre desperdiciada
+## Yejezkel 22:6-12 — poder, vulnerables y sangre desperdiciada #yejezkel_22_6-12
 
 La segunda unidad abandona las generalidades y nombra responsabilidades. Los príncipes de Israel usan su brazo para derramar sangre (#yejezkel_22_6). Padre y madre son tratados con desprecio; el extranjero es oprimido; el huérfano y la viuda son humillados (#yejezkel_22_7). Eric insiste en que la santidad de Levítico no es un asunto aislado del altar. La misma comunidad que profana lo santo termina profanando a las personas que יהוה manda proteger.
 
@@ -66,13 +66,13 @@ Los versículos 9-11 enumeran chismes que buscan sangre, idolatría en los monte
 
 Eric amplía **דָּם** (_dam_, sangre) hacia la idea de vida y recursos desperdiciados. La explotación financiera puede arrebatar años, sustento y capacidad de vivir; por eso la aplicación pastoral llama a no convertir la deuda, la mora y el interés abusivo en una forma normal de devorar al prójimo. Esta ampliación pertenece al tratamiento de Eric; el texto, en su contexto inmediato, denuncia el soborno, la ganancia opresiva y el olvido de יהוה.
 
-## Yejezkel 22:13-16 — el golpe contra la ganancia y la dispersión
+## Yejezkel 22:13-16 — el golpe contra la ganancia y la dispersión #yejezkel_22_13-16
 
 «He aquí, he golpeado mi mano contra tu ganancia y contra tu sangre» (#yejezkel_22_13). El gesto expresa la intervención de יהוה contra el provecho construido sobre la vida ajena. La pregunta del versículo 14 —«¿estará firme tu corazón?»— desmonta la soberbia de una ciudad que confía en sus manos y en su estructura. Eric observa que no hay fortaleza humana capaz de sostenerse cuando יהוה habla y actúa: «Yo, יהוה, hablé y lo hice».
 
 Los versículos 15-16 anuncian dispersión entre las naciones y el fin de la impureza. El juicio no es presentado como una purificación sentimental, sino como una ruptura dolorosa de la concentración de poder. La ciudad que acumuló violencia será desarraigada y aprenderá delante de las naciones quién es יהוה (#yejezkel_22_15-16). La exposición advierte contra confundir paciencia con aprobación: que la sentencia tarde no significa que la conducta haya sido absuelta.
 
-## Yejezkel 22:17-22 — Israel como escoria en el horno
+## Yejezkel 22:17-22 — Israel como escoria en el horno #yejezkel_22_17-22
 
 La palabra vuelve a Yejezkel: «La casa de Israel se me ha convertido en escoria; todos ellos son cobre, estaño, hierro y plomo dentro del horno; escoria de plata son» (#yejezkel_22_17-18). La metáfora del crisol explica el resultado de la corrupción acumulada. Eric contrasta la plata que se busca con los metales comunes que quedan como escoria. La imagen no autoriza a la comunidad a declararse pura y a señalar a otros; llama a dejar que יהוה revele qué se ha vuelto impuro.
 

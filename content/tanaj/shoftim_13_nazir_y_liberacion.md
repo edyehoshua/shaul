@@ -54,7 +54,7 @@ Se sigue Jueces 13 en orden textual según la exposición de Eric. El hebreo pro
 - **13:15-23 — ofrenda, nombre **פלאי** y “hemos visto a Elohim”:** la clase advierte no fusionar automáticamente este mensajero con otras teofanías por traducir “maravilloso”, y lee el temor de Manoaj junto con la teología sobria de su mujer. Apoyo textual en **פלאי** y en 13:22-23; la distinción onomástica fina queda **cualificada**.
 - **13:24-25 y horizonte mesiánico — comienzo, no consumación:** Eric insiste en que Shimshón **comienza** a salvar de un enemigo de carne y sangre, mientras el evangelio habla de salvar al pueblo de sus pecados. Relación **canónica/pedagógica**, no identidad plana entre Shimshón y Yehoshua.
 
-## Opresión, infecundidad y anuncio nazir — 13:1-7
+## Opresión, infecundidad y anuncio nazir — 13:1-7 #shoftim_13_1-7
 
 El capítulo abre sin maquillaje: Israel vuelve a hacer el mal y יהוה los entrega en mano de los pelishtim cuarenta años. En ese horizonte aparece Manoaj, de la familia danita, y su mujer estéril. Eric recuerda que el narrador da al lector claves que los protagonistas aún no manejan del todo: desde el inicio se nombra al **מלאך יהוה**, aunque la mujer primero lo describe como hombre de Elohim de aspecto temible.
 
@@ -64,7 +64,7 @@ Sobre **יחל להושיע**, la clase es enfática: no dice que Shimshón agot
 
 La mujer cuenta a su marido lo sucedido. Aún no tiene el nombre del visitante. El anuncio ya define al niño como nazir **מן הבטן עד יום מותו** en la versión que ella reporta (13:7): la consagración no es un voto adulto opcional, sino condición de origen.
 
-## Manoaj pregunta por el mishpat del niño — 13:8-18
+## Manoaj pregunta por el mishpat del niño — 13:8-18 #shoftim_13_8-18
 
 Manoaj ora: que vuelva el hombre de Elohim y nos enseñe qué haremos al niño que ha de nacer. Eric destaca la piedad práctica de la petición: no pide espectáculo, pide **משפט** y quehacer. Elohim escucha; el mensajero se aparece de nuevo a la mujer en el campo; ella corre; Manoaj llega y pregunta: ¿eres tú el hombre que habló a la mujer? — **אני**.
 
@@ -72,7 +72,7 @@ La pregunta de 13:12 es programática: **מה יהיה משפט הנער ומע�
 
 Cuando Manoaj ofrece retenerlo y prepararle un cabrito, el mensajero rehúsa comer y reorienta la ofrenda hacia יהוה. Manoaj aún no sabe que es mensajero de יהוה. Pregunta el nombre para honrarlo cuando se cumpla la palabra. La respuesta — **למה זה תשאל לשמי והוא פלאי** — es el punto donde Eric pone un freno hermenéutico. Advierte que traducir sin más “maravilloso” y saltar a otras teofanías o a títulos de #ieshaiahu_9_5 puede fusionar nombres y figuras que el hebreo no identifica automáticamente. El adjetivo/nombre **פלאי** señala lo prodigioso o inaccesible del nombre; la clase prefiere no construir con eso una identidad plena que el narrador no declara. Esta cautela es **textual**: el mensajero desvía la pregunta; no entrega un carné teológico completo.
 
-## Ofrenda, temor y nacimiento — 13:19-25
+## Ofrenda, temor y nacimiento — 13:19-25 #shoftim_13_19-25
 
 Manoaj ofrece el cabrito y la ofrenda sobre la roca a יהוה. Al subir la llama, el mensajero asciende en la llama del altar. Solo entonces Manoaj y su mujer saben con claridad. Manoaj concluye: **מות נמות כי אלהים ראינו**. Su mujer razona con sobriedad teológica: si יהוה quisiera matarnos, no habría aceptado ofrenda ni nos habría mostrado esto ni nos habría hecho oír tal anuncio. Eric valora ese discernimiento: el temor de la teofanía es real, pero la mujer lee los signos de aceptación y de palabra.
 

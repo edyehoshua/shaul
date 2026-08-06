@@ -73,9 +73,9 @@ Cantar 1 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 1) Cap 1» — https://www.youtube.com/watch?v=Nqe5dcsxH3s (`source_id: youtube:Nqe5dcsxH3s`).
-- «Shir hashirim (parte 2) Cap 1» — https://www.youtube.com/watch?v=WpajxWXftY0 (`source_id: youtube:WpajxWXftY0`).
-- «Shir hashirim (parte 3) Cap 1» — https://www.youtube.com/watch?v=MIJXS2ySeR4 (`source_id: youtube:MIJXS2ySeR4`).
-- «Shir hashirim (parte 4) cap 1» — https://www.youtube.com/watch?v=DnhyzPXYyYY (`source_id: youtube:DnhyzPXYyYY`).
+- «Shir hashirim (parte 1) Cap 1» — https://www.youtube.com/watch?v=Nqe5dcsxH3s (`source_id`: youtube:Nqe5dcsxH3s`).
+- «Shir hashirim (parte 2) Cap 1» — https://www.youtube.com/watch?v=WpajxWXftY0 (`source_id`: youtube:WpajxWXftY0`).
+- «Shir hashirim (parte 3) Cap 1» — https://www.youtube.com/watch?v=MIJXS2ySeR4 (`source_id`: youtube:MIJXS2ySeR4`).
+- «Shir hashirim (parte 4) cap 1» — https://www.youtube.com/watch?v=DnhyzPXYyYY (`source_id`: youtube:DnhyzPXYyYY`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

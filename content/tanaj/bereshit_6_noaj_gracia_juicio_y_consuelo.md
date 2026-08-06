@@ -78,7 +78,7 @@ El contraste salvífico es breve: **(ונח מצא חן בעיני יהוה)**, 
 
 La tierra, en cambio, «se corrompió… y se llenó la tierra de **(חמס)**» (#bereshit_6_11-13). **(חמס)**, _jamas_, violencia, agravio brutal. Elohim anuncia el fin de toda carne. El juicio no es capricho: responde a una tierra saturada de daño.
 
-## El arca: mandato, obediencia y quien cierra la puerta — vv. 14–22 (y 7:16)
+## El arca: mandato, obediencia y quien cierra la puerta — vv. 14–22 (y 7:16) #bereshit_7_16
 
 «Haz para ti un **(תבה)**, _tevah_, arca de maderas de gofer…» (#bereshit_6_14). Detalles de medidas y de parejas siguen; el cierre del capítulo es la clave ética: «E hizo Nóaj conforme a todo lo que le ordenó Elohim; así hizo» (#bereshit_6_22). Eric lee la construcción prolongada (en su exposición, asociada al plazo de 120 años) como predicación material: cada etapa del arca es anuncio. Eso es **inferencia pedagógica** apoyada en la tradición de Nóaj pregonero, no un dato explícito de Bereshit 6.
 

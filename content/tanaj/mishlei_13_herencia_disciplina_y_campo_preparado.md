@@ -45,31 +45,31 @@ Esta nota organiza la clase pública «PROVERBIOS | La HERENCIA de los HIJOS DE 
 | #mishlei_13_21-22 | «A los pecadores los perseguirá el mal, pero a los justos los hará sin deuda el bien. El bueno hará heredar a los hijos de los hijos…» | El bien de Elohim cancela deuda y extiende la herencia más allá de una sola generación. |
 | #mishlei_13_23 | «Mucha comida <em>hay en</em> el campo preparado de los pobres, pero es barrido sin juicio.» | La productividad potencial no basta: el campo debe ser trabajado con justicia y discernimiento. |
 
-## Mensajeros, fidelidad y sanidad (13:17)
+## Mensajeros, fidelidad y sanidad (13:17) #mishlei_13_17
 
 La OE conserva **מלאך רשע יפל ברע וציר אמונים מרפא**: el mensajero de maldad cae en el mal, pero el enviado de fidelidades sana. La clase identifica al mensajero de maldad con el adversario y sus seguidores, y presenta al enviado de fidelidades como una figura de la obra de Yehoshua. Esa lectura pertenece a la exposición; el contraste básico del proverbio es más amplio y puede aplicarse a cualquier mensajero cuya misión sea mala o fiel.
 
 Eric conecta **אמונים**, _emunim_, con la enseñanza, la crianza y las fidelidades de Elohim. También relaciona **מרפא**, _marpé_, con una sanidad que restaura al pueblo a su propósito original: no una promesa automática de bienestar físico, sino la capacidad de volver a caminar en los mandamientos. La nota conserva esta distinción. El término «sanará» tiene un efecto vivificante en el texto, pero no autoriza por sí solo una afirmación médica para cada situación.
 
-## Disciplina, honra y el deseo venidero (13:18-19)
+## Disciplina, honra y el deseo venidero (13:18-19) #mishlei_13_18-19
 
 El versículo 18 establece una relación directa entre rechazo de la disciplina y pobreza o desprecio. La clase desarrolla **פורע מוסר**, _poréa musar_, como una imagen de alguien que suelta el cabello y se rebela contra una autoridad. Ese juego alegórico comunica bien la idea de desorden y falta de sometimiento, pero la raíz y sus matices necesitan cotejo antes de convertirlo en una definición exhaustiva. El texto sí contrasta rechazar la disciplina con guardar la reprensión y recibir honra.
 
 En el versículo 19, la «dulzura» del deseo que ha de ser se interpreta como esperanza de la venida de Yehoshua y de la consumación de la redención. El TTH conserva «deseo que ha de ser» y «endulzará la garganta». La esperanza no funciona aquí como evasión de la obediencia presente: sostiene al que debe soportar adversidad y apartarse del mal. La segunda mitad advierte que los indisciplinados consideran abominable apartarse del mal; la distorsión moral puede llamar bueno a aquello de lo que la Torah ordena salir.
 
-## La compañía que forma (13:20)
+## La compañía que forma (13:20) #mishlei_13_20
 
 «El que anda con sabios será sabio» expresa una pedagogía comunitaria. Eric recalca que la sabiduría no es una colección de filosofías humanas, sino escuchar la disciplina de Elohim junto a compañeros que obedecen. La influencia del entorno es real: la persona aprende prácticas y prioridades de aquellos con quienes camina. Sin embargo, la exhortación no ordena abandonar toda relación con quienes todavía no obedecen; llama a discernir quiénes forman nuestro corazón y qué compañía aceptamos como guía.
 
 La exposición observa un juego de lectura entre **רעה**, que puede relacionarse con compañero o pastor según la vocalización, y la idea de ser destrozado junto a los indisciplinados. El texto sin nikud debe manejarse con cuidado: una posibilidad de vocalización no convierte automáticamente una lectura en la única correcta. La enseñanza segura es el contraste entre caminar con sabios y asociarse de manera formativa con quienes desprecian la disciplina.
 
-## Sin deuda y herencia para generaciones (13:21-22)
+## Sin deuda y herencia para generaciones (13:21-22) #mishlei_13_21-22
 
 El TTH dice que a los pecadores los persigue el mal, pero a los justos el bien los hace «sin deuda». La clase usa la imagen de una deuda que persigue al pecador como una tarjeta de crédito interminable: el pecado esclaviza y exige más. Presenta la redención de Elohim como liberación de esa deuda y como transferencia de pertenencia: quien recibe misericordia ya no debe permanecer bajo el dominio del pecado. La analogía ayuda a explicar la esclavitud, aunque no reemplaza el estudio de las categorías bíblicas de pecado, deuda y perdón.
 
 Luego el bueno hace heredar a los hijos de los hijos. Eric enfatiza que la herencia no queda reservada a una sola generación: puede alcanzar a hijos, nietos y generaciones posteriores según la voluntad de Elohim. La afirmación debe leerse como una promesa de continuidad y responsabilidad, no como una garantía de prosperidad material para cada descendiente. El versículo también dice que la riqueza del pecador queda atesorada para el justo; la clase la conecta con la parábola de los talentos y con la administración fiel de lo recibido. Es una aplicación legítima como exhortación, pero el proverbio no debe reducirse a un mecanismo económico.
 
-## El campo preparado de los pobres (13:23)
+## El campo preparado de los pobres (13:23) #mishlei_13_23
 
 El último versículo presenta una dificultad de traducción. El TTH dice «mucha comida hay en el campo preparado de los pobres, pero es barrido sin juicio», mientras la clase examina la traducción convencional «barbecho» y propone leer **ניר**, _nir_, como tierra preparada para arar. El hebreo de la OE registra **רב אכל ניר ראשים ויש נספה בלא משפט**. Eric distingue el campo en proceso de preparación de una tierra abandonada: hay potencial de fruto, pero puede ser devorado y quedar barrido sin mishpat.
 

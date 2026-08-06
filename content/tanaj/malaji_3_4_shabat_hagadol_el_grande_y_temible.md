@@ -60,25 +60,25 @@ Eric comienza deteniéndose en la construcción hebrea que la transcripción rep
 
 La clase añade que el nombre se vincula con el día de la semana anterior a Pésaj y con la lectura profética que anuncia el “día grande y temible”. El texto local confirma que Malaquías termina con **(יום יהוה הגדול והנורא)**: “el día de יהוה, el grande y el temible” (#malaji_4_5). Así, la asociación central de Eric tiene apoyo textual en el cierre del profeta, aunque el desarrollo histórico de la costumbre requiere fuentes externas específicas.
 
-## 2. El mensajero y la purificación — Malaquías 3:1-4
+## 2. El mensajero y la purificación — Malaquías 3:1-4 #malaji_3_1-4
 
 El primer movimiento profético no es la condena inmediata, sino el envío de un mensajero que prepara el camino. Eric conecta esta preparación con la expectativa mesiánica y con el lenguaje del pacto. Malaquías presenta dos expresiones: el mensajero que prepara y el mensajero del pacto en quien se deleitan. La nota no fusiona automáticamente ambos referentes; registra la lectura de Eric y deja abierta la discusión exegética.
 
 La pregunta siguiente es incómoda: “¿Quién soporta el día de su venida?”. El Adón aparece como fuego refinador y jabón de lavanderos. Eric recalca que la venida del Grande no se mide por una señal externa, sino por lo que hace con un pueblo impuro. El refinador se sienta, purifica la plata y refina a los hijos de Leví para que presenten ofrenda en justicia. El verbo y la imagen describen un proceso; no autorizan a llamar “purificación” a cualquier experiencia religiosa sin el criterio de justicia que el pasaje conserva.
 
-## 3. Juicio, constancia y retorno — Malaquías 3:5-18
+## 3. Juicio, constancia y retorno — Malaquías 3:5-18 #malaji_3_5-18
 
 La exposición continúa con la lista de abusos: hechicería, adulterio, juramentos falsos, explotación del asalariado, viudas, huérfanos y extranjeros. Eric observa que el juicio de יהוה tiene una dimensión moral y social concreta. El fuego del pasaje no es una metáfora para evadir responsabilidades: el profeta nombra a quienes oprimen y a quienes no temen a יהוה.
 
 En medio de esa severidad aparece una base para la esperanza: “Yo, יהוה, no cambio, y ustedes, hijos de Yaakov no han sido acabados” (#malaji_3_6). La clase usa esta frase para explicar por qué el juicio no equivale a abandono. El llamado “vuelvan a Mí” (#malaji_3_7) muestra que el retorno es relacional: יהוה promete volver al pueblo. Más adelante, los temerosos hablan entre sí y se escribe un rollo de memoria. Eric destaca que el temor reverente no queda invisible; la distinción entre quien sirve a Elohim y quien no le sirve se revelará en el día señalado.
 
-## 4. El día grande: fuego y sanidad — Malaquías 4:1-3
+## 4. El día grande: fuego y sanidad — Malaquías 4:1-3 #malaji_4_1-3
 
 El día llega como horno para los insolentes y hacedores de maldad: no les deja raíz ni rama. Eric conecta esta imagen con la lógica de un árbol cortado y con el contraste entre raíces de maldad y la promesa de continuidad del pueblo. Esa conexión es temática, no una equivalencia literal con cada pasaje vegetal de los profetas.
 
 Para los que temen el Nombre brilla el **(שמש צדקה)**, “Sol de Justicia”, con sanidad en sus alas. La clase subraya el contraste: el día no tiene un solo efecto indiferenciado. Consume lo que se levanta contra יהוה y hace salir a los temerosos como becerros del establo, con vida y libertad. La lectura mesiánica que Eric propone se conserva como conexión de la enseñanza; el texto de Malaquías, por sí mismo, afirma justicia, sanidad y vindicación sin describir todos los detalles de una identificación posterior.
 
-## 5. Recordar Torah y hacer volver corazones — Malaquías 4:4-6
+## 5. Recordar Torah y hacer volver corazones — Malaquías 4:4-6 #malaji_4_4-6
 
 El cierre impide separar esperanza de memoria: “Recuerden la Torah de Moshéh mi siervo... estatutos y juicios”. Eric presenta esta orden como una protección contra una espiritualidad que espera el día de יהוה mientras abandona la instrucción recibida en Joreb. La promesa de Eliyah aparece después de la Torah, no en su lugar.
 

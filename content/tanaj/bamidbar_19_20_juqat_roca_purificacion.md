@@ -173,7 +173,7 @@ La equivalencia «La Roca» es, por tanto, **teológica y aproximada** cuando de
 
 Bamidbar 19–20 no opone purificación y provisión: ambas dependen de la palabra de יהוה. La muerte exige un tratamiento santo; la sed recibe agua; y aun así el liderazgo es juzgado por cómo representa al dador. «La Roca» es una lectura provechosa sólo si conserva esta tensión: יהוה permanece firme, provee a su pueblo y exige que su santidad no sea reemplazada por una acción humana, aunque produzca agua.
 
-## La custodia de la ceniza y la responsabilidad del contacto — Bamidbar 19:9-22
+## La custodia de la ceniza y la responsabilidad del contacto — Bamidbar 19:9-22 #bamidbar_19_9-22
 
 La clase pública de Eric presenta la «segunda Mishméret» como una llamada a custodiar lo que יהוה entrega para la restauración de la congregación. El texto usa **למשמרת**, _lemishmeret_, «para custodia» o «para guardar», de la raíz **(שמר)**, _shamar_, guardar, custodiar u observar. Su fuerza contextual es una responsabilidad comunitaria concreta: la ceniza queda disponible para preparar las aguas y no se convierte en propiedad privada del sacerdote o del hombre que la recoge. «Administración espiritual» sería una equivalencia pedagógica; «para custodia de los hijos de Israel» es la formulación más exacta.
 
@@ -183,7 +183,7 @@ La restauración se ejecuta en dos momentos: **והזה הטהר על הטמא �
 
 El verbo **(חטא)**, _jata_, puede significar errar o, en la forma causativa de esta unidad, purificar mediante la acción prescrita. Su fuerza contextual debe establecerse por la forma verbal y por el objeto, no por una simple asociación castellana entre pecado y limpieza. «Expiar» puede ser una equivalencia canónica aproximada, pero no debe borrar que Bamidbar 19 ordena una acción de rociar. La ceniza y el agua no operan como amuletos; la restauración procede de la palabra recibida.
 
-## La Roca, la santidad y el mediador — Bamidbar 20:1-13
+## La Roca, la santidad y el mediador — Bamidbar 20:1-13 #bamidbar_20_1-13
 
 La fuente `youtube:0a9JenvoNhM` enlaza la purificación con «La Roca» y con la prueba del liderazgo. Bamidbar 20 conserva ese enlace mediante una transición textual: Miriam muere, no hay agua para la congregación, יהוה ordena reunir al pueblo y hablar a la peña, y el agua sale. **(סלע)**, _sela_, significa peña o roca; en 20:8-11 designa un objeto concreto. «Roca de salvación» es una equivalencia teológica y pedagógica, no el sentido léxico exhaustivo de la forma.
 

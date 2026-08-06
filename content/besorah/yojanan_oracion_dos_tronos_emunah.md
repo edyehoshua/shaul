@@ -52,6 +52,8 @@ references:
   - "#bamidbar_15_16"
 sources:
   - "https://www.youtube.com/watch?v=LfJ1LGjOXho"
+source_ids:
+  - "youtube:LfJ1LGjOXho"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -339,3 +341,9 @@ Desde Ivrim y Romanos, la misma sesión corrige dos distorsiones pastorales: «c
 - [[yojanan_introduccion|Introducción al evangelio de Yojanán]]
 - [[../temas/elohim_aba|Elohim y Aba]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=LfJ1LGjOXho) (`source_id`: `youtube:LfJ1LGjOXho`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

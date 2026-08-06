@@ -51,7 +51,7 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | El HIJO de la SIER
 | #galatians_4_27-29 | **כי כתוב רני עקרה לא ילדה ... ואנחנו אחי הננו כיצחק בני ההבטחה׃ וכאשר רדף אז הנולד לפי־הבשר את־הנולד לפי הרוח כן־גם־עתה׃** | Los creyentes son identificados como hijos de la promesa y se anticipa oposición. |
 | #galatians_4_30-31 | **והכתוב מה־הוא אמר גרש האמה ואת־בנה כי לא יירש בן־האמה עם בן־החפשיה׃ על־כן אחי לא־בני האמה אנחנו כי אם־בני החפשיה׃** | La conclusión apostólica afirma que la comunidad no es hija de la sierva, sino de la libre. |
 
-## Escuchar la Torah para entender la alegoría (4:21-24)
+## Escuchar la Torah para entender la alegoría (4:21-24) #galatians_4_21-24
 
 Pablo comienza con una pregunta dirigida a quienes quieren estar «bajo la Torah»: ¿no han escuchado la Torah? La clase aprovecha la diferencia para separar dos expresiones que muchas traducciones españolas hacen sonar iguales. El expositor entiende «bajo ley» como estar bajo una sentencia, esclavizado por el pecado o por una estructura humana; en cambio, «la Torah» con artículo apunta a la palabra escrita que Pablo va a citar. La distinción es útil para leer el argumento sin convertir la Torah en enemiga, aunque la afirmación gramatical no debe sostenerse sólo en la presencia o ausencia del artículo sin revisar el griego completo.
 
@@ -59,7 +59,7 @@ La clase insiste en que el hijo de la sierva nació «según la carne» porque A
 
 Cuando Pablo llama a estas cosas una alegoría, no está diciendo que Abraham, Agar, Sara e Isaac sean personajes inventados. La clase lo explica como comparación o representación: el acontecimiento histórico tiene una función dentro del argumento apostólico. Esa observación protege contra dos extremos: reducir Gálatas a una genealogía racial, o usar la alegoría para despreciar a Agar, Ismael, las mujeres o el pueblo judío. El punto de Pablo es la pertenencia definida por la promesa y por el Mesías.
 
-## Sinaí, Jerusalén y la libertad de arriba (4:24-28)
+## Sinaí, Jerusalén y la libertad de arriba (4:24-28) #galatians_4_24-28
 
 Gálatas 4:24-26 habla de dos alianzas, una «del monte Sinaí» que engendra para esclavitud y es Agar, y otra representada por la Yerushalayim de arriba, que es libre y madre de todos nosotros. Eric rechaza identificar automáticamente la primera con todo el Antiguo Testamento o con la Torah divina. Según la clase, Pablo apunta a la confianza en tradiciones y mandatos humanos que se presentan como camino de justificación. Esa lectura responde a la preocupación central de Gálatas, pero debe mantenerse como interpretación contextual: el versículo no nombra por sí mismo cada institución posterior ni prueba todas las afirmaciones históricas sobre el judaísmo rabínico.
 
@@ -67,7 +67,7 @@ La exposición menciona la fórmula rabínica «Moisés recibió la Torah desde 
 
 La cita de Isaías 54:1 sobre la estéril ensancha la imagen: la que parecía desolada recibe hijos. La clase relaciona esa promesa con la comunidad que todavía sufre y espera glorificación. Puede sostenerse que Pablo usa Isaías para afirmar fecundidad y promesa; no es necesario convertir la «Yerushalayim de arriba» en una descripción geográfica detallada. Los hijos de la promesa son como Isaac, y su identidad no depende de una marca humana ni de una ciudad terrenal convertida en objeto de misticismo.
 
-## Persecución, herencia y expulsión (4:28-31)
+## Persecución, herencia y expulsión (4:28-31) #galatians_4_28-31
 
 El versículo 29 dice que el nacido según la carne perseguía al nacido según el Ruaj, y que así ocurre también ahora. Eric lee esta persecución como la presión de estructuras humanas contra quienes reciben libertad en Yehoshua. La aplicación es pertinente para la comunidad de la clase, pero el texto no autoriza a asignar automáticamente el papel de «Ismael» a una etnia o pueblo contemporáneo. Pablo está usando una relación narrativa para interpretar el conflicto de Galacia, no estableciendo una clasificación racial de la humanidad.
 

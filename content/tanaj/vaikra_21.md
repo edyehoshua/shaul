@@ -71,7 +71,7 @@ La clase abre ubicando Vaikra 21 dentro de un arco mayor: después de las tablas
 
 El texto sostiene ese marco. El capítulo no empieza con una definición abstracta de piedad, sino con una orden a Moshéh dirigida a **(הכהנים בני אהרן)**, _hakohanim benei Aharon_, «los sacerdotes, hijos de Aharón» (#vaikra_21_1). **(כהן)**, _kohen_, tiene el sentido ordinario de sacerdote o ministro cultual; aquí su fuerza contextual es el linaje aharónico encargado de acercar el pan de Elohim. «Ministro» puede ser una glosa **aproximada** de la clase, útil para oír la función de servicio, pero no borra el referente sacerdotal concreto del capítulo.
 
-## 21:1-4: nefes, tum'ah e inhabilitación controlada
+## 21:1-4: nefes, tum'ah e inhabilitación controlada #vaikra_21_1-4
 
 El mandato central es: «por **(נפש)** no se impurifique en su pueblo» (#vaikra_21_1). **(נפש)**, _nefesh_, tiene el sentido ordinario de garganta, vida, persona o ser viviente; en contextos de impureza por muerto designa al muerto o a la persona fallecida como cuerpo/vida biológica expuesta. Eric insiste en no traducir aquí «alma» como entidad inmaterial que contamina, sino como organismo terrenal. Esa observación recibe apoyo contextual: el TTH conserva _néfesh_ y habla de impurificarse «en su pueblo», y 21:11 hablará de **(נפשת מת)**, _nafshot met_, «seres/muertos». La equivalencia «alma» es **imprecisa** en este pasaje; «persona muerta / vida biológica fallecida» es **aproximada y contextual**.
 
@@ -83,7 +83,7 @@ En 21:4 aparece **(בעל)**, _ba'al_, «marido / señor / dueño». El TTH trad
 
 La clase conecta esta prioridad con la palabra de Yehoshua sobre no preferir padre o madre por encima de él. Esa conexión es **canónica y pedagógica**: Vaikra 21 no cita los Evangelios, pero sí exige que el servicio de Elohim no quede subordinado a toda demanda familiar. El texto, sin embargo, no anula el duelo permitido; concede el núcleo cercano al kohen ordinario. La evaluación correcta es: hay apoyo para la prioridad del servicio, y hay límite textual que impide convertir el capítulo en indiferencia cruel.
 
-## 21:5-6: signos del cuerpo y el pan de Elohim
+## 21:5-6: signos del cuerpo y el pan de Elohim #vaikra_21_5-6
 
 El sacerdote no se hace calvicie ritual en la cabeza, no afeita los bordes de la barba ni se hace incisiones en la carne (#vaikra_21_5). Eric explica estos signos en clave de no parecer inhabilitado y de no adoptar marcas de duelo o prácticas que confundan su disponibilidad. El texto mismo no detalla toda la antropología de cada corte; regula el cuerpo del ministro. **(קרחה)**, _qorjah_, significa calvicie o rapado en señal de duelo; **(שרטת)**, _saretet_, es incisión o tajo. Sus equivalencias habituales son **aproximadas**. La anécdota de la clase sobre monjes rapados o sobre tipos de calvicie funciona como ilustración oral, no como exégesis demostrada de cada forma hebrea; se conserva solo la dirección: el cuerpo del kohen comunica su estado delante del pueblo.
 
@@ -91,7 +91,7 @@ El v. 6 da el fundamento: «**קדשים** serán para su Elohim y no profanará
 
 **(חלל)**, _jalal_, en **(יחללו)**, _yejallelu_, «profanarán», significa tratar como común o desacralizar. Eric usa a veces la imagen de «hacer un hueco» o «descompletar» una unidad. Como pedagogía de la raíz puede ayudar; como equivalencia exacta es insuficiente. En contexto, profanar el nombre es actuar de modo que lo reservado a Elohim quede rebajado. La calificación es: **aproximada** en «profanar», **pedagógica** en «descompletar».
 
-## 21:7-9: matrimonio, hija del kohen y el peso del nombre
+## 21:7-9: matrimonio, hija del kohen y el peso del nombre #vaikra_21_7-9
 
 Al kohen se le prohíbe tomar mujer **(זנה)** y **(חללה)**, y también divorciada (#vaikra_21_7). **(זנה)**, _zonah_, tiene el sentido ordinario de fornicar o prostituirse; puede cubrir promiscuidad sexual y no solo el oficio de prostituta a sueldo. Eric distingue explícitamente «mujer promiscua» de una definición reducida a cobro. Esa observación es **aproximada y contextual**: el hebreo no obliga a una sola glosa española, y el capítulo habla de condición matrimonial del ministro, no de una monografía sociológica. **(חללה)**, _jalalah_, proviene de **(חלל)** y nombra a una mujer profanada o deshonrada en el orden cultual/familiar; «profanada» es **aproximada**.
 
@@ -99,7 +99,7 @@ El v. 8 ordena santificarlo porque él acerca el pan de tu Elohim; «kadosh ser�
 
 El v. 9 trata de la hija del sacerdote que «empieza a fornicar/profanar»: «a su padre ella ha profanado; en el fuego será quemada». **(חלל)**, otra vez, estructura el daño: la conducta de la hija cae sobre el nombre y la casa del padre. Eric lee la gravedad como pedagogía pública para Israel y advierte que hoy no se administra esa pena en un Estado laico; la enseñanza que conserva es la seriedad de no profanar la casa ligada al servicio. Esa delimitación es necesaria: el sentido histórico del versículo no se reescribe, y la aplicación actual no debe inventar una jurisdicción que el oyente no tiene. La observación de Eric queda como **apoyo moral cualificado**, no como programa penal contemporáneo.
 
-## 21:10-15: el sumo sacerdote, la unción y la severidad mayor
+## 21:10-15: el sumo sacerdote, la unción y la severidad mayor #vaikra_21_10-15
 
 Desde 21:10 el capítulo habla del **(הכהן הגדול)**, _hakohen hagadol_, el gran sacerdote de entre sus hermanos. Sobre su cabeza se derramó **(שמן המשחה)**, _shemen hamishjah_, «aceite de la unción», y se le **llenó la mano** para vestir las vestiduras. **(משח)**, _mashaj_, significa ungir; **(מלא יד)**, _mile yad_, «llenar la mano», es la expresión técnica de consagrar/instalar en el oficio. Eric subraya que la unción y el llenado de manos son señales de unidad de servicio con Elohim, no un espectáculo carismático moderno. El texto local apoya el carácter ritual literal de la unción; la crítica de la clase a allegorizaciones posteriores es una aplicación **pedagógica** razonable, siempre que no niegue usos figurados legítimos en otros escritos cuando el contexto los exige.
 
@@ -107,7 +107,7 @@ Al ungido se le prohíbe descubrirse la cabeza y rasgar sus vestiduras (#vaikra_
 
 En el matrimonio, él toma mujer en su virginidad; no viuda, divorciada ni _jalalah/zonah_, sino virgen de su pueblo (#vaikra_21_13-14). Y no profanará su simiente en su pueblo, «porque yo soy יהוה que lo santifico» (#vaikra_21_15). Eric conecta la reputación de la mujer y de los hijos con el testimonio «de los de afuera» y con requisitos posteriores para el liderazgo. Esa conexión es **canónica y pedagógica**: Vaikra 21 regula al sumo sacerdote aharónico; las cartas apostólicas tienen su propio contexto. Se puede oír una analogía de testimonio público, pero no una identidad de oficios.
 
-## 21:16-23: defecto, altar y dignidad
+## 21:16-23: defecto, altar y dignidad #vaikra_21_16-23
 
 La última unidad ordena que el hombre de la simiente de Aharón que tenga **(מום)**, _mum_, «defecto», no se acerque a ofrecer el pan de su Elohim (#vaikra_21_17, 21). Puede comer de ciertas porciones, pero no entra del todo al velo ni se acerca al altar, para no profanar los santuarios; «yo soy יהוה que los santifico» (#vaikra_21_22-23). Eric sitúa el defecto en la función del acercamiento. Esa es la lectura textual correcta. **(מום)** no significa inferioridad moral de la persona ni autoriza desprecio. Describe una condición que limita una tarea cultual concreta. La dignidad del kohen con defecto se preserva en el derecho a comer del pan; la restricción cae sobre el acercamiento sacrificial.
 

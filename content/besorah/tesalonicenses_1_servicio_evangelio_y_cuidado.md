@@ -114,8 +114,8 @@ El inicio de 1 Tesalonicenses 2 presenta una proclamación que resiste la oposic
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1Tesalonisenses (parte 3) Cap 2» — https://www.youtube.com/watch?v=UxkaMT2QPMA (`source_id: youtube:UxkaMT2QPMA`).
-- «1 Tesalonisenses (parte 4) Cap 2 “EL EVANGELIO DE DIOS”» — https://www.youtube.com/watch?v=-tHCu0DF0EY (`source_id: youtube:-tHCu0DF0EY`).
-- «1 Tesalonisenses (parte 5) Cap 2: Las asambleas de Dios» — https://www.youtube.com/watch?v=QIzcsJoC96A (`source_id: youtube:QIzcsJoC96A`).
+- «1Tesalonisenses (parte 3) Cap 2» — https://www.youtube.com/watch?v=UxkaMT2QPMA (`source_id`: youtube:UxkaMT2QPMA`).
+- «1 Tesalonisenses (parte 4) Cap 2 “EL EVANGELIO DE DIOS”» — https://www.youtube.com/watch?v=-tHCu0DF0EY (`source_id`: youtube:-tHCu0DF0EY`).
+- «1 Tesalonisenses (parte 5) Cap 2: Las asambleas de Dios» — https://www.youtube.com/watch?v=QIzcsJoC96A (`source_id`: youtube:QIzcsJoC96A`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

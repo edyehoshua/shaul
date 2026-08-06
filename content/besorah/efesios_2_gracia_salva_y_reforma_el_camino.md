@@ -49,13 +49,13 @@ La clase insiste en que Efesios no empieza con una capacidad humana que busca a 
 
 Los verbos de 2:5-6 mantienen la unión con Yehoshua el Mesías: vivificados con él, levantados con él y sentados con él. El punto textual es que la vida no se origina en el mérito de quien la recibe. Cuando la clase relaciona esta vivificación con promesas proféticas y con la vida futura, la nota distingue entre la obra presente afirmada por el pasaje y el desarrollo escatológico que debe comprobarse en otros textos.
 
-## La dádiva no es un salario religioso (2:7-9)
+## La dádiva no es un salario religioso (2:7-9) #ephesians_2_7-9
 
 Efesios 2:8-9 coloca tres límites: «por gracia», «mediante la fe», «no de ustedes», porque es «dádiva de Elohim», y «no por obras». La clase aplica esto a la confianza en oraciones, ayunos, sacrificios o conocimiento como si fueran el precio de la redención. La aplicación toca el centro del pasaje: ninguna persona tiene motivo para gloriarse delante de Elohim por haber producido su propia salvación.
 
 **χάρις**, _charis_, suele traducirse «gracia» o «favor»; el texto hebreo local usa **חסד**, _jesed_, un campo que puede incluir misericordia, bondad y lealtad. La relación ilumina el vocabulario, pero no prueba una identidad perfecta entre los sistemas lingüísticos. De modo semejante, **πίστις**, _pistis_, puede expresarse como fe, confianza o fidelidad según el contexto. La clase prefiere «ser afirmado en fidelidad» a una creencia meramente mental. La nota conserva el énfasis, pero no convierte esa preferencia pedagógica en la única traducción posible.
 
-## La gracia crea una obra que camina (2:10)
+## La gracia crea una obra que camina (2:10) #ephesians_2_10
 
 El versículo 10 protege la lectura contra el extremo contrario. Los creyentes son **ποίημα**, _poiēma_, «obra, hechura o creación realizada» de Elohim; han sido creados en el Mesías para buenas obras que Elohim preparó de antemano. **κτισθέντες**, _ktisthentes_, es un participio pasivo: la nueva condición tiene a Elohim como agente. **περιπατήσωμεν**, _peripatēsōmen_, «caminemos», traduce la imagen bíblica de una conducta sostenida, no de un acto aislado.
 

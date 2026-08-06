@@ -32,7 +32,7 @@ La primera parte de la serie de Vayishlaj funciona como una introducción metodo
 
 El video comienza con oración y cantos, y después anuncia el estudio de la haftaráh. Desde aproximadamente el minuto 12, Eric repasa la división tradicional de la Biblia en Torah, Profetas y Escritos, comenta el contexto de la decisión comunitaria narrada en Maasei HaShlijim 15 y explica el término _parasháh_ como separación, porción y exposición. La transcripción automática es fragmentaria; esta nota organiza las observaciones que sí son audibles y deja para las partes siguientes el desarrollo expositivo de la haftaráh de Vayishlaj.
 
-## Devarim 25:17-19: la memoria como lectura ordenada
+## Devarim 25:17-19: la memoria como lectura ordenada #devarim_25_17-19
 
 La clase se identifica con una haftaráh de Vayishlaj, pero el desarrollo bíblico visible todavía está en la introducción. El texto local que da el horizonte de la lectura ordena: “Recuerda lo que te hizo Amalek en el camino, en su salida de Mitzráim” (#devarim_25_17). El v. 18 concreta el recuerdo: Amalek hiere a los rezagados, a los débiles y cansados, “y no temió a Elohim”. El v. 19 proyecta la respuesta hacia el reposo que יהוה concede y termina con una doble exigencia: borrar la memoria de Amalek y no olvidar.
 
@@ -44,7 +44,7 @@ Eric recuerda que la Biblia se agrupa en tres grandes conjuntos: la Torah de Mos
 
 El texto de Devarim 1:5 ofrece una imagen útil para este método: Moshéh está “dispuesto” para explicar la Torah. La exposición no sustituye al texto ni lo convierte en una colección de frases sueltas. Explicar significa abrir la porción delante de la comunidad, conservar su orden y mostrar cómo la instrucción se escucha en el presente. Ese es el trabajo que Eric anuncia para las partes siguientes.
 
-## Maasei HaShlijim 15:19-21: una comunidad que escucha
+## Maasei HaShlijim 15:19-21: una comunidad que escucha #maasei_hashlijim_15_19-21
 
 Eric relaciona el estudio con la controversia de los creyentes provenientes de las naciones. El texto local registra la decisión de Iaacob: “Yo juzgo que no se inquiete a los de las naciones que se vuelven a Elohim” (#maasei_hashlijim_15_19). Luego enumera instrucciones iniciales sobre contaminación de ídolos, inmoralidad sexual, lo estrangulado y sangre (#maasei_hashlijim_15_20). El v. 21 añade que Moshéh tiene desde tiempos antiguos quienes lo anuncian en cada ciudad y que es leído en las sinagogas cada Shabat.
 

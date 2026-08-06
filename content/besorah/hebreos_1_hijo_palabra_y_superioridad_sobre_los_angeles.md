@@ -42,7 +42,7 @@ Esta nota reúne las dos clases que tratan la introducción y Hebreos 1:1-14; la
 | #hebrews_1_5-7 | **כי אל־מי מן־המלאכים אמר מעולם בני אתה אני היום ילדתיך ועוד אני אהיה לו לאב והוא יהיה לי לבן׃ ובהביאו עוד את־הבכור לעולם אמר וישתחוו לו כל־מלאכי אלהים׃ ואל־המלאכים הוא אמר עשה מלאכיו רוחות ומשרתיו אש להט** | Las citas distinguen al Hijo de los ángeles: unos son ministros; al Hijo se le habla como heredero y rey. |
 | #hebrews_1_8-14 | **ואל־הבן הוא אמר כסאך אלהים עולם ועד שבט מישר שבט מלכותך׃ ... אתה יהוה לפנים הארץ יסדת ומעשה ידיך שמים׃ ... שב לימיני עד־אשית איביך הדם לרגליך** | El cierre aplica al Hijo lenguaje de trono, permanencia, fundación de cielos y entronización que no se dirige a un ángel. |
 
-## De la palabra profética al heredero de los mundos (1:1-4)
+## De la palabra profética al heredero de los mundos (1:1-4) #hebrews_1_1-4
 
 Eric insiste en que la introducción no comienza con una definición abstracta, sino con la historia de la palabra: muchas veces y de muchas maneras por los profetas, y ahora en el Hijo. En su exposición, el Hijo es heredero de todo y aquello por lo cual fueron hechos los mundos; por eso la expresión no debe reducirse a “un mensajero más”. El texto local pone **בנו** (“su Hijo”) junto a **ליורש** (“heredero”), una relación de titularidad y promesa que la clase conecta con la obra creadora y redentora.
 
@@ -50,7 +50,7 @@ El argumento avanza en 1:3. Eric detalla tres observaciones: el Hijo es respland
 
 También es decisivo **(δι’ οὗ)** (*di’ hou*) en 1:2. Puede traducirse “por medio de quien”, pero Eric defiende el matiz “en virtud de quien”. Es una posibilidad contextual que subraya fundamento y finalidad, aunque no autoriza por sí sola toda la cosmología desarrollada en la clase. De igual modo, **(καθαρισμὸν)** (*katharismon*) describe purificación; la clase la relaciona con la limpieza de la mala conciencia desarrollada más adelante en Hebreos. Esa conexión temática es plausible, pero la identificación completa queda como inferencia.
 
-## Las citas del Tanaj: siervo, rey y creador (1:5-14)
+## Las citas del Tanaj: siervo, rey y creador (1:5-14) #hebrews_1_5-14
 
 Siguiendo el orden textual, 1:5 pregunta a cuál de los ángeles se dijo: “Tú eres mi Hijo”. Eric observa que la clase no lee “Hijo” como una simple categoría biológica, sino como lenguaje de herencia, manifestación del amor de Elohim y subordinación voluntaria a su propia palabra. La observación concreta se contrasta con las citas del Salmo 2, 2 Samuel 7 y 1 Crónicas 17: el uso mesiánico es argumental, mientras la aplicación teológica de la clase requiere cautela.
 

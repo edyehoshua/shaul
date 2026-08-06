@@ -277,4 +277,4 @@ Leer Yojanán con estas palabras — Abba, Elohim, Ben HaAdam, Ben HaElohim, Ben
 
 Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal. Sus afirmaciones históricas se mantienen como líneas de investigación hasta que sean documentadas.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías parte 4: El origen de las doctrinas» — <https://www.youtube.com/watch?v=3ehqAOSaahA> — source_id: `youtube:3ehqAOSaahA`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías parte 4: El origen de las doctrinas» — <https://www.youtube.com/watch?v=3ehqAOSaahA> — `source_id`: `youtube:3ehqAOSaahA`.

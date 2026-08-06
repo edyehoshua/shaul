@@ -40,25 +40,25 @@ Yejezkel 37:15-28 usa dos maderos para anunciar que יהוה reunirá a Judá y 
 
 La nota sigue el movimiento de la perícopa y conserva la conexión que Eric establece con Bereshit 44–47, especialmente con la separación y posterior acercamiento de Yosef y Yehudáh. La transcripción automática ayuda a localizar sus observaciones, pero no se presenta como cita literal. Las aplicaciones comunitarias se atribuyen a la arquitectura de la clase y se distinguen de las afirmaciones explícitas del texto.
 
-## Yejezkel 37:15-17 — dos maderos ante la palabra
+## Yejezkel 37:15-17 — dos maderos ante la palabra #yejezkel_37_15-17
 
 La palabra de יהוה manda al profeta tomar un madero y escribir en él «Para Yehudáh y para los hijos de Israel, sus compañeros»; luego debe tomar otro y escribir «Para Yosef, madero de Efraim, y para toda la casa de Israel, sus compañeros» (#yejezkel_37_15-16). Eric subraya que la señal nombra divisiones reales. El profeta no comienza fingiendo que la herida no existe: reconoce las casas, sus historias y sus compañeros.
 
 Cuando los dos maderos se acercan hasta hacerse uno en la mano de Yejezkel (#yejezkel_37_17), la acción profética convierte la promesa en algo visible. No se trata de borrar la memoria de Judá o de Yosef, sino de mostrar que יהוה puede hacer una unidad nueva sin negar la historia. Eric relaciona esta señal con la reconciliación entre hermanos: la unidad requiere que la palabra de יהוה toque precisamente aquello que fue separado.
 
-## Yejezkel 37:18-22 — una nación de la mano de יהוה
+## Yejezkel 37:18-22 — una nación de la mano de יהוה #yejezkel_37_18-22
 
 Ante la pregunta del pueblo, יהוה explica que los maderos representan a las casas de Israel y anuncia: «Los tomaré de entre las naciones adonde fueron, los recogeré de todas partes y los traeré a su tierra» (#yejezkel_37_19-21). La reunión vuelve a ser iniciativa divina. Eric insiste en que la unidad bíblica no depende de una campaña de imagen ni de una uniformidad impuesta por un grupo dominante.
 
 El versículo 22 añade: «Haré de ellos una sola nación en la tierra, en los montes de Israel; un solo rey será rey de todos ellos». El texto pasa de la señal a una comunidad visible, reunida en una tierra y bajo un gobierno común. La exposición aplica esto a la vida de la congregación: el pensamiento comunitario rechaza tanto la rivalidad permanente como el aislamiento orgulloso. El pueblo debe aprender a pertenecer a una realidad que יהוה forma.
 
-## Yejezkel 37:23-25 — limpieza, pacto y pastor
+## Yejezkel 37:23-25 — limpieza, pacto y pastor #yejezkel_37_23-25
 
 La promesa incluye limpieza: «No volverán a contaminarse con sus ídolos ni con sus abominaciones ni con ninguna de sus rebeliones; los salvaré de todas sus rebeliones» (#yejezkel_37_23). Eric destaca que la unidad sin santidad sería solo una concentración de personas. יהוה no reúne para perpetuar los ídolos que produjeron la dispersión. La reconciliación tiene una dimensión moral y espiritual.
 
 Los versículos 24-25 presentan a David como rey y pastor, y describen la obediencia a los decretos de יהוה. La referencia se lee en la exposición como una figura de gobierno conforme al corazón del pacto, no como permiso para transferir automáticamente cada detalle a una institución contemporánea. El pueblo habita en la tierra recibida y permanece allí. Unidad, obediencia y permanencia aparecen juntas.
 
-## Yejezkel 37:26-28 — pacto de shalom y santuario
+## Yejezkel 37:26-28 — pacto de shalom y santuario #yejezkel_37_26-28
 
 «Haré con ellos un pacto de shalom; será un pacto perpetuo con ellos» (#yejezkel_37_26). יהוה establece, multiplica y pone su santuario en medio de ellos para siempre. Eric concluye que el shalom bíblico no es solo ausencia de conflicto. Es una condición de vida ordenada por la presencia de יהוה, el pacto y el santuario.
 

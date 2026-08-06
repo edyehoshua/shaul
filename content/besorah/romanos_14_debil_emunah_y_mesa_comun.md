@@ -69,31 +69,31 @@ Esta nota reúne las clases públicas **El DÉBIL de la EMUNAH**, capítulo 14, 
 | **(ἐμοὶ... λογίζομαι)** | _emoi... logizomai_ | La consideración personal de que algo es profano no debe transformarse en condena del hermano. | La aplicación sigue el sentido del verso; la sintaxis griega exacta requiere verificación independiente. |
 | **(πίστις)** | _pistis_ / emunah | Eric relaciona «fe» con **אמונה**, afirmación o fidelidad, y corrige la lectura de «duda» en 14:23 hacia hacer diferencias. | Relación pedagógica y aproximada, no equivalencia automática. |
 
-## 14:1-7: recibir al débil sin convertir la conciencia en etiqueta
+## 14:1-7: recibir al débil sin convertir la conciencia en etiqueta #romanos_14_1-7
 
 Eric propone que la expresión «débil de la emunah» describe una enfermedad o debilidad en el pensamiento, no una inferioridad moral. La clase retrotraduce la idea a una construcción hebrea relacionada con **חלה**, estar enfermo o debilitado, y concluye que la dificultad se manifiesta en ideas recibidas que producen divisiones. La observación pastoral es clara: una persona puede estar afirmada en el Mesías y aun conservar paradigmas que le dificultan convivir con otros. Sin embargo, Romanos 14:1 no ofrece por sí solo la forma hebrea exacta ni identifica al débil con una etnia concreta; por eso la retrotraducción se conserva como propuesta de la clase, no como dato filológico resuelto.
 
 El texto sí establece el orden de la recepción: al débil se le toma, pero no para disputar sus pensamientos (#romanos_14_1). El que come no debe despreciar al que no come y el que no come no debe juzgar al que come (#romanos_14_2-3). Eric aplica el contraste a una comunidad donde judíos podían conservar restricciones de preparación de alimentos, mientras gentiles creyentes no las reconocían como mandamientos de la Torá. El pasaje respalda la prohibición de desprecio y juicio; no enumera la regla rabínica concreta ni demuestra que todo «débil» fuera judío. La identificación histórica debe permanecer cualificada.
 
-## 14:8-13: vivir para el Señor y abandonar el tribunal entre hermanos
+## 14:8-13: vivir para el Señor y abandonar el tribunal entre hermanos #romanos_14_8-13
 
 Eric lee «vivimos o morimos para Adonay» como una declaración de pertenencia que impide someter a la comunidad a una ideología, religión o costumbre humana. Esa aplicación recibe apoyo textual: el argumento devuelve a todos al Señor y pregunta por qué alguien juzga o desprecia a su hermano, puesto que todos comparecerán ante el tribunal (#romanos_14_8-12). La exposición relaciona el trono del Mesías con Yeshayahu 45:23 y acentúa la unidad entre Elohim y el Mesías. El vínculo canónico que la clase señala debe estudiarse con el texto local; no se usa aquí para declarar resuelta toda cuestión doctrinal desde una sola cita.
 
 La consecuencia de ese juicio futuro no es abandonar la corrección, sino dejar de usar la preferencia propia como condena. Pablo manda decidir que nadie ponga obstáculo ni tropiezo delante del hermano (#romanos_14_13). Eric llama a esto **mishpat**, poner las cosas en orden, diferenciándolo del señalamiento basado en razonamientos personales. La distinción es una aplicación útil, pero la nota mantiene el límite del pasaje: Romanos 14 prohíbe el juicio que desprecia y el tropiezo producido por la práctica; no desarrolla por sí solo un manual completo de disciplina congregacional.
 
-## 14:14-18: «profano» no equivale automáticamente a «impuro»
+## 14:14-18: «profano» no equivale automáticamente a «impuro» #romanos_14_14-18
 
 El centro lexical de las dos clases es la diferencia entre **חול**, _chol_, y **טמא**, _tame_. Eric sostiene que lo primero puede describir algo común o profano, relacionado por la exposición con un animal puro defectuoso que no se ofrecía en el santuario, mientras lo segundo señala lo impuro. Desde esa distinción interpreta Romanos 14:14: «profano» no autoriza a comer animales que la Torá no presenta como alimento, sino que aborda una categoría de mesa y convivencia. También conecta Hechos 10:28 con la prohibición de llamar común o impuro a las personas que Elohim ha limpiado. El Delitzsch local conserva **טמא** en Romanos 14:14 y Hechos 10:28 conserva «חל או טמא»; las categorías de la clase, por tanto, deben presentarse como una propuesta interpretativa y no como una equivalencia textual demostrada.
 
 La aplicación concreta de Eric es que una comida preparada por un gentil creyente no debía convertirse en acusación por reglas rabínicas. En Romanos 14:15, sin embargo, el límite textual está expresado con fuerza independiente de la reconstrucción histórica: si la comida aflige al hermano, ya no se camina según el amor; no se debe destruir por comida a aquel por quien murió el Mesías. El reino se resume en justicia, shalom y gozo en el Rúaj (#romanos_14_17). La comunidad no mide su madurez por ganar una discusión sobre la mesa, sino por preservar al hermano y edificarlo.
 
-## 14:19-23: paz, edificación y una convicción que no se impone
+## 14:19-23: paz, edificación y una convicción que no se impone #romanos_14_19-23
 
 Eric explica que «carne y vino» en 14:21 representan los asuntos concretos de discordia tratados en su lectura, no un mandato universal de vegetarianismo o abstinencia. La forma condicional del versículo permite afirmar al menos esto: es bueno renunciar a una práctica cuando hace tropezar, golpear o debilitar al hermano. La aplicación a vestimenta, adornos y otras costumbres contemporáneas pertenece al nivel pedagógico, no al contenido literal de Romanos.
 
 La exposición también objeta la traducción de 14:23 como «el que duda», proponiendo el sentido de quien hace diferencias al comer. El TTH local dice «el que hace diferencias cuando come»; esa lectura debe ser visible, pero la sintaxis griega exacta queda pendiente. La conexión entre **πίστις** y **אמונה** ayuda a conservar el campo de confianza y fidelidad, aunque no permite resolver por sí sola la forma gramatical. El resultado es sobrio: una persona no debe actuar contra su conciencia convencida, y otra no debe usar su conciencia para fabricar un tribunal universal.
 
-## Romanos 15:1-7: el cierre de la clase convierte libertad en carga amorosa
+## Romanos 15:1-7: el cierre de la clase convierte libertad en carga amorosa #romanos_15_1-7
 
 La segunda sesión termina retomando Romanos 15: los fuertes deben sobrellevar las debilidades de los débiles y no agradarse a sí mismos (#romanos_15_1). Las Escrituras escritas antes enseñan, sostienen la esperanza y dan consolación (#romanos_15_4); el Elohim de la esperanza concede un mismo corazón y una misma boca según Yehoshua (#romanos_15_5-6). Por eso «tómense un hombre a su compañero» no significa imponer uniformidad ritual: significa recibir al compañero como el Mesías recibió a los suyos, para gloria de Elohim (#romanos_15_7). El paso de Romanos 14 a 15 muestra que la paciencia no es indiferencia ante el error, sino una forma de cargar al hermano sin usar la libertad para destruirlo.
 

@@ -30,7 +30,7 @@ Oseas 2 no llama esperanza a olvidar la infidelidad. La esperanza nace cuando י
 
 Esta nota organiza la exposición pública **Haftaráh de Bemidbar: Pétaj Tiqvah, puerta de esperanza**. La transcripción automática no se presenta como cita literal. Las observaciones atribuidas a Eric se distinguen del texto de Oseas y se contrastan con sus unidades literarias. El centro de la nota es Oseas 2:14-23, con atención a la secuencia juicio, desierto, respuesta y alianza.
 
-## Oseas 2:14-15 — el desierto como lugar de palabra
+## Oseas 2:14-15 — el desierto como lugar de palabra #hoshea_2_14-15
 
 Después de denunciar los días de los baales y la atribución de los dones a los amantes, יהוה anuncia: «Por tanto, he aquí que yo la atraeré, y la llevaré al desierto, y hablaré a su corazón» (#hoshea_2_16). El movimiento no es evasión romántica. El desierto retira los apoyos falsos para que la relación pueda ser escuchada sin la competencia de los ídolos. Eric observa que la restauración comienza con una separación de aquello que Israel llamó fuente de su pan, su agua, su lana y su aceite.
 
@@ -38,7 +38,7 @@ El texto añade que el valle de Acor será «puerta de esperanza» y que allí r
 
 La forma hebrea local deja visible el hilo que la traducción puede ocultar: **לָכֵן הִנְנִי מְפַתֶּיהָ וְהֹלַכְתִּיהָ הַמִּדְבָּר וְדִבַּרְתִּי עַל לִבָּהּ** (2:16 en la numeración local) y **וְנָתַתִּי לָהּ אֶת כְּרָמֶיהָ מִשָּׁם וְאֶת עֵמֶק עָכוֹר לְפֶתַח תִּקְוָה** (2:17). **מְפַתֶּיהָ** (_mefatteha_) tiene el sentido normal de persuadir o atraer; aquí la fuerza contextual es una iniciativa tierna de יהוה, no manipulación romántica. **לְפֶתַח תִּקְוָה** (_lefetaj tiqvah_) es literalmente “para una puerta de esperanza”: la relación entre ambas palabras es exacta en la imagen, mientras que “puerta hacia un futuro seguro” es una explicación pedagógica.
 
-## Oseas 2:16-18 — cambiar el lenguaje de posesión por el de relación
+## Oseas 2:16-18 — cambiar el lenguaje de posesión por el de relación #hoshea_2_16-18
 
 «En aquel día, dice יהוה, me llamarás Ishí y no me llamarás más Baalí» (#hoshea_2_18). La diferencia entre ambos tratamientos es significativa para la enseñanza. La clase presenta el cambio como una limpieza del lenguaje de alianza: יהוה no quiere que Israel mezcle su relación con él con el vocabulario de los baales. El texto sigue diciendo que quitará de la boca los nombres de los baales, para que no sean recordados (#hoshea_2_19).
 
@@ -46,13 +46,13 @@ La aplicación de Eric es que la restauración también reeduca los nombres con 
 
 El texto local dice: **וְהָיָה בַיּוֹם הַהוּא נְאֻם יְהוָה תִּקְרְאִי אִישִׁי וְלֹא תִקְרְאִי לִי עוֹד בַּעְלִי** y luego **וַהֲסִרֹתִי אֶת שְׁמוֹת הַבְּעָלִים מִפִּיהָ** (2:18-19). **אִישִׁי** (_ishi_) significa “mi hombre/esposo” en el marco relacional; **בַּעְלִי** (_baali_) puede significar “mi señor/esposo”, pero en este contexto activa la memoria de Baal. Eric acierta al tratar el cambio como una purificación de lealtad, aunque la relación entre la semejanza de las palabras y la intención del pasaje es contextual, no una etimología que por sí sola resuelva todo el argumento.
 
-## Oseas 2:19-20 — una alianza fundada en fidelidad
+## Oseas 2:19-20 — una alianza fundada en fidelidad #hoshea_2_19-20
 
 El núcleo de la promesa dice: «Te desposaré conmigo para siempre; te desposaré conmigo en justicia, juicio, bondad y misericordias. Te desposaré conmigo en fidelidad, y conocerás a יהוה» (#hoshea_2_21-22). La repetición de «te desposaré» da peso a la iniciativa divina. Eric subraya que el futuro no depende de que Israel fabrique una nueva identidad por esfuerzo autónomo: יהוה establece la alianza y define su carácter.
 
 Pero la promesa tampoco elimina la forma ética de la alianza. Justicia y juicio señalan una relación recta; bondad y misericordia nombran un trato compasivo; fidelidad sostiene la permanencia. «Conocerás» no es solo información religiosa. En el tratamiento de la clase, conocer a יהוה significa entrar en una relación reconocible por sus frutos y por la fidelidad que reemplaza a la infidelidad.
 
-## Oseas 2:21-23 — respuesta de la creación y pueblo renovado
+## Oseas 2:21-23 — respuesta de la creación y pueblo renovado #hoshea_2_21-23
 
 La secuencia final presenta a יהוה respondiendo al cielo, al cielo respondiendo a la tierra y la tierra respondiendo al trigo, al vino y al aceite (#hoshea_2_23-24). La provisión vuelve a ser recibida dentro del orden correcto: no como trofeo de los amantes, sino como don que circula bajo la palabra de יהוה. Luego se anuncia: «Tendré misericordia de Lo-Rujamá» y «diré a Lo-Amí: Tú eres mi pueblo», y la respuesta será: «Tú eres mi Elohim» (#hoshea_2_25).
 

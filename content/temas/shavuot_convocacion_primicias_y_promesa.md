@@ -124,6 +124,6 @@ Shavu’ot convoca a contar, agradecer y alegrarse ante יהוה por la provisi�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Jag Hashavu'ot 5781-2021](https://www.youtube.com/watch?v=f3tHvC2IgWo) (source_id: `youtube:f3tHvC2IgWo`).
-- [Shavu’ot 5782](https://www.youtube.com/watch?v=h3UIeUJpRTc) (source_id: `youtube:h3UIeUJpRTc`).
+- [Jag Hashavu'ot 5781-2021](https://www.youtube.com/watch?v=f3tHvC2IgWo) (`source_id`: `youtube:f3tHvC2IgWo`).
+- [Shavu’ot 5782](https://www.youtube.com/watch?v=h3UIeUJpRTc) (`source_id`: `youtube:h3UIeUJpRTc`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

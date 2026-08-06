@@ -31,7 +31,7 @@ Génesis 18–22 presenta a Abraham como alguien que recibe una aparición, inte
 
 La fuente `youtube:iw2v71qC7lk` figura como clase sobre Génesis 18:1–22:24. La transcripción no está disponible en el corpus local, de modo que el crédito y el título se conservan, pero las observaciones específicamente habladas quedan marcadas como pendientes. Lo desarrollado abajo es una lectura textual de OE y TTH, no una transcripción reconstruida.
 
-## Aparición que produce respuesta: Génesis 18:1–15
+## Aparición que produce respuesta: Génesis 18:1–15 #bereshit_18_1-15
 
 OE registra en 18:1 **(וירא)**, _vayerá_, forma verbal de la raíz ראה, «aparecerse» o «ser visto»; aquí describe que יהוה se hace presente a Abraham. Es una equivalencia aproximada traducirlo simplemente «vio»: la forma puede señalar aparición divina, mientras el contexto muestra a Abraham viendo a tres hombres y corriendo a recibirlos. TTH conserva: «Y apareció a él יהוה en los robles de Mamré».
 
@@ -39,7 +39,7 @@ En 18:2 aparecen **(אנשים)**, _anashim_, «hombres» en sentido normal. El 
 
 Cuando llega la pregunta «¿Es maravillosa para יהוה cualquier cosa?» (18:14), el término **(יפלא)**, _yipale_, viene de פלא, «ser extraordinario, maravilloso o demasiado difícil». La equivalencia «imposible» sería pedagógica pero demasiado estrecha. El argumento contextual es que la esterilidad de Sarah no limita la palabra de יהוה. La risa de Sarah es confrontada, pero la promesa no depende de una emoción perfecta.
 
-## Promesa, justicia e intercesión: Génesis 18:16–33
+## Promesa, justicia e intercesión: Génesis 18:16–33 #bereshit_18_16-33
 
 El TTH dice que Abraham fue conocido para que ordenara a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (18:19). OE emplea **(צדקה)**, _tsedaqá_, «justicia» o conducta recta, y **(משפט)**, _mishpat_, «juicio» o administración justa. No son equivalentes exactos: _tsedaqá_ señala rectitud relacional y _mishpat_ el ejercicio discernido del derecho. Juntos explican por qué la promesa no autoriza favoritismo ciego.
 
@@ -47,7 +47,7 @@ Abraham permanece delante de יהוה y pregunta si el Juez de toda la tierra no
 
 En 19:19 Lot habla de **(חסד)**, _jesed_, «misericordia, bondad leal o acto fiel». TTH traduce «has engrandecido tu misericordia». «Gracia» puede ser una equivalencia pedagógica, pero no agota la idea de lealtad activa. El rescate de Lot muestra misericordia en medio de juicio, sin convertir la salida de la ciudad en aprobación de su corrupción.
 
-## Juicio, rescate y nacimiento de la promesa: Génesis 19:1–21:34
+## Juicio, rescate y nacimiento de la promesa: Génesis 19:1–21:34 #bereshit_19_1 #bereshit_21_34
 
 Los capítulos intermedios impiden que la intercesión de Abraham se convierta en una teoría abstracta. En 19:16 el narrador dice que los mensajeros tomaron a Lot, a su mujer y a sus hijas «por la mano», porque יהוה tuvo misericordia de él. El verbo **(חמל)**, _jamal_, significa compadecerse, perdonar o apiadarse; su fuerza aquí es una acción que saca al vulnerable, no una aprobación de Sedom. En 19:17 ordenan **(המלט)**, _himalet_, «escapa» o «pon a salvo tu vida». «Huir de todo conflicto» sería una equivalencia pedagógica ilegítima: el contexto es escapar de un juicio anunciado.
 
@@ -55,7 +55,7 @@ En 20:6 Elohim explica a Avimelej: «Yo también te detuve de pecar contra mí»
 
 El nacimiento de Isaac vuelve a la palabra inicial. En 21:1 OE y TTH afirman que יהוה «visitó» a Sarah; **(פקד)**, _paqad_, puede significar visitar, atender o intervenir, y aquí expresa la intervención eficaz de יהוה conforme a su palabra. En 21:6 Sarah dice que Elohim le ha dado risa: **(צחק)**, _tsajaq_, «reír»; el mismo campo verbal que antes expresaba incredulidad ahora nombra gozo compartido. La equivalencia «risa de burla» sería demasiado estrecha. Luego Avraham planta un tamarisco e invoca el nombre de יהוה en Beer Sheva (21:33): la promesa se encarna en memoria y culto dentro de una historia todavía marcada por conflictos familiares.
 
-## La prueba y el ver de יהוה: Génesis 22:1–19
+## La prueba y el ver de יהוה: Génesis 22:1–19 #bereshit_22_1-19
 
 El capítulo finaliza con **(נסה)**, _nasá_, «probar, poner a prueba» (22:1). «Tentar» es una equivalencia aproximada que puede inducir a pensar en seducción al mal; aquí la narración presenta una prueba de obediencia y confianza. Abraham responde **(הנני)**, _hineni_, «heme aquí», fórmula de disponibilidad, no una confesión abstracta.
 

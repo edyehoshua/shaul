@@ -164,7 +164,7 @@ La enseñanza atribuible de Eric queda así evaluada en su orden canónico: el e
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [The Letter to the Romans (Part 1). Context, Introduction, Chapter 1:1-7](https://www.youtube.com/watch?v=VwtpBX1Q444) (source_id: `youtube:VwtpBX1Q444`).
-- [La carta a los romanos Parte 2. Cap 1:8-21 Yehoshúa', el evangelio, la potencia de la deidad](https://www.youtube.com/watch?v=XpT2I9DGotI) (source_id: `youtube:XpT2I9DGotI`).
-- [La carta a los romanos (Parte 3). Cap 1:22-2:3 'Adam, 'ish, yehudí... yo confesaré a Yah](https://www.youtube.com/watch?v=5yDcBBBWTkY) (source_id: `youtube:5yDcBBBWTkY`).
+- [The Letter to the Romans (Part 1). Context, Introduction, Chapter 1:1-7](https://www.youtube.com/watch?v=VwtpBX1Q444) (`source_id`: `youtube:VwtpBX1Q444`).
+- [La carta a los romanos Parte 2. Cap 1:8-21 Yehoshúa', el evangelio, la potencia de la deidad](https://www.youtube.com/watch?v=XpT2I9DGotI) (`source_id`: `youtube:XpT2I9DGotI`).
+- [La carta a los romanos (Parte 3). Cap 1:22-2:3 'Adam, 'ish, yehudí... yo confesaré a Yah](https://www.youtube.com/watch?v=5yDcBBBWTkY) (`source_id`: `youtube:5yDcBBBWTkY`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

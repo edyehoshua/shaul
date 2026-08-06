@@ -121,7 +121,7 @@ Los tres identificadores son distintos y corresponden a créditos públicos al f
 | **(אבן)**                 | _even_          | piedra                                                | Trasfondo de la piedra rechazada en 12:10-11; la función depende del Salmo citado.                                                           | Aproximada con **λίθος**, _lithos_; el sentido figurado procede de la cita y su contexto.                                                                                                                       |
 | **(צלם)**                 | _tselem_        | imagen, representación                                | Ilumina la pregunta por la imagen del denario en 12:16, sin afirmar que el término hebreo sea citado literalmente.                           | Aproximada con **εἰκών**, _eikōn_; se explica como comparación semántica, no como retrotraducción demostrada.                                                                                                   |
 
-## La viña, la piedra y el impuesto: responsabilidad antes de las controversias (12:1-17)
+## La viña, la piedra y el impuesto: responsabilidad antes de las controversias (12:1-17) #markos_12_1-17
 
 Aunque las clases documentadas de Eric para esta nota comienzan en 12:18, una nota canónica de Marcos 12 debe conservar el inicio del capítulo. Yehoshua cuenta una parábola sobre un hombre que planta una viña, la protege, cava un lagar, edifica una torre y la entrega a labradores. El propietario envía siervos en serie; ellos los golpean, apedrean, hieren o matan. Finalmente envía a su hijo amado, y los labradores lo matan para quedarse con la herencia (#markos_12_1-8). Esta sección se desarrolla desde el texto local, no se atribuye a una transcripción de Eric.
 
@@ -135,7 +135,7 @@ La siguiente prueba cambia del homicidio alegórico a la moneda visible. Perushi
 
 El orden inicial prepara los temas posteriores. La viña muestra administradores que traicionan al dueño y al hijo; el denario muestra una pregunta política que intenta atrapar al maestro; las escenas de resurrección, Shemá, señorío y ofrenda continúan preguntando quién recibe fidelidad y cómo se reconoce una autoridad legítima. Esta conexión literaria es segura como progresión del capítulo; no convierte el impuesto en una explicación exhaustiva de la relación entre todos los gobiernos y la comunidad.
 
-## Tzedukim, levirato y el Elohim de los vivos (12:18-27)
+## Tzedukim, levirato y el Elohim de los vivos (12:18-27) #markos_12_18-27
 
 Eric sitúa la escena después de otras pruebas en el templo y lee el caso de los siete hermanos como una trampa lógica: si la resurrección prolongara tal cual las obligaciones del levirato, ¿de quién sería la mujer? La clase acierta al llevar al oyente a #devarim_25_5-6: la Torah ordena que el cuñado tome a la viuda sin hijo para que el nombre del muerto no se borre de Israel. El error no está en citar la ley, sino en imaginar el olam venidero como una simple extensión del arreglo presente.
 
@@ -145,7 +145,7 @@ Sobre los muertos que han de levantarse, cita el libro de Moshéh y la zarza: El
 
 La progresión de esta primera perícopa importa para el argumento: la pregunta hipotética (#markos_12_18-23), la acusación de ignorancia (#markos_12_24), la condición de los resucitados (#markos_12_25) y la cita de Moshéh (#markos_12_26-27) avanzan desde una institución conocida hacia el poder creador de Elohim. Eric conserva ese movimiento cuando contrasta procedimiento presente y vida venidera; el texto no presenta la resurrección como una simple reparación del orden social actual.
 
-## El Shemá y el amor que ordena la vida (12:28-34)
+## El Shemá y el amor que ordena la vida (12:28-34) #markos_12_28-34
 
 El escriba llega después de las controversias del capítulo y pregunta por la mitzváh primera. La clase observa que la pregunta puede probar conocimiento y jerarquía: no basta citar muchos mandamientos; hay que reconocer cómo una respuesta orienta la vida. El texto local confirma que Yehoshua responde primero con #devarim_6_4-5 y luego añade #vaikra_19_18. No presenta dos lealtades rivales. Amar a יהוה con la totalidad de la persona se verifica en el modo de tratar al prójimo.
 
@@ -153,7 +153,7 @@ La palabra **(שמע)** no pide una recepción pasiva. En el marco de Devarim, I
 
 El escriba responde que este amor es mayor que los sacrificios. Yehoshua no lo declara ya dentro del reino, sino «no lejos». El texto deja juntos reconocimiento correcto y llamada pendiente. La piedad no se mide por dominar fórmulas, sino por una lealtad a יהוה que alcanza mente, vida, fuerza y prójimo.
 
-## El Señor de David y la pregunta que permanece abierta (12:35-37)
+## El Señor de David y la pregunta que permanece abierta (12:35-37) #markos_12_35-37
 
 Yehoshua no niega sin más que el Mesías sea hijo de David. Pregunta cómo esa afirmación basta, dado que David, hablando por el Rúaj HaKódesh según Marcos, dice: «Dijo יהוה a mi Señor». La tensión es deliberada: el descendiente esperado recibe un título de señorío en el salmo. La multitud escucha con agrado, pero el relato no entrega una fórmula metafísica extensa; deja que la Escritura y la pregunta trabajen sobre la expectativa del lector.
 
@@ -161,7 +161,7 @@ La clase lee el diálogo como confirmación de que el Mesías no es un segundo d
 
 Eric también apela a **(זרע)**, “semilla”, para sostener que la promesa mesiánica no debe reducirse a multiplicidad genealógica. Es cierto que el término puede denotar semilla y descendencia, y que #galatim_3_16 argumenta desde su forma singular. Sin embargo, la regla propuesta en la clase —que todo singular de **(זרע)** en una promesa refiere al Mesías— es más amplia que lo que el léxico por sí solo demuestra. La nota conserva la intuición como lectura teológica y mantiene abierta su comprobación contextual.
 
-## Escribas, viudas y la medida de una ofrenda (12:38-44)
+## Escribas, viudas y la medida de una ofrenda (12:38-44) #markos_12_38-44
 
 La advertencia de 12:38-40 aterriza el Shemá en una escena social. Los escribas denunciados aman ser vistos, recibir honores y ocupar los mejores lugares; al mismo tiempo devoran las casas de las viudas. El problema no es estudiar Torah ni saludar en público, sino una autoridad que usa apariencia religiosa para obtener beneficio de quienes están desprotegidas. Así, Marcos impide que la discusión sobre el mandamiento mayor termine en abstracción.
 
@@ -196,7 +196,7 @@ La misma prueba se extiende hacia la perícopa de David. En 12:35, **λέγου�
 
 Leído de corrido, el capítulo pasa de una esperanza resucitada a una obediencia que ama, de esa obediencia a un Mesías que no puede ser domesticado por una genealogía, y finalmente a una economía religiosa examinada por el cuidado de las viudas. **ἀγαπήσεις**, _agapēseis_, «amarás», aparece como mandato concreto; **κατεσθίω**, _katesthiō_, «devorar», nombra el daño que lo contradice. La observación central de Eric —que la verdad debe producir una vida entregada— queda probada sólo cuando la entrega se mide junto con justicia, protección del vulnerable y fidelidad al texto.
 
-## Control de la perícopa: Escritura, mandamiento, señorío y ofrenda (12:18-44)
+## Control de la perícopa: Escritura, mandamiento, señorío y ofrenda (12:18-44) #markos_12_18-44
 
 Marcos ordena cuatro escenas que se corrigen mutuamente. En 12:18-27 los **Σαδδουκαῖοι**, _Saddoukaioi_, «saduceos», presentan una hipótesis basada en el levirato; **πλανᾶσθε**, _planasthe_, «os desviáis o erráis», identifica la raíz del error como desconocer la Escritura y el poder de Elohim. **ἐγείρω**, _egeirō_, «levantar», y **ἀνάστασις**, _anastasis_, «levantamiento o resurrección», no describen una prolongación automática de Devarim 25. La condición «como ángeles» limita la institución matrimonial dentro de la respuesta, sin entregar aquí una descripción completa de toda la vida futura.
 
@@ -237,7 +237,7 @@ El cierre prueba el amor confesado en la economía del templo. **κατεσθί�
 
 Esta progresión también limita las conexiones semíticas. **שמע**, _shema_, «escucha», **אחד**, _ejad_, «uno», y **נפש**, _nefesh_, «vida, persona o ser viviente», iluminan el trasfondo de Devarim 6; son comparaciones de campo semántico, no retroversiones automáticas de las formas griegas de Marcos. Del mismo modo, **אדני**, _adoni_, «mi señor», ayuda a leer el texto del Salmo 110 sin borrar la diferencia entre el nombre de יהוה y el título del destinatario. La nota conserva las observaciones concretas de Eric, pero deja que el orden local —resurrección, Shemá, señorío y viuda— controle su alcance.
 
-## Prueba ordenada: Escritura, Shemá, señorío y ofrenda (12:18-44)
+## Prueba ordenada: Escritura, Shemá, señorío y ofrenda (12:18-44) #markos_12_18-44
 
 La secuencia local de Marcos 12 impide tratar las controversias del templo como temas sueltos. En 12:24, TTH registra la pregunta de Yehoshua: «¿No erran por eso, porque no conocen la Escritura ni el poder de Elohim?». **πλανᾶσθε**, _planasthe_, «se desvían o se equivocan», nombra el error; **οὐκ οἴδατε**, _ouk oidate_, «no conocen», une Escritura y poder. Eric acierta al oír un doble desconocimiento: los tzedukim citan el levirato, pero proyectan Devarim 25 sobre la resurrección como si el olam venidero fuera una simple extensión del arreglo presente. En 12:26-27, la cita de la zarza y la conclusión «Elohim no es Elohim de los muertos, sino Elohim de los vivos» prueban que la relación de יהוה con Abraham, Itzjak e Iaacob no se enuncia como memoria de cadáveres. **ἀνάστασις**, _anastasis_, «levantamiento o resurrección», queda así bajo el poder de Elohim, no bajo la lógica del caso hipotético.
 
@@ -251,7 +251,7 @@ La parte 39 de Eric insiste en que el Salmo 110 no debe usarse para fabricar dos
 
 La equivalencia entre **κύριος** y **(אדני)** es contextual y no autoriza a borrar la diferencia entre el nombre de יהוה y el título del destinatario. Tampoco la forma **(זרע)**, _zera_, «semilla o descendencia», demuestra por sí sola una regla universal sobre cada promesa mesiánica. La observación de Eric queda mejor probada por la estructura narrativa: Yehoshua no niega explícitamente la filiación davídica, sino que muestra que «hijo de David» no agota la identidad del Mesías. La confesión debe permanecer ligada al Salmo 110, al Rúaj y a la pregunta abierta de Marcos, no a una reconstrucción genealógica que el pasaje no desarrolla.
 
-## Control de dependencia: el reino se mide por Escritura y cuidado (12:18-44)
+## Control de dependencia: el reino se mide por Escritura y cuidado (12:18-44) #markos_12_18-44
 
 Marcos 12 encadena la controversia sobre la resurrección con la pregunta por el mandamiento y termina en una economía del templo examinada por el cuidado del vulnerable. En 12:24, **πλανᾶσθε**, _planasthe_, «se desvían o se equivocan», no funciona como una reprimenda aislada: el texto explica el error mediante **οὔτε ... οὔτε**, _oute ... oute_, «ni ... ni». Los tzedukim no conocen ni las Escrituras ni el poder de Elohim. La comparación con el levirato de Devarim 25 es necesaria para entender la trampa, pero Yehoshua no responde reconstruyendo ese arreglo en el olam venidero. **ἀνάστασις**, _anastasis_, «levantamiento o resurrección», queda gobernada por el poder de Elohim y por la cita de Shemot 3:6.
 
@@ -269,7 +269,7 @@ La unidad del capítulo depende de no convertir las comparaciones hebreas en tra
 
 En 12:35-37, **(κύριος)**, _kyrios_, «señor», recibe su fuerza por la relación entre la palabra de יהוה y «mi Señor» en el Salmo 110. **אדני**, _adoni_, «mi señor», es la forma hebrea comparada del salmo, no una prueba independiente de una solución metafísica. Finalmente, **(βίος)**, _bios_, «vida o medios de vida», y **(ὑστέρημα)**, _hysterēma_, «carencia o déficit», explican por qué la ofrenda de la viuda es total; no transforman su pobreza en una cuota religiosa. Cada equivalencia sirve a su perícopa y queda limitada por el contexto inmediato.
 
-## Verificación dirigida: la confesión se mide por el cuidado (12:28-44)
+## Verificación dirigida: la confesión se mide por el cuidado (12:28-44) #markos_12_28-44
 
 La transición desde el Shemá hasta la viuda impide dejar el amor en una afirmación abstracta. **ἀκούω**, _akouō_, «oír o escuchar», y **ἀγαπάω**, _agapaō_, «amar», aparecen en el tramo donde el escriba reconoce que amar a יהוה y al prójimo vale más que holocaustos y sacrificios. El veredicto **οὐ μακρὰν**, _ou makran_, «no lejos», conserva una distancia narrativa: comprender la prioridad del mandamiento es una orientación correcta, pero no una prueba automática de obediencia. La comparación con **(שמע)**, _shema_, «escuchar y atender», sigue siendo de campo semántico; no convierte cada escucha en obediencia consumada.
 
@@ -277,7 +277,7 @@ La pregunta por David continúa esa prueba de comprensión. **λέγουσιν**
 
 El cierre hace visible el costo de una religión que no protege al vulnerable. **κατεσθίω**, _katesthiō_, «devorar o consumir», describe la conducta de los escribas; **προφάσει**, _prophasei_, «pretexto o apariencia», muestra que la oración larga puede cubrir explotación. En contraste, **ὑστέρημα**, _hysterēma_, «carencia o déficit», y **βίος**, _bios_, «vida o medios de vida», explican la entrega de la viuda desde su sustento. La observación de Eric sobre una vida entregada está apoyada por la comparación entre excedente y carencia, pero la secuencia impide usarla para exigir empobrecimiento. Marcos hace que el amor confesado sea verificable: una comunidad que ama al prójimo no devora su casa.
 
-## Reparación dirigida: el amor confesado se prueba en la economía del templo (12:28-44)
+## Reparación dirigida: el amor confesado se prueba en la economía del templo (12:28-44) #markos_12_28-44
 
 La unidad final de Marcos 12 impide separar el Shemá de la denuncia y de la ofrenda. En 12:28-34, **ἀκούω**, _akouō_, «oír o escuchar», y **ἀγαπάω**, _agapaō_, «amar», llevan la respuesta desde la recitación hacia una práctica dirigida a Elohim y al prójimo. El escriba reconoce que ese amor vale más que holocaustos y sacrificios, pero **οὐ μακρὰν**, _ou makran_, «no lejos», conserva una distancia: la comprensión correcta orienta, pero no certifica por sí sola una fidelidad consumada. La comparación con **(שמע)**, _shema_, «escuchar y atender», ilumina el trasfondo de Devarim; no convierte cada forma griega en obediencia ya completada.
 

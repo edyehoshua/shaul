@@ -35,25 +35,25 @@ Tehilim 104 contempla a יהוה como quien viste de luz, ordena aguas y límite
 
 La enseñanza «Tehilim/Himnos/Salmo Cap 104» comenta la relación entre los salmos 103–104, la expresión final de alabanza y varios términos hebreos. El audio automático permite identificar el hilo argumental, pero esta nota no lo presenta como cita literal. Se sigue el texto en su orden: vestidura y cosmos (1-9), provisión (10-18), ritmos de tiempo y trabajo (19-24), mar y vida (25-30), respuesta del cantor y juicio (31-35).
 
-## Vestidura, aguas y límites — 104:1-9
+## Vestidura, aguas y límites — 104:1-9 #tehilim_104_1-9
 
 El texto local dice: «Bendice, ser mío, a יהוה. יהוה, Elohim mío, te has engrandecido mucho; esplendor y ornamento te has vestido» (104:1), y continúa: «el que se envuelve luz como un manto, extiende los cielos como una cortina» (104:2). Eric observa que el presente hebreo hace visible un poder que no quedó encerrado en un momento pasado: יהוה sigue siendo quien organiza. La observación encaja con la cadena de participios de 104:2-4 y con el límite puesto a las aguas en 104:9; es una lectura del modo descriptivo del himno, no una demostración aislada sobre el tiempo verbal de cada traducción.
 
 En 104:6-9 el abismo cubre como vestido, la reprensión y la voz del trueno hacen huir las aguas, y un límite impide que vuelvan a cubrir la tierra. La clase conecta esto con Bereshit: orden frente al caos, y también con una renovación futura. El primer enlace es una alusión temática plausible, porque ambos pasajes presentan aguas, separación y orden; el segundo es una inferencia teológica pedagógica, no el significado exclusivo de estos versos.
 
-## Manantiales, alimento y morada — 104:10-18
+## Manantiales, alimento y morada — 104:10-18 #tehilim_104_10-18
 
 «El que envía manantiales en los valles» da de beber a animales y aves (104:10-12); de sus cámaras superiores la tierra se sacia (104:13). El ciclo no se limita al ser humano: hierba para el animal, vegetación para el trabajo humano, pan, vino, aceite y refugio para aves y animales (104:14-18). Eric subraya una corporalidad real frente a la reducción de la vida a algo intangible. Esa insistencia está apoyada por el vocabulario concreto del pasaje: tierra, alimento, rostro, árboles, nidos, peñas y cuerpos de animales.
 
-## Tiempos, trabajo y sabiduría — 104:19-24
+## Tiempos, trabajo y sabiduría — 104:19-24 #tehilim_104_19-24
 
 La luna marca «los tiempos señalados», el sol conoce su puesta, y la alternancia de noche y día distribuye la actividad del bosque y el trabajo humano (104:19-23). El clímax de esta sección es: «¡Qué abundantes son tus obras, יהוה!, todas ellas con sabiduría has hecho» (104:24). La clase observa que el himno no presenta la naturaleza como un poder autónomo, sino como obra ordenada. El versículo lo sostiene explícitamente, aunque no obliga a resolver aquí todas las preguntas cosmológicas modernas.
 
-## Mar, aliento y renovación — 104:25-30
+## Mar, aliento y renovación — 104:25-30 #tehilim_104_25-30
 
 El mar contiene criaturas innumerables y a Liviatán, «el cual formaste para divertirse en él» (104:25-26). Todos esperan de יהוה su alimento; cuando abre la mano, se sacian, y cuando oculta su rostro, se alarman (104:27-29). La palabra **(רוּחַ)** (_ruaj_) significa normalmente «viento», «aliento» o «espíritu» según el contexto. En 104:29-30, «recoges su aliento» y «envías tu aliento», el sentido contextual es la vida que reciben y pierden las criaturas; aplicarlo directamente a una doctrina posterior de «cuerpo espiritual» sería una relación pedagógica, no una equivalencia exacta. El propio verso sí afirma creación y renovación: «Envías tu aliento, son creados, y renuevas la faz de la tierra».
 
-## Respuesta del cantor y juicio — 104:31-35
+## Respuesta del cantor y juicio — 104:31-35 #tehilim_104_31-35
 
 El cantor responde: «Cantaré a יהוה en mi vida» y «yo me alegraré en יהוה» (104:33-34). Eric relaciona el cierre «¡Alaben a Yah (heb.: HaleluYah)!» con la aparición de la expresión en el entorno de 103–104 y con la revelación del destino de los impíos. La observación sobre el cierre está en el texto; la afirmación histórica sobre la primera aparición depende de un dato externo y queda como contexto pendiente. El verso 35 sí une el fin de los pecadores con el llamado a bendecir a יהוה: la alabanza no evade el juicio, sino que concluye el himno después de contemplar la vida sostenida y la renovación.
 

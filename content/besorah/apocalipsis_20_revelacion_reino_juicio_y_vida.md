@@ -45,7 +45,7 @@ Esta nota remedia la exposición canónica de la parte 28 de la serie de Apocali
 | #revelation_20_11-15 | **וארא כסא לבן וגדול והישב עליו מפניו נסו ארץ ושמים ולא נמצא להם מקום׃ וארא את המתים הקטנים עם הגדולים עמדים לפני הכסא וספרים נפתחים ויפתח ספר אחר והוא ספר החיים וישפטו המתים מן הכתוב בספרים כמעשיהם׃ וישב הים את מתיו והמות והשאול השיבו את מתיהם וישפטו איש איש כמעשיהם׃ והמות והשאול השלכו באגם האש והוא המות השני׃ וכל איש אשר לא נמצא כתוב בספר החיים השלך באגם האש׃** | El juicio alcanza a los muertos y distingue los libros de las obras del libro de la vida. |
 | #tehilim_90_4 | **כי אלף שנים בעיניך כיום אתמול כי יעבר ואשמורה בלילה** | El salmo compara mil años ante יהוה con un día pasado y una vigilia; ofrece un marco poético para la discusión, no una conversión automática de fechas. |
 
-## El adversario atado y el período de mil años: 20:1-3
+## El adversario atado y el período de mil años: 20:1-3 #revelation_20_1-3
 
 Eric comienza por los nombres acumulados del capítulo: dragón, serpiente antigua, acusador y Satanás. No quiere que «dragón» produzca una imagen fantástica desligada del argumento; recalca que la visión identifica al personaje y que el libro debe leerse dentro de un trasfondo semítico aunque esté redactado en griego. La observación es útil para no aislar el símbolo, pero la historia lingüística que la clase propone para cada término requiere verificación independiente.
 
@@ -53,19 +53,19 @@ El punto central de la clase es la expresión «mil años». Eric la vincula con
 
 La clase conecta el número con Tehilim 90, las generaciones desde Adán hasta Moshe y discusiones antiguas sobre «mil generaciones». Eric menciona incluso cálculos de miles de millones de años y su posible coincidencia con modelos científicos. Son observaciones concretas de la enseñanza, pero no son datos establecidos por Apocalipsis 20 ni por el texto local de Tehilim 90; quedan pendientes.
 
-## Tronos, marca y primera resurrección: 20:4-6
+## Tronos, marca y primera resurrección: 20:4-6 #revelation_20_4-6
 
 La visión pasa de la prisión del adversario a los tronos. Eric subraya que reinan quienes dieron testimonio de Yehoshua y de la palabra de Elohim y no adoraron a la bestia ni recibieron su marca en frente o mano. Su aplicación es directa: la marca no debe reducirse a un futuro chip; para la clase representa la apostasía, es decir, apartarse de los mandamientos y sustituir la adoración debida a יהוה. Esta aplicación pastoral conserva el énfasis ético de la enseñanza, aunque la identificación de «marca = apostasía» debe presentarse como interpretación, no como glosa léxica del versículo.
 
 Eric insiste en que «vivieron» y «reinaron» hablan de resurrección, no simplemente de personas vivas en tiempo real. A la vez, relaciona la muerte de los creyentes con la muerte simbólica al mundo: Colosenses 3 y 1 Corintios 15 ayudan a explicar cómo una persona puede haber muerto a la concupiscencia y comenzar una vida nueva sin que eso elimine la resurrección corporal anunciada por el capítulo. La nota conserva las dos capas: el uso espiritual de «morir» es una conexión apostólica; «esta es la primera resurrección» sigue siendo la afirmación propia de Apocalipsis 20.
 
-## Liberación, Gog y Magog: 20:7-10
+## Liberación, Gog y Magog: 20:7-10 #revelation_20_7-10
 
 Después de completarse los mil años, Satanás es soltado por un tiempo breve y vuelve a engañar a las naciones. Este detalle lleva a Eric a negar que el período pueda describir simplemente el estado actual del mundo: si el adversario sigue engañando a las naciones y aún no han ocurrido la resurrección y el juicio del pasaje, la secuencia apunta a un acto futuro asociado por él con la venida del Mesías. Eric también imagina una diferencia entre quienes reinan con el Mesías y las naciones restantes, pero reconoce que muchos detalles —niños, discapacidades y condiciones de vida durante ese período— no están explicados por el texto y pertenecen a la soberanía de Elohim.
 
 La reunión de Gog y Magog, el cerco de la ciudad amada y el fuego del cielo concluyen la rebelión. Eric relaciona «ciudad amada» con una Jerusalén renovada y con Zacarías 14, no con una identificación simplista de la ciudad contemporánea. Esa conexión intertextual es posible, pero su desarrollo histórico y su relación exacta con la ciudad de este capítulo quedan pendientes. El destino de Satanás aparece después de la bestia y el falso profeta: el pasaje lo expresa mediante fuego y azufre y una fórmula de duración cuya traducción y alcance deben ser examinados en sus lenguas y testigos textuales.
 
-## Trono blanco, obras y segunda muerte: 20:11-15
+## Trono blanco, obras y segunda muerte: 20:11-15 #revelation_20_11-15
 
 La última perícopa abre los libros y el libro de la vida. Eric recalca que los muertos son juzgados «según sus obras» y que la justicia divina no aplana toda responsabilidad en una condena idéntica. También advierte contra declarar anticipadamente el destino de personas concretas: la pertenencia al libro de la vida y la medida del juicio corresponden al juez. La nota conserva esa cautela sin convertir ejemplos contemporáneos mencionados en la clase en doctrina.
 

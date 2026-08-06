@@ -63,7 +63,7 @@ Esta nota organiza la clase 28 de la serie del hermano Eric de Jesús Rodríguez
 | #yeshayahu_11_10 | **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד** | La raíz de Ishai funciona como señal y objeto de búsqueda de las naciones. |
 | #yeshayahu_52_15 | **כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו** | La clase conecta el programa de Pablo con quienes ven y entienden lo que no les había sido anunciado. |
 
-## 15:7-13: tomar al compañero y leer juntos los testigos
+## 15:7-13: tomar al compañero y leer juntos los testigos #romanos_15_7-13
 
 Eric subraya que «tomarse» en #romanos_15_7 comunica una acogida activa, no una recepción distante. La aplicación de la clase es comunitaria: nadie pertenece a Pablo, Apolos o algún mensajero particular, sino al Mesías. El texto local apoya el centro de esa observación: el Mesías tomó a los suyos para gloria de Elohim y esa acción se vuelve modelo de la relación entre compañeros.
 
@@ -71,13 +71,13 @@ La razón de la acogida aparece en #romanos_15_8-9. Yehoshua sirve a la circunci
 
 La explicación de Devarim 32:43 requiere cautela. La clase propone que debe leerse «gentiles con su pueblo» y atribuye la ausencia de **(עם)**, _im_, «con», a una omisión en la transmisión masorética. El OE local no contiene esa preposición separada: **הרנינו גוים עמו**. Romanos 15:10 TTH sí expresa «con su pueblo». La convergencia conceptual es clara, pero el mecanismo textual propuesto por la clase no se puede declarar resuelto sin comparar testigos hebreos y griegos.
 
-## 15:13-21: esperanza, ofrenda y anuncio donde no se había oído
+## 15:13-21: esperanza, ofrenda y anuncio donde no se había oído #romanos_15_13-21
 
 En #romanos_15_13 la clase explica _shalom_ como plenitud o integridad, no solo tranquilidad. La esperanza que llena de alegría y shalom es, en su exposición, la esperanza de la resurrección y actúa por el Rúaj. El verso sostiene directamente la abundancia de esperanza y la acción del Rúaj; precisar todo el contenido escatológico exige leerlo en el conjunto de la carta.
 
 Pablo describe su tarea con lenguaje de servicio y ofrenda (#romanos_15_16). Eric enfatiza que la «ofrenda de los gentiles» son las personas de las naciones presentadas a Elohim, santificadas por el Rúaj; no se trata aquí de dinero. La clase conecta esa obra con la obediencia «en palabra y obra» y con la decisión de anunciar donde el nombre del Mesías todavía no había sido oído. #yeshayahu_52_15 ofrece el testigo local que la sesión cita: quienes no habían recibido anuncio ven, y quienes no habían oído entienden.
 
-## 15:22-33: viaje, colecta y oración sin triunfalismo
+## 15:22-33: viaje, colecta y oración sin triunfalismo #romanos_15_22-33
 
 La exposición sigue los planes de viaje de Pablo: Roma aparece como escala en el camino hacia España, mientras Jerusalén tiene prioridad inmediata por el servicio a los santos. Eric diferencia correctamente el destino **(Σπανία)**, _Spania_, de Sefarad, pero su localización alternativa de Sefarad y sus comentarios sobre Rashi necesitan investigación independiente. El argumento seguro del pasaje es más sobrio: Pablo proyecta, pero subordina su llegada a la voluntad de Elohim (#romanos_15_32).
 

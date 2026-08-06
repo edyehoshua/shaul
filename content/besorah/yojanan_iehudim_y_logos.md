@@ -21,6 +21,8 @@ references:
   - "#tehilim_118_25"
 sources:
   - "https://www.youtube.com/watch?v=1MoxwBR4bg4&list=PLw429MSY038taEkOAVJ7_lmH2rflIgIkZ&index=2"
+source_ids:
+  - "youtube:1MoxwBR4bg4"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -119,3 +121,9 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)
 - [Yojanan 1: judíos, luz y cosmos](./yojanan_1_judios_luz_y_cosmos)
 - [Elohim y Abba](../temas/elohim_aba)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=1MoxwBR4bg4) (`source_id`: `youtube:1MoxwBR4bg4`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

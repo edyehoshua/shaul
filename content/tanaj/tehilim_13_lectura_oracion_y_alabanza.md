@@ -43,7 +43,7 @@ La enseñanza «Tehilim/Hymnos/Salmo Chap 13» recorre los seis versículos hebr
 | #tehilim_13_5 | פן יאמר איבי יכלתיו צרי יגילו כי אמוט | TTH 13:4: «no sea que diga mi enemigo: “¡Lo vencí!”, y mis opresores se regocijen cuando yo sea sacudido.» | Temor a la jactancia del enemigo y al tambaleo. |
 | #tehilim_13_6 | ואני בחסדך בטחתי יגל לבי בישועתך אשירה ליהוה כי גמל עלי | TTH 13:5–6: confianza en la bondad, gozo en la salvación y canto porque יהוה recompensó. | Cierre de confianza, gozo y canto. |
 
-## Encabezado y las cuatro preguntas: Tehilim 13:1–3
+## Encabezado y las cuatro preguntas: Tehilim 13:1–3 #tehilim_13_1-3
 
 Eric observa que el título es breve: **למנצח מזמור לדוד**. Como en otros salmos, lee **לדוד** con doble alcance pedagógico: composición asociada a David y, por el sentido del nombre, dedicación «para el amado». El texto local confirma el encabezado; no decide por sí solo si cada **לדוד** del Salterio debe leerse siempre de esa manera dual. La nota retiene la observación de Eric como marco de lectura y deja la generalización léxica como propuesta cualificada.
 
@@ -60,7 +60,7 @@ Dentro de ese marco, la clase devuelve cada pregunta al oyente:
 3. **Consejos en el nefesh** (#tehilim_13_3a): **אשית עצות בנפשי** se lee literalmente como «pondré consejos en mi ser/nefesh». Eric lo asocia a la asimilación griega narrada en el marco de los Macabeos: estar en la tierra y, sin embargo, vivir con la sabiduría del imperio. Advierte contra tips y filosofías del mundo que pretenden «ayudar» los fines divinos. El dolor **יגון בלבבי יומם** queda, en su exposición, como fricción interior de quien corre tras esos consejos. El texto sostiene la queja de consejos y aflicción diurna; Macabeos, Filipenses y anécdotas contemporáneas son aplicaciones cualificadas.
 4. **El enemigo se alza** (#tehilim_13_3b): **ירום איבי עלי**. Eric lo liga a Roma y a la normalización de la corrupción —templo en pie, pero vaciado en la práctica— hasta la expulsión de la tierra. Exhorta a no normalizar mentira, manipulación ni enfriamiento del amor entendido como vigilancia y armas espirituales, no como sentimentalismo. El alzamiento del enemigo es textual; la radiografía del Segundo Templo y la «nueva normalidad» son elaboraciones históricas y pastorales por verificar.
 
-## De la súplica a la firmeza: Tehilim 13:4–5
+## De la súplica a la firmeza: Tehilim 13:4–5 #tehilim_13_4-5
 
 La segunda mitad abre con imperativos: **הביטה ענני יהוה אלהי האירה עיני** —«mira / considera, respóndeme, יהוה mi Elohim; ilumina mis ojos»— **פן אישן המות**, «no sea que duerma la muerte». Eric lee la iluminación de los ojos como testimonio visible hacia afuera: que la vida no quede apagada ni «dormida» sin proyectar luz. El hebreo pide luz a los ojos para no dormir la muerte; la equivalencia plena entre ojos e imagen pública es una analogía pedagógica útil, no una definición exclusiva de **עין**.
 
@@ -68,7 +68,7 @@ El v. 5 teme la jactancia del enemigo en singular (**יכלתיו**, «lo pude /
 
 La clase resume la finalidad de este tramo: no dejarse conmover. Enlaza la firmeza con otros salmos de confianza y con la Torah como concentración que impide perecer en la humillación. Esas conexiones canónicas refuerzan su exhortación, pero no reescriben el léxico inmediato de Tehilim 13.
 
-## Confianza, gozo y **גמל**: Tehilim 13:6
+## Confianza, gozo y **גמל**: Tehilim 13:6 #tehilim_13_6
 
 El cierre cambia de voz: **ואני בחסדך בטחתי** —«y yo en tu jésed confié»—; **יגל לבי בישועתך** —«se alegrará mi corazón en tu salvación»—; **אשירה ליהוה כי גמל עלי** —«cantaré a יהוה porque recompensó / trató sobre mí». Eric traduce el jésed como piedad solidaria y la salvación como provisión de refugio. Sobre **גמל**, observa que el verbo se usa también en el ámbito de amamantar o destetar y, por extensión, de retribuir o tratar de modo que sacia; de ahí su dificultad de traducción y la imagen de nutrición que propone. El OE confirma la raíz **גמל** en el cierre; la analogía con el pecho y la identificación del «misterio de la piedad» con el sacrificio del Mesías son elaboraciones teológicas de la clase, no el sentido único del verbo en este verso.
 

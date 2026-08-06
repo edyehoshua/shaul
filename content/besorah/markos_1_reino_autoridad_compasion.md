@@ -250,7 +250,7 @@ El cierre une compasión y restauración reconocible. **σπλαγχνισθεί
 
 Marcos 1 llama a recibir el reino mediante retorno a יהוה y confianza en la buena noticia. La autoridad de Yehoshua se hace audible en su enseñanza y visible en una liberación que no confunde con toda enfermedad. Su oración impide reducir la misión a popularidad, y su toque al leproso revela compasión que restaura y, a la vez, dirige al testimonio ordenado por Moshéh.
 
-## Reparación dirigida: autoridad que enseña, libera y restaura (1:21-45)
+## Reparación dirigida: autoridad que enseña, libera y restaura (1:21-45) #markos_1_21-45
 
 La escena de la sinagoga une enseñanza y acción sin reducir la autoridad a espectáculo. **(ἐξεπλήσσοντο)**, _exeplēssonto_, «quedaban profundamente asombrados», es un imperfecto que presenta la reacción sostenida de los oyentes; **(διδαχή)**, _didachē_, «enseñanza o contenido enseñado», nombra aquello que reciben; y **(ἐξουσία)**, _exousia_, «autoridad, derecho o capacidad legítima para actuar», explica por qué comparan a Yehoshua con los escribas (1:22, 27). La relación temática con **(סמכות)**, _samchut_, «autoridad», es aproximada y no reemplaza el vocabulario griego. Marcos muestra que la autoridad se reconoce por la enseñanza y por el mandato obedecido, no por una credencial humana inventada.
 
@@ -260,7 +260,7 @@ El capítulo distingue liberación, fiebre y limpieza. En la casa de Shimón, la
 
 La respuesta **(θέλω)**, _thelō_, «quiero o deseo», muestra voluntad de restaurar, mientras **(ἐκαθαρίσθη)**, _ekatharisthē_, «fue limpiado», es un aoristo pasivo que relata el resultado (1:41-42). Yehoshua manda al hombre mostrar su limpieza al sacerdote y ofrecer lo prescrito por Moshéh (1:44). El milagro, por tanto, no cancela el procedimiento de la Torá ni convierte al beneficiario en publicidad ambulante. Cuando el hombre proclama el hecho y la fama se extiende, Yehoshua queda fuera en lugares desiertos y la gente sigue acudiendo: la compasión restaura al individuo, pero la misión continúa gobernada por proclamación, oración y obediencia.
 
-## Control final de dependencia: autoridad bajo el anuncio (1:1-45)
+## Control final de dependencia: autoridad bajo el anuncio (1:1-45) #markos_1_1-45
 
 Marcos no presenta los actos de poder como una colección independiente. **εὐαγγέλιον**, _euangelion_, «buena noticia», abre el capítulo; **μετανοεῖτε**, _metanoeite_, «vuelvan o cambien de mente», y **πιστεύετε**, _pisteuete_, «confíen», responden al anuncio de que el reino se ha acercado. Solo después la autoridad se vuelve visible en la enseñanza y en el mandato al espíritu impuro. La conexión semítica con **(בשורה)**, _besorah_, «noticia», es pedagógica y aproximada; la progresión la determina el griego local.
 

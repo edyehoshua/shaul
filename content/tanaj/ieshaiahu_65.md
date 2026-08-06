@@ -24,6 +24,8 @@ sources:
   - "https://www.youtube.com/watch?v=5UIvzv_sQXI"
   - "docs/scriptures/tth/json/ieshaiahu.json"
   - "docs/scriptures/oe/json/isaiah/65.json"
+source_ids:
+  - "youtube:5UIvzv_sQXI"
 translation: "[TTH, OE]"
 ---
 
@@ -142,3 +144,8 @@ Ieshaiahu 65 presenta una bifurcación que atraviesa toda la historia del pueblo
 - [Romanim 11](../besorah/romanim_11.md) — remanente por elección del favor.
 - [Sodot 7](../besorah/sodot_7.md) — remanente sellado.
 - [Sodot 18](../besorah/sodot_18.md) — Babel y homogeneización (aplicación dialogada en la nota).
+
+## Créditos
+
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=5UIvzv_sQXI) (`source_id`: `youtube:5UIvzv_sQXI`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

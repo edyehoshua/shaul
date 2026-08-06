@@ -34,7 +34,7 @@ La clase pública recorre los versículos 97-104 de la estrofa Mem. Esta nota si
 | #tehilim_119_97-100  | **מה אהבתי תורתך כל היום היא שיחתי / מאויבי תחכמני מצותך כי לעולם היא לי / מכל מלמדי השכלתי כי עדותיך שיחה לי / מזקנים אתבונן כי פקודיך נצרתי** | Amar la Torah produce diálogo, sabiduría y discernimiento recibido de maestros, ancianos y aun enemigos. |
 | #tehilim_119_101-104 | **מכל ארח רע כלאתי רגלי למען אשמר דברך / ממשפטיך לא סרתי כי אתה הורתני / מה נמלצו לחכי אמרתך מדבש לפי / מפקודיך אתבונן על כן שנאתי כל ארח שקר** | La instrucción se vuelve freno del mal camino, obediencia, gusto por la palabra y odio de la falsedad.   |
 
-## 119:97-100: amar la visión y aprender de toda la experiencia
+## 119:97-100: amar la visión y aprender de toda la experiencia #tehilim_119_97-100
 
 El v. 97 pregunta con asombro: “¡Cuánto amo tu Torah!”. Eric explica que **מה** (_mah_) normalmente significa “qué” o “cuál”, pero en esta exclamación comunica “cuánto” o “qué grande”. Esa relación es contextual y pedagógica, no una definición aislada de la partícula. La forma **תורה**, _torah_, tiene el sentido normal de instrucción, enseñanza o dirección. Eric la desarrolla como la visión de יהוה: la óptica divina que reordena la manera humana de ver. El verso sí sostiene amor continuo y conversación durante todo el día; “visión divina” es una aplicación explicativa que ilumina el campo de instrucción.
 
@@ -44,7 +44,7 @@ En el v. 98, “tus mandamientos me hacen más sabio que mis enemigos” es rele
 
 Los vv. 99-100 amplían los maestros: **מלמד**, _melamed_, es quien enseña, y **זקן**, _zaken_, normalmente anciano o persona de experiencia. Eric no desprecia la enseñanza humana: insiste en filtrarla por la Torah y en recibir la experiencia de ancianos sometidos a יהוה. El orden del texto enlaza entender, guardar testimonios y contemplar los mandamientos. La sabiduría no es información acumulada; es discernimiento que se verifica en una vida que conserva la instrucción.
 
-## 119:101-104: detenerse, volver y saborear la palabra
+## 119:101-104: detenerse, volver y saborear la palabra #tehilim_119_101-104
 
 El v. 101 dice: “De todo camino malo he retenido mis pies para guardar tu palabra”. Eric destaca **כלא**, _kala_, “retener, detener o impedir”, y lo convierte en una disciplina de freno. La correspondencia entre el verbo y “retener mis pies” es exacta. Su aplicación con Google Maps es pedagógica: si alguien se desvía, primero debe parar y después regresar. El salmo sí presenta una renuncia activa al camino malo; no autoriza a imaginar que toda desviación tenga la misma causa o que la corrección sea instantánea.
 
@@ -79,5 +79,5 @@ Mem convierte el amor por la Torah en una práctica visible. El siervo conversa 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo cap 119 (parte 8)» — <https://www.youtube.com/watch?v=ASKtoaXU0Xg> — source_id: `youtube:ASKtoaXU0Xg`.
+- Video: «Tehilim/Himnos/Salmo cap 119 (parte 8)» — <https://www.youtube.com/watch?v=ASKtoaXU0Xg> — `source_id`: `youtube:ASKtoaXU0Xg`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

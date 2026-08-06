@@ -40,13 +40,13 @@ La fuente es una enseñanza pública sobre el salmo completo. La transcripción 
 | #tehilim_114_5-6 | **מה לך הים כי תנוס הירדן תסב לאחור; ההרים תרקדו כאילים גבעות כבני צאן** | Las preguntas amplían el asombro sin explicar todavía la causa. |
 | #tehilim_114_7-8 | **מלפני אדון חולי ארץ מלפני אלוה יעקב; ההפכי הצור אגם מים חלמיש למעינו מים** | La presencia del Dios de Jacob y la roca hecha agua dan la respuesta. |
 
-## Salida, pueblo y santidad — Tehilim 114:1-2
+## Salida, pueblo y santidad — Tehilim 114:1-2 #tehilim_114_1-2
 
 El salmo comienza con una memoria concreta: la salida de Israel de Mitzráyim. Eric observa la disposición binaria del poema y llama la atención sobre **מעם לעז** (_meam loez_). En su exposición, _loez_ no debe quedar reducido a «pueblo extranjero»: propone que señala una forma de hablar ajena al lenguaje bíblico y exhorta a que las palabras piadosas se comprueben por obras. Ilustra esa cautela con Lavan, cuya cercanía verbal a Jacob no impediría prácticas engañosas. El texto local sí contrasta la casa de Jacob con un pueblo **לעז**; convertir el término en una teoría completa sobre «lenguaje bíblico», o aplicar directamente el episodio de Lavan, es una inferencia pedagógica que necesita estudio léxico y contextual adicional.
 
 La segunda línea nombra a Yehudá como santidad y a Israel como dominios o señoríos. Eric relaciona la primera con el templo y la segunda con el gobierno de יהוה, y desde allí habla de los dos reinos, su dispersión y su futura reunión. El paralelismo del versículo afirma santidad y señorío, pero no desarrolla por sí mismo una cronología de los reinos ni identifica un remanente contemporáneo. La aplicación principal queda, sin embargo, claramente formulada: salir de esclavitud no es sólo cambiar de lugar; debe producir una vida que se someta a la santidad y al gobierno de יהוה.
 
-## Mar, Jordán y montes en movimiento — Tehilim 114:3-6
+## Mar, Jordán y montes en movimiento — Tehilim 114:3-6 #tehilim_114_3-6
 
 Los vv. 3-4 evocan el mar que huye y el Jordán que vuelve atrás, imágenes que naturalmente recuerdan #shemot_14_21-22 y #yehoshua_3_14-17. Eric conserva ambos acontecimientos como marco de lectura: la liberación de Egipto y la entrada a la tierra no son accidentes aislados, sino señales de que el Dios de Jacob abre camino para su pueblo. Esta conexión está bien sostenida por los nombres «mar» y «Jordán» del propio salmo, aunque la identificación precisa de cada verso con un solo relato debe leerse como intertextualidad razonable, no como una cita explícita.
 
@@ -54,7 +54,7 @@ La clase propone además que mar y río representen doctrinas abiertamente contr
 
 Los vv. 5-6 repiten las figuras como preguntas: «¿qué te pasa, mar?» y «¿por qué saltáis, montes?». Eric destaca **רקדו** (_raquedú_) y lo acerca a saltar o danzar como carneros. En este contexto, el verbo comunica movimiento jubiloso o convulsivo dentro de la personificación poética; no decide por sí solo una práctica litúrgica. La repetición prepara la respuesta del final: la creación no reacciona ante un programa humano, sino ante la presencia de su Señor.
 
-## Ante el Señor y la roca transformada — Tehilim 114:7-8
+## Ante el Señor y la roca transformada — Tehilim 114:7-8 #tehilim_114_7-8
 
 El v. 7 revela la causa: «ante **אדון** (_adon_), ante el Dios de Jacob». Eric insiste en que _adon_ funciona aquí como designación del Señor y rechaza el temor de que una posible semejanza con formas de otras lenguas anule una palabra que el propio texto bíblico emplea. Esa advertencia responde a los maestros que, según la clase, construyen prohibiciones mediante etimologías improvisadas. El uso del título en Tehilim 114 está visible; las etimologías comparadas, los préstamos lingüísticos y las polémicas modernas no se pueden resolver sólo con el versículo y quedan pendientes de verificar.
 

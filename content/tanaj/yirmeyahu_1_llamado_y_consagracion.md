@@ -34,6 +34,6 @@ El mensajero pertenece a la misión de יהוה antes que a su propia autosufici
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de Pinjás (2018) Qódesh yisra'el laYHWH](https://www.youtube.com/watch?v=99WHQ0Av16E) — source_id: `youtube:99WHQ0Av16E`.
-- Video: [Haftaráh de Shmot (2017) La conciencia de ser siervo de la justicia](https://www.youtube.com/watch?v=auNeYXUmbKg) — source_id: `youtube:auNeYXUmbKg`.
+- Video: [Haftarah de Pinjás (2018) Qódesh yisra'el laYHWH](https://www.youtube.com/watch?v=99WHQ0Av16E) — `source_id`: `youtube:99WHQ0Av16E`.
+- Video: [Haftaráh de Shmot (2017) La conciencia de ser siervo de la justicia](https://www.youtube.com/watch?v=auNeYXUmbKg) — `source_id`: `youtube:auNeYXUmbKg`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales ni como sustitutos de la Escritura.

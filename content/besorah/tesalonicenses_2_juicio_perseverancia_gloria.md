@@ -153,6 +153,6 @@ La síntesis queda graduada. Es **textual y directo** que la comunidad crece en 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=0Betf3asqTU> — source_id: `youtube:0Betf3asqTU`.
-- Video: <https://www.youtube.com/watch?v=4TyD6gSQJfA> — source_id: `youtube:4TyD6gSQJfA`.
+- Video: <https://www.youtube.com/watch?v=0Betf3asqTU> — `source_id`: `youtube:0Betf3asqTU`.
+- Video: <https://www.youtube.com/watch?v=4TyD6gSQJfA> — `source_id`: `youtube:4TyD6gSQJfA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

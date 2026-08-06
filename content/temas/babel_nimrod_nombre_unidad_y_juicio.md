@@ -51,19 +51,19 @@ Esta nota organiza la segunda clase de la serie «Neo-idolatría, Israel y el le
 | **(ציד)** | tsayid | caza, cazador | Eric propone leer la caza como captura de la mente y lealtad de personas. | Pedagógica/interpretativa frente al sentido literal. |
 | **(בבל)** | Bavel | Babel | El texto explica el nombre por la confusión del lenguaje. | Exacta en la explicación narrativa de Bereshit 11:9. |
 
-## Nimrod: poder delante de יהוה — Bereshit 10:9-10
+## Nimrod: poder delante de יהוה — Bereshit 10:9-10 #bereshit_10_9-10
 
 Eric comienza con el título «poderoso cazador delante de יהוה». La clase cuestiona la imagen de Nimrod como un cazador ordinario: al leer el contexto de reino, ciudad y gobierno, lo presenta como un dirigente capaz de atraer y dominar la mente de las personas. La observación conserva una pregunta útil sobre el uso de la frase, pero no debe convertirse en una traducción alternativa obligatoria. El TTH mantiene «poderoso cazador» y Bereshit 10:10 identifica el principio de su reino con Babel, Érej, Acad y Calnéh.
 
 La exposición relaciona a Nimrod con un proyecto deliberado de rebelión contra el Creador y afirma que su influencia se extendió a varias culturas. El pasaje local permite afirmar su poder y su reino; no menciona explícitamente que cazara corazones, que fuera gigante o que buscara restaurar una raza de gigantes. Esas afirmaciones se conservan como parte del marco de Eric, pero se distinguen de lo que el texto dice directamente.
 
-## Una unidad que quiere hacerse un nombre — Bereshit 11:1-4
+## Una unidad que quiere hacerse un nombre — Bereshit 11:1-4 #bereshit_11_1-4
 
 La clase subraya que toda la tierra tenía «un lenguaje» y «algunas palabras». En vez de recibir la unidad como una ocasión para obedecer, los constructores dicen: «hagámonos un nombre, no sea que seamos esparcidos». Eric conecta este «dame, dame» con la codicia y con el antiguo deseo de ser como Elohim. También destaca el cambio de materiales: ladrillo por piedra y betún por argamasa. El texto sí registra esa decisión constructiva; la conclusión de que expresa conocimiento heredado de los nefilim queda pendiente.
 
 La torre no se presenta como una obra neutral. Su finalidad declarada es proteger el nombre colectivo y evitar la dispersión. Así, la unidad puede volverse idolátrica cuando se organiza alrededor de la autopreservación y la gloria humana. La clase aplica esta advertencia al presente: una sociedad puede concentrar idioma, técnica y poder, y aun así estar edificando contra יהוה. Esa aplicación es una extensión pastoral, no una afirmación histórica adicional sobre cada sociedad moderna.
 
-## יהוה desciende como juez — Bereshit 11:5-9
+## יהוה desciende como juez — Bereshit 11:5-9 #bereshit_11_5-9
 
 Eric interpreta «descendió יהוה para ver» como lenguaje judicial. La idea es que el Juez conoce la causa antes de ejecutar la sentencia, no que necesite informarse porque ignore lo que ocurre. El texto confirma el movimiento narrativo: יהוה desciende, observa la ciudad y la torre, declara que el pueblo es uno y confunde su lenguaje. Después los dispersa y la obra cesa. La nota puede sostener el juicio y la interrupción sin convertir cada detalle de la explicación en una regla legal explícita del pasaje.
 

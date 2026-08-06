@@ -44,25 +44,25 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | YESHÚA HA'MASHÍAJ
 | #ephesians_1_19-20 | **ומה־יתרון גדלת גבורתו בנו המאמינים כפי פעלת עצם כחו אשר פעל במשיח בהעיר אתו מן־המתים ויושיבנו לימינו במרומים** | El poder se define por la acción de Elohim en la resurrección y exaltación del Mesías. |
 | #ephesians_1_21-23 | **ממעל לכל־שררה ושלטן וגבורה וממשלה ... ויתן אתו לראש לכל אל־העדה אשר היא גופו** | La autoridad del Mesías culmina en ser cabeza de la congregación, que es su cuerpo. |
 
-## Una oración guiada por la confianza y el amor (1:15-17)
+## Una oración guiada por la confianza y el amor (1:15-17) #ephesians_1_15-17
 
 La clase retoma que Pablo ha oído de la confianza de los creyentes en Yehoshua y del amor hacia todos los santos. **πίστις**, _pistis_, puede expresarse como fe o confianza, y **ἀγάπη**, _agapē_, como amor; en este pasaje no son ideas abstractas, sino señales de una comunidad reconocible. La exposición relaciona esos términos con **emuná** y **ahavá**, pero esa relación es aproximada: los campos hebreo y griego se iluminan mutuamente sin volverse idénticos.
 
 Pablo responde con memoria y oración. No presenta la oración como una conversación sin forma ni como un mecanismo para satisfacer cualquier deseo; pide que Elohim conceda un Rúaj de sabiduría y revelación para conocerle. La clase vincula la oración con confesión, reverencia y dirección conforme a la Escritura. Esa aplicación puede servir pastoralmente, pero la afirmación directa del versículo es más precisa: la petición busca conocimiento de Elohim y discernimiento espiritual.
 
-## Los ojos del corazón y la triple esperanza (1:18)
+## Los ojos del corazón y la triple esperanza (1:18) #ephesians_1_18
 
 **φωτίζω**, _phōtizō_, significa iluminar o dar luz; **καρδία**, _kardia_, designa el corazón como centro de percepción, voluntad y entendimiento. «Iluminar los ojos del corazón» es una imagen del propio texto, no una invitación a sustituir el estudio por una sensación interior. La iluminación tiene tres contenidos: la esperanza del llamamiento, la riqueza de la gloria de la herencia entre los santos y la grandeza del poder hacia quienes creen.
 
 Eric insiste en que la herencia no debe convertirse en orgullo personal. La clase la relaciona con una comunidad formada según el diseño de Elohim y con el lenguaje bíblico de pueblo adquirido. Aquí la nota conserva el énfasis, pero deja que Efesios 1:18 gobierne: Pablo habla de la riqueza de la gloria de la herencia entre los santos; no desarrolla en este versículo una teoría completa sobre propiedad, ciudadanía o calendario de redención.
 
-## El poder se conoce en la resurrección del Mesías (1:19-21)
+## El poder se conoce en la resurrección del Mesías (1:19-21) #ephesians_1_19-21
 
 La expresión **ὑπερβάλλον μέγεθος**, _hyperballon megethos_, señala una grandeza que sobrepasa. La clase la acerca al vocabulario hebreo de fuerza, pero no conviene convertir la transliteración o el juego fonético en prueba lexicográfica. El mismo pasaje define el poder por lo que Elohim hizo en el Mesías: lo levantó de los muertos y lo sentó a su diestra en los lugares celestiales.
 
 **ἐνέργεια**, _energeia_, significa operación o actividad eficaz, y **κράτος**, _kratos_, fuerza o dominio. La relación entre poder y resurrección es textual. La aplicación de ese poder a milagros actuales o a una capacidad humana extraordinaria no está demostrada por Efesios 1:19-20, por lo que debe quedar cualificada. La autoridad del Mesías supera todo principado, autoridad, poder y señorío, y alcanza todo nombre no sólo en esta era sino también en la venidera: el énfasis es su supremacía, no una lista especulativa de entidades.
 
-## Cabeza y cuerpo: autoridad para la comunidad (1:22-23)
+## Cabeza y cuerpo: autoridad para la comunidad (1:22-23) #ephesians_1_22-23
 
 Elohim puso todas las cosas bajo los pies del Mesías y lo dio por cabeza sobre todas las cosas a la congregación. **κεφαλή**, _kephalē_, significa cabeza; aquí funciona dentro de la imagen de gobierno, dirección y relación corporal. **σῶμα**, _sōma_, significa cuerpo, y **πλήρωμα**, _plērōma_, plenitud o aquello que llena. La clase usa la imagen del sistema nervioso para explicar que la dirección sale de la cabeza y alcanza al cuerpo; es una analogía pedagógica, no una definición anatómica del término.
 

@@ -40,13 +40,13 @@ Esta nota organiza la enseñanza pública de Eric y la contrasta con el texto lo
 | Jeremías 7:24, 28 | **ולא שמעו ולא הטו את אזנם** … **זה הגוי אשר לוא שמעו בקול יהוה אלהיו**                | El fracaso no es falta de actividad ritual, sino rechazo de la voz y de la disciplina. |
 | Jeremías 7:30-33  | **שמו שקוציהם בבית אשר נקרא שמי עליו** … **גיא ההרגה**                                 | La profanación y la violencia idolátrica producen anuncio de juicio.                   |
 
-## 7:1-20: la puerta del templo no es un amuleto
+## 7:1-20: la puerta del templo no es un amuleto #irmeiahu_7_1-20
 
 El capítulo coloca a Jeremías en la puerta de la casa de יהוה. El público llega para postrarse, pero la primera orden no es celebrar su seguridad: es escuchar la palabra. La ubicación importa porque el discurso examina la diferencia entre entrar al santuario y vivir conforme a la voz que allí se proclama. La frase repetida sobre el templo no convierte el edificio en algo irrelevante; denuncia la confianza que usa “templo de יהוה” como protección mientras persiste en injusticia e idolatría.
 
 Eric presenta la haftará como una porción profética enlazada con la lectura de la Torá. En la clase explica que _haftará_ funciona como una despedida o conclusión y que las conexiones entre Torá y Profetas pueden ser temáticas, verbales o históricas. Esa observación organiza la lectura de Tzav y Jeremías, pero no exige afirmar una uniformidad histórica de todas las costumbres de lectura. El punto verificable es que la haftará pone el tema sacrificial bajo examen profético.
 
-## 7:21-27: el sacrificio no sustituye la escucha
+## 7:21-27: el sacrificio no sustituye la escucha #irmeiahu_7_21-27
 
 En 7:21 יהוה dice: **כה אמר יהוה צבאות אלהי ישראל עלותיכם ספו על זבחיכם ואכלו בשר**, “añadan sus holocaustos a sus sacrificios y coman carne”. Eric observa que el tono es irónico y desafiante, no una autorización literal para multiplicar ofrendas. La ironía se entiende por la secuencia: el pueblo está poniendo su confianza en el acto externo, pero ha perdido el propósito de la instrucción.
 
@@ -56,13 +56,13 @@ Eric también explica que el _olah_ se ofrecía primero en el orden que él est�
 
 La corrección explícita llega en 7:22-23: **כי לא דברתי את אבותיכם ולא צויתים ביום הוציא הוציא אותם מארץ מצרים על דברי עולה וזבח ... כי אם את הדבר הזה צויתי אותם לאמר שמעו בקולי והייתי לכם לאלהים ואתם תהיו לי לעם והלכתם בכל הדרך אשר אצוה אתכם**. El contraste no dice simplemente “sacrificio malo, escucha buena”; afirma que la relación de pacto y el camino ordenado por יהוה gobiernan la comprensión del culto. **שמע** (_shama_) significa oír, escuchar y atender. Aquí su fuerza contextual es una escucha activa que produce andar; la explicación de Eric sobre hacer silencio y pasar de oír a actuar es pedagógica, pero sigue la secuencia del versículo.
 
-## 7:24-29: una comunidad que vuelve la espalda
+## 7:24-29: una comunidad que vuelve la espalda #irmeiahu_7_24-29
 
 El pueblo no escuchó ni inclinó el oído, sino que caminó en los consejos y en la obstinación de su corazón: **ולא שמעו ולא הטו את אזנם וילכו במעצות בשררות לבם הרע ויהיו לאחור ולא לפנים**. “Atrás y no adelante” resume una inversión de dirección. La clase usa esta imagen para hablar de un segundo éxodo: no basta salir geográficamente de Egipto si el corazón conserva sus formas antiguas. Esa aplicación pastoral pertenece a Eric; el texto local sí afirma que la obstinación del corazón explica la marcha en dirección equivocada.
 
 En 7:28 el pueblo es descrito como quien no escucha la voz de יהוה ni recibe disciplina: **זה הגוי אשר לוא שמעו בקול יהוה אלהיו ולא לקחו מוסר אבדה האמונה**. **מוסר** (_musar_) significa disciplina, corrección o instrucción; su fuerza aquí es una formación que el pueblo rechaza, no un mero castigo emocional. **אמונה** (_emunah_) puede significar fidelidad, firmeza o confianza; “fidelidad” es una traducción contextual adecuada, pero el verso no ofrece por sí solo una teoría completa sobre todos los aspectos de la fe.
 
-## 7:30-34: profanación y juicio
+## 7:30-34: profanación y juicio #irmeiahu_7_30-34
 
 La denuncia se vuelve concreta: los hijos de Judá pusieron sus abominaciones en la casa llamada por el nombre de יהוה para profanarla. Luego se menciona la construcción de los lugares altos de Tófet para quemar a hijos e hijas, algo que יהוה no ordenó ni puso en su corazón. No se debe suavizar esta sección convirtiéndola en una mera disputa sobre estilos de culto. La violencia idolátrica pertenece al motivo del juicio anunciado.
 

@@ -44,13 +44,13 @@ La fuente es una exposición pública y su crédito visible; no se presenta su t
 | #maaseh_2_1-4       | El don se manifiesta en una comunidad reunida y capacitada para hablar.                            | Apoyo narrativo directo; lenguas y poder no son una técnica privada.                                       |
 | #revelation_1_3     | Leer, oír y guardar la profecía forman una respuesta bienaventurada.                               | Apoyo textual directo; la aplicación a toda cronología futura sería inferencial.                           |
 
-## Isaías 52:7: el evangelio como anuncio público
+## Isaías 52:7: el evangelio como anuncio público #yeshayahu_52_7
 
 Isaías llama hermosos a los pies del mensajero que proclama paz, anuncia bien y hace oír salvación. Eric relaciona este anuncio con el vocabulario del evangelio y sostiene que la buena noticia ya está en el Tanaj. La conexión es sólida como lectura canónica: los escritos apostólicos reciben este patrón de anuncio, pero el versículo de Isaías conserva su propio sujeto y su propio horizonte de consuelo para Sión.
 
 **(בשר)**, _basar_, tiene el sentido ordinario de anunciar, comunicar o publicar una noticia; en Isaías 52:7 su fuerza contextual es hacer audible una noticia pública, no producir un estado emocional. La relación con **(εὐαγγελίζω)**, _euangelizō_, «anunciar buenas noticias», es **aproximada y canónica**: ambos términos describen proclamación favorable, pero el hebreo no es una forma griega ni prueba por sí solo toda la teología posterior del evangelio. **(שלום)**, _shalom_, significa paz, integridad, bienestar o plenitud; aquí nombra el contenido anunciado junto con la salvación y el reinado de Elohim. «Paz» es una glosa **directa**, mientras limitarla a ausencia de conflicto sería demasiado estrecho.
 
-## Isaías 63:10-11: el espíritu santo entristecido
+## Isaías 63:10-11: el espíritu santo entristecido #yeshayahu_63_10-11
 
 La perícopa recuerda que Israel se rebeló y entristeció el espíritu de su santidad; por eso la presencia actuó contra ellos. Eric insiste en que el orden «santo espíritu» no debe hacer imaginar otro espíritu distinto de «espíritu santo». El texto apoya el punto gramatical básico: el genitivo «de su santidad» relaciona el espíritu con יהוה. También impone un límite pastoral: el don santo no es una fuerza neutral manipulable por quien lo recibe, porque la rebelión entristece y altera la relación del pueblo con su guía.
 

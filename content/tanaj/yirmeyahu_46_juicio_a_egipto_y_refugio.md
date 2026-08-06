@@ -32,5 +32,5 @@ La liberación de יהוה no autoriza a convertir el lugar de opresión en refu
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Bo' (2017) El juicio y el amor entrañable de YHWH](https://www.youtube.com/watch?v=nvIbmu6y1YU) — source_id: `youtube:nvIbmu6y1YU`.
+- Video: [Haftaráh de Bo' (2017) El juicio y el amor entrañable de YHWH](https://www.youtube.com/watch?v=nvIbmu6y1YU) — `source_id`: `youtube:nvIbmu6y1YU`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

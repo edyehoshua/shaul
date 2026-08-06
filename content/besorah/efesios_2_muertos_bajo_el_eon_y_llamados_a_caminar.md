@@ -49,7 +49,7 @@ La clase comienza con el peso de «estaban muertos». Eric explica que no se tra
 
 El contraste entre **פשע**, _pesha_, y **חטא**, _jata_, se presenta en la clase como diferencia entre rebelión o transgresión y pecado como condición. Esa distinción puede ayudar pedagógicamente a leer la relación entre acto y estado, pero no debe presentarse como si Efesios hubiera sido escrito originalmente en hebreo. El texto local de Delitzsch traduce el contraste mediante **פשעים** y **חטאות**; el griego subyacente requiere cotejo independiente antes de fijar una equivalencia semántica absoluta.
 
-## El antiguo caminar: un orden que forma la conducta (2:2-3)
+## El antiguo caminar: un orden que forma la conducta (2:2-3) #ephesians_2_2-3
 
 La expresión «caminar» no describe un acto aislado, sino la forma de vida que los destinatarios seguían. Eric desarrolla la imagen como un círculo vicioso: deseos, pensamientos y costumbres reproducen el mismo rumbo. La palabra griega **αἰών**, _aiōn_, suele significar edad, era o mundo en su dimensión temporal; la clase la explica además como «esencia» o fuerza vital de este orden. Esa ampliación es una lectura pedagógica, no una definición exhaustiva. En Efesios 2:2 la fuerza directa del término está en el orden o era conforme al cual caminaban.
 

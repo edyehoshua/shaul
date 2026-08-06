@@ -116,7 +116,7 @@ Qohélet 11:7-10 reconoce la bondad de la luz y del gozo, pero no permite separa
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 28) Cap 11» — https://www.youtube.com/watch?v=tFXpEE15FBk (`source_id: youtube:tFXpEE15FBk`).
-- «Qoheleth-Ecclesiastes (Part 29) Ch. 11» — https://www.youtube.com/watch?v=_9DYcs67bd4 (`source_id: youtube:_9DYcs67bd4`).
+- «Qohélet-Eclesiastés (parte 28) Cap 11» — https://www.youtube.com/watch?v=tFXpEE15FBk (`source_id`: youtube:tFXpEE15FBk`).
+- «Qoheleth-Ecclesiastes (Part 29) Ch. 11» — https://www.youtube.com/watch?v=_9DYcs67bd4 (`source_id`: youtube:_9DYcs67bd4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

@@ -92,7 +92,7 @@ Para las unidades finales, el corpus local OE conserva este texto hebreo complet
 | 119:175 | **תחי נפשי ותהללך ומשפטך יעזרני**             |
 | 119:176 | **תעיתי כשה אבד בקש עבדך כי מצותיך לא שכחתי** |
 
-## Alef–Gimel: el camino íntegro aprende a guardar — 119:1-24
+## Alef–Gimel: el camino íntegro aprende a guardar — 119:1-24 #tehilim_119_1-24
 
 Eric comienza por la arquitectura: cada bloque de ocho versos comparte una letra inicial. La observación estructural es exacta en el poema y explica por qué una lectura canónica no debe saltar directamente a un verso favorito. También menciona comentarios judíos que relacionan el ocho con permanencia o trascendencia; esa lectura simbólica queda como tradición interpretativa, no como significado gramatical obligatorio.
 
@@ -102,25 +102,25 @@ Bet pregunta cómo limpiará un joven su camino. Eric explica la limpieza median
 
 En Gimel, **גמל** (_gamal_) puede referirse a hacer bien, tratar o hacer crecer según el contexto. Eric prefiere oír «haz crecer junto a tu siervo para que viva» antes que una lectura plana de retribución. El texto pide vida para guardar la palabra y ojos abiertos para contemplar las maravillas de la Torah; la idea de crecimiento espiritual es una aplicación coherente, no el único sentido léxico. El extranjero en la tierra pide que no se oculten los mandamientos, mientras príncipes hablan contra él: los testimonios son su consejo y su deleite aun bajo presión.
 
-## La palabra en el sufrimiento — 119:49-56
+## La palabra en el sufrimiento — 119:49-56 #tehilim_119_49-56
 
 Al llegar a la estrofa Zayin, Eric trabaja **זכר** (_zakhar_). No lo limita a un recuerdo mental: propone la fuerza de traer algo a primer plano, darle preeminencia. En 119:49, «recuerda la palabra a tu siervo» se sostiene como petición de acción fiel sobre la promesa, pero la idea de preeminencia es una explicación pedagógica, no una traducción exclusiva.
 
 La palabra consuela en la aflicción porque «me ha vivificado». Los soberbios se burlan, pero el orante no se desvía de la Torah; recuerda los juicios antiguos y canta los estatutos en la casa de su peregrinación. Eric usa esta secuencia contra una fe que solo habla cuando todo prospera: la palabra no elimina automáticamente la aflicción, sino que produce vida, memoria y cántico dentro de ella. **תורה** (_torah_) significa instrucción o enseñanza; en esta estrofa funciona con fuerza normativa y formativa, no meramente como etiqueta para un libro.
 
-## Amor, sabiduría y discernimiento — 119:97-104
+## Amor, sabiduría y discernimiento — 119:97-104 #tehilim_119_97-104
 
 «¡Cuánto amo tu Torah!» no es una emoción aislada: todo el día es la conversación del orante. Eric relaciona este amor con la sabiduría manifestada abajo y destaca que los mandamientos vuelven al discípulo más sabio que sus enemigos, maestros y ancianos, porque los guarda. El texto da la razón de la superioridad: **מצותיך** (_mitsvoteikha_, tus mandamientos) permanecen con él y **עדותיך** (_edoteikha_, tus testimonios) son su meditación. No autoriza despreciar toda enseñanza humana; afirma que la obediencia a la revelación forma discernimiento.
 
 El orante aparta sus pies de toda senda mala para guardar la palabra, no se aparta de los juicios porque יהוה le enseña y encuentra dulce la **אמרה**, «palabra» o «promesa», más que la miel. Eric conecta el v. 104 con el odio a todo camino de falsedad: la comprensión no es neutralidad frente al engaño. **בין** (_bin_, discernir o entender) tiene sentido normal de distinguir; «capacidades que reflejan el carácter de יהוה» es una aplicación teológica de la clase, aproximadamente relacionada con el resultado práctico del discernimiento.
 
-## Apertura, luz y lágrimas — 119:129-136
+## Apertura, luz y lágrimas — 119:129-136 #tehilim_119_129-136
 
 En 119:129, Eric lee **פלא** (_pele_, maravilla) como señal de que los testimonios no son ordinarios: por eso el alma los guarda. El v. 130 contiene **פתח** (_petach_, apertura, entrada) y **דבר** (_davar_, palabra, asunto). La exposición prefiere «la apertura de tus palabras da luz» a imaginar una puerta metálica: la palabra abre acceso y hace entender a los simples. La relación es exacta como imagen de apertura e iluminación, aunque «acceso a la sabiduría» desarrolla el sentido contextual.
 
 La boca abierta anhela los mandamientos; el orante pide que sus pasos sean afirmados, que la iniquidad no gobierne y que sea redimido de la opresión humana. Eric aplica esto a la diferencia entre declarar deseos propios y poner en la boca las palabras que יהוה ya habló; enlaza el final de esta clase con Isaías 59:21. La conexión canónica es pertinente, pero el salmo mismo dice primero «conforme a tu palabra» y «enséñame tus estatutos». La respuesta incluye compasión por quienes no guardan la Torah: «ríos de agua descienden de mis ojos». La fidelidad no produce desprecio del pecador, sino duelo por la desobediencia.
 
-## Sadiq: justicia estable en la estrechez — 119:137-144
+## Sadiq: justicia estable en la estrechez — 119:137-144 #tehilim_119_137-144
 
 En la estrofa Sadiq, Eric empieza con la confesión «justo eres tú, יהוה» y observa que la justicia de los juicios no depende de la opinión cambiante del mundo. El texto local confirma la secuencia: יהוה es justo, sus juicios son rectos, y sus testimonios fueron ordenados en justicia y fidelidad. **צדק**, _tsedeq_, significa justicia o rectitud; aquí funciona como norma estable de los juicios y testimonios. La relación con «el estado ideal» que Eric repite es pedagógica: el hebreo nombra justicia, no una teoría abstracta de idealidad.
 
@@ -128,13 +128,13 @@ Eric lee después el celo de sus adversarios como una oposición a la palabra de
 
 Los vv. 142-144 llevan la estrofa a su conclusión: la justicia de יהוה es eterna, su Torah es verdad, la angustia y la estrechez encuentran deleite en los mandamientos, y entender los testimonios da vida. Eric insiste en que obedecer no debe depender de recibir un premio: se guarda la mitzvá porque expresa el deber ser de la vida ante יהוה. El texto apoya el deleite en medio de la aflicción y la petición «hazme entender y vivir»; la afirmación de que el mismo camino produce vida en este mundo y el venidero es una inferencia teológica de la clase, no una glosa literal de **אחיה**, _eḥyeh_, «viviré».
 
-## Persecución, desvío y fidelidad sin apartarse — 119:157-160
+## Persecución, desvío y fidelidad sin apartarse — 119:157-160 #tehilim_119_157-160
 
 En la clase sobre la estrofa Sámej, Eric retoma la imagen de los obstáculos: la palabra **מכשול** (_mikhshol_, tropiezo u obstáculo) no invita a golpear cada piedra. Propone que la práctica de la Torah enseña a esquivar o saltar lo que puede evitarse, y a enfrentarlo solamente cuando la Escritura exige quitarlo del camino. El consejo no se queda en una técnica de supervivencia: Eric pide revisar si el problema está también en la propia conducta cuando una persona tropieza continuamente con lo mismo. El texto local de 157-159 sostiene la presión de «muchos perseguidores y adversarios», pero la respuesta explícita es **לא נטיתי**, «no me desvié», y el verbo **נטה** (_natah_, inclinarse o apartarse) marca una deriva progresiva, no necesariamente una confrontación directa.
 
 En 158 el salmista dice **ראיתי בגדים**, «he visto a los infieles», y Eric distingue **בגד** (_bagad_) de una traducción plana como «mentirosos»: la clase lo acerca a quienes traicionan o abandonan los testimonios, incluso «apóstatas» en una aplicación contemporánea. Esa fuerza es interpretativa; el sentido normal del participio es actuar traidoramente o ser infiel, y el contexto añade que la aflicción nace de que no guardan la palabra. El v. 159 vuelve del adversario al examen ante יהוה: «mira que amo tus preceptos; vivifícame conforme a tu misericordia». La exposición, por tanto, no convierte el celo en licencia para pelear con cada infiel; lo prueba contra el texto, que combina amor, petición de vida y perseverancia.
 
-## La verdad como cabeza de la palabra — 119:161-168
+## La verdad como cabeza de la palabra — 119:161-168 #tehilim_119_161-168
 
 Eric observa que los príncipes pueden perseguir «sin causa», pero el corazón del siervo tiembla ante la palabra, no ante el poder de esos príncipes. En 161-163 la secuencia es concreta: temor ante los mandamientos, gozo ante la **אמרה** (_imrah_, palabra, dicho o promesa), odio a la falsedad y amor a la Torah. La imagen de hallar un gran botín explica la intensidad del gozo, no una promesa de riqueza material. Después, «siete veces al día te alabo» y «mucha paz» muestran una disciplina reiterada y una estabilidad que el salmo atribuye a los amantes de la Torah; no dicen que el observante quede libre de toda oposición.
 
@@ -142,7 +142,7 @@ En 166-168 Eric lee **שברתי** (_sibarti_, esperé o aguardé) junto con «t
 
 En su lectura de 160, Eric traduce **ראש דברך אמת** como «la cabeza de tu palabra es verdad», y enlaza «cabeza» con Yehoshua como cabeza y verdad. La forma **ראש** (_rosh_) significa cabeza, comienzo o parte principal; por eso «la esencia/principio de tu palabra es verdad» conserva mejor la observación que una lectura de «suma de todas tus palabras». La conexión mesiánica es canónica y pedagógica, no una identificación gramatical obligatoria: el versículo mismo continúa diciendo que cada juicio justo de יהוה es eterno. La clase prueba su aplicación al afirmar que el deber ser no es una imposición política sobre otros, sino una conciencia que el discípulo practica ante la autoridad de la palabra.
 
-## La súplica final: palabras recibidas y oveja perdida — 119:169-176
+## La súplica final: palabras recibidas y oveja perdida — 119:169-176 #tehilim_119_169-176
 
 En Taw, la petición «que se acerque mi clamor» pide entendimiento **כדברך** (_kidvarekha_, conforme a tu palabra) y liberación conforme a la promesa. Eric insiste en que no son las fórmulas privadas del orante las que obligan a יהוה: son las palabras de יהוה en la boca del siervo. Esa exhortación tiene apoyo directo en la repetición «conforme a tu palabra», aunque el vínculo específico con Isaías 59:21 es intertextual y aproximado.
 
@@ -205,13 +205,13 @@ Tehilim 119 no presenta la Torah como una colección que se admira desde lejos. 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 1)» — <https://www.youtube.com/watch?v=FlhAcYD1xHY> — source_id: `youtube:FlhAcYD1xHY`.
-- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 2)» — <https://www.youtube.com/watch?v=qXMn78sfFGU> — source_id: `youtube:qXMn78sfFGU`.
-- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 3)» — <https://www.youtube.com/watch?v=PC4aR6RIsqI> — source_id: `youtube:PC4aR6RIsqI`.
-- Video: «Tehilim/Himnos/Salmo cap 119 (parte 5)» — <https://www.youtube.com/watch?v=fvzC2oDcPig> — source_id: `youtube:fvzC2oDcPig`.
-- Video: «Tehilim/Himnos/Salmo cap 119 (parte 11)» — <https://www.youtube.com/watch?v=kZW4IL2Cn6Q> — source_id: `youtube:kZW4IL2Cn6Q`.
-- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 13)» — <https://www.youtube.com/watch?v=kv6HOQs_fD0> — source_id: `youtube:kv6HOQs_fD0`.
-- Video: «Tehillim/Hymns/Psalm 119 (part 14)» — <https://www.youtube.com/watch?v=ZNpxvynYZXk> — source_id: `youtube:ZNpxvynYZXk`.
-- Video: «Tehilim/Hymnos/Salmo Cap 119 (parte 16)» — <https://www.youtube.com/watch?v=xeOQWtMOwvg> — source_id: `youtube:xeOQWtMOwvg`.
-- Video: «Tehilim/Hymnos/Salmo Cap 119 (parte 12)» — <https://www.youtube.com/watch?v=OlpNpJjRYB8> — source_id: `youtube:OlpNpJjRYB8`.
+- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 1)» — <https://www.youtube.com/watch?v=FlhAcYD1xHY> — `source_id`: `youtube:FlhAcYD1xHY`.
+- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 2)» — <https://www.youtube.com/watch?v=qXMn78sfFGU> — `source_id`: `youtube:qXMn78sfFGU`.
+- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 3)» — <https://www.youtube.com/watch?v=PC4aR6RIsqI> — `source_id`: `youtube:PC4aR6RIsqI`.
+- Video: «Tehilim/Himnos/Salmo cap 119 (parte 5)» — <https://www.youtube.com/watch?v=fvzC2oDcPig> — `source_id`: `youtube:fvzC2oDcPig`.
+- Video: «Tehilim/Himnos/Salmo cap 119 (parte 11)» — <https://www.youtube.com/watch?v=kZW4IL2Cn6Q> — `source_id`: `youtube:kZW4IL2Cn6Q`.
+- Video: «Tehilim/Himnos/Salmo Cap 119 (parte 13)» — <https://www.youtube.com/watch?v=kv6HOQs_fD0> — `source_id`: `youtube:kv6HOQs_fD0`.
+- Video: «Tehillim/Hymns/Psalm 119 (part 14)» — <https://www.youtube.com/watch?v=ZNpxvynYZXk> — `source_id`: `youtube:ZNpxvynYZXk`.
+- Video: «Tehilim/Hymnos/Salmo Cap 119 (parte 16)» — <https://www.youtube.com/watch?v=xeOQWtMOwvg> — `source_id`: `youtube:xeOQWtMOwvg`.
+- Video: «Tehilim/Hymnos/Salmo Cap 119 (parte 12)» — <https://www.youtube.com/watch?v=OlpNpJjRYB8> — `source_id`: `youtube:OlpNpJjRYB8`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

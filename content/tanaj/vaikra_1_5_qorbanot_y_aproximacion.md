@@ -118,7 +118,7 @@ Delitzsch expresa la recepción mesiánica en Ivrim 10:5: **וְעַל־כֵּן
 
 El control final viene de Vaikra 5. **והשיב**, _veheshiv_, procede de שוב, _shuv_, «volver o devolver»; su fuerza contextual es restituir lo tomado y añadir la quinta parte. **(אשם)**, _asham_, significa culpa, ofensa o ofrenda por culpa; «castigo» es demasiado estrecho. Por eso la lectura de Eric puede afirmar que Yehoshúa recibe y reinterpreta el patrón de acercamiento, pero no que el sacrificio vuelva innecesarias la confesión, la reparación o la obediencia. El texto de Vaikra y la recepción de Delitzsch convergen solo después de conservar sus destinatarios, vocabularios y contextos.
 
-## Confesión, compensación y acceso diferenciado: Vaikra 5:1–26
+## Confesión, compensación y acceso diferenciado: Vaikra 5:1–26 #vaikra_5_1-26
 
 Vaikra 5 no reduce toda culpa a un estado interior. El testigo que calla, quien toca impureza o quien pronuncia un juramento irreflexivo debe reconocer su situación: **והתודה**, _vehitvadah_, es una forma de ידה, «confesar, reconocer o dar gracias»; aquí su fuerza es admitir verbalmente la culpa. TTH mantiene «confesará aquello en que pecó». «Descargar sentimientos» sería una equivalencia psicológica insuficiente: la confesión introduce al responsable en un procedimiento concreto de reparación.
 
@@ -201,6 +201,6 @@ Esta marcha textual conserva el centro público de los videos «Yehoshúa' y los
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshu' and the Qorbanot Part 1](https://www.youtube.com/watch?v=h5LhqPYCi4E) (source_id: `youtube:h5LhqPYCi4E`).
-- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshúa' y los Qorbanot Parte 2](https://www.youtube.com/watch?v=JMdxbQtZ9wc) (source_id: `youtube:JMdxbQtZ9wc`).
+- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshu' and the Qorbanot Part 1](https://www.youtube.com/watch?v=h5LhqPYCi4E) (`source_id`: `youtube:h5LhqPYCi4E`).
+- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshúa' y los Qorbanot Parte 2](https://www.youtube.com/watch?v=JMdxbQtZ9wc) (`source_id`: `youtube:JMdxbQtZ9wc`).
 - Esta nota organiza y contrasta los énfasis públicos de las clases; no presenta una transcripción automática como cita literal.

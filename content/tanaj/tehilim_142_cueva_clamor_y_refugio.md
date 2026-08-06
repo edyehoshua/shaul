@@ -38,7 +38,7 @@ La clase recorre los siete versículos de Tehilim 142 y lee el encabezado como p
 | #tehilim_142_4-5 | **בהתעטף עלי רוחי ואתה ידעת נתיבתי בארח זו אהלך טמנו פח לי / הביט ימין וראה ואין לי מכיר אבד מנוס ממני אין דורש לנפשי**                                                  | יהוה conoce la senda cuando el espíritu desfallece; el entorno humano aparece sin refugio ni defensor.               |
 | #tehilim_142_6-7 | **זעקתי אליך יהוה אמרתי אתה מחסי חלקי בארץ החיים / הקשיבה אל רנתי כי דלותי מאד הצילני מרדפי כי אמצו ממני / הוציאה ממסגר נפשי להודות את שמך בי יכתרו צדיקים כי תגמל עלי** | La confesión de יהוה como refugio y porción desemboca en petición de sacar el alma de prisión y reunir a los justos. |
 
-## 142:1-3: una oración que no esconde la angustia
+## 142:1-3: una oración que no esconde la angustia #tehilim_142_1-3
 
 El encabezado llama al salmo **משכיל**, _maskil_, y añade **תפלה**, _tefilah_, «oración». Eric explica _maskil_ como una intervención o participación en un juicio y vincula _tefilah_ con presentarse ante יהוה. El sentido normal de _maskil_ es una composición instructiva o contemplativa; la idea de comparecer en juicio es una lectura pedagógica de Eric. **תפלה**, _tefilah_, significa oración o súplica; aquí la equivalencia es exacta y su contexto muestra una oración nacida de presión real.
 
@@ -46,7 +46,7 @@ La cueva funciona como marco narrativo, no como decoración. Eric recuerda que D
 
 El v. 2 repite «mi voz» y dos verbos de súplica: **אזעק**, _ezaq_, «clamar o gritar», y **אתחנן**, _etjannan_, «implorar o pedir favor». La repetición no presenta una oración decorada, sino una voz insistente. En el v. 3 David dice que derrama su conversación delante de יהוה y declara su angustia. **אשפך**, _eshpokh_, del verbo «derramar», hace visible una descarga completa; **שיח**, _siaj_, puede ser conversación, meditación, queja o murmullo. Eric aplica esto a una oración que no edita artificialmente el dolor. El texto sí permite esa honestidad: la queja se lleva delante de יהוה, no se usa para negar su presencia.
 
-## 142:4-5: senda conocida cuando todos abandonan
+## 142:4-5: senda conocida cuando todos abandonan #tehilim_142_4-5
 
 «Cuando mi espíritu desfallece sobre mí, tú conoces mi senda». **רוח**, _ruaj_, tiene como sentidos normales espíritu, aliento o viento; en este verso alude a la fuerza interior que se desmaya. **התעטף**, _hitatef_, describe envolverse, desfallecer o quedar cubierto; su fuerza contextual es abatimiento. Eric observa que el orante no afirma conocer por completo su camino: afirma que יהוה lo conoce. La distinción es importante para una espiritualidad de refugio: la confusión humana no implica ausencia de dirección divina.
 
@@ -54,7 +54,7 @@ La senda aparece junto a una trampa escondida: «en el camino por donde ando han
 
 El v. 5 intensifica la soledad: «Mira a la derecha y ve; no hay quien me reconozca; el refugio se perdió de mí; no hay quien busque mi alma». Eric recorre esta cadena para mostrar la ausencia de apoyo humano. **מנוס**, _manos_, es escape, refugio o lugar de huida; **דורש**, _doresh_, significa buscar, investigar o procurar. La línea no dice que David no tenga valor personal, sino que no encuentra un defensor que reclame su vida. La oración ya prepara el contraste: cuando no hay refugio humano, יהוה mismo será refugio.
 
-## 142:6-7: יהוה como refugio, porción y liberación
+## 142:6-7: יהוה como refugio, porción y liberación #tehilim_142_6-7
 
 David clama: «Tú eres mi refugio, mi porción en la tierra de los vivientes». **מחסה**, _majsé_, es refugio o lugar de protección. **חלק**, _jelek_, es parte, porción o herencia. Eric explica que la porción no es solo una propiedad, sino aquello que sostiene la vida del perseguido. El salmo mantiene esa fuerza: en la tierra de los vivientes, la relación con יהוה define la seguridad del orante. Hablar de una herencia mesiánica o de una porción espiritual puede ser una aplicación canónica, pero no debe reemplazar la escena de David que pide vivir.
 
@@ -101,5 +101,5 @@ Tehilim 142 no romantiza la cueva ni la soledad. David clama porque la trampa es
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 142» — <https://www.youtube.com/watch?v=JFt32TbSL68> — source_id: `youtube:JFt32TbSL68`.
+- Video: «Tehilim/Himnos/Salmo Cap 142» — <https://www.youtube.com/watch?v=JFt32TbSL68> — `source_id`: `youtube:JFt32TbSL68`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

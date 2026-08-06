@@ -68,7 +68,7 @@ La formulación «hijo = heredero» es el eje pedagógico del video, no una trad
 
 - Fuente principal: transcripción automática suministrada por el usuario para un video de aproximadamente 1 hora y 17 minutos.
 - La clase se presenta como cierre del paréntesis necesario para continuar Marcos 2, aunque recorre pasajes de todo Marcos, Tanaj y cartas apostólicas.
-- El corpus local fue confirmado con `npm run scriptures:ensure` el 17 de julio de 2026.
+- El corpus local fue confirmado el 17 de julio de 2026.
 - Los textos principales se cotejaron en TTH u OE. Las definiciones lexicales, la lectura del griego de #markos_9_4, las reglas hermenéuticas atribuidas a Hillel y las reconstrucciones históricas se conservan como tesis de la clase y quedan pendientes donde corresponde.
 - El intercambio final sobre la coronación futura del Mesías queda abierto en el propio video; no se convierte aquí en una conclusión cerrada.
 

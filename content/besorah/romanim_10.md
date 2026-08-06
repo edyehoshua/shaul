@@ -265,5 +265,5 @@ Romanos 10 presenta la emunah como respuesta al anuncio que se oye, no como una 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Romanim 10, la emunah es por el oír](https://www.youtube.com/watch?v=ceJ84959XJU) (source_id: `youtube:ceJ84959XJU`).
+- [Romanim 10, la emunah es por el oír](https://www.youtube.com/watch?v=ceJ84959XJU) (`source_id`: `youtube:ceJ84959XJU`).
 - Esta nota organiza apuntes y contrasta la enseñanza pública con las Escrituras; no presenta una transcripción como cita literal.

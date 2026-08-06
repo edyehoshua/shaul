@@ -56,7 +56,7 @@ Los cuatro primeros versos repiten «porque para siempre es su חסד». Israel,
 
 **חסד** (_jesed_) tiene el sentido normal de bondad leal, misericordia o amor fiel. En estos versos su fuerza contextual es la fidelidad activa de יהוה que sostiene al pueblo a través del tiempo. La equivalencia con «gracia» es aproximada y pedagógica: puede comunicar el favor inmerecido, pero no agota la lealtad relacional del término. **הודו** (_hodu_) significa «den gracias» o «confiesen», y hace de la alabanza una respuesta verbal a una realidad recibida.
 
-## 118:5-13: estrechez, refugio y auxilio
+## 118:5-13: estrechez, refugio y auxilio #tehilim_118_5-13
 
 El orante dice: «Desde la estrechez llamé a יה; יה me respondió en el espacio abierto». Eric lee el contraste entre **המצר** (_hametsar_, «la estrechez») y **מרחב** (_merjav_, «espacio amplio») como el paso de una condición que aprieta a una liberación que permite respirar. El texto afirma el clamor y la respuesta; la aplicación a toda crisis concreta requiere discernimiento.
 
@@ -64,7 +64,7 @@ La confianza se formula tres veces: «יהוה está conmigo; no temeré; ¿qué
 
 Los pueblos rodean al orante como abejas y como fuego de espinos, pero son apagados en el nombre de יהוה. El salmo no niega que el cerco sea real: dice que el enemigo empuja para hacer caer, y que יהוה ayuda. **סבב** (_sovav_) significa «rodear» y **דחה** (_dajah_) «empujar o rechazar». Sus sentidos son exactos en la escena; convertir cada adversario en una categoría étnica sería contrario al alcance universal del conjunto.
 
-## 118:14-21: vida, justicia y entrada
+## 118:14-21: vida, justicia y entrada #tehilim_118_14-21
 
 «Mi fuerza y mi cántico es יה, y llegó a ser para mí salvación». Eric relaciona esta confesión con una vida que no es consumida por el golpe recibido: «no moriré, sino que viviré y contaré las obras de יה». El verso no promete que ningún creyente muera físicamente; en el contexto afirma que el orante ha sido preservado para testificar. **ישועה** (_yeshuah_) significa «salvación, liberación o victoria»; la relación con la obra salvadora del Mesías es canónica y pedagógica, mientras el rescate del orante es el sentido inmediato.
 
@@ -118,5 +118,5 @@ Tehilim 117–118 no separa la invitación universal de la historia particular d
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 117-118» — <https://www.youtube.com/watch?v=ntYffcwEoHw> — source_id: `youtube:ntYffcwEoHw`.
+- Video: «Tehilim/Himnos/Salmo Cap 117-118» — <https://www.youtube.com/watch?v=ntYffcwEoHw> — `source_id`: `youtube:ntYffcwEoHw`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

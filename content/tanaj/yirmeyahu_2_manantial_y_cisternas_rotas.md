@@ -83,6 +83,6 @@ Jeremías 2 llama a distinguir entre una fuente que da vida y una cisterna que s
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de Matot-Mas'ey (2018) La fuente de Yisra'el](https://www.youtube.com/watch?v=LfXDqma0ONk) — source_id: `youtube:LfXDqma0ONk`.
+- Video: [Haftarah de Matot-Mas'ey (2018) La fuente de Yisra'el](https://www.youtube.com/watch?v=LfXDqma0ONk) — `source_id`: `youtube:LfXDqma0ONk`.
 - Texto bíblico local: Jeremías 2 en el índice OE (`docs/scriptures/oe/json/jeremiah/2.json`).
 - Esta nota organiza la enseñanza pública y la contrasta con el texto bíblico local; no presenta una transcripción automática como cita literal.

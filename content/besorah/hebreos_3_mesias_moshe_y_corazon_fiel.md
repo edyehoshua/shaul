@@ -41,7 +41,7 @@ La nota sigue Hebreos 3:1-19 en orden y conserva las observaciones de la clase c
 | #hebrews_3_7-11  | **על־כן כאשר אמר רוח הקדש היום אם־בקולו תשמעו**                                                                            | El Salmo 95 convierte la historia del desierto en palabra viva para la comunidad.                 |
 | #hebrews_3_12-19 | **ראו נא אחי פן־יהיה באחד מכם לב רע וחסר אמונה לסור מן־אלהים חיים**                                                        | La incredulidad se diagnostica como alejamiento y endurecimiento, no como mera falta intelectual. |
 
-## Hebreos 3:1-6: mirar al enviado y al Hijo sobre la casa
+## Hebreos 3:1-6: mirar al enviado y al Hijo sobre la casa #hebrews_3_1-6
 
 El capítulo comienza con «por tanto»: quienes participan de un llamamiento celestial deben fijar la mirada en Yehoshua, llamado aquí enviado y sumo sacerdote de la confesión. **(ἀπόστολος)**, _apostolos_, significa enviado o delegado; en este contexto su fuerza es la misión recibida de Elohim. «Apóstol» es una transliteración tradicional y «enviado» una glosa ordinaria, relativamente exacta. **(ἀρχιερεύς)**, _archiereus_, significa sumo sacerdote; la equivalencia es directa como oficio, aunque el desarrollo de Hebreos amplía el alcance sacerdotal del Mesías.
 
@@ -49,7 +49,7 @@ Eric observa que la fidelidad de Yehoshua debe leerse junto con la de Moshéh, n
 
 Moshéh es fiel «como siervo» en toda la casa, para testimonio de lo que había de hablarse; el Mesías es fiel «como Hijo sobre su casa». **(θεράπων)**, _therapōn_, significa servidor o asistente; en 3:5 describe una función honrosa, no un insulto. **(υἱός)**, _huios_, significa hijo o descendiente; aquí señala posición y autoridad filial, no solo parentesco biológico. La diferencia entre «siervo en» y «Hijo sobre» es textual y gobierna la lectura: la honra de Moshéh permanece, mientras la del Hijo es mayor.
 
-## Hebreos 2:14-18 como marco: semejanza, prueba y liberación
+## Hebreos 2:14-18 como marco: semejanza, prueba y liberación #hebrews_2_14-18
 
 La clase vuelve a la unidad anterior para impedir que «participó de lo mismo» y «semejante a sus hermanos» se conviertan automáticamente en «idéntico» o «pecaminoso». Eric propone que la comparación se concentra en la condición de quienes estaban sujetos a servidumbre y al temor de la muerte: Yehoshua se pone al lado de ellos para llevar el juicio y ejercer el oficio sacerdotal. La observación es una lectura atribuida que debe ser medida contra Hebreos 2:14-18. El texto sí vincula la participación del Mesías con la muerte, la liberación, la descendencia de Abraham, el sacerdocio misericordioso y la ayuda a quienes son probados; no afirma que él haya pecado.
 
@@ -57,13 +57,13 @@ La clase vuelve a la unidad anterior para impedir que «participó de lo mismo»
 
 Eric también relaciona el verbo hebreo **(נשא)**, _nasa_, con llevar, cargar o quitar algo de encima, y recuerda que «perdonar» puede traducir algunos contextos de ese campo. Esa conexión es **pedagógica y aproximada**: Hebreos 2 está escrito en griego y usa su propio vocabulario de liberación y expiación. El punto comprobable es que el capítulo presenta al Mesías como quien libera y como sumo sacerdote; no conviene derivar una equivalencia universal entre cada uso de _nasa_ y «perdonar».
 
-## Hebreos 3:7-11: «hoy» y el corazón endurecido
+## Hebreos 3:7-11: «hoy» y el corazón endurecido #hebrews_3_7-11
 
 Después de establecer la diferencia entre Moshéh y el Hijo, el autor cita el Salmo 95: «hoy, si oyereis su voz, no endurezcáis vuestros corazones». **(σήμερον)**, _sēmeron_, significa hoy; su fuerza contextual actualiza la advertencia para los oyentes de la carta. No es solo una fecha del pasado. **(σκληρύνω)**, _sklērynō_, significa endurecer o volver obstinado; aquí describe una resistencia moral y comunitaria ante la voz de Elohim. «Corazón duro» es una glosa directa de la imagen, aunque no agota la antropología hebrea de la interioridad.
 
 La referencia a Meribah y Massah recuerda que Israel vio las obras de Elohim y aun así lo puso a prueba. Eric enfatiza que la experiencia no debe reducirse a una emoción momentánea: el problema es perseverar en una orientación que se aparta de Elohim. El texto local sostiene la conexión entre oír, ver, probar y errar; la aplicación a cada crisis contemporánea es **pedagógica**, no una autorización para identificar a personas concretas con la generación del desierto sin examen.
 
-## Hebreos 3:12-19: exhortación mutua y entrada impedida
+## Hebreos 3:12-19: exhortación mutua y entrada impedida #hebrews_3_12-19
 
 El autor pasa de la historia a la vigilancia: «mirad, hermanos», para que no haya en alguno un corazón malo de incredulidad que se aparte del Elohim vivo. **(ἀπιστία)**, _apistia_, significa incredulidad, falta de confianza o infidelidad; en 3:12 su fuerza es relacional y perseverante, no una duda pasajera aislada. **(ἀποστῆναι)**, _apostēnai_, significa apartarse o retirarse; «alejarse» es una glosa contextual directa. La respuesta no es control jerárquico, sino exhortarse unos a otros cada día mientras se dice «hoy».
 
@@ -104,6 +104,6 @@ Hebreos 3 honra a Moshéh como siervo fiel y afirma una honra mayor para Yehoshu
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 4: Yehoshúa' Hamashíaj superior a Moshéh» — https://www.youtube.com/watch?v=Z1T5cyGP16s — source_id: `youtube:Z1T5cyGP16s`.
+- «La carta a los hebreos parte 4: Yehoshúa' Hamashíaj superior a Moshéh» — https://www.youtube.com/watch?v=Z1T5cyGP16s — `source_id`: `youtube:Z1T5cyGP16s`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

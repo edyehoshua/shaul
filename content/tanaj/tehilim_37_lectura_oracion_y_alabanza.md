@@ -39,7 +39,7 @@ La clase presenta Tehilim 37 como una composición alfabética: sus unidades ava
 | #tehilim_37_21-31 | **וצדיק חונן ונותן**; **מיהוה מצעדי גבר כוננו**; **תורת אלהיו בלבו**                                                           | La justicia se reconoce en prestar, dar, caminar y guardar la Torah en el corazón.                  |
 | #tehilim_37_32-40 | **קוה אל יהוה ושמר דרכו**; **צדיקים יירשו ארץ וישכנו לעד עליה**; **כי חסו בו**                                                 | Esperar y guardar el camino desemboca en refugio y salvación.                                       |
 
-## 37:1-9 — No arder ante el éxito del mal
+## 37:1-9 — No arder ante el éxito del mal #tehilim_37_1-9
 
 El v. 1 abre con dos prohibiciones paralelas: **אל תתחר במרעים**, «no te ardas/no te irrites con los malhechores», y **אל תקנא בעשי עולה**, «no tengas celo/envidia de los que hacen iniquidad». Eric explica que el verbo **תתחר**, _titchar_, procede de la raíz **חרה**, _charah_, «arder». Relaciona ese arder con el uso cotidiano de «estar ardido»: una mezcla de envidia, impotencia, inquietud y rivalidad al ver a otro avanzar. La relación es **aproximada pero contextual**: el sentido del verbo es calentarse o irritarse, y la explicación describe la reacción que el paralelismo con **תקנא**, _teqanne_, «tener celo, envidiar», pone en escena.
 
@@ -53,7 +53,7 @@ Los vv. 4-6 vinculan esa práctica con el deleite y la petición: **והתענג
 
 El v. 6 promete que יהוה sacará la justicia como luz y el juicio como mediodía. Eric subraya la exposición pública: lo que parece oculto será manifestado con la claridad del mediodía. Esa lectura es **metafórica pero apoyada por la imagen textual**. En los vv. 7-9 la respuesta vuelve a ser quietud: **דום ליהוה**, «calla/guarda silencio ante יהוה», y espera; deja la ira y abandona el enojo. Eric relaciona callar con escuchar: los preconceptos y deseos pueden hacer que el lector encuentre en la Escritura solamente lo que quería hallar. El verbo **דום**, _dom_, tiene el sentido normal de callar, aquietarse o cesar; aplicarlo a una disciplina de escucha es **contextual**, no una nueva definición léxica.
 
-## 37:10-20 — La hierba desaparece, la herencia permanece
+## 37:10-20 — La hierba desaparece, la herencia permanece #tehilim_37_10-20
 
 El v. 10 repite la brevedad del malvado: «aún un poco, y no hay impío». Eric conecta «aún un poco» con la esperanza escatológica de que el orden presente será removido, aunque su asociación con otros textos y con la transformación de cielos y tierra es **canónica y pedagógica**, no el significado aislado de este verso. El v. 11 contrapone: **וענוים יירשו ארץ**, «los mansos heredarán la tierra», y **והתענגו על רב שלום**, «se deleitarán en abundancia de paz».
 
@@ -63,7 +63,7 @@ Los vv. 12-15 describen al malvado conspirando contra el justo, rechinando los d
 
 El v. 17 afirma que los brazos de los malvados serán quebrados y que יהוה sostiene a los justos. En vv. 18-19 **יודע יהוה ימי תמימם**, «יהוה conoce los días de los íntegros», y no serán avergonzados en tiempo malo ni faltarán en días de hambre. Eric enlaza **תמימם**, _temimim_, con integridad o completitud: quienes reciben la palabra no la agregan ni la quitan. La relación entre «íntegros» y esa regla de transmisión es **pedagógica**, aunque la palabra sí señala integridad. Sobre «serán saciados», Eric evita prometer una abundancia milagrosa: estar saciado puede significar que lo que hay basta, como el reparto suficiente en el desierto. Esa aplicación conserva el verbo **ישבעו**, _yisba‘u_, «serán satisfechos», sin convertirlo en garantía de exceso material.
 
-## 37:21-31 — La fidelidad se vuelve generosidad y camino
+## 37:21-31 — La fidelidad se vuelve generosidad y camino #tehilim_37_21-31
 
 El v. 21 ofrece una prueba económica y moral: el malvado toma prestado y no paga; el justo **חונן ונותן**, «se compadece y da». Eric desarrolla una consecuencia concreta: la bendición no consiste en imitar el consumo del vecino ni endeudarse para alcanzar su apariencia, sino en vivir con lo suficiente y llegar a poder prestar o dar. El texto sí contrasta incumplimiento con generosidad; la aplicación financiera detallada es **atribuible a la clase**.
 
@@ -73,7 +73,7 @@ En vv. 25-26 el salmista habla como testigo: fue joven y envejeció, y no vio ab
 
 El v. 27 resume: **סור מרע ועשה טוב**, «apártate del mal y haz el bien», y habita para siempre. Los vv. 28-31 explican por qué: יהוה ama el juicio, no abandona a sus piadosos, la boca del justo habla sabiduría y su lengua justicia, y **תורת אלהיו בלבו**, «la Torah de su Elohim está en su corazón». Eric relaciona este corazón con una vida en la que la palabra ya está incorporada, no con una emoción momentánea. El texto sostiene directamente la Torah en el corazón y la estabilidad del camino; la conexión con «no torcer la Escritura» es una inferencia coherente de la clase.
 
-## 37:32-40 — Esperar, guardar el camino y refugiarse
+## 37:32-40 — Esperar, guardar el camino y refugiarse #tehilim_37_32-40
 
 Los vv. 32-34 muestran al malvado observando al justo para matarlo, pero יהוה no lo entrega en su mano. La instrucción es **קוה אל יהוה ושמר דרכו**, «espera en יהוה y guarda su camino». Eric explica **קוה**, _qavah_, como esperar que la voluntad de יהוה se manifieste, no como pasividad ansiosa. El sentido normal es esperar o aguardar; la referencia a una espera orientada por la voluntad divina es **contextual y exacta en dirección**.
 
@@ -125,5 +125,5 @@ Tehilim 37 no enseña a negar que el mal parezca prosperar; enseña a no arder p
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 37» — <https://www.youtube.com/watch?v=l2t0JtrDcK0> — source_id: `youtube:l2t0JtrDcK0`.
+- «Tehilim/Himnos/Salmo Cap 37» — <https://www.youtube.com/watch?v=l2t0JtrDcK0> — `source_id`: `youtube:l2t0JtrDcK0`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

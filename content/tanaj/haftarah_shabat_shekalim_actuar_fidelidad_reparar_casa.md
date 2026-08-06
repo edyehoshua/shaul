@@ -70,7 +70,7 @@ Eric lee Shemot 30:11-16 para cuestionar la idea de un impuesto nacional indifer
 
 La clase distingue entre una contribución vinculada al servicio y una carga que se cobra a personas sin relación con aquello que financia. Esa distinción puede expresarse con cuidado: el texto de Shemot establece un acto regulado para una situación concreta, mientras que 2 Reyes describe dinero que sube al corazón de una persona para llevarlo a la casa de יהוה. La nota no resuelve aquí toda la historia de las monedas del templo ni la relación entre medio siclo bíblico y denominaciones griegas o romanas. Sí conserva el núcleo de Eric: no se debe usar una palabra sagrada para justificar una administración que el texto no ordena.
 
-## 3. Cuando la plata no llega a las grietas — 2 Reyes 12:1-8
+## 3. Cuando la plata no llega a las grietas — 2 Reyes 12:1-8 #melajim_bet_12_1-8
 
 Iehoásh hace lo recto mientras recibe la instrucción de Iehoiada, pero el narrador añade que los lugares altos permanecen. La evaluación es matizada: hay una acción correcta sin una reforma total. Luego el rey enumera distintas entradas de dinero: las santidades, el dinero de quien pasa, el dinero de la estimación y lo que sube sobre el corazón de cada persona. El destino indicado es reparar las grietas de la casa de יהוה.
 
@@ -78,7 +78,7 @@ El problema aparece en el año veintitrés: los sacerdotes aún no han reforzado
 
 La solución establece una separación: los sacerdotes no tomarán el dinero del pueblo para sí ni repararán las grietas con un fondo ambiguo. El relato no presenta el control como enemigo de la fe. Presenta una estructura que hace que la plata pueda seguir su propósito, y que deja visible quién la recibe y para qué.
 
-## 4. La caja, los obreros y la fidelidad — 2 Reyes 12:9-16
+## 4. La caja, los obreros y la fidelidad — 2 Reyes 12:9-16 #melajim_bet_12_9-16
 
 Iehoiada toma un cofre, perfora una abertura y lo coloca junto al altar. Los guardianes del umbral depositan allí el dinero que llega a la casa de יהוה. Cuando hay mucho, el escriba del rey y el sumo sacerdote lo atan y cuentan la plata. Después la entregan a los hacedores del trabajo: grabadores de madera, constructores, albañiles y cortadores de piedra. La reparación incluye materiales y todo lo que se gasta en reforzar la casa.
 

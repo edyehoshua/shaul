@@ -44,31 +44,31 @@ El título público y la exposición permiten atribuir a Eric el marco del gozo,
 | #kefa_bet_3_8-14    | La demora aparente no cancela la promesa; llama a santidad y espera.                                       | Apoyo textual cualificado; no autoriza a fijar calendarios.            |
 | #revelation_3_10-11 | «Retén lo que tienes» convierte la expectativa en perseverancia presente.                                  | Apoyo textual directo; la promesa no es licencia para especulación.    |
 
-## Revelation 1:3: leer, oír y guardar
+## Revelation 1:3: leer, oír y guardar #revelation_1_3
 
 La apertura de Revelation declara bienaventurado al que lee y a quienes oyen las palabras de la profecía y guardan lo escrito, porque el tiempo está cerca. Eric llama la atención sobre el contraste entre «bienaventurado» y una vida que puede incluir aflicción. El texto sostiene una bienaventuranza de obediencia, no una promesa de comodidad inmediata: la persona recibe una razón para perseverar porque la palabra tiene autoridad y exige respuesta.
 
 **(μακάριος)**, _makarios_, significa bienaventurado, dichoso o favorecido; en Revelation 1:3 su fuerza contextual es la condición favorable del que recibe y guarda la palabra, no una emoción obligatoria. «Bienaventurado» es una glosa **directa**, mientras equipararlo a sentirse bien en todo momento sería **ilegítimo**. **(τηρέω)**, _tēreō_, significa guardar, conservar, vigilar u obedecer; aquí califica la respuesta perseverante a lo escrito. «Guardar» es **directo y contextual**; no describe acumular información sin practicarla. **(καιρός)**, _kairos_, significa tiempo, ocasión o momento decisivo; en «el tiempo está cerca» su fuerza es escatológica y exhortativa, no una cifra de calendario. «Tiempo» es **directo**, y hacer de la palabra una fecha calculable sería **inferencial e ilegítimo**.
 
-## Mateo 5:10-12: gozo en medio de la persecución
+## Mateo 5:10-12: gozo en medio de la persecución #matityahu_5_10-12
 
 Yehoshua llama bienaventurados a quienes padecen persecución por causa de la justicia y a quienes reciben vituperio por causa de él. Eric insiste en una precisión importante: no hay que fingir que sufrir es agradable, pero sí reconocer que el padecimiento fiel participa de una historia que el cielo toma en serio. Mateo conecta la persecución con los profetas y con una recompensa futura; no declara que toda pérdida, dolor o rechazo sea automáticamente persecución por justicia.
 
 **(διώκω)**, _diōkō_, significa perseguir, acosar o procurar intensamente; en Mateo 5:10 su fuerza contextual es oposición padecida por quienes viven la justicia, no cualquier dificultad cotidiana. «Perseguir» es **directo**. **(ὀνειδίζω)**, _oneidizō_, significa reprochar, insultar o injuriar; en 5:11 nombra el agravio verbal recibido por causa del Mesías. «Vituperar» es **aproximado** en español contemporáneo, pero su fuerza es pública y hostil. **(χαίρω)**, _chairō_, significa alegrarse, regocijarse o recibir con gozo; aquí el imperativo ordena una perspectiva de esperanza, no la negación pedagógica de la tristeza. «Gozaos» es **directo**, pero aplicarlo como obligación de aparentar euforia sería una lectura **ilegítima**.
 
-## Kefa Alef 3:14-17 y 4:12-16: padecer por el bien
+## Kefa Alef 3:14-17 y 4:12-16: padecer por el bien #kefa_alef_3_14-17 #kefa_alef_4_12-16
 
 Kefa afirma que, si los creyentes padecen por causa de la justicia, son bienaventurados; luego manda santificar al Mesías en el corazón y responder con mansedumbre. En el capítulo 4 advierte que el fuego de prueba no debe sorprender y separa el sufrimiento por llevar el nombre del Mesías del sufrimiento como homicida, ladrón o malhechor. Esta es la prueba más clara de la observación de Eric: el nombre del Mesías delante del sufrimiento importa, pero no convierte una mala conducta en martirio.
 
 **(πάσχω)**, _paschō_, significa padecer, sufrir o experimentar; su fuerza contextual depende de la causa del padecimiento. «Sufrir» es **directo**, pero identificar la causa exige leer la perícopa completa. **(ἀγαθοποιέω)**, _agathopoieō_, significa hacer el bien o actuar benéficamente; en Kefa 3:17 contrasta con sufrir por mal hacer. La glosa es **directa**, y la aplicación de Eric recibe apoyo textual. **(ὄνομα)**, _onoma_, significa nombre, reputación o identidad pública; en Kefa 4:16 «como cristiano» sitúa la vergüenza y la glorificación en una pertenencia visible. «Nombre» es **directo**, mientras convertirlo en una fórmula mágica sería **ilegítimo**.
 
-## Kefa Bet 3:8-14: cercanía sin cálculo de fechas
+## Kefa Bet 3:8-14: cercanía sin cálculo de fechas #kefa_bet_3_8-14
 
 Kefa responde a quienes interpretan la promesa como demora fallida. Para el Adón, mil años son como un día; la paciencia busca que las personas lleguen al arrepentimiento. El día viene como ladrón y, por eso, la comunidad debe vivir en conducta santa y piedad. Eric aplica este pasaje al sentido práctico de «cerca»: no significa que el lector pueda calcular cuántos años faltan, sino que la venida puede irrumpir y debe gobernar el presente.
 
 **(βραδύνω)**, _bradynō_, significa tardar, demorarse o ser lento; en Kefa Bet 3:9 su fuerza contextual niega que la promesa sea negligente y dirige la atención a la paciencia. «Tardar» es **directo**, pero afirmar una cronología detallada sería **inferencial**. **(μετάνοια)**, _metanoia_, significa cambio de mente o arrepentimiento; aquí describe el retorno que la paciencia divina procura. «Arrepentimiento» es **directo**; la relación pedagógica con **(תשובה)**, _teshuvá_, «retorno», es **aproximada**, no una equivalencia automática entre lenguas. **(ἥκω)**, _hēkō_, significa haber llegado, estar presente o venir; si el texto local usa la idea de cercanía, su fuerza exhortativa debe conservar la vigilancia y no la especulación.
 
-## Revelation 3:10-11: retener lo recibido
+## Revelation 3:10-11: retener lo recibido #revelation_3_10-11
 
 La promesa a la comunidad que guardó la palabra de perseverancia termina con «retén lo que tienes, para que ninguno tome tu corona». La expectativa se vuelve acción: guardar, perseverar y no soltar. **(κρατέω)**, _krateō_, significa sujetar, retener o mantener firme; aquí su fuerza contextual es perseverancia activa frente a presión. «Retén» es **directo**. **(στέφανος)**, _stephanos_, significa corona o guirnalda de victoria; en este contexto representa honor y recompensa, no un objeto que autorice orgullo. «Corona» es **directo**, mientras toda reconstrucción de su materialidad sería **pedagógica**.
 

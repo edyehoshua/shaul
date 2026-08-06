@@ -49,7 +49,7 @@ La nota reúne las partes 15 y 16 de la serie de Eric de Jesús Rodríguez Mendo
 | #revelation_6_9-11 | וארא מתחת למזבח את נפשות הטבוחים ... עד מתי לא תשפט ולא תקום את דמינו ... ויתן לכל אחד מהם שמלה לבנה | Los degollados claman por justicia y reciben una vestidura blanca y espera. |
 | #revelation_6_12-17 | והנה רעש גדול ויקדר השמש כשק שער והירח נהפך לדם ... כי בא יום אפו הגדול ומי יעמד | El sexto sello conmueve cielo y tierra y termina con el día de la ira. |
 
-## El Cordero abre los sellos y salen los caballos: 6:1-8
+## El Cordero abre los sellos y salen los caballos: 6:1-8 #revelation_6_1-8
 
 El capítulo comienza con el Cordero abriendo uno de los siete sellos. Eric insiste en que no son los jinetes quienes controlan la visión: salen porque el Cordero abre, y la voz de uno de los seres vivientes convoca a mirar. Esta observación está apoyada por la sintaxis narrativa. **(σφραγίς)**, *sphragis*, significa «sello» y puede señalar cierre, autenticación o reserva; aquí la apertura progresiva revela acontecimientos, pero no autoriza por sí sola un calendario moderno.
 
@@ -59,13 +59,13 @@ El segundo caballo retira la paz y entrega una espada grande. Eric lo conecta co
 
 El caballo negro lleva balanzas y el tercer sello anuncia precios de trigo y cebada, mientras protege aceite y vino. Eric usa esta diferencia para observar una economía de escasez desigual. **(ζυγός)**, *zygos*, «yugo» o balanza, se aproxima a **(מאזנים)**, *moznayim*; «balanzas» es una correspondencia contextual, no una prueba de una política económica específica. El caballo verdoso culmina la serie: su jinete se llama Muerte y el Seol lo sigue. La clase lee los cuatro caballos como una secuencia de conquista, guerra, hambre y mortalidad; la progresión es visible, mientras su encaje exacto con imperios sucesivos queda pendiente.
 
-## El clamor bajo el altar: 6:9-11
+## El clamor bajo el altar: 6:9-11 #revelation_6_9-11
 
 El quinto sello cambia el foco de los caballos a las **(ψυχαί)**, *psychai*, las vidas o personas de los degollados bajo el altar. Eric recalca que la visión no presenta a los perseguidos como olvidados: ellos claman al Señor santo y verdadero preguntando hasta cuándo juzgará y vengará su sangre. La palabra **(ἐσφάγμενοι)**, *esphagmenoi*, describe a quienes han sido degollados; no debe reducirse a una categoría abstracta de «mártires» sin observar la violencia concreta del texto.
 
 La respuesta no es una fecha inmediata. Cada uno recibe una vestidura blanca y se le ordena descansar un poco más hasta completarse el número de sus compañeros. Eric emplea esta demora para enseñar paciencia y para advertir contra quienes convierten la profecía en cálculo. La observación es coherente con 6:11: la justicia está prometida, pero la visión no entrega aquí una tabla cronológica. La identificación de los perseguidos con grupos históricos concretos debe permanecer como inferencia cualificada hasta que se cotejen las fuentes que la clase invoca.
 
-## El sexto sello: conmoción, lenguaje profético y el día de la ira: 6:12-17
+## El sexto sello: conmoción, lenguaje profético y el día de la ira: 6:12-17 #revelation_6_12-17
 
 Con el sexto sello aparece un gran terremoto; el sol se oscurece, la luna se vuelve sangre, las estrellas caen y el cielo se retira como un rollo. Eric rechaza leer automáticamente cada imagen como un pronóstico meteorológico aislado. La relaciona con el lenguaje de Yeshayahu, con Marcos 13 y con Hebreos 12: la conmoción representa la manifestación del poder de יהוה y la remoción de lo movible para que permanezca lo inconmovible. Esta es una observación teológica concreta de la clase y una conexión intertextual plausible; no elimina la necesidad de revisar cada pasaje en su propio contexto.
 

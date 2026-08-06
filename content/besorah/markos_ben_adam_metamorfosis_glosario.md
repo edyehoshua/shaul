@@ -66,7 +66,7 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 - Se conserva la línea argumental de la clase en forma de glosario, no cada giro oral ni como una segunda nota canónica de capítulo.
 - El video llama a este material "capítulo 2" del estudio de Marcos, pero los anclajes bíblicos principales están en #markos_9_1-9, #markos_10_33 y #markos_13_26.
 - Las referencias a Targum, Midrash, Talmud y literatura judía quedan como marco de la clase, pero se marcan como pendientes cuando no se cotejó la fuente exacta.
-- Para Tanaj y Besorah se usó el corpus local disponible, confirmado con `npm run scriptures:ensure` el 17 de julio de 2026.
+- Para Tanaj y Besorah se usó el corpus local disponible, confirmado el 17 de julio de 2026.
 
 ## Ruta de la clase
 

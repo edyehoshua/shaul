@@ -56,7 +56,7 @@ Se recorren los catorce versos en orden, distinguiendo observaciones de estructu
 | #tehilim_148_11-12 | **מלכי ארץ וכל לאמים שרים וכל שפטי ארץ / בחורים וגם בתולות זקנים עם נערים**                                      | Reyes, pueblos, príncipes, jueces, jóvenes, vírgenes, ancianos y niños.                                            |
 | #tehilim_148_13-14 | **יהללו את שם יהוה כי נשגב שמו לבדו הודו על ארץ ושמים / וירם קרן לעמו תהלה לכל חסידיו לבני ישראל עם קרבו**       | Su Nombre es excelso; eleva el cuerno de su pueblo, alabanza de sus benevolentes, hijos de Israel, pueblo cercano. |
 
-## El quiasmo: de los cielos a la tierra — Tehilim 148:1-6
+## El quiasmo: de los cielos a la tierra — Tehilim 148:1-6 #tehilim_148_1-6
 
 Eric abre explicando **quiasmo**: una composición en la que la primera idea guarda relación con la última, ya sea por repetición o contraste. En este salmo propone que los vv. 1-6 apelan a los cielos y los vv. 7-14 a la tierra; dentro de la primera mitad se desciende desde las alturas hasta los astros y las aguas. La descripción «reloj de arena» es una herramienta de lectura, no un dato que el salmo nombre. Conviene conservarla como observación estructural calificada: la frontera entre secciones es clara por la repetición de «desde los cielos»/«desde la tierra», aunque no todas las correspondencias propuestas son demostrables.
 
@@ -64,7 +64,7 @@ Los vv. 1-2 convocan a **מרומים** (_meromim_, alturas), **מלאכים** (
 
 Eric insiste en que todo **מלאך** es criatura y no יהוה. El v. 5 confirma la distinción: «Él ordenó y fueron creados». La conexión con Hebreos y con la confesión de la deidad de Yehoshua es teológica y canónica; el verso de este salmo sí establece que los convocados fueron creados por mandato de יהוה. El v. 6 añade **חק** (_joq_, estatuto, límite o decreto): los estableció para siempre y su norma no pasará. «Norma que no puede degradarse» expresa la aplicación de Eric, pero el sentido directo es permanencia del orden establecido.
 
-## Sol, luna, estrellas y aguas que anuncian — Tehilim 148:3-6
+## Sol, luna, estrellas y aguas que anuncian — Tehilim 148:3-6 #tehilim_148_3-6
 
 En el v. 3 el sol, la luna y las estrellas de luz reciben el imperativo de alabar. Eric relaciona esos astros con las señales que gobiernan tiempos y convocaciones según Bereshit 1:14-18, y con la estabilidad de los ciclos. El salmo no desarrolla un calendario, pero sí vincula la alabanza con un orden cósmico que יהוה puso. La observación de que los astros «comunican» un mensaje es una aplicación de **מלאך** como agente; no debe confundirse con afirmar que cada fenómeno tenga voz personal.
 
@@ -72,7 +72,7 @@ Eric usa la luna como imagen pedagógica de una luz que crece hacia plenitud y r
 
 El v. 5 vuelve a la razón: «porque él ordenó y fueron creados». Eric usa este verbo para defender que agentes, astros y fenómenos no son divinos. Los signos pueden manifestar presencia o ejecutar propósito, pero no son la esencia de יהוה. Esa distinción puede probarse por el contraste entre el Creador y lo creado, y protege el salmo de convertir la creación en objeto de adoración.
 
-## La tierra obedece: profundidad, clima y vida — Tehilim 148:7-10
+## La tierra obedece: profundidad, clima y vida — Tehilim 148:7-10 #tehilim_148_7-10
 
 La segunda mitad comienza «desde la tierra» y enumera **תנינים** (_tanninim_, grandes criaturas marinas o monstruos marinos) y **תהמות** (_tehomot_, abismos). Eric destaca que las profundidades marinas, incluso con criaturas que la ciencia apenas puede observar, proclaman sabiduría y pericia. La aplicación científica es ilustrativa; el texto sí incluye los abismos como parte de la convocatoria, y no limita la alabanza a lo visible desde la superficie.
 
@@ -80,7 +80,7 @@ El v. 8 suma fuego, granizo, nieve, **קיטור** (_qitor_, vapor o niebla), vi
 
 Los vv. 9-10 mencionan montes, colinas, árbol frutal, cedros, animales, ganado, **רמש** (_remes_) y ave alada. Eric corrige traducir **רמש** simplemente como «reptil»: el término puede designar el conjunto de animales que se mueven o seres vivientes pequeños, y Tehilim 104:25 muestra animales marinos dentro de un campo amplio. La precisión es útil, pero debe marcarse como aproximación de campo semántico, no como que toda traducción tradicional sea necesariamente falsa en todos los contextos. El contraste entre árbol frutal y cedro enseña, en la aplicación de Eric, que el pueblo debe dar fruto y ofrecer sombra; esa exhortación es pedagógica, no una glosa del sustantivo botánico.
 
-## De reyes a niños y el pueblo cercano — Tehilim 148:11-14
+## De reyes a niños y el pueblo cercano — Tehilim 148:11-14 #tehilim_148_11-14
 
 El poema alcanza su punto humano en los vv. 11-12: reyes, naciones, príncipes, jueces, jóvenes, vírgenes, ancianos y niños. Eric observa el ascenso desde lo pequeño hasta las autoridades y, al mismo tiempo, la inclusión de todas las edades. El llamado no deja a la política fuera de la adoración ni limita la alabanza a una élite. La palabra **בתולות** (_betulot_, vírgenes o jóvenes en estatus de virginidad) recibe una explicación extensa en la clase. Eric distingue **עלמה** (_almah_, joven mujer, con virginidad natural o no orientada al matrimonio) de **בתולה**, una joven presentada como virgen para matrimonio cuyo estatus debía corroborarse. Esa distinción puede ser pedagógicamente útil, pero el v. 12 usa **בתולות**, no **עלמות**; por eso no se debe convertir la digresión en una traducción del verso.
 
@@ -136,5 +136,5 @@ Tehilim 148 no diviniza la naturaleza: convoca cielos, agentes, astros, aguas, c
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo cap 148» — <https://www.youtube.com/watch?v=t6IM15Pf9x8> — source_id: `youtube:t6IM15Pf9x8`.
+- Video: «Tehilim/Himnos/Salmo cap 148» — <https://www.youtube.com/watch?v=t6IM15Pf9x8> — `source_id`: `youtube:t6IM15Pf9x8`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

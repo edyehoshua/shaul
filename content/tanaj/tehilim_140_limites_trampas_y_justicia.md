@@ -43,7 +43,7 @@ Esta nota desarrolla la enseñanza del hermano Eric de Jesús Rodríguez Mendoza
 - **140:6-8 — la trampa junto al מעגל:** Eric entiende **מעגל** como cerco, ronda o espacio de protección, y relaciona la red tendida al lado con la estrategia de sacar al creyente del cerco de la Torah. El texto confirma “red junto a la senda” y la petición de que יהוה cubra la cabeza; la identificación total del cerco con una doctrina es aplicación pedagógica.
 - **140:9-14 — juicio, afligido y rectos:** Eric analiza la difícil traducción del v. 10 y entiende **עמל** como influencia o carga que rodea; llama a no conceder los deseos del malvado. Termina resaltando que el pobre recibe דין y los rectos confiesan el nombre y habitan ante el rostro de יהוה. El cierre del salmo apoya con claridad la justicia para el afligido y la esperanza comunitaria.
 
-## 140:1-5: rescate del que rompe los límites
+## 140:1-5: rescate del que rompe los límites #psalms_140_1-5
 
 El encabezamiento dice **למנצח מזמור לדוד**, “para el director, salmo de David”. La súplica comienza: **חלצני יהוה מאדם רע**, “líbrame, יהוה, del hombre malo”, y continúa **מאיש חמסים תנצרני**, “del hombre de חמס, guárdame”. **חלץ** significa extraer, rescatar o arrancar de una situación; **נצר** significa guardar, vigilar o preservar. Eric destaca que el salmista pide tanto ser sacado del daño como ser preservado para no perder el camino.
 
@@ -55,7 +55,7 @@ La frase **חמת עכשוב תחת שפתימו** es una de las dificultades de
 
 El v. 5 repite la súplica: **שמרני יהוה מידי רשע מאיש חמסים תנצרני**, “guárdame, יהוה, de la mano del malvado; del hombre de חמס, presérvame”, y explica su propósito: **אשר חשבו לדחות פעמי**, “que han pensado empujar mis pasos”. **דחה** significa empujar, expulsar o apartar; **פעם** significa paso o pisada. Eric relaciona esta imagen con sacar al orante de la senda de la Torah. El texto sostiene literalmente el intento de hacerle tropezar o desviarse; la identificación de la senda con la Torah es una aplicación canónica compatible con la oración, no una glosa obligatoria del sustantivo.
 
-## 140:6-8: foso, red y cabeza cubierta
+## 140:6-8: foso, red y cabeza cubierta #psalms_140_6-8
 
 El v. 6 describe la táctica: **טמנו גאים פח לי וחבלים פרשו רשת ליד מעגל**, “los soberbios escondieron una trampa para mí; tendieron cuerdas, una red junto a la senda”. **פח** significa trampa o lazo; **חבל** puede ser cuerda o lazo; **רשת** es red. Eric señala que los “soberbios” no son sólo personas orgullosas en abstracto: son quienes preparan un mecanismo de caída. También conecta la aparición repentina de una persona o propuesta con la necesidad de discernir, aunque advierte expresamente que no toda persona nueva es mala.
 
@@ -67,7 +67,7 @@ En v. 8 aparece una forma teológica densa: **יהוה אדני עז ישועת�
 
 La imagen final es **סכתה לראשי ביום נשק**, “has cubierto mi cabeza en el día de las armas o del combate”. **סכך** significa cubrir, proteger o entretejer una cubierta. Eric usa la cabeza cubierta para hablar de protección del pensamiento y del corazón frente al ataque. La relación es **pedagógica pero cercana**: el verso afirma protección en el día de combate; la extensión a pensamientos y corazón se apoya en el tema de la lengua y los planes, no en una anatomía explícita del verso.
 
-## 140:9-12: no conceder el deseo del malvado
+## 140:9-12: no conceder el deseo del malvado #psalms_140_9-12
 
 El v. 9 pide: **אל תתן יהוה מאויי רשע זממו אל תפק ירומו סלה**, “no concedas, יהוה, los deseos del malvado; no hagas prosperar su plan, para que no se exalten”. **מאוה** significa deseo o anhelo; **זמם** significa plan, intención o maquinación; **רום** significa elevarse o exaltarse. Eric traduce la petición como una súplica contra el proyecto del adversario y recuerda que el orante puede haber abierto una brecha por su pecado, pero aun así puede pedir que יהוה cierre el paso. Esa aplicación pastoral no borra la responsabilidad: el texto atribuye el plan al malvado y pide que no triunfe.
 
@@ -77,7 +77,7 @@ Eric propone entender **עמל** no sólo como “maldad” sino como carga, tra
 
 El v. 11 pide: **איש לשון בל יכון בארץ**, “que el hombre de lengua no se establezca en la tierra”, y añade que el hombre de violencia o mal lo cace el mal para derribarlo. **לשון** vuelve al centro: el peligro no es sólo fuerza física, sino una palabra que perturba y desplaza los límites. Eric llama a esta figura “el hombre del lenguaje” y la conecta con el adversario que usa discurso para sacar a otros del camino. La relación con la serpiente de v. 4 es temática y clara; la identificación con una potestad espiritual debe seguir marcada como lectura de la exposición.
 
-## 140:13-14: el juicio que sostiene la esperanza
+## 140:13-14: el juicio que sostiene la esperanza #psalms_140_13-14
 
 El cierre cambia la amenaza por certeza: **ידעת ידעתי כי יעשה יהוה דין עני ומשפט אביונים**, “sé, sí sé, que יהוה hará דין del afligido y משפט de los pobres”. **דין** significa juicio o administración de justicia; **משפט** significa justicia, derecho o veredicto; **עני** y **אביון** nombran al pobre, afligido o necesitado. Eric relaciona a estos pobres con quienes tienen hambre y sed de justicia y con la misión mesiánica. La relación es **canónica y pastoral**; el verso local sí afirma directamente que יהוה no abandona al vulnerable.
 
@@ -104,5 +104,5 @@ Tehilim 140 enseña a nombrar el peligro sin perder el centro. Eric aporta la at
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 140» — <https://www.youtube.com/watch?v=_l81sYVUsKo> — source_id: `youtube:_l81sYVUsKo`.
+- Video: «Tehilim/Himnos/Salmo Cap 140» — <https://www.youtube.com/watch?v=_l81sYVUsKo> — `source_id`: `youtube:_l81sYVUsKo`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

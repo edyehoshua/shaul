@@ -115,6 +115,6 @@ Qohélet 12 no termina en desesperanza ni en autosuficiencia. Llama a recordar a
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 30) Cap 12 fin de estudio» — https://www.youtube.com/watch?v=7ZW9xlpyD3g (`source_id: youtube:7ZW9xlpyD3g`).
+- «Qohélet-Eclesiastés (parte 30) Cap 12 fin de estudio» — https://www.youtube.com/watch?v=7ZW9xlpyD3g (`source_id`: youtube:7ZW9xlpyD3g`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

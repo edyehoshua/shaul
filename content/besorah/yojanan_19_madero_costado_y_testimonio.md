@@ -37,25 +37,25 @@ La fuente pública es «El Evangelio Según Yojanán/Juan Parte 71 Cap 19», tí
 | #iojanan_19_17-22 | «וַיִּשָּׂא אֶת־צְלָבוֹ»; «יֵשׁוּעַ הַנָּצְרִי מֶלֶךְ הַיְּהוּדִים» | El madero y el título público interpretan la ejecución.           |
 | #iojanan_19_23-30 | «צָמֵאתִי»; «נִשְׁלָם»; «וַיַּפְקֵד אֶת־רוּחוֹ»                     | La muerte llega como cumplimiento y entrega de la vida.           |
 
-## La realeza bajo la burla (19:1-7)
+## La realeza bajo la burla (19:1-7) #iojanan_19_1-7
 
 Pilatos toma a Yehoshua y lo azota. Los soldados trenzan una corona de espinas, le ponen un manto de púrpura y repiten: «¡Salve, Rey de los yehudim!». Eric observa que la escena no elimina la realeza: la boca de los soldados pretende burlarse, pero el relato hace visible una investidura invertida. «הִנֵּה הָאִישׁ» («he aquí el hombre») presenta al golpeado ante una multitud que exige crucifixión. El texto permite afirmar la ironía narrativa; no obliga a reconstruir qué intención psicológica tenía cada soldado.
 
 **(βασιλεύς)** (_basileus_) significa rey; su fuerza contextual es el título discutido y escrito en la escena, no una metáfora privada. Su relación con **(מלך)** (_melekh_) es aproximada y canónica: ambas formas nombran al rey, pero el griego del evangelio no queda demostrado por la raíz hebrea. **(στέφανος)** (_stephanos_) significa corona o guirnalda; aquí es una corona de espinas. La conexión pedagógica con coronación y sufrimiento conserva el contraste sin afirmar que la forma del objeto sea una ceremonia israelita normal.
 
-## «No tendrías autoridad» y la entrega (19:8-16)
+## «No tendrías autoridad» y la entrega (19:8-16) #iojanan_19_8-16
 
 Cuando Yehoshua entra de nuevo, Pilatos se atemoriza y pregunta de dónde es. Yehoshua guarda silencio. El gobernador dice que tiene autoridad para soltar o crucificar; la respuesta de Yehoshua limita esa pretensión: «No tendrías ninguna autoridad sobre Mí si no te fuera dada de arriba». Eric destaca que el poder imperial parece decidir, pero no posee la última explicación de la entrega. El texto sostiene la autoridad recibida y la responsabilidad real de quienes entregan; no permite llamar inocente a todo agente humano por el mero hecho de que exista una autoridad superior.
 
 Pilatos intenta soltarlo, pero el clamor político lo vence: «Si sueltas a este, no eres amigo de César». El evangelista coloca junto al tribunal una declaración de realeza: «He aquí su Rey». La clase observa la ironía: los acusadores prefieren el lenguaje imperial para conseguir una muerte, mientras el gobernador deja escrito que el ejecutado es Rey. La observación es textual en su estructura, aunque la reconstrucción de las motivaciones políticas requiere fuentes externas.
 
-## El madero y el título público (19:17-22)
+## El madero y el título público (19:17-22) #iojanan_19_17-22
 
 «Y cargando su madero, salió al lugar llamado de la Calavera». Luego los soldados lo crucifican entre dos hombres. Pilatos escribe en hebreo, griego y latín: «Yehoshua el Notzrí, Rey de los yehudim». Eric relaciona el madero cargado con la marcha del Rey hacia su entrega y subraya que el título queda visible para pueblos distintos. **(σταυρός)** (_stauros_) significa estaca, poste o cruz; en este contexto designa el instrumento de ejecución. Relacionarlo con **(עץ)** (_ets_), árbol o madera, es una conexión aproximada e intertextual, no una equivalencia de diccionario.
 
 Los principales sacerdotes piden cambiar «Rey de los yehudim» por «él dijo: Yo soy Rey». Pilatos responde: «Lo que he escrito, he escrito». La repetición convierte el rótulo en testimonio público dentro del relato: la protesta no logra borrar el título. El texto no dice que Pilatos confiese fidelidad; sí muestra que el escrito permanece.
 
-## Vestiduras, sed y cumplimiento (19:23-30)
+## Vestiduras, sed y cumplimiento (19:23-30) #iojanan_19_23-30
 
 Los soldados dividen los vestidos y echan suertes por la túnica sin costura. La madre de Yehoshua, la hermana de su madre, Miryam de Qlopa y Miryam la Magdalita están junto al madero. Yehoshua encarga su madre al discípulo amado y luego dice: «Tengo sed». Después de recibir vinagre declara: «Está cumplido», inclina la cabeza y entrega su espíritu. Eric conserva la unión entre cuidado familiar, Escritura y obediencia: no es una muerte desprovista de voluntad ni de relaciones concretas.
 

@@ -37,6 +37,6 @@ Preparar el camino es una respuesta al consuelo y a la fidelidad de יהוה.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Va'etjanan (2018) - Preparen calzada al Dios nuestro](https://www.youtube.com/watch?v=5TGUU01teBU) — source_id: `youtube:5TGUU01teBU`.
-- Video: [Haftaráh de Lej Lejá (2017) Tohu y 'éfes: Separados de YHWH nada somos](https://www.youtube.com/watch?v=zhC_PXVOfag) — source_id: `youtube:zhC_PXVOfag`.
+- Video: [Haftaráh de Va'etjanan (2018) - Preparen calzada al Dios nuestro](https://www.youtube.com/watch?v=5TGUU01teBU) — `source_id`: `youtube:5TGUU01teBU`.
+- Video: [Haftaráh de Lej Lejá (2017) Tohu y 'éfes: Separados de YHWH nada somos](https://www.youtube.com/watch?v=zhC_PXVOfag) — `source_id`: `youtube:zhC_PXVOfag`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

@@ -47,5 +47,5 @@ Shemot 10 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Bo' (2017) Eating the flesh of the Lamb of God](https://www.youtube.com/watch?v=z3uckjZAVnQ) (source_id: `youtube:z3uckjZAVnQ`).
+- [Parashat Bo' (2017) Eating the flesh of the Lamb of God](https://www.youtube.com/watch?v=z3uckjZAVnQ) (`source_id`: `youtube:z3uckjZAVnQ`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

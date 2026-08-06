@@ -55,19 +55,19 @@ Esta nota organiza las partes 12 y 13 de la serie sobre Hebreos, acreditadas pú
 | **(אמונה)**       | _emunáh_        | firmeza, fidelidad, confianza                               | Es una aproximación pedagógica al campo de **(πίστις)**; no se afirma equivalencia exacta entre hebreo y griego.                                                 |
 | **(δημιουργός)**  | _dēmiourgos_    | artesano o creador, término filosófico en ciertos contextos | La palabra aparece en 11:10 como «arquitecto y constructor» en traducción; la identificación de Elohim con un demiurgo requiere verificación histórica y léxica. |
 
-## 11:1-3: confianza, evidencia y creación
+## 11:1-3: confianza, evidencia y creación #hebrews_11_1-3
 
 El capítulo empieza con una definición y luego muestra su alcance. La confianza se orienta a lo esperado y la evidencia se relaciona con lo que no se ve; inmediatamente después, la creación se comprende por la palabra de Elohim. La parte 13, presentada como demostraciones de la emunáh, encuentra aquí su primera prueba textual: la fe no es solo una declaración, sino una forma de comprender y actuar ante una promesa. Sin embargo, «demostración» no significa que el versículo autorice toda teoría cosmológica. Hebreos afirma el papel de la palabra de Elohim; las elaboraciones filosóficas deben permanecer diferenciadas.
 
-## 11:4-16: los testigos caminan hacia una patria mejor
+## 11:4-16: los testigos caminan hacia una patria mejor #hebrews_11_4-16
 
 Abel, Janokh, Noaj, Avraham y Sara aparecen en secuencia. Cada ejemplo concreta la confianza: ofrecer, caminar, preparar un arca, salir sin conocer el destino y recibir fuerza para la promesa. En 11:13-16 el texto corrige una lectura triunfalista: murieron sin recibir las promesas, aunque las vieron y saludaron desde lejos. La patria que buscan es mejor y celestial, pero la nota no convierte «celestial» en desprecio de la historia; el argumento del capítulo es la perseverancia en la promesa de Elohim.
 
-## 11:17-31: obediencia cuando la promesa parece contradictoria
+## 11:17-31: obediencia cuando la promesa parece contradictoria #hebrews_11_17-31
 
 La prueba de Avraham, la decisión de Moshe y la recepción de Rahav muestran que la fe tiene costo y dirección. Moshe rehúsa la posición de Egipto y considera mayor riqueza el oprobio del Mesías que los tesoros del reino (#hebrews_11_26). La afirmación conecta la lectura de Hebreos con el Mesías, pero no permite inventar detalles biográficos sobre Moshe. Rahav entra en la lista por recibir a los mensajeros con paz; el texto conserva tanto su acción como la liberación que siguió.
 
-## 11:32-40: victoria, sufrimiento y una promesa compartida
+## 11:32-40: victoria, sufrimiento y una promesa compartida #hebrews_11_32-40
 
 El cierre acelera los ejemplos: algunos vencen reinos y obtienen promesas; otros soportan burlas, prisiones, violencia y muerte. Por eso la fe no puede definirse solo por resultados visibles. Todos recibieron buen testimonio, pero no la promesa completa; Elohim proveyó algo mejor para que no fueran perfeccionados aparte de nosotros. La comunidad actual no reemplaza a los testigos ni los completa por mérito propio: participa en una historia de promesa cuya consumación depende de Elohim.
 
@@ -107,7 +107,7 @@ Hebreos 11 presenta una fidelidad que escucha, obedece, espera y persevera tanto
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 12: Dios es el demiurgos» — https://www.youtube.com/watch?v=6JzOmZpT_RU — source_id: `youtube:6JzOmZpT_RU`.
-- «La carta a los hebreos parte 13: Resumen- demostraciones de la 'emunáh» — https://www.youtube.com/watch?v=ACE-wo-WTmo — source_id: `youtube:ACE-wo-WTmo`.
+- «La carta a los hebreos parte 12: Dios es el demiurgos» — https://www.youtube.com/watch?v=6JzOmZpT_RU — `source_id`: `youtube:6JzOmZpT_RU`.
+- «La carta a los hebreos parte 13: Resumen- demostraciones de la 'emunáh» — https://www.youtube.com/watch?v=ACE-wo-WTmo — `source_id`: `youtube:ACE-wo-WTmo`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

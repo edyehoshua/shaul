@@ -41,6 +41,8 @@ references:
   - "#iojanan_11_51"
 sources:
   - "https://www.youtube.com/watch?v=m3u6ei-rNKA&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=9"
+source_ids:
+  - "youtube:m3u6ei-rNKA"
 translation: "[TTH, Delitzsch, OE]"
 ---
 

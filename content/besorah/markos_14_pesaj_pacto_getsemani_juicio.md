@@ -101,7 +101,7 @@ En Gue Shemanim, **(ἀββᾶ)**, _abba_, es una forma vocativa aramea conserva
 Ante el sumo sacerdote, **(ἐγώ εἰμι)**, _egō eimi_, es la respuesta «Yo soy»; **(ὄψεσθε)**, _opsesthe_, «verán», introduce la visión del **(υἱὸν τοῦ ἀνθρώπου)**, _huion tou anthrōpou_, «Hijo del Hombre», y **(νεφελῶν)**, _nephelōn_, «nubes». La equivalencia con Daniel 7 es una alusión intertextual explícita en la lectura de Eric, pero no una razón para borrar el sentido narrativo: la confesión provoca la acusación de blasfemia y el juicio del relato.
 
 
-## Pésaj cercano, unción y traición (14:1-11)
+## Pésaj cercano, unción y traición (14:1-11) #markos_14_1-11
 
 Eric observa que #markos_14_1 da fecha y contexto: dos días después del discurso del capítulo 13 «era Pésaj y Matzot». Distingue **(פסח)** como el sacrificio del cordero o cabra del día 14 «entre las dos tardes» y la fiesta de los panes sin levadura que se asocia al 15. Esa distinción calendárica es útil para no aplastar los datos del relato; sin embargo, reconstruir un 12 de abril concreto o un esquema horario completo excede lo que Marcos fija y debe quedar como propuesta de la clase.
 
@@ -109,7 +109,7 @@ En Bet Aniah, en casa de Shimón el leproso, una mujer rompe el alabastro y derr
 
 Yehoshua interpreta la unción: ella se anticipó a preparar su cuerpo para la sepultura (#markos_14_8). Eric acierta al oír aquí una obra irreversible y excepcional, no una norma que cancele el cuidado de los pobres. El mismo versículo siguiente recuerda que a los pobres siempre los tendrán. La traición de Iehudáh (14:10-11) queda así en contraste: mientras una mujer da lo costoso para la muerte del Mesías, uno de los doce negocia su entrega por plata.
 
-## La mesa del pacto renovado (14:12-26)
+## La mesa del pacto renovado (14:12-26) #markos_14_12-26
 
 El día en que sacrificaban el Pésaj, los discípulos preguntan dónde preparar. Eric lee la precisión «cuando sacrificaban el Pésaj» como ancla en el 14, no en un 15 abstracto, y describe la anticipación de quitar levadura y disponer la habitación. El relato confirma al menos la preparación obediente y el hallazgo «tal como les había dicho» (#markos_14_16). Los horarios minuciosos de la clase son pedagógicos; no deben presentarse como cronología demostrada verso por verso.
 
@@ -117,7 +117,7 @@ En la mesa, Yehoshua anuncia que uno de los doce lo entregará. Luego toma pan, 
 
 La promesa de beberlo nuevo en el reino (#markos_14_25) proyecta la mesa más allá de la noche de la traición. Eric concluye que las fiestas de יהוה no quedan abolidas como si no hubiera consumación venidera. Esa aplicación es posible como lectura teológica; Marcos afirma de modo seguro la espera del reino y la continuidad de la comunión futura, no un tratado litúrgico completo. Tras la tefilah y el cántico, salen al monte de los Olivos.
 
-## Pastor herido, promesas humanas y Gue Shemanim (14:27-42)
+## Pastor herido, promesas humanas y Gue Shemanim (14:27-42) #markos_14_27-42
 
 Yehoshua cita la Escritura: herirán al pastor y las ovejas se dispersarán (#markos_14_27; #zejariah_13_7). Eric conecta esta palabra con la huida real de 14:50. El texto lo permite con claridad. Kefa responde con una lealtad absoluta; Yehoshua anuncia la negación triple antes del gallo. La clase comenta hábitos urbanos sobre cuándo cantaba el gallo; eso puede iluminar el color local, pero el punto narrativo es la palabra cumplida, no la ornitología. La secuencia de anuncio, sueño, arresto y negación mantiene el foco en la fragilidad de la promesa humana, no en una cronología reconstruida desde fuera del relato.
 
@@ -125,7 +125,7 @@ En Gue Shemanim pide a los discípulos que se sienten y ora. Toma a Kefa, Iaacob
 
 Tres veces encuentra dormidos a los suyos. La admonición «el espíritu está dispuesto, pero la carne es enferma» (#markos_14_38) explica la brecha entre promesa y vigilancia: **(γρηγορέω)**, _grēgoreō_, no significa una técnica contemplativa, sino permanecer despierto y atento ante la prueba. Al final declara: la hora ha venido; el Ben HaAdam es entregado en manos de pecadores (#markos_14_41). Así, la orden «velen y oren» no es un consejo genérico: responde a la hora concreta que el relato acaba de anunciar.
 
-## Arresto, confesión y negación (14:43-72)
+## Arresto, confesión y negación (14:43-72) #markos_14_43-72
 
 Iehudáh llega con gente armada y lo entrega con un beso. Eric recuerda que uno corta la oreja del siervo —otro evangelio nombra a Kefa— y que Yehoshua se niega a ser tratado como ladrón, pues cada día enseñaba en el Hejal. Marcos subraya el cumplimiento de las Escrituras y la huida de todos (#markos_14_49-50). El joven de la sábana que huye desnudo queda como detalle de abandono total; la clase no necesita allegar más de lo que el texto ofrece.
 
@@ -155,7 +155,7 @@ Después del arresto, la confesión ocurre ante testigos hostiles. **(σὺ ε�
 
 Así, la secuencia crítica es mesa, copa, vigilancia, entrega y testimonio. La equivalencia entre **(αἷμα)**, _haima_, «sangre», y **(דם)**, _dam_, «sangre», es directa como vocabulario; la interpretación pactal y sacrificial es sostenida por el contexto de Pésaj y la frase de Yehoshua, pero sus modelos doctrinales posteriores requieren argumentos adicionales. La observación de Eric sobre una entrega real queda respaldada por las formas del texto; la afirmación de que cada matiz de promesa, justicia y trono está lexicalmente contenido en **(אבא)** queda calificada como propuesta teológica.
 
-## Control de dependencias: del Pésaj a la confesión (14:1-72)
+## Control de dependencias: del Pésaj a la confesión (14:1-72) #markos_14_1-72
 
 La lectura no debe saltar de la copa a la cruz dejando fuera los pasos intermedios. Marcos primero sitúa el complot en Pésaj y Matzot (14:1-2), luego contrapone la mujer que prepara el cuerpo para la sepultura con Iehudáh que busca entregarlo (14:3-11), y solo después narra la mesa, la dispersión anunciada, la oración, el arresto y el juicio. La observación de Eric sobre una entrega real se prueba por esta progresión, no por una definición aislada de «pacto». **(καιρός)**, _kairos_, «momento u ocasión», puede describir un tiempo señalado; aquí su equivalencia con el calendario hebreo es contextual y no autoriza reconstruir una fecha civil que Marcos no da.
 
@@ -206,7 +206,7 @@ La repetición de «entregar» no borra el contraste entre los actores. **(πα�
 
 En paralelo, **(ἀρνέομαι)**, _arneomai_, significa «negar, desconocer o repudiar»; en 14:30, 14:68, 14:70 y 14:71 describe primero el anuncio de Yehoshua y luego la respuesta repetida de Kefa. La comparación con **(כחש)**, _kajash_, «negar o desmentir», es aproximada: el relato de Marcos precisa el sentido por la pregunta sobre conocer a Yehoshua y por el llanto final. Eric puede usar la escena para advertir contra la confianza autosuficiente, pero el término no afirma por sí solo que Kefa haya quedado fuera de toda restauración posterior.
 
-## Prueba ordenada: unción, pacto, hora y confesión (14:1-72)
+## Prueba ordenada: unción, pacto, hora y confesión (14:1-72) #markos_14_1-72
 
 Marcos 14 no salta de Pésaj a la cruz: ordena la entrega en escenas que se interpretan mutuamente. En Bet Aniah, TTH dice que una mujer rompe el alabastro y derrama nardo costoso sobre la cabeza de Yehoshua (14:3). **κατέχεεν**, _katecheen_, «derramó sobre», describe la acción; Yehoshua la interpreta: «se ha anticipado a ungir mi cuerpo para la sepultura» (14:8). Eric lee la unción como anticipo irreversible, no como norma que cancele el cuidado de los pobres. El texto lo confirma al recordar que a los pobres siempre los tendrán y al colocar enseguida la traición de Iehudáh. La identificación del murmurador con Iehudáh desde Iojanán queda como armonización calificada; el contraste narrativo de Marcos es suficiente: una entrega costosa frente a una entrega negociada.
 
@@ -214,7 +214,7 @@ La mesa interpreta esa entrega con lenguaje de pacto. En 14:22-24, Yehoshua toma
 
 Gue Shemanim y el juicio prueban la diferencia entre voluntad sometida y promesa humana. En 14:36, TTH registra: «Padre, Padre mío, todo lo puedes Tú, haz pasar de mí esta copa, pero no es lo que yo quiero, sino lo que Tú». **ἀββᾶ**, _abba_, «Abá o Padre», **ποτήριον**, _potērion_, «copa», y **θέλω**, _thelō_, «quiero», conservan petición y sumisión juntas. Eric propone que la oración no enfrenta a dos dioses rivales, sino que sujeta al Mesías a la disposición de la justicia divina; el texto apoya la angustia y la obediencia, mientras la metafísica ampliada de Abba permanece atribuida. La orden de velar (14:38) y la triple visita encuentran a los discípulos dormidos; cuando llega la hora, «lo abandonaron todos, y huyeron» (14:50). Ante el sumo sacerdote, **ἐγώ εἰμι**, _egō eimi_, «Yo soy», y la visión del Ben HaAdam a la diestra del poder y en las nubes (14:62) reciben el costo de la acusación, mientras Kefa niega y llora (14:72). Así la observación de Eric sobre pacto y obediencia queda anclada en el orden textual: unción, mesa, pastor herido, copa, vigilancia fallida, confesión pública y quiebre de la lealtad humana.
 
-## Prueba adicional: la copa, el pacto y el testimonio (14:22-72)
+## Prueba adicional: la copa, el pacto y el testimonio (14:22-72) #markos_14_22-72
 
 La mesa y Gue Shemanim deben leerse como una sola trayectoria de entrega. En 14:22, **(λαμβάνω)**, _lambanō_, «tomar o recibir», **(εὐλογέω)**, _eulogeō_, «bendecir», y **(κλάω)**, _klaō_, «partir», describen acciones visibles antes de que Yehoshua interprete el pan como su cuerpo. En 14:24, **(αἷμα)**, _haima_, «sangre», y **(διαθήκη)**, _diathēkē_, «pacto o disposición», unen la copa con una alianza ratificada por entrega. La comparación con **(ברית)**, _berit_, «pacto», ilumina el trasfondo de la Escritura, pero no demuestra que cada matiz de la forma griega sea una retroversión hebrea. La clase de Eric insiste en que la sangre no debe vaciarse en símbolo; Marcos respalda una interpretación seria porque la copa anticipa una vida que será entregada y porque la narración conduce inmediatamente a la traición y la muerte.
 
@@ -228,7 +228,7 @@ El arresto prueba la diferencia entre la entrega del Mesías y la violencia de s
 
 Kefa cierra el recorrido con tres negaciones y un llanto. **(ἐπιβάλλων)**, _epiballōn_, «caer sobre o echarse encima», describe su reacción cuando recuerda la palabra del gallo; el texto muestra contrición, no una explicación completa de su restauración posterior. Así, el capítulo prueba la tesis de Eric con un orden preciso: la entrega se interpreta en la mesa, se acepta en la copa, se abandona por los discípulos dormidos, se confiesa ante el tribunal y queda expuesta por la negación del testigo humano. La alianza no descansa en la promesa de Kefa, sino en la palabra y la entrega de Yehoshua.
 
-## Verificación dirigida: el pacto se reconoce por la hora que llega (14:1-50)
+## Verificación dirigida: el pacto se reconoce por la hora que llega (14:1-50) #markos_14_1-50
 
 La primera mitad del capítulo establece el marco antes de llegar al juicio. **πάσχα**, _pascha_, «Pésaj», y **ἄζυμα**, _azyma_, «panes sin levadura», nombran la fiesta en cuyo contexto los principales sacerdotes buscan prender a Yehoshua con engaño (14:1-2). La mujer de Bet Aniah actúa antes de la mesa: **συντρίψασα**, _syntripsasa_, «habiendo quebrado», y **κατέχεεν**, _katecheen_, «derramó», describen una unción que Yehoshua interpreta como preparación para su sepultura. La relación con **פסח**, _pesaj_, «pasar o Pésaj», es una comparación de campo bíblico; no permite inventar un horario exacto que Marcos no da.
 

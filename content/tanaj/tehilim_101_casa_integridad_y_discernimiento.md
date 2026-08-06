@@ -102,5 +102,5 @@ Tehilim 101 no convierte la casa en un refugio de apariencia religiosa. El salmo
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 101» — <https://www.youtube.com/watch?v=RRH8-ayXJ3o> — source_id: `youtube:RRH8-ayXJ3o`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 101» — <https://www.youtube.com/watch?v=RRH8-ayXJ3o> — `source_id`: `youtube:RRH8-ayXJ3o`.
 - La transcripción es automática y se usa como apoyo de estudio; no se presenta como cita literal ni como transcripción revisada por el expositor.

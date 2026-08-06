@@ -43,7 +43,8 @@ references:
   - "#zejariah_14_16"
 sources:
   - "https://www.youtube.com/live/4Jw7Tt5he6o?si=R3SHhUyeQH54d5In"
-  - "private/sources/youtube_4Jw7Tt5he6o_transcript.txt"
+source_ids:
+  - "youtube:4Jw7Tt5he6o"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -213,3 +214,9 @@ Por eso la clase sostiene que la primera venida no falla por no haber transforma
 - [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, Bar Enash y el Hijo de Elohim]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=4Jw7Tt5he6o) (`source_id`: `youtube:4Jw7Tt5he6o`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

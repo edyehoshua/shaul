@@ -52,7 +52,7 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 | 60:8-10  | **אלהים דבר בקדשו אעלזה אחלקה שכם ועמק סכות אמדד**; **לי גלעד ולי מנשה ואפרים מעוז ראשי יהודה מחקקי**; **מואב סיר רחצי על אדום אשליך נעלי עלי פלשת התרועעי**      | La palabra divina asigna y ordena territorios; las imágenes de Moab, Edom y Filistea describen dominio bajo la palabra de Elohim. |
 | 60:11-14 | **מי יבלני עיר מצור מי נחני עד אדום**; **הלא אתה אלהים זנחתנו ולא תצא אלהים בצבאותינו**; **הבה לנו עזרת מצר ושוא תשועת אדם**; **באלהים נעשה חיל והוא יבוס צרינו** | La pregunta por la ciudad fortificada termina en una confesión: la ayuda humana es vana y Elohim pisa a los adversarios.          |
 
-## 60:1-2: un encabezado que enseña mediante la historia
+## 60:1-2: un encabezado que enseña mediante la historia #tehilim_60_1-2
 
 Eric se detiene en **שושן עדות**, «la rosa del testimonio», y relaciona la imagen de la rosa entre espinos con Israel; esa identificación pertenece a la lectura pedagógica y no es el sentido léxico único de **שושן**, que normalmente designa un lirio o una rosa. La forma **עדות** significa «testimonio» y, en el encabezado, da a la composición un carácter instructivo junto con **ללמד**, «para enseñar». La relación entre la rosa y Israel es aproximada y tipológica; la función didáctica de «para enseñar» es directa.
 
@@ -60,7 +60,7 @@ El título recuerda que David combatió a Aram y Edom. Eric reconstruye el mapa:
 
 La clase también coteja 2 Samuel 8:6 y observa que Aram quedó sometido a David, y recuerda que los relatos de David y Salomón incluyen territorios más allá del núcleo de las doce tribus. La nota conserva la observación material —los nombres del encabezado importan para leer la geografía— sin convertir las citas de cronología y mapas en una única reconstrucción obligatoria.
 
-## 60:3-5: quebranto, expansión y vino de aturdimiento
+## 60:3-5: quebranto, expansión y vino de aturdimiento #tehilim_60_3-5
 
 El primer clamor es abrupto: **אלהים זנחתנו**, «Elohim, nos has rechazado», seguido de **פרצתנו**, «nos has abierto brecha» o «nos has quebrado», y **תשובב לנו**, «vuélvenos» o «restáuranos». Eric corrige una traducción que haría de **פרץ** simplemente destrucción irreversible: el campo normal del verbo incluye abrir una brecha, irrumpir o ensanchar. Su aplicación a la expansión territorial es una relación pedagógica con la promesa; en el salmo, la fuerza contextual inmediata es el daño que necesita reparación.
 
@@ -68,7 +68,7 @@ El texto continúa: **הרעשתה ארץ פצמתה רפאה שבריה כי מ
 
 Después aparece **יין תרעלה**, «vino de tambaleo» o «vino de aturdimiento». Eric explica la imagen desde una bebida que desorienta y advierte que el problema moral no es inventar una prohibición química desde este verso, sino comprender el efecto de la embriaguez y la confusión. La relación entre la imagen y una bebida intoxicante es exacta; las reconstrucciones históricas sobre su elaboración son ilustrativas, no necesarias para la exégesis.
 
-## 60:6-7: la señal para los temerosos y el rescate de los amados
+## 60:6-7: la señal para los temerosos y el rescate de los amados #tehilim_60_6-7
 
 En medio del quebranto, el salmo afirma: **נתתה ליראיך נס**, «has dado a los que te temen una señal o estandarte». Eric desarrolla **נס**, _nes_, como señal levantada: lo conecta con la vara levantada en el desierto y con la lectura mesiánica de la elevación del Hijo del Hombre. El sentido normal de **נס** es «estandarte, señal, poste levantado»; su relación con el madero y con Juan 8 es canónica y tipológica, no una traducción de Tehilim 60 que nombre explícitamente a Yehoshúa.
 
@@ -76,7 +76,7 @@ La frase **מפני קשט** es difícil y la clase la trata como un referente q
 
 El verso 7 pide: **למען יחלצון ידידיך**, «para que tus amados sean librados», y **הושיעה ימינך וענני**, «salva con tu diestra y respóndeme». **חלץ**, _jalats_, normalmente «rescatar o arrancar», tiene aquí fuerza de liberación concreta. La «diestra» es una imagen de poder eficaz; no obliga a imaginar una anatomía divina.
 
-## 60:8-10: la palabra santa ordena el territorio
+## 60:8-10: la palabra santa ordena el territorio #tehilim_60_8-10
 
 Ahora habla Elohim: **אלהים דבר בקדשו**, «Elohim habló en su santidad». Eric insiste en que no se puede separar esta palabra del mapa: Siquem, el valle de Sucot, Galaad, Manasés, Efraín y Judá aparecen como porción, fortaleza y cetro. **מחקקי**, _mejoqeqi_, significa «mi legislador» o «el que establece decreto»; su fuerza aquí es la autoridad de Judá para ordenar, no una licencia para toda política posterior.
 
@@ -84,7 +84,7 @@ Las imágenes cambian de tono: Moab es «mi vasija de lavado», sobre Edom se ar
 
 La geografía que Eric traza desde el Perat, Hamat y el mar del Arabá ayuda a ubicar los nombres. Su corrección sobre las diferencias de numeración entre versiones también es una advertencia útil: una referencia castellana puede no coincidir con la numeración hebrea del corpus. Por eso esta nota sigue las etiquetas OE del archivo local.
 
-## 60:11-14: ayuda estrecha y victoria de Elohim
+## 60:11-14: ayuda estrecha y victoria de Elohim #tehilim_60_11-14
 
 El poema vuelve a preguntar: **מי יבלני עיר מצור**, «¿quién me llevará a la ciudad fortificada?», y **מי נחני עד אדום**, «¿quién me guiará hasta Edom?». Eric conecta la ciudad fortificada con la necesidad de una conducción que el ejército no puede producir por sí mismo. El salmo responde con otra pregunta: **הלא אתה אלהים זנחתנו**, «¿no eres tú, Elohim, quien nos ha rechazado?». La fe no es una fórmula que ignore el aparente abandono; lleva esa contradicción a Elohim.
 
@@ -125,5 +125,5 @@ Tehilim 60 no convierte las victorias antiguas en autosuficiencia nacional. Recu
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 60» — <https://www.youtube.com/watch?v=641uZetadqs> — source_id: `youtube:641uZetadqs`.
+- Video: «Tehilim/Himnos/Salmo Cap 60» — <https://www.youtube.com/watch?v=641uZetadqs> — `source_id`: `youtube:641uZetadqs`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

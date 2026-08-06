@@ -133,5 +133,5 @@ Yojanán 15:5-17 no separa la vida de la vid, el fruto, la oración, el amor y e
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=XB7AjfErsCI> — source_id: `youtube:XB7AjfErsCI`.
+- Video: <https://www.youtube.com/watch?v=XB7AjfErsCI> — `source_id`: `youtube:XB7AjfErsCI`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

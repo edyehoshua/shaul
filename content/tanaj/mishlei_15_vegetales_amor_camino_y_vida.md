@@ -44,25 +44,25 @@ Esta nota organiza la clase pública «PROVERBIOS | La CARRETERA de los RECTOS |
 | #mishlei_15_22-23 | «Sin consejo, se frustran los pensamientos…» / «La alegría del hombre está en la respuesta de su boca, y la palabra en su tiempo, ¡qué buena es!» | El consejo ordena los planes y la palabra oportuna sirve al prójimo. |
 | #mishlei_15_24 | «La senda de la vida es hacia arriba para el prudente, para apartarse del Sheol abajo.» | La sabiduría se describe como crecimiento que aparta de la muerte. |
 
-## Un plato sencillo puede contener más vida que un banquete (15:17)
+## Un plato sencillo puede contener más vida que un banquete (15:17) #mishlei_15_17
 
 La clase comienza con el contraste directo del versículo 17. Una ración de vegetales no representa pobreza espiritual ni una condena de los bienes; el punto es que una comida sencilla acompañada de amor es mejor que un buey engordado donde hay odio. La abundancia no puede reparar una relación gobernada por aborrecimiento. Eric extiende la imagen al alimento de la enseñanza: así como una persona come lo que se pone delante, también puede alimentarse de palabras y doctrinas. Esa aplicación es pedagógica; el proverbio habla primero de la mesa y del ambiente relacional que la rodea.
 
 La exposición identifica **אהבה**, _ahavá_, como amor y la contrasta con odio, **שנאה**, _siná_. La nota conserva el contraste sin afirmar que una sola palabra agote toda la teología bíblica del amor. La enseñanza concreta sí es clara: el valor espiritual de una provisión no depende de su apariencia pública. Una casa o una congregación puede tener mucho, pero si la mesa está llena de rivalidad, la riqueza no equivale a bienestar.
 
-## El furor provoca una causa; la paciencia la aquieta (15:18)
+## El furor provoca una causa; la paciencia la aquieta (15:18) #mishlei_15_18
 
 El versículo 18 pasa de la mesa al conflicto. «El hombre de furor» no solo expresa una emoción interior; su furor provoca contienda. La clase explica **חמה**, _jemá_, como calor, ardor o furor, y **מדון**, _madón_, como contienda con un matiz de causa o disputa que puede requerir juicio. También relaciona **ריב**, _riv_, con defender una causa. Estas conexiones ayudan a escuchar el lenguaje jurídico del pasaje, pero la relación entre cada raíz y cada uso debe cotejarse por contexto.
 
 En contraste aparece «el largo de nariz», una expresión hebrea que la exposición entiende como paciencia. No se trata de fingir que el mal no existe. La clase aplica el versículo a la asamblea: el juicio justo no debe nacer de impulsos personales ni de pleitos innecesarios, sino de un proceso ordenado delante de יהוה. Esa aplicación comunitaria es coherente con la imagen de aquietar la riña, aunque el proverbio no describe por sí solo un reglamento completo de disciplina.
 
-## La pereza convierte el camino en un cerco (15:19-21)
+## La pereza convierte el camino en un cerco (15:19-21) #mishlei_15_19-21
 
 El TTH presenta el camino del perezoso como un seto de espinos y la carretera de los rectos como pavimentada. Eric conecta esta imagen con la inactividad del corazón: el perezoso no es únicamente quien deja una tarea material sin hacer, sino quien se resiste a dar el paso de obediencia que ya comprendió. La metáfora no debe usarse para etiquetar a toda persona cansada; el texto contrasta una disposición persistente con una senda preparada.
 
 La exposición observa **אורח**, _óraj_, como carretera o senda bien establecida, frente a un camino obstruido. Después enlaza el versículo 20 con el hijo sabio que alegra al padre y con el indisciplinado que desprecia a su madre. La lectura puede extender «padre» y «madre» a la instrucción divina y a la Jerusalén de arriba, pero esa conexión debe mantenerse como aplicación y no como traducción del proverbio. El versículo 21 ofrece el giro: la tontería es alegría para el falto de corazón, pero el entendido rectifica su caminar. El discernimiento no significa perfección; significa aceptar la reprensión y cambiar de dirección.
 
-## Consejo, palabra oportuna y crecimiento (15:22-24)
+## Consejo, palabra oportuna y crecimiento (15:22-24) #mishlei_15_22-24
 
 «Sin consejo, se frustran los pensamientos» impide convertir la dirección espiritual en una intuición aislada. La clase relaciona **סוד**, _sod_, con consejo o secreto, y subraya que los planes se establecen mediante una pluralidad de consejeros. El TTH no exige añadir una teoría sobre misterios reservados: el sentido inmediato es que los pensamientos requieren consejo para afirmarse. La sabiduría oculta mencionada por la exposición en conexión con 1 Corintios 2 queda como una conexión canónica que necesita verificación adicional, no como el significado único de Mishlei 15:22.
 

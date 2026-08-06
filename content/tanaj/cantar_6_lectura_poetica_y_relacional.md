@@ -64,7 +64,7 @@ Cantar 6 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 19) Cap 6» — https://www.youtube.com/watch?v=MnKlMxn8VPE (`source_id: youtube:MnKlMxn8VPE`).
-- «Shir hashirim (parte 20) Cap 6 final» — https://www.youtube.com/watch?v=U3avoFhFYWU (`source_id: youtube:U3avoFhFYWU`).
+- «Shir hashirim (parte 19) Cap 6» — https://www.youtube.com/watch?v=MnKlMxn8VPE (`source_id`: youtube:MnKlMxn8VPE`).
+- «Shir hashirim (parte 20) Cap 6 final» — https://www.youtube.com/watch?v=U3avoFhFYWU (`source_id`: youtube:U3avoFhFYWU`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

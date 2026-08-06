@@ -41,19 +41,19 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | The MESSIAH as 
 | #ephesians_1_8-9 | **אשר בא עלינו בשפע־חכמה והשכל׃ והודיע אתנו את־סוד חפצו כרצונו ועצתו מראש אשר יעץ בו** | La abundancia de sabiduría acompaña la comunicación del propósito escondido. |
 | #ephesians_1_10 | **על־דבר הנהגתו במלאת הימים לקבל את־הכל במשיח מה־שבשמים ומה־שבארץ** | El propósito culmina en reunir lo que está en los cielos y en la tierra en el Mesías. |
 
-## La adopción tiene un medio y un propósito (1:5-6)
+## La adopción tiene un medio y un propósito (1:5-6) #ephesians_1_5-6
 
 La clase insiste en que la adopción no debe imaginarse como una preexistencia de las personas junto a Elohim. Esa advertencia responde a una preocupación teológica real, pero Efesios 1:5 debe gobernar la formulación: **προορίσας**, _proorisas_, significa «habiendo determinado de antemano» o «habiendo destinado», mientras **υἱοθεσία**, _huiothesia_, nombra la adopción o colocación como hijo. La existencia previa de los creyentes no está afirmada por la forma verbal. Lo que el versículo sí afirma es un propósito de adopción por medio de Yehoshua el Mesías.
 
 Eric relaciona esta adopción con una vida que permanece dentro de los límites de la voluntad de Elohim. La aplicación puede ser pastoralmente útil, pero «límite» no reemplaza el sentido contextual de _proorisas_. La adopción tampoco se convierte aquí en una etiqueta de superioridad: el versículo 6 la orienta a la alabanza de la gloria del favor con que Elohim agració a los suyos en el amado.
 
-## Redención y perdón: el favor se expresa en una obra (1:7-8)
+## Redención y perdón: el favor se expresa en una obra (1:7-8) #ephesians_1_7-8
 
 Efesios no deja el favor como una idea abstracta. **ἀπολύτρωσις**, _apolytrosis_, pertenece al campo de liberación o redención; el Delitzsch usa **פדיון**, _pidyon_, pago o rescate de liberación. La relación entre ambas palabras es temática y aproximada, no una prueba de que el hebreo sea la forma original del griego. **παράπτωμα**, _paraptoma_, significa transgresión o paso en falso; por eso es prudente no borrar toda distinción entre transgresión, pecado e iniquidad cuando se estudia la traducción.
 
 La exposición explica que la sangre del Mesías debe leerse como lenguaje sacrificial y que el perdón se recibe conforme a la abundancia del favor. El pasaje sí vincula redención y perdón con el Mesías y con el favor de Elohim. Las afirmaciones más detalladas sobre etapas de redención presente y futura quedan como una lectura de la clase, no como una definición exhaustiva de **פדיון** o de **גאולה**. La sabiduría y el entendimiento del versículo 8 muestran además que el don recibido forma discernimiento; no autorizan a convertir cada asociación hebrea en una etimología demostrada.
 
-## El misterio da dirección a la historia (1:9-10)
+## El misterio da dirección a la historia (1:9-10) #ephesians_1_9-10
 
 **μυστήριον**, _mystērion_, significa misterio o propósito antes no manifestado plenamente. En Efesios 1:9, el misterio es el propósito de Elohim que se da a conocer en el Mesías. La clase lo llama un plan de reconciliación y lo conecta con la muerte del Mesías, una lectura coherente con el desarrollo de Efesios, aunque el versículo 9 por sí solo no enumera todos los acontecimientos que la exposición incluye.
 

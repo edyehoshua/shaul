@@ -56,7 +56,7 @@ La lectura del capítulo 7 comienza con una tensión que no debe perderse: **כ�
 
 En esta unidad **ירש**, _yarash_, significa poseer, heredar o desposeer; su fuerza contextual es recibir la tierra en el marco de la acción de יהוה, no «ganar» un premio por rendimiento. **עקב**, _eqev_, normalmente significa talón, huella o consecuencia; aquí introduce la consecuencia de escuchar y guardar. La imagen del talón que Eric relaciona con la parashá es pedagógica y sugerente, pero no debe presentarse como la única traducción de 7:12. La equivalencia «recompensa» también sería demasiado estrecha: el versículo habla de pacto y bondad jurada a los padres.
 
-## Pueblo tomado por יהוה: elección y obligación — Devarim 7:6–11
+## Pueblo tomado por יהוה: elección y obligación — Devarim 7:6–11 #devarim_7_6-11
 
 La clase Va'etjanan resume su observación en el título: יהוה «te tomó por pueblo para sí». Devarim 7:6 ofrece la base textual: **כי עם קדוש אתה ליהוה אלהיך**, _ki am qadosh attah laYHWH Elohekha_, «porque pueblo kadosh eres tú para יהוה tu Elohim», y añade **בך בחר יהוה**, _bekha bachar YHWH_, «en ti escogió יהוה». **(קדוש)**, _qadosh_, significa normalmente separado, santo o consagrado; «santo» es una equivalencia convencional y aproximada. Aquí su fuerza contextual es pertenencia exclusiva, no superioridad moral autónoma. **(בחר)**, _bachar_, significa escoger o elegir; «predestinar» sería una equivalencia doctrinal más fuerte que la forma verbal.
 
@@ -186,7 +186,7 @@ El mismo discurso limita cualquier lectura de mérito autónomo. OE y TTH presen
 
 Así, la dependencia no es pasividad. En 8:18, **וזכרת את יהוה אלהיך כי הוא הנתן לך כח לעשות חיל**, «recordarás a יהוה tu Elohim, porque él es quien te da fuerza para hacer virtud», OE atribuye la capacidad a יהוה y TTH mantiene el contraste con «mi fuerza». **כח**, _koaj_, significa fuerza o capacidad; **חיל**, _jail_, puede significar fuerza, capacidad, riqueza o ejército según el contexto. «Prosperidad garantizada» excede la forma y el pasaje; «capacidad recibida dentro del camino, la tierra y el pacto» es una equivalencia aproximada que conserva mejor la observación pública de Eric.
 
-## La consecuencia no convierte el pacto en salario — Devarim 7:12–16
+## La consecuencia no convierte el pacto en salario — Devarim 7:12–16 #devarim_7_12-16
 
 La unidad que sigue a la elección hace visible el equilibrio que Eric insiste en conservar. OE dice: **והיה עקב תשמעון את המשפטים האלה ושמרתם ועשיתם אתם ושמר יהוה אלהיך לך את הברית ואת החסד אשר נשבע לאבתיך**; TTH: «Y sucederá como consecuencia de que escuchen estos juicios, los guarden y los hagan, guardará יהוה tu Elohim para ti el pacto y la bondad que juró a tus padres». La frase no puede leerse aislada de la elección por amor y del juramento a los padres (#devarim_7_6-9), ni de la negación de justicia propia (#devarim_9_4-6).
 
@@ -196,7 +196,7 @@ La secuencia verbal también importa: **תשמעון**, _tishmeun_, de שמע, �
 
 Los vv. 13-16 enumeran fruto, grano, mosto, aceite, ganado y protección de enfermedad, pero el cierre vuelve a separar bendición y autonomía: Israel debe recordar quién da, no convertir la promesa en una garantía individual sin tierra, pueblo ni pacto. **(ברך)**, _barakh_, significa bendecir; aquí nombra la concesión de bienestar pactal a Israel en la tierra. **(ירש)**, _yarash_, significa poseer, heredar o desposeer; su fuerza en el v. 17 sigue siendo recibir la tierra bajo la acción de יהוה. La aplicación de Eric queda así cualificada: dependencia no significa pasividad, y obediencia no significa salario.
 
-## La bendición del pacto no elimina la respuesta humana: Devarim 7:12–16
+## La bendición del pacto no elimina la respuesta humana: Devarim 7:12–16 #devarim_7_12-16
 
 La secuencia inmediata de 7:12–16 precisa todavía más la advertencia de Eric. El OE presenta: **«Y sucederá como consecuencia de que escuchen estos juicios, los guarden y los hagan, guardará יהוה tu Elohim para ti el pacto y la bondad que juró a tus padres»**; el TTH conserva la misma cadena de escuchar, guardar y hacer. La forma **(עקב)**, _eqev_, normalmente significa talón, huella o consecuencia; aquí introduce el resultado que sigue a la obediencia. «Salario» sería una equivalencia pedagógica **inexacta**: el objeto que יהוה guarda es el pacto y la bondad ya jurada, no una deuda comercial creada por el rendimiento de Israel.
 
@@ -208,7 +208,7 @@ El v. 16 ordena consumir a los pueblos que יהוה entrega y no servir a sus di
 
 Éqev enseña a recordar para no apropiarse de lo recibido. La obediencia no desaparece: escuchar, guardar, amar y andar con יהוה son la forma visible de una relación de pacto. Pero el pueblo debe recordar que la liberación, la fuerza, la herencia y el cumplimiento de la palabra proceden de יהוה. Así, la memoria protege la obediencia del orgullo y la convierte en dependencia agradecida.
 
-## El pacto se recuerda frente al temor: Devarim 7:17–21
+## El pacto se recuerda frente al temor: Devarim 7:17–21 #devarim_7_17-21
 
 La advertencia contra atribuirse la fuerza debe leerse también frente al miedo. El texto imagina que Israel diga en su corazón: **רבים הגוים האלה ממני איכה אוכל להורישם**, «son más numerosos que yo estos pueblos; ¿cómo podré desposeerlos?». **(רב)**, _rav_, significa grande, abundante o numeroso; aquí describe una desventaja visible, no una evaluación del valor espiritual de Israel. **(ירש)**, _yarash_, significa poseer, heredar o desposeer; en esta perícopa su fuerza es la acción de tomar posesión de la tierra bajo la entrega de יהוה. «Conquistar por autoestima» sería una aplicación pedagógica ajena al sentido exacto.
 

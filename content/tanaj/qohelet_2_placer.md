@@ -59,7 +59,7 @@ Qohélet 2 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (Parte 5) Cap 2» — https://www.youtube.com/watch?v=hKMgzow5Ys4 (`source_id: youtube:hKMgzow5Ys4`).
-- «Qohélet-Eclesiastés (parte 6) Cap 2» — https://www.youtube.com/watch?v=ERVili8fCSM (`source_id: youtube:ERVili8fCSM`).
+- «Qohélet-Eclesiastés (Parte 5) Cap 2» — https://www.youtube.com/watch?v=hKMgzow5Ys4 (`source_id`: youtube:hKMgzow5Ys4`).
+- «Qohélet-Eclesiastés (parte 6) Cap 2» — https://www.youtube.com/watch?v=ERVili8fCSM (`source_id`: youtube:ERVili8fCSM`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

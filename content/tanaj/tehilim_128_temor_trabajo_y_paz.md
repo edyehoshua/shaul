@@ -92,6 +92,6 @@ Tehilim 128 no promete una casa desligada del camino. El temor de יהוה se vu
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Psalm Chapter 128 (part 1)» — <https://www.youtube.com/watch?v=E32ztB2NacQ> — source_id: `youtube:E32ztB2NacQ`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 128 (parte 2)» — <https://www.youtube.com/watch?v=9KTiuVdqaT4> — source_id: `youtube:9KTiuVdqaT4`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Psalm Chapter 128 (part 1)» — <https://www.youtube.com/watch?v=E32ztB2NacQ> — `source_id`: `youtube:E32ztB2NacQ`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 128 (parte 2)» — <https://www.youtube.com/watch?v=9KTiuVdqaT4> — `source_id`: `youtube:9KTiuVdqaT4`.
 - La transcripción automática se usa como apoyo de estudio y atribución; no se presenta como cita literal ni como transcripción revisada por el expositor.

@@ -127,5 +127,5 @@ Tehilim 42 no presenta la sed como una imagen decorativa, sino como una necesida
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 42» — <https://www.youtube.com/watch?v=YHmY5aAU46Q> — source_id: `youtube:YHmY5aAU46Q`.
+- Video: «Tehilim/Himnos/Salmo Cap 42» — <https://www.youtube.com/watch?v=YHmY5aAU46Q> — `source_id`: `youtube:YHmY5aAU46Q`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

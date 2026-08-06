@@ -47,7 +47,7 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | La ENEMISTAD contra
 | #ephesians_2_17-18 | **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב ... לשנינו מבוא ברוח אחד אל־אבינו** | El anuncio alcanza al lejano y al cercano; ambos reciben acceso al Padre en un Rúaj. |
 | #ephesians_2_19-22 | **אינכם עוד גרים ותושבים ... בני בית אלהים ... ובו נבנים גם־אתם להיות משכן אלהים ברוח** | La reconciliación se vuelve pertenencia, fundamento y morada común. |
 
-## Recordar la lejanía sin convertirla en superioridad (2:11-12)
+## Recordar la lejanía sin convertirla en superioridad (2:11-12) #ephesians_2_11-12
 
 La clase insiste en el imperativo «recuerden». Pablo no permite que la comunidad hable de la cercanía como si siempre hubiera sido un derecho propio. Los destinatarios gentiles habían sido identificados «en la carne» como incircuncisión y estaban fuera de la ciudadanía de Israel y de las alianzas de la promesa. La lista termina con «sin esperanza» y «sin Elohim en el mundo». El punto de la memoria no es producir desprecio hacia los gentiles, sino hacer visible la magnitud del acercamiento que sigue.
 
@@ -55,7 +55,7 @@ Eric relaciona **πολιτεία**, _politeia_, «ciudadanía o régimen de ciu
 
 También conviene no convertir «en la carne» en una definición universal de toda la palabra carne. En este pasaje, la oposición inmediata es con circuncisión e incircuncisión, por lo que la marca corporal y la clasificación comunitaria están en primer plano. La enseñanza de Eric puede conservarse como advertencia contra confiar en señales externas, pero la sintaxis del pasaje debe gobernar la conclusión.
 
-## La sangre acerca y la enemistad pierde su dominio (2:13-18)
+## La sangre acerca y la enemistad pierde su dominio (2:13-18) #ephesians_2_13-18
 
 El giro comienza con «pero ahora». Los que estaban lejos fueron hechos cercanos en el Mesías y en su sangre. Eric explica la sangre como el recurso provisto por Yehoshua para efectuar el acercamiento; la nota conserva esa formulación como exposición atribuida. El texto prueba el resultado por una cadena de acciones: el Mesías es nuestra paz, hace de los dos uno, derriba la barrera, desactiva la enemistad, reconcilia a ambos con Elohim en un cuerpo y concede acceso al Padre.
 
@@ -63,7 +63,7 @@ La expresión «los dos» es decisiva. La unidad no significa que un grupo se vu
 
 La «pared intermedia» y la «enemistad» son imágenes y términos del argumento. **μεσότοιχον**, _mesotoichon_, es una pared divisoria; **ἔχθρα**, _echthra_, es enemistad u hostilidad; **ἀποκαταλλάξῃ**, _apokatallaxē_, significa reconciliar plenamente. El vínculo con **איבה**, _eyvah_, y **שלום**, _shalom_, es aproximado y pedagógico. La prueba pública de la sangre y de la cruz no es una teoría sobre un muro arqueológico, sino un cuerpo reconciliado con un mismo acceso.
 
-## De extranjeros a casa y morada (2:19-22)
+## De extranjeros a casa y morada (2:19-22) #ephesians_2_19-22
 
 El final cambia el vocabulario de exclusión por el de pertenencia. **ξένοι**, _xenoi_, «extraños o extranjeros», y **πάροικοι**, _paroikoi_, «residentes sin ciudadanía plena», describen la condición anterior. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», describen lo que reciben en el Mesías. La ciudadanía aquí no debe reducirse a una nacionalidad moderna: es pertenencia al pueblo y a la casa de Elohim.
 

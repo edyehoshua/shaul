@@ -105,7 +105,7 @@ Marcos 8 hace que la visión y la identidad avancen juntas. Primero Yehoshua mul
 | **(ζύμη)**          | zymē            | levadura, fermento                                                | En 8:15 es la advertencia sobre perushim y Horodós; los discípulos la confunden con pan olvidado.                                                                                                     | Aproximada con **(שאר)** / _seor_ o con el campo de fermento; el sentido moral lo fija el contexto, no la panadería. |
 | **(πεπωρωμένη)**    | pepōrōmenē      | endurecida, embotada                                              | En 8:17 describe el corazón todavía endurecido de los discípulos; prepara la sanidad del ciego y la confesión incompleta.                                                                             | «Endurecido» es contextual; no diagnostica un estado irreversible.                                                   |
 
-## Compasión, panes y la señal que no se concede (8:1-13)
+## Compasión, panes y la señal que no se concede (8:1-13) #markos_8_1-13
 
 El capítulo no comienza en Cesarea de Filipos. Marcos 8 abre con un pueblo que lleva días junto a Yehoshua y no tiene qué comer. TTH registra la compasión: «Me he compadecido por el pueblo». **(σπλαγχνίζομαι)**, _splanchnizomai_, «conmoverse en las entrañas o compadecerse», introduce la acción; no es un preámbulo doctrinal. Yehoshua toma siete panes, bendice, parte y da a los discípulos; la multitud come, se sacia y sobran siete canastas. Eran como cuatro mil. La clase que cierra el capítulo 7 y abre el 8 observa este segundo pan como provisión real en el desierto y lo distingue del episodio de los cinco mil; el texto local lo confirma por el número de panes, de sobras y de comensales, sin obligar a una alegoría numérica cerrada.
 
@@ -113,13 +113,13 @@ Después suben al bote y llegan a la parcela de Dalmanuta. Allí salen los perus
 
 La geografía de Dalmanuta/Magdala queda pendiente de cotejo arqueológico. Eric menciona Magdala y la equivalencia aproximada de topónimos; el relato solo necesita el movimiento: de la multitud saciada a la discusión, y de la discusión otra vez al bote. Lo argumental no es el mapa fino, sino la diferencia entre pan dado y señal exigida.
 
-## Levadura malentendida y corazones que aún no ven (8:14-21)
+## Levadura malentendida y corazones que aún no ven (8:14-21) #markos_8_14-21
 
 En el bote los discípulos han olvidado pan. Yehoshua advierte: «Miren, guárdense de la levadura de los perushim y de la levadura de Horodós». **(ζύμη)**, _zymē_, «levadura o fermento», funciona aquí como imagen de una influencia que se extiende; TTH y Delitzsch la asocian al campo del fermento, y la comparación con **(שאר)**, _seor_, es aproximada. Los discípulos discuten porque no trajeron panes. Eric formula la corrección de modo concreto: si Yehoshua hablara de levadura literal, el recuerdo de las multiplicaciones bastaría para calmar la ansiedad del pan; por eso la advertencia no puede reducirse a harina olvidada. El texto local prueba esa lectura cuando Yehoshua pregunta por los cinco panes entre cinco mil y los siete entre cuatro mil, y termina: «¿Y cómo no entienden nada?».
 
 Las formas de 8:17-18 fijan el problema. **(οὔπω νοεῖτε)**, _oupō noeite_, «¿aún no entienden?», y **(πεπωρωμένη)**, _pepōrōmenē_, «endurecida», describen un corazón que no procesa lo ya visto. «Ojos tienen, y no ven; oídos tienen y no oyen; y no recuerdan» prepara literariamente la sanidad del ciego y la confesión de Kefa: ver y oír no son automáticos aunque se hayan repartido panes. La clase acierta al unir memoria y discernimiento; la nota no convierte la levadura en una teoría política exhaustiva sobre Herodes ni en una condena genérica de todo fariseo. El relato nombra dos influencias y exige guardarse de ellas mientras se camina con el que multiplica pan y rechaza la señal de tentación.
 
-## Del ciego que ve parcialmente a la pregunta decisiva (8:22-27)
+## Del ciego que ve parcialmente a la pregunta decisiva (8:22-27) #markos_8_22-27
 
 La clase comienza con el ciego llevado a Yehoshua. Eric llama la atención sobre Bet Tzaidah y propone que el nombre puede evocar una «casa de provisión». El texto sí nombra el lugar y registra que el hombre es sacado fuera de la aldea; el significado extendido del topónimo no está explicado por Marcos, de modo que debe quedar como ayuda pedagógica, no como llave obligatoria del pasaje.
 
@@ -127,7 +127,7 @@ La acción tiene dos momentos. Después del primero, el hombre no dice que no ve
 
 Eric observa también que Yehoshua restringe al hombre de volver a la aldea o divulgar allí el signo. La clase lo relaciona con expectativas de un rey político capaz de reunir entusiasmo popular. Esa explicación es plausible en el marco más amplio de Marcos, pero el v. 26 no ofrece un motivo explícito. Lo que el lector sí puede afirmar es que el signo no se convierte inmediatamente en propaganda: la atención del capítulo pasa de la multitud a la pregunta dirigida a los discípulos en el camino.
 
-## «Tú eres el Mesías»: confesión que necesita ser llenada de contenido (8:27-30)
+## «Tú eres el Mesías»: confesión que necesita ser llenada de contenido (8:27-30) #markos_8_27-30
 
 En Cesarea de Filipos, Yehoshua primero hace que los discípulos distingan entre lo que «los hombres» dicen y lo que ellos mismos confiesan. Iojanán, Eliyahu y un profeta son respuestas que reconocen importancia, pero no resuelven la pregunta. Kefa responde: «Tú eres el Mesías, el Hijo de Elohim». La clase insiste acertadamente en que la voz pública no establece por sí misma la verdad bíblica; el relato obliga a pasar de rumores a una respuesta ante Yehoshua.
 
@@ -139,7 +139,7 @@ La secuencia verbal confirma esa dependencia entre título y camino. **(ἐπι�
 
 Por eso el llamado de 8:34 no puede separarse del anuncio anterior. **(ἀκολουθέω)**, _akoloutheō_, «seguir o acompañar», ordena ponerse detrás de Yehoshua; **(ἀπαρνέομαι)**, _aparneomai_, «negarse o renunciar a sí mismo», y **(αἴρω)**, _airō_, «levantar o tomar», describen la respuesta del discípulo. **(σταυρός)**, _stauros_, «cruz o madero de ejecución», conserva el costo público del camino. La comparación con **(אמן)**, _aman_, «afirmarse o confiar», es pedagógica y aproximada; no reemplaza las formas griegas. Así, la clase puede hablar de una visión que madura, pero el texto fija la prueba: reconocer al Mesías incluye seguirlo en el camino que él mismo anuncia.
 
-## El Ben HaAdam debe padecer, morir y levantarse (8:31-33)
+## El Ben HaAdam debe padecer, morir y levantarse (8:31-33) #markos_8_31-33
 
 El giro llega con «comenzó a enseñarles». #markos_8_31 no presenta el padecimiento como accidente que sorprende al Mesías, sino como enseñanza necesaria dentro del camino del **(בן האדם)**. El versículo enumera rechazo por ancianos, sacerdotes y oficiales, muerte y levantamiento después de tres días. Es una secuencia, no una celebración genérica del dolor: rechazo, muerte y resurrección quedan unidos.
 
@@ -147,7 +147,7 @@ La clase coloca este anuncio frente a una expectativa de permanencia mesiánica 
 
 Eric propone varias conexiones con Salmo 8, Ivrim 2, Hechos 2, Isaías 53 y la condición corporal de Yehoshua. Algunas de esas conclusiones exceden Marcos 8 y otras dependen de interpretaciones doctrinales debatidas. Esta nota conserva el núcleo comprobable: Marcos llama «Ben HaAdam» precisamente al que debe sufrir, morir y levantarse. Kefa no lo rechaza por falta de respeto al título, sino porque su idea del Mesías no admite el camino que Yehoshua acaba de revelar. Por eso recibe la reprensión: piensa «lo de los hombres», no «lo de Elohim».
 
-## La simiente prometida no cancela el camino anunciado (8:31-33)
+## La simiente prometida no cancela el camino anunciado (8:31-33) #markos_8_31-33
 
 La parte 27 vuelve a `#markos_8_31` para explicar por qué el anuncio de muerte resultaba tan disruptivo. Eric vincula la promesa de un trono duradero con **(זרע)**, _zera_, y sostiene que la «simiente» prometida debe identificarse singularmente con el Mesías. Hay una observación textual importante que conviene conservar: _zera_ nombra literalmente semilla y puede tener alcance colectivo; traducirlo siempre por «descendencia» puede ocultar la imagen agrícola y la pregunta por su referente. Tehilim 89:4 y 36 efectivamente emplea la forma para la simiente de David y la liga con un trono perdurable.
 
@@ -157,7 +157,7 @@ Eric también apela a #yirmeyahu_22_30 acerca de Jeconías/Conías para sostener
 
 Así, la promesa no funciona como objeción contra #markos_8_31. Kefa intenta corregir a Yehoshua precisamente cuando el Mesías redefine el triunfo esperado mediante sufrimiento y resurrección. La corrección de Yehoshua no exige negar las promesas a David; exige que esas promesas no se usen para silenciar la palabra clara sobre el camino que él debe recorrer.
 
-## Perder la vida para salvarla: la forma del seguimiento (8:34-38)
+## Perder la vida para salvarla: la forma del seguimiento (8:34-38) #markos_8_34-38
 
 Yehoshua no deja el conflicto entre él y Kefa como asunto privado. Convoca a la congregación junto con los discípulos y define el seguimiento: negarse a sí mismo, tomar la cruz y venir detrás de él. **(σταυρός)** no alude a un esfuerzo genérico; evoca una ejecución romana. El llamado, por tanto, no promete un programa de ascenso social ni un mesianismo que use la fuerza para imponerse.
 
@@ -165,7 +165,7 @@ Los vv. 35-37 forman una paradoja cuidadosamente articulada. Quien quiere salvar
 
 El cierre conserva el horizonte de gloria: el Ben HaAdam vendrá en la gloria de su Padre con los ángeles santos. Así, el capítulo mantiene juntas cruz y gloria. El que será rechazado y muerto no queda definido por el rechazo; tampoco la gloria futura permite borrar el camino de obediencia y entrega que él mismo ha descrito. La confesión de Kefa madura cuando acepta ambas dimensiones.
 
-## Vergüenza pública y valor de la palabra (8:35-38)
+## Vergüenza pública y valor de la palabra (8:35-38) #markos_8_35-38
 
 Los últimos versículos estrechan todavía más el llamado. Yehoshua no contrapone simplemente una vida cómoda a una vida difícil: pregunta qué provecho obtiene alguien si gana el mundo entero y pierde su **ψυχή**. El verbo **κερδαίνω**, _kerdainō_, significa «ganar, obtener provecho»; en 8:36 crea un cálculo irónico. La ganancia puede ser total según la escala del mundo y, aun así, no rescatar la vida que el discípulo entrega para conservar la lealtad a la Besorah.
 
@@ -248,7 +248,7 @@ Marcos 8 debe leerse en orden completo: 8:1-9 provisión por compasión; 8:10-13
 
 La progresión controla también las afirmaciones léxicas. **σπλαγχνίζομαι**, _splanchnizomai_, «compadecerse», y **σημεῖον**, _sēmeion_, «señal», distinguen pan dado de prodigio exigido; **ζύμη**, _zymē_, «levadura», y **πεπωρωμένη**, _pepōrōmenē_, «endurecida», preparan la ceguera parcial; **βλέπω**, _blepō_, «ver», y **διδάσκω**, _didaskō_, «enseñar», enlazan la restauración y la explicación del título; **ἐπιτιμάω**, _epitimaō_, «reprender», marca el intento de Kefa de detener el anuncio; y **ἀκολουθέω**, _akoloutheō_, «seguir», lleva la corrección al llamado público de 8:34. Las conexiones sobre Jeconías, la simiente y la naturaleza del Mesías permanecen atribuidas y calificadas donde exceden la perícopa. Los tres videos de las partes 25-27 tienen IDs públicos distintos y se conservan como fuentes independientes dentro de esta única nota canónica del capítulo.
 
-## Prueba ordenada: pan, señal, levadura, visión y cruz (8:1-38)
+## Prueba ordenada: pan, señal, levadura, visión y cruz (8:1-38) #markos_8_1-38
 
 La secuencia local impide comenzar el capítulo en la confesión de Kefa. En 8:2, **σπλαγχνίζομαι**, _splanchnizomai_, «compadecerse», introduce siete panes partides y cuatro mil saciados; la observación de Eric sobre una provisión real queda apoyada por el contraste inmediato con 8:11-12, donde **σημεῖον**, _sēmeion_, «señal», nombra lo que se exige para tentar. Marcos no concede ese marco. En el bote, **ζύμη**, _zymē_, «levadura», de perushim y Horodós es malentendida como pan olvidado; **οὔπω νοεῖτε**, _oupō noeite_, «¿aún no entienden?», y **πεπωρωμένη**, _pepōrōmenē_, «endurecida», exponen el problema: ojos y oídos sin memoria de lo ya visto.
 

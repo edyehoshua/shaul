@@ -16,6 +16,8 @@ sources:
   - "https://www.youtube.com/watch?v=ERNipOyGcr0"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/delitzsch/json/matthew.json"
+source_ids:
+  - "youtube:ERNipOyGcr0"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -175,3 +177,8 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 - [Romanim 11](./romanim_11.md) — remanente y multipolaridad dentro de Israel.
 - [Ieshaiahu 65](../tanaj/ieshaiahu_65.md) — bifurcación entre masa inercial y remanente escogido.
 - [Bamidbar 13](../tanaj/bamidbar_13.md) — distribución de pueblos en las cuatro esquinas de la tierra.
+
+## Créditos
+
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=ERNipOyGcr0) (`source_id`: `youtube:ERNipOyGcr0`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

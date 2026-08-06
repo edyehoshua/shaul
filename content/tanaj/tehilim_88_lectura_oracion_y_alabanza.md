@@ -103,5 +103,5 @@ Tehilim 88 enseña a orar sin maquillar la oscuridad. Eric identifica en el enca
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim/Hymnos/Salmo Cap 88](https://www.youtube.com/watch?v=kCWRKnHiDig) — `source_id: youtube:kCWRKnHiDig`.
+- Video: [Tehilim/Hymnos/Salmo Cap 88](https://www.youtube.com/watch?v=kCWRKnHiDig) — `source_id`: youtube:kCWRKnHiDig`.
 - Esta nota organiza y contrasta la enseñanza con el texto local; no presenta una transcripción automática como cita literal.

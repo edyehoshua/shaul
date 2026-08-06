@@ -33,6 +33,8 @@ references:
 sources:
   - "https://www.youtube.com/live/LCt5Wt86POA?si=rMD1SDqGgVCsH5kI"
   - "/Users/jhonny/.codex/attachments/d026d3ee-b074-498d-a30f-cba93475285e/pasted-text.txt"
+source_ids:
+  - "youtube:LCt5Wt86POA"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -171,3 +173,9 @@ En el flujo del argumento, esa promesa depende de la misma vida indestructible q
 - [[yojanan_10_janukah_senales_mesias|Yojanán 10: Janukah y las señales del Mesías]]
 - [[yojanan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]
 - [[../temas/elohim_aba|Elohim y Aba como amor manifiesto y fuente]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=LCt5Wt86POA) (`source_id`: `youtube:LCt5Wt86POA`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

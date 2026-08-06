@@ -29,7 +29,7 @@ La nota organiza y contrasta la clase de Eric con Amós 2:6-16, usando el texto 
 | #amos_2_9-12 | ואנכי השמדתי את האמרי ... ואקים מבניכם לנביאים ומבחוריכם לנזרים ... ותשקו את הנזרים יין ועל הנביאים צויתם לאמר לא תנבאו | Yo destruí al amorreo delante de ellos ... levanté profetas y nazareos ... pero dieron vino a los nazareos y ordenaron a los profetas: No profeticéis. | La memoria de la gracia y el silenciamiento explican la responsabilidad. |
 | #amos_2_13-16 | הנה אנכי מעיק תחתיכם ... ואמיץ לבו בגבורים ערום ינוס ביום ההוא | He aquí, Yo haré crujir debajo de vosotros ... el valiente de corazón entre los fuertes huirá desnudo aquel día. | El juicio elimina la falsa seguridad militar y social. |
 
-## Justicia vendida y vulnerabilidad pisada (Amós 2:6-8)
+## Justicia vendida y vulnerabilidad pisada (Amós 2:6-8) #amos_2_6-8
 
 Eric conserva una observación concreta: el texto no describe una injusticia abstracta, sino una economía capaz de cambiar a una persona por dinero y al necesitado por el precio de unas sandalias. La imagen de poner la cabeza del pobre en el polvo intensifica la escena: no ayudar al que está tendido, cuando se tiene capacidad de hacerlo, equivale en la aplicación de la clase a pisarlo. Esta extensión pastoral conserva la fuerza gráfica del profeta, pero la nota la presenta como aplicación de la imagen, no como una traducción adicional.
 
@@ -39,7 +39,7 @@ En el versículo 7, el abuso de una joven y la explotación de los débiles est�
 
 El versículo 8 coloca vestidos tomados en prenda junto al altar y el vino de los multados en la casa de su elohim. Eric observa el escándalo de llevar al culto lo que fue arrancado al pobre. También usa el vino como imagen de doctrina dañina en otros contextos. Aquí esa conexión es pedagógica y debe mantenerse separada del sentido inmediato: Amós habla primero de vino y prendas dentro de un culto corrupto, no define *yayin* como “doctrina”.
 
-## La gracia recordada vuelve responsable al pueblo (Amós 2:9-12)
+## La gracia recordada vuelve responsable al pueblo (Amós 2:9-12) #amos_2_9-12
 
 La segunda unidad cambia el fundamento de la acusación. יהוה recuerda haber destruido al amorreo, sacado a Israel de Egipto y conducido al pueblo por el desierto durante cuarenta años. La clase usa esta secuencia para mostrar que la justicia no es una exigencia desconectada: quien fue rescatado y sostenido no puede tratar al débil como desecho. El argumento está textual y explícitamente sostenido por los versículos 9-10.
 
@@ -47,7 +47,7 @@ Luego aparecen profetas y nazareos. **(נביא)** *navi* es profeta, alguien ll
 
 Israel responde dando vino a los nazareos y ordenando a los profetas que no profeticen. La comunidad no solo comete injusticia; intenta neutralizar las señales de consagración y corrección que יהוה levantó. Por eso “profanar el nombre” incluye, en la aplicación de Eric, callar la palabra que confronta y ofrecer una enseñanza que normaliza el daño. La nota conserva esa observación concreta, pero marca como pendiente cualquier identificación histórica de instituciones o movimientos contemporáneos que la clase pudiera sugerir.
 
-## Seguridad humana deshecha por el juicio (Amós 2:13-16)
+## Seguridad humana deshecha por el juicio (Amós 2:13-16) #amos_2_13-16
 
 La imagen de **(מעיק)** *meiq* en el versículo 13 es difícil de fijar con una sola traducción; TTH comunica la idea de hacer crujir o comprimir debajo de alguien. La clase la entiende como una presión inevitable, comparable a una carreta cargada que ya no puede avanzar. Se conserva como imagen interpretativa, no como una afirmación de que el verbo tenga una única etimología segura.
 

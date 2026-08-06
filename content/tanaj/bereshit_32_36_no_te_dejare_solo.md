@@ -69,13 +69,13 @@ En 35:2 Yaakov manda: **הסרו את אלהי הנכר**, «quiten los dioses e
 
 En Bet-El, Elohim recuerda el nombre Israel y reafirma la promesa. **קום**, _qum_, significa levantarse; la orden «levántate, sube a Bet-El» convierte la memoria en movimiento. El retorno no es solo una sensación de acompañamiento: implica construir altar, responder a la palabra y ordenar la casa. El capítulo finaliza con la muerte de Rajel y el crecimiento de la familia; la presencia prometida convive con pérdida y responsabilidad.
 
-## 5. La oración precede a la estrategia: Bereshit 32:8–22
+## 5. La oración precede a la estrategia: Bereshit 32:8–22 #bereshit_32_8-22
 
 El OE resume la crisis así: **ויירא יעקב מאד ויצר לו**, «y Yaakov temió mucho, y le fue angustioso»; TTH dice «Yaakov tuvo mucho temor y se angustió». **ויירא**, _vayira_, es una forma de ירא, «temer»; **ויצר**, _vayitser_, procede de צרר, «angustiar, estrechar o afligir». La duplicación no es una etiqueta psicológica moderna: narra miedo y estrechez ante la llegada de Esav. La observación pública de Eric sobre no quedar solo conserva un consuelo válido, pero no debe silenciar la angustia que el texto nombra.
 
 Yaakov divide el campamento y envía un presente. El OE dice **כי אמר אכפרה פניו במנחה ההולכת לפני**, «porque dijo: apaciguaré su rostro con el presente que va delante de mí»; TTH traduce «apaciguaré su rostro con el regalo que va delante de mí». **אכפרה**, _akhapperah_, es una forma de כפר, «cubrir, expiar o apaciguar»; aquí su fuerza narrativa es buscar el favor de Esav mediante un regalo, no realizar automáticamente una expiación cultual. La estrategia no sustituye la oración de 32:10–13: el capítulo mantiene juntas súplica, memoria de la promesa y acción prudente.
 
-## 6. La lucha deja una bendición herida: Bereshit 32:23–33
+## 6. La lucha deja una bendición herida: Bereshit 32:23–33 #bereshit_32_23-33
 
 El OE afirma **ויוותר יעקב לבדו ויאבק איש עמו עד עלות השחר**, «y Yaakov quedó solo, y un hombre luchó con él hasta subir el alba»; TTH conserva «un hombre luchó con él hasta que amaneció». **לבדו**, _levado_, significa «solo, por sí mismo»; es una soledad situacional, no una tesis de que toda ayuda humana sea inútil. **ויאבק**, _vayeaveq_, es la forma narrativa de אבק, asociada con forcejear o luchar. «Batalla espiritual» es una equivalencia pedagógica, no una traducción exacta de la forma.
 
@@ -101,7 +101,7 @@ El OE de 35:3 conserva la confesión de Yaakov: **נקומה ונעלה בית �
 
 Por eso el título público de Eric recibe una evaluación doble. Es fiel como consuelo: Yaakov no atraviesa la amenaza y el duelo abandonado por Elohim. Pero sería débil como resumen si quitara la oración, la prudencia, la reprensión de la violencia, la purificación de la casa y la memoria genealógica. «No te dejaré solo» no significa «no tendrás que decidir»; significa que el retorno responsable ocurre bajo una presencia que también corrige.
 
-## 10. La separación de Esav no borra la bendición: Bereshit 36:1–8
+## 10. La separación de Esav no borra la bendición: Bereshit 36:1–8 #bereshit_36_1-8
 
 El cierre de la unidad no debe terminar en Bet-El como si la historia de Esav fuese un apéndice prescindible. Bereshit 36 comienza con «estas son las generaciones de Esav, él es Edom» y después registra que Esav tomó sus mujeres, sus bienes y «se fue a una tierra, de delante de Yaakov su hermano» (36:1–8). **תולדות**, _toledot_, significa generaciones, descendencia o historia familiar; aquí introduce una genealogía real, no una nota decorativa. **ארץ**, _erets_, significa tierra o territorio; en 36:6–8 señala el espacio al que Esav se traslada porque los bienes de ambos no caben juntos.
 
@@ -162,7 +162,7 @@ La muerte de Rajel y la genealogía de Esav impiden cerrar con triunfalismo. **(
 | Bereshit 35        | El retorno exige quitar dioses extraños y subir a Bet-El; la clase proyecta Bet-El hacia el Mesías. | Apoyo directo a la purificación doméstica; la lectura escatológica de Bet-El como Jerusalén/Mesías es pedagógica.                     |
 | Bereshit 36:1-8    | La separación de Esav conserva su genealogía y territorio.                                          | Apoyo textual: la bendición de Yaakov no borra al hermano ni convierte la distancia en desprecio.                                     |
 
-## El _ish_, el _shajar_ y quién bendice — Bereshit 32:25-32
+## El _ish_, el _shajar_ y quién bendice — Bereshit 32:25-32 #bereshit_32_25-32
 
 La clase de Eric (`youtube:VCfzHkmdwoc`) no se detiene solo en el consuelo de la presencia. Insiste en tres observaciones concretas del forcejeo nocturno: (1) Yaakov queda **solo**; (2) el hebreo dice **(שחר)**, _shajar_, alba o despuntar de la luz, y no «aurora» como fenómeno polar; (3) la petición «no te enviaré sino que me bendigas» obliga a preguntar **quién** bendice realmente a Yaakov.
 
@@ -201,5 +201,5 @@ Bereshit 32–36 sostiene el énfasis de Eric sin volverlo una consigna aislada.
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat vayishlaj - y envió - Gn 32:4-36:43 No te dejaré solo](https://www.youtube.com/watch?v=VCfzHkmdwoc) (source_id: `youtube:VCfzHkmdwoc`).
+- [Parashat vayishlaj - y envió - Gn 32:4-36:43 No te dejaré solo](https://www.youtube.com/watch?v=VCfzHkmdwoc) (`source_id`: `youtube:VCfzHkmdwoc`).
 - Esta nota organiza y contrasta el énfasis público de la clase; no presenta una transcripción automática como cita literal.

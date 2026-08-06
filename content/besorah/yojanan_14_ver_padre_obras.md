@@ -121,6 +121,6 @@ Yojanán 14:7-11 no desvía al discípulo de Yehoshua hacia una visión independ
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=bn1Ez0RR56g> — source_id: `youtube:bn1Ez0RR56g`.
-- Video: <https://www.youtube.com/watch?v=2UX8B7uvacQ> — source_id: `youtube:2UX8B7uvacQ`.
+- Video: <https://www.youtube.com/watch?v=bn1Ez0RR56g> — `source_id`: `youtube:bn1Ez0RR56g`.
+- Video: <https://www.youtube.com/watch?v=2UX8B7uvacQ> — `source_id`: `youtube:2UX8B7uvacQ`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

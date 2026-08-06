@@ -203,10 +203,10 @@ Así, la evaluación de Eric queda en tres niveles: **directa** para el paso de 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los colosenses (parte 10) Cap 3A](https://www.youtube.com/watch?v=7Ibhrf3fFy0) (source_id: `youtube:7Ibhrf3fFy0`).
-- [A los colosenses (parte 11) Cap 3B](https://www.youtube.com/watch?v=LgGlLtw7cEI) (source_id: `youtube:LgGlLtw7cEI`).
-- [A los colosenses (parte 12) cap 3C](https://www.youtube.com/watch?v=RMWHD1iRaKU) (source_id: `youtube:RMWHD1iRaKU`).
-- [A los colosenses (parte 13) cap 3D](https://www.youtube.com/watch?v=DZDYq-qeSKE) (source_id: `youtube:DZDYq-qeSKE`).
-- [A los colosenses (parte 14) cap 3E](https://www.youtube.com/watch?v=E2RaEpg61Ok) (source_id: `youtube:E2RaEpg61Ok`).
-- [A los colosenses (parte 15) cap 3F](https://www.youtube.com/watch?v=6eD73K6SzU0) (source_id: `youtube:6eD73K6SzU0`).
+- [A los colosenses (parte 10) Cap 3A](https://www.youtube.com/watch?v=7Ibhrf3fFy0) (`source_id`: `youtube:7Ibhrf3fFy0`).
+- [A los colosenses (parte 11) Cap 3B](https://www.youtube.com/watch?v=LgGlLtw7cEI) (`source_id`: `youtube:LgGlLtw7cEI`).
+- [A los colosenses (parte 12) cap 3C](https://www.youtube.com/watch?v=RMWHD1iRaKU) (`source_id`: `youtube:RMWHD1iRaKU`).
+- [A los colosenses (parte 13) cap 3D](https://www.youtube.com/watch?v=DZDYq-qeSKE) (`source_id`: `youtube:DZDYq-qeSKE`).
+- [A los colosenses (parte 14) cap 3E](https://www.youtube.com/watch?v=E2RaEpg61Ok) (`source_id`: `youtube:E2RaEpg61Ok`).
+- [A los colosenses (parte 15) cap 3F](https://www.youtube.com/watch?v=6eD73K6SzU0) (`source_id`: `youtube:6eD73K6SzU0`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -18,6 +18,8 @@ references:
   - "#tehilim_118_25"
 sources:
   - "https://www.youtube.com/watch?v=FrxD1V5awcM&list=PLw429MSY038taEkOAVJ7_lmH2rflIgIkZ"
+source_ids:
+  - "youtube:FrxD1V5awcM"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -104,3 +106,9 @@ Esta introducción propone leer Yojanan como un escrito transmitido en griego, p
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1)
 - [Yojanan 1: judíos, luz y cosmos](./yojanan_1_judios_luz_y_cosmos)
 - [Ben, hijo y títulos del Mesías](../temas/ben_hijo_titulos_mesias)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=FrxD1V5awcM) (`source_id`: `youtube:FrxD1V5awcM`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

@@ -27,7 +27,7 @@ Yejezkel 28:25-26 presenta la reunión de la casa de Israel como una obra de י�
 
 Esta nota sigue el orden breve de la perícopa y distingue el texto bíblico de las conexiones desarrolladas por Eric. La transcripción automática se usa para localizar sus énfasis, no como cita literal. Las observaciones sobre costumbres, exilio y relación con Yirmeyahu se atribuyen a la exposición y quedan subordinadas a la formulación explícita de Yejezkel 28:25-26.
 
-## Yejezkel 28:25 — reunir para santificar el nombre
+## Yejezkel 28:25 — reunir para santificar el nombre #yejezkel_28_25
 
 La palabra local dice: «Así dijo el Señor יהוה: Cuando reúna a la casa de Israel de entre los pueblos donde fueron esparcidos, entonces seré santificado en ellos ante los ojos de las naciones, y habitarán en su tierra que di a mi siervo Yaacov» (#yejezkel_28_25). El versículo comienza con la iniciativa divina: יהוה reúne. No se presenta a Israel como capaz de reconstruir por sí mismo su unidad; la reunión es una acción del Dios que habló al profeta.
 
@@ -35,7 +35,7 @@ Eric destaca la relación entre «reunir» y «santificar». Las naciones no sol
 
 El cierre del versículo recuerda la tierra dada a Yaacov. Eric usa esta referencia para impedir que la promesa se reduzca a una novedad sin historia. La reunión se conecta con la continuidad de la promesa y con la memoria de los padres. Al mismo tiempo, la nota no convierte cada detalle geopolítico moderno en cumplimiento automático: el centro textual es la acción de יהוה, su santidad y la responsabilidad del pueblo reunido.
 
-## Yejezkel 28:26 — habitar, edificar y reconocer
+## Yejezkel 28:26 — habitar, edificar y reconocer #yejezkel_28_26
 
 El versículo siguiente afirma: «Habitarán en ella seguros, edificarán casas, plantarán viñas y habitarán seguros cuando yo ejecute juicios sobre todos los que los desprecian alrededor; y sabrán que yo soy יהוה su Dios» (#yejezkel_28_26). La seguridad prometida se describe con actividades concretas: casas, viñas y permanencia. Eric observa que la restauración bíblica no es una abstracción espiritual; alcanza vivienda, trabajo, fruto y descanso.
 

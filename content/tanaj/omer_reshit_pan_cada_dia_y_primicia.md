@@ -52,13 +52,13 @@ Esta nota organiza la clase del hermano Eric de Jesús Rodríguez Mendoza en el 
 | #vaikra_23_15-17 | וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה׃ עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה׃ ממושבתיכם תביאו לחם תנופה שתים שני עשרנים סלת תהיינה חמץ תאפינה בכורים ליהוה | La presentación inaugura siete semanas, cincuenta días y dos panes de primicias con levadura. |
 | #iojanan_6_31, #iojanan_6_35, #iojanan_6_51 | **אבותינו אכלו את המן במדבר ... אנכי הוא לחם החיים ... והלחם אשר אתן הוא בשרי בעד חיי העולם** | Yehoshua relee el maná como señal y se presenta como pan de vida. |
 
-## Del alimento medido a la confianza diaria: Shemot 16:16-36
+## Del alimento medido a la confianza diaria: Shemot 16:16-36 #shemot_16_16-36
 
 Eric empieza definiendo el término desde el maná. La clase corrige la lectura castellana «gomer» y llama la atención sobre la forma hebrea **(עמר)**, *omer*. Shemot 16:16 no describe una cantidad arbitraria: cada uno recoge según su alimento y según el número de personas en su tienda. En el v. 18, el que recogió mucho no tiene sobrante y el que recogió poco no queda corto. Eric convierte esta observación en una lección concreta de confianza: no guardar para el día siguiente, porque la provisión se recibe día por día. La referencia narrativa al maná guardado que cría gusanos pertenece a la continuación del capítulo; el principio de dependencia está bien anclado en la secuencia de Éxodo.
 
 El v. 36 define el ómer como una décima parte del efa. Eric propone traducir esa relación a kilos y presenta una cifra aproximada de 4,5 kg. El texto local solo afirma la proporción; no ofrece aquí el peso moderno del efa. Por eso la cifra de la clase se conserva como cálculo pedagógico pendiente de verificación, no como equivalencia bíblica exacta. También se preserva su observación de que el ómer puede describirse funcionalmente como «el pan de cada día»: es una aplicación explicativa basada en la ración diaria, no un segundo significado léxico obligatorio.
 
-## El ómer de la cosecha y el sentido de reshit: Vaikra 23:10-17
+## El ómer de la cosecha y el sentido de reshit: Vaikra 23:10-17 #vaikra_23_10-17
 
 Al pasar a Vaikra 23, Eric insiste en que el texto presupone entrada en la tierra y cosecha. El ómer ya no es solamente lo que cada persona recoge del maná: es **(עמר ראשית קצירכם)**, *omer reshit qetsirkhem*, la primera porción de la cosecha que se trae al sacerdote. **(ראשית)**, *reshit*, puede nombrar comienzo, primera parte o primicia; Eric añade el matiz de lo óptimo y apto, sin defecto. Esa aplicación pastoral conserva su punto concreto —no presentar cualquier fruto defectuoso—, pero el versículo debe establecer primero lo que sí dice: se presenta el ómer de la primera cosecha. La afirmación de que *reshit* incluye necesariamente «lo más perfecto» queda pendiente de revisión léxica y ritual.
 

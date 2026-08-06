@@ -39,7 +39,7 @@ Se recorre el poema breve en su orden de tres versos. La enseñanza pública del
 | #tehilim_133_2 | **כשמן הטוב על הראש ירד על הזקן זקן אהרן שירד על פי מדותיו**          | El aceite bueno baja desde la cabeza hasta la barba y el borde de las vestiduras de Aarón. |
 | #tehilim_133_3 | **כטל חרמון שירד על הררי ציון כי שם צוה יהוה את הברכה חיים עד העולם** | El rocío que baja sobre Sion explica el lugar donde יהוה ordena bendición y vida eterna.   |
 
-## Hermanos que habitan juntos — Tehilim 133:1
+## Hermanos que habitan juntos — Tehilim 133:1 #tehilim_133_1
 
 Eric comienza reconociendo que éste es un himno muy querido y que precisamente por ser breve exige desmenuzar cada término. **הנה** (_hinneh_, he aquí) introduce una escena ante los ojos; no dice simplemente que la unidad sería bonita en teoría. **מה טוב ומה נעים** (_mah tov u-mah naim_) puede traducirse «qué bueno y qué agradable», y Eric considera más exacta esa forma exclamativa que una fórmula plana como «mirad cuán bueno». El sentido normal de **טוב** (_tov_) es bueno y el de **נעים** (_naim_) agradable, placentero o amable; la relación con una realidad que se puede experimentar es contextual y pedagógica.
 
@@ -47,7 +47,7 @@ La frase **שבת אחים** (_shevet ajim_) habla de hermanos que se sientan, h
 
 Eric afirma que el reto consiste en pasar de la visión de יהוה a una realidad vivida: la Escritura anuncia que es bueno, pero parientes y creyentes pueden tener dificultades de convivencia. La exhortación no autoriza negar límites o conflictos reales; el v. 1 sí presenta la habitación conjunta como bien que debe materializarse. Por eso la unidad no se mide sólo por llamarse «hermanos», sino por cooperación, trato amable y capacidad de permanecer sin convertir al otro en enemigo.
 
-## Aceite sobre Aarón: una unidad que desciende — Tehilim 133:2
+## Aceite sobre Aarón: una unidad que desciende — Tehilim 133:2 #tehilim_133_2
 
 La segunda imagen compara la unidad con el aceite bueno sobre la cabeza que desciende por la barba de Aarón hasta el borde de sus vestiduras. Eric observa el movimiento de arriba abajo: la bendición no se queda en la cabeza ni se derrama de manera caótica, sino que alcanza todo el cuerpo. **שמן** (_shemen_) significa aceite; **טוב** califica su calidad; **ירד** (_yarad_) significa bajar o descender. Estos sentidos son exactos.
 
@@ -55,7 +55,7 @@ La referencia a Aarón sitúa la imagen en el ámbito sacerdotal. Eric relaciona
 
 La clase conecta **אחים** (_ajim_, hermanos) con una forma de asociación, unidad y cooperación, y advierte contra usar «hermano» como etiqueta vacía dentro de las llamadas raíces hebreas o de cualquier congregación. La palabra normal significa hermanos, pero el contexto le da una fuerza relacional: el v. 1 no elogia individuos aislados, sino una habitación conjunta. «Cooperación» es una paráfrasis pedagógica, no el significado exclusivo de la forma nominal.
 
-## Rocío de Hermón y bendición de Sion — Tehilim 133:3
+## Rocío de Hermón y bendición de Sion — Tehilim 133:3 #tehilim_133_3
 
 El rocío de Hermón que baja sobre los montes de Sion es la segunda comparación. Eric toma en serio el descenso repetido: así como el aceite alcanza las vestiduras, el rocío trae frescura y provisión a la tierra. **טל** (_tal_) es rocío; **חרמון** (_Jermon_) es Hermón; **ציון** (_Tsiyon_) es Sion. El texto pone en relación dos montes, pero no explica geográficamente cómo debe resolverse cada detalle; la imagen poética comunica abundancia que alcanza el lugar escogido.
 
@@ -108,5 +108,5 @@ Tehilim 133 no idealiza una cercanía superficial. Celebra a hermanos que efecti
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 133» — <https://www.youtube.com/watch?v=IVmyQVfOKeQ> — source_id: `youtube:IVmyQVfOKeQ`.
+- Video: «Tehilim/Himnos/Salmo Cap 133» — <https://www.youtube.com/watch?v=IVmyQVfOKeQ> — `source_id`: `youtube:IVmyQVfOKeQ`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

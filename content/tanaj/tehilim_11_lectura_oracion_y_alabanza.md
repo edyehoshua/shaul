@@ -38,7 +38,7 @@ La enseñanza sigue todo el salmo y propone leerlo junto con #shemuel_1_26_17-25
 | #tehilim_11_4-5 | **יהוה בהיכל קדשו יהוה בשמים כסאו עיניו יחזו עפעפיו יבחנו בני אדם; יהוה צדיק יבחן ורשע ואהב חמס שנאה נפשו** | El centro afirma el examen y el juicio de יהוה. |
 | #tehilim_11_6-7 | **ימטר על רשעים פחים אש וגפרית ורוח זלעפות מנת כוסם; כי צדיק יהוה צדקות אהב ישר יחזו פנימו** | El desenlace contrapone la porción de los malvados con la visión de los rectos. |
 
-## Refugio frente al consejo de huir — Tehilim 11:1
+## Refugio frente al consejo de huir — Tehilim 11:1 #tehilim_11_1
 
 Eric abre con la atribución «de David» y sitúa el salmo, como propuesta de lectura, en el tiempo de la persecución de Shaúl narrada en #shemuel_1_26_17-25. En ese relato David pregunta por qué lo persigue el rey y describe la expulsión de la heredad de יהוה como algo equivalente, en la práctica, a decirle que sirva a otros dioses. La relación ofrece un contexto concreto para la voz perseguida del salmo, aunque el encabezado de Tehilim 11 no identifica por sí mismo ese episodio; la asignación histórica queda pendiente de verificar.
 
@@ -46,13 +46,13 @@ El verso comienza con **ביהוה חסיתי**: **חסיתי** (_jasití_) expr
 
 La clase también cuestiona la partición tradicional de la última frase y propone «huye a la montaña como pájaro», en vez de otra división posible. El texto OE local conserva **הרכם צפור**, pero no resuelve por sí solo el debate de partición. Por ello la nota retiene el punto principal: alguien aconseja al orante abandonar su lugar de seguridad; la alternativa textual y la apelación a la Septuaginta son pendientes de verificación, no una corrección ya establecida.
 
-## Arco, oscuridad y cimientos — Tehilim 11:2-3
+## Arco, oscuridad y cimientos — Tehilim 11:2-3 #tehilim_11_2-3
 
 El orden del poema pasa del consejo a la amenaza: los malvados tensan el arco, preparan la flecha y disparan «en oscuridad» contra los rectos de corazón. Eric identifica a los agresores con quienes acompañan a Shaúl y con los zifeos, y relaciona el ataque con la muerte de los sacerdotes de Nov. Esa memoria hace concreta la afirmación de que se atacan medios de acercamiento a יהוה; sin embargo, los nombres, la secuencia y la motivación de esos sucesos deben evaluarse directamente en Samuel antes de convertirlos en el trasfondo histórico seguro del salmo.
 
 Ante «los cimientos» derribados, Eric no aconseja que el justo imite la violencia del agresor. Su observación concreta es que David no debía medir poder contra poder ni perder dignidad intentando ser tan malo como quien lo perseguía. El texto formula una pregunta —**צדיק מה פעל**, «¿qué ha hecho el justo?»— y no detalla una estrategia. La aplicación de la clase a no quedar consumido por desmoralización, a crecer en conocimiento y a no ceder ante la presión de una pareja, familia o enemigo es pastoral; conserva el movimiento de confianza del salmo sin reclamar que cada caso moderno esté explícitamente legislado en estos versos.
 
-## El templo, el trono y el examen — Tehilim 11:4-5
+## El templo, el trono y el examen — Tehilim 11:4-5 #tehilim_11_4-5
 
 El v. 4 responde a la crisis antes de anunciar castigo: יהוה está en su templo santo y su trono está en los cielos; sus ojos ven y sus párpados examinan a los hijos de Adán. Eric propone una lectura en la que la mención del templo señalaría una tierra ordenada, mientras que la localización del trono en el cielo implicaría una venida divina para corregir lo que está mal. El versículo sí reúne templo, cielo, trono y examen; no dice de manera explícita que el trono haya quedado vacío ni describe una encarnación. La extensión mesiánica de la clase debe sostenerse con otros textos y queda pendiente.
 
@@ -60,7 +60,7 @@ La clase explica **יחזו** (_yejezú_) como una visión profética o espiritu
 
 El v. 5 precisa el objeto del examen: יהוה prueba al justo y rechaza al malvado que ama la violencia. Eric conecta el justo con un proceso continuo de purificación y lee **חמס** (_jamas_) como violencia. El último sentido está apoyado por el uso textual inmediato; la elaboración sobre justificación, Espíritu y proceso posterior pertenece a una lectura canónica que debe argumentarse independientemente.
 
-## La copa de juicio y el rostro de los rectos — Tehilim 11:6-7
+## La copa de juicio y el rostro de los rectos — Tehilim 11:6-7 #tehilim_11_6-7
 
 Los vv. 6-7 cierran la secuencia sin volver al miedo inicial. Fuego, azufre y viento abrasador constituyen la «porción de su copa» para los malvados; el motivo explícito es que יהוה es justo, ama las justicias y los rectos contemplarán su rostro. Eric usa **כוס** (_kos_, «copa») como imagen de comunión y contrasta la porción de juicio con la copa de salvación de otros salmos y con advertencias apostólicas contra compartir mesa con la idolatría. En Tehilim 11 la copa designa inequívocamente una porción recibida en juicio; la equivalencia extensa entre toda copa bíblica y comunión es una analogía canónica, no una definición léxica exhaustiva.
 

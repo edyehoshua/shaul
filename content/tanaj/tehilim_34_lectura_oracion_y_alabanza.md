@@ -71,7 +71,7 @@ El salmo es acróstico en su cuerpo poético y lleva un encabezado histórico. S
 | **(מרמה)**             | mirmah          | engaño, falsedad, fraude                                         | En v. 14 califica los labios que deben ser guardados. La distinción de Eric entre franqueza y engaño conserva el contraste textual; no convierte toda franqueza en virtud automática.                                                                                                                                  |
 | **(טוב)** y **(שלום)** | tov y shalom    | bueno, bienestar; integridad, paz                                | En vv. 11 y 15 “bien” no equivale a riqueza y shalom implica más que ausencia de conflicto. Son aproximaciones contextuales que el desarrollo ético del salmo confirma.                                                                                                                                                |
 
-## 34:1-7 — Del “sabor” cambiado al testimonio de la liberación
+## 34:1-7 — Del “sabor” cambiado al testimonio de la liberación #tehilim_34_1-7
 
 El encabezado recuerda que David cambió su טעם delante de Abimélec y fue expulsado. Eric relaciona ese “sabor” con 1 Samuel 21:10-15, donde el rey se llama Aquis y David finge locura. La identificación del título Abimélec con una fórmula regia filistea es una observación histórica y lingüística que requiere verificación aparte; el enlace narrativo con 1 Samuel sí es explícito en la tradición del encabezado y en la clase.
 
@@ -81,7 +81,7 @@ En vv. 2-4 la voz pasa de “yo” a “conmigo”: “גדלו ליהוה את�
 
 El v. 6 dice que quienes miran hacia יהוה “נהרו”, una forma que puede evocar iluminarse o irradiar, y que sus rostros no serán avergonzados. Eric conecta esa mirada con Hebreos 12:2 y con la idea de argumentos no socavados. El salmo sí afirma la transformación de rostro y ausencia de vergüenza; la extensión a una defensa intelectual frente a opositores es una aplicación intertextual, no el sentido necesario de נהרו.
 
-## 34:8-11 — Mensajero, gusto y provisión sin promesa de lujo
+## 34:8-11 — Mensajero, gusto y provisión sin promesa de lujo #tehilim_34_8-11
 
 El v. 8 presenta al מלאך יהוה acampando alrededor de los que le temen y librándolos. Eric pide no leer automáticamente “el ángel de Adonay” como si el artículo castellano identificara un individuo divino especial. La observación lingüística es importante: מלאך significa enviado o mensajero y el sustantivo no resuelve por sí solo su identidad ontológica. El texto asegura protección y avance de los temerosos; no identifica al mensajero con Yehoshua ni desarrolla aquí una doctrina de apariciones.
 
@@ -89,13 +89,13 @@ El v. 8 presenta al מלאך יהוה acampando alrededor de los que le temen y 
 
 Los vv. 10-11 corrigen una lectura materialista: no hay carencia para quienes temen a יהוה, y los que le buscan no carecerán de “ningún bien”. Eric insiste en que טוב no promete automóvil, lujo ni abundancia ilimitada; habla de sustento, abrigo, gozo, obediencia y lo necesario según el propósito divino. El texto apoya el contraste con los leoncillos que pasan hambre, pero no fija por sí solo una lista de bienes espirituales. La cautela no borra la enseñanza: la provisión del salmo no es una garantía de comodidad comparativa.
 
-## 34:12-17 — El temor aprendido en lengua, labios y búsqueda
+## 34:12-17 — El temor aprendido en lengua, labios y búsqueda #tehilim_34_12-17
 
 Con “לכו בנים שמעו לי” (v. 12), el sobreviviente se vuelve maestro. Eric explica ירא como temor reverente que debe aprenderse hasta incorporarse a la vida, y conecta el pasaje con 1 Pedro 3:10-12, que cita la misma secuencia sobre lengua, mal, bien y paz. La conexión con 1 Pedro es explícita en la exposición y el paralelo verbal es fuerte; no significa que Tehilim 34 pierda su contexto israelita.
 
 Los vv. 13-14 concretan el temor: guardar la lengua del mal y los labios del engaño. Eric hace una distinción práctica entre hablar con franqueza y destruir a otro: la clase no usa “verdad” como permiso para causar daño. En los vv. 14-15, רע puede referirse a mal o daño, y מרמה a engaño. “Apartarse del mal, hacer bien, buscar paz y perseguirla” muestra que el temor no es emoción privada. Eric conecta שלום con quedar sin cuentas pendientes, reconciliación y responsabilidad en la comunidad. “Paz” es una traducción aproximada: el campo de shalom incluye integridad y relaciones reparadas, pero la aplicación a cada procedimiento comunitario debe seguir siendo cualificada. El v. 15 añade que los ojos y oídos de יהוה están hacia quienes hacen el bien; el v. 16 contrapone su rostro contra quienes hacen el mal. El contraste es textual y ético, no una autorización para clasificar a personas con ligereza.
 
-## 34:18-23 — Quebranto, disciplina y rescate final
+## 34:18-23 — Quebranto, disciplina y rescate final #tehilim_34_18-23
 
 El salmo vuelve al clamor: יהוה escucha y libra (v. 18), está cerca del corazón quebrantado y salva al abatido (v. 19), y rescata al justo de muchas aflicciones (v. 20). Eric aplica esta promesa a quienes se sienten quebrados y pide que la palabra llegue como consuelo. La aplicación pastoral está claramente motivada por el versículo, pero “de todas” no debe prometer que ningún creyente sufrirá; el propio v. 20 comienza diciendo que las aflicciones son muchas.
 
@@ -131,5 +131,5 @@ Tehilim 34 no deja la liberación en una anécdota privada. El sabor cambiado de
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo cap 34» — <https://www.youtube.com/watch?v=f0eWr7mvVQ0> — source_id: `youtube:f0eWr7mvVQ0`.
+- «Tehilim/Himnos/Salmo cap 34» — <https://www.youtube.com/watch?v=f0eWr7mvVQ0> — `source_id`: `youtube:f0eWr7mvVQ0`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

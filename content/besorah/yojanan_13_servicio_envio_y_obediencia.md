@@ -109,5 +109,5 @@ Yehoshua no presenta el servicio como pérdida de su condición de Maestro y Ad�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=j8X5qMbLDfM> — source_id: `youtube:j8X5qMbLDfM`.
+- Video: <https://www.youtube.com/watch?v=j8X5qMbLDfM> — `source_id`: `youtube:j8X5qMbLDfM`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

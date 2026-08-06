@@ -31,7 +31,8 @@ references:
   - "#iojanan_9_7"
 sources:
   - "https://www.youtube.com/live/W1agi038QCs?si=I5vk4GKthCUPDBE_"
-  - "private/sources/youtube_W1agi038QCs_transcript.txt"
+source_ids:
+  - "youtube:W1agi038QCs"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -166,3 +167,9 @@ La entrega de la nefesh en #iojanan_10_17-18 no contradice las obras ya mostrada
 - [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]
 - [[../temas/janukah|Janukah]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=W1agi038QCs) (`source_id`: `youtube:W1agi038QCs`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

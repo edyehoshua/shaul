@@ -40,19 +40,19 @@ La fuente es la tercera parte de la serie sobre Hebreos. Esta nota sigue el cap�
 | #hebrews_2_9-13  | **אבל ישוע המחסר מעט ממלאכים אותו ראינו מעטר בכבוד והדר מפני ענותו עדמות למען אשר יטעם בחסד אלהים אתהמות בעד כלם כיהוא אשר הכל למענו והכל עלידו בהנחתו בנים רבים לכבוד נאה היה לו להשלים בענוים אתשר ישועתם כי גםהמקדש גםהמקדשים כלם מאחד המה ועלכן לא בוש מקרא להם אחים לאמר אספרה שמך לאחי בתוך קהל אהלל ואומר וקויתי לו ועוד הנה אנכי והילדים אשר נתןלי יהוה**           | La humillación hasta la muerte conduce a gloria y a la identificación con los hermanos.          |
 | #hebrews_2_14-18 | **ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם כמוהם למען אשר יבטל עלידי המות את אשרלו ממשלת המות הוא השטן ולהתיר כלאלה אשר מאימת המות היו נתנים לעבדות כלימי חייהם כי אמנם לא במלאכים החזיק כי אםבזרע אברהם החזיק עלכן צריך היה לו להדמות לאחיו בכלדבר למען אשריהיה כהן גדול רחמן ונאמן בעניני אלהים לכפר עלחטאת העם כי באשר הוא נסה ויענה בנפשו יכל לעזר אתהמתנסים** | La participación en carne y sangre explica la muerte, el sacerdocio misericordioso y el auxilio. |
 
-## Escuchar una salvación grande (2:1-4)
+## Escuchar una salvación grande (2:1-4) #hebrews_2_1-4
 
 La primera unidad no es un prefacio aislado. El «por tanto» conecta la advertencia con la superioridad del Hijo ya expuesta: si la palabra anunciada por medio de ángeles tuvo consecuencias para toda transgresión, mucho más serio es descuidar la salvación anunciada por el Señor. Eric observa que el mensaje debe conservarse con cuidado y que el testimonio incluye señales, prodigios, obras poderosas y dones del Ruaj HaKodesh. Hebreos 2:3-4 sostiene esa cadena sin reducirla a una experiencia subjetiva: Elohim mismo da testimonio y reparte los dones según su voluntad.
 
 La exhortación no dice que la salvación se pierda por cualquier distracción momentánea ni autoriza a calcular el destino de una persona. Su afirmación comprobable es la gravedad de apartarse del mensaje oído. La clase ayuda a mantener la conexión entre revelación y responsabilidad; el texto añade que la confirmación divina no desplaza la necesidad de atender.
 
-## El Salmo 8 y el mundo venidero (2:5-8)
+## El Salmo 8 y el mundo venidero (2:5-8) #hebrews_2_5-8
 
 Eric presenta el Salmo 8 junto con Isaías 8 como un drash: no una simple yuxtaposición de frases, sino una lectura que reúne al «hijo de hombre» humillado y a los hijos dados por Elohim. En 2:5-8, sin embargo, el movimiento visible comienza con una negación: el mundo venidero no está sujeto a los ángeles. La cita celebra el destino humano —ser recordado, visitado, coronado de gloria y puesto sobre las obras— mientras reconoce que todavía no vemos todas las cosas sometidas.
 
 Ese «todavía no vemos» es decisivo. La clase observa la tensión entre el propósito dado a la humanidad y la condición presente. Hebreos no niega la promesa por la experiencia actual, ni afirma que toda autoridad humana ya esté consumada. La lectura cristológica aparece inmediatamente después: vemos a Yehoshua, hecho menor que los ángeles por causa del padecimiento de la muerte, coronado de gloria y honra.
 
-## Humillación, gloria y hermanos (2:9-13)
+## Humillación, gloria y hermanos (2:9-13) #hebrews_2_9-13
 
 El capítulo interpreta la humillación no como fracaso, sino como el camino por el cual Yehoshua prueba la muerte por todos y es coronado. El fundamento de esa identificación es que el que santifica y los santificados proceden de uno; por eso no se avergüenza de llamarlos hermanos. Eric destaca aquí la relación entre el Salmo 8 y las palabras de Isaías 8: «he aquí, yo y los hijos». La observación tiene apoyo en el orden del texto: el autor coloca la muerte del Mesías, la santificación de muchos y la solidaridad familiar antes de citar esos pasajes.
 
@@ -60,7 +60,7 @@ La expresión «hermanos» no borra la diferencia entre Yehoshua y quienes son s
 
 Eric se detiene además en 2:10, donde algunas traducciones presentan al autor de la salvación como “perfeccionado” por padecimientos. Su observación es que esa formulación puede sugerir equivocadamente que Yehoshua era moralmente imperfecto y que el dolor lo volvió perfecto. El verbo **τελειόω** (_teleioō_) significa llevar a término, completar o hacer alcanzar la meta; en este contexto la relación con “consumir por completo” es aproximada pero explica mejor la función del sufrimiento dentro del argumento. El versículo no convierte el padecimiento en una mejora ética del Hijo: lo presenta como el camino mediante el cual Elohim lleva a término su obra de llevar muchos hijos a la gloria.
 
-## Carne y sangre, muerte y sacerdocio (2:14-18)
+## Carne y sangre, muerte y sacerdocio (2:14-18) #hebrews_2_14-18
 
 La última unidad explica por qué el Hijo participó de carne y sangre: mediante la muerte derrota al que tiene el poder de la muerte, libera a quienes vivían esclavizados por el temor y toma de la descendencia de Abraham, no de los ángeles. La exposición subraya que la ayuda no se dirige a una humanidad abstracta, sino a la línea humana y del pacto. El texto local lo expresa con precisión y culmina en «sus hermanos en todo».
 

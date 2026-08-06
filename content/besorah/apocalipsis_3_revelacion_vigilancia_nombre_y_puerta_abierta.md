@@ -52,7 +52,7 @@ Esta nota reúne las clases 9–12 de la serie de Eric de Jesús Rodríguez Mend
 | #revelation_3_14-18 | **הָאָמֵן הָעֵד הַנֶּאֱמָן וְהָאֲמִתִּי רֵאשִׁית בְּרִיאַת הָאֱלׂהִים ... זָהָב צָרוּף בָּאֵשׁ ... בְּגָדִים לְבָנִים**                                                                                                                                                 | Laodicea confunde riqueza visible con verdadera condición; el consejo del texto invierte esa evaluación. |
 | #revelation_3_19-21 | **אֲנִי אֶת־כּׂל אֲשֶׁר אֵהַב אוֹכִיחַ וַאֲיַסֵּר ... הִנְנִי עׂמֵד בַּפֶּתַח וְדׂפֵק**                                                                                                                                                                                 | La reprensión es presentada como amor; escuchar y abrir precede a la comunión y al reinado compartido.   |
 
-## Sardis: un nombre de vida que debe ser guardado (3:1-6)
+## Sardis: un nombre de vida que debe ser guardado (3:1-6) #revelation_3_1-6
 
 La primera clase comienza por el nombre de Sardis y advierte contra convertirlo automáticamente en una geografía o una era histórica. Eric relaciona el mensaje con una comunidad que tiene fama de estar viva, pero cuya evaluación real es la muerte. El contraste no queda en una impresión espiritual: el texto dice que sus obras no han sido halladas completas delante de Elohim (#revelation_3_1-2). Por eso la instrucción es concreta: estar despierto, fortalecer lo que queda, recordar lo recibido y oído, guardarlo y volver (#revelation_3_2-3).
 
@@ -60,13 +60,13 @@ Eric conecta esta vigilancia con su insistencia en estudiar la Torá y el testim
 
 La clase también desarrolla el valor de “tener nombre”. En la enseñanza, nombre no es sólo una etiqueta administrativa, sino la fama o manifestación por la que una persona es conocida. El texto permite afirmar que la reputación de vida puede ser desmentida por las obras; no permite afirmar que toda teoría etimológica propuesta durante la clase sea demostrada por el griego. Los pocos que no mancharon sus vestidos reciben vestidos blancos y reconocimiento delante del Padre (#revelation_3_4-5): la imagen sostiene una promesa de perseverancia, no una licencia para juzgar la situación interior de personas concretas.
 
-## Filadelfia: poca fuerza, palabra guardada y puerta abierta (3:7-13)
+## Filadelfia: poca fuerza, palabra guardada y puerta abierta (3:7-13) #revelation_3_7-13
 
 Eric resume el recorrido de los mensajes anteriores como una recuperación del primer amor, del discernimiento y de una confesión que debe coincidir con las obras. Al llegar a Filadelfia, el texto cambia el énfasis: no presume de gran poder, sino que reconoce “poca fuerza”, guardar la palabra y no negar el nombre (#revelation_3_8). La puerta abierta está en la mano de quien posee la llave de David; el pasaje declara que nadie puede cerrarla (#revelation_3_7-8). En esta nota, “puerta abierta” se entiende primero como una imagen de autoridad mesiánica y oportunidad custodiada por Yehoshua, no como una predicción cronológica específica.
 
 La clase relaciona la prueba de la confesión con la coherencia ética: afirmar que se cree en el Dios único mientras las obras lo niegan no satisface el mensaje apostólico. Esa aplicación se enlaza con la exhortación textual a guardar la palabra y perseverar (#revelation_3_10-11), aunque las referencias históricas y polémicas que Eric menciona al explicar a quienes “dicen ser judíos” deben estudiarse por separado. El capítulo promete un lugar estable en el templo, el nombre de Elohim, el nombre de la ciudad nueva y el nombre nuevo (#revelation_3_12); la pertenencia se recibe como promesa al vencedor, no como resultado de una autosuficiencia religiosa.
 
-## Laodicea: el amén, la creación y el diagnóstico de la tibieza (3:14-22)
+## Laodicea: el amén, la creación y el diagnóstico de la tibieza (3:14-22) #revelation_3_14-22
 
 En la clase sobre 3:12, Eric detiene el paso para tratar la expresión “mi Dios”. Su argumento es que una traducción española puede producir la impresión de que Yehoshua es un subordinado creado, y por eso insiste en distinguir categorías de creador y criatura. También explica **(אלהים)** (_Elohim_) y **(ܐܠܗܐ)** (_Alaha_) como términos relacionados pero no idénticos en sus asociaciones lingüísticas. La observación de que las formas no deben aplanarse en una equivalencia automática es útil; las afirmaciones históricas sobre el desarrollo semítico de cada término quedan pendientes de verificación. El texto de 3:12 menciona repetidamente el nombre de Elohim y la relación con el Padre, pero la nota no resuelve por una sola palabra todos los debates de ontología mesiánica.
 

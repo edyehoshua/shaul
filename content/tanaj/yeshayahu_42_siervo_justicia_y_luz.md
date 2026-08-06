@@ -14,8 +14,6 @@ sources:
   - "docs/scriptures/oe/json/isaiah/42.json"
 source_ids:
   - "youtube:StDmhcuW53g"
----
-
 ## Tesis
 
 #isaiah_42 presenta al siervo como aquel a quien יהוה sostiene para llevar משפט a las naciones; el texto pide atender primero a su propio lenguaje y contexto profético.
@@ -49,4 +47,4 @@ El pasaje une elección, Ruaj y justicia. Esa secuencia debe gobernar cualquier 
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftarah de Bre'shit (2017) La Neshamah](https://www.youtube.com/watch?v=StDmhcuW53g) — (source_id: `youtube:StDmhcuW53g`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftarah de Bre'shit (2017) La Neshamah](https://www.youtube.com/watch?v=StDmhcuW53g) — (`source_id`: `youtube:StDmhcuW53g`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

@@ -74,7 +74,7 @@ La respuesta de Iarobam es fabricar un sistema completo. Hace dos becerros de or
 
 Eric encadena las consecuencias: la idolatría abre la puerta a prácticas ajenas a la Torá; de ahí la clase traza una pendiente hacia inmoralidad y violencia. El núcleo textual seguro es la instalación del culto alternativo y su calificación como pecado. La tipología completa de “tres delitos capitales” (idolatría, inmoralidad sexual, homicidio) funciona en la exposición como marco moral heredado de la serie; no hay que leer Melajim 12 como si enumerara ya cada eslabón con el mismo detalle. Lo que el capítulo sí muestra con nitidez es que el norte no solo se separó políticamente: se reprogramó litúrgicamente para no necesitar Yerushaláim.
 
-## Hoshea 11:7-9: debilidad por apostasía y corazón revuelto
+## Hoshea 11:7-9: debilidad por apostasía y corazón revuelto #hoshea_11_7-9
 
 Solo después de ese marco Eric entra en el profeta. En #hoshea_11_7 el texto local dice que el pueblo está **(תלואים)** —adherido o colgado— a su apartamiento, y que el llamado “hacia lo alto” no termina en exaltación. La clase glosa: Israel se ha debilitado por haberse apartado de יהוה. Esa lectura es coherente con el hebreo de adhesión a la **(משובה)** (apostasía / vuelta atrás) y con el contexto histórico ya armado: un pueblo con culto propio no por fidelidad, sino por miedo y comodidad política.
 

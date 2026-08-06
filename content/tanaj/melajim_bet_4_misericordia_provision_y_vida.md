@@ -68,7 +68,7 @@ Se sigue el rango de las clases en orden textual (4:1–5:19). La exposición de
 - **4:8-17 — la cámara de la shunamita:** Eric presenta a la mujer de Shunem como alguien que discierne la santidad del hombre de Elohim y prepara un lugar concreto para su servicio. El TTH confirma la cámara, sus objetos y el anuncio del hijo; la lectura de la habitación como modelo universal de hospedaje es **aplicación**.
 - **4:18-37 — muerte, aferramiento y oración:** la exposición sigue la secuencia del niño, la respuesta contenida de la madre, el bastón que no produce resultado y la oración de Elishá a יהוה. El texto respalda la insuficiencia del bastón y la restauración del niño; no autoriza convertir los gestos físicos en una técnica repetible.
 
-## Deuda, aceite y vida recibida — 4:1-37
+## Deuda, aceite y vida recibida — 4:1-37 #melajim_bet_4_1-37
 
 La clase de Vayerá' comienza con una mujer de las mujeres de los hijos de los profetas. Su esposo ha muerto, el acreedor viene por los dos niños y ella clama a Elishá (#melajim_bet_4_1). Eric conserva el peso social de la escena: la viuda no llega con abundancia escondida, sino con una deuda que amenaza el futuro de sus hijos. El profeta no le ofrece una consigna abstracta; pregunta qué tiene en casa. Ella responde que solo posee una jarra de aceite.
 
@@ -80,7 +80,7 @@ El niño crece y muere en las rodillas de su madre. Eric sigue con atención la 
 
 El bastón enviado con Guejazí no despierta al niño. Elishá entra, cierra la puerta y ora a יהוה; luego se extiende sobre el niño, vuelve a andar por la casa y se extiende otra vez hasta que el muchacho estornuda siete veces y abre los ojos. La clase puede describir los gestos, pero el control textual está en la oración y en la atribución de la vida a יהוה. No hay base para presentar el bastón, el contacto corporal o el número siete como una fórmula autónoma. La mujer recibe a su hijo y sale: el episodio termina en restitución, no en exhibición del profeta.
 
-## Hambre, olla y panes en Gilgal — 4:38-44
+## Hambre, olla y panes en Gilgal — 4:38-44 #melajim_bet_4_38-44
 
 Eric no entra de golpe en Naamán. Remonta a 4:38: Elisha vuelve a Gilgal, hay hambre en la tierra y los discípulos de los profetas están sentados delante de él. El hebreo local tiene **בני הנביאים ישבים לפניו**. La clase insiste en que **בן** aquí funciona como discípulo en círculo profético, y que más adelante “pueblo” nombra a ese grupo, no a todo Israel. Esa precisión contextual es útil y **aproximada**: el relato usa el léxico familiar de los círculos proféticos.
 
@@ -88,7 +88,7 @@ La olla se llena con **פקעת שדה**, calabazas o melones silvestres de una 
 
 Inmediatamente llega el hombre de Baal-Shalishah con **לחם בכורים**, veinte panes de cebada y **כרמל** en su alforja. Eric distingue con cuidado primicias y estados del grano, y recuerda que no se confundan ofrendas y calendarios. El servidor objeta: **מה אתן זה לפני מאה איש**. Elisha no improvisa poder propio: **כי כה אמר יהוה אכל והותר**. Comieron y sobró **כדבר יהוה**. Aquí la clase traza el puente hacia las multiplicaciones del Mesías: la palabra de יהוה sostiene y multiplica. El paralelismo canónico es legítimo como eco; no convierte a Elisha en mera “prefiguración plana” ni agota el relato de Reyes.
 
-## Naamán: grandeza, reclamo y sierva pequeña — 5:1-8
+## Naamán: grandeza, reclamo y sierva pequeña — 5:1-8 #melajim_bet_5_1-8
 
 El capítulo 5 abre con densidad teológica. Naamán es jefe del ejército de Aram, hombre grande delante de su señor y **נשא פנים**. Eric conecta la construcción con el gesto de “levantar el rostro” y, de modo pedagógico, con la bendición sacerdotal que pide que יהוה alce su rostro (#bamidbar_6_22-27). El sentido normal de **נשא פנים** es favor o estima destacada; la clase lo oye también como reconocimiento que saca a alguien de la postración. Esa segunda capa es **aproximada**.
 
@@ -98,7 +98,7 @@ La niña cautiva dice a su señora: **אחלי אדני לפני הנביא אש
 
 Cuando el rey de Israel lee la carta, rasga sus vestidos y pregunta si él es Elohim para matar y dar vida. Eric lee el rasgar **בגדים** como acto público de identidad rota por la emoción, y recuerda que al sumo sacerdote se le prohibía ese gesto. Elisha responde con la pregunta correctiva: **למה קרעת בגדיך** —que venga a mí y sepa que hay profeta en Israel. El texto sostiene el contraste entre pánico real y presencia profética; la aplicación (“cuántas veces rasgamos identidad por la noticia”) es pastoral y atribuida.
 
-## Jordán, shock y carne de siervo pequeño — 5:9-19
+## Jordán, shock y carne de siervo pequeño — 5:9-19 #melajim_bet_5_9-19
 
 Naamán llega con caballos y carro hasta la puerta. Elisha ni siquiera sale: envía un mensajero con una orden humilde: ve, lávate siete veces en el Jordán, y tu carne volverá a ti y **וטהר**. Eric insiste en que **טהר** aquí es quedar apto/rehabilitado, el verbo de Vayiqrá 14, no un eufemismo vago de “limpieza moral” desconectada del relato.
 

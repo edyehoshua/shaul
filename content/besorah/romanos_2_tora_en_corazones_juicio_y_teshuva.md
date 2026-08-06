@@ -55,7 +55,7 @@ Esta nota organiza la clase pública **CARTA A LOS ROMANOS | La TORAH en sus COR
 | #romanos_2_14-16 | **Cuando los gentiles, los que no tienen la Torah, de sus corazones hacen la Torah, aunque no tengan la Torah, para sí mismos son por Torah,** ... **en el día que juzgará Elohim los secretos de los hombres, conforme a mi Besorah, en Yeshúa el Mesías.** | Describe una obediencia y un testimonio interior que desembocan en el juicio escatológico conforme a la Besorah. |
 | #yirmeyahu_31_33 | **Porque este el pacto que haré con la casa de Israel después de aquellos días –declaración de יהוה–, pondré mi Torah dentro de ellos, y sobre su corazón la escribiré; y seré para ellos por Elohim, y ellos serán para Mí por pueblo.** (TTH) | Texto del nuevo pacto que la clase conecta con la Torá escrita en el corazón; se usa como conexión canónica, no como cita de Romanos. |
 
-## 2:1-5: juzgar al otro y despreciar la bondad
+## 2:1-5: juzgar al otro y despreciar la bondad #romanos_2_1-5
 
 Eric retoma la acusación contra el hombre que juzga a quienes practican el mal mientras hace las mismas cosas. La clase entiende «no eres inocente» como una cuestión de culpabilidad ante el juicio, no meramente como ausencia de excusa. Esa observación sigue el movimiento textual: el juez se convierte en testigo contra sí mismo porque su propia práctica confirma la acusación (#romanos_2_1-3).
 
@@ -63,7 +63,7 @@ El versículo 4 desplaza la atención desde la condena humana hacia la riqueza d
 
 La teshuváh no se presenta como simple remordimiento ni como una penitencia autoinfligida. En la lectura de la clase es retorno a Elohim, producido por su bondad y conectado con la capacidad de escuchar y poner por obra la Torá. TTH traduce la nota como «retorno», lo que apoya esa dirección general; no demuestra por sí solo todas las afirmaciones doctrinales de la exposición. El pasaje sí afirma que la bondad conduce a la teshuváh y que despreciarla endurece el corazón.
 
-## 2:5-11: dureza, obras y ausencia de favoritismo
+## 2:5-11: dureza, obras y ausencia de favoritismo #romanos_2_5-11
 
 Romanos 2:5-8 contrasta el corazón duro y desobediente, que atesora ardor de ira para el día de la ira, con quienes buscan la vida olam en esperanza de obra buena. Eric advierte contra leer los dos puntos de ciertas versiones como si la vida eterna fuera un salario comprado por méritos humanos. La clase propone leer la recompensa —honra, ornamento e incorrupción— en relación con la vida venidera y subraya que las obras justas no son motivo de autosuficiencia. Esta cautela es compatible con la insistencia de la nota en la bondad de Elohim, pero la puntuación y la sintaxis exactas deben comprobarse en los testigos originales antes de declarar una traducción inválida.
 
@@ -71,7 +71,7 @@ La exposición distingue **tsará** como estrechez y angustia, no como nombre au
 
 El orden «al iehudí primeramente, y al ievaní» se explica por responsabilidad: quien recibió la Torá no obtiene inmunidad, sino que responde primero. El mismo principio alcanza a cualquiera que proclame conocer la Palabra y no la practique. El cierre de esta unidad es la ausencia de «levantamiento de rostros»: la expresión hebraizante comunica que יהוה no favorece al injusto por su identidad externa. La prioridad histórica o pactual no cancela el juicio imparcial.
 
-## 2:12-16: la Torá en el corazón y el alcance de «gentiles»
+## 2:12-16: la Torá en el corazón y el alcance de «gentiles» #romanos_2_12-16
 
 La clase insiste en que Romanos 2:13 no permite reducir la Torá a una identidad nominal: no son los oidores, sino los hacedores, quienes son justificados. Al leer 2:12, Eric prefiere la posibilidad de que quienes están «en Torah» sean defendidos por la Torah, en lugar de entender únicamente que serán juzgados por ella. El TTH conserva «serán defendidos» y añade «o, juzgados» en la nota; por tanto, la diferencia debe quedar visible y pendiente de análisis gramatical y textual.
 

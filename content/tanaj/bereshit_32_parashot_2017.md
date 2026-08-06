@@ -47,5 +47,5 @@ Bereshit 32 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayishlaj (2016) Gn 32:4-36:43 Cuando el ego es puesto por encima de Dios](https://www.youtube.com/watch?v=hK-RCD59p3c) (source_id: `youtube:hK-RCD59p3c`).
+- [Parashat Vayishlaj (2016) Gn 32:4-36:43 Cuando el ego es puesto por encima de Dios](https://www.youtube.com/watch?v=hK-RCD59p3c) (`source_id`: `youtube:hK-RCD59p3c`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

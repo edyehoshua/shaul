@@ -47,7 +47,7 @@ La fuente es la enseñanza «Tehilim/Himnos/Salmo 110» del hermano Eric de Jes�
 | #tehilim_110_6 | ידין בגוים מלא גויות מחץ ראש על ארץ רבה | El juicio entre las naciones emplea imágenes de derrota corporal y de una cabeza quebrantada. |
 | #tehilim_110_7 | מנחל בדרך ישתה על כן ירים ראש | El poema termina con beber del torrente en el camino y levantar la cabeza. |
 
-## La palabra a «mi señor»: Tehilim 110:1
+## La palabra a «mi señor»: Tehilim 110:1 #tehilim_110_1
 
 Eric abre con la pregunta que Yehoshua plantea en #mattityahu_22_41-46: si David llama «mi señor» a la figura del salmo, ¿en qué sentido se la puede llamar hijo de David? La clase rechaza reducir «hijo» a filiación biológica y propone que puede expresar herencia y representación. El texto de Tehilim sí distingue **(יהוה)** de **(אדני)**, *adoni*, «mi señor», y presenta una relación de autoridad; Mattityahu realmente cita el verso en su discusión. Sin embargo, el salmo no define por sí solo la biología, la preexistencia ni una teoría completa de las naturalezas del Mesías. Esas conclusiones pertenecen a la argumentación teológica de Eric y necesitan ser examinadas en el conjunto de los textos que él invoca.
 
@@ -55,7 +55,7 @@ La clase pide no traducir **(נאם)**, *naum*, con «oráculo», pues entiende 
 
 Eric lee «siéntate a mi diestra» no como dos sillas materiales, sino como encargo de autoridad ejecutiva. El contraste es útil: la imagen corporal puede expresar poder y favor, y no exige imaginar mobiliario celestial. Aun así, la afirmación de que la diestra es específicamente un «atributo» o un tribunal celestial separado excede la semántica inmediata de **(ימין)**, *yamin*, «derecha / diestra». El final del verso, **(הדם לרגליך)**, pone a los enemigos bajo los pies: la victoria es explícita, mientras que la cronología y el modo de cumplimiento quedan abiertos.
 
-## Cetro, gobierno y pueblo dispuesto: Tehilim 110:2–3
+## Cetro, gobierno y pueblo dispuesto: Tehilim 110:2–3 #tehilim_110_2-3
 
 El v. 2 avanza desde la posición a la acción. **(מטה עזך)**, *matte uzekha*, es el «cetro» o «vara de tu fuerza» que יהוה envía desde Sión; **(רדה)**, *redeh*, manda ejercer dominio. Eric recalca que la autoridad procede de Sión y que gobierna «en medio» de enemigos, no solo después de que desaparezcan. La secuencia textual apoya el gobierno y la presencia de enemigos; su distinción entre enemigos sometidos desde dentro y enemigos puestos como estrado es una construcción interpretativa que combina vv. 1–2 con otros textos, no dos categorías que el salmo nombre de forma expresa.
 
@@ -65,7 +65,7 @@ En el v. 3 Eric observa que el pueblo, antes enemigo, llega a ser **(נדבת)**
 
 La segunda mitad del v. 3 es difícil. Eric la relaciona con vientre, aurora, rocío, nacimiento y una manifestación de siervo; además propone una cercanía aramea entre «rocío», siervo y cordero. El OE local contiene **(מרחם משחר לך טל ילדתיך)**. Puede reconocerse el campo poético de vientre, aurora, rocío y juventud, pero el texto no nombra explícitamente siervo, cordero ni el nacimiento de Yehoshua. La sintaxis y las equivalencias arameas propuestas se mantienen pendientes de cotejo filológico.
 
-## Juramento y sacerdote: Tehilim 110:4
+## Juramento y sacerdote: Tehilim 110:4 #tehilim_110_4
 
 El centro del poema es el juramento: **(נשבע יהוה ולא ינחם)**, «juró יהוה y no se volverá atrás». Eric subraya que el sacerdocio no aparece como una concesión casual, sino como una decisión jurada. Eso sigue la forma del verso. **(כהן)**, *kohen*, nombra al sacerdote; la clase lo explica como «persona auténticamente libre» y presenta el sacerdocio como una condición de libertad. Tal relectura es importante para su enseñanza, pero «libre» no es la traducción básica de *kohen* y debe calificarse como desarrollo pedagógico pendiente de verificación léxica e histórica.
 
@@ -73,7 +73,7 @@ La expresión **(לעולם)**, *leolam*, se suele leer como «para siempre» o 
 
 Eric enlaza **(על דברתי מלכי צדק)** con Bereshit 14 e Ivrim 7. La carta a los Ivrim es una recepción explícita y extensa de Tehilim 110:4; por eso resulta pertinente leer ambos juntos. Pero la clase añade que Malqui-Tsedec es un atributo divino colocado en un mensajero celestial y que su juramento equivale a un tribunal de justicia. Ni Tehilim 110 ni Bereshit 14 explicitan esa identificación. La nota conserva el enlace como propuesta concreta de Eric y no lo presenta como historia o filología ya demostrada.
 
-## Juicio, naciones y cabeza levantada: Tehilim 110:5–7
+## Juicio, naciones y cabeza levantada: Tehilim 110:5–7 #tehilim_110_5-7
 
 Los vv. 5–6 retoman la diestra y despliegan juicio: **(מחץ)**, *mahats*, «quebrantó / aplastó», se repite; aparecen reyes, naciones, cuerpos y una cabeza. Eric asocia los **(גוים)** con poderes espirituales y la cabeza quebrantada con Satanás, Gog y Magog, Bereshit 3 y Ezequiel. El texto local confirma un juicio entre naciones y un lenguaje de violencia real dentro de la poesía de victoria. No identifica a los *goyim* con demonios, ni a la cabeza con Satanás, ni el territorio amplio con una geografía escatológica determinada. Esas redes intertextuales deben verificarse por separado y no usarse para borrar el sentido normal de «naciones» en el verso.
 

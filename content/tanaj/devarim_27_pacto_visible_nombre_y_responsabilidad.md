@@ -44,7 +44,7 @@ Esta nota trata Devarim 27 como capítulo canónico dentro del tramo de Ki Tavo 
 | #devarim_26_1-2   | **והיה כי תבוא אל הארץ אשר יהוה אלהיך נתן לך נחלה וירשתה וישבת בה** / **ולקחת מראשית כל פרי האדמה אשר תביא מארצך אשר יהוה אלהיך נתן לך... אשר יבחר יהוה אלהיך לשכן שמו שם**                                                                                                                                | «Cuando entres en la tierra… tomarás de las primicias… e irás al lugar que יהוה escoja para hacer habitar su nombre allí» | La entrada futura se expresa como certeza de la promesa y desemboca en gratitud localizada en el nombre de יהוה.                                        |
 | #devarim_28_58-63 | **אם לא תשמר לעשות את כל דברי התורה הזאת הכתובים בספר הזה ליראה את השם הנכבד והנורא הזה את יהוה אלהיך** / **והיה כאשר שש יהוה עליכם להיטיב אתכם ולהרבות אתכם כן ישיש יהוה עליכם להאביד אתכם ולהשמיד אתכם**                                                                                                 | «Si no guardas… para temer este nombre glorioso y temible, יהוה tu Elohim…»                                               | Las maldiciones son lenguaje pactal de juicio; la clase las interpreta también como advertencia que protege al pueblo y expone la pérdida de la tierra. |
 
-## Piedras, escritura y entrada: 27:1-8
+## Piedras, escritura y entrada: 27:1-8 #devarim_27_1-8
 
 Moshé y los ancianos empiezan con un imperativo breve: **שמר** (_shamar_), «guardar, custodiar, observar». Su sentido normal incluye vigilar algo confiado a una persona; «obedecer» comunica la consecuencia, pero es una equivalencia aproximada y no agota la imagen de custodiar. La orden no se limita a la ceremonia: «guarda toda la מצוה» (_mitzvah_, mandamiento). En este contexto, מצוה designa una instrucción concreta recibida de יהוה; traducirla simplemente como «regla» sería demasiado estrecho, mientras que «mandamiento» es una equivalencia adecuada para esta unidad.
 
@@ -52,13 +52,13 @@ Al cruzar el Jordán, el pueblo debe levantar piedras grandes, cubrirlas con cal
 
 El altar de piedras enteras y la comida festiva de los versículos 5-7 equilibran la escritura judicial. El TTH traduce las ofrendas de paz como «retribuciones», mientras que el hebreo **שלמים** (_shelamim_) pertenece al campo de integridad, bienestar o paz. «Ofrendas de paz» es la traducción tradicional; la equivalencia es aproximada porque el término también evoca una relación restaurada y una comida compartida. Israel debe alegrarse delante de יהוה, no presentar una obediencia sin comunión.
 
-## «Hoy te has convertido en pueblo»: 27:9-10
+## «Hoy te has convertido en pueblo»: 27:9-10 #devarim_27_9-10
 
 La orden **הסכת ושמע** (_hasket ushema_), «haz silencio y escucha», combina atención y recepción. **שמע** (_shama‘_) normalmente significa oír o escuchar; aquí su fuerza contextual incluye responder haciendo lo mandado. «Obedecer» es una equivalencia aproximada, no el significado mecánico de cada aparición. El pueblo se convierte en pueblo de יהוה cuando escucha su voz y hace sus mandamientos y estatutos.
 
 Eric orienta la atención hacia «el nombre de יהוה». El texto confirma que el nombre no funciona como una etiqueta separable de la conducta: el versículo 10 repite **ושמעת** y **ועשית**, «escucharás» y «harás». La identidad es relacional y práctica. No se trata de fabricar una reputación para יהוה, sino de recibir una pertenencia que obliga a escuchar. **עם** (_am_) significa pueblo; «comunidad religiosa» puede explicar el contexto, pero es una ampliación pedagógica, no una equivalencia exacta.
 
-## El «amén» comunitario y el mal oculto: 27:11-26
+## El «amén» comunitario y el mal oculto: 27:11-26 #devarim_27_11-26
 
 Las doce proclamaciones no forman una lista de pecados privados sin dimensión social. La primera denuncia la imagen hecha por manos humanas y colocada «en secreto». Luego el capítulo nombra deshonrar a padre y madre, mover la frontera del vecino, hacer errar al ciego, torcer el juicio del extranjero, huérfano y viuda, y tomar soborno para herir sangre inocente. El pacto se escucha desde el altar, pero examina prácticas que pueden quedar escondidas del público.
 
@@ -78,7 +78,7 @@ El movimiento comienza con **כי תבוא**, _ki tavo_, «cuando entres», pero
 
 La primera acción al entrar no es reclamar autonomía, sino tomar las primicias y caminar al lugar que יהוה elige «para hacer habitar allí su nombre». **(לשכן)**, _leshakken_, procede de שכן y significa hacer morar, establecerse o alojar. Eric relaciona esta raíz con _shekhinah_ y con la idea de una habitación tranquila, sin perturbación. La relación etimológica es **aproximada**: el verbo bíblico sí expresa hacer habitar, pero la definición «sin que nadie moleste» es una explicación contextual de la enseñanza, no todo el significado lexical. Además, el texto dice que habita allí el **(שם)**, _shem_, «nombre»; no afirma que la esencia de יהוה quede contenida en un edificio. La frase designa su presencia, autoridad y memoria pactal en el lugar escogido. Por eso la clase propone que «el nombre de יהוה» es equivalente a Mashíaj; esa identificación puede funcionar como lectura confesional **pedagógica**, pero no es una equivalencia léxica exacta de _shem_ en Devarim 26.
 
-## El nombre temible y la función de las maldiciones: Devarim 28:58-68
+## El nombre temible y la función de las maldiciones: Devarim 28:58-68 #devarim_28_58-68
 
 La clase extiende el hilo desde Devarim 26–27 hasta el final de las bendiciones y maldiciones. En 28:58, **(ליראה)**, _leyir'ah_, significa temer o reverenciar; aquí el temor está unido a guardar «todas las palabras» y honra **(השם הנכבד והנורא)**, _hashem hanikhbad vehanora_, «el nombre glorioso y temible». El texto no reduce las maldiciones a una reacción caprichosa de יהוה. Eric sostiene que funcionan como advertencia y protección de la cerca pactal: cuando Israel la cruza, las consecuencias descritas incluyen pérdida de tierra, libertad y heredad. Esa es una lectura pastoral **cualificada**; el pasaje sí presenta juicio pactal, pero también usa lenguaje fuerte de destrucción y dispersión, por lo que no se debe reemplazar su gravedad por una simple metáfora educativa.
 

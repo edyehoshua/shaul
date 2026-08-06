@@ -184,6 +184,6 @@ La respuesta de Yaakov confirma el orden. **וידר**, _vayidor_, es una forma 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayétze' (2016) Hama'aser: What is tithing and how does it work?](https://www.youtube.com/watch?v=vFJDD9Sd8vs) (source_id: `youtube:vFJDD9Sd8vs`).
-- [Parashat Vayetzé' - “y salió” Gn 28:10 - 32:3 - La Escalera](https://www.youtube.com/watch?v=X0hILB8r8N8) (source_id: `youtube:X0hILB8r8N8`).
+- [Parashat Vayétze' (2016) Hama'aser: What is tithing and how does it work?](https://www.youtube.com/watch?v=vFJDD9Sd8vs) (`source_id`: `youtube:vFJDD9Sd8vs`).
+- [Parashat Vayetzé' - “y salió” Gn 28:10 - 32:3 - La Escalera](https://www.youtube.com/watch?v=X0hILB8r8N8) (`source_id`: `youtube:X0hILB8r8N8`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

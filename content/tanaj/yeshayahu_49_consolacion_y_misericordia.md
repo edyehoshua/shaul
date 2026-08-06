@@ -108,5 +108,5 @@ Isaías 49 no responde al dolor de Sion con una negación superficial. יהוה 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de 'éqev (2018) Brit 'am, el merrajem](https://www.youtube.com/watch?v=D1CVhLpPy4M) — source_id: `youtube:D1CVhLpPy4M`.
+- Video: [Haftaráh de 'éqev (2018) Brit 'am, el merrajem](https://www.youtube.com/watch?v=D1CVhLpPy4M) — `source_id`: `youtube:D1CVhLpPy4M`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

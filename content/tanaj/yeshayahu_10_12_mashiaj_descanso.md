@@ -65,13 +65,13 @@ Esta nota organiza **Haftaráh de Se'udat Mashíaj - Is. 10:32-12:6 Mashíaj, el
 | #ieshaiahu_12_1-6   | הנה אל ישועתי אבטח ולא אפחד... ושאבתם מים בששון ממעיני הישועה... גדול בקרבך קדוש ישראל                        | El es mi salvación, confiaré y no temeré... sacarán aguas con gozo de las fuentes de la salvación... grande es en medio de ti el Santo de Israel.                                                         | El cántico responde al juicio con confianza, proclamación, gozo y reconocimiento de la presencia de יהוה.                  |
 | #ivrit_4_9          | על־כן נשארה עוד מנוחת שבת לעם אלהים                                                                           | Por tanto, queda todavía un reposo de Shabat para el pueblo de Elohim.                                                                                                                                    | Delitzsch conserva _menújat Shabat_; se registra como conexión con el “descanso” de Ieshaiáhu 11:10, no como cita directa. |
 
-## La poda de la soberbia precede al brote — Ieshaiáhu 10:32-34
+## La poda de la soberbia precede al brote — Ieshaiáhu 10:32-34 #ieshaiahu_10_32-34
 
 Eric comienza señalando que la lectura arranca en Nob, no directamente en el vástago mesiánico. En el texto local, el movimiento termina con la mano levantada hacia el monte de la hija de Tzión y con la imagen de יהוה Tzebaot cortando ramas altas. La clase relaciona Nob con el episodio de David y los sacerdotes de Nob. La conexión está respaldada por Shemuel Alef 22: Doeg acusa a Ajimélej de ayudar a David y luego Shaúl ordena la muerte de los sacerdotes. No se debe afirmar, sin embargo, que cada detalle de la explicación oral constituye el único sentido profético de Ieshaiáhu 10.
 
 La secuencia literaria es importante. El árbol elevado y el bosque poderoso caen antes de que Ieshaiáhu diga que un brote saldrá de la raíz de Ishai. Eric trata esa transición como una corrección del poder que se levanta contra el propósito de יהוה. Es una lectura teológica coherente con el contraste textual entre “los elevados” que son abatidos y la raíz aparentemente pequeña que vuelve a producir fruto. La nota conserva la aplicación mesiánica como interpretación de la unidad, no como sustituto del contexto asirio de los capítulos.
 
-## El brote de Ishai recibe el Rúaj — Ieshaiáhu 11:1-5
+## El brote de Ishai recibe el Rúaj — Ieshaiáhu 11:1-5 #ieshaiahu_11_1-5
 
 El centro de la exposición es Ieshaiáhu 11:1-5. El gobernante sale del tronco de Ishai y de sus raíces; no es un poder autónomo desprendido de David. Sobre él descansa el **(רוח יהוה)**, _Rúaj יהוה_, descrito mediante sabiduría, discernimiento, consejo, poder, conocimiento y temor de יהוה. Eric usa esta lista para insistir en que conocer al Mashíaj requiere observar cómo juzga y qué espíritu descansa sobre él, no repetir una identificación vaga.
 
@@ -79,13 +79,13 @@ La clase también se detiene en la expresión hebrea de 10:32 que algunas traduc
 
 Los vv. 3-5 impiden imaginar un juicio superficial. El gobernante no decide por la vista de sus ojos ni por lo que oye; juzga a los débiles con justicia y a los afligidos con rectitud. Eric conecta este criterio con el carácter del Mashíaj: la justicia no es adorno del reinado, sino su cinturón. En la hoja léxica, **(צדק)** _tsédeq_ y **(אמונה)** _emunah_ se tratan como términos relacionados con justicia y fidelidad; no se afirma que _emunah_ tenga una sola traducción española en todos los contextos.
 
-## Descanso glorioso, naciones y remanente — Ieshaiáhu 11:6-16
+## Descanso glorioso, naciones y remanente — Ieshaiáhu 11:6-16 #ieshaiahu_11_6-16
 
 La armonía entre lobo, cordero, leopardo y cabrito aparece después del gobierno justo. Eric observa que el texto explica la paz por el conocimiento de יהוה que llena la tierra, no por una simple tregua política. En el v. 10, la raíz de Ishai se levanta como estandarte de los pueblos y las naciones lo buscan; TTH traduce su **(מנוחה)**, _menújah_, como “descanso” y lo califica de gloria. La enseñanza enlaza este descanso con el reposo que todavía espera al pueblo en Hebreos 4, pero esa relación canónica es una conexión interpretativa, no una afirmación de que Ieshaiáhu esté citando literalmente toda la argumentación de Hebreos.
 
 Eric desarrolla luego la señal y la reunión. יהוה vuelve a extender su mano para adquirir al remanente de Ashur, Mitzráim, Patros, Kush, Elam, Shinar, Jamat y las islas del mar. Levanta un estandarte para las naciones, reúne a los dispersos de Israel y junta a Yehudáh desde las cuatro esquinas de la tierra. La clase subraya que el lenguaje no permite reducir la restauración a una sola comunidad ya reunida. El v. 13 añade que la envidia de Efráim y la opresión de Yehudáh se apartarán; el descanso incluye reconciliación entre las casas, no únicamente reposo individual.
 
-## Del juicio al cántico — Ieshaiáhu 12:1-6
+## Del juicio al cántico — Ieshaiáhu 12:1-6 #ieshaiahu_12_1-6
 
 El capítulo 12 responde “en aquel día” con confesión, confianza y canto. Primero, el hablante reconoce la ira de יהוה y celebra que esa ira se haya vuelto y que Él haya consolado. Después declara: “El es mi salvación, confiaré y no temeré”. Eric destaca que el Mashíaj no se separa de la salvación de יהוה; la esperanza mesiánica culmina en reconocer al Santo de Israel como fuente y centro.
 

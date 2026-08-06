@@ -84,7 +84,7 @@ Esta nota ordena las partes 28, 29, 30 y 31 del estudio de Marcos del **hermano 
 | **(ἄπιστος)**     | apistos         | sin confianza, incrédulo                     | En 9:19 aparece en la reprensión a la generación; no describe automáticamente al padre como una categoría moral fija.                              | Aproximada con «incrédulo»; el contexto de la súplica exige distinguir reproche comunitario y petición vulnerable. |
 | **(προσευχή)**    | proseuchē       | oración, súplica dirigida a Dios             | En 9:29 nombra el recurso mediante el cual esta clase de espíritu no sale; el relato no lo convierte en una técnica manipulable.                   | Cercana a **(תפילה)**, _tefilah_; la equivalencia pedagógica no elimina la forma griega ni su contexto.            |
 
-## La gloria que manda escuchar y la fe que pide ayuda (9:1-29)
+## La gloria que manda escuchar y la fe que pide ayuda (9:1-29) #markos_9_1-29
 
 El capítulo abre con reino y poder, y seis días después conduce a tres discípulos al monte. La transformación, las vestiduras resplandecientes, Moshéh y Eliyahu, y la nube no invitan a convertir a los testigos en administradores de una experiencia extraordinaria. La instrucción decisiva es: «escúchenlo» (#markos_9_7). Al bajar, Yehoshua vincula lo visto con la resurrección del **(בן האדם)** (#markos_9_9). Por eso la gloria anticipa el desenlace, pero no permite evitar el anuncio de muerte que reaparecerá en el v. 31.
 
@@ -123,7 +123,7 @@ La parte 28 comienza retomando #markos_8_35-38, porque la metamorfosis no debe s
 
 En ese pasaje, **(σῶμα ψυχικόν)**, _sōma psychikon_, significa «cuerpo psíquico» o cuerpo animado por la vida natural, y **(σῶμα πνευματικόν)**, _sōma pneumatikon_, «cuerpo espiritual». Eric describe el primero, de manera concreta, como el cuerpo humano de esta creación y contrapone su condición corruptible al cuerpo levantado en la resurrección. La clase prefiere explicar el contraste como cuerpo corruptible frente a cuerpo incorruptible para evitar que «animal» sugiera una evolución moral o que «natural» suene necesariamente bueno. Esa es una paráfrasis teológica atribuible, no el valor aislado de cada adjetivo: **(ψυχικός)** se relaciona con _psychē_ y con lo natural, mientras **(πνευματικός)** se relaciona con _pneuma_ y con lo espiritual. Leída junto con Marcos 8:35 y la resurrección anunciada en 9:9, la propuesta conserva una esperanza corporal; no autoriza a tratar el cuerpo presente como basura ni a afirmar que cada uso de _psychē_ equivale mecánicamente a «cuerpo corruptible».
 
-## El Ben HaAdam entregado frente a la ambición de ser grande (9:30-37)
+## El Ben HaAdam entregado frente a la ambición de ser grande (9:30-37) #markos_9_30-37
 
 La clase subraya un detalle narrativo decisivo: Yehoshua pasa por Galil sin buscar publicidad porque está enseñando a sus discípulos (#markos_9_30-31). El contenido es concreto: será entregado, muerto y levantado. Eric interpreta el temor de preguntar como resistencia a aceptar un Mesías que muere. El texto permite afirmar al menos esto: los discípulos «no entendían la palabra» y temían preguntar (#markos_9_32). Su silencio no es comprensión madura.
 
@@ -131,13 +131,13 @@ En Kefar Najum esa falta de comprensión se hace visible: mientras él hablaba d
 
 La respuesta de Yehoshua no concede una escala nueva de prestigio. «Si alguno quiere ser el primero, será el último de todos y siervo de todos» (#markos_9_35). Eric conserva con acierto la tensión: dirigir no reduce el trabajo, sino que exige más responsabilidad de servicio. El relato la vuelve visible tomando a un niño y recibiéndolo. La clase propone sustituir «niño» por «siervo» debido a una supuesta prioridad de sentido griego. El texto local, en cambio, dice explícitamente «niño» en v. 36 y «uno como de estos siervos» en v. 37; no hay base aquí para borrar al niño. El argumento de servicio sigue en pie precisamente porque Yehoshua dignifica a quien no aporta rango.
 
-## No impedir, no hacer tropezar y cortar el daño (9:38-48)
+## No impedir, no hacer tropezar y cortar el daño (9:38-48) #markos_9_38-48
 
 Iojanán quiere impedir a un hombre que expulsa demonios en el nombre de Yehoshua porque no pertenece al grupo que los sigue. Yehoshua responde que no lo impidan. La unidad no se protege monopolizando su nombre; a la vez, el pasaje no elimina el discernimiento, pues enseguida advierte del daño causado a «los pequeños que se afirman en mí» (#markos_9_42).
 
 Las imágenes de mano, pie y ojo no son una orden de mutilar a otra persona. Su forma hiperbólica exige tratar el tropiezo con una seriedad mayor que el cuidado de la propia conveniencia. **(γέεννα)** conserva la fuerza de juicio en el texto, y la triple repetición del fuego impide trivializar el mal. Pero el punto final del capítulo no es la amenaza aislada: una comunidad que toma en serio su propia responsabilidad puede vivir en paz en vez de competir por estatus o excluir con ligereza.
 
-## Sal, ofrenda y shalom entre ustedes (9:49-50)
+## Sal, ofrenda y shalom entre ustedes (9:49-50) #markos_9_49-50
 
 Eric advierte que #markos_9_49 es una frase difícil y propone que algunos manuscritos añaden «toda ofrenda con sal será salada», en conexión con #vaikra_2_13. La asociación ilumina el vocabulario de la sal del pacto y explica por qué el tema sacrificial puede estar cerca. También observa que la pregunta por una sal que se vuelve insípida funciona como una paradoja, no como una lección química simple.
 
@@ -224,7 +224,7 @@ El cierre confirma el destino comunitario de la disciplina. **ἅλας**, _hala
 - [ ] Revisar la propuesta de la clase de que **(παιδίον)** en #markos_9_36 debe traducirse primariamente «siervo»; el texto local distingue niño y siervo.
 - [ ] Documentar la etimología de Kefar Najum y no basar una interpretación del pasaje en el sentido devocional atribuido al topónimo.
 
-## Reparación de la parte 28: una escena, no dos apariciones independientes (9:1-8)
+## Reparación de la parte 28: una escena, no dos apariciones independientes (9:1-8) #markos_9_1-8
 
 La parte 28 llama la atención sobre una dificultad de traducción en 9:4: algunas versiones dicen que a los discípulos «les aparecieron» Moshéh y Eliyahu, pero el texto griego local emplea una forma singular, **(ὤφθη)**, _ōphthē_, «fue visto, apareció o se dejó ver». La forma puede describir el acontecimiento de visión sin obligar a decidir que solo una persona fue vista. El plural de los personajes pertenece al complemento de la escena; no se debe convertir el número verbal, aislado, en una prueba contra la presencia narrativa de ambos.
 
@@ -232,7 +232,7 @@ Eric usa esa observación para proponer que el relato presenta un solo acontecim
 
 La forma **(ὤφθη)**, _ōphthē_, es un aoristo pasivo de **(ὁράω)**, «ver», y su equivalencia «apareció» es contextual. No debe confundirse con **(ἐφάνη)**, _ephanē_, «se manifestó», ni con una reconstrucción hebrea. La secuencia que gobierna la perícopa es más segura: **(συλλαλεῖν)**, _sullalein_, «hablar juntamente», pone la conversación junto a Yehoshua; **(ἀκούετε)**, _akouete_, «escuchen», centra la voz en él; y la desaparición de los otros testigos deja el foco narrativo en el Hijo. Así se conserva la observación de Eric sobre una revelación unificada sin fabricar una conclusión morfológica.
 
-## Reparación dirigida: la observación completa de la parte 28 (8:35–9:9)
+## Reparación dirigida: la observación completa de la parte 28 (8:35–9:9) #markos_8_35 #markos_9_9
 
 La transcripción de la parte 28 deja más concreta la observación que sostiene esta unidad. Eric vuelve a leer Marcos 8:35-38 y señala que la misma forma **(ψυχή)**, _psychē_, recibe «vida» en 8:35 y «alma» en 8:36-37, aunque el argumento repite el contraste entre salvar y perder. La clase compara esa forma con **(ζωή)**, _zōē_, «vida», y con **(נפש)**, _nefesh_, «garganta, vida o ser viviente según el contexto». El núcleo comprobable es la repetición griega: **(σώσει)**, _sōsei_, «salvará», y **(ἀπολέσει)**, _apolesei_, «perderá», tienen como objeto la misma **(ψυχή)**. «Vida» y «persona» son equivalencias contextuales válidas; la alternancia castellana no demuestra una sustancia inmortal separada del cuerpo.
 
@@ -279,7 +279,7 @@ La unidad no se sostiene solo por sus temas; el orden de los verbos también lim
 
 La misma prueba corrige dos excesos. **(παιδίον)**, _paidion_, significa «niño» o «pequeño» en 9:36; no debe reemplazarse por «siervo» solo para hacer encajar una tesis sobre jerarquía. Y **(ἅλας)**, _halas_, significa «sal» en 9:50; el trasfondo de **(מלח)**, _melaj_, «sal», y la sal del pacto de Vaikra 2:13 iluminan la imagen, pero no convierten automáticamente el pasaje en una retroversión hebrea. Así, la observación de Eric sobre una comunidad preservada en paz queda probada por el cierre «haya shalom entre ustedes», mientras las reconstrucciones textuales permanecen calificadas.
 
-## Verificación dirigida: amén, reino y gloria recibida (9:1-8)
+## Verificación dirigida: amén, reino y gloria recibida (9:1-8) #markos_9_1-8
 
 La parte 28 vuelve sobre una observación concreta de Eric: el **(ἀμὴν)**, _amēn_, «verdaderamente» o «con certeza», al inicio de 9:1 no es una palabra española de cierre, sino una fórmula discursiva que afirma la solidez de lo que sigue. Eric la relaciona con **(אמן)**, _amen_, «estar firme o ser digno de confianza», y con **(אמונה)**, _emunah_, «fidelidad o firmeza». La relación consonántica y temática es aproximada, no una prueba de que cada uso griego sea una retroversión hebrea. En Marcos, la función verificable es que la fórmula introduce una promesa dirigida a quienes están presentes: algunos verán el reino de Elohim venido con poder.
 
@@ -312,7 +312,7 @@ En 9:35, **(διακονεῖν)**, _diakonein_, «servir», responde a la discu
 
 Los cuatro `source_ids` públicos de esta nota (`youtube:3UA4ZtIYBpI`, `youtube:tgSr43Ivl60`, `youtube:ZSJOKcCqycU` y `youtube:q2Uoc19Zkms`) pertenecen a este único estudio canónico de Marcos 9. La sesión 29 se conserva como alcance documentado por su título porque su transcripción no está disponible; no se atribuyen a Eric argumentos que no puedan comprobarse. El JSON local de Marcos gobierna el texto base, mientras Vaikra 2:13 y las conexiones con Éxodo 33 funcionan como fuentes comparativas delimitadas.
 
-## Control de dependencia: la grandeza se prueba protegiendo a los pequeños (9:33-50)
+## Control de dependencia: la grandeza se prueba protegiendo a los pequeños (9:33-50) #markos_9_33-50
 
 La discusión sobre quién es grande no queda resuelta únicamente por el mandato de servir. En 9:36, **ἐναγκαλισάμενος**, _enankalisamenos_, «abrazando», y **ἐδέξατο**, _edexato_, «recibió», convierten al niño colocado en medio en una acción visible de acogida; en 9:37, **δέχηται**, _dechētai_, «reciba», extiende esa acogida al que recibe a uno de los pequeños en el nombre de Yehoshua. La observación de Eric sobre el servicio como responsabilidad queda así anclada en una práctica concreta: la grandeza se mide por recibir al vulnerable, no por reclamar una posición.
 
@@ -322,7 +322,7 @@ Las imágenes de mano, pie y ojo deben leerse como una progresión de responsabi
 
 Así, 9:33-50 desarrolla el segundo anuncio de entrega en términos comunitarios. El primero será servidor, recibe al pequeño, no impide sin causa y corta el tropiezo propio antes de exigir a otro. La observación de Eric sobre una sal que conserva integridad y produce _shalom_ queda probada por el cierre imperativo; la disciplina solo cumple su propósito cuando desemboca en paz entre los discípulos.
 
-## Reparación dirigida: la observación de Eric sobre ψυχή y el cuerpo (8:35–9:9)
+## Reparación dirigida: la observación de Eric sobre ψυχή y el cuerpo (8:35–9:9) #markos_8_35 #markos_9_9
 
 La parte 28 abre con una observación concreta sobre la traducción de Marcos 8:35–38: la misma forma griega **(ψυχή)**, _psychē_, aparece en la cadena de «salvar» y «perder», pero algunas versiones alternan «vida» y «alma». En el tramo inicial de la clase (aprox. 00:01:34–00:04:31), Eric contrasta esa forma con **(ζωή)**, _zōē_, «vida», y pregunta por qué una traducción cambia la palabra dentro del mismo argumento. La observación debe conservarse como crítica de consistencia castellana, no como acusación de intención del traductor: **(ψυχή)** puede significar vida, persona o ser viviente según el contexto, y «vida» es una equivalencia legítima en 8:35.
 
@@ -338,7 +338,7 @@ La escena del niño y la advertencia sobre hacer tropezar a los pequeños amplí
 
 Finalmente, **(ἅλας)**, _halas_, «sal», y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan paz», unen disciplina y convivencia en 9:49-50. La comparación con **(מלח)**, _melaj_, y la «sal del pacto» de Vaikra 2:13 puede iluminar el trasfondo, pero es una correspondencia aproximada; Marcos no ordena reconstruir toda la ofrenda vegetal. El cierre sí es explícito: la severidad contra lo que hace tropezar debe conservar una comunidad en paz. La gloria se verifica, por tanto, en escuchar, servir, proteger a los pequeños y vivir reconciliados, no en reclamar una posición superior.
 
-## Control de dependencia: la fe vulnerable precede al servicio (9:14-50)
+## Control de dependencia: la fe vulnerable precede al servicio (9:14-50) #markos_9_14-50
 
 La unidad que comienza con la incapacidad de los discípulos no debe leerse como una prueba de superioridad espiritual. El padre dice **πιστεύω**, _pisteuō_, «creo o confío», y enseguida pide **βοήθει**, _boēthei_, «ayuda», para su **ἀπιστία**, _apistia_, «falta de confianza». La forma imperativa dirige la necesidad a Yehoshua; no describe una cantidad de fe que el padre deba fabricar. Su relación con **אמונה**, _emunah_, «firmeza, fidelidad o confianza», es una comparación aproximada, mientras el texto conserva una súplica concreta.
 
@@ -348,7 +348,7 @@ El segundo anuncio une esa dependencia con la ética comunitaria. **παραδί
 
 El cierre completa la prueba. **σκανδαλίσῃ**, _skandalisē_, «haga tropezar o ponga una ocasión de caída», responsabiliza a quien daña a los pequeños; **ἅλας**, _halas_, «sal», y **εἰρηνεύετε**, _eirēneuete_, «mantengan la paz», llevan la disciplina hacia la convivencia. La comparación con **(מלח)**, _melaj_, «sal», y **(שלום)**, _shalom_, «paz o integridad», puede iluminar Vaikra 2:13, pero no resuelve la variante de 9:49 ni convierte el griego en una retroversión. La observación de Eric sobre una comunidad preservada en _shalom_ queda apoyada por el imperativo final: la severidad contra el tropiezo solo cumple su propósito cuando produce paz entre los discípulos.
 
-## Verificación de la transición: guardar la visión hasta la resurrección (9:9-13)
+## Verificación de la transición: guardar la visión hasta la resurrección (9:9-13) #markos_9_9-13
 
 <!-- prettier-ignore -->
 La escena del monte no termina en la visión. Mientras bajan, Yehoshua manda a los tres que no cuenten lo que vieron hasta que el **Ben HaAdam** se levante de entre los muertos (#markos_9_9). La forma **διεστείλατο**, _diesteilato_, del verbo **διαστέλλω**, _diastellō_, «ordenar expresamente o instruir», muestra que el silencio tiene un límite definido; no es una prohibición de testificar para siempre ni una invitación a convertir la experiencia en un secreto de élite. La equivalencia «mandó estrictamente» comunica la fuerza contextual, pero no agota el campo del verbo. La referencia a **ἀνάστασις**, _anastasis_, «levantamiento o resurrección», mantiene la visión subordinada al desenlace anunciado; «resurrección» es la equivalencia castellana normal en este contexto.
@@ -366,7 +366,7 @@ Eric enlaza esa lectura con **(σῶμα ψυχικόν)**, _sōma psychikon_, �
 
 La misma fuente interpreta la metamorfosis como una muestra consoladora del reino anunciado, no como permiso para buscar rango. **(μετεμορφώθη)**, _metemorphōthē_, «fue transformado», describe el acontecimiento; **(διακονεῖν)**, _diakonein_, «servir», describe la grandeza corregida; y **(εἰρηνεύετε)**, _eirēneuete_, «mantengan la paz», da el fruto comunitario. La relación de **(מלח)**, _melaj_, «sal», con la sal del pacto de Vaikra 2:13 es un trasfondo aproximado. La secuencia textual prueba la lectura atribuible de Eric mejor que una definición aislada: ver, escuchar, pedir ayuda, servir y vivir en paz.
 
-## Cobertura final de la secuencia (9:1-50)
+## Cobertura final de la secuencia (9:1-50) #markos_9_1-50
 
 La perícopa completa no permite saltar de la metamorfosis al hogar o a una doctrina aislada. En 9:1-13, **(ἀκούετε)**, _akouete_, «escuchen», gobierna la visión y **(διεστείλατο)**, _diesteilato_, «ordenó expresamente», limita su divulgación hasta la resurrección; **(γέγραπται)**, _gegraptai_, «ha sido escrito», mantiene la explicación sobre Eliyahu dentro del testimonio escritural. En 9:14-29, **(πιστεύω)**, _pisteuō_, «creo o confío», y **(βοήθει)**, _boēthei_, «ayuda», conservan la súplica vulnerable del padre, mientras **(προσευχή)**, _proseuchē_, «oración», expresa dependencia y no una técnica de control.
 

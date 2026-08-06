@@ -40,13 +40,13 @@ Esta nota desarrolla la enseñanza pública de Eric de Jesús Rodríguez Mendoza
 | #shemot_18_19-23 | **והבאת אתה את הדברים אל האלהים**; **אנשי חיל** | Moshe conserva la mediación principal y comparte el juicio ordinario. |
 | #shemot_18_24-27 | **וישמע משה לקול חתנו**; **וישלח משה** | El consejo se prueba en obediencia concreta y termina con una partida. |
 
-## 18:1-7: la familia vuelve al relato de la liberación
+## 18:1-7: la familia vuelve al relato de la liberación #shemot_18_1-7
 
 El capítulo comienza con Yitro, kohen de Madián y suegro de Moshe, oyendo todo lo que אלהים hizo por Moshe e Israel, «porque יהוה sacó a Israel de Egipto». Trae a Tsiporah y a los dos hijos. El texto nombra a Gershom, cuyo nombre recuerda «fui extranjero en tierra extranjera», y a Eliezer, porque «el Dios de mi padre fue mi ayuda y me libró de la espada de Faraón». Eric pone el énfasis de la sesión en la familia; esta introducción confirma que la memoria de la liberación pasa por nombres, esposa, hijos y reencuentro.
 
 Moshe sale al encuentro de su suegro, se inclina, lo besa y pregunta por su paz. Luego entran a la tienda. **חתן**, _chatan_, significa «suegro» o «pariente por matrimonio» según el contexto; aquí la relación familiar no es una metáfora, sino el vínculo que articula la escena. **שלום**, _shalom_, significa integridad, bienestar o paz; la pregunta de ambos expresa una recepción completa, no sólo un saludo formal. La relación con «familia como base de Israel» es una inferencia pastoral apoyada por la atención que el narrador presta a estos vínculos.
 
-## 18:8-12: testimonio, alegría y mesa delante de יהוה
+## 18:8-12: testimonio, alegría y mesa delante de יהוה #shemot_18_8-12
 
 Moshe cuenta a Yitro todo lo que יהוה hizo a Faraón y Egipto, la aflicción hallada en el camino y cómo יהוה los libró. El relato no oculta la dificultad: **התלאה**, _hatlaah_, alude a la aflicción o fatiga que los encontró. Eric presenta la familia como espacio donde se comparte lo que יהוה ha hecho, no sólo como parentesco biológico; el texto lo prueba en una conversación que incluye liberación y sufrimiento.
 
@@ -54,13 +54,13 @@ Yitro se alegra por todo el bien y dice: «Bendito יהוה, que los libró de l
 
 Después Yitro toma una ofrenda y sacrificios para אלהים; Aharon y los ancianos comen pan con él «delante de אלהים». La mesa es pública y comunitaria, pero el capítulo no dice que toda práctica familiar sea automáticamente culto. La observación de Eric queda así anclada: escuchar, alegrarse, bendecir y comer juntos forman una respuesta a la liberación.
 
-## 18:13-18: Moshe sirve, pero una sola persona no puede sostenerlo todo
+## 18:13-18: Moshe sirve, pero una sola persona no puede sostenerlo todo #shemot_18_13-18
 
 Al día siguiente Moshe se sienta para juzgar al pueblo; el pueblo permanece desde la mañana hasta la tarde. Yitro observa y pregunta por qué Moshe está solo mientras todo el pueblo está de pie alrededor de él. Moshe responde que el pueblo viene a buscar a אלהים; cuando hay un asunto, él juzga entre uno y su prójimo y hace conocer los estatutos y la Torah de אלהים.
 
 Yitro no niega la vocación de Moshe: le dice que «no es bueno» lo que hace y que se desgastará él y también el pueblo, porque la carga es demasiado pesada para llevarla solo. **נבל תבל**, _navol tibbol_, una intensificación de «marchitarte o agotarte por completo»; la traducción «te desgastarás» es aproximada, pero expresa bien la advertencia contextual. Eric relaciona la importancia familiar con cuidado y responsabilidad; el pasaje amplía ese cuidado a una comunidad cuyo cansancio también importa.
 
-## 18:19-27: autoridad compartida con criterios de carácter
+## 18:19-27: autoridad compartida con criterios de carácter #shemot_18_19-27
 
 Yitro aconseja a Moshe escuchar su voz, estar delante de אלהים por el pueblo y llevar los asuntos a אלהים. Moshe debe advertir al pueblo los estatutos y la Torah, enseñar el camino y la obra que deben hacer. El consejo no elimina la responsabilidad de enseñar ni sustituye la relación vertical con אלהים.
 
@@ -98,6 +98,6 @@ Shemot 18 presenta la familia como un espacio de retorno, memoria, alegría y co
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Yitró (2017) La importancia de la familia en Yisra'el](https://www.youtube.com/watch?v=fnJB6cpiRiM) (source_id: `youtube:fnJB6cpiRiM`).
+- [Parashat Yitró (2017) La importancia de la familia en Yisra'el](https://www.youtube.com/watch?v=fnJB6cpiRiM) (`source_id`: `youtube:fnJB6cpiRiM`).
 - Texto bíblico local: `docs/scriptures/oe/json/exodus/18.json`.
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción automática como cita literal.

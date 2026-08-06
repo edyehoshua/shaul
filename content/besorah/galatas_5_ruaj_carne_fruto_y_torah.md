@@ -52,7 +52,7 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | El RÚAJ es OPUEST
 | #galatians_5_19-21 | **ונודעים המה פעלי הבשר ... אשר אמר מה־שכבר אמרתי כי־עשי אלה לא ינחלו מלכות האלהים׃** | Las obras visibles de la carne no son una categoría neutral: excluyen del reino a quienes las practican. |
 | #galatians_5_22-26 | **ופרִי הרוח הוא אהבה שמחה ושלום ארך רוח ונדיבות וחסד ואמונה׃ וענוה ופרישות לנגד עשי אלה אין־תורה׃ ... אם־נחיה ברוח נתהלכה גם־ברוח׃** | El fruto del Ruaj reúne amor, gozo, paz, paciencia, generosidad, bondad, fidelidad, mansedumbre y dominio propio. |
 
-## La libertad no autoriza a la carne (5:11-18)
+## La libertad no autoriza a la carne (5:11-18) #galatians_5_11-18
 
 La clase vuelve a Gálatas 5:11 para responder a la idea de que Shaul habría abolido la circuncisión y la Torah. El expositor relaciona la frase «si aún predico la circuncisión» con Hechos 21:20-24, donde los ancianos describen a miles de judíos creyentes celosos de la Torah y niegan la acusación de que Shaul enseñe apostasía de Moisés. La conexión ayuda a separar dos asuntos: una señal o práctica de identidad no debe convertirse en requisito de salvación para los gentiles, y la Torah no debe confundirse con tradiciones humanas. Hechos 21 amplía el contexto, pero no permite afirmar sin más que cada detalle de la explicación histórica quede probado por Gálatas 5.
 
@@ -60,7 +60,7 @@ En 5:16 la clase define caminar en el Ruaj como andar en la voluntad de Elohim, 
 
 El expositor también explica «no están bajo ley» como no estar bajo una sentencia o cargo judicial, no como quedar fuera de toda instrucción divina. Es una lectura contextual coherente con el contraste del capítulo, pero la afirmación gramatical de que la ausencia de artículo resuelve por sí sola el sentido debe verificarse en el griego. El resultado pastoral es claro: la libertad no consiste en hacer todo lo que se quiere, sino en no ser gobernado por la carne.
 
-## Obras de la carne y fruto singular del Ruaj (5:19-26)
+## Obras de la carne y fruto singular del Ruaj (5:19-26) #galatians_5_19-26
 
 La clase recorre las obras de la carne como un inventario de desorden: fornicación, impureza, idolatría, hechicería, enemistades, pleitos, celos, divisiones, envidias, borracheras y desenfreno. Eric aplica la lista a conflictos comunitarios y distingue, pedagógicamente, entre competir por lo que otro tiene y dañarlo por envidia. La distinción puede ayudar a examinar el corazón, pero no debe convertirse en una taxonomía léxica absoluta si no se cotejan las palabras griegas en sus contextos.
 

@@ -38,7 +38,7 @@ La obediencia no se reduce a reprimir impulsos después de que gobiernan la cond
 
 La única observación atribuible a la sesión `youtube:v_02B_oF30A` es su título público y su alcance anunciado: no ser gobernados por las pasiones. La nota no identifica qué mandamiento concreto explicó Eric ni pone en su boca una aplicación particular. El recorrido canónico comienza con el dominio del pecado en Bereshit, pasa por la sabiduría sobre ira y gobierno propio, y termina con la enseñanza apostólica sobre deseo, fruto del Ruaj y dominio del cuerpo. Esa secuencia es evaluación bíblica, no transcripción.
 
-## Bereshit 4:7: el deseo no es un soberano inevitable
+## Bereshit 4:7: el deseo no es un soberano inevitable #bereshit_4_7
 
 En #bereshit_4_7, Elohim advierte a Qayin que el pecado está agazapado y que su deseo se dirige hacia él, pero añade la responsabilidad de gobernarlo. **(חַטָּאת)**, _jatat_, significa pecado o falta; aquí su fuerza contextual es una potencia moral presentada como amenaza inmediata. «Pecado» es una equivalencia **directa**. **(תְּשׁוּקָה)**, _teshuqah_, significa deseo, anhelo o impulso hacia; en este versículo describe una fuerza orientada hacia la persona, no una excusa que elimine su responsabilidad. «Deseo» es **aproximado**, porque el término admite matices de dirección y dominio según el contexto. **(מָשַׁל)**, _mashal_, significa gobernar, reinar o ejercer dominio; aquí su fuerza es la respuesta responsable ante el pecado. «Gobernar» es **directo en contexto**, pero no significa que la persona se salve por autosuficiencia.
 

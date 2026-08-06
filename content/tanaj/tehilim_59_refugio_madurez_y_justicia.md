@@ -112,5 +112,5 @@ Tehilim 59 no enseña a negar la persecución ni a responderla con odio. Enseña
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo 59» — <https://www.youtube.com/watch?v=ip-3871HtaQ> — source_id: `youtube:ip-3871HtaQ`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo 59» — <https://www.youtube.com/watch?v=ip-3871HtaQ> — `source_id`: `youtube:ip-3871HtaQ`.
 - La transcripción automática se usa como apoyo de estudio; esta nota organiza y contrasta la exposición, no la presenta como cita literal.

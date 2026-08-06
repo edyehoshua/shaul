@@ -47,7 +47,7 @@ translation: "[OE, TTH]"
 
 Esta nota organiza la exposición pública **Haftaráh de Mtzorá' 2 Reyes cap 7: El redargüir de Hashem**. Se sigue el orden del capítulo y se distingue entre el texto bíblico, las observaciones atribuibles a Eric y las aplicaciones pastorales de la clase. Las afirmaciones de la exposición sobre el estado de los hombres excluidos, la diferencia entre pecado e iniquidad, la vida puesta por encima de una lectura mecánica del mandamiento y la conexión con el Mesías se presentan como tratamiento de Eric; no se hacen pasar por la única lectura posible de 2 Reyes 7. La transcripción automática sirve para localizar esos énfasis, no se cita como transcripción literal.
 
-## 2 Reyes 7:1-2 — una palabra de abundancia frente a la incredulidad
+## 2 Reyes 7:1-2 — una palabra de abundancia frente a la incredulidad #melajim_bet_7_1-2
 
 El capítulo comienza con Eliseo: «Oigan la palabra de יהוה: así dijo יהוה: mañana a estas horas se venderá una medida de flor de harina por un siclo y dos medidas de cebada por un siclo, en la puerta de Samaria» (#melajim_bet_7_1). La promesa toca el lugar visible del hambre: la puerta, donde se concentran el tránsito, la autoridad y la miseria. No es una predicción vaga de mejoría; fija tiempo, lugar y precio.
 
@@ -55,7 +55,7 @@ El oficial que sostiene al rey responde: «Aunque יהוה hiciera ventanas en l
 
 La exposición también advierte contra convertir la promesa en una invitación a la pasividad. La palabra anuncia lo que יהוה hará, pero el resto del capítulo mostrará personas que deben levantarse, ir, examinar, comunicar y repartir. La fe no fabrica el sonido en el campamento arameo; sí responde cuando la palabra abre una posibilidad que antes parecía absurda.
 
-## 2 Reyes 7:3-4 — cuatro hombres fuera de la puerta eligen moverse
+## 2 Reyes 7:3-4 — cuatro hombres fuera de la puerta eligen moverse #melajim_bet_7_3-4
 
 El texto presenta a «cuatro hombres enfermos de la piel» sentados a la entrada de la puerta (#melajim_bet_7_3). La traducción tradicional «leprosos» puede ocultar la amplitud del término bíblico. Eric insiste en que no debe importarse automáticamente la categoría médica moderna: la condición los colocaba en una situación de exclusión ritual y social, fuera del campamento o de la ciudad. La nota conserva esta observación como una aclaración de contexto, no como un diagnóstico clínico.
 
@@ -63,7 +63,7 @@ Su razonamiento es brutalmente sencillo: «Si entramos en la ciudad, el hambre e
 
 La aplicación de la clase es que una situación extrema puede revelar lo que la costumbre había ocultado. Samaria llevaba tanto tiempo sitiada que la muerte parecía normal. Los cuatro, precisamente porque estaban fuera, reconocen que no hay salvación en esperar dentro de la misma lógica. La acción no garantiza el resultado, pero abre el camino por el que se descubrirá la obra ya realizada por יהוה.
 
-## 2 Reyes 7:5-7 — el campamento vacío y el sonido que יהוה produce
+## 2 Reyes 7:5-7 — el campamento vacío y el sonido que יהוה produce #melajim_bet_7_5-7
 
 Los hombres llegan al campamento de Aram y no encuentran a nadie (#melajim_bet_7_5). El narrador explica: «El Señor había hecho oír al campamento de Aram ruido de carros, ruido de caballos y ruido de un gran ejército». Los arameos concluyen que Israel ha contratado a los reyes de los hititas y de Egipto, y huyen dejando tiendas, caballos, asnos y el campamento intacto (#melajim_bet_7_6-7).
 
@@ -71,7 +71,7 @@ Eric subraya el carácter soberano del milagro. No se describe una oración de l
 
 La exposición enlaza esta escena con la debilidad humana: cuando los recursos de Samaria se agotan, el poder no aparece como una extensión de la fuerza del rey. La comunidad tendrá que recibir el resultado de una victoria que no produjo. Ese contraste protege la lectura contra la jactancia y orienta la gratitud hacia quien abrió el camino.
 
-## 2 Reyes 7:8-10 — recibir, discernir y anunciar
+## 2 Reyes 7:8-10 — recibir, discernir y anunciar #melajim_bet_7_8-10
 
 Los cuatro entran en una tienda, comen, beben, toman plata, oro y ropa, y esconden lo que toman. Después entran en otra tienda y repiten la acción (#melajim_bet_7_8). Eric no borra este detalle incómodo. La primera reacción ante la abundancia es la supervivencia individual: comer, recuperar fuerzas y asegurar un tesoro. El texto no los presenta como seres desencarnados; salen de una ciudad hambrienta y responden con el instinto de quien acaba de encontrar alimento.
 
@@ -81,7 +81,7 @@ El verbo «callar» contrasta con «anunciar». La noticia es buena porque el ca
 
 Los hombres vuelven, llaman al portero y dicen: «Fuimos al campamento de Aram, y no había allí nadie ni voz humana; solo caballos atados, asnos atados y las tiendas como estaban» (#melajim_bet_7_10-11). El anuncio responsable incluye hechos comprobables. No basta con exclamar que ocurrió un milagro: ellos describen lo que vieron para que la ciudad pueda discernir y actuar.
 
-## 2 Reyes 7:12-15 — el miedo no cancela la verificación
+## 2 Reyes 7:12-15 — el miedo no cancela la verificación #melajim_bet_7_12-15
 
 El rey interpreta la noticia como una trampa: piensa que los arameos se escondieron para capturar a los hambrientos cuando salieran (#melajim_bet_7_12). La sospecha tiene una base comprensible; una ciudad sitiada aprende a desconfiar. Aun así, un servidor propone tomar cinco caballos de los que quedan y comprobarlo (#melajim_bet_7_13). El rey envía jinetes, y ellos siguen el camino hasta el Jordán. Todo el trayecto está lleno de ropa y utensilios que los arameos arrojaron en su apresuramiento (#melajim_bet_7_14-15).
 
@@ -89,7 +89,7 @@ Eric observa que la comunidad no debe confundir discernimiento con parálisis. L
 
 Este movimiento también preserva la dignidad de quienes estaban fuera. Los primeros testigos no son los oficiales ni la casa real, sino los hombres que el sistema había colocado en la periferia. El texto no dice que su condición fuera la causa del milagro; sí muestra que יהוה puede hacer que los excluidos se conviertan en portadores de una noticia que salva a la ciudad.
 
-## 2 Reyes 7:16-20 — abundancia cumplida y palabra que juzga
+## 2 Reyes 7:16-20 — abundancia cumplida y palabra que juzga #melajim_bet_7_16-20
 
 El pueblo sale y saquea el campamento de Aram. Entonces se cumple la palabra: una medida de flor de harina y dos medidas de cebada se venden por un siclo en la puerta de Samaria (#melajim_bet_7_16). La abundancia no es una metáfora flotante; alcanza la economía concreta de una población que estaba muriendo. El capítulo conserva la precisión del precio para mostrar que la promesa de Eliseo se cumplió en el mismo lugar y tiempo anunciados.
 

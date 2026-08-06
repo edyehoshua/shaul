@@ -53,25 +53,25 @@ Esta es una reconstrucción temática de cinco clases sobre Yojanán 8. No convi
 | #iojanan_8_39-47 | TTH: «Si fueran hijos de Abraham, también las obras de Abraham harían». | Contrapone filiación alegada y obras reales. |
 | #iojanan_8_48-59 | TTH: «Antes que Abraham fuese, Yo soy». Delitzsch: **אני הייתי עוד עד לא היה אברהם**. | Cierra la controversia y provoca la reacción del v. 59. |
 
-## Luz, templo y testimonio (8:12-20)
+## Luz, templo y testimonio (8:12-20) #iojanan_8_12-20
 
 Eric comienza con la declaración «Yo soy la luz del mundo» y observa que, en una lectura centrada en el templo, la imagen no funciona como mero adorno. La clase la acerca al santuario y a Salmo 36:9-10: «contigo está la fuente de la vida; en tu luz veremos luz». Esa conexión ayuda a escuchar por qué «luz de la vida» no es una consigna abstracta: quien sigue a Yehoshua deja de caminar en oscuridad (#iojanan_8_12).
 
 El diálogo pasa inmediatamente al testimonio. Eric destaca la apelación a dos testigos y propone que el testimonio escrito y su realización en Yehoshua constituyen el marco de la respuesta. El texto, con todo, dice de modo directo que Yehoshua testifica de sí y que el Padre que le envió también testifica (#iojanan_8_17-18). Identificar sin resto «Padre», Torah y verdad es la formulación teológica de la clase; puede orientar la comparación, pero no debe borrar las palabras y relaciones que el capítulo mantiene.
 
-## De arriba, el levantado y la palabra que permanece (8:21-38)
+## De arriba, el levantado y la palabra que permanece (8:21-38) #iojanan_8_21-38
 
 En orden, la conversación se vuelve más aguda: sus oyentes preguntan adónde va, él contrapone «de abajo» y «de arriba», y anuncia que morirán en sus pecados si no creen. Eric insiste en que la frase «Yo no soy de este mundo» debe leerse junto con «Yo soy la luz», no separada de su contexto. También llama la atención sobre la ambigüedad de #iojanan_8_25 y propone entenderla como una referencia al principio. Es una posibilidad que requiere revisión gramatical; el texto local basta para mostrar que la pregunta «¿Tú quién eres?» permanece en el centro.
 
 La clase enlaza #iojanan_8_28 con el levantamiento del Ben Ha’Adam y con la revelación posterior de quién es Yehoshua. El pasaje añade dos límites importantes: «de Mí nada hago» y «como mi Padre me enseñó, esto hablo». Después, #iojanan_8_31-32 no define al discípulo por una adhesión momentánea, sino por permanecer en la palabra y conocer la verdad. Eric desarrolla que esa permanencia debe tener forma obediente; el capítulo continúa concretando el problema como esclavitud del pecado (#iojanan_8_34-36), antes de pasar a la controversia sobre Abraham.
 
-## Abraham, obras y el conflicto de paternidades (8:39-47)
+## Abraham, obras y el conflicto de paternidades (8:39-47) #iojanan_8_39-47
 
 Cuando los interlocutores invocan a Abraham, Yehoshua responde en la misma secuencia del texto: si fueran sus hijos, harían sus obras; en cambio buscan matar al que les ha hablado verdad (#iojanan_8_39-40). Eric subraya esta diferencia entre linaje reclamado y conducta. Es una observación decisiva porque impide reducir el debate a una etiqueta étnica o religiosa: el propio pasaje usa escuchar las palabras de Elohim y hacer las obras de Abraham como sus criterios.
 
 La palabra sobre Ha’satán en #iojanan_8_44 aparece dentro de esa disputa concreta: homicidio, mentira y rechazo de la verdad. Eric la utiliza para discutir concepciones modernas de Satanás y diversidad de posturas judías. Tales generalizaciones históricas no deben convertirse en trasfondo establecido sin fuentes; sí puede afirmarse que el capítulo presenta al adversario como homicida y mentiroso, y que vincula esa descripción con no recibir la verdad.
 
-## Insulto, gloria y antes de Abraham (8:48-59)
+## Insulto, gloria y antes de Abraham (8:48-59) #iojanan_8_48-59
 
 El último bloque conserva una escalada narrativa, no una definición desprendida de la disputa. Lo llaman **shomroní** y le atribuyen un espíritu malo; Yehoshua niega la acusación, afirma que honra a su Padre y no busca su propia gloria (#iojanan_8_48-50). Luego la promesa sobre guardar su palabra suscita la objeción: Abraham y los profetas murieron. Eric observa que el texto obliga a afrontar la relación entre la palabra, la muerte y la gloria; la respuesta de Yehoshua habla de la gloria que recibe del Padre y de Abraham que vio su día (#iojanan_8_54-56).
 

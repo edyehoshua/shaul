@@ -63,7 +63,7 @@ La nota organiza la clase sobre Parashat Bo (Shemot 10:1–13:16) en el orden de
 | **(זכרון)**   | _zikkaron_      | memorial, recuerdo que hace presente una acción                      | En 12:14 y 13:9, recordar implica celebrar, hablar y ordenar la vida alrededor de la salida.                                                                                                          | Pedagógica: «memoria activa» expresa la función del término, pero no es una definición exhaustiva.                             |
 | **(בחזק יד)** | _bechozeq yad_  | con firmeza/fuerza de mano                                           | La frase repetida interpreta la salida como una acción sostenida de יהוה frente al poder de Faraón.                                                                                                   | Aproximada: «mano fuerte» es literal en forma; «mano firme» comunica el contraste explicado en la clase.                       |
 
-## Señales que deben ser contadas: Shemot 10:1–11:10
+## Señales que deben ser contadas: Shemot 10:1–11:10 #shemot_10_1 #shemot_11_10
 
 El capítulo 10 no reduce las plagas a una demostración sin propósito. יהוה declara que sus señales deben ser contadas al hijo y al nieto (10:2). Eric observa que la petición de Moshe no acepta una liberación parcial: deben salir jóvenes, ancianos, hijos, hijas y ganado. Esa observación se apoya en la insistencia del relato de que Faraón quiere controlar quién sale y qué puede llevarse. El texto, sin embargo, debe gobernar la aplicación: la unidad concreta trata de la salida de Israel para servir y celebrar a יהוה, no de una fórmula general para resolver toda negociación política.
 
@@ -75,7 +75,7 @@ En ese anuncio también se conserva una distinción importante. יהוה dice qu
 
 El relato añade que Israel hallará favor ante los egipcios y que Moshe será grande en la tierra (#shemot_11_3). **(חן)**, _jen_, es favor o gracia; aquí no es una emoción privada, sino una disposición social que acompaña la salida. La exposición puede leerlo como reversión de la humillación sufrida, pero el texto no convierte ese favor en mérito nacional: sigue siendo parte de la acción soberana de יהוה antes del juicio final. La narración distingue así entre la dignidad que יהוה concede a su pueblo y la violencia del sistema que lo oprimía.
 
-## Pésaj: una casa preparada para salir, Shemot 12:1–14
+## Pésaj: una casa preparada para salir, Shemot 12:1–14 #shemot_12_1-14
 
 La instrucción de 12:11 describe una postura corporal: lomos ceñidos, sandalias puestas y bastón en la mano. Eric insiste en que el mensaje de Pésaj no es una comida cómoda mientras continúa la servidumbre. El TTH conserva la palabra «apresuradamente», y el hebreo **(בחפזון)** (_bechipazon_) apunta a prisa o apremio. Esta observación es textual; la extensión de que toda celebración posterior deba reproducir literalmente esa postura sería una aplicación que requiere distinguirse del mandamiento de este pasaje.
 
@@ -85,7 +85,7 @@ La comida tiene además una estructura de obediencia: el cordero se come en la c
 
 El mandato «no dejaréis de él hasta la mañana» y la quema de lo que quede (#shemot_12_10) muestran que la señal no se maneja según conveniencia del celebrante. **(נותר)**, _notar_, significa quedar o permanecer; la forma contextualiza un resto de la comida que no debe trasladarse al día siguiente. La clase insiste en que Pésaj exige preparación y decisión, y el detalle ritual lo confirma: la liberación se recibe en una forma concreta, con límites temporales y domésticos. No basta afirmar que יהוה salva; el hogar debe escuchar, preparar y comer conforme a la palabra.
 
-## La salida convertida en enseñanza: Shemot 13:1–16
+## La salida convertida en enseñanza: Shemot 13:1–16 #shemot_13_1-16
 
 El capítulo 13 desplaza la atención desde la noche de salida hacia el futuro. «Cuando mañana te pregunte tu hijo» (13:14) presupone que la práctica será visible y provocará preguntas. La respuesta no dice simplemente «nuestros antepasados fueron liberados», sino «con fuerte mano nos sacó יהוה de Mitzráim». En 13:8 la formulación incluso adopta la primera persona: «lo que hizo por mí יהוה cuando salí». Eric conecta esta primera persona con una participación confesional en la memoria comunitaria. El texto sí exige esa forma de contar; la manera exacta en que una comunidad la actualiza pertenece a su práctica pedagógica.
 
@@ -128,7 +128,7 @@ La relectura de Delitzsch en Ivrim 11:28 confirma este vínculo sin reemplazarlo
 - [ ] Verificar con una gramática hebrea la relación precisa entre las construcciones de **(חזק)**, **(כבד)** y **(קשה)** en los pasajes sobre Faraón; la nota conserva la propuesta de la clase como lectura cualificada.
 - [ ] Cotejar la afirmación histórica de la clase sobre el número total de personas que salieron de Mitzráim; no es necesaria para el argumento textual de Shemot 10–13.
 
-## La noche de salida y el primogénito redimido: Shemot 12:29–13:16
+## La noche de salida y el primogénito redimido: Shemot 12:29–13:16 #shemot_12_29 #shemot_13_16
 
 El relato avanza desde el golpe sobre Mitzráim hasta una comunidad que debe salir, pedir y recordar. En #shemot_12_31-33, Faraón llama a Moshe y Aarón de noche y dice: «Levántense, salgan de en medio de mi pueblo, también ustedes, también los hijos de Israel; vayan, sirvan a יהוה como dijeron». El OE y el TTH mantienen la presión de una salida inmediata. **(קום)**, _qum_, significa levantarse o ponerse en pie; aquí su fuerza contextual es una orden concreta de partida, y «despertar espiritual» sería una equivalencia **pedagógica**, no exacta. **(יצא)**, _yatsa_, significa salir o ir afuera; en 12:31 y 13:3 describe el movimiento histórico de Israel, mientras «liberación» es una equivalencia **aproximada** que resume el resultado.
 

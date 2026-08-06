@@ -60,7 +60,7 @@ Pablo cambia de asunto sin abandonar la ética comunitaria: la deuda permanente 
 
 ## Recorrido canónico
 
-## 13:1-7: autoridad limitada por su encargo
+## 13:1-7: autoridad limitada por su encargo #romanos_13_1-7
 
 Eric presenta la sesión como una exposición sobre la sujeción a las autoridades superiores. El texto comienza con una instrucción a «toda persona», pero no convierte al gobernante en una autoridad autónoma: la autoridad es descrita como algo que Elohim permite y como un servicio para el bien. La repetición de «servidor» en #romanos_13_4 y la referencia a la espada muestran que Pablo está hablando de una función pública con responsabilidad moral, no de una aprobación automática de cada decisión política.
 
@@ -68,7 +68,7 @@ La secuencia debe conservarse. Primero aparece la sujeción; después, la razón
 
 El verbo **(ἀνθίστημι)**, _anthistēmi_, tiene el sentido ordinario de oponerse o resistir; en #romanos_13_2 describe la oposición al orden que Pablo está discutiendo, pero no convierte cada acto de un gobernante en justo. «Resistir» es una glosa directa y su fuerza depende del objeto: el pasaje habla de la autoridad como institución que debe castigar el mal, no de obedecer una orden inmoral sin límite. Asimismo, **(συνείδησις)**, _syneidēsis_, significa conciencia o conocimiento interior; en #romanos_13_5 explica por qué la sujeción no debe ser únicamente una estrategia para evitar la espada. «Conciencia» es una traducción directa, pero no equivale a la aprobación automática de toda autoridad: queda bajo el juicio de Elohim y debe leerse junto con la función de la autoridad.
 
-## 13:8-10: la deuda que permanece
+## 13:8-10: la deuda que permanece #romanos_13_8-10
 
 Pablo cambia del deber público a la deuda interpersonal: no quedar debiendo nada a nadie, excepto amarse mutuamente (#romanos_13_8). El amor no es presentado como una emoción que sustituye el mandamiento; se explica mediante «no adulterarás», «no matarás», «no hurtarás», «no codiciarás» y el resumen de amar al prójimo. Por eso el amor cumple la Torah al negarse a causar daño, no al declarar irrelevante toda instrucción.
 
@@ -76,7 +76,7 @@ La observación de Eric sobre identidad y obediencia puede acompañar este movim
 
 **(ὀφείλω)**, _opheilō_, significa deber, estar obligado o tener una deuda; en #romanos_13_8 contrasta las obligaciones que pueden pagarse con la deuda de amor que permanece. «Deber» es exacto en sentido básico; la afirmación no autoriza endeudamiento indefinido ni reemplaza los mandamientos enumerados. **(ἀγάπη)**, _agapē_, significa amor o benevolencia comprometida; aquí adquiere fuerza práctica porque «no hace mal al prójimo» y por eso cumple la Torah. La glosa «amor» es usual y directa, mientras que reducirla a sentimiento privado sería insuficiente.
 
-## 13:11-14: despertar y vestirse del Mesías
+## 13:11-14: despertar y vestirse del Mesías #romanos_13_11-14
 
 La urgencia final se apoya en el tiempo: «ya es hora» de despertar del sueño, porque la salvación está más cerca que cuando creyeron (#romanos_13_11). Pablo ordena abandonar obras de tinieblas, vestirse con armas de luz y andar decorosamente, sin borracheras, inmoralidad, pleitos ni celos (#romanos_13_12-13). La exhortación no fija una fecha profética; transforma la espera en sobriedad y conducta pública.
 
@@ -344,5 +344,5 @@ Finalmente, **(πληρόω)**, _plēroō_, significa llenar, completar o llevar
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 29) Acerca de la sujeción a las autoridades superiores](https://www.youtube.com/watch?v=Wvj5LCGsSLw) (source_id: `youtube:Wvj5LCGsSLw`).
+- [La carta a los romanos (parte 29) Acerca de la sujeción a las autoridades superiores](https://www.youtube.com/watch?v=Wvj5LCGsSLw) (`source_id`: `youtube:Wvj5LCGsSLw`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

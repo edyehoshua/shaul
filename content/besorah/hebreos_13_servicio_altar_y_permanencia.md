@@ -68,7 +68,7 @@ La secuencia 13:9-14 es el centro de la sesión. Eric relaciona el altar inacces
 
 La nota de la clase vuelve de 13:13-14 a 13:15-16: si ya no se trata de ser seducidos por sacrificios literales, el sacrificio ofrecido por medio de Yehoshua es fruto de labios que confiesan su nombre, junto con hacer el bien y compartir. La alabanza no queda reducida a música. El texto llama «sacrificios» a la misericordia y al auxilio de los necesitados. Así, salir del campamento no es una pose de superioridad, sino una vida que reconoce al Mesías, soporta el reproche y produce bien concreto.
 
-## 13:18-25: oración, equipamiento y despedida
+## 13:18-25: oración, equipamiento y despedida #hebreos_13_18-25
 
 La exhortación comunitaria termina pidiendo oración: **התפללו בעדנו כי־בטוחים אנחנו כי־לבב טוב לנו ורצוננו להתנהג בכל־דבר בדרך ישרה׃** (13:18). Eric insiste en que la autoridad que reclama examen debe poder presentarse ante la comunidad con una conciencia limpia; el texto apoya la petición de oración y la afirmación de una conducta honorable, aunque no convierte “corazón bueno” en una reivindicación de impecabilidad. **πειθόμεθα** (_peithometha_) significa confiar o estar persuadidos; aquí introduce una convicción pública sobre la conducta, no una demanda de obediencia ciega.
 

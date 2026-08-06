@@ -68,7 +68,7 @@ Esta nota canónica sigue Marcos 11 en su orden textual y organiza las partes 34
 | **(ἀφίημι)**      | afiemi          | dejar ir, remitir, perdonar                                                                 | En 11:25-26 expresa el acto de remitir al otro, enlazado con el perdón del Padre.                                                                                                                                                                               | Aproximada con «perdonar» y con el TTH «soportar»; ninguna glosa agota todos sus usos.                                    |
 | **(נצר)**         | netzer          | brote, retoño, vástago                                                                      | Eric conecta este vocablo con la designación de Yehoshua en la clase sobre 10:47–11:11. Marcos 11 no emplea el término; por tanto, no debe imponerse sobre su narración de la entrada.                                                                          | La conexión con **(Ναζωραῖος)** es una propuesta pedagógica y textual pendiente, no equivalencia demostrada.              |
 
-## Del asnito a la inspección del Hejal (11:1-11)
+## Del asnito a la inspección del Hejal (11:1-11) #markos_11_1-11
 
 La llegada se ubica cerca de Bet Pagué y Bet Aniah, en dirección al monte de los Olivos. Yehoshua envía a dos discípulos, describe el animal que encontrarán y recibe el asnito sobre los vestidos de la gente. Marcos no explica cada detalle simbólico, pero sí narra una entrada pública, recibida con las palabras **(ὡσαννά)** y con la bendición sobre el reino de David. La aclamación nombra una expectativa real; no autoriza al lector a imaginar que el relato ya llegó a una coronación política.
 
@@ -76,7 +76,7 @@ Eric observa que las designaciones «Nazareno» y «nazoreo» merecen atención 
 
 El v. 11 altera cualquier lectura triunfalista inmediata: Yehoshua entra en Ierushaláim, llega al **(ἱερόν)**, «mira todo alrededor» y sale porque ya es tarde. El verbo narrativo deja al lector esperando qué ha visto. La acción del día siguiente no es un estallido desconectado: la inspección antecede a la confrontación con la actividad que ha ocupado el recinto.
 
-## Higuera y casa de oración para todos los pueblos (11:12-19)
+## Higuera y casa de oración para todos los pueblos (11:12-19) #markos_11_12-19
 
 Marcos intercala la higuera entre la llegada y la intervención en el Hejal. Yehoshua tiene hambre, encuentra hojas sin fruto —el narrador precisa que no era tiempo de higos— y pronuncia una palabra que será recordada al verla seca. La clase 36 observa la cercanía de esta escena con lo que ocurre en el templo y habla de esterilidad. La relación literaria es sólida: Marcos hace que ambos episodios se interpreten mutuamente. Sin embargo, el texto no identifica expresamente la higuera con un grupo étnico ni permite convertir la imagen en desprecio hacia Israel.
 
@@ -87,7 +87,7 @@ La parte 35 de Eric lleva precisamente en su título los dos elementos que Marco
 
 Los sacerdotes y escribas oyen, buscan cómo hacerlo perecer y temen a la multitud asombrada por su enseñanza. La tensión ya no es la de un reformador con una sugerencia administrativa. Marcos presenta una confrontación de autoridad: quién puede juzgar el uso del recinto que ellos administran y qué harán ellos ante esa palabra.
 
-## La emunah que recibe y la petición que perdona (11:20-26)
+## La emunah que recibe y la petición que perdona (11:20-26) #markos_11_20-26
 
 Por la mañana, Kefa ve que la higuera se secó desde las raíces y recuerda lo que Yehoshua había dicho. Eric considera insuficiente traducir 11:22 como «tened fe en Dios» y propone leer **(πίστιν θεοῦ)** como la fidelidad de Dios presente para los discípulos. Esa lectura llama correctamente la atención sobre el genitivo griego y combate la idea de que la fe humana sea un poder independiente. Pero no se puede resolver el griego mediante la afirmación de que Marcos fue escrito originalmente en hebreo: la evidencia requerida para esa conclusión no se ofrece en la clase.
 
@@ -95,7 +95,7 @@ La lectura más segura conserva las dos protecciones del pasaje. Si se lee «fe 
 
 El v. 24 no termina en la petición. TTH dice: «todo lo que en tefilah pidan, afírmense en que lo recibirán». La clase lo vincula con pedir dentro de la voluntad divina; esa comparación encuentra apoyo en la dirección general de la oración bíblica, aunque 11:24 no cita por sí mismo una fórmula de «voluntad». El control inmediato de Marcos está en los vv. 25-26: al ponerse a orar, los discípulos deben remitir lo que tienen contra otro. **(ἀφίημι)** no permite separar la súplica por dones de una disposición a perdonar. La emunah del capítulo es comunitaria, ética y dependiente, no una palanca privada para obtener resultados.
 
-## La pregunta que deja al descubierto la autoridad (11:27-33)
+## La pregunta que deja al descubierto la autoridad (11:27-33) #markos_11_27-33
 
 Los dirigentes formulan la pregunta lógica después de la acción del Hejal: «¿Con qué poder haces esto, y quién te dio este poder?» Yehoshua no evade la cuestión, sino que exige primero una respuesta sobre Iojanán: ¿su inmersión era de los cielos o de los hombres? El contraste descubre su cálculo. Si confiesan que era de los cielos, deben explicar por qué no creyeron; si dicen que era humana, temen a la multitud, que lo reconocía profeta.
 
@@ -146,7 +146,7 @@ El cierre convierte la autoridad en una prueba de responsabilidad. Los dirigente
 
 Esta progresión conserva el aporte concreto de Eric sin sobrecargarlo. La esterilidad no es una licencia para condenar pueblos; la emunah no es control sobre Elohim; la tefilah no se separa del perdón; y la autoridad no se demuestra por una etiqueta, sino por la fidelidad al propósito de la casa y por la respuesta honesta ante la obra de Dios. La lectura canónica del capítulo termina donde Marcos termina: con dirigentes que prefieren proteger su posición antes que reconocer el origen de la autoridad que tienen delante.
 
-## Control ampliado: la fidelidad recibida frena la lectura de poder (11:20-33)
+## Control ampliado: la fidelidad recibida frena la lectura de poder (11:20-33) #markos_11_20-33
 
 La parte 36 de Eric no trata la higuera seca como una demostración de que el discípulo posee una fuerza verbal autónoma. La clase insiste en que **πίστιν θεοῦ**, _pistin theou_, debe oírse como «la fidelidad de Dios» o «la fidelidad de Dios esté con ustedes», y observa que el hebreo no expresa literalmente la posesión mediante un verbo equivalente a «tener». Esa propuesta lingüística necesita cotejo independiente y no resuelve por sí sola el genitivo griego; sí identifica correctamente el peligro que Eric quiere evitar. En el flujo de Marcos, la palabra de Yehoshua viene después de la denuncia del Hejal y antes del mandato de perdonar: la confianza no se separa de la fidelidad de Elohim ni de una vida reconciliada.
 
@@ -156,7 +156,7 @@ Eric también llama la atención sobre **ἀμὴν**, _amēn_, «verdaderamente
 
 El final del capítulo vuelve a probarlo mediante la pregunta por la autoridad. Los dirigentes preguntan **ἐν ποίᾳ ἐξουσίᾳ**, _en poia exousia_, «con qué autoridad», pero al responder sobre Iojanán calculan las consecuencias públicas de cada opción. Eric observa que su «no sabemos» protege la posición en vez de reconocer la evidencia. Marcos lo narra con los verbos **διελογίζοντο**, _dielogizonto_, «deliberaban entre sí», y **φοβούμεθα**, _phoboumetha_, «tememos»: la autoridad de Yehoshua no queda refutada por la negativa, sino que la negativa revela una respuesta moral ante el testimonio.
 
-## Control ampliado: la aclamación queda bajo examen (11:1-11)
+## Control ampliado: la aclamación queda bajo examen (11:1-11) #markos_11_1-11
 
 La entrada no debe leerse como una coronación ya consumada. Marcos conserva una secuencia de preparación, aclamación e inspección. **(ἀποστέλλει)**, _apostellei_, «envía», presenta a los dos discípulos como mensajeros bajo una instrucción concreta; **(δεδεμένον)**, _dedemenon_, «atado», describe el asnito que será desatado, y **(λύσατε)**, _lysate_, «desaten», da la orden que hace posible la entrada. La relación con **(עני)**, _ani_, «afligido o humilde», puede orientar una lectura semítica del animal humilde, pero es aproximada: Marcos no cita aquí una forma hebrea ni convierte el asnito en una prueba filológica.
 
@@ -166,7 +166,7 @@ El v. 11 funciona como control contra esa exageración. **(εἰσῆλθεν)**
 
 Este control prueba la observación de Eric en su forma más concreta: el rey recibido por la multitud no queda definido por el volumen del aplauso, sino por la finalidad que examina. La entrada, por tanto, prepara el contraste entre apariencia y fruto sin borrar la secuencia ni cargar el asnito con una simbología que el texto no explicita.
 
-## Prueba final: una autoridad que produce fruto (11:1-33)
+## Prueba final: una autoridad que produce fruto (11:1-33) #markos_11_1-33
 
 La entrada, el Hejal y la pregunta final forman una sola prueba. **εἰσῆλθεν**, _eisēlthen_, «entró», y **περιβλεψάμενος**, _periblepsamenos_, «habiendo mirado alrededor», muestran que la aclamación no basta: Yehoshua inspecciona antes de confrontar. La higuera ofrece el criterio de **καρπός**, _karpos_, «fruto», frente a **φύλλα**, _phylla_, «hojas»; la imagen queda ligada a la casa de oración por el entrelazamiento narrativo, pero no autoriza a condenar un pueblo entero.
 
@@ -181,7 +181,7 @@ Finalmente, la autoridad se prueba por la disposición a responder. **ἐξου�
 - [ ] Documentar la propuesta de que _tefilah_ significa primariamente «ser hecho partícipe de un juicio»; no tratarla como etimología establecida sin fuente léxica.
 - [ ] Verificar las referencias judías que la clase menciona sobre la higuera, el Hejal y procedimientos de perdón antes de citarlas con precisión.
 
-## Reparación dirigida: la oración no separa fidelidad y perdón (11:20-25)
+## Reparación dirigida: la oración no separa fidelidad y perdón (11:20-25) #markos_11_20-25
 
 La parte 36 de Eric insiste en que **πίστις θεοῦ**, _pistis theou_, no debe convertirse en una fuerza que el discípulo posee para obligar a Elohim. La construcción admite «fe en Dios» y «fidelidad de Dios»; el genitivo puede debatirse, pero ninguna traducción elimina que el objeto de la confianza sea Dios. La comparación con **(אמונה)**, _emunah_, «firmeza, fidelidad o confianza», es de campo semántico y pedagógica. No prueba que Marcos haya sido traducido de un original hebreo ni convierte la forma griega en una contraseña doctrinal.
 

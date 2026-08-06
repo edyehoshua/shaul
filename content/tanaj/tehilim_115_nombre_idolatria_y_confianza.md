@@ -48,7 +48,7 @@ La nota sigue los dieciocho versos en orden. La exposición de Eric se resume de
 | #tehilim_115_12-16 | **יהוה זכרנו יברך יברך את בית ישראל יברך את בית אהרן / יברך יראי יהוה הקטנים עם הגדלים / יסף יהוה עליכם עליכם ועל בניכם / ברוכים אתם ליהוה עשה שמים וארץ / השמים שמים ליהוה והארץ נתן לבני אדם** | La bendición alcanza a pequeños y grandes, bajo la distinción entre cielos de יהוה y tierra dada a los hijos de Adán. |
 | #tehilim_115_17-18 | **לא המתים יהללו יה ולא כל ירדי דומה / ואנחנו נברך יה מעתה ועד עולם הללו יה** | La comunidad viva proclama la alabanza ahora y hasta el horizonte indicado por el salmo. |
 
-## Tehilim 115:1-3: no a nosotros, sino por tu nombre
+## Tehilim 115:1-3: no a nosotros, sino por tu nombre #tehilim_115_1-3
 
 Eric comienza con la repetición **לא לנו**, «no a nosotros», y observa que la preposición **ל** (_le_) puede expresar dirección, pertenencia o, en ciertos contextos, motivación aproximada como «por». En la forma local **לשמך**, _leshimkha_, el sentido directo es «para tu nombre» o «a tu nombre»; la paráfrasis «por tu nombre» es una relación contextual y pedagógica, no una regla que borre todos los usos de la preposición. El argumento material de la clase sí queda claro: la súplica no presenta al ser humano como fundamento de la gloria divina.
 
@@ -56,7 +56,7 @@ La frase «da gloria» contiene **כבוד** (_kavod_), cuyo sentido normal incl
 
 En el v. 2, «¿por qué dirán las naciones dónde está su Elohim?» puede funcionar como pregunta de desafío o como preocupación por el testimonio público. Eric explora la plasticidad de **למה** (_lamah_), normalmente «por qué», y propone pedagógicamente que también se oiga la preocupación «que no digan». La lectura más segura conserva la pregunta del texto: la ausencia visible de intervención produciría una provocación de las naciones. El v. 3 responde que nuestro Elohim está en los cielos y hace todo cuanto quiere; no es un dios ausente ni manipulable.
 
-## Tehilim 115:4-8: la escultura y la fundición de una imagen
+## Tehilim 115:4-8: la escultura y la fundición de una imagen #tehilim_115_4-8
 
 El salmo enumera plata y oro, obra de manos humanas, y luego una serie de negaciones: boca sin habla, ojos sin visión, oídos sin escucha, nariz sin olfato, manos sin tacto, pies sin caminar y garganta sin sonido. Eric convierte esta observación en una crítica de la «neo-idolatría». Para la clase, una **escultura** quita partes de la verdad hasta producir un dios personalizado; una **fundición** agrega o mezcla elementos ajenos a la verdad. Es una aplicación fuerte, pero la secuencia del salmo sí fundamenta el contraste entre una obra formada por manos y יהוה, que actúa desde los cielos.
 
@@ -64,7 +64,7 @@ La clase relaciona la escultura con **פסל** (_pesel_, imagen tallada) y la fu
 
 El v. 8 dice que quienes hacen y confían en esos ídolos serán como ellos. Eric subraya que la idolatría no solo engaña al objeto de culto: forma al adorador según lo que ha construido. La observación tiene apoyo literario directo en la comparación del verso. La extensión psicológica —proyectar deseos, quitar culpa o buscar una deidad que confirme caprichos— es una aplicación explicativa de la clase, no una definición exclusiva de cada ídolo antiguo.
 
-## Tehilim 115:9-16: confianza, ayuda, escudo y herencia
+## Tehilim 115:9-16: confianza, ayuda, escudo y herencia #tehilim_115_9-16
 
 La respuesta del salmo no es simplemente destruir imágenes, sino confiar en יהוה. Israel, la casa de Aarón y los que temen a יהוה reciben una exhortación paralela: **בטח** (_bataj_) significa confiar, sentirse seguro o apoyarse; la forma imperativa plural llama a una acción comunitaria, no solamente a una sensación. Eric insiste en que confiar no equivale a esperar una emoción de seguridad antes de obedecer. Su formulación —hacer lo que corresponde porque es el deber ser y dejar el resultado a יהוה— es una aplicación pastoral coherente con el llamado, aunque el verso no define por sí solo toda una teoría de la obediencia.
 
@@ -72,7 +72,7 @@ La repetición «él es su ayuda y su escudo» vincula confianza con respaldo, n
 
 El v. 16 distingue los cielos pertenecientes a יהוה de la tierra que ha dado a los hijos de Adán. Eric lo conecta con una futura herencia de los escogidos y con el dominio restaurado. La frase local sí establece la donación de la tierra a la humanidad, pero el desarrollo escatológico es una conexión de la clase. El salmo no autoriza convertir «la tierra» en una licencia para idolatrar el poder humano: la bendición sigue dependiendo de יהוה, hacedor de cielos y tierra.
 
-## Tehilim 115:17-18: los vivos proclaman
+## Tehilim 115:17-18: los vivos proclaman #tehilim_115_17-18
 
 El cierre contrasta a los muertos y los que descienden al silencio con «nosotros», que bendeciremos a יה desde ahora y hasta el horizonte del salmo. Eric usa **דומה** (_dumah_, silencio o quietud) para argumentar que el verso describe inactividad de los muertos, no una escena de alabanza celestial. La relación entre silencio y falta de proclamación es directa en el paralelismo; las conclusiones completas sobre el estado de los muertos deben cotejarse con el conjunto de la Escritura.
 

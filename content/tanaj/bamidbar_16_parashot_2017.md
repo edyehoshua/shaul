@@ -78,7 +78,7 @@ En Bamidbar 17:1-5, יהוה ordena que Eleazar saque los incensarios del incend
 
 La frase **ולא יהיה כקרח וכעדתו**, _velo yihyeh keKoraj ve-edato_, «para que no sea como Koraj y su asamblea», convierte el objeto en una advertencia interpretada por la Torah. «Recordatorio de humildad» es pedagógico; el sentido exacto es un límite cultual ante el altar. Eric llama a realizar el servicio «como para Hashem»: esta conclusión apoya la integridad del servidor, pero también fija un límite decisivo a la aplicación: no toda persona puede tomar para sí una función porque sienta celo o vea una necesidad. La santidad es recibida, regulada y memorializada por la palabra de יהוה.
 
-## El memorial no silencia la queja: 16:36-50
+## El memorial no silencia la queja: 16:36-50 #bamidbar_16_36-50
 
 La unidad final impide cerrar el relato en el fuego. יהוה manda a Eleazar que retire los incensarios «de entre el incendio» y que sean martillados como láminas para cubrir el altar. El TTH llama a esos objetos «un memorial para los hijos de Israel» y añade el límite: «que no se acercará hombre extraño que no sea él de la simiente de Aharón, para acercar incienso delante de יהוה» (#bamidbar_16_37-40). La señal no es un trofeo de la autoridad de Mosheh; hace visible que la cercanía cultual está regulada y que la rebelión no debe repetirse.
 

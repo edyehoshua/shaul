@@ -145,5 +145,5 @@ La transcripción pide leer "hombre", "hijo" y "simiente" desde el hilo interno 
 
 Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 1 La problemática del pecado» — <https://www.youtube.com/watch?v=mk_M2v6H_3k> — source_id: `youtube:mk_M2v6H_3k`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 2 El concepto de Hombre y la naturaleza de Mashíaj» — <https://www.youtube.com/watch?v=L_6X4-WsETE> — source_id: `youtube:L_6X4-WsETE`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 1 La problemática del pecado» — <https://www.youtube.com/watch?v=mk_M2v6H_3k> — `source_id`: `youtube:mk_M2v6H_3k`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías Parte 2 El concepto de Hombre y la naturaleza de Mashíaj» — <https://www.youtube.com/watch?v=L_6X4-WsETE> — `source_id`: `youtube:L_6X4-WsETE`.

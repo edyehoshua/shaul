@@ -97,5 +97,5 @@ Tehilim 3 enseña a hablar con honestidad cuando se multiplican los adversarios 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehillim/Psalms/Psalm Ch. 3» — <https://www.youtube.com/watch?v=lmFl_zxaEFw> — source_id: `youtube:lmFl_zxaEFw`.
+- Video: «Tehillim/Psalms/Psalm Ch. 3» — <https://www.youtube.com/watch?v=lmFl_zxaEFw> — `source_id`: `youtube:lmFl_zxaEFw`.
 - Esta nota organiza y contrasta una transcripción automática; no presenta la transcripción automática como cita literal.

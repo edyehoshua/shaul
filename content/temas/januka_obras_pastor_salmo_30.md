@@ -51,19 +51,19 @@ Esta nota organiza la clase **Despedida de Janukáh (2018) Análisis de Jn 10:22
 | #tehilim_30_8-9   | יהוה ברצונך העמדתה להררי עז הסתרת פניך הייתי נבהל׃ אליך יהוה אקרא ואל אדני אתחנן                                                                                                                          | La firmeza del salmista procede del favor de יהוה, por eso su respuesta es clamar.      |
 | #tehilim_30_12-13 | הפכת מספדי למחול לי פתחת שקי ותאזרני שמחה׃ למען יזמרך כבוד ולא ידם יהוה אלהי לעולם אודך                                                                                                                   | La restauración culmina en alabanza, no en silencio ni en autoexaltación.               |
 
-## Iojanán 10:22-25: una pregunta durante Janucá
+## Iojanán 10:22-25: una pregunta durante Janucá #iojanan_10_22-25
 
 La clase comienza por el dato que el relato da sin rodeos: «era Janucá» y Yehoshua caminaba en el pórtico de Shelomóh. Eric observa que la celebración ya existía en el período narrado por el evangelio; esa observación es suficiente para leer el marco histórico de la pregunta. Sin embargo, el texto no convierte la fiesta en el criterio que prueba la identidad de Yehoshua. Los que lo rodean piden una respuesta abierta sobre el Mesías, mientras el v. 25 responde: ya se les ha dicho, y las obras hechas en nombre del Padre dan testimonio.
 
 La insistencia de Eric en que no se trata de una pregunta neutral ayuda a atender la secuencia. El interlocutor no recibe un eslogan nuevo, sino una remisión a hechos ya presentes. Por eso la nota no necesita decidir de antemano la motivación interior de cada persona del grupo: el evangelio registra tanto su demanda como la respuesta de Yehoshua. El punto textual es que el reconocimiento reclamado debe considerar las obras, no separar una confesión verbal de aquello que las obras muestran.
 
-## Iojanán 10:26-30: oír, seguir y recibir vida
+## Iojanán 10:26-30: oír, seguir y recibir vida #iojanan_10_26-30
 
 Después de la referencia a las obras, el pasaje desarrolla el lenguaje del pastor. Eric subraya la cadena del v. 27: las ovejas escuchan la voz, Yehoshua las conoce y ellas lo siguen. El orden importa. No es una promesa aislada de seguridad; el relato nombra una relación de escucha y seguimiento. El v. 28 añade la vida olam y la imposibilidad de que alguien las arrebate de su mano; el v. 29 repite la seguridad en relación con la mano del Padre.
 
 La clase conecta esta seguridad con la acción previa del Padre y con la promesa. Esa es una inferencia teológica que debe mantenerse bajo la gramática de Iojanán: el texto afirma que el Padre las dio, que es mayor que todos y que nadie puede arrebatarlas. No autoriza a borrar la llamada concreta a escuchar y seguir del v. 27. Finalmente, «Yo y mi Padre uno somos» (v. 30) pertenece a esta unidad literaria; debe leerse después del doble lenguaje de dar, guardar y no arrebatar, no como una frase desprendida de la discusión.
 
-## Iojanán 10:31-39: las obras como testimonio y la Escritura no anulada
+## Iojanán 10:31-39: las obras como testimonio y la Escritura no anulada #iojanan_10_31-39
 
 La reacción de tomar piedras desplaza la conversación hacia las «muchas buenas obras» mostradas de parte del Padre. Eric llama a estas obras la realización visible de promesas que las Escrituras anuncian. La formulación puede servir como orientación de lectura si se conserva el límite del pasaje: Yehoshua mismo apela a sus obras y pide que, aun si no se confía en él, se atienda a las obras para conocer que el Padre está en él y él en el Padre (#iojanan_10_37-38).
 

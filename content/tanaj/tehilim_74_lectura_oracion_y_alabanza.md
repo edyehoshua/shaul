@@ -51,5 +51,5 @@ La lectura de Tehilim 74 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo cap 74» — <https://www.youtube.com/watch?v=sfiq1j6sPAU> — source_id: `youtube:sfiq1j6sPAU`.
+- «Tehilim/Himnos/Salmo cap 74» — <https://www.youtube.com/watch?v=sfiq1j6sPAU> — `source_id`: `youtube:sfiq1j6sPAU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

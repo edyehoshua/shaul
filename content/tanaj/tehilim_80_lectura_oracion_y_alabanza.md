@@ -33,7 +33,7 @@ Esta nota canónica reúne la fuente disponible para Tehilim 80. La transcripci�
 | #tehilim_80_1  | למנצח אל ששנים עדות לאסף מזמור          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
 | #tehilim_80_20 | יהוה אלהים צבאות השיבנו האר פניך ונושעה | El verso final permite observar el cierre de la composición.         |
 
-## El pastor y el rostro oculto — Tehilim 80:1-8
+## El pastor y el rostro oculto — Tehilim 80:1-8 #tehilim_80_1-8
 
 El encabezado sitúa el canto «לאסף» y la primera invocación es una imagen pastoral: «רעה ישראל האזינה נהג כצאן יוסף» (v. 2), «Pastor de Israel, escucha; tú que conduces como rebaño a José». Eric empieza por esa tensión: el que conduce a Israel también parece guardar silencio ante el dolor. La imagen no autoriza a separar al pastor del pueblo; el texto lo nombra como quien se sienta sobre los querubines y debe «hacer brillar» su presencia.
 
@@ -41,7 +41,7 @@ La petición se repite en vv. 4, 8 y 20: «אלהים השיבנו והאר פנ
 
 Entre los estribillos, los vv. 5-7 describen lágrimas y hostilidad: יהוה ha dado a comer «לחם דמעה» y beber lágrimas, y ha puesto al pueblo por motivo de disputa entre vecinos. Eric conserva la pregunta «עד מתי עשנת בתפלת עמך», «¿hasta cuándo humearás contra la oración de tu pueblo?», como una queja dirigida a יהוה sin abandonar la oración. El texto permite esa doble postura: protesta («עשנת», humo/ira) y petición de restauración aparecen juntas.
 
-## La vid sacada de Egipto — Tehilim 80:9-17
+## La vid sacada de Egipto — Tehilim 80:9-17 #tehilim_80_9-17
 
 El poema cambia a la metáfora vegetal: «גפן ממצרים תסיע» (v. 9), «una vid arrancaste de Egipto». Eric lee la secuencia completa, no sólo la imagen de prosperidad: יהוה expulsó naciones, plantó la vid, limpió delante de ella y sus ramas llenaron la tierra (vv. 9-12). La memoria del éxodo y de la plantación hace de Israel una obra recibida, no una autosuficiencia nacional.
 
@@ -49,7 +49,7 @@ La vid se extiende desde los montes hasta el río (vv. 11-12), pero sus cercas q
 
 Los vv. 15-17 vuelven a pedir inspección: «שוב נא הבט משמים וראה ופקד גפן זאת», «vuelve, mira desde los cielos, visita esta vid». El texto añade «וכנה אשר נטעה ימינך ועל בן אמצתה לך», una planta y un hijo fortalecidos para יהוה, y describe el fuego y la reprensión que los consumen. **פָּקַד** (_paqad_, «visitar, atender, encargar o tomar cuenta») tiene aquí fuerza de intervención cuidadosa: la relación con «visitar» es contextual, no una licencia para borrar el juicio del v. 17.
 
-## El hombre de la diestra y el estribillo final — Tehilim 80:18-20
+## El hombre de la diestra y el estribillo final — Tehilim 80:18-20 #tehilim_80_18-20
 
 La conclusión pide: «תהי ידך על איש ימינך» (v. 18), «sea tu mano sobre el hombre de tu diestra», y «על בן אדם אמצת לך», «sobre el hijo de hombre que fortaleciste para ti». Eric relaciona esta figura con la restauración que el salmo espera, pero distingue el sentido del poema de una identificación mesiánica completa. **יָמִין** (_yamin_, «mano derecha, lado derecho») puede expresar favor y poder; aquí la fuerza contextual es la mano de יהוה sobre el representante que él mismo fortaleció.
 
@@ -85,5 +85,5 @@ Tehilim 80 recuerda al Pastor, lamenta el rostro oculto, describe a Israel como 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 80» — <https://www.youtube.com/watch?v=lVYImIjmILs> — source_id: `youtube:lVYImIjmILs`.
+- «Tehilim/Himnos/Salmo Cap 80» — <https://www.youtube.com/watch?v=lVYImIjmILs> — `source_id`: `youtube:lVYImIjmILs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

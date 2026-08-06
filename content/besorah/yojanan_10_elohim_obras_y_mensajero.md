@@ -37,7 +37,8 @@ references:
   - "#ivrim_2_14"
 sources:
   - "https://www.youtube.com/live/FV3WHeOQbzg?si=p6KP3k6gZ2eIM3p0"
-  - "private/sources/youtube_FV3WHeOQbzg_transcript.txt"
+source_ids:
+  - "youtube:FV3WHeOQbzg"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -194,3 +195,9 @@ El excursus sobre mensajeros protege la misma tesis: si Yeshúa es la encarnaci�
 - [[yojanan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]]
 - [[yojanan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, Bar Enash y el Hijo de Elohim]]
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=FV3WHeOQbzg) (`source_id`: `youtube:FV3WHeOQbzg`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

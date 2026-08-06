@@ -44,7 +44,7 @@ Esta nota reúne dos clases públicas del hermano Eric de Jesús Rodríguez Mend
 | #revelation_15_5-6 | **ואחרי כן ראיתי והנה נפתח היכל משכן העדות בשמים... ויצאו מןהיכל שבעה המלאכים הנשאים אתשבע המכות** | El santuario se abre y los siete portadores salen preparados para ejecutar el juicio. |
 | #revelation_15_7-8 | **ואחת מארבע החיות נתנה לשבעת המלאכים שבע קערות זהב מלאות חמת האלהים... וימלא ההיכל עשן מכבוד אלהים ועזו** | Las copas contienen la ira; la gloria llena el templo hasta que terminen las plagas. |
 
-## El anuncio y la continuidad con Egipto: 15:1-4
+## El anuncio y la continuidad con Egipto: 15:1-4 #revelation_15_1-4
 
 Eric subraya que el capítulo 15 es breve y funciona como anuncio de las siete plagas que se desarrollarán en el capítulo 16. En su lectura, las siete plagas postreras recuerdan las plagas de Egipto: no como una repetición accidental, sino como una señal de que Elohim juzga las potestades que pretenden proteger a quienes confían en ellas. La correspondencia tipológica es concreta en la exposición, pero no permite afirmar por sí sola que cada copa tenga una deidad antigua identificable ni que la secuencia sea una cronología histórica ya reconstruida.
 
@@ -52,7 +52,7 @@ El texto, antes de describir el juicio, muestra a los vencedores sobre un mar se
 
 El cántico de Moisés y del Cordero (#revelation_15_3-4) es el centro interpretativo. Eric destaca que «grandes y maravillosas» son las obras de יהוה y que sus caminos son justicia y verdad. También lee «todas las naciones vendrán y adorarán» como una programación futura, no como una condición limitada al presente de la iglesia. El pasaje sí articula juicio, santidad y adoración universal; la datación precisa de ese futuro queda pendiente.
 
-## Santuario, mensajeros y copas: 15:5-8
+## Santuario, mensajeros y copas: 15:5-8 #revelation_15_5-8
 
 Después del cántico se abre el templo, descrito como el tabernáculo del testimonio en el cielo (#revelation_15_5). Siete mensajeros salen vestidos de lino limpio y ceñidos con oro (#revelation_15_6). Eric insiste en que «mensajero» no debe reducirse automáticamente a un ser alado: en su explicación, el término puede abarcar al portador de un juicio o de una palabra. Esa ampliación preserva una observación concreta de la clase, pero el sentido de cada uso debe comprobarse en su contexto y no convertirse en una regla uniforme.
 

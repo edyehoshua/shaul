@@ -154,7 +154,7 @@ En 2:10, **(ἀγάπη)**, _agapē_, significa amor, benevolencia o afecto; aqu
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=IaAqRAairp8> — source_id: `youtube:IaAqRAairp8`.
-- Video: <https://www.youtube.com/watch?v=0wMK3fS_Ddk> — source_id: `youtube:0wMK3fS_Ddk`.
-- Video: <https://www.youtube.com/watch?v=vTJtc4MJUFY> — source_id: `youtube:vTJtc4MJUFY`.
+- Video: <https://www.youtube.com/watch?v=IaAqRAairp8> — `source_id`: `youtube:IaAqRAairp8`.
+- Video: <https://www.youtube.com/watch?v=0wMK3fS_Ddk> — `source_id`: `youtube:0wMK3fS_Ddk`.
+- Video: <https://www.youtube.com/watch?v=vTJtc4MJUFY> — `source_id`: `youtube:vTJtc4MJUFY`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

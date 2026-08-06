@@ -53,7 +53,7 @@ Esta nota sigue el tramo de la clase «Parashat Bshalaj - Éxodo 13:17 - 17:16 E
 | #shemot_16_4, 15          | **הנני ממטיר לכם לחם מן השמים** / **הוא הלחם אשר נתן יהוה לכם לאכלה**                                                                                        | «Haré llover para ustedes pan del cielo… Esto es el pan que les ha dado יהוה».                                                                           | La provisión diaria examina si el pueblo caminará en la Torah.                        |
 | #shemot_17_1, 6-8, 12, 15 | **על פי יהוה** / **והכית בצור ויצאו ממנו מים** / **ויבא עמלק** / **ויהי ידיו אמונה** / **ויקרא שמו יהוה נסי**                                                | «Por causa de la boca de יהוה… golpea la peña y saldrá agua… vino Amalec… sus manos eran emunah… יהוה Nisí».                                             | La marcha, el agua, la batalla y el apoyo mutuo quedan bajo la presencia de יהוה.     |
 
-## El desvío no es abandono: Shemot 13:17–22
+## El desvío no es abandono: Shemot 13:17–22 #shemot_13_17-22
 
 El narrador dice que יהוה no condujo al pueblo por el camino cercano de los filisteos. La clase observa que el texto no debe leerse como si יהוה estuviera evitando para siempre la guerra. La razón explícita es que, al verla, el pueblo podría volver a Egipto. Eric propone leer **(נחם)**, _najam_, aquí como «ser restaurado» o «ser consolado», en vez de asumir automáticamente «arrepentirse». La raíz tiene un rango semántico amplio; en este contexto, «volver a otra disposición» es una opción contextual plausible, mientras que afirmar que significa exclusivamente «consolar» sería una equivalencia **aproximada**, no exacta.
 
@@ -61,7 +61,7 @@ La nota conserva el argumento central de la clase: la protección divina no elim
 
 Eric también comenta **(וחמשים)**, _vajamushim_, en 13:18, relacionándolo con salir «agrupados» o en formación. El TTH traduce «agrupados en cinco», y el OE conserva la lectura tradicional «armados». La forma es discutida en su interpretación; por eso la afirmación de que describe necesariamente pelotones de cincuenta queda **pendiente de verificar**. Lo seguro en la secuencia es que una multitud liberada necesita conducción, memoria y orden.
 
-## Del temor al avance: Shemot 14:10–31
+## Del temor al avance: Shemot 14:10–31 #shemot_14_10-31
 
 Cuando Faraón alcanza al pueblo, Israel teme y reprocha a Moshéh que habría sido mejor servir a Egipto. La clase destaca que esta escena prueba la tesis de 13:17: el problema no era meramente encontrar un camino sin guerra, sino recibir consuelo suficiente para no volver. Moshéh responde: «No teman; estén firmes y vean la salvación de יהוה». **(ישועה)**, _yeshuah_, significa salvación, liberación o victoria; aquí la traducción «salvación» es cercana, pero su fuerza incluye una acción visible de יהוה en favor de Israel. La conexión posterior con Yehoshua puede ser **pedagógica**; no convierte automáticamente cada uso de _yeshuah_ en un nombre propio mesiánico.
 
@@ -93,7 +93,7 @@ Entonces Amalec ataca. Yehoshua combate, mientras Moshéh permanece en la cumbre
 
 Moshéh edifica un altar y lo llama **(יהוה נסי)**, _Adonai Nissi_, «יהוה es mi estandarte». **(נס)**, _nes_, puede referir a señal, estandarte o señal levantada; «bandera» es una traducción **aproximada**. El nombre no convierte la batalla en propaganda humana: confiesa que la victoria y la memoria de la guerra quedan bajo la identidad de יהוה.
 
-## Un camino guiado que forma una comunidad: 13:21–17:16
+## Un camino guiado que forma una comunidad: 13:21–17:16 #shemot_13_21 #shemot_17_16
 
 La nube y el fuego resumen la conducción: «יהוה iba delante de ellos, de día en columna de nube para guiarlos por el camino, y de noche en columna de fuego para alumbrarlos» (#shemot*13_21). **(נחה)**, \_najah*, significa guiar, conducir o dar descanso; en la forma **(לנחתם)**, _lenajotam_, su fuerza contextual es orientar a una comunidad vulnerable por una ruta concreta. «Consolar» es aquí una equivalencia **pedagógica** derivada del efecto de la guía, no la traducción exacta del verbo. La clase acierta al unir consuelo y dirección: el texto no presenta una presencia abstracta, sino una que va delante.
 
@@ -105,7 +105,7 @@ La escena de Amalec completa el consuelo con cooperación. Cuando las manos de M
 
 Así, el consuelo de Bshalaj no es una promesa de que el camino será cómodo. OE conserva el mandato «sigan viajando» (#shemot_14_15) y TTH traduce la provisión del maná como «el pan que les ha dado יהוה» (#shemot_16_15). La exposición de Eric queda confirmada en una forma más precisa: יהוה restaura el ánimo para que Israel avance, reciba el pan según la palabra y aprenda a sostenerse mutuamente; no para que abandone la obediencia ni para que vuelva a Egipto.
 
-## El altar y la memoria de la guerra: Shemot 17:8–16
+## El altar y la memoria de la guerra: Shemot 17:8–16 #shemot_17_8-16
 
 La exposición de Eric no presenta la lucha contra Amalec como una licencia para la venganza privada. Esa cautela se ajusta al cierre de la perícopa: Moshéh edifica un altar después de la victoria y lo llama **יהוה נסי** —«יהוה es mi estandarte»— (#shemot_17_15, OE y TTH). El nombre interpreta la batalla desde la adoración y la memoria, no desde la glorificación autónoma de Israel. La comunidad combate, pero no se atribuye el estandarte.
 

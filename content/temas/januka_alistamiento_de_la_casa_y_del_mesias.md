@@ -52,13 +52,13 @@ Eric comienza reconociendo algo importante: Janukáh «no figura dentro de las c
 
 Por eso la clase no necesita afirmar que Janukáh pertenece al mismo nivel normativo que Pesaj, Shavuot o Sukot. Su propuesta es más cuidadosa: estudiar por qué el Maestro estuvo allí y qué podemos aprender de su enseñanza. La presencia de Yehoshua tampoco convierte automáticamente todo lo que ocurre en esa fiesta en un mandato. El pasaje debe leerse por sus acciones y palabras.
 
-## Juan 10:22-25: Yehoshua en la dedicación y las obras como testimonio
+## Juan 10:22-25: Yehoshua en la dedicación y las obras como testimonio #yojanan_10_22-25
 
 Juan dice que era **(חנכה)**, _janukáh_, y añade que era invierno. La forma hebrea del Delitzsch es un préstamo transliterado del nombre de la festividad; su relación con la raíz **(חנך)**, _janaj_, «iniciar, entrenar o dedicar para un uso», es **aproximada en esta aplicación**, porque el nombre histórico y la raíz comparten campo semántico, pero una etimología no resuelve todo el significado del relato. En el versículo siguiente Yehoshua camina en el **(מקדש)**, _miqdash_, «santuario o lugar santo»; «templo» es **aproximado** como traducción castellana habitual.
 
 Eric observa que el Maestro no se apartó del contexto: estuvo en Jerusalén y caminó en el templo. El relato, sin embargo, enfoca la conversación en la identidad mesiánica. Los interlocutores piden claridad, y Yehoshua responde que ya ha hablado y que sus obras hechas en el nombre del Padre dan testimonio. **(עדות)**, _edut_, significa «testimonio» o «evidencia»; «prueba irrefutable» sería una ampliación **pedagógica** que el versículo no exige. El énfasis está en que las obras deben ser consideradas junto con la palabra, no en que una fiesta sustituya la escucha.
 
-## Juan 10:27-28: el alistamiento se reconoce por escucha y seguimiento
+## Juan 10:27-28: el alistamiento se reconoce por escucha y seguimiento #yojanan_10_27-28
 
 La clase desarrolla el título de Tehilim 30 como una imagen de preparación. Eric explica «alistamiento» con el ejemplo de una máquina que debe ser encendida, engranada y dispuesta para cumplir su función; luego relaciona esa idea con la venida y el ministerio del Mesías. Presentada como analogía pedagógica, la imagen ayuda a explicar la secuencia de obediencia y testimonio, pero no debe confundirse con el sentido único de חנכה.
 

@@ -63,25 +63,25 @@ Esta nota organiza las dos partes de la clase «Teología del reemplazo». Sigue
 | **(שבועה)**      | shevuah         | juramento                 | Eric agrupa promesa y juramento para enfatizar la fidelidad de יהוה a su palabra                         | Pedagógica; no toda «promesa» equivale léxicamente a «juramento»                                             |
 | **(ἐγκεντρίζω)** | enkentrizo      | injertar                  | Verbo griego de Romanos 11:17-24 detrás de la imagen hortícola                                           | Exacta como lema; la preferencia de la clase por «plantar» sigue la traducción TTH y necesita cotejo crítico |
 
-## Israel llamado y adquirido — Shemot 3:10; Devarim 7:6
+## Israel llamado y adquirido — Shemot 3:10; Devarim 7:6 #shemot_3_10 #devarim_7_6
 
 La primera parte comienza preguntando quién es el pueblo de Elohim. Eric observa en #shemot_3_10 que יהוה ya llama «mi pueblo» a los hijos de Israel cuando Moshe apenas está siendo enviado a Faraón. La clase desarrolla la salida de Mitzráim como un proceso de redención y nacimiento nacional: Pésaj abre la liberación y el paso por las aguas marca la salida del dominio egipcio. La comparación local confirma la designación «mi pueblo»; la imagen del nacimiento por las aguas debe conservarse como explicación pedagógica de la clase, no como definición léxica de Shemot.
 
 #devarim_7_6 añade que Israel es un pueblo apartado y una adquisición entre los pueblos. Eric aclara que esta elección no significa «pureza de sangre» ni superioridad humana. En su exposición, las naciones pueden servir al Elohim de Israel e incorporarse a su pueblo; por eso el contraste no debe convertirse ni en nacionalismo étnico ni en la desaparición de Israel. El texto local sostiene la elección explícita, mientras que los ejemplos históricos de incorporación mencionados en la clase —la viuda de Tsarfat, Naamán y otros— merecen desarrollo separado antes de usarlos como una demostración exhaustiva.
 
-## Los que estaban lejos son hechos uno — Efesios 2:12-14
+## Los que estaban lejos son hechos uno — Efesios 2:12-14 #efesiyim_2_12-14
 
 La clase lee #efesiyim_2_12 en dirección inversa a la exclusión anterior: si los destinatarios estaban sin Mesías, ajenos a la comunidad de Israel y extraños a los pactos, su acercamiento no puede significar que Israel haya sido eliminado. #efesiyim_2_14 afirma que el Mesías hizo de «los dos» uno. Eric identifica esos dos grupos como judío y gentil y llama al resultado un solo pueblo bíblico orientado al Mesías.
 
 Esta unidad tampoco exige que el gentil adopte una identidad étnica judía ni que el judío se haga griego. La segunda parte recalca que ambos son llevados al Mesías y a la Escritura, no a una competencia de costumbres humanas. La inferencia central es sólida dentro de la secuencia citada: el lenguaje de acercamiento, ciudadanía y pactos contradice la imagen de una comunidad gentil autónoma que desplaza a Israel. Sin embargo, la nota no convierte cada detalle de esa incorporación en una fórmula genealógica; la transcripción también relaciona a las naciones con las tribus dispersas, pero esa identificación amplia requiere una demostración propia.
 
-## «Pueblo mío» después de «no mi pueblo» — Hoshea 2:23
+## «Pueblo mío» después de «no mi pueblo» — Hoshea 2:23 #hoshea_2_23
 
 Eric usa #hoshea_2_23 para describir dispersión y restauración. La persona llamada Lo-Rujamá recibe compasión y quien era Lo-Amí vuelve a escuchar «pueblo mío». Según la clase, esto no retrata a יהוה cansándose de un pueblo y escogiendo otro, sino al mismo Elohim cumpliendo su palabra y produciendo el cambio que permite el retorno.
 
 El verso local sí contiene el movimiento de no amado/no pueblo a amado/pueblo. La enseñanza añade que la desobediencia a la Torá explica el juicio y que la renovación de la obediencia acompaña la restauración. Esa conexión concuerda con el marco profético general, pero debe distinguirse de la frase exacta del verso: Hoshea 2:23 no enumera allí todas las condiciones de la restauración. La diferente numeración del pasaje —2:23 en TTH y 2:25 en OE— también queda registrada para que la referencia sea localizable.
 
-## El olivo excluye la jactancia — Romanos 11:17-24
+## El olivo excluye la jactancia — Romanos 11:17-24 #romiyim_11_17-24
 
 La segunda parte concluye con el olivo. Algunas ramas fueron quebradas y el acebuche fue colocado entre ellas, pero #romiyim_11_18 ordena no jactarse: la rama incorporada no sostiene a la raíz. #romiyim_11_20-22 reemplaza la arrogancia por temor y perseverancia en la bondad. Finalmente, #romiyim_11_23-24 declara que Elohim puede volver a colocar las ramas naturales. El movimiento completo del pasaje impide tratar el lugar recibido como certificado de superioridad contra el judío.
 

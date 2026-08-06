@@ -95,7 +95,7 @@ Cuando Esav entra, Yitsjaq tiembla y reconoce: «también bendito será». Esa f
 | **(בכרה)**   | _bekhoráh_      | Primogenitura, condición del primogénito       | Bien que Esav desprecia y vende                    | «Herencia» es pedagógica                               |
 | **(ברך)**    | _baraj_         | Bendecir, conceder bendición                   | Pronuncia el don patriarcal bajo la promesa        | «Transferir poder» es pedagógica                       |
 
-## 28:1-9: la bendición recibida y la separación de las alianzas
+## 28:1-9: la bendición recibida y la separación de las alianzas #bereshit_28_1-9
 
 El último movimiento del bloque corrige cualquier lectura que dejara la bendición de Yaakov suspendida en el engaño. Yitsjaq lo llama, lo bendice y le ordena: «no tomarás mujer de las hijas de Kenaan» (#bereshit_28_1-2). **(צוה)**, _tsavah_, significa mandar u ordenar; aquí la instrucción paterna concreta acompaña la transmisión de la bendición y orienta la salida de Yaakov. «Consagrar el matrimonio» sería una aplicación **pedagógica**; la fuerza inmediata es una orden sobre el vínculo familiar y la continuidad de la casa.
 
@@ -103,7 +103,7 @@ Yitsjaq vuelve a decir: «El Elohim Todopoderoso te bendiga ... y te dé la bend
 
 Esav percibe que las mujeres cananeas disgustan a Yitsjaq y toma a Majalat, hija de Ishmael. El gesto muestra que la percepción de la preferencia familiar puede producir una respuesta imitativa, pero el narrador no dice que esa acción sea la misma bendición dada a Yaakov. Eric acierta al poner en primer plano la elección y la bendición; el recorrido textual añade que la promesa se expresa junto con separación, obediencia y desplazamiento, no como licencia para eludir las consecuencias del conflicto.
 
-## La bendición también se prueba en la tierra: Gerar, pozos y contienda — Bereshit 26:12–33
+## La bendición también se prueba en la tierra: Gerar, pozos y contienda — Bereshit 26:12–33 #bereshit_26_12-33
 
 El capítulo intermedio no es un desvío de la promesa. Yitsjaq siembra en Gerar y cosecha «cien por uno» porque יהוה lo bendice (#bereshit_26_12). **(ברך)**, _baraj_, significa bendecir, conceder prosperidad o invocar bienestar; aquí su fuerza contextual se ve en una cosecha concreta y en el crecimiento de la casa, no en una garantía de comodidad sin oposición. Eric relaciona la bendición con la elección recibida, y el texto permite esa conexión porque la prosperidad aparece dentro de la promesa a la descendencia de Avraham. Sin embargo, los filisteos sienten envidia y ciegan los pozos: bendición y conflicto coexisten.
 
@@ -123,7 +123,7 @@ El orden del relato impide dos reducciones opuestas. Por un lado, la elección n
 
 La frase **(והיה גביר לאחיך)**, _vehayah gavir le'achekha_, «y sé señor de tus hermanos», muestra por qué la bendición no debe separarse de su contexto. **(גביר)**, _gavir_, puede expresar señor, poderoso o autoridad; en 27:29 su fuerza es una palabra de dominio dentro de la bendición, no una autorización general para que Yaakov trate a Esav sin justicia. «Autoridad espiritual» sería una equivalencia **pedagógica** y demasiado amplia. El texto posterior revela el costo de la rivalidad: separación, amenaza y huida. La elección bíblica no borra la necesidad de discernir el modo en que se busca la bendición.
 
-## La voz de la bendición no borra el temblor del padre — Bereshit 27:30–33
+## La voz de la bendición no borra el temblor del padre — Bereshit 27:30–33 #bereshit_27_30-33
 
 La escena posterior a la salida de Yaakov exige leer el desenlace, no solo la fórmula pronunciada. Cuando Esav llega con su comida, Yitsjaq pregunta quién es y **ויחרד יצחק חרדה גדלה עד מאד** (_vayeḥerad Yitsḥaq ḥaradah gedolah ad meod_), «Yitsjaq tembló con un temblor muy grande». **(חרד)**, _jarad_, significa temblar, estremecerse o temer; aquí expresa el impacto del descubrimiento y no una aprobación serena del engaño. «Confirmación espiritual» sería una equivalencia pedagógica que ocultaría la reacción narrativa.
 
@@ -141,7 +141,7 @@ El cierre en 28:1–4 es decisivo porque Yitsjaq ya no habla desde la sospecha d
 
 Toldot no enseña que la astucia humana produzca la promesa. La palabra llega antes del nacimiento, la primogenitura es despreciada por apetito, la preferencia de Yitsjaq se liga a la caza y la bendición se disputa dentro de una casa herida. El cierre, sin embargo, vuelve a la promesa de Avraham y muestra que יהוה puede sostener su propósito a través de decisiones humanas sin llamar bueno al engaño. La elección debe escucharse y obedecerse; no puede ser reemplazada por apariencia, favoritismo o transacción.
 
-## Reparación focal: los pozos muestran la promesa bajo presión — Bereshit 26:12-33
+## Reparación focal: los pozos muestran la promesa bajo presión — Bereshit 26:12-33 #bereshit_26_12-33
 
 La exposición de Eric no debe reducir la bendición a una prosperidad sin resistencia. El capítulo intermedio conserva el mismo orden que el resto de Toldot: יהוה bendice, los vecinos reaccionan, Yitsjaq se aparta y la promesa se vuelve habitable mediante límites. OE dice **ויגדל האיש וילך הלוך וגדל עד כי גדל מאד**, «y el hombre creció, y fue creciendo hasta que creció mucho» (#bereshit_26_12-33). **(גדל)**, _gadal_, significa crecer, hacerse grande o engrandecer; su repetición intensifica el aumento visible de Yitsjaq. «Éxito integral» es una equivalencia **pedagógica**, no el sentido único del verbo. La fuerza contextual es una prosperidad que provoca envidia, no una garantía de ausencia de conflicto.
 
@@ -174,7 +174,7 @@ El recorrido textual conserva tres momentos que la exposición de Eric mantiene 
 
 El OE de 27:33 conserva el temblor de Yitsjaq: **גם ברוך יהיה**, «también bendito será». El TTH localiza en el mismo cierre la transmisión de **«la bendición de Abraham»** (#bereshit_28_4). Así, la bendición no queda validada por la calidad moral de cada acto previo, pero tampoco absuelve el procedimiento. Esta distinción preserva la observación de la clase y protege el texto de dos reducciones: ni la astucia fabrica la promesa ni la promesa elimina responsabilidad.
 
-## El hambre no redefine la palabra — Bereshit 25:24-34
+## El hambre no redefine la palabra — Bereshit 25:24-34 #bereshit_25_24-34
 
 El nacimiento confirma que el oráculo no era una lectura retrospectiva de las maniobras familiares. El OE dice **והנה תומם בבטנה**, «y he aquí gemelos en su vientre», y luego presenta dos pueblos que se separan desde el interior de una misma casa. **(תאומים)**, _teomim_, significa gemelos; su fuerza contextual es una fraternidad real que no elimina la diferencia de destino anunciada. «Dos temperamentos» sería una síntesis pedagógica, no la equivalencia de la forma. La observación pública de Eric sobre el abundante que trabajará para el pequeño debe comenzar aquí: la inversión está declarada antes de que Esav llegue con hambre.
 

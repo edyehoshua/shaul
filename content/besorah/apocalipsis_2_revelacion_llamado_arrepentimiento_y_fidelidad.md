@@ -52,7 +52,7 @@ Esta nota reúne las clases del hermano Eric de Jesús Rodríguez Mendoza dedica
 | #revelation_2_12-17 | **ואל מלאך קהל פרגמוס כתב כה אמר אשר לו חרב פיפיות החדה** … **שובה** | La espada, el testimonio de Antipas y la tolerancia del error producen una demanda de arrepentimiento. |
 | #revelation_2_18-29 | **ואל מלאך קהל תיאטירא כתב כה אמר בן האלהים** … **אפס מה שיש לכם בו החזיקו עד באי** | El Hijo examina interiormente, reprende la permisividad y manda conservar lo recibido. |
 
-## Éfeso: obras, discernimiento y el amor abandonado (2:1-7)
+## Éfeso: obras, discernimiento y el amor abandonado (2:1-7) #revelation_2_1-7
 
 El mensaje comienza con el **מלאך** (*malakh*, mensajero) de la **קהל** (*qahal*, asamblea). Eric insiste en que «mensajero» no debe convertirse automáticamente en «ángel celestial»: el contexto puede apuntar al responsable que recibe y comunica la carta, aunque el texto no resuelve aquí toda la función del término. El remitente sostiene las siete estrellas y camina entre los candeleros; por eso la clase lee los atributos distribuidos en los mensajes como una unidad y no como retratos desconectados.
 
@@ -60,13 +60,13 @@ En 2:2-3 el texto enumera obras, trabajo y perseverancia, además de probar a qu
 
 Pero 2:4-5 cambia el diagnóstico: ha abandonado su primer amor y debe recordar, volver y hacer las primeras obras; si no, el candelero será removido. Eric relaciona esta pérdida con el abandono del estudio que, según su lectura, debilitó el discernimiento. El texto sí vincula amor, retorno y obras, pero no formula literalmente una teoría sobre un currículo perdido. **(μετανοεω)** (*metanoeō*, volver la mente y arrepentirse) es una explicación aproximada de la orden de «volver», no una equivalencia mecánica. La promesa del árbol de la vida en 2:7 queda condicionada a vencer y escuchar lo que el Rúaj dice a las asambleas.
 
-## Esmirna: aflicción, pobreza y fidelidad hasta la muerte (2:8-11)
+## Esmirna: aflicción, pobreza y fidelidad hasta la muerte (2:8-11) #revelation_2_8-11
 
 A Esmirna se presenta «el primero y el último, el que murió y vivió». Eric usa esta fórmula para afirmar la muerte y resurrección del Mesías y rechaza un razonamiento que reduzca la escena a un hombre ordinario; esa es una afirmación central de la clase, mientras que su desarrollo sobre la plenitud de la deidad requiere cotejo con el conjunto de la Besorah. El texto consuela a una comunidad que conoce tribulación y pobreza, pero declara: «eres rica».
 
 Eric observa que la pobreza se explica por la blasfemia de quienes dicen ser judíos y no lo son, y conecta el lenguaje con Romanos 2 y su discusión sobre la identidad. La nota no convierte esa lectura en una condena de un pueblo contemporáneo: Apocalipsis 2 habla de los adversarios concretos de la asamblea y la aplicación colectiva exige mucho más contexto. **(βλασφημια)** (*blasphēmia*) significa habla injuriosa o difamatoria; su fuerza aquí depende de la acusación del pasaje, no de una etiqueta étnica automática. La orden es no temer, ser fiel hasta la muerte y recibir la corona de la vida. **(πιστος)** (*pistos*, fiel) conserva la dimensión de lealtad perseverante; traducirlo sólo como asentimiento mental sería insuficiente.
 
-## Pérgamo: el trono del adversario y la responsabilidad de corregir (2:12-17)
+## Pérgamo: el trono del adversario y la responsabilidad de corregir (2:12-17) #revelation_2_12-17
 
 El mensaje a Pérgamo procede del que tiene la espada aguda de dos filos. Eric enlaza esta imagen con Yesha'yahu 49:2 y con la palabra que sale de la boca del Mesías; la conexión intertextual es razonable por la imagen de la espada, pero la identificación plena con cada detalle profético queda como inferencia. El texto conoce el lugar donde la asamblea «habita» donde está el trono de Satanás, y elogia que no negó el nombre ni la fidelidad aun durante la muerte de Antipas.
 
@@ -74,7 +74,7 @@ Eric explora el doble sentido de «habitar» y «sentarse»: no sólo ubicación
 
 La reprensión llega porque algunos sostienen la enseñanza de Balaam y de los nicolaítas. Eric destaca que el liderazgo no puede permitir que prácticas y enseñanzas importadas corrompan la comunidad. El texto ordena arrepentirse y amenaza con luchar «con la espada de mi boca»; no autoriza violencia humana contra supuestos desviados. La promesa del maná oculto, la piedra blanca y el nombre nuevo se conserva como promesa al vencedor, sin imponer una explicación histórica única.
 
-## Tiatira: obras crecientes, Jezabel y lo que debe conservarse (2:18-29)
+## Tiatira: obras crecientes, Jezabel y lo que debe conservarse (2:18-29) #revelation_2_18-29
 
 Tiatira recibe el título «Hijo de Elohim», ojos como llama de fuego y pies semejantes al bronce. Eric insiste en que el mensaje se dirige al mensajero, pero también compromete a la comunidad: el liderazgo debe examinar lo que se filtra y los miembros deben comprobar lo que oyen. Esa observación preserva la responsabilidad concreta de la clase; el texto, por su parte, habla a una asamblea y distingue entre los que toleran y el remanente que no conoce «las profundidades de Satanás».
 

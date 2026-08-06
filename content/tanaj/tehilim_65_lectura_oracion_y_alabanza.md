@@ -80,5 +80,5 @@ La lectura de Tehilim 65 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo cap 65» — <https://www.youtube.com/watch?v=G_FifOKWuR4> — source_id: `youtube:G_FifOKWuR4`.
+- «Tehilim/Himnos/Salmo cap 65» — <https://www.youtube.com/watch?v=G_FifOKWuR4> — `source_id`: `youtube:G_FifOKWuR4`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

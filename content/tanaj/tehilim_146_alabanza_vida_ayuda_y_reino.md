@@ -36,7 +36,7 @@ La clase pública recorre los diez versículos de Tehilim 146. Se siguen las uni
 | #tehilim_146_3-5  | **אל תבטחו בנדיבים בבן אדם שאין לו תשועה / תצא רוחו ישב לאדמתו ביום ההוא אבדו עשתנתיו / אשרי שאל יעקב בעזרו שברו על יהוה אלהיו**                                                                                                                            | El poder humano es limitado; feliz quien tiene por ayuda al Elohim de Jacob y pone en él su esperanza. |
 | #tehilim_146_6-10 | **עשה שמים וארץ את הים ואת כל אשר בם השמר אמת לעולם / עשה משפט לעשוקים נתן לחם לרעבים יהוה מתיר אסורים / יהוה פקח עורים יהוה זקף כפופים יהוה אהב צדיקים / יהוה שמר את גרים יתום ואלמנה יעודד ודרך רשעים יעות / ימלך יהוה לעולם אלהיך ציון לדר ודר הללו יה** | El Creador es fiel, hace justicia y cuida a vulnerables; su reinado no expira.                         |
 
-## 146:1-2: alabar con la vida y con lo que todavía queda
+## 146:1-2: alabar con la vida y con lo que todavía queda #tehilim_146_1-2
 
 “¡Aleluya! Alaba, alma mía, a יהוה” abre el salmo con un mandato dirigido al propio ser. Eric explica **הלל**, _halal_, no como una emoción muda sino como proclamar las maravillas de יהוה. El sentido normal de la raíz incluye alabar, celebrar o hacer resplandecer; “proclamar maravillas” es su fuerza contextual en este himno. Para **נפש**, _nefesh_, Eric usa la imagen de garganta o pescuezo, la parte corporal asociada con proferir palabras, y advierte que algunas traducciones ponen “alma”. El sentido normal es vida, persona, ser o alma según el contexto; garganta es una asociación semítica y pedagógica, no una equivalencia obligatoria.
 
@@ -44,7 +44,7 @@ El v. 2 repite la determinación: “Alabaré a יהוה en mi vida; cantaré a 
 
 La observación de Eric sobre “con mi todavía” también corrige la nostalgia por glorias pasadas. El verbo no promete que el orante conservará todas sus capacidades, sino que define el tiempo de la alabanza mientras la vida continúa. La alabanza, por tanto, no depende de esperar una situación ideal.
 
-## 146:3-5: no confiar en el voluntarioso ni en el hijo de Adam
+## 146:3-5: no confiar en el voluntarioso ni en el hijo de Adam #tehilim_146_3-5
 
 El v. 3 ordena: “No confíen en príncipes, en hijo de Adam que no tiene liberación”. Eric se detiene en **נדיבים**, _nedivim_, normalmente nobles, generosos o voluntariosos. En vez de confiar en una persona por su disposición cautivadora, enseña a someter sus consejos a la Escritura. La relación “el que actúa voluntariamente” es aproximada pero posible dentro del campo de la palabra; el texto no identifica a cada príncipe como malintencionado. La advertencia es contra convertir la voluntad humana en fundamento de seguridad.
 
@@ -54,7 +54,7 @@ El v. 4 explica por qué: “Sale su espíritu, vuelve a su suelo; en aquel día
 
 El v. 5 contrasta esa fragilidad: “Feliz aquel cuyo ayudador es el Elohim de Jacob, cuya esperanza está en יהוה su Elohim”. Eric diferencia **שבר**, _sever_, esperanza, de **תקוה**, _tikvah_, esperanza ligada a algo esperado o vuelto a ver. El sentido normal de _sever_ es esperanza o expectativa; la oposición técnica propuesta por Eric es pedagógica y no debe presentarse como una regla lexicográfica absoluta. El contexto sí establece que la esperanza está puesta en יהוה y no en lo que el ser humano puede ofrecer.
 
-## 146:6-10: fidelidad creadora, justicia y reino
+## 146:6-10: fidelidad creadora, justicia y reino #tehilim_146_6-10
 
 El v. 6 fundamenta la confianza: יהוה hizo cielos, tierra y mar, y guarda la verdad para siempre. Eric relaciona **אמת**, _emet_, con estabilidad sin sombra de variación y con la promesa que no cambia. El sentido normal es verdad, fidelidad o confiabilidad; la fuerza contextual de “guardar la verdad” permite hablar de constancia. La clase conecta esta fidelidad con la confesión de que יהוה sigue obrando y renovando la creación; el salmo afirma al Creador y su permanencia, mientras la doctrina de renovación diaria es una extensión canónica.
 
@@ -92,5 +92,5 @@ Tehilim 146 enseña a alabar con la vida presente, no con una versión idealizad
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 146» — <https://www.youtube.com/watch?v=gOO8dOyWHPg> — source_id: `youtube:gOO8dOyWHPg`.
+- Video: «Tehilim/Himnos/Salmo Cap 146» — <https://www.youtube.com/watch?v=gOO8dOyWHPg> — `source_id`: `youtube:gOO8dOyWHPg`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

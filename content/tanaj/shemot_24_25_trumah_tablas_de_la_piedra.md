@@ -94,5 +94,5 @@ Trumáh no presenta las tablas de piedra como una reliquia autónoma. La palabra
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Trumáh (2017) Las tablas de la piedra](https://www.youtube.com/watch?v=RGPTa4kWjbM) (source_id: `youtube:RGPTa4kWjbM`).
+- [Parashat Trumáh (2017) Las tablas de la piedra](https://www.youtube.com/watch?v=RGPTa4kWjbM) (`source_id`: `youtube:RGPTa4kWjbM`).
 - Esta nota conserva el foco público y lo contrasta con el texto local; no presenta una transcripción como cita literal.

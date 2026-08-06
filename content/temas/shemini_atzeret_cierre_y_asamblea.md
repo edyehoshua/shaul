@@ -84,9 +84,9 @@ El término **(חג)**, _chag_, significa fiesta o peregrinación festiva; en el
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Cierre Shminí 'Atzéret 5786-2025](https://www.youtube.com/watch?v=QRQYERK7GUs) — (source_id: `youtube:QRQYERK7GUs`).
-- [Hosha'na' Rabba' - Shmini 'Atzeret 5777 The destruction of satan forever](https://www.youtube.com/watch?v=lWyfHDURyic) — (source_id: `youtube:lWyfHDURyic`).
-- [Shmini 'Atzeret (2017) The private appointment with YHWH, the pious man](https://www.youtube.com/watch?v=dnmLSwdaa7k) — (source_id: `youtube:dnmLSwdaa7k`).
-- [Shmini 'Atzéret Continuación - El primer amor-](https://www.youtube.com/watch?v=FEuQ3220iwk) — (source_id: `youtube:FEuQ3220iwk`).
-- [Shminí ‘Atzéret 5783-2022](https://www.youtube.com/watch?v=MQxUG7ZfKGE) — (source_id: `youtube:MQxUG7ZfKGE`).
+- [Cierre Shminí 'Atzéret 5786-2025](https://www.youtube.com/watch?v=QRQYERK7GUs) — (`source_id`: `youtube:QRQYERK7GUs`).
+- [Hosha'na' Rabba' - Shmini 'Atzeret 5777 The destruction of satan forever](https://www.youtube.com/watch?v=lWyfHDURyic) — (`source_id`: `youtube:lWyfHDURyic`).
+- [Shmini 'Atzeret (2017) The private appointment with YHWH, the pious man](https://www.youtube.com/watch?v=dnmLSwdaa7k) — (`source_id`: `youtube:dnmLSwdaa7k`).
+- [Shmini 'Atzéret Continuación - El primer amor-](https://www.youtube.com/watch?v=FEuQ3220iwk) — (`source_id`: `youtube:FEuQ3220iwk`).
+- [Shminí ‘Atzéret 5783-2022](https://www.youtube.com/watch?v=MQxUG7ZfKGE) — (`source_id`: `youtube:MQxUG7ZfKGE`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

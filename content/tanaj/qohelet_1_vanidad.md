@@ -69,9 +69,9 @@ Qohélet 1 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet - Eclesiastés parte 1» — https://www.youtube.com/watch?v=BeQAO-iBr0o (`source_id: youtube:BeQAO-iBr0o`).
-- «Qohélet - Eclesiastés parte 2» — https://www.youtube.com/watch?v=MV63b73MhTU (`source_id: youtube:MV63b73MhTU`).
-- «Qohélet - Eclesiastés (parte 3) Cap 1» — https://www.youtube.com/watch?v=u4TRNWn6wCg (`source_id: youtube:u4TRNWn6wCg`).
-- «Qohélet-Eclesiastés (parte 4) Cap 1» — https://www.youtube.com/watch?v=vQCMMzrGwT4 (`source_id: youtube:vQCMMzrGwT4`).
+- «Qohélet - Eclesiastés parte 1» — https://www.youtube.com/watch?v=BeQAO-iBr0o (`source_id`: youtube:BeQAO-iBr0o`).
+- «Qohélet - Eclesiastés parte 2» — https://www.youtube.com/watch?v=MV63b73MhTU (`source_id`: youtube:MV63b73MhTU`).
+- «Qohélet - Eclesiastés (parte 3) Cap 1» — https://www.youtube.com/watch?v=u4TRNWn6wCg (`source_id`: youtube:u4TRNWn6wCg`).
+- «Qohélet-Eclesiastés (parte 4) Cap 1» — https://www.youtube.com/watch?v=vQCMMzrGwT4 (`source_id`: youtube:vQCMMzrGwT4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

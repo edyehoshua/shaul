@@ -46,7 +46,7 @@ La enseñanza «Tehilim/Hymnos/Salmo Chap 14» recorre el capítulo completo. La
 | #tehilim_14_6 | עצת עני תבישו כי יהוה מחסהו | «El consejo del afligido avergonzarán, por lo que יהוה es su refugio.» | Intento de avergonzar el consejo del ani; יהוה es refugio. |
 | #tehilim_14_7 | מי יתן מציון ישועת ישראל בשוב יהוה שבות עמו יגל יעקב ישמח ישראל | «¡Quién dará de Tzión la salvación de Israel! Cuando retorne יהוה el cautiverio de su pueblo, se regocijará Yaakov, se alegrará Israel.» | Anhelo de yeshuá desde Sión y restauración del pueblo. |
 
-## El naval y la negación de Elohim: Tehilim 14:1
+## El naval y la negación de Elohim: Tehilim 14:1 #tehilim_14_1
 
 Eric abre con el encabezado **למנצח לדוד** y recuerda su lectura habitual del menatseaj y del amado, sin forzar de inmediato cada línea a un único referente mesiánico. El poema entra de golpe: **אמר נבל בלבו אין אלהים**. Sobre **נבל**, *naval*, la clase reúne varios hilos: la raíz de desgaste o deterioro; la cercanía con **נבלה**, cadáver o acto de infamia; y la figura del insensato como opuesto de la sabiduría. El OE local confirma la forma **נבל**; la cadena etimológica completa y sus matices legales o cultuales requieren cotejo léxico externo, por lo que se conservan como explicación pedagógica cualificada.
 
@@ -56,19 +56,19 @@ Eric menciona la opinión de comentaristas que situarían el himno en relación 
 
 El verso continúa: **השחיתו התעיבו עלילה אין עשה טוב**. Eric detiene la lectura en **עלילה**, *alilah*, frente a **מעשה**, *maasé*: no solo hechos consumados, sino gestos o causas intencionales que producen efecto. **שחת** lo acerca a corrupción y fosa; **תעב** a lo abominable. El veredicto **אין עשה טוב** —«no hay quien haga bien»— lo lee con fuerza: el «bien» no es la autoevaluación cotidiana de obras útiles, sino lo que emana del que es bueno. Cita el episodio del joven rico («bueno es solo Elohim») y Romanos 3: «no hay justo, ni aun uno». El texto local sostiene la corrupción de la alilah y la ausencia de hacedor de bien; la teología del mérito y la redefinición filosófica del bien son elaboraciones de la clase que la nota mantiene distinguibles del verso.
 
-## La mirada desde los cielos y el veredicto colectivo: Tehilim 14:2–3
+## La mirada desde los cielos y el veredicto colectivo: Tehilim 14:2–3 #tehilim_14_2-3
 
 El v. 2 dice que יהוה **השקיף** desde los cielos sobre los **בני אדם** para ver si hay un **משכיל** que busque a Elohim. Eric subraya el matiz de **השקיף** como mirar hacia abajo, casi a través de celosías: una observación sutil. Busca un *maskil*, alguien con discernimiento que corresponda a Elohim. Observa que, si todo dependiera solo de los herederos de Adam, las promesas habrían desaparecido; יהוה se reserva un remanente —Noaj, Abraham, Moshe llamado desde fuera de Egipto— sobre el cual se revela. El verso confirma la búsqueda divina de un maskil; las tipologías del remanente y la analogía Moshe–Mesías son inferencias cualificadas de la clase.
 
 El v. 3 intensifica: **הכל סר יחדו נאלחו** —todos se desviaron, juntos se corrompieron/infectaron— y repite **אין עשה טוב אין גם אחד**. Eric lee **סר** como apartarse del camino y **נאלחו** como contaminación compartida. Conecta la ausencia de quien busque a Elohim con Bereshit 6 y con la mentira de que no hay rescate posible. El hebreo sostiene el veredicto total; la pandemia como metáfora contemporánea y el desarrollo sobre elección divina son aplicaciones pastorales y dogmáticas de la exposición, no datos del salmo.
 
-## Hacedores de iniquidad y devoración del pueblo: Tehilim 14:4
+## Hacedores de iniquidad y devoración del pueblo: Tehilim 14:4 #tehilim_14_4
 
 **הלא ידעו כל פעלי און** pregunta si no han conocido todos los hacedores de iniquidad. Eric glosa **פעלי און** como activistas de lo vano o de la anti-Torah: quienes invierten recursos en negar o socavar la Escritura. **אכלי עמי אכלו לחם** los presenta devorando al pueblo como quien come pan; **יהוה לא קראו** cierra con la falta de invocar, llamar o —en la amplitud de **קרא** que Eric recuerda— incluso leer a יהוה. El texto local sostiene hacedores de iniquidad, devoración del pueblo y ausencia de llamado; la casuística de internet y la identificación de Satanán como paradigma de quien conoce y no observa son extensiones de la clase.
 
 «Mi pueblo», en la exposición de Eric, son quienes han recibido Elohim y leen/invocan a יהוה, caracterizados como hacedores y no solo oidores. Esa definición eclesial-canónica ilumina su lectura de Jacobo y de la perseverancia bajo aflicción; no sustituye el sentido inmediato del salmo, donde el pueblo es objeto de depredación por parte de los *poalei aven*.
 
-## Terror, consejo del ani y salvación desde Sión: Tehilim 14:5–7
+## Terror, consejo del ani y salvación desde Sión: Tehilim 14:5–7 #tehilim_14_5-7
 
 El v. 5 sitúa un terror allí (**שם פחדו פחד**) porque **אלהים בדור צדיק**. Eric entiende **דור** no solo como generación genealógica sino, por la raíz de habitar, como los que residen con el justo; y lee al **צדיק** en plenitud como quien porta justicia y salvación, con proyección mesiánica. El verso afirma el terror y la presencia de Elohim con la generación del justo; la definición técnica de *dor* y la cristología del tsadiq quedan calificadas.
 

@@ -45,7 +45,7 @@ Se recorre el poema en sus diez versos y se contrastan las aplicaciones de Eric 
 | #tehilim_112_7-8  | משמועה רעה לא יירא נכון לבו בטח ביהוה; סמוך לבו לא יירא עד אשר יראה בצריו                                        | Corazón firme ante la noticia mala y el adversario      |
 | #tehilim_112_9-10 | פזר נתן לאביונים צדקתו עמדת לעד קרנו תרום בכבוד; רשע יראה וכעס שניו יחרק ונמס תאות רשעים תאבד                    | Generosidad pública frente a la frustración del malvado |
 
-## El feliz que se complace en los mandamientos: 112:1-3
+## El feliz que se complace en los mandamientos: 112:1-3 #tehilim_112_1-3
 
 El salmo comienza con **הללו יה** y **אשרי איש** (_ashrei ish_, «feliz el hombre»). Eric no presenta la felicidad como emoción momentánea, sino como la condición de quien teme a יהוה y se deleita «mucho» en sus mandamientos. **ירא** (_yare_, «temer, reverenciar») y **חפץ** (_jafets_, «desear, complacerse») describen una obediencia afectiva: no es obediencia interesada en obtener una recompensa.
 
@@ -55,7 +55,7 @@ El verso 2 habla de una descendencia poderosa en la tierra y de una generación 
 
 Eric también desarrolla una distinción entre **צדק** (_tsedek_, rectitud o deber ser) y **צדקה** (_tsedakah_, justicia activa, misericordia practicada). La distinción es pedagógicamente útil, pero ambos términos pertenecen al campo de la justicia y no deben tratarse como dos definiciones absolutamente separadas en cada aparición. Aquí, la justicia duradera se hace visible en lo que la persona comparte y administra.
 
-## Luz, gracia y administración responsable: 112:4-6
+## Luz, gracia y administración responsable: 112:4-6 #tehilim_112_4-6
 
 «Resplandece en la oscuridad una luz para los rectos». Eric conecta esta frase con Juan 1 y con la luz del Mesías, y subraya que la luz se recibe al escuchar sin prejuicio la voluntad de יהוה. El salmo atribuye la luz al ámbito de los rectos y describe al justo como **חנון ורחום וצדיק** (_janun verajum vetsadik_, «clemente, compasivo y justo»). La identificación directa con Yehoshua es una lectura mesiánica de Eric; la descripción textual sí exige que el discípulo refleje gracia, compasión y rectitud.
 
@@ -67,7 +67,7 @@ Eric usa ejemplos económicos concretos: no pedir crédito para gastos insosteni
 
 El verso 6 dice que el justo no será movido para siempre y que será recordado. La estabilidad no significa ausencia de crisis: significa que el carácter y la memoria pública no se derrumban con la variación económica. Eric conecta esta firmeza con «estar en la roca» y criar a los hijos dentro de una obediencia estable.
 
-## No temer la mala noticia: 112:7-10
+## No temer la mala noticia: 112:7-10 #tehilim_112_7-10
 
 El corazón del justo está firme: no teme la mala noticia, confía en יהוה y permanece sostenido hasta ver la aflicción de sus adversarios. Eric vincula esta sección con su crítica a la prosperidad: quien obedece solo esperando un premio abandona cuando el resultado no llega. La confianza del salmo no es una póliza contra la mala noticia; es una disposición a no ser gobernado por ella.
 

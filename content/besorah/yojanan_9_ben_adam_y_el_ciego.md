@@ -39,7 +39,6 @@ references:
   - "#tehilim_115_17"
 sources:
   - "https://www.youtube.com/live/-W2giXMqvUE"
-  - "private/sources/youtube_-W2giXMqvUE_transcript.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/tehilim.json"
@@ -222,6 +221,6 @@ La sanidad abre los ojos; la revelación exige una respuesta. En el relato, el c
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=-W2giXMqvUE> — source_id: `youtube:-W2giXMqvUE`.
-- Video: <https://www.youtube.com/watch?v=QZFKS6icUiU> — source_id: `youtube:QZFKS6icUiU`.
+- Video: <https://www.youtube.com/watch?v=-W2giXMqvUE> — `source_id`: `youtube:-W2giXMqvUE`.
+- Video: <https://www.youtube.com/watch?v=QZFKS6icUiU> — `source_id`: `youtube:QZFKS6icUiU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

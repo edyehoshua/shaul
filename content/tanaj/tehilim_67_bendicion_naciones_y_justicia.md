@@ -72,5 +72,5 @@ Tehilim 67 ora para que la gracia recibida se vuelva conocimiento de los caminos
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim /HImnos/Salmo cap 67-68](https://www.youtube.com/watch?v=rPdnT_4WoC0) — source_id: `youtube:rPdnT_4WoC0`.
+- Video: [Tehilim /HImnos/Salmo cap 67-68](https://www.youtube.com/watch?v=rPdnT_4WoC0) — `source_id`: `youtube:rPdnT_4WoC0`.
 - Esta nota organiza y contrasta una transcripción automática; no presenta la transcripción automática como cita literal.

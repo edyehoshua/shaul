@@ -60,11 +60,12 @@ references:
   - "#bamidbar_11_8"
 sources:
   - "https://www.youtube.com/watch?v=j4i_FKNQ_Ms"
-  - "private/sources/j4i_FKNQ_Ms.md"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/exodus/16.json"
   - "docs/scriptures/oe/json/numbers/11.json"
+source_ids:
+  - "youtube:j4i_FKNQ_Ms"
 ---
 
 # Tesis
@@ -148,7 +149,7 @@ La clase empieza con un detalle geográfico: #iojanan_6_1 habla del mar de Galil
 
 La observación no es decorativa. Sirve para mostrar que el lenguaje bíblico no siempre clasifica la realidad con criterios modernos. "Mar" puede funcionar para un gran cuerpo de agua sin que el texto esté interesado en distinguir técnicamente entre océano, mar, lago o depósito. La misma advertencia se aplica a lecturas polémicas del cruce del mar en Shemot: no conviene forzar una categoría castellana moderna para desarmar el relato.
 
-## Pésaj y la variante de Yojanan 6:4
+## Pésaj y la variante de Yojanan 6:4 #iojanan_6_4
 
 La clase menciona que #iojanan_6_4 está en discusión textual. El corpus TTH local anota: "Este vers. no aparece en un ms. antiguo." El expositor no considera suficiente ese dato para eliminar el versículo, y señala que la autoridad del manuscrito citado no le parece decisiva.
 
@@ -198,7 +199,7 @@ La clase subraya lo duro de esa respuesta. La gente atravesó el mar y buscó a 
 
 Por eso #iojanan_6_27 no habla solo de comida material. "Comida" representa aquello que llena, satisface o mueve al hombre. Yeshúa contrapone lo que perece con lo que permanece para vida olam.
 
-## Yojanan 6:27 y la sintaxis del sellado
+## Yojanan 6:27 y la sintaxis del sellado #iojanan_6_27
 
 El TTH local traduce #iojanan_6_27 así: "Trabajen, no la comida que perece, sino la comida que se establece para vida olam, la que el Ben Ha’Adam les dará, porque a Él selló el Padre, Elohim."
 
@@ -317,3 +318,9 @@ La multitud quiere pan, rey y obras; Yeshúa revela vida olam, obra de Elohim y 
 - [Yojanan 5: Bet Jesda, sanidad y Shabat](./yojanan_5_bet_jesda_shabat.md)
 - [Yojanan 1: meymrá, vida y tabernáculo](./yojanan_1.md)
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)
+
+## Créditos
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=j4i_FKNQ_Ms) (`source_id`: `youtube:j4i_FKNQ_Ms`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

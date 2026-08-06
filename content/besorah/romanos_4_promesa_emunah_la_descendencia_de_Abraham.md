@@ -45,13 +45,13 @@ Esta es la nota canónica de Romanos 4 e integra las partes 8–10 acreditadas a
 | #romanos_4_20-21 (Delitzsch) | **ולא חלק לבו בהבטחת האלהים כמחוסר אמונה כי אם התחזק באמונתו ויתן כבוד לאלהים׃ ונפשו יודעת מאד כי את אשר הבטיח גם יכל לעשותו׃**                                                        | La confianza mira la capacidad del que prometió.                                         |
 | #romanos_4_24-25 (TTH)       | «a los que se afirman por Él, quien levantó a Yeshúa nuestro Adón de los muertos, el que fue traspasado por nuestras transgresiones… y se levantó por causa de nuestra justificación». | Pablo aplica a los lectores la escritura sobre Abraham y la vincula con la resurrección. |
 
-## Romanos 4:1-8: contar justicia no es pagar salario
+## Romanos 4:1-8: contar justicia no es pagar salario #romanos_4_1-8
 
 Pablo plantea qué obtuvo Abraham «según la carne» y enseguida niega que su justificación ante Elohim pueda ser motivo de jactancia (#romanos_4_1-2). El contraste de #romanos_4_4-5 es deliberado: al trabajador se le cuenta salario como deuda; a quien confía en el que justifica al impío, la emunah le es contada por justicia. La clase que habla de gracia y fidelidad acierta al impedir que la respuesta humana sea convertida en crédito para reclamar ante Elohim. Pero el texto no deja la emunah sin contenido: la ancla en quien justifica.
 
 Pablo suma a David (#romanos_4_6-8) para hablar de perdón y de la no imputación de iniquidad. Así, «contar» justicia no describe una recompensa autónoma ni borra la realidad del pecado. El Salmo citado mantiene juntas la bienaventuranza, la transgresión perdonada y la iniciativa de יהוה. La gracia que la clase destaca debe leerse en esta trama de escritura, perdón y confianza.
 
-## Romanos 4:9-12: la señal viene después de la emunah
+## Romanos 4:9-12: la señal viene después de la emunah #romanos_4_9-12
 
 Aquí está el punto que la parte 9 pone en primer plano. Pablo pregunta cuándo se contó justicia a Abraham y responde: no estando circuncidado, sino incircunciso (#romanos_4_9-10). El dato no desacredita la circuncisión; #romanos_4_11 la llama señal y sello de la justicia de la emunah que Abraham ya tenía. El orden protege dos afirmaciones: la señal no produce retrospectivamente la condición que sella, y Abraham puede ser padre de creyentes incircuncisos y también de circuncisos que caminan en las huellas de esa emunah (#romanos_4_11-12).
 
@@ -61,13 +61,13 @@ La sintaxis de esta unidad conserva el orden que la clase enfatiza. **(λογί�
 
 El participio **(ὄντι)**, _onti_, significa «siendo» o «estando»; en la pregunta de #romanos_4_10 forma el contraste temporal entre estar circuncidado y estar incircunciso. «Antes» y «después» son, por tanto, una explicación aproximada de la secuencia, no una teoría cronológica añadida. **(σφραγίς)**, _sphragis_, significa sello, marca o confirmación; en #romanos_4_11 caracteriza la circuncisión como confirmación visible de una justicia que ya había sido contada. «Sello» es una traducción directa y su fuerza contextual es confirmatoria, no productora de la justicia.
 
-## Romanos 4:13-17: promesa firme para toda la descendencia
+## Romanos 4:13-17: promesa firme para toda la descendencia #romanos_4_13-17
 
 Pablo desplaza la discusión de la señal a la herencia. #romanos_4_13 declara que la promesa de ser heredero del mundo no vino por Torá, sino por justicia de emunah. En los versículos 14-16 razona que, si la herencia dependiera de quienes son de Torá como único grupo, la emunah quedaría vacía y la promesa anulada. Su conclusión es «por eso»: procede de emunah, conforme al favor, para que la promesa sea firme para toda la descendencia.
 
 La clase relaciona este movimiento con la fidelidad anterior de Elohim. El texto lo confirma al presentar la firmeza de la promesa como finalidad, y al citar que Abraham fue puesto por padre de muchas naciones (#romanos_4_17; #bereshit_17_5). La inclusión no descansa en una nueva jactancia étnica ni en la ausencia de respuesta: descansa en el Elohim que da vida a los muertos y llama lo que no es como si fuese.
 
-## Romanos 4:18-25: esperanza fortalecida y resurrección
+## Romanos 4:18-25: esperanza fortalecida y resurrección #romanos_4_18-25
 
 La parte 10 enfatiza el fortalecimiento en la fidelidad. Pablo narra que Abraham esperó contra esperanza, no ignoró su situación corporal ni la esterilidad de Sara, pero no vaciló ante la promesa; fue fortalecido en emunah, dio gloria a Elohim y quedó plenamente convencido de que Elohim podía cumplir lo prometido (#romanos_4_18-21). No se trata de optimismo que niega los hechos, sino de confianza dirigida a la capacidad del prometedor.
 

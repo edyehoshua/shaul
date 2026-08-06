@@ -119,8 +119,8 @@ La apertura de Yojanán 17 no abandona la conversación anterior: la encamina ha
 
 Esta nota organiza y contrasta transcripciones automáticas; no las trata como citas literales.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan Parte 63 - Cap 17» — <https://www.youtube.com/watch?v=D6aGd1j3ykk> — source_id: `youtube:D6aGd1j3ykk`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan/Juan (Parte 62) Cap 16-17» — <https://www.youtube.com/watch?v=Ex-emGJGcPc> — source_id: `youtube:Ex-emGJGcPc`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan /Juan (Parte 64) Cap 17» — <https://www.youtube.com/watch?v=o6rOivQHyU4> — source_id: `youtube:o6rOivQHyU4`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán /Juan (Parte 65) Cap 17» — <https://www.youtube.com/watch?v=lSvhJYfcr7I> — source_id: `youtube:lSvhJYfcr7I`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan (Parte 66) Cap 17» — <https://www.youtube.com/watch?v=nDaOsVpkAyU> — source_id: `youtube:nDaOsVpkAyU`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan Parte 63 - Cap 17» — <https://www.youtube.com/watch?v=D6aGd1j3ykk> — `source_id`: `youtube:D6aGd1j3ykk`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan/Juan (Parte 62) Cap 16-17» — <https://www.youtube.com/watch?v=Ex-emGJGcPc> — `source_id`: `youtube:Ex-emGJGcPc`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan /Juan (Parte 64) Cap 17» — <https://www.youtube.com/watch?v=o6rOivQHyU4> — `source_id`: `youtube:o6rOivQHyU4`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán /Juan (Parte 65) Cap 17» — <https://www.youtube.com/watch?v=lSvhJYfcr7I> — `source_id`: `youtube:lSvhJYfcr7I`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan (Parte 66) Cap 17» — <https://www.youtube.com/watch?v=nDaOsVpkAyU> — `source_id`: `youtube:nDaOsVpkAyU`.

@@ -39,19 +39,19 @@ La clase del hermano Eric de Jesús Rodríguez Mendoza introduce en la parte 13 
 | #revelation_4_6-7 | **ולפני הכסא ים זכוכית כעין הקרח... ארבע חיות מלאות עינים מלפניהם ומאחריהם׃**; **ודמות החיה הראשונה כאריה... והשנית כשור... השלישית כפני אדם... והרביעית כנשר מעופף׃** | El mar, las cuatro criaturas y sus figuras forman el siguiente círculo de la visión. |
 | #revelation_4_8-11 | **קדוש קדוש קדוש יהוה אלהים צבאות היה והוה ויבוא׃**; **ומדי־תת החיות כבוד והדר ותודה לישב על־הכסא... ונפלו עשרים וארבעה הזקנים...**; **לך נאה אדנינו ואלהינו לשאת כבוד והדר ועז כי אתה בראת הכל והכל ברצונך היו ונבראו׃** | Las criaturas y los ancianos responden al trono con una adoración cuyo fundamento expreso es la creación. |
 
-## De la puerta al trono: 4:1–2
+## De la puerta al trono: 4:1–2 #revelation_4_1-2
 
 Eric comienza por «después de estas cosas» (#revelation_4_1) y propone una lectura de la estructura: después de la visión inicial y de los mensajes a las comunidades, los capítulos 4–5 vuelven a concentrar la mirada antes de que los sellos desarrollen lo que sigue. Esa observación explica por qué no trata la puerta como una excursión aislada. El texto, en efecto, encadena la puerta, la voz y la promesa de mostrar; pero la división completa del libro que propone la clase debe seguirse comprobando en sus transiciones literarias.
 
 En #revelation_4_2 la visión ocurre «en el Espíritu» y aparece un trono ocupado. Eric insiste en que esto nombra una visión y no un desplazamiento físico de Juan al cielo. Esa es una lectura prudente del marco narrativo: el versículo presenta la experiencia visionaria y el trono, sin describir el mecanismo de un viaje corporal.
 
-## Círculos alrededor del trono: 4:3–7
+## Círculos alrededor del trono: 4:3–7 #revelation_4_3-7
 
 La exposición lee #revelation_4_3-5 como una escena ordenada alrededor del trono: el arco, los veinticuatro ancianos, los relámpagos, las voces y las siete lámparas. Su observación principal no es que estos detalles sean decoración, sino que preparan un lenguaje de gloria y gobierno. El texto permite seguir ese orden visual; identificar a los ancianos o convertir cada lámpara en un sistema completo requiere argumentos adicionales.
 
 Al llegar al mar como cristal y a las cuatro criaturas (#revelation_4_6-7), Eric las aproxima a Ezequiel 1 y llama a la escena «teología de la merkavá». También advierte contra imaginar seres extraños de forma literal: en la clase, los «ojos» funcionan como lenguaje de lo manifiesto o perceptible. Esta observación preserva su intento de leer imaginería profética; no elimina, sin embargo, la imagen misma ni autoriza una clave única para cada detalle. La comparación debe conservar que Apocalipsis usa su propia composición antes de que Ezequiel sea usado como trasfondo.
 
-## Santidad, creación y el umbral de Apocalipsis 5: 4:8–11
+## Santidad, creación y el umbral de Apocalipsis 5: 4:8–11 #revelation_4_8-11
 
 Las criaturas no se quedan en la descripción: #revelation_4_8 les da una aclamación continua de santidad. Después, en #revelation_4_9-11, la gloria dada al que se sienta en el trono provoca que los ancianos se postren y depongan sus coronas. El fundamento que la doxología sí declara es la creación: «tú creaste todas las cosas». La clase conecta esta adoración con el Cordero, el libro y la redención que desarrollará Apocalipsis 5; la secuencia 4–5 hace razonable estudiar ambos capítulos juntos, pero #revelation_4_11 no nombra todavía el rescate ni debe hacerse decir anticipadamente todos los desarrollos del capítulo siguiente.
 
@@ -90,7 +90,7 @@ El centro explícito de Apocalipsis 4 es el trono y la adoración del Creador. L
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Parte 13 La revelación de Yehoshúa' Hamashíaj (2017) La teología de la Merkaváh» — https://www.youtube.com/watch?v=mxcM4cJpjg0 (`source_id: youtube:mxcM4cJpjg0`).
-- «Parte 14: La revelación de Yehoshúa' Hamashíaj: La teología de la Merkaváh cont.» — https://www.youtube.com/watch?v=ut8Iq2y8lFQ (`source_id: youtube:ut8Iq2y8lFQ`).
+- «Parte 13 La revelación de Yehoshúa' Hamashíaj (2017) La teología de la Merkaváh» — https://www.youtube.com/watch?v=mxcM4cJpjg0 (`source_id`: youtube:mxcM4cJpjg0`).
+- «Parte 14: La revelación de Yehoshúa' Hamashíaj: La teología de la Merkaváh cont.» — https://www.youtube.com/watch?v=ut8Iq2y8lFQ (`source_id`: youtube:ut8Iq2y8lFQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

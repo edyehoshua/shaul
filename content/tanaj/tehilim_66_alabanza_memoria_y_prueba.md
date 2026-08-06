@@ -86,5 +86,5 @@ Tehilim 66 enseña a cantar con memoria: Elohim ha obrado, preserva en medio de 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Tehilim/Himnos/Salmo 66](https://www.youtube.com/watch?v=zexS57zT6TQ) — source_id: `youtube:zexS57zT6TQ`.
+- Video: [Tehilim/Himnos/Salmo 66](https://www.youtube.com/watch?v=zexS57zT6TQ) — `source_id`: `youtube:zexS57zT6TQ`.
 - Esta nota organiza y contrasta una transcripción automática; no presenta la transcripción automática como cita literal.

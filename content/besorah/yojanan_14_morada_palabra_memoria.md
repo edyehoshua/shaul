@@ -133,5 +133,5 @@ Yojanán 14:22-26 no separa la manifestación de Yehoshua de su palabra. Amar, g
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=WRILATGNg_U> — source_id: `youtube:WRILATGNg_U`.
+- Video: <https://www.youtube.com/watch?v=WRILATGNg_U> — `source_id`: `youtube:WRILATGNg_U`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

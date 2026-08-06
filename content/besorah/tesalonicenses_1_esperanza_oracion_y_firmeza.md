@@ -67,6 +67,6 @@ El capítulo 3 une cuidado pastoral, perseverancia y oración. La comunidad es s
 
 Esta nota organiza clases del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1 Thessalonians (part 6) Chapter 3» — https://www.youtube.com/watch?v=cCpRmRJM-FY (`source_id: youtube:cCpRmRJM-FY`).
+- «1 Thessalonians (part 6) Chapter 3» — https://www.youtube.com/watch?v=cCpRmRJM-FY (`source_id`: youtube:cCpRmRJM-FY`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

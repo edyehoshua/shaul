@@ -60,7 +60,7 @@ La clase lleva esta distinción a #romanim_10_9. Su conclusión es que la confes
 
 - Nota consolidada desde la transcripción automática del video enlazado en `sources`; organiza el argumento sin tratar cada intervención oral como cita exacta.
 - La clase continúa el estudio de #markos_2_10 y la pregunta por la identidad del Ben HaAdam, aunque su desarrollo nuevo es principalmente lexical y temático.
-- El texto bíblico se cotejó con los corpus locales OE, TTH y Delitzsch después de ejecutar `npm run scriptures:ensure`.
+- El texto bíblico se cotejó con los corpus locales OE, TTH y Delitzsch, que ya estaban disponibles en el repositorio.
 - Las categorías “El = nombre propio”, “Eloha = ser supremo” y “Elohim = función” se conservan como esquema pedagógico de la clase. El uso real de cada término es más amplio y debe verificarse pasaje por pasaje.
 - La lectura de #iyov_2_1 como levantamiento hostil en la tierra, el análisis griego de #romanim_10_9 y el excursus geográfico sobre Gan Eden quedan expresamente pendientes de cotejo.
 
@@ -136,7 +136,7 @@ Desde allí reconstruye la escena en la casa y la vida de Iyov: el acusador diri
 
 Esta lectura pertenece a la argumentación de la clase y no debe cerrarse solo con la semejanza verbal. El valor de la preposición **(על)** y del verbo **(יצב)** depende del contexto, y el relato no nombra explícitamente la casa de Iyov como ubicación de la asamblea. La propuesta requiere cotejo gramatical, literario y comparativo antes de usarse como conclusión firme.
 
-## “יהוה Yeshúa” en Romanim 10:9
+## “יהוה Yeshúa” en Romanim 10:9 #romanim_10_9
 
 La clase llega a su conclusión mesiánica mediante la redacción TTH de #romanim_10_9: “si confiesas con tu boca: ¡יהוה Yeshúa!”. La confesión se entiende como un nombre y un anuncio unidos: יהוה se dio a conocer en la tierra como salvación. Yeshúa no sería un dios menor ni una autoridad separada colocada debajo de יהוה, sino יהוה viniendo a salvar.
 

@@ -47,7 +47,7 @@ Las partes 8, 9 y 10 de la serie recorren el capítulo. La transcripción autom�
 | #iojanan_3_29-31 | TTH: «El que tiene la esposa es el esposo»; «El que de arriba viene, sobre todo es». | Iojanán explica su alegría y el origen del que anuncia. |
 | #iojanan_3_32-34 | TTH: «Todo el que recibe su testimonio ha certificado que יהוה es fidedigno». | Recibir el testimonio conduce a confesar la veracidad de Elohim. |
 
-## Nicodemo, agua y nacimiento de arriba (3:1-8)
+## Nicodemo, agua y nacimiento de arriba (3:1-8) #iojanan_3_1-8
 
 La parte 8 sitúa el encuentro después de las señales de Jerusalén y se detiene en que Nicodemo es fariseo. Eric propone leer su pregunta dentro de una formación religiosa seria, no como si fuera una ocurrencia absurda. Eso hace visible la fuerza del diálogo: la respuesta de Yehoshua no elogia un estatus ni ofrece una técnica de ascenso; declara una necesidad para ver y entrar al reino (#iojanan_3_3,5).
 
@@ -55,7 +55,7 @@ El término decisivo es **(ἄνωθεν)**, *anothen*: normalmente puede signif
 
 Eric también cuestiona convertir «agua» en una adición aislada o en un rito automático. El texto local sí conserva «de las aguas y del Rúaj» (#iojanan_3_5), y el versículo siguiente ordena la lectura al contrastar carne y Rúaj. **(πνεῦμα)**, *pneuma*, significa «viento, aliento, espíritu»; en 3:8 el mismo vocablo permite la imagen del viento que sopla y del nacido del Rúaj. Delitzsch usa **רוח**, *ruaj*, que también puede abarcar viento y aliento. La equivalencia *pneuma–ruaj* aquí es **aproximada y pedagógicamente útil**, porque las dos lenguas cubren ese campo, pero no autoriza a borrar la sintaxis griega ni a resolver de antemano cada detalle de agua.
 
-## El Ben Ha’Adam levantado y la señal del desierto (3:9-15)
+## El Ben Ha’Adam levantado y la señal del desierto (3:9-15) #iojanan_3_9-15
 
 La parte 9 comienza donde la conversación llega al «debe» de #iojanan_3_14. Eric observa que el título no debe rebajarse a una frase española plana. **(בן האדם)**, *ben ha-adam*, significa literalmente «hijo del ser humano / de Adán»; Delitzsch lo emplea para representar el griego **(ὁ υἱὸς τοῦ ἀνθρώπου)**, *ho huios tou anthropou*, «el Hijo del hombre». Es una **equivalencia de traducción aproximada**: el hebreo puede evocar *adam* con mayor inmediatez, mientras el griego del Evangelio tiene su propia construcción. En el contexto, el título concentra la necesidad de que Yehoshua sea levantado; no autoriza por sí solo todas las definiciones posteriores que una palabra pueda recibir.
 
@@ -63,7 +63,7 @@ La clase camina cuidadosamente por Bamidbar 21:4-9. Señala el cansancio del pue
 
 Eric desarrolla además una lectura simbólica: el brillo del cobre, la luz y el pecado consumido; también menciona asociaciones numéricas entre **נחש**, *najas*, «serpiente», y **משיח**, *mashiaj*, «ungido/Mesías». Son observaciones reales de la clase, pero son una **analogía pedagógica y una técnica interpretativa**, no una equivalencia léxica ni el sentido explícito de #bamidbar_21_8-9. Lo que el texto sí fija es la secuencia: el herido mira la señal y vive. Yojanán toma esa figura para declarar que el Ben Ha’Adam debe ser levantado «para que» haya vida olam (#iojanan_3_14-15).
 
-## Luz, juicio y verdad practicada (3:16-21)
+## Luz, juicio y verdad practicada (3:16-21) #iojanan_3_16-21
 
 El capítulo continúa, no termina, en el conocido 3:16. Eric lee **(κόσμος)**, *kosmos*, «mundo / orden», en continuidad con el prólogo: no se limita automáticamente al planeta ni se agota en individuos aislados. Esta es una **traducción aproximada** de *olam* en TTH, pues **עולם**, *olam*, se refiere sobre todo a duración, era o mundo según el contexto; no es una sustitución exacta de *kosmos*. La fuerza contextual de 3:16-17 es que el amor de Elohim se dirige al *kosmos* y que el envío tiene por finalidad salvarlo, no juzgarlo.
 
@@ -74,7 +74,7 @@ Eric no presenta 3:16 como una frase aislada de consuelo: lo enlaza con el contr
 
 La frase «el que hace la verdad» también retiene el énfasis práctico que Eric atribuye a la clase. **(ποιέω)**, _poieō_, significa hacer, producir o practicar; en 3:21 el contexto lo aproxima a una conducta que puede «ser manifestada» como hecha en Elohim. El vínculo pedagógico con **(עשה)**, _asah_, «hacer», es cercano como traducción, pero no convierte el hebreo en la forma original del versículo. La prueba textual no es una profesión verbal separada de la vida: el que hace la verdad viene a la Luz.
 
-## El amigo del esposo y el testimonio recibido (3:22-36)
+## El amigo del esposo y el testimonio recibido (3:22-36) #iojanan_3_22-36
 
 La parte 10 cambia al escenario de Judea y a la comparación entre el ministerio de Yehoshua y el de Iojanán. Eric conserva la pregunta de los discípulos —«todos van a él»— y no la trata como una rivalidad que Iojanán deba ganar. Su respuesta se mueve en orden: nada se recibe si no viene del cielo (v. 27); él no es el Mesías (v. 28); el esposo tiene a la esposa y el amigo escucha su voz (v. 29); por eso uno crece y el otro disminuye (v. 30).
 

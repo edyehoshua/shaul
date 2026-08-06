@@ -48,7 +48,7 @@ La fuente de Eric está acreditada por su título público y su URL. La transcri
 
 Este control conserva una sola unidad canónica para Marcos 5 y mantiene el identificador público único de la clase. La atribución queda limitada al foco anunciado por el video; la comparación léxica y la lectura de 5:21-43 se presentan como trabajo textual de la nota, no como una transcripción implícita.
 
-## La llegada a la región y el hombre de los sepulcros (5:1-20)
+## La llegada a la región y el hombre de los sepulcros (5:1-20) #markos_5_1-20
 
 El capítulo comienza al otro lado del mar, en la región de los gadarim. Al salir Yehoshua del bote, un hombre que vive entre sepulcros corre y se postra ante él. Marcos describe una opresión que ha roto los límites sociales y físicos: nadie logra sujetarlo con grilletes, grita día y noche y se hiere con piedras. No es una caricatura del enfermo ni una invitación a expulsar al diferente; el relato hace visible a una persona cuya vida ha quedado reducida a aislamiento, violencia contra sí mismo y dominio de espíritus impuros.
 
@@ -58,13 +58,13 @@ La manada de cerdos y su precipitación al mar muestran el desenlace visible del
 
 La región responde pidiendo que Yehoshua se vaya. El hombre restaurado pide acompañarlo, pero recibe otra comisión: volver a su casa y a su parentela para contar cómo יהוה se inclinó en favor de él. **(οἶκος)**, _oikos_, es casa, familia o ámbito doméstico; aquí la orden no es una retirada privada, sino un retorno al lugar donde su historia era conocida. Aunque la fuente pública de Eric solo permite confirmar el foco del endemoniado, el texto local sostiene que la liberación culmina en testimonio: el hombre proclama en las diez ciudades lo que Yehoshua hizo.
 
-## Iair y la mujer: una interrupción que también es salvación (5:21-34)
+## Iair y la mujer: una interrupción que también es salvación (5:21-34) #markos_5_21-34
 
 De regreso al otro lado, Iair, grande de la asamblea, cae a los pies de Yehoshua y pide por su hija. Mientras Yehoshua va con él, una mujer enferma desde hace doce años toca su vestido. Marcos no presenta su gesto como magia. Ella había sufrido con muchos médicos, había gastado sus bienes y, al oír de Yehoshua, se acerca confiando en que tocar sus vestiduras bastará para ser salvada. **(πίστις)**, _pistis_, puede expresar confianza, fidelidad o acto de creer; en 5:34 Yehoshua dice que su _pistis_ la ha salvado. La equivalencia con **(אמונה)**, _emunah_, es aproximada y pedagógica: ambas pueden hablar de confianza fiel, pero la forma griega debe leerse en su propia frase.
 
 La pregunta «¿Quién tocó mi vestido?» no nace de ignorancia narrativa simple: la mujer termina saliendo del anonimato, temblando, y cuenta toda la verdad. Yehoshua la llama «hija» y le dice que vaya en shalom. **(εἰρήνη)**, _eirēnē_, es paz, bienestar o reconciliación; TTH usa _shalom_, una conexión semítica útil pero no una identidad perfecta de todos los campos de uso. La sanidad queda acompañada por palabra pública y dignidad restaurada.
 
-## «No temas; sólo afírmate» y la casa de Iair (5:35-43)
+## «No temas; sólo afírmate» y la casa de Iair (5:35-43) #markos_5_35-43
 
 La noticia de la muerte parece cerrar el caso: «¿Por qué todavía fatigas al Maestro?». Yehoshua escucha y responde a Iair: «No temas, sólo afírmate». **(πίστευε)**, _pisteue_, es un imperativo presente de creer o confiar; la forma llama a una postura sostenida ante una noticia que contradice la esperanza. La casa está llena de llanto y burla. Yehoshua toma a los padres y a Kefa, Iaacob e Iojanán, entra donde está la muchacha y le dice: «¡Niña, levántate!». **(Ταλιθα κουμι)**, _Talitha koumi_, es una expresión aramea transliterada en el relato; su sentido contextual es un mandato afectuoso de levantarse, no una contraseña ritual.
 

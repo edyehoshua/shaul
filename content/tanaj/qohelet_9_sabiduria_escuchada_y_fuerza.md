@@ -87,8 +87,8 @@ Qohélet 9 no glorifica el poder visible: muestra que una sabiduría despreciada
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**:
 
-- «Qohélet - Eclesiastés (parte 21) Cap 9» — https://www.youtube.com/watch?v=CSRcqYc_Njs (`source_id: youtube:CSRcqYc_Njs`).
-- «Qohélet-Eclesiastés (parte 22) Cap 9» — https://www.youtube.com/watch?v=0luQisxipFw (`source_id: youtube:0luQisxipFw`).
-- «Qoheleth-Ecclesiastes (part 23) Chapter 9» — https://www.youtube.com/watch?v=L7XC7NI0rJI (`source_id: youtube:L7XC7NI0rJI`).
+- «Qohélet - Eclesiastés (parte 21) Cap 9» — https://www.youtube.com/watch?v=CSRcqYc_Njs (`source_id`: youtube:CSRcqYc_Njs`).
+- «Qohélet-Eclesiastés (parte 22) Cap 9» — https://www.youtube.com/watch?v=0luQisxipFw (`source_id`: youtube:0luQisxipFw`).
+- «Qoheleth-Ecclesiastes (part 23) Chapter 9» — https://www.youtube.com/watch?v=L7XC7NI0rJI (`source_id`: youtube:L7XC7NI0rJI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

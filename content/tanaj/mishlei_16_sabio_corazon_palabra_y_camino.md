@@ -45,19 +45,19 @@ Esta nota organiza la clase pública «PROVERBIOS | El SABIO de CORAZÓN | CAPÍ
 | #mishlei_16_20-23 | «El prudente acerca de un asunto hallará el bien…»; «Al sabio de corazón se le llamará entendido…»; «El corazón sabio hará prudente su boca…» | El discernimiento permite examinar asuntos y la sabiduría del corazón gobierna el habla. |
 | #mishlei_16_24-25 | «Panal de miel son los dichos de deleite, dulce a la garganta y sanidad al hueso.» / «Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte.» | La palabra agradable debe leerse junto con el peligro de confundir un camino aparente con el camino de vida. |
 
-## De la sabiduría recibida al discernimiento producido (16:16, 20-21)
+## De la sabiduría recibida al discernimiento producido (16:16, 20-21) #mishlei_16_16
 
 La clase comienza con la pregunta por qué el texto coloca la sabiduría por encima del oro y el discernimiento por encima de la plata. La respuesta no es despreciar los bienes materiales, sino ubicar el aprendizaje de יהוה en un nivel que no puede comprarse. Eric distingue entre recibir instrucción y producir entendimiento: la **חכמה**, _jokmá_, aparece en la exposición como sabiduría que llega desde fuera por la palabra, la disciplina y la enseñanza; la **בינה**, _biná_, como discernimiento que se forma dentro hasta que la persona sabe cómo obrar sin necesitar una orden repetida para cada decisión.
 
 Esta explicación es una paráfrasis pedagógica del movimiento del capítulo. El texto local sí une adquirir sabiduría con adquirir discernimiento y llama «entendido» al sabio de corazón. No afirma, en este versículo aislado, una teoría técnica de etapas psicológicas. La aplicación resulta útil porque impide reducir la emuná a repetir datos: aprender debe volver prudente la conducta. A la vez, la autonomía del entendido no significa independencia de יהוה ni desprecio del consejo; significa que la instrucción ha penetrado lo suficiente para gobernar el juicio.
 
-## Guardar el ser y vigilar el camino (16:17)
+## Guardar el ser y vigilar el camino (16:17) #mishlei_16_17
 
 Mishlei 16:17 describe la «carretera de los rectos» como un camino que se aparta del mal. Eric observa que el texto utiliza dos verbos que suelen traducirse de manera semejante: **שמר**, _shamar_, guardar o mantener bajo cuidado, y **נצר**, _natsar_, vigilar o custodiar. La clase los presenta como dos dimensiones complementarias: guardar conserva la vida bajo protección y vigilar mantiene los ojos atentos a la dirección del camino. La relación es plausible como explicación pastoral, pero debe cotejarse en cada contexto; no todo uso de ambos verbos produce la misma diferencia.
 
 La advertencia es concreta. No basta con haber recibido una enseñanza correcta si la persona deja de observar sus decisiones, pensamientos y obras. El pasaje tampoco convierte la vigilancia en ansiedad autosuficiente: la carretera está definida por apartarse del mal, no por inventar señales privadas. La obediencia debe permanecer vinculada a la palabra de יהוה y a un discernimiento sobrio.
 
-## Altivez, humildad y la calidad del consejo (16:18-24)
+## Altivez, humildad y la calidad del consejo (16:18-24) #mishlei_16_18-24
 
 «Antes de la ruptura está la altivez» funciona como diagnóstico del fracaso. La clase conecta **גאון**, _gaón_, altivez o soberbia, con la ruptura del espíritu y con el daño que los líderes orgullosos pueden producir al pueblo. Esa aplicación comunitaria armoniza con el contraste del versículo 19: es mejor humillarse con los afligidos que compartir botín con los altivos. Sin embargo, la nota no convierte cada conexión histórica de la clase en el significado exclusivo del proverbio. El texto llama a escoger compañía y postura espiritual, y deja que la aplicación alcance tanto al líder como al oyente.
 

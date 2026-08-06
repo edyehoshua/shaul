@@ -50,19 +50,19 @@ La nota organiza la clase pública «CARTA A LOS GÁLATAS | La ESCUCHA de la EMU
 | #galatians_3_7-9 | **דְּעוּ אֵפוֹא כִּי־בְנֵי הָאֱמוּנָה בְּנֵי אַבְרָהָם הֵמָּה ... יִתְבָּרֲכוּ בְּנֵי הָאֱמוּנָה עִם־אַבְרָהָם הַמַּאֲמִין** | La pertenencia a Abraham se describe en relación con la emunah, y la promesa incluye a las naciones. |
 | #galatians_3_10-12 | **כִּי בְנֵי מַעֲשֵׂי הַתּוֹרָה עֲלֵיהֶם הַקְּלָלָה ... צַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה ... אֲשֶׁר־יַעֲשֶׂה אׂתָם הָאָדָם וָחַי בָּהֶם** | Shaul contrasta la base meritoria con la vida por emunah y mantiene la realidad de hacer la Torah. |
 
-## La pregunta que revela el fundamento: 3:1-5
+## La pregunta que revela el fundamento: 3:1-5 #galatians_3_1-5
 
 La clase comienza subrayando la exclamación de Shaul: los gálatas han sido desviados después de haber tenido ante sus ojos al Mesías crucificado. La exposición relaciona «fascinar» o «hechizar» con la pérdida del camino recibido y sitúa el problema en un evangelio que pone costumbres, ritos o méritos humanos por encima de la promesa. Ese énfasis tiene apoyo directo en la secuencia de preguntas de 3:2 y 3:5: ¿recibieron el Ruaj por obras de la Torah o por la escucha de la emunah? ¿Elohim obra en ellos por mérito propio o por esa escucha?
 
 El expositor insiste en que la pregunta no autoriza dos extremos: ni una religión de obras que pretende comprar la salvación, ni una confianza que use la promesa para abandonar toda obediencia. La frase de la clase —«guardamos la Torah porque somos salvos, no para ser salvos»— es una síntesis atribuible. El texto de 3:3 sí establece el orden polémico: comenzar en el Ruaj y pretender consumarse en la carne es una incoherencia. La aplicación a toda práctica contemporánea requiere prudencia, pero el principio textual es claro: el don de Elohim no se convierte en salario de la persona.
 
-## Abraham y la bendición que alcanza a las naciones: 3:6-9
+## Abraham y la bendición que alcanza a las naciones: 3:6-9 #galatians_3_6-9
 
 En 3:6 Shaul cita a Abraham y en 3:8 presenta la Escritura anunciando de antemano que las naciones serían justificadas por la emunah. Eric lee esta secuencia como una obra divina: Abraham no es presentado como alguien que acumuló méritos para obligar a Elohim, sino como receptor de la fidelidad. La clase extiende la observación a los oyentes: ser «hijo de Abraham» no se decide solo por linaje ni por una exhibición ritual, sino por recibir la emunah y vivir desde ella.
 
 El texto permite afirmar que la bendición está vinculada con Abraham, la justificación de las naciones y la emunah; no permite convertir automáticamente «bendición» en una definición etimológica de adopción o injerto. La exposición describe la bendición como incorporación al pueblo y como recepción de vida; esa es una lectura teológica atribuible, no una glosa única de cada aparición hebrea de ברכה. La línea canónica, sin embargo, permanece firme: el evangelio anunciado a Abraham no es un añadido tardío, pues Gálatas 3 lo presenta como anticipación de la obra de Elohim entre las naciones.
 
-## Obras, exclusión y vida: 3:10-12
+## Obras, exclusión y vida: 3:10-12 #galatians_3_10-12
 
 La clase lee «los de las obras de la Torah» como quienes convierten la obediencia en mérito salvador. En contraste, Devarim 27:26 recuerda que la palabra de la Torah debe mantenerse y hacerse; por eso la exposición no concluye que hacer sea innecesario. El punto que conserva la nota es más estrecho: hacer sin recibir la promesa no puede producir por sí mismo la justificación que Shaul está discutiendo. Gálatas 3:11 afirma que en la Torah nadie es justificado delante de Elohim y cita que el justo vivirá por su emunah; 3:12, a su vez, mantiene el lenguaje de hacer y vivir en las cosas ordenadas.
 

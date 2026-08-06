@@ -204,7 +204,7 @@ El control final mantiene juntas las dos aplicaciones que podrían separarse: la
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los colosenses (parte 16) Cap 4A](https://www.youtube.com/watch?v=y6S6hx-xLN0) (source_id: `youtube:y6S6hx-xLN0`).
-- [A los colosenses (parte 17) cap 4B](https://www.youtube.com/watch?v=esVDcTNDOr8) (source_id: `youtube:esVDcTNDOr8`).
-- [A los Colsenses (parte 18) cap 4C](https://www.youtube.com/watch?v=YAY5xD_yFDU) (source_id: `youtube:YAY5xD_yFDU`).
+- [A los colosenses (parte 16) Cap 4A](https://www.youtube.com/watch?v=y6S6hx-xLN0) (`source_id`: `youtube:y6S6hx-xLN0`).
+- [A los colosenses (parte 17) cap 4B](https://www.youtube.com/watch?v=esVDcTNDOr8) (`source_id`: `youtube:esVDcTNDOr8`).
+- [A los Colsenses (parte 18) cap 4C](https://www.youtube.com/watch?v=YAY5xD_yFDU) (`source_id`: `youtube:YAY5xD_yFDU`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

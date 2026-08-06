@@ -51,7 +51,7 @@ Esta nota canónica integra las partes 18–21 de la serie del hermano Eric de J
 | #romanos_8_28-30 | **והנה ידענו כי אהבי אלהים הקוראים בעצתו הכל יעזר לטוב להם׃ כי את אשר ידעם מקדם אתם גם־יעד להיות דמים לצלם בנו למען יהיה הוא הבכור בתוך אחים רבים׃ ואת אשר־יעד מקדם אתם גם־קרא ואת־אשר קרא אתם גם־הצדיק ואת אשר הצדיק אתם גם פאר׃**                                                                                              | El «bien» está enmarcado por la conformidad con el Hijo, no por una definición aislada de bienestar.     |
 | #romanos_8_31-39 | **ועתה מה־נאמר על־זאת אם־האלהים לנו מי יריב אתנו׃ ומי־הוא יאשימם הן המשיח אשר מת ואשר נעור מעם המתים הוא מימין האלהים והוא יפגיע בעדנו׃ לא הרום ולא העמק ולא כל־בריה יוכלו להפרידנו מאהבת האלהים אשר היא במשיח ישוע אדנינו׃**                                                                                                    | La seguridad final apela a la entrega, resurrección e intercesión del Mesías.                            |
 
-## 8:1-11 — El Rúaj de Elohim y una vida no gobernada por la carne
+## 8:1-11 — El Rúaj de Elohim y una vida no gobernada por la carne #romanos_8_1-11
 
 El capítulo responde al grito de #romanos_7_24-25 con «ahora»: no hay condenación para quienes están en el Mesías Yehoshua (#romanos_8_1). Pero el pasaje no se detiene en una declaración jurídica aislada. La ley del Rúaj de vida libera de la ley del pecado y de la muerte, y #romanos_8_4 dirige la mirada a una conducta «según el Rúaj», donde se cumple la exigencia justa de la Torá.
 
@@ -61,25 +61,25 @@ Entre #romanos_8_5-8 y #romanos_8_9-11, Pablo pasa de la orientación interior a
 
 La observación atribuible de Eric sobre distinguir el Rúaj divino del espíritu humano recibe así apoyo **cualificado**. **(θάνατος)**, _thanatos_, significa muerte; **(ζωή)**, _zōē_, significa vida; y **(εἰρήνη)**, _eirēnē_, significa paz o bienestar. Sus sentidos ordinarios son **directos**, pero la fuerza contextual de 8:6 los organiza como dominios relacionales: la disposición de la carne conduce a muerte, y la del Rúaj a vida y paz. La conexión pedagógica con **רוּחַ**, _ruaj_, y con **חַיִּים**, _jayyim_, es **aproximada**, no una identidad automática entre los campos hebreo y griego.
 
-## 8:12-17 — Hijos, clamor y herencia
+## 8:12-17 — Hijos, clamor y herencia #romanos_8_12-17
 
 Luego Pablo llama a no vivir como deudores de la carne (#romanos_8_12-13) y describe a quienes son guiados por el Rúaj como hijos de Elohim. La sesión 19, titulada «Dios nos anhela celosamente», orienta la atención hacia la pertenencia exclusiva a Elohim. En este párrafo esa pertenencia se expresa textualmente como liberación del temor servil y recepción de «espíritu de adopción», por el cual se clama «Abba, Padre» (#romanos_8_15); no hace falta importar otra imagen para reconocer la fuerza relacional del pasaje.
 
 El testimonio del Rúaj «con nuestro espíritu» en #romanos_8_16 no disuelve ambos en una misma realidad. El genitivo y la preposición presentan testimonio compartido, mientras el versículo anterior nombra el Rúaj recibido por el cual se clama. Ser hijos también es ser herederos con el Mesías: el sufrimiento con él y la futura glorificación con él forman parte de una misma oración (#romanos_8_17), de modo que la filiación no es una promesa de comodidad inmediata.
 
-## 8:18-27 — Gemido, espera e intercesión
+## 8:18-27 — Gemido, espera e intercesión #romanos_8_18-27
 
 #romanos_8_18 abre la comparación entre los sufrimientos presentes y la gloria futura. Pablo avanza en orden: la creación espera y gime (#romanos_8_19-22); también gimen quienes tienen las primicias del Rúaj mientras esperan la redención del cuerpo (#romanos_8_23-25); finalmente, el Rúaj ayuda en la debilidad e intercede conforme a Elohim (#romanos_8_26-27). La esperanza, por tanto, no es evasión de la aflicción, sino espera perseverante de lo que aún no se ve.
 
 El énfasis público de la parte 19 sobre el anhelo de Elohim puede servir para recordar que la pertenencia a Elohim no es impersonal. Sin embargo, Romanos 8 fundamenta la esperanza de este tramo en la adopción futura, la redención corporal y la intercesión, no en una frase suelta sobre celos divinos. Cualquier enlace con otros pasajes que empleen lenguaje de celo necesita sostenerse mediante contexto y fuentes, no por semejanza temática solamente.
 
-## 8:28-30 — El bien y la conformidad con el Hijo
+## 8:28-30 — El bien y la conformidad con el Hijo #romanos_8_28-30
 
 La parte 20 pregunta «¿conocidos de antemano? ¿predestinados?» y, según el resumen ya conservado de la clase, examina una variante textual y el verbo relacionado con «obrar juntamente». La observación es útil porque obliga a no usar una traducción española como único árbitro. El texto local lee que «todo ayudará para bien» a los que aman a Elohim y son llamados conforme a su propósito; enseguida define el horizonte mediante la conformidad con la imagen de su Hijo (#romanos_8_28-29).
 
 La cadena de conocer, destinar, llamar, justificar y glorificar (#romanos_8_29-30) debe leerse como la continuación de ese propósito y no como un eslogan que borre el amor a Elohim, el sufrimiento o la exhortación del capítulo. La correspondencia entre _synergei_ y «obra juntamente» es una traducción contextual aproximada; no prueba por sí misma una teoría completa de causalidad, elección individual o libertad humana. Estas preguntas merecen cotejo del griego y de la variante mencionada por la clase.
 
-## 8:31-39 — El amor de Elohim y la seguridad de sus hijos
+## 8:31-39 — El amor de Elohim y la seguridad de sus hijos #romanos_8_31-39
 
 La parte 21 relaciona el amor de Elohim con sus hijos. El cierre de Romanos ofrece una base concreta para ese vínculo: Elohim no escatimó a su propio Hijo (#romanos_8_32), el Mesías murió, resucitó e intercede (#romanos_8_34), y ninguna aflicción ni poder creado puede separar de ese amor en el Mesías Yehoshua (#romanos_8_35-39). La pregunta «¿quién acusará?» no niega el sufrimiento ya reconocido; responde a la acusación con la acción de Elohim y la intercesión del Mesías.
 
@@ -171,8 +171,8 @@ Romanos 8 recorre una esperanza completa: el Rúaj libera para una vida orientad
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (parte 18): El "espíritu" de Dios y el "espíritu" del hombre](https://www.youtube.com/watch?v=9RtvJSFxMyA) (source_id: `youtube:9RtvJSFxMyA`).
-- [La carta a los romanos (parte 19): Dios nos anhela celosamente](https://www.youtube.com/watch?v=zfAGyn3rUH4) (source_id: `youtube:zfAGyn3rUH4`).
-- [The Letter to the Romans (Part 20): Foreknown? Predestined?](https://www.youtube.com/watch?v=d1CMdv_KMLY) (source_id: `youtube:d1CMdv_KMLY`).
-- [La carta a los romanos (parte 21): El amor de Dios y los hijos de Dios](https://www.youtube.com/watch?v=aOyF_rz6WX8) (source_id: `youtube:aOyF_rz6WX8`).
+- [La carta a los romanos (parte 18): El "espíritu" de Dios y el "espíritu" del hombre](https://www.youtube.com/watch?v=9RtvJSFxMyA) (`source_id`: `youtube:9RtvJSFxMyA`).
+- [La carta a los romanos (parte 19): Dios nos anhela celosamente](https://www.youtube.com/watch?v=zfAGyn3rUH4) (`source_id`: `youtube:zfAGyn3rUH4`).
+- [The Letter to the Romans (Part 20): Foreknown? Predestined?](https://www.youtube.com/watch?v=d1CMdv_KMLY) (`source_id`: `youtube:d1CMdv_KMLY`).
+- [La carta a los romanos (parte 21): El amor de Dios y los hijos de Dios](https://www.youtube.com/watch?v=aOyF_rz6WX8) (`source_id`: `youtube:aOyF_rz6WX8`).
 - Esta nota organiza y contrasta la exposición disponible; no presenta la transcripción automática como cita literal.

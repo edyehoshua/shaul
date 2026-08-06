@@ -34,11 +34,11 @@ Se sigue el salmo en orden textual y se explican las observaciones concretas de 
 
 ## Ruta pública de la exposición
 
-La clase vuelve varias veces a la diferencia entre una cueva natural y el refugio que יהוה ofrece: alrededor de **7:23** Eric describe la caverna como protección física, y cerca de **16:54** enlaza refugio y rescate. Estos puntos temporales son rutas públicas de la misma clase —no citas literales— y ayudan a ubicar la observación que luego se contrasta con 31:1-9. Video: <https://www.youtube.com/watch?v=Nm5fsBe_NSA&t=443s> — source_id: `youtube:Nm5fsBe_NSA`.
+La clase vuelve varias veces a la diferencia entre una cueva natural y el refugio que יהוה ofrece: alrededor de **7:23** Eric describe la caverna como protección física, y cerca de **16:54** enlaza refugio y rescate. Estos puntos temporales son rutas públicas de la misma clase —no citas literales— y ayudan a ubicar la observación que luego se contrasta con 31:1-9. Video: <https://www.youtube.com/watch?v=Nm5fsBe_NSA&t=443s> — `source_id`: `youtube:Nm5fsBe_NSA`.
 
 La comparación local confirma la cadena de imágenes. OE dice **בך יהוה חסיתי ... היה לי לצור מעוז לבית מצודות** y TTH: «En Ti, יהוה, me refugié ... sé para mí una roca de fortaleza, una casa de fortalezas». En 31:6 OE conserva **בידך אפקיד רוחי פדיתה אותי יהוה אל אמת** y TTH: «En tu mano encomiendo mi espíritu; Tú me redimiste, יהוה, El de la verdad». Son textos locales reales para la exposición: **(רוח)**, _ruaj_, tiene el sentido normal de viento, aliento, espíritu o ánimo; aquí designa la vida confiada, y la conexión con Lucas 23:46 es canónica y aproximada.
 
-## Refugio, justicia y la cueva que no salva por sí sola — Tehilim 31:1-5
+## Refugio, justicia y la cueva que no salva por sí sola — Tehilim 31:1-5 #tehilim_31_1-5
 
 El encabezado dice: **למנצח מזמור לדוד**, «para el director, cántico de David» (#tehilim_31_1). Eric comienza recordando que el personaje histórico puede hablar de David, pero que la exposición emplea una convención: detrás de David aparece el amado, y lo literal pasa a una realidad espiritual que no queda en símbolo abstracto. Esa lectura no elimina el encabezado; primero reconoce la escena histórica y después pregunta qué realidad mayor expresa.
 
@@ -46,7 +46,7 @@ El orante declara: **בך יהוה חסיתי**, «en ti, יהוה, me refugié�
 
 Los vv. 3-5 acumulan roca, fortaleza, casa de fortalezas, guía y red. Eric imagina el desierto y las cuevas de Yehudáh: David podía estar físicamente oculto en una caverna, pero una roca natural no garantizaba que Shaul no lo encontrara. El texto local confirma **צור**, roca, **מעוז**, fortaleza, y **מצודות**, plazas fuertes; la explicación geográfica ilumina la imagen sin convertir la biografía reconstruida en certeza absoluta. La petición «sácame de la red» hace visible el punto de Eric: estar refugiado no significa que ya no haga falta rescate.
 
-## Entregar el espíritu y salir de la protección — Tehilim 31:6-9
+## Entregar el espíritu y salir de la protección — Tehilim 31:6-9 #tehilim_31_6-9
 
 «En tu mano encomiendo mi espíritu» (#tehilim_31_6) expresa entrega confiada, no fatalismo. Eric conecta la frase con el amado y con la entrega consciente de la vida, pero el sentido directo es que el orante deposita su espíritu en la mano de יהוה y recuerda que fue redimido. **רוח** (\_ruaj\_) puede significar aliento, espíritu o viento; aquí designa la vida interior que el orante confía a יהוה. Su relación con la entrega mesiánica es intertextual, no una traducción distinta.
 
@@ -54,7 +54,7 @@ En el v. 7 el salmista contrasta a quienes guardan vanidades vacías con él, qu
 
 Los vv. 8-9 dicen que יהוה vio la aflicción, conoció las angustias de la vida, no entregó al orante en mano del enemigo y puso sus pies en espacio amplio. Eric insiste en que la liberación permite salir hacia fuera con libertad y tranquilidad: no se abandona el refugio para quedar sin cuidado, sino para continuar bajo protección. **מרחב** (_merchav_) es espacio amplio; su fuerza contextual es lo opuesto al encierro del asedio.
 
-## Aflicción pública, tiempos en la mano y rostro iluminado — Tehilim 31:10-17
+## Aflicción pública, tiempos en la mano y rostro iluminado — Tehilim 31:10-17 #tehilim_31_10-17
 
 La sección central hace visible el costo del asedio: ojos, vida, vientre, años y fuerza se consumen; el orante se vuelve oprobio para sus vecinos y temor para sus conocidos, como muerto olvidado y vaso perdido (#tehilim_31_10-13). Eric no reduce la oración a una experiencia triunfal. La justicia que invoca se dirige a una situación concreta de persecución y pide que la vergüenza no se prolongue indefinidamente.
 
@@ -62,7 +62,7 @@ En 31:14-16 la respuesta de confianza vuelve a aparecer: «en ti, יהוה, conf
 
 El v. 17 formula la petición completa: **האירה פניך על עבדך הושיעני בחסדך**, «haz resplandecer tu rostro sobre tu siervo; sálvame en tu bondad leal». Eric relaciona la luz del rostro con la revelación de la justicia divina y con el amado; el salmo pide directamente favor y salvación. **האירה** (_ha'irah_) viene de **אור**, «iluminar o hacer brillar», y aquí expresa favor manifiesto, no una técnica para producir una experiencia visual. **חסד** (_jesed_) significa bondad leal, misericordia o fidelidad relacional. Decir «justicia por gracia» resume la aplicación de Eric, no reemplaza la forma concreta en que el poema suplica por חסד. La correspondencia entre «luz del rostro» y revelación es **pedagógica**, mientras la petición de salvar por חסד es **textual y exacta**.
 
-## Verdad contra la calumnia y bien escondido para los que esperan — Tehilim 31:18-23
+## Verdad contra la calumnia y bien escondido para los que esperan — Tehilim 31:18-23 #tehilim_31_18-23
 
 Los vv. 18-19 piden que callen los labios mentirosos que hablan con orgullo y desprecio contra el justo. Eric contrapone la honra pisoteada por tiempo indefinido con la acción judicial de יהוה. La oración no es venganza autónoma: pide que la falsedad no tenga la última palabra.
 
@@ -70,7 +70,7 @@ El v. 20 exclama: «¡Cuán grande es tu bondad, que has guardado para los que t
 
 El salmista confiesa que en su apresuramiento pensó estar cortado de delante de los ojos de יהוה, pero יהוה escuchó la voz de sus ruegos (#tehilim_31_23). Eric usa este giro para mostrar que la fe puede atravesar una percepción equivocada sin quedar definida por ella. La experiencia de sentirse abandonado no cancela la respuesta de יהוה.
 
-## Amor, firmeza y corazón fortalecido — Tehilim 31:24-25
+## Amor, firmeza y corazón fortalecido — Tehilim 31:24-25 #tehilim_31_24-25
 
 El cierre manda amar a יהוה, porque él guarda a los fieles y retribuye al que actúa con soberbia (#tehilim_31_24). Después ordena: **חזקו ויאמץ לבבכם כל המיחלים ליהוה**, «fortalézcanse y tome ánimo su corazón, todos los que esperan en יהוה» (#tehilim_31_25). Eric lee la espera como una actividad de confianza, no como pasividad ni pensamiento positivo. El salmo no promete que el asedio no exista; fortalece a quienes esperan mientras la liberación es buscada y recibida.
 
@@ -139,5 +139,5 @@ Tehilim 31 no opone refugio y rescate. יהוה es roca, fortaleza y casa de seg
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 31» — <https://www.youtube.com/watch?v=Nm5fsBe_NSA> — source_id: `youtube:Nm5fsBe_NSA`.
+- Video: «Tehilim/Himnos/Salmo Cap 31» — <https://www.youtube.com/watch?v=Nm5fsBe_NSA> — `source_id`: `youtube:Nm5fsBe_NSA`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

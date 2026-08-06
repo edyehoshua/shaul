@@ -59,7 +59,7 @@ Esta nota organiza **Haftarat Vayishlaj Part 4**. La exposición pasa de Oseas 1
 
 La numeración TTH de esta tabla se transcribe del archivo local y no siempre coincide literalmente con la alineación del hebreo OE. La diferencia no se corrige inventando una armonización; queda anotada para cotejo textual.
 
-## La memoria de Yaakov: del talón a la lucha — Oseas 12:3-6
+## La memoria de Yaakov: del talón a la lucha — Oseas 12:3-6 #oseas_12_3-6
 
 Eric comienza con la imagen de Yaakov en el vientre: **(עקב)**, _aqev_, “talón”, aparece en el relato de su nacimiento y luego sostiene el nombre Yaakov. Oseas no borra esa historia incómoda. Dice que en su vigor “luchó con Elohim” y que tuvo poder sobre el mensajero, lloró y pidió su favor. La clase trata esos verbos como una secuencia: fuerza, resistencia, llanto y súplica. No se trata de presentar a Yaakov como alguien que vence a יהוה por superioridad; el punto pastoral es que la bendición se recibe en dependencia, no por una victoria autónoma.
 
@@ -73,7 +73,7 @@ La exposición compara Oseas 12 con Shemot 4:24-26. El texto OE dice que en el c
 
 La nota no resuelve aquí la cuestión mediante una supuesta coma hebrea ni atribuye al texto una palabra que no aparece. Sí conserva la observación útil de Eric: una traducción automática o una lectura apresurada puede producir una imagen teológica incoherente, y los pasajes difíciles deben compararse con su contexto. La circuncisión de los vv. 25-26 muestra que la escena está ligada al incumplimiento del pacto familiar, pero la relación exacta entre cada participante requiere estudio adicional. La aplicación a Yaakov es tipológica y pedagógica, no una equivalencia narrativa exacta.
 
-## Volver, guardar bondad y esperar — Oseas 12:7-10
+## Volver, guardar bondad y esperar — Oseas 12:7-10 #oseas_12_7-10
 
 Después de la memoria viene el imperativo: “tú, a tu Elohim volverás”. El verbo **(שוב)**, _shuv_, puede describir volver o retornar; aquí el retorno no queda reducido a emoción. Le siguen bondad y juicio: **(חסד)**, _jesed_, y **(משפט)**, _mishpat_. Eric presenta estos términos como una dirección concreta para quien ha reconocido su historia: practicar misericordia leal, hacer justicia y esperar en יהוה continuamente. La espera no es pasividad, sino abandonar la fabricación de seguridad propia.
 

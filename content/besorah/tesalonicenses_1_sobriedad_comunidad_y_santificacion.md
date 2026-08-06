@@ -86,9 +86,9 @@ La oración final sitúa estas exhortaciones bajo la acción de Elohim: que el E
 
 Esta nota organiza clases del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1Tesalonisenses (parte 10) Cap 5» — https://www.youtube.com/watch?v=SfSX-puN0nI (`source_id: youtube:SfSX-puN0nI`).
-- «1Tesalonisenses (parte 11) Cap 5» — https://www.youtube.com/watch?v=J8sGWavppmg (`source_id: youtube:J8sGWavppmg`).
-- «1Tesalonisenses (parte 12) Cap 5» — https://www.youtube.com/watch?v=ieS3PdlMPK0 (`source_id: youtube:ieS3PdlMPK0`).
-- «1Tesalonisenses (parte 13) Cap 5 Final» — https://www.youtube.com/watch?v=NP7M0fdp9Uc (`source_id: youtube:NP7M0fdp9Uc`).
+- «1Tesalonisenses (parte 10) Cap 5» — https://www.youtube.com/watch?v=SfSX-puN0nI (`source_id`: youtube:SfSX-puN0nI`).
+- «1Tesalonisenses (parte 11) Cap 5» — https://www.youtube.com/watch?v=J8sGWavppmg (`source_id`: youtube:J8sGWavppmg`).
+- «1Tesalonisenses (parte 12) Cap 5» — https://www.youtube.com/watch?v=ieS3PdlMPK0 (`source_id`: youtube:ieS3PdlMPK0`).
+- «1Tesalonisenses (parte 13) Cap 5 Final» — https://www.youtube.com/watch?v=NP7M0fdp9Uc (`source_id`: youtube:NP7M0fdp9Uc`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

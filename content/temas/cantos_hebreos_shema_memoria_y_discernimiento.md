@@ -97,16 +97,16 @@ El Shemá llama a guardar y enseñar las palabras de יהוה, y Tehilim proclam
 ## Créditos
 
 - Expositor y responsable de la lista: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [El Evangelio Wganda Kenya](https://www.youtube.com/watch?v=BzRLp-h-FCs) (source_id: `youtube:BzRLp-h-FCs`).
-- [El poderoso de Israel(cantado por judios)](https://www.youtube.com/watch?v=YeTXXw1GTqY) (source_id: `youtube:YeTXXw1GTqY`).
-- [Ofra HAZA - Im Nin' Alu (Original Video Clip - 1988) **_ HD _**](https://www.youtube.com/watch?v=O-R-Z8DYb5s) (source_id: `youtube:O-R-Z8DYb5s`).
-- [בועז שרעבי - דרור יקרא](https://www.youtube.com/watch?v=L6EeTyJjU34) (source_id: `youtube:L6EeTyJjU34`).
-- [דני מסנג - יצאנו אט - האוסף](https://www.youtube.com/watch?v=LyGQPveZU2U) (source_id: `youtube:LyGQPveZU2U`).
-- [הגבעטרון מחרוזת שירים ישראליים צאנה צאנה, זמר לך,ישמחו השמיים,הבה נגילה,הבאנו שלום עליכם](https://www.youtube.com/watch?v=MVPXV26EuFs) (source_id: `youtube:MVPXV26EuFs`).
-- [זמרי אפי נצר - שלום על ישראל - אני ושירי](https://www.youtube.com/watch?v=Cku5B-UoHPY) (source_id: `youtube:Cku5B-UoHPY`).
-- [זמרי אפי נצר -הנה לא ינום -שירי תהילים](https://www.youtube.com/watch?v=h2iPUA7tm38) (source_id: `youtube:h2iPUA7tm38`).
-- [זמרי אפי נצר -שישו את ירושלים -שירים חסידיים ושירי שבת](https://www.youtube.com/watch?v=H7s-JzwX6_U) (source_id: `youtube:H7s-JzwX6_U`).
-- [יפים הלילות בכנען- מה יפים הלילות בכנען](https://www.youtube.com/watch?v=oGua5gCyloo) (source_id: `youtube:oGua5gCyloo`).
-- [כהן שומרוני קורא את קריאת שמע](https://www.youtube.com/watch?v=xTLA4g8jtvg) (source_id: `youtube:xTLA4g8jtvg`).
-- [שמע ישראל (מסורת תימן) יאיר חדאד - توحيد الرب بالعبري من التורاه](https://www.youtube.com/watch?v=XVfGzsU7Afw) (source_id: `youtube:XVfGzsU7Afw`).
+- [El Evangelio Wganda Kenya](https://www.youtube.com/watch?v=BzRLp-h-FCs) (`source_id`: `youtube:BzRLp-h-FCs`).
+- [El poderoso de Israel(cantado por judios)](https://www.youtube.com/watch?v=YeTXXw1GTqY) (`source_id`: `youtube:YeTXXw1GTqY`).
+- [Ofra HAZA - Im Nin' Alu (Original Video Clip - 1988) **_ HD _**](https://www.youtube.com/watch?v=O-R-Z8DYb5s) (`source_id`: `youtube:O-R-Z8DYb5s`).
+- [בועז שרעבי - דרור יקרא](https://www.youtube.com/watch?v=L6EeTyJjU34) (`source_id`: `youtube:L6EeTyJjU34`).
+- [דני מסנג - יצאנו אט - האוסף](https://www.youtube.com/watch?v=LyGQPveZU2U) (`source_id`: `youtube:LyGQPveZU2U`).
+- [הגבעטרון מחרוזת שירים ישראליים צאנה צאנה, זמר לך,ישמחו השמיים,הבה נגילה,הבאנו שלום עליכם](https://www.youtube.com/watch?v=MVPXV26EuFs) (`source_id`: `youtube:MVPXV26EuFs`).
+- [זמרי אפי נצר - שלום על ישראל - אני ושירי](https://www.youtube.com/watch?v=Cku5B-UoHPY) (`source_id`: `youtube:Cku5B-UoHPY`).
+- [זמרי אפי נצר -הנה לא ינום -שירי תהילים](https://www.youtube.com/watch?v=h2iPUA7tm38) (`source_id`: `youtube:h2iPUA7tm38`).
+- [זמרי אפי נצר -שישו את ירושלים -שירים חסידיים ושירי שבת](https://www.youtube.com/watch?v=H7s-JzwX6_U) (`source_id`: `youtube:H7s-JzwX6_U`).
+- [יפים הלילות בכנען- מה יפים הלילות בכנען](https://www.youtube.com/watch?v=oGua5gCyloo) (`source_id`: `youtube:oGua5gCyloo`).
+- [כהן שומרוני קורא את קריאת שמע](https://www.youtube.com/watch?v=xTLA4g8jtvg) (`source_id`: `youtube:xTLA4g8jtvg`).
+- [שמע ישראל (מסורת תימן) יאיר חדאד - توحيد الرب بالعبري من التורاه](https://www.youtube.com/watch?v=XVfGzsU7Afw) (`source_id`: `youtube:XVfGzsU7Afw`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

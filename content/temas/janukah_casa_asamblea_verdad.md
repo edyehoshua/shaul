@@ -49,7 +49,7 @@ En `youtube:qzr_u89uzUk`, Eric explica aproximadamente entre 00:00:48 y 00:02:43
 | Templo y formación; `youtube:qzr_u89uzUk` (00:06:30–00:08:18)      | Eric presenta el templo como centro de consulta, aprendizaje y formación de conciencia.                 | Apoyo canónico cualificado mediante 2 Timoteo 3:14-17 y 1 Timoteo 3:15; no se identifica edificio con infalibilidad.          |
 | Obediencia perseverante; `youtube:qzr_u89uzUk` (00:08:22–00:09:58) | Eric compara la resistencia al mandamiento con la resistencia inicial a un proceso educativo constante. | Aplicación pedagógica coherente con la formación bíblica, pero no una definición léxica de «carne» ni una garantía de mérito. |
 
-## Juan 10:22-30: dedicación, casa y voz
+## Juan 10:22-30: dedicación, casa y voz #yojanan_10_22-30
 
 Juan informa primero el lugar y el momento: «era invierno» y Yehoshua caminaba en el templo, en el pórtico de Salomón (#yojanan_10_22-23). La escena no está aislada de la controversia anterior: el tema dominante pasa a ser la identidad del Mesías y la respuesta a sus obras. **(ἐγκαίνια)**, _enkainia_, significa dedicación, renovación o inauguración; en Juan 10:22 su sentido ordinario nombra la fiesta, mientras su fuerza contextual recuerda una casa puesta nuevamente en servicio. «Dedicación» es una glosa **directa**; derivar de la palabra una teoría completa sobre toda celebración posterior sería **inferencial**.
 
@@ -63,7 +63,7 @@ El título hebreo del Salmo 30 vincula el canto con la dedicación de la casa. *
 
 El salmista clama, afirma que Elohim lo levantó y declara que la ira es momentánea mientras la vida acompaña el favor (#tehilim_30_2-6). **(רוּם)**, _rum_, significa levantar, elevar o exaltar; en el salmo su fuerza contextual es rescate y restauración, no autoexaltación. «Levantó» es **directo** como traducción básica, pero convertirlo en una promesa de que toda dedicación elimina definitivamente la aflicción sería **aproximado**. La casa dedicada se vuelve lugar de memoria: la comunidad recuerda quién restauró, no quién presume controlar el santuario.
 
-## 2 Timoteo 3:14-17 y 1 Timoteo 3:15: formación comunitaria
+## 2 Timoteo 3:14-17 y 1 Timoteo 3:15: formación comunitaria #2_timoteo_3_14-17 #1_timoteo_3_15
 
 Eric relaciona el templo como centro de formación con la instrucción que equipa al creyente. 2 Timoteo 3:14-17 ordena permanecer en lo aprendido y atribuye a la Escritura capacidad para enseñar, corregir y preparar para toda buena obra. **(παιδεία)**, _paideia_, significa disciplina, instrucción o formación; su fuerza contextual es un proceso que corrige y equipa, no mera acumulación de datos. «Formación» es **aproximada y pedagógica**, pero encaja con el movimiento de la perícopa.
 

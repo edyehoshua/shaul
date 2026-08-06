@@ -115,5 +115,5 @@ Tehilim 41 no presenta la conciencia de debilidad como condena final. El orante 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Hymnos/Salmo Chap 41» — <https://www.youtube.com/watch?v=3Oz3-WwoCPU> — source_id: `youtube:3Oz3-WwoCPU`.
+- Video: «Tehilim/Hymnos/Salmo Chap 41» — <https://www.youtube.com/watch?v=3Oz3-WwoCPU> — `source_id`: `youtube:3Oz3-WwoCPU`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

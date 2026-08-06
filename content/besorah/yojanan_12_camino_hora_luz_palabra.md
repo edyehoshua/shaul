@@ -193,11 +193,6 @@ sources:
   - "https://www.youtube.com/live/Hv7enV-uw5A?si=7SNfqE7UOGAZgadp"
   - "https://www.youtube.com/live/AYrCYjkwyYo?si=WPR3AC6VhLy_nAwN"
   - "https://www.youtube.com/live/dKqd5lQXyEA?si=01S7uym38s1VjlmO"
-  - "private/sources/youtube_mG0xaFkcSag_transcript.txt"
-  - "private/sources/youtube_90O6TYH0NOM_transcript.txt"
-  - "private/sources/youtube_So_vr4hwcJQ_transcript_fragment.txt"
-  - "private/sources/youtube_0SNICYI6yM0_transcript.txt"
-  - "private/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt"
   - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
@@ -1297,7 +1292,7 @@ El centro del fragmento es doble. Primero, solo la revelación soberana de יה�
 
 #### Alcance de la nota
 
-- Fuente principal: fragmento de transcripción automática provisto por el usuario y preservado en `private/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt`.
+- Fuente principal: fragmento de transcripción automática provisto por el usuario y preservado en la transcripción de trabajo.
 - El fragmento cubre una exposición de #iojanan_12_36-47, con énfasis en #ieshaiahu_53_1, #ieshaiahu_6_10 y #devarim_11_1.
 - La nota ordena la enseñanza de la clase; no reproduce cada frase como cita exacta.
 - Algunas propuestas técnicas de lectura, como el uso de qere o la identificación del sujeto en #ieshaiahu_6_10, quedan marcadas como pendientes de verificación.
@@ -1578,13 +1573,13 @@ Para los que reciben la palabra, el juicio tiene otro rostro: la palabra cumplid
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=mG0xaFkcSag> — source_id: `youtube:mG0xaFkcSag`.
-- Video: <https://www.youtube.com/watch?v=aRt3PuB_gSw> — source_id: `youtube:aRt3PuB_gSw`.
-- Video: <https://www.youtube.com/watch?v=90O6TYH0NOM> — source_id: `youtube:90O6TYH0NOM`.
-- Video: <https://www.youtube.com/watch?v=ZLTG7uQExR4> — source_id: `youtube:ZLTG7uQExR4`.
-- Video: <https://www.youtube.com/watch?v=So_vr4hwcJQ> — source_id: `youtube:So_vr4hwcJQ`.
-- Video: <https://www.youtube.com/watch?v=0SNICYI6yM0> — source_id: `youtube:0SNICYI6yM0`.
-- Video: <https://www.youtube.com/watch?v=Hv7enV-uw5A> — source_id: `youtube:Hv7enV-uw5A`.
-- Video: <https://www.youtube.com/watch?v=AYrCYjkwyYo> — source_id: `youtube:AYrCYjkwyYo`.
-- Video: <https://www.youtube.com/watch?v=dKqd5lQXyEA> — source_id: `youtube:dKqd5lQXyEA`.
+- Video: <https://www.youtube.com/watch?v=mG0xaFkcSag> — `source_id`: `youtube:mG0xaFkcSag`.
+- Video: <https://www.youtube.com/watch?v=aRt3PuB_gSw> — `source_id`: `youtube:aRt3PuB_gSw`.
+- Video: <https://www.youtube.com/watch?v=90O6TYH0NOM> — `source_id`: `youtube:90O6TYH0NOM`.
+- Video: <https://www.youtube.com/watch?v=ZLTG7uQExR4> — `source_id`: `youtube:ZLTG7uQExR4`.
+- Video: <https://www.youtube.com/watch?v=So_vr4hwcJQ> — `source_id`: `youtube:So_vr4hwcJQ`.
+- Video: <https://www.youtube.com/watch?v=0SNICYI6yM0> — `source_id`: `youtube:0SNICYI6yM0`.
+- Video: <https://www.youtube.com/watch?v=Hv7enV-uw5A> — `source_id`: `youtube:Hv7enV-uw5A`.
+- Video: <https://www.youtube.com/watch?v=AYrCYjkwyYo> — `source_id`: `youtube:AYrCYjkwyYo`.
+- Video: <https://www.youtube.com/watch?v=dKqd5lQXyEA> — `source_id`: `youtube:dKqd5lQXyEA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

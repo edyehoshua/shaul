@@ -72,25 +72,25 @@ Esta nota organiza la parte 21 de la serie de Apocalipsis del **hermano Eric de 
 | **(מיכאל)**    | Mikha'el        | «¿quién como Elohim?»; nombre propio            | Eric observa que Daniel lo llama uno de los principales príncipes y, por ello, rechaza identificarlo con Yehoshua. Apocalipsis lo presenta como jefe angelical en combate, no explica por sí solo toda la cristología implicada. | Nombre propio; no es una traducción del título del Mesías.                                         |
 | **(μαρτυρία)** | martyria        | testimonio                                      | En v. 11 y v. 17 el testimonio se une a la victoria y a la fidelidad bajo amenaza. No es información neutral: es confesión sostenida hasta la muerte.                                                                            | Aproximada con **(עדות)**, «testimonio»; la correspondencia debe revisarse por contexto.           |
 
-## La mujer y los dolores de parto (12:1-2)
+## La mujer y los dolores de parto (12:1-2) #revelation_12_1-2
 
 Eric comienza con las dos señales y cuestiona que la mujer quede agotada por una identificación única y automática con Miriam. La escena incluye sol, luna, doce estrellas y parto; por eso la clase dirige la atención a las imágenes corporativas de Israel/Sión en #ieshaiahu_26_17, #ieshaiahu_66_7 y #mijah_4_10. Es una observación textual importante: los profetas sí usan dolores de parto para describir a un pueblo en aflicción y en esperanza. La referencia a las doce estrellas también permite recordar el sueño de Yosef, aunque Apocalipsis no ofrece aquí una glosa que resuelva cada rasgo por separado.
 
 La propuesta de Eric es que la mujer representa a Israel en una dimensión histórica y que lleva dentro al remanente fiel. Esto ayuda a no tratar el símbolo como retrato biográfico de una sola persona. Sin embargo, el capítulo tampoco dice literalmente «la mujer es Israel»; su mejor uso es una lectura canónica provisional que debe mantener abiertos los datos posteriores: la mujer huye, es sustentada y tiene «el resto de su descendencia». La imagen no se reduce a una maternidad aislada, sino que articula pueblo, hijo y descendencia perseguida.
 
-## El dragón y el hijo varón (12:3-5)
+## El dragón y el hijo varón (12:3-5) #revelation_12_3-5
 
 La segunda señal introduce al **(δράκων)**. Eric insiste en que no se importe sin examen la imagen moderna de un dragón chino o medieval. Su lectura del Tanaj busca antecedentes en **(תנין)** y **(נחש)**, particularmente en #yeshayahu_27_1 y #yejezkel_29_3, donde monstruo, serpiente y Faraón pueden figurar poder hostil. El propio v. 9 da el control decisivo para la nota: el dragón grande es «la serpiente antigua», llamado diablo y Satanás, el que engaña. Así, una comparación con Egipto o Leviatán puede iluminar el simbolismo, pero no desplaza la identificación que Apocalipsis mismo da.
 
 Eric conecta la postura del dragón ante la mujer con el intento de Faraón de destruir al pueblo naciente. La analogía explica bien el movimiento de amenaza contra una comunidad vulnerable; no prueba que el v. 4 sea solamente una recapitulación del éxodo. El texto avanza hacia un hijo varón que «regirá» las naciones con vara de hierro y es llevado al trono de Elohim. En ese punto, la clase distingue entre el remanente que sostiene la historia de Israel y la aplicación concentrada en el Mesías. La concentración mesiánica es plausible por la vara de hierro, pero ha de presentarse como lectura intertextual y no como una sustitución de la dimensión corporativa de la mujer.
 
-## Desierto, Daniel y la lectura histórica (12:6, 13-14)
+## Desierto, Daniel y la lectura histórica (12:6, 13-14) #revelation_12_6
 
 La mujer huye al desierto y es sustentada 1.260 días; después, la visión vuelve a decir «tiempo, tiempos y mitad de un tiempo». Eric relaciona estas expresiones con #daniel_7_25 y propone una localización histórica en la persecución de Antíoco IV y la resistencia macabea. La clase valora que Daniel hable de un poder que aflige a los santos y pretende cambiar tiempos y ley, y advierte contra leer cada cuerno directamente como un bloque político contemporáneo.
 
 Esta es una de las observaciones más específicas de Eric y merece conservarse: no ofrece el desierto como evasión espiritual abstracta, sino como refugio concreto y resistencia de quienes guardan su herencia. A la vez, las fechas, los reinados, la equivalencia de tres años y medio con los 1.260 días, y la identificación exhaustiva de Daniel 7 requieren cotejo histórico y textual antes de afirmarse como cumplimiento único. Apocalipsis dispone las escenas visionarias con recapitulaciones; por eso tampoco se debe exigir que cada transición funcione como una secuencia cronológica simple.
 
-## Miguel, la victoria y el remanente perseguido (12:7-17)
+## Miguel, la victoria y el remanente perseguido (12:7-17) #revelation_12_7-17
 
 El v. 7 abre la guerra en el cielo con Miguel y sus ángeles. Eric observa que **(מיכאל)** aparece en Daniel como uno entre los principales príncipes y que «arcángel» pertenece al vocabulario griego, no al hebreo bíblico. Desde allí argumenta que Miguel, como mensajero o príncipe creado, no debe confundirse con Yehoshua. La nota conserva su distinción: Apocalipsis asigna a Miguel una función angelical de combate, mientras que vv. 10-11 colocan la victoria de los hermanos en la sangre del Cordero y en su **(μαρτυρία)**. El pasaje mismo separa esos papeles narrativos.
 

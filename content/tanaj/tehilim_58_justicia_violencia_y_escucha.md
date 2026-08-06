@@ -123,4 +123,4 @@ Tehilim 58 no suaviza el daño de la injusticia, pero tampoco entrega al justo e
 
 Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo 58» — <https://www.youtube.com/watch?v=zjpT0HuXCxY> — source_id: `youtube:zjpT0HuXCxY`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo 58» — <https://www.youtube.com/watch?v=zjpT0HuXCxY> — `source_id`: `youtube:zjpT0HuXCxY`.

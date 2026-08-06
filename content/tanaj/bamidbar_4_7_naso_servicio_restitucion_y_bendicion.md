@@ -46,7 +46,7 @@ La exposición recorre Bamidbar 4:21–7:89. Aquí se siguen sus unidades en ord
 | #bamidbar_7_9     | **ולבני קהת לא נתן כי עבדת הקדש עליהם בכתף ישאו**                                                                     | «a los hijos de Kehat no dio, porque su servicio era la santidad… en los hombros cargaban»                                        | Hay cargas que no se delegan a carretas.                              |
 | #bamidbar_7_89    | **וישמע את הקול מדבר אליו מעל הכפרת**                                                                                 | «escuchó la voz que le hablaba desde sobre la cubierta»                                                                           | El servicio culmina en escucha, no en espectáculo.                    |
 
-## Cargas asignadas y liderazgo que sirve: Bamidbar 4:21-49
+## Cargas asignadas y liderazgo que sirve: Bamidbar 4:21-49 #bamidbar_4_21-49
 
 La parashá comienza dentro de la organización de los levitas. A los hijos de Guershón se les cuenta para la obra de la Tienda del Encuentro, y el capítulo termina diciendo que cada hombre fue encargado «de acuerdo a su servicio y de acuerdo a su carga». La palabra hebrea **(עבודה)**, _avodah_, tiene como sentido normal trabajo o servicio; en este contexto designa trabajo cultual concreto. “Ministerio” puede ser una equivalencia **pedagógica**, pero es más amplia que el término hebreo. **(משא)**, _masa_, significa carga o lo que se lleva. La clase insiste en que el liderazgo verdadero lleva carga; esa aplicación está bien orientada por el vocabulario del pasaje, aunque no convierte cada cargo levítico en un modelo directo para toda estructura religiosa contemporánea.
 
@@ -60,13 +60,13 @@ La forma **(נשא)**, _nasa_, significa llevar, levantar o cargar. En este bloq
 
 Esta precisión también protege contra una falsa igualdad de funciones. **(קהת)**, _Qehat_, es el nombre del clan encargado de transportar los objetos santos; no es un término genérico para «los más espirituales». **(קדש)**, _qodesh_, significa santidad o cosa santa; aquí designa objetos separados para el servicio del Mishkán. «Misterio» sería una equivalencia **pedagógica** demasiado amplia. Cuando el texto advierte que no deben entrar a mirar, no está condenando la búsqueda honesta ni autorizando un secretismo sin límites: está regulando quién cubre, quién transporta y cuándo se puede acercar.
 
-## Culpa, confesión y reparación: Bamidbar 5:5-31
+## Culpa, confesión y reparación: Bamidbar 5:5-31 #bamidbar_5_5-31
 
 El siguiente bloque desplaza la atención desde las cargas del santuario hacia la responsabilidad moral. Cuando una persona peca contra otra y actúa infielmente contra יהוה, debe confesar y restituir la culpa completa, añadiendo una quinta parte. **(אשם)**, _asham_, puede referirse a culpa o a la reparación asociada a ella; traducirlo simplemente como “castigo” es **aproximado** y pierde la dimensión restitutiva. La clase emplea este pasaje para mostrar que la vida santa no consiste en lenguaje religioso sin reparación. El texto confirma el punto: la confesión se verifica mediante una devolución concreta al ofendido o, cuando corresponde, al sacerdote.
 
 El pasaje de la mujer sospechada de adulterio requiere especial cuidado. La clase lo menciona dentro del orden de Naso, pero la nota no convierte una prueba ritual antigua en autorización para humillar o controlar a mujeres en el presente. La responsabilidad del estudio es respetar el procedimiento descrito y reconocer que su aplicación contemporánea exige más contexto legal y ético. El texto mantiene, sin embargo, una preocupación clara por la fidelidad del pacto y por la verdad dentro del campamento.
 
-## Sospecha, procedimiento y límites de la autoridad: Bamidbar 5:11-31
+## Sospecha, procedimiento y límites de la autoridad: Bamidbar 5:11-31 #bamidbar_5_11-31
 
 El bloque de la sospecha conyugal sigue al mandato de restitución, pero no debe confundirse con él. El texto presenta una situación sin testigo y sin captura: **איש איש כי תשטה אשתו ומעלה בו מעל**, «cualquier hombre, cuando su mujer se desvíe y actúe infielmente contra él». **(שטה)**, _satah_, significa desviarse o apartarse; en esta construcción describe una sospecha de infidelidad conyugal, no una licencia para llamar desviación a cualquier desacuerdo. **(מעל)**, _maal_, significa actuar traicioneramente o quebrantar una confianza; su fuerza contextual conecta el daño con la responsabilidad delante de יהוה, pero no convierte la sospecha en prueba.
 
@@ -74,13 +74,13 @@ La ofrenda es de cebada y se llama **מנחת קנאת**, _minjat qenaot_, «ofr
 
 La observación de Eric sobre liderazgo responsable encuentra aquí un límite importante: el marido no resuelve la sospecha por venganza privada, sino que la lleva a un procedimiento sacerdotal; tampoco el sacerdote convierte su oficio en poder personal, pues administra la Torah establecida. El texto es antiguo y difícil, y esta nota no lo presenta como modelo suficiente para el derecho contemporáneo. Sí permite afirmar algo más estrecho: la autoridad queda sometida a una palabra y a un rito públicos, mientras que el desenlace distingue entre contaminación real e inocencia. La secuencia no autoriza a humillar, controlar o acusar sin prueba en el presente.
 
-## El Nombre que bendice: Bamidbar 6:22-27
+## El Nombre que bendice: Bamidbar 6:22-27 #bamidbar_6_22-27
 
 La bendición sacerdotal pone tres verbos en boca de יהוה: bendecir, hacer brillar el rostro y alzar el rostro. **(ברך)**, _barakh_, significa bendecir; no equivale exactamente a “hacer prosperar”, porque el contexto incluye guardar, favor y _shalom_. **(שלום)**, _shalom_, tiene el sentido normal de integridad, bienestar y paz; “paz” es una traducción **aproximada**, adecuada pero más estrecha. Eric destaca que no es el sacerdote quien produce la bendición como poder autónomo: los sacerdotes ponen el Nombre, pero יהוה bendice.
 
 El versículo 27 dice: «Y pondrán mi Nombre sobre los hijos de Israel, y Yo los bendeciré». La relación entre Nombre y bendición no permite borrar el nombre divino ni sustituirlo por una categoría vaga. La bendición pertenece a יהוה y el sacerdote sirve como portavoz ordenado. Así, el liderazgo de Bamidbar no compite con la fuente de la autoridad: conduce al pueblo bajo el Nombre.
 
-## Carretas, ofrendas y escucha: Bamidbar 7:1-89
+## Carretas, ofrendas y escucha: Bamidbar 7:1-89 #bamidbar_7_1-89
 
 Cuando el Mishkán queda ungido y consagrado, los jefes presentan seis carretas y doce bueyes. **(נשיא)**, _nasi_, significa jefe o príncipe; “líder” es una equivalencia **contextual**, no una definición completa de sus usos. Su aporte no es ornamental: יהוה manda que se entregue a los levitas según el servicio que cada uno debe realizar. Eric usa esta escena para contrastar al líder que carga con el líder religioso que solo reclama reconocimiento. El texto permite la aplicación porque los jefes facilitan el trabajo de otros, aunque no afirma que toda autoridad deba medirse solo por actividad visible.
 
@@ -116,7 +116,7 @@ La misma lógica aparece en la relación entre ofrenda y escucha. El TTH dice qu
 | Bamidbar 6:22-27 | Los sacerdotes ponen el Nombre, pero יהוה es quien bendice.                                                              | Apoyo textual y análisis de _barakh_, _panim_ y _shalom_.                             |
 | Bamidbar 7:1-89  | _Nasi_ es levantado, no «príncipe» automático; el Mishkán se levanta cuando hay cabezas levantadas; culmina la voz oída. | Apoyo textual; la aplicación eclesial se marca como contextual y pedagógica.          |
 
-## Naso: levantar la cabeza no es inventar un cargo — Bamidbar 4:21-49
+## Naso: levantar la cabeza no es inventar un cargo — Bamidbar 4:21-49 #bamidbar_4_21-49
 
 La clase abre con el nombre de la parashá. **(נשא)**, _nasa_, significa levantar, alzar o cargar. En #bamidbar_4_22 el OE dice **נשא את ראש בני גרשון**, «levanta la cabeza de los hijos de Guershón». TTH conserva «Levanta la cabeza». «Toma el censo» es una equivalencia **aproximada** que comunica el resultado administrativo, pero pierde la imagen hebrea. Eric insiste en que la cabeza se levanta para un encargo, no para una eminencia. El apoyo es fuerte cuando se lee junto a 4:49: **איש איש על עבדתו ועל משאו**, cada uno sobre su servicio y sobre su carga.
 

@@ -95,5 +95,5 @@ Tehilim 130 no niega la profundidad: desde ella manda clamar. Tampoco presenta e
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 130» — <https://www.youtube.com/watch?v=bFnPszXLQY0> — source_id: `youtube:bFnPszXLQY0`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 130» — <https://www.youtube.com/watch?v=bFnPszXLQY0> — `source_id`: `youtube:bFnPszXLQY0`.
 - La transcripción automática se usa como apoyo de estudio y atribución; no se presenta como cita literal ni como transcripción revisada por el expositor.

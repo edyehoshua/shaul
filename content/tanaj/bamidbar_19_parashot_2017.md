@@ -38,7 +38,7 @@ Esta nota desarrolla la clase pública del hermano Eric de Jesús Rodríguez Men
 | #bamidbar_19_9-12  | **והיתה לעדת בני ישראל למשמרת למי נדה... הנגע במת... וטמא שבעת ימים**       | La ceniza queda en custodia y la impureza por muerte tiene un proceso de siete días. |
 | #bamidbar_19_17-20 | **ונתן עליו מים חיים אל כלי... והזה הטהר על הטמא ביום השלישי וביום השביעי** | Agua viva, hisopo y dos aspersiones forman el camino de purificación.                |
 
-## 19:1-10: una provisión custodiada fuera del campamento
+## 19:1-10: una provisión custodiada fuera del campamento #bamidbar_19_1-10
 
 La sesión de Eric lleva en su título la expresión «segunda Mishméret», es decir, una segunda custodia o guardia. El texto permite probar una dimensión concreta de esa observación: la ceniza de la vaca no se consume y olvida, sino que un hombre puro la recoge y la deja «para la congregación de los hijos de Israel en custodia». **(חקה)**, _juqah_, significa estatuto o disposición establecida; en 19:2 su fuerza es una instrucción recibida, no una explicación racional que el lector pueda reemplazar.
 
@@ -46,7 +46,7 @@ La vaca es **(פרה אדמה)**, _parah adamah_: vaca roja. Debe ser completa, 
 
 El capítulo además conserva una paradoja: quien recoge la ceniza y quien la rocía deben lavar sus vestidos y quedan impuros hasta la tarde. **(טמא)**, _tame_, significa impuro o contaminado; aquí no equivale automáticamente a culpable moral. La fuerza contextual distingue estado ritual, contacto y respuesta obediente. «Pureza» es una relación directa con el procedimiento, mientras convertir todo contacto en pecado interior sería una ampliación no demostrada.
 
-## 19:11-16: la muerte contamina y exige tiempo
+## 19:11-16: la muerte contamina y exige tiempo #bamidbar_19_11-16
 
 El texto pasa del preparado a la situación humana: «el que toque un muerto, la persona de cualquier hombre que muera, será impuro siete días». En la tienda, todo el que entra y todo lo que está dentro queda impuro; también se mencionan hueso, herido mortal, muerto y sepulcro. La clase vincula pureza y muerte; el capítulo confirma que la muerte no es un detalle aislado, sino una contaminación que alcanza espacio, utensilios y personas.
 
@@ -54,7 +54,7 @@ El texto pasa del preparado a la situación humana: «el que toque un muerto, la
 
 El versículo 13 advierte que quien contamina el tabernáculo y no se purifica será cortado de Israel. La advertencia no permite trivializar la santidad ni autoriza a los lectores a declarar quién está excluido hoy. Eric ayuda a conservar la urgencia de la custodia: la comunidad debe tratar la contaminación según la palabra recibida y no fingir que no existe.
 
-## 19:17-22: agua viva, aspersión y contagio
+## 19:17-22: agua viva, aspersión y contagio #bamidbar_19_17-22
 
 Para el impuro se toma ceniza de la quema y se pone sobre ella **(מים חיים)**, _mayim chayim_, «aguas vivas», en un recipiente. Un hombre puro toma hisopo, lo sumerge y rocía tienda, utensilios y personas. **(אזוב)**, _ezov_, significa hisopo; en este contexto nombra el instrumento concreto de la aspersión, no una metáfora libre de limpieza emocional.
 
@@ -91,5 +91,5 @@ Bamidbar 19 responde a la muerte con una provisión concreta y custodiada. La cl
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Juqat (2017) La segunda Mishméret](https://www.youtube.com/watch?v=OLd-8BXSzcc) — source_id: `youtube:OLd-8BXSzcc`.
+- [Parashat Juqat (2017) La segunda Mishméret](https://www.youtube.com/watch?v=OLd-8BXSzcc) — `source_id`: `youtube:OLd-8BXSzcc`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

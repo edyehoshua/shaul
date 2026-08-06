@@ -28,7 +28,7 @@ Yejezkel 43:1-27 presenta una secuencia precisa: la puerta oriental, la llegada 
 
 Esta nota sigue el orden de la perícopa y conserva la cautela que aparece en la clase: no convierte cada detalle visionario en una identificación dogmática posterior. La transcripción automática sirve para localizar los énfasis de Eric, no como cita literal. Las aplicaciones sobre servicio, menorá y vestiduras se mantienen subordinadas al movimiento textual de Yejezkel 43.
 
-## Yejezkel 43:1-5 — la puerta oriental y la llegada del kavod
+## Yejezkel 43:1-5 — la puerta oriental y la llegada del kavod #iejezkel_43_1-5
 
 El texto dice: «Me llevó luego a la puerta, la puerta que mira hacia el oriente» (#iejezkel_43_1). Después, «he aquí, el kavod del Dios de Israel venía del camino del oriente» (#iejezkel_43_2). La orientación no es un adorno: prepara al lector para recibir la manifestación que entra por el mismo lado hacia el que la visión dirige la mirada.
 
@@ -36,17 +36,17 @@ Eric observa que el kavod no aparece como una idea abstracta separada del santua
 
 El versículo 4 afirma: «El kavod de יהוה entró en la casa por el camino de la puerta que mira al oriente», y el versículo 5 añade que el Ruaj levanta al profeta y lo lleva al atrio interior. Eric relaciona ambas acciones con una recepción reverente: la presencia entra por iniciativa divina y el profeta es conducido a contemplarla, no a dominarla.
 
-## Yejezkel 43:6-12 — la morada, la santidad y la palabra
+## Yejezkel 43:6-12 — la morada, la santidad y la palabra #iejezkel_43_6-12
 
 Desde la casa se oye una voz: «Hijo de hombre, este es el lugar de mi trono y el lugar de las plantas de mis pies, donde habitaré en medio de los hijos de Israel para siempre» (#iejezkel_43_7). El texto une presencia, gobierno y habitación. El santuario es lugar de morada y de autoridad, no un objeto religioso disponible para cualquier uso.
 
 La voz también denuncia que Israel profanó el nombre santo con sus abominaciones y con la cercanía de sus reyes. Eric insiste en que la restauración del santuario no puede separarse del abandono de la contaminación. El versículo 9 pide que alejen la prostitución espiritual y los cadáveres de sus reyes; solo después aparece la invitación a mostrar la casa y sus medidas (#iejezkel_43_9-11). La enseñanza trata la información arquitectónica como servicio a la santidad, no como curiosidad autónoma.
 
-## Yejezkel 43:13-17 — la base del altar
+## Yejezkel 43:13-17 — la base del altar #iejezkel_43_13-17
 
 El texto comienza la descripción diciendo: «Estas son las medidas del altar en codos» (#iejezkel_43_13). Sigue con su base, sus gradas, sus bordes y sus niveles. Eric conecta esta precisión con la necesidad de leer el altar tal como está descrito, sin rellenar los silencios con tradiciones presentadas como si fueran versículos. La medida comunica orden y responsabilidad, pero no autoriza a inventar detalles ausentes.
 
-## Yejezkel 43:18-27 — consagrar mediante servicio ordenado
+## Yejezkel 43:18-27 — consagrar mediante servicio ordenado #iejezkel_43_18-27
 
 La palabra manda entregar un novillo para la ofrenda por el pecado y prescribe el servicio de siete días (#iejezkel_43_19-26). En el séptimo día, los sacerdotes ofrecen y el altar queda expiado. El capítulo concluye: «Y os aceptaré, dice el Señor יהוה» (#iejezkel_43_27). Eric lee el cierre como una secuencia de acercamiento regulado: presencia, palabra, purificación, servicio y aceptación. El altar no es santo por la técnica del ministro, sino por el orden que יהוה establece.
 
@@ -77,6 +77,6 @@ Yejezkel 43 conduce desde la puerta oriental hasta un altar consagrado. Eric ens
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Tetzavéh (Ez 43)](https://www.youtube.com/watch?v=FuUDfJ1_x38) — source_id: `youtube:FuUDfJ1_x38`.
+- Video: [Haftaráh de Tetzavéh (Ez 43)](https://www.youtube.com/watch?v=FuUDfJ1_x38) — `source_id`: `youtube:FuUDfJ1_x38`.
 - Texto bíblico local: [Yejezkel 43 en el corpus OE](../docs/scriptures/oe/json/ezekiel/43.json).
 - La nota organiza los énfasis públicos de la exposición y no presenta una transcripción automática como cita literal.

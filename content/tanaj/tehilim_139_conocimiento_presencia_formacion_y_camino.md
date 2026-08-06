@@ -43,7 +43,7 @@ Esta nota desarrolla la enseñanza del hermano Eric de Jesús Rodríguez Mendoza
 - **139:13-16 — vientre y formación:** Eric insiste en que **כליה** nombra literalmente los riñones y, por extensión, lo profundo o filtrado, no una palabra que deba borrarse sin más como “entrañas”. Luego vincula “las partes profundas de la tierra” con el vientre materno y con la venida del Mesías; la nota confirma la formación y el conocimiento prenatal, pero clasifica la expansión mesiánica como lectura teológica.
 - **139:17-24 — pensamiento, enemigos y examen:** Eric enlaza **רעי** de v. 2 con “tus pensamientos” de v. 17, lee la gran cantidad de pensamientos como comunión y termina destacando la petición de examen. También entiende a los enemigos como parte de un conflicto espiritual; el texto sí habla de malvados, hombres de sangre y camino de dolor, sin obligar a identificar cada adversario con una potestad invisible.
 
-## 139:1-6: el conocimiento que rodea al orante
+## 139:1-6: el conocimiento que rodea al orante #psalms_139_1-6
 
 El encabezamiento presenta un salmo de David para el director. La primera afirmación es directa: **יהוה חקרתני ותדע**, _YHWH chakartani veteda_, “יהוה, me has examinado y conoces”. **חקר** significa investigar, explorar o escudriñar; su fuerza aquí es examen penetrante, no una mirada superficial. Eric explica que la palabra evoca un sondeo que entra en todos los espacios, y el paralelismo confirma la imagen mediante el verbo **ידע**, conocer.
 
@@ -55,7 +55,7 @@ El v. 4 dice: **כי אין מלה בלשוני הן יהוה ידעת כלה**,
 
 Los vv. 5-6 cierran la primera unidad: **אחור וקדם צרתני**, “por detrás y por delante me estrechaste o rodeaste”, y **פלאיה דעת ממני נשגבה לא אוכל לה**, “maravilloso es para mí este conocimiento; es alto, no puedo alcanzarlo”. **צרר** significa estrechar, atar o rodear; en el contexto la fuerza es estar encerrado por el conocimiento divino, no sufrir una condena explícita. Eric lee aquí una tensión alegórica entre justicia que examina y amor que busca restaurar; esa lectura puede dialogar con otros textos, pero el salmo mismo afirma humildemente el límite del conocimiento humano.
 
-## 139:7-12: presencia en todo lugar
+## 139:7-12: presencia en todo lugar #psalms_139_7-12
 
 La pregunta del v. 7 reorienta el himno: **אנה אלך מרוחך ואנה מפניך אברח**, “¿adónde iré de tu Rúaj y adónde huiré de tu presencia?”. **רוח** significa viento, espíritu o aliento según contexto; aquí la expresión **מרוחך** apunta a la presencia o acción de יהוה. No hace falta fijar una sola glosa metafísica: el paralelismo con “tu rostro” expresa que no hay lugar fuera de su alcance.
 
@@ -65,7 +65,7 @@ El v. 10 mantiene el centro: **גם שם ידך תנחני ותאחזני ימי
 
 Los vv. 11-12 niegan que la oscuridad oculte al orante: **גם חשך לא יחשיך ממך**, “tampoco la oscuridad será demasiado oscura para ti”; **ולילה כיום יאיר**, “la noche brillará como el día”. **חשך** significa oscuridad; **אור** significa luz. Eric compara esto con un sensor que percibe aun cuando el ojo humano no ve, y aplica la imagen al pecado que no queda oculto por la noche. La comparación ilustra el alcance del texto, pero no debe convertir una metáfora poética en una teoría física.
 
-## 139:13-18: adquirido, tejido y visto
+## 139:13-18: adquirido, tejido y visto #psalms_139_13-18
 
 El v. 13 afirma: **כי אתה קנית כליתי תסכני בבטן אמי**, “porque tú adquiriste mis riñones; me cubriste o formaste en el vientre de mi madre”. **כליה** significa riñón en sentido normal; en la antropología hebrea puede señalar la sede profunda de deseos y pensamientos. Eric critica la traducción que sustituye automáticamente “riñones” por “entrañas” y explica el órgano como imagen de filtrado y de lo profundo. La relación es **léxica y aproximada**: el texto afirma adquisición y formación, mientras la función de filtrado es una expansión explicativa.
 
@@ -75,7 +75,7 @@ El v. 15 dice **לא נכחד עצמי ממך אשר עשיתי בסתר רקמ�
 
 En v. 16, **גלמי ראו עיניך**, “tus ojos vieron mi embrión o masa informe”, precede a **ועל ספרך כלם יכתבו**, “en tu libro todos ellos fueron escritos”. El verso contiene una dificultad textual en su continuación; por eso la nota conserva la idea segura: los días y la formación están ante la mirada de יהוה. Eric relaciona el libro con el Mesías que viene a ejecutar sentencias y promesas ya escritas, pero lo presenta como una línea de estudio. Los vv. 17-18 vuelven a la admiración: los pensamientos de יהוה son preciosos y numerosos como la arena; al despertar, el orante sigue con él. La repetición conceptual con **רעי** de v. 2 apoya el mapa de Eric sin obligar a su alegoría de atributos.
 
-## 139:19-24: odio al mal y examen propio
+## 139:19-24: odio al mal y examen propio #psalms_139_19-24
 
 El salmista cambia de tono: **אם תקטל אלוה רשע ואנשי דמים סורו מני**, “si mataras, Elohim, al malvado, apartaos de mí, hombres de sangre”. El texto no suaviza el conflicto moral. Eric ve detrás de los enemigos humanos un conflicto espiritual y recuerda Efesios 6:12; esa es una conexión atribuida. La forma responsable de conservarla es distinguir entre la afirmación explícita —malvados y hombres de sangre— y la aplicación que pregunta por las fuerzas que alimentan su conducta.
 
@@ -103,5 +103,5 @@ Tehilim 139 no termina en la curiosidad sobre lo invisible, sino en una oración
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo Cap 139» — <https://www.youtube.com/watch?v=BiZ8TXdYsww> — source_id: `youtube:BiZ8TXdYsww`.
+- Video: «Tehilim/Himnos/Salmo Cap 139» — <https://www.youtube.com/watch?v=BiZ8TXdYsww> — `source_id`: `youtube:BiZ8TXdYsww`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

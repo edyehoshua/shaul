@@ -103,6 +103,6 @@ La vid de #iojanan_15_1-5 no es una imagen de productividad religiosa aislada. Y
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=-EwRZKoqHo4> — source_id: `youtube:-EwRZKoqHo4`.
-- Video: <https://www.youtube.com/watch?v=Up-DASDhdok> — source_id: `youtube:Up-DASDhdok`.
+- Video: <https://www.youtube.com/watch?v=-EwRZKoqHo4> — `source_id`: `youtube:-EwRZKoqHo4`.
+- Video: <https://www.youtube.com/watch?v=Up-DASDhdok> — `source_id`: `youtube:Up-DASDhdok`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

@@ -244,8 +244,8 @@ En 2:20-23, **(δογματίζω)**, _dogmatizō_, significa decretar, someter 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [A los colosenses (parte 6) cap 2A](https://www.youtube.com/watch?v=UAUNTfl_egA) (source_id: `youtube:UAUNTfl_egA`).
-- [A los colosenses (parte 7) cap 2B](https://www.youtube.com/watch?v=Lx_aGSNMKTc) (source_id: `youtube:Lx_aGSNMKTc`).
-- [A los colosenses (parte 8) cap 2C](https://www.youtube.com/watch?v=bZtcpYr74ag) (source_id: `youtube:bZtcpYr74ag`).
-- [A los colosenses (parte 9) cap 2D](https://www.youtube.com/watch?v=78yj9T3rFbI) (source_id: `youtube:78yj9T3rFbI`).
+- [A los colosenses (parte 6) cap 2A](https://www.youtube.com/watch?v=UAUNTfl_egA) (`source_id`: `youtube:UAUNTfl_egA`).
+- [A los colosenses (parte 7) cap 2B](https://www.youtube.com/watch?v=Lx_aGSNMKTc) (`source_id`: `youtube:Lx_aGSNMKTc`).
+- [A los colosenses (parte 8) cap 2C](https://www.youtube.com/watch?v=bZtcpYr74ag) (`source_id`: `youtube:bZtcpYr74ag`).
+- [A los colosenses (parte 9) cap 2D](https://www.youtube.com/watch?v=78yj9T3rFbI) (`source_id`: `youtube:78yj9T3rFbI`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

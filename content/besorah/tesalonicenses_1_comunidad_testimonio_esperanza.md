@@ -127,8 +127,8 @@ La clase relaciona la palabra “esperar” con una descomposición del griego y
 
 Esta nota organiza clases del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «1Tesalonicenses (parte 1) Intro» — https://www.youtube.com/watch?v=beazM0ECRtk (`source_id: youtube:beazM0ECRtk`).
-- «1Tesalonisenses (parte 1) cap 1» — https://www.youtube.com/watch?v=OpTB8G_M7fA (`source_id: youtube:OpTB8G_M7fA`).
-- «1 Thessalonians (Part 2) Chapter 1» — https://www.youtube.com/watch?v=ZqaU13rHCGc (`source_id: youtube:ZqaU13rHCGc`).
+- «1Tesalonicenses (parte 1) Intro» — https://www.youtube.com/watch?v=beazM0ECRtk (`source_id`: youtube:beazM0ECRtk`).
+- «1Tesalonisenses (parte 1) cap 1» — https://www.youtube.com/watch?v=OpTB8G_M7fA (`source_id`: youtube:OpTB8G_M7fA`).
+- «1 Thessalonians (Part 2) Chapter 1» — https://www.youtube.com/watch?v=ZqaU13rHCGc (`source_id`: youtube:ZqaU13rHCGc`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

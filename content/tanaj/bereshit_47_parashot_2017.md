@@ -47,5 +47,5 @@ Bereshit 47 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayjí (2017) Gn 47:28-50:26 La plenitud de los gentiles y el Nagid](https://www.youtube.com/watch?v=HJih4KUH6NU) (source_id: `youtube:HJih4KUH6NU`).
+- [Parashat Vayjí (2017) Gn 47:28-50:26 La plenitud de los gentiles y el Nagid](https://www.youtube.com/watch?v=HJih4KUH6NU) (`source_id`: `youtube:HJih4KUH6NU`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

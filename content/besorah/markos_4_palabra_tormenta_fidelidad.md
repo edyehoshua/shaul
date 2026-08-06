@@ -192,7 +192,7 @@ La lámpara y la medida no interrumpen ese argumento. **ὅ τι ἐὰν ἀκ�
 
 Solo después aparece el cruce. **λέγει αὐτοῖς**, _legei autois_, «les dice», introduce la orden de 4:35; **διέλθωμεν**, _diēlthōmen_, «pasemos o atravesemos», incluye a los discípulos en la acción que viene. La tormenta, **λαῖλαψ μεγάλη**, _lailaps megalē_, «gran vendaval», no demuestra que la palabra haya fallado, y el sueño de Yehoshua no equivale a abandono. Cuando él ordena **σιώπα** y **πεφίμωσο**, «calla» y «enmudece», el relato muestra autoridad sobre una amenaza concreta; después pregunta por **πίστις**, _pistis_, «fe, confianza o fidelidad». La aplicación de Eric a una fidelidad que permanece en la palabra es legítima como exhortación, pero no convierte la calma en promesa de controlar toda aflicción.
 
-## Control final: de la semilla recibida a la pregunta por la identidad (4:1-41)
+## Control final: de la semilla recibida a la pregunta por la identidad (4:1-41) #markos_4_1-41
 
 La clase de Eric relaciona la escucha con una respuesta fiel, y Marcos permite probarlo sin convertir **ἀκούω**, _akoúō_, «oír o escuchar», en una definición semítica oculta. El sembrador arroja **ὁ λόγος**, _ho lógos_, «la palabra», y el buen terreno **παραδέχονται**, _paradéchontai_, «recibe o acepta», para luego **καρποφοροῦσιν**, _karpophoroûsin_, «dar fruto». La comparación con **שמע**, _shema_, «oír, atender y obedecer», ilumina una relación temática; no reemplaza el griego ni hace que todo oyente produzca fruto automáticamente.
 

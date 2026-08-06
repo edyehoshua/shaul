@@ -63,5 +63,5 @@ Eric aplica esa memoria a la responsabilidad hacia el prójimo. Ester 9:28 repit
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Purim 5785](https://www.youtube.com/watch?v=17vU_yxGy70) — (source_id: `youtube:17vU_yxGy70`).
+- [Purim 5785](https://www.youtube.com/watch?v=17vU_yxGy70) — (`source_id`: `youtube:17vU_yxGy70`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

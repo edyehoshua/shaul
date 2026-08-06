@@ -105,7 +105,7 @@ El capítulo no termina en una experiencia privada de Aharón. TTH traduce 8:33-
 
 Así, «manos llenas» no debe separarse del límite espacial, temporal y verbal de la investidura. Los sacerdotes permanecen en la entrada, esperan siete días y guardan la instrucción; la provisión para servir incluye también disciplina y dependencia. Como conexión con Yehoshua, la clase puede proponer una analogía de mediación autorizada, pero debe llamarla pedagógica: Vaikra 8 sigue describiendo la consagración de Aharón y sus hijos dentro del Mishkán.
 
-## La ofrenda de paz: comunión con límites — Vaikra 7:11–21
+## La ofrenda de paz: comunión con límites — Vaikra 7:11–21 #vaikra_7_11-21
 
 Vaikra 7 no deja la ofrenda de paz en una imagen vaga de comunión. El OE dice: «Y esta es la ley del sacrificio de las ofrendas de paz que ofrecerá a יהוה» (7:11); el TTH conserva la categoría y distingue acción de gracias, voto y ofrenda voluntaria (7:12–16). **(שלמים)**, _shelamim_, es la forma plural relacionada con שלם, «estar completo, íntegro o en paz»; aquí nombra una ofrenda de bienestar o comunión. «Reconciliación» es una equivalencia **aproximada**, porque el pasaje también regula gratitud, voto, voluntariedad y el tiempo de consumo.
 
@@ -131,7 +131,7 @@ Vaikra 8 confirma esa lógica mediante una ceremonia pública. Moshéh reúne la
 
 Por tanto, la conexión mesiánica que Eric propone puede conservarse como lectura tipológica de un mediador autorizado y consagrado, pero no como sustitución de las categorías levíticas. **(ויעש)**, _vayaas_, de עשה, «hacer o realizar», resume la respuesta final: Aharón y sus hijos hicieron todo lo que יהוה ordenó por mano de Moshéh. El texto prueba la capacitación por la obediencia concreta; «tener las manos llenas» sin hacer lo ordenado sería una equivalencia inexacta del argumento de Tzav.
 
-## La ofrenda vegetal: recibir del altar sin apropiarse de lo santo — Vaikra 6:7–11
+## La ofrenda vegetal: recibir del altar sin apropiarse de lo santo — Vaikra 6:7–11 #vaikra_6_7-11
 
 Antes de enumerar las porciones sacerdotales, la ordenanza explica qué ocurre con la ofrenda vegetal. El OE dice **והרים ממנו בקמצו מסלת מנחתה ומשמנה ואת כל הלבנה אשר על המנחה והקטיר המזבחה**, «tomará de ella, con su puño, de la flor de harina de la ofrenda y de su aceite, y todo el incienso que está sobre la ofrenda, y lo hará humear sobre el altar» (#vaikra_6_8); el TTH conserva la porción elevada y el resto que Aharón y sus hijos comen «en lugar santo». **(קמץ)**, _qamats_, significa tomar con el puño o puñado; aquí designa una medida sacerdotal concreta, no una imagen general de abundancia.
 
@@ -139,7 +139,7 @@ Eric presenta el servicio como una dotación que permite actuar, pero este detal
 
 La frase «cosa santísima es» (#vaikra_6_10) también limita la lectura de _milluim_. **(קדש קדשים)**, _qodesh qodashim_, significa «santidad de santidades» o cosa muy santa; su fuerza contextual es clasificar la ofrenda dentro de un espacio y una práctica sacerdotal reservados. «Acceso privilegiado» sería una paráfrasis **aproximada**, no una equivalencia completa. La enseñanza de Eric queda mejor evaluada así: la ordenanza capacita porque asigna una porción y una función, pero precisamente por ser santa impone límites, no autonomía.
 
-## Oído, mano y camino: la investidura se verifica en el cuerpo — Lv 8:22-36
+## Oído, mano y camino: la investidura se verifica en el cuerpo — Lv 8:22-36 #vaikra_8_22-36
 
 La ceremonia de Vaikra 8 no solo entrega un título; muestra dónde debe operar el servicio. Moshéh pone sangre en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho de Aharón y sus hijos (#vaikra_8_23-24). El OE conserva **ונתן על תנוך אזן אהרן הימנית ועל בהן ידו הימנית ועל בהן רגלו הימנית**, y el TTH mantiene esas tres localizaciones. **(תנוך)**, _tenuj_, significa lóbulo o parte blanda de la oreja; **(בהן)**, _bohen_, designa el pulgar o dedo principal de mano o pie. «Oído, obra y caminar» es una lectura **pedagógica** de la distribución corporal, no una traducción escondida de esos sustantivos.
 

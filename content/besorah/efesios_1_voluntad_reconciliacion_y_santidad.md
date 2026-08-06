@@ -125,7 +125,7 @@ La parte 6 continúa desde #ephesians_1_18 hasta el fin. #ephesians_1_19-20 une 
 
 El expositor conecta este cierre con #isaiah_41_4 y #psalms_24_7, y desarrolla las imágenes de cabeza, semilla, gloria y pueblo. Esas conexiones son propuestas de lectura de la serie, no citas explícitas de Efesios. El vínculo textual más firme de la nota queda en la secuencia de Efesios mismo: oración, poder en la resurrección, supremacía del Mesías y comunidad descrita como cuerpo. La imagen no autoriza por sí sola a fijar una teoría exhaustiva de organización comunitaria.
 
-## La plenitud se expresa en una comunidad bajo la cabeza (1:20-23)
+## La plenitud se expresa en una comunidad bajo la cabeza (1:20-23) #ephesians_1_20-23
 
 La última unidad no se detiene en la exaltación individual del Mesías. Después de sentarlo a la diestra, el texto enumera «todo principado, autoridad, poder y señorío» y todo nombre que se nombra, no solo en esta edad sino también en la venidera. La observación de Eric sobre una autoridad que supera las jerarquías visibles encuentra aquí un apoyo directo, aunque la clase extiende esa lista a reconstrucciones sobre poderes concretos que no pueden darse por demostradas solo con el versículo.
 
@@ -240,7 +240,7 @@ En 1:11-14 el argumento pasa de propósito a recepción. **ἐκληρώθημε
 
 La oración de 1:15-23 lleva esa recepción hacia una comunidad que necesita conocer. **ἐπίγνωσις** (_epignōsis_, «conocimiento reconocido o pleno conocimiento») tiene como objetos la esperanza, la herencia y el poder; **ἐγείρας** (_egeiras_, «habiendo levantado») y **καθίσας** (_kathisas_, «habiendo sentado») identifican ese poder por la resurrección y exaltación del Mesías. Finalmente, **κεφαλή** (_kephalē_, «cabeza») y **σῶμα** (_sōma_, «cuerpo») impiden convertir la voluntad revelada en una clave privada: el destino del argumento es una asamblea dependiente de Yehoshua. Esto prueba la observación de Eric sobre esperanza y vida compartida, mientras deja como inferencia sus reconstrucciones sobre jerarquías concretas.
 
-## Reparación dirigida: la oración prueba el propósito revelado (1:9-23)
+## Reparación dirigida: la oración prueba el propósito revelado (1:9-23) #ephesians_1_9-23
 
 La exposición de Eric sobre la voluntad de Elohim debe seguir el giro que hace Pablo desde el propósito anunciado hasta la oración por una comunidad que necesita comprenderlo. En 1:9, **γνωρίσας**, _gnōrisas_, «habiendo dado a conocer», y **μυστήριον**, _mystērion_, «propósito antes oculto y ahora comunicado», muestran que el misterio no es una clave privada. En 1:10, **ἀνακεφαλαιώσασθαι**, _anakephalaiōsasthai_, «reunir bajo una cabeza o recapitular», fija el destino «en el Mesías»; la comparación con **(ראש)**, _rosh_, «cabeza», es pedagógica y no sustituye el verbo griego.
 
@@ -256,7 +256,7 @@ La oración final confirma el destino comunitario. Pablo pide **ἐπίγνωσ�
 - [ ] Verificar las afirmaciones léxicas de las partes 2–6 —en especial las equivalencias propuestas para _pistis_, _agape_, _energeia_, «cabeza» y «padre de gloria»— directamente en textos griegos, hebreos y léxicos especializados.
 - [ ] Evaluar contextualmente las conexiones de la clase entre #ephesians_1_17-23, #isaiah_41_4 y #psalms_24_7 antes de presentarlas como intertextos directos.
 
-## Control de transición: voluntad recibida, respuesta y cuerpo (1:1-23)
+## Control de transición: voluntad recibida, respuesta y cuerpo (1:1-23) #ephesians_1_1-23
 
 La tesis de Eric sobre reconocer la voluntad de Elohim debe seguir el orden de la carta. En 1:1, **θέλημα**, _thelēma_, «voluntad o propósito», califica el origen del envío de Pablo; en 1:9, **εὐδοκία**, _eudokia_, «beneplácito o buena intención», y **βουλή**, _boulē_, «consejo o determinación», describen el propósito que se revela. Son formas relacionadas pero no intercambiables: el texto pasa del envío recibido al misterio dado a conocer, no de una intuición privada a una regla universal.
 
@@ -314,7 +314,7 @@ El movimiento continúa con el beneficio y su comunicación. **ἀπολύτρω
 
 Por eso la oración final no inicia una doctrina desconectada. **ἐπίγνωσις**, _epignōsis_, «conocimiento reconocido o pleno conocimiento», tiene como objetos la esperanza, la herencia y el poder; **ἐγείρας**, _egeiras_, «habiendo levantado», y **καθίσας**, _kathisas_, «habiendo sentado», identifican ese poder por la resurrección y exaltación del Mesías. Finalmente **κεφαλή**, _kephalē_, «cabeza», y **σῶμα**, _sōma_, «cuerpo», fijan el destino comunitario. La observación de Eric sobre voluntad, santidad y reconciliación queda probada como una progresión recibida y compartida, no como una clave privada.
 
-## Control final de dependencia: del llamado al cuerpo (1:1-23)
+## Control final de dependencia: del llamado al cuerpo (1:1-23) #ephesians_1_1-23
 
 La lectura de Eric sobre la voluntad debe conservar el movimiento de la carta. **θέλημα**, _thelēma_, «voluntad o propósito», aparece en 1:1 para explicar el origen del envío de Pablo; **μυστήριον**, _mystērion_, «propósito antes oculto y ahora comunicado», aparece después en 1:9; y **ἀνακεφαλαιώσασθαι**, _anakephalaiōsasthai_, «reunir bajo una cabeza», fija en 1:10 el destino de ese propósito. La equivalencia con **(רצון)**, _ratson_, «voluntad o beneplácito», es semítica y aproximada: no sustituye la sintaxis griega ni convierte la clase en una retroversión del texto.
 

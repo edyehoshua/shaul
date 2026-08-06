@@ -51,7 +51,7 @@ Daniel 8:9-14 describe una fuerza que afecta el santuario y trastorna el servici
 
 La «nueva visión» anunciada por el título no puede usarse para borrar la memoria anterior ni para afirmar una revelación privada con autoridad superior al texto. La novedad debe ser examinada por la Torah y por el testimonio de Yehoshua. El discernimiento es una obligación de la comunidad, no una licencia para presentar como palabra del expositor lo que la fuente pública no conserva.
 
-## Juan 10:22-30: dedicación y voz del Pastor
+## Juan 10:22-30: dedicación y voz del Pastor #yojanan_10_22-30
 
 Juan 10:22 sitúa a Yehoshua en Jerusalén durante la fiesta de la dedicación, en invierno. Los interlocutores preguntan si él es el Mesías; Yehoshua responde remitiendo a sus obras y a la incapacidad de creer de quienes no son sus ovejas (#yojanan_10_23-26). La escena no convierte la fecha en mecanismo de salvación. El centro argumental son las obras, la voz, el seguimiento y la mano que guarda a las ovejas.
 

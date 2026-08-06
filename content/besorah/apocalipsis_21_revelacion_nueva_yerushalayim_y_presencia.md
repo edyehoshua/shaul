@@ -50,7 +50,7 @@ Esta nota organiza la enseñanza correspondiente a la parte 29 de la serie del h
 | #revelation_21_22-23 | **והיכל לא־ראיתי בה כי יהוה אלהים צבאות הוא והשה היכלה**; **ונרה הוא השה** | No hay templo separado: יהוה y el Cordero son el santuario; el Cordero es la lámpara. |
 | #revelation_21_24-27 | **והגוים ילכו לאורה ומלכי־ארץ מביאים כבודם**; **ולא־יבוא בה כל־טמא... כי אם־הכתובים בספר החיים של־השה** | Las naciones aparecen bajo la luz, pero la entrada se limita a quienes están escritos en el libro de la vida. |
 
-## Del mar que desaparece a la creación renovada: 21:1-8
+## Del mar que desaparece a la creación renovada: 21:1-8 #revelation_21_1-8
 
 Eric comienza relacionando Apocalipsis 21:1 con la escena anterior del lago de fuego. La clase observa que **(θάλασσα)** (*thalassa*, “mar”) puede abarcar mar, lago o una extensión de agua, y propone que aquí el mar representa el lavatorio o la purificación que ya no seguirá produciéndose. La palabra griega normalmente designa un mar o una gran extensión de agua; por tanto, aplicar “mar” a un proceso de purificación es una lectura simbólica de la clase, no una definición léxica. El texto sólo dice que el mar ya no está y no autoriza por sí solo a afirmar que no habrá agua en el mundo venidero.
 
@@ -58,19 +58,19 @@ La visión continúa con el descenso de la ciudad y con la voz que anuncia que e
 
 En 21:4-5 la clase relaciona “hacer nuevas todas las cosas” con renovación permanente: vida que no deja de renovarse sin que la persona deje de ser quien es. El verbo griego **(ποιέω)** (*poieō*, “hacer”) con **(καινός)** (*kainos*, “nuevo” en sentido de novedad o cualidad) sostiene la afirmación de una acción renovadora; no prueba una teoría biológica sobre ciclos celulares. El texto sí afirma que muerte, duelo, clamor y dolor ya no serán, y que las palabras son fieles y verdaderas. La observación de Eric se conserva como una aplicación explicativa, no como una conclusión médica.
 
-## La esposa, la morada y el cumplimiento profético: 21:9-14
+## La esposa, la morada y el cumplimiento profético: 21:9-14 #revelation_21_9-14
 
 El mensajero muestra “la esposa, la mujer del Cordero” y enseña la ciudad santa que desciende (#revelation_21_9-10). Eric conecta esta esposa con la de las bodas del Cordero y con la comunidad, y lee el descenso como cumplimiento de lo anunciado en la Torá y los profetas. **(νύμφη)** (*nymphē*, “novia” o “esposa”) y **(πόλις)** (*polis*, “ciudad”) no son sinónimos léxicos; son dos imágenes que el relato coloca en relación. La equivalencia “esposa = iglesia” es una interpretación teológica de la clase, apoyada por la alternancia de imágenes, no una traducción automática.
 
 La ciudad tiene doce puertas con los nombres de las doce tribus de Israel (#revelation_21_12-13) y doce fundamentos con los nombres de los enviados del Cordero (#revelation_21_14). Eric usa estos datos para insistir en la continuidad de la promesa y en que la visión no borra a Israel. Esa observación respeta los nombres explícitos del pasaje. La relación exacta entre cada puerta, cada tribu y la identidad histórica de cada enviado requiere más cotejo; no se debe llenar ese silencio con una lista inventada.
 
-## Medidas, santuario y luz: 21:15-23
+## Medidas, santuario y luz: 21:15-23 #revelation_21_15-23
 
 Las medidas de la ciudad son iguales en largo, ancho y altura, y la muralla se mide con medida humana y angélica (#revelation_21_15-17). Eric llama la atención sobre la escala y sobre el carácter visionario de la descripción. La nota no convierte los doce mil estadios ni las ciento cuarenta y cuatro codos en una predicción cartográfica sin verificar los sistemas antiguos de medida. La forma hebrea **(מידה)** (*midah*, “medida”) en el texto local permite seguir el acto de medir, pero el Delitzsch es una traducción hebrea del texto griego y no resuelve por sí mismo la simbología numérica.
 
 La ausencia de templo separado es decisiva: “יהוה אלהים צבאות” y el Cordero son su santuario (#revelation_21_22). Eric lo enlaza con el tema del templo mayor y con la presencia directa. **(ναός)** (*naos*) designa el santuario o espacio interior del templo; su ausencia en la ciudad no significa ausencia de culto, sino que el texto identifica la presencia divina y del Cordero como el lugar santo. La ciudad tampoco necesita sol ni luna porque la gloria de Elohim la ilumina y el Cordero es su lámpara (#revelation_21_23). **(δόξα)** (*doxa*, “gloria”) y **(λύχνος)** (*lychnos*, “lámpara”) describen fuente de honor y luz en el argumento; la identificación del Cordero con la lámpara es explícita, mientras que sus consecuencias cosmológicas deben mantenerse en el nivel de la visión.
 
-## Naciones, pureza y esperanza abierta: 21:24-27
+## Naciones, pureza y esperanza abierta: 21:24-27 #revelation_21_24-27
 
 Eric destaca la pregunta difícil de qué hacen las naciones en la ciudad. La clase lee **(ἔθνη)** (*ethnē*, “naciones” o “pueblos”) como gentiles y observa que caminan a la luz y traen su gloria, mientras que nada impuro entra (#revelation_21_24-27). El pasaje sí conserva ambas afirmaciones; no permite resolver sin más si se trata de pueblos ya dentro, de quienes llegan a la ciudad o de una imagen de alcance universal. La nota deja pendiente cualquier sistema escatológico construido sólo a partir de esta frase.
 

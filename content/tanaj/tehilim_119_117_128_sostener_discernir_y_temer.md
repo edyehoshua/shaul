@@ -34,7 +34,7 @@ Esta nota desarrolla la clase pública de Eric sobre Tehilim 119:117-128 y contr
 | #tehilim_119_121-124 | **עשיתי משפט וצדק בל תניחני לעשקי / ערב עבדך לטוב אל יעשקני זדים / עיני כלו לישועתך ולאמרת צדקך / עשה עם עבדך כחסדך וחקיך למדני**              | El siervo pide protección, salvación y enseñanza conforme a la bondad.            |
 | #tehilim_119_125-128 | **עבדך אני הבינני ואדעה עדתיך / עת לעשות ליהוה הפרו תורתך / על כן אהבתי מצותיך מזהב ומפז / על כן כל פקודי כל ישרתי כל ארח שקר שנאתי**          | Identidad de siervo, discernimiento, urgencia y preferencia por los mandamientos. |
 
-## 119:117-120: sostén, calzada y escoria
+## 119:117-120: sostén, calzada y escoria #tehilim_119_117-120
 
 El v. 117 abre con **סעדני**, “sosténme”, seguido de “y seré salvo” y “miraré tus estatutos continuamente”. Eric corrige la reacción de quien, por haber padecido, decide abandonar el camino: haber sido rescatado y recibir soporte de יהוה tiene como finalidad seguir perseverando y guardando los testimonios. El hebreo sostiene esa lectura: el auxilio pedido está unido a la continuidad de la mirada y la práctica, no a una promesa de ausencia de sufrimiento.
 
@@ -42,7 +42,7 @@ En el v. 118, **סלית** es una forma verbal de la raíz de apartar o desechar
 
 El v. 119 usa **סגים**, “escorias”, para describir a los impíos de la tierra. Eric conecta la escoria con el residuo que se separa al fundir metal precioso y después distingue esa imagen del trato que el mundo da a los fieles. La comparación de 1 Corintios 4:13 aparece en la clase como conexión apostólica: puede iluminar la experiencia de rechazo, pero no debe confundirse con el referente inmediato del salmo. El v. 120 devuelve el foco al interior: la carne se eriza por el temor y el orante teme los juicios. Eric lo describe como respeto profundo y reconocimiento de los procedimientos de יהוה, no como pánico ante los perseguidores.
 
-## 119:121-128: el siervo aprende a discernir
+## 119:121-128: el siervo aprende a discernir #tehilim_119_121-128
 
 En los vv. 121-122, el orante afirma haber hecho justicia y pide no ser abandonado al opresor; luego solicita que יהוה garantice el bien de su siervo frente a los soberbios. La afirmación no convierte al orante en impecable: establece el ámbito de su conducta y pide protección para continuar en él. En los vv. 123-124, los ojos se consumen esperando la salvación y la palabra justa, y el siervo pide que יהוה actúe con bondad y le enseñe sus estatutos. Eric relaciona esta espera con una esperanza que no renuncia, aunque la fuerza se desgaste.
 

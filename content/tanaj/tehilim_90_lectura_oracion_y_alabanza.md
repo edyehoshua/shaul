@@ -51,5 +51,5 @@ La lectura de Tehilim 90 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap. 90» — <https://www.youtube.com/watch?v=AN3z1oEaXjE> — source_id: `youtube:AN3z1oEaXjE`.
+- «Tehilim/Himnos/Salmo Cap. 90» — <https://www.youtube.com/watch?v=AN3z1oEaXjE> — `source_id`: `youtube:AN3z1oEaXjE`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

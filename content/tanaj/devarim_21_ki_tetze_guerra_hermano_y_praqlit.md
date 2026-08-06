@@ -83,7 +83,7 @@ En 21:10–14 la guerra tampoco convierte a la cautiva en botín disponible sin 
 
 Por eso el capítulo avanza desde sangre anónima y cautividad hasta herencia, disciplina y cadáver expuesto, y en cada caso impone un freno: investigar, esperar, no torcer el derecho, corregir públicamente y enterrar antes de la noche. **(לא תלין)**, _lo talin_, «no pasarás la noche / no dejarás pernoctar», tiene equivalencia **exacta** en la prohibición inmediata; su fuerza contextual es que incluso un ajusticiado no debe quedar convertido en espectáculo indefinido. La analogía de Eric entre mitzvá y defensor gana aquí un fundamento textual prudente: no porque cada mandamiento sea literalmente un abogado, sino porque las disposiciones interrumpen cadenas previsibles de daño.
 
-## Puente de la clase: no esconderse del hermano y el “artículo” de 22:5
+## Puente de la clase: no esconderse del hermano y el “artículo” de 22:5 #devarim_22_5
 
 Para explicar el espíritu de Ki tetzé, Eric se mueve al inicio de Devarim 22: «No verás el buey de tu hermano o su cordero extraviados y te ocultarás de ellos; devolviendo los devolverás a tu hermano» (#devarim_22_1). El verbo **(התעלם)**, _hit'alem_, ocultarse / disimular, se repite como antítesis de la solidaridad. Lo perdido se guarda en casa hasta que el hermano lo busque; igual con asno, prenda y “toda pérdida” (#devarim_22_2-3). Si el animal cayó en el camino, no te escondes: lo levantas con él (#devarim_22_4).
 
@@ -156,7 +156,7 @@ Finalmente, el límite del colgado dice **לא תלין נבלתו על העץ**
 - [ ] Documentar usos de _praqlit_/_prqlit_ en fuentes judías y su relación con _orekh din_ u otras figuras de litigio.
 - [ ] Cotejar recepciones clásicas de #devarim_22_5 (Sifre, Rashi, etc.) junto a la lectura contextual de guerra/objetos.
 
-## El hermano no es una abstracción: devolver y levantar — Dt 22:1-4
+## El hermano no es una abstracción: devolver y levantar — Dt 22:1-4 #devarim_22_1-4
 
 La observación de Eric sobre no esconderse del hermano necesita conservar los verbos concretos de la unidad que la clase usa como puente. El OE dice **לא תראה את שור אחיך או את שיו נדחים והתעלמת מהם השב תשיבם לאחיך**, y el TTH: «No verás el buey de tu hermano o su oveja extraviados y te ocultarás de ellos; devolver, los devolverás a tu hermano». **(אחיך)**, _ajija_, es «tu hermano»; en este contexto no es una metáfora genérica de humanidad, sino la relación de responsabilidad entre miembros de la comunidad del pacto. «Prójimo universal» sería una ampliación pedagógica, no la equivalencia exacta de la forma.
 

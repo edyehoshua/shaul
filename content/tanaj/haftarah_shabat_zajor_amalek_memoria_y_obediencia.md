@@ -55,7 +55,7 @@ Esta nota organiza la clase **Haftarah de Shabat Zajor (2018): Tener presente la
 | #shemuel1_15_9     | ויחמל שאול והעם על אגג ועל מיטב הצאן והבקר ... ולא אבו החרימם                                      | Pero consideró inocente Shaúl y el pueblo a Agag, y a lo mejor del rebaño... y no quisieron hacerlos prohibidos                                | El verbo de “compasión/consideración” marca la ruptura.                         |
 | #shemuel1_15_22-23 | החפץ ליהוה בעלות וזבחים כשמע בקול יהוה ... כי חטאת קסם מרי ... יען מאסת את דבר יהוה וימאסך ממלך    | ¿Hay deleite para יהוה en ofrendas... como escuchar a la voz de יהוה? ... Porque despreciaste la palabra de יהוה, Él te despreciará de ser rey | El sacrificio no cubre la desobediencia; la monarquía queda rota.               |
 
-## Devarim 25:17-19: זכור como práctica, no como destello
+## Devarim 25:17-19: זכור como práctica, no como destello #devarim_25_17-19
 
 Eric insiste en que **(זכור)** no equivale a “acuérdate cuando se te ocurra”. Lo acerca al recuerdo del Shabat: una memoria que se sostiene con prácticas cotidianas, no con un pensamiento casual. El texto local sostiene al menos la fuerza imperativa: “recuerda lo que te hizo Amalek” y, al final, “no olvides” (#devarim_25_17.19). La clase añade que esta memoria debe ser programática y constante; eso es una lectura pedagógica legible desde el paralelismo con otros mandatos de memoria, pero no hay que convertir cada detalle homilético en una definición léxica cerrada.
 

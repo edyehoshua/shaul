@@ -45,7 +45,7 @@ Esta nota sigue Bamidbar 22 en orden. Conserva observaciones de Eric en **Parash
 | #bamidbar_22_22    | **ויחר אף אלהים כי הולך הוא ויתיצב מלאך יהוה בדרך לשטן לו**                                                     | El enojo divino cuestiona el camino, no sólo las palabras pronunciadas.                        |
 | #bamidbar_22_31-35 | **ויגל יהוה את עיני בלעם וירא את מלאך יהוה נצב בדרך וחרבו שלפה בידו** … **ואפס את הדבר אשר אדבר אליך אתו תדבר** | La visión y el mandato devuelven al profeta a su lugar de siervo.                              |
 
-## Un pueblo temido antes de ser oído: 22:1-14
+## Un pueblo temido antes de ser oído: 22:1-14 #bamidbar_22_1-14
 
 Israel acampa en las estepas de Moab, “al otro lado del Jordán, frente a Jericó”. Eric recalca el mapa: el pueblo aún no ha cruzado el río, pero se aproxima a la tierra prometida. El texto no presenta primero una agresión de Israel contra Moab; presenta lo que Balaq **ve** y el miedo que esa visión provoca. **עם** (_am_) significa pueblo, y **רב** (_rav_) significa numeroso o grande; la escena nace de una evaluación política, no de una revelación sobre la intención moral de Israel.
 
@@ -55,19 +55,19 @@ Balaq envía mensajeros a Bilam para que diga **ארה** (_'arah_), “maldecir�
 
 Eric corrige además la confusión de nombres: בלק es **Balaq**, el rey; בלעם es **Bilam**, el hombre al que se consulta. La observación filológica sobre la transliteración es útil para no fusionar personajes, aunque la etimología exacta de los nombres queda abierta. En 22:8 Bilam dice que responderá conforme a lo que יהוה le hable. El relato valida ese límite, pero todavía no absuelve sus motivaciones.
 
-## Plata, oro y el límite de la boca: 22:15-21
+## Plata, oro y el límite de la boca: 22:15-21 #bamidbar_22_15-21
 
 La segunda delegación aumenta la dignidad y la recompensa. Bilam responde: aunque Balaq le diera una casa llena de plata y oro, no podría hacer “pequeña o grande” contra la boca de יהוה. Esta afirmación es textual y central. **פי יהוה** (_pi יהוה_), “la boca de יהוה”, es una imagen de autoridad comunicada; “palabra de יהוה” es una equivalencia correcta en efecto, pero pierde la metáfora corporal de la boca.
 
 La tensión aparece en el movimiento posterior. Bilam ya recibió una prohibición, pero vuelve a consultar y luego ensilla su asna para ir. El narrador no permite que una frase ortodoxa oculte la dirección del deseo. Eric titula la enseñanza “el lucro y la concupiscencia”: como diagnóstico pastoral es una inferencia coherente con la secuencia y con la censura posterior de la Escritura, aunque Bamidbar 22 todavía desarrolla el motivo mediante acciones y no mediante una confesión psicológica exhaustiva.
 
-## El camino impedido y el asna que ve: 22:22-35
+## El camino impedido y el asna que ve: 22:22-35 #bamidbar_22_22-35
 
 El versículo 22 dice algo difícil y decisivo: “se encendió el enojo de Dios porque él iba”. Aunque el permiso del versículo 20 había dicho “ve con ellos”, la narración obliga a distinguir permiso de aprobación. El **מלאך יהוה** (_malakh יהוה_), mensajero de יהוה, se coloca como **לשטן** (_lesatan_), “como adversario/obstáculo”. “Satanás” como nombre propio sería una lectura posterior y más estrecha; aquí la equivalencia normal es “adversario” o “el que se opone”.
 
 Tres veces el asna ve al mensajero y tres veces Bilam la golpea. La repetición no es decorativa: el vidente resulta más ciego que el animal. Cuando יהוה descubre sus ojos, Bilam ve la espada y reconoce: **חטאתי** (_jatati_), “he pecado”. Pero el arrepentimiento no consiste sólo en admitir culpa; el mensajero le ordena hablar únicamente lo que se le diga. La autoridad profética queda limitada por la escucha.
 
-## Palabra recibida, no mercancía: 22:36-41
+## Palabra recibida, no mercancía: 22:36-41 #bamidbar_22_36-41
 
 Balaq sale al encuentro y reprocha a Bilam no haber acudido antes. Bilam responde que ahora puede hablar, pero no garantiza el resultado. La escena conserva la tesis de la clase: el don no es propiedad comercial del portador. La palabra puede ser anunciada por un hombre atraído por honor y recompensa, pero no queda sometida a él. El capítulo termina en Bamot-Baal, desde donde Balaq muestra sólo el extremo del pueblo; el próximo capítulo mostrará que cambiar el ángulo no cambia la palabra de יהוה.
 
@@ -114,7 +114,7 @@ El capítulo todavía muestra una negociación ritual. Balaq sacrifica bueyes y 
 
 Este cierre evalúa con sobriedad el énfasis de Eric sobre lucro y concupiscencia. El texto no ofrece un monólogo que permita reconstruir toda la psicología de Bilam, pero sí mantiene tres hechos en secuencia: Balaq ofrece honor, el camino de Bilam provoca el enojo divino y la palabra final queda fuera del control de ambos. La mirada parcial de Balaq tampoco cambia el objeto de la promesa. La escena prepara Bamidbar 23: el escenario puede ser escogido por el rey, pero la bendición o maldición no se produce por comprar al mensajero ni por recortar la vista.
 
-## El permiso no convierte el deseo en mandato: 22:7-21
+## El permiso no convierte el deseo en mandato: 22:7-21 #bamidbar_22_7-21
 
 La primera delegación llega con **קסמים**, _qesamim_, «adivinaciones» o prácticas de sortilegio (#bamidbar_22_7). El sustantivo procede de **קסם**, _qesem_, y su sentido normal pertenece al campo de la adivinación; aquí identifica el marco en el que los ancianos de Moab y Midian buscan una palabra eficaz contra Israel. «Ministerio profético» sería una equivalencia inexacta para esta forma. Eric presenta el encargo como intento de comprar poder espiritual; la recompensa y la petición de maldecir sostienen esa evaluación pastoral, aunque el término por sí solo no describe toda la intención de los delegados.
 

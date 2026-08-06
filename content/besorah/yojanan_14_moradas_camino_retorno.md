@@ -125,5 +125,5 @@ Yojanán 14:1-6 responde a la inquietud de los discípulos con una presencia pro
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=c8YqHIe-IhM> — source_id: `youtube:c8YqHIe-IhM`.
+- Video: <https://www.youtube.com/watch?v=c8YqHIe-IhM> — `source_id`: `youtube:c8YqHIe-IhM`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

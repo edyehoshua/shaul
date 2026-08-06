@@ -108,5 +108,5 @@ La clase también vincula ese marco con #qolasim_2_9 e #ivrim_2_5. Tales asociac
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=9Xqwsg0WF14> — source_id: `youtube:9Xqwsg0WF14`.
+- Video: <https://www.youtube.com/watch?v=9Xqwsg0WF14> — `source_id`: `youtube:9Xqwsg0WF14`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

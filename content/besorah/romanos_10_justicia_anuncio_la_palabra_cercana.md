@@ -44,7 +44,7 @@ Esta nota consolida dos sesiones públicas. `youtube:zLynBpmjJr0` presenta la pr
 
 El corpus conserva en #romanos_10_1-4: **אֶחָי חֵפֶץ לְבָבִי וּתְפִלָּתִי לֵאלׂהִים בְּעַד יִשְׂרָאֵל אֲשֶׁר יִוָּשֵׁעוּ׃ ... כִּי הַמָּשִׁיחַ סוֹף הַתּוֹרָה לִצְדָקָה לְכָל־הַמַּאֲמִין בּוֹ׃**. En #romanos_10_8-13 lee: **קָרוֹב אֵלֶיךָ הַדָּבָר בְּפִיךָ וּבִלְבָבֶךָ ... כִּי אִם־בְּפִיךָ תוֹדֶה שֶׁיֵּשׁוּעַ הוּא הָאָדוֹן וְתַאֲמִין בִּלְבָבְךָ שֶׁהָאֱלׂהִים הֱעִירוֹ מִן־הַמֵּתִים תִּוָּשֵׁעַ׃ ... כִּי כָּל־אֲשֶׁר יִקְרָא בְּשֵׁם יְהוָֹה יִוָּשֵׁעַ׃**. Finalmente, #romanos_10_14-17 conserva la cadena entre anuncio, escucha y emunah, y 10:20-21 conserva la tensión entre quienes encuentran y un pueblo que resiste.
 
-## Romanos 10:1-4: celo, justicia y meta de la Torah
+## Romanos 10:1-4: celo, justicia y meta de la Torah #romanos_10_1-4
 
 Pablo no empieza con desprecio, sino con deseo y oración: quiere que Israel sea salvo. Reconoce un celo real por Elohim, pero no según conocimiento. El problema no es la intensidad religiosa en sí misma, sino que algunos procuran establecer su propia justicia y no se someten a la justicia divina. Por eso el diagnóstico no equivale a una condena indiscriminada de toda Torah o de todo celo israelita.
 
@@ -52,7 +52,7 @@ La sesión `youtube:zLynBpmjJr0` formula la pregunta: «¿El fin de la ley es Cr
 
 **(τέλος)**, _telos_, significa fin, resultado, culminación o meta. «Fin» es una traducción **aproximada y pedagógica**: la forma sola no decide entre terminación, finalidad, resultado o culminación. Romanos 10:4 sí relaciona al Mesías con la Torah «para justicia a todo el que cree», pero sería **inferencial e ilegítimo** convertir un único matiz de _telos_ en una conclusión exhaustiva sobre toda la carta. **תורה**, _torah_, significa instrucción, enseñanza o Torah; aquí participa en el argumento sobre justicia y no equivale automáticamente a legalismo.
 
-## Romanos 10:5-8: la palabra cercana y la obra ya realizada
+## Romanos 10:5-8: la palabra cercana y la obra ya realizada #romanos_10_5-8
 
 Pablo cita a Mosheh para poner en contraste la justicia asociada con «hacer» y la justicia de la emunah que no exige subir al cielo ni descender al abismo para traer al Mesías. Las preguntas retóricas no ofrecen una geografía detallada de la salvación. Niegan que una hazaña humana pueda producir o completar la obra de Elohim. La palabra está cerca para ser anunciada, recibida y respondida.
 
@@ -60,7 +60,7 @@ Pablo cita a Mosheh para poner en contraste la justicia asociada con «hacer» y
 
 **(ῥῆμα)**, _rhēma_, significa palabra, declaración o mensaje pronunciado. En 10:8 nombra el mensaje de la emunah que está cerca y se anuncia. La relación pedagógica con **דבר**, _davar_, «palabra, asunto o declaración», es **aproximada**, no una equivalencia etimológica ni una razón para imponer el campo hebreo sobre el griego. La observación de Eric de que la fidelidad no nace de un sonido vacío recibe apoyo **textual cualificado**: «boca» y «corazón» nombran una respuesta al mensaje, no una vibración con poder autónomo.
 
-## Romanos 10:9-13: confesar, creer e invocar
+## Romanos 10:9-13: confesar, creer e invocar #romanos_10_9-13
 
 La boca confiesa que Yehoshua es el Señor y el corazón cree que Elohim lo levantó de los muertos. El texto no presenta una fórmula vocal separada de la confianza ni una confianza sin contenido público. Después amplía la promesa: no hay diferencia de acceso entre judío y griego, porque hay un mismo Señor rico para todos los que lo invocan.
 
@@ -72,7 +72,7 @@ Eric pregunta quiénes son «los que invocan» y relaciona Romanos 10:13 con el 
 
 La iniciativa de Elohim aparece en la promesa y en el llamado, pero la respuesta humana también está en el texto: confesar, creer e invocar. Por eso sería **ilegítimo** leer el pasaje como autosalvación por pronunciación o como una etiqueta que elimina toda respuesta real.
 
-## Romanos 10:14-17: el anuncio hace posible la respuesta
+## Romanos 10:14-17: el anuncio hace posible la respuesta #romanos_10_14-17
 
 Las preguntas de Pablo forman una cadena: ¿cómo invocarán sin creer?, ¿cómo creerán sin oír?, ¿cómo oirán sin quien anuncie?, ¿cómo anunciarán sin ser enviados? Los pies hermosos pertenecen a quienes anuncian paz y buenas noticias. La proclamación es un servicio recibido y encargado, no una propiedad privada del mensajero.
 
@@ -82,7 +82,7 @@ Eric sostiene que la fidelidad no nace del mero sonido, sino de la palabra de El
 
 La cadena tampoco permite fatalismo. El Señor envía, el mensajero anuncia, la persona oye y la respuesta puede obedecer o resistir. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 muestra que no todos obedecieron la buena noticia. La distinción entre oír y obedecer es **textual**, no una teoría añadida desde fuera.
 
-## Romanos 10:18-21: alcance del anuncio y resistencia
+## Romanos 10:18-21: alcance del anuncio y resistencia #romanos_10_18-21
 
 Pablo pregunta si Israel no oyó y responde con el lenguaje del alcance de la voz por toda la tierra. Cita a Mosheh sobre el celo provocado por un pueblo que no era pueblo y a Yesha’yahu sobre quienes encontraron a Elohim sin buscarlo. El cierre describe a Elohim extendiendo sus manos todo el día hacia un pueblo desobediente y rebelde. Así, la iniciativa divina y la responsabilidad humana permanecen juntas.
 

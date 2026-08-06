@@ -43,7 +43,7 @@ Esta nota reúne dos clases de la serie sobre Apocalipsis: la parte 23, que prep
 | #revelation_17_9-14 | **9. זה המובן ובו חכמה שבעת הראשים שבעת הרים המה אשר האשה ישבת עליהם׃ 10. ושבעה מלכים המה חמשה מהם נפלו והאחד ישנו והאחר עוד לא־בא והיה כי יבוא עמד יעמד לזמן מעט׃ 11. והחיה אשר היתה ואיננה והוא שמיני והוא מן־השבעה וירד לאבדון׃ 12. ועשר הקרנים אשר ראית עשרה מלכים הם אשר לא־קבלו מלכות עד־הנה רק לשעה אחת ממשלה כמלכים יקבלו עם־החיה׃ 13. ולהם עצה אחת ואת־כחם ואת־ממשלתם יתנו לחיה׃ 14. המה ילחמו בשה והשה יוכל להם כי הוא אדני האדנים ומלך המלכים ואשר עמו קרואים ובחירים ונאמנים המה׃** | Explica cabezas y cuernos, y culmina con la victoria del Cordero. |
 | #revelation_17_15-18 | **15. ויאמר אלי המים ההם אשר ראית אשר הזונה ישבת עליהם עמים והמנים המה וגוים ולשנות׃ 16. ועשר הקרנים אשר ראית והחיה המה ישנאו את־הזונה ועשוה גלמודה וערמה ואכלו את־בשרה ואתה ישרפו באש׃ 17. כי האלהים נתן בלבם לעשות את־עצתו ולעשות עצה אחת ולתת את־ממשלתם לחיה עד כי־ישלמו דברי האלהים׃ 18. והאשה אשר ראית היא העיר הגדולה אשר־היא גברת ממלכות הארץ׃** | Interpreta las aguas y nombra a la mujer como la ciudad grande. |
 
-## De las copas a la visión de la ramera: 17:1-6
+## De las copas a la visión de la ramera: 17:1-6 #revelation_17_1-6
 
 La segunda clase comienza recordando la séptima copa y la caída de la gran ciudad en Apocalipsis 16. El ángel que lleva las copas introduce ahora «el juicio de la gran ramera» (#revelation_17_1). La repetición de la imagen de la ciudad grande conecta las escenas, pero no permite tratar cada detalle de los capítulos 16 y 17 como si fuera una cronología independiente. El capítulo 17 interpreta la figura: los reyes fornicaron con ella y los habitantes de la tierra se embriagaron con su vino (#revelation_17_2).
 
@@ -53,7 +53,7 @@ La mujer aparece en el desierto sentada sobre una bestia roja, llena de nombres 
 
 El lujo de púrpura, escarlata, oro, piedras y perlas contrasta con la copa llena de abominaciones (#revelation_17_4). Su frente lleva el nombre secreto «Babilonia la grande» (#revelation_17_5), y la mujer está ebria de la sangre de los santos y de los testigos de Yehoshua (#revelation_17_6). La clase insiste en que la ciudad no debe confundirse con sus edificios: el símbolo apunta al poder que gobierna y persigue. El texto sí vincula la mujer con sangre y dominio, pero una identificación histórica exclusiva queda pendiente.
 
-## Bestia, cabezas y cuernos: 17:7-14
+## Bestia, cabezas y cuernos: 17:7-14 #revelation_17_7-14
 
 El ángel promete explicar el misterio de la mujer y de la bestia (#revelation_17_7). Eric relaciona «bestia» con el lenguaje de Daniel y la usa para hablar de imperios o reinos. Esa conexión literaria es importante para el método de la clase; sin embargo, la nota no convierte automáticamente cada bestia de Daniel y Apocalipsis en el mismo referente histórico. El pasaje explica que las siete cabezas son siete montes y también siete reyes (#revelation_17_9-10), mientras que los diez cuernos son diez reyes que reciben autoridad por una hora (#revelation_17_12).
 
@@ -61,7 +61,7 @@ La clase propone que las cabezas y cuernos ayudan a reconstruir una sucesión de
 
 El punto final del bloque no es la supremacía de la bestia. Los reyes se unen contra el Cordero, pero el Cordero vence porque es Señor de señores y Rey de reyes, junto con los llamados, escogidos y fieles (#revelation_17_14). La lectura de Eric conserva una advertencia contra la apostasía y el abandono de los mandamientos; la nota la vincula con el contraste explícito entre la alianza de la bestia y la fidelidad del Cordero, sin afirmar que el versículo defina una lista moderna de grupos culpables.
 
-## Aguas, odio y caída de Babilonia: 17:15-18
+## Aguas, odio y caída de Babilonia: 17:15-18 #revelation_17_15-18
 
 El ángel interpreta las aguas como pueblos, multitudes, naciones y lenguas (#revelation_17_15). La explicación interna impide reducir «muchas aguas» a una geografía literal. Después ocurre una inversión: los diez cuernos y la bestia odian a la ramera, la dejan desnuda, comen su carne y la queman con fuego (#revelation_17_16). Eric destaca que el sistema que sostuvo a la mujer termina participando en su destrucción. Esa observación sigue el orden narrativo y muestra que el poder no es una alianza estable; el texto no explica, sin embargo, qué acontecimiento histórico concreto cumple cada acción.
 

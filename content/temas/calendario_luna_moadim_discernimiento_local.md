@@ -43,7 +43,7 @@ Esta nota organiza la transmisión pública «Discussion about the Hebrew calend
 | #bemidbar_10_10 | **וביום שמחתכם ובמועדיכם ובראשי חדשיכם ותקעתם בחצצרת על עלתיכם ועל זבחי שלמיכם והיו לכם לזכרון לפני אלהיכם אני יהוה אלהיכם** | Los moadim y comienzos de mes se integran en memoria cultual ante יהוה. |
 | #tehilim_104_19 | **עשה ירח למועדים שמש ידע מבואו**                                                                                            | El salmo asocia la luna con los tiempos señalados.                      |
 
-## Bereshit 1:14: señales, tiempos y límites de la inferencia
+## Bereshit 1:14: señales, tiempos y límites de la inferencia #bereshit_1_14
 
 La clase empieza con un problema comunitario: no usar las diferencias de calendario para criticarse. Eric afirma que la luna visible ofrece para él una razón bíblica de peso y, al mostrar mediciones para marzo de 2026, observa que una misma fase no aparece con la misma altura o facilidad en todas las ciudades. Esa observación corrige una expectativa irreal de que toda comunidad pueda verificar idénticamente una señal local.
 
@@ -57,7 +57,7 @@ La Torá llama **(מועדי יהוה)**, _moadei YHWH_, a las citas de יהוה
 
 #bemidbar_10_10 añade **(בראשי חדשיכם)**, _berashei jodshejem_, «en los comienzos de vuestros meses». **(חדש)**, _jodesh_, nombra el «mes» y está relacionado con la novedad; «luna nueva» puede funcionar como explicación **pedagógica** en el uso calendárico, pero no debe borrar que la frase habla formalmente de comienzos de mes. Las trompetas hacen de esos momentos un **(זכרון)**, _zikaron_, «memoria» ante Elohim. La fuerza contextual es cultual: el tiempo ordenado llama a recordar a יהוה. Ni el pasaje ni la transmisión autorizan convertir una dificultad técnica en acusación moral automática.
 
-## Tehilim 104:19: la luna como servidor, no como juez de los hermanos
+## Tehilim 104:19: la luna como servidor, no como juez de los hermanos #tehilim_104_19
 
 La clase ilustra su punto con casos concretos. Para Buenos Aires, Eric calcula que la visibilidad tardía vuelve poco práctico esperar a ver la luna y recomienda el calendario rabínico; para otras zonas considera viable una observación posterior. También pide que no se fuerce una homogeneidad mundial y que la incertidumbre no produzca temor. Es una observación pastoral concreta de la sesión, no un nuevo mandamiento bíblico.
 

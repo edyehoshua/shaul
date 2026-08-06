@@ -54,7 +54,7 @@ La exposición del hermano Eric de Jesús Rodríguez Mendoza guía esta nota. Se
 | **(תקום)** | _taqum_         | te levantarás                                                             | En v. 14 anuncia la intervención de יהוה para compadecer a Sión. Eric enlaza el verbo con la resurrección y con el «levantamiento» de Yehoshua; ese enlace es una lectura mesiánica canónica, no una equivalencia léxica automática.                            | Pedagógica   |
 | **(ערער)** | _arar_          | desamparado, privado de recursos; también nombre de planta según contexto | En v. 18 caracteriza la oración atendida. Eric lo presenta como «zona desolada»; el matiz de desamparo conviene al paralelismo, mientras la identificación botánica no es necesaria para la tesis.                                                              | Aproximada   |
 
-## El afligido ora desde el cuerpo: Tehilim 102:1-12
+## El afligido ora desde el cuerpo: Tehilim 102:1-12 #tehilim_102_1-12
 
 La clase comienza en el encabezado y se niega a reducir **עני** a «pobre» en sentido de dinero. Su observación es importante: el poema presenta una persona afectada, despojada y capaz de derramar su **שיחו** ante יהוה. El texto local sostiene una oración de extrema vulnerabilidad, aunque no autoriza a diagnosticar psicológicamente al hablante ni a fijar una biografía que el salmo no ofrece.
 
@@ -62,7 +62,7 @@ Eric ordena las imágenes de vv. 4-10 como un cuadro de consumición: días en h
 
 La clase conecta la flaqueza corporal con #tehilim_22_16-18 y lee ambas escenas en relación con el sufrimiento de Yehoshua. La comparación es temáticamente comprensible: Tehilim 102:6 dice que el hueso se pega a la carne, y Tehilim 22 contiene el lenguaje de huesos expuestos. Sin embargo, la nota no convierte la semejanza de imágenes en una cita explícita entre salmos. La observación conserva su peso cuando se presenta como una lectura mesiánica que reúne textos, no como una glosa neutral del hebreo.
 
-## De la soledad al juicio y a la compasión de Sión: Tehilim 102:11-23
+## De la soledad al juicio y a la compasión de Sión: Tehilim 102:11-23 #tehilim_102_11-23
 
 En vv. 11-12 el hablante atribuye su fragilidad a **זעם** y **קצף**, y describe sus días como sombra inclinada. Eric explica estos términos no como arrebato caprichoso, sino como la respuesta adversa de un juicio. El salmo sí nombra indignación y furor, y contrapone inmediatamente esa brevedad a «tú, יהוה, para siempre permaneces» (v. 13). La construcción de una corte celestial y de un procedimiento público pertenece a la arquitectura doctrinal de la clase; debe mantenerse atribuida a ella y no presentarse como el significado exclusivo de cada palabra.
 
@@ -70,7 +70,7 @@ La exposición ve un punto de giro en «tú te levantarás y tendrás compasión
 
 El recorrido llega en orden a vv. 20-23: יהוה mira desde su santuario, oye al preso, libera a los destinados a muerte, hace contar su Nombre en Sión y reúne pueblos y reinos para servirle. La clase subraya la amplitud universal de esos versículos. Esa amplitud está en el poema; la afirmación de que el «pueblo creado» incluye exactamente a un remanente y a gentiles incorporados es una elaboración teológica que debe leerse junto con los demás textos que Eric invoca, no como una definición encerrada en **עם נברא**.
 
-## Fuerza acortada y Creador permanente: Tehilim 102:24-29
+## Fuerza acortada y Creador permanente: Tehilim 102:24-29 #tehilim_102_24-29
 
 Eric divide la composición en tres movimientos: la aflicción del **עני** (vv. 1-12), la misericordia y la alabanza por Sión (vv. 13-23), y el retorno a la fuerza disminuida junto con la confesión de la permanencia divina (vv. 24-29). Esa división sigue los cambios visibles de voz y tema, aunque los límites literarios siempre admiten discusión. El v. 24 vuelve al «mi fuerza» y «mis días»; el v. 25 pide no ser llevado a la mitad de los días; vv. 26-28 contraponen tierra y cielos mudables con Aquel cuyos años no terminan; v. 29 cierra con los hijos de los siervos establecidos ante él.
 
@@ -106,5 +106,5 @@ La lectura ordenada del salmo evita dos reducciones: no convierte el dolor del *
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 102» — <https://www.youtube.com/watch?v=DnhBhyFDbo8> — source_id: `youtube:DnhBhyFDbo8`.
+- «Tehilim/Himnos/Salmo Cap 102» — <https://www.youtube.com/watch?v=DnhBhyFDbo8> — `source_id`: `youtube:DnhBhyFDbo8`.
 - Esta nota organiza y contrasta la exposición y las transcripciones automáticas; no las presenta como citas literales.

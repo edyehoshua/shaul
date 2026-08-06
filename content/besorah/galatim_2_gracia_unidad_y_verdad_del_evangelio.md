@@ -54,7 +54,7 @@ La nota organiza tres clases públicas que cubren #galatians_2_1-21, con fronter
 | #galatians_2_15-16 | **הן מזרע היהודים אנחנו ולא חטאים מןהגוים׃ אבל מפני שיודעים אנחנו שלאיצדק אדם מתוך מעשי התורה כי אםבאמונת ישוע המשיח**                                 | Judíos de nacimiento y gentiles quedan bajo el mismo criterio: no justificación por obras de la Torah, sino por la fidelidad del Mesías. |
 | #galatians_2_19-21 | **כימתי אני לתורה עלידי התורה למען אחיה לאלהים׃ עםהמשיח נצלבתי ... לא אבטל אתחסד האלהים כי אלו יש צדקה עלידי התורה אך לשוא מת המשיח**                  | La vida unida al Mesías y la gracia de Elohim impiden reconstruir un sistema de mérito que haría vana la muerte del Mesías.              |
 
-## Galatim 2:1-10: Yerushalayim, Tito y la libertad que no se negocia
+## Galatim 2:1-10: Yerushalayim, Tito y la libertad que no se negocia #galatians_2_1-10
 
 La clase que recorre el final de Galatim 1 y la apertura del 2 observa que Shaul no sube de inmediato a consultar «carne y sangre», y que más tarde, tras años de maduración, vuelve a Yerushalayim con Bernabé y Tito «según una revelación» (#galatians_2_1-2). Eric subraya el carácter técnico de los «importantes» o «de reputación»: no son una élite social vacía, sino quienes podían peritar si el evangelio anunciado entre las naciones era coherente. El texto local habla de poner delante de ellos la buena noticia predicada en las naciones, «no sea que corriera o hubiera corrido en vano». Esa lectura de verificación mutua tiene apoyo textual; convertirla en una teoría completa de «sabores» arameos o de peritaje académico moderno queda como ayuda **pedagógica**, no como equivalencia exacta del léxico griego.
 
@@ -64,7 +64,7 @@ En #galatians_2_4-5 aparecen «hermanos falsos» introducidos a escondidas para 
 
 #galatians_2_7-10 cierra la sección con reconocimiento: el mismo Elohim que obró en Kefas hacia la circuncisión obró en Shaul hacia las naciones; las columnas dan la diestra de comunión a Shaul y Bernabé; solo piden acordarse de los pobres. Eric insiste en que la comunión no se compra con un cambio de discurso ni con presión económica sobre el anuncio recibido de gracia. El texto local confirma la diestra y el cuidado de los pobres; las aplicaciones sobre tráfico religioso contemporáneo deben quedar como exhortación, no como exégesis detallada del versículo 10.
 
-## Galatim 2:11-14: la mesa de Antioquía y qué significa «judaizar»
+## Galatim 2:11-14: la mesa de Antioquía y qué significa «judaizar» #galatians_2_11-14
 
 La clase centrada en #galatians_2_11ss lee el enfrentamiento en Antioquía como defensa de la verdad del evangelio en la práctica de la mesa. Antes de llegar algunos «de parte de Yaakov», Kefas comía con los gentiles; cuando llegan, se retrae y se aparta por miedo a los de la circuncisión; su conducta arrastra a otros judíos y hasta a Bernabé (#galatians_2_12-13). Eric destaca la cobardía y la hipocresía: no una disputa abstracta de menú, sino una ruptura de comunión que comunica a los gentiles que su lugar es inferior mientras no se alineen con una identidad vigilada.
 
@@ -74,7 +74,7 @@ En #galatians_2_14 Shaul pregunta: si tú, siendo judío, vives como gentil y no
 
 Eric también advierte que un uso ilegítimo de la Torah es tomar la circuncisión para calificar o descalificar a alguien como salvo, cuando la Escritura presenta la circuncisión como señal de pacto y habla asimismo de circuncidar el corazón. Esa advertencia cuadra con la lógica de Galatim y con el rechazo a Tito circuncidado a la fuerza; no autoriza, sin embargo, borrar la circuncisión del horizonte de Israel ni despreciar la identidad judía de Shaul, Kefas o las columnas.
 
-## Galatim 2:15-21: obras de la Torah, fidelidad del Mesías y gracia no desechada
+## Galatim 2:15-21: obras de la Torah, fidelidad del Mesías y gracia no desechada #galatians_2_15-21
 
 La clase que cierra el capítulo pide leer #galatians_2_15-21 con detenimiento. Shaul habla como judío de nacimiento, «no pecadores de entre los gentiles», y sin embargo afirma saber que el hombre no es justificado por obras de la Torah sino mediante la fidelidad de Yehoshua el Mesías (#galatians_2_15-16). Eric traduce y comenta desde el griego: no será justificada ninguna carne por obras de ley; por el Mesías fuimos «fidelizados» para ser justificados de la fidelidad de Yehoshua. El texto Delitzsch dice **באמונת ישוע המשיח**, _be-emunat Yeshua ha-Mashiach_, «en/por la emunah de Yehoshua el Mesías».
 

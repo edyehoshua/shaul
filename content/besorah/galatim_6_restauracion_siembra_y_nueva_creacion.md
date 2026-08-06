@@ -55,7 +55,7 @@ La nota organiza la clase final del estudio de Gálatas ([La carta a los gálata
 | #galatians_6_14-16 | **חלילה לי מהתהלל בלתי אם בצלוב אדנינו ישוע המשיח ... כי אם־הבריאה החדשה ... שלום ורחמים עליהם ועל־ישראל אשר לאלהים** | Gloria solo en la cruz, nueva creación e Israel de Elohim.                           |
 | #galatians_6_17-18 | **את־חבורות האדון ישוע אני נשא בגויתי ... חסד ישוע המשיח אדנינו יהי עם־רוחכם**                                        | Marcas del Señor en el cuerpo y bendición final de gracia.                           |
 
-## Galatim 6:1-5: restaurar, solidarios y sin crearse autoridad
+## Galatim 6:1-5: restaurar, solidarios y sin crearse autoridad #galatians_6_1-5
 
 #galatians_6_1 abre: hermanos, si alguno fuere sorprendido en alguna falta, vosotros los espirituales restauradlo con espíritu de mansedumbre, mirándote a ti mismo no sea que tú también seas tentado. Eric identifica a los «espirituales» con los nacidos de la promesa que andan en el Ruaj, y advierte que _ruaj_ aquí puede oírse como ánimo e intención de mansedumbre, no solo como título de élite carismática. **(πνευματικοί)** / **אנשי הרוח**, _pneumatikoi_ / _anshei ha-ruaj_, son «los del Ruaj». Exacta como designación comunitaria en el contexto de Galatim 5–6; peligrosa si se vuelve casta.
 
@@ -67,13 +67,13 @@ La nota organiza la clase final del estudio de Gálatas ([La carta a los gálata
 
 #galatians_6_3-5 confronta al que se cree ser algo no siendo nada: se engaña a sí mismo. Eric lo enlaza con #galatians_2_6 —«los que tenían reputación de ser algo»— y con quienes se erigen en autoridad sin estar del lado de la verdad del evangelio, buscando discípulos para gloriarse. Cada uno pruebe su propia obra y tendrá gloria respecto de sí mismo, no en comparación con otro; porque cada uno llevará su propia carga. La clase aplica esto a quien colecciona «seguidores» para lucirse y a quien carga a otros con tradiciones y criterios personales no escritos. El texto sostiene la crítica a la vanagloria comparativa; las aplicaciones a redes contemporáneas de prestigio son ilustración pastoral, no exégesis detallada. Eric añade que la carga propia, en contexto doctrinal, impide imponer al hermano el peso de mis imaginaciones: la escritura gobierna, no el «a mí me parece».
 
-## Galatim 6:6-10: siembra al Ruaj y no cansarse del bien
+## Galatim 6:6-10: siembra al Ruaj y no cansarse del bien #galatians_6_6-10
 
 #galatians_6_6 pide que quien es enseñado en la palabra comparta todo lo bueno con quien le enseña. #galatians_6_7-8 advierte: no os engañéis; de Elohim nadie se burla; lo que el hombre siembre, eso también segará. Quien siembra para su carne, de la carne segará corrupción; quien siembra para el Ruaj, del Ruaj segará vida eterna. Eric lee la siembra como orientación de vida —ego, prestigio, «según la carne» del pacto sin futuro— no como técnica mágica de retribución inmediata. Cita de paso un dicho cercano: «el que aumenta la carne aumenta el gusano»; es **color rabínico de la clase**, no cita de Galatim. El texto es sobrio y escatológico a la vez.
 
 #galatians_6_9-10 exhorta a no cansarnos de hacer el bien, porque a su tiempo segaremos si no desfallecemos; así que, según tengamos oportunidad, hagamos bien a todos, y mayormente a los de la familia de la emunah. Eric recuerda la actitud de no esperar toda la retribución aquí, sino en el mundo venidero: si uno solo trabaja por pago inmediato, se cansa. Esa observación es **pedagógica** y coherente con «a su tiempo»; no niega cuidados ni provisiones presentes. La perseverancia comunitaria cierra la sección ética antes del autógrafo polémico. La clase también contrasta sembrar confianza en la Escritura y en Elohim con sembrar miedo congregacional; el texto manda el bien y la siembra al Ruaj, no el pánico como método.
 
-## Galatim 6:11-18: carne ajena, cruz y nueva creación
+## Galatim 6:11-18: carne ajena, cruz y nueva creación #galatians_6_11-18
 
 #galatians_6_11 señala las letras grandes escritas de propia mano. #galatians_6_12-13 denuncia a quienes quieren agradar en la carne obligando a circuncidarse para no ser perseguidos por la cruz del Mesías; ni ellos mismos guardan la Torah, sino que desean gloriarse en vuestra carne. Eric conecta esta jactancia con la presión de «judaizar» para luego exhibir números y prestigio, y con un brazo persecutorio que gana adeptos por miedo. El texto apoya el motivo de evitar persecución y de gloriarse en la carne circuncidada de otros. Las aplicaciones a movimientos que rehuyen el nombre «cristiano» o monoplizan prestigio son ilustración de la clase.
 

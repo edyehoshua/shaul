@@ -77,7 +77,7 @@ En la parte 16 Eric presenta 12:18–24 como un punto de llegada: la comunidad n
 
 La imagen de Tziyón no borra la reverencia. Los versículos 25–29 todavía llaman a no rechazar al que habla, anuncian una conmoción de lo creado y concluyen con recibir un reino inconmovible y servir a יהוה con reverencia y temor. Por eso el acercamiento es comunitario y celestial, pero no trivializa la santidad ni convierte «Tziyón» en una contraseña política moderna.
 
-## 12:25-29: escuchar, remover lo movible y servir con temor
+## 12:25-29: escuchar, remover lo movible y servir con temor #hebrews_12_25-29
 
 El cierre vuelve a la responsabilidad que acompaña al acercamiento. El texto local advierte: **ראו ואל תמאנו לשמע את המדבר כי אם־המה לא נמלטו אשר מאנו לשמע את המדבר בארץ אף כי־אנחנו אם נסור מעל המדבר מן־השמים׃** (12:25). Eric usa esta transición para corregir una lectura de Tziyón como privilegio sin obediencia: haber llegado a la asamblea celestial no permite rechazar al que habla. **παραιτέομαι** (_paraiteomai_) significa rechazar, excusarse o declinar; su fuerza aquí es una negativa responsable ante la voz divina, no una duda intelectual aislada.
 
@@ -113,8 +113,8 @@ Hebreos 12 sigue un orden reconocible: los testigos llaman a correr, la discipli
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 14: Musar y tojejáh - las maneras de Dios» — https://www.youtube.com/watch?v=ECWv0hSPtD0 — source_id: `youtube:ECWv0hSPtD0`.
-- «La carta a los hebreos parte 15: Sin Qódesh es imposible agradar a 'Elohim» — https://www.youtube.com/watch?v=lx2WEtmi-ic — source_id: `youtube:lx2WEtmi-ic`.
-- «La carta a los hebreos parte 16: La revelación del monte Tziyón» — https://www.youtube.com/watch?v=3_1JFWOgwOY — source_id: `youtube:3_1JFWOgwOY`.
+- «La carta a los hebreos parte 14: Musar y tojejáh - las maneras de Dios» — https://www.youtube.com/watch?v=ECWv0hSPtD0 — `source_id`: `youtube:ECWv0hSPtD0`.
+- «La carta a los hebreos parte 15: Sin Qódesh es imposible agradar a 'Elohim» — https://www.youtube.com/watch?v=lx2WEtmi-ic — `source_id`: `youtube:lx2WEtmi-ic`.
+- «La carta a los hebreos parte 16: La revelación del monte Tziyón» — https://www.youtube.com/watch?v=3_1JFWOgwOY — `source_id`: `youtube:3_1JFWOgwOY`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

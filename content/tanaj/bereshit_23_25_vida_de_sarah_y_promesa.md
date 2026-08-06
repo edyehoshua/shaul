@@ -38,7 +38,7 @@ Bereshit 23–25:18 recorre el duelo de Abraham por Sarah, la adquisición públ
 
 La fuente pública de Eric de Jesús Rodríguez Mendoza se titula «Parashat Jayey Saráh (2016) - 'Almah, Na'arah y Betuláh». El título permite atribuirle el foco en las categorías de joven y doncella dentro de la historia de Rebeca, especialmente en Bereshit 24. No se presenta como cita literal ni se atribuyen a Eric conclusiones que el título no permite verificar. El texto se recorre en orden: Sarah, sepultura, misión del siervo, encuentro, matrimonio, muerte de Abraham y descendencia de Ismael.
 
-## 23:1-20: duelo y sepultura en la tierra
+## 23:1-20: duelo y sepultura en la tierra #genesis_23_1-20
 
 Sarah muere en Qiryat-arba y Abraham hace duelo (#genesis_23_1-2). La primera respuesta no es negar la muerte, sino llorar y buscar un lugar para sepultar. Abraham se describe como forastero y residente entre los hijos de Het (#genesis_23_4), aunque Elohim le había prometido la tierra. La negociación pública por el campo de Efrón termina en una compra documentada de la cueva de Majpelá (#genesis_23_16-20).
 
@@ -46,7 +46,7 @@ Este capítulo da peso material a la promesa. Abraham aún es extranjero en la c
 
 **(קבר)**, _qavar_, significa sepultar o enterrar; en #genesis_23_4-20 su fuerza contextual es una acción de honra y continuidad familiar. «Dar sepultura» es una glosa directa, pero convertir el sepulcro en una prueba automática de cada detalle posterior sobre la tierra sería una inferencia aproximada. El duelo es real, y la fe no elimina el cuidado concreto por los muertos.
 
-## 24:1-27: misión, juramento y providencia
+## 24:1-27: misión, juramento y providencia #genesis_24_1-27
 
 Abraham encarga a su siervo buscar una esposa para Isaac entre su parentela, con la prohibición de llevar a Isaac de regreso a la tierra de la que había salido (#genesis_24_2-8). El encargo protege la continuidad de la promesa: Isaac debe permanecer en la tierra dada, mientras la esposa llega a él. El siervo pregunta, Abraham responde y el juramento fija límites; no es una aventura romántica sin discernimiento.
 
@@ -54,7 +54,7 @@ En el camino, el siervo ora y pide una señal relacionada con agua para él y pa
 
 La forma **(חסד)**, _chesed_, significa bondad leal, misericordia o fidelidad de pacto; en #genesis_24_12 y 24:27 el siervo pide y reconoce la bondad de יהוה hacia Abraham. «Misericordia» es una glosa directa en muchos contextos, mientras «gracia» puede ser aproximada según la traducción. Aquí el término conecta oración, promesa y acción providencial, no una garantía de que toda señal privada tenga autoridad universal.
 
-## 24:28-67: Rebeca, palabras públicas y consentimiento
+## 24:28-67: Rebeca, palabras públicas y consentimiento #genesis_24_28-67
 
 La familia de Rebeca escucha el relato completo del siervo: la promesa a Abraham, la oración, la señal, el encuentro y la bendición (#genesis_24_34-49). Betuel y Labán reconocen que el asunto procede de יהוה, pero el siervo insiste en una respuesta y la familia pregunta a Rebeca (#genesis_24_57). Ella responde «iré» (#genesis_24_58). La narración incluye su consentimiento explícito antes del viaje.
 
@@ -62,7 +62,7 @@ El título de la clase distingue **'almah**, **na'arah** y **betulah**. El texto
 
 Rebeca recibe bendición de su familia, viaja, ve a Isaac y desciende del camello (#genesis_24_60-65). Isaac la toma por mujer, la ama y encuentra consuelo después de la muerte de su madre (#genesis_24_67). El texto no trata el matrimonio solo como mecanismo genealógico: también nombra duelo, amor y consuelo. **(לקח)**, _laqach_, significa tomar, recibir o llevar; en #genesis_24_67 describe que Isaac toma a Rebeca como mujer. «Casarse con» es una traducción contextual y pedagógica; el verbo aislado no define todo el consentimiento ni toda la ceremonia.
 
-## 25:1-18: muerte de Abraham y descendencia
+## 25:1-18: muerte de Abraham y descendencia #genesis_25_1-18
 
 Abraham vuelve a tomar mujer, tiene otros hijos y dispone sus bienes, pero da todo lo que tiene a Isaac (#genesis_25_1-6). La distinción no niega la existencia de los demás hijos; muestra cuál línea recibe la herencia de la promesa en el relato. Abraham muere «en buena vejez» y es sepultado por Isaac e Ismael junto a Sarah (#genesis_25_7-11). La escena reúne a los dos hijos en el sepulcro familiar y evita leer la historia solo como enemistad.
 

@@ -71,7 +71,7 @@ En #iojanan_18_12 aparece también **(χιλίαρχος)**, _chiliarchos_, lite
 
 Eric observa que la mención de Caifá, Pésaj y los poderes religiosos y políticos prepara la lectura de una convergencia de fuerzas contra Yehoshua. Su énfasis final es que la palabra de Caifá —que un hombre muera por el pueblo— cobra un peso que excede la intención política de quien la pronuncia. El texto local conserva la frase y la ubicación narrativa; la explicación de la investidura sacerdotal, la legitimidad familiar de Caifá y las cronologías romanas debe mantenerse como investigación pendiente, no como presupuesto de la tesis.
 
-## Del patio del sacerdote al tribunal: 18:15-32
+## Del patio del sacerdote al tribunal: 18:15-32 #iojanan_18_15-32
 
 Después del consejo de Caifá, el relato cambia de espacio sin abandonar la tensión entre palabra y poder. Shimón Kefa sigue a Yehoshua, pero ante la sierva portera responde: «No soy» (18:17). El texto local vuelve a colocar a Kefa junto al fuego y al frío (18:18), mientras el interrogatorio pregunta por discípulos y enseñanza. La respuesta de Yehoshua es pública: «Yo en todo tiempo he enseñado en la asamblea y en el Hejal, donde en todo tiempo los yehudim se reúnen, y en secreto no he hablado nada» (18:20). La defensa no consiste en una maniobra privada, sino en remitir a quienes oyeron.
 
@@ -79,7 +79,7 @@ En 18:22 un sirviente golpea a Yehoshua por su respuesta. Él no responde con vi
 
 El texto después lleva a Yehoshua desde Caifá a la casa del juicio. Los acusadores no entran «para no impurificarse, para comer el Pésaj» (18:28), pero buscan una sentencia. Pilatos sale y pregunta qué transgresión hay (18:29); ellos responden con una acusación sin presentar todavía el hecho: «Si este no fuera malvado… no lo hubiéramos entregado» (18:30). Cuando declaran que no pueden matar a un hombre (18:31), el narrador explica que así se cumple la palabra de Yehoshua sobre la clase de muerte que iba a morir (18:32). La pureza ritual, el poder político y la muerte anunciada quedan yuxtapuestos por el texto, no resueltos por una teoría externa.
 
-## Rey, verdad y Bar-aba: 18:33-40
+## Rey, verdad y Bar-aba: 18:33-40 #iojanan_18_33-40
 
 Pilatos entra, llama a Yehoshua y pregunta: «¿Tú eres el Rey de los yehudim?» (18:33). Yehoshua devuelve la pregunta: «¿De ti mismo tú dices esto, o te lo han dicho otros acerca de Mí?» (18:34). Pilatos responde desde la distancia política: su pueblo y los jefes de los sacerdotes lo entregaron. La conversación no presenta a Yehoshua como un pretendiente que arma a sus seguidores; cuando declara «Mi reino no es de este olam», explica que, si lo fuera, sus siervos pelearían para impedir la entrega (18:36).
 

@@ -55,7 +55,7 @@ La nota se apoya en la clase pública que cubre #galatians_3_23-4:31 («De escla
 | #galatians_4_12-20 | **היו־נא כמוני ... בני אשר־אני נתון שנית בחבלי לדה עד כי־יוצר בכם המשיח**                         | El tono pastoral: memoria de la primera recepción y dolores de parto por formar al Mesías en ellos. |
 | #galatians_4_21-31 | **שני בנים היו לאברהם ... אלה הן שתי הבריתות ... אנחנו אחי הננו כיצחק בני ההבטחה ... בני החפשיה** | Alegoría de dos alianzas y defensa de la libertad de la promesa.                                    |
 
-## Galatim 3:23–4:7: de la tutela a la adopción
+## Galatim 3:23–4:7: de la tutela a la adopción #galatians_3_23 #galatians_4_7
 
 La clase comienza en #galatians_3_23: antes de venir la emunah estábamos custodiados bajo la Torah, encerrados para la emunah que había de revelarse. La Torah fue tutor hacia el Mesías; ahora, llegada la emunah, ya no estamos bajo el tutor; todos sois hijos de Elohim por la emunah en el Mesías Yehoshua y, si sois del Mesías, simiente de Abraham y herederos (#galatians_3_24-29). Eric resume el movimiento con la fórmula de la clase: de esclavos a herederos. El texto sostiene el paso de custodia a filiación; no describe esa custodia como maldad intrínseca de la Torah.
 
@@ -65,13 +65,13 @@ La clase comienza en #galatians_3_23: antes de venir la emunah estábamos custod
 
 #galatians_4_6-7 continúa: porque sois hijos, Elohim envió a vuestros corazones el Ruaj de su Hijo, que clama «Aba, Padre»; de modo que ya no eres siervo, sino hijo; y si hijo, también heredero por medio del Mesías. **(ἀββᾶ)**, _Abba_, es la forma aramea/familiar de «padre» que la clase acerca a intimidad filial sin trivializarla. La equivalencia «papá» puede ser **pedagógica** en algunos contextos y excesiva en otros; aquí la fuerza es el clamor confiado del hijo, no un sentimentalismo vago.
 
-## Galatim 4:8-20: no volver a lo débil y el dolor pastoral de Shaul
+## Galatim 4:8-20: no volver a lo débil y el dolor pastoral de Shaul #galatians_4_8-20
 
 Eric lee #galatians_4_8-11 como advertencia pastoral urgente. Antes, sin conocer a Elohim, servíais a los que por naturaleza no son elohim; ahora, conocidos por Elohim, ¿cómo volvéis a los elementos débiles y pobres, a los cuales queréis de nuevo esclavizaros? Guardáis días, meses, tiempos y años; temo haber trabajado en vano con vosotros. La clase relaciona esas observancias con presiones identitarias y calendarios usados como mérito o como regreso a servidumbre. El texto sí teme un retorno esclavizante; no ofrece, por sí solo, un tratado completo sobre fiestas de Israel ni autoriza despreciar las moadim de la Torah. Distinguir entre memoria fiel de las convocaciones de יהוה y una vuelta meritoria a «elementos» es tarea de discernimiento que la nota deja abierta.
 
 En #galatians_4_12-20 el tono se vuelve íntimo: sed como yo, pues yo soy como vosotros; recordáis que os anuncié la buena noticia en debilidad de la carne y me recibisteis como a un malaj de Elohim, como al Mesías Yehoshua; ¿dónde está entonces vuestra bienaventuranza? ¿Me he vuelto enemigo por deciros la verdad? Los otros os celan no para bien, sino para apartaros. Hijos míos, por quienes vuelvo a sufrir dolores de parto hasta que el Mesías sea formado en vosotros. Eric destaca la paternidad apostólica y la meta de que el Mesías tome forma en la comunidad. El texto sostiene ese afecto y esa meta; las reconstrucciones biográficas detalladas de la enfermedad de Shaul quedan como trasfondo no cerrado por el versículo.
 
-## Galatim 4:21-31: Agar y Sara sin denigrar
+## Galatim 4:21-31: Agar y Sara sin denigrar #galatians_4_21-31
 
 #galatians_4_21-31 invita a los que quieren estar bajo la Torah a oír la Torah: Abraham tuvo dos hijos, uno de la sierva y otro de la libre; el de la sierva nació según la carne, el de la libre mediante la promesa. Los hechos son alegoría: son dos alianzas, una del monte Sinaí, que engendra para esclavitud y es Agar; Sinaí corresponde a la Yerushalayim actual, que está en esclavitud con sus hijos; pero la Yerushalayim de arriba es libre, y ella es madre de nosotros. Se cita a Isaías sobre la estéril que se alegra; nosotros, como Yitzjak, somos hijos de la promesa. Como entonces el nacido según la carne perseguía al nacido según el Ruaj, así también ahora. La Escritura dice: echa fuera a la sierva y a su hijo, porque no heredará el hijo de la sierva con el hijo de la libre. Así que, hermanos, no somos hijos de la sierva, sino de la libre.
 
