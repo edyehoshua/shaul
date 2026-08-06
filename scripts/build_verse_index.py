@@ -159,6 +159,15 @@ def note_record(path: Path, content_dir: Path) -> tuple[dict[str, Any], list[str
     return note, sorted(set(normalized_references))
 
 
+def iter_note_paths(content_dir: Path) -> list[Path]:
+    """Return authored Markdown notes, excluding hidden app metadata folders."""
+    return [
+        path
+        for path in sorted(content_dir.rglob("*.md"))
+        if not any(part.startswith(".") for part in path.relative_to(content_dir).parts)
+    ]
+
+
 def verse_document(tag: str, notes: list[dict[str, Any]]) -> dict[str, Any]:
     match = VERSE_TAG_RE.fullmatch(tag)
     assert match is not None
@@ -191,7 +200,7 @@ def build_index(
 ) -> tuple[dict[str, dict[str, Any]], dict[str, dict[str, Any]]]:
     by_verse: dict[str, list[dict[str, Any]]] = defaultdict(list)
     by_chapter: dict[str, list[dict[str, Any]]] = defaultdict(list)
-    for path in sorted(content_dir.rglob("*.md")):
+    for path in iter_note_paths(content_dir):
         note, references = note_record(path, content_dir)
         for reference in references:
             if VERSE_TAG_RE.fullmatch(reference):

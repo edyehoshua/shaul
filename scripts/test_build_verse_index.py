@@ -74,6 +74,26 @@ sources: []
             with self.assertRaisesRegex(indexer.FrontmatterError, "invalid descending verse range"):
                 indexer.build_index(content)
 
+    def test_ignores_hidden_application_metadata(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            content = Path(temp) / "content"
+            self.write_note(
+                content,
+                """---
+title: "Visible note"
+references: ["#juan_1_1"]
+sources: []
+---
+""",
+            )
+            hidden = content / ".obsidian" / "plugins" / "README.md"
+            hidden.parent.mkdir(parents=True)
+            hidden.write_text("# Plugin metadata\n", encoding="utf-8")
+
+            verse_index, _ = indexer.build_index(content)
+
+            self.assertEqual(list(verse_index), ["#juan_1_1"])
+
     def test_accepts_prettier_wrapped_flow_list(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             content = Path(temp) / "content"

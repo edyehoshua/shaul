@@ -3,11 +3,12 @@ title: "Firmeza, Torah y reinado"
 description: "1 Reyes 2 abre con la comisión de David a Salomón y la responsabilidad de guardar los caminos de יהוה."
 date: 2026-07-27
 tags: [tanaj, melajim_alef, haftarah]
-references: ["1 Reyes 2:1-12"]
+references: ["#1_reyes_2_1-12"]
 sources:
   - "https://www.youtube.com/watch?v=Sbmr5kDBwWc"
   - "docs/scriptures/oe/json/raw/ikings.json"
 source_ids: ["youtube:Sbmr5kDBwWc"]
+---
 ## Tesis
 
 #1_reyes_2 presenta la última comisión de David a Salomón: ser fuerte, guardar el camino de יהוה y ejercer el reinado bajo la Torah.

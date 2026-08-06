@@ -7,13 +7,14 @@ tags:
   - yeshayahu
   - haftarah
 references:
-  - "Isaías 42:1-25"
-  - "Hechos 13:15"
+  - "#isaias_42_1-25"
+  - "#hechos_13_15"
 sources:
   - "https://www.youtube.com/watch?v=StDmhcuW53g"
   - "docs/scriptures/oe/json/isaiah/42.json"
 source_ids:
   - "youtube:StDmhcuW53g"
+---
 ## Tesis
 
 #isaias_42 presenta al siervo como aquel a quien יהוה sostiene para llevar משפט a las naciones; el texto pide atender primero a su propio lenguaje y contexto profético.

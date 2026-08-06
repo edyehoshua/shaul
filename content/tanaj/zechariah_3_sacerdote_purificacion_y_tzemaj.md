@@ -3,11 +3,12 @@ title: "Sacerdote, purificación y Tzémaj"
 description: "Zacarías 3 muestra a Yehoshúa el sumo sacerdote ante יהוה y anuncia al siervo Tzémaj."
 date: 2026-07-27
 tags: [tanaj, zejaryah, haftarah, janukah]
-references: ["Zacarías 3:1-10"]
+references: ["#zacarias_3_1-10"]
 sources:
   - "https://www.youtube.com/watch?v=_E9RcYtZifA"
   - "docs/scriptures/oe/json/zechariah/3.json"
 source_ids: ["youtube:_E9RcYtZifA"]
+---
 ## Tesis
 
 #zacarias_3 presenta la purificación de Yehoshúa el sumo sacerdote y la promesa del siervo llamado Tzémaj, en un marco de restauración posterior al exilio.

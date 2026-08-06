@@ -3,11 +3,12 @@ title: "Edom, Sion y la justicia de יהוה"
 description: "Abdías confronta la violencia contra el hermano y anuncia liberación en Sion."
 date: 2026-07-27
 tags: [tanaj, obadias, haftarah]
-references: ["Abdías 1:1-21"]
+references: ["#abdias_1_1-21"]
 sources:
   - "https://www.youtube.com/watch?v=mYxHiWxlrjo"
   - "docs/scriptures/oe/json/obadiah/1.json"
 source_ids: ["youtube:mYxHiWxlrjo"]
+---
 ## Tesis
 
 #abdias_1 denuncia la soberbia y violencia de Edom contra su hermano Jacob, y anuncia que en Sion habrá liberación y santidad.
