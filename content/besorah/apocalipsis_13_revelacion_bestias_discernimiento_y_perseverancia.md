@@ -9,14 +9,14 @@ tags:
   - discernimiento
   - yehoshua
 references:
-  - "#revelation_13_1"
-  - "#revelation_13_4"
-  - "#revelation_13_7"
-  - "#revelation_13_10"
-  - "#revelation_13_11"
-  - "#revelation_13_14"
-  - "#revelation_13_17"
-  - "#revelation_13_18"
+  - "#apocalipsis_13_1"
+  - "#apocalipsis_13_4"
+  - "#apocalipsis_13_7"
+  - "#apocalipsis_13_10"
+  - "#apocalipsis_13_11"
+  - "#apocalipsis_13_14"
+  - "#apocalipsis_13_17"
+  - "#apocalipsis_13_18"
 sources:
   - "https://www.youtube.com/watch?v=-utycygmrv4"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -37,16 +37,16 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #revelation_13_1 | **ואהי עמד עלחול הים וארא חיה עלה מןהים ולה עשר קרנים ושבעה ראשים ובקרניה עשרה כתרים ובראשיה שמות גדופים** | La primera bestia surge del mar y concentra cuernos, cabezas y blasfemia. |
-| #revelation_13_4 | **וישתחוו לתנין אשרנתן ממשלה לחיה וישתחוו לחיה ויאמרו מי ידמה לחיה ומי יוכל להלחם אתה** | La admiración por la bestia implica también honrar al dragón que le dio autoridad. |
-| #revelation_13_7 | **וינתן לה לעשות מלחמה עםהקדשים ולנצחם ותנתן לה ממשלה עלכלמשפחה ועם ולשון וגוי** | El poder se dirige contra los santos y alcanza pueblos, lenguas y naciones. |
-| #revelation_13_10 | **המוליך שבי ילך בשבי וההרג בחרב הרג יהרג בחרב בזאת סבלנות ואמונת הקדשים** | El cierre de la primera unidad define la respuesta como paciencia y fidelidad. |
-| #revelation_13_11 | **וארא חיה אחרת עלה מןהאדמה ולה שתי קרנים כקרני השה ומדברת כתנין** | La segunda bestia procede de la tierra, parece un cordero y habla como dragón. |
-| #revelation_13_14 | **ומתעה אתישבי הארץ באותות אשר נתןלה לעשות בפני החיה באמרה אלישבי הארץ לעשות צלם לחיה אשרהכתה מכתחרב ותחי** | Las señales producen engaño y ordenan hacer una semejanza de la bestia herida. |
-| #revelation_13_17 | **ולאיכול איש לקנות או למכר כי אםבהיות עליו תו החיה או שמה אומספר שמה** | La señal, el nombre o el número se relacionan con comprar y vender. |
-| #revelation_13_18 | **בזאת חכמה מי שבינה לו יחשב מספר החיה כי מספר אדם הוא ומספרו שש מאות וששים ושש** | El texto pide sabiduría y entendimiento, no una asociación improvisada. |
+| #apocalipsis_13_1 | **ואהי עמד עלחול הים וארא חיה עלה מןהים ולה עשר קרנים ושבעה ראשים ובקרניה עשרה כתרים ובראשיה שמות גדופים** | La primera bestia surge del mar y concentra cuernos, cabezas y blasfemia. |
+| #apocalipsis_13_4 | **וישתחוו לתנין אשרנתן ממשלה לחיה וישתחוו לחיה ויאמרו מי ידמה לחיה ומי יוכל להלחם אתה** | La admiración por la bestia implica también honrar al dragón que le dio autoridad. |
+| #apocalipsis_13_7 | **וינתן לה לעשות מלחמה עםהקדשים ולנצחם ותנתן לה ממשלה עלכלמשפחה ועם ולשון וגוי** | El poder se dirige contra los santos y alcanza pueblos, lenguas y naciones. |
+| #apocalipsis_13_10 | **המוליך שבי ילך בשבי וההרג בחרב הרג יהרג בחרב בזאת סבלנות ואמונת הקדשים** | El cierre de la primera unidad define la respuesta como paciencia y fidelidad. |
+| #apocalipsis_13_11 | **וארא חיה אחרת עלה מןהאדמה ולה שתי קרנים כקרני השה ומדברת כתנין** | La segunda bestia procede de la tierra, parece un cordero y habla como dragón. |
+| #apocalipsis_13_14 | **ומתעה אתישבי הארץ באותות אשר נתןלה לעשות בפני החיה באמרה אלישבי הארץ לעשות צלם לחיה אשרהכתה מכתחרב ותחי** | Las señales producen engaño y ordenan hacer una semejanza de la bestia herida. |
+| #apocalipsis_13_17 | **ולאיכול איש לקנות או למכר כי אםבהיות עליו תו החיה או שמה אומספר שמה** | La señal, el nombre o el número se relacionan con comprar y vender. |
+| #apocalipsis_13_18 | **בזאת חכמה מי שבינה לו יחשב מספר החיה כי מספר אדם הוא ומספרו שש מאות וששים ושש** | El texto pide sabiduría y entendimiento, no una asociación improvisada. |
 
-## La primera bestia: autoridad, blasfemia y guerra (13:1-10) #revelation_13_1-10
+## La primera bestia: autoridad, blasfemia y guerra (13:1-10) #apocalipsis_13_1-10
 
 La secuencia comienza con Juan sobre la arena del mar y una bestia que sube de ese ámbito. Eric observa que el mar funciona en su lectura como imagen de desorden y ausencia de Torah, y enlaza las formas de la bestia con las cuatro bestias de Daniel 7. Esa conexión literaria es razonable como línea de investigación: Apocalipsis combina leopardo, oso y león, mientras que Daniel distribuye esas imágenes entre sus bestias. Sin embargo, el pasaje de Apocalipsis no nombra por sí solo todos los imperios que la clase reconstruye.
 
@@ -56,7 +56,7 @@ Los versículos 5-8 intensifican la oposición: boca de blasfemia, cuarenta y do
 
 El versículo 10 concluye esta unidad con una exhortación sobria: la cautividad y la espada no se vencen mediante otra violencia, sino mediante “סבלנות ואמונת הקדשים”, paciencia y fidelidad de los santos. Esta es una corrección importante para cualquier lectura que solo busque descifrar al enemigo: el capítulo orienta la conducta de la comunidad.
 
-## La segunda bestia: apariencia de cordero, engaño y semejanza (13:11-15) #revelation_13_11-15
+## La segunda bestia: apariencia de cordero, engaño y semejanza (13:11-15) #apocalipsis_13_11-15
 
 La segunda bestia sube de la tierra y tiene dos cuernos “como” los del cordero, pero habla como dragón. Eric conserva la tensión concreta de la descripción: parece representar autoridad legítima —propone como posibilidades rey y sumo sacerdote, o Torah y profecía—, pero su voz revela otra fuente. La clase la vincula con una estructura interna de Israel y con figuras hasmoneas, particularmente Alejandro Janneo; esa reconstrucción y la referencia a Josefo quedan pendientes de verificación exacta. El texto, por sí mismo, sí exige discernir entre apariencia semejante al cordero y habla del dragón.
 
@@ -64,7 +64,7 @@ La segunda bestia ejerce el poder de la primera, realiza señales y persuade a l
 
 El término griego **(εἰκών)**, *eikōn*, significa imagen, representación o semejanza. No equivale necesariamente a una estatua física; puede señalar una representación que reproduce los rasgos y la autoridad de otra realidad. Esta aclaración recoge el énfasis de Eric y evita reducir “imagen” a un objeto. La equivalencia con “semejanza” es aproximada y pedagógica, no una prueba de que el capítulo excluya toda imagen material. Del mismo modo, “adorar” y “postrarse” pueden solaparse en una traducción, pero el lector debe observar qué acción describe el texto.
 
-## La marca, el nombre y el número: discernimiento sin especulación (13:16-18) #revelation_13_16-18
+## La marca, el nombre y el número: discernimiento sin especulación (13:16-18) #apocalipsis_13_16-18
 
 En los versículos 16-17 la marca aparece en mano o frente y condiciona comprar y vender. Eric insiste en que no debe reducirse a un chip ni a una marca superficial: la clase la interpreta como identificación teológica con la bestia y como resultado de postrarse ante su semejanza. Esa lectura captura la relación narrativa entre los versículos 14-17, pero no elimina la dimensión visible y económica que el propio texto menciona.
 

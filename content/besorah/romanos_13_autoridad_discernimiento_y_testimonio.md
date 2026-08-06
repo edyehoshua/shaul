@@ -16,10 +16,10 @@ references:
   - "#romanos_13_5"
   - "#romanos_13_6"
   - "#romanos_13_7"
-  - "#maasei_5_29"
+  - "#hechos_5_29"
   - "#daniel_3_16"
   - "#daniel_6_10"
-  - "#yeshayahu_10_5"
+  - "#isaias_10_5"
 sources:
   - "https://www.youtube.com/watch?v=47wv6TT5NVg"
   - "docs/scriptures/tth/json/romanos.json"
@@ -43,17 +43,17 @@ Esta nota organiza la clase pública **El RESPETO a la AUTORIDAD**, capítulo 13
 | #romanos_13_1-2 | **Toda persona sea sujeta bajo estos que tienen autoridad, pero no hay autoridad si no es de Elohim, y las que hay, por Elohim han sido encargadas. Por eso, el que se opone a la autoridad, al orden de Elohim se opone.** | Presenta la sujeción como reconocimiento del orden, no como licencia para llamar santo a todo acto del gobierno. |
 | #romanos_13_3-5 | **Porque los jefes no son para temor de los que hacen el bien, sino el mal... porque es servidor de Elohim para tu bien... Por eso es necesario estar sujetándose... por causa de la conciencia.** | La autoridad se describe por su función de castigar el mal; la conciencia participa en la obediencia. |
 | #romanos_13_6-7 | **Y por eso también pagan los tributos... paguen a todo hombre lo que deban; al que tributo, tributo; al que impuesto, impuesto; al que temor, temor; al que honra, honra.** | La vida pública incluye impuestos, respeto y deudas pagadas. |
-| #maasei_5_29 | **Es necesario obedecer a Elohim antes que a los hombres.** | El testimonio apostólico fija el límite de cualquier autoridad humana. |
+| #hechos_5_29 | **Es necesario obedecer a Elohim antes que a los hombres.** | El testimonio apostólico fija el límite de cualquier autoridad humana. |
 
 ## 13:1-2: sujeción sin santificar todo gobierno #romanos_13_1-2
 
 Eric comienza señalando que una lectura rápida de «no hay autoridad sino de parte de Elohim» puede sugerir que cada presidente, jefe de Estado o decreto recibe aprobación directa de Elohim. La clase propone leer la frase de manera restrictiva: la autoridad verdadera es la que está «de Elohim», mientras que otros poderes existen bajo su permiso, pero no necesariamente conforme a su voluntad. La distinción es atribuible a la exposición; la sintaxis exacta debe verificarse en griego.
 
-El texto local sí manda sujetarse y advierte contra oponerse al orden. La nota no convierte esa advertencia en una teoría de obediencia ilimitada. El resto de la Escritura citada en la clase muestra que la sujeción puede coexistir con una negativa concreta: los enviados continúan anunciando cuando el concilio les ordena callar (#maasei_5_27-29). Por tanto, «sujetarse» describe una disposición ordinaria de respeto al orden civil, no la adoración de la autoridad ni la cooperación con el pecado.
+El texto local sí manda sujetarse y advierte contra oponerse al orden. La nota no convierte esa advertencia en una teoría de obediencia ilimitada. El resto de la Escritura citada en la clase muestra que la sujeción puede coexistir con una negativa concreta: los enviados continúan anunciando cuando el concilio les ordena callar (#hechos_5_27-29). Por tanto, «sujetarse» describe una disposición ordinaria de respeto al orden civil, no la adoración de la autoridad ni la cooperación con el pecado.
 
 ## 13:3-5: autoridad, conciencia y el bien que puede examinarse #romanos_13_3-5
 
-La exposición presenta al gobernante como servidor de Elohim en un sentido funcional, semejante al uso de Asiria como instrumento de juicio en #yeshayahu_10_5. Esa comparación puede ayudar a distinguir permiso providencial de aprobación moral. Romanos 13:3-4 describe qué hace la autoridad en la perícopa: debe producir temor en quien hace el mal, reconocer el bien y portar espada contra la injusticia. El pasaje no dice que cada gobernante actúe siempre de acuerdo con esa descripción.
+La exposición presenta al gobernante como servidor de Elohim en un sentido funcional, semejante al uso de Asiria como instrumento de juicio en #isaias_10_5. Esa comparación puede ayudar a distinguir permiso providencial de aprobación moral. Romanos 13:3-4 describe qué hace la autoridad en la perícopa: debe producir temor en quien hace el mal, reconocer el bien y portar espada contra la injusticia. El pasaje no dice que cada gobernante actúe siempre de acuerdo con esa descripción.
 
 Eric usa Daniel y los tres compañeros como ejemplos de una ciudadanía no anárquica. Ellos no buscan rebelión por cualquier incomodidad, pero no se inclinan ante la estatua ni abandonan la oración cuando el decreto lo prohíbe (#daniel_3_16-18; #daniel_6_10). La aplicación es sólida como principio de discernimiento, aunque los detalles sobre los imperios y el castigo histórico requieren fuentes adicionales. La conciencia de #romanos_13_5 no es una excusa para seguir el deseo personal: debe probarse contra la palabra de Elohim y contra el bien que el pasaje describe.
 
@@ -77,7 +77,7 @@ La exposición también define el testimonio como una imitación perseverante de
 
 | Unidad | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
-| #romanos_13_1-2; `youtube:47wv6TT5NVg` | La frase sobre autoridad no debe convertir a todo gobierno en autoridad aprobada por Elohim; hay que distinguir autoridad de Elohim y poder permitido. | Aclaración gramatical pendiente; apoyo textual para la sujeción ordinaria, con límite desde #maasei_5_29. |
+| #romanos_13_1-2; `youtube:47wv6TT5NVg` | La frase sobre autoridad no debe convertir a todo gobierno en autoridad aprobada por Elohim; hay que distinguir autoridad de Elohim y poder permitido. | Aclaración gramatical pendiente; apoyo textual para la sujeción ordinaria, con límite desde #hechos_5_29. |
 | #romanos_13_3-5; `youtube:47wv6TT5NVg` | Roma, como otros imperios, puede funcionar como instrumento de juicio; Daniel y los enviados muestran que no se obedece una orden contra la Torá. | La función descrita por Romanos recibe apoyo textual; la reconstrucción histórica y la aplicación a imperios quedan cualificadas. |
 | #romanos_13_6-7; `youtube:47wv6TT5NVg` | Pagar impuestos, respetar el orden y no actuar como rebelde conserva un testimonio honroso. | Apoyo textual directo para tributos, deudas, temor y honra; las aplicaciones civiles actuales son pedagógicas. |
 

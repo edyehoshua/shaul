@@ -6,11 +6,11 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#ecclesiastes_1_1"
-  - "#ecclesiastes_1_2"
-  - "#ecclesiastes_1_3"
-  - "#ecclesiastes_1_9"
-  - "#ecclesiastes_1_18"
+  - "#eclesiastes_1_1"
+  - "#eclesiastes_1_2"
+  - "#eclesiastes_1_3"
+  - "#eclesiastes_1_9"
+  - "#eclesiastes_1_18"
 sources:
   - "https://www.youtube.com/watch?v=BeQAO-iBr0o"
   - "https://www.youtube.com/watch?v=MV63b73MhTU"
@@ -39,11 +39,11 @@ Qohélet 1 considera el límite de la ganancia bajo el sol y la insuficiencia de
 
 | Referencia         | Texto local (OE, sin nikud)                                           | Observación                                    |
 | ------------------ | --------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

@@ -7,10 +7,10 @@ tags:
   - melajim_alef
   - haftarah
 references:
-  - "#1_kings_1_1-4"
-  - "#1_kings_1_5-10"
-  - "#1_kings_1_11-27"
-  - "#1_kings_1_28-31"
+  - "#1_reyes_1_1-4"
+  - "#1_reyes_1_5-10"
+  - "#1_reyes_1_11-27"
+  - "#1_reyes_1_28-31"
 sources:
   - "https://www.youtube.com/watch?v=YoauCD9H3E8"
   - "docs/scriptures/oe/json/raw/ikings.json"
@@ -40,12 +40,12 @@ Esta nota desarrolla la enseñanza del hermano Eric de Jesús Rodríguez Mendoza
 
 | Unidad textual   | Observación concreta de la clase                                                                                                                              | Tratamiento frente al texto local                                                                                                                                                           |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #1_kings_1_1-4   | Eric subraya que los servidores recorren «todo límite de Israel» para encontrar a una joven y relaciona la fórmula con la búsqueda de Rivká en Jayey Saráh.   | Apoyo textual para la búsqueda, el servicio de Abisag y la ausencia de relación sexual; la conexión con Bereshit es comparación pedagógica, no identidad de episodios.                      |
-| #1_kings_1_5-10  | Eric observa que Adonías dice «yo reinaré», prepara carros, jinetes y corredores, y fabrica un banquete excluyendo a Natán, Benaías, los valientes y Salomón. | Apoyo textual directo para la maniobra material y sus exclusiones; el juicio sobre la ambición se formula a partir de la secuencia, no como cautela genérica.                               |
-| #1_kings_1_11-27 | Eric lee la intervención de Natán y Bat-sheva como una manera de sacar la crisis a la luz: si el rey no decide, la casa queda expuesta.                       | Apoyo textual para los dos informes, el juramento recordado y la pregunta sobre quién se sentará en el trono; no se presenta a ninguno como testigo de una escena que el capítulo no narra. |
-| #1_kings_1_28-31 | Eric destaca que David responde recordando el juramento hecho ante יהוה: Salomón reinará después de él, no sólo expresando una preferencia personal.          | Apoyo textual explícito en 1:30; la aplicación a la fidelidad y responsabilidad de una casa es síntesis pastoral cualificada.                                                               |
+| #1_reyes_1_1-4   | Eric subraya que los servidores recorren «todo límite de Israel» para encontrar a una joven y relaciona la fórmula con la búsqueda de Rivká en Jayey Saráh.   | Apoyo textual para la búsqueda, el servicio de Abisag y la ausencia de relación sexual; la conexión con Bereshit es comparación pedagógica, no identidad de episodios.                      |
+| #1_reyes_1_5-10  | Eric observa que Adonías dice «yo reinaré», prepara carros, jinetes y corredores, y fabrica un banquete excluyendo a Natán, Benaías, los valientes y Salomón. | Apoyo textual directo para la maniobra material y sus exclusiones; el juicio sobre la ambición se formula a partir de la secuencia, no como cautela genérica.                               |
+| #1_reyes_1_11-27 | Eric lee la intervención de Natán y Bat-sheva como una manera de sacar la crisis a la luz: si el rey no decide, la casa queda expuesta.                       | Apoyo textual para los dos informes, el juramento recordado y la pregunta sobre quién se sentará en el trono; no se presenta a ninguno como testigo de una escena que el capítulo no narra. |
+| #1_reyes_1_28-31 | Eric destaca que David responde recordando el juramento hecho ante יהוה: Salomón reinará después de él, no sólo expresando una preferencia personal.          | Apoyo textual explícito en 1:30; la aplicación a la fidelidad y responsabilidad de una casa es síntesis pastoral cualificada.                                                               |
 
-## 1:1-4: la vulnerabilidad del rey y el servicio de Abisag #1_kings_1_1-4
+## 1:1-4: la vulnerabilidad del rey y el servicio de Abisag #1_reyes_1_1-4
 
 La apertura no idealiza a David. **והמלך דוד זקן בא בימים**, _vehammelekh David zaken ba bayamim_, “el rey David era viejo, entrado en días”. La palabra **זקן** (_zaqen_) significa viejo o anciano; aquí su fuerza narrativa es fragilidad física. Los servidores lo cubren con ropa, pero no entra en calor. El problema del cuerpo del rey no es un episodio independiente: explica por qué otros pueden intentar actuar en su nombre mientras él no gobierna con claridad.
 
@@ -53,7 +53,7 @@ Los servidores proponen buscar una joven virgen para que esté delante del rey, 
 
 La fórmula “en todo límite de Israel”, **בכל גבול ישראל**, es el punto que Eric conecta con Jayey Saráh. En Bereshit, la búsqueda de una esposa para Isaac tiene una función narrativa distinta; aquí se busca una asistente para un rey anciano. La relación es **aproximada y pedagógica**, no una equivalencia de personajes o situaciones. La observación material de Eric sigue siendo relevante: el territorio entero aparece como espacio de búsqueda, mientras la crisis sucesoria está a punto de concentrarse en Jerusalén.
 
-## 1:5-10: “yo reinaré” y la corte fabricada #1_kings_1_5-10
+## 1:5-10: “yo reinaré” y la corte fabricada #1_reyes_1_5-10
 
 Adonías, hijo de Haguit, se exalta diciendo: **אני אמלך**, _ani emlokh_, “yo reinaré”. El verbo **מלך** (_malakh_) significa reinar; con el pronombre enfático “yo” la frase funciona como autoafirmación. El texto no empieza diciendo que David lo designó. A continuación Adonías prepara un carro, jinetes y cincuenta hombres que corren delante de él. Eric observa la diferencia entre recibir una responsabilidad y construir una apariencia de autoridad. La narración apoya esa lectura por la secuencia de acciones que rodea el “yo reinaré”.
 
@@ -61,7 +61,7 @@ El v. 6 añade que David nunca lo había contristado preguntándole por qué act
 
 Adonías sacrifica ovejas, vacas y animales cebados junto a la piedra de Zohelet e invita a sus hermanos y a los siervos de Judá. No invita a Natán, Benaías, los valientes ni a Salomón. **קרא** (_qara_) significa llamar o convocar; la repetición de quiénes son llamados y quiénes no son llamados construye el contraste político. Eric llama la atención sobre la invitación selectiva: un banquete no prueba por sí solo que יהוה haya establecido la sucesión. La exclusión de Salomón hace visible que la fiesta intenta producir legitimidad antes de recibir una palabra del rey.
 
-## 1:11-27: Natán, Bat-sheva y la verdad puesta delante de David #1_kings_1_11-27
+## 1:11-27: Natán, Bat-sheva y la verdad puesta delante de David #1_reyes_1_11-27
 
 Natán habla a Bat-sheva: “¿no has oído que Adonías hijo de Haguit ha reinado, y nuestro señor David no lo sabe?”. El verbo **ידע** (_yada_) significa saber o conocer; aquí su fuerza es conocimiento político ausente. Eric presenta esta pregunta como una alarma: el problema no es únicamente quién tiene más fuerza, sino que la sucesión se está declarando sin que el rey sepa.
 
@@ -71,7 +71,7 @@ Bat-sheva dice que los ojos de todo Israel están sobre David para anunciar qui�
 
 Natán pregunta si la acción de Adonías procede del rey. La pregunta delimita la autoridad: si David no ha ordenado la sucesión, la fiesta de Adonías no puede presentarse como mandato real. Eric insiste en que discernir exige preguntar por la fuente de la autorización, no sólo observar quién tiene un séquito.
 
-## 1:28-31: el juramento confirma la sucesión #1_kings_1_28-31
+## 1:28-31: el juramento confirma la sucesión #1_reyes_1_28-31
 
 David llama a Bat-sheva y jura por יהוה, quien ha redimido su vida de toda angustia. Después repite el juramento: “ciertamente Salomón tu hijo reinará después de mí y él se sentará sobre mi trono; así lo haré hoy”. **שבע** (_shava_) significa jurar; en este tramo el juramento transforma una promesa recordada en una decisión pública. Eric lo relaciona con la responsabilidad de una casa: la continuidad no debe quedar entregada a maniobras mientras el rey calla.
 

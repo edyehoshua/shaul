@@ -4,13 +4,13 @@ description: "Estudio de Mishlei 18:17-23 sobre el examen de las causas, el frut
 date: 2026-08-05
 tags: [mishlei, mishlei_18, lengua, fruto, reconciliacion, juicio]
 references:
-  - "#mishlei_18_17"
-  - "#mishlei_18_18"
-  - "#mishlei_18_19"
-  - "#mishlei_18_20"
-  - "#mishlei_18_21"
-  - "#mishlei_18_22"
-  - "#mishlei_18_23"
+  - "#proverbios_18_17"
+  - "#proverbios_18_18"
+  - "#proverbios_18_19"
+  - "#proverbios_18_20"
+  - "#proverbios_18_21"
+  - "#proverbios_18_22"
+  - "#proverbios_18_23"
 sources:
   - "https://www.youtube.com/watch?v=MbgaDaqg5_Y"
   - "docs/scriptures/oe/json/proverbs/18.json"
@@ -32,13 +32,13 @@ Esta nota organiza la clase sobre Mishlei 18:17-23, siguiendo el orden de sus un
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_18_17 | צדיק הראשון בריבו יבא ובא רעהו וחקרו | Justo es el primero en su defensa, vendrá su compañero y lo escudriñará. |
-| #mishlei_18_18 | מדינים ישבית הגורל ובין עצומים יפריד | Las contiendas hará cesar el goral, y entre los contenciosos (O, los poderosos) hará separación. |
-| #mishlei_18_19 | אח נפשע מקרית עז ומדונים ומדינים כבריח ארמון | Hermano al que le cometieron transgresión es peor que una ciudad fuerte, y las contiendas son como barrales de fortaleza. |
-| #mishlei_18_20 | מפרי פי איש תשבע בטנו תבואת שפתיו ישבע | Del fruto de la boca de un hombre se saciará su vientre, el producto de sus labios saciará. |
-| #mishlei_18_21 | מות וחיים ביד לשון ואהביה יאכל פריה | La muerte y la vida están en la mano de la lengua, y los que la aman comerán su fruto. |
-| #mishlei_18_22 | מצא אשה מצא טוב ויפק רצון מיהוה | El que halló mujer halló bien, y obtuvo el favor de יהוה. |
-| #mishlei_18_23 | תחנונים ידבר רש ועשיר יענה עזות | Con súplicas habla el pobre, pero el rico responde con dureza. |
+| #proverbios_18_17 | צדיק הראשון בריבו יבא ובא רעהו וחקרו | Justo es el primero en su defensa, vendrá su compañero y lo escudriñará. |
+| #proverbios_18_18 | מדינים ישבית הגורל ובין עצומים יפריד | Las contiendas hará cesar el goral, y entre los contenciosos (O, los poderosos) hará separación. |
+| #proverbios_18_19 | אח נפשע מקרית עז ומדונים ומדינים כבריח ארמון | Hermano al que le cometieron transgresión es peor que una ciudad fuerte, y las contiendas son como barrales de fortaleza. |
+| #proverbios_18_20 | מפרי פי איש תשבע בטנו תבואת שפתיו ישבע | Del fruto de la boca de un hombre se saciará su vientre, el producto de sus labios saciará. |
+| #proverbios_18_21 | מות וחיים ביד לשון ואהביה יאכל פריה | La muerte y la vida están en la mano de la lengua, y los que la aman comerán su fruto. |
+| #proverbios_18_22 | מצא אשה מצא טוב ויפק רצון מיהוה | El que halló mujer halló bien, y obtuvo el favor de יהוה. |
+| #proverbios_18_23 | תחנונים ידבר רש ועשיר יענה עזות | Con súplicas habla el pobre, pero el rico responde con dureza. |
 
 ## La primera defensa todavía necesita examen
 
@@ -74,11 +74,11 @@ En el verso 23, TTH mantiene el contraste entre el pobre que suplica y el rico q
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_18_17 | La primera defensa parece justa, pero el compañero la examina; el compañero se aplica al Pastor. | Examen textual apoyado; identificación alegórica calificada. |
-| #mishlei_18_18 | El _goral_ hace cesar la contienda y separa a los numerosos/contenciosos. | Contraste textual apoyado; trasfondo de asignación y juicio pendiente. |
-| #mishlei_18_19 | El hermano transgredido se vuelve una ciudad cerrada; la reconciliación debe buscarse antes de que la brecha se endurezca. | Imagen textual y aplicación pastoral apoyadas; límites de la reconciliación por verificar. |
-| #mishlei_18_20-21 | La boca y la lengua producen un fruto que alimenta las obras y conduce a muerte o vida. | Paralelismo textual apoyado; “boca = corazón” tratado como explicación pedagógica. |
-| #mishlei_18_22-23 | La esposa y la riqueza se leen como bien/favor y como tesoro espiritual. | Sentido literal conservado; lectura de Torah y pobreza espiritual calificada. |
+| #proverbios_18_17 | La primera defensa parece justa, pero el compañero la examina; el compañero se aplica al Pastor. | Examen textual apoyado; identificación alegórica calificada. |
+| #proverbios_18_18 | El _goral_ hace cesar la contienda y separa a los numerosos/contenciosos. | Contraste textual apoyado; trasfondo de asignación y juicio pendiente. |
+| #proverbios_18_19 | El hermano transgredido se vuelve una ciudad cerrada; la reconciliación debe buscarse antes de que la brecha se endurezca. | Imagen textual y aplicación pastoral apoyadas; límites de la reconciliación por verificar. |
+| #proverbios_18_20-21 | La boca y la lengua producen un fruto que alimenta las obras y conduce a muerte o vida. | Paralelismo textual apoyado; “boca = corazón” tratado como explicación pedagógica. |
+| #proverbios_18_22-23 | La esposa y la riqueza se leen como bien/favor y como tesoro espiritual. | Sentido literal conservado; lectura de Torah y pobreza espiritual calificada. |
 
 ## Pendiente de verificar
 

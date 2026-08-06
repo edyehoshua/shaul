@@ -16,16 +16,16 @@ references:
   - "#romanos_10_9-13"
   - "#romanos_10_14-17"
   - "#romanos_10_18-21"
-  - "#vaikra_18_5"
-  - "#devarim_30_11-14"
-  - "#ieshaiahu_8_14"
-  - "#ioel_3_5"
+  - "#levitico_18_5"
+  - "#deuteronomio_30_11-14"
+  - "#isaias_8_14"
+  - "#joel_3_5"
 sources:
   - "https://www.youtube.com/watch?v=f4-BwQh5UjI"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/vaikra.json"
-  - "docs/scriptures/tth/json/ieshaiahu.json"
-  - "docs/scriptures/tth/json/ioel.json"
+  - "docs/scriptures/tth/json/yeshayahu.json"
+  - "docs/scriptures/tth/json/yoel.json"
 source_ids:
   - "youtube:f4-BwQh5UjI"
 translation: "[TTH]"
@@ -50,7 +50,7 @@ Esta nota organiza la sesión pública sobre el cierre de Romanos 9 y Romanos 10
 | #romanos_10_14-17 | La secuencia va de envío a anuncio, escucha, emunah y respuesta; no todos obedecieron la buena noticia. | La palabra cercana no elimina la proclamación ni la responsabilidad del oyente. |
 | #romanos_10_18-21 | La voz se extiende y, sin embargo, Israel es descrito como desobediente y rebelde. | El cierre conserva simultáneamente alcance, paciencia y resistencia. |
 
-El pasaje que Pablo cita de Mosheh aparece resumido en la hoja local como la palabra que no está lejos, sino «en tu boca y en tu corazón». #vaikra_18_5 conserva: «mis decretos y mis mishpatim... el hombre que los haga y vivirá en ellos». Estas conexiones deben leerse como intertextualidad de Pablo, no como permiso para borrar las diferencias entre los pasajes.
+El pasaje que Pablo cita de Mosheh aparece resumido en la hoja local como la palabra que no está lejos, sino «en tu boca y en tu corazón». #levitico_18_5 conserva: «mis decretos y mis mishpatim... el hombre que los haga y vivirá en ellos». Estas conexiones deben leerse como intertextualidad de Pablo, no como permiso para borrar las diferencias entre los pasajes.
 
 ## Celo, justicia propia y el Mesías como _telos_
 
@@ -60,7 +60,7 @@ El TTH traduce #romanos_10_4 como «el último recurso de la Torah es el Mesías
 
 ## Las dos justicias no son dos dioses ni dos comunidades
 
-La clase distingue entre la justicia de la Torah y la justicia de la emunah. El primer lado se asocia con #vaikra_18_5: el hombre hace lo escrito y vive «en ellos», es decir, camina dentro del marco de los decretos y _mishpatim_. El segundo lado, en Romanos 10:6-8, no exige subir al cielo para traer al Mesías ni descender al abismo para levantarlo. El argumento de Pablo no presenta una técnica humana para completar una obra que Elohim ya realizó.
+La clase distingue entre la justicia de la Torah y la justicia de la emunah. El primer lado se asocia con #levitico_18_5: el hombre hace lo escrito y vive «en ellos», es decir, camina dentro del marco de los decretos y _mishpatim_. El segundo lado, en Romanos 10:6-8, no exige subir al cielo para traer al Mesías ni descender al abismo para levantarlo. El argumento de Pablo no presenta una técnica humana para completar una obra que Elohim ya realizó.
 
 La distinción de la exposición entre **(חקים)** _juqim_ y **(משפטים)** _mishpatim_ puede ser útil como marco pedagógico: decretos y juicios, promesa y práctica. Sin embargo, no debe presentarse como si Romanos 10 definiera sistemáticamente toda la clasificación jurídica de la Torah. El texto griego habla de justicia «de la Torah» y justicia «de la emunah»; la reconstrucción hebrea es una explicación atribuible y cualificada. La conclusión segura es más estrecha: la obediencia no debe convertirse en mérito salvador, y la gracia no debe convertirse en permiso para la rebelión.
 
@@ -68,7 +68,7 @@ La distinción de la exposición entre **(חקים)** _juqim_ y **(משפטים)
 
 ## La palabra cercana: boca, corazón y obra mesiánica
 
-Pablo retoma la palabra cercana de #devarim_30_11-14 y la relee desde el Mesías. La clase observa que la pregunta «¿quién subirá?» no invita a una hazaña religiosa; el Mesías ya descendió y resucitó. También propone que la mención del abismo en 10:7 es una explicación apostólica que no debe confundirse con una cita literal de Deuteronomio. Esa cautela es importante: el texto de Deuteronomio habla de lo lejano y de cruzar el mar, mientras Romanos usa «abismo» y «subir al Mesías de los muertos». La relación es intertextual y teológica, no una reproducción palabra por palabra.
+Pablo retoma la palabra cercana de #deuteronomio_30_11-14 y la relee desde el Mesías. La clase observa que la pregunta «¿quién subirá?» no invita a una hazaña religiosa; el Mesías ya descendió y resucitó. También propone que la mención del abismo en 10:7 es una explicación apostólica que no debe confundirse con una cita literal de Deuteronomio. Esa cautela es importante: el texto de Deuteronomio habla de lo lejano y de cruzar el mar, mientras Romanos usa «abismo» y «subir al Mesías de los muertos». La relación es intertextual y teológica, no una reproducción palabra por palabra.
 
 **(ῥῆμα)**, _rhēma_, significa palabra, declaración o mensaje. En 10:8 nombra el mensaje de la emunah que está cerca para ser proclamado y hecho. Compararlo con **(דבר)** _davar_ es una analogía pedagógica; no es una equivalencia etimológica. La cercanía tampoco significa que el ser humano produzca salvación por pronunciar una fórmula. En 10:9-10, boca y corazón permanecen juntos: confesar a Yehoshua como Señor y ser afirmado en la resurrección son respuestas con contenido.
 
@@ -102,7 +102,7 @@ Romanos 10:14-17 impide aislar la salvación de la proclamación. La cadena preg
 ## Pendiente de verificar
 
 - [ ] Verificar en una edición crítica y un léxico griego el alcance de _telos_ en Romanos 10:4 antes de presentarlo como «plenitud» exclusiva.
-- [ ] Cotejar la numeración hebrea y española de #ioel_3_5, citada en la clase como Joel 2:30 aproximadamente, antes de fijar una equivalencia editorial.
+- [ ] Cotejar la numeración hebrea y española de #joel_3_5, citada en la clase como Joel 2:30 aproximadamente, antes de fijar una equivalencia editorial.
 - [ ] Revisar la afirmación histórica sobre la datación del texto masorético y su relación con el texto del evangelio; no se usa aquí como prueba concluyente.
 - [ ] Verificar el alcance de la clasificación _juqim/mishpatim_ aplicada a Romanos 10; queda como marco pedagógico, no como conclusión filológica cerrada.
 

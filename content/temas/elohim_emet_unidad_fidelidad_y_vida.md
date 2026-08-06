@@ -9,11 +9,11 @@ tags:
   - unidad
   - vida
 references:
-  - "#devarim_6_4"
-  - "#yeshayahu_65_16"
-  - "#yojanan_17_3"
-  - "#yojanan_14_6"
-  - "#yojanan_alef_5_20"
+  - "#deuteronomio_6_4"
+  - "#isaias_65_16"
+  - "#juan_17_3"
+  - "#juan_14_6"
+  - "#1_juan_5_20"
 sources:
   - "https://www.youtube.com/watch?v=WCO-PKJ0IDc"
   - "docs/scriptures/oe/json/deuteronomy/6.json"
@@ -36,14 +36,14 @@ Esta nota canónica temática conserva únicamente el alcance verificable de la 
 
 | Referencia       | Núcleo del texto local                                                                    | Función en el argumento                                                               |
 | ---------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| #devarim_6_4     | Israel escucha que יהוה es uno y debe amarle con todo el ser.                             | La verdad confesada se vuelve lealtad integral.                                       |
-| #yeshayahu_65_16 | La bendición se vincula con el Elohim de verdad y los juramentos anteriores quedan atrás. | La verdad desplaza la falsedad y reordena la memoria.                                 |
-| #yojanan_17_3    | La vida eterna consiste en conocer al único Elohim verdadero y a Yehoshua, su enviado.    | La unidad divina y el envío mesiánico aparecen juntos, no como afirmaciones aisladas. |
-| #yojanan_14_6    | Yehoshua se presenta como camino, verdad y vida.                                          | La verdad se expresa en relación, camino y vida, no solo en una definición abstracta. |
+| #deuteronomio_6_4     | Israel escucha que יהוה es uno y debe amarle con todo el ser.                             | La verdad confesada se vuelve lealtad integral.                                       |
+| #isaias_65_16 | La bendición se vincula con el Elohim de verdad y los juramentos anteriores quedan atrás. | La verdad desplaza la falsedad y reordena la memoria.                                 |
+| #juan_17_3    | La vida eterna consiste en conocer al único Elohim verdadero y a Yehoshua, su enviado.    | La unidad divina y el envío mesiánico aparecen juntos, no como afirmaciones aisladas. |
+| #juan_14_6    | Yehoshua se presenta como camino, verdad y vida.                                          | La verdad se expresa en relación, camino y vida, no solo en una definición abstracta. |
 
 ## Deuteronomio 6: oír antes de hablar de unidad
 
-Deuteronomio 6:4 comienza con una convocatoria a escuchar. **(שמע)**, _shema_, significa oír, escuchar y atender; su fuerza contextual incluye una respuesta obediente, no solo la recepción de un sonido. «Escucha» es una glosa directa; convertirla en una fórmula despegada de los mandamientos sería una inferencia ilegítima. La confesión de la unidad de יהוה está seguida por el amor con todo el corazón, alma y fuerza (#devarim_6_4-5). Por eso «uno» no autoriza una discusión especulativa que olvide la fidelidad.
+Deuteronomio 6:4 comienza con una convocatoria a escuchar. **(שמע)**, _shema_, significa oír, escuchar y atender; su fuerza contextual incluye una respuesta obediente, no solo la recepción de un sonido. «Escucha» es una glosa directa; convertirla en una fórmula despegada de los mandamientos sería una inferencia ilegítima. La confesión de la unidad de יהוה está seguida por el amor con todo el corazón, alma y fuerza (#deuteronomio_6_4-5). Por eso «uno» no autoriza una discusión especulativa que olvide la fidelidad.
 
 **(אחד)**, _ejad_, significa uno, único o unido; en la confesión su fuerza contextual afirma la singularidad y la exclusividad de יהוה. «Uno» es directo en el campo ordinario, mientras usar la forma aislada para resolver todas las preguntas filosóficas sobre la unidad divina sería aproximado. El texto continúa con palabras que deben estar en el corazón y enseñarse a los hijos. La verdad bíblica produce memoria, conversación y práctica.
 
@@ -55,7 +55,7 @@ La observación pública anunciada por el título puede recibir aquí una evalua
 
 ## Yojanan 17: verdad, conocimiento y envío
 
-Yehoshua ora diciendo que la vida eterna consiste en conocer al único Elohim verdadero y a quien él envió (#yojanan_17_3). **(γινώσκω)**, _ginōskō_, significa conocer, reconocer o llegar a conocer; su fuerza contextual es una relación viva de reconocimiento, no el simple dominio de datos. «Conocer» es directo, aunque describir toda experiencia espiritual mediante el verbo sería aproximado. **(ἀληθινός)**, _alēthinos_, significa verdadero, genuino o correspondiente a la realidad; en esta oración califica al único Elohim como la referencia auténtica frente a falsos dioses y pretensiones.
+Yehoshua ora diciendo que la vida eterna consiste en conocer al único Elohim verdadero y a quien él envió (#juan_17_3). **(γινώσκω)**, _ginōskō_, significa conocer, reconocer o llegar a conocer; su fuerza contextual es una relación viva de reconocimiento, no el simple dominio de datos. «Conocer» es directo, aunque describir toda experiencia espiritual mediante el verbo sería aproximado. **(ἀληθινός)**, _alēthinos_, significa verdadero, genuino o correspondiente a la realidad; en esta oración califica al único Elohim como la referencia auténtica frente a falsos dioses y pretensiones.
 
 El versículo mantiene dos sujetos relacionados: el único Elohim verdadero y Yehoshua, el enviado. La unidad de la confesión no autoriza a borrar la distinción de la oración; tampoco permite separar al enviado de la vida que él comunica. **(ἀποστέλλω)**, _apostellō_, significa enviar, comisionar o despachar; su fuerza contextual señala una misión recibida. «Enviado» es directo en la función, mientras extraer del verbo una doctrina completa sobre cada aspecto de la relación entre el Padre y el Hijo sería una inferencia.
 
@@ -83,9 +83,9 @@ La confesión culmina en una vida que abandona la falsedad y aprende a reconocer
 
 | Unidad                                  | Observación atribuible por la fuente pública                                                  | Evaluación frente a la Escritura                                                                                                                   |
 | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #devarim_6_4-5; `youtube:WCO-PKJ0IDc`   | El título «El Dios verdadero el emet» dirige la atención a la confesión del Elohim verdadero. | Apoyo cualificado: Deuteronomio vincula la confesión con escuchar y amar; no se inventa una explicación oral ausente.                              |
-| #yeshayahu_65_16; `youtube:WCO-PKJ0IDc` | El término «emet» invita a considerar verdad y confiabilidad frente a juramentos falsos.      | Apoyo textual: el profeta contrasta el Elohim de verdad con otros juramentos; la aplicación histórica detallada queda pendiente.                   |
-| #yojanan_17_3; `youtube:WCO-PKJ0IDc`    | El tema de Elohim verdadero se puede evaluar junto con la vida eterna y el enviado.           | Apoyo canónico y cualificado: Yojanan une conocer al único Elohim verdadero con conocer a Yehoshua, sin permitir una cita atribuida no comprobada. |
+| #deuteronomio_6_4-5; `youtube:WCO-PKJ0IDc`   | El título «El Dios verdadero el emet» dirige la atención a la confesión del Elohim verdadero. | Apoyo cualificado: Deuteronomio vincula la confesión con escuchar y amar; no se inventa una explicación oral ausente.                              |
+| #isaias_65_16; `youtube:WCO-PKJ0IDc` | El término «emet» invita a considerar verdad y confiabilidad frente a juramentos falsos.      | Apoyo textual: el profeta contrasta el Elohim de verdad con otros juramentos; la aplicación histórica detallada queda pendiente.                   |
+| #juan_17_3; `youtube:WCO-PKJ0IDc`    | El tema de Elohim verdadero se puede evaluar junto con la vida eterna y el enviado.           | Apoyo canónico y cualificado: Yojanan une conocer al único Elohim verdadero con conocer a Yehoshua, sin permitir una cita atribuida no comprobada. |
 
 ## Léxico clave
 

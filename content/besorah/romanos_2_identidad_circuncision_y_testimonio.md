@@ -22,12 +22,12 @@ references:
   - "#romanos_2_27"
   - "#romanos_2_28"
   - "#romanos_2_29"
-  - "#yirmeyahu_4_1"
-  - "#yirmeyahu_4_2"
-  - "#yirmeyahu_4_3"
-  - "#yirmeyahu_4_4"
-  - "#yeshayahu_52_5"
-  - "#yejezkel_36_20"
+  - "#jeremias_4_1"
+  - "#jeremias_4_2"
+  - "#jeremias_4_3"
+  - "#jeremias_4_4"
+  - "#isaias_52_5"
+  - "#ezequiel_36_20"
 sources:
   - "https://www.youtube.com/watch?v=GVdzt-aThXk"
   - "docs/scriptures/tth/json/romanos.json"
@@ -54,8 +54,8 @@ Esta nota organiza la clase 5 de la serie de Romanos del hermano Eric de Jesús 
 | #romanos_2_17-20 | **He aquí, tú eres llamado iehudí, y descansas en la Torah, y para gloriarte en Elohim, y conoces su voluntad, para distinguir entre la santidad y lo profanado, entre lo impuro y lo puro, enseñado por la Torah. Y tú confías que eres el que lleva por el camino a los ciegos, luz de aquellos que están en oscuridad, instructor de ingenuos, maestro de niños, que tienes la forma del conocimiento y la verdad en la Torah.** (TTH) | Presenta privilegio de enseñanza y conocimiento, pero también la tentación de confiar en el título y en la posición de instructor. |
 | #romanos_2_21-24 | **El que tú enseñes a otro, ¿a ti mismo no te enseñas? El que lee: No robarás, ¿robas?... El que en la Torah se gloría, ¿traspasando a la Torah, a יהוה deshonras? Porque el Nombre de יהוה por ustedes es deshonrado entre los gentiles, como está escrito.** (TTH) | Une doctrina y práctica: el testimonio público del pueblo puede honrar o deshonrar el Nombre. |
 | #romanos_2_25-29 | **Porque la circuncisión es beneficiosa si haces la Torah, pero si te rebelas contra la Torah, entonces tu circuncisión por incircuncisión será... la circuncisión es del corazón, en Rúaj, no en letra, que su alabanza no es de los hombres, sino de Elohim.** (TTH) | Desplaza el centro desde la marca visible hacia la obra interior del Rúaj y la obediencia real. |
-| #yirmeyahu_4_1-4 | **אם תשוב ישראל נאם יהוה אלי תשוב ואם תסיר שקוציך מפני ולא תנוד / ונשבעת חי יהוה באמת במשפט ובצדקה והתברכו בו גוים ובו יתהללו / כי כה אמר יהוה לאיש יהודה ולירושלם נירו לכם ניר ואל תזרעו אל קוצים / המלו ליהוה והסרו ערלות לבבכם איש יהודה וישבי ירושלם פן תצא כאש חמתו...** (OE) | Aporta la imagen profética de volver a יהוה, preparar el campo y quitar el prepucio del corazón. |
-| #yeshayahu_52_5; #yejezkel_36_20 | **ותמיד כל היום שמי מנאץ** / **ויחללו את שם קדשי** (OE) | Testigos del problema que Romanos 2:24 formula: la conducta del pueblo puede hacer que el Nombre sea despreciado o profanado entre las naciones. |
+| #jeremias_4_1-4 | **אם תשוב ישראל נאם יהוה אלי תשוב ואם תסיר שקוציך מפני ולא תנוד / ונשבעת חי יהוה באמת במשפט ובצדקה והתברכו בו גוים ובו יתהללו / כי כה אמר יהוה לאיש יהודה ולירושלם נירו לכם ניר ואל תזרעו אל קוצים / המלו ליהוה והסרו ערלות לבבכם איש יהודה וישבי ירושלם פן תצא כאש חמתו...** (OE) | Aporta la imagen profética de volver a יהוה, preparar el campo y quitar el prepucio del corazón. |
+| #isaias_52_5; #ezequiel_36_20 | **ותמיד כל היום שמי מנאץ** / **ויחללו את שם קדשי** (OE) | Testigos del problema que Romanos 2:24 formula: la conducta del pueblo puede hacer que el Nombre sea despreciado o profanado entre las naciones. |
 
 ## 2:17-20: el nombre y el privilegio no sustituyen la obediencia #romanos_2_17-20
 
@@ -98,7 +98,7 @@ La expresión «no en letra» tampoco debe usarse para oponer al Rúaj contra la
 | #romanos_2_17-20 | _Iehudí_ no debe reducirse a una etiqueta moderna; quien conoce la Torah y enseña carga una responsabilidad. | Apoyo textual para privilegio y responsabilidad; la historia completa del término queda cualificada. |
 | #romanos_2_21-24 | Enseñar «no robarás» o «no adulterarás» sin obedecer deshonra el Nombre entre las naciones. | Apoyo textual directo, con Isaías 52 y Ezequiel 36 como testigos temáticos. |
 | #romanos_2_25-27 | La circuncisión corporal no vale si hay rebelión; la obediencia de un incircunciso expone la hipocresía. | Apoyo textual; se evita convertir el argumento en una fórmula aislada de justificación. |
-| #romanos_2_28-29; #yirmeyahu_4_1-4 | La verdadera circuncisión es del corazón por el Rúaj, con disciplina y alabanza de Elohim, no de hombres. | Apoyo textual y conexión temática; equivalencias léxicas específicas quedan pendientes. |
+| #romanos_2_28-29; #jeremias_4_1-4 | La verdadera circuncisión es del corazón por el Rúaj, con disciplina y alabanza de Elohim, no de hombres. | Apoyo textual y conexión temática; equivalencias léxicas específicas quedan pendientes. |
 
 ## Pendiente de verificar
 

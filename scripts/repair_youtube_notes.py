@@ -19,6 +19,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
 
+from verse_tag_conventions import canonical_book_slug
+
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
 YOUTUBE_URL_RE = re.compile(
@@ -31,10 +33,10 @@ HEADING_CROSS_LOCATOR_RE = re.compile(r"(?<!\w)(\d+):(\d+)[-–](\d+):(\d+)")
 TOP_LEVEL_KEY_RE = re.compile(r"^[A-Za-z_][A-Za-z0-9_-]*:")
 BOOK_ALIASES = {
     "amos": {"amos"},
-    "bereshit": {"bereshit", "genesis", "génesis"},
-    "galatians": {"galatians", "galatim"},
-    "iejezkel": {"iejezkel", "yejezkel", "ezequiel"},
-    "shemot": {"shemot", "éxodo", "exodo"},
+    "genesis": {"bereshit", "genesis", "génesis"},
+    "galatas": {"galatas", "galatians", "galatim"},
+    "ezequiel": {"ezequiel", "yejezkel", "yejezkel"},
+    "exodo": {"shemot", "éxodo", "exodo"},
 }
 
 
@@ -77,10 +79,11 @@ def frontmatter_refs(frontmatter: str) -> list[Reference]:
             continue
         start = int(verse_match.group(1))
         end = int(verse_match.group(2) or start)
+        book_slug = "_".join(parts[:-2])
         refs.append(
             Reference(
                 tag=tag,
-                book="_".join(parts[:-2]),
+                book=canonical_book_slug(book_slug) or book_slug,
                 chapter=int(parts[-2]),
                 start=start,
                 end=end,

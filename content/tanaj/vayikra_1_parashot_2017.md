@@ -9,10 +9,10 @@ tags:
   - ofrendas
   - ohel-moed
 references:
-  - "#vayikra_1_1-2"
-  - "#vayikra_1_3-9"
-  - "#vayikra_1_10-17"
-  - "#shemot_33_7-11"
+  - "#levitico_1_1-2"
+  - "#levitico_1_3-9"
+  - "#levitico_1_10-17"
+  - "#exodo_33_7-11"
   - "#hebreos_13_10-16"
 sources:
   - "https://www.youtube.com/watch?v=8KH3oCck2gM"
@@ -34,12 +34,12 @@ Se siguen los diecisiete versículos en orden. La clase de Eric revisa Vayikra 1
 
 | Unidad           | Texto local                                                                                                                    | Movimiento                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| #vayikra_1_1-2   | «Y llamó a Moshe y habló יהוה a él desde la tienda del encuentro»; «cuando una persona acerque de ustedes una ofrenda a יהוה». | La llamada divina precede al acercamiento y dirige a Israel.          |
-| #vayikra_1_3-9   | Ganado vacuno sin defecto; mano sobre la cabeza; sangre sobre el altar; la ofrenda entera sube como olor agradable.            | El acercamiento tiene cuerpo, sustitución ritual y acción sacerdotal. |
-| #vayikra_1_10-13 | Rebaño, macho sin defecto, degüello y sangre; el texto repite el orden.                                                        | La escala cambia, no la santidad del procedimiento.                   |
-| #vayikra_1_14-17 | Tórtolas o palominos; cuello, sangre, buche, plumas y fuego.                                                                   | El acceso contempla recursos distintos sin volver etérea la ofrenda.  |
+| #levitico_1_1-2   | «Y llamó a Moshe y habló יהוה a él desde la tienda del encuentro»; «cuando una persona acerque de ustedes una ofrenda a יהוה». | La llamada divina precede al acercamiento y dirige a Israel.          |
+| #levitico_1_3-9   | Ganado vacuno sin defecto; mano sobre la cabeza; sangre sobre el altar; la ofrenda entera sube como olor agradable.            | El acercamiento tiene cuerpo, sustitución ritual y acción sacerdotal. |
+| #levitico_1_10-13 | Rebaño, macho sin defecto, degüello y sangre; el texto repite el orden.                                                        | La escala cambia, no la santidad del procedimiento.                   |
+| #levitico_1_14-17 | Tórtolas o palominos; cuello, sangre, buche, plumas y fuego.                                                                   | El acceso contempla recursos distintos sin volver etérea la ofrenda.  |
 
-## La llamada desde la tienda del encuentro (1:1-2) #vayikra_1_1-2
+## La llamada desde la tienda del encuentro (1:1-2) #levitico_1_1-2
 
 El capítulo abre: **ויקרא אל משה וידבר יהוה אליו מאהל מועד לאמר**, «y llamó a Moshe y habló יהוה a él desde la tienda del encuentro, diciendo». Eric recuerda que Vayikra continúa la escena de Shemot: no es un libro aislado, pues el tabernáculo acaba de ser levantado y la nube ha marcado el campamento. También distingue la estructura interior del tabernáculo de la tienda que cubre el conjunto. La observación histórica y arquitectónica ayuda a seguir la clase, pero el texto local afirma sobre todo que la voz sale del **מועד**, lugar de cita o encuentro.
 
@@ -47,7 +47,7 @@ La forma **(ויקרא)** (_vayiqra_) significa «y llamó»; su sentido normal 
 
 El v. 2 pasa de Moshe a «los hijos de Israel»: **דבר אל בני ישראל ואמרת אלהם אדם כי יקריב מכם קרבן ליהוה**. Eric insiste en que _korban_ no es una idea desencarnada. La forma **(קרבן)** (_qorban_) viene del campo de acercar; su sentido normal es ofrenda o aquello presentado, y su fuerza aquí es una sustancia que se lleva a יהוה. La relación entre _qorban_ y acercamiento es exacta en el campo léxico, mientras la explicación de Eric sobre «el cuerpo del Mesías» es una aplicación mesiánica posterior.
 
-## El holocausto del ganado y la aceptación (1:3-9) #vayikra_1_3-9
+## El holocausto del ganado y la aceptación (1:3-9) #levitico_1_3-9
 
 Si la ofrenda es del ganado, el texto pide «macho sin defecto» y que la persona lo acerque a la entrada de la tienda «para su aceptación delante de יהוה». La secuencia continúa: pone su mano sobre la cabeza, degüella el animal, los hijos de Aharon presentan la sangre y la arrojan alrededor del altar; después se despelleja, se corta y se lava lo interior y las piernas antes de poner todo sobre el fuego. Eric llama la atención a que no se trata de un gesto mecánico. La ofrenda adecuada y el reconocimiento sacerdotal de su aceptación expresan la voluntad de יהוה, no una transacción manipulable.
 
@@ -55,7 +55,7 @@ Si la ofrenda es del ganado, el texto pide «macho sin defecto» y que la person
 
 La expresión final, «olor agradable a יהוה», no convierte a יהוה en una divinidad alimentada por humo. Es la forma ritual del texto para describir una ofrenda recibida. Hebreos 10:5-10, que Eric cita, toma el lenguaje de sacrificio y lo lee a la luz del cuerpo preparado y de hacer la voluntad de Dios. Esa lectura explica la dirección cristológica de la clase, pero Hebreos no borra los detalles de Vayikra: los detalles son precisamente los que hacen visible la materialidad del acercamiento.
 
-## Rebaño, aves y acceso que no depende de riqueza (1:10-17) #vayikra_1_10-17
+## Rebaño, aves y acceso que no depende de riqueza (1:10-17) #levitico_1_10-17
 
 Los vv. 10-13 repiten el patrón para ovejas o cabras: macho sin defecto, mano, degüello, sangre, cortes y fuego. La repetición demuestra que cambiar de ganado mayor a ganado menor no cambia el centro: el oferente trae algo vivo, apto y tangible; los sacerdotes ministran la sangre; el altar recibe la ofrenda. Eric pasa luego a las aves de los vv. 14-17. El texto contempla tórtolas o palominos, con un procedimiento adaptado: el sacerdote acerca, desprende la cabeza, deja salir la sangre en la pared del altar, quita el buche y las plumas, abre el ave sin dividirla por completo y la quema.
 

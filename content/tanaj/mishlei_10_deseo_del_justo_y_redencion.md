@@ -4,12 +4,12 @@ description: "Mishlei 10:20-24 sobre la lengua purificada, el pastoreo de muchos
 date: 2026-08-06
 tags: [mishlei, mishlei_10, deseo, redencion, lengua, bendicion]
 references:
-  - "#mishlei_10_20"
-  - "#mishlei_10_21"
-  - "#mishlei_10_22"
-  - "#mishlei_10_23"
-  - "#mishlei_10_24"
-  - "#mishlei_11_23"
+  - "#proverbios_10_20"
+  - "#proverbios_10_21"
+  - "#proverbios_10_22"
+  - "#proverbios_10_23"
+  - "#proverbios_10_24"
+  - "#proverbios_11_23"
   - "#salmos_23_1"
 sources:
   - "https://www.youtube.com/watch?v=OjAJO3V4XGs"
@@ -32,11 +32,11 @@ Esta nota organiza la clase pública sobre Mishlei 10:20-24, la tercera parte de
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_10_20 | כסף נבחר לשון צדיק לב רשעים כמעט | Plata escogida es la lengua del justo, el corazón de los condenados vale poco. |
-| #mishlei_10_21 | שפתי צדיק ירעו רבים ואוילים בחסר לב ימותו | Los labios del justo apacentarán a muchos, pero los tontos en falta de corazón morirán. |
-| #mishlei_10_22 | ברכת יהוה היא תעשיר ולא יוסף עצב עמה | La bendición de יהוה es la que enriquece, y no añadirá dolor con ella. |
-| #mishlei_10_23 | כשחוק לכסיל עשות זמה וחכמה לאיש תבונה | Como risa para el torpe es hacer artimaña, y la sabiduría, para el hombre de entendimiento. |
-| #mishlei_10_24 | מגורת רשע היא תבואנו ותאות צדיקים יתן | Lo que teme el condenado vendrá a él, y el deseo de los justos Él dará. |
+| #proverbios_10_20 | כסף נבחר לשון צדיק לב רשעים כמעט | Plata escogida es la lengua del justo, el corazón de los condenados vale poco. |
+| #proverbios_10_21 | שפתי צדיק ירעו רבים ואוילים בחסר לב ימותו | Los labios del justo apacentarán a muchos, pero los tontos en falta de corazón morirán. |
+| #proverbios_10_22 | ברכת יהוה היא תעשיר ולא יוסף עצב עמה | La bendición de יהוה es la que enriquece, y no añadirá dolor con ella. |
+| #proverbios_10_23 | כשחוק לכסיל עשות זמה וחכמה לאיש תבונה | Como risa para el torpe es hacer artimaña, y la sabiduría, para el hombre de entendimiento. |
+| #proverbios_10_24 | מגורת רשע היא תבואנו ותאות צדיקים יתן | Lo que teme el condenado vendrá a él, y el deseo de los justos Él dará. |
 
 ## La plata escogida de una lengua purificada
 
@@ -76,11 +76,11 @@ La corrección de la clase no desprecia toda petición concreta. Si una petició
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_10_20 | La lengua del justo es plata escogida porque la fuente de vida está en su boca; la disciplina la purifica. | Contraste textual apoyado; proceso de purificación tratado como aplicación. |
-| #mishlei_10_21 | Los labios del justo apacientan a muchos; Yehoshua es el justo y usa a sus justificados para alimentar al rebaño. | Verbo de pastoreo apoyado; identificación mesiánica y aplicación comunitaria calificadas. |
-| #mishlei_10_22 | La bendición de יהוה enriquece sin añadir dolor; riqueza significa tesoro celestial y fruto, no prosperidad mundana. | Primer contraste apoyado; interpretación de riqueza y **(עצב)** calificada. |
-| #mishlei_10_23 | El torpe se ríe al hacer artimañas; el entendido se alegra en la sabiduría y la disciplina. | Contraste textual apoyado; relación con la Torah atribuida a la clase. |
-| #mishlei_10_24 | El deseo del justo es la redención y la voluntad de יהוה, no el apetito de la carne. | Contraste textual apoyado; lectura del deseo como esperanza mesiánica calificada. |
+| #proverbios_10_20 | La lengua del justo es plata escogida porque la fuente de vida está en su boca; la disciplina la purifica. | Contraste textual apoyado; proceso de purificación tratado como aplicación. |
+| #proverbios_10_21 | Los labios del justo apacientan a muchos; Yehoshua es el justo y usa a sus justificados para alimentar al rebaño. | Verbo de pastoreo apoyado; identificación mesiánica y aplicación comunitaria calificadas. |
+| #proverbios_10_22 | La bendición de יהוה enriquece sin añadir dolor; riqueza significa tesoro celestial y fruto, no prosperidad mundana. | Primer contraste apoyado; interpretación de riqueza y **(עצב)** calificada. |
+| #proverbios_10_23 | El torpe se ríe al hacer artimañas; el entendido se alegra en la sabiduría y la disciplina. | Contraste textual apoyado; relación con la Torah atribuida a la clase. |
+| #proverbios_10_24 | El deseo del justo es la redención y la voluntad de יהוה, no el apetito de la carne. | Contraste textual apoyado; lectura del deseo como esperanza mesiánica calificada. |
 
 ## Conexiones principales
 

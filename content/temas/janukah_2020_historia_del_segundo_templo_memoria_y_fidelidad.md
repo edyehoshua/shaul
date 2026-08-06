@@ -13,8 +13,8 @@ references:
   - "#daniel_11_31-35"
   - "#maccabeos_1_41-64"
   - "#maccabeos_4_36-59"
-  - "#yojanan_10_22-30"
-  - "#devarim_6_4-9"
+  - "#juan_10_22-30"
+  - "#deuteronomio_6_4-9"
 sources:
   - "https://www.youtube.com/watch?v=6xs3BWuATN4"
   - "docs/scriptures/tth/json/daniel.json"
@@ -55,7 +55,7 @@ La memoria no debe separarse de la Torah. **(זָכַר)**, _zakhar_, significa 
 
 La repetición de una memoria puede servir para agradecer la preservación, examinar la fidelidad y enseñar a la siguiente generación. No puede absolver la idolatría, la violencia ni la injusticia de una comunidad que la celebra. La pregunta de la sesión debe evaluarse con ese control: la historia del segundo Templo importa, pero la memoria bíblica siempre devuelve al oyente a la palabra y a la obediencia.
 
-## Juan 10:22-30: dedicación y voz del Pastor #yojanan_10_22-30
+## Juan 10:22-30: dedicación y voz del Pastor #juan_10_22-30
 
 Juan 10:22 sitúa a Yehoshua en Jerusalén durante la fiesta de la dedicación. El texto no dice que la dedicación del segundo Templo y la fiesta hayan sido idénticas a cada etapa narrada en Macabeos; sí ofrece un escenario histórico en el que Yehoshua habla de sus obras, de sus ovejas y de la mano del Padre. **(ἐγκαίνια)**, _enkainia_, significa dedicación, renovación o inauguración; su sentido ordinario es **directo**, mientras su relación exacta con cada antecedente histórico es **cualificada** por el contexto de Juan.
 

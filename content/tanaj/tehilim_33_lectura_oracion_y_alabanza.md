@@ -9,17 +9,17 @@ tags:
   - oracion
   - creacion
 references:
-  - "#tehilim_33_1"
-  - "#tehilim_33_2"
-  - "#tehilim_33_5"
-  - "#tehilim_33_6"
-  - "#tehilim_33_7"
-  - "#tehilim_33_8"
-  - "#tehilim_33_12"
-  - "#tehilim_33_13"
-  - "#tehilim_33_19"
-  - "#tehilim_33_20"
-  - "#tehilim_33_22"
+  - "#salmos_33_1"
+  - "#salmos_33_2"
+  - "#salmos_33_5"
+  - "#salmos_33_6"
+  - "#salmos_33_7"
+  - "#salmos_33_8"
+  - "#salmos_33_12"
+  - "#salmos_33_13"
+  - "#salmos_33_19"
+  - "#salmos_33_20"
+  - "#salmos_33_22"
 sources:
   - "https://www.youtube.com/watch?v=HEY9sYeTbnk"
   - "docs/scriptures/oe/json/psalms/33.json"
@@ -40,13 +40,13 @@ La nota sigue Tehilim 33 en orden textual. La transcripción automática puede o
 
 | Unidad         | Texto hebreo local (OE, sin segmentación) | Función en la lectura                                                              |
 | -------------- | ----------------------------------------- | ---------------------------------------------------------------------------------- |
-| #tehilim_33_1  | רננו צדיקים ביהוה לישרים נאוה תהלה        | La invitación a רננו abre la respuesta de los justos.                              |
-| #tehilim_33_5  | אהב צדקה ומשפט חסד יהוה מלאה הארץ         | La justicia, el juicio y el חסד caracterizan la tierra llena de la acción de יהוה. |
-| #tehilim_33_6  | בדבר יהוה שמים נעשו וברוח פיו כל צבאם     | Palabra y aliento explican la constitución de cielos y huestes.                    |
-| #tehilim_33_7  | כנס כנד מי הים נתן באצרות תהומות          | El salmo recuerda el dominio ordenado sobre el mar y los abismos.                  |
-| #tehilim_33_12 | אשרי הגוי אשר יהוה אלהיו העם בחר לנחלה לו | La bienaventuranza se dirige a un pueblo cuyo Dios es יהוה.                        |
-| #tehilim_33_20 | נפשנו חכתה ליהוה עזרנו ומגננו הוא         | La comunidad termina esperando, reconociendo ayuda y escudo.                       |
-| #tehilim_33_22 | יהי חסדך יהוה עלינו כאשר יחלנו לך         | La súplica final pide חסד conforme a la esperanza depositada en él.                |
+| #salmos_33_1  | רננו צדיקים ביהוה לישרים נאוה תהלה        | La invitación a רננו abre la respuesta de los justos.                              |
+| #salmos_33_5  | אהב צדקה ומשפט חסד יהוה מלאה הארץ         | La justicia, el juicio y el חסד caracterizan la tierra llena de la acción de יהוה. |
+| #salmos_33_6  | בדבר יהוה שמים נעשו וברוח פיו כל צבאם     | Palabra y aliento explican la constitución de cielos y huestes.                    |
+| #salmos_33_7  | כנס כנד מי הים נתן באצרות תהומות          | El salmo recuerda el dominio ordenado sobre el mar y los abismos.                  |
+| #salmos_33_12 | אשרי הגוי אשר יהוה אלהיו העם בחר לנחלה לו | La bienaventuranza se dirige a un pueblo cuyo Dios es יהוה.                        |
+| #salmos_33_20 | נפשנו חכתה ליהוה עזרנו ומגננו הוא         | La comunidad termina esperando, reconociendo ayuda y escudo.                       |
+| #salmos_33_22 | יהי חסדך יהוה עלינו כאשר יחלנו לך         | La súplica final pide חסד conforme a la esperanza depositada en él.                |
 
 ## Léxico clave
 
@@ -57,7 +57,7 @@ La nota sigue Tehilim 33 en orden textual. La transcripción automática puede o
 | **(חסד)**             | hesed           | bondad leal, misericordia, solidaridad pactal     | En vv. 5 y 22 funciona como cualidad de יהוה y como petición comunitaria; “solidaridad” es una aproximación contextual útil, no equivalencia total.                                                                               |
 | **(דבר)** y **(רוח)** | davar y ruaj    | palabra; viento, aliento o espíritu               | En v. 6 la pareja presenta el obrar creador de יהוה. La exposición de Eric conecta palabra con orden eficaz y רוח con poder; el vínculo es textual, mientras que extenderlo a una doctrina sistemática excede el versículo.       |
 
-## 33:1-5 — El imperativo de la alabanza y el carácter de יהוה #tehilim_33_1-5
+## 33:1-5 — El imperativo de la alabanza y el carácter de יהוה #salmos_33_1-5
 
 Eric comienza observando que la división moderna en capítulos no siempre coincide con la composición original y que el salmo puede continuar el movimiento de Tehilim 32. Esa observación literaria merece prudencia: el texto recibido sí presenta aquí un capítulo nuevo, pero el v. 1 entra directamente con “רננו צדיקים ביהוה”. La clase explica que un imperativo sobre una emoción no ordena fabricar un sentimiento, sino recordar y conservar una orientación; aplicada a este salmo, la idea encuentra apoyo en la invitación a los justos, aunque su conexión con las bienaventuranzas del Evangelio es intertextual y no una glosa del hebreo.
 
@@ -65,7 +65,7 @@ En los vv. 2-3 Eric detalla la lira y el arpa de diez cuerdas y propone usar las
 
 El v. 4 afirma que la palabra de יהוה es recta y toda su obra se hace con fidelidad; el v. 5 añade צדקה, משפט y חסד. Eric explica que la justicia recibida por gracia debe producir una actuación justa y que la misericordia llena la tierra. La primera parte concuerda como aplicación con el contraste entre carácter y obra, pero el salmo no formula la clasificación técnica de dos justicias; esa elaboración queda cualificada. La afirmación explícita es más firme: la bondad leal de יהוה no es una excepción aislada, sino una descripción de la tierra.
 
-## 33:6-12 — Palabra creadora, mar ordenado y consejo que permanece #tehilim_33_6-12
+## 33:6-12 — Palabra creadora, mar ordenado y consejo que permanece #salmos_33_6-12
 
 La clase lee el v. 6 junto con Génesis: “בדבר יהוה שמים נעשו וברוח פיו כל צבאם”. Eric subraya que los cielos fueron hechos por la palabra y que צבא puede designar un conjunto organizado, no solamente un ejército militar. El texto apoya la acción creadora y usa “toda su hueste”; “grupo dispuesto para una tarea” es una explicación contextual razonable, no una traducción única. La hoja léxica evita convertir רוח automáticamente en una sola categoría doctrinal: aquí puede señalar viento, aliento o espíritu, y la fuerza inmediata es el poder vivificante y eficaz de la boca de יהוה.
 
@@ -73,13 +73,13 @@ En el v. 7 Eric conecta la imagen de las aguas reunidas “como un muro” con �
 
 Los vv. 10-12 pasan de la creación a la política: יהוה frustra el consejo de las naciones, mientras su propio consejo permanece de generación en generación. Eric explica מחשבות como diseños o planes trazados, y lee דור ודור como los habitantes de este mundo y del venidero, no como una cuenta cronológica. La primera aclaración tiene apoyo aproximado en el uso de “pensamientos/planes”; la segunda es una propuesta pedagógica que debe mantenerse como inferencia. El texto sí contrasta la inestabilidad de los proyectos humanos con la permanencia del consejo divino y llama dichoso al pueblo escogido como herencia.
 
-## 33:13-19 — El ojo que examina y la falsa seguridad del poder #tehilim_33_13-19
+## 33:13-19 — El ojo que examina y la falsa seguridad del poder #salmos_33_13-19
 
 Desde los cielos, יהוה mira a los hijos de Adán y forma sus corazones para comprender sus obras (vv. 13-15). Eric desarrolla el verbo יצר como el trabajo del alfarero: no solo una fabricación inicial, sino la capacidad de volver a moldear. El verbo efectivamente puede evocar formar o modelar; la extensión pastoral a la destrucción y reconstrucción repetida del corazón es una aplicación atribuida, no el único sentido del versículo.
 
 La secuencia de vv. 16-19 niega que un rey sea salvado por la abundancia de su ejército o que el caballo asegure victoria. Eric conserva aquí un énfasis material: ni fuerza, armadura ni capacidad militar pueden escapar del alcance del juicio de יהוה. El v. 18 no promete una vida sin dificultades; dice que el ojo de יהוה está sobre quienes le temen y que su misericordia libra de muerte y sostiene en hambre. Por eso la enseñanza puede alimentar confianza, pero no debe transformarse en promesa de riqueza o inmunidad.
 
-## 33:20-22 — Espera, ayuda y respuesta comunitaria #tehilim_33_20-22
+## 33:20-22 — Espera, ayuda y respuesta comunitaria #salmos_33_20-22
 
 La primera persona plural de vv. 20-22 hace que la enseñanza desembarque en oración: “נפשנו חכתה ליהוה”, “él es nuestro ayuda y escudo”, y “יהי חסדך… כאשר יחלנו לך”. Eric insiste en que la comunidad debe esperar, no atribuir la liberación a su propia fuerza, y recibir cada bien como obra de יהוה. El salmo respalda la espera, la ayuda y el חסד pedido; la formulación más amplia sobre toda experiencia buena se mantiene como aplicación pastoral.
 

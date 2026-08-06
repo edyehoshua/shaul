@@ -10,11 +10,11 @@ tags:
   - sion
   - eric-youtube
 references:
-  - "#tehilim_137_1-4"
-  - "#tehilim_137_5-6"
-  - "#tehilim_137_7-9"
-  - "#ejah_3_21"
-  - "#ieshaiahu_40_1"
+  - "#salmos_137_1-4"
+  - "#salmos_137_5-6"
+  - "#salmos_137_7-9"
+  - "#lamentaciones_3_21"
+  - "#isaias_40_1"
 sources:
   - "https://www.youtube.com/watch?v=hGRkNtObsMQ"
   - "docs/scriptures/oe/json/psalms/137.json"
@@ -35,11 +35,11 @@ La clase considera dos posibilidades para la composición: una visión profétic
 
 | Unidad           | Texto local (OE, hebreo sin segmentación)                                                                                                                                      | Función                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| #tehilim_137_1-4 | **על נהרות בבל שם ישבנו גם בכינו בזכרנו את ציון על ערבים בתוכה תלינו כנרותינו כי שם שאלונו שובינו דברי שיר ותוללינו שמחה שירו לנו משיר ציון איך נשיר את שיר יהוה על אדמת נכר** | Sentarse, llorar, colgar arpas y negarse a cantar en tierra extranjera.  |
-| #tehilim_137_5-6 | **אם אשכחך ירושלם תשכח ימיני תדבק לשוני לחכי אם לא אזכרכי אם לא אעלה את ירושלם על ראש שמחתי**                                                                                  | Juramento corporal de no olvidar Jerusalén.                              |
-| #tehilim_137_7-9 | **זכר יהוה לבני אדום את יום ירושלם האמרים ערו ערו עד היסוד בה בת בבל השדודה אשרי שישלם לך את גמולך שגמלת לנו אשרי שיאחז ונפץ את עלליך אל הסלע**                                | Petición de memoria judicial y lenguaje de retribución contra Babilonia. |
+| #salmos_137_1-4 | **על נהרות בבל שם ישבנו גם בכינו בזכרנו את ציון על ערבים בתוכה תלינו כנרותינו כי שם שאלונו שובינו דברי שיר ותוללינו שמחה שירו לנו משיר ציון איך נשיר את שיר יהוה על אדמת נכר** | Sentarse, llorar, colgar arpas y negarse a cantar en tierra extranjera.  |
+| #salmos_137_5-6 | **אם אשכחך ירושלם תשכח ימיני תדבק לשוני לחכי אם לא אזכרכי אם לא אעלה את ירושלם על ראש שמחתי**                                                                                  | Juramento corporal de no olvidar Jerusalén.                              |
+| #salmos_137_7-9 | **זכר יהוה לבני אדום את יום ירושלם האמרים ערו ערו עד היסוד בה בת בבל השדודה אשרי שישלם לך את גמולך שגמלת לנו אשרי שיאחז ונפץ את עלליך אל הסלע**                                | Petición de memoria judicial y lenguaje de retribución contra Babilonia. |
 
-## Sentarse junto a los ríos y llorar — 137:1-4 #tehilim_137_1-4
+## Sentarse junto a los ríos y llorar — 137:1-4 #salmos_137_1-4
 
 Eric comienza distinguiendo la ciudad de Babilonia de la región más amplia de Mesopotamia y relaciona los ríos con el Éufrates, el Tigris y canales del territorio. El texto dice literalmente **על נהרות בבל**, _al naharot Bavel_, «junto a los ríos de Babilonia». **נהר**, _nahar_, significa río o corriente; su sentido geográfico es directo. La clase añade que «río» puede funcionar metafóricamente para doctrinas o corrientes de pensamiento. Esa lectura pastoral es aproximada y no debe desplazar el escenario de exiliados sentados junto al agua.
 
@@ -47,7 +47,7 @@ La repetición de **שם**, _sham_, «allí», fija el lugar de la experiencia: 
 
 En el v. 2 los exiliados cuelgan sus arpas sobre los álamos. Eric lo entiende como una suspensión del canto: no es que hayan perdido para siempre la capacidad musical, sino que la alegría no puede fingirse mientras Sion está devastada. **כנור**, _kinnor_, es arpa o lira; el objeto es un instrumento concreto. En el v. 3 los captores piden una canción de Sion, y los opresores piden alegría. La respuesta del v. 4 es una pregunta: «¿Cómo cantaremos el canto de יהוה sobre tierra extranjera?». **שיר**, _shir_, significa canto; **נכר**, _nekar_, extranjero o extraño. La clase aplica esto contra producir adoración para satisfacer al imperio o a quienes controlan la escena. El texto sostiene la tensión entre canción sagrada y tierra de cautividad; la aplicación a toda plataforma contemporánea es pedagógica.
 
-## El juramento de no olvidar Jerusalén — 137:5-6 #tehilim_137_5-6
+## El juramento de no olvidar Jerusalén — 137:5-6 #salmos_137_5-6
 
 El centro del salmo pasa del paisaje a la memoria jurada: «Si te olvidare, Jerusalén, que se olvide mi diestra». Eric subraya que la memoria bíblica no consiste en una nostalgia sentimental, sino en colocar Jerusalén por encima de la propia alegría. **שכח**, _shakhaj_, significa olvidar o descuidar; **זכר**, _zakhar_, recordar o traer a memoria. La construcción condicional expresa un juramento poético: si la memoria falla, que el cuerpo del cantor quede incapacitado.
 
@@ -55,7 +55,7 @@ La diestra puede olvidar su destreza, la lengua puede pegarse al paladar y Jerus
 
 La frase **ראש שמחתי**, _rosh simchati_, significa literalmente «cabeza de mi alegría» o «principal de mi alegría». Eric la lee como una prioridad: Jerusalén no queda como un recuerdo secundario entre otros deseos. La relación con «poner primero» es contextual y aproximada, pero el paralelismo sí establece que Jerusalén debe ocupar el lugar principal en la alegría del hablante. El duelo no termina en olvido; se transforma en fidelidad de memoria.
 
-## Edom, Babilonia y el clamor por justicia — 137:7-9 #tehilim_137_7-9
+## Edom, Babilonia y el clamor por justicia — 137:7-9 #salmos_137_7-9
 
 El v. 7 pide: «Recuerda, יהוה, a los hijos de Edom el día de Jerusalén». Eric observa que la oración no nace de una irritación abstracta: recuerda a quienes dijeron «arrasen, arrasen hasta sus fundamentos». **ערו**, _aru_, significa desnudar, devastar o arrasar según el contexto; aquí el grito pide que Jerusalén sea destruida desde el fundamento. El salmo no suaviza el daño recibido.
 

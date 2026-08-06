@@ -9,10 +9,10 @@ tags:
   - disciplina
   - besorah
 references:
-  - "#mishlei_15_25-33"
-  - "#matityahu_6_22-23"
-  - "#bamidbar_4_13"
-  - "#tehilim_23_5"
+  - "#proverbios_15_25-33"
+  - "#mateo_6_22-23"
+  - "#numeros_4_13"
+  - "#salmos_23_5"
 sources:
   - "https://www.youtube.com/watch?v=z7sYcDxoPts"
 source_ids:
@@ -31,13 +31,13 @@ Esta nota organiza la clase sobre Mishlei 15:25-33, siguiendo el orden de sus un
 
 | Referencia | Texto local (TTH) | Función en la enseñanza |
 | --- | --- | --- |
-| #mishlei_15_25 | «La casa de los altivos borrará יהוה, pero afirmará la frontera de la viuda.» | La justicia divina se opone a la soberbia que despoja al débil. |
-| #mishlei_15_26-29 | «Abominación de יהוה son los pensamientos del malo, pero los limpios tienen dichos de deleite»; el justo medita antes de responder y יהוה escucha su tefilah. | La pureza del pensamiento, la palabra y la oración aparecen juntas. |
-| #mishlei_15_30 | «La luminaria de los ojos alegra el corazón; la buena noticia engrasa los huesos.» | El corazón recibe alegría y el cuerpo es fortalecido por una noticia buena. |
-| #mishlei_15_31-33 | El oído que escucha la reprensión permanece con los sabios; el temor de יהוה es disciplina de sabiduría y antes de la honra está la humildad. | La escucha humilde es el camino hacia la sabiduría y la honra. |
-| #matityahu_6_22-23 | «La lámpara del cuerpo son los ojos»; el ojo bueno ilumina y el malo oscurece todo el cuerpo. | Yehoshua ofrece una conexión temática para leer la imagen de la luminaria, sin convertirla en una cita de Mishlei. |
-| #bamidbar_4_13 | «Y le quitarán las cenizas al altar y extenderán sobre él una vestidura púrpura.» | La exposición usa la ceniza del altar para explicar una imagen de purificación; el enlace simbólico debe distinguirse del sentido inmediato del verso. |
-| #tehilim_23_5 | «Hiciste acepta con aceite mi cabeza, mi copa es saturación.» | La clase relaciona aceptación, purificación y provisión; la conexión mesiánica es una lectura canónica, no una traducción adicional. |
+| #proverbios_15_25 | «La casa de los altivos borrará יהוה, pero afirmará la frontera de la viuda.» | La justicia divina se opone a la soberbia que despoja al débil. |
+| #proverbios_15_26-29 | «Abominación de יהוה son los pensamientos del malo, pero los limpios tienen dichos de deleite»; el justo medita antes de responder y יהוה escucha su tefilah. | La pureza del pensamiento, la palabra y la oración aparecen juntas. |
+| #proverbios_15_30 | «La luminaria de los ojos alegra el corazón; la buena noticia engrasa los huesos.» | El corazón recibe alegría y el cuerpo es fortalecido por una noticia buena. |
+| #proverbios_15_31-33 | El oído que escucha la reprensión permanece con los sabios; el temor de יהוה es disciplina de sabiduría y antes de la honra está la humildad. | La escucha humilde es el camino hacia la sabiduría y la honra. |
+| #mateo_6_22-23 | «La lámpara del cuerpo son los ojos»; el ojo bueno ilumina y el malo oscurece todo el cuerpo. | Yehoshua ofrece una conexión temática para leer la imagen de la luminaria, sin convertirla en una cita de Mishlei. |
+| #numeros_4_13 | «Y le quitarán las cenizas al altar y extenderán sobre él una vestidura púrpura.» | La exposición usa la ceniza del altar para explicar una imagen de purificación; el enlace simbólico debe distinguirse del sentido inmediato del verso. |
+| #salmos_23_5 | «Hiciste acepta con aceite mi cabeza, mi copa es saturación.» | La clase relaciona aceptación, purificación y provisión; la conexión mesiánica es una lectura canónica, no una traducción adicional. |
 
 ## Justicia que protege la frontera de la viuda
 

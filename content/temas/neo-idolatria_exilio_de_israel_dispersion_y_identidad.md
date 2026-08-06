@@ -10,15 +10,15 @@ tags:
   - obediencia
   - mesias
 references:
-  - "#devarim_28_63"
-  - "#devarim_28_64"
-  - "#devarim_30_1"
-  - "#iejezkel_4_4"
-  - "#romiyim_9_6"
-  - "#romiyim_9_8"
-  - "#romiyim_11_17"
-  - "#jacobo_1_1"
-  - "#ieshaiahu_8_20"
+  - "#deuteronomio_28_63"
+  - "#deuteronomio_28_64"
+  - "#deuteronomio_30_1"
+  - "#ezequiel_4_4"
+  - "#romanos_9_6"
+  - "#romanos_9_8"
+  - "#romanos_11_17"
+  - "#santiago_1_1"
+  - "#isaias_8_20"
 sources:
   - "https://www.youtube.com/watch?v=V4bb_J4dRZI"
   - "docs/scriptures/tth/json/devarim.json"
@@ -40,11 +40,11 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre los
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #devarim_28_63-64 | «Serán arrancados de la tierra... Además יהוה te dispersará entre los pueblos de un extremo de la tierra hasta el otro... y allí servirás a otros dioses de madera y de piedra». | Marco del exilio como consecuencia de la desobediencia y de la dispersión entre las naciones. |
-| #devarim_30_1 | «Y será que cuando vengan sobre ti todas estas cosas, la bendición y la maldición... y lo devuelvas a tu corazón entre todas las naciones». | La dispersión no cancela la posibilidad de volver el corazón a la palabra. |
+| #deuteronomio_28_63-64 | «Serán arrancados de la tierra... Además יהוה te dispersará entre los pueblos de un extremo de la tierra hasta el otro... y allí servirás a otros dioses de madera y de piedra». | Marco del exilio como consecuencia de la desobediencia y de la dispersión entre las naciones. |
+| #deuteronomio_30_1 | «Y será que cuando vengan sobre ti todas estas cosas, la bendición y la maldición... y lo devuelvas a tu corazón entre todas las naciones». | La dispersión no cancela la posibilidad de volver el corazón a la palabra. |
 | #iezaiahu_8_20 | «A la Torá y al testimonio»; si no hablan conforme a esto, no les ha amanecido. | Criterio para no sustituir el pacto por reclamos religiosos o genealógicos. |
-| #romiyim_9_6, #romiyim_9_8 | «No todos los que descienden de Israel son Israel»; los hijos según la promesa son contados como descendencia. | La clase usa la distinción para cuestionar que la carne, por sí sola, defina la pertenencia salvadora. |
-| #romiyim_11_17 | Delitzsch describe al acebuche injertado entre las ramas y hecho partícipe de la raíz y de la grosura del olivo. | La incorporación de las naciones se presenta como participación recibida, no como jactancia ni reemplazo. |
+| #romanos_9_6, #romanos_9_8 | «No todos los que descienden de Israel son Israel»; los hijos según la promesa son contados como descendencia. | La clase usa la distinción para cuestionar que la carne, por sí sola, defina la pertenencia salvadora. |
+| #romanos_11_17 | Delitzsch describe al acebuche injertado entre las ramas y hecho partícipe de la raíz y de la grosura del olivo. | La incorporación de las naciones se presenta como participación recibida, no como jactancia ni reemplazo. |
 
 ## El final del reino del Norte como proceso
 

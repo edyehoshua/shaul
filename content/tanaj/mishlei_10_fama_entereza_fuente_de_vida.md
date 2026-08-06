@@ -4,16 +4,16 @@ description: "Mishlei 10:7-12 sobre memoria, mandamientos, integridad, boca, vio
 date: 2026-08-06
 tags: [mishlei, mishlei_10, justo, integridad, boca, amor, torah]
 references:
-  - "#mishlei_10_7"
-  - "#mishlei_10_8"
-  - "#mishlei_10_9"
-  - "#mishlei_10_10"
-  - "#mishlei_10_11"
-  - "#mishlei_10_12"
-  - "#tehilim_138_6"
+  - "#proverbios_10_7"
+  - "#proverbios_10_8"
+  - "#proverbios_10_9"
+  - "#proverbios_10_10"
+  - "#proverbios_10_11"
+  - "#proverbios_10_12"
+  - "#salmos_138_6"
   - "#zecaryah_14_8"
-  - "#iojanan_7_38"
-  - "#keifa_alef_4_8"
+  - "#juan_7_38"
+  - "#1_pedro_4_8"
 sources:
   - "https://www.youtube.com/watch?v=i8ITOmG8_-4"
   - "docs/scriptures/oe/json/proverbs/10.json"
@@ -35,12 +35,12 @@ Esta nota organiza la enseñanza pública sobre Mishlei 10:7-12. Sigue la secuen
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_10_7 | זכר צדיק לברכה ושם רשעים ירקב | El recuerdo del justo es para bendición, pero el nombre de los condenados se pudrirá. |
-| #mishlei_10_8 | חכם לב יקח מצות ואויל שפתים ילבט | El sabio de corazón tomará los mandamientos, pero el tonto de labios se cansará. |
-| #mishlei_10_9 | הולך בתם ילך בטח ומעקש דרכיו יודע | El que va en entereza irá confiado, pero el que tuerce sus caminos se dará a conocer. |
-| #mishlei_10_10 | קרץ עין יתן עצבת ואויל שפתים ילבט | El que guiña el ojo dará aflicción, y el tonto de labios se cansará. |
-| #mishlei_10_11 | מקור חיים פי צדיק ופי רשעים יכסה חמס | Fuente de vida es la boca del justo, pero la boca de los condenados ocultará violencia. |
-| #mishlei_10_12 | שנאה תעורר מדנים ועל כל פשעים תכסה אהבה | El odio despierta contiendas, pero sobre todas las transgresiones cubrirá el amor. |
+| #proverbios_10_7 | זכר צדיק לברכה ושם רשעים ירקב | El recuerdo del justo es para bendición, pero el nombre de los condenados se pudrirá. |
+| #proverbios_10_8 | חכם לב יקח מצות ואויל שפתים ילבט | El sabio de corazón tomará los mandamientos, pero el tonto de labios se cansará. |
+| #proverbios_10_9 | הולך בתם ילך בטח ומעקש דרכיו יודע | El que va en entereza irá confiado, pero el que tuerce sus caminos se dará a conocer. |
+| #proverbios_10_10 | קרץ עין יתן עצבת ואויל שפתים ילבט | El que guiña el ojo dará aflicción, y el tonto de labios se cansará. |
+| #proverbios_10_11 | מקור חיים פי צדיק ופי רשעים יכסה חמס | Fuente de vida es la boca del justo, pero la boca de los condenados ocultará violencia. |
+| #proverbios_10_12 | שנאה תעורר מדנים ועל כל פשעים תכסה אהבה | El odio despierta contiendas, pero sobre todas las transgresiones cubrirá el amor. |
 
 ## Memoria, corazón y mandamientos
 
@@ -81,10 +81,10 @@ La exposición también distingue **(פשעים)**, _peshaim_, como transgresion
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_10_7-8 | La memoria del justo bendice; el sabio de corazón toma mandamientos y el necio superficial se cansa. | Apoyo textual; lectura de transmisión y obediencia atribuida. |
-| #mishlei_10_9 | La entereza lleva a seguridad y el camino torcido será conocido; se conecta con heredad y conocimiento de lejos. | Texto apoyado; aplicación de tierra y expulsión calificada. |
-| #mishlei_10_10-11 | El guiño, la calumnia y los labios necios producen aflicción; la boca del justo es fuente de vida. | Contraste textual; conexión mesiánica con Yehoshua y agua viva calificada. |
-| #mishlei_10_12 | El odio despierta disputas y el amor cubre transgresiones; se conecta con 1 Pedro 4:8 y el perdón. | Apoyo textual e intertexto; límite pastoral añadido para no encubrir injusticia. |
+| #proverbios_10_7-8 | La memoria del justo bendice; el sabio de corazón toma mandamientos y el necio superficial se cansa. | Apoyo textual; lectura de transmisión y obediencia atribuida. |
+| #proverbios_10_9 | La entereza lleva a seguridad y el camino torcido será conocido; se conecta con heredad y conocimiento de lejos. | Texto apoyado; aplicación de tierra y expulsión calificada. |
+| #proverbios_10_10-11 | El guiño, la calumnia y los labios necios producen aflicción; la boca del justo es fuente de vida. | Contraste textual; conexión mesiánica con Yehoshua y agua viva calificada. |
+| #proverbios_10_12 | El odio despierta disputas y el amor cubre transgresiones; se conecta con 1 Pedro 4:8 y el perdón. | Apoyo textual e intertexto; límite pastoral añadido para no encubrir injusticia. |
 
 ## Conexiones principales
 

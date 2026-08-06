@@ -13,9 +13,9 @@ import lookup_verse  # noqa: E402
 
 class LookupVerseTests(unittest.TestCase):
     def test_qohelet_raw_oe_fallback_uses_canonical_tag_alias(self) -> None:
-        result = lookup_verse.lookup("#qohelet_7_1")
+        result = lookup_verse.lookup("#eclesiastes_7_1")
 
-        self.assertEqual(result["tag"], "#qohelet_7_1")
+        self.assertEqual(result["tag"], "#eclesiastes_7_1")
         self.assertEqual(result["tth"], None)
         self.assertEqual(result["delitzsch"], None)
         self.assertEqual(result["oe"], "טוב שם מ/שמן טוב ו/יום ה/מות מ/יום הולד/ו")

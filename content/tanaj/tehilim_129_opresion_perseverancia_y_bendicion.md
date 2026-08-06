@@ -10,13 +10,13 @@ tags:
   - justicia
   - sion
 references:
-  - "#tehilim_129_1-2"
-  - "#tehilim_129_3"
-  - "#tehilim_129_4"
-  - "#tehilim_129_5"
-  - "#tehilim_129_6-7"
-  - "#tehilim_129_8"
-  - "#shemot_1_8-14"
+  - "#salmos_129_1-2"
+  - "#salmos_129_3"
+  - "#salmos_129_4"
+  - "#salmos_129_5"
+  - "#salmos_129_6-7"
+  - "#salmos_129_8"
+  - "#exodo_1_8-14"
   - "#oseas_11_1"
   - "#mateo_2_13-15"
 sources:
@@ -39,16 +39,16 @@ La clase presenta Tehilim 129 como uno de los cánticos de las subidas y recorre
 
 | Referencia       | Texto hebreo local sin nikud                                                     | Movimiento del salmo                                                           |
 | ---------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| #tehilim_129_1-2 | **שיר המעלות רבת צררוני מנעורי יאמר נא ישראל / רבת צררוני מנעורי גם לא יכלו לי** | Israel recuerda una aflicción repetida que no logró vencerlo.                  |
-| #tehilim_129_3   | **על גבי חרשו חרשים האריכו למענותם למעניתם**                                     | La espalda aparece como tierra arada por los opresores.                        |
-| #tehilim_129_4   | **יהוה צדיק קצץ עבות רשעים**                                                     | יהוה justo corta las cuerdas de los malvados.                                  |
-| #tehilim_129_5   | **יבשו ויסגו אחור כל שנאי ציון**                                                 | Los que odian a Sion quedan avergonzados y retroceden.                         |
-| #tehilim_129_6-7 | **יהיו כחציר גגות שקדמת שלף יבש / שלא מלא כפו קוצר וחצנו מעמר**                  | La hierba del tejado se seca antes de florecer y no llena la mano del segador. |
-| #tehilim_129_8   | **ולא אמרו העוברים ברכת יהוה אליכם ברכנו אתכם בשם יהוה**                         | Los que pasan no pronuncian bendición sobre la cosecha de los malvados.        |
+| #salmos_129_1-2 | **שיר המעלות רבת צררוני מנעורי יאמר נא ישראל / רבת צררוני מנעורי גם לא יכלו לי** | Israel recuerda una aflicción repetida que no logró vencerlo.                  |
+| #salmos_129_3   | **על גבי חרשו חרשים האריכו למענותם למעניתם**                                     | La espalda aparece como tierra arada por los opresores.                        |
+| #salmos_129_4   | **יהוה צדיק קצץ עבות רשעים**                                                     | יהוה justo corta las cuerdas de los malvados.                                  |
+| #salmos_129_5   | **יבשו ויסגו אחור כל שנאי ציון**                                                 | Los que odian a Sion quedan avergonzados y retroceden.                         |
+| #salmos_129_6-7 | **יהיו כחציר גגות שקדמת שלף יבש / שלא מלא כפו קוצר וחצנו מעמר**                  | La hierba del tejado se seca antes de florecer y no llena la mano del segador. |
+| #salmos_129_8   | **ולא אמרו העוברים ברכת יהוה אליכם ברכנו אתכם בשם יהוה**                         | Los que pasan no pronuncian bendición sobre la cosecha de los malvados.        |
 
 ## Desde la juventud: Israel afligido, no vencido (vv. 1-2)
 
-Eric llama la atención sobre la repetición de **רבת צררוני מנעורי**, «mucho me afligieron desde mi juventud». El adverbio **רבת** aparece dos veces y hace audible que la presión no fue ocasional. La afirmación histórica recuerda que los descendientes de Israel fueron sometidos a Egipto; la clase lee esa servidumbre como una figura que también alcanza a quienes, en cada generación, son llamados a servir a יהוה. #shemot_1_8-14 confirma la realidad de una opresión que convirtió la fuerza laboral de Israel en instrumento para edificar ciudades, pero Tehilim 129 no nombra Egipto: el enlace es intertextual y tipológico, no una glosa del nombre «juventud».
+Eric llama la atención sobre la repetición de **רבת צררוני מנעורי**, «mucho me afligieron desde mi juventud». El adverbio **רבת** aparece dos veces y hace audible que la presión no fue ocasional. La afirmación histórica recuerda que los descendientes de Israel fueron sometidos a Egipto; la clase lee esa servidumbre como una figura que también alcanza a quienes, en cada generación, son llamados a servir a יהוה. #exodo_1_8-14 confirma la realidad de una opresión que convirtió la fuerza laboral de Israel en instrumento para edificar ciudades, pero Tehilim 129 no nombra Egipto: el enlace es intertextual y tipológico, no una glosa del nombre «juventud».
 
 El segundo hemistiquio pone el límite: «también no pudieron conmigo». Eric no presenta la supervivencia como ausencia de heridas; la victoria consiste en que el opresor no obtiene dominio final. Esta lectura se mantiene cerca del paralelismo: la repetición amplía la aflicción y la negación de poder. Cuando la clase aplica el pasaje a Israel espiritual, la aplicación puede orientar perseverancia, pero no debe borrar a Israel como sujeto explícito del cántico.
 
@@ -110,7 +110,7 @@ La clase usa el final para hablar del nombre con que יהוה se revela y de la 
 
 ## Conexiones principales
 
-- #shemot_1_8-14 confirma el trasfondo de Israel obligado a edificar sobre su espalda, sin convertir Egipto en el sujeto nominal de Tehilim 129.
+- #exodo_1_8-14 confirma el trasfondo de Israel obligado a edificar sobre su espalda, sin convertir Egipto en el sujeto nominal de Tehilim 129.
 - #oseas_11_1 y #mateo_2_13-15 muestran cómo Eric relaciona la salida de Israel y el regreso de Yehoshua desde Egipto; es una lectura tipológica, no una traducción del salmo.
 - La repetición de «afligieron» y «no pudieron» hace visible el contraste entre sufrimiento real y derrota final del opresor.
 - La secuencia espalda arada, ataduras cortadas, hierba seca y mano vacía mueve el poema de la explotación a la justicia.
@@ -121,7 +121,7 @@ La clase usa el final para hablar del nombre con que יהוה se revela y de la 
 - [ ] Cotejar la forma difícil de **רבת** y la traducción de los dos primeros versos en versiones antiguas.
 - [ ] Revisar léxicos para separar **חרש** «arar» de asociaciones homófonas con «sordo» antes de usar ese juego como argumento.
 - [ ] Comparar la imagen de la hierba de tejados con sus paralelos poéticos y con la práctica agrícola antigua.
-- [ ] Leer juntos Tehilim 129, #shemot_1_8-14 y #mateo_2_13-15 para mantener separados historia, tipología y aplicación mesiánica.
+- [ ] Leer juntos Tehilim 129, #exodo_1_8-14 y #mateo_2_13-15 para mantener separados historia, tipología y aplicación mesiánica.
 
 ## Conclusión
 

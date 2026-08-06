@@ -4,16 +4,16 @@ description: "Estudio de Mishlei 9 sobre la casa de la Sabiduría, la invitació
 date: 2026-08-06
 tags: [mishlei, mishlei_9, sabiduria, discernimiento, insensatez, alegoria]
 references:
-  - "#mishlei_9_1"
-  - "#mishlei_9_2"
-  - "#mishlei_9_4"
-  - "#mishlei_9_6"
-  - "#mishlei_9_7"
-  - "#mishlei_9_10"
-  - "#mishlei_9_13"
-  - "#mishlei_9_17"
-  - "#mishlei_9_18"
-  - "#bereshit_2_9"
+  - "#proverbios_9_1"
+  - "#proverbios_9_2"
+  - "#proverbios_9_4"
+  - "#proverbios_9_6"
+  - "#proverbios_9_7"
+  - "#proverbios_9_10"
+  - "#proverbios_9_13"
+  - "#proverbios_9_17"
+  - "#proverbios_9_18"
+  - "#genesis_2_9"
   - "#mateo_22_1"
 sources:
   - "https://www.youtube.com/watch?v=4xgum3-WkVE"
@@ -36,19 +36,19 @@ Esta nota organiza la enseñanza pública del hermano Eric de Jesús Rodríguez 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) | Función en la lectura |
 | --- | --- | --- | --- |
-| #mishlei_9_1 | חכמות בנתה ביתה חצבה עמודיה שבעה | La Sabiduría edificó su casa, talló sus columnas, siete. | Casa y orden de la Sabiduría. |
-| #mishlei_9_2 | טבחה טבחה מסכה יינה אף ערכה שלחנה | Mató sus víctimas, mezcló su vino; también preparó su mesa. | Banquete ofrecido públicamente. |
-| #mishlei_9_4 | מי פתי יסר הנה חסר לב אמרה לו | “¿Quién es ingenuo?, ¡póngase aparte aquí!” Al falto de corazón le dijo. | Invitación al ingenuo. |
-| #mishlei_9_6 | עזבו פתאים וחיו ואשרו בדרך בינה | ¡Dejen, ingenuos, y vivirán, y caminen por el camino del discernimiento! | Separación y vida. |
-| #mishlei_9_10 | תחלת חכמה יראת יהוה ודעת קדשים בינה | El comienzo de la sabiduría es el temor de יהוה, y el conocimiento de los apartados es discernimiento. | Clave explícita del capítulo. |
-| #mishlei_9_13 | אשת כסילות המיה פתיות ובל ידעה מה | La mujer de estupidez es alborotadora; es credulidad, y no sabe nada. | Contraste con la Sabiduría. |
-| #mishlei_9_17-18 | מים גנובים ימתקו ... ולא ידע כי רפאים שם | Las aguas robadas son dulces... pero no sabe que los caídos están allí. | Dulzura aparente y desenlace mortal. |
+| #proverbios_9_1 | חכמות בנתה ביתה חצבה עמודיה שבעה | La Sabiduría edificó su casa, talló sus columnas, siete. | Casa y orden de la Sabiduría. |
+| #proverbios_9_2 | טבחה טבחה מסכה יינה אף ערכה שלחנה | Mató sus víctimas, mezcló su vino; también preparó su mesa. | Banquete ofrecido públicamente. |
+| #proverbios_9_4 | מי פתי יסר הנה חסר לב אמרה לו | “¿Quién es ingenuo?, ¡póngase aparte aquí!” Al falto de corazón le dijo. | Invitación al ingenuo. |
+| #proverbios_9_6 | עזבו פתאים וחיו ואשרו בדרך בינה | ¡Dejen, ingenuos, y vivirán, y caminen por el camino del discernimiento! | Separación y vida. |
+| #proverbios_9_10 | תחלת חכמה יראת יהוה ודעת קדשים בינה | El comienzo de la sabiduría es el temor de יהוה, y el conocimiento de los apartados es discernimiento. | Clave explícita del capítulo. |
+| #proverbios_9_13 | אשת כסילות המיה פתיות ובל ידעה מה | La mujer de estupidez es alborotadora; es credulidad, y no sabe nada. | Contraste con la Sabiduría. |
+| #proverbios_9_17-18 | מים גנובים ימתקו ... ולא ידע כי רפאים שם | Las aguas robadas son dulces... pero no sabe que los caídos están allí. | Dulzura aparente y desenlace mortal. |
 
 ## La casa, las siete columnas y la mesa preparada
 
 Eric comienza recordando la lectura alegórica de Mishlei y presenta **(חכמות)**, _jokmot_, como una forma plural de “sabiduría” con valor de grandeza o magnificencia ([00:12:54](https://www.youtube.com/watch?v=4xgum3-WkVE&t=774s)). La clase propone que la Sabiduría no es un refrán aislado, sino una figura que representa la obra ordenada de יהוה. Mishlei 9:1 sí personifica a la Sabiduría como constructora: edifica una casa y talla siete columnas. La lectura de las siete columnas como un juramento, los siete espíritus o el ciclo completo de la creación es una elaboración teológica de la exposición; debe distinguirse de la afirmación explícita del verso, que solo declara el número y la solidez figurada de la casa.
 
-La exposición conecta la casa con la creación y los versos 1-2 con un banquete destinado a los seres humanos ([00:21:45](https://www.youtube.com/watch?v=4xgum3-WkVE&t=1305s)). El texto sostiene la imagen de una anfitriona que sacrifica, mezcla vino y prepara mesa antes de llamar a sus invitados. La conexión con otras mesas bíblicas puede iluminar el motivo, pero #mishlei_9_1-6 no identifica por sí solo todos sus símbolos con un pasaje posterior. Lo que permanece firme es la diferencia entre una invitación preparada con orden y una oferta que depende del engaño.
+La exposición conecta la casa con la creación y los versos 1-2 con un banquete destinado a los seres humanos ([00:21:45](https://www.youtube.com/watch?v=4xgum3-WkVE&t=1305s)). El texto sostiene la imagen de una anfitriona que sacrifica, mezcla vino y prepara mesa antes de llamar a sus invitados. La conexión con otras mesas bíblicas puede iluminar el motivo, pero #proverbios_9_1-6 no identifica por sí solo todos sus símbolos con un pasaje posterior. Lo que permanece firme es la diferencia entre una invitación preparada con orden y una oferta que depende del engaño.
 
 ## La invitación al ingenuo y el camino del discernimiento
 
@@ -92,7 +92,7 @@ La clase aplica “aguas robadas” a la enseñanza recibida fuera de la volunta
 
 - [Mishlei 8: la Sabiduría, la creación y la puerta](./mishlei_8_fruto_sabiduria_creacion_puerta.md).
 - [Mishlei 24: casa, sabiduría y fundamento](./mishlei_24_casa_sabiduria_fundamento_y_fuerza.md).
-- #bereshit_2_9: conexión temática entre alimento, vida y discernimiento; no equivalencia literal.
+- #genesis_2_9: conexión temática entre alimento, vida y discernimiento; no equivalencia literal.
 
 ## Conclusión
 

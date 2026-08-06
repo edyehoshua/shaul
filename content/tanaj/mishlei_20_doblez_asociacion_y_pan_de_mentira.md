@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 20:10-17 sobre la doblez, el siervo formado, la
 date: 2026-08-05
 tags: [mishlei, mishlei_20, integridad, servicio, asociacion, pan_de_mentira]
 references:
-  - "#mishlei_20_10"
-  - "#mishlei_20_11"
-  - "#mishlei_20_12"
-  - "#mishlei_20_13"
-  - "#mishlei_20_14"
-  - "#mishlei_20_15"
-  - "#mishlei_20_16"
-  - "#mishlei_20_17"
-  - "#shemot_21_13"
+  - "#proverbios_20_10"
+  - "#proverbios_20_11"
+  - "#proverbios_20_12"
+  - "#proverbios_20_13"
+  - "#proverbios_20_14"
+  - "#proverbios_20_15"
+  - "#proverbios_20_16"
+  - "#proverbios_20_17"
+  - "#exodo_21_13"
   - "#mateo_11_12"
 sources:
   - "https://www.youtube.com/watch?v=E9z94MlnJWs"
@@ -35,14 +35,14 @@ Esta nota desarrolla la clase pública sobre Mishlei 20:10-17. Se conserva el or
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_20_10 | אבן ואבן איפה ואיפה תועבת יהוה גם שניהם | Una piedra y una piedra, un efáh y un efáh, abominación de יהוה son aun ambas. |
-| #mishlei_20_11 | גם במעלליו יתנכר נער אם זך ואם ישר פעלו | También por sus acciones se dejará reconocer el joven —o siervo—, si es limpia y si es recta su obra. |
-| #mishlei_20_12 | אזן שמעת ועין ראה יהוה עשה גם שניהם | El oído que escucha y el ojo que ve, יהוה ha hecho aun ambos. |
-| #mishlei_20_13 | אל תאהב שנה פן תורש פקח עיניך שבע לחם | No ames el sueño, para que no te empobrezcas; abre tus ojos, sáciate de pan. |
-| #mishlei_20_14 | רע רע יאמר הקונה ואזל לו אז יתהלל | “Malo, malo”, dice el comprador, y se va; entonces se jacta. |
-| #mishlei_20_15 | יש זהב ורב פנינים וכלי יקר שפתי דעת | Hay oro y abundancia de perlas, pero artículo precioso son los labios de conocimiento. |
-| #mishlei_20_16 | לקח בגדו כי ערב זר ובעד נכרים נכריה חבלהו | Toma su vestidura porque se comprometió con el extraño, y en favor de los ajenos mantenlo en promesa. |
-| #mishlei_20_17 | ערב לאיש לחם שקר ואחר ימלא פיהו חצץ | Dulce al hombre es el pan de mentira, pero después su boca se llenará de grava. |
+| #proverbios_20_10 | אבן ואבן איפה ואיפה תועבת יהוה גם שניהם | Una piedra y una piedra, un efáh y un efáh, abominación de יהוה son aun ambas. |
+| #proverbios_20_11 | גם במעלליו יתנכר נער אם זך ואם ישר פעלו | También por sus acciones se dejará reconocer el joven —o siervo—, si es limpia y si es recta su obra. |
+| #proverbios_20_12 | אזן שמעת ועין ראה יהוה עשה גם שניהם | El oído que escucha y el ojo que ve, יהוה ha hecho aun ambos. |
+| #proverbios_20_13 | אל תאהב שנה פן תורש פקח עיניך שבע לחם | No ames el sueño, para que no te empobrezcas; abre tus ojos, sáciate de pan. |
+| #proverbios_20_14 | רע רע יאמר הקונה ואזל לו אז יתהלל | “Malo, malo”, dice el comprador, y se va; entonces se jacta. |
+| #proverbios_20_15 | יש זהב ורב פנינים וכלי יקר שפתי דעת | Hay oro y abundancia de perlas, pero artículo precioso son los labios de conocimiento. |
+| #proverbios_20_16 | לקח בגדו כי ערב זר ובעד נכרים נכריה חבלהו | Toma su vestidura porque se comprometió con el extraño, y en favor de los ajenos mantenlo en promesa. |
+| #proverbios_20_17 | ערב לאיש לחם שקר ואחר ימלא פיהו חצץ | Dulce al hombre es el pan de mentira, pero después su boca se llenará de grava. |
 
 ## La piedra doble y el siervo que se deja conocer
 
@@ -86,11 +86,11 @@ El cierre, 20:17, vuelve a la experiencia del comprador: lo dulce se revela como
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_20_10-11; `youtube:E9z94MlnJWs` | La balanza doble representa hipocresía, y el siervo se deja conocer por sus obras. | Medida falsa y obras apoyadas; lectura del corazón y del siervo cualificada. |
-| #mishlei_20_12-13; `youtube:E9z94MlnJWs` | Oído y ojo describen obediencia y aprendizaje; abrir los ojos significa recibir disciplina y pan de vida. | Creación de las facultades y exhortación a diligencia apoyadas; lectura espiritual calificada. |
-| #mishlei_20_14-15; `youtube:E9z94MlnJWs` | El comprador sabe que adquirió algo defectuoso y se jacta; los labios de conocimiento valen más que oro y perlas. | Escena del comprador apoyada; identificación con Jasatán e interpretación del conocimiento, cualificadas. |
-| #mishlei_20_16; `youtube:E9z94MlnJWs` | La asociación con el extraño entrega la vestidura y deja al hombre bajo una alianza enemiga. | Prenda y asociación apoyadas; aplicación a idolatría y demonios, cualificada. |
-| #mishlei_20_17; `youtube:E9z94MlnJWs` | El compromiso con el extraño parece dulce, pero produce el pan de mentira y grava. | Contraste textual directo; juego entre “comprometerse” y “dulce”, pendiente de verificación. |
+| #proverbios_20_10-11; `youtube:E9z94MlnJWs` | La balanza doble representa hipocresía, y el siervo se deja conocer por sus obras. | Medida falsa y obras apoyadas; lectura del corazón y del siervo cualificada. |
+| #proverbios_20_12-13; `youtube:E9z94MlnJWs` | Oído y ojo describen obediencia y aprendizaje; abrir los ojos significa recibir disciplina y pan de vida. | Creación de las facultades y exhortación a diligencia apoyadas; lectura espiritual calificada. |
+| #proverbios_20_14-15; `youtube:E9z94MlnJWs` | El comprador sabe que adquirió algo defectuoso y se jacta; los labios de conocimiento valen más que oro y perlas. | Escena del comprador apoyada; identificación con Jasatán e interpretación del conocimiento, cualificadas. |
+| #proverbios_20_16; `youtube:E9z94MlnJWs` | La asociación con el extraño entrega la vestidura y deja al hombre bajo una alianza enemiga. | Prenda y asociación apoyadas; aplicación a idolatría y demonios, cualificada. |
+| #proverbios_20_17; `youtube:E9z94MlnJWs` | El compromiso con el extraño parece dulce, pero produce el pan de mentira y grava. | Contraste textual directo; juego entre “comprometerse” y “dulce”, pendiente de verificación. |
 
 ## Pendiente de verificar
 

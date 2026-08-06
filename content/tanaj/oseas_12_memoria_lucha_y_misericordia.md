@@ -20,10 +20,10 @@ references:
   - "#oseas_12_8"
   - "#oseas_12_9"
   - "#oseas_12_10"
-  - "#bereshit_32_25"
-  - "#bereshit_32_29"
-  - "#shemot_4_24"
-  - "#shemot_4_26"
+  - "#genesis_32_25"
+  - "#genesis_32_29"
+  - "#exodo_4_24"
+  - "#exodo_4_26"
 sources:
   - "https://www.youtube.com/watch?v=WDnxTbBQP8I"
   - "https://www.youtube.com/watch?v=Bd7DFDMxVYo"
@@ -49,13 +49,13 @@ Esta nota organiza **Haftarat Vayishlaj Part 4**. La exposición pasa de Oseas 1
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                      | TTH local                                                                                                                       | Función en la enseñanza                                                                                              |
 | ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| #oseas_12_2        | אפרים רעה רוח ורדף קדים כל היום כזב ושד ירבה וברית עם אשור יכרתו ושמן למצרים יובל | Y lucha tiene יהוה con Iehudáh, para visitar sobre Yaakov conforme a sus caminos; conforme a sus acciones le devolverá.         | El capítulo abre con acusación y retribución; el desfase entre familias textuales se deja visible para verificación. |
+| #oseas_12_2        | אפרים רעה רוח ורדף קדים כל היום כזב ושד ירבה וברית עם אשור יכרתו ושמן למצרים יובל | Y lucha tiene יהוה con Yehudáh, para visitar sobre Yaakov conforme a sus caminos; conforme a sus acciones le devolverá.         | El capítulo abre con acusación y retribución; el desfase entre familias textuales se deja visible para verificación. |
 | #oseas_12_3-4      | וריב ליהוה עם יהודה... בבטן עקב את אחיו ובאונו שרה את אלהים                       | En el vientre tomó por el talón a su hermano, y en su vigor luchó con Elohim.                                                   | La memoria de Yaakov funciona como espejo de Efraín.                                                                 |
 | #oseas_12_5-6      | וישר אל מלאך ויכל בכה ויתחנן לו בית אל ימצאנו... ויהוה אלהי הצבאות יהוה זכרו      | Y tuvo poder sobre el ángel y prevaleció, lloró y pidió el favor de él... y יהוה, Elohim de los ejércitos, יהוה es su memorial. | La lucha, el llanto y Betel desembocan en la identidad de יהוה.                                                      |
 | #oseas_12_7-9      | ואתה באלהיך תשוב חסד ומשפט שמר וקוה אל אלהיך תמיד... כנען בידו מאזני מרמה...      | Y tú, a tu Elohim volverás, bondad y juicio guarda, y espera a tu Elohim continuamente.                                         | El retorno se opone a la violencia comercial, el engaño y la falsa riqueza.                                          |
 | #oseas_12_10       | ואנכי יהוה אלהיך מארץ מצרים עד אושיבך באהלים כימי מועד                            | Y Yo, יהוה tu Elohim desde la tierra de Mitzráim, todavía te haré habitar en tiendas, como los días del tiempo señalado.        | La memoria del éxodo y de las tiendas corrige la seguridad económica de Efraín.                                      |
-| #bereshit_32_25-30 | ויותר יעקב לבדו ויאבק איש עמו עד עלות השחר... כי שרית עם אלהים ועם אנשים ותוכל    | Y vio que no prevaleció contra él... no te enviaré, sino que Tú me bendecirás...                                                | Texto narrativo que Oseas resume como lucha, petición y bendición.                                                   |
-| #shemot_4_24-26    | ויהי בדרך במלון ויפגשהו יהוה ויבקש המיתו... וירף ממנו                             | Y sucedió en el camino, en una posada, se encontró con él יהוה y buscó matarlo... y lo dejó.                                    | Caso difícil que Eric usa para pedir precisión sobre el sujeto y el sentido de la escena.                            |
+| #genesis_32_25-30 | ויותר יעקב לבדו ויאבק איש עמו עד עלות השחר... כי שרית עם אלהים ועם אנשים ותוכל    | Y vio que no prevaleció contra él... no te enviaré, sino que Tú me bendecirás...                                                | Texto narrativo que Oseas resume como lucha, petición y bendición.                                                   |
+| #exodo_4_24-26    | ויהי בדרך במלון ויפגשהו יהוה ויבקש המיתו... וירף ממנו                             | Y sucedió en el camino, en una posada, se encontró con él יהוה y buscó matarlo... y lo dejó.                                    | Caso difícil que Eric usa para pedir precisión sobre el sujeto y el sentido de la escena.                            |
 
 La numeración TTH de esta tabla se transcribe del archivo local y no siempre coincide literalmente con la alineación del hebreo OE. La diferencia no se corrige inventando una armonización; queda anotada para cotejo textual.
 
@@ -97,8 +97,8 @@ La respuesta de יהוה recuerda Mitzráim y las tiendas. Eric relaciona las ti
 
 | Unidad textual                    | Observación concreta de la clase                                                                                                        | Tratamiento en esta nota                                                                                                         |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| #oseas_12_3-6; #bereshit_32_25-30 | Oseas recuerda que Yaakov luchó, prevaleció, lloró y pidió bendición; la memoria corrige la autosuficiencia de Efraín.                  | Apoyo textual y hoja léxica; se distingue la síntesis profética de la narración completa.                                        |
-| #shemot_4_24-26                   | El pasaje difícil de Moshe exige discernir quién encuentra y quién intenta matar; Eric propone leer con cuidado el sujeto y las pausas. | Se conserva como observación atribuida y se contrasta con OE/TTH; la identificación de un mensajero contrario queda cualificada. |
+| #oseas_12_3-6; #genesis_32_25-30 | Oseas recuerda que Yaakov luchó, prevaleció, lloró y pidió bendición; la memoria corrige la autosuficiencia de Efraín.                  | Apoyo textual y hoja léxica; se distingue la síntesis profética de la narración completa.                                        |
+| #exodo_4_24-26                   | El pasaje difícil de Moshe exige discernir quién encuentra y quién intenta matar; Eric propone leer con cuidado el sujeto y las pausas. | Se conserva como observación atribuida y se contrasta con OE/TTH; la identificación de un mensajero contrario queda cualificada. |
 | #oseas_12_7                       | “Volver a tu Elohim”, guardar bondad y justicia y esperar continuamente forman el centro práctico del retorno.                          | Apoyo textual y explicación de _shuv_, _jesed_ y _mishpat_.                                                                      |
 | #oseas_12_8-9                     | Las balanzas de engaño y la frase “me enriquecí” muestran una riqueza usada para negar la culpa.                                        | Apoyo textual; se evita convertirlo en una condena genérica de toda posesión.                                                    |
 | #oseas_12_10                      | El recuerdo de Mitzráim, las tiendas y los profetas enseña que la revelación se recibe dentro de la memoria de Israel.                  | Apoyo textual; la aplicación a la continuidad profética se presenta como lectura de la clase.                                    |
@@ -120,7 +120,7 @@ La clase también relaciona el aceite llevado a Egipto con sumisión política. 
 | Fuente pública        | Observación conservada                                                                                                                | Prueba textual y límite                                                                                                       |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | `youtube:Bd7DFDMxVYo` | Oseas denuncia lisonja y «amor fingido» antes de la caída del norte; la casa persigue el viento y busca seguridad en Asiria y Egipto. | #oseas_12_1-7 apoya el contraste entre discurso, alianzas y retorno; «amor fingido» es síntesis homilética, no glosa literal. |
-| `youtube:WDnxTbBQP8I` | Yaakov, la lucha, el llanto, la petición de bendición y el retorno forman el espejo de Efraín.                                        | #oseas_12_3-10 y #bereshit_32_25-30 sostienen la memoria; las aplicaciones sobre identidad comunitaria quedan calificadas.    |
+| `youtube:WDnxTbBQP8I` | Yaakov, la lucha, el llanto, la petición de bendición y el retorno forman el espejo de Efraín.                                        | #oseas_12_3-10 y #genesis_32_25-30 sostienen la memoria; las aplicaciones sobre identidad comunitaria quedan calificadas.    |
 
 La adición no crea otra nota para Oseas 12: integra la fuente de Vayétze en la nota canónica existente. Sus dos identificadores son distintos, tienen crédito público y no se atribuyen frases de la transcripción como citas literales.
 
@@ -135,8 +135,8 @@ La adición no crea otra nota para Oseas 12: integra la fuente de Vayétze en la
 
 - [[haftarah_vayishlaj_oseas_11_reino_dividido_y_misericordia|Vayishlaj: Efraín, reino dividido y misericordia]]: el retorno de Oseas 12 continúa la memoria del reino dividido y de la misericordia de Oseas 11.
 - [[shabat_zajor|Shabat Zajor]]: memoria, juicio y responsabilidad comunitaria.
-- #bereshit_32_29 con #oseas_12_4: Israel como nombre recibido después de la lucha, no como licencia para la autosuficiencia.
-- #shemot_4_24 con #oseas_12_7: pasajes difíciles y llamados al retorno deben leerse con precisión y temor.
+- #genesis_32_29 con #oseas_12_4: Israel como nombre recibido después de la lucha, no como licencia para la autosuficiencia.
+- #exodo_4_24 con #oseas_12_7: pasajes difíciles y llamados al retorno deben leerse con precisión y temor.
 
 ## Conclusión
 

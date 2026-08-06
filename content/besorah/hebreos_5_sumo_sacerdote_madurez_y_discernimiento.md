@@ -7,9 +7,9 @@ tags:
   - sacerdocio
   - madurez
 references:
-  - "#hebrews_5_1"
-  - "#hebrews_5_7"
-  - "#hebrews_5_14"
+  - "#hebreos_5_1"
+  - "#hebreos_5_7"
+  - "#hebreos_5_14"
 sources:
   - "docs/scriptures/delitzsch/json/hebrews.json"
 source_ids:
@@ -25,9 +25,9 @@ Hebreos 5 habla del sumo sacerdote en favor de las personas, de las súplicas de
 
 | Referencia    | Texto local                                                               | Observación                                                         |
 | ------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| #hebrews_5_1  | **כי כל־כהן גדול הלקוח מתוך בני־אדם מפקד הוא בעבור בני אדם בעניני אלהים** | El sacerdote se describe en relación con las personas y con Elohim. |
-| #hebrews_5_7  | **הקריב תפלות ותחנונים בצעקה גדולה ובדמעות**                              | El texto presenta las súplicas de Yehoshua.                         |
-| #hebrews_5_14 | **חושים שהרגלו להבחין בין־טוב לרע׃**                                      | La madurez implica sentidos ejercitados para discernir.             |
+| #hebreos_5_1  | **כי כל־כהן גדול הלקוח מתוך בני־אדם מפקד הוא בעבור בני אדם בעניני אלהים** | El sacerdote se describe en relación con las personas y con Elohim. |
+| #hebreos_5_7  | **הקריב תפלות ותחנונים בצעקה גדולה ובדמעות**                              | El texto presenta las súplicas de Yehoshua.                         |
+| #hebreos_5_14 | **חושים שהרגלו להבחין בין־טוב לרע׃**                                      | La madurez implica sentidos ejercitados para discernir.             |
 
 ## Sacerdocio y crecimiento
 

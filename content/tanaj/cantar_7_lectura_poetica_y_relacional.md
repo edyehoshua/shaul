@@ -8,20 +8,20 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_7_1"
-  - "#songofsolomon_7_2"
-  - "#songofsolomon_7_3"
-  - "#songofsolomon_7_4"
-  - "#songofsolomon_7_5"
-  - "#songofsolomon_7_6"
-  - "#songofsolomon_7_7"
-  - "#songofsolomon_7_8"
-  - "#songofsolomon_7_9"
-  - "#songofsolomon_7_10"
-  - "#songofsolomon_7_11"
-  - "#songofsolomon_7_12"
-  - "#songofsolomon_7_13"
-  - "#songofsolomon_7_14"
+  - "#cantares_7_1"
+  - "#cantares_7_2"
+  - "#cantares_7_3"
+  - "#cantares_7_4"
+  - "#cantares_7_5"
+  - "#cantares_7_6"
+  - "#cantares_7_7"
+  - "#cantares_7_8"
+  - "#cantares_7_9"
+  - "#cantares_7_10"
+  - "#cantares_7_11"
+  - "#cantares_7_12"
+  - "#cantares_7_13"
+  - "#cantares_7_14"
 sources:
   - "https://www.youtube.com/watch?v=CvqQjg6BMPQ"
   - "https://www.youtube.com/watch?v=K8lkR7T3FI0"
@@ -46,7 +46,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                | Observación                                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_7_1 | **שובי שובי השולמית שובי שובי ונחזה בך מה תחזו בשולמית כמחלת המחנים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_7_1 | **שובי שובי השולמית שובי שובי ונחזה בך מה תחזו בשולמית כמחלת המחנים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

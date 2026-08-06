@@ -1,13 +1,13 @@
 ---
-title: "Ieshaiahu: cardos, espinos y cedros del Líbano"
-description: "Nota temática que reúne las imágenes de cardos, espinos y cedros del Líbano a partir de Ieshaiahu"
+title: "Yeshayahu: cardos, espinos y cedros del Líbano"
+description: "Nota temática que reúne las imágenes de cardos, espinos y cedros del Líbano a partir de Yeshayahu"
 date: 2026-05-16
 tags:
-  - ieshaiahu
+  - yeshayahu
   - juicio
 references:
-  - "#ieshaiahu_5_6"
-  - "#ieshaiahu_2_13"
+  - "#isaias_5_6"
+  - "#isaias_2_13"
 sources: []
 ---
 
@@ -17,15 +17,15 @@ Las imágenes de cardos, espinos y cedros del Líbano se usan aquí para hablar 
 
 ## Texto base
 
-- #ieshaiahu_5_6
-- #ieshaiahu_2_13
+- #isaias_5_6
+- #isaias_2_13
 
 ## Hoja de comparación
 
 | Referencia      | TTH                                                                                                                                      | Observación                                                                              |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| #ieshaiahu_5_6  | Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia. | Los cardos y espinos aparecen como señal visible de una viña dejada al juicio.           |
-| #ieshaiahu_2_13 | Y sobre todos los cedros del Lebanón, los elevados y los exaltados, y sobre todos los robles del Bashán,                                 | Los cedros quedan dentro del mismo movimiento de abatimiento contra lo alto y ensalzado. |
+| #isaias_5_6  | Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia. | Los cardos y espinos aparecen como señal visible de una viña dejada al juicio.           |
+| #isaias_2_13 | Y sobre todos los cedros del Lebanón, los elevados y los exaltados, y sobre todos los robles del Bashán,                                 | Los cedros quedan dentro del mismo movimiento de abatimiento contra lo alto y ensalzado. |
 
 ## Observaciones
 

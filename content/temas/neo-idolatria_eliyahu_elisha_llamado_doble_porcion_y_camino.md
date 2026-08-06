@@ -11,31 +11,31 @@ tags:
   - doble-porcion
   - simbolismo
 references:
-  - "#melajim_alef_19_19"
-  - "#melajim_alef_19_20"
-  - "#melajim_alef_19_21"
-  - "#melajim_alef_21_20"
-  - "#melajim_alef_21_21"
-  - "#melajim_alef_21_25"
-  - "#melajim_alef_21_27"
-  - "#melajim_alef_21_28"
-  - "#melajim_alef_21_29"
-  - "#melajim_bet_1_2"
-  - "#melajim_bet_1_3"
-  - "#melajim_bet_1_4"
-  - "#melajim_bet_2_1"
-  - "#melajim_bet_2_2"
-  - "#melajim_bet_2_4"
-  - "#melajim_bet_2_6"
-  - "#melajim_bet_2_8"
-  - "#melajim_bet_2_9"
-  - "#melajim_bet_2_10"
-  - "#melajim_bet_2_11"
-  - "#melajim_bet_2_12"
-  - "#melajim_bet_2_13"
-  - "#melajim_bet_2_14"
-  - "#melajim_bet_13_20"
-  - "#melajim_bet_13_21"
+  - "#1_reyes_19_19"
+  - "#1_reyes_19_20"
+  - "#1_reyes_19_21"
+  - "#1_reyes_21_20"
+  - "#1_reyes_21_21"
+  - "#1_reyes_21_25"
+  - "#1_reyes_21_27"
+  - "#1_reyes_21_28"
+  - "#1_reyes_21_29"
+  - "#2_reyes_1_2"
+  - "#2_reyes_1_3"
+  - "#2_reyes_1_4"
+  - "#2_reyes_2_1"
+  - "#2_reyes_2_2"
+  - "#2_reyes_2_4"
+  - "#2_reyes_2_6"
+  - "#2_reyes_2_8"
+  - "#2_reyes_2_9"
+  - "#2_reyes_2_10"
+  - "#2_reyes_2_11"
+  - "#2_reyes_2_12"
+  - "#2_reyes_2_13"
+  - "#2_reyes_2_14"
+  - "#2_reyes_13_20"
+  - "#2_reyes_13_21"
 sources:
   - "https://www.youtube.com/watch?v=1vNrfjk0un0"
   - "docs/scriptures/tth/json/melajim_alef.json"
@@ -57,12 +57,12 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre la 
 
 | Referencia | Texto local TTH | Función en la enseñanza |
 | --- | --- | --- |
-| #melajim_alef_19_19-21 | «Encontró a Elishá, hijo de Shafat... y arrojó su manto hacia él»; Elishá se despidió, ofreció el ganado y «fue tras Eliyáhu, y le servía». | El llamado se expresa mediante una señal que Elishá comprende y recibe con una respuesta costosa y gozosa. |
-| #melajim_alef_21_20-21, #melajim_alef_21_25 | «Te has vendido para hacer el mal en los ojos de יהוה»; no hubo nadie como Ajab, «que se vendió para hacer el mal». | La idolatría y el abuso del poder se describen como una entrega voluntaria a una conducta mala. |
-| #melajim_alef_21_27-29 | Ajab «puso cilicio sobre su carne y ayunó»; «se ha humillado Ajab delante de Mí». | La humillación delante de יהוה retrasa el juicio anunciado, aunque el texto no presenta a Ajab como un modelo de fidelidad perseverante. |
-| #melajim_bet_1_2-4 | Ajazyah manda consultar a Baal Zebub; el mensajero pregunta: «¿No hay Elohim en Israel...?». | La consulta a una potestad extranjera expone la neo-idolatría: buscar respuesta fuera de יהוה mientras se pertenece al pueblo de Israel. |
-| #melajim_bet_2_1-14 | De Gilgal a Betel, Ierijó y el Iardén; Elishá pide «una doble porción» y cruza el río después de Eliyáhu. | El camino, la perseverancia del discípulo y la sucesión del servicio son leídos como una secuencia con sentido simbólico. |
-| #melajim_bet_13_20-21 | Después de la muerte de Elishá, el hombre arrojado en su tumba «tocó... los huesos de Elishá, y vivió». | La clase vincula este episodio con la idea de que la vida recibida por medio de la obra de יהוה no queda reducida al momento visible del siervo. |
+| #1_reyes_19_19-21 | «Encontró a Elishá, hijo de Shafat... y arrojó su manto hacia él»; Elishá se despidió, ofreció el ganado y «fue tras Eliyáhu, y le servía». | El llamado se expresa mediante una señal que Elishá comprende y recibe con una respuesta costosa y gozosa. |
+| #1_reyes_21_20-21, #1_reyes_21_25 | «Te has vendido para hacer el mal en los ojos de יהוה»; no hubo nadie como Ajab, «que se vendió para hacer el mal». | La idolatría y el abuso del poder se describen como una entrega voluntaria a una conducta mala. |
+| #1_reyes_21_27-29 | Ajab «puso cilicio sobre su carne y ayunó»; «se ha humillado Ajab delante de Mí». | La humillación delante de יהוה retrasa el juicio anunciado, aunque el texto no presenta a Ajab como un modelo de fidelidad perseverante. |
+| #2_reyes_1_2-4 | Ajazyah manda consultar a Baal Zebub; el mensajero pregunta: «¿No hay Elohim en Israel...?». | La consulta a una potestad extranjera expone la neo-idolatría: buscar respuesta fuera de יהוה mientras se pertenece al pueblo de Israel. |
+| #2_reyes_2_1-14 | De Gilgal a Betel, Yerijó y el Yardén; Elishá pide «una doble porción» y cruza el río después de Eliyáhu. | El camino, la perseverancia del discípulo y la sucesión del servicio son leídos como una secuencia con sentido simbólico. |
+| #2_reyes_13_20-21 | Después de la muerte de Elishá, el hombre arrojado en su tumba «tocó... los huesos de Elishá, y vivió». | La clase vincula este episodio con la idea de que la vida recibida por medio de la obra de יהוה no queda reducida al momento visible del siervo. |
 
 ## Un manto que llama al servicio
 
@@ -82,11 +82,11 @@ Ajazyah, hijo de Ajab, cae y manda preguntar a Baal Zebub si sobrevivirá. La pr
 
 La clase conecta la descripción de Eliyáhu —su aspecto apartado y su cinturón de cuero— con Yohanan el inmersor y, desde allí, con la obra de Yehoshua. Es una lectura tipológica propuesta por la exposición. El texto de 2 Reyes 1 afirma la identidad y la palabra de Eliyáhu; la semejanza posterior debe tratarse como correspondencia pedagógica o simbólica, no como si el pasaje antiguo contuviera literalmente todos los detalles de la Besorah.
 
-## Gilgal, Betel, Ierijó y el Iardén
+## Gilgal, Betel, Yerijó y el Yardén
 
-Eliyáhu recibe dirección para ir de un lugar al siguiente, mientras pide repetidamente a Elishá que se quede. Elishá responde: «Vive יהוה y vive tu ser, ¡si te abandonaría!». La clase lee estas respuestas como perseverancia y como una prueba de preparación. El discípulo entiende que la partida del maestro está cerca, pero no usa ese conocimiento para retirarse. El camino culmina en el Iardén: Eliyáhu golpea las aguas con su manto, ambos cruzan por tierra seca y, después de la partida del maestro, Elishá repite la acción.
+Eliyáhu recibe dirección para ir de un lugar al siguiente, mientras pide repetidamente a Elishá que se quede. Elishá responde: «Vive יהוה y vive tu ser, ¡si te abandonaría!». La clase lee estas respuestas como perseverancia y como una prueba de preparación. El discípulo entiende que la partida del maestro está cerca, pero no usa ese conocimiento para retirarse. El camino culmina en el Yardén: Eliyáhu golpea las aguas con su manto, ambos cruzan por tierra seca y, después de la partida del maestro, Elishá repite la acción.
 
-La exposición destaca que el recorrido se presenta en sentido inverso al avance de Yehoshua desde el Iardén hacia Ierijó y Betel. El texto local permite afirmar el itinerario de 2 Reyes 2 y la división de las aguas; la comparación con la conquista y sus implicaciones para la dispersión de Israel son una lectura simbólica de la clase. El propio expositor reconoce que todavía no tiene una explicación concluyente para cada detalle. Esa reserva debe conservarse: una señal puede invitar a investigar sin autorizar una cronología profética cerrada.
+La exposición destaca que el recorrido se presenta en sentido inverso al avance de Yehoshua desde el Yardén hacia Yerijó y Betel. El texto local permite afirmar el itinerario de 2 Reyes 2 y la división de las aguas; la comparación con la conquista y sus implicaciones para la dispersión de Israel son una lectura simbólica de la clase. El propio expositor reconoce que todavía no tiene una explicación concluyente para cada detalle. Esa reserva debe conservarse: una señal puede invitar a investigar sin autorizar una cronología profética cerrada.
 
 ## La doble porción y la continuidad del servicio
 
@@ -110,20 +110,20 @@ El carro de fuego separa a ambos; Elishá ve, clama «padre mío» y recoge el m
 | 1 Reyes 19:19-21 — 00:17:54-00:22:58 | El manto llama a Elishá; él deja el campo, despide a su familia y entra al servicio como discípulo. | Apoyo textual directo; se explica el costo del seguimiento sin universalizar sus circunstancias. |
 | 1 Reyes 21:20-29 — 00:23:34-00:32:34 | Ajab recibe sentencia por Nabot, pero su humillación retrasa el juicio sobre su casa. | Apoyo textual directo; se distingue misericordia temporal de conversión completa. |
 | 2 Reyes 1:2-4 — 00:33:03-00:44:07 | Ajazyah consulta a Baal Zebub; Eliyáhu denuncia la consulta y su muerte anunciada. | Apoyo textual directo; la aplicación a la neo-idolatría se mantiene centrada en la autoridad consultada. |
-| 2 Reyes 2:1-14 — 00:44:58-01:01:43 | El recorrido Gilgal–Betel–Ierijó–Iardén, la perseverancia de Elishá y la doble porción forman una secuencia simbólica. | Se conserva el itinerario y la acción textual; la lectura inversa de la conquista y la dispersión queda como inferencia cualificada. |
+| 2 Reyes 2:1-14 — 00:44:58-01:01:43 | El recorrido Gilgal–Betel–Yerijó–Yardén, la perseverancia de Elishá y la doble porción forman una secuencia simbólica. | Se conserva el itinerario y la acción textual; la lectura inversa de la conquista y la dispersión queda como inferencia cualificada. |
 | 2 Reyes 13:20-21 — 01:07:02-01:08:42 | Los huesos de Elishá aparecen como una señal de vida que continúa después de su muerte; la clase lo acerca a la obra de Yehoshua. | Se registra la resurrección narrativa; la conexión mesiánica se marca como analogía, no identidad literal. |
 
 ## Pendiente de verificar
 
 - [ ] Cotejar el campo semántico de **(אדרת)** y **(פי שנים)** en léxicos y comentarios con referencias trazables.
 - [ ] Revisar históricamente la sucesión de Ajab, Ajazyah, Yehoram, Yehu y Jazael antes de presentar la secuencia política como una cronología completa.
-- [ ] Estudiar el contexto de Gilgal, Betel, Ierijó y el Iardén en la conquista de Yehoshua antes de convertir la inversión del recorrido en una interpretación profética cerrada.
+- [ ] Estudiar el contexto de Gilgal, Betel, Yerijó y el Yardén en la conquista de Yehoshua antes de convertir la inversión del recorrido en una interpretación profética cerrada.
 - [ ] Verificar de forma independiente la afirmación de la clase sobre el destino final de Eliyáhu; 2 Reyes 2 describe su toma en la tempestad, pero esta nota no añade una conclusión sobre su sepultura.
 - [ ] Cotejar la relación entre la doble porción de 2 Reyes 2 y las leyes de herencia del primogénito, sin asumir equivalencia perfecta.
 
 ## Conclusión
 
-El llamamiento de Elishá enseña que el servicio se recibe con una respuesta concreta, perseverante y dispuesta a dejar atrás la seguridad anterior. Eliyáhu confronta una idolatría que se manifiesta tanto en el abuso del poder como en consultar a otra autoridad; Ajab recuerda que la humillación delante de יהוה importa aun cuando no borre automáticamente toda consecuencia. El camino hacia el Iardén muestra continuidad sin autonomía: Elishá recoge el manto, pero pregunta por el Elohim de Eliyáhu. Las analogías con Yohanan y con Yehoshua pueden abrir una lectura mesiánica responsable, siempre que la señal no sustituya al texto ni la inferencia se presente como certeza.
+El llamamiento de Elishá enseña que el servicio se recibe con una respuesta concreta, perseverante y dispuesta a dejar atrás la seguridad anterior. Eliyáhu confronta una idolatría que se manifiesta tanto en el abuso del poder como en consultar a otra autoridad; Ajab recuerda que la humillación delante de יהוה importa aun cuando no borre automáticamente toda consecuencia. El camino hacia el Yardén muestra continuidad sin autonomía: Elishá recoge el manto, pero pregunta por el Elohim de Eliyáhu. Las analogías con Yohanan y con Yehoshua pueden abrir una lectura mesiánica responsable, siempre que la señal no sustituya al texto ni la inferencia se presente como certeza.
 
 ## Ver también
 

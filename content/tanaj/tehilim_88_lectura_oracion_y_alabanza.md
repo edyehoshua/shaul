@@ -9,10 +9,10 @@ tags:
   - oracion
   - salvacion
 references:
-  - "#tehilim_88_1-3"
-  - "#tehilim_88_4-9"
-  - "#tehilim_88_10-13"
-  - "#tehilim_88_14-19"
+  - "#salmos_88_1-3"
+  - "#salmos_88_4-9"
+  - "#salmos_88_10-13"
+  - "#salmos_88_14-19"
 sources:
   - "https://www.youtube.com/watch?v=kCWRKnHiDig"
   - "docs/scriptures/oe/json/psalms/88.json"
@@ -33,10 +33,10 @@ La fuente es la enseñanza pública «Tehilim/Hymnos/Salmo Cap 88». La nota sig
 
 | Unidad            | Texto hebreo local (OE), normalizado sin segmentación                                                                    | Función en el argumento                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_88_1-3   | «שיר מזמור לבני קרח למנצח על מחלת לענות משכיל להימן האזרחי»; «יהוה אלהי ישועתי יום צעקתי בלילה נגדך»; «תבוא לפניך תפלתי» | El encabezado abre una composición para hacer entender la debilidad; el hablante clama de día y de noche al Dios de su salvación.        |
-| #tehilim_88_4-9   | «כי שבעה ברעות נפשי וחיי לשאול הגיעו»; «נחשבתי עם יורדי בור»; «שתני בבור תחתיות במחשכים במצלות»                          | La aflicción se expresa como cercanía al Seol, pozo, profundidades y oscuridad; no es una metáfora aislada, sino una cadena de descenso. |
-| #tehilim_88_10-13 | «הלמתים תעשה פלא»; «היספר בקבר חסדך»; «היודע בחשך פלאך»                                                                  | El orante pregunta por la posibilidad de alabanza y conocimiento de las obras divinas desde muerte, sepulcro y tierra de olvido.         |
-| #tehilim_88_14-19 | «ואני אליך יהוה שועתי»; «למה יהוה תזנח נפשי»; «הרחקת ממני אהב ורע מידעי מחשך»                                            | Aun sin respuesta visible, la oración vuelve a יהוה; el cierre conserva aflicción, ira percibida y separación de los cercanos.           |
+| #salmos_88_1-3   | «שיר מזמור לבני קרח למנצח על מחלת לענות משכיל להימן האזרחי»; «יהוה אלהי ישועתי יום צעקתי בלילה נגדך»; «תבוא לפניך תפלתי» | El encabezado abre una composición para hacer entender la debilidad; el hablante clama de día y de noche al Dios de su salvación.        |
+| #salmos_88_4-9   | «כי שבעה ברעות נפשי וחיי לשאול הגיעו»; «נחשבתי עם יורדי בור»; «שתני בבור תחתיות במחשכים במצלות»                          | La aflicción se expresa como cercanía al Seol, pozo, profundidades y oscuridad; no es una metáfora aislada, sino una cadena de descenso. |
+| #salmos_88_10-13 | «הלמתים תעשה פלא»; «היספר בקבר חסדך»; «היודע בחשך פלאך»                                                                  | El orante pregunta por la posibilidad de alabanza y conocimiento de las obras divinas desde muerte, sepulcro y tierra de olvido.         |
+| #salmos_88_14-19 | «ואני אליך יהוה שועתי»; «למה יהוה תזנח נפשי»; «הרחקת ממני אהב ורע מידעי מחשך»                                            | Aun sin respuesta visible, la oración vuelve a יהוה; el cierre conserva aflicción, ira percibida y separación de los cercanos.           |
 
 ## El encabezado pregunta por la debilidad que humilla
 

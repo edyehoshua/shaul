@@ -10,11 +10,11 @@ tags:
   - comunidad
   - escatologia
 references:
-  - "#tehilim_122_1-2"
-  - "#tehilim_122_3-5"
-  - "#tehilim_122_6-9"
+  - "#salmos_122_1-2"
+  - "#salmos_122_3-5"
+  - "#salmos_122_6-9"
   - "#hebreos_12_22"
-  - "#galatians_4_26"
+  - "#galatas_4_26"
 sources:
   - "https://www.youtube.com/watch?v=rQhkkbIootg"
   - "docs/scriptures/oe/json/psalms/122.json"
@@ -35,12 +35,12 @@ Se recorren los nueve versos en orden. Eric explica que los quince cánticos de 
 
 | Unidad textual   | Texto hebreo local normalizado                                                                              | Movimiento del poema                                                                   |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| #tehilim_122_1-2 | שיר המעלות לדוד שמחתי באמרים לי בית יהוה נלך; עומדות היו רגלינו בשעריך ירושלם                               | La invitación a subir produce alegría y pies firmes en las puertas.                    |
-| #tehilim_122_3-5 | ירושלם הבנויה כעיר שחברה לה יחדו; ששם עלו שבטים שבטי יה עדות לישראל; כי שמה ישבו כסאות למשפט כסאות לבית דוד | Jerusalén aparece edificada, unida, poblada por las tribus y ordenada para juicio.     |
-| #tehilim_122_6-7 | שאלו שלום ירושלם ישליו אוהביך; יהי שלום בחילך שלוה בארמנותיך                                                | El pueblo debe pedir paz y bienestar para la ciudad.                                   |
-| #tehilim_122_8-9 | למען אחי ורעי אדברה נא שלום בך; למען בית יהוה אלהינו אבקשה טוב לך                                           | La paz se busca por los hermanos y por la casa de יהוה, no por nacionalismo abstracto. |
+| #salmos_122_1-2 | שיר המעלות לדוד שמחתי באמרים לי בית יהוה נלך; עומדות היו רגלינו בשעריך ירושלם                               | La invitación a subir produce alegría y pies firmes en las puertas.                    |
+| #salmos_122_3-5 | ירושלם הבנויה כעיר שחברה לה יחדו; ששם עלו שבטים שבטי יה עדות לישראל; כי שמה ישבו כסאות למשפט כסאות לבית דוד | Jerusalén aparece edificada, unida, poblada por las tribus y ordenada para juicio.     |
+| #salmos_122_6-7 | שאלו שלום ירושלם ישליו אוהביך; יהי שלום בחילך שלוה בארמנותיך                                                | El pueblo debe pedir paz y bienestar para la ciudad.                                   |
+| #salmos_122_8-9 | למען אחי ורעי אדברה נא שלום בך; למען בית יהוה אלהינו אבקשה טוב לך                                           | La paz se busca por los hermanos y por la casa de יהוה, no por nacionalismo abstracto. |
 
-## 122:1-2: alegría de subir y la tensión de los tiempos #tehilim_122_1-2
+## 122:1-2: alegría de subir y la tensión de los tiempos #salmos_122_1-2
 
 El título **שיר המעלות** (_shir hamaalot_) significa «cántico de los ascensos» o «cántico de las subidas». Eric explica que la colección comprende quince himnos que se asociaban con el ascenso por las escaleras del templo. Ese dato ayuda a imaginar el movimiento litúrgico, pero el encabezado no describe por sí solo todo el rito. **מעלות** (_maalot_) tiene el sentido normal de «ascensos, escalones o subidas»; su fuerza contextual es tanto física como espiritual.
 
@@ -50,7 +50,7 @@ Eric también observa que el hebreo bíblico no organiza el tiempo como el caste
 
 En el verso 2 los pies están en las puertas de Jerusalén. La traducción de **עומדות היו רגלינו** (_omdot hayu raglenu_) puede comunicar «estuvieron» o «están firmes», y Eric usa esa oscilación para mantener juntos llegada, presente y expectativa. El texto local afirma que los pies están en las puertas; la extensión escatológica pertenece a su lectura. **שער** (_shaar_) significa «puerta» o «portón», y **רגל** (_regel_) «pie»; la imagen es concreta antes de ser espiritualizada.
 
-## 122:3-5: una ciudad unida, no un nombre mágico #tehilim_122_3-5
+## 122:3-5: una ciudad unida, no un nombre mágico #salmos_122_3-5
 
 «Jerusalén, la edificada como ciudad que está unida a sí misma». Eric destaca la palabra **חברה** (_jubb rah_, «unida, asociada o entretejida») y la relaciona con la idea de personas copartícipes, asociadas y firmes en una unidad irrompible. El sentido normal de la raíz ח ב ר es unión o asociación; «comunión» es una equivalencia pedagógica, no la única traducción. El verso sí presenta a Jerusalén como una ciudad cohesionada, pero la aplicación a una comunidad mesiánica debe demostrarse con otros pasajes.
 
@@ -60,7 +60,7 @@ La frase «allí subieron las tribus, las tribus de יה» puede leerse, según 
 
 El propósito de la subida es testimonio para Israel y los tronos de juicio, los tronos de la casa de David. Eric usa este orden para rechazar una lectura basada únicamente en población, territorio o bandera. El poema une culto, juicio y casa davídica; no dice que todo gobierno que adopte el nombre de Israel sea automáticamente fiel. La aplicación contemporánea de Eric —no confundir promesas divinas con una política moderna ni promover sionismo ciego— es una advertencia pastoral; el criterio del salmo es la casa de יהוה, la justicia y la paz.
 
-## 122:6-9: pedir paz por los hermanos #tehilim_122_6-9
+## 122:6-9: pedir paz por los hermanos #salmos_122_6-9
 
 «Pregunten por la paz de Jerusalén; prosperen los que te aman». Eric subraya que la paz no es decoración religiosa ni eslogan nacional: debe ser solicitada activamente. **שלום** (_shalom_) significa paz, integridad, bienestar o plenitud; su fuerza aquí incluye el bienestar de la ciudad y de quienes la aman. Traducirlo solo como ausencia de guerra es demasiado estrecho, mientras convertirlo en respaldo de cualquier política también excede el verso.
 

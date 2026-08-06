@@ -8,22 +8,22 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_5_1"
-  - "#songofsolomon_5_2"
-  - "#songofsolomon_5_3"
-  - "#songofsolomon_5_4"
-  - "#songofsolomon_5_5"
-  - "#songofsolomon_5_6"
-  - "#songofsolomon_5_7"
-  - "#songofsolomon_5_8"
-  - "#songofsolomon_5_9"
-  - "#songofsolomon_5_10"
-  - "#songofsolomon_5_11"
-  - "#songofsolomon_5_12"
-  - "#songofsolomon_5_13"
-  - "#songofsolomon_5_14"
-  - "#songofsolomon_5_15"
-  - "#songofsolomon_5_16"
+  - "#cantares_5_1"
+  - "#cantares_5_2"
+  - "#cantares_5_3"
+  - "#cantares_5_4"
+  - "#cantares_5_5"
+  - "#cantares_5_6"
+  - "#cantares_5_7"
+  - "#cantares_5_8"
+  - "#cantares_5_9"
+  - "#cantares_5_10"
+  - "#cantares_5_11"
+  - "#cantares_5_12"
+  - "#cantares_5_13"
+  - "#cantares_5_14"
+  - "#cantares_5_15"
+  - "#cantares_5_16"
 sources:
   - "https://www.youtube.com/watch?v=CMEiD_2EXrU"
   - "https://www.youtube.com/watch?v=0xRSI1cvFIU"
@@ -52,7 +52,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                                                        | Observación                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_5_1 | **באתי לגני אחתי כלה אריתי מורי עם בשמי אכלתי יערי עם דבשי שתיתי ייני עם חלבי אכלו רעים שתו ושכרו דודים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_5_1 | **באתי לגני אחתי כלה אריתי מורי עם בשמי אכלתי יערי עם דבשי שתיתי ייני עם חלבי אכלו רעים שתו ושכרו דודים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

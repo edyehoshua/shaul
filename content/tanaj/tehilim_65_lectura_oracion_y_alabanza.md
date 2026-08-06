@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_65_1"
-  - "#tehilim_65_14"
+  - "#salmos_65_1"
+  - "#salmos_65_14"
 sources:
   - "https://www.youtube.com/watch?v=G_FifOKWuR4"
   - "docs/scriptures/oe/json/psalms/65.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 65. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                         | Observación de lectura                                               |
 | -------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_65_1  | למנצח מזמור לדוד שיר                            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_65_14 | לבשו כרים הצאן ועמקים יעטפו בר יתרועעו אף ישירו | El verso final permite observar el cierre de la composición.         |
+| #salmos_65_1  | למנצח מזמור לדוד שיר                            | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_65_14 | לבשו כרים הצאן ועמקים יעטפו בר יתרועעו אף ישירו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

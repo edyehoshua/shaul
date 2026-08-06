@@ -10,8 +10,8 @@ tags:
   - sepultura
   - testimonio
 references:
-  - "#iojanan_19_31-37"
-  - "#iojanan_19_38-42"
+  - "#juan_19_31-37"
+  - "#juan_19_38-42"
 sources:
   - "https://www.youtube.com/watch?v=CuEEF6DAPbE"
 source_ids:
@@ -31,11 +31,11 @@ La fuente pública es «El Evangelio Según Yojanán/Juan (Parte 72) Cap 19», t
 
 | Unidad            | Texto local de Delitzsch                                           | Función narrativa                                               |
 | ----------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- |
-| #iojanan_19_31-33 | «שַׁבָּת גָּדוֹל הוּא»; Yehoshua ya estaba muerto                  | El calendario y la muerte comprobada enmarcan la petición.      |
-| #iojanan_19_34-37 | «דָּם וָמָיִם»; «וְעֶצֶם לֹא־תִשְׁבְּרוּ בוֹ»                      | El testigo vincula la herida y los huesos con la Escritura.     |
-| #iojanan_19_38-42 | Yosef pide el cuerpo; Nikodemos trae mirra y áloes; sepulcro nuevo | Discípulos reservados realizan una sepultura pública y urgente. |
+| #juan_19_31-33 | «שַׁבָּת גָּדוֹל הוּא»; Yehoshua ya estaba muerto                  | El calendario y la muerte comprobada enmarcan la petición.      |
+| #juan_19_34-37 | «דָּם וָמָיִם»; «וְעֶצֶם לֹא־תִשְׁבְּרוּ בוֹ»                      | El testigo vincula la herida y los huesos con la Escritura.     |
+| #juan_19_38-42 | Yosef pide el cuerpo; Nikodemos trae mirra y áloes; sepulcro nuevo | Discípulos reservados realizan una sepultura pública y urgente. |
 
-## El Shabat grande y la muerte comprobada (19:31-33) #iojanan_19_31-33
+## El Shabat grande y la muerte comprobada (19:31-33) #juan_19_31-33
 
 Era la preparación y los dirigentes pidieron a Pilatos que quebraran las piernas de los crucificados y los retiraran, para que los cuerpos no quedaran en el madero durante el Shabat. El evangelista añade: «porque grande era aquel día de Shabat». Eric observa que la urgencia ritual no cancela la realidad del cuerpo: la santidad del tiempo y la ejecución romana aparecen juntas. El texto no autoriza a acusar a todos los participantes de la misma intención; sí muestra que la solicitud busca retirar los cuerpos antes del Shabat.
 
@@ -43,7 +43,7 @@ Los soldados quiebran las piernas del primero y del otro, pero al llegar a Yehos
 
 Eric conecta la ausencia de fractura con la lectura de la Escritura y con el cordero de Pésaj. La conexión intertextual es fuerte en la manera en que el narrador la introduce, pero no debe hacer olvidar el dato inmediato: los soldados ven una muerte ya ocurrida. El capítulo no describe una mera supervivencia ni deja la muerte como impresión subjetiva de la multitud.
 
-## Costado, sangre y agua (19:34-37) #iojanan_19_34-37
+## Costado, sangre y agua (19:34-37) #juan_19_34-37
 
 Uno de los soldados atraviesa el costado de Yehoshua con una lanza y sale sangre y agua. El que lo vio da testimonio, y su testimonio es verdadero; insiste en que sabe que dice verdad «para que vosotros también creáis». Eric subraya que el relato no se limita a una imagen espiritual: el costado herido y los fluidos forman parte del testimonio corporal. El texto permite afirmar la observación del testigo, pero no determina por sí solo una explicación médica moderna de la mezcla.
 
@@ -51,7 +51,7 @@ Uno de los soldados atraviesa el costado de Yehoshua con una lanza y sale sangre
 
 El evangelista añade dos Escrituras: «No será quebrado hueso suyo» y «Mirarán al que traspasaron». **(μαρτυρέω)** (_martyreo_) significa dar testimonio; **(ἀληθής)** (_alethes_) significa verdadero o digno de confianza. La forma del testimonio es explícita: ver, saber, decir y llamar a la fe. La relación de **(μαρτυρέω)** con **(עד)** (_ed_) es funcional y aproximada; la palabra hebrea puede nombrar testigo, mientras el verbo griego describe la acción de testificar.
 
-## De discípulos secretos a sepultura visible (19:38-42) #iojanan_19_38-42
+## De discípulos secretos a sepultura visible (19:38-42) #juan_19_38-42
 
 Después de estas cosas, Yosef de Ramatáyim, discípulo de Yehoshua «pero en secreto por miedo a los yehudim», pide a Pilatos llevar el cuerpo. Nikodemos, que había ido de noche, llega con una gran cantidad de mirra y áloes. Ambos toman el cuerpo, lo envuelven con lienzos y especias según la costumbre judía. Eric observa el movimiento público de quienes antes estaban definidos por reserva y noche: la muerte de Yehoshua no produce un cadáver abandonado, sino una acción de honor bajo presión de tiempo.
 
@@ -63,9 +63,9 @@ El sepulcro está en un huerto, cerca del lugar de la crucifixión, y es nuevo: 
 
 | Perícopa          | Observación concreta de la clase                                                             | Tratamiento contra el texto local                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| #iojanan_19_31-33 | El Shabat grande intensifica la urgencia, pero los soldados verifican que Yehoshua ya murió. | Apoyo textual; se distingue calendario ritual de la explicación romana de la ejecución.  |
-| #iojanan_19_34-37 | Costado, sangre y agua hacen del cuerpo atravesado un punto de testimonio y cumplimiento.    | Apoyo textual; la explicación médica y las extensiones sacramentales quedan calificadas. |
-| #iojanan_19_38-42 | Yosef y Nikodemos pasan de reserva y noche a una sepultura pública y honorable.              | Apoyo textual e inferencia narrativa controlada sobre el cambio de visibilidad.          |
+| #juan_19_31-33 | El Shabat grande intensifica la urgencia, pero los soldados verifican que Yehoshua ya murió. | Apoyo textual; se distingue calendario ritual de la explicación romana de la ejecución.  |
+| #juan_19_34-37 | Costado, sangre y agua hacen del cuerpo atravesado un punto de testimonio y cumplimiento.    | Apoyo textual; la explicación médica y las extensiones sacramentales quedan calificadas. |
+| #juan_19_38-42 | Yosef y Nikodemos pasan de reserva y noche a una sepultura pública y honorable.              | Apoyo textual e inferencia narrativa controlada sobre el cambio de visibilidad.          |
 
 ## Hoja léxica
 

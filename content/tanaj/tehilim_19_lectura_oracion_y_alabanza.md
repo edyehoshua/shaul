@@ -10,12 +10,12 @@ tags:
   - creacion
   - oracion
 references:
-  - "#tehilim_19_1"
-  - "#tehilim_19_2"
-  - "#tehilim_19_5"
-  - "#tehilim_19_8"
-  - "#tehilim_19_12"
-  - "#tehilim_19_15"
+  - "#salmos_19_1"
+  - "#salmos_19_2"
+  - "#salmos_19_5"
+  - "#salmos_19_8"
+  - "#salmos_19_12"
+  - "#salmos_19_15"
 sources:
   - "https://www.youtube.com/watch?v=dyO6rpptfMk"
   - "docs/scriptures/oe/json/psalms/19.json"
@@ -36,13 +36,13 @@ Esta nota sigue Tehilim 19 en orden textual y contrasta las observaciones concre
 
 | Referencia        | Texto hebreo local (OE, sin nikud)                                                                                                                                                                          | Función en la enseñanza                                                                                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_19_1     | למנצח מזמור לדוד                                                                                                                                                                                            | Encabezado: composición atribuida a David y dirigida al victorioso.                                                                                                 |
-| #tehilim_19_2-5   | השמים מספרים כבוד אל ומעשה ידיו מגיד הרקיע; יום ליום יביע אמר ולילה ללילה יחוה דעת; אין אמר ואין דברים בלי נשמע קולם; בכל הארץ יצא קום ובקצה תבל מליהם לשמש שם אהל בהם                                      | Los cielos y el ritmo del día anuncian sin discurso audible y su testimonio alcanza toda la tierra.                                                                 |
-| #tehilim_19_6-7   | והוא כחתן יצא מחפתו ישיש כגבור לרוץ ארח; מקצה השמים מוצאו ותקופתו על קצותם ואין נסתר מחמתו                                                                                                                  | El sol se describe como esposo y corredor; su recorrido hace visible la extensión de su alcance.                                                                    |
-| #tehilim_19_8-11  | תורת יהוה תמימה משיבת נפש עדות יהוה נאמנה מחכימת פתי; פקודי יהוה ישרים משמחי לב מצות יהוה ברה מאירת עינים; יראת יהוה טהורה עומדת לעד משפטי יהוה אמת צדקו יחדו; הנחמדים מזהב ומפז רב ומתוקים מדבש ונפת צופים | La segunda mitad nombra la Torah, el testimonio, los preceptos, el mandamiento, el temor y los juicios de יהוה como palabra completa, fiel, recta, pura y deseable. |
-| #tehilim_19_12-15 | גם עבדך נזהר בהם בשמרם עקב רב; שגיאות מי יבין מנסתרות נקני; גם מזדים חשך עבדך אל ימשלו בי אז איתם ונקיתי מפשע רב; יהיו לרצון אמרי פי והגיון לבי לפניך יהוה צורי וגאלי                                       | El orante pasa de alabar la palabra a pedir discernimiento, limpieza y aceptación de sus palabras y pensamientos.                                                   |
+| #salmos_19_1     | למנצח מזמור לדוד                                                                                                                                                                                            | Encabezado: composición atribuida a David y dirigida al victorioso.                                                                                                 |
+| #salmos_19_2-5   | השמים מספרים כבוד אל ומעשה ידיו מגיד הרקיע; יום ליום יביע אמר ולילה ללילה יחוה דעת; אין אמר ואין דברים בלי נשמע קולם; בכל הארץ יצא קום ובקצה תבל מליהם לשמש שם אהל בהם                                      | Los cielos y el ritmo del día anuncian sin discurso audible y su testimonio alcanza toda la tierra.                                                                 |
+| #salmos_19_6-7   | והוא כחתן יצא מחפתו ישיש כגבור לרוץ ארח; מקצה השמים מוצאו ותקופתו על קצותם ואין נסתר מחמתו                                                                                                                  | El sol se describe como esposo y corredor; su recorrido hace visible la extensión de su alcance.                                                                    |
+| #salmos_19_8-11  | תורת יהוה תמימה משיבת נפש עדות יהוה נאמנה מחכימת פתי; פקודי יהוה ישרים משמחי לב מצות יהוה ברה מאירת עינים; יראת יהוה טהורה עומדת לעד משפטי יהוה אמת צדקו יחדו; הנחמדים מזהב ומפז רב ומתוקים מדבש ונפת צופים | La segunda mitad nombra la Torah, el testimonio, los preceptos, el mandamiento, el temor y los juicios de יהוה como palabra completa, fiel, recta, pura y deseable. |
+| #salmos_19_12-15 | גם עבדך נזהר בהם בשמרם עקב רב; שגיאות מי יבין מנסתרות נקני; גם מזדים חשך עבדך אל ימשלו בי אז איתם ונקיתי מפשע רב; יהיו לרצון אמרי פי והגיון לבי לפניך יהוה צורי וגאלי                                       | El orante pasa de alabar la palabra a pedir discernimiento, limpieza y aceptación de sus palabras y pensamientos.                                                   |
 
-## Los cielos cuentan: testimonio sin voz, 19:1-7 #tehilim_19_1-7
+## Los cielos cuentan: testimonio sin voz, 19:1-7 #salmos_19_1-7
 
 Eric lee el inicio como una oda a la creación y a la palabra de יהוה. Observa que el verbo de “contar” no describe un simple ruido, sino un anuncio ordenado: los cielos declaran la gloria y el firmamento comunica la obra de sus manos. El salmo confirma esa personificación poética. Día a día brota un dicho y noche a noche se transmite conocimiento, pero el versículo 4 aclara la paradoja: no hay “dicho” ni “palabras” cuyo sonido se oiga. El testimonio es universal sin depender de una voz humana audible.
 
@@ -52,7 +52,7 @@ Eric también cuestiona la tradición medieval de los “siete cielos”. La cla
 
 El sol recibe una comparación doble: sale como un novio de su cámara y corre como un héroe. Eric relaciona su gobierno de día y noche con la función de distinguir, y después aplica la imagen al pueblo que debe resplandecer en medio de la generación. Filipenses 2:15-16 puede iluminar esa aplicación, donde los creyentes resplandecen como luminarias y sostienen la palabra de vida, pero no reemplaza el sentido poético de los versículos 6-7. La creación anuncia; la comunidad, por analogía apostólica, debe hacer visible en su conducta lo que anuncia.
 
-## La Torah como palabra que hace volver, 19:8-11 #tehilim_19_8-11
+## La Torah como palabra que hace volver, 19:8-11 #salmos_19_8-11
 
 El giro del salmo no abandona la creación para tratar un asunto distinto. La gloria anunciada por los cielos se vuelve inteligible y practicable en la Torah de יהוה. Eric insiste en que “Torah” no debe estrecharse automáticamente al Pentateuco entendido como un listado aislado de leyes; en la clase representa la doctrina, instrucción, promesa y voluntad comunicada por יהוה. El salmo mismo da el marco: esa palabra es completa, fiel, recta, pura y verdadera, y produce efectos concretos en la persona.
 
@@ -62,7 +62,7 @@ La forma completa del versículo mantiene juntas las dos partes: **תורת יה
 
 El testimonio fiel hace sabio al sencillo; los preceptos rectos alegran el corazón; el mandamiento puro alumbra los ojos. Eric advierte contra sustituir la palabra por técnicas humanas, estrategias de comunicación o una presentación diseñada para agradar. Su argumento se apoya en el propio encadenamiento del salmo: la sabiduría, el gozo y la visión vienen de los mandatos de יהוה, no de la habilidad del expositor. La clase relaciona esto con 2 Timoteo 3:15 y Hechos 17:30, donde la Escritura y el llamado divino al arrepentimiento tienen prioridad. Son conexiones apostólicas coherentes con el uso que Eric hace del salmo, pero siguen siendo conexiones; no deben presentarse como si Tehilim 19 citara esos pasajes.
 
-## Temor, obediencia y un testimonio visible, 19:10-14 #tehilim_19_10-14
+## Temor, obediencia y un testimonio visible, 19:10-14 #salmos_19_10-14
 
 El salmo llama **(יראת יהוה)**, _yirat יהוה_, al temor de יהוה: es puro y permanece para siempre. Eric aplica esta frase contra una religiosidad que confiesa temor mientras justifica una conducta opuesta a la palabra. Su punto concreto es que el temor no puede separarse de la santidad y de los juicios que el salmo acaba de llamar verdaderos. El texto respalda la unidad entre confesión y práctica, aunque la clase introduce ejemplos contemporáneos que no son necesarios para probar la afirmación.
 
@@ -72,7 +72,7 @@ La clase desemboca en el deber de comunicar la Torah. Eric dice que el creyente 
 
 El orden verbal evita una lectura triunfalista del testimonio. El siervo primero dice **גם עבדך נזהר בהם** («también tu siervo es advertido por ellos») y solo después pide limpieza de **שגיאות**, _shegigot_, errores o faltas inadvertidas, y protección frente a **מזדים**, _mezidim_, actos presuntuosos. Eric emplea esta confesión para enseñar que comunicar la Torah no coloca al expositor por encima del juicio de la palabra. La correspondencia entre _shegigot_ y «errores ocultos» es cercana en el contexto; presentar toda falta como meramente inconsciente sería más amplio que el contraste del salmo, que también distingue la presunción deliberada.
 
-## La oración final: boca, corazón y redentor, 19:15 #tehilim_19_15
+## La oración final: boca, corazón y redentor, 19:15 #salmos_19_15
 
 El cierre pide que sean aceptables ante יהוה tanto los “dichos de la boca” como la meditación del corazón. Eric subraya que el anuncio no puede ser mera palabrería: el testimonio empieza por una vida transformada y debe concordar con la Torah que se comunica. El paralelismo del verso sí une lo pronunciado con lo interior. La clase lleva esa unión hacia la práctica comunitaria; esa aplicación es pertinente, siempre que no se olvide que el salmista termina suplicando, no presumiendo, que su vida sea aceptable.
 

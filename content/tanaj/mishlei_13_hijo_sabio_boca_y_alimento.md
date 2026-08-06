@@ -4,18 +4,18 @@ description: "Estudio de Mishlei 13:1-9 sobre recibir disciplina, guardar la gar
 date: 2026-08-06
 tags: [mishlei, mishlei_13, disciplina, boca, nefesh, sabiduria]
 references:
-  - "#mishlei_13_1"
-  - "#mishlei_13_2"
-  - "#mishlei_13_3"
-  - "#mishlei_13_4"
-  - "#mishlei_13_5"
-  - "#mishlei_13_6"
-  - "#mishlei_13_7"
-  - "#mishlei_13_8"
-  - "#mishlei_13_9"
-  - "#mishlei_1_7"
-  - "#bereshit_1_3"
-  - "#iojanan_1_9"
+  - "#proverbios_13_1"
+  - "#proverbios_13_2"
+  - "#proverbios_13_3"
+  - "#proverbios_13_4"
+  - "#proverbios_13_5"
+  - "#proverbios_13_6"
+  - "#proverbios_13_7"
+  - "#proverbios_13_8"
+  - "#proverbios_13_9"
+  - "#proverbios_1_7"
+  - "#genesis_1_3"
+  - "#juan_1_9"
 sources:
   - "https://www.youtube.com/watch?v=1WDNiv9092c"
   - "docs/scriptures/oe/json/raw/proverbs.json"
@@ -37,15 +37,15 @@ Esta nota organiza la clase pública de Eric de Jesús Rodríguez Mendoza sobre 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_13_1 | בן חכם מוסר אב ולץ לא שמע גערה | Un hijo sabio se deja disciplinar por el padre, pero el burlador no escucha la reprimenda. |
-| #mishlei_13_2 | מפרי פי איש יאכל טוב ונפש בגדים חמס | Del fruto de la boca del hombre, él comerá el bien, pero la garganta de los traidores, violencia. |
-| #mishlei_13_3 | נצר פיו שמר נפשו פשק שפתיו מחתה לו | El que guarda su boca, guarda su garganta (O, vida). El que abre de par en par sus labios habrá para él destrucción (O, ruina). |
-| #mishlei_13_4 | מתאוה ואין נפשו עצל ונפש חרצים תדשן | Desea la garganta del perezoso, pero nada; pero la garganta de los determinados se engordará. |
-| #mishlei_13_5 | דבר שקר ישנא צדיק ורשע יבאש ויחפיר | Palabra de mentira aborrece el justo, y el condenado apesta y actúa vergonzosamente. |
-| #mishlei_13_6 | צדקה תשמר תם דרך ורשעה תסלף חטאת | La justicia protegerá al íntegro de camino, pero la maldad torcerá al pecador. |
-| #mishlei_13_7 | יש מתעשר ואין כל מתרושש והון רב | Hay quien se muestra como rico, pero no tiene nada; y hay quien se muestra como pobre, pero tiene mucha riqueza. |
-| #mishlei_13_8 | כפר נפש איש עשרו ורש לא שמע גערה | El pago por el rescate de la vida del hombre es su riqueza, pero el pobre no escucha reprimenda. |
-| #mishlei_13_9 | אור צדיקים ישמח ונר רשעים ידעך | La Luz de los justos se alegrará, pero la lámpara de los condenados se apagará. |
+| #proverbios_13_1 | בן חכם מוסר אב ולץ לא שמע גערה | Un hijo sabio se deja disciplinar por el padre, pero el burlador no escucha la reprimenda. |
+| #proverbios_13_2 | מפרי פי איש יאכל טוב ונפש בגדים חמס | Del fruto de la boca del hombre, él comerá el bien, pero la garganta de los traidores, violencia. |
+| #proverbios_13_3 | נצר פיו שמר נפשו פשק שפתיו מחתה לו | El que guarda su boca, guarda su garganta (O, vida). El que abre de par en par sus labios habrá para él destrucción (O, ruina). |
+| #proverbios_13_4 | מתאוה ואין נפשו עצל ונפש חרצים תדשן | Desea la garganta del perezoso, pero nada; pero la garganta de los determinados se engordará. |
+| #proverbios_13_5 | דבר שקר ישנא צדיק ורשע יבאש ויחפיר | Palabra de mentira aborrece el justo, y el condenado apesta y actúa vergonzosamente. |
+| #proverbios_13_6 | צדקה תשמר תם דרך ורשעה תסלף חטאת | La justicia protegerá al íntegro de camino, pero la maldad torcerá al pecador. |
+| #proverbios_13_7 | יש מתעשר ואין כל מתרושש והון רב | Hay quien se muestra como rico, pero no tiene nada; y hay quien se muestra como pobre, pero tiene mucha riqueza. |
+| #proverbios_13_8 | כפר נפש איש עשרו ורש לא שמע גערה | El pago por el rescate de la vida del hombre es su riqueza, pero el pobre no escucha reprimenda. |
+| #proverbios_13_9 | אור צדיקים ישמח ונר רשעים ידעך | La Luz de los justos se alegrará, pero la lámpara de los condenados se apagará. |
 
 ## El hijo sabio recibe la disciplina
 
@@ -83,10 +83,10 @@ El cierre distingue **(אור)**, _or_, luz, de **(נר)**, _ner_, lámpara o ve
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_13_1 | El hijo sabio recibe la disciplina del Padre; el burlador esquiva la reprensión. | Secuencia textual apoyada; matiz de _lets_ cualificado. |
-| #mishlei_13_2-4 | La garganta recibe alimento: palabra buena produce bien; pereza deja hambre y diligencia llena para compartir. | Imagen textual apoyada; aplicación de la palabra como alimento cualificada. |
-| #mishlei_13_5-8 | El justo rechaza la mentira; las apariencias de riqueza esconden vacío y la riqueza verdadera se relaciona con obediencia y rescate. | Contraste apoyado; tesoros celestiales y lectura de _kófer_ como aplicación. |
-| #mishlei_13_9 | La luz de los justos permanece, mientras la lámpara de los condenados se apaga. | Contraste textual apoyado; conexión con Yehoshua y Yojanán 1 cualificada. |
+| #proverbios_13_1 | El hijo sabio recibe la disciplina del Padre; el burlador esquiva la reprensión. | Secuencia textual apoyada; matiz de _lets_ cualificado. |
+| #proverbios_13_2-4 | La garganta recibe alimento: palabra buena produce bien; pereza deja hambre y diligencia llena para compartir. | Imagen textual apoyada; aplicación de la palabra como alimento cualificada. |
+| #proverbios_13_5-8 | El justo rechaza la mentira; las apariencias de riqueza esconden vacío y la riqueza verdadera se relaciona con obediencia y rescate. | Contraste apoyado; tesoros celestiales y lectura de _kófer_ como aplicación. |
+| #proverbios_13_9 | La luz de los justos permanece, mientras la lámpara de los condenados se apaga. | Contraste textual apoyado; conexión con Yehoshua y Yojanán 1 cualificada. |
 
 ## Pendiente de verificar
 

@@ -4,23 +4,23 @@ description: "Estudio de Mishlei 22:17-29 sobre el inicio de los treinta dichos 
 date: 2026-08-05
 tags: [mishlei, mishlei_22, treinta_dichos, sabiduria, torah, madurez]
 references:
-  - "#mishlei_22_17"
-  - "#mishlei_22_18"
-  - "#mishlei_22_19"
-  - "#mishlei_22_20"
-  - "#mishlei_22_21"
-  - "#mishlei_22_22"
-  - "#mishlei_22_23"
-  - "#mishlei_22_24"
-  - "#mishlei_22_25"
-  - "#mishlei_22_26"
-  - "#mishlei_22_27"
-  - "#mishlei_22_28"
-  - "#mishlei_22_29"
-  - "#mishlei_24_22"
+  - "#proverbios_22_17"
+  - "#proverbios_22_18"
+  - "#proverbios_22_19"
+  - "#proverbios_22_20"
+  - "#proverbios_22_21"
+  - "#proverbios_22_22"
+  - "#proverbios_22_23"
+  - "#proverbios_22_24"
+  - "#proverbios_22_25"
+  - "#proverbios_22_26"
+  - "#proverbios_22_27"
+  - "#proverbios_22_28"
+  - "#proverbios_22_29"
+  - "#proverbios_24_22"
   - "#lucas_3_23"
-  - "#bereshit_41_46"
-  - "#shemuel_bet_5_4"
+  - "#genesis_41_46"
+  - "#2_samuel_5_4"
 sources:
   - "https://www.youtube.com/watch?v=u3gnytqB474"
   - "docs/scriptures/oe/json/proverbs/22.json"
@@ -42,15 +42,15 @@ Esta nota organiza la clase sobre Mishlei 22:17-29. Sigue el orden de la secció
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_22_17 | הט אזנך ושמע דברי חכמים ולבך תשית לדעתי | Inclina tu oído y escucha las palabras de los sabios, y tu corazón pondrás para conocerme. |
-| #mishlei_22_18 | כי נעים כי תשמרם בבטנך יכנו יחדו על שפתיך | Porque deleitosas serán cuando las guardes en tu vientre, se afirmarán juntas en tus labios. |
-| #mishlei_22_19 | להיות ביהוה מבטחך הודעתיך היום אף אתה | Para que esté en יהוה tu confianza, te he dado a conocer hoy también a ti. |
-| #mishlei_22_20 | הלא כתבתי לך שלשום שלישים במועצת ודעת | ¿No te he escrito treinta en consejos y conocimiento? |
-| #mishlei_22_21 | להודיעך קשט אמרי אמת להשיב אמרים אמת לשלחיך | Para darte a conocer el adorno de las palabras de la verdad, para que devuelvas dichos de verdad a los que te enviaron. |
-| #mishlei_22_22-23 | אל תגזל דל כי דל הוא ואל תדכא עני בשער ... כי יהוה יריב ריבם | No robes al débil... ni quebrantes al afligido en la puerta, porque יהוה luchará su causa. |
-| #mishlei_22_24-25 | אל תתרע את בעל אף ... פן תאלף ארחתו | No te alíes con el señor de la ira... para que no aprendas sus caminos. |
-| #mishlei_22_26-27 | אל תהי בתקעי כף בערבים משאות ... למה יקח משכבך | No estés con los que se comprometen para deudas... ¿por qué ha de tomar tu cama? |
-| #mishlei_22_28-29 | אל תסג גבול עולם ... חזית איש מהיר במלאכתו | No muevas el límite antiguo... has visto al hombre rápido en su trabajo. |
+| #proverbios_22_17 | הט אזנך ושמע דברי חכמים ולבך תשית לדעתי | Inclina tu oído y escucha las palabras de los sabios, y tu corazón pondrás para conocerme. |
+| #proverbios_22_18 | כי נעים כי תשמרם בבטנך יכנו יחדו על שפתיך | Porque deleitosas serán cuando las guardes en tu vientre, se afirmarán juntas en tus labios. |
+| #proverbios_22_19 | להיות ביהוה מבטחך הודעתיך היום אף אתה | Para que esté en יהוה tu confianza, te he dado a conocer hoy también a ti. |
+| #proverbios_22_20 | הלא כתבתי לך שלשום שלישים במועצת ודעת | ¿No te he escrito treinta en consejos y conocimiento? |
+| #proverbios_22_21 | להודיעך קשט אמרי אמת להשיב אמרים אמת לשלחיך | Para darte a conocer el adorno de las palabras de la verdad, para que devuelvas dichos de verdad a los que te enviaron. |
+| #proverbios_22_22-23 | אל תגזל דל כי דל הוא ואל תדכא עני בשער ... כי יהוה יריב ריבם | No robes al débil... ni quebrantes al afligido en la puerta, porque יהוה luchará su causa. |
+| #proverbios_22_24-25 | אל תתרע את בעל אף ... פן תאלף ארחתו | No te alíes con el señor de la ira... para que no aprendas sus caminos. |
+| #proverbios_22_26-27 | אל תהי בתקעי כף בערבים משאות ... למה יקח משכבך | No estés con los que se comprometen para deudas... ¿por qué ha de tomar tu cama? |
+| #proverbios_22_28-29 | אל תסג גבול עולם ... חזית איש מהיר במלאכתו | No muevas el límite antiguo... has visto al hombre rápido en su trabajo. |
 
 ## Una nueva sección para oídos maduros
 
@@ -92,11 +92,11 @@ Los versos 28-29 cierran la unidad con límites antiguos y diligencia. No mover 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_22_17-19 | El oído inclinado y el conocimiento guardado en el vientre producen discernimiento, labios transformados y confianza en יהוה. | Interiorización textual; metáfora digestiva y lectura de madurez calificadas. |
-| #mishlei_22_20-21 | El pasaje inicia treinta dichos; el número apunta a una edad de madurez y servicio, y el discípulo responde con verdad a quienes lo enviaron. | Conteo apoyado por TTH y estructura; simbolismo numérico y figura del enviado pendientes. |
-| #mishlei_22_22-23 | La Torah protege al débil en la puerta y יהוה pelea su causa como abogado y restaurador. | Justicia y causa divina apoyadas; títulos mesiánicos atribuidos. |
-| #mishlei_22_24-27 | La alianza con la ira y el compromiso de deuda enseñan caminos que atrapan el alma. | Advertencia textual; identificación del señor de la ira con ha-Satán calificada. |
-| #mishlei_22_28-29 | Respetar los límites antiguos y trabajar con diligencia caracteriza al servidor apto para estar ante reyes. | Aplicación ética apoyada; alcance de la promesa calificado. |
+| #proverbios_22_17-19 | El oído inclinado y el conocimiento guardado en el vientre producen discernimiento, labios transformados y confianza en יהוה. | Interiorización textual; metáfora digestiva y lectura de madurez calificadas. |
+| #proverbios_22_20-21 | El pasaje inicia treinta dichos; el número apunta a una edad de madurez y servicio, y el discípulo responde con verdad a quienes lo enviaron. | Conteo apoyado por TTH y estructura; simbolismo numérico y figura del enviado pendientes. |
+| #proverbios_22_22-23 | La Torah protege al débil en la puerta y יהוה pelea su causa como abogado y restaurador. | Justicia y causa divina apoyadas; títulos mesiánicos atribuidos. |
+| #proverbios_22_24-27 | La alianza con la ira y el compromiso de deuda enseñan caminos que atrapan el alma. | Advertencia textual; identificación del señor de la ira con ha-Satán calificada. |
+| #proverbios_22_28-29 | Respetar los límites antiguos y trabajar con diligencia caracteriza al servidor apto para estar ante reyes. | Aplicación ética apoyada; alcance de la promesa calificado. |
 
 ## Pendiente de verificar
 

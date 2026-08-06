@@ -4,19 +4,19 @@ description: "La honra que no corresponde, la disciplina que dirige y el cuidado
 date: 2026-08-05
 tags: [mishlei, mishlei_26, mensajero, disciplina, torah, discernimiento]
 references:
-  - "#mishlei_26_1"
-  - "#mishlei_26_2"
-  - "#mishlei_26_3"
-  - "#mishlei_26_4"
-  - "#mishlei_26_5"
-  - "#mishlei_26_6"
-  - "#mishlei_26_7"
-  - "#mishlei_26_8"
-  - "#mishlei_26_9"
-  - "#mishlei_26_10"
-  - "#mishlei_26_17"
-  - "#mishlei_25_19"
-  - "#mishlei_13_17"
+  - "#proverbios_26_1"
+  - "#proverbios_26_2"
+  - "#proverbios_26_3"
+  - "#proverbios_26_4"
+  - "#proverbios_26_5"
+  - "#proverbios_26_6"
+  - "#proverbios_26_7"
+  - "#proverbios_26_8"
+  - "#proverbios_26_9"
+  - "#proverbios_26_10"
+  - "#proverbios_26_17"
+  - "#proverbios_25_19"
+  - "#proverbios_13_17"
   - "#mateo_7_16"
   - "#galatas_1_8"
 sources:
@@ -40,17 +40,17 @@ Esta nota organiza la primera clase del hermano Eric de Jesús Rodríguez Mendoz
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_26_1 | כשלג בקיץ וכמטר בקציר כן לא נאוה לכסיל כבוד | Como nieve en el verano y como lluvia en la cosecha, así no es adecuada al indisciplinado la gloria. |
-| #mishlei_26_2 | כצפור לנוד כדרור לעוף כן קללת חנם לא לו תבא | Como el pájaro al vagar, como la golondrina al volar, así la maldición de gratis no vendrá. |
-| #mishlei_26_3 | שוט לסוס מתג לחמור ושבט לגו כסילים | El látigo es para el caballo, la brida es para el asno, y la vara para la espalda de los indisciplinados. |
-| #mishlei_26_4 | אל תען כסיל כאולתו פן תשוה לו גם אתה | No respondas al indisciplinado conforme a su tontería, no sea que tú también seas igual a él. |
-| #mishlei_26_5 | ענה כסיל כאולתו פן יהיה חכם בעיניו | Responde al indisciplinado conforme a su tontería, no sea que él sea sabio en sus propios ojos. |
-| #mishlei_26_6 | מקצה רגלים חמס שתה שלח דברים ביד כסיל | Acorta los pies, bebe violencia, el que envía palabra por mano de un indisciplinado. |
-| #mishlei_26_7 | דליו שקים מפסח ומשל בפי כסילים | Cuelgan las piernas del cojo, y la parábola en boca de los indisciplinados. |
-| #mishlei_26_8 | כצרור אבן במרגמה כן נותן לכסיל כבוד | Como atar una piedra en una honda, así es el que da honra al indisciplinado. |
-| #mishlei_26_9 | חוח עלה ביד שכור ומשל בפי כסילים | Espina que sube en la mano del borracho, y la parábola en boca de los indisciplinados. |
-| #mishlei_26_10 | רב מחולל כל ושכר כסיל ושכר עברים | El Maestro da a luz a todos —otra lectura posible: el Arquero traspasa a todos—, y contrata al indisciplinado y a los que van pasando. |
-| #mishlei_26_17 | מחזיק באזני כלב עבר מתעבר על ריב לא לו | El que agarra las orejas del perro es el que se cruza en una contienda no suya. |
+| #proverbios_26_1 | כשלג בקיץ וכמטר בקציר כן לא נאוה לכסיל כבוד | Como nieve en el verano y como lluvia en la cosecha, así no es adecuada al indisciplinado la gloria. |
+| #proverbios_26_2 | כצפור לנוד כדרור לעוף כן קללת חנם לא לו תבא | Como el pájaro al vagar, como la golondrina al volar, así la maldición de gratis no vendrá. |
+| #proverbios_26_3 | שוט לסוס מתג לחמור ושבט לגו כסילים | El látigo es para el caballo, la brida es para el asno, y la vara para la espalda de los indisciplinados. |
+| #proverbios_26_4 | אל תען כסיל כאולתו פן תשוה לו גם אתה | No respondas al indisciplinado conforme a su tontería, no sea que tú también seas igual a él. |
+| #proverbios_26_5 | ענה כסיל כאולתו פן יהיה חכם בעיניו | Responde al indisciplinado conforme a su tontería, no sea que él sea sabio en sus propios ojos. |
+| #proverbios_26_6 | מקצה רגלים חמס שתה שלח דברים ביד כסיל | Acorta los pies, bebe violencia, el que envía palabra por mano de un indisciplinado. |
+| #proverbios_26_7 | דליו שקים מפסח ומשל בפי כסילים | Cuelgan las piernas del cojo, y la parábola en boca de los indisciplinados. |
+| #proverbios_26_8 | כצרור אבן במרגמה כן נותן לכסיל כבוד | Como atar una piedra en una honda, así es el que da honra al indisciplinado. |
+| #proverbios_26_9 | חוח עלה ביד שכור ומשל בפי כסילים | Espina que sube en la mano del borracho, y la parábola en boca de los indisciplinados. |
+| #proverbios_26_10 | רב מחולל כל ושכר כסיל ושכר עברים | El Maestro da a luz a todos —otra lectura posible: el Arquero traspasa a todos—, y contrata al indisciplinado y a los que van pasando. |
+| #proverbios_26_17 | מחזיק באזני כלב עבר מתעבר על ריב לא לו | El que agarra las orejas del perro es el que se cruza en una contienda no suya. |
 
 ## La honra tiene un tiempo y una medida
 
@@ -100,10 +100,10 @@ La clase aplica el principio al anuncio de la besorá y recuerda la advertencia 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_26_1-2 | La honra al indisciplinado es como nieve en verano; la maldición no llega gratuitamente. | Imágenes estacionales y causalidad apoyadas; detalles agrícolas y dispersión de Israel calificadas. |
-| #mishlei_26_3-5 | La brida dirige, la vara corrige y los versos 4-5 requieren distinguir respuesta verbal de respuesta de obras. | Contraste textual apoyado; aplicación a la Torah y a la disciplina calificada. |
-| #mishlei_26_6-10 | Un mensajero indisciplinado distorsiona; la parábola queda sin fundamento, y 26:10 admite lecturas lexicales distintas. | Riesgo del mensajero apoyado; vínculos con Yehoshua y la viña pedagógicos. |
-| #mishlei_26_17 | La contienda ajena debe evitarse. | Aplicación prudencial directamente compatible con la imagen del texto. |
+| #proverbios_26_1-2 | La honra al indisciplinado es como nieve en verano; la maldición no llega gratuitamente. | Imágenes estacionales y causalidad apoyadas; detalles agrícolas y dispersión de Israel calificadas. |
+| #proverbios_26_3-5 | La brida dirige, la vara corrige y los versos 4-5 requieren distinguir respuesta verbal de respuesta de obras. | Contraste textual apoyado; aplicación a la Torah y a la disciplina calificada. |
+| #proverbios_26_6-10 | Un mensajero indisciplinado distorsiona; la parábola queda sin fundamento, y 26:10 admite lecturas lexicales distintas. | Riesgo del mensajero apoyado; vínculos con Yehoshua y la viña pedagógicos. |
+| #proverbios_26_17 | La contienda ajena debe evitarse. | Aplicación prudencial directamente compatible con la imagen del texto. |
 
 ## Pendiente de verificar
 
@@ -115,8 +115,8 @@ La clase aplica el principio al anuncio de la besorá y recuerda la advertencia 
 
 ## Conexiones principales
 
-- #mishlei_25_19: confiar en un traidor en el día de la angustia ilumina la imagen del mensajero que distorsiona.
-- #mishlei_13_17: el mensajero malvado cae en mal y el fiel trae sanidad; es un contraste temático para 26:6.
+- #proverbios_25_19: confiar en un traidor en el día de la angustia ilumina la imagen del mensajero que distorsiona.
+- #proverbios_13_17: el mensajero malvado cae en mal y el fiel trae sanidad; es un contraste temático para 26:6.
 - #mateo_7_16: los frutos ofrecen un criterio pastoral para discernir a quien pretende representar el mensaje.
 - #galatas_1_8: la advertencia sobre una besorá diferente es la conexión apostólica aludida en la clase; requiere cotejo textual antes de ampliar la aplicación.
 

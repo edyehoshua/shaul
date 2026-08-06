@@ -11,20 +11,20 @@ tags:
   - gracia
   - mesias
 references:
-  - "#galatians_1_1"
-  - "#galatians_1_2"
-  - "#galatians_1_3"
-  - "#galatians_1_4"
-  - "#galatians_1_5"
-  - "#galatians_1_6"
-  - "#galatians_1_7"
-  - "#galatians_1_8"
-  - "#galatians_1_9"
-  - "#galatians_1_10"
-  - "#iojanan_10_18"
-  - "#iojanan_3_16"
-  - "#tehilim_49_8"
-  - "#tehilim_49_9"
+  - "#galatas_1_1"
+  - "#galatas_1_2"
+  - "#galatas_1_3"
+  - "#galatas_1_4"
+  - "#galatas_1_5"
+  - "#galatas_1_6"
+  - "#galatas_1_7"
+  - "#galatas_1_8"
+  - "#galatas_1_9"
+  - "#galatas_1_10"
+  - "#juan_10_18"
+  - "#juan_3_16"
+  - "#salmos_49_8"
+  - "#salmos_49_9"
 sources:
   - "https://www.youtube.com/watch?v=ZfPUEeRSFPU"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -45,10 +45,10 @@ Esta nota organiza la clase pública «LETTER TO THE GALATIANS | The ONLY BESORA
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatians_1_1-3 | **פולוס השליח לא מבני אדם ולא על־ידי בן־אדם כי אם־על־ידי ישוע המשיח ואלהים האב אשר העירו מן־המתים׃ וכל־האחים אשר עמדי אל־הקהלות אשר בגלטיא׃ חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח׃** | El mensaje llega desde el Mesías y se dirige a comunidades; el saludo introduce bondad y shalom. |
-| #galatians_1_4-5 | **אשר־נתן את־נפשו על־חטאתינו לחלצנו מן־העולם הרע הזה כרצון אלהינו אבינו׃ אשר־לו הכבוד לעולמי עולמים אמן׃** | La entrega del Mesías, el rescate del orden malo y la gloria de Elohim forman la base de la exhortación. |
-| #galatians_1_6-7 | **תמה אני כי־סרתם מהר מאחרי הקרא אתכם בחסד המשיח לשמׂע אל־בשורה זרה׃ והיא איננה אחרת רק יש אנשים העכרים אתכם וחפצים להפך את־בשורת המשיח׃** | El problema es apartarse del llamado del Mesías para escuchar un mensaje que pretende alterar su buena noticia. |
-| #galatians_1_8-10 | **אבל גם־אנחנו או־מלאך מן־השמים אם־יבוא לבשר אתכם בשורה מבלעדי זאת אשר בשרנו אתכם חרם יהיה׃ כאשר אמרנו כבר כן־אמר עתה עוד־הפעם איש כי־יבשר אתכם בשורה מבלעדי אשר קבלתם חרם יהיה׃ כי המתרצה אל־בני אדם אנכי או אל־האלהים אם המבקש אנכי למצא־חן בעיני בני־אדם הן במצאי חן בעיני בני־אדם לא־אהיה עבד המשיח׃** | La fidelidad al evangelio recibido tiene prioridad sobre la aprobación de personas, incluso frente a una autoridad espectacular. |
+| #galatas_1_1-3 | **פולוס השליח לא מבני אדם ולא על־ידי בן־אדם כי אם־על־ידי ישוע המשיח ואלהים האב אשר העירו מן־המתים׃ וכל־האחים אשר עמדי אל־הקהלות אשר בגלטיא׃ חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח׃** | El mensaje llega desde el Mesías y se dirige a comunidades; el saludo introduce bondad y shalom. |
+| #galatas_1_4-5 | **אשר־נתן את־נפשו על־חטאתינו לחלצנו מן־העולם הרע הזה כרצון אלהינו אבינו׃ אשר־לו הכבוד לעולמי עולמים אמן׃** | La entrega del Mesías, el rescate del orden malo y la gloria de Elohim forman la base de la exhortación. |
+| #galatas_1_6-7 | **תמה אני כי־סרתם מהר מאחרי הקרא אתכם בחסד המשיח לשמׂע אל־בשורה זרה׃ והיא איננה אחרת רק יש אנשים העכרים אתכם וחפצים להפך את־בשורת המשיח׃** | El problema es apartarse del llamado del Mesías para escuchar un mensaje que pretende alterar su buena noticia. |
+| #galatas_1_8-10 | **אבל גם־אנחנו או־מלאך מן־השמים אם־יבוא לבשר אתכם בשורה מבלעדי זאת אשר בשרנו אתכם חרם יהיה׃ כאשר אמרנו כבר כן־אמר עתה עוד־הפעם איש כי־יבשר אתכם בשורה מבלעדי אשר קבלתם חרם יהיה׃ כי המתרצה אל־בני אדם אנכי או אל־האלהים אם המבקש אנכי למצא־חן בעיני בני־אדם הן במצאי חן בעיני בני־אדם לא־אהיה עבד המשיח׃** | La fidelidad al evangelio recibido tiene prioridad sobre la aprobación de personas, incluso frente a una autoridad espectacular. |
 
 ## «Se dio a sí mismo»: el sujeto del sacrificio
 
@@ -87,11 +87,11 @@ La oposición entre «gracia» y «obras» debe mantenerse igualmente precisa. G
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_1_1-5 | El Mesías no fue sacrificado por HaSatán: él se dio a sí mismo; la reconciliación procede de Elohim. | Apoyo textual con formulación teológica cualificada. |
-| #iojanan_10_18 | Yehoshua entrega su vida voluntariamente y tiene autoridad para volver a tomarla. | Conexión intertextual; se usa como apoyo temático, no como sustituto de Gálatas 1. |
+| #galatas_1_1-5 | El Mesías no fue sacrificado por HaSatán: él se dio a sí mismo; la reconciliación procede de Elohim. | Apoyo textual con formulación teológica cualificada. |
+| #juan_10_18 | Yehoshua entrega su vida voluntariamente y tiene autoridad para volver a tomarla. | Conexión intertextual; se usa como apoyo temático, no como sustituto de Gálatas 1. |
 | Sacrificio y Yom Kipur | El israelita dependía del sacerdocio y no podía producir por sí solo la reconciliación definitiva. | Marco pedagógico atribuido; se evita afirmar una correspondencia automática entre cada rito y la obra del Mesías. |
-| #tehilim_49_8-9 | Ningún hombre puede pagar el rescate de su hermano; la clase usa esta pregunta para insistir en la dependencia de Elohim. | Conexión conservada, pero el número y texto exactos quedan pendientes de cotejo local. |
-| #galatians_1_6-10 | No existe una «otra» buena noticia legítima; agradar a personas no puede gobernar al siervo del Mesías. | Apoyo directo del texto local; se limita la aplicación a mensajes alterados y no a condenas indiscriminadas. |
+| #salmos_49_8-9 | Ningún hombre puede pagar el rescate de su hermano; la clase usa esta pregunta para insistir en la dependencia de Elohim. | Conexión conservada, pero el número y texto exactos quedan pendientes de cotejo local. |
+| #galatas_1_6-10 | No existe una «otra» buena noticia legítima; agradar a personas no puede gobernar al siervo del Mesías. | Apoyo directo del texto local; se limita la aplicación a mensajes alterados y no a condenas indiscriminadas. |
 
 ## Pendiente de verificar
 

@@ -11,10 +11,10 @@ tags:
   - perseverancia
 references:
   - "#romanos_12_2"
-  - "#corintios_1_10_20"
-  - "#corintios_1_10_21"
-  - "#iojanan_15_4"
-  - "#iojanan_15_5"
+  - "#1_corintios_10_20"
+  - "#1_corintios_10_21"
+  - "#juan_15_4"
+  - "#juan_15_5"
   - "#mateo_12_48"
   - "#mateo_12_50"
   - "#marcos_10_29"
@@ -44,8 +44,8 @@ Esta nota organiza la exposición pública de Eric de Jesús Rodríguez Mendoza 
 | Referencia | Texto local de Delitzsch | Función en la clase |
 | --- | --- | --- |
 | #romanos_12_2 | **וְאַל־תִּדַּמּוּ לָעוֹלָם הַזֶּה כִּי אִם־הִתְחַלְּפוּ לִהְיוֹת לָכֶם לֵב חָדָשׁ לִבְחׂן מַה־הוּא רְצוֹן הָאֱלׂהִים הַטּוֹב וְהַנֶּחְמָד וְהַשָּׁלֵם׃** | La renovación del corazón permite probar la voluntad de Elohim; la exposición la relaciona con abandonar el patrón del mundo. |
-| #corintios_1_10_20-21 | **אֶלָּא מַה־שֶּׁיִּזְבְּחוּ הַגּוֹיִם לַשֵּׁדִים... וְלׂא יִהְיֶה חֵלֶק לָכֶם בְּשֻׁלְחַן אֲדׂנֵינוּ וּבְשֻׁלְחַן הַשֵּׁדִים׃** | Apoya el límite concreto entre la mesa de los demonios y la mesa del Adón; no prueba por sí solo una lista moderna de costumbres. |
-| #iojanan_15_4-5 | **הֱיוּ דְבֵקִים בִּי וַאֲנִי בָכֶם... אֲנֹכִי הַגֶּפֶן וְאַתֶּם הַזְּמֹרוֹת... כִּי בִּלְעָדַי לֹא תוּכְלוּ עֲשׂוֹת מְאוּמָה׃** | La perseverancia y el fruto dependen de permanecer en Yehoshua, no del mérito individual. |
+| #1_corintios_10_20-21 | **אֶלָּא מַה־שֶּׁיִּזְבְּחוּ הַגּוֹיִם לַשֵּׁדִים... וְלׂא יִהְיֶה חֵלֶק לָכֶם בְּשֻׁלְחַן אֲדׂנֵינוּ וּבְשֻׁלְחַן הַשֵּׁדִים׃** | Apoya el límite concreto entre la mesa de los demonios y la mesa del Adón; no prueba por sí solo una lista moderna de costumbres. |
+| #juan_15_4-5 | **הֱיוּ דְבֵקִים בִּי וַאֲנִי בָכֶם... אֲנֹכִי הַגֶּפֶן וְאַתֶּם הַזְּמֹרוֹת... כִּי בִּלְעָדַי לֹא תוּכְלוּ עֲשׂוֹת מְאוּמָה׃** | La perseverancia y el fruto dependen de permanecer en Yehoshua, no del mérito individual. |
 | #mateo_12_48-50 | **מִי הִיא אִמִּי וּמִי הֵם אֶחָי... כִּי כָּל הָעׂשֶׂה רְצוֹן אָבִי... הוּא אָח וְאָחוֹת וְאֵם לִי׃** | La obediencia define una familia de discípulos; la aplicación no autoriza despreciar a la familia natural. |
 | #marcos_10_29-30 | **אֵין אִישׁ אֲשֶׁר עָזַב אֶת־בֵּיתוֹ... לְמַעַנִי וּלְמַעַן הַבְּשׂוֹרָה... וְלָעוֹלָם הַבָּא חַיֵּי עוֹלָם׃** | La clase usa el costo del discipulado para exhortar a soltar apegos; el pasaje también habla de recibir comunidad y cuidado, no sólo aislamiento. |
 

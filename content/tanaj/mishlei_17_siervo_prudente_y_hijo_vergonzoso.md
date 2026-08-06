@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 17:1-7 sobre la paz, la prueba del corazón, la
 date: 2026-08-05
 tags: [mishlei, mishlei_17, siervo, disciplina, corazon, palabra]
 references:
-  - "#mishlei_17_1"
-  - "#mishlei_17_2"
-  - "#mishlei_17_3"
-  - "#mishlei_17_4"
-  - "#mishlei_17_5"
-  - "#mishlei_17_6"
-  - "#mishlei_17_7"
-  - "#devarim_15_12"
+  - "#proverbios_17_1"
+  - "#proverbios_17_2"
+  - "#proverbios_17_3"
+  - "#proverbios_17_4"
+  - "#proverbios_17_5"
+  - "#proverbios_17_6"
+  - "#proverbios_17_7"
+  - "#deuteronomio_15_12"
   - "#mateo_8_5"
   - "#lucas_15_11"
-  - "#malaji_4_6"
+  - "#malaquias_4_6"
 sources:
   - "https://www.youtube.com/watch?v=lFQb8l9g8Pc"
   - "docs/scriptures/oe/json/proverbs/17.json"
@@ -36,13 +36,13 @@ Esta nota organiza la clase pública de Eric sobre Mishlei 17:1-7. Resume sus ob
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_17_1 | טוב פת חרבה ושלוה בה מבית מלא זבחי ריב | Mejor es un bocado seco y tranquilidad en él, que una casa llena de sacrificios de contienda. |
-| #mishlei_17_2 | עבד משכיל ימשל בבן מביש ובתוך אחים יחלק נחלה | El siervo prudente dominará sobre el hijo vergonzoso, y entre los hermanos repartirá la herencia. |
-| #mishlei_17_3 | מצרף לכסף וכור לזהב ובחן לבות יהוה | El crisol es para la plata y el horno para el oro, pero el que examina los corazones es יהוה. |
-| #mishlei_17_4 | מרע מקשיב על שפת און שקר מזין על לשון הות | El condenado atiende a los labios de vacuidad; el mentiroso presta oído a la lengua destructiva. |
-| #mishlei_17_5 | לעג לרש חרף עשהו שמח לאיד לא ינקה | El que se burla del pobre insulta a su Hacedor; el que se alegra por la calamidad no será inocente. |
-| #mishlei_17_6 | עטרת זקנים בני בנים ותפארת בנים אבותם | Corona de los ancianos son los hijos de los hijos, y el adorno de los hijos son sus padres. |
-| #mishlei_17_7 | לא נאוה לנבל שפת יתר אף כי לנדיב שפת שקר | No es adecuado al marchito —heb. _nabal_— el labio de abundancia; ¡cuánto menos al dadivoso el labio de mentira! |
+| #proverbios_17_1 | טוב פת חרבה ושלוה בה מבית מלא זבחי ריב | Mejor es un bocado seco y tranquilidad en él, que una casa llena de sacrificios de contienda. |
+| #proverbios_17_2 | עבד משכיל ימשל בבן מביש ובתוך אחים יחלק נחלה | El siervo prudente dominará sobre el hijo vergonzoso, y entre los hermanos repartirá la herencia. |
+| #proverbios_17_3 | מצרף לכסף וכור לזהב ובחן לבות יהוה | El crisol es para la plata y el horno para el oro, pero el que examina los corazones es יהוה. |
+| #proverbios_17_4 | מרע מקשיב על שפת און שקר מזין על לשון הות | El condenado atiende a los labios de vacuidad; el mentiroso presta oído a la lengua destructiva. |
+| #proverbios_17_5 | לעג לרש חרף עשהו שמח לאיד לא ינקה | El que se burla del pobre insulta a su Hacedor; el que se alegra por la calamidad no será inocente. |
+| #proverbios_17_6 | עטרת זקנים בני בנים ותפארת בנים אבותם | Corona de los ancianos son los hijos de los hijos, y el adorno de los hijos son sus padres. |
+| #proverbios_17_7 | לא נאוה לנבל שפת יתר אף כי לנדיב שפת שקר | No es adecuado al marchito —heb. _nabal_— el labio de abundancia; ¡cuánto menos al dadivoso el labio de mentira! |
 
 ## Paz con poco y contienda con abundancia
 
@@ -86,11 +86,11 @@ El verso 7 cierra con una incompatibilidad: al _nabal_, el marchito o necio, no 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_17_1; `youtube:lFQb8l9g8Pc` | Un bocado seco con paz supera una casa llena de sacrificios y contiendas; la provisión necesaria vale más que la abundancia conflictiva. | Contraste textual apoyado; aplicación sobre provisión y sacrificio cualificada. |
-| #mishlei_17_2; `youtube:lFQb8l9g8Pc` | El siervo prudente puede gobernar al hijo vergonzoso; la clase lo relaciona con gentiles que reciben Torá y besorá. | Estructura del proverbio apoyada; lectura gentil, capitán romano e hijo pródigo atribuida. |
-| #mishlei_17_3; `youtube:lFQb8l9g8Pc` | El crisol y el horno representan la prueba y purificación de corazones por יהוה, conectada con Yehoshua. | Imagen y soberanía textual apoyadas; conclusión cristológica cualificada. |
-| #mishlei_17_4-5; `youtube:lFQb8l9g8Pc` | El que ama la vacuidad escucha la lengua destructiva; despreciar al pobre es insultar a su Hacedor. | Ética textual apoyada; Koraj y la aplicación a Yehoshua son conexiones atribuidas. |
-| #mishlei_17_6-7; `youtube:lFQb8l9g8Pc` | La descendencia honra a los ancianos; no corresponden abundancia al necio ni mentira al dadivoso. | Contrastes apoyados; retorno nacional y falso evangelio tratados como aplicaciones. |
+| #proverbios_17_1; `youtube:lFQb8l9g8Pc` | Un bocado seco con paz supera una casa llena de sacrificios y contiendas; la provisión necesaria vale más que la abundancia conflictiva. | Contraste textual apoyado; aplicación sobre provisión y sacrificio cualificada. |
+| #proverbios_17_2; `youtube:lFQb8l9g8Pc` | El siervo prudente puede gobernar al hijo vergonzoso; la clase lo relaciona con gentiles que reciben Torá y besorá. | Estructura del proverbio apoyada; lectura gentil, capitán romano e hijo pródigo atribuida. |
+| #proverbios_17_3; `youtube:lFQb8l9g8Pc` | El crisol y el horno representan la prueba y purificación de corazones por יהוה, conectada con Yehoshua. | Imagen y soberanía textual apoyadas; conclusión cristológica cualificada. |
+| #proverbios_17_4-5; `youtube:lFQb8l9g8Pc` | El que ama la vacuidad escucha la lengua destructiva; despreciar al pobre es insultar a su Hacedor. | Ética textual apoyada; Koraj y la aplicación a Yehoshua son conexiones atribuidas. |
+| #proverbios_17_6-7; `youtube:lFQb8l9g8Pc` | La descendencia honra a los ancianos; no corresponden abundancia al necio ni mentira al dadivoso. | Contrastes apoyados; retorno nacional y falso evangelio tratados como aplicaciones. |
 
 ## Pendiente de verificar
 

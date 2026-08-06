@@ -17,7 +17,7 @@ references:
   - "#romanos_8_28-30"
   - "#romanos_8_31-39"
   - "#romanos_7_24-25"
-  - "#galatim_4_4-7"
+  - "#galatas_4_4-7"
 sources:
   - "https://www.youtube.com/watch?v=9RtvJSFxMyA"
   - "https://www.youtube.com/watch?v=zfAGyn3rUH4"

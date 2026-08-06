@@ -9,9 +9,9 @@ tags:
   - esperanza
   - eric-youtube
 references:
-  - "#tehilim_131_1"
-  - "#tehilim_131_2"
-  - "#tehilim_131_3"
+  - "#salmos_131_1"
+  - "#salmos_131_2"
+  - "#salmos_131_3"
 sources:
   - "https://www.youtube.com/watch?v=cKjkhUJOR4Y"
   - "docs/scriptures/oe/json/psalms/131.json"
@@ -32,11 +32,11 @@ La enseñanza recorre los tres versículos del cántico de los escalones en orde
 
 | Referencia     | Texto local (OE, hebreo sin nikud)                                              | Función en el argumento                                                                          |
 | -------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| #tehilim_131_1 | **שיר המעלות לדוד יהוה לא גבה לבי ולא רמו עיני ולא הלכתי בגדלות ובנפלאות ממני** | El orante niega elevación interior, mirada arrogante y búsqueda de grandezas fuera de su medida. |
-| #tehilim_131_2 | **אם לא שויתי ודוממתי נפשי כגמל עלי אמו כגמל עלי נפשי**                         | El ser queda nivelado y silencioso como un niño destetado junto a su madre.                      |
-| #tehilim_131_3 | **יחל ישראל אל יהוה מעתה ועד עולם**                                             | La disciplina personal se vuelve llamado comunitario a esperar en יהוה.                          |
+| #salmos_131_1 | **שיר המעלות לדוד יהוה לא גבה לבי ולא רמו עיני ולא הלכתי בגדלות ובנפלאות ממני** | El orante niega elevación interior, mirada arrogante y búsqueda de grandezas fuera de su medida. |
+| #salmos_131_2 | **אם לא שויתי ודוממתי נפשי כגמל עלי אמו כגמל עלי נפשי**                         | El ser queda nivelado y silencioso como un niño destetado junto a su madre.                      |
+| #salmos_131_3 | **יחל ישראל אל יהוה מעתה ועד עולם**                                             | La disciplina personal se vuelve llamado comunitario a esperar en יהוה.                          |
 
-## 131:1: corazón, ojos y grandezas que no corresponden #tehilim_131_1
+## 131:1: corazón, ojos y grandezas que no corresponden #salmos_131_1
 
 Eric comienza observando que el salmista dice literalmente que su corazón no se puso alto. Relaciona **גבה**, _gavah_, con algo colocado arriba; su sentido normal es ser alto, elevarse o enaltecerse. En el contexto, “no se elevó mi corazón” es una traducción aproximada de una imagen hebrea que el castellano suele expresar como “no fui arrogante”. La imagen espacial es real; convertirla directamente en una teoría psicológica del inconsciente sería una ampliación pedagógica de Eric, no el significado único de **לב**, _lev_. El término normalmente nombra corazón, interior, voluntad o centro de pensamiento; aquí fuerza la confesión de que la interioridad del orante no se autoexalta.
 
@@ -46,7 +46,7 @@ La segunda imagen son los ojos que no se levantaron. **רום**, _rum_, signific
 
 Por último, el orante declara que no caminó en **גדלות**, _gedolot_, “grandezas”, ni en **נפלאות**, _niflaot_, “maravillas” que le quedaban demasiado lejos. Eric aplica esto contra la presión de buscar ministerios, títulos o proyectos espectaculares. La aplicación es pastoral; el texto afirma con exactitud que el orante no se condujo en cosas grandes y maravillosas “más allá de mí”. No condena la diligencia ni toda responsabilidad grande, sino la pretensión de apropiarse de lo que no corresponde.
 
-## 131:2: aquietar el ser como un niño destetado #tehilim_131_2
+## 131:2: aquietar el ser como un niño destetado #salmos_131_2
 
 El segundo verso ofrece el contraste positivo. Eric explica **שויתי**, _shaviti_, como poner, nivelar o disponer, y **דוממתי**, _domamti_, como silenciar o aquietar. Los sentidos normales son “he calmado/igualado” y “he hecho callar”; la relación con una disciplina interior es contextual y aproximada. El salmista no afirma que nunca tenga deseos o capacidades, sino que su **נפש**, _nefesh_, queda sosegada.
 
@@ -54,7 +54,7 @@ La comparación “como un niño destetado sobre su madre” es central en la cl
 
 Eric vincula también esta quietud con la idea de servir sin imitar el método de otro: cada persona debe actuar conforme a la medida recibida, sin convertir el estilo de enseñanza de Eric en un patrón universal. El texto no menciona métodos ministeriales, pero sí ofrece el límite que sostiene esa exhortación: la persona no anda en grandezas “más allá de mí” y aprende a dejar su ser en reposo.
 
-## 131:3: de la quietud personal a la espera de Israel #tehilim_131_3
+## 131:3: de la quietud personal a la espera de Israel #salmos_131_3
 
 El último verso cambia de singular a comunidad: “Espere Israel en יהוה desde ahora y hasta siempre”. Eric recalca que **יחל**, _yajal_, no es una emoción pasajera ni una espera ansiosa por controlar el futuro. Su sentido normal es esperar, aguardar o tener esperanza; el contexto le da una fuerza exhortativa: permanecer confiado en יהוה a partir de este momento y sin fecha de vencimiento.
 

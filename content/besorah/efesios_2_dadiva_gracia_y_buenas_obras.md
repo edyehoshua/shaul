@@ -10,16 +10,16 @@ tags:
   - nueva-vida
   - mesias
 references:
-  - "#ephesians_2_1"
-  - "#ephesians_2_2"
-  - "#ephesians_2_3"
-  - "#ephesians_2_4"
-  - "#ephesians_2_5"
-  - "#ephesians_2_6"
-  - "#ephesians_2_7"
-  - "#ephesians_2_8"
-  - "#ephesians_2_9"
-  - "#ephesians_2_10"
+  - "#efesios_2_1"
+  - "#efesios_2_2"
+  - "#efesios_2_3"
+  - "#efesios_2_4"
+  - "#efesios_2_5"
+  - "#efesios_2_6"
+  - "#efesios_2_7"
+  - "#efesios_2_8"
+  - "#efesios_2_9"
+  - "#efesios_2_10"
 sources:
   - "https://www.youtube.com/watch?v=b1tK23tGzLQ"
   - "docs/scriptures/delitzsch/json/ephesians.json"
@@ -40,18 +40,18 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | It is the GIFT 
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #ephesians_2_1-3 | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם ... בתאות הבשר לעשות חפצי בשרנו ומחשבותינו** | La condición anterior es descrita como muerte en delitos, deseos y pensamientos. |
-| #ephesians_2_4-6 | **אבל־האלהים המלא רחמים ברב אהבתו ... החינו עם־המשיח בחסד נושעתם ... ואף־הושיבנו במרומים במשיח ישוע** | Elohim actúa con misericordia, vivifica, levanta y sienta con el Mesías. |
-| #ephesians_2_7-9 | **להראות בדרות הבאים את־גדלת עשר חסדו ... כי־בחסד נושעתם על־ידי האמונה ולא מידכם היתה זאת כי־מתת אלהים היא ... לא מתוך המעשים שלא יתהלל איש** | La gracia y la dádiva excluyen la jactancia y el mérito como fundamento. |
-| #ephesians_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים אשר הכין האלהים מקדם למען נתהלך בהם** | La nueva creación tiene una finalidad: caminar en buenas obras preparadas por Elohim. |
+| #efesios_2_1-3 | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם ... בתאות הבשר לעשות חפצי בשרנו ומחשבותינו** | La condición anterior es descrita como muerte en delitos, deseos y pensamientos. |
+| #efesios_2_4-6 | **אבל־האלהים המלא רחמים ברב אהבתו ... החינו עם־המשיח בחסד נושעתם ... ואף־הושיבנו במרומים במשיח ישוע** | Elohim actúa con misericordia, vivifica, levanta y sienta con el Mesías. |
+| #efesios_2_7-9 | **להראות בדרות הבאים את־גדלת עשר חסדו ... כי־בחסד נושעתם על־ידי האמונה ולא מידכם היתה זאת כי־מתת אלהים היא ... לא מתוך המעשים שלא יתהלל איש** | La gracia y la dádiva excluyen la jactancia y el mérito como fundamento. |
+| #efesios_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים אשר הכין האלהים מקדם למען נתהלך בהם** | La nueva creación tiene una finalidad: caminar en buenas obras preparadas por Elohim. |
 
-## De muerte a vida: el sujeto decisivo es Elohim (2:1-6) #ephesians_2_1-6
+## De muerte a vida: el sujeto decisivo es Elohim (2:1-6) #efesios_2_1-6
 
 La exposición comienza recordando el marco de 2:1-3. Pablo no describe una autosuperación: habla de personas muertas en delitos y pecados, caminando según el curso de este mundo, los deseos de la carne y los pensamientos. Eric desarrolla esta imagen como incapacidad de producir por sí mismo la vida que Elohim concede. «Existir» en el orden anterior no equivale a vivir en la vida que el Mesías comunica; esa es una aplicación pastoral de la oposición paulina entre muerte y vivificación.
 
 El giro del texto está en «pero Elohim». El sujeto no es la capacidad religiosa de la persona, sino el Elohim lleno de misericordia y grande en amor. El verbo **συνεζωοποίησεν**, _synezōopoiēsen_, «vivificó juntamente», se relaciona con el Mesías; luego **συνήγειρεν**, _synēgeiren_, «levantó juntamente», y **συνεκάθισεν**, _synekathisen_, «sentó juntamente», mantienen la unión con él. Eric recalca que esta vida no existe fuera del Mesías. La clase aplica el pasado verbal a una obra ya recibida que también abre un proceso visible de restauración y santificación. Esa aplicación debe distinguirse de afirmar que toda etapa futura de la resurrección corporal ya se manifestó plenamente.
 
-## La dádiva excluye la jactancia (2:7-9) #ephesians_2_7-9
+## La dádiva excluye la jactancia (2:7-9) #efesios_2_7-9
 
 Efesios 2:7 orienta la obra hacia las edades venideras: Elohim muestra la abundancia de su gracia y bondad en el Mesías. En 2:8-9, la salvación es «por gracia, mediante la fe» y «no de ustedes», «dádiva de Elohim», «no por obras, para que nadie se gloríe». Eric combate la idea de que alguien pueda enumerar donaciones, oraciones, ayunos o conocimiento como si cada práctica fuera el precio de su redención. El texto sí niega el origen humano de la salvación; no niega el fruto que el versículo 10 va a nombrar.
 
@@ -59,7 +59,7 @@ Efesios 2:7 orienta la obra hacia las edades venideras: Elohim muestra la abunda
 
 La exposición también insiste en que la fe sin obras es muerta, en conexión con Santiago. Esa conexión ayuda a leer 2:10, pero no debe utilizarse para reintroducir las obras como fundamento de 2:8-9. La secuencia de Pablo es precisa: salvación recibida, jactancia excluida, buenas obras preparadas.
 
-## Hechura que camina: la gracia produce fruto (2:10) #ephesians_2_10
+## Hechura que camina: la gracia produce fruto (2:10) #efesios_2_10
 
 El versículo 10 evita que «no por obras» sea separado de su contexto. **ποίημα**, _poiēma_, puede significar «obra», «hechura» o «creación realizada». La clase lo explica como una operación activa de Elohim, no como un objeto inerte: Elohim obra en los creyentes y los conduce paso a paso. Esa glosa es pedagógica y conserva una intuición textual importante: el sustantivo se vincula inmediatamente con «creados en el Mesías Yehoshua» y con «buenas obras».
 
@@ -82,10 +82,10 @@ La clase extiende esta idea a la mente renovada y a la esperanza futura. La nota
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_2_1-3 | Sin el Mesías la persona sólo existe bajo deseos, pensamientos y la fuerza del mundo; está muerta en sus transgresiones. | Se conserva como aplicación pastoral y se prueba con la condición descrita por Pablo. |
-| #ephesians_2_4-6 | Elohim vivifica, levanta y sienta juntamente con el Mesías; la vida no se produce fuera de él. | Apoyo textual en la serie de verbos con σύν; el alcance futuro de la resurrección queda cualificado. |
-| #ephesians_2_8-9 | La salvación es una dádiva, no el resultado de obras, sacrificios, ayunos o jactancia personal. | Apoyo textual directo; la conexión con **emunah** y Santiago queda como comparación. |
-| #ephesians_2_10 | «Hechura» es una obra activa de Elohim y las buenas obras son fruto y camino, no precio. | Apoyo textual con **ποίημα**, **κτίζω** y **περιπατέω**; «operación» se marca como glosa pedagógica. |
+| #efesios_2_1-3 | Sin el Mesías la persona sólo existe bajo deseos, pensamientos y la fuerza del mundo; está muerta en sus transgresiones. | Se conserva como aplicación pastoral y se prueba con la condición descrita por Pablo. |
+| #efesios_2_4-6 | Elohim vivifica, levanta y sienta juntamente con el Mesías; la vida no se produce fuera de él. | Apoyo textual en la serie de verbos con σύν; el alcance futuro de la resurrección queda cualificado. |
+| #efesios_2_8-9 | La salvación es una dádiva, no el resultado de obras, sacrificios, ayunos o jactancia personal. | Apoyo textual directo; la conexión con **emunah** y Santiago queda como comparación. |
+| #efesios_2_10 | «Hechura» es una obra activa de Elohim y las buenas obras son fruto y camino, no precio. | Apoyo textual con **ποίημα**, **κτίζω** y **περιπατέω**; «operación» se marca como glosa pedagógica. |
 
 ## Pendiente de verificar
 

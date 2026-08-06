@@ -4,14 +4,14 @@ description: "Estudio de Mishlei 25:11-15 sobre la palabra examinada, la reprens
 date: 2026-08-05
 tags: [mishlei, mishlei_25, palabra, mensajero, paciencia, sabiduria]
 references:
-  - "#mishlei_25_11"
-  - "#mishlei_25_12"
-  - "#mishlei_25_13"
-  - "#mishlei_25_14"
-  - "#mishlei_25_15"
-  - "#mishlei_2_4"
-  - "#yeshayahu_55_11"
-  - "#tehilim_19_10"
+  - "#proverbios_25_11"
+  - "#proverbios_25_12"
+  - "#proverbios_25_13"
+  - "#proverbios_25_14"
+  - "#proverbios_25_15"
+  - "#proverbios_2_4"
+  - "#isaias_55_11"
+  - "#salmos_19_10"
 sources:
   - "https://www.youtube.com/watch?v=NDIGGVfpWjM"
   - "docs/scriptures/oe/json/proverbs/25.json"
@@ -33,15 +33,15 @@ Esta nota organiza la clase sobre Mishlei 25:11-15 y sigue el orden de las imág
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_25_11 | תפוחי זהב במשכיות כסף דבר דבר על אפניו | Manzanas de oro en figuras de plata es la palabra hablada de manera sabia (significado dudoso en la última expresión). |
-| #mishlei_25_12 | נזם זהב וחלי כתם מוכיח חכם על אזן שמעת | Nariguera de oro y adornos de oro fino es el reprensor sabio sobre el oído escuchador. |
-| #mishlei_25_13 | כצנת שלג ביום קציר ציר נאמן לשלחיו ונפש אדניו ישיב | Como frío de nieve en día de cosecha es el mensajero fidedigno para los que lo envían, y la garganta de su Amo hará volver. |
-| #mishlei_25_14 | נשיאים ורוח וגשם אין איש מתהלל במתת שקר | Nubes y viento, y sin lluvia, es el hombre que se jacta en un don de falsedad. |
-| #mishlei_25_15 | בארך אפים יפתה קצין ולשון רכה תשבר גרם | Con largura de nariz se tiene la apertura del líder, y la lengua suave rompe el hueso. |
+| #proverbios_25_11 | תפוחי זהב במשכיות כסף דבר דבר על אפניו | Manzanas de oro en figuras de plata es la palabra hablada de manera sabia (significado dudoso en la última expresión). |
+| #proverbios_25_12 | נזם זהב וחלי כתם מוכיח חכם על אזן שמעת | Nariguera de oro y adornos de oro fino es el reprensor sabio sobre el oído escuchador. |
+| #proverbios_25_13 | כצנת שלג ביום קציר ציר נאמן לשלחיו ונפש אדניו ישיב | Como frío de nieve en día de cosecha es el mensajero fidedigno para los que lo envían, y la garganta de su Amo hará volver. |
+| #proverbios_25_14 | נשיאים ורוח וגשם אין איש מתהלל במתת שקר | Nubes y viento, y sin lluvia, es el hombre que se jacta en un don de falsedad. |
+| #proverbios_25_15 | בארך אפים יפתה קצין ולשון רכה תשבר גרם | Con largura de nariz se tiene la apertura del líder, y la lengua suave rompe el hueso. |
 
 ## La figura de plata que guarda oro
 
-La clase comienza con la imagen de las manzanas de oro en figuras de plata (#mishlei_25_11). Explica que la apariencia exterior puede ser de plata mientras el interior tiene oro, y aplica la comparación a la Escritura: una lectura superficial puede quedarse en la forma, pero el que busca con diligencia descubre su valor. La conexión con Mishlei 2:4 y Tehilim 19:10 es temática, no una definición del hebreo de este verso. La imagen sí invita a tratar la palabra como un tesoro que merece atención; no autoriza a despreciar el sentido sencillo ni a convertir toda dificultad textual en un mensaje oculto.
+La clase comienza con la imagen de las manzanas de oro en figuras de plata (#proverbios_25_11). Explica que la apariencia exterior puede ser de plata mientras el interior tiene oro, y aplica la comparación a la Escritura: una lectura superficial puede quedarse en la forma, pero el que busca con diligencia descubre su valor. La conexión con Mishlei 2:4 y Tehilim 19:10 es temática, no una definición del hebreo de este verso. La imagen sí invita a tratar la palabra como un tesoro que merece atención; no autoriza a despreciar el sentido sencillo ni a convertir toda dificultad textual en un mensaje oculto.
 
 La expresión final del verso es discutida. TTH conserva la duda y ofrece “de manera sabia”, “en sus ruedas” o “en sus caras”. Eric menciona las posibilidades de rueda, base y rostro y prefiere atender a la analogía antes que afirmar una raíz segura. Esa cautela es una parte importante de la enseñanza: cuando la palabra es incierta, la nota debe conservar la incertidumbre.
 
@@ -53,7 +53,7 @@ La aplicación a la palabra de יהוה puede ser provechosa si mantiene esa dir
 
 ## El mensajero fiel y la cosecha
 
-En #mishlei_25_13, el frío de la nieve en el día de la cosecha representa el alivio que produce un mensajero fiel. Eric desarrolla la idea de que la cosecha es el momento en que se hace visible el fruto del trabajo y que el enviado vuelve con aquello que recibió. La exposición acerca **(נאמן)**, _neeman_, a firmeza, crianza y fidelidad; la nota conserva esa relación como aproximación útil, no como equivalencia automática de todos sus matices.
+En #proverbios_25_13, el frío de la nieve en el día de la cosecha representa el alivio que produce un mensajero fiel. Eric desarrolla la idea de que la cosecha es el momento en que se hace visible el fruto del trabajo y que el enviado vuelve con aquello que recibió. La exposición acerca **(נאמן)**, _neeman_, a firmeza, crianza y fidelidad; la nota conserva esa relación como aproximación útil, no como equivalencia automática de todos sus matices.
 
 El mensaje fiel no se mide por promesas grandiosas, sino por su correspondencia con quien lo envió. La conexión con Yeshayahu 55:11 puede iluminar la confianza en que la palabra de יהוה cumple su propósito, pero no convierte el proverbio en una cita directa de ese pasaje. El servidor debe hablar lo recibido y dejar que el fruto sea probado en la cosecha.
 
@@ -78,25 +78,25 @@ Finalmente, el verso 15 une **(ארך אפים)**, _erej apaim_, “largura de n
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_25_11 | La palabra parece plata por fuera, pero contiene oro para quien escudriña con diligencia. | Imagen textual apoyada; lectura de revelación interior calificada. |
-| #mishlei_25_12 | La reprensión sabia es una joya sobre el oído del que escucha y recibe crianza. | Contraste textual apoyado; equivalencia léxica pendiente. |
-| #mishlei_25_13 | El mensajero fiel refresca en la cosecha y hace volver el fruto de la palabra recibida. | Aplicación apoyada por la imagen; conexión con Yeshayahu 55:11 calificada. |
-| #mishlei_25_14 | El que promete un don falso es como nubes y viento sin lluvia. | Apoyo textual directo; aplicación espiritual atribuida. |
-| #mishlei_25_15 | La paciencia abre al líder y la lengua suave vence una dureza que la fuerza no vence. | Apoyo textual y explicación contextual. |
+| #proverbios_25_11 | La palabra parece plata por fuera, pero contiene oro para quien escudriña con diligencia. | Imagen textual apoyada; lectura de revelación interior calificada. |
+| #proverbios_25_12 | La reprensión sabia es una joya sobre el oído del que escucha y recibe crianza. | Contraste textual apoyado; equivalencia léxica pendiente. |
+| #proverbios_25_13 | El mensajero fiel refresca en la cosecha y hace volver el fruto de la palabra recibida. | Aplicación apoyada por la imagen; conexión con Yeshayahu 55:11 calificada. |
+| #proverbios_25_14 | El que promete un don falso es como nubes y viento sin lluvia. | Apoyo textual directo; aplicación espiritual atribuida. |
+| #proverbios_25_15 | La paciencia abre al líder y la lengua suave vence una dureza que la fuerza no vence. | Apoyo textual y explicación contextual. |
 
 ## Pendiente de verificar
 
-- [ ] Resolver con léxicos y comentarios la expresión final de #mishlei_25_11; no decidir entre “a su tiempo”, “sobre sus ruedas”, “sobre sus caras” o “sobre sus bases” sin cotejo suficiente.
-- [ ] Cotejar la referencia exacta a Rashi mencionada en la clase sobre #mishlei_25_11.
+- [ ] Resolver con léxicos y comentarios la expresión final de #proverbios_25_11; no decidir entre “a su tiempo”, “sobre sus ruedas”, “sobre sus caras” o “sobre sus bases” sin cotejo suficiente.
+- [ ] Cotejar la referencia exacta a Rashi mencionada en la clase sobre #proverbios_25_11.
 - [ ] Verificar el alcance de **(מוכיח)** antes de tratar “evidencia” como traducción única.
-- [ ] Revisar la relación entre #mishlei_25_13 y #yeshayahu_55_11 como conexión temática, no como dependencia textual demostrada.
+- [ ] Revisar la relación entre #proverbios_25_13 y #isaias_55_11 como conexión temática, no como dependencia textual demostrada.
 - [ ] Cotejar la explicación de **(ארך אפים)** y **(קצין)** en léxicos hebreos antes de fijar todas las extensiones espirituales.
 
 ## Conexiones principales
 
-- #mishlei_2_4: buscar la sabiduría como tesoro ilumina la diligencia que la clase aplica a la figura de oro y plata.
-- #tehilim_19_10: el valor de la palabra se compara temáticamente con oro y miel.
-- #yeshayahu_55_11: conexión propuesta para el mensajero cuya palabra no vuelve sin fruto.
+- #proverbios_2_4: buscar la sabiduría como tesoro ilumina la diligencia que la clase aplica a la figura de oro y plata.
+- #salmos_19_10: el valor de la palabra se compara temáticamente con oro y miel.
+- #isaias_55_11: conexión propuesta para el mensajero cuya palabra no vuelve sin fruto.
 
 ## Conclusión
 

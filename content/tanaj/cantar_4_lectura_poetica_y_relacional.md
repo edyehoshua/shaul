@@ -8,22 +8,22 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_4_1"
-  - "#songofsolomon_4_2"
-  - "#songofsolomon_4_3"
-  - "#songofsolomon_4_4"
-  - "#songofsolomon_4_5"
-  - "#songofsolomon_4_6"
-  - "#songofsolomon_4_7"
-  - "#songofsolomon_4_8"
-  - "#songofsolomon_4_9"
-  - "#songofsolomon_4_10"
-  - "#songofsolomon_4_11"
-  - "#songofsolomon_4_12"
-  - "#songofsolomon_4_13"
-  - "#songofsolomon_4_14"
-  - "#songofsolomon_4_15"
-  - "#songofsolomon_4_16"
+  - "#cantares_4_1"
+  - "#cantares_4_2"
+  - "#cantares_4_3"
+  - "#cantares_4_4"
+  - "#cantares_4_5"
+  - "#cantares_4_6"
+  - "#cantares_4_7"
+  - "#cantares_4_8"
+  - "#cantares_4_9"
+  - "#cantares_4_10"
+  - "#cantares_4_11"
+  - "#cantares_4_12"
+  - "#cantares_4_13"
+  - "#cantares_4_14"
+  - "#cantares_4_15"
+  - "#cantares_4_16"
 sources:
   - "https://www.youtube.com/watch?v=44QJptwSoRk"
   - "https://www.youtube.com/watch?v=C8wgaPW8S-4"
@@ -48,7 +48,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                                | Observación                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_4_1 | **הנך יפה רעיתי הנך יפה עיניך יונים מבעד לצמתך שערך כעדר העזים שגלשו מהר גלעד** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_4_1 | **הנך יפה רעיתי הנך יפה עיניך יונים מבעד לצמתך שערך כעדר העזים שגלשו מהר גלעד** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 

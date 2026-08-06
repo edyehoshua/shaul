@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_47_1"
-  - "#tehilim_47_10"
+  - "#salmos_47_1"
+  - "#salmos_47_10"
 sources:
   - "https://www.youtube.com/watch?v=N9TIIVuQ0o4"
   - "docs/scriptures/oe/json/psalms/47.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 47. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                     | Observación de lectura                                               |
 | -------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_47_1  | למנצח לבני קרח מזמור                                      | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_47_10 | נדיבי עמים נאספו עם אלהי אברהם כי לאלהים מגני ארץ מאד נעלה | El verso final permite observar el cierre de la composición.         |
+| #salmos_47_1  | למנצח לבני קרח מזמור                                      | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_47_10 | נדיבי עמים נאספו עם אלהי אברהם כי לאלהים מגני ארץ מאד נעלה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

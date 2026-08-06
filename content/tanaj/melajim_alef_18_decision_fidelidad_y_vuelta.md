@@ -3,7 +3,7 @@ title: "Decisión, fidelidad y vuelta"
 description: "1 Reyes 18 confronta la lealtad dividida de Israel ante יהוה."
 date: 2026-07-27
 tags: [tanaj, melajim, haftarah, ki_tisa]
-references: ["#melajim_alef_18_21"]
+references: ["#1_reyes_18_21"]
 sources:
   - "https://www.youtube.com/watch?v=lt-eKhXojaU"
   - "docs/scriptures/oe/json/raw/ikings.json"
@@ -19,7 +19,7 @@ En 1 Reyes 18, Eliyahu llama a Israel a dejar la indecisión entre יהוה y Ba
 
 | Referencia          | Texto hebreo local                                                                                                                    | Observación                              |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| #melajim_alef_18_21 | ויגש אליהו אל כל העם ויאמר עד מתי אתם פסחים על שתי הסעפים אם יהוה האלהים לכו אחריו ואם הבעל לכו אחריו ולא ענו העם אתו דבר | La pregunta exige una respuesta pública. |
+| #1_reyes_18_21 | ויגש אליהו אל כל העם ויאמר עד מתי אתם פסחים על שתי הסעפים אם יהוה האלהים לכו אחריו ואם הבעל לכו אחריו ולא ענו העם אתו דבר | La pregunta exige una respuesta pública. |
 
 ## Lectura
 

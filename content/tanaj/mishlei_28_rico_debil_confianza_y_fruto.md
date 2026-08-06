@@ -4,15 +4,15 @@ description: "La riqueza que nace de la usura, la falsa seguridad y la transgres
 date: 2026-08-05
 tags: [mishlei, mishlei_28, riqueza, debilidad, confesión, disciplina, temor]
 references:
-  - "#mishlei_28_8"
-  - "#mishlei_28_9"
-  - "#mishlei_28_10"
-  - "#mishlei_28_11"
-  - "#mishlei_28_12"
-  - "#mishlei_28_13"
-  - "#mishlei_28_14"
-  - "#tehilim_1_3"
-  - "#iojanan_5_22"
+  - "#proverbios_28_8"
+  - "#proverbios_28_9"
+  - "#proverbios_28_10"
+  - "#proverbios_28_11"
+  - "#proverbios_28_12"
+  - "#proverbios_28_13"
+  - "#proverbios_28_14"
+  - "#salmos_1_3"
+  - "#juan_5_22"
 sources:
   - "https://www.youtube.com/watch?v=mHI9fLro-4I"
   - "docs/scriptures/oe/json/proverbs/28.json"
@@ -34,13 +34,13 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_28_8 | מרבה הונו בנשך ובתרבית ותרבית לחונן דלים יקבצנו | El que aumenta su riqueza con usura e interés, para el que favorece a los débiles lo recolecta. |
-| #mishlei_28_9 | מסיר אזנו משמע תורה גם תפלתו תועבה | El que aparta su oído de escuchar la Torah, también su oración es abominación. |
-| #mishlei_28_10 | משגה ישרים בדרך רע בשחתו הוא יפול ותמימים ינחלו טוב | El que hace extraviar a los rectos en camino malo, en su fosa caerá, pero los íntegros heredarán el bien. |
-| #mishlei_28_11 | חכם בעיניו איש עשיר ודל מבין יחקרנו | El rico es sabio en sus propios ojos, pero el débil entendido lo investigará. |
-| #mishlei_28_12 | בעלץ צדיקים רבה תפארת ובקום רשעים יחפש אדם | En el regocijo de los justificados aumenta la hermosura, pero al levantarse los condenados será buscado el hombre. |
-| #mishlei_28_13 | מכסה פשעיו לא יצליח ומודה ועזב ירחם | El que cubre sus transgresiones no prosperará, pero el que confiesa y abandona alcanzará misericordia. |
-| #mishlei_28_14 | אשרי אדם מפחד תמיד ומקשה לבו יפול ברעה | Felicidades del hombre que teme continuamente, pero el que endurece su corazón caerá en el daño. |
+| #proverbios_28_8 | מרבה הונו בנשך ובתרבית ותרבית לחונן דלים יקבצנו | El que aumenta su riqueza con usura e interés, para el que favorece a los débiles lo recolecta. |
+| #proverbios_28_9 | מסיר אזנו משמע תורה גם תפלתו תועבה | El que aparta su oído de escuchar la Torah, también su oración es abominación. |
+| #proverbios_28_10 | משגה ישרים בדרך רע בשחתו הוא יפול ותמימים ינחלו טוב | El que hace extraviar a los rectos en camino malo, en su fosa caerá, pero los íntegros heredarán el bien. |
+| #proverbios_28_11 | חכם בעיניו איש עשיר ודל מבין יחקרנו | El rico es sabio en sus propios ojos, pero el débil entendido lo investigará. |
+| #proverbios_28_12 | בעלץ צדיקים רבה תפארת ובקום רשעים יחפש אדם | En el regocijo de los justificados aumenta la hermosura, pero al levantarse los condenados será buscado el hombre. |
+| #proverbios_28_13 | מכסה פשעיו לא יצליח ומודה ועזב ירחם | El que cubre sus transgresiones no prosperará, pero el que confiesa y abandona alcanzará misericordia. |
+| #proverbios_28_14 | אשרי אדם מפחד תמיד ומקשה לבו יפול ברעה | Felicidades del hombre que teme continuamente, pero el que endurece su corazón caerá en el daño. |
 
 ## La riqueza que explota termina sirviendo a los débiles
 
@@ -81,9 +81,9 @@ Finalmente, el temor continuo de Mishlei 28:14 no se presenta como pánico sin d
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_28_8-10 | La riqueza de la usura favorece el deseo propio; apartar el oído de la Torah vuelve abominable la oración y el que extravía cae en su fosa. | Apoyo textual para explotación, oído y consecuencia; aplicaciones alegóricas calificadas. |
-| #mishlei_28_11-12 | El rico “sabio en sus propios ojos” es examinado por el débil entendido; al levantarse los condenados se busca al Adam mesiánico. | Investigación apoyada; identificación de Adam con Yehoshua y referencia targúmica pendientes. |
-| #mishlei_28_13-14 | Confesar y abandonar recibe misericordia; temer continuamente evita el endurecimiento del corazón. | Movimiento textual apoyado; distinciones entre tipos de pecado y restauración mesiánica calificadas. |
+| #proverbios_28_8-10 | La riqueza de la usura favorece el deseo propio; apartar el oído de la Torah vuelve abominable la oración y el que extravía cae en su fosa. | Apoyo textual para explotación, oído y consecuencia; aplicaciones alegóricas calificadas. |
+| #proverbios_28_11-12 | El rico “sabio en sus propios ojos” es examinado por el débil entendido; al levantarse los condenados se busca al Adam mesiánico. | Investigación apoyada; identificación de Adam con Yehoshua y referencia targúmica pendientes. |
+| #proverbios_28_13-14 | Confesar y abandonar recibe misericordia; temer continuamente evita el endurecimiento del corazón. | Movimiento textual apoyado; distinciones entre tipos de pecado y restauración mesiánica calificadas. |
 
 ## Pendiente de verificar
 

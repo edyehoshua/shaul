@@ -10,16 +10,16 @@ tags:
   - romanos
   - hechos
 references:
-  - "#maasei_21_20"
-  - "#maasei_15_1"
-  - "#maasei_15_19"
-  - "#maasei_15_21"
-  - "#romiyim_11_17"
-  - "#romiyim_11_20"
-  - "#romiyim_15_5"
-  - "#vayiqra_19_2"
-  - "#vayiqra_23_3"
-  - "#ivrim_11_1"
+  - "#hechos_21_20"
+  - "#hechos_15_1"
+  - "#hechos_15_19"
+  - "#hechos_15_21"
+  - "#romanos_11_17"
+  - "#romanos_11_20"
+  - "#romanos_15_5"
+  - "#levitico_19_2"
+  - "#levitico_23_3"
+  - "#hebreos_11_1"
 sources:
   - "https://www.youtube.com/watch?v=b4StIF_mR0A"
 source_ids:
@@ -39,13 +39,13 @@ Esta nota reorganiza un conversatorio histórico-teológico de Eric de Jesús Ro
 
 | Referencia        | Texto o núcleo local                                                            | Evaluación de la enseñanza                                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #maasei_21_20     | Jacobo informa a Pablo que hay millares de judíos creyentes, celosos de la Torá | Apoya la observación de que fe en Yehoshua y celo por la Torá no se presentan como incompatibles.                                                 |
-| #maasei_15_1-2    | Algunos enseñan a los gentiles que sin circuncidarse no pueden salvarse         | Apoya la crítica de Eric a hacer depender la salvación de una obra.                                                                               |
-| #maasei_15_19-21  | El concilio no impone una carga mayor y recuerda que Moisés se lee cada Shabbat | La conclusión incluye una secuencia pastoral: apartarse de idolatría, inmoralidad y sangre, y seguir oyendo la instrucción.                       |
-| #romiyim_11_17-22 | Pablo advierte a los gentiles injertados que no se jacten contra las ramas      | Sostiene la denuncia de la teología de reemplazo, aunque la historia posterior necesita investigación independiente.                              |
-| #romiyim_15_5     | Dios concede paciencia y consolación para vivir en armonía                      | Corrige cualquier identidad que convierta la obediencia en orgullo o tropiezo.                                                                    |
-| #vayiqra_19_2     | “Sean santos, porque yo, יהוה, soy santo”                                       | La santidad se evalúa por el mandato bíblico, no por el catálogo de una denominación.                                                             |
-| #vayiqra_23_3     | Shabbat como convocación santa                                                  | La clase usa el texto para cuestionar reducir el día a asistir a una reunión; la extensión exacta de las obligaciones debe tratarse con contexto. |
+| #hechos_21_20     | Jacobo informa a Pablo que hay millares de judíos creyentes, celosos de la Torá | Apoya la observación de que fe en Yehoshua y celo por la Torá no se presentan como incompatibles.                                                 |
+| #hechos_15_1-2    | Algunos enseñan a los gentiles que sin circuncidarse no pueden salvarse         | Apoya la crítica de Eric a hacer depender la salvación de una obra.                                                                               |
+| #hechos_15_19-21  | El concilio no impone una carga mayor y recuerda que Moisés se lee cada Shabbat | La conclusión incluye una secuencia pastoral: apartarse de idolatría, inmoralidad y sangre, y seguir oyendo la instrucción.                       |
+| #romanos_11_17-22 | Pablo advierte a los gentiles injertados que no se jacten contra las ramas      | Sostiene la denuncia de la teología de reemplazo, aunque la historia posterior necesita investigación independiente.                              |
+| #romanos_15_5     | Dios concede paciencia y consolación para vivir en armonía                      | Corrige cualquier identidad que convierta la obediencia en orgullo o tropiezo.                                                                    |
+| #levitico_19_2     | “Sean santos, porque yo, יהוה, soy santo”                                       | La santidad se evalúa por el mandato bíblico, no por el catálogo de una denominación.                                                             |
+| #levitico_23_3     | Shabbat como convocación santa                                                  | La clase usa el texto para cuestionar reducir el día a asistir a una reunión; la extensión exacta de las obligaciones debe tratarse con contexto. |
 
 ## Léxico clave
 

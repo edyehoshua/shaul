@@ -13,9 +13,9 @@ references:
   - "#romanos_4_1-5"
   - "#romanos_4_6-8"
   - "#romanos_4_9-12"
-  - "#bereshit_15_6"
-  - "#bereshit_17_10-11"
-  - "#tehilim_32_1-2"
+  - "#genesis_15_6"
+  - "#genesis_17_10-11"
+  - "#salmos_32_1-2"
 sources:
   - "https://www.youtube.com/watch?v=bkcKVGZLbvg"
   - "docs/scriptures/tth/json/romanos.json"

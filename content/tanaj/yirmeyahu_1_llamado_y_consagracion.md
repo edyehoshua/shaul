@@ -3,7 +3,7 @@ title: "Llamado y consagración profética"
 description: "Jeremías 1 presenta el llamado del profeta como iniciativa de יהוה."
 date: 2026-07-27
 tags: [tanaj, yirmeyahu, haftarah, pinjas, shmot]
-references: ["#irmeiahu_1_5"]
+references: ["#jeremias_1_5"]
 sources:
   - "https://www.youtube.com/watch?v=99WHQ0Av16E"
   - "https://www.youtube.com/watch?v=auNeYXUmbKg"
@@ -15,13 +15,13 @@ source_ids:
 
 # Tesis
 
-#irmeiahu_1 presenta el llamado de Jeremías como iniciativa de יהוה: conocimiento, consagración y envío preceden la tarea profética.
+#jeremias_1 presenta el llamado de Jeremías como iniciativa de יהוה: conocimiento, consagración y envío preceden la tarea profética.
 
 ## Hoja de comparación
 
 | Referencia    | Hebreo local                                                             | Observación                                  |
 | ------------- | ------------------------------------------------------------------------ | -------------------------------------------- |
-| #irmeiahu_1_5 | בטרם אצורך בבטן ידעתיך ובטרם תצא מרחם הקדשתיך נביא לגוים נתתיך | El envío procede de la consagración de יהוה. |
+| #jeremias_1_5 | בטרם אצורך בבטן ידעתיך ובטרם תצא מרחם הקדשתיך נביא לגוים נתתיך | El envío procede de la consagración de יהוה. |
 
 ## Lectura
 

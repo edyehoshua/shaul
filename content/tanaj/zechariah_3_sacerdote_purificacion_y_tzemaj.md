@@ -10,7 +10,7 @@ sources:
 source_ids: ["youtube:_E9RcYtZifA"]
 ## Tesis
 
-#zechariah_3 presenta la purificación de Yehoshúa el sumo sacerdote y la promesa del siervo llamado Tzémaj, en un marco de restauración posterior al exilio.
+#zacarias_3 presenta la purificación de Yehoshúa el sumo sacerdote y la promesa del siervo llamado Tzémaj, en un marco de restauración posterior al exilio.
 
 ## Alcance de la nota
 
@@ -20,7 +20,7 @@ La clase explica el cambio de haftará en Shabat Janukáh e introduce el context
 
 | Texto local                                                                                                          | Observación                                                           |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| #zechariah_3_8 — `שמע נא יהושע הכהן הגדול אתה ורעיך הישבים לפניך כי אנשי מופת המה כי הנני מביא את עבדי צמח` | Yehoshúa y sus compañeros son señal; יהוה anuncia a su siervo Tzémaj. |
+| #zacarias_3_8 — `שמע נא יהושע הכהן הגדול אתה ורעיך הישבים לפניך כי אנשי מופת המה כי הנני מביא את עבדי צמח` | Yehoshúa y sus compañeros son señal; יהוה anuncia a su siervo Tzémaj. |
 
 ## Conexiones principales
 

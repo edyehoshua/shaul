@@ -9,9 +9,9 @@ tags:
   - fidelidad
   - resurreccion
 references:
-  - "#tehilim_46_1-4"
-  - "#tehilim_46_5-8"
-  - "#tehilim_46_9-12"
+  - "#salmos_46_1-4"
+  - "#salmos_46_5-8"
+  - "#salmos_46_9-12"
 sources:
   - "https://www.youtube.com/watch?v=N1eCdZaIMDI"
   - "docs/scriptures/oe/json/psalms/46.json"
@@ -36,7 +36,7 @@ El expositor es el hermano Eric de Jesús Rodríguez Mendoza. Esta nota sigue su
 | 46:5-8  | נהר פלגיו ישמחו עיר אלהים קדש משכני עליון; אלהים בקרבה בל תמוט יעזרה אלהים לפנות בקר; המו גוים מטו ממלכות נתן בקולו תמוג ארץ; יהוה צבאות עמנו משגב לנו אלהי יעקב סלה                   | El río y sus divisiones alegran la ciudad porque Elohim está en medio de ella; la presencia y la voz divina sostienen a la ciudad ante el tumulto. |
 | 46:9-12 | לכו חזו מפעלות יהוה אשר שם שמות בארץ; משבית מלחמות עד קצה הארץ קשת ישבר וקצץ חנית עגלות ישרף באש; הרפו ודעו כי אנכי אלהים ארום בגוים ארום בארץ; יהוה צבאות עמנו משגב לנו אלהי יעקב סלה | La guerra termina por acción de יהוה; el imperativo llama a detener la lucha y reconocer a Elohim, mientras el estribillo vuelve al refugio.       |
 
-## 46:1-4: refugio cuando cambian la tierra y las convicciones #tehilim_46_1-4
+## 46:1-4: refugio cuando cambian la tierra y las convicciones #salmos_46_1-4
 
 El encabezado atribuye el cántico a los hijos de Qóraj. Eric observa que esto impide suponer que todos los himnos fueron escritos por David y propone una memoria antigua de una comunidad que recibió inspiración para cantar. El encabezado por sí solo no fecha el poema en el desierto: la atribución a una época concreta queda como posibilidad histórica, no como prueba textual.
 
@@ -44,7 +44,7 @@ La primera confesión es precisa: «Elohim es para nosotros **מחסה** y **ע�
 
 La clase aplica las montañas y árboles movidos a convicciones humanas arraigadas: en la angustia muchas seguridades cambian, pero la fidelidad recibida de Elohim debe sostener al creyente. Esa es una aplicación pedagógica, no el referente literal exclusivo de **ארץ**, _erets_, y **הרים**, _harim_. El texto poético sí presenta una conmoción cósmica y una confianza que no depende de que el mundo permanezca estable.
 
-## 46:5-8: el río y la ciudad donde Elohim está en medio #tehilim_46_5-8
+## 46:5-8: el río y la ciudad donde Elohim está en medio #salmos_46_5-8
 
 El centro de la clase está en 46:5: «un río; sus divisiones alegran la ciudad de Elohim, el santuario de las moradas del Altísimo». **נהר**, _nahar_, significa río; **פלג**, _peleg_, significa división, canal o corriente. La relación con «río cuyas divisiones» es directa. Eric conecta esta imagen con el río que sale de Edén en Bereshit 2:10 y con el río de agua de vida de Apocalipsis 22:1. La conexión canónica es sugerente y está atribuida a la exposición; el salmo mismo afirma que el río alegra la ciudad y que el santuario pertenece al Altísimo.
 
@@ -54,7 +54,7 @@ Eric también rechaza una lectura superficial de la ciudad como mero conjunto de
 
 El verso 8 vuelve al nombre **יהוה צבאות**, _YHWH Tsevaot_, «יהוה de los ejércitos» o «יהוה de las huestes». Eric prefiere conservarlo como nombre revelado y lo relaciona con la unión de Elohim y su pueblo. En el salmo funciona como confesión de presencia: «está con nosotros». El segundo estribillo, «Elohim de Jacob», ancla la esperanza en una historia de pacto, no en una idea abstracta de poder.
 
-## 46:9-12: fin de la guerra y quietud que reconoce a Elohim #tehilim_46_9-12
+## 46:9-12: fin de la guerra y quietud que reconoce a Elohim #salmos_46_9-12
 
 El poeta invita: «vengan, contemplen las obras de יהוה». **מפעלות**, _mifalot_, significa obras o acciones poderosas; **שמות**, _shamot_, significa desolaciones, devastaciones o ceses. Según el contexto, יהוה hace cesar guerras hasta el extremo de la tierra, rompe el arco, corta la lanza y quema los carros. Eric lee el pasaje como una acción efectiva que desarma la guerra, no como una promesa de que la angustia nunca será percibida.
 

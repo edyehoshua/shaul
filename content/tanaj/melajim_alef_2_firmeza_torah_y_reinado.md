@@ -10,7 +10,7 @@ sources:
 source_ids: ["youtube:Sbmr5kDBwWc"]
 ## Tesis
 
-#1_kings_2 presenta la última comisión de David a Salomón: ser fuerte, guardar el camino de יהוה y ejercer el reinado bajo la Torah.
+#1_reyes_2 presenta la última comisión de David a Salomón: ser fuerte, guardar el camino de יהוה y ejercer el reinado bajo la Torah.
 
 ## Alcance de la nota
 
@@ -20,11 +20,11 @@ La clase estudia la conexión con Vayji y comenta la fuerza como disposición pa
 
 | Texto local                                                     | Observación                             |
 | --------------------------------------------------------------- | --------------------------------------- |
-| #1_kings_2_2 — `ויקרבו ימי דוד למות ויצו את שלמה בנו לאמר` | David encarga a Salomón antes de morir. |
+| #1_reyes_2_2 — `ויקרבו ימי דוד למות ויצו את שלמה בנו לאמר` | David encarga a Salomón antes de morir. |
 
 ## Conexiones principales
 
-- La fuerza ordenada en #1_kings_2_2-3 se expresa mediante guardar mandamientos y caminos de יהוה.
+- La fuerza ordenada en #1_reyes_2_2-3 se expresa mediante guardar mandamientos y caminos de יהוה.
 - La sucesión no elimina la responsabilidad moral del rey.
 
 ## Conclusión

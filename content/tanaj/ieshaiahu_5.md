@@ -1,31 +1,31 @@
 ---
-title: "Ieshaiahu 5: viña, cardos y clamor"
-description: "Apuntes sobre Ieshaiahu 5 en torno a la viña, los malos frutos y la aparición de cardos y espinos como juicio"
+title: "Yeshayahu 5: viña, cardos y clamor"
+description: "Apuntes sobre Yeshayahu 5 en torno a la viña, los malos frutos y la aparición de cardos y espinos como juicio"
 date: 2026-05-16
 tags:
-  - ieshaiahu
+  - yeshayahu
   - ieshaiahu_5
 references:
-  - "#ieshaiahu_5_1"
-  - "#ieshaiahu_5_6"
+  - "#isaias_5_1"
+  - "#isaias_5_6"
 sources: []
 ---
 
 # Tesis
 
-Ieshaiahu 5 presenta la viña amada que dio malos frutos y por eso queda expuesta a cardos y espinos como señal de juicio sobre pensamientos y obras corrompidas.
+Yeshayahu 5 presenta la viña amada que dio malos frutos y por eso queda expuesta a cardos y espinos como señal de juicio sobre pensamientos y obras corrompidas.
 
 ## Texto base
 
-- #ieshaiahu_5_1
-- #ieshaiahu_5_6
+- #isaias_5_1
+- #isaias_5_6
 
 ## Texto TTH disponible
 
 | Referencia     | Texto                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| #ieshaiahu_5_1 | "Déjame cantar, por favor, a Iedidí, la canción de mi amado para su viña. Una viña tenía mi amado en un cuerno hijo del aceite."           |
-| #ieshaiahu_5_6 | "Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia." |
+| #isaias_5_1 | "Déjame cantar, por favor, a Iedidí, la canción de mi amado para su viña. Una viña tenía mi amado en un cuerno hijo del aceite."           |
+| #isaias_5_6 | "Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia." |
 
 ## Observaciones
 

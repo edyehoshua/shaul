@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_74_1"
-  - "#tehilim_74_23"
+  - "#salmos_74_1"
+  - "#salmos_74_23"
 sources:
   - "https://www.youtube.com/watch?v=sfiq1j6sPAU"
   - "docs/scriptures/oe/json/psalms/74.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 74. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                   | Observación de lectura                                               |
 | -------------- | --------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_74_1  | משכיל לאסף למה אלהים זנחת לנצח יעשן אפך בצאן מרעיתך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_74_23 | אל תשכח קול צרריך שאון קמיך עלה תמיד                    | El verso final permite observar el cierre de la composición.         |
+| #salmos_74_1  | משכיל לאסף למה אלהים זנחת לנצח יעשן אפך בצאן מרעיתך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_74_23 | אל תשכח קול צרריך שאון קמיך עלה תמיד                    | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

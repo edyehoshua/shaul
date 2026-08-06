@@ -7,14 +7,14 @@ tags:
   - hijo
   - angeles
 references:
-  - "#hebrews_1_1"
-  - "#hebrews_1_3"
-  - "#hebrews_1_4"
-  - "#hebrews_1_5"
-  - "#hebrews_1_6"
-  - "#hebrews_1_8"
-  - "#hebrews_1_10"
-  - "#hebrews_1_13"
+  - "#hebreos_1_1"
+  - "#hebreos_1_3"
+  - "#hebreos_1_4"
+  - "#hebreos_1_5"
+  - "#hebreos_1_6"
+  - "#hebreos_1_8"
+  - "#hebreos_1_10"
+  - "#hebreos_1_13"
 sources:
   - "https://www.youtube.com/watch?v=lY1jXkbJGtk"
   - "https://www.youtube.com/watch?v=5PPpjmPkyro"
@@ -37,12 +37,12 @@ Esta nota reúne las dos clases que tratan la introducción y Hebreos 1:1-14; la
 
 | Referencia | Texto local (Delitzsch) | Función en el argumento |
 | --- | --- | --- |
-| #hebrews_1_1-2 | **האלהים אשר־דבר מקדם פעמים רבות ובפנים שנים אל־אבתינו ביד הנביאים דבר אלינו באחרית הימים האלה ביד בנו אשר־שמו ליורש כל וגם עשה בידו את־העולמות** | La palabra profética y la palabra en el Hijo forman una secuencia; el Hijo es heredero y mediador de los mundos. |
-| #hebrews_1_3-4 | **והוא זהר כבודו וצלם עצמותו ונושא כל בדבר גבורתו ואחרי עשותו טהרת־חטאינו ישב לימין הגדלה במרומים ויגדל מאד מן־המלאכים כאשר השם אשר נחלו יקר הוא מאשר להם** | Resplandor, carácter, purificación, entronización y superioridad sostienen la transición hacia las citas. |
-| #hebrews_1_5-7 | **כי אל־מי מן־המלאכים אמר מעולם בני אתה אני היום ילדתיך ועוד אני אהיה לו לאב והוא יהיה לי לבן׃ ובהביאו עוד את־הבכור לעולם אמר וישתחוו לו כל־מלאכי אלהים׃ ואל־המלאכים הוא אמר עשה מלאכיו רוחות ומשרתיו אש להט** | Las citas distinguen al Hijo de los ángeles: unos son ministros; al Hijo se le habla como heredero y rey. |
-| #hebrews_1_8-14 | **ואל־הבן הוא אמר כסאך אלהים עולם ועד שבט מישר שבט מלכותך׃ ... אתה יהוה לפנים הארץ יסדת ומעשה ידיך שמים׃ ... שב לימיני עד־אשית איביך הדם לרגליך** | El cierre aplica al Hijo lenguaje de trono, permanencia, fundación de cielos y entronización que no se dirige a un ángel. |
+| #hebreos_1_1-2 | **האלהים אשר־דבר מקדם פעמים רבות ובפנים שנים אל־אבתינו ביד הנביאים דבר אלינו באחרית הימים האלה ביד בנו אשר־שמו ליורש כל וגם עשה בידו את־העולמות** | La palabra profética y la palabra en el Hijo forman una secuencia; el Hijo es heredero y mediador de los mundos. |
+| #hebreos_1_3-4 | **והוא זהר כבודו וצלם עצמותו ונושא כל בדבר גבורתו ואחרי עשותו טהרת־חטאינו ישב לימין הגדלה במרומים ויגדל מאד מן־המלאכים כאשר השם אשר נחלו יקר הוא מאשר להם** | Resplandor, carácter, purificación, entronización y superioridad sostienen la transición hacia las citas. |
+| #hebreos_1_5-7 | **כי אל־מי מן־המלאכים אמר מעולם בני אתה אני היום ילדתיך ועוד אני אהיה לו לאב והוא יהיה לי לבן׃ ובהביאו עוד את־הבכור לעולם אמר וישתחוו לו כל־מלאכי אלהים׃ ואל־המלאכים הוא אמר עשה מלאכיו רוחות ומשרתיו אש להט** | Las citas distinguen al Hijo de los ángeles: unos son ministros; al Hijo se le habla como heredero y rey. |
+| #hebreos_1_8-14 | **ואל־הבן הוא אמר כסאך אלהים עולם ועד שבט מישר שבט מלכותך׃ ... אתה יהוה לפנים הארץ יסדת ומעשה ידיך שמים׃ ... שב לימיני עד־אשית איביך הדם לרגליך** | El cierre aplica al Hijo lenguaje de trono, permanencia, fundación de cielos y entronización que no se dirige a un ángel. |
 
-## De la palabra profética al heredero de los mundos (1:1-4) #hebrews_1_1-4
+## De la palabra profética al heredero de los mundos (1:1-4) #hebreos_1_1-4
 
 Eric insiste en que la introducción no comienza con una definición abstracta, sino con la historia de la palabra: muchas veces y de muchas maneras por los profetas, y ahora en el Hijo. En su exposición, el Hijo es heredero de todo y aquello por lo cual fueron hechos los mundos; por eso la expresión no debe reducirse a “un mensajero más”. El texto local pone **בנו** (“su Hijo”) junto a **ליורש** (“heredero”), una relación de titularidad y promesa que la clase conecta con la obra creadora y redentora.
 
@@ -50,7 +50,7 @@ El argumento avanza en 1:3. Eric detalla tres observaciones: el Hijo es respland
 
 También es decisivo **(δι’ οὗ)** (*di’ hou*) en 1:2. Puede traducirse “por medio de quien”, pero Eric defiende el matiz “en virtud de quien”. Es una posibilidad contextual que subraya fundamento y finalidad, aunque no autoriza por sí sola toda la cosmología desarrollada en la clase. De igual modo, **(καθαρισμὸν)** (*katharismon*) describe purificación; la clase la relaciona con la limpieza de la mala conciencia desarrollada más adelante en Hebreos. Esa conexión temática es plausible, pero la identificación completa queda como inferencia.
 
-## Las citas del Tanaj: siervo, rey y creador (1:5-14) #hebrews_1_5-14
+## Las citas del Tanaj: siervo, rey y creador (1:5-14) #hebreos_1_5-14
 
 Siguiendo el orden textual, 1:5 pregunta a cuál de los ángeles se dijo: “Tú eres mi Hijo”. Eric observa que la clase no lee “Hijo” como una simple categoría biológica, sino como lenguaje de herencia, manifestación del amor de Elohim y subordinación voluntaria a su propia palabra. La observación concreta se contrasta con las citas del Salmo 2, 2 Samuel 7 y 1 Crónicas 17: el uso mesiánico es argumental, mientras la aplicación teológica de la clase requiere cautela.
 
@@ -87,8 +87,8 @@ Finalmente, 1:13 pregunta a cuál de los ángeles se dijo: “Siéntate a mi die
 
 ## Conexiones principales
 
-- Hebreos 1:1-4 ↔ #bereshit_1_1: la clase relaciona la palabra, el orden de los mundos y la obra del Hijo; la conexión debe distinguir texto citado de aplicación doctrinal.
-- Hebreos 1:5-14 ↔ #tehilim_2_7 y #tehilim_45_7: las citas del Tanaj construyen el contraste entre herencia, realeza, justicia y servicio.
+- Hebreos 1:1-4 ↔ #genesis_1_1: la clase relaciona la palabra, el orden de los mundos y la obra del Hijo; la conexión debe distinguir texto citado de aplicación doctrinal.
+- Hebreos 1:5-14 ↔ #salmos_2_7 y #salmos_45_7: las citas del Tanaj construyen el contraste entre herencia, realeza, justicia y servicio.
 - Hebreos 1:3 ↔ Hebreos 11:1: **(ὑπόστασις)** aparece en ambos argumentos; la relación es útil para estudiar, no una equivalencia automática de todos sus sentidos.
 
 ## Conclusión

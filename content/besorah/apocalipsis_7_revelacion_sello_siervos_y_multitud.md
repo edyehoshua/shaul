@@ -8,14 +8,14 @@ tags:
   - yehoshua
   - remanente
 references:
-  - "#revelation_7_1"
-  - "#revelation_7_3"
-  - "#revelation_7_4"
-  - "#revelation_7_9"
-  - "#revelation_7_10"
-  - "#revelation_7_13"
-  - "#revelation_7_14"
-  - "#revelation_7_17"
+  - "#apocalipsis_7_1"
+  - "#apocalipsis_7_3"
+  - "#apocalipsis_7_4"
+  - "#apocalipsis_7_9"
+  - "#apocalipsis_7_10"
+  - "#apocalipsis_7_13"
+  - "#apocalipsis_7_14"
+  - "#apocalipsis_7_17"
 sources:
   - "https://www.youtube.com/watch?v=ggw8ZKucja4"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -37,25 +37,25 @@ Esta nota organiza la enseñanza de la parte 17 de la serie del hermano Eric de 
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #revelation_7_1-3 | **ואחריכן ראיתי ארבעה מלאכים עמדים בארבע כנפות הארץ ויעצרו בארבע רוחות הארץ אשר לאתשב רוח לא בארץ ולא בים ולא בכלעץ**; **אלתחבלו אתהארץ ואתהים ואתהעץ עד אםחתמנו אתעבדי אלהינו עלמצחותם** | Cuatro mensajeros detienen los vientos y reciben la orden de no dañar hasta sellar a los siervos. |
-| #revelation_7_4-8 | **ואשמע מספר החתומים מאה אלף וארבעים וארבעה אלף והם חתומים מכלשבטי בני ישראל**; **לשבט יהודה חתומים שנים עשר אלף**; **לשבט יוסף חתומים שנים עשר אלף** | Se oye el número de los sellados y se enumera una distribución de doce mil por tribu. |
-| #revelation_7_9-10 | **אחריכן ראיתי והנה המון רב אשר לאיכל איש למנותו מכלהגוים והמשפחות והעמים והלשנות ויעמדו לפני הכסא ולפני השה**; **הישועה לאלהינו הישב עלהכסא ולשה** | La escena se amplía a una multitud de toda nación, pueblo y lengua que proclama salvación. |
-| #revelation_7_13-14 | **אלה המלבשים בגדי לבן מי המה ומאין באו**; **אלה הם הבאים מןהצרה הגדולה ויכבסו אתשמלתם וילבינום בדם השה** | El anciano identifica a los vestidos de blanco como quienes vienen de la gran tribulación y han lavado sus ropas en la sangre del Cordero. |
-| #revelation_7_15-17 | **הנם לפני כסאהאלהים ומשרתים אותו בהיכלו יומם ולילה**; **כי השה אשר בתוך הכסא הוא ירעם ועלמבועי מים חיים ינהלם ומחה אלהים כלדמעה מעיניהם** | El cierre une servicio, presencia, pastoreo del Cordero, aguas vivas y el fin del llanto. |
+| #apocalipsis_7_1-3 | **ואחריכן ראיתי ארבעה מלאכים עמדים בארבע כנפות הארץ ויעצרו בארבע רוחות הארץ אשר לאתשב רוח לא בארץ ולא בים ולא בכלעץ**; **אלתחבלו אתהארץ ואתהים ואתהעץ עד אםחתמנו אתעבדי אלהינו עלמצחותם** | Cuatro mensajeros detienen los vientos y reciben la orden de no dañar hasta sellar a los siervos. |
+| #apocalipsis_7_4-8 | **ואשמע מספר החתומים מאה אלף וארבעים וארבעה אלף והם חתומים מכלשבטי בני ישראל**; **לשבט יהודה חתומים שנים עשר אלף**; **לשבט יוסף חתומים שנים עשר אלף** | Se oye el número de los sellados y se enumera una distribución de doce mil por tribu. |
+| #apocalipsis_7_9-10 | **אחריכן ראיתי והנה המון רב אשר לאיכל איש למנותו מכלהגוים והמשפחות והעמים והלשנות ויעמדו לפני הכסא ולפני השה**; **הישועה לאלהינו הישב עלהכסא ולשה** | La escena se amplía a una multitud de toda nación, pueblo y lengua que proclama salvación. |
+| #apocalipsis_7_13-14 | **אלה המלבשים בגדי לבן מי המה ומאין באו**; **אלה הם הבאים מןהצרה הגדולה ויכבסו אתשמלתם וילבינום בדם השה** | El anciano identifica a los vestidos de blanco como quienes vienen de la gran tribulación y han lavado sus ropas en la sangre del Cordero. |
+| #apocalipsis_7_15-17 | **הנם לפני כסאהאלהים ומשרתים אותו בהיכלו יומם ולילה**; **כי השה אשר בתוך הכסא הוא ירעם ועלמבועי מים חיים ינהלם ומחה אלהים כלדמעה מעיניהם** | El cierre une servicio, presencia, pastoreo del Cordero, aguas vivas y el fin del llanto. |
 
-## Los cuatro vientos y el sello antes del daño: 7:1-3 #revelation_7_1-3
+## Los cuatro vientos y el sello antes del daño: 7:1-3 #apocalipsis_7_1-3
 
 Eric observa que los cuatro confines pueden evocar la tierra de Israel y que los cuatro vientos recuerdan el lenguaje profético de Zacarías 6. En sus apuntes, los vientos también se relacionan con imperios que han dominado la tierra; la clase propone que sean refrenados para que no destruyan por completo al remanente. La primera parte del argumento tiene un apoyo intertextual plausible, porque Zacarías habla de cuatro vientos, pero Apocalipsis 7 no nombra aquí a esos imperios. Por eso la nota conserva la observación como marco profético y deja la identificación política concreta pendiente.
 
 La orden es precisa: no dañar tierra, mar ni árboles hasta que los siervos de Elohim reciban una marca en la frente. Eric insiste en que estos elementos no deben leerse necesariamente como objetos aislados, sino como lenguaje figurado sobre personas, pueblos y estructuras. Esa aplicación coincide con el carácter visionario del pasaje, pero no elimina el nivel literal de la visión ni demuestra que cada elemento tenga una sola correspondencia. La comparación con Ezequiel 9:4-6 es especialmente útil para la idea de una marca que distingue al remanente antes del juicio; aun así, el término hebreo תו y su uso en Ezequiel no deben convertirse sin comprobación en una explicación completa del sello de Apocalipsis.
 
-## Los 144.000 y la lista de las tribus: 7:4-8 #revelation_7_4-8
+## Los 144.000 y la lista de las tribus: 7:4-8 #apocalipsis_7_4-8
 
 El vidente oye el número de los sellados y luego escucha doce mil de cada tribu. Eric afirma que 144.000 es simbólico y lo vincula con el altar de sacrificio, sus medidas y una cuenta tradicional de huevos; también destaca que la lista menciona a José y Manasés y no a Dan. La nota conserva ambos detalles como observaciones concretas de la clase. El texto sí permite afirmar la estructura repetida de doce mil y la forma particular de la lista; no permite por sí solo probar que la cifra se derive de las dimensiones del altar ni explicar definitivamente la ausencia de Dan.
 
 La enseñanza también relaciona la frente con el corazón y la mano derecha con las obras. Es una lectura simbólica coherente con el interés bíblico por la pertenencia y la conducta, pero no debe presentarse como definición léxica de מצח ni como una equivalencia explícita de Apocalipsis 7. La lista funciona dentro de la visión como señal de pertenencia y protección; la cuestión de si representa un grupo literal, una imagen simbólica de Israel o una relación entre ambos niveles permanece abierta en esta nota.
 
-## La multitud, el Cordero y la gran tribulación: 7:9-17 #revelation_7_9-17
+## La multitud, el Cordero y la gran tribulación: 7:9-17 #apocalipsis_7_9-17
 
 Después de los sellados aparece una multitud que nadie puede contar, procedente de todas las naciones, familias, pueblos y lenguas. Eric subraya el contraste entre el número oído y la multitud incontable, y dirige la lectura hacia el Cordero que está en medio del trono. El texto local sostiene el contraste y coloca a ambos grupos dentro de una escena de adoración y salvación; no obliga a reducir la multitud a una categoría étnica ni a separarla del propósito de preservación anunciado al inicio.
 

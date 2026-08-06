@@ -9,11 +9,11 @@ tags:
   - servicio
   - alabanza
 references:
-  - "#tehilim_100_1"
-  - "#tehilim_100_2"
-  - "#tehilim_100_3"
-  - "#tehilim_100_4"
-  - "#tehilim_100_5"
+  - "#salmos_100_1"
+  - "#salmos_100_2"
+  - "#salmos_100_3"
+  - "#salmos_100_4"
+  - "#salmos_100_5"
   - "#hebreos_13_15"
   - "#1_timoteo_6_6"
   - "#tito_2_14"
@@ -38,11 +38,11 @@ La clase presenta el salmo como himno sin autor ni contexto histórico identific
 
 | Referencia     | Texto local                                                                                                                                                                  | Función en la lectura                                             |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| #tehilim_100_1 | OE: **מזמור לתודה הריעו ליהוה כל הארץ**; TTH: «¡Hagan resonar para יהוה, toda la tierra!»                                                                                    | La inscripción y el llamado universal abren el himno.             |
-| #tehilim_100_2 | OE: **עבדו את יהוה בשמחה באו לפניו ברננה**; TTH: «Sirvan a יהוה con alegría; vengan delante de Él con grito de gozo.»                                                        | Dos imperativos ordenan servicio y comparecencia gozosa.          |
-| #tehilim_100_3 | OE: **דעו כי יהוה הוא אלהים הוא עשנו ולא אנחנו עמו וצאן מרעיתו**; TTH: «Sepan que יהוה, Él es Elohim, Él nos hizo y no nosotros; pueblo suyo somos y ovejas de su pastoreo.» | El saber de יהוה fundamenta la identidad de pueblo y rebaño.      |
-| #tehilim_100_4 | OE: **באו שעריו בתודה חצרתיו בתהלה הודו לו ברכו שמו**; TTH: «Entren por sus puertas en confesión, a sus patios en alabanza.»                                                 | La entrada articula _todá_, alabanza, confesión y bendición.      |
-| #tehilim_100_5 | OE: **כי טוב יהוה לעולם חסדו ועד דר ודר אמונתו**; TTH: «Porque bueno es יהוה, para siempre es su bondad, y su fidelidad hasta generación y generación.»                      | La bondad y fidelidad de יהוה son la razón final de la respuesta. |
+| #salmos_100_1 | OE: **מזמור לתודה הריעו ליהוה כל הארץ**; TTH: «¡Hagan resonar para יהוה, toda la tierra!»                                                                                    | La inscripción y el llamado universal abren el himno.             |
+| #salmos_100_2 | OE: **עבדו את יהוה בשמחה באו לפניו ברננה**; TTH: «Sirvan a יהוה con alegría; vengan delante de Él con grito de gozo.»                                                        | Dos imperativos ordenan servicio y comparecencia gozosa.          |
+| #salmos_100_3 | OE: **דעו כי יהוה הוא אלהים הוא עשנו ולא אנחנו עמו וצאן מרעיתו**; TTH: «Sepan que יהוה, Él es Elohim, Él nos hizo y no nosotros; pueblo suyo somos y ovejas de su pastoreo.» | El saber de יהוה fundamenta la identidad de pueblo y rebaño.      |
+| #salmos_100_4 | OE: **באו שעריו בתודה חצרתיו בתהלה הודו לו ברכו שמו**; TTH: «Entren por sus puertas en confesión, a sus patios en alabanza.»                                                 | La entrada articula _todá_, alabanza, confesión y bendición.      |
+| #salmos_100_5 | OE: **כי טוב יהוה לעולם חסדו ועד דר ודר אמונתו**; TTH: «Porque bueno es יהוה, para siempre es su bondad, y su fidelidad hasta generación y generación.»                      | La bondad y fidelidad de יהוה son la razón final de la respuesta. |
 
 ## Léxico clave
 
@@ -58,9 +58,9 @@ La clase presenta el salmo como himno sin autor ni contexto histórico identific
 
 ## De la todá al clamor de toda la tierra
 
-La clase comienza con **מזמור לתודה** y señala que _todá_ procede del campo verbal de reconocer o confesar. Su observación es concreta: la confesión tiene dos direcciones inseparables, reconocer la propia debilidad y reconocer la grandeza de Elohim. El salmo sostiene esa doble dirección sin necesidad de forzar cada detalle: el pueblo entra con _todá_ (#tehilim_100_4), y el contenido inmediato de la confesión declara que יהוה es Elohim y que nosotros somos su pueblo (#tehilim_100_3).
+La clase comienza con **מזמור לתודה** y señala que _todá_ procede del campo verbal de reconocer o confesar. Su observación es concreta: la confesión tiene dos direcciones inseparables, reconocer la propia debilidad y reconocer la grandeza de Elohim. El salmo sostiene esa doble dirección sin necesidad de forzar cada detalle: el pueblo entra con _todá_ (#salmos_100_4), y el contenido inmediato de la confesión declara que יהוה es Elohim y que nosotros somos su pueblo (#salmos_100_3).
 
-En #tehilim_100_1, **הריעו** extiende el clamor a **כל הארץ**, «toda la tierra». Eric lee esta amplitud a la luz del propósito de Elohim para la tierra y la llama una perspectiva escatológica. Esa proyección es una lectura teológica de la clase; el verso, de forma segura, sí dirige el aclamamiento a toda la tierra. Por eso la alabanza del himno no queda encerrada en la interioridad ni limitada a un grupo que se felicita a sí mismo.
+En #salmos_100_1, **הריעו** extiende el clamor a **כל הארץ**, «toda la tierra». Eric lee esta amplitud a la luz del propósito de Elohim para la tierra y la llama una perspectiva escatológica. Esa proyección es una lectura teológica de la clase; el verso, de forma segura, sí dirige el aclamamiento a toda la tierra. Por eso la alabanza del himno no queda encerrada en la interioridad ni limitada a un grupo que se felicita a sí mismo.
 
 ## Servir con alegría y venir ante su presencia
 
@@ -70,7 +70,7 @@ Para **בשמחה**, la clase rechaza medir el gozo por una expresión permanent
 
 ## Saber, pertenecer y entrar confesando
 
-En #tehilim_100_3 Eric se detiene en **דעו**. Aunque el sentido básico es «sepan», propone que conocer a יהוה debe ser conocimiento relacional y lo conecta con #1_yojanan_1_6-7. Conviene conservar la distinción: el imperativo hebreo manda conocer; la formulación «tener comunión» es una elaboración pedagógica que necesita el apoyo de aquel otro pasaje. El salmo mismo da el objeto de ese saber: יהוה es Elohim, nos hizo, y somos su pueblo y el rebaño de su pastoreo.
+En #salmos_100_3 Eric se detiene en **דעו**. Aunque el sentido básico es «sepan», propone que conocer a יהוה debe ser conocimiento relacional y lo conecta con #1_juan_1_6-7. Conviene conservar la distinción: el imperativo hebreo manda conocer; la formulación «tener comunión» es una elaboración pedagógica que necesita el apoyo de aquel otro pasaje. El salmo mismo da el objeto de ese saber: יהוה es Elohim, nos hizo, y somos su pueblo y el rebaño de su pastoreo.
 
 La clase también detecta una dificultad en **ולא אנחנו** y en la continuación «su pueblo, rebaño de su pastoreo». Menciona que la Septuaginta resuelve de otro modo la construcción y plantea posibilidades de lectura. No se adopta aquí una reconstrucción como conclusión: la TTH local ofrece «Él nos hizo y no nosotros; pueblo suyo somos», una lectura coherente con la confesión de dependencia y pastoreo. La dificultad textual es razón para cautela, no para perder la afirmación principal del versículo.
 
@@ -86,9 +86,9 @@ La secuencia completa protege de dos reducciones: no convierte el servicio en le
 
 | Unidad textual   | Observación concreta de la clase                                                                                                                                                                             | Tratamiento en esta nota                                                                                                                                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_100_1-2 | Eric lee el clamor de toda la tierra y el servicio con alegría como una respuesta pública y concreta al Rey, no como una emoción privada ni como una máscara de entusiasmo.                                  | **Apoyo textual y aplicación cualificada**: los imperativos de aclamar, servir y venir están en los versos; la aplicación al trabajo, la casa y la disposición cotidiana se conserva como exhortación de la clase.                                  |
-| #tehilim_100_3-4 | La clase relaciona conocer a יהוה con reconocer que Él hizo al pueblo y que el pueblo le pertenece; distingue _todá_ de una gratitud superficial y la vincula con confesar identidad y entrar en sus atrios. | **Apoyo textual y clarificación léxica**: el salmo ordena conocer, declara pertenencia y coloca _todá_ en las puertas; «comunión» y la doble dirección de la confesión se mantienen como desarrollo pedagógico.                                     |
-| #tehilim_100_5   | Eric fundamenta toda respuesta en la bondad y fidelidad perdurables de יהוה, y extiende el alcance hacia generaciones y pueblos.                                                                             | **Apoyo textual e inferencia cualificada**: la bondad para siempre y la fidelidad de generación en generación son explícitas; la extensión a judíos y gentiles queda como conexión teológica de la clase, no como sustituto del contexto del himno. |
+| #salmos_100_1-2 | Eric lee el clamor de toda la tierra y el servicio con alegría como una respuesta pública y concreta al Rey, no como una emoción privada ni como una máscara de entusiasmo.                                  | **Apoyo textual y aplicación cualificada**: los imperativos de aclamar, servir y venir están en los versos; la aplicación al trabajo, la casa y la disposición cotidiana se conserva como exhortación de la clase.                                  |
+| #salmos_100_3-4 | La clase relaciona conocer a יהוה con reconocer que Él hizo al pueblo y que el pueblo le pertenece; distingue _todá_ de una gratitud superficial y la vincula con confesar identidad y entrar en sus atrios. | **Apoyo textual y clarificación léxica**: el salmo ordena conocer, declara pertenencia y coloca _todá_ en las puertas; «comunión» y la doble dirección de la confesión se mantienen como desarrollo pedagógico.                                     |
+| #salmos_100_5   | Eric fundamenta toda respuesta en la bondad y fidelidad perdurables de יהוה, y extiende el alcance hacia generaciones y pueblos.                                                                             | **Apoyo textual e inferencia cualificada**: la bondad para siempre y la fidelidad de generación en generación son explícitas; la extensión a judíos y gentiles queda como conexión teológica de la clase, no como sustituto del contexto del himno. |
 
 ## Pendiente de verificar
 

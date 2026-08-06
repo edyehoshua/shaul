@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 29:5-12 sobre la red de la adulación, la alegr
 date: 2026-08-05
 tags: [mishlei, mishlei_29, disciplina, intenciones, gobierno, verdad]
 references:
-  - "#mishlei_29_5"
-  - "#mishlei_29_6"
-  - "#mishlei_29_7"
-  - "#mishlei_29_8"
-  - "#mishlei_29_9"
-  - "#mishlei_29_10"
-  - "#mishlei_29_11"
-  - "#mishlei_29_12"
-  - "#bereshit_3_1-5"
+  - "#proverbios_29_5"
+  - "#proverbios_29_6"
+  - "#proverbios_29_7"
+  - "#proverbios_29_8"
+  - "#proverbios_29_9"
+  - "#proverbios_29_10"
+  - "#proverbios_29_11"
+  - "#proverbios_29_12"
+  - "#genesis_3_1-5"
   - "#mateo_10_11-14"
   - "#1_pedro_5_8"
 sources:
@@ -36,18 +36,18 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_29_5 | גבר מחליק על רעהו רשת פורש על פעמיו | El poderoso que suaviza sobre su compañero, tiende red sobre sus pasos. |
-| #mishlei_29_6 | בפשע איש רע מוקש וצדיק ירון ושמח | En la transgresión el hombre dañado es atrapado, y el justificado gritará de gozo y se alegrará. |
-| #mishlei_29_7 | ידע צדיק דין דלים רשע לא יבין דעת | Sabe el justo la sentencia de los débiles, el condenado no entiende el conocimiento. |
-| #mishlei_29_8 | אנשי לצון יפיחו קריה וחכמים ישיבו אף | Los hombres de burla soplan la ciudad, pero los sabios hacen volver la ira. |
-| #mishlei_29_9 | איש חכם נשפט את איש אויל ורגז ושחק ואין נחת | El hombre sabio ejecuta el proceso legal al hombre tonto, y él se agita y se ríe, pero no hay descanso. |
-| #mishlei_29_10 | אנשי דמים ישנאו תם וישרים יבקשו נפשו | Los hombres de sangre odian al íntegro, y los rectos buscan el ser de él. |
-| #mishlei_29_11 | כל רוחו יוציא כסיל וחכם באחור ישבחנה | Todo su espíritu hará salir el indisciplinado, pero el sabio, en la parte posterior, lo calmará. |
-| #mishlei_29_12 | משל מקשיב על דבר שקר כל משרתיו רשעים | El gobernante atiende a la palabra de mentira, todos sus ministros son condenados. |
+| #proverbios_29_5 | גבר מחליק על רעהו רשת פורש על פעמיו | El poderoso que suaviza sobre su compañero, tiende red sobre sus pasos. |
+| #proverbios_29_6 | בפשע איש רע מוקש וצדיק ירון ושמח | En la transgresión el hombre dañado es atrapado, y el justificado gritará de gozo y se alegrará. |
+| #proverbios_29_7 | ידע צדיק דין דלים רשע לא יבין דעת | Sabe el justo la sentencia de los débiles, el condenado no entiende el conocimiento. |
+| #proverbios_29_8 | אנשי לצון יפיחו קריה וחכמים ישיבו אף | Los hombres de burla soplan la ciudad, pero los sabios hacen volver la ira. |
+| #proverbios_29_9 | איש חכם נשפט את איש אויל ורגז ושחק ואין נחת | El hombre sabio ejecuta el proceso legal al hombre tonto, y él se agita y se ríe, pero no hay descanso. |
+| #proverbios_29_10 | אנשי דמים ישנאו תם וישרים יבקשו נפשו | Los hombres de sangre odian al íntegro, y los rectos buscan el ser de él. |
+| #proverbios_29_11 | כל רוחו יוציא כסיל וחכם באחור ישבחנה | Todo su espíritu hará salir el indisciplinado, pero el sabio, en la parte posterior, lo calmará. |
+| #proverbios_29_12 | משל מקשיב על דבר שקר כל משרתיו רשעים | El gobernante atiende a la palabra de mentira, todos sus ministros son condenados. |
 
 ## Suavizar la palabra puede tender una red
 
-La exposición comienza con #mishlei_29_5 y distingue “adular” de la imagen hebrea de **(מחליק)**, _majalik_: hacer resbalar o suavizar sobre el compañero ([00:13:59](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=839s)). Eric aplica la imagen a quien suaviza la Torah y convierte una prohibición en “no es tan malo”; así la palabra puesta “sobre” el compañero se vuelve una red para sus pasos. La aplicación recuerda la estrategia de la serpiente en Bereshit 3, pero Mishlei no identifica aquí al poderoso con un personaje específico. Lo directo es que la suavidad manipuladora no es neutral: puede preparar una trampa.
+La exposición comienza con #proverbios_29_5 y distingue “adular” de la imagen hebrea de **(מחליק)**, _majalik_: hacer resbalar o suavizar sobre el compañero ([00:13:59](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=839s)). Eric aplica la imagen a quien suaviza la Torah y convierte una prohibición en “no es tan malo”; así la palabra puesta “sobre” el compañero se vuelve una red para sus pasos. La aplicación recuerda la estrategia de la serpiente en Bereshit 3, pero Mishlei no identifica aquí al poderoso con un personaje específico. Lo directo es que la suavidad manipuladora no es neutral: puede preparar una trampa.
 
 En el verso 6, la transgresión también aparece como un **(מוקש)**, _moqesh_, una trampa. Eric contrasta el hombre dañado con el justificado que se alegra ([00:17:50](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=1070s)). La clase usa **(רע)**, _ra_, para hablar de una condición dañada y no solo de una etiqueta moral; esa extensión debe quedar calificada. El texto sí coloca juntos el atrapamiento de la transgresión y el gozo del justificado. La esperanza no consiste en negar la trampa, sino en que la justificación cambia la respuesta del discípulo.
 
@@ -59,7 +59,7 @@ Los burladores “soplan” sobre la ciudad, mientras los sabios hacen volver la
 
 ## El sabio deja atrás su impulso
 
-En #mishlei_29_9, Eric conserva la escena de un sabio que presenta el proceso contra el insensato, pero no encuentra descanso aunque el otro se agite o se ría ([00:31:16](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=1876s)). En el verso 11, la clase insiste en que **(רוח)**, _ruaj_, puede describir ánimo, intención y pensamiento, no solamente “espíritu” en sentido sobrenatural ([00:44:01](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=2641s)). **(באחור)**, _baajor_, es tratado como “en la parte posterior”, no como “al final”: el sabio deja su impulso atrás y lo calma ([00:48:01](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=2881s)). Esa aplicación expresa dominio propio, pero la forma exacta de la frase requiere revisión léxica. La disciplina no borra la intención; la coloca detrás de la palabra recibida.
+En #proverbios_29_9, Eric conserva la escena de un sabio que presenta el proceso contra el insensato, pero no encuentra descanso aunque el otro se agite o se ría ([00:31:16](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=1876s)). En el verso 11, la clase insiste en que **(רוח)**, _ruaj_, puede describir ánimo, intención y pensamiento, no solamente “espíritu” en sentido sobrenatural ([00:44:01](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=2641s)). **(באחור)**, _baajor_, es tratado como “en la parte posterior”, no como “al final”: el sabio deja su impulso atrás y lo calma ([00:48:01](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=2881s)). Esa aplicación expresa dominio propio, pero la forma exacta de la frase requiere revisión léxica. La disciplina no borra la intención; la coloca detrás de la palabra recibida.
 
 El verso 12 cierra con el gobernante que atiende la mentira y cuyos ministros resultan condenados. Eric lo aplica a Satán como gobernante del sistema contrario a la Torah, y entiende **(דבר)**, _devar_, como asunto o palabra, no solo como una falsedad pronunciada ([00:49:21](https://www.youtube.com/watch?v=zEE3Sa0GEYA&t=2961s)). Es una aplicación teológica de la exposición. El sentido proverbial permite afirmar con seguridad que un poder que se alimenta de mentira corrompe también a sus servidores.
 
@@ -78,10 +78,10 @@ El verso 12 cierra con el gobernante que atiende la mentira y cuyos ministros re
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_29_5-6 | El que suaviza la Torah tiende una red; la transgresión atrapa al hombre dañado y el justificado se alegra. | Imagen textual apoyada; aplicación a Satán y a la naturaleza pecaminosa calificada. |
-| #mishlei_29_7-8 | El justo conoce el juicio de los débiles; los burladores avivan la ciudad y los sabios hacen volver la ira. | Contraste textual apoyado; distinciones _din/mishpat_ y lectura de la ciudad celestial calificadas. |
-| #mishlei_29_9-11 | El insensato no recibe el proceso; el sabio aprende a dejar atrás su ánimo y calmarlo. | Secuencia textual apoyada; interpretación de _ruaj_ y _baajor_ pendiente de precisión léxica. |
-| #mishlei_29_12 | El gobernante que escucha mentira corrompe a todos sus ministros. | Afirmación textual directa; identificación del gobernante con Satán es aplicación atribuida. |
+| #proverbios_29_5-6 | El que suaviza la Torah tiende una red; la transgresión atrapa al hombre dañado y el justificado se alegra. | Imagen textual apoyada; aplicación a Satán y a la naturaleza pecaminosa calificada. |
+| #proverbios_29_7-8 | El justo conoce el juicio de los débiles; los burladores avivan la ciudad y los sabios hacen volver la ira. | Contraste textual apoyado; distinciones _din/mishpat_ y lectura de la ciudad celestial calificadas. |
+| #proverbios_29_9-11 | El insensato no recibe el proceso; el sabio aprende a dejar atrás su ánimo y calmarlo. | Secuencia textual apoyada; interpretación de _ruaj_ y _baajor_ pendiente de precisión léxica. |
+| #proverbios_29_12 | El gobernante que escucha mentira corrompe a todos sus ministros. | Afirmación textual directa; identificación del gobernante con Satán es aplicación atribuida. |
 
 ## Conexiones principales
 

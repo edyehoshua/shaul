@@ -8,14 +8,14 @@ tags:
   - desierto
   - confianza
 references:
-  - "#tehilim_63_1"
-  - "#tehilim_63_2"
-  - "#tehilim_63_3"
-  - "#tehilim_63_4"
-  - "#tehilim_63_7"
-  - "#tehilim_63_8"
-  - "#tehilim_63_10"
-  - "#tehilim_63_12"
+  - "#salmos_63_1"
+  - "#salmos_63_2"
+  - "#salmos_63_3"
+  - "#salmos_63_4"
+  - "#salmos_63_7"
+  - "#salmos_63_8"
+  - "#salmos_63_10"
+  - "#salmos_63_12"
 sources:
   - "https://www.youtube.com/watch?v=nPovhSR9mlA"
   - "docs/scriptures/oe/json/psalms/63.json"
@@ -41,13 +41,13 @@ El encabezado identifica el poema como «de David cuando estaba en el desierto d
 
 | Referencia      | Hebreo local OE, normalizado                                                                               | TTH local                                                                                                                                                                                                              | Función en la exposición                                             |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_63_1-2 | **מזמור לדוד בהיותו במדבר יהודה** · **אלהים אלי אתה אשחרך צמאה לך נפשי כמה לך בשרי בארץ ציה ועיף בלי מים** | «Cántico de David, cuando estaba en el desierto de Yehudah» · «Elohim, mi El eres Tú, te buscaré temprano. Está sediento de ti mi ser, te anhela mi carne, en la tierra de sequedad y cansancio donde no hay agua.»    | El lugar concreto sostiene la lectura de la sed física y espiritual. |
-| #tehilim_63_3-5 | **כן בקדש חזיתיך לראות עזך וכבודך כי טוב חסדך מחיים שפתי ישבחונך כן אברכך בחיי**                           | «Así en el Santuario te contemplé, para ver tu poder y tu gloria. Porque buena es tu bondad más que la vida, mis labios te alabarán. Así te bendeciré en mi vida.»                                                     | La memoria de santidad y el _hesed_ conducen a la alabanza.          |
-| #tehilim_63_7-9 | **אם זכרתיך על יצועי באשמרות אהגה בך כי היית עזרתה לי ובצל כנפיך ארנן דבקה נפשי אחריך בי תמכה ימינך**      | «Cuando te recuerdo sobre mi cama, en las vigilias reflexiono en ti. Porque Tú has sido ayuda para mí, y en la sombra de tus alas gritaré de alegría. Se ha aferrado mi ser detrás de ti; me ha sostenido tu diestra.» | La vigilancia nocturna se vuelve ayuda, cobertura y adhesión.        |
+| #salmos_63_1-2 | **מזמור לדוד בהיותו במדבר יהודה** · **אלהים אלי אתה אשחרך צמאה לך נפשי כמה לך בשרי בארץ ציה ועיף בלי מים** | «Cántico de David, cuando estaba en el desierto de Yehudah» · «Elohim, mi El eres Tú, te buscaré temprano. Está sediento de ti mi ser, te anhela mi carne, en la tierra de sequedad y cansancio donde no hay agua.»    | El lugar concreto sostiene la lectura de la sed física y espiritual. |
+| #salmos_63_3-5 | **כן בקדש חזיתיך לראות עזך וכבודך כי טוב חסדך מחיים שפתי ישבחונך כן אברכך בחיי**                           | «Así en el Santuario te contemplé, para ver tu poder y tu gloria. Porque buena es tu bondad más que la vida, mis labios te alabarán. Así te bendeciré en mi vida.»                                                     | La memoria de santidad y el _hesed_ conducen a la alabanza.          |
+| #salmos_63_7-9 | **אם זכרתיך על יצועי באשמרות אהגה בך כי היית עזרתה לי ובצל כנפיך ארנן דבקה נפשי אחריך בי תמכה ימינך**      | «Cuando te recuerdo sobre mi cama, en las vigilias reflexiono en ti. Porque Tú has sido ayuda para mí, y en la sombra de tus alas gritaré de alegría. Se ha aferrado mi ser detrás de ti; me ha sostenido tu diestra.» | La vigilancia nocturna se vuelve ayuda, cobertura y adhesión.        |
 
 El TTH conserva el movimiento que Eric desarrolla; la tabla no convierte sus glosas («refrigerio», «luz» o «sanidad») en traducciones literales. **(נפש)**, _nefesh_, significa ser, vida o garganta; «mi ser» es contextual. **(חסד)**, _hesed_, significa bondad leal o misericordia; «solidaridad» es aproximada y pedagógica. **(כנף)**, _kanaf_, significa ala o extremo; la imagen de cobijo es textual, pero no describe una anatomía divina.
 
-La clase recorre las huidas de David desde Ramá y Nov, recuerda la masacre de los sacerdotes y conecta el monte de los Olivos con Ieshaiahu 10 y Zekharyah 14. La conexión ayuda a situar una persecución y una memoria de juicio, pero no debe confundirse con el contenido explícito de #tehilim_63_1. Sí es coherente con 1 Samuel 23:14 y 24:1 que David habite en fortalezas naturales del desierto y que Saúl lo busque sin que יהוה lo entregue en su mano. Eric usa ese marco para destacar que David no toma la unción como licencia para matar a Saúl: esa aplicación ética excede el encabezado, pero concuerda con la conducta narrada en 1 Samuel 24.
+La clase recorre las huidas de David desde Ramá y Nov, recuerda la masacre de los sacerdotes y conecta el monte de los Olivos con Yeshayahu 10 y Zekharyah 14. La conexión ayuda a situar una persecución y una memoria de juicio, pero no debe confundirse con el contenido explícito de #salmos_63_1. Sí es coherente con 1 Samuel 23:14 y 24:1 que David habite en fortalezas naturales del desierto y que Saúl lo busque sin que יהוה lo entregue en su mano. Eric usa ese marco para destacar que David no toma la unción como licencia para matar a Saúl: esa aplicación ética excede el encabezado, pero concuerda con la conducta narrada en 1 Samuel 24.
 
 ## Mapa de la enseñanza de Eric
 
@@ -81,7 +81,7 @@ En la noche, el orante recuerda a יהוה sobre su lecho y medita en las vigili
 
 ## Juicio, boca cerrada y reinado: versos 10-12
 
-El poema no deja la persecución en suspenso. Quienes buscan el ser del orante para destruirlo entrarán en las partes profundas de la tierra; serán entregados al poder de la espada y serán porción de chacales (#tehilim_63_10-11). Eric enlaza la imagen con desastres y con la memoria de la masacre de Nov, además de recordar que Saúl terminó cayendo ante sus enemigos. Es una lectura histórica y canónica atribuida: el texto local sostiene la inversión del perseguidor, pero no identifica por nombre a Nov o a Saúl.
+El poema no deja la persecución en suspenso. Quienes buscan el ser del orante para destruirlo entrarán en las partes profundas de la tierra; serán entregados al poder de la espada y serán porción de chacales (#salmos_63_10-11). Eric enlaza la imagen con desastres y con la memoria de la masacre de Nov, además de recordar que Saúl terminó cayendo ante sus enemigos. Es una lectura histórica y canónica atribuida: el texto local sostiene la inversión del perseguidor, pero no identifica por nombre a Nov o a Saúl.
 
 «Pero el rey se alegrará en Elohim; será alabado todo el que jura por él, porque será cerrada la boca de los que hablan mentira» (#tehilim*63_12). Eric distingue al falso profeta del charlatán que simplemente se equivoca y define **(שקר)**, \_sheqer*, como mentira y, más ampliamente en su aplicación, oposición a la voluntad de Dios. El sentido normal de _sheqer_ es falsedad o engaño; en este verso su fuerza es el discurso que queda silenciado por el juicio de יהוה. La advertencia de la clase contra quienes tuercen la Torah es aplicación contemporánea; el poema sí termina celebrando a quienes se alegran en Elohim y cerrando la boca de la falsedad.
 

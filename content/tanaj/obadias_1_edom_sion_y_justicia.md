@@ -10,7 +10,7 @@ sources:
 source_ids: ["youtube:mYxHiWxlrjo"]
 ## Tesis
 
-#obadiah_1 denuncia la soberbia y violencia de Edom contra su hermano Jacob, y anuncia que en Sion habrá liberación y santidad.
+#abdias_1 denuncia la soberbia y violencia de Edom contra su hermano Jacob, y anuncia que en Sion habrá liberación y santidad.
 
 ## Alcance de la nota
 
@@ -20,7 +20,7 @@ La clase presenta el trasfondo de Esaú/Edom y reconoce la incertidumbre sobre l
 
 | Texto local                                                                    | Observación                                  |
 | ------------------------------------------------------------------------------ | -------------------------------------------- |
-| #obadiah_1_17 — `ובהר ציון תהיה פליטה והיה קדש וירשו בית יעקב את מורשיהם` | Sion, liberación y santidad aparecen unidos. |
+| #abdias_1_17 — `ובהר ציון תהיה פליטה והיה קדש וירשו בית יעקב את מורשיהם` | Sion, liberación y santidad aparecen unidos. |
 
 ## Conexiones principales
 

@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_40_1"
-  - "#tehilim_40_18"
+  - "#salmos_40_1"
+  - "#salmos_40_18"
 sources:
   - "https://www.youtube.com/watch?v=XjjGf61bzBs"
   - "docs/scriptures/oe/json/psalms/40.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 40. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                            | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_40_1  | למנצח לדוד מזמור                                                 | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_40_18 | ואני עני ואביון אדני יחשב לי עזרתי ומפלטי אתה אלהי אל תאחר | El verso final permite observar el cierre de la composición.         |
+| #salmos_40_1  | למנצח לדוד מזמור                                                 | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_40_18 | ואני עני ואביון אדני יחשב לי עזרתי ומפלטי אתה אלהי אל תאחר | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

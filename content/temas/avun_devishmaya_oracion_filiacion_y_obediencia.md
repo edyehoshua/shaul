@@ -15,7 +15,7 @@ references:
   - "#mateo_6_11"
   - "#mateo_6_12"
   - "#mateo_6_13"
-  - "#lukas_11_2"
+  - "#lucas_11_2"
   - "#romanos_8_15"
 sources:
   - "https://www.youtube.com/watch?v=4LEGO26UuNA"

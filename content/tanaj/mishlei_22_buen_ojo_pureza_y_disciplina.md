@@ -4,18 +4,18 @@ description: "Estudio de Mishlei 22:9-16 sobre la generosidad, la pureza, el con
 date: 2026-08-05
 tags: [mishlei, mishlei_22, generosidad, pureza, disciplina, justicia]
 references:
-  - "#mishlei_22_9"
-  - "#mishlei_22_10"
-  - "#mishlei_22_11"
-  - "#mishlei_22_12"
-  - "#mishlei_22_13"
-  - "#mishlei_22_14"
-  - "#mishlei_22_15"
-  - "#mishlei_22_16"
-  - "#shemot_22_25"
+  - "#proverbios_22_9"
+  - "#proverbios_22_10"
+  - "#proverbios_22_11"
+  - "#proverbios_22_12"
+  - "#proverbios_22_13"
+  - "#proverbios_22_14"
+  - "#proverbios_22_15"
+  - "#proverbios_22_16"
+  - "#exodo_22_25"
   - "#mateo_5_3"
   - "#mateo_18_15"
-  - "#iojanan_15_14"
+  - "#juan_15_14"
 sources:
   - "https://www.youtube.com/watch?v=cok5zZUkWp8"
   - "docs/scriptures/oe/json/proverbs/22.json"
@@ -37,14 +37,14 @@ Esta nota organiza la clase sobre Mishlei 22:9-16, antes del cambio de sección 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_22_9 | טוב עין הוא יברך כי נתן מלחמו לדל | El bueno de ojo será bendito, porque dio de su pan al débil. |
-| #mishlei_22_10 | גרש לץ ויצא מדון וישבת דין וקלון | Expulsa al burlador y saldrá la contienda, y cesarán el juicio y la vergüenza. |
-| #mishlei_22_11 | אהב טהור טהר לב חן שפתיו רעהו מלך | El que ama la pureza de corazón, el favor de sus labios, su amigo es el Rey. |
-| #mishlei_22_12 | עיני יהוה נצרו דעת ויסלף דברי בגד | Los ojos de יהוה preservan el conocimiento, pero Él tuerce las palabras del traidor. |
-| #mishlei_22_13 | אמר עצל ארי בחוץ בתוך רחבות ארצח | Dijo el perezoso: Hay un león afuera, en medio de las plazas seré asesinado. |
-| #mishlei_22_14 | שוחה עמקה פי זרות זעום יהוה יפול יפל שם | Fosa profunda es la boca de las extrañas, el que enfurece a יהוה caerá ahí. |
-| #mishlei_22_15 | אולת קשורה בלב נער שבט מוסר ירחיקנה ממנו | La tontería está ligada a la boca del joven, la vara de disciplina la alejará de él. |
-| #mishlei_22_16 | עשק דל להרבות לו נתן לעשיר אך למחסור | El que oprime al débil para aumentar para sí mismo, dará al rico, ciertamente para escasez. |
+| #proverbios_22_9 | טוב עין הוא יברך כי נתן מלחמו לדל | El bueno de ojo será bendito, porque dio de su pan al débil. |
+| #proverbios_22_10 | גרש לץ ויצא מדון וישבת דין וקלון | Expulsa al burlador y saldrá la contienda, y cesarán el juicio y la vergüenza. |
+| #proverbios_22_11 | אהב טהור טהר לב חן שפתיו רעהו מלך | El que ama la pureza de corazón, el favor de sus labios, su amigo es el Rey. |
+| #proverbios_22_12 | עיני יהוה נצרו דעת ויסלף דברי בגד | Los ojos de יהוה preservan el conocimiento, pero Él tuerce las palabras del traidor. |
+| #proverbios_22_13 | אמר עצל ארי בחוץ בתוך רחבות ארצח | Dijo el perezoso: Hay un león afuera, en medio de las plazas seré asesinado. |
+| #proverbios_22_14 | שוחה עמקה פי זרות זעום יהוה יפול יפל שם | Fosa profunda es la boca de las extrañas, el que enfurece a יהוה caerá ahí. |
+| #proverbios_22_15 | אולת קשורה בלב נער שבט מוסר ירחיקנה ממנו | La tontería está ligada a la boca del joven, la vara de disciplina la alejará de él. |
+| #proverbios_22_16 | עשק דל להרבות לו נתן לעשיר אך למחסור | El que oprime al débil para aumentar para sí mismo, dará al rico, ciertamente para escasez. |
 
 ## Del buen ojo al pan compartido
 
@@ -81,11 +81,11 @@ El cierre condena al que oprime al débil para enriquecerse. Eric lo relaciona c
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_22_9 | El buen ojo representa buenas obras y comparte el pan de vida con el débil receptivo. | Generosidad apoyada; aplicación espiritual calificada. |
-| #mishlei_22_10-11 | El burlador debe ser apartado de la asamblea; la pureza del corazón sostiene la amistad obediente con el Rey. | Contienda y pureza apoyadas; aplicación comunitaria y mesiánica atribuida. |
-| #mishlei_22_12 | Los ojos de יהוה son sus obras, que preservan el conocimiento y desacreditan al falso religioso. | Preservación textual; equivalencia “ojos = obras” alegórica. |
-| #mishlei_22_13-15 | El león es una excusa para no ejercitar la emuná; la mujer extraña representa la idolatría y la disciplina vence la tontería. | Exposición alegórica calificada; peligro y disciplina apoyados. |
-| #mishlei_22_16 | El opresor que busca enriquecerse terminará rindiendo cuentas al Rey y en escasez. | Justicia retributiva apoyada; aplicación mesiánica atribuida. |
+| #proverbios_22_9 | El buen ojo representa buenas obras y comparte el pan de vida con el débil receptivo. | Generosidad apoyada; aplicación espiritual calificada. |
+| #proverbios_22_10-11 | El burlador debe ser apartado de la asamblea; la pureza del corazón sostiene la amistad obediente con el Rey. | Contienda y pureza apoyadas; aplicación comunitaria y mesiánica atribuida. |
+| #proverbios_22_12 | Los ojos de יהוה son sus obras, que preservan el conocimiento y desacreditan al falso religioso. | Preservación textual; equivalencia “ojos = obras” alegórica. |
+| #proverbios_22_13-15 | El león es una excusa para no ejercitar la emuná; la mujer extraña representa la idolatría y la disciplina vence la tontería. | Exposición alegórica calificada; peligro y disciplina apoyados. |
+| #proverbios_22_16 | El opresor que busca enriquecerse terminará rindiendo cuentas al Rey y en escasez. | Justicia retributiva apoyada; aplicación mesiánica atribuida. |
 
 ## Pendiente de verificar
 

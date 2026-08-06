@@ -58,7 +58,8 @@ source_ids: []
 Rules:
 
 - YAML uses spaces only, never tabs
-- `references` holds verse tags like `#iojanan_10_11`
+- `references` holds verse tags like `#juan_10_11`
+- Verse tags use lowercase ASCII Spanish book slugs consistently: `#genesis_1_1`, `#exodo_3_14`, `#juan_10_11`, `#isaias_53_5`. Keep Hebrew names and transliterations in the visible note text when they carry the argument.
 - `sources` holds public source URLs or internal public-facing docs like `docs/benhaelohim.md`; never include private local filesystem paths.
 - `source_ids` optionally holds stable source identifiers such as `youtube:VID...[truncated]
 - Optional: `translation: "[TTH, Delitzsch]"` when multiple corpora are cited
@@ -128,15 +129,15 @@ When a note discusses a verse, extract text from the local corpus instead of lea
 
 ### Standard Tanaj + TTH
 
-| Referencia    | Hebreo (sin nikud) | TTH (ES) | Observación |
-| ------------- | ------------------ | -------- | ----------- |
-| #bereshit_1_1 | ...                | ...      | ...         |
+| Referencia   | Hebreo (sin nikud) | TTH (ES) | Observación |
+| ------------ | ------------------ | -------- | ----------- |
+| #genesis_1_1 | ...                | ...      | ...         |
 
 ### Besorah / mixed local corpora
 
-| Referencia    | Texto local             | Función en la clase                    |
-| ------------- | ----------------------- | -------------------------------------- |
-| #iojanan_11_4 | Delitzsch / TTH excerpt | Why this verse matters in the argument |
+| Referencia | Texto local             | Función en la clase                    |
+| ---------- | ----------------------- | -------------------------------------- |
+| #juan_11_4 | Delitzsch / TTH excerpt | Why this verse matters in the argument |
 
 Corpus priority:
 
@@ -254,7 +255,8 @@ Never:
 
 ## Linking and Tags
 
-- Inline verse tags: `#iojanan_10_11`, `#bereshit_1_1`
+- Inline verse tags: `#juan_10_11`, `#genesis_1_1`
+- Run `npm run verse-tags:check` after changing references or inline verse tags.
 - Related notes: prefer `## Ver también` with relative links or wikilinks
 - Both styles are acceptable:
   - `[Yojanán 10](./yojanan_10_puerta_pastor_abba.md)`

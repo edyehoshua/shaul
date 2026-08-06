@@ -10,12 +10,12 @@ tags:
   - isaias
   - apocalipsis
 references:
-  - "#yeshayahu_52_7"
-  - "#yeshayahu_63_10-11"
-  - "#iojanan_14_15-18"
-  - "#iojanan_16_7-15"
-  - "#maaseh_2_1-4"
-  - "#revelation_1_3"
+  - "#isaias_52_7"
+  - "#isaias_63_10-11"
+  - "#juan_14_15-18"
+  - "#juan_16_7-15"
+  - "#hechos_2_1-4"
+  - "#apocalipsis_1_3"
 sources:
   - "https://www.youtube.com/watch?v=KHqPveKvk0c"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -37,20 +37,20 @@ La fuente es una exposición pública y su crédito visible; no se presenta su t
 
 | Perícopa            | Observación atribuible de Eric                                                                     | Evaluación frente al texto                                                                                 |
 | ------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| #yeshayahu_52_7     | El evangelio no aparece aislado de Isaías: el mensajero anuncia paz, salvación y que Elohim reina. | Apoyo textual directo; la identificación completa con una predicación posterior es canónica y cualificada. |
-| #yeshayahu_63_10-11 | «Santo espíritu» y «espíritu de su santidad» muestran la acción santa de Elohim con Israel.        | Apoyo textual; la inversión de las palabras españolas no crea dos entidades distintas.                     |
-| #iojanan_14_15-18   | El Consolador permanece con los discípulos y no los deja huérfanos.                                | Apoyo textual directo; relacionarlo automáticamente con cada uso de _ruaj_ es aproximado.                  |
-| #iojanan_16_7-15    | El Espíritu guía hacia la verdad y anuncia lo que recibe del Mesías.                               | Apoyo textual directo; no autoriza a convertir «verdad» en toda teoría doctrinal del expositor.            |
-| #maaseh_2_1-4       | El don se manifiesta en una comunidad reunida y capacitada para hablar.                            | Apoyo narrativo directo; lenguas y poder no son una técnica privada.                                       |
-| #revelation_1_3     | Leer, oír y guardar la profecía forman una respuesta bienaventurada.                               | Apoyo textual directo; la aplicación a toda cronología futura sería inferencial.                           |
+| #isaias_52_7     | El evangelio no aparece aislado de Isaías: el mensajero anuncia paz, salvación y que Elohim reina. | Apoyo textual directo; la identificación completa con una predicación posterior es canónica y cualificada. |
+| #isaias_63_10-11 | «Santo espíritu» y «espíritu de su santidad» muestran la acción santa de Elohim con Israel.        | Apoyo textual; la inversión de las palabras españolas no crea dos entidades distintas.                     |
+| #juan_14_15-18   | El Consolador permanece con los discípulos y no los deja huérfanos.                                | Apoyo textual directo; relacionarlo automáticamente con cada uso de _ruaj_ es aproximado.                  |
+| #juan_16_7-15    | El Espíritu guía hacia la verdad y anuncia lo que recibe del Mesías.                               | Apoyo textual directo; no autoriza a convertir «verdad» en toda teoría doctrinal del expositor.            |
+| #hechos_2_1-4       | El don se manifiesta en una comunidad reunida y capacitada para hablar.                            | Apoyo narrativo directo; lenguas y poder no son una técnica privada.                                       |
+| #apocalipsis_1_3     | Leer, oír y guardar la profecía forman una respuesta bienaventurada.                               | Apoyo textual directo; la aplicación a toda cronología futura sería inferencial.                           |
 
-## Isaías 52:7: el evangelio como anuncio público #yeshayahu_52_7
+## Isaías 52:7: el evangelio como anuncio público #isaias_52_7
 
 Isaías llama hermosos a los pies del mensajero que proclama paz, anuncia bien y hace oír salvación. Eric relaciona este anuncio con el vocabulario del evangelio y sostiene que la buena noticia ya está en el Tanaj. La conexión es sólida como lectura canónica: los escritos apostólicos reciben este patrón de anuncio, pero el versículo de Isaías conserva su propio sujeto y su propio horizonte de consuelo para Sión.
 
 **(בשר)**, _basar_, tiene el sentido ordinario de anunciar, comunicar o publicar una noticia; en Isaías 52:7 su fuerza contextual es hacer audible una noticia pública, no producir un estado emocional. La relación con **(εὐαγγελίζω)**, _euangelizō_, «anunciar buenas noticias», es **aproximada y canónica**: ambos términos describen proclamación favorable, pero el hebreo no es una forma griega ni prueba por sí solo toda la teología posterior del evangelio. **(שלום)**, _shalom_, significa paz, integridad, bienestar o plenitud; aquí nombra el contenido anunciado junto con la salvación y el reinado de Elohim. «Paz» es una glosa **directa**, mientras limitarla a ausencia de conflicto sería demasiado estrecho.
 
-## Isaías 63:10-11: el espíritu santo entristecido #yeshayahu_63_10-11
+## Isaías 63:10-11: el espíritu santo entristecido #isaias_63_10-11
 
 La perícopa recuerda que Israel se rebeló y entristeció el espíritu de su santidad; por eso la presencia actuó contra ellos. Eric insiste en que el orden «santo espíritu» no debe hacer imaginar otro espíritu distinto de «espíritu santo». El texto apoya el punto gramatical básico: el genitivo «de su santidad» relaciona el espíritu con יהוה. También impone un límite pastoral: el don santo no es una fuerza neutral manipulable por quien lo recibe, porque la rebelión entristece y altera la relación del pueblo con su guía.
 
@@ -72,9 +72,9 @@ En Maaseh 2, el don se manifiesta cuando la comunidad está reunida; el Ruaj lle
 
 El recorrido debe conservar el orden de las perícopas y la diferencia entre sus voces. Isaías 52:7 presenta al mensajero que anuncia paz y salvación; Isaías 63:10-11 recuerda la rebelión de Israel contra el espíritu de su santidad; Yojanan 14:15-18 promete una presencia que permanece con los discípulos; Yojanan 16:7-15 describe una guía que glorifica al Mesías; y Maaseh 2:1-4 narra una manifestación comunitaria que hace oír las obras de Elohim. La exposición de Eric puede enlazar estos movimientos, pero el enlace es una **síntesis canónica cualificada**, no una prueba de que cada texto use «Rúaj Haqódesh» como una fórmula idéntica.
 
-En Isaías, el anuncio se reconoce por lo que comunica: paz, bien, salvación y reinado. **(מַשְׁמִיעַ)**, _mashmia_, procede de la idea de hacer oír o anunciar; su fuerza en #yeshayahu_52_7 es pública y audible. «Anuncia» es **directo** en contexto, mientras convertir cada anuncio religioso contemporáneo en cumplimiento pleno sería **inferencial**. En Isaías 63, **(עצב)**, _atsav_, significa doler o entristecer; la expresión «entristecieron» es **directa** como descripción del texto. Aplicarla a toda experiencia subjetiva de culpa es **pedagógico**, porque la perícopa habla de la rebelión de Israel y de la acción histórica de Elohim.
+En Isaías, el anuncio se reconoce por lo que comunica: paz, bien, salvación y reinado. **(מַשְׁמִיעַ)**, _mashmia_, procede de la idea de hacer oír o anunciar; su fuerza en #isaias_52_7 es pública y audible. «Anuncia» es **directo** en contexto, mientras convertir cada anuncio religioso contemporáneo en cumplimiento pleno sería **inferencial**. En Isaías 63, **(עצב)**, _atsav_, significa doler o entristecer; la expresión «entristecieron» es **directa** como descripción del texto. Aplicarla a toda experiencia subjetiva de culpa es **pedagógico**, porque la perícopa habla de la rebelión de Israel y de la acción histórica de Elohim.
 
-Yojanan aporta una prueba cristológica. **(ὀρφανός)**, _orphanos_, significa huérfano o desamparado; en 14:18 su fuerza es la promesa de que los discípulos no quedan abandonados. «Huérfanos» es **directo**, pero usarlo para afirmar que todo sentimiento de soledad constituye una revelación del Espíritu sería **ilegítimo**. La promesa se relaciona con guardar los mandamientos, amar al Mesías y recibir su presencia (#iojanan_14_15-18). Por tanto, la experiencia debe evaluarse por la permanencia, la enseñanza y la obediencia, no solo por intensidad emocional.
+Yojanan aporta una prueba cristológica. **(ὀρφανός)**, _orphanos_, significa huérfano o desamparado; en 14:18 su fuerza es la promesa de que los discípulos no quedan abandonados. «Huérfanos» es **directo**, pero usarlo para afirmar que todo sentimiento de soledad constituye una revelación del Espíritu sería **ilegítimo**. La promesa se relaciona con guardar los mandamientos, amar al Mesías y recibir su presencia (#juan_14_15-18). Por tanto, la experiencia debe evaluarse por la permanencia, la enseñanza y la obediencia, no solo por intensidad emocional.
 
 En Yojanan 16, el Espíritu toma de lo del Mesías y lo anuncia a los discípulos. **(δοξάζω)**, _doxazō_, significa glorificar, honrar o manifestar la gloria; en 16:14 su fuerza es centrar la acción del Espíritu en el Mesías. «Glorifica» es **directo**. La clase recibe **apoyo textual cualificado** cuando resiste una espiritualidad centrada en la exhibición: si una afirmación desplaza al Mesías, contradice el control local aunque use vocabulario de poder o de don.
 
@@ -84,10 +84,10 @@ Finalmente, Maaseh 2 muestra que la capacidad recibida se convierte en comunicac
 
 | Unidad                              | Observación atribuible                                                                                                | Evaluación en esta nota                                                                    |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| #yeshayahu_52_7                     | Eric presenta el evangelio como anuncio de paz, salvación y reinado de Elohim ya anticipado en Isaías.                | Apoyo textual directo; la aplicación mesiánica posterior es canónica y cualificada.        |
-| #yeshayahu_63_10-11                 | Eric relaciona «santo espíritu» con «espíritu de su santidad» y rechaza separarlos por el orden de las palabras.      | Apoyo textual y gramatical; **(רוח)**–**(πνεῦμα)** es una correspondencia aproximada.      |
-| #iojanan_14_15-18; #iojanan_16_7-15 | Eric entiende el don como presencia que acompaña, guía y comunica, no como fuerza impersonal para exhibición privada. | Apoyo textual cualificado: el texto centra la guía en la verdad y en la gloria del Mesías. |
-| #maaseh_2_1-4                       | Eric vincula el poder santo con el anuncio que alcanza a oyentes diversos.                                            | Apoyo narrativo directo; no se convierte la manifestación en técnica repetible.            |
+| #isaias_52_7                     | Eric presenta el evangelio como anuncio de paz, salvación y reinado de Elohim ya anticipado en Isaías.                | Apoyo textual directo; la aplicación mesiánica posterior es canónica y cualificada.        |
+| #isaias_63_10-11                 | Eric relaciona «santo espíritu» con «espíritu de su santidad» y rechaza separarlos por el orden de las palabras.      | Apoyo textual y gramatical; **(רוח)**–**(πνεῦμα)** es una correspondencia aproximada.      |
+| #juan_14_15-18; #juan_16_7-15 | Eric entiende el don como presencia que acompaña, guía y comunica, no como fuerza impersonal para exhibición privada. | Apoyo textual cualificado: el texto centra la guía en la verdad y en la gloria del Mesías. |
+| #hechos_2_1-4                       | Eric vincula el poder santo con el anuncio que alcanza a oyentes diversos.                                            | Apoyo narrativo directo; no se convierte la manifestación en técnica repetible.            |
 
 ## Conexiones y controles
 

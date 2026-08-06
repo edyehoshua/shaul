@@ -6,7 +6,7 @@ tags:
   - sodot
   - sodot_19
 references:
-  - "#sodot_19_1"
+  - "#apocalipsis_19_1"
 sources: []
 ---
 
@@ -16,13 +16,13 @@ Sodot 19 funciona aquí como repaso del libro: las congregaciones, los sellos, l
 
 ## Texto base
 
-- #sodot_19_1
+- #apocalipsis_19_1
 
 ## Texto TTH disponible
 
 | Referencia  | Texto TTH                                                                                                                                                            |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #sodot_19_1 | Y después de eso, escuché una gran voz de multitud en los cielos, diciendo: ¡Haleluyah! La salvación, la gloria, el esplendor y la potencia son para nuestro Elohim. |
+| #apocalipsis_19_1 | Y después de eso, escuché una gran voz de multitud en los cielos, diciendo: ¡Haleluyah! La salvación, la gloria, el esplendor y la potencia son para nuestro Elohim. |
 
 ## Observaciones
 

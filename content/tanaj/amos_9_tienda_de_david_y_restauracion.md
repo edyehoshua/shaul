@@ -3,7 +3,7 @@ title: "Amós 9: juicio, remanente y la tienda de David"
 description: "Estudio de Amós 9 a partir de la exposición de Eric: el juicio no cancela la promesa, sino que deja a יהוה levantar una tienda restaurada y reunir a quienes llevan su nombre."
 date: 2026-07-28
 tags: [tanaj, amos, haftarah, qedoshim, david, remanente]
-references: ["#amos_9_1", "#amos_9_6", "#amos_9_7", "#amos_9_9", "#amos_9_11", "#amos_9_12", "#amos_9_13", "#amos_9_15", "#maasei_15_15-17", "#iojanan_10_28-29"]
+references: ["#amos_9_1", "#amos_9_6", "#amos_9_7", "#amos_9_9", "#amos_9_11", "#amos_9_12", "#amos_9_13", "#amos_9_15", "#hechos_15_15-17", "#juan_10_28-29"]
 sources:
   - "https://www.youtube.com/watch?v=R2_RYABc2AI"
   - "docs/scriptures/oe/json/amos/9.json"

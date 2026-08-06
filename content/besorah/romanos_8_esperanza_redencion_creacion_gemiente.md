@@ -12,10 +12,10 @@ tags:
   - yehoshua
 references:
   - "#romanos_8_18-27"
-  - "#bereshit_3_15"
-  - "#corintios_bet_5_1-5"
-  - "#ivrit_11_1"
-  - "#mishlei_28_9"
+  - "#genesis_3_15"
+  - "#2_corintios_5_1-5"
+  - "#hebreos_11_1"
+  - "#proverbios_28_9"
 sources:
   - "https://www.youtube.com/watch?v=63CvF5FE__4"
   - "docs/scriptures/tth/json/romanos.json"
@@ -41,7 +41,7 @@ Esta nota organiza la clase pública sobre Romanos 8:18-27. Las observaciones de
 | #romanos_8_22-23 | «Toda la creación gime y tiene dolores de parto»; también gimen los que tienen las primicias del Rúaj y esperan «la redención de nuestros cuerpos». | La esperanza no es solo una idea interior: apunta a la transformación corporal y a la restauración. |
 | #romanos_8_24-25 | «Para esperanza fuimos salvos» y lo que no vemos lo esperamos «con perseverancia». | La salvación recibida tiene una dimensión futura; la perseverancia caracteriza la espera. |
 | #romanos_8_26-27 | El Rúaj ayuda a la debilidad e intercede «con gemidos indecibles»; el que escudriña los corazones conoce su intención. | La intercesión se entiende dentro de la esperanza y la debilidad del pueblo, no como una fórmula para convertir cualquier deseo personal en promesa. |
-| #corintios_bet_5_1-5 | La conexión usada por la clase presenta el cuerpo actual como una morada terrestre y espera una habitación incorruptible; el Rúaj funciona como garantía. | Es una conexión canónica para explicar la redención del cuerpo; no reemplaza la lectura directa de Romanos. |
+| #2_corintios_5_1-5 | La conexión usada por la clase presenta el cuerpo actual como una morada terrestre y espera una habitación incorruptible; el Rúaj funciona como garantía. | Es una conexión canónica para explicar la redención del cuerpo; no reemplaza la lectura directa de Romanos. |
 
 ## Sufrimiento presente y liberación de la creación
 

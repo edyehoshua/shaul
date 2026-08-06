@@ -10,15 +10,15 @@ tags:
   - prudencia
   - prueba
 references:
-  - "#bereshit_10_6"
-  - "#bereshit_12_10"
-  - "#bereshit_12_13"
-  - "#bereshit_12_15"
-  - "#bereshit_12_17"
-  - "#bereshit_12_20"
-  - "#tehilim_13_1"
-  - "#tehilim_13_6"
-  - "#yeshayahu_61_10"
+  - "#genesis_10_6"
+  - "#genesis_12_10"
+  - "#genesis_12_13"
+  - "#genesis_12_15"
+  - "#genesis_12_17"
+  - "#genesis_12_20"
+  - "#salmos_13_1"
+  - "#salmos_13_6"
+  - "#isaias_61_10"
 sources:
   - "https://www.youtube.com/watch?v=uUY--lZ-XwM"
   - "docs/scriptures/tth/json/bereshit.json"
@@ -41,11 +41,11 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #bereshit_12_10 | «Y había hambre en la tierra, y descendió Abram a Mitzráim para residir allí, porque era pesada el hambre en la tierra». | La dificultad aparece después del llamado; la prueba no demuestra que la promesa haya fallado. |
-| #bereshit_12_13 | «Di, por favor, que mi hermana eres tú, para que sea bueno a mí por causa tuya, y vivirá mi ser debido a ti». | La clase subraya la prudencia de Abraham ante un poder que podía matarlo y tomar a Sarai. |
-| #bereshit_12_17-20 | יהוה hiere a Faraón y a su casa; Faraón devuelve a Sarai y expulsa a Abram con todo lo suyo. | El texto identifica la intervención de יהוה y no deja el desenlace en manos del faraón. |
-| #tehilim_13_6 | «Y yo en tu bondad confié; se regocijará mi corazón en tu salvación; cantaré a יהוה porque ha retribuido sobre mí». | La clase conecta el clamor con una confianza que espera la respuesta de יהוה. |
-| #yeshayahu_61_10 | «...porque me vistió con vestiduras de salvación, me cubrió de manto de justicia...». | La imagen del manto se usa como aplicación mesiánica; no sustituye el sentido inmediato del cántico. |
+| #genesis_12_10 | «Y había hambre en la tierra, y descendió Abram a Mitzráim para residir allí, porque era pesada el hambre en la tierra». | La dificultad aparece después del llamado; la prueba no demuestra que la promesa haya fallado. |
+| #genesis_12_13 | «Di, por favor, que mi hermana eres tú, para que sea bueno a mí por causa tuya, y vivirá mi ser debido a ti». | La clase subraya la prudencia de Abraham ante un poder que podía matarlo y tomar a Sarai. |
+| #genesis_12_17-20 | יהוה hiere a Faraón y a su casa; Faraón devuelve a Sarai y expulsa a Abram con todo lo suyo. | El texto identifica la intervención de יהוה y no deja el desenlace en manos del faraón. |
+| #salmos_13_6 | «Y yo en tu bondad confié; se regocijará mi corazón en tu salvación; cantaré a יהוה porque ha retribuido sobre mí». | La clase conecta el clamor con una confianza que espera la respuesta de יהוה. |
+| #isaias_61_10 | «...porque me vistió con vestiduras de salvación, me cubrió de manto de justicia...». | La imagen del manto se usa como aplicación mesiánica; no sustituye el sentido inmediato del cántico. |
 
 ## Mitzráim como estrechez y prueba
 

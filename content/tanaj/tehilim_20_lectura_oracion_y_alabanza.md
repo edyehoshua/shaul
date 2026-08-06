@@ -9,9 +9,9 @@ tags:
   - confianza
   - yom-teruah
 references:
-  - "#tehilim_20_2-3"
-  - "#tehilim_20_4-6"
-  - "#tehilim_20_7-10"
+  - "#salmos_20_2-3"
+  - "#salmos_20_4-6"
+  - "#salmos_20_7-10"
 sources:
   - "https://www.youtube.com/watch?v=dOm2ObM1MC4"
   - "docs/scriptures/oe/json/psalms/20.json"
@@ -32,18 +32,18 @@ Esta nota contrasta la exposición con el texto hebreo OE local. La transcripci�
 
 | Referencia | Texto local OE (sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #tehilim_20_2-3 | **יענך יהוה ביום צרה ישגבך שם אלהי יעקב; ישלח עזרך מקדש ומציון יסעדך** | La súplica pide respuesta, protección, ayuda y sostén. |
-| #tehilim_20_4-6 | **יזכר כל מנחתך ועולתך ידשנה סלה; יתן לך כלבבך וכל עצתך ימלא; נרננה בישועתך ובשם אלהינו נדגל** | Las ofrendas, el deseo, el consejo, la salvación y el nombre forman el centro de la oración. |
-| #tehilim_20_7-8 | **עתה ידעתי כי הושיע יהוה משיחו יענהו משמי קדשו בגברות ישע ימינו; אלה ברכב ואלה בסוסים ואנחנו בשם יהוה אלהינו נזכיר** | La confianza se contrapone explícitamente a carros y caballos. |
-| #tehilim_20_9-10 | **המה כרעו ונפלו ואנחנו קמנו ונתעודד; יהוה הושיעה המלך יעננו ביום קראנו** | El cierre une caída, firmeza y una nueva petición de respuesta. |
+| #salmos_20_2-3 | **יענך יהוה ביום צרה ישגבך שם אלהי יעקב; ישלח עזרך מקדש ומציון יסעדך** | La súplica pide respuesta, protección, ayuda y sostén. |
+| #salmos_20_4-6 | **יזכר כל מנחתך ועולתך ידשנה סלה; יתן לך כלבבך וכל עצתך ימלא; נרננה בישועתך ובשם אלהינו נדגל** | Las ofrendas, el deseo, el consejo, la salvación y el nombre forman el centro de la oración. |
+| #salmos_20_7-8 | **עתה ידעתי כי הושיע יהוה משיחו יענהו משמי קדשו בגברות ישע ימינו; אלה ברכב ואלה בסוסים ואנחנו בשם יהוה אלהינו נזכיר** | La confianza se contrapone explícitamente a carros y caballos. |
+| #salmos_20_9-10 | **המה כרעו ונפלו ואנחנו קמנו ונתעודד; יהוה הושיעה המלך יעננו ביום קראנו** | El cierre une caída, firmeza y una nueva petición de respuesta. |
 
-## La respuesta en el día de estrechez — Tehilim 20:2-3 #tehilim_20_2-3
+## La respuesta en el día de estrechez — Tehilim 20:2-3 #salmos_20_2-3
 
 La clase empieza con la petición de que יהוה responda «en el día de estrechez» y propone que la experiencia de **(צרה)**, _tsaráh_, puede iluminar la angustia de quien busca libertad. Eric desarrolla una analogía pedagógica entre estrechez, nacimiento y la salida de Israel de Egipto, y distingue dos situaciones prácticas: avanzar hacia libertad y permanecer protegido ante un ataque. Esa analogía no está enunciada por el salmo ni prueba por sí sola una etimología de «nacer»; es una aplicación de la clase que queda pendiente de verificación.
 
 El texto sí acumula cuatro acciones: responder, elevar a lugar seguro, enviar ayuda y sostener. La clase explica **(ישגבך)**, _yesaggevjá_, mediante la imagen de una torre fuerte. Es una ayuda contextual plausible para la petición de protección, pero la relación técnica entre la forma verbal y un término para «torreón» requiere comprobación léxica independiente. El nombre del Elohim de Jacob no queda como fórmula decorativa: en el poema es aquello que protege al destinatario cuando llega el día de adversidad.
 
-## Ofrendas, corazón y consejo — Tehilim 20:4-6 #tehilim_20_4-6
+## Ofrendas, corazón y consejo — Tehilim 20:4-6 #salmos_20_4-6
 
 En los vv. 4-5, Eric observa el paso desde las ofrendas hacia el corazón y el consejo. Lee **(מנחה)**, _minjáh_, como una ofrenda presentada personalmente, y vincula la memoria de las ofrendas con testimonios y «fruto de labios». El texto local menciona una _minjáh_ y una **(עולה)**, _oláh_, pero no identifica esos dones con testimonios ni explica aquí una ofrenda mesiánica; esa conexión intertextual de la clase debe ser contrastada por separado con los pasajes que se invoquen.
 
@@ -51,7 +51,7 @@ La clase insiste acertadamente en que «te dé conforme a tu corazón» no autor
 
 El v. 6 desplaza la atención a la salvación y al nombre. Eric entiende **(נדגל)**, _nidgol_, como llevar una insignia que hace visible pertenencia. La imagen encaja con la afirmación de que el nombre de Elohim es el signo distintivo de la comunidad; sin embargo, la traducción precisa de la forma y la extensión de esa metáfora son pendientes léxicos. La clase vincula el clamor con una celebración de Yom Teruah y el shofar. Esa ubicación litúrgica explica el contexto de la enseñanza, pero Tehilim 20 no nombra la fiesta; por tanto, no debe imponerse sobre el sentido inmediato del salmo.
 
-## Salvación, carros y firmeza — Tehilim 20:7-10 #tehilim_20_7-10
+## Salvación, carros y firmeza — Tehilim 20:7-10 #salmos_20_7-10
 
 El v. 7 declara que יהוה salva a su **(משיחו)**, _meshijó_, «su ungido». Eric usa el versículo para desarrollar una lectura mesiánica y relaciona la respuesta desde los cielos con la resurrección. La palabra del salmo designa al ungido de יהוה, pero no desarrolla por sí sola todas las conclusiones cristológicas ni una doctrina de la resurrección. Tales enlaces pueden investigarse canónicamente, siempre distinguiéndolos de la afirmación inmediata de que la ayuda viene de la santidad celestial de יהוה.
 
@@ -73,10 +73,10 @@ Los vv. 9-10 cierran la secuencia: quienes descansan en su potencia caen; el ora
 
 | Unidad textual | Punto tomado de Eric | Cómo se evaluó |
 | --- | --- | --- |
-| #tehilim_20_2-3 | La angustia se presenta como estrechez; la clase la conecta pedagógicamente con salida de esclavitud y con la protección de una torre fuerte. | El pedido de respuesta, ayuda y protección está en el texto local; la analogía de nacimiento y éxodo, y la derivación técnica propuesta, quedan como inferencias por verificar. |
-| #tehilim_20_4-6 | Las ofrendas orientan el corazón y el consejo; la salvación y el nombre son la insignia de una comunidad que no pide caprichos. | El orden textual de culto, corazón, consejo, salvación y nombre se conserva; las equivalencias con fruto de labios, la lectura litúrgica y el análisis de **(נדגל)** se califican. |
-| #tehilim_20_7 | El ungido es salvado desde los cielos; la clase lo enlaza con una lectura mesiánica y resurrección. | Se afirma el contenido del versículo; la extensión mesiánica y la asociación histórica se mantienen como lectura canónica pendiente de fundamentación adicional. |
-| #tehilim_20_8-10 | Carros y caballos representan recursos en los que no se debe confiar; la clase aplica el cierre a huir de esclavitud, resistir la amenaza y pedir ayuda. | El contraste con armas y la petición final tienen apoyo textual; los ejemplos de Sísara, matrimonio y práctica comunitaria se reconocen como aplicaciones concretas de Eric. |
+| #salmos_20_2-3 | La angustia se presenta como estrechez; la clase la conecta pedagógicamente con salida de esclavitud y con la protección de una torre fuerte. | El pedido de respuesta, ayuda y protección está en el texto local; la analogía de nacimiento y éxodo, y la derivación técnica propuesta, quedan como inferencias por verificar. |
+| #salmos_20_4-6 | Las ofrendas orientan el corazón y el consejo; la salvación y el nombre son la insignia de una comunidad que no pide caprichos. | El orden textual de culto, corazón, consejo, salvación y nombre se conserva; las equivalencias con fruto de labios, la lectura litúrgica y el análisis de **(נדגל)** se califican. |
+| #salmos_20_7 | El ungido es salvado desde los cielos; la clase lo enlaza con una lectura mesiánica y resurrección. | Se afirma el contenido del versículo; la extensión mesiánica y la asociación histórica se mantienen como lectura canónica pendiente de fundamentación adicional. |
+| #salmos_20_8-10 | Carros y caballos representan recursos en los que no se debe confiar; la clase aplica el cierre a huir de esclavitud, resistir la amenaza y pedir ayuda. | El contraste con armas y la petición final tienen apoyo textual; los ejemplos de Sísara, matrimonio y práctica comunitaria se reconocen como aplicaciones concretas de Eric. |
 
 ## Pendiente de verificar
 

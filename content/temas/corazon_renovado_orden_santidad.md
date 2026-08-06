@@ -9,7 +9,7 @@ tags:
   - renovacion
   - efesios
 references:
-  - "#tehilim_51_12"
+  - "#salmos_51_12"
   - "#efesios_4_22"
   - "#efesios_4_23"
   - "#efesios_4_24"
@@ -20,8 +20,8 @@ references:
   - "#colosenses_3_10"
   - "#colosenses_3_12"
   - "#colosenses_3_13"
-  - "#tesalonicenses_alef_4_3"
-  - "#tesalonicenses_alef_4_7"
+  - "#1_tesalonicenses_4_3"
+  - "#1_tesalonicenses_4_7"
 sources:
   - "https://www.youtube.com/watch?v=uXzXFluGIdg"
   - "docs/scriptures/oe/json/raw/psalms.json"
@@ -45,11 +45,11 @@ Esta nota organiza una exposición titulada _A Heart Fit for Hashem / In the Hou
 
 | Referencia                     | Texto local                                                                                                                                                                                                                                                              | Función en el desarrollo                                                                   |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| #tehilim_51_12                 | לב טהור ברא לי אלהים ורוח נכון חדש בקרבי                                                                                                                                                                                                                                 | David pide creación de un corazón puro y renovación interior.                              |
+| #salmos_51_12                 | לב טהור ברא לי אלהים ורוח נכון חדש בקרבי                                                                                                                                                                                                                                 | David pide creación de un corazón puro y renovación interior.                              |
 | #efesios_4_22-24               | לסור מדרכיכם הראשנים ולפשט את האדם הישן הנשחת בתאות רמיה׃ להתחדש ברוח שכלכם׃ וללבש את האדם החדש הנברא כדמות אלהים בצדקה וקדשת האמת׃                                                                                                                                      | El desprendimiento del hombre viejo conduce a la renovación de la mente y al nuevo hombre. |
 | #efesios_4_31-32               | כל מרירות וחמה ורגז וצעקה וגדוף תסירו מכם עם כל הרשעה׃ והיו טובים איש לרעהו ורחמנים ונשאים איש לחטאת אחיו כאשר נשא לכם האלהים במשיח׃                                                                                                                                     | La renovación se hace visible en el trato con el prójimo.                                  |
 | #colosenses_3_5, 8-10          | על כן תמותתו אבריכם בארץ את הזנות והטמאה והזמה והתאות הרעות ונטות אחרי הבצע אשר היא עבודת אלילים׃ אך עתה הסירו כל אלה מעליכם רגז וכעס ורשע וגדוף ודברי נבלה מפיכם׃ ואל תשקרו איש בעמיתו אחרי אשר פשטתם את האדם הישן ופעלותיו׃ ולבשתם את האדם החדש המתחדש בדעת כצלם בראו׃ | Pablo nombra deseos, ira, habla y mentira como el terreno diario del hombre nuevo.         |
-| #tesalonicenses_alef_4_1, 3, 7 | ועוד נבקשה מכם אחי ונזהיר אתכם באדנינו ישוע כי כאשר קבלתם מאתנו איך עליכם להתהלך ולמצא חן בעיני האלהים וכאשר גם התהלכתם כן תוסיפו וכן תרבו עוד׃ כי זה רצון האלהים קדשתכם להתרחק מן הזנות׃ כי לא קרא אותנו האלהים לטמאה כי אם לקדשה׃                                      | Agradar a Elohim es un camino que debe abundar, no una condición ya terminada.             |
+| #1_tesalonicenses_4_1, 3, 7 | ועוד נבקשה מכם אחי ונזהיר אתכם באדנינו ישוע כי כאשר קבלתם מאתנו איך עליכם להתהלך ולמצא חן בעיני האלהים וכאשר גם התהלכתם כן תוסיפו וכן תרבו עוד׃ כי זה רצון האלהים קדשתכם להתרחק מן הזנות׃ כי לא קרא אותנו האלהים לטמאה כי אם לקדשה׃                                      | Agradar a Elohim es un camino que debe abundar, no una condición ya terminada.             |
 
 ## Texto local de la progresión
 
@@ -59,7 +59,7 @@ La secuencia textual es, por tanto, precisa: petición creadora, desprendimiento
 
 ## La súplica de David: corazón, pureza y firmeza
 
-Eric comienza en #tehilim_51_12 y llama la atención sobre la dirección de la oración: David no se declara competente para repararse; pide que Elohim haga lo que él no puede producir. El contexto del salmo impide tratar esta petición como una frase decorativa. David reconoce su pecado y pide una obra interior que corresponda a la verdad que Elohim desea en lo íntimo (#tehilim_51_8). El corazón no es una referencia al órgano físico, sino al centro desde el cual se discierne, se desea y se decide.
+Eric comienza en #salmos_51_12 y llama la atención sobre la dirección de la oración: David no se declara competente para repararse; pide que Elohim haga lo que él no puede producir. El contexto del salmo impide tratar esta petición como una frase decorativa. David reconoce su pecado y pide una obra interior que corresponda a la verdad que Elohim desea en lo íntimo (#salmos_51_8). El corazón no es una referencia al órgano físico, sino al centro desde el cual se discierne, se desea y se decide.
 
 La clase relaciona **(טהור)**, _tahor_, con algo apto o adecuado, no meramente con una superficie sin manchas. Esa ampliación es útil si se expresa con cuidado: en el versículo el adjetivo describe un corazón “puro”; en los contextos de pureza bíblica puede señalar una condición apropiada para acercarse o participar. Por tanto, “apto” es una aclaración pedagógica de la fuerza contextual, no la única traducción posible ni una equivalencia exacta.
 
@@ -81,7 +81,7 @@ La progresión es notable. Primero se hace morir lo terrenal; luego se quitan la
 
 ## Santificación que abunda más y más
 
-El cierre de Eric en #tesalonicenses_alef_4_1, 3 y 7 evita presentar la santidad como una meta ya poseída de una vez. Pablo exhorta a quienes ya han recibido instrucción sobre cómo agradar a Elohim a que abunden “más y más”. La voluntad de Elohim es su santificación, y el llamado no es a impureza sino a santidad. Por eso la petición del salmo puede convertirse en disciplina diaria: no fingir que el corazón ya está plenamente renovado, sino pedir y practicar la firmeza que el texto demanda.
+El cierre de Eric en #1_tesalonicenses_4_1, 3 y 7 evita presentar la santidad como una meta ya poseída de una vez. Pablo exhorta a quienes ya han recibido instrucción sobre cómo agradar a Elohim a que abunden “más y más”. La voluntad de Elohim es su santificación, y el llamado no es a impureza sino a santidad. Por eso la petición del salmo puede convertirse en disciplina diaria: no fingir que el corazón ya está plenamente renovado, sino pedir y practicar la firmeza que el texto demanda.
 
 La clase conecta esta vigilancia con la perseverancia. Esa aplicación debe mantenerse bajo el marco del pasaje: la vigilancia no es ansiedad religiosa ni una confianza en la fuerza propia. David ora porque depende de Elohim; Pablo exhorta porque la conducta del llamado debe corresponder a la santidad. Juntas, ambas voces sostienen una ética humilde: reconocer desórdenes reales, recibir la corrección de la Escritura y cultivar prácticas que den testimonio de misericordia, verdad y dominio propio.
 
@@ -99,11 +99,11 @@ La clase conecta esta vigilancia con la perseverancia. Esa aplicación debe mant
 
 | Unidad textual             | Observación concreta de la clase                                                                         | Tratamiento en esta nota                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_51_12             | El corazón “apto” necesita ser creado y renovado por Elohim, no solo limpiado externamente.              | Apoyo textual y aclaración léxica: **(טהור)** se explica como pureza y “apto” queda como aproximación pedagógica.         |
+| #salmos_51_12             | El corazón “apto” necesita ser creado y renovado por Elohim, no solo limpiado externamente.              | Apoyo textual y aclaración léxica: **(טהור)** se explica como pureza y “apto” queda como aproximación pedagógica.         |
 | #efesios_4_22-24           | El hombre viejo se relaciona con desorden; la renovación de la mente forma un hombre nuevo según Elohim. | Apoyo textual: se conserva el orden del pasaje y se califica la conexión con Tehilim como temática, no como cita directa. |
 | #efesios_4_25, 31-32       | Mentira, enojo y palabras corruptas revelan dónde debe practicarse la renovación.                        | Apoyo textual y aplicación: se enumeran las prácticas del texto sin reducir la renovación a emoción interior.             |
 | #colosenses_3_5-13         | La santidad enfrenta pasiones, avaricia y agresión, y se expresa en compasión y perdón hacia el hermano. | Apoyo textual; “falta de límites” se mantiene como síntesis pedagógica, no como definición léxica de cada pecado.         |
-| #tesalonicenses_alef_4_1-7 | La santificación es una marcha que debe abundar más y más.                                               | Apoyo textual: la nota relaciona perseverancia y dependencia de Elohim, evitando afirmar perfección presente.             |
+| #1_tesalonicenses_4_1-7 | La santificación es una marcha que debe abundar más y más.                                               | Apoyo textual: la nota relaciona perseverancia y dependencia de Elohim, evitando afirmar perfección presente.             |
 
 ## Pendiente de verificar
 
@@ -113,9 +113,9 @@ La clase conecta esta vigilancia con la perseverancia. Esa aplicación debe mant
 
 ## Conexiones principales
 
-- #tehilim_51_12 con #efesios_4_22-24: la creación de un corazón puro y la renovación de la mente describen una obra interior que debe producir una forma nueva de caminar; la conexión es temática, no una cita explícita de Pablo al salmo.
+- #salmos_51_12 con #efesios_4_22-24: la creación de un corazón puro y la renovación de la mente describen una obra interior que debe producir una forma nueva de caminar; la conexión es temática, no una cita explícita de Pablo al salmo.
 - #efesios_4_31-32 con #colosenses_3_8-13: ambos desarrollos trasladan la renovación al habla, la ira, la compasión y el perdón dentro del cuerpo; la enseñanza de Eric trata esas prácticas como prueba visible del cambio.
-- #colosenses_3_5-10 con #tesalonicenses_alef_4_3-7: morir a los deseos desordenados y abundar en santificación no son dos metas aisladas, sino una secuencia de despojo, renovación y perseverancia.
+- #colosenses_3_5-10 con #1_tesalonicenses_4_3-7: morir a los deseos desordenados y abundar en santificación no son dos metas aisladas, sino una secuencia de despojo, renovación y perseverancia.
 
 ## Conclusión
 

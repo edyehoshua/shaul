@@ -8,12 +8,12 @@ tags:
   - servicio
   - mishmeret
 references:
-  - "#bamidbar_1_1"
-  - "#bamidbar_1_2"
-  - "#bamidbar_1_3"
-  - "#bamidbar_1_18"
-  - "#bamidbar_1_44"
-  - "#bamidbar_1_46"
+  - "#numeros_1_1"
+  - "#numeros_1_2"
+  - "#numeros_1_3"
+  - "#numeros_1_18"
+  - "#numeros_1_44"
+  - "#numeros_1_46"
 sources:
   - "https://www.youtube.com/watch?v=xewVDaqDM6g"
   - "docs/scriptures/oe/json/numbers/1.json"
@@ -34,18 +34,18 @@ Esta nota desarrolla la exposición pública del hermano Eric de Jesús Rodrígu
 
 | Referencia        | Texto hebreo local, normalizado sin morfología segmentada                                                                                         | Función en el argumento                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #bamidbar_1_1     | **וידבר יהוה אל משה במדבר סיני באהל מועד באחד לחדש השני בשנה השנית לצאתם מארץ מצרים לאמר**                                                        | La orden nace en el desierto, junto al tabernáculo, después de la salida de Egipto. |
-| #bamidbar_1_2-3   | **שאו את ראש כל עדת בני ישראל למשפחתם לבית אבתם במספר שמות כל זכר לגלגלתם**; **מבן עשרים שנה ומעלה כל יצא צבא בישראל תפקדו אתם לצבאתם אתה ואהרן** | Levantar la cabeza se concreta en nombres, familias, edad y función militar.        |
-| #bamidbar_1_17-19 | **ויקח משה ואהרן את האנשים האלה אשר נקבו בשמות** … **כאשר צוה יהוה את משה ויפקדם במדבר סיני**                                                     | Moisés y Aharón reúnen a los nombrados y ejecutan la orden en el desierto.          |
-| #bamidbar_1_44-46 | **אלה הפקדים אשר פקד משה ואהרן ונשיאי ישראל שנים עשר איש** … **שש מאות אלף ושלשת אלפים וחמש מאות וחמשים**                                         | El registro concluye con jefes identificados y una cifra total.                     |
+| #numeros_1_1     | **וידבר יהוה אל משה במדבר סיני באהל מועד באחד לחדש השני בשנה השנית לצאתם מארץ מצרים לאמר**                                                        | La orden nace en el desierto, junto al tabernáculo, después de la salida de Egipto. |
+| #numeros_1_2-3   | **שאו את ראש כל עדת בני ישראל למשפחתם לבית אבתם במספר שמות כל זכר לגלגלתם**; **מבן עשרים שנה ומעלה כל יצא צבא בישראל תפקדו אתם לצבאתם אתה ואהרן** | Levantar la cabeza se concreta en nombres, familias, edad y función militar.        |
+| #numeros_1_17-19 | **ויקח משה ואהרן את האנשים האלה אשר נקבו בשמות** … **כאשר צוה יהוה את משה ויפקדם במדבר סיני**                                                     | Moisés y Aharón reúnen a los nombrados y ejecutan la orden en el desierto.          |
+| #numeros_1_44-46 | **אלה הפקדים אשר פקד משה ואהרן ונשיאי ישראל שנים עשר איש** … **שש מאות אלף ושלשת אלפים וחמש מאות וחמשים**                                         | El registro concluye con jefes identificados y una cifra total.                     |
 
-## El desierto y el nombre del libro: 1:1 #bamidbar_1_1
+## El desierto y el nombre del libro: 1:1 #numeros_1_1
 
 Eric comienza recordando que el libro se llama **במדבר** (_Bemidbar_), “en el desierto”, mientras que la tradición griega lo llamó Ἀριθμοί (_Arithmoi_), “números”, por las listas que aparecen en él. Su observación material no niega la presencia de cifras; pide que no dejemos que el título griego convierta todo el libro en aritmética. Bamidbar 1 confirma la prioridad narrativa: יהוה habla a Moshe en el desierto de Sinaí, en el tabernáculo de reunión, en el segundo año después de Egipto. El lugar y el momento interpretan la lista: se trata de un pueblo redimido que recibe orden para caminar y servir, no de una población aislada de la presencia divina.
 
 La forma **מדבר** (_midbar_) significa normalmente “desierto” o “zona despoblada”. Aquí su fuerza contextual es el escenario de la palabra y de la organización. La relación entre _Bemidbar_ y “en el desierto” es exacta; la afirmación de que el título griego delata una traducción mediada por la Septuaginta es una observación histórica atribuida a Eric y queda como contexto, no como una conclusión que el versículo pruebe por sí solo.
 
-## Levantar la cabeza: 1:2-3 #bamidbar_1_2-3
+## Levantar la cabeza: 1:2-3 #numeros_1_2-3
 
 La corrección principal de la clase aparece en la orden **שאו את ראש** (_se'u et rosh_), literalmente “levanten la cabeza”. Eric sostiene que no equivale simplemente a contar individuos para saber cuántos existen. La expresión puede comunicar elevar, reconocer o poner en eminencia; en esta escena se dirige a toda la congregación, pero el proceso distingue a los que serán designados. El texto local mantiene la imagen completa: por familias, por casas de sus padres, “en el número de nombres”, cada varón, “por sus cabezas”. No es una licencia para ignorar la cifra, sino una lectura del propósito que la cifra sirve.
 
@@ -53,7 +53,7 @@ El verbo **נשא** (_nasa_) tiene el sentido normal de levantar, cargar o eleva
 
 La restricción de 1:3 también importa. Son contados los varones de veinte años en adelante que salen al ejército en Israel. Eric usa esa delimitación para mostrar que la cabeza levantada no es una categoría abstracta aplicada sin diferencia a cada persona: aquí se trata de quienes reciben una función concreta. **תפקדו** (_tifqedu_) procede de **פקד** (_paqad_), cuyo campo incluye contar, visitar, asignar, encargar o supervisar. La exposición lo glosa como “encargar”, con turnos y oficio. Esa relación es aproximada pero bien apoyada por 1:3: el verbo aparece junto a “por sus ejércitos”, y el resultado no es solo una cifra sino una organización.
 
-## Nombres, familias y jefes: 1:4-19 #bamidbar_1_4-19
+## Nombres, familias y jefes: 1:4-19 #numeros_1_4-19
 
 El capítulo no abandona los nombres al pasar a los números. Cada tribu aporta un hombre, y en 1:16 esos hombres son llamados los señalados de la congregación y jefes de las tribus de sus padres. Eric observa que primero se levanta la cabeza de los jefes; luego la organización alcanza al pueblo por familias y casas paternas. Esta secuencia evita imaginar un poder anónimo: la autoridad queda identificada, situada dentro de una casa y subordinada a la orden de יהוה.
 
@@ -69,11 +69,11 @@ En el marco canónico, esta guardia y este orden pueden conectarse con la respon
 
 | Unidad                                   | Observación concreta de la clase                                                                                                      | Tratamiento frente al texto                                                                                                                                   |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #bamidbar_1_1; `youtube:xewVDaqDM6g`     | Eric contrasta el nombre hebreo _Bemidbar_, “en el desierto”, con el nombre griego “Números” y pide leer el libro desde su escenario. | Apoyo textual y contexto histórico cualificado: 1:1 pone el desierto y el tabernáculo antes de la lista; la historia del título griego se mantiene atribuida. |
-| #bamidbar_1_2; `youtube:xewVDaqDM6g`     | “Levanten la cabeza” no sería un conteo neutral, sino elevar y poner en eminencia a personas para una función.                        | Apoyo léxico cualificado: **נשא** significa levantar/cargar; la dimensión de reconocimiento se apoya en el contexto, no reemplaza la cifra.                   |
-| #bamidbar_1_3; `youtube:xewVDaqDM6g`     | Los mayores de veinte que salen al ejército son encargados por sus ejércitos; **פקד** expresa asignación de oficio y organización.    | Apoyo textual: edad, ejército y verbo aparecen juntos; “turnos” es una explicación pedagógica del orden, no una palabra adicional del versículo.              |
-| #bamidbar_1_17-19; `youtube:xewVDaqDM6g` | Los nombrados y los jefes son reconocidos dentro de familias y casas paternas, no como una masa anónima.                              | Apoyo textual: los hombres son nombrados y la congregación se registra por familias; la aplicación a liderazgo espiritual es inferencia cualificada.          |
-| #bamidbar_1_44-46; `youtube:xewVDaqDM6g` | El propósito principal no es aritmética, aunque el capítulo termina dando una cifra.                                                  | Corrección de equilibrio: el registro culmina en 603.550; la organización y la cifra deben leerse juntas.                                                     |
+| #numeros_1_1; `youtube:xewVDaqDM6g`     | Eric contrasta el nombre hebreo _Bemidbar_, “en el desierto”, con el nombre griego “Números” y pide leer el libro desde su escenario. | Apoyo textual y contexto histórico cualificado: 1:1 pone el desierto y el tabernáculo antes de la lista; la historia del título griego se mantiene atribuida. |
+| #numeros_1_2; `youtube:xewVDaqDM6g`     | “Levanten la cabeza” no sería un conteo neutral, sino elevar y poner en eminencia a personas para una función.                        | Apoyo léxico cualificado: **נשא** significa levantar/cargar; la dimensión de reconocimiento se apoya en el contexto, no reemplaza la cifra.                   |
+| #numeros_1_3; `youtube:xewVDaqDM6g`     | Los mayores de veinte que salen al ejército son encargados por sus ejércitos; **פקד** expresa asignación de oficio y organización.    | Apoyo textual: edad, ejército y verbo aparecen juntos; “turnos” es una explicación pedagógica del orden, no una palabra adicional del versículo.              |
+| #numeros_1_17-19; `youtube:xewVDaqDM6g` | Los nombrados y los jefes son reconocidos dentro de familias y casas paternas, no como una masa anónima.                              | Apoyo textual: los hombres son nombrados y la congregación se registra por familias; la aplicación a liderazgo espiritual es inferencia cualificada.          |
+| #numeros_1_44-46; `youtube:xewVDaqDM6g` | El propósito principal no es aritmética, aunque el capítulo termina dando una cifra.                                                  | Corrección de equilibrio: el registro culmina en 603.550; la organización y la cifra deben leerse juntas.                                                     |
 
 ## Tramo textual verificado
 
@@ -91,7 +91,7 @@ Tercero, el capítulo no opone organización a número. Después de enumerar las
 | **נשיא**   | _nasi_          | jefe, líder, príncipe                   | “El levantado” es una conexión pedagógica con _nasa_; no agota el uso del título.                                                  |
 | **פקודים** | _pequdim_       | registrados, encargados, inspeccionados | En 1:44-46 resume a quienes fueron identificados y puestos bajo una responsabilidad.                                               |
 
-## La diferencia del encargo levítico: 1:47-54 #bamidbar_1_47-54
+## La diferencia del encargo levítico: 1:47-54 #numeros_1_47-54
 
 La clase de Eric no termina la organización en el total de 603.550. Después de distinguir a los convocados al ejército, sigue el cambio de encargo de Leví. En la transcripción, Eric insiste en que los levitas “no fueron encargados” en medio de las otras tribus porque su responsabilidad era el tabernáculo, sus utensilios y todo lo que pertenecía a él. Esta observación material evita hacer del capítulo una simple tabla de rangos: hay una cabeza levantada para coordinar la marcha y hay un servicio separado para custodiar la morada.
 

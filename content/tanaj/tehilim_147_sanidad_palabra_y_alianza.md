@@ -9,29 +9,29 @@ tags:
   - palabra
   - torah
 references:
-  - "#tehilim_147_1"
-  - "#tehilim_147_2"
-  - "#tehilim_147_3"
-  - "#tehilim_147_4"
-  - "#tehilim_147_5"
-  - "#tehilim_147_6"
-  - "#tehilim_147_7"
-  - "#tehilim_147_8"
-  - "#tehilim_147_9"
-  - "#tehilim_147_10"
-  - "#tehilim_147_11"
-  - "#tehilim_147_12"
-  - "#tehilim_147_13"
-  - "#tehilim_147_14"
-  - "#tehilim_147_15"
-  - "#tehilim_147_16"
-  - "#tehilim_147_17"
-  - "#tehilim_147_18"
-  - "#tehilim_147_19"
-  - "#tehilim_147_20"
-  - "#ieshaiahu_61_1"
+  - "#salmos_147_1"
+  - "#salmos_147_2"
+  - "#salmos_147_3"
+  - "#salmos_147_4"
+  - "#salmos_147_5"
+  - "#salmos_147_6"
+  - "#salmos_147_7"
+  - "#salmos_147_8"
+  - "#salmos_147_9"
+  - "#salmos_147_10"
+  - "#salmos_147_11"
+  - "#salmos_147_12"
+  - "#salmos_147_13"
+  - "#salmos_147_14"
+  - "#salmos_147_15"
+  - "#salmos_147_16"
+  - "#salmos_147_17"
+  - "#salmos_147_18"
+  - "#salmos_147_19"
+  - "#salmos_147_20"
+  - "#isaias_61_1"
   - "#romanos_8_28"
-  - "#devarim_4_7-8"
+  - "#deuteronomio_4_7-8"
 sources:
   - "https://www.youtube.com/watch?v=69Y8z8JQ5k0"
   - "docs/scriptures/oe/json/psalms/147.json"
@@ -53,21 +53,21 @@ Se sigue el salmo completo en sus unidades textuales. La enseñanza pública del
 
 | Unidad             | Texto hebreo local normalizado                                                                                     | TTH local (resumen fiel)                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| #tehilim_147_1     | **הללו יה כי טוב זמרה אלהינו כי נעים נאוה תהלה**                                                                   | «Porque bueno es cantar a nuestro Elohim; es agradable y adecuada la alabanza».                                  |
-| #tehilim_147_2-3   | **בונה ירושלם יהוה נדחי ישראל יכנס / הרפא לשבורי לב ומחבש לעצבותם**                                                | יהוה construye Yerushaláim, reúne a los empujados, sana a los rotos de corazón y ata sus aflicciones.            |
-| #tehilim_147_4-6   | **מונה מספר לכוכבים לכלם שמות יקרא / גדול אדונינו ורב כח לתבונתו אין מספר / מעודד ענוים יהוה משפיל רשעים עדי ארץ** | Cuenta y nombra las estrellas; su entendimiento no tiene número, sostiene a los afligidos y baja a los malvados. |
-| #tehilim_147_7-11  | **ענו ליהוה בתודה זמרו לאלהינו בכנור ... רוצה יהוה את יראיו את המיחלים לחסדו**                                     | Cantar con confesión; lluvia, hierba, alimento, límite del poder humano y favor para quienes esperan su bondad.  |
-| #tehilim_147_12-14 | **שבחי ירושלם את יהוה ... השם גבולך שלום חלב חטים ישביעך**                                                         | Yerushaláim alaba; puertas reforzadas, hijos bendecidos, shalom en las fronteras y trigo escogido.               |
-| #tehilim_147_15-18 | **השלח אמרתו ארץ עד מהרה ירוץ דברו ... ישב רוחו יזלו מים**                                                         | Su dicho corre veloz; nieve, hielo, frío, palabra, viento y aguas obedecen.                                      |
-| #tehilim_147_19-20 | **מגיד דברו ליעקב חקיו ומשפטיו לישראל / לא עשה כן לכל גוי**                                                        | Anuncia su palabra, estatutos y juicios a Yaakov e Israel; no hizo así con las demás naciones.                   |
+| #salmos_147_1     | **הללו יה כי טוב זמרה אלהינו כי נעים נאוה תהלה**                                                                   | «Porque bueno es cantar a nuestro Elohim; es agradable y adecuada la alabanza».                                  |
+| #salmos_147_2-3   | **בונה ירושלם יהוה נדחי ישראל יכנס / הרפא לשבורי לב ומחבש לעצבותם**                                                | יהוה construye Yerushaláim, reúne a los empujados, sana a los rotos de corazón y ata sus aflicciones.            |
+| #salmos_147_4-6   | **מונה מספר לכוכבים לכלם שמות יקרא / גדול אדונינו ורב כח לתבונתו אין מספר / מעודד ענוים יהוה משפיל רשעים עדי ארץ** | Cuenta y nombra las estrellas; su entendimiento no tiene número, sostiene a los afligidos y baja a los malvados. |
+| #salmos_147_7-11  | **ענו ליהוה בתודה זמרו לאלהינו בכנור ... רוצה יהוה את יראיו את המיחלים לחסדו**                                     | Cantar con confesión; lluvia, hierba, alimento, límite del poder humano y favor para quienes esperan su bondad.  |
+| #salmos_147_12-14 | **שבחי ירושלם את יהוה ... השם גבולך שלום חלב חטים ישביעך**                                                         | Yerushaláim alaba; puertas reforzadas, hijos bendecidos, shalom en las fronteras y trigo escogido.               |
+| #salmos_147_15-18 | **השלח אמרתו ארץ עד מהרה ירוץ דברו ... ישב רוחו יזלו מים**                                                         | Su dicho corre veloz; nieve, hielo, frío, palabra, viento y aguas obedecen.                                      |
+| #salmos_147_19-20 | **מגיד דברו ליעקב חקיו ומשפטיו לישראל / לא עשה כן לכל גוי**                                                        | Anuncia su palabra, estatutos y juicios a Yaakov e Israel; no hizo así con las demás naciones.                   |
 
-## «Aleluya» y una alabanza que ve el obrar — Tehilim 147:1 #tehilim_147_1
+## «Aleluya» y una alabanza que ve el obrar — Tehilim 147:1 #salmos_147_1
 
 Eric comienza preguntando por **הללויה** (_halelu Yah_): normalmente se explica como «alaben a Yah», pero la clase insiste en que debe expresar una proclamación consciente de la victoria de יהוה sobre la muerte y de sus maravillas. Esa aplicación es más estrecha que el sentido gramatical del imperativo, pero recoge la fuerza que Eric quiere recuperar: no usar la palabra automáticamente, sino reconocer qué está proclamando. El v. 1 fundamenta el llamado: **כי טוב** (_ki tov_, porque es bueno), **זמרה** (_zimrah_, melodía o canto) y **תהלה** (_tehillah_, alabanza). La relación entre «melodía» y tributar lo mejor es una ampliación pedagógica; el texto sí afirma que la alabanza es buena, agradable y adecuada.
 
 Eric también presenta la Torah como un cántico cuya melodía ordena partes distintas hacia una unidad. La imagen ayuda a leer el salmo, aunque no debe convertirse en una definición exclusiva de **זמרה**. El punto verificable es que el poema no deja la alabanza suspendida: enseguida muestra qué hace יהוה.
 
-## El constructor, el sanador y el que cuenta — Tehilim 147:2-6 #tehilim_147_2-6
+## El constructor, el sanador y el que cuenta — Tehilim 147:2-6 #salmos_147_2-6
 
 El v. 2 llama a יהוה **בונה** (_boneh_, constructor o edificador) de Yerushaláim y dice que reúne a los **נדחי ישראל** (_nidjei Yisrael_). Eric enfatiza el participio presente: no sólo un acto pasado, sino el obrar continuo del edificador. El hebreo puede sostener la imagen de una acción característica; «día a día ocupa nuestra edificación» es aplicación doctrinal, no el único valor morfológico. También contrasta las piedras de una ciudad con su gente: la construcción de Jerusalén alcanza a la comunidad restaurada.
 
@@ -77,7 +77,7 @@ El v. 3 pasa de la ciudad al interior: **הרפא** (_harofe_, el que sana) a lo
 
 En los vv. 4-5 Eric une el conteo de las estrellas con el cuidado personal. **מונה** (_moneh_) es contar o asignar número; **שמות יקרא** es llamar por nombres. La idea de que sólo יהוה administra el número y el lugar de cada estrella es textual en su dirección general. Eric la conecta con Daniel 12:3 y con la promesa a Avraham; esas conexiones iluminan el motivo de estrellas, pero no prueban que cada nombre sea una autobiografía individual. El v. 6 vuelve a la tierra: יהוה sostiene a los humildes y baja a los malvados. La clase traduce esa acción como dar continuidad a la existencia de los mansos; el hebreo sostiene «sostener/animar» o «ayudar», mientras «resiliencia» es una analogía moderna y pedagógica.
 
-## Lluvia, alimento y el favor que espera — Tehilim 147:7-14 #tehilim_147_7-14
+## Lluvia, alimento y el favor que espera — Tehilim 147:7-14 #salmos_147_7-14
 
 Los vv. 7-9 alternan cielo, tierra y criaturas. Eric dice que el creyente debe cantar «con confesión» porque la gratitud es reconocimiento, no sólo sonido; el TTH traduce **תודה** como confesión/acción de gracias y esa lectura es exacta en el contexto. Después el salmo nombra nubes, lluvia, hierba, animales y cuervos. Eric no niega el ciclo del agua: observa que el poema atribuye a יהוה la arquitectura que hace posible ese ciclo, desde la distancia del sol hasta la lluvia y el alimento. La explicación científica adicional no está demostrada por el salmo, pero sí preserva su afirmación central de providencia.
 
@@ -85,7 +85,7 @@ Cuando el v. 9 habla de los hijos del cuervo, Eric extiende la imagen a quienes 
 
 Los vv. 12-14 aterrizan la alabanza en Yerushaláim: puertas, hijos, fronteras, shalom y trigo. **שלום** (_shalom_) significa integridad, paz o plenitud, no sólo ausencia de guerra. Eric lo conecta con la seguridad de una ciudad edificada y con la provisión «de lo mejor» (**חלב חטים**, la riqueza o grasa del trigo). La aplicación comunitaria está apoyada por el sujeto plural y por la ciudad; no convierte estos versos en una garantía de prosperidad individual.
 
-## La palabra corre y revela a Yaakov — Tehilim 147:15-20 #tehilim_147_15-20
+## La palabra corre y revela a Yaakov — Tehilim 147:15-20 #salmos_147_15-20
 
 En los vv. 15-18 la palabra de יהוה aparece en acción: **אמרה** (_imrah_, dicho o palabra) corre velozmente; nieve, escarcha, hielo, frío y viento obedecen. Eric insiste en que lo que parece un ciclo natural sigue siendo una esfera de la palabra divina. El poema no ofrece un tratado físico, pero sí presenta los fenómenos como criaturas que responden a su mandato: «envía su palabra y los derrite; sopla su viento y fluyen las aguas».
 
@@ -111,12 +111,12 @@ El cierre «no hizo así con ninguna otra nación» explica la responsabilidad d
 
 | Unidad textual     | Observación concreta de Eric                                                                                                                 | Evaluación frente al texto                                                                                                                         |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_147_1     | Aleluya debe decirse con conciencia de la victoria de יהוה, no como fórmula automática; la melodía ofrece lo mejor.                          | El imperativo y la bondad de la alabanza son textuales; la victoria sobre la muerte y el tributo son aplicación y ampliación pedagógica.           |
-| #tehilim_147_2-3   | יהוה es edificador presente de Jerusalén y reúne a los empujados; sana y venda los corazones quebrados, con una intervención que protege.    | La edificación, reunión, sanidad y vendaje aparecen en el texto; la continuidad diaria y el tratamiento detallado son inferencias calificadas.     |
-| #tehilim_147_4-6   | Sólo יהוה cuenta y nombra estrellas, sostiene a los mansos y baja a los malvados; «resiliencia» describe su sostén.                          | Conteo, nombres y contraste aparecen en el salmo; Daniel 12 y la resiliencia son conexiones pedagógicas.                                           |
-| #tehilim_147_7-11  | La lluvia, hierba y alimento parecen naturales, pero muestran la orquestación de יהוה; alimentar cuervos sostiene la confianza del creyente. | La providencia está textual; los detalles de ajuste cósmico y la identificación de «hijos del cuervo» son aplicaciones, no definiciones del verso. |
-| #tehilim_147_12-14 | La ciudad fortalecida y el shalom muestran que la alabanza llega a una comunidad protegida y saciada.                                        | Puertas, hijos, límites, shalom y trigo son textuales; la prosperidad individual no se sigue automáticamente.                                      |
-| #tehilim_147_15-20 | La palabra gobierna nieve, hielo, viento y aguas, y el privilegio mayor es que יהוה revele sus estatutos a Yaakov.                           | La secuencia natural y la revelación a Israel son explícitas; la extensión mesiánica es conexión canónica.                                         |
+| #salmos_147_1     | Aleluya debe decirse con conciencia de la victoria de יהוה, no como fórmula automática; la melodía ofrece lo mejor.                          | El imperativo y la bondad de la alabanza son textuales; la victoria sobre la muerte y el tributo son aplicación y ampliación pedagógica.           |
+| #salmos_147_2-3   | יהוה es edificador presente de Jerusalén y reúne a los empujados; sana y venda los corazones quebrados, con una intervención que protege.    | La edificación, reunión, sanidad y vendaje aparecen en el texto; la continuidad diaria y el tratamiento detallado son inferencias calificadas.     |
+| #salmos_147_4-6   | Sólo יהוה cuenta y nombra estrellas, sostiene a los mansos y baja a los malvados; «resiliencia» describe su sostén.                          | Conteo, nombres y contraste aparecen en el salmo; Daniel 12 y la resiliencia son conexiones pedagógicas.                                           |
+| #salmos_147_7-11  | La lluvia, hierba y alimento parecen naturales, pero muestran la orquestación de יהוה; alimentar cuervos sostiene la confianza del creyente. | La providencia está textual; los detalles de ajuste cósmico y la identificación de «hijos del cuervo» son aplicaciones, no definiciones del verso. |
+| #salmos_147_12-14 | La ciudad fortalecida y el shalom muestran que la alabanza llega a una comunidad protegida y saciada.                                        | Puertas, hijos, límites, shalom y trigo son textuales; la prosperidad individual no se sigue automáticamente.                                      |
+| #salmos_147_15-20 | La palabra gobierna nieve, hielo, viento y aguas, y el privilegio mayor es que יהוה revele sus estatutos a Yaakov.                           | La secuencia natural y la revelación a Israel son explícitas; la extensión mesiánica es conexión canónica.                                         |
 
 ## Pendiente de verificar
 

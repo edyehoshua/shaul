@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 24:7-14 sobre sabiduría, juicio, responsabilid
 date: 2026-08-05
 tags: [mishlei, mishlei_24, sabiduria, disciplina, juicio, rescate, miel]
 references:
-  - "#mishlei_24_7"
-  - "#mishlei_24_8"
-  - "#mishlei_24_9"
-  - "#mishlei_24_10"
-  - "#mishlei_24_11"
-  - "#mishlei_24_12"
-  - "#mishlei_24_13"
-  - "#mishlei_24_14"
-  - "#mishlei_9_1"
+  - "#proverbios_24_7"
+  - "#proverbios_24_8"
+  - "#proverbios_24_9"
+  - "#proverbios_24_10"
+  - "#proverbios_24_11"
+  - "#proverbios_24_12"
+  - "#proverbios_24_13"
+  - "#proverbios_24_14"
+  - "#proverbios_9_1"
   - "#salmos_46_1"
   - "#salmos_119_103"
 sources:
@@ -36,14 +36,14 @@ Esta nota organiza la clase sobre Mishlei 24:7-14, desde el dicho de las perlas 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_24_7 | ראמות לאויל חכמות בשער לא יפתח פיהו | Perlas es para el indisciplinado la Sabiduría, en la puerta no abrirá su boca. |
-| #mishlei_24_8 | מחשב להרעה לו בעל מזמות יקראו | El que piensa para el mal, señor de artimañas se le llamará. |
-| #mishlei_24_9 | זמת אולת חטאת ותועבת לאדם לץ | La artimaña del indisciplinado es pecado, y la abominación es para el hombre burlador. |
-| #mishlei_24_10 | התרפית ביום צרה צר כחכה | Has demostrado ser débil en el día de estrechez, estrecha es tu fuerza. |
-| #mishlei_24_11 | הצל לקחים למות ומטים להרג אם תחשוך | Rescata a los que son tomados para muerte y a los que tropiezan para masacre, ¡si te retendrías! |
-| #mishlei_24_12 | כי תאמר הן לא ידענו זה הלא תכן לבות הוא יבין ונצר נפשך הוא ידע והשיב לאדם כפעלו | Porque dirás: He aquí, no sabía esto. ¿No discierne el que pesa los corazones, y sabe el que vigila tu ser, y el que devuelve al hombre conforme a su obra? |
-| #mishlei_24_13 | אכל בני דבש כי טוב ונפת מתוק על חכך | Come, hijo mío, miel, porque es bueno; y la miel que fluye es dulce sobre tu paladar. |
-| #mishlei_24_14 | כן דעה חכמה לנפשך אם מצאת ויש אחרית ותקותך לא תכרת | Así debes conocer la sabiduría para tu ser; si la hallas, habrá un final, y tu esperanza no será cortada. |
+| #proverbios_24_7 | ראמות לאויל חכמות בשער לא יפתח פיהו | Perlas es para el indisciplinado la Sabiduría, en la puerta no abrirá su boca. |
+| #proverbios_24_8 | מחשב להרעה לו בעל מזמות יקראו | El que piensa para el mal, señor de artimañas se le llamará. |
+| #proverbios_24_9 | זמת אולת חטאת ותועבת לאדם לץ | La artimaña del indisciplinado es pecado, y la abominación es para el hombre burlador. |
+| #proverbios_24_10 | התרפית ביום צרה צר כחכה | Has demostrado ser débil en el día de estrechez, estrecha es tu fuerza. |
+| #proverbios_24_11 | הצל לקחים למות ומטים להרג אם תחשוך | Rescata a los que son tomados para muerte y a los que tropiezan para masacre, ¡si te retendrías! |
+| #proverbios_24_12 | כי תאמר הן לא ידענו זה הלא תכן לבות הוא יבין ונצר נפשך הוא ידע והשיב לאדם כפעלו | Porque dirás: He aquí, no sabía esto. ¿No discierne el que pesa los corazones, y sabe el que vigila tu ser, y el que devuelve al hombre conforme a su obra? |
+| #proverbios_24_13 | אכל בני דבש כי טוב ונפת מתוק על חכך | Come, hijo mío, miel, porque es bueno; y la miel que fluye es dulce sobre tu paladar. |
+| #proverbios_24_14 | כן דעה חכמה לנפשך אם מצאת ויש אחרית ותקותך לא תכרת | Así debes conocer la sabiduría para tu ser; si la hallas, habrá un final, y tu esperanza no será cortada. |
 
 ## La sabiduría no se entrega al que rechaza la disciplina
 
@@ -91,26 +91,26 @@ Eric advierte que algo puede ser agradable a los sentidos y no nutrir realmente 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_24_7 | Las perlas representan sabiduría desperdiciada por el indisciplinado; la puerta es tribunal. | Apoyo en la traducción TTH; aplicación judicial y etimología pendientes. |
-| #mishlei_24_8-9 | El que medita planes malos recibe el nombre de señor de artimañas; la artimaña del necio es pecado. | Apoyo textual; identificación de nombres en clave calificada. |
-| #mishlei_24_10-12 | La debilidad humana no excusa dejar de rescatar; יהוה pesa corazones y juzga obras. | Apoyo textual; aplicación evangelizadora y escatológica atribuida. |
-| #mishlei_24_13-14 | La miel representa la palabra que despierta el paladar y produce discernimiento y esperanza. | Metáfora pedagógica; conexión con Torah y Salmos calificada. |
+| #proverbios_24_7 | Las perlas representan sabiduría desperdiciada por el indisciplinado; la puerta es tribunal. | Apoyo en la traducción TTH; aplicación judicial y etimología pendientes. |
+| #proverbios_24_8-9 | El que medita planes malos recibe el nombre de señor de artimañas; la artimaña del necio es pecado. | Apoyo textual; identificación de nombres en clave calificada. |
+| #proverbios_24_10-12 | La debilidad humana no excusa dejar de rescatar; יהוה pesa corazones y juzga obras. | Apoyo textual; aplicación evangelizadora y escatológica atribuida. |
+| #proverbios_24_13-14 | La miel representa la palabra que despierta el paladar y produce discernimiento y esperanza. | Metáfora pedagógica; conexión con Torah y Salmos calificada. |
 
 ## Pendiente de verificar
 
 - [ ] Cotejar **(ראמות)** en Job y en léxicos hebreos para decidir si “perlas” es el sentido contextual seguro o una interpretación discutida.
 - [ ] Verificar la función histórica de la puerta como tribunal de ancianos con una fuente documentada.
 - [ ] Revisar el rango de **(מזמה)**, **(זמה)** y **(תועבה)** sin convertir asociaciones contextuales en definiciones únicas.
-- [ ] Cotejar la afirmación gramatical sobre la ausencia de un condicional en #mishlei_24_10.
+- [ ] Cotejar la afirmación gramatical sobre la ausencia de un condicional en #proverbios_24_10.
 - [ ] Verificar la conexión etimológica entre paladar, miel y la educación del niño antes de usarla fuera de esta aplicación pedagógica.
 - [ ] Localizar las referencias exactas de la exposición sobre la “piedra angular” y las perlas, mencionadas sin cita completa.
 
 ## Conexiones principales
 
-- #mishlei_9_1: la Sabiduría edifica su casa; ilumina la imagen de recibir una sabiduría valiosa.
+- #proverbios_9_1: la Sabiduría edifica su casa; ilumina la imagen de recibir una sabiduría valiosa.
 - #salmos_46_1: יהוה es refugio y fuerza en la estrechez.
-- #salmos_119_103: la palabra es dulce como miel; conexión intertextual con #mishlei_24_13.
-- #yeshayahu_58_6: el rescate de los oprimidos es una conexión temática propuesta por la clase, pendiente de desarrollar textualmente.
+- #salmos_119_103: la palabra es dulce como miel; conexión intertextual con #proverbios_24_13.
+- #isaias_58_6: el rescate de los oprimidos es una conexión temática propuesta por la clase, pendiente de desarrollar textualmente.
 
 ## Conclusión
 

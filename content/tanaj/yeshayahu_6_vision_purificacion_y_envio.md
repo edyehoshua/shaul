@@ -3,7 +3,7 @@ title: "Visión, purificación y envío"
 description: "Isaías 6 une la visión de la santidad de יהוה con el envío del profeta."
 date: 2026-07-27
 tags: [tanaj, yeshayahu, haftarah, yitro]
-references: ["#ieshaiahu_6_8"]
+references: ["#isaias_6_8"]
 sources:
   - "https://www.youtube.com/watch?v=CVrudlDQrPA"
   - "docs/scriptures/oe/json/isaiah/6.json"
@@ -19,7 +19,7 @@ Isaías 6 muestra que el envío profético nace de una visión de la santidad de
 
 | Referencia     | Texto hebreo local                                                  | Observación                                          |
 | -------------- | ------------------------------------------------------------------- | ---------------------------------------------------- |
-| #ieshaiahu_6_8 | ואשמע את קול אדני אמר את מי אשלח ומי ילך לנו ואמר הנני שלחני | El profeta responde al llamado después de la visión. |
+| #isaias_6_8 | ואשמע את קול אדני אמר את מי אשלח ומי ילך לנו ואמר הנני שלחני | El profeta responde al llamado después de la visión. |
 
 ## Lectura
 

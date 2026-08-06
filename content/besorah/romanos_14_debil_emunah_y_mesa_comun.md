@@ -27,8 +27,8 @@ references:
   - "#romanos_15_5"
   - "#romanos_15_6"
   - "#romanos_15_7"
-  - "#maasei_10_28"
-  - "#maasei_15_19"
+  - "#hechos_10_28"
+  - "#hechos_15_19"
 sources:
   - "https://www.youtube.com/watch?v=PCWtwSVbOxI"
   - "https://www.youtube.com/watch?v=tsyPWt0oNyA"

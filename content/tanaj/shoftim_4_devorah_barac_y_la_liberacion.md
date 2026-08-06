@@ -8,10 +8,10 @@ tags:
   - beshallach
   - liberacion
 references:
-  - "#judges_4_1"
-  - "#judges_4_3-5"
-  - "#judges_4_23-24"
-  - "#judges_5_1-5"
+  - "#jueces_4_1"
+  - "#jueces_4_3-5"
+  - "#jueces_4_23-24"
+  - "#jueces_5_1-5"
 sources:
   - "https://www.youtube.com/watch?v=HCQAeHF7SYQ"
   - "docs/scriptures/oe/json/judges/4.json"
@@ -33,30 +33,30 @@ La clase aborda Shoftim 4–5 dentro de la haftará de Beshallach, con atención
 
 | Referencia      | Texto local (OE, sin nikud)                                                                                                                                                                                                            | Observación                                                                |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #judges_4_1     | **ויספו בני ישראל לעשות הרע בעיני יהוה ואהוד מת**                                                                                                                                                                                      | El relato sitúa la nueva opresión en el marco de la infidelidad de Israel. |
-| #judges_4_3-5   | **ויצעקו בני ישראל אל יהוה כי תשע מאות רכב ברזל לו והוא לחץ את בני ישראל בחזקה עשרים שנה. ודבורה אשה נביאה אשת לפידות היא שפטה את ישראל בעת ההיא. והיא יושבת תחת תמר דבורה בין הרמה ובין בית אל בהר אפרים ויעלו אליה בני ישראל למשפט** | El texto nombra la presión, el clamor y la función pública de Devorah.     |
-| #judges_4_23-24 | **ויכנע אלהים ביום ההוא את יבין מלך כנען לפני בני ישראל. ותלך יד בני ישראל הלוך וקשה על יבין מלך כנען עד אשר הכריתו את יבין מלך כנען**                                                                                                 | La conclusión explícita atribuye el sometimiento de Yabín a Elohim.        |
-| #judges_5_1-3   | **ותשר דבורה וברק בן אבינעם ביום ההוא לאמר. בפרע פרעות בישראל בהתנדב עם ברכו יהוה. שמעו מלכים האזינו רזנים אנכי ליהוה אנכי אשירה אזמר ליהוה אלהי ישראל**                                                                               | El canto interpreta la liberación como alabanza a יהוה.                    |
+| #jueces_4_1     | **ויספו בני ישראל לעשות הרע בעיני יהוה ואהוד מת**                                                                                                                                                                                      | El relato sitúa la nueva opresión en el marco de la infidelidad de Israel. |
+| #jueces_4_3-5   | **ויצעקו בני ישראל אל יהוה כי תשע מאות רכב ברזל לו והוא לחץ את בני ישראל בחזקה עשרים שנה. ודבורה אשה נביאה אשת לפידות היא שפטה את ישראל בעת ההיא. והיא יושבת תחת תמר דבורה בין הרמה ובין בית אל בהר אפרים ויעלו אליה בני ישראל למשפט** | El texto nombra la presión, el clamor y la función pública de Devorah.     |
+| #jueces_4_23-24 | **ויכנע אלהים ביום ההוא את יבין מלך כנען לפני בני ישראל. ותלך יד בני ישראל הלוך וקשה על יבין מלך כנען עד אשר הכריתו את יבין מלך כנען**                                                                                                 | La conclusión explícita atribuye el sometimiento de Yabín a Elohim.        |
+| #jueces_5_1-3   | **ותשר דבורה וברק בן אבינעם ביום ההוא לאמר. בפרע פרעות בישראל בהתנדב עם ברכו יהוה. שמעו מלכים האזינו רזנים אנכי ליהוה אנכי אשירה אזמר ליהוה אלהי ישראל**                                                                               | El canto interpreta la liberación como alabanza a יהוה.                    |
 
 ## El relato no comienza con la batalla
 
-El capítulo abre con el mal de Israel ante los ojos de יהוה, la dominación cananea y el clamor del pueblo (#judges_4_1-3). Antes de describir estrategia o victoria, nombra a Devorah como profetisa y jueza, y muestra a Israel subiendo a ella para juicio (#judges_4_4-5). Por ello, reducir el pasaje a una técnica militar o a un modelo simple de liderazgo pierde el marco narrativo: el texto une crisis moral, discernimiento y liberación.
+El capítulo abre con el mal de Israel ante los ojos de יהוה, la dominación cananea y el clamor del pueblo (#jueces_4_1-3). Antes de describir estrategia o victoria, nombra a Devorah como profetisa y jueza, y muestra a Israel subiendo a ella para juicio (#jueces_4_4-5). Por ello, reducir el pasaje a una técnica militar o a un modelo simple de liderazgo pierde el marco narrativo: el texto une crisis moral, discernimiento y liberación.
 
 La clase invita a considerar el tiempo y el lugar de יהוה. Esa aplicación debe permanecer subordinada al relato: no autoriza a identificar automáticamente las crisis actuales con Sisera, Yabín o una tribu concreta. El pasaje sí llama a recibir con seriedad la instrucción de יהוה y a reconocer que Israel no se libra por su propio poder.
 
 ## Devorah, Barac y la acción de יהוה
 
-Devorah transmite la orden a Barac y anuncia que Sisera será entregado; Barac responde pidiendo que ella vaya con él (#judges_4_6-9). El relato conserva la agencia de Devorah, Barac, Yael y las tribus, pero no desplaza su centro: al final declara que Elohim humilló a Yabín (#judges_4_23). La participación humana no compite con la iniciativa de יהוה.
+Devorah transmite la orden a Barac y anuncia que Sisera será entregado; Barac responde pidiendo que ella vaya con él (#jueces_4_6-9). El relato conserva la agencia de Devorah, Barac, Yael y las tribus, pero no desplaza su centro: al final declara que Elohim humilló a Yabín (#jueces_4_23). La participación humana no compite con la iniciativa de יהוה.
 
-Shoftim 5 no reemplaza el capítulo narrativo; lo relee como canto. Su apertura convoca a reyes y príncipes a escuchar y dirige el canto a יהוה, Elohim de Israel (#judges_5_1-3). La conexión con Beshallach es temática y litúrgica: después de una liberación, la Escritura da lugar al testimonio cantado. No debe tratarse como identidad total entre ambos episodios sin examinar sus contextos propios.
+Shoftim 5 no reemplaza el capítulo narrativo; lo relee como canto. Su apertura convoca a reyes y príncipes a escuchar y dirige el canto a יהוה, Elohim de Israel (#jueces_5_1-3). La conexión con Beshallach es temática y litúrgica: después de una liberación, la Escritura da lugar al testimonio cantado. No debe tratarse como identidad total entre ambos episodios sin examinar sus contextos propios.
 
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual         | Observación concreta de la clase                                                                                                                                 | Tratamiento frente al texto local                                                                                                                                                                           |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #judges_4_1-5          | Eric sitúa la opresión después de que Israel vuelve a hacer el mal y llama a leer la crisis desde el juicio de Devorah, no desde una estrategia militar aislada. | El texto confirma la secuencia maldad-opresión-clamor y presenta a Devorah como profetisa y jueza; la aplicación contemporánea sobre escuchar a יהוה queda subordinada al relato.                           |
-| #judges_4_6-16         | La clase observa que Barac recibe una palabra concreta, pero pide que Devorah suba con él; la victoria no se explica como autosuficiencia del ejército.          | La orden, la respuesta de Barac y la entrega de Sisera se siguen en orden; la participación humana se reconoce sin quitar a יהוה la iniciativa que el capítulo afirma.                                      |
-| #judges_4_17-24; 5_1-3 | Eric enlaza el desenlace de Yael y la caída de Yabín con el canto posterior: una liberación recibida debe ser recordada y cantada ante יהוה.                     | Shoftim 4 termina atribuyendo el sometimiento a Elohim y Shoftim 5 comienza con alabanza; la conexión litúrgica está apoyada, mientras las equivalencias con Beshallach se mantienen como lectura canónica. |
+| #jueces_4_1-5          | Eric sitúa la opresión después de que Israel vuelve a hacer el mal y llama a leer la crisis desde el juicio de Devorah, no desde una estrategia militar aislada. | El texto confirma la secuencia maldad-opresión-clamor y presenta a Devorah como profetisa y jueza; la aplicación contemporánea sobre escuchar a יהוה queda subordinada al relato.                           |
+| #jueces_4_6-16         | La clase observa que Barac recibe una palabra concreta, pero pide que Devorah suba con él; la victoria no se explica como autosuficiencia del ejército.          | La orden, la respuesta de Barac y la entrega de Sisera se siguen en orden; la participación humana se reconoce sin quitar a יהוה la iniciativa que el capítulo afirma.                                      |
+| #jueces_4_17-24; 5_1-3 | Eric enlaza el desenlace de Yael y la caída de Yabín con el canto posterior: una liberación recibida debe ser recordada y cantada ante יהוה.                     | Shoftim 4 termina atribuyendo el sometimiento a Elohim y Shoftim 5 comienza con alabanza; la conexión litúrgica está apoyada, mientras las equivalencias con Beshallach se mantienen como lectura canónica. |
 
 ## Pendiente de verificar
 

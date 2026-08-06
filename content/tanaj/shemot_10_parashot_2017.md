@@ -6,7 +6,7 @@ tags:
   - parashot
   - shemot
 references:
-  - "#shemot_10_1"
+  - "#exodo_10_1"
 sources:
   - "https://www.youtube.com/watch?v=z3uckjZAVnQ"
   - "docs/scriptures/oe/json/exodus/10.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 10 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                       | Observación                                                                                           |
 | ------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_10_1 | **ויאמר יהוה אל משה בא אל פרעה כי אני הכבדתי את לבו ואת לב עבדיו למען שתי אתתי אלה בקרבו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #exodo_10_1 | **ויאמר יהוה אל משה בא אל פרעה כי אני הכבדתי את לבו ואת לב עבדיו למען שתי אתתי אלה בקרבו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

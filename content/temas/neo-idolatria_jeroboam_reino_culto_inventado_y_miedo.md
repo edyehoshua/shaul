@@ -10,19 +10,19 @@ tags:
   - idolatria
   - melajim-alef
 references:
-  - "#melajim_alef_11_29"
-  - "#melajim_alef_11_31"
-  - "#melajim_alef_11_38"
-  - "#melajim_alef_12_26"
-  - "#melajim_alef_12_28"
-  - "#melajim_alef_12_30"
-  - "#melajim_alef_12_32"
-  - "#melajim_alef_14_7"
-  - "#melajim_alef_14_9"
-  - "#melajim_alef_14_13"
-  - "#melajim_alef_14_16"
-  - "#divrei_hayamim_bet_11_13"
-  - "#divrei_hayamim_bet_11_16"
+  - "#1_reyes_11_29"
+  - "#1_reyes_11_31"
+  - "#1_reyes_11_38"
+  - "#1_reyes_12_26"
+  - "#1_reyes_12_28"
+  - "#1_reyes_12_30"
+  - "#1_reyes_12_32"
+  - "#1_reyes_14_7"
+  - "#1_reyes_14_9"
+  - "#1_reyes_14_13"
+  - "#1_reyes_14_16"
+  - "#2_cronicas_11_13"
+  - "#2_cronicas_11_16"
 sources:
   - "https://www.youtube.com/watch?v=E-VB-m-v_vc"
   - "docs/scriptures/tth/json/melajim_alef.json"
@@ -44,35 +44,35 @@ Esta nota organiza la clase pública «NEOIDOLATRY, Israel and the Legacy of Nat
 
 | Referencia | Texto TTH local | Función en el argumento |
 | --- | --- | --- |
-| #melajim_alef_11_29-35 | «Y agarró Ajiyah el vestido nuevo que tenía sobre sí, y lo rasgó en doce pedazos... Yo arrancaré el reino de la mano de Shelomóh, y daré a ti diez tribus» | La división es anunciada por יהוה y no nace de la auto-proclamación de Jeroboam. |
-| #melajim_alef_11_37-39 | «Y a ti te tomaré, y reinarás... si escuchas todo lo que te ordeno... edificaré para ti una casa firme» | El don del reino incluye una condición de obediencia. |
-| #melajim_alef_12_26-33 | «Y dijo Iarobam en su corazón: Ahora volverá el reino a la casa de David... hizo dos becerros de oro... uno en Betel, y uno en Dan» | El temor por la estabilidad política produce culto fabricado. |
-| #melajim_alef_14_7-10 | «Porque te elevé de entre el pueblo y te puse como líder... hiciste para ti otros dioses e imágenes fundidas» | El juicio compara el encargo recibido con la infidelidad concreta. |
-| #melajim_alef_14_12-16 | «Pues fue hallado en él algo bueno hacia יהוה... y entregará a Israel a causa de los pecados de Iarobam» | El juicio sobre la casa no borra la misericordia señalada en el hijo ni la responsabilidad colectiva. |
+| #1_reyes_11_29-35 | «Y agarró Ajiyah el vestido nuevo que tenía sobre sí, y lo rasgó en doce pedazos... Yo arrancaré el reino de la mano de Shelomóh, y daré a ti diez tribus» | La división es anunciada por יהוה y no nace de la auto-proclamación de Jeroboam. |
+| #1_reyes_11_37-39 | «Y a ti te tomaré, y reinarás... si escuchas todo lo que te ordeno... edificaré para ti una casa firme» | El don del reino incluye una condición de obediencia. |
+| #1_reyes_12_26-33 | «Y dijo Yarobam en su corazón: Ahora volverá el reino a la casa de David... hizo dos becerros de oro... uno en Betel, y uno en Dan» | El temor por la estabilidad política produce culto fabricado. |
+| #1_reyes_14_7-10 | «Porque te elevé de entre el pueblo y te puse como líder... hiciste para ti otros dioses e imágenes fundidas» | El juicio compara el encargo recibido con la infidelidad concreta. |
+| #1_reyes_14_12-16 | «Pues fue hallado en él algo bueno hacia יהוה... y entregará a Israel a causa de los pecados de Yarobam» | El juicio sobre la casa no borra la misericordia señalada en el hijo ni la responsabilidad colectiva. |
 
 ## De siervo levantado a rival de la casa de David
 
-Eric presenta a Jeroboam como un hombre fuerte y hacendoso de Efraim a quien Shelomóh había puesto sobre trabajadores. La clase relaciona su nombre hebreo con el pueblo que contiende o disputa; esa explicación onomástica ayuda a leer el conflicto, pero no se presenta aquí como una etimología concluyente. El texto seguro es que Ajiyah rasga un vestido nuevo en doce pedazos y entrega diez a Jeroboam (#melajim_alef_11_29-35). El reino le es dado por una palabra profética, no por una maniobra independiente de poder.
+Eric presenta a Jeroboam como un hombre fuerte y hacendoso de Efraim a quien Shelomóh había puesto sobre trabajadores. La clase relaciona su nombre hebreo con el pueblo que contiende o disputa; esa explicación onomástica ayuda a leer el conflicto, pero no se presenta aquí como una etimología concluyente. El texto seguro es que Ajiyah rasga un vestido nuevo en doce pedazos y entrega diez a Jeroboam (#1_reyes_11_29-35). El reino le es dado por una palabra profética, no por una maniobra independiente de poder.
 
-La promesa es más amplia que la corona. יהוה dice: «si escuchas todo lo que te ordeno... para guardar mis estatutos y mis mandamientos... edificaré para ti una casa firme» (#melajim_alef_11_38). Eric subraya que Jeroboam recibió una oportunidad semejante a la estabilidad concedida a David, aunque no idéntica en la historia de la promesa. La lectura debe conservar el condicional: tener pueblo, territorio y autoridad no equivale a estar aprobado. El liderazgo delegado sigue bajo la palabra que lo entregó.
+La promesa es más amplia que la corona. יהוה dice: «si escuchas todo lo que te ordeno... para guardar mis estatutos y mis mandamientos... edificaré para ti una casa firme» (#1_reyes_11_38). Eric subraya que Jeroboam recibió una oportunidad semejante a la estabilidad concedida a David, aunque no idéntica en la historia de la promesa. La lectura debe conservar el condicional: tener pueblo, territorio y autoridad no equivale a estar aprobado. El liderazgo delegado sigue bajo la palabra que lo entregó.
 
 ## Rejabam y el consejo que convierte el gobierno en carga
 
 Al morir Shelomóh, Rejabam recibe la petición del pueblo en Shejem. La clase contrasta el consejo de los ancianos con el de los jóvenes que habían crecido con el nuevo rey. El texto de esta nota se concentra en el resultado narrado: Rejabam abandona la respuesta que podía aliviar la carga y anuncia una disciplina más pesada. La sabiduría no se define automáticamente por la edad; Eric aplica el episodio a la necesidad de discernir si un consejo está conforme a la Torah o simplemente expresa dureza, orgullo y deseo de dominar.
 
-La separación no cae del cielo como un accidente instantáneo. La exposición recuerda el grito de Sheva: «no tenemos parte con David» (2 Samuel 20:1), como antecedente de una tensión entre Israel y la casa de David. Esa conexión histórica es una observación de continuidad narrativa, no una afirmación de que la división ya estuviera completa en ese momento. Melajim Alef presenta finalmente a Jeroboam reinando sobre las diez tribus, mientras la casa de David conserva una tribu por causa de David y de Yerushaláim (#melajim_alef_11_32-35).
+La separación no cae del cielo como un accidente instantáneo. La exposición recuerda el grito de Sheva: «no tenemos parte con David» (2 Samuel 20:1), como antecedente de una tensión entre Israel y la casa de David. Esa conexión histórica es una observación de continuidad narrativa, no una afirmación de que la división ya estuviera completa en ese momento. Melajim Alef presenta finalmente a Jeroboam reinando sobre las diez tribus, mientras la casa de David conserva una tribu por causa de David y de Yerushaláim (#1_reyes_11_32-35).
 
 ## Cuando el miedo inventa una alternativa religiosa
 
-La razón que Jeroboam formula en su corazón es reveladora: si el pueblo sube a ofrecer sacrificios en Yerushaláim, su corazón volverá a Rejabam y él perderá el reino (#melajim_alef_12_26-27). No recibe de יהוה una orden para resolver ese temor. En cambio, pide consejo, hace dos becerros de oro y proclama: «he aquí tu Elohim, Israel, que te hizo subir de la tierra de Mitzráim» (#melajim_alef_12_28). El lenguaje recuerda el becerro del desierto, pero la repetición no transforma automáticamente todos los detalles en una explicación histórica cerrada.
+La razón que Jeroboam formula en su corazón es reveladora: si el pueblo sube a ofrecer sacrificios en Yerushaláim, su corazón volverá a Rejabam y él perderá el reino (#1_reyes_12_26-27). No recibe de יהוה una orden para resolver ese temor. En cambio, pide consejo, hace dos becerros de oro y proclama: «he aquí tu Elohim, Israel, que te hizo subir de la tierra de Mitzráim» (#1_reyes_12_28). El lenguaje recuerda el becerro del desierto, pero la repetición no transforma automáticamente todos los detalles en una explicación histórica cerrada.
 
 La clase observa que Jeroboam no necesita declarar que dejó de servir a יהוה para fabricar idolatría. Puede mantener el nombre, conservar una memoria de la salida de Mitzráim y aun así establecer una forma de culto que יהוה no mandó. Esta es una advertencia pertinente para la neo-idolatría: una imagen, una liturgia, una autoridad autoproclamada o una práctica buscada para producir sensación de cercanía no se justifican porque el actor las llame servicio a Elohim. La pregunta textual es otra: ¿se camina en los caminos y mandamientos recibidos?
 
-Jeroboam instala un becerro en Betel y otro en Dan. Después construye una casa de lugares altos, designa sacerdotes que no eran hijos de Leví y fabrica una fiesta en el mes octavo, «el mes que había inventado de su corazón» (#melajim_alef_12_29-33). El pecado, por tanto, no es una sola imagen aislada: es un sistema alternativo que incluye lugares, ministros, calendario y autoridad ritual. La innovación sirve al miedo político y termina gobernando la conciencia del pueblo.
+Jeroboam instala un becerro en Betel y otro en Dan. Después construye una casa de lugares altos, designa sacerdotes que no eran hijos de Leví y fabrica una fiesta en el mes octavo, «el mes que había inventado de su corazón» (#1_reyes_12_29-33). El pecado, por tanto, no es una sola imagen aislada: es un sistema alternativo que incluye lugares, ministros, calendario y autoridad ritual. La innovación sirve al miedo político y termina gobernando la conciencia del pueblo.
 
 ## El remanente que no acepta el culto del palacio
 
-Eric destaca que, frente al culto estatal, los sacerdotes y levitas dejaron sus posesiones y fueron a Judá y Yerushaláim. Divrei HaYamim Bet dice que Jeroboam y sus hijos los habían excluido del ministerio de יהוה, y que otros israelitas con el corazón dispuesto a buscar a יהוה también se dirigieron a Jerusalén (#divrei_hayamim_bet_11_13-17). El pasaje no permite concluir que toda la población aceptara de corazón la reforma de Jeroboam. La política religiosa del rey podía ser visible y extensa, mientras existían personas que juzgaban el culto por la palabra recibida.
+Eric destaca que, frente al culto estatal, los sacerdotes y levitas dejaron sus posesiones y fueron a Judá y Yerushaláim. Divrei HaYamim Bet dice que Jeroboam y sus hijos los habían excluido del ministerio de יהוה, y que otros israelitas con el corazón dispuesto a buscar a יהוה también se dirigieron a Jerusalén (#2_cronicas_11_13-17). El pasaje no permite concluir que toda la población aceptara de corazón la reforma de Jeroboam. La política religiosa del rey podía ser visible y extensa, mientras existían personas que juzgaban el culto por la palabra recibida.
 
 La clase aplica esta escena a los líderes que ofrecen al público lo que este desea: liturgia, misticismo, promesas de poder o teorías atractivas, en vez de la confrontación de la Torah. La aplicación es pastoral y contemporánea; el texto antiguo sí aporta el patrón de fondo: un dirigente altera el servicio para retener a la gente, y algunos prefieren abandonar el centro de poder antes que participar en el culto inventado.
 
@@ -80,7 +80,7 @@ La clase aplica esta escena a los líderes que ofrecen al público lo que este d
 
 Cuando el hijo de Jeroboam enferma, el rey envía a su esposa disfrazada a Ajiyah. Eric interpreta ese disfraz como señal de un hombre que no quiere escuchar directamente la palabra que lo confronta. El texto afirma el dato de la consulta y del juicio, pero no demuestra por sí solo la motivación interior completa; esa lectura se conserva como inferencia atribuible.
 
-La profecía recuerda el don recibido y acusa la respuesta: Jeroboam hizo otros dioses, imágenes fundidas y arrojó a יהוה detrás de sus espaldas (#melajim_alef_14_7-10). Sin embargo, sobre el hijo se dice que fue hallado en él algo bueno hacia יהוה (#melajim_alef_14_13). Eric propone que ese bien puede mostrar una resistencia interior a la maldad del padre; el verso no especifica cuál fue ese bien, por lo que la nota no lo convierte en una descripción biográfica. La misericordia señalada no cancela el juicio sobre la casa: Israel será entregado «a causa de los pecados de Iarobam, que pecó y que hizo pecar a Israel» (#melajim_alef_14_16).
+La profecía recuerda el don recibido y acusa la respuesta: Jeroboam hizo otros dioses, imágenes fundidas y arrojó a יהוה detrás de sus espaldas (#1_reyes_14_7-10). Sin embargo, sobre el hijo se dice que fue hallado en él algo bueno hacia יהוה (#1_reyes_14_13). Eric propone que ese bien puede mostrar una resistencia interior a la maldad del padre; el verso no especifica cuál fue ese bien, por lo que la nota no lo convierte en una descripción biográfica. La misericordia señalada no cancela el juicio sobre la casa: Israel será entregado «a causa de los pecados de Yarobam, que pecó y que hizo pecar a Israel» (#1_reyes_14_16).
 
 ## Hoja léxica
 
@@ -104,8 +104,8 @@ La profecía recuerda el don recibido y acusa la respuesta: Jeroboam hizo otros 
 
 - [[neo-idolatria_casa_de_omri_y_reino_del_norte|La casa de Omri y la idolatría puesta en el trono]].
 - [[neo-idolatria_sincretismo_babel_israel_y_purificacion|Sincretismo, Babel, Israel y purificación]].
-- #shemot_32_4 — el lenguaje del becerro y la salida de Mitzráim como antecedente narrativo.
-- #divrei_hayamim_bet_11_13-17 — el desplazamiento de levitas y buscadores de יהוה hacia Jerusalén.
+- #exodo_32_4 — el lenguaje del becerro y la salida de Mitzráim como antecedente narrativo.
+- #2_cronicas_11_13-17 — el desplazamiento de levitas y buscadores de יהוה hacia Jerusalén.
 
 ## Pendiente de verificar
 

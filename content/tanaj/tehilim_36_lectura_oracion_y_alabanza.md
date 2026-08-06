@@ -10,9 +10,9 @@ tags:
   - hesed
   - vida
 references:
-  - "#tehilim_36_1-5"
-  - "#tehilim_36_6-10"
-  - "#tehilim_36_11-13"
+  - "#salmos_36_1-5"
+  - "#salmos_36_6-10"
+  - "#salmos_36_11-13"
 sources:
   - "https://www.youtube.com/watch?v=hJBGLZteDaI"
   - "docs/scriptures/oe/json/psalms/36.json"
@@ -33,12 +33,12 @@ La nota sigue los trece versículos en orden. La transcripción automática cont
 
 | Unidad            | Texto hebreo local (OE, normalizado)                                                              | Función en la lectura                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| #tehilim_36_1-5   | **נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו**; **דברי פיו און ומרמה**; **און יחשב על משכבו** | Retrato progresivo de la rebelión: ausencia de temor, habla engañosa y plan persistente. |
-| #tehilim_36_6-7   | **יהוה בהשמים חסדך אמונתך עד שחקים**; **צדקתך כהררי אל משפטך תהום רבה**                           | El poema gira hacia la escala cósmica del hesed, la fidelidad, la justicia y el juicio.  |
-| #tehilim_36_8-10  | **מה יקר חסדך אלהים**; **בני אדם בצל כנפיך יחסיון**; **כי עמך מקור חיים באורך נראה אור**          | יהוה ofrece refugio, abundancia, fuente de vida y luz.                                   |
-| #tehilim_36_11-13 | **משך חסדך לידעיך**; **אל תבואני רגל גאוה**; **שם נפלו פעלי און**                                 | Petición de perseverancia y cierre con la caída de los obradores de iniquidad.           |
+| #salmos_36_1-5   | **נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו**; **דברי פיו און ומרמה**; **און יחשב על משכבו** | Retrato progresivo de la rebelión: ausencia de temor, habla engañosa y plan persistente. |
+| #salmos_36_6-7   | **יהוה בהשמים חסדך אמונתך עד שחקים**; **צדקתך כהררי אל משפטך תהום רבה**                           | El poema gira hacia la escala cósmica del hesed, la fidelidad, la justicia y el juicio.  |
+| #salmos_36_8-10  | **מה יקר חסדך אלהים**; **בני אדם בצל כנפיך יחסיון**; **כי עמך מקור חיים באורך נראה אור**          | יהוה ofrece refugio, abundancia, fuente de vida y luz.                                   |
+| #salmos_36_11-13 | **משך חסדך לידעיך**; **אל תבואני רגל גאוה**; **שם נפלו פעלי און**                                 | Petición de perseverancia y cierre con la caída de los obradores de iniquidad.           |
 
-## 36:1-5 — El dicho de la rebelión y el corazón #tehilim_36_1-5
+## 36:1-5 — El dicho de la rebelión y el corazón #salmos_36_1-5
 
 Eric comienza señalando que el capítulo es corto pero está partido en dos movimientos: primero describe la naturaleza humana; después presenta la contraparte divina. También advierte que el v. 1 es difícil y que las traducciones castellanas pueden ocultar su forma. OE lee **נאם פשע לרשע בקרב לבי**, literalmente algo como «dicho/oráculo de la rebelión para el malvado en medio de mi corazón». La clase propone oírlo como el discurso de la rebelión dirigido al condenado que está dentro del corazón. Esa formulación es una **aproximación pedagógica** a una sintaxis discutida, no una traducción exacta que deba imponerse sobre el texto.
 
@@ -48,7 +48,7 @@ En vv. 3-5 la corrupción se vuelve conducta: el malvado se halaga a sí mismo, 
 
 La frase **על משכבו**, «sobre su lecho», muestra que el mal no es un accidente aislado: se piensa y se afirma en la intimidad. Eric usa esa continuidad para advertir sobre palabras, gestos y acciones que revelan un corazón no examinado. El v. 5 dice que el sujeto «no aborrece el mal»; la clase contrasta no amar el bien con un aborrecimiento activo. El texto permite la primera afirmación; la ampliación sobre las etapas de la conciencia queda como aplicación cualificada.
 
-## 36:6-10 — La escala del hesed y la fuente de vida #tehilim_36_6-10
+## 36:6-10 — La escala del hesed y la fuente de vida #salmos_36_6-10
 
 El v. 6 cambia abruptamente de la cama del malvado al cielo: **יהוה בהשמים חסדך אמונתך עד שחקים**, «יהוה, en los cielos está tu hesed; tu fidelidad llega hasta las nubes». Eric usa este contraste para mostrar que la descripción humana no tiene la última palabra. **חסד**, _hesed_, significa bondad leal, misericordia o fidelidad pactal; aquí su altura expresa amplitud y permanencia. Traducirlo solo como «amor» sería **reductivo**; «misericordia» es una aproximación válida, pero el término conserva la idea de lealtad bondadosa.
 
@@ -58,7 +58,7 @@ En los vv. 8-9 la imagen se vuelve habitable. Los seres humanos se refugian bajo
 
 El centro está en el v. 10: **כי עמך מקור חיים באורך נראה אור**, «porque contigo está la fuente de vida; en tu luz veremos luz». Eric vincula esta fuente con la vida que no se origina en la capacidad natural del ser humano y con una luz que permite discernir. **מקור**, _maqor_, significa fuente o manantial; **חיים**, _chayim_, vida; la metáfora presenta a יהוה como origen y provisión. La conexión con vida escatológica es **canónica y pedagógica**, no una reducción del verso a una doctrina que el contexto inmediato no desarrolla.
 
-## 36:11-13 — Petición contra el orgullo y caída del mal #tehilim_36_11-13
+## 36:11-13 — Petición contra el orgullo y caída del mal #salmos_36_11-13
 
 El v. 11 pide: **משך חסדך לידעיך**, «extiende tu hesed sobre los que te conocen», y justicia sobre los rectos de corazón. Eric usa «conocer» para hablar de una relación que recibe la bondad divina, no de mera información. **ידע**, _yada_, significa conocer, reconocer o tener relación; aquí la fuerza exacta debe leerse con el paralelismo, y «relación fiel» es una explicación **aproximada**.
 
@@ -81,10 +81,10 @@ El v. 13 cierra con una escena breve: allí caen los obradores de iniquidad, son
 
 | Unidad textual    | Observación concreta de la clase                                                                                                                        | Tratamiento frente al texto local                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_36_1-2   | Eric divide el capítulo en diagnóstico humano y contraparte divina, y pide empezar por uno mismo al leer «impío»; el corazón carece de temor de Elohim. | Apoyo textual y aclaración de la sintaxis difícil; el autoexamen se conserva como aplicación atribuida.                       |
-| #tehilim_36_3-5   | La clase explica la autoadulación, las palabras suaves y la iniquidad como patrones que pueden parecer buenos mientras se abandona el bien.             | Apoyo textual para engaño, lecho y maldad; **חלק** y la teoría de conciencia se marcan como aproximación pedagógica.          |
-| #tehilim_36_6-10  | Eric contrasta la naturaleza humana con el hesed que llega a los cielos, el refugio bajo las alas y la fuente de vida/luz.                              | Apoyo textual; se explican **חסד**, **מקור** y **אור**, y la extensión escatológica queda como conexión canónica cualificada. |
-| #tehilim_36_11-13 | La petición pide hesed para los que conocen a יהוה, protección frente al orgullo y caída de los obradores de iniquidad.                                 | Apoyo textual e inferencia pastoral sobre autosuficiencia; no se convierte el cierre en inmunidad inmediata al sufrimiento.   |
+| #salmos_36_1-2   | Eric divide el capítulo en diagnóstico humano y contraparte divina, y pide empezar por uno mismo al leer «impío»; el corazón carece de temor de Elohim. | Apoyo textual y aclaración de la sintaxis difícil; el autoexamen se conserva como aplicación atribuida.                       |
+| #salmos_36_3-5   | La clase explica la autoadulación, las palabras suaves y la iniquidad como patrones que pueden parecer buenos mientras se abandona el bien.             | Apoyo textual para engaño, lecho y maldad; **חלק** y la teoría de conciencia se marcan como aproximación pedagógica.          |
+| #salmos_36_6-10  | Eric contrasta la naturaleza humana con el hesed que llega a los cielos, el refugio bajo las alas y la fuente de vida/luz.                              | Apoyo textual; se explican **חסד**, **מקור** y **אור**, y la extensión escatológica queda como conexión canónica cualificada. |
+| #salmos_36_11-13 | La petición pide hesed para los que conocen a יהוה, protección frente al orgullo y caída de los obradores de iniquidad.                                 | Apoyo textual e inferencia pastoral sobre autosuficiencia; no se convierte el cierre en inmunidad inmediata al sufrimiento.   |
 
 ## Pendiente de verificar
 

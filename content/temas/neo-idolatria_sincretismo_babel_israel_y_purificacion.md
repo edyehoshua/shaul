@@ -10,23 +10,23 @@ tags:
   - torah
   - discernimiento
 references:
-  - "#bereshit_11_1"
-  - "#bereshit_11_4"
-  - "#bereshit_11_7"
-  - "#bereshit_11_8"
-  - "#devarim_7_3"
-  - "#devarim_7_6"
-  - "#devarim_12_29"
-  - "#devarim_12_30"
-  - "#iejezkel_20_28"
-  - "#iejezkel_20_32"
-  - "#romiyim_1_21"
-  - "#romiyim_1_23"
+  - "#genesis_11_1"
+  - "#genesis_11_4"
+  - "#genesis_11_7"
+  - "#genesis_11_8"
+  - "#deuteronomio_7_3"
+  - "#deuteronomio_7_6"
+  - "#deuteronomio_12_29"
+  - "#deuteronomio_12_30"
+  - "#ezequiel_20_28"
+  - "#ezequiel_20_32"
+  - "#romanos_1_21"
+  - "#romanos_1_23"
 sources:
   - "https://www.youtube.com/watch?v=VUxx_-KRw18"
   - "docs/scriptures/tth/json/bereshit.json"
   - "docs/scriptures/tth/json/devarim.json"
-  - "docs/scriptures/tth/json/iejezkel.json"
+  - "docs/scriptures/tth/json/yejezkel.json"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:VUxx_-KRw18"
@@ -45,12 +45,12 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre el s
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #bereshit_11_1 | «Y era toda la tierra de un lenguaje, y de algunas palabras». | Punto de partida para hablar de una humanidad reunida en una misma expresión. |
-| #bereshit_11_4, #bereshit_11_7-8 | «Edifiquemos para nosotros una ciudad y una torre... y hagámonos un nombre»; יהוה dice: «confundamos allí su lenguaje» y los dispersa. | La clase relaciona Babel con confusión, mezcla y la tendencia humana a construir identidad sin someterse a יהוה. |
-| #devarim_7_3, #devarim_7_6 | «Y no se casarán con ellos»; «Porque pueblo kadosh eres tú para יהוה tu Elohim; a ti te escogió יהוה tu Elohim para ser a Él por pueblo». | La separación de prácticas y alianzas se entiende como protección de una identidad de obediencia, no como superioridad humana. |
-| #devarim_12_29-30 | «Guárdate, no sea que quedes atrapado tras ellas... ¿Cómo servían estas naciones a sus dioses? Haré así también yo». | Advertencia explícita contra copiar el modo de culto de los pueblos conquistados. |
-| #iejezkel_20_28, #iejezkel_20_32 | Israel ofreció en colinas y árboles; «Seremos como las naciones... al servir madera y piedra». | La salida o pertenencia externa no garantiza que el corazón haya abandonado las prácticas de las naciones. |
-| #romiyim_1_21, #romiyim_1_23 | Delitzsch describe a quienes no honraron ni agradecieron a Elohim y «cambiaron la gloria del Elohim viviente por una imagen». | Conexión apostólica entre oscurecimiento del entendimiento, ingratitud y sustitución de la gloria divina. |
+| #genesis_11_1 | «Y era toda la tierra de un lenguaje, y de algunas palabras». | Punto de partida para hablar de una humanidad reunida en una misma expresión. |
+| #genesis_11_4, #genesis_11_7-8 | «Edifiquemos para nosotros una ciudad y una torre... y hagámonos un nombre»; יהוה dice: «confundamos allí su lenguaje» y los dispersa. | La clase relaciona Babel con confusión, mezcla y la tendencia humana a construir identidad sin someterse a יהוה. |
+| #deuteronomio_7_3, #deuteronomio_7_6 | «Y no se casarán con ellos»; «Porque pueblo kadosh eres tú para יהוה tu Elohim; a ti te escogió יהוה tu Elohim para ser a Él por pueblo». | La separación de prácticas y alianzas se entiende como protección de una identidad de obediencia, no como superioridad humana. |
+| #deuteronomio_12_29-30 | «Guárdate, no sea que quedes atrapado tras ellas... ¿Cómo servían estas naciones a sus dioses? Haré así también yo». | Advertencia explícita contra copiar el modo de culto de los pueblos conquistados. |
+| #ezequiel_20_28, #ezequiel_20_32 | Israel ofreció en colinas y árboles; «Seremos como las naciones... al servir madera y piedra». | La salida o pertenencia externa no garantiza que el corazón haya abandonado las prácticas de las naciones. |
+| #romanos_1_21, #romanos_1_23 | Delitzsch describe a quienes no honraron ni agradecieron a Elohim y «cambiaron la gloria del Elohim viviente por una imagen». | Conexión apostólica entre oscurecimiento del entendimiento, ingratitud y sustitución de la gloria divina. |
 
 ## Qué entiende la clase por sincretismo
 

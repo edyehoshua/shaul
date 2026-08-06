@@ -10,14 +10,14 @@ tags:
   - afliccion
   - reyes-de-juda
 references:
-  - "#2reyes_21_1"
-  - "#2reyes_21_9"
-  - "#2reyes_21_11"
-  - "#2reyes_21_16"
-  - "#2cronicas_33_10"
-  - "#2cronicas_33_12"
-  - "#2cronicas_33_13"
-  - "#2cronicas_33_16"
+  - "#2_reyes_21_1"
+  - "#2_reyes_21_9"
+  - "#2_reyes_21_11"
+  - "#2_reyes_21_16"
+  - "#2_cronicas_33_10"
+  - "#2_cronicas_33_12"
+  - "#2_cronicas_33_13"
+  - "#2_cronicas_33_16"
   - "#jeremias_3_8"
   - "#jeremias_3_10"
 sources:
@@ -41,11 +41,11 @@ Esta nota organiza la enseñanza pública sobre Manasés, rey de Judá. La trans
 
 | Referencia | Texto local de la Escritura | Función en el estudio |
 | --- | --- | --- |
-| #2reyes_21_1-2 | **בן שתים עשרה שנה מנשה במלכו וחמשים וחמש שנה מלך בירושלם ושם אמו חפצי בה׃ ויעש הרע בעיני יהוה כתועבת הגוים אשר הוריש יהוה מפני בני ישראל׃** | Manasés reina desde joven y hace lo malo conforme a las abominaciones de las naciones. |
-| #2reyes_21_9-12 | **ולא שמעו ויתעם מנשה לעשות את הרע מן הגוים אשר השמיד יהוה מפני בני ישראל׃ וידבר יהוה ביד עבדיו הנביאים לאמר׃ יען אשר עשה מנשה מלך יהודה התעבות האלה הרע מכל אשר עשו האמרי אשר לפניו ויחטא גם את יהודה בגלוליו׃ לכן כה אמר יהוה אלהי ישראל הנני מביא רעה על ירושלם ויהודה אשר כל שמעיו שמעה תצלנה שתי אזניו׃** | La idolatría de Manasés extravía al pueblo y provoca el anuncio de juicio. |
-| #2reyes_21_16 | **וגם דם נקי שפך מנשה הרבה מאד עד אשר מלא את ירושלם פה לפה לבד מחטאתו אשר החטיא את יהודה לעשות הרע בעיני יהוה׃** | El relato añade violencia a la idolatría; no reduce el problema a una preferencia ritual. |
-| #2cronicas_33_10-13 | **וידבר יהוה אל מנשה ואל עמו ולא הקשיבו׃ וכהצר לו חלה את פני יהוה אלהיו ויכנע מאד מלפני אלהי אבתיו׃ ויתפלל אליו ויעתר לו וישמע תחנתו וישיבהו ירושלם למלכותו וידע מנשה כי יהוה הוא האלהים׃** | La aflicción, la humillación y la súplica culminan en que Manasés reconoce quién es יהוה. |
-| #2cronicas_33_16-17 | **ויכן ויבן את מזבח יהוה ויזבח עליו זבחי שלמים ותודה ויאמר ליהודה לעבוד את יהוה אלהי ישראל׃ אבל עוד העם זבחים בבמות רק ליהוה אלהיהם׃** | El retorno produce reparación y enseñanza, aunque quedan consecuencias comunitarias. |
+| #2_reyes_21_1-2 | **בן שתים עשרה שנה מנשה במלכו וחמשים וחמש שנה מלך בירושלם ושם אמו חפצי בה׃ ויעש הרע בעיני יהוה כתועבת הגוים אשר הוריש יהוה מפני בני ישראל׃** | Manasés reina desde joven y hace lo malo conforme a las abominaciones de las naciones. |
+| #2_reyes_21_9-12 | **ולא שמעו ויתעם מנשה לעשות את הרע מן הגוים אשר השמיד יהוה מפני בני ישראל׃ וידבר יהוה ביד עבדיו הנביאים לאמר׃ יען אשר עשה מנשה מלך יהודה התעבות האלה הרע מכל אשר עשו האמרי אשר לפניו ויחטא גם את יהודה בגלוליו׃ לכן כה אמר יהוה אלהי ישראל הנני מביא רעה על ירושלם ויהודה אשר כל שמעיו שמעה תצלנה שתי אזניו׃** | La idolatría de Manasés extravía al pueblo y provoca el anuncio de juicio. |
+| #2_reyes_21_16 | **וגם דם נקי שפך מנשה הרבה מאד עד אשר מלא את ירושלם פה לפה לבד מחטאתו אשר החטיא את יהודה לעשות הרע בעיני יהוה׃** | El relato añade violencia a la idolatría; no reduce el problema a una preferencia ritual. |
+| #2_cronicas_33_10-13 | **וידבר יהוה אל מנשה ואל עמו ולא הקשיבו׃ וכהצר לו חלה את פני יהוה אלהיו ויכנע מאד מלפני אלהי אבתיו׃ ויתפלל אליו ויעתר לו וישמע תחנתו וישיבהו ירושלם למלכותו וידע מנשה כי יהוה הוא האלהים׃** | La aflicción, la humillación y la súplica culminan en que Manasés reconoce quién es יהוה. |
+| #2_cronicas_33_16-17 | **ויכן ויבן את מזבח יהוה ויזבח עליו זבחי שלמים ותודה ויאמר ליהודה לעבוד את יהוה אלהי ישראל׃ אבל עוד העם זבחים בבמות רק ליהוה אלהיהם׃** | El retorno produce reparación y enseñanza, aunque quedan consecuencias comunitarias. |
 | #jeremias_3_8-10 | **וארא כי על כל אדות אשר נאפה משבה ישראל שלחתיה ואתן את ספר כריתתיה אליה ולא יראה בגדה יהודה אחותה ותלך ותזן גם היא׃ וגם בכל זאת לא שבה אלי בגודה אחותה יהודה בכל לבה כי אם בשקר נאם יהוה׃** | Jeremías califica el retorno de Judá como engañoso, un límite importante para una lectura sentimental. |
 
 ## La profanación de la casa y el sincretismo
@@ -68,10 +68,10 @@ La paciencia de יהוה no debe confundirse con aprobación. Jeremías 3:10 des
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2reyes_21_1-9 | Manasés revierte la limpieza de Ezequías y mezcla el culto de יהוה con prácticas paganas. | Apoyo textual; «sincretismo» queda como categoría descriptiva. |
-| #2reyes_21_10-16 | Su maldad colma la medida del juicio y también incluye sangre inocente. | Apoyo textual; tradiciones sobre Isaías quedan separadas. |
-| #2cronicas_33_10-13 | La aflicción lleva a Manasés a humillarse, clamar y conocer que יהוה es Elohim. | Apoyo textual con aclaración sobre la traducción de «se conmovió». |
-| #2cronicas_33_16-17 | El retorno se expresa en reparación, sacrificio y llamado al servicio, aunque el pueblo conserva prácticas defectuosas. | Apoyo textual y aplicación comunitaria cualificada. |
+| #2_reyes_21_1-9 | Manasés revierte la limpieza de Ezequías y mezcla el culto de יהוה con prácticas paganas. | Apoyo textual; «sincretismo» queda como categoría descriptiva. |
+| #2_reyes_21_10-16 | Su maldad colma la medida del juicio y también incluye sangre inocente. | Apoyo textual; tradiciones sobre Isaías quedan separadas. |
+| #2_cronicas_33_10-13 | La aflicción lleva a Manasés a humillarse, clamar y conocer que יהוה es Elohim. | Apoyo textual con aclaración sobre la traducción de «se conmovió». |
+| #2_cronicas_33_16-17 | El retorno se expresa en reparación, sacrificio y llamado al servicio, aunque el pueblo conserva prácticas defectuosas. | Apoyo textual y aplicación comunitaria cualificada. |
 | #jeremias_3_8-10 | Judá puede volver de manera engañosa, sin hacerlo con todo el corazón. | Apoyo textual; limita una lectura sentimental de la restauración. |
 
 ## Pendiente de verificar

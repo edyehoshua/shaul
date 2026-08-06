@@ -11,57 +11,57 @@ tags:
   - obras
   - mesias
 references:
-  - "#iojanan_10_1"
-  - "#iojanan_10_3"
-  - "#iojanan_10_5"
-  - "#iojanan_10_7"
-  - "#iojanan_10_9"
-  - "#iojanan_10_10"
-  - "#iojanan_10_11"
-  - "#iojanan_10_12"
-  - "#iojanan_10_14"
-  - "#iojanan_10_15"
-  - "#iojanan_10_17"
-  - "#iojanan_10_18"
-  - "#iojanan_10_19"
-  - "#iojanan_10_21"
-  - "#iojanan_10_22"
-  - "#iojanan_10_23"
-  - "#iojanan_10_24"
-  - "#iojanan_10_25"
-  - "#iojanan_10_26"
-  - "#iojanan_10_27"
-  - "#iojanan_10_28"
-  - "#iojanan_10_29"
-  - "#iojanan_10_30"
-  - "#iojanan_10_33"
-  - "#iojanan_10_34"
-  - "#iojanan_10_35"
-  - "#iojanan_10_36"
-  - "#iojanan_10_37"
-  - "#iojanan_10_38"
-  - "#iojanan_10_41"
-  - "#iojanan_10_42"
-  - "#tehilim_118_20"
-  - "#tehilim_23_1"
-  - "#ieshaiahu_53_10"
-  - "#tehilim_16_10"
-  - "#maasei_hashlijim_2_24"
-  - "#ieshaiahu_11_1"
-  - "#ieshaiahu_53_5"
-  - "#zejariah_9_9"
+  - "#juan_10_1"
+  - "#juan_10_3"
+  - "#juan_10_5"
+  - "#juan_10_7"
+  - "#juan_10_9"
+  - "#juan_10_10"
+  - "#juan_10_11"
+  - "#juan_10_12"
+  - "#juan_10_14"
+  - "#juan_10_15"
+  - "#juan_10_17"
+  - "#juan_10_18"
+  - "#juan_10_19"
+  - "#juan_10_21"
+  - "#juan_10_22"
+  - "#juan_10_23"
+  - "#juan_10_24"
+  - "#juan_10_25"
+  - "#juan_10_26"
+  - "#juan_10_27"
+  - "#juan_10_28"
+  - "#juan_10_29"
+  - "#juan_10_30"
+  - "#juan_10_33"
+  - "#juan_10_34"
+  - "#juan_10_35"
+  - "#juan_10_36"
+  - "#juan_10_37"
+  - "#juan_10_38"
+  - "#juan_10_41"
+  - "#juan_10_42"
+  - "#salmos_118_20"
+  - "#salmos_23_1"
+  - "#isaias_53_10"
+  - "#salmos_16_10"
+  - "#hechos_2_24"
+  - "#isaias_11_1"
+  - "#isaias_53_5"
+  - "#zacarias_9_9"
   - "#daniel_7_13"
-  - "#tehilim_82_1"
-  - "#tehilim_82_6"
-  - "#tehilim_82_7"
-  - "#qolasim_2_9"
-  - "#ivrim_6_13"
-  - "#ivrim_7_16"
-  - "#ivrim_10_5"
-  - "#ivrim_10_20"
+  - "#salmos_82_1"
+  - "#salmos_82_6"
+  - "#salmos_82_7"
+  - "#colosenses_2_9"
+  - "#hebreos_6_13"
+  - "#hebreos_7_16"
+  - "#hebreos_10_5"
+  - "#hebreos_10_20"
   - "#romanos_10_17"
-  - "#iojanan_3_3"
-  - "#iojanan_6_44"
+  - "#juan_3_3"
+  - "#juan_6_44"
 sources:
   - "https://youtu.be/8geNmTcW6ZI?si=CfFScYVQEf-T7cK3"
   - "https://www.youtube.com/live/W1agi038QCs?si=I5vk4GKthCUPDBE_"
@@ -69,7 +69,7 @@ sources:
   - "https://www.youtube.com/live/FV3WHeOQbzg?si=p6KP3k6gZ2eIM3p0"
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
   - "https://www.youtube.com/live/LCt5Wt86POA?si=rMD1SDqGgVCsH5kI"
-  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/tth/json/yojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/psalms/16.json"
   - "docs/scriptures/oe/json/psalms/82.json"
@@ -98,71 +98,71 @@ Este es el punto de entrada canónico para el capítulo. Integra la secuencia de
 
 | Referencia        | Texto local                                                                                                                                       | Función en el capítulo                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #iojanan_10_1     | אמן אמן אני אמר לכם איש אשר לאיבא דרך השער אלמכלאות הצאן כי אםיעלה בדרך אחר גנב הוא ושדד                                                          | El acceso ilegítimo define el contraste inicial entre pastor y ladrón.                  |
-| #iojanan_10_3-5   | Y el portero le abre y las ovejas escuchan su voz; y él llama a sus ovejas por su nombre y las saca… detrás de un extraño no irán.                | La relación del pastor con las ovejas es de voz, nombre, guía y discernimiento.         |
-| #iojanan_10_7-11  | Yo soy la puerta de las ovejas… si un hombre por Mí entra, será salvo… Yo soy el buen pastor; el buen pastor pone su vida en lugar de las ovejas. | Puerta y pastor son imágenes coordinadas de acceso, cuidado y entrega.                  |
-| #iojanan_10_14-15 | Yo soy el buen pastor, y conozco mis ovejas… como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas.            | El conocimiento mutuo se expone en la entrega de la vida.                               |
-| #iojanan_10_17-18 | Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar… Ningún hombre me la quita… Este mandamiento he recibido de mi Padre.      | La vida es entregada voluntariamente y retomada bajo el mandamiento recibido.           |
-| #iojanan_10_19-21 | Y hubo otra vez contienda… ¿Puede Ha’satán abrir los ojos de los ciegos?                                                                          | La señal del ciego de Yojanán 9 sigue siendo evidencia en la discusión.                 |
-| #iojanan_10_22-25 | Y era Janucá en Ierushaláim… Si Tú eres el Mesías, dínoslo con confianza… las obras que Yo hago en nombre de mi Padre testifican acerca de Mí.    | Janucá sitúa la pregunta mesiánica; Yehoshua remite a obras ya visibles.                |
-| #iojanan_10_27-30 | Mis ovejas escuchan mi voz… Yo les doy vida olam… Yo y mi Padre uno somos.                                                                        | La voz, el seguimiento, la vida y la custodia desembocan en la unidad declarada.        |
-| #iojanan_10_33-38 | Por obra buena no te apedreamos… ¿No está escrito en su Torah: Yo dije: Ustedes son elohim?… afírmense por las obras.                             | La acusación se responde desde la Escritura y con el criterio verificable de las obras. |
-| #iojanan_10_41-42 | Iojanán ninguna señal hizo, pero todo lo que dijo Iojanán acerca de Este es verdad. Y muchos se afirmaron en Él allí.                             | El testimonio de Iojanán y las obras conducen a la afirmación final.                    |
+| #juan_10_1     | אמן אמן אני אמר לכם איש אשר לאיבא דרך השער אלמכלאות הצאן כי אםיעלה בדרך אחר גנב הוא ושדד                                                          | El acceso ilegítimo define el contraste inicial entre pastor y ladrón.                  |
+| #juan_10_3-5   | Y el portero le abre y las ovejas escuchan su voz; y él llama a sus ovejas por su nombre y las saca… detrás de un extraño no irán.                | La relación del pastor con las ovejas es de voz, nombre, guía y discernimiento.         |
+| #juan_10_7-11  | Yo soy la puerta de las ovejas… si un hombre por Mí entra, será salvo… Yo soy el buen pastor; el buen pastor pone su vida en lugar de las ovejas. | Puerta y pastor son imágenes coordinadas de acceso, cuidado y entrega.                  |
+| #juan_10_14-15 | Yo soy el buen pastor, y conozco mis ovejas… como el Padre me conoce, así Yo conozco al Padre; y pongo mi vida en lugar de las ovejas.            | El conocimiento mutuo se expone en la entrega de la vida.                               |
+| #juan_10_17-18 | Por eso el Padre me ama, porque Yo pongo mi vida para volverla a tomar… Ningún hombre me la quita… Este mandamiento he recibido de mi Padre.      | La vida es entregada voluntariamente y retomada bajo el mandamiento recibido.           |
+| #juan_10_19-21 | Y hubo otra vez contienda… ¿Puede Ha’satán abrir los ojos de los ciegos?                                                                          | La señal del ciego de Yojanán 9 sigue siendo evidencia en la discusión.                 |
+| #juan_10_22-25 | Y era Janucá en Yerushaláim… Si Tú eres el Mesías, dínoslo con confianza… las obras que Yo hago en nombre de mi Padre testifican acerca de Mí.    | Janucá sitúa la pregunta mesiánica; Yehoshua remite a obras ya visibles.                |
+| #juan_10_27-30 | Mis ovejas escuchan mi voz… Yo les doy vida olam… Yo y mi Padre uno somos.                                                                        | La voz, el seguimiento, la vida y la custodia desembocan en la unidad declarada.        |
+| #juan_10_33-38 | Por obra buena no te apedreamos… ¿No está escrito en su Torah: Yo dije: Ustedes son elohim?… afírmense por las obras.                             | La acusación se responde desde la Escritura y con el criterio verificable de las obras. |
+| #juan_10_41-42 | Yojanán ninguna señal hizo, pero todo lo que dijo Yojanán acerca de Este es verdad. Y muchos se afirmaron en Él allí.                             | El testimonio de Yojanán y las obras conducen a la afirmación final.                    |
 
 ## La puerta, el pasto y el pastor
 
-Las clases leen #iojanan_10_7-11 junto a #tehilim_118_20 y #tehilim_23_1: la puerta es el acceso dispuesto por יהוה y el pastor es quien da alimento y no abandona al rebaño. #iojanan_10_9 incluye salvación, entrar, salir y hallar pasto; la aplicación contra el control sectario pertenece a la enseñanza pastoral de las clases, no a una definición exhaustiva de la imagen.
+Las clases leen #juan_10_7-11 junto a #salmos_118_20 y #salmos_23_1: la puerta es el acceso dispuesto por יהוה y el pastor es quien da alimento y no abandona al rebaño. #juan_10_9 incluye salvación, entrar, salir y hallar pasto; la aplicación contra el control sectario pertenece a la enseñanza pastoral de las clases, no a una definición exhaustiva de la imagen.
 
-El contraste con el asalariado (#iojanan_10_12-13) ordena una advertencia práctica: la legitimidad de un liderazgo no se mide por fama o multitud, sino por su cuidado real del rebaño. La propuesta de relacionar \_nomē* («pasto») con _nomos_ («ley/Torah») es pedagógica y requiere verificación léxica antes de tratarla como juego intencional del texto.
+El contraste con el asalariado (#juan_10_12-13) ordena una advertencia práctica: la legitimidad de un liderazgo no se mide por fama o multitud, sino por su cuidado real del rebaño. La propuesta de relacionar \_nomē* («pasto») con _nomos_ («ley/Torah») es pedagógica y requiere verificación léxica antes de tratarla como juego intencional del texto.
 
 ## La vida puesta y retomada
 
-#iojanan_10_17-18 afirma que Yehoshua pone su vida y la vuelve a tomar. Las clases conectan esta entrega con **(נפש)**, #ieshaiahu_53_10, #tehilim_16_10 y #maasei_hashlijim_2_24, entendiendo la muerte como entrega real, no como derrota final. La equivalencia entre **(ψυχή)** y **(נפש)** debe conservarse como aproximación pedagógica, no como identidad léxica automática.
+#juan_10_17-18 afirma que Yehoshua pone su vida y la vuelve a tomar. Las clases conectan esta entrega con **(נפש)**, #isaias_53_10, #salmos_16_10 y #hechos_2_24, entendiendo la muerte como entrega real, no como derrota final. La equivalencia entre **(ψυχή)** y **(נפש)** debe conservarse como aproximación pedagógica, no como identidad léxica automática.
 
-La lectura que llama «competencia» a **(מצוה)** en #iojanan_10_18, en vez de limitarlo a «mandamiento», también es una interpretación de clase pendiente de cotejo. Lo explícito en el pasaje es el dominio para poner y volver a tomar la vida, y el mandamiento recibido del Padre.
+La lectura que llama «competencia» a **(מצוה)** en #juan_10_18, en vez de limitarlo a «mandamiento», también es una interpretación de clase pendiente de cotejo. Lo explícito en el pasaje es el dominio para poner y volver a tomar la vida, y el mandamiento recibido del Padre.
 
 ## Janucá y la pregunta por el Mesías
 
-#iojanan_10_22-24 coloca la escena durante Janucá y en el pórtico de Shelomóh. Las clases recuerdan la rededicación histórica del templo y sitúan allí la presión por una declaración mesiánica pública. La respuesta de #iojanan_10_25 no ofrece propaganda: remite a las obras que testifican.
+#juan_10_22-24 coloca la escena durante Janucá y en el pórtico de Shelomóh. Las clases recuerdan la rededicación histórica del templo y sitúan allí la presión por una declaración mesiánica pública. La respuesta de #juan_10_25 no ofrece propaganda: remite a las obras que testifican.
 
-Las notas hermanas enlazan esas obras con una cadena de figuras: simiente, cordero, retoño, siervo y rey (#ieshaiahu_11_1, #ieshaiahu_53_5, #zejariah_9_9). La síntesis de «dos venidas» desde #daniel_7_13 y otras referencias es una interpretación de las clases; las afirmaciones históricas sobre el recinto herodiano, las expectativas judías y el uso idiomático de «nubes» permanecen pendientes de verificación.
+Las notas hermanas enlazan esas obras con una cadena de figuras: simiente, cordero, retoño, siervo y rey (#isaias_11_1, #isaias_53_5, #zacarias_9_9). La síntesis de «dos venidas» desde #daniel_7_13 y otras referencias es una interpretación de las clases; las afirmaciones históricas sobre el recinto herodiano, las expectativas judías y el uso idiomático de «nubes» permanecen pendientes de verificación.
 
 ## Ovejas, obras y emunah
 
-La secuencia #iojanan_10_25-30 une las obras, las ovejas que oyen, la vida olam y la mano que guarda. Las clases relacionan este hilo con #romanos_10_17, #iojanan_3_3 y #iojanan_6_44, y presentan la \_emunah* como fidelidad formada por la instrucción de יהוה. Esa conexión evita reducir la respuesta a optimismo mental, pero la relación técnica entre **(אמן)** y **(πιστεύω)** debe describirse como aproximada hasta ser cotejada.
+La secuencia #juan_10_25-30 une las obras, las ovejas que oyen, la vida olam y la mano que guarda. Las clases relacionan este hilo con #romanos_10_17, #juan_3_3 y #juan_6_44, y presentan la \_emunah* como fidelidad formada por la instrucción de יהוה. Esa conexión evita reducir la respuesta a optimismo mental, pero la relación técnica entre **(אמן)** y **(πιστεύω)** debe describirse como aproximada hasta ser cotejada.
 
-La declaración «Yo y mi Padre uno somos» (#iojanan_10_30) recibe desarrollos teológicos distintos en las clases sobre Abba, promesa y morada. Esta nota conserva el dato textual y dirige al lector a esos estudios, sin sustituir su debate por una fórmula no examinada.
+La declaración «Yo y mi Padre uno somos» (#juan_10_30) recibe desarrollos teológicos distintos en las clases sobre Abba, promesa y morada. Esta nota conserva el dato textual y dirige al lector a esos estudios, sin sustituir su debate por una fórmula no examinada.
 
 ## Elohim, el Hijo y el testimonio
 
-En #iojanan*10_33-38, Yehoshua responde a una acusación de blasfemia citando #tehilim_82_6. #tehilim_82_1 y #tehilim_82_7 muestran que el uso de **(אלהים)** exige contexto: el salmo puede hablar de jueces y, al mismo tiempo, insistir en su mortalidad. Por eso la clase que expande el rango de \_elohim* —jueces, mensajeros, usos polémicos o el único Elohim— debe leerse como propuesta contextual y no como una glosa uniforme.
+En #yojanan*10_33-38, Yehoshua responde a una acusación de blasfemia citando #salmos_82_6. #salmos_82_1 y #salmos_82_7 muestran que el uso de **(אלהים)** exige contexto: el salmo puede hablar de jueces y, al mismo tiempo, insistir en su mortalidad. Por eso la clase que expande el rango de \_elohim* —jueces, mensajeros, usos polémicos o el único Elohim— debe leerse como propuesta contextual y no como una glosa uniforme.
 
-El criterio que el mismo pasaje entrega es claro: si Yehoshua no hace las obras del Padre, no se le debe afirmar; si las hace, las obras deben ser consideradas (#iojanan_10_37-38). El cierre añade el testimonio de Iojanán y la afirmación de muchos (#iojanan_10_41-42). Las asociaciones con #qolasim_2_9, #ivrim_6_13, #ivrim_7_16 e #ivrim_10_5-20 se conservan en las notas especializadas como desarrollos apostólicos de la clase.
+El criterio que el mismo pasaje entrega es claro: si Yehoshua no hace las obras del Padre, no se le debe afirmar; si las hace, las obras deben ser consideradas (#juan_10_37-38). El cierre añade el testimonio de Yojanán y la afirmación de muchos (#juan_10_41-42). Las asociaciones con #colosenses_2_9, #hebreos_6_13, #hebreos_7_16 e #hebreos_10_5-20 se conservan en las notas especializadas como desarrollos apostólicos de la clase.
 
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual | Enseñanza concreta tomada de Eric | Evaluación en esta nota |
 | --- | --- | --- |
-| #iojanan_10_1-13 | Eric contrasta la puerta y el pastor legítimo con el ladrón y el asalariado: el criterio pastoral es conocer, alimentar y proteger al rebaño, no reunir fama. También propone explorar la cercanía entre _nomē_ («pasto») y _nomos_ («ley/Torah»). | El contraste pastor/asalariado está respaldado por la secuencia textual; la aplicación al liderazgo es una inferencia pastoral calificada. La relación _nomē_/_nomos_ queda como afirmación léxica pendiente de verificación. |
-| #iojanan_10_14-18 | Eric lee «poner la vida» como entrega real y voluntaria, vinculada con **(נפש)**, **(ψυχή)** y la resurrección; además destaca que **(מצוה)** expresa el encargo recibido del Padre. | La entrega voluntaria y el mandamiento recibido están explícitos en el pasaje. La correspondencia **(ψυχή)**–**(נפש)** es aproximada y la lectura de **(מצוה)** como «competencia» se conserva como interpretación de clase pendiente. |
-| #iojanan_10_19-30 | Eric mantiene la sanidad del ciego de Yojanán 9 como evidencia en la controversia, y conecta Janucá, la pregunta mesiánica, las obras, la voz de las ovejas y la vida olam. | La continuidad con Yojanán 9 y la referencia a las obras están textual y narrativamente apoyadas; la reconstrucción histórica de Janucá y algunas expectativas mesiánicas queda calificada y pendiente. **(אמן)**–**(πιστεύω)** se trata como aproximación, no equivalencia exacta. |
-| #iojanan_10_31-42 | Eric explica la respuesta a la acusación de blasfemia mediante Tehilim 82 y amplía el rango de **(אלהים)**; subraya que las obras deben ser examinadas y que el testimonio de Iojanán conduce a la afirmación final. | La cita de Tehilim 82 y el criterio de las obras son explícitos; el alcance uniforme de **(אלהים)** y las distinciones entre usos de mensajero quedan como propuesta contextual pendiente de cotejo. |
+| #juan_10_1-13 | Eric contrasta la puerta y el pastor legítimo con el ladrón y el asalariado: el criterio pastoral es conocer, alimentar y proteger al rebaño, no reunir fama. También propone explorar la cercanía entre _nomē_ («pasto») y _nomos_ («ley/Torah»). | El contraste pastor/asalariado está respaldado por la secuencia textual; la aplicación al liderazgo es una inferencia pastoral calificada. La relación _nomē_/_nomos_ queda como afirmación léxica pendiente de verificación. |
+| #juan_10_14-18 | Eric lee «poner la vida» como entrega real y voluntaria, vinculada con **(נפש)**, **(ψυχή)** y la resurrección; además destaca que **(מצוה)** expresa el encargo recibido del Padre. | La entrega voluntaria y el mandamiento recibido están explícitos en el pasaje. La correspondencia **(ψυχή)**–**(נפש)** es aproximada y la lectura de **(מצוה)** como «competencia» se conserva como interpretación de clase pendiente. |
+| #juan_10_19-30 | Eric mantiene la sanidad del ciego de Yojanán 9 como evidencia en la controversia, y conecta Janucá, la pregunta mesiánica, las obras, la voz de las ovejas y la vida olam. | La continuidad con Yojanán 9 y la referencia a las obras están textual y narrativamente apoyadas; la reconstrucción histórica de Janucá y algunas expectativas mesiánicas queda calificada y pendiente. **(אמן)**–**(πιστεύω)** se trata como aproximación, no equivalencia exacta. |
+| #juan_10_31-42 | Eric explica la respuesta a la acusación de blasfemia mediante Tehilim 82 y amplía el rango de **(אלהים)**; subraya que las obras deben ser examinadas y que el testimonio de Yojanán conduce a la afirmación final. | La cita de Tehilim 82 y el criterio de las obras son explícitos; el alcance uniforme de **(אלהים)** y las distinciones entre usos de mensajero quedan como propuesta contextual pendiente de cotejo. |
 
 ## Conexiones principales
 
-- #iojanan_10_1-10 con #tehilim_118_20 y #tehilim_23_1: puerta, acceso y pastoreo.
-- #iojanan_10_11-18 con #ieshaiahu_53_10 y #tehilim_16_10: entrega de la vida y esperanza de no ver corrupción.
-- #iojanan_10_19-21 con #iojanan_9_6-7: la vista dada al ciego permanece en la controversia.
-- #iojanan_10_22-25 con #zejariah_9_9 e #ieshaiahu_53_5: la pregunta mesiánica se mide frente a las obras y a la línea profética.
-- #iojanan_10_27-30 con #romanos_10_17 y #iojanan_6_44: oír, ser traído y seguir.
-- #iojanan_10_33-38 con #tehilim_82_1, #tehilim_82_6 y #tehilim_82_7: la respuesta escritural a la acusación.
+- #juan_10_1-10 con #salmos_118_20 y #salmos_23_1: puerta, acceso y pastoreo.
+- #juan_10_11-18 con #isaias_53_10 y #salmos_16_10: entrega de la vida y esperanza de no ver corrupción.
+- #juan_10_19-21 con #juan_9_6-7: la vista dada al ciego permanece en la controversia.
+- #juan_10_22-25 con #zacarias_9_9 e #isaias_53_5: la pregunta mesiánica se mide frente a las obras y a la línea profética.
+- #juan_10_27-30 con #romanos_10_17 y #juan_6_44: oír, ser traído y seguir.
+- #juan_10_33-38 con #salmos_82_1, #salmos_82_6 y #salmos_82_7: la respuesta escritural a la acusación.
 
 ## Pendiente de verificar
 
 - [ ] Cotejar los argumentos léxicos sobre _nomē/nomos_, **(ψυχή)/(נפש)**, **(מצוה)** como «competencia» y la relación entre **(אמן)** y **(πιστεύω)**.
 - [ ] Localizar las referencias precisas de Talmud, Targum, Jastrow, BDB, Ibn Ezra, Josefo y las fuentes jasídicas mencionadas por las clases.
 - [ ] Verificar la historia de Janucá, la arquitectura del pórtico de Shelomóh y las afirmaciones sobre expectativas mesiánicas antiguas.
-- [ ] Cotejar el alcance de #tehilim_82 y la distinción entre **(מלאך אלהים)** y **(מלאך יהוה)** antes de formular reglas generales.
+- [ ] Cotejar el alcance de #salmos_82 y la distinción entre **(מלאך אלהים)** y **(מלאך יהוה)** antes de formular reglas generales.
 
 ## Conclusión
 
@@ -170,14 +170,14 @@ Yojanán 10 no separa identidad, obras y cuidado pastoral. La puerta excluye el 
 
 ## Ver también
 
-- [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]] — #iojanan_9_39-#iojanan_10_8 (la fuente pública está acreditada en la nota enlazada).
-- [[yojanan_10_puerta_pastor_abba|La puerta, el buen pastor y Abba]] — #iojanan_10_7-18; `youtube:8geNmTcW6ZI`.
-- [[yojanan_10_nefesh_janukah_mesias|Nefesh, Janucá y la pregunta por el Mesías]] — #iojanan_10_17-24; `youtube:W1agi038QCs`.
-- [[yojanan_10_janukah_senales_mesias|Janucá y las señales del Mesías]] — #iojanan_10_22-30; `youtube:4Jw7Tt5he6o`.
-- [[yojanan_10_abba_obras_y_morada|Abba, las obras y la morada]] — #iojanan_10_14-38.
-- [[yojanan_10_emunah_obras_ovejas|Emunah, obras y ovejas]] — #iojanan_10_25-38; `youtube:csFssLdcLsE`.
-- [[yojanan_10_elohim_obras_y_mensajero|Elohim, obras y mensajero]] — #iojanan_10_33-42; `youtube:FV3WHeOQbzg`.
-- [[yojanan_10_17_28_vida_indestructible|Vida indestructible y mandamiento de Abba]] — #iojanan_10_17-28; `youtube:LCt5Wt86POA`.
+- [[yojanan_9_10_ceguera_puerta_ovejas|Yojanán 9-10: ceguera, justicia y la puerta de las ovejas]] — #juan_9_39-#juan_10_8 (la fuente pública está acreditada en la nota enlazada).
+- [[yojanan_10_puerta_pastor_abba|La puerta, el buen pastor y Abba]] — #juan_10_7-18; `youtube:8geNmTcW6ZI`.
+- [[yojanan_10_nefesh_janukah_mesias|Nefesh, Janucá y la pregunta por el Mesías]] — #juan_10_17-24; `youtube:W1agi038QCs`.
+- [[yojanan_10_janukah_senales_mesias|Janucá y las señales del Mesías]] — #juan_10_22-30; `youtube:4Jw7Tt5he6o`.
+- [[yojanan_10_abba_obras_y_morada|Abba, las obras y la morada]] — #juan_10_14-38.
+- [[yojanan_10_emunah_obras_ovejas|Emunah, obras y ovejas]] — #juan_10_25-38; `youtube:csFssLdcLsE`.
+- [[yojanan_10_elohim_obras_y_mensajero|Elohim, obras y mensajero]] — #juan_10_33-42; `youtube:FV3WHeOQbzg`.
+- [[yojanan_10_17_28_vida_indestructible|Vida indestructible y mandamiento de Abba]] — #juan_10_17-28; `youtube:LCt5Wt86POA`.
 
 ## Créditos
 

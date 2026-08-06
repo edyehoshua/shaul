@@ -34,9 +34,9 @@ title: "Sample note"
 description: "A stable description"
 tags: [yojanan, palabra]
 references:
-  - "#iojanan_1_1"
-  - "#iojanan_1_1"
-  - "#iojanan_1_14-15"
+  - "#juan_1_1"
+  - "#juan_1_1"
+  - "#juan_1_14-15"
 sources:
   - "https://www.youtube.com/watch?v=abc123"
 ---
@@ -51,9 +51,9 @@ sources:
             aggregate = json.loads((output / "index.json").read_text(encoding="utf-8"))
             self.assertEqual(aggregate["entry_count"], 3)
             detail = json.loads(
-                (output / "iojanan_1_1.json").read_text(encoding="utf-8")
+                (output / "juan_1_1.json").read_text(encoding="utf-8")
             )
-            self.assertEqual(detail["verse"]["tag"], "#iojanan_1_1")
+            self.assertEqual(detail["verse"]["tag"], "#juan_1_1")
             self.assertEqual(detail["notes"][0]["id"], "content/besorah/sample")
             self.assertEqual(detail["notes"][0]["sources"], ["https://www.youtube.com/watch?v=abc123"])
 
@@ -65,7 +65,7 @@ sources:
                 """---
 title: "Broken note"
 references:
-  - "#iojanan_1_5-4"
+  - "#juan_1_5-4"
 sources: []
 ---
 """,
@@ -81,7 +81,7 @@ sources: []
                 content,
                 """---
 title: "Flow list"
-references: ["#iojanan_1_1"]
+references: ["#juan_1_1"]
 sources:
   [
     "https://www.youtube.com/watch?v=abc123",
@@ -93,7 +93,7 @@ sources:
 
             verse_index, _ = indexer.build_index(content)
             self.assertEqual(
-                verse_index["#iojanan_1_1"]["notes"][0]["sources"],
+                verse_index["#juan_1_1"]["notes"][0]["sources"],
                 [
                     "https://www.youtube.com/watch?v=abc123",
                     "private/transcripts/ericdejes/abc123.md",

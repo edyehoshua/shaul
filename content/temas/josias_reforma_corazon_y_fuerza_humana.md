@@ -11,18 +11,18 @@ tags:
   - reyes-de-juda
   - obediencia
 references:
-  - "#2reyes_22_8"
-  - "#2reyes_22_11"
-  - "#2reyes_22_13"
-  - "#2reyes_22_19"
-  - "#2reyes_23_3"
-  - "#2reyes_23_4"
-  - "#2reyes_23_21"
-  - "#2reyes_23_25"
-  - "#2reyes_23_26"
-  - "#2cronicas_35_20"
-  - "#2cronicas_35_21"
-  - "#2cronicas_35_22"
+  - "#2_reyes_22_8"
+  - "#2_reyes_22_11"
+  - "#2_reyes_22_13"
+  - "#2_reyes_22_19"
+  - "#2_reyes_23_3"
+  - "#2_reyes_23_4"
+  - "#2_reyes_23_21"
+  - "#2_reyes_23_25"
+  - "#2_reyes_23_26"
+  - "#2_cronicas_35_20"
+  - "#2_cronicas_35_21"
+  - "#2_cronicas_35_22"
   - "#jeremias_3_10"
 sources:
   - "https://www.youtube.com/watch?v=2nvv6PahiVM"
@@ -45,12 +45,12 @@ Esta nota organiza la clase pública sobre Josías, continuación del estudio de
 
 | Referencia | Texto local de la Escritura | Función en el estudio |
 | --- | --- | --- |
-| #2reyes_22_8 | **ויאמר חלקיהו הכהן הגדול על שפן הספר ספר התורה מצאתי בבית יהוה ויתן חלקיה את הספר אל שפן ויקראהו׃** | El hallazgo del rollo inicia la confrontación de Judá con la palabra escrita. |
-| #2reyes_22_11-13 | **ויהי כשמע המלך את דברי ספר התורה ויקרע את בגדיו׃ ... לכו דרשו את יהוה בעדי ובעד העם ובעד כל יהודה על דברי הספר הנמצא הזה כי גדולה חמת יהוה אשר היא נצתה בנו על אשר לא שמעו אבתינו על דברי הספר הזה לעשות ככל הכתוב עלינו׃** | Josías escucha, se humilla y reconoce la responsabilidad histórica del pueblo. |
-| #2reyes_22_19-20 | **יען רך לבבך ותכנע מפני יהוה בשמעך אשר דברתי על המקום הזה ועל ישביו להיות לשמה ולקללה ותקרע את בגדיך ותבכה לפני וגם אנכי שמעתי נאם יהוה׃ לכן הנני אספך על אבתיך ונאספת אל קברתיך בשלום ולא תראינה עיניך בכל הרעה אשר אני מביא על המקום הזה וישיבו את המלך דבר׃** | La respuesta de יהוה honra la humillación de Josías, sin prometer que el juicio desaparezca. |
-| #2reyes_23_3-4 | **ויעמד המלך על העמוד ויכרת את הברית לפני יהוה ללכת אחר יהוה ולשמר מצותיו ואת עדותיו ואת חקתיו בכל לב ובכל נפש להקים את דברי הברית הזאת הכתבים על הספר הזה ויעמד כל העם בברית׃ ויצו המלך את חלקיהו הכהן הגדול ואת כהני המשנה ואת שמרי הסף להוציא מהיכל יהוה את כל הכלים העשוים לבעל ולאשרה ולכל צבא השמים וישרפם מחוץ לירושלם בשדמות קדרון ונשא את עפרם בית אל׃** | El pacto y la limpieza muestran una obediencia pública concreta. |
-| #2reyes_23_21-26 | **ויצו המלך את כל העם לאמר עשו פסח ליהוה אלהיכם ככתוב על ספר הברית הזה׃ כי לא נעשה כפסח הזה מימי השפטים אשר שפטו את ישראל וכל ימי מלכי ישראל ומלכי יהודה׃ ... וכמהו לא היה לפניו מלך אשר שב אל יהוה בכל לבבו ובכל נפשו ובכל מאדו ככל תורת משה ואחריו לא קם כמהו׃ אך לא שב יהוה מחרון אפו הגדול אשר חרה אפו ביהודה על כל הכעסים אשר הכעיסו מנשה׃** | Josías es elogiado, pero la ira relacionada con Manasés permanece en el relato. |
-| #2cronicas_35_20-22 | **אחרי כל זאת אשר הכין יאשיהו את הבית עלה נכו מלך מצרים להלחם בכרכמיש על פרת ויצא לקראתו יאשיהו׃ וישלח אליו מלאכים לאמר מה לי ולך מלך יהודה לא עליך אתה היום כי אל בית מלחמתי ואלהים אמר לבהלני חדל לך מאלהים אשר עמי ואל ישחיתך׃ ולא הסב יאשיהו פניו ממנו כי להלחם בו התחפש ולא שמע אל דברי נכו מפי אלהים ויבא להלחם בבקעת מגדו׃** | La muerte de Josías se narra como una advertencia contra entrar en una lucha no encomendada. |
+| #2_reyes_22_8 | **ויאמר חלקיהו הכהן הגדול על שפן הספר ספר התורה מצאתי בבית יהוה ויתן חלקיה את הספר אל שפן ויקראהו׃** | El hallazgo del rollo inicia la confrontación de Judá con la palabra escrita. |
+| #2_reyes_22_11-13 | **ויהי כשמע המלך את דברי ספר התורה ויקרע את בגדיו׃ ... לכו דרשו את יהוה בעדי ובעד העם ובעד כל יהודה על דברי הספר הנמצא הזה כי גדולה חמת יהוה אשר היא נצתה בנו על אשר לא שמעו אבתינו על דברי הספר הזה לעשות ככל הכתוב עלינו׃** | Josías escucha, se humilla y reconoce la responsabilidad histórica del pueblo. |
+| #2_reyes_22_19-20 | **יען רך לבבך ותכנע מפני יהוה בשמעך אשר דברתי על המקום הזה ועל ישביו להיות לשמה ולקללה ותקרע את בגדיך ותבכה לפני וגם אנכי שמעתי נאם יהוה׃ לכן הנני אספך על אבתיך ונאספת אל קברתיך בשלום ולא תראינה עיניך בכל הרעה אשר אני מביא על המקום הזה וישיבו את המלך דבר׃** | La respuesta de יהוה honra la humillación de Josías, sin prometer que el juicio desaparezca. |
+| #2_reyes_23_3-4 | **ויעמד המלך על העמוד ויכרת את הברית לפני יהוה ללכת אחר יהוה ולשמר מצותיו ואת עדותיו ואת חקתיו בכל לב ובכל נפש להקים את דברי הברית הזאת הכתבים על הספר הזה ויעמד כל העם בברית׃ ויצו המלך את חלקיהו הכהן הגדול ואת כהני המשנה ואת שמרי הסף להוציא מהיכל יהוה את כל הכלים העשוים לבעל ולאשרה ולכל צבא השמים וישרפם מחוץ לירושלם בשדמות קדרון ונשא את עפרם בית אל׃** | El pacto y la limpieza muestran una obediencia pública concreta. |
+| #2_reyes_23_21-26 | **ויצו המלך את כל העם לאמר עשו פסח ליהוה אלהיכם ככתוב על ספר הברית הזה׃ כי לא נעשה כפסח הזה מימי השפטים אשר שפטו את ישראל וכל ימי מלכי ישראל ומלכי יהודה׃ ... וכמהו לא היה לפניו מלך אשר שב אל יהוה בכל לבבו ובכל נפשו ובכל מאדו ככל תורת משה ואחריו לא קם כמהו׃ אך לא שב יהוה מחרון אפו הגדול אשר חרה אפו ביהודה על כל הכעסים אשר הכעיסו מנשה׃** | Josías es elogiado, pero la ira relacionada con Manasés permanece en el relato. |
+| #2_cronicas_35_20-22 | **אחרי כל זאת אשר הכין יאשיהו את הבית עלה נכו מלך מצרים להלחם בכרכמיש על פרת ויצא לקראתו יאשיהו׃ וישלח אליו מלאכים לאמר מה לי ולך מלך יהודה לא עליך אתה היום כי אל בית מלחמתי ואלהים אמר לבהלני חדל לך מאלהים אשר עמי ואל ישחיתך׃ ולא הסב יאשיהו פניו ממנו כי להלחם בו התחפש ולא שמע אל דברי נכו מפי אלהים ויבא להלחם בבקעת מגדו׃** | La muerte de Josías se narra como una advertencia contra entrar en una lucha no encomendada. |
 | #jeremias_3_10 | **וגם בכל זאת לא שבה אלי בגודה אחותה יהודה בכל לבה כי אם בשקר נאם יהוה׃** | La reforma exterior no equivale automáticamente a un retorno íntegro de todo Judá. |
 
 ## Escuchar el rollo antes de reformar
@@ -86,11 +86,11 @@ La aplicación contemporánea de la exposición advierte contra forzar proyectos
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2reyes_22_8-13 | El rollo hallado en el templo hace que Josías rasgue sus vestidos y consulte a יהוה. | Apoyo textual directo. |
-| #2reyes_22_19-20 | La humillación del rey es escuchada, pero el juicio sobre Judá no queda anulado. | Apoyo textual y distinción entre misericordia y consecuencias. |
-| #2reyes_23_3-25 | La reforma elimina altares, sacerdotes y prácticas idolátricas y restaura Pésaj. | Apoyo textual; se evita presentar la obediencia como inútil. |
-| #2reyes_23_26; #jeremias_3_10 | La ira por Manasés y el retorno engañoso muestran el límite de una reforma exterior. | Apoyo textual y cualificación de la aplicación. |
-| #2cronicas_35_20-22 | Josías muere al entrar en una batalla que no debía asumir y al no escuchar una advertencia. | Apoyo textual; aplicación prudencial. |
+| #2_reyes_22_8-13 | El rollo hallado en el templo hace que Josías rasgue sus vestidos y consulte a יהוה. | Apoyo textual directo. |
+| #2_reyes_22_19-20 | La humillación del rey es escuchada, pero el juicio sobre Judá no queda anulado. | Apoyo textual y distinción entre misericordia y consecuencias. |
+| #2_reyes_23_3-25 | La reforma elimina altares, sacerdotes y prácticas idolátricas y restaura Pésaj. | Apoyo textual; se evita presentar la obediencia como inútil. |
+| #2_reyes_23_26; #jeremias_3_10 | La ira por Manasés y el retorno engañoso muestran el límite de una reforma exterior. | Apoyo textual y cualificación de la aplicación. |
+| #2_cronicas_35_20-22 | Josías muere al entrar en una batalla que no debía asumir y al no escuchar una advertencia. | Apoyo textual; aplicación prudencial. |
 
 ## Pendiente de verificar
 

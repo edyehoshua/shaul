@@ -10,13 +10,13 @@ tags:
   - ruaj
   - mesias
 references:
-  - "#ephesians_2_1"
-  - "#ephesians_2_2"
-  - "#ephesians_2_3"
-  - "#ephesians_2_4"
-  - "#ephesians_2_5"
-  - "#ephesians_2_6"
-  - "#ephesians_2_10"
+  - "#efesios_2_1"
+  - "#efesios_2_2"
+  - "#efesios_2_3"
+  - "#efesios_2_4"
+  - "#efesios_2_5"
+  - "#efesios_2_6"
+  - "#efesios_2_10"
 sources:
   - "https://www.youtube.com/watch?v=0otmAtIUsUQ"
   - "docs/scriptures/delitzsch/json/ephesians.json"
@@ -37,11 +37,11 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | We were DEAD in
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #ephesians_2_1 | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם** | La condición descrita es muerte en transgresiones y pecados. |
-| #ephesians_2_2 | **אשר התהלכתם בהם כדור העולם הזה כרצון שר ממשלת האויר והוא הרוח הפעל כעת בבני המרִי** | El antiguo caminar se ajustaba al orden presente y al ruaj que opera en los hijos de la rebelión. |
-| #ephesians_2_3 | **וגם־אנחנו כלנו בתוכם הלכנו לפנים בתאות הבשר ... ונהי בני־רגז בטבענו כשאר בני אדם** | Pablo incluye a todos en la condición anterior: deseos, pensamientos y juicio. |
-| #ephesians_2_4-6 | **אבל־האלהים המלא רחמים ... החינו עם־המשיח ... ואף־הושיבנו במרומים** | El giro decisivo comienza con «pero Elohim»: misericordia, vivificación y unión con el Mesías. |
-| #ephesians_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים ... למען נתהלך בהם** | La obra de Elohim tiene como finalidad un caminar nuevo en buenas obras. |
+| #efesios_2_1 | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם** | La condición descrita es muerte en transgresiones y pecados. |
+| #efesios_2_2 | **אשר התהלכתם בהם כדור העולם הזה כרצון שר ממשלת האויר והוא הרוח הפעל כעת בבני המרִי** | El antiguo caminar se ajustaba al orden presente y al ruaj que opera en los hijos de la rebelión. |
+| #efesios_2_3 | **וגם־אנחנו כלנו בתוכם הלכנו לפנים בתאות הבשר ... ונהי בני־רגז בטבענו כשאר בני אדם** | Pablo incluye a todos en la condición anterior: deseos, pensamientos y juicio. |
+| #efesios_2_4-6 | **אבל־האלהים המלא רחמים ... החינו עם־המשיח ... ואף־הושיבנו במרומים** | El giro decisivo comienza con «pero Elohim»: misericordia, vivificación y unión con el Mesías. |
+| #efesios_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים ... למען נתהלך בהם** | La obra de Elohim tiene como finalidad un caminar nuevo en buenas obras. |
 
 ## Recordar la muerte sin convertirla en identidad final
 
@@ -49,7 +49,7 @@ La clase comienza con el peso de «estaban muertos». Eric explica que no se tra
 
 El contraste entre **פשע**, _pesha_, y **חטא**, _jata_, se presenta en la clase como diferencia entre rebelión o transgresión y pecado como condición. Esa distinción puede ayudar pedagógicamente a leer la relación entre acto y estado, pero no debe presentarse como si Efesios hubiera sido escrito originalmente en hebreo. El texto local de Delitzsch traduce el contraste mediante **פשעים** y **חטאות**; el griego subyacente requiere cotejo independiente antes de fijar una equivalencia semántica absoluta.
 
-## El antiguo caminar: un orden que forma la conducta (2:2-3) #ephesians_2_2-3
+## El antiguo caminar: un orden que forma la conducta (2:2-3) #efesios_2_2-3
 
 La expresión «caminar» no describe un acto aislado, sino la forma de vida que los destinatarios seguían. Eric desarrolla la imagen como un círculo vicioso: deseos, pensamientos y costumbres reproducen el mismo rumbo. La palabra griega **αἰών**, _aiōn_, suele significar edad, era o mundo en su dimensión temporal; la clase la explica además como «esencia» o fuerza vital de este orden. Esa ampliación es una lectura pedagógica, no una definición exhaustiva. En Efesios 2:2 la fuerza directa del término está en el orden o era conforme al cual caminaban.
 
@@ -75,11 +75,11 @@ La clase habla de la gracia como capacidad y dirección para comenzar a obedecer
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_2_1 | Estábamos muertos, no simplemente cometiendo errores aislados. | Apoyo textual; la aplicación sobre condición heredada queda cualificada. |
-| #ephesians_2_2 | «Eón» describe más que una corriente superficial: un orden que forma el caminar. | Se conserva como observación pedagógica y se limita el alcance léxico. |
-| #ephesians_2_3 | Todos participábamos de deseos y pensamientos de la carne; nadie debe presumir superioridad. | Apoyo textual para la inclusión de «todos»; las tesis sobre emociones quedan pendientes. |
-| #ephesians_2_4-6 | Elohim rompe el círculo y vivifica con el Mesías. | Apoyo textual en misericordia y verbos con σύν. |
-| #ephesians_2_8-10 | La gracia no autoriza inmovilidad: la nueva creación camina en buenas obras. | Apoyo textual directo; se distingue fundamento de salvación y fruto obediente. |
+| #efesios_2_1 | Estábamos muertos, no simplemente cometiendo errores aislados. | Apoyo textual; la aplicación sobre condición heredada queda cualificada. |
+| #efesios_2_2 | «Eón» describe más que una corriente superficial: un orden que forma el caminar. | Se conserva como observación pedagógica y se limita el alcance léxico. |
+| #efesios_2_3 | Todos participábamos de deseos y pensamientos de la carne; nadie debe presumir superioridad. | Apoyo textual para la inclusión de «todos»; las tesis sobre emociones quedan pendientes. |
+| #efesios_2_4-6 | Elohim rompe el círculo y vivifica con el Mesías. | Apoyo textual en misericordia y verbos con σύν. |
+| #efesios_2_8-10 | La gracia no autoriza inmovilidad: la nueva creación camina en buenas obras. | Apoyo textual directo; se distingue fundamento de salvación y fruto obediente. |
 
 ## Pendiente de verificar
 

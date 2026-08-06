@@ -11,16 +11,16 @@ tags:
   - comunidad
   - gloria
 references:
-  - "#thessalonians2_1_1"
-  - "#thessalonians2_1_3"
-  - "#thessalonians2_1_4"
-  - "#thessalonians2_1_5"
-  - "#thessalonians2_1_6"
-  - "#thessalonians2_1_7"
-  - "#thessalonians2_1_8"
-  - "#thessalonians2_1_10"
-  - "#thessalonians2_1_11"
-  - "#thessalonians2_1_12"
+  - "#2_tesalonicenses_1_1"
+  - "#2_tesalonicenses_1_3"
+  - "#2_tesalonicenses_1_4"
+  - "#2_tesalonicenses_1_5"
+  - "#2_tesalonicenses_1_6"
+  - "#2_tesalonicenses_1_7"
+  - "#2_tesalonicenses_1_8"
+  - "#2_tesalonicenses_1_10"
+  - "#2_tesalonicenses_1_11"
+  - "#2_tesalonicenses_1_12"
 sources:
   - "https://www.youtube.com/watch?v=0Betf3asqTU"
   - "https://www.youtube.com/watch?v=4TyD6gSQJfA"
@@ -38,7 +38,7 @@ translation: "[Delitzsch]"
 ## Alcance de la nota
 
 - Fuentes de clase: partes 1 y 2 del estudio de Eric de Jesús Rodríguez Mendoza sobre 2 Tesalonicenses 1.
-- La primera clase introduce el carácter escatológico de la carta y recorre el capítulo; la segunda se concentra en #thessalonians2_1_3-12. Esta nota conserva ese recorrido y distingue el texto del desarrollo interpretativo del expositor.
+- La primera clase introduce el carácter escatológico de la carta y recorre el capítulo; la segunda se concentra en #2_tesalonicenses_1_3-12. Esta nota conserva ese recorrido y distingue el texto del desarrollo interpretativo del expositor.
 - El texto se extrajo del Delitzsch local. No hay texto TTH disponible para este libro en el corpus local.
 - Las afirmaciones de clase sobre sintaxis griega, etimologías, atribución histórica de la persecución y formulaciones doctrinales que exceden el pasaje se mantienen atribuidas y, cuando corresponde, pendientes de cotejo.
 
@@ -46,31 +46,31 @@ translation: "[Delitzsch]"
 
 | Video                   | Cobertura                                     | Aporte a la lectura                                                                        |
 | ----------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Parte 1 — `0Betf3asqTU` | Panorama de la carta y #thessalonians2_1_1-12 | La aflicción de la comunidad se lee desde la esperanza de la revelación y el juicio justo. |
-| Parte 2 — `4TyD6gSQJfA` | #thessalonians2_1_3-12                        | Crecimiento de la emunah, amor, perseverancia, retribución y glorificación del Nombre.     |
+| Parte 1 — `0Betf3asqTU` | Panorama de la carta y #2_tesalonicenses_1_1-12 | La aflicción de la comunidad se lee desde la esperanza de la revelación y el juicio justo. |
+| Parte 2 — `4TyD6gSQJfA` | #2_tesalonicenses_1_3-12                        | Crecimiento de la emunah, amor, perseverancia, retribución y glorificación del Nombre.     |
 
 ## Hoja de comparación
 
 | Referencia              | Texto local (Delitzsch, sin nikud)                                                                                                                                                             | Observación textual                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| #thessalonians2_1_1     | **פולוס וסלונוס וטימותיוס אלקהלת התסלוניקיים באלהים אבינו ובאדנינו ישוע המשיח**                                                                                                                | El saludo sitúa a la comunidad en Elohim nuestro Padre y en el Señor Yehoshua el Mesías.           |
-| #thessalonians2_1_3-4   | **חיבים אנחנו להודות תמיד לאלהים עליכם אחי כראוי כי אמונתכם גדלה מאד ורבה אהבת כלכם איש לרעהו**; **עד שנתהלל בכם בקהלות אלהים עלסבלנותכם ועלאמונתכם בכלהרדיפות ובכלהלחץ אשר סבלתם**            | Gratitud por una emunah que crece, amor que abunda y perseverancia bajo persecución y presión.     |
-| #thessalonians2_1_5-7   | **לאות צדקת משפט אלהים למען תמצאו ראוים למלכות האלהים אשר בעבורה תענו**; **באשר צדיק הוא האלהים לגמל לחץ ללחציכם**; **ולכם הנלחצים רוחה עמנו יחד בהגלות האדון ישוע מןהשמים עםמלאכי עזו**       | El sufrimiento se relaciona con el justo juicio de Elohim, la retribución y el descanso futuro.    |
-| #thessalonians2_1_8     | **באש להבה להשיב נקם לאשר לאידעו אתהאלהים ולא שמעו לבשורת אדנינו ישוע המשיח**                                                                                                                  | La revelación del Señor incluye juicio sobre quienes no conocen a Elohim ni obedecen el evangelio. |
-| #thessalonians2_1_10    | **בבאו ביום ההוא להכבד בקדשיו ולהתפלא בכלהמאמינים כי האמנתם לעדותנו אליכם**                                                                                                                    | La venida culmina en gloria entre los santos y admiración en quienes creyeron el testimonio.       |
-| #thessalonians2_1_11-12 | **לזאת גםנתפלל בעדכם תמיד אשר יתן אתכם אלהינו ראוים למהשאתם מקראים וימלא בעז כלחפצכם בטוב וכלמעשה אמונתכם**; **למען יכבד בכם שם ישוע אדנינו ואתם תכבדו בו עלפי חסד אלהינו ואדנינו ישוע המשיח** | La oración pide un andar digno, obra de emunah y gloria mutua en el Nombre del Señor.              |
+| #2_tesalonicenses_1_1     | **פולוס וסלונוס וטימותיוס אלקהלת התסלוניקיים באלהים אבינו ובאדנינו ישוע המשיח**                                                                                                                | El saludo sitúa a la comunidad en Elohim nuestro Padre y en el Señor Yehoshua el Mesías.           |
+| #2_tesalonicenses_1_3-4   | **חיבים אנחנו להודות תמיד לאלהים עליכם אחי כראוי כי אמונתכם גדלה מאד ורבה אהבת כלכם איש לרעהו**; **עד שנתהלל בכם בקהלות אלהים עלסבלנותכם ועלאמונתכם בכלהרדיפות ובכלהלחץ אשר סבלתם**            | Gratitud por una emunah que crece, amor que abunda y perseverancia bajo persecución y presión.     |
+| #2_tesalonicenses_1_5-7   | **לאות צדקת משפט אלהים למען תמצאו ראוים למלכות האלהים אשר בעבורה תענו**; **באשר צדיק הוא האלהים לגמל לחץ ללחציכם**; **ולכם הנלחצים רוחה עמנו יחד בהגלות האדון ישוע מןהשמים עםמלאכי עזו**       | El sufrimiento se relaciona con el justo juicio de Elohim, la retribución y el descanso futuro.    |
+| #2_tesalonicenses_1_8     | **באש להבה להשיב נקם לאשר לאידעו אתהאלהים ולא שמעו לבשורת אדנינו ישוע המשיח**                                                                                                                  | La revelación del Señor incluye juicio sobre quienes no conocen a Elohim ni obedecen el evangelio. |
+| #2_tesalonicenses_1_10    | **בבאו ביום ההוא להכבד בקדשיו ולהתפלא בכלהמאמינים כי האמנתם לעדותנו אליכם**                                                                                                                    | La venida culmina en gloria entre los santos y admiración en quienes creyeron el testimonio.       |
+| #2_tesalonicenses_1_11-12 | **לזאת גםנתפלל בעדכם תמיד אשר יתן אתכם אלהינו ראוים למהשאתם מקראים וימלא בעז כלחפצכם בטוב וכלמעשה אמונתכם**; **למען יכבד בכם שם ישוע אדנינו ואתם תכבדו בו עלפי חסד אלהינו ואדנינו ישוע המשיח** | La oración pide un andar digno, obra de emunah y gloria mutua en el Nombre del Señor.              |
 
 ## Crecimiento que se hace visible
 
-Pablo no agradece una adhesión privada ni una identidad inmóvil. En #thessalonians2_1_3 el crecimiento de la emunah va unido al aumento del amor de cada uno hacia los demás; #thessalonians2_1_4 añade perseverancia y emunah en persecuciones y presiones. El texto une, por tanto, formación interior, relación comunitaria y resistencia concreta.
+Pablo no agradece una adhesión privada ni una identidad inmóvil. En #2_tesalonicenses_1_3 el crecimiento de la emunah va unido al aumento del amor de cada uno hacia los demás; #2_tesalonicenses_1_4 añade perseverancia y emunah en persecuciones y presiones. El texto une, por tanto, formación interior, relación comunitaria y resistencia concreta.
 
 La clase propone entender _emunah_ como educación y fidelidad que madura, no como optimismo mental. Esa aplicación ayuda a no aislar la fe de su fruto visible, pero la equivalencia técnica entre términos hebreos y griegos debe verificarse antes de establecerla como definición léxica del capítulo. Lo explícito es que la comunidad crece, ama y persevera.
 
 ## Aflicción, juicio y descanso
 
-#thessalonians2_1_5-7 no llama buena a la persecución ni ordena buscarla. Afirma que el justo juicio de Elohim se manifiesta en una comunidad que padece por el Reino, que Elohim retribuirá la presión a quienes presionan y que dará descanso a los afligidos en la revelación de Yehoshua desde los cielos.
+#2_tesalonicenses_1_5-7 no llama buena a la persecución ni ordena buscarla. Afirma que el justo juicio de Elohim se manifiesta en una comunidad que padece por el Reino, que Elohim retribuirá la presión a quienes presionan y que dará descanso a los afligidos en la revelación de Yehoshua desde los cielos.
 
-La primera clase interpreta la condenación de la carta especialmente a la luz de la oposición y persecución del evangelio, no como una mera falta de información. Esa es una formulación pastoral del expositor. El texto menciona tanto a quienes no conocen a Elohim como a quienes no obedecen el evangelio (#thessalonians2_1_8); su alcance final debe tratarse con la sobriedad del pasaje, sin convertir esta nota en una resolución exhaustiva de todas las cuestiones sobre juicio y responsabilidad.
+La primera clase interpreta la condenación de la carta especialmente a la luz de la oposición y persecución del evangelio, no como una mera falta de información. Esa es una formulación pastoral del expositor. El texto menciona tanto a quienes no conocen a Elohim como a quienes no obedecen el evangelio (#2_tesalonicenses_1_8); su alcance final debe tratarse con la sobriedad del pasaje, sin convertir esta nota en una resolución exhaustiva de todas las cuestiones sobre juicio y responsabilidad.
 
 ## Esperanza sin cálculo ni inmovilidad
 
@@ -80,7 +80,7 @@ Así, la esperanza no reduce la perseverancia: la sostiene. Quienes padecen no r
 
 ## El fin de la oración: el Nombre glorificado
 
-#thessalonians2_1_11-12 devuelve la mirada desde el juicio futuro a la vida actual. Pablo ora para que Elohim haga dignos a los llamados, cumpla con poder todo buen propósito y toda obra de emunah, a fin de que el Nombre de Yehoshua sea glorificado en ellos y ellos en él.
+#2_tesalonicenses_1_11-12 devuelve la mirada desde el juicio futuro a la vida actual. Pablo ora para que Elohim haga dignos a los llamados, cumpla con poder todo buen propósito y toda obra de emunah, a fin de que el Nombre de Yehoshua sea glorificado en ellos y ellos en él.
 
 La gloria del Nombre no aparece como prestigio religioso. En el flujo del capítulo, se relaciona con el crecimiento de la comunidad, su amor, su perseverancia y una obra de emunah llevada a cumplimiento. La esperanza futura no desplaza la obediencia presente; la oración la pide y la orienta.
 
@@ -88,41 +88,41 @@ La gloria del Nombre no aparece como prestigio religioso. En el flujo del capít
 
 | Forma         | Sentido en la nota       | Tipo de relación                                      | Cautela                                                                                                    |
 | ------------- | ------------------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **(אמונתכם)** | vuestra emunah/fidelidad | Textual en Delitzsch de #thessalonians2_1_3-4         | La ampliación de la clase hacia “educación divina” requiere cotejo semántico.                              |
-| **(אהבת)**    | amor                     | Textual en #thessalonians2_1_3                        | El pasaje afirma que abunda entre los hermanos; no define por sí solo todas sus aplicaciones comunitarias. |
-| **(סבלנות)**  | perseverancia/paciencia  | Textual en #thessalonians2_1_4                        | La clase la relaciona con resistencia bajo presión; conviene cotejar el griego correspondiente.            |
-| **(לחץ)**     | presión, aflicción       | Textual en #thessalonians2_1_4, #thessalonians2_1_6-7 | No identifica por sí mismo a un grupo histórico concreto de perseguidores.                                 |
-| **(יכבד)**    | sea glorificado/honrado  | Textual en #thessalonians2_1_10, #thessalonians2_1_12 | La conexión con _kabod_ como “peso” puede ser pedagógica; no asumir equivalencia automática con el griego. |
+| **(אמונתכם)** | vuestra emunah/fidelidad | Textual en Delitzsch de #2_tesalonicenses_1_3-4         | La ampliación de la clase hacia “educación divina” requiere cotejo semántico.                              |
+| **(אהבת)**    | amor                     | Textual en #2_tesalonicenses_1_3                        | El pasaje afirma que abunda entre los hermanos; no define por sí solo todas sus aplicaciones comunitarias. |
+| **(סבלנות)**  | perseverancia/paciencia  | Textual en #2_tesalonicenses_1_4                        | La clase la relaciona con resistencia bajo presión; conviene cotejar el griego correspondiente.            |
+| **(לחץ)**     | presión, aflicción       | Textual en #2_tesalonicenses_1_4, #2_tesalonicenses_1_6-7 | No identifica por sí mismo a un grupo histórico concreto de perseguidores.                                 |
+| **(יכבד)**    | sea glorificado/honrado  | Textual en #2_tesalonicenses_1_10, #2_tesalonicenses_1_12 | La conexión con _kabod_ como “peso” puede ser pedagógica; no asumir equivalencia automática con el griego. |
 
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                        | Observación atribuible de Eric                                                                                                                         | Evaluación frente a 2 Tesalonicenses 1                                                                                                                                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #thessalonians2_1_1-4; `youtube:0Betf3asqTU`  | La introducción presenta una comunidad cuya emunah crece junto con el amor y cuya perseverancia se vuelve testimonio bajo presión.                     | Apoyo textual: Pablo agradece el crecimiento de la emunah, el amor abundante y la perseverancia en persecuciones; «testimonio» es una síntesis pedagógica del elogio apostólico, no una cita literal. |
-| #thessalonians2_1_5-10; `youtube:4TyD6gSQJfA` | La aflicción se interpreta desde el justo juicio de Elohim, el reposo prometido y la revelación futura de Yehoshua, no desde una venganza comunitaria. | Apoyo textual cualificado: el pasaje afirma retribución y reposo en la revelación; la aplicación histórica a perseguidores concretos debe quedar abierta cuando el capítulo no los identifica.        |
-| #thessalonians2_1_11-12; ambas fuentes        | La esperanza escatológica se verifica en una obra de emunah y en el Nombre de Yehoshua glorificado en la comunidad.                                    | Apoyo textual: la oración pide dignidad, buen propósito, obra de emunah y gloria mutua; no convierte «digno» en mérito que compre el reino.                                                           |
+| #2_tesalonicenses_1_1-4; `youtube:0Betf3asqTU`  | La introducción presenta una comunidad cuya emunah crece junto con el amor y cuya perseverancia se vuelve testimonio bajo presión.                     | Apoyo textual: Pablo agradece el crecimiento de la emunah, el amor abundante y la perseverancia en persecuciones; «testimonio» es una síntesis pedagógica del elogio apostólico, no una cita literal. |
+| #2_tesalonicenses_1_5-10; `youtube:4TyD6gSQJfA` | La aflicción se interpreta desde el justo juicio de Elohim, el reposo prometido y la revelación futura de Yehoshua, no desde una venganza comunitaria. | Apoyo textual cualificado: el pasaje afirma retribución y reposo en la revelación; la aplicación histórica a perseguidores concretos debe quedar abierta cuando el capítulo no los identifica.        |
+| #2_tesalonicenses_1_11-12; ambas fuentes        | La esperanza escatológica se verifica en una obra de emunah y en el Nombre de Yehoshua glorificado en la comunidad.                                    | Apoyo textual: la oración pide dignidad, buen propósito, obra de emunah y gloria mutua; no convierte «digno» en mérito que compre el reino.                                                           |
 
 ## Control léxico y sintáctico
 
-La enseñanza atribuible de Eric debe leerse con el vocabulario del texto local, no con equivalencias hebreas automáticas. **(αὐξάνω)**, _auxanō_, significa crecer, aumentar o desarrollarse; en #thessalonians2_1_3 describe una emunah que madura públicamente junto con el amor. «Crecer» es **directo** como sentido ordinario; presentarlo como progreso uniforme de cada creyente sería **aproximado** e inferencial. **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o resistencia; en #thessalonians2_1_4 califica la permanencia bajo persecución y presión. «Paciencia» es posible, pero «perseverancia» es más **exacta** para el contexto de sufrimiento; no es una teoría completa de seguridad final.
+La enseñanza atribuible de Eric debe leerse con el vocabulario del texto local, no con equivalencias hebreas automáticas. **(αὐξάνω)**, _auxanō_, significa crecer, aumentar o desarrollarse; en #2_tesalonicenses_1_3 describe una emunah que madura públicamente junto con el amor. «Crecer» es **directo** como sentido ordinario; presentarlo como progreso uniforme de cada creyente sería **aproximado** e inferencial. **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o resistencia; en #2_tesalonicenses_1_4 califica la permanencia bajo persecución y presión. «Paciencia» es posible, pero «perseverancia» es más **exacta** para el contexto de sufrimiento; no es una teoría completa de seguridad final.
 
-**(ἔνδειγμα)**, _endeigma_, significa evidencia, indicio o demostración; en #thessalonians2_1_5 presenta la situación de la comunidad como indicio dentro del justo juicio de Elohim. «Evidencia» es **aproximada y contextual**: el sustantivo no afirma que el sufrimiento produzca por sí mismo mérito. **(δίκαιος)**, _dikaios_, significa justo, recto o conforme a la norma; en #thessalonians2_1_6 califica la retribución divina. «Justo» es **directo** como glosa, mientras deducir la forma de cada juicio particular sería **inferencial**.
+**(ἔνδειγμα)**, _endeigma_, significa evidencia, indicio o demostración; en #2_tesalonicenses_1_5 presenta la situación de la comunidad como indicio dentro del justo juicio de Elohim. «Evidencia» es **aproximada y contextual**: el sustantivo no afirma que el sufrimiento produzca por sí mismo mérito. **(δίκαιος)**, _dikaios_, significa justo, recto o conforme a la norma; en #2_tesalonicenses_1_6 califica la retribución divina. «Justo» es **directo** como glosa, mientras deducir la forma de cada juicio particular sería **inferencial**.
 
-**(ἄνεσις)**, _anesis_, significa alivio, descanso o liberación de presión; en #thessalonians2_1_7 nombra el reposo concedido a los afligidos junto con Pablo en la revelación del Adón. «Reposo» es **directo y contextual**; no significa evasión de toda responsabilidad presente. **(ἀποκάλυψις)**, _apokalypsis_, significa revelación, descubrimiento o manifestación; aquí describe la aparición pública de Yehoshua desde el cielo. «Revelación» es **directa**, pero usarla para construir un calendario detallado es **inferencial**.
+**(ἄνεσις)**, _anesis_, significa alivio, descanso o liberación de presión; en #2_tesalonicenses_1_7 nombra el reposo concedido a los afligidos junto con Pablo en la revelación del Adón. «Reposo» es **directo y contextual**; no significa evasión de toda responsabilidad presente. **(ἀποκάλυψις)**, _apokalypsis_, significa revelación, descubrimiento o manifestación; aquí describe la aparición pública de Yehoshua desde el cielo. «Revelación» es **directa**, pero usarla para construir un calendario detallado es **inferencial**.
 
-**(ἐκδίκησις)**, _ekdikēsis_, significa venganza, reivindicación o retribución; en #thessalonians2_1_8-9 pertenece al juicio de Elohim en la revelación del Mesías. «Venganza» es una traducción **aproximada** que necesita el sujeto divino y el contexto; no autoriza represalia privada. **(ὄλεθρος)**, _olethros_, significa ruina, destrucción o pérdida; en #thessalonians2_1_9 califica la consecuencia de la oposición al evangelio. «Destrucción» es **aproximada** y no resuelve por sí sola el alcance final.
+**(ἐκδίκησις)**, _ekdikēsis_, significa venganza, reivindicación o retribución; en #2_tesalonicenses_1_8-9 pertenece al juicio de Elohim en la revelación del Mesías. «Venganza» es una traducción **aproximada** que necesita el sujeto divino y el contexto; no autoriza represalia privada. **(ὄλεθρος)**, _olethros_, significa ruina, destrucción o pérdida; en #2_tesalonicenses_1_9 califica la consecuencia de la oposición al evangelio. «Destrucción» es **aproximada** y no resuelve por sí sola el alcance final.
 
-**(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; en #thessalonians2_1_11 se refiere al llamamiento de la comunidad. «Llamados» es **directo**, pero el verbo aislado no decide toda cuestión sobre elección. **(ἐνδοξάζω)**, _endoxazō_, significa glorificar, honrar o hacer manifiesta la gloria; en #thessalonians2_1_10 y 1:12 expresa que Yehoshua es glorificado en sus santos y en la obra de la comunidad. «Glorificar» es **directo**; la relación con _kavod_ puede ser pedagógica, no una equivalencia formal entre lenguas.
+**(καλέω)**, _kaleō_, significa llamar, convocar o nombrar; en #2_tesalonicenses_1_11 se refiere al llamamiento de la comunidad. «Llamados» es **directo**, pero el verbo aislado no decide toda cuestión sobre elección. **(ἐνδοξάζω)**, _endoxazō_, significa glorificar, honrar o hacer manifiesta la gloria; en #2_tesalonicenses_1_10 y 1:12 expresa que Yehoshua es glorificado en sus santos y en la obra de la comunidad. «Glorificar» es **directo**; la relación con _kavod_ puede ser pedagógica, no una equivalencia formal entre lenguas.
 
 En el texto hebreo de Delitzsch, **(אמונתכם)**, _emunatekhem_, significa «vuestra fidelidad» o «vuestra confianza»; en 1:3 traduce el campo de emunah en la descripción del crecimiento comunitario. La glosa «fidelidad» es **aproximada y contextual**, no una prueba de que el hebreo y el griego tengan idéntica forma o alcance. **(סבלנות)**, _savlanut_, significa paciencia, tolerancia o perseverancia; en 1:4 acompaña la presión y las persecuciones. «Perseverancia» es **pedagógica y contextual**; el control argumental procede del versículo completo, no de una etimología aislada. **(יכבד)**, _yikhbad_, significa ser honrado o glorificado; en 1:10 y 1:12 expresa el honor dado al Nombre. «Glorificado» es **directo en esta traducción**, mientras relacionarlo con _endoxazō_ o _kavod_ es **aproximado e interlingüístico**.
 
 ## Pendiente de verificar
 
-- [ ] Cotejar las propuestas de la clase sobre el griego de #thessalonians2_1_1-4, especialmente la ausencia de artículo, los verbos de gratitud y la lectura de emunah como educación.
+- [ ] Cotejar las propuestas de la clase sobre el griego de #2_tesalonicenses_1_1-4, especialmente la ausencia de artículo, los verbos de gratitud y la lectura de emunah como educación.
 - [ ] Revisar el alcance histórico de la persecución en Tesalónica y la identificación de sus opositores antes de atribuirla a un grupo específico.
 - [ ] Verificar las afirmaciones léxicas de la clase sobre _parousia_, “pronto”, _olam_ y los términos de juicio antes de usarlas como definiciones técnicas.
-- [ ] Cotejar las conexiones propuestas por la clase entre #thessalonians2_1_8-9, Babel, Edom y textos proféticos; no son citas explícitas del capítulo.
-- [ ] Examinar con gramáticas y comentarios el alcance de “conocer a Elohim”, “obedecer el evangelio” y la retribución en #thessalonians2_1_6-9.
+- [ ] Cotejar las conexiones propuestas por la clase entre #2_tesalonicenses_1_8-9, Babel, Edom y textos proféticos; no son citas explícitas del capítulo.
+- [ ] Examinar con gramáticas y comentarios el alcance de “conocer a Elohim”, “obedecer el evangelio” y la retribución en #2_tesalonicenses_1_6-9.
 
 ## Conclusión
 
@@ -132,13 +132,13 @@ En el texto hebreo de Delitzsch, **(אמונתכם)**, _emunatekhem_, significa 
 
 Las dos fuentes públicas de esta nota forman una sola ruta de lectura. `youtube:0Betf3asqTU` presenta el marco del capítulo y su esperanza escatológica; `youtube:4TyD6gSQJfA` desarrolla el crecimiento de la emunah, la presión sufrida, el juicio justo y la oración por una vida digna. Estas observaciones se conservan como paráfrasis atribuibles de Eric de Jesús Rodríguez Mendoza, no como citas literales. El texto local gobierna la evaluación y evita convertir el sufrimiento en mérito o la revelación futura en un calendario especulativo.
 
-En #thessalonians2_1_3-4, **(αὐξάνω)**, _auxanō_, significa crecer, aumentar o desarrollarse; su fuerza contextual describe una emunah que madura junto con el amor de unos por otros. **(πλεονάζω)**, _pleonazō_, significa abundar, multiplicarse o desbordar; califica el amor comunitario, no una acumulación privada de experiencias. **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o resistencia; en 1:4 nombra la permanencia bajo persecuciones y presiones. «Crecimiento», «abundancia» y «perseverancia» son glosas **directas en el campo ordinario**; afirmar que cada sufrimiento demuestra automáticamente una condición espiritual superior sería **inferencial e ilegítimo**.
+En #2_tesalonicenses_1_3-4, **(αὐξάνω)**, _auxanō_, significa crecer, aumentar o desarrollarse; su fuerza contextual describe una emunah que madura junto con el amor de unos por otros. **(πλεονάζω)**, _pleonazō_, significa abundar, multiplicarse o desbordar; califica el amor comunitario, no una acumulación privada de experiencias. **(ὑπομονή)**, _hypomonē_, significa perseverancia, constancia o resistencia; en 1:4 nombra la permanencia bajo persecuciones y presiones. «Crecimiento», «abundancia» y «perseverancia» son glosas **directas en el campo ordinario**; afirmar que cada sufrimiento demuestra automáticamente una condición espiritual superior sería **inferencial e ilegítimo**.
 
-En #thessalonians2_1_5-7, **(ἔνδειγμα)**, _endeigma_, significa indicio, evidencia o demostración; su fuerza contextual presenta la perseverancia de la comunidad dentro del juicio justo de Elohim, no como precio que compra el reino. **(δίκαιος)**, _dikaios_, significa justo, recto o conforme a una norma; en 1:6 califica la retribución divina. **(ἀνταποδίδωμι)**, _antapodidōmi_, significa devolver, retribuir o responder en correspondencia; el verbo describe la acción de Elohim frente a quienes afligen y frente a quienes padecen. Las glosas son **directas**, pero decidir el detalle de cada juicio individual sería **inferencial**, porque Pablo afirma el principio y orienta la esperanza hacia la revelación.
+En #2_tesalonicenses_1_5-7, **(ἔνδειγμα)**, _endeigma_, significa indicio, evidencia o demostración; su fuerza contextual presenta la perseverancia de la comunidad dentro del juicio justo de Elohim, no como precio que compra el reino. **(δίκαιος)**, _dikaios_, significa justo, recto o conforme a una norma; en 1:6 califica la retribución divina. **(ἀνταποδίδωμι)**, _antapodidōmi_, significa devolver, retribuir o responder en correspondencia; el verbo describe la acción de Elohim frente a quienes afligen y frente a quienes padecen. Las glosas son **directas**, pero decidir el detalle de cada juicio individual sería **inferencial**, porque Pablo afirma el principio y orienta la esperanza hacia la revelación.
 
 El descanso prometido no es evasión del presente. **(ἄνεσις)**, _anesis_, significa alivio, descanso o liberación de presión; en 1:7 señala el descanso que llega con la revelación del Señor Yehoshua. **(ἀποκάλυψις)**, _apokalypsis_, significa revelación, descubrimiento o manifestación; su fuerza contextual es pública y escatológica. «Reposo» y «revelación» son glosas **directas**; construir desde ellas fechas, mapas proféticos o una cronología exhaustiva sería **pedagógico e inferencial**, no una conclusión del capítulo. La enseñanza atribuible de Eric recibe apoyo **cualificado** cuando resiste el cálculo de fechas: el texto promete justicia futura, pero no entrega un calendario.
 
-En #thessalonians2_1_8-10, **(ἐκδίκησις)**, _ekdikēsis_, significa retribución, reivindicación o venganza; su fuerza contextual pertenece al juicio ejercido por Elohim en la manifestación del Señor, no a una autorización de represalia privada. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 1:8 describe la falta de obediencia al evangelio junto con el no conocer a Elohim. **(ὄλεθρος)**, _olethros_, significa ruina, destrucción o pérdida; la glosa «destrucción» es **aproximada**, porque el sustantivo por sí solo no resuelve todas las cuestiones sobre el alcance final del juicio. **(ἐνδοξάζω)**, _endoxazō_, glorificar, honrar o hacer manifiesta la gloria, expresa que Yehoshua será glorificado en sus santos y admirado en quienes creyeron.
+En #2_tesalonicenses_1_8-10, **(ἐκδίκησις)**, _ekdikēsis_, significa retribución, reivindicación o venganza; su fuerza contextual pertenece al juicio ejercido por Elohim en la manifestación del Señor, no a una autorización de represalia privada. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 1:8 describe la falta de obediencia al evangelio junto con el no conocer a Elohim. **(ὄλεθρος)**, _olethros_, significa ruina, destrucción o pérdida; la glosa «destrucción» es **aproximada**, porque el sustantivo por sí solo no resuelve todas las cuestiones sobre el alcance final del juicio. **(ἐνδοξάζω)**, _endoxazō_, glorificar, honrar o hacer manifiesta la gloria, expresa que Yehoshua será glorificado en sus santos y admirado en quienes creyeron.
 
 La oración de 1:11-12 devuelve la escatología a la vida concreta. **(καλέω)**, _kaleō_, significa llamar, convocar o invitar; su fuerza identifica el llamamiento recibido, pero el verbo aislado no decide toda doctrina de elección. **(καταξιόω)**, _kataxioō_, significa considerar digno, hacer apto o tener por digno; en 1:11 aparece dentro de una petición, no como salario autónomo. **(εὐδοκία)**, _eudokia_, significa buena voluntad, propósito favorable o beneplácito, y **(ἔργον πίστεως)**, _ergon pisteōs_, obra de emunah o trabajo de confianza, une propósito, poder y respuesta. Las glosas son **directas**; convertir «digno» en una compra humana del reino sería **ilegítimo**.
 

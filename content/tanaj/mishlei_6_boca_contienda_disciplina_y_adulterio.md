@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 6:16-35 sobre las siete abominaciones, la conti
 date: 2026-08-06
 tags: [mishlei, mishlei_6, lengua, testimonio, disciplina, adulterio, torah]
 references:
-  - "#mishlei_6_1"
-  - "#mishlei_6_6"
-  - "#mishlei_6_12"
-  - "#mishlei_6_16"
-  - "#mishlei_6_17"
-  - "#mishlei_6_19"
-  - "#mishlei_6_20"
-  - "#mishlei_6_22"
-  - "#mishlei_6_23"
-  - "#mishlei_6_24"
-  - "#mishlei_6_32"
+  - "#proverbios_6_1"
+  - "#proverbios_6_6"
+  - "#proverbios_6_12"
+  - "#proverbios_6_16"
+  - "#proverbios_6_17"
+  - "#proverbios_6_19"
+  - "#proverbios_6_20"
+  - "#proverbios_6_22"
+  - "#proverbios_6_23"
+  - "#proverbios_6_24"
+  - "#proverbios_6_32"
   - "#mateo_18_15"
-  - "#ieshaiahu_1_18"
+  - "#isaias_1_18"
 sources:
   - "https://www.youtube.com/watch?v=7w3MLPUYzTE"
   - "docs/scriptures/oe/json/proverbs/6.json"
@@ -38,13 +38,13 @@ Esta nota organiza la enseñanza pública del hermano Eric de Jesús Rodríguez 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) | Función en la enseñanza |
 | --- | --- | --- | --- |
-| #mishlei_6_1-2 | בני אם ערבת לרעך ... נוקשת באמרי פיך | Hijo mío, si te comprometiste con tu compañero... has sido atrapado con los dichos de tu boca. | La palabra puede comprometer y atrapar. |
-| #mishlei_6_6-8 | לך אל נמלה עצל ... תכין בקיץ לחמה | Ve hacia la hormiga, perezoso... prepara en el verano su pan. | Trabajo diligente frente a la pasividad. |
-| #mishlei_6_12-15 | אדם בליעל איש און ... פתאם ישבר | El hombre sin provecho... anda con torcedura de boca... de repente será roto. | Malicia coordinada y juicio. |
-| #mishlei_6_16-19 | שש הנה שנא יהוה ... ומשלח מדנים בין אחים | Seis cosas son las que odia יהוה, y siete son abominaciones de su ser... el que envía contiendas entre hermanos. | Catálogo de conductas destructivas. |
-| #mishlei_6_20-23 | נצר בני מצות אביך ... כי נר מצוה ותורה אור | Vigila, hijo mío, el mandamiento de tu padre... porque lámpara es la Torah y el mandamiento es luz. | La instrucción como guía y protección. |
-| #mishlei_6_27-29 | היחתה איש אש בחיקו ... לא ינקה | ¿Quitará un hombre fuego con su seno...? Así es el que entra a la mujer de su compañero. | Consecuencia inevitable de la infidelidad. |
-| #mishlei_6_32-35 | נאף אשה חסר לב ... לא יאבה כי תרבה שחד | El adúltero con una mujer es falto de corazón... no asentirá porque multipliques el soborno. | Corrupción del ser y juicio sin soborno. |
+| #proverbios_6_1-2 | בני אם ערבת לרעך ... נוקשת באמרי פיך | Hijo mío, si te comprometiste con tu compañero... has sido atrapado con los dichos de tu boca. | La palabra puede comprometer y atrapar. |
+| #proverbios_6_6-8 | לך אל נמלה עצל ... תכין בקיץ לחמה | Ve hacia la hormiga, perezoso... prepara en el verano su pan. | Trabajo diligente frente a la pasividad. |
+| #proverbios_6_12-15 | אדם בליעל איש און ... פתאם ישבר | El hombre sin provecho... anda con torcedura de boca... de repente será roto. | Malicia coordinada y juicio. |
+| #proverbios_6_16-19 | שש הנה שנא יהוה ... ומשלח מדנים בין אחים | Seis cosas son las que odia יהוה, y siete son abominaciones de su ser... el que envía contiendas entre hermanos. | Catálogo de conductas destructivas. |
+| #proverbios_6_20-23 | נצר בני מצות אביך ... כי נר מצוה ותורה אור | Vigila, hijo mío, el mandamiento de tu padre... porque lámpara es la Torah y el mandamiento es luz. | La instrucción como guía y protección. |
+| #proverbios_6_27-29 | היחתה איש אש בחיקו ... לא ינקה | ¿Quitará un hombre fuego con su seno...? Así es el que entra a la mujer de su compañero. | Consecuencia inevitable de la infidelidad. |
+| #proverbios_6_32-35 | נאף אשה חסר לב ... לא יאבה כי תרבה שחד | El adúltero con una mujer es falto de corazón... no asentirá porque multipliques el soborno. | Corrupción del ser y juicio sin soborno. |
 
 ## El compromiso de la boca y el camino diligente
 

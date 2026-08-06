@@ -7,8 +7,8 @@ tags:
   - fiestas
   - levitico
 references:
-  - "#vaikra_23_39-43"
-  - "#devarim_16_13-15"
+  - "#levitico_23_39-43"
+  - "#deuteronomio_16_13-15"
 sources:
   - "https://www.youtube.com/watch?v=mZGpW3lwf4Y"
   - "https://www.youtube.com/watch?v=xwuvQhEMMDo"
@@ -36,8 +36,8 @@ Sukot es una convocatoria de siete días para alegrarse ante יהוה y recordar
 
 | Referencia        | Texto hebreo local                                                                                                                                       | Observación                                                                         |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #vaikra_23_39-43  | אך בחמשה עשר יום לחדש השביעי... וחגתם חג ליהוה שבעת ימים... בסכת תשבו שבעת ימים... למען ידעו דרתיכם כי בסכות הושבתי את בני ישראל בהוציאי אותם מארץ מצרים | La Torah nombra la cosecha, el descanso, la morada temporal y la memoria del éxodo. |
-| #devarim_16_13-15 | חג הסכת תעשה לך שבעת ימים... ושמחת בחגך... והיית אך שמח                                                                                                  | El gozo se ordena y se extiende a quienes forman la casa y la comunidad.            |
+| #levitico_23_39-43  | אך בחמשה עשר יום לחדש השביעי... וחגתם חג ליהוה שבעת ימים... בסכת תשבו שבעת ימים... למען ידעו דרתיכם כי בסכות הושבתי את בני ישראל בהוציאי אותם מארץ מצרים | La Torah nombra la cosecha, el descanso, la morada temporal y la memoria del éxodo. |
+| #deuteronomio_16_13-15 | חג הסכת תעשה לך שבעת ימים... ושמחת בחגך... והיית אך שמח                                                                                                  | El gozo se ordena y se extiende a quienes forman la casa y la comunidad.            |
 
 ## Alcance de la nota
 

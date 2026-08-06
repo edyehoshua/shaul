@@ -8,14 +8,14 @@ tags:
   - yehoshua
   - juicio
 references:
-  - "#revelation_15_1"
-  - "#revelation_15_2"
-  - "#revelation_15_3"
-  - "#revelation_15_4"
-  - "#revelation_15_5"
-  - "#revelation_15_6"
-  - "#revelation_15_7"
-  - "#revelation_15_8"
+  - "#apocalipsis_15_1"
+  - "#apocalipsis_15_2"
+  - "#apocalipsis_15_3"
+  - "#apocalipsis_15_4"
+  - "#apocalipsis_15_5"
+  - "#apocalipsis_15_6"
+  - "#apocalipsis_15_7"
+  - "#apocalipsis_15_8"
 sources:
   - "https://www.youtube.com/watch?v=OlSFD4epPUA"
   - "https://www.youtube.com/watch?v=S-3xrfrhh_Q"
@@ -38,25 +38,25 @@ Esta nota reúne dos clases públicas del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la enseñanza |
 | --- | --- | --- |
-| #revelation_15_1 | **וארא אות אחר בשמים גדול ונפלא שבעה מלאכים נשאים אתשבע המכות האחרונות כי בהן כלה זעם אלהים** | Anuncia siete plagas finales y la consumación de la ira de Elohim. |
-| #revelation_15_2 | **וארא כים זכוכית בלול באש ואתהמתגברים עלהחיה ועלצלמה ועלתוה ועלמספר שמה עמדים עלים הזכוכית וכנרות אלהים בידיהם** | Presenta a los vencedores frente a la bestia, su imagen, su señal y el número de su nombre. |
-| #revelation_15_3-4 | **וישירו אתשירת משה עבד אלהים ושירת השה... צדק ואמת דרכיך מלך הגוים... כי כלהגוים יבאו וישתחוו לפניך** | El cántico une la memoria de Moisés, al Cordero, las obras justas y la adoración futura de las naciones. |
-| #revelation_15_5-6 | **ואחרי כן ראיתי והנה נפתח היכל משכן העדות בשמים... ויצאו מןהיכל שבעה המלאכים הנשאים אתשבע המכות** | El santuario se abre y los siete portadores salen preparados para ejecutar el juicio. |
-| #revelation_15_7-8 | **ואחת מארבע החיות נתנה לשבעת המלאכים שבע קערות זהב מלאות חמת האלהים... וימלא ההיכל עשן מכבוד אלהים ועזו** | Las copas contienen la ira; la gloria llena el templo hasta que terminen las plagas. |
+| #apocalipsis_15_1 | **וארא אות אחר בשמים גדול ונפלא שבעה מלאכים נשאים אתשבע המכות האחרונות כי בהן כלה זעם אלהים** | Anuncia siete plagas finales y la consumación de la ira de Elohim. |
+| #apocalipsis_15_2 | **וארא כים זכוכית בלול באש ואתהמתגברים עלהחיה ועלצלמה ועלתוה ועלמספר שמה עמדים עלים הזכוכית וכנרות אלהים בידיהם** | Presenta a los vencedores frente a la bestia, su imagen, su señal y el número de su nombre. |
+| #apocalipsis_15_3-4 | **וישירו אתשירת משה עבד אלהים ושירת השה... צדק ואמת דרכיך מלך הגוים... כי כלהגוים יבאו וישתחוו לפניך** | El cántico une la memoria de Moisés, al Cordero, las obras justas y la adoración futura de las naciones. |
+| #apocalipsis_15_5-6 | **ואחרי כן ראיתי והנה נפתח היכל משכן העדות בשמים... ויצאו מןהיכל שבעה המלאכים הנשאים אתשבע המכות** | El santuario se abre y los siete portadores salen preparados para ejecutar el juicio. |
+| #apocalipsis_15_7-8 | **ואחת מארבע החיות נתנה לשבעת המלאכים שבע קערות זהב מלאות חמת האלהים... וימלא ההיכל עשן מכבוד אלהים ועזו** | Las copas contienen la ira; la gloria llena el templo hasta que terminen las plagas. |
 
-## El anuncio y la continuidad con Egipto: 15:1-4 #revelation_15_1-4
+## El anuncio y la continuidad con Egipto: 15:1-4 #apocalipsis_15_1-4
 
 Eric subraya que el capítulo 15 es breve y funciona como anuncio de las siete plagas que se desarrollarán en el capítulo 16. En su lectura, las siete plagas postreras recuerdan las plagas de Egipto: no como una repetición accidental, sino como una señal de que Elohim juzga las potestades que pretenden proteger a quienes confían en ellas. La correspondencia tipológica es concreta en la exposición, pero no permite afirmar por sí sola que cada copa tenga una deidad antigua identificable ni que la secuencia sea una cronología histórica ya reconstruida.
 
-El texto, antes de describir el juicio, muestra a los vencedores sobre un mar semejante al vidrio mezclado con fuego (#revelation_15_2). Eric conecta esta escena con el remanente que no adora a la bestia ni a su imagen. La observación conserva el contraste narrativo: las copas no se anuncian desde la desesperación de los fieles, sino después de mostrar a quienes perseveraron. La frase «mar de vidrio» sigue siendo una imagen visionaria; su aplicación a sistemas concretos requiere cautela.
+El texto, antes de describir el juicio, muestra a los vencedores sobre un mar semejante al vidrio mezclado con fuego (#apocalipsis_15_2). Eric conecta esta escena con el remanente que no adora a la bestia ni a su imagen. La observación conserva el contraste narrativo: las copas no se anuncian desde la desesperación de los fieles, sino después de mostrar a quienes perseveraron. La frase «mar de vidrio» sigue siendo una imagen visionaria; su aplicación a sistemas concretos requiere cautela.
 
-El cántico de Moisés y del Cordero (#revelation_15_3-4) es el centro interpretativo. Eric destaca que «grandes y maravillosas» son las obras de יהוה y que sus caminos son justicia y verdad. También lee «todas las naciones vendrán y adorarán» como una programación futura, no como una condición limitada al presente de la iglesia. El pasaje sí articula juicio, santidad y adoración universal; la datación precisa de ese futuro queda pendiente.
+El cántico de Moisés y del Cordero (#apocalipsis_15_3-4) es el centro interpretativo. Eric destaca que «grandes y maravillosas» son las obras de יהוה y que sus caminos son justicia y verdad. También lee «todas las naciones vendrán y adorarán» como una programación futura, no como una condición limitada al presente de la iglesia. El pasaje sí articula juicio, santidad y adoración universal; la datación precisa de ese futuro queda pendiente.
 
-## Santuario, mensajeros y copas: 15:5-8 #revelation_15_5-8
+## Santuario, mensajeros y copas: 15:5-8 #apocalipsis_15_5-8
 
-Después del cántico se abre el templo, descrito como el tabernáculo del testimonio en el cielo (#revelation_15_5). Siete mensajeros salen vestidos de lino limpio y ceñidos con oro (#revelation_15_6). Eric insiste en que «mensajero» no debe reducirse automáticamente a un ser alado: en su explicación, el término puede abarcar al portador de un juicio o de una palabra. Esa ampliación preserva una observación concreta de la clase, pero el sentido de cada uso debe comprobarse en su contexto y no convertirse en una regla uniforme.
+Después del cántico se abre el templo, descrito como el tabernáculo del testimonio en el cielo (#apocalipsis_15_5). Siete mensajeros salen vestidos de lino limpio y ceñidos con oro (#apocalipsis_15_6). Eric insiste en que «mensajero» no debe reducirse automáticamente a un ser alado: en su explicación, el término puede abarcar al portador de un juicio o de una palabra. Esa ampliación preserva una observación concreta de la clase, pero el sentido de cada uso debe comprobarse en su contexto y no convertirse en una regla uniforme.
 
-Una de las cuatro criaturas entrega siete copas de oro llenas de la ira de Elohim (#revelation_15_7). El capítulo presenta las copas como instrumentos del juicio; no autoriza a dirigir hostilidad contra personas contemporáneas. La imagen de un templo lleno de humo por la gloria y el poder de Elohim (#revelation_15_8) marca una clausura solemne: nadie puede entrar hasta que terminen las siete plagas. La secuencia es importante: la autoridad del juicio sale del santuario y está subordinada a la justicia divina, no a especulación humana.
+Una de las cuatro criaturas entrega siete copas de oro llenas de la ira de Elohim (#apocalipsis_15_7). El capítulo presenta las copas como instrumentos del juicio; no autoriza a dirigir hostilidad contra personas contemporáneas. La imagen de un templo lleno de humo por la gloria y el poder de Elohim (#apocalipsis_15_8) marca una clausura solemne: nadie puede entrar hasta que terminen las siete plagas. La secuencia es importante: la autoridad del juicio sale del santuario y está subordinada a la justicia divina, no a especulación humana.
 
 ## Hoja léxica
 
@@ -71,9 +71,9 @@ Una de las cuatro criaturas entrega siete copas de oro llenas de la ira de Elohi
 
 | Unidad textual | Enseñanza concreta tomada de Eric | Cómo se evaluó en esta nota |
 | --- | --- | --- |
-| #revelation_15_1-2 | Eric presenta las siete plagas como un anuncio conectado con las plagas de Egipto y observa que el remanente vencedor aparece antes del derramamiento. | El anuncio, las siete plagas y los vencedores están en el texto; la correspondencia detallada con Egipto y la identificación de potestades se conserva como lectura tipológica calificada. |
-| #revelation_15_3-4 | Eric destaca el cántico de Moisés y del Cordero, las obras grandes de יהוה y la llegada futura de todas las naciones a adorar. | La cita del cántico, la justicia de los caminos y la adoración de las naciones están explícitas; la programación cronológica futura se clasifica como inferencia pendiente de verificación. |
-| #revelation_15_5-8 | Eric explica que los siete mensajeros no deben limitarse a la imagen popular de ángeles, sino entenderse como portadores de juicio; las copas representan una acción simbólica contra potestades y no necesariamente un desastre literal del mar, el sol o todo ser viviente. | El texto muestra mensajeros, copas, santuario, humo y la consumación de las plagas. La amplitud de **(מלאך)/(ἄγγελος)** y la lectura simbólica de las copas son aclaraciones o inferencias de clase; se mantienen calificadas y no se presentan como equivalencias exhaustivas. |
+| #apocalipsis_15_1-2 | Eric presenta las siete plagas como un anuncio conectado con las plagas de Egipto y observa que el remanente vencedor aparece antes del derramamiento. | El anuncio, las siete plagas y los vencedores están en el texto; la correspondencia detallada con Egipto y la identificación de potestades se conserva como lectura tipológica calificada. |
+| #apocalipsis_15_3-4 | Eric destaca el cántico de Moisés y del Cordero, las obras grandes de יהוה y la llegada futura de todas las naciones a adorar. | La cita del cántico, la justicia de los caminos y la adoración de las naciones están explícitas; la programación cronológica futura se clasifica como inferencia pendiente de verificación. |
+| #apocalipsis_15_5-8 | Eric explica que los siete mensajeros no deben limitarse a la imagen popular de ángeles, sino entenderse como portadores de juicio; las copas representan una acción simbólica contra potestades y no necesariamente un desastre literal del mar, el sol o todo ser viviente. | El texto muestra mensajeros, copas, santuario, humo y la consumación de las plagas. La amplitud de **(מלאך)/(ἄγγελος)** y la lectura simbólica de las copas son aclaraciones o inferencias de clase; se mantienen calificadas y no se presentan como equivalencias exhaustivas. |
 
 ## Pendiente de verificar
 

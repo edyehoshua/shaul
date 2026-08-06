@@ -9,10 +9,10 @@ tags:
   - santidad
   - eric-youtube
 references:
-  - "#tehilim_141_1-2"
-  - "#tehilim_141_3-4"
-  - "#tehilim_141_5-7"
-  - "#tehilim_141_8-10"
+  - "#salmos_141_1-2"
+  - "#salmos_141_3-4"
+  - "#salmos_141_5-7"
+  - "#salmos_141_8-10"
 sources:
   - "https://www.youtube.com/watch?v=hPwnpHmmPBg"
   - "docs/scriptures/oe/json/psalms/141.json"
@@ -33,12 +33,12 @@ La exposición pública recorre Tehilim 141 en orden y dialoga especialmente con
 
 | Unidad            | Texto hebreo local OE sin nikud                                                                                                                             | Movimiento textual                                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| #tehilim_141_1-2  | **מזמור לדוד יהוה קראתי חושי לי האזינה קולי בקראי לך / תכון תפלתי קטרת לפניך משאת כפי מנחת ערב**                                                            | El clamor pide atención y compara la oración con incienso y las manos alzadas con ofrenda vespertina.          |
-| #tehilim_141_3-4  | **שיתה יהוה שמרה לפי נצרה על דל שפתי / אל תט לבי לדבר רע להתעולל עללות ברשע את אישים פעלי און ובל אלחם במנעמיהם**                                           | La petición pasa de ser escuchado a ser guardado de palabras, inclinación interior y participación en el mal.  |
-| #tehilim_141_5-7  | **יהלמני צדיק חסד ויוכיחני שמן ראש אל יני ראשי כי עוד ותפלתי ברעותיהם / נשמו בידי סלע שפטיהם ושמעו אמרי כי נעמו / כמו פלח ובקע בארץ נפזרו עצמינו לפי שאול** | La corrección del justo es bienvenida, mientras los huesos de los malvados quedan dispersos.                   |
-| #tehilim_141_8-10 | **כי אליך יהוה אדני עיני בך חסיתי אל תער נפשי / שמרני מידי יקשו לי ומקשות פעלי און / יפלו במכמריו רשעים יחד אנכי עד אעבור**                                 | Los ojos permanecen en יהוה; la oración pide protección de trampas y espera que el mal caiga en su propia red. |
+| #salmos_141_1-2  | **מזמור לדוד יהוה קראתי חושי לי האזינה קולי בקראי לך / תכון תפלתי קטרת לפניך משאת כפי מנחת ערב**                                                            | El clamor pide atención y compara la oración con incienso y las manos alzadas con ofrenda vespertina.          |
+| #salmos_141_3-4  | **שיתה יהוה שמרה לפי נצרה על דל שפתי / אל תט לבי לדבר רע להתעולל עללות ברשע את אישים פעלי און ובל אלחם במנעמיהם**                                           | La petición pasa de ser escuchado a ser guardado de palabras, inclinación interior y participación en el mal.  |
+| #salmos_141_5-7  | **יהלמני צדיק חסד ויוכיחני שמן ראש אל יני ראשי כי עוד ותפלתי ברעותיהם / נשמו בידי סלע שפטיהם ושמעו אמרי כי נעמו / כמו פלח ובקע בארץ נפזרו עצמינו לפי שאול** | La corrección del justo es bienvenida, mientras los huesos de los malvados quedan dispersos.                   |
+| #salmos_141_8-10 | **כי אליך יהוה אדני עיני בך חסיתי אל תער נפשי / שמרני מידי יקשו לי ומקשות פעלי און / יפלו במכמריו רשעים יחד אנכי עד אעבור**                                 | Los ojos permanecen en יהוה; la oración pide protección de trampas y espera que el mal caiga en su propia red. |
 
-## 141:1-2: clamor, atención e incienso #tehilim_141_1-2
+## 141:1-2: clamor, atención e incienso #salmos_141_1-2
 
 Eric comienza notando que una partícula pequeña puede admitir «por mí» o «para mí». Esa cautela es válida: una traducción debe atender a la función de la preposición y no construir doctrina sobre una sola opción castellana. El verso sí es inequívoco en su dirección: **קראתי**, _qarati_, es la forma «he llamado», del verbo cuyo sentido normal es llamar, clamar o convocar; aquí expresa un clamor dirigido a יהוה. **חושה**, _jushah_, es «apresúrate» o «date prisa», una petición de respuesta pronta. Su fuerza es urgencia, no una descripción de qué acción concreta debe acelerar יהוה.
 
@@ -46,19 +46,19 @@ El v. 2 ofrece la imagen central: «Sea establecida mi oración como incienso de
 
 La clase recuerda que el incienso se ofrecía por la mañana. El salmo, sin embargo, especifica **מנחת ערב**, _minjat erev_, «ofrenda de la tarde». La observación litúrgica ilumina el trasfondo, pero el verso localiza esta imagen en el servicio vespertino. Shemot 30:34-38 explica la composición del incienso y su carácter santo; no autoriza a inventar una enseñanza para cada ingrediente. Eric hace bien en dejar algunos significados pendientes.
 
-## 141:3-4: la boca y el corazón bajo custodia #tehilim_141_3-4
+## 141:3-4: la boca y el corazón bajo custodia #salmos_141_3-4
 
 «Pon, יהוה, una guardia a mi boca; vigila la puerta de mis labios». **שמרה**, _shomrah_, es guardia, custodia o vigilancia; **נצרה**, _notsrah_, es guardar, preservar o proteger. El paralelismo repite la misma petición con dos imágenes: boca y puerta de labios. Eric lleva la oración a una práctica de discernimiento: antes de hablar, la persona debe someter su expresión al juicio de יהוה. Esa aplicación está apoyada por la estructura del poema.
 
 El v. 4 profundiza: «No inclines mi corazón a cosa mala». **לב**, _lev_, puede ser corazón, mente o centro de voluntad; aquí no es solo sentimiento, sino la orientación moral que produce conducta. **תט**, _tat_, significa inclinar o desviar. La voz suplica no ser arrastrada hacia las «obras» de los hacedores de iniquidad y no comer de sus deleites. Eric aplica el banquete a seducciones religiosas y sociales que parecen agradables, pero la imagen inmediata es participación con obradores de maldad. La advertencia no permite llamar perverso a todo desacuerdo: el salmo habla de **פעלי און**, _foale aven_, «hacedores de iniquidad».
 
-## 141:5-7: corrección recibida y juicio de los violentos #tehilim_141_5-7
+## 141:5-7: corrección recibida y juicio de los violentos #salmos_141_5-7
 
 El orante afirma que el golpe del justo es bondad y que su reprensión es aceite para la cabeza. Eric insiste en que la oración madura no pide solo consuelo: acepta ser confrontada. **חסד**, _jesed_, normalmente misericordia, bondad leal o amor fiel, califica aquí la corrección del justo como beneficio de pacto. **הוכיח**, _hokhiaj_, significa reprender, convencer o corregir; su fuerza contextual es una corrección que salva, no una licencia para humillar.
 
 Eric relaciona esta disposición con la confesión de pecado mencionada en el v. 2. El texto efectivamente coloca la reprensión junto a la oración y el rechazo del mal, pero no afirma que toda palabra dura venga de una persona justa. La prueba sigue siendo el fruto: apartarse de las obras de iniquidad. El salmista después contrasta esa corrección con el juicio de los gobernantes malvados, cuyos huesos son dispersados junto a la entrada del sepulcro. La imagen es severa y poética; no debe convertirse en una fórmula para predecir el momento de cada castigo.
 
-## 141:8-10: ojos puestos en יהוה y trampa invertida #tehilim_141_8-10
+## 141:8-10: ojos puestos en יהוה y trampa invertida #salmos_141_8-10
 
 La conclusión cambia de la boca a los ojos: «A ti, יהוה, Adonai, están mis ojos; en ti me refugié; no desnudes mi alma». **חסה**, _jasah_, significa refugiarse o buscar protección; su fuerza aquí es dependencia activa, no pasividad. Eric lee la súplica como una solicitud de no quedar expuesto mientras otros esconden redes. El verso siguiente pide ser guardado de **מוקשות**, _moqeshot_, trampas o lazos, y de las redes de los hacedores de iniquidad.
 

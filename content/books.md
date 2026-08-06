@@ -27,7 +27,7 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego       | Transliteración Griega | Español  | Inglés   | Abreviaturas     |
 | ---------------- | ---------------- | --------------- | ------------ | ---------------------- | -------- | -------- | ---------------- |
-| יהושע            | יְהוֹשֻׁעַ       | iehoshúa        | Ἰησοῦς Ναυή  | Iēsous Nauē            | Josué    | Joshua   | Jos, Josué       |
+| יהושע            | יְהוֹשֻׁעַ       | yehoshúa        | Ἰησοῦς Ναυή  | Iēsous Nauē            | Josué    | Joshua   | Jos, Josué       |
 | שופטים           | שֹׁפְטִים        | shoftim         | Κριταί       | Kritai                 | Jueces   | Judges   | Jue, Jdg, Jueces |
 | שמואל א          | שְׁמוּאֵל א      | shemu'el alef   | Βασιλειῶν Αʹ | Basileiōn A            | 1 Samuel | 1 Samuel | 1 Sam, 1 Samuel  |
 | שמואל ב          | שְׁמוּאֵל ב      | shemu'el bet    | Βασιλειῶν Βʹ | Basileiōn B            | 2 Samuel | 2 Samuel | 2 Sam, 2 Samuel  |
@@ -38,11 +38,11 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego   | Transliteración Griega | Español   | Inglés    | Abreviaturas      |
 | ---------------- | ---------------- | --------------- | -------- | ---------------------- | --------- | --------- | ----------------- |
-| ישעיהו           | יְשַׁעְיָהוּ     | ieshaiahu       | Ἠσαΐας   | Ēsaias                 | Isaías    | Isaiah    | Is, Isa, Isaías   |
-| ירמיהו           | יִרְמְיָהוּ      | irmeiahu        | Ἰερεμίας | Ieremias               | Jeremías  | Jeremiah  | Jr, Jer, Jeremías |
-| יחזקאל           | יְחֶזְקֵאל       | iejezkel        | Ἰεζεκιήλ | Iezekiēl               | Ezequiel  | Ezekiel   | Ez, Eze, Ezequiel |
+| ישעיהו           | יְשַׁעְיָהוּ     | yeshayahu       | Ἠσαΐας   | Ēsaias                 | Isaías    | Isaiah    | Is, Isa, Isaías   |
+| ירמיהו           | יִרְמְיָהוּ      | yirmeyahu       | Ἰερεμίας | Ieremias               | Jeremías  | Jeremiah  | Jr, Jer, Jeremías |
+| יחזקאל           | יְחֶזְקֵאל       | yejezkel        | Ἰεζεκιήλ | Iezekiēl               | Ezequiel  | Ezekiel   | Ez, Eze, Ezequiel |
 | הושע             | הוֹשֵׁעַ         | hosea           | Ὡσηέ     | Hōsēe                  | Oseas     | Hosea     | Os, Ose, Oseas    |
-| יואל             | יוֹאֵל           | io'el           | Ἰωήλ     | Iōēl                   | Joel      | Joel      | Jl, Joel          |
+| יואל             | יוֹאֵל           | yo'el           | Ἰωήλ     | Iōēl                   | Joel      | Joel      | Jl, Joel          |
 | עמוס             | עָמוֹס           | amos            | Ἀμώς     | Amōs                   | Amós      | Amos      | Am, Amos          |
 | עובדיה           | עֹבַדְיָה        | ovadiah         | Ἀβδιού   | Abdious                | Abdías    | Obadiah   | Abd, Abdías       |
 | יונה             | יוֹנָה           | ionah           | Ἰωνᾶς    | Iōnas                  | Jonás     | Jonah     | Jon, Jonás        |
@@ -87,7 +87,7 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 | מתתיהו           | מַתִּתְיָהוּ     | mattityahu      | Κατὰ Ματθαῖον | Kata Mattaion          | Mateo   | Matthew | Mt, Mat, Mateo  |
 | מרקוס            | מַרְקוֹס         | markos          | Κατὰ Μάρκον   | Kata Markon            | Marcos  | Mark    | Mr, Mar, Marcos |
 | לוקס             | לוּקָס           | lukas           | Κατὰ Λουκᾶν   | Kata Loukan            | Lucas   | Luke    | Lc, Luc, Lucas  |
-| יוחנן            | יוֹחָנָן         | iojanan         | Κατὰ Ἰωάννην  | Kata Ioannen           | Juan    | John    | Jn, Juan        |
+| יוחנן            | יוֹחָנָן         | yojanan         | Κατὰ Ἰωάννην  | Kata Ioannen           | Juan    | John    | Jn, Juan        |
 
 ### Hechos
 
@@ -118,13 +118,13 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego        | Transliteración Griega | Español  | Inglés  | Abreviaturas        |
 | ---------------- | ---------------- | --------------- | ------------- | ---------------------- | -------- | ------- | ------------------- |
 | עברים            | עִבְרִים         | ivrim           | Πρὸς Ἑβραίους | Pros Hebraious         | Hebreos  | Hebrews | Heb, Hebreos        |
-| יעקב             | יַעֲקֹב          | ia'akov         | Ἰακώβου       | Iakobou                | Santiago | James   | Stg, Sant, Santiago |
+| יעקב             | יַעֲקֹב          | ya'akov         | Ἰακώβου       | Iakobou                | Santiago | James   | Stg, Sant, Santiago |
 | כיפא א           | כֵּיפָא א        | kefa alef       | Πέτρου Αʹ     | Petrou A               | 1 Pedro  | 1 Peter | 1 P, 1 Pedro        |
 | כיפא ב           | כֵּיפָא ב        | kefa bet        | Πέτρου Βʹ     | Petrou B               | 2 Pedro  | 2 Peter | 2 P, 2 Pedro        |
-| יוחנן א          | יוֹחָנָן א       | iojanan alef    | Ἰωάννου Αʹ    | Ioannou A              | 1 Juan   | 1 John  | 1 Jn, 1 Juan        |
-| יוחנן ב          | יוֹחָנָן ב       | iojanan bet     | Ἰωάννου Βʹ    | Ioannou B              | 2 Juan   | 2 John  | 2 Jn, 2 Juan        |
-| יוחנן ג          | יוֹחָנָן ג       | iojanan gimel   | Ἰωάννου Γʹ    | Ioannou G              | 3 Juan   | 3 John  | 3 Jn, 3 Juan        |
-| יהודה            | יְהוּדָה         | iehudah         | Ἰούδα         | Iouda                  | Judas    | Jude    | Jud, Judas          |
+| יוחנן א          | יוֹחָנָן א       | yojanan alef    | Ἰωάννου Αʹ    | Ioannou A              | 1 Juan   | 1 John  | 1 Jn, 1 Juan        |
+| יוחנן ב          | יוֹחָנָן ב       | yojanan bet     | Ἰωάννου Βʹ    | Ioannou B              | 2 Juan   | 2 John  | 2 Jn, 2 Juan        |
+| יוחנן ג          | יוֹחָנָן ג       | yojanan gimel   | Ἰωάννου Γʹ    | Ioannou G              | 3 Juan   | 3 John  | 3 Jn, 3 Juan        |
+| יהודה            | יְהוּדָה         | yehudah         | Ἰούδα         | Iouda                  | Judas    | Jude    | Jud, Judas          |
 
 ### Sodot
 

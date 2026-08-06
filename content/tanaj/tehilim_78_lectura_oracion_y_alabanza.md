@@ -10,15 +10,15 @@ tags:
   - memoria
   - exodo
 references:
-  - "#tehilim_78_1-8"
-  - "#tehilim_78_9-16"
-  - "#tehilim_78_17-31"
-  - "#tehilim_78_32-55"
-  - "#tehilim_78_56-64"
-  - "#tehilim_78_65-72"
-  - "#shemot_14_21-22"
-  - "#devarim_6_6-9"
-  - "#iojanan_6_31-35"
+  - "#salmos_78_1-8"
+  - "#salmos_78_9-16"
+  - "#salmos_78_17-31"
+  - "#salmos_78_32-55"
+  - "#salmos_78_56-64"
+  - "#salmos_78_65-72"
+  - "#exodo_14_21-22"
+  - "#deuteronomio_6_6-9"
+  - "#juan_6_31-35"
 sources:
   - "https://www.youtube.com/watch?v=qLyJ1NtX0xM"
   - "docs/scriptures/oe/json/psalms/78.json"
@@ -40,13 +40,13 @@ La nota sigue las unidades poéticas en orden. La fuente pública de Eric se usa
 
 | Unidad            | Texto local TTH                                                                                                                                                                                                                                   | Función en el argumento                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_78_1-8   | «Escucha, pueblo mío, mi Torah; inclinen su oído a los dichos de mi boca»; «a la siguiente generación contaremos las alabanzas de יהוה, y su fuerza y sus maravillas que ha hecho»; «no serían como sus padres, una generación rebelde y amarga». | La enseñanza recibida debe transmitirse y producir memoria, obediencia y un corazón firme.                                    |
-| #tehilim_78_9-16  | «Los hijos de Efráim eran armeros que disparaban con el arco, pero se volvieron en el día de la batalla»; «Dividió el mar y los hizo pasar»; «los condujo de día con la nube».                                                                    | La infidelidad se contrasta con el éxodo, el agua de la roca y la conducción visible.                                         |
-| #tehilim_78_17-31 | «Pusieron a prueba a El en sus corazones»; «¿Podrá El preparar mesa en el desierto?»; «les trajo su deseo», pero la ira se alzó mientras la comida estaba en su boca.                                                                             | Recibir provisión no equivale a confiar; el deseo sin fidelidad se vuelve prueba contra Elohim.                               |
-| #tehilim_78_32-39 | «Todavía pecaron, y no se afirmaron en sus maravillas»; «lo engañaron con su boca»; «Él recordó que ellos son carne, un viento que va y que no volverá».                                                                                          | El arrepentimiento provocado por el castigo puede ser sólo reacción; la misericordia de Elohim recuerda la fragilidad humana. |
-| #tehilim_78_40-55 | «No se acordaron de su mano»; las señales de Mitzráim; «los condujo como rebaño en el desierto» y los hizo entrar al territorio de su santidad.                                                                                                   | El gran resumen del éxodo vuelve a poner la redención delante de una memoria que se había borrado.                            |
-| #tehilim_78_56-64 | «Se dieron vuelta como arco engañoso»; «abandonó el Mishkán de Shiló»; «entregó a la espada a su pueblo».                                                                                                                                         | La traición del pueblo tiene consecuencias históricas; el santuario no funciona como amuleto contra el juicio.                |
-| #tehilim_78_65-72 | «Escogió a la tribu de Iehudáh, al monte Tzión»; «escogió a David su siervo»; «los pastoreó conforme a la integridad de su corazón».                                                                                                              | El cierre pasa del juicio a la elección y al pastoreo de David, sin borrar la historia anterior.                              |
+| #salmos_78_1-8   | «Escucha, pueblo mío, mi Torah; inclinen su oído a los dichos de mi boca»; «a la siguiente generación contaremos las alabanzas de יהוה, y su fuerza y sus maravillas que ha hecho»; «no serían como sus padres, una generación rebelde y amarga». | La enseñanza recibida debe transmitirse y producir memoria, obediencia y un corazón firme.                                    |
+| #salmos_78_9-16  | «Los hijos de Efráim eran armeros que disparaban con el arco, pero se volvieron en el día de la batalla»; «Dividió el mar y los hizo pasar»; «los condujo de día con la nube».                                                                    | La infidelidad se contrasta con el éxodo, el agua de la roca y la conducción visible.                                         |
+| #salmos_78_17-31 | «Pusieron a prueba a El en sus corazones»; «¿Podrá El preparar mesa en el desierto?»; «les trajo su deseo», pero la ira se alzó mientras la comida estaba en su boca.                                                                             | Recibir provisión no equivale a confiar; el deseo sin fidelidad se vuelve prueba contra Elohim.                               |
+| #salmos_78_32-39 | «Todavía pecaron, y no se afirmaron en sus maravillas»; «lo engañaron con su boca»; «Él recordó que ellos son carne, un viento que va y que no volverá».                                                                                          | El arrepentimiento provocado por el castigo puede ser sólo reacción; la misericordia de Elohim recuerda la fragilidad humana. |
+| #salmos_78_40-55 | «No se acordaron de su mano»; las señales de Mitzráim; «los condujo como rebaño en el desierto» y los hizo entrar al territorio de su santidad.                                                                                                   | El gran resumen del éxodo vuelve a poner la redención delante de una memoria que se había borrado.                            |
+| #salmos_78_56-64 | «Se dieron vuelta como arco engañoso»; «abandonó el Mishkán de Shiló»; «entregó a la espada a su pueblo».                                                                                                                                         | La traición del pueblo tiene consecuencias históricas; el santuario no funciona como amuleto contra el juicio.                |
+| #salmos_78_65-72 | «Escogió a la tribu de Yehudáh, al monte Tzión»; «escogió a David su siervo»; «los pastoreó conforme a la integridad de su corazón».                                                                                                              | El cierre pasa del juicio a la elección y al pastoreo de David, sin borrar la historia anterior.                              |
 
 ## Escuchar la Torah y contar las maravillas
 
@@ -66,7 +66,7 @@ La exposición toma en serio que recordar las obras no es un adorno. Los vv. 12-
 
 La segunda mitad del recuento del desierto (vv. 17-31) muestra que el pueblo «volvió otra vez a pecar» y puso a prueba a El en su corazón. Eric subraya el contraste entre pedir alimento para el deseo y pedirlo para la vida. TTH conserva «comida a su deseo» y ofrece una alternativa; **(נפש)**, _nefesh_, puede significar vida, persona, ser o garganta según contexto. La lectura de «pescuezo» como imagen del apetito tiene relación aproximada con el campo semántico, pero no debe presentarse como única traducción.
 
-La pregunta «¿Podrá El preparar mesa en el desierto?» es una acusación, aunque ya habían visto agua de la roca. El maná y las aves llegan, pero el verso 30 dice que el deseo aún estaba en su boca cuando la ira subió. Eric aplica esto a una religiosidad de reacción: el ser humano recuerda a Elohim sólo cuando el juicio amenaza. El texto efectivamente contrasta provisión y falta de confianza (#tehilim_78_22), pero no autoriza a declarar que toda petición material sea rebelde. La prueba está en el corazón, en la negativa a afirmarse en Elohim y su salvación.
+La pregunta «¿Podrá El preparar mesa en el desierto?» es una acusación, aunque ya habían visto agua de la roca. El maná y las aves llegan, pero el verso 30 dice que el deseo aún estaba en su boca cuando la ira subió. Eric aplica esto a una religiosidad de reacción: el ser humano recuerda a Elohim sólo cuando el juicio amenaza. El texto efectivamente contrasta provisión y falta de confianza (#salmos_78_22), pero no autoriza a declarar que toda petición material sea rebelde. La prueba está en el corazón, en la negativa a afirmarse en Elohim y su salvación.
 
 ## Misericordia, carne y el peligro de un arrepentimiento mecánico
 
@@ -82,9 +82,9 @@ El salmo resume sangre, insectos, ranas, langosta, granizo, fuego y muerte de pr
 
 ## Arco engañoso, Shiló y la elección de David
 
-En #tehilim_78_56-64 la imagen cambia: el pueblo se vuelve «como arco engañoso». Eric explica que un arco torcido dispara hacia los propios compañeros y usa la imagen para exhortar a no dañar al prójimo mientras se pretende servir a Elohim. La relación es una aplicación moral clara; el sentido textual es que Israel retrocedió y traicionó como sus padres, provocando a Elohim con lugares altos e ídolos. El abandono del Mishkán de Shiló muestra que el santuario no protege una infidelidad persistente. La destrucción y la muerte no se presentan como capricho gratuito, sino dentro del argumento de pacto, provocación y juicio.
+En #salmos_78_56-64 la imagen cambia: el pueblo se vuelve «como arco engañoso». Eric explica que un arco torcido dispara hacia los propios compañeros y usa la imagen para exhortar a no dañar al prójimo mientras se pretende servir a Elohim. La relación es una aplicación moral clara; el sentido textual es que Israel retrocedió y traicionó como sus padres, provocando a Elohim con lugares altos e ídolos. El abandono del Mishkán de Shiló muestra que el santuario no protege una infidelidad persistente. La destrucción y la muerte no se presentan como capricho gratuito, sino dentro del argumento de pacto, provocación y juicio.
 
-El final (vv. 65-72) no termina en Shiló. יהוה se levanta, hiere a los opresores, rechaza la tienda de Iosef y Efráim, escoge Iehudáh y Tzión, y toma a David de los apriscos. Eric llama a David «el amado» y lo conecta con el Mesías esperado. **(דוד)**, _David_, funciona aquí como nombre propio y también permite la asociación tradicional con amado; la relación etimológica no debe sustituir la narración. El texto sí afirma elección, santuario y pastoreo, y describe la integridad del corazón y la inteligencia de las manos. La aplicación mesiánica es una conexión canónica pedagógica, no una afirmación de que cada detalle del verso sea una predicción explícita.
+El final (vv. 65-72) no termina en Shiló. יהוה se levanta, hiere a los opresores, rechaza la tienda de Yosef y Efráim, escoge Yehudáh y Tzión, y toma a David de los apriscos. Eric llama a David «el amado» y lo conecta con el Mesías esperado. **(דוד)**, _David_, funciona aquí como nombre propio y también permite la asociación tradicional con amado; la relación etimológica no debe sustituir la narración. El texto sí afirma elección, santuario y pastoreo, y describe la integridad del corazón y la inteligencia de las manos. La aplicación mesiánica es una conexión canónica pedagógica, no una afirmación de que cada detalle del verso sea una predicción explícita.
 
 ## Léxico clave
 
@@ -103,11 +103,11 @@ El final (vv. 65-72) no termina en Shiló. יהוה se levanta, hiere a los opre
 
 | Unidad textual    | Observación concreta de la clase                                                                                                                      | Tratamiento                                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| #tehilim_78_1-8   | Eric llama a _masquil_ un concientizador, distingue Torah de una simple «ley» y dice que alabanza es testimonio de las maravillas de Elohim.          | Apoyo textual y clarificación léxica; «concientizador» y la conexión con Hechos son pedagógicos.                  |
-| #tehilim_78_9-16  | La clase lee Efráim como arco traicionero, destaca pacto/testamento y recuerda mar, nube, fuego y agua de la roca.                                    | Apoyo directo para olvido, pacto y éxodo; cronología profética de Efráim y mecanismo del mar quedan cualificados. |
-| #tehilim_78_17-39 | Eric contrasta alimento para el deseo con confianza, y denuncia un arrepentimiento que sólo reacciona al castigo; explica corazón, _nefesh_ y _ruaj_. | Apoyo textual para prueba, boca y corazón; los sentidos de «pescuezo» y «espíritu» son aproximaciones marcadas.   |
-| #tehilim_78_40-55 | La exposición recorre las plagas, lee _malakh_ como mensajero ejecutor, y ve a יהוה guiando como Pastor.                                              | Apoyo textual y lexical; Cordero mesiánico es conexión canónica pedagógica.                                       |
-| #tehilim_78_56-72 | Eric aplica el arco engañoso al trato del prójimo, interpreta Shiló como advertencia contra el templo-amuleto y espera al David amado.                | Apoyo textual para traición, juicio, Tzión y David; identificación mesiánica: inferencia cualificada.             |
+| #salmos_78_1-8   | Eric llama a _masquil_ un concientizador, distingue Torah de una simple «ley» y dice que alabanza es testimonio de las maravillas de Elohim.          | Apoyo textual y clarificación léxica; «concientizador» y la conexión con Hechos son pedagógicos.                  |
+| #salmos_78_9-16  | La clase lee Efráim como arco traicionero, destaca pacto/testamento y recuerda mar, nube, fuego y agua de la roca.                                    | Apoyo directo para olvido, pacto y éxodo; cronología profética de Efráim y mecanismo del mar quedan cualificados. |
+| #salmos_78_17-39 | Eric contrasta alimento para el deseo con confianza, y denuncia un arrepentimiento que sólo reacciona al castigo; explica corazón, _nefesh_ y _ruaj_. | Apoyo textual para prueba, boca y corazón; los sentidos de «pescuezo» y «espíritu» son aproximaciones marcadas.   |
+| #salmos_78_40-55 | La exposición recorre las plagas, lee _malakh_ como mensajero ejecutor, y ve a יהוה guiando como Pastor.                                              | Apoyo textual y lexical; Cordero mesiánico es conexión canónica pedagógica.                                       |
+| #salmos_78_56-72 | Eric aplica el arco engañoso al trato del prójimo, interpreta Shiló como advertencia contra el templo-amuleto y espera al David amado.                | Apoyo textual para traición, juicio, Tzión y David; identificación mesiánica: inferencia cualificada.             |
 
 ## Pendiente de verificar
 

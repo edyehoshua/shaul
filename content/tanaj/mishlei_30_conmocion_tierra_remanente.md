@@ -4,22 +4,22 @@ description: "Estudio de Mishlei 30:21-33 sobre el desorden que conmueve la tier
 date: 2026-08-05
 tags: [mishlei, mishlei_30, remanente, humildad, sabiduria, juicio]
 references:
-  - "#mishlei_30_21"
-  - "#mishlei_30_22"
-  - "#mishlei_30_23"
-  - "#mishlei_30_24"
-  - "#mishlei_30_25"
-  - "#mishlei_30_26"
-  - "#mishlei_30_27"
-  - "#mishlei_30_28"
-  - "#mishlei_30_29"
-  - "#mishlei_30_30"
-  - "#mishlei_30_31"
-  - "#mishlei_30_32"
-  - "#mishlei_30_33"
-  - "#salmo_1_1"
-  - "#sodot_3_8"
-  - "#ivrit_12_27"
+  - "#proverbios_30_21"
+  - "#proverbios_30_22"
+  - "#proverbios_30_23"
+  - "#proverbios_30_24"
+  - "#proverbios_30_25"
+  - "#proverbios_30_26"
+  - "#proverbios_30_27"
+  - "#proverbios_30_28"
+  - "#proverbios_30_29"
+  - "#proverbios_30_30"
+  - "#proverbios_30_31"
+  - "#proverbios_30_32"
+  - "#proverbios_30_33"
+  - "#salmos_1_1"
+  - "#apocalipsis_3_8"
+  - "#hebreos_12_27"
 sources:
   - "https://www.youtube.com/watch?v=hPcI69S1NNE"
   - "docs/scriptures/oe/json/proverbs/30.json"
@@ -41,12 +41,12 @@ Esta nota organiza la clase que recorre Mishlei 30:21-33. Sigue la secuencia de 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_30_21 | תחת שלוש רגזה ארץ ותחת ארבע לא תוכל שאת | Bajo tres cosas se conmueve la tierra, y bajo cuatro no podrá soportar. |
-| #mishlei_30_22-23 | תחת עבד כי ימלוך ונבל כי ישבע לחם ... תחת שנואה כי תבעל ושפחה כי תירש גברתה | Bajo el siervo que reinará, y el marchito que se saciará de pan; bajo a la odiada que será enseñoreada, y la sierva que heredará de su señora. |
-| #mishlei_30_24 | ארבעה הם קטני ארץ והמה חכמים מחכמים | Cuatro son los pequeños de la tierra, pero ellos son sabios, se les hizo sabios. |
-| #mishlei_30_25-28 | הנמלים ... שפנים ... מלך אין לארבה ... שממית ... | Las hormigas preparan pan; los tejones ponen su casa en la peña; la langosta sale en repartición; la lagartija está en los palacios del rey. |
-| #mishlei_30_29-31 | שלשה המה מיטיבי צעד ... ליש גבור ... זרזיר מתנים ... מלך אלקום עמו | Tres son los hechos buenos de paso y cuatro de andar; el león, el ceñido de lomos o macho cabrío y el rey que se levanta a hablar a su pueblo. |
-| #mishlei_30_32-33 | אם נבלת בהתנשא ... כי מיץ חלב יוציא חמאה ... | Si has sido marchito al elevarte, mano a la boca; presionando leche sale mantequilla, presionando la nariz sangre y presionando ira contienda. |
+| #proverbios_30_21 | תחת שלוש רגזה ארץ ותחת ארבע לא תוכל שאת | Bajo tres cosas se conmueve la tierra, y bajo cuatro no podrá soportar. |
+| #proverbios_30_22-23 | תחת עבד כי ימלוך ונבל כי ישבע לחם ... תחת שנואה כי תבעל ושפחה כי תירש גברתה | Bajo el siervo que reinará, y el marchito que se saciará de pan; bajo a la odiada que será enseñoreada, y la sierva que heredará de su señora. |
+| #proverbios_30_24 | ארבעה הם קטני ארץ והמה חכמים מחכמים | Cuatro son los pequeños de la tierra, pero ellos son sabios, se les hizo sabios. |
+| #proverbios_30_25-28 | הנמלים ... שפנים ... מלך אין לארבה ... שממית ... | Las hormigas preparan pan; los tejones ponen su casa en la peña; la langosta sale en repartición; la lagartija está en los palacios del rey. |
+| #proverbios_30_29-31 | שלשה המה מיטיבי צעד ... ליש גבור ... זרזיר מתנים ... מלך אלקום עמו | Tres son los hechos buenos de paso y cuatro de andar; el león, el ceñido de lomos o macho cabrío y el rey que se levanta a hablar a su pueblo. |
+| #proverbios_30_32-33 | אם נבלת בהתנשא ... כי מיץ חלב יוציא חמאה ... | Si has sido marchito al elevarte, mano a la boca; presionando leche sale mantequilla, presionando la nariz sangre y presionando ira contienda. |
 
 ## Cuatro formas de desorden que conmueven la tierra
 
@@ -86,11 +86,11 @@ El cierre usa una advertencia corporal: si alguien se eleva y trama maldad, debe
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_30_21-23 | Las cuatro situaciones son roles trastornados y corresponden a obras impías que la tierra no soporta. | Enumeración textual apoyada; paralelismo con secciones previas calificado. |
-| #mishlei_30_24-28 | Los pequeños son hechos sabios: hormigas trabajan, tejones se refugian, langostas se ordenan y la lagartija permanece en el palacio. | Imágenes y contraste apoyados; remanente y límites de Torah son aplicación. |
-| #mishlei_30_29-31 | Los animales fuertes y el rey representan poder altivo que puede devorar. | Descripción textual apoyada; identificación con Satán o monarquía absoluta pendiente. |
-| #mishlei_30_32 | Elevarse y tramar maldad exige mano a la boca y humildad. | Advertencia textual directa; aplicación a silencio penitente. |
-| #mishlei_30_33 | Toda presión produce un resultado: alimento, sangre o contienda. | Paralelismo textual apoyado; simbolismo de leche como Torah calificado. |
+| #proverbios_30_21-23 | Las cuatro situaciones son roles trastornados y corresponden a obras impías que la tierra no soporta. | Enumeración textual apoyada; paralelismo con secciones previas calificado. |
+| #proverbios_30_24-28 | Los pequeños son hechos sabios: hormigas trabajan, tejones se refugian, langostas se ordenan y la lagartija permanece en el palacio. | Imágenes y contraste apoyados; remanente y límites de Torah son aplicación. |
+| #proverbios_30_29-31 | Los animales fuertes y el rey representan poder altivo que puede devorar. | Descripción textual apoyada; identificación con Satán o monarquía absoluta pendiente. |
+| #proverbios_30_32 | Elevarse y tramar maldad exige mano a la boca y humildad. | Advertencia textual directa; aplicación a silencio penitente. |
+| #proverbios_30_33 | Toda presión produce un resultado: alimento, sangre o contienda. | Paralelismo textual apoyado; simbolismo de leche como Torah calificado. |
 
 ## Pendiente de verificar
 
@@ -98,7 +98,7 @@ El cierre usa una advertencia corporal: si alguien se eleva y trama maldad, debe
 - [ ] Verificar la forma verbal y la voz de **(מחכמים)** en 30:24 con una gramática hebrea.
 - [ ] Revisar la identificación zoológica de **(שממית)** y **(זרזיר מתנים)**; la exposición reconoce incertidumbre sobre el segundo.
 - [ ] Localizar y verificar las tradiciones antiguas sobre 30:31 y la lectura “el rey que se levanta a hablar a su pueblo”.
-- [ ] Cotejar #sodot_3_8 y #ivrit_12_27 antes de formular una doctrina del remanente a partir de este bloque.
+- [ ] Cotejar #apocalipsis_3_8 y #hebreos_12_27 antes de formular una doctrina del remanente a partir de este bloque.
 - [ ] No establecer que cada animal representa automáticamente a un personaje espiritual; el texto no ofrece esa clave de manera explícita.
 
 ## Conclusión

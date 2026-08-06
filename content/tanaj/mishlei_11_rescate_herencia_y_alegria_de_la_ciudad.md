@@ -10,12 +10,12 @@ tags:
   - ciudad
   - rescate
 references:
-  - "#mishlei_11_6"
-  - "#mishlei_11_7"
-  - "#mishlei_11_8"
-  - "#mishlei_11_9"
-  - "#mishlei_11_10"
-  - "#yeshayahu_32_17"
+  - "#proverbios_11_6"
+  - "#proverbios_11_7"
+  - "#proverbios_11_8"
+  - "#proverbios_11_9"
+  - "#proverbios_11_10"
+  - "#isaias_32_17"
   - "#ester_7_10"
 sources:
   - "https://www.youtube.com/watch?v=NsLei8tuk9Q"
@@ -37,12 +37,12 @@ Esta nota sigue la exposición sobre Mishlei 11:6-10, incluyendo la explicación
 
 | Referencia | Hebreo OE (sin nikud) | Función en la enseñanza |
 | --- | --- | --- |
-| #mishlei_11_6 | צדקת ישרים תצילם ובסלף בוגדים ילכדו | La justicia rescata; el deseo torcido de los traidores se vuelve una trampa. |
-| #mishlei_11_7 | במות אדם רשע תאבד תקוה ותוחלת אנים אבדה | La muerte del malvado hace perecer su esperanza y la expectativa de su vigor o descendencia. |
-| #mishlei_11_8 | צדיק מצרה נחלץ ויבא רשע תחתיו | El justo es librado de la angustia y el malvado llega al lugar de esa angustia. |
-| #mishlei_11_9 | בפה חנף ישחת רעהו ובדעת צדיקים יחלצו | La boca del hipócrita corrompe al compañero; el conocimiento rescata a los justos. |
-| #mishlei_11_10 | בטוב צדיקים תעלץ קריה ובאבד רשעים רנה | La bondad de los justos alegra la ciudad; la caída de los malvados produce júbilo. |
-| #yeshayahu_32_17 | והיה מעשה הצדקה שלום ועבדת הצדקה השקט ובטח עד עולם | La clase usa este texto para conectar justicia, paz, quietud y confianza; no sustituye el sentido de Mishlei. |
+| #proverbios_11_6 | צדקת ישרים תצילם ובסלף בוגדים ילכדו | La justicia rescata; el deseo torcido de los traidores se vuelve una trampa. |
+| #proverbios_11_7 | במות אדם רשע תאבד תקוה ותוחלת אנים אבדה | La muerte del malvado hace perecer su esperanza y la expectativa de su vigor o descendencia. |
+| #proverbios_11_8 | צדיק מצרה נחלץ ויבא רשע תחתיו | El justo es librado de la angustia y el malvado llega al lugar de esa angustia. |
+| #proverbios_11_9 | בפה חנף ישחת רעהו ובדעת צדיקים יחלצו | La boca del hipócrita corrompe al compañero; el conocimiento rescata a los justos. |
+| #proverbios_11_10 | בטוב צדיקים תעלץ קריה ובאבד רשעים רנה | La bondad de los justos alegra la ciudad; la caída de los malvados produce júbilo. |
+| #isaias_32_17 | והיה מעשה הצדקה שלום ועבדת הצדקה השקט ובטח עד עולם | La clase usa este texto para conectar justicia, paz, quietud y confianza; no sustituye el sentido de Mishlei. |
 
 ## La justicia rescata y la esperanza terrenal perece
 
@@ -83,9 +83,9 @@ El contraste también ofrece una prueba comunitaria. La justicia no queda encerr
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_11_6-7 | La justicia rescata; la esperanza y la herencia del malvado se pierden al morir. | Rescate y contraste textual apoyados; herencia celestial y sentidos de _onim_ calificados. |
-| #mishlei_11_8-9 | El malvado entra en la estrechez que planeó y la boca del hipócrita corrompe al compañero; el conocimiento rescata. | Inversión judicial y peligro de la palabra apoyados; analogía con Ester y aplicaciones pastorales pendientes. |
-| #mishlei_11_10 | La bondad del justo alegra la ciudad y la caída del malvado trae júbilo; la ciudad se aplica al pueblo de Yehoshua. | Efecto público apoyado; extensión a Jerusalén y al reino espiritual calificada como lectura simbólica. |
+| #proverbios_11_6-7 | La justicia rescata; la esperanza y la herencia del malvado se pierden al morir. | Rescate y contraste textual apoyados; herencia celestial y sentidos de _onim_ calificados. |
+| #proverbios_11_8-9 | El malvado entra en la estrechez que planeó y la boca del hipócrita corrompe al compañero; el conocimiento rescata. | Inversión judicial y peligro de la palabra apoyados; analogía con Ester y aplicaciones pastorales pendientes. |
+| #proverbios_11_10 | La bondad del justo alegra la ciudad y la caída del malvado trae júbilo; la ciudad se aplica al pueblo de Yehoshua. | Efecto público apoyado; extensión a Jerusalén y al reino espiritual calificada como lectura simbólica. |
 
 ## Pendiente de verificar
 

@@ -10,14 +10,14 @@ tags:
   - provision
   - torah
 references:
-  - "#melajim_alef_16_29"
-  - "#melajim_alef_16_34"
-  - "#iehoshua_6_26"
-  - "#melajim_alef_17_1"
-  - "#melajim_alef_17_4"
-  - "#melajim_alef_17_9"
-  - "#lukas_4_25"
-  - "#lukas_4_26"
+  - "#1_reyes_16_29"
+  - "#1_reyes_16_34"
+  - "#josue_6_26"
+  - "#1_reyes_17_1"
+  - "#1_reyes_17_4"
+  - "#1_reyes_17_9"
+  - "#lucas_4_25"
+  - "#lucas_4_26"
 sources:
   - "https://www.youtube.com/watch?v=znmCvoyjpK8"
 source_ids:
@@ -37,23 +37,23 @@ Esta nota organiza la primera parte de la enseñanza de Eric sobre Eliyahu y Aja
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #melajim_alef_16_29-33 | «E hizo Ajab, hijo de Omri, lo malo en los ojos de יהוה más que todos los que fueron antes de él… y sirvió a Baal… e hizo Ajab a Asheráh». | El reinado de Ajab intensifica una práctica idolátrica que ya venía de la casa de Jeroboam. |
-| #melajim_alef_16_34 | «En sus días edificó Jiel el betelí a Ierijó… conforme a la palabra de יהוה que había hablado por mano de Yehoshúa». | La historia inserta el cumplimiento de una palabra antigua dentro del reinado idólatra. |
-| #iehoshua_6_26 | «Excluido el hombre delante de יהוה que levante y edifique esta ciudad, a Ierijó…». | La advertencia de Yehoshúa funciona como antecedente textual de 1 Reyes 16:34. |
-| #melajim_alef_17_1 | «Vive יהוה, Elohim de Israel… si habría en estos dos años rocío y lluvia, sino de acuerdo a mi palabra». | Eliyahu anuncia el juicio como mensajero sometido a la palabra, no como iniciativa personal. |
-| #melajim_alef_17_4-6 | «A los orbim he ordenado para sustentarte… traían para él pan y carne por la mañana y por la tarde». | יהוה preserva a su siervo en el escondite, aunque la lectura precisa de *orbim* requiere cautela. |
-| #melajim_alef_17_8-9 | «Vete a Tzarefat, que pertenece a Tzidón… he mandado allí una mujer viuda para sustentarte». | La provisión continúa en territorio extranjero, precisamente en la región asociada con Izebel. |
-| #lukas_4_25-26 | «Muchas viudas había en Israel en los días de Eliyahu… y Eliyahu no fue enviado a ninguna de ellas, sino a Tzarefat, que es de Tzidón». | Yehoshua interpreta la viuda de Tzarefat como una señal de la libertad soberana de יהוה para mostrar misericordia. |
+| #1_reyes_16_29-33 | «E hizo Ajab, hijo de Omri, lo malo en los ojos de יהוה más que todos los que fueron antes de él… y sirvió a Baal… e hizo Ajab a Asheráh». | El reinado de Ajab intensifica una práctica idolátrica que ya venía de la casa de Jeroboam. |
+| #1_reyes_16_34 | «En sus días edificó Jiel el betelí a Yerijó… conforme a la palabra de יהוה que había hablado por mano de Yehoshúa». | La historia inserta el cumplimiento de una palabra antigua dentro del reinado idólatra. |
+| #josue_6_26 | «Excluido el hombre delante de יהוה que levante y edifique esta ciudad, a Yerijó…». | La advertencia de Yehoshúa funciona como antecedente textual de 1 Reyes 16:34. |
+| #1_reyes_17_1 | «Vive יהוה, Elohim de Israel… si habría en estos dos años rocío y lluvia, sino de acuerdo a mi palabra». | Eliyahu anuncia el juicio como mensajero sometido a la palabra, no como iniciativa personal. |
+| #1_reyes_17_4-6 | «A los orbim he ordenado para sustentarte… traían para él pan y carne por la mañana y por la tarde». | יהוה preserva a su siervo en el escondite, aunque la lectura precisa de *orbim* requiere cautela. |
+| #1_reyes_17_8-9 | «Vete a Tzarefat, que pertenece a Tzidón… he mandado allí una mujer viuda para sustentarte». | La provisión continúa en territorio extranjero, precisamente en la región asociada con Izebel. |
+| #lucas_4_25-26 | «Muchas viudas había en Israel en los días de Eliyahu… y Eliyahu no fue enviado a ninguna de ellas, sino a Tzarefat, que es de Tzidón». | Yehoshua interpreta la viuda de Tzarefat como una señal de la libertad soberana de יהוה para mostrar misericordia. |
 
 ## Una casa que hereda y profundiza la idolatría
 
 La clase comienza con 1 Reyes 16:29–33. Ajab continúa el camino de Jeroboam, pero lo amplía: toma por mujer a Izebel, sirve a Baal, edifica una casa para Baal en Shomrón y añade la Asheráh. La observación de Eric es que el mal no aparece como una ruptura aislada, sino como un legado que se vuelve más estructurado con cada generación. El nombre de Ajab, explicado en la clase como «hermano del padre», sirve como recurso pedagógico para mostrar que el hijo reproduce el camino de Omri; no se presenta aquí como una etimología exhaustiva.
 
-El versículo 34 introduce a Jiel y la reedificación de Ierijó. La conexión con #iehoshua_6_26 es textual: una palabra pronunciada en los días de Yehoshúa alcanza el reinado de Ajab. La nota conserva el énfasis de la clase —la idolatría no vuelve irrelevante la palabra previa—, pero evita afirmar detalles sobre la muerte de los hijos más allá de lo que la formulación hebrea y la traducción local permiten establecer. El pasaje funciona como advertencia: un proyecto que contradice una palabra de יהוה no queda validado por el paso del tiempo.
+El versículo 34 introduce a Jiel y la reedificación de Yerijó. La conexión con #josue_6_26 es textual: una palabra pronunciada en los días de Yehoshúa alcanza el reinado de Ajab. La nota conserva el énfasis de la clase —la idolatría no vuelve irrelevante la palabra previa—, pero evita afirmar detalles sobre la muerte de los hijos más allá de lo que la formulación hebrea y la traducción local permiten establecer. El pasaje funciona como advertencia: un proyecto que contradice una palabra de יהוה no queda validado por el paso del tiempo.
 
 ## Eliyahu anuncia el juicio que la Torah ya había descrito
 
-En #melajim_alef_17_1 Eliyahu se presenta ante Ajab y declara que no habrá rocío ni lluvia sino conforme a su palabra. La enseñanza relaciona esta sequía con #devarim_28_23-24, donde el cielo de bronce y la tierra de hierro aparecen como consecuencias de la desobediencia. La relación temática es fuerte, aunque el discurso de 1 Reyes no repite todos los términos de Deuteronomio. Eliyahu es, por tanto, un anunciador de la palabra: el profeta aplica al momento histórico las consecuencias que la Torah ya había advertido.
+En #1_reyes_17_1 Eliyahu se presenta ante Ajab y declara que no habrá rocío ni lluvia sino conforme a su palabra. La enseñanza relaciona esta sequía con #deuteronomio_28_23-24, donde el cielo de bronce y la tierra de hierro aparecen como consecuencias de la desobediencia. La relación temática es fuerte, aunque el discurso de 1 Reyes no repite todos los términos de Deuteronomio. Eliyahu es, por tanto, un anunciador de la palabra: el profeta aplica al momento histórico las consecuencias que la Torah ya había advertido.
 
 Después de hablar, Eliyahu obedece la orden de esconderse junto al arroyo Kerit. La clase insiste en que la valentía profética no es exposición permanente ni impulso carnal; también incluye retirarse cuando יהוה manda ocultarse. La persecución de los profetas hace visible el costo de vivir bajo un rey que adoptó una religión extranjera y convirtió la idolatría en política de Estado.
 
@@ -77,7 +77,7 @@ Cuando el arroyo se seca, יהוה envía a Eliyahu a Tzarefat, en Sidón. Allí
 | Unidad | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
 | 1 Reyes 16:29–33 | Ajab sigue el legado de Jeroboam, pero institucionaliza y aumenta la idolatría con Izebel, Baal y Asheráh. | Apoyo textual; la explicación del nombre de Ajab queda como recurso pedagógico. |
-| 1 Reyes 16:34; Yehoshúa 6:26 | La reedificación de Ierijó muestra el cumplimiento de una palabra anterior dentro de una generación rebelde. | Comparación local y calificación de los detalles sobre los hijos. |
+| 1 Reyes 16:34; Yehoshúa 6:26 | La reedificación de Yerijó muestra el cumplimiento de una palabra anterior dentro de una generación rebelde. | Comparación local y calificación de los detalles sobre los hijos. |
 | 1 Reyes 17:1; Devarim 28:23–24 | La sequía se entiende como aplicación de la maldición de la Torah y Eliyahu como anunciador. | Conexión temática apoyada; no se afirma que ambos textos sean una cita idéntica. |
 | 1 Reyes 17:4–6 | *Orbim* puede leerse como cuervos o árabes; la segunda opción explicaría la provisión humana. | Se preservan ambas lecturas y se marca la alternativa como pendiente. |
 | 1 Reyes 17:8–9; Lucas 4:25–26 | La viuda de Tzarefat muestra que יהוה puede sostener a su profeta mediante una extranjera. | Apoyo textual y conexión explícita con la interpretación de Yehoshua. |

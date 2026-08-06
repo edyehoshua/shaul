@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 3:1-14 sobre atesorar la Torah, confiar en יה
 date: 2026-08-06
 tags: [mishlei, mishlei_3, torah, obediencia, disciplina, sabiduria]
 references:
-  - "#mishlei_3_1"
-  - "#mishlei_3_2"
-  - "#mishlei_3_3"
-  - "#mishlei_3_4"
-  - "#mishlei_3_5"
-  - "#mishlei_3_6"
-  - "#mishlei_3_7"
-  - "#mishlei_3_8"
-  - "#mishlei_3_9"
-  - "#mishlei_3_11"
-  - "#mishlei_3_12"
-  - "#mishlei_3_13"
-  - "#mishlei_3_14"
+  - "#proverbios_3_1"
+  - "#proverbios_3_2"
+  - "#proverbios_3_3"
+  - "#proverbios_3_4"
+  - "#proverbios_3_5"
+  - "#proverbios_3_6"
+  - "#proverbios_3_7"
+  - "#proverbios_3_8"
+  - "#proverbios_3_9"
+  - "#proverbios_3_11"
+  - "#proverbios_3_12"
+  - "#proverbios_3_13"
+  - "#proverbios_3_14"
 sources:
   - "https://www.youtube.com/watch?v=vJjyTbiMTbM"
   - "docs/scriptures/oe/json/proverbs/3.json"
@@ -38,20 +38,20 @@ Esta nota organiza la primera parte de la clase sobre Mishlei 3, desde los manda
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_3_1 | בני תורתי אל תשכח ומצותי יצר לבך | Hijo mío, mi Torah no olvidarás, y mis mandamientos guardará tu corazón, |
-| #mishlei_3_2 | כי ארך ימים ושנות חיים ושלום יוסיפו לך | porque largura de días, años de vida y shalom añadirán a ti. |
-| #mishlei_3_3 | חסד ואמת אל יעזבך קשרם על גרגרותיך כתבם על לוח לבך | Bondad y verdad no te abandonarán; átalas sobre tu cuello, escríbelas sobre la tabla de tu corazón, |
-| #mishlei_3_4 | ומצא חן ושכל טוב בעיני אלהים ואדם | y hallarás favor y buen discernimiento ante los ojos de Elohim y del hombre. |
-| #mishlei_3_5 | בטח אל יהוה בכל לבך ואל בינתך אל תשען | Confía hacia יהוה con todo tu corazón, y no te apoyes en tu entendimiento, |
-| #mishlei_3_6 | בכל דרכיך דעהו והוא יישר ארחתיך | en todos tus caminos conócelo, y Él enderezará tus sendas. |
-| #mishlei_3_7 | אל תהי חכם בעיניך ירא את יהוה וסור מרע | No seas sabio en tus ojos; teme a יהוה y apártate del mal, |
-| #mishlei_3_8 | רפאות תהי לשרך ושקוי לעצמותיך | sanidades serán para tu ombligo, y bebida para tus huesos. |
-| #mishlei_3_9 | כבד את יהוה מהונך ומראשית כל תבואתך | Honra a יהוה desde tu abundancia, y desde el principio de toda tu cosecha, |
-| #mishlei_3_10 | וימלאו אסמיך שבע ותירוש יקביך יפרצו | y se llenarán tus graneros de saciedad, y tu mosto estallará en tus lagares. |
-| #mishlei_3_11 | מוסר יהוה בני אל תמאס ואל תקץ בתוכחתו | La disciplina de יהוה, hijo mío, no desprecies, y no te fastidies de su reprensión, |
-| #mishlei_3_12 | כי את אשר יאהב יהוה יוכיח וכאב את בן ירצה | porque al que יהוה ama, reprende, y como padre al hijo favorece. |
-| #mishlei_3_13 | אשרי אדם מצא חכמה ואדם יפיק תבונה | Feliz el hombre que encuentra sabiduría, y el hombre que produce entendimiento, |
-| #mishlei_3_14 | כי טוב סחרה מסחר כסף ומחרוץ תבואתה | porque mejor es su ganancia que la ganancia de plata, y más que el oro su producto. |
+| #proverbios_3_1 | בני תורתי אל תשכח ומצותי יצר לבך | Hijo mío, mi Torah no olvidarás, y mis mandamientos guardará tu corazón, |
+| #proverbios_3_2 | כי ארך ימים ושנות חיים ושלום יוסיפו לך | porque largura de días, años de vida y shalom añadirán a ti. |
+| #proverbios_3_3 | חסד ואמת אל יעזבך קשרם על גרגרותיך כתבם על לוח לבך | Bondad y verdad no te abandonarán; átalas sobre tu cuello, escríbelas sobre la tabla de tu corazón, |
+| #proverbios_3_4 | ומצא חן ושכל טוב בעיני אלהים ואדם | y hallarás favor y buen discernimiento ante los ojos de Elohim y del hombre. |
+| #proverbios_3_5 | בטח אל יהוה בכל לבך ואל בינתך אל תשען | Confía hacia יהוה con todo tu corazón, y no te apoyes en tu entendimiento, |
+| #proverbios_3_6 | בכל דרכיך דעהו והוא יישר ארחתיך | en todos tus caminos conócelo, y Él enderezará tus sendas. |
+| #proverbios_3_7 | אל תהי חכם בעיניך ירא את יהוה וסור מרע | No seas sabio en tus ojos; teme a יהוה y apártate del mal, |
+| #proverbios_3_8 | רפאות תהי לשרך ושקוי לעצמותיך | sanidades serán para tu ombligo, y bebida para tus huesos. |
+| #proverbios_3_9 | כבד את יהוה מהונך ומראשית כל תבואתך | Honra a יהוה desde tu abundancia, y desde el principio de toda tu cosecha, |
+| #proverbios_3_10 | וימלאו אסמיך שבע ותירוש יקביך יפרצו | y se llenarán tus graneros de saciedad, y tu mosto estallará en tus lagares. |
+| #proverbios_3_11 | מוסר יהוה בני אל תמאס ואל תקץ בתוכחתו | La disciplina de יהוה, hijo mío, no desprecies, y no te fastidies de su reprensión, |
+| #proverbios_3_12 | כי את אשר יאהב יהוה יוכיח וכאב את בן ירצה | porque al que יהוה ama, reprende, y como padre al hijo favorece. |
+| #proverbios_3_13 | אשרי אדם מצא חכמה ואדם יפיק תבונה | Feliz el hombre que encuentra sabiduría, y el hombre que produce entendimiento, |
+| #proverbios_3_14 | כי טוב סחרה מסחר כסף ומחרוץ תבואתה | porque mejor es su ganancia que la ganancia de plata, y más que el oro su producto. |
 
 ## La Torah guardada en la persona interior
 
@@ -81,11 +81,11 @@ El cierre de la unidad introduce la madurez: feliz el que encuentra **(חכמה)
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_3_1-4 | La Torah se guarda en el corazón y bondad/verdad se llevan como adorno vivo. | Apoyo textual; lectura corporativa atribuida. |
-| #mishlei_3_5-7 | La persona no debe apoyarse en su propio entendimiento; debe obedecer y dejar que יהוה enderece. | Apoyo textual; aplicación a obediencia antes de comprensión calificada. |
-| #mishlei_3_8-10 | Ombligo, huesos, primicias y graneros describen restauración y entrega integral. | Imágenes y primicias apoyadas; alegoría de Israel atribuida. |
-| #mishlei_3_11-12 | La reprensión de יהוה es disciplina amorosa del Padre. | Apoyo textual directo; conexión mesiánica calificada. |
-| #mishlei_3_13-14 | La sabiduría se encuentra y el entendimiento se produce; su ganancia supera plata y oro. | Apoyo textual; distinción de madurez pedagógica. |
+| #proverbios_3_1-4 | La Torah se guarda en el corazón y bondad/verdad se llevan como adorno vivo. | Apoyo textual; lectura corporativa atribuida. |
+| #proverbios_3_5-7 | La persona no debe apoyarse en su propio entendimiento; debe obedecer y dejar que יהוה enderece. | Apoyo textual; aplicación a obediencia antes de comprensión calificada. |
+| #proverbios_3_8-10 | Ombligo, huesos, primicias y graneros describen restauración y entrega integral. | Imágenes y primicias apoyadas; alegoría de Israel atribuida. |
+| #proverbios_3_11-12 | La reprensión de יהוה es disciplina amorosa del Padre. | Apoyo textual directo; conexión mesiánica calificada. |
+| #proverbios_3_13-14 | La sabiduría se encuentra y el entendimiento se produce; su ganancia supera plata y oro. | Apoyo textual; distinción de madurez pedagógica. |
 
 ## Hoja léxica
 

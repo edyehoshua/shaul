@@ -6,7 +6,7 @@ tags:
   - parashot
   - bereshit
 references:
-  - "#bereshit_32_1"
+  - "#genesis_32_1"
 sources:
   - "https://www.youtube.com/watch?v=hK-RCD59p3c"
   - "docs/scriptures/oe/json/genesis/32.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 32 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                         | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_32_1 | **וישכם לבן בבקר וינשק לבניו ולבנותיו ויברך אתהם וילך וישב לבן למקמו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #genesis_32_1 | **וישכם לבן בבקר וינשק לבניו ולבנותיו ויברך אתהם וילך וישב לבן למקמו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

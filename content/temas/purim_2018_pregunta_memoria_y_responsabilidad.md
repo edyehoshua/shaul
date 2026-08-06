@@ -9,11 +9,11 @@ tags:
   - responsabilidad
   - comunidad
 references:
-  - "#esther_3_7"
-  - "#esther_4_13-16"
-  - "#esther_8_8-17"
-  - "#esther_9_20-28"
-  - "#esther_10_3"
+  - "#ester_3_7"
+  - "#ester_4_13-16"
+  - "#ester_8_8-17"
+  - "#ester_9_20-28"
+  - "#ester_10_3"
 sources:
   - "https://www.youtube.com/watch?v=lJpkAqUpOiM"
   - "docs/scriptures/oe/json/raw/esther.json"
@@ -35,13 +35,13 @@ El inventario registra `youtube:lJpkAqUpOiM` con el título «Jag Purim (2018) �
 | Unidad y fuente                       | Movimiento de Ester                                                                 | Evaluación del tema anunciado                                                       |
 | ------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Título público; `youtube:lJpkAqUpOiM` | Eric anuncia una pregunta sobre la celebración de Purim.                            | Punto de partida verificable; no se atribuyen conclusiones no documentadas.         |
-| #esther_3_7-13; #esther_8_8-17        | El sorteo y el decreto de Amán son respondidos por un nuevo decreto de defensa.     | La memoria de Purim nace de una inversión narrativa y legal, no de una abstracción. |
-| #esther_9_20-28                       | Mardoqueo escribe, se establecen días, se envían porciones y se dan dones a pobres. | La celebración incluye memoria comunitaria, alegría y solidaridad concreta.         |
-| #esther_10_3                          | Mardoqueo procura el bien de su pueblo y habla paz.                                 | La responsabilidad es un criterio del liderazgo, no una exaltación personal.        |
+| #ester_3_7-13; #ester_8_8-17        | El sorteo y el decreto de Amán son respondidos por un nuevo decreto de defensa.     | La memoria de Purim nace de una inversión narrativa y legal, no de una abstracción. |
+| #ester_9_20-28                       | Mardoqueo escribe, se establecen días, se envían porciones y se dan dones a pobres. | La celebración incluye memoria comunitaria, alegría y solidaridad concreta.         |
+| #ester_10_3                          | Mardoqueo procura el bien de su pueblo y habla paz.                                 | La responsabilidad es un criterio del liderazgo, no una exaltación personal.        |
 
 ## El decreto, la pregunta y la inversión
 
-#esther_3_7-13 presenta a Amán echando suertes y procurando un decreto contra los judíos. La narración no presenta el sorteo como una autoridad divina: describe el mecanismo del enemigo. #esther_4_13-16 muestra que Ester no responde con una celebración desligada del peligro. Ayuna, reúne a los judíos y acepta comparecer ante el rey. La inversión de #esther_8_8-17 es legal y comunitaria: el decreto anterior no se borra, pero se autoriza la defensa de la vida.
+#ester_3_7-13 presenta a Amán echando suertes y procurando un decreto contra los judíos. La narración no presenta el sorteo como una autoridad divina: describe el mecanismo del enemigo. #ester_4_13-16 muestra que Ester no responde con una celebración desligada del peligro. Ayuna, reúne a los judíos y acepta comparecer ante el rey. La inversión de #ester_8_8-17 es legal y comunitaria: el decreto anterior no se borra, pero se autoriza la defensa de la vida.
 
 **פּוּר**, _pur_, significa suerte o sorteo; su fuerza contextual explica el nombre de Purim y la fecha escogida por Amán. «Destino» sería una glosa **aproximada**, no una definición suficiente. **הָפַךְ**, _hafakh_, significa volver, cambiar o invertir; aquí describe la reversión de la situación narrativa. «Inversión» es **contextual y pedagógica**: no promete que toda aflicción individual terminará del mismo modo.
 
@@ -49,21 +49,21 @@ La pregunta «¿por qué celebramos?» debe mantener la diferencia entre narraci
 
 ## Memoria que se vuelve responsabilidad
 
-#esther_9_20-28 no deja la fiesta en una emoción privada. Mardoqueo escribe para establecer los días, y la comunidad debe recordarlos, celebrarlos, enviar porciones y dar dones a los pobres. El texto une alegría con distribución: la mesa festiva tiene un vecino y tiene al necesitado. #esther_10_3 completa el retrato al evaluar a Mardoqueo por procurar el bien de su pueblo y hablar paz.
+#ester_9_20-28 no deja la fiesta en una emoción privada. Mardoqueo escribe para establecer los días, y la comunidad debe recordarlos, celebrarlos, enviar porciones y dar dones a los pobres. El texto une alegría con distribución: la mesa festiva tiene un vecino y tiene al necesitado. #ester_10_3 completa el retrato al evaluar a Mardoqueo por procurar el bien de su pueblo y hablar paz.
 
 **זָכַר**, _zakar_, significa recordar o traer a la memoria; en este contexto la memoria es activa y transmisible. «Memoria» es una glosa **directa**, mientras afirmar que cada costumbre moderna reproduce exactamente el texto sería **aproximado**. **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres; la equivalencia es **directa** y el cuidado social pertenece a la instrucción narrativa. **שָׁלוֹם**, _shalom_, significa paz, integridad o bienestar; en 10:3 su fuerza es el bien público buscado por el liderazgo. Reducirlo a ausencia de conflicto sería **aproximado**.
 
 ## Recorrido de Ester en orden
 
-En #esther_3_7-13, el _pur_ de Amán fija una fecha y el decreto convierte el cálculo del enemigo en amenaza pública. La narración describe el procedimiento, pero no lo recomienda: **גָּזַר**, _gazar_, significa cortar, decretar o determinar; su fuerza aquí es la promulgación de una sentencia imperial contra los judíos. «Destino» como traducción del decreto sería **pedagógico y excesivo**, porque el texto sigue mostrando decisiones humanas y responsabilidad.
+En #ester_3_7-13, el _pur_ de Amán fija una fecha y el decreto convierte el cálculo del enemigo en amenaza pública. La narración describe el procedimiento, pero no lo recomienda: **גָּזַר**, _gazar_, significa cortar, decretar o determinar; su fuerza aquí es la promulgación de una sentencia imperial contra los judíos. «Destino» como traducción del decreto sería **pedagógico y excesivo**, porque el texto sigue mostrando decisiones humanas y responsabilidad.
 
-En #esther_4_13-16, Mardoqueo confronta la falsa seguridad de Ester y ella responde con ayuno, reunión y riesgo. **צוּם**, _tsum_, significa ayunar o abstenerse de alimento; en este episodio su fuerza es una preparación comunitaria para actuar, no una técnica para manipular al rey. La observación atribuible a Eric sobre una memoria que debe producir respuesta recibe aquí apoyo **cualificado**: Ester no celebra todavía; discierne y se expone.
+En #ester_4_13-16, Mardoqueo confronta la falsa seguridad de Ester y ella responde con ayuno, reunión y riesgo. **צוּם**, _tsum_, significa ayunar o abstenerse de alimento; en este episodio su fuerza es una preparación comunitaria para actuar, no una técnica para manipular al rey. La observación atribuible a Eric sobre una memoria que debe producir respuesta recibe aquí apoyo **cualificado**: Ester no celebra todavía; discierne y se expone.
 
-En #esther_8_8-17, la inversión se concreta mediante un nuevo escrito que permite defender la vida. **כָּתַב**, _katav_, significa escribir o poner por escrito; su fuerza contextual es legal y pública. «Revertir» resume el cambio de situación, pero es **aproximado** si se entiende como borrar el primer decreto, pues el relato conserva su irrevocabilidad y responde con una autorización de defensa.
+En #ester_8_8-17, la inversión se concreta mediante un nuevo escrito que permite defender la vida. **כָּתַב**, _katav_, significa escribir o poner por escrito; su fuerza contextual es legal y pública. «Revertir» resume el cambio de situación, pero es **aproximado** si se entiende como borrar el primer decreto, pues el relato conserva su irrevocabilidad y responde con una autorización de defensa.
 
-En #esther_9_20-28, **מִשְׁתֶּה**, _mishteh_, significa banquete o celebración; **מִשְׁלוֹחַ מָנוֹת**, _mishloaj manot_, significa envío de porciones; y **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres. Las tres expresiones tienen sentido **directo** en la descripción de la fiesta, aunque convertirlas en una regla exhaustiva de cada costumbre posterior es **aproximado**. La clase puede preguntar por qué se celebra; Ester responde mediante memoria compartida, alegría concreta y cuidado del vulnerable.
+En #ester_9_20-28, **מִשְׁתֶּה**, _mishteh_, significa banquete o celebración; **מִשְׁלוֹחַ מָנוֹת**, _mishloaj manot_, significa envío de porciones; y **מַתָּנוֹת לָאֶבְיוֹנִים**, _mattanot la’evyonim_, significa regalos para los pobres. Las tres expresiones tienen sentido **directo** en la descripción de la fiesta, aunque convertirlas en una regla exhaustiva de cada costumbre posterior es **aproximado**. La clase puede preguntar por qué se celebra; Ester responde mediante memoria compartida, alegría concreta y cuidado del vulnerable.
 
-Finalmente, #esther_10_3 no termina en la exaltación de Mardoqueo, sino en procurar el bien del pueblo y hablar paz. La lectura canónica limita cualquier aplicación política contemporánea: **טוֹב**, _tov_, significa bueno, bienestar o beneficio; aquí su fuerza es el bien público procurado por el liderazgo. La glosa «servicio» es **pedagógica**, no una identificación automática de todo dirigente moderno con Mardoqueo.
+Finalmente, #ester_10_3 no termina en la exaltación de Mardoqueo, sino en procurar el bien del pueblo y hablar paz. La lectura canónica limita cualquier aplicación política contemporánea: **טוֹב**, _tov_, significa bueno, bienestar o beneficio; aquí su fuerza es el bien público procurado por el liderazgo. La glosa «servicio» es **pedagógica**, no una identificación automática de todo dirigente moderno con Mardoqueo.
 
 ## Reparación desarrollada: Purim no es azar sin gobierno
 
@@ -82,8 +82,8 @@ La exposición recibe **apoyo textual cualificado**: Ester 9:20-28 sí fundament
 | Unidad y fuente                                       | Observación atribuible por la fuente pública                          | Evaluación frente a Ester                                                           |
 | ----------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Título público; `youtube:lJpkAqUpOiM`                 | Eric formula públicamente la pregunta «¿por qué celebramos Purim?».   | Atribución exacta al título; el contenido detallado permanece sin documentar.       |
-| #esther_3_7-13; #esther_8_8-17; `youtube:lJpkAqUpOiM` | El tema de Purim se contrasta con una amenaza y una inversión.        | Desarrollo canónico **cualificado**, no cita de Eric.                               |
-| #esther_9_20-28; `youtube:lJpkAqUpOiM`                | La celebración se examina mediante memoria, alegría y ayuda al pobre. | Apoyo textual **directo** para el orden de Ester; aplicación actual **pedagógica**. |
+| #ester_3_7-13; #ester_8_8-17; `youtube:lJpkAqUpOiM` | El tema de Purim se contrasta con una amenaza y una inversión.        | Desarrollo canónico **cualificado**, no cita de Eric.                               |
+| #ester_9_20-28; `youtube:lJpkAqUpOiM`                | La celebración se examina mediante memoria, alegría y ayuda al pobre. | Apoyo textual **directo** para el orden de Ester; aplicación actual **pedagógica**. |
 
 ## Conclusión
 

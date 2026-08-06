@@ -10,12 +10,12 @@ tags:
   - misericordia
   - pacto
 references:
-  - "#tehilim_106_1-5"
-  - "#tehilim_106_6-12"
-  - "#tehilim_106_13-23"
-  - "#tehilim_106_24-33"
-  - "#tehilim_106_34-46"
-  - "#tehilim_106_47-48"
+  - "#salmos_106_1-5"
+  - "#salmos_106_6-12"
+  - "#salmos_106_13-23"
+  - "#salmos_106_24-33"
+  - "#salmos_106_34-46"
+  - "#salmos_106_47-48"
 sources:
   - "https://www.youtube.com/watch?v=TT0ah0CeMJ0"
   - "https://www.youtube.com/watch?v=247PHlRgPLY"
@@ -38,12 +38,12 @@ Las dos sesiones públicas forman una sola exposición: la primera recorre la ap
 
 | Unidad             | Texto hebreo local (OE, sin segmentación)                                                   | Movimiento del salmo                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #tehilim_106_1-5   | **הללו יה הודו ליהוה כי טוב כי לעולם חסדו**; **אשרי שמרי משפט עשה צדקה בכל עת**             | Alabanza, bondad perdurable y deseo de participar en el bien del pueblo escogido. |
-| #tehilim_106_6-12  | **חטאנו עם אבותינו העוינו הרשענו**; **לא זכרו את רב חסדיך**; **ויאמינו בדבריו ישירו תהלתו** | Confesión colectiva, olvido en Egipto y salvación en el mar.                      |
-| #tehilim_106_13-23 | **מהרו שכחו מעשיו**; **ויעשו עגל בחרב**; **לולי משה בחירו עמד בפרץ**                        | Olvido, deseo desordenado, becerro e intercesión.                                 |
-| #tehilim_106_24-33 | **לא האמינו לדברו**; **ויצמדו לבעל פעור**; **ויעמד פינחס ויפלל**                            | Rechazo de la tierra, murmuración, Baal Peor y detención de la plaga.             |
-| #tehilim_106_34-46 | **ויתערבו בגוים וילמדו מעשיהם**; **ויזכר להם בריתו**                                        | Mezcla con las naciones, prácticas destructivas, juicio y recuerdo del pacto.     |
-| #tehilim_106_47-48 | **הושיענו יהוה אלהינו וקבצנו מן הגוים**; **ברוך יהוה אלהי ישראל**                           | Petición de reunión, acción de gracias y cierre litúrgico.                        |
+| #salmos_106_1-5   | **הללו יה הודו ליהוה כי טוב כי לעולם חסדו**; **אשרי שמרי משפט עשה צדקה בכל עת**             | Alabanza, bondad perdurable y deseo de participar en el bien del pueblo escogido. |
+| #salmos_106_6-12  | **חטאנו עם אבותינו העוינו הרשענו**; **לא זכרו את רב חסדיך**; **ויאמינו בדבריו ישירו תהלתו** | Confesión colectiva, olvido en Egipto y salvación en el mar.                      |
+| #salmos_106_13-23 | **מהרו שכחו מעשיו**; **ויעשו עגל בחרב**; **לולי משה בחירו עמד בפרץ**                        | Olvido, deseo desordenado, becerro e intercesión.                                 |
+| #salmos_106_24-33 | **לא האמינו לדברו**; **ויצמדו לבעל פעור**; **ויעמד פינחס ויפלל**                            | Rechazo de la tierra, murmuración, Baal Peor y detención de la plaga.             |
+| #salmos_106_34-46 | **ויתערבו בגוים וילמדו מעשיהם**; **ויזכר להם בריתו**                                        | Mezcla con las naciones, prácticas destructivas, juicio y recuerdo del pacto.     |
+| #salmos_106_47-48 | **הושיענו יהוה אלהינו וקבצנו מן הגוים**; **ברוך יהוה אלהי ישראל**                           | Petición de reunión, acción de gracias y cierre litúrgico.                        |
 
 ## Aleluya y confesión compartida: vv. 1-5
 
@@ -113,12 +113,12 @@ El v. 48 bendice a יהוה, Elohim de Israel, desde la eternidad hasta la etern
 
 | Unidad textual     | Observación concreta de la clase                                                                                                                   | Evaluación frente al texto local                                                                                                                     |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_106_1-5   | La alabanza nace de reconocer la bondad y los hechos de יהוה; guardar el juicio implica cultivar y practicar lo correcto.                          | Apoyo directo para bondad, obras, justicia y vida comunitaria; cultivar es ampliación pedagógica.                                                    |
-| #tehilim_106_6-12  | «Hemos pecado con nuestros padres» incluye a todo el pueblo; la ingratitud comienza al olvidar las obras y termina enfrentando la palabra de יהוה. | El pronombre colectivo y **לא זכרו** lo sostienen; la aplicación a comunidades actuales pertenece a Eric.                                            |
-| #tehilim_106_13-23 | El pueblo se apresura, desea, fabrica el becerro y cambia la gloria; Moshe se coloca en la brecha.                                                 | Apoyo textual directo para olvido, deseo, sustitución e intercesión; el lenguaje del mayor poder es desarrollo teológico.                            |
-| #tehilim_106_24-33 | Rechazar la tierra, mezclarse con cultos y rebelarse en Meribá muestra que la pertenencia tribal no produce superioridad moral.                    | El salmo confiesa fallos de generaciones y líderes; la aplicación contra el orgullo religioso es pedagógica.                                         |
-| #tehilim_106_34-46 | Aprender las obras de las naciones y seguir figuras o prácticas ajenas puede convertir la cultura en trampa; aun así, יהוה recuerda su pacto.      | El texto habla de mezcla, ídolos, sangre y pacto; figuras públicas modernas son aplicación, mientras **ברית** es fundamento directo de la compasión. |
-| #tehilim_106_47-48 | La memoria termina pidiendo salvación y reunión para volver a agradecer el nombre santo.                                                           | Apoyo textual directo; las conexiones con reunión final y restauración más amplia son intertextuales.                                                |
+| #salmos_106_1-5   | La alabanza nace de reconocer la bondad y los hechos de יהוה; guardar el juicio implica cultivar y practicar lo correcto.                          | Apoyo directo para bondad, obras, justicia y vida comunitaria; cultivar es ampliación pedagógica.                                                    |
+| #salmos_106_6-12  | «Hemos pecado con nuestros padres» incluye a todo el pueblo; la ingratitud comienza al olvidar las obras y termina enfrentando la palabra de יהוה. | El pronombre colectivo y **לא זכרו** lo sostienen; la aplicación a comunidades actuales pertenece a Eric.                                            |
+| #salmos_106_13-23 | El pueblo se apresura, desea, fabrica el becerro y cambia la gloria; Moshe se coloca en la brecha.                                                 | Apoyo textual directo para olvido, deseo, sustitución e intercesión; el lenguaje del mayor poder es desarrollo teológico.                            |
+| #salmos_106_24-33 | Rechazar la tierra, mezclarse con cultos y rebelarse en Meribá muestra que la pertenencia tribal no produce superioridad moral.                    | El salmo confiesa fallos de generaciones y líderes; la aplicación contra el orgullo religioso es pedagógica.                                         |
+| #salmos_106_34-46 | Aprender las obras de las naciones y seguir figuras o prácticas ajenas puede convertir la cultura en trampa; aun así, יהוה recuerda su pacto.      | El texto habla de mezcla, ídolos, sangre y pacto; figuras públicas modernas son aplicación, mientras **ברית** es fundamento directo de la compasión. |
+| #salmos_106_47-48 | La memoria termina pidiendo salvación y reunión para volver a agradecer el nombre santo.                                                           | Apoyo textual directo; las conexiones con reunión final y restauración más amplia son intertextuales.                                                |
 
 ## Pendiente de verificar
 

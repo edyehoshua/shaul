@@ -4,12 +4,12 @@ description: "Mishlei 12:10-15 contrasta el trabajo en la tierra de יהוה, la
 date: 2026-08-06
 tags: [mishlei, mishlei_12, raiz, justificacion, consejo, servicio, trampa]
 references:
-  - "#mishlei_12_10"
-  - "#mishlei_12_11"
-  - "#mishlei_12_12"
-  - "#mishlei_12_13"
-  - "#mishlei_12_14"
-  - "#mishlei_12_15"
+  - "#proverbios_12_10"
+  - "#proverbios_12_11"
+  - "#proverbios_12_12"
+  - "#proverbios_12_13"
+  - "#proverbios_12_14"
+  - "#proverbios_12_15"
   - "#salmos_23_1"
   - "#juan_6_35"
   - "#1_corintios_2_16"
@@ -34,12 +34,12 @@ Esta nota organiza la clase sobre Mishlei 12:10-15. El video retoma el verso 10 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_12_10 | יודע צדיק נפש בהמתו ורחמי רשעים אכזרי | Conoce el justo la vida de su animal, pero la entraña de los condenados es cruel. |
-| #mishlei_12_11 | עבד אדמתו ישבע לחם ומרדף ריקים חסר לב | El que trabaja su tierra se saciará de pan, pero el que persigue el vacío es falto de corazón. |
-| #mishlei_12_12 | חמד רשע מצוד רעים ושרש צדיקים יתן | El deseo del condenado es la red de los malos, pero la raíz de los justos dará. |
-| #mishlei_12_13 | בפשע שפתים מוקש רע ויצא מצרה צדיק | En la transgresión de labios se enlaza el malo, pero el justo saldrá de la estrechez. |
-| #mishlei_12_14 | מפרי פי איש ישבע טוב וגמול ידי אדם ישוב ישיב לו | Del fruto de la boca del hombre, él se saciará de bien, y el pago de las manos del hombre volverá a él. |
-| #mishlei_12_15 | דרך אויל ישר בעיניו ושמע לעצה חכם | El camino del tonto es recto a sus ojos, pero el sabio escucha el consejo. |
+| #proverbios_12_10 | יודע צדיק נפש בהמתו ורחמי רשעים אכזרי | Conoce el justo la vida de su animal, pero la entraña de los condenados es cruel. |
+| #proverbios_12_11 | עבד אדמתו ישבע לחם ומרדף ריקים חסר לב | El que trabaja su tierra se saciará de pan, pero el que persigue el vacío es falto de corazón. |
+| #proverbios_12_12 | חמד רשע מצוד רעים ושרש צדיקים יתן | El deseo del condenado es la red de los malos, pero la raíz de los justos dará. |
+| #proverbios_12_13 | בפשע שפתים מוקש רע ויצא מצרה צדיק | En la transgresión de labios se enlaza el malo, pero el justo saldrá de la estrechez. |
+| #proverbios_12_14 | מפרי פי איש ישבע טוב וגמול ידי אדם ישוב ישיב לו | Del fruto de la boca del hombre, él se saciará de bien, y el pago de las manos del hombre volverá a él. |
+| #proverbios_12_15 | דרך אויל ישר בעיניו ושמע לעצה חכם | El camino del tonto es recto a sus ojos, pero el sabio escucha el consejo. |
 
 ## El justo conoce la vida y la tierra recibe trabajo
 
@@ -76,11 +76,11 @@ El verso 15 cierra la unidad con una prueba sencilla de sabiduría. El camino de
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_12_10 | El animal del justo puede leerse alegóricamente como el pueblo conocido y cuidado por יהוה, sin perder el sentido literal de compasión. | Inferencia alegórica atribuida y cualificada. |
-| #mishlei_12_11 | Trabajar la tierra representa servir en la tierra de Elohim; el pan se relaciona con la palabra y con Yehoshua como pan de vida. | Apoyo textual con aplicación espiritual; dimensión material preservada. |
-| #mishlei_12_12-13 | El condenado tiende la red; la raíz de los justos produce fruto y el justo sale de la estrechez. | Distinción léxica y lectura mesiánica calificada. |
-| #mishlei_12_14 | El fruto de la boca incluye palabra y acción; las manos reciben el retorno de sus obras. | Observación textual con aplicación sobre consecuencias. |
-| #mishlei_12_15 | El tonto sigue lo que parece recto a sus ojos; el sabio escucha consejo y dirección. | Apoyo textual y llamado a la humildad. |
+| #proverbios_12_10 | El animal del justo puede leerse alegóricamente como el pueblo conocido y cuidado por יהוה, sin perder el sentido literal de compasión. | Inferencia alegórica atribuida y cualificada. |
+| #proverbios_12_11 | Trabajar la tierra representa servir en la tierra de Elohim; el pan se relaciona con la palabra y con Yehoshua como pan de vida. | Apoyo textual con aplicación espiritual; dimensión material preservada. |
+| #proverbios_12_12-13 | El condenado tiende la red; la raíz de los justos produce fruto y el justo sale de la estrechez. | Distinción léxica y lectura mesiánica calificada. |
+| #proverbios_12_14 | El fruto de la boca incluye palabra y acción; las manos reciben el retorno de sus obras. | Observación textual con aplicación sobre consecuencias. |
+| #proverbios_12_15 | El tonto sigue lo que parece recto a sus ojos; el sabio escucha consejo y dirección. | Apoyo textual y llamado a la humildad. |
 
 ## Conexiones principales
 

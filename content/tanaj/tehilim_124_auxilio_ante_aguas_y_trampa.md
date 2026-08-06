@@ -9,12 +9,12 @@ tags:
   - confianza
   - discernimiento
 references:
-  - "#tehilim_124_1-2"
-  - "#tehilim_124_3-5"
-  - "#tehilim_124_6-7"
-  - "#tehilim_124_8"
-  - "#tehilim_119_160"
-  - "#devarim_32_2"
+  - "#salmos_124_1-2"
+  - "#salmos_124_3-5"
+  - "#salmos_124_6-7"
+  - "#salmos_124_8"
+  - "#salmos_119_160"
+  - "#deuteronomio_32_2"
 sources:
   - "https://www.youtube.com/watch?v=3Sikk_iOLz0"
   - "docs/scriptures/oe/json/psalms/124.json"
@@ -35,18 +35,18 @@ La fuente es una exposición del hermano Eric de Jesús Rodríguez Mendoza sobre
 
 | Referencia       | Texto local OE (sin nikud y sin segmentación)                                                        | Función en la lectura                                                        |
 | ---------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| #tehilim_124_1-2 | **שיר המעלות לדוד לולי יהוה שהיה לנו יאמר נא ישראל; לולי יהוה שהיה לנו בקום עלינו אדם**              | La comunidad repite que su preservación depende de que יהוה estuvo con ella. |
-| #tehilim_124_3-5 | **אזי חיים בלעונו בחרות אפם בנו; אזי המים שטפונו נחלה עבר על נפשנו; אזי עבר על נפשנו המים הזידונים** | El poema intensifica la amenaza: devorar, desbordar y pasar sobre la vida.   |
-| #tehilim_124_6-7 | **ברוך יהוה שלא נתננו טרף לשניהם; נפשנו כצפור נמלטה מפח יוקשים הפח נשבר ואנחנו נמלטנו**              | La alabanza responde con la imagen de presa no entregada y ave liberada.     |
-| #tehilim_124_8   | **עזרנו בשם יהוה עשה שמים וארץ**                                                                     | El final nombra al auxiliador y su señorío creador.                          |
+| #salmos_124_1-2 | **שיר המעלות לדוד לולי יהוה שהיה לנו יאמר נא ישראל; לולי יהוה שהיה לנו בקום עלינו אדם**              | La comunidad repite que su preservación depende de que יהוה estuvo con ella. |
+| #salmos_124_3-5 | **אזי חיים בלעונו בחרות אפם בנו; אזי המים שטפונו נחלה עבר על נפשנו; אזי עבר על נפשנו המים הזידונים** | El poema intensifica la amenaza: devorar, desbordar y pasar sobre la vida.   |
+| #salmos_124_6-7 | **ברוך יהוה שלא נתננו טרף לשניהם; נפשנו כצפור נמלטה מפח יוקשים הפח נשבר ואנחנו נמלטנו**              | La alabanza responde con la imagen de presa no entregada y ave liberada.     |
+| #salmos_124_8   | **עזרנו בשם יהוה עשה שמים וארץ**                                                                     | El final nombra al auxiliador y su señorío creador.                          |
 
-## «Si no hubiera estado יהוה con nosotros» — Tehilim 124:1-2 #tehilim_124_1-2
+## «Si no hubiera estado יהוה con nosotros» — Tehilim 124:1-2 #salmos_124_1-2
 
 El salmo abre y vuelve a abrir con **לולי יהוה שהיה לנו**, «si no hubiera estado יהוה con nosotros». Eric llama la atención sobre la repetición: antes de describir enemigos o estrategias, el testimonio atribuye la supervivencia a la presencia de יהוה. También propone leer el encabezado **לדוד** no solo como «de David», sino como «para el amado», y desde allí identifica al amado con el Mesías y con el verdadero Israel. El hebreo local contiene el encabezado y el llamado «diga ahora Israel», pero no decide por sí mismo esa lectura mesiánica; debe tratarse como una interpretación canónica, no como una traducción establecida.
 
 La clase toma **אדם** del v. 2 como la humanidad caída que se levanta contra Israel, y traza una oposición tipológica entre Adán, Edom y Jacob. El texto afirma de modo sobrio que un _adam_ se levantó contra el «nosotros»; no identifica a Edom, ni define a Israel como una categoría distinta de toda referencia histórica o política. La observación pastoral de Eric sí queda clara: no convertir la hostilidad recibida en una disputa centrada en el propio yo, porque el poema dirige la mirada a יהוה que está con su pueblo.
 
-## Aguas que desbordan y discernimiento — Tehilim 124:3-5 #tehilim_124_3-5
+## Aguas que desbordan y discernimiento — Tehilim 124:3-5 #salmos_124_3-5
 
 Después del alzamiento humano, los vv. 3-5 avanzan en orden desde ser devorados vivos hasta aguas que arrasan y pasan sobre la **נפש** colectiva. Eric conserva la fuerza de esa progresión y aplica las aguas a una inundación de doctrinas, calendarios, discusiones e información que puede nublar el entendimiento. Es una observación concreta de la clase: no toda amenaza llega como persecución abierta; algunas llegan como acumulación que desgasta y divide. Sin embargo, en el salmo las aguas son una imagen poética de peligro; «doctrinas» es una analogía pedagógica, no el significado léxico de **מים**.
 
@@ -54,15 +54,15 @@ Eric relaciona **נפש** con el cuello y la cabeza al explicar que ser sobrepas
 
 El adjetivo **זידונים** caracteriza las aguas del v. 5. Eric lo acerca a acciones premeditadas y a una emboscada ya preparada. El contraste entre aguas comunes y aguas de agresores insolentes encaja con la escena de peligro, pero la derivación precisa y la traducción «premeditadas» requieren comprobación léxica. La nota no convierte esa propuesta en la base de una acusación contra personas reales.
 
-## Presa no entregada y ave liberada — Tehilim 124:6-7 #tehilim_124_6-7
+## Presa no entregada y ave liberada — Tehilim 124:6-7 #salmos_124_6-7
 
 El poema cambia de lamento a bendición: **ברוך יהוה** porque no entregó a la comunidad como presa a los dientes. Eric interpreta los dientes como maltrato, presión, manipulación emocional y amenazas que buscan forzar sumisión. El valor inmediato de la imagen es el de un depredador que despedaza; extenderla a dinámicas sectarias o relaciones coercitivas es una aplicación concreta de la clase, útil solo cuando se discierne con cuidado y sin reemplazar una evaluación responsable de cada situación.
 
 En el v. 7, la **נפש** escapa «como ave» de la **פח**, la trampa de cazadores; la trampa se quiebra y el plural vuelve a confesar: «nosotros escapamos». Eric insiste en no normalizar una situación que comienza a superar a una persona. Ilustra la idea con Daniel: no atribuye la liberación a que Daniel destruyera a sus acusadores, sino a que יהוה quebró el resultado de la trampa. El salmo sostiene la liberación de una trampa; la relación con Daniel, con Apocalipsis, con las plagas de Egipto y con teorías sobre el rapto pertenece a una red intertextual que debe verificarse fuera de este pasaje.
 
-## El nombre como auxilio — Tehilim 124:8 #tehilim_124_8
+## El nombre como auxilio — Tehilim 124:8 #salmos_124_8
 
-El último verso no explica la salida mediante el ingenio del ave: **עזרנו בשם יהוה**. Eric concentra aquí su exhortación a mantener a Yehoshua como «cabeza» de la lectura y conecta el verso con #tehilim_119_160, que él propone entender como «la cabeza de tu palabra es verdad». El texto de Tehilim 124 confiesa auxilio en el nombre de יהוה y lo describe como hacedor de cielos y tierra. Identificar directamente ese nombre con cada formulación cristológica posterior es una lectura teológica que necesita argumentación canónica explícita; no debe presentarse como si la gramática del v. 8 la resolviera sola.
+El último verso no explica la salida mediante el ingenio del ave: **עזרנו בשם יהוה**. Eric concentra aquí su exhortación a mantener a Yehoshua como «cabeza» de la lectura y conecta el verso con #salmos_119_160, que él propone entender como «la cabeza de tu palabra es verdad». El texto de Tehilim 124 confiesa auxilio en el nombre de יהוה y lo describe como hacedor de cielos y tierra. Identificar directamente ese nombre con cada formulación cristológica posterior es una lectura teológica que necesita argumentación canónica explícita; no debe presentarse como si la gramática del v. 8 la resolviera sola.
 
 La clase también observa que **עשה** está en participio y lo desarrolla como acción creadora presente. El participio permite describir a יהוה como «hacedor»; la expansión hacia una creación que se completa diariamente es una reflexión teológica, no una conclusión exigida por este verso. Aun con esa distinción, el final sí cierra el recorrido con una confesión suficiente para el poema: el auxilio viene de quien gobierna sobre todo lo creado.
 
@@ -87,10 +87,10 @@ La misma precisión gobierna el cierre. Eric aconseja no buscar la liberación e
 
 | Unidad textual     | Punto tomado de Eric                                                                                                               | Versos                           | Cómo se evaluó                                                                                                                                                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Presencia e Israel | «Para David» puede leerse «para el amado»; el amado sería el Mesías, verdadero Israel, frente a Adán/Edom.                         | #tehilim_124_1-2                 | La presencia de יהוה, Israel y _adam_ están en el texto local; la traducción alternativa y la tipología mesiánica se preservan como inferencias pendientes.                        |
-| Aguas y presión    | Las aguas representan una avalancha doctrinal e informativa que puede sobrepasar la mente; no hace falta responder cada discusión. | #tehilim_124_3-5                 | El desbordamiento y la _nefesh_ amenazada son textuales; «doctrina», «cuello» y el consejo práctico se clasifican como aplicación pedagógica concreta.                             |
-| Dientes y trampa   | Los dientes figuran presión y manipulación; la trampa rota llama a salir de una situación que somete, como Daniel salió libre.     | #tehilim_124_6-7                 | Presa, dientes, ave y trampa quebrada están en el poema; Daniel y las aplicaciones sobre coerción se dejan como conexiones a verificar.                                            |
-| Nombre y cabeza    | El auxilio está en el nombre; Yehoshua debe ser la cabeza que evita que una lectura se inunde de otras ideas.                      | #tehilim_124_8; #tehilim_119_160 | El auxilio y el hacedor se confirman en Tehilim 124; el análisis de Tehilim 119, la identificación cristológica y las conclusiones doctrinales requieren fundamentación adicional. |
+| Presencia e Israel | «Para David» puede leerse «para el amado»; el amado sería el Mesías, verdadero Israel, frente a Adán/Edom.                         | #salmos_124_1-2                 | La presencia de יהוה, Israel y _adam_ están en el texto local; la traducción alternativa y la tipología mesiánica se preservan como inferencias pendientes.                        |
+| Aguas y presión    | Las aguas representan una avalancha doctrinal e informativa que puede sobrepasar la mente; no hace falta responder cada discusión. | #salmos_124_3-5                 | El desbordamiento y la _nefesh_ amenazada son textuales; «doctrina», «cuello» y el consejo práctico se clasifican como aplicación pedagógica concreta.                             |
+| Dientes y trampa   | Los dientes figuran presión y manipulación; la trampa rota llama a salir de una situación que somete, como Daniel salió libre.     | #salmos_124_6-7                 | Presa, dientes, ave y trampa quebrada están en el poema; Daniel y las aplicaciones sobre coerción se dejan como conexiones a verificar.                                            |
+| Nombre y cabeza    | El auxilio está en el nombre; Yehoshua debe ser la cabeza que evita que una lectura se inunde de otras ideas.                      | #salmos_124_8; #salmos_119_160 | El auxilio y el hacedor se confirman en Tehilim 124; el análisis de Tehilim 119, la identificación cristológica y las conclusiones doctrinales requieren fundamentación adicional. |
 
 ## Pendiente de verificar
 
@@ -98,7 +98,7 @@ La misma precisión gobierna el cierre. Eric aconseja no buscar la liberación e
 - [ ] Verificar las afirmaciones atribuidas a Ibn Ezra, David Qimji, Malbim y otros comentaristas acerca de cautividad, autoría y contexto del cántico.
 - [ ] Examinar la tipología Adán-Edom-Jacob/Israel y la identificación de Yehoshua como «verdadero Israel» con los textos que se invoquen.
 - [ ] Confirmar los sentidos y relaciones propuestos para **נפש**, **זידונים**, **ברוך**, **פח** y **עשה**, incluidas las explicaciones sobre adopción y acentuación hebrea.
-- [ ] Evaluar separadamente las conexiones con Daniel, Éxodo, Apocalipsis, 1 Corintios, Yojanán y #tehilim_119_160; no usar esas conexiones como sentido automático de Tehilim 124.
+- [ ] Evaluar separadamente las conexiones con Daniel, Éxodo, Apocalipsis, 1 Corintios, Yojanán y #salmos_119_160; no usar esas conexiones como sentido automático de Tehilim 124.
 
 ## Conclusión
 

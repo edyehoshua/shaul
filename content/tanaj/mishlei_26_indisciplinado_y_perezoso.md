@@ -4,25 +4,25 @@ description: "La honra fuera de tiempo, la respuesta prudente y la diferencia en
 date: 2026-08-05
 tags: [mishlei, mishlei_26, disciplina, perezoso, indisciplinado, sabiduria]
 references:
-  - "#mishlei_26_1"
-  - "#mishlei_26_2"
-  - "#mishlei_26_3"
-  - "#mishlei_26_4"
-  - "#mishlei_26_5"
-  - "#mishlei_26_6"
-  - "#mishlei_26_7"
-  - "#mishlei_26_8"
-  - "#mishlei_26_9"
-  - "#mishlei_26_10"
-  - "#mishlei_26_11"
-  - "#mishlei_26_12"
-  - "#mishlei_26_13"
-  - "#mishlei_26_14"
-  - "#mishlei_26_15"
-  - "#mishlei_26_16"
-  - "#mishlei_26_17"
-  - "#mishlei_22_13"
-  - "#mishlei_25_19"
+  - "#proverbios_26_1"
+  - "#proverbios_26_2"
+  - "#proverbios_26_3"
+  - "#proverbios_26_4"
+  - "#proverbios_26_5"
+  - "#proverbios_26_6"
+  - "#proverbios_26_7"
+  - "#proverbios_26_8"
+  - "#proverbios_26_9"
+  - "#proverbios_26_10"
+  - "#proverbios_26_11"
+  - "#proverbios_26_12"
+  - "#proverbios_26_13"
+  - "#proverbios_26_14"
+  - "#proverbios_26_15"
+  - "#proverbios_26_16"
+  - "#proverbios_26_17"
+  - "#proverbios_22_13"
+  - "#proverbios_25_19"
   - "#mateo_20_1"
   - "#mateo_7_16"
   - "#jueces_17_6"
@@ -47,23 +47,23 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_26_1 | כשלג בקיץ וכמטר בקציר כן לא נאוה לכסיל כבוד | Como nieve en el verano y como lluvia en la cosecha, así no es adecuada al indisciplinado la gloria. |
-| #mishlei_26_2 | כצפור לנוד כדרור לעוף כן קללת חנם לא לו תבא | Como el pájaro al vagar, como la golondrina al volar, así la maldición de gratis no vendrá. |
-| #mishlei_26_3 | שוט לסוס מתג לחמור ושבט לגו כסילים | El látigo es para el caballo, la brida es para el asno, y la vara para la espalda de los indisciplinados. |
-| #mishlei_26_4 | אל תען כסיל כאולתו פן תשוה לו גם אתה | No respondas al indisciplinado conforme a su tontería, no sea que tú también seas igual a él. |
-| #mishlei_26_5 | ענה כסיל כאולתו פן יהיה חכם בעיניו | Responde al indisciplinado conforme a su tontería, no sea que él sea sabio en sus propios ojos. |
-| #mishlei_26_6 | מקצה רגלים חמס שתה שלח דברים ביד כסיל | Acorta los pies, bebe violencia, el que envía palabra por mano de un indisciplinado. |
-| #mishlei_26_7 | דליו שקים מפסח ומשל בפי כסילים | Cuelgan las piernas del cojo, y la parábola en boca de los indisciplinados. |
-| #mishlei_26_8 | כצרור אבן במרגמה כן נותן לכסיל כבוד | Como atar una piedra en una honda, así es el que da honra al indisciplinado. |
-| #mishlei_26_9 | חוח עלה ביד שכור ומשל בפי כסילים | Espina que sube en la mano del borracho, y la parábola en boca de los indisciplinados. |
-| #mishlei_26_10 | רב מחולל כל ושכר כסיל ושכר עברים | El Maestro da a luz a todos —otra lectura posible: el Arquero traspasa a todos—, y contrata al indisciplinado y a los que van pasando. |
-| #mishlei_26_11 | ככלב שב על קאו כסיל שונה באולתו | Como perro que vuelve sobre su vómito, el indisciplinado actúa nuevamente en su tontería. |
-| #mishlei_26_12 | ראית איש חכם בעיניו תקוה לכסיל ממנו | Viste al hombre sabio en sus propios ojos: habrá más esperanza para el indisciplinado que para él. |
-| #mishlei_26_13 | אמר עצל שחל בדרך ארי בין הרחבות | Dijo el perezoso: hay un león en el camino, un león entre las plazas. |
-| #mishlei_26_14 | הדלת תסוב על צירה ועצל על מטתו | La puerta gira sobre su bisagra, y el perezoso sobre su cama. |
-| #mishlei_26_15 | טמן עצל ידו בצלחת נלאה להשיבה אל פיו | El perezoso esconde su mano en un caldero, está cansado para hacerla volver a su boca. |
-| #mishlei_26_16 | חכם עצל בעיניו משבעה משיבי טעם | Más sabio es el perezoso en sus propios ojos que siete que devuelven discernimiento. |
-| #mishlei_26_17 | מחזיק באזני כלב עבר מתעבר על ריב לא לו | El que agarra las orejas del perro es el que se cruza en una contienda no suya. |
+| #proverbios_26_1 | כשלג בקיץ וכמטר בקציר כן לא נאוה לכסיל כבוד | Como nieve en el verano y como lluvia en la cosecha, así no es adecuada al indisciplinado la gloria. |
+| #proverbios_26_2 | כצפור לנוד כדרור לעוף כן קללת חנם לא לו תבא | Como el pájaro al vagar, como la golondrina al volar, así la maldición de gratis no vendrá. |
+| #proverbios_26_3 | שוט לסוס מתג לחמור ושבט לגו כסילים | El látigo es para el caballo, la brida es para el asno, y la vara para la espalda de los indisciplinados. |
+| #proverbios_26_4 | אל תען כסיל כאולתו פן תשוה לו גם אתה | No respondas al indisciplinado conforme a su tontería, no sea que tú también seas igual a él. |
+| #proverbios_26_5 | ענה כסיל כאולתו פן יהיה חכם בעיניו | Responde al indisciplinado conforme a su tontería, no sea que él sea sabio en sus propios ojos. |
+| #proverbios_26_6 | מקצה רגלים חמס שתה שלח דברים ביד כסיל | Acorta los pies, bebe violencia, el que envía palabra por mano de un indisciplinado. |
+| #proverbios_26_7 | דליו שקים מפסח ומשל בפי כסילים | Cuelgan las piernas del cojo, y la parábola en boca de los indisciplinados. |
+| #proverbios_26_8 | כצרור אבן במרגמה כן נותן לכסיל כבוד | Como atar una piedra en una honda, así es el que da honra al indisciplinado. |
+| #proverbios_26_9 | חוח עלה ביד שכור ומשל בפי כסילים | Espina que sube en la mano del borracho, y la parábola en boca de los indisciplinados. |
+| #proverbios_26_10 | רב מחולל כל ושכר כסיל ושכר עברים | El Maestro da a luz a todos —otra lectura posible: el Arquero traspasa a todos—, y contrata al indisciplinado y a los que van pasando. |
+| #proverbios_26_11 | ככלב שב על קאו כסיל שונה באולתו | Como perro que vuelve sobre su vómito, el indisciplinado actúa nuevamente en su tontería. |
+| #proverbios_26_12 | ראית איש חכם בעיניו תקוה לכסיל ממנו | Viste al hombre sabio en sus propios ojos: habrá más esperanza para el indisciplinado que para él. |
+| #proverbios_26_13 | אמר עצל שחל בדרך ארי בין הרחבות | Dijo el perezoso: hay un león en el camino, un león entre las plazas. |
+| #proverbios_26_14 | הדלת תסוב על צירה ועצל על מטתו | La puerta gira sobre su bisagra, y el perezoso sobre su cama. |
+| #proverbios_26_15 | טמן עצל ידו בצלחת נלאה להשיבה אל פיו | El perezoso esconde su mano en un caldero, está cansado para hacerla volver a su boca. |
+| #proverbios_26_16 | חכם עצל בעיניו משבעה משיבי טעם | Más sabio es el perezoso en sus propios ojos que siete que devuelven discernimiento. |
+| #proverbios_26_17 | מחזיק באזני כלב עבר מתעבר על ריב לא לו | El que agarra las orejas del perro es el que se cruza en una contienda no suya. |
 
 ## Una honra fuera de tiempo no produce fruto
 
@@ -112,10 +112,10 @@ El “sabio en sus propios ojos” de 26:12 y 16 es más difícil de corregir pr
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_26_1-3 | La honra al indisciplinado es como nieve en verano; la vara muestra la gravedad de su resistencia. | Contraste textual apoyado; imágenes de Israel y condena calificadas. |
-| #mishlei_26_4-6 | No responder evita hacerse igual; responder puede ser actuar con obras, y un mensajero indisciplinado distorsiona. | Tensión textual apoyada; aplicación al mensaje del reino calificada. |
-| #mishlei_26_7-12 | La parábola sin obras cuelga; el indisciplinado vuelve a su tontería y el sabio en sus ojos es peor. | Desarrollo textual; etimología de 26:10 pendiente. |
-| #mishlei_26_13-17 | El perezoso fabrica excusas, gira en su cama y se cree más sabio que quienes le corrigen. | Distinción textual apoyada; vínculo con Mijah y los siete espíritus calificado. |
+| #proverbios_26_1-3 | La honra al indisciplinado es como nieve en verano; la vara muestra la gravedad de su resistencia. | Contraste textual apoyado; imágenes de Israel y condena calificadas. |
+| #proverbios_26_4-6 | No responder evita hacerse igual; responder puede ser actuar con obras, y un mensajero indisciplinado distorsiona. | Tensión textual apoyada; aplicación al mensaje del reino calificada. |
+| #proverbios_26_7-12 | La parábola sin obras cuelga; el indisciplinado vuelve a su tontería y el sabio en sus ojos es peor. | Desarrollo textual; etimología de 26:10 pendiente. |
+| #proverbios_26_13-17 | El perezoso fabrica excusas, gira en su cama y se cree más sabio que quienes le corrigen. | Distinción textual apoyada; vínculo con Mijah y los siete espíritus calificado. |
 
 ## Pendiente de verificar
 
@@ -127,8 +127,8 @@ El “sabio en sus propios ojos” de 26:12 y 16 es más difícil de corregir pr
 
 ## Conexiones principales
 
-- #mishlei_22_13: el león usado como excusa reaparece en la descripción del perezoso de 26:13.
-- #mishlei_25_19: la advertencia contra confiar en el traidor ilumina el peligro de enviar palabras por mano de un indisciplinado.
+- #proverbios_22_13: el león usado como excusa reaparece en la descripción del perezoso de 26:13.
+- #proverbios_25_19: la advertencia contra confiar en el traidor ilumina el peligro de enviar palabras por mano de un indisciplinado.
 - #mateo_20_1: la clase conecta la lectura alternativa de 26:10 con los trabajadores de la viña; la conexión es pedagógica.
 - #mateo_7_16: “por sus frutos” expresa el criterio práctico que la exposición aplica a la honra del indisciplinado.
 - #jueces_17_6: Mijah ilustra la autojustificación religiosa mencionada al tratar al sabio en sus propios ojos.

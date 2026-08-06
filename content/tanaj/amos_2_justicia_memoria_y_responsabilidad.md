@@ -78,15 +78,15 @@ El mapa registra las líneas concretas incorporadas; no afirma haber cubierto ca
 
 ## Pendiente de verificar
 
-- [ ] Verificar la cronología exacta de Amós, Uzías, Iarobam y el terremoto; la clase ofrece fechas aproximadas que no se usan aquí como fundamento.
+- [ ] Verificar la cronología exacta de Amós, Uzías, Yarobam y el terremoto; la clase ofrece fechas aproximadas que no se usan aquí como fundamento.
 - [ ] Comprobar en una gramática o léxico especializado la forma y el alcance semántico de **(מעיק)** en Amós 2:13.
 - [ ] Verificar cualquier fuente histórica externa sobre el orden de Amós y Oseas y la propuesta de una Biblia cronológica.
 - [ ] Mantener como lectura pedagógica, no como equivalencia lexical, la asociación del vino con doctrina dañina y la tipología de José con el Mesías.
 
 ## Conexiones principales
 
-- #bereshit_37_28 ilustra la venta de José que Eric usa como patrón comparativo; la conexión se mantiene como analogía y no como identificación directa de Amós 2.
-- #devarim_6_4-5 y #vaikra_19_18 ayudan a expresar la responsabilidad de amar al prójimo, pero no sustituyen la acusación específica de Amós.
+- #genesis_37_28 ilustra la venta de José que Eric usa como patrón comparativo; la conexión se mantiene como analogía y no como identificación directa de Amós 2.
+- #deuteronomio_6_4-5 y #levitico_19_18 ayudan a expresar la responsabilidad de amar al prójimo, pero no sustituyen la acusación específica de Amós.
 - El vínculo entre culto y justicia en #malaquias_1 se consulta como conexión temática, no como prueba de que todos los detalles de ambos libros tengan el mismo contexto histórico.
 
 ## Conclusión

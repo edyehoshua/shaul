@@ -16,17 +16,17 @@ source_ids:
   - "youtube:StDmhcuW53g"
 ## Tesis
 
-#isaiah_42 presenta al siervo como aquel a quien יהוה sostiene para llevar משפט a las naciones; el texto pide atender primero a su propio lenguaje y contexto profético.
+#isaias_42 presenta al siervo como aquel a quien יהוה sostiene para llevar משפט a las naciones; el texto pide atender primero a su propio lenguaje y contexto profético.
 
 ## Alcance de la nota
 
-La clase introduce la función de la haftará y sitúa la lectura de Bereshit en Isaías 42. También propone leer “la Ley y los Profetas” como un marco de lectura (#acts_13_15). Sus asociaciones posteriores se conservan como planteamientos de clase, no como sustituto del sentido inmediato de Isaías.
+La clase introduce la función de la haftará y sitúa la lectura de Bereshit en Isaías 42. También propone leer “la Ley y los Profetas” como un marco de lectura (#hechos_13_15). Sus asociaciones posteriores se conservan como planteamientos de clase, no como sustituto del sentido inmediato de Isaías.
 
 ## Hoja de comparación
 
 | Texto local                                                                             | Observación                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #isaiah_42_1 — `הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא` | יהוה sostiene a su siervo; la misión incluye justicia para las naciones. |
+| #isaias_42_1 — `הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא` | יהוה sostiene a su siervo; la misión incluye justicia para las naciones. |
 
 ## Conexiones principales
 

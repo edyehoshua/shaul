@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 28:15-24 sobre el poder que oprime, la integrid
 date: 2026-08-05
 tags: [mishlei, mishlei_28, gobierno, opresion, disciplina, riqueza]
 references:
-  - "#mishlei_28_15"
-  - "#mishlei_28_16"
-  - "#mishlei_28_17"
-  - "#mishlei_28_18"
-  - "#mishlei_28_19"
-  - "#mishlei_28_20"
-  - "#mishlei_28_21"
-  - "#mishlei_28_22"
-  - "#mishlei_28_23"
-  - "#mishlei_28_24"
-  - "#shemuel_alef_2_8"
-  - "#tehilim_23_6"
-  - "#mishlei_27_17"
+  - "#proverbios_28_15"
+  - "#proverbios_28_16"
+  - "#proverbios_28_17"
+  - "#proverbios_28_18"
+  - "#proverbios_28_19"
+  - "#proverbios_28_20"
+  - "#proverbios_28_21"
+  - "#proverbios_28_22"
+  - "#proverbios_28_23"
+  - "#proverbios_28_24"
+  - "#1_samuel_2_8"
+  - "#salmos_23_6"
+  - "#proverbios_27_17"
 sources:
   - "https://www.youtube.com/watch?v=A4piM15iKOs"
   - "docs/scriptures/oe/json/proverbs/28.json"
@@ -38,24 +38,24 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_28_15 | ארי נהם ודב שוקק משל רשע על עם דל | León rugiente y oso que gruñe es el condenado que gobierna sobre el pueblo débil. |
-| #mishlei_28_16 | נגיד חסר תבונות ורב מעשקות שנאי שנא בצע יאריך ימים | El líder falto de entendimientos, es grande en opresiones; el que odia la ganancia injusta, prolongará los días. |
-| #mishlei_28_17 | אדם עשק בדם נפש עד בור ינוס אל יתמכו בו | El hombre que oprime en sangre de persona, hasta el pozo huirá, no se sostendrán en él. |
-| #mishlei_28_18 | הולך תמים יושע ונעקש דרכים יפול באחת | El que anda íntegro, será salvado; pero el perverso de dos caminos caerá en una. |
-| #mishlei_28_19 | עבד אדמתו ישבע לחם ומרדף רקים ישבע ריש | El que trabaja su tierra, se saciará de pan; pero el que persigue vacíos, se saciará de pobreza. |
-| #mishlei_28_20 | איש אמונות רב ברכות ואץ להעשיר לא ינקה | El hombre de fidelidades es grande en bendiciones, pero el que se apresura a enriquecerse, no será inocente. |
-| #mishlei_28_21 | הכר פנים לא טוב ועל פת לחם יפשע גבר | Reconocer los rostros no es bueno, y por un pedazo de pan, transgredirá el varón. |
-| #mishlei_28_22 | נבהל להון איש רע עין ולא ידע כי חסר יבאנו | Se excita hacia la riqueza el hombre malo de ojo, y no sabe que la escasez le vendrá. |
-| #mishlei_28_23 | מוכיח אדם אחרי חן ימצא ממחליק לשון | El que reprende al hombre, después hallará favor, más que el que suaviza la lengua. |
-| #mishlei_28_24 | גוזל אביו ואמו ואמר אין פשע חבר הוא לאיש משחית | El que saquea a su padre y a su madre, y dice: “No hay transgresión”, es compañero del hombre de destrucción. |
+| #proverbios_28_15 | ארי נהם ודב שוקק משל רשע על עם דל | León rugiente y oso que gruñe es el condenado que gobierna sobre el pueblo débil. |
+| #proverbios_28_16 | נגיד חסר תבונות ורב מעשקות שנאי שנא בצע יאריך ימים | El líder falto de entendimientos, es grande en opresiones; el que odia la ganancia injusta, prolongará los días. |
+| #proverbios_28_17 | אדם עשק בדם נפש עד בור ינוס אל יתמכו בו | El hombre que oprime en sangre de persona, hasta el pozo huirá, no se sostendrán en él. |
+| #proverbios_28_18 | הולך תמים יושע ונעקש דרכים יפול באחת | El que anda íntegro, será salvado; pero el perverso de dos caminos caerá en una. |
+| #proverbios_28_19 | עבד אדמתו ישבע לחם ומרדף רקים ישבע ריש | El que trabaja su tierra, se saciará de pan; pero el que persigue vacíos, se saciará de pobreza. |
+| #proverbios_28_20 | איש אמונות רב ברכות ואץ להעשיר לא ינקה | El hombre de fidelidades es grande en bendiciones, pero el que se apresura a enriquecerse, no será inocente. |
+| #proverbios_28_21 | הכר פנים לא טוב ועל פת לחם יפשע גבר | Reconocer los rostros no es bueno, y por un pedazo de pan, transgredirá el varón. |
+| #proverbios_28_22 | נבהל להון איש רע עין ולא ידע כי חסר יבאנו | Se excita hacia la riqueza el hombre malo de ojo, y no sabe que la escasez le vendrá. |
+| #proverbios_28_23 | מוכיח אדם אחרי חן ימצא ממחליק לשון | El que reprende al hombre, después hallará favor, más que el que suaviza la lengua. |
+| #proverbios_28_24 | גוזל אביו ואמו ואמר אין פשע חבר הוא לאיש משחית | El que saquea a su padre y a su madre, y dice: “No hay transgresión”, es compañero del hombre de destrucción. |
 
 ## El poder que se aprovecha del débil
 
-La clase empieza en #mishlei_28_15 con la imagen del león rugiente y del oso que gruñe. Eric identifica el **(משל רשע)**, _moshel rashá_, con el gobernante condenado que se aprovecha del **(דל)**, _dal_, la debilidad humana ([00:09:15](https://www.youtube.com/watch?v=A4piM15iKOs&t=555s)). El texto permite denunciar el abuso del poder sobre un pueblo débil; la identificación directa con Satán y con “el príncipe de la potestad del aire” es una aplicación de la exposición.
+La clase empieza en #proverbios_28_15 con la imagen del león rugiente y del oso que gruñe. Eric identifica el **(משל רשע)**, _moshel rashá_, con el gobernante condenado que se aprovecha del **(דל)**, _dal_, la debilidad humana ([00:09:15](https://www.youtube.com/watch?v=A4piM15iKOs&t=555s)). El texto permite denunciar el abuso del poder sobre un pueblo débil; la identificación directa con Satán y con “el príncipe de la potestad del aire” es una aplicación de la exposición.
 
 El verso 16 habla del líder falto de entendimiento y grande en opresiones. Eric relaciona la opresión con trabajo forzoso, tributo y esclavitud del pecado, y contrapone a quien odia la ganancia injusta ([00:12:17](https://www.youtube.com/watch?v=A4piM15iKOs&t=737s)). La clase también conecta **(בצע)**, _betsa_, con tomar por mordida lo que no corresponde. Esa imagen puede ayudar a la exhortación, pero “ganancia injusta” es el sentido que debemos conservar como base. El gobierno se revela por lo que hace con la debilidad y con los recursos ajenos.
 
-En #mishlei_28_17, el opresor de la sangre de una persona huye hacia el pozo y nadie debe sostenerlo. Eric lee el pozo como destino del gobernante condenado ([00:17:43](https://www.youtube.com/watch?v=A4piM15iKOs&t=1063s)). El verso afirma una consecuencia para quien derrama sangre; la referencia a una destrucción escatológica concreta requiere verificación. La advertencia, sin embargo, es clara: la autoridad que mata no se vuelve digna de apoyo por el hecho de gobernar.
+En #proverbios_28_17, el opresor de la sangre de una persona huye hacia el pozo y nadie debe sostenerlo. Eric lee el pozo como destino del gobernante condenado ([00:17:43](https://www.youtube.com/watch?v=A4piM15iKOs&t=1063s)). El verso afirma una consecuencia para quien derrama sangre; la referencia a una destrucción escatológica concreta requiere verificación. La advertencia, sin embargo, es clara: la autoridad que mata no se vuelve digna de apoyo por el hecho de gobernar.
 
 ## Integridad, trabajo y pan
 
@@ -89,17 +89,17 @@ El verso 24 termina con quien saquea a sus padres y niega la transgresión. Eric
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_28_15-17 | El gobernante condenado se aprovecha de la debilidad, oprime y termina en el pozo. | Abuso del poder y consecuencia apoyados; identificación con Satán y destrucción final calificadas. |
-| #mishlei_28_18-20 | El íntegro es salvado, el trabajador recibe pan y el hombre de fidelidades es bendecido; la riqueza apresurada empobrece. | Contraste proverbial apoyado; lectura mesiánica y aplicación a tesoros espirituales calificadas. |
-| #mishlei_28_21-22 | El favoritismo por un pedazo de pan y el deseo de riqueza tuercen el juicio. | Advertencia textual directa; soborno y concupiscencia desarrollados por la clase. |
-| #mishlei_28_23-24 | La reprensión con evidencia encuentra favor; suavizar el pecado y negar la transgresión destruye. | Contraste textual apoyado; aplicación a la disciplina comunitaria y a padre/madre alegóricos calificada. |
+| #proverbios_28_15-17 | El gobernante condenado se aprovecha de la debilidad, oprime y termina en el pozo. | Abuso del poder y consecuencia apoyados; identificación con Satán y destrucción final calificadas. |
+| #proverbios_28_18-20 | El íntegro es salvado, el trabajador recibe pan y el hombre de fidelidades es bendecido; la riqueza apresurada empobrece. | Contraste proverbial apoyado; lectura mesiánica y aplicación a tesoros espirituales calificadas. |
+| #proverbios_28_21-22 | El favoritismo por un pedazo de pan y el deseo de riqueza tuercen el juicio. | Advertencia textual directa; soborno y concupiscencia desarrollados por la clase. |
+| #proverbios_28_23-24 | La reprensión con evidencia encuentra favor; suavizar el pecado y negar la transgresión destruye. | Contraste textual apoyado; aplicación a la disciplina comunitaria y a padre/madre alegóricos calificada. |
 
 ## Conexiones principales
 
 - [Confiar en יהוה: aceptación, sabiduría y escape](./mishlei_28_confianza_aceptacion_y_escape.md) continúa el contraste entre confiar en יהוה y confiar en el deseo propio.
 - [Mishlei 29: reprensión, gobierno y justicia](./mishlei_29_reprension_gobierno_y_justicia.md) desarrolla la reprensión rechazada y el gobierno conforme a _mishpat_.
 - [Mishlei 29: las intenciones disciplinadas y el gobernante de la mentira](./mishlei_29_intenciones_disciplina_y_gobernante.md) sigue el tema de suavizar la palabra y gobernar por mentira.
-- #mishlei_27_17 sirve como conexión temática para la imagen de afilar y corregir al compañero, no como cita explícita del pasaje.
+- #proverbios_27_17 sirve como conexión temática para la imagen de afilar y corregir al compañero, no como cita explícita del pasaje.
 
 ## Pendiente de verificar
 
@@ -107,7 +107,7 @@ El verso 24 termina con quien saquea a sus padres y niega la transgresión. Eric
 - [ ] Revisar el alcance de **(אמונות)** en Mishlei 28:20 y distinguir fidelidad, firmeza y traducciones tradicionales.
 - [ ] Verificar la relación entre el pozo de Mishlei 28:17 y los pasajes proféticos aludidos por la clase antes de formular una identificación escatológica.
 - [ ] Cotejar si “padre y madre” en Mishlei 28:24 admite la alegoría comunitaria o debe conservarse primero en su sentido familiar.
-- [ ] Precisar la relación de la “reprensión con evidencia” con #mishlei_27_17 y otros textos de corrección fraterna.
+- [ ] Precisar la relación de la “reprensión con evidencia” con #proverbios_27_17 y otros textos de corrección fraterna.
 
 ## Conclusión
 

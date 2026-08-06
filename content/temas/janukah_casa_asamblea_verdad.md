@@ -9,9 +9,9 @@ tags:
   - verdad
   - educacion
 references:
-  - "#yojanan_10_22-30"
-  - "#tehilim_30_titulo"
-  - "#tehilim_30_2-4"
+  - "#juan_10_22-30"
+  - "#salmos_30_titulo"
+  - "#salmos_30_2-4"
   - "#2_timoteo_3_14-17"
   - "#1_timoteo_3_15"
 sources:
@@ -37,8 +37,8 @@ En `youtube:qzr_u89uzUk`, Eric explica aproximadamente entre 00:00:48 y 00:02:43
 
 | Referencia      | Texto local                                                                  | Función en el argumento                                                        |
 | --------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| #yojanan_10_22  | «Y era Janucá en Ierushaláim, y era invierno» (Delitzsch).                   | La fiesta sitúa a Yehoshua en el templo y abre la evaluación de la dedicación. |
-| #tehilim_30_2   | «יהוה, mi Elohim, grité por ayuda a ti y me sanaste» (TTH).                  | La memoria de la casa dedicada se expresa como clamor y restauración recibida. |
+| #juan_10_22  | «Y era Janucá en Yerushaláim, y era invierno» (Delitzsch).                   | La fiesta sitúa a Yehoshua en el templo y abre la evaluación de la dedicación. |
+| #salmos_30_2   | «יהוה, mi Elohim, grité por ayuda a ti y me sanaste» (TTH).                  | La memoria de la casa dedicada se expresa como clamor y restauración recibida. |
 | #2_timoteo_3_16 | «Toda Escritura es inspirada por Elohim y útil para enseñar...» (Delitzsch). | La formación se mide por enseñanza, corrección y buena obra, no por recinto.   |
 
 ## Mapa de la enseñanza de Eric
@@ -49,19 +49,19 @@ En `youtube:qzr_u89uzUk`, Eric explica aproximadamente entre 00:00:48 y 00:02:43
 | Templo y formación; `youtube:qzr_u89uzUk` (00:06:30–00:08:18)      | Eric presenta el templo como centro de consulta, aprendizaje y formación de conciencia.                 | Apoyo canónico cualificado mediante 2 Timoteo 3:14-17 y 1 Timoteo 3:15; no se identifica edificio con infalibilidad.          |
 | Obediencia perseverante; `youtube:qzr_u89uzUk` (00:08:22–00:09:58) | Eric compara la resistencia al mandamiento con la resistencia inicial a un proceso educativo constante. | Aplicación pedagógica coherente con la formación bíblica, pero no una definición léxica de «carne» ni una garantía de mérito. |
 
-## Juan 10:22-30: dedicación, casa y voz #yojanan_10_22-30
+## Juan 10:22-30: dedicación, casa y voz #juan_10_22-30
 
-Juan informa primero el lugar y el momento: «era invierno» y Yehoshua caminaba en el templo, en el pórtico de Salomón (#yojanan_10_22-23). La escena no está aislada de la controversia anterior: el tema dominante pasa a ser la identidad del Mesías y la respuesta a sus obras. **(ἐγκαίνια)**, _enkainia_, significa dedicación, renovación o inauguración; en Juan 10:22 su sentido ordinario nombra la fiesta, mientras su fuerza contextual recuerda una casa puesta nuevamente en servicio. «Dedicación» es una glosa **directa**; derivar de la palabra una teoría completa sobre toda celebración posterior sería **inferencial**.
+Juan informa primero el lugar y el momento: «era invierno» y Yehoshua caminaba en el templo, en el pórtico de Salomón (#juan_10_22-23). La escena no está aislada de la controversia anterior: el tema dominante pasa a ser la identidad del Mesías y la respuesta a sus obras. **(ἐγκαίνια)**, _enkainia_, significa dedicación, renovación o inauguración; en Juan 10:22 su sentido ordinario nombra la fiesta, mientras su fuerza contextual recuerda una casa puesta nuevamente en servicio. «Dedicación» es una glosa **directa**; derivar de la palabra una teoría completa sobre toda celebración posterior sería **inferencial**.
 
-Los interlocutores preguntan si Yehoshua es el Mesías. Él responde que sus obras dan testimonio, pero que ellos no creen porque no son de sus ovejas (#yojanan_10_24-26). **(ἀκούω)**, _akouō_, significa oír, escuchar o enterarse; en 10:27 no describe solo sonido, sino una escucha que reconoce la voz y sigue al Pastor. **(ἀκολουθέω)**, _akoloutheō_, significa seguir, acompañar o ir detrás; aquí su fuerza contextual vincula escucha con discipulado visible. Las glosas son **directas** en el campo ordinario, pero decir que toda permanencia institucional demuestra automáticamente que alguien pertenece al rebaño sería **ilegítimo**.
+Los interlocutores preguntan si Yehoshua es el Mesías. Él responde que sus obras dan testimonio, pero que ellos no creen porque no son de sus ovejas (#juan_10_24-26). **(ἀκούω)**, _akouō_, significa oír, escuchar o enterarse; en 10:27 no describe solo sonido, sino una escucha que reconoce la voz y sigue al Pastor. **(ἀκολουθέω)**, _akoloutheō_, significa seguir, acompañar o ir detrás; aquí su fuerza contextual vincula escucha con discipulado visible. Las glosas son **directas** en el campo ordinario, pero decir que toda permanencia institucional demuestra automáticamente que alguien pertenece al rebaño sería **ilegítimo**.
 
-La dedicación de una casa, por tanto, no sustituye la escucha. Yehoshua promete vida eterna y seguridad a sus ovejas, y afirma la grandeza del Padre (#yojanan_10_28-30). La nota distingue la aplicación pastoral de Eric —una casa dedicada debe formar personas capaces de obedecer— de una conclusión que el pasaje no formula: Juan no promete que un edificio o una ceremonia produzcan vida eterna.
+La dedicación de una casa, por tanto, no sustituye la escucha. Yehoshua promete vida eterna y seguridad a sus ovejas, y afirma la grandeza del Padre (#juan_10_28-30). La nota distingue la aplicación pastoral de Eric —una casa dedicada debe formar personas capaces de obedecer— de una conclusión que el pasaje no formula: Juan no promete que un edificio o una ceremonia produzcan vida eterna.
 
 ## Salmo 30 y la casa levantada
 
 El título hebreo del Salmo 30 vincula el canto con la dedicación de la casa. **חֲנֻכַּת**, _chanukkat_, significa dedicación o consagración; su sentido ordinario es poner algo aparte para un uso determinado, y su fuerza en el título orienta el canto hacia la acción agradecida de Elohim. La transliteración y la glosa son **aproximadas y pedagógicas** porque el título no explica por sí solo todo el contexto histórico del salmo.
 
-El salmista clama, afirma que Elohim lo levantó y declara que la ira es momentánea mientras la vida acompaña el favor (#tehilim_30_2-6). **(רוּם)**, _rum_, significa levantar, elevar o exaltar; en el salmo su fuerza contextual es rescate y restauración, no autoexaltación. «Levantó» es **directo** como traducción básica, pero convertirlo en una promesa de que toda dedicación elimina definitivamente la aflicción sería **aproximado**. La casa dedicada se vuelve lugar de memoria: la comunidad recuerda quién restauró, no quién presume controlar el santuario.
+El salmista clama, afirma que Elohim lo levantó y declara que la ira es momentánea mientras la vida acompaña el favor (#salmos_30_2-6). **(רוּם)**, _rum_, significa levantar, elevar o exaltar; en el salmo su fuerza contextual es rescate y restauración, no autoexaltación. «Levantó» es **directo** como traducción básica, pero convertirlo en una promesa de que toda dedicación elimina definitivamente la aflicción sería **aproximado**. La casa dedicada se vuelve lugar de memoria: la comunidad recuerda quién restauró, no quién presume controlar el santuario.
 
 ## 2 Timoteo 3:14-17 y 1 Timoteo 3:15: formación comunitaria #2_timoteo_3_14-17 #1_timoteo_3_15
 
@@ -81,7 +81,7 @@ La observación de Eric sobre el templo como lugar de consulta y formación pued
 
 En Juan 10:28, **(ἁρπάζω)**, _harpazō_, significa arrebatar, apoderarse o quitar por la fuerza; su fuerza contextual aparece en la negación de que alguien pueda arrebatar las ovejas de la mano del Pastor. «Arrebatar» es **directo**, pero extender esa promesa a una organización visible sin la previa descripción de las ovejas que oyen y siguen sería **inferencial**. En Juan 10:30, **(ἕν)**, _hen_, significa uno o una unidad; aquí es una forma neutra cuyo contexto habla de unidad, no de borrar toda distinción entre el Padre y el Hijo. «Uno» es **directo**, mientras convertirlo en una afirmación ajena al argumento del pasaje sería **ilegítimo**.
 
-El Salmo 30 mantiene la gratitud en el lugar correcto. **(רָפָא)**, _rapha_, significa sanar, restaurar o remediar; en #tehilim_30_3 describe la ayuda de Elohim al salmista. «Sanaste» es **directo**, pero no promete que toda crisis termine al ritmo de una conmemoración. La dedicación recuerda quién levantó al afligido; no convierte al celebrante en dueño de la casa ni le permite reclamar inmunidad frente a la disciplina.
+El Salmo 30 mantiene la gratitud en el lugar correcto. **(רָפָא)**, _rapha_, significa sanar, restaurar o remediar; en #salmos_30_3 describe la ayuda de Elohim al salmista. «Sanaste» es **directo**, pero no promete que toda crisis termine al ritmo de una conmemoración. La dedicación recuerda quién levantó al afligido; no convierte al celebrante en dueño de la casa ni le permite reclamar inmunidad frente a la disciplina.
 
 La formación comunitaria también requiere distinguir términos y funciones. En 2 Timoteo 3:16, **(ὠφέλιμος)**, _ōphelimos_, significa útil, provechoso o beneficioso; su fuerza contextual califica a la Escritura por lo que produce en enseñanza, reprensión, corrección y educación justa. «Útil» es **directo**, mientras afirmar que cualquier lectura o tradición educativa comparte automáticamente esa autoridad sería **ilegítimo**. En 1 Timoteo 3:15, **(ἐκκλησία)**, _ekklēsia_, significa asamblea o congregación; su fuerza contextual es la comunidad reunida como casa de Elohim, no una piedra consagrada. «Iglesia» puede ser una glosa **tradicional y aproximada**, pero «edificio» sería **ilegítimo** como sustituto del sujeto del versículo.
 

@@ -5,13 +5,13 @@ date: 2026-07-29
 tags: [tanaj, yejezkel, haftarah, vayiqra, hachodesh]
 references:
   [
-    "#iejezkel_45_1",
-    "#iejezkel_45_8",
-    "#iejezkel_45_16",
-    "#iejezkel_45_17",
-    "#iejezkel_45_18",
-    "#iejezkel_45_20",
-    "#iejezkel_45_25",
+    "#ezequiel_45_1",
+    "#ezequiel_45_8",
+    "#ezequiel_45_16",
+    "#ezequiel_45_17",
+    "#ezequiel_45_18",
+    "#ezequiel_45_20",
+    "#ezequiel_45_25",
   ]
 sources:
   - "https://www.youtube.com/watch?v=KFnAJ5hPCK0"
@@ -31,27 +31,27 @@ La fuente es la exposición pública de Eric sobre la haftaráh de Vayiqrá, Par
 
 | Referencia      | Texto hebreo local                                         | Lectura de la unidad                                                              |
 | --------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #iejezkel_45_1  | `ובנחלה תרימו תרומה ליהוה קדש מן הארץ`                     | La porción apartada se levanta para יהוה y es llamada santa.                      |
-| #iejezkel_45_8  | `לארץ יהיה לו לאחזה בישראל ולא יונו עוד נשיאי את עמי`      | Al nasí se le asigna una heredad y se prohíbe que oprima al pueblo.               |
-| #iejezkel_45_16 | `כל העם הארץ יהיו אל התרומה הזאת לנשיא בישראל`             | Todo el pueblo participa en la contribución destinada al nasí.                    |
-| #iejezkel_45_17 | `ועל הנשיא יהיה העולות והמנחה והנסך בחגים ובחדשים ובשבתות` | Sobre el nasí recae una responsabilidad cultual pública en los tiempos señalados. |
-| #iejezkel_45_18 | `בראשון באחד לחדש תקח פר בן בקר תמים וחטאת את המקדש`       | El primer día del mes abre una acción de purificación del santuario.              |
-| #iejezkel_45_20 | `וכן תעשה בשבעה בחדש מאיש שגה ומפתה וכפרתם את הבית`        | El séptimo día se atiende también la culpa inadvertida y el templo.               |
-| #iejezkel_45_25 | `בשביעי בחמשה עשר יום לחדש בחג יעשה כאלה שבעת הימים`       | La fiesta del séptimo mes mantiene durante siete días el orden de ofrendas.       |
+| #ezequiel_45_1  | `ובנחלה תרימו תרומה ליהוה קדש מן הארץ`                     | La porción apartada se levanta para יהוה y es llamada santa.                      |
+| #ezequiel_45_8  | `לארץ יהיה לו לאחזה בישראל ולא יונו עוד נשיאי את עמי`      | Al nasí se le asigna una heredad y se prohíbe que oprima al pueblo.               |
+| #ezequiel_45_16 | `כל העם הארץ יהיו אל התרומה הזאת לנשיא בישראל`             | Todo el pueblo participa en la contribución destinada al nasí.                    |
+| #ezequiel_45_17 | `ועל הנשיא יהיה העולות והמנחה והנסך בחגים ובחדשים ובשבתות` | Sobre el nasí recae una responsabilidad cultual pública en los tiempos señalados. |
+| #ezequiel_45_18 | `בראשון באחד לחדש תקח פר בן בקר תמים וחטאת את המקדש`       | El primer día del mes abre una acción de purificación del santuario.              |
+| #ezequiel_45_20 | `וכן תעשה בשבעה בחדש מאיש שגה ומפתה וכפרתם את הבית`        | El séptimo día se atiende también la culpa inadvertida y el templo.               |
+| #ezequiel_45_25 | `בשביעי בחמשה עשר יום לחדש בחג יעשה כאלה שבעת הימים`       | La fiesta del séptimo mes mantiene durante siete días el orden de ofrendas.       |
 
-## 1. La porción santa y la tierra compartida — 45:1-8 #iejezkel_45_1-8
+## 1. La porción santa y la tierra compartida — 45:1-8 #ezequiel_45_1-8
 
 El capítulo comienza con una delimitación: al repartir la tierra, Israel debe levantar una terumáh para יהוה. Eric observa que el movimiento va desde la tierra recibida hacia una porción reconocida como santa; no se trata simplemente de separar una propiedad privada. La palabra **terumáh** (תרומה) comunica algo levantado o apartado como contribución. En este contexto, la santidad de la porción determina el uso de la tierra y pone límites al poder humano.
 
 En 45:8 el nasí recibe una heredad «en Israel», pero el mismo versículo añade la prohibición de oprimir al pueblo. Eric recalca que una función de gobierno no es licencia para absorber las posesiones de los demás. El texto vincula territorio y justicia: el gobernante tiene un lugar legítimo, precisamente para que no necesite despojar al pueblo. **Nasí** (נשיא) puede traducirse «príncipe» o «gobernante», pero aquí el contexto define su responsabilidad; no autoriza a borrar la diferencia entre autoridad civil, pueblo y sacerdocio.
 
-## 2. El aporte del pueblo y la carga del nasí — 45:16-17 #iejezkel_45_16-17
+## 2. El aporte del pueblo y la carga del nasí — 45:16-17 #ezequiel_45_16-17
 
 La unidad de 45:16-17 distribuye obligaciones. Todo el pueblo entrega la terumáh al nasí, mientras que el nasí responde por holocaustos, ofrenda vegetal y libación en fiestas, meses, sábados y las demás convocaciones. Eric trata esta relación como una administración visible delante de יהוה: recibir recursos implica responder por el servicio, no disfrutar de una posición honorífica sin carga.
 
 La frase «sobre el nasí será» no convierte al nasí en sacerdote supremo. Más bien, señala que el dirigente debe asegurar lo que corresponde al culto público. La raíz **paqad** (פקד), asociada en la tradición léxica a encargar, visitar o poner al cuidado, ayuda a describir esta lógica de supervisión; aquí conviene usarla como aproximación contextual, no como una equivalencia mecánica de cada aparición. El texto limita la autoridad por medio de responsabilidades concretas y por el bien de toda la casa de Israel.
 
-## 3. Purificación, error y tiempos señalados — 45:18-25 #iejezkel_45_18-25
+## 3. Purificación, error y tiempos señalados — 45:18-25 #ezequiel_45_18-25
 
 Los versículos 18 y 20 colocan la purificación del santuario al inicio y al séptimo día del mes. La mención del que yerra o actúa con ignorancia impide imaginar una comunidad que solo necesita ceremonias para grandes transgresiones públicas. El orden cultual atiende también la contaminación que se introduce sin plena intención. **Jatat** (חטאת) designa la ofrenda o acción relacionada con el pecado; su alcance aquí debe leerse dentro del sistema descrito por la visión, sin proyectar automáticamente una explicación posterior sobre cada detalle.
 

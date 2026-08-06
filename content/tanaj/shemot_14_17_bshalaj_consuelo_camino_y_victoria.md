@@ -10,17 +10,17 @@ tags:
   - emunah
   - shabat
 references:
-  - "#shemot_13_17"
-  - "#shemot_14_13"
-  - "#shemot_14_31"
-  - "#shemot_15_1"
-  - "#shemot_15_22"
-  - "#shemot_16_4"
-  - "#shemot_16_15"
-  - "#shemot_17_1"
-  - "#shemot_17_6"
-  - "#shemot_17_12"
-  - "#shemot_17_15"
+  - "#exodo_13_17"
+  - "#exodo_14_13"
+  - "#exodo_14_31"
+  - "#exodo_15_1"
+  - "#exodo_15_22"
+  - "#exodo_16_4"
+  - "#exodo_16_15"
+  - "#exodo_17_1"
+  - "#exodo_17_6"
+  - "#exodo_17_12"
+  - "#exodo_17_15"
 sources:
   - "https://www.youtube.com/watch?v=2D-i1G2vY-k"
   - "docs/scriptures/oe/json/exodus/13.json"
@@ -46,14 +46,14 @@ Esta nota sigue el tramo de la clase «Parashat Bshalaj - Éxodo 13:17 - 17:16 E
 
 | Referencia                | Hebreo local OE (sin nikud)                                                                                                                                  | TTH local (ES)                                                                                                                                           | Función en la lectura                                                                 |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| #shemot_13_17-18          | **ויהי בשלח פרעה את העם ולא נחם אלהים דרך ארץ פלשתים כי קרוב הוא כי אמר אלהים פן ינחם העם בראתם מלחמה ושבו מצרימה** / **ויסב אלהים את העם דרך המדבר ים סוף** | «A menos que sea restaurado el pueblo en su ver guerra, y se regrese a Mitzráim… Y giró Elohim al pueblo hacia el camino del desierto del mar de Cañas». | El desvío busca sostener al pueblo ante la guerra, no prometer ausencia de conflicto. |
-| #shemot_14_13-16          | **אל תיראו התיצבו וראו את ישועת יהוה** / **יהוה ילחם לכם ואתם תחרישון** / **דבר אל בני ישראל ויסעו**                                                         | «No teman; estén firmes y vean la salvación de יהוה… יהוה luchará por ustedes… sigan viajando».                                                          | El mandato pasa del temor y el clamor a permanecer firmes y avanzar.                  |
-| #shemot_14_31             | **וירא ישראל את היד הגדלה אשר עשה יהוה במצרים וייראו העם את יהוה ויאמינו ביהוה ובמשה עבדו**                                                                  | «Vio Israel la gran mano… y temió el pueblo a יהוה, y creyeron en יהוה y en Moshéh».                                                                     | La salvación produce temor reverente y confianza, no sólo alivio emocional.           |
-| #shemot_15_1-3            | **אז ישיר משה ובני ישראל את השירה הזאת ליהוה** / **יהוה איש מלחמה יהוה שמו**                                                                                 | «Entonces cantaron Moshéh y los hijos de Israel esta canción a יהוה… יהוה, hombre de guerra; יהוה es su Nombre».                                         | La comunidad interpreta la victoria en un canto dirigido a יהוה.                      |
-| #shemot_16_4, 15          | **הנני ממטיר לכם לחם מן השמים** / **הוא הלחם אשר נתן יהוה לכם לאכלה**                                                                                        | «Haré llover para ustedes pan del cielo… Esto es el pan que les ha dado יהוה».                                                                           | La provisión diaria examina si el pueblo caminará en la Torah.                        |
-| #shemot_17_1, 6-8, 12, 15 | **על פי יהוה** / **והכית בצור ויצאו ממנו מים** / **ויבא עמלק** / **ויהי ידיו אמונה** / **ויקרא שמו יהוה נסי**                                                | «Por causa de la boca de יהוה… golpea la peña y saldrá agua… vino Amalec… sus manos eran emunah… יהוה Nisí».                                             | La marcha, el agua, la batalla y el apoyo mutuo quedan bajo la presencia de יהוה.     |
+| #exodo_13_17-18          | **ויהי בשלח פרעה את העם ולא נחם אלהים דרך ארץ פלשתים כי קרוב הוא כי אמר אלהים פן ינחם העם בראתם מלחמה ושבו מצרימה** / **ויסב אלהים את העם דרך המדבר ים סוף** | «A menos que sea restaurado el pueblo en su ver guerra, y se regrese a Mitzráim… Y giró Elohim al pueblo hacia el camino del desierto del mar de Cañas». | El desvío busca sostener al pueblo ante la guerra, no prometer ausencia de conflicto. |
+| #exodo_14_13-16          | **אל תיראו התיצבו וראו את ישועת יהוה** / **יהוה ילחם לכם ואתם תחרישון** / **דבר אל בני ישראל ויסעו**                                                         | «No teman; estén firmes y vean la salvación de יהוה… יהוה luchará por ustedes… sigan viajando».                                                          | El mandato pasa del temor y el clamor a permanecer firmes y avanzar.                  |
+| #exodo_14_31             | **וירא ישראל את היד הגדלה אשר עשה יהוה במצרים וייראו העם את יהוה ויאמינו ביהוה ובמשה עבדו**                                                                  | «Vio Israel la gran mano… y temió el pueblo a יהוה, y creyeron en יהוה y en Moshéh».                                                                     | La salvación produce temor reverente y confianza, no sólo alivio emocional.           |
+| #exodo_15_1-3            | **אז ישיר משה ובני ישראל את השירה הזאת ליהוה** / **יהוה איש מלחמה יהוה שמו**                                                                                 | «Entonces cantaron Moshéh y los hijos de Israel esta canción a יהוה… יהוה, hombre de guerra; יהוה es su Nombre».                                         | La comunidad interpreta la victoria en un canto dirigido a יהוה.                      |
+| #exodo_16_4, 15          | **הנני ממטיר לכם לחם מן השמים** / **הוא הלחם אשר נתן יהוה לכם לאכלה**                                                                                        | «Haré llover para ustedes pan del cielo… Esto es el pan que les ha dado יהוה».                                                                           | La provisión diaria examina si el pueblo caminará en la Torah.                        |
+| #exodo_17_1, 6-8, 12, 15 | **על פי יהוה** / **והכית בצור ויצאו ממנו מים** / **ויבא עמלק** / **ויהי ידיו אמונה** / **ויקרא שמו יהוה נסי**                                                | «Por causa de la boca de יהוה… golpea la peña y saldrá agua… vino Amalec… sus manos eran emunah… יהוה Nisí».                                             | La marcha, el agua, la batalla y el apoyo mutuo quedan bajo la presencia de יהוה.     |
 
-## El desvío no es abandono: Shemot 13:17–22 #shemot_13_17-22
+## El desvío no es abandono: Shemot 13:17–22 #exodo_13_17-22
 
 El narrador dice que יהוה no condujo al pueblo por el camino cercano de los filisteos. La clase observa que el texto no debe leerse como si יהוה estuviera evitando para siempre la guerra. La razón explícita es que, al verla, el pueblo podría volver a Egipto. Eric propone leer **(נחם)**, _najam_, aquí como «ser restaurado» o «ser consolado», en vez de asumir automáticamente «arrepentirse». La raíz tiene un rango semántico amplio; en este contexto, «volver a otra disposición» es una opción contextual plausible, mientras que afirmar que significa exclusivamente «consolar» sería una equivalencia **aproximada**, no exacta.
 
@@ -61,7 +61,7 @@ La nota conserva el argumento central de la clase: la protección divina no elim
 
 Eric también comenta **(וחמשים)**, _vajamushim_, en 13:18, relacionándolo con salir «agrupados» o en formación. El TTH traduce «agrupados en cinco», y el OE conserva la lectura tradicional «armados». La forma es discutida en su interpretación; por eso la afirmación de que describe necesariamente pelotones de cincuenta queda **pendiente de verificar**. Lo seguro en la secuencia es que una multitud liberada necesita conducción, memoria y orden.
 
-## Del temor al avance: Shemot 14:10–31 #shemot_14_10-31
+## Del temor al avance: Shemot 14:10–31 #exodo_14_10-31
 
 Cuando Faraón alcanza al pueblo, Israel teme y reprocha a Moshéh que habría sido mejor servir a Egipto. La clase destaca que esta escena prueba la tesis de 13:17: el problema no era meramente encontrar un camino sin guerra, sino recibir consuelo suficiente para no volver. Moshéh responde: «No teman; estén firmes y vean la salvación de יהוה». **(ישועה)**, _yeshuah_, significa salvación, liberación o victoria; aquí la traducción «salvación» es cercana, pero su fuerza incluye una acción visible de יהוה en favor de Israel. La conexión posterior con Yehoshua puede ser **pedagógica**; no convierte automáticamente cada uso de _yeshuah_ en un nombre propio mesiánico.
 
@@ -75,7 +75,7 @@ Eric subraya la diferencia entre un canto de una persona y el canto que entona t
 
 El cántico no celebra la capacidad militar de Israel. Declara que יהוה es exaltado, que arrojó al caballo y al jinete al mar y que su nombre es el centro de la victoria. **(גאה)**, _gaah_, «elevarse, ser exaltado», comunica en 15:1 una superioridad manifiesta; «glorioso» es aproximado. En 15:3, **(איש מלחמה)**, _ish miljamah_, literalmente «hombre de guerra», es una imagen de guerrero para describir la intervención de יהוה. No significa que יהוה sea reducido a una figura humana; es lenguaje poético de victoria.
 
-El canto conduce a la marcha. Después de tres días en el desierto, no encuentran agua (#shemot_15_22). La alabanza no vuelve innecesaria la dependencia cotidiana: el pueblo liberado sigue siendo un pueblo que tiene sed.
+El canto conduce a la marcha. Después de tres días en el desierto, no encuentran agua (#exodo_15_22). La alabanza no vuelve innecesaria la dependencia cotidiana: el pueblo liberado sigue siendo un pueblo que tiene sed.
 
 ## Pan diario y examen de la obediencia: Shemot 16
 
@@ -93,21 +93,21 @@ Entonces Amalec ataca. Yehoshua combate, mientras Moshéh permanece en la cumbre
 
 Moshéh edifica un altar y lo llama **(יהוה נסי)**, _Adonai Nissi_, «יהוה es mi estandarte». **(נס)**, _nes_, puede referir a señal, estandarte o señal levantada; «bandera» es una traducción **aproximada**. El nombre no convierte la batalla en propaganda humana: confiesa que la victoria y la memoria de la guerra quedan bajo la identidad de יהוה.
 
-## Un camino guiado que forma una comunidad: 13:21–17:16 #shemot_13_21 #shemot_17_16
+## Un camino guiado que forma una comunidad: 13:21–17:16 #exodo_13_21 #exodo_17_16
 
 La nube y el fuego resumen la conducción: «יהוה iba delante de ellos, de día en columna de nube para guiarlos por el camino, y de noche en columna de fuego para alumbrarlos» (#shemot*13_21). **(נחה)**, \_najah*, significa guiar, conducir o dar descanso; en la forma **(לנחתם)**, _lenajotam_, su fuerza contextual es orientar a una comunidad vulnerable por una ruta concreta. «Consolar» es aquí una equivalencia **pedagógica** derivada del efecto de la guía, no la traducción exacta del verbo. La clase acierta al unir consuelo y dirección: el texto no presenta una presencia abstracta, sino una que va delante.
 
-El movimiento se repite en el mar: «los hijos de Israel entraron en medio del mar en seco» (#shemot*14_22), y después « יהוה salvó a Israel aquel día de mano de Egipto» (#shemot_14_30). **(יבש)**, \_yavesh*, significa seco o reseco; aplicado al suelo, su fuerza narrativa contrasta el paso de Israel con el agua que vuelve sobre el ejército. **(ישע)**, _yasha_, significa salvar, librar o dar espacio seguro; en **(ויושע)**, _vayosha_, «salvó», el sujeto es יהוה. «Victoria humana con ayuda divina» sería una equivalencia **inexacta** para este versículo, aunque Israel sí obedece al entrar y avanzar.
+El movimiento se repite en el mar: «los hijos de Israel entraron en medio del mar en seco» (#shemot*14_22), y después « יהוה salvó a Israel aquel día de mano de Egipto» (#exodo_14_30). **(יבש)**, \_yavesh*, significa seco o reseco; aplicado al suelo, su fuerza narrativa contrasta el paso de Israel con el agua que vuelve sobre el ejército. **(ישע)**, _yasha_, significa salvar, librar o dar espacio seguro; en **(ויושע)**, _vayosha_, «salvó», el sujeto es יהוה. «Victoria humana con ayuda divina» sería una equivalencia **inexacta** para este versículo, aunque Israel sí obedece al entrar y avanzar.
 
-En el desierto, la guía no se limita a llevar al pueblo a un destino. El maná recibe el propósito explícito de probar si Israel caminará en la Torah (#shemot*16_4), y el agua de Refidim deja al descubierto la pregunta «¿está יהוה entre nosotros o no?» (#shemot_17_7). **(הלך)**, \_halaj*, significa caminar o conducirse; aquí la forma **(ילך)**, _yelekh_, describe obediencia cotidiana, no una peregrinación mística añadida. **(נסה)**, _nasah_, significa probar o poner a prueba; en la forma **(אנסנו)**, _anassenu_, el efecto contextual es una prueba que revela la respuesta del pueblo. La distinción importa: «probar» y «caminar» se relacionan en el argumento, pero no son el mismo término.
+En el desierto, la guía no se limita a llevar al pueblo a un destino. El maná recibe el propósito explícito de probar si Israel caminará en la Torah (#shemot*16_4), y el agua de Refidim deja al descubierto la pregunta «¿está יהוה entre nosotros o no?» (#exodo_17_7). **(הלך)**, \_halaj*, significa caminar o conducirse; aquí la forma **(ילך)**, _yelekh_, describe obediencia cotidiana, no una peregrinación mística añadida. **(נסה)**, _nasah_, significa probar o poner a prueba; en la forma **(אנסנו)**, _anassenu_, el efecto contextual es una prueba que revela la respuesta del pueblo. La distinción importa: «probar» y «caminar» se relacionan en el argumento, pero no son el mismo término.
 
 La escena de Amalec completa el consuelo con cooperación. Cuando las manos de Moshéh se cansan, Aharón y Jur ponen una piedra y las sostienen (#shemot*17_12). **(אמונה)**, \_emunah*, significa firmeza, fidelidad o constancia; en «sus manos eran _emunah_» su fuerza contextual es perseverancia sostenida hasta la puesta del sol. «Fe interior» es una equivalencia **pedagógica incompleta** si elimina el apoyo visible de los hermanos. Eric puede hablar de dependencia comunitaria con fundamento en la escena: la victoria se narra mediante Moshéh, Aharón, Jur, Yehoshua y el pueblo, mientras el altar atribuye el estandarte a יהוה.
 
-Así, el consuelo de Bshalaj no es una promesa de que el camino será cómodo. OE conserva el mandato «sigan viajando» (#shemot_14_15) y TTH traduce la provisión del maná como «el pan que les ha dado יהוה» (#shemot_16_15). La exposición de Eric queda confirmada en una forma más precisa: יהוה restaura el ánimo para que Israel avance, reciba el pan según la palabra y aprenda a sostenerse mutuamente; no para que abandone la obediencia ni para que vuelva a Egipto.
+Así, el consuelo de Bshalaj no es una promesa de que el camino será cómodo. OE conserva el mandato «sigan viajando» (#exodo_14_15) y TTH traduce la provisión del maná como «el pan que les ha dado יהוה» (#exodo_16_15). La exposición de Eric queda confirmada en una forma más precisa: יהוה restaura el ánimo para que Israel avance, reciba el pan según la palabra y aprenda a sostenerse mutuamente; no para que abandone la obediencia ni para que vuelva a Egipto.
 
-## El altar y la memoria de la guerra: Shemot 17:8–16 #shemot_17_8-16
+## El altar y la memoria de la guerra: Shemot 17:8–16 #exodo_17_8-16
 
-La exposición de Eric no presenta la lucha contra Amalec como una licencia para la venganza privada. Esa cautela se ajusta al cierre de la perícopa: Moshéh edifica un altar después de la victoria y lo llama **יהוה נסי** —«יהוה es mi estandarte»— (#shemot_17_15, OE y TTH). El nombre interpreta la batalla desde la adoración y la memoria, no desde la glorificación autónoma de Israel. La comunidad combate, pero no se atribuye el estandarte.
+La exposición de Eric no presenta la lucha contra Amalec como una licencia para la venganza privada. Esa cautela se ajusta al cierre de la perícopa: Moshéh edifica un altar después de la victoria y lo llama **יהוה נסי** —«יהוה es mi estandarte»— (#exodo_17_15, OE y TTH). El nombre interpreta la batalla desde la adoración y la memoria, no desde la glorificación autónoma de Israel. La comunidad combate, pero no se atribuye el estandarte.
 
 El relato primero dice **ויבא עמלק** —«y vino Amalec»— (#shemot*17_8). **(בוא)**, \_bo*, significa venir o entrar; en esta forma su fuerza contextual es la llegada hostil de un adversario al camino de Israel. **(עמלק)**, _Amaleq_, es el nombre propio de Amalec; no debe convertirse en una etiqueta para cualquier persona que nos contradiga. Eric aplica la lucha a la perseverancia contra aquello que intenta hacer volver al pueblo a la esclavitud; esa aplicación es pedagógica y puede orientar la exhortación, pero el sujeto histórico inmediato sigue siendo Amalec.
 
@@ -153,10 +153,10 @@ La misma cautela aplica a **(ירא)**, _yare_, «temer» o «reverenciar». En 
 
 ## Conexiones principales
 
-- #shemot_12_14-17 — la memoria de la salida prepara la respuesta de Israel en el desierto.
-- #bemidbar_14_1-4 — el deseo de volver a Egipto reaparece cuando el pueblo interpreta la dificultad sin confianza.
-- #tehilim_78_23-29 — el maná y la provisión se recuerdan como obras de יהוה que también revelan el corazón del pueblo.
-- #ieshaiahu_43_16-19 — el camino por las aguas retoma la memoria del éxodo, sin reemplazar el relato de Shemot.
+- #exodo_12_14-17 — la memoria de la salida prepara la respuesta de Israel en el desierto.
+- #numeros_14_1-4 — el deseo de volver a Egipto reaparece cuando el pueblo interpreta la dificultad sin confianza.
+- #salmos_78_23-29 — el maná y la provisión se recuerdan como obras de יהוה que también revelan el corazón del pueblo.
+- #isaias_43_16-19 — el camino por las aguas retoma la memoria del éxodo, sin reemplazar el relato de Shemot.
 
 ## Pendiente de verificar
 
@@ -179,9 +179,9 @@ Delitzsch expresa el cruce en Ivrim 11:29 como **בָּאֱמוּנָה עָבְ
 
 ## Consuelo que se vuelve obediencia: del mar al pan diario
 
-La enseñanza de Eric sobre un pueblo que necesita consuelo gana una forma más precisa cuando se observa el cambio de verbos entre el mar y el maná. En el mar Moshéh oye **אל תיראו התיצבו וראו את ישועת יהוה**, «no teman; estén firmes y vean la salvación de יהוה» (#shemot_14_13), pero enseguida יהוה manda: **דבר אל בני ישראל ויסעו**, «habla a los hijos de Israel y que avancen» (#shemot_14_15). **(נסע)**, _nasa_, significa partir, levantar el campamento o avanzar; en esta forma su fuerza contextual es salir del punto de miedo bajo una orden concreta. «Dar el salto de fe» es una equivalencia **pedagógica**, no exacta: el texto habla de movimiento de un campamento guiado.
+La enseñanza de Eric sobre un pueblo que necesita consuelo gana una forma más precisa cuando se observa el cambio de verbos entre el mar y el maná. En el mar Moshéh oye **אל תיראו התיצבו וראו את ישועת יהוה**, «no teman; estén firmes y vean la salvación de יהוה» (#exodo_14_13), pero enseguida יהוה manda: **דבר אל בני ישראל ויסעו**, «habla a los hijos de Israel y que avancen» (#exodo_14_15). **(נסע)**, _nasa_, significa partir, levantar el campamento o avanzar; en esta forma su fuerza contextual es salir del punto de miedo bajo una orden concreta. «Dar el salto de fe» es una equivalencia **pedagógica**, no exacta: el texto habla de movimiento de un campamento guiado.
 
-El maná continúa esa pedagogía sin repetir el milagro del mar. OE dice **הנני ממטיר לכם לחם מן השמים למען אנסנו הילך בתורתי אם לא**, «he aquí que haré llover para ustedes pan del cielo para probarlo, si caminará en mi Torah o no» (#shemot_16_4); TTH conserva que la provisión prueba si el pueblo caminará en la Torah. **(תורה)**, _torah_, significa instrucción, enseñanza o dirección; aquí su fuerza contextual es la palabra que regula la recolección, el sexto día y el reposo. «Regla religiosa» es una equivalencia **aproximada** y demasiado estrecha si borra la relación diaria de dependencia. Eric acierta al conectar consuelo y formación: el pan no solo calma el hambre, sino que enseña a recibir.
+El maná continúa esa pedagogía sin repetir el milagro del mar. OE dice **הנני ממטיר לכם לחם מן השמים למען אנסנו הילך בתורתי אם לא**, «he aquí que haré llover para ustedes pan del cielo para probarlo, si caminará en mi Torah o no» (#exodo_16_4); TTH conserva que la provisión prueba si el pueblo caminará en la Torah. **(תורה)**, _torah_, significa instrucción, enseñanza o dirección; aquí su fuerza contextual es la palabra que regula la recolección, el sexto día y el reposo. «Regla religiosa» es una equivalencia **aproximada** y demasiado estrecha si borra la relación diaria de dependencia. Eric acierta al conectar consuelo y formación: el pan no solo calma el hambre, sino que enseña a recibir.
 
 Delitzsch lee el cruce desde esa misma relación entre confianza y acción: **בָּאֱמוּנָה עָבְרוּ אֶת־יַם־סוּף בַּיַּבָּשָׁה**, «por fe atravesaron el mar de Suf en seco» (Ivrim 11:29). El pasaje apostólico es una lectura canónica posterior, no una sustitución de Shemot 14. **(עבר)**, _avar_, significa pasar o atravesar; en **עָבְרוּ**, _avru_, la forma plural presenta el cruce realizado por la comunidad. «Confianza interior» sería inexacta si elimina el cruce corporal. La observación de Eric queda así evaluada con equilibrio: el consuelo de יהוה no termina en alivio, sino que sostiene una obediencia visible, compartida y ordenada por su palabra.
 

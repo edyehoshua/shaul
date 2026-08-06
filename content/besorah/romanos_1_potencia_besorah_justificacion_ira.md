@@ -25,7 +25,7 @@ references:
   - "#romanos_1_21"
   - "#romanos_1_22"
   - "#romanos_1_23"
-  - "#yeshayahu_61_1"
+  - "#isaias_61_1"
   - "#habacuc_2_4"
 sources:
   - "https://www.youtube.com/watch?v=irpXnhj4cMI"

@@ -11,18 +11,18 @@ tags:
   - teshuva
   - torah
 references:
-  - "#1reyes_22_41"
-  - "#1reyes_22_43"
-  - "#2cronicas_18_1"
-  - "#2cronicas_18_3"
-  - "#2cronicas_18_31"
-  - "#2cronicas_19_1"
-  - "#2cronicas_19_2"
-  - "#2cronicas_19_3"
-  - "#2cronicas_20_3"
-  - "#2cronicas_20_12"
-  - "#2cronicas_20_35"
-  - "#2cronicas_20_37"
+  - "#1_reyes_22_41"
+  - "#1_reyes_22_43"
+  - "#2_cronicas_18_1"
+  - "#2_cronicas_18_3"
+  - "#2_cronicas_18_31"
+  - "#2_cronicas_19_1"
+  - "#2_cronicas_19_2"
+  - "#2_cronicas_19_3"
+  - "#2_cronicas_20_3"
+  - "#2_cronicas_20_12"
+  - "#2_cronicas_20_35"
+  - "#2_cronicas_20_37"
   - "#santiago_2_6"
   - "#santiago_2_7"
   - "#mateo_5_44"
@@ -48,12 +48,12 @@ Esta nota organiza la enseñanza pública «NEOIDOLATRY, Israel and the Legacy o
 
 | Referencia | Texto local | Función en el estudio |
 | --- | --- | --- |
-| #1reyes_22_41-43 | **ויהושפט בן אסא מלך על יהודה... וילך בכל דרך אסא אביו לא סר ממנו לעשות הישר בעיני יהוה** | Jehosafat reina veinticinco años y es descrito como un rey que hace lo recto. |
-| #2cronicas_18_1-3 | **ויהי ליהושפט עשר וכבוד לרב ויתחתן לאחאב... וכעמך עמי ועמך במלחמה** | La riqueza y el parentesco desembocan en una alianza militar con Acab. |
-| #2cronicas_18_31-32 | **ויזעק יהושפט ויהוה עזרו... וישבו מאחריו** | יהוה libra a Jehosafat cuando clama, pero el peligro nace de la alianza que aceptó. |
-| #2cronicas_19_1-3 | **הלרשע לעזר ולשנאי יהוה תאהב... אבל דברים טובים נמצאו עמך** | Yehu reprende el amor y la ayuda al impío, sin negar las reformas de Jehosafat. |
-| #2cronicas_20_3,12 | **ויתן יהושפט את פניו לדרש ליהוה... כי עליך עינינו** | Ante una amenaza posterior, el rey busca a יהוה y reconoce su falta de fuerza. |
-| #2cronicas_20_35-37 | **אתחבר יהושפט... כהתחברך עם אחזיהו פרץ יהוה את מעשיך** | La segunda alianza produce naves quebradas y confirma la advertencia profética. |
+| #1_reyes_22_41-43 | **ויהושפט בן אסא מלך על יהודה... וילך בכל דרך אסא אביו לא סר ממנו לעשות הישר בעיני יהוה** | Jehosafat reina veinticinco años y es descrito como un rey que hace lo recto. |
+| #2_cronicas_18_1-3 | **ויהי ליהושפט עשר וכבוד לרב ויתחתן לאחאב... וכעמך עמי ועמך במלחמה** | La riqueza y el parentesco desembocan en una alianza militar con Acab. |
+| #2_cronicas_18_31-32 | **ויזעק יהושפט ויהוה עזרו... וישבו מאחריו** | יהוה libra a Jehosafat cuando clama, pero el peligro nace de la alianza que aceptó. |
+| #2_cronicas_19_1-3 | **הלרשע לעזר ולשנאי יהוה תאהב... אבל דברים טובים נמצאו עמך** | Yehu reprende el amor y la ayuda al impío, sin negar las reformas de Jehosafat. |
+| #2_cronicas_20_3,12 | **ויתן יהושפט את פניו לדרש ליהוה... כי עליך עינינו** | Ante una amenaza posterior, el rey busca a יהוה y reconoce su falta de fuerza. |
+| #2_cronicas_20_35-37 | **אתחבר יהושפט... כהתחברך עם אחזיהו פרץ יהוה את מעשיך** | La segunda alianza produce naves quebradas y confirma la advertencia profética. |
 
 ## Una rectitud real, pero no una rectitud sin vigilancia
 
@@ -88,11 +88,11 @@ Jehosafat vuelve a tropezar cuando se asocia con Ocozías para construir naves. 
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #1reyes_22_41-44 | Jehosafat es recto, pero los lugares altos permanecen y el pueblo mezcla cultos. | Apoyo textual y calificación: rectitud no significa perfección. |
-| #2cronicas_18_1-3,31-32 | La alianza con Acab lleva a Jehosafat al peligro; su clamor recibe ayuda. | Apoyo textual; se distingue liberación de aprobación de la alianza. |
-| #2cronicas_19_1-3 | Ayudar al impío y amar a quienes aborrecen a יהוה recibe reprensión, aunque hay cosas buenas en el rey. | Apoyo textual y aplicación cualificada. |
-| #2cronicas_20_3,12 | Buscar a יהוה y confesar la propia incapacidad es el camino ante la amenaza. | Apoyo textual y síntesis pastoral. |
-| #2cronicas_20_35-37 | La alianza con Ocozías repite el patrón y termina en naves quebradas. | Apoyo textual; la lectura generacional queda como aplicación, no como dato adicional. |
+| #1_reyes_22_41-44 | Jehosafat es recto, pero los lugares altos permanecen y el pueblo mezcla cultos. | Apoyo textual y calificación: rectitud no significa perfección. |
+| #2_cronicas_18_1-3,31-32 | La alianza con Acab lleva a Jehosafat al peligro; su clamor recibe ayuda. | Apoyo textual; se distingue liberación de aprobación de la alianza. |
+| #2_cronicas_19_1-3 | Ayudar al impío y amar a quienes aborrecen a יהוה recibe reprensión, aunque hay cosas buenas en el rey. | Apoyo textual y aplicación cualificada. |
+| #2_cronicas_20_3,12 | Buscar a יהוה y confesar la propia incapacidad es el camino ante la amenaza. | Apoyo textual y síntesis pastoral. |
+| #2_cronicas_20_35-37 | La alianza con Ocozías repite el patrón y termina en naves quebradas. | Apoyo textual; la lectura generacional queda como aplicación, no como dato adicional. |
 
 ## Pendiente de verificar
 
@@ -110,7 +110,7 @@ Jehosafat enseña que la fidelidad se prueba también en la prosperidad, la dipl
 - [[jehosafat_alianzas_discernimiento_y_retorno|Jehosafat: rectitud, alianzas peligrosas y retorno al camino]]
 - [[amatziyahi_rectitud_parcial_victoria_y_neoidolatria|Amatziyahi: rectitud parcial, victoria y neoidolatría]]
 - [[jehu_casa_dinastia_celo_y_obediencia_incompleta|Jehu: casa, dinastía, celo y obediencia incompleta]]
-- [[iehoash_atalia_pacto_instruccion_y_reparacion|Iehoash: Atalia, pacto, instrucción y reparación]]
+- [[iehoash_atalia_pacto_instruccion_y_reparacion|Yehoash: Atalia, pacto, instrucción y reparación]]
 
 ## Créditos
 

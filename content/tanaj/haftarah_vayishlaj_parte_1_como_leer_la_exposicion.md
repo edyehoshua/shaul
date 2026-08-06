@@ -9,12 +9,12 @@ tags:
   - lectura-publica
   - amalek
 references:
-  - "#devarim_25_17"
-  - "#devarim_25_18"
-  - "#devarim_25_19"
-  - "#maasei_hashlijim_15_19"
-  - "#maasei_hashlijim_15_20"
-  - "#maasei_hashlijim_15_21"
+  - "#deuteronomio_25_17"
+  - "#deuteronomio_25_18"
+  - "#deuteronomio_25_19"
+  - "#hechos_15_19"
+  - "#hechos_15_20"
+  - "#hechos_15_21"
 sources:
   - "https://www.youtube.com/watch?v=p7Tu9dJAgN0"
   - "docs/scriptures/tth/json/devarim.json"
@@ -32,9 +32,9 @@ La primera parte de la serie de Vayishlaj funciona como una introducción metodo
 
 El video comienza con oración y cantos, y después anuncia el estudio de la haftaráh. Desde aproximadamente el minuto 12, Eric repasa la división tradicional de la Biblia en Torah, Profetas y Escritos, comenta el contexto de la decisión comunitaria narrada en Maasei HaShlijim 15 y explica el término _parasháh_ como separación, porción y exposición. La transcripción automática es fragmentaria; esta nota organiza las observaciones que sí son audibles y deja para las partes siguientes el desarrollo expositivo de la haftaráh de Vayishlaj.
 
-## Devarim 25:17-19: la memoria como lectura ordenada #devarim_25_17-19
+## Devarim 25:17-19: la memoria como lectura ordenada #deuteronomio_25_17-19
 
-La clase se identifica con una haftaráh de Vayishlaj, pero el desarrollo bíblico visible todavía está en la introducción. El texto local que da el horizonte de la lectura ordena: “Recuerda lo que te hizo Amalek en el camino, en su salida de Mitzráim” (#devarim_25_17). El v. 18 concreta el recuerdo: Amalek hiere a los rezagados, a los débiles y cansados, “y no temió a Elohim”. El v. 19 proyecta la respuesta hacia el reposo que יהוה concede y termina con una doble exigencia: borrar la memoria de Amalek y no olvidar.
+La clase se identifica con una haftaráh de Vayishlaj, pero el desarrollo bíblico visible todavía está en la introducción. El texto local que da el horizonte de la lectura ordena: “Recuerda lo que te hizo Amalek en el camino, en su salida de Mitzráim” (#deuteronomio_25_17). El v. 18 concreta el recuerdo: Amalek hiere a los rezagados, a los débiles y cansados, “y no temió a Elohim”. El v. 19 proyecta la respuesta hacia el reposo que יהוה concede y termina con una doble exigencia: borrar la memoria de Amalek y no olvidar.
 
 Estos versículos muestran por qué una lectura comunitaria necesita orden. El mandato no es una impresión aislada, sino una secuencia: recordar el hecho, identificar a quién atacó Amalek, esperar el reposo prometido y responder sin olvidar. Eric todavía no ofrece en esta parte una exégesis detallada de cada verbo; el texto se mantiene aquí como perícopa de referencia para la serie y no como material atribuido artificialmente a su explicación.
 
@@ -44,9 +44,9 @@ Eric recuerda que la Biblia se agrupa en tres grandes conjuntos: la Torah de Mos
 
 El texto de Devarim 1:5 ofrece una imagen útil para este método: Moshéh está “dispuesto” para explicar la Torah. La exposición no sustituye al texto ni lo convierte en una colección de frases sueltas. Explicar significa abrir la porción delante de la comunidad, conservar su orden y mostrar cómo la instrucción se escucha en el presente. Ese es el trabajo que Eric anuncia para las partes siguientes.
 
-## Maasei HaShlijim 15:19-21: una comunidad que escucha #maasei_hashlijim_15_19-21
+## Maasei HaShlijim 15:19-21: una comunidad que escucha #hechos_15_19-21
 
-Eric relaciona el estudio con la controversia de los creyentes provenientes de las naciones. El texto local registra la decisión de Iaacob: “Yo juzgo que no se inquiete a los de las naciones que se vuelven a Elohim” (#maasei_hashlijim_15_19). Luego enumera instrucciones iniciales sobre contaminación de ídolos, inmoralidad sexual, lo estrangulado y sangre (#maasei_hashlijim_15_20). El v. 21 añade que Moshéh tiene desde tiempos antiguos quienes lo anuncian en cada ciudad y que es leído en las sinagogas cada Shabat.
+Eric relaciona el estudio con la controversia de los creyentes provenientes de las naciones. El texto local registra la decisión de Yaakov: “Yo juzgo que no se inquiete a los de las naciones que se vuelven a Elohim” (#hechos_15_19). Luego enumera instrucciones iniciales sobre contaminación de ídolos, inmoralidad sexual, lo estrangulado y sangre (#hechos_15_20). El v. 21 añade que Moshéh tiene desde tiempos antiguos quienes lo anuncian en cada ciudad y que es leído en las sinagogas cada Shabat.
 
 La observación de Eric es que la decisión no elimina la enseñanza posterior. La lectura sabática crea el contexto en el que quienes llegan a la comunidad pueden seguir oyendo a Moshéh. La incorporación no se define como dominar de inmediato los 613 mandamientos ni como adoptar una costumbre humana para parecer miembro; comienza con una respuesta fiel y continúa con aprendizaje. La nota presenta esta aplicación como una síntesis atribuible de la clase, no como si Maasei HaShlijim 15 fuera una explicación directa del término _parasháh_.
 
@@ -77,9 +77,9 @@ Eric resume tres transgresiones que, en su marco de enseñanza, reciben una grav
 
 | Texto o unidad             | Observación concreta de Eric                                                                                             | Tratamiento                                                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| #devarim_25_17-18          | La memoria bíblica debe conservar el hecho, el camino y la vulnerabilidad de los rezagados, no quedarse en una consigna. | Se ofrece el texto local y se ordena su movimiento; la exégesis detallada queda para la siguiente parte de la serie. |
-| #devarim_25_19             | El mandato une el reposo concedido por יהוה con borrar la memoria de Amalek y no olvidar.                                | Se distingue la secuencia del versículo de cualquier aplicación no pronunciada en el audio.                          |
-| #maasei_hashlijim_15_19-21 | Las personas de las naciones no deben ser inquietadas y la lectura de Moshéh continúa cada Shabat.                       | Se explica la incorporación como comienzo de aprendizaje comunitario, no como abandono de la Torah.                  |
+| #deuteronomio_25_17-18          | La memoria bíblica debe conservar el hecho, el camino y la vulnerabilidad de los rezagados, no quedarse en una consigna. | Se ofrece el texto local y se ordena su movimiento; la exégesis detallada queda para la siguiente parte de la serie. |
+| #deuteronomio_25_19             | El mandato une el reposo concedido por יהוה con borrar la memoria de Amalek y no olvidar.                                | Se distingue la secuencia del versículo de cualquier aplicación no pronunciada en el audio.                          |
+| #hechos_15_19-21 | Las personas de las naciones no deben ser inquietadas y la lectura de Moshéh continúa cada Shabat.                       | Se explica la incorporación como comienzo de aprendizaje comunitario, no como abandono de la Torah.                  |
 | Clasificación bíblica      | Torah, Profetas y Escritos son tres grandes conjuntos; la clasificación no niega profecía dentro de los Escritos.        | Se usa como mapa para la lectura, evitando convertirlo en una negación del contenido profético de los Salmos.        |
 | Parasháh                   | La porción separada permite exponer y explicar la Torah delante de la comunidad.                                         | Se registra la hoja léxica y se deja explícita la naturaleza introductoria de esta parte.                            |
 | Tradición y mandamiento    | Una costumbre comunitaria no debe elevarse automáticamente al rango de mandamiento divino.                               | Se conserva como aplicación de Eric y se separa del contenido textual de Devarim 25.                                 |

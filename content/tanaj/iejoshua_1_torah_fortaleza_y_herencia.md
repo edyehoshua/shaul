@@ -2,13 +2,13 @@
 title: "Josué 1: Torah, fortaleza y herencia"
 description: "La comisión de Yehoshúa vincula la entrada en la herencia con la presencia de יהוה, la meditación y la práctica de la Torah."
 date: 2026-07-29
-tags: [tanaj, iehoshua, haftarah, vezot_habraja, torah, liderazgo]
+tags: [tanaj, yehoshua, haftarah, vezot_habraja, torah, liderazgo]
 references:
-  - "#iejoshua_1_1-5"
-  - "#iejoshua_1_6-9"
+  - "#josue_1_1-5"
+  - "#josue_1_6-9"
 sources:
   - "https://www.youtube.com/watch?v=a5vFxYJGFFo"
-  - "docs/scriptures/tth/json/iehoshua.json"
+  - "docs/scriptures/tth/json/yehoshua.json"
 source_ids:
   - "youtube:a5vFxYJGFFo"
 translation: "[TTH]"
@@ -22,13 +22,13 @@ Josué 1 no presenta la fortaleza de Yehoshúa como autosuficiencia ni la herenc
 
 Esta nota sigue Josué 1:1-9 en orden textual. Organiza la observación central de la clase y la contrasta con el TTH local; no presenta la transcripción automática como cita literal. «Eternidad» es el énfasis temático del título de Eric, mientras que el pasaje examinado habla directamente de la Torah de Moshéh y de la presencia de יהוה.
 
-## De Moshéh a Yehoshúa: una comisión bajo promesa — Josué 1:1-5 #iejoshua_1_1-5
+## De Moshéh a Yehoshúa: una comisión bajo promesa — Josué 1:1-5 #josue_1_1-5
 
-El relato comienza «después de la muerte de Moshéh» y nombra a Yehoshúa como «servidor de Moshéh». La transición no borra al siervo anterior ni convierte al sucesor en origen de la promesa. יהוה ordena: «levántate, cruza este Iardén» y recuerda que la tierra fue dada a Israel «como hablé a Moshéh». Eric observa la continuidad entre Devarim y Josué; el texto la sostiene mediante la memoria de la palabra previa.
+El relato comienza «después de la muerte de Moshéh» y nombra a Yehoshúa como «servidor de Moshéh». La transición no borra al siervo anterior ni convierte al sucesor en origen de la promesa. יהוה ordena: «levántate, cruza este Yardén» y recuerda que la tierra fue dada a Israel «como hablé a Moshéh». Eric observa la continuidad entre Devarim y Josué; el texto la sostiene mediante la memoria de la palabra previa.
 
 El TTH dice en 1:5: «Como estuve con Moshéh, estaré contigo; no te soltaré y no te abandonaré». El término hebreo **(חזק)**, _chazaq_, aparece en la exhortación «fortalécete»; su sentido normal es hacerse fuerte o afirmarse. Aquí su fuerza contextual es perseverar en una tarea encomendada, no fabricar valentía interior aislada. «Fortaleza» es una equivalencia aproximada. El verbo **(ירש)**, _yarash_, relacionado con «harás heredar» en 1:6, puede significar poseer o recibir en herencia; «conquistar» sería una equivalencia pedagógica parcial, porque el versículo destaca la promesa jurada a los padres y la responsabilidad de hacerla llegar al pueblo.
 
-## Torah en la boca, meditación en la práctica — Josué 1:6-9 #iejoshua_1_6-9
+## Torah en la boca, meditación en la práctica — Josué 1:6-9 #josue_1_6-9
 
 La repetición de «fortalécete y esfuérzate» no termina en 1:6. En 1:7 se añade la condición: guardar y hacer conforme a la Torah de Moshéh, sin desviarse «a derecha e izquierda». El sustantivo **(תורה)**, _torah_, tiene como sentido normal instrucción, enseñanza o norma; en este contexto designa la instrucción recibida de Moshéh. «Ley» puede ser una traducción contextual, pero es más estrecha que «instrucción».
 
@@ -54,7 +54,7 @@ Por eso «harás prosperar tu camino» no promete éxito sin criterio. **(שכל
 | Josué 1:6-7 | La fortaleza exigida al dirigente está ligada a guardar y hacer la Torah.                 | Apoyo textual y aclaración de **(תורה)**, _torah_; la aplicación al liderazgo se mantiene contextual.                                 |
 | Josué 1:8-9 | La Torah permanece en la boca, se medita y conduce a prudencia bajo la presencia de יהוה. | Apoyo textual y explicación de **(הגה)** y **(שכל)**; se califica la idea de prosperidad automática.                                  |
 
-## La promesa no se separa de su destinatario — 1:1-9 #iejoshua_1_1-9
+## La promesa no se separa de su destinatario — 1:1-9 #josue_1_1-9
 
 En la exposición pública `youtube:a5vFxYJGFFo`, Eric advierte contra tomar «todo lugar que pise la planta de vuestro pie» como una promesa general de vivienda, terreno, negocio o prosperidad para cualquier lector. Su observación concreta se puede probar en la sintaxis local: יהוה habla a Yehoshua, a «todo este pueblo» y a la tierra que juró dar a los padres de Israel. **(נתן)**, _natan_, significa dar o entregar; aquí su fuerza contextual es el don de la tierra dentro del pacto con Israel, no un cheque abierto para cualquier proyecto personal. La relación de la aplicación con el verso es **exacta** en cuanto al destinatario histórico y **pedagógica** cuando se extiende a advertir contra la prosperidad automática.
 
@@ -62,13 +62,13 @@ Eric también insiste en que el mandato «sé fuerte y muy valiente» no puede s
 
 La clase liga esta lectura con la continuidad de la Torah después de la muerte de Moshe. La forma **לא ימוש**, _lo yamush_, «no se apartará», y **והגית**, _vehagita_, «meditarás, murmurarás o recitarás», sitúan el libro de la Torah en la boca y en la atención diaria de Yehoshua. «La eternidad de la Torah» es el título y el eje público de Eric; el capítulo afirma directamente su continuidad como instrucción recibida para la nueva etapa. La aplicación mesiánica o escatológica puede ser **canónica y pedagógica**, pero no reemplaza la orden inmediata: meditar para guardar y hacer.
 
-## La herencia requiere una comunidad que cruza — 1:10-18 #iejoshua_1_10-18
+## La herencia requiere una comunidad que cruza — 1:10-18 #josue_1_10-18
 
 El énfasis de Eric no termina en la experiencia del dirigente. Josué transmite la orden a los oficiales, recuerda a Rubén, Gad y la media tribu de Menasheh su compromiso, y el pueblo responde: **כל אשר צויתנו נעשה**, _kol asher tzivitanu na'aseh_, «todo lo que nos mandes haremos». **(צוה)**, _tsavah_, significa ordenar o encargar; **(הלך)**, _halakh_, significa ir o caminar. La fuerza contextual es obediencia coordinada: las tribus que ya recibieron reposo deben ayudar a sus hermanos hasta que ellos también reciban reposo.
 
 Eric usa este cierre para corregir una lectura individualista de «tu tierra» o «tu éxito». El texto la corrige por su propio orden narrativo: Yehoshua recibe la palabra, los oficiales preparan provisiones, las tribus sostienen a sus hermanos y toda la asamblea confirma la misión. La relación es **directa** para la responsabilidad comunitaria y **aproximada** cuando se convierte en una exhortación general a las comunidades actuales. La fortaleza repetida en el v. 18 no autoriza dominio; es la condición para servir y conducir bajo el encargo recibido.
 
-## La promesa no se separa de su destinatario — 1:1-9 #iejoshua_1_1-9
+## La promesa no se separa de su destinatario — 1:1-9 #josue_1_1-9
 
 En la exposición pública `youtube:a5vFxYJGFFo`, Eric advierte contra tomar «todo lugar que pise la planta de vuestro pie» como una promesa general de vivienda, terreno, negocio o prosperidad para cualquier lector. Su observación concreta se puede probar en la sintaxis local: יהוה habla a Yehoshua, a «todo este pueblo» y a la tierra que juró dar a los padres de Israel. **(נתן)**, _natan_, significa dar o entregar; aquí su fuerza contextual es el don de la tierra dentro del pacto con Israel, no un cheque abierto para cualquier proyecto personal. La relación de la aplicación con el verso es **exacta** en cuanto al destinatario histórico y **pedagógica** cuando se extiende a advertir contra la prosperidad automática.
 
@@ -76,7 +76,7 @@ Eric también insiste en que el mandato «sé fuerte y muy valiente» no puede s
 
 La clase liga esta lectura con la continuidad de la Torah después de la muerte de Moshe. La forma **לא ימוש**, _lo yamush_, «no se apartará», y **והגית**, _vehagita_, «meditarás, murmurarás o recitarás», sitúan el libro de la Torah en la boca y en la atención diaria de Yehoshua. «La eternidad de la Torah» es el título y el eje público de Eric; el capítulo afirma directamente su continuidad como instrucción recibida para la nueva etapa. La aplicación mesiánica o escatológica puede ser **canónica y pedagógica**, pero no reemplaza la orden inmediata: meditar para guardar y hacer.
 
-## La herencia requiere una comunidad que cruza — 1:10-18 #iejoshua_1_10-18
+## La herencia requiere una comunidad que cruza — 1:10-18 #josue_1_10-18
 
 El énfasis de Eric no termina en la experiencia del dirigente. Josué transmite la orden a los oficiales, recuerda a Rubén, Gad y la media tribu de Menasheh su compromiso, y el pueblo responde: **כל אשר צויתנו נעשה**, _kol asher tzivitanu na'aseh_, «todo lo que nos mandes haremos». **(צוה)**, _tsavah_, significa ordenar o encargar; **(הלך)**, _halakh_, significa ir o caminar. La fuerza contextual es obediencia coordinada: las tribus que ya recibieron reposo deben ayudar a sus hermanos hasta que ellos también reciban reposo.
 

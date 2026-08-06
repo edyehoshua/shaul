@@ -5,7 +5,7 @@ date: 2026-05-16
 tags:
   - ben
 references:
-  - "#iejezkel_2_1"
+  - "#ezequiel_2_1"
 sources: []
 ---
 

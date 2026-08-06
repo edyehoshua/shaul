@@ -8,18 +8,18 @@ tags:
   - yehoshua
   - vida
 references:
-  - "#revelation_22_1"
-  - "#revelation_22_2"
-  - "#revelation_22_3"
-  - "#revelation_22_5"
-  - "#revelation_22_6"
-  - "#revelation_22_7"
-  - "#revelation_22_12"
-  - "#revelation_22_13"
-  - "#revelation_22_14"
-  - "#revelation_22_16"
-  - "#revelation_22_17"
-  - "#revelation_22_20"
+  - "#apocalipsis_22_1"
+  - "#apocalipsis_22_2"
+  - "#apocalipsis_22_3"
+  - "#apocalipsis_22_5"
+  - "#apocalipsis_22_6"
+  - "#apocalipsis_22_7"
+  - "#apocalipsis_22_12"
+  - "#apocalipsis_22_13"
+  - "#apocalipsis_22_14"
+  - "#apocalipsis_22_16"
+  - "#apocalipsis_22_17"
+  - "#apocalipsis_22_20"
 sources:
   - "https://www.youtube.com/watch?v=VzTnr8uyP-s"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -40,34 +40,34 @@ Esta nota organiza la parte 30 de la serie del hermano Eric de Jesús Rodríguez
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #revelation_22_1-2 | **ויראני נחל שלמים חיים (זך) מבהיק כעין הקרח יצא מכסא האלהים והשה**; **ובתוך רחוב העיר ואלשפת הנחל מזה ומזה עץ חיים עשה פרי שתים עשרה כי מדי חדש בחדשו יתן אתפריו ועלה העץ לתרופת הגוים** | El río sale del trono y el árbol da fruto y sanidad para las naciones. |
-| #revelation_22_3-5 | **וכלחרם לא יהיהעוד וכסא האלהים והשה יהיהבה ועבדיו ישרתהו**; **והמה יראו אתפניו ושמו עלמצחותם**; **ולילה לא יהיהעוד ולא יצטרכו עוד לאור נר ולאור שמש כייהוה אלהים הוא יאיר להם ומלכו עדעולמי עולמים** | Servicio, visión del rostro, nombre y luz de la presencia divina. |
-| #revelation_22_6-7 | **ויאמר אלי הדברים האלה אמתים ונאמנים ויהוה אלהי רוחות הנביאים שלח אתמלאכו להראות אתעבדיו את אשרהיה יהיה במהרה**; **הנני בא מהר אשרי השמר אתדברי נבואת הספר הזה** | La profecía es verdadera y la dicha se vincula con guardar sus palabras. |
-| #revelation_22_12-14 | **והנני בא מהר ושכרי אתי לשלם לאיש כמעשהו**; **אני האלף והתו הראש והסוף הראשון והאחרון**; **אשרי המכבסים אתשלמתיהם למען יהיה להם רשיון בעץ החיים ובאו העירה דרך השערים** | Venida, recompensa, primacía y acceso al árbol y a la ciudad. |
-| #revelation_22_16-17 | **אני ישוע שלחתי אתמלאכי להעיד לכם אתאלה בפני הקהלות אנכי שרש דוד ותולדתו כוכב נגה השחר**; **והרוח והכלה אמרים בא והשמע יאמר בא והצמא יבוא והחפץ יקח מים חיים חנם** | Yehoshua se identifica con la raíz y descendencia de David; la invitación es abierta y gratuita. |
-| #revelation_22_18-21 | **מעיד אני בכלהשמע דברי נבואת הספר הזה**; **המעיד העדות הזאת אמר אמנם כן אני בא מהר אמן באהנא האדון ישוע**; **חסד אדנינו ישוע המשיח עם כלהקדושים אמן** | Advertencia sobre alterar la profecía y cierre con la venida y la gracia. |
+| #apocalipsis_22_1-2 | **ויראני נחל שלמים חיים (זך) מבהיק כעין הקרח יצא מכסא האלהים והשה**; **ובתוך רחוב העיר ואלשפת הנחל מזה ומזה עץ חיים עשה פרי שתים עשרה כי מדי חדש בחדשו יתן אתפריו ועלה העץ לתרופת הגוים** | El río sale del trono y el árbol da fruto y sanidad para las naciones. |
+| #apocalipsis_22_3-5 | **וכלחרם לא יהיהעוד וכסא האלהים והשה יהיהבה ועבדיו ישרתהו**; **והמה יראו אתפניו ושמו עלמצחותם**; **ולילה לא יהיהעוד ולא יצטרכו עוד לאור נר ולאור שמש כייהוה אלהים הוא יאיר להם ומלכו עדעולמי עולמים** | Servicio, visión del rostro, nombre y luz de la presencia divina. |
+| #apocalipsis_22_6-7 | **ויאמר אלי הדברים האלה אמתים ונאמנים ויהוה אלהי רוחות הנביאים שלח אתמלאכו להראות אתעבדיו את אשרהיה יהיה במהרה**; **הנני בא מהר אשרי השמר אתדברי נבואת הספר הזה** | La profecía es verdadera y la dicha se vincula con guardar sus palabras. |
+| #apocalipsis_22_12-14 | **והנני בא מהר ושכרי אתי לשלם לאיש כמעשהו**; **אני האלף והתו הראש והסוף הראשון והאחרון**; **אשרי המכבסים אתשלמתיהם למען יהיה להם רשיון בעץ החיים ובאו העירה דרך השערים** | Venida, recompensa, primacía y acceso al árbol y a la ciudad. |
+| #apocalipsis_22_16-17 | **אני ישוע שלחתי אתמלאכי להעיד לכם אתאלה בפני הקהלות אנכי שרש דוד ותולדתו כוכב נגה השחר**; **והרוח והכלה אמרים בא והשמע יאמר בא והצמא יבוא והחפץ יקח מים חיים חנם** | Yehoshua se identifica con la raíz y descendencia de David; la invitación es abierta y gratuita. |
+| #apocalipsis_22_18-21 | **מעיד אני בכלהשמע דברי נבואת הספר הזה**; **המעיד העדות הזאת אמר אמנם כן אני בא מהר אמן באהנא האדון ישוע**; **חסד אדנינו ישוע המשיח עם כלהקדושים אמן** | Advertencia sobre alterar la profecía y cierre con la venida y la gracia. |
 
-## Río, árbol y sanidad para las naciones: 22:1-5 #revelation_22_1-5
+## Río, árbol y sanidad para las naciones: 22:1-5 #apocalipsis_22_1-5
 
 Eric comienza leyendo el río limpio de agua de vida como algo que sale del trono de Elohim y del Cordero. Lo conecta con imágenes proféticas de agua que sale del templo, especialmente Ezequiel 47, y observa que el árbol aparece a ambos lados del río y produce fruto continuamente. La conexión literaria es pertinente: el texto local dice que da fruto cada mes y que sus hojas son para la **(תרופת הגוים)**, “sanidad de las naciones”. No debe transformarse esa imagen en una afirmación médica. La frase **(עץ חיים)** (*etz chayim*, “árbol de vida”) corresponde de manera aproximada al lenguaje de Bereshit, mientras que el pasaje de Apocalipsis desarrolla su propia visión.
 
-La escena sigue en orden: no hay maldición, el trono está allí, los siervos sirven, ven el rostro y llevan el nombre en la frente (#revelation_22_3-4). Eric subraya que la presencia no es una abstracción: el servicio y la visión del rostro describen una relación concreta. Después la ausencia de noche y de lámpara se atribuye a la luz de יהוה, y el reinado se extiende por los siglos (#revelation_22_5). El texto permite hablar de presencia, identidad y reinado; no permite deducir todos los detalles de la organización futura.
+La escena sigue en orden: no hay maldición, el trono está allí, los siervos sirven, ven el rostro y llevan el nombre en la frente (#apocalipsis_22_3-4). Eric subraya que la presencia no es una abstracción: el servicio y la visión del rostro describen una relación concreta. Después la ausencia de noche y de lámpara se atribuye a la luz de יהוה, y el reinado se extiende por los siglos (#apocalipsis_22_5). El texto permite hablar de presencia, identidad y reinado; no permite deducir todos los detalles de la organización futura.
 
-## Palabras fieles, guardar la profecía y la venida: 22:6-16 #revelation_22_6-16
+## Palabras fieles, guardar la profecía y la venida: 22:6-16 #apocalipsis_22_6-16
 
-El ángel declara que las palabras son fieles y verdaderas y que יהוה, Elohim de los espíritus de los profetas, envió al mensajero (#revelation_22_6). Eric insiste en que el cierre no es una invitación a especular sin límite: la bendición se dirige a quien guarda las palabras de la profecía (#revelation_22_7). **(τηρέω)** (*tēreō*, “guardar, conservar, observar”) puede expresar custodia o obediencia según el contexto; aquí la relación con “guardar” es contextual y no una prueba de un sistema completo de mandamientos.
+El ángel declara que las palabras son fieles y verdaderas y que יהוה, Elohim de los espíritus de los profetas, envió al mensajero (#apocalipsis_22_6). Eric insiste en que el cierre no es una invitación a especular sin límite: la bendición se dirige a quien guarda las palabras de la profecía (#apocalipsis_22_7). **(τηρέω)** (*tēreō*, “guardar, conservar, observar”) puede expresar custodia o obediencia según el contexto; aquí la relación con “guardar” es contextual y no una prueba de un sistema completo de mandamientos.
 
-La venida se anuncia junto con la recompensa según la obra (#revelation_22_12), y el hablante se identifica como el primero y el último (#revelation_22_13). Eric relaciona la recompensa y la obediencia con una fidelidad que no es libertinaje: en su exhortación, guardar los mandamientos no compite con la gracia. Esa aplicación pastoral conserva el argumento concreto de la clase, pero la frase sobre “mandamientos” debe leerse junto con el vocabulario real del capítulo y no usarse para importar aquí una lista que el pasaje no enumera.
+La venida se anuncia junto con la recompensa según la obra (#apocalipsis_22_12), y el hablante se identifica como el primero y el último (#apocalipsis_22_13). Eric relaciona la recompensa y la obediencia con una fidelidad que no es libertinaje: en su exhortación, guardar los mandamientos no compite con la gracia. Esa aplicación pastoral conserva el argumento concreto de la clase, pero la frase sobre “mandamientos” debe leerse junto con el vocabulario real del capítulo y no usarse para importar aquí una lista que el pasaje no enumera.
 
-## La novia, las naciones y una invitación sin exclusión: 22:14-17 #revelation_22_14-17
+## La novia, las naciones y una invitación sin exclusión: 22:14-17 #apocalipsis_22_14-17
 
-Los que lavan sus vestiduras reciben acceso al árbol de vida y a la ciudad por las puertas (#revelation_22_14). El texto local emplea **(מכבסים אתשלמתיהם)**, “los que lavan sus vestiduras”; la imagen es de pureza y preparación, no una equivalencia automática con un rito moderno. Fuera queda lo impuro, pero el cierre también llama al sediento: el Espíritu y la novia dicen “ven”, y quien oye repite la invitación (#revelation_22_17).
+Los que lavan sus vestiduras reciben acceso al árbol de vida y a la ciudad por las puertas (#apocalipsis_22_14). El texto local emplea **(מכבסים אתשלמתיהם)**, “los que lavan sus vestiduras”; la imagen es de pureza y preparación, no una equivalencia automática con un rito moderno. Fuera queda lo impuro, pero el cierre también llama al sediento: el Espíritu y la novia dicen “ven”, y quien oye repite la invitación (#apocalipsis_22_17).
 
 Eric retoma aquí la mención de las naciones del capítulo 21. Observa que la visión no debe encerrarse en una entidad étnica: Dios tiene un pueblo escogido de judíos y gentiles, y el gentil no tiene que convertirse en judío cultural para acercarse a la ciudadanía de Israel. Esa lectura se vincula con la invitación al sediento y con la sanidad de las naciones, pero no borra la identidad de Israel ni resuelve por sí sola los debates sobre ciudadanía y pertenencia. **(νύμφη)** (*nymphē*, “novia/esposa”) conserva la imagen de la novia; “novia = una institución concreta” sería una reducción teológica, no el sentido léxico de la palabra.
 
-## No añadir ni quitar: 22:18-21 #revelation_22_18-21
+## No añadir ni quitar: 22:18-21 #apocalipsis_22_18-21
 
-El testigo advierte contra añadir o quitar las palabras de la profecía (#revelation_22_18-19). La clase presenta el cierre como una responsabilidad de leer y enseñar con cuidado: no se debe hacer decir al libro lo que el sistema previo necesita. Finalmente, el que da testimonio dice “vengo pronto”, y la respuesta es “ven, Señor Yehoshua” (#revelation_22_20). La conclusión conserva simultáneamente urgencia, esperanza y gracia; **(ἔρχομαι)** (*erchomai*, “venir”) describe el movimiento anunciado, pero no fija por sí mismo una fecha calculable.
+El testigo advierte contra añadir o quitar las palabras de la profecía (#apocalipsis_22_18-19). La clase presenta el cierre como una responsabilidad de leer y enseñar con cuidado: no se debe hacer decir al libro lo que el sistema previo necesita. Finalmente, el que da testimonio dice “vengo pronto”, y la respuesta es “ven, Señor Yehoshua” (#apocalipsis_22_20). La conclusión conserva simultáneamente urgencia, esperanza y gracia; **(ἔρχομαι)** (*erchomai*, “venir”) describe el movimiento anunciado, pero no fija por sí mismo una fecha calculable.
 
 ## Léxico clave
 

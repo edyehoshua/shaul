@@ -6,7 +6,7 @@ tags:
   - parashot
   - bereshit
 references:
-  - "#bereshit_47_1"
+  - "#genesis_47_1"
 sources:
   - "https://www.youtube.com/watch?v=HJih4KUH6NU"
   - "docs/scriptures/oe/json/genesis/47.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 47 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                                                 | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_47_1 | **ויבא יוסף ויגד לפרעה ויאמר אבי ואחי וצאנם ובקרם וכל אשר להם באו מארץ כנען והנם בארץ גשן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #genesis_47_1 | **ויבא יוסף ויגד לפרעה ויאמר אבי ואחי וצאנם ובקרם וכל אשר להם באו מארץ כנען והנם בארץ גשן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

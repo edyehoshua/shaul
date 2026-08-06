@@ -13,44 +13,44 @@ tags:
   - obediencia
   - mesias
 references:
-  - "#markos_2_1"
-  - "#markos_2_2"
-  - "#markos_2_3"
-  - "#markos_2_4"
-  - "#markos_2_5"
-  - "#markos_2_7"
-  - "#markos_2_10"
-  - "#markos_2_11"
-  - "#markos_2_12"
-  - "#markos_2_13"
-  - "#markos_2_14"
-  - "#markos_2_15"
-  - "#markos_2_17"
-  - "#markos_2_18"
-  - "#markos_2_19"
-  - "#markos_2_21"
-  - "#markos_2_22"
-  - "#markos_2_23"
-  - "#markos_2_24"
-  - "#markos_2_25"
-  - "#markos_2_26"
-  - "#markos_2_27"
-  - "#markos_2_28"
-  - "#irmeiahu_31_31"
-  - "#irmeiahu_31_33"
-  - "#melajim_alef_2_3"
-  - "#melajim_alef_2_4"
-  - "#tehilim_40_7"
-  - "#tehilim_40_8"
-  - "#tehilim_40_9"
-  - "#ivrim_10_5"
-  - "#ivrim_10_7"
-  - "#matityahu_5_18"
-  - "#markos_7_15"
-  - "#markos_7_19"
-  - "#efesiyim_2_1"
-  - "#efesiyim_2_5"
-  - "#sodot_21_3"
+  - "#marcos_2_1"
+  - "#marcos_2_2"
+  - "#marcos_2_3"
+  - "#marcos_2_4"
+  - "#marcos_2_5"
+  - "#marcos_2_7"
+  - "#marcos_2_10"
+  - "#marcos_2_11"
+  - "#marcos_2_12"
+  - "#marcos_2_13"
+  - "#marcos_2_14"
+  - "#marcos_2_15"
+  - "#marcos_2_17"
+  - "#marcos_2_18"
+  - "#marcos_2_19"
+  - "#marcos_2_21"
+  - "#marcos_2_22"
+  - "#marcos_2_23"
+  - "#marcos_2_24"
+  - "#marcos_2_25"
+  - "#marcos_2_26"
+  - "#marcos_2_27"
+  - "#marcos_2_28"
+  - "#jeremias_31_31"
+  - "#jeremias_31_33"
+  - "#1_reyes_2_3"
+  - "#1_reyes_2_4"
+  - "#salmos_40_7"
+  - "#salmos_40_8"
+  - "#salmos_40_9"
+  - "#hebreos_10_5"
+  - "#hebreos_10_7"
+  - "#mateo_5_18"
+  - "#marcos_7_15"
+  - "#marcos_7_19"
+  - "#efesios_2_1"
+  - "#efesios_2_5"
+  - "#apocalipsis_21_3"
 sources:
   - "https://www.youtube.com/watch?v=poyAzSdiTQU"
   - "https://www.youtube.com/watch?v=c_Ww_KfQuwI"
@@ -80,7 +80,7 @@ La obediencia se explica mediante una distinción pedagógica: la Torah contiene
 
 - Fuentes de Eric: _Evangelio Según Marcos Parte 4_, _Parte 5: Introducción a Abá_ y _Parte 6: continuación, Torah, yud y qotz_, clases del **hermano Eric de Jesús Rodríguez Mendoza**. La nota organiza su argumento y no reproduce la transcripción automática como cita literal.
 - Los primeros 22 minutos repasan Ben HaAdam, Daniel 7 y la metamorfosis. Ese material ya está desarrollado en [[markos_ben_adam_metamorfosis_glosario|Marcos: Ben Adam, metamorfosis y glosario mesiánico]].
-- Esta nota se concentra en el material nuevo: #markos_2_5-12, el nuevo pacto, Torah en el corazón, **juqim**, **mishpatim**, voluntad y permanencia de la palabra.
+- Esta nota se concentra en el material nuevo: #marcos_2_5-12, el nuevo pacto, Torah en el corazón, **juqim**, **mishpatim**, voluntad y permanencia de la palabra.
 - El corpus local se usa como base para los textos de la hoja de comparación.
 - Las equivalencias lexicales propuestas por la clase se conservan como marco pedagógico y quedan pendientes de cotejo; no se presentan como traducciones exhaustivas de los términos hebreos.
 
@@ -100,7 +100,7 @@ Los tres `source_ids` son únicos dentro de esta nota y corresponden a créditos
 | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | 00:00-22:10        | Ben HaAdam, reino y metamorfosis | Repaso de la identidad y autoridad del Mesías.                                                                    |
 | 22:10-27:40        | Marcos 1-2 y perdón              | Las obras conducen a la pregunta: ¿quién puede perdonar pecados sino Elohim?                                      |
-| 27:40-36:50        | Iniquidad y nuevo pacto          | La clase rechaza que el nuevo pacto signifique ausencia de Torah; #irmeiahu_31_31-33 la sitúa dentro del pueblo.  |
+| 27:40-36:50        | Iniquidad y nuevo pacto          | La clase rechaza que el nuevo pacto signifique ausencia de Torah; #jeremias_31_31-33 la sitúa dentro del pueblo.  |
 | 36:50-45:30        | Muerte, gracia y restauración    | El ser humano no produce luz por naturaleza; Elohim da vida y comienza la restauración.                           |
 | 45:30-56:00        | Abba, Torah, juqim y mishpatim   | La Torah plena se presenta como sabiduría y voluntad; se distinguen compromisos divinos y procedimientos humanos. |
 | 56:00-01:03:40     | Tradición, levirato y lectura    | Se diferencia el mandato escrito de las ampliaciones humanas y se insiste en leer por principios.                 |
@@ -110,22 +110,22 @@ Los tres `source_ids` son únicos dentro de esta nota y corresponden a créditos
 
 | Referencia          | Texto local                                                                                                                                                              | Función en la clase                                                                                                                  |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #markos_2_1-4       | «Y a los días, otra vez entró en Kefar Najum. [...] Y les habló la palabra» (2:1-2); «hicieron bajar la camilla en la que estaba acostado el privado de miembros» (2:4). | La fe se muestra corporativamente en una aproximación que vence el obstáculo de la multitud.                                         |
-| #markos_2_5         | «Y vio Yeshúa la emunah de ellos, y dijo al privado de miembros: Hijo mío, te son soportadas tus transgresiones».                                                        | El perdón aparece como restauración real, no como una frase sin consecuencias.                                                       |
-| #markos_2_7         | «¿Quién puede soportar las transgresiones sino solamente Elohim?»                                                                                                        | La objeción identifica el peso teológico de lo que Yehoshua acaba de hacer.                                                          |
-| #markos_2_10-11     | «El Ben Ha’Adam tiene poder para soportar las transgresiones en la tierra»; «Levántate, toma tu camilla y ve a tu casa».                                                 | La sanidad visible confirma la autoridad invisible para perdonar.                                                                    |
-| #markos_2_13-17     | «Les enseñaba»; «Ven detrás de Mí»; «Los saludables no están necesitados de sanador, sino los enfermos [...] a los pecadores a teshuváh».                                | El perdón se extiende en un llamado concreto y en una mesa orientada a la restauración, no a la exclusión.                           |
-| #markos_2_18-22     | «No pueden ayunar los hijos del novio mientras está el novio con ellos»; «el vino nuevo en odres nuevos se echa».                                                        | La presencia del novio y la novedad del vino forman la unidad inmediata de la enseñanza sobre ayuno y renovación.                    |
-| #markos_2_23-28     | «Sus discípulos comenzaron a [...] arrancar las espigas»; «El Shabat fue hecho por causa del hombre»; «el Ben Ha’Adam es Dueño del Shabat».                              | La autoridad interpreta la ordenanza desde la necesidad, la Escritura y su propósito; no afirma una abolición general.               |
-| #irmeiahu_31_31     | OE: הנה ימים באים נאם יהוה וכרתי את בית ישראל ואת בית יהודה ברית חדשה                                                                                                    | יהוה promete un pacto nuevo con la casa de Israel y la casa de Iehudáh.                                                              |
-| #irmeiahu_31_33     | OE: נתתי את תורתי בקרבם ועל לבם אכתבנה והייתי להם לאלהים והמה יהיו לי לעם                                                                                                | El nuevo pacto internaliza la Torah y reafirma la relación «Elohim y pueblo»; no define novedad como abolición.                      |
-| #melajim_alef_2_3-4 | OE: David manda a Shlomó guardar la encomienda de יהוה, andar en sus caminos y guardar חקתיו, מצותיו, משפטיו y עדותיו; así יהוה confirmará su palabra.                   | Obediencia humana y palabra divina aparecen unidas sin confundirse.                                                                  |
-| #tehilim_40_7-9     | OE: זבח ומנחה לא חפצת... הנה באתי במגלת ספר כתוב עלי... לעשות רצונך אלהי חפצתי ותורתך בתוך מעי                                                                           | El salmo describe al que viene según el rollo, desea hacer la voluntad de Elohim y lleva su Torah dentro.                            |
-| #ivrim_10_5-7       | Delitzsch cita el salmo y expresa «me preparaste cuerpo» antes de «he aquí, vengo... para hacer tu voluntad».                                                            | La clase conecta el cuerpo preparado con la obediencia concreta del Mesías.                                                          |
-| #matityahu_5_18     | TTH: «ni una letra ni un punto cesará de la Torah o de los profetas, porque todo será establecido».                                                                      | Cierre de la clase: la fidelidad de יהוה alcanza hasta el detalle más pequeño.                                                       |
-| #markos_7_15-19     | TTH: «lo que entra desde fuera no contamina el corazón» y va «al vientre y sale a la letrina».                                                                           | La clase lo usa para distinguir impureza moral de higiene y para discutir añadidos tradicionales sobre alimentos declarados limpios. |
-| #efesiyim_2_1-5     | Delitzsch: muertos en delitos, siguiendo la corriente de este mundo, pero vivificados por misericordia.                                                                  | La Torah escrita en el corazón es obra de gracia; no una cualidad natural intacta en todo ser humano.                                |
-| #sodot_21_3         | Delitzsch: la morada de Elohim está con los hombres; ellos serán su pueblo y Elohim estará con ellos.                                                                    | El hilo del pacto llega a la restauración final de la relación anunciada en Irmeiahu.                                                |
+| #marcos_2_1-4       | «Y a los días, otra vez entró en Kefar Najum. [...] Y les habló la palabra» (2:1-2); «hicieron bajar la camilla en la que estaba acostado el privado de miembros» (2:4). | La fe se muestra corporativamente en una aproximación que vence el obstáculo de la multitud.                                         |
+| #marcos_2_5         | «Y vio Yeshúa la emunah de ellos, y dijo al privado de miembros: Hijo mío, te son soportadas tus transgresiones».                                                        | El perdón aparece como restauración real, no como una frase sin consecuencias.                                                       |
+| #marcos_2_7         | «¿Quién puede soportar las transgresiones sino solamente Elohim?»                                                                                                        | La objeción identifica el peso teológico de lo que Yehoshua acaba de hacer.                                                          |
+| #marcos_2_10-11     | «El Ben Ha’Adam tiene poder para soportar las transgresiones en la tierra»; «Levántate, toma tu camilla y ve a tu casa».                                                 | La sanidad visible confirma la autoridad invisible para perdonar.                                                                    |
+| #marcos_2_13-17     | «Les enseñaba»; «Ven detrás de Mí»; «Los saludables no están necesitados de sanador, sino los enfermos [...] a los pecadores a teshuváh».                                | El perdón se extiende en un llamado concreto y en una mesa orientada a la restauración, no a la exclusión.                           |
+| #marcos_2_18-22     | «No pueden ayunar los hijos del novio mientras está el novio con ellos»; «el vino nuevo en odres nuevos se echa».                                                        | La presencia del novio y la novedad del vino forman la unidad inmediata de la enseñanza sobre ayuno y renovación.                    |
+| #marcos_2_23-28     | «Sus discípulos comenzaron a [...] arrancar las espigas»; «El Shabat fue hecho por causa del hombre»; «el Ben Ha’Adam es Dueño del Shabat».                              | La autoridad interpreta la ordenanza desde la necesidad, la Escritura y su propósito; no afirma una abolición general.               |
+| #jeremias_31_31     | OE: הנה ימים באים נאם יהוה וכרתי את בית ישראל ואת בית יהודה ברית חדשה                                                                                                    | יהוה promete un pacto nuevo con la casa de Israel y la casa de Yehudáh.                                                              |
+| #jeremias_31_33     | OE: נתתי את תורתי בקרבם ועל לבם אכתבנה והייתי להם לאלהים והמה יהיו לי לעם                                                                                                | El nuevo pacto internaliza la Torah y reafirma la relación «Elohim y pueblo»; no define novedad como abolición.                      |
+| #1_reyes_2_3-4 | OE: David manda a Shlomó guardar la encomienda de יהוה, andar en sus caminos y guardar חקתיו, מצותיו, משפטיו y עדותיו; así יהוה confirmará su palabra.                   | Obediencia humana y palabra divina aparecen unidas sin confundirse.                                                                  |
+| #salmos_40_7-9     | OE: זבח ומנחה לא חפצת... הנה באתי במגלת ספר כתוב עלי... לעשות רצונך אלהי חפצתי ותורתך בתוך מעי                                                                           | El salmo describe al que viene según el rollo, desea hacer la voluntad de Elohim y lleva su Torah dentro.                            |
+| #hebreos_10_5-7       | Delitzsch cita el salmo y expresa «me preparaste cuerpo» antes de «he aquí, vengo... para hacer tu voluntad».                                                            | La clase conecta el cuerpo preparado con la obediencia concreta del Mesías.                                                          |
+| #mateo_5_18     | TTH: «ni una letra ni un punto cesará de la Torah o de los profetas, porque todo será establecido».                                                                      | Cierre de la clase: la fidelidad de יהוה alcanza hasta el detalle más pequeño.                                                       |
+| #marcos_7_15-19     | TTH: «lo que entra desde fuera no contamina el corazón» y va «al vientre y sale a la letrina».                                                                           | La clase lo usa para distinguir impureza moral de higiene y para discutir añadidos tradicionales sobre alimentos declarados limpios. |
+| #efesios_2_1-5     | Delitzsch: muertos en delitos, siguiendo la corriente de este mundo, pero vivificados por misericordia.                                                                  | La Torah escrita en el corazón es obra de gracia; no una cualidad natural intacta en todo ser humano.                                |
+| #apocalipsis_21_3         | Delitzsch: la morada de Elohim está con los hombres; ellos serán su pueblo y Elohim estará con ellos.                                                                    | El hilo del pacto llega a la restauración final de la relación anunciada en Yirmeyahu.                                                |
 
 ## Hoja léxica
 
@@ -136,15 +136,15 @@ Los tres `source_ids` son únicos dentro de esta nota y corresponden a créditos
 | **(משפטים)**    | mishpatim       | procedimientos que el pueblo debe ejecutar              | Pedagógica                | משפטים también puede significar juicios, decisiones o normas jurídicas; «procedimientos» no agota el término.                                               |
 | **(מצות)**      | mitzvot         | competencias formadas por la práctica de acciones       | Pedagógica                | La derivación expuesta desde múltiples mishpatim no se ha verificado en un léxico histórico.                                                                |
 | **(עדות)**      | edot            | testimonios de lo que Elohim hizo y hará                | Aproximada                | El término puede nombrar testimonio, señal o estipulación testimonial.                                                                                      |
-| **(ברית חדשה)** | berit jadasháh  | pacto nuevo                                             | Exacta en #irmeiahu_31_31 | Su contenido explícito incluye Torah en el interior y sobre el corazón.                                                                                     |
+| **(ברית חדשה)** | berit jadasháh  | pacto nuevo                                             | Exacta en #jeremias_31_31 | Su contenido explícito incluye Torah en el interior y sobre el corazón.                                                                                     |
 | **(ἀνομία)**    | anomía          | iniquidad, ilegalidad u oposición a la norma            | Aproximada                | La relación pedagógica con «no-Torah» puede orientar la clase, pero la forma griega debe revisarse pasaje por pasaje y no reducirse a una etimología única. |
-| **(יוד)**       | yod             | letra pequeña usada en #matityahu_5_18                  | Aproximada                | TTH vierte «letra»; la identificación con yod depende del texto griego y del trasfondo hebreo.                                                              |
+| **(יוד)**       | yod             | letra pequeña usada en #mateo_5_18                  | Aproximada                | TTH vierte «letra»; la identificación con yod depende del texto griego y del trasfondo hebreo.                                                              |
 | **(קוץ)**       | qotz            | punta o pequeño trazo de una letra                      | Aproximada                | La clase lo llama «espina» y lo relaciona con la caligrafía de los rollos; verificar terminología escribal y forma histórica.                               |
 
 ## Una fe que abre camino hasta la palabra
 
 <!-- prettier-ignore -->
-El capítulo comienza con una escena que no debe desaparecer detrás del debate sobre el perdón. En #markos_2_1-4 Yehoshua vuelve a Kefar Najum y encuentra una casa llena: primero les habla la palabra, luego cuatro personas cargan a un privado de miembros y, al no poder acercarse por la multitud, abren el techo y bajan la camilla. **πίστις**, _pistis_, aparece en 2:5 como «fe», «fidelidad» o confianza; el texto habla de la fe de «ellos», de modo que el movimiento comunitario de quienes cargan forma parte del marco narrativo, aunque no permita definir la fe como una fuerza mecánica que obliga a Elohim.
+El capítulo comienza con una escena que no debe desaparecer detrás del debate sobre el perdón. En #marcos_2_1-4 Yehoshua vuelve a Kefar Najum y encuentra una casa llena: primero les habla la palabra, luego cuatro personas cargan a un privado de miembros y, al no poder acercarse por la multitud, abren el techo y bajan la camilla. **πίστις**, _pistis_, aparece en 2:5 como «fe», «fidelidad» o confianza; el texto habla de la fe de «ellos», de modo que el movimiento comunitario de quienes cargan forma parte del marco narrativo, aunque no permita definir la fe como una fuerza mecánica que obliga a Elohim.
 
 Eric retoma esta escena para presentar al Ben HaAdam como heredero y portador de autoridad, y para mostrar que la restauración no es una idea desencarnada. La nota conserva la observación en su límite más firme: Marcos sí une la fe observada, la palabra de perdón y la orden de levantarse. La posterior conexión de la clase entre **(בן האדם)**, _Ben HaAdam_, y una categoría de heredero es una lectura semítica aproximada; no sustituye la forma griega **ὁ υἱὸς τοῦ ἀνθρώπου** ni resuelve por sí sola sus ecos de Daniel.
 
@@ -157,15 +157,15 @@ La clase entiende «perdonar» en un sentido más amplio que cancelar una deuda 
 Las partes 5 y 6 retoman el mismo episodio de Marcos 2 para preguntar cómo puede el Ben HaAdam hablar de perdón y, a la vez, orar al Padre. Eric propone una cadena pedagógica: **(בן האדם)**, _Ben HaAdam_, no debe reducirse a «un humano», sino leerse en relación con el heredero del reino; **(אב)**, _av_, nombra padre y puede extenderse a origen; **(אבא)**, _abba_, es la forma aramea de padre. La observación de que «Abba» puede tener un campo más amplio que el uso doméstico es útil, pero no convierte «origen» en el sentido único de cada aparición. En este capítulo, la prueba más firme sigue siendo narrativa: Yehoshua perdona, ordena levantarse y el hombre obedece.
 
 <!-- prettier-ignore -->
-La parte 7 enlaza Abba con la sabiduría de lo alto, la plenitud de la Torah y la mente del Mesías. Eric usa #qorintiyim_alef_2_12-16 y #ieshaiahu_40_13 para explicar que la comunidad recibe el **(רוח)**, _ruaj_, que proviene de Elohim y que «mente» y «espíritu» no deben separarse mecánicamente. El local de Marcos 2 no contiene esa cadena apostólica, por lo que la nota la presenta como dependencia interpretativa y no como traducción escondida del relato. La equivalencia entre **(רוח)** y **(νοῦς)** es aproximada: comparten campos de discernimiento en la conexión citada, pero no son formas intercambiables en todos los contextos.
+La parte 7 enlaza Abba con la sabiduría de lo alto, la plenitud de la Torah y la mente del Mesías. Eric usa #1_corintios_2_12-16 y #isaias_40_13 para explicar que la comunidad recibe el **(רוח)**, _ruaj_, que proviene de Elohim y que «mente» y «espíritu» no deben separarse mecánicamente. El local de Marcos 2 no contiene esa cadena apostólica, por lo que la nota la presenta como dependencia interpretativa y no como traducción escondida del relato. La equivalencia entre **(רוח)** y **(νοῦς)** es aproximada: comparten campos de discernimiento en la conexión citada, pero no son formas intercambiables en todos los contextos.
 
-Estas clases también vuelven a la promesa del nuevo pacto. «Abba» como plenitud no sustituye la Torah por una interioridad sin contenido: #irmeiahu_31_33 dice que יהוה la pone dentro y la escribe sobre el corazón. Por eso la lectura del perdón debe culminar en una vida que camina, no en una absolución que cancela la obediencia. El vínculo entre los videos y Marcos 2 queda así delimitado: el episodio prueba autoridad y restauración; las clases posteriores desarrollan la fuente, la sabiduría y la obediencia como conexiones teológicas.
+Estas clases también vuelven a la promesa del nuevo pacto. «Abba» como plenitud no sustituye la Torah por una interioridad sin contenido: #jeremias_31_33 dice que יהוה la pone dentro y la escribe sobre el corazón. Por eso la lectura del perdón debe culminar en una vida que camina, no en una absolución que cancela la obediencia. El vínculo entre los videos y Marcos 2 queda así delimitado: el episodio prueba autoridad y restauración; las clases posteriores desarrollan la fuente, la sabiduría y la obediencia como conexiones teológicas.
 
 ## El nuevo pacto escribe Torah dentro
 
-El centro textual de la clase es #irmeiahu_31_31-33. La novedad del pacto no consiste en que יהוה quite su Torah, sino en que cambia el lugar de inscripción: la pone **dentro** de su pueblo y la escribe **sobre el corazón**. La misma promesa concluye: «seré para ellos Elohim y ellos serán para mí pueblo».
+El centro textual de la clase es #jeremias_31_31-33. La novedad del pacto no consiste en que יהוה quite su Torah, sino en que cambia el lugar de inscripción: la pone **dentro** de su pueblo y la escribe **sobre el corazón**. La misma promesa concluye: «seré para ellos Elohim y ellos serán para mí pueblo».
 
-Esto permite distinguir posesión externa e internalización. Una persona puede tener acceso físico a un texto y, aun así, no amar su voluntad. La obra prometida por יהוה transforma el interior para que la obediencia no sea mera presión externa. En la lógica de la clase, esta obra es gracia: #efesiyim_2_1-5 parte de muerte y desobediencia, no de una Torah naturalmente intacta en todo ser humano.
+Esto permite distinguir posesión externa e internalización. Una persona puede tener acceso físico a un texto y, aun así, no amar su voluntad. La obra prometida por יהוה transforma el interior para que la obediencia no sea mera presión externa. En la lógica de la clase, esta obra es gracia: #efesios_2_1-5 parte de muerte y desobediencia, no de una Torah naturalmente intacta en todo ser humano.
 
 ## Promesa divina y respuesta humana
 
@@ -178,44 +178,44 @@ La clase organiza la Torah en dos movimientos complementarios:
 
 La distinción es útil aunque el vocabulario exacto todavía deba verificarse. Evita tratar la obediencia como una técnica que obliga a יהוה: primero está su palabra soberana; después, el pueblo camina conforme a ella. También evita una gracia sin respuesta: la promesa escrita en el corazón produce una vida orientada por la voluntad de Elohim.
 
-#melajim_alef_2_3-4 reúne ambas direcciones. David encarga a Shlomó guardar caminos, juqim, mitzvot, mishpatim y edot; יהוה, por su parte, confirma la palabra que había hablado. El hombre no fabrica la promesa, pero tampoco puede llamar fidelidad a la desobediencia.
+#1_reyes_2_3-4 reúne ambas direcciones. David encarga a Shlomó guardar caminos, juqim, mitzvot, mishpatim y edot; יהוה, por su parte, confirma la palabra que había hablado. El hombre no fabrica la promesa, pero tampoco puede llamar fidelidad a la desobediencia.
 
 ## El Mesías lleva la Torah en sus entrañas
 
-#tehilim_40_7-9 da forma mesiánica al argumento. El que viene según el rollo no busca una vía fuera de la voluntad de Elohim: se deleita en hacerla y confiesa que la Torah está dentro de sus entrañas. #ivrim_10_5-7 toma ese salmo y lo relaciona con el cuerpo preparado para hacer esa voluntad.
+#salmos_40_7-9 da forma mesiánica al argumento. El que viene según el rollo no busca una vía fuera de la voluntad de Elohim: se deleita en hacerla y confiesa que la Torah está dentro de sus entrañas. #hebreos_10_5-7 toma ese salmo y lo relaciona con el cuerpo preparado para hacer esa voluntad.
 
 La encarnación y la obediencia no aparecen separadas. El cuerpo es el ámbito donde la voluntad se ejecuta. La clase enlaza esta línea con la inmersión del Mesías: «conviene que cumplamos toda justicia». Aun siendo Señor, Yehoshua no trata la palabra como algo que puede saltarse; la llena mediante obediencia perfecta.
 
 ## Torah y tradición humana
 
-La clase diferencia los procedimientos que nacen del texto de aquellos que una tradición añade y luego convierte en criterio absoluto. #markos_7_15-19 sirve como caso de estudio: Yehoshua distingue lo que entra al vientre de lo que sale del corazón. El expositor entiende que el pasaje no redefine como alimento todo lo que la Torah había excluido, sino que rechaza la idea de que manos ritualmente impuras cambien la naturaleza de aquello que Elohim declaró limpio.
+La clase diferencia los procedimientos que nacen del texto de aquellos que una tradición añade y luego convierte en criterio absoluto. #marcos_7_15-19 sirve como caso de estudio: Yehoshua distingue lo que entra al vientre de lo que sale del corazón. El expositor entiende que el pasaje no redefine como alimento todo lo que la Torah había excluido, sino que rechaza la idea de que manos ritualmente impuras cambien la naturaleza de aquello que Elohim declaró limpio.
 
 Esta lectura debe mantenerse ligada al contexto completo de Marcos 7 y cotejarse con el griego. Su aporte metodológico es claro: higiene, impureza ritual, contaminación moral y clasificación alimentaria no deben mezclarse como si fueran una sola categoría.
 
 ## Ni una yod ni un qotz
 
-La clase termina con #matityahu_5_18. La yod representa lo pequeño; el qotz, el detalle diminuto del trazo. La imagen subraya que la palabra de Elohim no es descartable ni siquiera en sus rasgos que parecen menores al lector.
+La clase termina con #mateo_5_18. La yod representa lo pequeño; el qotz, el detalle diminuto del trazo. La imagen subraya que la palabra de Elohim no es descartable ni siquiera en sus rasgos que parecen menores al lector.
 
 El punto no es convertir cada discusión caligráfica en doctrina, sino afirmar la fidelidad del que habló. Cielo y tierra pueden pasar; יהוה no abandona su propósito. El Mesías cumple la voluntad escrita acerca de él, y el nuevo pacto lleva esa voluntad al interior del pueblo.
 
 ## La autoridad que perdona produce un camino visible
 
 <!-- prettier-ignore -->
-La escena de #markos_2_5-12 y la discusión posterior sobre la Torah no deben quedar como dos temas desconectados. El paralítico recibe primero una palabra de perdón y después una orden: levantarse, tomar la camilla y volver a su casa. **ἀφίενται**, _aphientai_, «son perdonadas» o «son dejadas», es una forma presente pasiva en 2:5; la construcción deja a Yehoshua como quien pronuncia el resultado recibido, aunque la forma por sí sola no resuelva todas las preguntas doctrinales sobre el perdón. En 2:10, **ἐξουσία**, _exousia_, nombra autoridad o derecho para actuar; el término explica la afirmación de que el Ben HaAdam tiene autoridad «en la tierra», no una licencia humana para manipular la conciencia de otros.
+La escena de #marcos_2_5-12 y la discusión posterior sobre la Torah no deben quedar como dos temas desconectados. El paralítico recibe primero una palabra de perdón y después una orden: levantarse, tomar la camilla y volver a su casa. **ἀφίενται**, _aphientai_, «son perdonadas» o «son dejadas», es una forma presente pasiva en 2:5; la construcción deja a Yehoshua como quien pronuncia el resultado recibido, aunque la forma por sí sola no resuelva todas las preguntas doctrinales sobre el perdón. En 2:10, **ἐξουσία**, _exousia_, nombra autoridad o derecho para actuar; el término explica la afirmación de que el Ben HaAdam tiene autoridad «en la tierra», no una licencia humana para manipular la conciencia de otros.
 
 La respuesta visible confirma el orden del relato. **Ἔγειρε**, _egeire_, «levántate», es un imperativo; **ἆρόν**, _aron_, «toma», y **ὕπαγε**, _hypage_, «ve», completan la cadena de obediencia. Marcos no presenta la camilla como mérito que compra el perdón, sino como señal de que la palabra de Yehoshua no deja al hombre definido por su inmovilidad anterior. Esta observación conserva el énfasis de Eric sobre restauración y justicia practicada, pero lo prueba dentro de la perícopa: primero está la palabra de gracia, luego la acción que responde a ella.
 
-Ese patrón ayuda a leer Irmeiahu 31 sin forzar una oposición entre interioridad y mandamiento. La Torah escrita en el corazón no es una colección de méritos que obliga a יהוה; es la promesa de que el pueblo podrá conocer su voluntad y vivir como pueblo del pacto. En Marcos 2, la restauración tampoco termina en una declaración privada: el hombre vuelve a caminar delante de la comunidad. La conexión entre ambos pasajes es teológica y canónica, no una afirmación de que Marcos esté citando explícitamente Irmeiahu; su punto común más seguro es una gracia que restaura para una vida obediente.
+Ese patrón ayuda a leer Yirmeyahu 31 sin forzar una oposición entre interioridad y mandamiento. La Torah escrita en el corazón no es una colección de méritos que obliga a יהוה; es la promesa de que el pueblo podrá conocer su voluntad y vivir como pueblo del pacto. En Marcos 2, la restauración tampoco termina en una declaración privada: el hombre vuelve a caminar delante de la comunidad. La conexión entre ambos pasajes es teológica y canónica, no una afirmación de que Marcos esté citando explícitamente Yirmeyahu; su punto común más seguro es una gracia que restaura para una vida obediente.
 
 ## Conexiones principales
 
-- #markos_2_5-11 con #irmeiahu_31_33: el que perdona y levanta también inaugura la restauración interior prometida.
-- #irmeiahu_31_33 con #sodot_21_3: «ellos serán mi pueblo» atraviesa la Escritura hasta la morada final de Elohim con los hombres.
-- #melajim_alef_2_3-4 con #tehilim_40_7-9: guardar el camino y deleitarse en la voluntad unen al rey de Israel con la obediencia perfecta del Mesías.
-- #tehilim_40_7-9 con #ivrim_10_5-7: Torah en las entrañas y cuerpo preparado describen obediencia encarnada.
-- #matityahu_5_18 con #irmeiahu_31_33: la Torah no cesa; יהוה la escribe donde puede producir una respuesta viva.
+- #marcos_2_5-11 con #jeremias_31_33: el que perdona y levanta también inaugura la restauración interior prometida.
+- #jeremias_31_33 con #apocalipsis_21_3: «ellos serán mi pueblo» atraviesa la Escritura hasta la morada final de Elohim con los hombres.
+- #1_reyes_2_3-4 con #salmos_40_7-9: guardar el camino y deleitarse en la voluntad unen al rey de Israel con la obediencia perfecta del Mesías.
+- #salmos_40_7-9 con #hebreos_10_5-7: Torah en las entrañas y cuerpo preparado describen obediencia encarnada.
+- #mateo_5_18 con #jeremias_31_33: la Torah no cesa; יהוה la escribe donde puede producir una respuesta viva.
 
-## Control de dependencia: del llamado al señorío sobre el Shabbat (2:13-28) #markos_2_13-28
+## Control de dependencia: del llamado al señorío sobre el Shabbat (2:13-28) #marcos_2_13-28
 
 La autoridad que se revela en el perdón no queda encerrada en la casa de Kefar Najum. En 2:13-17, **ἠκολούθησεν**, _ēkolouthēsen_, «siguió», narra la respuesta de Levi después del imperativo **ἀκολούθει**, _akolouthei_, «sígueme». El movimiento confirma una dependencia importante: la misericordia que Yehoshua anuncia no es mera tolerancia de una condición anterior, sino una llamada que reordena la vida. Cuando los perushim preguntan por la mesa, **ἔλεος**, _eleos_, «misericordia o compasión», gobierna la respuesta; su relación con **(חסד)**, _jesed_, «bondad leal», es una equivalencia de campo y no una traducción oculta del griego.
 
@@ -223,7 +223,7 @@ La escena del novio limita además la lectura de «nuevo». En 2:19, **νυμφ�
 
 El último movimiento lleva la pregunta a la necesidad y al propósito del Shabbat. **ἔξεστιν**, _exestin_, «es lícito o está permitido», formula el problema de 2:24; Yehoshua responde con la memoria de David y concluye que el Shabbat fue hecho para el ser humano. **κύριός**, _kyrios_, «señor o dueño», califica al Hijo del Hombre respecto del Shabbat, mientras **ἐγένετο**, _egeneto_, «llegó a ser o fue hecho», señala el propósito de la ordenanza. La relación con **(שבת)**, _Shabbat_, «reposo», es contextual. Leído en orden, Marcos 2 no opone gracia y obediencia: muestra perdón que levanta, misericordia que llama y autoridad que discierne para la vida.
 
-## Control añadido: la autoridad se extiende sin romper la secuencia (2:1-28) #markos_2_1-28
+## Control añadido: la autoridad se extiende sin romper la secuencia (2:1-28) #marcos_2_1-28
 
 Marcos 2 debe leerse como un movimiento único. En 2:1-12, **ἀφίημι**, _aphiēmi_, «perdonar, remitir o dejar ir», aparece en la palabra dirigida al paralítico, y **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica la afirmación del Ben HaAdam en la tierra. La orden **ἔγειρε**, _egeire_, «levántate», no convierte el movimiento del hombre en pago por el perdón: la camilla visible confirma ante la multitud la palabra que los escribas cuestionaron. La comparación con **(סלח)**, _salaj_, «perdonar», es funcional y aproximada; el relato de Marcos gobierna la equivalencia.
 
@@ -233,34 +233,34 @@ Los vv. 23-28 llevan la misma autoridad a una necesidad concreta en Shabbat. **�
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **(חוקים)** en léxicos y en #mishlei_30_8, #irmeiahu_31_35-36 y #irmeiahu_33_20-26 antes de definirlo de forma general como «promesa inamovible».
+- [ ] Cotejar **(חוקים)** en léxicos y en #proverbios_30_8, #jeremias_31_35-36 y #jeremias_33_20-26 antes de definirlo de forma general como «promesa inamovible».
 - [ ] Cotejar **(משפטים)** como «procedimiento» frente a sus usos de juicio, decisión legal, derecho y norma.
 - [ ] Verificar la propuesta de **mitzvá** como «competencia» formada por múltiples mishpatim.
 - [ ] Revisar **(ἀνομία)** en los pasajes apostólicos citados por la clase y evitar convertir su etimología en una definición única.
-- [ ] Cotejar #markos_7_19 en griego y su relación sintáctica con «purificando todos los alimentos».
-- [ ] Verificar la afirmación de la clase sobre un máximo de dos matrimonios y su relación con levirato; #devarim_25_5-10 no formula explícitamente ese límite.
+- [ ] Cotejar #marcos_7_19 en griego y su relación sintáctica con «purificando todos los alimentos».
+- [ ] Verificar la afirmación de la clase sobre un máximo de dos matrimonios y su relación con levirato; #deuteronomio_25_5-10 no formula explícitamente ese límite.
 - [ ] Revisar la terminología escribal sobre **yod**, **qotz** y la invalidez de un rollo por un trazo defectuoso.
-- [ ] Cotejar la equivalencia de #tehilim_40_7 «abriste/cavaste oídos» con #ivrim_10_5 «me preparaste cuerpo» en hebreo, LXX y griego de Ivrim.
+- [ ] Cotejar la equivalencia de #salmos_40_7 «abriste/cavaste oídos» con #hebreos_10_5 «me preparaste cuerpo» en hebreo, LXX y griego de Ivrim.
 
 ## Prueba final: perdón recibido, Torah interior y obediencia visible
 
 Marcos 2 no deja que el perdón se vuelva una abstracción separada del cuerpo. En 2:5, **ἀφίενται**, _aphientai_, «son perdonadas» o «son dejadas», presenta el perdón como resultado declarado; en 2:10, **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica la afirmación del Ben HaAdam; y en 2:11 aparecen los imperativos **ἔγειρε**, _egeire_, «levántate», **ἆρόν**, _aron_, «toma», y **ὕπαγε**, _hypage_, «ve». La secuencia no convierte la acción del hombre en pago por la gracia: muestra que la palabra recibida produce una restauración pública y un camino nuevo.
 
-La conexión con Irmeiahu 31 debe conservar el mismo orden. **(תורה)**, _Torah_, significa instrucción, enseñanza u orientación, no solo «ley» moderna; **(ברית חדשה)**, _berit jadashah_, significa pacto nuevo, y su contenido explícito incluye que la Torah sea puesta dentro y escrita sobre el corazón. La relación con Marcos es canónica y teológica, no una cita formal: la autoridad que perdona y levanta armoniza con una promesa de restauración interior, pero cada pasaje conserva su contexto. La equivalencia entre **(לב)**, _lev_, «corazón», y **καρδία**, _kardia_, es aproximada; ambos pueden señalar el centro interior, pero no deben intercambiarse sin atender a la sintaxis.
+La conexión con Yirmeyahu 31 debe conservar el mismo orden. **(תורה)**, _Torah_, significa instrucción, enseñanza u orientación, no solo «ley» moderna; **(ברית חדשה)**, _berit jadashah_, significa pacto nuevo, y su contenido explícito incluye que la Torah sea puesta dentro y escrita sobre el corazón. La relación con Marcos es canónica y teológica, no una cita formal: la autoridad que perdona y levanta armoniza con una promesa de restauración interior, pero cada pasaje conserva su contexto. La equivalencia entre **(לב)**, _lev_, «corazón», y **καρδία**, _kardia_, es aproximada; ambos pueden señalar el centro interior, pero no deben intercambiarse sin atender a la sintaxis.
 
 La distinción de Eric entre palabra que Elohim sostiene y procedimientos que el pueblo practica también requiere límites léxicos. **(חקים)**, _juqim_, puede significar estatutos o decretos, y **(משפטים)**, _mishpatim_, juicios, decisiones o normas; «promesas divinas» y «procedimientos humanos» son glosas pedagógicas, no sentidos exhaustivos. El texto local de Melajim Alef 2:3-4 sí mantiene juntos mandato humano y palabra prometida, mientras Tehilim 40:7-9 presenta deseo de hacer la voluntad y Torah interior. Así, la obediencia del Mesías y la restauración del paralítico no enseñan que el ser humano obligue a Elohim: responden a una palabra que primero concede vida.
 
 ## Mapa de la enseñanza de Eric
 
-- **#markos_2_1-5 — fe comunitaria que acerca al incapacitado:** Eric presenta la escena como una entrada al tema de la autoridad del Ben HaAdam: quienes cargan al hombre abren camino y Yehoshua responde a la fe observada con una palabra de restauración. El texto apoya la secuencia de casa, palabra, camilla, techo y perdón; la lectura de Ben HaAdam como heredero queda cualificada como conexión semítica.
-- **#markos_2_5-12 — perdón que se verifica al levantar al paralítico.** Eric observa que la declaración de perdón no queda como una afirmación invisible: la pregunta de los escribas prepara la señal pública, y la orden de tomar la camilla muestra en la tierra la autoridad del **Ben HaAdam**. La nota conserva esa lectura porque la secuencia narrativa y la objeción de #markos_2_7 la sostienen; precisa, sin embargo, que la afirmación «solo Elohim puede perdonar» es la objeción de los escribas dentro del relato y no una cita doctrinal aislada.
-- **#irmeiahu_31_31-33 — el pacto nuevo no elimina la Torah.** Eric toma la promesa de escribir la Torah dentro del pueblo como respuesta a la idea de que el nuevo pacto aboliría la instrucción divina. La nota la evalúa como apoyo textual directo: el pasaje nombra tanto el pacto nuevo como la Torah puesta en el interior y sobre el corazón. La aplicación a la restauración mesiánica se mantiene como conexión teológica, no como afirmación de que el pasaje mencione explícitamente Marcos 2.
-- **#melajim_alef_2_3-4; #tehilim_40_7-9 — promesa divina y obediencia humana.** Eric distingue pedagógicamente entre lo que יהוה promete y sostiene, y el camino que el pueblo debe practicar; luego relaciona la obediencia de Shlomó y del salmo con el Mesías que viene según el rollo y lleva la Torah dentro. La nota conserva el contraste porque ambos textos vinculan palabra y obediencia, pero clasifica como pendiente la definición lexical exhaustiva de **(חקים)**, **(משפטים)** y las equivalencias entre el salmo hebreo y #ivrim_10_5-7.
-- **#markos_7_15-19; #matityahu_5_18 — tradición, corazón y permanencia del detalle.** Eric usa Marcos 7 para separar contaminación moral, impureza ritual y añadidos tradicionales, y Mateo 5:18 para insistir en que ni una yod ni un qotz vuelve descartable la Torah. La nota conserva la observación metodológica y la conecta con los textos locales; deja pendiente el cotejo griego de #markos_7_19 y la terminología escribal de yod/qotz, sin presentar la explicación pedagógica como lexicografía demostrada.
-- **#markos_2_5-12; partes 5 y 6 — Abba, Ben HaAdam y autoridad para reconciliar.** Eric retoma el perdón del paralítico mientras explica **(אב)**, **(אבא)** y **(בן האדם)** como lenguaje de origen, sabiduría y heredero. Marcos sostiene la autoridad visible del Ben HaAdam y la restauración; la ampliación semítica es pedagógica y no reemplaza la escena.
-- **#qorintiyim_alef_2_12-16; parte 7 — ruaj, mente y sabiduría de lo alto.** Eric enlaza el ruaj recibido con la mente del Mesías y llama Abba a la profundidad de esa sabiduría. La conexión se conserva como desarrollo apostólico relacionado; la equivalencia entre **(רוח)** y **(νοῦς)** se marca como aproximada y no como contenido explícito de Marcos 2.
+- **#marcos_2_1-5 — fe comunitaria que acerca al incapacitado:** Eric presenta la escena como una entrada al tema de la autoridad del Ben HaAdam: quienes cargan al hombre abren camino y Yehoshua responde a la fe observada con una palabra de restauración. El texto apoya la secuencia de casa, palabra, camilla, techo y perdón; la lectura de Ben HaAdam como heredero queda cualificada como conexión semítica.
+- **#marcos_2_5-12 — perdón que se verifica al levantar al paralítico.** Eric observa que la declaración de perdón no queda como una afirmación invisible: la pregunta de los escribas prepara la señal pública, y la orden de tomar la camilla muestra en la tierra la autoridad del **Ben HaAdam**. La nota conserva esa lectura porque la secuencia narrativa y la objeción de #marcos_2_7 la sostienen; precisa, sin embargo, que la afirmación «solo Elohim puede perdonar» es la objeción de los escribas dentro del relato y no una cita doctrinal aislada.
+- **#jeremias_31_31-33 — el pacto nuevo no elimina la Torah.** Eric toma la promesa de escribir la Torah dentro del pueblo como respuesta a la idea de que el nuevo pacto aboliría la instrucción divina. La nota la evalúa como apoyo textual directo: el pasaje nombra tanto el pacto nuevo como la Torah puesta en el interior y sobre el corazón. La aplicación a la restauración mesiánica se mantiene como conexión teológica, no como afirmación de que el pasaje mencione explícitamente Marcos 2.
+- **#1_reyes_2_3-4; #salmos_40_7-9 — promesa divina y obediencia humana.** Eric distingue pedagógicamente entre lo que יהוה promete y sostiene, y el camino que el pueblo debe practicar; luego relaciona la obediencia de Shlomó y del salmo con el Mesías que viene según el rollo y lleva la Torah dentro. La nota conserva el contraste porque ambos textos vinculan palabra y obediencia, pero clasifica como pendiente la definición lexical exhaustiva de **(חקים)**, **(משפטים)** y las equivalencias entre el salmo hebreo y #hebreos_10_5-7.
+- **#marcos_7_15-19; #mateo_5_18 — tradición, corazón y permanencia del detalle.** Eric usa Marcos 7 para separar contaminación moral, impureza ritual y añadidos tradicionales, y Mateo 5:18 para insistir en que ni una yod ni un qotz vuelve descartable la Torah. La nota conserva la observación metodológica y la conecta con los textos locales; deja pendiente el cotejo griego de #marcos_7_19 y la terminología escribal de yod/qotz, sin presentar la explicación pedagógica como lexicografía demostrada.
+- **#marcos_2_5-12; partes 5 y 6 — Abba, Ben HaAdam y autoridad para reconciliar.** Eric retoma el perdón del paralítico mientras explica **(אב)**, **(אבא)** y **(בן האדם)** como lenguaje de origen, sabiduría y heredero. Marcos sostiene la autoridad visible del Ben HaAdam y la restauración; la ampliación semítica es pedagógica y no reemplaza la escena.
+- **#1_corintios_2_12-16; parte 7 — ruaj, mente y sabiduría de lo alto.** Eric enlaza el ruaj recibido con la mente del Mesías y llama Abba a la profundidad de esa sabiduría. La conexión se conserva como desarrollo apostólico relacionado; la equivalencia entre **(רוח)** y **(νοῦς)** se marca como aproximada y no como contenido explícito de Marcos 2.
 
-## Prueba del llamado: misericordia que busca teshuváh (2:13-17) #markos_2_13-17
+## Prueba del llamado: misericordia que busca teshuváh (2:13-17) #marcos_2_13-17
 
 La afirmación «no he venido a llamar a justos, sino a pecadores» necesita leerse junto con el movimiento de Levi. **καλεῖν**, _kalein_, «llamar o convocar», es un infinitivo dependiente de la declaración de Yehoshua; no significa simplemente tolerar a quienes permanecen sin cambio. El relato ya mostró **ἀκολούθει**, _akolouthei_, «sígueme», y **ἠκολούθησεν**, _ēkolouthēsen_, «siguió»: la mesa nace de una convocatoria que obtiene una respuesta visible.
 
@@ -278,7 +278,7 @@ El llamado de Levi desplaza la pregunta desde el cuerpo restaurado hacia la mesa
 
 Finalmente, las espigas y el Shabbat muestran que la autoridad del Ben HaAdam no es una licencia para despreciar todo mandamiento. **(ἐποίησεν)**, _epoiēsen_, «hizo», y **(ἐξέστησεν)**, _exestēsen_, «dejó asombrados», describen el efecto de la acción de Yehoshua, mientras la discusión gira alrededor de lo permitido y de la necesidad humana. El argumento de David y los panes consagrados prueba que la Escritura ya conoce casos en que la preservación de la vida y el propósito del culto importan para juzgar una aplicación. Marcos 2, leído en orden, presenta perdón, llamado, misericordia y discernimiento del Shabbat; no una abolición general de la Torah.
 
-## Control de la secuencia completa: perdón, mesa y Shabbat (2:1-28) #markos_2_1-28
+## Control de la secuencia completa: perdón, mesa y Shabbat (2:1-28) #marcos_2_1-28
 
 La segunda mitad del capítulo confirma que la autoridad anunciada al paralítico no elimina el llamado ni el discernimiento. En 2:13-17, **ἀκολούθει** (_akolouthei_, «sígueme») ordena a Levi una respuesta concreta; **κατακεῖσθαι** (_katakeisthai_, «estar reclinado») describe la mesa donde Yehoshua come con publicanos y pecadores; y **ἔλεος** (_eleos_, «misericordia») nombra, en la cita de Oseas, la prioridad que corrige una religiosidad sin compasión. La frase no contrapone misericordia y obediencia como enemigos: denuncia que el rito sea usado para evitar la restauración del pecador.
 
@@ -288,7 +288,7 @@ En 2:23-28, los discípulos arrancan espigas y los perushim cuestionan la acció
 
 Así, Marcos 2 avanza desde una palabra de perdón hacia una mesa que llama a pecadores, una discusión sobre ayuno y un discernimiento del Shabbat. La autoridad del Ben HaAdam no es una licencia para despreciar la instrucción, sino la autoridad que restaura, interpreta y dirige a la misericordia. Esta secuencia también limita las equivalencias semíticas: **חסד** (_jesed_, «bondad leal o misericordia») puede iluminar **ἔλεος**, pero no reemplaza la forma griega ni demuestra que cada aplicación de Eric sea una traducción literal.
 
-## Verificación dirigida: la autoridad del Ben HaAdam interpreta sin abolir (2:13-28) #markos_2_13-28
+## Verificación dirigida: la autoridad del Ben HaAdam interpreta sin abolir (2:13-28) #marcos_2_13-28
 
 La secuencia posterior prueba la afirmación de Eric con escenas distintas. En 2:13-17, Yehoshua vuelve a enseñar junto al mar, ve a Levi y le dice **(ἀκολούθει)**, _akolouthei_, «sígueme»; el presente imperativo presenta una respuesta continua, no solo un traslado físico. Levi se levanta y lo sigue, y la mesa con publicanos y pecadores provoca la pregunta de los escribas. La explicación **(οὐ χρείαν ἔχουσιν)**, _ou chreian echousin_, «no tienen necesidad», y **(μετανοήσωσιν)**, _metanoēsōsin_, «se arrepientan o cambien de mente», dirige la misión hacia quienes reconocen necesidad. La relación pedagógica con **(חסד)**, _jesed_, «bondad leal o misericordia», ilumina la cita profética, pero no convierte el griego en una retroversión hebrea.
 
@@ -312,25 +312,25 @@ Las fuentes públicas se mantienen separadas por función. `youtube:poyAzSdiTQU`
 
 El recorrido permanece en orden: (1) la fe de quienes acercan al paralítico y el perdón declarado; (2) la autoridad del Ben HaAdam verificada al levantarlo; (3) el llamado de Levi y la misericordia en la mesa; (4) el novio y los odres; y (5) David, las espigas y el señorío sobre el Shabbat. Jeremías 31:31-33 y los demás pasajes de apoyo explican la tesis de la Torah interior, pero no desplazan las perícopas ni permiten afirmar que Marcos 2 cite formalmente cada conexión.
 
-## Verificación dirigida: nombres, función y confesión mesiánica (2:1-28) #markos_2_1-28
+## Verificación dirigida: nombres, función y confesión mesiánica (2:1-28) #marcos_2_1-28
 
 <!-- prettier-ignore -->
 La parte 10 retoma Marcos 2 para explicar por qué «Hijo del Hombre» no debe reducirse a «un humano». Eric distingue tres voces hebreas que la clase emplea al recorrer la Escritura: **(אל)**, _El_, «Dios», presentado como nombre o componente nominativo en nombres como Yisrael e Yishmael; **(אלוה)**, _Eloah_, «Dios» como ser divino en sentido genérico, con concentración poética en Iyov y en cánticos; y **(אלהים)**, _Elohim_, «Dios» en su dimensión funcional y, según el contexto, quienes reciben un encargo o representan su autoridad. Las equivalencias son pedagógicas y no una regla para traducir cada ocurrencia: **אל** también puede funcionar como sustantivo común, **אלוה** no está limitado a poesía en todos los corpus, y **אלהים** exige número, sintaxis y contexto.
 
 <!-- prettier-ignore -->
-El primer movimiento de la exposición va de #markos_2_1-12 a #yojanan_10_34-36 y #tehilim_82_1-7. Eric conserva la observación de que Yehoshua usa el salmo para responder a la acusación de blasfemia: si la Escritura llama **אלהים**, _Elohim_, a aquellos a quienes llegó la palabra de Dios, la forma no prueba que todos sean divinos por naturaleza. El texto de Yojanán sí contiene ese argumento; no obstante, la afirmación de Eric de que **Elohim** designa siempre un cargo de juez, sacerdote o profeta es más amplia que los pasajes locales. La nota conserva la función de representación como una lectura contextual, no como definición exhaustiva.
+El primer movimiento de la exposición va de #marcos_2_1-12 a #juan_10_34-36 y #salmos_82_1-7. Eric conserva la observación de que Yehoshua usa el salmo para responder a la acusación de blasfemia: si la Escritura llama **אלהים**, _Elohim_, a aquellos a quienes llegó la palabra de Dios, la forma no prueba que todos sean divinos por naturaleza. El texto de Yojanán sí contiene ese argumento; no obstante, la afirmación de Eric de que **Elohim** designa siempre un cargo de juez, sacerdote o profeta es más amplia que los pasajes locales. La nota conserva la función de representación como una lectura contextual, no como definición exhaustiva.
 
 <!-- prettier-ignore -->
-En el segundo movimiento, Eric contrasta **אל עליון**, _El Elyon_, «Dios Altísimo», en #bereshit_14_18-22; **אל ראי**, _El Roí_, «Dios que ve» o «Dios de la aparición», en #bereshit_16_13; **אל שדי**, _El Shaddai_, nombre divino en #bereshit_17_1; y **אל עולם**, _El Olam_, «Dios eterno», en #bereshit_21_33. La observación de que los nombres propios no deben disolverse automáticamente en una traducción descriptiva es útil para leer la enseñanza, pero los matices deben cotejarse con el texto hebreo local. En #shemot_20_1-2, la forma **אלהים**, _Elohim_, introduce al hablante de los mandamientos; la clase la relaciona con la mediación angelical mencionada en #maasav_7_53 y #galatim_3_19. Esa conexión canónica existe, pero no autoriza a afirmar que cada uso de Elohim nombra a un ángel.
+En el segundo movimiento, Eric contrasta **אל עליון**, _El Elyon_, «Dios Altísimo», en #genesis_14_18-22; **אל ראי**, _El Roí_, «Dios que ve» o «Dios de la aparición», en #genesis_16_13; **אל שדי**, _El Shaddai_, nombre divino en #genesis_17_1; y **אל עולם**, _El Olam_, «Dios eterno», en #genesis_21_33. La observación de que los nombres propios no deben disolverse automáticamente en una traducción descriptiva es útil para leer la enseñanza, pero los matices deben cotejarse con el texto hebreo local. En #exodo_20_1-2, la forma **אלהים**, _Elohim_, introduce al hablante de los mandamientos; la clase la relaciona con la mediación angelical mencionada en #maasav_7_53 y #galatas_3_19. Esa conexión canónica existe, pero no autoriza a afirmar que cada uso de Elohim nombra a un ángel.
 
 <!-- prettier-ignore -->
-La discusión de #iyov_1_6-12 y 2:1-7 es el punto más polémico. Eric sostiene que **בני האלהים**, _bene haElohim_, «hijos de Dios» o «seres de la esfera divina», y Satanás aparecen en el marco de un desafío relacionado con la tierra y la casa de Iyov, no como una entrada literal del acusador al cielo. La forma hebrea **ויבאו**, _vayavo'u_, «entraron o vinieron», permite discutir el movimiento narrado, pero por sí sola no fija el escenario metafísico; la respuesta de Satanás en 2:2 menciona recorrer la tierra, y el relato debe leerse completo. La comparación de Eric con **יתיצבו**, _yityatzevu_, «se alzaron o se apostaron», en #tehilim_2_2 conserva una observación verbal concreta, aunque la semejanza no demuestra identidad de escena. Tampoco se debe convertir la afirmación de que Satanás era el líder «en medio» de ese grupo en un dato que Job explicite sin ambigüedad.
+La discusión de #job_1_6-12 y 2:1-7 es el punto más polémico. Eric sostiene que **בני האלהים**, _bene haElohim_, «hijos de Dios» o «seres de la esfera divina», y Satanás aparecen en el marco de un desafío relacionado con la tierra y la casa de Iyov, no como una entrada literal del acusador al cielo. La forma hebrea **ויבאו**, _vayavo'u_, «entraron o vinieron», permite discutir el movimiento narrado, pero por sí sola no fija el escenario metafísico; la respuesta de Satanás en 2:2 menciona recorrer la tierra, y el relato debe leerse completo. La comparación de Eric con **יתיצבו**, _yityatzevu_, «se alzaron o se apostaron», en #salmos_2_2 conserva una observación verbal concreta, aunque la semejanza no demuestra identidad de escena. Tampoco se debe convertir la afirmación de que Satanás era el líder «en medio» de ese grupo en un dato que Job explicite sin ambigüedad.
 
 <!-- prettier-ignore -->
-El tercer movimiento vuelve a la confesión apostólica. En #romanim_10_9, la forma griega **ἐὰν ὁμολογήσῃς**, _ean homologēsēs_, «si confiesas», introduce una confesión pública; **κύριον Ἰησοῦν**, _kyrion Iēsoun_, «Señor Jesús», y **πιστεύσῃς**, _pisteusēs_, «si crees», vinculan boca y corazón. Eric propone leer la frase hebraicamente como una confesión unida de Adonay y Yehoshua, y la conecta con #filipiyim_2_10-11, donde toda lengua confiesa que Yehoshua es Señor. El griego de Romanos sí usa el acusativo **κύριον** y el nombre **Ἰησοῦν**, no un vocativo indivisible; por eso la lectura de Eric se preserva como argumento teológico sobre identidad y encarnación, no como una traducción literal obligatoria de la sintaxis griega.
+El tercer movimiento vuelve a la confesión apostólica. En #romanos_10_9, la forma griega **ἐὰν ὁμολογήσῃς**, _ean homologēsēs_, «si confiesas», introduce una confesión pública; **κύριον Ἰησοῦν**, _kyrion Iēsoun_, «Señor Jesús», y **πιστεύσῃς**, _pisteusēs_, «si crees», vinculan boca y corazón. Eric propone leer la frase hebraicamente como una confesión unida de Adonay y Yehoshua, y la conecta con #filipenses_2_10-11, donde toda lengua confiesa que Yehoshua es Señor. El griego de Romanos sí usa el acusativo **κύριον** y el nombre **Ἰησοῦν**, no un vocativo indivisible; por eso la lectura de Eric se preserva como argumento teológico sobre identidad y encarnación, no como una traducción literal obligatoria de la sintaxis griega.
 
 <!-- prettier-ignore -->
-Finalmente, #romanim_10_9 y #maasav_2_24 deben mantenerse juntos sin borrar la diferencia verbal. **ἤγειρεν**, _ēgeiren_, «levantó», en la confesión de la resurrección presenta a Elohim como sujeto; la clase lo relaciona con #yojanan_10_17-18, donde Yehoshua dice que tiene autoridad para entregar y volver a tomar su vida. La conclusión de Eric —que la resurrección no debe imaginarse como un poder separado de la identidad divina del Mesías— es una síntesis doctrinal atribuible. El texto local apoya la combinación de resurrección, autoridad y vida entregada, pero no permite eliminar todas las distinciones entre sujeto gramatical, Padre, Hijo y lenguaje de envío.
+Finalmente, #romanos_10_9 y #maasav_2_24 deben mantenerse juntos sin borrar la diferencia verbal. **ἤγειρεν**, _ēgeiren_, «levantó», en la confesión de la resurrección presenta a Elohim como sujeto; la clase lo relaciona con #juan_10_17-18, donde Yehoshua dice que tiene autoridad para entregar y volver a tomar su vida. La conclusión de Eric —que la resurrección no debe imaginarse como un poder separado de la identidad divina del Mesías— es una síntesis doctrinal atribuible. El texto local apoya la combinación de resurrección, autoridad y vida entregada, pero no permite eliminar todas las distinciones entre sujeto gramatical, Padre, Hijo y lenguaje de envío.
 
 ## Control final: la autoridad se prueba en todo Marcos 2
 
@@ -382,11 +382,11 @@ El último debate interpreta el Shabbat desde su propósito y desde la Escritura
 
 ## Control de independencia y alcance
 
-Marcos 2 debe leerse antes de importar la promesa de Irmeiahu. La escena local establece la autoridad mediante una secuencia completa: **ἀφίενται**, _aphientai_, «son perdonadas o quedan remitidas», anuncia el perdón; **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica la prerrogativa del Ben HaAdam; y **ἔγειρε**, _egeire_, «levántate», junto con **ἆρόν**, _aron_, «toma», y **ὕπαγε**, _hypage_, «ve», convierte la palabra en restauración visible. La conexión con **(סלח)**, _salaj_, «perdonar», es una comparación de campo; el texto griego controla la escena.
+Marcos 2 debe leerse antes de importar la promesa de Yirmeyahu. La escena local establece la autoridad mediante una secuencia completa: **ἀφίενται**, _aphientai_, «son perdonadas o quedan remitidas», anuncia el perdón; **ἐξουσία**, _exousia_, «autoridad o derecho para actuar», explica la prerrogativa del Ben HaAdam; y **ἔγειρε**, _egeire_, «levántate», junto con **ἆρόν**, _aron_, «toma», y **ὕπαγε**, _hypage_, «ve», convierte la palabra en restauración visible. La conexión con **(סלח)**, _salaj_, «perdonar», es una comparación de campo; el texto griego controla la escena.
 
 Las unidades posteriores desarrollan, pero no borran, esa progresión. **ἀκολούθει**, _akolouthei_, «sígueme», llama a Levi a una respuesta concreta; **καινός**, _kainos_, «nuevo o renovado en cualidad», y **ἀσκός**, _askos_, «odre», limitan la imagen del vino nuevo a la incompatibilidad narrada; y **κύριος**, _kyrios_, «señor o dueño», con **ἔξεστιν**, _exestin_, «es lícito o está permitido», muestra que la disputa del Shabbat trata de propósito y autoridad, no de una abolición general. La relación con **(שבת)**, _Shabbat_, «cesar o reposar», es útil como trasfondo, pero no sustituye la sintaxis de Marcos.
 
-Irmeiahu 31:31-33 aporta la dependencia canónica explícita de la enseñanza: el pacto es nuevo porque יהוה escribe la Torah en el corazón y reafirma «ellos serán mi pueblo». No se atribuye a Marcos una cita que no contiene. Del mismo modo, las glosas de Eric sobre **חקים**, _juqim_, «estatutos», y **משפטים**, _mishpatim_, «juicios o normas», quedan como distinciones pedagógicas; el hebreo no lleva barras morfológicas ni convierte esas glosas en definiciones exhaustivas. La tesis se mantiene dentro de sus límites: perdón recibido, seguimiento visible y discernimiento obediente del Shabbat.
+Yirmeyahu 31:31-33 aporta la dependencia canónica explícita de la enseñanza: el pacto es nuevo porque יהוה escribe la Torah en el corazón y reafirma «ellos serán mi pueblo». No se atribuye a Marcos una cita que no contiene. Del mismo modo, las glosas de Eric sobre **חקים**, _juqim_, «estatutos», y **משפטים**, _mishpatim_, «juicios o normas», quedan como distinciones pedagógicas; el hebreo no lleva barras morfológicas ni convierte esas glosas en definiciones exhaustivas. La tesis se mantiene dentro de sus límites: perdón recibido, seguimiento visible y discernimiento obediente del Shabbat.
 
 ## Verificación dirigida: perdón, llamado y discernimiento del Shabbat
 
@@ -400,13 +400,13 @@ La progresión impide dos errores opuestos. Marcos no convierte la Torah en un m
 
 ## Conclusión
 
-El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam demuestra en la tierra que posee autoridad para perdonar: habla, levanta y devuelve al hombre al camino. Irmeiahu explica la profundidad de esa restauración: יהוה pone su Torah en el interior y vuelve a llamar pueblo a quienes eran incapaces de restaurarse por sí mismos.
+El hilo de la clase va del paralítico a la Torah escrita dentro. El Ben HaAdam demuestra en la tierra que posee autoridad para perdonar: habla, levanta y devuelve al hombre al camino. Yirmeyahu explica la profundidad de esa restauración: יהוה pone su Torah en el interior y vuelve a llamar pueblo a quienes eran incapaces de restaurarse por sí mismos.
 
 La palabra que יהוה sostiene y la obediencia que pide no compiten. Su promesa hace posible la respuesta; la respuesta manifiesta que la promesa está obrando. Yehoshua reúne ambas: viene según lo escrito, lleva la Torah en sus entrañas, hace la voluntad de Elohim y confirma que ni el detalle más pequeño quedará vacío.
 
 ## Reparación dirigida: ayuno, novedad y propósito del Shabbat
 
-La transición de la mesa a los odres requiere conservar el vocabulario del ayuno. **νηστεύω**, _nēsteuō_, significa «ayunar»; en 2:18 la pregunta de los discípulos de Iojanán y de los perushim trata de una práctica concreta, y **νηστεύουσιν**, _nēsteuousin_, describe a quienes ayunan. **νυμφίος**, _nymphios_, «novio o esposo», explica la excepción por la presencia de Yehoshua. Por eso la aplicación de Eric sobre una renovación que no cabe en estructuras humanas puede mantenerse como analogía, pero **καινός**, _kainos_, «nuevo o renovado en cualidad», no significa por sí solo «sin Torah» ni «abolido».
+La transición de la mesa a los odres requiere conservar el vocabulario del ayuno. **νηστεύω**, _nēsteuō_, significa «ayunar»; en 2:18 la pregunta de los discípulos de Yojanán y de los perushim trata de una práctica concreta, y **νηστεύουσιν**, _nēsteuousin_, describe a quienes ayunan. **νυμφίος**, _nymphios_, «novio o esposo», explica la excepción por la presencia de Yehoshua. Por eso la aplicación de Eric sobre una renovación que no cabe en estructuras humanas puede mantenerse como analogía, pero **καινός**, _kainos_, «nuevo o renovado en cualidad», no significa por sí solo «sin Torah» ni «abolido».
 
 En 2:21-22, **ἐπίβλημα**, _epiblēma_, «parche o pieza aplicada», **ἀσκός**, _askos_, «odre», y **γλεύκος**, _gleukos_, «vino nuevo o mosto», forman una imagen de incompatibilidad material: un parche no encoge del mismo modo que un vestido viejo, y el vino que fermenta requiere un recipiente capaz de soportarlo. La equivalencia con **(חדש)**, _jadash_, «nuevo», es de campo semítico y no una retroversión demostrada. En 2:23-28, **ἔξεστιν**, _exestin_, «es lícito o está permitido», introduce la cuestión; **κύριος**, _kyrios_, «señor o dueño», y **ἐγένετο**, _egeneto_, «fue hecho o llegó a ser», llevan la respuesta al propósito: el Shabbat fue hecho para el ser humano. La autoridad mesiánica discierne la ordenanza desde la Escritura y la necesidad; no convierte el episodio en una licencia para abolirla.
 

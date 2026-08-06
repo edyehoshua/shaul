@@ -8,10 +8,10 @@ tags:
   - memoria
   - obediencia
 references:
-  - "#devarim_11_1"
-  - "#devarim_11_2"
-  - "#devarim_11_13"
-  - "#devarim_11_22"
+  - "#deuteronomio_11_1"
+  - "#deuteronomio_11_2"
+  - "#deuteronomio_11_13"
+  - "#deuteronomio_11_22"
 sources:
   - "docs/scriptures/oe/json/deuteronomy/11.json"
 translation: "[OE]"
@@ -29,12 +29,12 @@ La nota sigue Devarim 11 en el orden del capítulo y usa la clase **Parashat 'É
 
 | Referencia        | Hebreo local (OE, sin nikud)                                                                                                                           | Función en la lectura                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| #devarim_11_1     | **ואהבת את יהוה אלהיך ושמרת משמרתו וחקתיו ומשפטיו ומצותיו כל הימים**                                                                                   | Amor y custodia perseverante, no gesto aislado.                                           |
-| #devarim_11_2     | **וידעתם היום כי לא את בניכם אשר לא ידעו ואשר לא ראו את מוסר יהוה אלהיכם את גדלו את ידו החזקה וזרעו הנטויה**                                           | La generación que vio debe transmitir lo que יהוה hizo.                                   |
-| #devarim_11_8     | **ושמרתם את כל המצוה אשר אנכי מצוך היום למען תחזקו ובאתם וירשתם את הארץ אשר אתם עברים שמה לרשתה**                                                      | Guardar fortalece para entrar y recibir la herencia.                                      |
-| #devarim_11_11-12 | **והארץ אשר אתם עברים שמה לרשתה ארץ הרים ובקעת למטר השמים תשתה מים** / **ארץ אשר יהוה אלהיך דרש אתה תמיד עיני יהוה אלהיך בה מרשית השנה ועד אחרית שנה** | La tierra no es una posesión mecánica: bebe del cielo y está delante de los ojos de יהוה. |
-| #devarim_11_13    | **והיה אם שמע תשמעו אל מצותי אשר אנכי מצוה אתכם היום לאהבה את יהוה אלהיכם ולעבדו בכל לבבכם ובכל נפשכם**                                                | Escuchar se concreta en amar y servir con toda la persona.                                |
-| #devarim_11_22    | **כי אם שמר תשמרון את כל המצוה הזאת אשר אנכי מצוה אתכם לעשתה לאהבה את יהוה אלהיכם ללכת בכל דרכיו ולדבקה בו**                                           | La fidelidad se describe como caminar y adherirse a יהוה.                                 |
+| #deuteronomio_11_1     | **ואהבת את יהוה אלהיך ושמרת משמרתו וחקתיו ומשפטיו ומצותיו כל הימים**                                                                                   | Amor y custodia perseverante, no gesto aislado.                                           |
+| #deuteronomio_11_2     | **וידעתם היום כי לא את בניכם אשר לא ידעו ואשר לא ראו את מוסר יהוה אלהיכם את גדלו את ידו החזקה וזרעו הנטויה**                                           | La generación que vio debe transmitir lo que יהוה hizo.                                   |
+| #deuteronomio_11_8     | **ושמרתם את כל המצוה אשר אנכי מצוך היום למען תחזקו ובאתם וירשתם את הארץ אשר אתם עברים שמה לרשתה**                                                      | Guardar fortalece para entrar y recibir la herencia.                                      |
+| #deuteronomio_11_11-12 | **והארץ אשר אתם עברים שמה לרשתה ארץ הרים ובקעת למטר השמים תשתה מים** / **ארץ אשר יהוה אלהיך דרש אתה תמיד עיני יהוה אלהיך בה מרשית השנה ועד אחרית שנה** | La tierra no es una posesión mecánica: bebe del cielo y está delante de los ojos de יהוה. |
+| #deuteronomio_11_13    | **והיה אם שמע תשמעו אל מצותי אשר אנכי מצוה אתכם היום לאהבה את יהוה אלהיכם ולעבדו בכל לבבכם ובכל נפשכם**                                                | Escuchar se concreta en amar y servir con toda la persona.                                |
+| #deuteronomio_11_22    | **כי אם שמר תשמרון את כל המצוה הזאת אשר אנכי מצוה אתכם לעשתה לאהבה את יהוה אלהיכם ללכת בכל דרכיו ולדבקה בו**                                           | La fidelidad se describe como caminar y adherirse a יהוה.                                 |
 
 ## Recordar lo que los hijos no vieron: 11:1-9
 

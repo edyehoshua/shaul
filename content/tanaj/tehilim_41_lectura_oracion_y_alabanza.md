@@ -9,11 +9,11 @@ tags:
   - sanidad
   - oracion
 references:
-  - "#tehilim_41_1"
-  - "#tehilim_41_2"
-  - "#tehilim_41_5"
-  - "#tehilim_41_10"
-  - "#tehilim_41_14"
+  - "#salmos_41_1"
+  - "#salmos_41_2"
+  - "#salmos_41_5"
+  - "#salmos_41_10"
+  - "#salmos_41_14"
 sources:
   - "https://www.youtube.com/watch?v=3Oz3-WwoCPU"
   - "docs/scriptures/oe/json/psalms/41.json"
@@ -79,10 +79,10 @@ El verso continúa: **ותציבני לפניך לעולם**, “me estableces d
 
 | Tramo                                    | Observación concreta de Eric                                                                                                                                         | Prueba y calificación                                                                                                                                            |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_41_2-4; `youtube:3Oz3-WwoCPU`   | Eric lee **משכיל אל דל** como conciencia de la propia debilidad, enfermedad y limitación, y relaciona el día malo con la salida que יהוה concede.                    | Apoyo textual **cualificado**: _maskil_ pertenece al campo de discernir y _dal_ al de debilidad; la aplicación interior no elimina el sentido social de “pobre”. |
-| #tehilim_41_5; `youtube:3Oz3-WwoCPU`     | La petición “sana mi vida porque he pecado contra ti” muestra que la conciencia espiritual reconoce haber fallado delante de Elohim, no solo delante del prójimo.    | Apoyo textual **directo**: el verso une petición de sanidad, misericordia y confesión; no prueba que toda enfermedad sea castigo personal.                       |
-| #tehilim_41_6-9; `youtube:3Oz3-WwoCPU`   | Eric relaciona los enemigos con deseos, impulsos y pensamientos que pueden gobernar el cuerpo y la voluntad, sin borrar la realidad de los enemigos externos.        | Aplicación **pedagógica y cualificada**: el salmo habla primero de adversarios humanos; la lectura interior requiere apoyo canónico adicional.                   |
-| #tehilim_41_10-12; `youtube:3Oz3-WwoCPU` | La traición del que come el pan se aplica a Judas y al sufrimiento del Mesías; la clase distingue ese cumplimiento de convertir a cualquier persona en “otro Judas”. | Relación **canónica** con el uso evangélico; el salmo mantiene su voz davidica y la afirmación inmediata de levantamiento y vindicación.                         |
+| #salmos_41_2-4; `youtube:3Oz3-WwoCPU`   | Eric lee **משכיל אל דל** como conciencia de la propia debilidad, enfermedad y limitación, y relaciona el día malo con la salida que יהוה concede.                    | Apoyo textual **cualificado**: _maskil_ pertenece al campo de discernir y _dal_ al de debilidad; la aplicación interior no elimina el sentido social de “pobre”. |
+| #salmos_41_5; `youtube:3Oz3-WwoCPU`     | La petición “sana mi vida porque he pecado contra ti” muestra que la conciencia espiritual reconoce haber fallado delante de Elohim, no solo delante del prójimo.    | Apoyo textual **directo**: el verso une petición de sanidad, misericordia y confesión; no prueba que toda enfermedad sea castigo personal.                       |
+| #salmos_41_6-9; `youtube:3Oz3-WwoCPU`   | Eric relaciona los enemigos con deseos, impulsos y pensamientos que pueden gobernar el cuerpo y la voluntad, sin borrar la realidad de los enemigos externos.        | Aplicación **pedagógica y cualificada**: el salmo habla primero de adversarios humanos; la lectura interior requiere apoyo canónico adicional.                   |
+| #salmos_41_10-12; `youtube:3Oz3-WwoCPU` | La traición del que come el pan se aplica a Judas y al sufrimiento del Mesías; la clase distingue ese cumplimiento de convertir a cualquier persona en “otro Judas”. | Relación **canónica** con el uso evangélico; el salmo mantiene su voz davidica y la afirmación inmediata de levantamiento y vindicación.                         |
 
 ## Léxico clave
 

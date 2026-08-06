@@ -9,14 +9,14 @@ tags:
   - esperanza
   - david
 references:
-  - "#tehilim_71_1-6"
-  - "#tehilim_71_7-12"
-  - "#tehilim_71_13-18"
-  - "#tehilim_71_19-24"
-  - "#tehilim_70_1-5"
-  - "#shemuel_alef_17_45-47"
-  - "#tehilim_119_176"
-  - "#ivrim_10_38-39"
+  - "#salmos_71_1-6"
+  - "#salmos_71_7-12"
+  - "#salmos_71_13-18"
+  - "#salmos_71_19-24"
+  - "#salmos_70_1-5"
+  - "#1_samuel_17_45-47"
+  - "#salmos_119_176"
+  - "#hebreos_10_38-39"
 sources:
   - "https://www.youtube.com/watch?v=1BbSEuvctt8"
   - "docs/scriptures/oe/json/psalms/71.json"
@@ -37,15 +37,15 @@ Se sigue el salmo en orden textual y se atribuyen las observaciones materiales d
 
 | Referencia        | Texto hebreo local                                                                                          | Función en el argumento                                                |
 | ----------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| #tehilim_71_1-3   | **בך יהוה חסיתי אל אבושה לעולם / בצדקתך תצילני ותפלטני הטה אלי אזנך והושיעני / היה לי לצור מעון לבוא תמיד** | Refugio, no-vergüenza y roca de morada permanente.                     |
-| #tehilim_71_4-6   | **אלהי פלטני מיד רשע מכף מעול וחומץ / כי אתה תקותי אדני יהוה מבטחי מנעורי / עליך נסמכתי מבטן**              | Rescate de la palma del malvado y confianza desde el vientre.          |
-| #tehilim_71_9-12  | **אל תשליכני לעת זקנה ... / כי אמרו אויבי לי ... אלהים עזבו / אלהים אל תרחק ממני אלהי לעזרתי חישה**         | Temor de abandono en la vejez y súplica de auxilio cercano.            |
-| #tehilim_71_15-18 | **פי יספר צדקתך כל היום תשועתך / אבוא בגברות אדני יהוה אזכיר צדקתך לבדך / אלהים למדתני מנעורי ... עד זקנה** | Boca que cuenta justicia y salvación desde la juventud hasta la vejez. |
-| #tehilim_71_20-24 | **אשר הראיתני צרות רבות ורעות תשוב תחיינו ... / גם לשוני כל היום תהגה צדקתך**                               | Revivir desde profundidades y meditación final de la justicia.         |
+| #salmos_71_1-3   | **בך יהוה חסיתי אל אבושה לעולם / בצדקתך תצילני ותפלטני הטה אלי אזנך והושיעני / היה לי לצור מעון לבוא תמיד** | Refugio, no-vergüenza y roca de morada permanente.                     |
+| #salmos_71_4-6   | **אלהי פלטני מיד רשע מכף מעול וחומץ / כי אתה תקותי אדני יהוה מבטחי מנעורי / עליך נסמכתי מבטן**              | Rescate de la palma del malvado y confianza desde el vientre.          |
+| #salmos_71_9-12  | **אל תשליכני לעת זקנה ... / כי אמרו אויבי לי ... אלהים עזבו / אלהים אל תרחק ממני אלהי לעזרתי חישה**         | Temor de abandono en la vejez y súplica de auxilio cercano.            |
+| #salmos_71_15-18 | **פי יספר צדקתך כל היום תשועתך / אבוא בגברות אדני יהוה אזכיר צדקתך לבדך / אלהים למדתני מנעורי ... עד זקנה** | Boca que cuenta justicia y salvación desde la juventud hasta la vejez. |
+| #salmos_71_20-24 | **אשר הראיתני צרות רבות ורעות תשוב תחיינו ... / גם לשוני כל היום תהגה צדקתך**                               | Revivir desde profundidades y meditación final de la justicia.         |
 
 ## Mapa de la enseñanza de Eric
 
-- **Apertura y contexto — continuidad con Tehilim 70:** Eric cita a Ibn Ezra, David Qimji y Malbim al proponer que 70 y 71 compartieron un mismo contexto original. El poema local no lo demuestra por sí solo; la continuidad temática de prisa, vergüenza y auxilio es una conexión **aproximada** con #tehilim_70_1-5.
+- **Apertura y contexto — continuidad con Tehilim 70:** Eric cita a Ibn Ezra, David Qimji y Malbim al proponer que 70 y 71 compartieron un mismo contexto original. El poema local no lo demuestra por sí solo; la continuidad temática de prisa, vergüenza y auxilio es una conexión **aproximada** con #salmos_70_1-5.
 - **Versículos 1-3 — salvación como refugio:** la clase insiste en que **חסיתי** (_chasiti_, me he refugiado) no es solo escape exterior, sino el lugar donde David aprendió qué es ser salvado. El texto respalda el refugio; la biografía de cuevas y desiertos es marco atribuido.
 - **Versículo 5 — **מבטח** y transformación del temor:** Eric lee **מבטחי** (_mivtachi_, mi confianza/seguridad) como un “lugar” tan seguro que hace abandonar el miedo, distinto de un búnker donde aún se tiembla. La idea de transformación psicológica es **pedagógica**; el verso afirma esperanza y confianza desde la juventud.
 - **Versículos 2 y 4 — **צדקה** y escape de la palma:** Eric presenta la justicia de יהוה como favor que abre escapatoria y saca de la **כף** (_kaf_, palma/mano) del malvado. El hebreo confirma liberación por justicia y rescate de la mano del opresor; “justicia de gracia” es su síntesis doctrinal atribuida.
@@ -93,10 +93,10 @@ Finalmente 71:20-24 pide volver a la vida desde muchas angustias y desde las pro
 
 ## Conexiones principales
 
-- #tehilim_70_1-5 comparte el lenguaje de prisa, vergüenza y auxilio; la unidad redaccional 70–71 es propuesta de comentaristas citada por Eric.
-- #shemuel_alef_17_45-47 ilumina el tipo de “señal” confiada en יהוה que Eric asocia con 71:7.
-- #tehilim_119_176 acompaña la lectura de los imperativos como súplica del extraviado, no como orden.
-- #ivrim_10_38-39 sostiene la perseverancia de no retroceder cuando aparece la vergüenza o la acusación.
+- #salmos_70_1-5 comparte el lenguaje de prisa, vergüenza y auxilio; la unidad redaccional 70–71 es propuesta de comentaristas citada por Eric.
+- #1_samuel_17_45-47 ilumina el tipo de “señal” confiada en יהוה que Eric asocia con 71:7.
+- #salmos_119_176 acompaña la lectura de los imperativos como súplica del extraviado, no como orden.
+- #hebreos_10_38-39 sostiene la perseverancia de no retroceder cuando aparece la vergüenza o la acusación.
 
 ## Pendiente de verificar
 

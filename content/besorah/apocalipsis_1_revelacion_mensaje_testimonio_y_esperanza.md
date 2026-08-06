@@ -8,13 +8,13 @@ tags:
   - yehoshua
   - vision
 references:
-  - "#revelation_1_1"
-  - "#revelation_1_3"
-  - "#revelation_1_4"
-  - "#revelation_1_7"
-  - "#revelation_1_9"
-  - "#revelation_1_12"
-  - "#revelation_1_17"
+  - "#apocalipsis_1_1"
+  - "#apocalipsis_1_3"
+  - "#apocalipsis_1_4"
+  - "#apocalipsis_1_7"
+  - "#apocalipsis_1_9"
+  - "#apocalipsis_1_12"
+  - "#apocalipsis_1_17"
   - "#daniel_7_13"
 sources:
   - "https://www.youtube.com/watch?v=AoCqV_Yel5Y"
@@ -43,32 +43,32 @@ Esta nota reúne cuatro clases públicas del hermano Eric de Jesús Rodríguez M
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en el argumento |
 | --- | --- | --- |
-| #revelation_1_1 | **חזון ישוע המשיח אשר נתןלו האלהים להראות אתעבדיו את אשריהיה במהרה והוא הודיע בשלחו בידמלאכו לעבדו ליוחנן** | La revelación tiene origen y cadena de transmisión explícitos. |
-| #revelation_1_3 | **אשרי הקורא ואשרי השמעים אתדברי הנבואה ושמרים אתהכתוב בה כי קרובה העת** | Oír y guardar forman parte de la respuesta esperada. |
-| #revelation_1_4-6 | **יוחנן לשבע הקהלות אשר באסיא חסד לכם ושלום מאת ההוה והיה ויבוא ומאת שבעת הרוחות אשר לפני כסאו** / **ומאת ישוע המשיח העד הנאמן ובכור המתים ועליון למלכי ארץ אשר אהב אתנו ובדמו גאלנו מחטאתינו** | El saludo presenta a יהוה, los siete espíritus y Yehoshua como testigo fiel, primogénito y rey. |
-| #revelation_1_7-8 | **הנה הוא בא עם העננים וראתה אתו כל עין גם המה אשר דקרוהו וספדו עליו כל משפחות הארץ כן יהיה אמן** / **אני האלף והתיו ראש וסוף נאם יהוה אלהים ההוה והיה ויבוא אלהי צבאות** | La venida, el lenguaje profético y la declaración de principio y fin abren la visión. |
-| #revelation_1_9-11 | **אני יוחנן אחיכם וגם חבר לכם בלחץ ובמלכות ובסבלנות למען ישוע המשיח הייתי באי אשר שמו פטמוס** | La ubicación de Patmos y la participación en presión, reino y perseverancia sitúan al testigo. |
-| #revelation_1_12-20 | **ואפן לראות את הקול המדבר אלי ויהי בפנותי וארא שבע מנרות זהב** … **וארא אותו ואפל לרגליו כמת** | La visión culmina en la figura entre las menorot y en la interpretación de estrellas y lámparas. |
+| #apocalipsis_1_1 | **חזון ישוע המשיח אשר נתןלו האלהים להראות אתעבדיו את אשריהיה במהרה והוא הודיע בשלחו בידמלאכו לעבדו ליוחנן** | La revelación tiene origen y cadena de transmisión explícitos. |
+| #apocalipsis_1_3 | **אשרי הקורא ואשרי השמעים אתדברי הנבואה ושמרים אתהכתוב בה כי קרובה העת** | Oír y guardar forman parte de la respuesta esperada. |
+| #apocalipsis_1_4-6 | **יוחנן לשבע הקהלות אשר באסיא חסד לכם ושלום מאת ההוה והיה ויבוא ומאת שבעת הרוחות אשר לפני כסאו** / **ומאת ישוע המשיח העד הנאמן ובכור המתים ועליון למלכי ארץ אשר אהב אתנו ובדמו גאלנו מחטאתינו** | El saludo presenta a יהוה, los siete espíritus y Yehoshua como testigo fiel, primogénito y rey. |
+| #apocalipsis_1_7-8 | **הנה הוא בא עם העננים וראתה אתו כל עין גם המה אשר דקרוהו וספדו עליו כל משפחות הארץ כן יהיה אמן** / **אני האלף והתיו ראש וסוף נאם יהוה אלהים ההוה והיה ויבוא אלהי צבאות** | La venida, el lenguaje profético y la declaración de principio y fin abren la visión. |
+| #apocalipsis_1_9-11 | **אני יוחנן אחיכם וגם חבר לכם בלחץ ובמלכות ובסבלנות למען ישוע המשיח הייתי באי אשר שמו פטמוס** | La ubicación de Patmos y la participación en presión, reino y perseverancia sitúan al testigo. |
+| #apocalipsis_1_12-20 | **ואפן לראות את הקול המדבר אלי ויהי בפנותי וארא שבע מנרות זהב** … **וארא אותו ואפל לרגליו כמת** | La visión culmina en la figura entre las menorot y en la interpretación de estrellas y lámparas. |
 
-## Revelación recibida, no desciframiento autónomo: 1:1-3 #revelation_1_1-3
+## Revelación recibida, no desciframiento autónomo: 1:1-3 #apocalipsis_1_1-3
 
 Eric comienza con la palabra griega **(ἀποκάλυψις)**, transliterada *apokalypsis*. En el texto de 1:1 designa una revelación o manifestación comunicada; no es correcto convertir automáticamente la observación de la clase sobre el mundo griego en una historia total del término. Eric contrasta la dirección “Dios hacia el ser humano” con la pretensión de descubrir lo divino por razonamiento humano y subraya que la cadena pasa por Yehoshua, el mensajero y Yohanan. El texto apoya claramente la recepción y transmisión; la reconstrucción amplia sobre el uso prebíblico de la palabra queda pendiente.
 
 La bienaventuranza de 1:3 impide tratar el libro como acertijo para especialistas. La forma **(μακάριος)**, *makarios*, expresa una condición favorable o bendecida; aquí se aplica al que lee, escucha y guarda. “Guardar” es una traducción funcional, no una equivalencia exhaustiva entre toda la semántica griega y una sola palabra española.
 
-## El saludo: testimonio, realeza y comunidad: 1:4-6 #revelation_1_4-6
+## El saludo: testimonio, realeza y comunidad: 1:4-6 #apocalipsis_1_4-6
 
 En el siguiente movimiento, Eric conserva la secuencia de las siete congregaciones y observa que “siete” puede funcionar como cifra concreta y también como figura de totalidad. El texto sí nombra siete congregaciones; la ampliación hacia las setenta naciones y sus paralelos judíos es una hipótesis comparativa, no una explicación demostrada por estos versículos. La nota, por tanto, la registra como conexión a verificar.
 
 El término **(μαρτυρία)**, *martyria*, y el adjetivo **(πιστός)**, *pistos*, ayudan a leer “testimonio” y “testigo fiel”: no se trata sólo de información, sino de una declaración que compromete al testigo. **(πρωτότοκος)**, *prototokos*, puede expresar primacía y relación de rango además de prioridad temporal; aquí se conserva la formulación “primogénito de los muertos” sin afirmar que el vocablo, por sí solo, resuelva todas las cuestiones doctrinales.
 
-## Daniel, las nubes y el anuncio: 1:7-8 #revelation_1_7-8
+## Daniel, las nubes y el anuncio: 1:7-8 #apocalipsis_1_7-8
 
 Eric destaca que 1:7 cita Daniel 7:13 y que 1:8 funciona como declaración de apertura antes del desarrollo de la visión. En Daniel 7, el corpus local conserva el arameo; la expresión **בר אנש** (*bar enash*, “hijo de hombre”) debe tratarse como forma aramea contextual, no como prueba de una equivalencia mecánica con cualquier uso griego. El griego de Apocalipsis emplea **(ὁ υἱὸς τοῦ ἀνθρώπου)**, “el Hijo del Hombre”: la correspondencia con Daniel es intertextual y aproximada, pues también depende del contexto de cada pasaje.
 
 La clase propone que la combinación de Daniel y Zacarías es una forma de *derash*: seguir pistas de textos distintos para construir una tesis. Esa observación conserva un rasgo concreto de la enseñanza, pero no autoriza a borrar las diferencias entre los contextos originales. Del mismo modo, la explicación de “venir con las nubes” como modismo de rapidez queda pendiente de comprobar en cada uso bíblico. El texto de Apocalipsis afirma la venida y la visibilidad universal; no detalla por sí solo una cronología.
 
-## Patmos, la visión y la figura gloriosa: 1:9-20 #revelation_1_9-20
+## Patmos, la visión y la figura gloriosa: 1:9-20 #apocalipsis_1_9-20
 
 Eric ubica a Yohanan en Patmos y recalca la fórmula “participante en la presión, el reino y la perseverancia”. Luego distingue una visión consciente de un sueño o trance: es una explicación pedagógica de la clase, no una definición médica universal. La observación se mantiene porque ayuda a seguir el relato: Yohanan oye, se vuelve, ve las siete lámparas y finalmente cae como muerto.
 

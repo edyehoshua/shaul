@@ -9,11 +9,11 @@ tags:
   - idolatria
   - yehoshua
 references:
-  - "#devarim_18_20"
-  - "#devarim_18_21"
-  - "#devarim_13_1"
+  - "#deuteronomio_18_20"
+  - "#deuteronomio_18_21"
+  - "#deuteronomio_13_1"
   - "#mateo_7_15"
-  - "#galatim_1_8"
+  - "#galatas_1_8"
 sources:
   - "https://www.youtube.com/watch?v=4iKdU2GWr9Y"
   - "docs/scriptures/oe/json/raw/deuteronomy.json"
@@ -33,9 +33,9 @@ Esta nota organiza la clase pública de Eric de Jesús Rodríguez Mendoza, «The
 
 | Referencia        | Texto local                                                                                                                                                      | Función en el argumento                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| #devarim_18_20    | **אַךְ הַנָּבִיא אֲשֶׁר יָזִיד לְדַבֵּר דָּבָר בִּשְׁמִי אֵת אֲשֶׁר לֹא צִוִּיתִיו לְדַבֵּר וַאֲשֶׁר יְדַבֵּר בְּשֵׁם אֱלֹהִים אֲחֵרִים וּמֵת הַנָּבִיא הַהוּא** | Define dos direcciones de la transgresión: hablar sin mandato y hablar en nombre de otro elohim.       |
-| #devarim_18_21-22 | La prueba de una palabra anunciada pregunta si procede de יהוה y si ocurre; el discernimiento no descansa solo en la seguridad del hablante.                     | Permite calificar la diferencia entre error y presunción, sin inventar una regla fuera de la perícopa. |
-| #devarim_13_1-4   | La señal o prodigio no autoriza seguir a un dios ajeno; la lealtad a יהוה permanece como prueba superior.                                                        | Evalúa la observación de Eric sobre beneficios, vaticinios y apariencia espiritual.                    |
+| #deuteronomio_18_20    | **אַךְ הַנָּבִיא אֲשֶׁר יָזִיד לְדַבֵּר דָּבָר בִּשְׁמִי אֵת אֲשֶׁר לֹא צִוִּיתִיו לְדַבֵּר וַאֲשֶׁר יְדַבֵּר בְּשֵׁם אֱלֹהִים אֲחֵרִים וּמֵת הַנָּבִיא הַהוּא** | Define dos direcciones de la transgresión: hablar sin mandato y hablar en nombre de otro elohim.       |
+| #deuteronomio_18_21-22 | La prueba de una palabra anunciada pregunta si procede de יהוה y si ocurre; el discernimiento no descansa solo en la seguridad del hablante.                     | Permite calificar la diferencia entre error y presunción, sin inventar una regla fuera de la perícopa. |
+| #deuteronomio_13_1-4   | La señal o prodigio no autoriza seguir a un dios ajeno; la lealtad a יהוה permanece como prueba superior.                                                        | Evalúa la observación de Eric sobre beneficios, vaticinios y apariencia espiritual.                    |
 
 ## Presunción no es cualquier equivocación
 
@@ -49,7 +49,7 @@ La clase también advierte que la apariencia de espiritualidad puede ser refinad
 
 Eric vincula la mitzvá con la necesidad de escudriñar el evangelio y sostiene que negar la divinidad de Yehoshua toca el centro de la revelación recibida. La formulación doctrinal completa requiere el conjunto del Nuevo Testamento; no debe atribuirse como si Deuteronomio 18:20 mencionara directamente una controversia moderna. Aun así, el principio de probar la fuente de una palabra sí recibe apoyo textual: nadie puede convertir su vocabulario religioso en una autoridad que compita con lo que יהוה ha revelado.
 
-**(דבר)**, _davar_, significa palabra, asunto o acto. En #devarim_18_20 la «palabra» tiene fuerza de mensaje autorizado; «declaración» sería una glosa aproximada, porque el sustantivo también abarca asunto y hecho. **(שם)**, _shem_, significa nombre, reputación o designación; «en mi nombre» no es una fórmula mágica, sino reclamar que el mensaje procede de יהוה. La relación con la idea de autoridad es contextual y pedagógica, no una equivalencia con todo uso moderno de «marca religiosa».
+**(דבר)**, _davar_, significa palabra, asunto o acto. En #deuteronomio_18_20 la «palabra» tiene fuerza de mensaje autorizado; «declaración» sería una glosa aproximada, porque el sustantivo también abarca asunto y hecho. **(שם)**, _shem_, significa nombre, reputación o designación; «en mi nombre» no es una fórmula mágica, sino reclamar que el mensaje procede de יהוה. La relación con la idea de autoridad es contextual y pedagógica, no una equivalencia con todo uso moderno de «marca religiosa».
 
 El criterio de Deuteronomio 13 añade que un prodigio o beneficio aparente no puede arrastrar a Israel hacia otro dios. La clase menciona precisamente la posibilidad de que una palabra parezca producir resultados y aun así esté prohibida por la Torah. La evaluación es apoyo textual directo en el principio, pero una aplicación cualificada en cada caso: hace falta identificar qué se dijo, en nombre de quién y hacia qué culto o fidelidad conduce.
 
@@ -65,8 +65,8 @@ Por eso la nota no convierte una disputa de nombres, pronunciación o tradición
 
 | Unidad                                                | Observación concreta de la clase                                                                                                                   | Evaluación frente a la Escritura                                                                                                                                       |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mitzvá 26; #devarim_18_20; `youtube:4iKdU2GWr9Y`      | No todo vaticinio fallido convierte automáticamente a una persona en profeta falso; hay que distinguir error, presunción y conducción a otro dios. | Inferencia cualificada: Deuteronomio 18 diferencia hablar sin mandato y hablar en nombre de otro elohim; los casos concretos requieren evidencia.                      |
-| Mitzvot 26-27; #devarim_13_1-4; `youtube:4iKdU2GWr9Y` | Un beneficio, señal o vocabulario religioso no vuelve lícita una enseñanza que contradice la Torah.                                                | Apoyo textual: Deuteronomio 13 subordina la señal a la lealtad a יהוה; la aplicación a fenómenos actuales es pedagógica.                                               |
+| Mitzvá 26; #deuteronomio_18_20; `youtube:4iKdU2GWr9Y`      | No todo vaticinio fallido convierte automáticamente a una persona en profeta falso; hay que distinguir error, presunción y conducción a otro dios. | Inferencia cualificada: Deuteronomio 18 diferencia hablar sin mandato y hablar en nombre de otro elohim; los casos concretos requieren evidencia.                      |
+| Mitzvot 26-27; #deuteronomio_13_1-4; `youtube:4iKdU2GWr9Y` | Un beneficio, señal o vocabulario religioso no vuelve lícita una enseñanza que contradice la Torah.                                                | Apoyo textual: Deuteronomio 13 subordina la señal a la lealtad a יהוה; la aplicación a fenómenos actuales es pedagógica.                                               |
 | Mitzvot 28-30; `youtube:4iKdU2GWr9Y`                  | La presunción incluye imponerse a sabiendas, y la herejía puede aparecer de forma refinada mientras niega al Mesías.                               | Evaluación cualificada: la voluntad deliberada está en el campo de **(יזיד)**; la etiqueta «herejía» y su aplicación cristológica necesitan cotejo canónico adicional. |
 
 ## Léxico clave
@@ -92,7 +92,7 @@ Por tanto, la clase recibe **apoyo textual cualificado** en tres puntos: la pala
 ## Pendiente de verificar
 
 - [ ] Cotejar la enumeración exacta de las mitzvot 26-30 en la obra de Maimónides y separar sus encabezados de las aplicaciones de la clase.
-- [ ] Verificar la sintaxis hebrea completa de #devarim_18_20-22 y #devarim_13_1-4 antes de formular una regla sobre predicciones fallidas.
+- [ ] Verificar la sintaxis hebrea completa de #deuteronomio_18_20-22 y #deuteronomio_13_1-4 antes de formular una regla sobre predicciones fallidas.
 - [ ] Documentar con fuentes públicas trazables las afirmaciones históricas sobre conversiones contemporáneas mencionadas en la exposición.
 - [ ] Revisar el vínculo entre **(כפר)** y «herejía» con un léxico histórico; queda como aproximación pedagógica.
 

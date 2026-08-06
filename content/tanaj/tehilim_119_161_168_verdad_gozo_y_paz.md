@@ -8,8 +8,8 @@ tags:
   - torah
   - eric-youtube
 references:
-  - "#tehilim_119_161-164"
-  - "#tehilim_119_165-168"
+  - "#salmos_119_161-164"
+  - "#salmos_119_165-168"
 sources:
   - "https://www.youtube.com/watch?v=xlqPZWeLrJw"
   - "docs/scriptures/oe/json/psalms/119.json"
@@ -30,9 +30,9 @@ Esta nota desarrolla la clase pública de Eric sobre Tehilim 119:161-168 y la co
 
 | Unidad               | Texto local (OE, hebreo normalizado)                                                                                                      | Función en el argumento                                                 |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| #tehilim_119_161-164 | **שרים רדפוני חנם ומדבריך ומדברך פחד לבי / שש אנכי על אמרתך כמוצא שלל רב / שקר שנאתי ואתעבה תורתך אהבתי / שבע ביום הללתיך על משפטי צדקך** | Persecución, temor a la palabra, gozo del hallazgo y alabanza continua. |
-| #tehilim_119_165     | **שלום רב לאהבי תורתך ואין למו מכשול**                                                                                                    | Paz abundante y ausencia de tropiezo para quienes aman la Torah.        |
-| #tehilim_119_166-168 | **שברתי לישועתך יהוה ומצותיך עשיתי / שמרה נפשי עדתיך ואהבם מאד / שמרתי פקודיך ועדתיך כי כל דרכי נגדך**                                    | Esperanza que obra, amor guardado y caminos expuestos ante יהוה.        |
+| #salmos_119_161-164 | **שרים רדפוני חנם ומדבריך ומדברך פחד לבי / שש אנכי על אמרתך כמוצא שלל רב / שקר שנאתי ואתעבה תורתך אהבתי / שבע ביום הללתיך על משפטי צדקך** | Persecución, temor a la palabra, gozo del hallazgo y alabanza continua. |
+| #salmos_119_165     | **שלום רב לאהבי תורתך ואין למו מכשול**                                                                                                    | Paz abundante y ausencia de tropiezo para quienes aman la Torah.        |
+| #salmos_119_166-168 | **שברתי לישועתך יהוה ומצותיך עשיתי / שמרה נפשי עדתיך ואהבם מאד / שמרתי פקודיך ועדתיך כי כל דרכי נגדך**                                    | Esperanza que obra, amor guardado y caminos expuestos ante יהוה.        |
 
 ## La letra Shin y la autoridad que persigue
 
@@ -74,10 +74,10 @@ La afirmación final “todos mis caminos están delante de ti” transforma la 
 
 | Unidad textual       | Observación concreta de la clase                                                                                                                          | Tratamiento en esta nota                                                                                                            |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_119_161     | Eric distingue autoridades de “príncipes” castellanos y enseña que el temor debe dirigirse a la palabra, no a los perseguidores.                          | Se confirma el contraste del verso y se mantiene la aplicación profética como conexión canónica, no como cita del salmo.            |
-| #tehilim_119_162-164 | Eric explica el gozo súbito de hallar un tesoro, el rechazo de la falsedad como opuesta a la Torah y el siete como alabanza continua más allá del ritual. | Se cotejan las imágenes con los verbos y sustantivos locales; “sorpresa” y “todas las veces” se marcan como paráfrasis pedagógicas. |
-| #tehilim_119_165     | Eric lee **שלום** como relación puesta en orden y aplica la paz a la responsabilidad personal frente a los demás.                                         | Se conserva el sentido de paz, integridad y ausencia de tropiezo; la metáfora de pagar la cuota queda calificada.                   |
-| #tehilim_119_166-168 | Eric afirma que esperar la salvación se demuestra haciendo los mandamientos y que una observancia auténtica pone todos los caminos delante de יהוה.       | El texto confirma literalmente la unión entre esperanza, hacer, guardar, amar y caminos expuestos ante יהוה.                        |
+| #salmos_119_161     | Eric distingue autoridades de “príncipes” castellanos y enseña que el temor debe dirigirse a la palabra, no a los perseguidores.                          | Se confirma el contraste del verso y se mantiene la aplicación profética como conexión canónica, no como cita del salmo.            |
+| #salmos_119_162-164 | Eric explica el gozo súbito de hallar un tesoro, el rechazo de la falsedad como opuesta a la Torah y el siete como alabanza continua más allá del ritual. | Se cotejan las imágenes con los verbos y sustantivos locales; “sorpresa” y “todas las veces” se marcan como paráfrasis pedagógicas. |
+| #salmos_119_165     | Eric lee **שלום** como relación puesta en orden y aplica la paz a la responsabilidad personal frente a los demás.                                         | Se conserva el sentido de paz, integridad y ausencia de tropiezo; la metáfora de pagar la cuota queda calificada.                   |
+| #salmos_119_166-168 | Eric afirma que esperar la salvación se demuestra haciendo los mandamientos y que una observancia auténtica pone todos los caminos delante de יהוה.       | El texto confirma literalmente la unión entre esperanza, hacer, guardar, amar y caminos expuestos ante יהוה.                        |
 
 ## Conclusión
 

@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_39_1"
-  - "#tehilim_39_14"
+  - "#salmos_39_1"
+  - "#salmos_39_14"
 sources:
   - "https://www.youtube.com/watch?v=qOT1uu1u6FE"
   - "docs/scriptures/oe/json/psalms/39.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 39. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_39_1  | למנצח לידיתון לידותון מזמור לדוד  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_39_14 | השע ממני ואבליגה בטרם אלך ואינני | El verso final permite observar el cierre de la composición.         |
+| #salmos_39_1  | למנצח לידיתון לידותון מזמור לדוד  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_39_14 | השע ממני ואבליגה בטרם אלך ואינני | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

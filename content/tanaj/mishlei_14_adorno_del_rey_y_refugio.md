@@ -4,10 +4,10 @@ description: "Mishlei 14:26-35 sobre el temor de יהוה, la fuente de vida, el
 date: 2026-08-06
 tags: [mishlei, mishlei_14, temor_de_יהוה, refugio, pueblo, justicia]
 references:
-  - "#mishlei_14_26-35"
+  - "#proverbios_14_26-35"
   - "#salmos_46_2"
   - "#galatas_5_22-23"
-  - "#iojanan_4_14"
+  - "#juan_4_14"
 sources:
   - "https://www.youtube.com/watch?v=ovyvUbF5N7o"
   - "docs/scriptures/oe/json/proverbs/14.json"
@@ -28,11 +28,11 @@ Esta nota organiza la clase «PROVERBIOS | El ADORNO del REY | CAPÍTULO 14 | #3
 
 | Referencia | Texto local (OE, hebreo sin nikud) | Observación |
 | --- | --- | --- |
-| #mishlei_14_26 | ביראת יהוה מבטח עז ולבניו יהיה מחסה | El temor de יהוה se vincula con seguridad y refugio para sus hijos. |
-| #mishlei_14_27 | יראת יהוה מקור חיים לסור ממקשי מות | La fuente de vida aparta de las trampas de la muerte. |
-| #mishlei_14_28 | ברב עם הדרת מלך ובאפס לאם מחתת רזון | El pueblo abundante honra al rey; su ausencia humilla al príncipe. |
-| #mishlei_14_29-30 | ארך אפים רב תבונה וקצר רוח מרים אולת; חיי בשרים לב מרפא ורקב עצמות קנאה | La paciencia y el corazón sanador contrastan con ira, necedad y envidia. |
-| #mishlei_14_31-35 | עשק דל חרף עשוהו … רצון מלך לעבד משכיל ועברתו תהיה מביש | La relación con el pobre y el servicio prudente revelan la justicia del gobernante. |
+| #proverbios_14_26 | ביראת יהוה מבטח עז ולבניו יהיה מחסה | El temor de יהוה se vincula con seguridad y refugio para sus hijos. |
+| #proverbios_14_27 | יראת יהוה מקור חיים לסור ממקשי מות | La fuente de vida aparta de las trampas de la muerte. |
+| #proverbios_14_28 | ברב עם הדרת מלך ובאפס לאם מחתת רזון | El pueblo abundante honra al rey; su ausencia humilla al príncipe. |
+| #proverbios_14_29-30 | ארך אפים רב תבונה וקצר רוח מרים אולת; חיי בשרים לב מרפא ורקב עצמות קנאה | La paciencia y el corazón sanador contrastan con ira, necedad y envidia. |
+| #proverbios_14_31-35 | עשק דל חרף עשוהו … רצון מלך לעבד משכיל ועברתו תהיה מביש | La relación con el pobre y el servicio prudente revelan la justicia del gobernante. |
 
 ## Temor, promesa y refugio: vv. 26-27
 

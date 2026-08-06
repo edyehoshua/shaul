@@ -6,7 +6,7 @@ tags:
   - didaje
   - doctrina
 references:
-  - "#tehilim_110_1"
+  - "#salmos_110_1"
 sources: []
 ---
 
@@ -18,11 +18,11 @@ La Didajé se resume aquí como doctrina de los enviados a las naciones y como e
 
 | Referencia     | TTH                                                                                                           | Observación                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_110_1 | Declaración de יהוה a mi Amo: Siéntate a mi diestra, hasta que ponga a tus enemigos como estrado de tus pies. | La nota usa este pasaje como marco de autoridad y doctrina recibida. |
+| #salmos_110_1 | Declaración de יהוה a mi Amo: Siéntate a mi diestra, hasta que ponga a tus enemigos como estrado de tus pies. | La nota usa este pasaje como marco de autoridad y doctrina recibida. |
 
 ## Observaciones
 
 - Didajé se toma desde su sentido griego de doctrina o instrucción.
 - La nota la aproxima a torá en el sentido de enseñanza recibida.
 - Torat shlijim hagoyim resume la instrucción de los enviados a las naciones.
-- La doctrina de los dos caminos se vincula con el lenguaje de vida y muerte, y la nota la conecta con #tehilim_110_1 y con los rollos de Qumrán.
+- La doctrina de los dos caminos se vincula con el lenguaje de vida y muerte, y la nota la conecta con #salmos_110_1 y con los rollos de Qumrán.

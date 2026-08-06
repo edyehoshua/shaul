@@ -6,12 +6,12 @@ tags:
   - sodot
   - sodot_8
 references:
-  - "#sodot_8_1"
-  - "#sodot_8_3"
-  - "#sodot_8_5"
-  - "#tehilim_28_1"
-  - "#iejezkel_5_1"
-  - "#matiyahu_3_10"
+  - "#apocalipsis_8_1"
+  - "#apocalipsis_8_3"
+  - "#apocalipsis_8_5"
+  - "#salmos_28_1"
+  - "#ezequiel_5_1"
+  - "#mateo_3_10"
 sources: []
 ---
 
@@ -21,24 +21,24 @@ Sodot 8 presenta el séptimo sello como una nueva apertura narrativa donde el si
 
 ## Texto base
 
-- #sodot_8_1
-- #sodot_8_3
-- #sodot_8_5
+- #apocalipsis_8_1
+- #apocalipsis_8_3
+- #apocalipsis_8_5
 
 ## Texto TTH disponible
 
 | Referencia | Texto                                                                                                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #sodot_8_1 | "Y cuando abrió el séptimo sello, hubo silencio en los cielos como media hora."                                                                                                                                 |
-| #sodot_8_3 | "Y otro mensajero vino y se paró ante el altar, y tenía un incensario de oro; y le fue dado mucho incienso para dar a las tefilot de todos los santos sobre el altar de oro, el cual estaba delante del trono." |
-| #sodot_8_5 | "Y tomó el mensajero el incensario y lo llenó con el fuego del altar, y lo envió sobre la tierra, y hubo voces, truenos, relámpagos y temblor."                                                                 |
+| #apocalipsis_8_1 | "Y cuando abrió el séptimo sello, hubo silencio en los cielos como media hora."                                                                                                                                 |
+| #apocalipsis_8_3 | "Y otro mensajero vino y se paró ante el altar, y tenía un incensario de oro; y le fue dado mucho incienso para dar a las tefilot de todos los santos sobre el altar de oro, el cual estaba delante del trono." |
+| #apocalipsis_8_5 | "Y tomó el mensajero el incensario y lo llenó con el fuego del altar, y lo envió sobre la tierra, y hubo voces, truenos, relámpagos y temblor."                                                                 |
 
 ## Observaciones
 
 - La media hora se entiende como período breve y no como medición literal.
-- El silencio se relaciona con #tehilim_28_1: cuando יהוה guarda silencio, el hombre queda como los que descienden al Sheol.
+- El silencio se relaciona con #salmos_28_1: cuando יהוה guarda silencio, el hombre queda como los que descienden al Sheol.
 - Las tefilot de los kedoshim aparecen como antecedente del juicio.
-- La tercera parte se interpreta con ayuda de #iejezkel_5_1-12 como lenguaje simbólico sobre porciones de Israel.
+- La tercera parte se interpreta con ayuda de #ezequiel_5_1-12 como lenguaje simbólico sobre porciones de Israel.
 - Árboles, mar, barcos y aguas no se toman aquí literalmente: representan personas, multitudes, comercio y corrientes doctrinales.
 
 ## Pendiente de verificar

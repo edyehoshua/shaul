@@ -10,14 +10,14 @@ tags:
   - noaj
   - restauracion
 references:
-  - "#ieshaiahu_54_1"
-  - "#ieshaiahu_54_2"
-  - "#ieshaiahu_54_7"
-  - "#ieshaiahu_54_8"
-  - "#ieshaiahu_54_9"
-  - "#ieshaiahu_54_10"
-  - "#ieshaiahu_54_13"
-  - "#ieshaiahu_54_17"
+  - "#isaias_54_1"
+  - "#isaias_54_2"
+  - "#isaias_54_7"
+  - "#isaias_54_8"
+  - "#isaias_54_9"
+  - "#isaias_54_10"
+  - "#isaias_54_13"
+  - "#isaias_54_17"
 sources:
   - "https://www.youtube.com/watch?v=0tc7KX2dwHI"
   - "https://www.youtube.com/watch?v=pMP3wkV3ya0"
@@ -40,13 +40,13 @@ Esta nota desarrolla las dos exposiciones públicas del hermano Eric de Jesús R
 
 | Unidad             | Texto hebreo local (OE, sin segmentación)                                                                                                                               | Función en la lectura                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #ieshaiahu_54_1    | **רני עקרה לא ילדה פצחי רנה וצהלי לא חלה כי רבים בני שוממה מבני בעולה אמר יהוה**                                                                                        | La estéril canta porque la desolada recibirá hijos.                               |
-| #ieshaiahu_54_2-3  | **הרחיבי מקום אהלך ויריעות משכנותיך יטו אל תחשכי האריכי מיתריך ויתדתיך חזקי; כי ימין ושמאול תפרצי וזרעך גוים יירש וערים נשמות יושיבו**                                  | La promesa toma forma de tienda ensanchada, descendencia y herencia.              |
-| #ieshaiahu_54_7-8  | **ברגע קטן עזבתיך וברחמים גדלים אקבצך; בשצף קצף הסתרתי פני רגע ממך ובחסד עולם רחמתיך אמר גאלך יהוה**                                                                    | La disciplina momentánea queda rodeada por compasión duradera.                    |
-| #ieshaiahu_54_9-10 | **כי מי נח זאת לי אשר נשבעתי מעבר מי נח עוד על הארץ כן נשבעתי מקצף עליך ומגער בך; כי ההרים ימושו והגבעות תמוטנה וחסדי מאתך לא ימוש וברית שלומי לא תמוט אמר מרחמך יהוה** | El juramento de las aguas y el pacto de shalom expresan la firmeza de la promesa. |
-| #ieshaiahu_54_13   | **וכל בניך למודי יהוה ורב שלום בניך**                                                                                                                                   | Los hijos son instruidos por יהוה y reciben gran shalom.                          |
-| #ieshaiahu_54_14   | **בצדקה תכונני רחקי מעשק כי לא תיראי וממחתה כי לא תקרב אליך**                                                                                                           | La ciudad es establecida en justicia y apartada de la opresión.                   |
-| #ieshaiahu_54_17   | **כל כלי יוצר עליך לא יצלח וכל לשון תקום אתך למשפט תרשיעי זאת נחלת עבדי יהוה וצדקתם מאתי נאם יהוה**                                                                     | La herencia de los siervos incluye vindicación, y la justicia procede de יהוה.    |
+| #isaias_54_1    | **רני עקרה לא ילדה פצחי רנה וצהלי לא חלה כי רבים בני שוממה מבני בעולה אמר יהוה**                                                                                        | La estéril canta porque la desolada recibirá hijos.                               |
+| #isaias_54_2-3  | **הרחיבי מקום אהלך ויריעות משכנותיך יטו אל תחשכי האריכי מיתריך ויתדתיך חזקי; כי ימין ושמאול תפרצי וזרעך גוים יירש וערים נשמות יושיבו**                                  | La promesa toma forma de tienda ensanchada, descendencia y herencia.              |
+| #isaias_54_7-8  | **ברגע קטן עזבתיך וברחמים גדלים אקבצך; בשצף קצף הסתרתי פני רגע ממך ובחסד עולם רחמתיך אמר גאלך יהוה**                                                                    | La disciplina momentánea queda rodeada por compasión duradera.                    |
+| #isaias_54_9-10 | **כי מי נח זאת לי אשר נשבעתי מעבר מי נח עוד על הארץ כן נשבעתי מקצף עליך ומגער בך; כי ההרים ימושו והגבעות תמוטנה וחסדי מאתך לא ימוש וברית שלומי לא תמוט אמר מרחמך יהוה** | El juramento de las aguas y el pacto de shalom expresan la firmeza de la promesa. |
+| #isaias_54_13   | **וכל בניך למודי יהוה ורב שלום בניך**                                                                                                                                   | Los hijos son instruidos por יהוה y reciben gran shalom.                          |
+| #isaias_54_14   | **בצדקה תכונני רחקי מעשק כי לא תיראי וממחתה כי לא תקרב אליך**                                                                                                           | La ciudad es establecida en justicia y apartada de la opresión.                   |
+| #isaias_54_17   | **כל כלי יוצר עליך לא יצלח וכל לשון תקום אתך למשפט תרשיעי זאת נחלת עבדי יהוה וצדקתם מאתי נאם יהוה**                                                                     | La herencia de los siervos incluye vindicación, y la justicia procede de יהוה.    |
 
 ## La estéril recibe espacio para cantar — vv. 1-3
 

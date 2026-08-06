@@ -4,19 +4,19 @@ description: "Mishlei 12:16-28 contrasta la ira expuesta y la negligencia con la
 date: 2026-08-06
 tags: [mishlei, mishlei_12, determinacion, negligencia, verdad, prudencia, vida]
 references:
-  - "#mishlei_12_16"
-  - "#mishlei_12_17"
-  - "#mishlei_12_18"
-  - "#mishlei_12_19"
-  - "#mishlei_12_20"
-  - "#mishlei_12_21"
-  - "#mishlei_12_22"
-  - "#mishlei_12_23"
-  - "#mishlei_12_24"
-  - "#mishlei_12_25"
-  - "#mishlei_12_26"
-  - "#mishlei_12_27"
-  - "#mishlei_12_28"
+  - "#proverbios_12_16"
+  - "#proverbios_12_17"
+  - "#proverbios_12_18"
+  - "#proverbios_12_19"
+  - "#proverbios_12_20"
+  - "#proverbios_12_21"
+  - "#proverbios_12_22"
+  - "#proverbios_12_23"
+  - "#proverbios_12_24"
+  - "#proverbios_12_25"
+  - "#proverbios_12_26"
+  - "#proverbios_12_27"
+  - "#proverbios_12_28"
   - "#mateo_6_34"
   - "#galatas_5_22"
 sources:
@@ -40,19 +40,19 @@ Esta nota organiza la enseñanza del video sobre el cierre de Mishlei 12. El vid
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_12_16 | אויל ביום יודע כעסו וכסה קלון ערום | El tonto, en el *mismo* día se conoce su ira, pero el que cubre la deshonra es astuto. |
-| #mishlei_12_17 | יפיח אמונה יגיד צדק ועד שקרים מרמה | El que sopla emunah dará a conocer justicia, pero el testigo de falsedades, engaño. |
-| #mishlei_12_18 | יש בוטה כמדקרות חרב ולשון חכמים מרפא | Hay quien habla afiladamente, como puñaladas de espada, pero la lengua de los sabios sana. |
-| #mishlei_12_19 | שפת אמת תכון לעד ועד ארגיעה לשון שקר | El labio de verdad se afirmará para siempre, pero la lengua de mentira, solo por un momento. |
-| #mishlei_12_20 | מרמה בלב חרשי רע וליעצי שלום שמחה | Engaño hay en el corazón de los que traman el mal, pero para los consejeros de shalom hay alegría. |
-| #mishlei_12_21 | לא יאנה לצדיק כל און ורשעים מלאו רע | Ninguna vacuidad oprimirá al justo, pero los condenados están llenos de mal. |
-| #mishlei_12_22 | תועבת יהוה שפתי שקר ועשי אמונה רצונו | Abominación de יהוה son los labios de mentira, pero los que hacen emunah son su deseo. |
-| #mishlei_12_23 | אדם ערום כסה דעת ולב כסילים יקרא אולת | El hombre astuto oculta el conocimiento, y el corazón de los indisciplinados proclamará tontería. |
-| #mishlei_12_24 | יד חרוצים תמשול ורמיה תהיה למס | La mano de los determinados gobernará, pero la negligencia será para trabajo forzoso. |
-| #mishlei_12_25 | דאגה בלב איש ישחנה ודבר טוב ישמחנה | La ansiedad en el corazón del hombre lo declinará, pero la palabra buena lo alegrará. |
-| #mishlei_12_26 | יתר מרעהו צדיק ודרך רשעים תתעם | Abundante más que su amigo es el justo, pero el camino de los condenados los extraviará. |
-| #mishlei_12_27 | לא יחרך רמיה צידו והון אדם יקר חרוץ | No asará su presa la negligencia, pero la riqueza del hombre determinado es preciosa. |
-| #mishlei_12_28 | בארח צדקה חיים ודרך נתיבה אל מות | En la senda de justicia hay vida, pero otro camino va a la muerte. |
+| #proverbios_12_16 | אויל ביום יודע כעסו וכסה קלון ערום | El tonto, en el *mismo* día se conoce su ira, pero el que cubre la deshonra es astuto. |
+| #proverbios_12_17 | יפיח אמונה יגיד צדק ועד שקרים מרמה | El que sopla emunah dará a conocer justicia, pero el testigo de falsedades, engaño. |
+| #proverbios_12_18 | יש בוטה כמדקרות חרב ולשון חכמים מרפא | Hay quien habla afiladamente, como puñaladas de espada, pero la lengua de los sabios sana. |
+| #proverbios_12_19 | שפת אמת תכון לעד ועד ארגיעה לשון שקר | El labio de verdad se afirmará para siempre, pero la lengua de mentira, solo por un momento. |
+| #proverbios_12_20 | מרמה בלב חרשי רע וליעצי שלום שמחה | Engaño hay en el corazón de los que traman el mal, pero para los consejeros de shalom hay alegría. |
+| #proverbios_12_21 | לא יאנה לצדיק כל און ורשעים מלאו רע | Ninguna vacuidad oprimirá al justo, pero los condenados están llenos de mal. |
+| #proverbios_12_22 | תועבת יהוה שפתי שקר ועשי אמונה רצונו | Abominación de יהוה son los labios de mentira, pero los que hacen emunah son su deseo. |
+| #proverbios_12_23 | אדם ערום כסה דעת ולב כסילים יקרא אולת | El hombre astuto oculta el conocimiento, y el corazón de los indisciplinados proclamará tontería. |
+| #proverbios_12_24 | יד חרוצים תמשול ורמיה תהיה למס | La mano de los determinados gobernará, pero la negligencia será para trabajo forzoso. |
+| #proverbios_12_25 | דאגה בלב איש ישחנה ודבר טוב ישמחנה | La ansiedad en el corazón del hombre lo declinará, pero la palabra buena lo alegrará. |
+| #proverbios_12_26 | יתר מרעהו צדיק ודרך רשעים תתעם | Abundante más que su amigo es el justo, pero el camino de los condenados los extraviará. |
+| #proverbios_12_27 | לא יחרך רמיה צידו והון אדם יקר חרוץ | No asará su presa la negligencia, pero la riqueza del hombre determinado es preciosa. |
+| #proverbios_12_28 | בארח צדקה חיים ודרך נתיבה אל מות | En la senda de justicia hay vida, pero otro camino va a la muerte. |
 
 ## La ira visible y la prudencia que cubre la deshonra
 
@@ -93,11 +93,11 @@ El verso 25 contrasta la ansiedad que hace decaer con la palabra buena que alegr
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_12_16 | El tonto muestra su ira de inmediato; el astuto cubre la deshonra y aprende a ser lento para la ira. | Apoyo textual y aclaración de la imagen semítica. |
-| #mishlei_12_17-19 | La emunah soplada da a conocer justicia; las palabras afiladas hieren, pero la lengua sabia sana y la verdad permanece. | Observación textual con equivalencia léxica calificada. |
-| #mishlei_12_20-23 | Engaño y alegría pertenecen a corazones y consejeros distintos; el astuto guarda conocimiento y el indisciplinado proclama tontería. | Apoyo textual y aplicación pastoral cualificada. |
-| #mishlei_12_24-27 | La determinación gobierna y la negligencia esclaviza; la ansiedad decae, pero la palabra buena alegra. | Apoyo textual y conexión con #mateo_6_34. |
-| #mishlei_12_28 | La senda de justicia es vida, pero la segunda línea tiene una variante de lectura. | Incertidumbre textual preservada; no se presenta una solución como segura. |
+| #proverbios_12_16 | El tonto muestra su ira de inmediato; el astuto cubre la deshonra y aprende a ser lento para la ira. | Apoyo textual y aclaración de la imagen semítica. |
+| #proverbios_12_17-19 | La emunah soplada da a conocer justicia; las palabras afiladas hieren, pero la lengua sabia sana y la verdad permanece. | Observación textual con equivalencia léxica calificada. |
+| #proverbios_12_20-23 | Engaño y alegría pertenecen a corazones y consejeros distintos; el astuto guarda conocimiento y el indisciplinado proclama tontería. | Apoyo textual y aplicación pastoral cualificada. |
+| #proverbios_12_24-27 | La determinación gobierna y la negligencia esclaviza; la ansiedad decae, pero la palabra buena alegra. | Apoyo textual y conexión con #mateo_6_34. |
+| #proverbios_12_28 | La senda de justicia es vida, pero la segunda línea tiene una variante de lectura. | Incertidumbre textual preservada; no se presenta una solución como segura. |
 
 ## Conexiones principales
 

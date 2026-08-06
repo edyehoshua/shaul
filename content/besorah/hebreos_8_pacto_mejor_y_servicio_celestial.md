@@ -8,9 +8,9 @@ tags:
   - sacerdocio
   - torah
 references:
-  - "#hebrews_8_1-6"
-  - "#hebrews_8_7-13"
-  - "#yirmeyahu_31_31-34"
+  - "#hebreos_8_1-6"
+  - "#hebreos_8_7-13"
+  - "#jeremias_31_31-34"
 sources:
   - "https://www.youtube.com/watch?v=i3xcAIcBSjM"
   - "docs/scriptures/delitzsch/json/hebrews.json"
@@ -49,7 +49,7 @@ El orden de la cita de Yirmeyahu es igualmente determinante. 8:8-10 conserva pri
 - **Hebreos 8:6-9 — “mejor” y pacto mejorado:** Eric insiste en que **κρείττων** (_kreittōn_, “mejor”) no convierte la esperanza anterior en algo malo. La compara con una resurrección mejorada en Hebreos 11:35 y con un mediador que no muere. El uso comparativo apoya la continuidad con mejora; la traducción “mejorado” es pedagógica y no reemplaza el término del texto.
 - **Hebreos 8:10-13 — Torá en corazón, perdón y fin de lo envejecido:** Eric identifica la perfección con la Torá escrita en mente y corazón y con el perdón de los pecados, y rechaza usar el “pacto nuevo” para declarar abolida toda obediencia. El pasaje sostiene la escritura interior, la relación con la casa de Israel y el perdón; 8:13 sí dice que la primera envejece en relación con la forma de pacto citada, por lo que la aplicación debe respetar esa afirmación sin convertirla en rechazo de la Torá.
 
-## 8:1-6: el sumo sacerdote y el santuario verdadero #hebrews_8_1-6
+## 8:1-6: el sumo sacerdote y el santuario verdadero #hebreos_8_1-6
 
 “Este es el punto principal” no inicia una idea aislada: resume lo anterior. Tenemos un gran sumo sacerdote que se sentó a la diestra del trono de la majestad en los cielos. Eric relaciona esta frase con Tehilim 110:1 y advierte contra imaginar dos butacas. **δεξιά** (_dexia_) significa “diestra” y puede expresar posición de honor y autoridad; aquí su fuerza es entronización, no una descripción arquitectónica del cielo. La relación con “autoridad compartida en el trono” es interpretativa, mientras que la posición a la diestra sí es explícita.
 
@@ -61,7 +61,7 @@ Moisés recibió la orden de hacer todo conforme al modelo mostrado en el monte.
 
 La secuencia de 8:3-5 concreta esa distinción. Todo sumo sacerdote es puesto para presentar ofrendas y sacrificios; por eso el Mesías también tiene algo que ofrecer: **כִּי כָּל־כׂהֵן גָּדוֹל הוּא מֻפְקָד לְהַקְרִיב מְנָחוֹת וּזְבָחִים וְעַל־כֵּן צָרִיךְ שֶׁגַּם זֶה יִהְיֶה לוֹ מַה־שֶּׁיַּקְרִיב**. Si estuviera en la tierra, el texto dice que no sería sacerdote, porque allí están quienes presentan las ofrendas conforme a la Torá: **וְהִנֵּה אִלּוּ הָיָה בָאָרֶץ לׂא הָיָה כּׂהֵן כִּי יֶשׁ־פּׂה הַכּׂהֲנִים הַמַּקְרִיבִים הַקָּרְבָּנוֹת עַל־פִּי הַתּוֹרָה**. Finalmente, los sacerdotes terrenales sirven a **לִדְמוּת וְצֵל הַדְּבָרִים שֶׁבַּשָּׁמָיִם** (“figura y sombra de las cosas celestiales”). Eric insiste en que esto no describe dos sacerdocios compitiendo por el mismo puesto: el sacerdocio levítico cumple su función terrenal, mientras el Hijo ministra en el orden celestial. La observación es una lectura de la relación entre los versos; el texto afirma la esfera y la función de cada servicio, pero no obliga a convertir “sombra” en algo falso o pecaminoso.
 
-## 8:6-9: una esperanza mejor, no una revelación inútil #hebrews_8_6-9
+## 8:6-9: una esperanza mejor, no una revelación inútil #hebreos_8_6-9
 
 El servicio de Yehoshúa es superior porque él es mediador de un pacto mejor establecido sobre mejores promesas. Eric trabaja especialmente la palabra **κρείττων** (_kreittōn_). Su sentido normal es “mejor, superior”; el contexto comparativo no dice que la esperanza anterior fuera mala, sino que la nueva administración añade eficacia y permanencia. La comparación con Hebreos 11:35 es pedagógica: allí una “mejor resurrección” no hace mala la resurrección recibida por otras personas, sino que señala una plenitud mayor.
 
@@ -77,7 +77,7 @@ La palabra **μεσίτης** (_mesitēs_) significa mediador o intermediario. E
 
 La insistencia de Eric en decir “esperanza mejorada” y no “esperanza distinta” tiene un apoyo concreto en su recorrido por el mismo libro: conecta **κρείττων** (_kreittōn_, “mejor o superior”) de 7:19 y 8:6 con la “mejor resurrección” de 11:35. La comparación es pedagógica, no una equivalencia absoluta entre cada promesa; su punto material es que un comparativo añade plenitud sin convertir lo anterior en mentira o basura. Hebreos 8 confirma la mejora mediante un mediador vivo, mejores promesas y la Torá escrita dentro del pueblo. Por eso la advertencia de la clase contra usar “pacto nuevo” como excusa para abandonar la justicia tiene apoyo textual; la aplicación a cada mandamiento concreto requiere otros pasajes.
 
-## 8:10-13: la novedad escrita en el interior #hebrews_8_10-13
+## 8:10-13: la novedad escrita en el interior #hebreos_8_10-13
 
 La promesa define el pacto: יהוה pondrá su Torá en la mente del pueblo y la escribirá sobre su corazón. **תּוֹרָה** (_torah_) significa “instrucción, enseñanza o ley”; aquí la fuerza contextual es una instrucción interiorizada, no una palabra eliminada. Eric usa esta frase para corregir la lectura que convierte “nuevo” en “sin Torá”. El texto local da razón a su observación: la Torá sigue siendo el contenido que יהוה escribe, mientras cambia el lugar y la eficacia de su inscripción.
 

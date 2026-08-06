@@ -10,12 +10,12 @@ tags:
   - david
   - mesias
 references:
-  - "#tehilim_89_1-4"
-  - "#tehilim_89_5-18"
-  - "#tehilim_89_19-29"
-  - "#tehilim_89_30-38"
-  - "#tehilim_89_39-52"
-  - "#tehilim_89_53"
+  - "#salmos_89_1-4"
+  - "#salmos_89_5-18"
+  - "#salmos_89_19-29"
+  - "#salmos_89_30-38"
+  - "#salmos_89_39-52"
+  - "#salmos_89_53"
 sources:
   - "https://www.youtube.com/watch?v=ZxxXuM0Xvnw"
   - "docs/scriptures/oe/json/psalms/89.json"
@@ -36,12 +36,12 @@ La fuente es la enseñanza pública «Tehilim/Himnos/Salmo Cap 89». Se sigue el
 
 | Unidad            | Texto hebreo local (OE), normalizado sin segmentación                                 | Función en el argumento                                                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_89_1-4   | «חסדי יהוה עולם אשירה»; «עולם חסד יבנה»; «כרתי ברית לבחירי נשבעתי לדוד עבדי»          | El himno comienza cantando el hesed y la fidelidad, y los vincula con un pacto jurado al escogido y a David.               |
-| #tehilim_89_5-18  | «מי בשחק יערך ליהוה»; «אתה מושל בגאות הים»; «צדק ומשפט מכון כסאך חסד ואמת יקדמו פניך» | La promesa se apoya en el Creador incomparable, vencedor del mar y Rey cuyo trono se funda en justicia y juicio.           |
-| #tehilim_89_19-29 | «מצאתי דוד עבדי בשמן קדשי משחתיו»; «ושמתי בים ידו»; «הוא יקראני אבי»                  | La elección, unción, fuerza y relación filial de David reciben una forma regia y expansiva.                                |
-| #tehilim_89_30-38 | «אם יעזבו בניו תורתי»; «וחסדי לא אפיר מעמו»; «לא אחלל בריתי»                          | El pacto incluye disciplina por la desobediencia, pero el texto afirma que el hesed y la palabra jurada no serán anulados. |
-| #tehilim_89_39-52 | «ואתה זנחת ותמאס התעברת עם משיחך»; «פרצת כל גדרתיו»; «עד מה יהוה תסתר לנצח»           | La segunda mitad confronta la promesa con el rechazo del ungido, la ruina de sus defensas y la vergüenza pública.          |
-| #tehilim_89_53    | «ברוך יהוה לעולם אמן ואמן»                                                            | La doxología no borra la queja; termina el libro con bendición y doble amén.                                               |
+| #salmos_89_1-4   | «חסדי יהוה עולם אשירה»; «עולם חסד יבנה»; «כרתי ברית לבחירי נשבעתי לדוד עבדי»          | El himno comienza cantando el hesed y la fidelidad, y los vincula con un pacto jurado al escogido y a David.               |
+| #salmos_89_5-18  | «מי בשחק יערך ליהוה»; «אתה מושל בגאות הים»; «צדק ומשפט מכון כסאך חסד ואמת יקדמו פניך» | La promesa se apoya en el Creador incomparable, vencedor del mar y Rey cuyo trono se funda en justicia y juicio.           |
+| #salmos_89_19-29 | «מצאתי דוד עבדי בשמן קדשי משחתיו»; «ושמתי בים ידו»; «הוא יקראני אבי»                  | La elección, unción, fuerza y relación filial de David reciben una forma regia y expansiva.                                |
+| #salmos_89_30-38 | «אם יעזבו בניו תורתי»; «וחסדי לא אפיר מעמו»; «לא אחלל בריתי»                          | El pacto incluye disciplina por la desobediencia, pero el texto afirma que el hesed y la palabra jurada no serán anulados. |
+| #salmos_89_39-52 | «ואתה זנחת ותמאס התעברת עם משיחך»; «פרצת כל גדרתיו»; «עד מה יהוה תסתר לנצח»           | La segunda mitad confronta la promesa con el rechazo del ungido, la ruina de sus defensas y la vergüenza pública.          |
+| #salmos_89_53    | «ברוך יהוה לעולם אמן ואמן»                                                            | La doxología no borra la queja; termina el libro con bendición y doble amén.                                               |
 
 ## Misericordia edificada y fidelidad que pertenece a יהוה
 

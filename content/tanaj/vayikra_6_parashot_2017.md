@@ -10,10 +10,10 @@ tags:
   - sacerdocio
   - fuego
 references:
-  - "#vayikra_6_1-6"
-  - "#vayikra_6_7-16"
-  - "#vayikra_6_17-23"
-  - "#vayikra_6_24-30"
+  - "#levitico_6_1-6"
+  - "#levitico_6_7-16"
+  - "#levitico_6_17-23"
+  - "#levitico_6_24-30"
   - "#malaquias_3_3-4"
 sources:
   - "https://www.youtube.com/watch?v=Az7vBaYqTC0"
@@ -35,18 +35,18 @@ Se sigue el capítulo según la numeración hebrea y se advierte la diferencia d
 
 | Unidad           | Texto local                                                                                                                         | Movimiento del capítulo                                                      |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| #vayikra_6_1-6   | «Esta es la torah del holocausto»; el fuego arde sobre el altar toda la noche; el sacerdote retira las cenizas y mantiene el fuego. | La instrucción convierte la continuidad del altar en responsabilidad diaria. |
-| #vayikra_6_7-16  | «Esta es la torah de la ofrenda vegetal»; una parte se quema y el resto pertenece a Aharon y sus hijos.                             | La ofrenda es regulada y compartida con el sacerdocio.                       |
-| #vayikra_6_17-23 | La ofrenda de Aharon y sus hijos se quema entera; no se come.                                                                       | El servicio del sacerdote tiene un régimen distinto.                         |
-| #vayikra_6_24-30 | «Esta es la torah de la ofrenda por el pecado»; el sacerdote come en lugar santo, con excepciones para la sangre.                   | Santidad, destino de la carne y sangre quedan delimitados.                   |
+| #levitico_6_1-6   | «Esta es la torah del holocausto»; el fuego arde sobre el altar toda la noche; el sacerdote retira las cenizas y mantiene el fuego. | La instrucción convierte la continuidad del altar en responsabilidad diaria. |
+| #levitico_6_7-16  | «Esta es la torah de la ofrenda vegetal»; una parte se quema y el resto pertenece a Aharon y sus hijos.                             | La ofrenda es regulada y compartida con el sacerdocio.                       |
+| #levitico_6_17-23 | La ofrenda de Aharon y sus hijos se quema entera; no se come.                                                                       | El servicio del sacerdote tiene un régimen distinto.                         |
+| #levitico_6_24-30 | «Esta es la torah de la ofrenda por el pecado»; el sacerdote come en lugar santo, con excepciones para la sangre.                   | Santidad, destino de la carne y sangre quedan delimitados.                   |
 
-## La numeración y el comienzo de la instrucción (6:1-2) #vayikra_6_1-2
+## La numeración y el comienzo de la instrucción (6:1-2) #levitico_6_1-2
 
 Eric inicia señalando que el capítulo castellano puede no coincidir con la numeración hebrea. En su lectura, el verso que algunas Biblias numeran como 6:1 comienza en hebreo con **וידבר יהוה אל משה לאמר**, «y habló יהוה a Moshe, diciendo», y el siguiente: **צו את אהרן ואת בניו לאמר זאת תורת העלה**, «ordena a Aharon y a sus hijos, diciendo: esta es la torah del holocausto». La diferencia no altera el contenido local, pero sí importa al seguir una cita de la clase. El texto manda a Aharon y a sus hijos: el destinatario sacerdotal es una parte real del argumento.
 
 La forma **(תורה)** (_torah_) significa instrucción, enseñanza, dirección o ley. Su fuerza contextual aquí es una norma específica para el holocausto, no una palabra vacía. Eric amplía desde esta observación: hay una torah de cada procedimiento, y la suma de mandamientos, promesas y palabras forma los cinco libros; después, la palabra divina comunicada por los profetas también puede llamarse torah en un sentido extendido. La primera afirmación es exacta para el uso de Vayikra 6; la extensión teológica es una explicación de la clase y requiere otros textos para sostenerse.
 
-## El fuego, las cenizas y la responsabilidad sacerdotal (6:2-6) #vayikra_6_2-6
+## El fuego, las cenizas y la responsabilidad sacerdotal (6:2-6) #levitico_6_2-6
 
 El local dice: «Se quemará sobre el altar toda la noche hasta la mañana, y el fuego del altar permanecerá encendido en él». El sacerdote se viste de lino, retira las cenizas a un lado del altar, cambia sus vestiduras y lleva las cenizas fuera del campamento; luego vuelve, pone leña y mantiene el fuego. La repetición del mandato es deliberada: «El fuego arderá continuamente sobre el altar; no se apagará» (6:6 en la numeración hebrea). Eric usa este detalle para mostrar que el servicio no consiste en una ceremonia ocasional. Hay vigilancia, limpieza, leña y orden.
 
@@ -54,7 +54,7 @@ El local dice: «Se quemará sobre el altar toda la noche hasta la mañana, y el
 
 La distinción de vestiduras también resiste una lectura genérica. El sacerdote usa lino para recoger las cenizas y otras vestiduras para sacarlas. El texto trata el servicio como una secuencia regulada. Eric lo conecta con la necesidad de no tratar la adoración como mecanismo improvisado. Esa aplicación es razonable, pero el versículo no ofrece por sí solo un manual moderno de culto.
 
-## La torah de la ofrenda vegetal y la porción sacerdotal (6:7-16) #vayikra_6_7-16
+## La torah de la ofrenda vegetal y la porción sacerdotal (6:7-16) #levitico_6_7-16
 
 La segunda unidad dice: **וזאת תורת המנחה**, «y esta es la torah de la ofrenda vegetal». Se lleva harina y aceite al altar; el sacerdote toma un puñado con su incienso y lo hace humear como recuerdo. Lo restante pertenece a Aharon y a sus hijos, y debe comerse sin levadura en lugar santo. Eric destaca la _minjah_ como una ofrenda de materia tangible incluso para quien no tiene ganado grande. La clase retoma la idea de que el oferente no da algo etéreo: acerca harina, aceite y una porción concreta.
 
@@ -62,13 +62,13 @@ La segunda unidad dice: **וזאת תורת המנחה**, «y esta es la torah d
 
 Eric advierte contra pensar: «doy de lo mío a Dios». Su lectura es que el oferente presenta algo que primero ha recibido de Dios. El texto regula una entrega, pero no formula aquí toda la doctrina de la propiedad. Por eso la observación funciona como aplicación de mayordomía, no como traducción de _minjah_. La porción restante para Aharon y sus hijos muestra además que el sacrificio produce una economía sacerdotal ordenada; no todo se consume en el altar.
 
-## La ofrenda del sacerdote y la aceptación (6:17-23) #vayikra_6_17-23
+## La ofrenda del sacerdote y la aceptación (6:17-23) #levitico_6_17-23
 
 Cuando Aharon y sus hijos son ungidos, la ofrenda que presentan no se come: «será quemada completamente». El texto distingue la ofrenda del sacerdote de la porción de la ofrenda vegetal que otros sacerdotes pueden comer. Eric relaciona la función sacerdotal con Aharon y desarrolla desde el título del video una lectura del sacerdote ungido y del enviado del pacto. **(משח)** (_mashaj_) significa ungir; aunque el capítulo 6 trabaja el servicio de Aharon, la identificación directa con el Mesías necesita conexiones posteriores. La relación es mesiánica y aproximada, no una equivalencia gramatical entre Aharon y Yehoshua.
 
 La clase también sostiene que la aceptación no era una operación automática: no bastaba llevar un animal defectuoso o una ofrenda que no correspondía. El capítulo 6 confirma el principio mediante sus especificaciones, aunque la fórmula explícita «para su aceptación» está desarrollada con mayor claridad en Vayikra 1. La voluntad de יהוה se expresa en el orden que el sacerdote debe obedecer. La aplicación de Eric a las palabras de Yehoshua sobre el perdón —que solo Dios puede reconciliar el pecado— es una conexión evangélica; no debe presentarse como si Vayikra 6 narrara esa escena.
 
-## La ofrenda por el pecado y los límites de la sangre (6:24-30) #vayikra_6_24-30
+## La ofrenda por el pecado y los límites de la sangre (6:24-30) #levitico_6_24-30
 
 La última unidad comienza: **זאת תורת החטאת**, «esta es la torah de la ofrenda por el pecado». El sacerdote come su carne en lugar santo; lo que toque su carne queda santo. Si su sangre se lleva dentro de la tienda del encuentro para hacer expiación en el santuario, no se come: se quema en el fuego. La repetición de **torah** no reduce el capítulo a una idea general; cada ofrenda tiene destino, lugar y participantes propios.
 

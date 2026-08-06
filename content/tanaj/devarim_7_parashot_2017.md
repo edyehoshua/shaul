@@ -6,11 +6,11 @@ tags:
   - parashot
   - devarim
 references:
-  - "#devarim_7_1"
-  - "#devarim_7_6"
-  - "#devarim_7_12"
-  - "#devarim_7_17"
-  - "#devarim_7_25"
+  - "#deuteronomio_7_1"
+  - "#deuteronomio_7_6"
+  - "#deuteronomio_7_12"
+  - "#deuteronomio_7_17"
+  - "#deuteronomio_7_25"
 sources:
   - "https://www.youtube.com/watch?v=pBcHCtYt5-s"
   - "docs/scriptures/oe/json/deuteronomy/7.json"
@@ -31,19 +31,19 @@ Esta es la nota canónica de Devarim 7 para el source ID `youtube:pBcHCtYt5-s`. 
 
 | Unidad           | Hebreo OE sin segmentación                                                                                  | TTH                                                                                                                | Función en la lectura                                                                        |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| #devarim_7_1     | **כי יביאך יהוה אלהיך אל הארץ אשר אתה בא שמה לרשתה ונשל גוים רבים מפניך**                                   | «Cuando te haya hecho entrar יהוה tu Elohim a la tierra… para heredarla»                                           | La entrada y la herencia se presentan como acción de יהוה, no como autosuficiencia nacional. |
-| #devarim_7_6–8   | **כי עם קדוש אתה ליהוה אלהיך בך בחר יהוה אלהיך להיות לו לעם סגלה** / **כי מאהבת יהוה אתכם ומשמרו את השבעה** | «Porque pueblo kadosh eres tú… te escogió»; «por el amor de יהוה hacia ustedes y debido a que guardó el juramento» | La elección se explica por amor y juramento, no por tamaño.                                  |
-| #devarim_7_11–12 | **ושמרת את המצוה ואת החקים ואת המשפטים** / **והיה עקב תשמעון את המשפטים האלה ושמרתם ועשיתם אתם**            | «Y guardarás los mandamientos…»; «en consecuencia de que escuchen… los guarden y los hagan»                        | Mishméret implica escuchar, guardar y hacer, no solo recordar una palabra.                   |
+| #deuteronomio_7_1     | **כי יביאך יהוה אלהיך אל הארץ אשר אתה בא שמה לרשתה ונשל גוים רבים מפניך**                                   | «Cuando te haya hecho entrar יהוה tu Elohim a la tierra… para heredarla»                                           | La entrada y la herencia se presentan como acción de יהוה, no como autosuficiencia nacional. |
+| #deuteronomio_7_6–8   | **כי עם קדוש אתה ליהוה אלהיך בך בחר יהוה אלהיך להיות לו לעם סגלה** / **כי מאהבת יהוה אתכם ומשמרו את השבעה** | «Porque pueblo kadosh eres tú… te escogió»; «por el amor de יהוה hacia ustedes y debido a que guardó el juramento» | La elección se explica por amor y juramento, no por tamaño.                                  |
+| #deuteronomio_7_11–12 | **ושמרת את המצוה ואת החקים ואת המשפטים** / **והיה עקב תשמעון את המשפטים האלה ושמרתם ועשיתם אתם**            | «Y guardarás los mandamientos…»; «en consecuencia de que escuchen… los guarden y los hagan»                        | Mishméret implica escuchar, guardar y hacer, no solo recordar una palabra.                   |
 
 ## Mishméret: guardar no es nostalgia
 
 El título de Eric destaca no perder de vista la _mishméret_. La raíz **(שמר)**, _shamar_, tiene el sentido normal de guardar, vigilar, preservar u observar. **משמרת** (_mishmeret_) es un sustantivo de custodia o encargo; la equivalencia con «memoria» sería incompleta. En Devarim 7, la forma verbal **ושמרת** (_veshamarta_) ordena guardar el mandamiento, los decretos y los procesos legales (#devarim*7_11). La fuerza contextual es práctica y colectiva: **תשמעון** (\_tishmeun*, «escucharán»), **ושמרתם** (_ushmartem_, «guardarán») y **ועשיתם** (_vaasitem_, «harán») forman una cadena de respuesta.
 
-El TTH traduce «procesos legales» para **משפטים** (_mishpatim_). «Ley» puede ser una aproximación pedagógica, pero no agota el término: aquí incluye decisiones y ordenanzas que deben ejecutarse. Del mismo modo, **חסד** (_hesed_) en 7:9 y 7:12 suele traducirse «bondad» o «misericordia»; «gracia» puede ser una equivalencia pastoral aproximada, no exacta en cada contexto. La promesa se funda en que יהוה guarda el pacto y el juramento a los padres (#devarim_7_8–9), y por eso la obediencia no compra retrospectivamente la elección.
+El TTH traduce «procesos legales» para **משפטים** (_mishpatim_). «Ley» puede ser una aproximación pedagógica, pero no agota el término: aquí incluye decisiones y ordenanzas que deben ejecutarse. Del mismo modo, **חסד** (_hesed_) en 7:9 y 7:12 suele traducirse «bondad» o «misericordia»; «gracia» puede ser una equivalencia pastoral aproximada, no exacta en cada contexto. La promesa se funda en que יהוה guarda el pacto y el juramento a los padres (#deuteronomio_7_8–9), y por eso la obediencia no compra retrospectivamente la elección.
 
 ## La elección no alimenta el orgullo
 
-El capítulo corrige anticipadamente la lectura triunfalista. **קדוש** (_qadosh_) significa apartado o santo; en **עם קדוש** (_am qadosh_) describe la relación de Israel con יהוה, no una afirmación de superioridad moral automática. **סגלה** (_segullah_) alude a propiedad especial o tesoro preciado; «adquisición» del TTH es una equivalencia aproximada que conserva pertenencia, pero no explica por sí sola toda la teología del término. Inmediatamente el texto niega que יהוה haya escogido a Israel por ser más numeroso: «eran el menor de entre todos los pueblos» (#devarim_7_7).
+El capítulo corrige anticipadamente la lectura triunfalista. **קדוש** (_qadosh_) significa apartado o santo; en **עם קדוש** (_am qadosh_) describe la relación de Israel con יהוה, no una afirmación de superioridad moral automática. **סגלה** (_segullah_) alude a propiedad especial o tesoro preciado; «adquisición» del TTH es una equivalencia aproximada que conserva pertenencia, pero no explica por sí sola toda la teología del término. Inmediatamente el texto niega que יהוה haya escogido a Israel por ser más numeroso: «eran el menor de entre todos los pueblos» (#deuteronomio_7_7).
 
 Por eso el amor y el juramento de 7:8 deben leerse antes que cualquier aplicación a mérito humano. «Guardar el pacto» es una respuesta agradecida y responsable, no una técnica para manipular a יהוה. La clase puede asociar la custodia con no perder de vista la enseñanza; el texto apoya esa dirección siempre que se mantenga el orden: memoria de la liberación, obediencia y vida comunitaria.
 
@@ -51,7 +51,7 @@ Por eso el amor y el juramento de 7:8 deben leerse antes que cualquier aplicaci�
 
 En 7:17–24, Mosheh anticipa el miedo ante naciones grandes. **זכור תזכר** (_zakhor tizkor_) intensifica «recordar»: «recordando, recuerda» lo que יהוה hizo a Faraón. El término **(זכר)**, _zakhar_, significa traer a la memoria; aquí su fuerza contextual es memoria activa que combate el temor y reubica la confianza en la mano fuerte de יהוה. **צרעה** (_tsirah_) significa literalmente avispa. Eric observa, según el eje de la clase, que no debe perderse de vista la acción divina; el versículo permite mencionar la imagen de la avispa, pero no autoriza afirmar con certeza que sea una plaga, enfermedad o ejército simbólico. Es una equivalencia interpretativa pendiente, no una traducción exacta.
 
-El texto también limita una lectura de conquista instantánea: יהוה expulsará «poco a poco» para que no se multipliquen los animales del campo (#devarim_7_22). Finalmente, 7:25–26 ordena quemar las estatuas y no introducir abominación en la casa. La custodia llega hasta el umbral doméstico; no basta repetir una confesión mientras se conserva aquello que el capítulo manda rechazar.
+El texto también limita una lectura de conquista instantánea: יהוה expulsará «poco a poco» para que no se multipliquen los animales del campo (#deuteronomio_7_22). Finalmente, 7:25–26 ordena quemar las estatuas y no introducir abominación en la casa. La custodia llega hasta el umbral doméstico; no basta repetir una confesión mientras se conserva aquello que el capítulo manda rechazar.
 
 ## Mapa de la enseñanza de Eric
 

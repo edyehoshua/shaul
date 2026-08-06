@@ -1,6 +1,6 @@
 ---
 title: "Marcos 6: envío, pan, mar y compasión"
-description: "Estudio canónico de Marcos 6: rechazo en Nazaret, envío de los Doce, muerte de Iojanán, pan para la multitud y Yehoshua sobre el mar."
+description: "Estudio canónico de Marcos 6: rechazo en Nazaret, envío de los Doce, muerte de Yojanán, pan para la multitud y Yehoshua sobre el mar."
 date: 2026-07-29
 tags:
   - markos
@@ -11,30 +11,30 @@ tags:
   - compasion
   - mesias
 references:
-  - "#markos_6_1"
-  - "#markos_6_3"
-  - "#markos_6_6"
-  - "#markos_6_7"
-  - "#markos_6_8"
-  - "#markos_6_11"
-  - "#markos_6_12"
-  - "#markos_6_14"
-  - "#markos_6_17"
-  - "#markos_6_20"
-  - "#markos_6_29"
-  - "#markos_6_30"
-  - "#markos_6_31"
-  - "#markos_6_34"
-  - "#markos_6_37"
-  - "#markos_6_39"
-  - "#markos_6_41"
-  - "#markos_6_43"
-  - "#markos_6_45"
-  - "#markos_6_48"
-  - "#markos_6_50"
-  - "#markos_6_52"
-  - "#markos_6_56"
-  - "#tehilim_107_29"
+  - "#marcos_6_1"
+  - "#marcos_6_3"
+  - "#marcos_6_6"
+  - "#marcos_6_7"
+  - "#marcos_6_8"
+  - "#marcos_6_11"
+  - "#marcos_6_12"
+  - "#marcos_6_14"
+  - "#marcos_6_17"
+  - "#marcos_6_20"
+  - "#marcos_6_29"
+  - "#marcos_6_30"
+  - "#marcos_6_31"
+  - "#marcos_6_34"
+  - "#marcos_6_37"
+  - "#marcos_6_39"
+  - "#marcos_6_41"
+  - "#marcos_6_43"
+  - "#marcos_6_45"
+  - "#marcos_6_48"
+  - "#marcos_6_50"
+  - "#marcos_6_52"
+  - "#marcos_6_56"
+  - "#salmos_107_29"
 sources:
   - "https://www.youtube.com/watch?v=Ug-0YTiNV34"
   - "https://www.youtube.com/watch?v=47kx4pTWdFA"
@@ -50,7 +50,7 @@ source_ids:
 
 # Tesis
 
-Marcos 6 avanza desde el rechazo de Yehoshua en su propia tierra hasta una multitud alimentada y unos discípulos rescatados en el mar. La secuencia no separa enseñanza, misión y compasión: quien no es recibido en Nazaret envía a los Doce sin garantías materiales; el relato de Iojanán muestra el costo de una palabra fiel frente al poder; y el maestro que manda descansar también ve a la gente como ovejas sin pastor, les enseña, les da pan y va hacia los suyos en la noche. La clase del hermano Eric subraya la sobriedad del enviado y el trasfondo semítico de algunos términos; esta nota conserva esas observaciones y las mide por el texto local, sin convertir propuestas lingüísticas o históricas en certezas automáticas.
+Marcos 6 avanza desde el rechazo de Yehoshua en su propia tierra hasta una multitud alimentada y unos discípulos rescatados en el mar. La secuencia no separa enseñanza, misión y compasión: quien no es recibido en Nazaret envía a los Doce sin garantías materiales; el relato de Yojanán muestra el costo de una palabra fiel frente al poder; y el maestro que manda descansar también ve a la gente como ovejas sin pastor, les enseña, les da pan y va hacia los suyos en la noche. La clase del hermano Eric subraya la sobriedad del enviado y el trasfondo semítico de algunos términos; esta nota conserva esas observaciones y las mide por el texto local, sin convertir propuestas lingüísticas o históricas en certezas automáticas.
 
 ## Alcance de la nota
 
@@ -62,14 +62,14 @@ Marcos 6 avanza desde el rechazo de Yehoshua en su propia tierra hasta una multi
 
 | Referencia          | Texto local                                                                                                                                                                           | Función en el argumento                                                                                         |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| #markos_6_1-3       | TTH: Yehoshua entra en la tierra de su parentela, enseña en Shabat y los oyentes preguntan por su sabiduría y sus obras: «¿No es este el agricultor, hijo de Miriam...?».             | La familiaridad de Nazaret no produce reconocimiento sino tropiezo.                                             |
-| #markos_6_4-6       | TTH: «No hay profeta sin honra sino en la tierra de su parentela»; allí sana a pocos y se asombra de su falta de emunah.                                                              | La oposición de los cercanos enmarca el envío posterior.                                                        |
-| #markos_6_7-13      | TTH: llama a los Doce, los envía de dos en dos, les da poder, les ordena viajar ligeros, salir de donde no los reciban y proclamar teshuváh.                                          | La misión es delegada y dependiente de Yehoshua, no una plataforma de prestigio.                                |
-| #markos_6_14-20     | TTH: Horodós oye que el nombre de Yehoshua se engrandece y relaciona los poderes con Iojanán; Iojanán le había dicho que no era apropiado tomar a la mujer de su hermano.             | El narrador inserta la muerte de Iojanán entre misión y regreso de los enviados.                                |
-| #markos_6_29-31     | TTH: los discípulos de Iojanán sepultan su cuerpo; los enviados cuentan lo hecho y enseñado, y Yehoshua les manda descansar.                                                          | La obra no borra ni el duelo ni el límite corporal de los servidores.                                           |
-| #markos_6_34, 37-42 | TTH: Yehoshua ve una congregación «como ovejas que no tenían pastor», les enseña y ordena: «Denles ustedes de comer»; toma cinco panes y dos peces, mira al cielo, bendice y reparte. | La compasión incluye enseñanza y provisión concreta, e involucra a los discípulos.                              |
-| #markos_6_45-52     | TTH: Yehoshua va hacia la barca caminando sobre el mar y dice: «¡Fortalézcanse, soy Yo, no teman!»; ellos no entendían acerca del pan.                                                | El mar y el pan pertenecen a una misma lección sobre la identidad y el cuidado del maestro.                     |
-| #tehilim_107_29     | TTH: «Convirtió la tormenta en tranquilidad, y se calmaron las olas».                                                                                                                 | El salmo ayuda a ponderar el peso bíblico de la calma del mar, sin convertirlo en una cita explícita de Marcos. |
+| #marcos_6_1-3       | TTH: Yehoshua entra en la tierra de su parentela, enseña en Shabat y los oyentes preguntan por su sabiduría y sus obras: «¿No es este el agricultor, hijo de Miriam...?».             | La familiaridad de Nazaret no produce reconocimiento sino tropiezo.                                             |
+| #marcos_6_4-6       | TTH: «No hay profeta sin honra sino en la tierra de su parentela»; allí sana a pocos y se asombra de su falta de emunah.                                                              | La oposición de los cercanos enmarca el envío posterior.                                                        |
+| #marcos_6_7-13      | TTH: llama a los Doce, los envía de dos en dos, les da poder, les ordena viajar ligeros, salir de donde no los reciban y proclamar teshuváh.                                          | La misión es delegada y dependiente de Yehoshua, no una plataforma de prestigio.                                |
+| #marcos_6_14-20     | TTH: Horodós oye que el nombre de Yehoshua se engrandece y relaciona los poderes con Yojanán; Yojanán le había dicho que no era apropiado tomar a la mujer de su hermano.             | El narrador inserta la muerte de Yojanán entre misión y regreso de los enviados.                                |
+| #marcos_6_29-31     | TTH: los discípulos de Yojanán sepultan su cuerpo; los enviados cuentan lo hecho y enseñado, y Yehoshua les manda descansar.                                                          | La obra no borra ni el duelo ni el límite corporal de los servidores.                                           |
+| #marcos_6_34, 37-42 | TTH: Yehoshua ve una congregación «como ovejas que no tenían pastor», les enseña y ordena: «Denles ustedes de comer»; toma cinco panes y dos peces, mira al cielo, bendice y reparte. | La compasión incluye enseñanza y provisión concreta, e involucra a los discípulos.                              |
+| #marcos_6_45-52     | TTH: Yehoshua va hacia la barca caminando sobre el mar y dice: «¡Fortalézcanse, soy Yo, no teman!»; ellos no entendían acerca del pan.                                                | El mar y el pan pertenecen a una misma lección sobre la identidad y el cuidado del maestro.                     |
+| #salmos_107_29     | TTH: «Convirtió la tormenta en tranquilidad, y se calmaron las olas».                                                                                                                 | El salmo ayuda a ponderar el peso bíblico de la calma del mar, sin convertirlo en una cita explícita de Marcos. |
 
 ## Hoja léxica
 
@@ -82,7 +82,7 @@ Marcos 6 avanza desde el rechazo de Yehoshua en su propia tierra hasta una multi
 | **(תשובה)**         | teshuvah        | retorno, volverse                                                        | El v. 12 resume la proclamación de los Doce: que las personas se vuelvan. No equivale a una emoción pasajera, sino que nombra un giro de vida.                                                               | Aproximada con el llamado griego a arrepentirse.                                                                       |
 | **(σπλαγχνίζομαι)** | splagchnizomai  | conmoverse profundamente, compadecerse                                   | En 6:34 la compasión de Yehoshua se expresa en enseñar y alimentar; no queda reducida a sentimiento.                                                                                                         | No se debe imponer una equivalencia hebrea única sin estudiar el contexto.                                             |
 
-## Nazaret: conocer el origen no es escuchar al profeta (6:1–6) #markos_6_1-6
+## Nazaret: conocer el origen no es escuchar al profeta (6:1–6) #marcos_6_1-6
 
 La primera clase observa que Yehoshua entra en la sinagoga en Shabat y enseña dentro de una práctica judía reconocible. El texto confirma la escena sinagogal y el asombro por su sabiduría y sus obras; no especifica qué lectura previa se hizo ni una liturgia completa. Por ello puede decirse con seguridad que Marcos lo sitúa enseñando en su propia comunidad, pero no construir sobre ese versículo cada detalle de una secuencia de parashá y profetas.
 
@@ -90,7 +90,7 @@ Eric se detiene en **(τέκτων)** y rechaza la imagen tradicional de un carp
 
 La clase conecta la falta de **(אמונה)** con practicar lo recibido. Como aplicación pastoral, evita tratar la fidelidad como un sentimiento sin obras. El texto local afirma que Yehoshua se asombró de la falta de emunah y siguió enseñando las aldeas; no atribuye la limitación a una carencia de poder suyo. La lectura más sobria es que el rechazo humano forma parte del episodio y que Yehoshua continúa enseñando en vez de transformar el asombro hostil en espectáculo.
 
-## Los Doce: enviados con autoridad, sobriedad y palabra (6:7–13) #markos_6_7-13
+## Los Doce: enviados con autoridad, sobriedad y palabra (6:7–13) #marcos_6_7-13
 
 Después del rechazo, Yehoshua llama a los Doce y los envía de dos en dos. Eric propone que un **(שליח)** no es simplemente un mensajero sino alguien que representa al que lo manda. El paralelo ayuda a preguntar por la fuente de la comisión: estos no se autoenvían, reciben poder y mandatos de Yehoshua. Pero el alcance técnico del _shaliaj_ rabínico y el dicho «el enviado de una persona es como la persona misma» requieren una referencia exacta y estudio de fecha y contexto; no deben colocarse sin matiz dentro de Marcos.
 
@@ -100,13 +100,13 @@ En la exposición de la parte 19, Eric recalca precisamente la lista negativa �
 
 Eric interpreta sacudir el polvo como dejar una instrucción mínima sin convertir el rechazo en coerción. El v. 11 sí manda salir y sacudir el polvo como testimonio; el verbo **(ἐκτινάξατε)**, _ektinaxate_, «sacudan completamente», expresa un gesto público de separación, no una violencia ni una campaña de presión. El sentido exacto del gesto y su relación con máximas rabínicas necesitan cotejo, pero el hilo narrativo resulta claro: los Doce proclaman **(μετανοῶσιν)**, _metanoōsin_, «que se vuelvan o se arrepientan», liberan y ungen a enfermos; no se les encarga dominar a quien no escucha.
 
-## Iojanán ante Horodós: una palabra verdadera y un poder que se protege (6:14–29) #markos_6_14-29
+## Yojanán ante Horodós: una palabra verdadera y un poder que se protege (6:14–29) #marcos_6_14-29
 
-La narración se interrumpe para explicar por qué Horodós asocia a Yehoshua con Iojanán. Las diversas identificaciones de 6:14–16 pertenecen al temor y a la culpa de Horodós; no son un esquema doctrinal de reencarnación. El texto vuelve atrás: Iojanán había hablado contra una unión que consideraba impropia, Herodit tramaba contra él y Horodós, aunque lo temía y escuchaba con agrado, termina atrapado por su juramento y su banquete.
+La narración se interrumpe para explicar por qué Horodós asocia a Yehoshua con Yojanán. Las diversas identificaciones de 6:14–16 pertenecen al temor y a la culpa de Horodós; no son un esquema doctrinal de reencarnación. El texto vuelve atrás: Yojanán había hablado contra una unión que consideraba impropia, Herodit tramaba contra él y Horodós, aunque lo temía y escuchaba con agrado, termina atrapado por su juramento y su banquete.
 
-La clase llama a este bloque un paréntesis histórico, pero su colocación tiene peso. Entre el envío y el regreso de los Doce aparece un profeta encarcelado y asesinado por decir una palabra incómoda. Los discípulos de Iojanán realizan la tarea sobria de recoger y sepultar el cuerpo (v. 29). Marcos no romantiza la misión: hay enseñanza, sanidad y respuesta, pero también duelo, autoridades vulnerables al orgullo y una palabra que puede costar la vida.
+La clase llama a este bloque un paréntesis histórico, pero su colocación tiene peso. Entre el envío y el regreso de los Doce aparece un profeta encarcelado y asesinado por decir una palabra incómoda. Los discípulos de Yojanán realizan la tarea sobria de recoger y sepultar el cuerpo (v. 29). Marcos no romantiza la misión: hay enseñanza, sanidad y respuesta, pero también duelo, autoridades vulnerables al orgullo y una palabra que puede costar la vida.
 
-## Descanso, compasión y el pan confiado (6:30–44) #markos_6_30-44
+## Descanso, compasión y el pan confiado (6:30–44) #marcos_6_30-44
 
 Los **(ἀπόστολοι)** regresan y dan cuenta de «todo lo que habían hecho y lo que habían enseñado». Yehoshua no responde con una exigencia de producir más: «Vengan ... y descansen un poco». Esta orden importa porque la multitud ya impide incluso comer. El descanso no es abandono de la gente, sino una necesidad reconocida por quien los había enviado.
 
@@ -114,11 +114,11 @@ La multitud los anticipa. Al verla, Yehoshua se conmueve porque son como ovejas 
 
 No es necesario inventar un mecanismo para que el relato funcione. Marcos afirma cinco panes, dos peces, saciedad colectiva y doce canastas. También deja que el lector vea la pedagogía: la provisión pasa por las manos de discípulos que acababan de volver de ser enviados. El pan compartido no es un premio para una élite; responde a una congregación enseñada y atendida por el pastor.
 
-La secuencia también corrige una lectura que separa milagro y responsabilidad. Yehoshua manda sentar a la gente «por grupos» sobre la hierba, pregunta por lo disponible, bendice y parte el pan, pero hace que los discípulos lo distribuyan (#markos_6_39-41). Después todos comen y quedan satisfechos, y ellos recogen doce canastas con los fragmentos y los peces (#markos_6_42-43). El texto no explica que cada canasta simbolice una tribu ni autoriza a convertir el número en una clave independiente; sí muestra que la abundancia recibida no cancela el cuidado ordenado ni el trabajo posterior de recoger. La observación de Eric sobre servir con recursos limitados queda así apoyada por el orden narrativo: la escasez es presentada, la provisión viene de Yehoshua y la tarea continúa en manos de los enviados.
+La secuencia también corrige una lectura que separa milagro y responsabilidad. Yehoshua manda sentar a la gente «por grupos» sobre la hierba, pregunta por lo disponible, bendice y parte el pan, pero hace que los discípulos lo distribuyan (#marcos_6_39-41). Después todos comen y quedan satisfechos, y ellos recogen doce canastas con los fragmentos y los peces (#marcos_6_42-43). El texto no explica que cada canasta simbolice una tribu ni autoriza a convertir el número en una clave independiente; sí muestra que la abundancia recibida no cancela el cuidado ordenado ni el trabajo posterior de recoger. La observación de Eric sobre servir con recursos limitados queda así apoyada por el orden narrativo: la escasez es presentada, la provisión viene de Yehoshua y la tarea continúa en manos de los enviados.
 
-## El mar y el pan que todavía no entendían (6:45–56) #markos_6_45-56
+## El mar y el pan que todavía no entendían (6:45–56) #marcos_6_45-56
 
-Inmediatamente Yehoshua manda a los discípulos a la barca, despide a la multitud y sube al monte a orar. En la cuarta vigilia los ve esforzándose contra el viento y va hacia ellos caminando sobre el mar. La clase anterior de Marcos 4 ya había relacionado el dominio de las aguas con los salmos. Aquí #tehilim_107_29 vuelve a ofrecer una medida bíblica: calmar el mar pertenece a la obra de יהוה. Marcos no formula una cita, pero la escena intensifica la pregunta por la identidad de Yehoshua.
+Inmediatamente Yehoshua manda a los discípulos a la barca, despide a la multitud y sube al monte a orar. En la cuarta vigilia los ve esforzándose contra el viento y va hacia ellos caminando sobre el mar. La clase anterior de Marcos 4 ya había relacionado el dominio de las aguas con los salmos. Aquí #salmos_107_29 vuelve a ofrecer una medida bíblica: calmar el mar pertenece a la obra de יהוה. Marcos no formula una cita, pero la escena intensifica la pregunta por la identidad de Yehoshua.
 
 La frase «soy Yo» de 6:50 los llama a fortalecerse y no temer. No es prudente convertir por sí sola esa fórmula en una prueba lingüística exhaustiva sobre el nombre divino; su fuerza inmediata es la voz reconocible que responde al terror de los discípulos. Cuando sube a la barca, el viento se calma. El narrador concluye que no entendían acerca de los panes y que su corazón estaba entenebrecido. Por tanto, el mar no es una escena aislada: aun después de comer, los discípulos necesitan aprender qué clase de cuidado ha mostrado el que los envió, los alimentó y fue hacia ellos.
 
@@ -170,13 +170,13 @@ La observación de Eric sobre **(τέκτων)** también debe conservarse en su
 
 ## Control añadido: misión, muerte y retorno al pastor
 
-El paréntesis de Iojanán no rompe la misión, sino que muestra su costo. **(ἤκουσεν)**, _ēkousen_, «oyó», introduce la reacción de Horodós ante el nombre de Yehoshua; **(ἔλεγεν)**, _elegen_, «decía», repite sus hipótesis sobre Iojanán, Eliyahu o un profeta. Estas formas narran voces de temor y rumor, no una confesión autorizada del narrador. La relación temática con **(שמע)**, _shama_, «oír», es aproximada; no debe usarse para convertir cada escucha en obediencia.
+El paréntesis de Yojanán no rompe la misión, sino que muestra su costo. **(ἤκουσεν)**, _ēkousen_, «oyó», introduce la reacción de Horodós ante el nombre de Yehoshua; **(ἔλεγεν)**, _elegen_, «decía», repite sus hipótesis sobre Yojanán, Eliyahu o un profeta. Estas formas narran voces de temor y rumor, no una confesión autorizada del narrador. La relación temática con **(שמע)**, _shama_, «oír», es aproximada; no debe usarse para convertir cada escucha en obediencia.
 
-En 6:17–20, **(συνέδησεν)**, _synedēsen_, «ató o encarceló», y **(ἀπεκεφάλισεν)**, _apekephalisen_, «decapitó», describen la violencia ejercida por el poder sobre Iojanán. Marcos no presenta su muerte como fracaso de la palabra profética: el episodio conserva el testimonio contra una unión ilícita y deja al descubierto cómo un juramento, un banquete y el temor a los invitados pueden arrastrar a Horodós. La comparación con **(נביא)**, _navi_, «profeta», ilumina la función de Iojanán, pero no sustituye el vocabulario griego ni añade una cronología externa.
+En 6:17–20, **(συνέδησεν)**, _synedēsen_, «ató o encarceló», y **(ἀπεκεφάλισεν)**, _apekephalisen_, «decapitó», describen la violencia ejercida por el poder sobre Yojanán. Marcos no presenta su muerte como fracaso de la palabra profética: el episodio conserva el testimonio contra una unión ilícita y deja al descubierto cómo un juramento, un banquete y el temor a los invitados pueden arrastrar a Horodós. La comparación con **(נביא)**, _navi_, «profeta», ilumina la función de Yojanán, pero no sustituye el vocabulario griego ni añade una cronología externa.
 
 Cuando los enviados regresan, **(συναχθέντες)**, _synachthentes_, «reunidos», cuentan lo que hicieron y enseñaron; Yehoshua responde con **(ἀναπαύσασθε)**, _anapausasthe_, «descansen». La cadena une persecución, servicio y límite corporal: el mismo capítulo que muestra la muerte de un testigo reconoce que los enviados necesitan descanso antes de volver a servir. Así, la compasión posterior hacia la multitud no borra el duelo ni convierte la misión en rendimiento ilimitado.
 
-## Control de la comisión: autoridad recibida y testimonio delimitado (6:7-13) #markos_6_7-13
+## Control de la comisión: autoridad recibida y testimonio delimitado (6:7-13) #marcos_6_7-13
 
 El envío de los Doce contiene una relación que la clase de Eric resume mediante _shaliaj_, pero que Marcos expresa con acciones y objetos concretos. **ἐδίδου**, _edidou_, «daba», en 6:7 pone la autoridad en manos de Yehoshua; **παρήγγειλεν**, _parēngeilen_, «ordenó o encargó», introduce las instrucciones sobre el camino; y **κηρύσσειν**, _kērýssein_, «proclamar», define la tarea pública. La equivalencia con **שלח**, _shalaj_, «enviar», es funcional y aproximada: el texto griego prueba una comisión, no todas las reglas posteriores del representante.
 
@@ -202,17 +202,17 @@ La exposición de Eric presenta la compasión como algo que se verifica en la en
 
 Así, el capítulo no termina con el prodigio del mar como espectáculo. El mismo Yehoshua que dice «soy yo» a los discípulos vuelve a la tierra, donde la gente busca ayuda y la recibe en el espacio público. El contraste con Nazaret queda abierto: el conocimiento familiar puede producir tropiezo, mientras quienes reconocen al maestro llevan a los vulnerables hasta él. Es una inferencia narrativa apoyada por la repetición de reconocer, llevar y tocar; no una regla que permita medir la fe de cada persona por el resultado de una enfermedad.
 
-## El paréntesis de Iojanán prueba el costo del envío (6:14-29) #markos_6_14-29
+## El paréntesis de Yojanán prueba el costo del envío (6:14-29) #marcos_6_14-29
 
-La inserción de Iojanán no es un desvío que permita atribuirle a Eric una cronología externa. Horodós oye (**ἀκούσας**, _akousas_, «habiendo oído») el nombre de Yehoshua y dice (**ἔλεγεν**, _elegen_, «decía») que Iojanán resucitó o que se levantó un profeta. Son voces de temor y conjetura dentro de la narración, no la explicación del evangelista sobre la identidad del Mesías. La relación de **ἀκούω**, _akouō_, con **(שמע)**, _shama_, «oír o escuchar», es una analogía semítica de campo; no demuestra que Marcos esté traduciendo una forma hebrea.
+La inserción de Yojanán no es un desvío que permita atribuirle a Eric una cronología externa. Horodós oye (**ἀκούσας**, _akousas_, «habiendo oído») el nombre de Yehoshua y dice (**ἔλεγεν**, _elegen_, «decía») que Yojanán resucitó o que se levantó un profeta. Son voces de temor y conjetura dentro de la narración, no la explicación del evangelista sobre la identidad del Mesías. La relación de **ἀκούω**, _akouō_, con **(שמע)**, _shama_, «oír o escuchar», es una analogía semítica de campo; no demuestra que Marcos esté traduciendo una forma hebrea.
 
-El relato vuelve luego a la causa concreta del encarcelamiento: Iojanán decía (**ἔλεγεν**, _elegen_) a Horodós que no le era lícito tomar a la mujer de su hermano. **ἔξεστιν**, _exestin_, significa «es lícito o está permitido»; en este contexto evalúa la legitimidad moral de la unión, no una preferencia personal del profeta. La forma puede compararse funcionalmente con **(מותר)**, _mutar_, «permitido», pero no son equivalentes textuales. **συνέδησεν**, _synedēsen_, «ató o encarceló», y **ἀπεκεφάλισεν**, _apekephalisen_, «decapitó», hacen visible el precio de esa palabra frente al poder. Así, la observación de Eric sobre un enviado que no busca prestigio queda probada por el capítulo completo: la misión proclama retorno y sanidad, pero no promete seguridad al testigo que habla con verdad.
+El relato vuelve luego a la causa concreta del encarcelamiento: Yojanán decía (**ἔλεγεν**, _elegen_) a Horodós que no le era lícito tomar a la mujer de su hermano. **ἔξεστιν**, _exestin_, significa «es lícito o está permitido»; en este contexto evalúa la legitimidad moral de la unión, no una preferencia personal del profeta. La forma puede compararse funcionalmente con **(מותר)**, _mutar_, «permitido», pero no son equivalentes textuales. **συνέδησεν**, _synedēsen_, «ató o encarceló», y **ἀπεκεφάλισεν**, _apekephalisen_, «decapitó», hacen visible el precio de esa palabra frente al poder. Así, la observación de Eric sobre un enviado que no busca prestigio queda probada por el capítulo completo: la misión proclama retorno y sanidad, pero no promete seguridad al testigo que habla con verdad.
 
-El cierre del bloque también prepara 6:30. Los discípulos de Iojanán (**μαθηταί**, _mathētai_, «discípulos o aprendices») toman el cuerpo y lo colocan en un sepulcro; después los enviados de Yehoshua regresan para informar. La repetición de **μαθητής**, _mathētēs_, enlaza duelo y servicio sin confundir sus comunidades. «Discípulo» es una equivalencia contextual cercana a **(תלמיד)**, _talmid_, «aprendiz», pero la comparación no autoriza a importar aquí toda una estructura rabínica. Marcos deja que el descanso posterior de los Doce responda al costo narrado: servir fielmente incluye reconocer la muerte, rendir cuentas y recuperar fuerzas.
+El cierre del bloque también prepara 6:30. Los discípulos de Yojanán (**μαθηταί**, _mathētai_, «discípulos o aprendices») toman el cuerpo y lo colocan en un sepulcro; después los enviados de Yehoshua regresan para informar. La repetición de **μαθητής**, _mathētēs_, enlaza duelo y servicio sin confundir sus comunidades. «Discípulo» es una equivalencia contextual cercana a **(תלמיד)**, _talmid_, «aprendiz», pero la comparación no autoriza a importar aquí toda una estructura rabínica. Marcos deja que el descanso posterior de los Doce responda al costo narrado: servir fielmente incluye reconocer la muerte, rendir cuentas y recuperar fuerzas.
 
 ## Control de dependencia y fuentes
 
-## Reparación dirigida: el pan interpreta el envío y el mar (6:7-56) #markos_6_7-56
+## Reparación dirigida: el pan interpreta el envío y el mar (6:7-56) #marcos_6_7-56
 
 La sobriedad de los Doce no es un lema separado de la compasión. En 6:7, **ἐδίδου**, _edidou_, «daba», coloca la autoridad en Yehoshua; **παρήγγειλεν**, _parēngeilen_, «ordenó o encargó», introduce las condiciones del camino; y **κηρύσσειν**, _kēryssein_, «proclamar», define la tarea. La comparación de Eric con **שליח**, _shaliaj_, «enviado o representante», ayuda a explicar la dependencia, pero sigue siendo una equivalencia funcional: Marcos prueba la comisión mediante los mandatos y el informe posterior, no mediante un título autónomo.
 
@@ -224,11 +224,11 @@ El mar confirma la misma dependencia. **εἶδεν**, _eiden_, «vio», dice qu
 
 El cierre en Genesaret evita que el capítulo termine en espectáculo. **κρασπέδου**, _kraspedou_, «borde, fleco o borla», describe la parte del manto que los enfermos buscan tocar; **διεσῴζοντο**, _diesōzonto_, «eran salvados, preservados o sanados», recibe su matiz de la escena de cuerpos llevados a las plazas. La comparación con **ציצת**, _tsitsit_, «flecos», es aproximada y no convierte el borde en una fórmula mágica. Así, la lectura de Eric queda probada por el orden completo: comisión recibida, proclamación, descanso, enseñanza, pan compartido, presencia en el mar y compasión que alcanza aldeas concretas.
 
-La lectura canónica conserva el orden de Marcos 6: rechazo en Nazaret (6:1–6), comisión y sobriedad de los Doce (6:7–13), muerte de Iojanán dentro del relato de la misión (6:14–29), retorno y descanso (6:30–31), enseñanza y pan (6:34–44), auxilio en el mar y sanidades (6:45–56). Los tres videos públicos de Eric pertenecen exclusivamente a esta nota mediante `youtube:Ug-0YTiNV34`, `youtube:47kx4pTWdFA` y `youtube:BrbPFZ2Mh6I`; las referencias a sus observaciones no crean una segunda nota canónica para el capítulo.
+La lectura canónica conserva el orden de Marcos 6: rechazo en Nazaret (6:1–6), comisión y sobriedad de los Doce (6:7–13), muerte de Yojanán dentro del relato de la misión (6:14–29), retorno y descanso (6:30–31), enseñanza y pan (6:34–44), auxilio en el mar y sanidades (6:45–56). Los tres videos públicos de Eric pertenecen exclusivamente a esta nota mediante `youtube:Ug-0YTiNV34`, `youtube:47kx4pTWdFA` y `youtube:BrbPFZ2Mh6I`; las referencias a sus observaciones no crean una segunda nota canónica para el capítulo.
 
 El JSON local `docs/scriptures/tth/json/markos.json` gobierna las afirmaciones sobre el texto de Marcos. Tehilim 107:29 funciona como comparación pública delimitada: el salmo describe a יהוה calmando la tormenta, pero Marcos no presenta la escena como una cita formal. Las equivalencias **(τέκτων)**–**(חורש)** y **(ἀπόστολοι)**–**(שליחים)** son ayudas de campo semántico y no sustituyen las formas griegas; **(σπλαγχνίζομαι)** se explica por su contexto narrativo de enseñar, alimentar y sanar. Cualquier afirmación histórica sobre sinagoga, _shaliaj_ u hospitalidad permanece calificada en la nota.
 
-## Prueba ordenada: rechazo, envío, pan y presencia (6:1-56) #markos_6_1-56
+## Prueba ordenada: rechazo, envío, pan y presencia (6:1-56) #marcos_6_1-56
 
 La secuencia del capítulo local impide tratar el envío como un título honorífico y el pan como un milagro aislado. En 6:3, TTH registra que los vecinos preguntan si Yehoshua no es «el agricultor, hijo de Miriam» y que «tropezaron por Él»; **ἐσκανδαλίζοντο**, _eskandalizonto_, «tropezaban o se ofendían», describe una reacción social, no una evaluación doctrinal del oficio. En 6:6, **ἐθαύμασεν**, _ethaumasen_, «se asombró», responde a la falta de emunah y no a una carencia de poder. Eric observa que la familiaridad puede impedir la escucha; el texto lo prueba por el tropiezo y por el hecho de que Yehoshua sigue enseñando por las aldeas.
 
@@ -250,11 +250,11 @@ Finalmente, la provisión debe leerse junto al descanso. **ἀναπαύσασθ
 - [ ] Verificar fuentes y fechas del concepto **שליח** cuando se use para iluminar **ἀπόστολοι**, sin importar reglas jurídicas posteriores al relato.
 - [ ] Documentar el trasfondo del gesto de sacudir el polvo (6:11) y su relación con prácticas de separación conocidas.
 - [ ] Examinar si la frase **ἐγώ εἰμι** de 6:50 debe leerse solo como identificación o también en diálogo con fórmulas bíblicas del nombre divino, sin forzar una equivalencia exclusiva.
-- [ ] Delimitar el valor comparativo de #tehilim_107_29 respecto del mar de Marcos 6, manteniéndolo como trasfondo y no como cita explícita del evangelista.
+- [ ] Delimitar el valor comparativo de #salmos_107_29 respecto del mar de Marcos 6, manteniéndolo como trasfondo y no como cita explícita del evangelista.
 
 ## Conclusión
 
-Marcos 6 presenta una misión que no nace de la autopromoción: Yehoshua envía, da autoridad, recibe el informe y manda descansar. El rechazo en Nazaret, la muerte de Iojanán y el viento contrario impiden una lectura triunfalista. Sin embargo, el capítulo tampoco deja a los enviados en la escasez o a la multitud sin atención: el maestro enseña, da pan, llega a la barca y sana a quienes acuden. La fidelidad que la clase llama emunah se prueba justamente allí: en escuchar la orden, servir con lo que se recibe y volver a reconocer a Yehoshua cuando el temor oscurece la comprensión.
+Marcos 6 presenta una misión que no nace de la autopromoción: Yehoshua envía, da autoridad, recibe el informe y manda descansar. El rechazo en Nazaret, la muerte de Yojanán y el viento contrario impiden una lectura triunfalista. Sin embargo, el capítulo tampoco deja a los enviados en la escasez o a la multitud sin atención: el maestro enseña, da pan, llega a la barca y sana a quienes acuden. La fidelidad que la clase llama emunah se prueba justamente allí: en escuchar la orden, servir con lo que se recibe y volver a reconocer a Yehoshua cuando el temor oscurece la comprensión.
 
 ## Control de orden: comisión, descanso, pan y presencia
 

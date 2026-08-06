@@ -9,12 +9,12 @@ tags:
   - justicia
   - cercania
 references:
-  - "#tehilim_73_1-12"
-  - "#tehilim_73_13-17"
-  - "#tehilim_73_18-28"
-  - "#tehilim_19_9"
-  - "#melajim_alef_19_14-18"
-  - "#tehilim_119_71"
+  - "#salmos_73_1-12"
+  - "#salmos_73_13-17"
+  - "#salmos_73_18-28"
+  - "#salmos_19_9"
+  - "#1_reyes_19_14-18"
+  - "#salmos_119_71"
   - "#romanos_8_31-39"
 sources:
   - "https://www.youtube.com/watch?v=KsDBATpp6ls"
@@ -36,11 +36,11 @@ Se sigue el salmo en orden textual. Las observaciones concretas de Eric se atrib
 
 | Referencia        | Texto hebreo local                                                                                | Función en el argumento                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| #tehilim_73_1-3   | **מזמור לאסף אך טוב לישראל אלהים לברי לבב / ואני כמעט נטיו רגלי ... / כי קנאתי בהוללים**          | Apertura restrictiva, pies casi torcidos y celo mal dirigido.     |
-| #tehilim_73_4-12  | **כי אין חרצבות למותם ... / לכן ענקתמו גאוה ... / שתו בשמים פיהם ... / הנה אלה רשעים ושלוי עולם** | Retrato de malvados sin freno, orgullo, boca en el cielo y “paz”. |
-| #tehilim_73_13-17 | **אך ריק זכיתי לבבי ... / אם אמרתי אספרה כמו ... / עד אבוא אל מקדשי אל אבינה לאחריתם**            | Crisis del justo aparente y giro al entrar en el santuario.       |
-| #tehilim_73_18-20 | **אך בחלקות תשית למו ... / איך היו לשמה כרגע ... / כחלום מהקיץ**                                  | Lugares resbaladizos, ruina súbita e imagen de sueño.             |
-| #tehilim_73_23-28 | **ואני תמיד עמך אחזת ביד ימיני / בעצתך תנחני ... / מי לי בשמים ... / ואני קרבת אלהים לי טוב**     | Mano derecha, consejo, porción y cercanía como único bien.        |
+| #salmos_73_1-3   | **מזמור לאסף אך טוב לישראל אלהים לברי לבב / ואני כמעט נטיו רגלי ... / כי קנאתי בהוללים**          | Apertura restrictiva, pies casi torcidos y celo mal dirigido.     |
+| #salmos_73_4-12  | **כי אין חרצבות למותם ... / לכן ענקתמו גאוה ... / שתו בשמים פיהם ... / הנה אלה רשעים ושלוי עולם** | Retrato de malvados sin freno, orgullo, boca en el cielo y “paz”. |
+| #salmos_73_13-17 | **אך ריק זכיתי לבבי ... / אם אמרתי אספרה כמו ... / עד אבוא אל מקדשי אל אבינה לאחריתם**            | Crisis del justo aparente y giro al entrar en el santuario.       |
+| #salmos_73_18-20 | **אך בחלקות תשית למו ... / איך היו לשמה כרגע ... / כחלום מהקיץ**                                  | Lugares resbaladizos, ruina súbita e imagen de sueño.             |
+| #salmos_73_23-28 | **ואני תמיד עמך אחזת ביד ימיני / בעצתך תנחני ... / מי לי בשמים ... / ואני קרבת אלהים לי טוב**     | Mano derecha, consejo, porción y cercanía como único bien.        |
 
 ## Mapa de la enseñanza de Eric
 
@@ -98,9 +98,9 @@ El final devuelve el primer verso con nueva luz. 73:27-28 contrapone a los que s
 
 ## Conexiones principales
 
-- #tehilim_19_9 acompaña la pureza de la mitzvá que Eric usa para ilustrar **בר**.
-- #melajim_alef_19_14-18 ofrece el patrón de queja y respuesta divina que la clase asocia al giro del santuario.
-- #tehilim_119_71 sostiene que la humillación puede ser buena para aprender; Eric lo enlaza con la bondad de Elohim en medio del despojo.
+- #salmos_19_9 acompaña la pureza de la mitzvá que Eric usa para ilustrar **בר**.
+- #1_reyes_19_14-18 ofrece el patrón de queja y respuesta divina que la clase asocia al giro del santuario.
+- #salmos_119_71 sostiene que la humillación puede ser buena para aprender; Eric lo enlaza con la bondad de Elohim en medio del despojo.
 - #romanos_8_31-39 desarrolla, en clave mesiánica aproximada, la seguridad de que nada separa del amor de Elohim cuando la perspectiva se corrige.
 
 ## Pendiente de verificar

@@ -8,15 +8,15 @@ tags:
   - soberania
   - discernimiento
 references:
-  - "#mishlei_16_1"
-  - "#mishlei_16_2"
-  - "#mishlei_16_3"
-  - "#mishlei_16_4"
-  - "#mishlei_16_5"
-  - "#mishlei_16_6"
-  - "#mishlei_16_7"
-  - "#mishlei_16_8"
-  - "#mishlei_16_9"
+  - "#proverbios_16_1"
+  - "#proverbios_16_2"
+  - "#proverbios_16_3"
+  - "#proverbios_16_4"
+  - "#proverbios_16_5"
+  - "#proverbios_16_6"
+  - "#proverbios_16_7"
+  - "#proverbios_16_8"
+  - "#proverbios_16_9"
 sources:
   - "https://www.youtube.com/@SomosElCuerpodelMesias"
   - "https://www.youtube.com/watch?v=SqZERbLRiFU"
@@ -36,15 +36,15 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre el i
 
 | Referencia | Hebreo local (sin nikud) | Función en la enseñanza |
 | --- | --- | --- |
-| #mishlei_16_1 | לאדם מערכי לב ומיהוה מענה לשון | El corazón ordena preparativos, pero la respuesta viene de יהוה. |
-| #mishlei_16_2 | כל דרכי איש זך בעיניו ותכן רוחות יהוה | La autoevaluación no sustituye el examen de יהוה. |
-| #mishlei_16_3 | גל אל יהוה מעשיך ויכנו מחשבותיך | Entregar las obras permite que los pensamientos sean afirmados. |
-| #mishlei_16_4 | כל פעל יהוה למענהו וגם רשע ליום רעה | La clase subraya que las obras tienen finalidad y que el malvado enfrenta juicio. |
-| #mishlei_16_5 | תועבת יהוה כל גבה לב יד ליד לא ינקה | La soberbia queda bajo el rechazo y la responsabilidad de יהוה. |
-| #mishlei_16_6 | בחסד ואמת יכפר עון וביראת יהוה סור מרע | Bondad, verdad y temor de יהוה aparecen como camino contra la iniquidad. |
-| #mishlei_16_7 | ברצות יהוה דרכי איש גם אויביו ישלם אתו | El favor de יהוה puede pacificar el entorno del que camina rectamente. |
-| #mishlei_16_8 | טוב מעט בצדקה מרב תבואות בלא משפט | La justicia vale más que la abundancia sin derecho. |
-| #mishlei_16_9 | לב אדם יחשב דרכו ויהוה יכין צעדו | El hombre calcula su camino; יהוה afirma sus pasos. |
+| #proverbios_16_1 | לאדם מערכי לב ומיהוה מענה לשון | El corazón ordena preparativos, pero la respuesta viene de יהוה. |
+| #proverbios_16_2 | כל דרכי איש זך בעיניו ותכן רוחות יהוה | La autoevaluación no sustituye el examen de יהוה. |
+| #proverbios_16_3 | גל אל יהוה מעשיך ויכנו מחשבותיך | Entregar las obras permite que los pensamientos sean afirmados. |
+| #proverbios_16_4 | כל פעל יהוה למענהו וגם רשע ליום רעה | La clase subraya que las obras tienen finalidad y que el malvado enfrenta juicio. |
+| #proverbios_16_5 | תועבת יהוה כל גבה לב יד ליד לא ינקה | La soberbia queda bajo el rechazo y la responsabilidad de יהוה. |
+| #proverbios_16_6 | בחסד ואמת יכפר עון וביראת יהוה סור מרע | Bondad, verdad y temor de יהוה aparecen como camino contra la iniquidad. |
+| #proverbios_16_7 | ברצות יהוה דרכי איש גם אויביו ישלם אתו | El favor de יהוה puede pacificar el entorno del que camina rectamente. |
+| #proverbios_16_8 | טוב מעט בצדקה מרב תבואות בלא משפט | La justicia vale más que la abundancia sin derecho. |
+| #proverbios_16_9 | לב אדם יחשב דרכו ויהוה יכין צעדו | El hombre calcula su camino; יהוה afirma sus pasos. |
 
 El hebreo de la tabla está normalizado sin barras de segmentación; la referencia al corpus local permite volver a la extracción morfológica cuando sea necesario.
 

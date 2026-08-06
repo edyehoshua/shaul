@@ -10,17 +10,17 @@ tags:
   - compasion
   - pureza
 references:
-  - "#markos_1_1"
-  - "#markos_1_3"
-  - "#markos_1_14"
-  - "#markos_1_15"
-  - "#markos_1_21"
-  - "#markos_1_23"
-  - "#markos_1_27"
-  - "#markos_1_32"
-  - "#markos_1_35"
-  - "#markos_1_40"
-  - "#markos_1_44"
+  - "#marcos_1_1"
+  - "#marcos_1_3"
+  - "#marcos_1_14"
+  - "#marcos_1_15"
+  - "#marcos_1_21"
+  - "#marcos_1_23"
+  - "#marcos_1_27"
+  - "#marcos_1_32"
+  - "#marcos_1_35"
+  - "#marcos_1_40"
+  - "#marcos_1_44"
 sources:
   - "https://www.youtube.com/watch?v=Farvi5l0RRA"
   - "https://www.youtube.com/watch?v=BRqiJzOHBkQ"
@@ -58,15 +58,15 @@ Los cuatro `source_ids` son públicos, distintos y exclusivos de esta nota canó
 
 | Referencia       | Texto local                                                                                                                   | Función en el argumento                                                                                          |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| #markos_1_1-3    | TTH: «Principio de la buena noticia ... Hijo de Elohim»; «¡Limpien el camino de יהוה!»                                        | El inicio vincula la buena noticia con la llegada anunciada por los profetas.                                    |
-| #markos_1_4-8    | TTH: Iojanán proclama una inmersión de retorno y anuncia al más fuerte, que inmersará en Rúaj apartado.                       | La preparación del camino incluye confesión pública y expectativa, pero Iojanán no ocupa el lugar del que viene. |
-| #markos_1_9-13   | TTH: Yehoshua es inmersado, el Rúaj desciende sobre él y una voz lo declara Hijo amado; después el Rúaj lo lleva al desierto. | La identidad proclamada precede la prueba; el relato no presenta la tentación como espectáculo.                  |
-| #markos_1_14-15  | TTH: «Se ha cumplido el tiempo ... vuelvan a יהוה y crean a la buena noticia».                                                | El reino anunciado exige retorno y confianza, no mera admiración.                                                |
-| #markos_1_21-22  | TTH: Yehoshua enseñaba «como quien posee poder».                                                                              | Su enseñanza precede y enmarca los actos de autoridad.                                                           |
-| #markos_1_23-27  | TTH: un hombre está «con un espíritu impuro»; Yehoshua ordena: «¡Cállate y sal de él!»                                        | El mandato produce asombro porque aun los espíritus le escuchan.                                                 |
-| #markos_1_32-34  | TTH distingue «todos los enfermos y endemoniados»; sanó enfermedades y expulsó demonios.                                      | Marcos no permite colapsar ambas categorías.                                                                     |
-| #markos_1_35, 38 | TTH: fue a un lugar desierto y oró; luego dice que irá a proclamar a otras ciudades.                                          | La fama no reemplaza la oración ni define por sí sola su misión.                                                 |
-| #markos_1_40-44  | TTH: «Si Tú quieres, Tú puedes limpiarme»; Yehoshua responde «Yo quiero» y manda mostrarse al sacerdote.                      | La limpieza une compasión, voluntad de Yehoshua y el procedimiento de Moshéh.                                    |
+| #marcos_1_1-3    | TTH: «Principio de la buena noticia ... Hijo de Elohim»; «¡Limpien el camino de יהוה!»                                        | El inicio vincula la buena noticia con la llegada anunciada por los profetas.                                    |
+| #marcos_1_4-8    | TTH: Yojanán proclama una inmersión de retorno y anuncia al más fuerte, que inmersará en Rúaj apartado.                       | La preparación del camino incluye confesión pública y expectativa, pero Yojanán no ocupa el lugar del que viene. |
+| #marcos_1_9-13   | TTH: Yehoshua es inmersado, el Rúaj desciende sobre él y una voz lo declara Hijo amado; después el Rúaj lo lleva al desierto. | La identidad proclamada precede la prueba; el relato no presenta la tentación como espectáculo.                  |
+| #marcos_1_14-15  | TTH: «Se ha cumplido el tiempo ... vuelvan a יהוה y crean a la buena noticia».                                                | El reino anunciado exige retorno y confianza, no mera admiración.                                                |
+| #marcos_1_21-22  | TTH: Yehoshua enseñaba «como quien posee poder».                                                                              | Su enseñanza precede y enmarca los actos de autoridad.                                                           |
+| #marcos_1_23-27  | TTH: un hombre está «con un espíritu impuro»; Yehoshua ordena: «¡Cállate y sal de él!»                                        | El mandato produce asombro porque aun los espíritus le escuchan.                                                 |
+| #marcos_1_32-34  | TTH distingue «todos los enfermos y endemoniados»; sanó enfermedades y expulsó demonios.                                      | Marcos no permite colapsar ambas categorías.                                                                     |
+| #marcos_1_35, 38 | TTH: fue a un lugar desierto y oró; luego dice que irá a proclamar a otras ciudades.                                          | La fama no reemplaza la oración ni define por sí sola su misión.                                                 |
+| #marcos_1_40-44  | TTH: «Si Tú quieres, Tú puedes limpiarme»; Yehoshua responde «Yo quiero» y manda mostrarse al sacerdote.                      | La limpieza une compasión, voluntad de Yehoshua y el procedimiento de Moshéh.                                    |
 
 ## Hoja léxica
 
@@ -85,17 +85,17 @@ Los cuatro `source_ids` son públicos, distintos y exclusivos de esta nota canó
 ## Camino preparado, identidad probada y reino anunciado
 
 <!-- prettier-ignore -->
-Marcos no salta de la cita profética al ministerio público. En #markos_1_4-8 Iojanán aparece en el desierto proclamando una inmersión de retorno para perdón y llamando a preparar el camino. **μετάνοια**, _metanoia_, significa cambio de mente o retorno; aquí su fuerza es pública y ética, porque quienes llegan confiesan y reciben una señal de cambio. **ἰσχυρότερος**, _ischyroteros_, «más fuerte», marca la diferencia entre el mensajero y el que viene: Iojanán puede sumergir en agua, pero anuncia a quien sumergirá en el Rúaj apartado. La relación con **(שוב)**, _shuv_, «volver», es aproximada y pedagógica, no una prueba de que Marcos esté traduciendo una forma hebrea.
+Marcos no salta de la cita profética al ministerio público. En #marcos_1_4-8 Yojanán aparece en el desierto proclamando una inmersión de retorno para perdón y llamando a preparar el camino. **μετάνοια**, _metanoia_, significa cambio de mente o retorno; aquí su fuerza es pública y ética, porque quienes llegan confiesan y reciben una señal de cambio. **ἰσχυρότερος**, _ischyroteros_, «más fuerte», marca la diferencia entre el mensajero y el que viene: Yojanán puede sumergir en agua, pero anuncia a quien sumergirá en el Rúaj apartado. La relación con **(שוב)**, _shuv_, «volver», es aproximada y pedagógica, no una prueba de que Marcos esté traduciendo una forma hebrea.
 
-Los vv. 9-13 ordenan la identidad antes de la proclamación del reino. Yehoshua llega desde Natseret, es sumergido por Iojanán, ve abrirse los cielos, recibe el Rúaj y oye la voz que lo llama Hijo amado. Luego el mismo Rúaj lo lleva al desierto, donde permanece cuarenta días y es probado. Eric presenta a Yehoshua como la manifestación de la imagen de Elohim y como aquel cuyo poder enfrenta las tinieblas; el relato sostiene que su misión es confirmada desde arriba y probada en soledad, pero no convierte esas escenas en una demostración pública de poder. **ἐκβάλλω**, _ekballō_, «expulsar o echar fuera», describe la acción del Rúaj al llevarlo al desierto y luego reaparece en los exorcismos: el paralelo verbal no borra la diferencia entre prueba obediente y liberación de un espíritu.
+Los vv. 9-13 ordenan la identidad antes de la proclamación del reino. Yehoshua llega desde Natseret, es sumergido por Yojanán, ve abrirse los cielos, recibe el Rúaj y oye la voz que lo llama Hijo amado. Luego el mismo Rúaj lo lleva al desierto, donde permanece cuarenta días y es probado. Eric presenta a Yehoshua como la manifestación de la imagen de Elohim y como aquel cuyo poder enfrenta las tinieblas; el relato sostiene que su misión es confirmada desde arriba y probada en soledad, pero no convierte esas escenas en una demostración pública de poder. **ἐκβάλλω**, _ekballō_, «expulsar o echar fuera», describe la acción del Rúaj al llevarlo al desierto y luego reaparece en los exorcismos: el paralelo verbal no borra la diferencia entre prueba obediente y liberación de un espíritu.
 
-Después de la entrega de Iojanán, el mensaje se vuelve explícito: el tiempo se ha cumplido, el reino se ha acercado, y la respuesta es volver a יהוה y creer a la buena noticia (#markos_1_14-15). El anuncio queda enlazado con el camino preparado, la identidad confirmada y la prueba superada; por eso no es una invitación a admirar milagros aislados. La autoridad que se verá en la sinagoga está al servicio de una misión ya definida.
+Después de la entrega de Yojanán, el mensaje se vuelve explícito: el tiempo se ha cumplido, el reino se ha acercado, y la respuesta es volver a יהוה y creer a la buena noticia (#marcos_1_14-15). El anuncio queda enlazado con el camino preparado, la identidad confirmada y la prueba superada; por eso no es una invitación a admirar milagros aislados. La autoridad que se verá en la sinagoga está al servicio de una misión ya definida.
 
 Las partes 9 y 11 amplían esta misma unidad inicial sin cambiar su orden. Eric relaciona la voz de 1:11 con el testimonio público de Hijo, Siervo y Profeta, y distingue el **Rúaj** que desciende sobre Yehoshua de la **neshamah** como categoría pedagógica de vida recibida; también emplea _bat qol_ y _Shekhinah_ como vocabulario de la exposición. Marcos permite afirmar algo más preciso: **φωνή**, _phōnē_, «voz o sonido», identifica al Hijo; **πνεῦμα**, _pneuma_, «espíritu, viento o aliento», desciende y después conduce al desierto; y **υἱός**, _huios_, «hijo», recibe la calificación «amado». La relación con **(בת קול)**, _bat qol_, «voz celestial»; **(רוח)**, _ruaj_, «viento, aliento o espíritu»; y **(נשמה)**, _neshamah_, «aliento o vida», es comparativa y no una retroversión demostrada. La secuencia local prueba testimonio, investidura y prueba obediente, no una taxonomía completa de presencia divina.
 
 La voz tampoco debe separarse de la prueba que sigue. El mismo Rúaj que desciende en 1:10 **ἐκβάλλει**, _ekballei_, «lleva o expulsa», a Yehoshua hacia el desierto en 1:12; el verbo puede expresar conducción en este contexto y expulsión en los exorcismos posteriores, pero no hace equivalentes ambas escenas. La observación atribuible de Eric sobre autoridad y presencia queda así controlada: antes de enseñar con autoridad, Yehoshua es declarado Hijo, conducido al desierto y probado. La mención de _Shekhinah_ como categoría posterior queda pendiente de historia rabínica y no se presenta como término del Marcos griego.
 
-La clase observa que la primera demostración de esa autoridad es el enfrentamiento con las tinieblas. El texto permite decir que su mandato desenmascara una oposición a su presencia y libera al hombre; por eso la gente une «enseñanza nueva» y autoridad sobre espíritus impuros (#markos_1_27). Pero no dice que la enseñanza sea nueva porque revele una técnica de exorcismo. La novedad percibida está en que Yehoshua ordena y es obedecido. La confesión «el Apartado de Elohim» (#markos_1_24) tampoco procede de un testigo que él acepte: él lo hace callar (#markos_1_25).
+La clase observa que la primera demostración de esa autoridad es el enfrentamiento con las tinieblas. El texto permite decir que su mandato desenmascara una oposición a su presencia y libera al hombre; por eso la gente une «enseñanza nueva» y autoridad sobre espíritus impuros (#marcos_1_27). Pero no dice que la enseñanza sea nueva porque revele una técnica de exorcismo. La novedad percibida está en que Yehoshua ordena y es obedecido. La confesión «el Apartado de Elohim» (#marcos_1_24) tampoco procede de un testigo que él acepte: él lo hace callar (#marcos_1_25).
 
 ## Impureza, enfermedad y una lectura responsable
 
@@ -103,23 +103,23 @@ Eric propone que **(טמא)** debe entenderse como condición que obstaculiza la
 
 La enumeración de 1:32-34 añade otra salvaguarda léxica. **(δαιμονιζόμενοι)**, _daimonizomenoi_, es el participio de «estar bajo la acción de un demonio» y describe a quienes son llevados a Yehoshua en una categoría distinta de **(κακῶς ἔχοντες)**, _kakōs echontes_, «los que se encuentran mal» o enfermos. El participio no es una explicación médica moderna, pero sí conserva la distinción narrativa entre ambos grupos. Puede aproximarse a **(שדים)**, _shedim_, como vocabulario semítico de seres dañinos, sin afirmar que Marcos esté retrotraduciendo esa forma ni que toda enfermedad pertenezca a ese campo.
 
-El propio orden de #markos_1_32-34 es decisivo. Al caer la tarde, le llevan «todos los enfermos y endemoniados»; después el evangelista menciona muchas enfermedades sanadas y muchos demonios expulsados. La clase insiste en esa distinción contra la culpabilización de quien padece enfermedad. El texto la sostiene: una fiebre deja a la suegra de Shimón cuando Yehoshua la levanta (#markos_1_29-31), mientras el episodio de la sinagoga tiene otro vocabulario y otra acción. Cualquier acompañamiento pastoral debe honrar esa diferencia y buscar cuidado responsable, sin fabricar causas invisibles donde Marcos no las nombra.
+El propio orden de #marcos_1_32-34 es decisivo. Al caer la tarde, le llevan «todos los enfermos y endemoniados»; después el evangelista menciona muchas enfermedades sanadas y muchos demonios expulsados. La clase insiste en esa distinción contra la culpabilización de quien padece enfermedad. El texto la sostiene: una fiebre deja a la suegra de Shimón cuando Yehoshua la levanta (#marcos_1_29-31), mientras el episodio de la sinagoga tiene otro vocabulario y otra acción. Cualquier acompañamiento pastoral debe honrar esa diferencia y buscar cuidado responsable, sin fabricar causas invisibles donde Marcos no las nombra.
 
 ## Oración, compasión y la limpieza conforme a Moshéh
 
-La multitud se reúne a la puerta y la fama crece, pero #markos_1_35 desplaza la escena hacia un lugar desierto donde Yehoshua ora. Cuando Shimón lo busca, no transforma la demanda popular en programa: responde que irá a las ciudades vecinas a proclamar (#markos_1_38). La clase lee este movimiento como corrección de una religiosidad que mide la autoridad por el ruido o por la espectacularidad. El texto permite una conclusión más sobria: la misión de Yehoshua conserva prioridad sobre la presión de la multitud y se expresa en proclamación, oración y actos concretos.
+La multitud se reúne a la puerta y la fama crece, pero #marcos_1_35 desplaza la escena hacia un lugar desierto donde Yehoshua ora. Cuando Shimón lo busca, no transforma la demanda popular en programa: responde que irá a las ciudades vecinas a proclamar (#marcos_1_38). La clase lee este movimiento como corrección de una religiosidad que mide la autoridad por el ruido o por la espectacularidad. El texto permite una conclusión más sobria: la misión de Yehoshua conserva prioridad sobre la presión de la multitud y se expresa en proclamación, oración y actos concretos.
 
-El leproso llega arrodillado con una petición que Eric destaca justamente: «Si tú quieres, tú puedes limpiarme» (#markos_1_40). No presenta una fórmula para obligar a Dios. Yehoshua, movido en sus entrañas, extiende la mano, toca y declara: «Yo quiero, sé limpio» (#markos_1_41). El resultado inmediato es limpieza (#markos_1_42), pero el relato no termina en el prodigio. Yehoshua lo envía al sacerdote y manda ofrecer lo que Moshéh ordenó «para testimonio» (#markos_1_44). Así, la compasión no desprecia la Torá; la restauración se vuelve verificable dentro de su marco.
+El leproso llega arrodillado con una petición que Eric destaca justamente: «Si tú quieres, tú puedes limpiarme» (#marcos_1_40). No presenta una fórmula para obligar a Dios. Yehoshua, movido en sus entrañas, extiende la mano, toca y declara: «Yo quiero, sé limpio» (#marcos_1_41). El resultado inmediato es limpieza (#marcos_1_42), pero el relato no termina en el prodigio. Yehoshua lo envía al sacerdote y manda ofrecer lo que Moshéh ordenó «para testimonio» (#marcos_1_44). Así, la compasión no desprecia la Torá; la restauración se vuelve verificable dentro de su marco.
 
-El hombre divulga el hecho, con la consecuencia de que Yehoshua permanece fuera en lugares desiertos (#markos_1_45). Marcos conserva esta tensión: la misericordia atrae a todos, pero Yehoshua no queda definido por la fama ni por la voz de quienes lo rodean. El capítulo sostiene su identidad mediante el anuncio, la enseñanza autorizada, la liberación, la oración y una compasión que devuelve al limpiado al camino de obediencia.
+El hombre divulga el hecho, con la consecuencia de que Yehoshua permanece fuera en lugares desiertos (#marcos_1_45). Marcos conserva esta tensión: la misericordia atrae a todos, pero Yehoshua no queda definido por la fama ni por la voz de quienes lo rodean. El capítulo sostiene su identidad mediante el anuncio, la enseñanza autorizada, la liberación, la oración y una compasión que devuelve al limpiado al camino de obediencia.
 
 ## Dependencias textuales: anuncio, autoridad y restauración
 
 <!-- prettier-ignore -->
-**κηρύσσω**, _kērussō_, «proclamar públicamente», aparece cuando Yehoshua anuncia la buena noticia en Galil y cuando decide ir a las ciudades vecinas (#markos_1_14, #markos_1_38–#markos_1_39). Su sentido contextual es el de un anuncio abierto; se aproxima a **(קרא)**, _qara_, «llamar o proclamar», pero no prueba que Marcos esté retrovirtiendo un verbo hebreo. Esa proclamación explica por qué la autoridad de la sinagoga no es un fin en sí mismo: la enseñanza y la liberación sirven al anuncio del reino.
+**κηρύσσω**, _kērussō_, «proclamar públicamente», aparece cuando Yehoshua anuncia la buena noticia en Galil y cuando decide ir a las ciudades vecinas (#marcos_1_14, #marcos_1_38–#marcos_1_39). Su sentido contextual es el de un anuncio abierto; se aproxima a **(קרא)**, _qara_, «llamar o proclamar», pero no prueba que Marcos esté retrovirtiendo un verbo hebreo. Esa proclamación explica por qué la autoridad de la sinagoga no es un fin en sí mismo: la enseñanza y la liberación sirven al anuncio del reino.
 
 <!-- prettier-ignore -->
-**καθαρίζω**, _katharizō_, «limpiar o declarar limpio», nombra el resultado pedido por el leproso y el mandato de Yehoshua (#markos_1_40–#markos_1_42). Puede acercarse a **(טהר)**, _taher_, «estar limpio o purificar», dentro del lenguaje de pureza, pero la correspondencia es aproximada: el texto de Marcos cuenta una restauración concreta y luego ordena la presentación al sacerdote. Así, la observación de Eric sobre no mezclar enfermedad, espíritu impuro y lepra queda probada por el vocabulario y por la secuencia narrativa.
+**καθαρίζω**, _katharizō_, «limpiar o declarar limpio», nombra el resultado pedido por el leproso y el mandato de Yehoshua (#marcos_1_40–#marcos_1_42). Puede acercarse a **(טהר)**, _taher_, «estar limpio o purificar», dentro del lenguaje de pureza, pero la correspondencia es aproximada: el texto de Marcos cuenta una restauración concreta y luego ordena la presentación al sacerdote. Así, la observación de Eric sobre no mezclar enfermedad, espíritu impuro y lepra queda probada por el vocabulario y por la secuencia narrativa.
 
 ## Prueba de lectura: autoridad que anuncia, distingue y restaura
 
@@ -144,7 +144,7 @@ El leproso lleva la cadena a la pureza pública. **λεπρός**, _lepros_, «p
 
 ## Conexiones principales: anuncio, autoridad y testimonio
 
-La conexión con Isaías 40:3 y Malaquías 3:1 debe conservar la función que Marcos le da al comienzo: el camino preparado introduce la proclamación de Iojanán y no convierte la cita en una explicación total de cada escena posterior. **ὁδός**, _hodos_, significa «camino, ruta o manera de proceder»; en 1:2-3 su sentido narrativo es el camino preparado delante de Yehoshua. Su relación con **דרך**, _derej_, «camino», es de campo semántico y no una retroversión demostrada. La clase puede leer allí preparación para el reino, pero Marcos gobierna el alcance.
+La conexión con Isaías 40:3 y Malaquías 3:1 debe conservar la función que Marcos le da al comienzo: el camino preparado introduce la proclamación de Yojanán y no convierte la cita en una explicación total de cada escena posterior. **ὁδός**, _hodos_, significa «camino, ruta o manera de proceder»; en 1:2-3 su sentido narrativo es el camino preparado delante de Yehoshua. Su relación con **דרך**, _derej_, «camino», es de campo semántico y no una retroversión demostrada. La clase puede leer allí preparación para el reino, pero Marcos gobierna el alcance.
 
 La relación con Vaikra 13–14 también tiene un límite preciso. **καθαρίζω**, _katharizō_, «limpiar o declarar limpio», aparece en la petición y en la orden al hombre afectado; **μαρτύριον**, _martyrion_, «testimonio o evidencia», explica el envío al sacerdote. La correspondencia con **טהר**, _taher_, «estar limpio o purificar», es cercana en el campo de pureza, mientras que la identificación histórica de **λεπρός**, _lepros_, con **צרעת**, _tsaraat_, permanece pendiente. La conexión sostiene el procedimiento del relato, no un diagnóstico moderno.
 
@@ -163,12 +163,12 @@ El cierre vuelve a la misión y a la restauración. **κηρύσσω** (_kēruss
 
 ## Mapa de la enseñanza de Eric
 
-- **#markos_1_4-13 — preparación, inmersión y prueba:** Eric presenta a Yehoshua como la imagen de Elohim manifestada y como quien enfrenta el imperio de las tinieblas. La nota conserva esa observación, pero sigue el orden del texto: Iojanán prepara el camino, el Rúaj confirma al Hijo amado y después lo conduce al desierto; la aplicación sobre poder y misión queda cualificada por esa prueba silenciosa.
-- **#markos_1_1-15 — reino, retorno y buena noticia:** Eric presenta el comienzo como anuncio del reino de יהוה y relaciona su recepción con volver a יהוה y confiar en la buena noticia. La secuencia del texto sostiene esa lectura: Marcos pasa del camino anunciado a la proclamación de que el tiempo se cumplió; la conexión con una reconstrucción semítica más amplia queda como interpretación de la clase.
-- **#markos_1_21-34 — autoridad que distingue liberación y enfermedad:** Eric recalca que Yehoshua enseña con autoridad, manda al espíritu impuro y sana la fiebre sin mezclar ambas escenas. La nota lo prueba con la sintaxis narrativa de los vv. 21-27 y la enumeración diferenciada de los vv. 32-34; no convierte esa distinción en un diagnóstico moderno ni en una explicación de todo sufrimiento.
-- **#markos_1_35-39 — oración antes que popularidad:** Eric lee la salida al lugar desierto como una corrección de la presión de la multitud. El relato confirma que Yehoshua ora, rechaza quedarse limitado a la fama local y continúa proclamando en otras ciudades; la aplicación pastoral sobre la religiosidad espectacular es una inferencia, no una frase del texto.
-- **#markos_1_40-45 — compasión y procedimiento de Moshéh:** Eric destaca la petición condicional del leproso y la voluntad compasiva de Yehoshua, junto con el envío al sacerdote. La nota conserva el movimiento completo —petición, toque, limpieza, mandato y desobediencia que divulga el hecho— y deja abierta la equivalencia exacta entre **(λεπρός)** y **(צרעת)**.
-- **#markos_1_9-13 — voz, Rúaj y prueba:** Las partes 9 y 11 relacionan la voz celestial con Hijo, Siervo y Profeta, y distinguen Rúaj, neshamah y Shekhinah. La nota conserva esas observaciones atribuibles, pero las prueba por **φωνή**, **πνεῦμα**, **υἱός** y el movimiento al desierto; _bat qol_ y _Shekhinah_ quedan como categorías interpretativas, no como vocabulario explícito de Marcos.
+- **#marcos_1_4-13 — preparación, inmersión y prueba:** Eric presenta a Yehoshua como la imagen de Elohim manifestada y como quien enfrenta el imperio de las tinieblas. La nota conserva esa observación, pero sigue el orden del texto: Yojanán prepara el camino, el Rúaj confirma al Hijo amado y después lo conduce al desierto; la aplicación sobre poder y misión queda cualificada por esa prueba silenciosa.
+- **#marcos_1_1-15 — reino, retorno y buena noticia:** Eric presenta el comienzo como anuncio del reino de יהוה y relaciona su recepción con volver a יהוה y confiar en la buena noticia. La secuencia del texto sostiene esa lectura: Marcos pasa del camino anunciado a la proclamación de que el tiempo se cumplió; la conexión con una reconstrucción semítica más amplia queda como interpretación de la clase.
+- **#marcos_1_21-34 — autoridad que distingue liberación y enfermedad:** Eric recalca que Yehoshua enseña con autoridad, manda al espíritu impuro y sana la fiebre sin mezclar ambas escenas. La nota lo prueba con la sintaxis narrativa de los vv. 21-27 y la enumeración diferenciada de los vv. 32-34; no convierte esa distinción en un diagnóstico moderno ni en una explicación de todo sufrimiento.
+- **#marcos_1_35-39 — oración antes que popularidad:** Eric lee la salida al lugar desierto como una corrección de la presión de la multitud. El relato confirma que Yehoshua ora, rechaza quedarse limitado a la fama local y continúa proclamando en otras ciudades; la aplicación pastoral sobre la religiosidad espectacular es una inferencia, no una frase del texto.
+- **#marcos_1_40-45 — compasión y procedimiento de Moshéh:** Eric destaca la petición condicional del leproso y la voluntad compasiva de Yehoshua, junto con el envío al sacerdote. La nota conserva el movimiento completo —petición, toque, limpieza, mandato y desobediencia que divulga el hecho— y deja abierta la equivalencia exacta entre **(λεπρός)** y **(צרעת)**.
+- **#marcos_1_9-13 — voz, Rúaj y prueba:** Las partes 9 y 11 relacionan la voz celestial con Hijo, Siervo y Profeta, y distinguen Rúaj, neshamah y Shekhinah. La nota conserva esas observaciones atribuibles, pero las prueba por **φωνή**, **πνεῦμα**, **υἱός** y el movimiento al desierto; _bat qol_ y _Shekhinah_ quedan como categorías interpretativas, no como vocabulario explícito de Marcos.
 
 El mapa distingue lo que la exposición observa del alcance que el pasaje permite afirmar; la transcripción automática sirve para atribución y orientación, no como cita literal.
 
@@ -224,7 +224,7 @@ El cierre también limita una lectura de autoridad como espectáculo. **θέλω
 
 ## Control de la primera perícopa: inmersión, retorno y perdón
 
-La apertura de Marcos 1 debe conservar su propia secuencia antes de llegar a la autoridad de la sinagoga. Iojanán proclama **βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν**, _baptisma metanoias eis aphesin hamartiōn_, «inmersión de retorno para perdón de pecados» (1:4). **βάπτισμα**, _baptisma_, significa inmersión o acto de sumergir; **μετάνοια**, _metanoia_, significa cambio de mente o retorno; y **ἄφεσις**, _aphesis_, significa liberación, remisión o perdón. La relación con **(טבילה)**, _tevila_, «inmersión», **(שוב)**, _shuv_, «volver», y **(סלח)**, _salaj_, «perdonar», es de campo semítico aproximado: no prueba que el griego sea una traducción mecánica de esas formas.
+La apertura de Marcos 1 debe conservar su propia secuencia antes de llegar a la autoridad de la sinagoga. Yojanán proclama **βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν**, _baptisma metanoias eis aphesin hamartiōn_, «inmersión de retorno para perdón de pecados» (1:4). **βάπτισμα**, _baptisma_, significa inmersión o acto de sumergir; **μετάνοια**, _metanoia_, significa cambio de mente o retorno; y **ἄφεσις**, _aphesis_, significa liberación, remisión o perdón. La relación con **(טבילה)**, _tevila_, «inmersión», **(שוב)**, _shuv_, «volver», y **(סלח)**, _salaj_, «perdonar», es de campo semítico aproximado: no prueba que el griego sea una traducción mecánica de esas formas.
 
 Este anuncio prepara el mandato de 1:15. **πεπλήρωται**, _peplērōtai_, «ha sido cumplido», y **ἤγγικεν**, _ēngiken_, «se ha acercado», describen el tiempo y el reino como realidades que irrumpen; no son una promesa desligada de respuesta. Los imperativos **μετανοεῖτε**, _metanoeite_, «vuelvan», y **πιστεύετε**, _pisteuete_, «confíen», llevan el anuncio hacia una conducta y una confianza continuas. La observación de Eric sobre el gobierno de יהוה queda así anclada en verbos y en orden narrativo: primero proclamación y retorno, después enseñanza autorizada y restauración.
 
@@ -250,7 +250,7 @@ El cierre une compasión y restauración reconocible. **σπλαγχνισθεί
 
 Marcos 1 llama a recibir el reino mediante retorno a יהוה y confianza en la buena noticia. La autoridad de Yehoshua se hace audible en su enseñanza y visible en una liberación que no confunde con toda enfermedad. Su oración impide reducir la misión a popularidad, y su toque al leproso revela compasión que restaura y, a la vez, dirige al testimonio ordenado por Moshéh.
 
-## Reparación dirigida: autoridad que enseña, libera y restaura (1:21-45) #markos_1_21-45
+## Reparación dirigida: autoridad que enseña, libera y restaura (1:21-45) #marcos_1_21-45
 
 La escena de la sinagoga une enseñanza y acción sin reducir la autoridad a espectáculo. **(ἐξεπλήσσοντο)**, _exeplēssonto_, «quedaban profundamente asombrados», es un imperfecto que presenta la reacción sostenida de los oyentes; **(διδαχή)**, _didachē_, «enseñanza o contenido enseñado», nombra aquello que reciben; y **(ἐξουσία)**, _exousia_, «autoridad, derecho o capacidad legítima para actuar», explica por qué comparan a Yehoshua con los escribas (1:22, 27). La relación temática con **(סמכות)**, _samchut_, «autoridad», es aproximada y no reemplaza el vocabulario griego. Marcos muestra que la autoridad se reconoce por la enseñanza y por el mandato obedecido, no por una credencial humana inventada.
 
@@ -260,7 +260,7 @@ El capítulo distingue liberación, fiebre y limpieza. En la casa de Shimón, la
 
 La respuesta **(θέλω)**, _thelō_, «quiero o deseo», muestra voluntad de restaurar, mientras **(ἐκαθαρίσθη)**, _ekatharisthē_, «fue limpiado», es un aoristo pasivo que relata el resultado (1:41-42). Yehoshua manda al hombre mostrar su limpieza al sacerdote y ofrecer lo prescrito por Moshéh (1:44). El milagro, por tanto, no cancela el procedimiento de la Torá ni convierte al beneficiario en publicidad ambulante. Cuando el hombre proclama el hecho y la fama se extiende, Yehoshua queda fuera en lugares desiertos y la gente sigue acudiendo: la compasión restaura al individuo, pero la misión continúa gobernada por proclamación, oración y obediencia.
 
-## Control final de dependencia: autoridad bajo el anuncio (1:1-45) #markos_1_1-45
+## Control final de dependencia: autoridad bajo el anuncio (1:1-45) #marcos_1_1-45
 
 Marcos no presenta los actos de poder como una colección independiente. **εὐαγγέλιον**, _euangelion_, «buena noticia», abre el capítulo; **μετανοεῖτε**, _metanoeite_, «vuelvan o cambien de mente», y **πιστεύετε**, _pisteuete_, «confíen», responden al anuncio de que el reino se ha acercado. Solo después la autoridad se vuelve visible en la enseñanza y en el mandato al espíritu impuro. La conexión semítica con **(בשורה)**, _besorah_, «noticia», es pedagógica y aproximada; la progresión la determina el griego local.
 

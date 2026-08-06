@@ -11,27 +11,27 @@ tags:
   - babel
   - discernimiento
 references:
-  - "#bereshit_3_6"
-  - "#bereshit_3_7"
-  - "#bereshit_4_26"
-  - "#bereshit_6_1"
-  - "#bereshit_6_2"
-  - "#bereshit_6_4"
-  - "#bereshit_9_20"
-  - "#bereshit_9_22"
-  - "#bereshit_9_24"
-  - "#bereshit_9_25"
-  - "#bereshit_10_8"
-  - "#bereshit_10_9"
-  - "#iejezkel_23_4"
-  - "#tehilim_101_3"
-  - "#vaikra_18_25"
-  - "#mishlei_1_7"
-  - "#matityahu_24_37"
+  - "#genesis_3_6"
+  - "#genesis_3_7"
+  - "#genesis_4_26"
+  - "#genesis_6_1"
+  - "#genesis_6_2"
+  - "#genesis_6_4"
+  - "#genesis_9_20"
+  - "#genesis_9_22"
+  - "#genesis_9_24"
+  - "#genesis_9_25"
+  - "#genesis_10_8"
+  - "#genesis_10_9"
+  - "#ezequiel_23_4"
+  - "#salmos_101_3"
+  - "#levitico_18_25"
+  - "#proverbios_1_7"
+  - "#mateo_24_37"
 sources:
   - "https://www.youtube.com/watch?v=I7bR4R1fqyE"
   - "docs/scriptures/tth/json/bereshit.json"
-  - "docs/scriptures/tth/json/iejezkel.json"
+  - "docs/scriptures/tth/json/yejezkel.json"
   - "docs/scriptures/tth/json/tehilim.json"
   - "docs/scriptures/tth/json/vaikra.json"
   - "docs/scriptures/tth/json/mishlei.json"
@@ -53,12 +53,12 @@ Esta nota organiza la primera parte de la serie «Neo-idolatría, Israel y el le
 
 | Referencia | Texto TTH local | Función en la enseñanza |
 | --- | --- | --- |
-| #bereshit_3_6-7 | «Y vio la mujer que <em>era</em> bueno el árbol para comida, y que un deseo era a los ojos, y codiciable, el árbol, para ser prudente. Y ella tomó de su fruto y comió, y dio también a su esposo con ella, y él comió. Y fueron abiertos los ojos de los dos, y conocieron que <em>estaban</em> desnudos ellos». | La mirada deseante precede al acto y la apertura de los ojos revela vergüenza, no una divinización aprobada por Elohim. |
-| #bereshit_4_26 | «Y a Shet, también él engendró un hijo, y llamó su nombre Enosh. En ese momento se comenzó a llamar en el Nombre de יהוה». | La clase lee el verbo de «comenzar» como una posible señal de profanación; esa traducción interpretativa necesita verificación léxica. |
-| #bereshit_6_1-4 | «Y sucedió que comenzó el hombre a multiplicarse... y vieron los hijos de Elohim a las hijas del hombre... Los nefilim estaban en la tierra... Ellos son los fuertes que eran desde la antigüedad, hombres del nombre». | Presenta la unidad sobre deseo, transgresión, nefilim y «hombres del nombre», sin resolver por sí sola la identidad de cada grupo. |
-| #bereshit_9_20, 22, 24-25 | «Y comenzó <em>a ser</em> Nóaj un hombre de la tierra, y plantó una viña»; Jam «vio... la desnudez de su padre»; Nóaj conoció «lo que le había hecho su hijo» y pronunció una maldición. | La clase relaciona el episodio posterior al diluvio con una nueva profanación y con consecuencias familiares; el texto deja algunos detalles en forma eufemística. |
-| #bereshit_10_8-9 | «Y Cush engendró a Nimrod; él comenzó a ser poderoso en la tierra. Él fue un poderoso cazador delante de יהוה». | Cierra la primera parte con Nimrod como figura de poder y rebelión cuya historia continuará en la siguiente exposición. |
-| #tehilim_101_3; #vaikra_18_25 | «No pondré delante de mi ojo cosa de Belial»; «se contaminó la tierra... y vomitará la tierra a sus habitantes». | Apoyan la exhortación a vigilar lo que se mira y a no normalizar la contaminación como práctica comunitaria. |
+| #genesis_3_6-7 | «Y vio la mujer que <em>era</em> bueno el árbol para comida, y que un deseo era a los ojos, y codiciable, el árbol, para ser prudente. Y ella tomó de su fruto y comió, y dio también a su esposo con ella, y él comió. Y fueron abiertos los ojos de los dos, y conocieron que <em>estaban</em> desnudos ellos». | La mirada deseante precede al acto y la apertura de los ojos revela vergüenza, no una divinización aprobada por Elohim. |
+| #genesis_4_26 | «Y a Shet, también él engendró un hijo, y llamó su nombre Enosh. En ese momento se comenzó a llamar en el Nombre de יהוה». | La clase lee el verbo de «comenzar» como una posible señal de profanación; esa traducción interpretativa necesita verificación léxica. |
+| #genesis_6_1-4 | «Y sucedió que comenzó el hombre a multiplicarse... y vieron los hijos de Elohim a las hijas del hombre... Los nefilim estaban en la tierra... Ellos son los fuertes que eran desde la antigüedad, hombres del nombre». | Presenta la unidad sobre deseo, transgresión, nefilim y «hombres del nombre», sin resolver por sí sola la identidad de cada grupo. |
+| #genesis_9_20, 22, 24-25 | «Y comenzó <em>a ser</em> Nóaj un hombre de la tierra, y plantó una viña»; Jam «vio... la desnudez de su padre»; Nóaj conoció «lo que le había hecho su hijo» y pronunció una maldición. | La clase relaciona el episodio posterior al diluvio con una nueva profanación y con consecuencias familiares; el texto deja algunos detalles en forma eufemística. |
+| #genesis_10_8-9 | «Y Cush engendró a Nimrod; él comenzó a ser poderoso en la tierra. Él fue un poderoso cazador delante de יהוה». | Cierra la primera parte con Nimrod como figura de poder y rebelión cuya historia continuará en la siguiente exposición. |
+| #salmos_101_3; #levitico_18_25 | «No pondré delante de mi ojo cosa de Belial»; «se contaminó la tierra... y vomitará la tierra a sus habitantes». | Apoyan la exhortación a vigilar lo que se mira y a no normalizar la contaminación como práctica comunitaria. |
 
 ## La idolatría comienza como deseo de autonomía
 

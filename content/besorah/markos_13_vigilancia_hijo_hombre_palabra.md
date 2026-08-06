@@ -10,24 +10,24 @@ tags:
   - torah
   - deidad_de_mashiaj
 references:
-  - "#markos_13_32"
-  - "#markos_13_33"
-  - "#markos_13_35"
-  - "#markos_13_36"
-  - "#markos_13_37"
-  - "#markos_14_32"
-  - "#markos_14_36"
-  - "#malaji_3_1"
-  - "#tehilim_106_30"
-  - "#tehilim_119_89"
-  - "#tehilim_119_90"
-  - "#matityahu_5_17"
-  - "#matityahu_5_18"
-  - "#matityahu_24_35"
-  - "#ieshaiahu_53_7"
-  - "#ivrim_5_7"
-  - "#ivrim_5_8"
-  - "#ivrim_5_9"
+  - "#marcos_13_32"
+  - "#marcos_13_33"
+  - "#marcos_13_35"
+  - "#marcos_13_36"
+  - "#marcos_13_37"
+  - "#marcos_14_32"
+  - "#marcos_14_36"
+  - "#malaquias_3_1"
+  - "#salmos_106_30"
+  - "#salmos_119_89"
+  - "#salmos_119_90"
+  - "#mateo_5_17"
+  - "#mateo_5_18"
+  - "#mateo_24_35"
+  - "#isaias_53_7"
+  - "#hebreos_5_7"
+  - "#hebreos_5_8"
+  - "#hebreos_5_9"
   - "#daniel_9_24"
   - "#daniel_9_25"
   - "#daniel_9_26"
@@ -42,7 +42,7 @@ sources:
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/tth/json/malaji.json"
   - "docs/scriptures/tth/json/tehilim.json"
-  - "docs/scriptures/tth/json/ieshaiahu.json"
+  - "docs/scriptures/tth/json/yeshayahu.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/delitzsch/json/matthew.json"
   - "docs/scriptures/delitzsch/json/hebrews.json"
@@ -58,7 +58,7 @@ source_ids:
 
 # Tesis
 
-Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depende de calcular la hora. La clase propone que la aparente tensión de #markos_13_32 —el Hijo y el Padre— debe leerse desde el encargo narrativo de velar, no como permiso para abandonar la unidad de la palabra de Elohim. En su lectura, Yehoshua como Bar Enash se somete a la palabra que él mismo pronunció en su plenitud: Torah y profecía, sabiduría e inteligencia, una palabra inamovible establecida en los cielos.
+Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depende de calcular la hora. La clase propone que la aparente tensión de #marcos_13_32 —el Hijo y el Padre— debe leerse desde el encargo narrativo de velar, no como permiso para abandonar la unidad de la palabra de Elohim. En su lectura, Yehoshua como Bar Enash se somete a la palabra que él mismo pronunció en su plenitud: Torah y profecía, sabiduría e inteligencia, una palabra inamovible establecida en los cielos.
 
 ## Alcance de la nota
 
@@ -67,7 +67,7 @@ Marcos 13 concluye la enseñanza sobre la venida con una vigilancia que no depen
 - También incorpora _El Evangelio según Marcos parte 42: Cap 13:14-32: Las señales a la venida de Mashíaj_. El título público identifica su perícopa; como la transcripción no estuvo disponible en esta ejecución, no se le adjudican formulaciones adicionales. Se usa como fuente independiente para revisar el tramo 13:14-32 contra el texto local.
 - La clase continúa una línea previa sobre el Hijo del Hombre de Daniel 7, la metamorfosis del Mesías y el Anciano de Días.
 - Donde la transcripción menciona literatura rabínica, términos arameos o etimologías sin referencia exacta, la nota conserva el punto como material de clase y lo marca como pendiente.
-- El texto TTH de #markos_13_32 consultado localmente no incluye la frase "ni el Hijo"; Delitzsch sí la conserva. La diferencia queda indicada en la hoja de comparación. La oración de #markos_14_36 aparece solo como conexión posterior para probar el marco propuesto, no como un segundo estudio canónico de capítulo.
+- El texto TTH de #marcos_13_32 consultado localmente no incluye la frase "ni el Hijo"; Delitzsch sí la conserva. La diferencia queda indicada en la hoja de comparación. La oración de #marcos_14_36 aparece solo como conexión posterior para probar el marco propuesto, no como un segundo estudio canónico de capítulo.
 
 ## Mapa público de las fuentes y control del argumento
 
@@ -92,9 +92,9 @@ La enseñanza parte de una cadena de equivalencias que debe conservarse como pro
 
 Luego introduce Abba. **(אב)** y **(אבא)** pueden expresar padre, y «padre» puede adquirir sentidos de origen o principal según el contexto; eso no convierte toda aparición de la forma en una definición abstracta de sabiduría. Desde ahí, la clase sostiene que a la sabiduría se le puede llamar Abba: no como otro ser por encima del Mesías, sino como una formulación teológica sobre la palabra inamovible que queda en los cielos cuando el Anciano de Días se manifiesta abajo como Bar Enash. La propuesta se conserva atribuida y queda subordinada al llamado textual de Marcos a velar.
 
-## Del anuncio del templo a la vigilancia (13:1-13) #markos_13_1-13
+## Del anuncio del templo a la vigilancia (13:1-13) #marcos_13_1-13
 
-El discurso debe seguirse desde su apertura. Los discípulos admiran las piedras del templo, pero Yehoshua anuncia que no quedará piedra sobre piedra (#markos_13_1-2). Después, Kefa, Iacob, Iojanán y Andrés preguntan por el tiempo y por la señal; la respuesta enumera engaño, persecución, testimonio y perseverancia (#markos_13_3-13). La clase de la parte 41 retoma ese doble horizonte: la destrucción del templo no es idéntica a la recogida final del mundo. Esa distinción evita convertir cada detalle del discurso en un único calendario y explica por qué la enseñanza puede hablar de un juicio histórico y, a la vez, terminar ordenando velar.
+El discurso debe seguirse desde su apertura. Los discípulos admiran las piedras del templo, pero Yehoshua anuncia que no quedará piedra sobre piedra (#marcos_13_1-2). Después, Kefa, Yaakov, Yojanán y Andrés preguntan por el tiempo y por la señal; la respuesta enumera engaño, persecución, testimonio y perseverancia (#marcos_13_3-13). La clase de la parte 41 retoma ese doble horizonte: la destrucción del templo no es idéntica a la recogida final del mundo. Esa distinción evita convertir cada detalle del discurso en un único calendario y explica por qué la enseñanza puede hablar de un juicio histórico y, a la vez, terminar ordenando velar.
 
 Eric lee la referencia a las setenta semanas de Daniel como cumplida en el marco de la destrucción del segundo templo, rechazando una semana suspendida que se desplaza sin demostración al futuro. La observación se atribuye a la clase y se prueba con cautela: Marcos sí anuncia la caída del templo y la señal de la desolación, pero el propio pasaje no ofrece una tabla cronológica que resuelva por sí sola todas las fechas de Daniel 9.
 
@@ -106,9 +106,9 @@ El control de esa observación debe mantenerse doble: Marcos sí distingue las p
 
 La observación de Eric sobre el alcance de Daniel 9 merece conservarse con sus límites concretos. En la clase, **(שבעים)**, _shavuim_, se lee como la forma plural de «sietes» dentro de la expresión «setenta semanas», un período fijado sobre «tu pueblo» y «tu ciudad santa», y la lista de 9:24 se sigue hasta «ungir el **(קדש קדשים)**, _qodesh qodashim_, el santísimo». Esa lectura impide introducir otros pueblos o un templo futuro sin argumentarlo; sin embargo, que el referente sea necesariamente el santuario del segundo templo y que el período concluya exactamente en su destrucción siguen siendo conclusiones históricas de la exposición. La sintaxis local permite describir el ámbito y los propósitos del anuncio, pero no convierte por sí sola «cortado» en una fecha ni los dos comentarios rabínicos mencionados en citas verificables.
 
-## La señal, la huida y los términos de Daniel (13:14-31) #markos_13_14-31
+## La señal, la huida y los términos de Daniel (13:14-31) #marcos_13_14-31
 
-Cuando aparece la abominación de la desolación, Marcos llama a los que están en Judea a huir y describe una tribulación que culmina con la venida del Hijo del Hombre (#markos_13_14-27). Lucas 21:20 ayuda a precisar el eje histórico al hablar de Jerusalén rodeada de ejércitos; es una conexión sinóptica, no una licencia para borrar el lenguaje apocalíptico de Marcos.
+Cuando aparece la abominación de la desolación, Marcos llama a los que están en Judea a huir y describe una tribulación que culmina con la venida del Hijo del Hombre (#marcos_13_14-27). Lucas 21:20 ayuda a precisar el eje histórico al hablar de Jerusalén rodeada de ejércitos; es una conexión sinóptica, no una licencia para borrar el lenguaje apocalíptico de Marcos.
 
 La fuente pública de la parte 42 enfoca precisamente las señales de 13:14-32. Leída en el orden del pasaje, la unidad avanza desde la señal profanadora y la huida urgente (13:14-18), por la tribulación y la advertencia contra falsos mesías (13:19-23), hasta los signos cósmicos, la venida del Hijo del Hombre y la reunión de los escogidos (13:24-27). Finalmente, la higuera ofrece una comparación para reconocer la cercanía de lo anunciado (13:28-29), pero la afirmación sobre que «esta generación» no pasará y la permanencia de las palabras de Yehoshua (13:30-31) no entregan una fecha calculable. Esta estructura permite conservar el tema anunciado por Eric sin convertir el título del video en una transcripción.
 
@@ -117,13 +117,13 @@ El argumento crítico del tramo está en el contraste entre **σημεῖον**,
 <!-- prettier-ignore -->
 La exposición insiste en leer Daniel 9 desde su hebreo. **(שבעים)**, _shavuim_, significa «semanas» o unidades de siete; en #daniel_9_24 el verbo **(נחתך)**, _nechtakh_, tiene el sentido de cortar, decretar o delimitar según el contexto. **(משיח)**, _mashiach_, es «ungido» y puede designar una persona consagrada sin que la forma, aislada, equivalga automáticamente a Yehoshua. **(נגיד)**, _nagid_, es líder, gobernante o representante; «príncipe» es una equivalencia posible según contexto, no una demostración suficiente de una identidad futura. Finalmente, **(קדש קדשים)**, _qodesh qodashim_, significa «santísimo» y puede referirse al ámbito o cosa consagrada. Eric usa esa observación para leer el ungimiento del santuario junto con templo y sacerdocio; la nota conserva la propuesta, pero no convierte una opción contextual en definición única.
 
-La frase «sellar la visión y al profeta» y el anuncio de la desolación requieren, por tanto, dos controles simultáneos: la sintaxis hebrea de Daniel y la secuencia narrativa de Marcos. La clase ofrece una lectura histórica fuerte —la semana completa se cierra con el segundo templo—, mientras el texto local confirma con mayor seguridad el juicio sobre el templo, la huida y la promesa de que cielo y tierra pasarán pero las palabras de Yehoshua no pasarán (#markos_13_31).
+La frase «sellar la visión y al profeta» y el anuncio de la desolación requieren, por tanto, dos controles simultáneos: la sintaxis hebrea de Daniel y la secuencia narrativa de Marcos. La clase ofrece una lectura histórica fuerte —la semana completa se cierra con el segundo templo—, mientras el texto local confirma con mayor seguridad el juicio sobre el templo, la huida y la promesa de que cielo y tierra pasarán pero las palabras de Yehoshua no pasarán (#marcos_13_31).
 
 ## Qué afirma Daniel y qué añade la lectura de la clase
 
 La transcripción de la parte 41 insiste en volver al hebreo de Daniel 9 antes de aceptar una cronología popular. En el corpus hebreo, **(שבעים)**, _shavuim_, es la forma plural de «sietes» o «semanas»; en 9:24 aparece dentro de «setenta semanas» y delimita el marco anunciado al pueblo y a la ciudad santa. **(נחתך)**, _nechtakh_, procede de una forma cuyo campo puede expresarse como cortar, determinar o decretar. «Cortado» conserva la imagen verbal que Eric recalca, pero «decretado» puede comunicar mejor la función de un período fijado; ninguna de esas opciones, aislada, demuestra qué acontecimiento histórico lo termina.
 
-La clase recoge además dos comentarios rabínicos que Eric dice haber consultado y los presenta como coincidentes en que las setenta semanas concluyeron con la destrucción del segundo templo. Esa observación se conserva como afirmación atribuible de la exposición, no como referencia rabínica ya localizada: aunque la clase nombra a Ibn Ezra y al Gaón de Vilna, no ofrece aquí edición ni pasajes exactos; por eso no se pueden convertir esos comentarios en una fuente pública verificable. El texto de Marcos sí permite sostener que la caída del templo está dentro del horizonte de la pregunta y que la señal llama a huir de Judea (#markos_13_1-4, 14); no permite, por sí solo, reconstruir cada fecha de Daniel ni obliga al lector a aceptar una pausa futura. La equivalencia entre «setenta semanas» y «70 años-semanas» es aproximada y depende de la interpretación del contexto, no de una traducción española automática.
+La clase recoge además dos comentarios rabínicos que Eric dice haber consultado y los presenta como coincidentes en que las setenta semanas concluyeron con la destrucción del segundo templo. Esa observación se conserva como afirmación atribuible de la exposición, no como referencia rabínica ya localizada: aunque la clase nombra a Ibn Ezra y al Gaón de Vilna, no ofrece aquí edición ni pasajes exactos; por eso no se pueden convertir esos comentarios en una fuente pública verificable. El texto de Marcos sí permite sostener que la caída del templo está dentro del horizonte de la pregunta y que la señal llama a huir de Judea (#marcos_13_1-4, 14); no permite, por sí solo, reconstruir cada fecha de Daniel ni obliga al lector a aceptar una pausa futura. La equivalencia entre «setenta semanas» y «70 años-semanas» es aproximada y depende de la interpretación del contexto, no de una traducción española automática.
 
 También conviene separar **(משיח)**, _mashiach_, «ungido», de una identificación inmediata. En Daniel 9:25-26 la palabra puede funcionar como título o designación contextual de un consagrado; «Mesías» es una traducción teológica legítima en ciertos marcos, pero no el sentido exhaustivo de la forma en todos sus usos. Del mismo modo, **(נגיד)**, _nagid_, significa gobernante, jefe o líder; «príncipe» es una equivalencia posible, no una prueba cronológica. La lectura de Eric acierta al pedir que se observen esas formas antes de importar un esquema escatológico; queda abierta la decisión sobre cómo relacionarlas con Yehoshua.
 
@@ -135,7 +135,7 @@ En la fuente seleccionada, Eric insiste en no leer automáticamente **(מָשִ�
 
 Eric también objeta traducir **(נחתך)**, _nechtakh_, en Daniel 9:26 como «se le quitará la vida». El sentido de la raíz puede expresarse como «ser cortado», «ser delimitado» o «ser decretado» según construcción y contexto; «cortado» no demuestra por sí solo una muerte, y la clase lo aplica a la pérdida de función o derechos del santuario y su representación sacerdotal. El corpus local de Daniel permite revisar las formas y el alcance del período, pero no basta para afirmar que el referente sea definitivamente el templo ni para excluir toda lectura mesiánica en otros contextos. La nota conserva el argumento crítico y lo clasifica como conclusión histórica y contextual, no como traducción obligatoria.
 
-La parte 41 añade que Eric encontró dos comentarios rabínicos que, según su exposición, apoyan el cumplimiento de las setenta semanas en la destrucción del segundo templo. Más adelante nombra un comentario de Ibn Ezra y una lectura atribuida al Gaón de Vilna, pero no proporciona aquí una edición ni un pasaje estable; por eso se registran como afirmaciones atribuibles y no como evidencia independiente. Su vínculo textual más fuerte está en la propia secuencia sinóptica: Marcos habla del templo, la abominación y la huida, y Lucas explicita Jerusalén rodeada de ejércitos (#markos_13_1-4, #markos_13_14; #lucas_21_20). La asociación de los estandartes romanos con la desolación y la cronología 66–70/73 siguen requiriendo cotejo histórico, aunque explican por qué la clase rechaza una semana suspendida sin demostración.
+La parte 41 añade que Eric encontró dos comentarios rabínicos que, según su exposición, apoyan el cumplimiento de las setenta semanas en la destrucción del segundo templo. Más adelante nombra un comentario de Ibn Ezra y una lectura atribuida al Gaón de Vilna, pero no proporciona aquí una edición ni un pasaje estable; por eso se registran como afirmaciones atribuibles y no como evidencia independiente. Su vínculo textual más fuerte está en la propia secuencia sinóptica: Marcos habla del templo, la abominación y la huida, y Lucas explicita Jerusalén rodeada de ejércitos (#marcos_13_1-4, #marcos_13_14; #lucas_21_20). La asociación de los estandartes romanos con la desolación y la cronología 66–70/73 siguen requiriendo cotejo histórico, aunque explican por qué la clase rechaza una semana suspendida sin demostración.
 
 El detalle que Eric recalca al leer Daniel 9:24-27 es el alcance de la delimitación: la declaración se dirige al pueblo de Daniel y a la ciudad santa, y enumera cerrar la rebelión, terminar el pecado, expiar la iniquidad, traer justicia duradera, sellar visión y profeta y ungir el **(קדש קדשים)**, _qodesh qodashim_. La lista permite preguntar si el referente final es el santuario, una cosa consagrada o una figura sacerdotal; no permite saltar directamente de **(משיח)**, _mashiach_, a una cronología cristológica completa. La clase usa ese inventario para argumentar que el templo y su destrucción deben permanecer dentro de la lectura histórica. El texto de Marcos confirma que el templo abre la pregunta y que la desolación exige huida, mientras el cierre del discurso desplaza la atención desde fechar hasta velar.
 
@@ -143,13 +143,13 @@ El detalle que Eric recalca al leer Daniel 9:24-27 es el alcance de la delimitac
 
 En la parte 41 Eric no solo menciona «dos comentarios rabínicos»: identifica un comentario de Ibn Ezra sobre Daniel y una lectura atribuida al Gaón de Vilna, presentada en un sitio público que la clase señala a sus oyentes. Según la exposición, ambos respaldan leer las setenta semanas como un período continuo que va de la destrucción del primer templo a la destrucción del segundo. Esta precisión permite conservar la observación concreta sin convertirla en verificación independiente: aquí no se ha cotejado la edición, el pasaje exacto ni la traducción de esas obras. La nota atribuye el argumento a Eric y mantiene la referencia externa en estado pendiente, en lugar de inventar una cita rabínica.
 
-La clase propone además una cuenta histórica: si la reconstrucción del templo se ubica aproximadamente en 516 a. e. c., las primeras siete semanas equivaldrían a 49 años; después distingue el cese del sacerdocio alrededor del levantamiento de 66 y la destrucción del templo en 70, con la resistencia de Masada hasta aproximadamente 73. La forma **(שבעים)**, _shavuim_, nombra «sietes» o «semanas» y **(שבוע)**, _shavua_, puede expresar una unidad de siete; la conversión de semanas proféticas en años y la elección de fechas son supuestos cronológicos, no el significado aislado de la forma. Marcos apoya el horizonte de templo, cerco y huida (#markos_13_1-4, 14; #lucas_21_20), pero no demuestra por sí solo cada fecha ni la identificación del último sumo sacerdote.
+La clase propone además una cuenta histórica: si la reconstrucción del templo se ubica aproximadamente en 516 a. e. c., las primeras siete semanas equivaldrían a 49 años; después distingue el cese del sacerdocio alrededor del levantamiento de 66 y la destrucción del templo en 70, con la resistencia de Masada hasta aproximadamente 73. La forma **(שבעים)**, _shavuim_, nombra «sietes» o «semanas» y **(שבוע)**, _shavua_, puede expresar una unidad de siete; la conversión de semanas proféticas en años y la elección de fechas son supuestos cronológicos, no el significado aislado de la forma. Marcos apoya el horizonte de templo, cerco y huida (#marcos_13_1-4, 14; #lucas_21_20), pero no demuestra por sí solo cada fecha ni la identificación del último sumo sacerdote.
 
 Eric menciona también a Yosef ben Gurión como sumo sacerdote asociado con el año 66 y cita a David Gans, en una obra que la clase fecha en 1592, para leer el «cortado» de Daniel en relación con la pérdida de ese oficio antes de la destrucción definitiva. La observación se conserva como una propuesta histórica atribuible. **(כהן משיח)**, _kohen mashiach_, significa «sacerdote ungido» en Levítico 4:3 y 4:16; esa evidencia sí muestra que **(משיח)**, _mashiach_, puede describir un oficio sacerdotal y no solo una figura escatológica. No prueba, sin embargo, que Daniel 9:26 se refiera necesariamente al templo o a ese personaje: esa conclusión depende de sintaxis, contexto y cotejo histórico.
 
-## Nadie recibe la hora: velar (13:32-37) #markos_13_32-37
+## Nadie recibe la hora: velar (13:32-37) #marcos_13_32-37
 
-El cierre del discurso no abandona la secuencia anterior: después de hablar de la venida del Hijo del Hombre, Yehoshua niega a todos —ángeles, Hijo en la versión Delitzsch y cualquier lector— el acceso al día y la hora (#markos_13_32). La cláusula no es un dato aislado para construir una escala de rangos; desemboca cuatro veces en el mandato de velar, porque el dueño de la casa puede llegar al anochecer, a medianoche, al canto del gallo o por la mañana (#markos_13_33-37). La observación de Eric sobre no convertir la profecía en calendario queda así probada por la propia repetición narrativa.
+El cierre del discurso no abandona la secuencia anterior: después de hablar de la venida del Hijo del Hombre, Yehoshua niega a todos —ángeles, Hijo en la versión Delitzsch y cualquier lector— el acceso al día y la hora (#marcos_13_32). La cláusula no es un dato aislado para construir una escala de rangos; desemboca cuatro veces en el mandato de velar, porque el dueño de la casa puede llegar al anochecer, a medianoche, al canto del gallo o por la mañana (#marcos_13_33-37). La observación de Eric sobre no convertir la profecía en calendario queda así probada por la propia repetición narrativa.
 
 La diferencia entre TTH y Delitzsch debe permanecer visible: la primera edición local no incluye «ni el Hijo», mientras la segunda sí. En ambas, el efecto literario es que la hora no se entrega a la comunidad. Por ello la lectura doctrinal de la clase sobre la obediencia del Bar Enash puede conservarse como interpretación, pero no debe borrar la variante textual ni reemplazar el llamado explícito a vigilar.
 
@@ -163,18 +163,18 @@ El mandato también tiene dos formas que no deben colapsarse: **(ἀγρυπνε
 
 | Referencia              | Texto local                                                                                                                                                                                    | Función en la clase                                                                                                                                             |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #markos_13_14-27, 32-37 | TTH: la abominación y la tribulación desembocan en la venida del Hijo del Hombre; del día y la hora nadie sabe, y la casa debe velar.                                                          | La parte 41 reubica las 70 semanas y la destrucción del templo dentro del discurso; la fecha no se convierte en calendario futuro para abandonar la vigilancia. |
-| #markos_13_32           | TTH: "Y acerca de aquel día y acerca de aquella hora nadie sabe, ni los ángeles que están en los cielos, sino el Padre." Delitzsch: גם־לא הבן מבלעדי האב, "tampoco el Hijo, excepto el Padre." | La clase lo usa para resolver la aparente inferioridad del Hijo: no se revela el tiempo porque el llamado es velar.                                             |
-| #markos_14_32           | TTH: Yehoshua llega a Gue Shemanim y dice que hará tefilah. Delitzsch: גת־שמנים.                                                                                                               | El lugar se lee como escenario de sujeción absoluta.                                                                                                            |
-| #markos_14_36           | TTH: "Padre, Padre mío, todo lo puedes Tú, haz pasar de mí esta copa, pero no es lo que yo quiero, sino lo que Tú." Delitzsch: אבא אבי.                                                        | Abba no se lee como evasión de la copa, sino como sometimiento a la palabra establecida.                                                                        |
-| #malaji_3_1             | TTH: "de repente vendrá a su Hejal el Adón... ha dicho יהוה Tzebaot."                                                                                                                          | La venida del Adón será repentina; por eso el discípulo debe velar.                                                                                             |
-| #tehilim_119_89         | TTH: "Para siempre, יהוה, tu palabra se establece en los cielos."                                                                                                                              | Base para llamar inamovible a la palabra pronunciada.                                                                                                           |
-| #tehilim_119_90         | TTH: "Por generación y generación es tu fidelidad (emunah), afirmaste la tierra, y permanecerá."                                                                                               | Emunah se conecta con firmeza, permanencia e inmutabilidad.                                                                                                     |
-| #matityahu_5_17-18      | TTH: Yehoshua no vino a romper la Torah o los profetas, sino a completar; ni una letra ni un punto cesará hasta que todo sea establecido.                                                      | La misión del Mesías no anula la palabra; la cumple.                                                                                                            |
-| #matityahu_24_35        | Delitzsch: השמים והארץ יעברו ודברי לא יעברון.                                                                                                                                                  | Las palabras del Mesías no pasan; la clase las identifica con la Torah y la profecía.                                                                           |
-| #tehilim_106_30         | TTH: "Y se puso de pie Pinjas y medió (O, juzgó), y fue retenida la pestilencia."                                                                                                              | La clase usa la raíz **(פלל)** para explicar tefilah como entrar en juicio.                                                                                     |
-| #ieshaiahu_53_7         | TTH: "Fue oprimido, y Él fue afligido, pero no abrió su boca; como cordero para sacrificio fue llevado..."                                                                                     | El Mesías se somete al juicio sin resistir la copa.                                                                                                             |
-| #ivrim_5_7-9            | Delitzsch: el Mesías ofreció tefilot y súplicas con clamor y lágrimas, y llegó a ser fuente de salvación eterna.                                                                               | Getsemaní se interpreta como sometimiento judicial y obediencia.                                                                                                |
+| #marcos_13_14-27, 32-37 | TTH: la abominación y la tribulación desembocan en la venida del Hijo del Hombre; del día y la hora nadie sabe, y la casa debe velar.                                                          | La parte 41 reubica las 70 semanas y la destrucción del templo dentro del discurso; la fecha no se convierte en calendario futuro para abandonar la vigilancia. |
+| #marcos_13_32           | TTH: "Y acerca de aquel día y acerca de aquella hora nadie sabe, ni los ángeles que están en los cielos, sino el Padre." Delitzsch: גם־לא הבן מבלעדי האב, "tampoco el Hijo, excepto el Padre." | La clase lo usa para resolver la aparente inferioridad del Hijo: no se revela el tiempo porque el llamado es velar.                                             |
+| #marcos_14_32           | TTH: Yehoshua llega a Gue Shemanim y dice que hará tefilah. Delitzsch: גת־שמנים.                                                                                                               | El lugar se lee como escenario de sujeción absoluta.                                                                                                            |
+| #marcos_14_36           | TTH: "Padre, Padre mío, todo lo puedes Tú, haz pasar de mí esta copa, pero no es lo que yo quiero, sino lo que Tú." Delitzsch: אבא אבי.                                                        | Abba no se lee como evasión de la copa, sino como sometimiento a la palabra establecida.                                                                        |
+| #malaquias_3_1             | TTH: "de repente vendrá a su Hejal el Adón... ha dicho יהוה Tzebaot."                                                                                                                          | La venida del Adón será repentina; por eso el discípulo debe velar.                                                                                             |
+| #salmos_119_89         | TTH: "Para siempre, יהוה, tu palabra se establece en los cielos."                                                                                                                              | Base para llamar inamovible a la palabra pronunciada.                                                                                                           |
+| #salmos_119_90         | TTH: "Por generación y generación es tu fidelidad (emunah), afirmaste la tierra, y permanecerá."                                                                                               | Emunah se conecta con firmeza, permanencia e inmutabilidad.                                                                                                     |
+| #mateo_5_17-18      | TTH: Yehoshua no vino a romper la Torah o los profetas, sino a completar; ni una letra ni un punto cesará hasta que todo sea establecido.                                                      | La misión del Mesías no anula la palabra; la cumple.                                                                                                            |
+| #mateo_24_35        | Delitzsch: השמים והארץ יעברו ודברי לא יעברון.                                                                                                                                                  | Las palabras del Mesías no pasan; la clase las identifica con la Torah y la profecía.                                                                           |
+| #salmos_106_30         | TTH: "Y se puso de pie Pinjas y medió (O, juzgó), y fue retenida la pestilencia."                                                                                                              | La clase usa la raíz **(פלל)** para explicar tefilah como entrar en juicio.                                                                                     |
+| #isaias_53_7         | TTH: "Fue oprimido, y Él fue afligido, pero no abrió su boca; como cordero para sacrificio fue llevado..."                                                                                     | El Mesías se somete al juicio sin resistir la copa.                                                                                                             |
+| #hebreos_5_7-9            | Delitzsch: el Mesías ofreció tefilot y súplicas con clamor y lágrimas, y llegó a ser fuente de salvación eterna.                                                                               | Getsemaní se interpreta como sometimiento judicial y obediencia.                                                                                                |
 
 ## Léxico clave
 
@@ -187,7 +187,7 @@ El mandato también tiene dos formas que no deben colapsarse: **(ἀγρυπνε
 | **(חכמה)**   | jokhmah         | sabiduría, sujeción absoluta                       | Pedagógica              | La clase une sabiduría con renuncia al yo y obediencia completa.                              |
 | **(בינה)**   | binah           | inteligencia, profecía                             | Pedagógica              | Asociada con la profecía en el esquema Torah-profecía.                                        |
 | **(תפלה)**   | tefilah         | oración, súplica, comparecencia ante Elohim        | Aproximada              | La clase la relaciona con juicio; la forma nominal debe distinguirse de la raíz verbal.       |
-| **(פלל)**    | palal           | juzgar, interceder, arbitrar según construcción    | Aproximada              | #tehilim_106_30 permite la relación con juzgar o mediar; requiere precisión léxica adicional. |
+| **(פלל)**    | palal           | juzgar, interceder, arbitrar según construcción    | Aproximada              | #salmos_106_30 permite la relación con juzgar o mediar; requiere precisión léxica adicional. |
 | **(אמונה)**  | emunah          | fidelidad, firmeza, inmutabilidad                  | Aproximada              | La clase la conecta con una palabra estable y no movible.                                     |
 
 ## Abba como origen y principio
@@ -198,9 +198,9 @@ Por eso se mencionan ejemplos como **(אבות מלאכות)**, las categorías 
 
 ## El Hijo, el Padre y la información no revelada
 
-#markos_13_32 presenta una dificultad: si el Hijo no sabe el día ni la hora, parece inferior al Padre. La clase responde que el Hijo como Bar Enash no vino a entregar esa información, porque revelar el tiempo destruiría el llamado a velar. El punto pastoral del pasaje no es curiosidad cronológica, sino vigilancia.
+#marcos_13_32 presenta una dificultad: si el Hijo no sabe el día ni la hora, parece inferior al Padre. La clase responde que el Hijo como Bar Enash no vino a entregar esa información, porque revelar el tiempo destruiría el llamado a velar. El punto pastoral del pasaje no es curiosidad cronológica, sino vigilancia.
 
-La conexión con #malaji_3_1 refuerza esa lectura: el Adón viene de repente a su Hejal. Si la venida es súbita, la comunidad no puede vivir de cálculos. La enseñanza lo resume así: ni como Hijo en la tierra ni como Abba en la palabra celestial se entrega una fecha para que el discípulo deje de velar.
+La conexión con #malaquias_3_1 refuerza esa lectura: el Adón viene de repente a su Hejal. Si la venida es súbita, la comunidad no puede vivir de cálculos. La enseñanza lo resume así: ni como Hijo en la tierra ni como Abba en la palabra celestial se entrega una fecha para que el discípulo deje de velar.
 
 ## La copa de Getsemaní como conexión de obediencia
 
@@ -210,7 +210,7 @@ Esta explicación etimológica debe verificarse con más cuidado. La transcripci
 
 ## Orar es entrar bajo juicio
 
-La clase distingue entre la idea castellana de orar como "hablar" y la lectura hebrea de tefilah como someterse a juicio. Desde #tehilim_106_30, donde Pinjas se levanta y "juzga" o "media", se propone que orar implica entrar en un proceso judicial delante de Elohim.
+La clase distingue entre la idea castellana de orar como "hablar" y la lectura hebrea de tefilah como someterse a juicio. Desde #salmos_106_30, donde Pinjas se levanta y "juzga" o "media", se propone que orar implica entrar en un proceso judicial delante de Elohim.
 
 En ese juicio, la Torah funciona como norma; el acusador presenta cargos; el juez justo guarda el procedimiento y defiende contra la acusación falsa, pero no borra la verdad de la transgresión. Por eso la oración madura no manipula el tribunal: confiesa, pide misericordia y se allana a la voluntad de Elohim.
 
@@ -218,11 +218,11 @@ En ese juicio, la Torah funciona como norma; el acusador presenta cargos; el jue
 
 Cuando Yehoshua dice "Abba, Padre mío, todo lo puedes", la clase no lo presenta como rebeldía contra la copa. Lo presenta como el Bar Enash sometiéndose al juicio de la palabra inamovible. "Pase de mí esta copa" expresa la presión real de cargar el pecado; "no lo que yo quiero, sino lo que Tú" expresa que la Torah y la profecía no pueden quebrarse.
 
-Esta lectura se enlaza con #matityahu_5_17-18 y #matityahu_24_35: el Mesías no vino a romper la Torah ni los profetas; sus palabras no pasarán. En Getsemaní, la palabra pronunciada en los cielos se cumple en la obediencia del Hijo en la tierra.
+Esta lectura se enlaza con #mateo_5_17-18 y #mateo_24_35: el Mesías no vino a romper la Torah ni los profetas; sus palabras no pasarán. En Getsemaní, la palabra pronunciada en los cielos se cumple en la obediencia del Hijo en la tierra.
 
 ## Hebreos 5 y la obediencia enseñada
 
-La clase conecta #ivrim_5_7-9 con Getsemaní: en los días de su carne, el Mesías ofreció ruegos y súplicas con clamor y lágrimas. La transcripción afirma que el texto debe leerse como "enseñó la obediencia", no "aprendió la obediencia"; esa afirmación queda pendiente de cotejo textual, porque Delitzsch usa **(למד)**, que normalmente se mueve en el campo de aprender y enseñar según construcción.
+La clase conecta #hebreos_5_7-9 con Getsemaní: en los días de su carne, el Mesías ofreció ruegos y súplicas con clamor y lágrimas. La transcripción afirma que el texto debe leerse como "enseñó la obediencia", no "aprendió la obediencia"; esa afirmación queda pendiente de cotejo textual, porque Delitzsch usa **(למד)**, que normalmente se mueve en el campo de aprender y enseñar según construcción.
 
 El punto doctrinal de la clase es que el Mesías, sin pecado propio, cargó la condición del pecado y se sometió al juicio de la Torah como Cordero. Por eso la obediencia no es un dato abstracto: se muestra en padecimiento, entrega y cumplimiento.
 
@@ -248,26 +248,26 @@ El punto doctrinal de la clase es que el Mesías, sin pecado propio, cargó la c
 | Gaón de Vilna           | Comentario sobre Daniel 9                   | Apoyo atribuido a la lectura histórica del segundo templo           | Pendiente de cotejar   |
 | David Gans              | Obra histórica fechada por la clase en 1592 | Yosef ben Gurión y el sacerdocio antes de la destrucción            | Pendiente de cotejar   |
 
-La parte 41 afirma de manera explícita que las setenta semanas ya se cumplieron con la destrucción del segundo templo y que no queda una semana suspendida para un anticristo futuro. Eric dice además que dos comentarios rabínicos que consultó coinciden con esa lectura. La observación histórica queda preservada, pero no se presentan esos comentarios como citas comprobadas: el transcript no entrega autor, obra ni pasaje estable. El texto de Marcos confirma que el templo, la desolación y la huida pertenecen al horizonte del discurso (#markos_13_1-4, #markos_13_14), mientras que 13:32-37 impide usar cualquier reconstrucción para calcular el día y la hora. Así se puede evaluar la tesis fuerte de Eric sin convertir una mención bibliográfica incompleta en evidencia independiente ni confundir el cumplimiento histórico del templo con una licencia para fechar la venida.
+La parte 41 afirma de manera explícita que las setenta semanas ya se cumplieron con la destrucción del segundo templo y que no queda una semana suspendida para un anticristo futuro. Eric dice además que dos comentarios rabínicos que consultó coinciden con esa lectura. La observación histórica queda preservada, pero no se presentan esos comentarios como citas comprobadas: el transcript no entrega autor, obra ni pasaje estable. El texto de Marcos confirma que el templo, la desolación y la huida pertenecen al horizonte del discurso (#marcos_13_1-4, #marcos_13_14), mientras que 13:32-37 impide usar cualquier reconstrucción para calcular el día y la hora. Así se puede evaluar la tesis fuerte de Eric sin convertir una mención bibliográfica incompleta en evidencia independiente ni confundir el cumplimiento histórico del templo con una licencia para fechar la venida.
 
-## Verificación adicional: dos preguntas, una vigilancia (13:1-37) #markos_13_1-37
+## Verificación adicional: dos preguntas, una vigilancia (13:1-37) #marcos_13_1-37
 
-La parte 41 vuelve a una observación concreta de Eric: las preguntas de los discípulos no deben fundirse en una sola fecha. La primera nace de la advertencia «no quedará piedra sobre piedra» (`#markos_13_1-2`); después preguntan por el tiempo y la señal, y Yehoshua responde con engaño, persecución, testimonio y perseverancia (`#markos_13_3-13`). **(ἐπερώτων)**, _eperōtōn_, «preguntaban», introduce esas preguntas en plural; la forma no resuelve por sí sola toda la cronología, pero sí permite conservar la distinción narrativa que la clase enfatiza.
+La parte 41 vuelve a una observación concreta de Eric: las preguntas de los discípulos no deben fundirse en una sola fecha. La primera nace de la advertencia «no quedará piedra sobre piedra» (`#marcos_13_1-2`); después preguntan por el tiempo y la señal, y Yehoshua responde con engaño, persecución, testimonio y perseverancia (`#marcos_13_3-13`). **(ἐπερώτων)**, _eperōtōn_, «preguntaban», introduce esas preguntas en plural; la forma no resuelve por sí sola toda la cronología, pero sí permite conservar la distinción narrativa que la clase enfatiza.
 
 Desde 13:14 el discurso cambia a la señal de desolación, huida, tribulación, falsos mesías, signos cósmicos y reunión de los escogidos. La exposición relaciona ese tramo con la destrucción del segundo templo y rechaza una semana suspendida sin prueba independiente. Marcos apoya con claridad el horizonte del templo y la urgencia de huir; la conclusión histórica sobre Daniel 9 sigue siendo una inferencia atribuible, porque el evangelio no ofrece una tabla que determine cada fecha.
 
 El cierre vuelve a impedir la especulación. **(οὐκ οἴδατε)**, _ouk oidate_, «no saben», limita el conocimiento comunitario; **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos», y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», son imperativos presentes que describen una práctica sostenida. Eric usa este final para insistir en que la profecía no debe convertirse en calendario; la repetición de los mandatos lo confirma. La variante local entre TTH y Delitzsch sobre «ni el Hijo» debe permanecer visible y no ser resuelta ocultando un testigo.
 
-## Control de la apertura: templo, preguntas y perseverancia (13:1-13) #markos_13_1-13
+## Control de la apertura: templo, preguntas y perseverancia (13:1-13) #marcos_13_1-13
 
 <!-- prettier-ignore -->
-La vigilancia del cierre solo se entiende si se conserva la apertura del discurso. Los discípulos admiran las piedras del templo y Yehoshua anuncia su demolición; luego cuatro de ellos preguntan en privado por el tiempo y la señal (#markos_13_1-4). **ἐπερωτάω**, _eperōtaō_, «preguntar o interrogar», aparece en la escena de la pregunta; su forma narrativa no convierte las dos cuestiones en una fecha única. **βλέπω**, _blepō_, «mirar o prestar atención», y **πλανάω**, _planaō_, «desviar o engañar», gobiernan la primera advertencia: la comunidad debe mirar que nadie la desvíe (#markos_13_5). La equivalencia semítica con **(ראה)**, _raah_, «ver o considerar», y **(תעה)**, _taah_, «extraviarse», es aproximada y sirve solo para comparar campos de sentido.
+La vigilancia del cierre solo se entiende si se conserva la apertura del discurso. Los discípulos admiran las piedras del templo y Yehoshua anuncia su demolición; luego cuatro de ellos preguntan en privado por el tiempo y la señal (#marcos_13_1-4). **ἐπερωτάω**, _eperōtaō_, «preguntar o interrogar», aparece en la escena de la pregunta; su forma narrativa no convierte las dos cuestiones en una fecha única. **βλέπω**, _blepō_, «mirar o prestar atención», y **πλανάω**, _planaō_, «desviar o engañar», gobiernan la primera advertencia: la comunidad debe mirar que nadie la desvíe (#marcos_13_5). La equivalencia semítica con **(ראה)**, _raah_, «ver o considerar», y **(תעה)**, _taah_, «extraviarse», es aproximada y sirve solo para comparar campos de sentido.
 
 El tramo intermedio añade entrega, testimonio y perseverancia. **παραδίδωμι**, _paradidōmi_, «entregar», describe la comparecencia ante consejos y gobernadores; **μαρτύριον**, _martyrion_, «testimonio», nombra lo que debe darse a las naciones; y **ὑπομένω**, _hypomenō_, «permanecer bajo presión o perseverar», cierra la promesa de 13:13. La clase de Eric separa el juicio del templo de la recogida final; esta secuencia textual permite conservar esa distinción sin resolver toda la cronología de Daniel. La exhortación segura no es dominar el calendario, sino permanecer fiel cuando el testimonio es probado.
 
 Esta apertura también evita atribuir a la parte 41 una reconstrucción que el pasaje no afirma. Marcos sí pone en orden admiración del templo, anuncio de ruina, preguntas, engaño, persecución y perseverancia; la lectura histórica de Eric sobre las setenta semanas permanece una inferencia atribuible que debe cotejarse con Daniel 9 y con fuentes históricas públicas. La cadena narrativa prepara 13:32-37: quien no controla el momento recibe, en cambio, la tarea de velar.
 
-## Control dirigido: «esta generación» no entrega la hora (13:28-37) #markos_13_28-37
+## Control dirigido: «esta generación» no entrega la hora (13:28-37) #marcos_13_28-37
 
 La comparación de la higuera y la orden de velar deben permanecer juntas. **μανθάνετε**, _manthanete_, es un imperativo de «aprender o comprender»; **ἐγγύς**, _engys_, significa «cerca»; y **γενεά**, _genea_, puede designar generación, descendencia o época según el contexto. En 13:28-30 esas formas permiten reconocer que el anuncio se aproxima y que «esta generación» no pasará antes de que sucedan las cosas anunciadas, pero ninguna convierte el dicho en una fecha calculable. La lectura de Eric sobre el cumplimiento histórico de las setenta semanas debe distinguirse de esa observación léxica: Marcos afirma la permanencia de su palabra y la cercanía de lo anunciado, no entrega una tabla para fechar el día.
 
@@ -304,7 +304,7 @@ La fuente seleccionada de la parte 41 permite precisar el argumento sin reducirl
 
 El centro lexical de la exposición está en Daniel 9:25-27. Eric discute traducir **(מָשִׁיחַ נָגִיד)**, _mashiach nagid_, como «Mesías príncipe» y propone leer **(מָשִׁיחַ)**, _mashiach_, como «ungido» y **(נָגִיד)**, _nagid_, como líder, gobernante o representante. También objeta que **(נחתך)**, _nechtakh_, en 9:26 deba significar necesariamente «se le quitará la vida»: «ser cortado», «delimitado» o «decretado» son posibilidades que requieren sintaxis y contexto. La forma no decide por sí sola si se trata de muerte, pérdida de función o terminación de un período. Levítico 4:3 y 4:16 sí usa **(כהן משיח)**, _kohen mashiach_, «sacerdote ungido»; esa evidencia demuestra el campo sacerdotal de _mashiach_, pero no identifica automáticamente el referente de Daniel.
 
-Eric relaciona **(קדש קדשים)**, _qodesh qodashim_, «santísimo», con el santuario puesto en servicio y con el sacerdocio que representa al pueblo. La clase menciona además una cuenta aproximada desde la reconstrucción del templo alrededor de 516 a. e. c., el cese del sacerdocio alrededor de 66 y la destrucción entre 70 y 73. Esta reconstrucción conserva observaciones históricas concretas, pero sus fechas y sus referencias a Ibn Ezra, al Gaón de Vilna, David Gans y Yosef ben Gurión siguen pendientes de cotejo. No se presentan como citas independientes. Marcos y Lucas sí aportan el control canónico: templo y preguntas (#markos_13_1-4), abominación y huida (#markos_13_14-18), y Jerusalén rodeada de ejércitos (#lucas_21_20).
+Eric relaciona **(קדש קדשים)**, _qodesh qodashim_, «santísimo», con el santuario puesto en servicio y con el sacerdocio que representa al pueblo. La clase menciona además una cuenta aproximada desde la reconstrucción del templo alrededor de 516 a. e. c., el cese del sacerdocio alrededor de 66 y la destrucción entre 70 y 73. Esta reconstrucción conserva observaciones históricas concretas, pero sus fechas y sus referencias a Ibn Ezra, al Gaón de Vilna, David Gans y Yosef ben Gurión siguen pendientes de cotejo. No se presentan como citas independientes. Marcos y Lucas sí aportan el control canónico: templo y preguntas (#marcos_13_1-4), abominación y huida (#marcos_13_14-18), y Jerusalén rodeada de ejércitos (#lucas_21_20).
 
 El límite decisivo aparece al final del capítulo. Aunque la clase usa el cumplimiento histórico del templo para rechazar un calendario futurista, Marcos termina con **(οὐκ οἴδατε)**, _ouk oidate_, «no saben», **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos», y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». El texto no convierte la reconstrucción de Daniel en una fecha disponible. En TTH falta «ni el Hijo», mientras Delitzsch conserva **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo»; ambos testigos mantienen la ignorancia del momento y la tarea de velar.
 
@@ -339,8 +339,8 @@ La exposición también confronta la lectura dispensacional que detiene el reloj
 - [ ] Cotejar la afirmación de que a la sabiduría se le llamó Abba en Targum, midrash o literatura rabínica.
 - [ ] Localizar con precisión las fuentes sobre los patriarcas llamados merkavah.
 - [ ] Verificar la reconstrucción aramea de Getsemaní y su relación con "huerto de los olivos" y aceite.
-- [ ] Revisar el griego y las versiones hebreas de #ivrim_5_8 para distinguir "aprendió obediencia" de "enseñó obediencia".
-- [ ] Cotejar por qué la TTH local de #markos_13_32 omite "ni el Hijo" mientras Delitzsch lo conserva.
+- [ ] Revisar el griego y las versiones hebreas de #hebreos_5_8 para distinguir "aprendió obediencia" de "enseñó obediencia".
+- [ ] Cotejar por qué la TTH local de #marcos_13_32 omite "ni el Hijo" mientras Delitzsch lo conserva.
 
 ## Mapa de la enseñanza de Eric
 
@@ -360,12 +360,12 @@ La exposición también confronta la lectura dispensacional que detiene el reloj
 
 ## Dependencias textuales: Daniel, el discurso y Getsemaní
 
-Las cuatro fuentes de Eric se distribuyen en una secuencia que debe permanecer visible. La parte 40 plantea la cuestión de Daniel 9; la parte 41 la relaciona con el discurso de Marcos 13; la parte 42 enfoca las señales de 13:14-32; y la parte 13 aporta el contraste doctrinal sobre la divinidad de Mashíaj. La nota no convierte ese orden de clases en un orden bíblico alternativo: en Marcos, el anuncio de la destrucción (#markos_13_1-4) precede a la señal, la tribulación y la venida (#markos_13_14-27), y todo desemboca en el mandato repetido de velar (#markos_13_32-37). Getsemaní (#markos_14_32-36) funciona después como dependencia narrativa para examinar la obediencia, no como prueba de que Marcos 13 entregue una fecha.
+Las cuatro fuentes de Eric se distribuyen en una secuencia que debe permanecer visible. La parte 40 plantea la cuestión de Daniel 9; la parte 41 la relaciona con el discurso de Marcos 13; la parte 42 enfoca las señales de 13:14-32; y la parte 13 aporta el contraste doctrinal sobre la divinidad de Mashíaj. La nota no convierte ese orden de clases en un orden bíblico alternativo: en Marcos, el anuncio de la destrucción (#marcos_13_1-4) precede a la señal, la tribulación y la venida (#marcos_13_14-27), y todo desemboca en el mandato repetido de velar (#marcos_13_32-37). Getsemaní (#marcos_14_32-36) funciona después como dependencia narrativa para examinar la obediencia, no como prueba de que Marcos 13 entregue una fecha.
 
 La distinción es especialmente necesaria para los términos de Daniel. **(שבעים)**, _shavuim_, nombra «sietes» o «semanas» en su construcción; **(משיח)**, _mashiach_, significa ungido; y **(נגיד)**, _nagid_, designa un líder o gobernante. Ninguna de esas formas, aislada, demuestra que la última semana esté suspendida ni que cada «ungido» sea automáticamente el Mesías. La tesis histórica conservada de Eric puede discutirse con Daniel, Marcos y el contexto de la destrucción del templo, pero el llamado de Marcos a velar permanece más firme que cualquier cronograma derivado.
 
 <!-- prettier-ignore -->
-También queda delimitada la lectura de la variante textual. TTH omite «ni el Hijo» en #markos_13_32, mientras Delitzsch la conserva; no se debe ocultar la diferencia para resolver doctrinalmente la aparente tensión. En ambas formas locales, el resultado retórico es que el día y la hora no se entregan a los discípulos. **(γρηγορεῖτε)**, _grēgoreite_, es un imperativo presente plural: la vigilancia es una práctica sostenida, no una clave para calcular. Esa dependencia textual prueba el núcleo pastoral de las clases sin convertir una inferencia de Eric sobre Abba, Bar Enash o Daniel en traducción automática del pasaje.
+También queda delimitada la lectura de la variante textual. TTH omite «ni el Hijo» en #marcos_13_32, mientras Delitzsch la conserva; no se debe ocultar la diferencia para resolver doctrinalmente la aparente tensión. En ambas formas locales, el resultado retórico es que el día y la hora no se entregan a los discípulos. **(γρηγορεῖτε)**, _grēgoreite_, es un imperativo presente plural: la vigilancia es una práctica sostenida, no una clave para calcular. Esa dependencia textual prueba el núcleo pastoral de las clases sin convertir una inferencia de Eric sobre Abba, Bar Enash o Daniel en traducción automática del pasaje.
 
 ## Dependencias textuales y límite de la cronología
 
@@ -373,7 +373,7 @@ El argumento debe conservar la transición que hace Marcos: después de la seña
 
 También debe separarse la equivalencia léxica de la conclusión doctrinal. **(ἡμέρα)**, _hēmera_, es «día» y **(ὥρα)**, _hōra_, «hora» o momento señalado; ninguna forma, aislada, significa «fecha profética calculable». **(λόγοι)**, _logoi_, son palabras, dichos o mensajes, y en 13:31 la afirmación de que no pasarán sostiene la autoridad del anuncio, no una identificación automática de cada palabra con una formulación rabínica posterior. La forma **(γρηγορεῖτε)**, _grēgoreite_, reaparece como mandato presente: la vigilancia es una conducta sostenida, no una clave escondida para descifrar el calendario. La exposición de Eric puede conservar su tesis sobre la palabra inamovible siempre que permanezcan visibles la variante TTH-Delitzsch y la diferencia entre observación textual, inferencia histórica y desarrollo teológico.
 
-## Control de la perícopa: señal, desconocimiento y vigilancia (13:14-37) #markos_13_14-37
+## Control de la perícopa: señal, desconocimiento y vigilancia (13:14-37) #marcos_13_14-37
 
 El discurso debe conservar su progresión. La señal de 13:14 aparece en medio de una advertencia sobre la **βδέλυγμα**, _bdelygma_, «cosa abominable», que queda «donde no debe»; el sustantivo expresa algo detestable o profanador en contexto, pero no contiene por sí solo la identificación histórica de Eric con un estandarte romano. La orden de huir y la referencia a una tribulación sin precedente llevan la escena hacia la venida del Hijo del Hombre, no hacia una tabla de fechas.
 
@@ -395,7 +395,7 @@ La exhortación final prueba cómo debe recibirse esa palabra. **βλέπετε*
 
 ## Control final: dos preguntas, un límite y una tarea
 
-La parte 41 retoma una observación estructural de Eric: las preguntas de los discípulos no deben fundirse en una sola consulta. El discurso comienza con la destrucción del templo y después pregunta por la señal y el cumplimiento (`#markos_13_1-4`); la clase distingue ese horizonte de la reunión final. El texto permite conservar la distinción narrativa sin convertirla en una tabla cronológica: la destrucción anunciada, la abominación, la huida y la reunión aparecen en una secuencia, pero Marcos no asigna fechas a cada elemento. La forma **(ἐπισυνάξει)**, _episynaxei_, «reunirá», describe la acción del Hijo del Hombre sobre los escogidos; no autoriza a trasladar el verbo a un procedimiento humano de cálculo.
+La parte 41 retoma una observación estructural de Eric: las preguntas de los discípulos no deben fundirse en una sola consulta. El discurso comienza con la destrucción del templo y después pregunta por la señal y el cumplimiento (`#marcos_13_1-4`); la clase distingue ese horizonte de la reunión final. El texto permite conservar la distinción narrativa sin convertirla en una tabla cronológica: la destrucción anunciada, la abominación, la huida y la reunión aparecen en una secuencia, pero Marcos no asigna fechas a cada elemento. La forma **(ἐπισυνάξει)**, _episynaxei_, «reunirá», describe la acción del Hijo del Hombre sobre los escogidos; no autoriza a trasladar el verbo a un procedimiento humano de cálculo.
 
 Eric menciona que consultó dos comentarios rabínicos y que ambos respaldan el cumplimiento de las setenta semanas con la destrucción del segundo templo. La observación debe conservarse como parte atribuible de la clase, pero no como bibliografía comprobada: el material disponible no identifica autor, obra ni pasaje. Incluso la alusión al día tradicional de la destrucción del templo es presentada en la clase como tradición, no como certeza histórica suficiente. Así, **(נחתך)**, _nechtakh_, «cortado, delimitado o decretado», y **(קדש קדשים)**, _qodesh qodashim_, «santísimo», permiten examinar el alcance de Daniel 9:24-27; no resuelven por sí solos el acontecimiento final ni convierten la lectura histórica de Eric en equivalencia léxica obligatoria. El límite más firme sigue siendo el de Marcos 13:32-37: el día y la hora no se entregan, mientras **(γρηγορεῖτε)**, _grēgoreite_, ordena velar.
 
@@ -407,7 +407,7 @@ Después, **γενεά**, _genea_, significa «generación, descendencia o époc
 
 Finalmente, **βλέπετε**, _blepete_, «miren o estén atentos», **ἀγρυπνεῖτε**, _agrypneite_, «manténganse despiertos», y **γρηγορεῖτε**, _grēgoreite_, «vigilen», son imperativos plurales que convierten la falta de información en una tarea comunitaria sostenida. La equivalencia temática con **(אמונה)**, _emunah_, «fidelidad, firmeza o confianza», es aproximada; no demuestra que los verbos griegos sean retroversiones hebreas. La lectura de Eric sobre la palabra inamovible conserva su fuerza cuando desemboca en vigilancia y obediencia, no cuando se usa para reclamar un calendario.
 
-## Control de dependencia: del templo a la vigilancia (13:1-37) #markos_13_1-37
+## Control de dependencia: del templo a la vigilancia (13:1-37) #marcos_13_1-37
 
 La enseñanza debe conservar el movimiento completo del discurso. En 13:1-4 el templo y las dos preguntas abren el problema; en 13:14-27 aparecen la abominación, la huida, la tribulación, la venida del Hijo del Hombre y la reunión; en 13:28-31 la higuera y la palabra que no pasa ofrecen reconocimiento y certeza; y en 13:32-37 la falta de acceso al día y la hora desemboca en velar. La tesis histórica de Eric sobre Daniel 9 puede evaluarse dentro de ese recorrido, pero no puede desplazar el mandato final ni convertir una perícopa en calendario.
 
@@ -435,15 +435,15 @@ El argumento de Eric puede comprobarse sin resolver por adelantado la cronologí
 
 Por eso la afirmación histórica sobre las setenta semanas debe ocupar un lugar subordinado al movimiento del capítulo. **(שבעים)**, _shavuim_, designa «sietes» o «semanas», y **(משיח)**, _mashiach_, «ungido»; ninguna forma por sí sola demuestra el acontecimiento que cierra el período. La clase de Eric puede sostener que el templo y su destrucción son un horizonte decisivo, porque Marcos abre el discurso con el templo y habla de desolación y huida. Pero la equivalencia entre ese horizonte y una cronología exhaustiva es una inferencia histórica, no el sentido automático de las palabras hebreas. El cierre conserva la prioridad textual: **(οὐ μὴ παρέλθωσιν)**, _ou mē parelthōsin_, «de ningún modo pasarán», afirma la permanencia de las palabras, mientras **(γρηγορεῖτε)** ordena obedecerlas sin pretender saber la hora.
 
-## Control editorial de Marcos 13:32 y 13:33-37 #markos_13_32 #markos_13_33-37
+## Control editorial de Marcos 13:32 y 13:33-37 #marcos_13_32 #marcos_13_33-37
 
-La diferencia entre los testigos locales no debe quedar como una nota marginal. En la edición TTH de `#markos_13_32` se lee que nadie sabe el día y la hora, «sino el Padre»; la edición Delitzsch añade **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo». La forma hebrea está escrita sin nikud y no contiene segmentación morfológica. La nota no usa la adición para fabricar una escala de seres ni usa la omisión para borrar la dificultad: registra ambos testigos y deja que el contexto inmediato determine el efecto común, la ignorancia del momento y la orden de vigilar.
+La diferencia entre los testigos locales no debe quedar como una nota marginal. En la edición TTH de `#marcos_13_32` se lee que nadie sabe el día y la hora, «sino el Padre»; la edición Delitzsch añade **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo». La forma hebrea está escrita sin nikud y no contiene segmentación morfológica. La nota no usa la adición para fabricar una escala de seres ni usa la omisión para borrar la dificultad: registra ambos testigos y deja que el contexto inmediato determine el efecto común, la ignorancia del momento y la orden de vigilar.
 
 La secuencia verbal de 13:33-37 confirma ese efecto. **βλέπετε**, _blepete_, «miren o estén atentos», **ἀγρυπνεῖτε**, _agrypneite_, «manténganse despiertos», y **γρηγορεῖτε**, _grēgoreite_, «vigilen», no son sinónimos ornamentales: forman una cadena de atención sostenida antes de la parábola del señor ausente. **οἰκοδεσπότης**, _oikodespotēs_, «dueño de casa», y **δοῦλος**, _doulos_, «siervo», sitúan la responsabilidad en una casa y un encargo concretos. La observación de Eric sobre una palabra estable se prueba así en la conducta solicitada; su desarrollo sobre Abba y Bar Enash permanece como interpretación doctrinal atribuible, no como equivalencia léxica de estas formas.
 
-## Verificación dirigida: templo, abominación y límite histórico (13:14-31) #markos_13_14-31
+## Verificación dirigida: templo, abominación y límite histórico (13:14-31) #marcos_13_14-31
 
-La parte 41 no presenta las dos preguntas de los discípulos como una sola cronología. Eric distingue la destrucción del templo de la recogida del mundo y sostiene que la lectura de las setenta semanas debe mantener el templo, la ciudad y el pueblo dentro del horizonte de Daniel 9. El orden de Marcos permite probar el primer límite: la admiración por las piedras (#markos_13_1-2) precede la pregunta privada (#markos_13_3-4), y la señal de 13:14 llama a huir de Judea antes de describir la venida del Hijo del Hombre y la reunión de los escogidos (13:24-27). La separación entre horizontes es una observación atribuible y una inferencia literaria razonable; no constituye por sí sola una tabla histórica completa.
+La parte 41 no presenta las dos preguntas de los discípulos como una sola cronología. Eric distingue la destrucción del templo de la recogida del mundo y sostiene que la lectura de las setenta semanas debe mantener el templo, la ciudad y el pueblo dentro del horizonte de Daniel 9. El orden de Marcos permite probar el primer límite: la admiración por las piedras (#marcos_13_1-2) precede la pregunta privada (#marcos_13_3-4), y la señal de 13:14 llama a huir de Judea antes de describir la venida del Hijo del Hombre y la reunión de los escogidos (13:24-27). La separación entre horizontes es una observación atribuible y una inferencia literaria razonable; no constituye por sí sola una tabla histórica completa.
 
 Eric relaciona la «abominación desoladora» con la presencia gentil y con Jerusalén rodeada de ejércitos en Lucas 21:20. **(βδέλυγμα)**, _bdelygma_, significa «cosa detestable o profanadora»; su relación con **(שקוץ)**, _shiqquṣ_, «cosa detestable», es aproximada y no demuestra que el griego sea una traducción mecánica del hebreo. El vínculo con Lucas es textual y explícito en el nivel sinóptico: Lucas habla de ejércitos alrededor de Jerusalén, mientras Marcos conserva la señal dentro del discurso. Identificar esos ejércitos específicamente con estandartes romanos, o fechar cada etapa entre 66 y 70, requiere fuentes históricas adicionales y queda como inferencia de la clase.
 
@@ -465,7 +465,7 @@ La relación entre las fuentes y el cierre canónico puede comprobarse sin forza
 
 El cierre enlaza **(λόγοι)**, _logoi_, «palabras, dichos o mensajes», con **(οὐ μὴ παρέλθωσιν)**, _ou mē parelthōsin_, «de ningún modo pasarán», y después con **(γρηγορεῖτε)**, _grēgoreite_, «vigilen». La enseñanza de Eric sobre una palabra inamovible encuentra aquí apoyo textual: la palabra permanece y la comunidad recibe una tarea. Su asociación de esa firmeza con **(אמונה)**, _emunah_, «fidelidad o firmeza», es aproximada y pedagógica, no una retroversión del griego. La consecuencia canónica es obediencia perseverante, no un nuevo método para calcular la venida.
 
-## Desarrollo dirigido: la ignorancia compartida y el encargo recibido (13:32-37) #markos_13_32-37
+## Desarrollo dirigido: la ignorancia compartida y el encargo recibido (13:32-37) #marcos_13_32-37
 
 El cierre no contrapone una élite que conoce el calendario con discípulos que deben descubrirlo. En la formulación de Delitzsch, **οὐδεὶς οἶδεν**, _oudeis oiden_, «nadie sabe», incluye a ángeles y al Hijo, y deja al Padre como excepción; TTH omite la frase «ni el Hijo», pero conserva «nadie sabe... sino el Padre». La diferencia textual es real en el corpus local y debe quedar visible. Lo que ambas lecturas comparten es el efecto narrativo: **οὐκ οἴδατε**, _ouk oidate_, «no saben», se dirige después a los discípulos, de modo que ninguna lectura les concede acceso al momento.
 
@@ -473,17 +473,17 @@ La parábola explica qué debe hacerse con esa falta de información. El dueño 
 
 La llegada inesperada refuerza el límite. **ἔλθῃ**, _elthē_, «llegue», y **εὕρῃ**, _heurē_, «encuentre», forman la condición de la parábola: el señor puede llegar al anochecer, a medianoche, al canto del gallo o por la mañana, y puede hallar a los siervos dormidos. **γρηγορεῖτε**, _grēgoreite_, «vigilen», vuelve como mandato para todos, no como contraseña de un intérprete. La conexión con **(שמר)**, _shamar_, «guardar o vigilar», es semítica y pedagógica; el contexto griego gobierna la equivalencia. La palabra permanente de 13:31 produce así servicio perseverante, no una licencia para reclamar conocimiento reservado.
 
-## Reparación dirigida: las setenta semanas y el límite de la cronología (13:1–37) #markos_13_1-37
+## Reparación dirigida: las setenta semanas y el límite de la cronología (13:1–37) #marcos_13_1-37
 
 La parte 41 retoma Marcos 13 con una distinción que debe quedar visible: entre 00:00:16 y 00:00:37 Eric separa las dos preguntas de los discípulos. Una nace del anuncio de la destrucción del templo; la otra se refiere a la recogida final. La forma narrativa de Marcos confirma que la admiración por las piedras, la pregunta privada y las señales forman una progresión, aunque el pasaje no ofrece una tabla que resuelva cada fecha de Daniel 9. **(ἐπερώτων)**, _eperōtōn_, «preguntaban», describe la consulta plural; no convierte los dos horizontes en un solo acontecimiento.
 
-Desde aproximadamente 00:01:09–00:01:27, Eric afirma que las setenta semanas ya se cumplieron con la destrucción del segundo templo y rechaza una semana suspendida para un anticristo futuro. Esa es una tesis histórica atribuible, no un dato que Marcos demuestre por sí solo. El evangelio sí pone el templo, la desolación, la huida y la tribulación dentro del discurso (#markos_13_1-4, #markos_13_14-23); Lucas 21:20 añade la imagen de Jerusalén rodeada de ejércitos. La nota conserva el argumento de Eric, pero no presenta la cronología como conclusión obligatoria ni usa la mención de comentarios rabínicos como evidencia independiente sin edición y pasaje localizados.
+Desde aproximadamente 00:01:09–00:01:27, Eric afirma que las setenta semanas ya se cumplieron con la destrucción del segundo templo y rechaza una semana suspendida para un anticristo futuro. Esa es una tesis histórica atribuible, no un dato que Marcos demuestre por sí solo. El evangelio sí pone el templo, la desolación, la huida y la tribulación dentro del discurso (#marcos_13_1-4, #marcos_13_14-23); Lucas 21:20 añade la imagen de Jerusalén rodeada de ejércitos. La nota conserva el argumento de Eric, pero no presenta la cronología como conclusión obligatoria ni usa la mención de comentarios rabínicos como evidencia independiente sin edición y pasaje localizados.
 
 La lectura hebrea de Daniel comienza en la clase alrededor de 00:02:31. **(שבעים)**, _shavuim_, «sietes» o «semanas», delimita el período anunciado sobre el pueblo y la ciudad santa; **(נחתך)**, _nechtakh_, puede comunicarse como «cortado», «delimitado» o «decretado» según construcción; y **(קדש קדשים)**, _qodesh qodashim_, significa «santísimo», un ámbito o cosa consagrada. Eric recalca además que **(משיח)**, _mashiach_, es «ungido» y **(נגיד)**, _nagid_, puede ser líder o representante, no necesariamente «Mesías príncipe» como una identificación automática. Estas formas hacen legítimo revisar una traducción, pero ninguna palabra aislada fija el año final ni excluye todas las lecturas mesiánicas.
 
 El cierre de Marcos gobierna la aplicación. **(οὐκ οἴδατε)**, _ouk oidate_, «no saben», limita el acceso de la comunidad al momento; **(ἀγρυπνεῖτε)**, _agrypneite_, «manténganse despiertos», y **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», son imperativos presentes de práctica sostenida. La parte 41 puede usar el cumplimiento histórico propuesto para desafiar una cronología futurista, pero el mandato comprobable sigue siendo velar. La diferencia entre TTH y Delitzsch sobre «ni el Hijo» permanece explícita: no se resuelve una cuestión textual borrando uno de los testigos.
 
-## Reparación dirigida: de la higuera a la casa encargada (13:28-37) #markos_13_28-37
+## Reparación dirigida: de la higuera a la casa encargada (13:28-37) #marcos_13_28-37
 
 La higuera no convierte la vigilancia en cálculo secreto. **(ἀπὸ τῆς συκῆς)**, _apo tēs sykēs_, «desde la higuera», introduce una comparación observable: cuando la rama se hace tierna y brotan las hojas, se reconoce que el verano está cerca. **(γινώσκετε)**, _ginōskete_, «reconozcan o sepan», y **(ἐγγύς)**, _engys_, «cerca», permiten discernir una proximidad sin entregar una fecha. Eric insiste en que las señales deben mover a la comunidad a la atención y no a una tabla cronológica. El texto sostiene la primera parte por el imperativo de reconocer, pero limita la segunda mediante la negación repetida de que los discípulos sepan el día y la hora.
 
@@ -493,7 +493,7 @@ La parábola de la casa explica cómo se vive bajo esa limitación. **(ὡς ἄ
 
 Los cuatro momentos —tarde, medianoche, canto del gallo y mañana— hacen visible la incertidumbre, no un horario codificado. **(ἔλθῃ)**, _elthē_, «llegue», y **(εὕρῃ)**, _heurē_, «encuentre», forman la condición que puede ocurrir en cualquiera de esas vigilias. El sueño funciona como imagen de negligencia, no como permiso para especular sobre el minuto exacto. La exhortación final, **(γρηγορεῖτε)**, _grēgoreite_, «vigilen», pasa de los cuatro siervos a «todos». La observación de Eric sobre la palabra firme queda, pues, probada por una práctica común: reconocer las señales, trabajar en el encargo y permanecer despiertos sin reclamar conocimiento reservado.
 
-## Control del encargo: la vigilancia tiene una obra concreta (13:33-37) #markos_13_33-37
+## Control del encargo: la vigilancia tiene una obra concreta (13:33-37) #marcos_13_33-37
 
 La parte 41 no deja la vigilancia como una emoción religiosa indefinida. En la parábola, el dueño de casa deja **ἐξουσία**, _exousia_, «autoridad, responsabilidad o margen de acción», a sus siervos y asigna a cada uno su **ἔργον**, _ergon_, «obra o tarea». El texto local sostiene así una observación concreta de Eric: no saber la hora no suspende el servicio. La autoridad de los siervos es recibida y delimitada por el encargo; no es conocimiento secreto ni dominio sobre los demás.
 
@@ -501,7 +501,7 @@ El portero recibe de manera particular el mandato **γρηγορεῖν**, _grē
 
 Por eso la reconstrucción de Eric sobre Daniel 9 debe quedar subordinada a la escena final. Puede discutir el horizonte histórico del templo y las setenta semanas, pero Marcos termina preguntando si los siervos estarán cumpliendo su obra cuando llegue el señor de la casa. **οὐκ οἴδατε**, _ouk oidate_, «no saben», limita la información; **ἐντολή**, _entolē_, «mandato o encargo», y **ἔργον**, _ergon_, «obra», definen la respuesta. La palabra permanece, la hora queda velada y la fidelidad se prueba en una tarea visible.
 
-## Control del encargo: vigilar sin fabricar una hora (13:32-37) #markos_13_32-37
+## Control del encargo: vigilar sin fabricar una hora (13:32-37) #marcos_13_32-37
 
 El cierre del discurso convierte la falta de información en una tarea concreta. **(οὐκ οἴδατε)**, _ouk oidate_, «no saben», niega a los discípulos el conocimiento de la **(ἡμέρα)**, _hēmera_, «día», y de la **(ὥρα)**, _hōra_, «hora o momento señalado»; no les entrega un método alternativo para calcularla. La diferencia textual merece conservarse: TTH omite «ni el Hijo» en 13:32, mientras Delitzsch traduce **גם־לא הבן**, _gam-lo haben_, «tampoco el Hijo». Ningún testigo local permite borrar esa diferencia para cerrar la tensión doctrinal por decreto.
 
@@ -509,7 +509,7 @@ La respuesta inmediata es **(βλέπετε)**, _blepete_, «miren o estén aten
 
 La parábola del hombre que se ausenta fija además responsabilidades diferenciadas: cada siervo recibe su tarea y el portero debe velar. **(ἔργον)**, _ergon_, «obra o tarea», y **(θυρωρός)**, _thyrōros_, «portero», convierten la espera en servicio responsable. Por eso «velad» no significa abandonar el trabajo, aislarse ni declarar cumplida toda profecía a partir de una cronología privada. Marcos termina con una exhortación pública —«lo que a vosotros digo, a todos lo digo: velad»— que conserva el horizonte comunitario y hace que la lectura histórica de las setenta semanas permanezca subordinada a una obediencia verificable.
 
-## Verificación final: una palabra firme y una obra encomendada (13:28-37) #markos_13_28-37
+## Verificación final: una palabra firme y una obra encomendada (13:28-37) #marcos_13_28-37
 
 La higuera ofrece discernimiento limitado, no acceso al calendario. **γινώσκετε**, _ginōskete_, «reconozcan o sepan», y **ἐγγύς**, _engys_, «cerca», permiten identificar una proximidad cuando aparecen las hojas, pero el contexto inmediato conserva **οὐκ οἴδατε**, _ouk oidate_, «no saben», respecto del día y la hora. Eric puede usar la imagen para llamar a la atención sobre las señales; Marcos impide convertir esa atención en una fecha secreta. La relación pedagógica con **(בין)**, _bin_, «entender o discernir», es aproximada y no sustituye la sintaxis griega.
 

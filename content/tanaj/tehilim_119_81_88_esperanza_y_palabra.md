@@ -8,8 +8,8 @@ tags:
   - esperanza
   - eric-youtube
 references:
-  - "#tehilim_119_81-84"
-  - "#tehilim_119_85-88"
+  - "#salmos_119_81-84"
+  - "#salmos_119_85-88"
 sources:
   - "https://www.youtube.com/watch?v=yBt-N44fmMA"
   - "docs/scriptures/oe/json/psalms/119.json"
@@ -30,10 +30,10 @@ Esta nota desarrolla la clase pública de Eric sobre Tehilim 119:81-88 y la cont
 
 | Unidad             | Texto local (OE, hebreo sin nikud)                                                                                                          | Función en el argumento                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| #tehilim_119_81-84 | **כלתה לתשועתך נפשי לדברך יחלתי / כלו עיני לאמרתך לאמר מתי תנחמני / כי הייתי כנאד בקיטור חקיך לא שכחתי / כמה ימי עבדך מתי תעשה ברדפי משפט** | Agotamiento, espera de la palabra, cuerpo reseco y pregunta por el consuelo y el juicio.                        |
-| #tehilim_119_85-88 | **כרו לי זדים שיחות אשר לא כתורתך / כל מצותיך אמונה שקר רדפוני עזרני / כמעט כלוני בארץ ואני לא עזבתי פקודיך / כחסדך חיני ואשמרה עדות פיך**  | Los soberbios persiguen con trampas; la fidelidad de los mandamientos sostiene al siervo que pide ayuda y vida. |
+| #salmos_119_81-84 | **כלתה לתשועתך נפשי לדברך יחלתי / כלו עיני לאמרתך לאמר מתי תנחמני / כי הייתי כנאד בקיטור חקיך לא שכחתי / כמה ימי עבדך מתי תעשה ברדפי משפט** | Agotamiento, espera de la palabra, cuerpo reseco y pregunta por el consuelo y el juicio.                        |
+| #salmos_119_85-88 | **כרו לי זדים שיחות אשר לא כתורתך / כל מצותיך אמונה שקר רדפוני עזרני / כמעט כלוני בארץ ואני לא עזבתי פקודיך / כחסדך חיני ואשמרה עדות פיך**  | Los soberbios persiguen con trampas; la fidelidad de los mandamientos sostiene al siervo que pide ayuda y vida. |
 
-## 119:81-84: la garganta que espera salvación #tehilim_119_81-84
+## 119:81-84: la garganta que espera salvación #salmos_119_81-84
 
 La estrofa empieza: **כלתה לתשועתך נפשי**, “mi alma se consume por tu salvación”. Eric observa que la expresión no debe leerse como una espera fría. La relaciona con **נפש** (_nefesh_) como el ser viviente y con la garganta, el lugar corporal desde donde se clama; así, el cansancio no es una idea abstracta, sino la experiencia de una vida que necesita auxilio. El sentido normal de **נפש** es vida, persona, ser o alma según el contexto. La conexión específica con “garganta” es una ampliación semítica y pedagógica, no una equivalencia obligatoria en cada aparición.
 
@@ -45,7 +45,7 @@ El v. 83 compara al siervo con un odre en el humo: **כי הייתי כנאד ב
 
 El v. 84 pregunta cuántos son los días del siervo y cuándo יהוה hará juicio contra sus perseguidores. Eric conecta el límite de los días con el cansancio de esperar una victoria que ya se ha anunciado pero todavía no se percibe plenamente. Esa aplicación distingue promesa y manifestación, una lectura teológica coherente con su clase. El salmo, en su propio contexto, no especifica una teoría de “victoria ya cumplida y aún no manifestada”; sí sostiene la espera de juicio y auxilio sin ocultar la pregunta “¿cuándo?”.
 
-## 119:85-88: trampas, fidelidad y vida #tehilim_119_85-88
+## 119:85-88: trampas, fidelidad y vida #salmos_119_85-88
 
 Los soberbios cavan fosas para el orante, pero esas acciones no están conforme a la Torah. Eric conserva el contraste entre la astucia de quienes persiguen y el límite de la instrucción divina: una trampa puede ser eficaz como maniobra, pero no por eso es justa. **זדים** (_zedim_) son insolentes o soberbios; **שיחות** puede referirse a hoyos o fosas. La imagen concreta impide reducir la persecución a una incomodidad interior.
 

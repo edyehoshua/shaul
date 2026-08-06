@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_28_1"
-  - "#tehilim_28_9"
+  - "#salmos_28_1"
+  - "#salmos_28_9"
 sources:
   - "https://www.youtube.com/watch?v=jJU3U7-b6IY"
   - "docs/scriptures/oe/json/psalms/28.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 28. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                                       | Observación de lectura                                               |
 | ------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_28_1 | לדוד אליך יהוה אקרא צורי אל תחרש ממני פן תחשה ממני ונמשלתי עם יורדי בור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_28_9 | הושיעה את עמך וברך את נחלתך ורעם ונשאם עד העולם                      | El verso final permite observar el cierre de la composición.         |
+| #salmos_28_1 | לדוד אליך יהוה אקרא צורי אל תחרש ממני פן תחשה ממני ונמשלתי עם יורדי בור | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_28_9 | הושיעה את עמך וברך את נחלתך ורעם ונשאם עד העולם                      | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -39,19 +39,19 @@ El encabezado y la poesía de Tehilim 28 invitan a atender a la voz que habla, a
 
 La clase titulada en los créditos trabaja este capítulo. Su utilidad aquí es orientar preguntas de estudio; la nota no atribuye al texto bíblico explicaciones que dependan únicamente de una transcripción automática.
 
-## Tehilim 28:1-2: clamor dirigido a la Roca y al santuario #tehilim_28_1-2
+## Tehilim 28:1-2: clamor dirigido a la Roca y al santuario #salmos_28_1-2
 
 La clase pública de Eric se anuncia como «Tehilim/Himnos/Salmo Cap 28»; su aporte verificable en esta nota es conducir la lectura del salmo como himno y oración, no como una colección de frases sueltas. El texto comienza con una dirección precisa: «אליך יהוה אקרא צורי», «a ti, יהוה, clamo, mi roca». La petición no es una meditación impersonal: pide que יהוה no calle, porque el silencio dejaría al orante contado con «יורדי בור», los que descienden a la fosa.
 
 El v. 2 concreta la postura: «שמע קול תחנוני», «oye la voz de mis súplicas», mientras las manos se levantan «אל דביר קדשך», hacia el santuario de santidad. La secuencia clamar–ser oído–levantar las manos hace visible la oración corporal. **(תחנון)**, _tajanun_, tiene el sentido normal de súplica o petición de favor; aquí su fuerza es la voz dependiente que espera respuesta, no una fórmula mágica. «Súplica» es una relación directa de sentido, mientras que convertir el gesto de las manos en una regla litúrgica universal sería una aplicación pedagógica.
 
-## Tehilim 28:3-5: separación moral y justicia #tehilim_28_3-5
+## Tehilim 28:3-5: separación moral y justicia #salmos_28_3-5
 
 El orante pasa del ruego a una petición de no ser arrastrado con los malvados: «אל תמשכני עם רשעים». El salmo identifica su peligro por una contradicción: hablan de paz con su prójimo, pero hay maldad en su corazón. La observación de la clase sobre lectura y alabanza debe conservar este giro: la oración no busca solo alivio emocional, sino discernir entre palabras pacíficas y obras perversas.
 
 Los vv. 4-5 piden retribución «כפעלם», conforme a su obra, porque no comprenden las obras de יהוה. El texto permite nombrar juicio, pero no permite al lector adjudicarse toda ejecución del juicio. **(רשע)**, _rasha_, significa malvado o culpable; su fuerza aquí se define por la conducta descrita, no por una etiqueta aplicada a cualquier adversario. **(פעל)**, _poal_, significa obra o acción; la repetición entre obrar y recibir según las obras sostiene el argumento poético. La correspondencia con «retribución» es aproximada y contextual: el salmo ora ante יהוה y no convierte la venganza personal en mandato comunitario.
 
-## Tehilim 28:6-9: respuesta, confianza y bendición del pueblo #tehilim_28_6-9
+## Tehilim 28:6-9: respuesta, confianza y bendición del pueblo #salmos_28_6-9
 
 En el v. 6 cambia el tono: «ברוך יהוה כי שמע קול תחנוני», «bendito יהוה, porque oyó la voz de mis súplicas». La respuesta recibida no borra el conflicto anterior; lo reordena en confianza. El v. 7 explica esa confianza con tres imágenes: יהוה es fuerza, escudo y ayuda; el corazón confía, recibe ayuda y se alegra. El verbo de alabanza nace de una experiencia narrada por el propio salmista, no de una obligación de fingir que nunca hubo angustia.
 

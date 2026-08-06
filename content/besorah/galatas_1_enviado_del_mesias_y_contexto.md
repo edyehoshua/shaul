@@ -11,15 +11,15 @@ tags:
   - congregacion
   - besorah
 references:
-  - "#galatians_1_1"
-  - "#galatians_1_2"
-  - "#galatians_1_3"
-  - "#galatians_1_4"
-  - "#galatians_1_5"
-  - "#maasei_hashlijim_13_1"
-  - "#maasei_hashlijim_13_4"
-  - "#maasei_hashlijim_13_13"
-  - "#maasei_hashlijim_13_42"
+  - "#galatas_1_1"
+  - "#galatas_1_2"
+  - "#galatas_1_3"
+  - "#galatas_1_4"
+  - "#galatas_1_5"
+  - "#hechos_13_1"
+  - "#hechos_13_4"
+  - "#hechos_13_13"
+  - "#hechos_13_42"
 sources:
   - "https://www.youtube.com/watch?v=U8378WvU6Nk"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -40,10 +40,10 @@ Esta nota organiza la clase pública «LETTER TO THE GALATIANS | SENT by the MES
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatians_1_1 | **פולוס השליח לא מבני אדם ולא על־ידי בן־אדם כי אם־על־ידי ישוע המשיח ואלהים האב אשר העירו מן־המתים׃** | La autoridad del remitente no procede de una persona humana, sino del Mesías y de Elohim que lo levantó de los muertos. |
-| #galatians_1_2 | **וכל־האחים אשר עמדי אל־הקהלות אשר בגלטיא׃** | La carta se dirige a las congregaciones de Galacia, en plural. |
-| #galatians_1_3 | **חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח׃** | El saludo reúne bondad y shalom procedentes de Elohim y de nuestro Adón Yehoshua el Mesías. |
-| #galatians_1_4-5 | **אשר־נתן את־נפשו על־חטאתינו לחלצנו מן־העולם הרע הזה כרצון אלהינו אבינו׃ אשר־לו הכבוד לעולמי עולמים אמן׃** | El Mesías se entrega por los pecados para librar del mundo malo conforme al propósito de Elohim; la doxología cierra la apertura. |
+| #galatas_1_1 | **פולוס השליח לא מבני אדם ולא על־ידי בן־אדם כי אם־על־ידי ישוע המשיח ואלהים האב אשר העירו מן־המתים׃** | La autoridad del remitente no procede de una persona humana, sino del Mesías y de Elohim que lo levantó de los muertos. |
+| #galatas_1_2 | **וכל־האחים אשר עמדי אל־הקהלות אשר בגלטיא׃** | La carta se dirige a las congregaciones de Galacia, en plural. |
+| #galatas_1_3 | **חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח׃** | El saludo reúne bondad y shalom procedentes de Elohim y de nuestro Adón Yehoshua el Mesías. |
+| #galatas_1_4-5 | **אשר־נתן את־נפשו על־חטאתינו לחלצנו מן־העולם הרע הזה כרצון אלהינו אבינו׃ אשר־לו הכבוד לעולמי עולמים אמן׃** | El Mesías se entrega por los pecados para librar del mundo malo conforme al propósito de Elohim; la doxología cierra la apertura. |
 
 ## Galacia: una región y varias congregaciones
 
@@ -77,10 +77,10 @@ El lenguaje de «librarnos de este mundo malo» tampoco autoriza a despreciar la
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_1_1-2 | Shaul es enviado por Yehoshua y la carta va a congregaciones de una región, no a una sola ciudad. | Apoyo textual; se añade la cautela sobre el uso de «apóstol» y la pluralidad de comunidades. |
-| #maasei_hashlijim_13_1-4 | Antioquía aparece como comunidad de ayuno, tefilá y envío por el Ruaj de Bernabé y Shaul. | Se conserva como conexión atribuida; los detalles de Hechos requieren cotejo local adicional. |
-| #maasei_hashlijim_13_13-16 | El primer viaje avanza por Chipre, Panfilia y Antioquía de Pisidia antes de la predicación en Galacia. | Contexto histórico-literario cualificado; no se presenta la transcripción como cita. |
-| #galatians_1_3-5 | La entrega del Mesías y la liberación del mundo malo son el fundamento de la carta. | Apoyo directo en el texto local; se evita reducir «mundo» a una huida de la creación. |
+| #galatas_1_1-2 | Shaul es enviado por Yehoshua y la carta va a congregaciones de una región, no a una sola ciudad. | Apoyo textual; se añade la cautela sobre el uso de «apóstol» y la pluralidad de comunidades. |
+| #hechos_13_1-4 | Antioquía aparece como comunidad de ayuno, tefilá y envío por el Ruaj de Bernabé y Shaul. | Se conserva como conexión atribuida; los detalles de Hechos requieren cotejo local adicional. |
+| #hechos_13_13-16 | El primer viaje avanza por Chipre, Panfilia y Antioquía de Pisidia antes de la predicación en Galacia. | Contexto histórico-literario cualificado; no se presenta la transcripción como cita. |
+| #galatas_1_3-5 | La entrega del Mesías y la liberación del mundo malo son el fundamento de la carta. | Apoyo directo en el texto local; se evita reducir «mundo» a una huida de la creación. |
 | Conflicto sobre circuncisión | La clase anticipa la presión de exigir circuncisión para salvación. | Se registra como contexto de la exposición; Gálatas 1:1-5 todavía no desarrolla todos sus detalles. |
 
 ## Pendiente de verificar

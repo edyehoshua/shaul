@@ -23,7 +23,7 @@ references:
   - "#romanos_3_20"
   - "#romanos_3_23"
   - "#romanos_8_1-4"
-  - "#bereshit_3_1-24"
+  - "#genesis_3_1-24"
 sources:
   - "https://www.youtube.com/watch?v=WQq_loecKIM"
   - "https://www.youtube.com/watch?v=ePW-rAPrIAo"

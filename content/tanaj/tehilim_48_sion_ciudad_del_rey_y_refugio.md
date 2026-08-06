@@ -10,12 +10,12 @@ tags:
   - refugio
   - alabanza
 references:
-  - "#tehilim_48_1-3"
-  - "#tehilim_48_4-8"
-  - "#tehilim_48_9-11"
-  - "#tehilim_48_12-15"
-  - "#bamidbar_26_11"
-  - "#ivrim_12_22-24"
+  - "#salmos_48_1-3"
+  - "#salmos_48_4-8"
+  - "#salmos_48_9-11"
+  - "#salmos_48_12-15"
+  - "#numeros_26_11"
+  - "#hebreos_12_22-24"
 sources:
   - "https://www.youtube.com/watch?v=kzhA3R7dluM"
   - "docs/scriptures/oe/json/psalms/48.json"
@@ -35,55 +35,55 @@ Esta nota organiza la clase del hermano Eric sobre Tehilim 48. La exposición de
 
 | Referencia        | Texto local (hebreo sin nikud)                                                                                         | Observación                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| #tehilim_48_1-3   | שיר מזמור לבני קרח; גדול יהוה ומהלל מאד בעיר אלהינו הר קדשו; יפה נוף משוש כל הארץ הר ציון ירכתי צפון קרית מלך רב | El cántico atribuye la alabanza a יהוה y nombra Sión como ciudad del gran Rey.                       |
-| #tehilim_48_4-8   | אלהים בארמנותיה נודע למשגב; כי הנה המלכים נועדו עברו יחדו; ברוח קדים תשבר אניות תרשיש                             | Elohim es conocido como refugio; los reyes se turban y la imagen de las naves comunica derrota.      |
-| #tehilim_48_9-11  | דמינו אלהים חסדך בקרב היכלך; כשמך אלהים כן תהלתך על קצוי ארץ צדק מלאה ימינך                                     | La meditación en el templo se centra en el hesed, el nombre, la alabanza y la justicia de יהוה.      |
-| #tehilim_48_12-15 | סבו ציון והקיפוה ספרו מגדליה; כי זה אלהים אלהינו עולם ועד הוא ינהגנו על מות                                      | Recorrer y contar las torres sirve para anunciar a otra generación que este Elohim guía a su pueblo. |
+| #salmos_48_1-3   | שיר מזמור לבני קרח; גדול יהוה ומהלל מאד בעיר אלהינו הר קדשו; יפה נוף משוש כל הארץ הר ציון ירכתי צפון קרית מלך רב | El cántico atribuye la alabanza a יהוה y nombra Sión como ciudad del gran Rey.                       |
+| #salmos_48_4-8   | אלהים בארמנותיה נודע למשגב; כי הנה המלכים נועדו עברו יחדו; ברוח קדים תשבר אניות תרשיש                             | Elohim es conocido como refugio; los reyes se turban y la imagen de las naves comunica derrota.      |
+| #salmos_48_9-11  | דמינו אלהים חסדך בקרב היכלך; כשמך אלהים כן תהלתך על קצוי ארץ צדק מלאה ימינך                                     | La meditación en el templo se centra en el hesed, el nombre, la alabanza y la justicia de יהוה.      |
+| #salmos_48_12-15 | סבו ציון והקיפוה ספרו מגדליה; כי זה אלהים אלהינו עולם ועד הוא ינהגנו על מות                                      | Recorrer y contar las torres sirve para anunciar a otra generación que este Elohim guía a su pueblo. |
 
 ## Los hijos de Coré y el canto
 
-El encabezado identifica el salmo como `שיר מזמור` para los hijos de Coré. La clase recuerda que los hijos de Coré no murieron con su padre; el dato aparece en #bamidbar_26_11. El salmo los presenta como voz litúrgica, pero su fecha de composición y la relación histórica exacta entre el encabezado, David, Sión y el templo requieren un tratamiento histórico separado.
+El encabezado identifica el salmo como `שיר מזמור` para los hijos de Coré. La clase recuerda que los hijos de Coré no murieron con su padre; el dato aparece en #numeros_26_11. El salmo los presenta como voz litúrgica, pero su fecha de composición y la relación histórica exacta entre el encabezado, David, Sión y el templo requieren un tratamiento histórico separado.
 
-La alabanza comienza con יהוה, no con la ciudad: «Grande es יהוה y muy digno de alabanza» (#tehilim_48_2). Por eso Sión no desplaza al Creador ni se vuelve garantía automática. Su hermosura y su gozo derivan de que es la ciudad de nuestro Elohim y el monte de su santidad.
+La alabanza comienza con יהוה, no con la ciudad: «Grande es יהוה y muy digno de alabanza» (#salmos_48_2). Por eso Sión no desplaza al Creador ni se vuelve garantía automática. Su hermosura y su gozo derivan de que es la ciudad de nuestro Elohim y el monte de su santidad.
 
 ## Sión y el refugio de Elohim
 
 La clase presta atención a Sión, a la ciudad del gran Rey y a las fortalezas del salmo. El versículo 4 dice que Elohim se da a conocer en sus palacios `למשגב`, como refugio elevado. La imagen no exhorta a confiar en construcciones humanas: el sujeto que hace segura a la ciudad es Elohim.
 
-El expositor vincula este lenguaje con una Sión celestial y con #ivrim_12_22-24. Esa conexión puede leerse como recepción canónica: Hebreos sí habla de acercarse al monte Sión y a la Jerusalén celestial. Sin embargo, no debe borrar la voz inmediata de Tehilim 48, que celebra a יהוה en medio de su ciudad y de su templo.
+El expositor vincula este lenguaje con una Sión celestial y con #hebreos_12_22-24. Esa conexión puede leerse como recepción canónica: Hebreos sí habla de acercarse al monte Sión y a la Jerusalén celestial. Sin embargo, no debe borrar la voz inmediata de Tehilim 48, que celebra a יהוה en medio de su ciudad y de su templo.
 
 ## Reyes, temor y juicio
 
 Los vv. 5–8 describen a reyes reunidos, su sobresalto y la ruptura de las naves de Tarshish por el viento oriental. La clase los relaciona con una confrontación final de las naciones. Es una lectura escatológica posible, pero el salmo no identifica esos reyes ni fija por sí solo el acontecimiento histórico o futuro al que corresponderían.
 
-Lo que el poema sí afirma es claro: la ciudad de יהוה de los ejércitos será establecida para siempre por Elohim (#tehilim_48_9), y la respuesta apropiada no es la especulación ni la violencia, sino la confianza en su justicia y la alabanza de su nombre (#tehilim_48_10-12).
+Lo que el poema sí afirma es claro: la ciudad de יהוה de los ejércitos será establecida para siempre por Elohim (#salmos_48_9), y la respuesta apropiada no es la especulación ni la violencia, sino la confianza en su justicia y la alabanza de su nombre (#salmos_48_10-12).
 
 ## Hesed, justicia y memoria para otra generación
 
-En el corazón del salmo la comunidad medita el `חסד` de Elohim dentro de su templo (#tehilim_48_10). La alabanza alcanza los confines de la tierra y su diestra está llena de justicia (#tehilim_48_11). Sión y las hijas de Judá se alegran a causa de sus juicios, no por una superioridad propia.
+En el corazón del salmo la comunidad medita el `חסד` de Elohim dentro de su templo (#salmos_48_10). La alabanza alcanza los confines de la tierra y su diestra está llena de justicia (#salmos_48_11). Sión y las hijas de Judá se alegran a causa de sus juicios, no por una superioridad propia.
 
-El cierre ordena rodear Sión y contar sus torres para que se lo narre a la generación venidera (#tehilim_48_13-15). La lección de las torres es pedagógica: la siguiente generación debe conocer que «este Elohim» es nuestro Elohim por siempre y que él guía. La seguridad del pueblo está en el Dios que permanece, no en una ciudad idealizada.
+El cierre ordena rodear Sión y contar sus torres para que se lo narre a la generación venidera (#salmos_48_13-15). La lección de las torres es pedagógica: la siguiente generación debe conocer que «este Elohim» es nuestro Elohim por siempre y que él guía. La seguridad del pueblo está en el Dios que permanece, no en una ciudad idealizada.
 
 ## Conexiones principales
 
-- #bamidbar_26_11: los hijos de Coré no murieron; es el ancla bíblica para la observación introductoria de la clase.
-- #ivrim_12_22-24: Sión y la Jerusalén celestial ofrecen una recepción canónica para la lectura de la clase; no sustituyen el contexto literario de Tehilim 48.
+- #numeros_26_11: los hijos de Coré no murieron; es el ancla bíblica para la observación introductoria de la clase.
+- #hebreos_12_22-24: Sión y la Jerusalén celestial ofrecen una recepción canónica para la lectura de la clase; no sustituyen el contexto literario de Tehilim 48.
 - [[tehilim_21_rey_vida_y_poder_de_יהוה|Tehilim 21: el Rey, la vida y el poder de יהוה]]: ambos salmos devuelven la gloria y la seguridad del rey o de la ciudad a la fuerza de יהוה.
 
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual | Observación concreta de la clase | Tratamiento frente al texto local |
 | --- | --- | --- |
-| #tehilim_48_1-3 | Eric presenta Sión como la ciudad del gran Rey y relaciona su hermosura con la presencia de Elohim, no con una grandeza política autónoma. | El salmo apoya que la alabanza comienza en יהוה y que Sión recibe su dignidad de él; la extensión a una Sión celestial queda como recepción canónica cualificada. |
-| #tehilim_48_4-8 | La clase lee los palacios, los reyes reunidos y las naves quebradas como una escena de protección y derrota de las naciones que se levantan contra la ciudad. | `למשגב`, *lemisgav*, significa «como refugio / plaza fuerte»; su fuerza contextual identifica a Elohim como seguridad. La identificación concreta de los reyes con un episodio escatológico es una inferencia pendiente. |
-| #tehilim_48_9-11 | Eric detiene la lectura en el hesed dentro del templo y en la diestra llena de justicia: la ciudad permanece por el carácter del Rey, no por sus murallas. | **חסד**, *hesed*, tiene el sentido normal de bondad leal o amor firme; aquí su fuerza es la fidelidad celebrada en el culto. La correspondencia entre hesed y «misericordia mesiánica» es pedagógica, no una traducción exclusiva. |
-| #tehilim_48_12-15 | El recorrido de las torres se presenta como una inspección que debe convertirse en memoria para los hijos y en testimonio de que este Elohim guía para siempre. | El texto ordena rodear Sión, contar sus torres y anunciar a la generación venidera; **ינהגנו**, *yinahagenu*, significa «nos guiará» y sostiene exactamente esa conclusión de conducción divina. |
+| #salmos_48_1-3 | Eric presenta Sión como la ciudad del gran Rey y relaciona su hermosura con la presencia de Elohim, no con una grandeza política autónoma. | El salmo apoya que la alabanza comienza en יהוה y que Sión recibe su dignidad de él; la extensión a una Sión celestial queda como recepción canónica cualificada. |
+| #salmos_48_4-8 | La clase lee los palacios, los reyes reunidos y las naves quebradas como una escena de protección y derrota de las naciones que se levantan contra la ciudad. | `למשגב`, *lemisgav*, significa «como refugio / plaza fuerte»; su fuerza contextual identifica a Elohim como seguridad. La identificación concreta de los reyes con un episodio escatológico es una inferencia pendiente. |
+| #salmos_48_9-11 | Eric detiene la lectura en el hesed dentro del templo y en la diestra llena de justicia: la ciudad permanece por el carácter del Rey, no por sus murallas. | **חסד**, *hesed*, tiene el sentido normal de bondad leal o amor firme; aquí su fuerza es la fidelidad celebrada en el culto. La correspondencia entre hesed y «misericordia mesiánica» es pedagógica, no una traducción exclusiva. |
+| #salmos_48_12-15 | El recorrido de las torres se presenta como una inspección que debe convertirse en memoria para los hijos y en testimonio de que este Elohim guía para siempre. | El texto ordena rodear Sión, contar sus torres y anunciar a la generación venidera; **ינהגנו**, *yinahagenu*, significa «nos guiará» y sostiene exactamente esa conclusión de conducción divina. |
 
 ## Pendiente de verificar
 
 - [ ] Cotejar la cronología propuesta en la clase sobre los hijos de Coré, David, la toma de Sión y la construcción del templo.
 - [ ] Verificar con fuentes trazables la explicación geográfica detallada sobre la Ciudad de David, el monte Sión y las murallas de la Jerusalén actual.
-- [ ] Examinar separadamente la identificación de los reyes de #tehilim_48_5 con Gog y Magog; el salmo no ofrece esos nombres.
+- [ ] Examinar separadamente la identificación de los reyes de #salmos_48_5 con Gog y Magog; el salmo no ofrece esos nombres.
 - [ ] Cotejar las explicaciones léxicas de la clase sobre `ציון`, `משגב` y las torres antes de tratarlas como definiciones exhaustivas.
 
 ## Conclusión

@@ -9,11 +9,11 @@ tags:
   - reshit
   - imagen_de_elohim
 references:
-  - "#bereshit_1_1"
-  - "#bereshit_1_2"
-  - "#bereshit_1_3-5"
-  - "#bereshit_1_26-28"
-  - "#bereshit_1_29-31"
+  - "#genesis_1_1"
+  - "#genesis_1_2"
+  - "#genesis_1_3-5"
+  - "#genesis_1_26-28"
+  - "#genesis_1_29-31"
 sources:
   - "docs/scriptures/tth/json/bereshit.json"
   - "docs/scriptures/oe/json/genesis/1.json"
@@ -35,13 +35,13 @@ Esta nota sigue Bereshit 1:1-31 en orden textual. El TTH local traduce 1:1: «Co
 
 | Referencia        | Texto local                                                                                                     | Función en la lectura                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #bereshit_1_1     | **בראשית ברא אלהים את השמים ואת הארץ** — «Con lo primero le dio forma Elohim a los cielos y a la tierra» (TTH). | Abre con principio, sujeto divino y totalidad creada.                                   |
-| #bereshit_1_2-5   | **והארץ היתה תהו ובהו... ויאמר אלהים יהי אור**                                                                  | La tierra está desordenada y vacía; la palabra de Elohim separa la luz de la oscuridad. |
-| #bereshit_1_6-25  | «Haya expansión... júntense las aguas... produzca la tierra» (TTH).                                             | La creación avanza mediante separación, reunión y producción ordenada.                  |
-| #bereshit_1_26-28 | **נעשה אדם בצלמנו כדמותנו**                                                                                     | El ser humano recibe imagen, semejanza y responsabilidad de gobernar.                   |
-| #bereshit_1_29-31 | «Toda planta que da semilla... os será para comer»; «era bueno en gran manera».                                 | El don de alimento y la valoración final cierran la secuencia.                          |
+| #genesis_1_1     | **בראשית ברא אלהים את השמים ואת הארץ** — «Con lo primero le dio forma Elohim a los cielos y a la tierra» (TTH). | Abre con principio, sujeto divino y totalidad creada.                                   |
+| #genesis_1_2-5   | **והארץ היתה תהו ובהו... ויאמר אלהים יהי אור**                                                                  | La tierra está desordenada y vacía; la palabra de Elohim separa la luz de la oscuridad. |
+| #genesis_1_6-25  | «Haya expansión... júntense las aguas... produzca la tierra» (TTH).                                             | La creación avanza mediante separación, reunión y producción ordenada.                  |
+| #genesis_1_26-28 | **נעשה אדם בצלמנו כדמותנו**                                                                                     | El ser humano recibe imagen, semejanza y responsabilidad de gobernar.                   |
+| #genesis_1_29-31 | «Toda planta que da semilla... os será para comer»; «era bueno en gran manera».                                 | El don de alimento y la valoración final cierran la secuencia.                          |
 
-## Del principio a la creación ordenada — 1:1-25 #bereshit_1_1-25
+## Del principio a la creación ordenada — 1:1-25 #genesis_1_1-25
 
 Eric observa que **ראשית** no debe tratarse como una palabra decorativa: señala prioridad y primicia. La observación está bien orientada si “prioridad” significa que todo el relato comienza bajo la iniciativa de Elohim. Sin embargo, la forma **(בראשית)** (_bereshit_) puede traducirse funcionalmente como «en el principio» o, según la decisión interpretativa reflejada por TTH, «con lo primero». Su equivalencia con «primicias» es **aproximada y pedagógica**, no una identidad gramatical automática con todos los textos de ofrendas.
 
@@ -49,7 +49,7 @@ El verso 1 nombra **(אלהים)** (_Elohim_) como sujeto de **(ברא)** (_bara
 
 La fórmula «y dijo Elohim» se repite desde 1:3. Luz, expansión, tierra seca, lumbreras y criaturas no aparecen como dioses rivales ni como extensiones independientes de una divinidad impersonal. En cada unidad, separación y bendición hacen visible un orden: día y noche, aguas y tierra, especies según sus tipos. Esta progresión respalda la observación de Eric sobre la plenitud recibida del Creador, pero el texto mismo debe gobernar la aplicación: no dice que cada atributo abstracto de Elohim haya sido introducido literalmente en una sustancia llamada _reshit_.
 
-## Imagen, dominio y bendición — 1:26-31 #bereshit_1_26-31
+## Imagen, dominio y bendición — 1:26-31 #genesis_1_26-31
 
 Al llegar al sexto día, el relato cambia de registro: «Hagamos al ser humano a nuestra imagen, conforme a nuestra semejanza». **(צלם)** (_tselem_) significa imagen, figura o representación; **(דמות)** (_demut_) significa semejanza o similitud. En 1:26 su fuerza contextual es describir la dignidad y función representativa del ser humano ante la creación. «Imagen» no equivale exactamente a «atributos divinos contenidos en el cuerpo»; en esta nota la relación con la enseñanza de Eric se marca como **pedagógica** y se mantiene subordinada al mandato textual de gobernar y cuidar.
 
@@ -79,7 +79,7 @@ El cierre repite «era bueno» y culmina «era bueno en gran manera». La clase 
 
 ## Conexiones principales
 
-Devarim 18:4, Mishlei 3:9 y Devarim 26:1-11 muestran el lenguaje de primicias y ayudan a explicar por qué Eric usa _reshit_ como imagen de prioridad ofrecida a יהוה. La relación es **temática**, no una equivalencia exacta entre Bereshit 1:1 y las leyes agrícolas. Mishlei 8:22 y Mijah 5:2 pueden estudiarse junto al lenguaje de principio, pero no deben usarse para reemplazar el contexto de Bereshit. Kolosim 1:16-17 e Iojanán 1:1-3 permiten una lectura cristológica canónica posterior; esa recepción no convierte automáticamente _reshit_ o _bara_ en términos griegos equivalentes.
+Devarim 18:4, Mishlei 3:9 y Devarim 26:1-11 muestran el lenguaje de primicias y ayudan a explicar por qué Eric usa _reshit_ como imagen de prioridad ofrecida a יהוה. La relación es **temática**, no una equivalencia exacta entre Bereshit 1:1 y las leyes agrícolas. Mishlei 8:22 y Mijah 5:2 pueden estudiarse junto al lenguaje de principio, pero no deben usarse para reemplazar el contexto de Bereshit. Kolosim 1:16-17 e Yojanán 1:1-3 permiten una lectura cristológica canónica posterior; esa recepción no convierte automáticamente _reshit_ o _bara_ en términos griegos equivalentes.
 
 ## Pendiente de verificar
 
@@ -96,7 +96,7 @@ Bereshit 1 comienza con Elohim y termina con una creación ordenada, bendecida y
 
 - [[mishlei_3|Mishlei 3: confianza y primicias]]
 - [[qohelet_11_luz_juicio_y_madurez|Qohélet 11: luz, juicio y madurez]]
-- [[../besorah/yojanan_1|Iojanán 1: palabra y principio]]
+- [[../besorah/yojanan_1|Yojanán 1: palabra y principio]]
 
 ## Créditos
 

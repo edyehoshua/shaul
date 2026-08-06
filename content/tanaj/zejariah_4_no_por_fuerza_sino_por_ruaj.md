@@ -9,13 +9,13 @@ tags:
   - behaalotja
   - ruaj
 references:
-  - "#zejariah_4_1"
-  - "#zejariah_4_2"
-  - "#zejariah_4_6"
-  - "#zejariah_4_7"
-  - "#zejariah_4_9"
-  - "#zejariah_4_10"
-  - "#zejariah_4_14"
+  - "#zacarias_4_1"
+  - "#zacarias_4_2"
+  - "#zacarias_4_6"
+  - "#zacarias_4_7"
+  - "#zacarias_4_9"
+  - "#zacarias_4_10"
+  - "#zacarias_4_14"
 sources:
   - "https://www.youtube.com/watch?v=ZnhjepUvi-I"
   - "docs/scriptures/oe/json/zechariah/4.json"
@@ -47,13 +47,13 @@ Eric sitúa a Zacarías junto con Hageo en el período posterior al retorno de B
 
 Sí es pertinente la situación que el texto muestra: la visión habla de una casa, de Zorobabel y de una obra que debe llegar a su término. La profecía no trata una capacidad humana descontextualizada. El “día de pequeñas cosas” presupone un comienzo que puede parecer insignificante, pero que es observado y sostenido por יהוה.
 
-## 4:1-5: despertar y menorá #zejariah_4_1-5
+## 4:1-5: despertar y menorá #zacarias_4_1-5
 
 El ángel que hablaba con Zacarías vuelve y lo despierta como a un hombre que despierta de su sueño: **וישב המלאך הדבר בי ויעירני כאיש אשר יעור משנתו**. El profeta ve una menorá de oro, su depósito superior, siete lámparas y siete tubos para las lámparas. La escena no es una simple ilustración moral; el profeta pregunta qué ve y el mensajero conduce la interpretación.
 
 La conexión de la haftará con Beha'alotjá permite a Eric detenerse en la menorá y en su función de luz. La asociación es temática y litúrgica, mientras que Zacarías mantiene su propia visión y sus propios personajes. La palabra **מנורה** (_menorah_) significa candelabro o lámpara; su fuerza aquí es el objeto visionario que estructura la pregunta del profeta. No se debe convertir cada detalle numérico en una doctrina independiente sin seguir la explicación del pasaje.
 
-## 4:6-7: el Rúaj frente al monte #zejariah_4_6-7
+## 4:6-7: el Rúaj frente al monte #zacarias_4_6-7
 
 La respuesta central está dirigida a Zorobabel: **זה דבר יהוה אל זרבבל לאמר לא בחיל ולא בכח כי אם ברוחי אמר יהוה צבאות**. **רוח** (_ruaj_) significa viento, aliento o espíritu; en este contexto es el Rúaj de יהוה como fuente de la obra encomendada, no una energía impersonal definida por la palabra aislada. “No por fuerza” y “no por poder” forman una negación de los recursos humanos como fundamento último; el versículo no niega que haya manos, trabajo o responsabilidad.
 
@@ -61,7 +61,7 @@ El siguiente versículo pregunta: **מי אתה הר הגדול לפני זרב�
 
 La forma **חיל** (_jail_) tiene como sentido normal fuerza, capacidad o ejército; **כח** (_koaj_) significa fuerza, vigor o poder; **רוח** (_ruaj_) abarca viento, aliento y espíritu. En el versículo, la relación es directa para la oposición entre medios humanos y el Rúaj de יהוה. La explicación de Eric sobre que la obra no puede producirse por capacidad humana es fiel al contraste; no autoriza a despreciar la acción concreta de Zorobabel.
 
-## 4:8-10: manos, piedra y día pequeño #zejariah_4_8-10
+## 4:8-10: manos, piedra y día pequeño #zacarias_4_8-10
 
 La palabra de יהוה vuelve a Zacarías: **ידי זרבבל יסדו הבית הזה וידי תבצענה**, “las manos de Zorobabel fundaron esta casa y sus manos la terminarán”. Este detalle corrige una lectura que opondría milagrosamente el Rúaj a toda participación humana. El Rúaj sostiene una obra que Zorobabel inicia y completa; la fuente del poder y el instrumento humano aparecen juntos en la secuencia.
 
@@ -69,7 +69,7 @@ El propósito de esa confirmación es que el pueblo sepa que יהוה de los ej�
 
 La piedra de separación o de terminación está en la mano de Zorobabel, y los siete ojos de יהוה recorren toda la tierra. **בז** (_baz_) significa despreciar o considerar insignificante; aquí su fuerza es la actitud que menosprecia el comienzo. **גמר** no aparece como término aislado en la frase de las manos, pero “terminar” comunica la finalización de la casa. La relación entre “día pequeño” y maduración paciente es pedagógica y debe permanecer ligada a la casa que el pasaje nombra.
 
-## 4:11-14: los dos olivos y los hijos del aceite #zejariah_4_11-14
+## 4:11-14: los dos olivos y los hijos del aceite #zacarias_4_11-14
 
 El profeta pregunta dos veces por los dos olivos a la derecha y a la izquierda de la menorá, y por las dos ramas que vierten oro desde dos tubos. El mensajero responde con una pregunta que muestra que la identificación no debe inventarse: “¿No sabes qué son estos?”. Finalmente declara: **אלה שני בני היצהר העמדים על אדון כל הארץ**, “estos son los dos hijos del aceite que están delante del Señor de toda la tierra”.
 

@@ -9,12 +9,12 @@ tags:
   - justicia
   - luz
 references:
-  - "#tehilim_97_1"
-  - "#tehilim_97_2"
-  - "#tehilim_97_6"
-  - "#tehilim_97_7"
-  - "#tehilim_97_10"
-  - "#tehilim_97_12"
+  - "#salmos_97_1"
+  - "#salmos_97_2"
+  - "#salmos_97_6"
+  - "#salmos_97_7"
+  - "#salmos_97_10"
+  - "#salmos_97_12"
 sources:
   - "https://www.youtube.com/watch?v=T8GHmQSV0xk"
   - "docs/scriptures/oe/json/psalms/97.json"
@@ -35,13 +35,13 @@ La fuente pública es la exposición de Eric de Jesús Rodríguez Mendoza sobre 
 
 | Unidad textual    | Observación concreta de la clase                                                                                                                    | Prueba y límite en esta nota                                                                                                                       |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_97_1-6   | Eric abre con el anuncio de que יהוה reina y lee nube, fuego, relámpago y montes como manifestaciones de un gobierno que nadie puede ocultar.       | El salmo afirma reinado universal, justicia, fuego, relámpagos y temblor de la tierra; las "manifestaciones" describen su imagen poética.          |
-| #tehilim_97_7-9   | La exposición contrasta los עבדי פסל con la exaltación de יהוה sobre todos los אלהים: los ídolos no reciben gloria cuando aparece el Rey.           | El texto sí avergüenza a los servidores de imágenes y confiesa a יהוה como Altísimo; la crítica a toda forma histórica de idolatría es aplicación. |
-| #tehilim_97_10-12 | Eric termina con una exhortación concreta: amar a יהוה implica aborrecer el mal, guardar la vida de sus fieles y caminar hacia la luz y la alegría. | El verso 10 manda odiar el mal y promete protección; los vv. 11-12 dan luz, alegría y acción de gracias a los rectos.                              |
+| #salmos_97_1-6   | Eric abre con el anuncio de que יהוה reina y lee nube, fuego, relámpago y montes como manifestaciones de un gobierno que nadie puede ocultar.       | El salmo afirma reinado universal, justicia, fuego, relámpagos y temblor de la tierra; las "manifestaciones" describen su imagen poética.          |
+| #salmos_97_7-9   | La exposición contrasta los עבדי פסל con la exaltación de יהוה sobre todos los אלהים: los ídolos no reciben gloria cuando aparece el Rey.           | El texto sí avergüenza a los servidores de imágenes y confiesa a יהוה como Altísimo; la crítica a toda forma histórica de idolatría es aplicación. |
+| #salmos_97_10-12 | Eric termina con una exhortación concreta: amar a יהוה implica aborrecer el mal, guardar la vida de sus fieles y caminar hacia la luz y la alegría. | El verso 10 manda odiar el mal y promete protección; los vv. 11-12 dan luz, alegría y acción de gracias a los rectos.                              |
 
 ## El Rey y la tierra: vv. 1-6
 
-El comienzo es breve y absoluto: **יהוה מלך**, «יהוה reina» (`#tehilim_97_1`). La consecuencia no queda limitada a Israel: la tierra se alegra y muchas islas se regocijan. Eric destaca que el reinado no es una idea privada de la congregación; el sujeto del gobierno y el alcance geográfico del gozo ya aparecen en la primera línea. **מלך** (`malakh`) es la forma verbal «reinó» o «reina» según el contexto; aquí funciona como proclamación de reinado. Traducirlo «es rey» sería una paráfrasis pedagógica que pierde el anuncio dinámico.
+El comienzo es breve y absoluto: **יהוה מלך**, «יהוה reina» (`#salmos_97_1`). La consecuencia no queda limitada a Israel: la tierra se alegra y muchas islas se regocijan. Eric destaca que el reinado no es una idea privada de la congregación; el sujeto del gobierno y el alcance geográfico del gozo ya aparecen en la primera línea. **מלך** (`malakh`) es la forma verbal «reinó» o «reina» según el contexto; aquí funciona como proclamación de reinado. Traducirlo «es rey» sería una paráfrasis pedagógica que pierde el anuncio dinámico.
 
 El v. 2 coloca nube y niebla alrededor de יהוה, mientras justicia y juicio son el fundamento de su trono: **ענן וערפל סביביו צדק ומשפט מכון כסאו**. La oscuridad no significa confusión moral, porque el mismo verso define la base del trono. Eric usa el contraste para leer la presencia velada junto con la justicia visible en sus efectos. La observación es coherente con el paralelismo: la atmósfera es misteriosa, pero el fundamento está nombrado.
 
@@ -59,20 +59,20 @@ El v. 9 resume la supremacía: **כי אתה יהוה עליון על כל הא�
 
 ## Amar a יהוה, odiar el mal: vv. 10-12
 
-La proclamación real termina en obediencia: **אהבי יהוה שנאו רע**, «los que aman a יהוה, odien el mal» (`#tehilim_97_10`). Eric no separa alabanza de conducta. El amor a יהוה tiene una forma moral negativa —rechazar el mal— y una promesa positiva: él guarda la vida de sus fieles y los libra de la mano de los malvados. **שמר** (`shamar`) significa guardar, custodiar o vigilar; «proteger» es una traducción contextual aproximada, porque el verbo también conserva la idea de cuidado atento.
+La proclamación real termina en obediencia: **אהבי יהוה שנאו רע**, «los que aman a יהוה, odien el mal» (`#salmos_97_10`). Eric no separa alabanza de conducta. El amor a יהוה tiene una forma moral negativa —rechazar el mal— y una promesa positiva: él guarda la vida de sus fieles y los libra de la mano de los malvados. **שמר** (`shamar`) significa guardar, custodiar o vigilar; «proteger» es una traducción contextual aproximada, porque el verbo también conserva la idea de cuidado atento.
 
 El v. 11 dice: **אור זרע לצדיק ולישרי לב שמחה**, «luz se siembra para el justo y alegría para los rectos de corazón». La imagen no afirma que el justo nunca atraviese oscuridad. La siembra comunica una provisión cuyo fruto aparece en el camino de quienes son ישר, rectos o íntegros. «Luz» y «alegría» son términos explícitos; aplicarlos a una experiencia espiritual contemporánea es una inferencia pastoral.
 
-El cierre devuelve el gozo a su fuente: **שמחו צדיקים ביהוה והודו לזכר קדשו**, «alégrense, justos, en יהוה y den gracias al recuerdo de su santidad» (#tehilim_97_12). Eric insiste en que la alegría no termina en autosatisfacción del justo. La sintaxis confirma la dirección: los justos se alegran **en יהוה** y agradecen su nombre santo. El movimiento completo queda así: reinado universal, juicio que desenmascara ídolos, protección de los fieles, luz y alabanza.
+El cierre devuelve el gozo a su fuente: **שמחו צדיקים ביהוה והודו לזכר קדשו**, «alégrense, justos, en יהוה y den gracias al recuerdo de su santidad» (#salmos_97_12). Eric insiste en que la alegría no termina en autosatisfacción del justo. La sintaxis confirma la dirección: los justos se alegran **en יהוה** y agradecen su nombre santo. El movimiento completo queda así: reinado universal, juicio que desenmascara ídolos, protección de los fieles, luz y alabanza.
 
 ## Hoja de comparación y léxico
 
 | Referencia        | Texto local normalizado                                                 | Función                                           |
 | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------- |
-| #tehilim_97_1-2   | יהוה מלך תגל הארץ ישמחו איים רבים; ענן וערפל סביביו צדק ומשפט מכון כסאו | Reinado universal y fundamento justo.             |
-| #tehilim_97_3-6   | אש לפניו תלך... הגידו השמים צדקו וראו כל העמים כבודו                    | Fuego, relámpagos y testimonio público de gloria. |
-| #tehilim_97_7-9   | יבשו כל עבדי פסל... אתה יהוה עליון על כל הארץ                           | Vergüenza de los ídolos y supremacía de יהוה.     |
-| #tehilim_97_10-12 | אהבי יהוה שנאו רע... שמחו צדיקים ביהוה                                  | Ética de fidelidad, luz y gratitud.               |
+| #salmos_97_1-2   | יהוה מלך תגל הארץ ישמחו איים רבים; ענן וערפל סביביו צדק ומשפט מכון כסאו | Reinado universal y fundamento justo.             |
+| #salmos_97_3-6   | אש לפניו תלך... הגידו השמים צדקו וראו כל העמים כבודו                    | Fuego, relámpagos y testimonio público de gloria. |
+| #salmos_97_7-9   | יבשו כל עבדי פסל... אתה יהוה עליון על כל הארץ                           | Vergüenza de los ídolos y supremacía de יהוה.     |
+| #salmos_97_10-12 | אהבי יהוה שנאו רע... שמחו צדיקים ביהוה                                  | Ética de fidelidad, luz y gratitud.               |
 
 | Forma | Transliteración | Sentido normal             | Fuerza contextual                                  | Relación                                                                    |
 | ----- | --------------- | -------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------- |

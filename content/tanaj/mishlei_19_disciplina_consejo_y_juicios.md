@@ -4,20 +4,20 @@ description: "Estudio de Mishlei 19:20-29 sobre recibir consejo, la fidelidad, l
 date: 2026-08-05
 tags: [mishlei, mishlei_19, disciplina, consejo, juicio, sabiduria]
 references:
-  - "#mishlei_19_20"
-  - "#mishlei_19_21"
-  - "#mishlei_19_22"
-  - "#mishlei_19_23"
-  - "#mishlei_19_24"
-  - "#mishlei_19_25"
-  - "#mishlei_19_26"
-  - "#mishlei_19_27"
-  - "#mishlei_19_28"
-  - "#mishlei_19_29"
-  - "#mishlei_19_19"
-  - "#tehilim_91_1"
-  - "#tehilim_30_6"
-  - "#shemot_21_13"
+  - "#proverbios_19_20"
+  - "#proverbios_19_21"
+  - "#proverbios_19_22"
+  - "#proverbios_19_23"
+  - "#proverbios_19_24"
+  - "#proverbios_19_25"
+  - "#proverbios_19_26"
+  - "#proverbios_19_27"
+  - "#proverbios_19_28"
+  - "#proverbios_19_29"
+  - "#proverbios_19_19"
+  - "#salmos_91_1"
+  - "#salmos_30_6"
+  - "#exodo_21_13"
 sources:
   - "https://www.youtube.com/watch?v=Eus3U1sn6GI"
   - "docs/scriptures/oe/json/raw/proverbs.json"
@@ -39,16 +39,16 @@ Esta nota organiza la clase pública de Eric sobre Mishlei 19:20-29. Las observa
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_19_20 | שמע עצה וקבל מוסר למען תחכם באחריתך | Escucha el consejo y recibe disciplina, para que seas sabio en tus finales. |
-| #mishlei_19_21 | רבות מחשבות בלב איש ועצת יהוה היא תקום | Muchos son los cálculos en el corazón del hombre, pero el consejo de יהוה es el que se establecerá. |
-| #mishlei_19_22 | תאות אדם חסדו וטוב רש מאיש כזב | Lo deseable de un hombre es su bondad, y mejor es ser pobre que hombre de mentira. |
-| #mishlei_19_23 | יראת יהוה לחיים ושבע ילין בל יפקד רע | El temor de יהוה es para vida, y pasará la noche satisfecho, sin ser visitado por el mal. |
-| #mishlei_19_24 | טמן עצל ידו בצלחת גם אל פיהו לא ישיבנה | El perezoso esconde su mano en un caldero, ni aun a su boca la regresará. |
-| #mishlei_19_25 | לץ תכה ופתי יערם והוכיח לנבון יבין דעת | Azota al burlador y el ingenuo será astuto, y reprende al entendido y entenderá conocimiento. |
-| #mishlei_19_26 | משדד אב יבריח אם בן מביש ומחפיר | El que roba al padre y ahuyenta a la madre, es hijo vergonzoso y desgraciado. |
-| #mishlei_19_27 | חדל בני לשמע מוסר לשגות מאמרי דעת | Cesa, hijo mío, de escuchar la disciplina, y te desviarás de los dichos de conocimiento. |
-| #mishlei_19_28 | עד בליעל יליץ משפט ופי רשעים יבלע און | El testigo de Belial se burlará del proceso judicial, y la boca de los condenados tragará vacuidad. |
-| #mishlei_19_29 | נכונו ללצים שפטים ומהלמות לגו כסילים | Han sido preparados para los burladores los juicios, y golpes para la espalda de los indisciplinados. |
+| #proverbios_19_20 | שמע עצה וקבל מוסר למען תחכם באחריתך | Escucha el consejo y recibe disciplina, para que seas sabio en tus finales. |
+| #proverbios_19_21 | רבות מחשבות בלב איש ועצת יהוה היא תקום | Muchos son los cálculos en el corazón del hombre, pero el consejo de יהוה es el que se establecerá. |
+| #proverbios_19_22 | תאות אדם חסדו וטוב רש מאיש כזב | Lo deseable de un hombre es su bondad, y mejor es ser pobre que hombre de mentira. |
+| #proverbios_19_23 | יראת יהוה לחיים ושבע ילין בל יפקד רע | El temor de יהוה es para vida, y pasará la noche satisfecho, sin ser visitado por el mal. |
+| #proverbios_19_24 | טמן עצל ידו בצלחת גם אל פיהו לא ישיבנה | El perezoso esconde su mano en un caldero, ni aun a su boca la regresará. |
+| #proverbios_19_25 | לץ תכה ופתי יערם והוכיח לנבון יבין דעת | Azota al burlador y el ingenuo será astuto, y reprende al entendido y entenderá conocimiento. |
+| #proverbios_19_26 | משדד אב יבריח אם בן מביש ומחפיר | El que roba al padre y ahuyenta a la madre, es hijo vergonzoso y desgraciado. |
+| #proverbios_19_27 | חדל בני לשמע מוסר לשגות מאמרי דעת | Cesa, hijo mío, de escuchar la disciplina, y te desviarás de los dichos de conocimiento. |
+| #proverbios_19_28 | עד בליעל יליץ משפט ופי רשעים יבלע און | El testigo de Belial se burlará del proceso judicial, y la boca de los condenados tragará vacuidad. |
+| #proverbios_19_29 | נכונו ללצים שפטים ומהלמות לגו כסילים | Han sido preparados para los burladores los juicios, y golpes para la espalda de los indisciplinados. |
 
 ## Escuchar el consejo para llegar a ser sabio
 
@@ -92,10 +92,10 @@ La exposición termina celebrando que la disciplina no sea retirada de nosotros 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_19_20-21; `youtube:Eus3U1sn6GI` | Escuchar consejo y recibir musar forman al sabio; el consejo de יהוה se levanta sobre los cálculos humanos. | Secuencia textual apoyada; lectura de los finales y de los votos, cualificada. |
-| #mishlei_19_22-24; `youtube:Eus3U1sn6GI` | La bondad es deseable, el pobre puede buscar la misericordia y quien teme a יהוה pasa la noche satisfecho; el perezoso no completa el alimento. | Contrastes y dependencia apoyados; tesoros, noche escatológica y caldero, cualificados o pendientes. |
-| #mishlei_19_25-27; `youtube:Eus3U1sn6GI` | El ingenuo aprende al ver el castigo, el entendido procesa la reprensión y abandonar la disciplina desvía. | Desarrollo textual y aplicación familiar apoyados. |
-| #mishlei_19_28-29; `youtube:Eus3U1sn6GI` | El testigo de Belial se burla del juicio y ya están preparados los juicios para burladores e indisciplinados. | Juicio y vacuidad apoyados; identificación de Belial con Satanás, cualificada. |
+| #proverbios_19_20-21; `youtube:Eus3U1sn6GI` | Escuchar consejo y recibir musar forman al sabio; el consejo de יהוה se levanta sobre los cálculos humanos. | Secuencia textual apoyada; lectura de los finales y de los votos, cualificada. |
+| #proverbios_19_22-24; `youtube:Eus3U1sn6GI` | La bondad es deseable, el pobre puede buscar la misericordia y quien teme a יהוה pasa la noche satisfecho; el perezoso no completa el alimento. | Contrastes y dependencia apoyados; tesoros, noche escatológica y caldero, cualificados o pendientes. |
+| #proverbios_19_25-27; `youtube:Eus3U1sn6GI` | El ingenuo aprende al ver el castigo, el entendido procesa la reprensión y abandonar la disciplina desvía. | Desarrollo textual y aplicación familiar apoyados. |
+| #proverbios_19_28-29; `youtube:Eus3U1sn6GI` | El testigo de Belial se burla del juicio y ya están preparados los juicios para burladores e indisciplinados. | Juicio y vacuidad apoyados; identificación de Belial con Satanás, cualificada. |
 
 ## Pendiente de verificar
 

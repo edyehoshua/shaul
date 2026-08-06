@@ -9,14 +9,14 @@ tags:
   - "camino"
   - "fruto"
 references:
-  - "#tehilim_1_1"
-  - "#tehilim_1_2"
-  - "#tehilim_1_3"
-  - "#tehilim_1_4"
-  - "#tehilim_1_5"
-  - "#tehilim_1_6"
-  - "#ieshaiahu_8_10"
-  - "#corintiyim_alef_16_13"
+  - "#salmos_1_1"
+  - "#salmos_1_2"
+  - "#salmos_1_3"
+  - "#salmos_1_4"
+  - "#salmos_1_5"
+  - "#salmos_1_6"
+  - "#isaias_8_10"
+  - "#1_corintios_16_13"
 sources:
   - "https://www.youtube.com/watch?v=E75BcPnWe5E"
   - "docs/scriptures/oe/json/raw/psalms.json"
@@ -31,21 +31,21 @@ Tehilim 1 abre el libro con dos caminos: el de quien se aparta de la senda de lo
 
 ## Alcance de la nota
 
-Esta nota ordena una clase dedicada a Tehilim 1. La transcripción relaciona el primer verso con la madurez y la firmeza en la emunah, y propone conexiones con #corintiyim_alef_16_13, #ieshaiahu_8_10 y diversos relatos bíblicos. Esas conexiones se registran como líneas de estudio de la exposición; el argumento principal de la nota permanece en el contraste explícito del salmo.
+Esta nota ordena una clase dedicada a Tehilim 1. La transcripción relaciona el primer verso con la madurez y la firmeza en la emunah, y propone conexiones con #1_corintios_16_13, #isaias_8_10 y diversos relatos bíblicos. Esas conexiones se registran como líneas de estudio de la exposición; el argumento principal de la nota permanece en el contraste explícito del salmo.
 
 ## Hoja de comparación
 
 | Referencia     | Texto local (hebreo sin nikud)                                                        | Observación                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| #tehilim_1_1   | אשרי האיש אשר לא הלך בעצת רשעים ובדרך חטאים לא עמד ובמושב לצים לא ישב                 | La triple imagen —andar, estar de pie y sentarse— describe participación sostenida, no un consejo aislado. |
-| #tehilim_1_2   | כי אם בתורת יהוה חפצו ובתורתו יהגה יומם ולילה                                         | El contraste positivo es deleitarse y meditar en la Torah de יהוה.                                         |
-| #tehilim_1_3   | והיה כעץ שתול על פלגי מים אשר פריו יתן בעתו ועלהו לא יבול וכל אשר יעשה יצליח          | La imagen del árbol habla de fuente, tiempo y fruto; no autoriza una promesa mecánica de éxito.            |
-| #tehilim_1_4   | לא כן הרשעים כי אם כמץ אשר תדפנו רוח                                                  | Los malvados son contrastados con paja llevada por el viento.                                              |
-| #tehilim_1_5-6 | על כן לא יקומו רשעים במשפט וחטאים בעדת צדיקים כי יודע יהוה דרך צדיקים ודרך רשעים תאבד | El cierre asocia el camino de los justos con el conocimiento de יהוה y declara que el otro camino perece.  |
+| #salmos_1_1   | אשרי האיש אשר לא הלך בעצת רשעים ובדרך חטאים לא עמד ובמושב לצים לא ישב                 | La triple imagen —andar, estar de pie y sentarse— describe participación sostenida, no un consejo aislado. |
+| #salmos_1_2   | כי אם בתורת יהוה חפצו ובתורתו יהגה יומם ולילה                                         | El contraste positivo es deleitarse y meditar en la Torah de יהוה.                                         |
+| #salmos_1_3   | והיה כעץ שתול על פלגי מים אשר פריו יתן בעתו ועלהו לא יבול וכל אשר יעשה יצליח          | La imagen del árbol habla de fuente, tiempo y fruto; no autoriza una promesa mecánica de éxito.            |
+| #salmos_1_4   | לא כן הרשעים כי אם כמץ אשר תדפנו רוח                                                  | Los malvados son contrastados con paja llevada por el viento.                                              |
+| #salmos_1_5-6 | על כן לא יקומו רשעים במשפט וחטאים בעדת צדיקים כי יודע יהוה דרך צדיקים ודרך רשעים תאבד | El cierre asocia el camino de los justos con el conocimiento de יהוה y declara que el otro camino perece.  |
 
 ## El camino no es un consejo pasajero
 
-La clase se detiene en `אשרי` y en `איש`, y vincula la firmeza del primer verso con la exhortación a permanecer firmes de #corintiyim_alef_16_13. Conviene conservar una distinción: el salmo no define aquí una categoría de superioridad humana; llama bienaventurado al que rehúsa tomar parte en el consejo, camino y asiento de los malvados.
+La clase se detiene en `אשרי` y en `איש`, y vincula la firmeza del primer verso con la exhortación a permanecer firmes de #1_corintios_16_13. Conviene conservar una distinción: el salmo no define aquí una categoría de superioridad humana; llama bienaventurado al que rehúsa tomar parte en el consejo, camino y asiento de los malvados.
 
 El expositor explica `הלך` como el proceder de una persona y lo relaciona pedagógicamente con _halajá_. El texto permite esta atención al modo de vivir: no se limita a prohibir una conversación, sino que nombra un andar, una permanencia y una pertenencia. Por eso el deleite en la Torah de יהוה es el contrapeso textual de la primera línea.
 
@@ -57,14 +57,14 @@ La figura del árbol plantado en corrientes de agua desarrolla el resultado de e
 
 ## Consejo humano y palabra de יהוה
 
-La transcripción conecta el «consejo» de los malvados con planes o confabulaciones, y recuerda #ieshaiahu_8_10: «Tomen consejo, y será anulado». Esa relación es temática, no una cita de Tehilim 1. Ambos pasajes invitan a someter proyectos y discursos a la palabra de יהוה, pero cada uno debe ser leído primero en su propio contexto.
+La transcripción conecta el «consejo» de los malvados con planes o confabulaciones, y recuerda #isaias_8_10: «Tomen consejo, y será anulado». Esa relación es temática, no una cita de Tehilim 1. Ambos pasajes invitan a someter proyectos y discursos a la palabra de יהוה, pero cada uno debe ser leído primero en su propio contexto.
 
 El contraste final del himno no deja un tercer camino neutral: la paja no tiene la estabilidad del árbol, y el camino de los malvados perece. La certeza del justo no descansa en su autonomía, sino en que יהוה conoce su camino.
 
 ## Pendiente de verificar
 
 - [ ] Revisar con léxicos hebreos la explicación de `אשרי` como construcción plural; la transcripción ofrece una propuesta pedagógica que no debe imponerse sin comprobación.
-- [ ] Estudiar por separado el uso de `איש` en Tehilim 1, Yeshayahu 53 y #corintiyim_alef_16_13 antes de formular una equivalencia mesiánica directa.
+- [ ] Estudiar por separado el uso de `איש` en Tehilim 1, Yeshayahu 53 y #1_corintios_16_13 antes de formular una equivalencia mesiánica directa.
 - [ ] Distinguir la conexión homilética con Bereshit 2 de una exégesis directa de Tehilim 1.
 
 ## Conclusión

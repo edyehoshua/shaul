@@ -9,11 +9,11 @@ tags:
   - herencia
   - justicia
 references:
-  - "#tehilim_125_1"
-  - "#tehilim_125_2"
-  - "#tehilim_125_3"
-  - "#tehilim_125_4"
-  - "#tehilim_125_5"
+  - "#salmos_125_1"
+  - "#salmos_125_2"
+  - "#salmos_125_3"
+  - "#salmos_125_4"
+  - "#salmos_125_5"
   - "#zacarías_14_3-5"
 sources:
   - "https://www.youtube.com/watch?v=sDw938pc3OU"
@@ -35,13 +35,13 @@ La fuente es una clase de Eric sobre el cántico de las ascensiones. La transcri
 
 | Referencia     | Texto local OE (sin nikud y sin segmentación)                              | Función en la lectura                                                      |
 | -------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #tehilim_125_1 | **שיר המעלות הבטחים ביהוה כהר ציון לא ימוט לעולם ישב**                     | Los que confían en יהוה se comparan con Sion, que no será movido.          |
-| #tehilim_125_2 | **ירושלם הרים סביב לה ויהוה סביב לעמו מעתה ועד עולם**                      | La geografía de Jerusalén se vuelve imagen de la protección divina.        |
-| #tehilim_125_3 | **כי לא ינוח שבט הרשע על גורל הצדיקים למען לא ישלחו הצדיקים בעולתה ידיהם** | El gobierno de la maldad no tendrá reposo sobre la herencia de los justos. |
-| #tehilim_125_4 | **היטיבה יהוה לטובים ולישרים בלבותם**                                      | La oración pide bien para los buenos y rectos de corazón.                  |
-| #tehilim_125_5 | **והמטים עקלקלותם יוליכם יהוה את פעלי האון שלום על ישראל**                 | יהוה conduce a quienes se desvían; el salmo termina con paz sobre Israel.  |
+| #salmos_125_1 | **שיר המעלות הבטחים ביהוה כהר ציון לא ימוט לעולם ישב**                     | Los que confían en יהוה se comparan con Sion, que no será movido.          |
+| #salmos_125_2 | **ירושלם הרים סביב לה ויהוה סביב לעמו מעתה ועד עולם**                      | La geografía de Jerusalén se vuelve imagen de la protección divina.        |
+| #salmos_125_3 | **כי לא ינוח שבט הרשע על גורל הצדיקים למען לא ישלחו הצדיקים בעולתה ידיהם** | El gobierno de la maldad no tendrá reposo sobre la herencia de los justos. |
+| #salmos_125_4 | **היטיבה יהוה לטובים ולישרים בלבותם**                                      | La oración pide bien para los buenos y rectos de corazón.                  |
+| #salmos_125_5 | **והמטים עקלקלותם יוליכם יהוה את פעלי האון שלום על ישראל**                 | יהוה conduce a quienes se desvían; el salmo termina con paz sobre Israel.  |
 
-## Confiar es permanecer en movimiento fiel — Tehilim 125:1 #tehilim_125_1
+## Confiar es permanecer en movimiento fiel — Tehilim 125:1 #salmos_125_1
 
 El cántico comienza con **הַבֹּטְחִים בַּיהוָה**, «los que confían en יהוה». Eric se detiene en **(בטח)** _bataj_, normalmente «confiar», «sentirse seguro» o «estar seguro». Observa que la forma es un participio plural: no retrata un instante emocional, sino a quienes continúan viviendo en esa seguridad. El hebreo confirma el participio y la orientación hacia יהוה; afirmar que su fuerza principal es una acción diaria de obediencia es una inferencia pastoral de la clase, aunque encaja con el contraste posterior entre justos y caminos torcidos.
 
@@ -49,7 +49,7 @@ Eric rechaza una idea de confianza como cerrar los ojos y esperar que nada ocurr
 
 La comparación es «como el monte de Sion»: **כְּהַר צִיּוֹן לֹא יִמּוֹט**. El verbo **(מוט)** _mot_ significa tambalearse, deslizarse o ser movido. Eric usa esta afirmación para distinguir estabilidad espiritual de comodidad externa: una persona puede perder trabajo, posición o seguridad material sin ser removida de su fidelidad. La relación entre el monte y una vida fiel es una analogía explícita del poema, no una promesa de inmunidad contra toda pérdida.
 
-## Jerusalén rodeada y la protección que no depende de geografía — Tehilim 125:2 #tehilim_125_2
+## Jerusalén rodeada y la protección que no depende de geografía — Tehilim 125:2 #salmos_125_2
 
 El v. 2 mira primero a la ciudad: montañas alrededor de Jerusalén. Después cambia el centro: «así יהוה alrededor de su pueblo». Eric conserva ese paralelismo y dice que la protección divina no queda restringida a quien vive en una ubicación concreta. Las montañas dificultan el acceso de un enemigo, pero יהוה rodea a su pueblo dondequiera que se encuentre. **(סביב)** _saviv_ significa alrededor, en derredor; su repetición en el verso sostiene directamente la comparación espacial.
 
@@ -57,7 +57,7 @@ La clase enlaza esta protección con Zacarías 14:3-5 y con su lectura de un Sio
 
 Eric también se fija en **מֵעַתָּה וְעַד עוֹלָם**, «desde ahora y hasta olam». Afirma que **(עולם)** _olam_ puede señalar un horizonte cuya duración queda reservada a יהוה, en vez de resolver automáticamente toda pregunta cronológica con «eternidad». La palabra puede referirse a un tiempo remoto, duración prolongada o futuro indefinido según el contexto. En este salmo comunica amplitud y continuidad de la protección; la afirmación de que solo יהוה determina el límite es una reflexión teológica coherente, pero no una definición única del término.
 
-## El cetro, la herencia y la presión de la iniquidad — Tehilim 125:3 #tehilim_125_3
+## El cetro, la herencia y la presión de la iniquidad — Tehilim 125:3 #salmos_125_3
 
 El verso 3 introduce la razón de la confianza: **לֹא יָנוּחַ שֵׁבֶט הָרֶשַׁע**, «no reposará el cetro de la maldad», sobre **גּוֹרַל הַצַּדִּיקִים**, la suerte o porción de los justos. Eric explica que **(שבט)** _shevet_ puede significar vara, cetro y tribu; aquí, por su relación con «reposar», lo entiende como autoridad o gobierno. El sentido contextual de cetro es firme. El recorrido hacia las doce tribus es una asociación léxica posible, pero no debe desplazar la función de la vara como poder de la maldad.
 
@@ -65,13 +65,13 @@ Eric dedica atención a **(גורל)** _goral_. Rechaza leerlo como azar sin dir
 
 La finalidad es ética: si el cetro de la maldad reposara indefinidamente sobre la porción de los justos, estos podrían extender sus manos hacia **עולה**, lo torcido o la injusticia. Eric lo aplica a la presión de escoger lo incorrecto para salvar la vida, el empleo o la comodidad. La palabra local aparece como **בעולתה**, «en su iniquidad/injusticia», y su fuerza está en el acto injusto al que los justos podrían llegar. El poema no promete que jamás enfrentarán presión; proclama que la maldad no tendrá la última permanencia sobre su herencia.
 
-## Bien para los buenos y rectitud del corazón — Tehilim 125:4 #tehilim_125_4
+## Bien para los buenos y rectitud del corazón — Tehilim 125:4 #salmos_125_4
 
 La oración cambia de explicación a petición: **הֵיטִיבָה יהוה לַטּוֹבִים**, «haz bien, יהוה, a los buenos», y a los rectos en sus corazones. Eric advierte contra una definición humanista de «bueno» basada únicamente en la autoevaluación: la bondad debe medirse por lo que יהוה llama bueno. El hebreo **(טוב)** _tov_ tiene el sentido normal de bueno, favorable o beneficioso; la dependencia de la evaluación divina es la lectura teológica de la clase.
 
 El «corazón» plural de los rectos recuerda que la rectitud no es solamente apariencia externa. Eric conecta esa petición con la responsabilidad de practicar los mandamientos y con la idea de que los frutos visibles deben corresponder a lo que se ha recibido. El salmo sí pide bien para personas descritas como buenas y rectas; no ofrece una lista completa de mandamientos ni permite que el lector se declare recto sin examen.
 
-## Caminos torcidos, conducción y paz — Tehilim 125:5 #tehilim_125_5
+## Caminos torcidos, conducción y paz — Tehilim 125:5 #salmos_125_5
 
 El último verso distingue a **והמטים עקלקלותם**, «los que desvían hacia sus caminos torcidos», de quienes hacen iniquidad. Eric lee **(עקלקלות)** _aqalqallot_ como trayectorias retorcidas y conecta el desvío con abandonar la herencia por miedo. El término tiene una relación directa con lo tortuoso o sinuoso; la extensión a todo compromiso moderno debe hacerse caso por caso.
 

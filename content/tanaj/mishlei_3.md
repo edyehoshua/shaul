@@ -6,7 +6,7 @@ tags:
   - mishlei
   - mishlei_3
 references:
-  - "#mishlei_3_1"
+  - "#proverbios_3_1"
 sources: []
 ---
 
@@ -16,13 +16,13 @@ Mishlei 3 presenta aquí la orden de no olvidar la instrucción, con jayim y sha
 
 ## Texto base
 
-- #mishlei_3_1
+- #proverbios_3_1
 
 ## Texto TTH disponible
 
 | Referencia   | Texto TTH                                                                |
 | ------------ | ------------------------------------------------------------------------ |
-| #mishlei_3_1 | Hijo mío, no olvides mi Torah, y mis mandamientos atesora en tu corazón. |
+| #proverbios_3_1 | Hijo mío, no olvides mi Torah, y mis mandamientos atesora en tu corazón. |
 
 ## Observaciones
 

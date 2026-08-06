@@ -11,13 +11,13 @@ tags:
   - herencia
   - ciudades-de-refugio
 references:
-  - "#bamidbar_30_2"
-  - "#bamidbar_31_1-2"
-  - "#bamidbar_32_20-24"
-  - "#bamidbar_33_1-2"
-  - "#bamidbar_34_1-15"
-  - "#bamidbar_35_9-15"
-  - "#bamidbar_36_5-9"
+  - "#numeros_30_2"
+  - "#numeros_31_1-2"
+  - "#numeros_32_20-24"
+  - "#numeros_33_1-2"
+  - "#numeros_34_1-15"
+  - "#numeros_35_9-15"
+  - "#numeros_36_5-9"
 sources:
   - "https://www.youtube.com/watch?v=35whlBfDPkA"
   - "https://www.youtube.com/watch?v=j2lf7LdAJn0"
@@ -47,14 +47,14 @@ Esta nota es la canónica para Bamidbar 30–36 y usa las clases públicas «Par
 
 | Referencia         | Hebreo local OE, normalizado sin nikud                                | TTH local                                                                                                                                   | Función en la lectura                                                                             |
 | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #bamidbar_30_2     | **איש כי ידר נדר ליהוה... ככל היוצא מפיו יעשה**                       | «Cuando un hombre promete un voto a יהוה... conforme a todo lo que salga de su boca, hará.»                                                 | El voto obliga y la palabra queda bajo la orden recibida.                                         |
-| #bamidbar_30_5, 8  | **ואם הניא אביה אתה ביום שמעו... והפר את נדרה**                       | «Si le impide su padre... יהוה la perdonará»; también el esposo puede impedirlo al oírlo.                                                   | La autoridad familiar está limitada por el momento de escucha y por la responsabilidad jurídica.  |
-| #bamidbar_31_2     | **נקם נקמת בני ישראל מאת המדינים**                                    | «Venga la venganza de los hijos de Israel referente a los midianim.»                                                                        | La guerra se presenta como encargo concreto contra Madián, no como licencia general de violencia. |
-| #bamidbar_32_20-24 | **אם תעשון את הדבר הזה... והיתה הארץ הזאת לכם לאחזה לפני יהוה**       | «Si hacen esta cosa... lo que ha salido de sus bocas, hagan.»                                                                               | Rubén y Gad deben cruzar primero y no abandonar a sus hermanos.                                   |
-| #bamidbar_33_1-2   | **אלה מסעי בני ישראל... ויכתב משה את מוצאיהם למסעיהם על פי יהוה**     | «Estas son las caminatas... por boca de יהוה.»                                                                                              | La memoria de las etapas se conserva como registro bajo la palabra de יהוה.                       |
-| #bamidbar_34_1-15  | **זאת הארץ אשר תפל לכם בנחלה ארץ כנען לגבלתיה... זאת נחלת בני ישראל** | «Esta es la tierra que caerá para ustedes en herencia, la tierra de Kenaan, con sus límites... esta es la herencia de los hijos de Israel.» | La promesa recibida se vuelve frontera administrable y reparto verificable.                       |
-| #bamidbar_35_11-15 | **והקריתם לכם ערי מקלט... לנוס שמה הרצח**                             | «Ciudades de refugio... podrá huir allí el asesino que hiera... con involuntariedad.»                                                       | Las ciudades de refugio distinguen protección provisional de venganza inmediata.                  |
-| #bamidbar_36_7-9   | **ולא תסב נחלה לבני ישראל ממטה אל מטה**                               | «No dará vueltas la herencia... de tribu a tribu.»                                                                                          | La herencia no debe desaparecer entre tribus por transferencias que rompan el reparto.            |
+| #numeros_30_2     | **איש כי ידר נדר ליהוה... ככל היוצא מפיו יעשה**                       | «Cuando un hombre promete un voto a יהוה... conforme a todo lo que salga de su boca, hará.»                                                 | El voto obliga y la palabra queda bajo la orden recibida.                                         |
+| #numeros_30_5, 8  | **ואם הניא אביה אתה ביום שמעו... והפר את נדרה**                       | «Si le impide su padre... יהוה la perdonará»; también el esposo puede impedirlo al oírlo.                                                   | La autoridad familiar está limitada por el momento de escucha y por la responsabilidad jurídica.  |
+| #numeros_31_2     | **נקם נקמת בני ישראל מאת המדינים**                                    | «Venga la venganza de los hijos de Israel referente a los midianim.»                                                                        | La guerra se presenta como encargo concreto contra Madián, no como licencia general de violencia. |
+| #numeros_32_20-24 | **אם תעשון את הדבר הזה... והיתה הארץ הזאת לכם לאחזה לפני יהוה**       | «Si hacen esta cosa... lo que ha salido de sus bocas, hagan.»                                                                               | Rubén y Gad deben cruzar primero y no abandonar a sus hermanos.                                   |
+| #numeros_33_1-2   | **אלה מסעי בני ישראל... ויכתב משה את מוצאיהם למסעיהם על פי יהוה**     | «Estas son las caminatas... por boca de יהוה.»                                                                                              | La memoria de las etapas se conserva como registro bajo la palabra de יהוה.                       |
+| #numeros_34_1-15  | **זאת הארץ אשר תפל לכם בנחלה ארץ כנען לגבלתיה... זאת נחלת בני ישראל** | «Esta es la tierra que caerá para ustedes en herencia, la tierra de Kenaan, con sus límites... esta es la herencia de los hijos de Israel.» | La promesa recibida se vuelve frontera administrable y reparto verificable.                       |
+| #numeros_35_11-15 | **והקריתם לכם ערי מקלט... לנוס שמה הרצח**                             | «Ciudades de refugio... podrá huir allí el asesino que hiera... con involuntariedad.»                                                       | Las ciudades de refugio distinguen protección provisional de venganza inmediata.                  |
+| #numeros_36_7-9   | **ולא תסב נחלה לבני ישראל ממטה אל מטה**                               | «No dará vueltas la herencia... de tribu a tribu.»                                                                                          | La herencia no debe desaparecer entre tribus por transferencias que rompan el reparto.            |
 
 ## Matot: una palabra que ata la vida
 
@@ -62,7 +62,7 @@ Bamidbar 30 comienza hablando a las cabezas de los **(מטות)**, _matot_. La f
 
 El hombre que hace un **(נדר)**, _neder_, «voto» o promesa solemne, y lo liga a una prohibición sobre su **(נפש)**, _nefesh_, no puede tratar su palabra como emoción pasajera. _Nefesh_ significa normalmente vida, persona o ser viviente; «alma» es una equivalencia tradicional y **aproximada**, no una prueba de que el pasaje describa una parte incorpórea separada del cuerpo. Eric explica la imagen como poner la garganta bajo obligación. La metáfora comunica el peso de comprometer la propia vida, pero el texto regula actos y palabras concretas.
 
-La clase enfatiza el gobierno del padre y del marido sobre ciertos votos de una mujer. El texto efectivamente establece condiciones de escucha, silencio y anulación, pero no autoriza a borrar las demás cláusulas: la anulación ocurre «en el día que oyó» y la mujer queda perdonada por la invalidación del voto (#bamidbar_30_6, 8, 12). Por tanto, «sujeción» es una formulación **interpretativa**, no una traducción exacta de cada versículo. El principio textual más amplio es que autoridad, silencio y palabra comprometida tienen consecuencias delante de יהוה.
+La clase enfatiza el gobierno del padre y del marido sobre ciertos votos de una mujer. El texto efectivamente establece condiciones de escucha, silencio y anulación, pero no autoriza a borrar las demás cláusulas: la anulación ocurre «en el día que oyó» y la mujer queda perdonada por la invalidación del voto (#numeros_30_6, 8, 12). Por tanto, «sujeción» es una formulación **interpretativa**, no una traducción exacta de cada versículo. El principio textual más amplio es que autoridad, silencio y palabra comprometida tienen consecuencias delante de יהוה.
 
 ## De guerra a reparto: responsabilidad compartida
 
@@ -103,12 +103,12 @@ La ciudad no convierte automáticamente al homicida en inocente. El texto distin
 
 | Unidad textual          | Observación concreta de la clase                                                                             | Tratamiento                                                                                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #bamidbar_30_1-8        | _Matot_ se entiende como varas/báculos y el voto compromete la vida; la autoridad paterna puede invalidarlo. | Clarificación léxica y apoyo textual; la aplicación de «sujeción» queda cualificada por las condiciones del capítulo.                                                             |
-| #bamidbar_30_9-16       | La autoridad del hombre protege el orden de la casa y la palabra no debe profanarse.                         | Inferencia cualificada: se conserva la regulación de votos, sin presentar la formulación social de la clase como traducción literal.                                              |
-| #bamidbar_32_20-24      | La posesión de Rubén y Gad depende de luchar junto al pueblo y no abandonar a los hermanos.                  | Apoyo textual: la unidad comunitaria está explícita en la promesa de cruzar delante.                                                                                              |
-| #bamidbar_33_1-2; 35–36 | El cierre del libro debe leerse como memoria, orden territorial y continuidad de la herencia.                | Desarrollo canónico en orden textual; las conexiones más amplias quedan pendientes de verificación.                                                                               |
-| #bamidbar_34_1-15       | La tierra prometida debe reconocerse por sus límites y por servidores encargados de repartirla.              | Apoyo textual y clarificación léxica: _gevul_ y _najaláh_ describen un reparto concreto, no una metáfora ilimitada.                                                               |
-| #bamidbar_30–36         | Las decisiones deben concertarse para preservar la unidad.                                                   | La observación del segundo video recibe apoyo cualificado: el texto exige acuerdos verificables, promesas cumplidas y participación común, no uniformidad ni control sin límites. |
+| #numeros_30_1-8        | _Matot_ se entiende como varas/báculos y el voto compromete la vida; la autoridad paterna puede invalidarlo. | Clarificación léxica y apoyo textual; la aplicación de «sujeción» queda cualificada por las condiciones del capítulo.                                                             |
+| #numeros_30_9-16       | La autoridad del hombre protege el orden de la casa y la palabra no debe profanarse.                         | Inferencia cualificada: se conserva la regulación de votos, sin presentar la formulación social de la clase como traducción literal.                                              |
+| #numeros_32_20-24      | La posesión de Rubén y Gad depende de luchar junto al pueblo y no abandonar a los hermanos.                  | Apoyo textual: la unidad comunitaria está explícita en la promesa de cruzar delante.                                                                                              |
+| #numeros_33_1-2; 35–36 | El cierre del libro debe leerse como memoria, orden territorial y continuidad de la herencia.                | Desarrollo canónico en orden textual; las conexiones más amplias quedan pendientes de verificación.                                                                               |
+| #numeros_34_1-15       | La tierra prometida debe reconocerse por sus límites y por servidores encargados de repartirla.              | Apoyo textual y clarificación léxica: _gevul_ y _najaláh_ describen un reparto concreto, no una metáfora ilimitada.                                                               |
+| #numeros_30–36         | Las decisiones deben concertarse para preservar la unidad.                                                   | La observación del segundo video recibe apoyo cualificado: el texto exige acuerdos verificables, promesas cumplidas y participación común, no uniformidad ni control sin límites. |
 
 ## La unidad se verifica en una promesa costosa
 
@@ -122,15 +122,15 @@ La respuesta de Mosheh conserva también el cuidado doméstico: «edifíquense c
 
 ## Conexiones principales
 
-- #shemot_12_14 — la memoria ordenada de la liberación ilumina, sin sustituir, el registro de las partidas.
-- #devarim_19_1-13 — desarrolla la distinción entre homicidio involuntario y asesinato que Bamidbar 35 presupone.
+- #exodo_12_14 — la memoria ordenada de la liberación ilumina, sin sustituir, el registro de las partidas.
+- #deuteronomio_19_1-13 — desarrolla la distinción entre homicidio involuntario y asesinato que Bamidbar 35 presupone.
 - [[bamidbar_31_parashot_2017|Bamidbar 31: guerra, purificación y responsabilidad del pueblo]].
 
 ## Pendiente de verificar
 
 ## La palabra comprometida y la unidad que se prueba
 
-La segunda clase, `youtube:j2lf7LdAJn0`, presenta Matot-Mas'ey como una sección donde las decisiones deben concertarse para preservar la unidad. Eric relaciona esa idea con la transición desde las leyes de los votos hacia la guerra y el reparto. La conexión es una lectura temática **aproximada**, pero el texto sí construye una cadena: «este es el asunto que ordenó יהוה» (#bamidbar_30_2), una palabra comprometida, una obligación común y, después, la exigencia de que Rubén y Gad crucen con sus hermanos (#bamidbar_32_20-24).
+La segunda clase, `youtube:j2lf7LdAJn0`, presenta Matot-Mas'ey como una sección donde las decisiones deben concertarse para preservar la unidad. Eric relaciona esa idea con la transición desde las leyes de los votos hacia la guerra y el reparto. La conexión es una lectura temática **aproximada**, pero el texto sí construye una cadena: «este es el asunto que ordenó יהוה» (#numeros_30_2), una palabra comprometida, una obligación común y, después, la exigencia de que Rubén y Gad crucen con sus hermanos (#numeros_32_20-24).
 
 El verbo **(דבר)**, _davar_, puede significar hablar, asunto o palabra; en «este es el asunto» su fuerza contextual es el contenido normativo comunicado por Moshéh. «Plan de consenso» es **pedagógico**, no una traducción exacta. La unidad de la que habla Eric no nace de que todos deseen lo mismo, sino de que la petición particular de las tribus orientales queda condicionada por una responsabilidad pública: «no volveremos a nuestras casas hasta que los hijos de Israel hayan heredado cada uno su herencia» (32:18).
 
@@ -138,7 +138,7 @@ La clase observa además que un voto no se hace primero ante la autoridad humana
 
 En el tramo sobre la guerra, Eric conecta los compromisos de hombres y mujeres con conflictos concretos de intereses. Esa observación debe tratarse con cuidado: Bamidbar 31 narra una guerra contra Madián dentro de la historia de Peor, y no establece una licencia general para tomar mujeres ni para imponer el modelo doméstico de la clase. El texto exige separar las unidades. **(נחל)**, _najal_, significa heredar o recibir como herencia; en 32:18 y 36:2 la herencia es un reparto territorial específico, no una metáfora automática de control familiar. «Posesión espiritual» sería **pedagógica** y demasiado amplia.
 
-La unidad se verifica finalmente por el costo que cada grupo acepta. Rubén y Gad pueden recibir la tierra solicitada, pero deben ir armados delante de sus hermanos; si no cumplen, su pecado los alcanzará (#bamidbar_32_20-24). **(ידע)**, _yada_, significa conocer, reconocer o tener conocimiento; «sepan que su pecado los hallará» expresa una consecuencia reconocible, aunque «culpa que persigue» es **pedagógica**. Eric acierta al hablar de decisiones concertadas cuando la concertación incluye promesa, presencia y rendición de cuentas. No es uniformidad: es una diferencia permitida bajo una obligación compartida.
+La unidad se verifica finalmente por el costo que cada grupo acepta. Rubén y Gad pueden recibir la tierra solicitada, pero deben ir armados delante de sus hermanos; si no cumplen, su pecado los alcanzará (#numeros_32_20-24). **(ידע)**, _yada_, significa conocer, reconocer o tener conocimiento; «sepan que su pecado los hallará» expresa una consecuencia reconocible, aunque «culpa que persigue» es **pedagógica**. Eric acierta al hablar de decisiones concertadas cuando la concertación incluye promesa, presencia y rendición de cuentas. No es uniformidad: es una diferencia permitida bajo una obligación compartida.
 
 Por tanto, la exposición queda evaluada en dos niveles. Es **textualmente exacto** que el capítulo regula votos, exige cumplir la palabra y condiciona la posesión oriental a cruzar con Israel. Es **teológico y aproximado** afirmar que toda unidad comunitaria funciona mediante el mismo modelo o que las relaciones de varón y mujer quedan resueltas por la fórmula de la clase. La perícopa preserva la observación de Eric, pero la somete a sus límites jurídicos, narrativos y de protección de la herencia.
 

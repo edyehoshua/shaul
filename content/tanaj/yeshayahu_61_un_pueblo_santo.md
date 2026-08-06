@@ -10,9 +10,9 @@ tags:
   - santidad
   - restauracion
 references:
-  - "#ieshaiahu_61_1-3"
-  - "#ieshaiahu_61_4-7"
-  - "#ieshaiahu_61_8-11"
+  - "#isaias_61_1-3"
+  - "#isaias_61_4-7"
+  - "#isaias_61_8-11"
 sources:
   - "https://www.youtube.com/watch?v=4RxX_pGV8Lc"
   - "docs/scriptures/oe/json/isaiah/61.json"
@@ -46,7 +46,7 @@ El hermano Eric de Jesús Rodríguez Mendoza es el expositor acreditado de la en
 | Isaías 61:8-9        | La santidad se relaciona con justicia y con un testimonio que las naciones pueden reconocer.                   | Apoyo textual y aclaración: יהוה ama el juicio y la descendencia es conocida entre los pueblos.          |
 | Isaías 61:10-11      | La restauración termina en gozo y en justicia que יהוה hace brotar delante de las naciones.                    | Apoyo textual: vestido, boda, jardín y crecimiento agrícola expresan una justicia pública y vivificante. |
 
-## 61:1-3: unción para sanar y anunciar #ieshaiahu_61_1-3
+## 61:1-3: unción para sanar y anunciar #isaias_61_1-3
 
 El capítulo comienza con **רוח אדני יהוה עלי**, «el espíritu del Señor יהוה está sobre mí». La razón se expresa con una cadena de misiones: anunciar buenas noticias a los humildes, vendar a los quebrantados de corazón, proclamar libertad a los cautivos y abrir la prisión a los atados. La santidad que la clase relaciona con el pueblo no aparece primero como separación ceremonial, sino como participación en una obra de reparación que viene de יהוה.
 
@@ -54,7 +54,7 @@ El v. 2 nombra el año de favor de יהוה y el día de venganza de nuestro Elo
 
 **צדק**, _tsedeq_, comunica justicia o rectitud; «árboles de justicia» es una imagen poética de personas establecidas en una condición que manifiesta la obra de יהוה. La equivalencia con «santidad» es aproximada y pedagógica, no exacta: el término del texto enfatiza justicia, mientras la clase usa «pueblo apartado» para resumir pertenencia y vocación.
 
-## 61:4-7: reedificar ruinas y servir como sacerdotes #ieshaiahu_61_4-7
+## 61:4-7: reedificar ruinas y servir como sacerdotes #isaias_61_4-7
 
 Los restaurados «edificarán las ruinas antiguas», levantarán desolaciones anteriores y renovarán ciudades devastadas por generaciones. La santidad no queda encerrada en una experiencia interior; se ve en la reconstrucción de lugares y de una vida comunitaria. El v. 5 añade una distribución de tareas: extranjeros pastorearán los rebaños y personas de otras naciones trabajarán los campos y viñas. El pasaje imagina una restauración histórica con responsabilidades concretas, no una licencia para despreciar al extranjero.
 
@@ -62,13 +62,13 @@ El v. 6 nombra la identidad: **ואתם כהני יהוה תקראו**, «ustede
 
 En el v. 7 la vergüenza recibe una doble porción y la confusión se transforma en grito de alegría. La palabra **כבוד**, honor o gloria, aparece en relación con lo que antes produjo deshonra. La restauración no borra la memoria del sufrimiento, pero la reordena bajo la promesa de «gozo perpetuo».
 
-## 61:8-9: יהוה ama la justicia y hace visible a su pueblo #ieshaiahu_61_8-9
+## 61:8-9: יהוה ama la justicia y hace visible a su pueblo #isaias_61_8-9
 
 La base ética de la promesa está en la declaración divina: **אני יהוה אהב משפט שנא גזל בעולה**, «yo, יהוה, amo la justicia; odio el robo con injusticia». Aquí el capítulo no deja que «pueblo santo» se vuelva un eslogan. La santidad está ligada al juicio recto y al rechazo de la violencia religiosa o económica. יהוה promete dar su obra en verdad y establecer un pacto perpetuo.
 
 Los descendientes serán conocidos entre las naciones; todos los que los vean reconocerán que son una descendencia bendecida por יהוה. El testimonio es público y verificable. La enseñanza de Eric sobre un pueblo apartado se trata, por tanto, como una identidad que debe ser reconocible por su justicia y por su relación con יהוה, no por una afirmación de superioridad.
 
-## 61:10-11: vestido, jardín y justicia que brota #ieshaiahu_61_10-11
+## 61:10-11: vestido, jardín y justicia que brota #isaias_61_10-11
 
 La voz responde con gozo intenso: **שוש אשיש ביהוה**, «me alegraré mucho en יהוה». La persona es vestida con «vestidos de salvación» y «manto de justicia», como novio y novia que se adornan. **ישע**, _yesha_, puede expresar salvación o liberación; **צדקה**, _tsedaqáh_, justicia o rectitud. La asociación de la clase entre santidad y justicia es aquí pertinente como tratamiento teológico, pero los términos conservan sus campos propios: salvación habla de rescate y justicia de una condición recta que se hace visible.
 

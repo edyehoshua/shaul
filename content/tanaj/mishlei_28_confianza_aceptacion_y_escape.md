@@ -4,13 +4,13 @@ description: "Mishlei 28:24-28 contrasta el deseo que provoca juicio con la conf
 date: 2026-08-05
 tags: [mishlei, mishlei_28, confianza, sabiduria, justicia, generosidad]
 references:
-  - "#mishlei_28_24"
-  - "#mishlei_28_25"
-  - "#mishlei_28_26"
-  - "#mishlei_28_27"
-  - "#mishlei_28_28"
-  - "#tehilim_23_5"
-  - "#yoel_3_5"
+  - "#proverbios_28_24"
+  - "#proverbios_28_25"
+  - "#proverbios_28_26"
+  - "#proverbios_28_27"
+  - "#proverbios_28_28"
+  - "#salmos_23_5"
+  - "#joel_3_5"
   - "#romanos_10_12"
   - "#romanos_10_13"
 sources:
@@ -34,11 +34,11 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_28_24 | גוזל אביו ואמו ואמר אין פשע חבר הוא לאיש משחית | El que saquea a su padre y a su madre, y dice: “No hay transgresión”, es compañero del hombre de destrucción. |
-| #mishlei_28_25 | רחב נפש יגרה מדון ובוטח על יהוה ידשן | El ancho de garganta provoca contienda, pero el que confía en יהוה será acepto. |
-| #mishlei_28_26 | בוטח בלבו הוא כסיל והולך בחכמה הוא ימלט | El que confía en su corazón es indisciplinado, y el que anda en sabiduría, él escapará. |
-| #mishlei_28_27 | נותן לרש אין מחסור ומעלים עיניו רב מארות | El que da al pobre no tendrá escasez, pero el que esconde sus ojos, es grande de execraciones. |
-| #mishlei_28_28 | בקום רשעים יסתר אדם ובאבדם ירבו צדיקים | En el levantar de los condenados, será ocultado el hombre, pero en el perecer de ellos, serán engrandecidos los justificados. |
+| #proverbios_28_24 | גוזל אביו ואמו ואמר אין פשע חבר הוא לאיש משחית | El que saquea a su padre y a su madre, y dice: “No hay transgresión”, es compañero del hombre de destrucción. |
+| #proverbios_28_25 | רחב נפש יגרה מדון ובוטח על יהוה ידשן | El ancho de garganta provoca contienda, pero el que confía en יהוה será acepto. |
+| #proverbios_28_26 | בוטח בלבו הוא כסיל והולך בחכמה הוא ימלט | El que confía en su corazón es indisciplinado, y el que anda en sabiduría, él escapará. |
+| #proverbios_28_27 | נותן לרש אין מחסור ומעלים עיניו רב מארות | El que da al pobre no tendrá escasez, pero el que esconde sus ojos, es grande de execraciones. |
+| #proverbios_28_28 | בקום רשעים יסתר אדם ובאבדם ירבו צדיקים | En el levantar de los condenados, será ocultado el hombre, pero en el perecer de ellos, serán engrandecidos los justificados. |
 
 ## El deseo ancho se convierte en sentencia
 
@@ -72,9 +72,9 @@ El verso 28 contempla el levantamiento de los condenados y el crecimiento de los
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_28_24-25 | El saqueo negado y la garganta ancha muestran apropiación, deseo y sentencia. | Contraste textual apoyado; lectura de padre/madre y etimología de _madón_ calificadas. |
-| #mishlei_28_25-26 | Confiar en יהוה produce aceptación; confiar en el corazón define al indisciplinado; caminar en sabiduría trae escape. | Distinciones léxicas y contraste apoyados; puente con Tehilim 23, Yoel y Romanos cualificado. |
-| #mishlei_28_27-28 | Dar al pobre evita escasez; esconder los ojos trae maldición; la caída de los condenados precede el engrandecimiento de los justificados. | Exhortación social apoyada; aplicación escatológica atribuida. |
+| #proverbios_28_24-25 | El saqueo negado y la garganta ancha muestran apropiación, deseo y sentencia. | Contraste textual apoyado; lectura de padre/madre y etimología de _madón_ calificadas. |
+| #proverbios_28_25-26 | Confiar en יהוה produce aceptación; confiar en el corazón define al indisciplinado; caminar en sabiduría trae escape. | Distinciones léxicas y contraste apoyados; puente con Tehilim 23, Yoel y Romanos cualificado. |
+| #proverbios_28_27-28 | Dar al pobre evita escasez; esconder los ojos trae maldición; la caída de los condenados precede el engrandecimiento de los justificados. | Exhortación social apoyada; aplicación escatológica atribuida. |
 
 ## Pendiente de verificar
 

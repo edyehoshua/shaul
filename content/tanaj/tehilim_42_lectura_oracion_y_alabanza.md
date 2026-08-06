@@ -9,12 +9,12 @@ tags:
   - sed
   - esperanza
 references:
-  - "#tehilim_42_1"
-  - "#tehilim_42_2"
-  - "#tehilim_42_4"
-  - "#tehilim_42_6"
-  - "#tehilim_42_8"
-  - "#tehilim_42_12"
+  - "#salmos_42_1"
+  - "#salmos_42_2"
+  - "#salmos_42_4"
+  - "#salmos_42_6"
+  - "#salmos_42_8"
+  - "#salmos_42_12"
 sources:
   - "https://www.youtube.com/watch?v=YHmY5aAU46Q"
   - "docs/scriptures/oe/json/psalms/42.json"
@@ -86,11 +86,11 @@ El v. 12 repite y modifica el estribillo: **מה תשתוחחי נפשי ומה 
 
 | Tramo                                            | Observación concreta de Eric                                                                                                                      | Prueba y calificación                                                                                                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Encabezado, #tehilim_42_1; `youtube:YHmY5aAU46Q` | Eric cuestiona dar por segura la lectura “director del coro”, explora “victorioso” y presenta _maskil_ como un concientizador.                    | El valor técnico del encabezado queda **pendiente**; la relación de _maskil_ con comprensión y conciencia es **aproximada y pedagógica**.                               |
-| #tehilim_42_2-3; `youtube:YHmY5aAU46Q`           | El ciervo busca canales de agua para sobrevivir; esa necesidad material ilumina la sed de la vida por el Elohim vivo y el deseo de ver su rostro. | Apoyo textual **directo** en la comparación y en “Elohim vivo”; los datos sobre canales antiguos son contexto histórico **aproximado**.                                 |
-| #tehilim_42_4-6; `youtube:YHmY5aAU46Q`           | Eric lee las lágrimas como el alimento del orante en un desierto sin agua y usa el estribillo para ordenar a la propia vida que espere a Elohim.  | Apoyo textual **directo y cualificado**: lágrimas, burla, memoria y estribillo están en orden; el desierto psicológico es aplicación.                                   |
-| #tehilim_42_7-9; `youtube:YHmY5aAU46Q`           | Los abismos y canales evocan conducciones de agua y quebrantos que pasan sobre el orante; aun así, de día hay misericordia y de noche oración.    | La imagen de aguas y quebrantos es **directa**; la reconstrucción arqueológica de canales subterráneos es **pedagógica**, y el contraste día/noche sostiene la lectura. |
-| #tehilim_42_10-12; `youtube:YHmY5aAU46Q`         | La presión del enemigo no cancela la esperanza: la vida abatida debe esperar porque todavía confesará las salvaciones de Elohim y su rostro.      | Apoyo textual **directo** en la repetición; explicar la salvación como cumplimiento mesiánico es **canónico y aproximado**.                                             |
+| Encabezado, #salmos_42_1; `youtube:YHmY5aAU46Q` | Eric cuestiona dar por segura la lectura “director del coro”, explora “victorioso” y presenta _maskil_ como un concientizador.                    | El valor técnico del encabezado queda **pendiente**; la relación de _maskil_ con comprensión y conciencia es **aproximada y pedagógica**.                               |
+| #salmos_42_2-3; `youtube:YHmY5aAU46Q`           | El ciervo busca canales de agua para sobrevivir; esa necesidad material ilumina la sed de la vida por el Elohim vivo y el deseo de ver su rostro. | Apoyo textual **directo** en la comparación y en “Elohim vivo”; los datos sobre canales antiguos son contexto histórico **aproximado**.                                 |
+| #salmos_42_4-6; `youtube:YHmY5aAU46Q`           | Eric lee las lágrimas como el alimento del orante en un desierto sin agua y usa el estribillo para ordenar a la propia vida que espere a Elohim.  | Apoyo textual **directo y cualificado**: lágrimas, burla, memoria y estribillo están en orden; el desierto psicológico es aplicación.                                   |
+| #salmos_42_7-9; `youtube:YHmY5aAU46Q`           | Los abismos y canales evocan conducciones de agua y quebrantos que pasan sobre el orante; aun así, de día hay misericordia y de noche oración.    | La imagen de aguas y quebrantos es **directa**; la reconstrucción arqueológica de canales subterráneos es **pedagógica**, y el contraste día/noche sostiene la lectura. |
+| #salmos_42_10-12; `youtube:YHmY5aAU46Q`         | La presión del enemigo no cancela la esperanza: la vida abatida debe esperar porque todavía confesará las salvaciones de Elohim y su rostro.      | Apoyo textual **directo** en la repetición; explicar la salvación como cumplimiento mesiánico es **canónico y aproximado**.                                             |
 
 ## Léxico clave
 

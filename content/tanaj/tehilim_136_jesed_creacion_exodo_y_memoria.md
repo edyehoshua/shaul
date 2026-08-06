@@ -10,11 +10,11 @@ tags:
   - memoria
   - eric-youtube
 references:
-  - "#tehilim_136_1-9"
-  - "#tehilim_136_10-16"
-  - "#tehilim_136_17-22"
-  - "#tehilim_136_23-26"
-  - "#shemot_12_51"
+  - "#salmos_136_1-9"
+  - "#salmos_136_10-16"
+  - "#salmos_136_17-22"
+  - "#salmos_136_23-26"
+  - "#exodo_12_51"
   - "#mateo_26_30"
 sources:
   - "https://www.youtube.com/watch?v=Cd4qLmlWvDM"
@@ -36,12 +36,12 @@ La nota sigue los veintiséis versos en cuatro movimientos. Conserva la observac
 
 | Unidad             | Texto local (OE, hebreo sin segmentación)                                                                                                                                                                                                                                                                              | Movimiento                                                             |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| #tehilim_136_1-9   | **הודו ליהוה כי טוב כי לעולם חסדו הודו לאלהי האלהים כי לעולם חסדו הודו לאדני האדנים כי לעולם חסדו לעשה נפלאות גדלות לבדו כי לעולם חסדו לעשה השמים בתבונה כי לעולם חסדו לרקע הארץ על המים כי לעולם חסדו לעשה אורים גדלים כי לעולם חסדו את השמש לממשלת ביום כי לעולם חסדו את הירח והכוכבים לממשלות בלילה כי לעולם חסדו** | Bondad, señorío, maravillas, cielos, tierra y luminarias.              |
-| #tehilim_136_10-16 | **למכה מצרים בבכוריהם כי לעולם חסדו ויוצא ישראל מתוכם כי לעולם חסדו ביד חזקה ובזרוע נטויה כי לעולם חסדו לגזר ים סוף לגזרים כי לעולם חסדו והעביר ישראל בתוכו כי לעולם חסדו ונער פרעה וחילו בים סוף כי לעולם חסדו למוליך עמו במדבר כי לעולם חסדו**                                                                       | Juicio sobre Egipto, salida, mar dividido y conducción en el desierto. |
-| #tehilim_136_17-22 | **למכה מלכים גדלים כי לעולם חסדו ויהרג מלכים אדירים כי לעולם חסדו לסיחון מלך האמרי כי לעולם חסדו ולעוג מלך הבשן כי לעולם חסדו ונתן ארצם לנחלה כי לעולם חסדו נחלה לישראל עבדו כי לעולם חסדו**                                                                                                                           | Derrota de reyes y entrega de la tierra como herencia.                 |
-| #tehilim_136_23-26 | **שבשפלנו זכר לנו כי לעולם חסדו ויפרקנו מצרינו כי לעולם חסדו נתן לחם לכל בשר כי לעולם חסדו הודו לאל השמים כי לעולם חסדו**                                                                                                                                                                                              | Recuerdo en la humillación, rescate, alimento y cierre universal.      |
+| #salmos_136_1-9   | **הודו ליהוה כי טוב כי לעולם חסדו הודו לאלהי האלהים כי לעולם חסדו הודו לאדני האדנים כי לעולם חסדו לעשה נפלאות גדלות לבדו כי לעולם חסדו לעשה השמים בתבונה כי לעולם חסדו לרקע הארץ על המים כי לעולם חסדו לעשה אורים גדלים כי לעולם חסדו את השמש לממשלת ביום כי לעולם חסדו את הירח והכוכבים לממשלות בלילה כי לעולם חסדו** | Bondad, señorío, maravillas, cielos, tierra y luminarias.              |
+| #salmos_136_10-16 | **למכה מצרים בבכוריהם כי לעולם חסדו ויוצא ישראל מתוכם כי לעולם חסדו ביד חזקה ובזרוע נטויה כי לעולם חסדו לגזר ים סוף לגזרים כי לעולם חסדו והעביר ישראל בתוכו כי לעולם חסדו ונער פרעה וחילו בים סוף כי לעולם חסדו למוליך עמו במדבר כי לעולם חסדו**                                                                       | Juicio sobre Egipto, salida, mar dividido y conducción en el desierto. |
+| #salmos_136_17-22 | **למכה מלכים גדלים כי לעולם חסדו ויהרג מלכים אדירים כי לעולם חסדו לסיחון מלך האמרי כי לעולם חסדו ולעוג מלך הבשן כי לעולם חסדו ונתן ארצם לנחלה כי לעולם חסדו נחלה לישראל עבדו כי לעולם חסדו**                                                                                                                           | Derrota de reyes y entrega de la tierra como herencia.                 |
+| #salmos_136_23-26 | **שבשפלנו זכר לנו כי לעולם חסדו ויפרקנו מצרינו כי לעולם חסדו נתן לחם לכל בשר כי לעולם חסדו הודו לאל השמים כי לעולם חסדו**                                                                                                                                                                                              | Recuerdo en la humillación, rescate, alimento y cierre universal.      |
 
-## La respuesta que sostiene todo — 136:1-9 #tehilim_136_1-9
+## La respuesta que sostiene todo — 136:1-9 #salmos_136_1-9
 
 Eric llama la atención sobre la forma excepcional del salmo: veintiséis versos y una respuesta que vuelve después de cada acto. El texto local confirma que **חסד**, _hesed_, aparece en todos los estribillos. Su sentido normal incluye bondad leal, misericordia y fidelidad de pacto; en este contexto fuerza al pueblo a interpretar creación y liberación dentro de la constancia de יהוה. Traducirlo solo como una emoción de «amor» sería demasiado estrecho; «misericordia» o «bondad leal» son aproximaciones castellanas.
 
@@ -49,13 +49,13 @@ Los vv. 1-3 convocan a dar gracias porque יהוה es bueno y está por encima d
 
 En los vv. 7-9 aparecen las grandes luminarias: sol para gobernar el día, luna y estrellas para gobernar la noche. La lectura de Eric vincula estas luces con el orden que יהוה establece y con la diferencia entre gobierno creado y adoración idolátrica. La palabra **ממשלה**, _memshalah_, significa dominio o gobierno; su fuerza aquí describe función en el orden creado, no divinidad. La aplicación contra idolatrar astros es canónica y pedagógica; el verso afirma directamente su designación para el día y la noche.
 
-## El éxodo como memoria repetida — 136:10-16 #tehilim_136_10-16
+## El éxodo como memoria repetida — 136:10-16 #salmos_136_10-16
 
 La segunda sección recuerda que יהוה golpeó a Egipto en sus primogénitos, sacó a Israel, lo hizo con mano fuerte y brazo extendido, dividió el mar de Suf y condujo al pueblo por él. Eric lee esta unidad como una sola progresión: la liberación no termina en la salida, sino que incluye atravesar el agua y ser guiados en el desierto. El texto mantiene la misma respuesta después de cada paso, de modo que juicio, rescate y conducción quedan bajo el mismo hesed.
 
 **יצא**, _yatsa_, significa salir o sacar, y **עבר**, _avar_, pasar o hacer pasar. En contexto, las formas narran una acción histórica de יהוה sobre Israel; la relación con «Dios no abandona a mitad del proceso» es una aplicación pastoral aproximada. **גזר**, _gazar_, significa cortar o dividir, por lo que «dividió el mar en partes» conserva la imagen del verbo. Eric conecta esta escena con la entrega de la Torah y con la restauración pendiente que la historia bíblica va precisando. Esa lectura canónica puede acompañar al salmo, pero los vv. 10-16 se concentran en Egipto, el mar y el desierto.
 
-## Reyes, herencia y el presente — 136:17-26 #tehilim_136_17-26
+## Reyes, herencia y el presente — 136:17-26 #salmos_136_17-26
 
 Los vv. 17-22 enumeran a Sijón y Og entre los reyes derrotados y repiten que la tierra fue dada por herencia a Israel, su siervo. Eric insiste en que la memoria no es una colección de nombres muertos: recuerda que la promesa llega a un pueblo concreto. **נחלה**, _nachalah_, significa herencia, posesión heredada o porción; aquí la fuerza es territorial y pactual. La aplicación a una herencia espiritual es posible dentro de una lectura canónica, pero no debe borrar la referencia local a la tierra.
 

@@ -16,11 +16,11 @@ references:
   - "#oseas_12_4"
   - "#oseas_12_5"
   - "#oseas_12_6"
-  - "#bereshit_32_23"
-  - "#bereshit_32_25"
-  - "#bereshit_32_27"
-  - "#bereshit_32_29"
-  - "#bereshit_49_10"
+  - "#genesis_32_23"
+  - "#genesis_32_25"
+  - "#genesis_32_27"
+  - "#genesis_32_29"
+  - "#genesis_49_10"
 sources:
   - "https://www.youtube.com/watch?v=Aly9Mvp-Nts"
   - "docs/scriptures/oe/json/hosea/12.json"
@@ -56,7 +56,7 @@ El mismo tramo contrasta a Efraín con Yehudáh: Yehudáh todavía gobierna con 
 
 El texto local dice: “En el vientre tomó por el talón a su hermano, y en su vigor luchó con Elohim” (#oseas_12_3-4). Luego afirma que luchó con un mensajero, prevaleció, lloró y pidió su favor; lo encontró en Betel, y allí habló con nosotros (#oseas_12_5-6). Eric destaca el movimiento de la memoria: Oseas retrocede aproximadamente mil años para mostrar que la identidad de Israel no nace de una etiqueta moderna, sino de una historia de confrontación y bendición.
 
-Bereshit 32 concreta la escena. Yaakov hace pasar el torrente a sus mujeres, siervas, hijos y posesiones; después “queda solo” y un hombre lucha con él hasta subir la aurora (#bereshit_32_23-25). Cuando el hombre toca su muslo, Yaakov no lo suelta: “No te enviaré si no me bendices” (#bereshit_32_26-27). A la pregunta por su nombre responde “Yaakov”, y recibe “Israel”, porque contendió con Elohim y con hombres y prevaleció (#bereshit_32_28-29).
+Bereshit 32 concreta la escena. Yaakov hace pasar el torrente a sus mujeres, siervas, hijos y posesiones; después “queda solo” y un hombre lucha con él hasta subir la aurora (#genesis_32_23-25). Cuando el hombre toca su muslo, Yaakov no lo suelta: “No te enviaré si no me bendices” (#genesis_32_26-27). A la pregunta por su nombre responde “Yaakov”, y recibe “Israel”, porque contendió con Elohim y con hombres y prevaleció (#genesis_32_28-29).
 
 Eric usa la escena para corregir una lectura triunfalista. El forcejeo no convierte a Yaakov en una divinidad ni en un hombre autosuficiente; el punto decisivo es que, herido y al amanecer, sigue pidiendo bendición. La identidad de Israel queda ligada a la perseverancia ante Elohim y a la dependencia de su favor. En Oseas, Efraín debe recordar esa verdad antes de presumir de riqueza, alianzas o superioridad religiosa.
 
@@ -93,8 +93,8 @@ Eric también advierte contra dos extremos: exigir que quien viene de las nacion
 | #oseas_12_3-6             | Oseas trae a la memoria el talón, la lucha, el llanto y la petición de bendición de Yaakov.                | Se sigue el orden profético y se contrasta con Bereshit 32.                                    |
 | #oseas_12_2-3             | Efraín usa palabras aduladoras, mientras Yehudáh también queda bajo examen por sus caminos y obras.        | Se rechaza tanto la religiosidad que encubre la culpa como la idealización del reino del sur.  |
 | #oseas_12_6-7             | El recuerdo desemboca en volver a Elohim, guardar misericordia y juicio, y esperar en él.                  | La memoria de Yaakov se trata como llamado práctico a la fidelidad, no como orgullo de linaje. |
-| #bereshit_32_23-29        | Yaakov queda solo, lucha hasta la aurora y no suelta al mensajero sin bendición.                           | Se explica la identidad de Israel como perseverancia dependiente, no como autosuficiencia.     |
-| #bereshit_49_10           | El cetro de Yehudáh permanece hasta Shiloh y los pueblos se congregan a él.                                | Se conserva como marco de la promesa sin borrar la existencia profética de Efraín.             |
+| #genesis_32_23-29        | Yaakov queda solo, lucha hasta la aurora y no suelta al mensajero sin bendición.                           | Se explica la identidad de Israel como perseverancia dependiente, no como autosuficiencia.     |
+| #genesis_49_10           | El cetro de Yehudáh permanece hasta Shiloh y los pueblos se congregan a él.                                | Se conserva como marco de la promesa sin borrar la existencia profética de Efraín.             |
 | Casas del norte y del sur | Reducir todo Israel a Yehudáh desmiembra el cuerpo; imponer o prohibir cultura no es el centro de la Torá. | Se registra como aplicación comunitaria atribuida y subordinada a la distinción textual.       |
 
 ## Conclusión

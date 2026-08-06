@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_80_1"
-  - "#tehilim_80_20"
+  - "#salmos_80_1"
+  - "#salmos_80_20"
 sources:
   - "https://www.youtube.com/watch?v=lVYImIjmILs"
   - "docs/scriptures/oe/json/psalms/80.json"
@@ -30,10 +30,10 @@ Esta nota canónica reúne la fuente disponible para Tehilim 80. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                 | Observación de lectura                                               |
 | -------------- | --------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_80_1  | למנצח אל ששנים עדות לאסף מזמור          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_80_20 | יהוה אלהים צבאות השיבנו האר פניך ונושעה | El verso final permite observar el cierre de la composición.         |
+| #salmos_80_1  | למנצח אל ששנים עדות לאסף מזמור          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_80_20 | יהוה אלהים צבאות השיבנו האר פניך ונושעה | El verso final permite observar el cierre de la composición.         |
 
-## El pastor y el rostro oculto — Tehilim 80:1-8 #tehilim_80_1-8
+## El pastor y el rostro oculto — Tehilim 80:1-8 #salmos_80_1-8
 
 El encabezado sitúa el canto «לאסף» y la primera invocación es una imagen pastoral: «רעה ישראל האזינה נהג כצאן יוסף» (v. 2), «Pastor de Israel, escucha; tú que conduces como rebaño a José». Eric empieza por esa tensión: el que conduce a Israel también parece guardar silencio ante el dolor. La imagen no autoriza a separar al pastor del pueblo; el texto lo nombra como quien se sienta sobre los querubines y debe «hacer brillar» su presencia.
 
@@ -41,7 +41,7 @@ La petición se repite en vv. 4, 8 y 20: «אלהים השיבנו והאר פנ
 
 Entre los estribillos, los vv. 5-7 describen lágrimas y hostilidad: יהוה ha dado a comer «לחם דמעה» y beber lágrimas, y ha puesto al pueblo por motivo de disputa entre vecinos. Eric conserva la pregunta «עד מתי עשנת בתפלת עמך», «¿hasta cuándo humearás contra la oración de tu pueblo?», como una queja dirigida a יהוה sin abandonar la oración. El texto permite esa doble postura: protesta («עשנת», humo/ira) y petición de restauración aparecen juntas.
 
-## La vid sacada de Egipto — Tehilim 80:9-17 #tehilim_80_9-17
+## La vid sacada de Egipto — Tehilim 80:9-17 #salmos_80_9-17
 
 El poema cambia a la metáfora vegetal: «גפן ממצרים תסיע» (v. 9), «una vid arrancaste de Egipto». Eric lee la secuencia completa, no sólo la imagen de prosperidad: יהוה expulsó naciones, plantó la vid, limpió delante de ella y sus ramas llenaron la tierra (vv. 9-12). La memoria del éxodo y de la plantación hace de Israel una obra recibida, no una autosuficiencia nacional.
 
@@ -49,7 +49,7 @@ La vid se extiende desde los montes hasta el río (vv. 11-12), pero sus cercas q
 
 Los vv. 15-17 vuelven a pedir inspección: «שוב נא הבט משמים וראה ופקד גפן זאת», «vuelve, mira desde los cielos, visita esta vid». El texto añade «וכנה אשר נטעה ימינך ועל בן אמצתה לך», una planta y un hijo fortalecidos para יהוה, y describe el fuego y la reprensión que los consumen. **פָּקַד** (_paqad_, «visitar, atender, encargar o tomar cuenta») tiene aquí fuerza de intervención cuidadosa: la relación con «visitar» es contextual, no una licencia para borrar el juicio del v. 17.
 
-## El hombre de la diestra y el estribillo final — Tehilim 80:18-20 #tehilim_80_18-20
+## El hombre de la diestra y el estribillo final — Tehilim 80:18-20 #salmos_80_18-20
 
 La conclusión pide: «תהי ידך על איש ימינך» (v. 18), «sea tu mano sobre el hombre de tu diestra», y «על בן אדם אמצת לך», «sobre el hijo de hombre que fortaleciste para ti». Eric relaciona esta figura con la restauración que el salmo espera, pero distingue el sentido del poema de una identificación mesiánica completa. **יָמִין** (_yamin_, «mano derecha, lado derecho») puede expresar favor y poder; aquí la fuerza contextual es la mano de יהוה sobre el representante que él mismo fortaleció.
 
@@ -68,10 +68,10 @@ La respuesta esperada se formula como vida y fidelidad: «ולא נסוג ממך
 
 | Unidad textual    | Observación concreta de Eric                                                                                       | Prueba y límite en el texto local                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_80_1-8   | Eric lee el estribillo «restáuranos y haz resplandecer tu rostro» junto a la imagen del Pastor que conduce a José. | El estribillo aparece en vv. 4 y 8 y la imagen pastoral en v. 2; la nota conserva la queja sin convertirla en abandono divino.  |
-| #tehilim_80_9-14  | La clase sigue la vid desde Egipto hasta la cerca rota y la devoración.                                            | Los vv. 9-14 trazan exactamente esa secuencia; no se asigna a cada animal una identidad histórica que el poema no da.           |
-| #tehilim_80_15-17 | Eric entiende «visitar» la vid como una petición de atención restauradora que todavía incluye juicio.              | El v. 15 pide mirar y visitar, mientras el v. 17 conserva fuego y reprensión; ambas partes deben permanecer juntas.             |
-| #tehilim_80_18-20 | La figura de la diestra se relaciona con el representante fortalecido y con vida, nombre y restauración.           | El texto pide la mano sobre ese hombre y repite la súplica en v. 20; una identificación mesiánica plena requiere otros pasajes. |
+| #salmos_80_1-8   | Eric lee el estribillo «restáuranos y haz resplandecer tu rostro» junto a la imagen del Pastor que conduce a José. | El estribillo aparece en vv. 4 y 8 y la imagen pastoral en v. 2; la nota conserva la queja sin convertirla en abandono divino.  |
+| #salmos_80_9-14  | La clase sigue la vid desde Egipto hasta la cerca rota y la devoración.                                            | Los vv. 9-14 trazan exactamente esa secuencia; no se asigna a cada animal una identidad histórica que el poema no da.           |
+| #salmos_80_15-17 | Eric entiende «visitar» la vid como una petición de atención restauradora que todavía incluye juicio.              | El v. 15 pide mirar y visitar, mientras el v. 17 conserva fuego y reprensión; ambas partes deben permanecer juntas.             |
+| #salmos_80_18-20 | La figura de la diestra se relaciona con el representante fortalecido y con vida, nombre y restauración.           | El texto pide la mano sobre ese hombre y repite la súplica en v. 20; una identificación mesiánica plena requiere otros pasajes. |
 
 ## Conclusión
 

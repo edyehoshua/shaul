@@ -30,16 +30,16 @@ references:
   - "#romanos_3_18"
   - "#romanos_3_19"
   - "#romanos_3_20"
-  - "#tehilim_51_6"
-  - "#tehilim_14_1"
-  - "#tehilim_14_2"
-  - "#tehilim_14_3"
-  - "#tehilim_53_2"
-  - "#tehilim_53_3"
-  - "#mishlei_1_16"
-  - "#yeshayahu_59_7"
-  - "#yeshayahu_59_8"
-  - "#tehilim_36_2"
+  - "#salmos_51_6"
+  - "#salmos_14_1"
+  - "#salmos_14_2"
+  - "#salmos_14_3"
+  - "#salmos_53_2"
+  - "#salmos_53_3"
+  - "#proverbios_1_16"
+  - "#isaias_59_7"
+  - "#isaias_59_8"
+  - "#salmos_36_2"
 sources:
   - "https://www.youtube.com/watch?v=wb-2RKsjztY"
   - "docs/scriptures/tth/json/romanos.json"
@@ -76,10 +76,10 @@ Esta nota organiza la clase 6 de la serie de Romanos del hermano Eric de Jesús 
 
 | Referencia | Hebreo local OE, normalizado | Relación con Romanos 3 |
 | --- | --- | --- |
-| #tehilim_51_6 | **לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך** | David confiesa el pecado y reconoce que יהוה es justo en su palabra y juicio. |
-| #tehilim_14_1-3 | **אמר נבל בלבו אין אלהים... יהוה משמים השקיף על בני אדם... הכל סר יחדו נאלחו אין עשה טוב אין גם אחד** | Presenta la corrupción general y la búsqueda ausente de Elohim. |
-| #tehilim_53_2-3 | **אמר נבל בלבו אין אלהים השחיתו והתעיבו עול אין עשה טוב / אלהים משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים** | Repite y refuerza el diagnóstico de Salmo 14. |
-| #mishlei_1_16; #yeshayahu_59_7-8; #tehilim_36_2 | **כי רגליהם לרע ירוצו וימהרו לשפך דם נקי... / רגליהם לרע ירצו... דרך שלום לא ידעו... / נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו** | Ilustran pies violentos, caminos sin shalom y ausencia del temor de Elohim. |
+| #salmos_51_6 | **לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך** | David confiesa el pecado y reconoce que יהוה es justo en su palabra y juicio. |
+| #salmos_14_1-3 | **אמר נבל בלבו אין אלהים... יהוה משמים השקיף על בני אדם... הכל סר יחדו נאלחו אין עשה טוב אין גם אחד** | Presenta la corrupción general y la búsqueda ausente de Elohim. |
+| #salmos_53_2-3 | **אמר נבל בלבו אין אלהים השחיתו והתעיבו עול אין עשה טוב / אלהים משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים** | Repite y refuerza el diagnóstico de Salmo 14. |
+| #proverbios_1_16; #isaias_59_7-8; #salmos_36_2 | **כי רגליהם לרע ירוצו וימהרו לשפך דם נקי... / רגליהם לרע ירצו... דרך שלום לא ידעו... / נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו** | Ilustran pies violentos, caminos sin shalom y ausencia del temor de Elohim. |
 
 ## 3:1-4: privilegio, infidelidad y la firmeza de יהוה #romanos_3_1-4
 

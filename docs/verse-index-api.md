@@ -7,8 +7,8 @@ Shaul keeps Markdown notes as its canonical, reviewable knowledge base. The vers
 The current static endpoint is generated under `static/api/v1/verse-notes/`. Quartz copies `static/` to the published site, so a deployment exposes, for example:
 
 - `/api/v1/verse-notes/index.json`
-- `/api/v1/verse-notes/iojanan_1_29.json`
-- `/api/v1/verse-notes/chapters/iojanan_1.json`
+- `/api/v1/verse-notes/juan_1_29.json`
+- `/api/v1/verse-notes/chapters/juan_1.json`
 
 A future HTTP service should use these documents as a read-only baseline rather than adding a second manually maintained database.
 
@@ -23,8 +23,8 @@ description: "The question this note answers"
 date: YYYY-MM-DD
 tags: []
 references:
-  - "#iojanan_1_29"
-  - "#iojanan_1_32-34"
+  - "#juan_1_29"
+  - "#juan_1_32-34"
 sources:
   - "https://www.youtube.com/watch?v=VIDEO_ID"
   - "docs/scriptures/tth/json/juan.json"
@@ -36,6 +36,7 @@ source_ids:
 Rules:
 
 - `references` is the authoritative Scripture address list for API discovery.
+- Verse tags use lowercase ASCII Spanish book slugs (`#juan_1_29`, `#genesis_1_1`, `#isaias_53_5`) so references and generated URLs have one stable naming convention.
 - Use `#book_chapter_verse` for a verse and `#book_chapter_start-end` only for an inclusive range in one chapter.
 - Use `#book_chapter` only when the whole chapter is the actual anchor. It generates a chapter endpoint, not a false verse-level claim.
 - Do not put Talmud, midrash, Zohar, or commentator shorthand in new `references`. Keep their precise citations in `Referencias judías y fuentes externas`, and use a dedicated field later only if a real bibliographic schema is needed.
@@ -52,8 +53,8 @@ One verse document is deliberately small:
 {
   "schema_version": 1,
   "verse": {
-    "tag": "#iojanan_1_29",
-    "book": "iojanan",
+    "tag": "#juan_1_29",
+    "book": "juan",
     "chapter": 1,
     "verse": 29
   },

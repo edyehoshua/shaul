@@ -9,9 +9,9 @@ tags:
   - pacto
   - obediencia
 references:
-  - "#devarim_26_1-11"
-  - "#devarim_26_12-15"
-  - "#devarim_26_16-19"
+  - "#deuteronomio_26_1-11"
+  - "#deuteronomio_26_12-15"
+  - "#deuteronomio_26_16-19"
 sources:
   - "https://www.youtube.com/watch?v=2nIzEfsUiPQ"
   - "docs/scriptures/oe/json/deuteronomy/26.json"
@@ -43,7 +43,7 @@ Esta es la nota canónica para la exposición pública de Eric de Jesús Rodríg
 - **Devarim 26:12-15 — santidad que incluye al vulnerable:** Eric vincula la obediencia completa con la distribución del diezmo al levita, al extranjero, al huérfano y a la viuda. El texto lo afirma expresamente y hace de la provisión parte de la declaración de fidelidad.
 - **Devarim 26:16-19 — corazón entero y pueblo consagrado:** la sesión aplica la imagen de integridad a una vida que guarda los estatutos con todo el corazón y el alma. El cierre del capítulo apoya esa relación entre obediencia, pueblo escogido y santidad, sin convertir «piedras completas» en una traducción literal de estos versículos.
 
-## 26:1-11: primicias y memoria del camino #devarim_26_1-11
+## 26:1-11: primicias y memoria del camino #deuteronomio_26_1-11
 
 El capítulo comienza después de la entrada, herencia y permanencia en la tierra: **והיה כי תבוא אל הארץ אשר יהוה אלהיך נתן לך נחלה וירשתה וישבת בה**. La tierra se recibe de יהוה; el verbo **נתן** (_natan_) significa dar, entregar o poner, y aquí su fuerza contextual impide presentar la herencia como conquista autónoma. **נחלה** (_nachalah_) significa heredad o posesión heredada; la relación con «patrimonio» es aproximada.
 
@@ -55,7 +55,7 @@ La fórmula histórica es central: **ארמי אבד אבי וירד מצרימ�
 
 Después aparecen la opresión egipcia, el clamor y la respuesta: **ונצעק אל יהוה אלהי אבתינו וישמע יהוה את קלנו וירא את ענינו ואת עמלנו ואת לחצנו**. יהוה oye la voz, ve la aflicción, el trabajo y la presión; luego saca al pueblo con mano fuerte, brazo extendido, gran temor, señales y maravillas. La tierra «que fluye leche y miel» culmina en la primicia puesta delante de יהוה. La alegría no es individualista: **ושמחת בכל הטוב ... אתה והלוי והגר אשר בקרבך** incluye al levita y al extranjero.
 
-## 26:12-15: diezmo, santidad y distribución #devarim_26_12-15
+## 26:12-15: diezmo, santidad y distribución #deuteronomio_26_12-15
 
 En el tercer año, año del diezmo, la persona entrega al levita, al extranjero, al huérfano y a la viuda para que coman dentro de las puertas y se sacien. La santidad no se mide solamente por separar una cosa para יהוה; incluye hacer llegar alimento a quienes dependen de la comunidad. **מעשר** (_ma'aser_) significa diezmo, una décima parte; aquí su fuerza es una práctica de distribución pactal, no una palabra para enriquecer al dador.
 
@@ -63,7 +63,7 @@ La declaración dice: **בערתי הקדש מן הבית וגם נתתיו לל
 
 La oración final pide que יהוה mire desde su morada santa de los cielos y bendiga a su pueblo Israel y la tierra. Eric puede hablar de «piedras completas» como imagen de una obediencia sin fragmentación; el texto local da contenido a esa imagen al unir memoria, casa, santidad, provisión y bendición. No obstante, la imagen de piedras pertenece al título público de la sesión y no debe presentarse como si fuera la forma fuente de Devarim 26.
 
-## 26:16-19: obediencia de todo corazón #devarim_26_16-19
+## 26:16-19: obediencia de todo corazón #deuteronomio_26_16-19
 
 El cierre cambia de la recitación a la exhortación directa: **היום הזה יהוה אלהיך מצוך לעשות את החקים האלה ואת המשפטים**. «Hoy» hace presente la responsabilidad. **חקים** (_chuqim_) significa estatutos o decretos; **משפטים** (_mishpatim_) significa juicios, decisiones o normas. La relación entre ambas formas y «la instrucción completa» es aproximada, pero el conjunto designa una obediencia concreta, no un sentimiento sin forma.
 

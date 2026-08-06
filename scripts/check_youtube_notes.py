@@ -15,6 +15,7 @@ from repair_youtube_notes import (
     is_youtube_note,
     split_frontmatter,
 )
+from verse_tag_conventions import TAG_TOKEN_RE, canonicalize_tag
 
 VERSE_HEADING_RE = re.compile(r"^##\s+.*?(?<!\w)\d+:\d+(?:[-–]\d+)?\)?\s*$")
 UNFORMATTED_SOURCE_ID_RE = re.compile(r"(?<!`)source_id\s*:")
@@ -59,6 +60,10 @@ def main() -> int:
         for line in text.splitlines():
             if VERSE_HEADING_RE.match(line) and "#" not in line[3:]:
                 failures.append(f"{rel}: verse heading is missing an inline tag: {line}")
+        for token in TAG_TOKEN_RE.findall(text):
+            canonical = canonicalize_tag(token)
+            if canonical and canonical != token:
+                failures.append(f"{rel}: non-canonical verse tag {token}; use {canonical}")
 
     print(f"checked_youtube_notes={checked}")
     print(f"youtube_note_failures={len(failures)}")

@@ -4,18 +4,18 @@ description: "Estudio de Mishlei 16:25-33 sobre el deseo que gobierna, la murmur
 date: 2026-08-05
 tags: [mishlei, mishlei_16, deseo, murmuracion, dominio-propio, juicio]
 references:
-  - "#mishlei_16_25"
-  - "#mishlei_16_26"
-  - "#mishlei_16_27"
-  - "#mishlei_16_28"
-  - "#mishlei_16_29"
-  - "#mishlei_16_30"
-  - "#mishlei_16_31"
-  - "#mishlei_16_32"
-  - "#mishlei_16_33"
-  - "#mishlei_14_12"
-  - "#bemidbar_16_1"
-  - "#shemot_20_7"
+  - "#proverbios_16_25"
+  - "#proverbios_16_26"
+  - "#proverbios_16_27"
+  - "#proverbios_16_28"
+  - "#proverbios_16_29"
+  - "#proverbios_16_30"
+  - "#proverbios_16_31"
+  - "#proverbios_16_32"
+  - "#proverbios_16_33"
+  - "#proverbios_14_12"
+  - "#numeros_16_1"
+  - "#exodo_20_7"
   - "#mateo_5_28"
 sources:
   - "https://www.youtube.com/watch?v=ICKdE1d_l0g"
@@ -38,15 +38,15 @@ Esta nota organiza la clase pública de Eric sobre Mishlei 16:25-33. Las observa
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_16_25 | יש דרך ישר לפני איש ואחריתה דרכי מות | Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte. |
-| #mishlei_16_26 | נפש עמל עמלה לו כי אכף עליו פיהו | La garganta del trabajador, trabaja para sí, porque monta sobre él su boca. |
-| #mishlei_16_27 | איש בליעל כרה רעה ועל שפתיו שפתו כאש צרבת | El hombre de Belial cava maldad, y sobre sus labios hay como fuego flameante. |
-| #mishlei_16_28 | איש תהפכות ישלח מדון ונרג מפריד אלוף | El hombre de distorsiones envía contienda, y el murmurador separa al Jefe. |
-| #mishlei_16_29 | איש חמס יפתה רעהו והוליכו בדרך לא טוב | El hombre de violencia incita a su compañero, y lo hace andar por camino no bueno. |
-| #mishlei_16_30 | עצה עיניו לחשב תהפכות קרץ שפתיו כלה רעה | El que guiña sus ojos es para planear distorsiones; el que presiona sus labios ha consumado el mal. |
-| #mishlei_16_31 | עטרת תפארת שיבה בדרך צדקה תמצא | Corona de esplendor es la cabeza canosa; en el camino de la justicia se halla. |
-| #mishlei_16_32 | טוב ארך אפים מגבור ומשל ברוחו מלכד עיר | Bueno es el largo de nariz, más que el fuerte, y el que domina en su espíritu, más que el que captura una ciudad. |
-| #mishlei_16_33 | בחיק יוטל את הגורל ומיהוה כל משפטו | En el seno se deja caer el goral, pero de יהוה es todo su juicio. |
+| #proverbios_16_25 | יש דרך ישר לפני איש ואחריתה דרכי מות | Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte. |
+| #proverbios_16_26 | נפש עמל עמלה לו כי אכף עליו פיהו | La garganta del trabajador, trabaja para sí, porque monta sobre él su boca. |
+| #proverbios_16_27 | איש בליעל כרה רעה ועל שפתיו שפתו כאש צרבת | El hombre de Belial cava maldad, y sobre sus labios hay como fuego flameante. |
+| #proverbios_16_28 | איש תהפכות ישלח מדון ונרג מפריד אלוף | El hombre de distorsiones envía contienda, y el murmurador separa al Jefe. |
+| #proverbios_16_29 | איש חמס יפתה רעהו והוליכו בדרך לא טוב | El hombre de violencia incita a su compañero, y lo hace andar por camino no bueno. |
+| #proverbios_16_30 | עצה עיניו לחשב תהפכות קרץ שפתיו כלה רעה | El que guiña sus ojos es para planear distorsiones; el que presiona sus labios ha consumado el mal. |
+| #proverbios_16_31 | עטרת תפארת שיבה בדרך צדקה תמצא | Corona de esplendor es la cabeza canosa; en el camino de la justicia se halla. |
+| #proverbios_16_32 | טוב ארך אפים מגבור ומשל ברוחו מלכד עיר | Bueno es el largo de nariz, más que el fuerte, y el que domina en su espíritu, más que el que captura una ciudad. |
+| #proverbios_16_33 | בחיק יוטל את הגורל ומיהוה כל משפטו | En el seno se deja caer el goral, pero de יהוה es todo su juicio. |
 
 ## Del camino que parece recto a las consecuencias
 
@@ -84,10 +84,10 @@ El goral del verso 33 no legitima el azar como autoridad final. Eric lo conecta 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_16_25-26; `youtube:ICKdE1d_l0g` | Un camino que parece recto produce muchos caminos de muerte; la garganta trabaja para el deseo que la boca gobierna. | Repetición textual y contraste apoyados; lectura del apetito como gobierno alegórico. |
-| #mishlei_16_27-30; `youtube:ICKdE1d_l0g` | Belial, la distorsión, la violencia y el guiño describen obras que nacen del deseo, la acusación y la murmuración. | Campos semánticos y consecuencias apoyados; identificación de Belial/Satanás cualificada. |
-| #mishlei_16_31-32; `youtube:ICKdE1d_l0g` | La cabeza canosa en justicia y el dominio propio son mayores que fuerza militar y conquista. | Comparación textual apoyada; aplicación a fruto espiritual atribuida a la clase. |
-| #mishlei_16_33; `youtube:ICKdE1d_l0g` | El goral puede caer, pero el juicio final pertenece a יהוה y gobierna toda disposición humana. | Afirmación textual apoyada; extensión providencial y doctrinal cualificada. |
+| #proverbios_16_25-26; `youtube:ICKdE1d_l0g` | Un camino que parece recto produce muchos caminos de muerte; la garganta trabaja para el deseo que la boca gobierna. | Repetición textual y contraste apoyados; lectura del apetito como gobierno alegórico. |
+| #proverbios_16_27-30; `youtube:ICKdE1d_l0g` | Belial, la distorsión, la violencia y el guiño describen obras que nacen del deseo, la acusación y la murmuración. | Campos semánticos y consecuencias apoyados; identificación de Belial/Satanás cualificada. |
+| #proverbios_16_31-32; `youtube:ICKdE1d_l0g` | La cabeza canosa en justicia y el dominio propio son mayores que fuerza militar y conquista. | Comparación textual apoyada; aplicación a fruto espiritual atribuida a la clase. |
+| #proverbios_16_33; `youtube:ICKdE1d_l0g` | El goral puede caer, pero el juicio final pertenece a יהוה y gobierna toda disposición humana. | Afirmación textual apoyada; extensión providencial y doctrinal cualificada. |
 
 ## Pendiente de verificar
 
