@@ -9,9 +9,9 @@ tags:
   - alabanza
   - justicia
 references:
-  - "#tehilim_92_1-5"
-  - "#tehilim_92_6-11"
-  - "#tehilim_92_12-16"
+  - "#salmos_92_1-5"
+  - "#salmos_92_6-11"
+  - "#salmos_92_12-16"
 sources:
   - "https://www.youtube.com/watch?v=I_rKKvwzmtg"
   - "docs/scriptures/oe/json/psalms/92.json"
@@ -32,11 +32,11 @@ Se sigue el salmo en orden textual y se usa el hebreo local OE sin segmentación
 
 | Unidad            | Texto hebreo local (OE, sin segmentación)                                        | Función                                                                          |
 | ----------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| #tehilim_92_1-5   | **מזמור שיר ליום השבת**; **טוב להדות ליהוה**; **להגיד בבקר חסדך ואמונתך בלילות** | Encabezado de Shabat y ritmo diario de misericordia y fidelidad.                 |
-| #tehilim_92_6-11  | **מה גדלו מעשיך יהוה**; **בפרח רשעים כמו עשב**; **ואתה מרום לעלם יהוה**          | Obras profundas, necedad y diferencia entre hierba pasajera y juicio permanente. |
-| #tehilim_92_12-16 | **צדיק כתמר יפרח**; **שתולים בבית יהוה**; **להגיד כי ישר יהוה**                  | Justos plantados, fruto en la vejez y proclamación de la rectitud divina.        |
+| #salmos_92_1-5   | **מזמור שיר ליום השבת**; **טוב להדות ליהוה**; **להגיד בבקר חסדך ואמונתך בלילות** | Encabezado de Shabat y ritmo diario de misericordia y fidelidad.                 |
+| #salmos_92_6-11  | **מה גדלו מעשיך יהוה**; **בפרח רשעים כמו עשב**; **ואתה מרום לעלם יהוה**          | Obras profundas, necedad y diferencia entre hierba pasajera y juicio permanente. |
+| #salmos_92_12-16 | **צדיק כתמר יפרח**; **שתולים בבית יהוה**; **להגיד כי ישר יהוה**                  | Justos plantados, fruto en la vejez y proclamación de la rectitud divina.        |
 
-## 92:1-5 — el cántico de Shabat y el tiempo de anunciar
+## 92:1-5 — el cántico de Shabat y el tiempo de anunciar #salmos_92_1-5
 
 El encabezado dice **מזמור שיר ליום השבת**, _mizmor shir leyom ha-Shabbat_: “salmo, cántico para el día de Shabat”. Eric insiste en que no debe traducirse de modo que el día quede neutralizado. **(שבת)**, _Shabbat_, significa cese, reposo y el día de reposo; aquí su fuerza contextual es el día nombrado por el encabezado. La observación de la clase tiene apoyo directo. La afirmación más amplia de que la tradición histórica del pueblo preserva sin interrupción toda discusión calendárica pertenece a una defensa histórica y no queda demostrada solo por el salmo.
 
@@ -44,7 +44,7 @@ El v. 2 ordena: **טוב להדות ליהוה ולזמר לשמך עליון**,
 
 El v. 5 explica el canto: **כי שמחתני יהוה בפעלך במעשי ידיך ארנן**, “porque me has alegrado, יהוה, con tu obra; cantaré por las obras de tus manos”. La clase usa esto para enseñar que la alabanza debe responder a obras reales y no a una emoción fabricada. Esa aplicación está bien anclada en el versículo: el motivo del canto es la obra de יהוה, no la reputación del intérprete.
 
-## 92:6-11 — obras profundas y maldad pasajera
+## 92:6-11 — obras profundas y maldad pasajera #salmos_92_6-11
 
 El salmista exclama: **מה גדלו מעשיך יהוה מאד עמקו מחשבתיך**, “¡qué grandes son tus obras, יהוה; muy profundos tus pensamientos!”. **(עמק)**, _amaq_, significa ser profundo; su fuerza aquí es la profundidad incomprensible de las obras y pensamientos divinos. Eric contrasta esa profundidad con **איש בער**, el hombre bruto o necio, que no conoce ni entiende. El texto sí presenta una incapacidad moral e intelectual; no autoriza a convertir cualquier desacuerdo humano en prueba de necedad.
 
@@ -52,7 +52,7 @@ Los malvados florecen “como hierba” y los que hacen iniquidad brotan, pero e
 
 Los vv. 10-11 continúan con la desaparición de los enemigos y el cuerno elevado “como el del búfalo”, ungido con aceite fresco. **(קרן)**, _qeren_, puede ser cuerno y símbolo de fuerza; la relación con autoridad o elevación es contextual. Eric lee el cuerno como poder concedido y no como autosuficiencia. El texto permite esa imagen, pero no especifica una cronología mesiánica.
 
-## 92:12-16 — palmera, cedro y fruto en la vejez
+## 92:12-16 — palmera, cedro y fruto en la vejez #salmos_92_12-16
 
 El justo aparece como **צדיק כתמר יפרח**, “el justo florecerá como palmera”; crecerá como cedro del Líbano, plantado en la casa de יהוה y floreciendo en sus atrios. **(צדיק)**, _tsadiq_, significa justo; **(שתל)**, _shatal_, significa plantar o trasplantar. Eric destaca que el justo no es una planta aislada: está plantado en la casa y sus raíces expresan permanencia en el servicio. La metáfora local apoya “plantado” y “fruto”, mientras “casa” no debe convertirse automáticamente en una institución moderna.
 

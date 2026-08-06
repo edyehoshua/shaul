@@ -6,9 +6,9 @@ tags:
   - sodot
   - sodot_20
 references:
-  - "#sodot_20_1"
-  - "#tehilim_90_4"
-  - "#ieshaiahu_61_2"
+  - "#apocalipsis_20_1"
+  - "#salmos_90_4"
+  - "#isaias_61_2"
 sources: []
 ---
 
@@ -18,21 +18,21 @@ Sodot 20 se resume como visión del juicio divino, donde el lago de fuego, el ma
 
 ## Texto base
 
-- #sodot_20_1
+- #apocalipsis_20_1
 
 ## Texto TTH disponible
 
 | Referencia      | Texto TTH                                                                                                                   |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| #sodot_20_1     | Y vi un a mensajero descendiendo de los cielos, que tenía la llave del abismo, y una gran cadena en su mano.                |
-| #tehilim_90_4   | Porque mil años en tus ojos son como el día de ayer, que pasó, y como una vigilia en la noche.                              |
-| #ieshaiahu_61_2 | para proclamar el año de favor de יהוה, y el día de venganza de nuestro Elohim; para restaurar a todos los que se lamentan, |
+| #apocalipsis_20_1     | Y vi un a mensajero descendiendo de los cielos, que tenía la llave del abismo, y una gran cadena en su mano.                |
+| #salmos_90_4   | Porque mil años en tus ojos son como el día de ayer, que pasó, y como una vigilia en la noche.                              |
+| #isaias_61_2 | para proclamar el año de favor de יהוה, y el día de venganza de nuestro Elohim; para restaurar a todos los que se lamentan, |
 
 ## Observaciones
 
 - El lago de fuego se interpreta como juicio divino.
 - El mar de vidrio mezclado con fuego marca una transición entre contemplación y juicio.
 - El fuego se toma como símbolo de juicio, y la nota menciona además la asociación con el rojo y la sangre.
-- Los mil años se interpretan con ayuda de #tehilim_90_4.
-- La nota enlaza el día del Mesías con la luz y lo relaciona también con #ieshaiahu_61_2.
+- Los mil años se interpretan con ayuda de #salmos_90_4.
+- La nota enlaza el día del Mesías con la luz y lo relaciona también con #isaias_61_2.
 - Leolmei olamim vuelve a leerse como duración indefinida.

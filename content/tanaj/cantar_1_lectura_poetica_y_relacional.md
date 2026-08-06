@@ -8,23 +8,23 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_1_1"
-  - "#songofsolomon_1_2"
-  - "#songofsolomon_1_3"
-  - "#songofsolomon_1_4"
-  - "#songofsolomon_1_5"
-  - "#songofsolomon_1_6"
-  - "#songofsolomon_1_7"
-  - "#songofsolomon_1_8"
-  - "#songofsolomon_1_9"
-  - "#songofsolomon_1_10"
-  - "#songofsolomon_1_11"
-  - "#songofsolomon_1_12"
-  - "#songofsolomon_1_13"
-  - "#songofsolomon_1_14"
-  - "#songofsolomon_1_15"
-  - "#songofsolomon_1_16"
-  - "#songofsolomon_1_17"
+  - "#cantares_1_1"
+  - "#cantares_1_2"
+  - "#cantares_1_3"
+  - "#cantares_1_4"
+  - "#cantares_1_5"
+  - "#cantares_1_6"
+  - "#cantares_1_7"
+  - "#cantares_1_8"
+  - "#cantares_1_9"
+  - "#cantares_1_10"
+  - "#cantares_1_11"
+  - "#cantares_1_12"
+  - "#cantares_1_13"
+  - "#cantares_1_14"
+  - "#cantares_1_15"
+  - "#cantares_1_16"
+  - "#cantares_1_17"
 sources:
   - "https://www.youtube.com/watch?v=Nqe5dcsxH3s"
   - "https://www.youtube.com/watch?v=WpajxWXftY0"
@@ -51,7 +51,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud) | Observación                                                                                                                         |
 | ------------------ | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_1_1 | **שיר השירים אשר לשלמה**   | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_1_1 | **שיר השירים אשר לשלמה**   | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -73,9 +73,9 @@ Cantar 1 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 1) Cap 1» — https://www.youtube.com/watch?v=Nqe5dcsxH3s (`source_id: youtube:Nqe5dcsxH3s`).
-- «Shir hashirim (parte 2) Cap 1» — https://www.youtube.com/watch?v=WpajxWXftY0 (`source_id: youtube:WpajxWXftY0`).
-- «Shir hashirim (parte 3) Cap 1» — https://www.youtube.com/watch?v=MIJXS2ySeR4 (`source_id: youtube:MIJXS2ySeR4`).
-- «Shir hashirim (parte 4) cap 1» — https://www.youtube.com/watch?v=DnhyzPXYyYY (`source_id: youtube:DnhyzPXYyYY`).
+- «Shir hashirim (parte 1) Cap 1» — https://www.youtube.com/watch?v=Nqe5dcsxH3s (`source_id`: youtube:Nqe5dcsxH3s`).
+- «Shir hashirim (parte 2) Cap 1» — https://www.youtube.com/watch?v=WpajxWXftY0 (`source_id`: youtube:WpajxWXftY0`).
+- «Shir hashirim (parte 3) Cap 1» — https://www.youtube.com/watch?v=MIJXS2ySeR4 (`source_id`: youtube:MIJXS2ySeR4`).
+- «Shir hashirim (parte 4) cap 1» — https://www.youtube.com/watch?v=DnhyzPXYyYY (`source_id`: youtube:DnhyzPXYyYY`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

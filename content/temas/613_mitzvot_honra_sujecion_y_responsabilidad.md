@@ -9,12 +9,12 @@ tags:
   - discernimiento
   - yehoshua
 references:
-  - "#shemot_22_28"
+  - "#exodo_22_28"
   - "#romanos_13_1"
   - "#romanos_13_5"
   - "#hechos_5_29"
-  - "#vaikra_4_22"
-  - "#vaikra_4_26"
+  - "#levitico_4_22"
+  - "#levitico_4_26"
 sources:
   - "https://www.youtube.com/watch?v=xE79IvA2JdA"
   - "docs/scriptures/oe/json/raw/deuteronomy.json"
@@ -35,9 +35,9 @@ Esta nota desarrolla la exposición pública de Eric de Jesús Rodríguez Mendoz
 
 | Referencia      | Texto local                                                                         | Función en el argumento                                                                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #devarim_23_2   | **לֹא יָבֹא פְצוּעַ דַּכָּא וּכְרוּת שָׁפְכָה בִּקְהַל יְהוָה**                     | El pasaje de la clase no debe confundirse con esta prohibición concreta; el término de la honra se evalúa en otros textos y en el contexto de la autoridad. |
-| #vaikra_4_22-24 | **אֲשֶׁר נָשִׂיא יֶחֱטָא... וְהֵבִיא אֶת קָרְבָּנוֹ שְׂעִיר עִזִּים זָכָר תָּמִים** | Un dirigente puede pecar por inadvertencia y necesita reconocimiento y expiación; el cargo no lo vuelve impecable.                                          |
-| #vaikra_4_26    | **וְכִפֶּר עָלָיו הַכֹּהֵן מֵחַטָּאתוֹ וְנִסְלַח לוֹ**                              | La corrección y el perdón no destruyen la función de quien sirve; impiden convertirla en intocable.                                                         |
+| #deuteronomio_23_2   | **לֹא יָבֹא פְצוּעַ דַּכָּא וּכְרוּת שָׁפְכָה בִּקְהַל יְהוָה**                     | El pasaje de la clase no debe confundirse con esta prohibición concreta; el término de la honra se evalúa en otros textos y en el contexto de la autoridad. |
+| #levitico_4_22-24 | **אֲשֶׁר נָשִׂיא יֶחֱטָא... וְהֵבִיא אֶת קָרְבָּנוֹ שְׂעִיר עִזִּים זָכָר תָּמִים** | Un dirigente puede pecar por inadvertencia y necesita reconocimiento y expiación; el cargo no lo vuelve impecable.                                          |
+| #levitico_4_26    | **וְכִפֶּר עָלָיו הַכֹּהֵן מֵחַטָּאתוֹ וְנִסְלַח לוֹ**                              | La corrección y el perdón no destruyen la función de quien sirve; impiden convertirla en intocable.                                                         |
 
 ## La honra no es obediencia ciega
 
@@ -45,13 +45,13 @@ Eric comienza observando que la secuencia de Maimónides pasa de quienes están 
 
 La clase insiste especialmente en separar respeto y sujeción. Una comunidad puede tratar con dignidad a un juez, maestro o dirigente sin reconocer como obligatoria una disposición que contradice a יהוה. Eric usa el caso del Sanedrín que ordenó a los apóstoles no hablar en el nombre de Yehoshua: Hechos 5:29 funciona aquí como evaluación apostólica del límite, no como una cita literal de la clase. La honra preserva la dignidad del interlocutor; la obediencia se debe medir por el encargo y por la fidelidad a Elohim.
 
-**(כבד)**, _kaved_, significa ser pesado, dar peso, honrar o tratar como importante. En #shemot_22_28, donde aparece el mandamiento de no maldecir a Elohim ni al gobernante del pueblo, «honrar» es una aproximación contextual: no autoriza llamar bueno a lo malo ni cancela la reprensión. **(משל)**, _mashal_, significa gobernar, tener dominio o ejercer autoridad; cuando se emplea para una figura dirigente, su campo no prueba por sí mismo obediencia ilimitada. La relación entre ambas ideas es pedagógica, no una equivalencia léxica.
+**(כבד)**, _kaved_, significa ser pesado, dar peso, honrar o tratar como importante. En #exodo_22_28, donde aparece el mandamiento de no maldecir a Elohim ni al gobernante del pueblo, «honrar» es una aproximación contextual: no autoriza llamar bueno a lo malo ni cancela la reprensión. **(משל)**, _mashal_, significa gobernar, tener dominio o ejercer autoridad; cuando se emplea para una figura dirigente, su campo no prueba por sí mismo obediencia ilimitada. La relación entre ambas ideas es pedagógica, no una equivalencia léxica.
 
 ## El líder puede ser corregido sin ser destruido
 
-La clase conecta la mitzvá con #vaikra_4: un nasi puede pecar inadvertidamente y llevar una ofrenda. Eric observa que existe una tendencia a exigir que el maestro o dirigente sea impecable, y que cualquier error —incluso una conducta que no está establecida como pecado— se convierte rápidamente en murmullo y pérdida de estima. Su advertencia conserva una intuición importante: el texto reconoce la responsabilidad del líder sin borrar su posibilidad de arrepentimiento y perdón.
+La clase conecta la mitzvá con #levitico_4: un nasi puede pecar inadvertidamente y llevar una ofrenda. Eric observa que existe una tendencia a exigir que el maestro o dirigente sea impecable, y que cualquier error —incluso una conducta que no está establecida como pecado— se convierte rápidamente en murmullo y pérdida de estima. Su advertencia conserva una intuición importante: el texto reconoce la responsabilidad del líder sin borrar su posibilidad de arrepentimiento y perdón.
 
-El texto local califica esa intuición. #vaikra_4_22-26 habla de un pecado no intencional, identifica la responsabilidad del nasi y describe el procedimiento de la ofrenda; no enseña que cada acusación contra un dirigente sea falsa ni que el perdón elimine la necesidad de reparar. **(נשיא)**, _nasi_, significa príncipe, jefe o dirigente; aquí identifica una posición concreta, pero no la convierte en santidad moral automática. **(שגגה)**, _shegagah_, significa error o inadvertencia; su fuerza contextual limita la aplicación: el ritual descrito no debe usarse para rebautizar como accidente un acto deliberado.
+El texto local califica esa intuición. #levitico_4_22-26 habla de un pecado no intencional, identifica la responsabilidad del nasi y describe el procedimiento de la ofrenda; no enseña que cada acusación contra un dirigente sea falsa ni que el perdón elimine la necesidad de reparar. **(נשיא)**, _nasi_, significa príncipe, jefe o dirigente; aquí identifica una posición concreta, pero no la convierte en santidad moral automática. **(שגגה)**, _shegagah_, significa error o inadvertencia; su fuerza contextual limita la aplicación: el ritual descrito no debe usarse para rebautizar como accidente un acto deliberado.
 
 Eric también recuerda el caso de David y el de Pablo como ejemplos de que el perdón de Elohim y la continuidad de una misión no se reducen a una lógica de impecabilidad humana. Es una conexión teológica atribuible a la clase, pero los casos requieren examinar sus propios contextos. La conclusión responsable no es blindar al líder, sino mantener juntas honra, verdad, arrepentimiento y discernimiento.
 
@@ -65,17 +65,17 @@ La prueba canónica es doble. Romanos 13 describe una autoridad que debe servir 
 
 | Unidad                                                  | Observación concreta de la clase                                                                                                      | Evaluación frente a la Escritura                                                                                                   |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Mitzvá 317; #shemot_22_28; `youtube:xE79IvA2JdA`        | La Torah examina qué puede producir en nosotros el deseo de deshonrar a otra persona.                                                 | Inferencia pastoral apoyada: el mandamiento regula la palabra y la disposición, pero no agota toda la psicología del corazón.      |
+| Mitzvá 317; #exodo_22_28; `youtube:xE79IvA2JdA`        | La Torah examina qué puede producir en nosotros el deseo de deshonrar a otra persona.                                                 | Inferencia pastoral apoyada: el mandamiento regula la palabra y la disposición, pero no agota toda la psicología del corazón.      |
 | Mitzvá 317; autoridad y Sanedrín; `youtube:xE79IvA2JdA` | Honrar una autoridad no es lo mismo que someterse a sus disposiciones; Hechos 5:29 marca el límite ante una orden contraria a Elohim. | Apoyo textual cualificado: la distinción es coherente con el testimonio apostólico; no convierte toda discrepancia en persecución. |
-| Mitzvá 318; #vaikra_4_22-26; `youtube:xE79IvA2JdA`      | Un dirigente puede fallar y aun así ser tratado como responsable, no como alguien automáticamente descartado.                         | Apoyo textual cualificado: Levítico describe pecado inadvertido, ofrenda y perdón; no justifica encubrir pecado deliberado.        |
+| Mitzvá 318; #levitico_4_22-26; `youtube:xE79IvA2JdA`      | Un dirigente puede fallar y aun así ser tratado como responsable, no como alguien automáticamente descartado.                         | Apoyo textual cualificado: Levítico describe pecado inadvertido, ofrenda y perdón; no justifica encubrir pecado deliberado.        |
 
 ## Léxico clave
 
 | Forma fuente | Transliteración | Sentido ordinario                        | Fuerza contextual                                                  | Calificación                                                                       |
 | ------------ | --------------- | ---------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | **(כבד)**    | _kaved_         | dar peso, honrar, tratar como importante | Regula la manera de hablar y tratar al gobernante o al prójimo.    | «Honrar» es aproximado y contextual; no equivale a obedecer toda orden.            |
-| **(נשיא)**   | _nasi_          | príncipe, jefe, dirigente                | En #vaikra_4_22 identifica al responsable que puede pecar.         | «Príncipe» es más literal; «líder» es una traducción pedagógica.                   |
-| **(שגגה)**   | _shegagah_      | inadvertencia, error no intencional      | Delimita el caso sacrificial de #vaikra_4_22-26.                   | «Error» es aproximado; no cubre una transgresión deliberada.                       |
+| **(נשיא)**   | _nasi_          | príncipe, jefe, dirigente                | En #levitico_4_22 identifica al responsable que puede pecar.         | «Príncipe» es más literal; «líder» es una traducción pedagógica.                   |
+| **(שגגה)**   | _shegagah_      | inadvertencia, error no intencional      | Delimita el caso sacrificial de #levitico_4_22-26.                   | «Error» es aproximado; no cubre una transgresión deliberada.                       |
 | **(משל)**    | _mashal_        | gobernar, dominar, ejercer autoridad     | Ayuda a distinguir función dirigente de obediencia moral absoluta. | Relación pedagógica con la cuestión de la sujeción, no equivalencia con **(כבד)**. |
 
 ## La secuencia canónica: honra, límite y reparación
@@ -93,7 +93,7 @@ Esta lectura también evita confundir formas de autoridad. **(כבד)**, _kaved_
 ## Pendiente de verificar
 
 - [ ] Localizar la referencia exacta de la formulación rabínica de las mitzvot 317-318 antes de atribuirle una traducción técnica a Maimónides.
-- [ ] Cotejar el texto hebreo de #shemot_22_28 y la sintaxis de Romanos 13 con una edición griega/hebraica completa.
+- [ ] Cotejar el texto hebreo de #exodo_22_28 y la sintaxis de Romanos 13 con una edición griega/hebraica completa.
 - [ ] Precisar los contextos históricos de la autoridad del Sanedrín sin convertir la aplicación contemporánea en dato del texto antiguo.
 
 ## Observaciones localizadas y límite de la honra
@@ -102,7 +102,7 @@ En `youtube:xE79IvA2JdA`, la exposición presenta la diferencia entre honrar a u
 
 Conviene separar tres formas que la enseñanza relaciona sin hacerlas sinónimas. **(τιμάω)**, _timaō_, significa honrar, valorar o estimar; no es la forma hebrea de Éxodo 22:28, pero sirve como término griego **pedagógico** para describir el reconocimiento de dignidad. **(ὑπακούω)**, _hypakouō_, significa escuchar y obedecer; su sentido ordinario ya añade respuesta a la palabra, por lo que no debe usarse como traducción automática de **(כבד)**, _kaved_, «dar peso u honrar». La relación entre honra y obediencia es **aproximada** y depende de la orden concreta y de su legitimidad.
 
-Levítico 4 impide que la autoridad se vuelva intocable. **(נשיא)**, _nasi_, significa príncipe, jefe o dirigente; en #vaikra_4_22 identifica el cargo del responsable, mientras **(שגגה)**, _shegagah_, significa inadvertencia o error no intencional y limita el caso sacrificial. Estas formas son **directas** en sus respectivos campos; aplicarlas para encubrir una transgresión deliberada sería **ilegítimo**. La observación de Eric queda así preservada en su mejor alcance: honrar protege la dignidad, corregir reconoce la verdad y someterse solo puede exigirse dentro de la autoridad que no contradice a יהוה.
+Levítico 4 impide que la autoridad se vuelva intocable. **(נשיא)**, _nasi_, significa príncipe, jefe o dirigente; en #levitico_4_22 identifica el cargo del responsable, mientras **(שגגה)**, _shegagah_, significa inadvertencia o error no intencional y limita el caso sacrificial. Estas formas son **directas** en sus respectivos campos; aplicarlas para encubrir una transgresión deliberada sería **ilegítimo**. La observación de Eric queda así preservada en su mejor alcance: honrar protege la dignidad, corregir reconoce la verdad y someterse solo puede exigirse dentro de la autoridad que no contradice a יהוה.
 
 ## Conclusión
 

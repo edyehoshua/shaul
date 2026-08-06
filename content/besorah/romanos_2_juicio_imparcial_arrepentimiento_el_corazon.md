@@ -36,7 +36,7 @@ Romanos 2 vuelve la acusación hacia quien juzga y presume de una identidad reli
 
 Esta nota consolida cuatro sesiones públicas de Eric de Jesús: `youtube:s1GjTmOIsc0` enfoca la teshuvá; `youtube:ARbk1Ce12Ew`, la obra de la Torah escrita en el corazón; `youtube:58zpHWwa9Xw`, la distinción anunciada entre elección y predestinación; y `youtube:6D7Yj0bDSfU`, la pregunta «¿Qué es ser judío? ¿Qué es ser creyente?». Se atribuyen el título y el foco público, no citas reconstruidas. La evaluación se rige por Romanos 2 en el texto local.
 
-## Romanos 2:1-5: el juez también comparece
+## Romanos 2:1-5: el juez también comparece #romanos_2_1-5
 
 El «por eso» enlaza con la acusación de Romanos 1. Pablo no permite que quien reconoce el pecado ajeno se coloque fuera del juicio. **(ἀναπολόγητος)**, _anapologētos_, significa sin defensa o sin excusa; en 2:1 su fuerza forense es que el acusador practica lo que condena. «Sin excusa» es **directo**, pero no prohíbe todo discernimiento moral: denuncia la hipocresía de aplicarse una medida distinta.
 
@@ -44,7 +44,7 @@ La bondad de Elohim tiene dirección moral. **(χρηστότης)**, _chrēstot
 
 **(καταφρονέω)**, _kataphroneō_, significa despreciar o tener en poco; **(σκληρότης)**, _sklērotēs_, dureza o insensibilidad. En 2:5 describen a quien desprecia la bondad y atesora dureza. Eric acierta en la dirección hacia el retorno con apoyo **directo**, pero la paciencia no demuestra que toda persona ya haya respondido.
 
-## Romanos 2:6-16: obras, conciencia y juicio sin favoritismo
+## Romanos 2:6-16: obras, conciencia y juicio sin favoritismo #romanos_2_6-16
 
 «Dará a todo hombre conforme a sus obras» impide refugiarse solo en nombre, procedencia o audición. No fabrica mérito autónomo, porque Romanos 3 continuará cerrando la jactancia; sí afirma que la respuesta humana queda examinada. **(ἀποδίδωμι)**, _apodidōmi_, significa dar, devolver o retribuir conforme a una medida; introduce la rendición de cuentas. **(προσωπολημψία)**, _prosōpolēmpsia_, significa acepción de personas o favoritismo; en 2:11 niega que el rostro, rango o pertenencia manipulen el juicio. «Imparcialidad» es **aproximado** como síntesis y no borra el orden «al judío primeramente, y también al griego».
 
@@ -54,13 +54,13 @@ En 2:12-16, Pablo distingue a quienes pecan «sin Torah» de quienes pecan «en 
 
 La aproximación entre corazón y **לב**, _lev_, «corazón o centro interior», es **pedagógica**: ilumina la interioridad, pero no convierte cada intuición en revelación suficiente ni reemplaza la Torah. **(νόμος)**, _nomos_, puede significar ley, norma o instrucción; traducirlo aquí como Torah es **contextual y aproximado**, porque Pablo considera tanto la instrucción recibida por Israel como su función acusadora.
 
-## Romanos 2:17-24: nombre, enseñanza y credibilidad
+## Romanos 2:17-24: nombre, enseñanza y credibilidad #romanos_2_17-24
 
 Pablo reconoce bienes reales: el interlocutor es llamado iehudí, descansa en la Torah, conoce la voluntad y enseña a otros. La crítica es interna y concreta. **(Ἰουδαῖος)**, _Ioudaios_, significa judío; identifica al interlocutor histórico y no autoriza una condena indiferenciada de todo Israel. **(διδάσκω)**, _didaskō_, significa enseñar o instruir; en 2:21 devuelve la enseñanza al maestro: «¿a ti mismo no te enseñas?».
 
 **(βλασφημέω)**, _blasphēmeō_, significa injuriar, difamar o desacreditar; en 2:24 la conducta del que presume y transgrede hace que el Nombre sea deshonrado entre las naciones. La aplicación de Eric sobre identidad y credibilidad recibe apoyo **textual cualificado**: la identidad no sirve como escudo, pero esta autocrítica no autoriza desprecio étnico ni ataque indiscriminado a todo maestro.
 
-## Romanos 2:25-29: señal y obediencia del corazón
+## Romanos 2:25-29: señal y obediencia del corazón #romanos_2_25-29
 
 **(περιτομή)**, _peritomē_, significa circuncisión o corte ritual; **(ἀκροβυστία)**, _akrobystia_, incircuncisión; y **(ὠφελέω)**, _ōpheleō_, beneficiar o ser provechoso. «La circuncisión es beneficiosa si haces la Torah» contiene una condición explícita. Pablo no dice que la señal histórica sea irrelevante, sino que niega que pueda proteger una vida rebelde.
 

@@ -10,23 +10,23 @@ tags:
   - mar
   - mesias
 references:
-  - "#markos_4_1"
-  - "#markos_4_9"
-  - "#markos_4_14"
-  - "#markos_4_20"
-  - "#markos_4_24"
-  - "#markos_4_26"
-  - "#markos_4_28"
-  - "#markos_4_30"
-  - "#markos_4_32"
-  - "#markos_4_33"
-  - "#markos_4_35"
-  - "#markos_4_39"
-  - "#markos_4_40"
-  - "#markos_4_41"
-  - "#tehilim_89_9"
-  - "#tehilim_107_23"
-  - "#tehilim_107_29"
+  - "#marcos_4_1"
+  - "#marcos_4_9"
+  - "#marcos_4_14"
+  - "#marcos_4_20"
+  - "#marcos_4_24"
+  - "#marcos_4_26"
+  - "#marcos_4_28"
+  - "#marcos_4_30"
+  - "#marcos_4_32"
+  - "#marcos_4_33"
+  - "#marcos_4_35"
+  - "#marcos_4_39"
+  - "#marcos_4_40"
+  - "#marcos_4_41"
+  - "#salmos_89_9"
+  - "#salmos_107_23"
+  - "#salmos_107_29"
 sources:
   - "https://www.youtube.com/watch?v=agFU_axg_s0"
   - "https://www.youtube.com/watch?v=IhLu5hOaxYs"
@@ -62,11 +62,11 @@ Los tres `source_ids` son distintos, públicos y exclusivos de esta nota canóni
 
 | Referencia                               | Texto local TTH                                                                                                     | Función en la lectura                                                                                                        |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| #markos_4_1, #markos_4_9                 | «Y otra vez comenzó a enseñar junto al mar»; «Todo el que tenga oídos para escuchar, escuchará».                    | La enseñanza comienza en un escenario público y termina con una llamada a una escucha responsable.                           |
-| #markos_4_14, #markos_4_20               | «El sembrador de la semilla es el que siembra la palabra»; la tierra buena escucha, toma la palabra y da fruto.     | La explicación del propio Yehoshua prueba que la semilla no es una técnica de éxito, sino la palabra recibida y fructífera.  |
-| #markos_4_24, #markos_4_26, #markos_4_30 | «Con la medida que miden, se les medirá»; el reino es como semilla echada en tierra y se compara mediante parábola. | La medida regula la recepción de la enseñanza, mientras las parábolas describen un crecimiento que no controla el sembrador. |
-| #markos_4_33, #markos_4_35               | «Les decía la palabra, conforme a lo que ellos podían escuchar»; «Pasemos al otro lado».                            | La palabra entendida conduce a una acción concreta antes de la prueba del mar.                                               |
-| #markos_4_39-41                          | «¡Calla, séllate!»; «¿Cómo no hay para ustedes emunah?»; los vientos y el mar escuchan su voz.                      | La calma y la pregunta final conectan la fidelidad de los discípulos con la autoridad de Yehoshua sobre las aguas.           |
+| #marcos_4_1, #marcos_4_9                 | «Y otra vez comenzó a enseñar junto al mar»; «Todo el que tenga oídos para escuchar, escuchará».                    | La enseñanza comienza en un escenario público y termina con una llamada a una escucha responsable.                           |
+| #marcos_4_14, #marcos_4_20               | «El sembrador de la semilla es el que siembra la palabra»; la tierra buena escucha, toma la palabra y da fruto.     | La explicación del propio Yehoshua prueba que la semilla no es una técnica de éxito, sino la palabra recibida y fructífera.  |
+| #marcos_4_24, #marcos_4_26, #marcos_4_30 | «Con la medida que miden, se les medirá»; el reino es como semilla echada en tierra y se compara mediante parábola. | La medida regula la recepción de la enseñanza, mientras las parábolas describen un crecimiento que no controla el sembrador. |
+| #marcos_4_33, #marcos_4_35               | «Les decía la palabra, conforme a lo que ellos podían escuchar»; «Pasemos al otro lado».                            | La palabra entendida conduce a una acción concreta antes de la prueba del mar.                                               |
+| #marcos_4_39-41                          | «¡Calla, séllate!»; «¿Cómo no hay para ustedes emunah?»; los vientos y el mar escuchan su voz.                      | La calma y la pregunta final conectan la fidelidad de los discípulos con la autoridad de Yehoshua sobre las aguas.           |
 
 ## Perícopas en orden
 
@@ -162,7 +162,7 @@ La pregunta final «¿quién es este?» debe conservarse como conclusión abiert
 La primera mitad de Marcos 4 no presenta una sola parábola repetida con imágenes intercambiables. En 4:1-20, la semilla es «la palabra» y los terrenos explican respuestas distintas; en 4:21-25, la lámpara y la medida trasladan la escucha a la responsabilidad del oyente; en 4:26-32, el crecimiento y la mostaza describen el reino desde el trabajo inicial hasta el fruto y el refugio. **(ἀκούετε)**, _akouete_, «escuchen», es un imperativo plural en 4:3, mientras **(βλέπετε)**, _blepete_, «miren o tengan cuidado», en 4:24 añade vigilancia. La propuesta de Eric de que escuchar incluye comprender y obedecer se apoya en esta cadena de imperativos y resultados, no en una definición aislada de _akouō_.
 
 <!-- prettier-ignore -->
-La advertencia de la medida es especialmente concreta: «con la medida con que miden, se les medirá» (#markos_4_24). **(μέτρον)**, _metron_, significa medida o instrumento para medir; aquí la equivalencia con **(מידה)**, _midah_, es aproximada y sirve para señalar reciprocidad, no para importar una regla rabínica específica sin fuente. Marcos añade que al que tiene se le dará y al que no tiene se le quitará aun lo que tiene (#markos_4_25). En el contexto inmediato, la frase exige discernir cómo se recibe la palabra; no es una promesa general de riqueza para quien acumula. La secuencia confirma que la «medida» no es una unidad oculta de mérito: el capítulo la vincula con escuchar, prestar atención y responder a la enseñanza.
+La advertencia de la medida es especialmente concreta: «con la medida con que miden, se les medirá» (#marcos_4_24). **(μέτρον)**, _metron_, significa medida o instrumento para medir; aquí la equivalencia con **(מידה)**, _midah_, es aproximada y sirve para señalar reciprocidad, no para importar una regla rabínica específica sin fuente. Marcos añade que al que tiene se le dará y al que no tiene se le quitará aun lo que tiene (#marcos_4_25). En el contexto inmediato, la frase exige discernir cómo se recibe la palabra; no es una promesa general de riqueza para quien acumula. La secuencia confirma que la «medida» no es una unidad oculta de mérito: el capítulo la vincula con escuchar, prestar atención y responder a la enseñanza.
 
 El crecimiento «por sí mismo» de 4:28 no elimina el trabajo del sembrador ni convierte el reino en automatismo humano. **(αὐτομάτη)**, _automate_, califica el proceso desde la perspectiva del hombre que duerme y se levanta sin producir él la transformación: primero **(χόρτον)**, _chorton_, «hierba», luego espiga y grano lleno. La cosecha de 4:29 introduce **(θερισμός)**, _therismos_, «cosecha», y el verbo de enviar la hoz. La clase puede aplicar la imagen a una maduración que no se fuerza, pero el orden textual mantiene dos límites: hay fruto observable y llega un momento de cosecha; no se permite llamar crecimiento a toda actividad religiosa sin fruto.
 
@@ -192,7 +192,7 @@ La lámpara y la medida no interrumpen ese argumento. **ὅ τι ἐὰν ἀκ�
 
 Solo después aparece el cruce. **λέγει αὐτοῖς**, _legei autois_, «les dice», introduce la orden de 4:35; **διέλθωμεν**, _diēlthōmen_, «pasemos o atravesemos», incluye a los discípulos en la acción que viene. La tormenta, **λαῖλαψ μεγάλη**, _lailaps megalē_, «gran vendaval», no demuestra que la palabra haya fallado, y el sueño de Yehoshua no equivale a abandono. Cuando él ordena **σιώπα** y **πεφίμωσο**, «calla» y «enmudece», el relato muestra autoridad sobre una amenaza concreta; después pregunta por **πίστις**, _pistis_, «fe, confianza o fidelidad». La aplicación de Eric a una fidelidad que permanece en la palabra es legítima como exhortación, pero no convierte la calma en promesa de controlar toda aflicción.
 
-## Control final: de la semilla recibida a la pregunta por la identidad (4:1-41)
+## Control final: de la semilla recibida a la pregunta por la identidad (4:1-41) #marcos_4_1-41
 
 La clase de Eric relaciona la escucha con una respuesta fiel, y Marcos permite probarlo sin convertir **ἀκούω**, _akoúō_, «oír o escuchar», en una definición semítica oculta. El sembrador arroja **ὁ λόγος**, _ho lógos_, «la palabra», y el buen terreno **παραδέχονται**, _paradéchontai_, «recibe o acepta», para luego **καρποφοροῦσιν**, _karpophoroûsin_, «dar fruto». La comparación con **שמע**, _shema_, «oír, atender y obedecer», ilumina una relación temática; no reemplaza el griego ni hace que todo oyente produzca fruto automáticamente.
 

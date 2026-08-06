@@ -46,7 +46,7 @@ Esta nota remedia y desarrolla las clases del hermano Eric de Jesús Rodríguez 
 | #hebreos_10_32-35 | **זכרו נא את הימים הראשנים... ואל תשליכו את בטחונכם**           | La memoria de aflicciones pasadas sostiene la confianza presente.                |
 | #hebreos_10_39    | **אין אנחנו מן הנסגים אחור לאבד כי אם מן המאמינים להציל נפשנו** | El cierre contrapone retroceso y fidelidad que preserva la vida.                 |
 
-## De la sombra a la ofrenda cumplida: 10:1-18
+## De la sombra a la ofrenda cumplida: 10:1-18 #hebreos_10_1-18
 
 Eric comienza señalando que los sacrificios anuales no podían llevar a perfección a quienes se acercaban: la repetición mantenía visible el problema. Esa observación corresponde al contraste de 10:1-4, donde la sombra y los sacrificios que se ofrecen continuamente no logran limpiar de manera definitiva la conciencia. La clase llama «mejor» al sacrificio del Mesías, pero advierte que mejor no significa necesariamente una sustitución caprichosa o una negación simple de todo lo anterior; la nota conserva esa cautela como una lectura de continuidad y cumplimiento, no como una conclusión histórica demostrada.
 
@@ -58,13 +58,13 @@ Eric precisa esta transición con una observación material: cuando Hebreos habl
 
 La misma observación explica por qué Eric llama “mejor” al sacrificio una mejora o escalamiento, y no una abolición caprichosa de todo lo anterior. **כי בקרבן אחד השלים לעולם את המקודשים** (“porque con una sola ofrenda llevó a la meta para siempre a los santificados”, 10:14) sí establece superioridad duradera frente a la repetición; la palabra “mejor” pertenece al desarrollo comparativo de la carta y la fórmula “mejorado” es una síntesis pedagógica de Eric. El capítulo sostiene cumplimiento y eficacia superior, pero no autoriza por sí solo todos los detalles históricos que la clase relaciona con la transición del sacerdocio.
 
-## El acceso abierto y el sacerdocio superior: 10:19-25
+## El acceso abierto y el sacerdocio superior: 10:19-25 #hebreos_10_19-25
 
 La exhortación cambia de la explicación cultual a la respuesta comunitaria: «teniendo confianza» para entrar, los creyentes deben acercarse, mantener firme la confesión de la esperanza y estimularse al amor y a las buenas obras. Eric habla de un santuario verdadero y celestial frente a la figura terrenal. La distinción encaja con el argumento acumulado en Hebreos, pero la nota no convierte una imagen teológica en un mapa arquitectónico comprobable.
 
 El término griego **(παρρησία)** (_parresia_) expresa franqueza, confianza o libertad para hablar y acercarse; es una aproximación más amplia que el castellano «seguridad». En 10:19-22 esa confianza no es autosuficiencia: está fundada en la sangre, en el camino nuevo y vivo, y en la función sacerdotal del Mesías. El verbo **(προσερχώμεθα)** (_proserchometha_, acerquémonos) aparece como exhortación comunitaria; por eso la fidelidad del capítulo incluye reunión, estímulo y cuidado mutuo, no sólo una convicción interior.
 
-## Advertencia, memoria y fidelidad: 10:26-39
+## Advertencia, memoria y fidelidad: 10:26-39 #hebreos_10_26-39
 
 El pasaje severo sobre pecar deliberadamente (10:26-31) no debe separarse de la memoria de quienes soportaron vituperios, prisiones y pérdida de bienes (10:32-34). Eric conecta la advertencia con la afrenta hecha al sacrificio del Mesías y lee «sangre» como la realidad sacrificial que no debe declararse inútil. Esa observación conserva la gravedad del texto; no permite, sin una argumentación adicional, identificar cada caso pastoral moderno con la situación de los destinatarios.
 

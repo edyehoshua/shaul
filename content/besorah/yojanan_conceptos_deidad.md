@@ -15,26 +15,26 @@ tags:
   - lexico
   - sintesis
 references:
-  - "#iojanan_1_1"
-  - "#iojanan_1_14"
-  - "#iojanan_1_34"
-  - "#iojanan_3_36"
-  - "#iojanan_5_18"
-  - "#iojanan_5_21"
-  - "#iojanan_6_51"
-  - "#iojanan_9_38"
-  - "#iojanan_10_18"
-  - "#iojanan_10_30"
-  - "#iojanan_11_41"
-  - "#iojanan_11_52"
-  - "#iojanan_14_6"
-  - "#iojanan_14_9"
-  - "#iojanan_14_28"
-  - "#devarim_32_39"
-  - "#ivrim_4_16"
-  - "#ivrim_6_13"
-  - "#zejariah_12_10"
-  - "#tehilim_36_10"
+  - "#juan_1_1"
+  - "#juan_1_14"
+  - "#juan_1_34"
+  - "#juan_3_36"
+  - "#juan_5_18"
+  - "#juan_5_21"
+  - "#juan_6_51"
+  - "#juan_9_38"
+  - "#juan_10_18"
+  - "#juan_10_30"
+  - "#juan_11_41"
+  - "#juan_11_52"
+  - "#juan_14_6"
+  - "#juan_14_9"
+  - "#juan_14_28"
+  - "#deuteronomio_32_39"
+  - "#hebreos_4_16"
+  - "#hebreos_6_13"
+  - "#zacarias_12_10"
+  - "#salmos_36_10"
 sources:
   - "content/besorah/yojanan_introduccion.md"
   - "content/besorah/yojanan_1.md"
@@ -104,13 +104,13 @@ flowchart TB
 
 Significa:
 
-- **Fuente** y origen del amor entrañable antes de manifestarse (#tehilim_36_10; [[../temas/elohim_aba|Elohim y Aba]]).
-- **Plenitud de la promesa** que el Mesías confiesa y cumple, no un interlocutor ajeno (#iojanan_11_41; [[yojanan_oracion_dos_tronos_emunah|Dos tronos y Abba instituido]]).
+- **Fuente** y origen del amor entrañable antes de manifestarse (#salmos_36_10; [[../temas/elohim_aba|Elohim y Aba]]).
+- **Plenitud de la promesa** que el Mesías confiesa y cumple, no un interlocutor ajeno (#juan_11_41; [[yojanan_oracion_dos_tronos_emunah|Dos tronos y Abba instituido]]).
 - **Voluntad escrita sobre el Mesías** — vino a hacer lo que estaba en el rollo, no a cumplir abstractamente «toda la ley» como cliché pastoral.
 
-Cuando Yeshúa dice «el que me ha visto ha visto al Padre» (#iojanan_14_9), la serie lee: **ver al Mesías es ver el amor de Elohim hecho visible**, no ir hacia otra persona distante.
+Cuando Yeshúa dice «el que me ha visto ha visto al Padre» (#juan_14_9), la serie lee: **ver al Mesías es ver el amor de Elohim hecho visible**, no ir hacia otra persona distante.
 
-«Abba es mayor que yo» (#iojanan_14_28) no niega la deidad del Mesías. Distingue la **manifestación en etapa de siervo** de la **plenitud de la fuente** aún por revelarse del todo ([[yojanan_10_abba_obras_y_morada|Yojanán 10: Abba, obras y morada]]).
+«Abba es mayor que yo» (#juan_14_28) no niega la deidad del Mesías. Distingue la **manifestación en etapa de siervo** de la **plenitud de la fuente** aún por revelarse del todo ([[yojanan_10_abba_obras_y_morada|Yojanán 10: Abba, obras y morada]]).
 
 ## Elohim
 
@@ -119,11 +119,11 @@ Cuando Yeshúa dice «el que me ha visto ha visto al Padre» (#iojanan_14_9), la
 En el uso principal de la serie:
 
 - Es el **amor entrañable (rajamim) de Eloha manifestado** hacia la creación.
-- Se relaciona con el **trono de la gracia**: misericordia, acceso, socorro oportuno (#ivrim_4_16; [[yojanan_oracion_dos_tronos_emunah|Dos tronos]]).
+- Se relaciona con el **trono de la gracia**: misericordia, acceso, socorro oportuno (#hebreos_4_16; [[yojanan_oracion_dos_tronos_emunah|Dos tronos]]).
 
-Pero el contexto manda. En Yojanán 10, `elohim` también puede nombrar jueces humanos (#tehilim_82_6), mensajeros o usos polémicos ([[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]). La lectura no debe ser mecánica.
+Pero el contexto manda. En Yojanán 10, `elohim` también puede nombrar jueces humanos (#salmos_82_6), mensajeros o usos polémicos ([[yojanan_10_elohim_obras_y_mensajero|Yojanán 10: Elohim, obras y mensajero]]). La lectura no debe ser mecánica.
 
-En el prólogo, la afirmación decisiva es #iojanan_1_1: **«Elohim era la Palabra»** — la meymrá no es un dios secundario ni un logos filosófico desligado; es la expresión corpórea del único Elohim ([[yojanan_1|Yojanán 1: meymrá y vida]], [[yojanan_iehudim_y_logos|Yojanán: yehudim y logos]]).
+En el prólogo, la afirmación decisiva es #juan_1_1: **«Elohim era la Palabra»** — la meymrá no es un dios secundario ni un logos filosófico desligado; es la expresión corpórea del único Elohim ([[yojanan_1|Yojanán 1: meymrá y vida]], [[yojanan_iehudim_y_logos|Yojanán: yehudim y logos]]).
 
 ## Bar Enash / Ben HaAdam (בן האדם)
 
@@ -146,8 +146,8 @@ En Yojanán 6, comer la carne del Ben HaAdam es aceptar el **korban**: su vida e
 
 En la serie:
 
-- Iojanán testifica: «Este es el Ben HaElohim» (#iojanan_1_34).
-- El Hijo hace lo mismo que el Padre: vivifica, juzga, recibe la misma honra (#iojanan_5_19-23; [[yojanan_5_hijo_juicio_vida|Yojanán 5: Hijo, juicio y vida]]).
+- Yojanán testifica: «Este es el Ben HaElohim» (#juan_1_34).
+- El Hijo hace lo mismo que el Padre: vivifica, juzga, recibe la misma honra (#juan_5_19-23; [[yojanan_5_hijo_juicio_vida|Yojanán 5: Hijo, juicio y vida]]).
 - Los oyentes de Yojanán 5:18 entienden que al decir que Elohim es su Padre, **se hace igual a Elohim** — la serie toma esa percepción como indicio textual serio, no como exageración.
 
 «Hijo» viene del campo de **ben/bar**: herencia, pertenencia, portación. El Hijo no inventa una obra aparte; **hace visible la voluntad de יהוה**.
@@ -172,18 +172,18 @@ Yojanán fue escrito, según la introducción de la serie, para mostrar la **dim
 
 | Referencia      | Texto local                                      | Función en la síntesis                 |
 | --------------- | ------------------------------------------------ | -------------------------------------- |
-| #iojanan_1_1    | בראשית היה הדבר… והוא הדבר היה אלהים (Delitzsch) | La Palabra es Elohim desde el origen   |
-| #iojanan_5_18   | …כי הוא דומה לאלהים (Delitzsch)                  | Se hace igual a Elohim                 |
-| #iojanan_10_30  | ואני והאב אחד (Delitzsch)                        | Unidad de identidad y obra             |
-| #iojanan_14_9   | הראה אתי ראה אתהאב (Delitzsch)                   | Ver al Mesías = ver al Padre           |
-| #ivrim_6_13     | …נשבע בנפשו יען אשר אין גדול ממנו להשבע בו       | יהוה juró por sí mismo; no hay mayor   |
-| #zejariah_12_10 | …והביטו אלי את אשר דקרו (OE)                     | El traspasado es manifestación de יהוה |
+| #juan_1_1    | בראשית היה הדבר… והוא הדבר היה אלהים (Delitzsch) | La Palabra es Elohim desde el origen   |
+| #juan_5_18   | …כי הוא דומה לאלהים (Delitzsch)                  | Se hace igual a Elohim                 |
+| #juan_10_30  | ואני והאב אחד (Delitzsch)                        | Unidad de identidad y obra             |
+| #juan_14_9   | הראה אתי ראה אתהאב (Delitzsch)                   | Ver al Mesías = ver al Padre           |
+| #hebreos_6_13     | …נשבע בנפשו יען אשר אין גדול ממנו להשבע בו       | יהוה juró por sí mismo; no hay mayor   |
+| #zacarias_12_10 | …והביטו אלי את אשר דקרו (OE)                     | El traspasado es manifestación de יהוה |
 
 Pilares doctrinales en la serie:
 
-1. **Corporeidad real** — la Palabra «llegó a ser carne» y tabernaculizó (#iojanan_1_14); no es apariencia ni sombra.
-2. **Unidad con Abba** — no compiten; el Padre mora en el Mesías y obra por él (#iojanan_14_10).
-3. **Cumplimiento personal** — יהוה no delega el sello final de las promesas en un inferior (#ivrim_6_13; [[yojanan_10_abba_obras_y_morada|Abba, obras y morada]]).
+1. **Corporeidad real** — la Palabra «llegó a ser carne» y tabernaculizó (#juan_1_14); no es apariencia ni sombra.
+2. **Unidad con Abba** — no compiten; el Padre mora en el Mesías y obra por él (#juan_14_10).
+3. **Cumplimiento personal** — יהוה no delega el sello final de las promesas en un inferior (#hebreos_6_13; [[yojanan_10_abba_obras_y_morada|Abba, obras y morada]]).
 4. **Presentación celestial, no diálogo con otro dios** — cuando se dirige al cielo, entra en juicio y confiesa la promesa ([[yojanan_oracion_tribunal_celestial|Oración y tribunal celestial]]).
 
 ## Elohim viviente / El Chai (אל חי)
@@ -192,13 +192,13 @@ La serie no dedica una clase al término **El Chai** por separado, pero el conce
 
 | Tema                    | Pasaje         | Idea                                       |
 | ----------------------- | -------------- | ------------------------------------------ |
-| Vida en la Palabra      | #iojanan_1_4   | En Él estaba la vida                       |
-| Pan vivo                | #iojanan_6_51  | Descendió del cielo; quien come no muere   |
-| Dominio sobre la vida   | #iojanan_10_18 | Él pone y retoma su vida                   |
-| Yo soy la vida          | #iojanan_14_6  | Acceso a Abba unido a la vida misma        |
-| Hago morir y hago vivir | #devarim_32_39 | יהוה no delega plenitud de vida a criatura |
+| Vida en la Palabra      | #juan_1_4   | En Él estaba la vida                       |
+| Pan vivo                | #juan_6_51  | Descendió del cielo; quien come no muere   |
+| Dominio sobre la vida   | #juan_10_18 | Él pone y retoma su vida                   |
+| Yo soy la vida          | #juan_14_6  | Acceso a Abba unido a la vida misma        |
+| Hago morir y hago vivir | #deuteronomio_32_39 | יהוה no delega plenitud de vida a criatura |
 
-**Elohim viviente** es quien **no está limitado por la muerte**, vivifica a los muertos (#iojanan_5_21) y comunica vida olam por el Mesías.
+**Elohim viviente** es quien **no está limitado por la muerte**, vivifica a los muertos (#juan_5_21) y comunica vida olam por el Mesías.
 
 ## Bar El Chai / Ben HaElohim HaChai
 
@@ -207,7 +207,7 @@ La serie no dedica una clase al término **El Chai** por separado, pero el conce
 - **Ben HaElohim** — portador y manifestación de la deidad.
 - **El Chai** — el que tiene vida en sí y la comunica.
 
-En esta lectura, el Mesías **no recibe vida de otro dios**. Él es la **Palabra viviente** que descendió, entregó su carne como korban (#iojanan_6_51) y resucita con vida indestructible ([[yojanan_10_17_28_vida_indestructible|Vida indestructible]]).
+En esta lectura, el Mesías **no recibe vida de otro dios**. Él es la **Palabra viviente** que descendió, entregó su carne como korban (#juan_6_51) y resucita con vida indestructible ([[yojanan_10_17_28_vida_indestructible|Vida indestructible]]).
 
 La fórmula exacta **Ben HaElohim HaChai** no es eje explícito en las notas de Yojanán del repositorio; queda como síntesis léxica coherente con el hilo de vida + filiación.
 
@@ -221,7 +221,7 @@ En la serie de Yojanán, יהוה cumple al menos dos funciones complementarias 
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------ |
 | Trono      | Trono de la gracia                | Trono del juicio                                                                     |
 | Énfasis    | Misericordia, amor entrañable     | Justicia, tribunal, Nombre del pacto                                                 |
-| En Yojanán | Palabra manifestada, vida, korban | Ira sobre quien rechaza al Hijo (#iojanan_3_36); obra de salvación (#zejariah_12_10) |
+| En Yojanán | Palabra manifestada, vida, korban | Ira sobre quien rechaza al Hijo (#juan_3_36); obra de salvación (#zacarias_12_10) |
 
 No son dos dioses en competencia. Son **dos tronos de la misma institucionalidad divina** ([[yojanan_oracion_dos_tronos_emunah|Dos tronos]]).
 
@@ -245,7 +245,7 @@ Cuando Yeshúa se presenta «ante el cielo», la serie lee **presentación ante 
 ## Pendiente de verificar
 
 - [ ] Cotejar usos de **אל חי** / Bar El Chai en Besorah fuera de la serie Yojanán (p. ej. confesión mesiánica en otros evangelios).
-- [ ] Revisar en léxicos el rango completo de **בני האלהים** en literatura intertestamentaria frente a la lectura de #iojanan_11_52.
+- [ ] Revisar en léxicos el rango completo de **בני האלהים** en literatura intertestamentaria frente a la lectura de #juan_11_52.
 - [ ] Desarrollar nota aparte sobre **יהוה צבאות** y plenitud de atributos si se enlaza con Yojanán 12:41.
 - [ ] Documentar con fuentes primarias y estudios especializados las afirmaciones de la cuarta clase sobre Filón, los llamados padres apostólicos y el desarrollo histórico de las doctrinas.
 
@@ -253,12 +253,12 @@ Cuando Yeshúa se presenta «ante el cielo», la serie lee **presentación ante 
 
 | Unidad textual                             | Observación concreta de Eric                                                                                               | Prueba y tratamiento en esta nota                                                                                                                                                                         |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #iojanan_1_1, #iojanan_1_14                | La Palabra es Elohim y llega a ser carne; no es un logos filosófico ni un dios secundario.                                 | El prólogo local afirma que la Palabra era Elohim y que llegó a ser carne; la síntesis conserva la corporeidad y deja la ampliación filosófica como contraste interpretativo.                             |
-| #iojanan_5_18, #iojanan_5_21-23            | «Hijo» expresa igualdad de honra, vida y juicio, no filiación biológica de otro dios.                                      | Los versos enlazan Padre, Hijo, vivificar, juzgar y honrar; «portador» y «manifestación» se explican como lectura contextual, no como definición automática de בן.                                        |
-| #iojanan_6_51, #iojanan_10_18              | Ben HaAdam y el Hijo viviente se entienden desde una vida celestial, corpórea e indestructible que se entrega como korban. | El pan que baja del cielo y la autoridad de poner y retomar la vida sostienen el hilo; «El Chai» y la tipología del árbol de vida se registran como síntesis canónica, no como fórmula literal del verso. |
-| #iojanan_11_52                             | Benei Elohim son herederos dispersos reunidos en uno, no necesariamente ángeles.                                           | El texto afirma reunir en uno a los hijos de Elohim dispersos; el sentido de «herederos del trono de la gracia» es una inferencia atribuida que se coteja con Ivrim 4:16.                                 |
-| #iojanan_14_9, #iojanan_14_28; #ivrim_6_13 | Abba es fuente y promesa instituida, mientras el Mesías manifiesta y cumple; «mayor» no implica otro dios.                 | «Ver al Hijo» y la relación Padre-Hijo son explícitos; la distinción entre fuente y manifestación es explicación de la serie, no equivalencia léxica de אבא.                                              |
-| #devarim_32_39, #iojanan_5_21              | Elohim viviente comunica vida que la muerte no limita.                                                                     | Devarim atribuye a יהוה hacer morir y vivir, y Yojanán atribuye al Hijo vivificar; la conclusión sobre identidad divina se conserva como argumento canónico, no como traducción de אל חי en cada pasaje.  |
+| #juan_1_1, #juan_1_14                | La Palabra es Elohim y llega a ser carne; no es un logos filosófico ni un dios secundario.                                 | El prólogo local afirma que la Palabra era Elohim y que llegó a ser carne; la síntesis conserva la corporeidad y deja la ampliación filosófica como contraste interpretativo.                             |
+| #juan_5_18, #juan_5_21-23            | «Hijo» expresa igualdad de honra, vida y juicio, no filiación biológica de otro dios.                                      | Los versos enlazan Padre, Hijo, vivificar, juzgar y honrar; «portador» y «manifestación» se explican como lectura contextual, no como definición automática de בן.                                        |
+| #juan_6_51, #juan_10_18              | Ben HaAdam y el Hijo viviente se entienden desde una vida celestial, corpórea e indestructible que se entrega como korban. | El pan que baja del cielo y la autoridad de poner y retomar la vida sostienen el hilo; «El Chai» y la tipología del árbol de vida se registran como síntesis canónica, no como fórmula literal del verso. |
+| #juan_11_52                             | Benei Elohim son herederos dispersos reunidos en uno, no necesariamente ángeles.                                           | El texto afirma reunir en uno a los hijos de Elohim dispersos; el sentido de «herederos del trono de la gracia» es una inferencia atribuida que se coteja con Ivrim 4:16.                                 |
+| #juan_14_9, #juan_14_28; #hebreos_6_13 | Abba es fuente y promesa instituida, mientras el Mesías manifiesta y cumple; «mayor» no implica otro dios.                 | «Ver al Hijo» y la relación Padre-Hijo son explícitos; la distinción entre fuente y manifestación es explicación de la serie, no equivalencia léxica de אבא.                                              |
+| #deuteronomio_32_39, #juan_5_21              | Elohim viviente comunica vida que la muerte no limita.                                                                     | Devarim atribuye a יהוה hacer morir y vivir, y Yojanán atribuye al Hijo vivificar; la conclusión sobre identidad divina se conserva como argumento canónico, no como traducción de אל חי en cada pasaje.  |
 
 ## Conclusión
 
@@ -277,4 +277,4 @@ Leer Yojanán con estas palabras — Abba, Elohim, Ben HaAdam, Ben HaElohim, Ben
 
 Esta nota organiza y contrasta una transcripción automática; no la trata como cita literal. Sus afirmaciones históricas se mantienen como líneas de investigación hasta que sean documentadas.
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías parte 4: El origen de las doctrinas» — <https://www.youtube.com/watch?v=3ehqAOSaahA> — source_id: `youtube:3ehqAOSaahA`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «La deidad del Mesías parte 4: El origen de las doctrinas» — <https://www.youtube.com/watch?v=3ehqAOSaahA> — `source_id`: `youtube:3ehqAOSaahA`.

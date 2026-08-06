@@ -8,13 +8,13 @@ tags:
   - juicio
   - mesias
 references:
-  - "#tehilim_109_1-31"
-  - "#tehilim_69_25"
-  - "#maasei_1_16-20"
-  - "#tehilim_121_5-6"
-  - "#ieshaiahu_53_7-12"
-  - "#matityahu_5_44"
-  - "#ivrim_10_23"
+  - "#salmos_109_1-31"
+  - "#salmos_69_25"
+  - "#hechos_1_16-20"
+  - "#salmos_121_5-6"
+  - "#isaias_53_7-12"
+  - "#mateo_5_44"
+  - "#hebreos_10_23"
 sources:
   - "https://www.youtube.com/watch?v=SwQHUaQwW0I"
   - "docs/scriptures/oe/json/psalms/109.json"
@@ -34,12 +34,12 @@ Se sigue el orden del capítulo y se incluyen los pasajes que Eric utilizó para
 
 | Ref.               | Texto hebreo local                                                                  | Observación                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #tehilim_109_1-5   | **למנצח לדוד מזמור אלהי תהלתי אל תחרש ... וישימו עלי רעה תחת טובה ושנאה תחת אהבתי** | La súplica nace de boca perversa, guerra gratuita y mal por bien.                       |
-| #tehilim_109_6-10  | **הפקד עליו רשע ושטן יעמד על ימינו ... יהיו בניו יתומים ואשתו אלמנה**               | Sección de juicio; la identidad del hablante y la fuerza imperativa requieren contexto. |
-| #tehilim_109_11-15 | **ינקש נושה לכל אשר לו ... ויכרת מארץ זכרם**                                        | Despojo, ausencia de misericordia y memoria cortada.                                    |
-| #tehilim_109_16-20 | **יען אשר לא זכר עשות חסד ... זאת פעלת שטני מאת יהוה**                              | La causa del juicio es no hacer חסד y perseguir al pobre; Eric lo lee como profecía.    |
-| #tehilim_109_21-25 | **ואתה יהוה אדני עשה אתי למען שמך ... ולבי חלל בקרבי**                              | El siervo abandona su causa en el nombre de יהוה y describe su aflicción.               |
-| #tehilim_109_26-31 | **עזרני יהוה אלהי הושיעני כחסדך ... כי יעמד לימין אביון**                           | Bendición en lugar de maldición, vergüenza del opositor y defensa del necesitado.       |
+| #salmos_109_1-5   | **למנצח לדוד מזמור אלהי תהלתי אל תחרש ... וישימו עלי רעה תחת טובה ושנאה תחת אהבתי** | La súplica nace de boca perversa, guerra gratuita y mal por bien.                       |
+| #salmos_109_6-10  | **הפקד עליו רשע ושטן יעמד על ימינו ... יהיו בניו יתומים ואשתו אלמנה**               | Sección de juicio; la identidad del hablante y la fuerza imperativa requieren contexto. |
+| #salmos_109_11-15 | **ינקש נושה לכל אשר לו ... ויכרת מארץ זכרם**                                        | Despojo, ausencia de misericordia y memoria cortada.                                    |
+| #salmos_109_16-20 | **יען אשר לא זכר עשות חסד ... זאת פעלת שטני מאת יהוה**                              | La causa del juicio es no hacer חסד y perseguir al pobre; Eric lo lee como profecía.    |
+| #salmos_109_21-25 | **ואתה יהוה אדני עשה אתי למען שמך ... ולבי חלל בקרבי**                              | El siervo abandona su causa en el nombre de יהוה y describe su aflicción.               |
+| #salmos_109_26-31 | **עזרני יהוה אלהי הושיעני כחסדך ... כי יעמד לימין אביון**                           | Bendición en lugar de maldición, vergüenza del opositor y defensa del necesitado.       |
 
 ## Mapa de la enseñanza de Eric
 
@@ -66,7 +66,7 @@ La prueba decisiva que Eric trae es Maasei 1:16-20. Allí Kefas cita el salmo: *
 
 En 21-25 el yo poético no organiza venganza autónoma: “haz conmigo por causa de tu nombre”, “líbrame conforme a tu חסד”. Eric conecta **ואני תפלה** con una postura de rendición: el siervo se presenta ante יהוה para que la justicia no sea dictada por su propia medida. La relación con la oración de Yehoshua —“no mi voluntad, sino la tuya”— es pedagógica, no una traducción de **תפלה**. El salmo, sin embargo, da base suficiente para hablar de oración encarnada en una vida herida: rodillas que desfallecen por ayuno, cuerpo debilitado y vergüenza pública.
 
-La respuesta no es pasividad sin testimonio. En 26-28 el siervo pide ayuda, desea que los adversarios conozcan la mano de יהוה y afirma: “ellos maldicen, pero tú bendices”. Eric lo presenta como regla práctica: la bendición no es negar el daño, sino no devolverlo desde la iniciativa del ego. Esta lectura dialoga con #matityahu_5_44, aunque el salmo conserva una súplica judicial más áspera que no debe ser borrada con una fórmula genérica de amabilidad.
+La respuesta no es pasividad sin testimonio. En 26-28 el siervo pide ayuda, desea que los adversarios conozcan la mano de יהוה y afirma: “ellos maldicen, pero tú bendices”. Eric lo presenta como regla práctica: la bendición no es negar el daño, sino no devolverlo desde la iniciativa del ego. Esta lectura dialoga con #mateo_5_44, aunque el salmo conserva una súplica judicial más áspera que no debe ser borrada con una fórmula genérica de amabilidad.
 
 ## Léxico clave
 
@@ -81,11 +81,11 @@ La respuesta no es pasividad sin testimonio. En 26-28 el siervo pide ayuda, dese
 
 ## Conexiones principales
 
-- #maasei_1_16-20 es la conexión textual decisiva: cita Tehilim 109 y aplica el reemplazo del oficio a Yehudah.
-- #tehilim_69_25 comparte el lenguaje de desolación y ayuda a evaluar la red intertextual mencionada por Eric.
-- #tehilim_121_5-6 ilumina la imagen de la diestra como sombra y apoyo, pero no convierte toda diestra en una fórmula fija.
-- #ieshaiahu_53_7-12 permite comparar al siervo que soporta oposición sin responder con violencia.
-- #ivrim_10_23 prueba la exhortación final a mantener firme la profesión de esperanza, sin eliminar la súplica por justicia.
+- #hechos_1_16-20 es la conexión textual decisiva: cita Tehilim 109 y aplica el reemplazo del oficio a Yehudah.
+- #salmos_69_25 comparte el lenguaje de desolación y ayuda a evaluar la red intertextual mencionada por Eric.
+- #salmos_121_5-6 ilumina la imagen de la diestra como sombra y apoyo, pero no convierte toda diestra en una fórmula fija.
+- #isaias_53_7-12 permite comparar al siervo que soporta oposición sin responder con violencia.
+- #hebreos_10_23 prueba la exhortación final a mantener firme la profesión de esperanza, sin eliminar la súplica por justicia.
 
 ## Pendiente de verificar
 

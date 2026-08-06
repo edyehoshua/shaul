@@ -9,11 +9,11 @@ tags:
   - behar
   - esperanza
 references:
-  - "#yirmeyahu_32_6"
-  - "#yirmeyahu_32_9"
-  - "#yirmeyahu_32_15"
-  - "#yirmeyahu_32_37"
-  - "#yirmeyahu_32_44"
+  - "#jeremias_32_6"
+  - "#jeremias_32_9"
+  - "#jeremias_32_15"
+  - "#jeremias_32_37"
+  - "#jeremias_32_44"
 sources:
   - "https://www.youtube.com/watch?v=VCZ1IDIhkO8"
   - "docs/scriptures/oe/json/jeremiah/32.json"
@@ -34,11 +34,11 @@ Esta nota reúne la haftará de Behar trabajada por el hermano Eric de Jesús Ro
 
 | Referencia       | Texto hebreo local (OE)                                                                                                                    | Observación de lectura                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| #yirmeyahu_32_6  | ויאמר ירמיהו היה דבר יהוה אלי לאמר                                                                                                         | El relato presenta la palabra que recibe Yirmeyahu antes de la transacción.                  |
-| #yirmeyahu_32_9  | ואקנה את השדה מאת חנמאל בן דדי אשר בענתות ואשקלה לו את הכסף שבעה שקלים ועשרה הכסף                                                          | La compra, el pariente, el campo y la plata pertenecen al relato, no son una imagen aislada. |
-| #yirmeyahu_32_15 | כי כה אמר יהוה צבאות אלהי ישראל עוד יקנו בתים ושדות וכרמים בארץ הזאת                                                                       | La promesa de compras futuras interpreta el gesto dentro de la continuidad de la tierra.     |
-| #yirmeyahu_32_37 | הנני מקבצם מכל הארצות אשר הדחתים שם באפי ובחמתי ובקצף גדול והשבתים אל המקום הזה והשבתים לבטח                                               | El retorno y la seguridad se expresan como acción de יהוה.                                   |
-| #yirmeyahu_32_44 | שדות בכסף יקנו וכתוב בספר וחתום והעד עדים בארץ בנימן ובסביבי ירושלם ובערי יהודה ובערי ההר ובערי השפלה ובערי הנגב כי אשיב את שבותם נאם יהוה | El cierre vuelve a nombrar compra, escritura, sello, testigos y restauración.                |
+| #jeremias_32_6  | ויאמר ירמיהו היה דבר יהוה אלי לאמר                                                                                                         | El relato presenta la palabra que recibe Yirmeyahu antes de la transacción.                  |
+| #jeremias_32_9  | ואקנה את השדה מאת חנמאל בן דדי אשר בענתות ואשקלה לו את הכסף שבעה שקלים ועשרה הכסף                                                          | La compra, el pariente, el campo y la plata pertenecen al relato, no son una imagen aislada. |
+| #jeremias_32_15 | כי כה אמר יהוה צבאות אלהי ישראל עוד יקנו בתים ושדות וכרמים בארץ הזאת                                                                       | La promesa de compras futuras interpreta el gesto dentro de la continuidad de la tierra.     |
+| #jeremias_32_37 | הנני מקבצם מכל הארצות אשר הדחתים שם באפי ובחמתי ובקצף גדול והשבתים אל המקום הזה והשבתים לבטח                                               | El retorno y la seguridad se expresan como acción de יהוה.                                   |
+| #jeremias_32_44 | שדות בכסף יקנו וכתוב בספר וחתום והעד עדים בארץ בנימן ובסביבי ירושלם ובערי יהודה ובערי ההר ובערי השפלה ובערי הנגב כי אשיב את שבותם נאם יהוה | El cierre vuelve a nombrar compra, escritura, sello, testigos y restauración.                |
 
 ## El campo comprado en tiempo de asedio
 
@@ -79,5 +79,5 @@ Yirmeyahu 32 une una acción verificable —comprar, escribir, sellar y llamar t
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Haftarah de Behar (Jer 32)» — <https://www.youtube.com/watch?v=VCZ1IDIhkO8> — source_id: `youtube:VCZ1IDIhkO8`.
+- «Haftarah de Behar (Jer 32)» — <https://www.youtube.com/watch?v=VCZ1IDIhkO8> — `source_id`: `youtube:VCZ1IDIhkO8`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

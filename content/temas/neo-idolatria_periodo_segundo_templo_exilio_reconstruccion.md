@@ -9,24 +9,24 @@ tags:
   - idolatria
   - autoridad
 references:
-  - "#irmeiahu_25_11"
-  - "#ieshaiahu_44_28"
-  - "#ieshaiahu_45_1"
-  - "#ieshaiahu_45_4"
-  - "#jagai_1_2"
-  - "#jagai_1_5"
-  - "#jagai_1_8"
-  - "#jagai_2_9"
-  - "#zejariah_3_8"
-  - "#zejariah_6_12"
-  - "#matityahu_23_8"
-  - "#matityahu_23_13"
-  - "#matityahu_24_1"
-  - "#matityahu_24_2"
+  - "#jeremias_25_11"
+  - "#isaias_44_28"
+  - "#isaias_45_1"
+  - "#isaias_45_4"
+  - "#hageo_1_2"
+  - "#hageo_1_5"
+  - "#hageo_1_8"
+  - "#hageo_2_9"
+  - "#zacarias_3_8"
+  - "#zacarias_6_12"
+  - "#mateo_23_8"
+  - "#mateo_23_13"
+  - "#mateo_24_1"
+  - "#mateo_24_2"
 sources:
   - "https://www.youtube.com/watch?v=W-MHdcrrhxk"
-  - "docs/scriptures/tth/json/irmeiahu.json"
-  - "docs/scriptures/tth/json/ieshaiahu.json"
+  - "docs/scriptures/tth/json/yirmeyahu.json"
+  - "docs/scriptures/tth/json/yeshayahu.json"
   - "docs/scriptures/tth/json/jagai.json"
   - "docs/scriptures/tth/json/zejariah.json"
   - "docs/scriptures/delitzsch/json/matthew.json"
@@ -47,12 +47,12 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre el p
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #irmeiahu_25_11-12 | «Y será toda esta tierra para desolación, para horror, y servirán estas naciones al rey de Babel setenta años... cuando se completen los setenta años, visitaré sobre el rey de Babel... su iniquidad». | El exilio tiene duración y juicio; no es un accidente sin propósito. |
-| #ieshaiahu_44_28; #ieshaiahu_45_1,4 | «El que dice de Coresh: “Mi pastor es”»; «a su ungido, a Coresh»; «te he nombrado, y no me conocías». | יהוה puede usar a un gobernante pagano para cumplir un propósito histórico sin convertirlo en modelo de santidad. |
-| #jagai_1_2,5-8 | «¿Es tiempo para ustedes habitar en sus casas techadas, y esta casa está desolada?»; «Pongan su corazón sobre sus caminos»; «edifiquen la casa». | La negligencia de la casa de יהוה se discierne examinando caminos y prioridades. |
-| #jagai_2_9 | «Grande será la gloria de esta casa, la postrera más que la primera... y en este lugar daré shalom». | La gloria prometida no debe reducirse al tamaño o apariencia del edificio. |
-| #zejariah_3_8; #zejariah_6_12 | Yehoshúa y sus compañeros son «hombres de señal»; el Retoño «edificará el Hejal de יהוה». | El sacerdocio y la edificación aparecen con una dimensión simbólica que apunta más allá de la obra inmediata. |
-| #matityahu_24_1-2 | «No quedará aquí piedra sobre piedra que no sea derribada». | Yehoshua relativiza el edificio visible y anuncia su ruina. |
+| #jeremias_25_11-12 | «Y será toda esta tierra para desolación, para horror, y servirán estas naciones al rey de Babel setenta años... cuando se completen los setenta años, visitaré sobre el rey de Babel... su iniquidad». | El exilio tiene duración y juicio; no es un accidente sin propósito. |
+| #isaias_44_28; #isaias_45_1,4 | «El que dice de Coresh: “Mi pastor es”»; «a su ungido, a Coresh»; «te he nombrado, y no me conocías». | יהוה puede usar a un gobernante pagano para cumplir un propósito histórico sin convertirlo en modelo de santidad. |
+| #hageo_1_2,5-8 | «¿Es tiempo para ustedes habitar en sus casas techadas, y esta casa está desolada?»; «Pongan su corazón sobre sus caminos»; «edifiquen la casa». | La negligencia de la casa de יהוה se discierne examinando caminos y prioridades. |
+| #hageo_2_9 | «Grande será la gloria de esta casa, la postrera más que la primera... y en este lugar daré shalom». | La gloria prometida no debe reducirse al tamaño o apariencia del edificio. |
+| #zacarias_3_8; #zacarias_6_12 | Yehoshúa y sus compañeros son «hombres de señal»; el Retoño «edificará el Hejal de יהוה». | El sacerdocio y la edificación aparecen con una dimensión simbólica que apunta más allá de la obra inmediata. |
+| #mateo_24_1-2 | «No quedará aquí piedra sobre piedra que no sea derribada». | Yehoshua relativiza el edificio visible y anuncia su ruina. |
 
 ## De Babel al retorno: disciplina y providencia
 
@@ -68,7 +68,7 @@ La promesa de una gloria posterior mayor que la primera no se resuelve mirando �
 
 ## Poder, sectas y una idolatría más sutil
 
-En el relato de la clase, después del retorno surgen movimientos que buscan autoridad, prestigio y control de la enseñanza. Eric conecta esa tendencia con la dependencia del pueblo respecto de quienes se presentan como únicos guardianes de la Torá. La advertencia de Yehoshua en la lectura de Delitzsch es pertinente: «no se hagan llamar rabí... uno es su Maestro, el Mesías, y todos ustedes son hermanos» (#matityahu_23_8), y reprende a escribas y fariseos porque cierran el reino delante de las personas (#matityahu_23_13).
+En el relato de la clase, después del retorno surgen movimientos que buscan autoridad, prestigio y control de la enseñanza. Eric conecta esa tendencia con la dependencia del pueblo respecto de quienes se presentan como únicos guardianes de la Torá. La advertencia de Yehoshua en la lectura de Delitzsch es pertinente: «no se hagan llamar rabí... uno es su Maestro, el Mesías, y todos ustedes son hermanos» (#mateo_23_8), y reprende a escribas y fariseos porque cierran el reino delante de las personas (#mateo_23_13).
 
 La clase identifica antecedentes entre grupos del periodo asmoneo y romano, y explica nombres como asideos, fariseos y saduceos. Estas secuencias, etimologías y relaciones de descendencia deben verificarse con fuentes históricas y lingüísticas. Lo que sí queda como línea pastoral es que la idolatría puede adoptar forma institucional: cuando una persona o grupo se vuelve mediador indispensable, la obediencia a יהוה se sustituye por dependencia humana.
 

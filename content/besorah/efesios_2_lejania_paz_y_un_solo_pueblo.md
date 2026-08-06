@@ -9,31 +9,31 @@ tags:
   - pueblo-de-elohim
   - gentiles
 references:
-  - "#ephesians_2_1"
-  - "#ephesians_2_2"
-  - "#ephesians_2_3"
-  - "#ephesians_2_4"
-  - "#ephesians_2_5"
-  - "#ephesians_2_6"
-  - "#ephesians_2_7"
-  - "#ephesians_2_8"
-  - "#ephesians_2_9"
-  - "#ephesians_2_10"
-  - "#ephesians_2_11"
-  - "#ephesians_2_12"
-  - "#ephesians_2_13"
-  - "#ephesians_2_14"
-  - "#ephesians_2_15"
-  - "#ephesians_2_16"
-  - "#ephesians_2_17"
-  - "#ephesians_2_18"
-  - "#ephesians_2_19"
-  - "#ephesians_2_20"
-  - "#ephesians_2_21"
-  - "#ephesians_2_22"
-  - "#colossians_1_20"
-  - "#colossians_1_21"
-  - "#colossians_1_22"
+  - "#efesios_2_1"
+  - "#efesios_2_2"
+  - "#efesios_2_3"
+  - "#efesios_2_4"
+  - "#efesios_2_5"
+  - "#efesios_2_6"
+  - "#efesios_2_7"
+  - "#efesios_2_8"
+  - "#efesios_2_9"
+  - "#efesios_2_10"
+  - "#efesios_2_11"
+  - "#efesios_2_12"
+  - "#efesios_2_13"
+  - "#efesios_2_14"
+  - "#efesios_2_15"
+  - "#efesios_2_16"
+  - "#efesios_2_17"
+  - "#efesios_2_18"
+  - "#efesios_2_19"
+  - "#efesios_2_20"
+  - "#efesios_2_21"
+  - "#efesios_2_22"
+  - "#colosenses_1_20"
+  - "#colosenses_1_21"
+  - "#colosenses_1_22"
 sources:
   - "https://www.youtube.com/watch?v=byKm54KeTyQ"
   - "https://www.youtube.com/watch?v=0p62JJfVydA"
@@ -79,21 +79,21 @@ Los tres primeros videos quedan como dependencias preparatorias; la prueba de ca
 
 | Unidad              | Texto local de Delitzsch y observación                                                                                                                                                       | Función argumental                                                                                                                              |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_2_1-10   | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם**; **אחרי היותנו מתים בפשעים החינו עם־המשיח בחסד נושעתם**; **כי־בחסד נושעתם על־ידי האמונה**; **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים** | Muerte, misericordia, gracia, fe y obras preparadas forman la primera mitad del movimiento.                                                     |
-| #ephesians_2_11-12  | **זכרו כיאתם מתחלה הגוים בבשר**; **זרים מעדת ישראל ונכרים לבריתות ההבטחה**                                                                                                                   | Pablo manda recordar la condición anterior de los gentiles: sin Mesías, ciudadanía, pactos, esperanza y Elohim.                                 |
-| #ephesians_2_13-18  | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח**; **כי הוא שלומנו אשר עשה השנים אחד**; **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב**                                                  | El Mesías acerca a los lejanos, derriba la enemistad, reconcilia a los dos y concede un mismo acceso al Padre.                                  |
-| #ephesians_2_19-22  | **אינכם עוד גרים ותושבים**; **בני בית אלהים אתם**; **וישוע המשיח הוא אבן הפנה**; **ובו נבנים גםאתם להיות משכן אלהים ברוח**                                                                   | La reconciliación se hace pertenencia y morada: conciudadanos, casa y edificio común.                                                           |
-| #colossians_1_20-22 | **בעשותו שלום בדם־צלובו**; **הייתם מלפנים מוזרים ואיבים**; **עתה רצה אתכם בגוף בשרו**                                                                                                        | La comparación confirma el lenguaje de paz y reconciliación, pero no permite sustituir «reconciliar» por una teoría de regeneración automática. |
+| #efesios_2_1-10   | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם**; **אחרי היותנו מתים בפשעים החינו עם־המשיח בחסד נושעתם**; **כי־בחסד נושעתם על־ידי האמונה**; **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים** | Muerte, misericordia, gracia, fe y obras preparadas forman la primera mitad del movimiento.                                                     |
+| #efesios_2_11-12  | **זכרו כיאתם מתחלה הגוים בבשר**; **זרים מעדת ישראל ונכרים לבריתות ההבטחה**                                                                                                                   | Pablo manda recordar la condición anterior de los gentiles: sin Mesías, ciudadanía, pactos, esperanza y Elohim.                                 |
+| #efesios_2_13-18  | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח**; **כי הוא שלומנו אשר עשה השנים אחד**; **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב**                                                  | El Mesías acerca a los lejanos, derriba la enemistad, reconcilia a los dos y concede un mismo acceso al Padre.                                  |
+| #efesios_2_19-22  | **אינכם עוד גרים ותושבים**; **בני בית אלהים אתם**; **וישוע המשיח הוא אבן הפנה**; **ובו נבנים גםאתם להיות משכן אלהים ברוח**                                                                   | La reconciliación se hace pertenencia y morada: conciudadanos, casa y edificio común.                                                           |
+| #colosenses_1_20-22 | **בעשותו שלום בדם־צלובו**; **הייתם מלפנים מוזרים ואיבים**; **עתה רצה אתכם בגוף בשרו**                                                                                                        | La comparación confirma el lenguaje de paz y reconciliación, pero no permite sustituir «reconciliar» por una teoría de regeneración automática. |
 
-## De muerte a vida: la gracia prepara un camino (2:1-10)
+## De muerte a vida: la gracia prepara un camino (2:1-10) #efesios_2_1-10
 
-Pablo no comienza con la frontera entre circuncisión e incircuncisión. Primero describe a los destinatarios como muertos en delitos y pecados, caminando según el curso de este mundo y los deseos de la carne (#ephesians_2_1-3). Luego el sujeto decisivo es Elohim: rico en misericordia y grande en amor, vivifica juntamente con el Mesías, levanta y sienta con él (#ephesians_2_4-6). La observación de Eric sobre una salvación que no procede de autosuficiencia queda apoyada por el orden del pasaje.
+Pablo no comienza con la frontera entre circuncisión e incircuncisión. Primero describe a los destinatarios como muertos en delitos y pecados, caminando según el curso de este mundo y los deseos de la carne (#efesios_2_1-3). Luego el sujeto decisivo es Elohim: rico en misericordia y grande en amor, vivifica juntamente con el Mesías, levanta y sienta con él (#efesios_2_4-6). La observación de Eric sobre una salvación que no procede de autosuficiencia queda apoyada por el orden del pasaje.
 
 **χάριτί**, _chariti_, «por gracia o favor recibido», es un dativo de **χάρις** en 2:5 y 2:8; indica la fuente de la salvación, no un mérito acumulado. **σεσῳσμένοι**, _sesōsmenoi_, «habiendo sido salvados», es participio perfecto pasivo: presenta una condición recibida y vigente. Pero 2:10 añade **ποίημα**, _poiēma_, «obra, hechura o creación realizada», y **περιπατήσωμεν**, _peripatēsōmen_, «caminemos». La gracia no compra las obras; sí las prepara como finalidad visible.
 
 La comparación hebrea con **חסד**, _jesed_, «misericordia o lealtad», y **דרך**, _derekh_, «camino», puede iluminar el campo semítico del Delitzsch, pero no demuestra una retroversión del griego. Del mismo modo, «nueva creación» es una síntesis válida del contexto, no la traducción automática de **ποίημα**. Esta precisión conserva el punto de Eric: un don que no produce fruto contradice la secuencia de Pablo.
 
-## Recordar la lejanía sin convertirla en superioridad (2:11-12)
+## Recordar la lejanía sin convertirla en superioridad (2:11-12) #efesios_2_11-12
 
 El imperativo **μνημονεύετε**, _mnēmoneuete_, «recuerden», obliga a conservar la memoria. Los gentiles estaban «en la carne», eran llamados incircuncisión por los llamados circuncisión, estaban sin Mesías, ajenos a la ciudadanía de Israel, extraños a los pactos de la promesa, sin esperanza y sin Elohim en el mundo. La exposición de Eric relaciona esta lista con una existencia sin esperanza; esa aplicación puede orientar, pero el versículo no es por sí solo un diagnóstico psicológico de cada gentil antiguo o contemporáneo. La clase también insiste en que la expresión «en carne» no debe convertirse automáticamente en una doctrina sobre una naturaleza pecaminosa: la presenta como una identificación visible o física, es decir, según la percepción humana. Esa observación conserva un problema real de traducción, pero debe probarse con el griego y no sólo con una retroversión semítica.
 
@@ -101,7 +101,7 @@ El imperativo **μνημονεύετε**, _mnēmoneuete_, «recuerden», obliga 
 
 **ἀκροβυστία**, _akrobystia_, «incircuncisión o prepucio», y **περιτομή**, _peritomē_, «circuncisión», nombran las designaciones polémicas del pasaje. El Delitzsch añade **מעשה ידים בבשר**, «obra de manos en la carne»; es una traducción local, no prueba de que Pablo esté reduciendo toda circuncisión a un gesto vacío. La sintaxis manda observar la condición anterior y el giro que viene: la memoria protege la unidad posterior de convertirse en una ficción de que nunca hubo dos grupos.
 
-## El «ahora»: sangre, paz y reconciliación (2:13-18)
+## El «ahora»: sangre, paz y reconciliación (2:13-18) #efesios_2_13-18
 
 **νυνὶ δὲ**, _nyni de_, «pero ahora», introduce el giro. **ἐγενήθητε**, _egenēthēte_, «fueron hechos o llegaron a ser», es una forma pasiva: los lejanos fueron acercados en el Mesías y en su sangre; no conquistaron la cercanía por rango étnico. Eric explica la sangre como recurso o «financiación» provista por Yehoshua. Esa es una glosa atribuida de la clase; el texto prueba su resultado mediante los verbos que siguen, no mediante una teoría económica.
 
@@ -119,7 +119,7 @@ La exposición de Eric habla de la sangre como el recurso provisto por Yehoshua 
 
 La dependencia verbal continúa: **ἀποκαταλλάξῃ**, _apokatallaxē_, «reconcilie plenamente», conduce a ambos a Elohim en un cuerpo; **προσαγωγή**, _prosagōgē_, «acceso», los coloca ante el mismo Padre; y **εἰρήνη**, _eirēnē_, «paz», resume la obra del Mesías. La comparación con **(דם)**, _dam_, «sangre», y **(שלום)**, _shalom_, «paz o integridad», es semítica y pedagógica, no una retroversión demostrada. Así, la lectura de Eric queda afirmada en su centro —la sangre no es un adorno, sino el medio narrativamente ligado al acercamiento— y limitada por el texto: la prueba pública de esa obra es un pueblo reconciliado, no una teoría financiera ni la absorción de un grupo por otro.
 
-## De extranjeros a una casa edificada (2:19-22)
+## De extranjeros a una casa edificada (2:19-22) #efesios_2_19-22
 
 **ξένοι**, _xenoi_, «extraños o extranjeros», y **πάροικοι**, _paroikoi_, «residentes sin ciudadanía plena», describen la condición anterior. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», describen la pertenencia recibida. La síntesis de Eric, «un solo pueblo», queda apoyada sólo si se entiende como ciudadanía y casa recibidas en el Mesías, no como ciudadanía política moderna ni como plataforma de superioridad.
 
@@ -131,10 +131,10 @@ La dependencia verbal continúa: **ἀποκαταλλάξῃ**, _apokatallaxē_
 
 | Unidad textual     | Observación concreta de Eric                                                     | Prueba y límite textual                                                                                                                                                         |
 | ------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_2_1-10  | La salvación por gracia no nace del mérito y prepara una vida con fruto.         | **χάριτί**, **σεσῳσμένοι**, **ποίημα** y **περιπατήσωμεν** sostienen don, condición recibida, obra de Elohim y caminar; las obras no son el precio.                             |
-| #ephesians_2_11-12 | Los gentiles estaban lejos del Mesías, de Israel y de los pactos, sin esperanza. | **μνημονεύετε** y la lista del v. 12 apoyan la memoria; las extensiones psicológicas o sociales quedan como aplicaciones, no como definición exhaustiva.                        |
-| #ephesians_2_13-18 | El Mesías acerca a los lejanos, derriba la enemistad y forma un solo pueblo.     | **νυνὶ δὲ**, **ποιήσας**, **καταργήσας**, **ἀποκαταλλάξῃ** y **προσαγωγή** muestran giro, unidad, remoción de hostilidad, reconciliación y acceso; «precio» es glosa atribuida. |
-| #ephesians_2_19-22 | La unidad se vuelve casa y morada del poder de Elohim.                           | **συμπολῖται**, **οἰκεῖοι**, **ἀκρογωνιαῖος**, **συναρμολογουμένη** y **συνοικοδομεῖσθε** sostienen pertenencia, fundamento y edificación corporativa.                          |
+| #efesios_2_1-10  | La salvación por gracia no nace del mérito y prepara una vida con fruto.         | **χάριτί**, **σεσῳσμένοι**, **ποίημα** y **περιπατήσωμεν** sostienen don, condición recibida, obra de Elohim y caminar; las obras no son el precio.                             |
+| #efesios_2_11-12 | Los gentiles estaban lejos del Mesías, de Israel y de los pactos, sin esperanza. | **μνημονεύετε** y la lista del v. 12 apoyan la memoria; las extensiones psicológicas o sociales quedan como aplicaciones, no como definición exhaustiva.                        |
+| #efesios_2_13-18 | El Mesías acerca a los lejanos, derriba la enemistad y forma un solo pueblo.     | **νυνὶ δὲ**, **ποιήσας**, **καταργήσας**, **ἀποκαταλλάξῃ** y **προσαγωγή** muestran giro, unidad, remoción de hostilidad, reconciliación y acceso; «precio» es glosa atribuida. |
+| #efesios_2_19-22 | La unidad se vuelve casa y morada del poder de Elohim.                           | **συμπολῖται**, **οἰκεῖοι**, **ἀκρογωνιαῖος**, **συναρμολογουμένη** y **συνοικοδομεῖσθε** sostienen pertenencia, fundamento y edificación corporativa.                          |
 
 ## Control de la perícopa: ley, enemistad y acceso
 
@@ -158,7 +158,7 @@ La clase de Eric sobre sangre, nueva creación y morada puede conservarse como e
 - [ ] Revisar las afirmaciones sobre «hacer todo de nuevo», la carne incorruptible y el alcance cósmico de Colosenses 1:20-22.
 - [ ] No derivar diagnósticos clínicos o sociales de la lista de Efesios 2:12 sin fuentes externas responsables.
 
-## Control añadido: la ley se lee dentro de la reconciliación (2:14-18)
+## Control añadido: la ley se lee dentro de la reconciliación (2:14-18) #efesios_2_14-18
 
 La observación de Eric sobre un solo pueblo debe conservar los objetos y el orden de los verbos. **λύσας**, _lysas_, «soltar o desatar», es la forma que el texto local usa al describir la barrera; **καταργήσας**, _katargēsas_, «dejar inoperante o desactivar», explica la acción respecto de la enemistad y de los mandamientos expresados en decretos. Ninguna de estas formas significa por sí sola que toda instrucción de Elohim haya desaparecido: el resultado explícito es **ἕνα καινὸν ἄνθρωπον**, _hena kainon anthrōpon_, «un solo hombre nuevo», y después la reconciliación de ambos en un cuerpo.
 
@@ -174,7 +174,7 @@ La unidad de 2:13-18 depende de no saltar directamente desde «cerca» a «un so
 
 La «pared» tampoco debe convertirse en una afirmación histórica más precisa que el texto. **μεσότοιχον**, _mesotoichon_, es «pared divisoria», y **φραγμός**, _phragmos_, «cerca o barrera»; juntos explican la imagen de separación dentro del argumento, mientras **ποιήσας**, _poiēsas_, «haciendo», y **ἄμφω**, _amphō_, «ambos», muestran que el Mesías hace de los dos un solo hombre nuevo. Después **προσαγωγή**, _prosagōgē_, «acceso o introducción», y **ἐν ἑνὶ πνεύματι**, «en un solo Rúaj», prueban el resultado: ambos llegan al Padre por la misma vía. Así se conserva la observación de Eric sobre un solo pueblo sin borrar la memoria de los dos grupos ni atribuir a la clase una teoría arqueológica no demostrada por Efesios 2.
 
-## Prueba final: de la memoria a la morada (2:11-22)
+## Prueba final: de la memoria a la morada (2:11-22) #efesios_2_11-22
 
 La unidad que Eric resume como «un solo pueblo» sólo se puede afirmar después de respetar la memoria que Pablo ordena. **μνημονεύετε**, _mnēmoneuete_, «recuerden», mantiene delante la antigua condición de los gentiles; **νυνὶ δὲ**, _nyni de_, «pero ahora», introduce el giro; y **ἐγενήθητε**, _egenēthēte_, «fueron hechos o llegaron a ser», presenta el acercamiento como algo recibido. La secuencia impide una unidad superficial: el texto recuerda la distancia para mostrar la obra concreta del Mesías.
 
@@ -192,7 +192,7 @@ En 2:14-18, **εἰρήνη**, _eirēnē_, «paz o relación reconciliada», ide
 
 El cierre, 2:19-22, cambia el registro de conflicto a pertenencia y edificación. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», nombran la nueva pertenencia; **ἀκρογωνιαῖος**, _akrogōniaios_, «piedra angular», sitúa al Mesías como fundamento; y **συναρμολογουμένη**, _synarmologoumenē_, «ensamblada juntamente», junto con **συνοικοδομεῖσθε**, _synoikodomeisthe_, «sois edificados juntamente», describe una obra comunitaria en curso. **κατοικητήριον**, _katoikētērion_, «morada», fija el propósito: Elohim habita en el Rúaj. La exposición de Eric queda así probada en la progresión completa —gracia, memoria, sangre, paz, acceso y morada—, no en una consigna aislada sobre identidad.
 
-## Reparación dirigida: el muro se interpreta por el acceso que produce (2:14-18)
+## Reparación dirigida: el muro se interpreta por el acceso que produce (2:14-18) #efesios_2_14-18
 
 La observación de Eric sobre la «pared intermedia» necesita conservar dos movimientos que el pasaje mantiene juntos. Primero, el Mesías es **εἰρήνη**, _eirēnē_, «paz o relación reconciliada»; después **ποιήσας**, _poiēsas_, «haciendo», describe que de los dos hace un solo hombre nuevo. La imagen no autoriza a decir que el Mesías simplemente borra la historia de Israel y de los gentiles. **ἄμφω**, _amphō_, «ambos», y **ἕνα**, _hena_, «uno», conservan simultáneamente la existencia previa de dos grupos y el resultado nuevo de la obra reconciliadora.
 
@@ -206,7 +206,7 @@ La prueba final no es una teoría sobre la pared sino el acceso común. **ἀπ�
 - [[efesios_3_gracia_revelacion_y_misterio|Efesios 3: gracia, revelación y misterio]]
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: sabiduría, herencia y plenitud]]
 
-## Prueba de sujetos y resultado: ambos reciben el mismo acceso (2:13-22)
+## Prueba de sujetos y resultado: ambos reciben el mismo acceso (2:13-22) #efesios_2_13-22
 
 La frase «un solo pueblo» debe conservar los sujetos que Pablo mantiene activos. **ἐγενήθητε**, _egenēthēte_, «fueron hechos cercanos», está en voz pasiva y tiene como destinatarios a los que antes estaban lejos; el acercamiento no se presenta como conquista de los gentiles. Luego **ποιήσας**, _poiēsas_, «haciendo», toma al Mesías como sujeto de la acción y **ἄμφω**, _amphō_, «ambos», como objeto visible de la unidad. La sintaxis, por tanto, no permite narrar que un grupo desaparece: el resultado nuevo depende de dos grupos que son reunidos.
 

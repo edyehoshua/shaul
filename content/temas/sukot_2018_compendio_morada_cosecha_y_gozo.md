@@ -9,11 +9,11 @@ tags:
   - cosecha
   - gozo
 references:
-  - "#vaikra_23_33-43"
-  - "#devarim_16_13-17"
-  - "#shemot_23_14-17"
-  - "#zecharyah_14_16-19"
-  - "#yojanan_7_37-39"
+  - "#levitico_23_33-43"
+  - "#deuteronomio_16_13-17"
+  - "#exodo_23_14-17"
+  - "#zacarias_14_16-19"
+  - "#juan_7_37-39"
 sources:
   - "https://www.youtube.com/watch?v=yH1eiSUCdTY"
   - "docs/scriptures/tth/json/vaikra.json"
@@ -40,7 +40,7 @@ El inventario registra `youtube:yH1eiSUCdTY` con una URL pública y el título d
 | Vaikra 23:33-43; Deuteronomio 16:13-17 | La fiesta puede leerse desde morada temporal, cosecha y gozo compartido.                         | Apoyo textual directo; los detalles pastorales son aplicaciones pedagógicas.                                |
 | Zacarías 14:16-19; Juan 7:37-39        | La esperanza futura y el agua de Juan permiten una conexión canónica con la presencia y el Rúaj. | Conexión cualificada: no se afirma que Juan repita cada rito ni que Zacarías describa una liturgia moderna. |
 
-## Vaikra 23:33-43: morada y memoria del desierto
+## Vaikra 23:33-43: morada y memoria del desierto #levitico_23_33-43
 
 Elohim ordena una convocación santa en el séptimo mes y manda habitar en cabañas durante siete días. **(סֻכָּה)**, _sukkah_, significa cabaña, enramada o refugio temporal; en Vaikra 23:42-43 su fuerza contextual es una morada provisional que recuerda cómo Elohim hizo habitar a Israel al sacarles de Egipto. «Cabaña» es **directa**, mientras convertirla en un símbolo único y exhaustivo de toda experiencia espiritual sería **inferencial**.
 
@@ -48,7 +48,7 @@ Elohim ordena una convocación santa en el séptimo mes y manda habitar en caba�
 
 **(זָכַר)**, _zakhar_, significa recordar, traer a la memoria o tener presente; su fuerza en 23:43 une la práctica presente con la liberación de Egipto. «Recordar» es **directo**, y la relación entre memoria y formación comunitaria es **pedagógica**. El texto no manda convertir la memoria en nostalgia sin justicia; ordena una señal que enseña quién sostuvo al pueblo y por qué la gratitud debe producir confianza.
 
-## Deuteronomio 16:13-17: cosecha y gozo para toda la casa
+## Deuteronomio 16:13-17: cosecha y gozo para toda la casa #deuteronomio_16_13-17
 
 Deuteronomio llama a celebrar la fiesta de las cabañas después de recoger el producto de la era y del lagar. **(אָסַף)**, _asaf_, significa recoger, reunir o cosechar; su fuerza contextual es la reunión de la producción después del trabajo del campo. «Recolección» es **directa**, mientras afirmar que toda prosperidad material prueba aprobación divina sería **inferencial** y contradice la cautela de la Torah.
 
@@ -56,13 +56,13 @@ Deuteronomio llama a celebrar la fiesta de las cabañas después de recoger el p
 
 La repetición de «te alegrarás» no autoriza una teología de entretenimiento. **(בָּרַךְ)**, _barakh_, significa bendecir, arrodillarse o reconocer el favor recibido; su fuerza aquí es reconocer que Elohim bendijo la obra de las manos. «Bendecir» es **directo como campo léxico**, mientras leer cada resultado económico como señal inequívoca es **aproximado e ilegítimo**. La fiesta hace visible la gratitud mediante inclusión, generosidad y comparecencia delante de Elohim.
 
-## Zacarías 14:16-19: la esperanza de las naciones
+## Zacarías 14:16-19: la esperanza de las naciones #zacarias_14_16-19
 
 Zacarías imagina a las naciones que suben año tras año a adorar al Rey y celebrar la fiesta de las cabañas. **(חָגַג)**, _chagag_, significa celebrar una fiesta, peregrinar o danzar festivamente; en este contexto señala una celebración ordenada ante el Rey. «Celebrar» es **directo**, pero transportar cada imagen profética a un calendario institucional contemporáneo sería **inferencial**.
 
 El texto también advierte que la nación que no suba no recibirá lluvia. **(מָטָר)**, _matar_, significa lluvia; aquí su fuerza es señal de bendición o de juicio dentro de la visión profética. «Lluvia» es **directa**, mientras convertirla en una fórmula para diagnosticar cada sequía actual sería **ilegítimo**. La esperanza no elimina la responsabilidad: las naciones son convocadas a reconocer al Rey, y la adoración no se separa de la respuesta al gobierno de Elohim.
 
-## Juan 7:37-39: agua, sed y el Rúaj
+## Juan 7:37-39: agua, sed y el Rúaj #juan_7_37-39
 
 En el último y gran día de la fiesta, Yehoshua invita al sediento a venir y beber. **(διψάω)**, _dipsaō_, significa tener sed o desear intensamente; en Juan 7:37 su fuerza contextual es una necesidad que recibe invitación pública. «Tener sed» es **directo**, mientras reducirlo a emoción religiosa momentánea sería **aproximado**.
 
@@ -74,7 +74,7 @@ La conexión es fértil y limitada: Sukot recuerda la dependencia y el agua evoc
 
 La única observación atribuible directamente a Eric en esta fuente es el foco anunciado por el título público: «Jag Hasukot, Jag He'asif, Jag Hashem, Hejag (2018) Compendio». La nota no convierte ese título en una reconstrucción de la clase. Sí puede evaluar el compendio siguiendo el orden de los textos que hacen inteligibles sus palabras: primero la morada recordada, después la cosecha recibida, luego la adoración de las naciones y finalmente la invitación del Mesías a beber. Esa secuencia impide reducir Sukot a una emoción privada o a una afirmación sobre prosperidad.
 
-En #vaikra_23_33-43, **(מִקְרָא־קֹדֶשׁ)**, _miqra-qodesh_, significa convocación santa o reunión consagrada; su fuerza contextual es una asamblea apartada en el tiempo señalado. «Convocación santa» es una glosa **directa**, mientras convertirla en un modelo exacto de toda reunión posterior sería **inferencial**. **(אֶזְרָח)**, _ezraj_, significa nativo o natural de la tierra, y **(גֵּר)**, _ger_, significa residente extranjero o forastero; en 23:42-43 la fiesta se ordena para la comunidad y su memoria compartida. Las glosas son **directas** en el campo normal; su aplicación contemporánea debe ser **pedagógica**, no una clasificación automática de quién pertenece a toda celebración.
+En #levitico_23_33-43, **(מִקְרָא־קֹדֶשׁ)**, _miqra-qodesh_, significa convocación santa o reunión consagrada; su fuerza contextual es una asamblea apartada en el tiempo señalado. «Convocación santa» es una glosa **directa**, mientras convertirla en un modelo exacto de toda reunión posterior sería **inferencial**. **(אֶזְרָח)**, _ezraj_, significa nativo o natural de la tierra, y **(גֵּר)**, _ger_, significa residente extranjero o forastero; en 23:42-43 la fiesta se ordena para la comunidad y su memoria compartida. Las glosas son **directas** en el campo normal; su aplicación contemporánea debe ser **pedagógica**, no una clasificación automática de quién pertenece a toda celebración.
 
 Deuteronomio 16:13-17 hace que la cosecha desemboque en gozo comunitario. **(חַג)**, _chag_, significa fiesta o peregrinación festiva; **(אָסַף)**, _asaf_, significa recoger, reunir o cosechar. Sus sentidos son **directos**; su fuerza conjunta es que el producto recogido se lleva a una celebración delante de Elohim. La enseñanza que deduce gratitud y generosidad recibe **apoyo textual**. La afirmación de que una cosecha abundante prueba por sí misma la rectitud de una persona sería **ilegítima**: el pasaje manda incluir al levita, al extranjero, al huérfano y a la viuda, no presumir de mérito.
 

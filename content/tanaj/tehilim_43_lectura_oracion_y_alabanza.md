@@ -9,9 +9,9 @@ tags:
   - justicia
   - esperanza
 references:
-  - "#tehilim_43_1"
-  - "#tehilim_43_2-4"
-  - "#tehilim_43_5"
+  - "#salmos_43_1"
+  - "#salmos_43_2-4"
+  - "#salmos_43_5"
 sources:
   - "https://www.youtube.com/watch?v=1dRi2Qnjyl4"
   - "docs/scriptures/oe/json/psalms/43.json"
@@ -36,7 +36,7 @@ El expositor acreditado es el hermano Eric de Jesús Rodríguez Mendoza. Esta no
 | 43:2-4   | כי אתה אלהי מעוזי למה זנחתני למה קדר אתהלך בלחץ אויב; שלח אורך ואמתך המה ינחוני יביאוני אל הר קדשך ואל משכנותיך; ואבואה אל מזבח אלהים אל אל שמחת גילי ואודך בכנור אלהים אלהי | La defensa esperada se vuelve guía: luz y verdad conducen al monte santo, a las moradas y al altar de la alegría.                                                                    |
 | 43:5     | מה תשתוחחי נפשי ומה תהמי עלי הוחילי לאלהים כי עוד אודנו ישועת פני ואלהי                                                                                                      | El estribillo no niega el abatimiento; ordena a la נפש esperar y anticipa otra alabanza.                                                                                             |
 
-## 43:1: una súplica judicial y urgente
+## 43:1: una súplica judicial y urgente #salmos_43_1
 
 Eric comienza señalando que el salmo carece de autor, título y contexto claro, pero tiene la estructura de una súplica urgente. El texto abre con **שפטני אלהים**, «júzgame, Elohim», y continúa con **וריבה ריבי**, «pleitea mi pleito». No es una petición vaga de bienestar: el hablante presenta una causa y pide que el juez la examine frente a una nación no fiel y a una persona de engaño e injusticia.
 
@@ -44,7 +44,7 @@ Eric comienza señalando que el salmo carece de autor, título y contexto claro,
 
 La exposición también advierte que, cuando el salmo habla poéticamente de amor, justicia o misericordia, no está introduciendo personas divinas separadas. En 43:1 el sujeto es Elohim; las cualidades de juez y defensor describen su acción mediante personificación literaria. Esa cautela evita que una imagen retórica sustituya al texto.
 
-## 43:2-4: del abandono aparente al altar de la alegría
+## 43:2-4: del abandono aparente al altar de la alegría #salmos_43_2-4
 
 El verso 2 llama a Elohim «mi Dios de fortaleza» y pregunta por qué el hablante ha sido abandonado y camina sombrío bajo la opresión del enemigo. **מעוז**, _maoz_, significa fortaleza, refugio o lugar fuerte; su relación con «defensa» es contextual y aproximada. La súplica judicial no elimina la experiencia de abandono: el hablante puede llamar a Elohim su fortaleza mientras pregunta por qué no ve todavía su intervención.
 
@@ -52,7 +52,7 @@ La petición decisiva llega en 43:3: «envía tu luz y tu verdad; ellas me guiar
 
 La guía termina en el altar: «entraré al altar de Elohim, al Dios de la alegría de mi júbilo». **מזבח**, _mizbeaj_, significa altar; **שמחה**, _simjah_, significa alegría o gozo. Eric conserva el movimiento material del salmo: quien pidió defensa no termina celebrando su propia victoria, sino llegando al lugar de adoración y dando gracias con arpa. La alegría es recibida de Elohim y conduce a alabanza.
 
-## 43:5: hablarle al alma sin negar el dolor
+## 43:5: hablarle al alma sin negar el dolor #salmos_43_5
 
 El cierre repite la pregunta: «¿por qué te abates, alma mía, y por qué gimes sobre mí?». **נפש**, _nefesh_, significa vida, persona, garganta o alma según el contexto; aquí designa al propio ser del hablante en diálogo consigo mismo. «Alma» es una traducción tradicional y válida, pero no debe convertirse en una teoría que divida a la persona en dos sustancias.
 
@@ -90,6 +90,6 @@ Tehilim 43 lleva una causa urgente ante Elohim: pide juicio justo, atraviesa la 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehillim/Hymns/Psalm Chapter 43» — <https://www.youtube.com/watch?v=1dRi2Qnjyl4> — source_id: `youtube:1dRi2Qnjyl4`.
+- «Tehillim/Hymns/Psalm Chapter 43» — <https://www.youtube.com/watch?v=1dRi2Qnjyl4> — `source_id`: `youtube:1dRi2Qnjyl4`.
 - Texto bíblico local: Tehilim 43 en `docs/scriptures/oe/json/psalms/43.json`.
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción automática como cita literal.

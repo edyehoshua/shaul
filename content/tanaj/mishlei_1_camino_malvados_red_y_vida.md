@@ -4,21 +4,21 @@ description: "Estudio de Mishlei 1:10-19 sobre la seducción, la codicia, la san
 date: 2026-08-05
 tags: [mishlei, mishlei_1, camino, codicia, violencia, redencion]
 references:
-  - "#mishlei_1_6"
-  - "#mishlei_1_8"
-  - "#mishlei_1_9"
-  - "#mishlei_1_10"
-  - "#mishlei_1_11"
-  - "#mishlei_1_12"
-  - "#mishlei_1_13"
-  - "#mishlei_1_14"
-  - "#mishlei_1_15"
-  - "#mishlei_1_16"
-  - "#mishlei_1_17"
-  - "#mishlei_1_18"
-  - "#mishlei_1_19"
-  - "#shemot_20_13"
-  - "#mishlei_6_1"
+  - "#proverbios_1_6"
+  - "#proverbios_1_8"
+  - "#proverbios_1_9"
+  - "#proverbios_1_10"
+  - "#proverbios_1_11"
+  - "#proverbios_1_12"
+  - "#proverbios_1_13"
+  - "#proverbios_1_14"
+  - "#proverbios_1_15"
+  - "#proverbios_1_16"
+  - "#proverbios_1_17"
+  - "#proverbios_1_18"
+  - "#proverbios_1_19"
+  - "#exodo_20_13"
+  - "#proverbios_6_1"
   - "#mateo_26_28"
 sources:
   - "https://www.youtube.com/watch?v=sp4-VOcj4zw"
@@ -41,19 +41,19 @@ Esta nota organiza la clase pública del hermano Eric de Jesús Rodríguez Mendo
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_1_6 | להבין משל ומליצה דברי חכמים וחידתם | Para entender alegoría y figura, dichos de sabios y sus enigmas. |
-| #mishlei_1_8 | שמע בני מוסר אביך ואל תטש תורת אמך | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah de tu madre. |
-| #mishlei_1_9 | כי לולת חן הם לראשך וענקים לגרגרתיך | Porque guirnalda de favor son para tu cabeza, y collares para tu garganta. |
-| #mishlei_1_10 | בני אם יפתוך חטאים אל תאבה | Hijo mío, si te persuaden los pecadores, no consientas. |
-| #mishlei_1_11 | אם יאמרו לכה אתנו נארבה לדם נצפנה לנקי חנם | Si dicen: Ven con nosotros, acechemos para derramar sangre, vigilemos sin causa al inocente. |
-| #mishlei_1_12 | נבלעם כשאול חיים ותמימים כיורדי בור | Traguémonoslos como el Sheol, vivos y enteros, como los que descienden al pozo. |
-| #mishlei_1_13 | כל הון יקר נמצא נמלא בתינו שלל | Toda riqueza valiosa hallaremos, llenaremos nuestras casas de botín. |
-| #mishlei_1_14 | גורלך תפיל בתוכנו כיס אחד יהיה לכלנו | Tu goral has caer en medio de nosotros; todos tendremos una bolsa. |
-| #mishlei_1_15 | בני אל תלך בדרך אתם מנע רגלך מנתיבתם | Hijo mío, no andes en el camino con ellos; retén tu pie de su senda. |
-| #mishlei_1_16 | כי רגליהם לרע ירוצו וימהרו לשפך דם | Porque sus pies al mal corren y se apresuran para derramar sangre. |
-| #mishlei_1_17 | כי חנם מזורה הרשת בעיני כל בעל כנף | Porque es en vano tender la red a ojos de cualquier poseedor de alas. |
-| #mishlei_1_18 | והם לדמם יארבו יצפנו לנפשתם | Pero ellos a su propia sangre acechan; tienden una trampa a sus propias vidas. |
-| #mishlei_1_19 | כן ארחות כל בצע בצע את נפש בעליו יקח | Así son los caminos de todo el que codicia ganancia injusta: la vida de sus poseedores toma. |
+| #proverbios_1_6 | להבין משל ומליצה דברי חכמים וחידתם | Para entender alegoría y figura, dichos de sabios y sus enigmas. |
+| #proverbios_1_8 | שמע בני מוסר אביך ואל תטש תורת אמך | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah de tu madre. |
+| #proverbios_1_9 | כי לולת חן הם לראשך וענקים לגרגרתיך | Porque guirnalda de favor son para tu cabeza, y collares para tu garganta. |
+| #proverbios_1_10 | בני אם יפתוך חטאים אל תאבה | Hijo mío, si te persuaden los pecadores, no consientas. |
+| #proverbios_1_11 | אם יאמרו לכה אתנו נארבה לדם נצפנה לנקי חנם | Si dicen: Ven con nosotros, acechemos para derramar sangre, vigilemos sin causa al inocente. |
+| #proverbios_1_12 | נבלעם כשאול חיים ותמימים כיורדי בור | Traguémonoslos como el Sheol, vivos y enteros, como los que descienden al pozo. |
+| #proverbios_1_13 | כל הון יקר נמצא נמלא בתינו שלל | Toda riqueza valiosa hallaremos, llenaremos nuestras casas de botín. |
+| #proverbios_1_14 | גורלך תפיל בתוכנו כיס אחד יהיה לכלנו | Tu goral has caer en medio de nosotros; todos tendremos una bolsa. |
+| #proverbios_1_15 | בני אל תלך בדרך אתם מנע רגלך מנתיבתם | Hijo mío, no andes en el camino con ellos; retén tu pie de su senda. |
+| #proverbios_1_16 | כי רגליהם לרע ירוצו וימהרו לשפך דם | Porque sus pies al mal corren y se apresuran para derramar sangre. |
+| #proverbios_1_17 | כי חנם מזורה הרשת בעיני כל בעל כנף | Porque es en vano tender la red a ojos de cualquier poseedor de alas. |
+| #proverbios_1_18 | והם לדמם יארבו יצפנו לנפשתם | Pero ellos a su propia sangre acechan; tienden una trampa a sus propias vidas. |
+| #proverbios_1_19 | כן ארחות כל בצע בצע את נפש בעליו יקח | Así son los caminos de todo el que codicia ganancia injusta: la vida de sus poseedores toma. |
 
 ## La seducción abre el corazón hacia un camino
 
@@ -91,10 +91,10 @@ El verso 19 cierra con **(בצע)**, _batsa_, que la clase relaciona con morder,
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_1_6; 1:8-10; `youtube:sp4-VOcj4zw` | La alegoría y la figura deben leerse con disciplina; la persuasión abre el corazón hacia el camino del mal. | Marco textual apoyado; “abrir el corazón” es aplicación léxica cualificada. |
-| #mishlei_1_11-14; `youtube:sp4-VOcj4zw` | Los pecadores acechan al limpio por codicia, prometen una bolsa común y tragan a la víctima como el Sheol. | Violencia y botín apoyados; lectura de potestades y pozo espiritual calificada. |
-| #mishlei_1_15-16; `youtube:sp4-VOcj4zw` | El padre manda no caminar con ellos porque sus pies corren a derramar sangre. | Exhortación textual directa; aplicación a voces y pensamientos atribuida a la clase. |
-| #mishlei_1_17-19; `youtube:sp4-VOcj4zw` | La red se vuelve contra el que la tiende; la ganancia injusta muerde y termina tomando la vida. | Inversión textual apoyada; ampliación a ejemplos contemporáneos y deuda mesiánica cualificada. |
+| #proverbios_1_6; 1:8-10; `youtube:sp4-VOcj4zw` | La alegoría y la figura deben leerse con disciplina; la persuasión abre el corazón hacia el camino del mal. | Marco textual apoyado; “abrir el corazón” es aplicación léxica cualificada. |
+| #proverbios_1_11-14; `youtube:sp4-VOcj4zw` | Los pecadores acechan al limpio por codicia, prometen una bolsa común y tragan a la víctima como el Sheol. | Violencia y botín apoyados; lectura de potestades y pozo espiritual calificada. |
+| #proverbios_1_15-16; `youtube:sp4-VOcj4zw` | El padre manda no caminar con ellos porque sus pies corren a derramar sangre. | Exhortación textual directa; aplicación a voces y pensamientos atribuida a la clase. |
+| #proverbios_1_17-19; `youtube:sp4-VOcj4zw` | La red se vuelve contra el que la tiende; la ganancia injusta muerde y termina tomando la vida. | Inversión textual apoyada; ampliación a ejemplos contemporáneos y deuda mesiánica cualificada. |
 
 ## Pendiente de verificar
 

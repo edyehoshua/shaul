@@ -9,15 +9,15 @@ tags:
   - exodo
   - memoria
 references:
-  - "#tehilim_105_1"
-  - "#tehilim_105_6"
-  - "#tehilim_105_8"
-  - "#tehilim_105_16"
-  - "#tehilim_105_23"
-  - "#tehilim_105_26"
-  - "#tehilim_105_37"
-  - "#tehilim_105_42"
-  - "#tehilim_105_45"
+  - "#salmos_105_1"
+  - "#salmos_105_6"
+  - "#salmos_105_8"
+  - "#salmos_105_16"
+  - "#salmos_105_23"
+  - "#salmos_105_26"
+  - "#salmos_105_37"
+  - "#salmos_105_42"
+  - "#salmos_105_45"
 sources:
   - "https://www.youtube.com/watch?v=cWyHPZ34DE8"
   - "docs/scriptures/tth/json/tehilim.json"
@@ -35,31 +35,31 @@ Tehilim 105 transforma la memoria de la historia de Israel en una convocatoria p
 
 La enseñanza «Tehilim/Himnos/Salmo Cap 105» recorre los llamados iniciales, la promesa a Abraham y Yaakov, la historia de Yosef, el crecimiento en Mitzráim, las señales del éxodo, la provisión en el desierto y el propósito final de guardar los estatutos. La transcripción automática orienta la atribución; no se reproduce como cita literal. Se sigue el orden completo en cinco movimientos: llamado a recordar (1-7), pacto y peregrinación (8-15), Yosef (16-22), Mitzráim y señales (23-38), provisión y obediencia (39-45).
 
-## Confesar, cantar y recordar — 105:1-7
+## Confesar, cantar y recordar — 105:1-7 #salmos_105_1-7
 
 El salmo comienza: «Confiesen a יהוה, llamen en su Nombre; hagan conocer en los pueblos sus acciones» (105:1). Luego manda cantar, entonar y reflexionar en sus maravillas (105:2), buscar a יהוה y su fuerza, y solicitar su rostro continuamente (105:4). Eric observa que el verbo que suele traducirse «dar gracias» puede expresar reconocimiento o confesión objetiva: no se trata sólo de una emoción subjetiva de gratitud, sino de declarar lo que יהוה ha hecho. La formulación española del TTH dice «confiesen», y el hebreo local **הוֹדוּ** (_hodu_) normalmente puede significar «dar gracias», «alabar» o «reconocer/confesar», de modo que la lectura de Eric es una aclaración aproximada y contextual, no una sustitución obligatoria de toda traducción.
 
 El llamado es universal en su anuncio —«hagan conocer en los pueblos»—, pero la identidad invocada se especifica en 105:6: «simiente de Abraham, su siervo, hijos de Yaakov, sus escogidos». Eric subraya precisamente esa doble dirección: la creación y los pueblos oyen, mientras el pueblo del pacto recibe la responsabilidad de invocar y dar testimonio. El texto sostiene la tensión entre alcance público y destinatario histórico sin permitir borrar ninguno de los dos.
 
-## Pacto, herencia y protección — 105:8-15
+## Pacto, herencia y protección — 105:8-15 #salmos_105_8-15
 
-«Ha recordado para siempre su pacto, la palabra que ordenó a mil generaciones» (105:8). El salmo identifica el pacto con Abraham, el juramento a Isjak, su establecimiento para Yaakov y «Israel por pacto olam» (105:9-10), con la promesa de la tierra de Kenáan como porción de herencia (105:11). Eric conecta aquí la memoria con una palabra puesta en marcha: vida, Torah, promesa y regeneración no aparecen como ideas desconectadas. El pasaje sí articula pacto, palabra, tierra y descendencia; «regeneración» es una aplicación teológica que debe quedar calificada.
+«Ha recordado para siempre su pacto, la palabra que ordenó a mil generaciones» (105:8). El salmo identifica el pacto con Abraham, el juramento a Yitzjak, su establecimiento para Yaakov y «Israel por pacto olam» (105:9-10), con la promesa de la tierra de Kenáan como porción de herencia (105:11). Eric conecta aquí la memoria con una palabra puesta en marcha: vida, Torah, promesa y regeneración no aparecen como ideas desconectadas. El pasaje sí articula pacto, palabra, tierra y descendencia; «regeneración» es una aplicación teológica que debe quedar calificada.
 
 La narración recuerda que eran pocos y extranjeros, que pasaban de nación en nación, y que יהוה reprendió a reyes por ellos: «¡No toquen a mis ungidos, y a mis profetas no hagan mal!» (105:12-15). **מָשִׁיחַ** (_mashiaj_) significa normalmente «ungido», alguien consagrado mediante unción. En plural, **מְשִׁיחָי** (_meshijai_) designa a los «ungidos» del pueblo en esta escena; relacionarlo directamente con una única figura mesiánica posterior sería una relación pedagógica, no exacta. El verso debe conservar su plural y su contexto patriarcal.
 
-## Yosef: hambre, palabra y elevación — 105:16-22
+## Yosef: hambre, palabra y elevación — 105:16-22 #salmos_105_16-22
 
 El salmo pasa de la promesa a la crisis: יהוה proclama hambre, rompe «todo sustento» y envía delante de ellos a un hombre, Yosef, vendido como siervo (105:16-17). Sus pies quedan afligidos con grilletes y «en el hierro entró su ser» hasta que vino la palabra de יהוה; «el dicho de יהוה lo fundió» (105:18-19). Eric presta atención a que la palabra no es adorno: marca el tiempo de prueba y la liberación posterior. Esa lectura está anclada en la repetición de **דָבָר** (_davar_), que normalmente significa «palabra», «asunto» o «dicho»; aquí su fuerza contextual es la palabra/promesa que prueba y delimita el momento, no una afirmación de que cada uso tenga el mismo alcance teológico.
 
 El rey envía, desata a Yosef y lo pone como amo de su casa y gobernador (105:20-22). La secuencia no glorifica simplemente el poder político: muestra cómo el siervo humillado es situado para administrar. El salmo recuerda la providencia por medio de una historia concreta, no por una fórmula abstracta.
 
-## Mitzráim, Moshéh y las señales — 105:23-38
+## Mitzráim, Moshéh y las señales — 105:23-38 #salmos_105_23-38
 
 «Entró Israel en Mitzráim, y Yaakov fue forastero en la tierra de Jam» (105:23). El pueblo fructifica y se fortalece, pero el corazón de los opresores se vuelve contra él (105:24-25). Entonces יהוה envía a Moshéh, su siervo, y a Aharón, y ellos ponen entre el pueblo las palabras de sus señales y maravillas en la tierra de Jam (105:26-27). Eric propone que creación y éxodo son dos grandes ejes de la Torah y de la lectura bíblica: ambos muestran a יהוה venciendo el desorden y poniendo en marcha su propósito. Como síntesis intertextual, la propuesta es útil; en este salmo el eje del éxodo es explícito, mientras la conexión con la creación pertenece al marco comparativo entre los capítulos 104 y 105.
 
 Los versos 28-36 enumeran oscuridad, sangre, ranas, insectos, granizo, fuego, langosta y muerte de los primogénitos. El salmo atribuye las señales a la palabra eficaz de יהוה: «Él dijo, y vino» (105:31, 34). No presenta las plagas como una colección mitológica sin dirección, sino como juicios dentro de la liberación del pueblo. El texto, sin embargo, no requiere añadir cada detalle de la exposición sobre culturas comparadas para comprender su argumento histórico.
 
-## Salida, provisión y propósito — 105:37-45
+## Salida, provisión y propósito — 105:37-45 #salmos_105_37-45
 
 יהוה saca al pueblo con plata y oro, sin que sus tribus tropiecen; Mitzráim se alegra porque su terror ha caído sobre ellos (105:37-38). Nube y fuego cubren e iluminan; ante la petición, llegan codornices, pan del cielo y agua de la roca (105:39-41). Eric destaca que la palabra recordada a Abraham explica la salida con gozo: «Porque recordó la palabra de su santidad a Abraham su siervo» (105:42). El verso confirma que el éxodo no es un episodio separado del pacto.
 

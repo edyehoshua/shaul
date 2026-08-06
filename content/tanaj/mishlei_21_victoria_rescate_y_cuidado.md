@@ -4,18 +4,18 @@ description: "La segunda parte de Mishlei 21 conecta la misericordia, el juicio,
 date: 2026-08-05
 tags: [mishlei, mishlei_21, redencion, justicia, misericordia, torah]
 references:
-  - "#mishlei_21_11"
-  - "#mishlei_21_12"
-  - "#mishlei_21_13"
-  - "#mishlei_21_14"
-  - "#mishlei_21_15"
-  - "#mishlei_21_16"
-  - "#mishlei_21_17"
-  - "#mishlei_21_18"
-  - "#mishlei_21_19"
-  - "#mishlei_21_20"
-  - "#yeshayahu_43_3"
-  - "#tehilim_68_18"
+  - "#proverbios_21_11"
+  - "#proverbios_21_12"
+  - "#proverbios_21_13"
+  - "#proverbios_21_14"
+  - "#proverbios_21_15"
+  - "#proverbios_21_16"
+  - "#proverbios_21_17"
+  - "#proverbios_21_18"
+  - "#proverbios_21_19"
+  - "#proverbios_21_20"
+  - "#isaias_43_3"
+  - "#salmos_68_18"
 sources:
   - "https://www.youtube.com/watch?v=Oc3PJdUwdyI"
   - "docs/scriptures/oe/json/proverbs/21.json"
@@ -39,18 +39,18 @@ Esta nota organiza la clase pública sobre Mishlei 21:11-30, con énfasis en los
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_21_11 | בענש לץ יחכם פתי ובהשכיל לחכם יקח דעת | Cuando se castiga al burlador, se hará sabio el ingenuo; pero cuando se hace considerar al sabio, tomará conocimiento. |
-| #mishlei_21_12 | משכיל צדיק לבית רשע מסלף רשעים לרע | Observa el justo a la casa del condenado, que retuerce a los condenados para mal. |
-| #mishlei_21_13 | אטם אזנו מזעקת דל גם הוא יקרא ולא יענה | El que cierra su oído debido al clamor del débil, también él llamará, y no será respondido. |
-| #mishlei_21_14 | מתן בסתר יכפה אף ושחד בחק חמה עזה | La dádiva en secreto somete a la ira, y el regalo en el seno, el fuerte calor. |
-| #mishlei_21_15 | שמחה לצדיק עשות משפט ומחתה לפעלי און | Alegría para el justo es el hacer juicio, pero ruina para los hacedores de vacuidad. |
-| #mishlei_21_16 | אדם תועה מדרך השכל בקהל רפאים ינוח | El hombre que se aparta del camino de la prudencia en la asamblea de los caídos (heb.: _refaim_) reposará. |
-| #mishlei_21_17 | איש מחסור אהב שמחה אהב יין ושמן לא יעשיר | Hombre de escasez es el que ama la alegría, el que ama el vino y el aceite no enriquecerá. |
-| #mishlei_21_18 | כפר לצדיק רשע ותחת ישרים בוגד | Pago por el rescate del justificado es el malvado (véase Yeshayahu 43:3), y en lugar de los rectificados estará el traidor. |
-| #mishlei_21_19 | טוב שבת בארץ מדבר מאשת מדונים מדינים וכעס | Mejor es sentarse en tierra desierta que mujer de contiendas e ira. |
-| #mishlei_21_20 | אוצר נחמד ושמן בנוה חכם וכסיל אדם יבלענו | Tesoro deseable y aceite hay en la morada del sabio, pero el hombre indisciplinado lo tragará. |
-| #yeshayahu_43_3-4 | כי אני יהוה אלהיך קדוש ישראל מושיעך נתתי כפרך מצרים כוש וסבא תחתיך / מאשר יקרת בעיני נכבדת ואני אהבתיך ואתן אדם תחתיך ולאמים תחת נפשך | Yo soy יהוה, tu Salvador; di a Egipto, Cus y Seba en tu lugar. Porque eres precioso a mis ojos, honrado, y yo te amo; daré hombres en tu lugar y pueblos en lugar de tu vida. |
-| #tehilim_68_18 | עלית למרום שבית שבי לקחת מתנות באדם ואף סוררים לשכן יה אלהים | — |
+| #proverbios_21_11 | בענש לץ יחכם פתי ובהשכיל לחכם יקח דעת | Cuando se castiga al burlador, se hará sabio el ingenuo; pero cuando se hace considerar al sabio, tomará conocimiento. |
+| #proverbios_21_12 | משכיל צדיק לבית רשע מסלף רשעים לרע | Observa el justo a la casa del condenado, que retuerce a los condenados para mal. |
+| #proverbios_21_13 | אטם אזנו מזעקת דל גם הוא יקרא ולא יענה | El que cierra su oído debido al clamor del débil, también él llamará, y no será respondido. |
+| #proverbios_21_14 | מתן בסתר יכפה אף ושחד בחק חמה עזה | La dádiva en secreto somete a la ira, y el regalo en el seno, el fuerte calor. |
+| #proverbios_21_15 | שמחה לצדיק עשות משפט ומחתה לפעלי און | Alegría para el justo es el hacer juicio, pero ruina para los hacedores de vacuidad. |
+| #proverbios_21_16 | אדם תועה מדרך השכל בקהל רפאים ינוח | El hombre que se aparta del camino de la prudencia en la asamblea de los caídos (heb.: _refaim_) reposará. |
+| #proverbios_21_17 | איש מחסור אהב שמחה אהב יין ושמן לא יעשיר | Hombre de escasez es el que ama la alegría, el que ama el vino y el aceite no enriquecerá. |
+| #proverbios_21_18 | כפר לצדיק רשע ותחת ישרים בוגד | Pago por el rescate del justificado es el malvado (véase Yeshayahu 43:3), y en lugar de los rectificados estará el traidor. |
+| #proverbios_21_19 | טוב שבת בארץ מדבר מאשת מדונים מדינים וכעס | Mejor es sentarse en tierra desierta que mujer de contiendas e ira. |
+| #proverbios_21_20 | אוצר נחמד ושמן בנוה חכם וכסיל אדם יבלענו | Tesoro deseable y aceite hay en la morada del sabio, pero el hombre indisciplinado lo tragará. |
+| #isaias_43_3-4 | כי אני יהוה אלהיך קדוש ישראל מושיעך נתתי כפרך מצרים כוש וסבא תחתיך / מאשר יקרת בעיני נכבדת ואני אהבתיך ואתן אדם תחתיך ולאמים תחת נפשך | Yo soy יהוה, tu Salvador; di a Egipto, Cus y Seba en tu lugar. Porque eres precioso a mis ojos, honrado, y yo te amo; daré hombres en tu lugar y pueblos en lugar de tu vida. |
+| #salmos_68_18 | עלית למרום שבית שבי לקחת מתנות באדם ואף סוררים לשכן יה אלהים | — |
 
 ## La disciplina que aprende de lo que ve
 
@@ -93,10 +93,10 @@ El verso 20 cierra la unidad con tesoro y aceite en la morada del sabio, frente 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_21_11-13 | El ingenuo aprende del castigo ajeno y quien cierra el oído al débil recibe una respuesta equivalente. | Apoyo textual; aplicación ética desarrollada con cautela. |
-| #mishlei_21_14-17 | La dádiva puede calmar, el juicio alegra al justo y la búsqueda de jolgorio produce escasez. | Distinción léxica y desarrollo textual; condena del soborno pendiente de cotejo contextual. |
-| #mishlei_21_18 y #yeshayahu_43_3-4 | El malvado aparece como pago del rescate del justificado; Yeshayahu explica el “en lugar de” con pueblos dados por Israel. | Estructura de sustitución apoyada; lectura mesiánica atribuida a la clase y calificada. |
-| #mishlei_21_19-20 | Apartarse de la contienda preserva la vida; el sabio conserva tesoro y aceite, mientras el indisciplinado los consume. | Comparación directa; aplicaciones a idolatría, herencia espiritual y pródigo marcadas como alegóricas. |
+| #proverbios_21_11-13 | El ingenuo aprende del castigo ajeno y quien cierra el oído al débil recibe una respuesta equivalente. | Apoyo textual; aplicación ética desarrollada con cautela. |
+| #proverbios_21_14-17 | La dádiva puede calmar, el juicio alegra al justo y la búsqueda de jolgorio produce escasez. | Distinción léxica y desarrollo textual; condena del soborno pendiente de cotejo contextual. |
+| #proverbios_21_18 y #isaias_43_3-4 | El malvado aparece como pago del rescate del justificado; Yeshayahu explica el “en lugar de” con pueblos dados por Israel. | Estructura de sustitución apoyada; lectura mesiánica atribuida a la clase y calificada. |
+| #proverbios_21_19-20 | Apartarse de la contienda preserva la vida; el sabio conserva tesoro y aceite, mientras el indisciplinado los consume. | Comparación directa; aplicaciones a idolatría, herencia espiritual y pródigo marcadas como alegóricas. |
 
 ## Pendiente de verificar
 
@@ -108,9 +108,9 @@ El verso 20 cierra la unidad con tesoro y aceite en la morada del sabio, frente 
 
 ## Conexiones principales
 
-- #mishlei_19_25: la corrección del burlador y el aprendizaje del ingenuo preparan la dinámica de 21:11.
-- #yeshayahu_43_3-4: texto local citado por TTH como clave para el lenguaje de rescate y sustitución de 21:18.
-- #tehilim_68_18: la exposición conecta los dones recibidos con la soberanía de יהוה; la relación exacta con 21:14 queda por cotejar.
+- #proverbios_19_25: la corrección del burlador y el aprendizaje del ingenuo preparan la dinámica de 21:11.
+- #isaias_43_3-4: texto local citado por TTH como clave para el lenguaje de rescate y sustitución de 21:18.
+- #salmos_68_18: la exposición conecta los dones recibidos con la soberanía de יהוה; la relación exacta con 21:14 queda por cotejar.
 - [Mishlei 21: la mano de יהוה y el corazón del Rey](./mishlei_21_mano_derecha_corazon_del_rey.md)
 
 ## Conclusión

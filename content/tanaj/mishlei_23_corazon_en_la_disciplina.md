@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 23:6-14 sobre discernir al malo de ojo, guardar
 date: 2026-08-05
 tags: [mishlei, mishlei_23, disciplina, discernimiento, pobres, redencion]
 references:
-  - "#mishlei_23_6"
-  - "#mishlei_23_7"
-  - "#mishlei_23_8"
-  - "#mishlei_23_9"
-  - "#mishlei_23_10"
-  - "#mishlei_23_11"
-  - "#mishlei_23_12"
-  - "#mishlei_23_13"
-  - "#mishlei_23_14"
+  - "#proverbios_23_6"
+  - "#proverbios_23_7"
+  - "#proverbios_23_8"
+  - "#proverbios_23_9"
+  - "#proverbios_23_10"
+  - "#proverbios_23_11"
+  - "#proverbios_23_12"
+  - "#proverbios_23_13"
+  - "#proverbios_23_14"
 sources:
   - "https://www.youtube.com/watch?v=E3QHEbOBrxk"
   - "docs/scriptures/oe/json/proverbs/23.json"
@@ -34,14 +34,14 @@ Esta nota organiza la exposición pública sobre Mishlei 23:6-14. El orden sigue
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_23_6 | אל תלחם את לחם רע עין ואל תתאו תתאיו למטעמתיו | No comas el pan del malo de ojo, ni desees sus delicias. |
-| #mishlei_23_7 | כי כמו שער בנפשו כן הוא אכל ושתה יאמר לך ולבו בל עמך | Porque como considera en su ser, así es él. “Come y bebe”, te dirá, pero su corazón no estará contigo. |
-| #mishlei_23_8 | פתך אכלת תקיאנה ושחת דבריך הנעימים | Tu bocado que comiste, vomitarás, y destruirás tus palabras agradables. |
-| #mishlei_23_9 | באזני כסיל אל תדבר כי יבוז לשכל מליך | En los oídos del indisciplinado no hables, pues despreciará la prudencia de tus palabras. |
-| #mishlei_23_10 | אל תסג גבול עולם ובשדי יתומים אל תבא | No muevas el límite antiguo, y en los campos de los huérfanos no entres. |
-| #mishlei_23_11 | כי גאלם חזק הוא יריב את ריבם אתך | Porque su Redentor es fuerte; Él luchará su causa contra ti. |
-| #mishlei_23_12 | הביאה למוסר לבך ואזנך לאמרי דעת | Haz ingresar a la disciplina tu corazón, y tu oído a los dichos de conocimiento. |
-| #mishlei_23_13-14 | אל תמנע מנער מוסר כי תכנו בשבט לא ימות / אתה בשבט תכנו ונפשו משאול תציל | No retengas del joven la disciplina… Tú con vara lo golpearás, y su vida del Sheol rescatarás. |
+| #proverbios_23_6 | אל תלחם את לחם רע עין ואל תתאו תתאיו למטעמתיו | No comas el pan del malo de ojo, ni desees sus delicias. |
+| #proverbios_23_7 | כי כמו שער בנפשו כן הוא אכל ושתה יאמר לך ולבו בל עמך | Porque como considera en su ser, así es él. “Come y bebe”, te dirá, pero su corazón no estará contigo. |
+| #proverbios_23_8 | פתך אכלת תקיאנה ושחת דבריך הנעימים | Tu bocado que comiste, vomitarás, y destruirás tus palabras agradables. |
+| #proverbios_23_9 | באזני כסיל אל תדבר כי יבוז לשכל מליך | En los oídos del indisciplinado no hables, pues despreciará la prudencia de tus palabras. |
+| #proverbios_23_10 | אל תסג גבול עולם ובשדי יתומים אל תבא | No muevas el límite antiguo, y en los campos de los huérfanos no entres. |
+| #proverbios_23_11 | כי גאלם חזק הוא יריב את ריבם אתך | Porque su Redentor es fuerte; Él luchará su causa contra ti. |
+| #proverbios_23_12 | הביאה למוסר לבך ואזנך לאמרי דעת | Haz ingresar a la disciplina tu corazón, y tu oído a los dichos de conocimiento. |
+| #proverbios_23_13-14 | אל תמנע מנער מוסר כי תכנו בשבט לא ימות / אתה בשבט תכנו ונפשו משאול תציל | No retengas del joven la disciplina… Tú con vara lo golpearás, y su vida del Sheol rescatarás. |
 
 ## El pan del malo de ojo
 

@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_72_1"
-  - "#tehilim_72_20"
+  - "#salmos_72_1"
+  - "#salmos_72_20"
 sources:
   - "https://www.youtube.com/watch?v=psVGY-b6Qoc"
   - "docs/scriptures/oe/json/psalms/72.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 72. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                         | Observación de lectura                                               |
 | -------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_72_1  | לשלמה אלהים משפטיך למלך תן וצדקתך לבן מלך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_72_20 | כלו תפלות דוד בן ישי                            | El verso final permite observar el cierre de la composición.         |
+| #salmos_72_1  | לשלמה אלהים משפטיך למלך תן וצדקתך לבן מלך | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_72_20 | כלו תפלות דוד בן ישי                            | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 72 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 72» — <https://www.youtube.com/watch?v=psVGY-b6Qoc> — source_id: `youtube:psVGY-b6Qoc`.
+- «Tehilim/Himnos/Salmo Cap 72» — <https://www.youtube.com/watch?v=psVGY-b6Qoc> — `source_id`: `youtube:psVGY-b6Qoc`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

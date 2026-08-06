@@ -9,12 +9,12 @@ tags:
   - pureza
   - qorbanot
 references:
-  - "#vayikra_12_1-4"
-  - "#vayikra_12_5-8"
-  - "#bereshit_3_15-16"
-  - "#mishlei_20_27"
-  - "#iojanan_1_9"
-  - "#galatians_3_28"
+  - "#levitico_12_1-4"
+  - "#levitico_12_5-8"
+  - "#genesis_3_15-16"
+  - "#proverbios_20_27"
+  - "#juan_1_9"
+  - "#galatas_3_28"
 sources:
   - "https://www.youtube.com/watch?v=6ApDr-0VXC0"
   - "https://www.youtube.com/watch?v=ZJ1vhJLEL3c"
@@ -38,10 +38,10 @@ Esta nota desarrolla Vayikra 12 a partir de las dos fuentes públicas de Eric. L
 
 | Unidad          | Texto local OE/TTH                                                                                           | Función en el argumento                                                              |
 | --------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| #vayikra_12_1-2 | OE: **וידבר יהוה אל משה לאמר אשה כי תזריע וילדה זכר**; TTH: «Una mujer, cuando conciba y dé a luz varón».    | La norma parte de un nacimiento concreto, no de una teoría abstracta sobre la mujer. |
-| #vayikra_12_3-4 | «En el octavo día será circuncidada la carne de su prepucio» y ella permanecerá en las sangres de su pureza. | El niño recibe la señal del pacto mientras continúa el plazo de la madre.            |
-| #vayikra_12_5-6 | Para hija se duplican los primeros días; al cumplirse los días trae olá y jatat.                             | La secuencia termina en acercamiento cultual y reintegración.                        |
-| #vayikra_12_7-8 | El sacerdote hace expiación por ella; si no alcanza su mano, trae dos aves.                                  | La provisión económica no excluye a la mujer pobre del rito.                         |
+| #levitico_12_1-2 | OE: **וידבר יהוה אל משה לאמר אשה כי תזריע וילדה זכר**; TTH: «Una mujer, cuando conciba y dé a luz varón».    | La norma parte de un nacimiento concreto, no de una teoría abstracta sobre la mujer. |
+| #levitico_12_3-4 | «En el octavo día será circuncidada la carne de su prepucio» y ella permanecerá en las sangres de su pureza. | El niño recibe la señal del pacto mientras continúa el plazo de la madre.            |
+| #levitico_12_5-6 | Para hija se duplican los primeros días; al cumplirse los días trae olá y jatat.                             | La secuencia termina en acercamiento cultual y reintegración.                        |
+| #levitico_12_7-8 | El sacerdote hace expiación por ella; si no alcanza su mano, trae dos aves.                                  | La provisión económica no excluye a la mujer pobre del rito.                         |
 
 ## 1. Nacimiento, nida y el límite que protege
 
@@ -147,25 +147,25 @@ El movimiento de la perícopa puede resumirse con las formas que aparecen en su 
 
 Cuando se completan los días, el texto no salta directamente a una acusación, sino a una ofrenda. **והביאה**, _vehevi'ah_, procede de בוא en forma causativa: «traerá» o «hará venir». Su fuerza contextual es acercar el animal al santuario en el momento fijado. **עלה**, _olah_, significa lo que sube y designa el holocausto; **חטאת**, _jatat_, puede nombrar la ofrenda por pecado o una ofrenda de purificación según el contexto. La distinción importa: el segundo término no autoriza por sí solo a declarar que la parturienta haya cometido una falta personal.
 
-El sacerdote **וכפר עליה**, _veqiper aleha_, «hará expiación por ella», y **וטהרה**, _vetaharah_, «será pura» (#vayikra_12_7). **כפר**, _kiper_, expresa cubrir, expiar o reparar ritualmente; **טהר**, _taher_, expresa quedar puro o apto. La equivalencia «borrar toda culpa» es demasiado amplia para este contexto. La clase de Eric acierta al presentar la restauración como un proceso que no debe abandonarse cuando cesa el dolor: el propio texto encadena días cumplidos, ofrenda, acción sacerdotal y pureza.
+El sacerdote **וכפר עליה**, _veqiper aleha_, «hará expiación por ella», y **וטהרה**, _vetaharah_, «será pura» (#levitico_12_7). **כפר**, _kiper_, expresa cubrir, expiar o reparar ritualmente; **טהר**, _taher_, expresa quedar puro o apto. La equivalencia «borrar toda culpa» es demasiado amplia para este contexto. La clase de Eric acierta al presentar la restauración como un proceso que no debe abandonarse cuando cesa el dolor: el propio texto encadena días cumplidos, ofrenda, acción sacerdotal y pureza.
 
 El último límite es económico y comunitario. **ואם לא תגיע ידו**, _ve'im lo tagia yado_, literalmente «si su mano no alcanza», usa **יד**, _yad_, mano; aquí funciona como expresión contextual de recursos disponibles. **ולקחה**, _velaqah_, significa «tomará» o «recibirá» y abre la alternativa de dos aves. La mujer pobre no queda fuera del acercamiento porque no pueda traer un cordero. Por eso la evaluación de Eric debe conservarse con precisión: el capítulo regula el acceso y la reintegración, protege la participación y distingue la ofrenda de una condena moral automática.
 
 ## 6. La secuencia completa: cuerpo, pacto, días y acceso
 
-Vayikra 12 comienza con un cuerpo que ha dado vida, no con una acusación. El OE y el TTH dicen: «Una mujer, cuando conciba y dé a luz varón» (#vayikra_12_1-2). **אשה**, _ishah_, significa mujer o esposa; aquí identifica a la parturienta dentro de una norma cultual. **תזריע**, _tazria_, procede de זרע y significa concebir, sembrar o producir semilla; su fuerza contextual es concebir. «Sembrar pecado» sería una equivalencia **inexacta**. Eric acierta al resistir una lectura que convierta el nacimiento en culpa moral de la madre.
+Vayikra 12 comienza con un cuerpo que ha dado vida, no con una acusación. El OE y el TTH dicen: «Una mujer, cuando conciba y dé a luz varón» (#levitico_12_1-2). **אשה**, _ishah_, significa mujer o esposa; aquí identifica a la parturienta dentro de una norma cultual. **תזריע**, _tazria_, procede de זרע y significa concebir, sembrar o producir semilla; su fuerza contextual es concebir. «Sembrar pecado» sería una equivalencia **inexacta**. Eric acierta al resistir una lectura que convierta el nacimiento en culpa moral de la madre.
 
-El texto ordena primero siete días para un hijo varón, después la circuncisión del octavo día y finalmente treinta y tres días «en las sangres de su pureza» (#vayikra_12_3-4). **מול**, _mul_, significa circuncidar; la forma **ימול**, _yimol_, es una orden normativa expresada como «será circuncidada» y señala el pacto del niño. Su fuerza no es declarar terminada la condición de la madre. **מלא**, _male_, significa llenar o completar; en la frase del plazo exige que los días lleguen a su término. «Acumular mérito» sería una equivalencia **pedagógica** ajena al contexto.
+El texto ordena primero siete días para un hijo varón, después la circuncisión del octavo día y finalmente treinta y tres días «en las sangres de su pureza» (#levitico_12_3-4). **מול**, _mul_, significa circuncidar; la forma **ימול**, _yimol_, es una orden normativa expresada como «será circuncidada» y señala el pacto del niño. Su fuerza no es declarar terminada la condición de la madre. **מלא**, _male_, significa llenar o completar; en la frase del plazo exige que los días lleguen a su término. «Acumular mérito» sería una equivalencia **pedagógica** ajena al contexto.
 
-Para una hija, el texto duplica el período inicial y habla de sesenta y seis días en las sangres de pureza (#vayikra_12_5). **בת**, _bat_, significa hija; la forma nombra al niño nacido, no una categoría moral. Eric relaciona la duplicación con la continuidad de la maternidad y con Bereshit 3; esa lectura puede conservarse como **inferencia teológica cualificada**, pero el capítulo no explica la causa de la diferencia. La duración es **exacta**; su simbolismo causal es **aproximado**.
+Para una hija, el texto duplica el período inicial y habla de sesenta y seis días en las sangres de pureza (#levitico_12_5). **בת**, _bat_, significa hija; la forma nombra al niño nacido, no una categoría moral. Eric relaciona la duplicación con la continuidad de la maternidad y con Bereshit 3; esa lectura puede conservarse como **inferencia teológica cualificada**, pero el capítulo no explica la causa de la diferencia. La duración es **exacta**; su simbolismo causal es **aproximado**.
 
 La expresión **בדמי טהרה**, _bedeme taharah_, combina **דם**, _dam_, sangre, con **טהרה**, _taharah_, pureza. «Sangres» es la equivalencia **exacta** de la forma plural en su nivel formal; «remanentes» es una explicación **pedagógica** de cómo se vive el período. La preposición y la frase describen permanencia durante un plazo ritual, no una teoría médica del sangrado. La observación de Eric sobre no abandonar el proceso cuando cesa el dolor tiene, por tanto, una buena analogía: el texto manda completar los días, aunque la analogía no convierte la norma en tratamiento clínico.
 
 ## 7. Ofrendas diferenciadas y reintegración sin estigma
 
-Al cumplirse los días, la mujer trae un cordero para _olah_ y una cría de paloma o tórtola para _jatat_ (#vayikra_12_6). **עלה**, _olah_, significa lo que sube y designa una ofrenda elevada u holocausto; «reconciliación» es una equivalencia **aproximada** que no agota la forma. **חטאת**, _jatat_, puede nombrar ofrenda por pecado o de purificación según el contexto; «culpa personal de la madre» sería **inexacta** aquí. Eric tiene razón en que no se deben colapsar ambas ofrendas en una sola categoría.
+Al cumplirse los días, la mujer trae un cordero para _olah_ y una cría de paloma o tórtola para _jatat_ (#levitico_12_6). **עלה**, _olah_, significa lo que sube y designa una ofrenda elevada u holocausto; «reconciliación» es una equivalencia **aproximada** que no agota la forma. **חטאת**, _jatat_, puede nombrar ofrenda por pecado o de purificación según el contexto; «culpa personal de la madre» sería **inexacta** aquí. Eric tiene razón en que no se deben colapsar ambas ofrendas en una sola categoría.
 
-El sacerdote «hará expiación por ella y será pura» (#vayikra_12_7). **כפר**, _kiper_, significa hacer expiación, cubrir o reparar ritualmente; su fuerza contextual es resolver la condición cultual y conducir a la pureza. **טהר**, _taher_, significa ser puro, limpiar o quedar apto; la forma **וטהרה**, _vetaharah_, describe el resultado ritual. «Borrar toda culpa» sería una equivalencia **pedagógica excesiva**, porque el capítulo no nombra una transgresión de la parturienta. La reintegración es real, pero no debe construirse mediante estigma.
+El sacerdote «hará expiación por ella y será pura» (#levitico_12_7). **כפר**, _kiper_, significa hacer expiación, cubrir o reparar ritualmente; su fuerza contextual es resolver la condición cultual y conducir a la pureza. **טהר**, _taher_, significa ser puro, limpiar o quedar apto; la forma **וטהרה**, _vetaharah_, describe el resultado ritual. «Borrar toda culpa» sería una equivalencia **pedagógica excesiva**, porque el capítulo no nombra una transgresión de la parturienta. La reintegración es real, pero no debe construirse mediante estigma.
 
 El límite económico del versículo 8 vuelve visible la amplitud del acceso. «Si no alcanza su mano un cordero, tomará dos tórtolas o dos hijos de paloma». **יד**, _yad_, significa mano; en **לא תגיע ידו**, _lo tagia yado_, la expresión funciona idiomáticamente como recursos insuficientes. **לקח**, _laqaj_, significa tomar o recibir; aquí ordena la alternativa permitida. «Pobreza espiritual» sería una equivalencia **inexacta**. Eric observa correctamente que la mujer que no puede pagar el cordero no queda expulsada del culto: la misma norma ofrece un camino de acercamiento.
 

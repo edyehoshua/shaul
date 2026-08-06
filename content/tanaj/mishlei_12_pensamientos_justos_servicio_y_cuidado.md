@@ -4,12 +4,12 @@ description: "Mishlei 12:5-10 contrasta el juicio de los justos con el engaño, 
 date: 2026-08-05
 tags: [mishlei, mishlei_12, justicia, juicio, servicio, cuidado, engaño]
 references:
-  - "#mishlei_12_5"
-  - "#mishlei_12_6"
-  - "#mishlei_12_7"
-  - "#mishlei_12_8"
-  - "#mishlei_12_9"
-  - "#mishlei_12_10"
+  - "#proverbios_12_5"
+  - "#proverbios_12_6"
+  - "#proverbios_12_7"
+  - "#proverbios_12_8"
+  - "#proverbios_12_9"
+  - "#proverbios_12_10"
   - "#mateo_23_14"
   - "#miqueas_4_13"
   - "#salmos_23_1"
@@ -34,12 +34,12 @@ Esta nota organiza la clase sobre Mishlei 12:5-10. El video insiste en leer Mish
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_12_5 | מחשבות צדיקים משפט תחבלות רשעים מרמה | Los pensamientos de los justos son juicio, las estrategias de los condenados, engaño. |
-| #mishlei_12_6 | דברי רשעים ארב דם ופי ישרים יצילם | Las palabras de los condenados son acechanza de sangre, pero la boca de los rectos los rescatará. |
-| #mishlei_12_7 | הפוך רשעים ואינם ובית צדיקים יעמד | Son volcados los condenados y <em>ya</em> no están, pero la casa de los justos permanecerá en pie. |
-| #mishlei_12_8 | לפי שכלו יהלל איש ונעוה לב יהיה לבוז | De acuerdo a su prudencia será alabado un hombre, pero el perverso de corazón será despreciado. |
-| #mishlei_12_9 | טוב נקלה ועבד לו ממתכבד וחסר לחם | Mejor es el desvalorado, pero trabaja para Él, que el que se gloría y carece de pan. |
-| #mishlei_12_10 | יודע צדיק נפש בהמתו ורחמי רשעים אכזרי | Conoce el justo la vida de su animal, pero la entraña de los condenados es cruel. |
+| #proverbios_12_5 | מחשבות צדיקים משפט תחבלות רשעים מרמה | Los pensamientos de los justos son juicio, las estrategias de los condenados, engaño. |
+| #proverbios_12_6 | דברי רשעים ארב דם ופי ישרים יצילם | Las palabras de los condenados son acechanza de sangre, pero la boca de los rectos los rescatará. |
+| #proverbios_12_7 | הפוך רשעים ואינם ובית צדיקים יעמד | Son volcados los condenados y <em>ya</em> no están, pero la casa de los justos permanecerá en pie. |
+| #proverbios_12_8 | לפי שכלו יהלל איש ונעוה לב יהיה לבוז | De acuerdo a su prudencia será alabado un hombre, pero el perverso de corazón será despreciado. |
+| #proverbios_12_9 | טוב נקלה ועבד לו ממתכבד וחסר לחם | Mejor es el desvalorado, pero trabaja para Él, que el que se gloría y carece de pan. |
+| #proverbios_12_10 | יודע צדיק נפש בהמתו ורחמי רשעים אכזרי | Conoce el justo la vida de su animal, pero la entraña de los condenados es cruel. |
 
 ## Pensamientos que reciben forma de juicio
 
@@ -82,10 +82,10 @@ Esta aplicación no elimina el sentido ético inmediato: el justo debe tratar co
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_12_5 | Los pensamientos de los justos son _mishpat_; los planes de los condenados se vuelven engaño. | Apoyo textual y aclaración del alcance de _mishpat_. |
-| #mishlei_12_6-7 | El engaño produce acechanza de sangre, pero la boca recta rescata y la casa justa permanece. | Apoyo textual; aplicación a falso testimonio y comunidad calificada. |
-| #mishlei_12_8-9 | La prudencia recibe honra; el siervo despreciado es mejor que el que se gloría y carece de pan. | Observación textual y aplicación al servicio; dimensión material preservada. |
-| #mishlei_12_10 | El “animal” puede leerse alegóricamente como el pueblo cuidado por יהוה, sin cancelar el cuidado literal. | Inferencia alegórica atribuida y cualificada. |
+| #proverbios_12_5 | Los pensamientos de los justos son _mishpat_; los planes de los condenados se vuelven engaño. | Apoyo textual y aclaración del alcance de _mishpat_. |
+| #proverbios_12_6-7 | El engaño produce acechanza de sangre, pero la boca recta rescata y la casa justa permanece. | Apoyo textual; aplicación a falso testimonio y comunidad calificada. |
+| #proverbios_12_8-9 | La prudencia recibe honra; el siervo despreciado es mejor que el que se gloría y carece de pan. | Observación textual y aplicación al servicio; dimensión material preservada. |
+| #proverbios_12_10 | El “animal” puede leerse alegóricamente como el pueblo cuidado por יהוה, sin cancelar el cuidado literal. | Inferencia alegórica atribuida y cualificada. |
 
 ## Conexiones principales
 

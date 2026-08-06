@@ -16,8 +16,8 @@ references:
   - "#romanos_1_5"
   - "#romanos_1_6"
   - "#romanos_1_7"
-  - "#yeshayahu_9_5"
-  - "#bereshit_49_10"
+  - "#isaias_9_5"
+  - "#genesis_49_10"
   - "#colosenses_2_9"
 sources:
   - "https://www.youtube.com/watch?v=WV7tunCQhfQ"

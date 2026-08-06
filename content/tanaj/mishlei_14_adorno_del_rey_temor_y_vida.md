@@ -4,16 +4,16 @@ description: "Estudio de Mishlei 14:26-35 sobre el temor de יהוה, el pueblo 
 date: 2026-08-05
 tags: [mishlei, mishlei_14, temor, refugio, pueblo, sabiduria]
 references:
-  - "#mishlei_14_26"
-  - "#mishlei_14_27"
-  - "#mishlei_14_28"
-  - "#mishlei_14_29"
-  - "#mishlei_14_30"
-  - "#mishlei_14_31"
-  - "#mishlei_14_32"
-  - "#mishlei_14_33"
-  - "#mishlei_14_34"
-  - "#mishlei_14_35"
+  - "#proverbios_14_26"
+  - "#proverbios_14_27"
+  - "#proverbios_14_28"
+  - "#proverbios_14_29"
+  - "#proverbios_14_30"
+  - "#proverbios_14_31"
+  - "#proverbios_14_32"
+  - "#proverbios_14_33"
+  - "#proverbios_14_34"
+  - "#proverbios_14_35"
 sources:
   - "https://www.youtube.com/watch?v=ovyvUbF5N7o"
   - "docs/scriptures/oe/json/raw/proverbs.json"
@@ -33,16 +33,16 @@ Esta nota organiza la exposición sobre el cierre de Mishlei 14, comenzando en l
 
 | Ref. | Hebreo OE (sin nikud) | Función en el pasaje |
 | --- | --- | --- |
-| #mishlei_14_26 | ביראת יהוה מבטח עז ולבניו יהיה מחסה | El temor es confianza fuerte y refugio para los hijos. |
-| #mishlei_14_27 | יראת יהוה מקור חיים לסור ממוקשי מות | La reverencia es fuente de vida que aparta de las trampas de muerte. |
-| #mishlei_14_28 | ברב עם הדרת מלך ובאפס לאום מחתת רזון | La abundancia del pueblo adorna al Rey; la ausencia derriba al gobernante. |
-| #mishlei_14_29 | ארך אפים רב תבונה וקצר רוח מרים אולת | La paciencia muestra entendimiento; la precipitación levanta la necedad. |
-| #mishlei_14_30 | חיי בשרים לב מרפא ורקב עצמות קנאה | Un corazón sanador vivifica; la envidia corroe el interior. |
-| #mishlei_14_31 | עשק דל חרף עשהו ומכבדו חנן אביון | Oprimir al pobre afrenta a su Hacedor; favorecer al necesitado lo honra. |
-| #mishlei_14_32 | ברעתו ידחה רשע וחסה במותו צדיק | El malvado cae por su maldad; el justo encuentra refugio aun en su muerte. |
-| #mishlei_14_33 | בלב נבון תנוח חכמה ובקרב כסילים תודע | La sabiduría reposa en el entendido y se revela el contraste con los necios. |
-| #mishlei_14_34 | צדקה תרומם גוי וחסד לאמים חטאת | La justicia exalta a una nación; el pecado deshonra a los pueblos. |
-| #mishlei_14_35 | רצון מלך לעבד משכיל ועברתו תהיה מביש | El favor del Rey está con el siervo prudente; su ira avergüenza. |
+| #proverbios_14_26 | ביראת יהוה מבטח עז ולבניו יהיה מחסה | El temor es confianza fuerte y refugio para los hijos. |
+| #proverbios_14_27 | יראת יהוה מקור חיים לסור ממוקשי מות | La reverencia es fuente de vida que aparta de las trampas de muerte. |
+| #proverbios_14_28 | ברב עם הדרת מלך ובאפס לאום מחתת רזון | La abundancia del pueblo adorna al Rey; la ausencia derriba al gobernante. |
+| #proverbios_14_29 | ארך אפים רב תבונה וקצר רוח מרים אולת | La paciencia muestra entendimiento; la precipitación levanta la necedad. |
+| #proverbios_14_30 | חיי בשרים לב מרפא ורקב עצמות קנאה | Un corazón sanador vivifica; la envidia corroe el interior. |
+| #proverbios_14_31 | עשק דל חרף עשהו ומכבדו חנן אביון | Oprimir al pobre afrenta a su Hacedor; favorecer al necesitado lo honra. |
+| #proverbios_14_32 | ברעתו ידחה רשע וחסה במותו צדיק | El malvado cae por su maldad; el justo encuentra refugio aun en su muerte. |
+| #proverbios_14_33 | בלב נבון תנוח חכמה ובקרב כסילים תודע | La sabiduría reposa en el entendido y se revela el contraste con los necios. |
+| #proverbios_14_34 | צדקה תרומם גוי וחסד לאמים חטאת | La justicia exalta a una nación; el pecado deshonra a los pueblos. |
+| #proverbios_14_35 | רצון מלך לעבד משכיל ועברתו תהיה מביש | El favor del Rey está con el siervo prudente; su ira avergüenza. |
 
 ## El temor como promesa firme y fuente de vida
 
@@ -83,11 +83,11 @@ La clase también comenta una posible diferencia textual en 14:33: menciona que 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_14_26-27 | El temor de יהוה es promesa segura, refugio para los hijos y fuente de vida; se relaciona con la garantía del Ruaj y el agua viva. | Refugio y vida apoyados; conexiones con Yehoshua calificadas como mesiánicas. |
-| #mishlei_14_28 | El pueblo abundante es el adorno o gloria del Rey; la carencia de pueblo es la ruina del príncipe. | Contraste textual apoyado; aplicación a la expansión de la Besorah atribuida. |
-| #mishlei_14_29-30 | La paciencia nace del entendimiento; el corazón sanador da vida y la envidia corroe el interior. | Sentido ético apoyado; identificación del corazón con Yehoshua calificada. |
-| #mishlei_14_31-32 | La misericordia hacia el pobre honra al Hacedor y el justo tiene refugio aun en la muerte. | Justicia social apoyada; resurrección como extensión mesiánica de la clase. |
-| #mishlei_14_33-35 | La sabiduría reposa en el entendido, la justicia exalta a la nación y el Rey favorece al siervo prudente. | Secuencia textual apoyada; variante antigua y asociaciones cultuales pendientes. |
+| #proverbios_14_26-27 | El temor de יהוה es promesa segura, refugio para los hijos y fuente de vida; se relaciona con la garantía del Ruaj y el agua viva. | Refugio y vida apoyados; conexiones con Yehoshua calificadas como mesiánicas. |
+| #proverbios_14_28 | El pueblo abundante es el adorno o gloria del Rey; la carencia de pueblo es la ruina del príncipe. | Contraste textual apoyado; aplicación a la expansión de la Besorah atribuida. |
+| #proverbios_14_29-30 | La paciencia nace del entendimiento; el corazón sanador da vida y la envidia corroe el interior. | Sentido ético apoyado; identificación del corazón con Yehoshua calificada. |
+| #proverbios_14_31-32 | La misericordia hacia el pobre honra al Hacedor y el justo tiene refugio aun en la muerte. | Justicia social apoyada; resurrección como extensión mesiánica de la clase. |
+| #proverbios_14_33-35 | La sabiduría reposa en el entendido, la justicia exalta a la nación y el Rey favorece al siervo prudente. | Secuencia textual apoyada; variante antigua y asociaciones cultuales pendientes. |
 
 ## Pendiente de verificar
 

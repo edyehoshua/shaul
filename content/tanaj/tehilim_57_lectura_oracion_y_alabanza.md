@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_57_1"
-  - "#tehilim_57_12"
+  - "#salmos_57_1"
+  - "#salmos_57_12"
 sources:
   - "https://www.youtube.com/watch?v=eX1ZGfCe3O0"
   - "docs/scriptures/oe/json/psalms/57.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 57. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                             | Observación de lectura                                               |
 | -------------- | --------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_57_1  | למנצח אל תשחת לדוד מכתם בברחו מפני שאול במערה | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_57_12 | רומה על שמים אלהים על כל הארץ כבודך              | El verso final permite observar el cierre de la composición.         |
+| #salmos_57_1  | למנצח אל תשחת לדוד מכתם בברחו מפני שאול במערה | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_57_12 | רומה על שמים אלהים על כל הארץ כבודך              | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 57 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehillim/Hymns/Psalm 57» — <https://www.youtube.com/watch?v=eX1ZGfCe3O0> — source_id: `youtube:eX1ZGfCe3O0`.
+- «Tehillim/Hymns/Psalm 57» — <https://www.youtube.com/watch?v=eX1ZGfCe3O0> — `source_id`: `youtube:eX1ZGfCe3O0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

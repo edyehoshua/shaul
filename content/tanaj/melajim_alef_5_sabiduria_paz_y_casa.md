@@ -3,7 +3,7 @@ title: "Sabiduría, paz y casa"
 description: "1 Reyes 5 vincula el descanso de Israel con la preparación de la casa de יהוה."
 date: 2026-07-27
 tags: [tanaj, melajim, haftarah, terumah]
-references: ["#melajim_alef_5_5"]
+references: ["#1_reyes_5_5"]
 sources:
   - "https://www.youtube.com/watch?v=bhf6Y9WfkUY"
   - "docs/scriptures/oe/json/raw/ikings.json"
@@ -19,7 +19,7 @@ source_ids:
 
 | Referencia        | Texto hebreo local                                                                 | Observación                              |
 | ----------------- | ---------------------------------------------------------------------------------- | ---------------------------------------- |
-| #melajim_alef_5_5 | וישב יהודה וישראל לבטח איש תחת גפנו ותחת תאנתו מדן ועד באר שבע כל ימי שלמה | La imagen expresa seguridad en el reino. |
+| #1_reyes_5_5 | וישב יהודה וישראל לבטח איש תחת גפנו ותחת תאנתו מדן ועד באר שבע כל ימי שלמה | La imagen expresa seguridad en el reino. |
 
 ## Lectura
 
@@ -32,5 +32,5 @@ La obra para la casa de יהוה se sitúa bajo sabiduría, paz y responsabilida
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [HAFTARÁH DE TRUMÁH (2018) Edificados como piedras vivas](https://www.youtube.com/watch?v=bhf6Y9WfkUY) — source_id: `youtube:bhf6Y9WfkUY`.
+- Video: [HAFTARÁH DE TRUMÁH (2018) Edificados como piedras vivas](https://www.youtube.com/watch?v=bhf6Y9WfkUY) — `source_id`: `youtube:bhf6Y9WfkUY`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

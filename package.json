@@ -20,6 +20,8 @@
     "docs": "npx quartz build --serve -d docs",
     "setup": "if [ -x .venv/bin/python ]; then .venv/bin/python -m pip install -r requirements.txt; else python3 -m pip install -r requirements.txt; fi",
     "transcript": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/fetch_transcript.py \"$@\"; else python3 scripts/fetch_transcript.py \"$@\"; fi' --",
+    "youtube:check": "python3 scripts/check_youtube_notes.py",
+    "verse-tags:check": "python3 scripts/check_verse_tag_conventions.py",
     "channel": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python scripts/channel_archive.py \"$@\"; else python3 scripts/channel_archive.py \"$@\"; fi' --",
     "supadata": "python3 scripts/supadata_transcripts.py",
     "supadata:batch": "python3 scripts/supadata_batch.py",
@@ -127,7 +129,7 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
-    "esbuild": "^0.27.2",
+    "esbuild": "^0.28.1",
     "prettier": "^3.7.4",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"

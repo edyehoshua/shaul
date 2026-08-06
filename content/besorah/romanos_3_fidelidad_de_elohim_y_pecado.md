@@ -30,16 +30,16 @@ references:
   - "#romanos_3_18"
   - "#romanos_3_19"
   - "#romanos_3_20"
-  - "#tehilim_51_6"
-  - "#tehilim_14_1"
-  - "#tehilim_14_2"
-  - "#tehilim_14_3"
-  - "#tehilim_53_2"
-  - "#tehilim_53_3"
-  - "#mishlei_1_16"
-  - "#yeshayahu_59_7"
-  - "#yeshayahu_59_8"
-  - "#tehilim_36_2"
+  - "#salmos_51_6"
+  - "#salmos_14_1"
+  - "#salmos_14_2"
+  - "#salmos_14_3"
+  - "#salmos_53_2"
+  - "#salmos_53_3"
+  - "#proverbios_1_16"
+  - "#isaias_59_7"
+  - "#isaias_59_8"
+  - "#salmos_36_2"
 sources:
   - "https://www.youtube.com/watch?v=wb-2RKsjztY"
   - "docs/scriptures/tth/json/romanos.json"
@@ -76,12 +76,12 @@ Esta nota organiza la clase 6 de la serie de Romanos del hermano Eric de Jesús 
 
 | Referencia | Hebreo local OE, normalizado | Relación con Romanos 3 |
 | --- | --- | --- |
-| #tehilim_51_6 | **לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך** | David confiesa el pecado y reconoce que יהוה es justo en su palabra y juicio. |
-| #tehilim_14_1-3 | **אמר נבל בלבו אין אלהים... יהוה משמים השקיף על בני אדם... הכל סר יחדו נאלחו אין עשה טוב אין גם אחד** | Presenta la corrupción general y la búsqueda ausente de Elohim. |
-| #tehilim_53_2-3 | **אמר נבל בלבו אין אלהים השחיתו והתעיבו עול אין עשה טוב / אלהים משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים** | Repite y refuerza el diagnóstico de Salmo 14. |
-| #mishlei_1_16; #yeshayahu_59_7-8; #tehilim_36_2 | **כי רגליהם לרע ירוצו וימהרו לשפך דם נקי... / רגליהם לרע ירצו... דרך שלום לא ידעו... / נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו** | Ilustran pies violentos, caminos sin shalom y ausencia del temor de Elohim. |
+| #salmos_51_6 | **לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך** | David confiesa el pecado y reconoce que יהוה es justo en su palabra y juicio. |
+| #salmos_14_1-3 | **אמר נבל בלבו אין אלהים... יהוה משמים השקיף על בני אדם... הכל סר יחדו נאלחו אין עשה טוב אין גם אחד** | Presenta la corrupción general y la búsqueda ausente de Elohim. |
+| #salmos_53_2-3 | **אמר נבל בלבו אין אלהים השחיתו והתעיבו עול אין עשה טוב / אלהים משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים** | Repite y refuerza el diagnóstico de Salmo 14. |
+| #proverbios_1_16; #isaias_59_7-8; #salmos_36_2 | **כי רגליהם לרע ירוצו וימהרו לשפך דם נקי... / רגליהם לרע ירצו... דרך שלום לא ידעו... / נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו** | Ilustran pies violentos, caminos sin shalom y ausencia del temor de Elohim. |
 
-## 3:1-4: privilegio, infidelidad y la firmeza de יהוה
+## 3:1-4: privilegio, infidelidad y la firmeza de יהוה #romanos_3_1-4
 
 La clase comienza retomando la conclusión del capítulo anterior: el valor del _iehudí_ no se funda en una apariencia corporal, pero eso no significa que no haya beneficio en haber recibido la palabra. Pablo responde «grandemente mucho» y coloca primero el encargo de las palabras de Elohim. Eric insiste en que el pueblo que recibió la Torah no debe ser despreciado; el privilegio es real aunque algunos hayan apostatado.
 
@@ -89,13 +89,13 @@ La pregunta siguiente es decisiva: ¿la apostasía humana vuelve vacía la emuna
 
 Pablo cita el Salmo 51:6. El OE dice: «a ti solo he pecado... para que seas justo en tu palabra y limpio en tu juicio». En la lectura de Eric, David habla desde su pecado, pero el principio alcanza al pueblo: cuando el ser humano es expuesto como mentiroso, la palabra y el juicio de יהוה aparecen justos. El versículo no convierte la injusticia en instrumento moralmente deseable; declara la rectitud de Elohim frente al pecado confesado.
 
-## 3:5-8: la retórica no convierte el mal en bien
+## 3:5-8: la retórica no convierte el mal en bien #romanos_3_5-8
 
 Pablo anticipa una objeción humana: si la injusticia de algunos hace resaltar la justicia de Elohim, ¿será injusto Elohim al juzgar? La clase destaca la aclaración «como hombre hablo». No es una doctrina sobre un Elohim violento, sino una formulación retórica que conduce a la respuesta: ¡profanación! Si Elohim no juzgara, su justicia quedaría negada. La imagen de «arder en su nariz» se explica como una expresión antropomórfica de reacción ante el pecado; la analogía de una alergia ayuda pedagógicamente, pero no debe presentarse como definición literal exhaustiva de la ira divina.
 
 El versículo 7 continúa con la frase «por mi mentira». Eric la lee en el marco de la acusación contra Pablo: sus adversarios llaman mentira a la Besorah y luego preguntan por qué él es juzgado como pecador. La sintaxis y el referente exacto requieren una lectura especializada, pero el límite ético del pasaje es claro. El versículo 8 rechaza que la proclamación apostólica diga «hagamos males para que vengan bienes» y afirma que el juicio de quienes calumnian es justo. Ningún resultado supuestamente bueno justifica producir el mal.
 
-## 3:9-18: una acusación común sostenida por el Tanaj
+## 3:9-18: una acusación común sostenida por el Tanaj #romanos_3_9-18
 
 La pregunta «¿valemos más?» elimina toda competencia étnica delante del juicio. Pablo acusa tanto a los _yehudim_ como a los _ievanim_ de estar bajo pecado. Eric subraya que «bajo pecado» tiene tono judicial: no es solo una descripción de debilidad, sino una acusación ante el tribunal. La traducción local usa «hemos acusado»; la clase lo relaciona con una demanda legal. Esa glosa es contextual y no pretende agotar el verbo griego.
 
@@ -103,7 +103,7 @@ Después Pablo no cita una sola línea aislada como si Salmo 14 o 53 dijeran pal
 
 La cadena avanza desde la garganta y los labios hasta los pies y los caminos. La clase explica «harán suave su lengua» como suavizar la Torah, volverla cómoda y decir que el pecado no es pecado. El texto local sí presenta garganta abierta, veneno, maldición, engaño, violencia, sangre y caminos sin shalom. La asociación específica con la «mujer ajena» de Proverbios es una aplicación intertextual de la sesión, no el sentido exclusivo demostrado por Romanos 3. La advertencia verificable es más amplia: la boca y la conducta del ser humano pueden producir muerte y no manifiestan por sí mismas el temor de Elohim.
 
-## 3:19-20: la Torah cierra la boca y revela el pecado
+## 3:19-20: la Torah cierra la boca y revela el pecado #romanos_3_19-20
 
 El cierre define la función de la Torah en esta sección. Habla a quienes están bajo su ámbito «a fin de que toda boca se cierre y todo el olam se someta a Elohim». La Torah no se presenta como un problema que deba abolirse, sino como el testigo que impide la jactancia y hace conocido el pecado. «Por obras de Torah no será justificada ninguna carne» no autoriza a llamar mala a la Torah; especifica que la posesión o ejecución de obras no crea una justicia propia delante de Elohim.
 

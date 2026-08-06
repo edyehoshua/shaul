@@ -10,13 +10,13 @@ tags:
   - santificacion
   - mesias
 references:
-  - "#ephesians_2_4"
-  - "#ephesians_2_5"
-  - "#ephesians_2_6"
-  - "#ephesians_2_7"
-  - "#ephesians_2_8"
-  - "#ephesians_2_9"
-  - "#ephesians_2_10"
+  - "#efesios_2_4"
+  - "#efesios_2_5"
+  - "#efesios_2_6"
+  - "#efesios_2_7"
+  - "#efesios_2_8"
+  - "#efesios_2_9"
+  - "#efesios_2_10"
 sources:
   - "https://www.youtube.com/watch?v=PEIJisYfMgo"
   - "docs/scriptures/delitzsch/json/ephesians.json"
@@ -37,11 +37,11 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | SAVED by GRACE 
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en la exposición |
 | --- | --- | --- |
-| #ephesians_2_4 | **אבל־האלהים המלא רחמים ברב אהבתו אשר אהב אתנו** | El giro comienza con Elohim, lleno de misericordia y grande en amor. |
-| #ephesians_2_5-6 | **אחרי היותנו מתים בפשעים החיינו עם־המשיח ... ואף־הושיבנו במרומים במשיח ישוע** | La vida, el levantamiento y la posición con el Mesías son recibidos de Elohim. |
-| #ephesians_2_7 | **להראות בדרות הבאים את־גדלת עשר חסדו בטובתו עלינו במשיח ישוע** | La gracia se manifiesta también en las edades venideras. |
-| #ephesians_2_8-9 | **כי־בחסד נושעתם על־ידי האמונה ... כי־מתת אלהים היא׃ לא מתוך המעשים שלא יתהלל איש** | La salvación es dádiva y no procede de obras que produzcan jactancia. |
-| #ephesians_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים ... למען נתהלך בהם** | La nueva creación tiene un propósito de obediencia práctica. |
+| #efesios_2_4 | **אבל־האלהים המלא רחמים ברב אהבתו אשר אהב אתנו** | El giro comienza con Elohim, lleno de misericordia y grande en amor. |
+| #efesios_2_5-6 | **אחרי היותנו מתים בפשעים החיינו עם־המשיח ... ואף־הושיבנו במרומים במשיח ישוע** | La vida, el levantamiento y la posición con el Mesías son recibidos de Elohim. |
+| #efesios_2_7 | **להראות בדרות הבאים את־גדלת עשר חסדו בטובתו עלינו במשיח ישוע** | La gracia se manifiesta también en las edades venideras. |
+| #efesios_2_8-9 | **כי־בחסד נושעתם על־ידי האמונה ... כי־מתת אלהים היא׃ לא מתוך המעשים שלא יתהלל איש** | La salvación es dádiva y no procede de obras que produzcan jactancia. |
+| #efesios_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים ... למען נתהלך בהם** | La nueva creación tiene un propósito de obediencia práctica. |
 
 ## «Pero Elohim»: la iniciativa ocurre cuando estábamos muertos
 
@@ -49,13 +49,13 @@ La clase insiste en que Efesios no empieza con una capacidad humana que busca a 
 
 Los verbos de 2:5-6 mantienen la unión con Yehoshua el Mesías: vivificados con él, levantados con él y sentados con él. El punto textual es que la vida no se origina en el mérito de quien la recibe. Cuando la clase relaciona esta vivificación con promesas proféticas y con la vida futura, la nota distingue entre la obra presente afirmada por el pasaje y el desarrollo escatológico que debe comprobarse en otros textos.
 
-## La dádiva no es un salario religioso (2:7-9)
+## La dádiva no es un salario religioso (2:7-9) #efesios_2_7-9
 
 Efesios 2:8-9 coloca tres límites: «por gracia», «mediante la fe», «no de ustedes», porque es «dádiva de Elohim», y «no por obras». La clase aplica esto a la confianza en oraciones, ayunos, sacrificios o conocimiento como si fueran el precio de la redención. La aplicación toca el centro del pasaje: ninguna persona tiene motivo para gloriarse delante de Elohim por haber producido su propia salvación.
 
 **χάρις**, _charis_, suele traducirse «gracia» o «favor»; el texto hebreo local usa **חסד**, _jesed_, un campo que puede incluir misericordia, bondad y lealtad. La relación ilumina el vocabulario, pero no prueba una identidad perfecta entre los sistemas lingüísticos. De modo semejante, **πίστις**, _pistis_, puede expresarse como fe, confianza o fidelidad según el contexto. La clase prefiere «ser afirmado en fidelidad» a una creencia meramente mental. La nota conserva el énfasis, pero no convierte esa preferencia pedagógica en la única traducción posible.
 
-## La gracia crea una obra que camina (2:10)
+## La gracia crea una obra que camina (2:10) #efesios_2_10
 
 El versículo 10 protege la lectura contra el extremo contrario. Los creyentes son **ποίημα**, _poiēma_, «obra, hechura o creación realizada» de Elohim; han sido creados en el Mesías para buenas obras que Elohim preparó de antemano. **κτισθέντες**, _ktisthentes_, es un participio pasivo: la nueva condición tiene a Elohim como agente. **περιπατήσωμεν**, _peripatēsōmen_, «caminemos», traduce la imagen bíblica de una conducta sostenida, no de un acto aislado.
 
@@ -76,10 +76,10 @@ Por eso la exposición denuncia la idea de que gracia signifique no hacer nada. 
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_2_4-6 | Elohim salva por misericordia cuando estábamos muertos; el Mesías es portador de la vida. | Apoyo textual en el giro «pero Elohim» y los verbos de unión; alcance futuro cualificado. |
-| #ephesians_2_7 | La gracia tiene una manifestación que continúa hacia las edades venideras. | Apoyo textual; no se añaden detalles escatológicos no expresados aquí. |
-| #ephesians_2_8-9 | La gracia no es una doctrina de pasividad ni una licencia para seguir haciendo lo que uno quiere. | Apoyo textual para separar don de obras; la exhortación práctica se trata como inferencia coherente. |
-| #ephesians_2_10 | La gracia da dirección y produce una vida que practica buenas obras. | Apoyo textual directo en «hechura», «creados» y «caminar». |
+| #efesios_2_4-6 | Elohim salva por misericordia cuando estábamos muertos; el Mesías es portador de la vida. | Apoyo textual en el giro «pero Elohim» y los verbos de unión; alcance futuro cualificado. |
+| #efesios_2_7 | La gracia tiene una manifestación que continúa hacia las edades venideras. | Apoyo textual; no se añaden detalles escatológicos no expresados aquí. |
+| #efesios_2_8-9 | La gracia no es una doctrina de pasividad ni una licencia para seguir haciendo lo que uno quiere. | Apoyo textual para separar don de obras; la exhortación práctica se trata como inferencia coherente. |
+| #efesios_2_10 | La gracia da dirección y produce una vida que practica buenas obras. | Apoyo textual directo en «hechura», «creados» y «caminar». |
 
 ## Pendiente de verificar
 

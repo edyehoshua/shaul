@@ -9,14 +9,14 @@ tags:
   - integridad
   - oracion
 references:
-  - "#tehilim_26_1"
-  - "#tehilim_26_2"
-  - "#tehilim_26_3"
-  - "#tehilim_26_4"
-  - "#tehilim_26_6"
-  - "#tehilim_26_8"
-  - "#tehilim_26_11"
-  - "#tehilim_26_12"
+  - "#salmos_26_1"
+  - "#salmos_26_2"
+  - "#salmos_26_3"
+  - "#salmos_26_4"
+  - "#salmos_26_6"
+  - "#salmos_26_8"
+  - "#salmos_26_11"
+  - "#salmos_26_12"
 sources:
   - "https://www.youtube.com/watch?v=1JHcbc9iSw4"
   - "docs/scriptures/oe/json/psalms/26.json"
@@ -45,7 +45,7 @@ La exposición automática se usa para localizar el desarrollo de Eric y no como
 | 26:8-10  | יהוה אהבתי מעון ביתך ומקום משכן כבודך; אל תאסף עם חטאים נפשי ועם אנשי דמים חיי; אשר בידיהם זמה וימינם מלאה שחד | Amor por la morada de יהוה y separación de violencia, engaño y soborno.      |
 | 26:11-12 | ואני בתמי אלך פדני וחנני; רגלי עמדה במישור במקהלים אברך יהוה                                                   | La integridad pide redención y gracia, y termina en alabanza congregacional. |
 
-## 26:1-3 — juicio, integridad y confianza
+## 26:1-3 — juicio, integridad y confianza #salmos_26_1-3
 
 Eric observa primero que שפטני no es una petición vaga de aprobación: el orante llama a יהוה como juez y defensor de su causa. Relaciona el nombre יהוה con juicio y אלהים con misericordia dentro del marco que ha desarrollado en clases anteriores; el verso presente usa יהוה, por lo que esa asociación de atributos es una lectura teológica, no una sustitución del texto. La pregunta de la clase —quién puede decir plenamente “he caminado en mi integridad”— lleva a leer la voz como el amado y, por extensión, como el Mesías cuya vida debe reflejarse progresivamente en nosotros.
 
@@ -55,25 +55,25 @@ En el v. 2 el examen se intensifica. Eric explica בחנני y נסני como una
 
 El v. 3 conecta esa prueba con חסד, bondad leal o misericordia, puesta delante de los ojos. Eric lee el caminar en verdad como una piedad visible y coherente: no basta parecer piadoso por fuera. El verso respalda la relación entre la bondad contemplada y la verdad practicada; la aplicación crítica a la apariencia religiosa es desarrollo pastoral de la clase.
 
-## 26:4-5 — no habitar con los vanos
+## 26:4-5 — no habitar con los vanos #salmos_26_4-5
 
 Eric se detiene en la traducción de מתי שוא y נעלמים. El primer grupo puede entenderse como “hombres de vanidad” o “vanos”; la clase lo desarrolla como personas sin propósito, y acerca la segunda expresión a los ocultos o a quienes viven en falsedad. El sentido normal no autoriza por sí solo toda esa psicología, pero el paralelismo sí produce una frontera moral: el orante no se sienta ni entra con quienes practican el mal.
 
 La observación importante es que “sentarse” no describe únicamente la postura física. La raíz ישב puede expresar establecerse o habitar; Eric por eso entiende el verso como no hacer morada con los muertos en delitos y pecados, no como negar cualquier contacto con un pecador. La diferencia importa: el salmo habla de pertenencia y asentamiento. שנאתי, “aborrecí”, y לא אשב, “no me sentaré”, describen separación deliberada del קהל מרעים, la asamblea de malhechores.
 
-## 26:6-7 — manos limpias, altar y voz de gratitud
+## 26:6-7 — manos limpias, altar y voz de gratitud #salmos_26_6-7
 
 Después de la separación viene la aproximación: “lavaré en limpieza mis manos y rodearé tu altar”. Eric relaciona la limpieza de manos con una conducta que puede presentarse ante יהוה, no con una purificación meramente ceremonial. נקיון significa limpieza o inocencia; el vínculo con una ética visible es razonable, aunque el verso no elimina el lenguaje cultual del altar.
 
 La finalidad aparece en 26:7: לשמע בקול תודה, “para oír la voz de gratitud”, y ולספר כל נפלאותיך, “para contar todas tus maravillas”. Eric subraya que la respuesta no es exhibición religiosa: el sacrificio verdadero confiesa el poder de la palabra de יהוה. Esa aplicación se relaciona con su lectura de la alabanza como testimonio; el texto sí une altar, escucha, acción de gracias y relato público.
 
-## 26:8-10 — la morada de gloria y la distancia de la violencia
+## 26:8-10 — la morada de gloria y la distancia de la violencia #salmos_26_8-10
 
 “יהוה, amo la morada de tu casa y el lugar de la morada de tu gloria.” Eric no reduce מעון a un edificio: lo entiende como hogar, comunión y presencia. También conserva el trasfondo histórico: David vivía en el tiempo de la tienda, no podía hablar como si hubiera construido el templo de piedra. La conexión con Mishkán y con la luz que preserva la vida enlaza este verso con Bereshit y Shemot, pero el texto local afirma directamente el amor por la morada y la gloria de יהוה.
 
 La oración negativa sigue de inmediato: “no recojas mi alma con pecadores ni mi vida con hombres de sangre”. El orante ama la presencia, pero pide no ser contado con quienes tienen זממה, trama maliciosa, y manos llenas de שחד, soborno. Eric usa este contraste para mostrar que la comunión no puede separarse de la verdad interior. No convierte la petición en una condena de personas concretas; registra una frontera entre la vida probada y la práctica de violencia, engaño y corrupción.
 
-## 26:11-12 — gracia, firmeza y congregación
+## 26:11-12 — gracia, firmeza y congregación #salmos_26_11-12
 
 El cierre es humilde: “yo caminaré en mi integridad; redímeme y ten gracia de mí”. Eric observa que la declaración de integridad no es autosalvación. Precisamente quien ha pedido examen sigue necesitando פדני, “redímeme”, y חנני, “ten gracia de mí”. La integridad es camino responsable ante יהוה, mientras que la liberación depende de él.
 

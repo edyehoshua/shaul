@@ -6,7 +6,7 @@ tags:
   - parashot
   - devarim
 references:
-  - "#devarim_29_1"
+  - "#deuteronomio_29_1"
 sources:
   - "https://www.youtube.com/watch?v=G-vrfaUx-dc"
   - "docs/scriptures/oe/json/deuteronomy/29.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 29 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud)                                                                                                 | Observación                                                                                           |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #devarim_29_1 | **ויקרא משה אל כל ישראל ויאמר אלהם אתם ראיתם את כל אשר עשה יהוה לעיניכם בארץ מצרים לפרעה ולכל עבדיו ולכל ארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #deuteronomio_29_1 | **ויקרא משה אל כל ישראל ויאמר אלהם אתם ראיתם את כל אשר עשה יהוה לעיניכם בארץ מצרים לפרעה ולכל עבדיו ולכל ארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -47,5 +47,5 @@ Devarim 29 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Nitzavim-vayéjel (2017) La Brit y la 'Alah](https://www.youtube.com/watch?v=G-vrfaUx-dc) (source_id: `youtube:G-vrfaUx-dc`).
+- [Parashat Nitzavim-vayéjel (2017) La Brit y la 'Alah](https://www.youtube.com/watch?v=G-vrfaUx-dc) (`source_id`: `youtube:G-vrfaUx-dc`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

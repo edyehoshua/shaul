@@ -6,7 +6,7 @@ tags:
   - parashot
   - bereshit
 references:
-  - "#bereshit_32_1"
+  - "#genesis_32_1"
 sources:
   - "https://www.youtube.com/watch?v=hK-RCD59p3c"
   - "docs/scriptures/oe/json/genesis/32.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 32 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                         | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_32_1 | **וישכם לבן בבקר וינשק לבניו ולבנותיו ויברך אתהם וילך וישב לבן למקמו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #genesis_32_1 | **וישכם לבן בבקר וינשק לבניו ולבנותיו ויברך אתהם וילך וישב לבן למקמו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -47,5 +47,5 @@ Bereshit 32 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayishlaj (2016) Gn 32:4-36:43 Cuando el ego es puesto por encima de Dios](https://www.youtube.com/watch?v=hK-RCD59p3c) (source_id: `youtube:hK-RCD59p3c`).
+- [Parashat Vayishlaj (2016) Gn 32:4-36:43 Cuando el ego es puesto por encima de Dios](https://www.youtube.com/watch?v=hK-RCD59p3c) (`source_id`: `youtube:hK-RCD59p3c`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -10,10 +10,10 @@ tags:
   - pueblo
   - mesias
 references:
-  - "#ephesians_1_11"
-  - "#ephesians_1_12"
-  - "#ephesians_1_13"
-  - "#ephesians_1_14"
+  - "#efesios_1_11"
+  - "#efesios_1_12"
+  - "#efesios_1_13"
+  - "#efesios_1_14"
 sources:
   - "https://www.youtube.com/watch?v=SyzQPifs_Ms"
   - "docs/scriptures/delitzsch/json/ephesians.json"
@@ -34,24 +34,24 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | The GUARANTEE i
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #ephesians_1_11 | **ובו לקחנו נחלתנו אנחנו המיעדים לה מלפנים במחשבת פעל הכל כעצת חפצו** | La herencia se recibe «en él» y queda dentro del propósito de Elohim. |
-| #ephesians_1_12 | **להיות לתהלת כבודו אנחנו אשר יחלנו אל־המשיח מאז** | La finalidad es la alabanza de su gloria en quienes esperan en el Mesías. |
-| #ephesians_1_13 | **ואשר גם־אתם שתולים בו אחרי שמעכם דבר האמת את־בשורת ישועתכם ואשר בו כשהאמנתם גם־נחתמתם ברוח ההבטחה רוח הקדש** | Oír el mensaje de la verdad y confiar en el Mesías antecede al sello del Rúaj de la promesa. |
-| #ephesians_1_14 | **כי זה ערבון נחלתנו לפדות־לו עם סגלה לתהלת כבודו** | El Rúaj es garantía de la herencia, orientada a redimir un pueblo para su gloria. |
+| #efesios_1_11 | **ובו לקחנו נחלתנו אנחנו המיעדים לה מלפנים במחשבת פעל הכל כעצת חפצו** | La herencia se recibe «en él» y queda dentro del propósito de Elohim. |
+| #efesios_1_12 | **להיות לתהלת כבודו אנחנו אשר יחלנו אל־המשיח מאז** | La finalidad es la alabanza de su gloria en quienes esperan en el Mesías. |
+| #efesios_1_13 | **ואשר גם־אתם שתולים בו אחרי שמעכם דבר האמת את־בשורת ישועתכם ואשר בו כשהאמנתם גם־נחתמתם ברוח ההבטחה רוח הקדש** | Oír el mensaje de la verdad y confiar en el Mesías antecede al sello del Rúaj de la promesa. |
+| #efesios_1_14 | **כי זה ערבון נחלתנו לפדות־לו עם סגלה לתהלת כבודו** | El Rúaj es garantía de la herencia, orientada a redimir un pueblo para su gloria. |
 
-## La herencia se recibe en el Mesías (1:11-12)
+## La herencia se recibe en el Mesías (1:11-12) #efesios_1_11-12
 
 La clase subraya la expresión «en él»: la herencia no nace de una propiedad espiritual independiente, sino de la relación con Yehoshua. **κληρόω**, _klēroō_, pertenece al campo de recibir una porción o ser asignado por suerte; aquí la fuerza del contexto es recibir herencia dentro del propósito de Elohim. La palabra hebrea local **נחלה**, _najalah_, ayuda a evocar heredad o posesión recibida, pero no demuestra que el griego sea una retroversión hebrea exacta.
 
 Eric presenta la herencia como una formación para llegar a ser como el Mesías, no simplemente como una recompensa almacenada. Esa es una inferencia pedagógica coherente con el movimiento de la carta, pero Efesios 1:11-12 afirma directamente el lugar de la herencia y su finalidad: la alabanza de la gloria de Elohim. El centro no es que la comunidad se admire a sí misma, sino que la obra recibida haga visible la honra de quien llama y cumple su propósito.
 
-## Oír, confiar y ser sellados (1:13)
+## Oír, confiar y ser sellados (1:13) #efesios_1_13
 
 El versículo 13 ordena una secuencia concreta: escuchar el mensaje de la verdad, recibir la buena noticia de salvación, confiar en el Mesías y ser sellados con el Rúaj de la promesa. **σφραγίζω**, _sphragizō_, significa sellar, marcar o autenticar. «Sello» es una traducción directa en el contexto; transformarlo en un calendario detallado o en una garantía de cualquier afirmación posterior sería ir más allá del versículo.
 
 La clase relaciona la emuná con ser afirmado o criado en la verdad y con una obediencia que hace visible la enseñanza recibida. La comparación con **אמונה**, _emunah_, es útil para conservar los matices de firmeza, fidelidad y confianza, pero no elimina el campo propio de **πίστις**, _pistis_. Se trata de una correspondencia aproximada, no de una equivalencia total. La fe no debe presentarse aquí como una propiedad autónoma de la persona, pero tampoco conviene borrar que el texto describe a los oyentes confiando.
 
-## Garantía, redención y pueblo adquirido (1:14)
+## Garantía, redención y pueblo adquirido (1:14) #efesios_1_14
 
 **ἀρραβών**, _arrabōn_, significa arras, anticipo o garantía. La clase explica la garantía como una porción presente que apunta a la consumación de la herencia. El texto sostiene esa dirección: el Rúaj es «garantía de nuestra herencia» con miras a la redención del pueblo adquirido. «Anticipo» es una glosa aproximada que conserva la relación entre presente y cumplimiento, no una afirmación sobre cuánto falta ni sobre el modo exacto de la consumación.
 
@@ -71,9 +71,9 @@ Eric conecta «pueblo adquirido» con el lenguaje de **סגלה**, _segulá_, en
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_1_11-12 | La herencia se recibe en Yehoshua y tiene como fin la gloria de Elohim, no la exaltación humana. | Apoyo textual; la idea de formación se marca como inferencia coherente. |
-| #ephesians_1_13 | La emuná no se presenta como propiedad autónoma: el mensaje se oye, se recibe y el Rúaj sella. | Apoyo textual con aclaración léxica; equivalencia entre _pistis_ y _emunah_ cualificada. |
-| #ephesians_1_14 | El sello es garantía de la herencia y conduce a la redención de un pueblo adquirido. | Apoyo textual; conexión con **segulá** queda como relación temática pendiente. |
+| #efesios_1_11-12 | La herencia se recibe en Yehoshua y tiene como fin la gloria de Elohim, no la exaltación humana. | Apoyo textual; la idea de formación se marca como inferencia coherente. |
+| #efesios_1_13 | La emuná no se presenta como propiedad autónoma: el mensaje se oye, se recibe y el Rúaj sella. | Apoyo textual con aclaración léxica; equivalencia entre _pistis_ y _emunah_ cualificada. |
+| #efesios_1_14 | El sello es garantía de la herencia y conduce a la redención de un pueblo adquirido. | Apoyo textual; conexión con **segulá** queda como relación temática pendiente. |
 
 ## Pendiente de verificar
 

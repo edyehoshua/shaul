@@ -6,11 +6,11 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#ecclesiastes_1_1"
-  - "#ecclesiastes_1_2"
-  - "#ecclesiastes_1_3"
-  - "#ecclesiastes_1_9"
-  - "#ecclesiastes_1_18"
+  - "#eclesiastes_1_1"
+  - "#eclesiastes_1_2"
+  - "#eclesiastes_1_3"
+  - "#eclesiastes_1_9"
+  - "#eclesiastes_1_18"
 sources:
   - "https://www.youtube.com/watch?v=BeQAO-iBr0o"
   - "https://www.youtube.com/watch?v=MV63b73MhTU"
@@ -39,11 +39,11 @@ Qohélet 1 considera el límite de la ganancia bajo el sol y la insuficiencia de
 
 | Referencia         | Texto local (OE, sin nikud)                                           | Observación                                    |
 | ------------------ | --------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 
@@ -69,9 +69,9 @@ Qohélet 1 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet - Eclesiastés parte 1» — https://www.youtube.com/watch?v=BeQAO-iBr0o (`source_id: youtube:BeQAO-iBr0o`).
-- «Qohélet - Eclesiastés parte 2» — https://www.youtube.com/watch?v=MV63b73MhTU (`source_id: youtube:MV63b73MhTU`).
-- «Qohélet - Eclesiastés (parte 3) Cap 1» — https://www.youtube.com/watch?v=u4TRNWn6wCg (`source_id: youtube:u4TRNWn6wCg`).
-- «Qohélet-Eclesiastés (parte 4) Cap 1» — https://www.youtube.com/watch?v=vQCMMzrGwT4 (`source_id: youtube:vQCMMzrGwT4`).
+- «Qohélet - Eclesiastés parte 1» — https://www.youtube.com/watch?v=BeQAO-iBr0o (`source_id`: youtube:BeQAO-iBr0o`).
+- «Qohélet - Eclesiastés parte 2» — https://www.youtube.com/watch?v=MV63b73MhTU (`source_id`: youtube:MV63b73MhTU`).
+- «Qohélet - Eclesiastés (parte 3) Cap 1» — https://www.youtube.com/watch?v=u4TRNWn6wCg (`source_id`: youtube:u4TRNWn6wCg`).
+- «Qohélet-Eclesiastés (parte 4) Cap 1» — https://www.youtube.com/watch?v=vQCMMzrGwT4 (`source_id`: youtube:vQCMMzrGwT4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

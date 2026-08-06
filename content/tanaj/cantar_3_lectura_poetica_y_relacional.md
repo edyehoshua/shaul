@@ -8,17 +8,17 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_3_1"
-  - "#songofsolomon_3_2"
-  - "#songofsolomon_3_3"
-  - "#songofsolomon_3_4"
-  - "#songofsolomon_3_5"
-  - "#songofsolomon_3_6"
-  - "#songofsolomon_3_7"
-  - "#songofsolomon_3_8"
-  - "#songofsolomon_3_9"
-  - "#songofsolomon_3_10"
-  - "#songofsolomon_3_11"
+  - "#cantares_3_1"
+  - "#cantares_3_2"
+  - "#cantares_3_3"
+  - "#cantares_3_4"
+  - "#cantares_3_5"
+  - "#cantares_3_6"
+  - "#cantares_3_7"
+  - "#cantares_3_8"
+  - "#cantares_3_9"
+  - "#cantares_3_10"
+  - "#cantares_3_11"
 sources:
   - "https://www.youtube.com/watch?v=bBUWoLdQNNY"
   - "https://www.youtube.com/watch?v=Jwv2fYTfxeQ"
@@ -41,7 +41,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                     | Observación                                                                                                                         |
 | ------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_3_1 | **על משכבי בלילות בקשתי את שאהבה נפשי בקשתיו ולא מצאתיו** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_3_1 | **על משכבי בלילות בקשתי את שאהבה נפשי בקשתיו ולא מצאתיו** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -63,7 +63,7 @@ Cantar 3 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir Hashirim (Parte 10) Cap 3» — https://www.youtube.com/watch?v=bBUWoLdQNNY (`source_id: youtube:bBUWoLdQNNY`).
-- «Shir hashirim (parte 9) Cap 3» — https://www.youtube.com/watch?v=Jwv2fYTfxeQ (`source_id: youtube:Jwv2fYTfxeQ`).
+- «Shir Hashirim (Parte 10) Cap 3» — https://www.youtube.com/watch?v=bBUWoLdQNNY (`source_id`: youtube:bBUWoLdQNNY`).
+- «Shir hashirim (parte 9) Cap 3» — https://www.youtube.com/watch?v=Jwv2fYTfxeQ (`source_id`: youtube:Jwv2fYTfxeQ`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

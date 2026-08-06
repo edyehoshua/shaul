@@ -6,7 +6,7 @@ tags:
   - parashot
   - shemot
 references:
-  - "#shemot_27_1"
+  - "#exodo_27_1"
 sources:
   - "https://www.youtube.com/watch?v=-ygDy_ekGwc"
   - "docs/scriptures/oe/json/exodus/27.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 27 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                | Observación                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_27_1 | **ועשית את המזבח עצי שטים חמש אמות ארך וחמש אמות רחב רבוע יהיה המזבח ושלש אמות קמתו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #exodo_27_1 | **ועשית את המזבח עצי שטים חמש אמות ארך וחמש אמות רחב רבוע יהיה המזבח ושלש אמות קמתו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -47,5 +47,5 @@ Shemot 27 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Tetzavéh (2017) La plenitud del que lo llena todo en todos](https://www.youtube.com/watch?v=-ygDy_ekGwc) (source_id: `youtube:-ygDy_ekGwc`).
+- [Parashat Tetzavéh (2017) La plenitud del que lo llena todo en todos](https://www.youtube.com/watch?v=-ygDy_ekGwc) (`source_id`: `youtube:-ygDy_ekGwc`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

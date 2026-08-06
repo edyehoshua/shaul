@@ -9,9 +9,9 @@ tags:
   - justicia
   - lengua
 references:
-  - "#tehilim_64_1-4"
-  - "#tehilim_64_5-7"
-  - "#tehilim_64_8-11"
+  - "#salmos_64_1-4"
+  - "#salmos_64_5-7"
+  - "#salmos_64_8-11"
 sources:
   - "https://www.youtube.com/watch?v=GlhJ3r9vTj8"
   - "docs/scriptures/oe/json/psalms/64.json"
@@ -36,7 +36,7 @@ El expositor acreditado es el hermano Eric de Jesús Rodríguez Mendoza. Esta no
 | 64:5-7 | לירות במסתרים תם פתאם ירהו ולא ייראו; יחזקו למו דבר רע יספרו לטמון מוקשים אמרו מי יראה למו; יחפשו עולת תמנו חפש מחפש וקרב איש ולב עמק | Eric destaca el carácter escondido y planificado del mal: disparan desde la oscuridad y esconden trampas. |
 | 64:8-11 | וירם אלהים חץ פתאום היו מכתם; ויכשילהו עלימו לשונם יתנדדו כל ראה בם; וייראו כל אדם ויגידו פעל אלהים ומעשהו השכילו; ישמח צדיק ביהוה וחסה בו | יהוה responde con una flecha súbita, expone la obra y conduce al justo a alegría y refugio. |
 
-## 64:1-4: miedo, consejo secreto y lengua armada
+## 64:1-4: miedo, consejo secreto y lengua armada #salmos_64_1-4
 
 El encabezado presenta un salmo de David para el director. Eric comienza con una súplica directa: «escucha, Elohim, mi voz en mi meditación» y «guarda mi vida del temor del enemigo». El salmista no niega el miedo; lo lleva a יהוה antes de describir la maquinaria de sus adversarios. **שיח**, _siaj_, puede referirse a conversación, meditación o queja; aquí su fuerza contextual es la palabra interior que se convierte en oración.
 
@@ -44,7 +44,7 @@ El verso 3 pide ser escondido del secreto de los malvados y de la agitación de 
 
 Luego el salmo convierte la lengua en armamento: «afilaron su lengua como espada» y «dispararon su flecha, palabra amarga». **לשון**, _lashon_, es lengua; **חרב**, _jerev_, espada; **חץ**, _jets_, flecha; **דבר מר**, _davar mar_, palabra amarga. Las equivalencias son exactas en el campo normal de las palabras, mientras que decir que el discurso «mata» es una paráfrasis de la metáfora. Eric no trata la violencia verbal como un daño menor: la imagen local le da filo, alcance y capacidad de herir a alguien que no está preparado.
 
-## 64:5-7: disparar desde la oscuridad y esconder trampas
+## 64:5-7: disparar desde la oscuridad y esconder trampas #salmos_64_5-7
 
 Los malvados disparan «en lugares ocultos» contra el íntegro y lo hacen «de repente». La repetición de la sorpresa importa: el blanco no recibe una acusación abierta que pueda responder, sino un ataque preparado en secreto. **תמים**, _tamim_, significa íntegro, completo o irreprochable; «perfecto» sería una traducción engañosa si se entiende como impecabilidad absoluta. En el contexto, el salmista contrasta al íntegro con quienes practican iniquidad.
 
@@ -52,7 +52,7 @@ Eric sigue la cadena material de los verbos: fortalecen una palabra mala, cuenta
 
 El verso 7 dice que «escudriñan injusticias» y que cada uno profundiza en un plan, con un corazón profundo. La forma poética es difícil de traducir en todos sus matices, pero la fuerza contextual es clara: la reflexión de los agresores no es sabiduría, sino planificación de una operación oculta. Eric advierte así contra la apariencia de inteligencia del mal calculado. La profundidad del corazón no convierte su proyecto en justo.
 
-## 64:8-11: la inversión de la flecha y la respuesta del justo
+## 64:8-11: la inversión de la flecha y la respuesta del justo #salmos_64_8-11
 
 El giro llega con **וירם אלהים חץ פתאום**, «Elohim disparará una flecha de repente». El mismo campo de imágenes que los malvados usaron contra el íntegro vuelve sobre ellos. Eric destaca la inversión: no es el salmista quien fabrica una emboscada rival; יהוה juzga la violencia según una medida que el poema presenta como repentina. **פתאם**, _pitom_, significa de repente, súbitamente; la relación con «sin aviso» es pedagógica, no una afirmación sobre cada forma histórica de juicio.
 
@@ -93,6 +93,6 @@ Tehilim 64 enseña a llevar el temor al oído de Elohim y a examinar el poder de
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Psalm Chapter 64» — <https://www.youtube.com/watch?v=GlhJ3r9vTj8> — source_id: `youtube:GlhJ3r9vTj8`.
+- «Tehilim/Hymnos/Psalm Chapter 64» — <https://www.youtube.com/watch?v=GlhJ3r9vTj8> — `source_id`: `youtube:GlhJ3r9vTj8`.
 - Texto bíblico local: Tehilim 64 en `docs/scriptures/oe/json/psalms/64.json`.
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción automática como cita literal.

@@ -5,12 +5,12 @@ date: 2025-12-04
 tags:
   - hoshea
 references:
-  - "#hoshea_6_6"
-  - "#hoshea_6_7"
-  - "#efesim_1_17"
-  - "#malaji_2_10"
-  - "#ieshaiahu_24_5"
-  - "#romanim_1_21"
+  - "#oseas_6_6"
+  - "#oseas_6_7"
+  - "#efesios_1_17"
+  - "#malaquias_2_10"
+  - "#isaias_24_5"
+  - "#romanos_1_21"
 sources: []
 translation: "[BTX4]"
 ---
@@ -21,15 +21,15 @@ Hoshea 6 confronta una religiosidad de sacrificio sin conocimiento real de Elohi
 
 ## Texto base
 
-- #hoshea_6_6
-- #hoshea_6_7
+- #oseas_6_6
+- #oseas_6_7
 
 ## Hoja de comparación
 
 | Referencia  | Hebreo                                                            | TTH local                                                                                   | Observación                                            |
 | ----------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| #hoshea_6_6 | **(כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת)** | Porque bondad deseo, y no sacrificio, y conocimiento de Elohim más que ofrendas ascendidas. | La nota enfatiza que Elohim quiere jesed y daat de Él. |
-| #hoshea_6_7 | **(וְהֵמָּה כְּאָדָם עָבְרוּ בְרִית שָׁם בָּגְדוּ בִי)**          | Pero ellos, como Adam, pasaron por encima del pacto, allí me han traicionado.               | La nota enfoca la transgresión del pacto.              |
+| #oseas_6_6 | **(כִּי חֶסֶד חָפַצְתִּי וְלֹא זָבַח וְדַעַת אֱלֹהִים מֵעֹלוֹת)** | Porque bondad deseo, y no sacrificio, y conocimiento de Elohim más que ofrendas ascendidas. | La nota enfatiza que Elohim quiere jesed y daat de Él. |
+| #oseas_6_7 | **(וְהֵמָּה כְּאָדָם עָבְרוּ בְרִית שָׁם בָּגְדוּ בִי)**          | Pero ellos, como Adam, pasaron por encima del pacto, allí me han traicionado.               | La nota enfoca la transgresión del pacto.              |
 
 ## Léxico base
 
@@ -46,7 +46,7 @@ Hoshea 6 confronta una religiosidad de sacrificio sin conocimiento real de Elohi
 
 ## Conexiones
 
-- #efesim_1_17
-- #malaji_2_10
-- #ieshaiahu_24_5
-- #romanim_1_21
+- #efesios_1_17
+- #malaquias_2_10
+- #isaias_24_5
+- #romanos_1_21

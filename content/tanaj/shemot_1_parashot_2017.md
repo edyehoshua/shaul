@@ -6,10 +6,10 @@ tags:
   - parashot
   - shemot
 references:
-  - "#shemot_1_1"
-  - "#shemot_1_7"
-  - "#shemot_1_17"
-  - "#shemot_1_22"
+  - "#exodo_1_1"
+  - "#exodo_1_7"
+  - "#exodo_1_17"
+  - "#exodo_1_22"
 sources:
   - "https://www.youtube.com/watch?v=N-gt5PuJL-8"
   - "docs/scriptures/oe/json/exodus/1.json"
@@ -30,19 +30,19 @@ Esta es la nota canónica para Shemot 1 y usa el único source ID asignado a est
 
 | Unidad       | Hebreo OE sin segmentación                                                    | TTH                                                                                                              | Lectura                                                                                      |
 | ------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| #shemot_1_1  | **ואלה שמות בני ישראל הבאים מצרימה את יעקב איש וביתו באו**                    | «Y estos son los nombres de los hijos de Israel, que vinieron a Mitzráim con Yaakov; cada hombre y su casa vino» | El capítulo comienza recordando nombres, familias y continuidad, no una masa anónima.        |
-| #shemot_1_7  | **ובני ישראל פרו וישרצו וירבו ויעצמו במאד מאד ותמלא הארץ אתם**                | «Y los hijos de Israel fueron fructíferos, y abundaron, y se multiplicaron, y fueron poderosos muy grandemente»  | La presión egipcia aparece después de una fecundidad que el texto describe como persistente. |
-| #shemot_1_17 | **ותיראן המילדת את האלהים ולא עשו כאשר דבר אליהן מלך מצרים ותחיין את הילדים** | «Pero temían las parteras a Elohim, y no hicieron como les habló el rey de Mitzráim»                             | El temor a Elohim produce una decisión concreta que preserva vidas.                          |
+| #exodo_1_1  | **ואלה שמות בני ישראל הבאים מצרימה את יעקב איש וביתו באו**                    | «Y estos son los nombres de los hijos de Israel, que vinieron a Mitzráim con Yaakov; cada hombre y su casa vino» | El capítulo comienza recordando nombres, familias y continuidad, no una masa anónima.        |
+| #exodo_1_7  | **ובני ישראל פרו וישרצו וירבו ויעצמו במאד מאד ותמלא הארץ אתם**                | «Y los hijos de Israel fueron fructíferos, y abundaron, y se multiplicaron, y fueron poderosos muy grandemente»  | La presión egipcia aparece después de una fecundidad que el texto describe como persistente. |
+| #exodo_1_17 | **ותיראן המילדת את האלהים ולא עשו כאשר דבר אליהן מלך מצרים ותחיין את הילדים** | «Pero temían las parteras a Elohim, y no hicieron como les habló el rey de Mitzráim»                             | El temor a Elohim produce una decisión concreta que preserva vidas.                          |
 
 ## La oposición no redefine la promesa
 
-Eric presenta el bien frente al mal; Shemot 1 da contenido narrativo a esa oposición. El nuevo rey «no había conocido a Iosef» (#shemot_1_8), y transforma el crecimiento de Israel en amenaza política: «He aquí, el pueblo… es más numeroso y más enorme que nosotros» (#shemot_1_9). El plan de Faraón es explícito: oprimir, controlar los nacimientos y finalmente lanzar al río a cada hijo (#shemot_1_10, 13–14, 22). No debe suavizarse la violencia llamándola únicamente «prueba espiritual».
+Eric presenta el bien frente al mal; Shemot 1 da contenido narrativo a esa oposición. El nuevo rey «no había conocido a Yosef» (#exodo_1_8), y transforma el crecimiento de Israel en amenaza política: «He aquí, el pueblo… es más numeroso y más enorme que nosotros» (#exodo_1_9). El plan de Faraón es explícito: oprimir, controlar los nacimientos y finalmente lanzar al río a cada hijo (#exodo_1_10, 13–14, 22). No debe suavizarse la violencia llamándola únicamente «prueba espiritual».
 
 La secuencia verbal de 1:7 refuerza la resistencia: **פרו** (_paru_) significa «fueron fructíferos»; **וישרצו** (_vayishretzu_) describe abundancia o multiplicación; **וירבו** (_vayirbu_) significa «se multiplicaron». Son formas verbales concretas, no una equivalencia exacta de «éxito» en sentido moderno. «Vencer con el bien» es aquí una equivalencia pedagógica aproximada: el texto habla de vida que continúa bajo opresión, no de una consigna abstracta.
 
 ## Las parteras: reverencia que se vuelve acción
 
-La clase permite preguntar cómo se vence el mal; el episodio de Shifrah y Puah responde sin glorificar el poder de Faraón. **(ירא)**, _yare_, tiene el sentido normal de temer, reverenciar o quedar sobrecogido; en **ותיראן** (_vatirena_) el sujeto plural femenino —las parteras— «teme a Elohim». El contexto fuerza una equivalencia contextual de reverencia obediente: «no hicieron como les habló el rey» y dejaron vivir a los niños (#shemot_1_17). No es idéntico a pánico ni una licencia para usar «temor» como emoción vaga.
+La clase permite preguntar cómo se vence el mal; el episodio de Shifrah y Puah responde sin glorificar el poder de Faraón. **(ירא)**, _yare_, tiene el sentido normal de temer, reverenciar o quedar sobrecogido; en **ותיראן** (_vatirena_) el sujeto plural femenino —las parteras— «teme a Elohim». El contexto fuerza una equivalencia contextual de reverencia obediente: «no hicieron como les habló el rey» y dejaron vivir a los niños (#exodo_1_17). No es idéntico a pánico ni una licencia para usar «temor» como emoción vaga.
 
 El narrador repite que Elohim hizo bien a las parteras y que el pueblo se multiplicó (#shemot*1_20–21). «Casas» (**בתים**, \_batim*) puede leerse literalmente como casas y, en este contexto, como una recompensa o establecimiento familiar; afirmar que define por sí solo una institución posterior sería una inferencia mayor. El capítulo termina con Faraón extendiendo la orden a «todo su pueblo», lo que muestra que el mal se institucionaliza, pero también que la preservación ya ha comenzado dentro del sistema.
 

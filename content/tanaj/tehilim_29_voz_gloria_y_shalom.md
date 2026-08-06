@@ -10,15 +10,15 @@ tags:
   - "shalom"
   - "aguas"
 references:
-  - "#tehilim_29_1"
-  - "#tehilim_29_3"
-  - "#tehilim_29_4"
-  - "#tehilim_29_7"
-  - "#tehilim_29_9"
-  - "#tehilim_29_10"
-  - "#tehilim_29_11"
-  - "#bereshit_1_2"
-  - "#bereshit_9_11"
+  - "#salmos_29_1"
+  - "#salmos_29_3"
+  - "#salmos_29_4"
+  - "#salmos_29_7"
+  - "#salmos_29_9"
+  - "#salmos_29_10"
+  - "#salmos_29_11"
+  - "#genesis_1_2"
+  - "#genesis_9_11"
 sources:
   - "https://www.youtube.com/watch?v=24hgxJ3-4J8"
   - "docs/scriptures/oe/json/psalms/29.json"
@@ -38,38 +38,38 @@ Esta nota organiza la clase sobre Tehilim 29 del hermano Eric de Jesús Rodrígu
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #tehilim_29_1-2 | Eric presenta la convocatoria a los “hijos de los poderosos” como un llamado a reconocer que la gloria y la fuerza pertenecen a יהוה, no a las potencias creadas. | **Apoyo textual** para la invitación a dar gloria y adorar; la identidad exacta de בני אלים queda pendiente. |
-| #tehilim_29_3-5 | La clase sigue la repetición de `קול יהוה` sobre las muchas aguas y la vincula con la soberanía creadora de יהוה frente a las aguas. | **Clarificación léxica y apoyo textual**: el salmo repite explícitamente “voz de יהוה”; la conexión con Bereshit 1 se conserva como resonancia, no como cita. |
-| #tehilim_29_6-9 | Eric observa que cedros, fuego, desierto, ciervas y bosques quedan afectados por la voz, y aplica esa conmoción a la necesidad humana de abandonar la autosuficiencia y responder con gloria. | **Apoyo textual e inferencia cualificada**: las imágenes pertenecen al poema; la aplicación al corazón se mantiene como exhortación de la clase. |
-| #tehilim_29_10-11 | El expositor contrasta el diluvio con el reinado permanente de יהוה y destaca que el cierre entrega fuerza y shalom al pueblo, en vez de dejarlo en temor. | **Apoyo textual** para el reinado, la fuerza y el shalom; la relación con Bereshit 9 se presenta como memoria intertextual aproximada. |
+| #salmos_29_1-2 | Eric presenta la convocatoria a los “hijos de los poderosos” como un llamado a reconocer que la gloria y la fuerza pertenecen a יהוה, no a las potencias creadas. | **Apoyo textual** para la invitación a dar gloria y adorar; la identidad exacta de בני אלים queda pendiente. |
+| #salmos_29_3-5 | La clase sigue la repetición de `קול יהוה` sobre las muchas aguas y la vincula con la soberanía creadora de יהוה frente a las aguas. | **Clarificación léxica y apoyo textual**: el salmo repite explícitamente “voz de יהוה”; la conexión con Bereshit 1 se conserva como resonancia, no como cita. |
+| #salmos_29_6-9 | Eric observa que cedros, fuego, desierto, ciervas y bosques quedan afectados por la voz, y aplica esa conmoción a la necesidad humana de abandonar la autosuficiencia y responder con gloria. | **Apoyo textual e inferencia cualificada**: las imágenes pertenecen al poema; la aplicación al corazón se mantiene como exhortación de la clase. |
+| #salmos_29_10-11 | El expositor contrasta el diluvio con el reinado permanente de יהוה y destaca que el cierre entrega fuerza y shalom al pueblo, en vez de dejarlo en temor. | **Apoyo textual** para el reinado, la fuerza y el shalom; la relación con Bereshit 9 se presenta como memoria intertextual aproximada. |
 
 ## Hoja de comparación
 
 | Referencia        | Texto local (hebreo sin nikud)                                                          | Observación                                                             |
 | ----------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| #tehilim_29_1-2   | הבו ליהוה בני אלים הבו ליהוה כבוד ועז; הבו ליהוה כבוד שמו השתחוו ליהוה בהדרת קדש | La respuesta inicial es rendir gloria, fuerza y adoración a יהוה.       |
-| #tehilim_29_3-4   | קול יהוה על המים אל הכבוד הרעים יהוה על מים רבים; קול יהוה בכח קול יהוה בהדר        | La voz está sobre las muchas aguas, con poder y majestad.               |
-| #tehilim_29_7     | קול יהוה חצב להבות אש                                                                   | El poema presenta una voz que corta llamas de fuego.                    |
-| #tehilim_29_9     | קול יהוה יחולל אילות ויחשף יערות ובהיכלו כלו אמר כבוד                              | Ante esa voz, el templo responde: «Gloria».                             |
-| #tehilim_29_10-11 | יהוה למבול ישב וישב יהוה מלך לעולם; יהוה עז לעמו יתן יהוה יברך את עמו בשלום      | El dominio sobre el diluvio concluye en fuerza y shalom para el pueblo. |
+| #salmos_29_1-2   | הבו ליהוה בני אלים הבו ליהוה כבוד ועז; הבו ליהוה כבוד שמו השתחוו ליהוה בהדרת קדש | La respuesta inicial es rendir gloria, fuerza y adoración a יהוה.       |
+| #salmos_29_3-4   | קול יהוה על המים אל הכבוד הרעים יהוה על מים רבים; קול יהוה בכח קול יהוה בהדר        | La voz está sobre las muchas aguas, con poder y majestad.               |
+| #salmos_29_7     | קול יהוה חצב להבות אש                                                                   | El poema presenta una voz que corta llamas de fuego.                    |
+| #salmos_29_9     | קול יהוה יחולל אילות ויחשף יערות ובהיכלו כלו אמר כבוד                              | Ante esa voz, el templo responde: «Gloria».                             |
+| #salmos_29_10-11 | יהוה למבול ישב וישב יהוה מלך לעולם; יהוה עז לעמו יתן יהוה יברך את עמו בשלום      | El dominio sobre el diluvio concluye en fuerza y shalom para el pueblo. |
 
 ## La voz sobre las aguas
 
-La clase subraya que `קול` puede designar voz o sonido audible. En el salmo la repetición no invita a especular sobre una fuerza separada de יהוה: identifica una y otra vez la voz como **la voz de יהוה**. El «Elohim de gloria» truena sobre muchas aguas (#tehilim_29_3); el énfasis pertenece al Creador, no al agua ni al trueno.
+La clase subraya que `קול` puede designar voz o sonido audible. En el salmo la repetición no invita a especular sobre una fuerza separada de יהוה: identifica una y otra vez la voz como **la voz de יהוה**. El «Elohim de gloria» truena sobre muchas aguas (#salmos_29_3); el énfasis pertenece al Creador, no al agua ni al trueno.
 
-La comparación con #bereshit_1_2 es útil en el nivel de imágenes: allí aparecen las aguas y el aliento/espíritu de Elohim; aquí la voz de יהוה se muestra sobre las aguas. No son frases idénticas ni el salmo explica Bereshit, pero ambos textos confiesan que las aguas no son un ámbito fuera del gobierno de Elohim.
+La comparación con #genesis_1_2 es útil en el nivel de imágenes: allí aparecen las aguas y el aliento/espíritu de Elohim; aquí la voz de יהוה se muestra sobre las aguas. No son frases idénticas ni el salmo explica Bereshit, pero ambos textos confiesan que las aguas no son un ámbito fuera del gobierno de Elohim.
 
 ## Poder que desarma la autosuficiencia
 
 Cedros quebrados, desiertos que tiemblan, fuego y bosques expuestos describen una creación que no controla a su Hacedor. La clase aplica esta imagen al corazón humano: la potencia de la voz de יהוה llama a abandonar la seguridad autosuficiente y a responder con adoración. Esa aplicación debe conservar el orden del poema: primero habla de la majestad de יהוה en la creación; después permite una exhortación al oyente.
 
-La frase final de #tehilim_29_9 evita que el temor sea el último horizonte: «en su templo, todo él dice: gloria». La verdadera respuesta al poder revelado no es pánico ni violencia, sino reconocimiento de la gloria de יהוה.
+La frase final de #salmos_29_9 evita que el temor sea el último horizonte: «en su templo, todo él dice: gloria». La verdadera respuesta al poder revelado no es pánico ni violencia, sino reconocimiento de la gloria de יהוה.
 
 ## Del diluvio al shalom
 
-El v. 10 nombra `מבול`, el diluvio. La exposición lo enlaza con la memoria de Noaj. #bereshit_9_11 conserva la promesa de que las aguas del diluvio no volverán a destruir toda carne; Tehilim 29 no repite esa promesa, pero proclama que יהוה se sentó como Rey aun sobre el diluvio y se sienta como Rey para siempre.
+El v. 10 nombra `מבול`, el diluvio. La exposición lo enlaza con la memoria de Noaj. #genesis_9_11 conserva la promesa de que las aguas del diluvio no volverán a destruir toda carne; Tehilim 29 no repite esa promesa, pero proclama que יהוה se sentó como Rey aun sobre el diluvio y se sienta como Rey para siempre.
 
-Por eso el cierre no glorifica una catástrofe. El mismo יהוה que posee `עז`, fuerza, la da a su pueblo y lo bendice `בשלום`, con shalom (#tehilim_29_11). Aquí shalom no debe reducirse a tranquilidad emocional: es la bendición de bienestar e integridad que procede del Rey eterno.
+Por eso el cierre no glorifica una catástrofe. El mismo יהוה que posee `עז`, fuerza, la da a su pueblo y lo bendice `בשלום`, con shalom (#salmos_29_11). Aquí shalom no debe reducirse a tranquilidad emocional: es la bendición de bienestar e integridad que procede del Rey eterno.
 
 ## Léxico clave
 
@@ -82,13 +82,13 @@ Por eso el cierre no glorifica una catástrofe. El mismo יהוה que posee `ע�
 
 ## Conexiones principales
 
-- #bereshit_1_2: aguas y la acción de Elohim; una resonancia canónica, no una equivalencia verbal.
-- #bereshit_9_11: la memoria del diluvio y la promesa dada a Noaj permiten apreciar la referencia a `מבול`.
-- #tehilim_29_11: fuerza y shalom son dones de יהוה a su pueblo, no conquistas autónomas.
+- #genesis_1_2: aguas y la acción de Elohim; una resonancia canónica, no una equivalencia verbal.
+- #genesis_9_11: la memoria del diluvio y la promesa dada a Noaj permiten apreciar la referencia a `מבול`.
+- #salmos_29_11: fuerza y shalom son dones de יהוה a su pueblo, no conquistas autónomas.
 
 ## Pendiente de verificar
 
-- [ ] Verificar en una edición hebrea y en comentarios identificables las propuestas interpretativas mencionadas oralmente para `בני אלים` (#tehilim_29_1); la clase reconoce la dificultad, pero esta nota no fija una solución única.
+- [ ] Verificar en una edición hebrea y en comentarios identificables las propuestas interpretativas mencionadas oralmente para `בני אלים` (#salmos_29_1); la clase reconoce la dificultad, pero esta nota no fija una solución única.
 
 ## Conclusión
 

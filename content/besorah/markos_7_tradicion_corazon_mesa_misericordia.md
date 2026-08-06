@@ -11,27 +11,27 @@ tags:
   - gentiles
   - arameo
 references:
-  - "#markos_7_1"
-  - "#markos_7_5"
-  - "#markos_7_6"
-  - "#markos_7_10"
-  - "#markos_7_14"
-  - "#markos_7_20"
-  - "#markos_7_24"
-  - "#markos_7_26"
-  - "#markos_7_27"
-  - "#markos_7_29"
-  - "#markos_7_31"
-  - "#markos_7_34"
-  - "#markos_7_37"
-  - "#yeshayahu_29_13"
-  - "#vaikra_11_1"
+  - "#marcos_7_1"
+  - "#marcos_7_5"
+  - "#marcos_7_6"
+  - "#marcos_7_10"
+  - "#marcos_7_14"
+  - "#marcos_7_20"
+  - "#marcos_7_24"
+  - "#marcos_7_26"
+  - "#marcos_7_27"
+  - "#marcos_7_29"
+  - "#marcos_7_31"
+  - "#marcos_7_34"
+  - "#marcos_7_37"
+  - "#isaias_29_13"
+  - "#levitico_11_1"
 sources:
   - "https://www.youtube.com/watch?v=N3aU6MhISZc"
   - "https://www.youtube.com/watch?v=ObzMEUgFrTw"
   - "https://www.youtube.com/watch?v=sHbKR7IjJ6A"
   - "docs/scriptures/tth/json/markos.json"
-  - "docs/scriptures/tth/json/ieshaiahu.json"
+  - "docs/scriptures/tth/json/yeshayahu.json"
   - "docs/scriptures/tth/json/vaikra.json"
 translation: "[TTH]"
 source_ids:
@@ -64,14 +64,14 @@ Los tres `source_ids` son públicos, distintos y exclusivos de esta nota canóni
 
 | Referencia       | Texto local                                                                                                                                                                                       | Función en el argumento                                                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| #markos_7_1-5    | TTH: «algunos de los discípulos con las manos impuras, esto es, sin lavarse»; los perushim preguntan: «¿Por qué tus discípulos no andan en los decretos de los ancianos?»                         | La controversia comienza con manos no lavadas y decretos recibidos, no con una lista de animales permitidos o prohibidos.                                          |
-| #markos_7_6-8    | TTH: «Este pueblo con su boca y con sus labios me honra, pero su corazón se aleja de Mí»; «ustedes han abandonado el mandamiento de יהוה y guardan la tradición de los hombres».                  | Yehoshua responde con Yesha'yahu antes de explicar la parábola a sus discípulos.                                                                                   |
-| #markos_7_10-13  | TTH: «Honra a tu padre y a tu madre»; pero el ofrecimiento declarado impide «hacer más nada por su padre ni por su madre».                                                                        | El caso de corbán muestra el daño concreto de una tradición que cancela responsabilidad filial.                                                                    |
-| #markos_7_14-23  | TTH: «No hay nada afuera del hombre que entre en su interior lo cual pueda contaminarlo, sino que lo que sale de él»; luego enumera malos pensamientos, adulterios, robos, altivez y otros males. | La enseñanza desplaza el foco de la acusación externa a la fuente moral de los actos; 7:19 conserva la discusión de sujeto y alcance de «purifica toda la comida». |
-| #markos_7_24-30  | TTH: «fue a las fronteras de Tzor y Tzidón»; la mujer aramea implora por su hija y responde: «también los perritos debajo de la mesa comen de las migajas de los hijos».                          | El relato conserva un «primero» para los hijos y, a la vez, concede la liberación solicitada.                                                                      |
-| #markos_7_31-37  | TTH: en las fronteras de las diez ciudades, Yehoshua dice al sordomudo «¡Ábrete!» y el hombre «hablaba correctamente».                                                                            | La misericordia llega a una zona gentil y produce una respuesta pública de asombro.                                                                                |
-| #yeshayahu_29_13 | TTH: el pueblo honra con labios mientras su corazón se aleja, y su temor es «mandamiento de hombres aprendido».                                                                                   | Es el texto profético que Marcos pone en boca de Yehoshua.                                                                                                         |
-| #vaikra_11_1-8   | TTH distingue animales terrestres por pezuña partida y rumia, e identifica el cerdo entre los no aptos para comer.                                                                                | El capítulo de Vayiqra permite distinguir la discusión de Marcos 7 de las categorías dietarias que el pasaje no enumera.                                           |
+| #marcos_7_1-5    | TTH: «algunos de los discípulos con las manos impuras, esto es, sin lavarse»; los perushim preguntan: «¿Por qué tus discípulos no andan en los decretos de los ancianos?»                         | La controversia comienza con manos no lavadas y decretos recibidos, no con una lista de animales permitidos o prohibidos.                                          |
+| #marcos_7_6-8    | TTH: «Este pueblo con su boca y con sus labios me honra, pero su corazón se aleja de Mí»; «ustedes han abandonado el mandamiento de יהוה y guardan la tradición de los hombres».                  | Yehoshua responde con Yesha'yahu antes de explicar la parábola a sus discípulos.                                                                                   |
+| #marcos_7_10-13  | TTH: «Honra a tu padre y a tu madre»; pero el ofrecimiento declarado impide «hacer más nada por su padre ni por su madre».                                                                        | El caso de corbán muestra el daño concreto de una tradición que cancela responsabilidad filial.                                                                    |
+| #marcos_7_14-23  | TTH: «No hay nada afuera del hombre que entre en su interior lo cual pueda contaminarlo, sino que lo que sale de él»; luego enumera malos pensamientos, adulterios, robos, altivez y otros males. | La enseñanza desplaza el foco de la acusación externa a la fuente moral de los actos; 7:19 conserva la discusión de sujeto y alcance de «purifica toda la comida». |
+| #marcos_7_24-30  | TTH: «fue a las fronteras de Tzor y Tzidón»; la mujer aramea implora por su hija y responde: «también los perritos debajo de la mesa comen de las migajas de los hijos».                          | El relato conserva un «primero» para los hijos y, a la vez, concede la liberación solicitada.                                                                      |
+| #marcos_7_31-37  | TTH: en las fronteras de las diez ciudades, Yehoshua dice al sordomudo «¡Ábrete!» y el hombre «hablaba correctamente».                                                                            | La misericordia llega a una zona gentil y produce una respuesta pública de asombro.                                                                                |
+| #isaias_29_13 | TTH: el pueblo honra con labios mientras su corazón se aleja, y su temor es «mandamiento de hombres aprendido».                                                                                   | Es el texto profético que Marcos pone en boca de Yehoshua.                                                                                                         |
+| #levitico_11_1-8   | TTH distingue animales terrestres por pezuña partida y rumia, e identifica el cerdo entre los no aptos para comer.                                                                                | El capítulo de Vayiqra permite distinguir la discusión de Marcos 7 de las categorías dietarias que el pasaje no enumera.                                           |
 
 ## Hoja léxica
 
@@ -86,7 +86,7 @@ Los tres `source_ids` son públicos, distintos y exclusivos de esta nota canóni
 | **(κυνάρια)**        | kynaria         | perritos, perros pequeños          | En la imagen de 7:27–28 hay hijos, pan, mesa y perros. El diminutivo no elimina la tensión de la metáfora ni autoriza insultar a la mujer.                                        | «Perrillos» es aproximada; conservar la escena doméstica ayuda más que suavizarla o endurecerla.                                             |
 | **(ܐܬܦܬܚ)**          | ethpethach      | ábrete, sé abierto                 | Forma aramea que Marcos conserva en 7:34 para la orden dirigida al sordomudo. Eric la relaciona con el hebreo **(הפתח)**, _hipatach_, «ábrete».                                   | La relación arameo-hebreo es aproximada por parentesco semítico; no son la misma forma.                                                      |
 
-## Manos, tradición y el mandamiento que no debe anularse (7:1–13)
+## Manos, tradición y el mandamiento que no debe anularse (7:1–13) #marcos_7_1-13
 
 La primera escena comienza en Jerusalén y alrededor de una mesa: perushim y escribas ven que algunos discípulos comen sin el lavado que se espera. Eric insiste en una distinción útil: manos no lavadas pueden plantear higiene, pero el debate de Marcos usa un lenguaje más cargado, «impuras», y vincula el juicio con el decreto de los ancianos. El texto local permite hacer esa diferencia sin despreciar el lavado corporal. Yehoshua no enseña que la suciedad sea buena; responde a la acusación que convierte una práctica recibida en medida de pureza y de condena.
 
@@ -94,18 +94,18 @@ La clase formula la distinción de manera concreta: unas manos pueden estar suci
 
 La clase explica _perushim_ como «apartados» y menciona un «cerco para la Torá»: disposiciones que buscarían prevenir una falta. Como marco pedagógico, la idea ayuda a comprender por qué una costumbre podría ser tomada con seriedad. Pero Marcos no identifica a Hillel o Shammai ni fecha el origen de cada práctica; por ello no se puede atribuir ese sistema detallado al pasaje sin cotejo histórico. El argumento seguro está en 7:5: los interlocutores preguntan por qué los discípulos no caminan conforme a una tradición.
 
-Yehoshua responde con #yeshayahu_29_13 y no se detiene en una regla de lavamiento. Luego presenta el caso decisivo de **(κορβᾶν)**. Decir que unos bienes son ofrenda puede sonar devoto, pero 7:10–13 denuncia el resultado: ya no se permite hacer nada por el padre o la madre. El capítulo no trata la honra como sentimiento privado; la prueba es si el hijo puede beneficiar materialmente a sus padres. La crítica, por tanto, no es «toda práctica interpretativa es mala», sino que ninguna práctica puede reclamar tal autoridad que vuelva inoperante el mandamiento de honrar.
+Yehoshua responde con #isaias_29_13 y no se detiene en una regla de lavamiento. Luego presenta el caso decisivo de **(κορβᾶν)**. Decir que unos bienes son ofrenda puede sonar devoto, pero 7:10–13 denuncia el resultado: ya no se permite hacer nada por el padre o la madre. El capítulo no trata la honra como sentimiento privado; la prueba es si el hijo puede beneficiar materialmente a sus padres. La crítica, por tanto, no es «toda práctica interpretativa es mala», sino que ninguna práctica puede reclamar tal autoridad que vuelva inoperante el mandamiento de honrar.
 
-## Lo que entra y lo que sale: una parábola sobre el corazón (7:14–23)
+## Lo que entra y lo que sale: una parábola sobre el corazón (7:14–23) #marcos_7_14-23
 
 Después de contestar a los dirigentes, Yehoshua llama a la multitud: «Escuchen todos, y consideren atentamente». La secuencia importa. No pronuncia una consigna aislada sobre alimentos; interpreta la acusación previa y después los discípulos le preguntan en privado acerca de la parábola. Lo que entra no llega al corazón sino al vientre; lo que sale del interior contamina. Por eso Marcos enumera actos y disposiciones —adulterios, robos, plan malvado, ojo maligno, injuria, altivez— que sí hieren al prójimo y revelan un corazón desordenado.
 
 <!-- prettier-ignore -->
-Eric objeta que 7:19 se use para afirmar que Yehoshua convirtió en apto para comer todo animal que Vayiqra llama no apto. El alcance inmediato de la objeción es sólido: el relato no debate especies animales sino el lavado de manos, y #vaikra_11_1-8 ofrece categorías dietarias que Marcos no cita ni revisa aquí. A la vez, **(καθαρίζων)**, _katharizōn_, «purificando», es un participio presente que puede leerse como continuación de la explicación («porque no entra en el corazón... purificando todos los alimentos») o, según la puntuación, como una conclusión del narrador. La traducción «purifica toda la comida» comunica el verbo, pero no resuelve por sí sola su sujeto, su alcance ni su relación con Vayiqra. La conclusión sobria es que Marcos 7 dirige la denuncia contra la contaminación moral que sale del corazón y no autoriza leer el episodio como una simple abolición o una simple repetición de todas las normas dietarias.
+Eric objeta que 7:19 se use para afirmar que Yehoshua convirtió en apto para comer todo animal que Vayiqra llama no apto. El alcance inmediato de la objeción es sólido: el relato no debate especies animales sino el lavado de manos, y #levitico_11_1-8 ofrece categorías dietarias que Marcos no cita ni revisa aquí. A la vez, **(καθαρίζων)**, _katharizōn_, «purificando», es un participio presente que puede leerse como continuación de la explicación («porque no entra en el corazón... purificando todos los alimentos») o, según la puntuación, como una conclusión del narrador. La traducción «purifica toda la comida» comunica el verbo, pero no resuelve por sí sola su sujeto, su alcance ni su relación con Vayiqra. La conclusión sobria es que Marcos 7 dirige la denuncia contra la contaminación moral que sale del corazón y no autoriza leer el episodio como una simple abolición o una simple repetición de todas las normas dietarias.
 
 La palabra **(κοινόω)** ayuda a conservar la pregunta del pasaje. Puede expresar hacer común o contaminar; su empleo aquí no es una etiqueta moderna para «higiene». Eric lo acerca a **(טמא)**, _tame_, pero la equivalencia no es perfecta: cada lengua organiza sus categorías de modo propio. El lector debe retener la fuerza ética que Marcos sí expone: lavarse o no lavarse no produce por sí mismo la lista de males que procede del corazón humano.
 
-## La mesa y la mujer sirofenicia (7:24–30)
+## La mesa y la mujer sirofenicia (7:24–30) #marcos_7_24-30
 
 El relato pasa en orden desde la casa y la explicación privada hacia las fronteras de Tzor y Tzidón. Una mujer cuya hija tiene un espíritu impuro cae a los pies de Yehoshua. Marcos la denomina **(Ἑλληνίς)** y **(Συροφοινίκισσα)**; la clase propone que «griega» describe una pertenencia religiosa o cultural y que su procedencia es sirofenicia. El texto respalda que Marcos la presenta como extranjera respecto del escenario judío del capítulo, pero no basta para reconstruir por sí solo toda su filosofía o biografía.
 
@@ -113,7 +113,7 @@ Eric relaciona **(πρῶτον)**, _prōton_, «primero», de 7:27 con la prior
 
 La comparación de hijos, pan y **(κυνάρια)** no es un permiso para tratar a la mujer como despreciable. Eric observa que dibuja una casa y un orden de comida; esto encaja con que la respuesta de ella emplea «debajo de la mesa». Sin embargo, datos sobre arquitectura doméstica o costumbres de perros no reducen la tensión del dicho. Marcos hace que la respuesta verbal de la mujer sea decisiva: «Por esta palabra, ve». Cuando vuelve a su casa, la hija está acostada y libre. La prioridad no se convierte en exclusión final; la misericordia de Yehoshua cruza la frontera narrada.
 
-## Oídos abiertos y palabra restaurada en la Decápolis (7:31–37)
+## Oídos abiertos y palabra restaurada en la Decápolis (7:31–37) #marcos_7_31-37
 
 Yehoshua sale de las fronteras de Tzor y Tzidón, llega al mar de Galil y entra en las fronteras de las diez ciudades. Allí le traen a un sordomudo. Eric advierte correctamente que los gestos —apartarlo de la multitud, tocar oídos y lengua, mirar al cielo y gemir— no se presentan como una fórmula repetible. Marcos registra lo que hizo, pero no explica un mecanismo médico ni invita a reproducir cada gesto como rito.
 
@@ -124,11 +124,11 @@ El cierre repite una tensión que atraviesa Marcos: Yehoshua manda no divulgarlo
 ## Dependencias textuales: de la tradición a la mesa y al oído
 
 <!-- prettier-ignore -->
-La lectura de Eric sobre tradición y mandamiento debe conservar el movimiento de la perícopa. Marcos primero presenta la acusación sobre manos no lavadas y luego cita el mandamiento de honrar al padre y a la madre (#markos_7_1-13). La palabra **(κορβᾶν)**, _korban_, «ofrenda o don dedicado», no significa por sí sola una institución completa de abuso; su fuerza narrativa aparece cuando una declaración de dedicación se usa para evitar la ayuda debida. El verbo **(ἀκυρόω)**, _akuroō_, «invalidar o dejar sin efecto», describe el resultado que Yehoshua atribuye a esa tradición: la práctica no es juzgada solo por su apariencia ritual, sino por el mandamiento que desplaza.
+La lectura de Eric sobre tradición y mandamiento debe conservar el movimiento de la perícopa. Marcos primero presenta la acusación sobre manos no lavadas y luego cita el mandamiento de honrar al padre y a la madre (#marcos_7_1-13). La palabra **(κορβᾶν)**, _korban_, «ofrenda o don dedicado», no significa por sí sola una institución completa de abuso; su fuerza narrativa aparece cuando una declaración de dedicación se usa para evitar la ayuda debida. El verbo **(ἀκυρόω)**, _akuroō_, «invalidar o dejar sin efecto», describe el resultado que Yehoshua atribuye a esa tradición: la práctica no es juzgada solo por su apariencia ritual, sino por el mandamiento que desplaza.
 
 <!-- prettier-ignore -->
-Después, Yehoshua llama a la multitud y desplaza la discusión desde lo que entra en la persona hacia lo que sale del corazón (#markos_7_14-23). La palabra **(κοινόω)**, _koinoō_, «hacer común o profanar», nombra la contaminación en la explicación del relato, mientras **(καρδία)**, _kardia_, «corazón», es el centro del que proceden pensamientos, engaño, orgullo y otras acciones.
-La tercera escena mantiene la tensión de la mesa. La mujer sirofenicia no borra el orden expresado por Yehoshua —primero los hijos, luego los perritos—, sino que responde dentro de esa imagen y recibe la liberación de su hija (#markos_7_24-30). La palabra **(κυνάρια)**, _kynaria_, «perritos» o perros domésticos pequeños, conserva el diminutivo del texto; no autoriza a convertir el diálogo en una descalificación étnica universal. En la escena final, el mandato arameo **(ܐܬܦܬܚ)**, _ethpethach_, «ábrete», produce oídos abiertos y lengua desatada (#markos_7_31-37). El capítulo pasa de una tradición que bloquea el bien a una palabra que restaura la escucha y el habla: esa es una dependencia narrativa más firme que cualquier fórmula reproducible basada en los gestos.
+Después, Yehoshua llama a la multitud y desplaza la discusión desde lo que entra en la persona hacia lo que sale del corazón (#marcos_7_14-23). La palabra **(κοινόω)**, _koinoō_, «hacer común o profanar», nombra la contaminación en la explicación del relato, mientras **(καρδία)**, _kardia_, «corazón», es el centro del que proceden pensamientos, engaño, orgullo y otras acciones.
+La tercera escena mantiene la tensión de la mesa. La mujer sirofenicia no borra el orden expresado por Yehoshua —primero los hijos, luego los perritos—, sino que responde dentro de esa imagen y recibe la liberación de su hija (#marcos_7_24-30). La palabra **(κυνάρια)**, _kynaria_, «perritos» o perros domésticos pequeños, conserva el diminutivo del texto; no autoriza a convertir el diálogo en una descalificación étnica universal. En la escena final, el mandato arameo **(ܐܬܦܬܚ)**, _ethpethach_, «ábrete», produce oídos abiertos y lengua desatada (#marcos_7_31-37). El capítulo pasa de una tradición que bloquea el bien a una palabra que restaura la escucha y el habla: esa es una dependencia narrativa más firme que cualquier fórmula reproducible basada en los gestos.
 
 ## Control final: mandamiento, mesa y escucha
 
@@ -174,7 +174,7 @@ La orden aramea **(ܐܬܦܬܚ)**, _ethpethach_, «ábrete», no funciona como ex
 
 La mesa también debe leerse por el resultado de la palabra. La mujer responde a **πρῶτον**, _prōton_, «primero», y a la imagen de **κυνάρια**, _kynaria_, «perritos», sin negar el orden expresado; Yehoshua responde a su dicho y la hija queda libre. **λόγος**, _logos_, «palabra, dicho o mensaje», en «por esta palabra» vincula la liberación con la respuesta de la mujer, no con una fórmula lingüística transferible. Así, la progresión es concreta: una tradición es juzgada por si invalida el mandamiento, una palabra humilde recibe misericordia y otra palabra abre al que no podía oír ni hablar. Las extensiones sobre higiene, dos casas o ritual arameo quedan subordinadas a esa secuencia.
 
-## Prueba ordenada: manos, corazón, mesa y apertura (7:1-37)
+## Prueba ordenada: manos, corazón, mesa y apertura (7:1-37) #marcos_7_1-37
 
 La secuencia local de Marcos 7 impide tratar tradición, dieta, gentiles y sanidad como temas sueltos. En 7:5, la acusación usa **(ἀνίπτοις)**, _aniptois_, «no lavadas», y el campo de **(κοινός)**, _koinos_, «común o profanado». Eric insiste en una distinción concreta: manos sucias o antihigiénicas no son automáticamente **(טמא)**, _tame_, «impuras» en el sentido de la Torá. El inciso narrativo lo confirma al glosar «esto es, sin lavarse». La clase también nombra el «cerco» —**סייג לתורה**, _siyag la-Torah_— y menciona las escuelas de Hilel y Shamai como marco de tradiciones de ancianos; eso se conserva como trasfondo pedagógico atribuible, no como datación demostrada por Marcos. El argumento seguro sigue en 7:8-13: **(ἐντολή)**, _entolē_, «mandamiento», queda desplazada por **(παράδοσις)**, _paradosis_, «tradición», cuando **(κορβᾶν)**, _korban_, «ofrenda», se usa para no beneficiar a padre o madre. **(ἀκυρόω)**, _akuroō_, «invalidar», mide el resultado.
 
@@ -184,7 +184,7 @@ En 7:14-23, **(ἀκούετε)**, _akouete_, «escuchad», y **(καρδία)**
 ## Pendiente de verificar
 
 - [ ] Cotejar fuentes rabínicas tempranas y su datación para el uso de «cerco para la Torá» (**סייג לתורה**) y para las prácticas de lavado mencionadas por la clase, incluidas las escuelas de Hilel y Shamai.
-- [ ] Comparar la sintaxis griega, la puntuación y las variantes de #markos_7_19 para determinar si **(καθαρίζων)** continúa la voz de Yehoshua o cierra la explicación narrativa antes de fijar una conclusión exhaustiva sobre «purifica toda la comida».
+- [ ] Comparar la sintaxis griega, la puntuación y las variantes de #marcos_7_19 para determinar si **(καθαρίζων)** continúa la voz de Yehoshua o cierra la explicación narrativa antes de fijar una conclusión exhaustiva sobre «purifica toda la comida».
 - [ ] Verificar el valor histórico y semántico de **(Ἑλληνίς)** y **(Συροφοινίκισσα)**, y el modo en que Mateo llama «cananea» a la misma mujer.
 - [ ] Cotejar la forma aramea **(ܐܬܦܬܚ)** y su relación precisa con el hebreo **(הפתח)** en gramáticas y léxicos semíticos.
 - [ ] Distinguir, con fuentes primarias, la reconstrucción de las «dos casas» y la diáspora de Israel de lo que Marcos 7 afirma explícitamente.

@@ -9,13 +9,13 @@ tags:
   - justicia
   - memoria
 references:
-  - "#devarim_6_1-9"
-  - "#devarim_10_12-13"
-  - "#devarim_30_11-14"
+  - "#deuteronomio_6_1-9"
+  - "#deuteronomio_10_12-13"
+  - "#deuteronomio_30_11-14"
   - "#miqueas_6_8"
   - "#mateo_5_17-20"
   - "#romanos_3_31"
-  - "#yaakov_1_22-25"
+  - "#santiago_1_22-25"
 sources:
   - "https://www.youtube.com/watch?v=8tbhWSUV3kk"
   - "docs/scriptures/oe/json/deuteronomy/6.json"
@@ -40,7 +40,7 @@ Una exposición de mitzvot debe cerrar cada lista devolviendo al oyente a la fin
 
 ## Devarim 6: escuchar, recordar y enseñar
 
-Devarim 6:1-9 une mandamiento, amor, escucha y memoria. **(שְׁמַע)**, _shema_, significa oír, escuchar y atender; en #devarim_6_4-5 su fuerza contextual es una escucha que recibe autoridad y responde con amor. «Escuchar» es **directo**, aunque traducirlo únicamente como percepción auditiva sería **pedagógico** y demasiado estrecho. **(אָהַב)**, _ahav_, significa amar, querer o mostrar afecto leal; aquí orienta toda la vida —corazón, alma y fuerza— hacia Elohim. «Amar» es **directo**, pero el mandamiento no se reduce a emoción privada.
+Devarim 6:1-9 une mandamiento, amor, escucha y memoria. **(שְׁמַע)**, _shema_, significa oír, escuchar y atender; en #deuteronomio_6_4-5 su fuerza contextual es una escucha que recibe autoridad y responde con amor. «Escuchar» es **directo**, aunque traducirlo únicamente como percepción auditiva sería **pedagógico** y demasiado estrecho. **(אָהַב)**, _ahav_, significa amar, querer o mostrar afecto leal; aquí orienta toda la vida —corazón, alma y fuerza— hacia Elohim. «Amar» es **directo**, pero el mandamiento no se reduce a emoción privada.
 
 **(דָּבָר)**, _davar_, significa palabra, asunto, acontecimiento o encargo; en el contexto de Devarim 6 nombra las palabras que deben permanecer en el corazón, repetirse a los hijos y gobernar la vida doméstica. «Palabra» es una glosa **aproximada**, porque el término puede incluir el asunto confiado. La instrucción de atar y escribir funciona como memoria visible. No es una autorización para medir la fidelidad por una marca externa aislada: la señal sirve a la memoria de una palabra que ya debe habitar el corazón.
 

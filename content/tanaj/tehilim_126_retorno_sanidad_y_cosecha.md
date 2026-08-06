@@ -8,10 +8,10 @@ tags:
   - sion
   - restauracion
 references:
-  - "#tehilim_126_1-6"
-  - "#devarim_30_1-10"
-  - "#ieshaiahu_51_11"
-  - "#ieshaiahu_57_18-19"
+  - "#salmos_126_1-6"
+  - "#deuteronomio_30_1-10"
+  - "#isaias_51_11"
+  - "#isaias_57_18-19"
   - "#oseas_14_5-7"
   - "#colosenses_3_10"
 sources:
@@ -34,9 +34,9 @@ Se sigue el salmo en orden textual. La nota conserva las observaciones materiale
 
 | Referencia       | Texto hebreo local                                                                                                        | Función en el argumento                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #tehilim_126_1-2 | **שיר המעלות בשוב יהוה את שיבת ציון היינו כחלמים / אז ימלא שחוק פינו ולשוננו רנה אז יאמרו בגוים הגדיל יהוה לעשות עם אלה** | Retorno de Sion, asombro, boca llena de risa y testimonio de las naciones. |
-| #tehilim_126_3-4 | **הגדיל יהוה לעשות עמנו היינו שמחים / שובה יהוה את שבותנו שביתנו כאפיקים בנגב**                                           | Confesión comunitaria y petición de restauración abundante.                |
-| #tehilim_126_5-6 | **הזרעים בדמעה ברנה יקצרו / הלוך ילך ובכה נשא משך הזרע בא יבוא ברנה נשא אלמתיו**                                          | Siembra dolorosa, cosecha gozosa y perseverancia del sembrador.            |
+| #salmos_126_1-2 | **שיר המעלות בשוב יהוה את שיבת ציון היינו כחלמים / אז ימלא שחוק פינו ולשוננו רנה אז יאמרו בגוים הגדיל יהוה לעשות עם אלה** | Retorno de Sion, asombro, boca llena de risa y testimonio de las naciones. |
+| #salmos_126_3-4 | **הגדיל יהוה לעשות עמנו היינו שמחים / שובה יהוה את שבותנו שביתנו כאפיקים בנגב**                                           | Confesión comunitaria y petición de restauración abundante.                |
+| #salmos_126_5-6 | **הזרעים בדמעה ברנה יקצרו / הלוך ילך ובכה נשא משך הזרע בא יבוא ברנה נשא אלמתיו**                                          | Siembra dolorosa, cosecha gozosa y perseverancia del sembrador.            |
 
 ## Mapa de la enseñanza de Eric
 
@@ -56,7 +56,7 @@ Los dos últimos versículos dan la prueba práctica de esa petición: **הזר�
 
 La raíz **שוב** aparece como acción de volver y como sustantivo de retorno. Eric propone escuchar en ella también la teshuvá, el regreso de la persona desde la esclavitud del pecado. Esa conexión es lingüísticamente cercana en la raíz, pero no permite afirmar que cada aparición de **שוב** signifique arrepentimiento completo. Devarim 30:1-10 sí ofrece el puente canónico: retorno geográfico, obediencia y circuncisión del corazón aparecen juntos. Por eso la clase acierta al resistir un regreso meramente externo; el salmo mismo pasa del retorno de Sion a boca, lengua, alegría y siembra.
 
-El versículo 1 dice que “fuimos como soñadores”. Eric conserva dos posibilidades: el estupor de quien no puede creer la restauración y la imagen de quien es levantado de una condición enferma. La primera está directamente en el lenguaje poético; la segunda armoniza con la dirección restauradora de los versículos 4-6, pero es una lectura aproximada. Ieshaiahu 51:11 confirma el patrón de regreso con alegría, mientras que Oseas 14:5-7 permite conectar sanidad con retorno sin convertir ambas profecías en una glosa del salmo.
+El versículo 1 dice que “fuimos como soñadores”. Eric conserva dos posibilidades: el estupor de quien no puede creer la restauración y la imagen de quien es levantado de una condición enferma. La primera está directamente en el lenguaje poético; la segunda armoniza con la dirección restauradora de los versículos 4-6, pero es una lectura aproximada. Yeshayahu 51:11 confirma el patrón de regreso con alegría, mientras que Oseas 14:5-7 permite conectar sanidad con retorno sin convertir ambas profecías en una glosa del salmo.
 
 ## Alegría que vuelve visible la obra de יהוה
 
@@ -78,8 +78,8 @@ El salmo permite hablar de alegría corporal y pública sin negar la formación 
 
 ## Conexiones principales
 
-- #devarim_30_1-10 relaciona regreso, obediencia y restauración del corazón.
-- #ieshaiahu_51_11 confirma el retorno de Sion acompañado de gozo.
+- #deuteronomio_30_1-10 relaciona regreso, obediencia y restauración del corazón.
+- #isaias_51_11 confirma el retorno de Sion acompañado de gozo.
 - #oseas_14_5-7 desarrolla el lenguaje de sanar la apostasía y florecer.
 - #colosenses_3_10 ofrece una conexión mesiánica sobre renovación, marcada como aproximada.
 

@@ -6,8 +6,8 @@ tags:
   - sodot
   - sodot_14
 references:
-  - "#sodot_14_1"
-  - "#sodot_14_6"
+  - "#apocalipsis_14_1"
+  - "#apocalipsis_14_6"
 sources: []
 ---
 
@@ -17,15 +17,15 @@ Sodot 14 reúne aquí la identidad de Israel en el Mesías, los comprados por la
 
 ## Texto base
 
-- #sodot_14_1
-- #sodot_14_6
+- #apocalipsis_14_1
+- #apocalipsis_14_6
 
 ## Texto TTH disponible
 
 | Referencia  | Texto TTH                                                                                                                                                                               |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #sodot_14_1 | Y miré, y he aquí, el Cordero estaba de pie sobre el monte Tzión, y con Él ciento cuarenta y cuatro mil, y su Nombre y el Nombre de su Padre estaba escrito sobre sus frentes.          |
-| #sodot_14_6 | Y vi otro mensajero volando en medio de los cielos, y en su boca la Besorat Olam, para anunciar la buena noticia a los habitantes de la tierra y a todo gentil, tribu, lengua y pueblo, |
+| #apocalipsis_14_1 | Y miré, y he aquí, el Cordero estaba de pie sobre el monte Tzión, y con Él ciento cuarenta y cuatro mil, y su Nombre y el Nombre de su Padre estaba escrito sobre sus frentes.          |
+| #apocalipsis_14_6 | Y vi otro mensajero volando en medio de los cielos, y en su boca la Besorat Olam, para anunciar la buena noticia a los habitantes de la tierra y a todo gentil, tribu, lengua y pueblo, |
 
 ## Observaciones
 

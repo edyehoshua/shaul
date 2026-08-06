@@ -6,8 +6,8 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#ecclesiastes_3_1"
-  - "#ecclesiastes_3_22"
+  - "#eclesiastes_3_1"
+  - "#eclesiastes_3_22"
 sources:
   - "https://www.youtube.com/watch?v=Yw8iqzhAHjE"
   - "https://www.youtube.com/watch?v=MZTVIzawueA"
@@ -32,8 +32,8 @@ Qohélet 3 considera los tiempos humanos, la obra perdurable de Elohim y el gozo
 
 | Referencia         | Texto local (OE, sin nikud)                                                                           | Observación                                    |
 | ------------------ | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_3_1  | **לכל זמן ועת לכל חפץ תחת השמים**                                                                 | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_3_22 | **וראיתי כי אין טוב מאשר ישמח האדם במעשיו כי הוא חלקו כי מי יביאנו לראות במה שיהיה אחריו** | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_3_1  | **לכל זמן ועת לכל חפץ תחת השמים**                                                                 | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_3_22 | **וראיתי כי אין טוב מאשר ישמח האדם במעשיו כי הוא חלקו כי מי יביאנו לראות במה שיהיה אחריו** | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 
@@ -59,7 +59,7 @@ Qohélet 3 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 7) Cap 3» — https://www.youtube.com/watch?v=Yw8iqzhAHjE (`source_id: youtube:Yw8iqzhAHjE`).
-- «Qohélet-Eclesiastés (parte 8) Cap 3 final» — https://www.youtube.com/watch?v=MZTVIzawueA (`source_id: youtube:MZTVIzawueA`).
+- «Qohélet-Eclesiastés (parte 7) Cap 3» — https://www.youtube.com/watch?v=Yw8iqzhAHjE (`source_id`: youtube:Yw8iqzhAHjE`).
+- «Qohélet-Eclesiastés (parte 8) Cap 3 final» — https://www.youtube.com/watch?v=MZTVIzawueA (`source_id`: youtube:MZTVIzawueA`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

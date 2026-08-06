@@ -7,23 +7,23 @@ tags:
   - revelacion
   - yehoshua
 references:
-  - "#revelation_1_19"
-  - "#revelation_1_20"
-  - "#revelation_8_1"
-  - "#revelation_8_2"
-  - "#revelation_8_3"
-  - "#revelation_8_4"
-  - "#revelation_8_5"
-  - "#revelation_8_6"
-  - "#revelation_8_7"
-  - "#revelation_8_8"
-  - "#revelation_8_9"
-  - "#revelation_8_10"
-  - "#revelation_8_11"
-  - "#revelation_8_12"
-  - "#revelation_8_13"
-  - "#revelation_9_20"
-  - "#revelation_9_21"
+  - "#apocalipsis_1_19"
+  - "#apocalipsis_1_20"
+  - "#apocalipsis_8_1"
+  - "#apocalipsis_8_2"
+  - "#apocalipsis_8_3"
+  - "#apocalipsis_8_4"
+  - "#apocalipsis_8_5"
+  - "#apocalipsis_8_6"
+  - "#apocalipsis_8_7"
+  - "#apocalipsis_8_8"
+  - "#apocalipsis_8_9"
+  - "#apocalipsis_8_10"
+  - "#apocalipsis_8_11"
+  - "#apocalipsis_8_12"
+  - "#apocalipsis_8_13"
+  - "#apocalipsis_9_20"
+  - "#apocalipsis_9_21"
 sources:
   - "https://www.youtube.com/watch?v=nxJcRWfNkqs"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -44,11 +44,11 @@ Esta nota sigue la exposición de la clase desde el séptimo sello hasta el cuar
 
 | Referencia | Texto local (Delitzsch, hebreo sin nikud) | Función en la enseñanza |
 | --- | --- | --- |
-| #revelation_1_19-20 | **ועתה כתב את אשר ראית ואשר נעשה עתה ואשר עתיד להיות אחריכן. את סוד שבעת הכוכבים אשר ראית בימיני ואת שבע מנרות הזהב שבעת הכוכבים הם מלאכי שבע הקהילות ושבע המנרות אשר ראית שבע קהילות הנה** | Base para la composición cíclica que relaciona estrellas, mensajeros y comunidades. |
-| #revelation_8_1-6 | **וכפתחו החותם השביעי ותהי דממה בשמים כחצי שעה... וארא את שבעת המלאכים העמדים לפני האלהים וינתנו להם שבעה שופרות... ויבא מלאך אחר ויגש אל המזבח... ותפלות כל הקדשים... ויהי קולות ורעמים וברקים ורעש** | El silencio, las siete trompetas, las oraciones y el fuego forman la escena de transición al juicio. |
-| #revelation_8_7-9 | **והמלאך הראשון תקע בשופר ויהי ברד ואש בלולים בדם... ותשרף שלישית העץ וכל ירק עשב נשרף... והמלאך השני תקע בשופר... הר גדול בער באש הושלך אל תוך הים ותהי שלישית הים לדם... ותמת שלישית כל נפש חיה אשר בים ושלישית האניות נשחתה** | Primer y segundo toques: imágenes de tierra, mar, árboles, seres vivos y naves. |
-| #revelation_8_10-13 | **ויפל מן השמים כוכב גדול בער כלפיד... ושם הכוכב נקרא לענָה... ותהי שלישית המים לענָה... והמלאך הרביעי תקע בשופר ותכה שלישית השמש ושלישית הירח ושלישית הכוכבים... ויקרא קול גדול אוי אוי אוי** | Tercer y cuarto toques: aguas amargas, oscuridad parcial y anuncio de tres ayes. |
-| #revelation_9_20-21 | **ושאר בני אדם אשר לא מתו במגפות האלה בכל זאת לא שבו ממעשי ידיהם... ולא שבו מדרכם ויוסיפו לרצח ולכשף ולזנות ולגנב** | Cierre retomado por Eric: la falta de arrepentimiento explica la continuidad del juicio. |
+| #apocalipsis_1_19-20 | **ועתה כתב את אשר ראית ואשר נעשה עתה ואשר עתיד להיות אחריכן. את סוד שבעת הכוכבים אשר ראית בימיני ואת שבע מנרות הזהב שבעת הכוכבים הם מלאכי שבע הקהילות ושבע המנרות אשר ראית שבע קהילות הנה** | Base para la composición cíclica que relaciona estrellas, mensajeros y comunidades. |
+| #apocalipsis_8_1-6 | **וכפתחו החותם השביעי ותהי דממה בשמים כחצי שעה... וארא את שבעת המלאכים העמדים לפני האלהים וינתנו להם שבעה שופרות... ויבא מלאך אחר ויגש אל המזבח... ותפלות כל הקדשים... ויהי קולות ורעמים וברקים ורעש** | El silencio, las siete trompetas, las oraciones y el fuego forman la escena de transición al juicio. |
+| #apocalipsis_8_7-9 | **והמלאך הראשון תקע בשופר ויהי ברד ואש בלולים בדם... ותשרף שלישית העץ וכל ירק עשב נשרף... והמלאך השני תקע בשופר... הר גדול בער באש הושלך אל תוך הים ותהי שלישית הים לדם... ותמת שלישית כל נפש חיה אשר בים ושלישית האניות נשחתה** | Primer y segundo toques: imágenes de tierra, mar, árboles, seres vivos y naves. |
+| #apocalipsis_8_10-13 | **ויפל מן השמים כוכב גדול בער כלפיד... ושם הכוכב נקרא לענָה... ותהי שלישית המים לענָה... והמלאך הרביעי תקע בשופר ותכה שלישית השמש ושלישית הירח ושלישית הכוכבים... ויקרא קול גדול אוי אוי אוי** | Tercer y cuarto toques: aguas amargas, oscuridad parcial y anuncio de tres ayes. |
+| #apocalipsis_9_20-21 | **ושאר בני אדם אשר לא מתו במגפות האלה בכל זאת לא שבו ממעשי ידיהם... ולא שבו מדרכם ויוסיפו לרצח ולכשף ולזנות ולגנב** | Cierre retomado por Eric: la falta de arrepentimiento explica la continuidad del juicio. |
 
 ## Hoja léxica
 

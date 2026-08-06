@@ -10,12 +10,12 @@ tags:
   - emunah
   - mesias
 references:
-  - "#ephesians_1_1"
-  - "#ephesians_1_2"
-  - "#ephesians_1_3"
-  - "#ephesians_1_4"
-  - "#ephesians_1_5"
-  - "#galatians_5_22"
+  - "#efesios_1_1"
+  - "#efesios_1_2"
+  - "#efesios_1_3"
+  - "#efesios_1_4"
+  - "#efesios_1_5"
+  - "#galatas_5_22"
   - "#genesis_1_28"
   - "#genesis_12_3"
 sources:
@@ -38,31 +38,31 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | INJERTADOS en el AM
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #ephesians_1_1 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע** | Pablo se identifica como enviado y se dirige a santos que confían en el Mesías. |
-| #ephesians_1_2 | **חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח** | El saludo reúne favor y paz en relación con Elohim y Yehoshua. |
-| #ephesians_1_3 | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכל־ברכת רוח במרומים במשיח** | La bendición espiritual está localizada «en el Mesías» y en los lugares celestiales. |
-| #ephesians_1_4 | **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה** | La elección tiene como resultado ser santos e íntegros delante de Elohim en amor. |
-| #ephesians_1_5 | **יעדנו לו לבנים על־ידי ישוע המשיח כרצון חפצו** | La adopción como hijos se realiza por medio de Yehoshua y conforme a su propósito. |
+| #efesios_1_1 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע** | Pablo se identifica como enviado y se dirige a santos que confían en el Mesías. |
+| #efesios_1_2 | **חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח** | El saludo reúne favor y paz en relación con Elohim y Yehoshua. |
+| #efesios_1_3 | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכל־ברכת רוח במרומים במשיח** | La bendición espiritual está localizada «en el Mesías» y en los lugares celestiales. |
+| #efesios_1_4 | **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה** | La elección tiene como resultado ser santos e íntegros delante de Elohim en amor. |
+| #efesios_1_5 | **יעדנו לו לבנים על־ידי ישוע המשיח כרצון חפצו** | La adopción como hijos se realiza por medio de Yehoshua y conforme a su propósito. |
 
-## Santos y creyentes: una identidad que se practica (1:1)
+## Santos y creyentes: una identidad que se practica (1:1) #efesios_1_1
 
 La apertura nombra a Pablo como **ἀπόστολος**, _apostolos_, enviado, y a los destinatarios como santos y creyentes en Yehoshua. La clase explica _maaminim_ desde la raíz hebrea **אמן**, _aman_, vinculada con firmeza, confianza y fidelidad. La comparación entre **πίστις**, _pistis_, y **אמונה**, _emunah_, es útil para no reducir «creer» a una emoción momentánea, pero es aproximada: el griego y el hebreo tienen historias léxicas y contextos propios. En este versículo, lo decisivo es que la confianza tiene un objeto explícito: el Mesías Yehoshua.
 
 La exposición habla de creyentes como personas educadas en fidelidad. Puede conservarse como una aplicación formativa, no como el único significado de _pistis_. Efesios comienza con una comunidad reconocible por su relación con el Mesías; la nota no debe convertir la etiqueta «santos» en una afirmación de perfección independiente de la obediencia.
 
-## Favor y paz: no son una fórmula vacía (1:2)
+## Favor y paz: no son una fórmula vacía (1:2) #efesios_1_2
 
 **χάρις**, _charis_, significa favor, gracia o benevolencia; **חסד**, _jesed_, es una forma hebrea local que puede evocar bondad firme y amor leal. La clase aproxima «gracia» a _jesed_ y distingue esa palabra de **חן**, _jen_, favor o gracia. Esa distinción puede ser una herramienta pedagógica para preguntar qué clase de favor está en juego, pero no demuestra una equivalencia fija entre los términos. Lo seguro en el versículo es que el saludo pide favor y paz a la comunidad.
 
 **εἰρήνη**, _eirēnē_, se traduce normalmente como paz; el expositor la relaciona con una situación liberada de deudas y enemistad. El contexto posterior de Efesios permite hablar de reconciliación, pero 1:2 por sí solo es un saludo. La aplicación comunitaria debe partir de la recepción del favor, no de una definición emocional de paz.
 
-## Bendición e injerto: una imagen de incorporación (1:3)
+## Bendición e injerto: una imagen de incorporación (1:3) #efesios_1_3
 
 La palabra **εὐλογέω**, _eulogeō_, significa bendecir o hablar bien. Efesios 1:3 afirma que Elohim nos bendijo con toda bendición espiritual en los lugares celestiales en el Mesías. La clase desarrolla la raíz hebrea **ברך**, _baraj_, y presenta la bendición como una acción de doblar o conducir una rama al suelo para que eche raíz. Desde allí propone leer bendición como injerto, adopción y multiplicación del pueblo.
 
 La imagen agrícola ilumina la idea de incorporación, especialmente cuando se compara con otros pasajes sobre ramas y pueblo. Sin embargo, **ברך** no debe reemplazar el verbo griego de Efesios ni convertirse en una traducción literal de «bendecir» en todos los textos. La comparación con Génesis 1:28, donde la bendición se relaciona con fecundidad y multiplicación, es temática. La referencia a _Mishná Kilayim_ mencionada en la clase queda pendiente de cotejo exacto; no se presenta aquí como autoridad ya verificada.
 
-## Elección, amor y adopción (1:4-5)
+## Elección, amor y adopción (1:4-5) #efesios_1_4-5
 
 Efesios 1:4 coloca la elección «en él» y la orienta a ser santos e íntegros delante de Elohim en amor. **ἐκλέγομαι**, _eklegomai_, significa escoger o elegir; **ἅγιος**, _hagios_, significa santo o apartado; **ἄμωμος**, _amōmos_, significa sin defecto o íntegro en el contexto. La clase rechaza leer la elección como preexistencia de las almas o como una condena arbitraria fijada antes del nacimiento. Esa cautela responde a una pregunta doctrinal importante, pero la nota debe limitarse a lo que el pasaje afirma: la elección está en el Mesías y tiene una finalidad ética y relacional.
 
@@ -83,10 +83,10 @@ En 1:5, **υἱοθεσία**, _huiothesia_, nombra la adopción o colocación c
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_1_1-2 | La confianza y la identidad santa deben entenderse en un marco hebreo de fidelidad, favor y paz, no como etiquetas vacías. | Apoyo textual con aclaración léxica; _pistis_ y _emunah_ se mantienen como equivalencia aproximada. |
-| #ephesians_1_3 | La bendición se explica mediante la imagen agrícola del injerto y de la multiplicación del pueblo. | Inferencia pedagógica; Efesios sostiene la bendición en el Mesías, mientras la etimología de **ברך** queda cualificada. |
-| #ephesians_1_4 | La elección no implica preexistencia de las almas y tiene como fin la santidad e integridad en amor. | Apoyo textual para santidad y amor; el alcance completo de la elección queda cualificado. |
-| #ephesians_1_5 | Adopción e injerto se presentan como una misma obra de incorporación por medio de Yehoshua. | Apoyo textual para adopción; correspondencia con «injerto» marcada como pedagógica. |
+| #efesios_1_1-2 | La confianza y la identidad santa deben entenderse en un marco hebreo de fidelidad, favor y paz, no como etiquetas vacías. | Apoyo textual con aclaración léxica; _pistis_ y _emunah_ se mantienen como equivalencia aproximada. |
+| #efesios_1_3 | La bendición se explica mediante la imagen agrícola del injerto y de la multiplicación del pueblo. | Inferencia pedagógica; Efesios sostiene la bendición en el Mesías, mientras la etimología de **ברך** queda cualificada. |
+| #efesios_1_4 | La elección no implica preexistencia de las almas y tiene como fin la santidad e integridad en amor. | Apoyo textual para santidad y amor; el alcance completo de la elección queda cualificado. |
+| #efesios_1_5 | Adopción e injerto se presentan como una misma obra de incorporación por medio de Yehoshua. | Apoyo textual para adopción; correspondencia con «injerto» marcada como pedagógica. |
 
 ## Pendiente de verificar
 

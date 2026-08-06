@@ -10,19 +10,19 @@ tags:
   - shavuot
   - mesias
 references:
-  - "#shemot_16_16"
-  - "#shemot_16_18"
-  - "#shemot_16_36"
-  - "#vaikra_23_10"
-  - "#vaikra_23_11"
-  - "#vaikra_23_15"
-  - "#vaikra_23_16"
-  - "#vaikra_23_17"
-  - "#iojanan_6_31"
-  - "#iojanan_6_35"
-  - "#iojanan_6_51"
-  - "#kolosim_1_15"
-  - "#kolosim_1_18"
+  - "#exodo_16_16"
+  - "#exodo_16_18"
+  - "#exodo_16_36"
+  - "#levitico_23_10"
+  - "#levitico_23_11"
+  - "#levitico_23_15"
+  - "#levitico_23_16"
+  - "#levitico_23_17"
+  - "#juan_6_31"
+  - "#juan_6_35"
+  - "#juan_6_51"
+  - "#colosenses_1_15"
+  - "#colosenses_1_18"
 sources:
   - "https://www.youtube.com/watch?v=a0lFoVqeXB4"
   - "docs/scriptures/oe/json/exodus/16.json"
@@ -45,20 +45,20 @@ Esta nota organiza la clase del hermano Eric de Jesús Rodríguez Mendoza en el 
 
 | Referencia | Texto local normalizado | Función en la enseñanza |
 | --- | --- | --- |
-| #shemot_16_16 | זה הדבר אשר צוה יהוה לקטו ממנו איש לפי אכלו עמר לגלגלת מספר נפשתיכם איש לאשר באהלו תקחו | Cada persona recibe según su alimento; el ómer aparece como medida de recolección. |
-| #shemot_16_18 | וימדו בעמר ולא העדיף המרבה והממעיט לא החסיר איש לפי אכלו לקטו | La medida se vincula con que no sobre al que recoge mucho ni falte al que recoge poco. |
-| #shemot_16_36 | והעמר עשרית האיפה הוא | El texto define el ómer como una décima parte del efa. |
-| #vaikra_23_10-11 | דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן׃ והניף את העמר לפני יהוה לרצנכם ממחרת השבת יניפנו הכהן | En la tierra, la primera porción de la cosecha se lleva al sacerdote y se mece delante de יהוה. |
-| #vaikra_23_15-17 | וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה׃ עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה׃ ממושבתיכם תביאו לחם תנופה שתים שני עשרנים סלת תהיינה חמץ תאפינה בכורים ליהוה | La presentación inaugura siete semanas, cincuenta días y dos panes de primicias con levadura. |
-| #iojanan_6_31, #iojanan_6_35, #iojanan_6_51 | **אבותינו אכלו את המן במדבר ... אנכי הוא לחם החיים ... והלחם אשר אתן הוא בשרי בעד חיי העולם** | Yehoshua relee el maná como señal y se presenta como pan de vida. |
+| #exodo_16_16 | זה הדבר אשר צוה יהוה לקטו ממנו איש לפי אכלו עמר לגלגלת מספר נפשתיכם איש לאשר באהלו תקחו | Cada persona recibe según su alimento; el ómer aparece como medida de recolección. |
+| #exodo_16_18 | וימדו בעמר ולא העדיף המרבה והממעיט לא החסיר איש לפי אכלו לקטו | La medida se vincula con que no sobre al que recoge mucho ni falte al que recoge poco. |
+| #exodo_16_36 | והעמר עשרית האיפה הוא | El texto define el ómer como una décima parte del efa. |
+| #levitico_23_10-11 | דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן׃ והניף את העמר לפני יהוה לרצנכם ממחרת השבת יניפנו הכהן | En la tierra, la primera porción de la cosecha se lleva al sacerdote y se mece delante de יהוה. |
+| #levitico_23_15-17 | וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה׃ עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה׃ ממושבתיכם תביאו לחם תנופה שתים שני עשרנים סלת תהיינה חמץ תאפינה בכורים ליהוה | La presentación inaugura siete semanas, cincuenta días y dos panes de primicias con levadura. |
+| #juan_6_31, #juan_6_35, #juan_6_51 | **אבותינו אכלו את המן במדבר ... אנכי הוא לחם החיים ... והלחם אשר אתן הוא בשרי בעד חיי העולם** | Yehoshua relee el maná como señal y se presenta como pan de vida. |
 
-## Del alimento medido a la confianza diaria: Shemot 16:16-36
+## Del alimento medido a la confianza diaria: Shemot 16:16-36 #exodo_16_16-36
 
 Eric empieza definiendo el término desde el maná. La clase corrige la lectura castellana «gomer» y llama la atención sobre la forma hebrea **(עמר)**, *omer*. Shemot 16:16 no describe una cantidad arbitraria: cada uno recoge según su alimento y según el número de personas en su tienda. En el v. 18, el que recogió mucho no tiene sobrante y el que recogió poco no queda corto. Eric convierte esta observación en una lección concreta de confianza: no guardar para el día siguiente, porque la provisión se recibe día por día. La referencia narrativa al maná guardado que cría gusanos pertenece a la continuación del capítulo; el principio de dependencia está bien anclado en la secuencia de Éxodo.
 
 El v. 36 define el ómer como una décima parte del efa. Eric propone traducir esa relación a kilos y presenta una cifra aproximada de 4,5 kg. El texto local solo afirma la proporción; no ofrece aquí el peso moderno del efa. Por eso la cifra de la clase se conserva como cálculo pedagógico pendiente de verificación, no como equivalencia bíblica exacta. También se preserva su observación de que el ómer puede describirse funcionalmente como «el pan de cada día»: es una aplicación explicativa basada en la ración diaria, no un segundo significado léxico obligatorio.
 
-## El ómer de la cosecha y el sentido de reshit: Vaikra 23:10-17
+## El ómer de la cosecha y el sentido de reshit: Vaikra 23:10-17 #levitico_23_10-17
 
 Al pasar a Vaikra 23, Eric insiste en que el texto presupone entrada en la tierra y cosecha. El ómer ya no es solamente lo que cada persona recoge del maná: es **(עמר ראשית קצירכם)**, *omer reshit qetsirkhem*, la primera porción de la cosecha que se trae al sacerdote. **(ראשית)**, *reshit*, puede nombrar comienzo, primera parte o primicia; Eric añade el matiz de lo óptimo y apto, sin defecto. Esa aplicación pastoral conserva su punto concreto —no presentar cualquier fruto defectuoso—, pero el versículo debe establecer primero lo que sí dice: se presenta el ómer de la primera cosecha. La afirmación de que *reshit* incluye necesariamente «lo más perfecto» queda pendiente de revisión léxica y ritual.
 
@@ -88,11 +88,11 @@ La clase relaciona Shemot 16 con Yojanan 6. La multitud cita el maná; Yehoshua 
 
 | Unidad textual | Observación concreta tomada de Eric | Evaluación en esta nota |
 | --- | --- | --- |
-| #shemot_16_16-18 | El ómer es la ración diaria de cada persona: no falta al que recoge poco ni sobra al que recoge mucho; guardar para mañana revela falta de confianza. | **Apoyo textual y aplicación pastoral**: la medida y la ausencia de sobra están en el texto; la cifra de 4,5 kg y la lectura moral de guardar se dejan calificadas. |
-| #shemot_16_36 | El ómer se entiende por su relación con el efa y puede llamarse «el pan de cada día». | **Apoyo textual parcial**: la décima parte del efa está explícita; la identificación funcional con pan diario es una explicación de la clase y la conversión moderna queda pendiente. |
-| #vaikra_23_10-11 | El ómer de la cosecha es *reshit*: no cualquier fruto primero, sino la primera porción apta y óptima que se presenta al sacerdote. | **Apoyo textual con aclaración léxica**: la primera cosecha y la presentación están explícitas; «óptima sin defecto» se mantiene como inferencia de Eric pendiente de verificar. |
-| #vaikra_23_15-17 | El ómer inaugura el conteo; el día siguiente del shabat y los dos panes fermentados son claves para la fiesta y su cumplimiento. | **Apoyo textual e interpretación debatida**: siete semanas, cincuenta días y panes con levadura están en Vaikra; las lecturas calendáricas y mesiánicas se clasifican como inferencia cualificada. |
-| #iojanan_6_31-51; #kolosim_1_15-18 | El maná apunta al pan de vida; Yehoshua es el primero y aprobado en todo, como el *reshit* presentado ante יהוה. | **Conexión canónica pedagógica**: Yojanan compara maná y pan de vida, y Colosenses habla de primacía; no se afirma equivalencia léxica exacta entre *omer*, *reshit* y Mesías. |
+| #exodo_16_16-18 | El ómer es la ración diaria de cada persona: no falta al que recoge poco ni sobra al que recoge mucho; guardar para mañana revela falta de confianza. | **Apoyo textual y aplicación pastoral**: la medida y la ausencia de sobra están en el texto; la cifra de 4,5 kg y la lectura moral de guardar se dejan calificadas. |
+| #exodo_16_36 | El ómer se entiende por su relación con el efa y puede llamarse «el pan de cada día». | **Apoyo textual parcial**: la décima parte del efa está explícita; la identificación funcional con pan diario es una explicación de la clase y la conversión moderna queda pendiente. |
+| #levitico_23_10-11 | El ómer de la cosecha es *reshit*: no cualquier fruto primero, sino la primera porción apta y óptima que se presenta al sacerdote. | **Apoyo textual con aclaración léxica**: la primera cosecha y la presentación están explícitas; «óptima sin defecto» se mantiene como inferencia de Eric pendiente de verificar. |
+| #levitico_23_15-17 | El ómer inaugura el conteo; el día siguiente del shabat y los dos panes fermentados son claves para la fiesta y su cumplimiento. | **Apoyo textual e interpretación debatida**: siete semanas, cincuenta días y panes con levadura están en Vaikra; las lecturas calendáricas y mesiánicas se clasifican como inferencia cualificada. |
+| #juan_6_31-51; #colosenses_1_15-18 | El maná apunta al pan de vida; Yehoshua es el primero y aprobado en todo, como el *reshit* presentado ante יהוה. | **Conexión canónica pedagógica**: Yojanan compara maná y pan de vida, y Colosenses habla de primacía; no se afirma equivalencia léxica exacta entre *omer*, *reshit* y Mesías. |
 
 ## Pendiente de verificar
 

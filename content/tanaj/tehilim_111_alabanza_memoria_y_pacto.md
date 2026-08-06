@@ -9,14 +9,14 @@ tags:
   - pacto
   - sabiduria
 references:
-  - "#tehilim_111_1"
-  - "#tehilim_111_2"
-  - "#tehilim_111_4"
-  - "#tehilim_111_5"
-  - "#tehilim_111_9"
-  - "#tehilim_111_10"
-  - "#tehilim_25_14"
-  - "#shemot_12_43"
+  - "#salmos_111_1"
+  - "#salmos_111_2"
+  - "#salmos_111_4"
+  - "#salmos_111_5"
+  - "#salmos_111_9"
+  - "#salmos_111_10"
+  - "#salmos_25_14"
+  - "#exodo_12_43"
 sources:
   - "https://www.youtube.com/watch?v=pTwPoYy_eIc"
   - "docs/scriptures/oe/json/psalms/111.json"
@@ -37,13 +37,13 @@ Se sigue el texto en su orden. La transcripción automática sirve para reconstr
 
 | Unidad textual    | Texto hebreo local (sin segmentación morfológica)                                                        | Movimiento del salmo                                      |
 | ----------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| #tehilim_111_1    | הללו יה אודה יהוה בכל לבב בסוד ישרים ועדה                                                                | Confesión total dentro de la comunidad                    |
-| #tehilim_111_2-3  | גדלים מעשי יהוה דרושים לכל חפציהם; הוד והדר פעלו וצדקתו עמדת לעד                                         | Obras grandes, examinadas y permanentes                   |
-| #tehilim_111_4-6  | זכר עשה לנפלאותיו חנון ורחום יהוה; טרף נתן ליראיו יזכר לעולם בריתו; כח מעשיו הגיד לעמו לתת להם נחלת גוים | Memoria, compasión, alimento, pacto y herencia            |
-| #tehilim_111_7-8  | מעשי ידיו אמת ומשפט נאמנים כל פקודיו; סמוכים לעד לעולם עשוים באמת וישר                                   | Mandamientos confiables, hechos en verdad y rectitud      |
-| #tehilim_111_9-10 | פדות שלח לעמו צוה לעולם בריתו קדוש ונורא שמו; ראשית חכמה יראת יהוה שכל טוב לכל עשיהם תהלתו עמדת לעד      | Redención, nombre santo y temor que produce entendimiento |
+| #salmos_111_1    | הללו יה אודה יהוה בכל לבב בסוד ישרים ועדה                                                                | Confesión total dentro de la comunidad                    |
+| #salmos_111_2-3  | גדלים מעשי יהוה דרושים לכל חפציהם; הוד והדר פעלו וצדקתו עמדת לעד                                         | Obras grandes, examinadas y permanentes                   |
+| #salmos_111_4-6  | זכר עשה לנפלאותיו חנון ורחום יהוה; טרף נתן ליראיו יזכר לעולם בריתו; כח מעשיו הגיד לעמו לתת להם נחלת גוים | Memoria, compasión, alimento, pacto y herencia            |
+| #salmos_111_7-8  | מעשי ידיו אמת ומשפט נאמנים כל פקודיו; סמוכים לעד לעולם עשוים באמת וישר                                   | Mandamientos confiables, hechos en verdad y rectitud      |
+| #salmos_111_9-10 | פדות שלח לעמו צוה לעולם בריתו קדוש ונורא שמו; ראשית חכמה יראת יהוה שכל טוב לכל עשיהם תהלתו עמדת לעד      | Redención, nombre santo y temor que produce entendimiento |
 
-## Confesar en el secreto de los rectos: 111:1
+## Confesar en el secreto de los rectos: 111:1 #salmos_111_1
 
 El salmo abre con **הללו יה** (_halelu Yah_, «alaben a Yah») y **אודה** (_odeh_, «confesaré, reconoceré»). Eric insiste en que _halal_ no debe reducirse a una melodía: su fuerza normal incluye proclamar las obras maravillosas. La aplicación es pedagógica, pero encaja con el movimiento del salmo, que enseguida enumera hechos concretos. La alabanza bíblica tiene memoria y contenido.
 
@@ -51,7 +51,7 @@ El verbo **ידה** (_yadah_) puede expresar reconocer, confesar o dar gracias. 
 
 Eric también se detiene en **סוד** (_sod_, «consejo, intimidad o secreto») y **עדה** (_edah_, «asamblea, comunidad»). Lo compara con Tehilim 25:14, donde el secreto de יהוה es para quienes le temen, y entiende el pacto como el contenido revelado de esa intimidad. En la exposición, la «asamblea» evoca un grupo concreto reunido para Pesaj, incluso un quórum de diez, y conecta el secreto con el misterio del cordero. El hebreo de 111:1 afirma reunión de rectos; la cifra exacta y la aplicación sacramental provienen de la enseñanza y requieren conservarse como extensión, no como definición léxica de _edah_.
 
-## Obras que crecen, virtud que protege: 111:2-4
+## Obras que crecen, virtud que protege: 111:2-4 #salmos_111_2-4
 
 «Grandes son las obras de יהוה» se apoya en **גדלים** (_gedolim_, «grandes») y **דרושים** (_derushim_, «buscadas, examinadas»). Eric explica _gadol_ como algo que ha crecido y _darash_ con la imagen de limaduras atraídas por un imán: las obras de יהוה atraen a quienes se complacen en ellas. El sentido normal de _darash_ es buscar o investigar; la imagen del imán es pedagógica, pero comunica bien que el salmo no invita a una admiración pasiva. Las obras deben ser escudriñadas por quienes desean conocerlas.
 
@@ -59,7 +59,7 @@ En 111:3 aparecen **הוד** (_hod_) y **הדר** (_hadar_). Eric rechaza dejar 
 
 El verso 4 vuelve a la memoria: **זכר** (_zeker_, «memoria, recordatorio») para sus maravillas, y describe a יהוה como **חנון ורחום** (_janun verajum_, «clemente y compasivo»). Eric enlaza el memorial con el nombre revelado a Moshe y con Yehoshua como la maravilla suprema de humillación, muerte y resurrección. El salmo no nombra a Yehoshua aquí, pero sí presenta memoria activa, gracia y compasión como el modo en que la comunidad debe leer el obrar divino.
 
-## Alimento, pacto, redención y sabiduría: 111:5-10
+## Alimento, pacto, redención y sabiduría: 111:5-10 #salmos_111_5-10
 
 El verso 5 dice: «alimento dio a los que le temen; recordará para siempre su pacto». Eric toma **טרף** (_teref_, «presa, alimento») desde su sentido de porción arrancada y lo lee como provisión concreta para quienes temen a יהוה. La imagen no promete lujo: es comida recibida dentro de una relación pactual. El pacto, **ברית** (_berit_), sostiene la memoria; no es una recompensa improvisada.
 
@@ -87,10 +87,10 @@ Finalmente, **ראשית חכמה יראת יהוה**: «el principio de la sabi
 
 | Unidad textual    | Observación concreta de la clase                                                                                                                  | Tratamiento en esta nota                                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| #tehilim_111_1    | Eric distingue alabanza de cantar, explica _halal_ como proclamar maravillas y relaciona _yadah_, _sod_ y la asamblea con la confesión del pacto. | Se confirma el movimiento de confesión pública y se marca como tipológica la conexión con Pesaj y Yehoshua. |
-| #tehilim_111_2-4  | La clase lee las obras como algo que crece y atrae, y entiende _hod_ como virtud imitable y _hadar_ como protección.                              | Se conserva su observación léxica, distinguiendo sentido normal y fuerza pedagógica.                        |
-| #tehilim_111_5-8  | Eric vincula alimento, pacto y mandamientos permanentes con el cuidado de יהוה y la herencia de su pueblo.                                        | Se sigue la progresión textual y se evita convertirla en promesa de prosperidad.                            |
-| #tehilim_111_9-10 | La redención, el nombre santo y el temor de יהוה desembocan en sabiduría práctica; Eric lo relaciona con Pesaj y la revelación en Yehoshua.       | Se apoya la conclusión ética y se deja la lectura mesiánica como extensión tipológica.                      |
+| #salmos_111_1    | Eric distingue alabanza de cantar, explica _halal_ como proclamar maravillas y relaciona _yadah_, _sod_ y la asamblea con la confesión del pacto. | Se confirma el movimiento de confesión pública y se marca como tipológica la conexión con Pesaj y Yehoshua. |
+| #salmos_111_2-4  | La clase lee las obras como algo que crece y atrae, y entiende _hod_ como virtud imitable y _hadar_ como protección.                              | Se conserva su observación léxica, distinguiendo sentido normal y fuerza pedagógica.                        |
+| #salmos_111_5-8  | Eric vincula alimento, pacto y mandamientos permanentes con el cuidado de יהוה y la herencia de su pueblo.                                        | Se sigue la progresión textual y se evita convertirla en promesa de prosperidad.                            |
+| #salmos_111_9-10 | La redención, el nombre santo y el temor de יהוה desembocan en sabiduría práctica; Eric lo relaciona con Pesaj y la revelación en Yehoshua.       | Se apoya la conclusión ética y se deja la lectura mesiánica como extensión tipológica.                      |
 
 ## Pendiente de verificar
 

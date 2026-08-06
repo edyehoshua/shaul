@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_9_1"
-  - "#tehilim_9_21"
+  - "#salmos_9_1"
+  - "#salmos_9_21"
 sources:
   - "https://www.youtube.com/watch?v=rPrPYexs3eo"
   - "docs/scriptures/oe/json/psalms/9.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 9. La transcripció
 
 | Referencia    | Texto hebreo local (OE)                     | Observación de lectura                                               |
 | ------------- | ------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_9_1  | למנצח עלמות לבן מזמור לדוד                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_9_21 | שיתה יהוה מורה להם ידעו גוים אנוש המה סלה | El verso final permite observar el cierre de la composición.         |
+| #salmos_9_1  | למנצח עלמות לבן מזמור לדוד                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_9_21 | שיתה יהוה מורה להם ידעו גוים אנוש המה סלה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 9 comienza por su lenguaje poético, su desarrollo complet
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmos cap 9-10» — <https://www.youtube.com/watch?v=rPrPYexs3eo> — source_id: `youtube:rPrPYexs3eo`.
+- «Tehilim/Himnos/Salmos cap 9-10» — <https://www.youtube.com/watch?v=rPrPYexs3eo> — `source_id`: `youtube:rPrPYexs3eo`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

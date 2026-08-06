@@ -11,21 +11,21 @@ tags:
   - colosenses
   - hebreos
 references:
-  - "#matityahu_5_17"
-  - "#matityahu_5_18"
+  - "#mateo_5_17"
+  - "#mateo_5_18"
   - "#romanos_6_14"
-  - "#galatians_3_13"
-  - "#devarim_27_26"
-  - "#corinthians1_15_56"
-  - "#corinthians1_15_57"
-  - "#corinthians1_15_58"
+  - "#galatas_3_13"
+  - "#deuteronomio_27_26"
+  - "#1_corintios_15_56"
+  - "#1_corintios_15_57"
+  - "#1_corintios_15_58"
   - "#romanos_10_4"
-  - "#ephesians_2_14"
-  - "#ephesians_2_15"
-  - "#ephesians_2_16"
-  - "#colossians_2_14"
-  - "#hebrews_7_18"
-  - "#hebrews_7_19"
+  - "#efesios_2_14"
+  - "#efesios_2_15"
+  - "#efesios_2_16"
+  - "#colosenses_2_14"
+  - "#hebreos_7_18"
+  - "#hebreos_7_19"
 sources:
   - "https://www.youtube.com/watch?v=goTCEVpn-20"
   - "docs/scriptures/delitzsch/json/matthew.json"
@@ -51,11 +51,11 @@ Esta nota organiza la exposición pública del hermano Eric de Jesús Rodríguez
 
 | Referencia | Texto local | Función en el argumento |
 | --- | --- | --- |
-| #matityahu_5_17-18 | **אַל־תְּדַמּוּ כִּי בָאתִי לְהָפֵר אֶת־הַתּוֹרָה אוֹ אֶת־דִּבְרֵי הַנְּבִיאִים לׂא בָאתִי לְהָפֵר כִּי אִם־לְמַלּאת׃ ... לׂא תַּעֲבֹר יוֹד אַחַת אוֹ־קוֹץ אֶחָד מִן־הַתּוֹרָה עַד אֲשֶׁר יְקֻיַּם הַכּׂל׃** | Yehoshua niega que su misión sea deshacer la Torá y los Profetas. |
-| #ephesians_2_14-16 | **כִּי הוּא שְׁלוֹמֵנוּ אֲשֶׁר עָשָׂה הַשְּׁנַיִם אֶחָד ... בְּבַטְּלוֹ הָאֵיבָה בִּבְשָׂרוֹ אֶת־תּוֹרַת הַמִּצְוֹת וְהַחֻקּוֹת ... וַיְרַצֶּה אֶת־שְׁנֵיהֶם בְּגוּף אֶחָד** | La traducción hebrea presenta ley, mandamientos y estatutos dentro de la frase sobre enemistad y reconciliación de los dos. |
-| #colossians_2_14 | **וַיִּמְחַק אֶת־הַשְּׁטָר הַמֵּעִיד בָּנוּ בְּחֻקּׂתָיו וַיִּשָׂאֵהוּ מִתּוֹכֵנוּ וַיִּתְקָעֵהוּ בַּצְּלוּב׃** | El objeto que se quita es un **שטר**, escrito o documento acusador, no una afirmación aislada de que toda la Torá desaparece. |
-| #hebrews_7_18-19 | **בַּעֲבוּר אֲשֶׁר הַמִּצְוָה הַקּׂדֶמֶת הוּסָרָה ... כִּי הַתּוֹרָה הִיא לׂא־הִשְׁלִימָה דָּבָר** | El contexto inmediato es el sacerdocio: el mandamiento anterior es débil para perfeccionar y entra una esperanza mejor. |
-| #corinthians1_15_56-58 | **עׂקֶץ הַמָּוֶת הוּא הַחֵטְא וְכׂחַ הַחֵטְא הִיא הַתּוֹרָה ... אֲבָל תּוֹדוֹת לֵאלׂהִים אֲשֶׁר נָתַן־לָנוּ הַנִּצָּחוֹן** | La Torá hace visible la fuerza o alcance del pecado; la victoria se recibe por Yehoshua el Mesías. |
+| #mateo_5_17-18 | **אַל־תְּדַמּוּ כִּי בָאתִי לְהָפֵר אֶת־הַתּוֹרָה אוֹ אֶת־דִּבְרֵי הַנְּבִיאִים לׂא בָאתִי לְהָפֵר כִּי אִם־לְמַלּאת׃ ... לׂא תַּעֲבֹר יוֹד אַחַת אוֹ־קוֹץ אֶחָד מִן־הַתּוֹרָה עַד אֲשֶׁר יְקֻיַּם הַכּׂל׃** | Yehoshua niega que su misión sea deshacer la Torá y los Profetas. |
+| #efesios_2_14-16 | **כִּי הוּא שְׁלוֹמֵנוּ אֲשֶׁר עָשָׂה הַשְּׁנַיִם אֶחָד ... בְּבַטְּלוֹ הָאֵיבָה בִּבְשָׂרוֹ אֶת־תּוֹרַת הַמִּצְוֹת וְהַחֻקּוֹת ... וַיְרַצֶּה אֶת־שְׁנֵיהֶם בְּגוּף אֶחָד** | La traducción hebrea presenta ley, mandamientos y estatutos dentro de la frase sobre enemistad y reconciliación de los dos. |
+| #colosenses_2_14 | **וַיִּמְחַק אֶת־הַשְּׁטָר הַמֵּעִיד בָּנוּ בְּחֻקּׂתָיו וַיִּשָׂאֵהוּ מִתּוֹכֵנוּ וַיִּתְקָעֵהוּ בַּצְּלוּב׃** | El objeto que se quita es un **שטר**, escrito o documento acusador, no una afirmación aislada de que toda la Torá desaparece. |
+| #hebreos_7_18-19 | **בַּעֲבוּר אֲשֶׁר הַמִּצְוָה הַקּׂדֶמֶת הוּסָרָה ... כִּי הַתּוֹרָה הִיא לׂא־הִשְׁלִימָה דָּבָר** | El contexto inmediato es el sacerdocio: el mandamiento anterior es débil para perfeccionar y entra una esperanza mejor. |
+| #1_corintios_15_56-58 | **עׂקֶץ הַמָּוֶת הוּא הַחֵטְא וְכׂחַ הַחֵטְא הִיא הַתּוֹרָה ... אֲבָל תּוֹדוֹת לֵאלׂהִים אֲשֶׁר נָתַן־לָנוּ הַנִּצָּחוֹן** | La Torá hace visible la fuerza o alcance del pecado; la victoria se recibe por Yehoshua el Mesías. |
 
 ## Mateo: cumplir no significa deshacer
 
@@ -98,11 +98,11 @@ La aplicación central es coherente con el orden del pasaje: los sacrificios y e
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
-| #matityahu_5_17-18 | Yehoshua no vino a abrogar la Torá; vino a hacerla plena. | Apoyo textual directo; la semántica de «cumplir» se explica como contraste local, no como retroversión exhaustiva. |
-| #romanos_6_14, #galatians_3_13, #corinthians1_15_56-58 | No estar bajo la ley es estar libre de la sentencia; el Mesías redime de la maldición y la Torá manifiesta la potencia del pecado. | Se conserva como línea interpretativa de la clase; las equivalencias de «maldición», «exclusión» y «potencia» quedan calificadas. |
-| #ephesians_2_14-16, #colossians_2_14 | La cruz desactiva la enemistad y quita el documento de sentencia, no la Torá. | La distinción entre objeto, sentencia y Torá se apoya sintácticamente; el sentido técnico de **δόγμα** y **χειρόγραφον** queda pendiente. |
+| #mateo_5_17-18 | Yehoshua no vino a abrogar la Torá; vino a hacerla plena. | Apoyo textual directo; la semántica de «cumplir» se explica como contraste local, no como retroversión exhaustiva. |
+| #romanos_6_14, #galatas_3_13, #1_corintios_15_56-58 | No estar bajo la ley es estar libre de la sentencia; el Mesías redime de la maldición y la Torá manifiesta la potencia del pecado. | Se conserva como línea interpretativa de la clase; las equivalencias de «maldición», «exclusión» y «potencia» quedan calificadas. |
+| #efesios_2_14-16, #colosenses_2_14 | La cruz desactiva la enemistad y quita el documento de sentencia, no la Torá. | La distinción entre objeto, sentencia y Torá se apoya sintácticamente; el sentido técnico de **δόγμα** y **χειρόγραφον** queda pendiente. |
 | #romanos_10_4 | «Fin» significa meta, propósito y culminación en el Mesías, no terminación de la Torá. | Lectura atribuida y contextual; se requiere estudio léxico adicional para cerrar el alcance de **τέλος**. |
-| #hebrews_7_18-19 | El mandamiento anterior es el sacerdocio levítico, incapaz de perfeccionar el corazón. | Apoyo por el contexto sacerdotal de Hebreos 7; no se generaliza a toda la Torá. |
+| #hebreos_7_18-19 | El mandamiento anterior es el sacerdocio levítico, incapaz de perfeccionar el corazón. | Apoyo por el contexto sacerdotal de Hebreos 7; no se generaliza a toda la Torá. |
 
 ## Pendiente de verificar
 

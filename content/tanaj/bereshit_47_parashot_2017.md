@@ -6,7 +6,7 @@ tags:
   - parashot
   - bereshit
 references:
-  - "#bereshit_47_1"
+  - "#genesis_47_1"
 sources:
   - "https://www.youtube.com/watch?v=HJih4KUH6NU"
   - "docs/scriptures/oe/json/genesis/47.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 47 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                                                                                 | Observación                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_47_1 | **ויבא יוסף ויגד לפרעה ויאמר אבי ואחי וצאנם ובקרם וכל אשר להם באו מארץ כנען והנם בארץ גשן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #genesis_47_1 | **ויבא יוסף ויגד לפרעה ויאמר אבי ואחי וצאנם ובקרם וכל אשר להם באו מארץ כנען והנם בארץ גשן** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -47,5 +47,5 @@ Bereshit 47 llama a atender el texto en su propio marco. La sesión aporta una v
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayjí (2017) Gn 47:28-50:26 La plenitud de los gentiles y el Nagid](https://www.youtube.com/watch?v=HJih4KUH6NU) (source_id: `youtube:HJih4KUH6NU`).
+- [Parashat Vayjí (2017) Gn 47:28-50:26 La plenitud de los gentiles y el Nagid](https://www.youtube.com/watch?v=HJih4KUH6NU) (`source_id`: `youtube:HJih4KUH6NU`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

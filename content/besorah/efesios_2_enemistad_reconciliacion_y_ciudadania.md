@@ -10,18 +10,18 @@ tags:
   - comunidad
   - mesias
 references:
-  - "#ephesians_2_11"
-  - "#ephesians_2_12"
-  - "#ephesians_2_13"
-  - "#ephesians_2_14"
-  - "#ephesians_2_15"
-  - "#ephesians_2_16"
-  - "#ephesians_2_17"
-  - "#ephesians_2_18"
-  - "#ephesians_2_19"
-  - "#ephesians_2_20"
-  - "#ephesians_2_21"
-  - "#ephesians_2_22"
+  - "#efesios_2_11"
+  - "#efesios_2_12"
+  - "#efesios_2_13"
+  - "#efesios_2_14"
+  - "#efesios_2_15"
+  - "#efesios_2_16"
+  - "#efesios_2_17"
+  - "#efesios_2_18"
+  - "#efesios_2_19"
+  - "#efesios_2_20"
+  - "#efesios_2_21"
+  - "#efesios_2_22"
 sources:
   - "https://www.youtube.com/watch?v=VSUBNi9Q1Z0"
   - "docs/scriptures/delitzsch/json/ephesians.json"
@@ -42,12 +42,12 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | La ENEMISTAD contra
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en la exposición |
 | --- | --- | --- |
-| #ephesians_2_11-12 | **על־כן זכרו כי־אתם מתחלה הגוים בבשר ... זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם** | Recordar la condición anterior: sin Mesías, ciudadanía, pactos, esperanza y Elohim. |
-| #ephesians_2_13-16 | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח ... אשר עשה השנים אחד ... וירצה את־שניהם בגוף אחד לאלהים** | El Mesías acerca, hace paz, forma un hombre nuevo y reconcilia a ambos en un cuerpo. |
-| #ephesians_2_17-18 | **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב ... לשנינו מבוא ברוח אחד אל־אבינו** | El anuncio alcanza al lejano y al cercano; ambos reciben acceso al Padre en un Rúaj. |
-| #ephesians_2_19-22 | **אינכם עוד גרים ותושבים ... בני בית אלהים ... ובו נבנים גם־אתם להיות משכן אלהים ברוח** | La reconciliación se vuelve pertenencia, fundamento y morada común. |
+| #efesios_2_11-12 | **על־כן זכרו כי־אתם מתחלה הגוים בבשר ... זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם** | Recordar la condición anterior: sin Mesías, ciudadanía, pactos, esperanza y Elohim. |
+| #efesios_2_13-16 | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח ... אשר עשה השנים אחד ... וירצה את־שניהם בגוף אחד לאלהים** | El Mesías acerca, hace paz, forma un hombre nuevo y reconcilia a ambos en un cuerpo. |
+| #efesios_2_17-18 | **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב ... לשנינו מבוא ברוח אחד אל־אבינו** | El anuncio alcanza al lejano y al cercano; ambos reciben acceso al Padre en un Rúaj. |
+| #efesios_2_19-22 | **אינכם עוד גרים ותושבים ... בני בית אלהים ... ובו נבנים גם־אתם להיות משכן אלהים ברוח** | La reconciliación se vuelve pertenencia, fundamento y morada común. |
 
-## Recordar la lejanía sin convertirla en superioridad (2:11-12)
+## Recordar la lejanía sin convertirla en superioridad (2:11-12) #efesios_2_11-12
 
 La clase insiste en el imperativo «recuerden». Pablo no permite que la comunidad hable de la cercanía como si siempre hubiera sido un derecho propio. Los destinatarios gentiles habían sido identificados «en la carne» como incircuncisión y estaban fuera de la ciudadanía de Israel y de las alianzas de la promesa. La lista termina con «sin esperanza» y «sin Elohim en el mundo». El punto de la memoria no es producir desprecio hacia los gentiles, sino hacer visible la magnitud del acercamiento que sigue.
 
@@ -55,7 +55,7 @@ Eric relaciona **πολιτεία**, _politeia_, «ciudadanía o régimen de ciu
 
 También conviene no convertir «en la carne» en una definición universal de toda la palabra carne. En este pasaje, la oposición inmediata es con circuncisión e incircuncisión, por lo que la marca corporal y la clasificación comunitaria están en primer plano. La enseñanza de Eric puede conservarse como advertencia contra confiar en señales externas, pero la sintaxis del pasaje debe gobernar la conclusión.
 
-## La sangre acerca y la enemistad pierde su dominio (2:13-18)
+## La sangre acerca y la enemistad pierde su dominio (2:13-18) #efesios_2_13-18
 
 El giro comienza con «pero ahora». Los que estaban lejos fueron hechos cercanos en el Mesías y en su sangre. Eric explica la sangre como el recurso provisto por Yehoshua para efectuar el acercamiento; la nota conserva esa formulación como exposición atribuida. El texto prueba el resultado por una cadena de acciones: el Mesías es nuestra paz, hace de los dos uno, derriba la barrera, desactiva la enemistad, reconcilia a ambos con Elohim en un cuerpo y concede acceso al Padre.
 
@@ -63,7 +63,7 @@ La expresión «los dos» es decisiva. La unidad no significa que un grupo se vu
 
 La «pared intermedia» y la «enemistad» son imágenes y términos del argumento. **μεσότοιχον**, _mesotoichon_, es una pared divisoria; **ἔχθρα**, _echthra_, es enemistad u hostilidad; **ἀποκαταλλάξῃ**, _apokatallaxē_, significa reconciliar plenamente. El vínculo con **איבה**, _eyvah_, y **שלום**, _shalom_, es aproximado y pedagógico. La prueba pública de la sangre y de la cruz no es una teoría sobre un muro arqueológico, sino un cuerpo reconciliado con un mismo acceso.
 
-## De extranjeros a casa y morada (2:19-22)
+## De extranjeros a casa y morada (2:19-22) #efesios_2_19-22
 
 El final cambia el vocabulario de exclusión por el de pertenencia. **ξένοι**, _xenoi_, «extraños o extranjeros», y **πάροικοι**, _paroikoi_, «residentes sin ciudadanía plena», describen la condición anterior. **συμπολῖται**, _sympolitai_, «conciudadanos», y **οἰκεῖοι**, _oikeioi_, «miembros de la casa», describen lo que reciben en el Mesías. La ciudadanía aquí no debe reducirse a una nacionalidad moderna: es pertenencia al pueblo y a la casa de Elohim.
 
@@ -84,10 +84,10 @@ La casa tiene fundamento: apóstoles y profetas, con Yehoshua el Mesías como pi
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_2_11-12 | Los gentiles estaban fuera de la ciudadanía de Israel y de los pactos, como alguien sin derechos de pertenencia. | Apoyo textual; la comparación con Roma queda como analogía histórica pendiente de cotejo detallado. |
-| #ephesians_2_13-18 | La sangre del Mesías acerca a los lejanos y la enemistad contra Elohim pierde su poder. | Apoyo textual para acercamiento, paz y reconciliación; «recurso» se conserva como glosa atribuida. |
-| #ephesians_2_14-16 | «Los dos» se vuelven uno sin que la unidad sea una absorción de un grupo por otro. | Apoyo textual y aclaración léxica de **ἄμφω**, **καταργέω** y **ἀποκαταλλάσσω**. |
-| #ephesians_2_19-22 | La congregación es casa y morada, no un conjunto de individuos sin vínculo. | Apoyo textual en «conciudadanos», «casa» y «edificados juntamente». |
+| #efesios_2_11-12 | Los gentiles estaban fuera de la ciudadanía de Israel y de los pactos, como alguien sin derechos de pertenencia. | Apoyo textual; la comparación con Roma queda como analogía histórica pendiente de cotejo detallado. |
+| #efesios_2_13-18 | La sangre del Mesías acerca a los lejanos y la enemistad contra Elohim pierde su poder. | Apoyo textual para acercamiento, paz y reconciliación; «recurso» se conserva como glosa atribuida. |
+| #efesios_2_14-16 | «Los dos» se vuelven uno sin que la unidad sea una absorción de un grupo por otro. | Apoyo textual y aclaración léxica de **ἄμφω**, **καταργέω** y **ἀποκαταλλάσσω**. |
+| #efesios_2_19-22 | La congregación es casa y morada, no un conjunto de individuos sin vínculo. | Apoyo textual en «conciudadanos», «casa» y «edificados juntamente». |
 
 ## Pendiente de verificar
 

@@ -4,14 +4,14 @@ description: "Estudio de Mishlei 25:16-20 sobre recibir la palabra con capacidad
 date: 2026-08-05
 tags: [mishlei, mishlei_25, miel, disciplina, integridad, testimonio, confianza]
 references:
-  - "#mishlei_25_16"
-  - "#mishlei_25_17"
-  - "#mishlei_25_18"
-  - "#mishlei_25_19"
-  - "#mishlei_25_20"
-  - "#shemot_20_16"
-  - "#shemot_20_13"
-  - "#hoshea_6_6"
+  - "#proverbios_25_16"
+  - "#proverbios_25_17"
+  - "#proverbios_25_18"
+  - "#proverbios_25_19"
+  - "#proverbios_25_20"
+  - "#exodo_20_16"
+  - "#exodo_20_13"
+  - "#oseas_6_6"
 sources:
   - "https://www.youtube.com/watch?v=XUk7AT2MDfY"
   - "docs/scriptures/oe/json/proverbs/25.json"
@@ -33,17 +33,17 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_25_16 | דבש מצאת אכל דיך פן תשבענו והקאתו | Miel has hallado, come tu suficiencia, no sea que te sacies y la vomites. |
-| #mishlei_25_17 | הקר רגלך מבית רעך פן ישבעך ושנאך | Haz raro tu pie de la casa de tu compañero, no sea que se sacie de ti y te aborrezca. |
-| #mishlei_25_18 | מפיץ וחרב וחץ שנון איש ענה ברעהו עד שקר | Maza, espada y flecha afilada es el hombre que responde contra su compañero testimonio falso. |
-| #mishlei_25_19 | שן רעה ורגל מועדת מבטח בוגד ביום צרה | Diente malo y pie que resbala es confianza en el traidor en el día de estrechez. |
-| #mishlei_25_20 | מעדה בגד ביום קרה חמץ על נתר ושר בשירים על לב רע | Vestidura desgastada en día de frío, vinagre sobre carbonato sódico, y cantor con canciones sobre un corazón malo. |
+| #proverbios_25_16 | דבש מצאת אכל דיך פן תשבענו והקאתו | Miel has hallado, come tu suficiencia, no sea que te sacies y la vomites. |
+| #proverbios_25_17 | הקר רגלך מבית רעך פן ישבעך ושנאך | Haz raro tu pie de la casa de tu compañero, no sea que se sacie de ti y te aborrezca. |
+| #proverbios_25_18 | מפיץ וחרב וחץ שנון איש ענה ברעהו עד שקר | Maza, espada y flecha afilada es el hombre que responde contra su compañero testimonio falso. |
+| #proverbios_25_19 | שן רעה ורגל מועדת מבטח בוגד ביום צרה | Diente malo y pie que resbala es confianza en el traidor en el día de estrechez. |
+| #proverbios_25_20 | מעדה בגד ביום קרה חמץ על נתר ושר בשירים על לב רע | Vestidura desgastada en día de frío, vinagre sobre carbonato sódico, y cantor con canciones sobre un corazón malo. |
 
 ## La miel se recibe según la capacidad
 
 La exposición comienza con la estructura de Mishlei: una figura seguida por una explicación. El verso 16 presenta la miel y ordena comer la suficiencia; el 17 explica el límite mediante el pie que debe hacerse precioso o poco frecuente en la casa del compañero. La clase relaciona la miel con la Torá, los profetas y la bondad de Elohim. Esa relación es una metáfora teológica de la enseñanza, no una definición léxica de **(דבש)**, _devash_, que en el verso significa miel.
 
-El punto textual es sobrio: lo bueno puede ser recibido de manera desordenada. La clase aplica esto a quien se sacia de gracia y luego trata el perdón como permiso para repetir deliberadamente el pecado. #hoshea_6_6 aparece como conexión —misericordia y conocimiento en lugar de una religiosidad reducida a sacrificios—, pero no debe usarse para borrar las diferencias entre sus contextos. La exhortación queda clara: recibir la palabra implica caminar en ella, no acumular dulzura sin obediencia.
+El punto textual es sobrio: lo bueno puede ser recibido de manera desordenada. La clase aplica esto a quien se sacia de gracia y luego trata el perdón como permiso para repetir deliberadamente el pecado. #oseas_6_6 aparece como conexión —misericordia y conocimiento en lugar de una religiosidad reducida a sacrificios—, pero no debe usarse para borrar las diferencias entre sus contextos. La exhortación queda clara: recibir la palabra implica caminar en ella, no acumular dulzura sin obediencia.
 
 ## Un pie valioso en la casa del compañero
 
@@ -53,7 +53,7 @@ La clase desarrolla “compañero” como una relación con Elohim y conecta el 
 
 ## Testimonio falso, confianza inútil y corazón malo
 
-Los versos 18-20 encadenan tres imágenes de inutilidad y daño. El falso testimonio es comparado con maza, espada y flecha; la clase lo relaciona con #shemot_20_16 y explica que una acusación falsa “mata” el nombre del compañero. La metáfora es fuerte, pero no autoriza a acusar a una persona concreta sin evidencia. El mandamiento exige verdad y cuidado, especialmente cuando la palabra puede destruir reputación.
+Los versos 18-20 encadenan tres imágenes de inutilidad y daño. El falso testimonio es comparado con maza, espada y flecha; la clase lo relaciona con #exodo_20_16 y explica que una acusación falsa “mata” el nombre del compañero. La metáfora es fuerte, pero no autoriza a acusar a una persona concreta sin evidencia. El mandamiento exige verdad y cuidado, especialmente cuando la palabra puede destruir reputación.
 
 El diente malo y el pie que resbala explican la confianza en un traidor durante el día de estrechez. Eric identifica al traidor principalmente con el adversario; la conexión es una lectura de la clase, mientras el texto habla directamente de una confianza defectuosa. La palabra **(בוגד)**, _boged_, señala al que traiciona o actúa deslealmente; confiar en él es apoyarse en algo que no puede sostener.
 
@@ -74,21 +74,21 @@ La vestidura gastada no abriga en el frío, y el vinagre sobre **(נתר)**, _ne
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_25_16-17 | La miel representa la palabra y la bondad; comer más allá de la capacidad y frecuentar demasiado la casa del compañero produce rechazo. | Medida y consecuencia apoyadas; miel como Torá y casa del compañero como casa de Elohim, aplicaciones calificadas. |
-| #mishlei_25_18 | El falso testimonio es como maza, espada y flecha, y conecta con el mandamiento contra el testimonio falso. | Apoyo textual directo y conexión con #shemot_20_16 razonable. |
-| #mishlei_25_19 | Confiar en el traidor durante la estrechez es como apoyarse en un diente malo o un pie inestable. | Imagen textual apoyada; identificación exclusiva del traidor con Satán, cualificada. |
-| #mishlei_25_20 | La canción no produce provecho sobre un corazón malo, como una vestidura gastada o el vinagre sobre natrón. | Contraste textual apoyado; aplicación a elección y regeneración, pendiente de verificación. |
+| #proverbios_25_16-17 | La miel representa la palabra y la bondad; comer más allá de la capacidad y frecuentar demasiado la casa del compañero produce rechazo. | Medida y consecuencia apoyadas; miel como Torá y casa del compañero como casa de Elohim, aplicaciones calificadas. |
+| #proverbios_25_18 | El falso testimonio es como maza, espada y flecha, y conecta con el mandamiento contra el testimonio falso. | Apoyo textual directo y conexión con #exodo_20_16 razonable. |
+| #proverbios_25_19 | Confiar en el traidor durante la estrechez es como apoyarse en un diente malo o un pie inestable. | Imagen textual apoyada; identificación exclusiva del traidor con Satán, cualificada. |
+| #proverbios_25_20 | La canción no produce provecho sobre un corazón malo, como una vestidura gastada o el vinagre sobre natrón. | Contraste textual apoyado; aplicación a elección y regeneración, pendiente de verificación. |
 
 ## Conexiones principales
 
-- #shemot_20_13 y #shemot_20_16 aclaran por qué el falso testimonio puede representarse con armas, pero no sustituyen la metáfora de Mishlei.
-- #hoshea_6_6 acompaña la crítica a una religiosidad sin obediencia; la conexión es temática y no una cita de Mishlei 25.
-- #mishlei_24_13-14 también usa la miel como imagen de algo bueno; debe compararse antes de formar una teología completa de la miel.
+- #exodo_20_13 y #exodo_20_16 aclaran por qué el falso testimonio puede representarse con armas, pero no sustituyen la metáfora de Mishlei.
+- #oseas_6_6 acompaña la crítica a una religiosidad sin obediencia; la conexión es temática y no una cita de Mishlei 25.
+- #proverbios_24_13-14 también usa la miel como imagen de algo bueno; debe compararse antes de formar una teología completa de la miel.
 
 ## Pendiente de verificar
 
 - [ ] Cotejar **(הקר)**, **(די)** y **(שבע)** en léxicos hebreos antes de decidir entre “hacer precioso”, “hacer raro” y “no frecuentar”.
-- [ ] Verificar la referencia exacta de la afirmación de la clase sobre “misericordia y verdad” frente a sacrificios; probablemente se relaciona con #hoshea_6_6, pero no debe citarse sin cotejo.
+- [ ] Verificar la referencia exacta de la afirmación de la clase sobre “misericordia y verdad” frente a sacrificios; probablemente se relaciona con #oseas_6_6, pero no debe citarse sin cotejo.
 - [ ] Revisar el trasfondo histórico del uso de **(נתר)** y la precisión química de la analogía.
 - [ ] Cotejar las alusiones de la clase a la enseñanza de Yehoshua sobre Juan el Bautista, los cánticos y la respuesta del corazón.
 

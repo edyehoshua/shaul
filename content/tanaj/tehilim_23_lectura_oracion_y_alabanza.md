@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_23_1"
-  - "#tehilim_23_6"
+  - "#salmos_23_1"
+  - "#salmos_23_6"
 sources:
   - "https://www.youtube.com/watch?v=8azmEZVF-L8"
   - "docs/scriptures/oe/json/psalms/23.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 23. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                        | Observación de lectura                                               |
 | ------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_23_1 | מזמור לדוד יהוה רעי לא אחסר                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_23_6 | אך טוב וחסד ירדפוני כל ימי חיי ושבתי בבית יהוה לארך ימים | El verso final permite observar el cierre de la composición.         |
+| #salmos_23_1 | מזמור לדוד יהוה רעי לא אחסר                                  | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_23_6 | אך טוב וחסד ירדפוני כל ימי חיי ושבתי בבית יהוה לארך ימים | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 23 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 23» — <https://www.youtube.com/watch?v=8azmEZVF-L8> — source_id: `youtube:8azmEZVF-L8`.
+- «Tehilim/Hymnos/Salmo Chap 23» — <https://www.youtube.com/watch?v=8azmEZVF-L8> — `source_id`: `youtube:8azmEZVF-L8`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

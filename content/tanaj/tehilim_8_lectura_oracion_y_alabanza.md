@@ -10,17 +10,17 @@ tags:
   - humillacion
   - corona
 references:
-  - "#tehilim_8_1"
-  - "#tehilim_8_2"
-  - "#tehilim_8_3"
-  - "#tehilim_8_4"
-  - "#tehilim_8_5"
-  - "#tehilim_8_6"
-  - "#tehilim_8_7"
-  - "#tehilim_8_8"
-  - "#tehilim_8_9"
-  - "#tehilim_8_10"
-  - "#mattityahu_21_16"
+  - "#salmos_8_1"
+  - "#salmos_8_2"
+  - "#salmos_8_3"
+  - "#salmos_8_4"
+  - "#salmos_8_5"
+  - "#salmos_8_6"
+  - "#salmos_8_7"
+  - "#salmos_8_8"
+  - "#salmos_8_9"
+  - "#salmos_8_10"
+  - "#mateo_21_16"
   - "#hebreos_2_6"
 sources:
   - "https://www.youtube.com/watch?v=a4aHzxIGIcY"
@@ -43,17 +43,17 @@ La enseñanza «Tehillim/Hymns/Psalm Ch. 8» combina un marco histórico de fuen
 
 | Referencia | Texto hebreo local (OE, normalizado) | TTH (ES, partición local) | Función en la lectura |
 | --- | --- | --- | --- |
-| #tehilim_8_1 | למנצח על הגתית מזמור לדוד | (encabezado / subtítulo de la unidad) | Dedicación al menatseaj, **על הגתית** y mizmor para David/el amado. |
-| #tehilim_8_2 | יהוה אדנינו מה אדיר שמך בכל הארץ אשר תנה הודך על השמים | TTH 8:1: «¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra, que has dado tu esplendor sobre los cielos!» | Inclusio inicial: nombre poderoso y hod sobre los cielos. |
-| #tehilim_8_3 | מפי עוללים וינקים יסדת עז למען צורריך להשבית אויב ומתנקם | TTH 8:2: boca de niños y lactantes; fortaleza; cesar enemigo y vengativo. | Fortaleza fundada desde la boca de los más simples. |
-| #tehilim_8_4 | כי אראה שמיך מעשי אצבעתיך ירח וכוכבים אשר כוננתה | TTH 8:3: cielos, obra de los dedos, luna y estrellas. | Contemplación que prepara la pregunta por el hombre. |
-| #tehilim_8_5 | מה אנוש כי תזכרנו ובן אדם כי תפקדנו | TTH 8:4: «¿Qué es el hombre… y el hijo de Adam…?» | Pregunta por enosh y ben adam. |
-| #tehilim_8_6 | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו | TTH 8:5: disminuirlo poco menos que Elohim; corona de gloria y esplendor. | Disminución y doble corona. |
-| #tehilim_8_7 | תמשילהו במעשי ידיך כל שתה תחת רגליו | TTH 8:6: dominio sobre las obras de tus manos; todo bajo sus pies. | Gobierno y colocación bajo los pies. |
-| #tehilim_8_8–9 | צנה ואלפים כלם וגם בהמות שדי · צפור שמים ודגי הים עבר ארחות ימים | TTH 8:7–8: ganado, bestias, aves y peces. | Alcance del dominio en la creación. |
-| #tehilim_8_10 | יהוה אדנינו מה אדיר שמך בכל הארץ | TTH 8:9: cierre idéntico al marco del nombre. | Inclusio final. |
+| #salmos_8_1 | למנצח על הגתית מזמור לדוד | (encabezado / subtítulo de la unidad) | Dedicación al menatseaj, **על הגתית** y mizmor para David/el amado. |
+| #salmos_8_2 | יהוה אדנינו מה אדיר שמך בכל הארץ אשר תנה הודך על השמים | TTH 8:1: «¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra, que has dado tu esplendor sobre los cielos!» | Inclusio inicial: nombre poderoso y hod sobre los cielos. |
+| #salmos_8_3 | מפי עוללים וינקים יסדת עז למען צורריך להשבית אויב ומתנקם | TTH 8:2: boca de niños y lactantes; fortaleza; cesar enemigo y vengativo. | Fortaleza fundada desde la boca de los más simples. |
+| #salmos_8_4 | כי אראה שמיך מעשי אצבעתיך ירח וכוכבים אשר כוננתה | TTH 8:3: cielos, obra de los dedos, luna y estrellas. | Contemplación que prepara la pregunta por el hombre. |
+| #salmos_8_5 | מה אנוש כי תזכרנו ובן אדם כי תפקדנו | TTH 8:4: «¿Qué es el hombre… y el hijo de Adam…?» | Pregunta por enosh y ben adam. |
+| #salmos_8_6 | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו | TTH 8:5: disminuirlo poco menos que Elohim; corona de gloria y esplendor. | Disminución y doble corona. |
+| #salmos_8_7 | תמשילהו במעשי ידיך כל שתה תחת רגליו | TTH 8:6: dominio sobre las obras de tus manos; todo bajo sus pies. | Gobierno y colocación bajo los pies. |
+| #salmos_8_8–9 | צנה ואלפים כלם וגם בהמות שדי · צפור שמים ודגי הים עבר ארחות ימים | TTH 8:7–8: ganado, bestias, aves y peces. | Alcance del dominio en la creación. |
+| #salmos_8_10 | יהוה אדנינו מה אדיר שמך בכל הארץ | TTH 8:9: cierre idéntico al marco del nombre. | Inclusio final. |
 
-## Encabezado, **גתית** y tiempo del himno: Tehilim 8:1–2a
+## Encabezado, **גתית** y tiempo del himno: Tehilim 8:1–2a #salmos_8_1-2
 
 Eric sitúa el salmo en el subgrupo de himnos ligados a instrumentos o designaciones musicales. Sobre **על הגתית** expone tres caminos de interpretación:
 
@@ -67,13 +67,13 @@ La clase no oculta el peso de la tradición del instrumento, pero se detiene en 
 
 Sobre el tiempo verbal, Eric critica las versiones que aplanan el salmo en pasado narrativo. Comentaristas medievales y, sobre todo, el uso evangélico y hebreos lo llevan a leer el poema en clave futura/profética. El hebreo de los imperfectos y formas discutidas admite lecturas temporales distintas; la nota retiene la insistencia de Eric en el futuro sin convertir cada forma en un único tiempo cerrado.
 
-## Nombre, Adonenu y hod sobre los cielos: Tehilim 8:2
+## Nombre, Adonenu y hod sobre los cielos: Tehilim 8:2 #salmos_8_2
 
 **יהוה אדנינו מה אדיר שמך בכל הארץ**. Eric aclara que **אדנינו** en forma que parece plural no introduce una deidad múltiple: es título de señorío. **אדיר** apunta a poder / sublimidad. **שם** no es solo rótulo fonético: es fama, renombre, aquello por lo que se conoce a alguien. En su pedagogía, el lector del Evangelio oye aquí el Nombre sobre todo nombre —Yehoshua— sin borrar que el salmo aclama el nombre de יהוה en toda la tierra.
 
 La cláusula **אשר תנה הודך על השמים** concentra filología de la clase. Eric señala una forma anómala o difícil (**תנה**) que testigos y comentaristas reorientan hacia una lectura de «pondrás / darás» tu **הוד** sobre los cielos. **נתן** puede ser dar o poner. **הוד** lo describe como mezcla de virtud, esplendor, fuerza y capacidad admirable —no solo «gloria» decorativa—: músculo y técnica, desarrollo máximo y potencia. La tesis teológica que extrae: la mayor demostración del esplendor de יהוה se pondrá «sobre los cielos». El OE local tiene la secuencia nombre–hod–cielos; la vocalización futura y la definición densa de hod son elaboraciones que conviene verificar en aparatos y léxicos.
 
-## Boca de sencillos y fortaleza: Tehilim 8:3
+## Boca de sencillos y fortaleza: Tehilim 8:3 #salmos_8_3
 
 **מפי עוללים וינקים יסדת עז**. Eric empuja **עוללים** hacia la etapa más temprana (incluso feto/embrión en su glosa) y **ינקים** hacia los que lactan: la versión más simple del ser humano. **יסדת** lo lee como fundar, poner cimiento, y también ordenar o restaurar. El objeto es **עז**, poder/fortaleza —no una «alabanza» sentimental desligada de obras—.
 
@@ -83,19 +83,19 @@ Sobre la tensión hebreo/griego (*ainos* «alabanza» frente a **עז** «poder�
 
 La finalidad: **למען צורריך להשבית אויב ומתנקם** —por causa de tus adversarios, para hacer cesar enemigo y vengativo—. Eric recuerda que el adversario incluye también al que «no está contigo». El texto nombra opresores, enemigo y vengador; la ampliación ética es pedagógica.
 
-## Cielos, enosh y ben adam: Tehilim 8:4–5
+## Cielos, enosh y ben adam: Tehilim 8:4–5 #salmos_8_4-5
 
 **כי אראה שמיך מעשי אצבעתיך ירח וכוכבים אשר כוננתה**: la contemplación de cielos, luna y estrellas precede la pregunta. Eric lee el imperfecto en línea futura: cuando vea tus cielos… **מה אנוש כי תזכרנו ובן אדם כי תפקדנו**.
 
 **אנוש** no es aquí, en su exposición, el «hombre» existencial genérico abstracto, sino el humano en su debilidad (eco de **אנש**, enfermizo/débil). **בן אדם** refuerza esa figura. La clase oye un personaje concreto —en clave aramea, bar enash / Ben Adam— a quien se recuerda y se visita. El OE sostiene enosh y ben adam; la identificación mesiánica exclusiva es la lectura canónica que Eric defiende con Hebreos y el Evangelio, no el único sentido posible en un himno de creación.
 
-## Disminución, corona y dominio: Tehilim 8:6–9
+## Disminución, corona y dominio: Tehilim 8:6–9 #salmos_8_6-9
 
 **ותחסרהו מעט מאלהים וכבוד והדר תעטרהו**. Eric insiste en no traducir como si dijera «lo creaste un poco menor»: el verbo es de **disminuir / hacer faltar**, no de crear. Rechaza usos polémicos que harían del Mesías una mera criatura a partir de una mala lectura castellana. **מאלהים** lo deja preferentemente sin aplanar solo a «ángeles»: **אלהים** nombra también autoridades autorizadas (sacerdote, juez, rey, mensajeros). La primera venida del Mesías ocurre por debajo del reconocimiento de esas dignidades: forma de siervo, no irrupción real ostentosa. Luego: **כבוד והדר תעטרהו** —lo coronarás con peso de honra y con esplendor máximo—. Eric distingue dos coronas o dos momentos: kavod (obra sacerdotal en curso) y hadar (plenitud aún por consumar), en diálogo con Hebreos 2: aún no vemos todo sujetado, pero vemos al disminuido coronado.
 
 **תמשילהו במעשי ידיך כל שתה תחת רגליו** y el catálogo de ganado, bestias, aves y peces extienden el dominio. Eric subraya que las maravillas de יהוה en la historia tienen nombre propio: Israel; cortar a Israel de la teología es desmembrar el cuerpo de los hechos de Hashem. «Debajo de sus pies» no lo lee como pisoteo humillante castellano, sino como cercanía y cuidado —estar a los pies del maestro—. El dominio sobre la creación ya se narra en Bereshit; el punto conflictivo es el gobierno sobre la humanidad rebelde. Esas aplicaciones (anti-reemplazo, pies como cariño) son teología de la clase articulada al salmo; el texto enumera obras bajo los pies del coronado.
 
-## Inclusio final: Tehilim 8:10
+## Inclusio final: Tehilim 8:10 #salmos_8_10
 
 El poema cierra como abrió en la aclamación del Nombre: **יהוה אדנינו מה אדיר שמך בכל הארץ**. La estructura de marco confirma que todo el movimiento —hod celestial, boca de sencillos, disminución, corona, dominio— sirve a la sublimidad del Nombre en toda la tierra.
 
@@ -120,11 +120,11 @@ El poema cierra como abrió en la aclamación del Nombre: **יהוה אדנינ�
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
-| #tehilim_8_1 | **על הגתית**: instrumento, Gat o prensa (LXX); la prensa enlaza con Getsemaní y la humillación del Mesías; mizmor para el amado. | Tres glosas expuestas; conexión Getsemaní marcada como propuesta cualificada. |
-| #tehilim_8_2 | Nombre = fama; Adonenu no es politeísmo; **תנה הודך** se lee en futuro: pondrás tu hod sobre los cielos. | Inclusio y hod cotejados con OE/TTH; vocalización futura y densificación de hod en pendiente filológica. |
-| #tehilim_8_3 | Desde la boca de olalim y yoneqim se funda **עז** (poder/prodigios); Matt 21 y 11: revelación a sencillos; cesa el enemigo. | Cita evangélica y léxico oz/alabanza atribuidos a la clase; texto local confirma la boca de niños y la fortaleza. |
-| #tehilim_8_4–6 | Contemplación de cielos; pregunta por enosh/ben adam frágil; **תחסרהו מעט מאלהים** es disminución, no creación; corona de kavod y hadar (Hebreos 2). | Pregunta y disminución con apoyo textual; sujeto mesiánico y doble corona como lectura canónica cualificada. |
-| #tehilim_8_7–10 | Dominio sobre obras de las manos; «bajo los pies» = cuidado; Israel como nombre de las maravillas; inclusio del Nombre. | Catálogo creatural textual; anti-reemplazo y matiz de los pies como inferencia pastoral de la clase. |
+| #salmos_8_1 | **על הגתית**: instrumento, Gat o prensa (LXX); la prensa enlaza con Getsemaní y la humillación del Mesías; mizmor para el amado. | Tres glosas expuestas; conexión Getsemaní marcada como propuesta cualificada. |
+| #salmos_8_2 | Nombre = fama; Adonenu no es politeísmo; **תנה הודך** se lee en futuro: pondrás tu hod sobre los cielos. | Inclusio y hod cotejados con OE/TTH; vocalización futura y densificación de hod en pendiente filológica. |
+| #salmos_8_3 | Desde la boca de olalim y yoneqim se funda **עז** (poder/prodigios); Matt 21 y 11: revelación a sencillos; cesa el enemigo. | Cita evangélica y léxico oz/alabanza atribuidos a la clase; texto local confirma la boca de niños y la fortaleza. |
+| #salmos_8_4–6 | Contemplación de cielos; pregunta por enosh/ben adam frágil; **תחסרהו מעט מאלהים** es disminución, no creación; corona de kavod y hadar (Hebreos 2). | Pregunta y disminución con apoyo textual; sujeto mesiánico y doble corona como lectura canónica cualificada. |
+| #salmos_8_7–10 | Dominio sobre obras de las manos; «bajo los pies» = cuidado; Israel como nombre de las maravillas; inclusio del Nombre. | Catálogo creatural textual; anti-reemplazo y matiz de los pies como inferencia pastoral de la clase. |
 
 ## Pendiente de verificar
 

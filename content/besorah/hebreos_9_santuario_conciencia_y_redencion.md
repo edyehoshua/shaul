@@ -9,18 +9,18 @@ tags:
   - redencion
   - sacerdocio
 references:
-  - "#hebrews_9_1"
-  - "#hebrews_9_2"
-  - "#hebrews_9_6"
-  - "#hebrews_9_8"
-  - "#hebrews_9_11"
-  - "#hebrews_9_12"
-  - "#hebrews_9_14"
-  - "#hebrews_9_15"
-  - "#hebrews_9_22"
-  - "#hebrews_9_23"
-  - "#hebrews_9_26"
-  - "#hebrews_9_28"
+  - "#hebreos_9_1"
+  - "#hebreos_9_2"
+  - "#hebreos_9_6"
+  - "#hebreos_9_8"
+  - "#hebreos_9_11"
+  - "#hebreos_9_12"
+  - "#hebreos_9_14"
+  - "#hebreos_9_15"
+  - "#hebreos_9_22"
+  - "#hebreos_9_23"
+  - "#hebreos_9_26"
+  - "#hebreos_9_28"
 sources:
   - "https://www.youtube.com/watch?v=RX3-_bvubqo"
   - "docs/scriptures/delitzsch/json/hebrews.json"
@@ -41,12 +41,12 @@ La nota sigue Hebreos 9:1-28 en cuatro unidades. Conserva las observaciones conc
 
 | Referencia       | Texto local (Delitzsch)                                                 | Función en el argumento                                                                                   |
 | ---------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| #hebrews_9_1-10  | **הן גם־הברית הראשונה גם לה היו דיני עבודה ומקדש בארץ׃ ... עד־עת תקון** | El primer orden tiene culto y santuario, pero sus límites quedan expuestos hasta un tiempo de corrección. |
-| #hebrews_9_11-14 | **והמשיח בבואו להיות כהן גדול ... בדמו הוא בא פעם אחת אל־הקדש**         | El Mesías entra con su propia sangre y purifica la conciencia para servir al Elohim vivo.                 |
-| #hebrews_9_15-22 | **ועל־כן הוא מליץ הברית החדשה ... ובלא שפיכת דם אין סליחה**             | Su mediación se relaciona con promesa, herencia, muerte y purificación pactal.                            |
-| #hebrews_9_23-28 | **כן גם־המשיח הקרב פעם אחת לשאת חטא רבים**                              | La entrega única no se repite y orienta la espera de su aparición.                                        |
+| #hebreos_9_1-10  | **הן גם־הברית הראשונה גם לה היו דיני עבודה ומקדש בארץ׃ ... עד־עת תקון** | El primer orden tiene culto y santuario, pero sus límites quedan expuestos hasta un tiempo de corrección. |
+| #hebreos_9_11-14 | **והמשיח בבואו להיות כהן גדול ... בדמו הוא בא פעם אחת אל־הקדש**         | El Mesías entra con su propia sangre y purifica la conciencia para servir al Elohim vivo.                 |
+| #hebreos_9_15-22 | **ועל־כן הוא מליץ הברית החדשה ... ובלא שפיכת דם אין סליחה**             | Su mediación se relaciona con promesa, herencia, muerte y purificación pactal.                            |
+| #hebreos_9_23-28 | **כן גם־המשיח הקרב פעם אחת לשאת חטא רבים**                              | La entrega única no se repite y orienta la espera de su aparición.                                        |
 
-## Hebreos 9:1-10: el primer orden y sus límites
+## Hebreos 9:1-10: el primer orden y sus límites #hebreos_9_1-10
 
 El capítulo comienza afirmando que el primer pacto tenía ordenanzas de servicio y un santuario terrenal. Eric recuerda que la discusión anterior distinguía el pacto abrahámico, la promesa de la simiente y el pacto sacerdotal temporal asociado con Aarón y los levitas. Esta reconstrucción pertenece a la enseñanza y requiere cotejo histórico; Hebreos 9 sí comienza por el orden cultual del primer pacto y describe el tabernáculo, sus utensilios y la separación entre el lugar santo y el santísimo.
 
@@ -56,7 +56,7 @@ El servicio de los sacerdotes era frecuente: entraban continuamente en la primer
 
 Las comidas, bebidas, abluciones y ordenanzas de carne se imponen hasta el tiempo de corrección. **(διόρθωσις)**, _diorthōsis_, significa enderezamiento, corrección o puesta en orden; «tiempo de reforma» es una traducción aproximada. Eric llama la atención sobre esta palabra para no imaginar que el autor describe una destrucción caprichosa de las Escrituras. El texto sostiene una limitación temporal y una orientación hacia algo mejor; no especifica aquí cada detalle de cómo se aplica cada mandamiento después de la venida del Mesías.
 
-## Hebreos 9:11-14: el Mesías, la sangre y la conciencia
+## Hebreos 9:11-14: el Mesías, la sangre y la conciencia #hebreos_9_11-14
 
 La segunda unidad presenta al Mesías como sumo sacerdote de los bienes venideros. No entra por sangre de machos cabríos y becerros, sino por su propia sangre, una vez para siempre, habiendo obtenido redención eterna. **(ἀρχιερεύς)**, _archiereus_, significa sumo sacerdote; la traducción es directa como oficio. **(λύτρωσις)**, _lytrōsis_, significa liberación, rescate o redención; «redención» es aproximada porque conserva el campo de liberación sin decidir por sí sola un modelo comercial completo. **(αἰώνιος)**, _aiōnios_, significa perteneciente a la edad, duradero o eterno; «eterna» es una traducción tradicional, pero su alcance debe leerse en el contraste con lo repetido y temporal.
 
@@ -66,7 +66,7 @@ El argumento llega a la conciencia: si la sangre de animales santifica para la p
 
 Eric relaciona la conciencia purificada con el servicio, no con una fe desconectada de obediencia. El versículo 14 respalda esa finalidad: la limpieza tiene como resultado «servir al Elohim vivo». La aplicación pastoral es textual en su dirección, aunque la clase puede extenderla pedagógicamente a hábitos particulares que el pasaje no enumera.
 
-## Hebreos 9:15-22: mediación, herencia y sangre
+## Hebreos 9:15-22: mediación, herencia y sangre #hebreos_9_15-22
 
 Por eso el Mesías es mediador de un nuevo pacto, para que quienes son llamados reciban la promesa de la herencia eterna, pues una muerte ha ocurrido para redimir las transgresiones bajo el primer pacto. **(μεσίτης)**, _mesitēs_, significa mediador o intermediario; en 9:15 identifica la función de quien se coloca entre las partes para hacer efectiva la promesa. «Mediador» es una equivalencia ordinaria y relativamente exacta, pero no describe por sí solo todos los aspectos sacerdotales de Yehoshua.
 
@@ -74,7 +74,7 @@ El autor introduce entonces la necesidad de una muerte en el caso de un testamen
 
 La frase «sin derramamiento de sangre no hay perdón» resume el patrón cultual descrito por la Torah. **(ἄφεσις)**, _aphesis_, significa liberación, remisión o perdón; «perdón» es una glosa contextual directa en 9:22, mientras que «liberación» conserva el campo más amplio. El versículo no autoriza a separar perdón y santidad: la sangre aparece dentro de un sistema de consagración, purificación y acceso. Tampoco permite convertir una sola frase en una explicación completa de todos los modelos de expiación.
 
-## Hebreos 9:23-28: una vez, muchos y la esperanza
+## Hebreos 9:23-28: una vez, muchos y la esperanza #hebreos_9_23-28
 
 Las figuras de las cosas celestiales necesitaban purificarse así, pero las cosas celestiales mismas con mejores sacrificios. El Mesías no entra en un santuario hecho por manos, figura del verdadero, sino en el cielo mismo para presentarse ahora delante de Elohim por nosotros. Eric conserva la oposición entre lo terrenal y lo celestial, pero advierte que una traducción puede convertir una palabra temporal en «perpetuo» sin examinar su campo.
 
@@ -160,6 +160,6 @@ Hebreos 9 no presenta una religión sin santidad, sino una progresión desde el 
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «La carta a los hebreos parte 9: Brit Kehunat 'olam - brit jadasháh - Tikun ha'olam» — https://www.youtube.com/watch?v=RX3-_bvubqo — source_id: `youtube:RX3-_bvubqo`.
+- «La carta a los hebreos parte 9: Brit Kehunat 'olam - brit jadasháh - Tikun ha'olam» — https://www.youtube.com/watch?v=RX3-_bvubqo — `source_id`: `youtube:RX3-_bvubqo`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

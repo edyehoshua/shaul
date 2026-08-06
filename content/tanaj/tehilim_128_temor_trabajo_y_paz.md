@@ -9,11 +9,11 @@ tags:
   - "familia"
   - "shalom"
 references:
-  - "#tehilim_128_1"
-  - "#tehilim_128_2"
-  - "#tehilim_128_3"
-  - "#tehilim_128_5"
-  - "#tehilim_128_6"
+  - "#salmos_128_1"
+  - "#salmos_128_2"
+  - "#salmos_128_3"
+  - "#salmos_128_5"
+  - "#salmos_128_6"
 sources:
   - "https://www.youtube.com/watch?v=E32ztB2NacQ"
   - "https://www.youtube.com/watch?v=9KTiuVdqaT4"
@@ -35,12 +35,12 @@ La parte 1, «Tehilim/Hymnos/Psalm Chapter 128 (part 1)», introduce el capítul
 
 | Referencia     | Texto local hebreo sin nikud                            | Función en el salmo                                                 |
 | -------------- | ------------------------------------------------------- | ------------------------------------------------------------------- |
-| #tehilim_128_1 | שיר המעלות אשרי כל ירא יהוה ההלך בדרכיו                 | La dicha se define por temor y camino.                              |
-| #tehilim_128_2 | יגיע כפיך כי תאכל אשריך וטוב לך                         | El fruto de las palmas acompaña al comer y al bien.                 |
-| #tehilim_128_3 | אשתך כגפן פריה בירכתי ביתך בניך כשתלי זיתים סביב לשלחנך | Esposa e hijos aparecen mediante imágenes vegetales en casa y mesa. |
-| #tehilim_128_4 | הנה כי כן יברך גבר ירא יהוה                             | Resume la bendición del varón que teme a יהוה.                      |
-| #tehilim_128_5 | יברכך יהוה מציון וראה בטוב ירושלם כל ימי חייך           | La bendición viene de Sion y mira el bien de Jerusalén.             |
-| #tehilim_128_6 | וראה בנים לבניך שלום על ישראל                           | La visión de descendencia culmina en paz sobre Israel.              |
+| #salmos_128_1 | שיר המעלות אשרי כל ירא יהוה ההלך בדרכיו                 | La dicha se define por temor y camino.                              |
+| #salmos_128_2 | יגיע כפיך כי תאכל אשריך וטוב לך                         | El fruto de las palmas acompaña al comer y al bien.                 |
+| #salmos_128_3 | אשתך כגפן פריה בירכתי ביתך בניך כשתלי זיתים סביב לשלחנך | Esposa e hijos aparecen mediante imágenes vegetales en casa y mesa. |
+| #salmos_128_4 | הנה כי כן יברך גבר ירא יהוה                             | Resume la bendición del varón que teme a יהוה.                      |
+| #salmos_128_5 | יברכך יהוה מציון וראה בטוב ירושלם כל ימי חייך           | La bendición viene de Sion y mira el bien de Jerusalén.             |
+| #salmos_128_6 | וראה בנים לבניך שלום על ישראל                           | La visión de descendencia culmina en paz sobre Israel.              |
 
 ## Hoja léxica
 
@@ -92,6 +92,6 @@ Tehilim 128 no promete una casa desligada del camino. El temor de יהוה se vu
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Psalm Chapter 128 (part 1)» — <https://www.youtube.com/watch?v=E32ztB2NacQ> — source_id: `youtube:E32ztB2NacQ`.
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 128 (parte 2)» — <https://www.youtube.com/watch?v=9KTiuVdqaT4> — source_id: `youtube:9KTiuVdqaT4`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Hymnos/Psalm Chapter 128 (part 1)» — <https://www.youtube.com/watch?v=E32ztB2NacQ> — `source_id`: `youtube:E32ztB2NacQ`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 128 (parte 2)» — <https://www.youtube.com/watch?v=9KTiuVdqaT4> — `source_id`: `youtube:9KTiuVdqaT4`.
 - La transcripción automática se usa como apoyo de estudio y atribución; no se presenta como cita literal ni como transcripción revisada por el expositor.

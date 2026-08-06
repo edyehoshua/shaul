@@ -9,10 +9,10 @@ tags:
   - santidad
   - rey_de_gloria
 references:
-  - "#tehilim_24_1"
-  - "#tehilim_24_3"
-  - "#tehilim_24_7"
-  - "#tehilim_24_10"
+  - "#salmos_24_1"
+  - "#salmos_24_3"
+  - "#salmos_24_7"
+  - "#salmos_24_10"
 sources:
   - "https://www.youtube.com/watch?v=gyQXqmP1V1w"
   - "docs/scriptures/oe/json/psalms/24.json"
@@ -33,23 +33,23 @@ La nota sigue los diez versículos en orden. La transcripción automática de la
 
 | Referencia       | Texto hebreo local (OE, sin nikud)                                                                                                                                                                   | Función en la enseñanza                                                                                             |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_24_1-2  | לדוד מזמור ליהוה הארץ ומלואה תבל וישבי בה; כי הוא על ימים יסדה ועל נהרות יכוננה                                                                                                                      | El mundo y sus habitantes pertenecen a יהוה porque él lo fundó sobre las aguas.                                     |
-| #tehilim_24_3-6  | מי יעלה בהר יהוה ומי יקום במקום קדשו; נקי כפים ובר לבב אשר לא נשא לשוא נפשי ולא נשבע למרמה; ישא ברכה מאת יהוה וצדקה מאלהי ישעו; זה דור דרשו דרשיו מבקשי פניך יעקב סלה                                | La pregunta por el acceso responde con manos limpias, corazón recto, verdad y búsqueda del rostro de יהוה.          |
-| #tehilim_24_7-10 | שאו שערים ראשיכם והנשאו פתחי עולם ויבוא מלך הכבוד; מי זה מלך הכבוד יהוה עזוז וגבור יהוה גבור מלחמה; שאו שערים ראשיכם ושאו פתחי עולם ויבא מלך הכבוד; מי הוא זה מלך הכבוד יהוה צבאות הוא מלך הכבוד סלה | La repetición convierte la entrada del Rey de gloria en una proclamación pública: יהוה es fuerte, guerrero y צבאות. |
+| #salmos_24_1-2  | לדוד מזמור ליהוה הארץ ומלואה תבל וישבי בה; כי הוא על ימים יסדה ועל נהרות יכוננה                                                                                                                      | El mundo y sus habitantes pertenecen a יהוה porque él lo fundó sobre las aguas.                                     |
+| #salmos_24_3-6  | מי יעלה בהר יהוה ומי יקום במקום קדשו; נקי כפים ובר לבב אשר לא נשא לשוא נפשי ולא נשבע למרמה; ישא ברכה מאת יהוה וצדקה מאלהי ישעו; זה דור דרשו דרשיו מבקשי פניך יעקב סלה                                | La pregunta por el acceso responde con manos limpias, corazón recto, verdad y búsqueda del rostro de יהוה.          |
+| #salmos_24_7-10 | שאו שערים ראשיכם והנשאו פתחי עולם ויבוא מלך הכבוד; מי זה מלך הכבוד יהוה עזוז וגבור יהוה גבור מלחמה; שאו שערים ראשיכם ושאו פתחי עולם ויבא מלך הכבוד; מי הוא זה מלך הכבוד יהוה צבאות הוא מלך הכבוד סלה | La repetición convierte la entrada del Rey de gloria en una proclamación pública: יהוה es fuerte, guerrero y צבאות. |
 
-## La creación no es propiedad autónoma, 24:1-2
+## La creación no es propiedad autónoma, 24:1-2 #salmos_24_1-2
 
 Eric comienza la lectura afirmando que “la tierra y su plenitud” no son del ser humano. El salmo coloca primero a יהוה y después a la tierra, sus habitantes y el fundamento de los mares y ríos. La observación de la clase resiste una espiritualización que abandone la creación: la oración nace de una confesión concreta sobre quién posee el mundo. El verso 2 no ofrece una explicación científica moderna; presenta poéticamente a יהוה como fundador y estabilizador de lo que parece indomable.
 
 La consecuencia pastoral también queda delimitada. Si la tierra es de יהוה, el adorador no puede tratar su vida, sus recursos o su comunidad como posesiones sin rendición de cuentas. Esta aplicación es coherente con el orden del salmo, pero no debe convertirse en una doctrina económica detallada que el pasaje no desarrolla. La clase usa la pertenencia de la tierra como llamado a reconocer autoridad; el texto confirma esa dirección mediante la repetición de “él”.
 
-## El acceso al monte exige una vida íntegra, 24:3-6
+## El acceso al monte exige una vida íntegra, 24:3-6 #salmos_24_3-6
 
 La pregunta “¿quién subirá?” y “¿quién permanecerá?” cambia el plano: no basta con que יהוה sea dueño del mundo; quienes buscan su rostro deben responder con manos limpias y corazón recto. Eric observa la unión entre lo que las manos hacen y lo que el corazón sostiene. El salmo añade dos negativas concretas: no levantar la propia vida a la falsedad y no jurar con engaño. La santidad no queda reducida a una apariencia ritual.
 
 “Levantar el alma” puede expresar orientar la vida hacia lo vano o falso. La imagen se relaciona pedagógicamente con una adoración dividida: boca, manos y corazón deben corresponder. No es una equivalencia exacta decir que el verso define toda la doctrina de conversión; sí es una lectura apoyada por el paralelismo. La bendición y la justicia del verso 5 proceden de יהוה, no son salario que el adorador compra. El verso 6 llama a este grupo “generación” de quienes buscan, y vincula la búsqueda con el rostro de Jacob/Israel; la identidad del pueblo se muestra en volver el rostro hacia יהוה.
 
-## Las puertas y el Rey de gloria, 24:7-10
+## Las puertas y el Rey de gloria, 24:7-10 #salmos_24_7-10
 
 La segunda mitad tiene forma de diálogo litúrgico. “Alcen sus cabezas” y “levántense” personifican las puertas; luego una voz pregunta dos veces quién es el Rey de gloria. Eric destaca que la respuesta no es una fuerza abstracta: es יהוה, fuerte y poderoso, poderoso en batalla, יהוה צבאות. La repetición de la pregunta y la respuesta hace que la alabanza sea confesión compartida, no una afirmación privada del lector.
 

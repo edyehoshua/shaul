@@ -11,36 +11,35 @@ tags:
   - deidad_del_mesias
   - resurreccion
 references:
-  - "#iojanan_9_24"
-  - "#iojanan_9_34"
-  - "#iojanan_9_35"
-  - "#iojanan_9_36"
-  - "#iojanan_9_37"
-  - "#iojanan_9_38"
-  - "#iojanan_9_39"
-  - "#iojanan_9_40"
-  - "#iojanan_9_41"
+  - "#juan_9_24"
+  - "#juan_9_34"
+  - "#juan_9_35"
+  - "#juan_9_36"
+  - "#juan_9_37"
+  - "#juan_9_38"
+  - "#juan_9_39"
+  - "#juan_9_40"
+  - "#juan_9_41"
   - "#romanos_5_12"
-  - "#qorintiyim_alef_15_42"
-  - "#qorintiyim_alef_15_43"
-  - "#qorintiyim_alef_15_45"
-  - "#qorintiyim_alef_15_47"
-  - "#qorintiyim_alef_15_49"
-  - "#kefa_alef_1_23"
-  - "#sodot_19_10"
-  - "#maasei_hashlijim_10_25"
-  - "#maasei_hashlijim_10_26"
-  - "#jizayon_19_10"
-  - "#iejezkel_2_1"
-  - "#iejezkel_2_3"
-  - "#tehilim_49_7"
-  - "#tehilim_49_8"
-  - "#qohelet_3_19"
-  - "#tehilim_115_17"
+  - "#1_corintios_15_42"
+  - "#1_corintios_15_43"
+  - "#1_corintios_15_45"
+  - "#1_corintios_15_47"
+  - "#1_corintios_15_49"
+  - "#1_pedro_1_23"
+  - "#apocalipsis_19_10"
+  - "#hechos_10_25"
+  - "#hechos_10_26"
+  - "#apocalipsis_19_10"
+  - "#ezequiel_2_1"
+  - "#ezequiel_2_3"
+  - "#salmos_49_7"
+  - "#salmos_49_8"
+  - "#eclesiastes_3_19"
+  - "#salmos_115_17"
 sources:
   - "https://www.youtube.com/live/-W2giXMqvUE"
-  - "private/sources/youtube_-W2giXMqvUE_transcript.txt"
-  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/tth/json/yojanan.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/tehilim.json"
   - "docs/scriptures/delitzsch/json/john.json"
@@ -67,7 +66,7 @@ El punto central es que Yeshúa no conduce al ciego a rendir fidelidad a otro di
 
 - Fuente: transcripción automática del video en vivo enlazado por el usuario.
 - La transcripción contiene errores de reconocimiento; esta nota conserva la línea argumental clara y marca las tensiones textuales relevantes.
-- El texto de Yojanan se compara con TTH y Delitzsch locales porque la clase trabaja con la lectura "Hijo del Hombre / Ben Adam", mientras TTH local en #iojanan_9_35 lee "Hijo de Elohim".
+- El texto de Yojanan se compara con TTH y Delitzsch locales porque la clase trabaja con la lectura "Hijo del Hombre / Ben Adam", mientras TTH local en #juan_9_35 lee "Hijo de Elohim".
 - Para Tanaj se usa el corpus local OE sin nikud cuando se cita hebreo.
 
 ## Ruta de la clase
@@ -85,60 +84,60 @@ El punto central es que Yeshúa no conduce al ciego a rendir fidelidad a otro di
 
 | Referencia              | Hebreo (OE/Delitzsch)                                                                     | TTH (ES)                                                                                                                                               | Función/Observación                                                                            |
 | ----------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| #iojanan_9_24           | אז קראו שנית לעור הראה ויאמרו אליו שיםנא כבוד לאלהים אנחנו ידענו כיהאיש הזה חטא הוא       | Y llamaron por segunda vez al hombre que había sido ciego, y le dijeron: Pon ahora gloria a יהוה y dale confesión, sabemos que este hombre es pecador. | Los perushim apelan a dar gloria a יהוה mientras clasifican a Yeshúa como pecador.             |
-| #iojanan_9_34           | ויענו ויאמרו אליו הן בעון חוללת ואתה תלמד אתנו וידחפו אתו מעלפניהם                        | En pecados naciste todo tú, ¿y nos enseñas a nosotros? Y lo echaron afuera.                                                                            | La expulsión funciona como cierre del interrogatorio fallido.                                  |
-| #iojanan_9_35           | התאמין בבןהאלהים                                                                          | ¿Tú te afirmas en el Hijo de Elohim?                                                                                                                   | TTH y Delitzsch leen "Ben ha-Elohim", no "Ben ha-Adam" — diferencia textual frente a la clase. |
-| #iojanan_9_36           | ויען ויאמר ומי הואזה אדני ואאמין בו                                                       | ¿Quién es Este, Amo mío, para que me afirme en Él?                                                                                                     | La respuesta del ciego pide identificar al objeto de la fidelidad.                             |
-| #iojanan_9_37           | ויאמר אליו ישוע הלא ראית אתו והנה הוא המדבר אליך זה הוא                                   | Y tú lo has visto, y el que te habla es.                                                                                                               | La revelación es directa: el sanado ve al que antes no podía ver.                              |
-| #iojanan_9_38           | ויאמר הנני מאמין אדני וישתחו לו                                                           | Yo me afirmo, Adonai, y se le postró.                                                                                                                  | La afirmación y la postración son la conclusión narrativa de la sanidad.                       |
-| #iojanan_9_39           | ויאמר ישוע אני לדין באתי בארץ למען העורים יהיו ראים והראים יהיו עורים                     | Para el procedimiento legal he venido a este olam, para que los que no ven, vean, y los que ven, se hagan ciegos.                                      | El episodio introduce el juicio: los ciegos ven y los que dicen ver quedan en pecado.          |
-| #iojanan_9_41           | ויאמר אליהם ישוע לו עורים הייתם לאהיה בכם עון אבל אתם אמרים כי הנכם ראים לכן נמצא עון בכם | Si fueran ciegos, no tendrían pecado; pero ahora dicen: "Vemos", por eso, su pecado está sobre ustedes.                                                | La culpa queda sobre quienes se afirman como videntes mientras rechazan la señal.              |
-| #maasei_hashlijim_10_25 | ויהי כבוא פטרוס ויצא קרניליוס לקראתו ויפל לרגליו וישתחו                                   | — (sin TTH local)                                                                                                                                      | Cornelio se postra ante Pedro; contraste con #iojanan_9_38.                                    |
-| #maasei_hashlijim_10_26 | ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי                                              | — (sin TTH local)                                                                                                                                      | Pedro rechaza la postración: "yo también soy hombre".                                          |
-| #sodot_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים                                               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate, no sea que hagas esto!... Póstrate a Elohim                                                | El mensajero celestial rechaza postración hacia sí mismo.                                      |
-| #qorintiyim_alef_15_45  | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                               | — (sin TTH local)                                                                                                                                      | Primer Adam nefesh viviente; último Adam espíritu vivificante.                                 |
-| #tehilim_49_8           | אח לא פדה יפדה איש לא יתן לאלהים כפרו                                                   | y costosa es la redención de la vida de ellos, y debe detenerse de intentar para siempre,                                                              | OE v. 8; TTH v. 8 — un hombre no puede redimir a su hermano ante Elohim.                       |
-| #tehilim_115_17         | לא המתים יהללו יה ולא כל ירדי דומה                                                      | Los muertos no alabarán a Yah, ni ninguno de los que descienden al silencio.                                                                           | La muerte es silencio, no adoración activa ante יהוה.                                          |
+| #juan_9_24           | אז קראו שנית לעור הראה ויאמרו אליו שיםנא כבוד לאלהים אנחנו ידענו כיהאיש הזה חטא הוא       | Y llamaron por segunda vez al hombre que había sido ciego, y le dijeron: Pon ahora gloria a יהוה y dale confesión, sabemos que este hombre es pecador. | Los perushim apelan a dar gloria a יהוה mientras clasifican a Yeshúa como pecador.             |
+| #juan_9_34           | ויענו ויאמרו אליו הן בעון חוללת ואתה תלמד אתנו וידחפו אתו מעלפניהם                        | En pecados naciste todo tú, ¿y nos enseñas a nosotros? Y lo echaron afuera.                                                                            | La expulsión funciona como cierre del interrogatorio fallido.                                  |
+| #juan_9_35           | התאמין בבןהאלהים                                                                          | ¿Tú te afirmas en el Hijo de Elohim?                                                                                                                   | TTH y Delitzsch leen "Ben ha-Elohim", no "Ben ha-Adam" — diferencia textual frente a la clase. |
+| #juan_9_36           | ויען ויאמר ומי הואזה אדני ואאמין בו                                                       | ¿Quién es Este, Amo mío, para que me afirme en Él?                                                                                                     | La respuesta del ciego pide identificar al objeto de la fidelidad.                             |
+| #juan_9_37           | ויאמר אליו ישוע הלא ראית אתו והנה הוא המדבר אליך זה הוא                                   | Y tú lo has visto, y el que te habla es.                                                                                                               | La revelación es directa: el sanado ve al que antes no podía ver.                              |
+| #juan_9_38           | ויאמר הנני מאמין אדני וישתחו לו                                                           | Yo me afirmo, Adonai, y se le postró.                                                                                                                  | La afirmación y la postración son la conclusión narrativa de la sanidad.                       |
+| #juan_9_39           | ויאמר ישוע אני לדין באתי בארץ למען העורים יהיו ראים והראים יהיו עורים                     | Para el procedimiento legal he venido a este olam, para que los que no ven, vean, y los que ven, se hagan ciegos.                                      | El episodio introduce el juicio: los ciegos ven y los que dicen ver quedan en pecado.          |
+| #juan_9_41           | ויאמר אליהם ישוע לו עורים הייתם לאהיה בכם עון אבל אתם אמרים כי הנכם ראים לכן נמצא עון בכם | Si fueran ciegos, no tendrían pecado; pero ahora dicen: "Vemos", por eso, su pecado está sobre ustedes.                                                | La culpa queda sobre quienes se afirman como videntes mientras rechazan la señal.              |
+| #hechos_10_25 | ויהי כבוא פטרוס ויצא קרניליוס לקראתו ויפל לרגליו וישתחו                                   | — (sin TTH local)                                                                                                                                      | Cornelio se postra ante Pedro; contraste con #juan_9_38.                                    |
+| #hechos_10_26 | ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי                                              | — (sin TTH local)                                                                                                                                      | Pedro rechaza la postración: "yo también soy hombre".                                          |
+| #apocalipsis_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים                                               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate, no sea que hagas esto!... Póstrate a Elohim                                                | El mensajero celestial rechaza postración hacia sí mismo.                                      |
+| #1_corintios_15_45  | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                               | — (sin TTH local)                                                                                                                                      | Primer Adam nefesh viviente; último Adam espíritu vivificante.                                 |
+| #salmos_49_8           | אח לא פדה יפדה איש לא יתן לאלהים כפרו                                                   | y costosa es la redención de la vida de ellos, y debe detenerse de intentar para siempre,                                                              | OE v. 8; TTH v. 8 — un hombre no puede redimir a su hermano ante Elohim.                       |
+| #salmos_115_17         | לא המתים יהללו יה ולא כל ירדי דומה                                                      | Los muertos no alabarán a Yah, ni ninguno de los que descienden al silencio.                                                                           | La muerte es silencio, no adoración activa ante יהוה.                                          |
 
 ## Hoja léxica
 
 | Término                 | Transliteración      | Sentido en la nota           | Raíz o base | Observación                                                                                                                                                                           |
 | ----------------------- | -------------------- | ---------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **(בן אדם)**            | ben adam / bar enash | hijo de hombre, humano       | בן + אדם    | En Yejezkel: condición profética mortal (#iejezkel_2_1). En la clase: título mesiánico = portador del Adam celestial — analogía pedagógica, no equivalencia automática con el griego. |
-| **(υἱὸς τοῦ ἀνθρώπου)** | huios tou anthrōpou  | Hijo del Hombre              | —           | La clase propone leerlo frente a Adam corruptible/celestial; cotejar aparato de #iojanan_9_35 (TTH/Delitzsch leen Ben ha-Elohim).                                                     |
-| **(πιστεύω)**           | pisteuo              | afirmarse, exhibir fidelidad | πιστ-       | #iojanan_9_35-38: `pisteuo` + postración; cotejar con אמן, no asumir "creer" emocional.                                                                                               |
+| **(בן אדם)**            | ben adam / bar enash | hijo de hombre, humano       | בן + אדם    | En Yejezkel: condición profética mortal (#ezequiel_2_1). En la clase: título mesiánico = portador del Adam celestial — analogía pedagógica, no equivalencia automática con el griego. |
+| **(υἱὸς τοῦ ἀνθρώπου)** | huios tou anthrōpou  | Hijo del Hombre              | —           | La clase propone leerlo frente a Adam corruptible/celestial; cotejar aparato de #juan_9_35 (TTH/Delitzsch leen Ben ha-Elohim).                                                     |
+| **(πιστεύω)**           | pisteuo              | afirmarse, exhibir fidelidad | πιστ-       | #juan_9_35-38: `pisteuo` + postración; cotejar con אמן, no asumir "creer" emocional.                                                                                               |
 | **(השתחוה)**            | hishtachavah         | postrarse, inclinarse        | שחה         | Yeshúa acepta la postración del ciego; Pedro y el mensajero la rechazan — argumento de identidad.                                                                                     |
-| **(אדם)**               | adam                 | humanidad, Adam              | אדם         | Distinción Adam terrenal (corrupción, muerte) y Adam celestial (#qorintiyim_alef_15_45-47).                                                                                           |
+| **(אדם)**               | adam                 | humanidad, Adam              | אדם         | Distinción Adam terrenal (corrupción, muerte) y Adam celestial (#1_corintios_15_45-47).                                                                                           |
 | **(נפש)**               | nefesh               | vida, alma viviente          | נפש         | Primer Adam "לנפש חיה"; la redención excede la condición nefesh ordinaria.                                                                                                            |
-| **(בן האלהים)**         | ben ha-Elohim        | Hijo de Elohim               | בן + אלהים  | Lectura textual local en #iojanan_9_35; la clase trabaja "Ben Adam" como tesis interpretativa del video.                                                                              |
+| **(בן האלהים)**         | ben ha-Elohim        | Hijo de Elohim               | בן + אלהים  | Lectura textual local en #juan_9_35; la clase trabaja "Ben Adam" como tesis interpretativa del video.                                                                              |
 
 ## Referencias judías y fuentes externas
 
 | Fuente             | Referencia                     | Uso en la nota                                                        | Estado                        |
 | ------------------ | ------------------------------ | --------------------------------------------------------------------- | ----------------------------- |
-| Tanaj (OE)         | #iejezkel_2_1, #iejezkel_2_3   | Uso profético de "ben adam" como mortal enviado                       | Cotejado                      |
-| Tanaj (OE)         | #tehilim_49_8, #tehilim_115_17 | Insuficiencia humana para redimir; silencio de los muertos            | Cotejado                      |
-| Tanaj (OE)         | #qohelet_3_19                  | Mortalidad compartida hombre/animal — כי מקרה בני האדם ומקרה הבהמה | Cotejado (OE directo)         |
+| Tanaj (OE)         | #ezequiel_2_1, #ezequiel_2_3   | Uso profético de "ben adam" como mortal enviado                       | Cotejado                      |
+| Tanaj (OE)         | #salmos_49_8, #salmos_115_17 | Insuficiencia humana para redimir; silencio de los muertos            | Cotejado                      |
+| Tanaj (OE)         | #eclesiastes_3_19                  | Mortalidad compartida hombre/animal — כי מקרה בני האדם ומקרה הבהמה | Cotejado (OE directo)         |
 | Contexto histórico | Yojanán post-70 EC             | Evangelio en disputa con líneas judías reorganizadas                  | Mención indirecta en la clase |
 | Daniel 7           | —                              | Conexión pendiente del título Ben Adam con trono, nubes y dominio     | Pendiente de verificar        |
-| Aparato textual    | #iojanan_9_35                  | Variante "Hijo del Hombre" frente a "Hijo de Elohim" en TTH/Delitzsch | Pendiente de verificar        |
+| Aparato textual    | #juan_9_35                  | Variante "Hijo del Hombre" frente a "Hijo de Elohim" en TTH/Delitzsch | Pendiente de verificar        |
 
 ## Mapa de la enseñanza de Eric
 
-Eric no trata la confesión final como una escena desconectada de la sanidad. En su exposición, la controversia de #iojanan_9_16-23 prepara el interrogatorio: unos perushim ven una infracción de shabat, otros preguntan cómo un pecador puede hacer tales señales, y los padres se retraen por temor a la expulsión. El texto local conserva las tres piezas: **ויש מריבה ביניהם** («hubo división entre ellos»), el interrogatorio a los padres y la razón de su respuesta: **כי יראו את היהודים** («porque temían a los judíos»). Así, la lectura de Eric sobre un testimonio costoso está apoyada por la secuencia, aunque la explicación histórica más amplia sobre la reorganización posterior al templo sigue siendo contexto interpretativo.
+Eric no trata la confesión final como una escena desconectada de la sanidad. En su exposición, la controversia de #juan_9_16-23 prepara el interrogatorio: unos perushim ven una infracción de shabat, otros preguntan cómo un pecador puede hacer tales señales, y los padres se retraen por temor a la expulsión. El texto local conserva las tres piezas: **ויש מריבה ביניהם** («hubo división entre ellos»), el interrogatorio a los padres y la razón de su respuesta: **כי יראו את היהודים** («porque temían a los judíos»). Así, la lectura de Eric sobre un testimonio costoso está apoyada por la secuencia, aunque la explicación histórica más amplia sobre la reorganización posterior al templo sigue siendo contexto interpretativo.
 
-En #iojanan_9_24-34, Eric recalca que el hombre no puede demostrar toda una doctrina ante sus interrogadores, pero sí puede mantener el hecho que conoce: **דבר אחד אני ידעתי כי עור הייתי ועתה אני ראה** («una cosa sé: que era ciego y ahora veo»). Los perushim vuelven a llamarlo, invocan «dar gloria a Elohim» y declaran pecador a Yehoshua; el hombre responde que precisamente una señal así no encaja con un pecador. El texto local respalda el movimiento argumental y termina con su expulsión, no con una victoria retórica de los interrogadores. La aplicación de Eric a quienes reclaman autoridad religiosa se desprende del relato, pero no convierte automáticamente a cada grupo contemporáneo en equivalente de los personajes.
+En #juan_9_24-34, Eric recalca que el hombre no puede demostrar toda una doctrina ante sus interrogadores, pero sí puede mantener el hecho que conoce: **דבר אחד אני ידעתי כי עור הייתי ועתה אני ראה** («una cosa sé: que era ciego y ahora veo»). Los perushim vuelven a llamarlo, invocan «dar gloria a Elohim» y declaran pecador a Yehoshua; el hombre responde que precisamente una señal así no encaja con un pecador. El texto local respalda el movimiento argumental y termina con su expulsión, no con una victoria retórica de los interrogadores. La aplicación de Eric a quienes reclaman autoridad religiosa se desprende del relato, pero no convierte automáticamente a cada grupo contemporáneo en equivalente de los personajes.
 
-El giro de #iojanan_9_35-38 es, para Eric, la búsqueda deliberada de Yehoshua: después de la expulsión, no abandona al testigo, sino que pregunta por su fidelidad y se identifica como aquel que habla con él. La nota debe conservar la diferencia textual: Delitzsch ofrece **התאמין בבן האלהים** («¿te afirmas en el Hijo de Elohim?»), mientras el aparato griego conocido para este versículo se discute en la clase como «Hijo del Hombre / Ben Adam». La observación de Eric sobre el título puede exponerse, pero no puede presentarse como si la lectura hebrea local dijera Ben Adam. Sí queda explícito que el hombre responde **הנני מאמין אדני וישתחו לו**: «me afirmo, Adonai, y se postró ante él».
+El giro de #juan_9_35-38 es, para Eric, la búsqueda deliberada de Yehoshua: después de la expulsión, no abandona al testigo, sino que pregunta por su fidelidad y se identifica como aquel que habla con él. La nota debe conservar la diferencia textual: Delitzsch ofrece **התאמין בבן האלהים** («¿te afirmas en el Hijo de Elohim?»), mientras el aparato griego conocido para este versículo se discute en la clase como «Hijo del Hombre / Ben Adam». La observación de Eric sobre el título puede exponerse, pero no puede presentarse como si la lectura hebrea local dijera Ben Adam. Sí queda explícito que el hombre responde **הנני מאמין אדני וישתחו לו**: «me afirmo, Adonai, y se postró ante él».
 
-Finalmente, en #iojanan_9_39-41 Eric lee la vista y la ceguera como juicio revelado por la señal. Yehoshua declara que vino para que los que no ven vean y los que ven sean ciegos; los perushim preguntan si también ellos son ciegos, y la respuesta los deja responsables porque dicen «vemos». El texto local sostiene la inversión y la responsabilidad: **ואתם אמרים כי הנכם ראים לכן נמצא עון בכם** («ustedes dicen: vemos; por eso su pecado permanece en ustedes»). La comparación de Eric con Cornelio y con el mensajero de Apocalipsis ilumina por contraste la postración de 9:38, pero es una inferencia canónica: el pasaje de Yojanán no formula por sí solo una regla abstracta sobre toda postración.
+Finalmente, en #juan_9_39-41 Eric lee la vista y la ceguera como juicio revelado por la señal. Yehoshua declara que vino para que los que no ven vean y los que ven sean ciegos; los perushim preguntan si también ellos son ciegos, y la respuesta los deja responsables porque dicen «vemos». El texto local sostiene la inversión y la responsabilidad: **ואתם אמרים כי הנכם ראים לכן נמצא עון בכם** («ustedes dicen: vemos; por eso su pecado permanece en ustedes»). La comparación de Eric con Cornelio y con el mensajero de Apocalipsis ilumina por contraste la postración de 9:38, pero es una inferencia canónica: el pasaje de Yojanán no formula por sí solo una regla abstracta sobre toda postración.
 
 | Unidad textual | Observación concreta atribuida a Eric | Prueba en el texto local |
 | --- | --- | --- |
-| #iojanan_9_16-23 | La señal provoca división; los padres no niegan la sanidad, pero hablan con cautela por temor a la expulsión. | **ויש מריבה ביניהם** y **כי יראו את היהודים** sostienen división y temor; la reconstrucción histórica posterior al 70 es contextual. |
-| #iojanan_9_24-34 | El ciego se aferra al testimonio verificable de que ahora ve y muestra que la señal contradice la acusación simple de pecado. | **דבר אחד אני ידעתי כי עור הייתי ועתה אני ראה** y el relato del interrogatorio respaldan su respuesta; la aplicación pastoral es inferida. |
-| #iojanan_9_35-38 | Yehoshua busca al expulsado, le revela su identidad y recibe su afirmación y postración; Eric lo conecta con Ben Adam y con el Adam celestial. | La búsqueda, la autoidentificación y **וישתחו לו** son explícitas. «Ben Adam» frente a **בן האלהים** es una cuestión textual y la conexión con 1 Corintios 15 es interpretativa. |
-| #iojanan_9_39-41 | La señal se convierte en juicio: el que reconoce su necesidad ve, mientras quienes dicen ver quedan responsables. | La inversión de ver/ceguera y **נמצא עון בכם** aparecen en vv. 39-41; la comparación con otras postraciones es intertextual. |
+| #juan_9_16-23 | La señal provoca división; los padres no niegan la sanidad, pero hablan con cautela por temor a la expulsión. | **ויש מריבה ביניהם** y **כי יראו את היהודים** sostienen división y temor; la reconstrucción histórica posterior al 70 es contextual. |
+| #juan_9_24-34 | El ciego se aferra al testimonio verificable de que ahora ve y muestra que la señal contradice la acusación simple de pecado. | **דבר אחד אני ידעתי כי עור הייתי ועתה אני ראה** y el relato del interrogatorio respaldan su respuesta; la aplicación pastoral es inferida. |
+| #juan_9_35-38 | Yehoshua busca al expulsado, le revela su identidad y recibe su afirmación y postración; Eric lo conecta con Ben Adam y con el Adam celestial. | La búsqueda, la autoidentificación y **וישתחו לו** son explícitas. «Ben Adam» frente a **בן האלהים** es una cuestión textual y la conexión con 1 Corintios 15 es interpretativa. |
+| #juan_9_39-41 | La señal se convierte en juicio: el que reconoce su necesidad ve, mientras quienes dicen ver quedan responsables. | La inversión de ver/ceguera y **נמצא עון בכם** aparecen en vv. 39-41; la comparación con otras postraciones es intertextual. |
 
 ## Ben Adam y Adam
 
@@ -146,8 +145,8 @@ La clase distingue entre "ben Adam" como hijo de Adam corruptible y el uso mesi�
 
 | Referencia    | Hebreo local                                            | Función                                                                   |
 | ------------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
-| #iejezkel_2_1 | OE: "ויאמר אלי בן אדם עמד על רגליך ואדבר אתך"      | Yejezkel es llamado "ben Adam" dentro de su condición profética y mortal. |
-| #iejezkel_2_3 | OE: "ויאמר אלי בן אדם שולח אני אותך אל בני ישראל..." | El profeta es enviado a Israel como hijo de Adam entre hijos rebeldes.    |
+| #ezequiel_2_1 | OE: "ויאמר אלי בן אדם עמד על רגליך ואדבר אתך"      | Yejezkel es llamado "ben Adam" dentro de su condición profética y mortal. |
+| #ezequiel_2_3 | OE: "ויאמר אלי בן אדם שולח אני אותך אל בני ישראל..." | El profeta es enviado a Israel como hijo de Adam entre hijos rebeldes.    |
 
 La lectura propuesta en la clase no niega ese uso común. Más bien lo usa como contraste: si todo hijo de Adam hereda corrupción, debilidad y muerte, entonces el Mesías no puede ser explicado como un simple hijo de Adam en la misma línea corruptible.
 
@@ -158,12 +157,12 @@ La clase apoya la distinción en Romanos 5 y 1 Corintios 15:
 | Referencia             | Texto local                                                                     | Conexión                                               |
 | ---------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | #romanos_5_12          | TTH: "como el pecado entró al olam por un hombre, y por el pecado la muerte..." | El pecado y la muerte entran por Adam y pasan a todos. |
-| #qorintiyim_alef_15_42 | וכן תחית המתים הזריעה לכליון והתקומה לחיי עד                                    | — (sin TTH local)                                      | La resurrección contrapone siembra corruptible y levantamiento para vida.             |
-| #qorintiyim_alef_15_43 | יזרע בבזיון ויקום בכבוד יזרע בחלשה ויקום בגבורה                                 | — (sin TTH local)                                      | La clase resalta deshonra, debilidad y gloria como categorías de la condición humana. |
-| #qorintiyim_alef_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                     | — (sin TTH local)                                      | El primer Adam es nefesh viviente; el último Adam es espíritu vivificante.            |
-| #qorintiyim_alef_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים                      | — (sin TTH local)                                      | El primer Adam es de la tierra; el segundo, del cielo.                                |
-| #qorintiyim_alef_15_49 | וכאשר לבשנו צלם האדם שהוא שלעפר כן נלבש גםצלם האדם שהוא שלהשמים                 | — (sin TTH local)                                      | La esperanza es portar la imagen del celestial, no quedar en la imagen del terrenal.  |
-| #kefa_alef_1_23        | כנולדים שנית לא מזרע נשחת כי אםמזרע לא ישחת במאמר שלאלהים החי והקים לעולם       | — (sin TTH local)                                      | La clase vincula la vida nueva con semilla incorruptible.                             |
+| #1_corintios_15_42 | וכן תחית המתים הזריעה לכליון והתקומה לחיי עד                                    | — (sin TTH local)                                      | La resurrección contrapone siembra corruptible y levantamiento para vida.             |
+| #1_corintios_15_43 | יזרע בבזיון ויקום בכבוד יזרע בחלשה ויקום בגבורה                                 | — (sin TTH local)                                      | La clase resalta deshonra, debilidad y gloria como categorías de la condición humana. |
+| #1_corintios_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                     | — (sin TTH local)                                      | El primer Adam es nefesh viviente; el último Adam es espíritu vivificante.            |
+| #1_corintios_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים                      | — (sin TTH local)                                      | El primer Adam es de la tierra; el segundo, del cielo.                                |
+| #1_corintios_15_49 | וכאשר לבשנו צלם האדם שהוא שלעפר כן נלבש גםצלם האדם שהוא שלהשמים                 | — (sin TTH local)                                      | La esperanza es portar la imagen del celestial, no quedar en la imagen del terrenal.  |
+| #1_pedro_1_23        | כנולדים שנית לא מזרע נשחת כי אםמזרע לא ישחת במאמר שלאלהים החי והקים לעולם       | — (sin TTH local)                                      | La clase vincula la vida nueva con semilla incorruptible.                             |
 
 Desde esa línea, "Ben Adam" aplicado a Yeshúa no debería rebajarse a "un humano cualquiera". La clase propone oírlo como "portador de aquel Adam", el Adam de arriba, incorruptible y celestial. Esta formulación necesita seguir cotejándose con los textos griegos y hebreos, pero funciona como tesis interpretativa del video.
 
@@ -173,22 +172,22 @@ El argumento también descarta que un Adam corruptible pueda pagar por todos. La
 
 | Referencia      | Texto local                                        | Observación                                                                         |
 | --------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| #tehilim_49_8   | אח לא פדה יפדה איש לא יתן לאלהים כפרו            | y costosa es la redención de la vida de ellos...                                    | Un hombre no puede redimir a su hermano ante Elohim.            |
-| #qohelet_3_19   | כי מקרה בני האדם ומקרה הבהמה ומקרה אחד להם... | — (sin TTH local)                                                                   | La clase usa este marco para subrayar la mortalidad compartida. |
-| #tehilim_115_17 | OE: "לא המתים יהללו יה ולא כל ירדי דומה"         | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
+| #salmos_49_8   | אח לא פדה יפדה איש לא יתן לאלהים כפרו            | y costosa es la redención de la vida de ellos...                                    | Un hombre no puede redimir a su hermano ante Elohim.            |
+| #eclesiastes_3_19   | כי מקרה בני האדם ומקרה הבהמה ומקרה אחד להם... | — (sin TTH local)                                                                   | La clase usa este marco para subrayar la mortalidad compartida. |
+| #salmos_115_17 | OE: "לא המתים יהללו יה ולא כל ירדי דומה"         | La muerte se presenta como silencio, no como adoración activa en presencia de יהוה. |
 
 La conclusión del video es que si el Mesías fuera solo un ben Adam corruptible, no tendría mérito suficiente para redimir. Por eso la identidad del Mesías debe leerse desde el Adam celestial y desde la revelación de Elohim, no desde una humanidad pecaminosa común.
 
 ## Postración aceptada y postración rechazada
 
-La escena de #iojanan_9_38 se interpreta por contraste. Cuando Cornelio se postra ante Pedro, Pedro lo levanta. Cuando Yojanan se postra ante el mensajero celestial, el mensajero lo prohíbe. En cambio, Yeshúa no corrige al ciego.
+La escena de #juan_9_38 se interpreta por contraste. Cuando Cornelio se postra ante Pedro, Pedro lo levanta. Cuando Yojanan se postra ante el mensajero celestial, el mensajero lo prohíbe. En cambio, Yeshúa no corrige al ciego.
 
 | Referencia              | Texto local                                               | Respuesta                                                                        |
 | ----------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| #iojanan_9_38           | TTH: "Yo me afirmo, Adonai, y se le postró."              | Yeshúa recibe la postración sin corregir al hombre.                              |
-| #maasei_hashlijim_10_25 | Delitzsch: "ויצא קרניליוס לקראתו ויפל לרגליו וישתחו"      | Cornelio cae a los pies de Pedro y se postra.                                    |
-| #maasei_hashlijim_10_26 | Delitzsch: "ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי" | Pedro lo levanta y declara que él también es hombre.                             |
-| #sodot_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate!... Póstrate a Elohim | El mensajero rechaza la postración y manda postrarse ante Elohim. |
+| #juan_9_38           | TTH: "Yo me afirmo, Adonai, y se le postró."              | Yeshúa recibe la postración sin corregir al hombre.                              |
+| #hechos_10_25 | Delitzsch: "ויצא קרניליוס לקראתו ויפל לרגליו וישתחו"      | Cornelio cae a los pies de Pedro y se postra.                                    |
+| #hechos_10_26 | Delitzsch: "ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי" | Pedro lo levanta y declara que él también es hombre.                             |
+| #apocalipsis_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate!... Póstrate a Elohim | El mensajero rechaza la postración y manda postrarse ante Elohim. |
 
 La clase usa esta comparación para sostener que Yeshúa no se comporta como un simple enviado creado. Si fuera solo un siervo, tendría que rechazar la postración como Pedro o como el mensajero de Jizayon. La aceptación de la postración se vuelve parte del testimonio de Yojanan sobre la identidad de Yeshúa.
 
@@ -200,7 +199,7 @@ Esta lectura ayuda a explicar por qué el relato del ciego no termina solo en un
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el aparato textual de #iojanan_9_35: el video desarrolla "Hijo del Hombre / Ben Adam", mientras TTH y Delitzsch locales reflejan "Hijo de Elohim".
+- [ ] Cotejar el aparato textual de #juan_9_35: el video desarrolla "Hijo del Hombre / Ben Adam", mientras TTH y Delitzsch locales reflejan "Hijo de Elohim".
 - [ ] Revisar con el texto griego la relación entre `pisteuo eis` y la formulación española "afirmarse en / exhibir fidelidad en función de".
 - [ ] Ampliar la conexión con Daniel 7 si una clase posterior desarrolla el título "Ben Adam" desde el trono, las nubes y el dominio.
 - [ ] Verificar equivalencia pedagógica ben adam / bar enash frente a `huios tou anthrōpou` sin cerrar como lexicografía definitiva.
@@ -215,13 +214,13 @@ Esta lectura ayuda a explicar por qué el relato del ciego no termina solo en un
 
 ## Conclusión
 
-La clase presenta #iojanan_9_35-38 como una escena de identificación mesiánica fuerte: Yeshúa no solo sana al ciego, sino que recibe la fidelidad y la postración del hombre sanado. La diferencia entre Adam corruptible y Adam celestial sostiene el argumento de que el Mesías no puede reducirse a un hombre ordinario ni a un enviado separado de la gloria de יהוה.
+La clase presenta #juan_9_35-38 como una escena de identificación mesiánica fuerte: Yeshúa no solo sana al ciego, sino que recibe la fidelidad y la postración del hombre sanado. La diferencia entre Adam corruptible y Adam celestial sostiene el argumento de que el Mesías no puede reducirse a un hombre ordinario ni a un enviado separado de la gloria de יהוה.
 
 La sanidad abre los ojos; la revelación exige una respuesta. En el relato, el ciego ve mejor que quienes decían saber, porque reconoce en Yeshúa al que puede recibir la fidelidad que pertenece a Elohim.
 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=-W2giXMqvUE> — source_id: `youtube:-W2giXMqvUE`.
-- Video: <https://www.youtube.com/watch?v=QZFKS6icUiU> — source_id: `youtube:QZFKS6icUiU`.
+- Video: <https://www.youtube.com/watch?v=-W2giXMqvUE> — `source_id`: `youtube:-W2giXMqvUE`.
+- Video: <https://www.youtube.com/watch?v=QZFKS6icUiU> — `source_id`: `youtube:QZFKS6icUiU`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

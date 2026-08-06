@@ -11,15 +11,15 @@ tags:
   - herencia
   - mesias
 references:
-  - "#galatians_3_22"
-  - "#galatians_3_23"
-  - "#galatians_3_24"
-  - "#galatians_3_25"
-  - "#galatians_3_26"
-  - "#galatians_3_27"
-  - "#galatians_3_28"
-  - "#galatians_3_29"
-  - "#jeremiah_31_33"
+  - "#galatas_3_22"
+  - "#galatas_3_23"
+  - "#galatas_3_24"
+  - "#galatas_3_25"
+  - "#galatas_3_26"
+  - "#galatas_3_27"
+  - "#galatas_3_28"
+  - "#galatas_3_29"
+  - "#jeremias_31_33"
 sources:
   - "https://www.youtube.com/watch?v=O3PzUB3Il_k"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -40,10 +40,10 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | Estábamos BAJO SE
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatians_3_22 | **אבל הכתוב הסגיר את־הכל ביד החטא למען תנתן ההבטחה אל־המאמינים באמונת ישוע המשיח׃** | La Escritura encierra todo bajo el pecado para que la promesa llegue a quienes confían en Yehoshua el Mesías. |
-| #galatians_3_23-24 | **ולפני בוא האמונה שמורים וסגורים היינו תחת התורה אלי האמונה העתידה להגלות׃ ובכן התורה היתה אמנת אותנו למשיח למען נצדק באמונה׃** | La Torá aparece como custodia y guía hacia el Mesías, no como la fuente final de justificación. |
-| #galatians_3_25-27 | **אבל עתה אחרי אשר באה האמונה איננו עוד תחת יד האמן׃ כי־אתם כלכם בני אלהים על־ידי האמונה במשיח ישוע׃ כי כלכם אשר למשיח נטבלתם לבשתם את־המשיח׃** | La venida de la fidelidad cambia la condición del creyente: de niño bajo tutor a hijo vestido del Mesías. |
-| #galatians_3_28-29 | **ואין עוד יהודי ולא־יוני אין עבד ולא בן־חורין אין זכר ולא נקבה כי כלכם אחד אתם במשיח ישוע׃ ואם־למשיח אתם הנכם זרע אברהם ויורשים כפי ההבטחה׃** | La unidad en el Mesías define la pertenencia a la simiente y a la herencia prometida. |
+| #galatas_3_22 | **אבל הכתוב הסגיר את־הכל ביד החטא למען תנתן ההבטחה אל־המאמינים באמונת ישוע המשיח׃** | La Escritura encierra todo bajo el pecado para que la promesa llegue a quienes confían en Yehoshua el Mesías. |
+| #galatas_3_23-24 | **ולפני בוא האמונה שמורים וסגורים היינו תחת התורה אלי האמונה העתידה להגלות׃ ובכן התורה היתה אמנת אותנו למשיח למען נצדק באמונה׃** | La Torá aparece como custodia y guía hacia el Mesías, no como la fuente final de justificación. |
+| #galatas_3_25-27 | **אבל עתה אחרי אשר באה האמונה איננו עוד תחת יד האמן׃ כי־אתם כלכם בני אלהים על־ידי האמונה במשיח ישוע׃ כי כלכם אשר למשיח נטבלתם לבשתם את־המשיח׃** | La venida de la fidelidad cambia la condición del creyente: de niño bajo tutor a hijo vestido del Mesías. |
+| #galatas_3_28-29 | **ואין עוד יהודי ולא־יוני אין עבד ולא בן־חורין אין זכר ולא נקבה כי כלכם אחד אתם במשיח ישוע׃ ואם־למשיח אתם הנכם זרע אברהם ויורשים כפי ההבטחה׃** | La unidad en el Mesías define la pertenencia a la simiente y a la herencia prometida. |
 
 ## Del confinamiento bajo pecado a la promesa
 
@@ -81,10 +81,10 @@ El cierre es decisivo: si pertenecen al Mesías, son simiente de Abraham y hered
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_3_22-23 | La Escritura encierra bajo pecado y «bajo ley» describe una sentencia, no una condena contra la Torá. | Apoyo textual para el confinamiento; diferencia gramatical y alcance doctrinal quedan cualificados. |
-| #galatians_3_24 | La Torá es _paidagōgos_ / _omenet_, una criadora o guía que conduce al Mesías. | Apoyo directo para la función pedagógica; la equivalencia léxica entre griego y hebreo se marca como funcional. |
-| #galatians_3_25-26; #jeremiah_31_33 | La madurez en la fidelidad lleva la Torá al corazón y produce filiación. | Conexión canónica cualificada: Jeremías ilumina el tema, sin sustituir el argumento de Gálatas. |
-| #galatians_3_27-29 | Vestirse del Mesías elimina barreras de origen y hace herederos de la promesa a los que pertenecen a él. | Apoyo directo del texto; las aplicaciones contemporáneas no se presentan como una cita de la clase. |
+| #galatas_3_22-23 | La Escritura encierra bajo pecado y «bajo ley» describe una sentencia, no una condena contra la Torá. | Apoyo textual para el confinamiento; diferencia gramatical y alcance doctrinal quedan cualificados. |
+| #galatas_3_24 | La Torá es _paidagōgos_ / _omenet_, una criadora o guía que conduce al Mesías. | Apoyo directo para la función pedagógica; la equivalencia léxica entre griego y hebreo se marca como funcional. |
+| #galatas_3_25-26; #jeremias_31_33 | La madurez en la fidelidad lleva la Torá al corazón y produce filiación. | Conexión canónica cualificada: Jeremías ilumina el tema, sin sustituir el argumento de Gálatas. |
+| #galatas_3_27-29 | Vestirse del Mesías elimina barreras de origen y hace herederos de la promesa a los que pertenecen a él. | Apoyo directo del texto; las aplicaciones contemporáneas no se presentan como una cita de la clase. |
 
 ## Pendiente de verificar
 

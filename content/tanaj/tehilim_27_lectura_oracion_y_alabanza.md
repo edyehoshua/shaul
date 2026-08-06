@@ -9,15 +9,15 @@ tags:
   - luz
   - confianza
 references:
-  - "#tehilim_27_1"
-  - "#tehilim_27_3"
-  - "#tehilim_27_4"
-  - "#tehilim_27_5"
-  - "#tehilim_27_6"
-  - "#tehilim_27_7"
-  - "#tehilim_27_10"
-  - "#tehilim_27_13"
-  - "#tehilim_27_14"
+  - "#salmos_27_1"
+  - "#salmos_27_3"
+  - "#salmos_27_4"
+  - "#salmos_27_5"
+  - "#salmos_27_6"
+  - "#salmos_27_7"
+  - "#salmos_27_10"
+  - "#salmos_27_13"
+  - "#salmos_27_14"
 sources:
   - "https://www.youtube.com/watch?v=S5HYire36z8"
   - "docs/scriptures/oe/json/psalms/27.json"
@@ -45,7 +45,7 @@ La transcripción automática orienta la atribución, pero no se presenta como c
 | 27:11-12 | הורני יהוה דרכך ונחני בארח מישור למען שוררי; אל תתנני בנפש צרי כי קמו בי עדי שקר ויפח חמס                                                                                                                             | El camino enseñado y llano protege frente a testigos falsos y violencia.                                                |
 | 27:13-14 | לולא האמנתי לראות בטוב יהוה בארץ חיים; קוה אל יהוה חזק ויאמץ לבך וקוה אל יהוה                                                                                                                                         | La esperanza de ver el bien en la tierra de los vivientes desemboca en esperar activamente.                             |
 
-## 27:1-3 — luz, salvación y confianza durante la guerra
+## 27:1-3 — luz, salvación y confianza durante la guerra #salmos_27_1-3
 
 Eric parte del encabezado “para David” y distingue al David histórico del David profético o espiritual. Su primera insistencia es que el contexto histórico importa: el salmo no nació ya dividido en capítulos y versículos, y pudo estar relacionado con la composición anterior. Esa observación editorial es prudente, pero no se puede demostrar solo por 27:1.
 
@@ -55,7 +55,7 @@ El salmista pregunta “¿de quién temeré?” y “¿de quién tendré miedo?�
 
 En 27:2-3 el enemigo crece de “malhechores que comen mi carne” a un campamento entero. Eric insiste que בטחתי, “confío”, no significa optimismo o relajación: significa continuar haciendo lo que יהוה ha mandado aun si se levanta una guerra. Usa el ejemplo de David frente a Goliat y la armadura que impedía caminar para explicar que la carne y sus defensas no deben reemplazar obediencia. El verso local afirma confianza en medio del cerco; Goliat y la aplicación a la obediencia son desarrollos pedagógicos.
 
-## 27:4-6 — una petición, hogar y cámara secreta
+## 27:4-6 — una petición, hogar y cámara secreta #salmos_27_4-6
 
 Eric destaca la singularidad de “una cosa he pedido”. La meta no es primero escapar de los enemigos, sino לשבתי בבית יהוה, habitar en el hogar de יהוה todos los días. Lee בית como hogar y comunión, no como las cuatro paredes de un templo. Después vuelve a la historia del Mishkán: en la época de David había tienda y cortinas, y la tienda funcionaba como signo pedagógico de una presencia que יהוה quiere hacer morar en medio del pueblo. La afirmación histórica sobre el templo se mantiene como contexto bíblico general; la palabra בית del verso no debe traducirse automáticamente por un edificio específico.
 
@@ -65,7 +65,7 @@ El v. 5 despliega la protección: יהוה esconde al orante en su סכה, lo oc
 
 En 27:6 la cabeza se eleva sobre los enemigos y el sacrificio se acompaña de תרועה. Eric corrige la reducción de תרועה a un simple ruido de shofar: la entiende como sacrificio que proclama el poder de la palabra de יהוה. Conecta esa confesión con “fruto de labios” de Hebreos. El texto sí junta sacrificio, sonido jubiloso, canto y salmo; la equivalencia completa con Hebreos es una conexión apostólica.
 
-## 27:7-10 — escuchar, buscar el rostro y ser recogido
+## 27:7-10 — escuchar, buscar el rostro y ser recogido #salmos_27_7-10
 
 El tono cambia a súplica: “escucha, יהוה, mi voz; clamo; ten gracia de mí y respóndeme”. Eric llama a esta secuencia un modelo de oración: no ordena a יהוה, sino que clama, pide חנן, “mostrar gracia”, y espera respuesta. La forma del verso permite esa lectura relacional y dependiente.
 
@@ -73,7 +73,7 @@ El tono cambia a súplica: “escucha, יהוה, mi voz; clamo; ten gracia de m�
 
 “No escondas tu rostro” y “no inclines con ira a tu siervo” forman la súplica de no ser rechazado. Eric observa que padre y madre en 27:10 pueden representar formas de afecto humano, incluso el amor condicional y el incondicional; aunque ambos abandonen, יהוה recoge. Isaías 49 y la experiencia familiar aparecen como conexiones, no como definiciones del verso. Lo textual es el contraste: aun ante el abandono de padre y madre, יהוה אוסף, “recoge” o recibe.
 
-## 27:11-14 — camino, testigos falsos y espera activa
+## 27:11-14 — camino, testigos falsos y espera activa #salmos_27_11-14
 
 “Enséñame tu camino y guíame por senda llana” recibe de Eric una lectura práctica: no basta conocer misterios; se empieza obedeciendo lo poco que יהוה manda y así se aprende a resistir pruebas mayores. El local vincula הורני, “enséñame”, con דרך, “camino”, y ארח מישור, “senda llana”. La aplicación progresiva es pastoral, mientras que la petición de guía es explícita.
 

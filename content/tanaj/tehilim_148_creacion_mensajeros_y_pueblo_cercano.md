@@ -9,23 +9,23 @@ tags:
   - mensajeros
   - pueblo
 references:
-  - "#tehilim_148_1"
-  - "#tehilim_148_2"
-  - "#tehilim_148_3"
-  - "#tehilim_148_4"
-  - "#tehilim_148_5"
-  - "#tehilim_148_6"
-  - "#tehilim_148_7"
-  - "#tehilim_148_8"
-  - "#tehilim_148_9"
-  - "#tehilim_148_10"
-  - "#tehilim_148_11"
-  - "#tehilim_148_12"
-  - "#tehilim_148_13"
-  - "#tehilim_148_14"
-  - "#tehilim_104_4"
-  - "#bereshit_1_14-18"
-  - "#ieshaiahu_45_12"
+  - "#salmos_148_1"
+  - "#salmos_148_2"
+  - "#salmos_148_3"
+  - "#salmos_148_4"
+  - "#salmos_148_5"
+  - "#salmos_148_6"
+  - "#salmos_148_7"
+  - "#salmos_148_8"
+  - "#salmos_148_9"
+  - "#salmos_148_10"
+  - "#salmos_148_11"
+  - "#salmos_148_12"
+  - "#salmos_148_13"
+  - "#salmos_148_14"
+  - "#salmos_104_4"
+  - "#genesis_1_14-18"
+  - "#isaias_45_12"
   - "#filipenses_2_9-11"
   - "#romanos_1_19-20"
 sources:
@@ -49,14 +49,14 @@ Se recorren los catorce versos en orden, distinguiendo observaciones de estructu
 
 | Unidad             | Texto hebreo local normalizado                                                                                   | TTH local (resumen fiel)                                                                                           |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| #tehilim_148_1-2   | **הללו יה הללו את יהוה מן השמים הללוהו במרומים / הללוהו כל מלאכיו הללוהו כל צבאו**                               | Alaben a יהוה desde cielos y alturas; todos sus mensajeros y su ejército.                                          |
-| #tehilim_148_3-4   | **הללוהו שמש וירח הללוהו כל כוכבי אור / הללוהו שמי השמים והמים אשר מעל השמים**                                   | Sol, luna, estrellas, cielos de los cielos y aguas sobre ellos.                                                    |
-| #tehilim_148_5-6   | **יהללו את שם יהוה כי הוא צוה ונבראו / ויעמידם לעד לעולם חק נתן ולא יעבור**                                      | Alaben su Nombre: ordenó y fueron creados; los estableció perpetuamente con estatuto que no pasa.                  |
-| #tehilim_148_7-10  | **הללו את יהוה מן הארץ תנינים וכל תהמות / אש וברד שלג וקיטור רוח סערה עשה דברו ... החיה וכל בהמה רמש וצפור כנף** | Desde la tierra: abismos, fuego, granizo, nieve, niebla, viento, montes, árboles, animales y aves.                 |
-| #tehilim_148_11-12 | **מלכי ארץ וכל לאמים שרים וכל שפטי ארץ / בחורים וגם בתולות זקנים עם נערים**                                      | Reyes, pueblos, príncipes, jueces, jóvenes, vírgenes, ancianos y niños.                                            |
-| #tehilim_148_13-14 | **יהללו את שם יהוה כי נשגב שמו לבדו הודו על ארץ ושמים / וירם קרן לעמו תהלה לכל חסידיו לבני ישראל עם קרבו**       | Su Nombre es excelso; eleva el cuerno de su pueblo, alabanza de sus benevolentes, hijos de Israel, pueblo cercano. |
+| #salmos_148_1-2   | **הללו יה הללו את יהוה מן השמים הללוהו במרומים / הללוהו כל מלאכיו הללוהו כל צבאו**                               | Alaben a יהוה desde cielos y alturas; todos sus mensajeros y su ejército.                                          |
+| #salmos_148_3-4   | **הללוהו שמש וירח הללוהו כל כוכבי אור / הללוהו שמי השמים והמים אשר מעל השמים**                                   | Sol, luna, estrellas, cielos de los cielos y aguas sobre ellos.                                                    |
+| #salmos_148_5-6   | **יהללו את שם יהוה כי הוא צוה ונבראו / ויעמידם לעד לעולם חק נתן ולא יעבור**                                      | Alaben su Nombre: ordenó y fueron creados; los estableció perpetuamente con estatuto que no pasa.                  |
+| #salmos_148_7-10  | **הללו את יהוה מן הארץ תנינים וכל תהמות / אש וברד שלג וקיטור רוח סערה עשה דברו ... החיה וכל בהמה רמש וצפור כנף** | Desde la tierra: abismos, fuego, granizo, nieve, niebla, viento, montes, árboles, animales y aves.                 |
+| #salmos_148_11-12 | **מלכי ארץ וכל לאמים שרים וכל שפטי ארץ / בחורים וגם בתולות זקנים עם נערים**                                      | Reyes, pueblos, príncipes, jueces, jóvenes, vírgenes, ancianos y niños.                                            |
+| #salmos_148_13-14 | **יהללו את שם יהוה כי נשגב שמו לבדו הודו על ארץ ושמים / וירם קרן לעמו תהלה לכל חסידיו לבני ישראל עם קרבו**       | Su Nombre es excelso; eleva el cuerno de su pueblo, alabanza de sus benevolentes, hijos de Israel, pueblo cercano. |
 
-## El quiasmo: de los cielos a la tierra — Tehilim 148:1-6
+## El quiasmo: de los cielos a la tierra — Tehilim 148:1-6 #salmos_148_1-6
 
 Eric abre explicando **quiasmo**: una composición en la que la primera idea guarda relación con la última, ya sea por repetición o contraste. En este salmo propone que los vv. 1-6 apelan a los cielos y los vv. 7-14 a la tierra; dentro de la primera mitad se desciende desde las alturas hasta los astros y las aguas. La descripción «reloj de arena» es una herramienta de lectura, no un dato que el salmo nombre. Conviene conservarla como observación estructural calificada: la frontera entre secciones es clara por la repetición de «desde los cielos»/«desde la tierra», aunque no todas las correspondencias propuestas son demostrables.
 
@@ -64,7 +64,7 @@ Los vv. 1-2 convocan a **מרומים** (_meromim_, alturas), **מלאכים** (
 
 Eric insiste en que todo **מלאך** es criatura y no יהוה. El v. 5 confirma la distinción: «Él ordenó y fueron creados». La conexión con Hebreos y con la confesión de la deidad de Yehoshua es teológica y canónica; el verso de este salmo sí establece que los convocados fueron creados por mandato de יהוה. El v. 6 añade **חק** (_joq_, estatuto, límite o decreto): los estableció para siempre y su norma no pasará. «Norma que no puede degradarse» expresa la aplicación de Eric, pero el sentido directo es permanencia del orden establecido.
 
-## Sol, luna, estrellas y aguas que anuncian — Tehilim 148:3-6
+## Sol, luna, estrellas y aguas que anuncian — Tehilim 148:3-6 #salmos_148_3-6
 
 En el v. 3 el sol, la luna y las estrellas de luz reciben el imperativo de alabar. Eric relaciona esos astros con las señales que gobiernan tiempos y convocaciones según Bereshit 1:14-18, y con la estabilidad de los ciclos. El salmo no desarrolla un calendario, pero sí vincula la alabanza con un orden cósmico que יהוה puso. La observación de que los astros «comunican» un mensaje es una aplicación de **מלאך** como agente; no debe confundirse con afirmar que cada fenómeno tenga voz personal.
 
@@ -72,7 +72,7 @@ Eric usa la luna como imagen pedagógica de una luz que crece hacia plenitud y r
 
 El v. 5 vuelve a la razón: «porque él ordenó y fueron creados». Eric usa este verbo para defender que agentes, astros y fenómenos no son divinos. Los signos pueden manifestar presencia o ejecutar propósito, pero no son la esencia de יהוה. Esa distinción puede probarse por el contraste entre el Creador y lo creado, y protege el salmo de convertir la creación en objeto de adoración.
 
-## La tierra obedece: profundidad, clima y vida — Tehilim 148:7-10
+## La tierra obedece: profundidad, clima y vida — Tehilim 148:7-10 #salmos_148_7-10
 
 La segunda mitad comienza «desde la tierra» y enumera **תנינים** (_tanninim_, grandes criaturas marinas o monstruos marinos) y **תהמות** (_tehomot_, abismos). Eric destaca que las profundidades marinas, incluso con criaturas que la ciencia apenas puede observar, proclaman sabiduría y pericia. La aplicación científica es ilustrativa; el texto sí incluye los abismos como parte de la convocatoria, y no limita la alabanza a lo visible desde la superficie.
 
@@ -80,7 +80,7 @@ El v. 8 suma fuego, granizo, nieve, **קיטור** (_qitor_, vapor o niebla), vi
 
 Los vv. 9-10 mencionan montes, colinas, árbol frutal, cedros, animales, ganado, **רמש** (_remes_) y ave alada. Eric corrige traducir **רמש** simplemente como «reptil»: el término puede designar el conjunto de animales que se mueven o seres vivientes pequeños, y Tehilim 104:25 muestra animales marinos dentro de un campo amplio. La precisión es útil, pero debe marcarse como aproximación de campo semántico, no como que toda traducción tradicional sea necesariamente falsa en todos los contextos. El contraste entre árbol frutal y cedro enseña, en la aplicación de Eric, que el pueblo debe dar fruto y ofrecer sombra; esa exhortación es pedagógica, no una glosa del sustantivo botánico.
 
-## De reyes a niños y el pueblo cercano — Tehilim 148:11-14
+## De reyes a niños y el pueblo cercano — Tehilim 148:11-14 #salmos_148_11-14
 
 El poema alcanza su punto humano en los vv. 11-12: reyes, naciones, príncipes, jueces, jóvenes, vírgenes, ancianos y niños. Eric observa el ascenso desde lo pequeño hasta las autoridades y, al mismo tiempo, la inclusión de todas las edades. El llamado no deja a la política fuera de la adoración ni limita la alabanza a una élite. La palabra **בתולות** (_betulot_, vírgenes o jóvenes en estatus de virginidad) recibe una explicación extensa en la clase. Eric distingue **עלמה** (_almah_, joven mujer, con virginidad natural o no orientada al matrimonio) de **בתולה**, una joven presentada como virgen para matrimonio cuyo estatus debía corroborarse. Esa distinción puede ser pedagógicamente útil, pero el v. 12 usa **בתולות**, no **עלמות**; por eso no se debe convertir la digresión en una traducción del verso.
 
@@ -108,12 +108,12 @@ El v. 14 cierra con **קרן** (_qeren_, cuerno, fuerza, poder o reino) elevado 
 
 | Unidad textual     | Observación concreta de Eric                                                                                                                            | Evaluación frente al texto                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_148_1-2   | El quiasmo baja de los cielos a la tierra; **מלאכים** no debe activar únicamente la imagen popular de seres alados, y **צבא** es una hueste organizada. | La división cielos/tierra y la lista son textuales; el quiasmo es lectura estructural; «hueste» es aproximación contextual.                        |
-| #tehilim_148_3-6   | Sol, luna y estrellas comunican orden y tiempos; todos los agentes fueron creados por mandato de יהוה y no son divinos.                                 | La creación por mandato y la permanencia del estatuto son explícitas; la función de señales y el contraste con la deidad son conexiones canónicas. |
-| #tehilim_148_7-8   | Profundidades, fuego, granizo, vapor y viento cumplen la palabra como emisarios, incluso en juicio.                                                     | El texto afirma que hacen su palabra; «emisarios» es analogía funcional. Las conexiones con éxodo y Sodoma deben leerse como intertextos.          |
-| #tehilim_148_9-10  | El árbol frutal y el cedro sugieren fruto y sombra; **רמש** no equivale necesariamente a reptil.                                                        | La lista botánica y animal es textual; fruto/sombra es aplicación pedagógica; la amplitud de **רמש** requiere cotejo contextual.                   |
-| #tehilim_148_11-12 | Reyes, jueces, jóvenes, vírgenes, ancianos y niños forman una convocatoria inclusiva; **עלמה** y **בתולה** no son idénticas.                            | La inclusión por edades y cargos es textual; la distinción léxica es una digresión útil, no explicación directa de **בתולות** aquí.                |
-| #tehilim_148_13-14 | El Nombre excelso culmina en un cuerno/reino elevado y en un pueblo cercano; la alabanza final mira al reino de Yehoshua.                               | Nombre, cuerno y pueblo cercano son textuales; la lectura cristológica es conexión canónica y debe marcarse como aplicación.                       |
+| #salmos_148_1-2   | El quiasmo baja de los cielos a la tierra; **מלאכים** no debe activar únicamente la imagen popular de seres alados, y **צבא** es una hueste organizada. | La división cielos/tierra y la lista son textuales; el quiasmo es lectura estructural; «hueste» es aproximación contextual.                        |
+| #salmos_148_3-6   | Sol, luna y estrellas comunican orden y tiempos; todos los agentes fueron creados por mandato de יהוה y no son divinos.                                 | La creación por mandato y la permanencia del estatuto son explícitas; la función de señales y el contraste con la deidad son conexiones canónicas. |
+| #salmos_148_7-8   | Profundidades, fuego, granizo, vapor y viento cumplen la palabra como emisarios, incluso en juicio.                                                     | El texto afirma que hacen su palabra; «emisarios» es analogía funcional. Las conexiones con éxodo y Sodoma deben leerse como intertextos.          |
+| #salmos_148_9-10  | El árbol frutal y el cedro sugieren fruto y sombra; **רמש** no equivale necesariamente a reptil.                                                        | La lista botánica y animal es textual; fruto/sombra es aplicación pedagógica; la amplitud de **רמש** requiere cotejo contextual.                   |
+| #salmos_148_11-12 | Reyes, jueces, jóvenes, vírgenes, ancianos y niños forman una convocatoria inclusiva; **עלמה** y **בתולה** no son idénticas.                            | La inclusión por edades y cargos es textual; la distinción léxica es una digresión útil, no explicación directa de **בתולות** aquí.                |
+| #salmos_148_13-14 | El Nombre excelso culmina en un cuerno/reino elevado y en un pueblo cercano; la alabanza final mira al reino de Yehoshua.                               | Nombre, cuerno y pueblo cercano son textuales; la lectura cristológica es conexión canónica y debe marcarse como aplicación.                       |
 
 ## Pendiente de verificar
 
@@ -136,5 +136,5 @@ Tehilim 148 no diviniza la naturaleza: convoca cielos, agentes, astros, aguas, c
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Himnos/Salmo cap 148» — <https://www.youtube.com/watch?v=t6IM15Pf9x8> — source_id: `youtube:t6IM15Pf9x8`.
+- Video: «Tehilim/Himnos/Salmo cap 148» — <https://www.youtube.com/watch?v=t6IM15Pf9x8> — `source_id`: `youtube:t6IM15Pf9x8`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

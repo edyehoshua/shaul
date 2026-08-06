@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 20:17-27 sobre el pan de mentira, el consejo, e
 date: 2026-08-05
 tags: [mishlei, mishlei_20, debilidad_humana, consejo, lampara, disciplina]
 references:
-  - "#mishlei_20_17"
-  - "#mishlei_20_18"
-  - "#mishlei_20_19"
-  - "#mishlei_20_20"
-  - "#mishlei_20_21"
-  - "#mishlei_20_22"
-  - "#mishlei_20_23"
-  - "#mishlei_20_24"
-  - "#mishlei_20_25"
-  - "#mishlei_20_26"
-  - "#mishlei_20_27"
+  - "#proverbios_20_17"
+  - "#proverbios_20_18"
+  - "#proverbios_20_19"
+  - "#proverbios_20_20"
+  - "#proverbios_20_21"
+  - "#proverbios_20_22"
+  - "#proverbios_20_23"
+  - "#proverbios_20_24"
+  - "#proverbios_20_25"
+  - "#proverbios_20_26"
+  - "#proverbios_20_27"
   - "#mateo_11_12"
   - "#lucas_16_16"
   - "#job_32_8"
@@ -39,17 +39,17 @@ Esta nota organiza la clase pública sobre Mishlei 20:17-27. Se conserva la expo
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_20_17 | ערב לאיש לחם שקר ואחר ימלא פיהו חצץ | Dulce al hombre es el pan de mentira, pero después, su boca se llenará de grava. |
-| #mishlei_20_18 | מחשבות בעצה תכון ובתחבלות עשה מלחמה | Los pensamientos con consejo se establecen, y con tácticas se hace la guerra. |
-| #mishlei_20_19 | גולה סוד הולך רכיל ולפתה שפתיו לא תתערב | Revela secreto el que anda calumniando, y con el que abre sus labios no intercambies promesas. |
-| #mishlei_20_20 | מקלל אביו ואמו ידעך נרו באישון באשון חשך | El que maldice a su padre y a su madre, se apagará su lámpara en la pupila del ojo de la oscuridad. |
-| #mishlei_20_21 | נחלה מבחלת מבהלת בראשנה ואחריתה לא תברך | Una herencia obtenida codiciosamente —o apresuradamente— a la primera, su final no será bendecido. |
-| #mishlei_20_22 | אל תאמר אשלמה רע קוה ליהוה וישע לך | No digas: Retribuiré mal; espera a יהוה y te salvará. |
-| #mishlei_20_23 | תועבת יהוה אבן ואבן ומאזני מרמה לא טוב | Abominación de יהוה es una piedra y una piedra, y balanzas de engaño, no es bueno. |
-| #mishlei_20_24 | מיהוה מצעדי גבר ואדם מה יבין דרכו | De יהוה son los pasos del varón, y el hombre, ¿cómo entenderá su camino? |
-| #mishlei_20_25 | מוקש אדם ילע קדש ואחר נדרים לבקר | Trampa es al hombre decir precipitadamente: Consagrado; y después de los votos, reflexionar. |
-| #mishlei_20_26 | מזרה רשעים מלך חכם וישב עליהם אופן | Esparce a los condenados el Rey sabio, y hace dar vuelta sobre ellos la rueda de molino. |
-| #mishlei_20_27 | נר יהוה נשמת אדם חפש כל חדרי בטן | Lámpara de יהוה es la respiración del hombre, escudriña todas las cámaras del vientre. |
+| #proverbios_20_17 | ערב לאיש לחם שקר ואחר ימלא פיהו חצץ | Dulce al hombre es el pan de mentira, pero después, su boca se llenará de grava. |
+| #proverbios_20_18 | מחשבות בעצה תכון ובתחבלות עשה מלחמה | Los pensamientos con consejo se establecen, y con tácticas se hace la guerra. |
+| #proverbios_20_19 | גולה סוד הולך רכיל ולפתה שפתיו לא תתערב | Revela secreto el que anda calumniando, y con el que abre sus labios no intercambies promesas. |
+| #proverbios_20_20 | מקלל אביו ואמו ידעך נרו באישון באשון חשך | El que maldice a su padre y a su madre, se apagará su lámpara en la pupila del ojo de la oscuridad. |
+| #proverbios_20_21 | נחלה מבחלת מבהלת בראשנה ואחריתה לא תברך | Una herencia obtenida codiciosamente —o apresuradamente— a la primera, su final no será bendecido. |
+| #proverbios_20_22 | אל תאמר אשלמה רע קוה ליהוה וישע לך | No digas: Retribuiré mal; espera a יהוה y te salvará. |
+| #proverbios_20_23 | תועבת יהוה אבן ואבן ומאזני מרמה לא טוב | Abominación de יהוה es una piedra y una piedra, y balanzas de engaño, no es bueno. |
+| #proverbios_20_24 | מיהוה מצעדי גבר ואדם מה יבין דרכו | De יהוה son los pasos del varón, y el hombre, ¿cómo entenderá su camino? |
+| #proverbios_20_25 | מוקש אדם ילע קדש ואחר נדרים לבקר | Trampa es al hombre decir precipitadamente: Consagrado; y después de los votos, reflexionar. |
+| #proverbios_20_26 | מזרה רשעים מלך חכם וישב עליהם אופן | Esparce a los condenados el Rey sabio, y hace dar vuelta sobre ellos la rueda de molino. |
+| #proverbios_20_27 | נר יהוה נשמת אדם חפש כל חדרי בטן | Lámpara de יהוה es la respiración del hombre, escudriña todas las cámaras del vientre. |
 
 ## El pan de mentira y la formación del deseo
 
@@ -83,11 +83,11 @@ La palabra **(נשמת)**, _neshamat_, pertenece al campo de aliento, respiraci�
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_20_17; `youtube:RQwvKjSGT4g` | El pan dulce de mentira termina como grava y representa la oferta engañosa que parece herencia. | Contraste textual apoyado; aplicación a la herencia del reino, cualificada. |
-| #mishlei_20_18-19; `youtube:RQwvKjSGT4g` | El consejo forma pensamientos para la guerra espiritual, mientras el calumniador difunde el secreto. | Consejo y secreto apoyados; aplicación a la armadura y a la apostasía, calificada. |
-| #mishlei_20_20-22; `youtube:RQwvKjSGT4g` | La lámpara se apaga en quien desprecia, y el discípulo debe esperar a יהוה en vez de devolver mal. | Juicio y espera apoyados; identificación de escenas escatológicas, cualificada. |
-| #mishlei_20_23-25; `youtube:RQwvKjSGT4g` | La doblez, el camino dependiente y los votos precipitados muestran la debilidad del hombre. | Apoyo textual directo; negación total del libre albedrío permanece como formulación doctrinal de la clase. |
-| #mishlei_20_26-27; `youtube:RQwvKjSGT4g` | El Rey separa a los condenados y la lámpara de יהוה, mediante la neshamá, examina el interior. | Juicio y examen apoyados; desarrollo sobre entendimiento espiritual, calificado. |
+| #proverbios_20_17; `youtube:RQwvKjSGT4g` | El pan dulce de mentira termina como grava y representa la oferta engañosa que parece herencia. | Contraste textual apoyado; aplicación a la herencia del reino, cualificada. |
+| #proverbios_20_18-19; `youtube:RQwvKjSGT4g` | El consejo forma pensamientos para la guerra espiritual, mientras el calumniador difunde el secreto. | Consejo y secreto apoyados; aplicación a la armadura y a la apostasía, calificada. |
+| #proverbios_20_20-22; `youtube:RQwvKjSGT4g` | La lámpara se apaga en quien desprecia, y el discípulo debe esperar a יהוה en vez de devolver mal. | Juicio y espera apoyados; identificación de escenas escatológicas, cualificada. |
+| #proverbios_20_23-25; `youtube:RQwvKjSGT4g` | La doblez, el camino dependiente y los votos precipitados muestran la debilidad del hombre. | Apoyo textual directo; negación total del libre albedrío permanece como formulación doctrinal de la clase. |
+| #proverbios_20_26-27; `youtube:RQwvKjSGT4g` | El Rey separa a los condenados y la lámpara de יהוה, mediante la neshamá, examina el interior. | Juicio y examen apoyados; desarrollo sobre entendimiento espiritual, calificado. |
 
 ## Pendiente de verificar
 

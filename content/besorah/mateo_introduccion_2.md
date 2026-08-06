@@ -9,13 +9,15 @@ tags:
   - segundo_templo
   - grupos_judios
 references:
-  - "#matityahu_2_13"
-  - "#matityahu_2_14"
-  - "#qorintiyim_alef_11_20"
+  - "#mateo_2_13"
+  - "#mateo_2_14"
+  - "#1_corintios_11_20"
 sources:
   - "https://www.youtube.com/watch?v=ERNipOyGcr0"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/delitzsch/json/matthew.json"
+source_ids:
+  - "youtube:ERNipOyGcr0"
 translation: "[TTH, Delitzsch]"
 ---
 
@@ -34,8 +36,8 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 
 | Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Función en la nota |
 | --- | --- | --- | --- |
-| #matityahu_2_13 | הם הלכו משם והנה מלאך יהוה נראה אליוסף בחלום לאמר קום קח אתהילד ואתאמו וברחלך מצרימה והיהשם עדאם אמרתי אליך כי הורדוס מבקש אתנפש הנער לקחתה | Ellos se fueron, y he aquí, el ángel de יהוה apareció a Iosef en un sueño, diciendo: Levántate y toma al niño y a su madre, y huye a Mitzráim, y allí permanecerás hasta que yo te diga, porque Horodós buscará al niño para matarlo. | La huida a Egipto se lee como movimiento hacia una red judía ya existente, no como refugio al azar. |
-| #matityahu_2_14 | ויקם ויקח אתהילד ואתאמו לילה ויברח מצרימה | Entonces se levantó y tomó al niño y a su madre de noche y fue a Mitzráim; | Confirma el desplazamiento nocturno bajo presión herodiana y romana. |
+| #mateo_2_13 | הם הלכו משם והנה מלאך יהוה נראה אליוסף בחלום לאמר קום קח אתהילד ואתאמו וברחלך מצרימה והיהשם עדאם אמרתי אליך כי הורדוס מבקש אתנפש הנער לקחתה | Ellos se fueron, y he aquí, el ángel de יהוה apareció a Yosef en un sueño, diciendo: Levántate y toma al niño y a su madre, y huye a Mitzráim, y allí permanecerás hasta que yo te diga, porque Horodós buscará al niño para matarlo. | La huida a Egipto se lee como movimiento hacia una red judía ya existente, no como refugio al azar. |
+| #mateo_2_14 | ויקם ויקח אתהילד ואתאמו לילה ויברח מצרימה | Entonces se levantó y tomó al niño y a su madre de noche y fue a Mitzráim; | Confirma el desplazamiento nocturno bajo presión herodiana y romana. |
 
 ## Hoja léxica
 
@@ -157,7 +159,7 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 | Josefo | Ant. 13 (dinastía jasmonea) | Legitimidad sacerdotal y real no davídica ni aarónica | Pendiente de verificar |
 | Manuscritos de Qumrán | — | Esenios/Qumrán como salida de ruptura frente a Jerusalén | Pendiente de verificar |
 | Templo de Leontópolis | — | Judaísmo egipcio y redes sacerdotales en Egipto | Pendiente de verificar |
-| Besorah (TTH/Delitzsch) | #matityahu_2_13-14 | Huida a Mitzráim en el marco herodiano | Cotejado |
+| Besorah (TTH/Delitzsch) | #mateo_2_13-14 | Huida a Mitzráim en el marco herodiano | Cotejado |
 
 ## Pendiente de verificar
 
@@ -173,5 +175,10 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 
 - [Introducción a Yojanán](./yojanan_introduccion.md) — otra introducción al Besorah con énfasis en sustrato hebreo-arameo.
 - [Romanim 11](./romanim_11.md) — remanente y multipolaridad dentro de Israel.
-- [Ieshaiahu 65](../tanaj/ieshaiahu_65.md) — bifurcación entre masa inercial y remanente escogido.
+- [Yeshayahu 65](../tanaj/ieshaiahu_65.md) — bifurcación entre masa inercial y remanente escogido.
 - [Bamidbar 13](../tanaj/bamidbar_13.md) — distribución de pueblos en las cuatro esquinas de la tierra.
+
+## Créditos
+
+- Video público: [Fuente de la clase](https://www.youtube.com/watch?v=ERNipOyGcr0) (`source_id`: `youtube:ERNipOyGcr0`).
+- Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

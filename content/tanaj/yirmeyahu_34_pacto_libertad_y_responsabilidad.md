@@ -3,7 +3,7 @@ title: "Pacto, libertad y responsabilidad"
 description: "Jeremías 34 denuncia la revocación de la libertad concedida a los siervos hebreos."
 date: 2026-07-27
 tags: [tanaj, yirmeyahu, haftarah, mishpatim]
-references: ["#irmeiahu_34_13"]
+references: ["#jeremias_34_13"]
 sources:
   - "https://www.youtube.com/watch?v=rRX7vcg6y4k"
   - "docs/scriptures/oe/json/jeremiah/34.json"
@@ -19,7 +19,7 @@ Jeremías 34 conecta el pacto de יהוה con la liberación de la casa de sierv
 
 | Referencia      | Texto hebreo local                                                                                 | Observación                                            |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| #irmeiahu_34_13 | כה אמר יהוה אלהי ישראל אנכי כרתי ברית את אבותיכם ביום הוצאי אותם מארץ מצרים מבית עבדים לאמר | El recuerdo del éxodo fundamenta la obligación social. |
+| #jeremias_34_13 | כה אמר יהוה אלהי ישראל אנכי כרתי ברית את אבותיכם ביום הוצאי אותם מארץ מצרים מבית עבדים לאמר | El recuerdo del éxodo fundamenta la obligación social. |
 
 ## Lectura
 
@@ -32,5 +32,5 @@ Quien recuerda la liberación de יהוה debe tratar con justicia a quien depen
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Mishpatim Yirmeyahu/Jeremias 34:8-22, 33:25-26](https://www.youtube.com/watch?v=rRX7vcg6y4k) — source_id: `youtube:rRX7vcg6y4k`.
+- Video: [Haftaráh de Mishpatim Yirmeyahu/Jeremias 34:8-22, 33:25-26](https://www.youtube.com/watch?v=rRX7vcg6y4k) — `source_id`: `youtube:rRX7vcg6y4k`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

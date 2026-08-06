@@ -6,9 +6,9 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#ecclesiastes_10_1"
-  - "#ecclesiastes_10_12-13"
-  - "#ecclesiastes_10_20"
+  - "#eclesiastes_10_1"
+  - "#eclesiastes_10_12-13"
+  - "#eclesiastes_10_20"
 sources:
   - "https://www.youtube.com/watch?v=6HgU6a_cf7E"
   - "https://www.youtube.com/watch?v=UMnek0zzbZU"
@@ -37,9 +37,9 @@ Qohélet 10 considera máximas sobre necedad, respuesta ante la autoridad, traba
 
 | Referencia             | Texto local (OE, sin nikud)                                                                                       | Observación                                                            |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| #ecclesiastes_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מחכמה מכבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
-| #ecclesiastes_10_12-13 | **דברי פי חכם חן ושפתות כסיל תבלענו; תחלת דברי פיהו סכלות ואחרית פיהו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
-| #ecclesiastes_10_20    | **גם במדעך מלך אל תקלל ובחדרי משכבך אל תקלל עשיר כי עוף השמים יוליך את הקול ובעל הכנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
+| #eclesiastes_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מחכמה מכבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
+| #eclesiastes_10_12-13 | **דברי פי חכם חן ושפתות כסיל תבלענו; תחלת דברי פיהו סכלות ואחרית פיהו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
+| #eclesiastes_10_20    | **גם במדעך מלך אל תקלל ובחדרי משכבך אל תקלל עשיר כי עוף השמים יוליך את הקול ובעל הכנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
 
 ## Lectura del capítulo
 
@@ -67,9 +67,9 @@ Qohélet 10 no ofrece control sobre el mundo, sino sabiduría para habitar sus l
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 24) Cap 10» — https://www.youtube.com/watch?v=6HgU6a_cf7E (`source_id: youtube:6HgU6a_cf7E`).
-- «Qohélet-Eclesiastés (parte 25) Cap 10» — https://www.youtube.com/watch?v=UMnek0zzbZU (`source_id: youtube:UMnek0zzbZU`).
-- «Qohélet-Eclesiastés (parte 26) Cap 10» — https://www.youtube.com/watch?v=FFUU2hgLZ0M (`source_id: youtube:FFUU2hgLZ0M`).
-- «Qohélet-Eclesiastés (parte 27) Cap 10» — https://www.youtube.com/watch?v=rfRAvg1PzK8 (`source_id: youtube:rfRAvg1PzK8`).
+- «Qohélet-Eclesiastés (parte 24) Cap 10» — https://www.youtube.com/watch?v=6HgU6a_cf7E (`source_id`: youtube:6HgU6a_cf7E`).
+- «Qohélet-Eclesiastés (parte 25) Cap 10» — https://www.youtube.com/watch?v=UMnek0zzbZU (`source_id`: youtube:UMnek0zzbZU`).
+- «Qohélet-Eclesiastés (parte 26) Cap 10» — https://www.youtube.com/watch?v=FFUU2hgLZ0M (`source_id`: youtube:FFUU2hgLZ0M`).
+- «Qohélet-Eclesiastés (parte 27) Cap 10» — https://www.youtube.com/watch?v=rfRAvg1PzK8 (`source_id`: youtube:rfRAvg1PzK8`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

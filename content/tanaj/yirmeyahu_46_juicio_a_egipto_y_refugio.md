@@ -3,7 +3,7 @@ title: "Juicio a Egipto y refugio"
 description: "Jeremías 46 confronta la confianza política en Egipto bajo el juicio de יהוה."
 date: 2026-07-27
 tags: [tanaj, yirmeyahu, haftarah, bo]
-references: ["#irmeiahu_46_13"]
+references: ["#jeremias_46_13"]
 sources:
   - "https://www.youtube.com/watch?v=nvIbmu6y1YU"
   - "docs/scriptures/oe/json/jeremiah/46.json"
@@ -19,7 +19,7 @@ Jeremías 46 presenta el golpe contra Egipto como palabra de יהוה; por ello,
 
 | Referencia      | Texto hebreo local                                                              | Observación                                |
 | --------------- | ------------------------------------------------------------------------------- | ------------------------------------------ |
-| #irmeiahu_46_13 | הדבר אשר דבר יהוה אל ירמיהו הנביא לבוא נבוכדראצר מלך בבל להכות את ארץ מצרים | La profecía nombra el juicio sobre Egipto. |
+| #jeremias_46_13 | הדבר אשר דבר יהוה אל ירמיהו הנביא לבוא נבוכדראצר מלך בבל להכות את ארץ מצרים | La profecía nombra el juicio sobre Egipto. |
 
 ## Lectura
 
@@ -32,5 +32,5 @@ La liberación de יהוה no autoriza a convertir el lugar de opresión en refu
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftaráh de Bo' (2017) El juicio y el amor entrañable de YHWH](https://www.youtube.com/watch?v=nvIbmu6y1YU) — source_id: `youtube:nvIbmu6y1YU`.
+- Video: [Haftaráh de Bo' (2017) El juicio y el amor entrañable de YHWH](https://www.youtube.com/watch?v=nvIbmu6y1YU) — `source_id`: `youtube:nvIbmu6y1YU`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

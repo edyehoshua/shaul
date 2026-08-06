@@ -18,11 +18,11 @@ references:
   - "#romanos_15_20"
   - "#romanos_15_25"
   - "#romanos_15_30"
-  - "#tehilim_18_49"
-  - "#devarim_32_43"
-  - "#tehilim_117_1"
-  - "#yeshayahu_11_10"
-  - "#yeshayahu_52_15"
+  - "#salmos_18_49"
+  - "#deuteronomio_32_43"
+  - "#salmos_117_1"
+  - "#isaias_11_10"
+  - "#isaias_52_15"
 sources:
   - "https://www.youtube.com/watch?v=cnpWPNR8xyg"
   - "docs/scriptures/tth/json/romanos.json"
@@ -49,21 +49,21 @@ Esta nota organiza la clase 28 de la serie del hermano Eric de Jesús Rodríguez
 | Referencia | Texto local | Función en la clase |
 | --- | --- | --- |
 | #romanos_15_7-9 | **Por lo tanto, tómense un hombre a su compañero, como también el Mesías los tomó para gloria de Elohim. Porque yo digo que Yehoshua el Mesías fue siervo de la circuncisión por causa de la verdad de Elohim, para establecer los juramentos a los padres, y para que los gentiles glorifiquen a Elohim por causa de su amor bondadoso.** (TTH) | Une acogida, fidelidad a las promesas y misericordia hacia las naciones. |
-| #romanos_15_10-12 | **Griten de alegría, gentiles, con su pueblo... Alaben a יהוה, todos los gentiles... la raíz de Ishai... a Él los gentiles buscarán.** (TTH) | Pablo reúne Torá, Salmos y Profetas como una sola línea de testimonio. |
+| #romanos_15_10-12 | **Griten de alegría, gentiles, con su pueblo... Alaben a יהוה, todos los gentiles... la raíz de Yishai... a Él los gentiles buscarán.** (TTH) | Pablo reúne Torá, Salmos y Profetas como una sola línea de testimonio. |
 | #romanos_15_13 | **Y el Elohim de la esperanza los llenará de toda alegría y shalom para ser afirmados en fidelidad, para hacerlos abundar en la esperanza en la potencia del Rúaj Ha’Kódesh.** (TTH) | La esperanza produce plenitud comunitaria por el Rúaj. |
 | #romanos_15_16-20 | **...para que sea la ofrenda de los gentiles aceptada y santificada por el Rúaj Ha’Kódesh... me esforcé para anunciar la Besorah... para no edificar sobre otro fundamento.** (TTH) | Define el servicio de Pablo y su prioridad misionera. |
-| #romanos_15_25-33 | **Pero ahora voy a Ierushaláim para servir a los kedoshim... que me ayuden en sus tefilot... para que con alegría llegue a ustedes por la voluntad de Elohim...** (TTH) | La misión se concreta en colecta, riesgo, oración y dependencia de Elohim. |
+| #romanos_15_25-33 | **Pero ahora voy a Yerushaláim para servir a los kedoshim... que me ayuden en sus tefilot... para que con alegría llegue a ustedes por la voluntad de Elohim...** (TTH) | La misión se concreta en colecta, riesgo, oración y dependencia de Elohim. |
 
 ### Testigos del Tanaj citados por Pablo
 
 | Referencia | Hebreo local OE (sin nikud y sin segmentación) | Observación |
 | --- | --- | --- |
-| #devarim_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו** | El texto local conservado lee «naciones, su pueblo»; la forma «con su pueblo» usada en Romanos y defendida en la clase requiere cotejo textual. |
-| #tehilim_117_1 | **הללו את יהוה כל גוים שבחוהו כל האמים** | La alabanza de todas las naciones y pueblos sostiene directamente Romanos 15:11. |
-| #yeshayahu_11_10 | **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד** | La raíz de Ishai funciona como señal y objeto de búsqueda de las naciones. |
-| #yeshayahu_52_15 | **כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו** | La clase conecta el programa de Pablo con quienes ven y entienden lo que no les había sido anunciado. |
+| #deuteronomio_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו** | El texto local conservado lee «naciones, su pueblo»; la forma «con su pueblo» usada en Romanos y defendida en la clase requiere cotejo textual. |
+| #salmos_117_1 | **הללו את יהוה כל גוים שבחוהו כל האמים** | La alabanza de todas las naciones y pueblos sostiene directamente Romanos 15:11. |
+| #isaias_11_10 | **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד** | La raíz de Yishai funciona como señal y objeto de búsqueda de las naciones. |
+| #isaias_52_15 | **כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו** | La clase conecta el programa de Pablo con quienes ven y entienden lo que no les había sido anunciado. |
 
-## 15:7-13: tomar al compañero y leer juntos los testigos
+## 15:7-13: tomar al compañero y leer juntos los testigos #romanos_15_7-13
 
 Eric subraya que «tomarse» en #romanos_15_7 comunica una acogida activa, no una recepción distante. La aplicación de la clase es comunitaria: nadie pertenece a Pablo, Apolos o algún mensajero particular, sino al Mesías. El texto local apoya el centro de esa observación: el Mesías tomó a los suyos para gloria de Elohim y esa acción se vuelve modelo de la relación entre compañeros.
 
@@ -71,13 +71,13 @@ La razón de la acogida aparece en #romanos_15_8-9. Yehoshua sirve a la circunci
 
 La explicación de Devarim 32:43 requiere cautela. La clase propone que debe leerse «gentiles con su pueblo» y atribuye la ausencia de **(עם)**, _im_, «con», a una omisión en la transmisión masorética. El OE local no contiene esa preposición separada: **הרנינו גוים עמו**. Romanos 15:10 TTH sí expresa «con su pueblo». La convergencia conceptual es clara, pero el mecanismo textual propuesto por la clase no se puede declarar resuelto sin comparar testigos hebreos y griegos.
 
-## 15:13-21: esperanza, ofrenda y anuncio donde no se había oído
+## 15:13-21: esperanza, ofrenda y anuncio donde no se había oído #romanos_15_13-21
 
 En #romanos_15_13 la clase explica _shalom_ como plenitud o integridad, no solo tranquilidad. La esperanza que llena de alegría y shalom es, en su exposición, la esperanza de la resurrección y actúa por el Rúaj. El verso sostiene directamente la abundancia de esperanza y la acción del Rúaj; precisar todo el contenido escatológico exige leerlo en el conjunto de la carta.
 
-Pablo describe su tarea con lenguaje de servicio y ofrenda (#romanos_15_16). Eric enfatiza que la «ofrenda de los gentiles» son las personas de las naciones presentadas a Elohim, santificadas por el Rúaj; no se trata aquí de dinero. La clase conecta esa obra con la obediencia «en palabra y obra» y con la decisión de anunciar donde el nombre del Mesías todavía no había sido oído. #yeshayahu_52_15 ofrece el testigo local que la sesión cita: quienes no habían recibido anuncio ven, y quienes no habían oído entienden.
+Pablo describe su tarea con lenguaje de servicio y ofrenda (#romanos_15_16). Eric enfatiza que la «ofrenda de los gentiles» son las personas de las naciones presentadas a Elohim, santificadas por el Rúaj; no se trata aquí de dinero. La clase conecta esa obra con la obediencia «en palabra y obra» y con la decisión de anunciar donde el nombre del Mesías todavía no había sido oído. #isaias_52_15 ofrece el testigo local que la sesión cita: quienes no habían recibido anuncio ven, y quienes no habían oído entienden.
 
-## 15:22-33: viaje, colecta y oración sin triunfalismo
+## 15:22-33: viaje, colecta y oración sin triunfalismo #romanos_15_22-33
 
 La exposición sigue los planes de viaje de Pablo: Roma aparece como escala en el camino hacia España, mientras Jerusalén tiene prioridad inmediata por el servicio a los santos. Eric diferencia correctamente el destino **(Σπανία)**, _Spania_, de Sefarad, pero su localización alternativa de Sefarad y sus comentarios sobre Rashi necesitan investigación independiente. El argumento seguro del pasaje es más sobrio: Pablo proyecta, pero subordina su llegada a la voluntad de Elohim (#romanos_15_32).
 
@@ -98,7 +98,7 @@ La colecta de Macedonia y Acaya muestra una participación material que responde
 | Unidad | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
 | #romanos_15_7-9 | La acogida debe ser activa; el servicio del Mesías confirma las promesas y abre alabanza entre las naciones. | Apoyo textual directo, con aclaración léxica de **(προσλαμβάνω)**. |
-| #romanos_15_10-12 | Torá, Salmos y Profetas anticipan a las naciones junto al pueblo y buscando la raíz de Ishai. | Apoyo textual; la reconstrucción de Devarim 32:43 queda pendiente de crítica textual. |
+| #romanos_15_10-12 | Torá, Salmos y Profetas anticipan a las naciones junto al pueblo y buscando la raíz de Yishai. | Apoyo textual; la reconstrucción de Devarim 32:43 queda pendiente de crítica textual. |
 | #romanos_15_13-21 | Shalom es plenitud; las personas de las naciones son la ofrenda santificada por el Rúaj; Pablo anuncia donde no se había oído. | Apoyo directo en el recorrido; equivalencias hebreo-griegas calificadas. |
 | #romanos_15_22-33 | Pablo desea llegar a España, lleva ayuda a Jerusalén y pide oración sin garantizar el resultado. | Apoyo textual; geografía de Sefarad y contexto histórico de la colecta pendientes. |
 

@@ -11,17 +11,17 @@ tags:
   - mesias
   - testimonio
 references:
-  - "#vaikra_23_36"
-  - "#vaikra_23_39"
-  - "#bamidbar_29_35"
-  - "#devarim_16_8"
+  - "#levitico_23_36"
+  - "#levitico_23_39"
+  - "#numeros_29_35"
+  - "#deuteronomio_16_8"
   - "#amos_5_21"
-  - "#nejemia_8_18"
-  - "#divre_hayamim_bet_7_9"
-  - "#ivrim_10_1"
-  - "#ivrim_13_15"
-  - "#kefa_alef_2_5"
-  - "#corintim_bet_2_14"
+  - "#nehemias_8_18"
+  - "#2_cronicas_7_9"
+  - "#hebreos_10_1"
+  - "#hebreos_13_15"
+  - "#1_pedro_2_5"
+  - "#2_corintios_2_14"
 sources:
   - "https://www.youtube.com/watch?v=1XCJHcOIERw"
   - "docs/scriptures/tth/json/vaikra.json"
@@ -114,11 +114,11 @@ La clase acierta al conectar el aroma con el testimonio de Yehoshua en la comuni
 
 | Unidad textual | Observación concreta de Eric | Evaluación frente a la Escritura |
 | --- | --- | --- |
-| #vaikra_23_36, 39 | El octavo día interrumpe la secuencia de siete días y tiene convocación propia. | El texto distingue _atseret_ y la fecha; «interrupción» es una lectura literaria calificada. |
-| #bamidbar_29_35-38 | La ofrenda del día octavo es específica y el aroma no depende de un animal costoso aislado. | El procedimiento está enumerado; la intención del corazón se prueba junto con Amós 5. |
+| #levitico_23_36, 39 | El octavo día interrumpe la secuencia de siete días y tiene convocación propia. | El texto distingue _atseret_ y la fecha; «interrupción» es una lectura literaria calificada. |
+| #numeros_29_35-38 | La ofrenda del día octavo es específica y el aroma no depende de un animal costoso aislado. | El procedimiento está enumerado; la intención del corazón se prueba junto con Amós 5. |
 | #amos_5_21-24 | Elohim no recibe fiestas separadas de justicia; el culto no puede cubrir opresión. | El profeta exige juicio y justicia; no cancela la descripción ritual de Levítico. |
-| #ivrim_10_1-14, #kefa_alef_2_5 | Yehoshua asume y lleva a término la dimensión sacrificial, y la comunidad ofrece sacrificios espirituales. | La recepción apostólica es explícita para estas ofrendas; no permite abolir sin argumento toda la Torah. |
-| #corintim_bet_2_14-16 | El conocimiento del Mesías se esparce como aroma por medio de sus testigos. | El aroma se vuelve una imagen testimonial, no una afirmación física sobre Elohim. |
+| #hebreos_10_1-14, #1_pedro_2_5 | Yehoshua asume y lleva a término la dimensión sacrificial, y la comunidad ofrece sacrificios espirituales. | La recepción apostólica es explícita para estas ofrendas; no permite abolir sin argumento toda la Torah. |
+| #2_corintios_2_14-16 | El conocimiento del Mesías se esparce como aroma por medio de sus testigos. | El aroma se vuelve una imagen testimonial, no una afirmación física sobre Elohim. |
 
 ## Conclusión
 

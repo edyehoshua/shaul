@@ -8,10 +8,10 @@ tags:
   - sacerdocio
   - perfeccion
 references:
-  - "#hebrews_7_1-4"
-  - "#hebrews_7_11-12"
-  - "#hebrews_7_15-19"
-  - "#hebrews_7_20-28"
+  - "#hebreos_7_1-4"
+  - "#hebreos_7_11-12"
+  - "#hebreos_7_15-19"
+  - "#hebreos_7_20-28"
 sources:
   - "https://www.youtube.com/watch?v=0RbDcydhCFE"
   - "docs/scriptures/delitzsch/json/hebrews.json"
@@ -50,7 +50,7 @@ El tramo 7:18-19 añade la calificación que debe gobernar la lectura: **בעב�
 - **Hebreos 7:11-19 — qué significa “perfección”:** Eric conecta **שלמות** (_shlemut_, “perfección o integridad”) con 7:11 y sigue el tema hasta Hebreos 8–10: Torá en mente y corazón, pecados perdonados y conciencia limpia. El capítulo confirma que el sacerdocio levítico no llevó a la comunidad a esa meta y que una esperanza mejor permite acercarse; la definición completa de conciencia purificada se desarrolla en capítulos posteriores.
 - **Hebreos 7:20-28 — juramento, vida indestructible y una sola ofrenda:** Eric contrasta sacerdotes mortales, sujetos a relevo, con el Hijo que vive siempre e intercede. Relaciona **ἀπαράβατος** (_aparabatos_, “intransferible o permanente”) con la permanencia del sacerdocio y sostiene que el Hijo no ofrece primero por su propio pecado. El texto confirma la permanencia, la intercesión y la ofrenda única; la explicación de una existencia celestial no derivada de genealogía humana es la lectura cristológica de la clase.
 
-## 7:1-10: Melquisedec, Abraham y el orden de la bendición
+## 7:1-10: Melquisedec, Abraham y el orden de la bendición #hebreos_7_1-10
 
 La carta comienza con el encuentro de Bereshit 14: Melquisedec sale al encuentro de Abraham, lo bendice y recibe de él el diezmo. No dice que debamos llenar los silencios biográficos con leyendas. Su argumento nace de cómo el texto presenta al personaje: “sin padre, sin madre, sin genealogía”, sin principio ni fin registrados, y “semejante al Hijo de Elohim”. La relación es literaria y tipológica: el pasaje no afirma que Melquisedec sea el Hijo, sino que lo usa como figura de un sacerdocio que permanece.
 
@@ -62,7 +62,7 @@ Eric se detiene también en la ambigüedad de Bereshit acerca de quién entrega 
 
 La progresión de 7:5-10 debe mantenerse visible. Primero, los hijos de Leví tienen mandamiento de cobrar diezmos “según la Torá” a sus hermanos; después, Melquisedec, que no pertenece a su genealogía, recibe el diezmo de Abraham y lo bendice. El texto local lo formula así: **הֶן־בְּנֵי לֵוִי נׂחֲלֵי הַכְּהֻנָּה יֶשׁ־חׂק לָהֶם עַל־פִּי הַתּוֹרָה לָקַחַת אֶת־הַמַּעַשְׂרוֹת מִן־הָעָם מִן־אֲחֵיהֶם** (“los hijos de Leví, herederos del sacerdocio, tienen por la Torá el derecho de tomar los diezmos del pueblo, de sus hermanos”), y luego afirma que Leví pagó por medio de Abraham. Eric usa ese orden para mostrar que la dignidad levítica no elimina la anterioridad de Melquisedec. Es una observación material de la clase y una inferencia explícita de la carta; no equivale a decir que la Torá condena el diezmo ni que el capítulo esté tratando principalmente de economía comunitaria.
 
-## 7:11-19: cambio de sacerdocio y la perfección que la ley cultual no produjo
+## 7:11-19: cambio de sacerdocio y la perfección que la ley cultual no produjo #hebreos_7_11-19
 
 La pregunta de 7:11 es decisiva: si la perfección hubiera llegado por el sacerdocio levítico —sistema en el que fue dada la Torá al pueblo—, ¿por qué se levantaría otro sacerdote según el orden de Melquisedec? El texto no llama malo al mandamiento; afirma que el sistema sacerdotal no llevó a la meta que el argumento busca. Por eso 7:12 habla de cambio de sacerdocio y de cambio de ordenanza cultual.
 
@@ -70,7 +70,7 @@ La palabra griega **τελείωσις** (_teleiōsis_) significa “perfección
 
 La carta introduce una esperanza mejor por la cual nos acercamos a Elohim. **ἐγγίζω** (_engizō_) significa “acercarse”; aquí su fuerza es relacional y sacerdotal. “Mejor” (**κρείττων**, _kreittōn_) no significa que la promesa anterior fuera inútil, sino que la nueva administración la lleva a una eficacia mayor. Esta es la observación de Eric sobre una esperanza “mejorada”: es pedagógica en la traducción, pero está respaldada por el uso comparativo del capítulo.
 
-## 7:20-28: juramento, intercesión y ofrenda única
+## 7:20-28: juramento, intercesión y ofrenda única #hebreos_7_20-28
 
 El contraste final no depende solamente de que un sacerdote viva más años. Los levitas fueron constituidos sin juramento y mueren; el Hijo fue constituido sacerdote mediante el juramento de יהוה: “Tú eres sacerdote para siempre”. **ὅρκος** (_horkos_) significa “juramento” y en 7:20-22 da fuerza de compromiso divino a la alianza; no es una fórmula mágica, sino la garantía del oficio que el texto acaba de anunciar.
 
@@ -96,7 +96,7 @@ La otra insistencia de Eric es que «perfecto» en Hebreos apunta a una concienc
 
 Finalmente, Eric dedica atención a la forma hebrea de «Melquisedec» y a la escritura de «Salem», señalando que la lengua puede representar una misma base consonántica con vocalizaciones distintas. **שלם** (_Shalem/Shalom_) tiene normalmente el campo de «integridad, plenitud o paz» según la forma y el contexto; Hebreos interpreta **Σαλήμ** (_Salēm_) como «paz» y **Μελχισέδεκ** (_Melchisedek_) como «rey de justicia». La relación es **exacta como interpretación que la carta ofrece**, pero **pedagógica** cuando la explicación fonética pretende decidir por sí sola la ubicación histórica de Salem. El texto permanece soberano: usa el nombre para construir el contraste entre justicia, paz y sacerdocio permanente.
 
-## Control de la transición: 7:13-19 antes del juramento
+## Control de la transición: 7:13-19 antes del juramento #hebreos_7_13-19
 
 La transición entre la comparación con Leví y el juramento no debe saltarse. En 7:13-14 la carta dice que aquel de quien se habla pertenece a otra tribu, de la cual nadie sirvió al altar, y recuerda que el Mesías procede de Yehudá, no de Leví. En 7:15-16 vuelve a la semejanza con Melquisedec y la funda en “el poder de una vida indestructible”, antes de citar el testimonio de que es sacerdote para siempre. Eric usa este orden para explicar por qué el oficio del Hijo no es una reforma genealógica del sacerdocio levítico: primero se excluye la descendencia sacerdotal terrenal, después se declara la base vital del nuevo oficio.
 
@@ -167,5 +167,5 @@ Finalmente, **ἐντυγχάνω** (_entynchano_, interceder, presentarse a fav
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «La carta a los hebreos parte 7: La perfección y el nuevo sacerdocio» — <https://www.youtube.com/watch?v=0RbDcydhCFE> — source_id: `youtube:0RbDcydhCFE`.
+- Video: «La carta a los hebreos parte 7: La perfección y el nuevo sacerdocio» — <https://www.youtube.com/watch?v=0RbDcydhCFE> — `source_id`: `youtube:0RbDcydhCFE`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

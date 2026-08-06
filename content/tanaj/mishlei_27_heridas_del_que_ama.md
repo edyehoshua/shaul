@@ -4,16 +4,16 @@ description: "Estudio de Mishlei 27:1-6 sobre la jactancia, la reprensión manif
 date: 2026-08-05
 tags: [mishlei, mishlei_27, disciplina, reprension, amor, humildad]
 references:
-  - "#mishlei_27_1"
-  - "#mishlei_27_2"
-  - "#mishlei_27_3"
-  - "#mishlei_27_4"
-  - "#mishlei_27_5"
-  - "#mishlei_27_6"
-  - "#yeshayahu_13_9"
-  - "#yeshayahu_53_5"
-  - "#devarim_29_18"
-  - "#tehilim_52_3"
+  - "#proverbios_27_1"
+  - "#proverbios_27_2"
+  - "#proverbios_27_3"
+  - "#proverbios_27_4"
+  - "#proverbios_27_5"
+  - "#proverbios_27_6"
+  - "#isaias_13_9"
+  - "#isaias_53_5"
+  - "#deuteronomio_29_18"
+  - "#salmos_52_3"
 sources:
   - "https://www.youtube.com/watch?v=Dx9dZumlboM"
   - "docs/scriptures/oe/json/proverbs/27.json"
@@ -35,12 +35,12 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_27_1 | אל תתהלל ביום מחר כי לא תדע מה ילד יום | No te alabes en el día de mañana, porque no sabes lo que parirá el día. |
-| #mishlei_27_2 | יהללך זר ולא פיך נכרי ואל שפתיך | Te alabará el extraño, y no tu boca, el extranjero, y no tus labios. |
-| #mishlei_27_3 | כבד אבן ונטל החול וכעס אויל כבד משניהם | Pesada es la piedra y pesa la arena, pero el enojo del indisciplinado pesa más que las dos. |
-| #mishlei_27_4 | אכזריות חמה ושטף אף ומי יעמד לפני קנאה | Crueldad es el ardor y torrente la ira, ¿pero quién se parará delante del celo? |
-| #mishlei_27_5 | טובה תוכחת מגלה מאהבה מסתרת | Más buena es la reprensión manifiesta que el amor escondido. |
-| #mishlei_27_6 | נאמנים פצעי אוהב ונעתרות נשיקות שונא | Fidedignas son las heridas del que ama, pero excesivos los besos del que odia. |
+| #proverbios_27_1 | אל תתהלל ביום מחר כי לא תדע מה ילד יום | No te alabes en el día de mañana, porque no sabes lo que parirá el día. |
+| #proverbios_27_2 | יהללך זר ולא פיך נכרי ואל שפתיך | Te alabará el extraño, y no tu boca, el extranjero, y no tus labios. |
+| #proverbios_27_3 | כבד אבן ונטל החול וכעס אויל כבד משניהם | Pesada es la piedra y pesa la arena, pero el enojo del indisciplinado pesa más que las dos. |
+| #proverbios_27_4 | אכזריות חמה ושטף אף ומי יעמד לפני קנאה | Crueldad es el ardor y torrente la ira, ¿pero quién se parará delante del celo? |
+| #proverbios_27_5 | טובה תוכחת מגלה מאהבה מסתרת | Más buena es la reprensión manifiesta que el amor escondido. |
+| #proverbios_27_6 | נאמנים פצעי אוהב ונעתרות נשיקות שונא | Fidedignas son las heridas del que ama, pero excesivos los besos del que odia. |
 
 ## Esperar ante un día que todavía no revela su fruto
 
@@ -78,15 +78,15 @@ En cambio, los besos del que odia son **(נשיקות)**, _neshiqot_, besos, y *
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_27_1-2 | El mañana apunta al futuro y la alabanza debe venir del ajeno, no de la propia boca. | Humildad y límite del sentido futuro apoyados; lectura del día postrero calificada. |
-| #mishlei_27_3-4 | La provocación del indisciplinado pesa más que piedra y arena; ardor, torrente y celo describen el juicio. | Contraste textual apoyado; conexiones con Yesayahu 13 y Devarim 29 cotejables, extensión alegórica pendiente. |
-| #mishlei_27_5-6 | La reprensión manifiesta se conecta con las heridas fieles del que ama, mientras los besos excesivos encubren odio. | Contraste directo del pasaje; aplicación a la disciplina de יהוה y a las heridas de Yehoshua calificada. |
+| #proverbios_27_1-2 | El mañana apunta al futuro y la alabanza debe venir del ajeno, no de la propia boca. | Humildad y límite del sentido futuro apoyados; lectura del día postrero calificada. |
+| #proverbios_27_3-4 | La provocación del indisciplinado pesa más que piedra y arena; ardor, torrente y celo describen el juicio. | Contraste textual apoyado; conexiones con Yesayahu 13 y Devarim 29 cotejables, extensión alegórica pendiente. |
+| #proverbios_27_5-6 | La reprensión manifiesta se conecta con las heridas fieles del que ama, mientras los besos excesivos encubren odio. | Contraste directo del pasaje; aplicación a la disciplina de יהוה y a las heridas de Yehoshua calificada. |
 
 ## Conexiones principales
 
 - [Mishlei 1: el comienzo del conocimiento](./mishlei_1_inicio_del_conocimiento_temor_y_disciplina.md) muestra que temor y disciplina son el punto de partida de la sabiduría.
 - [Mishlei 28: rico, débil, confianza y fruto](./mishlei_28_rico_debil_confianza_y_fruto.md) continúa el contraste entre autojustificación, investigación y temor continuo.
-- #yeshayahu_53_5 ilumina la conexión mesiánica que Eric hace entre heridas y sanidad, sin convertirla en el sentido gramatical inmediato de Mishlei 27:6.
+- #isaias_53_5 ilumina la conexión mesiánica que Eric hace entre heridas y sanidad, sin convertirla en el sentido gramatical inmediato de Mishlei 27:6.
 
 ## Pendiente de verificar
 

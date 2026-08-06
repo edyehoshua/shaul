@@ -102,5 +102,5 @@ Vayera no responde a la pregunta sobre el conocimiento divino borrando la obedie
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayera' (2016) Gn 18-22 Hashem ya sabe...](https://www.youtube.com/watch?v=ytk79FxpTY4) (source_id: `youtube:ytk79FxpTY4`).
+- [Parashat Vayera' (2016) Gn 18-22 Hashem ya sabe...](https://www.youtube.com/watch?v=ytk79FxpTY4) (`source_id`: `youtube:ytk79FxpTY4`).
 - Esta nota conserva el foco público y lo contrasta con el texto local; no presenta una transcripción como cita literal.

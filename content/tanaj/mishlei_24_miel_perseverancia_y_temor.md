@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 24:13-22 sobre la sabiduría que sana, la resta
 date: 2026-08-05
 tags: [mishlei, mishlei_24, sabiduria, perseverancia, miel, temor]
 references:
-  - "#mishlei_24_13"
-  - "#mishlei_24_14"
-  - "#mishlei_24_15"
-  - "#mishlei_24_16"
-  - "#mishlei_24_17"
-  - "#mishlei_24_18"
-  - "#mishlei_24_19"
-  - "#mishlei_24_20"
-  - "#mishlei_24_21"
-  - "#mishlei_24_22"
-  - "#tehilim_2_12"
+  - "#proverbios_24_13"
+  - "#proverbios_24_14"
+  - "#proverbios_24_15"
+  - "#proverbios_24_16"
+  - "#proverbios_24_17"
+  - "#proverbios_24_18"
+  - "#proverbios_24_19"
+  - "#proverbios_24_20"
+  - "#proverbios_24_21"
+  - "#proverbios_24_22"
+  - "#salmos_2_12"
 sources:
   - "https://www.youtube.com/watch?v=tffKYvi38ZU"
   - "docs/scriptures/oe/json/proverbs/24.json"
@@ -36,11 +36,11 @@ Esta nota organiza la clase que concluye los treinta dichos de Mishlei 24 y lleg
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_24_13 | אכל בני דבש כי טוב ונפת מתוק על חכך | Come, hijo mío, miel, porque es bueno; y la miel que fluye es dulce sobre tu paladar. |
-| #mishlei_24_14 | כן דעה חכמה לנפשך אם מצאת ויש אחרית ותקותך לא תכרת | Así debes conocer la sabiduría para tu ser; si la hallas, habrá un final, y tu esperanza no será cortada. |
-| #mishlei_24_15-16 | אל תארב רשע לנוה צדיק אל תשדד רבצו כי שבע יפול צדיק וקם ורשעים יכשלו ברעה | No acecharás, condenado, a la morada del justo, ni desolarás su lugar de reposo. Porque siete veces caerá el justo y se levantará, pero los condenados tropezarán en el mal. |
-| #mishlei_24_17-18 | בנפל אויביך אויבך אל תשמח ובכשלו אל יגל לבך פן יראה יהוה ורע בעיניו והשיב מעליו אפו | Cuando caiga tu enemigo, no te alegrarás; y en su tropiezo no se regocijará tu corazón. Para que no vea יהוה y sea malo en sus ojos, y haga volver de sobre él su ira. |
-| #mishlei_24_19-22 | אל תתחר במרעים אל תקנא ברשעים כי לא תהיה אחרית לרע נר רשעים ידעך ירא את יהוה בני ומלך עם שונים אל תתערב כי פתאם יקום אידם ופיד שניהם מי יודע | No compitas con los malhechores; no envidies a los condenados. Porque no habrá final para el malo, la lámpara de los condenados se apagará. Teme a יהוה, hijo mío, y al Rey; con los cambiantes no te comprometas. Porque de repente se levantará su angustia, y la ruina de los dos, ¿quién la conocerá? |
+| #proverbios_24_13 | אכל בני דבש כי טוב ונפת מתוק על חכך | Come, hijo mío, miel, porque es bueno; y la miel que fluye es dulce sobre tu paladar. |
+| #proverbios_24_14 | כן דעה חכמה לנפשך אם מצאת ויש אחרית ותקותך לא תכרת | Así debes conocer la sabiduría para tu ser; si la hallas, habrá un final, y tu esperanza no será cortada. |
+| #proverbios_24_15-16 | אל תארב רשע לנוה צדיק אל תשדד רבצו כי שבע יפול צדיק וקם ורשעים יכשלו ברעה | No acecharás, condenado, a la morada del justo, ni desolarás su lugar de reposo. Porque siete veces caerá el justo y se levantará, pero los condenados tropezarán en el mal. |
+| #proverbios_24_17-18 | בנפל אויביך אויבך אל תשמח ובכשלו אל יגל לבך פן יראה יהוה ורע בעיניו והשיב מעליו אפו | Cuando caiga tu enemigo, no te alegrarás; y en su tropiezo no se regocijará tu corazón. Para que no vea יהוה y sea malo en sus ojos, y haga volver de sobre él su ira. |
+| #proverbios_24_19-22 | אל תתחר במרעים אל תקנא ברשעים כי לא תהיה אחרית לרע נר רשעים ידעך ירא את יהוה בני ומלך עם שונים אל תתערב כי פתאם יקום אידם ופיד שניהם מי יודע | No compitas con los malhechores; no envidies a los condenados. Porque no habrá final para el malo, la lámpara de los condenados se apagará. Teme a יהוה, hijo mío, y al Rey; con los cambiantes no te comprometas. Porque de repente se levantará su angustia, y la ruina de los dos, ¿quién la conocerá? |
 
 ## La miel que fluye: recibir sabiduría y buscarla
 
@@ -78,11 +78,11 @@ Finalmente, “teme a יהוה y al Rey” se interpreta en la clase como temor 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_24_13-14 | La miel representa palabra, Torah y Mesías; buscar sabiduría expone la enfermedad para ser sanado. | Dulzura y búsqueda apoyadas; identificación mesiánica y sanidad calificadas. |
-| #mishlei_24_15-16 | El reposo del justo está protegido y sus siete caídas culminan en levantamiento; la clase lo conecta con la resurrección. | Promesa textual apoyada; lectura de plenitud y resurrección como conexión mesiánica. |
-| #mishlei_24_17-18 | No alegrarse de la caída del enemigo expresa la diferencia del pueblo de יהוה. | Apoyo textual; conexiones con David y Yehoshua calificadas. |
-| #mishlei_24_19-20 | No competir ni envidiar al malvado; su lámpara se apaga. | Apoyo textual; imagen del aceite y fruto como aplicación simbólica. |
-| #mishlei_24_21-22 | Temer a יהוה y al Rey, evitando alianzas con los _shonim_. | Lectura mesiánica atribuida; léxico de _shonim_ pendiente. |
+| #proverbios_24_13-14 | La miel representa palabra, Torah y Mesías; buscar sabiduría expone la enfermedad para ser sanado. | Dulzura y búsqueda apoyadas; identificación mesiánica y sanidad calificadas. |
+| #proverbios_24_15-16 | El reposo del justo está protegido y sus siete caídas culminan en levantamiento; la clase lo conecta con la resurrección. | Promesa textual apoyada; lectura de plenitud y resurrección como conexión mesiánica. |
+| #proverbios_24_17-18 | No alegrarse de la caída del enemigo expresa la diferencia del pueblo de יהוה. | Apoyo textual; conexiones con David y Yehoshua calificadas. |
+| #proverbios_24_19-20 | No competir ni envidiar al malvado; su lámpara se apaga. | Apoyo textual; imagen del aceite y fruto como aplicación simbólica. |
+| #proverbios_24_21-22 | Temer a יהוה y al Rey, evitando alianzas con los _shonim_. | Lectura mesiánica atribuida; léxico de _shonim_ pendiente. |
 
 ## Pendiente de verificar
 

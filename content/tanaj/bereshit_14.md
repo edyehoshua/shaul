@@ -7,10 +7,10 @@ tags:
   - malkitzedek
   - bereshit_14
 references:
-  - "#bereshit_14_20"
-  - "#ivrim_7_1"
-  - "#vaikra_23_30"
-  - "#bereshit_28_22"
+  - "#genesis_14_20"
+  - "#hebreos_7_1"
+  - "#levitico_23_30"
+  - "#genesis_28_22"
 sources: []
 ---
 
@@ -20,13 +20,13 @@ Bereshit 14:20 introduce el maaser en relación con Malkitzedek y sirve aquí co
 
 ## Texto base
 
-- #bereshit_14_20
+- #genesis_14_20
 
 ## Hoja de comparación
 
 | Referencia      | Hebreo                                                                                     | TTH local                                                    | Observación                                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| #bereshit_14_20 | **(וּבָרוּךְ אֵל עֶלְיוֹן אֲשֶׁר מִגֵּן צָרֶיךָ בְּיָדֶךָ וַיִּתֶּן לוֹ מַעֲשֵׂר מִכֹּל)** | y bendito es El Elyón, que entregó tus enemigos en tu mano”. | El TTH local conserva la bendición; la nota sigue concentrando la atención en maaser desde el hebreo del pasaje. |
+| #genesis_14_20 | **(וּבָרוּךְ אֵל עֶלְיוֹן אֲשֶׁר מִגֵּן צָרֶיךָ בְּיָדֶךָ וַיִּתֶּן לוֹ מַעֲשֵׂר מִכֹּל)** | y bendito es El Elyón, que entregó tus enemigos en tu mano”. | El TTH local conserva la bendición; la nota sigue concentrando la atención en maaser desde el hebreo del pasaje. |
 
 ## Léxico base
 
@@ -36,6 +36,6 @@ Bereshit 14:20 introduce el maaser en relación con Malkitzedek y sirve aquí co
 
 ## Conexiones
 
-- #ivrim_7_1
-- #vaikra_23_30
-- #bereshit_28_22
+- #hebreos_7_1
+- #levitico_23_30
+- #genesis_28_22

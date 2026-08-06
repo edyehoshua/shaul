@@ -9,12 +9,12 @@ tags:
   - redencion
   - promesa
 references:
-  - "#bereshit_49_10"
-  - "#yeshayahu_11_1-5"
-  - "#yeshayahu_42_1-4"
-  - "#yeshayahu_59_20"
+  - "#genesis_49_10"
+  - "#isaias_11_1-5"
+  - "#isaias_42_1-4"
+  - "#isaias_59_20"
   - "#romanos_11_25-29"
-  - "#maasei_3_19-21"
+  - "#hechos_3_19-21"
 sources:
   - "https://www.youtube.com/watch?v=U6SQe5EOnF4"
   - "docs/scriptures/oe/json/genesis/49.json"
@@ -40,10 +40,10 @@ Esta nota temática conserva el alcance visible de `youtube:U6SQe5EOnF4`, cuyo t
 
 | Referencia        | Núcleo de la Escritura                                                           | Evaluación del foco mesiánico                                                               |
 | ----------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| #bereshit_49_10   | El cetro y el gobierno se relacionan con Yehudá y la reunión de los pueblos.     | La esperanza tiene raíz real y comunitaria, no solo individual.                             |
-| #yeshayahu_11_1-5 | El retoño de Yishai juzga con justicia y con el espíritu de sabiduría.           | El reinado esperado se mide por justicia para el débil.                                     |
-| #yeshayahu_42_1-4 | El siervo lleva justicia sin quebrar la caña débil.                              | La misión mesiánica une autoridad y cuidado humilde.                                        |
-| #yeshayahu_59_20  | El Redentor viene a Tziyón y aparta la impiedad de Yaakov.                       | La redención toca al pueblo y su retorno, no una salvación deshistorizada.                  |
+| #genesis_49_10   | El cetro y el gobierno se relacionan con Yehudá y la reunión de los pueblos.     | La esperanza tiene raíz real y comunitaria, no solo individual.                             |
+| #isaias_11_1-5 | El retoño de Yishai juzga con justicia y con el espíritu de sabiduría.           | El reinado esperado se mide por justicia para el débil.                                     |
+| #isaias_42_1-4 | El siervo lleva justicia sin quebrar la caña débil.                              | La misión mesiánica une autoridad y cuidado humilde.                                        |
+| #isaias_59_20  | El Redentor viene a Tziyón y aparta la impiedad de Yaakov.                       | La redención toca al pueblo y su retorno, no una salvación deshistorizada.                  |
 | #romanos_11_25-29 | El misterio reúne dureza parcial, plenitud de naciones, Redentor, pacto y dones. | La esperanza apostólica conserva la elección y la misericordia, sin entregar un calendario. |
 
 ## La promesa real y la reunión de los pueblos
@@ -56,11 +56,11 @@ El título de la fuente hace visible la pregunta por lo que Israel debe esperar.
 
 Yesha’yahu 11 describe un retoño que sale del tronco de Yishai. **(חטר)**, _joter_, significa vara, retoño o brote; su fuerza contextual es la vida que surge de una línea aparentemente reducida. «Retoño» es una glosa directa y la aplicación mesiánica es canónica cuando se sigue el capítulo, no cuando se convierte la imagen en una etimología universal. El espíritu de sabiduría, entendimiento, consejo y conocimiento acompaña al gobernante.
 
-La señal decisiva es el juicio justo. El gobernante no juzga por lo que sus ojos ven ni decide por lo que sus oídos oyen, sino que juzga al pobre con justicia y reprende al malvado con la palabra de sus labios (#yeshayahu_11_3-4). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; en este contexto su fuerza es un gobierno que protege al vulnerable y confronta la maldad. «Juzgar» es directo; convertir el término en mera condena punitiva sería reductivo. El Mesías esperado se reconoce por justicia, no por una afirmación sin fruto.
+La señal decisiva es el juicio justo. El gobernante no juzga por lo que sus ojos ven ni decide por lo que sus oídos oyen, sino que juzga al pobre con justicia y reprende al malvado con la palabra de sus labios (#isaias_11_3-4). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; en este contexto su fuerza es un gobierno que protege al vulnerable y confronta la maldad. «Juzgar» es directo; convertir el término en mera condena punitiva sería reductivo. El Mesías esperado se reconoce por justicia, no por una afirmación sin fruto.
 
 ## El siervo: autoridad que no destruye al débil
 
-Yesha’yahu 42 presenta al siervo elegido que trae justicia a las naciones. **(משפט)**, _mishpat_, significa juicio, justicia u orden recto; su fuerza aquí es una justicia que llega a las naciones sin violencia teatral. «Justicia» es directa como campo, pero fijar toda la identidad del siervo desde una sola traducción es cualificado. El siervo no quiebra la caña cascada ni apaga el pábilo que humea (#yeshayahu_42_3). **(רוץ)**, _ruts_, significa quebrar, aplastar o correr según la forma y el contexto; en esta imagen la fuerza es no destruir al débil. La esperanza mesiánica une poder y paciencia.
+Yesha’yahu 42 presenta al siervo elegido que trae justicia a las naciones. **(משפט)**, _mishpat_, significa juicio, justicia u orden recto; su fuerza aquí es una justicia que llega a las naciones sin violencia teatral. «Justicia» es directa como campo, pero fijar toda la identidad del siervo desde una sola traducción es cualificado. El siervo no quiebra la caña cascada ni apaga el pábilo que humea (#isaias_42_3). **(רוץ)**, _ruts_, significa quebrar, aplastar o correr según la forma y el contexto; en esta imagen la fuerza es no destruir al débil. La esperanza mesiánica une poder y paciencia.
 
 Esta unidad corrige dos errores. No permite reducir al Mashiaj a una autoridad sin compasión, pero tampoco transforma la mansedumbre en ausencia de justicia. El siervo establece justicia y persevera hasta afirmarla. La observación pública de Eric sobre lo que Israel debe esperar puede evaluarse con este equilibrio: la esperanza bíblica tiene gobierno, restauración y cuidado, aunque el título no autorice una reconstrucción detallada de la clase.
 
@@ -74,10 +74,10 @@ Yesha’yahu 59:20 anuncia un Redentor que viene a Tziyón y aparta la impiedad 
 
 | Unidad                                                      | Observación atribuible por la fuente pública                                         | Evaluación frente a la Escritura                                                                                                       |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| #bereshit_49_10; `youtube:U6SQe5EOnF4`                      | El título dirige la atención a lo que Israel debe esperar del Mashiaj.               | Apoyo cualificado: la promesa real y la reunión de pueblos ofrecen el marco; no se atribuye una explicación oral no disponible.        |
-| #yeshayahu_11_1-5; `youtube:U6SQe5EOnF4`                    | La esperanza mesiánica puede evaluarse por el retoño, el espíritu y el juicio justo. | Apoyo textual directo: el gobernante juzga al pobre con justicia; esquemas adicionales quedan pendientes.                              |
-| #yeshayahu_42_1-4; `youtube:U6SQe5EOnF4`                    | El Mesías esperado no es solo poder, sino también siervo que sostiene al débil.      | Apoyo canónico y cualificado: el siervo trae justicia sin quebrar la caña; la identificación detallada del título exige más evidencia. |
-| #yeshayahu_59_20 y #romanos_11_25-29; `youtube:U6SQe5EOnF4` | La esperanza se relaciona con el Redentor de Tziyón y la continuidad de Israel.      | Apoyo textual cualificado: Romanos conserva pacto, padres y dones; no autoriza un calendario escatológico completo.                    |
+| #genesis_49_10; `youtube:U6SQe5EOnF4`                      | El título dirige la atención a lo que Israel debe esperar del Mashiaj.               | Apoyo cualificado: la promesa real y la reunión de pueblos ofrecen el marco; no se atribuye una explicación oral no disponible.        |
+| #isaias_11_1-5; `youtube:U6SQe5EOnF4`                    | La esperanza mesiánica puede evaluarse por el retoño, el espíritu y el juicio justo. | Apoyo textual directo: el gobernante juzga al pobre con justicia; esquemas adicionales quedan pendientes.                              |
+| #isaias_42_1-4; `youtube:U6SQe5EOnF4`                    | El Mesías esperado no es solo poder, sino también siervo que sostiene al débil.      | Apoyo canónico y cualificado: el siervo trae justicia sin quebrar la caña; la identificación detallada del título exige más evidencia. |
+| #isaias_59_20 y #romanos_11_25-29; `youtube:U6SQe5EOnF4` | La esperanza se relaciona con el Redentor de Tziyón y la continuidad de Israel.      | Apoyo textual cualificado: Romanos conserva pacto, padres y dones; no autoriza un calendario escatológico completo.                    |
 
 ## Léxico clave
 

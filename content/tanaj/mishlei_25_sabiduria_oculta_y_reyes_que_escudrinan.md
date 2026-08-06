@@ -4,15 +4,15 @@ description: "La apertura de Mishlei 25 sobre la transmisión de los dichos, el 
 date: 2026-08-05
 tags: [mishlei, mishlei_25, sabiduria, escudrinar, humildad, reyes]
 references:
-  - "#mishlei_25_1"
-  - "#mishlei_25_2"
-  - "#mishlei_25_3"
-  - "#mishlei_25_4"
-  - "#mishlei_25_5"
-  - "#mishlei_25_6"
-  - "#mishlei_25_7"
-  - "#corintios1_2_6"
-  - "#corintios1_2_7"
+  - "#proverbios_25_1"
+  - "#proverbios_25_2"
+  - "#proverbios_25_3"
+  - "#proverbios_25_4"
+  - "#proverbios_25_5"
+  - "#proverbios_25_6"
+  - "#proverbios_25_7"
+  - "#1_corintios_2_6"
+  - "#1_corintios_2_7"
   - "#mateo_13_11"
 sources:
   - "https://www.youtube.com/watch?v=yjhMzv3OUJU"
@@ -37,12 +37,12 @@ Esta nota organiza la apertura de la clase sobre Mishlei 25 y sigue los versos 1
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_25_1 | גם אלה משלי שלמה אשר העתיקו אנשי חזקיה מלך יהודה | También estos son proverbios de Shelomóh, que transmitieron los hombres de Jizkiyah, rey de Iehudáh: |
-| #mishlei_25_2 | כבד אלהים הסתר דבר וכבד מלכים חקר דבר | Honra de Elohim es ocultar un asunto, y honra de los reyes es escudriñar el asunto. |
-| #mishlei_25_3 | שמים לרום וארץ לעמק ולב מלכים אין חקר | Los cielos para altura, la tierra para profundidad, y el corazón de los reyes, inescrutable. |
-| #mishlei_25_4 | הגו סיגים מכסף ויצא לצרף כלי | Remueve la escoria de la plata, y saldrá un utensilio para el fundidor; |
-| #mishlei_25_5 | הגו רשע לפני מלך ויכון בצדק כסאו | remueve al condenado del rostro del Rey, y se afirmará en justicia su trono. |
-| #mishlei_25_6-7 | אל תתהדר לפני מלך ... כי טוב אמר לך עלה הנה | No te gloríes delante del Rey... Porque más bueno es que te diga: “Sube acá”, que se te haga bajar... |
+| #proverbios_25_1 | גם אלה משלי שלמה אשר העתיקו אנשי חזקיה מלך יהודה | También estos son proverbios de Shelomóh, que transmitieron los hombres de Jizkiyah, rey de Yehudáh: |
+| #proverbios_25_2 | כבד אלהים הסתר דבר וכבד מלכים חקר דבר | Honra de Elohim es ocultar un asunto, y honra de los reyes es escudriñar el asunto. |
+| #proverbios_25_3 | שמים לרום וארץ לעמק ולב מלכים אין חקר | Los cielos para altura, la tierra para profundidad, y el corazón de los reyes, inescrutable. |
+| #proverbios_25_4 | הגו סיגים מכסף ויצא לצרף כלי | Remueve la escoria de la plata, y saldrá un utensilio para el fundidor; |
+| #proverbios_25_5 | הגו רשע לפני מלך ויכון בצדק כסאו | remueve al condenado del rostro del Rey, y se afirmará en justicia su trono. |
+| #proverbios_25_6-7 | אל תתהדר לפני מלך ... כי טוב אמר לך עלה הנה | No te gloríes delante del Rey... Porque más bueno es que te diga: “Sube acá”, que se te haga bajar... |
 
 Como contraste local, 1 Corintios 2:6-7 habla de sabiduría entre los completos y del “secreto de la sabiduría de Elohim, la oculta”, destinada a nuestra gloria. La correspondencia con Mishlei es temática y pedagógica, no una identidad de vocabulario ni una autorización para convertir todo misterio en una explicación privada.
 
@@ -80,10 +80,10 @@ El cierre ordena no glorificarse delante del rey ni ocupar el lugar de los grand
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_25_1 | Los hombres de Jizkiyah transmiten dichos de Shelomóh y la palabra permanece a través de generaciones. | Apoyo textual; cronología y detalles de custodia quedan calificados. |
-| #mishlei_25_2-3 | La gloria de Elohim oculta el _davar_, mientras los reyes lo escudriñan; los reyes se leen como quienes reciben corona. | Apoyo léxico y conexión con 1 Corintios 2; aplicación corporativa cualificada. |
-| #mishlei_25_4-5 | Escudriñar incluye quitar escoria y remover al malvado para afirmar un trono justo. | Apoyo textual directo; extensión comunitaria pedagógica. |
-| #mishlei_25_6-7 | El buscador no debe exaltarse, sino esperar la invitación del rey. | Apoyo textual directo y aplicación de humildad. |
+| #proverbios_25_1 | Los hombres de Jizkiyah transmiten dichos de Shelomóh y la palabra permanece a través de generaciones. | Apoyo textual; cronología y detalles de custodia quedan calificados. |
+| #proverbios_25_2-3 | La gloria de Elohim oculta el _davar_, mientras los reyes lo escudriñan; los reyes se leen como quienes reciben corona. | Apoyo léxico y conexión con 1 Corintios 2; aplicación corporativa cualificada. |
+| #proverbios_25_4-5 | Escudriñar incluye quitar escoria y remover al malvado para afirmar un trono justo. | Apoyo textual directo; extensión comunitaria pedagógica. |
+| #proverbios_25_6-7 | El buscador no debe exaltarse, sino esperar la invitación del rey. | Apoyo textual directo y aplicación de humildad. |
 
 ## Pendiente de verificar
 
@@ -94,9 +94,9 @@ El cierre ordena no glorificarse delante del rey ni ocupar el lugar de los grand
 
 ## Conexiones principales
 
-- #corintios1_2_6-9: la sabiduría oculta de Elohim y el límite de los gobernantes de este siglo; conexión temática, no equivalencia automática.
+- #1_corintios_2_6-9: la sabiduría oculta de Elohim y el límite de los gobernantes de este siglo; conexión temática, no equivalencia automática.
 - #mateo_13_11: Yehoshua habla de conocer los secretos del reino; la relación con el “asunto oculto” es una aplicación intertextual.
-- #mishlei_1_5: el sabio escucha y aumenta su aprendizaje; escudriñar presupone disposición a recibir.
+- #proverbios_1_5: el sabio escucha y aumenta su aprendizaje; escudriñar presupone disposición a recibir.
 
 ## Conclusión
 

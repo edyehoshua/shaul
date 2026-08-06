@@ -9,15 +9,15 @@ tags:
   - emunah
   - discernimiento
 references:
-  - "#tehilim_12_1"
-  - "#tehilim_12_2"
-  - "#tehilim_12_3"
-  - "#tehilim_12_4"
-  - "#tehilim_12_5"
-  - "#tehilim_12_6"
-  - "#tehilim_12_7"
-  - "#tehilim_12_8"
-  - "#tehilim_12_9"
+  - "#salmos_12_1"
+  - "#salmos_12_2"
+  - "#salmos_12_3"
+  - "#salmos_12_4"
+  - "#salmos_12_5"
+  - "#salmos_12_6"
+  - "#salmos_12_7"
+  - "#salmos_12_8"
+  - "#salmos_12_9"
 sources:
   - "https://www.youtube.com/watch?v=MYDQJFr4uRA"
   - "docs/scriptures/oe/json/psalms/12.json"
@@ -38,17 +38,17 @@ Esta nota organiza la enseñanza «Tehillim/Psalms/Psalm Ch. 12» en el orden de
 
 | Referencia | Texto hebreo local (OE, normalizado) | Función en la lectura |
 | --- | --- | --- |
-| #tehilim_12_1 | למנצח על השמינית מזמור לדוד | Encabezado musical que abre la composición. |
-| #tehilim_12_2 | הושיעה יהוה כי גמר חסיד כי פסו אמונים מבני אדם | La oración nace de la escasez de fidelidad. |
-| #tehilim_12_3 | שוא ידברו איש את רעהו שפת חלקות בלב ולב ידברו | El mal se expresa como habla vacía y doble. |
-| #tehilim_12_4 | יכרת יהוה כל שפתי חלקות לשון מדברת גדלות | יהוה juzga los labios halagadores y la grandeza verbal. |
-| #tehilim_12_5 | אשר אמרו ללשננו נגביר שפתינו אתנו מי אדון לנו | La voz arrogante se declara sin señor. |
-| #tehilim_12_6 | משד עניים מאנקת אביונים עתה אקום יאמר יהוה אשית בישע יפיח לו | La opresión y el gemido reciben la respuesta de יהוה. |
-| #tehilim_12_7 | אמרות יהוה אמרות טהרות כסף צרוף בעליל לארץ מזקק שבעתים | Las palabras de יהוה se comparan con plata refinada. |
-| #tehilim_12_8 | אתה יהוה תשמרם תצרנו מן הדור זו לעולם | El salmo confiesa que יהוה guarda frente a esta generación. |
-| #tehilim_12_9 | סביב רשעים יתהלכון כרם זלות לבני אדם | El cierre mantiene ante los ojos el entorno donde prospera lo vil. |
+| #salmos_12_1 | למנצח על השמינית מזמור לדוד | Encabezado musical que abre la composición. |
+| #salmos_12_2 | הושיעה יהוה כי גמר חסיד כי פסו אמונים מבני אדם | La oración nace de la escasez de fidelidad. |
+| #salmos_12_3 | שוא ידברו איש את רעהו שפת חלקות בלב ולב ידברו | El mal se expresa como habla vacía y doble. |
+| #salmos_12_4 | יכרת יהוה כל שפתי חלקות לשון מדברת גדלות | יהוה juzga los labios halagadores y la grandeza verbal. |
+| #salmos_12_5 | אשר אמרו ללשננו נגביר שפתינו אתנו מי אדון לנו | La voz arrogante se declara sin señor. |
+| #salmos_12_6 | משד עניים מאנקת אביונים עתה אקום יאמר יהוה אשית בישע יפיח לו | La opresión y el gemido reciben la respuesta de יהוה. |
+| #salmos_12_7 | אמרות יהוה אמרות טהרות כסף צרוף בעליל לארץ מזקק שבעתים | Las palabras de יהוה se comparan con plata refinada. |
+| #salmos_12_8 | אתה יהוה תשמרם תצרנו מן הדור זו לעולם | El salmo confiesa que יהוה guarda frente a esta generación. |
+| #salmos_12_9 | סביב רשעים יתהלכון כרם זלות לבני אדם | El cierre mantiene ante los ojos el entorno donde prospera lo vil. |
 
-## Del encabezado a la súplica: Tehilim 12:1–2
+## Del encabezado a la súplica: Tehilim 12:1–2 #salmos_12_1-2
 
 Eric comienza con el encabezado y observa que **(השמינית)**, *hasheminit*, «la octava», puede sugerir un marco musical y, en su lectura, evocar el «día octavo». El texto local confirma la forma del encabezado, pero no explica por sí solo ese sentido adicional; por eso la relación escatológica queda pendiente de verificar.
 
@@ -56,7 +56,7 @@ En el v. 2, la clase se detiene en **(הושיעה)**, *hoshia*, el imperativo �
 
 La clase conecta esta sensación de oscuridad con Yeshayahu 60 y con la espera de Israel antes de Yehoshua. Esa aplicación preserva el tono concreto de Eric —una minoría fiel que parece extinguirse—, pero Tehilim 12 no nombra a Roma ni fecha su escenario. La conexión histórica y mesiánica se mantiene como inferencia cualificada.
 
-## Labios lisos, doble corazón y autosuficiencia: Tehilim 12:3–5
+## Labios lisos, doble corazón y autosuficiencia: Tehilim 12:3–5 #salmos_12_3-5
 
 El poema pasa de la falta de fieles al modo en que se habla: **(שוא)**, *shav*, nombra lo vano o vacío; **(שפת חלקות)**, *sefat halaqot*, son «labios lisos» o halagadores; y **(בלב ולב)**, *belev valev*, literalmente «con corazón y corazón», describe una comunicación dividida. Eric conserva la imagen literal para denunciar una apariencia rigurosa que encubre otra intención. Esta observación tiene apoyo textual en la repetición de labios, lengua y corazón; no exige convertir cada hablante del salmo en un grupo histórico determinado.
 
@@ -64,7 +64,7 @@ La clase propone que *halaqot* no es mera lisonja: lo relaciona con una «atenua
 
 El v. 5 explicita su orgullo: los hablantes creen que por su lengua prevalecerán y preguntan «¿quién es señor para nosotros?». Eric entiende esto como una rebelión que puede vestirse de religiosidad. La nota evalúa esa aplicación como inferencia cualificada: el versículo sí contrapone la autonomía verbal con el señorío que ellos rechazan, aunque no enumera instituciones ni doctrinas posteriores.
 
-## יהוה se levanta y sus palabras son puras: Tehilim 12:6–7
+## יהוה se levanta y sus palabras son puras: Tehilim 12:6–7 #salmos_12_6-7
 
 En el v. 6 cambia la voz: por el despojo de los pobres y el gemido de los necesitados, יהוה dice «ahora me levantaré». Eric subraya que levantarse del trono significa actuar y lo vincula a la obra salvadora de Yehoshua. La primera parte de la observación —la intervención divina ante la opresión— sigue el verso; la identificación de ese «levantaré» con una única venida mesiánica es una lectura teológica de la clase, no una afirmación explícita del salmo.
 
@@ -72,7 +72,7 @@ Eric además discute una lectura alternativa para la última frase del v. 6 y la
 
 El v. 7 ofrece el contraste decisivo: frente a labios dobles, las **(אמרות יהוה)**, *imrot יהוה*, son puras, como plata refinada. Eric ve aquí continuidad entre las palabras de יהוה y la enseñanza de Yehoshua, y aplica la metáfora de la refinación a su inocencia probada. La comparación poética afirma sin duda la pureza de las palabras divinas; su traslado directo a la persona del Mesías es una analogía teológica, no una equivalencia léxica exacta. **(טהרות)**, *tehorot*, significa «puras», y **(מזקק שבעתים)**, *mezuqaq shivatayim*, intensifica la imagen de refinamiento «siete veces».
 
-## Guarda en medio de la generación: Tehilim 12:8–9
+## Guarda en medio de la generación: Tehilim 12:8–9 #salmos_12_8-9
 
 Eric observa que el v. 8 contiene pronombres cuya referencia ha sido discutida y propone una lectura singular para enlazarla con el Mesías; después relaciona «esta generación» con expresiones de los Evangelios. El texto local dice «los guardarás» y «lo guardarás» en la misma línea. La nota no resuelve esa dificultad por conjetura: reconoce que el salmo confiesa la protección de יהוה, pero deja la decisión textual y la conexión evangélica para verificación.
 
@@ -93,11 +93,11 @@ El v. 9 no elimina la tensión: los malvados siguen rondando cuando lo vil es ex
 
 | Unidad textual | Punto tomado de Eric | Evaluación en la nota |
 | --- | --- | --- |
-| #tehilim_12_1–2 | La «octava» y el clamor *hoshia* encuadran una crisis donde los *hasid* y *emunim* parecen agotarse. | El encabezado y la súplica se cotejan con OE; la lectura del «día octavo» y su alcance mesiánico quedan como inferencia cualificada. |
-| #tehilim_12_3–5 | Los «labios lisos» y el «corazón y corazón» denuncian apariencias religiosas que debilitan la Torah mientras reclaman autonomía. | El engaño y la arrogancia se apoyan en el texto; Qumrán, fariseos y desarrollos sobre religiones posteriores quedan pendientes de verificar. |
-| #tehilim_12_6 | יהוה se levanta por los pobres; Eric lo vincula a la salvación realizada por Yehoshua y propone una variante textual. | La respuesta a la opresión tiene apoyo textual; la lectura mesiánica y la variante se clasifican como inferencia y crítica textual pendientes. |
-| #tehilim_12_7 | La plata purificada retrata palabras sin impureza y Eric la conecta con la enseñanza y la inocencia de Yehoshua. | La pureza de las palabras de יהוה está explícita; la aplicación cristológica se conserva como analogía teológica cualificada. |
-| #tehilim_12_8–9 | La preservación ante «esta generación» se asocia con los Evangelios y con vigilancia frente a voces engañosas. | La protección y el entorno de maldad se cotejan con OE; pronombres, testigos y conexiones apostólicas quedan pendientes de verificar. |
+| #salmos_12_1–2 | La «octava» y el clamor *hoshia* encuadran una crisis donde los *hasid* y *emunim* parecen agotarse. | El encabezado y la súplica se cotejan con OE; la lectura del «día octavo» y su alcance mesiánico quedan como inferencia cualificada. |
+| #salmos_12_3–5 | Los «labios lisos» y el «corazón y corazón» denuncian apariencias religiosas que debilitan la Torah mientras reclaman autonomía. | El engaño y la arrogancia se apoyan en el texto; Qumrán, fariseos y desarrollos sobre religiones posteriores quedan pendientes de verificar. |
+| #salmos_12_6 | יהוה se levanta por los pobres; Eric lo vincula a la salvación realizada por Yehoshua y propone una variante textual. | La respuesta a la opresión tiene apoyo textual; la lectura mesiánica y la variante se clasifican como inferencia y crítica textual pendientes. |
+| #salmos_12_7 | La plata purificada retrata palabras sin impureza y Eric la conecta con la enseñanza y la inocencia de Yehoshua. | La pureza de las palabras de יהוה está explícita; la aplicación cristológica se conserva como analogía teológica cualificada. |
+| #salmos_12_8–9 | La preservación ante «esta generación» se asocia con los Evangelios y con vigilancia frente a voces engañosas. | La protección y el entorno de maldad se cotejan con OE; pronombres, testigos y conexiones apostólicas quedan pendientes de verificar. |
 
 ## Pendiente de verificar
 

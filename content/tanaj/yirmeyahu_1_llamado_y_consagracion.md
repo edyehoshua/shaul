@@ -3,7 +3,7 @@ title: "Llamado y consagración profética"
 description: "Jeremías 1 presenta el llamado del profeta como iniciativa de יהוה."
 date: 2026-07-27
 tags: [tanaj, yirmeyahu, haftarah, pinjas, shmot]
-references: ["#irmeiahu_1_5"]
+references: ["#jeremias_1_5"]
 sources:
   - "https://www.youtube.com/watch?v=99WHQ0Av16E"
   - "https://www.youtube.com/watch?v=auNeYXUmbKg"
@@ -15,13 +15,13 @@ source_ids:
 
 # Tesis
 
-#irmeiahu_1 presenta el llamado de Jeremías como iniciativa de יהוה: conocimiento, consagración y envío preceden la tarea profética.
+#jeremias_1 presenta el llamado de Jeremías como iniciativa de יהוה: conocimiento, consagración y envío preceden la tarea profética.
 
 ## Hoja de comparación
 
 | Referencia    | Hebreo local                                                             | Observación                                  |
 | ------------- | ------------------------------------------------------------------------ | -------------------------------------------- |
-| #irmeiahu_1_5 | בטרם אצורך בבטן ידעתיך ובטרם תצא מרחם הקדשתיך נביא לגוים נתתיך | El envío procede de la consagración de יהוה. |
+| #jeremias_1_5 | בטרם אצורך בבטן ידעתיך ובטרם תצא מרחם הקדשתיך נביא לגוים נתתיך | El envío procede de la consagración de יהוה. |
 
 ## Lectura
 
@@ -34,6 +34,6 @@ El mensajero pertenece a la misión de יהוה antes que a su propia autosufici
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de Pinjás (2018) Qódesh yisra'el laYHWH](https://www.youtube.com/watch?v=99WHQ0Av16E) — source_id: `youtube:99WHQ0Av16E`.
-- Video: [Haftaráh de Shmot (2017) La conciencia de ser siervo de la justicia](https://www.youtube.com/watch?v=auNeYXUmbKg) — source_id: `youtube:auNeYXUmbKg`.
+- Video: [Haftarah de Pinjás (2018) Qódesh yisra'el laYHWH](https://www.youtube.com/watch?v=99WHQ0Av16E) — `source_id`: `youtube:99WHQ0Av16E`.
+- Video: [Haftaráh de Shmot (2017) La conciencia de ser siervo de la justicia](https://www.youtube.com/watch?v=auNeYXUmbKg) — `source_id`: `youtube:auNeYXUmbKg`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales ni como sustitutos de la Escritura.

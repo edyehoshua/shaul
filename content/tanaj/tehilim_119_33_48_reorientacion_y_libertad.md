@@ -8,8 +8,8 @@ tags:
   - torah
   - eric-youtube
 references:
-  - "#tehilim_119_33-40"
-  - "#tehilim_119_41-48"
+  - "#salmos_119_33-40"
+  - "#salmos_119_41-48"
 sources:
   - "https://www.youtube.com/watch?v=3lKWKZyOYao"
   - "docs/scriptures/oe/json/psalms/119.json"
@@ -30,11 +30,11 @@ Esta nota desarrolla la clase pública de Eric sobre Tehilim 119:33-48 y la cont
 
 | Unidad             | Texto local (OE, hebreo sin nikud)                                                                                                                                                                                                                                                      | Función en el argumento                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #tehilim_119_33-36 | **הורני יהוה דרך חקיך ואצרנה עקב / הבינני ואצרה תורתך ואשמרנה בכל לב / הדריכני בנתיב מצותיך כי בו חפצתי / הט לבי אל עדותיך ואל אל בצע**                                                                                                                                                 | Enseñar, entender, encaminar e inclinar el corazón antes de guardar y andar.            |
-| #tehilim_119_37-40 | **העבר עיני מראות שוא בדרכך חיני / הקם לעבדך אמרתך אשר ליראתך / העבר חרפתי אשר יגרתי כי משפטיך טובים / הנה תאבתי לפקדיך בצדקתך חיני**                                                                                                                                                   | Apartar la mirada de lo vano, afirmar la palabra y pedir vida en los juicios justos.    |
-| #tehilim_119_41-48 | **ויבאני חסדך יהוה תשועתך כאמרתך / ואענה חרפי דבר כי בטחתי בדברך / ואל תצל מפי דבר אמת עד מאד כי למשפטך יחלתי / ואשמרה תורתך תמיד לעולם ועד / ואתהלכה ברחבה כי פקדיך דרשתי / ואדברה בעדתיך נגד מלכים ולא אבוש / ואשתעשע במצותיך אשר אהבתי / ואשא כפי אל מצותיך אשר אהבתי ואשיחה בחקיך** | La misericordia produce respuesta, perseverancia, libertad amplia y testimonio público. |
+| #salmos_119_33-36 | **הורני יהוה דרך חקיך ואצרנה עקב / הבינני ואצרה תורתך ואשמרנה בכל לב / הדריכני בנתיב מצותיך כי בו חפצתי / הט לבי אל עדותיך ואל אל בצע**                                                                                                                                                 | Enseñar, entender, encaminar e inclinar el corazón antes de guardar y andar.            |
+| #salmos_119_37-40 | **העבר עיני מראות שוא בדרכך חיני / הקם לעבדך אמרתך אשר ליראתך / העבר חרפתי אשר יגרתי כי משפטיך טובים / הנה תאבתי לפקדיך בצדקתך חיני**                                                                                                                                                   | Apartar la mirada de lo vano, afirmar la palabra y pedir vida en los juicios justos.    |
+| #salmos_119_41-48 | **ויבאני חסדך יהוה תשועתך כאמרתך / ואענה חרפי דבר כי בטחתי בדברך / ואל תצל מפי דבר אמת עד מאד כי למשפטך יחלתי / ואשמרה תורתך תמיד לעולם ועד / ואתהלכה ברחבה כי פקדיך דרשתי / ואדברה בעדתיך נגד מלכים ולא אבוש / ואשתעשע במצותיך אשר אהבתי / ואשא כפי אל מצותיך אשר אהבתי ואשיחה בחקיך** | La misericordia produce respuesta, perseverancia, libertad amplia y testimonio público. |
 
-## 119:33-36: ser reorientado para guardar
+## 119:33-36: ser reorientado para guardar #salmos_119_33-36
 
 La estrofa empieza con una petición, no con una autosuficiencia: **הורני יהוה דרך חקיך**, “enséñame, יהוה, el camino de tus estatutos”. Eric lee el verbo de “enseñar” junto con la imagen de reorientar un proyectil o volver a poner a alguien en la senda, y lo explica pedagógicamente como un GPS que redirige al que se ha perdido. La imagen moderna no es el sentido lexical del verso, pero sí hace visible la secuencia del salmo: la dirección viene de יהוה y el objetivo es guardar los estatutos hasta el final.
 
@@ -42,13 +42,13 @@ El v. 34 añade **הבינני**, “hazme entender”, y conecta el entendimien
 
 En el v. 35, **הדריכני** pide “encamíname” en el sendero de los mandamientos, porque allí el orante se deleita. El paralelismo entre enseñar, entender y encaminar muestra un proceso: una nueva área de vida puede necesitar dirección sin que el destino del camino cambie. En el v. 36 la petición se vuelve interior: inclinar el corazón a los testimonios y no al **בצע**, el provecho o ganancia. Eric contrasta el beneficio inmediato que la lógica humana maximiza con el deleite que el salmo encuentra en los mandamientos. El texto no condena toda utilidad, pero sí pide que el corazón no sea gobernado por ella.
 
-## 119:37-40: mirada, promesa y deseo por los mandamientos
+## 119:37-40: mirada, promesa y deseo por los mandamientos #salmos_119_37-40
 
 El orante pide: **העבר עיני מראות שוא**, “aparta mis ojos de mirar vanidad”. Eric relaciona esta petición con una mirada que debe ser retirada de lo vacío para volver al camino de יהוה. Esa aplicación está anclada en el paralelismo: apartar los ojos y vivificar “en tu camino”. Luego pide que la palabra sea afirmada al siervo que teme a יהוה. La relación entre **אמרה**, palabra/promesa, y el temor reverente es contextual: no se trata de una fórmula mágica, sino de que la palabra recibida quede establecida en la vida.
 
 El v. 39 pide retirar el oprobio que el orante teme, porque los juicios de יהוה son buenos; el v. 40 declara deseo por los mandamientos y vuelve a pedir vida en la justicia divina. Eric insiste en que el salmo no presenta el mandamiento como una pérdida definitiva de libertad. Esa lectura necesita matiz: la estrofa sí habla de límites y corrección, pero llama “camino espacioso” a la vida que busca los preceptos. La libertad del v. 45 no es hacer cualquier cosa, sino andar en amplitud porque los mandamientos han sido buscados.
 
-## 119:41-48: misericordia, libertad y voz pública
+## 119:41-48: misericordia, libertad y voz pública #salmos_119_41-48
 
 La segunda mitad pide que lleguen la misericordia y la salvación conforme a la palabra. El orante espera poder responder al que lo afrenta porque confía en **דברך**, tu palabra. Eric conserva esta relación entre confianza y testimonio: la palabra no se usa para ganar una discusión, sino como fundamento para responder. El v. 43 pide que no sea quitada de la boca la palabra de verdad, porque la esperanza está en los juicios de יהוה. La secuencia textual sostiene una boca formada por promesa, verdad y juicio.
 

@@ -9,9 +9,9 @@ tags:
   - oracion
   - salvacion
 references:
-  - "#tehilim_35_1-10"
-  - "#tehilim_35_11-18"
-  - "#tehilim_35_19-28"
+  - "#salmos_35_1-10"
+  - "#salmos_35_11-18"
+  - "#salmos_35_19-28"
 sources:
   - "https://www.youtube.com/watch?v=_168ac52IuA"
   - "docs/scriptures/oe/json/psalms/35.json"
@@ -32,12 +32,12 @@ La nota sigue el capítulo en orden textual. La transcripción automática de la
 
 | Unidad            | Texto hebreo local (OE, normalizado)                                                                                       | Función en la lectura                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| #tehilim_35_1-3   | **לדוד ריבה יהוה את יריבי לחם את לחמי**; **החזק מגן וצנה וקומה בעזרתי**; **והרק חנית וסגר לקראת רדפי אמר לנפשי ישעתך אני** | David pide que יהוה lleve su pleito y se levante como defensor.                  |
-| #tehilim_35_4-10  | **יבשו ויכלמו מבקשי נפשי**; **ונפשי תגיל ביהוה תשיש בישועתו**; **כל עצמותי תאמרנה יהוה מי כמוך מציל עני**                  | La petición contra los perseguidores desemboca en gozo y confesión de salvación. |
-| #tehilim_35_11-18 | **ישלמוני רעה תחת טובה**; **ואני בחלותם לבושי שק**; **אודך בקהל רב**                                                       | El orante recuerda su solidaridad con quienes ahora le devuelven mal.            |
-| #tehilim_35_19-28 | **כי לא שלום ידברו ועל רגעי ארץ דברי מרמות יחשבון**; **שפטני כצדקך**; **ולשוני תהגה צדקך**                                 | La calumnia se enfrenta con el juicio justo y la alabanza pública.               |
+| #salmos_35_1-3   | **לדוד ריבה יהוה את יריבי לחם את לחמי**; **החזק מגן וצנה וקומה בעזרתי**; **והרק חנית וסגר לקראת רדפי אמר לנפשי ישעתך אני** | David pide que יהוה lleve su pleito y se levante como defensor.                  |
+| #salmos_35_4-10  | **יבשו ויכלמו מבקשי נפשי**; **ונפשי תגיל ביהוה תשיש בישועתו**; **כל עצמותי תאמרנה יהוה מי כמוך מציל עני**                  | La petición contra los perseguidores desemboca en gozo y confesión de salvación. |
+| #salmos_35_11-18 | **ישלמוני רעה תחת טובה**; **ואני בחלותם לבושי שק**; **אודך בקהל רב**                                                       | El orante recuerda su solidaridad con quienes ahora le devuelven mal.            |
+| #salmos_35_19-28 | **כי לא שלום ידברו ועל רגעי ארץ דברי מרמות יחשבון**; **שפטני כצדקך**; **ולשוני תהגה צדקך**                                 | La calumnia se enfrenta con el juicio justo y la alabanza pública.               |
 
-## 35:1-10 — El pleito se pone delante de יהוה
+## 35:1-10 — El pleito se pone delante de יהוה #salmos_35_1-10
 
 Eric comienza clasificando el capítulo como una súplica o clamor por salvación, y no como una oración genérica. En el v. 1 oye el verbo **ריבה**, _rivah_, «litigar, defender una causa, llevar un pleito», y explica que David pide a יהוה asumir el litigio contra sus contendientes. Esa observación se apoya en **ריבה יהוה את יריבי**: el salmista no se proclama juez autónomo, sino que llama al juez y defensor. La relación entre _rivah_ y «llevar mi pleito» es **aproximada pero contextual**, porque el verbo puede abarcar la disputa judicial y la defensa activa.
 
@@ -47,7 +47,7 @@ Los vv. 4-8 piden vergüenza, dispersión y caída para quienes buscan la vida d
 
 El giro de vv. 9-10 es decisivo: **ונפשי תגיל ביהוה**, «mi alma/vida se alegrará en יהוה», y **בישועתו**, _bishuato_, «en su salvación». Eric lee el gozo no como negación del peligro, sino como resultado de ver a יהוה liberar al débil. **ישועה**, _yeshuah_, significa salvación o liberación; acercarla al nombre del Mesías puede ser una conexión canónica **pedagógica**, pero aquí su fuerza inmediata es la liberación que el salmista espera de יהוה.
 
-## 35:11-18 — El bien devuelto como mal
+## 35:11-18 — El bien devuelto como mal #salmos_35_11-18
 
 En los vv. 11-12 aparecen testigos violentos que preguntan por cosas que David no conoce y le pagan mal por bien: **ישלמוני רעה תחת טובה**. Eric detiene la lectura en la inversión moral: el orante no solo sufre un ataque externo, sino que quienes recibieron bien se convierten en acusadores. El texto local confirma la asimetría; no necesitamos convertirla en una teoría psicológica sobre todo enemigo.
 
@@ -55,7 +55,7 @@ La respuesta de David en vv. 13-14 es memoria concreta de solidaridad: se visti�
 
 Los vv. 15-18 describen la alegría de los adversarios ante la caída y la petición urgente: «Adonai, ¿cuánto verás?». Eric observa que el salmo no borra la experiencia de ser rodeado por burladores; la oración vuelve a יהוה precisamente cuando el círculo social se vuelve hostil. El cierre de la unidad promete alabanza en la gran congregación: la liberación no queda encerrada en una experiencia privada.
 
-## 35:19-28 — Calumnia, juicio y alabanza
+## 35:19-28 — Calumnia, juicio y alabanza #salmos_35_19-28
 
 Los vv. 19-21 aclaran la causa de la súplica: los enemigos no hablan **שלום**, _shalom_, sino engaño, y ensanchan la boca diciendo «¡ajá, ajá!, nuestros ojos lo han visto». Eric relaciona este lenguaje con apariencias engañosas y con la necesidad de no reaccionar desde la primera acusación. **שלום** tiene el sentido normal de paz, bienestar o integridad; aquí la negación «no hablan paz» significa que sus palabras buscan daño y no reconciliación. La relación con «lenguaje manipulador» es **contextual**, no una traducción adicional.
 
@@ -77,10 +77,10 @@ Los vv. 25-28 concluyen con dos respuestas contrarias: que los enemigos no pueda
 
 | Unidad textual    | Observación concreta de la clase                                                                                                  | Tratamiento en esta nota                                                                                                       |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| #tehilim_35_1-3   | Eric llama al capítulo clamor por salvación y explica que David pone el pleito delante de יהוה antes de intentar resolverlo solo. | Apoyo textual y aclaración de **ריבה**; la aplicación de guía práctica se conserva como exhortación pastoral.                  |
-| #tehilim_35_4-10  | La clase lee el escudo, la lanza y la persecución como lenguaje militar, y vincula el final con gozo en la salvación.             | Apoyo textual; la conexión con un adversario espiritual queda como inferencia cualificada porque el salmo no nombra a Satanás. |
-| #tehilim_35_11-18 | Eric destaca que David hizo bien a quienes ahora le pagan con mal y que el dolor no se oculta ante יהוה.                          | Apoyo textual en los vv. 11-14 y desarrollo atribuible de la aplicación sobre el enemigo.                                      |
-| #tehilim_35_19-28 | La calumnia exige juicio justo; la respuesta final es que la lengua hable de la justicia de יהוה y alabe en público.              | Apoyo textual y aclaración de **שלום**, **צדק** y **תהגה**; «vindicación» se marca como aproximación.                          |
+| #salmos_35_1-3   | Eric llama al capítulo clamor por salvación y explica que David pone el pleito delante de יהוה antes de intentar resolverlo solo. | Apoyo textual y aclaración de **ריבה**; la aplicación de guía práctica se conserva como exhortación pastoral.                  |
+| #salmos_35_4-10  | La clase lee el escudo, la lanza y la persecución como lenguaje militar, y vincula el final con gozo en la salvación.             | Apoyo textual; la conexión con un adversario espiritual queda como inferencia cualificada porque el salmo no nombra a Satanás. |
+| #salmos_35_11-18 | Eric destaca que David hizo bien a quienes ahora le pagan con mal y que el dolor no se oculta ante יהוה.                          | Apoyo textual en los vv. 11-14 y desarrollo atribuible de la aplicación sobre el enemigo.                                      |
+| #salmos_35_19-28 | La calumnia exige juicio justo; la respuesta final es que la lengua hable de la justicia de יהוה y alabe en público.              | Apoyo textual y aclaración de **שלום**, **צדק** y **תהגה**; «vindicación» se marca como aproximación.                          |
 
 ## Pendiente de verificar
 
@@ -101,5 +101,5 @@ Tehilim 35 enseña a llevar el pleito a יהוה sin negar la violencia, la trai
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Chap 35» — <https://www.youtube.com/watch?v=_168ac52IuA> — source_id: `youtube:_168ac52IuA`.
+- «Tehilim/Hymnos/Salmo Chap 35» — <https://www.youtube.com/watch?v=_168ac52IuA> — `source_id`: `youtube:_168ac52IuA`.
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal ni como sustituto de la Escritura.

@@ -10,10 +10,10 @@ tags:
   - salvacion
   - confianza
 references:
-  - "#tehilim_54_1-2"
-  - "#tehilim_54_3-5"
-  - "#tehilim_54_6-7"
-  - "#tehilim_54_8-9"
+  - "#salmos_54_1-2"
+  - "#salmos_54_3-5"
+  - "#salmos_54_6-7"
+  - "#salmos_54_8-9"
 sources:
   - "https://www.youtube.com/watch?v=5f08PyvQVHY"
   - "docs/scriptures/oe/json/psalms/54.json"
@@ -34,30 +34,30 @@ La nota trata los nueve versículos de Tehilim 54 como una unidad poética. La t
 
 | Referencia | Texto hebreo local (OE, normalizado) | Función en la lectura |
 | --- | --- | --- |
-| #tehilim_54_1-2 | למנצח בנגינת משכיל לדוד; בבוא הזיפים ויאמרו לשאול הלא דוד מסתתר עמנו | El encabezado y la situación concreta sitúan la oración ante una persecución identificable. |
-| #tehilim_54_3-5 | אלהים בשמך הושיעני ובגבורתך תדינני; אלהים שמע תפלתי האזינה לאמרי פי; כי זרים קמו עלי ועריצים בקשו נפשי לא שמו אלהים לנגדם סלה | La súplica invoca el nombre de Elohim, pide escucha y presenta a los perseguidores como quienes no ponen a Elohim delante de sí. |
-| #tehilim_54_6-7 | הנה אלהים עזר לי אדני בסמכי נפשי; ישוב ישיב הרע לשררי באמתך הצמיתם | La oración pasa de pedir ayuda a reconocerla; el juicio queda en manos de יהוה. |
-| #tehilim_54_8-9 | בנדבה אזבחה לך אודה שמך יהוה כי טוב; כי מכל צרה הצילני ובאיבי ראתה עיני | La respuesta a la liberación es una ofrenda voluntaria, gratitud y testimonio de que יהוה es bueno. |
+| #salmos_54_1-2 | למנצח בנגינת משכיל לדוד; בבוא הזיפים ויאמרו לשאול הלא דוד מסתתר עמנו | El encabezado y la situación concreta sitúan la oración ante una persecución identificable. |
+| #salmos_54_3-5 | אלהים בשמך הושיעני ובגבורתך תדינני; אלהים שמע תפלתי האזינה לאמרי פי; כי זרים קמו עלי ועריצים בקשו נפשי לא שמו אלהים לנגדם סלה | La súplica invoca el nombre de Elohim, pide escucha y presenta a los perseguidores como quienes no ponen a Elohim delante de sí. |
+| #salmos_54_6-7 | הנה אלהים עזר לי אדני בסמכי נפשי; ישוב ישיב הרע לשררי באמתך הצמיתם | La oración pasa de pedir ayuda a reconocerla; el juicio queda en manos de יהוה. |
+| #salmos_54_8-9 | בנדבה אזבחה לך אודה שמך יהוה כי טוב; כי מכל צרה הצילני ובאיבי ראתה עיני | La respuesta a la liberación es una ofrenda voluntaria, gratitud y testimonio de que יהוה es bueno. |
 
-## La amenaza tiene nombre y la oración tiene dirección: 54:1-4
+## La amenaza tiene nombre y la oración tiene dirección: 54:1-4 #salmos_54_1-4
 
 El encabezado no presenta un pensamiento abstracto: **למנצח בנגינת משכיל לדוד** orienta el poema «para el director», «con instrumentos» y como *maskil*, una composición de instrucción o reflexión asociada a David. El verso 2 recuerda a los zifeos que informaron a Shaul sobre el escondite de David. La clase invita a leer el salmo como oración y alabanza; este marco importa porque la alabanza no borra el peligro que abre el poema. David no convierte la persecución en una experiencia genérica: nombra a quienes entregan información y a quien lo persigue.
 
 La petición central del verso 3 es **אלהים בשמך הושיעני**, «Elohim, sálvame por tu nombre». La salvación no se apoya primero en una estrategia de David, sino en el nombre invocado. El segundo hemistiquio pide: «en tu poder, júzgame». La misma crisis requiere rescate y discernimiento. El verso 4 repite «Elohim» y acumula verbos de escucha: oír la oración y atender las palabras de la boca. La clase orienta la lectura hacia la oración; el paralelismo local confirma que orar aquí no es hablar al vacío, sino dirigirse a יהוה como juez y salvador.
 
-## Extranjeros, violentos y ausencia de Elohim: 54:5
+## Extranjeros, violentos y ausencia de Elohim: 54:5 #salmos_54_5
 
 David explica la causa de su clamor: «extranjeros se levantaron contra mí» y «violentos buscan mi vida». El salmo no enseña que toda oposición sea automáticamente demoníaca ni que todo enemigo deba ser tratado como un zifeo; describe la situación particular del orante. La frase final, **לא שמו אלהים לנגדם**, dice que no pusieron a Elohim delante de ellos. La maldad aparece también como una orientación torcida: actuar como si la presencia y el juicio de Elohim no tuvieran relevancia.
 
 Esta observación permite conservar la dimensión espiritual de la exposición sin convertirla en una licencia para etiquetar a personas actuales. El texto sí juzga una conducta que elimina a Elohim del campo de visión; no entrega una técnica para leer intenciones ocultas. La oración de David pide que יהוה intervenga y juzgue, en lugar de autorizar una venganza autónoma.
 
-## «Elohim es mi ayuda»: la fe reconoce antes del desenlace, 54:6-7
+## «Elohim es mi ayuda»: la fe reconoce antes del desenlace, 54:6-7 #salmos_54_6-7
 
 El giro aparece con **הנה**, «he aquí»: «Elohim es mi ayuda». David todavía habla de perseguidores, pero ya confiesa quién sostiene su vida. La expresión **אדני בסמכי נפשי** presenta a Adonai como quien sostiene su ser. La confianza no depende de negar la presión; nace de identificar al ayudador en medio de ella.
 
 El verso 7 pide que el mal vuelva sobre los adversarios y que sean exterminados «en tu verdad». La cláusula es difícil de convertir en una fórmula devocional sencilla. El salmista entrega el juicio a la verdad y autoridad de יהוה; la nota, siguiendo la orientación orante de la clase, conserva la gravedad del clamor sin presentarlo como permiso para la violencia personal. La respuesta bíblica a los perseguidores es pedir que el Juez actúe conforme a su verdad.
 
-## Ofrenda voluntaria, bondad y memoria de la liberación: 54:8-9
+## Ofrenda voluntaria, bondad y memoria de la liberación: 54:8-9 #salmos_54_8-9
 
 David no promete una ofrenda para comprar la salvación. Dice **בנדבה אזבחה לך**, «voluntariamente te sacrificaré»; después afirma: «alabaré tu nombre, יהוה, porque es bueno». El movimiento es agradecimiento libre, no intercambio comercial. La alabanza reconoce el carácter de יהוה y no solo el beneficio recibido.
 

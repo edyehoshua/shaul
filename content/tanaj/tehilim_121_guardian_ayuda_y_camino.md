@@ -8,12 +8,12 @@ tags:
   - guardian
   - peregrinacion
 references:
-  - "#tehilim_121_1-8"
-  - "#devarim_28_1-14"
-  - "#devarim_30_15-20"
+  - "#salmos_121_1-8"
+  - "#deuteronomio_28_1-14"
+  - "#deuteronomio_30_15-20"
   - "#proverbios_3_5-6"
   - "#hechos_17_22-31"
-  - "#salmo_1_1-3"
+  - "#salmos_1_1-3"
 sources:
   - "https://www.youtube.com/watch?v=DmaS_AXN2HM"
   - "docs/scriptures/oe/json/psalms/121.json"
@@ -34,10 +34,10 @@ Se sigue el salmo en orden textual y se conserva la exposición concreta de Eric
 
 | Referencia | Texto hebreo local | Función en el argumento |
 | --- | --- | --- |
-| #tehilim_121_1-2 | **שיר למעלות אשא עיני אל ההרים מאין יבא עזרי  עזרי מעם יהוה עשה שמים וארץ** | Pregunta ante las montañas y respuesta: la ayuda está con יהוה, creador. |
-| #tehilim_121_3-4 | **אל יתן למוט רגלך אל ינום שמרך  הנה לא ינום ולא יישן שומר ישראל** | El pie no colapsa porque el Guardián de Israel no dormita. |
-| #tehilim_121_5-6 | **יהוה שמרך יהוה צלך על יד ימינך  יומם השמש לא יככה וירח בלילה** | יהוה es guardián y sombra; la protección abarca día y noche. |
-| #tehilim_121_7-8 | **יהוה ישמרך מכל רע ישמר את נפשך  יהוה ישמר צאתך ובואך מעתה ועד עולם** | Guarda del mal, la vida, el salir y el entrar. |
+| #salmos_121_1-2 | **שיר למעלות אשא עיני אל ההרים מאין יבא עזרי  עזרי מעם יהוה עשה שמים וארץ** | Pregunta ante las montañas y respuesta: la ayuda está con יהוה, creador. |
+| #salmos_121_3-4 | **אל יתן למוט רגלך אל ינום שמרך  הנה לא ינום ולא יישן שומר ישראל** | El pie no colapsa porque el Guardián de Israel no dormita. |
+| #salmos_121_5-6 | **יהוה שמרך יהוה צלך על יד ימינך  יומם השמש לא יככה וירח בלילה** | יהוה es guardián y sombra; la protección abarca día y noche. |
+| #salmos_121_7-8 | **יהוה ישמרך מכל רע ישמר את נפשך  יהוה ישמר צאתך ובואך מעתה ועד עולם** | Guarda del mal, la vida, el salir y el entrar. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -49,7 +49,7 @@ Se sigue el salmo en orden textual y se conserva la exposición concreta de Eric
 | 121:5-6 | Eric lee “sombra junto a tu diestra” como protección de las decisiones correctas y entiende sol y luna simbólicamente como las condiciones de este mundo y del venidero. | El hebreo afirma a יהוה como sombra sobre la mano derecha y protección día/noche. La lectura moral de la diestra y la identificación mundo/vida y luna/muerte son aproximaciones, no traducciones del versículo. |
 | 121:7-8 | Eric llama al salmo “del guardián”: la protección incluye instrucciones, límites y el salir de este mundo para entrar en el venidero. | **שמר** se repite para guardar, y los vv. 7-8 amplían el objeto a mal, vida, salida y entrada. El texto promete custodia, no una explicación completa de cómo cada límite opera ni una cronología explícita del mundo venidero. |
 
-## 121:1-2: la ayuda no nace de la elevación
+## 121:1-2: la ayuda no nace de la elevación #salmos_121_1-2
 
 El salmista levanta los ojos hacia **ההרים**, _heharim_, “las montañas”, y pregunta **מאין יבא עזרי**, _me'ayin yavo ezri_, “¿de dónde vendrá mi ayuda?”. Eric conserva la tensión de la pregunta: en el imaginario antiguo las alturas podían representar lo desconocido y los lugares de culto de otras potestades; en su aplicación, también las doctrinas construidas por ingenio humano pueden parecer montañas elevadas. Esa reconstrucción histórica y simbólica es atribuida. El texto, por sí mismo, no acusa a toda montaña, sino que deja la pregunta abierta para responderla en el verso siguiente.
 
@@ -57,19 +57,19 @@ La respuesta es **עזרי מעם יהוה**, _ezri me'im יהוה_, “mi ayuda
 
 La exposición también relaciona las montañas con el discurso de Hechos 17:22-31 sobre el Dios no conocido. Esa conexión es canónica y pedagógica: ayuda a contrastar al Dios que se revela con las divinidades que el ser humano imagina. No reemplaza el movimiento propio del salmo, que pasa de la altura observada al Creador confesado.
 
-## 121:3-4: el pie, el camino y el Guardián despierto
+## 121:3-4: el pie, el camino y el Guardián despierto #salmos_121_3-4
 
 **אל יתן למוט רגלך**, _al yitten lamot raglekha_, no describe necesariamente un pie inmóvil. Eric observa que **מוט**, _mot_, significa tambalearse, vacilar o colapsar, y usa el “pie” como figura del proceder: el problema no es cambiar de lugar, sino avanzar hasta derrumbarse. El sentido léxico es exacto en lo básico; convertir cada pie en una doctrina psicológica es una aplicación aproximada. Devarim 30:15-20 y Proverbios 3:5-6 ofrecen un marco canónico para hablar del camino y de no apoyarse en la propia prudencia, pero no son glosas del salmo.
 
 El texto pregunta **אל ינום שמרך**, _al yanum shomrekha_, “no dormitará tu guardián”, y luego intensifica: **הנה לא ינום ולא יישן שומר ישראל**, _hinneh lo yanum velo yishan shomer Yisrael_, “he aquí, no dormita ni duerme el guardián de Israel”. Eric enlaza esta vigilancia con la necesidad humana de escuchar con concentración: según la voz que prevalece, así se camina. La exhortación de la clase va más allá del vocabulario inmediato, pero responde a la imagen central. **שמר**, _shamar_, significa guardar o vigilar; **שומר**, _shomer_, es guardián. Aquí la relación es exacta: no se presenta a יהוה como supervisor ocasional, sino como el que no abandona su custodia.
 
-## 121:5-6: sombra, diestra y protección permanente
+## 121:5-6: sombra, diestra y protección permanente #salmos_121_5-6
 
 **יהוה שמרך**, _יהוה shomrekha_, repite la identidad del guardián, y **יהוה צלך על יד ימינך**, _יהוה tzilךa al yad yeminekha_, lo presenta como sombra sobre la mano derecha. Eric reconoce que la literalidad anatómica no agota la frase y propone leer la diestra como las decisiones correctas o el proceder recto. **צל**, _tsel_, significa sombra; su fuerza contextual es protección cercana, no una afirmación literal sobre una sombra física. La aplicación moral es pedagógica y está en continuidad con el pie del v. 3.
 
 “De día el sol no te herirá, ni la luna de noche” puede leerse primero como protección en todas las condiciones del viaje. Eric añade una lectura simbólica: sol como vida en este mundo y luna/noche como muerte y entrada al mundo venidero. Esa ampliación debe quedar marcada como aproximada. El poema sí abarca día y noche, y no exige que el protegido deje de experimentar calor, enfermedad o peligro en sentido absoluto; proclama que la custodia de יהוה no queda limitada a una franja del tiempo.
 
-## 121:7-8: guardar la vida, el salir y el entrar
+## 121:7-8: guardar la vida, el salir y el entrar #salmos_121_7-8
 
 En el v. 7 la repetición **ישמרך ... ישמר**, _yishmorkha ... yishmor_, lleva la vigilancia al mal y a la **נפש**, _nefesh_, “vida, persona o ser”. Eric explica que el Guardián también guarda mediante mandamientos y límites: si alguien rechaza una advertencia, no está confiando en quien lo custodia. Esa aplicación ética es coherente con la imagen de un guardián responsable, aunque “guardar de todo mal” no equivale a prometer una existencia sin aflicción; el salmo define la protección desde su propia poesía.
 
@@ -90,10 +90,10 @@ El cierre dice **יהוה ישמר צאתך ובואך**, _יהוה yishmor tzet
 
 ## Conexiones principales
 
-- #devarim_28_1-14 muestra bendición vinculada a escuchar y caminar en los mandamientos; es una conexión canónica, no una promesa de prosperidad automática.
-- #devarim_30_15-20 y #proverbios_3_5-6 ayudan a leer pie, camino y confianza sin reemplazar el texto del salmo.
+- #deuteronomio_28_1-14 muestra bendición vinculada a escuchar y caminar en los mandamientos; es una conexión canónica, no una promesa de prosperidad automática.
+- #deuteronomio_30_15-20 y #proverbios_3_5-6 ayudan a leer pie, camino y confianza sin reemplazar el texto del salmo.
 - #hechos_17_22-31 ofrece el contraste entre el Dios que se revela y las divinidades imaginadas.
-- #salmo_1_1-3 aporta la imagen del camino que da fruto; la relación con “éxito” es pedagógica y no económica.
+- #salmos_1_1-3 aporta la imagen del camino que da fruto; la relación con “éxito” es pedagógica y no económica.
 
 ## Pendiente de verificar
 

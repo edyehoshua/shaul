@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_22_1"
-  - "#tehilim_22_32"
+  - "#salmos_22_1"
+  - "#salmos_22_32"
 sources:
   - "https://www.youtube.com/watch?v=7zBkOZFOzNw"
   - "docs/scriptures/oe/json/psalms/22.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 22. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)              | Observación de lectura                                               |
 | -------------- | ------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_22_1  | למנצח על אילת השחר מזמור לדוד     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_22_32 | יבאו ויגידו צדקתו לעם נולד כי עשה | El verso final permite observar el cierre de la composición.         |
+| #salmos_22_1  | למנצח על אילת השחר מזמור לדוד     | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_22_32 | יבאו ויגידו צדקתו לעם נולד כי עשה | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 22 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 22» — <https://www.youtube.com/watch?v=7zBkOZFOzNw> — source_id: `youtube:7zBkOZFOzNw`.
+- «Tehilim/Himnos/Salmo Cap 22» — <https://www.youtube.com/watch?v=7zBkOZFOzNw> — `source_id`: `youtube:7zBkOZFOzNw`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

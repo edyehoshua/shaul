@@ -8,22 +8,22 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_5_1"
-  - "#songofsolomon_5_2"
-  - "#songofsolomon_5_3"
-  - "#songofsolomon_5_4"
-  - "#songofsolomon_5_5"
-  - "#songofsolomon_5_6"
-  - "#songofsolomon_5_7"
-  - "#songofsolomon_5_8"
-  - "#songofsolomon_5_9"
-  - "#songofsolomon_5_10"
-  - "#songofsolomon_5_11"
-  - "#songofsolomon_5_12"
-  - "#songofsolomon_5_13"
-  - "#songofsolomon_5_14"
-  - "#songofsolomon_5_15"
-  - "#songofsolomon_5_16"
+  - "#cantares_5_1"
+  - "#cantares_5_2"
+  - "#cantares_5_3"
+  - "#cantares_5_4"
+  - "#cantares_5_5"
+  - "#cantares_5_6"
+  - "#cantares_5_7"
+  - "#cantares_5_8"
+  - "#cantares_5_9"
+  - "#cantares_5_10"
+  - "#cantares_5_11"
+  - "#cantares_5_12"
+  - "#cantares_5_13"
+  - "#cantares_5_14"
+  - "#cantares_5_15"
+  - "#cantares_5_16"
 sources:
   - "https://www.youtube.com/watch?v=CMEiD_2EXrU"
   - "https://www.youtube.com/watch?v=0xRSI1cvFIU"
@@ -52,7 +52,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                                                        | Observación                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_5_1 | **באתי לגני אחתי כלה אריתי מורי עם בשמי אכלתי יערי עם דבשי שתיתי ייני עם חלבי אכלו רעים שתו ושכרו דודים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_5_1 | **באתי לגני אחתי כלה אריתי מורי עם בשמי אכלתי יערי עם דבשי שתיתי ייני עם חלבי אכלו רעים שתו ושכרו דודים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -74,10 +74,10 @@ Cantar 5 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (part 17) Cap 5» — https://www.youtube.com/watch?v=CMEiD_2EXrU (`source_id: youtube:CMEiD_2EXrU`).
-- «Shir hashirim (parte 14) Cap 5» — https://www.youtube.com/watch?v=0xRSI1cvFIU (`source_id: youtube:0xRSI1cvFIU`).
-- «Shir hashirim (parte 15) Cap 5» — https://www.youtube.com/watch?v=lLB9-pbVKAk (`source_id: youtube:lLB9-pbVKAk`).
-- «Shir hashirim (parte 16) cap 5» — https://www.youtube.com/watch?v=Amg-3Ot2QmU (`source_id: youtube:Amg-3Ot2QmU`).
-- «Shir hashirim (parte 18) Cap 5» — https://www.youtube.com/watch?v=Owqc-XCwaOo (`source_id: youtube:Owqc-XCwaOo`).
+- «Shir hashirim (part 17) Cap 5» — https://www.youtube.com/watch?v=CMEiD_2EXrU (`source_id`: youtube:CMEiD_2EXrU`).
+- «Shir hashirim (parte 14) Cap 5» — https://www.youtube.com/watch?v=0xRSI1cvFIU (`source_id`: youtube:0xRSI1cvFIU`).
+- «Shir hashirim (parte 15) Cap 5» — https://www.youtube.com/watch?v=lLB9-pbVKAk (`source_id`: youtube:lLB9-pbVKAk`).
+- «Shir hashirim (parte 16) cap 5» — https://www.youtube.com/watch?v=Amg-3Ot2QmU (`source_id`: youtube:Amg-3Ot2QmU`).
+- «Shir hashirim (parte 18) Cap 5» — https://www.youtube.com/watch?v=Owqc-XCwaOo (`source_id`: youtube:Owqc-XCwaOo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

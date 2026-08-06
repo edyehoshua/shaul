@@ -10,12 +10,12 @@ tags:
   - temor
   - eric-youtube
 references:
-  - "#tehilim_119_113-114"
-  - "#tehilim_119_115-116"
-  - "#tehilim_119_117-118"
-  - "#tehilim_119_119-120"
-  - "#melajim_alef_18_21"
-  - "#ieshaiahu_55_8-9"
+  - "#salmos_119_113-114"
+  - "#salmos_119_115-116"
+  - "#salmos_119_117-118"
+  - "#salmos_119_119-120"
+  - "#1_reyes_18_21"
+  - "#isaias_55_8-9"
   - "#efesios_6_16-17"
 sources:
   - "https://www.youtube.com/watch?v=hh75H_Ii_wA"
@@ -37,10 +37,10 @@ La clase corresponde a la letra Samej y comienza en el v. 113. Se sigue la unida
 
 | Unidad               | Texto local (OE, hebreo sin nikud)                                      | Función en la exposición                                                             |
 | -------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| #tehilim_119_113-114 | **סעפים שנאתי ותורתך אהבתי סתרי ומגני אתה לדברך יחלתי**                 | Rechazo de pensamientos divididos; יהוה y su palabra son escondite y escudo.         |
-| #tehilim_119_115-116 | **סורו ממני מרעים ואצרה מצות אלהי סמכני כאמרתך ואחיה ואל תבישני משברי** | Separación de malhechores, obediencia, apoyo y vida sin vergüenza.                   |
-| #tehilim_119_117-118 | **סעדני ואושעה ואשעה בחקיך תמיד סלית כל שוגים מחקיך כי שקר תרמיתם**     | Perseverar en los estatutos y reconocer el destino de quienes se desvían.            |
-| #tehilim_119_119-120 | **סגים השבת כל רשעי ארץ לכן אהבתי עדתיך סמר מפחדך בשרי וממשפטיך יראתי** | יהוה desecha la escoria; el salmista ama sus testimonios y tiembla ante sus juicios. |
+| #salmos_119_113-114 | **סעפים שנאתי ותורתך אהבתי סתרי ומגני אתה לדברך יחלתי**                 | Rechazo de pensamientos divididos; יהוה y su palabra son escondite y escudo.         |
+| #salmos_119_115-116 | **סורו ממני מרעים ואצרה מצות אלהי סמכני כאמרתך ואחיה ואל תבישני משברי** | Separación de malhechores, obediencia, apoyo y vida sin vergüenza.                   |
+| #salmos_119_117-118 | **סעדני ואושעה ואשעה בחקיך תמיד סלית כל שוגים מחקיך כי שקר תרמיתם**     | Perseverar en los estatutos y reconocer el destino de quienes se desvían.            |
+| #salmos_119_119-120 | **סגים השבת כל רשעי ארץ לכן אהבתי עדתיך סמר מפחדך בשרי וממשפטיך יראתי** | יהוה desecha la escoria; el salmista ama sus testimonios y tiembla ante sus juicios. |
 
 ## Opiniones divididas frente a una Torah estable (v. 113)
 
@@ -100,8 +100,8 @@ El cierre corrige dos extremos. La Torah no es opinión privada, pero el temor t
 
 ## Conexiones principales
 
-- #melajim_alef_18_21 ayuda a iluminar la división entre dos opiniones, pero no sustituye el análisis de **סעפים**.
-- #ieshaiahu_55_8-9 amplía el contraste entre pensamientos humanos y caminos de יהוה.
+- #1_reyes_18_21 ayuda a iluminar la división entre dos opiniones, pero no sustituye el análisis de **סעפים**.
+- #isaias_55_8-9 amplía el contraste entre pensamientos humanos y caminos de יהוה.
 - #efesios_6_16-17 permite una conexión apostólica entre escudo, salvación y palabra; la relación es pedagógica.
 - La secuencia refugio, sostén, vida, escoria y temor muestra que esperar en la palabra produce una forma de obediencia, no solo consuelo interior.
 

@@ -25,9 +25,9 @@ references:
   - "#romanos_2_14"
   - "#romanos_2_15"
   - "#romanos_2_16"
-  - "#yirmeyahu_31_33"
-  - "#tehilim_43_1"
-  - "#bereshit_12_3"
+  - "#jeremias_31_33"
+  - "#salmos_43_1"
+  - "#genesis_12_3"
 sources:
   - "https://www.youtube.com/watch?v=vx_NrijSqO8"
   - "docs/scriptures/tth/json/romanos.json"
@@ -53,9 +53,9 @@ Esta nota organiza la clase pública **CARTA A LOS ROMANOS | La TORAH en sus COR
 | #romanos_2_9-11 | **Estrechez y angustia sobre todo ser de hombre que obre injusticia, al iehudí primeramente, y al ievaní, pero honra, ornamento y shalom para todo el que hace el bien... porque no hay con יהוה levantamiento de rostros.** | El orden «primeramente» no es privilegio automático: Elohim no favorece rostros y juzga con imparcialidad. |
 | #romanos_2_12-13 | **Todos los que sin Torah pecaron, también sin Torah perecerán; y todos los que en Torah pecaron, por la Torah serán defendidos. Porque no son los oidores de la Torah ... sino los hacedores de la Torah serán justificados.** | La clase enfatiza que oír o identificarse con la Torá no sustituye hacerla; «defendidos» requiere verificación por su nota alternativa «juzgados». |
 | #romanos_2_14-16 | **Cuando los gentiles, los que no tienen la Torah, de sus corazones hacen la Torah, aunque no tengan la Torah, para sí mismos son por Torah,** ... **en el día que juzgará Elohim los secretos de los hombres, conforme a mi Besorah, en Yeshúa el Mesías.** | Describe una obediencia y un testimonio interior que desembocan en el juicio escatológico conforme a la Besorah. |
-| #yirmeyahu_31_33 | **Porque este el pacto que haré con la casa de Israel después de aquellos días –declaración de יהוה–, pondré mi Torah dentro de ellos, y sobre su corazón la escribiré; y seré para ellos por Elohim, y ellos serán para Mí por pueblo.** (TTH) | Texto del nuevo pacto que la clase conecta con la Torá escrita en el corazón; se usa como conexión canónica, no como cita de Romanos. |
+| #jeremias_31_33 | **Porque este el pacto que haré con la casa de Israel después de aquellos días –declaración de יהוה–, pondré mi Torah dentro de ellos, y sobre su corazón la escribiré; y seré para ellos por Elohim, y ellos serán para Mí por pueblo.** (TTH) | Texto del nuevo pacto que la clase conecta con la Torá escrita en el corazón; se usa como conexión canónica, no como cita de Romanos. |
 
-## 2:1-5: juzgar al otro y despreciar la bondad
+## 2:1-5: juzgar al otro y despreciar la bondad #romanos_2_1-5
 
 Eric retoma la acusación contra el hombre que juzga a quienes practican el mal mientras hace las mismas cosas. La clase entiende «no eres inocente» como una cuestión de culpabilidad ante el juicio, no meramente como ausencia de excusa. Esa observación sigue el movimiento textual: el juez se convierte en testigo contra sí mismo porque su propia práctica confirma la acusación (#romanos_2_1-3).
 
@@ -63,7 +63,7 @@ El versículo 4 desplaza la atención desde la condena humana hacia la riqueza d
 
 La teshuváh no se presenta como simple remordimiento ni como una penitencia autoinfligida. En la lectura de la clase es retorno a Elohim, producido por su bondad y conectado con la capacidad de escuchar y poner por obra la Torá. TTH traduce la nota como «retorno», lo que apoya esa dirección general; no demuestra por sí solo todas las afirmaciones doctrinales de la exposición. El pasaje sí afirma que la bondad conduce a la teshuváh y que despreciarla endurece el corazón.
 
-## 2:5-11: dureza, obras y ausencia de favoritismo
+## 2:5-11: dureza, obras y ausencia de favoritismo #romanos_2_5-11
 
 Romanos 2:5-8 contrasta el corazón duro y desobediente, que atesora ardor de ira para el día de la ira, con quienes buscan la vida olam en esperanza de obra buena. Eric advierte contra leer los dos puntos de ciertas versiones como si la vida eterna fuera un salario comprado por méritos humanos. La clase propone leer la recompensa —honra, ornamento e incorrupción— en relación con la vida venidera y subraya que las obras justas no son motivo de autosuficiencia. Esta cautela es compatible con la insistencia de la nota en la bondad de Elohim, pero la puntuación y la sintaxis exactas deben comprobarse en los testigos originales antes de declarar una traducción inválida.
 
@@ -71,11 +71,11 @@ La exposición distingue **tsará** como estrechez y angustia, no como nombre au
 
 El orden «al iehudí primeramente, y al ievaní» se explica por responsabilidad: quien recibió la Torá no obtiene inmunidad, sino que responde primero. El mismo principio alcanza a cualquiera que proclame conocer la Palabra y no la practique. El cierre de esta unidad es la ausencia de «levantamiento de rostros»: la expresión hebraizante comunica que יהוה no favorece al injusto por su identidad externa. La prioridad histórica o pactual no cancela el juicio imparcial.
 
-## 2:12-16: la Torá en el corazón y el alcance de «gentiles»
+## 2:12-16: la Torá en el corazón y el alcance de «gentiles» #romanos_2_12-16
 
 La clase insiste en que Romanos 2:13 no permite reducir la Torá a una identidad nominal: no son los oidores, sino los hacedores, quienes son justificados. Al leer 2:12, Eric prefiere la posibilidad de que quienes están «en Torah» sean defendidos por la Torah, en lugar de entender únicamente que serán juzgados por ella. El TTH conserva «serán defendidos» y añade «o, juzgados» en la nota; por tanto, la diferencia debe quedar visible y pendiente de análisis gramatical y textual.
 
-El núcleo interpretativo aparece en 2:14-15. Eric rechaza la lectura superficial de «hacen por naturaleza» y entiende que se trata de gentiles que, aunque no nacieron en un entorno de Torá, reciben la obra de la Torá en el corazón y la ponen por obra. En esta explicación, no son los gentiles indiferentes del mundo, sino gentiles que han recibido al Mesías y en quienes obra el Rúaj. La clase conecta la afirmación con el nuevo pacto: «daré mi Torá en sus interiores y sobre sus corazones la escribiré» (#yirmeyahu_31_33), y con la promesa de que quienes no eran pueblo serían llamados pueblo. La conexión canónica necesita ser leída junto con Jeremías; Romanos 2 por sí solo no autoriza todas las identificaciones étnicas o comunitarias que la clase propone.
+El núcleo interpretativo aparece en 2:14-15. Eric rechaza la lectura superficial de «hacen por naturaleza» y entiende que se trata de gentiles que, aunque no nacieron en un entorno de Torá, reciben la obra de la Torá en el corazón y la ponen por obra. En esta explicación, no son los gentiles indiferentes del mundo, sino gentiles que han recibido al Mesías y en quienes obra el Rúaj. La clase conecta la afirmación con el nuevo pacto: «daré mi Torá en sus interiores y sobre sus corazones la escribiré» (#jeremias_31_33), y con la promesa de que quienes no eran pueblo serían llamados pueblo. La conexión canónica necesita ser leída junto con Jeremías; Romanos 2 por sí solo no autoriza todas las identificaciones étnicas o comunitarias que la clase propone.
 
 La imagen de «Torás caminantes» resume la aplicación: la persona obediente testifica mediante vestimenta, palabras, pensamientos y obras. La conciencia y los pensamientos aparecen como testigos que pueden acusar o defender, no como una autonomía moral desligada de Elohim. En la lectura de Eric, el Rúaj escribe la Torá, despierta angustia ante el pecado y llama a la restitución y al retorno, sin convertir la convicción en condenación perpetua de uno mismo.
 
@@ -113,9 +113,9 @@ El pasaje termina colocando todo bajo el día en que Elohim juzgará los secreto
 
 ## Conexiones principales
 
-- Romanos 2:4-5 y #yirmeyahu_31_33: la bondad que conduce al retorno se relaciona con la interiorización de la instrucción, pero no debe confundirse una conexión teológica con una cita directa.
-- Romanos 2:6-11 y #tehilim_43_1: el lenguaje de juicio y defensa requiere leer «mishpat» según el contexto, no como condena automática.
-- Romanos 2:14-16 y #bereshit_12_3: la inclusión de las naciones en la promesa puede iluminar la lectura de la clase, pero exige recorrer el argumento completo de Romanos.
+- Romanos 2:4-5 y #jeremias_31_33: la bondad que conduce al retorno se relaciona con la interiorización de la instrucción, pero no debe confundirse una conexión teológica con una cita directa.
+- Romanos 2:6-11 y #salmos_43_1: el lenguaje de juicio y defensa requiere leer «mishpat» según el contexto, no como condena automática.
+- Romanos 2:14-16 y #genesis_12_3: la inclusión de las naciones en la promesa puede iluminar la lectura de la clase, pero exige recorrer el argumento completo de Romanos.
 
 ## Conclusión
 

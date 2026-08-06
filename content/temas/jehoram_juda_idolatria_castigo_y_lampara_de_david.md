@@ -12,18 +12,18 @@ tags:
   - disciplina
   - david
 references:
-  - "#2reyes_8_16"
-  - "#2reyes_8_18"
-  - "#2reyes_8_19"
-  - "#2cronicas_21_4"
-  - "#2cronicas_21_6"
-  - "#2cronicas_21_12"
-  - "#2cronicas_21_13"
-  - "#2cronicas_21_18"
-  - "#2cronicas_21_20"
-  - "#2reyes_11_1"
-  - "#2reyes_11_2"
-  - "#2reyes_11_3"
+  - "#2_reyes_8_16"
+  - "#2_reyes_8_18"
+  - "#2_reyes_8_19"
+  - "#2_cronicas_21_4"
+  - "#2_cronicas_21_6"
+  - "#2_cronicas_21_12"
+  - "#2_cronicas_21_13"
+  - "#2_cronicas_21_18"
+  - "#2_cronicas_21_20"
+  - "#2_reyes_11_1"
+  - "#2_reyes_11_2"
+  - "#2_reyes_11_3"
   - "#santiago_2_6"
   - "#santiago_2_7"
 sources:
@@ -47,11 +47,11 @@ Esta nota organiza la enseñanza pública «NEOIDOLATRÍA, Israel y el legado de
 
 | Referencia | Texto local | Función en el estudio |
 | --- | --- | --- |
-| #2reyes_8_16-19 | **וילך בדרך מלכי ישראל כאשר עשו בית אחאב כי בת אחאב היתה לו לאשה... ולא אבה יהוה להשחית את יהודה למען דוד עבדו** | Jehoram imita a la casa de Acab, pero la destrucción total de Judá no ocurre por el pacto con David. |
-| #2cronicas_21_4,6 | **ויהרג את כל אחיו בחרב... וילך בדרך מלכי ישראל כאשר עשו בית אחאב** | La violencia contra sus hermanos y la influencia de Acab caracterizan su reinado. |
-| #2cronicas_21_12-15 | **תחת אשר לא הלכת בדרכי יהושפט אביך... ויהי לך לחלים רבים במחלה מעיך** | La carta de Elías interpreta el juicio como respuesta a su desvío y violencia. |
-| #2cronicas_21_18-20 | **ויגף יהוה במעיו לחלי לאין מרפא... וילך בלא חמדה** | Enfermedad, muerte sin honra y sepultura fuera de los sepulcros reales cierran su historia. |
-| #2reyes_11_1-3 | **ותקם ותאבד את כל זרע הממלכה... ויהי אתה בית יהוה מתחבא שש שנים** | Atalía intenta cortar la línea real, pero Joás es preservado en la casa de יהוה. |
+| #2_reyes_8_16-19 | **וילך בדרך מלכי ישראל כאשר עשו בית אחאב כי בת אחאב היתה לו לאשה... ולא אבה יהוה להשחית את יהודה למען דוד עבדו** | Jehoram imita a la casa de Acab, pero la destrucción total de Judá no ocurre por el pacto con David. |
+| #2_cronicas_21_4,6 | **ויהרג את כל אחיו בחרב... וילך בדרך מלכי ישראל כאשר עשו בית אחאב** | La violencia contra sus hermanos y la influencia de Acab caracterizan su reinado. |
+| #2_cronicas_21_12-15 | **תחת אשר לא הלכת בדרכי יהושפט אביך... ויהי לך לחלים רבים במחלה מעיך** | La carta de Elías interpreta el juicio como respuesta a su desvío y violencia. |
+| #2_cronicas_21_18-20 | **ויגף יהוה במעיו לחלי לאין מרפא... וילך בלא חמדה** | Enfermedad, muerte sin honra y sepultura fuera de los sepulcros reales cierran su historia. |
+| #2_reyes_11_1-3 | **ותקם ותאבד את כל זרע הממלכה... ויהי אתה בית יהוה מתחבא שש שנים** | Atalía intenta cortar la línea real, pero Joás es preservado en la casa de יהוה. |
 
 ## Una alianza que se vuelve herencia de maldad
 
@@ -92,10 +92,10 @@ El relato también obliga a hablar con precisión sobre género y gobierno. Atal
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2reyes_8_16-19 y #2cronicas_21_4,6 | La alianza de Jehosafat con Acab permite que la casa de Acab influya en Jehoram; la lámpara de David permanece por el pacto. | Apoyo textual con distinción entre influencia, responsabilidad personal y pacto. |
-| #2cronicas_21_12-17 | La carta de Elías denuncia el desvío, la idolatría y el asesinato; el juicio alcanza a la familia y al reino. | Apoyo textual; se evita inventar la reacción interior de Jehoram. |
-| #2cronicas_21_18-20 | Enfermedad, muerte sin honra y sepultura apartada muestran disciplina histórica. | Apoyo textual; se rechaza usarlo como regla para toda enfermedad. |
-| #2reyes_11_1-3 | Atalía intenta borrar la descendencia, pero Joás queda escondido como remanente. | Apoyo textual y conexión canónica cualificada con la lámpara de David. |
+| #2_reyes_8_16-19 y #2_cronicas_21_4,6 | La alianza de Jehosafat con Acab permite que la casa de Acab influya en Jehoram; la lámpara de David permanece por el pacto. | Apoyo textual con distinción entre influencia, responsabilidad personal y pacto. |
+| #2_cronicas_21_12-17 | La carta de Elías denuncia el desvío, la idolatría y el asesinato; el juicio alcanza a la familia y al reino. | Apoyo textual; se evita inventar la reacción interior de Jehoram. |
+| #2_cronicas_21_18-20 | Enfermedad, muerte sin honra y sepultura apartada muestran disciplina histórica. | Apoyo textual; se rechaza usarlo como regla para toda enfermedad. |
+| #2_reyes_11_1-3 | Atalía intenta borrar la descendencia, pero Joás queda escondido como remanente. | Apoyo textual y conexión canónica cualificada con la lámpara de David. |
 | #santiago_2_6-7 | La alianza con quienes oprimen y blasfeman no debe confundirse con una obligación religiosa de favorecerlos. | Conexión temática; no se presenta como comentario directo sobre Jehoram. |
 
 ## Pendiente de verificar
@@ -113,7 +113,7 @@ Jehoram no heredó automáticamente la fidelidad de Jehosafat: escogió caminar 
 ## Ver también
 
 - [[jehosafat_alianzas_discernimiento_y_retorno|Jehosafat: rectitud, alianzas peligrosas y retorno al camino]]
-- [[iehoash_atalia_pacto_instruccion_y_reparacion|Iehoash: Atalia, pacto, instrucción y reparación]]
+- [[iehoash_atalia_pacto_instruccion_y_reparacion|Yehoash: Atalia, pacto, instrucción y reparación]]
 - [[jehu_casa_dinastia_celo_y_obediencia_incompleta|Jehu: casa, dinastía, celo y obediencia incompleta]]
 - [[elisha_yehu_milagros_juicio_y_reino|Elisha y Yehu: milagros, juicio y reino]]
 

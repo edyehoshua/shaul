@@ -9,11 +9,11 @@ tags:
   - santidad
   - pureza
 references:
-  - "#vaikra_10_1-3"
-  - "#vaikra_10_8-11"
-  - "#vaikra_10_16-20"
-  - "#vaikra_11_1-8"
-  - "#vaikra_11_44-45"
+  - "#levitico_10_1-3"
+  - "#levitico_10_8-11"
+  - "#levitico_10_16-20"
+  - "#levitico_11_1-8"
+  - "#levitico_11_44-45"
 sources:
   - "https://www.youtube.com/watch?v=tJKzd52fFbE"
   - "docs/scriptures/oe/json/leviticus/10.json"
@@ -36,11 +36,11 @@ Esta es la nota canónica para Vayikra 10–11; Vayikra 9 conserva su nota propi
 
 | Unidad           | OE local sin nikud                                             | TTH                                                                                            | Fuerza del pasaje                                                                 |
 | ---------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #vaikra_10_1-3   | **ויקרבו לפני יהוה אש זרה אשר לא צוה אתם**                     | «acercaron delante de יהוה fuego extraño, el cual no les había ordenado»                       | La iniciativa cultual queda evaluada por el mandato de יהוה.                      |
-| #vaikra_10_4-7   | **וישאום בכתנתם אל מחוץ למחנה** ... **ומפתח אהל מועד לא תצאו** | «los sacaron con sus túnicas fuera del campamento» ... «de la entrada de la Tienda no saldrán» | El juicio no disuelve el servicio; el resto sacerdotal permanece bajo el encargo. |
-| #vaikra_10_8-11  | **ולהבדיל בין הקדש ובין החל**                                  | «para que distingan entre lo distinguido y lo perforado, entre lo impuro y lo puro»            | El sacerdote enseña y discierne, no solo ejecuta ritos.                           |
-| #vaikra_10_16-20 | **וידבר אהרן ... הייטב בעיני יהוה**                            | «¿hubiera sido buena en los ojos de יהוה?»                                                     | La respuesta de Aharón interpreta su abstención en duelo.                         |
-| #vaikra_11_44-45 | **והתקדשתם והייתם קדשים כי קדוש אני**                          | «Conságrense y sean kedoshim, porque Kadosh soy Yo»                                            | La dieta se integra en la identidad del pueblo redimido.                          |
+| #levitico_10_1-3   | **ויקרבו לפני יהוה אש זרה אשר לא צוה אתם**                     | «acercaron delante de יהוה fuego extraño, el cual no les había ordenado»                       | La iniciativa cultual queda evaluada por el mandato de יהוה.                      |
+| #levitico_10_4-7   | **וישאום בכתנתם אל מחוץ למחנה** ... **ומפתח אהל מועד לא תצאו** | «los sacaron con sus túnicas fuera del campamento» ... «de la entrada de la Tienda no saldrán» | El juicio no disuelve el servicio; el resto sacerdotal permanece bajo el encargo. |
+| #levitico_10_8-11  | **ולהבדיל בין הקדש ובין החל**                                  | «para que distingan entre lo distinguido y lo perforado, entre lo impuro y lo puro»            | El sacerdote enseña y discierne, no solo ejecuta ritos.                           |
+| #levitico_10_16-20 | **וידבר אהרן ... הייטב בעיני יהוה**                            | «¿hubiera sido buena en los ojos de יהוה?»                                                     | La respuesta de Aharón interpreta su abstención en duelo.                         |
+| #levitico_11_44-45 | **והתקדשתם והייתם קדשים כי קדוש אני**                          | «Conságrense y sean kedoshim, porque Kadosh soy Yo»                                            | La dieta se integra en la identidad del pueblo redimido.                          |
 
 ## Hoja léxica: acercarse, distinguir y santificarse
 
@@ -52,7 +52,7 @@ Esta es la nota canónica para Vayikra 10–11; Vayikra 9 conserva su nota propi
 | **(ירה)** | _yarah_         | enseñar, instruir o mostrar            | En 10:11 el sacerdote hace conocer los estatutos de יהוה a Israel                                                      | «predicar» es una ampliación pedagógica                                              |
 | **(קדש)** | _qadash_        | apartar, consagrar o tratar como santo | En 11:44–45 vincula la santidad del pueblo redimido con las distinciones concretas de la perícopa                      | «santificar» es cercano; «separarse del mundo» es solo una aplicación pedagógica     |
 
-## Fuego no ordenado y santidad que escucha — Vayikra 10:1–7
+## Fuego no ordenado y santidad que escucha — Vayikra 10:1–7 #levitico_10_1-7
 
 El episodio empieza con dos hijos de Aharón, cada uno con su incensario, fuego e incienso. **(ויקחו)**, _yiqju_, es una forma de לקח, _laqaj_: «tomar» o «llevar». Su sentido normal es exacto en «tomaron»; «se apropiaron» es una equivalencia contextual que expresa la iniciativa, no una traducción única. **(מחתה)**, _majtah_, es un brasero o recipiente para brasas; «incensario» es la equivalencia funcional. **(קטורת)**, _qetoret_, es incienso o mezcla aromática; «oración» puede ser una aplicación poética, pero no el sentido normal del sustantivo.
 
@@ -64,15 +64,15 @@ El v. 3 interpreta el acontecimiento: «Por los que se acercan a Mí seré santi
 
 Aharón responde con silencio: **וידם אהרן**, _vayidom Aharon_. **(דם)**, _dom_, significa callar, quedar quieto o cesar; aquí «guardó silencio» es exacto en contexto. La clase puede leer este silencio como duelo sometido a la palabra; el pasaje no lo presenta como aprobación emocional del juicio. Los parientes retiran los cuerpos, y Mosheh ordena que la familia no deshaga el signo público de duelo sacerdotal mientras el pueblo lamenta el incendio. El límite textual importa: santidad no elimina el dolor, pero el servicio en ese momento tiene reglas concretas.
 
-## El duelo no borra el encargo sacerdotal — Vayikra 10:4–7
+## El duelo no borra el encargo sacerdotal — Vayikra 10:4–7 #levitico_10_4-7
 
-Después de interpretar el fuego, Mosheh llama a Mishael y a Eltsafán para que saquen a sus parientes «de delante del santuario» y «fuera del campamento» (#vaikra_10_4-5). La narración distingue así entre retirar los cuerpos y abandonar el lugar de servicio. **(וישאום)**, _vayisaum_, procede de נשא, _nasa_, «levantar, llevar o cargar»; «transportar» es una equivalencia contextual exacta para esta acción, no una metáfora de quitar la culpa. **(בכתנתם)**, _bekutontam_, significa «con sus túnicas»; la ropa conserva la materialidad del episodio y no prueba que los muertos siguieran ejerciendo el sacerdocio.
+Después de interpretar el fuego, Mosheh llama a Mishael y a Eltsafán para que saquen a sus parientes «de delante del santuario» y «fuera del campamento» (#levitico_10_4-5). La narración distingue así entre retirar los cuerpos y abandonar el lugar de servicio. **(וישאום)**, _vayisaum_, procede de נשא, _nasa_, «levantar, llevar o cargar»; «transportar» es una equivalencia contextual exacta para esta acción, no una metáfora de quitar la culpa. **(בכתנתם)**, _bekutontam_, significa «con sus túnicas»; la ropa conserva la materialidad del episodio y no prueba que los muertos siguieran ejerciendo el sacerdocio.
 
-Mosheh manda que los hermanos de Aharón no descubran sus cabezas ni rasguen sus vestidos, y que no salgan de la entrada de la Tienda (#vaikra_10_6-7). **(פרע)**, _para_, significa dejar suelto, descubrir o desarreglar; aquí la prohibición regula una señal pública de duelo. **(תצאו)**, _tetseu_, de יצא, _yatsa_, significa salir; la forma negativa mantiene a los sacerdotes en el recinto de su servicio. Eric observa que el servidor no puede convertir su dolor en una autorización para abandonar el mandato. El texto lo apoya en esta situación concreta, pero no prescribe indiferencia ante toda pérdida: el v. 6 también manda a la comunidad lamentar el incendio.
+Mosheh manda que los hermanos de Aharón no descubran sus cabezas ni rasguen sus vestidos, y que no salgan de la entrada de la Tienda (#levitico_10_6-7). **(פרע)**, _para_, significa dejar suelto, descubrir o desarreglar; aquí la prohibición regula una señal pública de duelo. **(תצאו)**, _tetseu_, de יצא, _yatsa_, significa salir; la forma negativa mantiene a los sacerdotes en el recinto de su servicio. Eric observa que el servidor no puede convertir su dolor en una autorización para abandonar el mandato. El texto lo apoya en esta situación concreta, pero no prescribe indiferencia ante toda pérdida: el v. 6 también manda a la comunidad lamentar el incendio.
 
 La secuencia corrige dos reducciones opuestas. «Fuego extraño» no significa que toda emoción intensa sea ilegítima, y «santidad» no significa que la muerte permita improvisar el culto. La equivalencia entre este episodio y un modelo universal de liderazgo es **pedagógica**; la equivalencia textual más firme es que el juicio, el traslado de los cuerpos, el duelo comunitario y la continuidad sacerdotal quedan ordenados por la palabra de יהוה.
 
-## Vino, enseñanza y la distinción sacerdotal — Vayikra 10:8–15
+## Vino, enseñanza y la distinción sacerdotal — Vayikra 10:8–15 #levitico_10_8-15
 
 יהוה habla directamente a Aharón: «Vino y embriaguez no beberán… cuando entren a la Tienda del Mo’ed» (TTH). **(יין)**, _yayin_, significa vino; **(שכר)**, _shekhar_, bebida embriagante. «Sobriedad» es una equivalencia pedagógica que resume el efecto requerido, pero no sustituye los dos términos. La prohibición se conecta con una función: **ולהבדיל**, _ulehavdil_, de בדל, _badal_, «separar o distinguir».
 
@@ -80,7 +80,7 @@ El mandato menciona cuatro categorías: santo y profano, impuro y puro. **(קד�
 
 La porción sacerdotal es comida «en lugar santo» y la ley protege la participación prescrita. El énfasis de Eric sobre servir «como para יהוה» es una aplicación coherente, pero el capítulo regula quién come, qué parte y en qué condición. No convierte el rito en una plataforma de prestigio personal. El servicio es recibido, delimitado y enseñado.
 
-## La objeción de Aharón y una lectura responsable del duelo — Vayikra 10:16–20
+## La objeción de Aharón y una lectura responsable del duelo — Vayikra 10:16–20 #levitico_10_16-20
 
 Mosheh busca el macho cabrío de la ofrenda por el pecado y descubre que fue quemado. **(דרש)**, _darash_, significa buscar, investigar o requerir explicación. «Exigir cuentas» es contextual: Mosheh quiere saber por qué el rito no siguió la instrucción. Su enojo contra Eleazar e Itamar no es licencia para despreciar el proceso sacerdotal.
 
@@ -88,7 +88,7 @@ Aharón responde: «hoy han acercado ellos su ofrenda por el pecado… y me han 
 
 El texto concluye: **וישמע משה וייטב בעיניו**, «Moshéh oyó, y fue bueno en sus ojos» (TTH). **(וישמע)**, _vayishma_, «oyó y escuchó»; aquí escuchar incluye recibir la explicación. Eric acierta al mostrar que discernimiento no significa rigidez incapaz de atender al contexto. La equivalencia no debe exagerarse: Mosheh no declara irrelevante el mandamiento, sino que reconoce la razón de la conducta de Aharón en ese día singular.
 
-## Animales, límites y santidad corporal — Vayikra 11:1–23
+## Animales, límites y santidad corporal — Vayikra 11:1–23 #levitico_11_1-23
 
 Vayikra 11 pasa de la tienda sacerdotal a la mesa de Israel. **(החיה)**, _hajayah_, es «animal viviente» o criatura; **(בהמה)**, _behemah_, es bestia o animal doméstico. La clasificación de la tierra no se reduce a una alegoría de personalidades. El criterio de los animales terrestres combina pezuña dividida y rumia: «Todo el que tiene dividida la pezuña… y que rumia… lo comerán» (TTH).
 
@@ -96,7 +96,7 @@ Vayikra 11 pasa de la tienda sacerdotal a la mesa de Israel. **(החיה)**, _ha
 
 Eric puede usar estas distinciones para hablar de discernimiento. Esa lectura es pedagógica y útil si conserva el orden: primero hay una instrucción alimentaria dada a Israel, después una aplicación sobre aprender a distinguir. No toda criatura impura se convierte por eso en símbolo de un individuo impuro, y el capítulo no permite juzgar el valor humano por la dieta.
 
-## «Sean kedoshim» — Vayikra 11:41–47
+## «Sean kedoshim» — Vayikra 11:41–47 #levitico_11_41-47
 
 El cierre vuelve al motivo del éxodo: «Yo soy יהוה, quien los ha hecho subir de la tierra de Mitzráim para ser para ustedes por Elohim, y serán kedoshim, porque Kadosh soy Yo» (TTH). **(והתקדשתם)**, _vehitqadashtem_, procede de קדש y significa «consagrarse o santificarse»; **(והייתם קדשים)**, _vihyitem qedoshim_, «serán santos». «Separarse del mundo» es pedagógico, no una equivalencia completa. La santidad aquí se expresa en una obediencia corporal que recuerda la redención.
 
@@ -104,7 +104,7 @@ El cierre vuelve al motivo del éxodo: «Yo soy יהוה, quien los ha hecho sub
 
 La exposición apunta al Mashíaj y al servicio perfecto. Esa conexión puede ser una lectura canónica posterior, pero Vayikra 11 establece primero un argumento propio: el pueblo redimido debe distinguir y vivir según la santidad de su Elohim. El texto no autoriza a borrar estas instrucciones mediante una conclusión rápida, ni permite convertir la santidad en orgullo.
 
-## Santidad recibida y mandato discernible — Vayikra 10:1–3; 11:44–45
+## Santidad recibida y mandato discernible — Vayikra 10:1–3; 11:44–45 #levitico_10_1-3 #levitico_11_44-45
 
 La tensión entre cercanía y límite se concentra en el contraste entre **אשר לא צוה אתם** y el llamado final a ser santos. **(צוה)**, _tsavah_, significa ordenar, encargar o mandar; en 10:1 su fuerza contextual es la ausencia de autorización para el fuego que acercaron. «No les inspiró» sería una equivalencia pedagógica defectuosa: el asunto no es medir una emoción interior, sino reconocer que el acto cultual no fue ordenado. La lectura de Eric sobre servicio gobernado por la palabra queda apoyada precisamente por esta cláusula negativa.
 
@@ -112,7 +112,7 @@ En 11:44 el TTH dice: «Porque Yo soy יהוה su Elohim; y se consagrarán, y s
 
 El orden de las perícopas también importa: primero el fuego extraño y la enseñanza sacerdotal, después la mesa de Israel y la memoria del éxodo. **(למד)**, _lamad_, significa aprender o enseñar; en 10:11 la forma tiene fuerza causativa, «hacer conocer» los estatutos a los hijos de Israel. «Predicar» es una equivalencia aproximada y demasiado amplia. El servidor aprende a separar lo santo de lo común para enseñar al pueblo, y la comunidad practica esa diferencia en su vida corporal; la aplicación al Mashíaj puede ser posterior, pero no debe saltarse esta arquitectura textual.
 
-## La santidad también regula el contacto — Vayikra 11:24–40
+## La santidad también regula el contacto — Vayikra 11:24–40 #levitico_11_24-40
 
 La distinción alimentaria no termina cuando se identifica qué animal puede comerse. En 11:24–25 el contacto con el cadáver produce impureza «hasta la tarde» y exige lavar la ropa. **(ערב)**, _erev_, significa tarde o anochecer; aquí marca el límite temporal del estado ritual, no una imagen de oscuridad moral. **(כבס)**, _kavas_, significa lavar; «arrepentirse» sería una equivalencia pedagógica incorrecta, porque el texto prescribe una acción corporal concreta.
 
@@ -130,7 +130,7 @@ En 11:37–38 la semilla para sembrar no queda impura de la misma manera que el 
 | El fuego extraño puede advertir contra el celo que reemplaza la obediencia.                    | Aplicación pedagógica bien anclada, pero no definición exhaustiva del episodio.                               |
 | Las leyes de comida enseñan discernimiento y santidad práctica.                                | El texto sí vincula las distinciones con «sean santos»; las alegorías particulares requieren cautela.         |
 
-## No todo contacto produce el mismo estado — Vayikra 11:24–40
+## No todo contacto produce el mismo estado — Vayikra 11:24–40 #levitico_11_24-40
 
 La perícopa continúa distinguiendo entre comer y tocar. El TTH declara que quien toque el cadáver de ciertos animales «será impuro hasta la tarde» (11:24–25). **(טמא)**, _tame_, significa estar impuro o no apto para la categoría ritual; aquí su fuerza contextual incluye un estado temporal que termina al llegar la tarde y después de lavar la ropa. «Contaminación moral permanente» es una equivalencia **pedagógica incorrecta**. El capítulo regula estados y respuestas, no una condena del valor humano.
 
@@ -138,15 +138,15 @@ En 11:29 aparecen los animales que «serán impuros entre los animales que se mu
 
 El cierre de la unidad recuerda que la impureza también puede afectar la semilla destinada a la siembra (11:37–38). La santidad se despliega en cuerpos, alimentos, recipientes y agricultura; no queda confinada a la emoción del culto. Por eso el llamado «sean santos» debe leerse junto con las instrucciones que lo hacen visible: el texto pide distinguir, lavar, esperar, quebrar o conservar según cada caso.
 
-## Discernir antes de enseñar — Vayikra 10:8–11; 11:44–47
+## Discernir antes de enseñar — Vayikra 10:8–11; 11:44–47 #levitico_10_8-11 #levitico_11_44-47
 
 La transición entre el fuego y las leyes alimentarias no es accidental. Después de la muerte de Nadab y Avihu, יהוה encarga al sacerdote no beber vino ni bebida embriagante al entrar en la Tienda y añade el propósito: **ולהבדיל בין הקדש ובין החל ובין הטמא ובין הטהור**, _ulehavdil ben haqqodesh uven haqqol, uven hattame uven hattahor_. **(להבדיל)**, _lehavdil_, procede de בדל, _badal_, «separar o distinguir»; su fuerza contextual es establecer diferencias cultuales para poder servir y enseñar. «Discernimiento espiritual» es una equivalencia **pedagógica**, no el sentido exclusivo del verbo.
 
 El v. 11 usa **ולהורת**, _ulehorot_, de ירה, _yarah_, «enseñar, instruir o mostrar». Aquí su fuerza es hacer conocer a Israel los estatutos que יהוה habló por medio de Mosheh; «predicar» es una equivalencia **aproximada** y más amplia. Eric observa que el servidor no puede guiar desde la confusión. El texto lo confirma, pero la razón inmediata es sacerdotal y didáctica: distinguir y enseñar preceden a cualquier aplicación sobre liderazgo contemporáneo.
 
-El cierre de Vayikra 11 une esa instrucción con el cuerpo del pueblo: «se consagrarán y serán santos, porque santo soy Yo» (#vaikra_11_44). **(והתקדשתם)**, _vehitqadashtem_, significa consagrarse o santificarse; **(קדוש)**, _qadosh_, significa santo, apartado o consagrado. «Separarse del mundo» es una aplicación **pedagógica**; la equivalencia contextual más exacta es vivir las distinciones que la perícopa acaba de ordenar. La exposición de Eric queda así preservada y evaluada: la santidad recibida se vuelve discernible en enseñanza, mesa, contacto y obediencia, sin que cada detalle alimentario se convierta automáticamente en alegoría moral.
+El cierre de Vayikra 11 une esa instrucción con el cuerpo del pueblo: «se consagrarán y serán santos, porque santo soy Yo» (#levitico_11_44). **(והתקדשתם)**, _vehitqadashtem_, significa consagrarse o santificarse; **(קדוש)**, _qadosh_, significa santo, apartado o consagrado. «Separarse del mundo» es una aplicación **pedagógica**; la equivalencia contextual más exacta es vivir las distinciones que la perícopa acaba de ordenar. La exposición de Eric queda así preservada y evaluada: la santidad recibida se vuelve discernible en enseñanza, mesa, contacto y obediencia, sin que cada detalle alimentario se convierta automáticamente en alegoría moral.
 
-## La mesa confirma el límite del fervor — Vayikra 11:1–23, 41–47
+## La mesa confirma el límite del fervor — Vayikra 11:1–23, 41–47 #levitico_11_1-23
 
 La exposición de Eric puede hablar de santidad práctica porque Vayikra 11 lleva la distinción hasta la comida cotidiana. El texto no comienza con una alegoría de temperamentos, sino con una instrucción dirigida a los hijos de Israel: **זאת החיה אשר תאכלו**, «este es el animal que comerán» (11:2). **(חיה)**, _jayah_, significa criatura viviente o animal; aquí introduce la categoría de animales permitidos. «Naturaleza espiritual» sería una equivalencia pedagógica que el versículo no exige. La santidad se reconoce en una respuesta corporal regulada por la palabra.
 
@@ -156,7 +156,7 @@ La lista de aves y criaturas que se mueven por la tierra mantiene el mismo princ
 
 El cierre vuelve a la fuente de la santidad: **כי אני יהוה אלהיכם והתקדשתם והייתם קדשים כי קדוש אני**, «porque Yo soy יהוה vuestro Elohim; se consagrarán y serán santos, porque santo soy Yo» (11:44). **(קדש)**, _qadash_, significa apartar, consagrar o tratar como santo; en **והתקדשתם**, _vehitqadashtem_, la forma ordena una respuesta del pueblo. «Activar una esencia interior» sería pedagógico, no exacto. La santidad procede de יהוה y se hace visible en distinguir, no comer lo prohibido, atender el contacto y recordar la redención de Mitsráim. El fervor que no escucha queda bajo la misma corrección que el fuego no ordenado: acercarse delante de יהוה requiere una forma recibida.
 
-## La santidad se prueba al distinguir y enseñar — Vayikra 10:8–11:47
+## La santidad se prueba al distinguir y enseñar — Vayikra 10:8–11:47 #levitico_10_8 #levitico_11_47
 
 La exposición de Eric puede resumirse como una advertencia contra un fuego que pretende acercarse sin escuchar. Vayikra 10 lo formula con una cadena concreta: el sacerdote no beberá vino ni bebida embriagante al entrar, para que pueda **ולהבדיל**, _ulehavdil_, «distinguir», y **ולהורת**, _ulehorot_, «enseñar» los estatutos a Israel. **(בדל)**, _badal_, significa separar o distinguir; aquí su fuerza contextual es reconocer categorías cultuales, no fabricar una élite moral. **(ירה)**, _yarah_, significa enseñar, instruir o mostrar; «predicar» es una equivalencia **aproximada** y más amplia. Eric acierta al vincular sobriedad, discernimiento y servicio, pero el texto habla primero de una responsabilidad sacerdotal delimitada.
 

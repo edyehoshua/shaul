@@ -8,10 +8,10 @@ tags:
   - mishkan
   - terumah
 references:
-  - "#shemot_25_1"
-  - "#shemot_25_8"
-  - "#shemot_25_22"
-  - "#shemot_25_40"
+  - "#exodo_25_1"
+  - "#exodo_25_8"
+  - "#exodo_25_22"
+  - "#exodo_25_40"
 sources:
   - "https://www.youtube.com/watch?v=cls5RxEzxtQ"
   - "https://www.youtube.com/watch?v=4BXW1nJCLCc"
@@ -36,17 +36,17 @@ Esta nota estudia Shemot 25:1-40 en el orden del capítulo, con atención especi
 
 | Referencia    | Hebreo local (OE, sin nikud)                                                | TTH                                                                                                        | Función en la lectura                                                      |
 | ------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #shemot_25_1  | **וידבר יהוה אל משה לאמר**                                                  | «Y habló יהוה a Moshéh, diciendo»                                                                          | La iniciativa procede de יהוה.                                             |
-| #shemot_25_2  | **דבר אל בני ישראל ויקחו לי תרומה מאת כל איש אשר ידבנו לבו תקחו את תרומתי** | «Tomen para Mí una terumáh, de todo hombre que dé voluntariamente con su corazón»                          | La entrega es convocada y voluntaria.                                      |
-| #shemot_25_8  | **ועשו לי מקדש ושכנתי בתוכם**                                               | «Y harán para Mí un Santuario, y habitaré en medio de ellos»                                               | El propósito del diseño es la morada de יהוה.                              |
-| #shemot_25_9  | **ככל אשר אני מראה אותך את תבנית המשכן ואת תבנית כל כליו וכן תעשו**         | «Conforme a todo lo que Yo te muestro, a la estructura del Mishkán y de todos sus utensilios, y así harán» | La obediencia incluye el modelo, no solo la intención.                     |
-| #shemot_25_16 | **ונתת אל הארן את העדת אשר אתן אליך**                                       | «Y pondrás en el arca el Testimonio que daré a ti»                                                         | El arca recibe su función por el testimonio, no por el material solamente. |
-| #shemot_25_22 | **ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים**                      | «Me reuniré para ti allí, y hablaré contigo de sobre la cubierta que está entre los dos querubines»        | La cubierta es el lugar prometido de reunión y palabra.                    |
-| #shemot_25_30 | **ונתת על השלחן לחם פנים לפני תמיד**                                        | «Y pondrás sobre la mesa el Pan del Rostro delante de Mí constantemente»                                   | La mesa queda orientada a una presencia continua delante de יהוה.          |
-| #shemot_25_31 | **ועשית מנרת זהב טהור מקשה תיעשה המנורה**                                   | «Y harás una Menoráh de oro puro. De trabajo a martillo será la Menoráh»                                   | La luz forma parte del diseño ordenado del santuario.                      |
-| #shemot_25_40 | **וראה ועשה בתבניתם אשר אתה מראה בהר**                                      | «Y mira que los hagas con su diseño que a ti te ha sido mostrado en el monte»                              | El cierre vuelve a someter la ejecución al modelo mostrado.                |
+| #exodo_25_1  | **וידבר יהוה אל משה לאמר**                                                  | «Y habló יהוה a Moshéh, diciendo»                                                                          | La iniciativa procede de יהוה.                                             |
+| #exodo_25_2  | **דבר אל בני ישראל ויקחו לי תרומה מאת כל איש אשר ידבנו לבו תקחו את תרומתי** | «Tomen para Mí una terumáh, de todo hombre que dé voluntariamente con su corazón»                          | La entrega es convocada y voluntaria.                                      |
+| #exodo_25_8  | **ועשו לי מקדש ושכנתי בתוכם**                                               | «Y harán para Mí un Santuario, y habitaré en medio de ellos»                                               | El propósito del diseño es la morada de יהוה.                              |
+| #exodo_25_9  | **ככל אשר אני מראה אותך את תבנית המשכן ואת תבנית כל כליו וכן תעשו**         | «Conforme a todo lo que Yo te muestro, a la estructura del Mishkán y de todos sus utensilios, y así harán» | La obediencia incluye el modelo, no solo la intención.                     |
+| #exodo_25_16 | **ונתת אל הארן את העדת אשר אתן אליך**                                       | «Y pondrás en el arca el Testimonio que daré a ti»                                                         | El arca recibe su función por el testimonio, no por el material solamente. |
+| #exodo_25_22 | **ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים**                      | «Me reuniré para ti allí, y hablaré contigo de sobre la cubierta que está entre los dos querubines»        | La cubierta es el lugar prometido de reunión y palabra.                    |
+| #exodo_25_30 | **ונתת על השלחן לחם פנים לפני תמיד**                                        | «Y pondrás sobre la mesa el Pan del Rostro delante de Mí constantemente»                                   | La mesa queda orientada a una presencia continua delante de יהוה.          |
+| #exodo_25_31 | **ועשית מנרת זהב טהור מקשה תיעשה המנורה**                                   | «Y harás una Menoráh de oro puro. De trabajo a martillo será la Menoráh»                                   | La luz forma parte del diseño ordenado del santuario.                      |
+| #exodo_25_40 | **וראה ועשה בתבניתם אשר אתה מראה בהר**                                      | «Y mira que los hagas con su diseño que a ti te ha sido mostrado en el monte»                              | El cierre vuelve a someter la ejecución al modelo mostrado.                |
 
-## De lo recibido a la terumah: Shemot 25:1-9
+## De lo recibido a la terumah: Shemot 25:1-9 #exodo_25_1-9
 
 El capítulo abre con יהוה hablando a Moshe. Antes de describir el arca, el texto pide al pueblo una **תרומה** (_terumah_, transliteración: _terumah_). Su sentido normal es una contribución separada o una ofrenda alzada. La raíz **(רום)** (_rum_) se relaciona con altura o elevación. Eric explica que la palabra no significa simplemente “dar algo”, sino tomar una porción de lo que יהוה ha dado y destinarla a un uso elevado. Esa es una aplicación pedagógica coherente con el movimiento del pasaje, aunque la equivalencia “terumah = exaltación” no es exacta en todos sus usos: aquí el sustantivo designa concretamente una contribución para el santuario.
 
@@ -54,7 +54,7 @@ La cláusula «אשר ידבנו לבו» (_asher yidvenu libo_) describe a quie
 
 El centro de esta primera unidad aparece en 25:8: «ועשו לי מקדש ושכנתי בתוכם». **(מקדש)** (_miqdash_) significa santuario o lugar santo; **(שכן)** (_shakan_) significa asentarse o habitar. La TTH conserva “Santuario” y “habitaré”. Eric relaciona _shakan_ con la idea de habitar sin temor y de allí con _Mishkán_; como explicación pastoral expresa el objetivo de una presencia accesible dentro del pacto, pero no debe presentarse como una definición exhaustiva de la raíz ni como garantía de ausencia de toda reverencia o juicio. Además, el hebreo dice “en medio de ellos” (_betokham_), no meramente “en un edificio”: el santuario sirve a la presencia de יהוה en la comunidad.
 
-## El arca, la cubierta y la palabra: Shemot 25:10-22
+## El arca, la cubierta y la palabra: Shemot 25:10-22 #exodo_25_10-22
 
 El segundo movimiento comienza con el arca de madera de acacias recubierta de oro. El texto no deja que el material absorba el propósito: en 25:16 se coloca dentro «את העדת», **(עדות)** (_edut_), el testimonio. Su sentido normal es testimonio o documento que da fe; aquí apunta al testimonio que יהוה entrega. La caja no es un amuleto autónomo: guarda aquello que recuerda la palabra y el pacto.
 
@@ -62,7 +62,7 @@ Sobre el arca se coloca la **כפרת** (_kaporet_), transliterada _kaporet_. La
 
 Los **כרבים** (_keruvim_, querubines) tienen alas extendidas y rostros orientados uno hacia el otro y hacia la cubierta. El texto no ordena adorarlos ni les atribuye autonomía divina. Su función literaria aquí es marcar el lugar sobre el cual יהוה promete encontrarse con Moshe. Eric relaciona el espacio con reconciliación y buena noticia al pueblo; la primera parte está sugerida por el uso posterior del lugar, mientras que la formulación “buena nueva” es una lectura teológica pedagógica, no una traducción de _keruvim_ o _kaporet_.
 
-## Mesa, pan, menorah y obediencia al diseño: Shemot 25:23-40
+## Mesa, pan, menorah y obediencia al diseño: Shemot 25:23-40 #exodo_25_23-40
 
 La mesa recibe el pan del rostro continuamente: «לחם פנים» (_lechem panim_), literalmente “pan de rostros” o “pan de la presencia”. TTH traduce «Pan del Rostro», una solución explicativa y no una equivalencia palabra por palabra. La mesa y el pan muestran que el santuario no es solo un depósito del testimonio: es un ámbito de servicio continuo delante de יהוה.
 
@@ -133,11 +133,11 @@ Así, Eric puede enlazar el Mishkán con acceso y reconciliación sin convertir 
 
 ## Pan, luz y acceso: tres servicios bajo una misma palabra
 
-La unidad de 25:23-40 debe leerse después del arca, no como un inventario desconectado. La mesa sostiene el **לחם פנים**, _lechem panim_, «pan del rostro» o «Pan del Rostro» (#shemot_25_30). **(לחם)**, _lechem_, significa pan o alimento; **(פנים)**, _panim_, significa rostro, cara o presencia. En esta colocación, la TTH conserva una expresión técnica que señala el pan puesto delante de יהוה. «Pan para alimentar a יהוה» sería una inferencia inexacta: el texto describe una ofrenda colocada ante su presencia, no una necesidad divina de alimento. La observación de Eric sobre servicio continuo queda apoyada por **תמיד**, _tamid_, «continuamente»; su fuerza contextual es la permanencia ritual de la colocación, no la afirmación de que cada acto humano sea aceptado sin orden.
+La unidad de 25:23-40 debe leerse después del arca, no como un inventario desconectado. La mesa sostiene el **לחם פנים**, _lechem panim_, «pan del rostro» o «Pan del Rostro» (#exodo_25_30). **(לחם)**, _lechem_, significa pan o alimento; **(פנים)**, _panim_, significa rostro, cara o presencia. En esta colocación, la TTH conserva una expresión técnica que señala el pan puesto delante de יהוה. «Pan para alimentar a יהוה» sería una inferencia inexacta: el texto describe una ofrenda colocada ante su presencia, no una necesidad divina de alimento. La observación de Eric sobre servicio continuo queda apoyada por **תמיד**, _tamid_, «continuamente»; su fuerza contextual es la permanencia ritual de la colocación, no la afirmación de que cada acto humano sea aceptado sin orden.
 
-La mesa también tiene **זר**, _zer_, una moldura o borde, y anillos para las varas (#shemot_25_24-28). **(שולחן)**, _shulchan_, es mesa; **(זר)**, _zer_, es borde, corona o moldura según el contexto. Aquí «corona» es una equivalencia posible pero aproximada: su función inmediata es rematar y contener la mesa. El detalle material impide espiritualizar el servicio como mera intención interior. Eric acierta al presentar el Mishkán como una forma visible de acercamiento, pero el capítulo exige que ese acercamiento tenga utensilios, medidas y mantenimiento concretos.
+La mesa también tiene **זר**, _zer_, una moldura o borde, y anillos para las varas (#exodo_25_24-28). **(שולחן)**, _shulchan_, es mesa; **(זר)**, _zer_, es borde, corona o moldura según el contexto. Aquí «corona» es una equivalencia posible pero aproximada: su función inmediata es rematar y contener la mesa. El detalle material impide espiritualizar el servicio como mera intención interior. Eric acierta al presentar el Mishkán como una forma visible de acercamiento, pero el capítulo exige que ese acercamiento tenga utensilios, medidas y mantenimiento concretos.
 
-La menorah recibe una descripción distinta: no se coloca pan, sino luz producida por una pieza de oro trabajada a martillo (#shemot_25_31-37). **(מקשה)**, _miqshah_, significa trabajo batido, labrado de una sola pieza o martillado; su fuerza contextual insiste en la unidad material de la menorah. «Luz espiritual» es una aplicación pedagógica, no una traducción de **אור**, _or_, que no aparece como el nombre del objeto en estos versículos. El verbo **(האיר)**, _heir_, significa hacer alumbrar o iluminar; en 25:37 organiza la función de las lámparas hacia el frente. La clase conecta esta luz con vida y acceso, una asociación canónica razonable, pero el pasaje local afirma primero una lámpara que debe alumbrar conforme al diseño recibido.
+La menorah recibe una descripción distinta: no se coloca pan, sino luz producida por una pieza de oro trabajada a martillo (#exodo_25_31-37). **(מקשה)**, _miqshah_, significa trabajo batido, labrado de una sola pieza o martillado; su fuerza contextual insiste en la unidad material de la menorah. «Luz espiritual» es una aplicación pedagógica, no una traducción de **אור**, _or_, que no aparece como el nombre del objeto en estos versículos. El verbo **(האיר)**, _heir_, significa hacer alumbrar o iluminar; en 25:37 organiza la función de las lámparas hacia el frente. La clase conecta esta luz con vida y acceso, una asociación canónica razonable, pero el pasaje local afirma primero una lámpara que debe alumbrar conforme al diseño recibido.
 
 Así, mesa y menorah no compiten con el arca: alimento colocado delante de יהוה, luz ordenada y testimonio guardado convergen en una presencia que habla. **(פנים)**, _panim_, puede traducirse «rostro» exactamente en sentido normal, mientras «presencia» es contextual; **(תמיד)**, _tamid_, conserva la continuidad del servicio, mientras «eternamente» sería una ampliación. La lectura de Eric sobre una comunidad ordenada para habitar delante de יהוה recibe apoyo cuando se mantiene esta secuencia textual: el corazón voluntario de 25:2 no elimina la forma, y la forma no sustituye al corazón.
 
@@ -145,7 +145,7 @@ Así, mesa y menorah no compiten con el arca: alimento colocado delante de יה�
 
 - [Shemot 20: Palabra, libertad, temor y adoración](./shemot_20_palabra_libertad_temor_y_adoracion.md)
 - [Vayikra 1: Acercamiento a יהוה y la ofrenda](./vayikra_1_parashot_2017.md)
-- #shemot_25_8 — la promesa de habitar en medio del pueblo.
+- #exodo_25_8 — la promesa de habitar en medio del pueblo.
 
 ## Pendiente de verificar
 

@@ -8,11 +8,11 @@ tags:
   - pesaj
   - memoria
 references:
-  - "#shemot_13_2"
-  - "#shemot_13_3"
-  - "#shemot_13_8"
-  - "#shemot_13_17"
-  - "#shemot_13_21"
+  - "#exodo_13_2"
+  - "#exodo_13_3"
+  - "#exodo_13_8"
+  - "#exodo_13_17"
+  - "#exodo_13_21"
 sources:
   - "https://www.youtube.com/watch?v=W8NBI-VbB9w"
   - "docs/scriptures/oe/json/exodus/13.json"
@@ -33,12 +33,12 @@ Esta nota desarrolla la enseñanza pública de Eric de Jesús Rodríguez Mendoza
 
 | Unidad | Texto hebreo local (OE, sin nikud) | Función en el argumento |
 | --- | --- | --- |
-| #shemot_13_2-3 | **קדש לי כל בכור**; **זכור את היום הזה אשר יצאתם ממצרים** | La liberación reclama consagración y memoria. |
-| #shemot_13_6-10 | **שבעת ימים תאכל מצת**; **והגדת לבנך**; **למען תהיה תורת יהוה בפיך** | La fiesta se vuelve relato familiar y palabra en la boca. |
-| #shemot_13_14-16 | **מה זאת**; **בחזק יד הוציאנו יהוה ממצרים** | La pregunta del hijo recibe una respuesta histórica y confesional. |
-| #shemot_13_17-22 | **ויסב אלהים את העם**; **ויהוה הלך לפניהם** | La ruta y la presencia son dirigidas, no elegidas sólo por cercanía. |
+| #exodo_13_2-3 | **קדש לי כל בכור**; **זכור את היום הזה אשר יצאתם ממצרים** | La liberación reclama consagración y memoria. |
+| #exodo_13_6-10 | **שבעת ימים תאכל מצת**; **והגדת לבנך**; **למען תהיה תורת יהוה בפיך** | La fiesta se vuelve relato familiar y palabra en la boca. |
+| #exodo_13_14-16 | **מה זאת**; **בחזק יד הוציאנו יהוה ממצרים** | La pregunta del hijo recibe una respuesta histórica y confesional. |
+| #exodo_13_17-22 | **ויסב אלהים את העם**; **ויהוה הלך לפניהם** | La ruta y la presencia son dirigidas, no elegidas sólo por cercanía. |
 
-## 13:1-10: la salida debe ser recordada y enseñada
+## 13:1-10: la salida debe ser recordada y enseñada #exodo_13_1-10
 
 El capítulo comienza con una orden a Moshe y enseguida manda: «קדש לי כל בכור», «conságrame todo primogénito». En el v. 3 Moshe explica al pueblo: «זכור את היום הזה אשר יצאתם ממצרים מבית עבדים», «recuerden este día en que salieron de Egipto, de la casa de esclavos». Eric vincula la mirada «de arriba» con no perder la referencia de יהוה después de ser liberados. El texto sostiene esa dirección, pero la concreta en recordar, no en una exhortación vaga a pensar positivamente.
 
@@ -46,13 +46,13 @@ Los vv. 5-7 sitúan la obediencia en la llegada a la tierra prometida: siete dí
 
 El v. 9 añade señal en la mano y recuerdo entre los ojos «para que la Torah de יהוה esté en tu boca». **זכרון**, _zikaron_, es «memoria» o «recordatorio»; aquí no es sólo información mental, pues la fiesta, la explicación y la práctica hacen visible la salida. Eric puede hablar de mirar las cosas de arriba como reorientación, pero la prueba textual es terrestre y repetida: boca, mano, casa, calendario y frontera.
 
-## 13:11-16: consagración, rescate y respuesta a la pregunta
+## 13:11-16: consagración, rescate y respuesta a la pregunta #exodo_13_11-16
 
 Al entrar en la tierra, todo primogénito y todo primer nacido de animal se separa para יהוה. El asno se rescata con un cordero; el primogénito humano también se rescata. Cuando el hijo pregunte «¿qué es esto?», la respuesta vuelve al poder de יהוה: «por la fuerza de la mano nos sacó de Egipto». La memoria no atribuye la libertad al vigor de Israel. La repetición de **בחזק יד** (_bechozeq yad_), «con mano fuerte», relaciona la respuesta del v. 14 con la explicación del v. 3.
 
 La palabra **פטר**, _peter_, significa «el que abre» o «el que sale primero»; en este capítulo nombra al primogénito que pertenece a יהוה y que, en el caso humano, debe ser rescatado. Esta relación es aproximada en español cuando se resume simplemente como «primer hijo», porque el texto incluye también animales y la apertura del vientre. Una lectura mesiánica del rescate puede conectarse canónicamente con otros pasajes, pero no debe borrar aquí la práctica memorial de Israel.
 
-## 13:17-22: la ruta larga y la presencia que guía
+## 13:17-22: la ruta larga y la presencia que guía #exodo_13_17-22
 
 Cuando Faraón deja salir al pueblo, אלהים no lo lleva por el camino de la tierra de los filisteos, aunque era cercano. El texto explica que el pueblo podría ver guerra, arrepentirse y volver a Egipto. Por eso lo hace rodear por el camino del desierto del Mar de Cañas. Eric presenta la dirección divina como parte de mirar más allá de la ruta inmediata; el pasaje confirma que la cercanía geográfica no es el único criterio, pero no promete que todo desvío individual tenga una explicación revelada.
 
@@ -87,6 +87,6 @@ Shemot 13 no separa la liberación del camino que sigue. La clase de Eric llama 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Bshalaj (2017) Fijándonos en las cosas de arriba...](https://www.youtube.com/watch?v=W8NBI-VbB9w) (source_id: `youtube:W8NBI-VbB9w`).
+- [Parashat Bshalaj (2017) Fijándonos en las cosas de arriba...](https://www.youtube.com/watch?v=W8NBI-VbB9w) (`source_id`: `youtube:W8NBI-VbB9w`).
 - Texto bíblico local: `docs/scriptures/oe/json/exodus/13.json`.
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción automática como cita literal.

@@ -11,19 +11,19 @@ tags:
   - torah
   - mesias
 references:
-  - "#galatians_5_11"
-  - "#galatians_5_13"
-  - "#galatians_5_14"
-  - "#galatians_5_16"
-  - "#galatians_5_17"
-  - "#galatians_5_18"
-  - "#galatians_5_19"
-  - "#galatians_5_21"
-  - "#galatians_5_22"
-  - "#galatians_5_23"
-  - "#galatians_5_24"
-  - "#galatians_5_25"
-  - "#galatians_5_26"
+  - "#galatas_5_11"
+  - "#galatas_5_13"
+  - "#galatas_5_14"
+  - "#galatas_5_16"
+  - "#galatas_5_17"
+  - "#galatas_5_18"
+  - "#galatas_5_19"
+  - "#galatas_5_21"
+  - "#galatas_5_22"
+  - "#galatas_5_23"
+  - "#galatas_5_24"
+  - "#galatas_5_25"
+  - "#galatas_5_26"
   - "#hechos_21_20"
   - "#hechos_21_24"
 sources:
@@ -46,13 +46,13 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | El RÚAJ es OPUEST
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatians_5_11 | **ואני אחי אם־אכריז עוד המילה על־מה אהיה נרדף הלא מבטל מכשול הצלוב** | La predicación hipotética de la circuncisión eliminaría el tropiezo de la cruz. |
-| #galatians_5_13-14 | **כי אתם אחי לחרות נקראתם ובלבד שלא תהיה החרות סבה לבשר אלא שתעבדו איש את־רעהו באהבה׃ כי כל־התורה כלולה במצוה האחת הזאת ואהבת לרעך כמוך׃** | La libertad no es ocasión para la carne; se orienta al servicio y al amor al prójimo. |
-| #galatians_5_16-18 | **והנני אמר התהלכו ברוח ולא תמלאו את־תאות הבשר׃ ... ואם־יהיה הרוח מנהיגכם אז אינכם תחת התורה׃** | Andar en el Ruaj se opone a satisfacer la concupiscencia y a estar bajo sentencia. |
-| #galatians_5_19-21 | **ונודעים המה פעלי הבשר ... אשר אמר מה־שכבר אמרתי כי־עשי אלה לא ינחלו מלכות האלהים׃** | Las obras visibles de la carne no son una categoría neutral: excluyen del reino a quienes las practican. |
-| #galatians_5_22-26 | **ופרִי הרוח הוא אהבה שמחה ושלום ארך רוח ונדיבות וחסד ואמונה׃ וענוה ופרישות לנגד עשי אלה אין־תורה׃ ... אם־נחיה ברוח נתהלכה גם־ברוח׃** | El fruto del Ruaj reúne amor, gozo, paz, paciencia, generosidad, bondad, fidelidad, mansedumbre y dominio propio. |
+| #galatas_5_11 | **ואני אחי אם־אכריז עוד המילה על־מה אהיה נרדף הלא מבטל מכשול הצלוב** | La predicación hipotética de la circuncisión eliminaría el tropiezo de la cruz. |
+| #galatas_5_13-14 | **כי אתם אחי לחרות נקראתם ובלבד שלא תהיה החרות סבה לבשר אלא שתעבדו איש את־רעהו באהבה׃ כי כל־התורה כלולה במצוה האחת הזאת ואהבת לרעך כמוך׃** | La libertad no es ocasión para la carne; se orienta al servicio y al amor al prójimo. |
+| #galatas_5_16-18 | **והנני אמר התהלכו ברוח ולא תמלאו את־תאות הבשר׃ ... ואם־יהיה הרוח מנהיגכם אז אינכם תחת התורה׃** | Andar en el Ruaj se opone a satisfacer la concupiscencia y a estar bajo sentencia. |
+| #galatas_5_19-21 | **ונודעים המה פעלי הבשר ... אשר אמר מה־שכבר אמרתי כי־עשי אלה לא ינחלו מלכות האלהים׃** | Las obras visibles de la carne no son una categoría neutral: excluyen del reino a quienes las practican. |
+| #galatas_5_22-26 | **ופרִי הרוח הוא אהבה שמחה ושלום ארך רוח ונדיבות וחסד ואמונה׃ וענוה ופרישות לנגד עשי אלה אין־תורה׃ ... אם־נחיה ברוח נתהלכה גם־ברוח׃** | El fruto del Ruaj reúne amor, gozo, paz, paciencia, generosidad, bondad, fidelidad, mansedumbre y dominio propio. |
 
-## La libertad no autoriza a la carne (5:11-18)
+## La libertad no autoriza a la carne (5:11-18) #galatas_5_11-18
 
 La clase vuelve a Gálatas 5:11 para responder a la idea de que Shaul habría abolido la circuncisión y la Torah. El expositor relaciona la frase «si aún predico la circuncisión» con Hechos 21:20-24, donde los ancianos describen a miles de judíos creyentes celosos de la Torah y niegan la acusación de que Shaul enseñe apostasía de Moisés. La conexión ayuda a separar dos asuntos: una señal o práctica de identidad no debe convertirse en requisito de salvación para los gentiles, y la Torah no debe confundirse con tradiciones humanas. Hechos 21 amplía el contexto, pero no permite afirmar sin más que cada detalle de la explicación histórica quede probado por Gálatas 5.
 
@@ -60,7 +60,7 @@ En 5:16 la clase define caminar en el Ruaj como andar en la voluntad de Elohim, 
 
 El expositor también explica «no están bajo ley» como no estar bajo una sentencia o cargo judicial, no como quedar fuera de toda instrucción divina. Es una lectura contextual coherente con el contraste del capítulo, pero la afirmación gramatical de que la ausencia de artículo resuelve por sí sola el sentido debe verificarse en el griego. El resultado pastoral es claro: la libertad no consiste en hacer todo lo que se quiere, sino en no ser gobernado por la carne.
 
-## Obras de la carne y fruto singular del Ruaj (5:19-26)
+## Obras de la carne y fruto singular del Ruaj (5:19-26) #galatas_5_19-26
 
 La clase recorre las obras de la carne como un inventario de desorden: fornicación, impureza, idolatría, hechicería, enemistades, pleitos, celos, divisiones, envidias, borracheras y desenfreno. Eric aplica la lista a conflictos comunitarios y distingue, pedagógicamente, entre competir por lo que otro tiene y dañarlo por envidia. La distinción puede ayudar a examinar el corazón, pero no debe convertirse en una taxonomía léxica absoluta si no se cotejan las palabras griegas en sus contextos.
 
@@ -84,11 +84,11 @@ En contraste, el texto habla del **fruto** del Ruaj en singular. La clase subray
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_5_11 y #hechos_21_20-24 | Shaul no proclama la circuncisión como requisito de salvación; la acusación de que abolía la Torah es presentada como calumnia. | Conexión contextual atribuida; se evita convertir Hechos 21 en una prueba exhaustiva de cada afirmación. |
-| #galatians_5_16-18 | Caminar en el Ruaj significa obedecer la voluntad de Elohim; «bajo ley» se entiende como bajo sentencia, no como abolición de la Torah. | Apoyo textual y aclaración contextual; la afirmación gramatical queda pendiente. |
-| #galatians_5_19-21 | Las obras de la carne incluyen conflictos, rivalidad y desenfreno, no sólo pecados sexuales. | Apoyo textual; distinciones entre celos y envidia tratadas como aplicación pedagógica. |
-| #galatians_5_22-23 | El fruto es singular y reúne los atributos que la clase presenta como obra de Elohim; «shalom» se distingue de tranquilidad emocional. | Apoyo textual y puente léxico cualificado; no se fijan etimologías como certezas. |
-| #galatians_5_24-26 | La vida por el Ruaj exige crucificar la carne, abandonar la vanagloria y perseverar en un proceso real. | Síntesis textual con aplicación pastoral atribuida. |
+| #galatas_5_11 y #hechos_21_20-24 | Shaul no proclama la circuncisión como requisito de salvación; la acusación de que abolía la Torah es presentada como calumnia. | Conexión contextual atribuida; se evita convertir Hechos 21 en una prueba exhaustiva de cada afirmación. |
+| #galatas_5_16-18 | Caminar en el Ruaj significa obedecer la voluntad de Elohim; «bajo ley» se entiende como bajo sentencia, no como abolición de la Torah. | Apoyo textual y aclaración contextual; la afirmación gramatical queda pendiente. |
+| #galatas_5_19-21 | Las obras de la carne incluyen conflictos, rivalidad y desenfreno, no sólo pecados sexuales. | Apoyo textual; distinciones entre celos y envidia tratadas como aplicación pedagógica. |
+| #galatas_5_22-23 | El fruto es singular y reúne los atributos que la clase presenta como obra de Elohim; «shalom» se distingue de tranquilidad emocional. | Apoyo textual y puente léxico cualificado; no se fijan etimologías como certezas. |
+| #galatas_5_24-26 | La vida por el Ruaj exige crucificar la carne, abandonar la vanagloria y perseverar en un proceso real. | Síntesis textual con aplicación pastoral atribuida. |
 
 ## Pendiente de verificar
 

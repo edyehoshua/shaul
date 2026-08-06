@@ -9,20 +9,20 @@ tags:
   - obediencia
   - memoria
 references:
-  - "#devarim_6_4"
-  - "#devarim_6_5"
-  - "#devarim_6_6"
-  - "#devarim_6_7"
-  - "#devarim_6_8"
-  - "#devarim_6_9"
-  - "#devarim_11_13"
-  - "#devarim_11_18"
-  - "#devarim_11_19"
-  - "#bamidbar_15_37"
-  - "#bamidbar_15_38"
-  - "#bamidbar_15_39"
-  - "#bamidbar_15_40"
-  - "#bamidbar_15_41"
+  - "#deuteronomio_6_4"
+  - "#deuteronomio_6_5"
+  - "#deuteronomio_6_6"
+  - "#deuteronomio_6_7"
+  - "#deuteronomio_6_8"
+  - "#deuteronomio_6_9"
+  - "#deuteronomio_11_13"
+  - "#deuteronomio_11_18"
+  - "#deuteronomio_11_19"
+  - "#numeros_15_37"
+  - "#numeros_15_38"
+  - "#numeros_15_39"
+  - "#numeros_15_40"
+  - "#numeros_15_41"
 sources:
   - "https://www.youtube.com/watch?v=XCiS-STIKaI"
   - "docs/scriptures/oe/json/raw/deuteronomy.json"
@@ -44,11 +44,11 @@ La nota identifica lo que la fuente permite afirmar y no inventa comentarios aus
 
 | Referencia         | Texto local (OE)                                                                                                                          | Función en el argumento                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| #devarim_6_4-5     | **שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד׃ וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל לְבָבְךָ וּבְכָל נַפְשְׁךָ וּבְכָל מְאֹדֶךָ** | Confesión de unicidad y amor total.                           |
-| #devarim_6_6-9     | **וְהָיוּ הַדְּבָרִים הָאֵלֶּה ... וְשִׁנַּנְתָּם לְבָנֶיךָ**                                                                             | Palabra interiorizada, repetida y enseñada en la vida diaria. |
-| #devarim_11_13-14  | **וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְוֹתַי ... וְנָתַתִּי מְטַר אַרְצְכֶם**                                                          | Escucha obediente, amor, servicio y bendición de la tierra.   |
-| #bamidbar_15_37-39 | **וְעָשׂוּ לָהֶם צִיצִת ... וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת כָּל מִצְוֹת יְהוָה**                                                       | Tzitzit como señal que devuelve la mirada a los mandamientos. |
-| #bamidbar_15_40-41 | **לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְוֹתָי ... אֲנִי יְהוָה אֱלֹהֵיכֶם**                                                        | Memoria, práctica e identidad de redención.                   |
+| #deuteronomio_6_4-5     | **שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד׃ וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל לְבָבְךָ וּבְכָל נַפְשְׁךָ וּבְכָל מְאֹדֶךָ** | Confesión de unicidad y amor total.                           |
+| #deuteronomio_6_6-9     | **וְהָיוּ הַדְּבָרִים הָאֵלֶּה ... וְשִׁנַּנְתָּם לְבָנֶיךָ**                                                                             | Palabra interiorizada, repetida y enseñada en la vida diaria. |
+| #deuteronomio_11_13-14  | **וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְוֹתַי ... וְנָתַתִּי מְטַר אַרְצְכֶם**                                                          | Escucha obediente, amor, servicio y bendición de la tierra.   |
+| #numeros_15_37-39 | **וְעָשׂוּ לָהֶם צִיצִת ... וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת כָּל מִצְוֹת יְהוָה**                                                       | Tzitzit como señal que devuelve la mirada a los mandamientos. |
+| #numeros_15_40-41 | **לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְוֹתָי ... אֲנִי יְהוָה אֱלֹהֵיכֶם**                                                        | Memoria, práctica e identidad de redención.                   |
 
 ## Mapa de la enseñanza de Eric
 

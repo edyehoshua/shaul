@@ -11,20 +11,20 @@ tags:
   - mesias
   - herencia
 references:
-  - "#galatians_3_13"
-  - "#galatians_3_14"
-  - "#galatians_3_15"
-  - "#galatians_3_16"
-  - "#galatians_3_17"
-  - "#galatians_3_18"
-  - "#galatians_3_19"
-  - "#galatians_3_20"
-  - "#galatians_3_21"
-  - "#galatians_3_22"
-  - "#devarim_21_23"
-  - "#bereshit_13_15"
-  - "#yehezqel_36_27"
-  - "#tehilim_105_7"
+  - "#galatas_3_13"
+  - "#galatas_3_14"
+  - "#galatas_3_15"
+  - "#galatas_3_16"
+  - "#galatas_3_17"
+  - "#galatas_3_18"
+  - "#galatas_3_19"
+  - "#galatas_3_20"
+  - "#galatas_3_21"
+  - "#galatas_3_22"
+  - "#deuteronomio_21_23"
+  - "#genesis_13_15"
+  - "#ezequiel_36_27"
+  - "#salmos_105_7"
 sources:
   - "https://www.youtube.com/watch?v=wvW-2nLnKj8"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -45,24 +45,24 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La TORAH dada por 
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatians_3_13-14 | **הַמָּשִׁיחַ פָּדָנוּ מִקִּלְלַת הַתּוֹרָה בִּהְיוֹתוֹ לִקְלָלָה בַּעֲדֵנוּ ... לְמַעַן אֲשֶׁר תָּבֹא בִּרְכַּת אַבְרָהָם בַּמָּשִׁיחַ יֵשׁוּעַ עַל־הַגּוֹיִם** | La redención tiene un propósito explícito: bendición de Abraham para las naciones y promesa del Ruaj. |
-| #galatians_3_15-18 | **אֲפִלּוּ צַוָּאָה שֶׁל־בֶּן־אָדָם ... לְאַבְרָהָם נֶאֶמְרוּ הַהַבְטָחוֹת ... בְּרִית ... אַחֲרֵי אַרְבַּע מֵאוֹת וּשְׁלשִׁים שָׁנָה ... וְהָאֱלׂהִים חָנַן אֶת־אַבְרָהָם עַל־יְדֵי הַבְטָחָה** | Una alianza ratificada no se invalida; la Torah posterior no cancela la promesa ni la herencia. |
-| #galatians_3_19-20 | **אִם־כֵּן־הַתּוֹרָה מַה־הִיא מִפְּנֵי הַפְּשָׁעִים נוֹסָפָה ... עֲרוּכָה עַל־יְדֵי הַמַּלְאָכִים וּבְיַד מְתַוֵּךְ** | La Torah se relaciona con las transgresiones y la mediación; el texto exige no borrar la pregunta sobre su función. |
-| #galatians_3_21-22 | **וְעַתָּה הַמְבַטֶּלֶת הַתּוֹרָה אֶת־הַבְטָחוֹת הָאֱלׂהִים חָלִילָה ... הַכָּתוּב הִסְגִּיר אֶת־הַכּׂל בְּיַד הַחֵטְא** | Shaul niega que la Torah anule las promesas y explica que la Escritura encierra todo bajo pecado para que la promesa se dé por la emunah. |
+| #galatas_3_13-14 | **הַמָּשִׁיחַ פָּדָנוּ מִקִּלְלַת הַתּוֹרָה בִּהְיוֹתוֹ לִקְלָלָה בַּעֲדֵנוּ ... לְמַעַן אֲשֶׁר תָּבֹא בִּרְכַּת אַבְרָהָם בַּמָּשִׁיחַ יֵשׁוּעַ עַל־הַגּוֹיִם** | La redención tiene un propósito explícito: bendición de Abraham para las naciones y promesa del Ruaj. |
+| #galatas_3_15-18 | **אֲפִלּוּ צַוָּאָה שֶׁל־בֶּן־אָדָם ... לְאַבְרָהָם נֶאֶמְרוּ הַהַבְטָחוֹת ... בְּרִית ... אַחֲרֵי אַרְבַּע מֵאוֹת וּשְׁלשִׁים שָׁנָה ... וְהָאֱלׂהִים חָנַן אֶת־אַבְרָהָם עַל־יְדֵי הַבְטָחָה** | Una alianza ratificada no se invalida; la Torah posterior no cancela la promesa ni la herencia. |
+| #galatas_3_19-20 | **אִם־כֵּן־הַתּוֹרָה מַה־הִיא מִפְּנֵי הַפְּשָׁעִים נוֹסָפָה ... עֲרוּכָה עַל־יְדֵי הַמַּלְאָכִים וּבְיַד מְתַוֵּךְ** | La Torah se relaciona con las transgresiones y la mediación; el texto exige no borrar la pregunta sobre su función. |
+| #galatas_3_21-22 | **וְעַתָּה הַמְבַטֶּלֶת הַתּוֹרָה אֶת־הַבְטָחוֹת הָאֱלׂהִים חָלִילָה ... הַכָּתוּב הִסְגִּיר אֶת־הַכּׂל בְּיַד הַחֵטְא** | Shaul niega que la Torah anule las promesas y explica que la Escritura encierra todo bajo pecado para que la promesa se dé por la emunah. |
 
-## El Mesías redime para abrir la promesa: 3:13-14
+## El Mesías redime para abrir la promesa: 3:13-14 #galatas_3_13-14
 
 Eric comienza explicando que muchas traducciones hablan de «la maldición de la ley» y que la clase prefiere hablar de desprecio o deshonra de la Torah. El punto atribuible es que el Mesías no convierte la Torah en algo malo; carga la consecuencia de la transgresión y es expuesto en el madero. La clase usa la imagen de un sensor: la Torah ilumina el pecado y deja al descubierto la infracción, pero la limpieza y la reconciliación no proceden del mérito de quien fue detectado.
 
 El texto local conserva **מִקִּלְלַת הַתּוֹרָה**, «de la maldición de la Torah», y **לִקְלָלָה**, «para maldición», mientras cita que el colgado es «maldición de Elohim». Por tanto, «desprecio» puede registrarse como interpretación de la exposición, pero no debe sustituir silenciosamente la forma del corpus. Gálatas 3:14 fija el propósito: que la bendición de Abraham llegue a las naciones en el Mesías y que recibamos la promesa del Ruaj por la emunah. Esta finalidad gobierna la lectura; la explicación ontológica de cómo el Mesías «se disminuyó» permanece como inferencia doctrinal de la clase.
 
-## La promesa ratificada precede a la Torah: 3:15-18
+## La promesa ratificada precede a la Torah: 3:15-18 #galatas_3_15-18
 
 La segunda unidad usa un ejemplo humano: una alianza ratificada no se invalida ni se le añade. Shaul habla de las promesas a Abraham y a su simiente, que Delitzsch expresa en singular y relaciona con el Mesías. Eric subraya que la promesa no es un salario ganado por Abraham ni una recompensa transferible por los méritos de los patriarcas. El lenguaje de la clase enlaza promesa, juramento, tierra y herencia; la conexión temática está presente en el argumento, aunque no cada palabra sea una equivalencia estricta en todos los pasajes.
 
 El versículo 17 coloca la Torah cuatrocientos treinta años después de la promesa. El dato decisivo para Shaul es funcional: lo posterior no puede invalidar lo anterior. En 3:18 la herencia procede de la promesa, no de la Torah. Esto no convierte a la Torah en un error ni en una intrusa; delimita aquello que no puede hacer. La clase lo aplica diciendo que obedecer no es el fundamento de recibir la promesa, sino la consecuencia de haber recibido una vida transformada. Es una síntesis pastoral coherente con el contraste del capítulo, pero la nota no usa por sí sola la cifra para resolver todas las cronologías del éxodo.
 
-## La Torah: función, transgresión y mediación: 3:19-22
+## La Torah: función, transgresión y mediación: 3:19-22 #galatas_3_19-22
 
 Cuando Shaul pregunta «¿para qué la Torah?», el texto responde que fue añadida por causa de las transgresiones hasta la llegada de la simiente. Eric propone traducir o entender la relación como «para las transgresiones» y afirma que la Torah fue dada por gracia: no es el instrumento de la herencia, pero sí una guía que señala el pecado y orienta la vida. La imagen del manual es pedagógica; el pasaje demuestra una función relacionada con transgresión, mediación y temporalidad, no todos los detalles de esa imagen.
 
@@ -91,11 +91,11 @@ La nota conserva asimismo la advertencia contra confundir confesión verbal, voc
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_3_13-14 | El Mesías carga el desprecio/deshonra asociado con nuestra transgresión y abre a los gentiles la bendición de Abraham y la promesa del Ruaj. | Propósito de 3:14 con apoyo textual; «desprecio» y la explicación de la humillación quedan atribuidos y cualificados. |
-| #galatians_3_15-18 | La promesa y el juramento preceden a la Torah; la herencia no se obtiene por méritos de obras. | Apoyo textual a la prioridad de la promesa; cronología detallada pendiente. |
-| #galatians_3_19-20 | La Torah fue dada para las transgresiones, por gracia, mediante mediación; el Mesías es presentado como mediador entre Elohim y el hombre. | Función y mediación apoyadas por el texto; la formulación ontológica queda como inferencia atribuida. |
-| #galatians_3_21-22 | La Torah no anula las promesas; la Escritura encierra todo bajo pecado para que la promesa llegue por emunah. | Apoyo textual directo; se evita el antinomismo. |
-| #yehezqel_36_27 | El Ruaj hace andar en los estatutos; la obediencia es consecuencia de una transformación. | Conexión canónica útil, no afirmación de que Ezequiel sea una cita explícita de la clase en cada detalle. |
+| #galatas_3_13-14 | El Mesías carga el desprecio/deshonra asociado con nuestra transgresión y abre a los gentiles la bendición de Abraham y la promesa del Ruaj. | Propósito de 3:14 con apoyo textual; «desprecio» y la explicación de la humillación quedan atribuidos y cualificados. |
+| #galatas_3_15-18 | La promesa y el juramento preceden a la Torah; la herencia no se obtiene por méritos de obras. | Apoyo textual a la prioridad de la promesa; cronología detallada pendiente. |
+| #galatas_3_19-20 | La Torah fue dada para las transgresiones, por gracia, mediante mediación; el Mesías es presentado como mediador entre Elohim y el hombre. | Función y mediación apoyadas por el texto; la formulación ontológica queda como inferencia atribuida. |
+| #galatas_3_21-22 | La Torah no anula las promesas; la Escritura encierra todo bajo pecado para que la promesa llegue por emunah. | Apoyo textual directo; se evita el antinomismo. |
+| #ezequiel_36_27 | El Ruaj hace andar en los estatutos; la obediencia es consecuencia de una transformación. | Conexión canónica útil, no afirmación de que Ezequiel sea una cita explícita de la clase en cada detalle. |
 
 ## Pendiente de verificar
 

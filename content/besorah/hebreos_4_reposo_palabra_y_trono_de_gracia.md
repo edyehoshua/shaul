@@ -8,16 +8,16 @@ tags:
   - palabra
   - gracia
 references:
-  - "#hebrews_4_1"
-  - "#hebrews_4_2"
-  - "#hebrews_4_3"
-  - "#hebrews_4_6"
-  - "#hebrews_4_9"
-  - "#hebrews_4_11"
-  - "#hebrews_4_12"
-  - "#hebrews_4_14"
-  - "#hebrews_4_15"
-  - "#hebrews_4_16"
+  - "#hebreos_4_1"
+  - "#hebreos_4_2"
+  - "#hebreos_4_3"
+  - "#hebreos_4_6"
+  - "#hebreos_4_9"
+  - "#hebreos_4_11"
+  - "#hebreos_4_12"
+  - "#hebreos_4_14"
+  - "#hebreos_4_15"
+  - "#hebreos_4_16"
 sources:
   - "https://www.youtube.com/watch?v=H_GBWMOusNo"
   - "https://www.youtube.com/watch?v=vbJeGh-kmb0"
@@ -40,20 +40,20 @@ La nota sigue Hebreos 4:1-16 en orden. La transcripción automática no se prese
 
 | Unidad y fuente                         | Observación atribuible de la exposición                                                                                    | Evaluación frente a Hebreos 4                                                                                                               |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| #hebrews_4_1-3; `youtube:H_GBWMOusNo`   | La promesa de entrar en el reposo no quedó agotada en la generación del desierto; debe recibirse con fe y temor reverente. | Apoyo textual directo: el autor dice que la promesa permanece y contrasta oír con mezclar la palabra con fe.                                |
-| #hebrews_4_6-11; `youtube:H_GBWMOusNo`  | El primer Yehoshua no agotó el reposo, por lo que queda una entrada para el pueblo de Elohim y se llama a perseverar.      | Apoyo textual cualificado: el capítulo distingue la entrada bajo Yehoshua hijo de Nun del reposo escatológico y exhortativo que desarrolla. |
-| #hebrews_4_12-13; `youtube:vbJeGh-kmb0` | La palabra descubre lo que ocurre en el interior y no puede usarse como un lema para controlar a otros.                    | Apoyo textual directo para el discernimiento ante Elohim; la aplicación contra la manipulación es pedagógica.                               |
-| #hebrews_4_14-16; `youtube:vbJeGh-kmb0` | El Kohén Gadol celestial permite acercarse con confianza, no con autosuficiencia ni con desprecio de la debilidad humana.  | Apoyo textual directo para confesar, compadecerse y acercarse; la forma concreta de cada aplicación comunitaria es inferencial.             |
+| #hebreos_4_1-3; `youtube:H_GBWMOusNo`   | La promesa de entrar en el reposo no quedó agotada en la generación del desierto; debe recibirse con fe y temor reverente. | Apoyo textual directo: el autor dice que la promesa permanece y contrasta oír con mezclar la palabra con fe.                                |
+| #hebreos_4_6-11; `youtube:H_GBWMOusNo`  | El primer Yehoshua no agotó el reposo, por lo que queda una entrada para el pueblo de Elohim y se llama a perseverar.      | Apoyo textual cualificado: el capítulo distingue la entrada bajo Yehoshua hijo de Nun del reposo escatológico y exhortativo que desarrolla. |
+| #hebreos_4_12-13; `youtube:vbJeGh-kmb0` | La palabra descubre lo que ocurre en el interior y no puede usarse como un lema para controlar a otros.                    | Apoyo textual directo para el discernimiento ante Elohim; la aplicación contra la manipulación es pedagógica.                               |
+| #hebreos_4_14-16; `youtube:vbJeGh-kmb0` | El Kohén Gadol celestial permite acercarse con confianza, no con autosuficiencia ni con desprecio de la debilidad humana.  | Apoyo textual directo para confesar, compadecerse y acercarse; la forma concreta de cada aplicación comunitaria es inferencial.             |
 
-## Hebreos 4:1-5: una promesa que permanece
+## Hebreos 4:1-5: una promesa que permanece #hebreos_4_1-5
 
 El capítulo comienza con una conclusión prudente: «temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de vosotros parezca haberse quedado atrás». **(καταλείπω)**, _kataleipō_, significa dejar atrás, abandonar o quedar remanente; su fuerza contextual es que la promesa no fue cancelada, aunque algunos no entraron. «Quedarse atrás» es una glosa contextual directa, no una descripción de una emoción pasajera.
 
-La exposición de Eric enlaza esta advertencia con el camino de Israel y con la diferencia entre el primer Yehoshua y el Mesías. El capítulo sí afirma que el anuncio fue oído por los antiguos y que no les aprovechó por no estar mezclado con fe en quienes lo oyeron (#hebrews_4_2). **(εὐαγγελίζομαι)**, _euangelizomai_, significa anunciar buenas noticias o evangelizar; aquí su fuerza es el anuncio de una promesa que exige una respuesta confiada. «Evangelio» como etiqueta doctrinal completa sería una ampliación; el sentido ordinario de anunciar buenas noticias es directo.
+La exposición de Eric enlaza esta advertencia con el camino de Israel y con la diferencia entre el primer Yehoshua y el Mesías. El capítulo sí afirma que el anuncio fue oído por los antiguos y que no les aprovechó por no estar mezclado con fe en quienes lo oyeron (#hebreos_4_2). **(εὐαγγελίζομαι)**, _euangelizomai_, significa anunciar buenas noticias o evangelizar; aquí su fuerza es el anuncio de una promesa que exige una respuesta confiada. «Evangelio» como etiqueta doctrinal completa sería una ampliación; el sentido ordinario de anunciar buenas noticias es directo.
 
 **(πίστις)**, _pistis_, significa fe, confianza o fidelidad; en 4:2 la relación con el oír es textual, mientras que describir todas sus dimensiones como una teoría completa de la salvación sería una inferencia. Hebreos no presenta la fe como una opinión privada: la une con recibir la palabra y continuar hacia la promesa. El Salmo 95 y Génesis 2 aparecen juntos para mostrar que el reposo de Elohim no es simplemente el descanso del séptimo día ni solo la instalación histórica en la tierra.
 
-## Hebreos 4:6-11: el reposo todavía queda
+## Hebreos 4:6-11: el reposo todavía queda #hebreos_4_6-11
 
 El autor insiste en que, puesto que algunos no entraron por desobediencia, otros reciben nuevamente la invitación «hoy». **(ἀπειθέω)**, _apeitheō_, significa desobedecer, no dejarse persuadir o rehusar creer; su fuerza contextual incluye una respuesta resistente al anuncio. «Desobediencia» es una glosa directa en el argumento, pero no debe usarse para diagnosticar sin más cada enfermedad, demora o conflicto de una persona.
 
@@ -61,13 +61,13 @@ El texto menciona a Yehoshua y sostiene que, si él hubiera dado el reposo defin
 
 **(σπουδάζω)**, _spoudazō_, significa apresurarse, esforzarse o ser diligente; en 4:11 su fuerza es perseverar para entrar y no caer siguiendo el patrón de desobediencia. «Esforzarse» es una glosa directa, aunque el término no enseña autosalvación por mérito. La exhortación mantiene juntas la promesa divina y la responsabilidad de no abandonar la confesión. La clase acierta al resistir una lectura que reduzca el reposo a una fecha, a una emoción o a una práctica aislada; la conexión pastoral es pedagógica, mientras que el llamado textual a entrar y perseverar es directo.
 
-## Hebreos 4:12-13: la palabra que discierne
+## Hebreos 4:12-13: la palabra que discierne #hebreos_4_12-13
 
 La palabra de Elohim es descrita como viva, eficaz y más cortante que una espada de dos filos. **(ζάω)**, _zaō_, significa vivir; aplicado a la palabra, su fuerza contextual es actividad y eficacia presentes. **(ἐνεργής)**, _energēs_, significa activo, eficaz u operativo; la glosa «eficaz» es directa, pero no autoriza a convertir cualquier interpretación humana en palabra infalible.
 
 **(κριτικός)**, _kritikos_, significa capaz de juzgar, discernir o evaluar; en 4:12 describe la capacidad de la palabra para juzgar pensamientos e intenciones del corazón. «Discernir» es aproximado pero adecuado en este contexto. El verso 13 elimina la posibilidad de esconderse: todas las cosas están desnudas y abiertas ante los ojos de aquel a quien debemos dar cuenta. Eric conserva una advertencia importante al no tratar este pasaje como una herramienta para examinar y dominar a los demás. Hebreos dirige primero la palabra hacia la comunidad que debe entrar, perseverar y presentarse ante Elohim.
 
-## Hebreos 4:14-16: confesión, compasión y acercamiento
+## Hebreos 4:14-16: confesión, compasión y acercamiento #hebreos_4_14-16
 
 La sección final retoma el argumento sacerdotal: tenemos un gran sumo sacerdote que atravesó los cielos, Yehoshua el Hijo de Elohim. **(ἀρχιερεύς)**, _archiereus_, significa sumo sacerdote; la equivalencia de oficio es directa, mientras que el alcance celestial y definitivo se establece por el desarrollo de Hebreos, no por una definición aislada. **(κρατέω)**, _krateō_, significa asir, retener o mantenerse firme; en 4:14 su fuerza es conservar la confesión sin soltarla.
 
@@ -136,7 +136,7 @@ Hebreos 4 no separa reposo, palabra y sacerdocio. La promesa permanece, pero lla
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «The Letter to the Hebrews Part 5: The First Yehoshua and the Last Yehoshua» — https://www.youtube.com/watch?v=H_GBWMOusNo — source_id: `youtube:H_GBWMOusNo`.
-- «La carta a los hebreos parte 6: Yehoshúa', el Kohén Gadol del cielo» — https://www.youtube.com/watch?v=vbJeGh-kmb0 — source_id: `youtube:vbJeGh-kmb0`.
+- «The Letter to the Hebrews Part 5: The First Yehoshua and the Last Yehoshua» — https://www.youtube.com/watch?v=H_GBWMOusNo — `source_id`: `youtube:H_GBWMOusNo`.
+- «La carta a los hebreos parte 6: Yehoshúa', el Kohén Gadol del cielo» — https://www.youtube.com/watch?v=vbJeGh-kmb0 — `source_id`: `youtube:vbJeGh-kmb0`.
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

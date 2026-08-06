@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_86_1"
-  - "#tehilim_86_17"
+  - "#salmos_86_1"
+  - "#salmos_86_17"
 sources:
   - "https://www.youtube.com/watch?v=6YMSW80IzL0"
   - "docs/scriptures/oe/json/psalms/86.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 86. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                       | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_86_1  | תפלה לדוד הטה יהוה אזנך ענני כי עני ואביון אני                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_86_17 | עשה עמי אות לטובה ויראו שנאי ויבשו כי אתה יהוה עזרתני ונחמתני | El verso final permite observar el cierre de la composición.         |
+| #salmos_86_1  | תפלה לדוד הטה יהוה אזנך ענני כי עני ואביון אני                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_86_17 | עשה עמי אות לטובה ויראו שנאי ויבשו כי אתה יהוה עזרתני ונחמתני | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -94,5 +94,5 @@ La lectura de Tehilim 86 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 86» — <https://www.youtube.com/watch?v=6YMSW80IzL0> — source_id: `youtube:6YMSW80IzL0`.
+- «Tehilim/Himnos/Salmo Cap 86» — <https://www.youtube.com/watch?v=6YMSW80IzL0> — `source_id`: `youtube:6YMSW80IzL0`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

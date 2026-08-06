@@ -3,7 +3,7 @@ title: "Amós 9: juicio, remanente y la tienda de David"
 description: "Estudio de Amós 9 a partir de la exposición de Eric: el juicio no cancela la promesa, sino que deja a יהוה levantar una tienda restaurada y reunir a quienes llevan su nombre."
 date: 2026-07-28
 tags: [tanaj, amos, haftarah, qedoshim, david, remanente]
-references: ["#amos_9_1", "#amos_9_6", "#amos_9_7", "#amos_9_9", "#amos_9_11", "#amos_9_12", "#amos_9_13", "#amos_9_15", "#maasei_15_15-17", "#iojanan_10_28-29"]
+references: ["#amos_9_1", "#amos_9_6", "#amos_9_7", "#amos_9_9", "#amos_9_11", "#amos_9_12", "#amos_9_13", "#amos_9_15", "#hechos_15_15-17", "#juan_10_28-29"]
 sources:
   - "https://www.youtube.com/watch?v=R2_RYABc2AI"
   - "docs/scriptures/oe/json/amos/9.json"
@@ -30,7 +30,7 @@ Esta nota organiza la clase de Eric de Jesús Rodríguez Mendoza sobre la haftar
 | #amos_9_11-12 | ביום ההוא אקים את סכת דויד הנפלת וגדרתי את פרציהן והרסתיו אקים ובניתיה כימי עולם; למען יירשו את שארית אדום וכל הגוים אשר נקרא שמי עליהם | La tienda caída es levantada y la promesa se extiende a pueblos sobre los que se invoca el nombre de יהוה. |
 | #amos_9_13-15 | הנה ימים באים נאם יהוה ונגש חורש בקצר ודרך ענבים במשך הזרע... ונטעתים על אדמתם ולא ינתשו עוד | La restauración culmina en abundancia, habitación y plantación estable, no en una mera supervivencia abstracta. |
 
-## 9:1-10 — el juicio alcanza la falsa salida
+## 9:1-10 — el juicio alcanza la falsa salida #amos_9_1-10
 
 La clase comienza ubicando Amós entre los profetas que denuncian la infidelidad de Israel y lee el capítulo 9 como la intensificación final de esa denuncia. En 9:1 la orden de golpear el **כפתור** hace temblar los umbrales; la imagen no permite imaginar un refugio seguro dentro del santuario. Eric insiste en que la sentencia es gráfica: aunque alguien descienda al שאול, suba a los cielos, se esconda en la cabeza del Carmelo, se oculte en el fondo del mar o marche al cautiverio, יהוה puede alcanzarlo (9:2-4). La observación concreta de la clase es que el texto desarma todas las rutas humanas de evasión, no solo una conducta particular.
 
@@ -47,7 +47,7 @@ El lenguaje de 9:8-10 introduce una distinción decisiva: יהוה destruirá el
 | **(סכת דויד)** | sukkat David | “La tienda, también traducida como tabernáculo, de David” caída, con brechas y ruinas que יהוה vuelve a levantar en 9:11. | El texto es claro; la identificación de su cumplimiento histórico y eclesial requiere distinguir interpretación de evidencia. |
 | **(שארית)** | she'erit | Remanente o resto que aparece en 9:12; no significa automáticamente “todos” sin la calificación del texto. | Cotejado; la extensión a los gentiles se revisa junto con Hechos 15. |
 
-## 9:11-15 — la restauración no nace del mérito
+## 9:11-15 — la restauración no nace del mérito #amos_9_11-15
 
 Después de la sentencia, “en aquel día” cambia el movimiento del pasaje. Eric subraya que la tienda de David no se conserva intacta: está caída, tiene brechas y partes derribadas. La acción repetida de levantar, reparar y edificar muestra que la restauración pertenece a יהוה. La clase conecta esta edificación con el cuerpo del Mesías y con el fundamento de apóstoles y profetas; esa es una lectura cristológica y comunitaria de la exposición, mientras que Amós 9:11 afirma directamente la restauración de la tienda de David.
 

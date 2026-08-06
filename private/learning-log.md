@@ -463,3 +463,17 @@
 - Reparé dos estudios canónicos independientes de la lane exclusiva Efesios/Marcos: `content/besorah/efesios_6_firmeza_oracion_y_servicio.md` y `content/besorah/markos_7_tradicion_corazon_mesa_misericordia.md`. En Efesios 6 eliminé una conclusión y un bloque `Ver también` intercalados antes del desarrollo final, dejando el orden completo de la perícopa, una sola conclusión y los créditos públicos al cierre. En Marcos 7 sustituí resúmenes de la hoja de comparación por extractos TTH locales más directos, manteniendo la discusión atribuible de Eric sobre tradición, corazón, mesa y apertura; 7:19 sigue calificado por su cuestión sintáctica.
 - Ambas notas conservan una nota canónica por capítulo, source IDs exclusivos, crédito público a Eric, prosa española desarrollada, orden textual, léxico con forma/transliteración/sentido/contexto/equivalencia y ninguna ruta privada ni barra morfológica hebrea.
 - Validación dirigida: `npm run scriptures:ensure` confirmó los corpus locales; `python3 scripts/check_transcript_note_quality.py` devolvió `quality_failures=0` para las dos notas; Prettier dirigido pasó tras la reparación; `git diff --check` pasó. No se ejecutó validación de toda la lane ni se hizo push canónico.
+
+## 2026-08-06 — reparación general de notas de YouTube
+
+- Añadí `scripts/repair_youtube_notes.py`, un reparador idempotente y conservador para las notas públicas: completa `source_ids` desde las URLs existentes, elimina rutas privadas, retira comandos `npm run` expuestos, normaliza los créditos `source_id` y agrega etiquetas de versículo a los encabezados con localizadores claros.
+- Añadí `scripts/check_youtube_notes.py` y `scripts/test_repair_youtube_notes.py`; el gate `npm run youtube:check` revisa 679 notas sin fallos y la prueba unitaria confirma la idempotencia y las reparaciones principales.
+- El lote reparó 410 notas con 1.059 etiquetas de versículo y añadió el gate al pipeline. También conservé la trazabilidad pública mediante URLs y `source_ids` consistentes, sin inventar citas ni fuentes.
+- Validación adicional: frontmatter, índice de versículos, búsqueda de Escrituras y `git diff --check` pasan. `npm run verse-index:build` sigue bloqueado por el README preexistente sin frontmatter en `content/.obsidian/plugins/README.md`; `npm run verse-index:test` sí pasa.
+
+## 2026-08-06 — convención canónica de etiquetas y transliteración
+
+- Migré las etiquetas de versículos de contenido y documentación a nombres de libros en español ASCII estable (`#juan_10_11`, `#isaias_53_5`, `#genesis_1_1`), manteniendo los nombres hebreos y transliteraciones en el texto visible y sin modificar el corpus fuente `docs/scriptures`.
+- Añadí `scripts/verse_tag_conventions.py`, `scripts/normalize_verse_tags.py`, `scripts/check_verse_tag_conventions.py` y pruebas de regresión; el reparador de notas de YouTube usa la misma convención y el gate `npm run verse-tags:check` quedó integrado en los pipelines.
+- Normalicé en el texto visible los nombres con yod inicial (`Iaakov` → `Yaakov`, `Ieshaiahu` → `Yeshayahu`, `Iojanán` → `Yojanán`) y mantuve intactos los bloques de fuente cercados y el corpus local.
+- Validación: 20.289 etiquetas canónicas, 0 fallos de convención, 679 notas de YouTube válidas, pruebas de normalización/lookup/índice/frontmatter y `git diff --check` pasan. El build completo del índice conserva el bloqueo preexistente por `content/.obsidian/plugins/README.md` sin frontmatter.

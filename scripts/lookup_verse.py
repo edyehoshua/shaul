@@ -8,26 +8,65 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from verse_tag_conventions import canonical_book_slug
+
 ROOT = Path(__file__).resolve().parents[1]
 SCRIPTURES = ROOT / "docs" / "scriptures"
 
 # TTH/Delitzsch book slug -> OE folder name (when different)
 OE_BOOK_MAP = {
+    "genesis": "genesis",
+    "exodo": "exodus",
+    "levitico": "leviticus",
+    "numeros": "numbers",
+    "deuteronomio": "deuteronomy",
+    "josue": "joshua",
+    "jueces": "judges",
+    "1_samuel": "isamuel",
+    "2_samuel": "iisamuel",
+    "1_reyes": "ikings",
+    "2_reyes": "iikings",
+    "isaias": "isaiah",
+    "jeremias": "jeremiah",
+    "ezequiel": "ezekiel",
+    "oseas": "hosea",
+    "joel": "joel",
+    "jonas": "jonah",
+    "miqueas": "micah",
+    "nahum": "nahum",
+    "habacuc": "habakkuk",
+    "sofonias": "zephaniah",
+    "hageo": "haggai",
+    "zacarias": "zechariah",
+    "malaquias": "malachi",
+    "salmos": "psalms",
+    "proverbios": "proverbs",
+    "job": "job",
+    "cantares": "songofsolomon",
+    "eclesiastes": "ecclesiastes",
+    "rut": "ruth",
+    "lamentaciones": "lamentations",
+    "ester": "esther",
+    "daniel": "daniel",
+    "esdras": "ezra",
+    "nehemias": "nehemiah",
+    "1_cronicas": "ichronicles",
+    "2_cronicas": "iichronicles",
     "tehilim": "psalms",
     "bereshit": "genesis",
     "shemot": "exodus",
     "vaikra": "leviticus",
     "bamidbar": "numbers",
     "devarim": "deuteronomy",
-    "ieshaiahu": "isaiah",
-    "irmeiahu": "jeremiah",
-    "iejezkel": "ezekiel",
+    "yeshayahu": "isaiah",
+    "yirmeyahu": "jeremiah",
+    "yejezkel": "ezekiel",
     "hoshea": "hosea",
-    "ioel": "joel",
+    "yoel": "joel",
     "ionah": "jonah",
     "micah": "micah",
-    "iejoshua": "joshua",
-    "iehoshua": "joshua",
+    "yehoshua": "joshua",
     "shoftim": "judges",
     "shemuel_alef": "1samuel",
     "shemuel_bet": "2samuel",
@@ -53,7 +92,34 @@ BOOK_ALIASES = {
 }
 
 DELITZSCH_MAP = {
-    "iojanan": "john",
+    "mateo": "matthew",
+    "marcos": "mark",
+    "lucas": "luke",
+    "juan": "john",
+    "1_juan": "john1",
+    "2_juan": "john2",
+    "3_juan": "john3",
+    "hechos": "acts",
+    "romanos": "romans",
+    "1_corintios": "corinthians1",
+    "2_corintios": "corinthians2",
+    "galatas": "galatians",
+    "efesios": "ephesians",
+    "filipenses": "philippians",
+    "colosenses": "colossians",
+    "1_tesalonicenses": "thessalonians1",
+    "2_tesalonicenses": "thessalonians2",
+    "1_timoteo": "timothy1",
+    "2_timoteo": "timothy2",
+    "tito": "titus",
+    "filemon": "philemon",
+    "hebreos": "hebrews",
+    "santiago": "james",
+    "1_pedro": "peter1",
+    "2_pedro": "peter2",
+    "judas": "jude",
+    "apocalipsis": "revelation",
+    "yojanan": "john",
     "matityahu": "matthew",
     "markos": "mark",
     "lukas": "luke",
@@ -68,11 +134,11 @@ DELITZSCH_MAP = {
     "qolosim": "colossians",
     "tito": "titus",
     "ivrim": "hebrews",
-    "iaakov": "james",
+    "yaakov": "james",
     "iaakov_alef": "james",
     "kefa_alef": "peter1",
     "kefa_bet": "peter2",
-    "iehudah": "jude",
+    "yehudah": "jude",
     "sodot": "revelation",
     "qolasim": "colossians",
     "qohelet": "ecclesiastes",
@@ -92,7 +158,30 @@ def strip_nikud(text: str) -> str:
 
 
 def lookup_tth(book: str, chapter: int, verse: int) -> str | None:
-    path = SCRIPTURES / "tth" / "json" / f"{book}.json"
+    tth_book = {
+        "genesis": "bereshit",
+        "exodo": "shemot",
+        "levitico": "vaikra",
+        "numeros": "bamidbar",
+        "deuteronomio": "devarim",
+        "josue": "iehoshua",
+        "jueces": "shoftim",
+        "isaias": "ieshaiahu",
+        "jeremias": "irmeiahu",
+        "ezequiel": "iejezkel",
+        "oseas": "hoshea",
+        "joel": "ioel",
+        "juan": "iojanan",
+        "hechos": "maasei_hashlijim",
+        "romanos": "romanos",
+        "galatas": "galatim",
+        "efesios": "efesim",
+        "colosenses": "qolasim",
+        "santiago": "yaakov",
+        "judas": "yehudah",
+        "apocalipsis": "sodot",
+    }.get(book, book)
+    path = SCRIPTURES / "tth" / "json" / f"{tth_book}.json"
     if not path.exists():
         return None
     data = json.loads(path.read_text(encoding="utf-8"))
@@ -146,7 +235,7 @@ def lookup_oe(book: str, chapter: int, verse: int) -> str | None:
 
 def lookup(tag: str) -> dict[str, str | None]:
     book, chapter, verse = parse_ref(tag)
-    book = BOOK_ALIASES.get(book, book)
+    book = canonical_book_slug(book) or BOOK_ALIASES.get(book, book)
     return {
         "tag": f"#{book}_{chapter}_{verse}",
         "tth": lookup_tth(book, chapter, verse),

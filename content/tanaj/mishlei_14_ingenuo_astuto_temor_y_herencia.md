@@ -4,16 +4,16 @@ description: "Estudio de Mishlei 14:13-19 sobre el corazón dividido, el discern
 date: 2026-08-05
 tags: [mishlei, mishlei_14, ingenuo, astuto, temor, dominio_propio]
 references:
-  - "#mishlei_14_13"
-  - "#mishlei_14_14"
-  - "#mishlei_14_15"
-  - "#mishlei_14_16"
-  - "#mishlei_14_17"
-  - "#mishlei_14_18"
-  - "#mishlei_14_19"
-  - "#mishlei_14_1"
-  - "#mishlei_1_7"
-  - "#tehilim_1_1"
+  - "#proverbios_14_13"
+  - "#proverbios_14_14"
+  - "#proverbios_14_15"
+  - "#proverbios_14_16"
+  - "#proverbios_14_17"
+  - "#proverbios_14_18"
+  - "#proverbios_14_19"
+  - "#proverbios_14_1"
+  - "#proverbios_1_7"
+  - "#salmos_1_1"
   - "#mateo_7_13"
 sources:
   - "https://www.youtube.com/watch?v=YGrlmGCnsLQ"
@@ -36,13 +36,13 @@ Esta nota organiza la clase sobre Mishlei 14:13-19 siguiendo el orden de los ver
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_14_13 | גם בשחוק יכאב לב ואחריתה שמחה תוגה | Aun en la risa dolerá el corazón, pero después de ella, la alegría, hay tristeza. |
-| #mishlei_14_14 | מדרכיו ישבע סוג לב ומעליו איש טוב | De sus caminos se saciará el descarriado de corazón, pero de lo que está sobre él, el hombre bueno. |
-| #mishlei_14_15 | פתי יאמין לכל דבר וערום יבין לאשרו | El ingenuo se afirma en toda cosa, pero el astuto discernirá su caminar. |
-| #mishlei_14_16 | חכם ירא וסר מרע וכסיל מתעבר ובוטח | El sabio teme y se desvía del mal, pero el torpe pasa por encima y es confiado. |
-| #mishlei_14_17 | קצר אפים יעשה אולת ואיש מזמות ישנא | El corto de nariz hará tontería, pero el hombre de pensamientos permanecerá; en el TM, será aborrecido. |
-| #mishlei_14_18 | נחלו פתאים אולת וערומים יכתרו דעת | Los ingenuos heredarán tontería, pero los astutos serán coronados de conocimiento. |
-| #mishlei_14_19 | שחו רעים לפני טובים ורשעים על שערי צדיק | Se inclinarán los malos delante de los buenos, y los condenados a las puertas del justo. |
+| #proverbios_14_13 | גם בשחוק יכאב לב ואחריתה שמחה תוגה | Aun en la risa dolerá el corazón, pero después de ella, la alegría, hay tristeza. |
+| #proverbios_14_14 | מדרכיו ישבע סוג לב ומעליו איש טוב | De sus caminos se saciará el descarriado de corazón, pero de lo que está sobre él, el hombre bueno. |
+| #proverbios_14_15 | פתי יאמין לכל דבר וערום יבין לאשרו | El ingenuo se afirma en toda cosa, pero el astuto discernirá su caminar. |
+| #proverbios_14_16 | חכם ירא וסר מרע וכסיל מתעבר ובוטח | El sabio teme y se desvía del mal, pero el torpe pasa por encima y es confiado. |
+| #proverbios_14_17 | קצר אפים יעשה אולת ואיש מזמות ישנא | El corto de nariz hará tontería, pero el hombre de pensamientos permanecerá; en el TM, será aborrecido. |
+| #proverbios_14_18 | נחלו פתאים אולת וערומים יכתרו דעת | Los ingenuos heredarán tontería, pero los astutos serán coronados de conocimiento. |
+| #proverbios_14_19 | שחו רעים לפני טובים ורשעים על שערי צדיק | Se inclinarán los malos delante de los buenos, y los condenados a las puertas del justo. |
 
 ## La risa que oculta el dolor y el final que revela el fruto
 
@@ -89,10 +89,10 @@ La dimensión escatológica es una aplicación de la clase, aunque el contraste 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_14_13-14 | La alegría exterior puede ocultar un corazón enfermo; el descarriado se sacia de sus caminos y el bueno de lo que está sobre él. | Contraste textual apoyado; aplicación a la alegría del mundo y lectura “de arriba” calificadas. |
-| #mishlei_14_15-16 | El _peti_ recibe toda palabra; el _arum_ filtra y el sabio teme a יהוה apartándose del mal. | Discernimiento y temor apoyados; conexión con la comida verdadera es teológica. |
-| #mishlei_14_17 | La nariz corta representa ira rápida; los pensamientos pueden permanecer o ser juzgados según la lectura textual. | Hebraísmo y dominio propio apoyados; variante de lectura pendiente. |
-| #mishlei_14_18-19 | La herencia de ingenuos y astutos culmina en un cambio de posición ante los justos. | Herencia textual apoyada; desarrollo escatológico atribuido a la clase. |
+| #proverbios_14_13-14 | La alegría exterior puede ocultar un corazón enfermo; el descarriado se sacia de sus caminos y el bueno de lo que está sobre él. | Contraste textual apoyado; aplicación a la alegría del mundo y lectura “de arriba” calificadas. |
+| #proverbios_14_15-16 | El _peti_ recibe toda palabra; el _arum_ filtra y el sabio teme a יהוה apartándose del mal. | Discernimiento y temor apoyados; conexión con la comida verdadera es teológica. |
+| #proverbios_14_17 | La nariz corta representa ira rápida; los pensamientos pueden permanecer o ser juzgados según la lectura textual. | Hebraísmo y dominio propio apoyados; variante de lectura pendiente. |
+| #proverbios_14_18-19 | La herencia de ingenuos y astutos culmina en un cambio de posición ante los justos. | Herencia textual apoyada; desarrollo escatológico atribuido a la clase. |
 
 ## Pendiente de verificar
 

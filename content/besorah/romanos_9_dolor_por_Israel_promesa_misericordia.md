@@ -32,19 +32,19 @@ Romanos 9 no comienza con una teoría abstracta de elección, sino con dolor por
 
 La sesión pública `youtube:_7iywbOZPEQ` presenta la distinción entre descendencia genealógica y filiación de la promesa, aproximadamente entre 00:00:39 y 00:02:41. La sesión pública `youtube:atIdZY13b_c`, aproximadamente entre 00:00:32 y 00:01:45, aplica esa distinción a Faraón y separa su función histórica de una experiencia personal de salvación; aproximadamente entre 00:03:49 y 00:04:48 vuelve a la objeción de la criatura ante el formador. Son paráfrasis localizadas de la transcripción automática, no citas literales. La atribución visible es a Eric de Jesús y la evaluación se hace con Romanos 9 en el texto local.
 
-## Romanos 9:1-5: dolor y privilegios de Israel
+## Romanos 9:1-5: dolor y privilegios de Israel #romanos_9_1-5
 
 Pablo habla con verdad en el Mesías y da testimonio de su angustia por sus hermanos israelitas (#romanos_9_1-2). No expresa desprecio: enumera adopción, gloria, pactos, entrega de la Torah, culto, promesas, patriarcas y la relación mesiánica según la carne (#romanos_9_4-5). Por eso Romanos 9 no puede usarse para borrar la historia de Israel.
 
 **(λύπη)**, _lypē_, significa tristeza, dolor o aflicción; su fuerza contextual en 9:2 es el sufrimiento real de Pablo. «Dolor» es **directo**, mientras convertirlo en un diagnóstico exhaustivo de cada israelita sería **inferencial**. **(διαθήκη)**, _diathēkē_, significa pacto, alianza o disposición; «pactos» es **directo** y la lista muestra dones históricos que el argumento conserva.
 
-## Romanos 9:6-13: palabra, descendencia y promesa
+## Romanos 9:6-13: palabra, descendencia y promesa #romanos_9_6-13
 
 «No todos los que proceden de Israel son Israel» explica que la palabra de Elohim no ha fallado (#romanos_9_6). Isaac, Jacob y Esaú muestran que la promesa tiene un recorrido propio; Pablo no está autorizando a despreciar el comienzo histórico del capítulo.
 
 **(ἐκπίπτω)**, _ekpiptō_, significa caer, quedar fuera o fallar; aplicado a la palabra, niega que esta haya quedado frustrada. «Fallado» es **aproximado y contextual**. **(σπέρμα)**, _sperma_, significa semilla, descendencia o linaje; en 9:7-8 contrasta procedencia física y descendencia contada en la promesa. «Descendencia» es **contextual y aproximada**. **(ἐπαγγελία)**, _epangelia_, significa promesa o compromiso anunciado; en 9:9 nombra la palabra que define el nacimiento de Isaac. La observación de Eric recibe **apoyo cualificado**: la promesa no se reduce a genealogía, pero esta lectura no borra los privilegios de 9:4-5.
 
-## Romanos 9:14-18: misericordia, endurecimiento y Faraón
+## Romanos 9:14-18: misericordia, endurecimiento y Faraón #romanos_9_14-18
 
 Pablo anticipa la objeción de injusticia y responde «de ninguna manera» (#romanos_9_14). La cita de Mosheh presenta la misericordia como acción de Elohim, y Faraón aparece dentro del propósito de mostrar el poder y anunciar el Nombre (#romanos_9_15-18).
 
@@ -52,7 +52,7 @@ Pablo anticipa la objeción de injusticia y responde «de ninguna manera» (#rom
 
 Eric distingue entre ser usado dentro de un propósito histórico y tener por ello demostrada la salvación personal. Romanos 9:17 respalda **directamente** la función histórica: Faraón es levantado para mostrar el poder y proclamar el Nombre. El límite soteriológico es **inferencial pero cualificado**, porque el versículo declara una finalidad histórica y no ofrece una biografía completa del destino final de Faraón.
 
-## Romanos 9:19-24: el formador y la criatura
+## Romanos 9:19-24: el formador y la criatura #romanos_9_19-24
 
 La pregunta de 9:19 —«¿por qué todavía reprocha?»— formula la objeción dentro del argumento. **(μέμφομαι)**, _memphomai_, significa reprochar, censurar o hallar falta; aquí introduce la pregunta sobre el juicio divino. «Reprochar» es **directo**, mientras derivar del verbo una teoría exhaustiva de la responsabilidad es **aproximado**.
 
@@ -60,7 +60,7 @@ La pregunta de 9:19 —«¿por qué todavía reprocha?»— formula la objeción
 
 La observación de Eric recibe **apoyo cualificado**: la criatura no ocupa el lugar del formador para juzgarlo, pero Romanos 9 no autoriza a caricaturizar toda pregunta sincera ni entrega por sí solo una explicación exhaustiva de cada destino.
 
-## Romanos 9:25-33: remanente, naciones y tropiezo
+## Romanos 9:25-33: remanente, naciones y tropiezo #romanos_9_25-33
 
 Las citas de Oseas y Yesha’yahu hablan de quienes no eran pueblo, de un remanente y de la preservación de la descendencia (#romanos_9_25-29). El cierre contrasta a las naciones, que alcanzaron justicia por emunah, con Israel, que la persiguió como si procediera de obras (#romanos_9_30-33).
 

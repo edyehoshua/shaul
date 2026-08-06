@@ -9,27 +9,27 @@ tags:
   - sabiduria
   - matrimonio
 references:
-  - "#ephesians_5_1"
-  - "#ephesians_5_2"
-  - "#ephesians_5_8"
-  - "#ephesians_5_9"
-  - "#ephesians_5_15"
-  - "#ephesians_5_16"
-  - "#ephesians_5_17"
-  - "#ephesians_5_18"
-  - "#ephesians_5_20"
-  - "#ephesians_5_21"
-  - "#ephesians_5_22"
-  - "#ephesians_5_23"
-  - "#ephesians_5_24"
-  - "#ephesians_5_25"
-  - "#ephesians_5_26"
-  - "#ephesians_5_27"
-  - "#ephesians_5_28"
-  - "#ephesians_5_29"
-  - "#ephesians_5_30"
-  - "#ephesians_5_31"
-  - "#ephesians_5_32"
+  - "#efesios_5_1"
+  - "#efesios_5_2"
+  - "#efesios_5_8"
+  - "#efesios_5_9"
+  - "#efesios_5_15"
+  - "#efesios_5_16"
+  - "#efesios_5_17"
+  - "#efesios_5_18"
+  - "#efesios_5_20"
+  - "#efesios_5_21"
+  - "#efesios_5_22"
+  - "#efesios_5_23"
+  - "#efesios_5_24"
+  - "#efesios_5_25"
+  - "#efesios_5_26"
+  - "#efesios_5_27"
+  - "#efesios_5_28"
+  - "#efesios_5_29"
+  - "#efesios_5_30"
+  - "#efesios_5_31"
+  - "#efesios_5_32"
 sources:
   - "https://www.youtube.com/watch?v=Ij-rarUs2z0"
   - "https://www.youtube.com/watch?v=GY7a_nQHJ3g"
@@ -62,38 +62,38 @@ Efesios 5 llama a una vida que imita a Elohim como hijos amados: caminar en amor
 
 | Referencia         | Texto local (Delitzsch, sin nikud)                                                                                                                                                                                                         | Función en el argumento                                                                                                                   |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_5_1-2   | **ובכן לכו בדרכי האלהים כבנים חביבים**; **והתהלכו באהבה כאשר גם־המשיח אהב אתנו והקריב את־נפשו בעדנו**                                                                                                                                      | Imitar a Elohim se explica mediante el amor del Mesías que se entrega.                                                                    |
-| #ephesians_5_3-5   | **אבל זנות וכל־טמאה ואהבת בצע בל־יזכר ביניכם כאשר נאוה לקדשים**; **כי אם־קול תודה**                                                                                                                                                        | Pablo confronta inmoralidad, codicia y habla impropia, y destaca la gratitud.                                                             |
-| #ephesians_5_8-10  | **כי מלפנים הייתם חשך ועתה הנכם אור באדנינו התהלכו־נא כבני אור**; **כי־פרי האור כל־מעשי חסד וצדק ואמת**; **לבחן מה־הרצוי בעיני אדנינו**                                                                                                    | La luz produce bondad, justicia y verdad, y discierne lo agradable al Señor.                                                              |
-| #ephesians_5_15-20 | **ראו והזהרו שלא תתהלכו ככסילים כי אם־כחכמים**; **מוקירים השעה כי הימים רעים המה**; **המלאו רוח**; **והודו בכל־עת על־הכל לאלהים אבינו**                                                                                                    | La sabiduría aprovecha el tiempo, busca entender la voluntad del Señor, se llena del Rúaj y da gracias.                                   |
-| #ephesians_5_21-30 | **הכנעו איש לאחיו ביראת אלהים**; **הנשים הכנענה לבעליכן כמו לאדנינו**; **האנשים אהבו את־נשיכם כאשר גם־המשיח אהב את־העדה ויתן את־נפשו בעדה**; **למען יקדש אתה ויטהר אותה ברחיצת המים בדבר**; **כן חיבים האנשים לאהב את־נשיהם כאת־גופותיהם** | La instrucción relacional sigue al llamado a la consideración mutua y ordena al esposo amar con entrega, santificar y cuidar, no dominar. |
-| #ephesians_5_31-33 | **ודבק באשתו והיו שניהם לבשר אחד**; **גדול הסוד הזה ואני פותר אתו במשיח והעדה**                                                                                                                                                            | Pablo relaciona la unión de Bereshit con el Mesías y la comunidad.                                                                        |
+| #efesios_5_1-2   | **ובכן לכו בדרכי האלהים כבנים חביבים**; **והתהלכו באהבה כאשר גם־המשיח אהב אתנו והקריב את־נפשו בעדנו**                                                                                                                                      | Imitar a Elohim se explica mediante el amor del Mesías que se entrega.                                                                    |
+| #efesios_5_3-5   | **אבל זנות וכל־טמאה ואהבת בצע בל־יזכר ביניכם כאשר נאוה לקדשים**; **כי אם־קול תודה**                                                                                                                                                        | Pablo confronta inmoralidad, codicia y habla impropia, y destaca la gratitud.                                                             |
+| #efesios_5_8-10  | **כי מלפנים הייתם חשך ועתה הנכם אור באדנינו התהלכו־נא כבני אור**; **כי־פרי האור כל־מעשי חסד וצדק ואמת**; **לבחן מה־הרצוי בעיני אדנינו**                                                                                                    | La luz produce bondad, justicia y verdad, y discierne lo agradable al Señor.                                                              |
+| #efesios_5_15-20 | **ראו והזהרו שלא תתהלכו ככסילים כי אם־כחכמים**; **מוקירים השעה כי הימים רעים המה**; **המלאו רוח**; **והודו בכל־עת על־הכל לאלהים אבינו**                                                                                                    | La sabiduría aprovecha el tiempo, busca entender la voluntad del Señor, se llena del Rúaj y da gracias.                                   |
+| #efesios_5_21-30 | **הכנעו איש לאחיו ביראת אלהים**; **הנשים הכנענה לבעליכן כמו לאדנינו**; **האנשים אהבו את־נשיכם כאשר גם־המשיח אהב את־העדה ויתן את־נפשו בעדה**; **למען יקדש אתה ויטהר אותה ברחיצת המים בדבר**; **כן חיבים האנשים לאהב את־נשיהם כאת־גופותיהם** | La instrucción relacional sigue al llamado a la consideración mutua y ordena al esposo amar con entrega, santificar y cuidar, no dominar. |
+| #efesios_5_31-33 | **ודבק באשתו והיו שניהם לבשר אחד**; **גדול הסוד הזה ואני פותר אתו במשיח והעדה**                                                                                                                                                            | Pablo relaciona la unión de Bereshit con el Mesías y la comunidad.                                                                        |
 
 ## Amor que no se reduce a lenguaje religioso
 
-El inicio no define imitar a Elohim como una técnica espiritual, sino como un caminar en amor según la entrega del Mesías. Por eso las partes 25 y 26 pueden orientar la pregunta por el amor y la luz, siempre que no se usen para convertir una frase de la clase en una definición exhaustiva de Elohim o de la experiencia humana. #ephesians_5_1-2 sitúa el modelo en el amor y la entrega de Yehoshua el Mesías.
+El inicio no define imitar a Elohim como una técnica espiritual, sino como un caminar en amor según la entrega del Mesías. Por eso las partes 25 y 26 pueden orientar la pregunta por el amor y la luz, siempre que no se usen para convertir una frase de la clase en una definición exhaustiva de Elohim o de la experiencia humana. #efesios_5_1-2 sitúa el modelo en el amor y la entrega de Yehoshua el Mesías.
 
-## Lo que no conviene normalizar (5:3-7)
+## Lo que no conviene normalizar (5:3-7) #efesios_5_3-7
 
-Antes de describir el fruto de la luz, Pablo delimita el camino contrario: inmoralidad, impureza, avaricia y una conversación que desfigura la gratitud (#ephesians_5_3-7). Eric insiste en que la santidad no es una etiqueta verbal, sino una conducta discernible; esa observación queda apoyada por la secuencia del texto, que pasa de las prácticas nombradas a la advertencia de no participar en ellas. La frase sobre la herencia del reino es una advertencia del argumento, no una licencia para declarar el destino final de una persona desde una sola conducta observada.
+Antes de describir el fruto de la luz, Pablo delimita el camino contrario: inmoralidad, impureza, avaricia y una conversación que desfigura la gratitud (#efesios_5_3-7). Eric insiste en que la santidad no es una etiqueta verbal, sino una conducta discernible; esa observación queda apoyada por la secuencia del texto, que pasa de las prácticas nombradas a la advertencia de no participar en ellas. La frase sobre la herencia del reino es una advertencia del argumento, no una licencia para declarar el destino final de una persona desde una sola conducta observada.
 
-El texto también une la codicia con la idolatría (#ephesians_5_5). Esa equivalencia argumental impide reducir el pasaje a una lista de faltas sexuales: el deseo posesivo y el uso del prójimo también están bajo examen. La clase aplica esta unidad a la pureza del habla y de las intenciones; la aplicación es coherente con el contraste textual, pero sus diagnósticos pastorales concretos deben conservar prudencia.
+El texto también une la codicia con la idolatría (#efesios_5_5). Esa equivalencia argumental impide reducir el pasaje a una lista de faltas sexuales: el deseo posesivo y el uso del prójimo también están bajo examen. La clase aplica esta unidad a la pureza del habla y de las intenciones; la aplicación es coherente con el contraste textual, pero sus diagnósticos pastorales concretos deben conservar prudencia.
 
 ## Luz, verdad y discernimiento
 
-Pablo recuerda una condición pasada y una condición presente: antes oscuridad, ahora luz en el Señor. #ephesians_5_8-10 no presenta la luz como identidad para presumir, sino como un camino cuyo fruto es bondad, justicia y verdad, que examina lo agradable al Señor. Las clases sobre oscuridad y luz invitan a revisar la conducta; el texto no autoriza a declarar desde fuera que una persona específica está definitivamente en oscuridad.
+Pablo recuerda una condición pasada y una condición presente: antes oscuridad, ahora luz en el Señor. #efesios_5_8-10 no presenta la luz como identidad para presumir, sino como un camino cuyo fruto es bondad, justicia y verdad, que examina lo agradable al Señor. Las clases sobre oscuridad y luz invitan a revisar la conducta; el texto no autoriza a declarar desde fuera que una persona específica está definitivamente en oscuridad.
 
-## Exponer, probar y caminar (5:8-14)
+## Exponer, probar y caminar (5:8-14) #efesios_5_8-14
 
-Después de llamar a los creyentes «luz en el Señor», Pablo ordena andar como hijos de luz, probar lo agradable y no participar en las obras infructuosas de la oscuridad, sino ponerlas en evidencia (#ephesians_5_8-14). El verbo de «probar» no convierte el discernimiento en sospecha permanente: el objeto es lo agradable al Señor y el fruto esperado es bondad, justicia y verdad. Eric conecta la exposición con una vida que deja ver sus obras; la lectura es una aplicación razonable mientras no se transforme en humillación pública o en vigilancia indiscriminada.
+Después de llamar a los creyentes «luz en el Señor», Pablo ordena andar como hijos de luz, probar lo agradable y no participar en las obras infructuosas de la oscuridad, sino ponerlas en evidencia (#efesios_5_8-14). El verbo de «probar» no convierte el discernimiento en sospecha permanente: el objeto es lo agradable al Señor y el fruto esperado es bondad, justicia y verdad. Eric conecta la exposición con una vida que deja ver sus obras; la lectura es una aplicación razonable mientras no se transforme en humillación pública o en vigilancia indiscriminada.
 
-El llamado a despertar y levantarse (#ephesians_5_14) aparece como una voz de exhortación dentro de la argumentación, no como una autorización para añadir una fuente independiente al capítulo. La nota conserva el movimiento textual: abandonar la participación en la oscuridad, discernir el bien y caminar en una luz que puede ser examinada.
+El llamado a despertar y levantarse (#efesios_5_14) aparece como una voz de exhortación dentro de la argumentación, no como una autorización para añadir una fuente independiente al capítulo. La nota conserva el movimiento textual: abandonar la participación en la oscuridad, discernir el bien y caminar en una luz que puede ser examinada.
 
 ## Tiempo, Rúaj y gratitud
 
-#ephesians_5_15-20 une cuidado en el andar, sabiduría, atención al tiempo, comprensión de la voluntad del Señor, llenura del Rúaj, cánticos y gratitud. La parte 28 pregunta cómo redimir el tiempo. El versículo 16 habla de aprovechar o rescatar la oportunidad porque los días son malos; una teoría completa de calendarios, productividad o administración contemporánea debe tratarse como aplicación y ser cotejada con el contexto.
+#efesios_5_15-20 une cuidado en el andar, sabiduría, atención al tiempo, comprensión de la voluntad del Señor, llenura del Rúaj, cánticos y gratitud. La parte 28 pregunta cómo redimir el tiempo. El versículo 16 habla de aprovechar o rescatar la oportunidad porque los días son malos; una teoría completa de calendarios, productividad o administración contemporánea debe tratarse como aplicación y ser cotejada con el contexto.
 
-La serie verbal continúa en #ephesians_5_17-21: no vivir sin entendimiento, comprender la voluntad, no embriagarse, ser llenos del Rúaj, hablar con salmos y cánticos, dar gracias y someterse unos a otros en temor del Mesías. Por eso «llenura» no puede separarse del canto, la gratitud y la relación comunitaria. Eric presenta la sabiduría como una disciplina de atención; el texto la vincula específicamente con entender la voluntad del Señor, no con una técnica universal de productividad.
+La serie verbal continúa en #efesios_5_17-21: no vivir sin entendimiento, comprender la voluntad, no embriagarse, ser llenos del Rúaj, hablar con salmos y cánticos, dar gracias y someterse unos a otros en temor del Mesías. Por eso «llenura» no puede separarse del canto, la gratitud y la relación comunitaria. Eric presenta la sabiduría como una disciplina de atención; el texto la vincula específicamente con entender la voluntad del Señor, no con una técnica universal de productividad.
 
 ### La secuencia que prueba «redimir el tiempo»
 
@@ -103,7 +103,7 @@ Luego aparece el contraste **μὴ μεθύσκεσθε** (_mē methyskesthe_, n
 
 ## Relaciones bajo el amor del Mesías
 
-La sección final comienza con #ephesians_5_21 y continúa con instrucciones específicas. El texto llama a la esposa a sujetarse y al esposo a amar como el Mesías amó a la comunidad y se entregó por ella. Ninguna lectura responsable puede separar el llamado dirigido al esposo a una entrega amorosa de la dignidad y el bien de la esposa, ni transformar estas frases en permiso para abuso, coacción o silencio ante daño. Las aplicaciones históricas, culturales y familiares de las clases requieren verificación contextual adicional.
+La sección final comienza con #efesios_5_21 y continúa con instrucciones específicas. El texto llama a la esposa a sujetarse y al esposo a amar como el Mesías amó a la comunidad y se entregó por ella. Ninguna lectura responsable puede separar el llamado dirigido al esposo a una entrega amorosa de la dignidad y el bien de la esposa, ni transformar estas frases en permiso para abuso, coacción o silencio ante daño. Las aplicaciones históricas, culturales y familiares de las clases requieren verificación contextual adicional.
 
 La secuencia completa precisa el peso de la exhortación. **ὑποτάσσω**, _hypotassō_, «colocar bajo un orden o someterse», aparece en 5:21 como consideración mutua en temor del Mesías; las instrucciones a la esposa (5:22-24) no deben aislarse de ese marco. A los esposos, Pablo manda **ἀγαπάω**, _agapaō_, «amar», y lo mide por la entrega del Mesías (5:25), no por privilegio. Luego aparecen **ἁγιάζω**, _hagiazō_, «consagrar o santificar», y **καθαρίζω**, _katharizō_, «limpiar», en la imagen de presentar a la comunidad santa y sin mancha (5:26-27). La metáfora no autoriza al marido a asumir el lugar del Mesías ni a controlar la conciencia de su esposa.
 
@@ -146,7 +146,7 @@ La relación con Bereshit se mantiene dentro del propio cierre: **(μυστήρ�
 ### La luz se prueba por su fruto y por su discernimiento
 
 <!-- prettier-ignore -->
-Pablo no salta de «luz» a una identidad espiritual autosuficiente. El mandato **περιπατεῖτε**, _peripateite_, «caminad», en 5:8 recibe la calificación «como hijos de luz»; después el texto explica el camino mediante **καρπός**, _karpos_, «fruto», y enumera bondad, justicia y verdad (#ephesians_5_8-9). La clase de Eric pregunta si la vida realmente está en la luz; la respuesta local no es una inspección de etiquetas religiosas, sino una práctica que puede examinarse. **δοκιμάζω**, _dokimazō_, «probar, examinar y discernir», tiene como objeto «lo agradable al Señor» (5:10), de modo que discernir no significa sospechar de todos ni exponer públicamente a personas.
+Pablo no salta de «luz» a una identidad espiritual autosuficiente. El mandato **περιπατεῖτε**, _peripateite_, «caminad», en 5:8 recibe la calificación «como hijos de luz»; después el texto explica el camino mediante **καρπός**, _karpos_, «fruto», y enumera bondad, justicia y verdad (#efesios_5_8-9). La clase de Eric pregunta si la vida realmente está en la luz; la respuesta local no es una inspección de etiquetas religiosas, sino una práctica que puede examinarse. **δοκιμάζω**, _dokimazō_, «probar, examinar y discernir», tiene como objeto «lo agradable al Señor» (5:10), de modo que discernir no significa sospechar de todos ni exponer públicamente a personas.
 
 La sección negativa también debe seguirse en orden. **συγκοινωνέω**, _sygkoinōneō_, «participar juntamente», en 5:11 prohíbe compartir las obras infructuosas de la oscuridad; **ἐλέγχω**, _elenchō_, «poner en evidencia o reprender», las relaciona con una manifestación que deja ver su carácter. La exhortación no transforma la vergüenza en método de discipulado: el contraste está entre participar y andar en luz. La afirmación de Eric sobre que las obras deben hacerse visibles queda apoyada cuando se mantiene el fruto de 5:9 y el discernimiento de 5:10, no cuando se convierte en vigilancia sobre la intimidad ajena.
 
@@ -174,7 +174,7 @@ En 5:21-25 la relación entre mutualidad y matrimonio se vuelve crítica. **ἀ�
 
 El misterio de 5:31-33 tampoco convierte la analogía en licencia doméstica. **μυστήριον**, _mystērion_, significa una realidad antes oculta y ahora explicada; Pablo aplica Bereshit 2:24 a la relación Mesías-asamblea, y esa aplicación regula la lectura del matrimonio por amor, santidad y cuidado. La observación atribuible de Eric sobre un orden divino puede conservarse como síntesis pedagógica, pero la prueba local exige dignidad corporal, entrega y protección; nunca justifica coerción, abuso o control de conciencia.
 
-## Prueba de la secuencia: amor, luz y tiempo (5:1-20)
+## Prueba de la secuencia: amor, luz y tiempo (5:1-20) #efesios_5_1-20
 
 Efesios 5 no salta de «luz» a una identidad espiritual autosuficiente. El mandato **μιμηταί**, _mimētai_, significa «imitadores» o «quienes reproducen un modelo»; su sentido contextual no es copiar atributos divinos de manera abstracta, sino caminar en amor siguiendo la entrega del Mesías. La forma **παρέδωκεν**, _paredōken_, del verbo **παραδίδωμι**, _paradidōmi_, «entregar», aparece en el marco de esa ofrenda y hace que el amor tenga un costo observable. «Imitar» es, por tanto, una equivalencia funcional y pedagógica: no afirma que el discípulo pueda ocupar el lugar de Elohim.
 
@@ -182,7 +182,7 @@ En 5:3-14 el argumento pasa de lo que no debe nombrarse entre los santos al frut
 
 Finalmente, 5:15-20 conecta la sabiduría con el tiempo, la voluntad del Señor, la llenura del Rúaj y la gratitud. **ἐξαγοράζω**, _exagorazō_, «rescatar o aprovechar una oportunidad», no convierte el calendario en un mecanismo profético; **πληρόω**, _plēroō_, «llenar», aparece en contraste con la embriaguez y recibe su explicación por salmos, himnos, cánticos y acción de gracias. La observación de Eric sobre «redimir el tiempo» queda respaldada como exhortación a discernir y actuar bien en días difíciles, pero no como fórmula para controlar el futuro.
 
-## El matrimonio bajo el límite del amor entregado (5:21-33)
+## El matrimonio bajo el límite del amor entregado (5:21-33) #efesios_5_21-33
 
 La transición a las relaciones no abandona la llenura del Rúaj: **ὑποτάσσω**, _hypotassō_, «someter, ordenar bajo» en 5:21, aparece en la exhortación recíproca y debe leerse junto con el amor sacrificial exigido al esposo. La forma no justifica obediencia ciega ni una jerarquía sin rendición de cuentas. En 5:25, **ἀγαπάω**, _agapaō_, «amar», queda modelado por que el Mesías se entregó por la asamblea; en 5:26-27, **ἁγιάζω**, _hagiazō_, «santificar», y **καθαρίζω**, _katharizō_, «limpiar», describen el propósito de cuidado del Mesías, no una autorización para que el marido controle la conciencia de su esposa.
 
@@ -192,10 +192,10 @@ Cuando Pablo cita Bereshit, **μυστήριον**, _mystērion_, significa una 
 
 | Unidad textual     | Qué se tomó concretamente de Eric                                                                                                              | Cómo se evaluó                                                                                                                                                 |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_5_1-2   | Imitar a Elohim comienza en un amor visible y entregado, no en lenguaje religioso separado de la conducta.                                     | Apoyo textual: Pablo pone el caminar en amor junto a la entrega del Mesías; la aplicación a motivaciones interiores se conserva como orientación pastoral.     |
-| #ephesians_5_3-10  | La clase contrapone oscuridad y luz para preguntar si la vida realmente produce fruto, en vez de confiar en una identidad declarada.           | Apoyo textual y aclaración léxica: se siguen inmoralidad, codicia, bondad, justicia y verdad; la luz como diagnóstico de personas concretas queda cualificada. |
-| #ephesians_5_15-20 | Redimir el tiempo exige caminar con sabiduría, entender la voluntad, llenarse del Rúaj y responder con canto y gratitud.                       | Apoyo textual: la secuencia aparece en 5:15-20; cualquier teoría moderna de calendarios o productividad queda pendiente.                                       |
-| #ephesians_5_21-33 | El orden relacional no puede separarse del sometimiento mutuo y del amor del esposo que se entrega como el Mesías; no es permiso para dominar. | Apoyo textual con salvaguarda pastoral: se conserva la estructura del pasaje y se rechaza una extrapolación abusiva; el trasfondo histórico queda pendiente.   |
+| #efesios_5_1-2   | Imitar a Elohim comienza en un amor visible y entregado, no en lenguaje religioso separado de la conducta.                                     | Apoyo textual: Pablo pone el caminar en amor junto a la entrega del Mesías; la aplicación a motivaciones interiores se conserva como orientación pastoral.     |
+| #efesios_5_3-10  | La clase contrapone oscuridad y luz para preguntar si la vida realmente produce fruto, en vez de confiar en una identidad declarada.           | Apoyo textual y aclaración léxica: se siguen inmoralidad, codicia, bondad, justicia y verdad; la luz como diagnóstico de personas concretas queda cualificada. |
+| #efesios_5_15-20 | Redimir el tiempo exige caminar con sabiduría, entender la voluntad, llenarse del Rúaj y responder con canto y gratitud.                       | Apoyo textual: la secuencia aparece en 5:15-20; cualquier teoría moderna de calendarios o productividad queda pendiente.                                       |
+| #efesios_5_21-33 | El orden relacional no puede separarse del sometimiento mutuo y del amor del esposo que se entrega como el Mesías; no es permiso para dominar. | Apoyo textual con salvaguarda pastoral: se conserva la estructura del pasaje y se rechaza una extrapolación abusiva; el trasfondo histórico queda pendiente.   |
 
 ### Embriaguez, doctrina y canto: una aplicación que debe permanecer atribuida
 
@@ -220,9 +220,9 @@ Finalmente, 5:21-33 prueba el llamado al orden por la forma del amor. **ἀλλ�
 ## Verificación de dependencia: sabiduría, llenura y amor responsable
 
 <!-- prettier-ignore -->
-La lectura de Eric sobre «redimir el tiempo» debe seguir el movimiento de #ephesians_5_15-21, no convertirse en una teoría de calendarios. **βλέπετε**, _blepete_, «mirad o prestad atención», y **ἀκριβῶς**, _akribōs_, «cuidadosamente o con exactitud», describen el modo de andar; **ἄσοφοι**, _asophoi_, «insensatos o sin sabiduría», y **σοφοί**, _sophoi_, «sabios», forman el contraste. **καιρός**, _kairos_, «ocasión o tiempo oportuno», no equivale simplemente a reloj o fecha: **ἐξαγοραζόμενοι**, _exagorazomenoi_, «rescatando o aprovechando», llama a usar la oportunidad porque los días son malos.
+La lectura de Eric sobre «redimir el tiempo» debe seguir el movimiento de #efesios_5_15-21, no convertirse en una teoría de calendarios. **βλέπετε**, _blepete_, «mirad o prestad atención», y **ἀκριβῶς**, _akribōs_, «cuidadosamente o con exactitud», describen el modo de andar; **ἄσοφοι**, _asophoi_, «insensatos o sin sabiduría», y **σοφοί**, _sophoi_, «sabios», forman el contraste. **καιρός**, _kairos_, «ocasión o tiempo oportuno», no equivale simplemente a reloj o fecha: **ἐξαγοραζόμενοι**, _exagorazomenoi_, «rescatando o aprovechando», llama a usar la oportunidad porque los días son malos.
 
-El texto define qué significa comprender. **συνίετε**, _syniete_, «entended o comprended», recibe como objeto la voluntad del Señor, y **μεθύσκεσθε**, _methyskesthe_, «emborrachaos», queda contrastado con **πληροῦσθε**, _plērousthe_, «sed llenos». La forma pasiva de «sed llenos» dirige la fuente al Rúaj, mientras los participios **λαλοῦντες**, _lalountes_, «hablando», **ᾄδοντες**, _adontes_, «cantando», y **ψάλλοντες**, _psallontes_, «entonando salmos», muestran cómo se manifiesta esa llenura. Eric relaciona sabiduría con entender y agradecer; #ephesians_5_17-20 lo apoya porque la comprensión desemboca en canto, gratitud y alabanza comunitaria, no en una experiencia secreta.
+El texto define qué significa comprender. **συνίετε**, _syniete_, «entended o comprended», recibe como objeto la voluntad del Señor, y **μεθύσκεσθε**, _methyskesthe_, «emborrachaos», queda contrastado con **πληροῦσθε**, _plērousthe_, «sed llenos». La forma pasiva de «sed llenos» dirige la fuente al Rúaj, mientras los participios **λαλοῦντες**, _lalountes_, «hablando», **ᾄδοντες**, _adontes_, «cantando», y **ψάλλοντες**, _psallontes_, «entonando salmos», muestran cómo se manifiesta esa llenura. Eric relaciona sabiduría con entender y agradecer; #efesios_5_17-20 lo apoya porque la comprensión desemboca en canto, gratitud y alabanza comunitaria, no en una experiencia secreta.
 
 La acción de gracias mantiene el vínculo vertical y horizontal. **εὐχαριστοῦντες**, _eucharistountes_, «dando gracias», y **ὑποτασσόμενοι**, _hypotassomenoi_, «sometiéndoos u ordenándoos bajo», aparecen antes de las instrucciones particulares del hogar. El dativo **ἀλλήλοις**, _allēlois_, «unos a otros», establece mutualidad; por eso la observación de Eric sobre «orden divino» solo es fiel si empieza con consideración recíproca y temor de Elohim. **(יראה)**, _yirah_, «temor reverente», es una aproximación semítica a **φόβος**, _phobos_, «temor o reverencia», pero no convierte la reverencia en intimidación.
 
@@ -231,9 +231,9 @@ En 5:22-33, el argumento mide toda autoridad por la entrega. **ὑποτάσσε
 Los verbos del cuidado vuelven la aplicación verificable. **ἁγιάσῃ**, _hagiasē_, «santifique», **καθαρίσας**, _katharisas_, «habiendo limpiado», y **ἐκτρέφει**, _ektrephei_, «alimenta o cría», describen la obra del Mesías y el cuidado del propio cuerpo. **θάλπει**, _thalpei_, «calienta o cuida con ternura», impide reducir el amor a una declaración formal. La correspondencia con **(קדש)**, _qodesh_, «santo o apartado», y **(רחם)**, _rajam_, «mostrar compasión», es temática y aproximada; las formas griegas gobiernan el sentido de esta perícopa. Cualquier aplicación que tolere violencia, coerción o aislamiento contradice la medida textual del amor entregado.
 
 <!-- prettier-ignore -->
-El cierre cita #bereshit_2_24 y llama al vínculo **μυστήριον**, _mystērion_, «realidad antes oculta y ahora dada a conocer». **ἓν σάρξ**, _hen sarx_, «una sola carne», conserva la unión corporal de la cita, mientras Pablo la relaciona con Mesías y comunidad; no borra el sentido del relato de Bereshit ni convierte a la esposa en propiedad. La clase puede hablar de una unidad profunda, pero **ἐκκλησία**, _ekklesia_, «asamblea o comunidad convocada», y **ἀγάπη**, _agapē_, «amor comprometido», mantienen el marco comunitario. La sabiduría de 5:15-33 termina así en gratitud, mutualidad, entrega y cuidado responsable.
+El cierre cita #genesis_2_24 y llama al vínculo **μυστήριον**, _mystērion_, «realidad antes oculta y ahora dada a conocer». **ἓν σάρξ**, _hen sarx_, «una sola carne», conserva la unión corporal de la cita, mientras Pablo la relaciona con Mesías y comunidad; no borra el sentido del relato de Bereshit ni convierte a la esposa en propiedad. La clase puede hablar de una unidad profunda, pero **ἐκκλησία**, _ekklesia_, «asamblea o comunidad convocada», y **ἀγάπη**, _agapē_, «amor comprometido», mantienen el marco comunitario. La sabiduría de 5:15-33 termina así en gratitud, mutualidad, entrega y cuidado responsable.
 
-## Prueba ordenada: imitar, discernir y cuidar (5:1-33)
+## Prueba ordenada: imitar, discernir y cuidar (5:1-33) #efesios_5_1-33
 
 El Delitzsch local mantiene una cadena que no permite separar la imitación de Elohim del cuidado concreto. En 5:1-2, **μιμηταί**, _mimētai_, «imitadores», y **περιπατεῖτε**, _peripateite_, «caminad», reciben su contenido del amor del Mesías que **παρέδωκεν**, _paredōken_, «entregó», su vida. La observación de Eric sobre un amor visible queda apoyada por esa entrega; no autoriza a convertir la imitación en una técnica para copiar atributos divinos.
 
@@ -255,9 +255,9 @@ Finalmente, **μυστήριον**, _mystērion_, «realidad antes oculta y ahor
 
 ## Pendiente de verificar
 
-- [x] Examinar los términos de luz, fruto, oscuridad y exposición en #ephesians_5_8-14 con el griego y el flujo completo del capítulo. La nota los contrasta mediante **φῶς**, **σκότος**, **καρπός**, **δοκιμάζω** y **ἐλέγχω**, y conserva la aplicación sobre personas concretas como inferencia cualificada.
-- [x] Cotejar las propuestas de las clases sobre «redimir el tiempo» con el uso de #ephesians_5_16 y sus paralelos antes de fijar una aplicación contemporánea. **ἐξαγοράζω** y **καιρός** se explican desde 5:15-21; la aplicación a calendarios o productividad queda marcada como pedagógica, no como sentido del término.
-- [x] Estudiar #ephesians_5_21-33 en su contexto literario e histórico, incluyendo la relación entre consideración mutua, sujeción y el amor sacrificial ordenado al esposo. La secuencia 5:18-21, la mutualidad, la entrega del Mesías y el cuidado corporal gobiernan la lectura.
+- [x] Examinar los términos de luz, fruto, oscuridad y exposición en #efesios_5_8-14 con el griego y el flujo completo del capítulo. La nota los contrasta mediante **φῶς**, **σκότος**, **καρπός**, **δοκιμάζω** y **ἐλέγχω**, y conserva la aplicación sobre personas concretas como inferencia cualificada.
+- [x] Cotejar las propuestas de las clases sobre «redimir el tiempo» con el uso de #efesios_5_16 y sus paralelos antes de fijar una aplicación contemporánea. **ἐξαγοράζω** y **καιρός** se explican desde 5:15-21; la aplicación a calendarios o productividad queda marcada como pedagógica, no como sentido del término.
+- [x] Estudiar #efesios_5_21-33 en su contexto literario e histórico, incluyendo la relación entre consideración mutua, sujeción y el amor sacrificial ordenado al esposo. La secuencia 5:18-21, la mutualidad, la entrega del Mesías y el cuidado corporal gobiernan la lectura.
 - [x] Revisar las aplicaciones pastorales sobre matrimonio y orden familiar con fuentes que protejan la seguridad, responsabilidad y dignidad de cada persona. La nota rechaza explícitamente coerción, abuso, aislamiento y control de conciencia como usos incompatibles con el pasaje.
 
 ## Control final de dependencia: del discernimiento al cuidado
@@ -268,7 +268,7 @@ El flujo relacional mantiene esa misma prueba. **ὑποτάσσω**, _hypotass�
 
 Finalmente, **ἐκκλησία**, _ekklesia_, «asamblea convocada», y **μυστήριον**, _mystērion_, «realidad antes oculta y ahora revelada», conservan el marco comunitario de 5:32-33. La referencia a Bereshit 2:24 se mantiene como cita y la relación con Mesías y asamblea como interpretación explícita de Pablo; no autoriza a borrar el sentido corporal de «una sola carne» ni a usar el misterio para silenciar a quien sufre. Así, el capítulo avanza de luz y discernimiento a relaciones responsables: la observación de Eric queda atribuida, probada por el orden textual y limitada por el cuidado exigido.
 
-## Desarrollo dirigido: deseo, gratitud y herencia (5:3-7)
+## Desarrollo dirigido: deseo, gratitud y herencia (5:3-7) #efesios_5_3-7
 
 La advertencia de 5:3-7 tiene una arquitectura precisa que evita reducirla a una lista de prohibiciones sexuales. **πορνεία**, _porneia_, «inmoralidad sexual», y **ἀκαθαρσία**, _akatharsia_, «impureza», aparecen junto a **πλεονεξία**, _pleonexia_, «codicia o deseo de tener más»; el texto manda que ni siquiera sean nombradas como práctica apropiada entre santos. Eric observa que la santidad debe poder reconocerse en el habla y en el deseo. El argumento local lo sostiene al contrastar esas categorías con **εὐχαριστία**, _eucharistia_, «acción de gracias»: la gratitud no es un adorno devocional, sino la forma verbal que reorienta lo que la codicia intenta poseer.
 
@@ -276,7 +276,7 @@ Pablo intensifica la advertencia en 5:5: el **πλεονέκτης**, _pleonekt�
 
 Así, la observación de Eric sobre «qué entra» en una vida santa queda probada por una cadena textual: deseo desordenado, habla que engaña y participación en obras infructuosas. La comparación con **(תודה)**, _todah_, «acción de gracias o confesión agradecida», puede iluminar el campo semítico de **εὐχαριστία**, pero es una equivalencia temática, no una retroversión demostrada. El límite pastoral también pertenece al pasaje: advertir contra la participación no da permiso para humillar, controlar o declarar el destino final de una persona.
 
-## Control de continuidad: del fruto de la luz a la mutualidad (5:8-21)
+## Control de continuidad: del fruto de la luz a la mutualidad (5:8-21) #efesios_5_8-21
 
 La transición desde la luz hasta la vida comunitaria tiene una secuencia verificable. **ὡς τέκνα φωτός**, _hōs tekna phōtos_, «como hijos de luz», describe la identidad en el Señor; **δοκιμάζοντες**, _dokimazontes_, «probando o discerniendo», explica cómo se busca lo agradable; y **καρπὸς τοῦ φωτός**, _karpos tou phōtos_, «fruto de la luz», recibe contenido en bondad, justicia y verdad. Eric vincula la luz con una conducta visible; el pasaje lo apoya, pero no autoriza a convertir «luz» en una lectura privada de las intenciones ajenas.
 
@@ -284,7 +284,7 @@ En 5:15-18, la sabiduría se reconoce en el modo de caminar. **βλέπετε**,
 
 El cierre de esta unidad, **ὑποτασσόμενοι ἀλλήλοις**, _hypotassomenoi allēlois_, «sometiéndoos u ordenándoos unos a otros», funciona como puente hacia las instrucciones del hogar. No es una frase decorativa que pueda omitirse para construir una jerarquía unilateral. Cuando Pablo manda amar y entregarse, **παραδίδωμι**, _paradidōmi_, «entregar», es la medida del esposo; **ἐκτρέφω**, _ektrephō_, «alimentar o criar», y **θάλπω**, _thalpō_, «cuidar con ternura», vuelven verificable el cuidado. Así, el capítulo pasa de discernir la luz a practicar gratitud, mutualidad y entrega segura.
 
-## Verificación final de dependencia (5:1-33)
+## Verificación final de dependencia (5:1-33) #efesios_5_1-33
 
 La unidad completa prueba la enseñanza atribuible de Eric sin convertir sus títulos de clase en una estructura genérica. En 5:1-7, **(μιμηταί)**, _mimētai_, «imitadores», recibe contenido del amor entregado y **(εὐχαριστία)**, _eucharistia_, «acción de gracias», contrasta la codicia y el habla que destruye. En 5:8-14, **(περιπατεῖτε)**, _peripateite_, «caminad», se mide por **(καρπός)**, _karpos_, «fruto», de bondad, justicia y verdad, y por **(δοκιμάζω)**, _dokimazō_, «probar o discernir», lo agradable al Señor. La luz no es una etiqueta para juzgar personas; es un camino verificable.
 
@@ -302,7 +302,7 @@ La nota conserva el recorrido del capítulo sin saltar directamente a la secció
 
 Esta dependencia limita la enseñanza atribuible de Eric sobre «orden divino». **δοκιμάζω**, _dokimazō_, «probar o discernir», y **συνίημι**, _syniēmi_, «comprender», preparan la exhortación; **ὑποτάσσω**, _hypotassō_, «ordenar bajo o someterse», queda dentro de la mutualidad de 5:21; y **παραδίδωμι**, _paradidōmi_, «entregar», mide el amor del esposo por la entrega del Mesías. La secuencia local no permite convertir una aplicación doméstica en autoridad para controlar conciencias: la luz se reconoce por fruto, la sabiduría por gratitud y el orden por cuidado sacrificial.
 
-## Verificación de la perícopa: la palabra que limpia no es control humano (5:25-30)
+## Verificación de la perícopa: la palabra que limpia no es control humano (5:25-30) #efesios_5_25-30
 
 La afirmación de Eric sobre una «palabra» que forma a la comunidad debe permanecer dentro de 5:25-30. Pablo dice que el Mesías amó a la asamblea y se entregó por ella; después usa **ῥῆμα**, _rhēma_, «palabra, declaración o asunto expresado», en la imagen de agua y palabra. No es la autorización para que un esposo se convierta en intérprete infalible de la conciencia de su esposa. El sujeto de **ἁγιάζω**, _hagiazō_, «santificar o apartar para Elohim», y de **καθαρίζω**, _katharizō_, «limpiar», es el Mesías en la analogía de Pablo.
 
@@ -324,11 +324,11 @@ En 5:15-21, **(καιρός)**, _kairos_, «ocasión o tiempo oportuno», y **(�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «La carta a los Efesios (parte 25) Cap 5 ¿Cómo empezar a imitar a Dios?» — https://www.youtube.com/watch?v=Ij-rarUs2z0 (`source_id: youtube:Ij-rarUs2z0`).
-- «La carta a los Efesios (parte 26) Cap 5 “en él (la luz) nos movemos vivimos y somos”» — https://www.youtube.com/watch?v=GY7a_nQHJ3g (`source_id: youtube:GY7a_nQHJ3g`).
-- «La carta a los Efesios (parte 27) Cap 5 ¿Cómo saber si aún estás en oscuridad?» — https://www.youtube.com/watch?v=vMKZxSXm6do (`source_id: youtube:vMKZxSXm6do`).
-- «La carta a los Efesios (parte 28) Cap 5 ¿Cómo redimir el tiempo?» — https://www.youtube.com/watch?v=IInmEjVfIY8 (`source_id: youtube:IInmEjVfIY8`).
-- «La carta a los Efesios (parte 29) Cap 5 Respetando el orden divino» — https://www.youtube.com/watch?v=uvdWpnrQsmo (`source_id: youtube:uvdWpnrQsmo`).
-- «La carta a los Efesios (parte 30) Cap 5» — https://www.youtube.com/watch?v=5s1JMI9hFxU (`source_id: youtube:5s1JMI9hFxU`).
+- «La carta a los Efesios (parte 25) Cap 5 ¿Cómo empezar a imitar a Dios?» — https://www.youtube.com/watch?v=Ij-rarUs2z0 (`source_id`: youtube:Ij-rarUs2z0`).
+- «La carta a los Efesios (parte 26) Cap 5 “en él (la luz) nos movemos vivimos y somos”» — https://www.youtube.com/watch?v=GY7a_nQHJ3g (`source_id`: youtube:GY7a_nQHJ3g`).
+- «La carta a los Efesios (parte 27) Cap 5 ¿Cómo saber si aún estás en oscuridad?» — https://www.youtube.com/watch?v=vMKZxSXm6do (`source_id`: youtube:vMKZxSXm6do`).
+- «La carta a los Efesios (parte 28) Cap 5 ¿Cómo redimir el tiempo?» — https://www.youtube.com/watch?v=IInmEjVfIY8 (`source_id`: youtube:IInmEjVfIY8`).
+- «La carta a los Efesios (parte 29) Cap 5 Respetando el orden divino» — https://www.youtube.com/watch?v=uvdWpnrQsmo (`source_id`: youtube:uvdWpnrQsmo`).
+- «La carta a los Efesios (parte 30) Cap 5» — https://www.youtube.com/watch?v=5s1JMI9hFxU (`source_id`: youtube:5s1JMI9hFxU`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

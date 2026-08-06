@@ -31,158 +31,158 @@ tags:
   - "hijos_de_la_luz"
   - "emunah"
   - "senales"
-  - "ieshaiahu"
+  - "yeshayahu"
   - "discipulado"
   - "santidad"
   - "abba"
 references:
-  - "#iojanan_12_1"
-  - "#iojanan_12_3"
-  - "#iojanan_12_12"
-  - "#iojanan_12_16"
-  - "#iojanan_12_20"
-  - "#iojanan_12_23"
-  - "#iojanan_12_24"
-  - "#iojanan_12_27"
-  - "#iojanan_12_28"
-  - "#iojanan_12_31"
-  - "#iojanan_12_32"
-  - "#iojanan_12_35"
-  - "#iojanan_12_36"
-  - "#iojanan_12_37"
-  - "#iojanan_12_38"
-  - "#iojanan_12_40"
-  - "#iojanan_12_42"
-  - "#iojanan_12_44"
-  - "#iojanan_12_47"
-  - "#iojanan_12_48"
-  - "#iojanan_12_49"
-  - "#iojanan_12_50"
-  - "#zejariah_9_9"
-  - "#tehilim_118_25"
-  - "#tehilim_118_26"
-  - "#vaikra_10_3"
-  - "#ieshaiahu_49_6"
-  - "#ieshaiahu_53_1"
-  - "#ieshaiahu_6_10"
-  - "#shemot_9_16"
-  - "#efesiyim_5_8"
-  - "#efesiyim_5_9"
-  - "#efesiyim_5_14"
-  - "#iojanan_12_29"
-  - "#iojanan_12_30"
-  - "#iojanan_12_33"
-  - "#ivrim_13_8"
-  - "#iojanan_12_34"
-  - "#ieshaiahu_60_1"
-  - "#ieshaiahu_60_2"
-  - "#ieshaiahu_60_3"
-  - "#ieshaiahu_62_1"
-  - "#tehilim_89_36"
-  - "#tehilim_89_37"
-  - "#iejezkel_37_25"
-  - "#tehilim_8_4"
-  - "#tehilim_8_5"
-  - "#tehilim_8_6"
-  - "#iojanan_alef_2_8"
-  - "#iojanan_alef_2_9"
-  - "#iojanan_alef_2_10"
-  - "#iojanan_alef_2_11"
-  - "#tesaloniqim_alef_5_5"
-  - "#tesaloniqim_alef_5_8"
-  - "#tesaloniqim_alef_5_11"
-  - "#iojanan_12_2"
-  - "#iojanan_12_4"
-  - "#iojanan_12_5"
-  - "#iojanan_12_6"
-  - "#iojanan_12_7"
-  - "#iojanan_12_8"
-  - "#iojanan_12_9"
-  - "#iojanan_12_10"
-  - "#iojanan_12_11"
-  - "#iojanan_12_13"
-  - "#iojanan_12_14"
-  - "#iojanan_12_15"
-  - "#tehilim_118_20"
-  - "#tehilim_118_21"
-  - "#tehilim_118_22"
-  - "#ieshaiahu_53_4"
-  - "#ieshaiahu_53_10"
-  - "#tzefaniah_3_15"
-  - "#shir_hashirim_1_3"
-  - "#shir_hashirim_4_13"
-  - "#shir_hashirim_4_14"
-  - "#shir_hashirim_4_15"
-  - "#iojanan_12_17"
-  - "#iojanan_17_4"
-  - "#iojanan_17_5"
-  - "#iojanan_3_35"
-  - "#bereshit_12_10"
-  - "#bereshit_13_2"
-  - "#bereshit_18_20"
-  - "#bereshit_48_10"
-  - "#bereshit_50_10"
-  - "#shemot_14_4"
-  - "#shemot_14_17"
-  - "#shemot_14_18"
-  - "#zekharyah_12_10"
-  - "#matityahu_28_18"
+  - "#juan_12_1"
+  - "#juan_12_3"
+  - "#juan_12_12"
+  - "#juan_12_16"
+  - "#juan_12_20"
+  - "#juan_12_23"
+  - "#juan_12_24"
+  - "#juan_12_27"
+  - "#juan_12_28"
+  - "#juan_12_31"
+  - "#juan_12_32"
+  - "#juan_12_35"
+  - "#juan_12_36"
+  - "#juan_12_37"
+  - "#juan_12_38"
+  - "#juan_12_40"
+  - "#juan_12_42"
+  - "#juan_12_44"
+  - "#juan_12_47"
+  - "#juan_12_48"
+  - "#juan_12_49"
+  - "#juan_12_50"
+  - "#zacarias_9_9"
+  - "#salmos_118_25"
+  - "#salmos_118_26"
+  - "#levitico_10_3"
+  - "#isaias_49_6"
+  - "#isaias_53_1"
+  - "#isaias_6_10"
+  - "#exodo_9_16"
+  - "#efesios_5_8"
+  - "#efesios_5_9"
+  - "#efesios_5_14"
+  - "#juan_12_29"
+  - "#juan_12_30"
+  - "#juan_12_33"
+  - "#hebreos_13_8"
+  - "#juan_12_34"
+  - "#isaias_60_1"
+  - "#isaias_60_2"
+  - "#isaias_60_3"
+  - "#isaias_62_1"
+  - "#salmos_89_36"
+  - "#salmos_89_37"
+  - "#ezequiel_37_25"
+  - "#salmos_8_4"
+  - "#salmos_8_5"
+  - "#salmos_8_6"
+  - "#1_juan_2_8"
+  - "#1_juan_2_9"
+  - "#1_juan_2_10"
+  - "#1_juan_2_11"
+  - "#1_tesalonicenses_5_5"
+  - "#1_tesalonicenses_5_8"
+  - "#1_tesalonicenses_5_11"
+  - "#juan_12_2"
+  - "#juan_12_4"
+  - "#juan_12_5"
+  - "#juan_12_6"
+  - "#juan_12_7"
+  - "#juan_12_8"
+  - "#juan_12_9"
+  - "#juan_12_10"
+  - "#juan_12_11"
+  - "#juan_12_13"
+  - "#juan_12_14"
+  - "#juan_12_15"
+  - "#salmos_118_20"
+  - "#salmos_118_21"
+  - "#salmos_118_22"
+  - "#isaias_53_4"
+  - "#isaias_53_10"
+  - "#sofonias_3_15"
+  - "#cantares_1_3"
+  - "#cantares_4_13"
+  - "#cantares_4_14"
+  - "#cantares_4_15"
+  - "#juan_12_17"
+  - "#juan_17_4"
+  - "#juan_17_5"
+  - "#juan_3_35"
+  - "#genesis_12_10"
+  - "#genesis_13_2"
+  - "#genesis_18_20"
+  - "#genesis_48_10"
+  - "#genesis_50_10"
+  - "#exodo_14_4"
+  - "#exodo_14_17"
+  - "#exodo_14_18"
+  - "#zacarias_12_10"
+  - "#mateo_28_18"
   - "#romanos_11_36"
-  - "#ivrim_6_13"
-  - "#iojanan_12_21"
-  - "#iojanan_12_22"
-  - "#iojanan_12_25"
-  - "#iojanan_12_26"
-  - "#tehilim_8_7"
-  - "#tehilim_8_8"
-  - "#tehilim_8_9"
-  - "#ivrim_2_9"
-  - "#ivrim_12_2"
-  - "#filipim_2_6"
-  - "#filipim_2_7"
-  - "#filipim_2_8"
-  - "#filipim_2_9"
-  - "#filipim_2_10"
-  - "#filipim_2_11"
-  - "#iojanan_alef_2_16"
-  - "#iaakov_4_4"
-  - "#iojanan_12_19"
-  - "#iojanan_12_41"
-  - "#iojanan_12_43"
-  - "#ieshaiahu_49_1"
-  - "#ieshaiahu_49_2"
-  - "#ieshaiahu_49_3"
-  - "#ieshaiahu_49_4"
-  - "#ieshaiahu_49_5"
-  - "#iojanan_12_39"
-  - "#devarim_11_1"
-  - "#devarim_18_15"
-  - "#mishlei_3_5"
-  - "#mishlei_3_6"
-  - "#matityahu_21_28"
-  - "#matityahu_21_29"
-  - "#matityahu_21_30"
-  - "#matityahu_21_31"
-  - "#iojanan_12_45"
-  - "#iojanan_12_46"
-  - "#tehilim_119_105"
-  - "#qorintiyim_bet_3_14"
-  - "#yaakov_1_22"
+  - "#hebreos_6_13"
+  - "#juan_12_21"
+  - "#juan_12_22"
+  - "#juan_12_25"
+  - "#juan_12_26"
+  - "#salmos_8_7"
+  - "#salmos_8_8"
+  - "#salmos_8_9"
+  - "#hebreos_2_9"
+  - "#hebreos_12_2"
+  - "#filipenses_2_6"
+  - "#filipenses_2_7"
+  - "#filipenses_2_8"
+  - "#filipenses_2_9"
+  - "#filipenses_2_10"
+  - "#filipenses_2_11"
+  - "#1_juan_2_16"
+  - "#santiago_4_4"
+  - "#juan_12_19"
+  - "#juan_12_41"
+  - "#juan_12_43"
+  - "#isaias_49_1"
+  - "#isaias_49_2"
+  - "#isaias_49_3"
+  - "#isaias_49_4"
+  - "#isaias_49_5"
+  - "#juan_12_39"
+  - "#deuteronomio_11_1"
+  - "#deuteronomio_18_15"
+  - "#proverbios_3_5"
+  - "#proverbios_3_6"
+  - "#mateo_21_28"
+  - "#mateo_21_29"
+  - "#mateo_21_30"
+  - "#mateo_21_31"
+  - "#juan_12_45"
+  - "#juan_12_46"
+  - "#salmos_119_105"
+  - "#2_corintios_3_14"
+  - "#santiago_1_22"
   - "#romanos_6_22"
   - "#romanos_8_1"
   - "#romanos_8_7"
-  - "#maasei_hashlijim_15_19"
-  - "#maasei_hashlijim_15_20"
-  - "#maasei_hashlijim_15_21"
-  - "#mishlei_31_25"
-  - "#tehilim_126_1"
-  - "#tehilim_126_2"
-  - "#tehilim_126_3"
-  - "#devarim_16_15"
-  - "#devarim_5_26"
-  - "#iehoshua_3_10"
-  - "#irmeiahu_10_10"
-  - "#ieshaiahu_43_21"
+  - "#hechos_15_19"
+  - "#hechos_15_20"
+  - "#hechos_15_21"
+  - "#proverbios_31_25"
+  - "#salmos_126_1"
+  - "#salmos_126_2"
+  - "#salmos_126_3"
+  - "#deuteronomio_16_15"
+  - "#deuteronomio_5_26"
+  - "#josue_3_10"
+  - "#jeremias_10_10"
+  - "#isaias_43_21"
 sources:
   - "https://www.youtube.com/live/mG0xaFkcSag?si=QQTGXM8jOue3dqca"
   - "https://www.youtube.com/live/aRt3PuB_gSw?si=YeEqQ8MB5q9m95KD"
@@ -193,12 +193,7 @@ sources:
   - "https://www.youtube.com/live/Hv7enV-uw5A?si=7SNfqE7UOGAZgadp"
   - "https://www.youtube.com/live/AYrCYjkwyYo?si=WPR3AC6VhLy_nAwN"
   - "https://www.youtube.com/live/dKqd5lQXyEA?si=01S7uym38s1VjlmO"
-  - "private/sources/youtube_mG0xaFkcSag_transcript.txt"
-  - "private/sources/youtube_90O6TYH0NOM_transcript.txt"
-  - "private/sources/youtube_So_vr4hwcJQ_transcript_fragment.txt"
-  - "private/sources/youtube_0SNICYI6yM0_transcript.txt"
-  - "private/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt"
-  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/tth/json/yojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
   - "docs/scriptures/oe/json/psalms/118.json"
@@ -222,7 +217,7 @@ sources:
   - "/Users/jhonny/.codex/attachments/92369d7e-105f-4dd8-84a5-b01b8ec912d2/pasted-text.txt"
   - "docs/scriptures/oe/json/leviticus/10.json"
   - "/Users/jhonny/.codex/attachments/fd1a1e02-783e-413d-9ea7-178b2b08271b/pasted-text.txt"
-  - "docs/scriptures/tth/json/ieshaiahu.json"
+  - "docs/scriptures/tth/json/yeshayahu.json"
   - "docs/scriptures/tth/json/devarim.json"
   - "docs/scriptures/tth/json/mishlei.json"
   - "docs/scriptures/tth/json/matityahu.json"
@@ -261,42 +256,42 @@ Este es el punto de entrada canónico para el capítulo y conserva la ruta de nu
 
 | Referencia        | Texto local                                                                                                                                                                                                 | Función en el capítulo                                                                    |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| #iojanan_12_1     | וששת ימים לפני חגהפסח בא ישוע אלביתעניה ושם אלעזר המת אשר החיה מןהמתים                                                                                                                                      | Betania sitúa la cena a seis días de Pesaj y mantiene a Eleazar como testigo de la señal. |
-| #iojanan_12_3     | Y Miriam tomó una medida de aceite del mejor nardo, muy costoso, y ungió los pies de Yeshúa, y frotó con sus cabellos sus pies; y toda la casa se llenó del aroma del perfume.                              | El aroma anticipa la sepultura dentro de una casa llena.                                  |
-| #iojanan_12_16    | Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa, entonces recordaron que acerca de Él habían sido escritas, y que se las habían hecho, estas cosas. | La glorificación abre la memoria de las Escrituras.                                       |
-| #iojanan_12_20    | Y había unos hombres griegos que habían subido a postrarse en la fiesta.                                                                                                                                    | La llegada de las naciones marca el giro hacia la hora.                                   |
-| #iojanan_12_23-24 | Ha venido la hora en que será glorificado el Ben Ha’Adam. Amén, amén, Yo les digo: “Si el grano de trigo no cae a tierra y muere, quedará solo; pero si muere, hará mucho fruto.                            | La gloria es explicada por el camino de muerte y fruto.                                   |
-| #iojanan_12_27-28 | Ahora está muy turbado mi ser… Padre mío, glorifica tu Nombre. Y vino una voz de los cielos: Lo he glorificado, y volveré a glorificarlo.                                                                   | La hora no se evade; el Nombre es glorificado.                                            |
-| #iojanan_12_31-32 | Ahora es el proceso legal del olam; ahora el príncipe de este olam será echado afuera. Y Yo, cuando sea levantado de la tierra, a todos atraeré hacia Mí.                                                   | El levantamiento interpreta la hora como juicio y atracción.                              |
-| #iojanan_12_35-36 | Caminen mientras esté para ustedes la Luz… afírmense en la Luz, y serán hijos de la Luz.                                                                                                                    | La respuesta requerida a la Luz es caminar y afirmarse.                                   |
-| #iojanan_12_37-38 | Pero aunque había hecho todas estas señales delante de ellos, no se afirmaron en Él, para que se llenara la palabra de Ieshaiáhu…                                                                           | Las señales no fuerzan fidelidad; la cita de Ieshaiahu interpreta el rechazo.             |
-| #iojanan_12_47-50 | No he venido para juzgar al olam, sino para salvar al olam… la palabra que he hablado lo juzgará en el día final… su mandamiento es vida olam.                                                              | La misma palabra ofrece salvación, revela juicio y comunica vida.                         |
+| #juan_12_1     | וששת ימים לפני חגהפסח בא ישוע אלביתעניה ושם אלעזר המת אשר החיה מןהמתים                                                                                                                                      | Betania sitúa la cena a seis días de Pesaj y mantiene a Eleazar como testigo de la señal. |
+| #juan_12_3     | Y Miriam tomó una medida de aceite del mejor nardo, muy costoso, y ungió los pies de Yeshúa, y frotó con sus cabellos sus pies; y toda la casa se llenó del aroma del perfume.                              | El aroma anticipa la sepultura dentro de una casa llena.                                  |
+| #juan_12_16    | Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa, entonces recordaron que acerca de Él habían sido escritas, y que se las habían hecho, estas cosas. | La glorificación abre la memoria de las Escrituras.                                       |
+| #juan_12_20    | Y había unos hombres griegos que habían subido a postrarse en la fiesta.                                                                                                                                    | La llegada de las naciones marca el giro hacia la hora.                                   |
+| #juan_12_23-24 | Ha venido la hora en que será glorificado el Ben Ha’Adam. Amén, amén, Yo les digo: “Si el grano de trigo no cae a tierra y muere, quedará solo; pero si muere, hará mucho fruto.                            | La gloria es explicada por el camino de muerte y fruto.                                   |
+| #juan_12_27-28 | Ahora está muy turbado mi ser… Padre mío, glorifica tu Nombre. Y vino una voz de los cielos: Lo he glorificado, y volveré a glorificarlo.                                                                   | La hora no se evade; el Nombre es glorificado.                                            |
+| #juan_12_31-32 | Ahora es el proceso legal del olam; ahora el príncipe de este olam será echado afuera. Y Yo, cuando sea levantado de la tierra, a todos atraeré hacia Mí.                                                   | El levantamiento interpreta la hora como juicio y atracción.                              |
+| #juan_12_35-36 | Caminen mientras esté para ustedes la Luz… afírmense en la Luz, y serán hijos de la Luz.                                                                                                                    | La respuesta requerida a la Luz es caminar y afirmarse.                                   |
+| #juan_12_37-38 | Pero aunque había hecho todas estas señales delante de ellos, no se afirmaron en Él, para que se llenara la palabra de Yeshayahu…                                                                           | Las señales no fuerzan fidelidad; la cita de Yeshayahu interpreta el rechazo.             |
+| #juan_12_47-50 | No he venido para juzgar al olam, sino para salvar al olam… la palabra que he hablado lo juzgará en el día final… su mandamiento es vida olam.                                                              | La misma palabra ofrece salvación, revela juicio y comunica vida.                         |
 
 ## Del perfume al Rey humilde
 
-#iojanan_12_1-15 une una cena, una unción, la amenaza contra Eleazar y la entrada a Ierushaláim. La clase de Betania propone leer el nardo como señal de sepultura y el clamor de la multitud a la luz de #tehilim_118_25-26: «Hoshana» conserva una súplica de salvación, no solo una aclamación. La entrada en el pollino se vincula con #zejariah_9_9: el Rey viene humilde. Estas conexiones deben sostenerse como lectura intertextual, no como sustituto del relato mismo.
+#juan_12_1-15 une una cena, una unción, la amenaza contra Eleazar y la entrada a Yerushaláim. La clase de Betania propone leer el nardo como señal de sepultura y el clamor de la multitud a la luz de #salmos_118_25-26: «Hoshana» conserva una súplica de salvación, no solo una aclamación. La entrada en el pollino se vincula con #zacarias_9_9: el Rey viene humilde. Estas conexiones deben sostenerse como lectura intertextual, no como sustituto del relato mismo.
 
 ## Memoria, kabod y la llegada de las naciones
 
-La observación de #iojanan_12_16 organiza retrospectivamente la primera parte: los discípulos recuerdan lo escrito después de que Yehoshua fue glorificado. Las clases explican **(כבד / כבוד)** como peso, honra o importancia manifiesta; esa aproximación ayuda a evitar reducir la gloria a brillo, pero la relación técnica con el vocabulario griego de Yojanán debe seguir siendo verificada.
+La observación de #juan_12_16 organiza retrospectivamente la primera parte: los discípulos recuerdan lo escrito después de que Yehoshua fue glorificado. Las clases explican **(כבד / כבוד)** como peso, honra o importancia manifiesta; esa aproximación ayuda a evitar reducir la gloria a brillo, pero la relación técnica con el vocabulario griego de Yojanán debe seguir siendo verificada.
 
-Los griegos de #iojanan_12_20 buscan ver a Yehoshua y reciben como respuesta la llegada de su hora (#iojanan_12_23). La lectura de clase vincula el fruto del grano con la apertura de la salvación a las naciones, en diálogo con #ieshaiahu_49_6. El texto dice que habían subido a adorar; no determina por sí solo si eran prosélitos, temerosos de Elohim u otra categoría histórica.
+Los griegos de #juan_12_20 buscan ver a Yehoshua y reciben como respuesta la llegada de su hora (#juan_12_23). La lectura de clase vincula el fruto del grano con la apertura de la salvación a las naciones, en diálogo con #isaias_49_6. El texto dice que habían subido a adorar; no determina por sí solo si eran prosélitos, temerosos de Elohim u otra categoría histórica.
 
 ## La hora: grano, Nombre, juicio y Ben HaAdam
 
-El grano que cae y muere (#iojanan_12_24) da el patrón del discipulado y del fruto. La turbación de Yehoshua no cancela la hora: «por esto he venido a esta hora» (#iojanan_12_27). Su petición es que el Nombre sea glorificado, y la voz de los cielos responde que ya lo fue y será glorificado de nuevo (#iojanan_12_28).
+El grano que cae y muere (#juan_12_24) da el patrón del discipulado y del fruto. La turbación de Yehoshua no cancela la hora: «por esto he venido a esta hora» (#juan_12_27). Su petición es que el Nombre sea glorificado, y la voz de los cielos responde que ya lo fue y será glorificado de nuevo (#juan_12_28).
 
-La clase denomina a esta voz una **(בת קול)**, como eco o veredicto celestial. Es una categoría interpretativa útil para describir la escena, pero su definición rabínica y su aplicación exacta aquí quedan pendientes. El texto conecta esta hora con el juicio del olam, la expulsión de su príncipe y el levantamiento que atrae (#iojanan_12_31-32). La pregunta de la multitud sobre el Ben HaAdam (#iojanan_12_34) es respondida narrativamente con una exhortación a la Luz, no con una definición técnica aislada.
+La clase denomina a esta voz una **(בת קול)**, como eco o veredicto celestial. Es una categoría interpretativa útil para describir la escena, pero su definición rabínica y su aplicación exacta aquí quedan pendientes. El texto conecta esta hora con el juicio del olam, la expulsión de su príncipe y el levantamiento que atrae (#juan_12_31-32). La pregunta de la multitud sobre el Ben HaAdam (#juan_12_34) es respondida narrativamente con una exhortación a la Luz, no con una definición técnica aislada.
 
 ## Luz, señales y el kabod que muchos prefirieron
 
-#iojanan_12_35-36 llama a caminar mientras hay Luz y a afirmarse en ella para llegar a ser hijos de luz. La clase aplica ese lenguaje al discipulado visible —amor, verdad, justicia y sobriedad— y rechaza convertirlo en identidad sectaria o guerra carnal. #efesiyim_5_8-14 ofrece una conexión apostólica para ese lenguaje de fruto y luz.
+#juan_12_35-36 llama a caminar mientras hay Luz y a afirmarse en ella para llegar a ser hijos de luz. La clase aplica ese lenguaje al discipulado visible —amor, verdad, justicia y sobriedad— y rechaza convertirlo en identidad sectaria o guerra carnal. #efesios_5_8-14 ofrece una conexión apostólica para ese lenguaje de fruto y luz.
 
-El narrador declara que muchas señales no produjeron afirmación (#iojanan_12_37) y cita #ieshaiahu_53_1 y #ieshaiahu_6_10. La cita no autoriza a simplificar el problema como falta de datos ni a resolver de modo fácil la tensión entre responsabilidad humana y endurecimiento. También muchos jefes se afirmaron, pero no confesaban por temor a ser expulsados de la asamblea, «porque amaron más el kabod de los hombres que el kabod de Elohim» (#iojanan_12_42-43).
+El narrador declara que muchas señales no produjeron afirmación (#juan_12_37) y cita #isaias_53_1 y #isaias_6_10. La cita no autoriza a simplificar el problema como falta de datos ni a resolver de modo fácil la tensión entre responsabilidad humana y endurecimiento. También muchos jefes se afirmaron, pero no confesaban por temor a ser expulsados de la asamblea, «porque amaron más el kabod de los hombres que el kabod de Elohim» (#juan_12_42-43).
 
 ## La palabra enviada: salvación, juicio y vida olam
 
-El cierre público (#iojanan_12_44-50) identifica la afirmación en Yehoshua con el que lo envió. La Luz vino para que quien se afirma no permanezca en oscuridad. Yehoshua afirma que no vino primero para juzgar al olam, sino para salvarlo; sin embargo, la palabra rechazada juzgará en el día final. Finalmente, habla la palabra recibida del Padre y declara que su mandamiento es vida olam.
+El cierre público (#juan_12_44-50) identifica la afirmación en Yehoshua con el que lo envió. La Luz vino para que quien se afirma no permanezca en oscuridad. Yehoshua afirma que no vino primero para juzgar al olam, sino para salvarlo; sin embargo, la palabra rechazada juzgará en el día final. Finalmente, habla la palabra recibida del Padre y declara que su mandamiento es vida olam.
 
 La clase insiste correctamente en que oír y guardar no deben separarse en una religiosidad de mera información. Sus desarrollos sobre Sheminí Atzéret, categorías hebreas de perdón y distinciones entre **(שפט)** y **(דין)** deben permanecer como hipótesis de trabajo hasta cotejar las fuentes y los idiomas originales.
 
@@ -305,30 +300,30 @@ La clase insiste correctamente en que oír y guardar no deben separarse en una r
 | Forma            | Uso en la nota                      | Relación                                                                                                            |
 | ---------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **(כבד / כבוד)** | peso, honra, importancia manifiesta | Aproximación hebrea que las clases usan para iluminar «glorificar»; no equivalencia automática con cada uso griego. |
-| **(בן אדם)**     | Ben HaAdam                          | Título conservado como tal; #iojanan_12_34 requiere cotejo griego/arameo antes de fijar una explicación exhaustiva. |
-| **(בת קול)**     | voz/eco celestial                   | Categoría pedagógica de las clases para #iojanan_12_28; fuente rabínica exacta pendiente.                           |
+| **(בן אדם)**     | Ben HaAdam                          | Título conservado como tal; #juan_12_34 requiere cotejo griego/arameo antes de fijar una explicación exhaustiva. |
+| **(בת קול)**     | voz/eco celestial                   | Categoría pedagógica de las clases para #juan_12_28; fuente rabínica exacta pendiente.                           |
 | **(אמונה)**      | afirmarse, fidelidad                | La TTH usa «afirmarse»; su alcance frente a los verbos griegos debe revisarse pasaje por pasaje.                    |
 
 ## Notas de bloque conservadas
 
-- [[yojanan_12_betania_nardo_rey_humillado|Betania, nardo y el Rey humillado]] — #iojanan_12_1-15; `youtube:mG0xaFkcSag`.
-- [[yojanan_12_gloria_peso_palabra|La gloria como peso de la palabra]] — #iojanan_12_16-17; `youtube:aRt3PuB_gSw`.
-- [[yojanan_12_griegos_kabod_ben_haadam|Griegos, kabod y Ben HaAdam]] — #iojanan_12_16-24; `youtube:90O6TYH0NOM`.
-- [[yojanan_12_grano_trigo_gloria_gentiles|Grano de trigo, gloria y gentiles]] — #iojanan_12_20-28; `youtube:ZLTG7uQExR4`.
-- [[yojanan_12_bat_kol_nombre_juicio|Bat kol, Nombre y juicio]] — #iojanan_12_27-33; `youtube:So_vr4hwcJQ`.
-- [[yojanan_12_ben_haadam_hijos_luz|Ben HaAdam y los hijos de luz]] — #iojanan_12_31-36; `youtube:0SNICYI6yM0`.
-- [[yojanan_12_hijos_luz_senales_ieshaiahu|Hijos de la luz y el anuncio no recibido]] — #iojanan_12_35-43; `youtube:Hv7enV-uw5A`.
-- [[yojanan_12_luz_emunah_kabod|Luz, emunah y kabod]] — #iojanan_12_36-47; `youtube:AYrCYjkwyYo`.
-- [[yojanan_12_palabra_juicio_vida_olam|Palabra, juicio y vida olam]] — #iojanan_12_47-50; `youtube:dKqd5lQXyEA`.
+- [[yojanan_12_betania_nardo_rey_humillado|Betania, nardo y el Rey humillado]] — #juan_12_1-15; `youtube:mG0xaFkcSag`.
+- [[yojanan_12_gloria_peso_palabra|La gloria como peso de la palabra]] — #juan_12_16-17; `youtube:aRt3PuB_gSw`.
+- [[yojanan_12_griegos_kabod_ben_haadam|Griegos, kabod y Ben HaAdam]] — #juan_12_16-24; `youtube:90O6TYH0NOM`.
+- [[yojanan_12_grano_trigo_gloria_gentiles|Grano de trigo, gloria y gentiles]] — #juan_12_20-28; `youtube:ZLTG7uQExR4`.
+- [[yojanan_12_bat_kol_nombre_juicio|Bat kol, Nombre y juicio]] — #juan_12_27-33; `youtube:So_vr4hwcJQ`.
+- [[yojanan_12_ben_haadam_hijos_luz|Ben HaAdam y los hijos de luz]] — #juan_12_31-36; `youtube:0SNICYI6yM0`.
+- [[yojanan_12_hijos_luz_senales_ieshaiahu|Hijos de la luz y el anuncio no recibido]] — #juan_12_35-43; `youtube:Hv7enV-uw5A`.
+- [[yojanan_12_luz_emunah_kabod|Luz, emunah y kabod]] — #juan_12_36-47; `youtube:AYrCYjkwyYo`.
+- [[yojanan_12_palabra_juicio_vida_olam|Palabra, juicio y vida olam]] — #juan_12_47-50; `youtube:dKqd5lQXyEA`.
 
-El cierre debe leerse sin borrar sus pasos intermedios. Primero, Yehoshua clama que quien se afirma en Él se afirma en quien lo envió (#iojanan_12_44); luego declara que quien lo ve ve al que lo envió y que vino como Luz para que el que se afirma no permanezca en oscuridad (#iojanan_12_45-46). Después distingue la finalidad de su venida —salvar al olam— del juicio futuro de la palabra rechazada (#iojanan_12_47-48), y termina diciendo que no habla por iniciativa propia: el mandamiento del Padre es vida olam (#iojanan_12_49-50). Eric usa esta cadena para insistir en oír y guardar, pero el texto local es el que sostiene el recorrido afirmación–visión–luz–salvación–juicio–mandamiento. **(ἀκούω)** (_akouō_), «oír» o «escuchar», tiene aquí fuerza de recepción de un mensaje; su relación con «guardar» en la aplicación de la clase es pedagógica y contextual, no una equivalencia léxica automática.
+El cierre debe leerse sin borrar sus pasos intermedios. Primero, Yehoshua clama que quien se afirma en Él se afirma en quien lo envió (#juan_12_44); luego declara que quien lo ve ve al que lo envió y que vino como Luz para que el que se afirma no permanezca en oscuridad (#juan_12_45-46). Después distingue la finalidad de su venida —salvar al olam— del juicio futuro de la palabra rechazada (#juan_12_47-48), y termina diciendo que no habla por iniciativa propia: el mandamiento del Padre es vida olam (#juan_12_49-50). Eric usa esta cadena para insistir en oír y guardar, pero el texto local es el que sostiene el recorrido afirmación–visión–luz–salvación–juicio–mandamiento. **(ἀκούω)** (_akouō_), «oír» o «escuchar», tiene aquí fuerza de recepción de un mensaje; su relación con «guardar» en la aplicación de la clase es pedagógica y contextual, no una equivalencia léxica automática.
 
 ## Pendiente de verificar
 
 - [ ] Cotejar las afirmaciones léxicas sobre **(כבד / כבוד)**, δόξα y el uso de «glorificar» en Yojanán.
 - [ ] Localizar fuentes primarias para el uso de **(בת קול)** y para las referencias rabínicas citadas en las clases.
-- [ ] Revisar en griego la identidad y condición de los griegos de #iojanan_12_20 y el alcance de «todos» en #iojanan_12_32.
-- [ ] Cotejar #ieshaiahu_6_10 en hebreo, LXX y su uso en Yojanán antes de fijar explicaciones sobre ceguera y responsabilidad.
+- [ ] Revisar en griego la identidad y condición de los griegos de #juan_12_20 y el alcance de «todos» en #juan_12_32.
+- [ ] Cotejar #isaias_6_10 en hebreo, LXX y su uso en Yojanán antes de fijar explicaciones sobre ceguera y responsabilidad.
 - [ ] Verificar las conexiones históricas y calendáricas de las notas de bloque antes de usarlas como conclusión independiente.
 
 ## Conclusión
@@ -339,9 +334,9 @@ El capítulo avanza desde una casa llena de aroma hasta una palabra dada para vi
 
 | Punto tomado de Eric | Versos | Evaluación |
 | --- | --- | --- |
-| Betania, el nardo y la entrada humilde anticipan sepultura y realeza. | #iojanan_12_1-15 | La cena, la unción, el clamor y el pollino aparecen en ese orden; las conexiones con Salmos y Zacarías son intertextuales. |
-| La llegada de los griegos conduce a la hora y al grano que muere para dar fruto. | #iojanan_12_16-24 | El recorrido local sostiene la secuencia; la apertura a las naciones queda como inferencia canónica cualificada. |
-| La palabra enviada trae luz, salvación, juicio y vida olam. | #iojanan_12_35-50 | El texto afirma esas funciones; la aplicación de oír y guardar es pedagógica y no una equivalencia léxica automática. |
+| Betania, el nardo y la entrada humilde anticipan sepultura y realeza. | #juan_12_1-15 | La cena, la unción, el clamor y el pollino aparecen en ese orden; las conexiones con Salmos y Zacarías son intertextuales. |
+| La llegada de los griegos conduce a la hora y al grano que muere para dar fruto. | #juan_12_16-24 | El recorrido local sostiene la secuencia; la apertura a las naciones queda como inferencia canónica cualificada. |
+| La palabra enviada trae luz, salvación, juicio y vida olam. | #juan_12_35-50 | El texto afirma esas funciones; la aplicación de oír y guardar es pedagógica y no una equivalencia léxica automática. |
 
 ## Ver también
 
@@ -358,14 +353,14 @@ Los siguientes dossiers conservan íntegramente las hojas de comparación, desar
 
 ##### Tesis
 
-En #iojanan_12_27-33, Yehoshua no pide ser rescatado de la hora porque la hora misma pertenece al propósito escrito. Lo que sí pide es: "glorifica tu Nombre". La clase lee esa petición como una apelación a lo que la Escritura ya permite pedir: que יהוה manifieste el peso de su Nombre en el cumplimiento de su propia obra.
+En #juan_12_27-33, Yehoshua no pide ser rescatado de la hora porque la hora misma pertenece al propósito escrito. Lo que sí pide es: "glorifica tu Nombre". La clase lee esa petición como una apelación a lo que la Escritura ya permite pedir: que יהוה manifieste el peso de su Nombre en el cumplimiento de su propia obra.
 
 La voz de los cielos no viene para darle información a Yehoshua, sino para la multitud. En la lectura del video, esa voz funciona como una **bat kol**, un eco o veredicto celestial que confirma que el Nombre ya fue glorificado antes y será glorificado otra vez, ahora por medio de la muerte del Mesías.
 
 #### Alcance de la nota
 
 - Fuente principal: fragmento de transcripción automática provisto por el usuario; la nota ordena la enseñanza, no reproduce cada frase como cita exacta.
-- El fragmento cubre el cierre de una clase y se concentra en #iojanan_12_28-33.
+- El fragmento cubre el cierre de una clase y se concentra en #juan_12_28-33.
 - La explicación de **(בת קול)** como "lectura celestial de la Torah" y como veredicto de corte celestial se conserva como línea de la clase, pero queda pendiente de cotejo rabínico preciso.
 - Para una comparación temática más amplia sobre la bat kol en tevilah y metamorfosis, ver [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]].
 
@@ -373,19 +368,19 @@ La voz de los cielos no viene para darle información a Yehoshua, sino para la m
 
 | Referencia     | Hebreo (Delitzsch, sin nikud)                                           | TTH (ES)                                                                                                            | Función en la clase                                                              |
 | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| #iojanan_12_27 | עתה נבהלה נפשי ומה אמר הצילני אבי מןעת המועד הזה אך עלכן באתי למועד הזה | Ahora está muy turbado mi ser, ¿y qué diré: "Padre mío, sálvame de esta hora"? Pero por esto he venido a esta hora. | Yeshúa reconoce la turbación, pero no pide escapar de aquello para lo cual vino. |
-| #iojanan_12_28 | אבי גדל כבוד שמך והנה קול ענה משמים גדלתי כבודו וגםאגדלנו עוד           | Padre mío, glorifica tu Nombre. Y vino una voz de los cielos: Lo he glorificado, y volveré a glorificarlo.          | La petición sí está en línea con la Escritura: que el Nombre sea glorificado.    |
-| #iojanan_12_29 | והעם העמדים שם שמעו ואמרו קול רעם הוא ויש מהם אמרו כי מלאך דבר אליו     | Y el pueblo que estaba de pie y escuchó, dijo: Es que es un trueno. Y otros dijeron: Es que un ángel le ha hablado. | La multitud percibe estruendo; otros interpretan la voz como mensaje angelical.  |
-| #iojanan_12_30 | ויען ישוע ויאמר לא למעני היה הקול הזה כי אםלמענכם                       | Y respondió Yeshúa, y dijo: No ha venido esta voz por causa de Mí, sino por causa de ustedes.                       | Yeshúa explica que la señal audible fue dada para los oyentes.                   |
-| #iojanan_12_31 | עתה נחרץ משפט העולם הזה ושר העולם הזה נדחף למדחפות                      | Ahora es el proceso legal del olam; ahora el príncipe de este olam será echado afuera.                              | La hora del Mesías es presentada como juicio, no como accidente.                 |
-| #iojanan_12_32 | ואני כאשר אנשא מעלהארץ אמשך כלאדם אחרי                                  | Y Yo, cuando sea levantado de la tierra, a todos atraeré hacia Mí.                                                  | Ser levantado señala la forma de la muerte y el alcance de la atracción.         |
-| #iojanan_12_33 | והמלין האלה הוציא כי ירזמון באיזה מות ימות                              | Y esto dijo profetizando de qué muerte había de morir.                                                              | Yojanán aclara que "levantado" apunta a la muerte del Mesías.                    |
+| #juan_12_27 | עתה נבהלה נפשי ומה אמר הצילני אבי מןעת המועד הזה אך עלכן באתי למועד הזה | Ahora está muy turbado mi ser, ¿y qué diré: "Padre mío, sálvame de esta hora"? Pero por esto he venido a esta hora. | Yeshúa reconoce la turbación, pero no pide escapar de aquello para lo cual vino. |
+| #juan_12_28 | אבי גדל כבוד שמך והנה קול ענה משמים גדלתי כבודו וגםאגדלנו עוד           | Padre mío, glorifica tu Nombre. Y vino una voz de los cielos: Lo he glorificado, y volveré a glorificarlo.          | La petición sí está en línea con la Escritura: que el Nombre sea glorificado.    |
+| #juan_12_29 | והעם העמדים שם שמעו ואמרו קול רעם הוא ויש מהם אמרו כי מלאך דבר אליו     | Y el pueblo que estaba de pie y escuchó, dijo: Es que es un trueno. Y otros dijeron: Es que un ángel le ha hablado. | La multitud percibe estruendo; otros interpretan la voz como mensaje angelical.  |
+| #juan_12_30 | ויען ישוע ויאמר לא למעני היה הקול הזה כי אםלמענכם                       | Y respondió Yeshúa, y dijo: No ha venido esta voz por causa de Mí, sino por causa de ustedes.                       | Yeshúa explica que la señal audible fue dada para los oyentes.                   |
+| #juan_12_31 | עתה נחרץ משפט העולם הזה ושר העולם הזה נדחף למדחפות                      | Ahora es el proceso legal del olam; ahora el príncipe de este olam será echado afuera.                              | La hora del Mesías es presentada como juicio, no como accidente.                 |
+| #juan_12_32 | ואני כאשר אנשא מעלהארץ אמשך כלאדם אחרי                                  | Y Yo, cuando sea levantado de la tierra, a todos atraeré hacia Mí.                                                  | Ser levantado señala la forma de la muerte y el alcance de la atracción.         |
+| #juan_12_33 | והמלין האלה הוציא כי ירזמון באיזה מות ימות                              | Y esto dijo profetizando de qué muerte había de morir.                                                              | Yojanán aclara que "levantado" apunta a la muerte del Mesías.                    |
 
 ##### Tanaj
 
 | Referencia   | Hebreo (OE, sin nikud)                                                      | TTH (ES)                                                                                                              | Función en la clase                                                     |
 | ------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| #shemot_9_16 | ואולם בעבור זאת העמדתיך בעבור הראתך את כחי ולמען ספר שמי בכל הארץ | Pero, de hecho, para esto tú estás de pie: para mostrar en ti mi poder, y para proclamar mi Nombre en toda la tierra. | Ejemplo de glorificación o proclamación del Nombre por medio de juicio. |
+| #exodo_9_16 | ואולם בעבור זאת העמדתיך בעבור הראתך את כחי ולמען ספר שמי בכל הארץ | Pero, de hecho, para esto tú estás de pie: para mostrar en ti mi poder, y para proclamar mi Nombre en toda la tierra. | Ejemplo de glorificación o proclamación del Nombre por medio de juicio. |
 
 #### Hoja léxica
 
@@ -396,8 +391,8 @@ La voz de los cielos no viene para darle información a Yehoshua, sino para la m
 | **(בת קול)** | bat kol         | hija de la voz, eco celestial         | בת + קול    | La clase la define como lectura/veredicto celestial; cotejo rabínico pendiente.                 |
 | **(קול)**    | qol             | voz, sonido, estruendo                | קול         | En el relato algunos oyen trueno; otros entienden voz angelical.                                |
 | **(מלאך)**   | malaj           | mensajero, ángel                      | לאך         | En la clase, el ángel lee o comunica un edicto; no sustituye a Elohim.                          |
-| **(משפט)**   | mishpat         | juicio, proceso legal                 | שפט         | TTH traduce #iojanan_12_31 como "proceso legal del olam".                                       |
-| **(נשא)**    | nasa            | levantar, alzar                       | נשא         | En #iojanan_12_32 queda explicado por #iojanan_12_33 como alusión a la muerte.                  |
+| **(משפט)**   | mishpat         | juicio, proceso legal                 | שפט         | TTH traduce #juan_12_31 como "proceso legal del olam".                                       |
+| **(נשא)**    | nasa            | levantar, alzar                       | נשא         | En #juan_12_32 queda explicado por #juan_12_33 como alusión a la muerte.                  |
 
 #### La hora y lo que se puede pedir
 
@@ -413,53 +408,53 @@ Cuando viene la voz desde los cielos, el video la identifica como **bat kol**. L
 
 La nota conserva la cautela: esta definición requiere cotejo con fuentes rabínicas precisas. Lo importante para el argumento de la clase es que la voz no aparece para corregir a Yehoshua ni para informarle algo desconocido, sino para testificar a los que estaban oyendo.
 
-Por eso #iojanan_12_30 es clave: "No ha venido esta voz por causa de Mí, sino por causa de ustedes." La señal audible sirve al pueblo. Los que no disciernen solo perciben trueno; otros entienden que un ángel habló. Yehoshua no se detiene a negar esa interpretación, sino que dirige el significado hacia el juicio que está ocurriendo.
+Por eso #juan_12_30 es clave: "No ha venido esta voz por causa de Mí, sino por causa de ustedes." La señal audible sirve al pueblo. Los que no disciernen solo perciben trueno; otros entienden que un ángel habló. Yehoshua no se detiene a negar esa interpretación, sino que dirige el significado hacia el juicio que está ocurriendo.
 
 #### El ángel como lector de edictos
 
-La clase aprovecha #iojanan_12_29 para advertir contra una confusión interpretativa: cuando un mensajero dice palabras en primera persona de parte de יהוה, no por eso el mensajero se convierte en Elohim. Un ángel puede leer un edicto divino usando el "yo" del que lo envió.
+La clase aprovecha #juan_12_29 para advertir contra una confusión interpretativa: cuando un mensajero dice palabras en primera persona de parte de יהוה, no por eso el mensajero se convierte en Elohim. Un ángel puede leer un edicto divino usando el "yo" del que lo envió.
 
 Esta observación busca evitar que toda aparición angelical sea interpretada como presencia directa de Elohim en persona. En el marco de la clase, el mensajero comunica lo que ya fue firmado o emitido por יהוה. Por eso la autoridad está en el decreto, no en la identidad independiente del lector.
 
 #### "Ya lo glorifiqué y lo glorificaré otra vez"
 
-El expositor conecta la frase de #iojanan_12_28 con patrones del Tanaj donde יהוה glorifica o manifiesta su Nombre por medio de actos de juicio y redención. Menciona especialmente el caso de Faraón: יהוה levanta a Faraón para mostrar su poder y para que su Nombre sea anunciado.
+El expositor conecta la frase de #juan_12_28 con patrones del Tanaj donde יהוה glorifica o manifiesta su Nombre por medio de actos de juicio y redención. Menciona especialmente el caso de Faraón: יהוה levanta a Faraón para mostrar su poder y para que su Nombre sea anunciado.
 
 La lógica de la clase es de continuidad: el mismo que glorificó su Nombre en el pasado lo glorifica ahora en la hora del Mesías. La diferencia es el medio. Antes, el Nombre fue glorificado en actos externos de juicio y liberación; ahora será glorificado por medio del sacrificio del propio cuerpo del Mesías.
 
-La referencia a #ivrim_13_8 sirve como síntesis confesional en la clase: Yehoshua el Mesías es el mismo ayer, hoy y por los siglos. La glorificación del Nombre no cambia de Elohim ni de propósito; se concentra ahora en la entrega y exaltación del Mesías.
+La referencia a #hebreos_13_8 sirve como síntesis confesional en la clase: Yehoshua el Mesías es el mismo ayer, hoy y por los siglos. La glorificación del Nombre no cambia de Elohim ni de propósito; se concentra ahora en la entrega y exaltación del Mesías.
 
 #### Juicio del olam y expulsión del príncipe
 
-#iojanan_12_31 interpreta la hora como juicio: "Ahora es el proceso legal del olam". La clase no lee la expulsión del príncipe de este mundo como si recién en ese momento Satanás dejara de tener acceso al cielo. La explicación dada es más concreta: desde la muerte y levantamiento del Mesías, el príncipe de este olam queda sin cabida legítima sobre el creyente.
+#juan_12_31 interpreta la hora como juicio: "Ahora es el proceso legal del olam". La clase no lee la expulsión del príncipe de este mundo como si recién en ese momento Satanás dejara de tener acceso al cielo. La explicación dada es más concreta: desde la muerte y levantamiento del Mesías, el príncipe de este olam queda sin cabida legítima sobre el creyente.
 
 El punto principal es jurídico. La cruz no solo conmueve emocionalmente; dicta sentencia. El Mesías levantado establece el juicio contra el olam y contra su príncipe, y por eso atrae hacia sí a los que quedan bajo su autoridad.
 
 #### Levantado de la tierra
 
-#iojanan_12_32-33 cierra la unidad: "ser levantado" indica de qué muerte iba a morir. La clase identifica ese levantamiento con la crucifixión. No es un levantamiento simbólico separado del cuerpo, sino la forma concreta en que el Nombre sería glorificado.
+#juan_12_32-33 cierra la unidad: "ser levantado" indica de qué muerte iba a morir. La clase identifica ese levantamiento con la crucifixión. No es un levantamiento simbólico separado del cuerpo, sino la forma concreta en que el Nombre sería glorificado.
 
 La atracción "a todos" debe leerse dentro de esa escena: el Mesías levantado se convierte en el punto de reunión y juicio. Quien mira la hora solo como derrota no entiende la lectura celestial; quien la mira desde la Escritura ve que allí el Nombre es glorificado otra vez.
 
 #### Conexiones principales
 
-- #iojanan_12_27 con #iojanan_12_28: Yehoshua no pide escapar de la hora; pide que el Nombre sea glorificado en la hora.
-- #iojanan_12_28 con #shemot_9_16: la gloria del Nombre ya había sido manifestada antes por medio de juicio.
-- #iojanan_12_29 con la figura de **(בת קול)**: la multitud percibe sonido; algunos interpretan mensaje angelical.
-- #iojanan_12_30 con la función de testimonio: la voz viene por causa de los oyentes.
-- #iojanan_12_31 con el lenguaje de juicio: la muerte del Mesías se presenta como proceso legal del olam.
-- #iojanan_12_32-33 con la crucifixión: "levantado" explica el modo de muerte y la atracción hacia el Mesías.
+- #juan_12_27 con #juan_12_28: Yehoshua no pide escapar de la hora; pide que el Nombre sea glorificado en la hora.
+- #juan_12_28 con #exodo_9_16: la gloria del Nombre ya había sido manifestada antes por medio de juicio.
+- #juan_12_29 con la figura de **(בת קול)**: la multitud percibe sonido; algunos interpretan mensaje angelical.
+- #juan_12_30 con la función de testimonio: la voz viene por causa de los oyentes.
+- #juan_12_31 con el lenguaje de juicio: la muerte del Mesías se presenta como proceso legal del olam.
+- #juan_12_32-33 con la crucifixión: "levantado" explica el modo de muerte y la atracción hacia el Mesías.
 
 #### Pendiente de verificar
 
 - [ ] Localizar fuentes rabínicas primarias para definir **(בת קול)** como eco celestial, lectura de Torah o veredicto de corte celestial.
 - [ ] Cotejar si la expresión "corte celestial" se usa en la fuente específica que el expositor tiene en mente o si funciona como explicación pedagógica.
 - [ ] Verificar con más detalle los pasajes de la Torah donde יהוה dice que será glorificado en Faraón o por medio de juicio.
-- [ ] Revisar el griego de #iojanan_12_31-32 para precisar "proceso legal", "príncipe" y "ser levantado".
+- [ ] Revisar el griego de #juan_12_31-32 para precisar "proceso legal", "príncipe" y "ser levantado".
 
 #### Conclusión
 
-La enseñanza del video ordena #iojanan_12_27-33 como una escena de Escritura, juicio y glorificación. Yehoshua no busca una salida que contradiga la hora; se entrega a la hora pidiendo que el Nombre sea glorificado. La voz celestial confirma para los oyentes que esa glorificación ya pertenece al patrón de יהוה: el mismo Nombre que fue glorificado antes será glorificado otra vez en el Mesías levantado.
+La enseñanza del video ordena #juan_12_27-33 como una escena de Escritura, juicio y glorificación. Yehoshua no busca una salida que contradiga la hora; se entrega a la hora pidiendo que el Nombre sea glorificado. La voz celestial confirma para los oyentes que esa glorificación ya pertenece al patrón de יהוה: el mismo Nombre que fue glorificado antes será glorificado otra vez en el Mesías levantado.
 
 #### Ver también
 
@@ -472,15 +467,15 @@ La enseñanza del video ordena #iojanan_12_27-33 como una escena de Escritura, j
 
 ##### Tesis
 
-En #iojanan_12_31-36, Yehoshua interpreta su levantamiento como juicio contra el olam y como despojo del príncipe de este mundo. La clase lee esa hora no como derrota, sino como la manifestación de la Luz que viene a limitar las tinieblas, atraer hacia sí a cualquiera y responder la pregunta de la multitud: "¿Quién es este Ben HaAdam?"
+En #juan_12_31-36, Yehoshua interpreta su levantamiento como juicio contra el olam y como despojo del príncipe de este mundo. La clase lee esa hora no como derrota, sino como la manifestación de la Luz que viene a limitar las tinieblas, atraer hacia sí a cualquiera y responder la pregunta de la multitud: "¿Quién es este Ben HaAdam?"
 
 La respuesta de Yehoshua no es una definición técnica, sino una identificación: mientras tienen la Luz, caminen en la Luz y afírmense en la Luz para ser hechos hijos de luz. Por eso la nota entiende que **Ben HaAdam es la Luz verdadera**: el portador de la plenitud de la deidad que fue levantado, venció la muerte y forma discípulos cuya guerra contra las tinieblas no es carnal, sino fidelidad, amor, sobriedad y reconciliación.
 
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota sintetiza la clase y no reproduce el video palabra por palabra.
-- Pasaje base: #iojanan_12_31-36, en continuidad con [[yojanan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]] y [[yojanan_12_griegos_kabod_ben_haadam|Yojanán 12: griegos, kabod y Ben HaAdam]].
-- La clase usa Ieshaiahu 60 y 62 para leer la venida de la luz, Tehilim 89 e Iejezkel 37 para la permanencia del Mesías, Tehilim 8 para Ben Adam, y 1 Yojanán 2 / Efesios 5 / 1 Tesalonicenses 5 para explicar "hijos de luz".
+- Pasaje base: #juan_12_31-36, en continuidad con [[yojanan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]] y [[yojanan_12_griegos_kabod_ben_haadam|Yojanán 12: griegos, kabod y Ben HaAdam]].
+- La clase usa Yeshayahu 60 y 62 para leer la venida de la luz, Tehilim 89 e Yejezkel 37 para la permanencia del Mesías, Tehilim 8 para Ben Adam, y 1 Yojanán 2 / Efesios 5 / 1 Tesalonicenses 5 para explicar "hijos de luz".
 - Las menciones a Qumrán, el Rollo de la Guerra, Masada y la categoría rabínica de Mesías ben Yosef quedan útiles para contexto, pero pendientes de cotejo documental.
 
 #### Hoja de comparación
@@ -489,36 +484,36 @@ La respuesta de Yehoshua no es una definición técnica, sino una identificació
 
 | Referencia     | Texto local                                                                                                       | Función en la clase                                                                                |
 | -------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| #iojanan_12_31 | TTH: "Ahora es el proceso legal del olam; ahora el príncipe de este olam será echado afuera."                     | La hora del Mesías dicta sentencia contra el olam y despoja de potestad al príncipe de este mundo. |
-| #iojanan_12_32 | TTH: "Y Yo, cuando sea levantado de la tierra, a todos atraeré hacia Mí."                                         | "Todos" se lee como cualquiera, sin acepción entre judío y griego.                                 |
-| #iojanan_12_33 | TTH: "Y esto dijo profetizando de qué muerte había de morir."                                                     | Yojanán aclara que el levantamiento señala la muerte del Mesías.                                   |
-| #iojanan_12_34 | TTH: "Nosotros escuchamos de la Torah que el Mesías será establecido para siempre... ¿Quién es este Ben Ha'Adam?" | La pregunta es legítima: ¿cómo conciliar Mesías permanente con Ben HaAdam levantado/muerto?        |
-| #iojanan_12_35 | TTH: "Todavía por un poco de tiempo la Luz estará con ustedes..."                                                 | Yeshúa responde identificando al Ben HaAdam con la Luz presente.                                   |
-| #iojanan_12_36 | TTH: "Mientras esté para ustedes la Luz, afírmense en la Luz, y serán hijos de la Luz."                           | Ser hijo de luz implica fidelidad al Mesías, no pertenencia sectaria ni guerra carnal.             |
+| #juan_12_31 | TTH: "Ahora es el proceso legal del olam; ahora el príncipe de este olam será echado afuera."                     | La hora del Mesías dicta sentencia contra el olam y despoja de potestad al príncipe de este mundo. |
+| #juan_12_32 | TTH: "Y Yo, cuando sea levantado de la tierra, a todos atraeré hacia Mí."                                         | "Todos" se lee como cualquiera, sin acepción entre judío y griego.                                 |
+| #juan_12_33 | TTH: "Y esto dijo profetizando de qué muerte había de morir."                                                     | Yojanán aclara que el levantamiento señala la muerte del Mesías.                                   |
+| #juan_12_34 | TTH: "Nosotros escuchamos de la Torah que el Mesías será establecido para siempre... ¿Quién es este Ben Ha'Adam?" | La pregunta es legítima: ¿cómo conciliar Mesías permanente con Ben HaAdam levantado/muerto?        |
+| #juan_12_35 | TTH: "Todavía por un poco de tiempo la Luz estará con ustedes..."                                                 | Yeshúa responde identificando al Ben HaAdam con la Luz presente.                                   |
+| #juan_12_36 | TTH: "Mientras esté para ustedes la Luz, afírmense en la Luz, y serán hijos de la Luz."                           | Ser hijo de luz implica fidelidad al Mesías, no pertenencia sectaria ni guerra carnal.             |
 
 ##### Tanaj
 
 | Referencia        | Hebreo (OE, sin nikud)                                                   | TTH (ES)                                                                                   | Función en la clase                                                               |
 | ----------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| #ieshaiahu_60_1   | קומי אורי כי בא אורך וכבוד יהוה עליך זרח                              | ¡Levántate!, ¡brilla!, porque ha venido tu luz, y la gloria de יהוה sobre ti ha amanecido. | La venida de la luz se vincula con el kabod de יהוה.                              |
-| #ieshaiahu_60_2   | כי הנה החשך יכסה ארץ וערפל לאמים ועליך יזרח יהוה וכבודו עליך יראה | La oscuridad cubrirá la tierra... pero sobre ti amanecerá יהוה.                            | Las naciones están bajo tiniebla; la luz viene a romper ese dominio.              |
-| #ieshaiahu_60_3   | והלכו גוים לאורך ומלכים לנגה זרחך                                  | E irán las naciones a tu luz, y los reyes al brillo de tu amanecer.                        | Explica por qué la llegada de griegos no está fuera del tema.                     |
-| #ieshaiahu_62_1   | למען ציון לא אחשה... עד יצא כנגה צדקה וישועתה כלפיד יבער            | ...hasta que salga como brillo su justicia, y su salvación como antorcha se encienda.      | La clase distingue el brillo tenue y la antorcha: etapas de manifestación de luz. |
-| #tehilim_89_36-37 | זרעו לעולם יהיה וכסאו כשמש נגדי                                    | Su simiente para siempre será, y su trono como el sol delante de Mí.                       | Base para la objeción: el Mesías permanece para siempre.                          |
-| #iejezkel_37_25   | ודוד עבדי נשיא להם לעולם                                             | ...David mi siervo será príncipe de ellos para siempre.                                    | "David" es leído como título mesiánico: el amado/príncipe permanente.             |
-| #tehilim_8_5-6    | מה אנוש כי תזכרנו ובן אדם כי תפקדנו                                   | ¿Qué es el hombre que lo recordarás, y el hijo de Adam que lo visitarás?                   | Responde la pregunta por Ben Adam como profecía de disminución y exaltación.      |
+| #isaias_60_1   | קומי אורי כי בא אורך וכבוד יהוה עליך זרח                              | ¡Levántate!, ¡brilla!, porque ha venido tu luz, y la gloria de יהוה sobre ti ha amanecido. | La venida de la luz se vincula con el kabod de יהוה.                              |
+| #isaias_60_2   | כי הנה החשך יכסה ארץ וערפל לאמים ועליך יזרח יהוה וכבודו עליך יראה | La oscuridad cubrirá la tierra... pero sobre ti amanecerá יהוה.                            | Las naciones están bajo tiniebla; la luz viene a romper ese dominio.              |
+| #isaias_60_3   | והלכו גוים לאורך ומלכים לנגה זרחך                                  | E irán las naciones a tu luz, y los reyes al brillo de tu amanecer.                        | Explica por qué la llegada de griegos no está fuera del tema.                     |
+| #isaias_62_1   | למען ציון לא אחשה... עד יצא כנגה צדקה וישועתה כלפיד יבער            | ...hasta que salga como brillo su justicia, y su salvación como antorcha se encienda.      | La clase distingue el brillo tenue y la antorcha: etapas de manifestación de luz. |
+| #salmos_89_36-37 | זרעו לעולם יהיה וכסאו כשמש נגדי                                    | Su simiente para siempre será, y su trono como el sol delante de Mí.                       | Base para la objeción: el Mesías permanece para siempre.                          |
+| #ezequiel_37_25   | ודוד עבדי נשיא להם לעולם                                             | ...David mi siervo será príncipe de ellos para siempre.                                    | "David" es leído como título mesiánico: el amado/príncipe permanente.             |
+| #salmos_8_5-6    | מה אנוש כי תזכרנו ובן אדם כי תפקדנו                                   | ¿Qué es el hombre que lo recordarás, y el hijo de Adam que lo visitarás?                   | Responde la pregunta por Ben Adam como profecía de disminución y exaltación.      |
 
 ##### Hijos de luz en las cartas
 
 | Referencia             | Texto local                                                            | Función en la clase                                                         |
 | ---------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| #iojanan_alef_2_8      | Delitzsch: ועוד מצוה חדשה... מפני שהחשך עבר והאור האמתי כבר זרח        | El mandamiento renovado se entiende desde la luz verdadera que ya alumbra.  |
-| #iojanan_alef_2_9-11   | Delitzsch: האומר באור אני והוא שנא את אחיו...                          | Quien dice estar en la luz y no ama a su hermano todavía anda en tinieblas. |
-| #efesiyim_5_8-9        | Delitzsch: מלפנים הייתם חשך ועתה הנכם אור... פרי האור... חסד וצדק ואמת | Ser luz en el Señor produce bondad, justicia y verdad.                      |
-| #efesiyim_5_14         | Delitzsch: עורה הישן וקומה מן המתים ויאר לך המשיח                      | El Mesías alumbra al que despierta y se levanta de entre los muertos.       |
-| #tesaloniqim_alef_5_5  | Delitzsch: אתם כלכם בני האור ובני היום                                 | Los creyentes son hijos de luz e hijos del día.                             |
-| #tesaloniqim_alef_5_8  | Delitzsch: שריון האמונה והאהבה... תקות הישועה                          | La armadura del hijo de luz es fidelidad, amor y esperanza de salvación.    |
-| #tesaloniqim_alef_5_11 | Delitzsch: נחמו זה את זה ובנו איש את אחיו                              | La práctica final es consolar y edificar unos a otros.                      |
+| #1_juan_2_8      | Delitzsch: ועוד מצוה חדשה... מפני שהחשך עבר והאור האמתי כבר זרח        | El mandamiento renovado se entiende desde la luz verdadera que ya alumbra.  |
+| #1_juan_2_9-11   | Delitzsch: האומר באור אני והוא שנא את אחיו...                          | Quien dice estar en la luz y no ama a su hermano todavía anda en tinieblas. |
+| #efesios_5_8-9        | Delitzsch: מלפנים הייתם חשך ועתה הנכם אור... פרי האור... חסד וצדק ואמת | Ser luz en el Señor produce bondad, justicia y verdad.                      |
+| #efesios_5_14         | Delitzsch: עורה הישן וקומה מן המתים ויאר לך המשיח                      | El Mesías alumbra al que despierta y se levanta de entre los muertos.       |
+| #1_tesalonicenses_5_5  | Delitzsch: אתם כלכם בני האור ובני היום                                 | Los creyentes son hijos de luz e hijos del día.                             |
+| #1_tesalonicenses_5_8  | Delitzsch: שריון האמונה והאהבה... תקות הישועה                          | La armadura del hijo de luz es fidelidad, amor y esperanza de salvación.    |
+| #1_tesalonicenses_5_11 | Delitzsch: נחמו זה את זה ובנו איש את אחיו                              | La práctica final es consolar y edificar unos a otros.                      |
 
 #### Léxico clave
 
@@ -528,7 +523,7 @@ La respuesta de Yehoshua no es una definición técnica, sino una identificació
 | **(חושך)**    | joshej          | oscuridad, tiniebla                            | חשך         | No es solo ignorancia, sino dominio del olam que queda juzgado.                          |
 | **(בן האדם)** | Ben HaAdam      | título apocalíptico/mesiánico                  | אדם         | La clase lo relaciona con Daniel, Tehilim 8 y la plenitud de la deidad manifestada.      |
 | **(בר אנש)**  | Bar Enash       | "hijo de hombre" en arameo                     | אנש         | Forma aramea asociada con Daniel; cotejo textual pendiente.                              |
-| **(כבוד)**    | kabod           | peso, gloria visible                           | כבד         | Ieshaiahu 60 une luz y kabod de יהוה.                                                    |
+| **(כבוד)**    | kabod           | peso, gloria visible                           | כבד         | Yeshayahu 60 une luz y kabod de יהוה.                                                    |
 | **(נגה)**     | nogah           | brillo, resplandor tenue                       | נגה         | En la clase sirve para distinguir el despuntar de la luz y su consumación como antorcha. |
 | **(בן)**      | ben             | hijo, discípulo, portador                      | בן          | "Hijo de luz" se explica como discípulo o portador de la Luz.                            |
 | **(קורבן)**   | qorban          | aquello por lo cual uno se acerca              | קרב         | La clase vincula el cuerpo ofrecido con el acceso a יהוה.                                |
@@ -536,13 +531,13 @@ La respuesta de Yehoshua no es una definición técnica, sino una identificació
 
 #### Juicio del olam y príncipe echado afuera
 
-La clase retoma #iojanan_12_31 desde la nota anterior: la hora del Mesías es juicio. "Echado afuera" no se desarrolla como especulación espacial sobre cielo, infierno o bajo tierra, sino como lenguaje de sentencia y despojo de potestad. El príncipe de este olam queda juzgado cuando la Luz vence las tinieblas por medio del Mesías levantado.
+La clase retoma #juan_12_31 desde la nota anterior: la hora del Mesías es juicio. "Echado afuera" no se desarrolla como especulación espacial sobre cielo, infierno o bajo tierra, sino como lenguaje de sentencia y despojo de potestad. El príncipe de este olam queda juzgado cuando la Luz vence las tinieblas por medio del Mesías levantado.
 
-El expositor conecta esto con #ieshaiahu_60_1-3. Cuando la tiniebla cubre la tierra y la oscuridad a las naciones, יהוה hace resplandecer su luz sobre Tzión y las naciones caminan hacia esa luz. Así, la petición de los griegos en Yojanán 12 no es incidental: anticipa que el Mesías levantado atraerá hacia sí a cualquiera.
+El expositor conecta esto con #isaias_60_1-3. Cuando la tiniebla cubre la tierra y la oscuridad a las naciones, יהוה hace resplandecer su luz sobre Tzión y las naciones caminan hacia esa luz. Así, la petición de los griegos en Yojanán 12 no es incidental: anticipa que el Mesías levantado atraerá hacia sí a cualquiera.
 
 #### "A cualquiera atraeré hacia mí"
 
-La clase insiste en que #iojanan_12_32 debe leerse sin encerrar el alcance en un grupo étnico. El contexto inmediato incluye judíos y griegos: ambos pueblos podían imaginarse exclusivos, pero ambos estaban bajo el yugo de las tinieblas y ambos necesitaban ser atraídos por el Mesías.
+La clase insiste en que #juan_12_32 debe leerse sin encerrar el alcance en un grupo étnico. El contexto inmediato incluye judíos y griegos: ambos pueblos podían imaginarse exclusivos, pero ambos estaban bajo el yugo de las tinieblas y ambos necesitaban ser atraídos por el Mesías.
 
 Por eso "todos" se explica como cualquiera: griego, judío, bárbaro, hombre, mujer. La promesa a Abraham encuentra aquí su forma mesiánica: en la semilla serían alcanzadas las familias de la tierra, no por prestigio humano, sino por el Mesías levantado.
 
@@ -554,9 +549,9 @@ La clase también advierte contra separar un "Mesías ben Yosef" que muere de un
 
 #### La objeción de la multitud
 
-La pregunta de #iojanan_12_34 es buena: si la Torah enseña que el Mesías permanece para siempre, ¿cómo puede Yehoshua hablar de que el Ben HaAdam debe ser levantado? La clase recuerda que "Torah" puede nombrar toda la Escritura como instrucción, no solo el Jumash. Por eso textos como Tehilim o Iejezkel pueden entrar bajo esa forma de hablar.
+La pregunta de #juan_12_34 es buena: si la Torah enseña que el Mesías permanece para siempre, ¿cómo puede Yehoshua hablar de que el Ben HaAdam debe ser levantado? La clase recuerda que "Torah" puede nombrar toda la Escritura como instrucción, no solo el Jumash. Por eso textos como Tehilim o Yejezkel pueden entrar bajo esa forma de hablar.
 
-Dos anclas sostienen la objeción: #tehilim_89_36-37, donde la simiente y el trono permanecen, e #iejezkel_37_25, donde David, entendido como título mesiánico, será príncipe para siempre. La tensión no está inventada por la multitud; surge de leer promesas reales y todavía no entender que el camino de permanencia pasa por muerte y resurrección.
+Dos anclas sostienen la objeción: #salmos_89_36-37, donde la simiente y el trono permanecen, e #ezequiel_37_25, donde David, entendido como título mesiánico, será príncipe para siempre. La tensión no está inventada por la multitud; surge de leer promesas reales y todavía no entender que el camino de permanencia pasa por muerte y resurrección.
 
 #### "¿Quién es este Ben HaAdam?"
 
@@ -590,26 +585,26 @@ Efesios 5 llama a caminar como hijos de luz: bondad, justicia y verdad. La clase
 
 #### Conexiones principales
 
-- #iojanan_12_31 con #ieshaiahu_60_2: el juicio del olam ocurre en el marco de tinieblas cubriendo naciones.
-- #iojanan_12_32 con #ieshaiahu_60_3: las naciones caminan hacia la luz; el Mesías levantado atrae a cualquiera.
-- #iojanan_12_34 con #tehilim_89_36-37 e #iejezkel_37_25: la objeción sobre permanencia del Mesías tiene base escritural.
-- #iojanan_12_35-36 con #tehilim_8_5-6: Ben HaAdam se entiende desde disminución, kabod y dominio final.
-- #iojanan_12_36 con #iojanan_alef_2_9-11: ser hijo de luz se prueba en el amor al hermano/prójimo.
-- #iojanan_12_36 con #efesiyim_5_8-14: los hijos de luz producen bondad, justicia y verdad.
-- #iojanan_12_36 con #tesaloniqim_alef_5_5-11: los hijos del día viven sobrios, protegidos por fidelidad, amor y esperanza.
+- #juan_12_31 con #isaias_60_2: el juicio del olam ocurre en el marco de tinieblas cubriendo naciones.
+- #juan_12_32 con #isaias_60_3: las naciones caminan hacia la luz; el Mesías levantado atrae a cualquiera.
+- #juan_12_34 con #salmos_89_36-37 e #ezequiel_37_25: la objeción sobre permanencia del Mesías tiene base escritural.
+- #juan_12_35-36 con #salmos_8_5-6: Ben HaAdam se entiende desde disminución, kabod y dominio final.
+- #juan_12_36 con #1_juan_2_9-11: ser hijo de luz se prueba en el amor al hermano/prójimo.
+- #juan_12_36 con #efesios_5_8-14: los hijos de luz producen bondad, justicia y verdad.
+- #juan_12_36 con #1_tesalonicenses_5_5-11: los hijos del día viven sobrios, protegidos por fidelidad, amor y esperanza.
 
 #### Pendiente de verificar
 
-- [ ] Cotejar la forma aramea **(בר אנש)** en Daniel y su relación precisa con el griego de #iojanan_12_34.
+- [ ] Cotejar la forma aramea **(בר אנש)** en Daniel y su relación precisa con el griego de #juan_12_34.
 - [ ] Verificar referencias primarias sobre el Rollo de la Guerra de Qumrán, la expresión "hijos de luz" y su contenido militar.
 - [ ] Revisar históricamente la mención de Masada y su relación con movimientos de resistencia posteriores al año 70.
 - [ ] Cotejar la afirmación sobre Mesías ben Yosef / Mesías ben David como respuesta rabínica posterior a cuestionamientos sobre Yehoshua.
 - [ ] Revisar el uso de **(שנא)** como "amar menos" en hebreo bíblico antes de usarlo como argumento lexical cerrado en 1 Yojanán.
-- [ ] Cotejar en griego #iojanan_12_32 el alcance de "todos" frente a la lectura pedagógica "cualquiera".
+- [ ] Cotejar en griego #juan_12_32 el alcance de "todos" frente a la lectura pedagógica "cualquiera".
 
 #### Conclusión
 
-La enseñanza lee #iojanan_12_31-36 como el cierre de una gran línea: los griegos buscan a Yehoshua, la voz confirma la glorificación del Nombre, el príncipe del olam queda juzgado, y el Mesías levantado atrae hacia sí a cualquiera. Cuando la multitud pregunta quién es este Ben HaAdam, Yehoshua responde con la categoría que atraviesa todo Yojanán: la Luz.
+La enseñanza lee #juan_12_31-36 como el cierre de una gran línea: los griegos buscan a Yehoshua, la voz confirma la glorificación del Nombre, el príncipe del olam queda juzgado, y el Mesías levantado atrae hacia sí a cualquiera. Cuando la multitud pregunta quién es este Ben HaAdam, Yehoshua responde con la categoría que atraviesa todo Yojanán: la Luz.
 
 Ser hijo de luz, entonces, no es pertenecer a un grupo que se cree puro contra otros pueblos. Es ser discípulo de la Luz verdadera: amar sin acepción, caminar en bondad, justicia y verdad, vivir sobrio, recordar la reconciliación recibida y pelear contra las tinieblas sin convertir a las personas en enemigas de carne y sangre.
 
@@ -626,36 +621,36 @@ Ser hijo de luz, entonces, no es pertenecer a un grupo que se cree puro contra o
 
 ##### Tesis
 
-Yojanán 12:1-15 abre la recta final hacia Pesaj mostrando a Yehoshua como el Cordero que va a Ierushaláim y como el Rey de Israel que llega humillado. La cena en Betania, la unción de Miriam, la protesta de Iehudáh, el peligro contra Eleazar y la aclamación de la multitud no son escenas sueltas: todas empujan hacia la sepultura, el juicio y la entrada del Mesías que porta el nombre de יהוה.
+Yojanán 12:1-15 abre la recta final hacia Pesaj mostrando a Yehoshua como el Cordero que va a Yerushaláim y como el Rey de Israel que llega humillado. La cena en Betania, la unción de Miriam, la protesta de Yehudáh, el peligro contra Eleazar y la aclamación de la multitud no son escenas sueltas: todas empujan hacia la sepultura, el juicio y la entrada del Mesías que porta el nombre de יהוה.
 
-La clase lee el nardo como señal aromática frente al pecado que Yehoshua cargará, y lee el pollino de Zacarías 9 como señal de un rey justo que viene pobre/humillado por causa de los pecados del pueblo. Por eso el clamor "Hoshana" no es una exclamación decorativa, sino una cita viva de #tehilim_118_25-26: "salva, por favor", dirigida a יהוה y aplicada al que viene como Rey.
+La clase lee el nardo como señal aromática frente al pecado que Yehoshua cargará, y lee el pollino de Zacarías 9 como señal de un rey justo que viene pobre/humillado por causa de los pecados del pueblo. Por eso el clamor "Hoshana" no es una exclamación decorativa, sino una cita viva de #salmos_118_25-26: "salva, por favor", dirigida a יהוה y aplicada al que viene como Rey.
 
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota ordena la clase y no reproduce el video palabra por palabra.
-- Pasaje base: #iojanan_12_1-15, con atención especial a la cena en Betania, el nardo, los pobres/necesitados y la entrada con palmeras.
-- El TTH local disponible comienza esta sección en #iojanan_12_2; #iojanan_12_1 queda citado como referencia de contexto, pendiente de extracción local.
+- Pasaje base: #juan_12_1-15, con atención especial a la cena en Betania, el nardo, los pobres/necesitados y la entrada con palmeras.
+- El TTH local disponible comienza esta sección en #juan_12_2; #juan_12_1 queda citado como referencia de contexto, pendiente de extracción local.
 - Las afirmaciones sobre calendario, Talmud, aparato crítico, costumbres de comidas de Shabat y juegos fonéticos quedan conservadas como líneas de estudio, pero marcadas para verificación.
 
 #### Hoja de comparación
 
 | Referencia             | Texto local                                                                                                                                              | Función en la clase                                                                               |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #iojanan_12_2          | E hicieron para Él un banquete de tarde; y Martah servía, y Eleazar era uno de los que estaban sentados en ronda.                                        | La cena en Betania funciona como marco de recepción antes de la entrada a Ierushaláim.            |
-| #iojanan_12_3          | Y Miriam tomó una medida de aceite del mejor nardo, muy costoso, y ungió los pies de Yeshúa... y toda la casa se llenó del aroma del perfume.            | El nardo unge los pies del que avanza hacia su muerte; el aroma llena la casa.                    |
-| #iojanan_12_5          | ¿Por qué no se ha vendido este aceite en trescientos shekel de plata, y dado a los necesitados?                                                          | La protesta de Iehudáh se presenta como piedad fingida.                                           |
-| #iojanan_12_7          | Y dijo Yeshúa: Déjala; para el día de mi sepultura ha guardado esto.                                                                                     | Yeshúa interpreta la unción desde su sepultura, no solo como gesto de honor.                      |
-| #iojanan_12_8          | A los necesitados siempre los tendrán con ustedes, pero Yo no estaré siempre con ustedes.                                                                | La clase conecta "necesitados/pobres" con עני de Zacarías 9:9.                                    |
-| #iojanan_12_10-11      | ...tomaron consejo los jefes de los sacerdotes para matar también a Eleazar, porque muchos de los yehudim por causa de él iban y se afirmaban en Yeshúa. | Eleazar queda como testigo vivo de #iojanan_11; por eso también es perseguido.                    |
-| #iojanan_12_13         | ...tomaron ramas de palmeras... ¡Hoshana! ¡Bendito el que viene en el Nombre de יהוה, el Rey de Israel!                                                  | La multitud cita #tehilim_118_25-26 y reconoce al Rey.                                            |
-| #iojanan_12_14-15      | Y halló Yeshúa un asnito... He aquí tu Rey vendrá a ti, justo y salvo es Él, afligido, y monta sobre un asno...                                          | Yojanán enlaza la entrada con #zejariah_9_9.                                                      |
-| #zejariah_9_9          | גילי מאד בת ציון הריעי בת ירושלם הנה מלכך יבוא לך צדיק ונושע הוא עני ורכב על חמור ועל עיר בן אתנות                                                  | El rey viene justo, salvador/salvo y עני: pobre, afligido o humillado.                            |
-| #tehilim_118_25        | אנא יהוה הושיעה נא אנא יהוה הצליחה נא                                                                                                                  | Base de "Hoshana": súplica de salvación a יהוה.                                                   |
-| #tehilim_118_26        | ברוך הבא בשם יהוה ברכנוכם מבית יהוה                                                                                                                  | La clase subraya el venir con/en el nombre de יהוה como clave de identidad.                       |
-| #ieshaiahu_53_4        | אכן חלינו הוא נשא ומכאבינו סבלם ואנחנו חשבנהו נגוע מכה אלהים ומענה                                                                                | El rey humillado de Zacarías se conecta con el Siervo que carga dolores y es tenido por golpeado. |
-| #tzefaniah_3_15        | הסיר יהוה משפטיך פנה איבך מלך ישראל יהוה בקרבך לא תיראי רע עוד                                                                                       | "El Rey de Israel" está ligado a יהוה en medio del pueblo.                                        |
-| #shir_hashirim_1_3     | לריח שמניך טובים שמן תורק שמך על כן עלמות אהבוך                                                                                                      | El olor del aceite abre el campo simbólico del perfume y el nombre.                               |
-| #shir_hashirim_4_13-14 | ...כפרים עם נרדים / נרד וכרכם...                                                                                                                        | El nardo aparece entre aromas preciosos; la clase lo usa como trasfondo de la unción.             |
+| #juan_12_2          | E hicieron para Él un banquete de tarde; y Martah servía, y Eleazar era uno de los que estaban sentados en ronda.                                        | La cena en Betania funciona como marco de recepción antes de la entrada a Yerushaláim.            |
+| #juan_12_3          | Y Miriam tomó una medida de aceite del mejor nardo, muy costoso, y ungió los pies de Yeshúa... y toda la casa se llenó del aroma del perfume.            | El nardo unge los pies del que avanza hacia su muerte; el aroma llena la casa.                    |
+| #juan_12_5          | ¿Por qué no se ha vendido este aceite en trescientos shekel de plata, y dado a los necesitados?                                                          | La protesta de Yehudáh se presenta como piedad fingida.                                           |
+| #juan_12_7          | Y dijo Yeshúa: Déjala; para el día de mi sepultura ha guardado esto.                                                                                     | Yeshúa interpreta la unción desde su sepultura, no solo como gesto de honor.                      |
+| #juan_12_8          | A los necesitados siempre los tendrán con ustedes, pero Yo no estaré siempre con ustedes.                                                                | La clase conecta "necesitados/pobres" con עני de Zacarías 9:9.                                    |
+| #juan_12_10-11      | ...tomaron consejo los jefes de los sacerdotes para matar también a Eleazar, porque muchos de los yehudim por causa de él iban y se afirmaban en Yeshúa. | Eleazar queda como testigo vivo de #juan_11; por eso también es perseguido.                    |
+| #juan_12_13         | ...tomaron ramas de palmeras... ¡Hoshana! ¡Bendito el que viene en el Nombre de יהוה, el Rey de Israel!                                                  | La multitud cita #salmos_118_25-26 y reconoce al Rey.                                            |
+| #juan_12_14-15      | Y halló Yeshúa un asnito... He aquí tu Rey vendrá a ti, justo y salvo es Él, afligido, y monta sobre un asno...                                          | Yojanán enlaza la entrada con #zacarias_9_9.                                                      |
+| #zacarias_9_9          | גילי מאד בת ציון הריעי בת ירושלם הנה מלכך יבוא לך צדיק ונושע הוא עני ורכב על חמור ועל עיר בן אתנות                                                  | El rey viene justo, salvador/salvo y עני: pobre, afligido o humillado.                            |
+| #salmos_118_25        | אנא יהוה הושיעה נא אנא יהוה הצליחה נא                                                                                                                  | Base de "Hoshana": súplica de salvación a יהוה.                                                   |
+| #salmos_118_26        | ברוך הבא בשם יהוה ברכנוכם מבית יהוה                                                                                                                  | La clase subraya el venir con/en el nombre de יהוה como clave de identidad.                       |
+| #isaias_53_4        | אכן חלינו הוא נשא ומכאבינו סבלם ואנחנו חשבנהו נגוע מכה אלהים ומענה                                                                                | El rey humillado de Zacarías se conecta con el Siervo que carga dolores y es tenido por golpeado. |
+| #sofonias_3_15        | הסיר יהוה משפטיך פנה איבך מלך ישראל יהוה בקרבך לא תיראי רע עוד                                                                                       | "El Rey de Israel" está ligado a יהוה en medio del pueblo.                                        |
+| #cantares_1_3     | לריח שמניך טובים שמן תורק שמך על כן עלמות אהבוך                                                                                                      | El olor del aceite abre el campo simbólico del perfume y el nombre.                               |
+| #cantares_4_13-14 | ...כפרים עם נרדים / נרד וכרכם...                                                                                                                        | El nardo aparece entre aromas preciosos; la clase lo usa como trasfondo de la unción.             |
 
 #### Hoja léxica
 
@@ -663,41 +658,41 @@ La clase lee el nardo como señal aromática frente al pecado que Yehoshua carga
 | --------------- | --------------- | -------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **(δεῖπνον)**   | deipnon         | banquete/cena de tarde     | griego       | La clase lo relaciona con una cena de recepción, posiblemente alrededor de Shabat; pendiente de cotejar contexto histórico. |
 | **(נרד)**       | nard            | perfume de nardo           | נרד          | En Shir haShirim aparece como aroma precioso; la aplicación a cubrir el olor del pecado es lectura homilética a verificar.  |
-| **(μύρον)**     | muron           | aceite/perfume             | griego       | En #iojanan_12_3 se derrama sobre los pies; señala sepultura según #iojanan_12_7.                                           |
-| **(עני)**       | ani             | pobre, afligido, humillado | ענה          | Clave de #zejariah_9_9; la clase lo conecta con "los pobres/necesitados" de #iojanan_12_8.                                  |
+| **(μύρον)**     | muron           | aceite/perfume             | griego       | En #juan_12_3 se derrama sobre los pies; señala sepultura según #juan_12_7.                                           |
+| **(עני)**       | ani             | pobre, afligido, humillado | ענה          | Clave de #zacarias_9_9; la clase lo conecta con "los pobres/necesitados" de #juan_12_8.                                  |
 | **(הושיעה נא)** | hoshiah na      | salva, por favor           | ישע          | TTH confirma Hoshana como contracción de esta súplica.                                                                      |
 | **(הצליחה)**   | hatslichah      | prospera, haz avanzar      | צלח          | La clase propone matiz de traslado/transferencia del Rúaj; requiere verificación léxica.                                    |
 | **(איש קריות)** | ish Kariot      | hombre de Kariot           | איש + קריות  | TTH lo registra como explicación de Ish-Kariot; la clase menciona otras posibilidades.                                      |
 | **(סיקרי)**     | sikari          | sicario                    | latín/griego | Posible lectura alternativa de Iscariote como vinculación a los sicarios; pendiente de verificar.                           |
 | **(שקר)**       | sheqer          | mentira                    | שקר          | Posible juego para leer "Iscariote" como "mentiroso"; debe quedar como propuesta no cerrada.                                |
 
-#### De Betania a Ierushaláim
+#### De Betania a Yerushaláim
 
-La clase abre recordando el énfasis de todo Yojanán: Yehoshua es presentado como alguien mayor que el templo y como sustituto del templo. En ese marco, #iojanan_12_1-2 coloca la escena en Betania, cerca de Ierushaláim, después del levantamiento de Eleazar y antes de la semana final.
+La clase abre recordando el énfasis de todo Yojanán: Yehoshua es presentado como alguien mayor que el templo y como sustituto del templo. En ese marco, #juan_12_1-2 coloca la escena en Betania, cerca de Yerushaláim, después del levantamiento de Eleazar y antes de la semana final.
 
 El expositor sostiene que Yehoshua murió el 14 de Nisán por la tarde, en miércoles, y rechaza la tradición de viernes-domingo porque no permite sostener los tres días y tres noches. Esta línea no se desarrolla aquí como prueba completa; la clase remite a otro estudio sobre Marcos. Para esta nota queda como marco cronológico de la clase, no como argumento verificado en detalle.
 
-Betania funciona como punto de transición. Allí están Martah sirviendo, Eleazar sentado a la mesa como testimonio vivo y Miriam realizando el gesto que Yehoshua interpretará desde su sepultura. La casa se llena de aroma, mientras los pies del Mesías ya están orientados hacia Ierushaláim.
+Betania funciona como punto de transición. Allí están Martah sirviendo, Eleazar sentado a la mesa como testimonio vivo y Miriam realizando el gesto que Yehoshua interpretará desde su sepultura. La casa se llena de aroma, mientras los pies del Mesías ya están orientados hacia Yerushaláim.
 
 #### El nardo y la sepultura
 
 Miriam derrama un perfume caro de nardo sobre los pies de Yehoshua. La clase subraya tres detalles: el valor del perfume, el lugar donde se derrama y el efecto de llenar la casa con su olor.
 
-El nardo se relaciona con Shir haShirim, donde aparece dentro de un campo de aromas preciosos. La lectura propuesta es que el perfume cubre el olor de lo corrompido y anuncia que Yehoshua cargará el pecado del mundo. No se trata solo de un acto de hospitalidad o devoción; Yehoshua mismo dice que Miriam lo guardó "para el día de mi sepultura" (#iojanan_12_7).
+El nardo se relaciona con Shir haShirim, donde aparece dentro de un campo de aromas preciosos. La lectura propuesta es que el perfume cubre el olor de lo corrompido y anuncia que Yehoshua cargará el pecado del mundo. No se trata solo de un acto de hospitalidad o devoción; Yehoshua mismo dice que Miriam lo guardó "para el día de mi sepultura" (#juan_12_7).
 
 Los pies importan porque indican avance. El Mesías está caminando hacia el sacrificio. Por eso la unción se vuelve señal anticipada: el perfume acompaña el camino al madero, a la condena y a la sepultura.
 
-#### Iehudáh y la piedad fingida
+#### Yehudáh y la piedad fingida
 
-La protesta de Iehudáh parece compasión por los necesitados, pero Yojanán la desenmascara: no le importaban los pobres, sino la bolsa. La clase resalta que el argumento económico puede sonar moralmente correcto mientras oculta codicia.
+La protesta de Yehudáh parece compasión por los necesitados, pero Yojanán la desenmascara: no le importaban los pobres, sino la bolsa. La clase resalta que el argumento económico puede sonar moralmente correcto mientras oculta codicia.
 
-El cálculo de trescientos denarios o shekel de plata muestra que el perfume era muy costoso. La nota no cierra la equivalencia salarial porque la clase ofrece cifras orales que conviene revisar, pero conserva el punto principal: Iehudáh mide el gesto de Miriam desde el beneficio que él podía extraer.
+El cálculo de trescientos denarios o shekel de plata muestra que el perfume era muy costoso. La nota no cierra la equivalencia salarial porque la clase ofrece cifras orales que conviene revisar, pero conserva el punto principal: Yehudáh mide el gesto de Miriam desde el beneficio que él podía extraer.
 
 Yehoshua responde desde otra prioridad: a los pobres siempre los tendrán, pero a él no siempre. La clase no usa esto para disminuir el cuidado por los necesitados; lo conecta con el momento único de la sepultura del Mesías y con el עני de Zacarías 9:9.
 
 #### El pobre especial de Zacarías
 
-El término עני permite unir #iojanan_12_8 con #zejariah_9_9. El rey viene עני: pobre, afligido, humillado. La clase lo acerca a #ieshaiahu_53_4, donde el Siervo carga dolores y es considerado golpeado por Elohim y humillado.
+El término עני permite unir #juan_12_8 con #zacarias_9_9. El rey viene עני: pobre, afligido, humillado. La clase lo acerca a #isaias_53_4, donde el Siervo carga dolores y es considerado golpeado por Elohim y humillado.
 
 Así, Yehoshua no dice simplemente "esta vez yo soy más importante que los pobres". La lectura de la clase es más precisa: los pobres siempre estarán, pero este pobre/humillado único va hacia una hora irrepetible. Su humillación no nace de carencia económica, sino de cargar el pecado y el juicio.
 
@@ -705,7 +700,7 @@ Este punto prepara la entrada en el pollino. El rey justo viene a paso lento, hu
 
 #### Eleazar como testigo perseguido
 
-Después de la señal de #iojanan_11, Eleazar no es un personaje pasivo. Muchos yehudim vienen no solo por Yehoshua, sino para ver al que fue despertado de los muertos. Por eso los jefes de los sacerdotes consideran matarlo también.
+Después de la señal de #juan_11, Eleazar no es un personaje pasivo. Muchos yehudim vienen no solo por Yehoshua, sino para ver al que fue despertado de los muertos. Por eso los jefes de los sacerdotes consideran matarlo también.
 
 La clase lee esta decisión como evidencia de una oposición que ya no busca la verdad de la señal, sino apagar su testimonio. Eleazar vivo hace visible la obra de Yehoshua; por eso su vida se vuelve incómoda para quienes quieren controlar el relato.
 
@@ -713,9 +708,9 @@ La clase lee esta decisión como evidencia de una oposición que ya no busca la 
 
 La multitud toma ramas de palmera y aclama "Hoshana". TTH explica que Hoshana contrae הושיעה נא: "salva, por favor". La clase insiste en que esto no era una palabra griega comprensible por sí misma, sino un hebraísmo conservado en la aclamación.
 
-La cita remite a #tehilim_118_25-26. Allí la súplica va dirigida a יהוה, y la bendición cae sobre el que viene en/con el nombre de יהוה. La clase propone leer "venir con el nombre" como traer el nombre, no solo actuar por delegación externa. Esta formulación es importante porque enlaza con el tema mayor de Yojanán: Yehoshua no viene como un agente separado que compite con Elohim, sino como la manifestación del nombre y la obra de יהוה en medio del pueblo.
+La cita remite a #salmos_118_25-26. Allí la súplica va dirigida a יהוה, y la bendición cae sobre el que viene en/con el nombre de יהוה. La clase propone leer "venir con el nombre" como traer el nombre, no solo actuar por delegación externa. Esta formulación es importante porque enlaza con el tema mayor de Yojanán: Yehoshua no viene como un agente separado que compite con Elohim, sino como la manifestación del nombre y la obra de יהוה en medio del pueblo.
 
-Por eso la frase "el Rey de Israel" no queda aislada. #tzefaniah_3_15 dice: "מלך ישראל יהוה בקרבך" — el Rey de Israel, יהוה, en medio de ti. La multitud no desarrolla una cristología técnica, pero su clamor, leído con la Escritura, pone sobre la mesa una identificación fuerte.
+Por eso la frase "el Rey de Israel" no queda aislada. #sofonias_3_15 dice: "מלך ישראל יהוה בקרבך" — el Rey de Israel, יהוה, en medio de ti. La multitud no desarrolla una cristología técnica, pero su clamor, leído con la Escritura, pone sobre la mesa una identificación fuerte.
 
 #### Palmas, ramas y la entrada
 
@@ -723,11 +718,11 @@ Yojanán especifica que las ramas eran de palmera. La clase observa que los sin�
 
 El expositor conecta las palmeras datileras con el entorno del monte de los Olivos y con símbolos de Judea en monedas romanas. Esa afirmación histórica queda pendiente de verificación, pero la función narrativa es clara: la multitud sale a recibir al rey con señales visibles de aclamación.
 
-También se aclara el orden narrativo: en los sinópticos, Yehoshua manda buscar el pollino antes de la aclamación; en Yojanán, el relato puede parecer que lo encuentra después. La clase lo resuelve leyendo #iojanan_12_14 como una condensación narrativa: Yehoshua ya viene entrando montado cuando la multitud aclama.
+También se aclara el orden narrativo: en los sinópticos, Yehoshua manda buscar el pollino antes de la aclamación; en Yojanán, el relato puede parecer que lo encuentra después. La clase lo resuelve leyendo #juan_12_14 como una condensación narrativa: Yehoshua ya viene entrando montado cuando la multitud aclama.
 
 #### El rey humillado en un pollino
 
-Zacarías 9:9 es la clave explícita de #iojanan_12_14-15. El rey viene justo, con salvación, עני y montado en asno. La clase insiste en que el cumplimiento no consiste en el acto trivial de subirse a un animal, sino en lo que esa señal comunica.
+Zacarías 9:9 es la clave explícita de #juan_12_14-15. El rey viene justo, con salvación, עני y montado en asno. La clase insiste en que el cumplimiento no consiste en el acto trivial de subirse a un animal, sino en lo que esa señal comunica.
 
 Según la lectura presentada, un Mesías que viene en un asno muestra lentitud, humillación y juicio sobre el pecado del pueblo. Se contrasta con la imagen de Daniel 7, donde el Hijo del Hombre viene con las nubes del cielo. La clase menciona una discusión rabínica sobre si el Mesías viene con nubes o sobre un asno: rápido si Israel es digno, lento si no lo es. La referencia exacta queda pendiente.
 
@@ -741,27 +736,27 @@ El pollino no montado por nadie refuerza la señal. No se trata de una entrada m
 | Talmud Bavli                       | b. Sanhedrin 96a/98a (mencionado en clase) | Marco rabínico de la llegada rápida/lenta del Mesías                       | Pendiente de verificar |
 | Talmud / literatura rabínica       | Referencia no localizada                   | Preparación del nardo en aceite, llamado en la clase `piliaton`/`piliatun` | Pendiente de verificar |
 | Midrash / lectura de Shir haShirim | Referencia no localizada                   | Nardo como aroma que cubre el pecado del becerro                           | Pendiente de verificar |
-| Crítica textual                    | Familia occidental, #iojanan_12_8          | Posible discusión de variante o añadidura                                  | Pendiente de verificar |
+| Crítica textual                    | Familia occidental, #juan_12_8          | Posible discusión de variante o añadidura                                  | Pendiente de verificar |
 | Historia / numismática             | Monedas romanas de Judea con palmeras      | Contexto de las ramas de palmera                                           | Pendiente de verificar |
 | Calendario                         | 14 de Nisán en miércoles, años 27/30       | Marco cronológico de muerte de Yeshúa                                      | Pendiente de verificar |
 
 #### Conexiones principales
 
-- #iojanan_11_25-27 con #iojanan_12_9-11: Eleazar vivo confirma la obra de vida y provoca oposición.
-- #iojanan_12_3 con #iojanan_12_7: la unción con nardo se entiende desde la sepultura.
-- #iojanan_12_8 con #zejariah_9_9: "los necesitados/pobres" abre la conexión con el rey עני.
-- #iojanan_12_13 con #tehilim_118_25-26: Hoshana es súplica de salvación a יהוה.
-- #iojanan_12_13 con #tzefaniah_3_15: "Rey de Israel" queda ligado a יהוה en medio del pueblo.
-- #iojanan_12_14-15 con #zejariah_9_9: el pollino revela el carácter humillado de la llegada mesiánica.
-- #zejariah_9_9 con #ieshaiahu_53_4: la humillación del rey se lee junto al Siervo que carga dolores.
-- #shir_hashirim_1_3 y #shir_hashirim_4_13-15 con #iojanan_12_3: el campo aromático del nardo sostiene la lectura simbólica de la clase.
+- #juan_11_25-27 con #juan_12_9-11: Eleazar vivo confirma la obra de vida y provoca oposición.
+- #juan_12_3 con #juan_12_7: la unción con nardo se entiende desde la sepultura.
+- #juan_12_8 con #zacarias_9_9: "los necesitados/pobres" abre la conexión con el rey עני.
+- #juan_12_13 con #salmos_118_25-26: Hoshana es súplica de salvación a יהוה.
+- #juan_12_13 con #sofonias_3_15: "Rey de Israel" queda ligado a יהוה en medio del pueblo.
+- #juan_12_14-15 con #zacarias_9_9: el pollino revela el carácter humillado de la llegada mesiánica.
+- #zacarias_9_9 con #isaias_53_4: la humillación del rey se lee junto al Siervo que carga dolores.
+- #cantares_1_3 y #cantares_4_13-15 con #juan_12_3: el campo aromático del nardo sostiene la lectura simbólica de la clase.
 
 #### Pendiente de verificar
 
-- [ ] Extraer #iojanan_12_1 desde una fuente local compatible o revisar por qué falta en TTH local.
+- [ ] Extraer #juan_12_1 desde una fuente local compatible o revisar por qué falta en TTH local.
 - [ ] Verificar la explicación talmúdica sobre la preparación del aceite de nardo y el nombre `piliaton`/`piliatun`.
 - [ ] Localizar la fuente exacta que interpreta el nardo de Shir haShirim en relación con el becerro de oro.
-- [ ] Cotejar si #iojanan_12_8 tiene discusión textual relevante en la familia occidental y cómo debe formularse.
+- [ ] Cotejar si #juan_12_8 tiene discusión textual relevante en la familia occidental y cómo debe formularse.
 - [ ] Verificar la referencia rabínica exacta sobre Daniel 7 y Zacarías 9 en b. Sanhedrin.
 - [ ] Revisar la cronología 14 de Nisán-miércoles y los años posibles 27/30 antes de usarla como tesis independiente.
 - [ ] Cotejar la afirmación sobre palmeras datileras en monedas romanas de Judea.
@@ -769,7 +764,7 @@ El pollino no montado por nadie refuerza la señal. No se trata de una entrada m
 
 #### Conclusión
 
-Yojanán 12 presenta a Yehoshua avanzando hacia Ierushaláim con señales que la Escritura ya había cargado de sentido: aroma, sepultura, pobre/humillado, salvación, nombre de יהוה, Rey de Israel y pollino. La clase une esas señales para mostrar que la entrada mesiánica no es espectáculo religioso, sino anuncio del sacrificio.
+Yojanán 12 presenta a Yehoshua avanzando hacia Yerushaláim con señales que la Escritura ya había cargado de sentido: aroma, sepultura, pobre/humillado, salvación, nombre de יהוה, Rey de Israel y pollino. La clase une esas señales para mostrar que la entrada mesiánica no es espectáculo religioso, sino anuncio del sacrificio.
 
 El rey entra aclamado, pero entra humillado. El perfume llena la casa antes de que la corrupción de la muerte y el pecado caigan sobre él. La multitud clama "Hoshana", y sin comprender todo el peso de lo que dice, pone en boca pública la súplica que define la escena: יהוה salva ahora en el que viene con su nombre.
 
@@ -784,14 +779,14 @@ El rey entra aclamado, pero entra humillado. El perfume llena la casa antes de q
 
 ##### Tesis
 
-La clase lee #iojanan_12_16 como una clave retrospectiva: los discípulos no reconocieron al principio el sentido completo de la entrada de Yehoshua y de lo escrito sobre él, pero lo recordaron cuando Yehoshua fue glorificado. El énfasis del expositor es que "gloria" no debe reducirse a brillo, fama o esplendor visual; en el trasfondo hebreo de **כבד / כבוד**, glorificar es hacer notorio el peso de alguien, reconocer que todo gira en torno a él.
+La clase lee #juan_12_16 como una clave retrospectiva: los discípulos no reconocieron al principio el sentido completo de la entrada de Yehoshua y de lo escrito sobre él, pero lo recordaron cuando Yehoshua fue glorificado. El énfasis del expositor es que "gloria" no debe reducirse a brillo, fama o esplendor visual; en el trasfondo hebreo de **כבד / כבוד**, glorificar es hacer notorio el peso de alguien, reconocer que todo gira en torno a él.
 
 Aplicado a Yehoshua, ese peso se ve cuando termina la obra escrita, pasa por la muerte, resucita y demuestra que no puede ser retenido por ella. La glorificación no es un adorno posterior a la cruz: es el reconocimiento de que el peso de la palabra de יהוה cayó sobre Yehoshua y que, al cumplirla, quedó demostrado que todo el peso, autoridad y honra pertenecen a él.
 
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota sintetiza la clase y no reproduce el video palabra por palabra.
-- Pasaje base: #iojanan_12_16-17, con conexiones hacia #iojanan_17_4-5, #iojanan_3_35, Shemot 14 y varios usos de כבד en Bereshit.
+- Pasaje base: #juan_12_16-17, con conexiones hacia #juan_17_4-5, #juan_3_35, Shemot 14 y varios usos de כבד en Bereshit.
 - El foco es lexical y teológico: qué significa "glorificado" dentro del razonamiento semítico de la clase.
 - Las afirmaciones técnicas sobre conjugaciones hebreas, equivalencias griego-hebreo y citas rabínicas quedan como material útil, pero pendiente de verificación especializada.
 
@@ -799,27 +794,27 @@ Aplicado a Yehoshua, ese peso se ve cuando termina la obra escrita, pasa por la 
 
 | Referencia       | Texto local                                                                                                                                                                                                      | Función en la clase                                                                                    |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| #iojanan_12_16   | TTH: Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa, entonces recordaron que acerca de Él habían sido escritas, y que se las habían hecho, estas cosas. | Verso pivote: solo después de la glorificación se reconoce el peso de lo escrito y hecho sobre Yeshúa. |
-| #iojanan_12_17   | TTH: Y daba testimonio la gente que estaba con Él de cuando llamó a Eleazar del sepulcro y lo despertó de los muertos.                                                                                           | La resurrección de Eleazar funciona como testimonio previo del peso de Yeshúa sobre la muerte.         |
-| #iojanan_17_4    | TTH: Yo te he glorificado sobre la tierra, la obra que me diste para hacer he completado.                                                                                                                        | Glorificar se conecta con terminar la obra recibida.                                                   |
-| #iojanan_17_5    | TTH: Y ahora, glorifícame Tú, Padre mío, contigo, con la gloria que tenía contigo desde entonces, desde el principio, desde lo anterior, antes de que se fundamentara el olam.                                   | La clase lo lee como retomar el peso que ya era suyo antes de la humillación.                          |
-| #iojanan_3_35    | TTH: El Padre ama al Hijo, y todo dio en su mano.                                                                                                                                                                | Todo queda en la mano del Hijo; no hay un peso mayor separado de él.                                   |
-| #matityahu_28_18 | TTH: A Mí se me ha dado todo poder en los cielos y en la tierra.                                                                                                                                                 | Refuerza que toda autoridad se concentra en Yeshúa.                                                    |
+| #juan_12_16   | TTH: Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa, entonces recordaron que acerca de Él habían sido escritas, y que se las habían hecho, estas cosas. | Verso pivote: solo después de la glorificación se reconoce el peso de lo escrito y hecho sobre Yeshúa. |
+| #juan_12_17   | TTH: Y daba testimonio la gente que estaba con Él de cuando llamó a Eleazar del sepulcro y lo despertó de los muertos.                                                                                           | La resurrección de Eleazar funciona como testimonio previo del peso de Yeshúa sobre la muerte.         |
+| #juan_17_4    | TTH: Yo te he glorificado sobre la tierra, la obra que me diste para hacer he completado.                                                                                                                        | Glorificar se conecta con terminar la obra recibida.                                                   |
+| #juan_17_5    | TTH: Y ahora, glorifícame Tú, Padre mío, contigo, con la gloria que tenía contigo desde entonces, desde el principio, desde lo anterior, antes de que se fundamentara el olam.                                   | La clase lo lee como retomar el peso que ya era suyo antes de la humillación.                          |
+| #juan_3_35    | TTH: El Padre ama al Hijo, y todo dio en su mano.                                                                                                                                                                | Todo queda en la mano del Hijo; no hay un peso mayor separado de él.                                   |
+| #mateo_28_18 | TTH: A Mí se me ha dado todo poder en los cielos y en la tierra.                                                                                                                                                 | Refuerza que toda autoridad se concentra en Yeshúa.                                                    |
 | #romanos_11_36   | TTH: Porque de Él, por Él, y hacia Él es todo, y para Él es la gloria por los tiempos. Amén.                                                                                                                     | Resume la lógica: de él, por él y hacia él son todas las cosas.                                        |
 
 #### Ejemplos de כבד en el Tanaj
 
 | Referencia       | Hebreo (sin nikud)                                                                                                                       | Observación                                                                                                                  |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| #bereshit_12_10  | ויהי רעב בארץ וירד אברם מצרימה לגור שם כי כבד הרעב בארץ                                                                           | El hambre es "pesada": no solo grande, sino capaz de mover a Avram hacia Mitzraim.                                           |
-| #bereshit_13_2   | ואברם כבד מאד במקנה בכסף ובזהב                                                                                                      | Avram es "pesado" en ganado, plata y oro: posee influencia, peso social y capacidad de atraer movimiento.                    |
-| #bereshit_18_20  | ויאמר יהוה זעקת סדם ועמרה כי רבה וחטאתם כי כבדה מאד                                                                                  | El pecado de Sedom es pesado: organiza la vida de la ciudad alrededor de su propia corrupción.                               |
-| #bereshit_48_10  | ועיני ישראל כבדו מזקן לא יוכל לראות                                                                                                   | Los ojos de Israel se hicieron pesados por la vejez: el peso de la edad arrastra la capacidad de ver.                        |
-| #bereshit_50_10  | ויבאו עד גרן האטד אשר בעבר הירדן ויספדו שם מספד גדול וכבד מאד                                                                       | El lamento es grande y pesado: un duelo tan intenso que arrastra a los presentes hacia el llanto.                            |
-| #shemot_14_4     | וחזקתי את לב פרעה ורדף אחריהם ואכבדה בפרעה ובכל חילו וידעו מצרים כי אני יהוה ויעשו כן                                          | יהוה hará notorio su peso en Paroh y su ejército, para que Mitzraim conozca quién es יהוה.                                   |
-| #shemot_14_17    | ואני הנני מחזק את לב מצרים ויבאו אחריהם ואכבדה בפרעה ובכל חילו ברכבו ובפרשיו                                               | Se repite la misma idea: el peso de יהוה será visible en carros, jinetes y ejército.                                         |
-| #shemot_14_18    | וידעו מצרים כי אני יהוה בהכבדי בפרעה ברכבו ובפרשיו                                                                              | El reconocimiento del peso produce conocimiento: Mitzraim sabrá por experiencia que él es יהוה.                              |
-| #zekharyah_12_10 | ושפכתי על בית דויד ועל יושב ירושלם רוח חן ותחנונים והביטו אלי את אשר דקרו וספדו עליו כמספד על היחיד והמר עליו כהמר על הבכור | La clase lo usa para afirmar que el traspasado no es un tercero separado de יהוה, sino la manifestación del mismo que habla. |
+| #genesis_12_10  | ויהי רעב בארץ וירד אברם מצרימה לגור שם כי כבד הרעב בארץ                                                                           | El hambre es "pesada": no solo grande, sino capaz de mover a Avram hacia Mitzraim.                                           |
+| #genesis_13_2   | ואברם כבד מאד במקנה בכסף ובזהב                                                                                                      | Avram es "pesado" en ganado, plata y oro: posee influencia, peso social y capacidad de atraer movimiento.                    |
+| #genesis_18_20  | ויאמר יהוה זעקת סדם ועמרה כי רבה וחטאתם כי כבדה מאד                                                                                  | El pecado de Sedom es pesado: organiza la vida de la ciudad alrededor de su propia corrupción.                               |
+| #genesis_48_10  | ועיני ישראל כבדו מזקן לא יוכל לראות                                                                                                   | Los ojos de Israel se hicieron pesados por la vejez: el peso de la edad arrastra la capacidad de ver.                        |
+| #genesis_50_10  | ויבאו עד גרן האטד אשר בעבר הירדן ויספדו שם מספד גדול וכבד מאד                                                                       | El lamento es grande y pesado: un duelo tan intenso que arrastra a los presentes hacia el llanto.                            |
+| #exodo_14_4     | וחזקתי את לב פרעה ורדף אחריהם ואכבדה בפרעה ובכל חילו וידעו מצרים כי אני יהוה ויעשו כן                                          | יהוה hará notorio su peso en Paroh y su ejército, para que Mitzraim conozca quién es יהוה.                                   |
+| #exodo_14_17    | ואני הנני מחזק את לב מצרים ויבאו אחריהם ואכבדה בפרעה ובכל חילו ברכבו ובפרשיו                                               | Se repite la misma idea: el peso de יהוה será visible en carros, jinetes y ejército.                                         |
+| #exodo_14_18    | וידעו מצרים כי אני יהוה בהכבדי בפרעה ברכבו ובפרשיו                                                                              | El reconocimiento del peso produce conocimiento: Mitzraim sabrá por experiencia que él es יהוה.                              |
+| #zacarias_12_10 | ושפכתי על בית דויד ועל יושב ירושלם רוח חן ותחנונים והביטו אלי את אשר דקרו וספדו עליו כמספד על היחיד והמר עליו כהמר על הבכור | La clase lo usa para afirmar que el traspasado no es un tercero separado de יהוה, sino la manifestación del mismo que habla. |
 
 #### Hoja léxica
 
@@ -829,15 +824,15 @@ Aplicado a Yehoshua, ese peso se ve cuando termina la obra escrita, pasa por la 
 | **(כבוד)**   | kavod           | gloria, honra, peso reconocido           | כבד         | No reducir a brillo visual; en la nota funciona como peso manifestado y reconocido.                                                 |
 | **(δοξάζω)** | doxazo          | glorificar                               | δοξ-        | En Yojanán se lee desde el trasfondo semítico de kavod; equivalencia exacta pendiente de cotejo.                                    |
 | **(δόξα)**   | doxa            | gloria                                   | δοξ-        | La clase lo conecta con כבוד; conviene verificar uso griego de Yojanán y LXX antes de fijar una equivalencia técnica.               |
-| **(אכבדה)**  | ikavdah         | seré glorificado / haré notorio mi peso  | כבד         | Forma de #shemot_14_4 y #shemot_14_17; la explicación de binyan y vocalización queda pendiente.                                     |
+| **(אכבדה)**  | ikavdah         | seré glorificado / haré notorio mi peso  | כבד         | Forma de #exodo_14_4 y #exodo_14_17; la explicación de binyan y vocalización queda pendiente.                                     |
 | **(חזק)**    | chazaq          | fortalecer, hacer fuerza                 | חזק         | La clase rechaza leer Shemot 14 solo como "endurecer" el corazón; propone "hacer fuerza/pulsar". Pendiente de verificación técnica. |
 | **(דבר)**    | davar           | palabra, asunto, obra comprometida       | דבר         | El peso de la palabra cae sobre Yeshúa porque él mismo se ató a lo que prometió.                                                    |
 
 #### Desarrollo del argumento
 
-La clase inicia con una recapitulación de #iojanan_12_14-15 y la entrada de Yehoshua montado sobre el pollino. El punto no es que los discípulos estuvieran cazando profecías para acomodar una historia, sino que leyeron los hechos con claridad después. Yojanán escribe en retrospectiva y explica que ciertas cosas no fueron reconocidas al principio.
+La clase inicia con una recapitulación de #juan_12_14-15 y la entrada de Yehoshua montado sobre el pollino. El punto no es que los discípulos estuvieran cazando profecías para acomodar una historia, sino que leyeron los hechos con claridad después. Yojanán escribe en retrospectiva y explica que ciertas cosas no fueron reconocidas al principio.
 
-La palabra decisiva es "glorificado". El expositor detiene el avance del capítulo para mostrar que, desde #iojanan_12_16 en adelante, la secuencia de Yojanán girará repetidamente alrededor de la gloria. Por eso antes de seguir con el testimonio de la multitud en #iojanan_12_17, la clase reconstruye el sentido de כבד desde Bereshit y Shemot.
+La palabra decisiva es "glorificado". El expositor detiene el avance del capítulo para mostrar que, desde #juan_12_16 en adelante, la secuencia de Yojanán girará repetidamente alrededor de la gloria. Por eso antes de seguir con el testimonio de la multitud en #juan_12_17, la clase reconstruye el sentido de כבד desde Bereshit y Shemot.
 
 #### Peso como fuerza de atracción
 
@@ -849,11 +844,11 @@ La definición funcional de la clase es esta: pesado es aquello que tiene sufici
 
 Shemot 14 funciona como puente hacia Yojanán. יהוה dice que hará notorio su peso en Paroh, en su ejército, en sus carros y en sus jinetes. El resultado no es solo victoria militar; el texto dice que Mitzraim conocerá que él es יהוה. La clase une dos ideas: glorificación y conocimiento. Ser glorificado es ser reconocido por el peso que se manifiesta en la obra.
 
-Por eso #iojanan_12_16 no se lee como una frase devocional abstracta. "Cuando fue glorificado Yehoshua" significa: cuando se hizo notorio su peso, cuando quedó reconocido quién era él y alrededor de quién giraban las Escrituras, las señales y los acontecimientos.
+Por eso #juan_12_16 no se lee como una frase devocional abstracta. "Cuando fue glorificado Yehoshua" significa: cuando se hizo notorio su peso, cuando quedó reconocido quién era él y alrededor de quién giraban las Escrituras, las señales y los acontecimientos.
 
 #### La obra terminada y el peso de la palabra
 
-#iojanan_17_4 da la pista interna: Yehoshua glorifica en la tierra al completar la obra que recibió. La clase conecta esto con la palabra de יהוה como promesa jurada. Si Elohim juró por sí mismo, como recuerda #ivrim_6_13, entonces su palabra no queda fuera de él: queda respaldada por su propio cuerpo y por su propia fidelidad.
+#juan_17_4 da la pista interna: Yehoshua glorifica en la tierra al completar la obra que recibió. La clase conecta esto con la palabra de יהוה como promesa jurada. Si Elohim juró por sí mismo, como recuerda #hebreos_6_13, entonces su palabra no queda fuera de él: queda respaldada por su propio cuerpo y por su propia fidelidad.
 
 Desde esa línea, los sacrificios, los cuerpos de animales, el pan partido y el velo de la carne son leídos como pedagogía corporal de la promesa. La herencia se hace efectiva por la muerte del testador; Yehoshua pasa por la muerte para cumplir lo que su propia palabra había prometido. La clase evita decir que Elohim dejó de ser inmortal; lo formula como paso por la muerte, silencio y derramamiento de la vida humana asumida.
 
@@ -861,25 +856,25 @@ Así, el peso de la palabra cae sobre Yehoshua. No puede escapar de lo prometido
 
 #### El peso de Yehoshua
 
-La pregunta doctrinal que abre la clase es: si todo gira en torno a Yehoshua, ¿puede haber otro centro de peso separado de él? El expositor responde que no. Si Yehoshua recibe toda autoridad (#matityahu_28_18), si todo fue dado en su mano (#iojanan_3_35), y si de él, por él y hacia él son todas las cosas (#romanos_11_36), entonces su gloria no es secundaria.
+La pregunta doctrinal que abre la clase es: si todo gira en torno a Yehoshua, ¿puede haber otro centro de peso separado de él? El expositor responde que no. Si Yehoshua recibe toda autoridad (#mateo_28_18), si todo fue dado en su mano (#juan_3_35), y si de él, por él y hacia él son todas las cosas (#romanos_11_36), entonces su gloria no es secundaria.
 
 La clase aplica esto contra lecturas que hacen de Yehoshua un derivado, un segundo ser menor o una criatura exaltada. El argumento no empieza llamándolo solamente maestro, rabino o sabio; empieza confesando que en él está el único Elohim cumpliendo su propia palabra. Por eso la resurrección no es solo una señal poderosa, sino la demostración de una vida indestructible que la muerte no pudo retener.
 
 #### Zekharyah 12:10 y el traspasado
 
-La mención de #zekharyah_12_10 sirve para sostener que el que habla como יהוה es también el traspasado. La clase lo usa contra una separación occidental entre "Padre" e "Hijo" como si fueran dos centros de gloria. En ese marco, mirar al traspasado no es mirar a un delegado desconectado, sino reconocer el peso de יהוה manifestado corporalmente en Yehoshua.
+La mención de #zacarias_12_10 sirve para sostener que el que habla como יהוה es también el traspasado. La clase lo usa contra una separación occidental entre "Padre" e "Hijo" como si fueran dos centros de gloria. En ese marco, mirar al traspasado no es mirar a un delegado desconectado, sino reconocer el peso de יהוה manifestado corporalmente en Yehoshua.
 
 Esta línea debe mantenerse con precisión: el texto de Zekharyah requiere análisis cuidadoso, pero en la clase funciona como testimonio de que la herida del Mesías no puede separarse de la identidad del que habla como יהוה.
 
 #### Eleazar como testimonio inmediato
 
-Después de explicar el peso de la glorificación, la clase vuelve a #iojanan_12_17. La multitud daba testimonio porque había visto a Yehoshua llamar a Eleazar del sepulcro y levantarlo de entre los muertos. Ese testimonio prepara el reconocimiento posterior: quien llama a un muerto y lo levanta ya está mostrando un peso que no corresponde a un maestro común.
+Después de explicar el peso de la glorificación, la clase vuelve a #juan_12_17. La multitud daba testimonio porque había visto a Yehoshua llamar a Eleazar del sepulcro y levantarlo de entre los muertos. Ese testimonio prepara el reconocimiento posterior: quien llama a un muerto y lo levanta ya está mostrando un peso que no corresponde a un maestro común.
 
 La resurrección de Eleazar no agota la gloria, pero anticipa su dirección. La obra mayor será la muerte y resurrección de Yehoshua mismo. Allí se hace notorio que él no solamente puede llamar a otro fuera del sepulcro, sino tomar de nuevo su propia vida.
 
 #### Conexiones principales
 
-- [[yojanan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]: antecedente directo de #iojanan_12_17 y del testimonio sobre Eleazar.
+- [[yojanan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]: antecedente directo de #juan_12_17 y del testimonio sobre Eleazar.
 - [[yojanan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible]]: conecta "nadie me quita la vida" con la demostración de peso en la resurrección.
 - [[yojanan_oracion_dos_tronos_emunah|Yojanán: oración, dos tronos y emunah]]: desarrolla el acceso, el trono y el cuerpo como lugar de cumplimiento.
 - [[yojanan_conceptos_deidad|Yojanán: conceptos de deidad]]: marco general para no leer Abba/Hijo con categorías modernas separadas.
@@ -890,8 +885,8 @@ La resurrección de Eleazar no agota la gloria, pero anticipa su dirección. La 
 - [ ] Cotejar con gramáticas hebreas la explicación exacta de כבד como verbo estativo y sus formas en Bereshit y Shemot.
 - [ ] Verificar la relación entre δόξα/δοξάζω y כבודכבד en la LXX y en el uso de Yojanán.
 - [ ] Localizar y cotejar la afirmación rabínica mencionada en la clase sobre la creación orientada por amor/redención.
-- [ ] Añadir una comparación local de #ivrim_6_13 cuando exista TTH/Ivrim en el corpus o se decida una fuente alternativa.
-- [ ] Revisar #zekharyah_12_10 en hebreo, LXX y recepción mesiánica antes de convertirlo en argumento técnico cerrado.
+- [ ] Añadir una comparación local de #hebreos_6_13 cuando exista TTH/Ivrim en el corpus o se decida una fuente alternativa.
+- [ ] Revisar #zacarias_12_10 en hebreo, LXX y recepción mesiánica antes de convertirlo en argumento técnico cerrado.
 
 #### Conclusión
 
@@ -917,9 +912,9 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota sintetiza el argumento de la clase y no reproduce el video palabra por palabra.
-- Pasaje base: #iojanan_12_20-28, con énfasis en #iojanan_12_23-26.
-- Los textos de Yojanán se toman de TTH y Delitzsch local. Tehilim e Ieshaiahu combinan OE/TTH local. Ivrim, Filipim, Yojanán Alef e Iaakov se toman de Delitzsch local cuando TTH no está disponible.
-- Algunas afirmaciones léxicas de la clase, especialmente sobre el verbo griego en #iojanan_12_26 y la alusión exacta de #iojanan_12_27 a Tehilim 6, quedan pendientes de verificación técnica.
+- Pasaje base: #juan_12_20-28, con énfasis en #juan_12_23-26.
+- Los textos de Yojanán se toman de TTH y Delitzsch local. Tehilim e Yeshayahu combinan OE/TTH local. Ivrim, Filipim, Yojanán Alef e Yaakov se toman de Delitzsch local cuando TTH no está disponible.
+- Algunas afirmaciones léxicas de la clase, especialmente sobre el verbo griego en #juan_12_26 y la alusión exacta de #juan_12_27 a Tehilim 6, quedan pendientes de verificación técnica.
 
 #### Hoja de comparación
 
@@ -927,29 +922,29 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 
 | Referencia     | Hebreo (Delitzsch, sin nikud)                           | TTH (ES)                                                                                              | Observación                                              |
 | -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------- |
-| #iojanan_12_20 | ובתוך עולי הרגל להשתחות נמצאו גם־יונים                  | Y había unos hombres griegos que habían subido a postrarse en la fiesta.                              | Griegos o helenos en contexto de peregrinación.          |
-| #iojanan_12_21 | והם באו אל־פילפוס... חפצים אנחנו לראות את־ישוע          | ...Amo mío, quisiéramos ver a Yeshúa.                                                                 | Deseo de ver al Mesías.                                  |
-| #iojanan_12_22 | ויבא פילפוס ויגד לאנדרי...                              | Vino Filipos y le dijo a Andreas...                                                                   | La petición llega a Yeshúa por los discípulos.           |
-| #iojanan_12_23 | ויען אתם ישוע... הנה בא המועד ובן־האדם נאדר יהיה בכבודו | Ha venido la hora en que será glorificado el Ben Ha'Adam.                                             | La respuesta interpreta la visita como señal de la hora. |
-| #iojanan_12_24 | אמן אמן אני אמר לכם גרגר דגן אם לא־יפל ומת...           | Si el grano de trigo no cae a tierra y muere, quedará solo; pero si muere, hará mucho fruto.          | Muerte necesaria para fruto amplio.                      |
-| #iojanan_12_25 | האהב את־נפשו תכרת־לו והשנא את־נפשו בעולם הזה...         | El que ama su vida, la perderá; y el que aborrece su vida en este olam, para vida olam la preservará. | No aferrarse a la נפש ni al honor del olam presente.     |
-| #iojanan_12_26 | מי־החפץ לשרתני ילך בעקבותי... אתו יכבד האב              | Si un hombre me sirve, vendrá detrás de Mí... lo honrará el Padre.                                    | Servicio implica seguimiento; Abba honra al siervo.      |
-| #iojanan_12_27 | עתה נבהלה נפשי... אך על־כן באתי למועד הזה               | Ahora está muy turbado mi ser... por esto he venido a esta hora.                                      | La hora no se evita; para eso vino.                      |
-| #iojanan_12_28 | אבי גדל כבוד שמך... גדלתי כבודו וגם־אגדלנו עוד          | Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo.                        | Conecta con [[../temas/bat_kol                           | Bat Kol]]. |
+| #juan_12_20 | ובתוך עולי הרגל להשתחות נמצאו גם־יונים                  | Y había unos hombres griegos que habían subido a postrarse en la fiesta.                              | Griegos o helenos en contexto de peregrinación.          |
+| #juan_12_21 | והם באו אל־פילפוס... חפצים אנחנו לראות את־ישוע          | ...Amo mío, quisiéramos ver a Yeshúa.                                                                 | Deseo de ver al Mesías.                                  |
+| #juan_12_22 | ויבא פילפוס ויגד לאנדרי...                              | Vino Filipos y le dijo a Andreas...                                                                   | La petición llega a Yeshúa por los discípulos.           |
+| #juan_12_23 | ויען אתם ישוע... הנה בא המועד ובן־האדם נאדר יהיה בכבודו | Ha venido la hora en que será glorificado el Ben Ha'Adam.                                             | La respuesta interpreta la visita como señal de la hora. |
+| #juan_12_24 | אמן אמן אני אמר לכם גרגר דגן אם לא־יפל ומת...           | Si el grano de trigo no cae a tierra y muere, quedará solo; pero si muere, hará mucho fruto.          | Muerte necesaria para fruto amplio.                      |
+| #juan_12_25 | האהב את־נפשו תכרת־לו והשנא את־נפשו בעולם הזה...         | El que ama su vida, la perderá; y el que aborrece su vida en este olam, para vida olam la preservará. | No aferrarse a la נפש ni al honor del olam presente.     |
+| #juan_12_26 | מי־החפץ לשרתני ילך בעקבותי... אתו יכבד האב              | Si un hombre me sirve, vendrá detrás de Mí... lo honrará el Padre.                                    | Servicio implica seguimiento; Abba honra al siervo.      |
+| #juan_12_27 | עתה נבהלה נפשי... אך על־כן באתי למועד הזה               | Ahora está muy turbado mi ser... por esto he venido a esta hora.                                      | La hora no se evita; para eso vino.                      |
+| #juan_12_28 | אבי גדל כבוד שמך... גדלתי כבודו וגם־אגדלנו עוד          | Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo.                        | Conecta con [[../temas/bat_kol                           | Bat Kol]]. |
 
 ##### Textos de apoyo
 
 | Referencia         | Texto local                                                                                                                   | Función en la clase                                                      |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #tehilim_8_6       | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו / "Lo disminuirás un poco menos que los Elohim, y gloria y esplendor le coronarás" | Base para leer disminución, כבוד y הדר.                                  |
-| #tehilim_8_7       | תמשילהו במעשי ידיך כל שתה תחת רגליו                                                                                       | Todo bajo sus pies; dominio del Ben HaAdam.                              |
-| #tehilim_8_9       | "¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra!"                                                          | El Nombre en toda la tierra conecta con #iojanan_12_28.                  |
-| #ieshaiahu_49_6    | ונתתיך לאור גוים להיות ישועתי עד קצה הארץ                                                                               | Luz de las naciones y salvación hasta el extremo de la tierra.           |
-| #ivrim_2_9         | אבל ישוע המחסר מעט ממלאכים אותו ראינו מעטר בכבוד והדר...                                                                      | Ivrim aplica Tehilim 8 a Yeshúa, coronado por el padecimiento de muerte. |
-| #filipim_2_7-9     | כי אם־הפשיט את־עצמו... על־כן הגביהו האלהים מאד                                                                                | Despojo, humillación, muerte y exaltación.                               |
-| #ivrim_12_2        | אשר בעד השמחה השמורה לו קבל את־הצלוב ויבז החרפה...                                                                            | Soportó el madero por el gozo puesto delante de él.                      |
-| #iojanan_alef_2_16 | חשק הבשר ותאות העינים וגאות הנכסים... מן־העולם                                                                                | Deseos del mundo frente a lo que procede de Abba.                        |
-| #iaakov_4_4        | אהבת העולם איבת אלהים היא                                                                                                     | Amistad con el mundo como enemistad contra Elohim.                       |
+| #salmos_8_6       | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו / "Lo disminuirás un poco menos que los Elohim, y gloria y esplendor le coronarás" | Base para leer disminución, כבוד y הדר.                                  |
+| #salmos_8_7       | תמשילהו במעשי ידיך כל שתה תחת רגליו                                                                                       | Todo bajo sus pies; dominio del Ben HaAdam.                              |
+| #salmos_8_9       | "¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra!"                                                          | El Nombre en toda la tierra conecta con #juan_12_28.                  |
+| #isaias_49_6    | ונתתיך לאור גוים להיות ישועתי עד קצה הארץ                                                                               | Luz de las naciones y salvación hasta el extremo de la tierra.           |
+| #hebreos_2_9         | אבל ישוע המחסר מעט ממלאכים אותו ראינו מעטר בכבוד והדר...                                                                      | Ivrim aplica Tehilim 8 a Yeshúa, coronado por el padecimiento de muerte. |
+| #filipenses_2_7-9     | כי אם־הפשיט את־עצמו... על־כן הגביהו האלהים מאד                                                                                | Despojo, humillación, muerte y exaltación.                               |
+| #hebreos_12_2        | אשר בעד השמחה השמורה לו קבל את־הצלוב ויבז החרפה...                                                                            | Soportó el madero por el gozo puesto delante de él.                      |
+| #1_juan_2_16 | חשק הבשר ותאות העינים וגאות הנכסים... מן־העולם                                                                                | Deseos del mundo frente a lo que procede de Abba.                        |
+| #santiago_4_4        | אהבת העולם איבת אלהים היא                                                                                                     | Amistad con el mundo como enemistad contra Elohim.                       |
 
 #### Hoja léxica
 
@@ -959,21 +954,21 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 | **(הדר)**              | hadar                  | esplendor, decoro, estado pleno                    | הדר         | En Tehilim 8 se une a כבוד; la clase lo explica como el estado más desarrollado de un ser. |
 | **(בן האדם / בר אנש)** | Ben HaAdam / Bar Enash | título apocalíptico del Mesías                     | Daniel 7    | Conviene no reducirlo a "hijo del hombre" literal; es lenguaje visionario.                 |
 | **(נפש / ψυχή)**       | nefesh / psuche        | vida, ser, pescuezo, existencia biológica expuesta | נפש / ψυχ-  | Equivalencia aproximada en la clase; no reducir a "alma" abstracta.                        |
-| **(יונים)**            | yevanim                | griegos/helenos                                    | יון         | En #iojanan_12_20 aparecen como gentiles atraídos al culto.                                |
+| **(יונים)**            | yevanim                | griegos/helenos                                    | יון         | En #juan_12_20 aparecen como gentiles atraídos al culto.                                |
 | **(אמן אמן)**          | amen amen              | fórmula solemne de autoridad                       | אמן         | La clase lo lee como una palabra que procede de Elohim mismo, mayor que Moshéh.            |
-| **(τιμή / τιμάω)**     | time / timao           | honra otorgada al siervo                           | τιμ-        | La clase afirma un semitismo en #iojanan_12_26; pendiente de cotejo griego.                |
+| **(τιμή / τιμάω)**     | time / timao           | honra otorgada al siervo                           | τιμ-        | La clase afirma un semitismo en #juan_12_26; pendiente de cotejo griego.                |
 
 #### Los griegos y la hora
 
 La petición de los griegos parece sencilla: quieren ver a Yehoshua. Pero la respuesta no es "que vengan" ni "ahora no", sino: ha venido la hora para que sea glorificado el Ben HaAdam. La clase entiende que la presencia de estos gentiles funciona como señal narrativa: el alcance de la obra ya está empujando más allá de los límites convencionales del templo y de Judea.
 
-En esa línea se conecta #ieshaiahu_49_6. No bastaba levantar las tribus de Yaakov y hacer volver a los preservados de Israel; el Siervo sería puesto como luz de las naciones para que la salvación de יהוה llegara hasta el extremo de la tierra. Por eso los griegos que quieren ver a Yehoshua anticipan el fruto que vendrá después de su muerte.
+En esa línea se conecta #isaias_49_6. No bastaba levantar las tribus de Yaakov y hacer volver a los preservados de Israel; el Siervo sería puesto como luz de las naciones para que la salvación de יהוה llegara hasta el extremo de la tierra. Por eso los griegos que quieren ver a Yehoshua anticipan el fruto que vendrá después de su muerte.
 
 #### Ben HaAdam, disminución y corona
 
 La clase vuelve a Tehilim 8 para explicar que el Ben HaAdam aparece en condición disminuida: "lo disminuirás un poco menos que los Elohim" y luego "con כבוד y הדר lo coronarás". Ese patrón permite leer Yojanán 12 no como derrota, sino como trayectoria: disminución, muerte, fruto, exaltación.
 
-Ivrim 2 confirma esa lectura al aplicar Tehilim 8 a Yehoshua: fue disminuido y coronado con כבוד y הדר a causa del padecimiento de muerte. La "glorificación" de #iojanan_12_23 no es fama religiosa inmediata; es la recuperación manifiesta del peso que le corresponde después de haber entrado voluntariamente en la condición más baja posible para Elohim en este mundo.
+Ivrim 2 confirma esa lectura al aplicar Tehilim 8 a Yehoshua: fue disminuido y coronado con כבוד y הדר a causa del padecimiento de muerte. La "glorificación" de #juan_12_23 no es fama religiosa inmediata; es la recuperación manifiesta del peso que le corresponde después de haber entrado voluntariamente en la condición más baja posible para Elohim en este mundo.
 
 #### El grano de trigo
 
@@ -983,7 +978,7 @@ Si el grano no muere, queda solo. Si muere, el fruto incluye a Israel y también
 
 #### Amar menos la propia nefesh
 
-#iojanan_12_25 no se lee como odio suicida ni como desprecio de la vida creada por Elohim. La clase insiste en que "aborrecer" aquí debe entenderse como no darle la mayor importancia a la propia נפש en este olam. La vida biológica, la reputación, la seguridad y el lugar social no pueden ocupar el puesto de la vida olam.
+#juan_12_25 no se lee como odio suicida ni como desprecio de la vida creada por Elohim. La clase insiste en que "aborrecer" aquí debe entenderse como no darle la mayor importancia a la propia נפש en este olam. La vida biológica, la reputación, la seguridad y el lugar social no pueden ocupar el puesto de la vida olam.
 
 El discípulo que se aferra al כבוד liviano del mundo termina perdiendo aquello que intenta guardar. El que ama menos su propia vida en este olam, por causa de la vida olam, la preserva. La muerte del Mesías se vuelve patrón de servicio: morir a las pretensiones del mundo para que las obras de Elohim se vean.
 
@@ -991,7 +986,7 @@ El discípulo que se aferra al כבוד liviano del mundo termina perdiendo aque
 
 "Si alguno me sirve, me seguirá" desplaza la escena de la curiosidad al discipulado. Ver a Yehoshua no es asistir a un espectáculo ni admirar señales desde fuera. Servirlo implica seguirlo en la misma dirección: renunciar al prestigio del mundo y recibir la honra que Abba da.
 
-La clase contrasta dos honras incompatibles. El mundo ofrece כבוד y הדר por vías de competencia, abuso, fama, poder o concesiones morales. Abba honra al siervo que sigue al Mesías. Por eso #iojanan_alef_2_16 y #iaakov_4_4 funcionan como advertencia: los deseos del mundo y la amistad con el mundo no proceden de Abba.
+La clase contrasta dos honras incompatibles. El mundo ofrece כבוד y הדר por vías de competencia, abuso, fama, poder o concesiones morales. Abba honra al siervo que sigue al Mesías. Por eso #1_juan_2_16 y #santiago_4_4 funcionan como advertencia: los deseos del mundo y la amistad con el mundo no proceden de Abba.
 
 #### El mundo y la luz
 
@@ -1001,27 +996,27 @@ Los griegos llegaron atraídos por el culto y por el Elohim de Israel; la respue
 
 #### "Ahora está turbado mi ser"
 
-La clase lee #iojanan_12_27 a la luz de #tehilim_6_4: "mi נפש está turbada mucho; y tú, יהוה, ¿hasta cuándo?". La conexión exacta debe verificarse, pero el punto teológico de la clase es claro: Yehoshua no está improvisando frente a la hora. Sabe que esa hora implica angustia, vergüenza y muerte, pero no pide escapar de aquello para lo cual vino.
+La clase lee #juan_12_27 a la luz de #salmos_6_4: "mi נפש está turbada mucho; y tú, יהוה, ¿hasta cuándo?". La conexión exacta debe verificarse, pero el punto teológico de la clase es claro: Yehoshua no está improvisando frente a la hora. Sabe que esa hora implica angustia, vergüenza y muerte, pero no pide escapar de aquello para lo cual vino.
 
-"¿Qué diré: Abba, sálvame de esta hora?" funciona como pregunta retórica. La Escritura ya había señalado el camino del korban de יהוה. La clase relaciona esto con #ivrim_12_2: por el gozo puesto delante de él, soportó el madero y menospreció la vergüenza.
+"¿Qué diré: Abba, sálvame de esta hora?" funciona como pregunta retórica. La Escritura ya había señalado el camino del korban de יהוה. La clase relaciona esto con #hebreos_12_2: por el gozo puesto delante de él, soportó el madero y menospreció la vergüenza.
 
 #### Conexiones principales
 
-- #iojanan_12_20-23 con #ieshaiahu_49_6: los griegos anuncian el alcance de la luz a las naciones.
-- #iojanan_12_23 con #tehilim_8_6 y #ivrim_2_9: glorificación como coronación de כבוד y הדר después de la disminución.
-- #iojanan_12_24 con la muerte del Mesías: el grano cae para no quedar solo y producir mucho fruto.
-- #iojanan_12_25 con #iojanan_alef_2_16: amar la propia vida en este olam se cruza con los deseos y la arrogancia del mundo.
-- #iojanan_12_26 con #iaakov_4_4: servir al Mesías excluye buscar simultáneamente la amistad del mundo.
-- #iojanan_12_27 con #ivrim_12_2: la hora es soportada por obediencia y por el gozo de la obra cumplida.
-- #iojanan_12_28 con [[../temas/bat_kol|Bat Kol]]: la voz celestial testifica sobre el Nombre y la glorificación.
+- #juan_12_20-23 con #isaias_49_6: los griegos anuncian el alcance de la luz a las naciones.
+- #juan_12_23 con #salmos_8_6 y #hebreos_2_9: glorificación como coronación de כבוד y הדר después de la disminución.
+- #juan_12_24 con la muerte del Mesías: el grano cae para no quedar solo y producir mucho fruto.
+- #juan_12_25 con #1_juan_2_16: amar la propia vida en este olam se cruza con los deseos y la arrogancia del mundo.
+- #juan_12_26 con #santiago_4_4: servir al Mesías excluye buscar simultáneamente la amistad del mundo.
+- #juan_12_27 con #hebreos_12_2: la hora es soportada por obediencia y por el gozo de la obra cumplida.
+- #juan_12_28 con [[../temas/bat_kol|Bat Kol]]: la voz celestial testifica sobre el Nombre y la glorificación.
 
 #### Pendiente de verificar
 
-- [ ] Cotejar en griego #iojanan_12_26 y la afirmación de la clase sobre `τιμάω` / `τιμή` como semitismo o uso especial.
-- [ ] Verificar con texto griego y LXX la alusión de #iojanan_12_27 a #tehilim_6_4.
+- [ ] Cotejar en griego #juan_12_26 y la afirmación de la clase sobre `τιμάω` / `τιμή` como semitismo o uso especial.
+- [ ] Verificar con texto griego y LXX la alusión de #juan_12_27 a #salmos_6_4.
 - [ ] Revisar el trasfondo histórico de "templo como luz del mundo" y su uso en fuentes del Segundo Templo o literatura rabínica.
 - [ ] Cotejar con léxicos el alcance de הדר como "estado más avanzado" frente a esplendor, majestad o decoro.
-- [ ] Verificar si los griegos de #iojanan_12_20 deben describirse como prosélitos, temerosos de Elohim o peregrinos gentiles sin fijar más de lo que el texto dice.
+- [ ] Verificar si los griegos de #juan_12_20 deben describirse como prosélitos, temerosos de Elohim o peregrinos gentiles sin fijar más de lo que el texto dice.
 
 #### Conclusión
 
@@ -1045,12 +1040,12 @@ La clase convierte esa lectura en llamado de discipulado: no se puede buscar al 
 
 Yojanán 12:16-24 usa la llegada de unos griegos en Pesaj como punto de giro: cuando las naciones buscan ver a Yehoshua, él no responde con una escena de audiencia privada, sino anunciando que llegó la hora de que sea glorificado el Ben HaAdam. La clase entiende esa glorificación como **kabod**, el peso que se hace notorio, especialmente cuando el Mesías recibe sobre sí el peso del juicio y muere como el grano de trigo que cae en tierra para llevar mucho fruto.
 
-La línea principal no es que "gloria" signifique prestigio religioso, sino que יהוה hará sentir su peso delante del pueblo. Por eso el video conecta #iojanan_12_23-24 con #vaikra_10_3 y #ieshaiahu_49_1-6: el mismo Elohim se subordina a su propio juicio y, por su amor entrañable, recoge a Yaakov e Israel y abre la salvación hasta las naciones.
+La línea principal no es que "gloria" signifique prestigio religioso, sino que יהוה hará sentir su peso delante del pueblo. Por eso el video conecta #juan_12_23-24 con #levitico_10_3 y #isaias_49_1-6: el mismo Elohim se subordina a su propio juicio y, por su amor entrañable, recoge a Yaakov e Israel y abre la salvación hasta las naciones.
 
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática del video; esta nota ordena y sintetiza la clase, no reproduce una cita literal del maestro.
-- La clase cubre principalmente #iojanan_12_16-24, anticipando #iojanan_12_28, #iojanan_12_32, #iojanan_12_34, #iojanan_12_41 y #iojanan_12_43.
+- La clase cubre principalmente #juan_12_16-24, anticipando #juan_12_28, #juan_12_32, #juan_12_34, #juan_12_41 y #juan_12_43.
 - Se conserva la lectura del expositor sobre יהוה como atributo del juicio y Elohim como amor entrañable, pero esa formulación queda marcada para verificación técnica antes de usarla como argumento cerrado.
 - La explicación de prosélitos, categorías fariseas de conversión y acceso de gentiles al Templo se mantiene como contexto de clase, con referencias pendientes.
 
@@ -1058,45 +1053,45 @@ La línea principal no es que "gloria" signifique prestigio religioso, sino que 
 
 | Referencia     | Texto local                                                                                                                                                                               | Función en la clase                                                                                       |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| #iojanan_12_16 | TTH: "Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa..." / Delitzsch: וכלזאת לאהבינו תלמידיו בתחילה אך כאשר לקח ישוע אחר כבוד... | Los discípulos entienden después de la glorificación; la clase pregunta qué significa ese kabod.          |
-| #iojanan_12_19 | TTH: "he aquí, el olam se va detrás de Él." / Delitzsch: ואחריו כלאדם ימשך                                                                                                                | Los perushim reconocen que su oposición no logra detener el movimiento hacia Yeshúa.                      |
-| #iojanan_12_20 | TTH: "Y había unos hombres griegos que habían subido a postrarse en la fiesta." / Delitzsch: ובתוך עולי הרגל להשתחות נמצאו גםיונים                                                        | La llegada de helenos abre el tema de las naciones y de los prosélitos en Pesaj.                          |
-| #iojanan_12_21 | TTH: "Amo mío, quisiéramos ver a Yeshúa." / Delitzsch: אדנינו חפצים אנחנו לראות אתישוע                                                                                                    | La petición de ver a Yeshúa provoca la respuesta sobre la hora de glorificación.                          |
-| #iojanan_12_23 | TTH: "Ha venido la hora en que será glorificado el Ben Ha'Adam." / Delitzsch: הנה בא המועד ובןהאדם נאדר יהיה בכבודו                                                                       | Núcleo de la clase: glorificación como peso notorio del Ben HaAdam.                                       |
-| #iojanan_12_24 | TTH: "Si el grano de trigo no cae a tierra y muere, quedará solo; pero si muere, hará mucho fruto." / Delitzsch: גרגר דגן אם לאיפל ומת בתוך הארץ ישאר לבדו ואם ימות יוציא זרע רב          | Yeshúa explica que la glorificación pasa por muerte y fruto, no por exhibición pública.                   |
-| #iojanan_12_28 | TTH: "Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo."                                                                                                     | Anticipa que el kabod está ligado al Nombre y a la obra que se completará.                                |
-| #iojanan_12_32 | TTH: "cuando sea levantado de la tierra, a todos atraeré hacia Mí."                                                                                                                       | La elevación apunta a la muerte con la cual atraerá hacia sí.                                             |
-| #iojanan_12_34 | TTH: "¿Quién es este Ben Ha'Adam?"                                                                                                                                                        | Muestra que "Ben HaAdam" no era una etiqueta obvia para los oyentes; toca un concepto teológico profundo. |
-| #iojanan_12_41 | TTH: "Estas palabras dijo Ieshaiáhu cuando vio su gloria, y habló acerca de Él." / Delitzsch: הדברים האלה דבר ישעיהו בחזותו אתכבודו וינבא עליו                                            | La clase lo usa para cerrar el círculo: Ieshaiahu vio el kabod de él.                                     |
-| #iojanan_12_43 | TTH: "Porque amaban la gloria de los hombres más que la gloria de Elohim."                                                                                                                | Contraste final entre peso humano y peso de Elohim.                                                       |
+| #juan_12_16 | TTH: "Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa..." / Delitzsch: וכלזאת לאהבינו תלמידיו בתחילה אך כאשר לקח ישוע אחר כבוד... | Los discípulos entienden después de la glorificación; la clase pregunta qué significa ese kabod.          |
+| #juan_12_19 | TTH: "he aquí, el olam se va detrás de Él." / Delitzsch: ואחריו כלאדם ימשך                                                                                                                | Los perushim reconocen que su oposición no logra detener el movimiento hacia Yeshúa.                      |
+| #juan_12_20 | TTH: "Y había unos hombres griegos que habían subido a postrarse en la fiesta." / Delitzsch: ובתוך עולי הרגל להשתחות נמצאו גםיונים                                                        | La llegada de helenos abre el tema de las naciones y de los prosélitos en Pesaj.                          |
+| #juan_12_21 | TTH: "Amo mío, quisiéramos ver a Yeshúa." / Delitzsch: אדנינו חפצים אנחנו לראות אתישוע                                                                                                    | La petición de ver a Yeshúa provoca la respuesta sobre la hora de glorificación.                          |
+| #juan_12_23 | TTH: "Ha venido la hora en que será glorificado el Ben Ha'Adam." / Delitzsch: הנה בא המועד ובןהאדם נאדר יהיה בכבודו                                                                       | Núcleo de la clase: glorificación como peso notorio del Ben HaAdam.                                       |
+| #juan_12_24 | TTH: "Si el grano de trigo no cae a tierra y muere, quedará solo; pero si muere, hará mucho fruto." / Delitzsch: גרגר דגן אם לאיפל ומת בתוך הארץ ישאר לבדו ואם ימות יוציא זרע רב          | Yeshúa explica que la glorificación pasa por muerte y fruto, no por exhibición pública.                   |
+| #juan_12_28 | TTH: "Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo."                                                                                                     | Anticipa que el kabod está ligado al Nombre y a la obra que se completará.                                |
+| #juan_12_32 | TTH: "cuando sea levantado de la tierra, a todos atraeré hacia Mí."                                                                                                                       | La elevación apunta a la muerte con la cual atraerá hacia sí.                                             |
+| #juan_12_34 | TTH: "¿Quién es este Ben Ha'Adam?"                                                                                                                                                        | Muestra que "Ben HaAdam" no era una etiqueta obvia para los oyentes; toca un concepto teológico profundo. |
+| #juan_12_41 | TTH: "Estas palabras dijo Yeshayahu cuando vio su gloria, y habló acerca de Él." / Delitzsch: הדברים האלה דבר ישעיהו בחזותו אתכבודו וינבא עליו                                            | La clase lo usa para cerrar el círculo: Yeshayahu vio el kabod de él.                                     |
+| #juan_12_43 | TTH: "Porque amaban la gloria de los hombres más que la gloria de Elohim."                                                                                                                | Contraste final entre peso humano y peso de Elohim.                                                       |
 
 #### Hoja de comparación del Tanaj
 
 | Referencia      | Hebreo (OE, sin nikud)                                                                                                       | Función en la clase                                                                                  |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| #vaikra_10_3    | ויאמר משה אל אהרן הוא אשר דבר יהוה לאמר בקרבי אקדש ועל פני כל העם אכבד וידם אהרן                                      | "Ser glorificado" se explica como hacer sentir el peso de יהוה delante del pueblo.                   |
-| #ieshaiahu_49_1 | שמעו איים אלי והקשיבו לאמים מרחוק יהוה מבטן קראני ממעי אמי הזכיר שמי                                                 | Las islas/naciones de lejos escuchan; se conecta con los griegos que buscan a Yeshúa.                |
-| #ieshaiahu_49_2 | וישם פי כחרב חדה בצל ידו החביאני וישימני לחץ ברור באשפתו הסתירני                                                 | El siervo aparece como espada y flecha escondida, instrumento que sale de יהוה.                      |
-| #ieshaiahu_49_3 | ויאמר לי עבדי אתה ישראל אשר בך אתפאר                                                                                     | El "Israel" siervo es leído como personaje que porta y muestra el peso de Elohim.                    |
-| #ieshaiahu_49_4 | ואני אמרתי לריק יגעתי לתהו והבל כחי כליתי אכן משפטי את יהוה ופעלתי את אלהי                                          | La clase destaca juicio/proceso y actividad ligada a Elohim.                                         |
-| #ieshaiahu_49_5 | ועתה אמר יהוה יצרי מבטן לעבד לו לשובב יעקב אליו וישראל לא לו יאסף ואכבד בעיני יהוה ואלהי היה עזי               | Verso clave: el siervo hace volver a Yaakov, recoge a Israel y es glorificado ante los ojos de יהוה. |
-| #ieshaiahu_49_6 | ויאמר נקל מהיותך לי עבד להקים את שבטי יעקב ונצירי ונצורי ישראל להשיב ונתתיך לאור גוים להיות ישועתי עד קצה הארץ | La misión no termina en Israel; llega a ser luz para las naciones.                                   |
+| #levitico_10_3    | ויאמר משה אל אהרן הוא אשר דבר יהוה לאמר בקרבי אקדש ועל פני כל העם אכבד וידם אהרן                                      | "Ser glorificado" se explica como hacer sentir el peso de יהוה delante del pueblo.                   |
+| #isaias_49_1 | שמעו איים אלי והקשיבו לאמים מרחוק יהוה מבטן קראני ממעי אמי הזכיר שמי                                                 | Las islas/naciones de lejos escuchan; se conecta con los griegos que buscan a Yeshúa.                |
+| #isaias_49_2 | וישם פי כחרב חדה בצל ידו החביאני וישימני לחץ ברור באשפתו הסתירני                                                 | El siervo aparece como espada y flecha escondida, instrumento que sale de יהוה.                      |
+| #isaias_49_3 | ויאמר לי עבדי אתה ישראל אשר בך אתפאר                                                                                     | El "Israel" siervo es leído como personaje que porta y muestra el peso de Elohim.                    |
+| #isaias_49_4 | ואני אמרתי לריק יגעתי לתהו והבל כחי כליתי אכן משפטי את יהוה ופעלתי את אלהי                                          | La clase destaca juicio/proceso y actividad ligada a Elohim.                                         |
+| #isaias_49_5 | ועתה אמר יהוה יצרי מבטן לעבד לו לשובב יעקב אליו וישראל לא לו יאסף ואכבד בעיני יהוה ואלהי היה עזי               | Verso clave: el siervo hace volver a Yaakov, recoge a Israel y es glorificado ante los ojos de יהוה. |
+| #isaias_49_6 | ויאמר נקל מהיותך לי עבד להקים את שבטי יעקב ונצירי ונצורי ישראל להשיב ונתתיך לאור גוים להיות ישועתי עד קצה הארץ | La misión no termina en Israel; llega a ser luz para las naciones.                                   |
 
 #### Léxico clave
 
 | Término       | Transliteración | Sentido en la nota                                 | Raíz o base | Observación                                                                                                                 |
 | ------------- | --------------- | -------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **(כבוד)**    | kabod           | peso, gloria, honra notoria                        | כבד         | La clase lo lee como el peso de יהוה que se hace sentir, no como fama humana.                                               |
-| **(כבד)**     | kaved           | ser pesado, hacer sentir peso                      | כבד         | Base de #vaikra_10_3: אכבד, "seré glorificado / haré sentir mi peso".                                                       |
-| **(בן האדם)** | Ben HaAdam      | portador de la deidad, no simple "hijo del hombre" | אדם         | El video insiste en no reducirlo a "humano"; #iojanan_12_34 muestra que los oyentes no lo entendieron como una frase plana. |
-| **(Ἕλληνες)** | Hellenes        | griegos, gentiles                                  | griego      | En #iojanan_12_20 no se presenta como "judíos helenistas", sino como griegos que subían a adorar.                           |
-| **(κόσμος)**  | kosmos          | mundo, olam, totalidad humana                      | griego      | En #iojanan_12_19 funciona como hipérbole y como tema propio de Yojanán.                                                    |
-| **(אמן)**     | amen            | afirmación solemne                                 | אמן         | En #iojanan_12_24 introduce la explicación del grano que muere.                                                             |
-| **(אתפאר)**   | etpa'er         | ser embellecido/glorificado                        | פאר         | En #ieshaiahu_49_3 la clase distingue este verbo de כבד; queda pendiente cotejo léxico.                                     |
+| **(כבד)**     | kaved           | ser pesado, hacer sentir peso                      | כבד         | Base de #levitico_10_3: אכבד, "seré glorificado / haré sentir mi peso".                                                       |
+| **(בן האדם)** | Ben HaAdam      | portador de la deidad, no simple "hijo del hombre" | אדם         | El video insiste en no reducirlo a "humano"; #juan_12_34 muestra que los oyentes no lo entendieron como una frase plana. |
+| **(Ἕλληνες)** | Hellenes        | griegos, gentiles                                  | griego      | En #juan_12_20 no se presenta como "judíos helenistas", sino como griegos que subían a adorar.                           |
+| **(κόσμος)**  | kosmos          | mundo, olam, totalidad humana                      | griego      | En #juan_12_19 funciona como hipérbole y como tema propio de Yojanán.                                                    |
+| **(אמן)**     | amen            | afirmación solemne                                 | אמן         | En #juan_12_24 introduce la explicación del grano que muere.                                                             |
+| **(אתפאר)**   | etpa'er         | ser embellecido/glorificado                        | פאר         | En #isaias_49_3 la clase distingue este verbo de כבד; queda pendiente cotejo léxico.                                     |
 
 #### Los griegos en Pesaj
 
-#iojanan_12_20 presenta a unos griegos que suben a postrarse en la fiesta. La clase rechaza leerlos simplemente como "judíos helenistas"; el término apunta a helenos, gentiles. Esto abre una pregunta histórica: ¿cómo podían griegos subir a adorar en Pesaj?
+#juan_12_20 presenta a unos griegos que suben a postrarse en la fiesta. La clase rechaza leerlos simplemente como "judíos helenistas"; el término apunta a helenos, gentiles. Esto abre una pregunta histórica: ¿cómo podían griegos subir a adorar en Pesaj?
 
 El expositor propone dos posibilidades: que fueran conversos ya incorporados a alguna facción judía de la antigua fe de Israel, o que estuvieran en proceso de conversión. De ahí surge el paréntesis sobre categorías fariseas de prosélitos, desde candidatos con exigencias mínimas hasta conversos plenamente integrados. La nota conserva la idea general, pero las categorías y nombres precisos deben verificarse en fuentes rabínicas.
 
@@ -1112,21 +1107,21 @@ La observación ayuda a mantener equilibrio: el texto está escrito en griego y 
 
 Cuando Yehoshua responde que llegó la hora de que sea glorificado el Ben HaAdam, la clase insiste en no traducir la expresión de manera plana como "el hijo del hombre". El problema no es que la traducción literal sea imposible, sino que en castellano se pierde la carga teológica.
 
-#iojanan_12_34 confirma que los oyentes no entendieron la frase como "un humano cualquiera". Preguntan: "¿Quién es este Ben HaAdam?" porque el concepto les crea tensión con lo que han escuchado sobre el Mesías. Para la clase, Ben HaAdam debe leerse como portador de la plenitud de la deidad, no como una categoría inferior al Mesías.
+#juan_12_34 confirma que los oyentes no entendieron la frase como "un humano cualquiera". Preguntan: "¿Quién es este Ben HaAdam?" porque el concepto les crea tensión con lo que han escuchado sobre el Mesías. Para la clase, Ben HaAdam debe leerse como portador de la plenitud de la deidad, no como una categoría inferior al Mesías.
 
 Esta sección continúa una línea ya presente en otras notas de Yojanán: si se piensa solo en castellano, "Mesías" puede sonar como alguien menor que Elohim. La clase busca corregir esa impresión: el Ben HaAdam es el modo en que el único Elohim carga el juicio y ejecuta su palabra sin dejar de ser el único Elohim.
 
 #### Kabod: el peso que se hace notorio
 
-La palabra repetida de la clase es kabod. En #iojanan_12_16 los discípulos entienden después de que Yehoshua fue glorificado; en #iojanan_12_23 Yehoshua anuncia que llegó la hora de esa glorificación; en #iojanan_12_28 se pide que el Nombre sea glorificado; en #iojanan_12_41 Ieshaiahu vio su gloria; y en #iojanan_12_43 se contrasta la gloria de hombres con la gloria de Elohim.
+La palabra repetida de la clase es kabod. En #juan_12_16 los discípulos entienden después de que Yehoshua fue glorificado; en #juan_12_23 Yehoshua anuncia que llegó la hora de esa glorificación; en #juan_12_28 se pide que el Nombre sea glorificado; en #juan_12_41 Yeshayahu vio su gloria; y en #juan_12_43 se contrasta la gloria de hombres con la gloria de Elohim.
 
-El expositor conecta esto con #vaikra_10_3. Después del fuego extraño de Nadav y Avihu, יהוה dice: "en los que se acercan a mí seré santificado, y delante de todo el pueblo seré glorificado". La clase interpreta ese "seré glorificado" como "haré sentir mi peso". יהוה no queda como una deidad decorativa ante la cual cualquiera se acerca de cualquier manera; su peso se hace visible en juicio.
+El expositor conecta esto con #levitico_10_3. Después del fuego extraño de Nadav y Avihu, יהוה dice: "en los que se acercan a mí seré santificado, y delante de todo el pueblo seré glorificado". La clase interpreta ese "seré glorificado" como "haré sentir mi peso". יהוה no queda como una deidad decorativa ante la cual cualquiera se acerca de cualquier manera; su peso se hace visible en juicio.
 
 Aplicado a Yojanán 12, la glorificación del Ben HaAdam no es aplauso, sino la manifestación del peso de justicia que cae sobre él. Allí se verá quién es: el único capaz de recibir todo el peso de la justicia sin pecado.
 
-#### Ieshaiahu 49 y el Israel siervo
+#### Yeshayahu 49 y el Israel siervo
 
-La lectura de #ieshaiahu_49_1-6 ocupa el centro teológico de la clase. Allí habla un siervo llamado Israel que, a la vez, tiene misión de hacer volver a Yaakov y recoger a Israel. El expositor distingue entre Israel como personaje-siervo y el Israel que debe ser recogido. Esa tensión impide leer el pasaje de manera superficial.
+La lectura de #isaias_49_1-6 ocupa el centro teológico de la clase. Allí habla un siervo llamado Israel que, a la vez, tiene misión de hacer volver a Yaakov y recoger a Israel. El expositor distingue entre Israel como personaje-siervo y el Israel que debe ser recogido. Esa tensión impide leer el pasaje de manera superficial.
 
 El siervo es llamado desde el vientre, escondido como flecha en la aljaba, y designado como aquel en quien Elohim será embellecido o glorificado. Luego se dice que hará volver a Yaakov y que será luz para las naciones. Esto conecta directamente con los griegos de Yojanán 12: la misión no queda limitada a Israel, sino que alcanza a las naciones de lejos.
 
@@ -1140,34 +1135,34 @@ Esta formulación exige cuidado. La nota conserva la enseñanza porque estructur
 
 #### El grano de trigo
 
-#iojanan_12_24 explica la forma concreta de la glorificación: el grano de trigo debe caer en tierra y morir. Si no muere, queda solo; si muere, lleva mucho fruto. La clase interpreta esto como la carga completa del juicio sobre el Mesías.
+#juan_12_24 explica la forma concreta de la glorificación: el grano de trigo debe caer en tierra y morir. Si no muere, queda solo; si muere, lleva mucho fruto. La clase interpreta esto como la carga completa del juicio sobre el Mesías.
 
-La muerte de Yehoshua no es un accidente ni un fracaso frente a Roma. Es el momento en que el peso de toda transgresión humana recae sobre él, y solo Elohim puede cargar ese peso sin pecado. Por eso el video conecta la glorificación con #iojanan_12_32: al ser levantado de la tierra, atraerá a todos hacia sí. La muerte es el camino del fruto.
+La muerte de Yehoshua no es un accidente ni un fracaso frente a Roma. Es el momento en que el peso de toda transgresión humana recae sobre él, y solo Elohim puede cargar ese peso sin pecado. Por eso el video conecta la glorificación con #juan_12_32: al ser levantado de la tierra, atraerá a todos hacia sí. La muerte es el camino del fruto.
 
 #### Conexiones principales
 
-- #iojanan_12_16 con #iojanan_12_23: los discípulos entienden después que la glorificación era el punto de lectura de todo el evento.
-- #iojanan_12_20-21 con #ieshaiahu_49_1 y #ieshaiahu_49_6: los griegos que quieren ver a Yehoshua anticipan la luz para las naciones.
-- #iojanan_12_23 con #iojanan_12_34: Ben HaAdam es una categoría teológica que los oyentes no logran resolver fácilmente.
-- #iojanan_12_23 con #vaikra_10_3: glorificar es hacer notorio el peso de יהוה ante el pueblo.
-- #iojanan_12_24 con #iojanan_12_32: el grano que muere y el levantamiento de la tierra apuntan a la misma muerte fructífera.
-- #iojanan_12_41 con #ieshaiahu_49_5: Ieshaiahu vio el kabod de aquel que sería glorificado ante los ojos de יהוה.
-- #iojanan_12_43 contrasta el peso de Elohim con la gloria humana que buscaban algunos líderes.
+- #juan_12_16 con #juan_12_23: los discípulos entienden después que la glorificación era el punto de lectura de todo el evento.
+- #juan_12_20-21 con #isaias_49_1 y #isaias_49_6: los griegos que quieren ver a Yehoshua anticipan la luz para las naciones.
+- #juan_12_23 con #juan_12_34: Ben HaAdam es una categoría teológica que los oyentes no logran resolver fácilmente.
+- #juan_12_23 con #levitico_10_3: glorificar es hacer notorio el peso de יהוה ante el pueblo.
+- #juan_12_24 con #juan_12_32: el grano que muere y el levantamiento de la tierra apuntan a la misma muerte fructífera.
+- #juan_12_41 con #isaias_49_5: Yeshayahu vio el kabod de aquel que sería glorificado ante los ojos de יהוה.
+- #juan_12_43 contrasta el peso de Elohim con la gloria humana que buscaban algunos líderes.
 
 #### Pendiente de verificar
 
 - [ ] Verificar las categorías fariseas de prosélitos mencionadas en la clase y sus nombres precisos.
 - [ ] Localizar las fuentes sobre acceso de gentiles/prosélitos al área del Templo y la inscripción de prohibición a gentiles.
-- [ ] Cotejar en griego #iojanan_12_20 si Ἕλληνες debe entenderse estrictamente como gentiles griegos en este contexto.
-- [ ] Cotejar la relación léxica entre כבד — kabod, אכבד en #vaikra_10_3 y el lenguaje de "glorificar" en Yojanán 12.
-- [ ] Verificar técnicamente la distinción entre כבד y פאר en #ieshaiahu_49_3-5.
+- [ ] Cotejar en griego #juan_12_20 si Ἕλληνες debe entenderse estrictamente como gentiles griegos en este contexto.
+- [ ] Cotejar la relación léxica entre כבד — kabod, אכבד en #levitico_10_3 y el lenguaje de "glorificar" en Yojanán 12.
+- [ ] Verificar técnicamente la distinción entre כבד y פאר en #isaias_49_3-5.
 - [ ] Desarrollar en una nota temática separada la lectura de יהוה — Elohim como atributos de juicio y amor.
 
 #### Conclusión
 
 La clase lee Yojanán 12 como un cambio de escala: las naciones empiezan a buscar a Yehoshua, pero la respuesta del Mesías no es espectáculo, sino cruz. El kabod del Ben HaAdam se revela cuando carga el peso del juicio, muere como grano de trigo y produce fruto para Israel y para las naciones.
 
-Así, la gloria que Yojanán muestra no compite con el Tanaj. La conecta con #vaikra_10_3 y #ieshaiahu_49_1-6: יהוה hace sentir su peso, el siervo recoge a Yaakov e Israel, y la salvación alcanza hasta el extremo de la tierra.
+Así, la gloria que Yojanán muestra no compite con el Tanaj. La conecta con #levitico_10_3 y #isaias_49_1-6: יהוה hace sentir su peso, el siervo recoge a Yaakov e Israel, y la salvación alcanza hasta el extremo de la tierra.
 
 #### Ver también
 
@@ -1182,30 +1177,30 @@ Así, la gloria que Yojanán muestra no compite con el Tanaj. La conecta con #va
 
 Yojanán 12:35-43 muestra que ser "hijos de la luz" no es una identidad mística ni un rótulo de grupo, sino discipulado visible: caminar mientras la luz está presente, afirmarse en la luz y mostrar obras conformes al anuncio recibido. La clase insiste en que "hijo" incluye herencia, representación y discipulado; por eso el que dice portar la luz debe demostrar que escucha y obedece a la luz.
 
-El rechazo de las señales de Yehoshua llena la palabra de Ieshaiahu: el anuncio de יהוה estaba delante del pueblo, pero muchos no exhibieron fidelidad a él. El bloqueo no se explica por falta de evidencias, sino por haber antepuesto otra voz: la lógica propia, la opinión de otros, o una lectura religiosa que ya no escucha a la Torá y los Profetas.
+El rechazo de las señales de Yehoshua llena la palabra de Yeshayahu: el anuncio de יהוה estaba delante del pueblo, pero muchos no exhibieron fidelidad a él. El bloqueo no se explica por falta de evidencias, sino por haber antepuesto otra voz: la lógica propia, la opinión de otros, o una lectura religiosa que ya no escucha a la Torá y los Profetas.
 
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario para el video enlazado.
-- Pasaje base: #iojanan_12_35-43, especialmente "hijos de la luz", las señales hechas delante de ellos y la cita de #ieshaiahu_53_1.
+- Pasaje base: #juan_12_35-43, especialmente "hijos de la luz", las señales hechas delante de ellos y la cita de #isaias_53_1.
 - La nota conserva el argumento oral de la clase, pero no cierra como verificadas las propuestas léxicas o históricas que no fueron cotejadas fuera del transcript.
 
 #### Hoja de comparación
 
 | Referencia          | Texto local                                                                                                                                                                                                     | Función en la clase                                                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| #iojanan_12_35      | Y les dijo Yeshúa: Todavía por un poco de tiempo la Luz estará con ustedes. Caminen mientras esté para ustedes la Luz, para que no los agarre la oscuridad; porque el que anda en oscuridad, no sabe cómo va.   | La luz exige caminar; no basta reconocerla de manera abstracta.                                              |
-| #iojanan_12_36      | Mientras esté para ustedes la Luz, afírmense en la Luz, y serán hijos de la Luz. Y estas palabras habló Yeshúa. Y fue y se ocultó de ellos.                                                                     | "Hijos de la luz" se lee como herederos, portadores y discípulos de la luz.                                  |
-| #iojanan_12_37      | Pero aunque había hecho todas estas señales delante de ellos, no se afirmaron en Él,                                                                                                                            | Las señales fueron suficientes como testimonio, pero no produjeron fidelidad en quienes no escuchaban.       |
-| #iojanan_12_38      | para que se llenara la palabra de Ieshaiáhu el profeta, el que dijo: ¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?                                                       | Yojanán lee el rechazo desde #ieshaiahu_53_1: el anuncio no fue recibido con emunah.                         |
-| #iojanan_12_40      | Él ha engrosado el corazón de este pueblo, sus oídos ha hecho pesados, y sus ojos ha embadurnado, para que no vea con sus ojos, y con sus oídos escuche, y con su corazón discierna, y regrese y sea sanado él. | La ceguera aparece como condición de un corazón que ya no oye el anuncio.                                    |
-| #iojanan_12_42-43   | ...muchos de los jefes se afirmaron en Él, pero por causa de los perushim no confesaban... Porque amaban la gloria de los hombres más que la gloria de Elohim.                                                  | La presión social revela una fidelidad incompleta: hay reconocimiento interno, pero falta confesión visible. |
-| #ieshaiahu_53_1     | מי האמין לשמעתנו וזרוע יהוה על מי נגלתה                                                                                                                                                                      | Base hebrea del problema: ¿quién ha sido afirmado / quién ha mostrado emunah al anuncio?                     |
-| #ieshaiahu_6_10     | השמן לב העם הזה ואזניו הכבד ועיניו השע פן יראה בעיניו ובאזניו ישמע ולבבו יבין ושב ורפא לו                                                                                                       | Trasfondo de #iojanan_12_40: corazón, oído y ojos quedan afectados.                                          |
-| #devarim_11_1       | Y amarás a יהוה tu Elohim, y guardarás su guardia, sus decretos, sus procesos legales y sus mandamientos todos los días.                                                                                        | La clase lo conecta con "si me amáis, guardad mis mandamientos": amar se prueba guardando.                   |
-| #devarim_18_15      | Un profeta de en medio de ti, de tus hermanos, como yo, levantará para ti יהוה tu Elohim; a él escucharán.                                                                                                      | El que escucha a Moshé debe escuchar al profeta levantado por יהוה.                                          |
-| #mishlei_3_5-6      | Confía en יהוה con todo tu corazón, y en tu entendimiento no te apoyes. En todos tus caminos conócelo, y Él rectificará tus sendas.                                                                             | La clase lo usa contra la autosuficiencia de la propia lógica.                                               |
-| #matityahu_21_28-31 | Parábola de los dos hijos: uno promete y no va; otro rehúsa y después hace la voluntad del padre.                                                                                                               | La obediencia final pesa más que la apariencia verbal.                                                       |
+| #juan_12_35      | Y les dijo Yeshúa: Todavía por un poco de tiempo la Luz estará con ustedes. Caminen mientras esté para ustedes la Luz, para que no los agarre la oscuridad; porque el que anda en oscuridad, no sabe cómo va.   | La luz exige caminar; no basta reconocerla de manera abstracta.                                              |
+| #juan_12_36      | Mientras esté para ustedes la Luz, afírmense en la Luz, y serán hijos de la Luz. Y estas palabras habló Yeshúa. Y fue y se ocultó de ellos.                                                                     | "Hijos de la luz" se lee como herederos, portadores y discípulos de la luz.                                  |
+| #juan_12_37      | Pero aunque había hecho todas estas señales delante de ellos, no se afirmaron en Él,                                                                                                                            | Las señales fueron suficientes como testimonio, pero no produjeron fidelidad en quienes no escuchaban.       |
+| #juan_12_38      | para que se llenara la palabra de Yeshayahu el profeta, el que dijo: ¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?                                                       | Yojanán lee el rechazo desde #isaias_53_1: el anuncio no fue recibido con emunah.                         |
+| #juan_12_40      | Él ha engrosado el corazón de este pueblo, sus oídos ha hecho pesados, y sus ojos ha embadurnado, para que no vea con sus ojos, y con sus oídos escuche, y con su corazón discierna, y regrese y sea sanado él. | La ceguera aparece como condición de un corazón que ya no oye el anuncio.                                    |
+| #juan_12_42-43   | ...muchos de los jefes se afirmaron en Él, pero por causa de los perushim no confesaban... Porque amaban la gloria de los hombres más que la gloria de Elohim.                                                  | La presión social revela una fidelidad incompleta: hay reconocimiento interno, pero falta confesión visible. |
+| #isaias_53_1     | מי האמין לשמעתנו וזרוע יהוה על מי נגלתה                                                                                                                                                                      | Base hebrea del problema: ¿quién ha sido afirmado / quién ha mostrado emunah al anuncio?                     |
+| #isaias_6_10     | השמן לב העם הזה ואזניו הכבד ועיניו השע פן יראה בעיניו ובאזניו ישמע ולבבו יבין ושב ורפא לו                                                                                                       | Trasfondo de #juan_12_40: corazón, oído y ojos quedan afectados.                                          |
+| #deuteronomio_11_1       | Y amarás a יהוה tu Elohim, y guardarás su guardia, sus decretos, sus procesos legales y sus mandamientos todos los días.                                                                                        | La clase lo conecta con "si me amáis, guardad mis mandamientos": amar se prueba guardando.                   |
+| #deuteronomio_18_15      | Un profeta de en medio de ti, de tus hermanos, como yo, levantará para ti יהוה tu Elohim; a él escucharán.                                                                                                      | El que escucha a Moshé debe escuchar al profeta levantado por יהוה.                                          |
+| #proverbios_3_5-6      | Confía en יהוה con todo tu corazón, y en tu entendimiento no te apoyes. En todos tus caminos conócelo, y Él rectificará tus sendas.                                                                             | La clase lo usa contra la autosuficiencia de la propia lógica.                                               |
+| #mateo_21_28-31 | Parábola de los dos hijos: uno promete y no va; otro rehúsa y después hace la voluntad del padre.                                                                                                               | La obediencia final pesa más que la apariencia verbal.                                                       |
 
 #### Hoja léxica
 
@@ -1213,72 +1208,72 @@ El rechazo de las señales de Yehoshua llena la palabra de Ieshaiahu: el anuncio
 | ------------------ | --------------- | ------------------------------ | ----------- | -------------------------------------------------------------------------------------------------------- |
 | **(υἱοί φωτός)**   | huioi photos    | hijos de la luz                | griego      | La clase lo aproxima a herederos, portadores y discípulos; no reducir a etiqueta sectaria.               |
 | **(πιστεύω)**      | pisteuo         | afirmarse, exhibir fidelidad   | πιστ-       | TTH traduce con "afirmarse"; la clase evita reducirlo a creencia mental.                                 |
-| **(האמין)**        | heemin          | mostrar emunah, estar afirmado | אמן         | En #ieshaiahu_53_1 sostiene la lectura de "¿quién fue fiel al anuncio?".                                 |
+| **(האמין)**        | heemin          | mostrar emunah, estar afirmado | אמן         | En #isaias_53_1 sostiene la lectura de "¿quién fue fiel al anuncio?".                                 |
 | **(σημεῖον)**      | semeion         | señal                          | griego      | Una acción, gesto o palabra que apunta a otra realidad; no solo milagro llamativo.                       |
 | **(πληρόω)**       | pleroo          | llenar, colmar                 | griego      | La clase prefiere "llenar" sobre "cumplir" para mostrar acumulación y colmo del patrón profético.        |
-| **(שמועה)**        | shemuah         | anuncio, reporte, oído         | שמע         | En #ieshaiahu_53_1 conecta anuncio, escucha y respuesta fiel.                                            |
-| **(בינה / תבונה)** | binah / tevunah | entendimiento, discernimiento  | בין         | La clase lo contrasta con apoyarse en la lógica propia; pendiente de precisión léxica para #mishlei_3_5. |
+| **(שמועה)**        | shemuah         | anuncio, reporte, oído         | שמע         | En #isaias_53_1 conecta anuncio, escucha y respuesta fiel.                                            |
+| **(בינה / תבונה)** | binah / tevunah | entendimiento, discernimiento  | בין         | La clase lo contrasta con apoyarse en la lógica propia; pendiente de precisión léxica para #proverbios_3_5. |
 
 #### Hijos de la luz como discípulos
 
-Cuando Yehoshua dice "serán hijos de la luz" (#iojanan_12_36), la clase evita una lectura abstracta. "Hijo" no funciona solamente como procedencia o privilegio; también puede señalar a quien porta, representa y aprende de otro. Ser hijo de la luz implica hacerse discípulo de la luz.
+Cuando Yehoshua dice "serán hijos de la luz" (#juan_12_36), la clase evita una lectura abstracta. "Hijo" no funciona solamente como procedencia o privilegio; también puede señalar a quien porta, representa y aprende de otro. Ser hijo de la luz implica hacerse discípulo de la luz.
 
-Por eso el énfasis cae sobre caminar. #iojanan_12_35 no dice solo "miren la luz", sino "caminen mientras esté para ustedes la Luz". La identidad se demuestra en una práctica visible. La clase conecta esta idea con #devarim_11_1: amar a יהוה incluye guardar su guardia, decretos, procesos legales y mandamientos. El amor queda unido a obediencia, no solo a afecto verbal.
+Por eso el énfasis cae sobre caminar. #juan_12_35 no dice solo "miren la luz", sino "caminen mientras esté para ustedes la Luz". La identidad se demuestra en una práctica visible. La clase conecta esta idea con #deuteronomio_11_1: amar a יהוה incluye guardar su guardia, decretos, procesos legales y mandamientos. El amor queda unido a obediencia, no solo a afecto verbal.
 
-La parábola de los dos hijos en #matityahu_21_28-31 refuerza la misma línea: el hijo que finalmente hace la voluntad del padre es el que queda aprobado. El punto de la clase es directo: el discípulo no se reconoce por acumular información, sino por hacer la obra correspondiente a la palabra recibida.
+La parábola de los dos hijos en #mateo_21_28-31 refuerza la misma línea: el hijo que finalmente hace la voluntad del padre es el que queda aprobado. El punto de la clase es directo: el discípulo no se reconoce por acumular información, sino por hacer la obra correspondiente a la palabra recibida.
 
 #### Señales que apuntan más allá de sí mismas
 
-Yojanán afirma que Yehoshua hizo señales delante de ellos (#iojanan_12_37). La clase define señal como una acción, gesto o palabra que se entrega para indicar otra cosa. Por eso no se limita a milagros espectaculares; una señal puede ser también un acto profético.
+Yojanán afirma que Yehoshua hizo señales delante de ellos (#juan_12_37). La clase define señal como una acción, gesto o palabra que se entrega para indicar otra cosa. Por eso no se limita a milagros espectaculares; una señal puede ser también un acto profético.
 
 El ejemplo trabajado oralmente es la purificación del templo con el azote. Según la clase, Yehoshua no actúa como alguien que pierde el control, sino como quien dramatiza una advertencia: si la casa hecha para adoración se vuelve cueva de ladrones, vendrá juicio extranjero y desolación. Esa lectura debe ser cotejada con los relatos del templo, pero ayuda a explicar el punto general: una señal no se agota en el gesto; apunta al mensaje de יהוה.
 
-Así se entiende el problema de #iojanan_12_37. Las señales estaban delante de ellos, pero no se afirmaron en él. La falta no está en la claridad del testimonio, sino en la disposición del oído y del corazón.
+Así se entiende el problema de #juan_12_37. Las señales estaban delante de ellos, pero no se afirmaron en él. La falta no está en la claridad del testimonio, sino en la disposición del oído y del corazón.
 
-#### La palabra de Ieshaiahu se llena
+#### La palabra de Yeshayahu se llena
 
-La clase subraya que #iojanan_12_38 dice que la palabra de Ieshaiahu fue llenada. La idea no se presenta como una predicción aislada que por fin encuentra un dato futuro, sino como el colmo de un patrón repetido: el anuncio de יהוה ha sido rechazado una y otra vez, y ahora el rechazo alcanza su punto más grave porque el Mesías mismo está delante de ellos.
+La clase subraya que #juan_12_38 dice que la palabra de Yeshayahu fue llenada. La idea no se presenta como una predicción aislada que por fin encuentra un dato futuro, sino como el colmo de un patrón repetido: el anuncio de יהוה ha sido rechazado una y otra vez, y ahora el rechazo alcanza su punto más grave porque el Mesías mismo está delante de ellos.
 
-#ieshaiahu_53_1 pregunta: "¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?". En hebreo, מי puede funcionar como "quién"; la clase propone oír también el peso retórico de "nadie" en el contexto del rechazo. Esa formulación debe manejarse con cuidado, pero conserva el énfasis de la clase: el anuncio verdadero puede estar expuesto y aun así no ser recibido.
+#isaias_53_1 pregunta: "¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?". En hebreo, מי puede funcionar como "quién"; la clase propone oír también el peso retórico de "nadie" en el contexto del rechazo. Esa formulación debe manejarse con cuidado, pero conserva el énfasis de la clase: el anuncio verdadero puede estar expuesto y aun así no ser recibido.
 
-El "brazo de יהוה" no se revela a una curiosidad neutral. Se revela en el marco de escuchar, afirmarse y obedecer. Por eso #iojanan_12_39-40 cita también #ieshaiahu_6_10: ojos, oídos y corazón quedan involucrados en la ceguera.
+El "brazo de יהוה" no se revela a una curiosidad neutral. Se revela en el marco de escuchar, afirmarse y obedecer. Por eso #juan_12_39-40 cita también #isaias_6_10: ojos, oídos y corazón quedan involucrados en la ceguera.
 
 #### El bloqueo de la propia lógica
 
 La clase identifica una causa central del bloqueo: cuando la persona antepone su propia lógica al anuncio de יהוה, ya está escuchando otra voz. Esto puede ocurrir dentro de sistemas religiosos, dentro de razonamientos aparentemente neutrales, o incluso en quien cree no estar siguiendo a ningún dios. La autosuficiencia del propio criterio se vuelve una forma de idolatría práctica.
 
-Por eso #mishlei_3_5-6 entra como pasaje de control: confiar en יהוה con todo el corazón excluye apoyarse en el propio entendimiento como autoridad final. No significa anular el discernimiento, sino someterlo a la palabra revelada. La clase insiste en que no hay un margen legítimo para mezclar "lo que Elohim dijo" con "lo que a mí me parece" cuando ambas cosas compiten.
+Por eso #proverbios_3_5-6 entra como pasaje de control: confiar en יהוה con todo el corazón excluye apoyarse en el propio entendimiento como autoridad final. No significa anular el discernimiento, sino someterlo a la palabra revelada. La clase insiste en que no hay un margen legítimo para mezclar "lo que Elohim dijo" con "lo que a mí me parece" cuando ambas cosas compiten.
 
-También #devarim_18_15 pesa sobre Yojanán: quien de verdad escuchó a Moshé debe escuchar al profeta que יהוה levantaría. El problema, entonces, no es que Yehoshua aparece desconectado de la Torá y los Profetas; el problema es que muchos leen la Torá y los Profetas sin oír el mensaje que conduce hacia él.
+También #deuteronomio_18_15 pesa sobre Yojanán: quien de verdad escuchó a Moshé debe escuchar al profeta que יהוה levantaría. El problema, entonces, no es que Yehoshua aparece desconectado de la Torá y los Profetas; el problema es que muchos leen la Torá y los Profetas sin oír el mensaje que conduce hacia él.
 
 #### Emunah visible y gloria humana
 
-Yojanán no presenta solo incredulidad abierta. #iojanan_12_42-43 añade un caso más incómodo: muchos de los jefes se afirmaron en él, pero no lo confesaban por temor a los perushim y por amor a la gloria de los hombres. La clase permite leer esto como una fidelidad incompleta o bloqueada en lo visible.
+Yojanán no presenta solo incredulidad abierta. #juan_12_42-43 añade un caso más incómodo: muchos de los jefes se afirmaron en él, pero no lo confesaban por temor a los perushim y por amor a la gloria de los hombres. La clase permite leer esto como una fidelidad incompleta o bloqueada en lo visible.
 
 La emunah, tal como se trabaja en la clase, no puede quedar reducida a una convicción interna que nunca se manifiesta. Si "hijos de la luz" incluye discipulado, entonces la fidelidad debe salir al camino, a la confesión y a la obediencia. Amar la gloria humana más que la gloria de Elohim muestra que otra autoridad sigue gobernando la conducta.
 
 #### Conexiones principales
 
-- #iojanan_12_35-36 con #devarim_11_1: caminar en la luz se expresa guardando lo que יהוה mandó.
-- #iojanan_12_36 con #matityahu_21_28-31: el hijo verdadero se reconoce por hacer la voluntad del padre.
-- #iojanan_12_37-38 con #ieshaiahu_53_1: las señales rechazadas llenan la pregunta profética sobre quién recibe el anuncio.
-- #iojanan_12_40 con #ieshaiahu_6_10: ojos, oídos y corazón quedan implicados en la incapacidad de volver y ser sanado.
-- #devarim_18_15 con #iojanan_12_37-38: escuchar a Moshé debería conducir a escuchar al profeta levantado por יהוה.
-- #mishlei_3_5-6 con #iojanan_12_42-43: apoyarse en otra autoridad, sea la propia lógica o la gloria humana, bloquea la obediencia.
+- #juan_12_35-36 con #deuteronomio_11_1: caminar en la luz se expresa guardando lo que יהוה mandó.
+- #juan_12_36 con #mateo_21_28-31: el hijo verdadero se reconoce por hacer la voluntad del padre.
+- #juan_12_37-38 con #isaias_53_1: las señales rechazadas llenan la pregunta profética sobre quién recibe el anuncio.
+- #juan_12_40 con #isaias_6_10: ojos, oídos y corazón quedan implicados en la incapacidad de volver y ser sanado.
+- #deuteronomio_18_15 con #juan_12_37-38: escuchar a Moshé debería conducir a escuchar al profeta levantado por יהוה.
+- #proverbios_3_5-6 con #juan_12_42-43: apoyarse en otra autoridad, sea la propia lógica o la gloria humana, bloquea la obediencia.
 
 #### Pendiente de verificar
 
 - [ ] Cotejar el uso de מי como pregunta retórica con valor de "nadie" en hebreo bíblico y arameo, sin convertirlo en regla general.
-- [ ] Verificar el vocabulario griego de #iojanan_12_37-38: `σημεῖον`, `πιστεύω`, `πληρόω`, y su relación con la traducción TTH.
+- [ ] Verificar el vocabulario griego de #juan_12_37-38: `σημεῖον`, `πιστεύω`, `πληρόω`, y su relación con la traducción TTH.
 - [ ] Revisar el episodio del azote en el templo como señal profética de juicio extranjero y no como ira descontrolada.
 - [ ] Cotejar la conexión oral entre "perfecto/completo" y no añadir ni quitar a lo dicho por יהוה.
 - [ ] Verificar las referencias exactas usadas por la clase para "si me amáis, guardad mis mandamientos" dentro de Yojanán.
 
 #### Conclusión
 
-La clase lee #iojanan_12_35-43 como una advertencia sobre la responsabilidad de la luz recibida. Yehoshua no deja a los oyentes en una curiosidad religiosa: llama a caminar, a afirmarse y a hacerse hijos de la luz. Las señales estaban delante de ellos, pero la fidelidad no brotó donde el oído ya estaba ocupado por otra voz.
+La clase lee #juan_12_35-43 como una advertencia sobre la responsabilidad de la luz recibida. Yehoshua no deja a los oyentes en una curiosidad religiosa: llama a caminar, a afirmarse y a hacerse hijos de la luz. Las señales estaban delante de ellos, pero la fidelidad no brotó donde el oído ya estaba ocupado por otra voz.
 
-Ieshaiahu no aparece como cita ornamental. Su palabra se llena cuando el anuncio de יהוה alcanza su colmo ante el Mesías y aun así es rechazado. La salida no es más información como acumulación, sino volver a escuchar: no apoyarse en la propia lógica, no amar la gloria humana, y obedecer al que la Torá y los Profetas ya estaban señalando.
+Yeshayahu no aparece como cita ornamental. Su palabra se llena cuando el anuncio de יהוה alcanza su colmo ante el Mesías y aun así es rechazado. La salida no es más información como acumulación, sino volver a escuchar: no apoyarse en la propia lógica, no amar la gloria humana, y obedecer al que la Torá y los Profetas ya estaban señalando.
 
 #### Ver también
 
@@ -1291,52 +1286,52 @@ Ieshaiahu no aparece como cita ornamental. Su palabra se llena cuando el anuncio
 
 ##### Tesis
 
-En #iojanan_12_36-47, la clase lee la luz no como información religiosa sino como camino de fidelidad visible. Andar en la luz significa oír la palabra, guardarla y exhibir fruto. Por eso la incredulidad de muchos ante las señales no se explica como falta de datos, sino como ceguera, velo y cautividad: la palabra fue oída por fuera, pero no se hizo obra.
+En #juan_12_36-47, la clase lee la luz no como información religiosa sino como camino de fidelidad visible. Andar en la luz significa oír la palabra, guardarla y exhibir fruto. Por eso la incredulidad de muchos ante las señales no se explica como falta de datos, sino como ceguera, velo y cautividad: la palabra fue oída por fuera, pero no se hizo obra.
 
 El centro del fragmento es doble. Primero, solo la revelación soberana de יהוה, manifestada en el brazo y en el kabod del Mesías, rompe la ceguera y arranca al hombre de las tinieblas. Segundo, el texto desenmascara el motivo humano: muchos prefirieron el kabod de los hombres antes que el kabod de Elohim.
 
 #### Alcance de la nota
 
-- Fuente principal: fragmento de transcripción automática provisto por el usuario y preservado en `private/sources/youtube_AYrCYjkwyYo_transcript_fragment.txt`.
-- El fragmento cubre una exposición de #iojanan_12_36-47, con énfasis en #ieshaiahu_53_1, #ieshaiahu_6_10 y #devarim_11_1.
+- Fuente principal: fragmento de transcripción automática provisto por el usuario y preservado en la transcripción de trabajo.
+- El fragmento cubre una exposición de #juan_12_36-47, con énfasis en #isaias_53_1, #isaias_6_10 y #deuteronomio_11_1.
 - La nota ordena la enseñanza de la clase; no reproduce cada frase como cita exacta.
-- Algunas propuestas técnicas de lectura, como el uso de qere o la identificación del sujeto en #ieshaiahu_6_10, quedan marcadas como pendientes de verificación.
+- Algunas propuestas técnicas de lectura, como el uso de qere o la identificación del sujeto en #isaias_6_10, quedan marcadas como pendientes de verificación.
 
 #### Hoja de comparación
 
 | Referencia      | Texto local                                                                                                                                                                                                          | Función en la clase                                                                               |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #iojanan_12_36  | TTH: Mientras esté para ustedes la Luz, afírmense en la Luz, y serán hijos de la Luz. Y estas palabras habló Yeshúa. Y fue y se ocultó de ellos.                                                                     | La luz exige respuesta práctica: afirmarse en ella y andar como hijos de luz.                     |
-| #iojanan_12_37  | TTH: Pero aunque había hecho todas estas señales delante de ellos, no se afirmaron en Él,                                                                                                                            | Las señales no producen por sí solas fidelidad si el corazón permanece ciego.                     |
-| #iojanan_12_38  | TTH: para que se llenara la palabra de Ieshaiáhu el profeta, el que dijo: ¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?                                                       | Yojanán conecta la falta de emunah con la pregunta de Ieshaiáhu: el brazo de יהוה debe revelarse. |
-| #iojanan_12_39  | TTH: Por eso no podían afirmarse, porque incluso dijo Ieshaiáhu:                                                                                                                                                     | La incapacidad se interpreta como condición de cautividad, no como simple falta de argumentos.    |
-| #iojanan_12_40  | TTH: Él ha engrosado el corazón de este pueblo, sus oídos ha hecho pesados, y sus ojos ha embadurnado, para que no vea con sus ojos, y con sus oídos escuche, y con su corazón discierna, y regrese y sea sanado él. | La clase discute cómo leer el endurecimiento, la ceguera y el velo sin atribuir maldad a יהוה.    |
-| #iojanan_12_41  | TTH: Estas palabras dijo Ieshaiáhu cuando vio su gloria, y habló acerca de Él.                                                                                                                                       | El kabod visto por Ieshaiáhu se aplica al Mesías: su peso revierte la cautividad.                 |
-| #iojanan_12_42  | TTH: Y asimismo, muchos de los jefes se afirmaron en Él, pero por causa de los perushim no confesaban, para no ser echados de la asamblea.                                                                           | Hay una emunah no confesada por presión social y temor al sistema religioso.                      |
-| #iojanan_12_43  | TTH: Porque amaban la gloria de los hombres más que la gloria de Elohim.                                                                                                                                             | Verso diagnóstico: el problema es qué kabod pesa más sobre el corazón.                            |
-| #iojanan_12_44  | TTH: Y exclamó Yeshúa, y dijo: ¡Los que se afirman en Mí, no se afirman en Mí, sino en Aquel que me envió!                                                                                                           | Exhibir fidelidad al Mesías es responder al que lo envió por su palabra y juramento.              |
-| #iojanan_12_46  | TTH: Yo soy la luz que he venido al olam, para que todo el que se afirme en Mí, no permanezca en la oscuridad.                                                                                                       | Yeshúa resume su venida como liberación de las tinieblas.                                         |
-| #iojanan_12_47  | TTH: Y si un hombre escucha mis palabras, pero no se afirma, Yo no lo juzgo, porque no he venido para juzgar al olam, sino para salvar al olam.                                                                      | Oír sin guardar anticipa el juicio de la palabra; la intención de la venida es salvar.            |
-| #ieshaiahu_53_1 | OE: מי האמין לשמעתנו וזרוע יהוה על מי נגלתה                                                                                                                                                                       | Texto base detrás de #iojanan_12_38: anuncio, emunah y brazo revelado.                            |
-| #ieshaiahu_6_10 | OE: השמן לב העם הזה ואזניו הכבד ועיניו השע פן יראה בעיניו ובאזניו ישמע ולבבו יבין ושב ורפא לו                                                                                                        | Texto detrás de #iojanan_12_40: corazón, oídos, ojos, retorno y sanidad.                          |
-| #devarim_11_1   | OE: ואהבת את יהוה אלהיך ושמרת משמרתו וחקתיו ומשפטיו ומצותיו כל הימים                                                                                                                                      | La clase lo usa para unir amar, guardar y obedecer todos los días.                                |
+| #juan_12_36  | TTH: Mientras esté para ustedes la Luz, afírmense en la Luz, y serán hijos de la Luz. Y estas palabras habló Yeshúa. Y fue y se ocultó de ellos.                                                                     | La luz exige respuesta práctica: afirmarse en ella y andar como hijos de luz.                     |
+| #juan_12_37  | TTH: Pero aunque había hecho todas estas señales delante de ellos, no se afirmaron en Él,                                                                                                                            | Las señales no producen por sí solas fidelidad si el corazón permanece ciego.                     |
+| #juan_12_38  | TTH: para que se llenara la palabra de Yeshayahu el profeta, el que dijo: ¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?                                                       | Yojanán conecta la falta de emunah con la pregunta de Yeshayahu: el brazo de יהוה debe revelarse. |
+| #juan_12_39  | TTH: Por eso no podían afirmarse, porque incluso dijo Yeshayahu:                                                                                                                                                     | La incapacidad se interpreta como condición de cautividad, no como simple falta de argumentos.    |
+| #juan_12_40  | TTH: Él ha engrosado el corazón de este pueblo, sus oídos ha hecho pesados, y sus ojos ha embadurnado, para que no vea con sus ojos, y con sus oídos escuche, y con su corazón discierna, y regrese y sea sanado él. | La clase discute cómo leer el endurecimiento, la ceguera y el velo sin atribuir maldad a יהוה.    |
+| #juan_12_41  | TTH: Estas palabras dijo Yeshayahu cuando vio su gloria, y habló acerca de Él.                                                                                                                                       | El kabod visto por Yeshayahu se aplica al Mesías: su peso revierte la cautividad.                 |
+| #juan_12_42  | TTH: Y asimismo, muchos de los jefes se afirmaron en Él, pero por causa de los perushim no confesaban, para no ser echados de la asamblea.                                                                           | Hay una emunah no confesada por presión social y temor al sistema religioso.                      |
+| #juan_12_43  | TTH: Porque amaban la gloria de los hombres más que la gloria de Elohim.                                                                                                                                             | Verso diagnóstico: el problema es qué kabod pesa más sobre el corazón.                            |
+| #juan_12_44  | TTH: Y exclamó Yeshúa, y dijo: ¡Los que se afirman en Mí, no se afirman en Mí, sino en Aquel que me envió!                                                                                                           | Exhibir fidelidad al Mesías es responder al que lo envió por su palabra y juramento.              |
+| #juan_12_46  | TTH: Yo soy la luz que he venido al olam, para que todo el que se afirme en Mí, no permanezca en la oscuridad.                                                                                                       | Yeshúa resume su venida como liberación de las tinieblas.                                         |
+| #juan_12_47  | TTH: Y si un hombre escucha mis palabras, pero no se afirma, Yo no lo juzgo, porque no he venido para juzgar al olam, sino para salvar al olam.                                                                      | Oír sin guardar anticipa el juicio de la palabra; la intención de la venida es salvar.            |
+| #isaias_53_1 | OE: מי האמין לשמעתנו וזרוע יהוה על מי נגלתה                                                                                                                                                                       | Texto base detrás de #juan_12_38: anuncio, emunah y brazo revelado.                            |
+| #isaias_6_10 | OE: השמן לב העם הזה ואזניו הכבד ועיניו השע פן יראה בעיניו ובאזניו ישמע ולבבו יבין ושב ורפא לו                                                                                                        | Texto detrás de #juan_12_40: corazón, oídos, ojos, retorno y sanidad.                          |
+| #deuteronomio_11_1   | OE: ואהבת את יהוה אלהיך ושמרת משמרתו וחקתיו ומשפטיו ומצותיו כל הימים                                                                                                                                      | La clase lo usa para unir amar, guardar y obedecer todos los días.                                |
 
 #### Hoja léxica
 
 | Término           | Transliteración | Sentido en la nota                                          | Raíz o base | Observación                                                                                    |
 | ----------------- | --------------- | ----------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------- |
 | **(אמן / אמונה)** | aman / emunah   | afirmarse, fidelidad visible, crianza en la escuela de יהוה | אמן         | La clase evita reducir emunah a asentimiento mental; se prueba en obras.                       |
-| **(אור)**         | or              | luz, revelación y camino practicable                        | אור         | Se conecta con #tehilim_119_105: la palabra como lámpara y luz.                                |
+| **(אור)**         | or              | luz, revelación y camino practicable                        | אור         | Se conecta con #salmos_119_105: la palabra como lámpara y luz.                                |
 | **(שמע)**         | shema           | oír con respuesta                                           | שמע         | Oír sin guardar no basta; el oído debe traducirse en manos, pies y boca.                       |
-| **(שמר)**         | shamar          | guardar, vigilar, custodiar                                 | שמר         | #devarim_11_1 sostiene que amar a יהוה implica guardar su cerco, estatutos, juicios y mitzvot. |
-| **(זרוע)**        | zeroa           | brazo, poder revelado                                       | זרוע        | En #ieshaiahu_53_1 el brazo de יהוה se revela; la clase lo identifica con la obra del Mesías.  |
+| **(שמר)**         | shamar          | guardar, vigilar, custodiar                                 | שמר         | #deuteronomio_11_1 sostiene que amar a יהוה implica guardar su cerco, estatutos, juicios y mitzvot. |
+| **(זרוע)**        | zeroa           | brazo, poder revelado                                       | זרוע        | En #isaias_53_1 el brazo de יהוה se revela; la clase lo identifica con la obra del Mesías.  |
 | **(זרע)**         | zera            | semilla                                                     | זרע         | El expositor propone una lectura pedagógica entre זרוע y זרע; requiere verificación técnica.   |
-| **(כבוד)**        | kabod           | gloria, peso que domina la decisión                         | כבד         | #iojanan_12_43 contrapone el kabod de los hombres y el kabod de Elohim.                        |
+| **(כבוד)**        | kabod           | gloria, peso que domina la decisión                         | כבד         | #juan_12_43 contrapone el kabod de los hombres y el kabod de Elohim.                        |
 | **(נביא)**        | navi            | portavoz                                                    | נבא         | La clase enfatiza profecía como proferir palabra de יהוה, no como espectáculo de predicciones. |
 
 #### Luz que se practica
 
-La clase abre relacionando la luz de #iojanan_12_36 con la Torah como lámpara: "lámpara a mis pies es tu palabra, y luz para mi senda" (#tehilim_119_105). Si la palabra es luz, entonces andar en luz no puede separarse de guardar mandamientos, amar al prójimo y producir fruto.
+La clase abre relacionando la luz de #juan_12_36 con la Torah como lámpara: "lámpara a mis pies es tu palabra, y luz para mi senda" (#salmos_119_105). Si la palabra es luz, entonces andar en luz no puede separarse de guardar mandamientos, amar al prójimo y producir fruto.
 
 Por eso el expositor insiste en la práctica. Compartir información, correcciones y detalles puede ser útil, pero no reemplaza el fruto. Si alguien dice amar y no guarda, o dice amar y aborrece a su prójimo, su propia obra contradice su confesión. El conocimiento que no se vuelve obediencia queda como ruido religioso.
 
@@ -1344,15 +1339,15 @@ La línea pastoral del fragmento es fuerte: primero el fruto, luego los detalles
 
 #### Oír, guardar y hacer
 
-#iojanan_12_47 se lee junto con #devarim_11_1. Amar a יהוה se expresa guardando su mishmeret, sus estatutos, sus juicios y sus mitzvot todos los días. En ese marco, "escuchar mis palabras" no es una recepción pasiva.
+#juan_12_47 se lee junto con #deuteronomio_11_1. Amar a יהוה se expresa guardando su mishmeret, sus estatutos, sus juicios y sus mitzvot todos los días. En ese marco, "escuchar mis palabras" no es una recepción pasiva.
 
-La clase conecta esta idea con la advertencia apostólica de no ser solo oidores, sino hacedores (#yaakov_1_22). La palabra que entra por el oído debe traducirse en obras: lo que hacen las manos, adónde van los pies y lo que habla la boca desde la abundancia del corazón.
+La clase conecta esta idea con la advertencia apostólica de no ser solo oidores, sino hacedores (#santiago_1_22). La palabra que entra por el oído debe traducirse en obras: lo que hacen las manos, adónde van los pies y lo que habla la boca desde la abundancia del corazón.
 
 El discípulo verdadero no queda definido por haber estado presente ante la enseñanza, sino por escuchar y guardar. Si alguien escucha y no guarda, esa misma palabra queda como testigo contra él para el día postrero.
 
 #### El brazo revelado y el corazón cautivo
 
-#iojanan_12_37-38 presenta una tensión: hubo señales delante de ellos, pero no se afirmaron en Yehoshua. La clase responde desde #ieshaiahu_53_1: "¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?"
+#juan_12_37-38 presenta una tensión: hubo señales delante de ellos, pero no se afirmaron en Yehoshua. La clase responde desde #isaias_53_1: "¿Quién ha sido afirmado a nuestro dicho? ¿Y el brazo de יהוה a quién se ha revelado?"
 
 El punto no es que faltaran datos públicos. El punto es que la palabra debe ser revelada por יהוה para que pase del oído a la obra. El expositor describe la emunah como el sistema educativo de יהוה: quien nunca estuvo en esa escuela no puede producir el fruto de esa escuela.
 
@@ -1360,23 +1355,23 @@ Así se expone la condición humana: corazón de piedra, esclavitud al pecado, c
 
 #### Ceguera, velo y responsabilidad
 
-La clase dedica especial atención a #iojanan_12_40 y #ieshaiahu_6_10. El expositor rechaza leer el texto como si יהוה tuviera maldad para impedir que alguien vea, entienda y sea sanado. Lo compara con el caso de Paroh: la revelación de יהוה manifiesta la dureza del corazón, no introduce maldad en יהוה.
+La clase dedica especial atención a #juan_12_40 y #isaias_6_10. El expositor rechaza leer el texto como si יהוה tuviera maldad para impedir que alguien vea, entienda y sea sanado. Lo compara con el caso de Paroh: la revelación de יהוה manifiesta la dureza del corazón, no introduce maldad en יהוה.
 
 Una forma de explicarlo en la clase es que cuando יהוה muestra con claridad, la ceguera de los ojos se vuelve manifiesta. Si alguien no ve lo que fue puesto delante de él, el problema no está en la luz sino en la ceguera. Del mismo modo, el mandamiento no crea el pecado; saca a flote lo que ya estaba en el hombre.
 
-También aparece la imagen del velo en el corazón, conectada con #qorintiyim_bet_3_14. La clase atribuye ese velo a Satanás y a la corrupción introducida por el pecado, no a una maldad en Elohim. Esta identificación del sujeto de #ieshaiahu_6_10 queda como propuesta interpretativa que debe cotejarse con hebreo, griego y recepción apostólica.
+También aparece la imagen del velo en el corazón, conectada con #2_corintios_3_14. La clase atribuye ese velo a Satanás y a la corrupción introducida por el pecado, no a una maldad en Elohim. Esta identificación del sujeto de #isaias_6_10 queda como propuesta interpretativa que debe cotejarse con hebreo, griego y recepción apostólica.
 
 #### El kabod del Mesías revierte la cautividad
 
-#iojanan_12_41 afirma que Ieshaiáhu dijo estas cosas cuando vio su gloria y habló acerca de él. La clase conecta este verso con la explicación previa de kabod como peso. El peso del Mesías es suficientemente grande para arrancar al hombre del dominio de las tinieblas.
+#juan_12_41 afirma que Yeshayahu dijo estas cosas cuando vio su gloria y habló acerca de él. La clase conecta este verso con la explicación previa de kabod como peso. El peso del Mesías es suficientemente grande para arrancar al hombre del dominio de las tinieblas.
 
 La imagen usada en el fragmento es una tela sujeta con clavos a un marco. Si cae sobre ella un peso mayor, la tela se desgarra o se arranca de aquello que la tenía fija. Así se explica el kabod del Mesías: su peso rompe las ataduras de la ceguera, del velo y de Satanás.
 
-Por eso #iojanan_12_46 resume el argumento: Yehoshua vino como luz al olam para que todo el que se afirme en él no permanezca en oscuridad. La liberación no es una mejora moral superficial; es traslado desde tinieblas hacia luz.
+Por eso #juan_12_46 resume el argumento: Yehoshua vino como luz al olam para que todo el que se afirme en él no permanezca en oscuridad. La liberación no es una mejora moral superficial; es traslado desde tinieblas hacia luz.
 
 #### El kabod de los hombres
 
-#iojanan_12_42-43 muestra que algunos líderes se afirmaron en Yehoshua, pero no lo confesaban por miedo a ser expulsados de la asamblea. La clase lo llama una radiografía del corazón: amaban más el kabod de los hombres que el kabod de Elohim.
+#juan_12_42-43 muestra que algunos líderes se afirmaron en Yehoshua, pero no lo confesaban por miedo a ser expulsados de la asamblea. La clase lo llama una radiografía del corazón: amaban más el kabod de los hombres que el kabod de Elohim.
 
 Esta oposición explica por qué el mundo venidero y el mundo presente compiten en el corazón humano. Si el peso de los hombres, la reputación, la aceptación y la pertenencia social pesan más, entonces la confesión queda bloqueada. El problema no es falta de evidencia, sino cautividad a un peso falso.
 
@@ -1390,7 +1385,7 @@ El expositor contrasta esto con el uso espectacular de dones. Una congregación 
 
 #### Yehoshua, el enviado y la palabra jurada
 
-#iojanan_12_44-45 se lee como continuidad entre Yehoshua y el que lo envió: quien se afirma en Yehoshua se afirma en el que lo envió, y quien lo ve ve al que lo envió. La clase insiste en que Yehoshua no trae palabras propias separadas, así como Ieshaiáhu o Irmeiahu no hablaban desde invención humana.
+#juan_12_44-45 se lee como continuidad entre Yehoshua y el que lo envió: quien se afirma en Yehoshua se afirma en el que lo envió, y quien lo ve ve al que lo envió. La clase insiste en que Yehoshua no trae palabras propias separadas, así como Yeshayahu o Yirmeyahu no hablaban desde invención humana.
 
 El expositor conecta el envío del Mesías con el juramento de יהוה, especialmente la promesa a Avraham. La palabra jurada de יהוה es lo que envía al Mesías: él viene porque יהוה asumió la responsabilidad de cumplir lo que prometió.
 
@@ -1398,26 +1393,26 @@ En este punto también aparece una advertencia doctrinal: no convertir al Mesía
 
 #### Conexiones principales
 
-- #iojanan_12_36 con #tehilim_119_105: la luz no es solo símbolo; es palabra que guía el andar.
-- #iojanan_12_37-38 con #ieshaiahu_53_1: las señales no bastan sin revelación del brazo de יהוה.
-- #iojanan_12_40 con #ieshaiahu_6_10: la ceguera, el corazón pesado y la sanidad aparecen como diagnóstico espiritual.
-- #iojanan_12_41 con #iojanan_12_46: el kabod del Mesías y su venida como luz rompen la permanencia en tinieblas.
-- #iojanan_12_42-43: la confesión queda bloqueada cuando pesa más el kabod de los hombres.
-- #iojanan_12_47 con #devarim_11_1: oír debe terminar en guardar; amar a יהוה no se separa de custodiar sus mandamientos.
+- #juan_12_36 con #salmos_119_105: la luz no es solo símbolo; es palabra que guía el andar.
+- #juan_12_37-38 con #isaias_53_1: las señales no bastan sin revelación del brazo de יהוה.
+- #juan_12_40 con #isaias_6_10: la ceguera, el corazón pesado y la sanidad aparecen como diagnóstico espiritual.
+- #juan_12_41 con #juan_12_46: el kabod del Mesías y su venida como luz rompen la permanencia en tinieblas.
+- #juan_12_42-43: la confesión queda bloqueada cuando pesa más el kabod de los hombres.
+- #juan_12_47 con #deuteronomio_11_1: oír debe terminar en guardar; amar a יהוה no se separa de custodiar sus mandamientos.
 
 #### Pendiente de verificar
 
-- [ ] Cotejar la lectura de #ieshaiahu_6_10 en hebreo, LXX y el uso de Yojanán para precisar el sujeto del endurecimiento, la ceguera y el velo.
+- [ ] Cotejar la lectura de #isaias_6_10 en hebreo, LXX y el uso de Yojanán para precisar el sujeto del endurecimiento, la ceguera y el velo.
 - [ ] Verificar la conexión propuesta entre זרוע y זרע como lectura por qere o técnica consonántica antigua; por ahora queda como lectura pedagógica.
-- [ ] Revisar la referencia exacta de #qorintiyim_bet_3_14 y su relación con el velo sobre el corazón.
+- [ ] Revisar la referencia exacta de #2_corintios_3_14 y su relación con el velo sobre el corazón.
 - [ ] Cotejar el desarrollo sobre profecía en Qorintiyim Alef 14 con el texto local cuando esté disponible.
 - [ ] Verificar la conexión entre el juramento a Avraham, el paso entre los animales y el lenguaje de envío en Yojanán.
 
 #### Conclusión
 
-El fragmento presenta #iojanan_12_36-47 como llamado a salir de las tinieblas por medio de una emunah que se ve. La luz exige andar; el oído debe guardar; la palabra debe hacerse obra. Cuando esto no ocurre, el texto revela una condición más profunda que ignorancia: ceguera, velo, corazón pesado y amor al kabod humano.
+El fragmento presenta #juan_12_36-47 como llamado a salir de las tinieblas por medio de una emunah que se ve. La luz exige andar; el oído debe guardar; la palabra debe hacerse obra. Cuando esto no ocurre, el texto revela una condición más profunda que ignorancia: ceguera, velo, corazón pesado y amor al kabod humano.
 
-La buena noticia del pasaje es que Yehoshua vino como luz para que quien se afirme en él no permanezca en oscuridad. El kabod que Ieshaiáhu vio no es una idea abstracta: es el peso del Mesías, capaz de romper el dominio de las tinieblas y hacer que la palabra de יהוה produzca fruto en los que oyen y guardan.
+La buena noticia del pasaje es que Yehoshua vino como luz para que quien se afirme en él no permanezca en oscuridad. El kabod que Yeshayahu vio no es una idea abstracta: es el peso del Mesías, capaz de romper el dominio de las tinieblas y hacer que la palabra de יהוה produzca fruto en los que oyen y guardan.
 
 #### Ver también
 
@@ -1438,28 +1433,28 @@ La enseñanza también une el juicio final con la vida olam: el mandamiento de A
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota sintetiza la clase y no reproduce el video palabra por palabra.
-- El fragmento disponible cubre principalmente #iojanan_12_47-50; aunque al inicio se anuncia una transición hacia el capítulo 13, la transcripción entregada se detiene al cierre de #iojanan_12_50.
-- La clase retoma temas previos de Yojanán 12: ceguera de #ieshaiahu_6_10, peso/gloria de Yehoshua, juicio del olam y obediencia visible.
+- El fragmento disponible cubre principalmente #juan_12_47-50; aunque al inicio se anuncia una transición hacia el capítulo 13, la transcripción entregada se detiene al cierre de #juan_12_50.
+- La clase retoma temas previos de Yojanán 12: ceguera de #isaias_6_10, peso/gloria de Yehoshua, juicio del olam y obediencia visible.
 - Las identificaciones de "día postrero" con Sheminí Atzéret, y las distinciones técnicas entre verbos hebreos de juicio/perdón, quedan conservadas como líneas de estudio pendientes de cotejo.
 
 #### Hoja de comparación
 
 | Referencia       | Texto local                                                                                                                                              | Función en la clase                                                                    |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| #iojanan_12_47   | TTH: Y si un hombre escucha mis palabras, pero no se afirma, Yo no lo juzgo, porque no he venido para juzgar al olam, sino para salvar al olam.          | Yeshúa se presenta como salvador; oír debe volverse afirmación obediente.              |
-| #iojanan_12_48   | TTH: Y el que me rechaza y no toma mis palabras, tiene juez que lo juzgue: la palabra que he hablado lo juzgará en el día final.                         | La misma palabra que salva funciona como criterio de juicio en el día postrero.        |
-| #iojanan_12_49   | TTH: Porque no he hablado de Mí mismo, sino que el que me envió, mi Padre, Él me mandó qué decir y qué hablar.                                           | Yeshúa no habla por iniciativa aislada; habla desde Abba como fuente de la promesa.    |
-| #iojanan_12_50   | TTH: Y sé que su mandamiento es vida olam. Por eso, todo lo que Yo hablo, como el Padre me ha dicho, así hablo.                                          | El mandamiento no es carga muerta: su contenido y fin es vida olam.                    |
-| #ieshaiahu_6_10  | OE: השמן לב העם הזה ואזניו הכבד ועיניו השע פן יראה בעיניו ובאזניו ישמע ולבבו יבין ושב ורפא לו                                            | Trasfondo de la ceguera y sordera del pueblo tratadas en la clase anterior.            |
+| #juan_12_47   | TTH: Y si un hombre escucha mis palabras, pero no se afirma, Yo no lo juzgo, porque no he venido para juzgar al olam, sino para salvar al olam.          | Yeshúa se presenta como salvador; oír debe volverse afirmación obediente.              |
+| #juan_12_48   | TTH: Y el que me rechaza y no toma mis palabras, tiene juez que lo juzgue: la palabra que he hablado lo juzgará en el día final.                         | La misma palabra que salva funciona como criterio de juicio en el día postrero.        |
+| #juan_12_49   | TTH: Porque no he hablado de Mí mismo, sino que el que me envió, mi Padre, Él me mandó qué decir y qué hablar.                                           | Yeshúa no habla por iniciativa aislada; habla desde Abba como fuente de la promesa.    |
+| #juan_12_50   | TTH: Y sé que su mandamiento es vida olam. Por eso, todo lo que Yo hablo, como el Padre me ha dicho, así hablo.                                          | El mandamiento no es carga muerta: su contenido y fin es vida olam.                    |
+| #isaias_6_10  | OE: השמן לב העם הזה ואזניו הכבד ועיניו השע פן יראה בעיניו ובאזניו ישמע ולבבו יבין ושב ורפא לו                                            | Trasfondo de la ceguera y sordera del pueblo tratadas en la clase anterior.            |
 | #romanos_6_22    | TTH: Y ahora, que han sido liberados del pecado, han sido hechos siervos de Elohim, hay para ustedes su fruto para santidad, y su postrer, la vida olam. | La salvación produce santidad y termina en vida olam.                                  |
 | #romanos_8_1     | TTH: Por eso, ahora no hay juicio de muerte para estos que están en Yeshúa el Mesías, los que no andan conforme a la carne, sino conforme al Rúaj.       | Equivale a escuchar y guardar: no hay condenación para quienes andan conforme al Rúaj. |
 | #romanos_8_7     | TTH: Porque la intención de la carne es enemistad contra Elohim, porque a la Torah de Elohim no se somete, ni tampoco puede.                             | Andar en la carne se reconoce por no sujetarse a la voluntad de Elohim.                |
-| #mishlei_31_25   | OE: עז והדר לבושה ותשחק ליום אחרון                                                                                                                   | Base citada para la mujer que se ríe en el día postrero.                               |
-| #tehilim_126_1-3 | OE: בשוב יהוה את שיבת ציון... אז ימלא שחוק פינו... הגדיל יהוה לעשות עמנו היינו שמחים                                                                 | La risa final se relaciona con la restauración de Sion y la alegría del pueblo.        |
-| #devarim_16_15   | OE: שבעת ימים תחג ליהוה אלהיך... והיית אך שמח                                                                                                         | La clase lo conecta con Sucot y la alegría completa.                                   |
-| #devarim_5_26    | OE: כי מי כל בשר אשר שמע קול אלהים חיים מדבר מתוך האש כמנו ויחי                                                                                      | Primer ancla mencionada para "Elohim vivo".                                            |
-| #iehoshua_3_10   | OE: בזאת תדעון כי אל חי בקרבכם...                                                                                                                    | El Elohim vivo se manifiesta por obras en medio del pueblo.                            |
-| #irmeiahu_10_10  | OE: ויהוה אלהים אמת הוא אלהים חיים ומלך עולם...                                                                                                        | Elohim verdadero, vivo y rey del olam.                                                 |
+| #proverbios_31_25   | OE: עז והדר לבושה ותשחק ליום אחרון                                                                                                                   | Base citada para la mujer que se ríe en el día postrero.                               |
+| #salmos_126_1-3 | OE: בשוב יהוה את שיבת ציון... אז ימלא שחוק פינו... הגדיל יהוה לעשות עמנו היינו שמחים                                                                 | La risa final se relaciona con la restauración de Sion y la alegría del pueblo.        |
+| #deuteronomio_16_15   | OE: שבעת ימים תחג ליהוה אלהיך... והיית אך שמח                                                                                                         | La clase lo conecta con Sucot y la alegría completa.                                   |
+| #deuteronomio_5_26    | OE: כי מי כל בשר אשר שמע קול אלהים חיים מדבר מתוך האש כמנו ויחי                                                                                      | Primer ancla mencionada para "Elohim vivo".                                            |
+| #josue_3_10   | OE: בזאת תדעון כי אל חי בקרבכם...                                                                                                                    | El Elohim vivo se manifiesta por obras en medio del pueblo.                            |
+| #jeremias_10_10  | OE: ויהוה אלהים אמת הוא אלהים חיים ומלך עולם...                                                                                                        | Elohim verdadero, vivo y rey del olam.                                                 |
 
 #### Hoja léxica
 
@@ -1467,7 +1462,7 @@ La enseñanza también une el juicio final con la vida olam: el mandamiento de A
 | ------------------------ | -------------------- | ---------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------- |
 | **(שמע)**                | shama                | oír de manera que puede exigir respuesta | שמע         | La clase distingue entre escuchar externamente y guardar en la práctica.                                 |
 | **(שמר)**                | shamar               | guardar, custodiar, poner por obra       | שמר         | "Escuchar y guardar" se alinea con ser hacedores y no solo oidores.                                      |
-| **(κρίνω)**              | krino                | juzgar, discernir, emitir juicio         | κριν-       | En #iojanan_12_47-48 aparece el campo de juzgar; la clase lo conecta con hebreo משפטשפט.                |
+| **(κρίνω)**              | krino                | juzgar, discernir, emitir juicio         | κριν-       | En #juan_12_47-48 aparece el campo de juzgar; la clase lo conecta con hebreo משפטשפט.                |
 | **(שפט)**                | shafat               | juzgar, defender, hacer justicia         | שפט         | La clase subraya el sentido positivo de defender justicia, verdad e inocencia; cotejo técnico pendiente. |
 | **(דין)**                | din / dan            | juzgar, condenar                         | דין         | Se usa en la clase para diferenciar juicio condenatorio; requiere verificación lexical.                  |
 | **(יום אחרון)**          | yom acharon          | día postrero, día final                  | יום + אחרון | La clase lo conecta con Sheminí Atzéret y el cierre de Sucot; verificar fuentes judías.                  |
@@ -1476,7 +1471,7 @@ La enseñanza también une el juicio final con la vida olam: el mandamiento de A
 
 #### La palabra que se escucha y se guarda
 
-La clase abre retomando la discusión anterior sobre #ieshaiahu_6_10 y la ceguera del pueblo. La lectura propuesta es que la incapacidad de ver, oír y comprender está ligada a la obra de Satanás y solo se rompe por la revelación de la gloria de Yehoshua. En ese contexto, #iojanan_12_47 no trata un simple "oír" informativo, sino una palabra que debe ser guardada.
+La clase abre retomando la discusión anterior sobre #isaias_6_10 y la ceguera del pueblo. La lectura propuesta es que la incapacidad de ver, oír y comprender está ligada a la obra de Satanás y solo se rompe por la revelación de la gloria de Yehoshua. En ese contexto, #juan_12_47 no trata un simple "oír" informativo, sino una palabra que debe ser guardada.
 
 El expositor insiste en una distinción práctica: cualquiera puede escuchar; el que realmente escuchó lo muestra guardando la palabra. La obediencia no compra la salvación, pero sí revela que la palabra fue recibida. Por eso la clase conecta este punto con la exhortación apostólica a ser hacedores y no solo oidores.
 
@@ -1502,19 +1497,19 @@ La decisión de Yaakov se presenta como un orden inicial: no inquietar a los gen
 
 #### Andar conforme al Rúaj
 
-#romanos_8_1 se lee como equivalente de #iojanan_12_47: no hay condenación para los que están en Yehoshua el Mesías y no andan conforme a la carne, sino conforme al Rúaj. "Andar" se entiende de modo hebreo: caminar, proceder, conducirse.
+#romanos_8_1 se lee como equivalente de #juan_12_47: no hay condenación para los que están en Yehoshua el Mesías y no andan conforme a la carne, sino conforme al Rúaj. "Andar" se entiende de modo hebreo: caminar, proceder, conducirse.
 
 Por eso andar en el Rúaj no se reduce a ayunos, atmósferas, visiones o lenguaje espiritual. La prueba está en la conducta. #romanos_8_7 define la carne como enemistad contra Elohim porque no se sujeta a la Torah de Elohim ni puede hacerlo. En la clase, el espiritual es el que puede sujetarse a la voluntad de Elohim porque fue liberado para obedecer.
 
 #### La palabra como juez en el día postrero
 
-#iojanan_12_48 dice que quien rechaza a Yehoshua y no recibe sus palabras ya tiene juez: la palabra hablada lo juzgará en el día final. La clase subraya que el juicio no es externo a la palabra; la palabra misma será criterio, defensa y condenación.
+#juan_12_48 dice que quien rechaza a Yehoshua y no recibe sus palabras ya tiene juez: la palabra hablada lo juzgará en el día final. La clase subraya que el juicio no es externo a la palabra; la palabra misma será criterio, defensa y condenación.
 
 Aquí se propone una distinción lexical entre juzgar como defender justicia e inocencia, y juzgar como condenar. Para los que están en Yehoshua, la palabra cumplida en ellos declara limpieza y justificación. Para los impíos, esa misma palabra revela rechazo, infidelidad y servicio al príncipe de este olam.
 
 #### Día postrero, alegría y Sheminí Atzéret
 
-La expresión "día postrero" se conecta en la clase con Sheminí Atzéret, leído como el día después del ciclo de Sucot en el que la alegría queda consumada. El expositor relaciona #mishlei_31_25, donde la mujer se ríe del día último, con #tehilim_126_1-3, donde la restauración de Sion llena la boca de risa, y con #devarim_16_15, donde la fiesta culmina en "estarás solamente alegre".
+La expresión "día postrero" se conecta en la clase con Sheminí Atzéret, leído como el día después del ciclo de Sucot en el que la alegría queda consumada. El expositor relaciona #proverbios_31_25, donde la mujer se ríe del día último, con #salmos_126_1-3, donde la restauración de Sion llena la boca de risa, y con #deuteronomio_16_15, donde la fiesta culmina en "estarás solamente alegre".
 
 La nota conserva esta línea como hipótesis de estudio. La relación entre Yojanán, "día final", Sucot y Sheminí Atzéret requiere cotejo con literatura judía y con el uso de la expresión griega en Yojanán. Aun así, la función teológica en la clase es clara: el día final no es solo amenaza; para los justificados será alegría, entrada y participación en el mundo venidero.
 
@@ -1526,7 +1521,7 @@ El expositor niega que el hombre tenga libertad natural para obedecer. La libert
 
 #### Abba como fuente de la palabra prometida
 
-#iojanan_12_49 introduce la razón por la cual la palabra de Yehoshua tiene ese peso: "no he hablado de Mí mismo". La clase advierte que Yehoshua está hablando ante personas que todavía no comprenden plenamente quién es él, por eso insiste en que no trae una doctrina improvisada.
+#juan_12_49 introduce la razón por la cual la palabra de Yehoshua tiene ese peso: "no he hablado de Mí mismo". La clase advierte que Yehoshua está hablando ante personas que todavía no comprenden plenamente quién es él, por eso insiste en que no trae una doctrina improvisada.
 
 Abba se explica como la fuente de la palabra revelada: las promesas hechas desde Bereshit, la semilla que aplasta a la serpiente, el profeta como Moshé, Eliahu preparando el camino, el rey montado en pollino, el traspasado que será mirado. Abba no aparece como un ser separado que envía a otro dios menor; nombra la institución, fuente y compendio de los designios de יהוה.
 
@@ -1534,13 +1529,13 @@ En ese marco, Yehoshua es el Mesías de יהוה porque el único Elohim se suje
 
 #### El mandamiento es vida olam
 
-#iojanan_12_50 cierra con una afirmación fuerte: el mandamiento de Abba es vida olam. La clase lo conecta con las expresiones "Elohim vivo" o "El vivo" en #devarim_5_26, #iehoshua_3_10 e #irmeiahu_10_10. El Elohim verdadero no comunica solamente información religiosa; comunica vida.
+#juan_12_50 cierra con una afirmación fuerte: el mandamiento de Abba es vida olam. La clase lo conecta con las expresiones "Elohim vivo" o "El vivo" en #deuteronomio_5_26, #josue_3_10 e #jeremias_10_10. El Elohim verdadero no comunica solamente información religiosa; comunica vida.
 
 Conocer esa vida no es conocimiento intelectual. Es conocimiento vivencial que se traduce en conducta, santidad y obediencia. Por eso la palabra que Yehoshua habla no puede separarse del mandamiento, ni el mandamiento puede separarse de vida olam.
 
 #### Israel como proyecto de los designios de Elohim
 
-Hacia el cierre, la clase presenta a Israel como una realidad nacida de los pensamientos y designios de Elohim. #ieshaiahu_43_21 resume esa idea: "este pueblo formé para mí; publicará mi alabanza". Israel existe porque Elohim pensó, prometió y formó un pueblo para sí.
+Hacia el cierre, la clase presenta a Israel como una realidad nacida de los pensamientos y designios de Elohim. #isaias_43_21 resume esa idea: "este pueblo formé para mí; publicará mi alabanza". Israel existe porque Elohim pensó, prometió y formó un pueblo para sí.
 
 Desde ahí, llamar Abba a Elohim es reconocer la fuente de esa existencia, herencia y discipulado. Ser hijo no es solo reclamar herencia; es replicar las obras del maestro. El hijo que no aprende ni procede conforme a su padre se parece a un esclavo y no disfruta la herencia.
 
@@ -1554,10 +1549,10 @@ Desde ahí, llamar Abba a Elohim es reconocer la fuente de esa existencia, heren
 
 #### Pendiente de verificar
 
-- [ ] Cotejar la identificación de "día postrero" en Yojanán con Sheminí Atzéret y las fuentes judías que relacionan #mishlei_31_25, #tehilim_126_1-3 y #devarim_16_15.
+- [ ] Cotejar la identificación de "día postrero" en Yojanán con Sheminí Atzéret y las fuentes judías que relacionan #proverbios_31_25, #salmos_126_1-3 y #deuteronomio_16_15.
 - [ ] Verificar técnicamente la distinción propuesta entre **(שפט)** como defender/hacer justicia y **(דין)** como condenar.
 - [ ] Localizar la referencia exacta de Najmánides para "santifícate aun en lo permitido".
-- [ ] Revisar el griego de #iojanan_12_47-50, especialmente "guardar/afirmarse", "juzgar" y "día final".
+- [ ] Revisar el griego de #juan_12_47-50, especialmente "guardar/afirmarse", "juzgar" y "día final".
 - [ ] Verificar las categorías hebreas de perdón mencionadas en la clase: quitar repudio, levantar carga y reconciliación.
 - [ ] Cotejar la lectura de Abba como institución/fuente de las promesas con las notas previas de Yojanán 10 y 14.
 
@@ -1578,13 +1573,13 @@ Para los que reciben la palabra, el juicio tiene otro rostro: la palabra cumplid
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: <https://www.youtube.com/watch?v=mG0xaFkcSag> — source_id: `youtube:mG0xaFkcSag`.
-- Video: <https://www.youtube.com/watch?v=aRt3PuB_gSw> — source_id: `youtube:aRt3PuB_gSw`.
-- Video: <https://www.youtube.com/watch?v=90O6TYH0NOM> — source_id: `youtube:90O6TYH0NOM`.
-- Video: <https://www.youtube.com/watch?v=ZLTG7uQExR4> — source_id: `youtube:ZLTG7uQExR4`.
-- Video: <https://www.youtube.com/watch?v=So_vr4hwcJQ> — source_id: `youtube:So_vr4hwcJQ`.
-- Video: <https://www.youtube.com/watch?v=0SNICYI6yM0> — source_id: `youtube:0SNICYI6yM0`.
-- Video: <https://www.youtube.com/watch?v=Hv7enV-uw5A> — source_id: `youtube:Hv7enV-uw5A`.
-- Video: <https://www.youtube.com/watch?v=AYrCYjkwyYo> — source_id: `youtube:AYrCYjkwyYo`.
-- Video: <https://www.youtube.com/watch?v=dKqd5lQXyEA> — source_id: `youtube:dKqd5lQXyEA`.
+- Video: <https://www.youtube.com/watch?v=mG0xaFkcSag> — `source_id`: `youtube:mG0xaFkcSag`.
+- Video: <https://www.youtube.com/watch?v=aRt3PuB_gSw> — `source_id`: `youtube:aRt3PuB_gSw`.
+- Video: <https://www.youtube.com/watch?v=90O6TYH0NOM> — `source_id`: `youtube:90O6TYH0NOM`.
+- Video: <https://www.youtube.com/watch?v=ZLTG7uQExR4> — `source_id`: `youtube:ZLTG7uQExR4`.
+- Video: <https://www.youtube.com/watch?v=So_vr4hwcJQ> — `source_id`: `youtube:So_vr4hwcJQ`.
+- Video: <https://www.youtube.com/watch?v=0SNICYI6yM0> — `source_id`: `youtube:0SNICYI6yM0`.
+- Video: <https://www.youtube.com/watch?v=Hv7enV-uw5A> — `source_id`: `youtube:Hv7enV-uw5A`.
+- Video: <https://www.youtube.com/watch?v=AYrCYjkwyYo> — `source_id`: `youtube:AYrCYjkwyYo`.
+- Video: <https://www.youtube.com/watch?v=dKqd5lQXyEA> — `source_id`: `youtube:dKqd5lQXyEA`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

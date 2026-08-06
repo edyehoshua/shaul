@@ -9,11 +9,11 @@ tags:
   - refugio
   - confianza
 references:
-  - "#tehilim_91_1"
-  - "#tehilim_91_2-4"
-  - "#tehilim_91_5-8"
-  - "#tehilim_91_9-13"
-  - "#tehilim_91_14-16"
+  - "#salmos_91_1"
+  - "#salmos_91_2-4"
+  - "#salmos_91_5-8"
+  - "#salmos_91_9-13"
+  - "#salmos_91_14-16"
 sources:
   - "https://www.youtube.com/watch?v=p9-nBI4hEW8"
   - "docs/scriptures/oe/json/psalms/91.json"
@@ -34,13 +34,13 @@ Se sigue el salmo en orden textual y se conserva la exposición concreta de Eric
 
 | Unidad            | Texto hebreo local (OE, sin segmentación)                                                 | Función en el argumento                                         |
 | ----------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| #tehilim_91_1     | **ישב בסתר עליון בצל שדי יתלונן**                                                         | El habitante del secreto y la imagen de refugio abren el poema. |
-| #tehilim_91_2-4   | **אמר ליהוה מחסי ומצודתי אלהי אבטח בו**; **באברתו יסך לך ותחת כנפיו תחסה צנה וסחרה אמתו** | Confesión de refugio, alas, escudo y fidelidad.                 |
-| #tehilim_91_5-8   | **לא תירא מפחד לילה...**; **יפל מצדך אלף...**                                             | La protección se formula frente a miedo, plaga y guerra.        |
-| #tehilim_91_9-13  | **כי אתה יהוה מחסי...**; **כי מלאכיו יצוה לך**                                            | La confianza se relaciona con morada, mensajeros y camino.      |
-| #tehilim_91_14-16 | **כי בי חשק ואפלטהו...**; **עמו אנכי בצרה**                                               | יהוה responde al que se apega, conoce su Nombre y clama.        |
+| #salmos_91_1     | **ישב בסתר עליון בצל שדי יתלונן**                                                         | El habitante del secreto y la imagen de refugio abren el poema. |
+| #salmos_91_2-4   | **אמר ליהוה מחסי ומצודתי אלהי אבטח בו**; **באברתו יסך לך ותחת כנפיו תחסה צנה וסחרה אמתו** | Confesión de refugio, alas, escudo y fidelidad.                 |
+| #salmos_91_5-8   | **לא תירא מפחד לילה...**; **יפל מצדך אלף...**                                             | La protección se formula frente a miedo, plaga y guerra.        |
+| #salmos_91_9-13  | **כי אתה יהוה מחסי...**; **כי מלאכיו יצוה לך**                                            | La confianza se relaciona con morada, mensajeros y camino.      |
+| #salmos_91_14-16 | **כי בי חשק ואפלטהו...**; **עמו אנכי בצרה**                                               | יהוה responde al que se apega, conoce su Nombre y clama.        |
 
-## 91:1-4 — el secreto, la luz y el refugio
+## 91:1-4 — el secreto, la luz y el refugio #salmos_91_1-4
 
 Eric empieza rechazando la costumbre de abrir el salmo en una casa como si el libro tuviera poder mágico. Esa observación pastoral confronta una lectura supersticiosa, y el texto la respalda al poner el acento en el habitante y en su confesión, no en el objeto escrito. El v. 1 dice **ישב בסתר עליון**, “habita/se sienta en el secreto del Altísimo”, y termina con **בצל שדי יתלונן**, una imagen de permanecer o pasar la noche bajo la sombra de Shaddai. El poema no promete protección a cualquier uso externo del rollo.
 
@@ -48,13 +48,13 @@ La clase propone puntuar el verso como “el Altísimo, el que habita en los sec
 
 En el v. 2 el hablante dice **אמר ליהוה מחסי ומצודתי אלהי אבטח בו**: “Digo a יהוה: mi refugio y mi fortaleza, mi Elohim, confiaré en él”. **(מחסה)**, _maḥaseh_, es refugio; **(מצודה)**, _metsudah_, es fortaleza o plaza fuerte. La clase explica _metsudah_ mediante torres y defensa militar, incluso la fortaleza de Sion. La imagen es compatible con el sustantivo, pero los detalles históricos de su construcción no son necesarios para el verso.
 
-## 91:5-8 — miedo, plaga y límites de la promesa
+## 91:5-8 — miedo, plaga y límites de la promesa #salmos_91_5-8
 
 Los vv. 3-4 hablan de trampa, mortandad, alas, escudo y fidelidad; los vv. 5-6 enumeran el miedo nocturno, la flecha diurna, la peste que camina en oscuridad y la destrucción del mediodía. Eric interpreta la mortandad como consecuencia destructiva de apartarse de la Torah y advierte que no se debe leer el salmo como garantía contra toda aflicción. **(דבר)**, _dever_, puede significar peste o mortandad; en este contexto nombra una amenaza colectiva. La aplicación a una pandemia moderna es aproximada, no una predicción literal del salmo.
 
 El v. 7 dice **יפל מצדך אלף ורבבה מימינך אליך לא יגש**, “caerán a tu lado mil y diez mil a tu derecha; a ti no se acercará”. Eric lee el pasaje dentro de la confianza del Mesías, pero el texto poético habla al protegido en segunda persona sin identificarlo históricamente. El v. 8 añade que verá con sus ojos la retribución de los malvados. Esto sostiene una visión de juicio, no una licencia para desear daño personal a los enemigos.
 
-## 91:9-13 — morada, mensajeros y la tentación
+## 91:9-13 — morada, mensajeros y la tentación #salmos_91_9-13
 
 El v. 9 reitera: **כי אתה יהוה מחסי עליון שמת מעונך**, “porque tú, יהוה, eres mi refugio; has puesto al Altísimo por tu morada”. Eric conecta esta repetición con la pregunta de quién habla y propone que la voz puede leerse mesiánicamente. El salmo no da un nombre propio; esa identificación es una inferencia canónica, no un dato del encabezado.
 
@@ -62,7 +62,7 @@ Los vv. 11-12 dicen **כי מלאכיו יצוה לך לשמרך בכל דרכי
 
 El v. 13 menciona león, cobra, cachorro de león y dragón. **(דרך)**, _darakh_, significa pisar o hollar; el lenguaje expresa dominio sobre amenazas dentro del poema. La aplicación a poderes espirituales puede ser mesiánica y pedagógica, pero no debe borrar las imágenes animales del texto local.
 
-## 91:14-16 — respuesta de יהוה al que conoce su Nombre
+## 91:14-16 — respuesta de יהוה al que conoce su Nombre #salmos_91_14-16
 
 La última unidad cambia de voz: **כי בי חשק ואפלטהו אשגבהו כי ידע שמי**, “porque se apegó a mí, lo libraré; lo pondré en alto, porque conoció mi Nombre”. **(חשק)**, _ḥashaq_, significa apegarse, desear o adherirse; aquí describe una relación de lealtad, no una emoción superficial. **(ידע)**, _yada_, significa conocer; en contexto puede incluir reconocimiento y relación obediente. Eric insiste en que conocer el Nombre no es solo pronunciar una etiqueta, sino reconocer lo revelado de יהוה. Esa ampliación es una inferencia teológica apoyada por el campo relacional del verbo.
 

@@ -9,10 +9,10 @@ tags:
   - justificacion
   - discernimiento
 references:
-  - "#shemot_20_2"
-  - "#vaikra_4_27-35"
-  - "#vaikra_17_7"
-  - "#devarim_6_4-5"
+  - "#exodo_20_2"
+  - "#levitico_4_27-35"
+  - "#levitico_17_7"
+  - "#deuteronomio_6_4-5"
 sources:
   - "https://www.youtube.com/watch?v=0KIf2pmoseI"
   - "docs/scriptures/oe/json/exodus/20.json"
@@ -35,10 +35,10 @@ Esta nota desarrolla la clase pública del hermano Eric de Jesús Rodríguez Men
 
 | Referencia      | Texto local OE normalizado                                                                                          | Función                                                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| #shemot_20_2    | **אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים**                                                               | La palabra normativa comienza con la identidad y liberación de יהוה, no con una contabilidad desarraigada.                     |
-| #vaikra_4_27-28 | **ואם נפש אחת תחטא בשגגה מעם הארץ בעשתה אחת ממצות יהוה אשר לא תעשינה ואשם** / **והביא קרבנו שעירת עזים תמימה נקבה** | Una obligación puede depender de una situación concreta: pecado inadvertido y procedimiento de ofrenda.                        |
-| #vaikra_4_35    | **וכפר עליו הכהן על חטאתו אשר חטא ונסלח לו**                                                                        | La reparación cultual se formula dentro de un sistema sacerdotal y no debe separarse de sus condiciones.                       |
-| #vaikra_17_7    | **ולא יזבחו עוד את זבחיהם לשעירם אשר הם זנים אחריהם**                                                               | El sacrificio a poderes extraños es una prohibición concreta, no una categoría que absorba todas las prácticas por asociación. |
+| #exodo_20_2    | **אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים**                                                               | La palabra normativa comienza con la identidad y liberación de יהוה, no con una contabilidad desarraigada.                     |
+| #levitico_4_27-28 | **ואם נפש אחת תחטא בשגגה מעם הארץ בעשתה אחת ממצות יהוה אשר לא תעשינה ואשם** / **והביא קרבנו שעירת עזים תמימה נקבה** | Una obligación puede depender de una situación concreta: pecado inadvertido y procedimiento de ofrenda.                        |
+| #levitico_4_35    | **וכפר עליו הכהן על חטאתו אשר חטא ונסלח לו**                                                                        | La reparación cultual se formula dentro de un sistema sacerdotal y no debe separarse de sus condiciones.                       |
+| #levitico_17_7    | **ולא יזבחו עוד את זבחיהם לשעירם אשר הם זנים אחריהם**                                                               | El sacrificio a poderes extraños es una prohibición concreta, no una categoría que absorba todas las prácticas por asociación. |
 
 ## Una lista no sustituye el texto
 
@@ -50,7 +50,7 @@ Eric comienza explicando que la numeración tradicional ayuda a ordenar el estud
 
 La clase distingue mandamientos de observancia pública, como la construcción del templo o el establecimiento de un rey, de mandamientos individuales que dependen de una circunstancia. La distinción no pretende minimizar la Torah; evita atribuir a una sola persona una obligación que el texto dirige a la comunidad. **(קהל)**, _qahal_, significa asamblea, congregación o reunión convocada. Es una correspondencia directa en el campo básico, pero aplicar «asamblea» a cada responsabilidad individual sería una extensión aproximada.
 
-Levítico 4 muestra el segundo tipo. Si una persona del pueblo peca inadvertidamente, lleva una ofrenda (#vaikra_4_27-35). **(שגגה)**, _shegagah_, significa inadvertencia, error no intencional o falta cometida sin propósito; la forma delimita el caso. «Error» es una glosa aproximada, mientras que usar la perícopa para encubrir una transgresión deliberada sería ilegítimo. **(חטא)**, _jattat_, significa pecar o errar; su fuerza aquí es la falta reconocida que entra en un procedimiento de expiación. La existencia de la mitzvá no implica que toda persona esté diariamente en la misma situación ritual.
+Levítico 4 muestra el segundo tipo. Si una persona del pueblo peca inadvertidamente, lleva una ofrenda (#levitico_4_27-35). **(שגגה)**, _shegagah_, significa inadvertencia, error no intencional o falta cometida sin propósito; la forma delimita el caso. «Error» es una glosa aproximada, mientras que usar la perícopa para encubrir una transgresión deliberada sería ilegítimo. **(חטא)**, _jattat_, significa pecar o errar; su fuerza aquí es la falta reconocida que entra en un procedimiento de expiación. La existencia de la mitzvá no implica que toda persona esté diariamente en la misma situación ritual.
 
 Eric añade obligaciones relacionadas con etnia o condición jurídica, como el siervo hebreo, la sierva hebrea o el siervo cananeo. Esa observación debe conservarse como clasificación histórica de la exposición, no como una invitación a trasladar categorías antiguas sin análisis. **(אזרח)**, _ezraj_, significa nativo o miembro natural del país; su relación con las categorías comunitarias es aproximada y depende del pasaje. El texto debe definir quién recibe el mandato antes de que el intérprete aplique su lenguaje a una comunidad presente.
 
@@ -91,11 +91,11 @@ La clasificación que Eric propone debe seguir el orden que muestran las períco
 
 Éxodo 20:2 gobierna la relación entre liberación y obediencia. **(יָצָא)**, _yatsa_, significa salir, partir o hacer salir; aquí su fuerza contextual recuerda la acción histórica por la que יהוה sacó a Israel de Mitsrayim. La glosa «sacó» es **directa** en la narración, mientras afirmar que toda obediencia posterior es una condición para producir aquella liberación sería **incorrecto**: el orden del versículo presenta primero la identidad y el acto liberador de יהוה. La observación de Eric sobre no usar las 613 mitzvot como salario recibe apoyo en este orden, aunque no elimina el carácter obligatorio de la respuesta.
 
-Levítico 4 aporta el límite de la eventualidad. **(חָטָא)**, _jatta_, significa pecar o errar; **(אָשֵׁם)**, _asham_, significa ser culpable o quedar bajo responsabilidad. En #vaikra_4_27-35 el caso empieza con una persona del pueblo que peca inadvertidamente y continúa con una ofrenda y la acción sacerdotal. «Culpable» es **contextual y directa** para el procedimiento, pero usar esta perícopa para afirmar que toda omisión de un rito produce exactamente la misma consecuencia en toda época sería **inferencial**. La clase acierta al exigir que se identifique la condición; el texto añade que reconocer la condición no convierte la culpa en una abstracción sin reparación.
+Levítico 4 aporta el límite de la eventualidad. **(חָטָא)**, _jatta_, significa pecar o errar; **(אָשֵׁם)**, _asham_, significa ser culpable o quedar bajo responsabilidad. En #levitico_4_27-35 el caso empieza con una persona del pueblo que peca inadvertidamente y continúa con una ofrenda y la acción sacerdotal. «Culpable» es **contextual y directa** para el procedimiento, pero usar esta perícopa para afirmar que toda omisión de un rito produce exactamente la misma consecuencia en toda época sería **inferencial**. La clase acierta al exigir que se identifique la condición; el texto añade que reconocer la condición no convierte la culpa en una abstracción sin reparación.
 
 La distinción entre obligaciones públicas e individuales también necesita vocabulario preciso. **(קָהָל)**, _qahal_, significa asamblea o congregación convocada; su fuerza contextual puede describir al pueblo como sujeto colectivo. **(יָחִיד)**, _yajid_, significa uno, único o individuo; la comparación con una obligación personal es **pedagógica**, no una prueba de que toda mitzvá pueda dividirse mediante una categoría fija. Del mismo modo, **(אֶזְרָח)**, _ezraj_, significa nativo o miembro natural del país; su uso para una condición étnica o civil es **aproximado** fuera de su perícopa. Estas formas explican por qué el destinatario importa, pero no autorizan a convertir una clasificación didáctica de Eric en una taxonomía bíblica exhaustiva.
 
-Finalmente, la ausencia del templo modifica la posibilidad de realizar ciertos actos, no la obligación de leer responsablemente la Torah. **(מִקְדָּשׁ)**, _miqdash_, significa santuario o lugar santo; su fuerza contextual es el lugar de culto, y la glosa «templo» es **aproximada** cuando se aplica a todos los períodos. **(כִּפֶּר)**, _kipper_, significa hacer expiación, purgar o cubrir; en #vaikra_4_35 nombra la acción sacerdotal dentro del rito, mientras «perdonó» corresponde al resultado expresado por el versículo y es **directo** solo en ese resultado. La enseñanza de Eric recibe apoyo cuando rechaza inventar penalidades rituales sin santuario; el texto no permite convertir esa cautela histórica en indiferencia frente a la idolatría, la justicia o el amor ordenados en otras perícopas.
+Finalmente, la ausencia del templo modifica la posibilidad de realizar ciertos actos, no la obligación de leer responsablemente la Torah. **(מִקְדָּשׁ)**, _miqdash_, significa santuario o lugar santo; su fuerza contextual es el lugar de culto, y la glosa «templo» es **aproximada** cuando se aplica a todos los períodos. **(כִּפֶּר)**, _kipper_, significa hacer expiación, purgar o cubrir; en #levitico_4_35 nombra la acción sacerdotal dentro del rito, mientras «perdonó» corresponde al resultado expresado por el versículo y es **directo** solo en ese resultado. La enseñanza de Eric recibe apoyo cuando rechaza inventar penalidades rituales sin santuario; el texto no permite convertir esa cautela histórica en indiferencia frente a la idolatría, la justicia o el amor ordenados en otras perícopas.
 
 ## Control de atribución y alcance
 
@@ -111,7 +111,7 @@ En `youtube:0KIf2pmoseI`, aproximadamente entre 00:01:37 y 00:02:25, Eric distin
 
 La forma **(ציבור)**, _tsibur_, significa público, colectividad o comunidad; no es la palabra que gobierna esos versículos locales, sino un término **pedagógico** para resumir la clasificación de Eric. En cambio, **(נפש)**, _nefesh_, significa persona, ser viviente o vida; en Levítico 4:27 su fuerza contextual identifica al sujeto individual del caso ritual. «Individual» es una glosa **aproximada** del alcance, no una teoría que convierta toda mitzvá en una de dos categorías rígidas. Así, la observación de Eric es metodológicamente útil cuando obliga a preguntar quién recibe el mandato, pero queda cualificada si el esquema didáctico reemplaza la sintaxis de cada perícopa.
 
-La misma secuencia protege contra una lectura salarial de la obediencia. Éxodo 20:2 pone delante la liberación de יהוה; Levítico 4 describe responsabilidad y reparación; Levítico 17:7 delimita una prohibición cultual concreta. **(אשם)**, _asham_, significa ser culpable o quedar responsable; en #vaikra_4_27-35 su fuerza contextual nombra la responsabilidad que activa el procedimiento, no una tarifa universal para toda omisión posterior. La clasificación pública/individual de Eric recibe, por tanto, **apoyo textual cualificado**: ayuda a no imponer obligaciones sin destinatario, pero la Torah sigue exigiendo obediencia, discernimiento y reparación donde el texto las ordena.
+La misma secuencia protege contra una lectura salarial de la obediencia. Éxodo 20:2 pone delante la liberación de יהוה; Levítico 4 describe responsabilidad y reparación; Levítico 17:7 delimita una prohibición cultual concreta. **(אשם)**, _asham_, significa ser culpable o quedar responsable; en #levitico_4_27-35 su fuerza contextual nombra la responsabilidad que activa el procedimiento, no una tarifa universal para toda omisión posterior. La clasificación pública/individual de Eric recibe, por tanto, **apoyo textual cualificado**: ayuda a no imponer obligaciones sin destinatario, pero la Torah sigue exigiendo obediencia, discernimiento y reparación donde el texto las ordena.
 
 ## Reparación focal: obligación situada, no contabilidad aislada
 

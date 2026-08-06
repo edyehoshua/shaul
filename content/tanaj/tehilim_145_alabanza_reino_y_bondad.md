@@ -5,27 +5,27 @@ date: 2026-07-29
 tags: [tanaj, tehilim, alabanza, reino, bondad, resurreccion]
 references:
   [
-    "#tehilim_145_1",
-    "#tehilim_145_2",
-    "#tehilim_145_3",
-    "#tehilim_145_4",
-    "#tehilim_145_5",
-    "#tehilim_145_6",
-    "#tehilim_145_7",
-    "#tehilim_145_8",
-    "#tehilim_145_9",
-    "#tehilim_145_10",
-    "#tehilim_145_11",
-    "#tehilim_145_12",
-    "#tehilim_145_13",
-    "#tehilim_145_14",
-    "#tehilim_145_15",
-    "#tehilim_145_16",
-    "#tehilim_145_17",
-    "#tehilim_145_18",
-    "#tehilim_145_19",
-    "#tehilim_145_20",
-    "#tehilim_145_21",
+    "#salmos_145_1",
+    "#salmos_145_2",
+    "#salmos_145_3",
+    "#salmos_145_4",
+    "#salmos_145_5",
+    "#salmos_145_6",
+    "#salmos_145_7",
+    "#salmos_145_8",
+    "#salmos_145_9",
+    "#salmos_145_10",
+    "#salmos_145_11",
+    "#salmos_145_12",
+    "#salmos_145_13",
+    "#salmos_145_14",
+    "#salmos_145_15",
+    "#salmos_145_16",
+    "#salmos_145_17",
+    "#salmos_145_18",
+    "#salmos_145_19",
+    "#salmos_145_20",
+    "#salmos_145_21",
   ]
 sources:
   - "https://www.youtube.com/watch?v=dKBaLiM1JdU"
@@ -47,12 +47,12 @@ La clase estudia Tehilim 145:1-14 en su primera entrega y explica varios términ
 
 | Unidad             | Texto TTH local                                                                                                                                                                                                                                                                                                                                                                                 | Función en la enseñanza                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| #tehilim_145_1-3   | «Te exaltaré mi Elohim el Rey, y bendeciré tu Nombre para siempre y siempre. Cada día te bendeciré, y alabaré tu Nombre para siempre y siempre. Grande es יהוה, y muy alabado, y para su grandeza no hay investigación.»                                                                                                                                                                        | La alabanza es diaria y reconoce un Rey cuya grandeza no se agota.                                   |
-| #tehilim_145_4-7   | «Generación a generación alabará tus obras, y tus hechos poderosos darán a conocer. El ornamento de la honra de tu esplendor y los actos de tus maravillas reflexionaré. Y la fuerza de tus obras temibles ellos dirán, y tus grandezas contaré. La memoria de tu innumerable bondad pronunciarán, y tu justicia gritarán alegremente.»                                                         | Las obras pasan de una generación a otra por conversación y proclamación.                            |
-| #tehilim_145_8-9   | «Favorable y amoroso es יהוה, largo de nariz y grande de bondad. Bueno es יהוה para todos, y sus amores entrañables, sobre todas sus obras.»                                                                                                                                                                                                                                                    | La bondad y la paciencia de יהוה abarcan sus obras, sin borrar su justicia.                          |
-| #tehilim_145_10-13 | «Te confesarán, יהוה, todas tus obras, y tus benevolentes te bendecirán. La honra de tu reino dirán, y tu poder hablarán, para hacer conocer a los hijos del hombre sus hechos poderosos, y la honra del ornamento de su reino. Tu reino es reino de todos los tiempos, y tu dominio en toda generación y generación.»                                                                          | Los benevolentes anuncian el peso visible del reino a los hijos de Adam.                             |
-| #tehilim_145_14-16 | «Sostiene יהוה a todos los que caen, y endereza a todos los encorvados (O, y levanta a todos los inclinados). Los ojos de todos esperan en ti, y tú les das su alimento a su tiempo. Abres tu mano y satisfaces a todo ser viviente según su voluntad.»                                                                                                                                         | El rey eterno sostiene al débil y alimenta a toda criatura en su tiempo.                             |
-| #tehilim_145_17-21 | «Justo es יהוה en todos sus caminos, y amoroso en todas sus obras. Cercano es יהוה a todos los que lo invocan, a todos los que lo invocan en verdad. Cumple el deseo de los que le temen, oye su clamor y los salva. יהוה guarda a todos los que lo aman, y destruye a todos los malvados. Mi boca hablará la alabanza de יהוה, y toda carne bendecirá su santo Nombre para siempre y siempre.» | La bondad del reino incluye justicia, cercanía, salvación y alabanza universal sin borrar el juicio. |
+| #salmos_145_1-3   | «Te exaltaré mi Elohim el Rey, y bendeciré tu Nombre para siempre y siempre. Cada día te bendeciré, y alabaré tu Nombre para siempre y siempre. Grande es יהוה, y muy alabado, y para su grandeza no hay investigación.»                                                                                                                                                                        | La alabanza es diaria y reconoce un Rey cuya grandeza no se agota.                                   |
+| #salmos_145_4-7   | «Generación a generación alabará tus obras, y tus hechos poderosos darán a conocer. El ornamento de la honra de tu esplendor y los actos de tus maravillas reflexionaré. Y la fuerza de tus obras temibles ellos dirán, y tus grandezas contaré. La memoria de tu innumerable bondad pronunciarán, y tu justicia gritarán alegremente.»                                                         | Las obras pasan de una generación a otra por conversación y proclamación.                            |
+| #salmos_145_8-9   | «Favorable y amoroso es יהוה, largo de nariz y grande de bondad. Bueno es יהוה para todos, y sus amores entrañables, sobre todas sus obras.»                                                                                                                                                                                                                                                    | La bondad y la paciencia de יהוה abarcan sus obras, sin borrar su justicia.                          |
+| #salmos_145_10-13 | «Te confesarán, יהוה, todas tus obras, y tus benevolentes te bendecirán. La honra de tu reino dirán, y tu poder hablarán, para hacer conocer a los hijos del hombre sus hechos poderosos, y la honra del ornamento de su reino. Tu reino es reino de todos los tiempos, y tu dominio en toda generación y generación.»                                                                          | Los benevolentes anuncian el peso visible del reino a los hijos de Adam.                             |
+| #salmos_145_14-16 | «Sostiene יהוה a todos los que caen, y endereza a todos los encorvados (O, y levanta a todos los inclinados). Los ojos de todos esperan en ti, y tú les das su alimento a su tiempo. Abres tu mano y satisfaces a todo ser viviente según su voluntad.»                                                                                                                                         | El rey eterno sostiene al débil y alimenta a toda criatura en su tiempo.                             |
+| #salmos_145_17-21 | «Justo es יהוה en todos sus caminos, y amoroso en todas sus obras. Cercano es יהוה a todos los que lo invocan, a todos los que lo invocan en verdad. Cumple el deseo de los que le temen, oye su clamor y los salva. יהוה guarda a todos los que lo aman, y destruye a todos los malvados. Mi boca hablará la alabanza de יהוה, y toda carne bendecirá su santo Nombre para siempre y siempre.» | La bondad del reino incluye justicia, cercanía, salvación y alabanza universal sin borrar el juicio. |
 
 ## De la alabanza diaria a la grandeza inescrutable (vv. 1-3)
 

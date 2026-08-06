@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_53_1"
-  - "#tehilim_53_7"
+  - "#salmos_53_1"
+  - "#salmos_53_7"
 sources:
   - "https://www.youtube.com/watch?v=EvyStR8kcys"
   - "docs/scriptures/oe/json/psalms/53.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 53. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                             | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_53_1 | למנצח על מחלת משכיל לדוד                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_53_7 | מי יתן מציון ישעות ישראל בשוב אלהים שבות עמו יגל יעקב ישמח ישראל | El verso final permite observar el cierre de la composición.         |
+| #salmos_53_1 | למנצח על מחלת משכיל לדוד                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_53_7 | מי יתן מציון ישעות ישראל בשוב אלהים שבות עמו יגל יעקב ישמח ישראל | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 53 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 53» — <https://www.youtube.com/watch?v=EvyStR8kcys> — source_id: `youtube:EvyStR8kcys`.
+- «Tehilim/Himnos/Salmo Cap 53» — <https://www.youtube.com/watch?v=EvyStR8kcys> — `source_id`: `youtube:EvyStR8kcys`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

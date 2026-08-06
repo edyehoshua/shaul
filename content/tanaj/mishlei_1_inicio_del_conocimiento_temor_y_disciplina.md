@@ -4,14 +4,14 @@ description: "Estudio introductorio de Mishlei 1:1-5 sobre alegoría, conocimien
 date: 2026-08-05
 tags: [mishlei, mishlei_1, conocimiento, disciplina, discernimiento, temor]
 references:
-  - "#mishlei_1_1"
-  - "#mishlei_1_2"
-  - "#mishlei_1_3"
-  - "#mishlei_1_4"
-  - "#mishlei_1_5"
+  - "#proverbios_1_1"
+  - "#proverbios_1_2"
+  - "#proverbios_1_3"
+  - "#proverbios_1_4"
+  - "#proverbios_1_5"
   - "#mateo_13_10"
   - "#mateo_13_13"
-  - "#yeshayahu_6_9"
+  - "#isaias_6_9"
 sources:
   - "https://www.youtube.com/watch?v=nfHIkjygsa4"
   - "docs/scriptures/oe/json/proverbs/1.json"
@@ -33,11 +33,11 @@ Esta nota organiza la primera clase de la serie de Mishlei. La sesión introduce
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_1_1 | משלי שלמה בן דוד מלך ישראל | Proverbios (O, Alegorías) de Shelomóh, hijo de David, rey de Israel; |
-| #mishlei_1_2 | לדעת חכמה ומוסר להבין אמרי בינה | para conocer sabiduría y disciplina, para discernir dichos de discernimiento, |
-| #mishlei_1_3 | לקחת מוסר השכל צדק ומשפט ומישרים | para recibir disciplina, actuando prudentemente, justicia, juicio y rectitudes; |
-| #mishlei_1_4 | לתת לפתאים ערמה לנער דעת ומזמה | para dar a los ingenuos astucia, al joven, conocimiento y pensamientos de consejo. |
-| #mishlei_1_5 | ישמע חכם ויוסף לקח ונבון תחבלות יקנה | Escuchará el sabio y aumentará aprendizaje, y el entendido creará direcciones, |
+| #proverbios_1_1 | משלי שלמה בן דוד מלך ישראל | Proverbios (O, Alegorías) de Shelomóh, hijo de David, rey de Israel; |
+| #proverbios_1_2 | לדעת חכמה ומוסר להבין אמרי בינה | para conocer sabiduría y disciplina, para discernir dichos de discernimiento, |
+| #proverbios_1_3 | לקחת מוסר השכל צדק ומשפט ומישרים | para recibir disciplina, actuando prudentemente, justicia, juicio y rectitudes; |
+| #proverbios_1_4 | לתת לפתאים ערמה לנער דעת ומזמה | para dar a los ingenuos astucia, al joven, conocimiento y pensamientos de consejo. |
+| #proverbios_1_5 | ישמע חכם ויוסף לקח ונבון תחבלות יקנה | Escuchará el sabio y aumentará aprendizaje, y el entendido creará direcciones, |
 
 ## Mishlei no es un refrán aislado: es una comparación que enseña
 
@@ -72,10 +72,10 @@ Finalmente, el versículo 5 muestra el fruto: el sabio escucha y aumenta el apre
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_1_1-2 | _Mishlei_ significa alegorías/comparaciones y requiere entendimiento dado por יהוה. | Conexión léxica y aplicación con Mateo 13 calificadas. |
-| #mishlei_1_2-3 | _Musar_, _daat_ y _biná_ forman un conocimiento que se recibe, discierne y practica. | Apoyo textual; matices léxicos conservados. |
-| #mishlei_1_4 | El ingenuo está abierto a voces diversas y debe recibir astucia orientada al bien. | Observación atribuida; aplicación positiva de términos pendiente de cotejo. |
-| #mishlei_1_5 | El sabio es aprendiz: escucha la disciplina y aumenta el aprendizaje. | Apoyo textual directo. |
+| #proverbios_1_1-2 | _Mishlei_ significa alegorías/comparaciones y requiere entendimiento dado por יהוה. | Conexión léxica y aplicación con Mateo 13 calificadas. |
+| #proverbios_1_2-3 | _Musar_, _daat_ y _biná_ forman un conocimiento que se recibe, discierne y practica. | Apoyo textual; matices léxicos conservados. |
+| #proverbios_1_4 | El ingenuo está abierto a voces diversas y debe recibir astucia orientada al bien. | Observación atribuida; aplicación positiva de términos pendiente de cotejo. |
+| #proverbios_1_5 | El sabio es aprendiz: escucha la disciplina y aumenta el aprendizaje. | Apoyo textual directo. |
 
 ## Pendiente de verificar
 
@@ -87,7 +87,7 @@ Finalmente, el versículo 5 muestra el fruto: el sabio escucha y aumenta el apre
 ## Conexiones principales
 
 - #mateo_13_10 y #mateo_13_13: Yehoshua enseña mediante parábolas; la conexión con _mashal_ es pedagógica, no una identidad automática.
-- #yeshayahu_6_9: la clase usa el pasaje para hablar de oír y comprender; queda pendiente cotejar su formulación exacta.
+- #isaias_6_9: la clase usa el pasaje para hablar de oír y comprender; queda pendiente cotejar su formulación exacta.
 
 ## Conclusión
 

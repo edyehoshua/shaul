@@ -9,8 +9,8 @@ tags:
   - justicia
   - hijos_de_coraj
 references:
-  - "#tehilim_45_1-9"
-  - "#tehilim_45_10-18"
+  - "#salmos_45_1-9"
+  - "#salmos_45_10-18"
 sources:
   - "https://www.youtube.com/watch?v=6ITzybv3b0E"
   - "docs/scriptures/oe/json/psalms/45.json"
@@ -36,13 +36,13 @@ El expositor es el hermano Eric de Jesús Rodríguez Mendoza. Esta nota conserva
 | 45:10-16 | בנות מלכים ביקרותיך נצבה שגל לימינך בכתם אופיר; שמעי בת וראי והטי אזנך ושכחי עמך ובית אביך; ויתאו המלך יפיך כי הוא אדניך והשתחוי לו; ובת צר במנחה פניך יחלו עשירי עם; כל כבודה בת מלך פנימה ממשבצות זהב לבושה; לרקמות תובל למלך בתולות אחריה רעותיה מובאות לך; תובלנה בשמחת וגיל תבאינה בהיכל מלך | La novia escucha, deja la casa paterna y es conducida con alegría al palacio; la lectura mesiánica no debe borrar la escena nupcial.                              |
 | 45:17-18 | תחת אבתיך יהיו בניך תשיתמו לשרים בכל הארץ; אזכירה שמך בכל דר ודר על כן עמים יהודך לעלם ועד                                                                                                                                                                                                        | El cierre desplaza la memoria hacia hijos y pueblos: el nombre del rey será recordado y alabado por las generaciones.                                             |
 
-## 45:1-3: un cántico de aprecio que se vuelve palabra para el rey
+## 45:1-3: un cántico de aprecio que se vuelve palabra para el rey #salmos_45_1-3
 
 Eric comienza recordando que los títulos importan. **משכיל**, _maskil_, puede señalar una composición instructiva o reflexiva; su relación con «enseñanza» es directa en la función del encabezado, aunque no obliga a una única forma musical. El título termina con **שיר ידידת**, que la clase relaciona con aprecio íntimo, estima profunda y una cercanía que no debe aplanarse en «romance». El sentido normal de **ידיד**, _yadid_, es amado, querido o apreciado; en este título la relación con «cántico de aprecio» es aproximada y pedagógica, porque el texto no explica por sí solo toda la historia afectiva sugerida por Eric.
 
 El poeta declara: «rebosó mi corazón una palabra buena; digo mis obras para un rey; mi lengua es pluma de escriba veloz». **רחש**, _rajash_, significa bullir, brotar o rebosar; describe una palabra que sale del interior, no una fórmula vacía. Eric usa esta imagen para presentar una obra dirigida al rey. En 45:3 el rey es llamado **יפיפית**, _yefyafit_, «muy hermoso» o «bien formado». La clase recalca que «hermoso» puede expresar algo bien constituido, no únicamente atractivo en sentido estético. Esa aplicación es pedagógica, pero el paralelismo con la gracia derramada en los labios sostiene que la belleza incluye la palabra y la conducta pública.
 
-## 45:4-9: fuerza sometida a verdad, humildad y justicia
+## 45:4-9: fuerza sometida a verdad, humildad y justicia #salmos_45_4-9
 
 El rey debe ceñir la espada «sobre el muslo», pero **גבור**, _gibbor_, no significa solamente alguien musculoso: es un fuerte, valiente o guerrero poderoso. La relación con «poderoso y valiente» es directa. Sin embargo, el verso siguiente limita cualquier lectura de violencia autónoma: el rey cabalga por **דבר אמת**, «palabra de verdad», y por **ענוה צדק**, «humildad de justicia» o «mansedumbre de justicia». Eric insiste en que la fuerza del rey no es la última palabra; sus flechas y su gobierno deben servir a la verdad y a la justicia.
 
@@ -50,7 +50,7 @@ El centro ético está en 45:8: «amas la justicia y odias la maldad». **צדק
 
 Eric dedica atención a 45:7-8, donde aparece **אלהים** junto al trono y luego «Elohim, tu Elohim». La clase propone entender el lenguaje como atribución de autoridad al rey por el amor eterno de la Deidad, evitando multiplicar dioses. El texto hebreo sí contiene la repetición אלהים אלהיך y el contraste entre trono, justicia y unción; la explicación de que el rey recibe autoridad de Elohim es una inferencia teológica atribuida, no una traducción literal inequívoca. La relación con Hebreos 1:8-9 es canónica y mesiánica, pero debe conservarse la diferencia entre la lectura apostólica y la escena real del salmo.
 
-## 45:10-18: escuchar, dejar la casa y entrar con alegría
+## 45:10-18: escuchar, dejar la casa y entrar con alegría #salmos_45_10-18
 
 La segunda mitad cambia la perspectiva y se dirige a la hija: «escucha, mira e inclina tu oído; olvida tu pueblo y la casa de tu padre». **שמע**, _shama_, significa oír, escuchar y atender; aquí es un mandato relacional que conduce a una nueva lealtad. El rey desea su belleza, pero el propio verso lo llama **אדניך**, «tu señor» o «tu amo». La novia no aparece como decoración muda: oye, responde y es conducida.
 
@@ -89,6 +89,6 @@ Tehilim 45 no separa belleza, fuerza y autoridad de la verdad y la justicia. Eri
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 45» — <https://www.youtube.com/watch?v=6ITzybv3b0E> — source_id: `youtube:6ITzybv3b0E`.
+- «Tehilim/Himnos/Salmo Cap 45» — <https://www.youtube.com/watch?v=6ITzybv3b0E> — `source_id`: `youtube:6ITzybv3b0E`.
 - Texto bíblico local: Tehilim 45 en `docs/scriptures/oe/json/psalms/45.json`.
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción automática como cita literal.

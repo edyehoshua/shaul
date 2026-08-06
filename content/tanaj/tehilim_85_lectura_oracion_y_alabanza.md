@@ -9,9 +9,9 @@ tags:
   - justicia
   - shalom
 references:
-  - "#tehilim_85_1-4"
-  - "#tehilim_85_5-9"
-  - "#tehilim_85_10-14"
+  - "#salmos_85_1-4"
+  - "#salmos_85_5-9"
+  - "#salmos_85_10-14"
 sources:
   - "https://www.youtube.com/watch?v=psVNlQMmCCk"
   - "docs/scriptures/oe/json/psalms/85.json"
@@ -36,7 +36,7 @@ El expositor acreditado es el hermano Eric de Jesús Rodríguez Mendoza. Esta no
 | 85:5-9 | שובנו אלהי ישענו והפר כעסך עמנו; הלא אתה תשוב תחינו ועמך ישמחו בך; הראנו יהוה חסדך וישועך תתן לנו; אשמעה מה ידבר האל יהוה כי ידבר שלום אל עמו | Eric destaca que la restauración debe producir vida, gozo, escucha y paz hablada por יהוה. |
 | 85:10-14 | חסד ואמת נפגשו צדק ושלום נשקו; אמת מארץ תצמח וצדק משמים נשקף; גם יהוה יתן הטוב וארצנו תתן יבולה; צדק לפניו יהלך וישם לדרך פעמיו | Las virtudes no son abstracciones aisladas: la verdad brota, la tierra da fruto y la justicia prepara el camino. |
 
-## 85:1-4: memoria del favor y del perdón
+## 85:1-4: memoria del favor y del perdón #salmos_85_1-4
 
 El encabezado identifica un salmo de los hijos de Qóraj. Eric comienza, materialmente, por la obra previa de יהוה: «te complaciste en tu tierra», «hiciste volver el cautiverio de Yaakov», «levantaste la iniquidad» y «cubriсте todo su pecado». El texto confirma cuatro acciones atribuidas a יהוה antes de la petición de los versos siguientes. La comunidad no inventa una esperanza desde cero; recuerda una restauración y un perdón ya recibidos.
 
@@ -44,7 +44,7 @@ La repetición de la raíz **שוב**, _shuv_, recorre el salmo de manera signif
 
 **עון**, _avon_, significa culpa o iniquidad, y **חטאת**, _jatat_, pecado. En 85:3 ambos aparecen como aquello que יהוה levanta y cubre. «Cubrir» es traducción exacta del verbo **כסית**, _kisah_, pero la fuerza contextual es perdón efectivo, no ocultamiento de una injusticia que nunca se trata. El salmo pasa de la memoria de esa misericordia a la súplica de una nueva intervención.
 
-## 85:5-9: retorno, vida, gozo y escucha
+## 85:5-9: retorno, vida, gozo y escucha #salmos_85_5-9
 
 El centro de la súplica es **שובנו אלהי ישענו**, «restáuranos, Dios de nuestra salvación». Eric relaciona este retorno con la pregunta «¿estarás enojado para siempre?» y con la petición de que יהוה retire su indignación. El texto no niega la realidad de la disciplina o del enojo; pide que no sean la última palabra. «¿No volverás tú a darnos vida?» enlaza la vuelta de יהוה con la vida de su pueblo, y el resultado explícito es que el pueblo se alegrará en él.
 
@@ -52,7 +52,7 @@ El verso 8 pide: «muéstranos tu חסד y danos tu salvación». **חסד**, _j
 
 Eric presta atención a la postura de escucha del verso 9: «escucharé qué hablará יהוה». No se pide solamente una experiencia interior; el hablante espera un mensaje concreto. La línea dice que él hablará paz a su pueblo, a sus fieles, y añade la advertencia «que no vuelvan a la necedad». **שלום**, _shalom_, significa paz, integridad y bienestar; reducirlo a una sensación de tranquilidad sería una aproximación insuficiente. El contexto une paz con retorno y con no regresar a la necedad. La salvación está cerca de quienes le temen, para que la gloria habite en la tierra: el salmo conserva reverencia y responsabilidad junto a la esperanza.
 
-## 85:10-14: encuentro de virtudes y fruto de la tierra
+## 85:10-14: encuentro de virtudes y fruto de la tierra #salmos_85_10-14
 
 Eric destaca la imagen memorable: «חסד y אמת se encontraron; צדק y שלום se besaron». El texto no presenta dos pares como lemas desconectados, sino como una escena poética de armonía. **אמת**, _emet_, significa verdad, firmeza o fidelidad; **צדק**, _tsedeq_, justicia o rectitud; **שלום**, _shalom_, paz y bienestar. Las transliteraciones reproducen las formas fuente y no deben confundirse con traducciones. La relación entre los términos y «misericordia, verdad, justicia y paz» es exacta en dirección semántica, aunque toda traducción de poesía es aproximada en matiz.
 
@@ -81,6 +81,6 @@ Tehilim 85 enseña a pedir restauración recordando misericordia concreta. La co
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 85» — <https://www.youtube.com/watch?v=psVNlQMmCCk> — source_id: `youtube:psVNlQMmCCk`.
+- «Tehilim/Himnos/Salmo Cap 85» — <https://www.youtube.com/watch?v=psVNlQMmCCk> — `source_id`: `youtube:psVNlQMmCCk`.
 - Texto bíblico local: Tehilim 85 en `docs/scriptures/oe/json/psalms/85.json`.
 - Esta nota organiza y contrasta la exposición pública; no presenta una transcripción automática como cita literal.

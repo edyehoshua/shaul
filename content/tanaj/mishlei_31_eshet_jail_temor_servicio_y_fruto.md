@@ -4,28 +4,28 @@ description: "Estudio de Mishlei 31:10-31 sobre el poema acróstico de la mujer 
 date: 2026-08-05
 tags: [mishlei, mishlei_31, eshet_jail, temor, servicio, sabiduria]
 references:
-  - "#mishlei_31_10"
-  - "#mishlei_31_11"
-  - "#mishlei_31_12"
-  - "#mishlei_31_13"
-  - "#mishlei_31_14"
-  - "#mishlei_31_15"
-  - "#mishlei_31_16"
-  - "#mishlei_31_17"
-  - "#mishlei_31_18"
-  - "#mishlei_31_19"
-  - "#mishlei_31_20"
-  - "#mishlei_31_21"
-  - "#mishlei_31_22"
-  - "#mishlei_31_23"
-  - "#mishlei_31_24"
-  - "#mishlei_31_25"
-  - "#mishlei_31_26"
-  - "#mishlei_31_27"
-  - "#mishlei_31_28"
-  - "#mishlei_31_29"
-  - "#mishlei_31_30"
-  - "#mishlei_31_31"
+  - "#proverbios_31_10"
+  - "#proverbios_31_11"
+  - "#proverbios_31_12"
+  - "#proverbios_31_13"
+  - "#proverbios_31_14"
+  - "#proverbios_31_15"
+  - "#proverbios_31_16"
+  - "#proverbios_31_17"
+  - "#proverbios_31_18"
+  - "#proverbios_31_19"
+  - "#proverbios_31_20"
+  - "#proverbios_31_21"
+  - "#proverbios_31_22"
+  - "#proverbios_31_23"
+  - "#proverbios_31_24"
+  - "#proverbios_31_25"
+  - "#proverbios_31_26"
+  - "#proverbios_31_27"
+  - "#proverbios_31_28"
+  - "#proverbios_31_29"
+  - "#proverbios_31_30"
+  - "#proverbios_31_31"
 sources:
   - "https://www.youtube.com/watch?v=i7Hk5uUN8G4"
   - "docs/scriptures/oe/json/proverbs/31.json"
@@ -46,28 +46,28 @@ Esta nota organiza la clase final sobre Mishlei 31:10-31. Se conserva la secuenc
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_31_10 | אשת חיל מי ימצא ורחק מפנינים מכרה | Mujer de valor, ¿quién la hallará? y lejano más que las perlas su comercio. |
-| #mishlei_31_11 | בטח בה לב בעלה ושלל לא יחסר | Confía en ella el corazón de su esposo, y botín no faltará. |
-| #mishlei_31_12 | גמלתהו טוב ולא רע כל ימי חייה | Ella le retribuye bien y no mal, todos los días de la vida de ella. |
-| #mishlei_31_13 | דרשה צמר ופשתים ותעש בחפץ כפיה | Busca lana y lino, y hacen con deleite sus palmas. |
-| #mishlei_31_14 | היתה כאניות סוחר ממרחק תביא לחמה | Ella es como los barcos del mercader, desde lejos hace venir su pan. |
-| #mishlei_31_15 | ותקם בעוד לילה ותתן טרף לביתה וחק לנערתיה | Y se levanta aún en la noche, y da alimento a su casa y porción asignada a sus siervas. |
-| #mishlei_31_16 | זממה שדה ותקחהו מפרי כפיה נטע נטעה כרם | Considera cuidadosamente un campo y lo compra, del fruto de sus palmas planta una viña. |
-| #mishlei_31_17 | חגרה בעוז מתניה ותאמץ זרועותיה | Ciñe con fuerza sus lomos y fortalece sus brazos. |
-| #mishlei_31_18 | טעמה כי טוב סחרה לא יכבה בלילה נרה | Degusta que su mercadeo es bueno, no se apaga en la noche su lámpara. |
-| #mishlei_31_19 | ידיה שלחה בכישור וכפיה תמכו פלך | Sus manos envía a la rueca, y sus palmas sostienen el huso. |
-| #mishlei_31_20 | כפה פרשה לעני וידיה שלחה לאביון | Su palma extiende al humilde, y sus manos envía al necesitado. |
-| #mishlei_31_21 | לא תירא לביתה משלג כי כל ביתה לבש שנים | No tiene miedo de la nieve para su casa, porque toda su casa está vestida doble. |
-| #mishlei_31_22 | מרבדים עשתה לה שש וארגמן לבושה | Colchas hace para ella, lino fino y púrpura es su vestido. |
-| #mishlei_31_23 | נודע בשערים בעלה בשבתו עם זקני ארץ | Conocido en las puertas es su esposo, cuando se sienta con los ancianos de la tierra. |
-| #mishlei_31_24 | סדין עשתה ותמכר וחגור נתנה לכנעני | Sábanas hace, y vende; y cinturón entrega al comerciante. |
-| #mishlei_31_25 | עז והדר לבושה ותשחק ליום אחרון | Fuerza y ornamento es su vestido, y ríe para el día postrero. |
-| #mishlei_31_26 | פיה פתחה בחכמה ותורת חסד על לשונה | Su boca abre con sabiduría, y la Torah de bondad sobre su lengua. |
-| #mishlei_31_27 | צופיה הליכות ביתה ולחם עצלות לא תאכל | Ella vigila el caminar de su casa, y el pan de la pereza no come. |
-| #mishlei_31_28 | קמו בניה ויאשרוה בעלה ויהללה | Se levantan sus hijos y la llaman ¡feliz!, su esposo, y la alaba. |
-| #mishlei_31_29 | רבות בנות עשו חיל ואת עלית על כלנה | Muchas hijas han hecho valor, pero tú subiste por encima de todas ellas. |
-| #mishlei_31_30 | שקר החן והבל היפי אשה יראת יהוה היא תתהלל | Mentira es la gracia y vapor la belleza, la mujer que teme a יהוה, ella será alabada. |
-| #mishlei_31_31 | תנו לה מפרי ידיה ויהללוה בשערים מעשיה | ¡Den a ella del fruto de sus manos! ¡Y la alabarán en las puertas sus obras! |
+| #proverbios_31_10 | אשת חיל מי ימצא ורחק מפנינים מכרה | Mujer de valor, ¿quién la hallará? y lejano más que las perlas su comercio. |
+| #proverbios_31_11 | בטח בה לב בעלה ושלל לא יחסר | Confía en ella el corazón de su esposo, y botín no faltará. |
+| #proverbios_31_12 | גמלתהו טוב ולא רע כל ימי חייה | Ella le retribuye bien y no mal, todos los días de la vida de ella. |
+| #proverbios_31_13 | דרשה צמר ופשתים ותעש בחפץ כפיה | Busca lana y lino, y hacen con deleite sus palmas. |
+| #proverbios_31_14 | היתה כאניות סוחר ממרחק תביא לחמה | Ella es como los barcos del mercader, desde lejos hace venir su pan. |
+| #proverbios_31_15 | ותקם בעוד לילה ותתן טרף לביתה וחק לנערתיה | Y se levanta aún en la noche, y da alimento a su casa y porción asignada a sus siervas. |
+| #proverbios_31_16 | זממה שדה ותקחהו מפרי כפיה נטע נטעה כרם | Considera cuidadosamente un campo y lo compra, del fruto de sus palmas planta una viña. |
+| #proverbios_31_17 | חגרה בעוז מתניה ותאמץ זרועותיה | Ciñe con fuerza sus lomos y fortalece sus brazos. |
+| #proverbios_31_18 | טעמה כי טוב סחרה לא יכבה בלילה נרה | Degusta que su mercadeo es bueno, no se apaga en la noche su lámpara. |
+| #proverbios_31_19 | ידיה שלחה בכישור וכפיה תמכו פלך | Sus manos envía a la rueca, y sus palmas sostienen el huso. |
+| #proverbios_31_20 | כפה פרשה לעני וידיה שלחה לאביון | Su palma extiende al humilde, y sus manos envía al necesitado. |
+| #proverbios_31_21 | לא תירא לביתה משלג כי כל ביתה לבש שנים | No tiene miedo de la nieve para su casa, porque toda su casa está vestida doble. |
+| #proverbios_31_22 | מרבדים עשתה לה שש וארגמן לבושה | Colchas hace para ella, lino fino y púrpura es su vestido. |
+| #proverbios_31_23 | נודע בשערים בעלה בשבתו עם זקני ארץ | Conocido en las puertas es su esposo, cuando se sienta con los ancianos de la tierra. |
+| #proverbios_31_24 | סדין עשתה ותמכר וחגור נתנה לכנעני | Sábanas hace, y vende; y cinturón entrega al comerciante. |
+| #proverbios_31_25 | עז והדר לבושה ותשחק ליום אחרון | Fuerza y ornamento es su vestido, y ríe para el día postrero. |
+| #proverbios_31_26 | פיה פתחה בחכמה ותורת חסד על לשונה | Su boca abre con sabiduría, y la Torah de bondad sobre su lengua. |
+| #proverbios_31_27 | צופיה הליכות ביתה ולחם עצלות לא תאכל | Ella vigila el caminar de su casa, y el pan de la pereza no come. |
+| #proverbios_31_28 | קמו בניה ויאשרוה בעלה ויהללה | Se levantan sus hijos y la llaman ¡feliz!, su esposo, y la alaba. |
+| #proverbios_31_29 | רבות בנות עשו חיל ואת עלית על כלנה | Muchas hijas han hecho valor, pero tú subiste por encima de todas ellas. |
+| #proverbios_31_30 | שקר החן והבל היפי אשה יראת יהוה היא תתהלל | Mentira es la gracia y vapor la belleza, la mujer que teme a יהוה, ella será alabada. |
+| #proverbios_31_31 | תנו לה מפרי ידיה ויהללוה בשערים מעשיה | ¡Den a ella del fruto de sus manos! ¡Y la alabarán en las puertas sus obras! |
 
 ## Un retrato acróstico que continúa la disciplina de Lemuel
 
@@ -109,11 +109,11 @@ El verso 31 evita una alabanza vacía: “den a ella del fruto de sus manos”. 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_31_10-12 | La mujer de _jail_ continúa la fuerza de Lemuel y produce honra, confianza y bien. | Conexión formal apoyada; aplicación corporativa calificada. |
-| #mishlei_31_13-18 | Lana, lino, viña y ceñirse expresan sacerdocio, preparación y fuerza recibida de Elohim. | Trabajo y fuerza apoyados; simbolismo de materiales pendiente. |
-| #mishlei_31_19-22 | Tejer con detalle, extender la mano al necesitado y vestir la casa muestran obras de justicia y misericordia. | Diligencia y generosidad apoyadas; extensión alegórica calificada. |
-| #mishlei_31_23-27 | Las puertas, la vestidura, la lámpara y la boca sabia apuntan a testimonio, preparación y enseñanza. | Imágenes textuales apoyadas; vínculos mesiánicos pedagógicos. |
-| #mishlei_31_28-31 | La alabanza procede del temor de יהוה y del fruto de las manos, no de la apariencia. | Cierre textual apoyado; aplicación al pueblo atribuida. |
+| #proverbios_31_10-12 | La mujer de _jail_ continúa la fuerza de Lemuel y produce honra, confianza y bien. | Conexión formal apoyada; aplicación corporativa calificada. |
+| #proverbios_31_13-18 | Lana, lino, viña y ceñirse expresan sacerdocio, preparación y fuerza recibida de Elohim. | Trabajo y fuerza apoyados; simbolismo de materiales pendiente. |
+| #proverbios_31_19-22 | Tejer con detalle, extender la mano al necesitado y vestir la casa muestran obras de justicia y misericordia. | Diligencia y generosidad apoyadas; extensión alegórica calificada. |
+| #proverbios_31_23-27 | Las puertas, la vestidura, la lámpara y la boca sabia apuntan a testimonio, preparación y enseñanza. | Imágenes textuales apoyadas; vínculos mesiánicos pedagógicos. |
+| #proverbios_31_28-31 | La alabanza procede del temor de יהוה y del fruto de las manos, no de la apariencia. | Cierre textual apoyado; aplicación al pueblo atribuida. |
 
 ## Pendiente de verificar
 

@@ -6,8 +6,8 @@ tags:
   - sodot
   - sodot_17
 references:
-  - "#sodot_17_3"
-  - "#iejezkel_16_23"
+  - "#apocalipsis_17_3"
+  - "#ezequiel_16_23"
 sources: []
 ---
 
@@ -17,14 +17,14 @@ Sodot 17 se resume aquí como visión de la apostasía religiosa montada sobre e
 
 ## Texto base
 
-- #sodot_17_3
+- #apocalipsis_17_3
 
 ## Texto TTH disponible
 
 | Referencia      | Texto TTH                                                                                                                                                  |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #sodot_17_3     | Y me llevó al desierto en el Rúaj; y vi a una mujer sentada sobre un animal escarlata lleno de nombres de desprecio, y tenía siete cabezas y diez cuernos. |
-| #iejezkel_16_23 | Y sucedió que después de toda tu maldad, “¡Oy, oy de ti! ” –declaración de Adonai יהוה,                                                                    |
+| #apocalipsis_17_3     | Y me llevó al desierto en el Rúaj; y vi a una mujer sentada sobre un animal escarlata lleno de nombres de desprecio, y tenía siete cabezas y diez cuernos. |
+| #ezequiel_16_23 | Y sucedió que después de toda tu maldad, “¡Oy, oy de ti! ” –declaración de Adonai יהוה,                                                                    |
 
 ## Observaciones
 
@@ -32,4 +32,4 @@ Sodot 17 se resume aquí como visión de la apostasía religiosa montada sobre e
 - El animal que sale de la tierra aparece más sigiloso, como cordero que habla como serpiente.
 - La imagen del animal se define como icono, semblanza o marca de apostasía.
 - La mujer en el desierto es leída como la misma que luego aparece prostituida sobre el animal.
-- La gran ciudad se conecta con Yerushalaim pervertida, en continuidad con #iejezkel_16_23.
+- La gran ciudad se conecta con Yerushalaim pervertida, en continuidad con #ezequiel_16_23.

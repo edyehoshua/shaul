@@ -9,15 +9,15 @@ tags:
   - servicio
   - vayiqra
 references:
-  - "#vaikra_1_1-9"
-  - "#vaikra_2_1-3"
-  - "#vaikra_2_13"
-  - "#vaikra_3_1-5"
-  - "#vaikra_4_1-12"
-  - "#vaikra_5_1"
-  - "#vaikra_5_5"
-  - "#vaikra_5_14-19"
-  - "#ivrim_10_5-10"
+  - "#levitico_1_1-9"
+  - "#levitico_2_1-3"
+  - "#levitico_2_13"
+  - "#levitico_3_1-5"
+  - "#levitico_4_1-12"
+  - "#levitico_5_1"
+  - "#levitico_5_5"
+  - "#levitico_5_14-19"
+  - "#hebreos_10_5-10"
 sources:
   - "https://www.youtube.com/watch?v=JMdxbQtZ9wc"
   - "https://www.youtube.com/watch?v=h5LhqPYCi4E"
@@ -46,13 +46,13 @@ Esta es la nota canónica para Vaikra 1–5. La exposición pública se usa para
 
 | Referencia     | Hebreo local OE (sin nikud)                                     | TTH (ES)                                                                                           | Observación                                                         |
 | -------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| #vaikra_1_1-2  | **ויקרא אל משה… אדם כי יקריב מכם קרבן ליהוה מן הבהמה…**         | «Y llamó a Moshéh… El hombre que acercase… un korbán a יהוה, de animales…»                         | יהוה inicia; el oferente acerca bajo orden.                         |
-| #vaikra_1_4    | **וסמך ידו על ראש העלה ונרצה לו לכפר עליו**                     | «apoyará su mano sobre la cabeza de la ofrenda ascendida, y será acepta… para reconciliación…»     | Gesto, aceptación y expiación cultual en la _olah_.                 |
-| #vaikra_2_1,13 | **ונפש כי תקריב קרבן מנחה… במלח תמלח ולא תשבית מלח ברית אלהיך** | «la persona que acerque una ofrenda de grano… con sal sazonarás… no harás cesar la sal del pacto…» | La _minjah_ es tributo vegetal; la sal del pacto no se omite.       |
-| #vaikra_3_1    | **ואם זבח שלמים קרבנו… תמים יקריבנו לפני יהוה**                 | «si sacrificio de retribuciones es su ofrenda… completo la acercará delante de יהוה»               | _Shelamim_: categoría de comunión/retribución con animal íntegro.   |
-| #vaikra_4_2    | **נפש כי תחטא בשגגה מכל מצות יהוה אשר לא תעשינה**               | «La persona que peque por error, en cualquiera de todos los mandamientos…»                         | La _jatat_ se abre con inadvertencia, no con toda clase de pecado.  |
-| #vaikra_5_1,5  | **והוא עד… אם לוא יגיד ונשא עונו… והתודה אשר חטא עליה**         | «es testigo… si no lo informa, cargará su iniquidad… confesará que ha pecado en eso»               | Silencio del testigo y confesión introducen responsabilidad y rito. |
-| #vaikra_5_15   | **נפש כי תמעל מעל… והביא את אשמו ליהוה איל תמים… לאשם**         | «La persona que transgrede apropiándose… traerá su ofrenda de culpa… para ofrenda de culpa»        | El _asham_ une ofensa, valoración y ofrenda.                        |
+| #levitico_1_1-2  | **ויקרא אל משה… אדם כי יקריב מכם קרבן ליהוה מן הבהמה…**         | «Y llamó a Moshéh… El hombre que acercase… un korbán a יהוה, de animales…»                         | יהוה inicia; el oferente acerca bajo orden.                         |
+| #levitico_1_4    | **וסמך ידו על ראש העלה ונרצה לו לכפר עליו**                     | «apoyará su mano sobre la cabeza de la ofrenda ascendida, y será acepta… para reconciliación…»     | Gesto, aceptación y expiación cultual en la _olah_.                 |
+| #levitico_2_1,13 | **ונפש כי תקריב קרבן מנחה… במלח תמלח ולא תשבית מלח ברית אלהיך** | «la persona que acerque una ofrenda de grano… con sal sazonarás… no harás cesar la sal del pacto…» | La _minjah_ es tributo vegetal; la sal del pacto no se omite.       |
+| #levitico_3_1    | **ואם זבח שלמים קרבנו… תמים יקריבנו לפני יהוה**                 | «si sacrificio de retribuciones es su ofrenda… completo la acercará delante de יהוה»               | _Shelamim_: categoría de comunión/retribución con animal íntegro.   |
+| #levitico_4_2    | **נפש כי תחטא בשגגה מכל מצות יהוה אשר לא תעשינה**               | «La persona que peque por error, en cualquiera de todos los mandamientos…»                         | La _jatat_ se abre con inadvertencia, no con toda clase de pecado.  |
+| #levitico_5_1,5  | **והוא עד… אם לוא יגיד ונשא עונו… והתודה אשר חטא עליה**         | «es testigo… si no lo informa, cargará su iniquidad… confesará que ha pecado en eso»               | Silencio del testigo y confesión introducen responsabilidad y rito. |
+| #levitico_5_15   | **נפש כי תמעל מעל… והביא את אשמו ליהוה איל תמים… לאשם**         | «La persona que transgrede apropiándose… traerá su ofrenda de culpa… para ofrenda de culpa»        | El _asham_ une ofensa, valoración y ofrenda.                        |
 
 ## 1. El acercamiento tiene forma y costo
 
@@ -118,7 +118,7 @@ Delitzsch expresa la recepción mesiánica en Ivrim 10:5: **וְעַל־כֵּן
 
 El control final viene de Vaikra 5. **והשיב**, _veheshiv_, procede de שוב, _shuv_, «volver o devolver»; su fuerza contextual es restituir lo tomado y añadir la quinta parte. **(אשם)**, _asham_, significa culpa, ofensa o ofrenda por culpa; «castigo» es demasiado estrecho. Por eso la lectura de Eric puede afirmar que Yehoshúa recibe y reinterpreta el patrón de acercamiento, pero no que el sacrificio vuelva innecesarias la confesión, la reparación o la obediencia. El texto de Vaikra y la recepción de Delitzsch convergen solo después de conservar sus destinatarios, vocabularios y contextos.
 
-## Confesión, compensación y acceso diferenciado: Vaikra 5:1–26
+## Confesión, compensación y acceso diferenciado: Vaikra 5:1–26 #levitico_5_1-26
 
 Vaikra 5 no reduce toda culpa a un estado interior. El testigo que calla, quien toca impureza o quien pronuncia un juramento irreflexivo debe reconocer su situación: **והתודה**, _vehitvadah_, es una forma de ידה, «confesar, reconocer o dar gracias»; aquí su fuerza es admitir verbalmente la culpa. TTH mantiene «confesará aquello en que pecó». «Descargar sentimientos» sería una equivalencia psicológica insuficiente: la confesión introduce al responsable en un procedimiento concreto de reparación.
 
@@ -201,6 +201,6 @@ Esta marcha textual conserva el centro público de los videos «Yehoshúa' y los
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshu' and the Qorbanot Part 1](https://www.youtube.com/watch?v=h5LhqPYCi4E) (source_id: `youtube:h5LhqPYCi4E`).
-- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshúa' y los Qorbanot Parte 2](https://www.youtube.com/watch?v=JMdxbQtZ9wc) (source_id: `youtube:JMdxbQtZ9wc`).
+- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshu' and the Qorbanot Part 1](https://www.youtube.com/watch?v=h5LhqPYCi4E) (`source_id`: `youtube:h5LhqPYCi4E`).
+- [Parashat Vayiqrá' Leviticus 1:1-5:26 Yehoshúa' y los Qorbanot Parte 2](https://www.youtube.com/watch?v=JMdxbQtZ9wc) (`source_id`: `youtube:JMdxbQtZ9wc`).
 - Esta nota organiza y contrasta los énfasis públicos de las clases; no presenta una transcripción automática como cita literal.

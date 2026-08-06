@@ -8,14 +8,14 @@ tags:
   - justicia
   - mesias
 references:
-  - "#mishlei_16_9"
-  - "#mishlei_16_10"
-  - "#mishlei_16_11"
-  - "#mishlei_16_12"
-  - "#mishlei_16_13"
-  - "#mishlei_16_14"
-  - "#mishlei_16_15"
-  - "#mishlei_16_16"
+  - "#proverbios_16_9"
+  - "#proverbios_16_10"
+  - "#proverbios_16_11"
+  - "#proverbios_16_12"
+  - "#proverbios_16_13"
+  - "#proverbios_16_14"
+  - "#proverbios_16_15"
+  - "#proverbios_16_16"
 sources:
   - "https://www.youtube.com/@SomosElCuerpodelMesias"
   - "https://www.youtube.com/watch?v=yiZanmLH7mo"
@@ -35,14 +35,14 @@ Esta nota resume la exposición de Eric de Jesús Rodríguez Mendoza sobre Mishl
 
 | Referencia | Hebreo local (sin nikud) | Función en la enseñanza |
 | --- | --- | --- |
-| #mishlei_16_9 | לב אדם יחשב דרכו ויהוה יכין צעדו | El hombre planea, pero יהוה establece el paso. |
-| #mishlei_16_10 | קסם על שפתי מלך במשפט לא ימעל פיו | Los labios del Rey están ligados al juicio. |
-| #mishlei_16_11 | פלס ומאזני משפט ליהוה מעשהו כל אבני כיס | La balanza y sus pesas pertenecen a la justicia de יהוה. |
-| #mishlei_16_12 | תועבת מלכים עשות רשע כי בצדקה יכון כסא | El trono se establece con justicia y la maldad es abominable. |
-| #mishlei_16_13 | רצון מלכים שפתי צדק ודבר ישרים יאהב | El gobierno debe amar labios rectos. |
-| #mishlei_16_14 | חמת מלך מלאכי מות ואיש חכם יכפרנה | La ira del rey trae peligro; el sabio la apacigua. |
-| #mishlei_16_15 | באור פני מלך חיים ורצונו כעב מלקוש | En la luz del rostro del Rey está la vida y su favor es como lluvia tardía. |
-| #mishlei_16_16 | קנה חכמה מה טוב מחרוץ וקנות בינה נבחר מכסף | La sabiduría y la inteligencia superan oro y plata. |
+| #proverbios_16_9 | לב אדם יחשב דרכו ויהוה יכין צעדו | El hombre planea, pero יהוה establece el paso. |
+| #proverbios_16_10 | קסם על שפתי מלך במשפט לא ימעל פיו | Los labios del Rey están ligados al juicio. |
+| #proverbios_16_11 | פלס ומאזני משפט ליהוה מעשהו כל אבני כיס | La balanza y sus pesas pertenecen a la justicia de יהוה. |
+| #proverbios_16_12 | תועבת מלכים עשות רשע כי בצדקה יכון כסא | El trono se establece con justicia y la maldad es abominable. |
+| #proverbios_16_13 | רצון מלכים שפתי צדק ודבר ישרים יאהב | El gobierno debe amar labios rectos. |
+| #proverbios_16_14 | חמת מלך מלאכי מות ואיש חכם יכפרנה | La ira del rey trae peligro; el sabio la apacigua. |
+| #proverbios_16_15 | באור פני מלך חיים ורצונו כעב מלקוש | En la luz del rostro del Rey está la vida y su favor es como lluvia tardía. |
+| #proverbios_16_16 | קנה חכמה מה טוב מחרוץ וקנות בינה נבחר מכסף | La sabiduría y la inteligencia superan oro y plata. |
 
 El hebreo de la tabla está normalizado sin barras de segmentación; la referencia al corpus local permite volver a la extracción morfológica cuando sea necesario.
 

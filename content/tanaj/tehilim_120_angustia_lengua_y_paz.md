@@ -10,9 +10,9 @@ tags:
   - paz
   - lengua
 references:
-  - "#psalms_120_1-2"
-  - "#psalms_120_3-4"
-  - "#psalms_120_5-7"
+  - "#salmos_120_1-2"
+  - "#salmos_120_3-4"
+  - "#salmos_120_5-7"
 sources:
   - "https://www.youtube.com/watch?v=bzrcSNMhywY"
   - "docs/scriptures/oe/json/psalms/120.json"
@@ -45,7 +45,7 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 - **120:2-4 — mentira como lenguaje que no pertenece a la Torah:** Eric distingue la lengua de mentira de la palabra fiel y compara sus efectos con flechas y brasas. El salmo nombra el labio falso, la lengua engañosa, las flechas y el carbón ardiente; la identificación de todo “lo que no es ahora” o de todo lenguaje no toráh como el sentido exhaustivo de **שקר** es una ampliación léxica no obligatoria.
 - **120:5-7 — vivir junto a la guerra sin convertirse en guerra:** La clase lee Mesec y las tiendas de Qedar como el ambiente de pueblos ajenos, y subraya que el orante declara “yo soy paz” aunque los otros respondan con guerra. El contraste final es directo; la identificación geográfica y la aplicación a atravesar estrecheces para crecer se mantienen como contexto o pedagogía.
 
-## 120:1-2 — el primer ascenso nace en la estrechez
+## 120:1-2 — el primer ascenso nace en la estrechez #salmos_120_1-2
 
 El encabezamiento dice **שיר המעלות**, _shir hama‘alot_: “cántico de los ascensos” o “cántico de los peldaños”. **שיר** (_shir_) significa canción o cántico; **מעלה** (_ma‘alah_) significa ascenso, subida o escalón. Eric describe quince cánticos que podrían corresponder a quince peldaños del templo, por los que subían los levitas y entonaban uno por uno. La relación entre el encabezamiento y la idea de ascenso es **exacta**; la localización precisa de los escalones en el Segundo Templo es una **reconstrucción tradicional**, no un dato que 120:1 explique por sí solo.
 
@@ -55,7 +55,7 @@ Eric desarrolla **צרה** como una estrechez semejante a la del nacimiento: se 
 
 La respuesta se especifica en el v. 2: **יהוה הצילה נפשי משפת שקר מלשון רמיה**, “יהוה, rescata mi vida del labio de mentira, de la lengua de engaño”. **שפת** (_safah_) es labio o borde de la boca; **שקר** (_sheqer_) es mentira, falsedad o engaño; **לשון** (_lashon_) es lengua o lenguaje; **רמיה** (_r امiyyah_) es engaño, fraude o falsedad. Eric no trata la amenaza como una simple herida emocional: la palabra mentirosa puede arrancar la vida, deformar la realidad y conducir a guerra. El salmo apoya directamente la petición de rescate de la lengua falsa; la cadena completa de consecuencias es una **aplicación pastoral**.
 
-## 120:3-4 — palabras como flechas y brasas
+## 120:3-4 — palabras como flechas y brasas #salmos_120_3-4
 
 La pregunta del v. 3 es incisiva: **מה יתן לך ומה יסיף לך לשון רמיה**, “¿qué te dará y qué añadirá a ti, lengua de engaño?”. **יסף** (_yasaph_) significa añadir, aumentar o continuar. Eric lee la pregunta como una exposición del rendimiento destructivo de la mentira: no produce vida ni añade verdad, aunque parezca ofrecer una ventaja inmediata. La forma interrogativa y la acusación de la lengua son **textuales**; la reflexión sobre su utilidad moral es una inferencia razonable.
 
@@ -63,7 +63,7 @@ La respuesta llega en imágenes de guerra: **חצי גבור שנונים עם �
 
 La clase conecta la lengua engañosa con un lenguaje que no pertenece a la verdad y exhorta a examinar si las palabras están alineadas con la Torah. El salmo sí contrapone **שקר** y la paz del cierre, pero no pronuncia aquí la palabra Torah ni establece una lista exhaustiva de expresiones prohibidas. Esa conexión es **canónica y pedagógica**, no equivalencia léxica.
 
-## 120:5-7 — Mesec, Qedar y la paz que habla
+## 120:5-7 — Mesec, Qedar y la paz que habla #salmos_120_5-7
 
 El v. 5 exclama: **אויה לי כי גרתי משך שכנתי עם אהלי קדר**, “¡ay de mí, porque habité como extranjero en Mesec, moré con las tiendas de Qedar!”. **אויה** (_oyah_) es una exclamación de dolor; **גור** (_gur_) es residir como extranjero; **שכן** (_shakan_) es habitar; **אהל** (_ohel_) es tienda. Eric explica que Mesec y Qedar representan un ambiente ajeno, distante de la comunidad del orante, y que las tiendas acentúan una existencia desplazada. La sensación de extranjería y residencia está **apoyada por el texto**; la identificación de los grupos como una situación contemporánea específica requiere cotejo histórico externo.
 
@@ -93,5 +93,5 @@ Tehilim 120 inicia el ascenso no desde una comodidad ya resuelta, sino desde la 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehilim/Hymnos/Salmo Cap 120» — <https://www.youtube.com/watch?v=bzrcSNMhywY> — source_id: `youtube:bzrcSNMhywY`.
+- Video: «Tehilim/Hymnos/Salmo Cap 120» — <https://www.youtube.com/watch?v=bzrcSNMhywY> — `source_id`: `youtube:bzrcSNMhywY`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

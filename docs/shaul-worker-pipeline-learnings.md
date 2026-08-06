@@ -96,6 +96,8 @@ Desde `/home/david/shaul`:
 npm run scriptures:ensure
 python3 scripts/check_transcript_note_quality.py
 npm run content:check-frontmatter
+npm run youtube:check
+npm run verse-tags:check
 npm run verse-index:test
 npm run scriptures:lookup:test
 git diff --check

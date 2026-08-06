@@ -10,34 +10,34 @@ tags:
   - gentiles
   - pablo
 references:
-  - "#ephesians_3_1"
-  - "#ephesians_3_2"
-  - "#ephesians_3_3"
-  - "#ephesians_3_4"
-  - "#ephesians_3_5"
-  - "#ephesians_3_6"
-  - "#ephesians_3_7"
-  - "#ephesians_3_8"
-  - "#ephesians_3_9"
-  - "#ephesians_3_10"
-  - "#ephesians_3_11"
-  - "#ephesians_3_12"
-  - "#ephesians_3_13"
-  - "#ephesians_3_14"
-  - "#ephesians_3_15"
-  - "#ephesians_3_16"
-  - "#ephesians_3_17"
-  - "#ephesians_3_18"
-  - "#ephesians_3_19"
-  - "#ephesians_3_20"
-  - "#ephesians_3_21"
-  - "#ephesians_1_19"
-  - "#ephesians_6_20"
-  - "#corinthians1_2_10"
-  - "#corinthians1_2_16"
-  - "#corinthians2_5_20"
-  - "#zechariah_9_11"
-  - "#zechariah_9_12"
+  - "#efesios_3_1"
+  - "#efesios_3_2"
+  - "#efesios_3_3"
+  - "#efesios_3_4"
+  - "#efesios_3_5"
+  - "#efesios_3_6"
+  - "#efesios_3_7"
+  - "#efesios_3_8"
+  - "#efesios_3_9"
+  - "#efesios_3_10"
+  - "#efesios_3_11"
+  - "#efesios_3_12"
+  - "#efesios_3_13"
+  - "#efesios_3_14"
+  - "#efesios_3_15"
+  - "#efesios_3_16"
+  - "#efesios_3_17"
+  - "#efesios_3_18"
+  - "#efesios_3_19"
+  - "#efesios_3_20"
+  - "#efesios_3_21"
+  - "#efesios_1_19"
+  - "#efesios_6_20"
+  - "#1_corintios_2_10"
+  - "#1_corintios_2_16"
+  - "#2_corintios_5_20"
+  - "#zacarias_9_11"
+  - "#zacarias_9_12"
 sources:
   - "https://www.youtube.com/watch?v=bG4SqOvNolQ"
   - "https://www.youtube.com/watch?v=GulS21GtPP8"
@@ -65,12 +65,12 @@ Efesios 3:1–5 presenta a Pablo como prisionero del Mesías a favor de los gent
 
 - Fuente: «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios», de Eric de Jesús Rodríguez Mendoza.
 - Fuente añadida: «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo», de Eric de Jesús Rodríguez Mendoza.
-- Las sesiones se concentran en #ephesians_3_1-7. La parte 13 retoma #ephesians_3_5 (00:05:46–00:15:24), desarrolla #ephesians_3_6-7 (00:45:29–00:57:39) y relaciona su lectura con #corinthians1_2_10-16 (00:31:20–00:36:20).
+- Las sesiones se concentran en #efesios_3_1-7. La parte 13 retoma #efesios_3_5 (00:05:46–00:15:24), desarrolla #efesios_3_6-7 (00:45:29–00:57:39) y relaciona su lectura con #1_corintios_2_10-16 (00:31:20–00:36:20).
 - El texto bíblico se extrajo de los corpus locales Delitzsch y OE, sin nikud. La transcripción automática sirve para atribuir y organizar la exposición; no es una cita literal del video.
 
 ## Mapa público de las fuentes y control del argumento
 
-Las cinco fuentes públicas se conservan como aportes independientes dentro de esta única nota canónica de capítulo. La parte 12 plantea la gracia como administración y servicio; la parte 13 desarrolla la relación entre Rúaj, conocimiento y la mente del Mesías; la parte 14 enfoca la riqueza inescrutable del Mesías; la parte 15 extiende la exposición hacia la magnificencia y el lenguaje de «aba»; y la parte 16 trata la escuela o formación del Mesías. Las tres últimas amplían el campo temático de #ephesians_3_8-21, pero no se les atribuye una frase concreta que no haya sido cotejada en el texto local.
+Las cinco fuentes públicas se conservan como aportes independientes dentro de esta única nota canónica de capítulo. La parte 12 plantea la gracia como administración y servicio; la parte 13 desarrolla la relación entre Rúaj, conocimiento y la mente del Mesías; la parte 14 enfoca la riqueza inescrutable del Mesías; la parte 15 extiende la exposición hacia la magnificencia y el lenguaje de «aba»; y la parte 16 trata la escuela o formación del Mesías. Las tres últimas amplían el campo temático de #efesios_3_8-21, pero no se les atribuye una frase concreta que no haya sido cotejada en el texto local.
 
 El control bíblico sigue la progresión del capítulo: **δέσμιος**, _desmios_, «prisionero o encadenado», describe la situación de Pablo en 3:1 y su relación con los gentiles; **οἰκονομία**, _oikonomía_, «administración o encargo», nombra la responsabilidad recibida en 3:2; y **μυστήριον**, _mystērion_, «misterio antes oculto y ahora comunicado», explica el contenido revelado en 3:3-5. Estos sentidos son contextuales y se aproximan a **אסיר**, _asir_, «prisionero», **הנהגה**, _hanhagá_, «dirección o administración», y **סוד**, _sod_, «secreto o consejo», en los corpus hebreos locales; ninguna forma hebrea convierte automáticamente la glosa de la clase en una equivalencia griega exacta.
 
@@ -80,80 +80,80 @@ La prueba decisiva aparece en 3:6-7. **συγκληρονόμος**, _synklēron
 
 | Referencia            | Texto local                                                                                                                                                                                                                                                                                                 | Función en la clase                                                                                                                                       |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #ephesians_3_1-2      | **בעבור זאת אני פולוס אסיר המשיח למענכם הגוים׃**; **כי־אמנם שמעתם הנהגת חסד האלהים אשר־נתן לי אליכם׃**                                                                                                                                                                                                      | Pablo se nombra prisionero del Mesías a favor de los gentiles y habla de una administración de la gracia dada para ellos.                                 |
-| #ephesians_3_3-5      | **כי בחזון גלה־לי הסוד אשר כתבתי לכם במעט מלין׃**; **ובקראכם תוכלו להכיר את־בינתי בסוד המשיח׃**; **אשר בדורת הראשנים לא נודע לבני אדם כאשר נגלה עתה לשליחיו הקדשים ולנביאיו ברוח׃**                                                                                                                         | El misterio se da a conocer por revelación, se comunica por escrito y ha sido revelado a apóstoles y profetas.                                            |
-| #ephesians_3_6        | **שיהיו הגוים גם־הם נחלים ובגוף אחד וחברי ההבטחה במשיח ישוע על־ידי הבשרה׃**                                                                                                                                                                                                                                 | El versículo siguiente precisa el contenido del misterio: los gentiles participan de la herencia, de un cuerpo y de la promesa en el Mesías.              |
-| #ephesians_3_7        | **אשר הייתי לה למשרת במתנת חסד אלהים הנתונה לי כפי פעלת גבורתו׃**                                                                                                                                                                                                                                           | Pablo describe su servicio como don de la gracia de Elohim, conforme a la acción de su poder.                                                             |
-| #ephesians_3_8-13     | **לי אני צעיר הצעירים שבכל־הקדשים נתן החסד הזה לבשר בגוים את־עשר המשיח אשר רב הוא לאין חקר**; **ולהאיר עיני כל לראות מה־הנהגת הסוד הנסתר מדרת עולם באלהים יוצר הכל**; **על־כן אבקש שלא תחתו בצרותי למענכם כי־היא תפארתכם**                                                                                  | El encargo se amplía: anunciar la riqueza inescrutable, iluminar el misterio oculto y no interpretar las tribulaciones de Pablo como fracaso del mensaje. |
-| #ephesians_3_14-21    | **בעבור זאת אכרעה על־ברכי לפני אבי אדנינו ישוע המשיח**; **שיתחזק בגבורה על־ידי רוחו האדם הפנימי**; **שישכן המשיח בלבבכם על־ידי האמונה**; **למען תוכלו להבין ככל־הקדשים מה הרחב והארך והעמק והגבה**; **וידעתם את־אהבת המשיח הנעלה על־כל־דעת**; **לו הכבוד בקרב הקהל במשיח ישוע לדר ודר עד־עולמי עולמים אמן** | La exposición desemboca en oración: fuerza interior, morada del Mesías, comprensión comunitaria del amor y gloria en la asamblea.                         |
-| #corinthians1_2_10-16 | **ולנו גלה האלהים ברוחו כי הרוח חוקר את־הכל גם את־מעמקי האלהים׃**; **ואנחנו הנה יש־לנו רוח המשיח׃**                                                                                                                                                                                                         | La clase lo invoca al proponer una relación entre Rúaj, conocimiento y la mente del Mesías.                                                               |
-| #corinthians2_5_20    | **ובכן מליצי המשיח אנחנו והאלהים מזהיר אתכם על־ידנו נבקש מכם בעד המשיח התכפרו־נא לאלהים׃**                                                                                                                                                                                                                  | La clase lo relaciona con el lenguaje de representación o embajada y con el llamado a la reconciliación.                                                  |
-| #ephesians_6_20       | **למען אדבר בה כאשר מטל עלי לדבר ולא אחת׃**                                                                                                                                                                                                                                                                 | El cierre de la carta vuelve a situar el hablar de Pablo dentro de su responsabilidad por el mensaje.                                                     |
-| #zechariah_9_11-12    | **גם את בדם בריתך שלחתי אסיריך מבור אין מים בו**; **שובו לבצרון אסירי התקוה גם היום מגיד משנה אשיב לך**                                                                                                                                                                                                     | La clase usa la imagen de los prisioneros y la esperanza como conexión interpretativa con el lenguaje de Efesios.                                         |
+| #efesios_3_1-2      | **בעבור זאת אני פולוס אסיר המשיח למענכם הגוים׃**; **כי־אמנם שמעתם הנהגת חסד האלהים אשר־נתן לי אליכם׃**                                                                                                                                                                                                      | Pablo se nombra prisionero del Mesías a favor de los gentiles y habla de una administración de la gracia dada para ellos.                                 |
+| #efesios_3_3-5      | **כי בחזון גלה־לי הסוד אשר כתבתי לכם במעט מלין׃**; **ובקראכם תוכלו להכיר את־בינתי בסוד המשיח׃**; **אשר בדורת הראשנים לא נודע לבני אדם כאשר נגלה עתה לשליחיו הקדשים ולנביאיו ברוח׃**                                                                                                                         | El misterio se da a conocer por revelación, se comunica por escrito y ha sido revelado a apóstoles y profetas.                                            |
+| #efesios_3_6        | **שיהיו הגוים גם־הם נחלים ובגוף אחד וחברי ההבטחה במשיח ישוע על־ידי הבשרה׃**                                                                                                                                                                                                                                 | El versículo siguiente precisa el contenido del misterio: los gentiles participan de la herencia, de un cuerpo y de la promesa en el Mesías.              |
+| #efesios_3_7        | **אשר הייתי לה למשרת במתנת חסד אלהים הנתונה לי כפי פעלת גבורתו׃**                                                                                                                                                                                                                                           | Pablo describe su servicio como don de la gracia de Elohim, conforme a la acción de su poder.                                                             |
+| #efesios_3_8-13     | **לי אני צעיר הצעירים שבכל־הקדשים נתן החסד הזה לבשר בגוים את־עשר המשיח אשר רב הוא לאין חקר**; **ולהאיר עיני כל לראות מה־הנהגת הסוד הנסתר מדרת עולם באלהים יוצר הכל**; **על־כן אבקש שלא תחתו בצרותי למענכם כי־היא תפארתכם**                                                                                  | El encargo se amplía: anunciar la riqueza inescrutable, iluminar el misterio oculto y no interpretar las tribulaciones de Pablo como fracaso del mensaje. |
+| #efesios_3_14-21    | **בעבור זאת אכרעה על־ברכי לפני אבי אדנינו ישוע המשיח**; **שיתחזק בגבורה על־ידי רוחו האדם הפנימי**; **שישכן המשיח בלבבכם על־ידי האמונה**; **למען תוכלו להבין ככל־הקדשים מה הרחב והארך והעמק והגבה**; **וידעתם את־אהבת המשיח הנעלה על־כל־דעת**; **לו הכבוד בקרב הקהל במשיח ישוע לדר ודר עד־עולמי עולמים אמן** | La exposición desemboca en oración: fuerza interior, morada del Mesías, comprensión comunitaria del amor y gloria en la asamblea.                         |
+| #1_corintios_2_10-16 | **ולנו גלה האלהים ברוחו כי הרוח חוקר את־הכל גם את־מעמקי האלהים׃**; **ואנחנו הנה יש־לנו רוח המשיח׃**                                                                                                                                                                                                         | La clase lo invoca al proponer una relación entre Rúaj, conocimiento y la mente del Mesías.                                                               |
+| #2_corintios_5_20    | **ובכן מליצי המשיח אנחנו והאלהים מזהיר אתכם על־ידנו נבקש מכם בעד המשיח התכפרו־נא לאלהים׃**                                                                                                                                                                                                                  | La clase lo relaciona con el lenguaje de representación o embajada y con el llamado a la reconciliación.                                                  |
+| #efesios_6_20       | **למען אדבר בה כאשר מטל עלי לדבר ולא אחת׃**                                                                                                                                                                                                                                                                 | El cierre de la carta vuelve a situar el hablar de Pablo dentro de su responsabilidad por el mensaje.                                                     |
+| #zacarias_9_11-12    | **גם את בדם בריתך שלחתי אסיריך מבור אין מים בו**; **שובו לבצרון אסירי התקוה גם היום מגיד משנה אשיב לך**                                                                                                                                                                                                     | La clase usa la imagen de los prisioneros y la esperanza como conexión interpretativa con el lenguaje de Efesios.                                         |
 
 ## El prisionero del Mesías y el encargo a favor de los gentiles
 
-La sesión comienza enlazando el final de Efesios 2 con «por esta causa» de #ephesians_3_1 (00:07:47–00:15:19). El versículo sitúa a Pablo como **אסיר המשיח**, prisionero del Mesías, «a favor de vosotros, los gentiles». La clase subraya tanto el hecho de las cadenas como el motivo de su testimonio. La afirmación segura es que Pablo interpreta su condición desde su pertenencia al Mesías y desde su servicio a los gentiles; convertir cada padecimiento contemporáneo en persecución por el Mesías requeriría un discernimiento que el versículo no ofrece por sí solo.
+La sesión comienza enlazando el final de Efesios 2 con «por esta causa» de #efesios_3_1 (00:07:47–00:15:19). El versículo sitúa a Pablo como **אסיר המשיח**, prisionero del Mesías, «a favor de vosotros, los gentiles». La clase subraya tanto el hecho de las cadenas como el motivo de su testimonio. La afirmación segura es que Pablo interpreta su condición desde su pertenencia al Mesías y desde su servicio a los gentiles; convertir cada padecimiento contemporáneo en persecución por el Mesías requeriría un discernimiento que el versículo no ofrece por sí solo.
 
-El expositor compara la figura con #zechariah_9_11-12 y llama a los destinatarios «prisioneros de la esperanza» (00:15:08–00:20:29). Zacarías habla de prisioneros sacados del foso y convocados a volver a la fortaleza; Efesios, en cambio, presenta a Pablo como prisionero del Mesías. La semejanza puede iluminar una meditación sobre esperanza y fidelidad, pero no prueba una cita directa ni permite igualar automáticamente ambos contextos.
+El expositor compara la figura con #zacarias_9_11-12 y llama a los destinatarios «prisioneros de la esperanza» (00:15:08–00:20:29). Zacarías habla de prisioneros sacados del foso y convocados a volver a la fortaleza; Efesios, en cambio, presenta a Pablo como prisionero del Mesías. La semejanza puede iluminar una meditación sobre esperanza y fidelidad, pero no prueba una cita directa ni permite igualar automáticamente ambos contextos.
 
-La clase también propone que una variante manuscrita complete el versículo 1 con la idea de representación o embajada (00:25:25–00:35:13). #corinthians2_5_20 sí emplea el lenguaje de representantes del Mesías, y el final de Efesios retoma el deber de hablar con valentía en #ephesians_6_20. Sin embargo, el texto local de #ephesians_3_1-2 no contiene ese verbo: la reconstrucción y la relación entre los pasajes deben comprobarse en ediciones críticas y en el griego.
+La clase también propone que una variante manuscrita complete el versículo 1 con la idea de representación o embajada (00:25:25–00:35:13). #2_corintios_5_20 sí emplea el lenguaje de representantes del Mesías, y el final de Efesios retoma el deber de hablar con valentía en #efesios_6_20. Sin embargo, el texto local de #efesios_3_1-2 no contiene ese verbo: la reconstrucción y la relación entre los pasajes deben comprobarse en ediciones críticas y en el griego.
 
 ## La administración de la gracia
 
-#ephesians_3_2 llama al encargo de Pablo **הנהגת חסד האלהים**, «administración de la gracia de Elohim». La clase relaciona la palabra griega oikonomía con la casa y la propone como «sustentabilidad» de la vida (00:36:36–00:46:36). La observación de que el término se vincula con administración puede servir para estudiar el pasaje y continúa el vocabulario de #ephesians_1_10; pero «sustentabilidad» es una aplicación contemporánea, no una traducción que deba sustituir sin más el alcance del término paulino.
+#efesios_3_2 llama al encargo de Pablo **הנהגת חסד האלהים**, «administración de la gracia de Elohim». La clase relaciona la palabra griega oikonomía con la casa y la propone como «sustentabilidad» de la vida (00:36:36–00:46:36). La observación de que el término se vincula con administración puede servir para estudiar el pasaje y continúa el vocabulario de #efesios_1_10; pero «sustentabilidad» es una aplicación contemporánea, no una traducción que deba sustituir sin más el alcance del término paulino.
 
 Para desarrollar esa aplicación, la enseñanza conecta el sostén de Elohim con José y su provisión para la familia durante la hambruna (00:43:30–00:45:13). Esa conexión presenta una imagen pastoral de cuidado y provisión. Efesios 3:2 afirma que la gracia fue dada a Pablo para los gentiles; no define directamente un modelo económico, ecológico o social completo. La gracia y la responsabilidad del apóstol deben leerse dentro de todo el argumento de Efesios 3.
 
 ## Revelación, escritura y el misterio del Mesías
 
-En #ephesians_3_3-4 Pablo afirma que el misterio le fue dado a conocer por revelación y que, al leer, los destinatarios pueden reconocer su comprensión del misterio del Mesías. La clase insiste en que el mensaje no procede de una especulación filosófica de Pablo, sino de una revelación que él comunica por escrito (00:53:24–01:04:00). El texto sostiene la revelación y la escritura; no autoriza a atribuir el mismo grado de revelación a toda enseñanza posterior.
+En #efesios_3_3-4 Pablo afirma que el misterio le fue dado a conocer por revelación y que, al leer, los destinatarios pueden reconocer su comprensión del misterio del Mesías. La clase insiste en que el mensaje no procede de una especulación filosófica de Pablo, sino de una revelación que él comunica por escrito (00:53:24–01:04:00). El texto sostiene la revelación y la escritura; no autoriza a atribuir el mismo grado de revelación a toda enseñanza posterior.
 
-#ephesians_3_5 contrasta generaciones anteriores con la revelación presente a los santos apóstoles y profetas en el Rúaj. La sesión concluye que este movimiento no implica desechar a Israel y señala que la siguiente clase explicará el versículo 6 (01:04:41–01:10:33). El versículo 6 efectivamente define el misterio mediante la participación de los gentiles en la herencia, el cuerpo y la promesa en Yehoshua el Mesías. Esta nota conserva la continuidad que la clase percibe, sin convertirla en una explicación exhaustiva de la historia de Israel o de todas las discusiones sobre reemplazo.
+#efesios_3_5 contrasta generaciones anteriores con la revelación presente a los santos apóstoles y profetas en el Rúaj. La sesión concluye que este movimiento no implica desechar a Israel y señala que la siguiente clase explicará el versículo 6 (01:04:41–01:10:33). El versículo 6 efectivamente define el misterio mediante la participación de los gentiles en la herencia, el cuerpo y la promesa en Yehoshua el Mesías. Esta nota conserva la continuidad que la clase percibe, sin convertirla en una explicación exhaustiva de la historia de Israel o de todas las discusiones sobre reemplazo.
 
 ## Herencia, cuerpo y promesa compartidos
 
-La parte 13 detiene la lectura en tres expresiones de #ephesians_3_6 (00:45:29–00:50:35): los gentiles son coherederos, están en un solo cuerpo y participan de la promesa en Yehoshua el Mesías por medio de la buena noticia. El texto da esas tres coordenadas conjuntamente; por ello, es sólido afirmar que el misterio no deja a los gentiles al margen de la herencia, del cuerpo ni de la promesa.
+La parte 13 detiene la lectura en tres expresiones de #efesios_3_6 (00:45:29–00:50:35): los gentiles son coherederos, están en un solo cuerpo y participan de la promesa en Yehoshua el Mesías por medio de la buena noticia. El texto da esas tres coordenadas conjuntamente; por ello, es sólido afirmar que el misterio no deja a los gentiles al margen de la herencia, del cuerpo ni de la promesa.
 
-La clase emplea los términos griegos _synklēronoma_, _syssōma_ y _symmetocha_ para enfatizar la participación común y concluye que no hay «dos cuerpos» ni «dos pueblos». Esa conclusión recoge con fuerza la imagen de «un cuerpo» del versículo y conversa con #ephesians_2_11-22. Aun así, las definiciones técnicas de cada compuesto griego, así como la aplicación de «copartícipes» a padecimientos específicos, requieren cotejo léxico y contextual: #ephesians_3_6 habla directamente de la promesa en el Mesías, pero no desarrolla por sí solo cada implicación histórica o eclesiológica.
+La clase emplea los términos griegos _synklēronoma_, _syssōma_ y _symmetocha_ para enfatizar la participación común y concluye que no hay «dos cuerpos» ni «dos pueblos». Esa conclusión recoge con fuerza la imagen de «un cuerpo» del versículo y conversa con #efesios_2_11-22. Aun así, las definiciones técnicas de cada compuesto griego, así como la aplicación de «copartícipes» a padecimientos específicos, requieren cotejo léxico y contextual: #efesios_3_6 habla directamente de la promesa en el Mesías, pero no desarrolla por sí solo cada implicación histórica o eclesiológica.
 
-En #ephesians_3_7 Pablo vuelve a su propio encargo: llegó a ser servidor de la buena noticia por el don de la gracia de Elohim, conforme a la acción de su poder. La enseñanza enlaza ese poder con la actividad de Elohim y con #ephesians_1_19 (00:53:27–00:57:39). El paralelismo merece estudio; el versículo afirma ante todo que el servicio de Pablo procede del don de gracia y del poder de Elohim, no de una autosuficiencia apostólica.
+En #efesios_3_7 Pablo vuelve a su propio encargo: llegó a ser servidor de la buena noticia por el don de la gracia de Elohim, conforme a la acción de su poder. La enseñanza enlaza ese poder con la actividad de Elohim y con #efesios_1_19 (00:53:27–00:57:39). El paralelismo merece estudio; el versículo afirma ante todo que el servicio de Pablo procede del don de gracia y del poder de Elohim, no de una autosuficiencia apostólica.
 
-## Riqueza anunciada, tribulación y oración (3:8-21)
+## Riqueza anunciada, tribulación y oración (3:8-21) #efesios_3_8-21
 
 <!-- prettier-ignore -->
-Después de nombrar su servicio, Pablo no convierte la gracia en propiedad privada. Se describe como el menor de todos los santos y recibe gracia para anunciar a los gentiles la riqueza inescrutable del Mesías y para iluminar a todos sobre la administración del misterio (#ephesians_3_8-9). El texto añade que, por medio de la asamblea, la sabiduría de Elohim se da a conocer a los poderes celestiales (#ephesians_3_10-11). La clase insiste en que la gracia debe sostener y servir; este cierre canónico confirma el encargo, aunque no autoriza a convertir «sustentabilidad» en el sentido único de _oikonomía_. La prueba textual sostiene el encargo y la participación común; deja como inferencia pedagógica la ampliación de _oikonomía_ a «sustentabilidad».
+Después de nombrar su servicio, Pablo no convierte la gracia en propiedad privada. Se describe como el menor de todos los santos y recibe gracia para anunciar a los gentiles la riqueza inescrutable del Mesías y para iluminar a todos sobre la administración del misterio (#efesios_3_8-9). El texto añade que, por medio de la asamblea, la sabiduría de Elohim se da a conocer a los poderes celestiales (#efesios_3_10-11). La clase insiste en que la gracia debe sostener y servir; este cierre canónico confirma el encargo, aunque no autoriza a convertir «sustentabilidad» en el sentido único de _oikonomía_. La prueba textual sostiene el encargo y la participación común; deja como inferencia pedagógica la ampliación de _oikonomía_ a «sustentabilidad».
 
-Pablo pide que no se desanimen por sus tribulaciones, pues las presenta como parte de su servicio por ellos (#ephesians_3_13). Luego dobla las rodillas ante el Padre y pide que sean fortalecidos con poder por el Rúaj en el ser interior, que el Mesías habite en sus corazones por la fe y que, arraigados y cimentados en amor, comprendan con todos los santos la anchura, longitud, profundidad y altura del amor del Mesías (#ephesians_3_14-19). La unidad verbal es importante: la comprensión no se aísla en una intuición individual, sino que ocurre «con todos los santos» y conduce a la plenitud de Elohim.
+Pablo pide que no se desanimen por sus tribulaciones, pues las presenta como parte de su servicio por ellos (#efesios_3_13). Luego dobla las rodillas ante el Padre y pide que sean fortalecidos con poder por el Rúaj en el ser interior, que el Mesías habite en sus corazones por la fe y que, arraigados y cimentados en amor, comprendan con todos los santos la anchura, longitud, profundidad y altura del amor del Mesías (#efesios_3_14-19). La unidad verbal es importante: la comprensión no se aísla en una intuición individual, sino que ocurre «con todos los santos» y conduce a la plenitud de Elohim.
 
-La doxología final atribuye a Elohim poder para hacer mucho más de lo que pedimos o pensamos, según el poder que actúa en nosotros, y dirige la gloria a la asamblea en el Mesías por todas las generaciones (#ephesians_3_20-21). Esta conclusión limita una lectura de la oración como técnica para obtener deseos: la petición descansa en el poder de Elohim, se ordena al amor y termina en gloria comunitaria.
+La doxología final atribuye a Elohim poder para hacer mucho más de lo que pedimos o pensamos, según el poder que actúa en nosotros, y dirige la gloria a la asamblea en el Mesías por todas las generaciones (#efesios_3_20-21). Esta conclusión limita una lectura de la oración como técnica para obtener deseos: la petición descansa en el poder de Elohim, se ordena al amor y termina en gloria comunitaria.
 
 El puente entre el encargo y la oración tampoco debe perderse en 3:13-15. Pablo pide que no desmayen por sus tribulaciones «por vosotros», y enseguida se arrodilla ante el Padre, de quien toma nombre toda familia en los cielos y en la tierra. La forma **ἐγκακεῖν**, _enkakein_, «desanimarse o perder el ánimo», describe lo que Pablo pide que la comunidad no haga ante su sufrimiento; no convierte sus cadenas en una credencial espiritual automática. Después, **πατριά**, _patria_, «familia, linaje o grupo familiar», se relaciona con **πατήρ**, _patēr_, «padre», por un juego morfológico perceptible en el griego, pero la semejanza no autoriza a construir una doctrina completa de genealogías celestiales. La clase puede conservar su énfasis en pertenencia y responsabilidad si se prueba en esta secuencia: tribulación por el bien de la comunidad, reverencia ante el Padre y petición de fuerza para el ser interior.
 
 <!-- prettier-ignore -->
-La oración también precisa cómo se sostiene la participación común anunciada en 3:6. Pablo pide que el Padre conceda que sean fortalecidos (**κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos») en el ser interior por el Rúaj (#ephesians_3_16); después pide que el Mesías habite (**κατοικῆσαι**, _katoikēsai_, «habitar») en sus corazones por la fe (#ephesians_3_17). La secuencia no presenta poder abstracto: vincula vigor interior, morada y raíces en amor. Eric relaciona esta obra interior con la mente y el Rúaj del Mesías; el texto permite afirmar la acción interior y la fe, pero deja como aplicación la equivalencia total entre Rúaj y «mente».
+La oración también precisa cómo se sostiene la participación común anunciada en 3:6. Pablo pide que el Padre conceda que sean fortalecidos (**κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos») en el ser interior por el Rúaj (#efesios_3_16); después pide que el Mesías habite (**κατοικῆσαι**, _katoikēsai_, «habitar») en sus corazones por la fe (#efesios_3_17). La secuencia no presenta poder abstracto: vincula vigor interior, morada y raíces en amor. Eric relaciona esta obra interior con la mente y el Rúaj del Mesías; el texto permite afirmar la acción interior y la fe, pero deja como aplicación la equivalencia total entre Rúaj y «mente».
 
 <!-- prettier-ignore -->
-El objeto de la petición es que la comunidad pueda comprender (**καταλαβέσθαι**, _katalabesthai_, «comprender») con todos los santos la anchura, longitud, profundidad y altura, y conocer el amor del Mesías que excede el conocimiento (#ephesians_3_18-19). La preposición comunitaria importa: la clase habla de una comprensión que no se posee en aislamiento, y el versículo la confirma con «con todos los santos». Finalmente, «ser llenados» (**πληρωθῆτε**, _plērōthēte_) con toda la plenitud de Elohim funciona como petición recibida, no como método de autosuperación. Así, la oración prueba el fruto comunitario del misterio; no convierte las glosas de la clase sobre energía, mente o sustentabilidad en definiciones léxicas.
+El objeto de la petición es que la comunidad pueda comprender (**καταλαβέσθαι**, _katalabesthai_, «comprender») con todos los santos la anchura, longitud, profundidad y altura, y conocer el amor del Mesías que excede el conocimiento (#efesios_3_18-19). La preposición comunitaria importa: la clase habla de una comprensión que no se posee en aislamiento, y el versículo la confirma con «con todos los santos». Finalmente, «ser llenados» (**πληρωθῆτε**, _plērōthēte_) con toda la plenitud de Elohim funciona como petición recibida, no como método de autosuperación. Así, la oración prueba el fruto comunitario del misterio; no convierte las glosas de la clase sobre energía, mente o sustentabilidad en definiciones léxicas.
 
 ## Rúaj, lectura y discernimiento
 
-La sesión propone comprender «en Rúaj» de #ephesians_3_5 como una revelación que viene de Elohim y transforma el entendimiento, y lo relaciona con #corinthians1_2_10-16, donde Pablo habla de conocer lo dado por Elohim y de «Rúaj del Mesías» (00:15:27–00:44:45). También exhorta a que las pretensiones de revelación se sometan a la lectura y al estudio de las Escrituras (00:07:47–00:11:54). La advertencia pastoral de no contradecir lo escrito puede favorecer un estudio responsable; debe, no obstante, distinguirse de una regla exegética exhaustiva derivada de estos versículos aislados.
+La sesión propone comprender «en Rúaj» de #efesios_3_5 como una revelación que viene de Elohim y transforma el entendimiento, y lo relaciona con #1_corintios_2_10-16, donde Pablo habla de conocer lo dado por Elohim y de «Rúaj del Mesías» (00:15:27–00:44:45). También exhorta a que las pretensiones de revelación se sometan a la lectura y al estudio de las Escrituras (00:07:47–00:11:54). La advertencia pastoral de no contradecir lo escrito puede favorecer un estudio responsable; debe, no obstante, distinguirse de una regla exegética exhaustiva derivada de estos versículos aislados.
 
-El expositor propone sustituir sistemáticamente «espíritu» por «mente», «incorruptiblemente» u otras formulaciones, y presenta una explicación particular de Rúaj y de la mente del Mesías. #corinthians1_2_10-16 conserva el vocabulario de **רוח** en su texto hebreo Delitzsch, mientras que #ephesians_3_5 dice que la revelación fue dada a conocer a apóstoles y profetas «en Rúaj». La relación entre rúaj, mente, acción, revelación y las construcciones griegas necesita examen filológico cuidadoso; esta nota registra la propuesta de la clase sin reemplazar los términos del pasaje ni fijar una equivalencia única.
+El expositor propone sustituir sistemáticamente «espíritu» por «mente», «incorruptiblemente» u otras formulaciones, y presenta una explicación particular de Rúaj y de la mente del Mesías. #1_corintios_2_10-16 conserva el vocabulario de **רוח** en su texto hebreo Delitzsch, mientras que #efesios_3_5 dice que la revelación fue dada a conocer a apóstoles y profetas «en Rúaj». La relación entre rúaj, mente, acción, revelación y las construcciones griegas necesita examen filológico cuidadoso; esta nota registra la propuesta de la clase sin reemplazar los términos del pasaje ni fijar una equivalencia única.
 
 ## Hoja léxica
 
 | Forma              | Transliteración | Sentido en la nota                              | Tipo de relación                                                     | Cautela                                                                                                        |
 | ------------------ | --------------- | ----------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **(οἰκονομία)**    | oikonomía       | administración, encargo                         | Término griego asociado a #ephesians_3_2 y #ephesians_1_10           | «Sustentabilidad» es una aplicación pedagógica de la clase, no una equivalencia exacta establecida aquí.       |
-| **(הנהגה)**        | hanhagá         | administración, dirección                       | Forma hebrea del Delitzsch en #ephesians_3_2                         | Ilumina la versión hebrea, pero no reemplaza el examen del término griego y de su contexto.                    |
-| **(μυστήριον)**    | mysterion       | misterio, realidad revelada                     | Término discutido por la clase en #ephesians_3_3-5                   | No reducirlo a «secreto» ni suponer que toda asociación moderna con misterio conserva el uso paulino.          |
-| **(אסיר)**         | asir            | prisionero                                      | Forma hebrea del Delitzsch en #ephesians_3_1                         | La conexión con los «prisioneros de esperanza» de Zacarías es temática, no una equivalencia léxica demostrada. |
-| **(συγκληρονόμα)** | synklēronoma    | coherederos                                     | Forma neutra plural acusativa de **συγκληρονόμος** en #ephesians_3_6 | La clase destaca el prefijo de participación; su alcance debe contrastarse con léxicos y sintaxis.             |
-| **(σύσσωμα)**      | syssōma         | en un mismo cuerpo                              | Compuesto griego comentado en #ephesians_3_6                         | Apoya la unidad corporal del versículo; no sustituye el desarrollo completo de Efesios 2–3.                    |
-| **(συμμέτοχα)**    | symmetocha      | copartícipes                                    | Compuesto griego comentado en #ephesians_3_6                         | No imponer «padecimientos» como su único sentido sin revisar sus usos y el contexto inmediato.                 |
-| **(רוח)**          | rúaj            | rúaj; viento, aliento o espíritu según contexto | Forma hebrea presente en #ephesians_3_5 y #corinthians1_2_10-16      | No reducirla automáticamente a «mente» ni a una definición única fuera de cada construcción.                   |
+| **(οἰκονομία)**    | oikonomía       | administración, encargo                         | Término griego asociado a #efesios_3_2 y #efesios_1_10           | «Sustentabilidad» es una aplicación pedagógica de la clase, no una equivalencia exacta establecida aquí.       |
+| **(הנהגה)**        | hanhagá         | administración, dirección                       | Forma hebrea del Delitzsch en #efesios_3_2                         | Ilumina la versión hebrea, pero no reemplaza el examen del término griego y de su contexto.                    |
+| **(μυστήριον)**    | mysterion       | misterio, realidad revelada                     | Término discutido por la clase en #efesios_3_3-5                   | No reducirlo a «secreto» ni suponer que toda asociación moderna con misterio conserva el uso paulino.          |
+| **(אסיר)**         | asir            | prisionero                                      | Forma hebrea del Delitzsch en #efesios_3_1                         | La conexión con los «prisioneros de esperanza» de Zacarías es temática, no una equivalencia léxica demostrada. |
+| **(συγκληρονόμα)** | synklēronoma    | coherederos                                     | Forma neutra plural acusativa de **συγκληρονόμος** en #efesios_3_6 | La clase destaca el prefijo de participación; su alcance debe contrastarse con léxicos y sintaxis.             |
+| **(σύσσωμα)**      | syssōma         | en un mismo cuerpo                              | Compuesto griego comentado en #efesios_3_6                         | Apoya la unidad corporal del versículo; no sustituye el desarrollo completo de Efesios 2–3.                    |
+| **(συμμέτοχα)**    | symmetocha      | copartícipes                                    | Compuesto griego comentado en #efesios_3_6                         | No imponer «padecimientos» como su único sentido sin revisar sus usos y el contexto inmediato.                 |
+| **(רוח)**          | rúaj            | rúaj; viento, aliento o espíritu según contexto | Forma hebrea presente en #efesios_3_5 y #1_corintios_2_10-16      | No reducirla automáticamente a «mente» ni a una definición única fuera de cada construcción.                   |
 
 ## Prueba del argumento en el orden del capítulo
 
@@ -169,7 +169,7 @@ El encargo se vuelve visible en la asamblea: **γνωρισθῇ**, _gnōristhē
 
 La oración prueba el resultado del misterio con formas recibidas. **ἐνδυναμωθῆναι**, _endynamōthēnai_, «ser fortalecidos», y **κατοικῆσαι**, _katoikēsai_, «habitar», en 3:16-17 describen lo que Pablo pide al Padre por medio del Rúaj y para el Mesías en los corazones. **σὺν πᾶσιν τοῖς ἁγίοις**, _syn pasin tois hagiois_, «con todos los santos», limita una lectura individualista de **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», en 3:18. Eric relaciona la mente, el Rúaj y la formación; el texto confirma fortalecimiento, morada y comprensión compartida, pero no convierte esas glosas en equivalencias léxicas universales.
 
-## Control de 3:10-13: sabiduría pública y tribulación
+## Control de 3:10-13: sabiduría pública y tribulación #efesios_3_10-13
 
 La enseñanza sobre una gracia que sostiene debe pasar también por la asamblea y la tribulación, no detenerse en la experiencia de Pablo. En 3:10, **γνωρισθῇ**, _gnōristhē_, «sea dado a conocer», está en forma pasiva y presenta la sabiduría de Elohim como algo que llega a manifestarse por medio de la asamblea; **πολυποίκιλος**, _polypoikilos_, «multiforme o de muchas clases», califica esa sabiduría. La clase puede relacionar esta manifestación con una comunidad que hace visible la riqueza del Mesías, pero el texto no identifica automáticamente cada poder celestial con una institución contemporánea.
 
@@ -179,11 +179,11 @@ En 3:12-13, **παρρησία**, _parrēsia_, «franqueza o confianza», y **π
 
 | Punto de enseñanza tomado de Eric                                                                                                | Versos seguidos                       | Evaluación en esta nota                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Pablo es prisionero del Mesías a favor de los gentiles y su prisión se entiende desde el testimonio.                             | #ephesians_3_1-2                      | Textualmente apoyado; la conexión adicional con los prisioneros de esperanza de Zacarías se conserva como analogía pendiente.            |
-| La gracia recibida por Pablo es una administración o servicio, no una posesión privada; la clase la acerca a la sustentabilidad. | #ephesians_3_2 y #ephesians_3_7       | El encargo y el servicio están apoyados; «sustentabilidad» se clasifica como aplicación pedagógica, no como equivalencia léxica exacta.  |
-| El misterio fue revelado y comunicado por escrito para que los lectores lo comprendan.                                           | #ephesians_3_3-5                      | Textualmente apoyado en revelación, lectura y anuncio; no se extiende automáticamente el mismo estatus a toda enseñanza posterior.       |
-| Los gentiles participan de la herencia, del cuerpo y de la promesa en el Mesías, y no quedan en un segundo cuerpo.               | #ephesians_3_6-7                      | «Un cuerpo» y las tres participaciones están explícitos; la conclusión eclesiológica más amplia se presenta como inferencia cualificada. |
-| Rúaj se relaciona con conocimiento y mente del Mesías y debe someterse a la Escritura.                                           | #ephesians_3_5; #corinthians1_2_10-16 | La relación temática se registra; la sustitución de «espíritu» por «mente» queda pendiente de verificación filológica.                   |
+| Pablo es prisionero del Mesías a favor de los gentiles y su prisión se entiende desde el testimonio.                             | #efesios_3_1-2                      | Textualmente apoyado; la conexión adicional con los prisioneros de esperanza de Zacarías se conserva como analogía pendiente.            |
+| La gracia recibida por Pablo es una administración o servicio, no una posesión privada; la clase la acerca a la sustentabilidad. | #efesios_3_2 y #efesios_3_7       | El encargo y el servicio están apoyados; «sustentabilidad» se clasifica como aplicación pedagógica, no como equivalencia léxica exacta.  |
+| El misterio fue revelado y comunicado por escrito para que los lectores lo comprendan.                                           | #efesios_3_3-5                      | Textualmente apoyado en revelación, lectura y anuncio; no se extiende automáticamente el mismo estatus a toda enseñanza posterior.       |
+| Los gentiles participan de la herencia, del cuerpo y de la promesa en el Mesías, y no quedan en un segundo cuerpo.               | #efesios_3_6-7                      | «Un cuerpo» y las tres participaciones están explícitos; la conclusión eclesiológica más amplia se presenta como inferencia cualificada. |
+| Rúaj se relaciona con conocimiento y mente del Mesías y debe someterse a la Escritura.                                           | #efesios_3_5; #1_corintios_2_10-16 | La relación temática se registra; la sustitución de «espíritu» por «mente» queda pendiente de verificación filológica.                   |
 
 ## Control adicional: el misterio desemboca en una oración compartida
 
@@ -241,7 +241,7 @@ La tribulación de Pablo tampoco rompe la cadena. **θλῖψις**, _thlipsis_,
 
 El cierre confirma la dependencia: **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá de toda medida», califica lo que Elohim puede hacer conforme al poder que obra en la comunidad, mientras **δοξάζω**, _doxazō_, «glorificar», termina en la asamblea y en el Mesías por todas las generaciones. Eric puede hablar de riqueza, mente y escuela del Mesías, pero el límite textual es claro: la plenitud se recibe del poder de Elohim y se expresa en una comunidad que comprende, ama, persevera y glorifica, no en una autosuficiencia espiritual.
 
-## Control de secuencia: encargo, acceso y oración comunitaria (3:1-21)
+## Control de secuencia: encargo, acceso y oración comunitaria (3:1-21) #efesios_3_1-21
 
 Efesios 3 enlaza la administración de la gracia con la oración; no presenta el misterio como una experiencia privada separada del servicio. En 3:1-6, **οἰκονομία**, _oikonomia_, «administración o encargo», describe la responsabilidad recibida por Pablo; **συγκληρονόμα**, _synklēronoma_, «coheredera», **σύσσωμα**, _syssōma_, «del mismo cuerpo», y **συμμέτοχα**, _symmetocha_, «copartícipes», definen la inclusión de las naciones. Eric relaciona la gracia con una riqueza compartida; el texto lo sostiene mediante la repetición de “con”, no mediante una promesa de privilegio individual.
 
@@ -259,7 +259,7 @@ El orden de 3:7-13 impide separar capacidad y misión. **διάκονος**, _di
 
 La oración de 3:14-21 verifica el destino de esa administración. **κραταιόω**, _krataioō_, «fortalecer», **κατοικέω**, _katoikeō_, «habitar», y **ῥιζόω**, _rhizoō_, «arraigar», describen dones pedidos para el ser interior y el corazón; **καταλαμβάνω**, _katalambanō_, «comprender o captar», se realiza «con todos los santos», no fuera de la comunidad. Finalmente **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», dirige la doxología a lo que Elohim hace en nosotros. La riqueza y la escuela del Mesías que Eric desarrolla pueden conservarse como aplicaciones, pero la secuencia local las mide por participación, amor, perseverancia y gloria compartida.
 
-## Control de lectura: de la prisión al amor comprendido (3:1-21)
+## Control de lectura: de la prisión al amor comprendido (3:1-21) #efesios_3_1-21
 
 La secuencia completa impide separar las afirmaciones de la clase sobre «gracia sustentable» de su objeto apostólico. En 3:1-2, **δέσμιος**, _desmios_, «prisionero o encadenado», y **οἰκονομία**, _oikonomia_, «administración o encargo», describen a Pablo como alguien que recibe una responsabilidad para los gentiles; **χάρις**, _charis_, «gracia o favor concedido», nombra el don, no una capacidad autónoma. El Delitzsch usa **חסד**, _jesed_, «misericordia o lealtad», como aproximación semítica; ilumina el campo de la gracia, pero no prueba que cada matiz de _jesed_ sea el sentido griego de **χάρις**.
 
@@ -269,7 +269,7 @@ La segunda mitad prueba el fruto de esa revelación. En 3:8-13, **διάκονο
 
 Así, la prueba local queda en cuatro movimientos: Pablo es encargado para otros; el misterio se hace público; los gentiles son incorporados a una promesa y un cuerpo; y la comunidad pide recibir fuerza y plenitud. La doxología de 3:20-21 atribuye la capacidad a Elohim mediante **ὑπερεκπερισσοῦ**, _hyperekperissou_, «muchísimo más allá», y dirige la gloria a la asamblea y al Mesías. Ninguna extensión cosmológica, económica o etimológica de la enseñanza debe desplazar ese orden.
 
-## Control de dependencia: el misterio se vuelve una oración pública (3:1-21)
+## Control de dependencia: el misterio se vuelve una oración pública (3:1-21) #efesios_3_1-21
 
 La secuencia del capítulo impide separar la administración de la gracia de la oración final. Pablo comienza como prisionero «por ustedes, los gentiles» y enseguida explica que la **οἰκονομία**, _oikonomia_, es una administración o encargo recibido para beneficio de otros. No es una palabra que describa una técnica de sostenimiento material: en 3:2 y 3:9 organiza la responsabilidad de hacer visible lo que Elohim confió. La comparación hebrea **(סוד)**, _sod_, «consejo o secreto», ilumina la idea de algo antes oculto, pero no convierte el griego en una retroversión ni autoriza una lectura esotérica.
 
@@ -287,7 +287,7 @@ Efesios 3 conserva una progresión única. En 3:1-7, **δέσμιος**, _desmio
 
 El texto no termina con la definición doctrinal. En 3:7-13, **διάκονος**, _diakonos_, «servidor», y **ἐνέργεια**, _energeia_, «acción eficaz», atribuyen el ministerio y el poder a la gracia de Elohim; en 3:10 la sabiduría **πολυποίκιλος**, _polypoikilos_, «multiforme», se da a conocer por medio de la asamblea. Luego 3:14-21 responde con oración: **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», **κατοικῆσαι**, _katoikēsai_, «habitar», y **καταλαβέσθαι**, _katalabesthai_, «comprender», conducen a conocer el amor «con todos los santos». Eric puede hablar de gracia sostenible y de mente del Mesías como aplicación pedagógica; el orden local prueba con más precisión un encargo recibido, una inclusión compartida y una plenitud que Elohim concede a la comunidad.
 
-## Control final: revelación pública y fortalecimiento compartido (3:1-21)
+## Control final: revelación pública y fortalecimiento compartido (3:1-21) #efesios_3_1-21
 
 La observación de Eric sobre una gracia que sostiene no debe separarse del destinatario que Pablo repite. **οἰκονομία**, _oikonomía_, «administración, encargo o responsabilidad confiada», aparece ligada a la gracia recibida para los gentiles; **ἀποκάλυψις**, _apokálypsis_, «revelación o descubrimiento», y **γνωρίζω**, _gnōrízō_, «dar a conocer», describen cómo lo recibido se vuelve comunicable. La comparación con **סוד**, _sod_, «consejo o secreto», es aproximada y contextual: **μυστήριον**, _mystḗrion_, no designa aquí una doctrina esotérica reservada, porque Pablo la expone para que sea entendida.
 
@@ -305,15 +305,15 @@ En 3:14-21 la oración muestra el propósito de la administración: **κρατα
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la variante manuscrita mencionada por la clase para #ephesians_3_1 y su supuesto verbo de representación con una edición crítica y el aparato correspondiente.
-- [ ] Examinar _oikonomía_ en #ephesians_1_10 y #ephesians_3_2 con léxicos y usos paulinos antes de tratar «sustentabilidad» como traducción definitiva.
+- [ ] Cotejar la variante manuscrita mencionada por la clase para #efesios_3_1 y su supuesto verbo de representación con una edición crítica y el aparato correspondiente.
+- [ ] Examinar _oikonomía_ en #efesios_1_10 y #efesios_3_2 con léxicos y usos paulinos antes de tratar «sustentabilidad» como traducción definitiva.
 - [ ] Verificar las relaciones etimológicas propuestas entre _oikonomía_, términos hebreos de sostén y los relatos de José; la conexión de la clase es pedagógica y requiere fuentes lingüísticas precisas.
 - [ ] Revisar la presentación de la clase sobre la prisión de Pablo, el culto imperial y las causas históricas de sus padecimientos con fuentes primarias y estudios históricos.
-- [ ] Estudiar la relación entre #zechariah_9_11-12 y #ephesians_3_1 antes de describirla como cita, alusión directa o cumplimiento textual.
-- [ ] Examinar el alcance de «otras generaciones» y la revelación a apóstoles y profetas en #ephesians_3_5 sin convertir la explicación de la clase sobre Israel y las naciones en la única lectura posible.
-- [ ] Cotejar _synklēronoma_, _syssōma_ y _symmetocha_ en #ephesians_3_6 con el texto griego, léxicos y el argumento de Efesios 2–3 antes de convertir las glosas pedagógicas de la clase en definiciones exhaustivas.
-- [ ] Examinar la propuesta de sustituir «espíritu» por «mente», «incorruptiblemente» o «acción» en #ephesians_3_5 y #corinthians1_2_10-16; las formas hebreas y griegas, la sintaxis y los contextos deben conservarse y estudiarse antes de adoptar una equivalencia definitiva.
-- [ ] Verificar la conexión léxica propuesta entre la acción del poder en #ephesians_3_7 y #ephesians_1_19, así como las conclusiones doctrinales que la clase deriva de ella.
+- [ ] Estudiar la relación entre #zacarias_9_11-12 y #efesios_3_1 antes de describirla como cita, alusión directa o cumplimiento textual.
+- [ ] Examinar el alcance de «otras generaciones» y la revelación a apóstoles y profetas en #efesios_3_5 sin convertir la explicación de la clase sobre Israel y las naciones en la única lectura posible.
+- [ ] Cotejar _synklēronoma_, _syssōma_ y _symmetocha_ en #efesios_3_6 con el texto griego, léxicos y el argumento de Efesios 2–3 antes de convertir las glosas pedagógicas de la clase en definiciones exhaustivas.
+- [ ] Examinar la propuesta de sustituir «espíritu» por «mente», «incorruptiblemente» o «acción» en #efesios_3_5 y #1_corintios_2_10-16; las formas hebreas y griegas, la sintaxis y los contextos deben conservarse y estudiarse antes de adoptar una equivalencia definitiva.
+- [ ] Verificar la conexión léxica propuesta entre la acción del poder en #efesios_3_7 y #efesios_1_19, así como las conclusiones doctrinales que la clase deriva de ella.
 
 ## Control de dependencia: del encargo a la doxología
 
@@ -350,7 +350,7 @@ En 3:3-7 el misterio deja de ser una palabra general y recibe una prueba textual
 
 El capítulo verifica esa inclusión en 3:8-21. **διάκονος**, _diakonos_, «servidor o ministro», y **ἐνέργεια**, _energeia_, «acción eficaz», atribuyen el ministerio y el poder a Elohim; **παρρησία**, _parrēsia_, «franqueza o confianza», y **προσαγωγή**, _prosagōgē_, «acceso o acercamiento», describen la entrada común en el Mesías. Después **κραταιωθῆναι**, _krataiōthēnai_, «ser fortalecidos», **κατοικῆσαι**, _katoikēsai_, «habitar», y **καταλαβέσθαι**, _katalabesthai_, «comprender o captar», conducen a fuerza interior, morada y comprensión «con todos los santos». La aplicación de Eric sobre mente, escuela y riqueza queda conservada como enseñanza atribuida, mientras el texto prueba una secuencia más precisa: encargo, participación, fortalecimiento, amor y gloria comunitaria.
 
-## Control de dependencia: revelación, tribulación y oración (3:8-21)
+## Control de dependencia: revelación, tribulación y oración (3:8-21) #efesios_3_8-21
 
 La parte final del capítulo no abandona el misterio definido en 3:6. En 3:8-9, **ἐλάχιστος**, _elachistos_, «el más pequeño», y **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», presentan a Pablo como servidor de una riqueza que no posee para sí; **ἀνεξιχνίαστος**, _anexichniastos_, «inescrutable o imposible de rastrear por completo», limita cualquier intento de encerrar al Mesías en una fórmula. La observación de Eric sobre una gracia que sostiene a otros queda apoyada como encargo público, mientras «sustentabilidad» permanece como aplicación de **οἰκονομία**, _oikonomia_, no como traducción exhaustiva.
 
@@ -376,7 +376,7 @@ Las partes 15 y 16 amplían la exposición con las expresiones **אבא**, _abba
 
 El vínculo pedagógico entre _abba_, la filiación y la formación puede iluminar la exhortación de la clase, pero su equivalencia con **πατήρ** es funcional y contextual, no una retroversión demostrada. Del mismo modo, _beyta_ puede expresar «casa» y la clase lo usa para hablar de una «escuela del Mesías»; Efesios 3 prueba una familia nombrada desde el Padre y una comunidad fortalecida, arraigada y edificada en amor, pero no emplea en esta perícopa un sustantivo arameo que signifique literalmente «escuela». Esta distinción evita que las partes 15-16 desplacen la progresión local: encargo, participación, oración y gloria comunitaria.
 
-## Control de cierre: del encargo a la plenitud comunitaria (3:8-21)
+## Control de cierre: del encargo a la plenitud comunitaria (3:8-21) #efesios_3_8-21
 
 La segunda mitad del capítulo no abandona el misterio anunciado en 3:6. En 3:8, **ἐλάχιστος**, _elachistos_, «el menor o más pequeño», califica la autodescripción de Pablo antes de **εὐαγγελίσασθαι**, _euangelisasthai_, «anunciar la buena noticia», la riqueza inescrutable del Mesías. **ἀνεξιχνίαστος**, _anexichniastos_, «imposible de rastrear por completo», limita la aplicación de Eric sobre la riqueza: la clase puede exhortar a una administración generosa de la gracia, pero la forma no convierte «sustentabilidad» en una traducción exhaustiva de **οἰκονομία**, _oikonomia_, «administración o encargo». La comparación con **עשר**, _osher_, «riqueza», es de campo semántico y no una retroversión demostrada.
 
@@ -395,10 +395,10 @@ El cierre prueba el resultado, no una capacidad autónoma del discípulo. **πλ
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ (`source_id: youtube:bG4SqOvNolQ`).
-- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8 (`source_id: youtube:GulS21GtPP8`).
-- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg (`source_id: youtube:qu6bUTxbmdg`).
-- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0 (`source_id: youtube:kVAJOj4wkR0`).
-- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw (`source_id: youtube:dOHBc1A57kw`).
+- «La carta a los Efesios (parte 12) Cap 3 La sustentabilidad de la gracia de Dios» — https://www.youtube.com/watch?v=bG4SqOvNolQ (`source_id`: youtube:bG4SqOvNolQ`).
+- «La carta a los efesios (parte 13) Cap 3 Rúaj Hamashíaj, la mente de Cristo» — https://www.youtube.com/watch?v=GulS21GtPP8 (`source_id`: youtube:GulS21GtPP8`).
+- «La Carta a los Efesios (Parte 14) Cap 3 ‘Ósher Hamashiaj, la riqueza de Cristo» — https://www.youtube.com/watch?v=qu6bUTxbmdg (`source_id`: youtube:qu6bUTxbmdg`).
+- «La carta a los Efesios (parte 15) Cap 3 La magnificencia de Cristo - ‘aba’ dimshijá’» — https://www.youtube.com/watch?v=kVAJOj4wkR0 (`source_id`: youtube:kVAJOj4wkR0`).
+- «La carta a los efesios (parte 16) Cap 3 Beytá’ dimshijá’ - la escuela de Cristo» — https://www.youtube.com/watch?v=dOHBc1A57kw (`source_id`: youtube:dOHBc1A57kw`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

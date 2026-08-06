@@ -10,14 +10,14 @@ tags:
   - reino
   - eric-youtube
 references:
-  - "#tehilim_144_1-2"
-  - "#tehilim_144_3-4"
-  - "#tehilim_144_5-8"
-  - "#tehilim_144_9-11"
-  - "#tehilim_144_12-15"
-  - "#shemuel_bet_8_1-14"
+  - "#salmos_144_1-2"
+  - "#salmos_144_3-4"
+  - "#salmos_144_5-8"
+  - "#salmos_144_9-11"
+  - "#salmos_144_12-15"
+  - "#2_samuel_8_1-14"
   - "#romanos_11_17-24"
-  - "#iojanan_1_12-13"
+  - "#juan_1_12-13"
   - "#efesios_6_10-17"
 sources:
   - "https://www.youtube.com/watch?v=JxLhysPXd_0"
@@ -39,11 +39,11 @@ Se siguen los quince versos en orden. La clase propone que el himno fue escrito 
 
 | Unidad             | Texto local (OE, hebreo sin nikud)                                                                                                                                                                                            | Movimiento                                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| #tehilim_144_1-2   | **לדוד ברוך יהוה צורי המלמד ידי לקרב אצבעותי למלחמה חסדי ומצודתי משגבי ומפלטי לי מגני ובו חסיתי הרודד עמי תחתי**                                                                                                              | יהוה enseña, es roca, fortaleza, refugio y escudo.                                          |
-| #tehilim_144_3-4   | **יהוה מה אדם ותדעהו בן אנוש ותחשבהו אדם להבל דמה ימיו כצל עובר**                                                                                                                                                             | La grandeza humana queda relativizada por su fragilidad.                                    |
-| #tehilim_144_5-8   | **יהוה הט שמיך ותרד גע בהרים ויעשנו ברוק ברק ותפיצם שלח חציך ותהמם שלח ידיך ממרום פצני והצילני ממים רבים מיד בני נכר אשר פיהם דבר שוא וימינם ימין שקר**                                                                       | יהוה interviene desde lo alto, dispersa y rescata de enemigos engañosos.                    |
-| #tehilim_144_9-11  | **אלהים שיר חדש אשירה לך בנבל עשור אזמרה לך הנותן תשועה למלכים הפוצה את דוד עבדו מחרב רעה פצני והצילני מיד בני נכר אשר פיהם דבר שוא וימינם ימין שקר**                                                                         | El canto nuevo recuerda que la salvación de los reyes y el rescate de David vienen de יהוה. |
-| #tehilim_144_12-15 | **אשר בנינו כנטעים מגדלים בנעוריהם בנותינו כזוית מחטבות תבנית היכל מזוינו מלאים מפיקים מזן אל זן צאוננו מאליפות מרבבות בחוצותינו אלופינו מסבלים אין פרץ ואין יוצאת ואין צוחה ברחבתינו אשרי העם שככה לו אשרי העם שיהוה אלהיו** | Hijos, provisión, rebaños, paz pública y dicha bajo el gobierno de יהוה.                    |
+| #salmos_144_1-2   | **לדוד ברוך יהוה צורי המלמד ידי לקרב אצבעותי למלחמה חסדי ומצודתי משגבי ומפלטי לי מגני ובו חסיתי הרודד עמי תחתי**                                                                                                              | יהוה enseña, es roca, fortaleza, refugio y escudo.                                          |
+| #salmos_144_3-4   | **יהוה מה אדם ותדעהו בן אנוש ותחשבהו אדם להבל דמה ימיו כצל עובר**                                                                                                                                                             | La grandeza humana queda relativizada por su fragilidad.                                    |
+| #salmos_144_5-8   | **יהוה הט שמיך ותרד גע בהרים ויעשנו ברוק ברק ותפיצם שלח חציך ותהמם שלח ידיך ממרום פצני והצילני ממים רבים מיד בני נכר אשר פיהם דבר שוא וימינם ימין שקר**                                                                       | יהוה interviene desde lo alto, dispersa y rescata de enemigos engañosos.                    |
+| #salmos_144_9-11  | **אלהים שיר חדש אשירה לך בנבל עשור אזמרה לך הנותן תשועה למלכים הפוצה את דוד עבדו מחרב רעה פצני והצילני מיד בני נכר אשר פיהם דבר שוא וימינם ימין שקר**                                                                         | El canto nuevo recuerda que la salvación de los reyes y el rescate de David vienen de יהוה. |
+| #salmos_144_12-15 | **אשר בנינו כנטעים מגדלים בנעוריהם בנותינו כזוית מחטבות תבנית היכל מזוינו מלאים מפיקים מזן אל זן צאוננו מאליפות מרבבות בחוצותינו אלופינו מסבלים אין פרץ ואין יוצאת ואין צוחה ברחבתינו אשרי העם שככה לו אשרי העם שיהוה אלהיו** | Hijos, provisión, rebaños, paz pública y dicha bajo el gobierno de יהוה.                    |
 
 ## De la batalla a la confesión (vv. 1-2)
 

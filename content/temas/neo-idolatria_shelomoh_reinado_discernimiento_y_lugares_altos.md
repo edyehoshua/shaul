@@ -11,18 +11,18 @@ tags:
   - torah
   - lugares-altos
 references:
-  - "#melajim_alef_2_1"
-  - "#melajim_alef_2_3"
-  - "#melajim_alef_2_4"
-  - "#melajim_alef_2_12"
-  - "#melajim_alef_2_27"
-  - "#melajim_alef_2_46"
-  - "#melajim_alef_3_3"
-  - "#melajim_alef_3_4"
-  - "#melajim_alef_3_5"
-  - "#melajim_alef_3_9"
-  - "#melajim_alef_3_11"
-  - "#melajim_alef_3_14"
+  - "#1_reyes_2_1"
+  - "#1_reyes_2_3"
+  - "#1_reyes_2_4"
+  - "#1_reyes_2_12"
+  - "#1_reyes_2_27"
+  - "#1_reyes_2_46"
+  - "#1_reyes_3_3"
+  - "#1_reyes_3_4"
+  - "#1_reyes_3_5"
+  - "#1_reyes_3_9"
+  - "#1_reyes_3_11"
+  - "#1_reyes_3_14"
 sources:
   - "https://www.youtube.com/watch?v=lpI2FerCSi8"
   - "docs/scriptures/tth/json/melajim_alef.json"
@@ -42,12 +42,12 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local TTH | Función en la enseñanza |
 | --- | --- | --- |
-| #melajim_alef_2_1-4 | «Y se acercaron los días de David para morir, y ordenó a Shelomóh, su hijo… Y guardarás la guardia de יהוה tu Elohim para ir en sus caminos… conforme a la escritura en la Torah de Moshéh» | David vincula la estabilidad del trono con caminar delante de יהוה y guardar su instrucción. |
-| #melajim_alef_2_12 | «Y Shelomóh se sentó sobre el trono de David su padre, y fue establecido su reino mucho» | El reino se establece después de que el nuevo rey asume responsabilidad concreta. |
-| #melajim_alef_2_27,46 | «Y expulsó Shelomóh a Ebiatar de ser sacerdote de יהוה…» / «Y el reino fue establecido en mano de Shelomóh» | La exposición lee los juicios pendientes como parte de la consolidación inicial, sin presentar cada inferencia como una afirmación explícita del narrador. |
-| #melajim_alef_3_3-5 | «Y amó Shelomóh a יהוה… sólo que en los lugares altos él sacrificaba… Y fue el rey a Guibeón a sacrificar allí, porque ese era el gran lugar alto» | La clase llama a examinar el contexto de Guibeón en vez de identificar automáticamente todo “lugar alto” con idolatría. |
-| #melajim_alef_3_9-12 | «Da a tu siervo un corazón oidor para juzgar a tu pueblo, para discernir entre el bien del mal… he dado para ti un corazón sabio y discerniente» | El centro de la petición no es acumular poder, sino recibir capacidad para escuchar, juzgar y distinguir. |
-| #melajim_alef_3_14 | «Y si andas en mis caminos, para guardar mis decretos y mis mandamientos como anduvo David tu padre, haré largos tus días» | El don recibido no elimina la responsabilidad perseverante de andar en los caminos de יהוה. |
+| #1_reyes_2_1-4 | «Y se acercaron los días de David para morir, y ordenó a Shelomóh, su hijo… Y guardarás la guardia de יהוה tu Elohim para ir en sus caminos… conforme a la escritura en la Torah de Moshéh» | David vincula la estabilidad del trono con caminar delante de יהוה y guardar su instrucción. |
+| #1_reyes_2_12 | «Y Shelomóh se sentó sobre el trono de David su padre, y fue establecido su reino mucho» | El reino se establece después de que el nuevo rey asume responsabilidad concreta. |
+| #1_reyes_2_27,46 | «Y expulsó Shelomóh a Ebiatar de ser sacerdote de יהוה…» / «Y el reino fue establecido en mano de Shelomóh» | La exposición lee los juicios pendientes como parte de la consolidación inicial, sin presentar cada inferencia como una afirmación explícita del narrador. |
+| #1_reyes_3_3-5 | «Y amó Shelomóh a יהוה… sólo que en los lugares altos él sacrificaba… Y fue el rey a Guibeón a sacrificar allí, porque ese era el gran lugar alto» | La clase llama a examinar el contexto de Guibeón en vez de identificar automáticamente todo “lugar alto” con idolatría. |
+| #1_reyes_3_9-12 | «Da a tu siervo un corazón oidor para juzgar a tu pueblo, para discernir entre el bien del mal… he dado para ti un corazón sabio y discerniente» | El centro de la petición no es acumular poder, sino recibir capacidad para escuchar, juzgar y distinguir. |
+| #1_reyes_3_14 | «Y si andas en mis caminos, para guardar mis decretos y mis mandamientos como anduvo David tu padre, haré largos tus días» | El don recibido no elimina la responsabilidad perseverante de andar en los caminos de יהוה. |
 
 ## Un reino que debe ser afirmado por obediencia
 

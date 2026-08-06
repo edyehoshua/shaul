@@ -7,9 +7,9 @@ tags:
   - esperanza
   - perseverancia
 references:
-  - "#hebrews_6_1"
-  - "#hebrews_6_10"
-  - "#hebrews_6_19"
+  - "#hebreos_6_1"
+  - "#hebreos_6_10"
+  - "#hebreos_6_19"
 sources:
   - "docs/scriptures/delitzsch/json/hebrews.json"
 translation: "[Delitzsch]"
@@ -23,9 +23,9 @@ Hebreos 6 llama a avanzar hacia la madurez, reconoce el servicio hecho por amor 
 
 | Referencia    | Texto local                                             | Observación                                              |
 | ------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| #hebrews_6_1  | **על־כן בעזב כעת ראשית דבר המשיח נעבר אל־השלמות**       | La meta es avanzar, no repetir sin fin los fundamentos.  |
-| #hebrews_6_10 | **כי האלהים לא־יעות צדק לשכח את־מעשיכם ואת־עמל אהבתכם** | Elohim recuerda el servicio hecho a favor de los santos. |
-| #hebrews_6_19 | **אשר יש־לנו כעוגן לנפש בטוח וחזק**                     | La esperanza es descrita con la imagen de un ancla.      |
+| #hebreos_6_1  | **על־כן בעזב כעת ראשית דבר המשיח נעבר אל־השלמות**       | La meta es avanzar, no repetir sin fin los fundamentos.  |
+| #hebreos_6_10 | **כי האלהים לא־יעות צדק לשכח את־מעשיכם ואת־עמל אהבתכם** | Elohim recuerda el servicio hecho a favor de los santos. |
+| #hebreos_6_19 | **אשר יש־לנו כעוגן לנפש בטוח וחזק**                     | La esperanza es descrita con la imagen de un ancla.      |
 
 ## Esperanza que persevera
 

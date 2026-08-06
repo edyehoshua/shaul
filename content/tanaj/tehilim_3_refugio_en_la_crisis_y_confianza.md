@@ -10,12 +10,12 @@ tags:
   - oracion
   - salvacion
 references:
-  - "#tehilim_3_1-3"
-  - "#tehilim_3_4-6"
-  - "#tehilim_3_7-9"
-  - "#shemuel_bet_15"
-  - "#shemuel_bet_17_23"
-  - "#shemuel_bet_18_1-18"
+  - "#salmos_3_1-3"
+  - "#salmos_3_4-6"
+  - "#salmos_3_7-9"
+  - "#2_samuel_15"
+  - "#2_samuel_17_23"
+  - "#2_samuel_18_1-18"
 sources:
   - "https://www.youtube.com/watch?v=lmFl_zxaEFw"
   - "docs/scriptures/oe/json/psalms/3.json"
@@ -34,39 +34,39 @@ Esta nota organiza la clase del hermano Eric de Jesús Rodríguez Mendoza sobre 
 
 ## Contexto de lectura
 
-El encabezado local sitúa el poema «cuando [David] huía ante Abshalom su hijo» (#tehilim_3_1). La narración de 2 Shemuel describe una conspiración, la salida de David de Yerushalayim y el conflicto que sigue (#shemuel_bet_15; #shemuel_bet_18_1-18). Ese marco evita leer la multitud de adversarios como una imagen abstracta: la oración nace en una situación de amenaza, pérdida de apoyo público y vulnerabilidad real.
+El encabezado local sitúa el poema «cuando [David] huía ante Abshalom su hijo» (#salmos_3_1). La narración de 2 Shemuel describe una conspiración, la salida de David de Yerushalayim y el conflicto que sigue (#2_samuel_15; #2_samuel_18_1-18). Ese marco evita leer la multitud de adversarios como una imagen abstracta: la oración nace en una situación de amenaza, pérdida de apoyo público y vulnerabilidad real.
 
 ## Hoja de comparación
 
 | Referencia     | Texto local                                                                                 | Observación                                                                                     |
 | -------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| #tehilim_3_1   | מזמור לדוד בברחו מפני אבשלום בנו                                                            | El encabezado vincula el salmo con la huida de David ante Abshalom.                             |
-| #tehilim_3_2-3 | יהוה מה רבו צרי רבים קמים עלי; רבים אמרים לנפשי אין ישועתה לו באלהים סלה                    | La aflicción incluye opositores numerosos y una palabra de desesperanza contra David.           |
-| #tehilim_3_4-5 | ואתה יהוה מגן בעדי כבודי ומרים ראשי; קולי אל יהוה אקרא ויענני מהר קדשו סלה                  | Al discurso de los adversarios responde la confesión: יהוה protege, honra y escucha.            |
-| #tehilim_3_6-7 | אני שכבתי ואישנה הקיצותי כי יהוה יסמכני; לא אירא מרבבות עם אשר סביב שתו עלי                 | El descanso y el despertar se atribuyen al sostén de יהוה, incluso frente a una multitud.       |
-| #tehilim_3_8-9 | קומה יהוה הושיעני אלהי כי הכית את כל איבי לחי שני רשעים שברת; ליהוה הישועה על עמך ברכתך סלה | El ruego pide salvación y termina declarando que la salvación y la bendición pertenecen a יהוה. |
+| #salmos_3_1   | מזמור לדוד בברחו מפני אבשלום בנו                                                            | El encabezado vincula el salmo con la huida de David ante Abshalom.                             |
+| #salmos_3_2-3 | יהוה מה רבו צרי רבים קמים עלי; רבים אמרים לנפשי אין ישועתה לו באלהים סלה                    | La aflicción incluye opositores numerosos y una palabra de desesperanza contra David.           |
+| #salmos_3_4-5 | ואתה יהוה מגן בעדי כבודי ומרים ראשי; קולי אל יהוה אקרא ויענני מהר קדשו סלה                  | Al discurso de los adversarios responde la confesión: יהוה protege, honra y escucha.            |
+| #salmos_3_6-7 | אני שכבתי ואישנה הקיצותי כי יהוה יסמכני; לא אירא מרבבות עם אשר סביב שתו עלי                 | El descanso y el despertar se atribuyen al sostén de יהוה, incluso frente a una multitud.       |
+| #salmos_3_8-9 | קומה יהוה הושיעני אלהי כי הכית את כל איבי לחי שני רשעים שברת; ליהוה הישועה על עמך ברכתך סלה | El ruego pide salvación y termina declarando que la salvación y la bendición pertenecen a יהוה. |
 
 ## Muchas voces contra una confesión
 
-El poema contrasta dos voces. Muchos dicen que no hay salvación para David en Elohim (#tehilim_3_3); David, en cambio, dice «tú, יהוה» (#tehilim_3_4). El giro no niega la cantidad de sus adversarios: establece que el veredicto decisivo no es el de la multitud, sino el de יהוה.
+El poema contrasta dos voces. Muchos dicen que no hay salvación para David en Elohim (#salmos_3_3); David, en cambio, dice «tú, יהוה» (#salmos_3_4). El giro no niega la cantidad de sus adversarios: establece que el veredicto decisivo no es el de la multitud, sino el de יהוה.
 
 La clase relaciona los adversarios con Abshalom, Ajitofel y quienes se unieron a la rebelión. Esa conexión corresponde al marco histórico del encabezado y de 2 Shemuel. Conviene no extender automáticamente cada figura histórica a una identificación espiritual definitiva sin un argumento textual adicional.
 
 ## Escudo, gloria y cabeza levantada
 
-David nombra a יהוה «escudo», «mi gloria» y «el que levanta mi cabeza» (#tehilim_3_4). En vez de sostener su dignidad por fuerza propia, deposita su seguridad y su honra en יהוה. La clase vincula la imagen del escudo con la confianza; el texto permite afirmar con claridad que la protección de David procede de יהוה, no de una capacidad autónoma.
+David nombra a יהוה «escudo», «mi gloria» y «el que levanta mi cabeza» (#salmos_3_4). En vez de sostener su dignidad por fuerza propia, deposita su seguridad y su honra en יהוה. La clase vincula la imagen del escudo con la confianza; el texto permite afirmar con claridad que la protección de David procede de יהוה, no de una capacidad autónoma.
 
-Desde esa confesión David llama con su voz y espera respuesta desde el monte santo (#tehilim_3_5). La oración no es una técnica para controlar el desenlace: es un clamor dirigido a יהוה en medio de la incertidumbre.
+Desde esa confesión David llama con su voz y espera respuesta desde el monte santo (#salmos_3_5). La oración no es una técnica para controlar el desenlace: es un clamor dirigido a יהוה en medio de la incertidumbre.
 
 ## Dormir sostenido en medio de la amenaza
 
-«Me acosté, dormí y desperté» (#tehilim_3_6) es una declaración breve y profunda. La continuidad de la vida no se da por sentada: David atribuye el despertar a que יהוה lo sostiene. Por ello puede afirmar que no temerá a los diez millares apostados alrededor (#tehilim_3_7).
+«Me acosté, dormí y desperté» (#salmos_3_6) es una declaración breve y profunda. La continuidad de la vida no se da por sentada: David atribuye el despertar a que יהוה lo sostiene. Por ello puede afirmar que no temerá a los diez millares apostados alrededor (#salmos_3_7).
 
 La clase aplica este movimiento a la ansiedad producida por amenazas y noticias constantes. La aplicación es prudente si no se convierte en una promesa de ausencia de peligro: el propio salmo reconoce el asedio, pero forma una respuesta de confianza, oración y perseverancia.
 
 ## Salvación que pertenece a יהוה
 
-El último ruego pide que יהוה se levante y salve (#tehilim_3_8). Su lenguaje de juicio es intenso; no autoriza al lector a tomar venganza privada. La resolución del salmo está precisamente en que David entrega la salvación a יהוה: «De יהוה es la salvación» (#tehilim_3_9).
+El último ruego pide que יהוה se levante y salve (#salmos_3_8). Su lenguaje de juicio es intenso; no autoriza al lector a tomar venganza privada. La resolución del salmo está precisamente en que David entrega la salvación a יהוה: «De יהוה es la salvación» (#salmos_3_9).
 
 La confesión final se amplía hacia el pueblo: «sobre tu pueblo [sea] tu bendición». La oración personal no se encierra en la autopreservación; termina pidiendo el bien del pueblo de יהוה.
 
@@ -74,10 +74,10 @@ La confesión final se amplía hacia el pueblo: «sobre tu pueblo [sea] tu bendi
 
 | Unidad         | Observación concreta de la clase                                                                                                                                 | Prueba y límite en el texto                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_3_1-3 | Eric mantiene el encabezado histórico: David huye de Abshalom, mientras la multitud convierte la crisis en un veredicto de que no hay salvación.                 | El encabezado y la voz de los adversarios lo sostienen; las identificaciones tipológicas posteriores no deben confundirse con el contexto inmediato. |
-| #tehilim_3_4-5 | La clase contrapone la palabra de la multitud con la confesión «tú, יהוה»: escudo, gloria y quien levanta la cabeza, seguido por un clamor que espera respuesta. | El paralelismo local confirma protección, honra y respuesta desde el monte santo; no presenta la oración como técnica para controlar el desenlace.   |
-| #tehilim_3_6-7 | Eric aplica el dormir y despertar al creyente que atraviesa ansiedad y noticias amenazantes sin negar que el asedio es real.                                     | El salmista atribuye su descanso al sostén de יהוה y no teme a la multitud; la aplicación pastoral no promete ausencia de peligro.                   |
-| #tehilim_3_8-9 | La exposición termina devolviendo la salvación a יהוה y ampliando la petición desde la causa de David hacia la bendición del pueblo.                             | El cierre dice explícitamente que la salvación pertenece a יהוה y que la bendición es sobre su pueblo; no autoriza venganza privada.                 |
+| #salmos_3_1-3 | Eric mantiene el encabezado histórico: David huye de Abshalom, mientras la multitud convierte la crisis en un veredicto de que no hay salvación.                 | El encabezado y la voz de los adversarios lo sostienen; las identificaciones tipológicas posteriores no deben confundirse con el contexto inmediato. |
+| #salmos_3_4-5 | La clase contrapone la palabra de la multitud con la confesión «tú, יהוה»: escudo, gloria y quien levanta la cabeza, seguido por un clamor que espera respuesta. | El paralelismo local confirma protección, honra y respuesta desde el monte santo; no presenta la oración como técnica para controlar el desenlace.   |
+| #salmos_3_6-7 | Eric aplica el dormir y despertar al creyente que atraviesa ansiedad y noticias amenazantes sin negar que el asedio es real.                                     | El salmista atribuye su descanso al sostén de יהוה y no teme a la multitud; la aplicación pastoral no promete ausencia de peligro.                   |
+| #salmos_3_8-9 | La exposición termina devolviendo la salvación a יהוה y ampliando la petición desde la causa de David hacia la bendición del pueblo.                             | El cierre dice explícitamente que la salvación pertenece a יהוה y que la bendición es sobre su pueblo; no autoriza venganza privada.                 |
 
 ## Pendiente de verificar
 
@@ -97,5 +97,5 @@ Tehilim 3 enseña a hablar con honestidad cuando se multiplican los adversarios 
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehillim/Psalms/Psalm Ch. 3» — <https://www.youtube.com/watch?v=lmFl_zxaEFw> — source_id: `youtube:lmFl_zxaEFw`.
+- Video: «Tehillim/Psalms/Psalm Ch. 3» — <https://www.youtube.com/watch?v=lmFl_zxaEFw> — `source_id`: `youtube:lmFl_zxaEFw`.
 - Esta nota organiza y contrasta una transcripción automática; no presenta la transcripción automática como cita literal.

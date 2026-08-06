@@ -9,13 +9,13 @@ tags:
   - siervo
   - justicia
 references:
-  - "#tehilim_113_1"
-  - "#tehilim_113_2"
-  - "#tehilim_113_3"
-  - "#tehilim_113_4"
-  - "#tehilim_113_5"
-  - "#tehilim_113_7"
-  - "#tehilim_113_9"
+  - "#salmos_113_1"
+  - "#salmos_113_2"
+  - "#salmos_113_3"
+  - "#salmos_113_4"
+  - "#salmos_113_5"
+  - "#salmos_113_7"
+  - "#salmos_113_9"
 sources:
   - "https://www.youtube.com/watch?v=NVUACau7VZc"
   - "docs/scriptures/oe/json/psalms/113.json"
@@ -36,11 +36,11 @@ Esta nota sigue los nueve versos en orden y distingue las observaciones gramatic
 
 | Unidad textual   | Texto hebreo local (sin segmentación morfológica)                                                       | Movimiento del salmo                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| #tehilim_113_1-3 | הללו יה הללו עבדי יהוה הללו את שם יהוה; יהי שם יהוה מברך מעתה ועד עולם; ממזרח שמש עד מבואו מהלל שם יהוה | Los siervos proclaman el nombre continuamente y en toda la extensión del día.   |
-| #tehilim_113_4-6 | רם על כל גוים יהוה על השמים כבודו; מי כיהוה אלהינו המגביהי לשבת; המשפילי לראות בשמים ובארץ              | La altura de יהוה no lo aleja: su mirada alcanza cielos y tierra.               |
-| #tehilim_113_7-9 | מקימי מעפר דל מאשפת ירים אביון; להושיבי עם נדיבים עם נדיבי עמו; מושיבי עקרת הבית אם הבנים שמחה הללו יה  | La acción divina levanta al pobre y transforma la esterilidad en gozo familiar. |
+| #salmos_113_1-3 | הללו יה הללו עבדי יהוה הללו את שם יהוה; יהי שם יהוה מברך מעתה ועד עולם; ממזרח שמש עד מבואו מהלל שם יהוה | Los siervos proclaman el nombre continuamente y en toda la extensión del día.   |
+| #salmos_113_4-6 | רם על כל גוים יהוה על השמים כבודו; מי כיהוה אלהינו המגביהי לשבת; המשפילי לראות בשמים ובארץ              | La altura de יהוה no lo aleja: su mirada alcanza cielos y tierra.               |
+| #salmos_113_7-9 | מקימי מעפר דל מאשפת ירים אביון; להושיבי עם נדיבים עם נדיבי עמו; מושיבי עקרת הבית אם הבנים שמחה הללו יה  | La acción divina levanta al pobre y transforma la esterilidad en gozo familiar. |
 
-## 113:1-3: alabar como servicio y proclamación
+## 113:1-3: alabar como servicio y proclamación #salmos_113_1-3
 
 El salmo abre con tres llamados: **הללו יה**, “alaben a Yah”; **הללו עבדי יהוה**, “alaben, siervos de יהוה”; y **הללו את שם יהוה**, “alaben el nombre de יהוה”. Eric insiste en que quienes pertenecen a יהוה son siervos, no una élite cuyo liderazgo deba presentarse como prestigio. La observación enfrenta el lenguaje religioso que eleva a ciertas personas como “ministros” y olvida que el servicio implica sujeción, obediencia y ejecución de la voluntad del Señor. El texto sí nombra a los siervos; la crítica a los títulos contemporáneos es una aplicación pastoral de Eric.
 
@@ -48,7 +48,7 @@ La forma **עבדי** (_avdei_) significa “siervos de” y funciona aquí como
 
 En los vv. 2-3 el nombre debe ser bendecido “desde ahora y hasta siempre”, desde la salida del sol hasta su puesta. Eric aclara que esta imagen no es un tratado de astronomía: describe la extensión cotidiana y universal de la proclamación. **שם** (_shem_) significa “nombre”; en la enseñanza, el nombre incluye la obra revelada y no una clave secreta escondida en las letras. Esa ampliación es teológica y atribuida a Eric; el salmo repite explícitamente el nombre y ordena su alabanza.
 
-## 113:4-6: grandeza que se inclina
+## 113:4-6: grandeza que se inclina #salmos_113_4-6
 
 El verso 4 presenta la tensión central: יהוה está elevado sobre todas las naciones y su gloria sobre los cielos. Eric conecta esta gloria con la obra del Mesías que, según su lectura, atraviesa la esfera terrenal y celestial. El texto local afirma la supremacía de יהוה, pero no nombra aquí al Mesías ni desarrolla una cronología de su servicio sacerdotal; esa conexión debe conservarse como lectura canónica de la exposición.
 
@@ -56,7 +56,7 @@ La pregunta **מי כיהוה אלהינו** (_mi khYHWH Eloheinu_) significa �
 
 Eric usa esta inversión para explicar que la autoridad verdadera no consiste en exigir que otros se sometan a un título. El siervo ejecuta la voluntad de quien manda; por eso la exaltación de יהוה y el servicio de sus siervos no son opuestos. La aplicación es coherente con el contraste del salmo: el Alto mira hacia abajo para levantar, no para consolidar el prestigio de los poderosos.
 
-## 113:7-9: levantar al pobre y dar gozo a la casa
+## 113:7-9: levantar al pobre y dar gozo a la casa #salmos_113_7-9
 
 Los vv. 7-8 son la respuesta concreta a la pregunta de v. 5. יהוה levanta al pobre del polvo y alza al necesitado de la basura para sentarlo con príncipes, con los príncipes de su pueblo. **מקימי** (_meqimi_) significa “el que levanta” y **אביון** (_evyon_) “pobre, necesitado”; el sentido contextual es una acción restauradora, no una alabanza abstracta de la compasión. Eric relaciona esta elevación con la adopción: el mayor recibe al menor, y cada generación debe experimentar personalmente que pertenece a Elohim. La adopción como categoría teológica es una aplicación de Eric; el movimiento de ser levantado y sentado sí está en los verbos del salmo.
 
@@ -101,5 +101,5 @@ Tehilim 113 no separa alabanza de servicio ni grandeza de misericordia. Los sier
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Tehillim/Psalms/Psalm Ch. 113» — <https://www.youtube.com/watch?v=NVUACau7VZc> — source_id: `youtube:NVUACau7VZc`.
+- Video: «Tehillim/Psalms/Psalm Ch. 113» — <https://www.youtube.com/watch?v=NVUACau7VZc> — `source_id`: `youtube:NVUACau7VZc`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

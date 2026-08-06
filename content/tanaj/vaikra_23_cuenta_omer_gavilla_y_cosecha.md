@@ -8,13 +8,13 @@ tags:
   - shavuot
   - omer
 references:
-  - "#vaikra_23_9"
-  - "#vaikra_23_10"
-  - "#vaikra_23_11"
-  - "#vaikra_23_15"
-  - "#vaikra_23_16"
-  - "#devarim_16_9"
-  - "#devarim_16_10"
+  - "#levitico_23_9"
+  - "#levitico_23_10"
+  - "#levitico_23_11"
+  - "#levitico_23_15"
+  - "#levitico_23_16"
+  - "#deuteronomio_16_9"
+  - "#deuteronomio_16_10"
 sources:
   - "https://www.youtube.com/watch?v=L7zgSLK3Ci4"
   - "docs/scriptures/tth/json/vaikra.json"
@@ -36,9 +36,9 @@ Esta nota organiza la clase **About the Counting of the Omer 5781-2021** del her
 
 | Referencia | Texto local TTH | Función en la enseñanza |
 | --- | --- | --- |
-| #vaikra_23_9-11 | **Y habló יהוה a Moshéh, diciendo:** “Habla a los hijos de Israel... traerán una gavilla de las primicias de su cosecha al sacerdote. Y mecerá la gavilla delante de יהוה... desde el día siguiente al Shabat...” | El inicio se vincula con la gavilla y el día siguiente al Shabat. |
-| #vaikra_23_14-16 | **Y pan, grano tostado y grano húmedo no comerán... Y contarán para ustedes desde el día siguiente al Shabat... siete Shabatot completos serán. Hasta el día siguiente del Shabat séptimo contarán cincuenta días** | La comida, la ofrenda y la cuenta forman una misma secuencia. |
-| #devarim_16_9-10 | **Siete semanas contarás para ti; desde el comienzo de poner la hoz en la mies, comenzarás a contar siete semanas. Y harás la fiesta de las semanas para יהוה tu Elohim con la abundancia de voluntariedad de tu mano** | La segunda fuente inicia la cuenta con el comienzo de la siega y conecta Shavuot con la ofrenda voluntaria. |
+| #levitico_23_9-11 | **Y habló יהוה a Moshéh, diciendo:** “Habla a los hijos de Israel... traerán una gavilla de las primicias de su cosecha al sacerdote. Y mecerá la gavilla delante de יהוה... desde el día siguiente al Shabat...” | El inicio se vincula con la gavilla y el día siguiente al Shabat. |
+| #levitico_23_14-16 | **Y pan, grano tostado y grano húmedo no comerán... Y contarán para ustedes desde el día siguiente al Shabat... siete Shabatot completos serán. Hasta el día siguiente del Shabat séptimo contarán cincuenta días** | La comida, la ofrenda y la cuenta forman una misma secuencia. |
+| #deuteronomio_16_9-10 | **Siete semanas contarás para ti; desde el comienzo de poner la hoz en la mies, comenzarás a contar siete semanas. Y harás la fiesta de las semanas para יהוה tu Elohim con la abundancia de voluntariedad de tu mano** | La segunda fuente inicia la cuenta con el comienzo de la siega y conecta Shavuot con la ofrenda voluntaria. |
 
 ## Levítico: la gavilla y el día siguiente al Shabat
 

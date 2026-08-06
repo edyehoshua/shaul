@@ -6,8 +6,8 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#ecclesiastes_2_1"
-  - "#ecclesiastes_2_26"
+  - "#eclesiastes_2_1"
+  - "#eclesiastes_2_26"
 sources:
   - "https://www.youtube.com/watch?v=hKMgzow5Ys4"
   - "https://www.youtube.com/watch?v=ERVili8fCSM"
@@ -32,8 +32,8 @@ Qohélet 2 considera la prueba del placer, las obras y la posesión, y el recono
 
 | Referencia         | Texto local (OE, sin nikud)                                                                                                      | Observación                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #ecclesiastes_2_1  | **אמרתי אני בלבי לכה נא אנסכה בשמחה וראה בטוב והנה גם הוא הבל**                                                          | Texto local OE; ancla la lectura de la sesión. |
-| #ecclesiastes_2_26 | **כי לאדם שטוב לפניו נתן חכמה ודעת ושמחה ולחוטא נתן ענין לאסוף ולכנוס לתת לטוב לפני האלהים גם זה הבל ורעות רוח** | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_2_1  | **אמרתי אני בלבי לכה נא אנסכה בשמחה וראה בטוב והנה גם הוא הבל**                                                          | Texto local OE; ancla la lectura de la sesión. |
+| #eclesiastes_2_26 | **כי לאדם שטוב לפניו נתן חכמה ודעת ושמחה ולחוטא נתן ענין לאסוף ולכנוס לתת לטוב לפני האלהים גם זה הבל ורעות רוח** | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 
@@ -59,7 +59,7 @@ Qohélet 2 no ofrece control sobre el mundo, sino sabiduría para habitar sus l�
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (Parte 5) Cap 2» — https://www.youtube.com/watch?v=hKMgzow5Ys4 (`source_id: youtube:hKMgzow5Ys4`).
-- «Qohélet-Eclesiastés (parte 6) Cap 2» — https://www.youtube.com/watch?v=ERVili8fCSM (`source_id: youtube:ERVili8fCSM`).
+- «Qohélet-Eclesiastés (Parte 5) Cap 2» — https://www.youtube.com/watch?v=hKMgzow5Ys4 (`source_id`: youtube:hKMgzow5Ys4`).
+- «Qohélet-Eclesiastés (parte 6) Cap 2» — https://www.youtube.com/watch?v=ERVili8fCSM (`source_id`: youtube:ERVili8fCSM`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

@@ -4,13 +4,13 @@ description: "Mishlei 10:13-19 sobre sabiduría recibida, tesoro de conocimiento
 date: 2026-08-06
 tags: [mishlei, mishlei_10, disciplina, sabiduria, tesoro, palabras]
 references:
-  - "#mishlei_10_13"
-  - "#mishlei_10_14"
-  - "#mishlei_10_15"
-  - "#mishlei_10_16"
-  - "#mishlei_10_17"
-  - "#mishlei_10_18"
-  - "#mishlei_10_19"
+  - "#proverbios_10_13"
+  - "#proverbios_10_14"
+  - "#proverbios_10_15"
+  - "#proverbios_10_16"
+  - "#proverbios_10_17"
+  - "#proverbios_10_18"
+  - "#proverbios_10_19"
   - "#hebreos_12_11"
   - "#santiago_3_18"
 sources:
@@ -34,13 +34,13 @@ Esta nota organiza la clase pública sobre Mishlei 10:13-19. Sigue el orden de l
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_10_13 | בשפתי נבון תמצא חכמה ושבט לגו חסר לב | En los labios del entendido se hallará sabiduría, pero la vara es para la espalda del falto de corazón. |
-| #mishlei_10_14 | חכמים יצפנו דעת ופי אויל מחתה קרבה | Los sabios atesorarán conocimiento, pero la boca del torpe es ruina cercana. |
-| #mishlei_10_15 | הון עשיר קרית עזו מחתת דלים רישם | La riqueza del rico es la ciudad de su fuerza, la ruina de los débiles es su pobreza. |
-| #mishlei_10_16 | פעלת צדיק לחיים תבואת רשע לחטאת | La acción del justo es para vida, el producto del condenado es para pecado. |
-| #mishlei_10_17 | ארח לחיים שומר מוסר ועוזב תוכחת מתעה | La senda de la vida es: guarda disciplina. Pero el que abandona la reprensión se extravía. |
-| #mishlei_10_18 | מכסה שנאה שפתי שקר ומוצא דבה הוא כסיל | El que encubre el odio tiene labios de mentira, y el que saca calumnia es tonto. |
-| #mishlei_10_19 | ברב דברים לא יחדל פשע וחושך שפתיו משכיל | En la abundancia de palabras no cesará la transgresión, pero el que retiene sus labios es prudente. |
+| #proverbios_10_13 | בשפתי נבון תמצא חכמה ושבט לגו חסר לב | En los labios del entendido se hallará sabiduría, pero la vara es para la espalda del falto de corazón. |
+| #proverbios_10_14 | חכמים יצפנו דעת ופי אויל מחתה קרבה | Los sabios atesorarán conocimiento, pero la boca del torpe es ruina cercana. |
+| #proverbios_10_15 | הון עשיר קרית עזו מחתת דלים רישם | La riqueza del rico es la ciudad de su fuerza, la ruina de los débiles es su pobreza. |
+| #proverbios_10_16 | פעלת צדיק לחיים תבואת רשע לחטאת | La acción del justo es para vida, el producto del condenado es para pecado. |
+| #proverbios_10_17 | ארח לחיים שומר מוסר ועוזב תוכחת מתעה | La senda de la vida es: guarda disciplina. Pero el que abandona la reprensión se extravía. |
+| #proverbios_10_18 | מכסה שנאה שפתי שקר ומוצא דבה הוא כסיל | El que encubre el odio tiene labios de mentira, y el que saca calumnia es tonto. |
+| #proverbios_10_19 | ברב דברים לא יחדל פשע וחושך שפתיו משכיל | En la abundancia de palabras no cesará la transgresión, pero el que retiene sus labios es prudente. |
 
 ## De escuchar disciplina a hablar sabiduría
 
@@ -77,10 +77,10 @@ Los versículos 18-19 llevan la disciplina al habla. Encubrir odio mientras se h
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_10_13-14 | El entendido desarrolla discernimiento al escuchar disciplina y transmite sabiduría; el sabio atesora conocimiento. | Apoyo textual; desarrollo generacional atribuido a la clase. |
-| #mishlei_10_15-16 | La riqueza verdadera se lee como tesoro de palabra y justicia; la obra del justo conduce a vida y la cosecha del condenado produce pecado. | Contraste textual; aplicación celestial y doctrinal calificada. |
-| #mishlei_10_17 | La disciplina de יהוה endereza al que se desvía y guardar la reprensión es la senda de vida. | Apoyo textual; conexión con Hebreos 12:11. |
-| #mishlei_10_18-19 | El odio encubierto, la calumnia y el exceso de palabras revelan necedad; retener los labios es prudencia. | Apoyo textual y exhortación práctica. |
+| #proverbios_10_13-14 | El entendido desarrolla discernimiento al escuchar disciplina y transmite sabiduría; el sabio atesora conocimiento. | Apoyo textual; desarrollo generacional atribuido a la clase. |
+| #proverbios_10_15-16 | La riqueza verdadera se lee como tesoro de palabra y justicia; la obra del justo conduce a vida y la cosecha del condenado produce pecado. | Contraste textual; aplicación celestial y doctrinal calificada. |
+| #proverbios_10_17 | La disciplina de יהוה endereza al que se desvía y guardar la reprensión es la senda de vida. | Apoyo textual; conexión con Hebreos 12:11. |
+| #proverbios_10_18-19 | El odio encubierto, la calumnia y el exceso de palabras revelan necedad; retener los labios es prudencia. | Apoyo textual y exhortación práctica. |
 
 ## Conexiones principales
 

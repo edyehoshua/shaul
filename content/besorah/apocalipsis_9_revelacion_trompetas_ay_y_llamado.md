@@ -7,15 +7,15 @@ tags:
   - revelacion
   - yehoshua
 references:
-  - "#revelation_9_1"
-  - "#revelation_9_3"
-  - "#revelation_9_11"
-  - "#revelation_9_12"
-  - "#revelation_9_13"
-  - "#revelation_9_15"
-  - "#revelation_9_18"
-  - "#revelation_9_20"
-  - "#revelation_9_21"
+  - "#apocalipsis_9_1"
+  - "#apocalipsis_9_3"
+  - "#apocalipsis_9_11"
+  - "#apocalipsis_9_12"
+  - "#apocalipsis_9_13"
+  - "#apocalipsis_9_15"
+  - "#apocalipsis_9_18"
+  - "#apocalipsis_9_20"
+  - "#apocalipsis_9_21"
 sources:
   - "https://www.youtube.com/watch?v=u7-1n3mFap4"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -36,26 +36,26 @@ Esta nota canónica organiza la enseñanza del **hermano Eric de Jesús Rodrígu
 
 | Referencia | Texto local (Delitzsch, hebreo normalizado sin nikud) | Función en la secuencia |
 | --- | --- | --- |
-| #revelation_9_1-6 | **והמלאך החמישי תקע בשופר וארא כוכב נפל מןהשמים לארץ ולו נתן מפתח באר התהום**; **ומןהקיטר יצא ארבה עלהארץ ושלטן נתן להם כשלטן עקרבי הארץ**; **ולא נתן להם להמיתם רק להכאיבם חמשה חדשים** | Quinto toque: apertura del abismo, langostas y tormento limitado. |
-| #revelation_9_7-12 | **ומלאך התהום הוא מלך עליהם ושמו אבדון בעברית ואפוליון ביונית**; **אוי אחד חלף הלך לו ואוי שני ושלישי באים אחריו** | Descripción de las langostas, su rey y el primer ay concluido. |
-| #revelation_9_13-19 | **והמלאך הששי תקע בשופר**; **והמתה שלישית בני אדם בשלש מגפות האלה באש ובקיטור ובגפרית** | Sexto toque: cuatro mensajeros soltados y muerte de un tercio. |
-| #revelation_9_20-21 | **ושאר בני אדם אשר לא מתו במגפות האלה בכל זאת לא שבו ממעשי ידיהם**; **ולא שבו מדרכם ויוסיפו לרצח ולכשף ולזנות ולגנב** | Resultado moral: no arrepentimiento pese al juicio. |
+| #apocalipsis_9_1-6 | **והמלאך החמישי תקע בשופר וארא כוכב נפל מןהשמים לארץ ולו נתן מפתח באר התהום**; **ומןהקיטר יצא ארבה עלהארץ ושלטן נתן להם כשלטן עקרבי הארץ**; **ולא נתן להם להמיתם רק להכאיבם חמשה חדשים** | Quinto toque: apertura del abismo, langostas y tormento limitado. |
+| #apocalipsis_9_7-12 | **ומלאך התהום הוא מלך עליהם ושמו אבדון בעברית ואפוליון ביונית**; **אוי אחד חלף הלך לו ואוי שני ושלישי באים אחריו** | Descripción de las langostas, su rey y el primer ay concluido. |
+| #apocalipsis_9_13-19 | **והמלאך הששי תקע בשופר**; **והמתה שלישית בני אדם בשלש מגפות האלה באש ובקיטור ובגפרית** | Sexto toque: cuatro mensajeros soltados y muerte de un tercio. |
+| #apocalipsis_9_20-21 | **ושאר בני אדם אשר לא מתו במגפות האלה בכל זאת לא שבו ממעשי ידיהם**; **ולא שבו מדרכם ויוסיפו לרצח ולכשף ולזנות ולגנב** | Resultado moral: no arrepentimiento pese al juicio. |
 
 ## El quinto toque: tormento limitado, no destrucción indiscriminada
 
-La clase presenta el toque de la quinta trompeta como el comienzo del ay y llama a observar que la visión no entrega a las langostas autoridad ilimitada. El texto les prohíbe dañar la vegetación y restringe su acción a los seres humanos que no tienen el sello de Elohim en la frente (#revelation_9_1-4). También fija cinco meses y distingue entre atormentar y matar (#revelation_9_5-6). Por tanto, la observación concreta de la enseñanza —el ay tiene límites y no debe convertirse sin más en una descripción de guerra humana— recibe apoyo textual; la identificación de las langostas con un evento histórico específico no queda demostrada.
+La clase presenta el toque de la quinta trompeta como el comienzo del ay y llama a observar que la visión no entrega a las langostas autoridad ilimitada. El texto les prohíbe dañar la vegetación y restringe su acción a los seres humanos que no tienen el sello de Elohim en la frente (#apocalipsis_9_1-4). También fija cinco meses y distingue entre atormentar y matar (#apocalipsis_9_5-6). Por tanto, la observación concreta de la enseñanza —el ay tiene límites y no debe convertirse sin más en una descripción de guerra humana— recibe apoyo textual; la identificación de las langostas con un evento histórico específico no queda demostrada.
 
-La imagen se intensifica mediante caballos preparados para la guerra, coronas semejantes al oro, rostros humanos, cabello de mujer, dientes de león, corazas y colas de escorpión (#revelation_9_7-10). No se debe borrar la mezcla de imágenes: el pasaje mismo comunica amenaza mediante comparaciones sucesivas. La clase vincula el nombre del rey del abismo con el sentido destructivo de la visión. **(אבדון)** _Abaddon_ se relaciona aproximadamente con destrucción; **(אפוליון)** _Apollion_ es la forma griega transliterada en el Delitzsch y se asocia con «destructor». La relación semántica es orientadora, no licencia para construir una demonología completa a partir de una sola línea.
+La imagen se intensifica mediante caballos preparados para la guerra, coronas semejantes al oro, rostros humanos, cabello de mujer, dientes de león, corazas y colas de escorpión (#apocalipsis_9_7-10). No se debe borrar la mezcla de imágenes: el pasaje mismo comunica amenaza mediante comparaciones sucesivas. La clase vincula el nombre del rey del abismo con el sentido destructivo de la visión. **(אבדון)** _Abaddon_ se relaciona aproximadamente con destrucción; **(אפוליון)** _Apollion_ es la forma griega transliterada en el Delitzsch y se asocia con «destructor». La relación semántica es orientadora, no licencia para construir una demonología completa a partir de una sola línea.
 
 ## El sexto toque: juicio descrito como liberación de una fuerza mortal
 
-Después de la fórmula «el primer ay pasó», la clase conserva la transición al segundo ay (#revelation_9_12). El sexto ángel oye la orden de soltar a los cuatro mensajeros atados junto al gran río Éufrates (#revelation_9_13-15). El texto subraya que estaban preparados para la hora, el día, el mes y el año, y les asigna matar a un tercio de los seres humanos. La cifra de doscientos millones y las corazas de fuego, jacinto y azufre pertenecen a la imaginería visionaria (#revelation_9_16-19); no autorizan por sí solas una identificación militar contemporánea.
+Después de la fórmula «el primer ay pasó», la clase conserva la transición al segundo ay (#apocalipsis_9_12). El sexto ángel oye la orden de soltar a los cuatro mensajeros atados junto al gran río Éufrates (#apocalipsis_9_13-15). El texto subraya que estaban preparados para la hora, el día, el mes y el año, y les asigna matar a un tercio de los seres humanos. La cifra de doscientos millones y las corazas de fuego, jacinto y azufre pertenecen a la imaginería visionaria (#apocalipsis_9_16-19); no autorizan por sí solas una identificación militar contemporánea.
 
 El punto observado en la enseñanza —el juicio escala del tormento a la muerte y prepara el ay siguiente— sigue la secuencia literaria. La explicación histórica del Éufrates, de los jinetes o de las cifras queda como inferencia cualificada hasta cotejarla con las alusiones escriturales y la historia de interpretación.
 
 ## El llamado que el juicio no produce automáticamente
 
-El cierre es decisivo: los sobrevivientes no se vuelven de las obras de sus manos ni abandonan a los demonios y a los ídolos de oro, plata, bronce, piedra y madera (#revelation_9_20). Tampoco cesan el homicidio, la hechicería, la inmoralidad ni el robo (#revelation_9_21). La clase llama la atención sobre esta falta de arrepentimiento como el diagnóstico del capítulo: ver señales de juicio no equivale a cambiar de camino. Esa aplicación pastoral conserva el argumento explícito del texto, sin afirmar que cada catástrofe actual sea uno de estos ayes.
+El cierre es decisivo: los sobrevivientes no se vuelven de las obras de sus manos ni abandonan a los demonios y a los ídolos de oro, plata, bronce, piedra y madera (#apocalipsis_9_20). Tampoco cesan el homicidio, la hechicería, la inmoralidad ni el robo (#apocalipsis_9_21). La clase llama la atención sobre esta falta de arrepentimiento como el diagnóstico del capítulo: ver señales de juicio no equivale a cambiar de camino. Esa aplicación pastoral conserva el argumento explícito del texto, sin afirmar que cada catástrofe actual sea uno de estos ayes.
 
 ## Hoja léxica
 
@@ -65,16 +65,16 @@ El cierre es decisivo: los sobrevivientes no se vuelven de las obras de sus mano
 | **(σφραγίς)** | _sphragis_ | sello, marca de pertenencia o protección en el contexto | Aproximación contextual; no se equipara automáticamente con una práctica moderna. |
 | **(Ἄββαδών)** | _Abaddōn_ | Abadón, nombre hebreo asociado con destrucción | Equivalencia de nombre; su identificación doctrinal queda pendiente. |
 | **(Ἀπολλύων)** | _Apolluōn_ | Apolión, nombre griego asociado con destruir | Aproximación semántica; no prueba una ecuación histórica total. |
-| **(μετανοέω)** | _metanoeō_ | arrepentirse, volverse; aquí aparece negado en #revelation_9_20-21 | Sentido contextual; no reducirlo a remordimiento privado. |
+| **(μετανοέω)** | _metanoeō_ | arrepentirse, volverse; aquí aparece negado en #apocalipsis_9_20-21 | Sentido contextual; no reducirlo a remordimiento privado. |
 
 ## Mapa de la enseñanza de Eric
 
 | Punto de enseñanza tomado de Eric | Versos seguidos | Evaluación en esta nota |
 | --- | --- | --- |
-| Las trompetas 5, 6 y 7 forman una unidad de ayes que debe leerse en secuencia. | #revelation_9_1-12 y #revelation_9_13-21 | Se conserva como marco de la clase y se comprueba el paso del primer al segundo ay; la séptima trompeta se deja para el capítulo siguiente. |
-| El quinto toque describe aflicción real pero limitada, no una autorización para destruirlo todo. | #revelation_9_3-6 | Textualmente apoyado por las prohibiciones, los cinco meses y la distinción entre atormentar y matar. |
-| Las figuras del sexto toque anuncian una intensificación del juicio. | #revelation_9_13-19 | Inferencia cualificada: la muerte de un tercio está explícita; la identificación histórica de los jinetes queda pendiente. |
-| El resultado que debe denunciarse es la falta de arrepentimiento de los sobrevivientes. | #revelation_9_20-21 | Textualmente apoyado y desarrollado como llamado pastoral, sin trasladar el ay a noticias actuales. |
+| Las trompetas 5, 6 y 7 forman una unidad de ayes que debe leerse en secuencia. | #apocalipsis_9_1-12 y #apocalipsis_9_13-21 | Se conserva como marco de la clase y se comprueba el paso del primer al segundo ay; la séptima trompeta se deja para el capítulo siguiente. |
+| El quinto toque describe aflicción real pero limitada, no una autorización para destruirlo todo. | #apocalipsis_9_3-6 | Textualmente apoyado por las prohibiciones, los cinco meses y la distinción entre atormentar y matar. |
+| Las figuras del sexto toque anuncian una intensificación del juicio. | #apocalipsis_9_13-19 | Inferencia cualificada: la muerte de un tercio está explícita; la identificación histórica de los jinetes queda pendiente. |
+| El resultado que debe denunciarse es la falta de arrepentimiento de los sobrevivientes. | #apocalipsis_9_20-21 | Textualmente apoyado y desarrollado como llamado pastoral, sin trasladar el ay a noticias actuales. |
 
 ## Pendiente de verificar
 

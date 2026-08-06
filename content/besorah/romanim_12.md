@@ -7,7 +7,7 @@ tags:
   - romanim_12
   - profecia
 references:
-  - "#romanim_12_6"
+  - "#romanos_12_6"
 sources: []
 ---
 
@@ -17,13 +17,13 @@ Romanim 12 se resume aquí en la idea de que la profecía no es espectáculo, si
 
 ## Texto base
 
-- #romanim_12_6
+- #romanos_12_6
 
 ## Texto TTH disponible
 
 | Referencia    | Texto                                                                                                                        |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| #romanim_12_6 | "Habiendo para ustedes diversos dones, según el favor que nos fue dado, si profecía, sea conforme a la medida de la emunah;" |
+| #romanos_12_6 | "Habiendo para ustedes diversos dones, según el favor que nos fue dado, si profecía, sea conforme a la medida de la emunah;" |
 
 ## Observaciones
 

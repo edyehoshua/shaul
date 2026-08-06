@@ -12,21 +12,21 @@ tags:
   - ruaj
   - mesias
 references:
-  - "#galatians_4_1"
-  - "#galatians_4_2"
-  - "#galatians_4_3"
-  - "#galatians_4_4"
-  - "#galatians_4_5"
-  - "#galatians_4_6"
-  - "#galatians_4_7"
-  - "#galatians_4_8"
-  - "#galatians_4_9"
-  - "#galatians_4_10"
-  - "#galatians_4_11"
-  - "#galatians_4_16"
-  - "#galatians_4_17"
-  - "#galatians_4_19"
-  - "#jeremiah_31_33"
+  - "#galatas_4_1"
+  - "#galatas_4_2"
+  - "#galatas_4_3"
+  - "#galatas_4_4"
+  - "#galatas_4_5"
+  - "#galatas_4_6"
+  - "#galatas_4_7"
+  - "#galatas_4_8"
+  - "#galatas_4_9"
+  - "#galatas_4_10"
+  - "#galatas_4_11"
+  - "#galatas_4_16"
+  - "#galatas_4_17"
+  - "#galatas_4_19"
+  - "#jeremias_31_33"
 sources:
   - "https://www.youtube.com/watch?v=mgFEQpvBHvg"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -47,11 +47,11 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | HIJOS y HEREDEROS 
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatians_4_1-2 | **ואני אמר היורש כל־זמן שהוא קטן אף על־פי שהוא אדון הכל אין בינו לעבד דבר׃ כי אם תחת יד אמנים ותחת פקידי הבית עד למועד המיועד לו מאת אביו׃** | El heredero menor posee una promesa real, pero vive bajo tutores hasta el tiempo fijado por el padre. |
-| #galatians_4_3-5 | **וכן־אנחנו בעודנו קטנים היינו משועבדים לתיקוני העולם׃ ובמלאת הימים שלח האלהים את־בנו ילוד אשה ונתון תחת יד־התורה׃ לפדות את אשר היו תחת יד־התורה למען נקבל משפט הבנים׃** | La redención del Mesías conduce a recibir la condición legal de hijos. |
-| #galatians_4_6-7 | **ויען כי־בנים אתם שלח האלהים בלבבכם את־רוח בנו הקורא אבא אבינו׃ לכן אינך עוד עבד כי אם־בן ואם־בן אתה הנך גם־יורש נחלת האלהים על־ידי המשיח׃** | El Ruaj del Hijo confirma la filiación y el paso de esclavo a heredero. |
-| #galatians_4_8-11 | **הן לפנים באין־דעת אלהים עבדתם את אשר בעצמותם אינם אלהים׃ ועתה אחרי אשר־ידעתם את־האלהים ויותר שנודעתם לאלהים איך תשובו אל־התיקונים הרפים והדלּים ההם אשר תרצו להכנע להם כבתחלה׃ ימים אתם שמרים וחדשים ומועדים ושנים׃ מתיירא אני פן־יגעתי בכם לריק׃** | Pablo confronta el retorno a fundamentos débiles después de haber sido conocidos por Elohim. |
-| #galatians_4_16-20 | **ועתה הלאויב נהייתי לכם בדברי אליכם אמת׃ המה לא יקנאו לכם לטובה רק להפריד ביניכם ובינינו יחפצו למען תקנאו אתם להם׃ ... בני אשר־אני נתון שנית בחבלי לדה עד כי־יוצר בכם המשיח׃** | La verdad puede producir oposición, pero el objetivo pastoral es que el Mesías sea formado en la comunidad. |
+| #galatas_4_1-2 | **ואני אמר היורש כל־זמן שהוא קטן אף על־פי שהוא אדון הכל אין בינו לעבד דבר׃ כי אם תחת יד אמנים ותחת פקידי הבית עד למועד המיועד לו מאת אביו׃** | El heredero menor posee una promesa real, pero vive bajo tutores hasta el tiempo fijado por el padre. |
+| #galatas_4_3-5 | **וכן־אנחנו בעודנו קטנים היינו משועבדים לתיקוני העולם׃ ובמלאת הימים שלח האלהים את־בנו ילוד אשה ונתון תחת יד־התורה׃ לפדות את אשר היו תחת יד־התורה למען נקבל משפט הבנים׃** | La redención del Mesías conduce a recibir la condición legal de hijos. |
+| #galatas_4_6-7 | **ויען כי־בנים אתם שלח האלהים בלבבכם את־רוח בנו הקורא אבא אבינו׃ לכן אינך עוד עבד כי אם־בן ואם־בן אתה הנך גם־יורש נחלת האלהים על־ידי המשיח׃** | El Ruaj del Hijo confirma la filiación y el paso de esclavo a heredero. |
+| #galatas_4_8-11 | **הן לפנים באין־דעת אלהים עבדתם את אשר בעצמותם אינם אלהים׃ ועתה אחרי אשר־ידעתם את־האלהים ויותר שנודעתם לאלהים איך תשובו אל־התיקונים הרפים והדלּים ההם אשר תרצו להכנע להם כבתחלה׃ ימים אתם שמרים וחדשים ומועדים ושנים׃ מתיירא אני פן־יגעתי בכם לריק׃** | Pablo confronta el retorno a fundamentos débiles después de haber sido conocidos por Elohim. |
+| #galatas_4_16-20 | **ועתה הלאויב נהייתי לכם בדברי אליכם אמת׃ המה לא יקנאו לכם לטובה רק להפריד ביניכם ובינינו יחפצו למען תקנאו אתם להם׃ ... בני אשר־אני נתון שנית בחבלי לדה עד כי־יוצר בכם המשיח׃** | La verdad puede producir oposición, pero el objetivo pastoral es que el Mesías sea formado en la comunidad. |
 
 ## El heredero menor y los tutores
 
@@ -96,10 +96,10 @@ La frase «hijos míos, por quienes vuelvo a sufrir dolores de parto hasta que e
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_4_1-3 | El heredero menor no se distingue del siervo y está bajo tutores hasta el tiempo fijado por el padre. | Apoyo textual; la reconstrucción de dos clases históricas de tutores queda cualificada. |
-| #galatians_4_4-7 | El Mesías es enviado, redime y permite recibir adopción; el Ruaj del Hijo produce el clamor «Abba». | Apoyo directo, con cautela sobre afirmaciones teológicas que exceden el vocabulario del pasaje. |
-| #galatians_4_8-11 | Los gálatas vuelven a fundamentos débiles y pobres; los días, meses, tiempos y años se entienden como prácticas paganas. | El retorno y la esclavitud reciben apoyo textual; la identificación histórica de cada calendario queda pendiente. |
-| #galatians_4_16-20 | La verdad puede volver al maestro incómodo, pero Pablo sufre para que el Mesías sea formado en sus hijos. | Apoyo directo y aplicación pastoral cualificada. |
+| #galatas_4_1-3 | El heredero menor no se distingue del siervo y está bajo tutores hasta el tiempo fijado por el padre. | Apoyo textual; la reconstrucción de dos clases históricas de tutores queda cualificada. |
+| #galatas_4_4-7 | El Mesías es enviado, redime y permite recibir adopción; el Ruaj del Hijo produce el clamor «Abba». | Apoyo directo, con cautela sobre afirmaciones teológicas que exceden el vocabulario del pasaje. |
+| #galatas_4_8-11 | Los gálatas vuelven a fundamentos débiles y pobres; los días, meses, tiempos y años se entienden como prácticas paganas. | El retorno y la esclavitud reciben apoyo textual; la identificación histórica de cada calendario queda pendiente. |
+| #galatas_4_16-20 | La verdad puede volver al maestro incómodo, pero Pablo sufre para que el Mesías sea formado en sus hijos. | Apoyo directo y aplicación pastoral cualificada. |
 
 ## Pendiente de verificar
 

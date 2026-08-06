@@ -7,8 +7,8 @@ tags:
   - devarim_25
   - goel
 references:
-  - "#devarim_25_5"
-  - "#devarim_25_10"
+  - "#deuteronomio_25_5"
+  - "#deuteronomio_25_10"
 sources: []
 ---
 
@@ -18,15 +18,15 @@ Devarim 25 se toma aquí como el trasfondo de la ley del cuñado, donde el parie
 
 ## Texto base
 
-- #devarim_25_5
-- #devarim_25_10
+- #deuteronomio_25_5
+- #deuteronomio_25_10
 
 ## Texto TTH disponible
 
 | Referencia     | Texto                                                                                                                                                                                                                                   |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #devarim_25_5  | "Cuando habiten hermanos juntos y muera uno de ellos, e hijo no hay para él, no será la mujer del muerto por fuera para un hombre extraño. Su cuñado entrará a ella y la tomará para sí por mujer, y hará su deber de cuñado con ella." |
-| #devarim_25_10 | "Y se llamará su nombre en Israel: 'Casa del que se le quitó la sandalia'."                                                                                                                                                             |
+| #deuteronomio_25_5  | "Cuando habiten hermanos juntos y muera uno de ellos, e hijo no hay para él, no será la mujer del muerto por fuera para un hombre extraño. Su cuñado entrará a ella y la tomará para sí por mujer, y hará su deber de cuñado con ella." |
+| #deuteronomio_25_10 | "Y se llamará su nombre en Israel: 'Casa del que se le quitó la sandalia'."                                                                                                                                                             |
 
 ## Observaciones
 

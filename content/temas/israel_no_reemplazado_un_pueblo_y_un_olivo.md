@@ -9,19 +9,19 @@ tags:
   - olivo
   - tora
 references:
-  - "#shemot_3_10"
-  - "#devarim_7_6"
-  - "#tehilim_119_89"
-  - "#hoshea_2_23"
-  - "#efesiyim_2_12"
-  - "#efesiyim_2_14"
-  - "#galatim_6_15"
-  - "#galatim_6_16"
-  - "#romiyim_11_17"
-  - "#romiyim_11_18"
-  - "#romiyim_11_20"
-  - "#romiyim_11_23"
-  - "#romiyim_11_24"
+  - "#exodo_3_10"
+  - "#deuteronomio_7_6"
+  - "#salmos_119_89"
+  - "#oseas_2_23"
+  - "#efesios_2_12"
+  - "#efesios_2_14"
+  - "#galatas_6_15"
+  - "#galatas_6_16"
+  - "#romanos_11_17"
+  - "#romanos_11_18"
+  - "#romanos_11_20"
+  - "#romanos_11_23"
+  - "#romanos_11_24"
 sources:
   - "https://www.youtube.com/watch?v=jAmhhsLJil8"
   - "https://www.youtube.com/watch?v=iDuvm4VTAJg"
@@ -43,13 +43,13 @@ Esta nota organiza las dos partes de la clase «Teología del reemplazo». Sigue
 
 | Referencia                     | Texto local                                                                                                                                                                                                                                                                                                                      | Función en la clase                                                                                                                                                                                                                    |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #shemot_3_10                   | **OE:** ועתה לכה ואשלחך אל פרעה והוצא את עמי בני ישראל ממצרים. **TTH:** «Y ahora, ven, y te enviaré a Faraón, y sacarás a mi pueblo, los hijos de Israel, de Mitzráim».                                                                                                                                                          | יהוה llama «mi pueblo» a los hijos de Israel antes de la salida.                                                                                                                                                                       |
-| #devarim_7_6                   | **OE:** כי עם קדוש אתה ליהוה אלהיך בך בחר יהוה אלהיך להיות לו לעם סגלה מכל העמים אשר על פני האדמה. **TTH:** «Porque pueblo kadosh eres tú para יהוה tu Elohim; a ti te escogió יהוה tu Elohim para ser a Él por pueblo, una adquisición de entre todos los pueblos».                                                             | La elección distingue a Israel entre los pueblos; no afirma superioridad moral o étnica.                                                                                                                                               |
-| #tehilim_119_89                | **OE:** לעולם יהוה דברך נצב בשמים. **TTH:** «Para siempre, יהוה, tu palabra se establece en los cielos».                                                                                                                                                                                                                         | La clase apela a la firmeza de la palabra para negar que el juramento sea descartable.                                                                                                                                                 |
-| #hoshea_2_23                   | **OE 2:25:** וזרעתיה לי בארץ ורחמתי את לא רחמה ואמרתי ללא עמי עמי אתה והוא יאמר אלהי. **TTH 2:23:** «Y la sembraré para Mí en la tierra, y amaré a la no amada, y diré a lo que no era mi pueblo: “Pueblo mío eres tú”, y él dirá: “¡Elohim mío!”».                                                                              | El cambio de «no mi pueblo» a «pueblo mío» se lee como restauración, no reemplazo. La numeración difiere entre OE y TTH.                                                                                                               |
-| #efesiyim_2_12, #efesiyim_2_14 | **Delitzsch:** כי־אתם בעת ההיא הייתם בלי משיח זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם׃ כי הוא שלומנו אשר עשה השנים אחד והרס מחיצת הגדר׃                                                                                                                                                            | Los que estaban ajenos a la comunidad de Israel y a los pactos son acercados; el Mesías hace de los dos uno.                                                                                                                           |
-| #galatim_6_15-16               | **Delitzsch:** כי־במשיח ישוע לא־המילה תחשב ולא־הערלה כי אם־הבריאה החדשה׃ וכל־הנהגים כשורה הזאת שלום ורחמים עליהם ועל־ישראל אשר לאלהים׃                                                                                                                                                                                           | La nueva creación desactiva la jactancia en la circuncisión o incircuncisión. La identificación sintáctica de todos los destinatarios con «el Israel de Elohim» es la lectura propuesta por la clase, no una conclusión impuesta aquí. |
-| #romiyim_11_17-24              | **TTH:** «Y si algunas de las ramas son quebradas, y tú siendo acebuche, fuiste plantado en ellas, y has llegado a ser aliado de la raíz y el aceite del olivo, no te jactes contra las ramas…». «Y también ellos, si no permanecen en la falta de emunah, serán plantados, porque poderoso es Elohim para volverlos a plantar». | La incorporación del acebuche no autoriza desprecio. El mismo pasaje contempla que las ramas naturales vuelvan a ser plantadas.                                                                                                        |
+| #exodo_3_10                   | **OE:** ועתה לכה ואשלחך אל פרעה והוצא את עמי בני ישראל ממצרים. **TTH:** «Y ahora, ven, y te enviaré a Faraón, y sacarás a mi pueblo, los hijos de Israel, de Mitzráim».                                                                                                                                                          | יהוה llama «mi pueblo» a los hijos de Israel antes de la salida.                                                                                                                                                                       |
+| #deuteronomio_7_6                   | **OE:** כי עם קדוש אתה ליהוה אלהיך בך בחר יהוה אלהיך להיות לו לעם סגלה מכל העמים אשר על פני האדמה. **TTH:** «Porque pueblo kadosh eres tú para יהוה tu Elohim; a ti te escogió יהוה tu Elohim para ser a Él por pueblo, una adquisición de entre todos los pueblos».                                                             | La elección distingue a Israel entre los pueblos; no afirma superioridad moral o étnica.                                                                                                                                               |
+| #salmos_119_89                | **OE:** לעולם יהוה דברך נצב בשמים. **TTH:** «Para siempre, יהוה, tu palabra se establece en los cielos».                                                                                                                                                                                                                         | La clase apela a la firmeza de la palabra para negar que el juramento sea descartable.                                                                                                                                                 |
+| #oseas_2_23                   | **OE 2:25:** וזרעתיה לי בארץ ורחמתי את לא רחמה ואמרתי ללא עמי עמי אתה והוא יאמר אלהי. **TTH 2:23:** «Y la sembraré para Mí en la tierra, y amaré a la no amada, y diré a lo que no era mi pueblo: “Pueblo mío eres tú”, y él dirá: “¡Elohim mío!”».                                                                              | El cambio de «no mi pueblo» a «pueblo mío» se lee como restauración, no reemplazo. La numeración difiere entre OE y TTH.                                                                                                               |
+| #efesios_2_12, #efesios_2_14 | **Delitzsch:** כי־אתם בעת ההיא הייתם בלי משיח זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם׃ כי הוא שלומנו אשר עשה השנים אחד והרס מחיצת הגדר׃                                                                                                                                                            | Los que estaban ajenos a la comunidad de Israel y a los pactos son acercados; el Mesías hace de los dos uno.                                                                                                                           |
+| #galatas_6_15-16               | **Delitzsch:** כי־במשיח ישוע לא־המילה תחשב ולא־הערלה כי אם־הבריאה החדשה׃ וכל־הנהגים כשורה הזאת שלום ורחמים עליהם ועל־ישראל אשר לאלהים׃                                                                                                                                                                                           | La nueva creación desactiva la jactancia en la circuncisión o incircuncisión. La identificación sintáctica de todos los destinatarios con «el Israel de Elohim» es la lectura propuesta por la clase, no una conclusión impuesta aquí. |
+| #romanos_11_17-24              | **TTH:** «Y si algunas de las ramas son quebradas, y tú siendo acebuche, fuiste plantado en ellas, y has llegado a ser aliado de la raíz y el aceite del olivo, no te jactes contra las ramas…». «Y también ellos, si no permanecen en la falta de emunah, serán plantados, porque poderoso es Elohim para volverlos a plantar». | La incorporación del acebuche no autoriza desprecio. El mismo pasaje contempla que las ramas naturales vuelvan a ser plantadas.                                                                                                        |
 
 ## Léxico clave
 
@@ -63,33 +63,33 @@ Esta nota organiza las dos partes de la clase «Teología del reemplazo». Sigue
 | **(שבועה)**      | shevuah         | juramento                 | Eric agrupa promesa y juramento para enfatizar la fidelidad de יהוה a su palabra                         | Pedagógica; no toda «promesa» equivale léxicamente a «juramento»                                             |
 | **(ἐγκεντρίζω)** | enkentrizo      | injertar                  | Verbo griego de Romanos 11:17-24 detrás de la imagen hortícola                                           | Exacta como lema; la preferencia de la clase por «plantar» sigue la traducción TTH y necesita cotejo crítico |
 
-## Israel llamado y adquirido — Shemot 3:10; Devarim 7:6
+## Israel llamado y adquirido — Shemot 3:10; Devarim 7:6 #exodo_3_10 #deuteronomio_7_6
 
-La primera parte comienza preguntando quién es el pueblo de Elohim. Eric observa en #shemot_3_10 que יהוה ya llama «mi pueblo» a los hijos de Israel cuando Moshe apenas está siendo enviado a Faraón. La clase desarrolla la salida de Mitzráim como un proceso de redención y nacimiento nacional: Pésaj abre la liberación y el paso por las aguas marca la salida del dominio egipcio. La comparación local confirma la designación «mi pueblo»; la imagen del nacimiento por las aguas debe conservarse como explicación pedagógica de la clase, no como definición léxica de Shemot.
+La primera parte comienza preguntando quién es el pueblo de Elohim. Eric observa en #exodo_3_10 que יהוה ya llama «mi pueblo» a los hijos de Israel cuando Moshe apenas está siendo enviado a Faraón. La clase desarrolla la salida de Mitzráim como un proceso de redención y nacimiento nacional: Pésaj abre la liberación y el paso por las aguas marca la salida del dominio egipcio. La comparación local confirma la designación «mi pueblo»; la imagen del nacimiento por las aguas debe conservarse como explicación pedagógica de la clase, no como definición léxica de Shemot.
 
-#devarim_7_6 añade que Israel es un pueblo apartado y una adquisición entre los pueblos. Eric aclara que esta elección no significa «pureza de sangre» ni superioridad humana. En su exposición, las naciones pueden servir al Elohim de Israel e incorporarse a su pueblo; por eso el contraste no debe convertirse ni en nacionalismo étnico ni en la desaparición de Israel. El texto local sostiene la elección explícita, mientras que los ejemplos históricos de incorporación mencionados en la clase —la viuda de Tsarfat, Naamán y otros— merecen desarrollo separado antes de usarlos como una demostración exhaustiva.
+#deuteronomio_7_6 añade que Israel es un pueblo apartado y una adquisición entre los pueblos. Eric aclara que esta elección no significa «pureza de sangre» ni superioridad humana. En su exposición, las naciones pueden servir al Elohim de Israel e incorporarse a su pueblo; por eso el contraste no debe convertirse ni en nacionalismo étnico ni en la desaparición de Israel. El texto local sostiene la elección explícita, mientras que los ejemplos históricos de incorporación mencionados en la clase —la viuda de Tsarfat, Naamán y otros— merecen desarrollo separado antes de usarlos como una demostración exhaustiva.
 
-## Los que estaban lejos son hechos uno — Efesios 2:12-14
+## Los que estaban lejos son hechos uno — Efesios 2:12-14 #efesios_2_12-14
 
-La clase lee #efesiyim_2_12 en dirección inversa a la exclusión anterior: si los destinatarios estaban sin Mesías, ajenos a la comunidad de Israel y extraños a los pactos, su acercamiento no puede significar que Israel haya sido eliminado. #efesiyim_2_14 afirma que el Mesías hizo de «los dos» uno. Eric identifica esos dos grupos como judío y gentil y llama al resultado un solo pueblo bíblico orientado al Mesías.
+La clase lee #efesios_2_12 en dirección inversa a la exclusión anterior: si los destinatarios estaban sin Mesías, ajenos a la comunidad de Israel y extraños a los pactos, su acercamiento no puede significar que Israel haya sido eliminado. #efesios_2_14 afirma que el Mesías hizo de «los dos» uno. Eric identifica esos dos grupos como judío y gentil y llama al resultado un solo pueblo bíblico orientado al Mesías.
 
 Esta unidad tampoco exige que el gentil adopte una identidad étnica judía ni que el judío se haga griego. La segunda parte recalca que ambos son llevados al Mesías y a la Escritura, no a una competencia de costumbres humanas. La inferencia central es sólida dentro de la secuencia citada: el lenguaje de acercamiento, ciudadanía y pactos contradice la imagen de una comunidad gentil autónoma que desplaza a Israel. Sin embargo, la nota no convierte cada detalle de esa incorporación en una fórmula genealógica; la transcripción también relaciona a las naciones con las tribus dispersas, pero esa identificación amplia requiere una demostración propia.
 
-## «Pueblo mío» después de «no mi pueblo» — Hoshea 2:23
+## «Pueblo mío» después de «no mi pueblo» — Hoshea 2:23 #oseas_2_23
 
-Eric usa #hoshea_2_23 para describir dispersión y restauración. La persona llamada Lo-Rujamá recibe compasión y quien era Lo-Amí vuelve a escuchar «pueblo mío». Según la clase, esto no retrata a יהוה cansándose de un pueblo y escogiendo otro, sino al mismo Elohim cumpliendo su palabra y produciendo el cambio que permite el retorno.
+Eric usa #oseas_2_23 para describir dispersión y restauración. La persona llamada Lo-Rujamá recibe compasión y quien era Lo-Amí vuelve a escuchar «pueblo mío». Según la clase, esto no retrata a יהוה cansándose de un pueblo y escogiendo otro, sino al mismo Elohim cumpliendo su palabra y produciendo el cambio que permite el retorno.
 
 El verso local sí contiene el movimiento de no amado/no pueblo a amado/pueblo. La enseñanza añade que la desobediencia a la Torá explica el juicio y que la renovación de la obediencia acompaña la restauración. Esa conexión concuerda con el marco profético general, pero debe distinguirse de la frase exacta del verso: Hoshea 2:23 no enumera allí todas las condiciones de la restauración. La diferente numeración del pasaje —2:23 en TTH y 2:25 en OE— también queda registrada para que la referencia sea localizable.
 
-## El olivo excluye la jactancia — Romanos 11:17-24
+## El olivo excluye la jactancia — Romanos 11:17-24 #romanos_11_17-24
 
-La segunda parte concluye con el olivo. Algunas ramas fueron quebradas y el acebuche fue colocado entre ellas, pero #romiyim_11_18 ordena no jactarse: la rama incorporada no sostiene a la raíz. #romiyim_11_20-22 reemplaza la arrogancia por temor y perseverancia en la bondad. Finalmente, #romiyim_11_23-24 declara que Elohim puede volver a colocar las ramas naturales. El movimiento completo del pasaje impide tratar el lugar recibido como certificado de superioridad contra el judío.
+La segunda parte concluye con el olivo. Algunas ramas fueron quebradas y el acebuche fue colocado entre ellas, pero #romanos_11_18 ordena no jactarse: la rama incorporada no sostiene a la raíz. #romanos_11_20-22 reemplaza la arrogancia por temor y perseverancia en la bondad. Finalmente, #romanos_11_23-24 declara que Elohim puede volver a colocar las ramas naturales. El movimiento completo del pasaje impide tratar el lugar recibido como certificado de superioridad contra el judío.
 
 Eric sigue la terminología TTH «plantado» y representa varias ramas compartiendo un mismo suelo. El griego **(ἐγκεντρίζω)** normalmente se traduce «injertar», de modo que la corrección tajante «no injertado, plantado» no queda establecida solo por la transcripción. Lo que sí permanece intacto en cualquiera de las dos formulaciones es el argumento apostólico: la rama silvestre participa de una riqueza que no originó, puede ser cortada si se ensoberbece y no puede negar la posibilidad de restauración de las ramas naturales.
 
 ## La continuidad de יהוה frente a una ruptura entre «dos dioses»
 
-La segunda clase conecta la teología del reemplazo con una ruptura más amplia entre el llamado «Antiguo Testamento» y los escritos apostólicos. Eric atribuye a Marción la contraposición entre un dios severo anterior y otro bondadoso posterior, y responde que bondad y juicio aparecen en ambos cuerpos textuales. En la línea de #tehilim_119_89, la tesis teológica es que יהוה no muda su identidad ni revoca caprichosamente su palabra.
+La segunda clase conecta la teología del reemplazo con una ruptura más amplia entre el llamado «Antiguo Testamento» y los escritos apostólicos. Eric atribuye a Marción la contraposición entre un dios severo anterior y otro bondadoso posterior, y responde que bondad y juicio aparecen en ambos cuerpos textuales. En la línea de #salmos_119_89, la tesis teológica es que יהוה no muda su identidad ni revoca caprichosamente su palabra.
 
 La clase también atribuye a corrientes gnósticas, a Filón de Alejandría, a padres de la iglesia y a concilios posteriores una progresiva desidentificación de la matriz hebrea. Estas afirmaciones ayudan a entender el diagnóstico de Eric, pero la transcripción no ofrece obras, pasajes o actas suficientes para verificar la cadena histórica. Por ello no se usan como fundamento principal. La conclusión de esta nota descansa en los pasajes locales; la historia de recepción queda como una ruta de investigación pendiente.
 

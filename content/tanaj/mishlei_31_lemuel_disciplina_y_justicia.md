@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 31:1-9 sobre la disciplina del hijo, el dominio
 date: 2026-08-04
 tags: [mishlei, mishlei_31, lemuel, disciplina, justicia]
 references:
-  - "#mishlei_31_1"
-  - "#mishlei_31_2"
-  - "#mishlei_31_3"
-  - "#mishlei_31_4"
-  - "#mishlei_31_5"
-  - "#mishlei_31_6"
-  - "#mishlei_31_7"
-  - "#mishlei_31_8"
-  - "#mishlei_31_9"
+  - "#proverbios_31_1"
+  - "#proverbios_31_2"
+  - "#proverbios_31_3"
+  - "#proverbios_31_4"
+  - "#proverbios_31_5"
+  - "#proverbios_31_6"
+  - "#proverbios_31_7"
+  - "#proverbios_31_8"
+  - "#proverbios_31_9"
 sources:
   - "https://www.youtube.com/watch?v=JzKOBJSFLns"
   - "docs/scriptures/oe/json/proverbs/31.json"
@@ -27,21 +27,21 @@ Mishlei 31:1-9 presenta la autoridad como una vocación sometida a disciplina: e
 
 ## Alcance de la nota
 
-Esta nota organiza la clase dedicada a #mishlei_31_1-9. El texto bíblico se cotejó con OE y TTH locales. Las etimologías y lecturas alegóricas proceden de la exposición y se califican cuando exceden el sentido inmediato. Los enlaces de tiempo permiten volver al argumento público sin tratar la transcripción automática como cita literal.
+Esta nota organiza la clase dedicada a #proverbios_31_1-9. El texto bíblico se cotejó con OE y TTH locales. Las etimologías y lecturas alegóricas proceden de la exposición y se califican cuando exceden el sentido inmediato. Los enlaces de tiempo permiten volver al argumento público sin tratar la transcripción automática como cita literal.
 
 ## Hoja de comparación
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_31_1 | דברי למואל מלך משא אשר יסרתו אמו | Palabras de Lemuel rey, la carga que le disciplinó su madre. |
-| #mishlei_31_2 | מה ברי ומה בר בטני ומה בר נדרי | ¿Qué, hijo mío? ¿Y qué, hijo de mi vientre? ¿Y qué, hijo de mis votos? |
-| #mishlei_31_3 | אל תתן לנשים חילך ודרכיך למחות מלכין | No des a las mujeres tu valor, y tus caminos a la destrucción de reyes. |
-| #mishlei_31_4 | אל למלכים למואל אל למלכים שתו יין ולרוזנים או אי שכר | No es para los reyes, Lemuel, no es para los reyes beber vino, ni es para los líderes el licor. |
-| #mishlei_31_5 | פן ישתה וישכח מחקק וישנה דין כל בני עני | Para que no beban y olviden lo decretado, y cambien el juicio de todos los hijos de humildad. |
-| #mishlei_31_6 | תנו שכר לאובד ויין למרי נפש | Den licor al perecido, y vino a los amargos de ser. |
-| #mishlei_31_7 | ישתה וישכח רישו ועמלו לא יזכר עוד | Beberá y olvidará su pobreza, y su trabajo no recordará más. |
-| #mishlei_31_8 | פתח פיך לאלם אל דין כל בני חלוף | Abre tu boca para el mudo, respecto al juicio de los hijos de lo cambiante. |
-| #mishlei_31_9 | פתח פיך שפט צדק ודין עני ואביון | Abre tu boca, juzga justicia y juicio del humilde y necesitado. |
+| #proverbios_31_1 | דברי למואל מלך משא אשר יסרתו אמו | Palabras de Lemuel rey, la carga que le disciplinó su madre. |
+| #proverbios_31_2 | מה ברי ומה בר בטני ומה בר נדרי | ¿Qué, hijo mío? ¿Y qué, hijo de mi vientre? ¿Y qué, hijo de mis votos? |
+| #proverbios_31_3 | אל תתן לנשים חילך ודרכיך למחות מלכין | No des a las mujeres tu valor, y tus caminos a la destrucción de reyes. |
+| #proverbios_31_4 | אל למלכים למואל אל למלכים שתו יין ולרוזנים או אי שכר | No es para los reyes, Lemuel, no es para los reyes beber vino, ni es para los líderes el licor. |
+| #proverbios_31_5 | פן ישתה וישכח מחקק וישנה דין כל בני עני | Para que no beban y olviden lo decretado, y cambien el juicio de todos los hijos de humildad. |
+| #proverbios_31_6 | תנו שכר לאובד ויין למרי נפש | Den licor al perecido, y vino a los amargos de ser. |
+| #proverbios_31_7 | ישתה וישכח רישו ועמלו לא יזכר עוד | Beberá y olvidará su pobreza, y su trabajo no recordará más. |
+| #proverbios_31_8 | פתח פיך לאלם אל דין כל בני חלוף | Abre tu boca para el mudo, respecto al juicio de los hijos de lo cambiante. |
+| #proverbios_31_9 | פתח פיך שפט צדק ודין עני ואביון | Abre tu boca, juzga justicia y juicio del humilde y necesitado. |
 
 ## Una carga que disciplina al hijo
 
@@ -51,7 +51,7 @@ La triple pregunta del verso 2 organiza en la clase tres responsabilidades: cons
 
 ## No entregar el jail ni olvidar lo decretado
 
-En #mishlei_31_3 aparece **(חילך)**, _jeileja_, “tu fuerza/valor”. Eric lo relaciona con **(אשת חיל)** en #mishlei_31_10: Lemuel posee _jail_ y la mujer es “de _jail_” ([20:00](https://www.youtube.com/watch?v=JzKOBJSFLns&t=1200s)). La advertencia directa exige no entregar el vigor ni los caminos a relaciones destructivas. La clase la extiende a las pasiones sexuales y, alegóricamente, a la idolatría del deseo propio.
+En #proverbios_31_3 aparece **(חילך)**, _jeileja_, “tu fuerza/valor”. Eric lo relaciona con **(אשת חיל)** en #proverbios_31_10: Lemuel posee _jail_ y la mujer es “de _jail_” ([20:00](https://www.youtube.com/watch?v=JzKOBJSFLns&t=1200s)). La advertencia directa exige no entregar el vigor ni los caminos a relaciones destructivas. La clase la extiende a las pasiones sexuales y, alegóricamente, a la idolatría del deseo propio.
 
 Los versos 4-5 unen sobriedad y justicia. El gobernante que olvida **(מחקק)**, _mejoqeq_, “lo decretado”, puede alterar **(דין)**, _din_, el juicio de los afligidos. Eric emplea además el vino como figura de embriaguez con los deseos ([27:47](https://www.youtube.com/watch?v=JzKOBJSFLns&t=1667s)). Esa analogía es pedagógica; el texto mantiene una advertencia concreta para líderes porque sus decisiones afectan a otros. Los versos 6-7 trazan el contraste de quien bebe para olvidar pobreza y trabajo, no una licencia para que el rey abandone su lucidez.
 
@@ -68,7 +68,7 @@ La clase presta atención a **(בני חלוף)**, _bene jalof_, que TTH traduce
 | **(למואל)** | Lemuel | Nombre propio; la aplicación al pueblo que pertenece a Elohim es pedagógica. |
 | **(משא)** | masá | Carga u oráculo; “carga judicial” requiere cotejo. |
 | **(בר)** | bar | Hijo; la clase señala una forma aramea en el verso. |
-| **(חיל)** | jail | Fuerza, capacidad o valor; enlaza exactamente por forma con #mishlei_31_10. |
+| **(חיל)** | jail | Fuerza, capacidad o valor; enlaza exactamente por forma con #proverbios_31_10. |
 | **(מחקק)** | mejoqeq | Lo decretado; la clase lo aproxima a la Torá como decreto real. |
 | **(חלוף)** | jalof | Cambio o lo pasajero; la aplicación espiritual es inferencia. |
 
@@ -76,22 +76,22 @@ La clase presta atención a **(בני חלוף)**, _bene jalof_, que TTH traduce
 
 | Unidad | Argumento de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_31_1-2 | La carga disciplina a Lemuel; tres preguntas ordenan tres deberes. | Estructura apoyada; identidad corporativa calificada. |
-| #mishlei_31_3 | _Jail_ no debe entregarse y conecta con el verso 10. | Conexión formal apoyada; alegoría calificada. |
-| #mishlei_31_4-7 | El vino figura también los deseos que hacen olvidar el decreto. | Consecuencia apoyada; simbolismo pedagógico. |
-| #mishlei_31_8-9 | Abrir la boca favorece al mudo, humilde y necesitado. | Deber jurídico apoyado; aplicación evangelizadora atribuida. |
+| #proverbios_31_1-2 | La carga disciplina a Lemuel; tres preguntas ordenan tres deberes. | Estructura apoyada; identidad corporativa calificada. |
+| #proverbios_31_3 | _Jail_ no debe entregarse y conecta con el verso 10. | Conexión formal apoyada; alegoría calificada. |
+| #proverbios_31_4-7 | El vino figura también los deseos que hacen olvidar el decreto. | Consecuencia apoyada; simbolismo pedagógico. |
+| #proverbios_31_8-9 | Abrir la boca favorece al mudo, humilde y necesitado. | Deber jurídico apoyado; aplicación evangelizadora atribuida. |
 | **(בני חלוף)** | Los “hijos de lo cambiante” pasan de lo movible a lo firme. | Inferencia pendiente de verificación. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la función de **(בר)** en #mishlei_31_2 y la afirmación de que es arameo dentro del verso.
+- [ ] Cotejar la función de **(בר)** en #proverbios_31_2 y la afirmación de que es arameo dentro del verso.
 - [ ] Verificar el rango de **(משא)** antes de fijar “carga judicial” como equivalencia exacta.
 - [ ] Revisar interpretaciones documentadas de **(בני חלוף)**; no presentar la transformación espiritual como traducción establecida.
 - [ ] Localizar las referencias exactas aludidas para la disciplina de hijos y los votos aprobados por padre o esposo.
 
 ## Conclusión
 
-La disciplina de Lemuel desemboca en autoridad sobria: la fuerza no se gasta en deseos destructivos, la memoria del decreto protege el juicio y la boca se abre para hacer justicia. La lectura mesiánica aplica este perfil al pueblo redimido, pero permanece anclada en las acciones explícitas de #mishlei_31_3-9.
+La disciplina de Lemuel desemboca en autoridad sobria: la fuerza no se gasta en deseos destructivos, la memoria del decreto protege el juicio y la boca se abre para hacer justicia. La lectura mesiánica aplica este perfil al pueblo redimido, pero permanece anclada en las acciones explícitas de #proverbios_31_3-9.
 
 ## Ver también
 

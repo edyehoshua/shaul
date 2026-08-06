@@ -14,9 +14,9 @@ references:
   - "#romanos_12_3-8"
   - "#romanos_12_9-13"
   - "#romanos_12_14-21"
-  - "#vaikra_19_17-18"
-  - "#mishlei_3_7"
-  - "#tehilim_68_19"
+  - "#levitico_19_17-18"
+  - "#proverbios_3_7"
+  - "#salmos_68_19"
 sources:
   - "https://www.youtube.com/watch?v=8X6RZ978QNo"
   - "docs/scriptures/tth/json/romanos.json"
@@ -46,7 +46,7 @@ Esta nota organiza una clase pública sobre Romanos 12 y sigue el capítulo en o
 | #romanos_12_9-13 | «El amor sea sin hipocresía»; «con honra, dense preferencia»; «siguiendo la hospitalidad». | El amor se verifica en bien, honra, diligencia, compartir y acogida. |
 | #romanos_12_14-21 | «Bendigan a sus perseguidores»; «no se venguen ustedes mismos»; «vence con el bien al mal». | La comunidad no replica el mal ni usurpa la venganza de יהוה. |
 
-La lectura local también conserva el trasfondo práctico: #vaikra_19_17-18 manda amonestar al compañero sin cargar por él pecado y amar al compañero; #mishlei_3_7 dice: «No seas sabio en tus ojos, teme a יהוה y apártate del mal». En #tehilim_68_19, la bendición atribuye a Adonai el sostener día a día y al Elohim de la salvación.
+La lectura local también conserva el trasfondo práctico: #levitico_19_17-18 manda amonestar al compañero sin cargar por él pecado y amar al compañero; #proverbios_3_7 dice: «No seas sabio en tus ojos, teme a יהוה y apártate del mal». En #salmos_68_19, la bendición atribuye a Adonai el sostener día a día y al Elohim de la salvación.
 
 ## Un cuerpo ofrecido y una mente renovada
 
@@ -66,7 +66,7 @@ La clase enseña que un don no es propiedad privada. El que tiene una función d
 
 ## Amor sin hipocresía: corrección, preferencia y hospitalidad
 
-La clase vincula «amor sin hipocresía» con la posibilidad de corregir al hermano sin fingir que todo está bien. #vaikra_19_17-18 sostiene esa conexión: no odiar al hermano incluye amonestarle y no cargar por su pecado. La corrección no es licencia para humillar; debe permanecer dentro del amor, la honra y el propósito de restauración. Por eso Romanos 12:10 ordena darse preferencia, no usar la corrección para colocarse por encima.
+La clase vincula «amor sin hipocresía» con la posibilidad de corregir al hermano sin fingir que todo está bien. #levitico_19_17-18 sostiene esa conexión: no odiar al hermano incluye amonestarle y no cargar por su pecado. La corrección no es licencia para humillar; debe permanecer dentro del amor, la honra y el propósito de restauración. Por eso Romanos 12:10 ordena darse preferencia, no usar la corrección para colocarse por encima.
 
 La unidad se vuelve visible en alegrarse con quienes se alegran, llorar con quienes lloran, compartir en las necesidades y practicar hospitalidad. «Los unos a los otros» no describe independencia espiritual, sino miembros que se favorecen mutuamente. El expositor compara el cuerpo con un organismo en el que el daño de un miembro repercute en todos. Es una analogía pedagógica coherente con 12:4-5; no debe convertirse en una explicación médica del texto.
 
@@ -82,7 +82,7 @@ La exposición relaciona «shalom» con quedar sin deudas o sin asuntos pendient
 | --- | --- | --- |
 | Romanos 12:1-2; `youtube:8X6RZ978QNo` | El cuerpo es el sacrificio vivo y el servicio no debe confundirse con mera razón humana; la mente es renovada para discernir. | Apoyo textual cualificado; _logikē_ y su relación con «palabra» se conservan como aproximación léxica. |
 | Romanos 12:3-8; `youtube:8X6RZ978QNo` | La medida de la emunah no es una cantidad para compararse; los dones pertenecen a Elohim y caracterizan funciones dentro de un cuerpo. | Apoyo directo para humildad, cuerpo y diversidad; «Yehoshua es la medida» queda como síntesis teológica atribuible. |
-| Romanos 12:9-13; `youtube:8X6RZ978QNo` | Amor sin fingimiento incluye recibir y dar corrección, preferir al hermano y compartir con el necesitado. | Apoyo textual y conexión con #vaikra_19_17-18; la aplicación comunitaria se mantiene cualificada. |
+| Romanos 12:9-13; `youtube:8X6RZ978QNo` | Amor sin fingimiento incluye recibir y dar corrección, preferir al hermano y compartir con el necesitado. | Apoyo textual y conexión con #levitico_19_17-18; la aplicación comunitaria se mantiene cualificada. |
 | Romanos 12:14-21; `youtube:8X6RZ978QNo` | El perseguidor sirve como caso límite: si se hace bien al enemigo, con mayor razón se debe cuidar al hermano. | Apoyo directo para bendecir y vencer el mal con bien; el alcance de «carbones» se deja en su imagen contextual. |
 
 ## Hoja léxica
@@ -98,7 +98,7 @@ La exposición relaciona «shalom» con quedar sin deudas o sin asuntos pendient
 
 - [ ] Verificar en un léxico griego la explicación histórica de _telos/logikos_ invocada en conexiones con otros pasajes; esta nota no la presenta como etimología demostrada.
 - [ ] Precisar el trasfondo textual de «carbones de fuego» sin convertir la imagen en una teoría sobre la intención interior del enemigo.
-- [ ] Cotejar la numeración hebrea de #tehilim_68_19 frente a otras ediciones antes de usarla como prueba textual principal.
+- [ ] Cotejar la numeración hebrea de #salmos_68_19 frente a otras ediciones antes de usarla como prueba textual principal.
 
 ## Conclusión
 

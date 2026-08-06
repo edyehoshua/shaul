@@ -8,8 +8,8 @@ tags:
   - torah
   - eric-youtube
 references:
-  - "#tehilim_119_117-120"
-  - "#tehilim_119_121-128"
+  - "#salmos_119_117-120"
+  - "#salmos_119_121-128"
 sources:
   - "https://www.youtube.com/watch?v=TOT2zoskIGw"
   - "docs/scriptures/oe/json/psalms/119.json"
@@ -30,11 +30,11 @@ Esta nota desarrolla la clase pública de Eric sobre Tehilim 119:117-128 y contr
 
 | Unidad               | Texto local (OE, hebreo normalizado)                                                                                                           | Función en el argumento                                                           |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #tehilim_119_117-120 | **סעדני ואושעה ואשועה בחקיך תמיד / סלית כל שוגים מחקיך כי שקר תרמיתם / סגים השבת כל רשעי ארץ לכן אהבתי עדתיך / סמר מפחדך בשרי וממשפטיך יראתי** | Sostén, descarte del engaño, escoria y temor ante los juicios.                    |
-| #tehilim_119_121-124 | **עשיתי משפט וצדק בל תניחני לעשקי / ערב עבדך לטוב אל יעשקני זדים / עיני כלו לישועתך ולאמרת צדקך / עשה עם עבדך כחסדך וחקיך למדני**              | El siervo pide protección, salvación y enseñanza conforme a la bondad.            |
-| #tehilim_119_125-128 | **עבדך אני הבינני ואדעה עדתיך / עת לעשות ליהוה הפרו תורתך / על כן אהבתי מצותיך מזהב ומפז / על כן כל פקודי כל ישרתי כל ארח שקר שנאתי**          | Identidad de siervo, discernimiento, urgencia y preferencia por los mandamientos. |
+| #salmos_119_117-120 | **סעדני ואושעה ואשועה בחקיך תמיד / סלית כל שוגים מחקיך כי שקר תרמיתם / סגים השבת כל רשעי ארץ לכן אהבתי עדתיך / סמר מפחדך בשרי וממשפטיך יראתי** | Sostén, descarte del engaño, escoria y temor ante los juicios.                    |
+| #salmos_119_121-124 | **עשיתי משפט וצדק בל תניחני לעשקי / ערב עבדך לטוב אל יעשקני זדים / עיני כלו לישועתך ולאמרת צדקך / עשה עם עבדך כחסדך וחקיך למדני**              | El siervo pide protección, salvación y enseñanza conforme a la bondad.            |
+| #salmos_119_125-128 | **עבדך אני הבינני ואדעה עדתיך / עת לעשות ליהוה הפרו תורתך / על כן אהבתי מצותיך מזהב ומפז / על כן כל פקודי כל ישרתי כל ארח שקר שנאתי**          | Identidad de siervo, discernimiento, urgencia y preferencia por los mandamientos. |
 
-## 119:117-120: sostén, calzada y escoria
+## 119:117-120: sostén, calzada y escoria #salmos_119_117-120
 
 El v. 117 abre con **סעדני**, “sosténme”, seguido de “y seré salvo” y “miraré tus estatutos continuamente”. Eric corrige la reacción de quien, por haber padecido, decide abandonar el camino: haber sido rescatado y recibir soporte de יהוה tiene como finalidad seguir perseverando y guardando los testimonios. El hebreo sostiene esa lectura: el auxilio pedido está unido a la continuidad de la mirada y la práctica, no a una promesa de ausencia de sufrimiento.
 
@@ -42,7 +42,7 @@ En el v. 118, **סלית** es una forma verbal de la raíz de apartar o desechar
 
 El v. 119 usa **סגים**, “escorias”, para describir a los impíos de la tierra. Eric conecta la escoria con el residuo que se separa al fundir metal precioso y después distingue esa imagen del trato que el mundo da a los fieles. La comparación de 1 Corintios 4:13 aparece en la clase como conexión apostólica: puede iluminar la experiencia de rechazo, pero no debe confundirse con el referente inmediato del salmo. El v. 120 devuelve el foco al interior: la carne se eriza por el temor y el orante teme los juicios. Eric lo describe como respeto profundo y reconocimiento de los procedimientos de יהוה, no como pánico ante los perseguidores.
 
-## 119:121-128: el siervo aprende a discernir
+## 119:121-128: el siervo aprende a discernir #salmos_119_121-128
 
 En los vv. 121-122, el orante afirma haber hecho justicia y pide no ser abandonado al opresor; luego solicita que יהוה garantice el bien de su siervo frente a los soberbios. La afirmación no convierte al orante en impecable: establece el ámbito de su conducta y pide protección para continuar en él. En los vv. 123-124, los ojos se consumen esperando la salvación y la palabra justa, y el siervo pide que יהוה actúe con bondad y le enseñe sus estatutos. Eric relaciona esta espera con una esperanza que no renuncia, aunque la fuerza se desgaste.
 
@@ -67,10 +67,10 @@ Los vv. 127-128 concluyen con una valoración: los mandamientos son amados más 
 
 | Unidad textual       | Observación concreta de la clase                                                                                                            | Tratamiento en esta nota                                                                                                                          |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #tehilim_119_117-118 | Eric enseña que haber sido rescatado no justifica volver atrás y describe el juicio de los que se apartan como una calzada que los aplasta. | Se apoya la perseverancia en la unión de **סעדני** con guardar estatutos; se califica la calzada como imagen pedagógica.                          |
-| #tehilim_119_119-120 | Eric explica **סגים** como escoria de la fundición y **סמר** como el estremecimiento de la carne ante los juicios.                          | El texto confirma ambas imágenes; la conexión entre escoria, rechazo del mundo y 1 Corintios 4 se mantiene como aplicación, no como traducción.   |
-| #tehilim_119_121-125 | Eric contrasta la identidad real de siervo con símbolos exteriores y llama a aprender la voluntad escrita para vivirla.                     | Se conserva el argumento en el orden de justicia, espera, bondad, aprendizaje e identidad; el texto local respalda la finalidad práctica.         |
-| #tehilim_119_126-128 | Eric exhorta a no dejarse dominar por información y paranoia, a esperar la acción de יהוה y a valorar sus mandamientos sobre el oro.        | Se coteja la aplicación con la urgencia del v. 126 y la preferencia explícita de los vv. 127-128, sin borrar la denuncia de la Torah quebrantada. |
+| #salmos_119_117-118 | Eric enseña que haber sido rescatado no justifica volver atrás y describe el juicio de los que se apartan como una calzada que los aplasta. | Se apoya la perseverancia en la unión de **סעדני** con guardar estatutos; se califica la calzada como imagen pedagógica.                          |
+| #salmos_119_119-120 | Eric explica **סגים** como escoria de la fundición y **סמר** como el estremecimiento de la carne ante los juicios.                          | El texto confirma ambas imágenes; la conexión entre escoria, rechazo del mundo y 1 Corintios 4 se mantiene como aplicación, no como traducción.   |
+| #salmos_119_121-125 | Eric contrasta la identidad real de siervo con símbolos exteriores y llama a aprender la voluntad escrita para vivirla.                     | Se conserva el argumento en el orden de justicia, espera, bondad, aprendizaje e identidad; el texto local respalda la finalidad práctica.         |
+| #salmos_119_126-128 | Eric exhorta a no dejarse dominar por información y paranoia, a esperar la acción de יהוה y a valorar sus mandamientos sobre el oro.        | Se coteja la aplicación con la urgencia del v. 126 y la preferencia explícita de los vv. 127-128, sin borrar la denuncia de la Torah quebrantada. |
 
 ## Conclusión
 

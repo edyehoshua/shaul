@@ -4,14 +4,14 @@ description: "Mishlei 10:25-32 sobre el cimiento del justo, la expectativa que p
 date: 2026-08-06
 tags: [mishlei, mishlei_10, expectativa, esperanza, fundamento, disciplina]
 references:
-  - "#mishlei_10_25"
-  - "#mishlei_10_26"
-  - "#mishlei_10_27"
-  - "#mishlei_10_28"
-  - "#mishlei_10_29"
-  - "#mishlei_10_30"
-  - "#mishlei_10_31"
-  - "#mishlei_10_32"
+  - "#proverbios_10_25"
+  - "#proverbios_10_26"
+  - "#proverbios_10_27"
+  - "#proverbios_10_28"
+  - "#proverbios_10_29"
+  - "#proverbios_10_30"
+  - "#proverbios_10_31"
+  - "#proverbios_10_32"
   - "#mateo_7_24"
   - "#romanos_8_38"
 sources:
@@ -35,14 +35,14 @@ Esta nota organiza la enseñanza pública sobre Mishlei 10:25-32. Sigue el orden
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_10_25 | כעבור סופה ואין רשע וצדיק יסוד עולם | Cuando pasa el torbellino, ya no hay condenado, pero el justo tiene cimiento olam. |
-| #mishlei_10_26 | כחמץ לשנים וכעשן לעינים כן העצל לשלחיו | Como vinagre para los dientes y como humo para los ojos, así es el perezoso para quienes lo envían. |
-| #mishlei_10_27 | יראת יהוה תוסיף ימים ושנות רשעים תקצרנה | El temor de יהוה añadirá días, y los años de los condenados serán acortados. |
-| #mishlei_10_28 | תוחלת צדיקים שמחה ותקות רשעים תאבד | La expectativa de los justos es alegría, pero la espera de los condenados perecerá. |
-| #mishlei_10_29 | מעוז לתם דרך יהוה ומחתה לפעלי און | Fortaleza para el entero es el camino de יהוה, pero ruina para los hacedores de vacuidad. |
-| #mishlei_10_30 | צדיק לעולם בל ימוט ורשעים לא ישכנו ארץ | El justo para siempre no será sacudido, pero los condenados no morarán en la tierra. |
-| #mishlei_10_31 | פי צדיק ינוב חכמה ולשון תהפכות תכרת | La boca del justo produce sabiduría, pero la lengua de distorsiones será cortada. |
-| #mishlei_10_32 | שפתי צדיק ידעון רצון ופי רשעים תהפכות | Los labios del justo conocerán el favor, pero la boca de los condenados, distorsiones. |
+| #proverbios_10_25 | כעבור סופה ואין רשע וצדיק יסוד עולם | Cuando pasa el torbellino, ya no hay condenado, pero el justo tiene cimiento olam. |
+| #proverbios_10_26 | כחמץ לשנים וכעשן לעינים כן העצל לשלחיו | Como vinagre para los dientes y como humo para los ojos, así es el perezoso para quienes lo envían. |
+| #proverbios_10_27 | יראת יהוה תוסיף ימים ושנות רשעים תקצרנה | El temor de יהוה añadirá días, y los años de los condenados serán acortados. |
+| #proverbios_10_28 | תוחלת צדיקים שמחה ותקות רשעים תאבד | La expectativa de los justos es alegría, pero la espera de los condenados perecerá. |
+| #proverbios_10_29 | מעוז לתם דרך יהוה ומחתה לפעלי און | Fortaleza para el entero es el camino de יהוה, pero ruina para los hacedores de vacuidad. |
+| #proverbios_10_30 | צדיק לעולם בל ימוט ורשעים לא ישכנו ארץ | El justo para siempre no será sacudido, pero los condenados no morarán en la tierra. |
+| #proverbios_10_31 | פי צדיק ינוב חכמה ולשון תהפכות תכרת | La boca del justo produce sabiduría, pero la lengua de distorsiones será cortada. |
+| #proverbios_10_32 | שפתי צדיק ידעון רצון ופי רשעים תהפכות | Los labios del justo conocerán el favor, pero la boca de los condenados, distorsiones. |
 
 ## Un cimiento que sobrevive al torbellino
 
@@ -76,10 +76,10 @@ La exposición vincula además **(רצון)**, _ratzón_, con voluntad, favor, a
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_10_25 | La tormenta deja al malvado sin lugar, pero el justo permanece sobre un cimiento olam; se conecta con la casa sobre la roca. | Contraste y cimiento apoyados; enlace con Mateo calificado como conexión mesiánica. |
-| #mishlei_10_26-27 | El perezoso irrita al que lo envía; el temor de יהוה añade días y forma un servicio activo. | Imagen textual apoyada; aplicación al envío y obediencia de la clase atribuida. |
-| #mishlei_10_28-30 | La expectativa del justo es alegría y su deseo es la redención, mientras la esperanza del malvado perece. | Contraste textual apoyado; lectura del deseo como esperanza mesiánica calificada. |
-| #mishlei_10_31-32 | La boca que escucha disciplina produce sabiduría y conoce el favor; la lengua distorsionada carece de permanencia. | Observación textual apoyada; relación directa con Torah tratada como aplicación de la clase. |
+| #proverbios_10_25 | La tormenta deja al malvado sin lugar, pero el justo permanece sobre un cimiento olam; se conecta con la casa sobre la roca. | Contraste y cimiento apoyados; enlace con Mateo calificado como conexión mesiánica. |
+| #proverbios_10_26-27 | El perezoso irrita al que lo envía; el temor de יהוה añade días y forma un servicio activo. | Imagen textual apoyada; aplicación al envío y obediencia de la clase atribuida. |
+| #proverbios_10_28-30 | La expectativa del justo es alegría y su deseo es la redención, mientras la esperanza del malvado perece. | Contraste textual apoyado; lectura del deseo como esperanza mesiánica calificada. |
+| #proverbios_10_31-32 | La boca que escucha disciplina produce sabiduría y conoce el favor; la lengua distorsionada carece de permanencia. | Observación textual apoyada; relación directa con Torah tratada como aplicación de la clase. |
 
 ## Conexiones principales
 

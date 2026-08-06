@@ -10,17 +10,17 @@ tags:
   - sabiduria
   - vida
 references:
-  - "#ecclesiastes_11_7"
-  - "#ecclesiastes_11_8"
-  - "#ecclesiastes_11_9"
-  - "#ecclesiastes_11_10"
-  - "#isaiah_5_20"
-  - "#proverbs_16_24"
-  - "#proverbs_24_13"
-  - "#proverbs_24_14"
-  - "#psalms_119_9"
-  - "#timothy2_3_14"
-  - "#timothy2_3_15"
+  - "#eclesiastes_11_7"
+  - "#eclesiastes_11_8"
+  - "#eclesiastes_11_9"
+  - "#eclesiastes_11_10"
+  - "#isaias_5_20"
+  - "#proverbios_16_24"
+  - "#proverbios_24_13"
+  - "#proverbios_24_14"
+  - "#salmos_119_9"
+  - "#2_timoteo_3_14"
+  - "#2_timoteo_3_15"
 sources:
   - "https://www.youtube.com/watch?v=tFXpEE15FBk"
   - "https://www.youtube.com/watch?v=_9DYcs67bd4"
@@ -42,7 +42,7 @@ Qohélet 11:7-10 llama buena a la luz, recuerda que aun una vida larga encuentra
 ## Alcance de la nota
 
 - Fuente: «Qoheleth-Ecclesiastes (Part 29) Ch. 11», del hermano Eric de Jesús Rodríguez Mendoza.
-- La sesión estudia #ecclesiastes_11_7-10 y termina la lectura del capítulo. Vincula «dulce» y luz con otros textos sapienciales, y propone una lectura particular de las palabras hebreas para juventud y madurez.
+- La sesión estudia #eclesiastes_11_7-10 y termina la lectura del capítulo. Vincula «dulce» y luz con otros textos sapienciales, y propone una lectura particular de las palabras hebreas para juventud y madurez.
 - El texto hebreo procede del corpus OE local y se presenta sin nikud. La transcripción automática sirve para atribución y guía de estudio; no es una cita literal del video.
 - Las afirmaciones históricas, las propuestas léxicas y las conexiones cristológicas de la enseñanza se conservan como temas de estudio, no como sentidos ya establecidos del pasaje.
 
@@ -50,43 +50,43 @@ Qohélet 11:7-10 llama buena a la luz, recuerda que aun una vida larga encuentra
 
 | Referencia                          | Texto local (OE, sin nikud)                                                                                                                | Observación                                                                                                                                              |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #ecclesiastes_11_7-8                | **ומתוק האור וטוב לעינים לראות את השמש**; **כי אם שנים הרבה יחיה האדם בכלם ישמח ויזכר את ימי החשך כי הרבה יהיו כל שבא הבל**                | La luz es dulce y buena para los ojos; aun una vida larga debe recordar los muchos días de oscuridad y lo pasajero de lo que viene.                      |
-| #ecclesiastes_11_9                  | **שמח בחור בילדותיך ויטיבך לבך בימי בחורותך והלך בדרכי לבך ובמראי עיניך ודע כי על כל אלה יביאך האלהים במשפט**                              | La invitación al gozo no se separa del juicio de Elohim sobre todo ello.                                                                                 |
-| #ecclesiastes_11_10                 | **והסר כעס מלבך והעבר רעה מבשרך כי הילדות והשחרות הבל**                                                                                    | El cierre ordena apartar del corazón y de la carne lo que causa daño, y llama pasajeras a niñez y juventud.                                              |
-| #isaiah_5_20                        | **הוי האמרים לרע טוב ולטוב רע שמים חשך לאור ואור לחשך שמים מר למתוק ומתוק למר**                                                            | La clase usa el contraste de dulce/amargo y luz/oscuridad para explorar el lenguaje de #ecclesiastes_11_7.                                               |
-| #proverbs_16_24; #proverbs_24_13-14 | **צוף דבש אמרי נעם מתוק לנפש ומרפא לעצם**; **אכל בני דבש כי טוב ונפת מתוק על חכך**; **כן דעה חכמה לנפשך אם מצאת ויש אחרית ותקותך לא תכרת** | Los Proverbios comparan la miel con palabras agradables y con la sabiduría; son conexiones temáticas, no una definición automática de la luz de Qohélet. |
+| #eclesiastes_11_7-8                | **ומתוק האור וטוב לעינים לראות את השמש**; **כי אם שנים הרבה יחיה האדם בכלם ישמח ויזכר את ימי החשך כי הרבה יהיו כל שבא הבל**                | La luz es dulce y buena para los ojos; aun una vida larga debe recordar los muchos días de oscuridad y lo pasajero de lo que viene.                      |
+| #eclesiastes_11_9                  | **שמח בחור בילדותיך ויטיבך לבך בימי בחורותך והלך בדרכי לבך ובמראי עיניך ודע כי על כל אלה יביאך האלהים במשפט**                              | La invitación al gozo no se separa del juicio de Elohim sobre todo ello.                                                                                 |
+| #eclesiastes_11_10                 | **והסר כעס מלבך והעבר רעה מבשרך כי הילדות והשחרות הבל**                                                                                    | El cierre ordena apartar del corazón y de la carne lo que causa daño, y llama pasajeras a niñez y juventud.                                              |
+| #isaias_5_20                        | **הוי האמרים לרע טוב ולטוב רע שמים חשך לאור ואור לחשך שמים מר למתוק ומתוק למר**                                                            | La clase usa el contraste de dulce/amargo y luz/oscuridad para explorar el lenguaje de #eclesiastes_11_7.                                               |
+| #proverbios_16_24; #proverbios_24_13-14 | **צוף דבש אמרי נעם מתוק לנפש ומרפא לעצם**; **אכל בני דבש כי טוב ונפת מתוק על חכך**; **כן דעה חכמה לנפשך אם מצאת ויש אחרית ותקותך לא תכרת** | Los Proverbios comparan la miel con palabras agradables y con la sabiduría; son conexiones temáticas, no una definición automática de la luz de Qohélet. |
 
 ## La luz buena y los días de oscuridad
 
-#ecclesiastes_11_7 llama «dulce» a la luz y buena a la visión del sol. La clase detiene la atención en **מתוק** (matoq) y lo enlaza con miel, vida, salud y sabiduría (00:02:43-00:20:42). #proverbs_16_24 y #proverbs_24_13-14 efectivamente emplean la dulzura de la miel como imagen de palabras agradables y de sabiduría. Sin embargo, el versículo de Qohélet no identifica explícitamente la luz con una sola persona, ni ofrece por sí mismo una cadena completa de equivalencias entre luz, Torá, Mesías y vida eterna.
+#eclesiastes_11_7 llama «dulce» a la luz y buena a la visión del sol. La clase detiene la atención en **מתוק** (matoq) y lo enlaza con miel, vida, salud y sabiduría (00:02:43-00:20:42). #proverbios_16_24 y #proverbios_24_13-14 efectivamente emplean la dulzura de la miel como imagen de palabras agradables y de sabiduría. Sin embargo, el versículo de Qohélet no identifica explícitamente la luz con una sola persona, ni ofrece por sí mismo una cadena completa de equivalencias entre luz, Torá, Mesías y vida eterna.
 
-El contraste de #isaiah_5_20 confirma que «dulce» y «amargo», como luz y oscuridad, pueden participar en un lenguaje de inversión moral. Esa correspondencia hace razonable estudiar el campo de imágenes; no basta para fijar una equivalencia léxica exacta en todos los contextos.
+El contraste de #isaias_5_20 confirma que «dulce» y «amargo», como luz y oscuridad, pueden participar en un lenguaje de inversión moral. Esa correspondencia hace razonable estudiar el campo de imágenes; no basta para fijar una equivalencia léxica exacta en todos los contextos.
 
-El versículo siguiente mantiene el realismo propio del libro: aunque alguien viva muchos años y se alegre en todos ellos, debe recordar «los días de oscuridad», porque serán muchos (#ecclesiastes_11_8). El texto no invita al desprecio de la vida presente; pone su alegría y duración bajo la conciencia de la mortalidad y de lo transitorio.
+El versículo siguiente mantiene el realismo propio del libro: aunque alguien viva muchos años y se alegre en todos ellos, debe recordar «los días de oscuridad», porque serán muchos (#eclesiastes_11_8). El texto no invita al desprecio de la vida presente; pone su alegría y duración bajo la conciencia de la mortalidad y de lo transitorio.
 
 ## Gozo, caminos y juicio
 
-La clase objeta las versiones que presentan #ecclesiastes_11_9 como permiso para seguir todo deseo (00:36:25-00:49:21). La segunda mitad del versículo impide leerlo como autonomía absoluta: «sabe que sobre todo esto Elohim te traerá a juicio». La exhortación reúne gozo, corazón, ojos y responsabilidad; por ello ninguna invitación al disfrute puede aislarse del juicio que el mismo versículo enuncia.
+La clase objeta las versiones que presentan #eclesiastes_11_9 como permiso para seguir todo deseo (00:36:25-00:49:21). La segunda mitad del versículo impide leerlo como autonomía absoluta: «sabe que sobre todo esto Elohim te traerá a juicio». La exhortación reúne gozo, corazón, ojos y responsabilidad; por ello ninguna invitación al disfrute puede aislarse del juicio que el mismo versículo enuncia.
 
 El expositor distingue **בחור** (_bajur_) de **ילדות** (_yaldut_) y propone leer el texto como exhortación particular a quien ya ha alcanzado autonomía y madurez, en contraste con la subordinación formativa (00:27:01-00:45:44). La raíz de **בחר** se asocia con escoger, y el término puede aparecer para jóvenes o personas en vigor; pero el alcance preciso de las formas en Qohélet 11:9 debe confirmarse con gramáticas, léxicos y el uso literario del libro antes de reemplazar las traducciones corrientes.
 
-La aplicación de #timothy2_3_14-15 —perseverar en lo aprendido desde la niñez— acompaña la exhortación de la clase a no abandonar una formación fiel al adquirir libertad. Esa aplicación puede ser pastoralmente provechosa; no convierte automáticamente los términos de Qohélet en los de la carta a Timoteo.
+La aplicación de #2_timoteo_3_14-15 —perseverar en lo aprendido desde la niñez— acompaña la exhortación de la clase a no abandonar una formación fiel al adquirir libertad. Esa aplicación puede ser pastoralmente provechosa; no convierte automáticamente los términos de Qohélet en los de la carta a Timoteo.
 
 ## Apartar del corazón lo que hace daño
 
-#ecclesiastes_11_10 concluye con dos imperativos: apartar **כעס** del corazón y hacer pasar **רעה** de la carne. La clase entiende el primero como aquello que provoca a Elohim y el segundo como todo daño que afecta al cuerpo (00:52:22-00:58:29). El texto sí llama a retirar algo del corazón y el mal de la carne, pero la amplitud de esos términos exige atención al uso hebreo y al contexto antes de convertirlos en una definición exhaustiva de cada emoción, enfermedad o conducta.
+#eclesiastes_11_10 concluye con dos imperativos: apartar **כעס** del corazón y hacer pasar **רעה** de la carne. La clase entiende el primero como aquello que provoca a Elohim y el segundo como todo daño que afecta al cuerpo (00:52:22-00:58:29). El texto sí llama a retirar algo del corazón y el mal de la carne, pero la amplitud de esos términos exige atención al uso hebreo y al contexto antes de convertirlos en una definición exhaustiva de cada emoción, enfermedad o conducta.
 
-La referencia de la clase a #psalms_119_9 sostiene una exhortación relacionada: **במה יזכה נער את ארחו לשמר כדברך**. El salmo pregunta cómo un joven puede hacer puro su camino y responde: guardándolo conforme a la palabra de יהוה. Junto a Qohélet, ofrece una línea de estudio sobre camino, formación y obediencia, sin borrar las diferencias de género ni de contexto entre ambos libros.
+La referencia de la clase a #salmos_119_9 sostiene una exhortación relacionada: **במה יזכה נער את ארחו לשמר כדברך**. El salmo pregunta cómo un joven puede hacer puro su camino y responde: guardándolo conforme a la palabra de יהוה. Junto a Qohélet, ofrece una línea de estudio sobre camino, formación y obediencia, sin borrar las diferencias de género ni de contexto entre ambos libros.
 
 ## Hoja léxica
 
 | Forma       | Transliteración | Sentido en la nota       | Tipo de relación                         | Cautela                                                                                                        |
 | ----------- | --------------- | ------------------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **(מתוק)**  | matoq           | dulce                    | Forma explícita en #ecclesiastes_11_7    | La relación con miel, luz, vida y sabiduría en la clase es una red pedagógica; no es equivalencia automática.  |
-| **(בחור)**  | bajur           | joven / persona en vigor | Forma explícita en #ecclesiastes_11_9    | La propuesta de «hombre en edad de casarse» o persona ya autónoma requiere cotejo léxico y contextual.         |
-| **(ילדות)** | yaldut          | niñez / juventud         | Forma explícita en #ecclesiastes_11_9-10 | La clase la asocia con subordinación y formación; esa extensión no debe imponerse al término sin verificación. |
-| **(כעס)**   | ka'as           | irritación, enojo        | Forma explícita en #ecclesiastes_11_10   | La enseñanza lo relaciona con provocación contra Elohim; el alcance exacto aquí debe estudiarse.               |
-| **(רעה)**   | ra'ah           | mal, daño                | Forma explícita en #ecclesiastes_11_10   | No reducirla sin más a una categoría física o psicológica moderna.                                             |
+| **(מתוק)**  | matoq           | dulce                    | Forma explícita en #eclesiastes_11_7    | La relación con miel, luz, vida y sabiduría en la clase es una red pedagógica; no es equivalencia automática.  |
+| **(בחור)**  | bajur           | joven / persona en vigor | Forma explícita en #eclesiastes_11_9    | La propuesta de «hombre en edad de casarse» o persona ya autónoma requiere cotejo léxico y contextual.         |
+| **(ילדות)** | yaldut          | niñez / juventud         | Forma explícita en #eclesiastes_11_9-10 | La clase la asocia con subordinación y formación; esa extensión no debe imponerse al término sin verificación. |
+| **(כעס)**   | ka'as           | irritación, enojo        | Forma explícita en #eclesiastes_11_10   | La enseñanza lo relaciona con provocación contra Elohim; el alcance exacto aquí debe estudiarse.               |
+| **(רעה)**   | ra'ah           | mal, daño                | Forma explícita en #eclesiastes_11_10   | No reducirla sin más a una categoría física o psicológica moderna.                                             |
 
 ## Mapa de la enseñanza de Eric
 
@@ -97,11 +97,11 @@ La referencia de la clase a #psalms_119_9 sostiene una exhortación relacionada:
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el campo semántico de **מתוק** en #ecclesiastes_11_7, #isaiah_5_20 y Proverbios antes de establecer una equivalencia estable entre dulzura, luz, vida y sabiduría.
+- [ ] Cotejar el campo semántico de **מתוק** en #eclesiastes_11_7, #isaias_5_20 y Proverbios antes de establecer una equivalencia estable entre dulzura, luz, vida y sabiduría.
 - [ ] Verificar las afirmaciones históricas de la clase sobre el consumo y comercio antiguo del azúcar y sobre la preservación de cuerpos con miel.
-- [ ] Examinar **בחור**, **ילדות** y **שחרות** en #ecclesiastes_11_9-10 con léxicos, gramáticas y comentaristas antes de traducirlos como autonomía, subordinación o libertad en sentido técnico.
-- [ ] Cotejar la explicación de **כעס** y **רעה** en #ecclesiastes_11_10 con el contexto literario; no derivar de ella diagnósticos sobre tristeza, ansiedad o ira.
-- [ ] Estudiar las conexiones propuestas por la clase entre #ecclesiastes_11_7-10, #timothy2_3_14-15, #psalms_119_9 y otros textos antes de tratarlas como intertextos directos.
+- [ ] Examinar **בחור**, **ילדות** y **שחרות** en #eclesiastes_11_9-10 con léxicos, gramáticas y comentaristas antes de traducirlos como autonomía, subordinación o libertad en sentido técnico.
+- [ ] Cotejar la explicación de **כעס** y **רעה** en #eclesiastes_11_10 con el contexto literario; no derivar de ella diagnósticos sobre tristeza, ansiedad o ira.
+- [ ] Estudiar las conexiones propuestas por la clase entre #eclesiastes_11_7-10, #2_timoteo_3_14-15, #salmos_119_9 y otros textos antes de tratarlas como intertextos directos.
 
 ## Conclusión
 
@@ -116,7 +116,7 @@ Qohélet 11:7-10 reconoce la bondad de la luz y del gozo, pero no permite separa
 
 Esta nota se elaboró a partir de la enseñanza del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Qohélet-Eclesiastés (parte 28) Cap 11» — https://www.youtube.com/watch?v=tFXpEE15FBk (`source_id: youtube:tFXpEE15FBk`).
-- «Qoheleth-Ecclesiastes (Part 29) Ch. 11» — https://www.youtube.com/watch?v=_9DYcs67bd4 (`source_id: youtube:_9DYcs67bd4`).
+- «Qohélet-Eclesiastés (parte 28) Cap 11» — https://www.youtube.com/watch?v=tFXpEE15FBk (`source_id`: youtube:tFXpEE15FBk`).
+- «Qoheleth-Ecclesiastes (Part 29) Ch. 11» — https://www.youtube.com/watch?v=_9DYcs67bd4 (`source_id`: youtube:_9DYcs67bd4`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales del video.

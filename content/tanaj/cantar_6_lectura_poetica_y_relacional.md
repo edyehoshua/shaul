@@ -8,18 +8,18 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_6_1"
-  - "#songofsolomon_6_2"
-  - "#songofsolomon_6_3"
-  - "#songofsolomon_6_4"
-  - "#songofsolomon_6_5"
-  - "#songofsolomon_6_6"
-  - "#songofsolomon_6_7"
-  - "#songofsolomon_6_8"
-  - "#songofsolomon_6_9"
-  - "#songofsolomon_6_10"
-  - "#songofsolomon_6_11"
-  - "#songofsolomon_6_12"
+  - "#cantares_6_1"
+  - "#cantares_6_2"
+  - "#cantares_6_3"
+  - "#cantares_6_4"
+  - "#cantares_6_5"
+  - "#cantares_6_6"
+  - "#cantares_6_7"
+  - "#cantares_6_8"
+  - "#cantares_6_9"
+  - "#cantares_6_10"
+  - "#cantares_6_11"
+  - "#cantares_6_12"
 sources:
   - "https://www.youtube.com/watch?v=MnKlMxn8VPE"
   - "https://www.youtube.com/watch?v=U3avoFhFYWU"
@@ -42,7 +42,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                | Observación                                                                                                                         |
 | ------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_6_1 | **אנה הלך דודך היפה בנשים אנה פנה דודך ונבקשנו עמך** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_6_1 | **אנה הלך דודך היפה בנשים אנה פנה דודך ונבקשנו עמך** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -64,7 +64,7 @@ Cantar 6 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 19) Cap 6» — https://www.youtube.com/watch?v=MnKlMxn8VPE (`source_id: youtube:MnKlMxn8VPE`).
-- «Shir hashirim (parte 20) Cap 6 final» — https://www.youtube.com/watch?v=U3avoFhFYWU (`source_id: youtube:U3avoFhFYWU`).
+- «Shir hashirim (parte 19) Cap 6» — https://www.youtube.com/watch?v=MnKlMxn8VPE (`source_id`: youtube:MnKlMxn8VPE`).
+- «Shir hashirim (parte 20) Cap 6 final» — https://www.youtube.com/watch?v=U3avoFhFYWU (`source_id`: youtube:U3avoFhFYWU`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 21:21-31 sobre perseguir justicia y bondad, ven
 date: 2026-08-05
 tags: [mishlei, mishlei_21, justicia, bondad, victoria, liberacion]
 references:
-  - "#mishlei_21_21"
-  - "#mishlei_21_22"
-  - "#mishlei_21_23"
-  - "#mishlei_21_24"
-  - "#mishlei_21_25"
-  - "#mishlei_21_26"
-  - "#mishlei_21_27"
-  - "#mishlei_21_28"
-  - "#mishlei_21_29"
-  - "#mishlei_21_30"
-  - "#mishlei_21_31"
+  - "#proverbios_21_21"
+  - "#proverbios_21_22"
+  - "#proverbios_21_23"
+  - "#proverbios_21_24"
+  - "#proverbios_21_25"
+  - "#proverbios_21_26"
+  - "#proverbios_21_27"
+  - "#proverbios_21_28"
+  - "#proverbios_21_29"
+  - "#proverbios_21_30"
+  - "#proverbios_21_31"
   - "#salmos_23_6"
   - "#romanos_8_17"
 sources:
@@ -38,17 +38,17 @@ Esta nota organiza la clase pública sobre Mishlei 21:21-31. Se sigue la unidad 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_21_21 | רדף צדקה וחסד ימצא חיים צדקה וכבוד | El que persigue la justicia y la bondad, hallará vida, justificación y honra. |
-| #mishlei_21_22 | עיר גברים עלה חכם וירד עז מבטחה | El sabio subió a la ciudad de los poderosos, e hizo descender la fuerza de su confianza. |
-| #mishlei_21_23 | שמר פיו ולשונו שמר מצרות נפשו | El que guarda su boca y su lengua guarda de estrecheces su vida. |
-| #mishlei_21_24 | זד יהיר לץ שמו עושה בעברת זדון | Insolente, altivo, burlador es su nombre, actúa con desborde de insolencia. |
-| #mishlei_21_25 | תאות עצל תמיתנו כי מאנו ידיו לעשות | El deseo del perezoso lo hará morir, porque rechazan sus manos el hacer. |
-| #mishlei_21_26 | כל היום התאוה תאוה וצדיק יתן ולא יחשך | Todo el día codicia un deseo, pero el justo da, y no retiene. |
-| #mishlei_21_27 | זבח רשעים תועבה אף כי בזמה יביאנו | El sacrificio de los condenados es abominación, ¡cuánto más cuando lo traen con artimaña! |
-| #mishlei_21_28 | עד כזבים יאבד ואיש שומע לנצח ידבר | El testigo de mentiras perecerá, y el hombre que escucha para siempre (o, para victoria) hablará. |
-| #mishlei_21_29 | העז איש רשע בפניו וישר הוא יכין יבין דרכו | El hombre condenado se fortalece con su rostro, pero el recto establecerá (o, entenderá) sus caminos. |
-| #mishlei_21_30 | אין חכמה ואין תבונה ואין עצה לנגד יהוה | No hay sabiduría, ni hay entendimiento, ni hay consejo, en oposición a יהוה. |
-| #mishlei_21_31 | סוס מוכן ליום מלחמה ולהוה התשועה | El caballo se establece para el día de la guerra, pero de יהוה es la liberación. |
+| #proverbios_21_21 | רדף צדקה וחסד ימצא חיים צדקה וכבוד | El que persigue la justicia y la bondad, hallará vida, justificación y honra. |
+| #proverbios_21_22 | עיר גברים עלה חכם וירד עז מבטחה | El sabio subió a la ciudad de los poderosos, e hizo descender la fuerza de su confianza. |
+| #proverbios_21_23 | שמר פיו ולשונו שמר מצרות נפשו | El que guarda su boca y su lengua guarda de estrecheces su vida. |
+| #proverbios_21_24 | זד יהיר לץ שמו עושה בעברת זדון | Insolente, altivo, burlador es su nombre, actúa con desborde de insolencia. |
+| #proverbios_21_25 | תאות עצל תמיתנו כי מאנו ידיו לעשות | El deseo del perezoso lo hará morir, porque rechazan sus manos el hacer. |
+| #proverbios_21_26 | כל היום התאוה תאוה וצדיק יתן ולא יחשך | Todo el día codicia un deseo, pero el justo da, y no retiene. |
+| #proverbios_21_27 | זבח רשעים תועבה אף כי בזמה יביאנו | El sacrificio de los condenados es abominación, ¡cuánto más cuando lo traen con artimaña! |
+| #proverbios_21_28 | עד כזבים יאבד ואיש שומע לנצח ידבר | El testigo de mentiras perecerá, y el hombre que escucha para siempre (o, para victoria) hablará. |
+| #proverbios_21_29 | העז איש רשע בפניו וישר הוא יכין יבין דרכו | El hombre condenado se fortalece con su rostro, pero el recto establecerá (o, entenderá) sus caminos. |
+| #proverbios_21_30 | אין חכמה ואין תבונה ואין עצה לנגד יהוה | No hay sabiduría, ni hay entendimiento, ni hay consejo, en oposición a יהוה. |
+| #proverbios_21_31 | סוס מוכן ליום מלחמה ולהוה התשועה | El caballo se establece para el día de la guerra, pero de יהוה es la liberación. |
 
 ## Perseguir justicia y bondad: v. 21
 

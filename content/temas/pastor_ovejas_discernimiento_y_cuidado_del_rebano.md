@@ -9,14 +9,14 @@ tags:
   - ezequiel
   - hebreos
 references:
-  - "#bereshit_21_33"
-  - "#ivrim_13_20"
-  - "#yirmeyahu_3_15"
-  - "#yehezqel_34_1"
-  - "#yehezqel_34_17"
-  - "#iojanan_10_1"
-  - "#iojanan_10_11"
-  - "#hitgalut_2_5"
+  - "#genesis_21_33"
+  - "#hebreos_13_20"
+  - "#jeremias_3_15"
+  - "#ezequiel_34_1"
+  - "#ezequiel_34_17"
+  - "#juan_10_1"
+  - "#juan_10_11"
+  - "#apocalipsis_2_5"
 sources:
   - "https://www.youtube.com/watch?v=QvmWSGo6qZU"
 source_ids:
@@ -36,22 +36,22 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza y la cont
 
 | Referencia         | Texto o núcleo local                                                                                 | Función en la enseñanza                                                                               |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #bereshit_21_33    | Abraham invoca allí el nombre de יהוה, Dios eterno                                                   | La clase abre con El Olam como nombre que recuerda que Dios no queda sometido a nuestras previsiones. |
-| #ivrim_13_20       | Dios de paz levanta de los muertos al gran Pastor de las ovejas por la sangre de una alianza eterna  | La resurrección y la alianza fundamentan el pastoreo del Mesías.                                      |
-| #yirmeyahu_3_15    | Dios promete pastores según su corazón, que apacienten con conocimiento y discernimiento             | El encargo pastoral no es solo autoridad: requiere comunión y capacidad de juzgar bien.               |
-| #yehezqel_34_1-10  | Los pastores que se apacientan a sí mismos son reprendidos por no fortalecer, curar, vendar y buscar | El bienestar del rebaño es la prueba concreta del liderazgo.                                          |
-| #yehezqel_34_17-22 | יהוה juzga entre oveja y oveja, entre la gorda y la flaca                                            | También las ovejas pueden perjudicar a otras al pisotear el pasto y enturbiar el agua.                |
-| #iojanan_10_1-11   | Yehoshua es la puerta y el buen pastor que da su vida por las ovejas                                 | La puerta y el sacrificio ofrecen el criterio mesiánico para reconocer el pastoreo verdadero.         |
+| #genesis_21_33    | Abraham invoca allí el nombre de יהוה, Dios eterno                                                   | La clase abre con El Olam como nombre que recuerda que Dios no queda sometido a nuestras previsiones. |
+| #hebreos_13_20       | Dios de paz levanta de los muertos al gran Pastor de las ovejas por la sangre de una alianza eterna  | La resurrección y la alianza fundamentan el pastoreo del Mesías.                                      |
+| #jeremias_3_15    | Dios promete pastores según su corazón, que apacienten con conocimiento y discernimiento             | El encargo pastoral no es solo autoridad: requiere comunión y capacidad de juzgar bien.               |
+| #ezequiel_34_1-10  | Los pastores que se apacientan a sí mismos son reprendidos por no fortalecer, curar, vendar y buscar | El bienestar del rebaño es la prueba concreta del liderazgo.                                          |
+| #ezequiel_34_17-22 | יהוה juzga entre oveja y oveja, entre la gorda y la flaca                                            | También las ovejas pueden perjudicar a otras al pisotear el pasto y enturbiar el agua.                |
+| #juan_10_1-11   | Yehoshua es la puerta y el buen pastor que da su vida por las ovejas                                 | La puerta y el sacrificio ofrecen el criterio mesiánico para reconocer el pastoreo verdadero.         |
 
 ## Léxico clave
 
 | Forma         | Transliteración | Sentido ordinario                          | Fuerza contextual y calificación                                                                                                                                                                    |
 | ------------- | --------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **(עוֹלָם)**  | olam            | duración extensa, antigüedad o perpetuidad | En #bereshit_21_33, “eterno” es una traducción aproximada válida; la clase lo extiende pedagógicamente a la imprevisibilidad de Dios, matiz que el versículo por sí solo no afirma de forma exacta. |
+| **(עוֹלָם)**  | olam            | duración extensa, antigüedad o perpetuidad | En #genesis_21_33, “eterno” es una traducción aproximada válida; la clase lo extiende pedagógicamente a la imprevisibilidad de Dios, matiz que el versículo por sí solo no afirma de forma exacta. |
 | **(רֹעֶה)**   | roeh            | pastor, quien apacienta                    | En Jeremías y Ezequiel designa una función de cuidado y gobierno; no autoriza dominio para beneficio propio.                                                                                        |
 | **(דַּעַת)**  | daat            | conocimiento                               | La clase lo explica como comunión, apoyándose en el uso relacional bíblico. Es una aplicación contextual y no una equivalencia exclusiva: también puede significar conocimiento o comprensión.      |
 | **(בִּינָה)** | binah           | entendimiento, discernimiento              | “Discernimiento espiritual” comunica bien el contraste con mera acumulación de información, aunque es una calificación interpretativa del término.                                                  |
-| **(ποιμήν)**  | poimen          | pastor                                     | En #ivrim_13_20 y #iojanan_10 conecta cuidado, autoridad y entrega; el uso mesiánico se apoya en el contexto, no en la palabra aislada.                                                             |
+| **(ποιμήν)**  | poimen          | pastor                                     | En #hebreos_13_20 y #juan_10 conecta cuidado, autoridad y entrega; el uso mesiánico se apoya en el contexto, no en la palabra aislada.                                                             |
 | **(διαθήκη)** | diatheke        | pacto, alianza o testamento                | “Alianza eterna” es la lectura contextual de Hebreos; “testamento” es una aproximación posible, pero no debe convertir la promesa en una herencia sin obligaciones.                                 |
 
 ## El Olam y una fe que no exige predicción

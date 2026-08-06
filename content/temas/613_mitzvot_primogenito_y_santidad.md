@@ -8,11 +8,11 @@ tags:
   - primogenito
   - santidad
 references:
-  - "#deuteronomy_12_17-19"
-  - "#deuteronomy_12_23-28"
-  - "#deuteronomy_15_19-23"
-  - "#exodus_13_11-16"
-  - "#numbers_18_15-18"
+  - "#deuteronomio_12_17-19"
+  - "#deuteronomio_12_23-28"
+  - "#deuteronomio_15_19-23"
+  - "#exodo_13_11-16"
+  - "#numeros_18_15-18"
   - "#1_samuel_3_1-10"
 sources:
   - "https://www.youtube.com/watch?v=IJv0HaPaOdk"

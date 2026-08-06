@@ -4,14 +4,14 @@ description: "Estudio de Mishlei 22:1-8 sobre el nombre, la humildad, el discern
 date: 2026-08-05
 tags: [mishlei, mishlei_22, humildad, temor, disciplina, justicia]
 references:
-  - "#mishlei_22_1"
-  - "#mishlei_22_2"
-  - "#mishlei_22_3"
-  - "#mishlei_22_4"
-  - "#mishlei_22_5"
-  - "#mishlei_22_6"
-  - "#mishlei_22_7"
-  - "#mishlei_22_8"
+  - "#proverbios_22_1"
+  - "#proverbios_22_2"
+  - "#proverbios_22_3"
+  - "#proverbios_22_4"
+  - "#proverbios_22_5"
+  - "#proverbios_22_6"
+  - "#proverbios_22_7"
+  - "#proverbios_22_8"
   - "#romanos_8_17"
 sources:
   - "https://www.youtube.com/watch?v=lev-u2n8zzk"
@@ -34,14 +34,14 @@ Esta nota organiza la clase pública sobre Mishlei 22:1-8. Se sigue el orden de 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_22_1 | נבחר שם מעשר רב מכסף ומזהב חן טוב | Es escogido el nombre más que la mucha riqueza, más que la plata y que el oro, el favor bueno. |
-| #mishlei_22_2 | עשיר ורש נפגשו עשה כלם יהוה | El rico y el pobre se encuentran entre sí: el Hacedor de todos ellos es יהוה. |
-| #mishlei_22_3 | ערום ראה רעה ויסתר ופתיים עברו ונענשו | El astuto ve el mal y se esconde, pero los ingenuos pasan y son multados. |
-| #mishlei_22_4 | עקב ענוה יראת יהוה עשר וכבוד וחיים | La consecuencia de la humildad, el temor de יהוה, son riqueza, honra y vida. |
-| #mishlei_22_5 | צנים פחים בדרך עקש שומר נפשו ירחק מהם | Espinas y trampas hay en el camino del perverso, el que guarda su vida se alejará de ellas. |
-| #mishlei_22_6 | חנך לנער על פי דרכו גם כי יזקין לא יסור ממנה | Estrena al joven de acuerdo a su camino; aunque envejezca, no se apartará de él. |
-| #mishlei_22_7 | עשיר ברשים ימשול ועבד לוה לאיש מלוה | El rico sobre los pobres gobernará, y el esclavo es deudor del hombre acreedor. |
-| #mishlei_22_8 | זורע עולה יקצור און ושבט עברתו יכלה | El que siembra injusticia, cosechará vacuidad, y la vara de su desenfreno se consumará. |
+| #proverbios_22_1 | נבחר שם מעשר רב מכסף ומזהב חן טוב | Es escogido el nombre más que la mucha riqueza, más que la plata y que el oro, el favor bueno. |
+| #proverbios_22_2 | עשיר ורש נפגשו עשה כלם יהוה | El rico y el pobre se encuentran entre sí: el Hacedor de todos ellos es יהוה. |
+| #proverbios_22_3 | ערום ראה רעה ויסתר ופתיים עברו ונענשו | El astuto ve el mal y se esconde, pero los ingenuos pasan y son multados. |
+| #proverbios_22_4 | עקב ענוה יראת יהוה עשר וכבוד וחיים | La consecuencia de la humildad, el temor de יהוה, son riqueza, honra y vida. |
+| #proverbios_22_5 | צנים פחים בדרך עקש שומר נפשו ירחק מהם | Espinas y trampas hay en el camino del perverso, el que guarda su vida se alejará de ellas. |
+| #proverbios_22_6 | חנך לנער על פי דרכו גם כי יזקין לא יסור ממנה | Estrena al joven de acuerdo a su camino; aunque envejezca, no se apartará de él. |
+| #proverbios_22_7 | עשיר ברשים ימשול ועבד לוה לאיש מלוה | El rico sobre los pobres gobernará, y el esclavo es deudor del hombre acreedor. |
+| #proverbios_22_8 | זורע עולה יקצור און ושבט עברתו יכלה | El que siembra injusticia, cosechará vacuidad, y la vara de su desenfreno se consumará. |
 
 ## Un nombre mejor que la riqueza: vv. 1-2
 

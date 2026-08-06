@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 13:9-16 sobre recibir consejo, trabajar con int
 date: 2026-08-06
 tags: [mishlei, mishlei_13, prudencia, consejo, esperanza, torah]
 references:
-  - "#mishlei_13_9"
-  - "#mishlei_13_10"
-  - "#mishlei_13_11"
-  - "#mishlei_13_12"
-  - "#mishlei_13_13"
-  - "#mishlei_13_14"
-  - "#mishlei_13_15"
-  - "#mishlei_13_16"
-  - "#tehilim_19_13"
-  - "#tehilim_119_21"
-  - "#tehilim_119_51"
+  - "#proverbios_13_9"
+  - "#proverbios_13_10"
+  - "#proverbios_13_11"
+  - "#proverbios_13_12"
+  - "#proverbios_13_13"
+  - "#proverbios_13_14"
+  - "#proverbios_13_15"
+  - "#proverbios_13_16"
+  - "#salmos_19_13"
+  - "#salmos_119_21"
+  - "#salmos_119_51"
   - "#apocalipsis_22_17"
 sources:
   - "https://www.youtube.com/watch?v=GCWtFGTvESw"
@@ -37,14 +37,14 @@ Esta nota organiza la clase pública de Eric de Jesús Rodríguez Mendoza sobre 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_13_9 | אור צדיקים ישמח ונר רשעים ידעך | La Luz de los justos se alegrará, pero la lámpara de los condenados se apagará. |
-| #mishlei_13_10 | רק בזדון יתן מצה ואת נועצים חכמה | Solo por la insolencia es dada contienda, pero con los que toman consejo hay sabiduría. |
-| #mishlei_13_11 | הון מהבל ימעט וקבץ על יד ירבה | La riqueza que viene del vapor disminuirá, pero el que recoge con la mano aumentará. |
-| #mishlei_13_12 | תוחלת ממשכה מחלה לב ועץ חיים תאוה באה | La espera que se alarga enferma el corazón, pero árbol de vida es el deseo venidero. |
-| #mishlei_13_13 | בז לדבר יחבל לו וירא מצוה הוא ישלם | El que despreció la palabra, se le tomará como promesa, pero el que teme el mandamiento será retribuido. |
-| #mishlei_13_14 | תורת חכם מקור חיים לסור ממקשי מות | La Torah del Sabio es fuente de vida, para apartarse de los lazos de la muerte. |
-| #mishlei_13_15 | שכל טוב יתן חן ודרך בגדים איתן | La buena prudencia dará favor, pero el camino de los traicioneros, su calamidad. |
-| #mishlei_13_16 | כל ערום יעשה בדעת וכסיל יפרש אולת | Todo astuto hará con conocimiento, pero el torpe esparce tontería. |
+| #proverbios_13_9 | אור צדיקים ישמח ונר רשעים ידעך | La Luz de los justos se alegrará, pero la lámpara de los condenados se apagará. |
+| #proverbios_13_10 | רק בזדון יתן מצה ואת נועצים חכמה | Solo por la insolencia es dada contienda, pero con los que toman consejo hay sabiduría. |
+| #proverbios_13_11 | הון מהבל ימעט וקבץ על יד ירבה | La riqueza que viene del vapor disminuirá, pero el que recoge con la mano aumentará. |
+| #proverbios_13_12 | תוחלת ממשכה מחלה לב ועץ חיים תאוה באה | La espera que se alarga enferma el corazón, pero árbol de vida es el deseo venidero. |
+| #proverbios_13_13 | בז לדבר יחבל לו וירא מצוה הוא ישלם | El que despreció la palabra, se le tomará como promesa, pero el que teme el mandamiento será retribuido. |
+| #proverbios_13_14 | תורת חכם מקור חיים לסור ממקשי מות | La Torah del Sabio es fuente de vida, para apartarse de los lazos de la muerte. |
+| #proverbios_13_15 | שכל טוב יתן חן ודרך בגדים איתן | La buena prudencia dará favor, pero el camino de los traicioneros, su calamidad. |
+| #proverbios_13_16 | כל ערום יעשה בדעת וכסיל יפרש אולת | Todo astuto hará con conocimiento, pero el torpe esparce tontería. |
 
 ## Insolencia y consejo
 
@@ -79,10 +79,10 @@ El verso 15 concluye que la buena prudencia da favor, pero que el camino de los 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_13_9-10 | La luz permanece, la lámpara se apaga; la insolencia se infla contra la Torah y produce contienda, mientras el consejo da sabiduría. | Contraste textual apoyado; etimología de _zadón_ y conexión mesiánica cualificadas. |
-| #mishlei_13_11-12 | La riqueza vaporosa disminuye; el trabajo paciente aumenta; la espera carnal enferma, pero el deseo venidero es árbol de vida. | Imágenes textuales apoyadas; aplicación al reino, Yehoshua y Apocalipsis cualificada. |
-| #mishlei_13_13-14 | Despreciar la palabra compromete al hombre; temer el mandamiento trae retribución; la Torah del Sabio es fuente de vida. | Texto y distinción Torah/salvación apoyados; lectura de promesa como voto pendiente. |
-| #mishlei_13_15-16 | La prudencia da favor; el traicionero encuentra calamidad; el astuto actúa desde conocimiento vivido y el torpe esparce tontería. | Desarrollo textual apoyado; emendación de una letra en 13:15 pendiente. |
+| #proverbios_13_9-10 | La luz permanece, la lámpara se apaga; la insolencia se infla contra la Torah y produce contienda, mientras el consejo da sabiduría. | Contraste textual apoyado; etimología de _zadón_ y conexión mesiánica cualificadas. |
+| #proverbios_13_11-12 | La riqueza vaporosa disminuye; el trabajo paciente aumenta; la espera carnal enferma, pero el deseo venidero es árbol de vida. | Imágenes textuales apoyadas; aplicación al reino, Yehoshua y Apocalipsis cualificada. |
+| #proverbios_13_13-14 | Despreciar la palabra compromete al hombre; temer el mandamiento trae retribución; la Torah del Sabio es fuente de vida. | Texto y distinción Torah/salvación apoyados; lectura de promesa como voto pendiente. |
+| #proverbios_13_15-16 | La prudencia da favor; el traicionero encuentra calamidad; el astuto actúa desde conocimiento vivido y el torpe esparce tontería. | Desarrollo textual apoyado; emendación de una letra en 13:15 pendiente. |
 
 ## Pendiente de verificar
 

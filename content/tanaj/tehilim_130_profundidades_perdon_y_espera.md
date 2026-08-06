@@ -9,12 +9,12 @@ tags:
   - "redencion"
   - "esperanza"
 references:
-  - "#tehilim_130_1"
-  - "#tehilim_130_2"
-  - "#tehilim_130_4"
-  - "#tehilim_130_5"
-  - "#tehilim_130_7"
-  - "#tehilim_130_8"
+  - "#salmos_130_1"
+  - "#salmos_130_2"
+  - "#salmos_130_4"
+  - "#salmos_130_5"
+  - "#salmos_130_7"
+  - "#salmos_130_8"
 sources:
   - "https://www.youtube.com/watch?v=bFnPszXLQY0"
   - "docs/scriptures/oe/json/psalms/130.json"
@@ -34,11 +34,11 @@ La sesión pública «Tehilim/Himnos/Salmo Cap 130» explica el título como cá
 
 | Referencia       | Texto local hebreo sin nikud                                                    | Movimiento del poema                                                       |
 | ---------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #tehilim_130_1   | שיר המעלות ממעמקים קראתי יהוה                                                   | El orante clama desde las profundidades.                                   |
-| #tehilim_130_2   | אדני שמעה בקולי תהיינה אזניך קשבות לקול תחנוני                                  | Pide oído atento a su súplica.                                             |
-| #tehilim_130_3-4 | אם עונות תשמר יה מי יעמד כי עמך הסליחה למען תורא                                | La imposibilidad humana abre hacia perdón y temor.                         |
-| #tehilim_130_5-6 | קויתי יהוה קותה נפשי ולדברו הוחלתי נפשי לאדני משמרים לבקר שמרים לבקר            | La persona espera en יהוה y su palabra como el vigilante espera la mañana. |
-| #tehilim_130_7-8 | יחל ישראל אל יהוה כי עם יהוה החסד והרבה עמו פדות והוא יפדה את ישראל מכל עונותיו | La espera individual se vuelve llamado a Israel y redención.               |
+| #salmos_130_1   | שיר המעלות ממעמקים קראתי יהוה                                                   | El orante clama desde las profundidades.                                   |
+| #salmos_130_2   | אדני שמעה בקולי תהיינה אזניך קשבות לקול תחנוני                                  | Pide oído atento a su súplica.                                             |
+| #salmos_130_3-4 | אם עונות תשמר יה מי יעמד כי עמך הסליחה למען תורא                                | La imposibilidad humana abre hacia perdón y temor.                         |
+| #salmos_130_5-6 | קויתי יהוה קותה נפשי ולדברו הוחלתי נפשי לאדני משמרים לבקר שמרים לבקר            | La persona espera en יהוה y su palabra como el vigilante espera la mañana. |
+| #salmos_130_7-8 | יחל ישראל אל יהוה כי עם יהוה החסד והרבה עמו פדות והוא יפדה את ישראל מכל עונותיו | La espera individual se vuelve llamado a Israel y redención.               |
 
 ## Hoja léxica
 
@@ -95,5 +95,5 @@ Tehilim 130 no niega la profundidad: desde ella manda clamar. Tampoco presenta e
 
 ## Créditos
 
-- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 130» — <https://www.youtube.com/watch?v=bFnPszXLQY0> — source_id: `youtube:bFnPszXLQY0`.
+- **hermano Eric de Jesús Rodríguez Mendoza** — «Tehilim/Himnos/Salmo Cap 130» — <https://www.youtube.com/watch?v=bFnPszXLQY0> — `source_id`: `youtube:bFnPszXLQY0`.
 - La transcripción automática se usa como apoyo de estudio y atribución; no se presenta como cita literal ni como transcripción revisada por el expositor.

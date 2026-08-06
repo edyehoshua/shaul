@@ -9,12 +9,12 @@ tags:
   - shaliach
   - asamblea
 references:
-  - "#ephesians_1_1"
-  - "#ephesians_1_2"
-  - "#corinthians2_5_16"
-  - "#corinthians2_5_17"
-  - "#corinthians2_5_18"
-  - "#corinthians2_5_19"
+  - "#efesios_1_1"
+  - "#efesios_1_2"
+  - "#2_corintios_5_16"
+  - "#2_corintios_5_17"
+  - "#2_corintios_5_18"
+  - "#2_corintios_5_19"
 sources:
   - "https://www.youtube.com/watch?v=mHq0_otBxoM"
   - "docs/scriptures/delitzsch/json/ephesians.json"
@@ -36,12 +36,12 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | The RECONCILIAT
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #ephesians_1_1 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃** | Pablo se identifica como enviado del Mesías y dirige la carta a los apartados que confían en él. |
-| #ephesians_1_2 | **חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח׃** | El saludo procede de Elohim Padre y de Yehoshua el Mesías: favor y paz. |
-| #corinthians2_5_16 | **לכן מעתה אנחנו לא־נדע איש מן־הבשר וגם אם־ידענו את־המשיח מן־הבשר מעתה לא־נדעהו עוד׃** | La reconciliación cambia la forma de conocer al Mesías. |
-| #corinthians2_5_17 | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃** | La clase conecta la reconciliación con nueva creación. |
-| #corinthians2_5_18 | **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃** | La reconciliación procede de Elohim en el Mesías y se convierte en encargo. |
-| #corinthians2_5_19 | **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃** | Elohim reconcilia al mundo consigo en el Mesías y confía el mensaje. |
+| #efesios_1_1 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃** | Pablo se identifica como enviado del Mesías y dirige la carta a los apartados que confían en él. |
+| #efesios_1_2 | **חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח׃** | El saludo procede de Elohim Padre y de Yehoshua el Mesías: favor y paz. |
+| #2_corintios_5_16 | **לכן מעתה אנחנו לא־נדע איש מן־הבשר וגם אם־ידענו את־המשיח מן־הבשר מעתה לא־נדעהו עוד׃** | La reconciliación cambia la forma de conocer al Mesías. |
+| #2_corintios_5_17 | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃** | La clase conecta la reconciliación con nueva creación. |
+| #2_corintios_5_18 | **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃** | La reconciliación procede de Elohim en el Mesías y se convierte en encargo. |
+| #2_corintios_5_19 | **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃** | Elohim reconcilia al mundo consigo en el Mesías y confía el mensaje. |
 
 ## Una carta que puede servir a varias asambleas
 
@@ -74,10 +74,10 @@ La conexión con 2 Corintios 5:16-19 ilumina el argumento: en el Mesías hay nue
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #ephesians_1_1 | La carta comienza con Pablo como enviado del Mesías, no como titular de una jerarquía moderna. | Apoyo textual y aclaración léxica; la historia de los títulos queda cualificada. |
-| #ephesians_1_1; #colossians_4_16 | La mención de Éfeso y los paralelos con Colosenses pueden apuntar a una carta circular para asambleas de Asia. | Inferencia histórica atribuida; pendiente de cotejo manuscrito. |
-| #ephesians_1_1-2 | «Por la voluntad» se enseña como inserción de Pablo en la reconciliación y aceptación de Elohim, no como individualismo espiritual. | Apoyo contextual; el alcance de **(רצון)** se presenta como aproximado. |
-| #corinthians2_5_16-19 | La reconciliación se conecta con nueva creación y con un encargo de anunciarla. | Conexión textual; se evita presentar la clase como cita literal. |
+| #efesios_1_1 | La carta comienza con Pablo como enviado del Mesías, no como titular de una jerarquía moderna. | Apoyo textual y aclaración léxica; la historia de los títulos queda cualificada. |
+| #efesios_1_1; #colosenses_4_16 | La mención de Éfeso y los paralelos con Colosenses pueden apuntar a una carta circular para asambleas de Asia. | Inferencia histórica atribuida; pendiente de cotejo manuscrito. |
+| #efesios_1_1-2 | «Por la voluntad» se enseña como inserción de Pablo en la reconciliación y aceptación de Elohim, no como individualismo espiritual. | Apoyo contextual; el alcance de **(רצון)** se presenta como aproximado. |
+| #2_corintios_5_16-19 | La reconciliación se conecta con nueva creación y con un encargo de anunciarla. | Conexión textual; se evita presentar la clase como cita literal. |
 
 ## Pendiente de verificar
 

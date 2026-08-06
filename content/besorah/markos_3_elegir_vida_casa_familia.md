@@ -12,43 +12,43 @@ tags:
   - familia
   - mesias
 references:
-  - "#markos_3_1"
-  - "#markos_3_2"
-  - "#markos_3_3"
-  - "#markos_3_4"
-  - "#markos_3_5"
-  - "#markos_3_6"
-  - "#markos_3_7"
-  - "#markos_3_8"
-  - "#markos_3_9"
-  - "#markos_3_10"
-  - "#markos_3_11"
-  - "#markos_3_12"
-  - "#markos_3_13"
-  - "#markos_3_14"
-  - "#markos_3_15"
-  - "#markos_3_16"
-  - "#markos_3_17"
-  - "#markos_3_18"
-  - "#markos_3_19"
-  - "#markos_3_20"
-  - "#markos_3_21"
-  - "#markos_3_22"
-  - "#markos_3_23"
-  - "#markos_3_24"
-  - "#markos_3_25"
-  - "#markos_3_26"
-  - "#markos_3_27"
-  - "#markos_3_28"
-  - "#markos_3_29"
-  - "#markos_3_30"
-  - "#markos_3_31"
-  - "#markos_3_32"
-  - "#markos_3_33"
-  - "#markos_3_34"
-  - "#markos_3_35"
-  - "#devarim_30_19"
-  - "#nejemiah_9_33"
+  - "#marcos_3_1"
+  - "#marcos_3_2"
+  - "#marcos_3_3"
+  - "#marcos_3_4"
+  - "#marcos_3_5"
+  - "#marcos_3_6"
+  - "#marcos_3_7"
+  - "#marcos_3_8"
+  - "#marcos_3_9"
+  - "#marcos_3_10"
+  - "#marcos_3_11"
+  - "#marcos_3_12"
+  - "#marcos_3_13"
+  - "#marcos_3_14"
+  - "#marcos_3_15"
+  - "#marcos_3_16"
+  - "#marcos_3_17"
+  - "#marcos_3_18"
+  - "#marcos_3_19"
+  - "#marcos_3_20"
+  - "#marcos_3_21"
+  - "#marcos_3_22"
+  - "#marcos_3_23"
+  - "#marcos_3_24"
+  - "#marcos_3_25"
+  - "#marcos_3_26"
+  - "#marcos_3_27"
+  - "#marcos_3_28"
+  - "#marcos_3_29"
+  - "#marcos_3_30"
+  - "#marcos_3_31"
+  - "#marcos_3_32"
+  - "#marcos_3_33"
+  - "#marcos_3_34"
+  - "#marcos_3_35"
+  - "#deuteronomio_30_19"
+  - "#nehemias_9_33"
 sources:
   - "https://www.youtube.com/watch?v=okx3HZGjZk8"
   - "docs/scriptures/tth/json/markos.json"
@@ -70,7 +70,7 @@ El resto del capítulo amplía la misma prueba. Los Doce son llamados primero **
 
 - Fuente principal: transcripción automática de **“Evangelio según Marco parte 15 cap 3 Pero elegirás la vida uvajartá bajayim”**, clase de Eric de Jesús Rodríguez Mendoza publicada el 12 de marzo de 2016 (1:08:13).
 - La nota organiza la exposición completa de Marcos 3 y no reproduce como citas exactas todas las formulaciones orales.
-- El corpus local fue comprobado con `npm run scriptures:ensure` el 17 de julio de 2026.
+- El corpus local fue comprobado el 17 de julio de 2026.
 - Las afirmaciones históricas sobre fariseos, herodianos, zelotes, sicarios y prácticas de exorcismo se conservan como contexto de la clase, pero no como hechos cerrados sin fuente primaria.
 - Las reconstrucciones arameas, la hipótesis de un original hebreo/arameo de Marcos y varias etimologías quedan pendientes de cotejo lingüístico.
 
@@ -90,32 +90,32 @@ El resto del capítulo amplía la misma prueba. Los Doce son llamados primero **
 
 | Referencia      | Texto local                                                                                                                                                    | Función en la clase                                                                                                                   |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| #markos_3_4     | TTH: “¿Es correcto hacer el bien en el Shabat o hacer el mal?, ¿salvar una persona o matarla?”. Delitzsch: **להיטיב או להרע להציל נפש או להמית**.              | La pregunta obliga a juzgar la interpretación del Shabbat por su relación con el bien y con la vida.                                  |
-| #markos_3_5-6   | TTH: Yehoshua se aflige por la ceguera de sus corazones, restaura la mano y, enseguida, los perushim acuerdan con los siervos de Horodós cómo hacerlo perecer. | El contraste narrativo es directo: Yehoshua restaura; sus acusadores planean destruir.                                                |
-| #devarim_30_19  | OE: העידתי בכם היום את השמים ואת הארץ החיים והמות נתתי לפניך הברכה והקללה ובחרת בחיים למען תחיה אתה וזרעך                                                      | Base de la frase que da título a la clase: **ובחרת בחיים**, “escogerás o escoge la vida”, para que vivan el oyente y su descendencia. |
-| #nejemiah_9_33  | OE: ואתה צדיק על כל הבא עלינו כי אמת עשית ואנחנו הרשענו                                                                                                        | Modelo de confesión: reconocer a la vez la justicia de יהוה y la maldad propia.                                                       |
-| #markos_3_10-12 | TTH: los enfermos procuran tocar a Yehoshua; los espíritus impuros caen ante él y dicen: “Tú eres el Hijo de Elohim”, pero él los retiene.                     | Una declaración verdadera en contenido no concede autoridad al espíritu que la pronuncia.                                             |
-| #markos_3_13-15 | TTH: llamó a aquellos en quienes halló complacencia, “hizo doce” para que estuvieran con él y para enviarlos a anunciar, sanar y sacar demonios.               | El orden del discipulado es presencia, envío y autoridad recibida.                                                                    |
-| #markos_3_20-21 | TTH: la multitud no les permitía comer; sus conocidos salieron a agarrarlo porque decían que estaba “rugiendo”.                                                | La clase lee a “los suyos” en continuidad con la familia que vuelve a aparecer en los vv. 31-35.                                      |
-| #markos_3_22-26 | TTH: los escribas atribuyen las liberaciones a Baal Zebub; Yehoshua responde que un reino o una casa divididos contra sí mismos no pueden permanecer.          | La acusación falla por incoherencia: HaSatán no expulsa a HaSatán para destruir su propio dominio.                                    |
-| #markos_3_27    | Delitzsch: אין איש יכל לבוא לבית הגבור ולגזל את כליו אם לא יאסר בראשונה את הגבור                                                                               | La casa del fuerte presenta la liberación como confrontación y despojo de un dominio, no como cooperación entre poderes impuros.      |
-| #markos_3_29-30 | TTH: quien injuria al Ruaj HaKódesh queda culpable para juicio perpetuo, “porque ellos decían: Tiene un espíritu impuro”.                                      | El narrador identifica la injuria concreta: llamar impura a la obra que estaba liberando y restaurando.                               |
-| #markos_3_31-35 | TTH: Yehoshua mira a quienes están sentados alrededor y declara que quien hace la voluntad de Elohim es su hermano, hermana y madre.                           | La familia mesiánica se reconoce por obediencia y cercanía discipular, no solamente por parentesco.                                   |
+| #marcos_3_4     | TTH: “¿Es correcto hacer el bien en el Shabat o hacer el mal?, ¿salvar una persona o matarla?”. Delitzsch: **להיטיב או להרע להציל נפש או להמית**.              | La pregunta obliga a juzgar la interpretación del Shabbat por su relación con el bien y con la vida.                                  |
+| #marcos_3_5-6   | TTH: Yehoshua se aflige por la ceguera de sus corazones, restaura la mano y, enseguida, los perushim acuerdan con los siervos de Horodós cómo hacerlo perecer. | El contraste narrativo es directo: Yehoshua restaura; sus acusadores planean destruir.                                                |
+| #deuteronomio_30_19  | OE: העידתי בכם היום את השמים ואת הארץ החיים והמות נתתי לפניך הברכה והקללה ובחרת בחיים למען תחיה אתה וזרעך                                                      | Base de la frase que da título a la clase: **ובחרת בחיים**, “escogerás o escoge la vida”, para que vivan el oyente y su descendencia. |
+| #nehemias_9_33  | OE: ואתה צדיק על כל הבא עלינו כי אמת עשית ואנחנו הרשענו                                                                                                        | Modelo de confesión: reconocer a la vez la justicia de יהוה y la maldad propia.                                                       |
+| #marcos_3_10-12 | TTH: los enfermos procuran tocar a Yehoshua; los espíritus impuros caen ante él y dicen: “Tú eres el Hijo de Elohim”, pero él los retiene.                     | Una declaración verdadera en contenido no concede autoridad al espíritu que la pronuncia.                                             |
+| #marcos_3_13-15 | TTH: llamó a aquellos en quienes halló complacencia, “hizo doce” para que estuvieran con él y para enviarlos a anunciar, sanar y sacar demonios.               | El orden del discipulado es presencia, envío y autoridad recibida.                                                                    |
+| #marcos_3_20-21 | TTH: la multitud no les permitía comer; sus conocidos salieron a agarrarlo porque decían que estaba “rugiendo”.                                                | La clase lee a “los suyos” en continuidad con la familia que vuelve a aparecer en los vv. 31-35.                                      |
+| #marcos_3_22-26 | TTH: los escribas atribuyen las liberaciones a Baal Zebub; Yehoshua responde que un reino o una casa divididos contra sí mismos no pueden permanecer.          | La acusación falla por incoherencia: HaSatán no expulsa a HaSatán para destruir su propio dominio.                                    |
+| #marcos_3_27    | Delitzsch: אין איש יכל לבוא לבית הגבור ולגזל את כליו אם לא יאסר בראשונה את הגבור                                                                               | La casa del fuerte presenta la liberación como confrontación y despojo de un dominio, no como cooperación entre poderes impuros.      |
+| #marcos_3_29-30 | TTH: quien injuria al Ruaj HaKódesh queda culpable para juicio perpetuo, “porque ellos decían: Tiene un espíritu impuro”.                                      | El narrador identifica la injuria concreta: llamar impura a la obra que estaba liberando y restaurando.                               |
+| #marcos_3_31-35 | TTH: Yehoshua mira a quienes están sentados alrededor y declara que quien hace la voluntad de Elohim es su hermano, hermana y madre.                           | La familia mesiánica se reconoce por obediencia y cercanía discipular, no solamente por parentesco.                                   |
 
 ## Léxico clave
 
 | Forma                           | Transliteración         | Uso en la nota                                               | Tipo de relación                                                                                      | Cautela                                                                                                                                                                                                                                                                                                    |
 | ------------------------------- | ----------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **(שבת)**                       | Shabbat                 | cesar, suspender una actividad                               | Aproximada                                                                                            | La raíz ayuda a explicar el término, pero no define por sí sola todas las obras permitidas o prohibidas.                                                                                                                                                                                                   |
-| **(ובחרת בחיים)**               | uvajarta bajayim        | escogerás o escoge la vida                                   | Textual en #devarim_30_19                                                                             | **וּבָחַרְתָּ** es una forma de segunda persona masculina singular con וְ; en esta serie exhortativa puede traducirse «escoge» aunque su forma no sea un imperativo simple. **בַּחַיִּים** es «en la vida» y da el ámbito de la elección; la sintaxis no debe reducirse a una oposición “futuro o pasado”. |
+| **(ובחרת בחיים)**               | uvajarta bajayim        | escogerás o escoge la vida                                   | Textual en #deuteronomio_30_19                                                                             | **וּבָחַרְתָּ** es una forma de segunda persona masculina singular con וְ; en esta serie exhortativa puede traducirse «escoge» aunque su forma no sea un imperativo simple. **בַּחַיִּים** es «en la vida» y da el ámbito de la elección; la sintaxis no debe reducirse a una oposición “futuro o pasado”. |
 | **(קל וחומר)**                  | qal vajómer             | ligero y pesado; razonamiento “cuánto más”                   | Pedagógica                                                                                            | La clase lo aplica a la prioridad de la vida. Conviene distinguir el método inferencial del principio jurídico específico que se quiera demostrar.                                                                                                                                                         |
-| **(קשי לבבם)**                  | qeshi levavam           | dureza de corazón                                            | Exacta en Delitzsch de #markos_3_5                                                                    | TTH vierte “ceguera de sus corazones”; ambos testigos hacen visible el problema interior.                                                                                                                                                                                                                  |
+| **(קשי לבבם)**                  | qeshi levavam           | dureza de corazón                                            | Exacta en Delitzsch de #marcos_3_5                                                                    | TTH vierte “ceguera de sus corazones”; ambos testigos hacen visible el problema interior.                                                                                                                                                                                                                  |
 | **(כיפא)**                      | Kefa                    | roca o piedra; sobrenombre de Shimón                         | Aproximada                                                                                            | La forma y su relación exacta con arameo, hebreo y griego deben cotejarse en testigos lingüísticos.                                                                                                                                                                                                        |
 | **(בני רגש)** y **(Βοανηργές)** | bene regesh y Boanergés | “hijos del estruendo o trueno”                               | Disputada                                                                                             | TTH conserva “Hijos del Estruendo”; la reconstrucción aramea ofrecida oralmente no quedó clara en la transcripción.                                                                                                                                                                                        |
 | **(תומא)**                      | Toma                    | gemelo                                                       | Aproximada                                                                                            | El valor semítico del sobrenombre es plausible; verificar la forma aramea exacta.                                                                                                                                                                                                                          |
 | **(שטן)**                       | satán                   | adversario o acusador                                        | Aproximada                                                                                            | El título, el nombre y sus formas hebreas, arameas y griegas no deben mezclarse sin análisis textual.                                                                                                                                                                                                      |
-| **(רוח הקדש)**                  | Ruaj HaKódesh           | Espíritu de santidad o poder santo de Elohim                 | Textual en Delitzsch de #markos_3_29                                                                  | La clase lo parafrasea con “poder de Elohim”; la paráfrasis no agota el término.                                                                                                                                                                                                                           |
-| **(רצון האלהים)**               | retzón haElohim         | voluntad de Elohim                                           | Exacta en Delitzsch de #markos_3_35                                                                   | El versículo define la familia por hacer esa voluntad; la clase la conecta con la Torah escrita.                                                                                                                                                                                                           |
+| **(רוח הקדש)**                  | Ruaj HaKódesh           | Espíritu de santidad o poder santo de Elohim                 | Textual en Delitzsch de #marcos_3_29                                                                  | La clase lo parafrasea con “poder de Elohim”; la paráfrasis no agota el término.                                                                                                                                                                                                                           |
+| **(רצון האלהים)**               | retzón haElohim         | voluntad de Elohim                                           | Exacta en Delitzsch de #marcos_3_35                                                                   | El versículo define la familia por hacer esa voluntad; la clase la conecta con la Torah escrita.                                                                                                                                                                                                           |
 | **(καρδία)**                    | kardia                  | corazón como centro interior de percepción, deseo y decisión | En 3:5 describe la dureza que resiste el bien; en 3:35 la voluntad hecha define la familia del Mesías | «Corazón» es una equivalencia cercana; no reduce el término a emoción ni autoriza una psicología moderna ajena al relato.                                                                                                                                                                                  |
 | **(οἶκος)**                     | oikos                   | casa, hogar o unidad doméstica                               | En 3:25 y 3:27 sostiene la imagen de una casa dividida y de la casa del fuerte                        | «Casa» conserva la metáfora; su aplicación a una comunidad o dominio es contextual, no una identificación automática con una institución moderna.                                                                                                                                                          |
 
@@ -123,13 +123,13 @@ El resto del capítulo amplía la misma prueba. Los Doce son llamados primero **
 
 El hombre de la mano seca no aparece como un problema abstracto. Está en medio de la congregación mientras otros observan si Yehoshua sanará para poder acusarlo. Yehoshua lo pone en el centro y formula una pregunta que deja sin refugio a sus adversarios: en Shabbat, ¿corresponde hacer el bien o hacer el mal, salvar una _nefesh_ o matarla?
 
-La clase conecta esta pregunta con #devarim_30_19. El pasaje pone delante del pueblo vida y muerte, bendición y maldición, y ordena escoger la vida. La aplicación no es que los demás mandamientos carezcan de peso, sino que una lectura de Torah que convierte la restauración en transgresión ha perdido de vista el propósito del Dador.
+La clase conecta esta pregunta con #deuteronomio_30_19. El pasaje pone delante del pueblo vida y muerte, bendición y maldición, y ordena escoger la vida. La aplicación no es que los demás mandamientos carezcan de peso, sino que una lectura de Torah que convierte la restauración en transgresión ha perdido de vista el propósito del Dador.
 
 El relato mismo emite el veredicto. Yehoshua restaura al hombre; quienes lo vigilan salen a planear la muerte del sanador. Los que pretendían defender el Shabbat quedan del lado de quitar la vida, mientras el acusado cumple el bien que la pregunta había puesto delante de todos.
 
 ## Silencio, dureza y confesión verdadera
 
-Los adversarios callan ante la pregunta. La clase entiende ese silencio como negativa a reconocer tanto la verdad pronunciada por Yehoshua como el error propio. Por eso lo contrasta con #nejemiah_9_33: “tú eres justo” y “nosotros hemos hecho lo malo”. Una confesión completa no solo admite equivocación; reconoce la justicia de quien habló correctamente.
+Los adversarios callan ante la pregunta. La clase entiende ese silencio como negativa a reconocer tanto la verdad pronunciada por Yehoshua como el error propio. Por eso lo contrasta con #nehemias_9_33: “tú eres justo” y “nosotros hemos hecho lo malo”. Una confesión completa no solo admite equivocación; reconoce la justicia de quien habló correctamente.
 
 La aflicción de Yehoshua se dirige a la dureza o ceguera del corazón. No es la Torah la que conduce a la conspiración, sino un corazón que prefiere defender su sistema antes que recibir corrección. La nota preserva aquí una distinción importante: el texto identifica específicamente a perushim y partidarios de Horodós; no autoriza a convertir a todo judío ni a todo el judaísmo en objeto de la acusación.
 
@@ -137,7 +137,7 @@ El capítulo también muestra cómo el rumor puede deformar una obra verdadera. 
 
 ## Primero estar con él
 
-#markos_3_13-15 resume el llamado de los Doce con un orden sencillo. Yehoshua llama; ellos vienen; él los establece **para que estén con él**; luego los envía a anunciar, sanar y expulsar demonios. La autoridad no nace de que alguien se nombre apóstol ni de dominar una técnica: procede de la elección y de la cercanía con el Mesías.
+#marcos_3_13-15 resume el llamado de los Doce con un orden sencillo. Yehoshua llama; ellos vienen; él los establece **para que estén con él**; luego los envía a anunciar, sanar y expulsar demonios. La autoridad no nace de que alguien se nombre apóstol ni de dominar una técnica: procede de la elección y de la cercanía con el Mesías.
 
 La lista reúne personas de procedencias y perfiles distintos. La clase se detiene en los sobrenombres y en las huellas semíticas de Kefa, Toma y Boanergés. También subraya la tensión social del grupo: pescadores, un cobrador de impuestos, un celoso nacionalista y quien terminaría entregando a Yehoshua comparten la misma convocatoria. Esa diversidad no elimina las diferencias; muestra que la nueva casa se organiza alrededor de quien los llamó.
 
@@ -155,7 +155,7 @@ La clase aplica la parábola también al engaño: una casa puede ser sometida cu
 
 ## Injuria contra el Ruaj HaKódesh
 
-#markos_3_29 suele despertar temor porque habla de una injuria sin perdón para siempre. El versículo siguiente impide definirla fuera de la escena: “porque ellos decían: Tiene un espíritu impuro”. Los escribas no pecan por ignorancia lingüística ni por formular una duda honesta; contemplan una obra de liberación y la desacreditan como poder contaminado.
+#marcos_3_29 suele despertar temor porque habla de una injuria sin perdón para siempre. El versículo siguiente impide definirla fuera de la escena: “porque ellos decían: Tiene un espíritu impuro”. Los escribas no pecan por ignorancia lingüística ni por formular una duda honesta; contemplan una obra de liberación y la desacreditan como poder contaminado.
 
 La clase extiende esta injuria hacia la negación consciente del Mesías después de haber visto su poder. Esa relación puede conservarse como conclusión teológica del expositor, pero el punto textual seguro es más preciso: el relato condena atribuir al espíritu impuro la obra manifiesta del Ruaj HaKódesh. No conviene usar el pasaje para declarar sin perdón a quien teme haber pecado, busca teshuváh o todavía está aprendiendo quién es Yehoshua.
 
@@ -167,11 +167,11 @@ La escena cierra el hilo de la casa. Una casa dividida no permanece, pero Yehosh
 
 ## Conexiones principales
 
-- `#markos_3_4` con `#devarim_30_19`: salvar una _nefesh_ en Shabbat manifiesta la elección de la vida.
-- #markos_3_5 con #nejemiah_9_33: el corazón endurecido calla; la confesión sana reconoce la justicia de יהוה y el error propio.
-- #markos_3_13-15 con #markos_3_35: estar con Yehoshua y hacer la voluntad de Elohim definen el discipulado desde la llamada hasta la familia.
-- #markos_3_11-12 con #markos_3_22-30: una afirmación espiritual debe juzgarse por su fuente; llamar impura a la obra del Ruaj invierte verdad y mentira.
-- #markos_3_24-27 con #markos_3_31-35: frente a la casa dividida, Yehoshua forma una casa nueva alrededor de la voluntad de Elohim.
+- `#marcos_3_4` con `#deuteronomio_30_19`: salvar una _nefesh_ en Shabbat manifiesta la elección de la vida.
+- #marcos_3_5 con #nehemias_9_33: el corazón endurecido calla; la confesión sana reconoce la justicia de יהוה y el error propio.
+- #marcos_3_13-15 con #marcos_3_35: estar con Yehoshua y hacer la voluntad de Elohim definen el discipulado desde la llamada hasta la familia.
+- #marcos_3_11-12 con #marcos_3_22-30: una afirmación espiritual debe juzgarse por su fuente; llamar impura a la obra del Ruaj invierte verdad y mentira.
+- #marcos_3_24-27 con #marcos_3_31-35: frente a la casa dividida, Yehoshua forma una casa nueva alrededor de la voluntad de Elohim.
 
 ## Referencias judías y fuentes externas
 
@@ -183,7 +183,7 @@ La escena cierra el hilo de la casa. Una casa dividida no permanece, pero Yehosh
 | Tradiciones de exorcismo | Sin referencia precisa                          | La clase afirma que algunos exorcistas pensaban operar mediante espíritus subordinados.      | Pendiente de verificar; no usar como hecho histórico  |
 | Hipótesis lingüística    | Original hebreo/arameo de Marcos                | Las expresiones semíticas se interpretan como huellas de una traducción posterior al griego. | Hipótesis de la clase; pendiente de análisis textual  |
 
-## Reparación dirigida: la casa se prueba por sus acciones (3:1-35)
+## Reparación dirigida: la casa se prueba por sus acciones (3:1-35) #marcos_3_1-35
 
 La lectura de Eric puede resumirse como «escoger la vida», pero Marcos 3 exige seguir cómo esa elección se vuelve visible. En 3:1-6, **ἔξεστιν**, _exestin_, «es lícito o está permitido», introduce la pregunta; **ἀγαθοποιῆσαι**, _agathopoiēsai_, «hacer el bien», y **σῶσαι**, _sōsai_, «salvar», se contraponen a **κακοποιῆσαι**, _kakopoiēsai_, «hacer el mal», y **ἀποκτεῖναι**, _apokteinai_, «matar». La comparación con **ובחרת בחיים**, _uvajarta bajayim_, «escoge la vida», de Devarim 30:19 es una conexión temática atribuible a la clase, no una cita formal; la narración sí demuestra que la restauración de una vida interpreta el conflicto mejor que la acusación.
 
@@ -211,7 +211,7 @@ En 3:20-35 el conflicto por Beelzebul y la escena familiar corrigen dos reduccio
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la explicación gramatical de **(ובחרת בחיים)** en #devarim_30_19; la fuerza exhortativa del contexto no debe reducirse a llamar la forma simplemente “futuro”.
+- [ ] Cotejar la explicación gramatical de **(ובחרת בחיים)** en #deuteronomio_30_19; la fuerza exhortativa del contexto no debe reducirse a llamar la forma simplemente “futuro”.
 - [ ] Distinguir **qal vajómer** como método de razonamiento de otros principios halájicos sobre preservación de la vida.
 - [ ] Verificar m. Avot 2:1 en hebreo y su traducción antes de citarlo de forma literal.
 - [ ] Localizar la fuente exacta para la identificación de los herodianos con Beit Boethus u otro grupo.
@@ -219,8 +219,8 @@ En 3:20-35 el conflicto por Beelzebul y la escena familiar corrigen dos reduccio
 - [ ] Evaluar la hipótesis de un original hebreo o arameo de Marcos frente a la evidencia manuscrita y los estudios lingüísticos.
 - [ ] Verificar la etimología y la forma textual de Baal Zebub / Beelzeboul; no asumir que la forma del pasaje es exclusivamente aramea.
 - [ ] Buscar fuentes antiguas para las afirmaciones sobre “demonios domesticados” y demonología rabínica; mientras no aparezcan, tratarlas solo como exposición oral.
-- [ ] Cotejar la identificación de “los suyos” en #markos_3_21 con la madre y los hermanos de #markos_3_31; es una lectura narrativa plausible, no una equivalencia explícita en TTH.
-- [ ] Delimitar la extensión de la injuria contra el Ruaj HaKódesh: el texto la ata a #markos_3_30, mientras la clase la amplía a toda negación consciente del Mesías.
+- [ ] Cotejar la identificación de “los suyos” en #marcos_3_21 con la madre y los hermanos de #marcos_3_31; es una lectura narrativa plausible, no una equivalencia explícita en TTH.
+- [ ] Delimitar la extensión de la injuria contra el Ruaj HaKódesh: el texto la ata a #marcos_3_30, mientras la clase la amplía a toda negación consciente del Mesías.
 - [ ] Verificar las afirmaciones del cierre sobre proclamación angélica universal; #galatas_1_8 es una advertencia hipotética y no demuestra por sí solo esa doctrina.
 
 ## Verificación dirigida: de la vida restaurada a la familia obediente
@@ -235,10 +235,10 @@ El último movimiento impide que «familia» sea una consigna de linaje o de rup
 
 ## Mapa de la enseñanza de Eric
 
-- **#markos_3_1-6 — escoger la vida en Shabbat:** Eric vincula la pregunta de hacer el bien y salvar una `nefesh` con **ובחרת בחיים** de #devarim_30_19. La nota conserva la conexión porque ambos textos ponen vida y bien frente a una decisión, pero distingue el mandato de Devarim de la inferencia de que Marcos esté citándolo formalmente.
-- **#markos_3_7-19 — estar con Yehoshua antes del envío:** Eric subraya el orden del llamado: Yehoshua reúne a los Doce para estar con él y luego los envía a anunciar, sanar y expulsar demonios. El texto local confirma los infinitivos y la secuencia; los detalles sobre el trasfondo social de cada sobrenombre permanecen cualificados.
-- **#markos_3_20-30 — casa dividida e injuria contra el Ruaj:** Eric lee la acusación de los escribas como una inversión de la obra visible de liberación y usa la casa dividida para mostrar su incoherencia. Marcos sostiene el argumento mediante reino, casa y hombre fuerte, y explica la injuria con «porque ellos decían: Tiene un espíritu impuro»; la ampliación a toda negación consciente del Mesías es teológica y no se presenta como definición exclusiva del versículo.
-- **#markos_3_31-35 — familia definida por hacer la voluntad:** Eric conecta la escena de la madre y los hermanos con una familia mesiánica reunida alrededor de la obediencia. La respuesta de Yehoshua lo apoya directamente: mira a quienes están sentados alrededor y llama familia a quien hace la voluntad de Elohim; esto no borra el parentesco ni autoriza despreciar a la familia biológica.
+- **#marcos_3_1-6 — escoger la vida en Shabbat:** Eric vincula la pregunta de hacer el bien y salvar una `nefesh` con **ובחרת בחיים** de #deuteronomio_30_19. La nota conserva la conexión porque ambos textos ponen vida y bien frente a una decisión, pero distingue el mandato de Devarim de la inferencia de que Marcos esté citándolo formalmente.
+- **#marcos_3_7-19 — estar con Yehoshua antes del envío:** Eric subraya el orden del llamado: Yehoshua reúne a los Doce para estar con él y luego los envía a anunciar, sanar y expulsar demonios. El texto local confirma los infinitivos y la secuencia; los detalles sobre el trasfondo social de cada sobrenombre permanecen cualificados.
+- **#marcos_3_20-30 — casa dividida e injuria contra el Ruaj:** Eric lee la acusación de los escribas como una inversión de la obra visible de liberación y usa la casa dividida para mostrar su incoherencia. Marcos sostiene el argumento mediante reino, casa y hombre fuerte, y explica la injuria con «porque ellos decían: Tiene un espíritu impuro»; la ampliación a toda negación consciente del Mesías es teológica y no se presenta como definición exclusiva del versículo.
+- **#marcos_3_31-35 — familia definida por hacer la voluntad:** Eric conecta la escena de la madre y los hermanos con una familia mesiánica reunida alrededor de la obediencia. La respuesta de Yehoshua lo apoya directamente: mira a quienes están sentados alrededor y llama familia a quien hace la voluntad de Elohim; esto no borra el parentesco ni autoriza despreciar a la familia biológica.
 
 El mapa conserva las observaciones concretas de Eric y prueba cada una contra el orden narrativo de Marcos; las reconstrucciones históricas y semíticas no verificadas siguen marcadas como pendientes.
 
@@ -263,16 +263,16 @@ Finalmente, la imagen de la casa se desarrolla en dos movimientos. **(οἶκο�
 ## Dependencia de las escenas: hacer el bien, recibir autoridad y hacer la voluntad
 
 <!-- prettier-ignore -->
-Marcos 3 ordena la revelación antes de explicar sus consecuencias. En la sinagoga, Yehoshua pregunta si es lícito hacer el bien y salvar una vida (#markos_3_4); solo después de que los observadores callan, la mano queda restaurada y aparece la conspiración para matarlo (#markos_3_5-6). **(ἔξεστιν)**, _exestin_, «es lícito o está permitido», no funciona aquí como una consulta neutral sobre permisos: la pregunta pone a prueba la lectura que ellos hacen del Shabbat. La forma **(ἀγαθοποιῆσαι)**, _agathopoiēsai_, «hacer el bien», se contrapone a **(κακοποιῆσαι)**, _kakopoiēsai_, «hacer el mal»; la equivalencia con el principio de escoger la vida es temática y no una cita hebrea oculta.
+Marcos 3 ordena la revelación antes de explicar sus consecuencias. En la sinagoga, Yehoshua pregunta si es lícito hacer el bien y salvar una vida (#marcos_3_4); solo después de que los observadores callan, la mano queda restaurada y aparece la conspiración para matarlo (#marcos_3_5-6). **(ἔξεστιν)**, _exestin_, «es lícito o está permitido», no funciona aquí como una consulta neutral sobre permisos: la pregunta pone a prueba la lectura que ellos hacen del Shabbat. La forma **(ἀγαθοποιῆσαι)**, _agathopoiēsai_, «hacer el bien», se contrapone a **(κακοποιῆσαι)**, _kakopoiēsai_, «hacer el mal»; la equivalencia con el principio de escoger la vida es temática y no una cita hebrea oculta.
 
 <!-- prettier-ignore -->
-La siguiente unidad amplía el alcance sin cambiar la fuente de la autoridad. La multitud busca tocar a Yehoshua, los espíritus impuros caen y claman, y él les ordena no manifestarlo (#markos_3_7-12). **(ἐπετίμα)**, _epetima_, «reprendía o amonestaba», expresa una orden de autoridad; no describe una negociación con los espíritus. Luego **(προσκαλεῖται)**, _proskaleitai_, «llama hacia sí», y **(ἐποίησεν δώδεκα)**, _epoiēsen dōdeka_, «estableció a doce», marcan que el grupo existe primero para estar con él y después para ser enviado (#markos_3_13-15). La potestad de anunciar, sanar y expulsar es recibida dentro de esa cercanía; no es una propiedad autónoma de los enviados.
+La siguiente unidad amplía el alcance sin cambiar la fuente de la autoridad. La multitud busca tocar a Yehoshua, los espíritus impuros caen y claman, y él les ordena no manifestarlo (#marcos_3_7-12). **(ἐπετίμα)**, _epetima_, «reprendía o amonestaba», expresa una orden de autoridad; no describe una negociación con los espíritus. Luego **(προσκαλεῖται)**, _proskaleitai_, «llama hacia sí», y **(ἐποίησεν δώδεκα)**, _epoiēsen dōdeka_, «estableció a doce», marcan que el grupo existe primero para estar con él y después para ser enviado (#marcos_3_13-15). La potestad de anunciar, sanar y expulsar es recibida dentro de esa cercanía; no es una propiedad autónoma de los enviados.
 
 <!-- prettier-ignore -->
-El conflicto de la casa interpreta esas liberaciones. **(παραβολαῖς)**, _parabolais_, «comparaciones», introduce la respuesta de Yehoshua a los escribas, pero las tres imágenes —reino, casa y hombre fuerte— avanzan juntas (#markos_3_23-27). **(ἐρημοῦται)**, _erēmoutai_, «queda desolado», describe el destino de un reino dividido; **(δήσῃ)**, _dēsē_, «ate», explica la condición previa para saquear la casa del fuerte. El texto permite afirmar confrontación y derrota del dominio, pero no autoriza a convertir la metáfora en un manual de guerra espiritual ni a atribuir todo mal social a un único agente invisible.
+El conflicto de la casa interpreta esas liberaciones. **(παραβολαῖς)**, _parabolais_, «comparaciones», introduce la respuesta de Yehoshua a los escribas, pero las tres imágenes —reino, casa y hombre fuerte— avanzan juntas (#marcos_3_23-27). **(ἐρημοῦται)**, _erēmoutai_, «queda desolado», describe el destino de un reino dividido; **(δήσῃ)**, _dēsē_, «ate», explica la condición previa para saquear la casa del fuerte. El texto permite afirmar confrontación y derrota del dominio, pero no autoriza a convertir la metáfora en un manual de guerra espiritual ni a atribuir todo mal social a un único agente invisible.
 
 <!-- prettier-ignore -->
-La explicación de la injuria está pegada a la acción interpretada: «porque ellos decían: tiene un espíritu impuro» (#markos_3_30). **(βλασφημήσῃ)**, _blasphēmēsē_, «injurie o hable ofensivamente», aparece en la advertencia de 3:29; su alcance narrativo se fija por la acusación concreta de 3:22 y 3:30. El pasaje no llama imperdonable a una duda pasajera ni a la angustia de quien busca volver a Elohim. Finalmente, **(ποιεῖ)**, _poiei_, «hace», en 3:35 traduce la voluntad en práctica visible: la familia reunida alrededor de Yehoshua no se define por una declaración verbal, sino por hacer la voluntad de Elohim. La progresión completa va de discernir el bien a obedecerlo.
+La explicación de la injuria está pegada a la acción interpretada: «porque ellos decían: tiene un espíritu impuro» (#marcos_3_30). **(βλασφημήσῃ)**, _blasphēmēsē_, «injurie o hable ofensivamente», aparece en la advertencia de 3:29; su alcance narrativo se fija por la acusación concreta de 3:22 y 3:30. El pasaje no llama imperdonable a una duda pasajera ni a la angustia de quien busca volver a Elohim. Finalmente, **(ποιεῖ)**, _poiei_, «hace», en 3:35 traduce la voluntad en práctica visible: la familia reunida alrededor de Yehoshua no se define por una declaración verbal, sino por hacer la voluntad de Elohim. La progresión completa va de discernir el bien a obedecerlo.
 
 ## Prueba de lectura: una sola autoridad, tres respuestas
 
@@ -290,7 +290,7 @@ La misma autoridad produce una comunidad enviada: **(ἀποστέλλω)**, _ap
 
 ## Prueba de la acusación: el relato no permite invertir los sujetos
 
-La perícopa hace que la acusación se juzgue por sus sujetos y sus efectos. Los perushim observan para acusar, callan ante la pregunta por el bien y, después de la mano restaurada, salen a consultar cómo destruir a Yehoshua (`#markos_3_2-6`). **(συμβούλιον ἐδίδουν)**, _symboulion edidoun_, «daban consejo o deliberaban», describe la conspiración; no es una consecuencia inevitable de guardar Shabbat, sino la respuesta de quienes han visto una vida restaurada y eligen la muerte. La observación de Eric sobre «escoger la vida» queda así anclada en una inversión narrativa concreta: el mandamiento es invocado por quienes terminan planeando quitar la vida.
+La perícopa hace que la acusación se juzgue por sus sujetos y sus efectos. Los perushim observan para acusar, callan ante la pregunta por el bien y, después de la mano restaurada, salen a consultar cómo destruir a Yehoshua (`#marcos_3_2-6`). **(συμβούλιον ἐδίδουν)**, _symboulion edidoun_, «daban consejo o deliberaban», describe la conspiración; no es una consecuencia inevitable de guardar Shabbat, sino la respuesta de quienes han visto una vida restaurada y eligen la muerte. La observación de Eric sobre «escoger la vida» queda así anclada en una inversión narrativa concreta: el mandamiento es invocado por quienes terminan planeando quitar la vida.
 
 El mismo criterio protege la lectura de la casa dividida. En 3:22 los escribas atribuyen la expulsión a **(Βεελζεβούλ)**, _Beelzeboul_, mientras que en 3:30 Marcos explica que decían: «Tiene un espíritu impuro». Yehoshua responde con **(εἰ ὁ σατανᾶς ἀνέστη ἐφ’ ἑαυτόν)**, «si HaSatán se levantó contra sí mismo»; **(ἀνέστη)**, _anestē_, «se levantó», formula la hipótesis de una rebelión interna, y 3:26 concluye que no puede permanecer. La imagen no prueba una demonología completa: prueba que la explicación de los escribas destruye su propio supuesto.
 

@@ -8,20 +8,20 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_7_1"
-  - "#songofsolomon_7_2"
-  - "#songofsolomon_7_3"
-  - "#songofsolomon_7_4"
-  - "#songofsolomon_7_5"
-  - "#songofsolomon_7_6"
-  - "#songofsolomon_7_7"
-  - "#songofsolomon_7_8"
-  - "#songofsolomon_7_9"
-  - "#songofsolomon_7_10"
-  - "#songofsolomon_7_11"
-  - "#songofsolomon_7_12"
-  - "#songofsolomon_7_13"
-  - "#songofsolomon_7_14"
+  - "#cantares_7_1"
+  - "#cantares_7_2"
+  - "#cantares_7_3"
+  - "#cantares_7_4"
+  - "#cantares_7_5"
+  - "#cantares_7_6"
+  - "#cantares_7_7"
+  - "#cantares_7_8"
+  - "#cantares_7_9"
+  - "#cantares_7_10"
+  - "#cantares_7_11"
+  - "#cantares_7_12"
+  - "#cantares_7_13"
+  - "#cantares_7_14"
 sources:
   - "https://www.youtube.com/watch?v=CvqQjg6BMPQ"
   - "https://www.youtube.com/watch?v=K8lkR7T3FI0"
@@ -46,7 +46,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                                | Observación                                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_7_1 | **שובי שובי השולמית שובי שובי ונחזה בך מה תחזו בשולמית כמחלת המחנים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_7_1 | **שובי שובי השולמית שובי שובי ונחזה בך מה תחזו בשולמית כמחלת המחנים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -68,8 +68,8 @@ Cantar 7 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 21) Cap 7» — https://www.youtube.com/watch?v=CvqQjg6BMPQ (`source_id: youtube:CvqQjg6BMPQ`).
-- «Shir hashirim (parte 22) Cap 7» — https://www.youtube.com/watch?v=K8lkR7T3FI0 (`source_id: youtube:K8lkR7T3FI0`).
-- «Shir hashirim (parte 23) cap 7final» — https://www.youtube.com/watch?v=rLSnlalekZI (`source_id: youtube:rLSnlalekZI`).
+- «Shir hashirim (parte 21) Cap 7» — https://www.youtube.com/watch?v=CvqQjg6BMPQ (`source_id`: youtube:CvqQjg6BMPQ`).
+- «Shir hashirim (parte 22) Cap 7» — https://www.youtube.com/watch?v=K8lkR7T3FI0 (`source_id`: youtube:K8lkR7T3FI0`).
+- «Shir hashirim (parte 23) cap 7final» — https://www.youtube.com/watch?v=rLSnlalekZI (`source_id`: youtube:rLSnlalekZI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

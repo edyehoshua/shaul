@@ -10,11 +10,11 @@ tags:
   - gnosticismo
   - concilios
 references:
-  - "#devarim_6_4"
+  - "#deuteronomio_6_4"
   - "#colosenses_1_15"
   - "#colosenses_1_16"
-  - "#iojanan_1_1"
-  - "#iojanan_4_24"
+  - "#juan_1_1"
+  - "#juan_4_24"
   - "#tesalonicenses_2_2_1"
   - "#efesios_4_4"
   - "#efesios_4_6"
@@ -45,7 +45,7 @@ Esta nota organiza la exposición pública de Eric de Jesús Rodríguez Mendoza 
 | --- | --- | --- |
 | #colosenses_1_15 | **וְהוּא צֶלֶם הָאֱלׂהִים הַנֶּעְלָם וּבְכוֹר כָּל־נִבְרָא׃** | Pablo llama al Mesías imagen del Elohim invisible y primogénito de toda creación; la nota examina cómo la clase usa este texto contra la idea de un Hijo creado. |
 | #colosenses_1_16 | **כִּי־בוֹ נִבְרָא כּׂל אֲשֶׁר בַּשָּׁמַיִם וַאֲשֶׁר בָּאָרֶץ כּׂל הַנִּרְאֶה וְכׂל אֲשֶׁר־אֵינֶנּוּ נִרְאֶה...** | El alcance de «todo» sostiene la observación de Eric sobre la función creadora del Mesías, aunque el término «Elohim en cuerpo» es una inferencia doctrinal que debe distinguirse del versículo. |
-| #iojanan_4_24 | **הָאֱלֹהִים הוּא רוּחַ וְהַמִּשְׁתַּחֲוִים לוֹ עֲלֵיהֶם לְהִשְׁתַּחֲוֹת בְּרוּחַ וּבֶאֱמֶת׃** | La clase lee **רוּחַ** como poder, aliento y fuente de vida, no como una persona separada; se marca como interpretación contextual, no como una definición exhaustiva del término. |
+| #juan_4_24 | **הָאֱלֹהִים הוּא רוּחַ וְהַמִּשְׁתַּחֲוִים לוֹ עֲלֵיהֶם לְהִשְׁתַּחֲוֹת בְּרוּחַ וּבֶאֱמֶת׃** | La clase lee **רוּחַ** como poder, aliento y fuente de vida, no como una persona separada; se marca como interpretación contextual, no como una definición exhaustiva del término. |
 | #tesalonicenses_2_2_1 | **וְהִנְנוּ מְבַקְשִׁים מִכֶּם אֶחָי עַל־אׂדוֹת בִּיאַת אֲדׂנֵינוּ יֵשׁוּעַ הַמָּשִׁיחַ וַאֲסִיפָתֵנוּ אֵלָיו׃** | La clase conecta la exhortación sobre la venida del Mesías con el rechazo de predicciones fechadas; la conexión histórica con el montanismo queda pendiente. |
 | #efesios_4_4-6 | **גּוּף אֶחָד וְרוּחַ אֶחָד... אֵל וְאָב אֶחָד לַכּׂל שֶׁהוּא עַל־כּׂל וְאֶת־כּׂל וּבְתוֹךְ כּל** | «Un cuerpo, un Rúaj» y «un Elohim y Padre» ofrecen un marco explícito de unidad; no funcionan por sí solos como una historia completa del dogma. |
 

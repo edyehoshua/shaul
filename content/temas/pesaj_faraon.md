@@ -7,12 +7,12 @@ tags:
   - faraon
   - shemot
 references:
-  - "#shemot_4_21"
-  - "#shemot_7_3"
-  - "#shemot_7_14"
-  - "#shemot_9_12"
-  - "#shemot_13_15"
-  - "#shemot_14_4"
+  - "#exodo_4_21"
+  - "#exodo_7_3"
+  - "#exodo_7_14"
+  - "#exodo_9_12"
+  - "#exodo_13_15"
+  - "#exodo_14_4"
 sources: []
 translation: "[TTH, OE]"
 ---
@@ -23,23 +23,23 @@ El endurecimiento del corazón de Faraón se explica aquí a partir de varios ve
 
 ## Texto base
 
-- #shemot_4_21
-- #shemot_7_3
-- #shemot_7_14
-- #shemot_9_12
-- #shemot_13_15
-- #shemot_14_4
+- #exodo_4_21
+- #exodo_7_3
+- #exodo_7_14
+- #exodo_9_12
+- #exodo_13_15
+- #exodo_14_4
 
 ## Hoja de comparación
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #shemot_4_21 | ואני אחזק את לבו ולא ישלח את העם | …Yo mostraré la dureza de su corazón, y no enviará al pueblo. | **(אחזק)** / kasheh: resistencia previa. |
-| #shemot_7_3 | ואני אקשה את לב פרעה והרביתי את אתתי ואת מופתי בארץ מצרים | …Yo mostraré la dureza del corazón de Faraón… | La dureza se integra al despliegue de señales. |
-| #shemot_7_14 | כבד לב פרעה מאן לשלח העם | Es pesado el corazón de Faraón, se rehúsa a enviar al pueblo. | **(כבד)**: pesadez y negativa persistente. |
-| #shemot_9_12 | ויחזק יהוה את לב פרעה ולא שמע אלהם | …se hizo fuerte יהוה con el corazón de Faraón… | **(יחזק)**: fortalecer/cerrar ante la palabra. |
-| #shemot_13_15 | ויהי כי הקשה פרעה לשלחנו ויהרג יהוה כל בכור… | …cuando se endureció Faraón a enviarnos… | Pésaj recordado junto a la dureza previa. |
-| #shemot_14_4 | וחזקתי את לב פרעה ורדף אחריהם… | …me haré fuerte con el corazón de Faraón… | La persecución sirve para honrar a יהוה. |
+| #exodo_4_21 | ואני אחזק את לבו ולא ישלח את העם | …Yo mostraré la dureza de su corazón, y no enviará al pueblo. | **(אחזק)** / kasheh: resistencia previa. |
+| #exodo_7_3 | ואני אקשה את לב פרעה והרביתי את אתתי ואת מופתי בארץ מצרים | …Yo mostraré la dureza del corazón de Faraón… | La dureza se integra al despliegue de señales. |
+| #exodo_7_14 | כבד לב פרעה מאן לשלח העם | Es pesado el corazón de Faraón, se rehúsa a enviar al pueblo. | **(כבד)**: pesadez y negativa persistente. |
+| #exodo_9_12 | ויחזק יהוה את לב פרעה ולא שמע אלהם | …se hizo fuerte יהוה con el corazón de Faraón… | **(יחזק)**: fortalecer/cerrar ante la palabra. |
+| #exodo_13_15 | ויהי כי הקשה פרעה לשלחנו ויהרג יהוה כל בכור… | …cuando se endureció Faraón a enviarnos… | Pésaj recordado junto a la dureza previa. |
+| #exodo_14_4 | וחזקתי את לב פרעה ורדף אחריהם… | …me haré fuerte con el corazón de Faraón… | La persecución sirve para honrar a יהוה. |
 
 ## Hoja léxica
 
@@ -48,7 +48,7 @@ El endurecimiento del corazón de Faraón se explica aquí a partir de varios ve
 | **(אקשה)** | akasheh | hacer duro, mostrar dureza | קשה | dureza, severidad | Kasheh en la nota: hacer visible la dureza. |
 | **(יחזק)** | jazak | fortalecer, endurecer | חזק | fuerza, solidez | Puede leerse sobre Faraón o sobre la acción de יהוה según contexto. |
 | **(כבד)** | kaved | ser pesado, gravar | כבד | peso, honra | Aquí: pesadez del corazón, no «honra». |
-| **(הקשה)** | hiksheh | endurecerse | קשה | dureza | En #shemot_13_15: memoria litúrgica de Pésaj. |
+| **(הקשה)** | hiksheh | endurecerse | קשה | dureza | En #exodo_13_15: memoria litúrgica de Pésaj. |
 | **(חזקת יד)** | jozek yad | fortaleza de mano | חזק + יד | poder liberador | Contraste final: יהוה saca a Israel. |
 
 ## Observaciones
@@ -63,7 +63,7 @@ El endurecimiento del corazón de Faraón se explica aquí a partir de varios ve
 | --- | --- | --- | --- |
 | Rashi / comentaristas | Shemot 7–14 | Distinción entre endurecer de Faraón y de יהוה | Pendiente de verificar |
 | Midrash | Endurecimiento del corazón de Faraón | Teología del libre albedrío y juicio | Pendiente de verificar |
-| Haggadah de Pésaj | #shemot_13_15 | Memoria litúrgica de la dureza previa | Mención indirecta en la nota |
+| Haggadah de Pésaj | #exodo_13_15 | Memoria litúrgica de la dureza previa | Mención indirecta en la nota |
 
 ## Ver también
 

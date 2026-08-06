@@ -22,7 +22,7 @@ Esta guía define un marco simple para crear notas bíblicas conectadas entre s�
 
 - Usar יהוה cuando se escriba el Nombre.
 - Usar títulos claros y humanos (no solo una referencia de versículo).
-- Mantener referencias de versículos en `references` y en el cuerpo (ejemplo: `#ieshaiahu_53_5`).
+- Mantener referencias de versículos en `references` y en el cuerpo (ejemplo: `#isaias_53_5`).
 - Usar hebreo sin nikud por defecto.
 - Usar hebreo con nikud solo cuando haga falta para desambiguar.
 
@@ -63,14 +63,14 @@ Cuando el tema lo amerite, usar una tabla corta y legible:
 
 | Referencia     | Hebreo | Traducción ES (TTH) | Observación                |
 | -------------- | ------ | ------------------- | -------------------------- |
-| #tehilim_2_7   | ...    | ...                 | Filiación mesiánica        |
-| #matiyahu_3_17 | ...    | ...                 | Eco y expansión apostólica |
+| #salmos_2_7   | ...    | ...                 | Filiación mesiánica        |
+| #mateo_3_17 | ...    | ...                 | Eco y expansión apostólica |
 
 En notas de clase o Besorah también sirve esta variante:
 
 | Referencia | Texto local | Función en la clase |
 | --- | --- | --- |
-| #iojanan_11_4 | extracto TTH / Delitzsch | Clave interpretativa del pasaje |
+| #juan_11_4 | extracto TTH / Delitzsch | Clave interpretativa del pasaje |
 
 ## Hoja léxica (griego, hebreo, arameo)
 

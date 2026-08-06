@@ -7,9 +7,9 @@ tags:
   - matzot
   - fiestas
 references:
-  - "#shemot_12_8-14"
-  - "#shemot_12_15"
-  - "#devarim_16_1-3"
+  - "#exodo_12_8-14"
+  - "#exodo_12_15"
+  - "#deuteronomio_16_1-3"
 sources:
   - "https://www.youtube.com/watch?v=0AAezJaFzTk"
   - "https://www.youtube.com/watch?v=gM8GSFGe3go"
@@ -44,9 +44,9 @@ Las siete clases reúnen preguntas sobre la cronología, el séder, la preparaci
 
 | Referencia      | Texto hebreo local                                                                                                                                                                                                                                                            | Observación                                                                                |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| #shemot_12_8-14 | ואכלו את הבשר בלילה הזה צלי אש ומצות על מררים יאכלהו; וככה תאכלו אתו מתניכם חגרים נעליכם ברגליכם ומקלכם בידכם ואכלתם אתו בחפזון פסח הוא ליהוה; והיה היום הזה לכם לזכרון וחגתם אתו חג ליהוה לדרתיכם חקת עולם תחגהו                                                             | La comida, Matzot, el apresuramiento y el memorial están unidos a la intervención de יהוה. |
-| #shemot_12_15   | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשן עד יום השבעי                                                                                                                                                           | Matzot incluye una instrucción concreta sobre retirar levadura y delimita siete días.      |
-| #devarim_16_1-3 | שמור את חדש האביב ועשית פסח ליהוה אלהיך כי בחדש האביב הוציאך יהוה אלהיך ממצרים לילה; וזבחת פסח ליהוה אלהיך צאן ובקר במקום אשר יבחר יהוה לשכן שמו שם; לא תאכל עליו חמץ שבעת ימים תאכל עליו מצות לחם עני כי בחפזון יצאת מארץ מצרים למען תזכר את יום צאתך מארץ מצרים כל ימי חייך | Devarim vincula calendario, sacrificio, pan de aflicción y memoria permanente.             |
+| #exodo_12_8-14 | ואכלו את הבשר בלילה הזה צלי אש ומצות על מררים יאכלהו; וככה תאכלו אתו מתניכם חגרים נעליכם ברגליכם ומקלכם בידכם ואכלתם אתו בחפזון פסח הוא ליהוה; והיה היום הזה לכם לזכרון וחגתם אתו חג ליהוה לדרתיכם חקת עולם תחגהו                                                             | La comida, Matzot, el apresuramiento y el memorial están unidos a la intervención de יהוה. |
+| #exodo_12_15   | שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשן עד יום השבעי                                                                                                                                                           | Matzot incluye una instrucción concreta sobre retirar levadura y delimita siete días.      |
+| #deuteronomio_16_1-3 | שמור את חדש האביב ועשית פסח ליהוה אלהיך כי בחדש האביב הוציאך יהוה אלהיך ממצרים לילה; וזבחת פסח ליהוה אלהיך צאן ובקר במקום אשר יבחר יהוה לשכן שמו שם; לא תאכל עליו חמץ שבעת ימים תאכל עליו מצות לחם עני כי בחפזון יצאת מארץ מצרים למען תזכר את יום צאתך מארץ מצרים כל ימי חייך | Devarim vincula calendario, sacrificio, pan de aflicción y memoria permanente.             |
 
 ## Memoria que forma la mesa
 
@@ -74,10 +74,10 @@ La nota mesiánica de las clases puede dialogar con Yehoshua y con el lenguaje d
 
 | Unidad textual                    | Observación concreta de la clase                                                                                                                    | Tratamiento en esta nota                                                                                                                                                                      |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #shemot_12_8-14                   | Eric presenta la mesa como una comida de liberación que debe conservar la memoria de la noche, las Matzot, las hierbas y la disposición para salir. | El texto local confirma comida, Matzot, prisa y memorial en esa secuencia; no se atribuyen al pasaje detalles litúrgicos que no aparecen allí.                                                |
-| #shemot_12_15 y #devarim_16_3     | La exposición distingue Pésaj de los siete días de Matzot y llama a revisar qué es mandamiento y qué es desarrollo posterior de la mesa.            | Se cita el mandato de retirar **שאר** (_seor_, levadura/fermento) y comer «pan de aflicción». La aplicación a prácticas modernas queda cualificada, no negada ni convertida en texto bíblico. |
-| #devarim_16_1-3                   | Eric insiste en que el calendario de Aviv y la salida nocturna deben leerse antes de fijar cronologías o costumbres contemporáneas.                 | Devarim confirma el mes de Aviv, la salida nocturna, el sacrificio y la memoria; la fecha exacta de cada calendario moderno permanece pendiente de cotejo histórico.                          |
-| #shemot_12 y la lectura mesiánica | La clase relaciona cordero, liberación y entrega de Yehoshua.                                                                                       | Se conserva como lectura mesiánica atribuida; la relación es pedagógica/intertextual y no sustituye el sentido histórico de Shemot.                                                           |
+| #exodo_12_8-14                   | Eric presenta la mesa como una comida de liberación que debe conservar la memoria de la noche, las Matzot, las hierbas y la disposición para salir. | El texto local confirma comida, Matzot, prisa y memorial en esa secuencia; no se atribuyen al pasaje detalles litúrgicos que no aparecen allí.                                                |
+| #exodo_12_15 y #deuteronomio_16_3     | La exposición distingue Pésaj de los siete días de Matzot y llama a revisar qué es mandamiento y qué es desarrollo posterior de la mesa.            | Se cita el mandato de retirar **שאר** (_seor_, levadura/fermento) y comer «pan de aflicción». La aplicación a prácticas modernas queda cualificada, no negada ni convertida en texto bíblico. |
+| #deuteronomio_16_1-3                   | Eric insiste en que el calendario de Aviv y la salida nocturna deben leerse antes de fijar cronologías o costumbres contemporáneas.                 | Devarim confirma el mes de Aviv, la salida nocturna, el sacrificio y la memoria; la fecha exacta de cada calendario moderno permanece pendiente de cotejo histórico.                          |
+| #exodo_12 y la lectura mesiánica | La clase relaciona cordero, liberación y entrega de Yehoshua.                                                                                       | Se conserva como lectura mesiánica atribuida; la relación es pedagógica/intertextual y no sustituye el sentido histórico de Shemot.                                                           |
 
 ## Pendiente de verificar
 
@@ -92,12 +92,12 @@ La nota mesiánica de las clases puede dialogar con Yehoshua y con el lenguaje d
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Acerca De Pésaj 5781-2021](https://www.youtube.com/watch?v=0AAezJaFzTk) — (source_id: `youtube:0AAezJaFzTk`).
-- [Conversatorio sobre el Séder de Pésaj...](https://www.youtube.com/watch?v=gM8GSFGe3go) — (source_id: `youtube:gM8GSFGe3go`).
-- [Conversemos sobre Pésaj (2020)](https://www.youtube.com/watch?v=Yk6Lt97GLmU) — (source_id: `youtube:Yk6Lt97GLmU`).
-- [Fundamentos de Pésaj - Parte 1 Tiempos y fechas](https://www.youtube.com/watch?v=Sdo8perHj5s) — (source_id: `youtube:Sdo8perHj5s`).
-- [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — (source_id: `youtube:kuc2zI9DMZ8`).
-- [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — (source_id: `youtube:JfdMv1nlG2Q`).
-- [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — (source_id: `youtube:Ds5Mju41YzE`).
+- [Acerca De Pésaj 5781-2021](https://www.youtube.com/watch?v=0AAezJaFzTk) — (`source_id`: `youtube:0AAezJaFzTk`).
+- [Conversatorio sobre el Séder de Pésaj...](https://www.youtube.com/watch?v=gM8GSFGe3go) — (`source_id`: `youtube:gM8GSFGe3go`).
+- [Conversemos sobre Pésaj (2020)](https://www.youtube.com/watch?v=Yk6Lt97GLmU) — (`source_id`: `youtube:Yk6Lt97GLmU`).
+- [Fundamentos de Pésaj - Parte 1 Tiempos y fechas](https://www.youtube.com/watch?v=Sdo8perHj5s) — (`source_id`: `youtube:Sdo8perHj5s`).
+- [Fundamentos de Pésaj - Parte 2 La Hajanáh y el Séder](https://www.youtube.com/watch?v=kuc2zI9DMZ8) — (`source_id`: `youtube:kuc2zI9DMZ8`).
+- [HAFTARAH DE SHABAT SHABATON DE MATZOT: COMER PÉSAJ](https://www.youtube.com/watch?v=JfdMv1nlG2Q) — (`source_id`: `youtube:JfdMv1nlG2Q`).
+- [Pesach 2018 Discussion: The Need to Bake the New Dough](https://www.youtube.com/watch?v=Ds5Mju41YzE) — (`source_id`: `youtube:Ds5Mju41YzE`).
 
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

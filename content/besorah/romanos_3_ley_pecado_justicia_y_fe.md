@@ -36,7 +36,7 @@ La fuente `youtube:u0NtR-y-T2Y` permite atribuir al hermano Eric de Jesús Rodr�
 | #romanos_3_21-26 | «Aparte de Torah, se ha revelado la justicia de Elohim, testificada por la Torah y por los profetas»; «siendo justificados gratuitamente por su favor».     | La justicia manifestada no está contra el testimonio bíblico y se recibe como don. |
 | #romanos_3_27-31 | «¿Dónde está la jactancia? Es vapor»; «no… excluimos a la Torah por la emunah… sino que establecemos a la Torah».                                           | La emunah elimina superioridad humana sin dejar nula la instrucción.               |
 
-## Romanos 3:17-20: la Torah cierra la boca
+## Romanos 3:17-20: la Torah cierra la boca #romanos_3_17-20
 
 La cadena de citas concluye que no hay camino de paz ni temor de Elohim delante de los ojos. **(εἰρήνη)**, _eirēnē_, significa paz, bienestar o reconciliación; en esta unidad su fuerza es relacional y moral, no solo ausencia de conflicto. **(φόβος)**, _phobos_, significa temor o reverencia; «temor de Elohim» es una traducción aproximada del efecto contextual, porque describe una postura ante Elohim dentro de una acusación de pecado.
 
@@ -48,7 +48,7 @@ El movimiento de 3:19-20 es, por tanto, doble. **(συγκαλύπτω)**, _sygk
 
 La frase «por obras de Torah» tampoco permite aislar el v. 20 de su propósito. **(ἔργον)**, _ergon_, significa obra, acción o tarea; aquí su fuerza contextual apunta a obras consideradas como base de justificación y de jactancia, no a una negación de toda obediencia posterior. Esta distinción es **inferencial pero cualificada** por el contraste inmediato: el mismo capítulo termina diciendo que la emunah establece la Torah. La evaluación conserva así el foco público de Eric sin convertir un título de video en una doctrina más amplia de la que Romanos 3 puede sostener.
 
-## Romanos 3:21-26: justicia manifestada y don gratuito
+## Romanos 3:21-26: justicia manifestada y don gratuito #romanos_3_21-26
 
 El «ahora» introduce un giro, no una ruptura con las Escrituras. «Aparte de Torah» no significa «contra la Torah», porque el mismo v. 21 afirma que la justicia está «testificada por la Torah y por los profetas». **(νυνί)**, _nyni_, significa ahora o en el momento presente; su fuerza contextual marca la manifestación decisiva después de la acusación. **(χωρίς)**, _chōris_, significa separado de, sin o aparte de; aquí distingue la base de la justificación de las obras, no declara una guerra contra la instrucción.
 
@@ -62,7 +62,7 @@ El v. 25 llama al Mesías **(ἱλαστήριον)**, _hilastērion_. La forma 
 
 La construcción **(πίστις)**, _pistis_, significa fe, confianza o fidelidad. La expresión relacionada con Yehoshua admite discusión sobre el énfasis en la fidelidad de Yehoshua o en la confianza depositada en él. La nota conserva esa ambigüedad: «emunah» es una aproximación contextual útil, no una resolución automática de toda cuestión gramatical. La justicia recibida es un don, y el don elimina la base de presumir.
 
-## Romanos 3:27-31: emunah sin jactancia y Torah establecida
+## Romanos 3:27-31: emunah sin jactancia y Torah establecida #romanos_3_27-31
 
 Pablo pregunta: «¿Dónde está la jactancia? Es vapor». **(καύχησις)**, _kauchēsis_, significa jactancia, orgullo o motivo de gloriarse; su fuerza es la superioridad humana que la gracia excluye. La unidad reúne a circuncisos e incircuncisos bajo un mismo Elohim. El título «dentro de la ley» no puede convertirse en motivo de rango, porque el argumento acaba de declarar responsable a todo el mundo y ha cerrado toda boca.
 

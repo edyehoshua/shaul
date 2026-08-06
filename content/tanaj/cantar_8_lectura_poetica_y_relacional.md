@@ -8,20 +8,20 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_8_1"
-  - "#songofsolomon_8_2"
-  - "#songofsolomon_8_3"
-  - "#songofsolomon_8_4"
-  - "#songofsolomon_8_5"
-  - "#songofsolomon_8_6"
-  - "#songofsolomon_8_7"
-  - "#songofsolomon_8_8"
-  - "#songofsolomon_8_9"
-  - "#songofsolomon_8_10"
-  - "#songofsolomon_8_11"
-  - "#songofsolomon_8_12"
-  - "#songofsolomon_8_13"
-  - "#songofsolomon_8_14"
+  - "#cantares_8_1"
+  - "#cantares_8_2"
+  - "#cantares_8_3"
+  - "#cantares_8_4"
+  - "#cantares_8_5"
+  - "#cantares_8_6"
+  - "#cantares_8_7"
+  - "#cantares_8_8"
+  - "#cantares_8_9"
+  - "#cantares_8_10"
+  - "#cantares_8_11"
+  - "#cantares_8_12"
+  - "#cantares_8_13"
+  - "#cantares_8_14"
 sources:
   - "https://www.youtube.com/watch?v=c-cPzZYvPJs"
   - "https://www.youtube.com/watch?v=pSq69Bx_xqo"
@@ -44,7 +44,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)                                           | Observación                                                                                                                         |
 | ------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_8_1 | **מי יתנך כאח לי יונק שדי אמי אמצאך בחוץ אשקך גם לא יבוזו לי** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_8_1 | **מי יתנך כאח לי יונק שדי אמי אמצאך בחוץ אשקך גם לא יבוזו לי** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -66,7 +66,7 @@ Cantar 8 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte 24) Cap 8» — https://www.youtube.com/watch?v=c-cPzZYvPJs (`source_id: youtube:c-cPzZYvPJs`).
-- «Shir hashirim (parte 25) Cap 8» — https://www.youtube.com/watch?v=pSq69Bx_xqo (`source_id: youtube:pSq69Bx_xqo`).
+- «Shir hashirim (parte 24) Cap 8» — https://www.youtube.com/watch?v=c-cPzZYvPJs (`source_id`: youtube:c-cPzZYvPJs`).
+- «Shir hashirim (parte 25) Cap 8» — https://www.youtube.com/watch?v=pSq69Bx_xqo (`source_id`: youtube:pSq69Bx_xqo`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

@@ -9,11 +9,11 @@ tags:
   - discernimiento
   - correccion
 references:
-  - "#mishlei_14_6"
-  - "#mishlei_14_7"
-  - "#mishlei_14_8"
-  - "#mishlei_14_12"
-  - "#tehilim_1_1"
+  - "#proverbios_14_6"
+  - "#proverbios_14_7"
+  - "#proverbios_14_8"
+  - "#proverbios_14_12"
+  - "#salmos_1_1"
   - "#mateo_11_30"
 sources:
   - "https://www.youtube.com/@SomosElCuerpodelMesias"
@@ -37,10 +37,10 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre Mish
 
 | Referencia | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_14_6 | בקש לץ חכמה ואין ודעת לנבון קל | Busca el burlador sabiduría, pero no hay, pero el conocimiento para el entendido es fácil. |
-| #mishlei_14_7 | לך מנגד לאיש כסיל ובל ידעת שפתי דעת | Todo es contrario al hombre necio, pero instrumentos de conocimiento son los labios de conocimiento (así en la versión griega; el T.M. conserva otra lectura). |
-| #mishlei_14_8 | חכמת ערום הבין דרכו ואולת כסילים מרמה | La sabiduría del astuto es discernir su camino, pero la tontería de los indisciplinados es engaño. |
-| #mishlei_14_12 | יש דרך ישר לפני איש ואחריתה דרכי מות | Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte. |
+| #proverbios_14_6 | בקש לץ חכמה ואין ודעת לנבון קל | Busca el burlador sabiduría, pero no hay, pero el conocimiento para el entendido es fácil. |
+| #proverbios_14_7 | לך מנגד לאיש כסיל ובל ידעת שפתי דעת | Todo es contrario al hombre necio, pero instrumentos de conocimiento son los labios de conocimiento (así en la versión griega; el T.M. conserva otra lectura). |
+| #proverbios_14_8 | חכמת ערום הבין דרכו ואולת כסילים מרמה | La sabiduría del astuto es discernir su camino, pero la tontería de los indisciplinados es engaño. |
+| #proverbios_14_12 | יש דרך ישר לפני איש ואחריתה דרכי מות | Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte. |
 
 ## El burlador no es solamente quien se ríe
 
@@ -71,10 +71,10 @@ El verso 12 cambia el foco de la percepción al desenlace: lo que parece recto d
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_14_6 | El burlador busca sabiduría sin encontrarla; el entendido recibe conocimiento con sencillez. | Apoyo textual y aplicación atribuida. |
-| #mishlei_14_7 | La “silla de los burladores” se relaciona con posiciones de enseñanza que evaden la responsabilidad y tuercen la interpretación. | Conexión con Tehilim 1 y Mateo 23; inferencia calificada. |
-| #mishlei_14_8 | La prudencia consiste en examinar el propio camino y corregirlo ante יהוה. | Apoyo textual con aplicación pastoral. |
-| #mishlei_14_12 | Una ruta que parece recta puede multiplicarse en caminos de muerte cuando se sostiene el pecado. | Apoyo textual y aplicación alegórica de la clase. |
+| #proverbios_14_6 | El burlador busca sabiduría sin encontrarla; el entendido recibe conocimiento con sencillez. | Apoyo textual y aplicación atribuida. |
+| #proverbios_14_7 | La “silla de los burladores” se relaciona con posiciones de enseñanza que evaden la responsabilidad y tuercen la interpretación. | Conexión con Tehilim 1 y Mateo 23; inferencia calificada. |
+| #proverbios_14_8 | La prudencia consiste en examinar el propio camino y corregirlo ante יהוה. | Apoyo textual con aplicación pastoral. |
+| #proverbios_14_12 | Una ruta que parece recta puede multiplicarse en caminos de muerte cuando se sostiene el pecado. | Apoyo textual y aplicación alegórica de la clase. |
 
 ## Pendiente de verificar
 

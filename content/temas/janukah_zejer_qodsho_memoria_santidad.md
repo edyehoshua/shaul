@@ -11,10 +11,10 @@ tags:
 references:
   - "#daniel_8_9-14"
   - "#daniel_11_31-35"
-  - "#yojanan_10_22-30"
-  - "#devarim_6_4-9"
-  - "#tehilim_30_titulo"
-  - "#tehilim_30_2-4"
+  - "#juan_10_22-30"
+  - "#deuteronomio_6_4-9"
+  - "#salmos_30_titulo"
+  - "#salmos_30_2-4"
 sources:
   - "https://www.youtube.com/watch?v=se8OJZlKeQ8"
   - "docs/scriptures/tth/json/daniel.json"
@@ -40,8 +40,8 @@ El inventario registra `youtube:se8OJZlKeQ8` como «Zéjer Qodshó, el recuerdo 
 | ------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Título público; `youtube:se8OJZlKeQ8` | Eric anuncia una nueva visión de Janukáh ligada al recuerdo de santidad.             | Atribución exacta al título; no se reconstruye una clase ausente.         |
 | #daniel_8_9-14; #daniel_11_31-35      | La profanación del santuario contrasta con la firmeza de quienes conocen a Elohim.   | Control bíblico **cualificado** para hablar de santidad y discernimiento. |
-| #yojanan_10_22-30                     | Yehoshua enseña durante la dedicación y centra la escena en sus obras, voz y ovejas. | La fiesta es escenario histórico, no sustituto de escuchar al Pastor.     |
-| #devarim_6_4-9; #tehilim_30_titulo    | La memoria se enseña en la casa y responde con gratitud al rescate.                  | La santidad recordada debe volverse obediencia y alabanza.                |
+| #juan_10_22-30                     | Yehoshua enseña durante la dedicación y centra la escena en sus obras, voz y ovejas. | La fiesta es escenario histórico, no sustituto de escuchar al Pastor.     |
+| #deuteronomio_6_4-9; #salmos_30_titulo    | La memoria se enseña en la casa y responde con gratitud al rescate.                  | La santidad recordada debe volverse obediencia y alabanza.                |
 
 ## Profanación, conocimiento y firmeza
 
@@ -51,9 +51,9 @@ Daniel 8:9-14 describe una fuerza que afecta el santuario y trastorna el servici
 
 La «nueva visión» anunciada por el título no puede usarse para borrar la memoria anterior ni para afirmar una revelación privada con autoridad superior al texto. La novedad debe ser examinada por la Torah y por el testimonio de Yehoshua. El discernimiento es una obligación de la comunidad, no una licencia para presentar como palabra del expositor lo que la fuente pública no conserva.
 
-## Juan 10:22-30: dedicación y voz del Pastor
+## Juan 10:22-30: dedicación y voz del Pastor #juan_10_22-30
 
-Juan 10:22 sitúa a Yehoshua en Jerusalén durante la fiesta de la dedicación, en invierno. Los interlocutores preguntan si él es el Mesías; Yehoshua responde remitiendo a sus obras y a la incapacidad de creer de quienes no son sus ovejas (#yojanan_10_23-26). La escena no convierte la fecha en mecanismo de salvación. El centro argumental son las obras, la voz, el seguimiento y la mano que guarda a las ovejas.
+Juan 10:22 sitúa a Yehoshua en Jerusalén durante la fiesta de la dedicación, en invierno. Los interlocutores preguntan si él es el Mesías; Yehoshua responde remitiendo a sus obras y a la incapacidad de creer de quienes no son sus ovejas (#juan_10_23-26). La escena no convierte la fecha en mecanismo de salvación. El centro argumental son las obras, la voz, el seguimiento y la mano que guarda a las ovejas.
 
 **ἐγκαίνια**, _enkainia_, significa dedicación, renovación o inauguración; en Juan 10:22 nombra directamente la fiesta. Relacionarla con cada antecedente histórico es **cualificado y aproximado**, porque el versículo no ofrece una historia completa de la celebración. **ἀκούω**, _akouō_, significa oír, escuchar o atender; en 10:27 su fuerza contextual incluye reconocer la voz y responder. «Escuchar» es **directo** en el campo ordinario, mientras convertirlo en una fórmula festiva sería **ilegítimo**. **ἀκολουθέω**, _akoloutheō_, significa seguir, acompañar o hacerse discípulo; aquí expresa una respuesta visible de las ovejas. «Seguir» es **directo** y la aplicación a la vida diaria es **pedagógica**.
 
@@ -83,7 +83,7 @@ La síntesis canónica queda así delimitada. Daniel aporta profanación y perse
 | -------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Título público; `youtube:se8OJZlKeQ8`                    | Eric anuncia el recuerdo de la santidad y una nueva visión de Janukáh.        | Atribución exacta al título; no se afirma contenido ausente.                       |
 | #daniel_8_9-14; #daniel_11_31-35; `youtube:se8OJZlKeQ8`  | El foco anunciado se examina mediante santuario, profanación y perseverancia. | Desarrollo **canónico y cualificado**, no cita de Eric.                            |
-| #yojanan_10_22-30; #devarim_6_4-9; `youtube:se8OJZlKeQ8` | La memoria de dedicación se contrasta con escuchar, seguir y enseñar.         | Apoyo **textual** para la evaluación; la aplicación comunitaria es **pedagógica**. |
+| #juan_10_22-30; #deuteronomio_6_4-9; `youtube:se8OJZlKeQ8` | La memoria de dedicación se contrasta con escuchar, seguir y enseñar.         | Apoyo **textual** para la evaluación; la aplicación comunitaria es **pedagógica**. |
 
 ## Conclusión
 

@@ -6,7 +6,7 @@ tags:
   - parashot
   - shemot
 references:
-  - "#shemot_10_1"
+  - "#exodo_10_1"
 sources:
   - "https://www.youtube.com/watch?v=z3uckjZAVnQ"
   - "docs/scriptures/oe/json/exodus/10.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 10 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                                       | Observación                                                                                           |
 | ------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #shemot_10_1 | **ויאמר יהוה אל משה בא אל פרעה כי אני הכבדתי את לבו ואת לב עבדיו למען שתי אתתי אלה בקרבו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #exodo_10_1 | **ויאמר יהוה אל משה בא אל פרעה כי אני הכבדתי את לבו ואת לב עבדיו למען שתי אתתי אלה בקרבו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -47,5 +47,5 @@ Shemot 10 llama a atender el texto en su propio marco. La sesión aporta una ví
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Bo' (2017) Eating the flesh of the Lamb of God](https://www.youtube.com/watch?v=z3uckjZAVnQ) (source_id: `youtube:z3uckjZAVnQ`).
+- [Parashat Bo' (2017) Eating the flesh of the Lamb of God](https://www.youtube.com/watch?v=z3uckjZAVnQ) (`source_id`: `youtube:z3uckjZAVnQ`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

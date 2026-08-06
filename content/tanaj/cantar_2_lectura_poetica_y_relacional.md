@@ -8,23 +8,23 @@ tags:
   - poesia_biblica
   - amor
 references:
-  - "#songofsolomon_2_1"
-  - "#songofsolomon_2_2"
-  - "#songofsolomon_2_3"
-  - "#songofsolomon_2_4"
-  - "#songofsolomon_2_5"
-  - "#songofsolomon_2_6"
-  - "#songofsolomon_2_7"
-  - "#songofsolomon_2_8"
-  - "#songofsolomon_2_9"
-  - "#songofsolomon_2_10"
-  - "#songofsolomon_2_11"
-  - "#songofsolomon_2_12"
-  - "#songofsolomon_2_13"
-  - "#songofsolomon_2_14"
-  - "#songofsolomon_2_15"
-  - "#songofsolomon_2_16"
-  - "#songofsolomon_2_17"
+  - "#cantares_2_1"
+  - "#cantares_2_2"
+  - "#cantares_2_3"
+  - "#cantares_2_4"
+  - "#cantares_2_5"
+  - "#cantares_2_6"
+  - "#cantares_2_7"
+  - "#cantares_2_8"
+  - "#cantares_2_9"
+  - "#cantares_2_10"
+  - "#cantares_2_11"
+  - "#cantares_2_12"
+  - "#cantares_2_13"
+  - "#cantares_2_14"
+  - "#cantares_2_15"
+  - "#cantares_2_16"
+  - "#cantares_2_17"
 sources:
   - "https://www.youtube.com/watch?v=89ZKcYNYA2w"
   - "https://www.youtube.com/watch?v=UmRcbXvHpD4"
@@ -51,7 +51,7 @@ Esta nota canónica reúne las clases del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia         | Hebreo local (OE, sin nikud)       | Observación                                                                                                                         |
 | ------------------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| #songofsolomon_2_1 | **אני חבצלת השרון שושנת העמקים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
+| #cantares_2_1 | **אני חבצלת השרון שושנת העמקים** | El versículo abre el movimiento poético que la clase recorre; conviene leerlo con las voces y las imágenes inmediatas del capítulo. |
 
 ## Lectura literaria
 
@@ -73,9 +73,9 @@ Cantar 2 invita a una lectura atenta de su poesía: deseo, palabras, cuerpos, lu
 
 Esta nota se elaboró a partir de las enseñanzas del **hermano Eric de Jesús Rodríguez Mendoza**.
 
-- «Shir hashirim (parte6) Cap 2» — https://www.youtube.com/watch?v=89ZKcYNYA2w (`source_id: youtube:89ZKcYNYA2w`).
-- «Shir hashirim (parte 5) Cap 2» — https://www.youtube.com/watch?v=UmRcbXvHpD4 (`source_id: youtube:UmRcbXvHpD4`).
-- «Shir hashirim (parte 7) Cap 2» — https://www.youtube.com/watch?v=-Ddf5ZGmXuQ (`source_id: youtube:-Ddf5ZGmXuQ`).
-- «Shir hashirim (parte 8) Cap 2-3» — https://www.youtube.com/watch?v=ZLEyXytwNVI (`source_id: youtube:ZLEyXytwNVI`).
+- «Shir hashirim (parte6) Cap 2» — https://www.youtube.com/watch?v=89ZKcYNYA2w (`source_id`: youtube:89ZKcYNYA2w`).
+- «Shir hashirim (parte 5) Cap 2» — https://www.youtube.com/watch?v=UmRcbXvHpD4 (`source_id`: youtube:UmRcbXvHpD4`).
+- «Shir hashirim (parte 7) Cap 2» — https://www.youtube.com/watch?v=-Ddf5ZGmXuQ (`source_id`: youtube:-Ddf5ZGmXuQ`).
+- «Shir hashirim (parte 8) Cap 2-3» — https://www.youtube.com/watch?v=ZLEyXytwNVI (`source_id`: youtube:ZLEyXytwNVI`).
 
 Las transcripciones automáticas sirven como guía de estudio y atribución; no son citas literales de los videos.

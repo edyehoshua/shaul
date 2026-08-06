@@ -6,7 +6,7 @@ tags:
   - parashot
   - vaikra
 references:
-  - "#vaikra_14_1"
+  - "#levitico_14_1"
 sources:
   - "https://www.youtube.com/watch?v=kBqgbYQQCCk"
   - "docs/scriptures/oe/json/leviticus/14.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Vayikra 14 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud) | Observación                                                                                           |
 | ------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #vayikra_14_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #levitico_14_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -47,5 +47,5 @@ Vayikra 14 llama a atender el texto en su propio marco. La sesión aporta una v�
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [Parashat Mtzora' (2017) Habéis pasado de muerte a vida](https://www.youtube.com/watch?v=kBqgbYQQCCk) (source_id: `youtube:kBqgbYQQCCk`).
+- [Parashat Mtzora' (2017) Habéis pasado de muerte a vida](https://www.youtube.com/watch?v=kBqgbYQQCCk) (`source_id`: `youtube:kBqgbYQQCCk`).
 - Esta nota organiza y contrasta una transcripción automática; no la presenta como cita literal.

@@ -6,13 +6,13 @@ tags:
   - sodot
   - kehilot
 references:
-  - "#sodot_1_19"
-  - "#sodot_2_1"
-  - "#sodot_2_4"
-  - "#sodot_2_5"
-  - "#korintim_bet_11_4"
-  - "#devarim_13_1"
-  - "#mishlei_3_18"
+  - "#apocalipsis_1_19"
+  - "#apocalipsis_2_1"
+  - "#apocalipsis_2_4"
+  - "#apocalipsis_2_5"
+  - "#2_corintios_11_4"
+  - "#deuteronomio_13_1"
+  - "#proverbios_3_18"
 sources: []
 ---
 
@@ -22,10 +22,10 @@ Sodot se abre aquí como una revelación sobre lo que has visto, lo que es y lo 
 
 ## Texto base
 
-- #sodot_1_19
-- #sodot_2_1
-- #sodot_2_4
-- #sodot_2_5
+- #apocalipsis_1_19
+- #apocalipsis_2_1
+- #apocalipsis_2_4
+- #apocalipsis_2_5
 
 ## Tres tiempos y revelación
 
@@ -48,10 +48,10 @@ Sodot se abre aquí como una revelación sobre lo que has visto, lo que es y lo 
 
 - Volver al primer amor se entiende como volver a las primeras obras mencionadas por Yeshua.
 - Perder el primer amor es dejar de examinar las doctrinas conforme a la torá y el testimonio de Yeshua.
-- #korintim_bet_11_4 y #devarim_13_1 sirven aquí como advertencia contra falsos anunciadores y falsa profecía.
+- #2_corintios_11_4 y #deuteronomio_13_1 sirven aquí como advertencia contra falsos anunciadores y falsa profecía.
 - El que vence es el que soporta el sufrimiento y continúa haciendo las primeras obras.
 
 ## Árbol de la vida
 
-- La nota vincula el árbol de la vida con la torá según #mishlei_3_18.
+- La nota vincula el árbol de la vida con la torá según #proverbios_3_18.
 - No comer del árbol de la vida lleva a comer del árbol del conocimiento del bien y del mal, lectura que la nota relaciona con idolatría.

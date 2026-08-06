@@ -3,16 +3,15 @@ title: "Sacerdote, purificación y Tzémaj"
 description: "Zacarías 3 muestra a Yehoshúa el sumo sacerdote ante יהוה y anuncia al siervo Tzémaj."
 date: 2026-07-27
 tags: [tanaj, zejaryah, haftarah, janukah]
-references: ["Zacarías 3:1-10"]
+references: ["#zacarias_3_1-10"]
 sources:
   - "https://www.youtube.com/watch?v=_E9RcYtZifA"
   - "docs/scriptures/oe/json/zechariah/3.json"
 source_ids: ["youtube:_E9RcYtZifA"]
 ---
-
 ## Tesis
 
-#zechariah_3 presenta la purificación de Yehoshúa el sumo sacerdote y la promesa del siervo llamado Tzémaj, en un marco de restauración posterior al exilio.
+#zacarias_3 presenta la purificación de Yehoshúa el sumo sacerdote y la promesa del siervo llamado Tzémaj, en un marco de restauración posterior al exilio.
 
 ## Alcance de la nota
 
@@ -22,7 +21,7 @@ La clase explica el cambio de haftará en Shabat Janukáh e introduce el context
 
 | Texto local                                                                                                          | Observación                                                           |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| #zechariah_3_8 — `שמע נא יהושע הכהן הגדול אתה ורעיך הישבים לפניך כי אנשי מופת המה כי הנני מביא את עבדי צמח` | Yehoshúa y sus compañeros son señal; יהוה anuncia a su siervo Tzémaj. |
+| #zacarias_3_8 — `שמע נא יהושע הכהן הגדול אתה ורעיך הישבים לפניך כי אנשי מופת המה כי הנני מביא את עבדי צמח` | Yehoshúa y sus compañeros son señal; יהוה anuncia a su siervo Tzémaj. |
 
 ## Conexiones principales
 
@@ -35,4 +34,4 @@ La visión mantiene juntas santidad, servicio y esperanza: יהוה limpia a sus
 
 ## Créditos
 
-Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Miqetz en Shabat Janukáh (2017) El sumo sacerdote Yehoshúa', el Tzémaj](https://www.youtube.com/watch?v=_E9RcYtZifA) — (source_id: `youtube:_E9RcYtZifA`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.
+Material organizado a partir de la transcripción automática del **hermano Eric de Jesús Rodríguez Mendoza**: [Haftaráh de Miqetz en Shabat Janukáh (2017) El sumo sacerdote Yehoshúa', el Tzémaj](https://www.youtube.com/watch?v=_E9RcYtZifA) — (`source_id`: `youtube:_E9RcYtZifA`). La transcripción es automática y se usa solo como apoyo de organización, no como cita literal ni como sustituto de la Escritura.

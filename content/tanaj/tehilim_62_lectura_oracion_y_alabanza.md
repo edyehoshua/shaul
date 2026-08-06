@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_62_1"
-  - "#tehilim_62_13"
+  - "#salmos_62_1"
+  - "#salmos_62_13"
 sources:
   - "https://www.youtube.com/watch?v=MjGRsKPbSSs"
   - "docs/scriptures/oe/json/psalms/62.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 62. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                    | Observación de lectura                                               |
 | -------------- | ------------------------------------------ | -------------------------------------------------------------------- |
-| #tehilim_62_1  | למנצח על ידותון מזמור לדוד               | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_62_13 | ולך אדני חסד כי אתה תשלם לאיש כמעשהו | El verso final permite observar el cierre de la composición.         |
+| #salmos_62_1  | למנצח על ידותון מזמור לדוד               | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_62_13 | ולך אדני חסד כי אתה תשלם לאיש כמעשהו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 62 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Hymnos/Salmo Cap 62» — <https://www.youtube.com/watch?v=MjGRsKPbSSs> — source_id: `youtube:MjGRsKPbSSs`.
+- «Tehilim/Hymnos/Salmo Cap 62» — <https://www.youtube.com/watch?v=MjGRsKPbSSs> — `source_id`: `youtube:MjGRsKPbSSs`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

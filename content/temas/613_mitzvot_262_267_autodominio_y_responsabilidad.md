@@ -9,12 +9,12 @@ tags:
   - responsabilidad
   - torah
 references:
-  - "#bereshit_4_7"
-  - "#mishlei_14_29"
-  - "#mishlei_16_32"
-  - "#mishlei_25_28"
-  - "#yaakov_1_19-20"
-  - "#galatians_5_22-23"
+  - "#genesis_4_7"
+  - "#proverbios_14_29"
+  - "#proverbios_16_32"
+  - "#proverbios_25_28"
+  - "#santiago_1_19-20"
+  - "#galatas_5_22-23"
   - "#romanos_6_12-14"
 sources:
   - "https://www.youtube.com/watch?v=v_02B_oF30A"
@@ -38,17 +38,17 @@ La obediencia no se reduce a reprimir impulsos después de que gobiernan la cond
 
 La única observación atribuible a la sesión `youtube:v_02B_oF30A` es su título público y su alcance anunciado: no ser gobernados por las pasiones. La nota no identifica qué mandamiento concreto explicó Eric ni pone en su boca una aplicación particular. El recorrido canónico comienza con el dominio del pecado en Bereshit, pasa por la sabiduría sobre ira y gobierno propio, y termina con la enseñanza apostólica sobre deseo, fruto del Ruaj y dominio del cuerpo. Esa secuencia es evaluación bíblica, no transcripción.
 
-## Bereshit 4:7: el deseo no es un soberano inevitable
+## Bereshit 4:7: el deseo no es un soberano inevitable #genesis_4_7
 
-En #bereshit_4_7, Elohim advierte a Qayin que el pecado está agazapado y que su deseo se dirige hacia él, pero añade la responsabilidad de gobernarlo. **(חַטָּאת)**, _jatat_, significa pecado o falta; aquí su fuerza contextual es una potencia moral presentada como amenaza inmediata. «Pecado» es una equivalencia **directa**. **(תְּשׁוּקָה)**, _teshuqah_, significa deseo, anhelo o impulso hacia; en este versículo describe una fuerza orientada hacia la persona, no una excusa que elimine su responsabilidad. «Deseo» es **aproximado**, porque el término admite matices de dirección y dominio según el contexto. **(מָשַׁל)**, _mashal_, significa gobernar, reinar o ejercer dominio; aquí su fuerza es la respuesta responsable ante el pecado. «Gobernar» es **directo en contexto**, pero no significa que la persona se salve por autosuficiencia.
+En #genesis_4_7, Elohim advierte a Qayin que el pecado está agazapado y que su deseo se dirige hacia él, pero añade la responsabilidad de gobernarlo. **(חַטָּאת)**, _jatat_, significa pecado o falta; aquí su fuerza contextual es una potencia moral presentada como amenaza inmediata. «Pecado» es una equivalencia **directa**. **(תְּשׁוּקָה)**, _teshuqah_, significa deseo, anhelo o impulso hacia; en este versículo describe una fuerza orientada hacia la persona, no una excusa que elimine su responsabilidad. «Deseo» es **aproximado**, porque el término admite matices de dirección y dominio según el contexto. **(מָשַׁל)**, _mashal_, significa gobernar, reinar o ejercer dominio; aquí su fuerza es la respuesta responsable ante el pecado. «Gobernar» es **directo en contexto**, pero no significa que la persona se salve por autosuficiencia.
 
 La relación con el título del video es clara en el nivel del foco: una pasión no debe convertirse en autoridad. La evaluación debe mantener también el límite: Bereshit 4 no afirma que todo deseo sea pecado ni que el dominio propio sea una técnica psicológica autónoma. El texto llama a discernir y actuar antes de que la inclinación produzca violencia.
 
 ## Sabiduría: fuerza, ira y gobierno interior
 
-Mishlei contrasta la lentitud para la ira con la reacción precipitada. **(אֶרֶךְ אַפַּיִם)**, _erekh appayim_, significa largo de narices, paciente o lento para la ira; en #mishlei_14_29 y #mishlei_16_32 su fuerza pedagógica es una disposición que no se deja arrastrar por la provocación. «Paciente» es **aproximado**; la imagen corporal hebrea no debe confundirse con indiferencia moral. El que domina su espíritu es presentado como más fuerte que quien toma una ciudad: la comparación no glorifica la pasividad, sino el gobierno de la reacción.
+Mishlei contrasta la lentitud para la ira con la reacción precipitada. **(אֶרֶךְ אַפַּיִם)**, _erekh appayim_, significa largo de narices, paciente o lento para la ira; en #proverbios_14_29 y #proverbios_16_32 su fuerza pedagógica es una disposición que no se deja arrastrar por la provocación. «Paciente» es **aproximado**; la imagen corporal hebrea no debe confundirse con indiferencia moral. El que domina su espíritu es presentado como más fuerte que quien toma una ciudad: la comparación no glorifica la pasividad, sino el gobierno de la reacción.
 
-#Mishlei_25_28 compara a quien no tiene dominio sobre su espíritu con una ciudad sin murallas. **(רוּחַ)**, _ruaj_, significa viento, aliento, espíritu o disposición; aquí su fuerza contextual se acerca al ánimo interior que puede quedar expuesto y sin defensa. «Espíritu» es **aproximado**; no se debe reducir automáticamente a una definición técnica del Ruaj haQodesh. **(מַעְצָר)**, _maatsar_, expresa restricción o contención; la imagen de las murallas enseña límites practicados, no control absoluto de cada circunstancia.
+#proverbios_25_28 compara a quien no tiene dominio sobre su espíritu con una ciudad sin murallas. **(רוּחַ)**, _ruaj_, significa viento, aliento, espíritu o disposición; aquí su fuerza contextual se acerca al ánimo interior que puede quedar expuesto y sin defensa. «Espíritu» es **aproximado**; no se debe reducir automáticamente a una definición técnica del Ruaj haQodesh. **(מַעְצָר)**, _maatsar_, expresa restricción o contención; la imagen de las murallas enseña límites practicados, no control absoluto de cada circunstancia.
 
 Este material apoya el núcleo del foco público: dejar que la pasión gobierne es vivir sin murallas. Pero la sabiduría no manda negar las emociones. La ira puede señalar una injusticia; el problema es que la reacción sin juicio se vuelva dueña de la conducta y produzca una palabra o una acción que después no puede deshacerse.
 
@@ -76,7 +76,7 @@ La observación atribuible a Eric recibe **apoyo textual cualificado**: las Escr
 
 | Forma fuente        | Transliteración | Sentido ordinario           | Fuerza contextual                                            | Calificación                        |
 | ------------------- | --------------- | --------------------------- | ------------------------------------------------------------ | ----------------------------------- |
-| **חַטָּאת**         | _jatat_         | pecado, falta               | Amenaza moral que busca gobernar a Qayin                     | Directa en #bereshit_4_7            |
+| **חַטָּאת**         | _jatat_         | pecado, falta               | Amenaza moral que busca gobernar a Qayin                     | Directa en #genesis_4_7            |
 | **תְּשׁוּקָה**      | _teshuqah_      | deseo, anhelo               | Impulso dirigido hacia la persona                            | Aproximada; no todo deseo es pecado |
 | **מָשַׁל**          | _mashal_        | gobernar, reinar            | Responsabilidad de no ceder el gobierno al pecado            | Directa en contexto                 |
 | **אֶרֶךְ אַפַּיִם** | _erekh appayim_ | largo de narices, paciente  | Lentitud deliberada ante la provocación                      | Aproximada en español               |

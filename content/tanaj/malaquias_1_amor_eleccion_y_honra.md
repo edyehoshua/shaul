@@ -7,9 +7,9 @@ tags:
   - malaquias
   - haftarah
 references:
-  - "#malachi_1_1-5"
-  - "#malachi_1_6-10"
-  - "#malachi_1_11-14"
+  - "#malaquias_1_1-5"
+  - "#malaquias_1_6-10"
+  - "#malaquias_1_11-14"
 sources:
   - "https://www.youtube.com/watch?v=zrVHKQKJ5rQ"
   - "docs/scriptures/oe/json/malachi/1.json"
@@ -38,11 +38,11 @@ Esta nota desarrolla la enseñanza del hermano Eric de Jesús Rodríguez Mendoza
 
 | Unidad textual   | Observación concreta de la clase                                                                                                                                                                    | Tratamiento frente al texto local                                                                                                                               |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #malachi_1_1-5   | Eric relaciona el amor de יהוה por Jacob con la historia de Toldot y señala que «¿en qué nos amaste?» no es una petición neutral, sino una señal de que el pueblo no reconoce la elección recibida. | Apoyo textual para el contraste Jacob-Esaú; la conexión con la parashá funciona como marco canónico atribuido, no como cronología demostrada por este capítulo. |
-| #malachi_1_6-10  | Eric observa que un hijo honra a su padre y un siervo teme a su señor, y contrasta ese honor con el pan contaminado, los animales defectuosos y el altar tratado como carga.                        | Apoyo textual: el reproche se dirige a una práctica cultual concreta y a las preguntas de los sacerdotes; la analogía con un gobernador es pedagógica.          |
-| #malachi_1_11-14 | Eric destaca la grandeza universal del nombre y contrapone esa grandeza al oferente que tiene un macho sano pero promete y sacrifica uno defectuoso.                                                | Apoyo textual para la denuncia de engaño; la aplicación a toda práctica contemporánea queda cualificada y no se afirma como equivalencia automática.            |
+| #malaquias_1_1-5   | Eric relaciona el amor de יהוה por Jacob con la historia de Toldot y señala que «¿en qué nos amaste?» no es una petición neutral, sino una señal de que el pueblo no reconoce la elección recibida. | Apoyo textual para el contraste Jacob-Esaú; la conexión con la parashá funciona como marco canónico atribuido, no como cronología demostrada por este capítulo. |
+| #malaquias_1_6-10  | Eric observa que un hijo honra a su padre y un siervo teme a su señor, y contrasta ese honor con el pan contaminado, los animales defectuosos y el altar tratado como carga.                        | Apoyo textual: el reproche se dirige a una práctica cultual concreta y a las preguntas de los sacerdotes; la analogía con un gobernador es pedagógica.          |
+| #malaquias_1_11-14 | Eric destaca la grandeza universal del nombre y contrapone esa grandeza al oferente que tiene un macho sano pero promete y sacrifica uno defectuoso.                                                | Apoyo textual para la denuncia de engaño; la aplicación a toda práctica contemporánea queda cualificada y no se afirma como equivalencia automática.            |
 
-## 1:1-5: el amor que el pueblo pone en duda
+## 1:1-5: el amor que el pueblo pone en duda #malaquias_1_1-5
 
 El encabezamiento presenta una carga de palabra de יהוה a Israel por mano de Malaquías. El primer movimiento no es una demanda humana, sino una declaración divina: **אהבתי אתכם**, _ahavti etkhem_, “los he amado”. La forma hebrea **אהב** (_ahav_) significa amar; en este contexto el perfecto comunica una acción de amor ya afirmada por יהוה hacia el pueblo. La relación entre “amor” y elección es exacta en la respuesta del oráculo, aunque la palabra no resuelve por sí sola todas las preguntas posteriores sobre elección.
 
@@ -50,7 +50,7 @@ La comunidad contesta: **במה אהבתנו**, _bameh ahavtanu_, “¿en qué n
 
 El texto sigue con la devastación de Edom y la afirmación de יהוה de que, aunque Edom diga que volverá a edificar, será llamado territorio de maldad. La función es mostrar que el amor declarado a Jacob no es una emoción abstracta: el oráculo distingue destinos históricos y termina en una confesión comunitaria, “grande es יהוה más allá del territorio de Israel”. **גדול** (_gadol_) significa grande; aquí su fuerza contextual es la grandeza reconocida públicamente. Eric usa este cierre para llevar la discusión de elección a responsabilidad: recibir amor no autoriza a responder con desprecio.
 
-## 1:6-10: del vínculo de hijo a la mesa despreciada
+## 1:6-10: del vínculo de hijo a la mesa despreciada #malaquias_1_6-10
 
 El segundo tramo cambia el interlocutor y se dirige a los sacerdotes. יהוה formula una comparación material: un hijo honra a su padre y un siervo a su señor. **כבוד** (_kavod_) significa honor, peso o reconocimiento; en 1:6 pregunta por qué falta ese peso en el trato al nombre divino. **מורא** (_mora_) significa temor o reverencia; su fuerza aquí no es pánico, sino la actitud que corresponde al señorío. Eric no usa estas palabras como definiciones aisladas: las coloca dentro del reproche a los sacerdotes que ofrecen y luego preguntan cómo han despreciado el nombre.
 
@@ -58,7 +58,7 @@ La respuesta es concreta. Ellos presentan sobre el altar pan contaminado y llama
 
 El v. 10 lleva la denuncia a su límite: “¿quién hay también entre vosotros que cierre las puertas, para que no encendáis mi altar en vano?”. La frase no es una invitación a abandonar la adoración, sino una medida retórica contra el culto vacío. **חנם** (_chinnam_) significa gratuitamente o sin provecho; aquí expresa que el servicio defectuoso no produce la honra que pretende producir. Eric insiste en que el problema no es la falta de lenguaje religioso, sino dar a יהוה lo que el oferente no se atrevería a dar a una autoridad humana.
 
-## 1:11-14: el nombre grande y el que engaña
+## 1:11-14: el nombre grande y el que engaña #malaquias_1_11-14
 
 El horizonte se ensancha: desde el nacimiento del sol hasta su puesta, el nombre de יהוה es grande entre las naciones. El texto menciona incienso y ofrenda pura en todo lugar; esta nota no necesita convertir la frase en un manual litúrgico posterior. Su función en el argumento es contrastiva: la grandeza del nombre entre las naciones deja sin defensa la mesa que los sacerdotes llaman despreciable.
 
@@ -94,5 +94,5 @@ Malaquías 1 no permite separar elección y honra. יהוה declara su amor a Ja
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: «Haftarah de Toldot (2017) Yehoshúa' Hamashíaj es 'Elohim» — <https://www.youtube.com/watch?v=zrVHKQKJ5rQ> — source_id: `youtube:zrVHKQKJ5rQ`.
+- Video: «Haftarah de Toldot (2017) Yehoshúa' Hamashíaj es 'Elohim» — <https://www.youtube.com/watch?v=zrVHKQKJ5rQ> — `source_id`: `youtube:zrVHKQKJ5rQ`.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.

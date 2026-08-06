@@ -8,19 +8,19 @@ tags:
   - yehoshua
   - yerushalayim
 references:
-  - "#revelation_21_1"
-  - "#revelation_21_2"
-  - "#revelation_21_3"
-  - "#revelation_21_4"
-  - "#revelation_21_5"
-  - "#revelation_21_6"
-  - "#revelation_21_9"
-  - "#revelation_21_10"
-  - "#revelation_21_12"
-  - "#revelation_21_22"
-  - "#revelation_21_23"
-  - "#revelation_21_24"
-  - "#revelation_21_27"
+  - "#apocalipsis_21_1"
+  - "#apocalipsis_21_2"
+  - "#apocalipsis_21_3"
+  - "#apocalipsis_21_4"
+  - "#apocalipsis_21_5"
+  - "#apocalipsis_21_6"
+  - "#apocalipsis_21_9"
+  - "#apocalipsis_21_10"
+  - "#apocalipsis_21_12"
+  - "#apocalipsis_21_22"
+  - "#apocalipsis_21_23"
+  - "#apocalipsis_21_24"
+  - "#apocalipsis_21_27"
 sources:
   - "https://www.youtube.com/watch?v=XBgxlv_WKGQ"
   - "docs/scriptures/delitzsch/json/revelation.json"
@@ -41,38 +41,38 @@ Esta nota organiza la enseñanza correspondiente a la parte 29 de la serie del h
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #revelation_21_1 | **וארא שמים חדשים וארץ חדשה כי השמים הראשנים והארץ הראשונה עברו והים איננו עוד** | Abre la visión con cielo y tierra nuevos y con la desaparición del mar. |
-| #revelation_21_2-3 | **וארא והנה העיר הקדושה ירושלים החדשה ירדת מאת האלהים מן־השמים והיא מתוקנת ככלה המקשטת לבעלה**; **ואשמע קול גדול מן־הכסא לאמר הנה משכן אלהים עם בני האדם ושכן בתוכם** | Une ciudad, esposa y presencia de Elohim con los seres humanos. |
-| #revelation_21_4-5 | **ומחה אלהים כל־דמעה מעיניהם והמות לא יהיה־עוד וגם־אבל וזעקה וכאב לא יהיה־עוד**; **הנני עשה הכל חדש** | Describe consuelo y renovación, y califica las palabras como fieles y verdaderas. |
-| #revelation_21_6-8 | **אני האלף והתיו הראש והסוף אני אתן לצמא ממעין מים חיים חנם**; **המנצח יירש הכל** | Presenta agua de vida, herencia y contraste con quienes permanecen en la rebelión. |
-| #revelation_21_9-12 | **בא ואראך את־הכלה אשת השה**; **ויאמר לי העיר הקדושה ירושלים הגדולה ירדת מן־השמים מאת האלהים**; **שמות שנים־עשר שבטי בני ישראל** | El ángel muestra a la esposa como ciudad; las puertas llevan los nombres de las tribus. |
-| #revelation_21_15-17 | **קנה זהב למד את־העיר ואת־שעריה ואת־חומתה**; **שנים עשר אלף ריס ארכה ורחבה וקומתה** | Las medidas cúbicas y la medida de la muralla pertenecen al lenguaje visionario del capítulo. |
-| #revelation_21_22-23 | **והיכל לא־ראיתי בה כי יהוה אלהים צבאות הוא והשה היכלה**; **ונרה הוא השה** | No hay templo separado: יהוה y el Cordero son el santuario; el Cordero es la lámpara. |
-| #revelation_21_24-27 | **והגוים ילכו לאורה ומלכי־ארץ מביאים כבודם**; **ולא־יבוא בה כל־טמא... כי אם־הכתובים בספר החיים של־השה** | Las naciones aparecen bajo la luz, pero la entrada se limita a quienes están escritos en el libro de la vida. |
+| #apocalipsis_21_1 | **וארא שמים חדשים וארץ חדשה כי השמים הראשנים והארץ הראשונה עברו והים איננו עוד** | Abre la visión con cielo y tierra nuevos y con la desaparición del mar. |
+| #apocalipsis_21_2-3 | **וארא והנה העיר הקדושה ירושלים החדשה ירדת מאת האלהים מן־השמים והיא מתוקנת ככלה המקשטת לבעלה**; **ואשמע קול גדול מן־הכסא לאמר הנה משכן אלהים עם בני האדם ושכן בתוכם** | Une ciudad, esposa y presencia de Elohim con los seres humanos. |
+| #apocalipsis_21_4-5 | **ומחה אלהים כל־דמעה מעיניהם והמות לא יהיה־עוד וגם־אבל וזעקה וכאב לא יהיה־עוד**; **הנני עשה הכל חדש** | Describe consuelo y renovación, y califica las palabras como fieles y verdaderas. |
+| #apocalipsis_21_6-8 | **אני האלף והתיו הראש והסוף אני אתן לצמא ממעין מים חיים חנם**; **המנצח יירש הכל** | Presenta agua de vida, herencia y contraste con quienes permanecen en la rebelión. |
+| #apocalipsis_21_9-12 | **בא ואראך את־הכלה אשת השה**; **ויאמר לי העיר הקדושה ירושלים הגדולה ירדת מן־השמים מאת האלהים**; **שמות שנים־עשר שבטי בני ישראל** | El ángel muestra a la esposa como ciudad; las puertas llevan los nombres de las tribus. |
+| #apocalipsis_21_15-17 | **קנה זהב למד את־העיר ואת־שעריה ואת־חומתה**; **שנים עשר אלף ריס ארכה ורחבה וקומתה** | Las medidas cúbicas y la medida de la muralla pertenecen al lenguaje visionario del capítulo. |
+| #apocalipsis_21_22-23 | **והיכל לא־ראיתי בה כי יהוה אלהים צבאות הוא והשה היכלה**; **ונרה הוא השה** | No hay templo separado: יהוה y el Cordero son el santuario; el Cordero es la lámpara. |
+| #apocalipsis_21_24-27 | **והגוים ילכו לאורה ומלכי־ארץ מביאים כבודם**; **ולא־יבוא בה כל־טמא... כי אם־הכתובים בספר החיים של־השה** | Las naciones aparecen bajo la luz, pero la entrada se limita a quienes están escritos en el libro de la vida. |
 
-## Del mar que desaparece a la creación renovada: 21:1-8
+## Del mar que desaparece a la creación renovada: 21:1-8 #apocalipsis_21_1-8
 
 Eric comienza relacionando Apocalipsis 21:1 con la escena anterior del lago de fuego. La clase observa que **(θάλασσα)** (*thalassa*, “mar”) puede abarcar mar, lago o una extensión de agua, y propone que aquí el mar representa el lavatorio o la purificación que ya no seguirá produciéndose. La palabra griega normalmente designa un mar o una gran extensión de agua; por tanto, aplicar “mar” a un proceso de purificación es una lectura simbólica de la clase, no una definición léxica. El texto sólo dice que el mar ya no está y no autoriza por sí solo a afirmar que no habrá agua en el mundo venidero.
 
-La visión continúa con el descenso de la ciudad y con la voz que anuncia que el tabernáculo de Elohim está con los seres humanos (#revelation_21_2-3). Eric insiste en que la ciudad no debe reducirse a edificios: la esposa representa también al pueblo reunido. La nota conserva esa observación porque el mismo bloque cambia de “ciudad” a “esposa” y luego explica la presencia con “ellos serán su pueblo”. Es una conexión textual sólida, aunque identificar sin resto la ciudad con una institución histórica concreta excedería el pasaje.
+La visión continúa con el descenso de la ciudad y con la voz que anuncia que el tabernáculo de Elohim está con los seres humanos (#apocalipsis_21_2-3). Eric insiste en que la ciudad no debe reducirse a edificios: la esposa representa también al pueblo reunido. La nota conserva esa observación porque el mismo bloque cambia de “ciudad” a “esposa” y luego explica la presencia con “ellos serán su pueblo”. Es una conexión textual sólida, aunque identificar sin resto la ciudad con una institución histórica concreta excedería el pasaje.
 
 En 21:4-5 la clase relaciona “hacer nuevas todas las cosas” con renovación permanente: vida que no deja de renovarse sin que la persona deje de ser quien es. El verbo griego **(ποιέω)** (*poieō*, “hacer”) con **(καινός)** (*kainos*, “nuevo” en sentido de novedad o cualidad) sostiene la afirmación de una acción renovadora; no prueba una teoría biológica sobre ciclos celulares. El texto sí afirma que muerte, duelo, clamor y dolor ya no serán, y que las palabras son fieles y verdaderas. La observación de Eric se conserva como una aplicación explicativa, no como una conclusión médica.
 
-## La esposa, la morada y el cumplimiento profético: 21:9-14
+## La esposa, la morada y el cumplimiento profético: 21:9-14 #apocalipsis_21_9-14
 
-El mensajero muestra “la esposa, la mujer del Cordero” y enseña la ciudad santa que desciende (#revelation_21_9-10). Eric conecta esta esposa con la de las bodas del Cordero y con la comunidad, y lee el descenso como cumplimiento de lo anunciado en la Torá y los profetas. **(νύμφη)** (*nymphē*, “novia” o “esposa”) y **(πόλις)** (*polis*, “ciudad”) no son sinónimos léxicos; son dos imágenes que el relato coloca en relación. La equivalencia “esposa = iglesia” es una interpretación teológica de la clase, apoyada por la alternancia de imágenes, no una traducción automática.
+El mensajero muestra “la esposa, la mujer del Cordero” y enseña la ciudad santa que desciende (#apocalipsis_21_9-10). Eric conecta esta esposa con la de las bodas del Cordero y con la comunidad, y lee el descenso como cumplimiento de lo anunciado en la Torá y los profetas. **(νύμφη)** (*nymphē*, “novia” o “esposa”) y **(πόλις)** (*polis*, “ciudad”) no son sinónimos léxicos; son dos imágenes que el relato coloca en relación. La equivalencia “esposa = iglesia” es una interpretación teológica de la clase, apoyada por la alternancia de imágenes, no una traducción automática.
 
-La ciudad tiene doce puertas con los nombres de las doce tribus de Israel (#revelation_21_12-13) y doce fundamentos con los nombres de los enviados del Cordero (#revelation_21_14). Eric usa estos datos para insistir en la continuidad de la promesa y en que la visión no borra a Israel. Esa observación respeta los nombres explícitos del pasaje. La relación exacta entre cada puerta, cada tribu y la identidad histórica de cada enviado requiere más cotejo; no se debe llenar ese silencio con una lista inventada.
+La ciudad tiene doce puertas con los nombres de las doce tribus de Israel (#apocalipsis_21_12-13) y doce fundamentos con los nombres de los enviados del Cordero (#apocalipsis_21_14). Eric usa estos datos para insistir en la continuidad de la promesa y en que la visión no borra a Israel. Esa observación respeta los nombres explícitos del pasaje. La relación exacta entre cada puerta, cada tribu y la identidad histórica de cada enviado requiere más cotejo; no se debe llenar ese silencio con una lista inventada.
 
-## Medidas, santuario y luz: 21:15-23
+## Medidas, santuario y luz: 21:15-23 #apocalipsis_21_15-23
 
-Las medidas de la ciudad son iguales en largo, ancho y altura, y la muralla se mide con medida humana y angélica (#revelation_21_15-17). Eric llama la atención sobre la escala y sobre el carácter visionario de la descripción. La nota no convierte los doce mil estadios ni las ciento cuarenta y cuatro codos en una predicción cartográfica sin verificar los sistemas antiguos de medida. La forma hebrea **(מידה)** (*midah*, “medida”) en el texto local permite seguir el acto de medir, pero el Delitzsch es una traducción hebrea del texto griego y no resuelve por sí mismo la simbología numérica.
+Las medidas de la ciudad son iguales en largo, ancho y altura, y la muralla se mide con medida humana y angélica (#apocalipsis_21_15-17). Eric llama la atención sobre la escala y sobre el carácter visionario de la descripción. La nota no convierte los doce mil estadios ni las ciento cuarenta y cuatro codos en una predicción cartográfica sin verificar los sistemas antiguos de medida. La forma hebrea **(מידה)** (*midah*, “medida”) en el texto local permite seguir el acto de medir, pero el Delitzsch es una traducción hebrea del texto griego y no resuelve por sí mismo la simbología numérica.
 
-La ausencia de templo separado es decisiva: “יהוה אלהים צבאות” y el Cordero son su santuario (#revelation_21_22). Eric lo enlaza con el tema del templo mayor y con la presencia directa. **(ναός)** (*naos*) designa el santuario o espacio interior del templo; su ausencia en la ciudad no significa ausencia de culto, sino que el texto identifica la presencia divina y del Cordero como el lugar santo. La ciudad tampoco necesita sol ni luna porque la gloria de Elohim la ilumina y el Cordero es su lámpara (#revelation_21_23). **(δόξα)** (*doxa*, “gloria”) y **(λύχνος)** (*lychnos*, “lámpara”) describen fuente de honor y luz en el argumento; la identificación del Cordero con la lámpara es explícita, mientras que sus consecuencias cosmológicas deben mantenerse en el nivel de la visión.
+La ausencia de templo separado es decisiva: “יהוה אלהים צבאות” y el Cordero son su santuario (#apocalipsis_21_22). Eric lo enlaza con el tema del templo mayor y con la presencia directa. **(ναός)** (*naos*) designa el santuario o espacio interior del templo; su ausencia en la ciudad no significa ausencia de culto, sino que el texto identifica la presencia divina y del Cordero como el lugar santo. La ciudad tampoco necesita sol ni luna porque la gloria de Elohim la ilumina y el Cordero es su lámpara (#apocalipsis_21_23). **(δόξα)** (*doxa*, “gloria”) y **(λύχνος)** (*lychnos*, “lámpara”) describen fuente de honor y luz en el argumento; la identificación del Cordero con la lámpara es explícita, mientras que sus consecuencias cosmológicas deben mantenerse en el nivel de la visión.
 
-## Naciones, pureza y esperanza abierta: 21:24-27
+## Naciones, pureza y esperanza abierta: 21:24-27 #apocalipsis_21_24-27
 
-Eric destaca la pregunta difícil de qué hacen las naciones en la ciudad. La clase lee **(ἔθνη)** (*ethnē*, “naciones” o “pueblos”) como gentiles y observa que caminan a la luz y traen su gloria, mientras que nada impuro entra (#revelation_21_24-27). El pasaje sí conserva ambas afirmaciones; no permite resolver sin más si se trata de pueblos ya dentro, de quienes llegan a la ciudad o de una imagen de alcance universal. La nota deja pendiente cualquier sistema escatológico construido sólo a partir de esta frase.
+Eric destaca la pregunta difícil de qué hacen las naciones en la ciudad. La clase lee **(ἔθνη)** (*ethnē*, “naciones” o “pueblos”) como gentiles y observa que caminan a la luz y traen su gloria, mientras que nada impuro entra (#apocalipsis_21_24-27). El pasaje sí conserva ambas afirmaciones; no permite resolver sin más si se trata de pueblos ya dentro, de quienes llegan a la ciudad o de una imagen de alcance universal. La nota deja pendiente cualquier sistema escatológico construido sólo a partir de esta frase.
 
 La enseñanza también relaciona el capítulo con 1 Corintios 15, Salmo 110 y Hebreos 10 para explicar la entrega del reino, la sujeción de los enemigos y aquello que todavía no se ha manifestado. Esas conexiones pueden orientar una lectura canónica, pero no deben presentarse como si Apocalipsis 21 las citara directamente. El cierre del capítulo ofrece un límite claro: la esperanza es amplia, pero la entrada se vincula al libro de la vida del Cordero.
 

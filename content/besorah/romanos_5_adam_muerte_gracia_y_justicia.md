@@ -23,7 +23,7 @@ references:
   - "#romanos_3_20"
   - "#romanos_3_23"
   - "#romanos_8_1-4"
-  - "#bereshit_3_1-24"
+  - "#genesis_3_1-24"
 sources:
   - "https://www.youtube.com/watch?v=WQq_loecKIM"
   - "https://www.youtube.com/watch?v=ePW-rAPrIAo"
@@ -177,6 +177,6 @@ La forma **(παράπτωμα)**, _paraptōma_, significa transgresión o delit
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- [La carta a los romanos (Parte 11) Los reconciliados. Cap 5:1-11](https://www.youtube.com/watch?v=WQq_loecKIM) (source_id: `youtube:WQq_loecKIM`).
-- [La carta a los romanos (parte 12) Cap 5:12 ss](https://www.youtube.com/watch?v=ePW-rAPrIAo) (source_id: `youtube:ePW-rAPrIAo`).
+- [La carta a los romanos (Parte 11) Los reconciliados. Cap 5:1-11](https://www.youtube.com/watch?v=WQq_loecKIM) (`source_id`: `youtube:WQq_loecKIM`).
+- [La carta a los romanos (parte 12) Cap 5:12 ss](https://www.youtube.com/watch?v=ePW-rAPrIAo) (`source_id`: `youtube:ePW-rAPrIAo`).
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

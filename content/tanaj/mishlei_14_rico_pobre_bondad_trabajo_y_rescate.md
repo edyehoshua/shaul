@@ -4,16 +4,16 @@ description: "Estudio de Mishlei 14:20-25 sobre el compañero despreciado, la co
 date: 2026-08-05
 tags: [mishlei, mishlei_14, rico, pobre, bondad, rescate]
 references:
-  - "#mishlei_14_20"
-  - "#mishlei_14_21"
-  - "#mishlei_14_22"
-  - "#mishlei_14_23"
-  - "#mishlei_14_24"
-  - "#mishlei_14_25"
+  - "#proverbios_14_20"
+  - "#proverbios_14_21"
+  - "#proverbios_14_22"
+  - "#proverbios_14_23"
+  - "#proverbios_14_24"
+  - "#proverbios_14_25"
   - "#mateo_6_19"
   - "#lucas_16_19"
   - "#santiago_2_5"
-  - "#tehilim_23_1"
+  - "#salmos_23_1"
 sources:
   - "https://www.youtube.com/watch?v=Egg-vd53Is0"
   - "docs/scriptures/oe/json/proverbs/14.json"
@@ -35,12 +35,12 @@ Esta nota organiza la clase sobre Mishlei 14:20-25 y sigue el orden de sus unida
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #mishlei_14_20 | גם לרעהו ישנא רש ואהבי עשיר רבים | Incluso por su compañero es odiado el pobre, pero los amantes del rico son muchos. |
-| #mishlei_14_21 | בז לרעהו חוטא ומחונן עניים ענוים אשריו | El que menosprecia a su compañero peca, pero el que muestra favor a los afligidos es feliz. |
-| #mishlei_14_22 | הלוא יתעו חרשי רע וחסד ואמת חרשי טוב | ¿No se extravían los que traman mal? bondad y verdad habrá para los que traman bien. |
-| #mishlei_14_23 | בכל עצב יהיה מותר ודבר שפתים אך למחסור | En todo trabajo duro habrá ganancia, pero la palabra de los labios será sólo para escasez. |
-| #mishlei_14_24 | עטרת חכמים עשרם אולת כסילים אולת | La corona de los sabios es su riqueza, la tontería de los indisciplinados es tontería. |
-| #mishlei_14_25 | מציל נפשות עד אמת ויפח כזבים מרמה | Rescata vidas el testigo de verdad, pero el que sopla mentiras, es engaño. |
+| #proverbios_14_20 | גם לרעהו ישנא רש ואהבי עשיר רבים | Incluso por su compañero es odiado el pobre, pero los amantes del rico son muchos. |
+| #proverbios_14_21 | בז לרעהו חוטא ומחונן עניים ענוים אשריו | El que menosprecia a su compañero peca, pero el que muestra favor a los afligidos es feliz. |
+| #proverbios_14_22 | הלוא יתעו חרשי רע וחסד ואמת חרשי טוב | ¿No se extravían los que traman mal? bondad y verdad habrá para los que traman bien. |
+| #proverbios_14_23 | בכל עצב יהיה מותר ודבר שפתים אך למחסור | En todo trabajo duro habrá ganancia, pero la palabra de los labios será sólo para escasez. |
+| #proverbios_14_24 | עטרת חכמים עשרם אולת כסילים אולת | La corona de los sabios es su riqueza, la tontería de los indisciplinados es tontería. |
+| #proverbios_14_25 | מציל נפשות עד אמת ויפח כזבים מרמה | Rescata vidas el testigo de verdad, pero el que sopla mentiras, es engaño. |
 
 ## El rico y el pobre en la lógica de la clase
 
@@ -89,10 +89,10 @@ El verso 25 cierra la unidad con un rescate: el testigo de verdad salva vidas, m
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #mishlei_14_20-21 | El _rash_ es leído como pobre en tesoros celestiales; el _ashir_ como rico en יהוה, y el compasivo como bienaventurado. | Distinción léxica apoyada; lectura espiritual y aplicación a Elohim calificadas. |
-| #mishlei_14_22 | Tramar mal extravía; _jésed_ y _emet_ acompañan a quien piensa el bien. | Contraste textual apoyado; identificación de _emet_ con Yehoshua es mesiánica. |
-| #mishlei_14_23 | El trabajo duro produce ganancia; la palabra sin obra deja en escasez. | Exhortación textual apoyada; aplicación a trabajo espiritual calificada. |
-| #mishlei_14_24-25 | La riqueza corona al sabio y el testigo verdadero rescata vidas; la mentira es estéril. | Cierre textual apoyado; identificación del testigo con Yehoshua atribuida a la clase. |
+| #proverbios_14_20-21 | El _rash_ es leído como pobre en tesoros celestiales; el _ashir_ como rico en יהוה, y el compasivo como bienaventurado. | Distinción léxica apoyada; lectura espiritual y aplicación a Elohim calificadas. |
+| #proverbios_14_22 | Tramar mal extravía; _jésed_ y _emet_ acompañan a quien piensa el bien. | Contraste textual apoyado; identificación de _emet_ con Yehoshua es mesiánica. |
+| #proverbios_14_23 | El trabajo duro produce ganancia; la palabra sin obra deja en escasez. | Exhortación textual apoyada; aplicación a trabajo espiritual calificada. |
+| #proverbios_14_24-25 | La riqueza corona al sabio y el testigo verdadero rescata vidas; la mentira es estéril. | Cierre textual apoyado; identificación del testigo con Yehoshua atribuida a la clase. |
 
 ## Pendiente de verificar
 

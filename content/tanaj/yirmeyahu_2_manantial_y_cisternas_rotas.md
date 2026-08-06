@@ -3,7 +3,7 @@ title: "Manantial de vida y cisternas rotas"
 description: "Jeremías 2 denuncia el abandono de יהוה, fuente de aguas vivas, y llama a examinar las alianzas que no pueden sostener la vida."
 date: 2026-07-30
 tags: [tanaj, yirmeyahu, haftarah, matot_masei]
-references: ["#yirmeyahu_2_2", "#yirmeyahu_2_11", "#yirmeyahu_2_13", "#yirmeyahu_2_20"]
+references: ["#jeremias_2_2", "#jeremias_2_11", "#jeremias_2_13", "#jeremias_2_20"]
 sources: ["https://www.youtube.com/watch?v=LfXDqma0ONk", "docs/scriptures/oe/json/jeremiah/2.json"]
 source_ids: ["youtube:LfXDqma0ONk"]
 ---
@@ -50,12 +50,12 @@ El corpus OE local conserva aquí el hebreo sin nikud en `hebrew_no_nikud`; se n
 
 | Referencia      | Texto hebreo local normalizado                                                                             | Función en la enseñanza                                                                                         |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| #yirmeyahu_2_2  | **הלך וקראת באזני ירושלם לאמר כה אמר יהוה זכרתי לך חסד נעוריך אהבת כלולתיך לכתך אחרי במדבר בארץ לא זרועה** | La memoria del amor y del seguimiento en el desierto antecede a la acusación.                                   |
-| #yirmeyahu_2_11 | **ההימיר גוי אלהים והמה לא אלהים ועמי המיר כבודו בלוא יועיל**                                              | El intercambio de la gloria por lo inútil prepara el diagnóstico de la fuente abandonada.                       |
-| #yirmeyahu_2_13 | **כי שתים רעות עשה עמי אתי עזבו מקור מים חיים לחצב להם בארות בארת נשברים אשר לא יכלו המים**                | El texto formula los dos males: dejar a יהוה y cavar depósitos rotos que no retienen agua.                      |
-| #yirmeyahu_2_20 | **כי מעולם שברתי עלך נתקתי מוסרתיך ותאמרי לא אעבד אעבור כי על כל גבעה גבהה ותחת כל עץ רענן את צעה זנה**    | La ruptura del yugo y la infidelidad muestran que la cisterna es una decisión persistente, no un accidente.     |
-| #yirmeyahu_2_27 | **אמרים לעץ אבי אתה ולאבן את ילדתני ילדתנו כי פנו אלי ערף ולא פנים ובעת רעתם יאמרו קומה והושיענו**         | La madera y la piedra reciben confianza en lugar de יהוה, y luego se les exige una salvación que no pueden dar. |
-| #yirmeyahu_2_37 | **גם מאת זה תצאי וידיך על ראשך כי מאס יהוה במבטחיך ולא תצליחי להם**                                        | El cierre prueba las alianzas: los apoyos alternativos terminan en vergüenza y fracaso.                         |
+| #jeremias_2_2  | **הלך וקראת באזני ירושלם לאמר כה אמר יהוה זכרתי לך חסד נעוריך אהבת כלולתיך לכתך אחרי במדבר בארץ לא זרועה** | La memoria del amor y del seguimiento en el desierto antecede a la acusación.                                   |
+| #jeremias_2_11 | **ההימיר גוי אלהים והמה לא אלהים ועמי המיר כבודו בלוא יועיל**                                              | El intercambio de la gloria por lo inútil prepara el diagnóstico de la fuente abandonada.                       |
+| #jeremias_2_13 | **כי שתים רעות עשה עמי אתי עזבו מקור מים חיים לחצב להם בארות בארת נשברים אשר לא יכלו המים**                | El texto formula los dos males: dejar a יהוה y cavar depósitos rotos que no retienen agua.                      |
+| #jeremias_2_20 | **כי מעולם שברתי עלך נתקתי מוסרתיך ותאמרי לא אעבד אעבור כי על כל גבעה גבהה ותחת כל עץ רענן את צעה זנה**    | La ruptura del yugo y la infidelidad muestran que la cisterna es una decisión persistente, no un accidente.     |
+| #jeremias_2_27 | **אמרים לעץ אבי אתה ולאבן את ילדתני ילדתנו כי פנו אלי ערף ולא פנים ובעת רעתם יאמרו קומה והושיענו**         | La madera y la piedra reciben confianza en lugar de יהוה, y luego se les exige una salvación que no pueden dar. |
+| #jeremias_2_37 | **גם מאת זה תצאי וידיך על ראשך כי מאס יהוה במבטחיך ולא תצליחי להם**                                        | El cierre prueba las alianzas: los apoyos alternativos terminan en vergüenza y fracaso.                         |
 
 ## Hoja léxica
 
@@ -83,6 +83,6 @@ Jeremías 2 llama a distinguir entre una fuente que da vida y una cisterna que s
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Haftarah de Matot-Mas'ey (2018) La fuente de Yisra'el](https://www.youtube.com/watch?v=LfXDqma0ONk) — source_id: `youtube:LfXDqma0ONk`.
+- Video: [Haftarah de Matot-Mas'ey (2018) La fuente de Yisra'el](https://www.youtube.com/watch?v=LfXDqma0ONk) — `source_id`: `youtube:LfXDqma0ONk`.
 - Texto bíblico local: Jeremías 2 en el índice OE (`docs/scriptures/oe/json/jeremiah/2.json`).
 - Esta nota organiza la enseñanza pública y la contrasta con el texto bíblico local; no presenta una transcripción automática como cita literal.

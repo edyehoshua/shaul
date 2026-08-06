@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_90_1"
-  - "#tehilim_90_17"
+  - "#salmos_90_1"
+  - "#salmos_90_17"
 sources:
   - "https://www.youtube.com/watch?v=AN3z1oEaXjE"
   - "docs/scriptures/oe/json/psalms/90.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 90. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                                          | Observación de lectura                                               |
 | -------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_90_1  | תפלה למשה איש האלהים אדני מעון אתה היית לנו בדר ודר                        | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_90_17 | ויהי נעם אדני אלהינו עלינו ומעשה ידינו כוננה עלינו ומעשה ידינו כוננהו | El verso final permite observar el cierre de la composición.         |
+| #salmos_90_1  | תפלה למשה איש האלהים אדני מעון אתה היית לנו בדר ודר                        | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_90_17 | ויהי נעם אדני אלהינו עלינו ומעשה ידינו כוננה עלינו ומעשה ידינו כוננהו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 90 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap. 90» — <https://www.youtube.com/watch?v=AN3z1oEaXjE> — source_id: `youtube:AN3z1oEaXjE`.
+- «Tehilim/Himnos/Salmo Cap. 90» — <https://www.youtube.com/watch?v=AN3z1oEaXjE> — `source_id`: `youtube:AN3z1oEaXjE`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.

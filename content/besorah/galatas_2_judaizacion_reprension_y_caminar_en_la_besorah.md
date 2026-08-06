@@ -10,21 +10,21 @@ tags:
   - emunah
   - mesias
 references:
-  - "#galatians_2_11"
-  - "#galatians_2_12"
-  - "#galatians_2_13"
-  - "#galatians_2_14"
-  - "#galatians_2_15"
-  - "#galatians_2_16"
-  - "#galatians_2_17"
-  - "#galatians_2_18"
-  - "#galatians_2_19"
-  - "#galatians_2_20"
-  - "#galatians_2_21"
-  - "#acts_10_34"
-  - "#acts_15_19"
-  - "#romans_4_3"
-  - "#hebrews_4_9"
+  - "#galatas_2_11"
+  - "#galatas_2_12"
+  - "#galatas_2_13"
+  - "#galatas_2_14"
+  - "#galatas_2_15"
+  - "#galatas_2_16"
+  - "#galatas_2_17"
+  - "#galatas_2_18"
+  - "#galatas_2_19"
+  - "#galatas_2_20"
+  - "#galatas_2_21"
+  - "#hechos_10_34"
+  - "#hechos_15_19"
+  - "#romanos_4_3"
+  - "#hebreos_4_9"
 sources:
   - "https://www.youtube.com/watch?v=QxG0zi25Wgg"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -45,12 +45,12 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La JUDAIZACIÓN en
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatians_2_11-14 | **וכאשר בא כיפא לאנטיוכיא הוכחתי דרכו אל־פניו ... ובראותי שלא ישרו ללכת כאמת הבשורה** | Kefa se aparta por temor; Pablo juzga que la conducta no camina rectamente según la verdad de la besorah. |
-| #galatians_2_15-16 | **הן מזרע היהודים אנחנו ולא חטאים מן־הגוים ... ולא־יצדק אדם מתוך מעשי התורה כי אם־באמונת ישוע המשיח** | La justificación no se obtiene por obras; el texto centra la confianza en Yehoshua el Mesías. |
-| #galatians_2_17-18 | **ואם נמצא גם־אנחנו חטאים ... חלילה׃ כי אם־אשוב ואבנה את־אשר סתרתי אעשה את־עצמי לפשע** | La gracia no hace al Mesías servidor del pecado; volver a levantar lo derribado convierte al propio sujeto en transgresor. |
-| #galatians_2_19-21 | **כי־מתי אני לתורה על־ידי התורה למען אחיה לאלהים׃ עם־המשיח נצלבתי ... לא אבטל את־חסד האלהים** | Morir con el Mesías produce vida para Elohim; anular la gracia haría vana la muerte del Mesías. |
+| #galatas_2_11-14 | **וכאשר בא כיפא לאנטיוכיא הוכחתי דרכו אל־פניו ... ובראותי שלא ישרו ללכת כאמת הבשורה** | Kefa se aparta por temor; Pablo juzga que la conducta no camina rectamente según la verdad de la besorah. |
+| #galatas_2_15-16 | **הן מזרע היהודים אנחנו ולא חטאים מן־הגוים ... ולא־יצדק אדם מתוך מעשי התורה כי אם־באמונת ישוע המשיח** | La justificación no se obtiene por obras; el texto centra la confianza en Yehoshua el Mesías. |
+| #galatas_2_17-18 | **ואם נמצא גם־אנחנו חטאים ... חלילה׃ כי אם־אשוב ואבנה את־אשר סתרתי אעשה את־עצמי לפשע** | La gracia no hace al Mesías servidor del pecado; volver a levantar lo derribado convierte al propio sujeto en transgresor. |
+| #galatas_2_19-21 | **כי־מתי אני לתורה על־ידי התורה למען אחיה לאלהים׃ עם־המשיח נצלבתי ... לא אבטל את־חסד האלהים** | Morir con el Mesías produce vida para Elohim; anular la gracia haría vana la muerte del Mesías. |
 
-## El temor altera la mesa y confunde al cuerpo: 2:11-14
+## El temor altera la mesa y confunde al cuerpo: 2:11-14 #galatas_2_11-14
 
 La clase comienza con una escena concreta: Kefa comía con los gentiles, pero cuando llegaron ciertos hombres desde donde estaba Jacobo, se apartó por temor a los de la circuncisión. La exposición subraya que el texto no describe una simple preferencia privada. Otros judíos y Bernabé fueron arrastrados por la conducta, y los gentiles podían concluir que necesitaban adoptar el patrón religioso de los visitantes para pertenecer al pueblo.
 
@@ -58,7 +58,7 @@ Pablo no espera a que la impresión se consolide. El texto local dice que lo rep
 
 La palabra «judaizar» requiere precisión. En la exposición significa empujar a los gentiles hacia la halajá rabínica y sus rituales —por ejemplo, presentar velas, pan de Shabbat, kipá o requisitos de circuncisión como condiciones divinas—, no enseñar que el pueblo debe abandonar toda obediencia. El episodio sí demuestra presión para que los gentiles vivan «como judíos» según una expectativa de identidad; no enumera en Gálatas 2 cada práctica que la clase menciona. Por eso el ejemplo es pastoral y la identificación histórica de cada costumbre queda pendiente.
 
-## «Obras de la Torah» y la justicia que no se compra: 2:15-18
+## «Obras de la Torah» y la justicia que no se compra: 2:15-18 #galatas_2_15-18
 
 Pablo pasa de la mesa a la afirmación doctrinal: el hombre no es justificado por obras de la Torah, sino por la emunah de Yehoshua el Mesías. Eric insiste en que la frase no debe leerse como una condena de todo mandamiento divino. En la interpretación de la clase, «obras de la Torah» señala el uso de observancias como méritos y como sistema de reconocimiento religioso. Esta explicación ayuda a preservar la tensión con otros textos que llaman buena y santa a la Torah, pero la nota no presenta como demostrado que la expresión tenga siempre el mismo alcance en cada carta.
 
@@ -66,7 +66,7 @@ La diferencia entre obediencia y mérito es decisiva. Una obra puede ser fruto d
 
 Aquí conviene diferenciar el texto de las aplicaciones. «Halajá» viene de una raíz asociada con caminar y puede servir como contraste pedagógico con el «andar» del creyente. Sin embargo, Gálatas 2 no ofrece una definición histórica completa de la halajá ni permite afirmar sin investigación que toda práctica judía sea una invención farisea. La afirmación firme es más estrecha: la conducta de Kefa estaba produciendo una presión incompatible con la verdad de la besorah.
 
-## Morir con el Mesías para vivir ante Elohim: 2:19-21
+## Morir con el Mesías para vivir ante Elohim: 2:19-21 #galatas_2_19-21
 
 La conclusión de Pablo no es «ya nada importa». «Por medio de la Torah morí para la Torah», según el texto local, «para vivir para Elohim». Eric lee esta frase como el fin de la confianza en la justicia propia: quien ha sido unido al Mesías ya no vive centrado en exhibir su propio rendimiento. «Con el Mesías fui crucificado» lleva la misma dirección. El yo que intenta construir una identidad salvadora queda juzgado; la vida presente se recibe en la emunah del Hijo de Elohim que amó y se entregó.
 
@@ -88,10 +88,10 @@ El último golpe de Pablo es contra la anulación de la gracia. Si la justicia p
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #galatians_2_11-14 | Kefa vuelve a prácticas de la halajá por temor; Pablo lo reprende públicamente porque confunde a los gentiles. | Apoyo textual directo; los detalles institucionales y el protocolo de reprensión quedan cualificados. |
-| #galatians_2_14 | Judaizar no es enseñar la Torah, sino imponer tradiciones rabínicas como obligación y condición de pertenencia. | Definición atribuida a la clase; se limita a la presión identitaria visible en el pasaje. |
-| #galatians_2_15-18 | La justificación no procede de obras usadas como mérito; la gracia no convierte al Mesías en servidor del pecado. | Apoyo textual; se distingue mérito de obediencia y se evita el antinomismo. |
-| #galatians_2_19-21 | Morir con el Mesías desplaza la justicia propia y permite vivir para Elohim; anular la gracia haría vana su muerte. | Apoyo textual directo con aplicación pastoral cualificada. |
+| #galatas_2_11-14 | Kefa vuelve a prácticas de la halajá por temor; Pablo lo reprende públicamente porque confunde a los gentiles. | Apoyo textual directo; los detalles institucionales y el protocolo de reprensión quedan cualificados. |
+| #galatas_2_14 | Judaizar no es enseñar la Torah, sino imponer tradiciones rabínicas como obligación y condición de pertenencia. | Definición atribuida a la clase; se limita a la presión identitaria visible en el pasaje. |
+| #galatas_2_15-18 | La justificación no procede de obras usadas como mérito; la gracia no convierte al Mesías en servidor del pecado. | Apoyo textual; se distingue mérito de obediencia y se evita el antinomismo. |
+| #galatas_2_19-21 | Morir con el Mesías desplaza la justicia propia y permite vivir para Elohim; anular la gracia haría vana su muerte. | Apoyo textual directo con aplicación pastoral cualificada. |
 
 ## Pendiente de verificar
 
@@ -99,7 +99,7 @@ El último golpe de Pablo es contra la anulación de la gracia. Si la justicia p
 - [ ] Estudiar la relación entre «obras de la Torah» en Gálatas 2:16, Romanos y la evidencia del judaísmo del Segundo Templo.
 - [ ] Verificar históricamente qué grupo formaban «los de la circuncisión» y si el texto permite identificarlos con un organismo regulador específico.
 - [ ] Cotejar halajá, Mishná y la datación del Shulján Aruj; no proyectar un código posterior sin distinguir épocas.
-- [ ] Revisar #acts_10_34 y #acts_15_19 junto con Gálatas 2 para precisar la relación entre la mesa, los gentiles y la decisión de Jerusalén.
+- [ ] Revisar #hechos_10_34 y #hechos_15_19 junto con Gálatas 2 para precisar la relación entre la mesa, los gentiles y la decisión de Jerusalén.
 
 ## Conclusión
 

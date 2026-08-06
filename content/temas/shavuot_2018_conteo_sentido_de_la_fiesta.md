@@ -9,19 +9,19 @@ tags:
   - primicias
   - memoria
 references:
-  - "#leviticus_23_15"
-  - "#leviticus_23_16"
-  - "#leviticus_23_17"
-  - "#leviticus_23_21"
-  - "#leviticus_23_22"
-  - "#deuteronomy_16_9"
-  - "#deuteronomy_16_10"
-  - "#deuteronomy_16_11"
-  - "#deuteronomy_16_12"
-  - "#acts_2_1"
-  - "#acts_2_4"
-  - "#acts_2_16"
-  - "#acts_2_39"
+  - "#levitico_23_15"
+  - "#levitico_23_16"
+  - "#levitico_23_17"
+  - "#levitico_23_21"
+  - "#levitico_23_22"
+  - "#deuteronomio_16_9"
+  - "#deuteronomio_16_10"
+  - "#deuteronomio_16_11"
+  - "#deuteronomio_16_12"
+  - "#hechos_2_1"
+  - "#hechos_2_4"
+  - "#hechos_2_16"
+  - "#hechos_2_39"
 sources:
   - "https://www.youtube.com/watch?v=nUq66eB6Iz0"
   - "docs/scriptures/oe/json/leviticus/23.json"
@@ -44,10 +44,10 @@ Esta nota estudia una fuente exclusiva de la lane colosenses. No presenta como o
 
 | Unidad                                 | Texto local                                                                                                                                                        | Fuerza en el estudio                                                              |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| #leviticus_23_15-17                    | «Y contaréis para vosotros desde el día siguiente del shabat… siete shabatot completos… cincuenta días»; se presenta una ofrenda nueva y dos panes como primicias. | La fiesta nace de una cuenta y de una entrega concreta, no de una fecha aislada.  |
-| #leviticus_23_21-22                    | «Convocación santa» y mandato de no agotar el borde de la cosecha, dejándolo para el pobre y el extranjero.                                                        | La santidad incluye una economía que comparte la provisión.                       |
-| #deuteronomy_16_9-12                   | Se cuentan siete semanas, se celebra con una ofrenda voluntaria y se incluye al levita, extranjero, huérfano y viuda, recordando Egipto.                           | El sentido de la fiesta une proporción, gozo, memoria y hospitalidad.             |
-| #acts_2_1-4, #acts_2_16-18, #acts_2_39 | La comunidad está reunida al cumplirse las semanas; Pedro interpreta el acontecimiento mediante Yoel y anuncia una promesa para los llamados.                      | La lectura mesiánica debe conservar la reunión, el Ruaj y el llamamiento textual. |
+| #levitico_23_15-17                    | «Y contaréis para vosotros desde el día siguiente del shabat… siete shabatot completos… cincuenta días»; se presenta una ofrenda nueva y dos panes como primicias. | La fiesta nace de una cuenta y de una entrega concreta, no de una fecha aislada.  |
+| #levitico_23_21-22                    | «Convocación santa» y mandato de no agotar el borde de la cosecha, dejándolo para el pobre y el extranjero.                                                        | La santidad incluye una economía que comparte la provisión.                       |
+| #deuteronomio_16_9-12                   | Se cuentan siete semanas, se celebra con una ofrenda voluntaria y se incluye al levita, extranjero, huérfano y viuda, recordando Egipto.                           | El sentido de la fiesta une proporción, gozo, memoria y hospitalidad.             |
+| #hechos_2_1-4, #hechos_2_16-18, #hechos_2_39 | La comunidad está reunida al cumplirse las semanas; Pedro interpreta el acontecimiento mediante Yoel y anuncia una promesa para los llamados.                      | La lectura mesiánica debe conservar la reunión, el Ruaj y el llamamiento textual. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -57,21 +57,21 @@ Esta nota estudia una fuente exclusiva de la lane colosenses. No presenta como o
 
 ## Levítico 23: contar antes de celebrar
 
-Levítico ordena contar desde la presentación del ómer hasta siete semanas completas y después cincuenta días (#leviticus_23_15-16). La forma hebrea **סָפַר**, _safar_, significa contar, enumerar o relatar; aquí su fuerza contextual es un conteo disciplinado que espera un término señalado. «Contar» es una glosa directa. **עֹמֶר**, _omer_, significa gavilla o medida de grano; en este pasaje designa la ofrenda inicial, no una metáfora que deba convertirse automáticamente en cronología escatológica. La correspondencia entre la práctica de la clase y el mandato es textual; fijar calendarios posteriores requiere verificación histórica adicional.
+Levítico ordena contar desde la presentación del ómer hasta siete semanas completas y después cincuenta días (#levitico_23_15-16). La forma hebrea **סָפַר**, _safar_, significa contar, enumerar o relatar; aquí su fuerza contextual es un conteo disciplinado que espera un término señalado. «Contar» es una glosa directa. **עֹמֶר**, _omer_, significa gavilla o medida de grano; en este pasaje designa la ofrenda inicial, no una metáfora que deba convertirse automáticamente en cronología escatológica. La correspondencia entre la práctica de la clase y el mandato es textual; fijar calendarios posteriores requiere verificación histórica adicional.
 
-El resultado del conteo es una ofrenda nueva y dos panes fermentados presentados como primicias (#leviticus_23_16-17). **בִּכּוּרִים**, _bikkurim_, significa primicias o primeros frutos; su fuerza aquí es reconocer que la cosecha recibida pertenece primero a יהוה. «Primicias» es una traducción directa y contextual. No es exacto convertir cada detalle agrícola en una alegoría mesiánica; tal conexión puede ser pedagógica cuando otros textos la apoyan, pero no sustituye la lectura del capítulo.
+El resultado del conteo es una ofrenda nueva y dos panes fermentados presentados como primicias (#levitico_23_16-17). **בִּכּוּרִים**, _bikkurim_, significa primicias o primeros frutos; su fuerza aquí es reconocer que la cosecha recibida pertenece primero a יהוה. «Primicias» es una traducción directa y contextual. No es exacto convertir cada detalle agrícola en una alegoría mesiánica; tal conexión puede ser pedagógica cuando otros textos la apoyan, pero no sustituye la lectura del capítulo.
 
 ## Deuteronomio 16: el sentido incluye al prójimo
 
-Deuteronomio repite el conteo y ordena celebrar según la bendición recibida (#deuteronomy_16_9-10). **שָׂמַח**, _samach_, significa alegrarse o regocijarse; su fuerza no es una emoción privada, sino una fiesta compartida ante יהוה. La ofrenda es **מַתָּנָה**, _mattanah_, un don o dádiva; la proporción «según te haya bendecido» impide fingir una medida idéntica para todos. Ambas glosas son directas; aplicar el texto como medidor de la piedad individual sería ilegítimo.
+Deuteronomio repite el conteo y ordena celebrar según la bendición recibida (#deuteronomio_16_9-10). **שָׂמַח**, _samach_, significa alegrarse o regocijarse; su fuerza no es una emoción privada, sino una fiesta compartida ante יהוה. La ofrenda es **מַתָּנָה**, _mattanah_, un don o dádiva; la proporción «según te haya bendecido» impide fingir una medida idéntica para todos. Ambas glosas son directas; aplicar el texto como medidor de la piedad individual sería ilegítimo.
 
-La lista de quienes participan incluye al levita, extranjero, huérfano y viuda, y la memoria de haber sido esclavos en Egipto acompaña la obediencia (#deuteronomy_16_11-12). **זָכַר**, _zakhar_, significa recordar o traer a la memoria; aquí el recuerdo funda una práctica presente de humildad y cuidado. La enseñanza anunciada por el título recibe apoyo cuando entiende el sentido de la fiesta como más que una fecha: el texto une gratitud, memoria y justicia.
+La lista de quienes participan incluye al levita, extranjero, huérfano y viuda, y la memoria de haber sido esclavos en Egipto acompaña la obediencia (#deuteronomio_16_11-12). **זָכַר**, _zakhar_, significa recordar o traer a la memoria; aquí el recuerdo funda una práctica presente de humildad y cuidado. La enseñanza anunciada por el título recibe apoyo cuando entiende el sentido de la fiesta como más que una fecha: el texto une gratitud, memoria y justicia.
 
 ## Hechos 2: cumplimiento, Ruaj y promesa
 
-Hechos 2 comienza con todos reunidos cuando se cumplen las semanas (#acts_2_1). **πληρόω**, _plēroō_, significa llenar, completar o cumplir; su fuerza en el relato es temporal y narrativa: el día llega a su plenitud, no porque la comunidad produzca el acontecimiento. **πνεῦμα**, _pneuma_, significa espíritu, viento o aliento; en 2:4 el contexto del Ruaj capacita el habla recibida, no una técnica controlable. Las glosas son directas en su campo ordinario y contextuales en la aplicación.
+Hechos 2 comienza con todos reunidos cuando se cumplen las semanas (#hechos_2_1). **πληρόω**, _plēroō_, significa llenar, completar o cumplir; su fuerza en el relato es temporal y narrativa: el día llega a su plenitud, no porque la comunidad produzca el acontecimiento. **πνεῦμα**, _pneuma_, significa espíritu, viento o aliento; en 2:4 el contexto del Ruaj capacita el habla recibida, no una técnica controlable. Las glosas son directas en su campo ordinario y contextuales en la aplicación.
 
-Pedro cita a Yoel y extiende la promesa a quienes están lejos, «a cuantos el Señor nuestro Elohim llamare» (#acts_2_16-18, #acts_2_39). **ἐκχέω**, _ekcheō_, significa derramar o verter; su fuerza profética describe una acción generosa de Elohim. **καλέω**, _kaleō_, significa llamar, convocar o nombrar; «llamar» es directo, aunque el versículo no resuelve por sí solo todas las cuestiones de elección. La conexión entre primicias, Ruaj y promesa es canónica y pedagógica, no una identidad exacta entre cada rito y cada acontecimiento posterior.
+Pedro cita a Yoel y extiende la promesa a quienes están lejos, «a cuantos el Señor nuestro Elohim llamare» (#hechos_2_16-18, #hechos_2_39). **ἐκχέω**, _ekcheō_, significa derramar o verter; su fuerza profética describe una acción generosa de Elohim. **καλέω**, _kaleō_, significa llamar, convocar o nombrar; «llamar» es directo, aunque el versículo no resuelve por sí solo todas las cuestiones de elección. La conexión entre primicias, Ruaj y promesa es canónica y pedagógica, no una identidad exacta entre cada rito y cada acontecimiento posterior.
 
 ## Conclusión
 

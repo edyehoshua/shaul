@@ -11,26 +11,26 @@ tags:
   - ben_haadam
   - divorcio
 references:
-  - "#markos_10_2"
-  - "#markos_10_6"
-  - "#markos_10_11"
-  - "#markos_10_13"
-  - "#markos_10_15"
-  - "#markos_10_17"
-  - "#markos_10_18"
-  - "#markos_10_21"
-  - "#markos_10_23"
-  - "#markos_10_25"
-  - "#markos_10_27"
-  - "#markos_10_29"
-  - "#markos_10_32"
-  - "#markos_10_45"
-  - "#markos_10_47"
-  - "#markos_10_52"
-  - "#bereshit_1_27"
-  - "#bereshit_2_24"
-  - "#tehilim_14_1"
-  - "#tehilim_103_8"
+  - "#marcos_10_2"
+  - "#marcos_10_6"
+  - "#marcos_10_11"
+  - "#marcos_10_13"
+  - "#marcos_10_15"
+  - "#marcos_10_17"
+  - "#marcos_10_18"
+  - "#marcos_10_21"
+  - "#marcos_10_23"
+  - "#marcos_10_25"
+  - "#marcos_10_27"
+  - "#marcos_10_29"
+  - "#marcos_10_32"
+  - "#marcos_10_45"
+  - "#marcos_10_47"
+  - "#marcos_10_52"
+  - "#genesis_1_27"
+  - "#genesis_2_24"
+  - "#salmos_14_1"
+  - "#salmos_103_8"
 sources:
   - "https://www.youtube.com/watch?v=g3NfiksYo50"
   - "https://www.youtube.com/watch?v=zSJes_lSWbE"
@@ -55,16 +55,16 @@ Esta nota sigue todo Marcos 10 en el orden del texto local TTH. Reúne las parte
 
 | Referencia                         | Texto local                                                                                                                                                                            | Función en la lectura                                                              |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| #markos_10_2-9                     | TTH pregunta si un hombre puede dejar a su mujer; Yehoshua recuerda la dureza de corazón, vuelve a la creación de varón y hembra y concluye que son «carne única».                     | La discusión comienza con la creación, no con una concesión aislada.               |
-| #markos_10_11-12                   | TTH: dejar y tomar otra es adulterio; lo mismo si la mujer deja al esposo y toma otro.                                                                                                 | La palabra alcanza al varón y a la mujer.                                          |
-| #markos_10_13-16                   | TTH dice que los discípulos reprenden a quienes acercan niños; Yehoshua manda dejarlos venir y recibir el reino como un niño.                                                          | Los que no dan estatus no son un estorbo para el reino.                            |
-| #markos_10_17-22                   | Un hombre pregunta qué bien hará para heredar vida perpetua; Yehoshua lo ama, le pide vender, dar a pobres, tomar la cruz y seguirlo; él se va afligido.                               | El encuentro descubre una lealtad que sus afirmaciones morales no habían expuesto. |
-| #markos_10_23-27                   | El texto precisa: difícil es entrar para quienes «confían en su riqueza»; TTH: más fácil pasar una cuerda por el orificio de una aguja; para los hombres es imposible, para Elohim no. | No convierte pobreza ni riqueza en mecanismo de salvación.                         |
-| #markos_10_29-31                   | Quien deja por Yehoshua y la Besorah recibe casas y familia «junto con persecución», y vida perpetua en el olam venidero.                                                              | La promesa incluye comunidad y costo, no un negocio religioso.                     |
-| #markos_10_32-45                   | El Ben HaAdam será entregado, burlado, azotado y muerto; frente a la petición de puestos de gloria, enseña que el primero debe ser servidor y da su vida en redención para muchos.     | El camino a Jerusalén corrige toda ambición de rango.                              |
-| #markos_10_46-52                   | BarTimai llama a Yehoshua «Hijo de David», pide ver, recibe respuesta acerca de su emunah y lo sigue por el camino.                                                                    | El que recibe vista responde siguiendo, no buscando un asiento de poder.           |
-| #bereshit_1_27; #bereshit_2_24     | TTH: Elohim crea varón y hembra; el hombre se adhiere a su mujer y ambos llegan a ser una carne.                                                                                       | Base explícita que Yehoshua cita para 10:6-8.                                      |
-| #tehilim_14_1-3; #tehilim_103_8-14 | El primero denuncia que nadie hace el bien; el segundo confiesa misericordia, compasión y memoria de nuestra fragilidad.                                                               | Ayudan a oír 10:18 sin negar la misericordia que el mismo capítulo muestra.        |
+| #marcos_10_2-9                     | TTH pregunta si un hombre puede dejar a su mujer; Yehoshua recuerda la dureza de corazón, vuelve a la creación de varón y hembra y concluye que son «carne única».                     | La discusión comienza con la creación, no con una concesión aislada.               |
+| #marcos_10_11-12                   | TTH: dejar y tomar otra es adulterio; lo mismo si la mujer deja al esposo y toma otro.                                                                                                 | La palabra alcanza al varón y a la mujer.                                          |
+| #marcos_10_13-16                   | TTH dice que los discípulos reprenden a quienes acercan niños; Yehoshua manda dejarlos venir y recibir el reino como un niño.                                                          | Los que no dan estatus no son un estorbo para el reino.                            |
+| #marcos_10_17-22                   | Un hombre pregunta qué bien hará para heredar vida perpetua; Yehoshua lo ama, le pide vender, dar a pobres, tomar la cruz y seguirlo; él se va afligido.                               | El encuentro descubre una lealtad que sus afirmaciones morales no habían expuesto. |
+| #marcos_10_23-27                   | El texto precisa: difícil es entrar para quienes «confían en su riqueza»; TTH: más fácil pasar una cuerda por el orificio de una aguja; para los hombres es imposible, para Elohim no. | No convierte pobreza ni riqueza en mecanismo de salvación.                         |
+| #marcos_10_29-31                   | Quien deja por Yehoshua y la Besorah recibe casas y familia «junto con persecución», y vida perpetua en el olam venidero.                                                              | La promesa incluye comunidad y costo, no un negocio religioso.                     |
+| #marcos_10_32-45                   | El Ben HaAdam será entregado, burlado, azotado y muerto; frente a la petición de puestos de gloria, enseña que el primero debe ser servidor y da su vida en redención para muchos.     | El camino a Jerusalén corrige toda ambición de rango.                              |
+| #marcos_10_46-52                   | BarTimai llama a Yehoshua «Hijo de David», pide ver, recibe respuesta acerca de su emunah y lo sigue por el camino.                                                                    | El que recibe vista responde siguiendo, no buscando un asiento de poder.           |
+| #genesis_1_27; #genesis_2_24     | TTH: Elohim crea varón y hembra; el hombre se adhiere a su mujer y ambos llegan a ser una carne.                                                                                       | Base explícita que Yehoshua cita para 10:6-8.                                      |
+| #salmos_14_1-3; #salmos_103_8-14 | El primero denuncia que nadie hace el bien; el segundo confiesa misericordia, compasión y memoria de nuestra fragilidad.                                                               | Ayudan a oír 10:18 sin negar la misericordia que el mismo capítulo muestra.        |
 
 ## Hoja léxica
 
@@ -79,41 +79,41 @@ Esta nota sigue todo Marcos 10 en el orden del texto local TTH. Reúne las parte
 | **(παιδίον)**                 | _paidion_         | niño o criatura pequeña                      | En 10:13-16 identifica a quienes los discípulos apartan y sirve de comparación para recibir el reino.                                | «Niño» es directo; no debe sustituirse por «siervo» ni por una categoría de estatus.  |
 | **(אמונה)**                   | emunah            | firmeza, confianza, fidelidad según contexto | TTH usa el término en 10:52 para la confianza de BarTimai que lo conduce a seguir.                                                   | Aproximada con **(πίστις)**; los campos semánticos no son idénticos en todo uso.      |
 
-## Del mandamiento permitido al propósito creador (10:1-12)
+## Del mandamiento permitido al propósito creador (10:1-12) #marcos_10_1-12
 
-Los perushim plantean el divorcio como prueba. Eric recuerda el debate de su época entre quienes admitían casi cualquier causa y quienes restringían la ruptura a inmoralidad sexual. Yehoshua no responde primero con una casuística nueva: pregunta por Moshéh, reconoce que el mandamiento respondió a la dureza de corazón y luego cita #bereshit_1_27 y #bereshit_2_24. El orden importa. La concesión mosaica no se transforma en ideal creador; la unión de **(בשר אחד)** es el horizonte desde el que se evalúa la ruptura.
+Los perushim plantean el divorcio como prueba. Eric recuerda el debate de su época entre quienes admitían casi cualquier causa y quienes restringían la ruptura a inmoralidad sexual. Yehoshua no responde primero con una casuística nueva: pregunta por Moshéh, reconoce que el mandamiento respondió a la dureza de corazón y luego cita #genesis_1_27 y #genesis_2_24. El orden importa. La concesión mosaica no se transforma en ideal creador; la unión de **(בשר אחד)** es el horizonte desde el que se evalúa la ruptura.
 
 La clase subraya que Yehoshua habla en un contexto de quienes se tienen por siervos de Elohim, no como un código civil abstracto para toda sociedad. Esa observación ayuda a no arrancar el pasaje de su marco de alianza; no autoriza, sin más trabajo, a relativizar la seriedad de 10:11-12. Eric también discute casos pastorales de matrimonios previos a la fe. Marcos formula adulterio al dejar y tomar otra; no ofrece aquí un manual completo de cada situación. La comunidad debe sostener simultáneamente la fidelidad que Yehoshua nombra y la verdad, justicia y protección debidas a quien ha sido dañado.
 
 El vocabulario griego refuerza la respuesta sin convertirla en un tratado jurídico completo. **(σκληροκαρδία)**, _sklērokardia_, «dureza de corazón», explica en 10:5 la concesión dada por Moshéh; es una descripción contextual del estado que produce ruptura, no una autorización para llamar así a toda persona divorciada. **(σὰρξ μία)**, _sarx mia_, «una sola carne», resume en 10:8 la unión que Yehoshua toma de Bereshit, y **(μοιχᾶται)**, _moichatai_, «comete adulterio», nombra en 10:11-12 la consecuencia que él atribuye a dejar y tomar otra pareja. Las equivalencias españolas son directas en este contexto, pero no resuelven por sí solas todas las preguntas pastorales sobre abandono, violencia o protección.
 
-## Recibir sin rango el reino (10:13-16)
+## Recibir sin rango el reino (10:13-16) #marcos_10_13-16
 
 El relato pasa de una disputa de adultos a los niños que los discípulos intentan apartar. Yehoshua se indigna porque los están restringiendo. Eric insiste en que el reino se recibe, no se administra como privilegio de los que «ya entienden». Recibir el reino «como un niño» no idealiza la falta de madurez ni convierte a los niños en propiedad simbólica de otros. Invierte la puerta de acceso que los discípulos estaban vigilando: la cercanía al Mesías no se mide por utilidad, poder ni antigüedad.
 
-La clase menciona edades de mayoría en la costumbre judía al hablar de niños. Eso puede iluminar el mundo social del siglo I; Marcos no convierte el pasaje en una tabla de bar/bat mitzváh. El centro sigue siendo la indignación de Yehoshua y la bendición con imposición de manos (#markos_10_16).
+La clase menciona edades de mayoría en la costumbre judía al hablar de niños. Eso puede iluminar el mundo social del siglo I; Marcos no convierte el pasaje en una tabla de bar/bat mitzváh. El centro sigue siendo la indignación de Yehoshua y la bendición con imposición de manos (#marcos_10_16).
 
 La forma **(παιδίον)**, _paidion_, no funciona aquí como una teoría sobre inocencia perfecta. El niño aparece como alguien a quien los discípulos pueden impedir el acceso y a quien Yehoshua recibe; el punto de comparación está en recibir el reino, no en convertir la dependencia infantil en una virtud para toda relación adulta. La observación de Eric sobre un reino que no se administra como rango queda así respaldada por la acción de los discípulos y la corrección pública del maestro. El texto tampoco autoriza a usar «como un niño» para silenciar preguntas, negar discernimiento o justificar dependencia abusiva.
 
 ## La riqueza expuesta por el seguimiento
 
-Eric observa con cuidado la pregunta del hombre. No se limita a un piropo: pregunta qué bien hará para heredar vida perpetua (#markos_10_17). La respuesta «ningún hombre es bueno, sino uno, Elohim» (#markos_10_18) no es un juego de cortesía. La clase la conecta con la necesidad de no atribuir a ninguna criatura la bondad autosuficiente; #tehilim_14 sostiene esa denuncia, y #tehilim_103 impide concluir en desesperación sin misericordia.
+Eric observa con cuidado la pregunta del hombre. No se limita a un piropo: pregunta qué bien hará para heredar vida perpetua (#marcos_10_17). La respuesta «ningún hombre es bueno, sino uno, Elohim» (#marcos_10_18) no es un juego de cortesía. La clase la conecta con la necesidad de no atribuir a ninguna criatura la bondad autosuficiente; #salmos_14 sostiene esa denuncia, y #salmos_103 impide concluir en desesperación sin misericordia.
 
 Yehoshua no humilla fríamente al hombre: el texto dice que lo miró y lo amó. Después le manda vender, dar a los pobres, tomar la cruz y seguir. Eric propone que la lista de mandamientos relativos al prójimo revela que la riqueza del hombre necesariamente fue obtenida violando todos ellos. Ese diagnóstico concreto no aparece en el relato: Marcos no explica cómo obtuvo las posesiones. Lo comprobable es que el mandato descubre su apego; se marcha afligido porque tenía muchas posesiones. La clase acierta al nombrar el amor al dinero como raíz que 1 Timoteo también denuncia; la aplicación debe quedar como lectura teológica convergente, no como narración biográfica demostrada del hombre.
 
-La aclaración de 10:24 es decisiva: el obstáculo se formula para quienes confían en riqueza. Eric conserva esta distinción y rechaza leer una prohibición automática de poseer. Sobre 10:25, la clase corrige la imagen popular del camello y defiende «cuerda» o cable por el ojo de la aguja; el TTH local ya traduce «cuerda». La imagen subraya imposibilidad, no una maniobra ingeniosa para salvarse. La respuesta final elimina tanto la confianza del rico como el orgullo del pobre: para los seres humanos no es posible, para Elohim sí (#markos_10_27).
+La aclaración de 10:24 es decisiva: el obstáculo se formula para quienes confían en riqueza. Eric conserva esta distinción y rechaza leer una prohibición automática de poseer. Sobre 10:25, la clase corrige la imagen popular del camello y defiende «cuerda» o cable por el ojo de la aguja; el TTH local ya traduce «cuerda». La imagen subraya imposibilidad, no una maniobra ingeniosa para salvarse. La respuesta final elimina tanto la confianza del rico como el orgullo del pobre: para los seres humanos no es posible, para Elohim sí (#marcos_10_27).
 
-## Dejar, recibir y subir hacia la entrega (10:28-45)
+## Dejar, recibir y subir hacia la entrega (10:28-45) #marcos_10_28-45
 
 Kefa responde como quien quiere contabilizar lo dejado. Yehoshua promete una red de casas y familia en el presente, pero inserta «persecución» antes de la vida del olam venidero. Eric aplica esta parte a la familia de fe que recibe al discípulo y a la esperanza de resurrección. La dimensión comunitaria concuerda con la lista del texto; sin embargo, no permite exigir a cada discípulo una multiplicación material literal ni negar la pérdida real que algunos padecen.
 
-Inmediatamente Yehoshua se adelanta hacia Jerusalén y anuncia entrega, burla, azotes, muerte y levantamiento. Iaacob e Iojanán responden pidiendo los lugares de honor. La contradicción narrativa es intencional: mientras él ofrece su vida, ellos calculan su gloria. La copa y la inmersión señalan participación en su camino, no garantía de un trono negociado.
+Inmediatamente Yehoshua se adelanta hacia Jerusalén y anuncia entrega, burla, azotes, muerte y levantamiento. Yaakov e Yojanán responden pidiendo los lugares de honor. La contradicción narrativa es intencional: mientras él ofrece su vida, ellos calculan su gloria. La copa y la inmersión señalan participación en su camino, no garantía de un trono negociado.
 
 Por eso **(בן האדם)** explica su misión: no vino a ser servido, sino a servir y dar su vida como **(λύτρον)** para muchos. La grandeza no es ausencia de autoridad, sino rechazo de dominar como los gobernantes de las naciones. El servicio que Marcos exige no es una etiqueta humilde para mantener el control; es una vida ordenada por la entrega del Mesías.
 
-## BarTimai ve y sigue por el camino (10:46-52)
+## BarTimai ve y sigue por el camino (10:46-52) #marcos_10_46-52
 
-A la salida de Ierijó, BarTimai no acepta el silenciamiento de la multitud. Su grito «Hijo de David» reconoce una esperanza mesiánica; su petición es concreta: «que vea». Yehoshua pregunta la misma pregunta que hizo a Iaacob e Iojanán (#markos_10_36, 51). Ellos pidieron posiciones; el ciego pide visión. El contraste prepara al lector para revisar qué desea realmente recibir.
+A la salida de Yerijó, BarTimai no acepta el silenciamiento de la multitud. Su grito «Hijo de David» reconoce una esperanza mesiánica; su petición es concreta: «que vea». Yehoshua pregunta la misma pregunta que hizo a Yaakov e Yojanán (#marcos_10_36, 51). Ellos pidieron posiciones; el ciego pide visión. El contraste prepara al lector para revisar qué desea realmente recibir.
 
 Cuando TTH dice que su **(אמונה)** lo ha salvado, BarTimai ve inmediatamente y sigue a Yehoshua por el camino. No queda como espectador de un milagro ni convierte la sanidad en prestigio. Después del anuncio de la cruz y la enseñanza sobre servir, seguir por el camino es la respuesta apropiada a la vista recibida.
 
@@ -141,13 +141,13 @@ Marcos enlaza las escenas por sus acciones, no solo por sus temas. El hombre ric
 
 La promesa a quienes dejan casas y vínculos incluye **διωγμῶν**, _diōgmōn_, «persecuciones», en 10:30. Esa forma evita leer el «ciento por uno» como rendimiento financiero: la recepción comunitaria está acompañada por costo, y la vida del siglo venidero sigue siendo don. El anuncio siguiente usa **παραδίδοται**, _paradidotai_, «es entregado», y **ἀναστήσεται**, _anastēsetai_, «se levantará», para mover el capítulo desde lo que el discípulo abandona hacia lo que el Mesías entrega y recibe del Padre.
 
-La petición de Iaacob e Iojanán revela la prueba de autoridad. **κατακυριεύουσιν**, _katakyrĕuousin_, «dominan», y **κατεξουσιάζουσιν**, _katexousiazousin_, «ejercen autoridad sobre», describen el gobierno de las naciones; **διάκονος**, _diakonos_, «servidor», y **δοῦλος**, _doulos_, «siervo», nombran la alternativa interna de la comunidad. «Servicio» es una equivalencia cercana, pero no significa pasividad ni permite que alguien use el lenguaje de siervo para encubrir abuso. La forma **λύτρον**, _lytron_, «rescate o precio de liberación», ancla la enseñanza en la vida entregada del Ben HaAdam sin resolver por sí sola todos los modelos de expiación.
+La petición de Yaakov e Yojanán revela la prueba de autoridad. **κατακυριεύουσιν**, _katakyrĕuousin_, «dominan», y **κατεξουσιάζουσιν**, _katexousiazousin_, «ejercen autoridad sobre», describen el gobierno de las naciones; **διάκονος**, _diakonos_, «servidor», y **δοῦλος**, _doulos_, «siervo», nombran la alternativa interna de la comunidad. «Servicio» es una equivalencia cercana, pero no significa pasividad ni permite que alguien use el lenguaje de siervo para encubrir abuso. La forma **λύτρον**, _lytron_, «rescate o precio de liberación», ancla la enseñanza en la vida entregada del Ben HaAdam sin resolver por sí sola todos los modelos de expiación.
 
 BarTimai cierra la dependencia narrativa. **ἀνάβλεψον**, _anablepson_, «recobra la vista», responde a su petición de ver; después **ἠκολούθει**, _ēkolouthei_, «seguía», muestra el resultado visible de la emunah. El hombre rico se aleja afligido, los discípulos deben abandonar la ambición de rango y el ciego sigue por el camino: Eric puede resumirlo como una llamada a soltar la seguridad, pero Marcos prueba esa lectura mediante verbos de retirada, entrega, servicio y seguimiento.
 
 ## Control de la petición de grandeza y la respuesta de BarTimai
 
-La unidad 10:32–52 funciona como una prueba narrativa para la observación de Eric sobre autoridad y servicio. Yehoshua anuncia que será entregado, y a continuación Iaacob y Iojanán piden sentarse a su derecha y a su izquierda. El verbo **θέλω** (_thelō_, querer o desear) aparece en la pregunta de 10:35 y vuelve a aparecer en la pregunta de Yehoshua a BarTimai en 10:51. La forma tiene el mismo campo básico de voluntad en ambos diálogos, pero el contexto limita su sentido: los dos discípulos desean posición; el ciego formula la necesidad de recibir vista. No es una equivalencia automática entre deseo y ambición.
+La unidad 10:32–52 funciona como una prueba narrativa para la observación de Eric sobre autoridad y servicio. Yehoshua anuncia que será entregado, y a continuación Yaakov y Yojanán piden sentarse a su derecha y a su izquierda. El verbo **θέλω** (_thelō_, querer o desear) aparece en la pregunta de 10:35 y vuelve a aparecer en la pregunta de Yehoshua a BarTimai en 10:51. La forma tiene el mismo campo básico de voluntad en ambos diálogos, pero el contexto limita su sentido: los dos discípulos desean posición; el ciego formula la necesidad de recibir vista. No es una equivalencia automática entre deseo y ambición.
 
 La corrección de Yehoshua se apoya en la conducta, no solo en un lema. **κατακυριεύουσιν** (_katakyrĕuousin_, dominan o ejercen señorío sobre) y **κατεξουσιάζουσιν** (_katexousiazousin_, ejercen autoridad sobre o someten) describen en 10:42 la forma de gobierno que los discípulos conocen entre las naciones. En 10:43–44, **διάκονος** (_diakonos_, servidor) y **δοῦλος** (_doulos_, esclavo o siervo) nombran la inversión que Yehoshua exige dentro de la comunidad. «Servidor» y «siervo» son equivalencias contextuales cercanas; ninguna palabra convierte por sí sola el servicio en ausencia de toda autoridad ni legitima el dominio abusivo.
 
@@ -198,7 +198,7 @@ El relato de los niños y el del hombre rico desarrollan después dos modos de a
 
 La exigencia al rico debe permanecer unida al amor y al seguimiento. **(πώλησον)**, _pōlēson_, «vende», **(δός)**, _dos_, «da», y **(ἀκολούθει)**, _akolouthei_, «sigue», son imperativos que forman una secuencia, no tres consejos financieros desconectados. El texto no generaliza la orden como idéntica para cada discípulo, pero sí la presenta como la palabra concreta que revela el apego de este hombre. La conexión con **(צדקה)**, _tsedaqah_, «justicia o acto de ayuda», puede orientar la observación de Eric sobre los pobres; no debe presentarse como si Marcos hubiera escrito ese término. La respuesta final de BarTimai confirma el criterio: **(ἀναβλέψας)**, _anablepsas_, «habiendo recobrado la vista», es seguido por **(ἠκολούθει)**, _ēkolouthei_, «seguía», de modo que la misericordia recibida termina en camino.
 
-## Prueba del contraste: recibir, soltar y seguir (10:13-52)
+## Prueba del contraste: recibir, soltar y seguir (10:13-52) #marcos_10_13-52
 
 El tramo final del capítulo conserva tres respuestas distintas al reino y las coloca en orden. Primero, Yehoshua recibe a los niños que los discípulos intentaban apartar: **(δέχομαι)**, _dechomai_, «recibir, acoger o aceptar», describe una disposición de dependencia, no una técnica para producir inocencia. Después, el hombre rico oye **(ἀκολούθει)**, _akolouthei_, «sigue», pero se retira entristecido porque el mandato de vender y dar toca aquello en lo que se apoya. Finalmente, BarTimai pide **(ἀναβλέψω)**, _anablepsō_, «recobrar la vista», y el relato dice que **(ἠκολούθει)**, _ēkolouthei_, «seguía», a Yehoshua por el camino. La repetición de «seguir» no borra la diferencia entre los personajes: muestra que el capítulo mide la respuesta por el movimiento posterior a la palabra recibida.
 
@@ -214,7 +214,7 @@ La demanda al hombre rico tiene tres movimientos que deben conservarse: **(πώ�
 
 El capítulo resuelve la pregunta por la grandeza cuando contrapone **(δοῦλος)**, _doulos_, «siervo o esclavo», con **(κύριος)**, _kyrios_, «señor», dentro de la crítica a quienes dominan. «Siervo» es una equivalencia contextual de **doulos**, no una invitación a borrar límites, justicia o protección frente al abuso. Yehoshua define su propio camino mediante **(διακονέω)**, _diakoneō_, «servir o atender», y mediante la entrega de su vida como **(λύτρον)**, _lytron_, «rescate o precio de liberación». BarTimai cierra la prueba: después de recibir misericordia, no reclama dominio, sino que sigue por el camino. La observación de Eric queda así anclada en verbos de recepción, renuncia, servicio y seguimiento.
 
-## Control de la imagen de la aguja (10:23-27)
+## Control de la imagen de la aguja (10:23-27) #marcos_10_23-27
 
 La imagen debe conservar su lugar después de que Yehoshua explica la dificultad de quienes confían en las riquezas. La forma **(κάμηλος)**, _kamelos_, significa «camello», mientras **(κάμιλος)**, _kamilos_, puede designar una cuerda o cable; la semejanza gráfica explica por qué la tradición textual y las traducciones discuten la lectura. El TTH local ofrece «cuerda», y Eric defiende esa opción, pero la variante no convierte el dicho en una puerta material estrecha ni permite rebajar la afirmación de 10:27: para los seres humanos es imposible, pero no para Elohim.
 
@@ -254,7 +254,7 @@ En 10:42-45, **κατακυριεύω**, _katakyrieuō_, «dominar como señor»
 
 En 10:46-52, BarTimai responde a esa enseñanza en el camino. **ἐλέησον**, _eleēson_, «ten misericordia», formula una petición concreta; **ἀναβλέψω**, _anablepsō_, «recobraré la vista», nombra lo que pide; y **ἠκολούθει**, _ēkolouthei_, «seguía», muestra el resultado narrativo. La relación con **(רחם)**, _rajam_, «tener compasión», es una equivalencia de campo aproximada. El contraste con el hombre rico no autoriza juzgar a los enfermos: prueba que, en esta escena, la vista recibida se convierte en seguimiento visible.
 
-## Control de lectura: recibir, abandonar la seguridad y seguir (10:1-52)
+## Control de lectura: recibir, abandonar la seguridad y seguir (10:1-52) #marcos_10_1-52
 
 El capítulo avanza desde una disputa sobre permiso hasta una respuesta visible en el camino. En 10:4-9, **ἀπολύω**, _apolyō_, «despedir o dejar libre», y **σκληροκαρδία**, _sklērokardia_, «dureza de corazón», explican la concesión de Moshéh; **συνέζευξεν**, _synezeuxen_, «unió bajo un mismo yugo», y **σὰρξ μία**, _sarx mia_, «una sola carne», devuelven la discusión al acto creador. **דבק**, _davaq_, «adherirse», acompaña la comparación con Bereshit 2:24, pero no es una retroversión demostrada del griego.
 
@@ -264,7 +264,7 @@ En 10:28-45, la promesa de casas y familia incluye **διωγμῶν**, _diōgm�
 
 BarTimai cierra la prueba. **ἐλέησόν**, _eleēson_, «ten misericordia», y **υἱὲ Δαυίδ**, _huie Dauid_, «Hijo de David», sitúan su petición en súplica y expectativa mesiánica; **ἀναβλέψω**, _anablepsō_, «recobrar la vista», expresa una necesidad concreta. Luego **ἠκολούθει**, _ēkolouthei_, «seguía», muestra el resultado. La equivalencia con **רחם**, _rajam_, «tener compasión», y **אמונה**, _emunah_, «confianza o fidelidad», es aproximada; el argumento seguro está en el orden narrativo: recibir sin rango, soltar la falsa seguridad, servir en vez de dominar y seguir por el camino.
 
-## Control final: la entrega interpreta la autoridad y el camino (10:32-52)
+## Control final: la entrega interpreta la autoridad y el camino (10:32-52) #marcos_10_32-52
 
 Marcos coloca el tercer anuncio de la pasión antes de la disputa por los asientos, de modo que la autoridad no puede separarse de la entrega. **ἀναβαίνω**, _anabainō_, «subir», introduce el movimiento hacia Jerusalén; **παραδίδωμι**, _paradidōmi_, «entregar», **κατακρίνω**, _katakrinō_, «condenar», y **ἀναστήσεται**, _anastēsetai_, «se levantará», describen el camino que los discípulos todavía traducen como rango. **ποτήριον**, _potērion_, «copa», y **βάπτισμα**, _baptisma_, «inmersión o bautismo», reciben su fuerza del sufrimiento anunciado, no de un rito para comprar honor. La relación con **(כוס)**, _kos_, «copa», es semítica y aproximada; el texto griego determina la escena.
 
@@ -274,10 +274,10 @@ BarTimai cierra el control con una respuesta visible. **ἐλέησον**, _ele�
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la forma griega de #markos_10_25 y las razones textuales de «cuerda» (**κάμιλος**) frente a «camello» (**κάμηλος**) en el aparato crítico.
+- [ ] Cotejar la forma griega de #marcos_10_25 y las razones textuales de «cuerda» (**κάμιλος**) frente a «camello» (**κάμηλος**) en el aparato crítico.
 - [ ] Identificar con precisión las escuelas de divorcio aludidas por la clase (p. ej., discusiones asociadas a Hilel y Shamai) antes de citarlas como marco seguro del pasaje.
 - [ ] Examinar la afirmación de la clase de que la riqueza del hombre prueba transgresiones concretas contra el prójimo; Marcos no lo declara.
-- [ ] Distinguir aplicaciones pastorales modernas sobre matrimonios previos a la fe de lo que #markos_10_1-12 formula directamente.
+- [ ] Distinguir aplicaciones pastorales modernas sobre matrimonios previos a la fe de lo que #marcos_10_1-12 formula directamente.
 - [ ] Documentar la referencia rabínica aludida sobre estudiar mucha Torah sin gloriarse, si se usa en la enseñanza.
 
 ## Control de la promesa: comunidad recibida y persecución incluida

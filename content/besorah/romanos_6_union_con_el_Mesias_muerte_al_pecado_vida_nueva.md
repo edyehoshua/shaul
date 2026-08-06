@@ -51,25 +51,25 @@ Esta nota canónica reúne las partes 13 y 14 de la serie del hermano Eric de Je
 | #romanos_6_15-18 | **ועתה הנחטא מפני שאין אנחנו תחת התורה כי אם־תחת החסד חלילה׃ ... עבדים אתם לו לשמע בקולו אם־לחטא אלי־מות אם־למשמעת אלי־צדקה׃**                                                            | «No bajo Torá, sino bajo gracia» no abre una excepción para pecar; introduce la cuestión de a quién se obedece. |
 | #romanos_6_19-23 | **כן עתה הכינו את־אבריכם לעבודת הצדקה להתקדש׃ ... יש לכם פריכם לקדשה ואחריתו חיי עולם׃ כי־שכר החטא הוא המות ומתנת חסד אלהים היא חיי העולמים במשיח ישוע אדנינו׃**                          | Pablo contrasta dos frutos y dos finales: muerte por el pecado, vida eterna como don de gracia.                 |
 
-## Romanos 6:1-5: la objeción y la tvilá en la muerte del Mesías
+## Romanos 6:1-5: la objeción y la tvilá en la muerte del Mesías #romanos_6_1-5
 
 El capítulo comienza enlazado con #romanos_5_20-21: si donde aumentó el pecado sobreabundó la gracia, ¿se debe permanecer en pecado para que la gracia aumente? La respuesta de #romanos_6_2 no deja la pregunta abierta. Pablo no dice que el pecado sea inofensivo porque haya gracia; pregunta cómo quienes murieron al pecado seguirían viviendo en él.
 
 La clase titulada «Todo sobre la Tviláh/Bautismo» llama oportunamente la atención sobre #romanos_6_3-4. El texto local nombra la **(טבילה)**, _tvilá_, al decir que los creyentes fueron sepultados con el Mesías en inmersión hacia la muerte, para caminar en vida nueva. _Tvilá_ es el sustantivo hebreo habitual para inmersión; es una relación **pedagógica**, no una equivalencia gramatical exacta con cada forma de **(βάπτισμα)**, _baptisma_, en Pablo. En este contexto la imagen no se reduce a la ejecución de un rito: la inmersión es descrita como participación «en su muerte», seguida por el propósito de una marcha renovada. #romanos_6_5 completa la secuencia con la unión en la semejanza de su muerte y de su resurrección.
 
-## Romanos 6:6-11: el hombre viejo, muerte y una nueva cuenta
+## Romanos 6:6-11: el hombre viejo, muerte y una nueva cuenta #romanos_6_6-11
 
 #romanos_6_6 explica por qué esa participación importa: el «hombre viejo» fue crucificado con él para que el cuerpo del pecado fuera abolido y ya no se sirviera al pecado. Pablo no enseña aquí que el cuerpo material sea malo en sí mismo; en los versículos siguientes ordenará presentar los miembros a Elohim. Su argumento ataca el dominio del pecado, no la condición creada del cuerpo.
 
 La afirmación de #romanos_6_7-10 une liberación, muerte y la resurrección irreversible del Mesías. Yehoshua murió al pecado «una vez» y vive para Elohim. Por eso #romanos_6_11 no es solamente una impresión interior: «consideraos» muertos al pecado y vivos para Elohim en el Mesías Yehoshua funciona como la conclusión práctica de lo que Pablo acaba de declarar. La observación de la primera clase acerca de morir al pecado debe, por tanto, mantenerse junto con la resurrección y con la vida para Elohim; quitar cualquiera de esos polos desordena la secuencia del texto.
 
-## Romanos 6:12-18: no subordinados al pecado ni autorizados a pecar
+## Romanos 6:12-18: no subordinados al pecado ni autorizados a pecar #romanos_6_12-18
 
 La parte 14 subraya que los discípulos no son ya subordinados y que no están «bajo sentencia». Romanos 6 permite precisar ese énfasis. #romanos_6_12 prohíbe que el pecado reine en el cuerpo mortal y #romanos_6_13 desplaza la entrega de los miembros: no como instrumentos de injusticia para el pecado, sino como personas vivas de entre los muertos y como instrumentos de justicia para Elohim. La libertad que se anuncia tiene una dirección corporal y obediente.
 
 #romanos_6_14 declara que el pecado no se enseñoreará de ellos porque no están bajo Torá sino bajo gracia. Pablo anticipa en seguida la lectura que transformaría esa frase en permiso: «¿pecaremos?»; otra vez responde «¡de ninguna manera!» (#romanos_6_15). El contraste del pasaje no es entre gracia y obediencia, sino entre ser esclavos del pecado hacia muerte y ser esclavos de obediencia hacia justicia (#romanos_6_16). Por ello «bajo sentencia» puede servir como formulación pedagógica para el antiguo dominio, pero no debe reemplazar las expresiones de Pablo ni usarse para declarar irrelevante toda instrucción de la Torá.
 
-## Romanos 6:19-23: miembros, fruto y el don final
+## Romanos 6:19-23: miembros, fruto y el don final #romanos_6_19-23
 
 Pablo reconoce que habla en términos humanos a causa de la debilidad de la carne (#romanos_6_19). Su paralelismo es concreto: antes los miembros se preparaban para impureza e iniquidad; ahora han de prepararse para justicia con miras a santificación. #romanos_6_20-21 pregunta por el fruto de la antigua esclavitud: produce vergüenza y acaba en muerte. En cambio, quienes han sido liberados del pecado y hechos siervos de Elohim tienen fruto para santificación y por fin vida eterna (#romanos_6_22).
 

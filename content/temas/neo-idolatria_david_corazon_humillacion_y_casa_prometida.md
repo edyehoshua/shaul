@@ -10,24 +10,24 @@ tags:
   - mesias
   - casa
 references:
-  - "#shemuel_alef_16_7"
-  - "#shemuel_alef_16_12"
-  - "#shemuel_alef_18_10"
-  - "#shemuel_alef_18_14"
-  - "#shemuel_bet_7_5"
-  - "#shemuel_bet_7_12"
-  - "#shemuel_bet_7_13"
-  - "#shemuel_bet_7_16"
-  - "#shemuel_bet_12_9"
-  - "#shemuel_bet_12_10"
-  - "#shemuel_bet_12_13"
-  - "#shemuel_bet_12_14"
-  - "#devarim_25_17"
+  - "#1_samuel_16_7"
+  - "#1_samuel_16_12"
+  - "#1_samuel_18_10"
+  - "#1_samuel_18_14"
+  - "#2_samuel_7_5"
+  - "#2_samuel_7_12"
+  - "#2_samuel_7_13"
+  - "#2_samuel_7_16"
+  - "#2_samuel_12_9"
+  - "#2_samuel_12_10"
+  - "#2_samuel_12_13"
+  - "#2_samuel_12_14"
+  - "#deuteronomio_25_17"
   - "#joel_3_5"
-  - "#tehilim_18_50"
-  - "#mattai_5_3"
+  - "#salmos_18_50"
+  - "#mateo_5_3"
   - "#marcos_12_35"
-  - "#qorintim_bet_12_9"
+  - "#2_corintios_12_9"
 sources:
   - "https://www.youtube.com/watch?v=oxql5TQxNWA"
   - "docs/scriptures/tth/json/shemuel_alef.json"
@@ -51,23 +51,23 @@ Esta nota organiza la clase pública sobre David dentro de la serie «NEOIDOLATR
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #shemuel_alef_16_7 | **Y dijo יהוה a Shemuel: No mires su apariencia, ni lo alto de su estatura, porque lo he rechazado; porque no es lo que ve el hombre, porque el hombre mira a los ojos, pero יהוה mira al corazón.** (TTH) | La elección no se decide por la impresión humana de fuerza, altura o presencia. |
-| #shemuel_alef_16_12 | **Y envió, y lo hizo entrar. Y él era rojizo, con hermosos ojos y bien visto. Y dijo יהוה: Levántate, úngelo; porque este es él.** (TTH) | David, ausente de la presentación familiar, es llevado desde el rebaño para ser ungido. |
-| #shemuel_alef_18_10, 14 | **Y sucedió que al día siguiente, avanzó un espíritu de Elohim malo en Shaúl, y profetizó¹⁰⁸ en medio de la casa, y David tocaba con su mano como día en día. Y la lanza en su mano tenía Shaúl. (...) Y era David por todos sus caminos prudente, y יהוה estaba con él.** (TTH) | La rivalidad de Shaúl contrasta con la prudencia y la presencia de יהוה con David. |
-| #shemuel_bet_7_5, 12-13, 16 | **Ve y di a mi siervo, a David: “Así dice יהוה: ‘¿Eres tú quien edificará para Mí una casa para habitar?** (...) **Cuando se completen tus días (...) haré levantar a tu simiente después de ti (...) Él edificará casa a mi Nombre, y estableceré el trono de su reino hasta siempre.** (...) **Y será firme tu casa y tu reino hasta el olam delante de ti; tu trono será establecido hasta el olam”.** (TTH) | David desea edificar, pero יהוה promete edificar una casa y afirmar una simiente. |
-| #shemuel_bet_12_9-10, 13-14 | **¿Por qué despreciaste la palabra de יהוה para hacer el mal en sus ojos? (...) Y ahora, no se apartará la espada de tu casa hasta siempre...** (...) **Y dijo David a Natán: He fallado a יהוה. (...) También יהוה ha hecho pasar tu pecado, no morirás. Pero (...) también el hijo nacido a ti, ciertamente morirá.** (TTH) | El perdón no borra automáticamente las consecuencias; David confiesa y queda bajo disciplina. |
+| #1_samuel_16_7 | **Y dijo יהוה a Shemuel: No mires su apariencia, ni lo alto de su estatura, porque lo he rechazado; porque no es lo que ve el hombre, porque el hombre mira a los ojos, pero יהוה mira al corazón.** (TTH) | La elección no se decide por la impresión humana de fuerza, altura o presencia. |
+| #1_samuel_16_12 | **Y envió, y lo hizo entrar. Y él era rojizo, con hermosos ojos y bien visto. Y dijo יהוה: Levántate, úngelo; porque este es él.** (TTH) | David, ausente de la presentación familiar, es llevado desde el rebaño para ser ungido. |
+| #1_samuel_18_10, 14 | **Y sucedió que al día siguiente, avanzó un espíritu de Elohim malo en Shaúl, y profetizó¹⁰⁸ en medio de la casa, y David tocaba con su mano como día en día. Y la lanza en su mano tenía Shaúl. (...) Y era David por todos sus caminos prudente, y יהוה estaba con él.** (TTH) | La rivalidad de Shaúl contrasta con la prudencia y la presencia de יהוה con David. |
+| #2_samuel_7_5, 12-13, 16 | **Ve y di a mi siervo, a David: “Así dice יהוה: ‘¿Eres tú quien edificará para Mí una casa para habitar?** (...) **Cuando se completen tus días (...) haré levantar a tu simiente después de ti (...) Él edificará casa a mi Nombre, y estableceré el trono de su reino hasta siempre.** (...) **Y será firme tu casa y tu reino hasta el olam delante de ti; tu trono será establecido hasta el olam”.** (TTH) | David desea edificar, pero יהוה promete edificar una casa y afirmar una simiente. |
+| #2_samuel_12_9-10, 13-14 | **¿Por qué despreciaste la palabra de יהוה para hacer el mal en sus ojos? (...) Y ahora, no se apartará la espada de tu casa hasta siempre...** (...) **Y dijo David a Natán: He fallado a יהוה. (...) También יהוה ha hecho pasar tu pecado, no morirás. Pero (...) también el hijo nacido a ti, ciertamente morirá.** (TTH) | El perdón no borra automáticamente las consecuencias; David confiesa y queda bajo disciplina. |
 
 ## De Shaúl a David: cuando el deseo ocupa el trono
 
 La exposición comienza recordando la desobediencia de Shaúl frente a la orden recibida sobre Amalec. La clase usa ese contraste para describir la idolatría como algo más amplio que inclinarse ante una estatua: seguir el propio deseo hasta despreciar la palabra de יהוה también puede poner al yo en el centro. Esta es una aplicación teológica de la clase; el pasaje de Shemuel confirma la gravedad de la desobediencia, aunque la palabra moderna «neo-idolatría» no aparece en el texto.
 
-En #shemuel_alef_16_7, יהוה corrige la mirada de Shemuel. La altura de Shaúl había producido una expectativa humana, pero la elección de David no se explica por su apariencia. El principio « יהוה mira al corazón» no significa que David fuera impecable; significa que la evaluación divina no queda atrapada en los criterios visibles del pueblo. La clase relaciona este corazón con una disposición obediente, humilde y dispuesta a someterse. Esa relación es una inferencia pastoral que debe permanecer unida a la historia completa: el mismo David elegido por יהוה pecará gravemente.
+En #1_samuel_16_7, יהוה corrige la mirada de Shemuel. La altura de Shaúl había producido una expectativa humana, pero la elección de David no se explica por su apariencia. El principio « יהוה mira al corazón» no significa que David fuera impecable; significa que la evaluación divina no queda atrapada en los criterios visibles del pueblo. La clase relaciona este corazón con una disposición obediente, humilde y dispuesta a someterse. Esa relación es una inferencia pastoral que debe permanecer unida a la historia completa: el mismo David elegido por יהוה pecará gravemente.
 
 David aparece inicialmente en el rebaño y no en la fila de los candidatos. El texto local afirma que fue ungido cuando entró, no porque su familia hubiera identificado por sí misma el criterio de elección. La clase convierte esa escena en una advertencia contra construir liderazgo desde la fuerza exterior. La advertencia es pertinente, pero no autoriza a despreciar toda capacidad visible; el punto explícito del pasaje es que la mirada de יהוה no se reduce a ella.
 
 ## La envidia de Shaúl y la prudencia de David
 
-La clase lee la relación entre Shaúl y David como una mezcla de utilidad, temor y envidia. Mientras David servía y calmaba a Shaúl con su instrumento, era recibido; cuando su éxito hizo visible que יהוה estaba con él, la relación se volvió hostil. #shemuel_alef_18_14 ofrece el contrapunto sobrio: David prosperaba en sus caminos porque יהוה estaba con él. La nota no afirma que cada gesto de afecto de Shaúl pueda diagnosticar una motivación interior, pero sí reconoce el patrón narrativo de una autoridad que ya no soporta que el favor divino repose sobre otro.
+La clase lee la relación entre Shaúl y David como una mezcla de utilidad, temor y envidia. Mientras David servía y calmaba a Shaúl con su instrumento, era recibido; cuando su éxito hizo visible que יהוה estaba con él, la relación se volvió hostil. #1_samuel_18_14 ofrece el contrapunto sobrio: David prosperaba en sus caminos porque יהוה estaba con él. La nota no afirma que cada gesto de afecto de Shaúl pueda diagnosticar una motivación interior, pero sí reconoce el patrón narrativo de una autoridad que ya no soporta que el favor divino repose sobre otro.
 
 La transcripción recoge la explicación de «profetizó» en 18:10 como un eufemismo o forma suavizada de describir una conducta trastornada. El TTH conserva la lectura «profetizó» y añade una nota; la interpretación targúmica mencionada en la clase requiere una consulta textual específica. Por eso esta nota no presenta como resuelta la afirmación de que el verbo necesariamente significa «actuó con locura» en este versículo. El dato seguro es que Shaúl tenía la lanza en la mano y la arrojó hacia David, mientras David permanecía sirviendo.
 
@@ -75,7 +75,7 @@ La espera de David también forma parte de la enseñanza. Después de recibir la
 
 ## La casa que David quiere construir y la casa que יהוה promete
 
-David quiere edificar una casa para יהוה. La clase observa que este deseo no nace de una orden explícita recibida en ese momento, sino de una iniciativa de honra: David no busca construir su propio nombre, sino preparar un lugar para el Nombre de יהוה. Sin embargo, 2 Shemuel 7 invierte la dirección. En #shemuel_bet_7_5, la pregunta divina limita el proyecto humano: «¿Eres tú quien edificará para Mí una casa?». Luego יהוה promete una casa, una simiente y un reino firmes (#shemuel_bet_7_12-16).
+David quiere edificar una casa para יהוה. La clase observa que este deseo no nace de una orden explícita recibida en ese momento, sino de una iniciativa de honra: David no busca construir su propio nombre, sino preparar un lugar para el Nombre de יהוה. Sin embargo, 2 Shemuel 7 invierte la dirección. En #2_samuel_7_5, la pregunta divina limita el proyecto humano: «¿Eres tú quien edificará para Mí una casa?». Luego יהוה promete una casa, una simiente y un reino firmes (#2_samuel_7_12-16).
 
 La exposición conecta esta promesa con el Mesías y con la imagen de una casa formada por el pueblo. Esa lectura reconoce la amplitud de «hasta siempre» y su desarrollo posterior en el testimonio apostólico, pero la clase también distingue a Shelomoh del cumplimiento final. El texto de 2 Shemuel 7 contiene simultáneamente elementos inmediatos de la sucesión davídica y una promesa que excede el reinado temporal de Shelomoh. La frase «él edificará casa a mi Nombre» no debe convertirse, sin más evidencia, en una identificación automática de cada detalle con una sola persona.
 
@@ -83,7 +83,7 @@ La enseñanza principal es que el celo humano, incluso cuando parece piadoso, no
 
 ## Pecado, confesión y consecuencias: David no es un ídolo
 
-La clase insiste en que Israel no debe idolatrar a David. En 2 Shemuel 12, el rey cae en adulterio y asesinato; Natán le muestra que ha despreciado la palabra de יהוה (#shemuel_bet_12_9-10). David responde: «He fallado a יהוה» (#shemuel_bet_12_13). El texto sostiene dos verdades juntas: Natán anuncia que יהוה ha hecho pasar el pecado y que David no morirá, pero también anuncia la muerte del niño y la espada en la casa. El perdón no equivale a negar el daño ni a eliminar toda consecuencia histórica.
+La clase insiste en que Israel no debe idolatrar a David. En 2 Shemuel 12, el rey cae en adulterio y asesinato; Natán le muestra que ha despreciado la palabra de יהוה (#2_samuel_12_9-10). David responde: «He fallado a יהוה» (#2_samuel_12_13). El texto sostiene dos verdades juntas: Natán anuncia que יהוה ha hecho pasar el pecado y que David no morirá, pero también anuncia la muerte del niño y la espada en la casa. El perdón no equivale a negar el daño ni a eliminar toda consecuencia histórica.
 
 La clase usa el hebreo **(נשא)**, _nasá_, para explicar el perdón como llevar o cargar. Esa observación puede abrir una investigación lexical, pero no debe tratarse como una definición exhaustiva de toda aparición española de «perdonar». Lo que el relato deja claro sin depender de esa etimología es que David se humilla, confiesa y queda sometido a la disciplina. La humillación no es una técnica para obligar a יהוה a perdonar; es la respuesta del culpable que deja de justificarse.
 
@@ -124,7 +124,7 @@ David es un testigo de la gracia, no un objeto de idolatría. יהוה lo escoge
 
 - [[neo-idolatria_shelomoh_sabiduria_alianzas_corazon_dividido|Shelomoh: sabiduría, alianzas y corazón dividido]]
 - [[neo-idolatria_jeroboam_reino_culto_inventado_y_miedo|Yeroboam: reino, culto inventado y miedo]]
-- [[neo-idolatria_iotam_ajaz_deseo_alianza_y_senal|Iotam y Ajaz: deseo, alianza y señal]]
+- [[neo-idolatria_iotam_ajaz_deseo_alianza_y_senal|Yotam y Ajaz: deseo, alianza y señal]]
 
 ## Créditos
 

@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#tehilim_49_1"
-  - "#tehilim_49_21"
+  - "#salmos_49_1"
+  - "#salmos_49_21"
 sources:
   - "https://www.youtube.com/watch?v=KqzHO-FjROg"
   - "docs/scriptures/oe/json/psalms/49.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 49. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)               | Observación de lectura                                               |
 | -------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| #tehilim_49_1  | למנצח לבני קרח מזמור                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #tehilim_49_21 | אדם ביקר ולא יבין נמשל כבהמות נדמו | El verso final permite observar el cierre de la composición.         |
+| #salmos_49_1  | למנצח לבני קרח מזמור                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #salmos_49_21 | אדם ביקר ולא יבין נמשל כבהמות נדמו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 
@@ -51,5 +51,5 @@ La lectura de Tehilim 49 comienza por su lenguaje poético, su desarrollo comple
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- «Tehilim/Himnos/Salmo Cap 49» — <https://www.youtube.com/watch?v=KqzHO-FjROg> — source_id: `youtube:KqzHO-FjROg`.
+- «Tehilim/Himnos/Salmo Cap 49» — <https://www.youtube.com/watch?v=KqzHO-FjROg> — `source_id`: `youtube:KqzHO-FjROg`.
 - Esta nota organiza y contrasta transcripciones automáticas; no las presenta como citas literales.
