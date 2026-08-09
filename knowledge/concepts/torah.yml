@@ -1,0 +1,11 @@
+id: torah
+type: concept
+names:
+  es: Torah
+forms:
+  - word: word:torah-he
+    role: hebrew_expression
+aliases:
+  - תורה
+  - Instrucción
+description: El Concepto Torah permite reunir sentidos escriturales sin confundirse con la entidad léxica תורה.

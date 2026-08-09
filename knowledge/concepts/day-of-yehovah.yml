@@ -1,0 +1,10 @@
+id: day-of-yehovah
+type: concept
+names:
+  es: Día de יהוה
+forms:
+  - word: word:yom-yehovah-he
+    role: hebrew_expression
+aliases:
+  - Yom יהוה
+  - יום יהוה

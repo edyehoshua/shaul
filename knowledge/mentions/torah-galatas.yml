@@ -1,0 +1,10 @@
+id: mention-torah-galatas
+note: besorah/galatas_3_torah_gracia_promesa_y_mediador
+entities:
+  - concept:torah
+  - word:torah-he
+  - concept:emunah
+  - word:emunah-he
+location:
+  heading: Torah, gracia y promesa
+text: La nota distingue la Torah como término léxico y como concepto de instrucción dentro del argumento de Gálatas.

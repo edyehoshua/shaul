@@ -1,0 +1,9 @@
+id: elohim
+type: concept
+names:
+  es: Elohim
+forms:
+  - word: word:elohim-he
+    role: hebrew_expression
+aliases:
+  - אלהים

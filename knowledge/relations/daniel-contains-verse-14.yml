@@ -1,0 +1,5 @@
+id: daniel-contains-verse-14
+source: book:daniel
+target: verse:daniel-7-14
+type: contains
+status: confirmed

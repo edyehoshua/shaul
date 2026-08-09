@@ -1,0 +1,1014 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "concept:abba",
+      "type": "concept",
+      "names": {
+        "es": "Abba · Padre"
+      },
+      "aliases": [
+        "Abba",
+        "Padre"
+      ],
+      "label": "Abba · Padre"
+    },
+    {
+      "id": "concept:ancient-of-days",
+      "type": "concept",
+      "names": {
+        "es": "Anciano de Días"
+      },
+      "forms": [
+        {
+          "word": "word:atik-yomin-ar",
+          "role": "aramaic_expression"
+        }
+      ],
+      "aliases": [
+        "Atik Yomin",
+        "עתיק יומין"
+      ],
+      "label": "Anciano de Días"
+    },
+    {
+      "id": "concept:bat-kol",
+      "type": "concept",
+      "names": {
+        "es": "Voz celestial"
+      },
+      "aliases": [
+        "Bat Kol",
+        "בת קול"
+      ],
+      "label": "Voz celestial"
+    },
+    {
+      "id": "concept:corporeality",
+      "type": "concept",
+      "names": {
+        "es": "Corporeidad"
+      },
+      "description": "Concepto experimental sin una forma original fijada en esta etapa.",
+      "label": "Corporeidad"
+    },
+    {
+      "id": "concept:covenant",
+      "type": "concept",
+      "names": {
+        "es": "Pacto"
+      },
+      "aliases": [
+        "Brit",
+        "ברית"
+      ],
+      "label": "Pacto"
+    },
+    {
+      "id": "concept:day-of-yehovah",
+      "type": "concept",
+      "names": {
+        "es": "Día de יהוה"
+      },
+      "forms": [
+        {
+          "word": "word:yom-yehovah-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Yom יהוה",
+        "יום יהוה"
+      ],
+      "label": "Día de יהוה"
+    },
+    {
+      "id": "concept:elohim",
+      "type": "concept",
+      "names": {
+        "es": "Elohim"
+      },
+      "forms": [
+        {
+          "word": "word:elohim-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "אלהים"
+      ],
+      "label": "Elohim"
+    },
+    {
+      "id": "concept:emunah",
+      "type": "concept",
+      "names": {
+        "es": "Emunah · Fe"
+      },
+      "forms": [
+        {
+          "word": "word:emunah-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Emunah",
+        "אמונה"
+      ],
+      "label": "Emunah · Fe"
+    },
+    {
+      "id": "concept:glory",
+      "type": "concept",
+      "names": {
+        "es": "Gloria"
+      },
+      "description": "Concepto experimental sin una forma original fijada en esta etapa.",
+      "label": "Gloria"
+    },
+    {
+      "id": "concept:gospel",
+      "type": "concept",
+      "names": {
+        "es": "Evangelio"
+      },
+      "aliases": [
+        "Besorah"
+      ],
+      "label": "Evangelio"
+    },
+    {
+      "id": "concept:holiness",
+      "type": "concept",
+      "names": {
+        "es": "Santidad"
+      },
+      "aliases": [
+        "Kedushá",
+        "קדושה"
+      ],
+      "label": "Santidad"
+    },
+    {
+      "id": "concept:israel",
+      "type": "concept",
+      "names": {
+        "es": "Israel"
+      },
+      "aliases": [
+        "ישראל"
+      ],
+      "label": "Israel"
+    },
+    {
+      "id": "concept:kingdom",
+      "type": "concept",
+      "names": {
+        "es": "Reino"
+      },
+      "forms": [
+        {
+          "word": "word:maljut-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Maljut",
+        "מלכות"
+      ],
+      "label": "Reino"
+    },
+    {
+      "id": "concept:menachem",
+      "type": "concept",
+      "names": {
+        "es": "Consolador"
+      },
+      "aliases": [
+        "Menajem",
+        "מנחם"
+      ],
+      "label": "Consolador"
+    },
+    {
+      "id": "concept:messiah",
+      "type": "concept",
+      "names": {
+        "es": "Mesías"
+      },
+      "forms": [
+        {
+          "word": "word:mashiach-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Mashiaj",
+        "משיח"
+      ],
+      "label": "Mesías"
+    },
+    {
+      "id": "concept:nations",
+      "type": "concept",
+      "names": {
+        "es": "Naciones"
+      },
+      "aliases": [
+        "Goyim",
+        "גוים"
+      ],
+      "label": "Naciones"
+    },
+    {
+      "id": "concept:repentance",
+      "type": "concept",
+      "names": {
+        "es": "Teshuvá · Arrepentimiento"
+      },
+      "aliases": [
+        "Teshuvá",
+        "תשובה"
+      ],
+      "label": "Teshuvá · Arrepentimiento"
+    },
+    {
+      "id": "concept:resurrection",
+      "type": "concept",
+      "names": {
+        "es": "Resurrección de los muertos"
+      },
+      "aliases": [
+        "Tejiyat HaMetim",
+        "תחיית המתים"
+      ],
+      "label": "Resurrección de los muertos"
+    },
+    {
+      "id": "concept:ruach",
+      "type": "concept",
+      "names": {
+        "es": "Ruaj · Espíritu"
+      },
+      "aliases": [
+        "Ruaj",
+        "רוח"
+      ],
+      "label": "Ruaj · Espíritu"
+    },
+    {
+      "id": "concept:son-of-god",
+      "type": "concept",
+      "names": {
+        "es": "Hijo de Elohim"
+      },
+      "forms": [
+        {
+          "word": "word:ben-ha-elohim-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Ben HaElohim",
+        "Hijo de Elohim"
+      ],
+      "description": "El título se estudia como una expresión de filiación, herencia y misión.",
+      "label": "Hijo de Elohim"
+    },
+    {
+      "id": "concept:son-of-man",
+      "type": "concept",
+      "names": {
+        "es": "Hijo del Hombre"
+      },
+      "forms": [
+        {
+          "word": "word:bar-enash-ar",
+          "role": "aramaic_expression"
+        },
+        {
+          "word": "word:ben-ha-adam-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "related_concepts": [
+        "concept:son"
+      ],
+      "aliases": [
+        "Hijo del Hombre",
+        "Ben Ha'Adam",
+        "Ben HaAdam",
+        "Bar Enash"
+      ],
+      "description": "Un concepto experimental que reúne formas lingüísticas y menciones intertextuales sin borrar su especificidad léxica.",
+      "summary": {
+        "what_it_is": "Hijo del Hombre reúne el בן האדם — Ben HaAdam de Marcos con el בר אנש — Bar Enash de Daniel 7. Daniel ve a uno como hijo de hombre después de las bestias y le son dados dominio, honra y reino; Marcos une el Ben HaAdam con padecimiento, muerte, resurrección y venida en nubes. El concepto también se lee dentro de la pregunta adámica: el Mesías es el Hombre de arriba, en quien la vocación y el dominio destinados al hombre llegan a su cumplimiento.",
+        "what_it_is_not": "No es simplemente una manera de decir que Yeshua era humano, ni una etiqueta que pueda separarse de Daniel 7, del reino, del padecimiento y de la resurrección. Tampoco es correcto convertir בן — ben en «heredero» o «repartidor» como si esa fuera su traducción fija en todas sus apariciones; las notas presentan esa relación como una lectura contextual y pedagógica."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_ben_adam_metamorfosis_glosario",
+          "title": "Marcos: Ben Adam, metamorfosis y glosario mesiánico"
+        },
+        {
+          "path": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+          "title": "Marcos: Hijo de Elohim, Hijo del Hombre y herencia"
+        },
+        {
+          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
+        },
+        {
+          "path": "temas/ben_hijo_titulos_mesias",
+          "title": "Ben, Adam y el Hijo dado al Mesías"
+        }
+      ],
+      "label": "Hijo del Hombre"
+    },
+    {
+      "id": "concept:son",
+      "type": "concept",
+      "names": {
+        "es": "Hijo"
+      },
+      "forms": [
+        {
+          "word": "word:ben-he",
+          "role": "hebrew_form"
+        },
+        {
+          "word": "word:bar-ar",
+          "role": "aramaic_form"
+        }
+      ],
+      "related_concepts": [
+        "concept:son-of-man"
+      ],
+      "summary": {
+        "what_it_is": "בן — ben y בר — bar se estudian como formas de hijo dentro de expresiones hebreas y arameas. Ben se relaciona contextualmente con filiación, herencia y portación; en la parábola de los labradores, el hijo amado es identificado como el heredero. Bar aparece en בר אנש — Bar Enash y se estudia dentro de esa expresión.",
+        "what_it_is_not": "No es una traducción mecánica de «heredero» en cada aparición, ni una definición que borre los usos propios de cada forma y lengua."
+      },
+      "articles": [
+        {
+          "path": "temas/ben_hijo_titulos_mesias",
+          "title": "Ben, Adam y el Hijo dado al Mesías"
+        },
+        {
+          "path": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+          "title": "Marcos: Hijo de Elohim, Hijo del Hombre y herencia"
+        }
+      ],
+      "label": "Hijo"
+    },
+    {
+      "id": "concept:temple",
+      "type": "concept",
+      "names": {
+        "es": "Templo"
+      },
+      "aliases": [
+        "Mikdash",
+        "מקדש"
+      ],
+      "label": "Templo"
+    },
+    {
+      "id": "concept:torah",
+      "type": "concept",
+      "names": {
+        "es": "Torah"
+      },
+      "forms": [
+        {
+          "word": "word:torah-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "תורה",
+        "Instrucción"
+      ],
+      "description": "El Concepto Torah permite reunir sentidos escriturales sin confundirse con la entidad léxica תורה.",
+      "label": "Torah"
+    },
+    {
+      "id": "concept:wisdom",
+      "type": "concept",
+      "names": {
+        "es": "Sabiduría"
+      },
+      "aliases": [
+        "Jojmá",
+        "חכמה"
+      ],
+      "label": "Sabiduría"
+    },
+    {
+      "id": "word:atik-yomin-ar",
+      "type": "word",
+      "language": "aramaic",
+      "script": "עתיק יומין",
+      "transliteration": "Atik Yomin",
+      "aliases": [
+        "Anciano de Días"
+      ],
+      "label": "עתיק יומין"
+    },
+    {
+      "id": "word:bar-ar",
+      "type": "word",
+      "language": "aramaic",
+      "script": "בר",
+      "transliteration": "Bar",
+      "description": "Forma aramea estudiada en Shaul dentro de בר אנש — Bar Enash.",
+      "label": "בר"
+    },
+    {
+      "id": "word:bar-enash-ar",
+      "type": "word",
+      "language": "aramaic",
+      "script": "בר אנש",
+      "transliteration": "Bar Enash",
+      "aliases": [
+        "bar enash"
+      ],
+      "label": "בר אנש"
+    },
+    {
+      "id": "word:ben-ha-adam-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "בן האדם",
+      "transliteration": "Ben Ha'Adam",
+      "aliases": [
+        "Ben HaAdam",
+        "Ben Adam"
+      ],
+      "label": "בן האדם"
+    },
+    {
+      "id": "word:ben-ha-elohim-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "בן האלהים",
+      "transliteration": "Ben HaElohim",
+      "aliases": [
+        "Ben HaElohim"
+      ],
+      "label": "בן האלהים"
+    },
+    {
+      "id": "word:ben-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "בן",
+      "transliteration": "Ben",
+      "label": "בן"
+    },
+    {
+      "id": "word:elohim-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "אלהים",
+      "transliteration": "Elohim",
+      "label": "אלהים"
+    },
+    {
+      "id": "word:emunah-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "אמונה",
+      "transliteration": "Emunah",
+      "aliases": [
+        "Fe"
+      ],
+      "label": "אמונה"
+    },
+    {
+      "id": "word:maljut-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "מלכות",
+      "transliteration": "Maljut",
+      "aliases": [
+        "Reino"
+      ],
+      "label": "מלכות"
+    },
+    {
+      "id": "word:mashiach-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "משיח",
+      "transliteration": "Mashiaj",
+      "aliases": [
+        "Mesías"
+      ],
+      "label": "משיח"
+    },
+    {
+      "id": "word:torah-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "תורה",
+      "transliteration": "Torah",
+      "aliases": [
+        "Instrucción"
+      ],
+      "label": "תורה"
+    },
+    {
+      "id": "word:yom-yehovah-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "יום יהוה",
+      "transliteration": "Yom יהוה",
+      "aliases": [
+        "Día de יהוה"
+      ],
+      "label": "יום יהוה"
+    },
+    {
+      "id": "verse:daniel-7-13",
+      "type": "verse",
+      "book": "book:daniel",
+      "chapter": 7,
+      "verse": 13,
+      "label": "daniel 7:13"
+    },
+    {
+      "id": "verse:daniel-7-14",
+      "type": "verse",
+      "book": "book:daniel",
+      "chapter": 7,
+      "verse": 14,
+      "label": "daniel 7:14"
+    },
+    {
+      "id": "verse:john-1-49",
+      "type": "verse",
+      "book": "book:john",
+      "chapter": 1,
+      "verse": 49,
+      "label": "john 1:49"
+    },
+    {
+      "id": "verse:john-3-13",
+      "type": "verse",
+      "book": "book:john",
+      "chapter": 3,
+      "verse": 13,
+      "label": "john 3:13"
+    },
+    {
+      "id": "verse:mark-14-62",
+      "type": "verse",
+      "book": "book:mark",
+      "chapter": 14,
+      "verse": 62,
+      "label": "mark 14:62"
+    },
+    {
+      "id": "verse:revelation-1-13",
+      "type": "verse",
+      "book": "book:revelation",
+      "chapter": 1,
+      "verse": 13,
+      "label": "revelation 1:13"
+    },
+    {
+      "id": "person:daniel",
+      "type": "person",
+      "names": {
+        "es": "Daniel"
+      },
+      "label": "Daniel"
+    },
+    {
+      "id": "person:david",
+      "type": "person",
+      "names": {
+        "es": "David"
+      },
+      "label": "David"
+    },
+    {
+      "id": "person:moshe",
+      "type": "person",
+      "names": {
+        "es": "Moshé"
+      },
+      "aliases": [
+        "Moisés"
+      ],
+      "label": "Moshé"
+    },
+    {
+      "id": "person:yehoshua",
+      "type": "person",
+      "names": {
+        "es": "Yehoshua"
+      },
+      "aliases": [
+        "Yeshúa",
+        "Jesús"
+      ],
+      "label": "Yehoshua"
+    },
+    {
+      "id": "person:yohanan",
+      "type": "person",
+      "names": {
+        "es": "Yohanan"
+      },
+      "aliases": [
+        "Juan"
+      ],
+      "label": "Yohanan"
+    },
+    {
+      "id": "book:daniel",
+      "type": "book",
+      "names": {
+        "es": "Daniel"
+      },
+      "aliases": [
+        "דניאל"
+      ],
+      "label": "Daniel"
+    },
+    {
+      "id": "book:genesis",
+      "type": "book",
+      "names": {
+        "es": "Bereshit"
+      },
+      "aliases": [
+        "Génesis"
+      ],
+      "label": "Bereshit"
+    },
+    {
+      "id": "book:john",
+      "type": "book",
+      "names": {
+        "es": "Yojanan"
+      },
+      "aliases": [
+        "Juan",
+        "יוחנן"
+      ],
+      "label": "Yojanan"
+    },
+    {
+      "id": "book:mark",
+      "type": "book",
+      "names": {
+        "es": "Marcos"
+      },
+      "aliases": [
+        "Markos",
+        "מרקוס"
+      ],
+      "label": "Marcos"
+    },
+    {
+      "id": "book:revelation",
+      "type": "book",
+      "names": {
+        "es": "Revelación"
+      },
+      "aliases": [
+        "Apocalipsis"
+      ],
+      "label": "Revelación"
+    }
+  ],
+  "edges": [
+    {
+      "id": "atik-yomin-expresses-ancient-of-days",
+      "source": "word:atik-yomin-ar",
+      "target": "concept:ancient-of-days",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "bar-enash-expresses-son-of-man",
+      "source": "word:bar-enash-ar",
+      "target": "concept:son-of-man",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "bar-expresses-son",
+      "source": "word:bar-ar",
+      "target": "concept:son",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "ben-expresses-son",
+      "source": "word:ben-he",
+      "target": "concept:son",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "ben-ha-adam-expresses-son-of-man",
+      "source": "word:ben-ha-adam-he",
+      "target": "concept:son-of-man",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "ben-ha-elohim-expresses-son-of-god",
+      "source": "word:ben-ha-elohim-he",
+      "target": "concept:son-of-god",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "daniel-associated-with-son-of-man",
+      "source": "person:daniel",
+      "target": "concept:son-of-man",
+      "type": "associated_with",
+      "status": "confirmed"
+    },
+    {
+      "id": "daniel-contains-verse-13",
+      "source": "book:daniel",
+      "target": "verse:daniel-7-13",
+      "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "daniel-contains-verse-14",
+      "source": "book:daniel",
+      "target": "verse:daniel-7-14",
+      "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "elohim-expresses-elohim",
+      "source": "word:elohim-he",
+      "target": "concept:elohim",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "emunah-expresses-emunah",
+      "source": "word:emunah-he",
+      "target": "concept:emunah",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "john-contains-verse-1-49",
+      "source": "book:john",
+      "target": "verse:john-1-49",
+      "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "john-contains-verse-3-13",
+      "source": "book:john",
+      "target": "verse:john-3-13",
+      "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "maljut-expresses-kingdom",
+      "source": "word:maljut-he",
+      "target": "concept:kingdom",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "mark-alludes-to-daniel",
+      "source": "verse:mark-14-62",
+      "target": "verse:daniel-7-13",
+      "type": "alludes_to",
+      "status": "proposed"
+    },
+    {
+      "id": "mark-contains-verse-14-62",
+      "source": "book:mark",
+      "target": "verse:mark-14-62",
+      "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "mashiach-expresses-messiah",
+      "source": "word:mashiach-he",
+      "target": "concept:messiah",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "revelation-contains-verse-1-13",
+      "source": "book:revelation",
+      "target": "verse:revelation-1-13",
+      "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "son-of-man-daniel-verse",
+      "source": "verse:daniel-7-13",
+      "target": "concept:son-of-man",
+      "type": "mentions",
+      "status": "confirmed"
+    },
+    {
+      "id": "son-of-man-mark-verse",
+      "source": "verse:mark-14-62",
+      "target": "concept:son-of-man",
+      "type": "mentions",
+      "status": "confirmed"
+    },
+    {
+      "id": "son-of-man-related-to-messiah",
+      "source": "concept:son-of-man",
+      "target": "concept:messiah",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "son-of-man-related-to-son",
+      "source": "concept:son-of-man",
+      "target": "concept:son",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "torah-expresses-torah",
+      "source": "word:torah-he",
+      "target": "concept:torah",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "yehoshua-associated-with-messiah",
+      "source": "person:yehoshua",
+      "target": "concept:messiah",
+      "type": "associated_with",
+      "status": "confirmed"
+    },
+    {
+      "id": "yom-yehovah-expresses-day",
+      "source": "word:yom-yehovah-he",
+      "target": "concept:day-of-yehovah",
+      "type": "expresses",
+      "status": "confirmed"
+    }
+  ],
+  "mentions": [
+    {
+      "id": "mention-elohim-mark",
+      "note": "besorah/markos_el_eloha_elohim_adonay_yeshua",
+      "entities": [
+        "concept:elohim",
+        "word:elohim-he",
+        "concept:son-of-god",
+        "person:yehoshua"
+      ],
+      "location": {
+        "heading": "Elohim y la identidad de Yehoshua"
+      },
+      "text": "El estudio conserva la relación entre el nombre Elohim, sus obras y la identidad del Hijo."
+    },
+    {
+      "id": "mention-messiah-tanaj",
+      "note": "temas/mashiaj_esperanza_de_israel_y_redencion",
+      "entities": [
+        "concept:messiah",
+        "word:mashiach-he",
+        "concept:israel",
+        "person:yehoshua"
+      ],
+      "location": {
+        "heading": "Esperanza de Israel y redención"
+      },
+      "text": "La nota estudia Mashiaj como término y como hilo conceptual de esperanza para Israel."
+    },
+    {
+      "id": "mention-son-of-man-daniel",
+      "note": "besorah/markos_ben_adam_metamorfosis_glosario",
+      "entities": [
+        "concept:son-of-man",
+        "word:bar-enash-ar",
+        "verse:daniel-7-13",
+        "verse:daniel-7-14",
+        "concept:ancient-of-days"
+      ],
+      "location": {
+        "heading": "Daniel 7:13-14"
+      },
+      "text": "El Bar Enash que llega ante el Anciano de días recibe dominio, honra y reino."
+    },
+    {
+      "id": "mention-son-of-man-mark-14",
+      "note": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+      "entities": [
+        "concept:son-of-man",
+        "verse:mark-14-62",
+        "concept:messiah"
+      ],
+      "location": {
+        "heading": "Marcos 14:62"
+      },
+      "text": "La confesión ante el tribunal reúne al Hijo del Hombre, la autoridad y las nubes."
+    },
+    {
+      "id": "mention-son-of-man-mark",
+      "note": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+      "entities": [
+        "concept:son-of-man",
+        "word:ben-ha-adam-he",
+        "concept:kingdom",
+        "concept:messiah"
+      ],
+      "location": {
+        "heading": "Hijo del Hombre: reino, semilla y pequeñez"
+      },
+      "text": "La nota aplica el patrón de herencia al título Ben HaAdam y lo conecta con el reino de los cielos."
+    },
+    {
+      "id": "mention-torah-galatas",
+      "note": "besorah/galatas_3_torah_gracia_promesa_y_mediador",
+      "entities": [
+        "concept:torah",
+        "word:torah-he",
+        "concept:emunah",
+        "word:emunah-he"
+      ],
+      "location": {
+        "heading": "Torah, gracia y promesa"
+      },
+      "text": "La nota distingue la Torah como término léxico y como concepto de instrucción dentro del argumento de Gálatas."
+    }
+  ],
+  "entityMentions": {
+    "concept:elohim": [
+      "mention-elohim-mark"
+    ],
+    "word:elohim-he": [
+      "mention-elohim-mark"
+    ],
+    "concept:son-of-god": [
+      "mention-elohim-mark"
+    ],
+    "person:yehoshua": [
+      "mention-elohim-mark",
+      "mention-messiah-tanaj"
+    ],
+    "concept:messiah": [
+      "mention-messiah-tanaj",
+      "mention-son-of-man-mark-14",
+      "mention-son-of-man-mark"
+    ],
+    "word:mashiach-he": [
+      "mention-messiah-tanaj"
+    ],
+    "concept:israel": [
+      "mention-messiah-tanaj"
+    ],
+    "concept:son-of-man": [
+      "mention-son-of-man-daniel",
+      "mention-son-of-man-mark-14",
+      "mention-son-of-man-mark"
+    ],
+    "word:bar-enash-ar": [
+      "mention-son-of-man-daniel"
+    ],
+    "verse:daniel-7-13": [
+      "mention-son-of-man-daniel"
+    ],
+    "verse:daniel-7-14": [
+      "mention-son-of-man-daniel"
+    ],
+    "concept:ancient-of-days": [
+      "mention-son-of-man-daniel"
+    ],
+    "verse:mark-14-62": [
+      "mention-son-of-man-mark-14"
+    ],
+    "word:ben-ha-adam-he": [
+      "mention-son-of-man-mark"
+    ],
+    "concept:kingdom": [
+      "mention-son-of-man-mark"
+    ],
+    "concept:torah": [
+      "mention-torah-galatas"
+    ],
+    "word:torah-he": [
+      "mention-torah-galatas"
+    ],
+    "concept:emunah": [
+      "mention-torah-galatas"
+    ],
+    "word:emunah-he": [
+      "mention-torah-galatas"
+    ]
+  }
+}

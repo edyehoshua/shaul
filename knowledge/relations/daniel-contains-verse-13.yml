@@ -1,0 +1,5 @@
+id: daniel-contains-verse-13
+source: book:daniel
+target: verse:daniel-7-13
+type: contains
+status: confirmed
