@@ -24,7 +24,7 @@ Las conexiones se separan en dos clases:
 - **Versículos:** anclas bíblicas que se pueden abrir directamente en el índice de Escrituras.
 - **Notas:** estudios de Shaul que desarrollan el concepto y permiten volver al contexto completo de la enseñanza.
 
-Este archivo es un catálogo editorial, no una afirmación de que cada conexión ya esté terminada. La primera iteración redacta cinco cards completos para validar tono, tamaño y navegación antes de producir los otros cuarenta y cinco.
+Este archivo es un catálogo editorial. La redacción completa de los cincuenta cards se encuentra en `design/shaul-v2/cards-50.md`; este mapa conserva la vista compacta para trabajar con el grafo, los filtros y la navegación.
 
 ## Criterio de selección
 
