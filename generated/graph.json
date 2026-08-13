@@ -5,13 +5,36 @@
       "id": "concept:abba",
       "type": "concept",
       "names": {
-        "es": "Abba · Padre"
+        "es": "Abá · Padre"
       },
       "aliases": [
+        "Abá",
         "Abba",
         "Padre"
       ],
-      "label": "Abba · Padre"
+      "definition": {
+        "title": "Abá",
+        "paragraphs": [
+          "אבא no es una contraseña espiritual ni otra persona divina separada que compite con el Mesías. Es fuente y origen: el amor entrañable todavía no del todo revelado, la promesa que el Hijo confiesa y cumple. Ver al Mesías es ver ese amor hecho visible. «Abá es mayor que yo» distingue la manifestación en etapa de siervo de la plenitud de la fuente, no niega la deidad del Mesías.",
+          "En Marcos, Yehoshua ora Abá en Gue Shemanim: cercanía que no elimina la obediencia. Recibir el ruaj de Elohim es recibir discernimiento que el hombre natural no sondea. Clamar Abá no es temor servil; es participar de una filiación que Israel ya conocía por promesa."
+        ],
+        "caution": "La cadena El / Eloha / Elohim / Abá ordena la lectura de estos términos, pero no es un diccionario cerrado. No autoriza a borrar las diferencias entre el Padre, el Hijo y quienes son enviados, ni a reducir Abá a «papá» doméstico."
+      },
+      "articles": [
+        {
+          "path": "temas/elohim_aba",
+          "title": "elohim aba"
+        },
+        {
+          "path": "besorah/markos_abba_ruaj_mente_mashiaj",
+          "title": "markos abba ruaj mente mashiaj"
+        },
+        {
+          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
+          "title": "yojanan oracion dos tronos emunah"
+        }
+      ],
+      "label": "Abá · Padre"
     },
     {
       "id": "concept:ancient-of-days",
@@ -29,6 +52,20 @@
         "Atik Yomin",
         "עתיק יומין"
       ],
+      "definition": {
+        "title": "Anciano de Días",
+        "paragraphs": [
+          "עתיק יומין — Atik Yomin — es la figura de Daniel 7 que se sienta a juzgar cuando las bestias han recibido su tiempo. El trono, el vestido blanco y los libros abiertos presentan un juicio que no pertenece a los poderes de la tierra.",
+          "Delante de él llega uno como בר אנש — Bar Enash — y recibe dominio, honra y reino. El Anciano de Días y el Hijo del Hombre no se leen como dos historias sueltas: el juicio y la entrega del reino pertenecen al mismo horizonte. Marcos une esa visión con el padecimiento y la venida en nubes."
+        ],
+        "caution": "Anciano de Días no debe convertirse en una pieza de una trinidad tardía sin argumentar el texto, ni separarse de Daniel 7 y de Bar Enash."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_ben_adam_metamorfosis_glosario",
+          "title": "Marcos: Ben Adam, metamorfosis y glosario mesiánico"
+        }
+      ],
       "label": "Anciano de Días"
     },
     {
@@ -41,6 +78,24 @@
         "Bat Kol",
         "בת קול"
       ],
+      "definition": {
+        "title": "Voz celestial",
+        "paragraphs": [
+          "בת קול — bat kol, «hija de voz» — nombra una voz celestial que identifica y confirma. En la tevilah y en la metamorfosis, la voz declara al Hijo y llama a escucharlo. No es un ruido decorativo: ordena la escena y señala a Yehoshua.",
+          "Esa voz reúne matices de Hijo, Siervo y Escogido que se entienden mejor junto al Tanaj. No sustituye a la Escritura ni abre una revelación privada que pueda contradecir lo escrito. Quien oye la voz queda obligado a oír al Hijo."
+        ],
+        "caution": "Bat kol es una categoría de lectura, no una prueba automática de cada voz o impresión espiritual."
+      },
+      "articles": [
+        {
+          "path": "temas/bat_kol",
+          "title": "Bat kol"
+        },
+        {
+          "path": "besorah/markos_9_gloria_servicio_sal_paz",
+          "title": "Marcos 9: gloria, servicio, sal y paz"
+        }
+      ],
       "label": "Voz celestial"
     },
     {
@@ -49,7 +104,24 @@
       "names": {
         "es": "Corporeidad"
       },
-      "description": "Concepto experimental sin una forma original fijada en esta etapa.",
+      "definition": {
+        "title": "Corporeidad",
+        "paragraphs": [
+          "La corporeidad nombra que la salvación de Elohim no desprecia el cuerpo. El primer adam es polvo y aliento; el postrer Adam es vida indestructible, no una idea. Yehoshua come, toca, sufre, muere y se levanta. La Palabra se hace carne; la esperanza no es huir de la materia.",
+          "Por eso la resurrección, el pan, el agua, el madero y el costado abierto importan. Una fe que trata al cuerpo como estorbo o como ídolo pierde el hilo. La nueva creación renueva la vida corporal y comunitaria; no descarta el mundo que Elohim hizo."
+        ],
+        "caution": "Corporeidad no es materialismo, ni una teoría de la encarnación tomada de vocabularios posteriores sin pasar por los textos."
+      },
+      "articles": [
+        {
+          "path": "temas/ben_hijo_titulos_mesias",
+          "title": "Ben, Adam y el Hijo dado al Mesías"
+        },
+        {
+          "path": "besorah/yojanan_11_eleazar_resurreccion_vida",
+          "title": "Yojanán 11: Eleazar, resurrección y vida"
+        }
+      ],
       "label": "Corporeidad"
     },
     {
@@ -61,6 +133,24 @@
       "aliases": [
         "Brit",
         "ברית"
+      ],
+      "definition": {
+        "title": "Pacto",
+        "paragraphs": [
+          "ברית — pacto — es un vínculo que יהוה establece con palabras, señales y responsabilidades. No es un contrato entre iguales. Abraham recibe promesa; Israel recibe Torah y memoria de liberación; en Marcos 14 la sangre del Mesías se nombra como sangre del pacto.",
+          "Un pacto mejor no significa un Elohim distinto ni una instrucción desechada. Hebreos habla de Torah en el corazón, conciencia purificada y pecados perdonados. El pacto ordena cómo vivir delante de יהוה y cómo tratar al hermano; no se reduce a una ceremonia."
+        ],
+        "caution": "Pacto antiguo y pacto renovado no deben leerse como dos religiones enfrentadas, ni como permiso para ignorar la palabra ya dada."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "title": "Marcos 14: Pésaj, pacto y juicio"
+        },
+        {
+          "path": "besorah/hebreos_8_pacto_mejor_y_servicio_celestial",
+          "title": "Hebreos 8: pacto mejor y servicio celestial"
+        }
       ],
       "label": "Pacto"
     },
@@ -80,6 +170,20 @@
         "Yom יהוה",
         "יום יהוה"
       ],
+      "definition": {
+        "title": "Día de יהוה",
+        "paragraphs": [
+          "יום יהוה — el día de יהוה — es el tiempo en que Elohim interviene de manera pública para juzgar, salvar y poner las cosas en su lugar. Los profetas lo anuncian como oscuridad para el orgullo y como luz para quienes esperan. No es un adorno escatológico: es una advertencia y una esperanza.",
+          "Ese día no autoriza calendarios cerrados ni el desprecio de quienes todavía caminan. Llama a vigilancia, retorno y justicia presente. El trono, las bestias y el remanente se leen bajo esa misma pregunta: de quién es el día y a quién pertenece la última palabra."
+        ],
+        "caution": "El día de יהוה no debe reducirse a una fecha moderna ni usarse para aterrorizar sin llamado al retorno."
+      },
+      "articles": [
+        {
+          "path": "besorah/apocalipsis_6_revelacion_sellos_justicia_y_paciencia",
+          "title": "Apocalipsis 6: sellos, justicia y paciencia"
+        }
+      ],
       "label": "Día de יהוה"
     },
     {
@@ -96,6 +200,24 @@
       ],
       "aliases": [
         "אלהים"
+      ],
+      "definition": {
+        "title": "Elohim",
+        "paragraphs": [
+          "אלהים no equivale automáticamente al «Dios» genérico del castellano. En el uso principal de este conocimiento, Elohim nombra el amor entrañable manifestado hacia la creación, ligado a רחמים — rajamim — como afecto de entrañas, no como lástima. El contexto manda: también puede designar jueces, mensajeros o, en tono polémico, los llamados dioses de las naciones.",
+          "En el prólogo de Yojanán, «Elohim era la Palabra»: la Palabra no es un dios secundario. Ver al Mesías es ver ese amor hecho visible. El trono de la gracia se lee junto a Elohim; el trono del juicio, junto al Nombre יהוה."
+        ],
+        "caution": "No se debe leer Elohim como una etiqueta fija en todos los pasajes, ni aplastarlo a una segunda persona en competencia con Abá."
+      },
+      "articles": [
+        {
+          "path": "temas/elohim_aba",
+          "title": "Elohim y Abá"
+        },
+        {
+          "path": "besorah/yojanan_conceptos_deidad",
+          "title": "Conceptos clave de deidad en Yojanán"
+        }
       ],
       "label": "Elohim"
     },
@@ -115,6 +237,28 @@
         "Emunah",
         "אמונה"
       ],
+      "definition": {
+        "title": "Emunah",
+        "paragraphs": [
+          "אמונה puede traducirse como fe, pero la palabra tiene un peso más amplio: confianza, firmeza y fidelidad. No es cerrar los ojos ante la realidad; es apoyarse en una promesa y caminar de acuerdo con ella. Tampoco es optimismo ni una manera de obligar a Elohim.",
+          "Hebreos 11 muestra personas que esperan, disciernen lo que todavía no se ve y mueren sin recibir en plenitud lo anunciado. En Yojanán 10, la emunah se forma por instrucción: no es un salto vacío. Gálatas y Romanos recuerdan que la fidelidad del Mesías no se reemplaza por una competencia de méritos. La confianza verdadera toca las obras, aunque no se compra con ellas. La justificación por emunah no es lo mismo que la santificación como fruto."
+        ],
+        "caution": "Emunah no es «creer que» en el sentido moderno, ni una técnica para obtener milagros. El Hijo hace la voluntad escrita; eso no se reduce al eslogan «cumplió perfectamente la ley»."
+      },
+      "articles": [
+        {
+          "path": "besorah/hebreos_11_emunah_testimonio_y_esperanza",
+          "title": "hebreos 11 emunah testimonio y esperanza"
+        },
+        {
+          "path": "besorah/yojanan_10_emunah_obras_ovejas",
+          "title": "yojanan 10 emunah obras ovejas"
+        },
+        {
+          "path": "besorah/galatas_3_escucha_emunah_y_hijos_de_abraham",
+          "title": "galatas 3 escucha emunah y hijos de abraham"
+        }
+      ],
       "label": "Emunah · Fe"
     },
     {
@@ -123,19 +267,55 @@
       "names": {
         "es": "Gloria"
       },
-      "description": "Concepto experimental sin una forma original fijada en esta etapa.",
+      "definition": {
+        "title": "Gloria",
+        "paragraphs": [
+          "La gloria es el peso y la honra visibles de Elohim. No es un brillo decorativo. En Shemot, Moshéh no puede reducir esa gloria a una visión manipulable. En Yojanán, la hora de Yehoshua es glorificación: el Hijo honra al Padre y el Padre honra al Hijo, también en el madero.",
+          "Recibir gloria de los hombres y buscar la honra que viene de Elohim no son el mismo camino. La metamorfosis muestra una gloria anticipada; la resurrección, una gloria que ya no queda sujeta a la muerte. La comunidad no fabrica esa honra: la reconoce y la refleja."
+        ],
+        "caution": "Gloria no debe confundirse con prestigio religioso, éxito visible o una experiencia intensa."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_17_gloria_autoridad_y_vida",
+          "title": "Yojanán 17: gloria, autoridad y vida"
+        },
+        {
+          "path": "tanaj/shemot_33_34_santuario_presencia_y_santidad",
+          "title": "Shemot 33–34: santuario, presencia y santidad"
+        }
+      ],
       "label": "Gloria"
     },
     {
       "id": "concept:gospel",
       "type": "concept",
       "names": {
-        "es": "Evangelio"
+        "es": "Besorah"
       },
       "aliases": [
+        "Evangelio",
         "Besorah"
       ],
-      "label": "Evangelio"
+      "definition": {
+        "title": "Besorah",
+        "paragraphs": [
+          "La Besorah no es un eslogan ni una noticia religiosa suelta. Es el anuncio de que יהוה reina y cumple su promesa en Yehoshua el Mesías: perdón, vida, reunión y justicia. Marcos la abre como anuncio del reino; Pablo la defiende como un único evangelio que no se cambia por presión humana.",
+          "Ese anuncio no abole la Torah ni inventa otro pueblo. Llama a emunah, retorno y una vida que corresponde a lo recibido. Hay un solo evangelio; otro distinto no es una variante inocente."
+        ],
+        "caution": "Besorah no debe reducirse a «ir al cielo» ni oponerse de manera automática a la instrucción de Elohim."
+      },
+      "articles": [
+        {
+          "path": "besorah/galatas_1_unico_evangelio_y_reconciliacion",
+          "title": "Gálatas 1: un solo evangelio"
+        },
+        {
+          "path": "besorah/romanos_1_siervo_enviado_y_besorah_prometida",
+          "title": "Romanos 1: siervo enviado y Besorah prometida"
+        }
+      ],
+      "label": "Besorah"
     },
     {
       "id": "concept:holiness",
@@ -147,6 +327,24 @@
         "Kedushá",
         "קדושה"
       ],
+      "definition": {
+        "title": "Santidad",
+        "paragraphs": [
+          "La santidad es una vida apartada para Elohim. No se limita a una apariencia religiosa ni a una lista de cosas que no se tocan. Tehilim 51 no presenta la restauración como auto-mejora: David ruega que Elohim cree en él un corazón puro y renueve un espíritu firme. Esa súplica alcanza pensamientos, deseos, palabras, relaciones y conducta.",
+          "Efesios 4, Colosenses 3 y 1 Tesalonicenses 4 permiten seguir el mismo movimiento: dejar al hombre viejo, ser renovados, vestir al hombre nuevo y aprender una santidad concreta. La santidad no busca hacer que una persona parezca superior, sino que su vida deje de pertenecer a aquello que la destruye."
+        ],
+        "caution": "Santidad sin misericordia se convierte en orgullo; misericordia sin verdad pierde su forma."
+      },
+      "articles": [
+        {
+          "path": "temas/corazon_renovado_orden_santidad",
+          "title": "corazon renovado orden santidad"
+        },
+        {
+          "path": "besorah/efesios_5_amor_luz_y_sabiduria",
+          "title": "efesios 5 amor luz y sabiduria"
+        }
+      ],
       "label": "Santidad"
     },
     {
@@ -157,6 +355,24 @@
       },
       "aliases": [
         "ישראל"
+      ],
+      "definition": {
+        "title": "Israel",
+        "paragraphs": [
+          "ישראל es el pueblo que יהוה llama «mi pueblo» antes de salir de Mitzráim y adquiere de entre las naciones. Esa elección no significa pureza de sangre ni superioridad humana. La palabra de יהוה acerca de Israel no se descarta para inventar otro pueblo.",
+          "En el Mesías, quienes estaban lejos son acercados y ambos se reúnen en un solo pueblo. Romanos 11 usa el olivo: las naciones son injertadas en una raíz que no les pertenece por jactancia; las ramas naturales pueden volver a ser plantadas. Continuidad con transformación, no reemplazo."
+        ],
+        "caution": "Israel no se reduce a un Estado moderno, ni a una metáfora que borra al pueblo concreto. Tampoco autoriza especulación genealógica ni desprecio hacia las naciones incorporadas."
+      },
+      "articles": [
+        {
+          "path": "temas/israel_no_reemplazado_un_pueblo_y_un_olivo",
+          "title": "Israel no reemplazado"
+        },
+        {
+          "path": "besorah/romanos_11_olivo_misericordia_esperanza_para_Israel",
+          "title": "Romanos 11: olivo, misericordia y esperanza"
+        }
       ],
       "label": "Israel"
     },
@@ -176,19 +392,60 @@
         "Maljut",
         "מלכות"
       ],
+      "definition": {
+        "title": "Reino",
+        "paragraphs": [
+          "El reino es el gobierno de Elohim hecho visible. No se reduce a un lugar futuro ni a una sensación interior. En Yehoshua aparece en palabras, sanidades, confrontaciones, mesa compartida y servicio. En Marcos, la מלכות se reconoce también como manifestación: el que se transfigura es el reino venido con poder.",
+          "La autoridad del reino no se parece al poder que domina para ser visto. Yehoshua la muestra sirviendo, entregando su vida y corrigiendo a quienes piden tronos. Recibir el reino se parece más a un niño que a un cálculo de riqueza o rango. Por eso el reino se lee junto al pacto, el servicio y el camino."
+        ],
+        "caution": "Hablar del reino exige mirar tanto su esperanza futura como sus señales presentes. No toda aparición de «reino» o de מלכות entra en un esquema único."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_10_pacto_reino_riqueza_servicio_camino",
+          "title": "markos 10 pacto reino riqueza servicio camino"
+        },
+        {
+          "path": "besorah/yojanan_17_gloria_autoridad_y_vida",
+          "title": "yojanan 17 gloria autoridad y vida"
+        },
+        {
+          "path": "besorah/markos_1_reino_autoridad_compasion",
+          "title": "markos 1 reino autoridad compasion"
+        }
+      ],
       "label": "Reino"
     },
     {
       "id": "concept:menachem",
       "type": "concept",
       "names": {
-        "es": "Consolador"
+        "es": "Menájem"
       },
       "aliases": [
         "Menajem",
+        "Consolador",
         "מנחם"
       ],
-      "label": "Consolador"
+      "definition": {
+        "title": "Menájem",
+        "paragraphs": [
+          "מנחם — Menájem — nombra al que consuela y permanece. En Yojanán 14 no es una tercera figura suelta ni una emoción intensa: es la promesa de una presencia que enseña, recuerda la palabra y no deja huérfanos a los discípulos cuando Yehoshua parte.",
+          "Esa promesa queda dentro de la relación con Abá y del Nombre. El Menájem no sustituye al Mesías ni abre otro camino; sostiene la misma palabra, la misma obediencia y la misma esperanza. Se reconoce por lo que trae a la memoria y por la vida que produce, no por una fórmula."
+        ],
+        "caution": "Menájem no debe aplanarse a «el Espíritu Santo» del lenguaje posterior sin mirar el pasaje, ni usarse como una presencia que autoriza cualquier novedad."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_14_abba_menajem_nombre",
+          "title": "Yojanán 14: Abá, Menájem y el Nombre"
+        },
+        {
+          "path": "besorah/yojanan_14_morada_palabra_memoria",
+          "title": "Yojanán 14: morada, palabra y memoria"
+        }
+      ],
+      "label": "Menájem"
     },
     {
       "id": "concept:messiah",
@@ -206,6 +463,28 @@
         "Mashiaj",
         "משיח"
       ],
+      "definition": {
+        "title": "Mesías",
+        "paragraphs": [
+          "Leer desde el משיח no es pegar su nombre sobre cualquier pasaje. Es seguir cómo la Torah, los profetas, las fiestas y las cartas anuncian, preparan o iluminan su obra: justicia, reunión, redención y restauración. La esperanza nace de la promesa a Israel; no es especulación sin límite.",
+          "La Escritura no presentaba al Mesías solamente como un rey invencible que transforma el mundo de inmediato. También lo anunciaba como simiente, cordero, retoño, siervo y cargador de la culpa. Si se borra esa primera venida humilde, las obras de Yehoshua parecen insuficientes; si se conserva toda la línea, esas obras testifican quién es."
+        ],
+        "caution": "Una lectura mesiánica necesita mostrar sus pasos. No basta con afirmar que un texto «habla del Mesías». Las cronologías y esquemas escatológicos que el texto no demuestra quedan cualificados."
+      },
+      "articles": [
+        {
+          "path": "temas/mashiaj_esperanza_de_israel_y_redencion",
+          "title": "mashiaj esperanza de israel y redencion"
+        },
+        {
+          "path": "temas/identidad_mesianica_tora_gracia_y_discernimiento",
+          "title": "identidad mesianica tora gracia y discernimiento"
+        },
+        {
+          "path": "besorah/yojanan_10_janukah_senales_mesias",
+          "title": "yojanan 10 janukah senales mesias"
+        }
+      ],
       "label": "Mesías"
     },
     {
@@ -217,6 +496,24 @@
       "aliases": [
         "Goyim",
         "גוים"
+      ],
+      "definition": {
+        "title": "Naciones",
+        "paragraphs": [
+          "גוים — naciones — nombra a los pueblos distintos de Israel. En la Torah pueden ser amenaza, testigos o invitados a servir al Elohim de Israel. En Efesios, quienes estaban lejos, ajenos a la comunidad de Israel y a los pactos, son acercados en la sangre del Mesías.",
+          "La incorporación no autoriza jactancia contra las ramas naturales. El acebuche vive de una raíz que no plantó. Las naciones reciben herencia y responsabilidad; no sustituyen a Israel ni quedan como espectadoras de una historia ajena."
+        ],
+        "caution": "«Gentiles» no debe usarse para borrar la distinción de los textos, ni para construir una iglesia que ocupa el lugar de Israel."
+      },
+      "articles": [
+        {
+          "path": "temas/israel_no_reemplazado_un_pueblo_y_un_olivo",
+          "title": "Israel no reemplazado"
+        },
+        {
+          "path": "besorah/efesios_2_lejania_paz_y_un_solo_pueblo",
+          "title": "Efesios 2: lejanía, paz y un solo pueblo"
+        }
       ],
       "label": "Naciones"
     },
@@ -230,6 +527,24 @@
         "Teshuvá",
         "תשובה"
       ],
+      "definition": {
+        "title": "Arrepentimiento",
+        "paragraphs": [
+          "El arrepentimiento es un regreso. No consiste solamente en sentir culpa, sino en escuchar de nuevo, reconocer el camino equivocado y escoger la vida que Elohim pone delante. Devarim 30 no presenta la restauración como olvido de la alianza: Israel vuelve a יהוה, escucha su voz, y יהוה circuncida el corazón para que el pueblo ame. La palabra queda cercana, en la boca y en el corazón, para hacerla.",
+          "Apocalipsis muestra lo trágico de recibir advertencias y negarse a volver. El arrepentimiento no humilla por gusto; abre una salida real cuando la persona deja de justificarse. Conserva juntas la iniciativa de יהוה y la responsabilidad de escoger."
+        ],
+        "caution": "Exigir arrepentimiento a otros sin examinar la propia vida transforma una llamada a la vida en un arma."
+      },
+      "articles": [
+        {
+          "path": "tanaj/devarim_30_retornar_corazon_y_escoger_vida",
+          "title": "devarim 30 retornar corazon y escoger vida"
+        },
+        {
+          "path": "besorah/apocalipsis_2_revelacion_llamado_arrepentimiento_y_fidelidad",
+          "title": "apocalipsis 2 revelacion llamado arrepentimiento y fidelidad"
+        }
+      ],
       "label": "Teshuvá · Arrepentimiento"
     },
     {
@@ -242,6 +557,28 @@
         "Tejiyat HaMetim",
         "תחיית המתים"
       ],
+      "definition": {
+        "title": "Resurrección",
+        "paragraphs": [
+          "La resurrección no es solamente volver a la vida anterior. Es la vindicación de Yehoshua y el comienzo de una vida que ya no queda sometida al poder de la muerte. En Yojanán 11, Yehoshua se identifica como el levantamiento y la vida antes de llamar a Eleazar. En Marcos 16, el que fue colgado se levantó y va delante a Galil.",
+          "Por eso la comunidad no recibe una noticia para guardarla en silencio, sino una esperanza que la convierte en testigo. Las primicias del ómer dan el marco festivo de esa esperanza. El primer día de la semana no debe convertirse en una guerra calendárica que eclipse la resurrección misma."
+        ],
+        "caution": "Esperanza corporal no significa negar el misterio ni convertir la resurrección en una explicación técnica. Calendario, primer día y envío deben mantenerse distinguibles."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_11_eleazar_resurreccion_vida",
+          "title": "yojanan 11 eleazar resurreccion vida"
+        },
+        {
+          "path": "besorah/markos_16_resurreccion_envio_y_testimonio",
+          "title": "markos 16 resurreccion envio y testimonio"
+        },
+        {
+          "path": "temas/omer_reshit_primicia_resurreccion",
+          "title": "omer reshit primicia resurreccion"
+        }
+      ],
       "label": "Resurrección de los muertos"
     },
     {
@@ -253,6 +590,28 @@
       "aliases": [
         "Ruaj",
         "רוח"
+      ],
+      "definition": {
+        "title": "Ruaj",
+        "paragraphs": [
+          "רוח puede nombrar el aliento, el viento, el espíritu de una persona o la presencia santa de Elohim. El sentido depende del pasaje. Las traducciones suelen aplastar distinciones que aquí se conservan: Ruaj ha-qodesh nombra el poder o la mente de la santidad; neshamah, ese poder recibido de manera vivificante; Shekhinah, una categoría posterior para la habitación divina. Esas equivalencias iluminan, pero no son intercambiables.",
+          "El mismo יהוה que llena los cielos se hizo presente en la nube, el fuego, la voz y el santuario; después su poder santo habita y da vida por medio del Mesías. El Ruaj no se reconoce solo por una experiencia intensa. Se reconoce por lo que produce: mente renovada, corazón que aprende, abandono de la dureza y una comunidad que sirve."
+        ],
+        "caution": "No todos los usos de ruaj significan lo mismo. No se debe convertir cualquier emoción en «el Espíritu», ni tratar ruaj, neshamah y Shekhinah como sinónimos exactos."
+      },
+      "articles": [
+        {
+          "path": "temas/elohim_presencia_ruaj_neshamah",
+          "title": "elohim presencia ruaj neshamah"
+        },
+        {
+          "path": "temas/ruaj_haqodesh_santidad_presencia_y_evangelio",
+          "title": "ruaj haqodesh santidad presencia y evangelio"
+        },
+        {
+          "path": "besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza",
+          "title": "romanos 8 vida en el Ruaj filiacion sufrimiento esperanza"
+        }
       ],
       "label": "Ruaj · Espíritu"
     },
@@ -273,6 +632,28 @@
         "Hijo de Elohim"
       ],
       "description": "El título se estudia como una expresión de filiación, herencia y misión.",
+      "definition": {
+        "title": "Hijo de Elohim",
+        "paragraphs": [
+          "בן האלהים — Ben HaElohim — no describe a Yehoshua como un descendiente menor frente a un ser mayor. El Hijo es el portador visible de las promesas de יהוה: obra lo mismo que el Padre, da vida, ejecuta juicio y recibe la misma honra. Marcos conserva la voz que identifica al Hijo y llama a escucharlo. Yojanán muestra al Hijo actuando en relación con las obras del que lo envió.",
+          "Hijo de Elohim señala al que manifiesta y reparte el don divino; Hijo del Hombre señala al que porta el reino. Los discípulos pueden ser llamados hijos y herederos, pero no ocupan el lugar único del Hijo enviado. Reciben una identidad; no la inventan."
+        ],
+        "caution": "«Hijo» puede funcionar como título mesiánico, relación, misión o lenguaje de herencia según el pasaje. No debe leerse primero desde el castellano ni desde una segunda persona divina en competencia con Abá."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+          "title": "markos hijo elohim hijo hombre herencia"
+        },
+        {
+          "path": "temas/ben_hijo_titulos_mesias",
+          "title": "ben hijo titulos mesias"
+        },
+        {
+          "path": "besorah/yojanan_5_hijo_juicio_vida",
+          "title": "yojanan 5 hijo juicio vida"
+        }
+      ],
       "label": "Hijo de Elohim"
     },
     {
@@ -321,8 +702,21 @@
         {
           "path": "temas/ben_hijo_titulos_mesias",
           "title": "Ben, Adam y el Hijo dado al Mesías"
+        },
+        {
+          "path": "besorah/yojanan_9_ben_adam_y_el_ciego",
+          "title": "yojanan 9 ben adam y el ciego"
         }
       ],
+      "definition": {
+        "title": "Ben-Hadam / Hijo del Hombre",
+        "paragraphs": [
+          "בן האדם — Ben HaAdam — no es una forma débil de decir «humano». Es el nombre con el que Yehoshua habla de sí mismo en los momentos decisivos de Marcos y Yojanán. Reúne autoridad para perdonar, anuncio de rechazo, muerte, resurrección y venida en nubes. En Daniel 7, בר אנש — Bar Enash — es la figura semejante a un hijo de hombre que recibe dominio, honra y reino después de las bestias.",
+          "La metamorfosis de Marcos es una revelación condensada: el que se llama Ben HaAdam es el reino venido con poder; Moshéh y Eliyahu quedan absorbidos cuando los discípulos levantan la vista y ven a Yehoshua solo. Hay un adam del polvo, marcado por corrupción y muerte, y un postrer Adam de arriba, que porta vida indestructible. En Yojanán 9, si el ciego sanado se postra y Yehoshua recibe esa fidelidad, la escena solo se sostiene si el Elohim de Israel se está revelando en él.",
+          "בן se entiende aquí como heredero y portador: Hijo del Hombre porta y reparte el reino. Esa lectura ilumina Marcos, pero no es una traducción fija de בן en cada aparición."
+        ],
+        "caution": "La conexión con Daniel 7 es textual. Las identificaciones históricas, las cronologías y la equivalencia «hijo = heredero» deben leerse en los estudios donde se argumentan, no tomarse como diccionario."
+      },
       "label": "Hijo del Hombre"
     },
     {
@@ -344,9 +738,13 @@
       "related_concepts": [
         "concept:son-of-man"
       ],
-      "summary": {
-        "what_it_is": "בן — ben y בר — bar se estudian como formas de hijo dentro de expresiones hebreas y arameas. Ben se relaciona contextualmente con filiación, herencia y portación; en la parábola de los labradores, el hijo amado es identificado como el heredero. Bar aparece en בר אנש — Bar Enash y se estudia dentro de esa expresión.",
-        "what_it_is_not": "No es una traducción mecánica de «heredero» en cada aparición, ni una definición que borre los usos propios de cada forma y lengua."
+      "definition": {
+        "title": "Hijo",
+        "paragraphs": [
+          "בן — ben — y בר — bar — nombran al hijo dentro de expresiones hebreas y arameas. En contexto, ben se relaciona con filiación, herencia y portación: en la parábola de los labradores, el hijo amado es el heredero. Bar aparece en בר אנש — Bar Enash — y se estudia dentro de esa expresión.",
+          "Hijo no es una etiqueta suelta. Puede hablar del Mesías enviado, de Israel como primogénito y de quienes reciben adopción por la promesa. Esos usos se conectan, pero no se aplastan: el Hijo enviado no ocupa el mismo lugar que los hijos reunidos."
+        ],
+        "caution": "Hijo no es una traducción mecánica de «heredero» en cada aparición, ni una definición que borre los usos propios de cada forma y lengua."
       },
       "articles": [
         {
@@ -370,6 +768,24 @@
         "Mikdash",
         "מקדש"
       ],
+      "definition": {
+        "title": "Templo",
+        "paragraphs": [
+          "El מקדש — templo, casa apartada — es el lugar donde יהוה pone su Nombre y donde el pueblo se acerca con orden, ofrenda y testimonio. No vale por sus piedras, sino por la presencia que habita y por la fidelidad que exige. Yojanán 2 une el celo por la casa con el cuerpo del Mesías: «destruyan este templo» apunta más allá del edificio.",
+          "Cuando la casa se llena de otros intereses, deja de servir a su propósito. Janukah recuerda una dedicación restaurada; Marcos 11 y Yojanán 2 juzgan un templo que ya no es casa de oración. Santuario y templo se tocan, pero no son el mismo nodo: uno nombra la presencia y el servicio, el otro la casa concreta."
+        ],
+        "caution": "Templo no debe usarse para separar lo sagrado de una vida que ignora justicia y misericordia, ni para confundir el edificio de Yerushaláim con toda presencia de יהוה."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_2_senales_celo_y_santuario",
+          "title": "Yojanán 2: señales, celo y santuario"
+        },
+        {
+          "path": "besorah/markos_11_rey_higuera_casa_oracion_autoridad",
+          "title": "Marcos 11: rey, higuera y casa de oración"
+        }
+      ],
       "label": "Templo"
     },
     {
@@ -389,6 +805,28 @@
         "Instrucción"
       ],
       "description": "El Concepto Torah permite reunir sentidos escriturales sin confundirse con la entidad léxica תורה.",
+      "definition": {
+        "title": "Torah y gracia",
+        "paragraphs": [
+          "La תורה enseña el camino de una vida ordenada delante de Elohim; la gracia muestra que nadie entra en ese camino por sus propios méritos. Presentarlas como enemigas empobrece a ambas. Romanos 3 cierra toda boca y, al mismo tiempo, niega que la emunah anule la Torah: la establece.",
+          "Tres realidades suelen mezclarse para predicar la abolición: la instrucción de Elohim, la sentencia que pesa sobre el transgresor y los límites del sacerdocio levítico. Mateo afirma que Yehoshua no vino a deshacer la Torah; Efesios y Colosenses hablan de enemistad y de documento acusador, no de borrar la instrucción. El cómputo de las 613 mitzvot se lee como guía contextual —públicas, individuales, eventuales, étnicas, ligadas al templo—, no como una carga plana idéntica para cada persona."
+        ],
+        "caution": "«Obras de la Torah» requiere contexto. No debe convertirse automáticamente en una acusación contra toda obediencia, ni la gracia en permiso para ignorar la palabra."
+      },
+      "articles": [
+        {
+          "path": "besorah/romanos_3_ley_pecado_justicia_y_fe",
+          "title": "romanos 3 ley pecado justicia y fe"
+        },
+        {
+          "path": "temas/613_mitzvot_contexto_obligacion_y_justificacion",
+          "title": "613 mitzvot contexto obligacion y justificacion"
+        },
+        {
+          "path": "temas/abolicion_de_la_tora_sentencia_pecado_y_plenitud_del_mesias",
+          "title": "abolicion de la tora sentencia pecado y plenitud del mesias"
+        }
+      ],
       "label": "Torah"
     },
     {
@@ -400,6 +838,24 @@
       "aliases": [
         "Jojmá",
         "חכמה"
+      ],
+      "definition": {
+        "title": "Sabiduría",
+        "paragraphs": [
+          "חכמה — jojmá — es el saber que sabe vivir delante de יהוה. No es erudición suelta ni una técnica para ganar discusiones. Proverbios la presenta como principio de temor y de orden; las cartas la contrastan con discursos persuasivos que no se aferran a la cabeza.",
+          "El Mesías manifiesta la sabiduría de Elohim. Recibir esa mente es discernir lo que el hombre natural no sondea. La sabiduría se prueba en el fruto: humildad, paz, justicia y una palabra que edifica."
+        ],
+        "caution": "Sabiduría no debe confundirse con prestigio intelectual, ni con cualquier tradición que se presente como profunda."
+      },
+      "articles": [
+        {
+          "path": "besorah/colosenses_2_plenitud_discernimiento_y_cabeza",
+          "title": "Colosenses 2: plenitud y cabeza"
+        },
+        {
+          "path": "besorah/colosenses_1_sabiduria_herencia_plenitud",
+          "title": "Colosenses 1: sabiduría, herencia y plenitud"
+        }
       ],
       "label": "Sabiduría"
     },
@@ -682,6 +1138,1096 @@
         "Apocalipsis"
       ],
       "label": "Revelación"
+    },
+    {
+      "id": "concept:palabra",
+      "type": "concept",
+      "names": {
+        "es": "Palabra"
+      },
+      "definition": {
+        "title": "Palabra",
+        "paragraphs": [
+          "Cuando Shaul habla de la Palabra, no habla de información religiosa. Habla de aquello que יהוה pronuncia, muestra y siembra: una palabra que permanece en los cielos, crea, revela y echa raíces. Yojanán no presenta un logos filosófico desligado: «Elohim era la Palabra», y esa Palabra se hace carne. Marcos la presenta como semilla que termina mostrando qué clase de tierra somos.",
+          "Tres imágenes se mantienen juntas: el trono, la silla de Moshéh y la semilla. La palabra de יהוה permanece firme; quien enseña queda sometido a lo escrito; y el contenido vivo de la Besorah entra en el corazón para crecer. Permanecer en la palabra no es repetir frases: es dejar que ella enseñe qué esclaviza y qué camino conduce a la libertad."
+        ],
+        "caution": "Palabra, Torah, logos, meymrá y anuncio apostólico se relacionan en el mapa, pero no son automáticamente la misma palabra en todos los pasajes."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_palabra_trono_semilla_identidad",
+          "title": "markos palabra trono semilla identidad"
+        },
+        {
+          "path": "besorah/yojanan_introduccion",
+          "title": "yojanan introduccion"
+        },
+        {
+          "path": "besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres",
+          "title": "yojanan 8 permanecer en la palabra y ser libres"
+        }
+      ],
+      "label": "Palabra"
+    },
+    {
+      "id": "concept:vida",
+      "type": "concept",
+      "names": {
+        "es": "Vida"
+      },
+      "definition": {
+        "title": "Vida",
+        "paragraphs": [
+          "La vida no significa simplemente seguir respirando. Es la vida que procede de Elohim, que el Hijo da como el Padre da, y que no queda definida por el poder de la muerte. Yojanán 5 une vida, juicio y honra. Yojanán 11 no se detiene en un milagro aislado: Yehoshua se identifica como el levantamiento y la vida.",
+          "Esa vida se relaciona con el Ruaj, la filiación y la esperanza. No es una promesa para escapar de toda dificultad; es una vida que puede atravesar el sufrimiento sin entregarle la última palabra. Vida olam no se reduce a duración infinita: habla de relación, pertenencia y calidad de una vida que ya no está gobernada por la corrupción del primer adam."
+        ],
+        "caution": "No se debe confundir vida eterna con inmortalidad automática del alma, ni usar la esperanza para negar el cuerpo, el gemido de la creación o la resurrección."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_5_hijo_juicio_vida",
+          "title": "yojanan 5 hijo juicio vida"
+        },
+        {
+          "path": "besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza",
+          "title": "romanos 8 vida en el Ruaj filiacion sufrimiento esperanza"
+        },
+        {
+          "path": "besorah/yojanan_11_eleazar_resurreccion_vida",
+          "title": "yojanan 11 eleazar resurreccion vida"
+        }
+      ],
+      "label": "Vida"
+    },
+    {
+      "id": "concept:luz",
+      "type": "concept",
+      "names": {
+        "es": "Luz"
+      },
+      "definition": {
+        "title": "Luz",
+        "paragraphs": [
+          "La luz hace visible lo que estaba oculto. En Yojanán 8 no sirve para que una persona se sienta superior: guía, testifica y obliga a preguntar quién escucha de verdad. El testimonio de Yehoshua no es autosuficiente; se corresponde con lo escrito. El contraste «de arriba / de abajo» se lee junto con luz y oscuridad, no como una metafísica suelta.",
+          "Abraham no se hereda por genealogía. La discusión de Yojanán 8 juzga las obras. Efesios 5 lleva la misma luz a la vida común: hablar, desear, usar el tiempo y tratar al hermano de un modo que no pueda esconderse."
+        ],
+        "caution": "Llamar a algo «luz» no convierte a quien lo dice en autoridad. La luz debe poder examinarse por la Escritura y por el fruto."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_8_luz_testimonio_y_abraham",
+          "title": "yojanan 8 luz testimonio y abraham"
+        },
+        {
+          "path": "besorah/efesios_5_amor_luz_y_sabiduria",
+          "title": "efesios 5 amor luz y sabiduria"
+        }
+      ],
+      "label": "Luz"
+    },
+    {
+      "id": "concept:pan-de-vida",
+      "type": "concept",
+      "names": {
+        "es": "Pan de vida"
+      },
+      "definition": {
+        "title": "Pan de vida",
+        "paragraphs": [
+          "Yojanán 6 no convierte el signo de los panes en una promesa de consumo religioso. El relato avanza en orden —Pésaj, pan abundante, búsqueda interesada, pan descendido, escándalo y la respuesta de Kefa— hasta Yehoshua como el sustento que da vida. Recibir el pan es aprender de dónde viene la vida, no quedarse en lo que se consume, se posee o se controla.",
+          "La imagen se sostiene junto al maná, la palabra y el korban del Ben HaAdam: su vida entregada abre de nuevo el acceso del que el primer adam quedó excluido. Esa extensión es teológica y debe seguir el discurso del capítulo, no una explicación mágica."
+        ],
+        "caution": "La imagen no debe separarse del discurso, de la memoria del desierto ni de la obediencia. Las retroversiones semíticas de cada palabra griega no están demostradas por el capítulo."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_6_pan_de_vida_y_palabras_de_vida",
+          "title": "yojanan 6 pan de vida y palabras de vida"
+        },
+        {
+          "path": "besorah/yojanan_6_pan_vida_senales",
+          "title": "yojanan 6 pan vida senales"
+        },
+        {
+          "path": "besorah/yojanan_6_pan_del_cielo_y_arbol_de_vida",
+          "title": "yojanan 6 pan del cielo y arbol de vida"
+        }
+      ],
+      "label": "Pan de vida"
+    },
+    {
+      "id": "concept:agua-viva",
+      "type": "concept",
+      "names": {
+        "es": "Agua viva"
+      },
+      "definition": {
+        "title": "Agua viva",
+        "paragraphs": [
+          "El agua viva desplaza la conversación de la necesidad inmediata al don de Elohim. En Yojanán 4, la cuestión del monte desemboca en adorar al Padre en Ruaj y verdad. En Yojanán 7, durante Sucot, Yehoshua invita al sediento a venir y beber. Una persona puede tener muchas fuentes alrededor y seguir interiormente seca.",
+          "La invitación se sitúa junto al agua de Shiloaj y a la controversia de la fiesta. El capítulo mantiene unidos Escritura, discernimiento, Ruaj y una división pública que no se resuelve por prestigio. El agua no es solo una imagen bonita: habla de purificación, renovación y una fuente que no se agota."
+        ],
+        "caution": "Las conexiones entre agua, Ruaj y fiesta deben seguir el texto de cada pasaje. Las reconstrucciones sobre samaritanos, el pozo o la liturgia del templo no deben darse por cerradas."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_4_estudio_canonico_agua_viva_adoracion_y_confianza",
+          "title": "yojanan 4 estudio canonico agua viva adoracion y confianza"
+        },
+        {
+          "path": "besorah/yojanan_7_sucot_agua_y_discernimiento",
+          "title": "yojanan 7 sucot agua y discernimiento"
+        }
+      ],
+      "label": "Agua viva"
+    },
+    {
+      "id": "concept:morada",
+      "type": "concept",
+      "names": {
+        "es": "Morada"
+      },
+      "definition": {
+        "title": "Morada",
+        "paragraphs": [
+          "Una morada es un lugar de presencia, no un plano de habitaciones celestiales. En Yojanán 14, Yehoshua responde a la turbación: su partida no abandona a los suyos; prepara su lugar con él y culmina en su retorno. Confiar en Elohim y en Yehoshua es el mismo movimiento. El camino es acceso al Padre.",
+          "Casa, moradas, camino, verdad y vida se leen como promesa y manifestación, no como un esquema espacial único. La morada también es palabra guardada, comunión y retorno: la pregunta no es solo dónde viviremos, sino qué relación estamos aprendiendo a habitar ahora."
+        ],
+        "caution": "Las moradas no deben usarse para construir mapas detallados donde el texto ofrece una promesa."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_14_moradas_camino_retorno",
+          "title": "yojanan 14 moradas camino retorno"
+        },
+        {
+          "path": "besorah/yojanan_14_morada_palabra_memoria",
+          "title": "yojanan 14 morada palabra memoria"
+        }
+      ],
+      "label": "Morada"
+    },
+    {
+      "id": "concept:puerta",
+      "type": "concept",
+      "names": {
+        "es": "Puerta"
+      },
+      "definition": {
+        "title": "Puerta",
+        "paragraphs": [
+          "La puerta marca un acceso y una responsabilidad. En Yojanán 10, Yehoshua es la puerta legítima de las ovejas y el pastor que entrega su vida. Si hay «puerta de יהוה» y Yehoshua dice «Yo soy la puerta», el Mesías no se presenta como una alternativa religiosa más, sino como el acceso establecido para salvación, juicio, pasto y vida.",
+          "Entrar por la puerta no es una contraseña para excluir por orgullo. Es dejarse pastorear, recibir alimento de Torah y reconocer que Abá no es una figura en competencia con el Mesías, sino la fuente de la promesa que Elohim cumple en él. Saltar la puerta es aprovecharse de las ovejas."
+        ],
+        "caution": "Toda autoridad que usa la puerta para controlar y herir contradice el cuidado que la imagen comunica. La conexión con Tehilim 118 debe mostrarse, no darse por sentada."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_10_puerta_pastor_abba",
+          "title": "yojanan 10 puerta pastor abba"
+        },
+        {
+          "path": "besorah/yojanan_9_10_ceguera_puerta_ovejas",
+          "title": "yojanan 9 10 ceguera puerta ovejas"
+        }
+      ],
+      "label": "Puerta"
+    },
+    {
+      "id": "concept:pastor",
+      "type": "concept",
+      "names": {
+        "es": "Pastor"
+      },
+      "definition": {
+        "title": "Pastor",
+        "paragraphs": [
+          "El pastor no es una figura de prestigio religioso. Es quien conoce, alimenta, protege y busca. El Gran Pastor gobierna, alimenta y juzga; los pastores humanos deben cuidar con comunión y discernimiento; las ovejas también responden por cómo reciben o contaminan el alimento.",
+          "En Yehoshua, el buen pastor se reconoce porque entrega su vida. No abandona al rebaño cuando aparece el peligro ni usa a las ovejas para construir su propio nombre. Todo pastor humano se evalúa por el texto y por ese carácter, no por el título."
+        ],
+        "caution": "Llamar a alguien pastor no le concede automáticamente el carácter del buen pastor. Ninguna obediencia ciega a un guía humano queda justificada por la metáfora."
+      },
+      "articles": [
+        {
+          "path": "temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano",
+          "title": "pastor ovejas discernimiento y cuidado del rebano"
+        },
+        {
+          "path": "besorah/yojanan_10_pastor_vida_obras",
+          "title": "yojanan 10 pastor vida obras"
+        }
+      ],
+      "label": "Pastor"
+    },
+    {
+      "id": "concept:ovejas",
+      "type": "concept",
+      "names": {
+        "es": "Ovejas"
+      },
+      "definition": {
+        "title": "Ovejas",
+        "paragraphs": [
+          "Las ovejas representan a quienes escuchan, reconocen y siguen la voz del pastor. La imagen no celebra una obediencia ciega. «Creer» no es optimismo mental, sino emunah formada por la instrucción de יהוה: Torah, profetas, escritos y promesas debían preparar al pueblo para reconocer las obras del Mesías.",
+          "Por eso Yehoshua responde: les dije, pero no se afirman. Las obras hechas en nombre de Abá ya testificaban; el problema no era falta de evidencia, sino falta de conexión con la palabra que decía qué debía hacer el Mesías. Las ovejas oyen su voz porque han sido traídas por la instrucción y por la promesa; luego reciben vida y no pueden ser arrebatadas de su mano."
+        ],
+        "caution": "«Oveja» no debe usarse como insulto ni como permiso para exigir obediencia humana sin discernimiento."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_10_emunah_obras_ovejas",
+          "title": "yojanan 10 emunah obras ovejas"
+        },
+        {
+          "path": "temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano",
+          "title": "pastor ovejas discernimiento y cuidado del rebano"
+        }
+      ],
+      "label": "Ovejas"
+    },
+    {
+      "id": "concept:cuerpo-del-mesias",
+      "type": "concept",
+      "names": {
+        "es": "Cuerpo del Mesías"
+      },
+      "definition": {
+        "title": "Cuerpo del Mesías",
+        "paragraphs": [
+          "El cuerpo del Mesías dice que la comunidad no es una colección de espectadores. Hay una vida compartida, distintos miembros y una cabeza a la que todos deben permanecer unidos. Efesios 4 convierte la revelación en una forma de caminar: un solo cuerpo y un solo Ruaj, pero gracia distribuida a cada miembro para edificar hasta la madurez.",
+          "Colosenses 2 contrapone esa plenitud recibida en el Mesías a discursos persuasivos y reglas que aparentan sabiduría pero no se aferran a la cabeza. La diversidad no rompe el cuerpo; lo rompe la competencia, la vanidad o la separación de Yehoshua. La cabeza sigue siendo el Mesías, no una institución."
+        ],
+        "caution": "La metáfora no justifica que una organización exija obediencia absoluta. La madurez se verifica en verdad, trabajo, palabra que edifica y perdón, no en el control."
+      },
+      "articles": [
+        {
+          "path": "besorah/efesios_4_llamado_unidad_y_vida_nueva",
+          "title": "efesios 4 llamado unidad y vida nueva"
+        },
+        {
+          "path": "besorah/colosenses_2_plenitud_discernimiento_y_cabeza",
+          "title": "colosenses 2 plenitud discernimiento y cabeza"
+        }
+      ],
+      "label": "Cuerpo del Mesías"
+    },
+    {
+      "id": "concept:unidad",
+      "type": "concept",
+      "names": {
+        "es": "Unidad"
+      },
+      "definition": {
+        "title": "Unidad",
+        "paragraphs": [
+          "La unidad no es fingir que no existen diferencias. Es aprender a caminar juntos sin abandonar la verdad, la justicia ni el cuidado mutuo. Efesios la relaciona con humildad, paciencia y paz. Romanos muestra que también requiere recibir al hermano, cuidar la conciencia y no usar la libertad para destruir. La unidad se prueba en la mesa y en la forma de tratar al débil.",
+          "Esa unidad no borra a los dos grupos que Efesios acerca. Hace de ellos un solo pueblo sin absorber a Israel en las naciones ni convertir a las naciones en espectadoras. Una unidad que exige silencio frente al abuso no es esta unidad."
+        ],
+        "caution": "Unidad no es uniformidad ritual ni pacto de silencio. Tampoco es una etiqueta para condenar toda diferencia de conciencia en comidas, días o costumbres."
+      },
+      "articles": [
+        {
+          "path": "besorah/efesios_2_lejania_paz_y_un_solo_pueblo",
+          "title": "efesios 2 lejania paz y un solo pueblo"
+        },
+        {
+          "path": "besorah/romanos_14_acogida_mutua_conciencia_edificacion",
+          "title": "romanos 14 acogida mutua conciencia edificacion"
+        }
+      ],
+      "label": "Unidad"
+    },
+    {
+      "id": "concept:reconciliacion",
+      "type": "concept",
+      "names": {
+        "es": "Reconciliación"
+      },
+      "definition": {
+        "title": "Reconciliación",
+        "paragraphs": [
+          "La reconciliación es la obra por la que una distancia real deja de gobernar la relación. Efesios 2 sigue un movimiento único: Elohim vivifica a quienes estaban muertos, manda recordar la antigua lejanía de las naciones, las acerca en la sangre del Mesías y hace de los dos un solo pueblo. La paz no es una emoción privada: termina en acceso común al Padre y en una morada que se edifica juntamente en el Ruaj.",
+          "No es borrar la historia ni fingir que el daño no ocurrió. Tampoco es reemplazo: יהוה no descarta su palabra acerca de Israel para inventar otro pueblo. La reconciliación verdadera produce una comunidad con justicia, no solo una frase de paz."
+        ],
+        "caution": "Reconciliar no significa negar límites, consecuencias o la necesidad de reparación. «Un solo pueblo» no borra los dos grupos ni abole la instrucción."
+      },
+      "articles": [
+        {
+          "path": "besorah/efesios_2_lejania_paz_y_un_solo_pueblo",
+          "title": "efesios 2 lejania paz y un solo pueblo"
+        },
+        {
+          "path": "temas/israel_no_reemplazado_un_pueblo_y_un_olivo",
+          "title": "israel no reemplazado un pueblo y un olivo"
+        },
+        {
+          "path": "besorah/colosenses_1_sabiduria_herencia_plenitud",
+          "title": "colosenses 1 sabiduria herencia plenitud"
+        }
+      ],
+      "label": "Reconciliación"
+    },
+    {
+      "id": "concept:pueblo",
+      "type": "concept",
+      "names": {
+        "es": "Pueblo"
+      },
+      "definition": {
+        "title": "Pueblo",
+        "paragraphs": [
+          "Un pueblo no es únicamente una categoría de sangre ni una multitud reunida por afinidad. Es una historia compartida, una memoria, una vocación y una responsabilidad delante de יהוה. Israel es llamado «mi pueblo» antes de salir de Mitzráim y adquirido de entre los pueblos; esa elección no significa pureza de sangre ni superioridad humana.",
+          "La entrada a una congregación no debe confundirse automáticamente con la salvación, y nadie debe adoptar una identidad étnica por miedo. Romanos 11 usa el olivo: las naciones son injertadas en una raíz que no les pertenece por jactancia; las ramas naturales pueden volver a ser plantadas. Continuidad con transformación, no teología del reemplazo."
+        ],
+        "caution": "Toda afirmación sobre pertenencia debe distinguir entre promesa, identidad, incorporación y especulación genealógica. «Israel de Elohim» no es una conclusión impuesta a Gálatas 6."
+      },
+      "articles": [
+        {
+          "path": "temas/israel_no_reemplazado_un_pueblo_y_un_olivo",
+          "title": "israel no reemplazado un pueblo y un olivo"
+        },
+        {
+          "path": "temas/613_mitzvot_semilla_de_yisrael_y_limites_de_pertenencia",
+          "title": "613 mitzvot semilla de yisrael y limites de pertenencia"
+        },
+        {
+          "path": "besorah/efesios_3_gracia_revelacion_y_misterio",
+          "title": "efesios 3 gracia revelacion y misterio"
+        }
+      ],
+      "label": "Pueblo"
+    },
+    {
+      "id": "concept:semilla",
+      "type": "concept",
+      "names": {
+        "es": "Semilla"
+      },
+      "definition": {
+        "title": "Semilla",
+        "paragraphs": [
+          "La semilla parece pequeña, pero contiene una dirección de vida. En Marcos representa la palabra sembrada y el misterio de un crecimiento que no se fabrica por fuerza. Lo que se recibe en secreto termina produciendo fruto visible. Por eso la semilla se lee junto a la palabra, el reino, la paciencia y la tierra.",
+          "La misma imagen sirve para la identidad: hay semilla de la palabra y semilla de Israel. Devarim 30 coloca la simiente bendecida dentro de retorno, obediencia y elección de la vida. No todo crecimiento se ve de inmediato; toda semilla revela con el tiempo qué llevaba dentro."
+        ],
+        "caution": "La semilla puede tener alcance individual o colectivo según el contexto. No debe reducirse automáticamente a una sola persona ni usarse para especular linajes."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_palabra_trono_semilla_identidad",
+          "title": "markos palabra trono semilla identidad"
+        },
+        {
+          "path": "besorah/markos_4_palabra_tormenta_fidelidad",
+          "title": "markos 4 palabra tormenta fidelidad"
+        },
+        {
+          "path": "tanaj/devarim_30_retornar_corazon_y_escoger_vida",
+          "title": "devarim 30 retornar corazon y escoger vida"
+        }
+      ],
+      "label": "Semilla"
+    },
+    {
+      "id": "concept:fruto",
+      "type": "concept",
+      "names": {
+        "es": "Fruto"
+      },
+      "definition": {
+        "title": "Fruto",
+        "paragraphs": [
+          "El fruto es lo que una vida termina produciendo. No es una impresión rápida ni una declaración de intenciones. En Yojanán 15 nace de permanecer en la vid: la palabra debe permanecer en los discípulos, el fruto da gloria al Padre y el mandamiento se concreta en amar como Yehoshua amó.",
+          "En Colosenses, la vida renovada toma forma en amor, perdón, palabra y servicio. El fruto no compra la vida; muestra que la vida está siendo recibida y cuidada. Gálatas contrapone el fruto del Ruaj a las obras de la carne sin convertir esa lista en un examen de popularidad."
+        ],
+        "caution": "No se debe medir el fruto solo por visibilidad, éxito o cantidad de seguidores."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_15_vid_fruto_amor_discipulado",
+          "title": "yojanan 15 vid fruto amor discipulado"
+        },
+        {
+          "path": "besorah/colosenses_3_vida_renovada_amor_y_servicio",
+          "title": "colosenses 3 vida renovada amor y servicio"
+        }
+      ],
+      "label": "Fruto"
+    },
+    {
+      "id": "concept:poda",
+      "type": "concept",
+      "names": {
+        "es": "Poda"
+      },
+      "definition": {
+        "title": "Poda",
+        "paragraphs": [
+          "La poda es la corrección que quita lo que impide dar fruto. Puede doler, pero no tiene como fin destruir la vid; busca que la vida conserve su fuerza. En Yojanán 15, el labrador poda para que la rama dé más. Hebreos 12 habla de una disciplina que forma, no de maltrato espiritual.",
+          "Permanecer también significa aceptar que algo en nosotros necesita ser quitado: deseos, hábitos, palabras, relaciones. Esa formación es paciente y vuelve a ordenar. Ninguna autoridad puede llamar poda a la humillación, el abuso o el control sin límites."
+        ],
+        "caution": "Disciplina bíblica y abuso no son lo mismo. El fruto y el carácter del labrador —no el dolor infligido— confirman de qué se trata."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_15_vid_labrador_poda_permanecer",
+          "title": "yojanan 15 vid labrador poda permanecer"
+        },
+        {
+          "path": "besorah/hebreos_12_disciplina_santidad_y_monte_tziyon",
+          "title": "hebreos 12 disciplina santidad y monte tziyon"
+        }
+      ],
+      "label": "Poda"
+    },
+    {
+      "id": "concept:omer-primicias",
+      "type": "concept",
+      "names": {
+        "es": "Omer y primicias"
+      },
+      "definition": {
+        "title": "Omer y primicias",
+        "paragraphs": [
+          "El ómer reshit es la primera y mejor porción de la cosecha, no cualquier cantidad inicial. Levítico 23 ordena traerlo, mecerlo delante de יהוה y comenzar desde allí el conteo hacia Shavuot. Lo primero no es toda la cosecha, pero anuncia lo que viene y pertenece a Elohim.",
+          "Esa lógica se conecta con la resurrección: Yehoshua es presentado como primicia, comienzo de una cosecha mayor. La esperanza no es una idea suelta; nace de una señal concreta que abre el futuro. La conexión es teológica; no convierte cada detalle agrícola en una equivalencia léxica exacta."
+        ],
+        "caution": "Una primicia es promesa y comienzo. No autoriza a inventar calendarios o detalles que el texto no da."
+      },
+      "articles": [
+        {
+          "path": "temas/omer_reshit_primicia_resurreccion",
+          "title": "omer reshit primicia resurreccion"
+        },
+        {
+          "path": "temas/resurreccion_primer_dia_y_omer",
+          "title": "resurreccion primer dia y omer"
+        }
+      ],
+      "label": "Omer y primicias"
+    },
+    {
+      "id": "concept:pesaj",
+      "type": "concept",
+      "names": {
+        "es": "Pésaj"
+      },
+      "definition": {
+        "title": "Pésaj",
+        "paragraphs": [
+          "Pésaj recuerda una liberación concreta: יהוה sacó a Israel de Mitzráim. La comida, los panes sin levadura y la memoria del apresuramiento pertenecen al mandato. La memoria bíblica no mira el pasado como una pieza de museo: vuelve a contar quién liberó, de qué liberó y cómo debe vivir ahora el pueblo liberado.",
+          "En Yojanán 13, la mesa, el lavado de pies y el pacto muestran que la liberación se convierte en servicio. Recordar Pésaj no es solo repetir una historia; es dejar que la historia cambie la manera de tratar al hermano. Marcos une esa mesa con la sangre del pacto y con la hora de Gue Shemanim."
+        ],
+        "caution": "La memoria de la liberación no debe convertirse en orgullo nacional ni en una ceremonia separada de la justicia. Las decisiones calendáricas y los desarrollos del séder deben examinarse sin confundirlos con el texto de la Torah."
+      },
+      "articles": [
+        {
+          "path": "temas/pesaj_memoria_liberacion_y_mesa",
+          "title": "pesaj memoria liberacion y mesa"
+        },
+        {
+          "path": "besorah/yojanan_13_pesaj_seuda_lavado_pies",
+          "title": "yojanan 13 pesaj seuda lavado pies"
+        },
+        {
+          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "title": "markos 14 pesaj pacto getsemani juicio"
+        }
+      ],
+      "label": "Pésaj"
+    },
+    {
+      "id": "concept:shabat",
+      "type": "concept",
+      "names": {
+        "es": "Shabat"
+      },
+      "definition": {
+        "title": "Shabat",
+        "paragraphs": [
+          "Shabat es un día que יהוה bendijo, santificó y entregó como señal de cese, memoria y libertad. Enseña que el ser humano no es una máquina de producir y que el tiempo también pertenece a Elohim. La Torah exige distinguirlo del trabajo ordinario; no entrega, sin embargo, un catálogo exhaustivo para cada circunstancia moderna.",
+          "Shabat se relaciona con sanidad, misericordia y límites. En Yojanán 5 y Marcos 2-3, Yehoshua no usa el día para ignorar la vida: pregunta qué es lícito, si hacer bien o mal. Defender Shabat no significa usarlo para la dureza. La práctica debe anclarse en el texto y distinguir el mandamiento de las costumbres posteriores."
+        ],
+        "caution": "El mandamiento no se demuestra por Mishná, Talmud o práctica local. Esas capas pueden orientar, pero no sustituyen a la Torah ni autorizan a ignorar la compasión."
+      },
+      "articles": [
+        {
+          "path": "temas/shabat",
+          "title": "shabat"
+        },
+        {
+          "path": "besorah/yojanan_5_bet_jesda_shabat",
+          "title": "yojanan 5 bet jesda shabat"
+        },
+        {
+          "path": "besorah/markos_2_torah_promesas_procedimientos",
+          "title": "markos 2 torah promesas procedimientos"
+        }
+      ],
+      "label": "Shabat"
+    },
+    {
+      "id": "concept:sukot",
+      "type": "concept",
+      "names": {
+        "es": "Sucot"
+      },
+      "definition": {
+        "title": "Sucot",
+        "paragraphs": [
+          "Sucot une una morada sencilla, la memoria del desierto, la cosecha y el gozo. Es una convocación de siete días para alegrarse ante יהוה y recordar que Israel habitó en sucot al salir de Mitzráim. No invita a escapar del mundo, sino a habitarlo con gratitud y dependencia.",
+          "En Yojanán 7, la fiesta se vuelve escenario de enseñanza, controversia y la invitación al agua. El gozo no es superficialidad: nace después de recordar el camino y la provisión. La apertura hacia las naciones debe mostrarse desde el texto, no darse por añadida."
+        ],
+        "caution": "El gozo de Sucot no autoriza especulación sin límites sobre calendarios, cosechas finales o identidades contemporáneas."
+      },
+      "articles": [
+        {
+          "path": "temas/sukot_habitar_gozo_y_memoria",
+          "title": "sukot habitar gozo y memoria"
+        },
+        {
+          "path": "besorah/yojanan_7_sucot_agua_y_discernimiento",
+          "title": "yojanan 7 sucot agua y discernimiento"
+        }
+      ],
+      "label": "Sucot"
+    },
+    {
+      "id": "concept:shavuot",
+      "type": "concept",
+      "names": {
+        "es": "Shavuot"
+      },
+      "definition": {
+        "title": "Shavuot",
+        "paragraphs": [
+          "Shavuot es una convocación marcada por la cuenta de semanas, la ofrenda de primicias, el gozo compartido y la memoria de la liberación. En Mashiaj se lee como continuidad y cumplimiento interpretado, no como borrado de la Torah. Levítico establece el conteo; Hechos 2 sitúa la reunión de los discípulos en el cumplimiento de las semanas y explica el derramamiento del Ruaj mediante Yoel.",
+          "La palabra no queda encerrada en una experiencia individual. Crea responsabilidad compartida: escuchar, recibir, responder y cuidar al necesitado."
+        ],
+        "caution": "Shavuot no debe reducirse a una fecha aislada ni separarse de la historia de la Torah y de las primicias. Las asociaciones con tiempos finales o dones contemporáneos son lecturas posteriores, no el sentido inmediato de cada versículo."
+      },
+      "articles": [
+        {
+          "path": "temas/shavuot_convocacion_primicias_y_promesa",
+          "title": "shavuot convocacion primicias y promesa"
+        },
+        {
+          "path": "temas/shavuot_en_mashiaj_promesa_y_era_mesianica",
+          "title": "shavuot en mashiaj promesa y era mesianica"
+        }
+      ],
+      "label": "Shavuot"
+    },
+    {
+      "id": "concept:janukah",
+      "type": "concept",
+      "names": {
+        "es": "Janukah"
+      },
+      "definition": {
+        "title": "Janukah",
+        "paragraphs": [
+          "Janukah habla de una casa que vuelve a ser dedicada. Reúne memoria de purificación del altar, preservación de identidad y una pregunta sobre el Mesías. No es un mandamiento bíblico que deba imponerse a todos: quien quiera celebrarla puede hacerlo y quien no quiera no debe ser escandalizado. Ni la presión de «sí o sí» ni la condena automática de la fiesta como pagana hacen justicia al asunto.",
+          "Yojanán 10 sitúa a Yehoshua en Yerushaláim en la fiesta de la dedicación. La pregunta «si tú eres el Mesías, dínoslo» no se responde con una declaración aislada, sino con las obras. Dedicarse no es decorar una superficie; es devolver un lugar, una vida y una comunidad a su propósito."
+        ],
+        "caution": "La historia de los Macabeos, Josefo y la tradición posterior debe distinguirse del texto de Yojanán y de las aplicaciones actuales. La festividad no sustituye la pregunta por las obras del Mesías."
+      },
+      "articles": [
+        {
+          "path": "temas/janukah",
+          "title": "janukah"
+        },
+        {
+          "path": "besorah/yojanan_10_janukah_senales_mesias",
+          "title": "yojanan 10 janukah senales mesias"
+        }
+      ],
+      "label": "Janukah"
+    },
+    {
+      "id": "concept:nombre",
+      "type": "concept",
+      "names": {
+        "es": "Nombre"
+      },
+      "definition": {
+        "title": "Nombre",
+        "paragraphs": [
+          "El nombre identifica y representa. Invocar un nombre no es pronunciar una fórmula secreta, sino acudir a la persona, la autoridad y el carácter que ese nombre comunica. יהוה se da a conocer como el Elohim que envía, recuerda su pacto y reclama amor íntegro, no como una contraseña fonética. Las cuatro consonantes escritas no se vuelven más verdaderas por una pronunciación moderna presentada con una seguridad que la evidencia no permite.",
+          "El Nombre se une a salvación, sacerdocio y memoria. El nombre de Yehoshua no se usa como amuleto: llama a reconocer quién es, qué hace y bajo qué autoridad se vive. En Yojanán 14, pedir en su nombre queda dentro de la relación con Abá y de la promesa del Menájem."
+        ],
+        "caution": "La discusión sobre pronunciación puede ser importante, pero no debe ocultar el carácter y la obediencia que el Nombre representa."
+      },
+      "articles": [
+        {
+          "path": "temas/nombre_de_יהוה_escritura_pronunciacion_y_fidelidad",
+          "title": "nombre de יהוה escritura pronunciacion y fidelidad"
+        },
+        {
+          "path": "temas/nombre_salvacion_sacerdocio_mesias",
+          "title": "nombre salvacion sacerdocio mesias"
+        },
+        {
+          "path": "besorah/yojanan_14_abba_menajem_nombre",
+          "title": "yojanan 14 abba menajem nombre"
+        }
+      ],
+      "label": "Nombre"
+    },
+    {
+      "id": "concept:shema",
+      "type": "concept",
+      "names": {
+        "es": "Shema"
+      },
+      "definition": {
+        "title": "Shema",
+        "paragraphs": [
+          "שמע significa escuchar, pero la escucha bíblica nunca termina en el oído. Quien escucha comprende, ama, guarda y responde. Marcos 12 reúne el amor indivisible a יהוה y el amor al prójimo, y pregunta cómo el Mesías puede ser solo hijo de David cuando David mismo lo llama Señor.",
+          "Shema se relaciona con memoria, discernimiento y entrega. Amar a Elohim no es solamente sentir afecto; es permitir que su palabra ordene decisiones, relaciones y prioridades. La viuda que echa su vida desenmascara una piedad que devora casas."
+        ],
+        "caution": "Guardar no significa obedecer sin entender. Escuchar incluye atención, discernimiento y respuesta."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_12_shema_senor_david_vida_entregada",
+          "title": "markos 12 shema senor david vida entregada"
+        },
+        {
+          "path": "temas/shema_oír_amar_y_guardar_la_palabra",
+          "title": "shema oír amar y guardar la palabra"
+        }
+      ],
+      "label": "Shema"
+    },
+    {
+      "id": "concept:justicia",
+      "type": "concept",
+      "names": {
+        "es": "Justicia"
+      },
+      "definition": {
+        "title": "Justicia",
+        "paragraphs": [
+          "La justicia mira cómo tratamos a Elohim, al prójimo y a quienes tienen menos poder. No es solo castigo ni una idea abstracta: se ve en decisiones, salarios, límites, protección y verdad. Miqueas la coloca junto a la bondad y a caminar humildemente. Romanos la presenta como un culto que se vuelve cuerpo, servicio y amor práctico.",
+          "La justicia que Elohim manifiesta en Yehoshua se recibe por emunah y excluye la jactancia; eso no anula la Torah, la establece. La justicia bíblica no permite adorar con los labios mientras se daña al hermano."
+        ],
+        "caution": "La justicia no debe confundirse con la venganza personal ni con la necesidad de ganar todas las discusiones."
+      },
+      "articles": [
+        {
+          "path": "tanaj/micah_6_justicia_bondad_y_caminar",
+          "title": "micah 6 justicia bondad y caminar"
+        },
+        {
+          "path": "besorah/romanos_12_culto_vivo_dones_amor_practico",
+          "title": "romanos 12 culto vivo dones amor practico"
+        },
+        {
+          "path": "besorah/romanos_3_justicia_emunah_establece_torah",
+          "title": "romanos 3 justicia emunah establece torah"
+        }
+      ],
+      "label": "Justicia"
+    },
+    {
+      "id": "concept:testimonio",
+      "type": "concept",
+      "names": {
+        "es": "Testimonio"
+      },
+      "definition": {
+        "title": "Testimonio",
+        "paragraphs": [
+          "El testimonio es una palabra que responde a algo visto, oído o recibido. No es publicidad personal. En Yojanán, Iojanán testifica para que otros crean; el ciego sanado testifica; el costado abierto queda escrito para que se crea. En Apocalipsis, el testimonio puede costar.",
+          "Su fuerza no depende de que todos lo acepten de inmediato, sino de que permanezca unido a la palabra y sea sostenido con fidelidad. Las obras del Mesías ya testifican; el problema suele ser la instrucción no recibida, no la falta de señales."
+        ],
+        "caution": "Testificar no significa hablar sin escuchar ni presentar cada opinión personal como revelación."
+      },
+      "articles": [
+        {
+          "path": "besorah/apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza",
+          "title": "apocalipsis 1 revelacion mensaje testimonio y esperanza"
+        },
+        {
+          "path": "besorah/yojanan_1_testigo_cordero",
+          "title": "yojanan 1 testigo cordero"
+        },
+        {
+          "path": "besorah/yojanan_19_madero_costado_y_testimonio",
+          "title": "yojanan 19 madero costado y testimonio"
+        }
+      ],
+      "label": "Testimonio"
+    },
+    {
+      "id": "concept:discernimiento",
+      "type": "concept",
+      "names": {
+        "es": "Discernimiento"
+      },
+      "definition": {
+        "title": "Discernimiento",
+        "paragraphs": [
+          "El discernimiento es aprender a distinguir. No consiste en sospechar de todo, sino en probar palabras, frutos, autoridades y caminos antes de entregarse a ellos. Colosenses lo relaciona con permanecer en la cabeza. Apocalipsis lo muestra frente al engaño y al poder.",
+          "El mismo músculo recorre a Israel y a las naciones: no toda novedad espiritual es presencia de Elohim, y no toda tradición es fidelidad. Discernir requiere conocimiento, paciencia y una conciencia dispuesta a reconocer también sus propios prejuicios. La libertad se prueba por el fruto, no por el grito más fuerte."
+        ],
+        "caution": "Llamar «discernimiento» a toda sospecha o a todo rechazo automático es perder el sentido de la palabra."
+      },
+      "articles": [
+        {
+          "path": "besorah/colosenses_2_plenitud_discernimiento_y_cabeza",
+          "title": "colosenses 2 plenitud discernimiento y cabeza"
+        },
+        {
+          "path": "besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia",
+          "title": "apocalipsis 13 revelacion bestias discernimiento y perseverancia"
+        },
+        {
+          "path": "temas/identidad_mesianica_tora_gracia_y_discernimiento",
+          "title": "identidad mesianica tora gracia y discernimiento"
+        }
+      ],
+      "label": "Discernimiento"
+    },
+    {
+      "id": "concept:idolatria",
+      "type": "concept",
+      "names": {
+        "es": "Idolatría"
+      },
+      "definition": {
+        "title": "Idolatría",
+        "paragraphs": [
+          "La idolatría no es únicamente inclinarse ante una estatua. Es entregar confianza, temor, obediencia o deseo a algo que ocupa el lugar de Elohim. Empieza más adentro: la serpiente ofrece una autonomía semejante a la de Elohim; el deseo de la criatura desplaza la obediencia y produce vergüenza, muerte y profanación. Antes del altar está el deseo.",
+          "Un ídolo promete protección, identidad o poder, y termina pidiendo que la persona se deforme para sostenerlo. Puede ser una imagen, un rey, un culto inventado, una alianza o una doctrina que usa el nombre de יהוה para otra lealtad. La crítica debe comenzar también por los ídolos propios."
+        ],
+        "caution": "No toda figura política o religiosa que disgusta es automáticamente un ídolo."
+      },
+      "articles": [
+        {
+          "path": "temas/neo-idolatria_origen_deseo_profanacion_y_babel",
+          "title": "neo-idolatria origen deseo profanacion y babel"
+        },
+        {
+          "path": "tanaj/tehilim_115_nombre_idolatria_y_confianza",
+          "title": "tehilim 115 nombre idolatria y confianza"
+        },
+        {
+          "path": "besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia",
+          "title": "apocalipsis 13 revelacion bestias discernimiento y perseverancia"
+        }
+      ],
+      "label": "Idolatría"
+    },
+    {
+      "id": "concept:babilonia",
+      "type": "concept",
+      "names": {
+        "es": "Babilonia"
+      },
+      "definition": {
+        "title": "Babilonia",
+        "paragraphs": [
+          "Babilonia representa una ciudad y, al mismo tiempo, un sistema de seducción. Apocalipsis 17 la presenta como una figura religiosa y política que seduce a reyes, embriaga a las naciones, participa en la sangre de los santos y finalmente es juzgada por el mismo poder que la sostenía. No es una acusación contra ladrillos, calles o habitantes, sino contra un poder que aparta de יהוה.",
+          "Su peligro no está solo en perseguir desde fuera. También está en hacer que el mal parezca deseable, razonable y exitoso. El juicio revela que aquello que parecía invencible dependía de alianzas frágiles. Babel ya aparece en Bereshit como nombre, unidad y soberbia; esa línea prepara la lectura, no la agota."
+        ],
+        "caution": "Babilonia es un símbolo que exige argumentos. No debe convertirse en una etiqueta para atacar sin pruebas a cualquier grupo."
+      },
+      "articles": [
+        {
+          "path": "besorah/apocalipsis_17_revelacion_babilonia_juicio_y_discernimiento",
+          "title": "apocalipsis 17 revelacion babilonia juicio y discernimiento"
+        },
+        {
+          "path": "temas/babel_nimrod_nombre_unidad_y_juicio",
+          "title": "babel nimrod nombre unidad y juicio"
+        }
+      ],
+      "label": "Babilonia"
+    },
+    {
+      "id": "concept:bestias",
+      "type": "concept",
+      "names": {
+        "es": "Bestias"
+      },
+      "definition": {
+        "title": "Bestias",
+        "paragraphs": [
+          "Las bestias representan poderes que reciben autoridad, exigen admiración y hacen guerra contra los santos. Apocalipsis 13 presenta dos formas coordinadas: una bestia que blasfema y persigue, y otra que persuade, reproduce la semejanza de la primera y convierte la lealtad en una condición social. El lenguaje es visionario; la advertencia es concreta: el poder puede pedir una lealtad que pertenece a Elohim.",
+          "Esas figuras se leen en continuidad con Daniel y con crisis de apostasía. El capítulo afirma el conflicto entre engaño, coerción y perseverancia. La respuesta de los santos es paciencia, fidelidad y discernimiento, no una carrera de identificaciones."
+        ],
+        "caution": "No toda figura política que disgusta es automáticamente una bestia. Las identificaciones históricas exhaustivas y los cálculos de nombres deben permanecer calificados."
+      },
+      "articles": [
+        {
+          "path": "besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia",
+          "title": "apocalipsis 13 revelacion bestias discernimiento y perseverancia"
+        },
+        {
+          "path": "besorah/apocalipsis_17_revelacion_babilonia_juicio_y_discernimiento",
+          "title": "apocalipsis 17 revelacion babilonia juicio y discernimiento"
+        }
+      ],
+      "label": "Bestias"
+    },
+    {
+      "id": "concept:remanente",
+      "type": "concept",
+      "names": {
+        "es": "Remanente"
+      },
+      "definition": {
+        "title": "Remanente",
+        "paragraphs": [
+          "El remanente es el pueblo que Elohim preserva y que permanece fiel en medio de una crisis. No es una élite que presume ser mejor, sino una comunidad que recibe protección para seguir dando testimonio. Apocalipsis muestra sello, tribulación y una multitud que nadie puede contar.",
+          "La esperanza no consiste en negar el peligro, sino en afirmar que el peligro no tiene la última palabra sobre quienes pertenecen a Elohim. En la línea de Eliyahu, el remanente también corrige la queja de quien cree haberse quedado solo. La fidelidad de יהוה es más amplia que el desaliento del siervo."
+        ],
+        "caution": "Hablar de remanente no concede permiso para despreciar a todos los demás ni para inventar listas cerradas de salvados."
+      },
+      "articles": [
+        {
+          "path": "besorah/apocalipsis_7_revelacion_sello_siervos_y_multitud",
+          "title": "apocalipsis 7 revelacion sello siervos y multitud"
+        },
+        {
+          "path": "besorah/apocalipsis_12_revelacion_mujer_hijo_y_conflicto",
+          "title": "apocalipsis 12 revelacion mujer hijo y conflicto"
+        },
+        {
+          "path": "temas/neo-idolatria_eliyahu_horeb_queja_remanente_llamado",
+          "title": "neo-idolatria eliyahu horeb queja remanente llamado"
+        }
+      ],
+      "label": "Remanente"
+    },
+    {
+      "id": "concept:trono",
+      "type": "concept",
+      "names": {
+        "es": "Trono"
+      },
+      "definition": {
+        "title": "Trono",
+        "paragraphs": [
+          "El trono es el centro desde el que se define quién gobierna. Apocalipsis 4 coloca alrededor del trono criaturas, ancianos y cánticos para mostrar que la autoridad de Elohim no es una abstracción. La adoración ordena la mirada: cuando el trono está en el centro correcto, los poderes de la tierra dejan de parecer absolutos.",
+          "Hay una institucionalidad de dos tronos: el trono de la gracia —Elohim, amor entrañable, acceso— y el trono del juicio —יהוה, tribunal de justicia—. Yehoshua no se presenta ante el cielo como quien habla con otro ser superior; entra en juicio, confiesa la palabra prometida y gestiona las promesas hechas a Abraham. Apocalipsis 4, por sí solo, no autoriza una cosmología completa."
+        ],
+        "caution": "Hablar de autoridad celestial no justifica convertir a un líder humano en intocable."
+      },
+      "articles": [
+        {
+          "path": "besorah/apocalipsis_4_trono_redencion_y_adoracion",
+          "title": "apocalipsis 4 trono redencion y adoracion"
+        },
+        {
+          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
+          "title": "yojanan oracion dos tronos emunah"
+        },
+        {
+          "path": "besorah/yojanan_17_gloria_autoridad_y_vida",
+          "title": "yojanan 17 gloria autoridad y vida"
+        }
+      ],
+      "label": "Trono"
+    },
+    {
+      "id": "concept:santuario",
+      "type": "concept",
+      "names": {
+        "es": "Santuario"
+      },
+      "definition": {
+        "title": "Santuario",
+        "paragraphs": [
+          "El santuario es el lugar donde la presencia, el servicio y el testimonio se encuentran. No es importante solo por sus paredes, sino por la relación que representa entre יהוה y su pueblo. Shemot 33–34 muestra una presencia que acompaña y una gloria que no se reduce a una visión manipulable. El pacto exige no mezclarse con prácticas que deshacen la fidelidad.",
+          "Apocalipsis abre el santuario celestial en momentos de juicio y esperanza. La misma pregunta se vuelve hacia la comunidad: si la casa está ordenada para la presencia o ha sido ocupada por otros intereses. Santuario y templo se tocan; no siempre son el mismo nodo."
+        ],
+        "caution": "Santuario no debe usarse para separar lo «sagrado» de una vida que ignora justicia y misericordia."
+      },
+      "articles": [
+        {
+          "path": "tanaj/shemot_33_34_santuario_presencia_y_santidad",
+          "title": "shemot 33 34 santuario presencia y santidad"
+        },
+        {
+          "path": "besorah/hebreos_9_santuario_conciencia_y_redencion",
+          "title": "hebreos 9 santuario conciencia y redencion"
+        },
+        {
+          "path": "besorah/yojanan_2_senales_celo_y_santuario",
+          "title": "yojanan 2 senales celo y santuario"
+        }
+      ],
+      "label": "Santuario"
+    },
+    {
+      "id": "concept:sacerdocio",
+      "type": "concept",
+      "names": {
+        "es": "Sacerdocio"
+      },
+      "definition": {
+        "title": "Sacerdocio",
+        "paragraphs": [
+          "El sacerdocio habla de acercamiento y servicio. El sacerdote no existe para acumular prestigio, sino para cuidar una responsabilidad delante de Elohim y del pueblo. Hebreos 7 no presenta a Melquisedec como una biografía completa, sino como la figura textual de un sacerdocio superior al levítico: permanencia que depende del Hijo vivo, no de una sucesión humana.",
+          "El hilo va desde el diezmo y la bendición de Abraham hasta el juramento de Tehilim 110. La perfección no consiste en una apariencia religiosa sin fallas, sino en una conciencia purificada, con la Torah escrita en el corazón y los pecados perdonados. El Mesías revela el Nombre, destruye al que tenía el poder de la muerte y abre el camino eficaz para acercarse."
+        ],
+        "caution": "Mediación no significa control absoluto de la conciencia de los demás. Hebreos habla del mandamiento sacerdotal anterior, no de la abolición de toda instrucción."
+      },
+      "articles": [
+        {
+          "path": "besorah/hebreos_7_melquisedec_sacerdocio_y_perfeccion",
+          "title": "hebreos 7 melquisedec sacerdocio y perfeccion"
+        },
+        {
+          "path": "temas/nombre_salvacion_sacerdocio_mesias",
+          "title": "nombre salvacion sacerdocio mesias"
+        }
+      ],
+      "label": "Sacerdocio"
+    },
+    {
+      "id": "concept:oracion",
+      "type": "concept",
+      "names": {
+        "es": "Oración"
+      },
+      "definition": {
+        "title": "Oración",
+        "paragraphs": [
+          "La oración es hablar con Elohim y permanecer delante de él. Incluye petición, agradecimiento, lamento, escucha y vigilancia. No es una técnica para obligar al cielo a cumplir nuestros planes. En Gue Shemanim, Yehoshua lleva el peso real de la hora y somete su voluntad a la voluntad recibida.",
+          "Yehoshua no ora a otro dios superior; entra en la institucionalidad divina, confiesa la palabra y gestiona las promesas. Efesios 6 lleva la oración a la comunidad: firmeza, petición por las palabras y servicio. Quien ora aprende a mirar y a resistir la ansiedad; no reemplaza la obediencia ni la reparación de un daño."
+        ],
+        "caution": "La oración no sustituye la acción responsable."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
+          "title": "yojanan oracion dos tronos emunah"
+        },
+        {
+          "path": "besorah/efesios_6_firmeza_oracion_y_servicio",
+          "title": "efesios 6 firmeza oracion y servicio"
+        },
+        {
+          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "title": "markos 14 pesaj pacto getsemani juicio"
+        }
+      ],
+      "label": "Oración"
+    },
+    {
+      "id": "concept:camino",
+      "type": "concept",
+      "names": {
+        "es": "Camino"
+      },
+      "definition": {
+        "title": "Camino",
+        "paragraphs": [
+          "El camino es una dirección que se aprende andando. En Yojanán 14, Yehoshua no ofrece solo información sobre el Padre: se presenta como el camino que conduce hacia él. En Yojanán 12, la última subida pública hacia Pésaj ordena unción, entrada del Rey humilde, búsqueda de los griegos, hora del grano que muere, voz celestial e invitación a ser hijos de luz. La hora de su glorificación no es prestigio: es el cumplimiento visible de la palabra de יהוה.",
+          "Seguir incluye decisiones, renuncias, tropiezos y retornos. No es una línea recta que permite presumir de no haber caído; es una orientación que vuelve a poner los pasos hacia la vida. Marcos llama a ese seguimiento tomar la cruz y caminar detrás, no delante."
+        ],
+        "caution": "Nadie puede usar «el camino» para despreciar a la persona que todavía está aprendiendo a caminar."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_14_moradas_camino_retorno",
+          "title": "yojanan 14 moradas camino retorno"
+        },
+        {
+          "path": "besorah/yojanan_12_camino_hora_luz_palabra",
+          "title": "yojanan 12 camino hora luz palabra"
+        },
+        {
+          "path": "besorah/markos_8_ciego_confesion_camino_cruz",
+          "title": "markos 8 ciego confesion camino cruz"
+        }
+      ],
+      "label": "Camino"
+    },
+    {
+      "id": "concept:madero",
+      "type": "concept",
+      "names": {
+        "es": "Madero"
+      },
+      "definition": {
+        "title": "Madero",
+        "paragraphs": [
+          "El madero es el lugar donde la entrega del Mesías queda expuesta. Allí se cruzan juicio, violencia, obediencia, muerte y testimonio. Yojanán 19 no presenta la cruz como un accidente: el gobernador entrega a quien ha declarado sin causa, mientras la corona, el manto, el título y la Escritura siguen diciendo que el acusado es Rey.",
+          "Marcos 15 oye el grito de la hora novena junto a Tehilim 22; el velo del Hejal se rasga; un centurión confiesa. El madero no es una derrota sin sentido ni una imagen decorativa. Se lee junto al pacto, al costado abierto y a la confesión: una muerte que revela al Mesías y al mundo que lo juzga."
+        ],
+        "caution": "La cruz o el madero no deben usarse para glorificar el sufrimiento de las víctimas ni para justificar nuevos abusos."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_19_madero_costado_y_testimonio",
+          "title": "yojanan 19 madero costado y testimonio"
+        },
+        {
+          "path": "besorah/markos_15_juicio_cruz_velo_confesion",
+          "title": "markos 15 juicio cruz velo confesion"
+        }
+      ],
+      "label": "Madero"
+    },
+    {
+      "id": "concept:nueva-creacion",
+      "type": "concept",
+      "names": {
+        "es": "Nueva creación"
+      },
+      "definition": {
+        "title": "Nueva creación",
+        "paragraphs": [
+          "La nueva creación comienza cuando una persona y una comunidad reciben una forma nueva de vivir. No significa que el mundo material sea descartado; significa que la vida deja de estar gobernada por la antigua violencia, mentira y separación. Colosenses habla de una humanidad renovada. Romanos habla de vida en el Ruaj, sufrimiento y esperanza. Efesios habla de una nueva creación en el Mesías.",
+          "Esa transformación es real y todavía está en camino: se recibe como don y se practica todos los días. Gálatas 6 desactiva la jactancia en la circuncisión o la incircuncisión. La nueva creación no reemplaza a Israel ni autoriza a abandonar las responsabilidades del mundo presente."
+        ],
+        "caution": "Nueva creación no es una excusa para el desorden, ni una identidad que borre la raíz del olivo."
+      },
+      "articles": [
+        {
+          "path": "besorah/colosenses_3_vida_renovada_amor_y_servicio",
+          "title": "colosenses 3 vida renovada amor y servicio"
+        },
+        {
+          "path": "besorah/efesios_2_lejania_paz_y_un_solo_pueblo",
+          "title": "efesios 2 lejania paz y un solo pueblo"
+        },
+        {
+          "path": "besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza",
+          "title": "romanos 8 vida en el Ruaj filiacion sufrimiento esperanza"
+        }
+      ],
+      "label": "Nueva creación"
+    },
+    {
+      "id": "concept:permanecer",
+      "type": "concept",
+      "names": {
+        "es": "Permanecer"
+      },
+      "definition": {
+        "title": "Permanecer",
+        "paragraphs": [
+          "Permanecer es quedarse cuando sería más fácil abandonar. En Yojanán 15, la imagen es la de una rama unida a la vid: la vida y el fruto dependen de una relación continua, no de un impulso aislado. En Yojanán 8, la libertad no es una identidad heredada: Yehoshua la vincula con permanecer en su palabra, conocer la verdad y ser liberados por el Hijo. La filiación se reconoce por las obras, la escucha y el amor a quien יהוה envió.",
+          "Permanecer incluye escuchar, corregir, amar y volver a la palabra. No es inmovilidad ni miedo al cambio; es conservar la raíz mientras se aprende a crecer. Tampoco es aceptar abuso, mentira o destrucción como si fueran fidelidad."
+        ],
+        "caution": "Permanecer en una comunidad o en una relación nunca significa callar el daño. La rama permanece en la vid, no en el leñador que la destroza."
+      },
+      "articles": [
+        {
+          "path": "besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres",
+          "title": "yojanan 8 permanecer en la palabra y ser libres"
+        },
+        {
+          "path": "besorah/yojanan_15_vid_fruto_amor_discipulado",
+          "title": "yojanan 15 vid fruto amor discipulado"
+        }
+      ],
+      "label": "Permanecer"
     }
   ],
   "edges": [

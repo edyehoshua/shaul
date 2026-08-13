@@ -34,6 +34,12 @@ export interface ConceptSummary {
   what_it_is_not?: string
 }
 
+export interface ConceptDefinition {
+  title: string
+  paragraphs: string[]
+  caution?: string
+}
+
 export interface ConceptArticle {
   path: string
   title: string
@@ -43,6 +49,7 @@ export interface ConceptEntity extends BaseEntity {
   type: "concept"
   forms?: ConceptForm[]
   summary?: ConceptSummary
+  definition?: ConceptDefinition
   articles?: ConceptArticle[]
   related_concepts?: string[]
 }

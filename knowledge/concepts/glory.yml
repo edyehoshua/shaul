@@ -2,4 +2,24 @@ id: glory
 type: concept
 names:
   es: Gloria
-description: Concepto experimental sin una forma original fijada en esta etapa.
+definition:
+  title: Gloria
+  paragraphs:
+    - >-
+      La gloria es el peso y la honra visibles de Elohim. No es un brillo
+      decorativo. En Shemot, Moshéh no puede reducir esa gloria a una visión
+      manipulable. En Yojanán, la hora de Yehoshua es glorificación: el Hijo
+      honra al Padre y el Padre honra al Hijo, también en el madero.
+    - >-
+      Recibir gloria de los hombres y buscar la honra que viene de Elohim no
+      son el mismo camino. La metamorfosis muestra una gloria anticipada; la
+      resurrección, una gloria que ya no queda sujeta a la muerte. La
+      comunidad no fabrica esa honra: la reconoce y la refleja.
+  caution: >-
+    Gloria no debe confundirse con prestigio religioso, éxito visible o una
+    experiencia intensa.
+articles:
+  - path: besorah/yojanan_17_gloria_autoridad_y_vida
+    title: "Yojanán 17: gloria, autoridad y vida"
+  - path: tanaj/shemot_33_34_santuario_presencia_y_santidad
+    title: "Shemot 33–34: santuario, presencia y santidad"

@@ -2,4 +2,24 @@ id: corporeality
 type: concept
 names:
   es: Corporeidad
-description: Concepto experimental sin una forma original fijada en esta etapa.
+definition:
+  title: Corporeidad
+  paragraphs:
+    - >-
+      La corporeidad nombra que la salvación de Elohim no desprecia el cuerpo.
+      El primer adam es polvo y aliento; el postrer Adam es vida
+      indestructible, no una idea. Yehoshua come, toca, sufre, muere y se
+      levanta. La Palabra se hace carne; la esperanza no es huir de la materia.
+    - >-
+      Por eso la resurrección, el pan, el agua, el madero y el costado abierto
+      importan. Una fe que trata al cuerpo como estorbo o como ídolo pierde el
+      hilo. La nueva creación renueva la vida corporal y comunitaria; no
+      descarta el mundo que Elohim hizo.
+  caution: >-
+    Corporeidad no es materialismo, ni una teoría de la encarnación tomada de
+    vocabularios posteriores sin pasar por los textos.
+articles:
+  - path: temas/ben_hijo_titulos_mesias
+    title: Ben, Adam y el Hijo dado al Mesías
+  - path: besorah/yojanan_11_eleazar_resurreccion_vida
+    title: "Yojanán 11: Eleazar, resurrección y vida"

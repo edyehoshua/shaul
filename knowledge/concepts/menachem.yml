@@ -1,7 +1,30 @@
 id: menachem
 type: concept
 names:
-  es: Consolador
+  es: Menájem
 aliases:
   - Menajem
+  - Consolador
   - מנחם
+definition:
+  title: Menájem
+  paragraphs:
+    - >-
+      מנחם — Menájem — nombra al que consuela y permanece. En Yojanán 14 no es
+      una tercera figura suelta ni una emoción intensa: es la promesa de una
+      presencia que enseña, recuerda la palabra y no deja huérfanos a los
+      discípulos cuando Yehoshua parte.
+    - >-
+      Esa promesa queda dentro de la relación con Abá y del Nombre. El Menájem
+      no sustituye al Mesías ni abre otro camino; sostiene la misma palabra,
+      la misma obediencia y la misma esperanza. Se reconoce por lo que trae a
+      la memoria y por la vida que produce, no por una fórmula.
+  caution: >-
+    Menájem no debe aplanarse a «el Espíritu Santo» del lenguaje posterior sin
+    mirar el pasaje, ni usarse como una presencia que autoriza cualquier
+    novedad.
+articles:
+  - path: besorah/yojanan_14_abba_menajem_nombre
+    title: "Yojanán 14: Abá, Menájem y el Nombre"
+  - path: besorah/yojanan_14_morada_palabra_memoria
+    title: "Yojanán 14: morada, palabra y memoria"

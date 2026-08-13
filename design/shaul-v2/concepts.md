@@ -1,7 +1,7 @@
 ---
 title: "Shaul v2: mapa inicial de conceptos"
 description: "Catálogo de 50 conceptos transversales para la nueva presentación de Shaul, con conexiones a versículos y notas existentes."
-date: 2026-08-10
+date: 2026-08-13
 tags:
   - shaul-v2
   - conceptos
@@ -24,28 +24,23 @@ Las conexiones se separan en dos clases:
 - **Versículos:** anclas bíblicas que se pueden abrir directamente en el índice de Escrituras.
 - **Notas:** estudios de Shaul que desarrollan el concepto y permiten volver al contexto completo de la enseñanza.
 
-Este archivo es un catálogo editorial. La redacción completa de los cincuenta cards se encuentra en `design/shaul-v2/cards-50.md`; este mapa conserva la vista compacta para trabajar con el grafo, los filtros y la navegación.
+Este archivo es un catálogo editorial. La redacción de los cincuenta cards está en `design/shaul-v2/cards-50.md` y se funda en las tesis de las notas, no en definiciones genéricas. Este mapa conserva la vista compacta para el grafo, los filtros y la navegación.
 
 ## Criterio de selección
 
-Los conceptos fueron escogidos por su recurrencia en las notas de Besorah, Tanaj y Temas, especialmente en los estudios de Eric y en las notas que conectan sus enseñanzas con el corpus apostólico. No se intenta resumir toda la teología en cincuenta palabras ni cerrar interpretaciones históricas que las notas mismas dejan como propuestas. Cada card deberá conservar la diferencia entre:
-
-1. lo que el texto afirma explícitamente;
-2. la conexión canónica que la nota propone;
-3. la enseñanza atribuida a Eric o Nathanael;
-4. lo que aún queda pendiente de verificar.
+Los conceptos fueron escogidos por su recurrencia en las notas de Besorah, Tanaj y Temas. No se intenta resumir toda la teología en cincuenta palabras ni cerrar interpretaciones que el conocimiento interno deja abiertas. Cada card conserva la diferencia entre lo que el texto afirma, la conexión canónica que se propone y lo que aún queda pendiente de verificar.
 
 ## Los 50 conceptos propuestos
 
 |   # | Slug                | Concepto                                     | Eje                   | Notas de partida                                                                                                                                                        |
 | --: | ------------------- | -------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | `ben-hadam`         | Ben-Hadam / Hijo del Hombre                  | Identidad del Mesías  | `content/besorah/markos_ben_adam_metamorfosis_glosario.md`; `content/besorah/yojanan_9_ben_adam_y_el_ciego.md`                                                          |
+|   1 | `ben-hadam`         | Ben-Hadam / Hijo del Hombre                  | Identidad del Mesías  | `content/besorah/markos_ben_adam_metamorfosis_glosario.md`; `content/besorah/yojanan_9_ben_adam_y_el_ciego.md`; `content/temas/ben_hijo_titulos_mesias.md`               |
 |   2 | `palabra`           | La Palabra que crea, revela y permanece      | Revelación            | `content/besorah/markos_palabra_trono_semilla_identidad.md`; `content/besorah/yojanan_introduccion.md`                                                                  |
 |   3 | `hijo-elohim`       | Hijo de Elohim y herencia                    | Identidad y filiación | `content/besorah/markos_hijo_elohim_hijo_hombre_herencia.md`; `content/temas/ben_hijo_titulos_mesias.md`                                                                |
-|   4 | `abba`              | Abá: relación, envío y obediencia            | Relación con Elohim   | `content/besorah/markos_abba_ruaj_mente_mashiaj.md`; `content/temas/elohim_aba.md`                                                                                      |
+|   4 | `abba`              | Abá: fuente, envío y obediencia              | Relación con Elohim   | `content/temas/elohim_aba.md`; `content/besorah/markos_abba_ruaj_mente_mashiaj.md`; `content/besorah/yojanan_oracion_dos_tronos_emunah.md`                               |
 |   5 | `ruaj`              | Ruaj: presencia, santidad y vida             | Presencia             | `content/temas/elohim_presencia_ruaj_neshamah.md`; `content/temas/ruaj_haqodesh_santidad_presencia_y_evangelio.md`                                                      |
 |   6 | `mashiaj`           | El Mesías como centro de la lectura          | Mesianismo            | `content/temas/mashiaj_esperanza_de_israel_y_redencion.md`; `content/temas/identidad_mesianica_tora_gracia_y_discernimiento.md`                                         |
-|   7 | `torah-y-gracia`    | Torah y gracia sin oposición artificial      | Pacto                 | `content/besorah/romanos_3_ley_pecado_justicia_y_fe.md`; `content/temas/613_mitzvot_contexto_obligacion_y_justificacion.md`                                             |
+|   7 | `torah-y-gracia`    | Torah y gracia sin oposición artificial      | Pacto                 | `content/besorah/romanos_3_ley_pecado_justicia_y_fe.md`; `content/temas/613_mitzvot_contexto_obligacion_y_justificacion.md`; `content/temas/abolicion_de_la_tora_sentencia_pecado_y_plenitud_del_mesias.md` |
 |   8 | `reino`             | Reino, autoridad y servicio                  | Gobierno              | `content/besorah/markos_10_pacto_reino_riqueza_servicio_camino.md`; `content/besorah/yojanan_17_gloria_autoridad_y_vida.md`                                             |
 |   9 | `vida`              | Vida que vence la muerte                     | Vida                  | `content/besorah/yojanan_5_hijo_juicio_vida.md`; `content/besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza.md`                                         |
 |  10 | `luz`               | Luz, testimonio y discernimiento             | Testimonio            | `content/besorah/yojanan_8_luz_testimonio_y_abraham.md`; `content/besorah/efesios_5_amor_luz_y_sabiduria.md`                                                            |
@@ -57,8 +52,8 @@ Los conceptos fueron escogidos por su recurrencia en las notas de Besorah, Tanaj
 |  16 | `ovejas`            | Escucha, reconocimiento y seguimiento        | Discipulado           | `content/besorah/yojanan_10_emunah_obras_ovejas.md`; `content/temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano.md`                                               |
 |  17 | `cuerpo-del-mesias` | Un cuerpo, muchos miembros y una cabeza      | Comunidad             | `content/besorah/efesios_4_llamado_unidad_y_vida_nueva.md`; `content/besorah/colosenses_2_plenitud_discernimiento_y_cabeza.md`                                          |
 |  18 | `unidad`            | Unidad que se practica en verdad             | Comunidad             | `content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md`; `content/besorah/romanos_14_acogida_mutua_conciencia_edificacion.md`                                       |
-|  19 | `reconciliacion`    | Reconciliación y un solo pueblo              | Pacto                 | `content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md`; `content/besorah/colosenses_1_sabiduria_herencia_plenitud.md`                                              |
-|  20 | `pueblo`            | Pueblo, herencia y pertenencia               | Identidad             | `content/temas/613_mitzvot_semilla_de_yisrael_y_limites_de_pertenencia.md`; `content/besorah/efesios_3_gracia_revelacion_y_misterio.md`                                 |
+|  19 | `reconciliacion`    | Reconciliación y un solo pueblo              | Pacto                 | `content/besorah/efesios_2_lejania_paz_y_un_solo_pueblo.md`; `content/temas/israel_no_reemplazado_un_pueblo_y_un_olivo.md`; `content/besorah/colosenses_1_sabiduria_herencia_plenitud.md` |
+|  20 | `pueblo`            | Pueblo, herencia y pertenencia               | Identidad             | `content/temas/israel_no_reemplazado_un_pueblo_y_un_olivo.md`; `content/temas/613_mitzvot_semilla_de_yisrael_y_limites_de_pertenencia.md`; `content/besorah/efesios_3_gracia_revelacion_y_misterio.md` |
 |  21 | `semilla`           | Semilla, palabra e identidad                 | Crecimiento           | `content/besorah/markos_palabra_trono_semilla_identidad.md`; `content/besorah/markos_4_palabra_tormenta_fidelidad.md`                                                   |
 |  22 | `fruto`             | Fruto, permanencia y obediencia              | Formación             | `content/besorah/yojanan_15_vid_fruto_amor_discipulado.md`; `content/besorah/colosenses_3_vida_renovada_amor_y_servicio.md`                                             |
 |  23 | `poda`              | Poda, corrección y permanencia               | Madurez               | `content/besorah/yojanan_15_vid_labrador_poda_permanecer.md`; `content/besorah/hebreos_12_disciplina_santidad_y_monte_tziyon.md`                                        |
@@ -68,7 +63,7 @@ Los conceptos fueron escogidos por su recurrencia en las notas de Besorah, Tanaj
 |  27 | `sukot`             | Sucot, morada, cosecha y gozo                | Fiestas               | `content/temas/sukot_habitar_gozo_y_memoria.md`; `content/besorah/yojanan_7_sucot_agua_y_discernimiento.md`                                                             |
 |  28 | `shavuot`           | Shavuot, palabra, promesa y comunidad        | Fiestas               | `content/temas/shavuot_convocacion_primicias_y_promesa.md`; `content/temas/shavuot_en_mashiaj_promesa_y_era_mesianica.md`                                               |
 |  29 | `janukah`           | Janukah, dedicación y memoria                | Fiestas               | `content/temas/janukah.md`; `content/besorah/yojanan_10_janukah_senales_mesias.md`                                                                                      |
-|  30 | `nombre`            | Nombre, autoridad y salvación                | Identidad             | `content/temas/nombre_salvacion_sacerdocio_mesias.md`; `content/besorah/yojanan_14_abba_menajem_nombre.md`                                                              |
+|  30 | `nombre`            | Nombre, autoridad y salvación                | Identidad             | `content/temas/nombre_de_יהוה_escritura_pronunciacion_y_fidelidad.md`; `content/temas/nombre_salvacion_sacerdocio_mesias.md`; `content/besorah/yojanan_14_abba_menajem_nombre.md` |
 |  31 | `shema`             | Escuchar, amar y guardar                     | Obediencia            | `content/temas/cantos_hebreos_shema_memoria_y_discernimiento.md`; `content/besorah/markos_12_shema_senor_david_vida_entregada.md`                                       |
 |  32 | `santidad`          | Santidad como orden y práctica               | Formación             | `content/temas/corazon_renovado_orden_santidad.md`; `content/besorah/efesios_5_amor_luz_y_sabiduria.md`                                                                 |
 |  33 | `justicia`          | Justicia, misericordia y fidelidad           | Ética                 | `content/tanaj/micah_6_justicia_bondad_y_caminar.md`; `content/besorah/romanos_12_culto_vivo_dones_amor_practico.md`                                                    |
@@ -76,7 +71,7 @@ Los conceptos fueron escogidos por su recurrencia en las notas de Besorah, Tanaj
 |  35 | `arrepentimiento`   | Volver, escuchar y escoger vida              | Retorno               | `content/tanaj/devarim_30_retornar_corazon_y_escoger_vida.md`; `content/besorah/apocalipsis_9_revelacion_trompetas_ay_y_llamado.md`                                     |
 |  36 | `testimonio`        | Testimonio, palabra y perseverancia          | Misión                | `content/besorah/apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza.md`; `content/besorah/yojanan_1_testigo_cordero.md`                                            |
 |  37 | `discernimiento`    | Probar, distinguir y permanecer en la cabeza | Sabiduría             | `content/besorah/colosenses_2_plenitud_discernimiento_y_cabeza.md`; `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md`               |
-|  38 | `idolatria`         | Idolatría, imagen y lealtad                  | Advertencia           | `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md`; `content/tanaj/tehilim_115_nombre_idolatria_y_confianza.md`                      |
+|  38 | `idolatria`         | Idolatría, imagen y lealtad                  | Advertencia           | `content/temas/neo-idolatria_origen_deseo_profanacion_y_babel.md`; `content/tanaj/tehilim_115_nombre_idolatria_y_confianza.md`; `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md` |
 |  39 | `babilonia`         | Seducción, poder y juicio                    | Discernimiento        | `content/besorah/apocalipsis_17_revelacion_babilonia_juicio_y_discernimiento.md`; `content/besorah/apocalipsis_22_revelacion_agua_vida_y_esperanza.md`                  |
 |  40 | `bestias`           | Poder, engaño y perseverancia                | Apocalíptica          | `content/besorah/apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia.md`; `content/besorah/apocalipsis_17_revelacion_babilonia_juicio_y_discernimiento.md` |
 |  41 | `remanente`         | Sello, preservación y fidelidad              | Esperanza             | `content/besorah/apocalipsis_7_revelacion_sello_siervos_y_multitud.md`; `content/besorah/apocalipsis_12_revelacion_mujer_hijo_y_conflicto.md`                           |
@@ -111,7 +106,8 @@ Alcance y cautelas
 
 ## Siguiente iteración
 
-1. Revisar con Joni si los cincuenta conceptos representan bien las enseñanzas de Eric y Nathanael.
-2. Ajustar nombres, agrupaciones y orden visual antes de redactar los cards 6–15.
-3. Confirmar el contrato de datos para que una conexión pueda apuntar tanto a un versículo como a una nota.
-4. Mantener cada card independiente de la UI: el contenido debe poder renderizarse como tooltip, drawer o página dedicada.
+1. Revisar con Joni los cards reescritos, especialmente Abá, Ben-Hadam, Torah, pueblo, Ruaj, trono y nueva creación.
+2. Decidir si neo-idolatría, Menájem y «dos tronos» merecen nodos propios o deben seguir atravesando otros cards.
+3. Añadir versículos principales a cada card y relaciones entre conceptos.
+4. Confirmar el contrato de datos para que una conexión pueda apuntar tanto a un versículo como a una nota.
+5. Mantener cada card independiente de la UI: el contenido debe poder renderizarse como tooltip, drawer o página dedicada.

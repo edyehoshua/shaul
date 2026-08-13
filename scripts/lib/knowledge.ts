@@ -2,6 +2,9 @@ import fs from "node:fs/promises"
 import path from "node:path"
 import yaml from "js-yaml"
 import {
+  ConceptArticle,
+  ConceptDefinition,
+  ConceptEntity,
   ENTITY_TYPES,
   EntityType,
   KnowledgeCollections,
@@ -47,6 +50,166 @@ async function listYamlFiles(directory: string): Promise<string[]> {
 async function loadYamlFile(filePath: string): Promise<unknown> {
   const source = await fs.readFile(filePath, "utf8")
   return yaml.load(source)
+}
+
+const cardConceptIds: Record<string, string> = {
+  "ben-hadam": "son-of-man",
+  "hijo-elohim": "son-of-god",
+  abba: "abba",
+  ruaj: "ruach",
+  mashiaj: "messiah",
+  "torah-y-gracia": "torah",
+  reino: "kingdom",
+  santidad: "holiness",
+  emunah: "emunah",
+  arrepentimiento: "repentance",
+  resurreccion: "resurrection",
+}
+
+interface ConceptCard {
+  slug: string
+  definition: ConceptDefinition
+  articles: ConceptArticle[]
+}
+
+interface ConceptTableEntry {
+  slug: string
+  title: string
+}
+
+function stripMarkdown(value: string): string {
+  return value
+    .replace(/\*\*(.*?)\*\*/g, "$1")
+    .replace(/`([^`]+)`/g, "$1")
+    .trim()
+}
+
+function articleFromPath(value: string): ConceptArticle | null {
+  const match = value.match(/^content\/(.+)\.md$/)
+  if (!match) return null
+  const pathWithoutExtension = match[1]
+  return {
+    path: pathWithoutExtension,
+    title: pathWithoutExtension.split("/").at(-1)?.replace(/_/g, " ") ?? pathWithoutExtension,
+  }
+}
+
+function parseConceptTable(source: string): Map<number, ConceptTableEntry> {
+  const entries = new Map<number, ConceptTableEntry>()
+  for (const line of source.split("\n")) {
+    const cells = line
+      .split("|")
+      .slice(1, -1)
+      .map((cell) => cell.trim())
+    if (cells.length < 3 || !/^\d+$/.test(cells[0])) continue
+    const slug = cells[1].match(/^`([^`]+)`$/)?.[1]
+    if (slug) entries.set(Number(cells[0]), { slug, title: stripMarkdown(cells[2]) })
+  }
+  return entries
+}
+
+function parseConceptCards(
+  cardsSource: string,
+  tableEntries: Map<number, ConceptTableEntry>,
+): ConceptCard[] {
+  const headings = [...cardsSource.matchAll(/^## (\d+)\.\s+(.+)$/gm)]
+  const cards: ConceptCard[] = []
+
+  for (let index = 0; index < headings.length; index++) {
+    const heading = headings[index]
+    const start = (heading.index ?? 0) + heading[0].length
+    const end = headings[index + 1]?.index ?? cardsSource.length
+    const body = cardsSource.slice(start, end).trim()
+    const number = Number(heading[1])
+    const title = stripMarkdown(heading[2])
+    const tableEntry = tableEntries.get(number)
+    if (!tableEntry) continue
+
+    const cautionMatch = body.match(/^\*\*Cuidado de lectura:\*\*\s*(.+)$/m)
+    const notesMatch = body.match(/^\*\*Notas de entrada:\*\*\s*(.+)$/m)
+    const definitionEnd = Math.min(
+      cautionMatch?.index ?? body.length,
+      notesMatch?.index ?? body.length,
+    )
+    const paragraphs = body
+      .slice(0, definitionEnd)
+      .split(/\n\s*\n/)
+      .map(stripMarkdown)
+      .filter(Boolean)
+
+    const articles = notesMatch
+      ? [...notesMatch[1].matchAll(/`([^`]+)`/g)]
+          .map((match) => articleFromPath(match[1]))
+          .filter((article): article is ConceptArticle => article !== null)
+      : []
+
+    cards.push({
+      slug: tableEntry.slug,
+      definition: {
+        title,
+        paragraphs,
+        ...(cautionMatch ? { caution: stripMarkdown(cautionMatch[1]) } : {}),
+      },
+      articles,
+    })
+  }
+
+  return cards
+}
+
+async function loadConceptCards(root: string): Promise<ConceptCard[]> {
+  try {
+    const [cardsSource, tableSource] = await Promise.all([
+      fs.readFile(path.join(root, "design/shaul-v2/cards-50.md"), "utf8"),
+      fs.readFile(path.join(root, "design/shaul-v2/concepts.md"), "utf8"),
+    ])
+    return parseConceptCards(cardsSource, parseConceptTable(tableSource))
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") return []
+    throw error
+  }
+}
+
+function mergeArticles(
+  current: ConceptArticle[] | undefined,
+  additions: ConceptArticle[],
+): ConceptArticle[] | undefined {
+  const articles = [...(current ?? []), ...additions]
+  if (articles.length === 0) return current
+  const map = new Map<string, ConceptArticle>()
+  for (const article of articles) {
+    if (!map.has(article.path)) map.set(article.path, article)
+  }
+  return [...map.values()]
+}
+
+async function mergeConceptCards(root: string, entities: KnowledgeEntity[]) {
+  const cards = await loadConceptCards(root)
+  const concepts = new Map(
+    entities
+      .filter((entity): entity is ConceptEntity => entity.type === "concept")
+      .map((entity) => [entity.id, entity]),
+  )
+
+  for (const card of cards) {
+    const id = cardConceptIds[card.slug] ?? card.slug
+    const existing = concepts.get(id)
+    if (existing) {
+      existing.definition = card.definition
+      existing.articles = mergeArticles(existing.articles, card.articles)
+      continue
+    }
+
+    const concept: ConceptEntity = {
+      id,
+      type: "concept",
+      names: { es: card.definition.title },
+      definition: card.definition,
+      articles: card.articles,
+    }
+    entities.push(concept)
+    concepts.set(id, concept)
+  }
 }
 
 export async function loadKnowledge(root = process.cwd()): Promise<LoadedKnowledge> {
@@ -103,6 +266,8 @@ export async function loadKnowledge(root = process.cwd()): Promise<LoadedKnowled
       }
     }
   }
+
+  await mergeConceptCards(root, entities)
 
   return { entities, mentions, relations, files, issues }
 }

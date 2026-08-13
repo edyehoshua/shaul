@@ -25,6 +25,7 @@ interface GraphNode {
   aliases?: string[]
   forms?: { word: string; role: string }[]
   summary?: { what_it_is?: string; what_it_is_not?: string }
+  definition?: { title: string; paragraphs: string[]; caution?: string }
   articles?: { path: string; title: string }[]
   related_concepts?: string[]
   language?: string
@@ -123,7 +124,7 @@ if (graphContainer) {
     if (!node) return
 
     details.replaceChildren()
-    addText(details, "h2", node.label)
+    addText(details, "h2", node.definition?.title ?? node.label)
 
     if (node.type === "word") {
       const lexical = document.createElement("dl")
@@ -143,9 +144,26 @@ if (graphContainer) {
       addText(details, "p", node.summary.what_it_is, "graph-details-summary")
     }
 
+    if (node.type === "concept" && node.definition?.paragraphs.length) {
+      addText(details, "h3", "Definición")
+      for (const paragraph of node.definition.paragraphs) {
+        addText(details, "p", paragraph, "graph-details-summary")
+      }
+    }
+
+    if (node.type === "concept" && node.description) {
+      addText(details, "h3", "Descripción")
+      addText(details, "p", node.description, "graph-details-description")
+    }
+
     if (node.type === "concept" && node.summary?.what_it_is_not) {
       addText(details, "h3", "Qué no es")
       addText(details, "p", node.summary.what_it_is_not, "graph-details-summary graph-details-not")
+    }
+
+    if (node.type === "concept" && node.definition?.caution) {
+      addText(details, "h3", "Cuidado de lectura")
+      addText(details, "p", node.definition.caution, "graph-details-summary graph-details-not")
     }
 
     if (node.type === "concept" && node.related_concepts?.length) {
@@ -333,6 +351,9 @@ if (graphContainer) {
     const nodeRenderData: NodeRenderData[] = []
     const linkRenderData: LinkRenderData[] = []
     let dragging = false
+    let dragMoved = false
+    let dragStartX = 0
+    let dragStartY = 0
     let stopAnimation = false
 
     const app = new Application()
@@ -437,9 +458,24 @@ if (graphContainer) {
       const tweenGroup = new TweenGroup()
       for (const node of nodeRenderData) {
         const filtered = activeFilter !== "all" && node.simulationData.type !== activeFilter
+        const connectedToActiveType =
+          filtered &&
+          linkRenderData.some(
+            (link) =>
+              (link.simulationData.source.id === node.simulationData.id &&
+                link.simulationData.target.type === activeFilter) ||
+              (link.simulationData.target.id === node.simulationData.id &&
+                link.simulationData.source.type === activeFilter),
+          )
         const focused =
           hoveredNodeId === null || node.active || node.simulationData.id === hoveredNodeId
-        const alpha = filtered ? 0.08 : hoveredNodeId && !focused ? 0.18 : 1
+        const alpha = filtered
+          ? connectedToActiveType
+            ? 0.46
+            : 0.08
+          : hoveredNodeId && !focused
+            ? 0.18
+            : 1
         tweenGroup.add(new Tweened<Graphics>(node.gfx).to({ alpha }, 180))
       }
       tweenGroup.getAll().forEach((tween) => tween.start())
@@ -462,7 +498,7 @@ if (graphContainer) {
           link.simulationData.source.type !== activeFilter &&
           link.simulationData.target.type !== activeFilter
         const alpha = filtered
-          ? 0.04
+          ? 0
           : hoveredNodeId
             ? link.active
               ? 1
@@ -518,6 +554,16 @@ if (graphContainer) {
         const source = link.simulationData.source
         const target = link.simulationData.target
         link.gfx.clear()
+        if (
+          !source ||
+          !target ||
+          !Number.isFinite(source.x) ||
+          !Number.isFinite(source.y) ||
+          !Number.isFinite(target.x) ||
+          !Number.isFinite(target.y)
+        ) {
+          continue
+        }
         link.gfx
           .moveTo((source.x ?? 0) + width / 2, (source.y ?? 0) + height / 2)
           .lineTo((target.x ?? 0) + width / 2, (target.y ?? 0) + height / 2)
@@ -530,29 +576,55 @@ if (graphContainer) {
       app.renderer.render(stage)
     }
 
+    function nodeAtPointer(pointerX: number, pointerY: number): RenderNode | undefined {
+      const [stageX, stageY] = currentTransform.invert([pointerX, pointerY])
+      const graphX = stageX - width / 2
+      const graphY = stageY - height / 2
+      let closest: RenderNode | undefined
+      let closestDistance = Number.POSITIVE_INFINITY
+
+      for (const node of nodes) {
+        const distance = Math.hypot((node.x ?? 0) - graphX, (node.y ?? 0) - graphY)
+        const hitRadius = nodeRadius(node) + 8
+        if (distance <= hitRadius && distance < closestDistance) {
+          closest = node
+          closestDistance = distance
+        }
+      }
+      return closest
+    }
+
     function bindInteractions() {
       select<HTMLCanvasElement, RenderNode | undefined>(app.canvas).call(
         drag<HTMLCanvasElement, RenderNode | undefined>()
           .container(() => app.canvas)
-          .subject(() => nodes.find((node) => node.id === hoveredNodeId))
+          .subject((event) => nodeAtPointer(event.x, event.y))
           .on("start", (event) => {
-            if (!event.active) simulation.alphaTarget(0.25).restart()
-            event.subject.fx = event.subject.x
-            event.subject.fy = event.subject.y
-            event.subject.__dragStartedAt = Date.now()
+            if (!event.subject) return
+            dragStartX = event.x
+            dragStartY = event.y
+            dragMoved = false
             dragging = true
           })
           .on("drag", (event) => {
-            event.subject.fx = event.x - width / 2
-            event.subject.fy = event.y - height / 2
+            if (!event.subject) return
+            if (Math.hypot(event.x - dragStartX, event.y - dragStartY) > 3) dragMoved = true
+            if (!dragMoved) return
+            if (event.subject.fx == null && event.subject.fy == null) {
+              simulation.alphaTarget(0.25).restart()
+              event.subject.fx = event.subject.x
+              event.subject.fy = event.subject.y
+            }
+            const [stageX, stageY] = currentTransform.invert([event.x, event.y])
+            event.subject.fx = stageX - width / 2
+            event.subject.fy = stageY - height / 2
           })
           .on("end", (event) => {
-            if (!event.active) simulation.alphaTarget(0)
+            if (!event.subject) return
+            if (dragMoved && !event.active) simulation.alphaTarget(0)
             event.subject.fx = null
             event.subject.fy = null
             dragging = false
-            if (Date.now() - (event.subject.__dragStartedAt ?? 0) < 350)
-              selectNode(event.subject.id)
           }),
       )
 

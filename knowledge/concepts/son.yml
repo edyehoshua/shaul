@@ -9,15 +9,22 @@ forms:
     role: aramaic_form
 related_concepts:
   - concept:son-of-man
-summary:
-  what_it_is: >-
-    בן — ben y בר — bar se estudian como formas de hijo dentro de expresiones
-    hebreas y arameas. Ben se relaciona contextualmente con filiación, herencia y
-    portación; en la parábola de los labradores, el hijo amado es identificado
-    como el heredero. Bar aparece en בר אנש — Bar Enash y se estudia dentro de
-    esa expresión.
-  what_it_is_not: >-
-    No es una traducción mecánica de «heredero» en cada aparición, ni una
+definition:
+  title: Hijo
+  paragraphs:
+    - >-
+      בן — ben — y בר — bar — nombran al hijo dentro de expresiones hebreas y
+      arameas. En contexto, ben se relaciona con filiación, herencia y
+      portación: en la parábola de los labradores, el hijo amado es el
+      heredero. Bar aparece en בר אנש — Bar Enash — y se estudia dentro de esa
+      expresión.
+    - >-
+      Hijo no es una etiqueta suelta. Puede hablar del Mesías enviado, de
+      Israel como primogénito y de quienes reciben adopción por la promesa.
+      Esos usos se conectan, pero no se aplastan: el Hijo enviado no ocupa el
+      mismo lugar que los hijos reunidos.
+  caution: >-
+    Hijo no es una traducción mecánica de «heredero» en cada aparición, ni una
     definición que borre los usos propios de cada forma y lengua.
 articles:
   - path: temas/ben_hijo_titulos_mesias
