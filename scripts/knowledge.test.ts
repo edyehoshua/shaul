@@ -16,4 +16,16 @@ test("pilot knowledge compiles into one typed graph", async () => {
   assert.ok(graph.nodes.some((node) => node.id === "concept:ruach"))
   assert.ok(graph.edges.some((edge) => edge.source === "word:bar-enash-ar"))
   assert.ok(graph.entityMentions["concept:son-of-man"]?.length >= 2)
+
+  const sonOfMan = graph.nodes.find((node) => node.id === "concept:son-of-man")
+  const definitionText = [
+    ...(sonOfMan?.definition?.paragraphs ?? []),
+    sonOfMan?.definition?.caution ?? "",
+  ].join(" ")
+  assert.doesNotMatch(definitionText, /la clase|Eric |Natanael/i)
+  assert.ok(
+    (sonOfMan?.articles ?? []).every((article: { title: string }) =>
+      /^\p{Lu}/u.test(article.title),
+    ),
+  )
 })

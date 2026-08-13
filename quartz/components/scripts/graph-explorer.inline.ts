@@ -110,10 +110,15 @@ if (graphContainer) {
 
   const nodeById = (id: string) => graphData.nodes.find((node) => node.id === id)
 
+  const capitalizeLeadingText = (value: string) =>
+    value.replace(/^([^\p{L}]*)(\p{Ll})/u, (_match, prefix: string, letter: string) => {
+      return `${prefix}${letter.toUpperCase()}`
+    })
+
   const addText = (parent: HTMLElement, tag: string, value: unknown, className?: string) => {
     const element = document.createElement(tag)
     if (className) element.className = className
-    element.textContent = String(value ?? "")
+    element.textContent = capitalizeLeadingText(String(value ?? ""))
     parent.append(element)
     return element
   }
@@ -139,24 +144,26 @@ if (graphContainer) {
       details.append(lexical)
     }
 
-    if (node.type === "concept" && node.summary?.what_it_is) {
+    const hasDefinition = Boolean(node.type === "concept" && node.definition?.paragraphs.length)
+
+    if (node.type === "concept" && node.summary?.what_it_is && !hasDefinition) {
       addText(details, "h3", "Qué es")
       addText(details, "p", node.summary.what_it_is, "graph-details-summary")
     }
 
-    if (node.type === "concept" && node.definition?.paragraphs.length) {
+    if (hasDefinition) {
       addText(details, "h3", "Definición")
-      for (const paragraph of node.definition.paragraphs) {
+      for (const paragraph of node.definition!.paragraphs) {
         addText(details, "p", paragraph, "graph-details-summary")
       }
     }
 
-    if (node.type === "concept" && node.description) {
+    if (node.type === "concept" && node.description && !hasDefinition) {
       addText(details, "h3", "Descripción")
       addText(details, "p", node.description, "graph-details-description")
     }
 
-    if (node.type === "concept" && node.summary?.what_it_is_not) {
+    if (node.type === "concept" && node.summary?.what_it_is_not && !hasDefinition) {
       addText(details, "h3", "Qué no es")
       addText(details, "p", node.summary.what_it_is_not, "graph-details-summary graph-details-not")
     }
@@ -230,13 +237,8 @@ if (graphContainer) {
 
       const width = graphContainer?.offsetWidth ?? 0
       const height = Math.max(graphContainer?.offsetHeight ?? 0, 250)
-      const degree = new Map(graphData.nodes.map((node) => [node.id, 0]))
-      graphData.edges.forEach((edge) => {
-        degree.set(edge.source, (degree.get(edge.source) ?? 0) + 1)
-        degree.set(edge.target, (degree.get(edge.target) ?? 0) + 1)
-      })
 
-      const nodes: RenderNode[] = graphData.nodes.map((node, index) => {
+      const allNodes: RenderNode[] = graphData.nodes.map((node, index) => {
         const angle = index * Math.PI * (3 - Math.sqrt(5))
         const radius = 60 + Math.sqrt(index / graphData.nodes.length) * 300
         return {
@@ -245,14 +247,25 @@ if (graphContainer) {
           y: Math.sin(angle) * radius,
         }
       })
-      const nodeMap = new Map(nodes.map((node) => [node.id, node]))
-      const links: RenderLink[] = graphData.edges
+      const nodeMap = new Map(allNodes.map((node) => [node.id, node]))
+      const allLinks: RenderLink[] = graphData.edges
         .filter((edge) => nodeMap.has(edge.source) && nodeMap.has(edge.target))
         .map((edge) => ({
           ...edge,
           source: nodeMap.get(edge.source)!,
           target: nodeMap.get(edge.target)!,
         }))
+
+      const nodes = allNodes.filter((node) => node.type === "concept")
+      const visibleIds = new Set(nodes.map((node) => node.id))
+      const links = allLinks.filter(
+        (link) => visibleIds.has(link.source.id) && visibleIds.has(link.target.id),
+      )
+      const degree = new Map(nodes.map((node) => [node.id, 0]))
+      links.forEach((link) => {
+        degree.set(link.source.id, (degree.get(link.source.id) ?? 0) + 1)
+        degree.set(link.target.id, (degree.get(link.target.id) ?? 0) + 1)
+      })
 
       simulation = forceSimulation<RenderNode>(nodes)
         .force("charge", forceManyBody<RenderNode>().strength(-115))
@@ -458,24 +471,9 @@ if (graphContainer) {
       const tweenGroup = new TweenGroup()
       for (const node of nodeRenderData) {
         const filtered = activeFilter !== "all" && node.simulationData.type !== activeFilter
-        const connectedToActiveType =
-          filtered &&
-          linkRenderData.some(
-            (link) =>
-              (link.simulationData.source.id === node.simulationData.id &&
-                link.simulationData.target.type === activeFilter) ||
-              (link.simulationData.target.id === node.simulationData.id &&
-                link.simulationData.source.type === activeFilter),
-          )
         const focused =
           hoveredNodeId === null || node.active || node.simulationData.id === hoveredNodeId
-        const alpha = filtered
-          ? connectedToActiveType
-            ? 0.46
-            : 0.08
-          : hoveredNodeId && !focused
-            ? 0.18
-            : 1
+        const alpha = filtered ? 0 : hoveredNodeId && !focused ? 0.18 : 1
         tweenGroup.add(new Tweened<Graphics>(node.gfx).to({ alpha }, 180))
       }
       tweenGroup.getAll().forEach((tween) => tween.start())
@@ -495,8 +493,8 @@ if (graphContainer) {
           link.simulationData.target.type === "concept"
         const filtered =
           activeFilter !== "all" &&
-          link.simulationData.source.type !== activeFilter &&
-          link.simulationData.target.type !== activeFilter
+          (link.simulationData.source.type !== activeFilter ||
+            link.simulationData.target.type !== activeFilter)
         const alpha = filtered
           ? 0
           : hoveredNodeId
@@ -584,6 +582,7 @@ if (graphContainer) {
       let closestDistance = Number.POSITIVE_INFINITY
 
       for (const node of nodes) {
+        if (activeFilter !== "all" && node.type !== activeFilter) continue
         const distance = Math.hypot((node.x ?? 0) - graphX, (node.y ?? 0) - graphY)
         const hitRadius = nodeRadius(node) + 8
         if (distance <= hitRadius && distance < closestDistance) {

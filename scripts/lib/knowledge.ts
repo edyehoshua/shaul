@@ -84,6 +84,20 @@ function stripMarkdown(value: string): string {
     .trim()
 }
 
+function capitalizeLeadingText(value: string): string {
+  return value.replace(/^([^\p{L}]*)(\p{Ll})/u, (_match, prefix: string, letter: string) => {
+    return `${prefix}${letter.toUpperCase()}`
+  })
+}
+
+function parseFrontmatterTitle(source: string): string | undefined {
+  const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+  if (!match) return undefined
+  const titleMatch = match[1].match(/^title:\s*(?:"([^"]+)"|'([^']+)'|(.+))\s*$/m)
+  const title = titleMatch?.[1] ?? titleMatch?.[2] ?? titleMatch?.[3]
+  return title?.trim() || undefined
+}
+
 function articleFromPath(value: string): ConceptArticle | null {
   const match = value.match(/^content\/(.+)\.md$/)
   if (!match) return null
@@ -91,6 +105,35 @@ function articleFromPath(value: string): ConceptArticle | null {
   return {
     path: pathWithoutExtension,
     title: pathWithoutExtension.split("/").at(-1)?.replace(/_/g, " ") ?? pathWithoutExtension,
+  }
+}
+
+async function resolveArticleTitles(
+  root: string,
+  articles: ConceptArticle[] | undefined,
+): Promise<ConceptArticle[] | undefined> {
+  if (!articles) return articles
+  return Promise.all(
+    articles.map(async (article) => {
+      try {
+        const source = await fs.readFile(path.join(root, "content", `${article.path}.md`), "utf8")
+        const title = parseFrontmatterTitle(source)
+        if (title) return { ...article, title }
+      } catch {
+        // Keep the fallback title when the note is missing.
+      }
+      return { ...article, title: capitalizeLeadingText(article.title) }
+    }),
+  )
+}
+
+function capitalizeDefinition(definition?: ConceptDefinition): ConceptDefinition | undefined {
+  if (!definition) return definition
+  return {
+    ...definition,
+    title: capitalizeLeadingText(definition.title),
+    paragraphs: definition.paragraphs.map(capitalizeLeadingText),
+    ...(definition.caution ? { caution: capitalizeLeadingText(definition.caution) } : {}),
   }
 }
 
@@ -146,9 +189,9 @@ function parseConceptCards(
     cards.push({
       slug: tableEntry.slug,
       definition: {
-        title,
-        paragraphs,
-        ...(cautionMatch ? { caution: stripMarkdown(cautionMatch[1]) } : {}),
+        title: capitalizeLeadingText(title),
+        paragraphs: paragraphs.map(capitalizeLeadingText),
+        ...(cautionMatch ? { caution: capitalizeLeadingText(stripMarkdown(cautionMatch[1])) } : {}),
       },
       articles,
     })
@@ -195,7 +238,7 @@ async function mergeConceptCards(root: string, entities: KnowledgeEntity[]) {
     const id = cardConceptIds[card.slug] ?? card.slug
     const existing = concepts.get(id)
     if (existing) {
-      existing.definition = card.definition
+      existing.definition = capitalizeDefinition(card.definition)
       existing.articles = mergeArticles(existing.articles, card.articles)
       continue
     }
@@ -204,11 +247,16 @@ async function mergeConceptCards(root: string, entities: KnowledgeEntity[]) {
       id,
       type: "concept",
       names: { es: card.definition.title },
-      definition: card.definition,
+      definition: capitalizeDefinition(card.definition),
       articles: card.articles,
     }
     entities.push(concept)
     concepts.set(id, concept)
+  }
+
+  for (const concept of concepts.values()) {
+    concept.definition = capitalizeDefinition(concept.definition)
+    concept.articles = await resolveArticleTitles(root, concept.articles)
   }
 }
 
