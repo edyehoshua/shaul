@@ -225,7 +225,7 @@
       "id": "concept:emunah",
       "type": "concept",
       "names": {
-        "es": "Emunah · Fe"
+        "es": "Emunah"
       },
       "forms": [
         {
@@ -235,31 +235,34 @@
       ],
       "aliases": [
         "Emunah",
-        "אמונה"
+        "אמונה",
+        "Neeman",
+        "נאמן"
       ],
       "definition": {
         "title": "Emunah",
         "paragraphs": [
-          "אמונה puede traducirse como fe, pero la palabra tiene un peso más amplio: confianza, firmeza y fidelidad. No es cerrar los ojos ante la realidad; es apoyarse en una promesa y caminar de acuerdo con ella. Tampoco es optimismo ni una manera de obligar a Elohim.",
-          "Hebreos 11 muestra personas que esperan, disciernen lo que todavía no se ve y mueren sin recibir en plenitud lo anunciado. En Yojanán 10, la emunah se forma por instrucción: no es un salto vacío. Gálatas y Romanos recuerdan que la fidelidad del Mesías no se reemplaza por una competencia de méritos. La confianza verdadera toca las obras, aunque no se compra con ellas. La justificación por emunah no es lo mismo que la santificación como fruto."
+          "אמונה no nace de adentro. Viene de Elohim, porque solo él es נאמן — neeman: fiel, firme, digno de confianza. Devarim llama a יהוה «el El neeman» que guarda el pacto, y Haazinu dice que él mismo es אל אמונה. La emunah no es una reserva interior que el ser humano fabrica; es la fidelidad de Elohim entregada y recibida.",
+          "Por eso la salvación por emunah no es de ustedes, sino don de Elohim. Afirmarse en Yehoshua es recibir esa emunah concedida, no generar una fe por esfuerzo. Hebreos 11 describe la confianza en lo prometido y la demostración de lo que no se ve; esa confianza se sostiene porque el que promete es neeman, no porque el oyente se convenza a sí mismo.",
+          "Recibida, la emunah se vuelve firmeza que camina, escucha y da fruto. Las obras no la compran ni la reemplazan; muestran que fue recibida. Justificación por emunah y santificación como fruto no son lo mismo."
         ],
-        "caution": "Emunah no es «creer que» en el sentido moderno, ni una técnica para obtener milagros. El Hijo hace la voluntad escrita; eso no se reduce al eslogan «cumplió perfectamente la ley»."
+        "caution": "Emunah no es «creer que» en el sentido moderno, ni una fuerza que sale de nosotros para obligar a Elohim. El único neeman es él."
       },
       "articles": [
         {
-          "path": "besorah/hebreos_11_emunah_testimonio_y_esperanza",
-          "title": "Hebreos 11: emunáh, testimonio y esperanza"
+          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
+          "title": "Dos tronos, Abba instituido y emunah: continuación de Yojanán 11"
         },
         {
-          "path": "besorah/yojanan_10_emunah_obras_ovejas",
-          "title": "Yojanán 10: emunah, obras y ovejas"
+          "path": "tanaj/devarim_7_recordar_pacto_y_dependencia",
+          "title": "Devarim 7–11: recordar el pacto y no atribuirse la fuerza"
         },
         {
-          "path": "besorah/galatas_3_escucha_emunah_y_hijos_de_abraham",
-          "title": "La escucha de la emunah y los hijos de Abraham"
+          "path": "tanaj/devarim_32_haazinu_roca_fidelidad",
+          "title": "Devarim 32: Ha'azinu, la Roca y la fidelidad que juzga"
         }
       ],
-      "label": "Emunah · Fe"
+      "label": "Emunah"
     },
     {
       "id": "concept:glory",
