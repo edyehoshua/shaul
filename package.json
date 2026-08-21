@@ -41,8 +41,9 @@
     "graph:build": "tsx scripts/build-graph.ts",
     "scriptures:lookup:test": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/test_lookup_verse.py; else python3 scripts/test_lookup_verse.py; fi",
     "authoring:coverage": "if [ -x .venv/bin/python ]; then .venv/bin/python scripts/report_authoring_coverage.py --write; else python3 scripts/report_authoring_coverage.py --write; fi",
-    "check": "npm run content:check-frontmatter && tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
+    "check": "npm run content:check-frontmatter && tsc --noEmit && npm run format:check",
+    "format:check": "npx prettier \"{quartz,scripts,knowledge}/**/*.{ts,tsx,mjs,scss,yml}\" \"*.{json,ts,mjs}\" --check",
+    "format": "npx prettier \"{quartz,scripts,knowledge}/**/*.{ts,tsx,mjs,scss,yml}\" \"*.{json,ts,mjs}\" --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },

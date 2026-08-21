@@ -1,7 +1,5 @@
 # Learning log
 
-- 2026-08-13 — Reescribí los 50 cards de `design/shaul-v2/cards-50.md` en voz del conocimiento interno, sin atribuciones de clase o expositor, con cautelas capitalizadas, y añadí definiciones a los 14 conceptos YAML que el grafo mostraba vacíos (Elohim, templo, Menájem, Israel, naciones, pacto, Besorah, sabiduría, Anciano de Días, bat kol, día de יהוה, gloria, corporeidad e hijo). Regeneré `generated/graph.json`: 92 nodos, 64 conceptos, 64 definiciones.
-
 - 2026-07-30 — Reparé la nota temática de la lane exclusiva Yojanán `content/temas/cantos_hebreos_shema_memoria_y_discernimiento.md`: añadí el mapa trazable de la selección de Eric para Deuteronomio 6, Tehilim 121 y el resto de la colección, manteniendo solo URLs públicas y `source_id` estables. La nota pasa el verificador dirigido (`quality_failures=0`), el control de frontmatter, Prettier dirigido y `git diff --check`.
 
 - 2026-07-30 — Consolidé dos estudios canónicos independientes de la lane exclusiva Yojanán: `content/tanaj/tehilim_141_oracion_guardia_y_santidad.md` y `content/tanaj/tehilim_142_cueva_clamor_y_refugio.md`. Eliminé los duplicados de Tehilim 141 y 142 que repetían los mismos `source_id` públicos, conservando las versiones desarrolladas que siguen las perícopas en orden, incluyen texto OE local, léxico y mapas atribuibles de Eric. La comprobación dirigida devolvió `quality_failures=0`; se verificaron frontmatter, ausencia de rutas privadas, hebreo sin barras morfológicas y `git diff --check`.

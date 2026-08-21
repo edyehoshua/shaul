@@ -106,11 +106,12 @@ export interface KnowledgeCollections {
   relations: Relation[]
 }
 
-export interface GraphNode extends Record<string, unknown> {
-  id: CanonicalId
-  type: EntityType
-  label: string
-}
+export type GraphNode = {
+  [Type in EntityType]: Omit<Extract<KnowledgeEntity, { type: Type }>, "id"> & {
+    id: `${Type}:${string}`
+    label: string
+  }
+}[EntityType]
 
 export interface GraphEdge extends Record<string, unknown> {
   id: string

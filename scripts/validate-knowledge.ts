@@ -13,6 +13,8 @@ export function validateKnowledgeData(
 ): string[] {
   const errors = knowledge.issues.map((issue) => `${issue.file ?? "knowledge"}: ${issue.message}`)
   const entityIds = new Map<string, string>()
+  const mentionIds = new Set<string>()
+  const relationIds = new Set<string>()
 
   for (const entity of knowledge.entities) {
     const sourceId = typeof entity.id === "string" ? entity.id : ""
@@ -70,6 +72,15 @@ export function validateKnowledgeData(
           )
         }
       }
+      for (const relatedConcept of entity.related_concepts ?? []) {
+        assertReference(
+          `${canonicalId(entity.type, entity.id)}.related_concepts`,
+          relatedConcept,
+          "concept",
+          entityIds,
+          errors,
+        )
+      }
     }
   }
 
@@ -78,6 +89,10 @@ export function validateKnowledgeData(
       errors.push(`mention ${String(mention.id)}: requires id, note, text, and entities`)
       continue
     }
+    if (mentionIds.has(mention.id)) {
+      errors.push(`duplicate mention id ${mention.id}`)
+    }
+    mentionIds.add(mention.id)
     for (const reference of mention.entities) {
       assertReference(`mention ${mention.id}`, reference, undefined, entityIds, errors)
     }
@@ -92,6 +107,10 @@ export function validateKnowledgeData(
       errors.push(`relation ${String(relation.id)}: requires id, source, and target`)
       continue
     }
+    if (relationIds.has(relation.id)) {
+      errors.push(`duplicate relation id ${relation.id}`)
+    }
+    relationIds.add(relation.id)
     if (!isRelationType(relation.type)) {
       errors.push(`relation ${relation.id}: invalid type ${String(relation.type)}`)
     }

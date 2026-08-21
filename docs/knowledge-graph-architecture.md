@@ -23,7 +23,7 @@ Las Mentions no son nodos visibles del grafo. Se compilan en `entityMentions` pa
 
 ## Datos piloto
 
-El conjunto inicial contiene 25 Conceptos, 12 Words, 6 Verses, 5 Persons, 5 Books, 6 Mentions y 25 Relations. El caso más profundo es `concept:son-of-man`, conectado con `concept:son`, `word:bar-enash-ar` y `word:ben-ha-adam-he`, además de Daniel 7, Marcos 14, el Mesías y el Anciano de Días. `concept:torah` y `word:torah-he` prueban explícitamente la separación entre concepto y forma léxica.
+El conjunto inicial compilado contiene 64 Conceptos y 28 entidades léxicas, bíblicas, personales o documentales adicionales, además de 6 Mentions y 25 Relations. El caso más profundo es `concept:son-of-man`, conectado con `concept:son`, `word:bar-enash-ar` y `word:ben-ha-adam-he`, además de Daniel 7, Marcos 14, el Mesías y el Anciano de Días. `concept:torah` y `word:torah-he` prueban explícitamente la separación entre concepto y forma léxica.
 
 ## Compilación y validación
 
@@ -36,7 +36,7 @@ El validador detecta YAML inválido, tipos de colección incorrectos, IDs duplic
 
 ## Ruta experimental
 
-La portada nueva de Shaul se emite como HTML estático propio en `index.html`; `/graph` conserva un alias directo a la misma experiencia. La página no usa el layout ni los scripts globales de Quartz. Carga `generated/graph.json`, crea el grafo con Graphology y lo renderiza con Sigma.js. Permite seleccionar nodos, filtrar por tipo y ver formas lingüísticas, vecinos y Mentions. Quartz permanece como capa legacy para las notas.
+La portada nueva de Shaul se emite como HTML estático propio en `index.html`; `/graph` conserva un alias directo a la misma experiencia. La página no usa el layout ni los scripts globales de Quartz. Carga `generated/graph.json`, calcula la disposición con las fuerzas de D3 y renderiza el grafo mediante Pixi.js. La primera presentación muestra los Conceptos, permite arrastrar, ampliar, seleccionar nodos y abrir sus definiciones, formas lingüísticas y notas relacionadas. Quartz permanece como capa legacy para las notas.
 
 ## Compatibilidad y límites
 

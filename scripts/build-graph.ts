@@ -20,12 +20,12 @@ export function compileGraph(knowledge: Awaited<ReturnType<typeof loadKnowledge>
   }
 
   const nodes: GraphNode[] = knowledge.entities.map((entity) => {
-    const node: GraphNode = {
+    const node = {
       ...entity,
       id: canonicalId(entity.type, entity.id),
       type: entity.type,
       label: displayLabel(entity),
-    }
+    } as GraphNode
     return node
   })
 

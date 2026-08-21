@@ -16,10 +16,12 @@ This repository now uses a lighter, agent-ready workflow:
 
 ## Quick Start
 
+Prerequisites: Node.js 24 and npm 11 (the versions declared in `package.json`).
+
 ```bash
 git clone https://github.com/edyhvh/shaul.git
 cd shaul
-npm install
+npm ci
 npm run build
 npm run dev
 ```
@@ -83,7 +85,7 @@ npm run scriptures:sync -- --corpus oe --book genesis
 One-shot preparation (Python deps + local scriptures + DB init):
 
 ```bash
-npm run prepare
+npm run workspace:prepare
 ```
 
 ## Source DB (Transcripts + Articles)

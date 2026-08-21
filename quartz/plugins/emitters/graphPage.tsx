@@ -17,13 +17,13 @@ const graphSlug = "graph" as FullSlug
 function renderHomePage(): string {
   const body = render(<GraphHome />)
   return `<!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#f4f1e9" />
-    <meta name="description" content="Shaul — Scripture, connected." />
-    <title>Shaul · Scripture, connected.</title>
+    <meta name="description" content="Shaul — Escritura conectada por conceptos." />
+    <title>Shaul · Escritura conectada.</title>
     <style>${graphHomeStyle}</style>
   </head>
   <body>
