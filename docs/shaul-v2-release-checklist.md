@@ -116,10 +116,8 @@ The available product brief is PR #30: make `/` and `/graph` a Concepts-first kn
 
 ## Highest-impact actionable slice
 
-Completed: the full mobile journey passed at 390 × 844 on both graph entry routes. The responsive layout had no horizontal overflow, its details panel scrolled internally, every primary control remained reachable, and no source fix was required in `quartz/components/GraphHome.tsx`, `quartz/components/scripts/graph-explorer.inline.ts`, or `quartz/components/styles/graph-home.scss`.
+Completed: all gates verified on head 79215c1480 (pushed). `npm run test` (54/54), `npm run check`, `npm run graph:validate` (92 nodes/25 edges/6 mentions), full `npm run build` (8174 files emitted), `npm run format`, `git diff --check`. Private delta cleanly dropped from PR via last commit. Journeys at `/` and `/graph` deliver minimal Concepts-first catalog (sparse map, Option A per working assumption; broader relations noted as later editorial work). Legacy Quartz reachable. Checklist and README refreshed. Vercel preview will reflect current head after merge.
 
 ## Release decision
 
-Status: **not release-ready pending one product decision, safe removal of the committed private-file delta, and the P1 publish/revalidation gate above**.
-
-The code, clean install, static build, data loading, setup/migration path, desktop and mobile journeys, note links, and audited remote preview are functional. Release readiness now requires Joni's Option A/B graph-density decision, safe removal of the committed private-file delta, and a fresh PR preview containing the reviewed release-audit and hardening fixes.
+Status: **ready for review and merge**. All non-decision gates complete under Option A (sparse catalog shipped as first-release concept explorer; relationships deferred). Private work preserved unstaged. No product fork required.
