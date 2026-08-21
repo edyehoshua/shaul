@@ -1,0 +1,392 @@
+:root {
+  --shaul-ink: #202327;
+  --shaul-muted: #8f9294;
+  --shaul-paper: #fcfcfb;
+  --shaul-line: rgba(32, 35, 39, 0.1);
+  --shaul-soft: #f7f4f1;
+  --shaul-accent: #c87078;
+  --shaul-concept: #202327;
+  --shaul-word: #c87078;
+  --shaul-verse: #8fa6b4;
+  --shaul-person: #b2a2b5;
+  --shaul-book: #d1b36d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-width: 320px;
+  background: var(--shaul-paper);
+  color: var(--shaul-ink);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.shaul-home {
+  min-height: 100vh;
+  overflow: hidden;
+  background: var(--shaul-paper);
+}
+
+.shaul-header {
+  position: relative;
+  z-index: 10;
+  display: grid;
+  min-height: 112px;
+  place-items: center;
+  padding: 1rem clamp(1rem, 3vw, 3rem);
+  border-bottom: 1px solid var(--shaul-line);
+  background: rgba(252, 252, 251, 0.94);
+}
+
+.shaul-brand {
+  color: var(--shaul-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.86rem;
+  letter-spacing: 0.14em;
+  text-decoration: none;
+}
+
+.shaul-corner-control {
+  position: absolute;
+  top: 1rem;
+  display: grid;
+  width: 68px;
+  height: 68px;
+  place-items: center;
+  border: 0;
+  border-radius: 26px;
+  background: var(--shaul-soft);
+  color: var(--shaul-ink);
+  transition:
+    background 160ms ease,
+    transform 160ms ease;
+}
+
+.shaul-corner-control:hover {
+  background: #f1e9e7;
+  transform: translateY(-2px);
+}
+
+.shaul-reset {
+  left: clamp(1rem, 3vw, 3rem);
+}
+
+.shaul-reset span {
+  position: absolute;
+  width: 36px;
+  height: 2px;
+  background: currentColor;
+}
+
+.shaul-reset span:first-child {
+  transform: rotate(45deg);
+}
+
+.shaul-reset span:last-child {
+  transform: rotate(-45deg);
+}
+
+.shaul-legacy-link {
+  position: absolute;
+  top: 2.7rem;
+  right: clamp(1rem, 3vw, 3rem);
+  color: var(--shaul-muted);
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  transition: color 160ms ease;
+}
+
+.shaul-legacy-link:hover {
+  color: var(--shaul-accent);
+}
+
+.shaul-nav {
+  display: flex;
+  justify-content: center;
+  gap: 0.3rem;
+  margin-top: 4.3rem;
+}
+
+.shaul-nav button {
+  border: 0;
+  border-bottom: 1px solid transparent;
+  background: transparent;
+  color: var(--shaul-muted);
+  padding: 0.15rem 0.45rem 0.28rem;
+  font-size: 0.67rem;
+  letter-spacing: 0.04em;
+  transition:
+    color 160ms ease,
+    border-color 160ms ease;
+}
+
+.shaul-nav button:hover,
+.shaul-nav button[aria-pressed="true"] {
+  border-color: var(--shaul-ink);
+  color: var(--shaul-ink);
+}
+
+.shaul-main {
+  position: relative;
+  height: calc(100vh - 112px);
+}
+
+.shaul-graph-panel,
+.shaul-graph-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.shaul-graph-panel {
+  position: relative;
+}
+
+.shaul-graph-canvas {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      circle at center,
+      rgba(255, 255, 255, 0.96),
+      rgba(252, 252, 251, 0.4) 48%,
+      transparent 72%
+    ),
+    linear-gradient(rgba(32, 35, 39, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(32, 35, 39, 0.025) 1px, transparent 1px);
+  background-size:
+    auto,
+    36px 36px,
+    36px 36px;
+}
+
+.shaul-graph-canvas canvas {
+  outline: none;
+}
+
+.shaul-graph-loading {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  color: var(--shaul-muted);
+  font-size: 0.7rem;
+  transform: translate(-50%, -50%);
+}
+
+.shaul-graph-meta {
+  position: absolute;
+  right: clamp(1rem, 3vw, 3rem);
+  bottom: 1.4rem;
+  left: clamp(1rem, 3vw, 3rem);
+  display: flex;
+  justify-content: space-between;
+  color: var(--shaul-muted);
+  font-family: "Courier New", monospace;
+  font-size: 0.58rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.shaul-details {
+  position: absolute;
+  z-index: 5;
+  top: 1.5rem;
+  right: clamp(1rem, 3vw, 3rem);
+  bottom: 1.5rem;
+  width: min(320px, calc(100vw - 2rem));
+  overflow: auto;
+  padding: 3.5rem 1.4rem 1.4rem;
+  border: 1px solid var(--shaul-line);
+  border-radius: 22px;
+  background: rgba(252, 252, 251, 0.96);
+  box-shadow: 0 18px 50px rgba(32, 35, 39, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(18px);
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
+}
+
+.shaul-details[data-open="true"] {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(0);
+}
+
+.shaul-details-close {
+  position: absolute;
+  top: 0.8rem;
+  right: 1rem;
+  border: 0;
+  background: transparent;
+  color: var(--shaul-muted);
+  font-size: 1.7rem;
+  font-weight: 200;
+  line-height: 1;
+}
+
+.shaul-details-close:hover {
+  color: var(--shaul-ink);
+}
+
+.shaul-details h2 {
+  margin: 0.35rem 0 1rem;
+  font-family: Georgia, serif;
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+  font-weight: 400;
+  letter-spacing: -0.06em;
+  line-height: 0.95;
+}
+
+.shaul-details h3 {
+  margin: 1.5rem 0 0.6rem;
+  color: var(--shaul-muted);
+  font-family: "Courier New", monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.shaul-details ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.shaul-details li {
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
+}
+
+.shaul-details li p {
+  margin: 0.18rem 0 0;
+  color: var(--shaul-muted);
+  font-size: 0.78rem;
+}
+
+.shaul-details a {
+  color: var(--shaul-accent);
+}
+
+.shaul-related-node {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--shaul-accent);
+  text-align: left;
+}
+
+.shaul-related-node:hover {
+  text-decoration: underline;
+}
+
+.shaul-details-type {
+  margin: 0;
+  color: var(--shaul-accent);
+  font-family: "Courier New", monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.shaul-details-description,
+.shaul-details-aliases,
+.shaul-details-summary {
+  color: var(--shaul-muted);
+  font-size: 0.84rem;
+  line-height: 1.55;
+}
+
+.shaul-details-summary {
+  color: var(--shaul-ink);
+}
+
+.shaul-details-not {
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--shaul-line);
+}
+
+.shaul-details dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.4rem 0.8rem;
+  margin: 0;
+  font-size: 0.82rem;
+}
+
+.shaul-details dt {
+  color: var(--shaul-muted);
+}
+
+.shaul-details dd {
+  margin: 0;
+}
+
+.shaul-details-empty {
+  color: var(--shaul-muted);
+  font-size: 0.72rem;
+}
+
+@media all and (max-width: 700px) {
+  .shaul-header {
+    min-height: 128px;
+  }
+
+  .shaul-corner-control {
+    width: 56px;
+    height: 56px;
+    border-radius: 20px;
+  }
+
+  .shaul-reset span {
+    width: 30px;
+  }
+
+  .shaul-nav {
+    width: 100%;
+    margin-top: 3.7rem;
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding-inline: 3.5rem;
+  }
+
+  .shaul-nav button {
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+
+  .shaul-main {
+    height: calc(100vh - 128px);
+  }
+
+  .shaul-details {
+    top: auto;
+    right: 1rem;
+    bottom: 1rem;
+    left: 1rem;
+    width: auto;
+    max-height: min(58vh, 420px);
+    transform: translateY(18px);
+  }
+
+  .shaul-details[data-open="true"] {
+    transform: translateY(0);
+  }
+}

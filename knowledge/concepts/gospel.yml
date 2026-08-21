@@ -1,0 +1,27 @@
+id: gospel
+type: concept
+names:
+  es: Besorah
+aliases:
+  - Evangelio
+  - Besorah
+definition:
+  title: Besorah
+  paragraphs:
+    - >-
+      La Besorah no es un eslogan ni una noticia religiosa suelta. Es el anuncio
+      de que יהוה reina y cumple su promesa en Yehoshua el Mesías: perdón,
+      vida, reunión y justicia. Marcos la abre como anuncio del reino; Pablo la
+      defiende como un único evangelio que no se cambia por presión humana.
+    - >-
+      Ese anuncio no abole la Torah ni inventa otro pueblo. Llama a emunah,
+      retorno y una vida que corresponde a lo recibido. Hay un solo evangelio;
+      otro distinto no es una variante inocente.
+  caution: >-
+    Besorah no debe reducirse a «ir al cielo» ni oponerse de manera automática
+    a la instrucción de Elohim.
+articles:
+  - path: besorah/galatas_1_unico_evangelio_y_reconciliacion
+    title: "Gálatas 1: un solo evangelio"
+  - path: besorah/romanos_1_siervo_enviado_y_besorah_prometida
+    title: "Romanos 1: siervo enviado y Besorah prometida"

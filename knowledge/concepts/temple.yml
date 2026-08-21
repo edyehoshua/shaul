@@ -1,0 +1,31 @@
+id: temple
+type: concept
+names:
+  es: Templo
+aliases:
+  - Mikdash
+  - מקדש
+definition:
+  title: Templo
+  paragraphs:
+    - >-
+      El מקדש — templo, casa apartada — es el lugar donde יהוה pone su Nombre y
+      donde el pueblo se acerca con orden, ofrenda y testimonio. No vale por sus
+      piedras, sino por la presencia que habita y por la fidelidad que exige.
+      Yojanán 2 une el celo por la casa con el cuerpo del Mesías: «destruyan este
+      templo» apunta más allá del edificio.
+    - >-
+      Cuando la casa se llena de otros intereses, deja de servir a su propósito.
+      Janukah recuerda una dedicación restaurada; Marcos 11 y Yojanán 2 juzgan
+      un templo que ya no es casa de oración. Santuario y templo se tocan, pero
+      no son el mismo nodo: uno nombra la presencia y el servicio, el otro la
+      casa concreta.
+  caution: >-
+    Templo no debe usarse para separar lo sagrado de una vida que ignora
+    justicia y misericordia, ni para confundir el edificio de Yerushaláim con
+    toda presencia de יהוה.
+articles:
+  - path: besorah/yojanan_2_senales_celo_y_santuario
+    title: "Yojanán 2: señales, celo y santuario"
+  - path: besorah/markos_11_rey_higuera_casa_oracion_autoridad
+    title: "Marcos 11: rey, higuera y casa de oración"

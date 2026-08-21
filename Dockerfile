@@ -1,11 +1,15 @@
-FROM node:22-slim AS builder
+FROM node:24-slim AS builder
 WORKDIR /usr/src/app
 COPY package.json .
 COPY package-lock.json* .
+COPY .npmrc .
 RUN npm ci
 
-FROM node:22-slim
+FROM node:24-slim
 WORKDIR /usr/src/app
+RUN apt-get update \
+  && apt-get install -y --no-install-recommends python3 \
+  && rm -rf /var/lib/apt/lists/*
 COPY --from=builder /usr/src/app/ /usr/src/app/
 COPY . .
-CMD ["npx", "quartz", "build", "--serve"]
+CMD ["npm", "start"]

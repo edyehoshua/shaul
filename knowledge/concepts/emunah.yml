@@ -1,0 +1,12 @@
+id: emunah
+type: concept
+names:
+  es: Emunah
+forms:
+  - word: word:emunah-he
+    role: hebrew_expression
+aliases:
+  - Emunah
+  - אמונה
+  - Neeman
+  - נאמן

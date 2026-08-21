@@ -1,0 +1,5 @@
+id: john-contains-verse-1-49
+source: book:john
+target: verse:john-1-49
+type: contains
+status: confirmed

@@ -1,0 +1,10 @@
+id: kingdom
+type: concept
+names:
+  es: Reino
+forms:
+  - word: word:maljut-he
+    role: hebrew_expression
+aliases:
+  - Maljut
+  - מלכות

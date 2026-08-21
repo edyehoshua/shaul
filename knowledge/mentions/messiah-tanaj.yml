@@ -1,0 +1,10 @@
+id: mention-messiah-tanaj
+note: temas/mashiaj_esperanza_de_israel_y_redencion
+entities:
+  - concept:messiah
+  - word:mashiach-he
+  - concept:israel
+  - person:yehoshua
+location:
+  heading: Esperanza de Israel y redención
+text: La nota estudia Mashiaj como término y como hilo conceptual de esperanza para Israel.

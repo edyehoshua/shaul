@@ -1,0 +1,5 @@
+id: john-contains-verse-3-13
+source: book:john
+target: verse:john-3-13
+type: contains
+status: confirmed

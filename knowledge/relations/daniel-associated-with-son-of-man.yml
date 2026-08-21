@@ -1,0 +1,5 @@
+id: daniel-associated-with-son-of-man
+source: person:daniel
+target: concept:son-of-man
+type: associated_with
+status: confirmed

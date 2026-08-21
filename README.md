@@ -16,14 +16,19 @@ This repository now uses a lighter, agent-ready workflow:
 
 ## Quick Start
 
+Prerequisites: Node.js 24 and npm 11 (the versions declared in `package.json`).
+
 ```bash
 git clone https://github.com/edyhvh/shaul.git
 cd shaul
-npm install
-npm start
+npm ci
+npm run build
+npm run dev
 ```
 
-Site runs at http://localhost:8080
+The Shaul v2 site runs at http://localhost:8484. `npm run dev` serves the existing
+`public/` build without rebuilding it; run `npm run build` again after changing notes,
+graph data, or site code.
 
 ## Build
 
@@ -32,6 +37,15 @@ npm run build
 ```
 
 Generated output is in public/.
+
+The Shaul v2 graph home runs at `http://localhost:8484` during development. Quartz remains
+the legacy note publisher, and the graph is also available at `/graph`. Its source data lives
+under `knowledge/` and can be validated or compiled independently:
+
+```bash
+npm run graph:validate
+npm run graph:build
+```
 
 ## Transcript Tool
 
@@ -71,7 +85,7 @@ npm run scriptures:sync -- --corpus oe --book genesis
 One-shot preparation (Python deps + local scriptures + DB init):
 
 ```bash
-npm run prepare
+npm run workspace:prepare
 ```
 
 ## Source DB (Transcripts + Articles)

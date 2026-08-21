@@ -1,0 +1,31 @@
+id: elohim
+type: concept
+names:
+  es: Elohim
+forms:
+  - word: word:elohim-he
+    role: hebrew_expression
+aliases:
+  - אלהים
+definition:
+  title: Elohim
+  paragraphs:
+    - >-
+      אלהים no equivale automáticamente al «Dios» genérico del castellano. En el
+      uso principal de este conocimiento, Elohim nombra el amor entrañable
+      manifestado hacia la creación, ligado a רחמים — rajamim — como afecto de
+      entrañas, no como lástima. El contexto manda: también puede designar
+      jueces, mensajeros o, en tono polémico, los llamados dioses de las
+      naciones.
+    - >-
+      En el prólogo de Yojanán, «Elohim era la Palabra»: la Palabra no es un dios
+      secundario. Ver al Mesías es ver ese amor hecho visible. El trono de la
+      gracia se lee junto a Elohim; el trono del juicio, junto al Nombre יהוה.
+  caution: >-
+    No se debe leer Elohim como una etiqueta fija en todos los pasajes, ni
+    aplastarlo a una segunda persona en competencia con Abá.
+articles:
+  - path: temas/elohim_aba
+    title: Elohim y Abá
+  - path: besorah/yojanan_conceptos_deidad
+    title: Conceptos clave de deidad en Yojanán

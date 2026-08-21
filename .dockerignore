@@ -1,0 +1,21 @@
+# Repository and local tool state
+.git/
+.venv/
+.quartz-cache/
+.firecrawl/
+
+# Dependencies and generated output
+node_modules/
+public/
+prof/
+tsconfig.tsbuildinfo
+
+# Private authoring and ingestion state
+private/
+data/
+content/.obsidian/
+.env
+.env.*
+
+# Local logs
+npm-debug.log*
