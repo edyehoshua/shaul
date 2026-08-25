@@ -1,0 +1,16 @@
+id: shabbat
+type: concept
+names:
+  es: Shabat
+forms:
+  - word: word:shabbat-he
+    role: hebrew_expression
+aliases:
+  - Shabat
+  - Sábado
+  - שבת
+description: El día de reposo señalado por יהוה, memoria de la creación y del descanso, ligado al pacto y a la santidad del tiempo.
+related_concepts:
+  - concept:moedim
+  - concept:covenant
+  - concept:holiness

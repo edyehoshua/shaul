@@ -11,7 +11,6 @@ import graphExplorerScript from "../../components/scripts/graph-explorer.inline"
 // @ts-ignore - Quartz's Sass loader turns this source into CSS text.
 import graphHomeStyle from "../../components/styles/graph-home.scss"
 
-const homeSlug = "index" as FullSlug
 const graphSlug = "graph" as FullSlug
 
 function renderHomePage(): string {
@@ -43,7 +42,6 @@ export const GraphPageEmitter: QuartzEmitterPlugin = () => ({
     await fs.copyFile(outputPath, generatedPath)
     const page = renderHomePage()
     yield generatedPath as FilePath
-    yield await write({ ctx, slug: homeSlug, ext: ".html", content: page })
     yield await write({ ctx, slug: graphSlug, ext: ".html", content: page })
   },
   async *partialEmit() {},

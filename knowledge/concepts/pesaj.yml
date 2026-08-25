@@ -1,0 +1,15 @@
+id: pesaj
+type: concept
+names:
+  es: Pésaj
+forms:
+  - word: word:pesaj-he
+    role: hebrew_expression
+aliases:
+  - Pésaj
+  - Pascua
+  - פסח
+description: La fiesta de la liberación y la mesa, conmemorada en la Torá; varias notas la conectan con el pacto, la memoria de la redención y la cena del Mesías.
+related_concepts:
+  - concept:moedim
+  - concept:covenant

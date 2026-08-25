@@ -1,0 +1,17 @@
+id: sukot
+type: concept
+names:
+  es: Sucot
+forms:
+  - word: word:sukot-he
+    role: hebrew_expression
+aliases:
+  - Sucot
+  - Fiesta de las Cabañas
+  - Fiesta de los Tabernáculos
+  - סוכות
+description: La fiesta de las cabañas y la cosecha, memoria de la morada de Elohim con su pueblo y del gozo del llamado de las naciones.
+related_concepts:
+  - concept:moedim
+  - concept:temple
+  - concept:covenant

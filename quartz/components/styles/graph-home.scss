@@ -103,21 +103,6 @@ button {
   transform: rotate(-45deg);
 }
 
-.shaul-legacy-link {
-  position: absolute;
-  top: 2.7rem;
-  right: clamp(1rem, 3vw, 3rem);
-  color: var(--shaul-muted);
-  font-size: 0.68rem;
-  letter-spacing: 0.03em;
-  text-decoration: none;
-  transition: color 160ms ease;
-}
-
-.shaul-legacy-link:hover {
-  color: var(--shaul-accent);
-}
-
 .shaul-nav {
   display: flex;
   justify-content: center;

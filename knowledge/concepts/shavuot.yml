@@ -1,0 +1,17 @@
+id: shavuot
+type: concept
+names:
+  es: Shavuot
+forms:
+  - word: word:shavuot-he
+    role: hebrew_expression
+aliases:
+  - Shavuot
+  - Fiesta de las Semanas
+  - Fiesta de las Primicias
+  - שבועות
+description: La fiesta de las semanas y las primicias, ligada al conteo del omer, a la memoria de la Torá y a la promesa de la era mesiánica.
+related_concepts:
+  - concept:moedim
+  - concept:covenant
+  - concept:torah

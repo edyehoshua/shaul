@@ -82,11 +82,6 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
-        // Shaul's root is owned by the standalone knowledge-graph home.
-        // Keep the Markdown source available to the content index, but do not
-        // let the legacy Quartz page race the graph home for public/index.html.
-        if (slug === "index") continue
-
         // Skip _folder.md files - they should not be processed as content pages
         if (file.data.filePath && file.data.filePath.endsWith("_folder.md")) {
           continue
@@ -121,8 +116,6 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
-
-        if (slug === "index") continue
 
         // Skip _folder.md files - they should not be processed as content pages
         if (file.data.filePath && file.data.filePath.endsWith("_folder.md")) {
