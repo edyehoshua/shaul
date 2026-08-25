@@ -1,0 +1,10 @@
+id: mention-pesaj-memoria
+note: temas/pesaj_memoria_liberacion_y_mesa
+entities:
+  - concept:pesaj
+  - word:pesaj-he
+  - concept:moedim
+  - concept:covenant
+location:
+  heading: Memoria de la liberación y la mesa
+text: La nota estudia Pésaj como memoria de la liberación y de la mesa del pacto.

@@ -1,0 +1,9 @@
+id: mention-shavuot-convocacion
+note: temas/shavuot_convocacion_primicias_y_promesa
+entities:
+  - concept:shavuot
+  - word:shavuot-he
+  - concept:moedim
+location:
+  heading: Convocación, primicias y promesa
+text: La nota estudia Shavuot como convocación de primicias y promesa de la era mesiánica.

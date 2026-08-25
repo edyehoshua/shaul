@@ -1,6 +1,6 @@
 import { JSX } from "preact"
 
-const filters: Array<{ type: string; label: string }> = [{ type: "concept", label: "Concepts" }]
+const filters: Array<{ type: string; label: string }> = [{ type: "concept", label: "Conceptos" }]
 
 export default function GraphHome(): JSX.Element {
   return (
@@ -10,21 +10,17 @@ export default function GraphHome(): JSX.Element {
           class="shaul-corner-control shaul-reset"
           type="button"
           data-graph-reset
-          aria-label="Reset graph"
+          aria-label="Reiniciar grafo"
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
         </button>
 
-        <a class="shaul-brand" href="./" aria-label="Shaul home">
+        <a class="shaul-brand" href="./" aria-label="Inicio">
           SHAUL
         </a>
 
-        <a class="shaul-legacy-link" href="./tags/besorah.html">
-          Legacy site <span aria-hidden="true">↗</span>
-        </a>
-
-        <nav class="shaul-nav" aria-label="Graph filters">
+        <nav class="shaul-nav" aria-label="Filtros del grafo">
           {filters.map((filter) => (
             <button
               type="button"
@@ -38,12 +34,12 @@ export default function GraphHome(): JSX.Element {
       </header>
 
       <main class="shaul-main">
-        <section class="shaul-graph-panel" aria-label="Interactive knowledge graph">
+        <section class="shaul-graph-panel" aria-label="Grafo de conceptos interactivo">
           <div id="shaul-graph" class="shaul-graph-canvas">
-            <div class="shaul-graph-loading">Loading graph…</div>
+            <div class="shaul-graph-loading">Cargando grafo…</div>
           </div>
           <div class="shaul-graph-meta" aria-hidden="true">
-            <span>Drag · zoom · select</span>
+            <span>Arrastrar · zoom · seleccionar</span>
             <span>יהוה</span>
           </div>
         </section>
@@ -53,13 +49,13 @@ export default function GraphHome(): JSX.Element {
             class="shaul-details-close"
             type="button"
             data-graph-details-close
-            aria-label="Close details"
+            aria-label="Cerrar detalles"
           >
             ×
           </button>
           <div id="shaul-graph-details-content" class="shaul-details-content">
             <div class="shaul-details-empty">
-              <span>Select a node</span>
+              <span>Selecciona un nodo</span>
             </div>
           </div>
         </aside>

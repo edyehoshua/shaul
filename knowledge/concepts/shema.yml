@@ -1,0 +1,16 @@
+id: shema
+type: concept
+names:
+  es: Shema
+forms:
+  - word: word:shema-he
+    role: hebrew_expression
+aliases:
+  - Shema
+  - Escucha
+  - שמע
+description: El llamado a oír, amar y guardar la Palabra, corazón de la confesión de Israel y del discipulado.
+related_concepts:
+  - concept:torah
+  - concept:israel
+  - concept:emunah

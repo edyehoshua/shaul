@@ -491,6 +491,47 @@
       "label": "Mesías"
     },
     {
+      "id": "concept:mishkan",
+      "type": "concept",
+      "names": {
+        "es": "Mishkán (Morada)"
+      },
+      "aliases": [
+        "Mishkán",
+        "Tabernáculo",
+        "Morada",
+        "משכן"
+      ],
+      "description": "La morada de Elohim en medio de su pueblo, tipo del templo y de la presencia que habita entre los hombres.",
+      "related_concepts": [
+        "concept:temple",
+        "concept:glory",
+        "concept:israel"
+      ],
+      "label": "Mishkán (Morada)"
+    },
+    {
+      "id": "concept:moedim",
+      "type": "concept",
+      "names": {
+        "es": "Tiempos señalados (Fiestas)"
+      },
+      "aliases": [
+        "Moedim",
+        "Fiestas de יהוה",
+        "מועדים"
+      ],
+      "description": "Las convocaciones señaladas por יהוה en la Torá (Levítico 23), en torno a las cuales el proyecto organiza varias notas temáticas.",
+      "related_concepts": [
+        "concept:pesaj",
+        "concept:shavuot",
+        "concept:sukot",
+        "concept:yom-kippur",
+        "concept:shabbat"
+      ],
+      "label": "Tiempos señalados (Fiestas)"
+    },
+    {
       "id": "concept:nations",
       "type": "concept",
       "names": {
@@ -519,6 +560,52 @@
         }
       ],
       "label": "Naciones"
+    },
+    {
+      "id": "concept:pesaj",
+      "type": "concept",
+      "names": {
+        "es": "Pésaj"
+      },
+      "forms": [
+        {
+          "word": "word:pesaj-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Pésaj",
+        "Pascua",
+        "פסח"
+      ],
+      "description": "La fiesta de la liberación y la mesa, conmemorada en la Torá; varias notas la conectan con el pacto, la memoria de la redención y la cena del Mesías.",
+      "related_concepts": [
+        "concept:moedim",
+        "concept:covenant"
+      ],
+      "definition": {
+        "title": "Pésaj",
+        "paragraphs": [
+          "Pésaj recuerda una liberación concreta: יהוה sacó a Israel de Mitzráim. La comida, los panes sin levadura y la memoria del apresuramiento pertenecen al mandato. La memoria bíblica no mira el pasado como una pieza de museo: vuelve a contar quién liberó, de qué liberó y cómo debe vivir ahora el pueblo liberado.",
+          "En Yojanán 13, la mesa, el lavado de pies y el pacto muestran que la liberación se convierte en servicio. Recordar Pésaj no es solo repetir una historia; es dejar que la historia cambie la manera de tratar al hermano. Marcos une esa mesa con la sangre del pacto y con la hora de Gue Shemanim."
+        ],
+        "caution": "La memoria de la liberación no debe convertirse en orgullo nacional ni en una ceremonia separada de la justicia. Las decisiones calendáricas y los desarrollos del séder deben examinarse sin confundirlos con el texto de la Torah."
+      },
+      "articles": [
+        {
+          "path": "temas/pesaj_memoria_liberacion_y_mesa",
+          "title": "Pésaj: memoria de liberación y mesa ordenada"
+        },
+        {
+          "path": "besorah/yojanan_13_pesaj_seuda_lavado_pies",
+          "title": "Yojanán 13: Pesaj, seudá y lavado de pies"
+        },
+        {
+          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
+        }
+      ],
+      "label": "Pésaj"
     },
     {
       "id": "concept:repentance",
@@ -617,6 +704,136 @@
         }
       ],
       "label": "Ruaj · Espíritu"
+    },
+    {
+      "id": "concept:shabbat",
+      "type": "concept",
+      "names": {
+        "es": "Shabat"
+      },
+      "forms": [
+        {
+          "word": "word:shabbat-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Shabat",
+        "Sábado",
+        "שבת"
+      ],
+      "description": "El día de reposo señalado por יהוה, memoria de la creación y del descanso, ligado al pacto y a la santidad del tiempo.",
+      "related_concepts": [
+        "concept:moedim",
+        "concept:covenant",
+        "concept:holiness"
+      ],
+      "label": "Shabat"
+    },
+    {
+      "id": "concept:shalom",
+      "type": "concept",
+      "names": {
+        "es": "Shalom (Paz)"
+      },
+      "aliases": [
+        "Shalom",
+        "Paz",
+        "שלום"
+      ],
+      "description": "La plenitud y bienestar que proceden de la presencia de Elohim, promesa ligada al reino y al Mesías.",
+      "related_concepts": [
+        "concept:kingdom",
+        "concept:messiah"
+      ],
+      "label": "Shalom (Paz)"
+    },
+    {
+      "id": "concept:shavuot",
+      "type": "concept",
+      "names": {
+        "es": "Shavuot"
+      },
+      "forms": [
+        {
+          "word": "word:shavuot-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Shavuot",
+        "Fiesta de las Semanas",
+        "Fiesta de las Primicias",
+        "שבועות"
+      ],
+      "description": "La fiesta de las semanas y las primicias, ligada al conteo del omer, a la memoria de la Torá y a la promesa de la era mesiánica.",
+      "related_concepts": [
+        "concept:moedim",
+        "concept:covenant",
+        "concept:torah"
+      ],
+      "definition": {
+        "title": "Shavuot",
+        "paragraphs": [
+          "Shavuot es una convocación marcada por la cuenta de semanas, la ofrenda de primicias, el gozo compartido y la memoria de la liberación. En Mashiaj se lee como continuidad y cumplimiento interpretado, no como borrado de la Torah. Levítico establece el conteo; Hechos 2 sitúa la reunión de los discípulos en el cumplimiento de las semanas y explica el derramamiento del Ruaj mediante Yoel.",
+          "La palabra no queda encerrada en una experiencia individual. Crea responsabilidad compartida: escuchar, recibir, responder y cuidar al necesitado."
+        ],
+        "caution": "Shavuot no debe reducirse a una fecha aislada ni separarse de la historia de la Torah y de las primicias. Las asociaciones con tiempos finales o dones contemporáneos son lecturas posteriores, no el sentido inmediato de cada versículo."
+      },
+      "articles": [
+        {
+          "path": "temas/shavuot_convocacion_primicias_y_promesa",
+          "title": "Shavu’ot: convocación, primicias y promesa"
+        },
+        {
+          "path": "temas/shavuot_en_mashiaj_promesa_y_era_mesianica",
+          "title": "Shavu’ot en Mashíaj: promesa y comienzo de la era mesiánica"
+        }
+      ],
+      "label": "Shavuot"
+    },
+    {
+      "id": "concept:shema",
+      "type": "concept",
+      "names": {
+        "es": "Shema"
+      },
+      "forms": [
+        {
+          "word": "word:shema-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Shema",
+        "Escucha",
+        "שמע"
+      ],
+      "description": "El llamado a oír, amar y guardar la Palabra, corazón de la confesión de Israel y del discipulado.",
+      "related_concepts": [
+        "concept:torah",
+        "concept:israel",
+        "concept:emunah"
+      ],
+      "definition": {
+        "title": "Shema",
+        "paragraphs": [
+          "שמע significa escuchar, pero la escucha bíblica nunca termina en el oído. Quien escucha comprende, ama, guarda y responde. Marcos 12 reúne el amor indivisible a יהוה y el amor al prójimo, y pregunta cómo el Mesías puede ser solo hijo de David cuando David mismo lo llama Señor.",
+          "Shema se relaciona con memoria, discernimiento y entrega. Amar a Elohim no es solamente sentir afecto; es permitir que su palabra ordene decisiones, relaciones y prioridades. La viuda que echa su vida desenmascara una piedad que devora casas."
+        ],
+        "caution": "Guardar no significa obedecer sin entender. Escuchar incluye atención, discernimiento y respuesta."
+      },
+      "articles": [
+        {
+          "path": "besorah/markos_12_shema_senor_david_vida_entregada",
+          "title": "Marcos 12: resurrección, Shemá, Señor de David y vida entregada"
+        },
+        {
+          "path": "temas/shema_oír_amar_y_guardar_la_palabra",
+          "title": "Shema: oír, amar y guardar la palabra"
+        }
+      ],
+      "label": "Shema"
     },
     {
       "id": "concept:son-of-god",
@@ -762,6 +979,50 @@
       "label": "Hijo"
     },
     {
+      "id": "concept:sukot",
+      "type": "concept",
+      "names": {
+        "es": "Sucot"
+      },
+      "forms": [
+        {
+          "word": "word:sukot-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Sucot",
+        "Fiesta de las Cabañas",
+        "Fiesta de los Tabernáculos",
+        "סוכות"
+      ],
+      "description": "La fiesta de las cabañas y la cosecha, memoria de la morada de Elohim con su pueblo y del gozo del llamado de las naciones.",
+      "related_concepts": [
+        "concept:moedim",
+        "concept:temple",
+        "concept:covenant"
+      ],
+      "definition": {
+        "title": "Sucot",
+        "paragraphs": [
+          "Sucot une una morada sencilla, la memoria del desierto, la cosecha y el gozo. Es una convocación de siete días para alegrarse ante יהוה y recordar que Israel habitó en sucot al salir de Mitzráim. No invita a escapar del mundo, sino a habitarlo con gratitud y dependencia.",
+          "En Yojanán 7, la fiesta se vuelve escenario de enseñanza, controversia y la invitación al agua. El gozo no es superficialidad: nace después de recordar el camino y la provisión. La apertura hacia las naciones debe mostrarse desde el texto, no darse por añadida."
+        ],
+        "caution": "El gozo de Sucot no autoriza especulación sin límites sobre calendarios, cosechas finales o identidades contemporáneas."
+      },
+      "articles": [
+        {
+          "path": "temas/sukot_habitar_gozo_y_memoria",
+          "title": "Sukot: habitar, gozo y memoria"
+        },
+        {
+          "path": "besorah/yojanan_7_sucot_agua_y_discernimiento",
+          "title": "Yojanán 7: Sucot, agua y discernimiento"
+        }
+      ],
+      "label": "Sucot"
+    },
+    {
       "id": "concept:temple",
       "type": "concept",
       "names": {
@@ -861,6 +1122,31 @@
         }
       ],
       "label": "Sabiduría"
+    },
+    {
+      "id": "concept:yom-kippur",
+      "type": "concept",
+      "names": {
+        "es": "Yom Kipur"
+      },
+      "forms": [
+        {
+          "word": "word:yom-kippur-he",
+          "role": "hebrew_expression"
+        }
+      ],
+      "aliases": [
+        "Yom Kipur",
+        "Día del Perdón",
+        "יום כיפור"
+      ],
+      "description": "El día de la expiación y la humillación, ligado al arrepentimiento, la dependencia de Elohim y la purificación del santuario.",
+      "related_concepts": [
+        "concept:moedim",
+        "concept:repentance",
+        "concept:holiness"
+      ],
+      "label": "Yom Kipur"
     },
     {
       "id": "word:atik-yomin-ar",
@@ -966,6 +1252,61 @@
       "label": "משיח"
     },
     {
+      "id": "word:pesaj-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "פסח",
+      "transliteration": "Pesaj",
+      "aliases": [
+        "Pésaj"
+      ],
+      "label": "פסח"
+    },
+    {
+      "id": "word:shabbat-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "שבת",
+      "transliteration": "Shabat",
+      "aliases": [
+        "Shabat"
+      ],
+      "label": "שבת"
+    },
+    {
+      "id": "word:shavuot-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "שבועות",
+      "transliteration": "Shavuot",
+      "aliases": [
+        "Shavuot"
+      ],
+      "label": "שבועות"
+    },
+    {
+      "id": "word:shema-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "שמע",
+      "transliteration": "Shema",
+      "aliases": [
+        "Shema"
+      ],
+      "label": "שמע"
+    },
+    {
+      "id": "word:sukot-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "סוכות",
+      "transliteration": "Sucot",
+      "aliases": [
+        "Sucot"
+      ],
+      "label": "סוכות"
+    },
+    {
       "id": "word:torah-he",
       "type": "word",
       "language": "hebrew",
@@ -975,6 +1316,17 @@
         "Instrucción"
       ],
       "label": "תורה"
+    },
+    {
+      "id": "word:yom-kippur-he",
+      "type": "word",
+      "language": "hebrew",
+      "script": "יום כיפור",
+      "transliteration": "Yom Kipur",
+      "aliases": [
+        "Yom Kipur"
+      ],
+      "label": "יום כיפור"
     },
     {
       "id": "word:yom-yehovah-he",
@@ -1609,36 +1961,6 @@
       "label": "Omer y primicias"
     },
     {
-      "id": "concept:pesaj",
-      "type": "concept",
-      "names": {
-        "es": "Pésaj"
-      },
-      "definition": {
-        "title": "Pésaj",
-        "paragraphs": [
-          "Pésaj recuerda una liberación concreta: יהוה sacó a Israel de Mitzráim. La comida, los panes sin levadura y la memoria del apresuramiento pertenecen al mandato. La memoria bíblica no mira el pasado como una pieza de museo: vuelve a contar quién liberó, de qué liberó y cómo debe vivir ahora el pueblo liberado.",
-          "En Yojanán 13, la mesa, el lavado de pies y el pacto muestran que la liberación se convierte en servicio. Recordar Pésaj no es solo repetir una historia; es dejar que la historia cambie la manera de tratar al hermano. Marcos une esa mesa con la sangre del pacto y con la hora de Gue Shemanim."
-        ],
-        "caution": "La memoria de la liberación no debe convertirse en orgullo nacional ni en una ceremonia separada de la justicia. Las decisiones calendáricas y los desarrollos del séder deben examinarse sin confundirlos con el texto de la Torah."
-      },
-      "articles": [
-        {
-          "path": "temas/pesaj_memoria_liberacion_y_mesa",
-          "title": "Pésaj: memoria de liberación y mesa ordenada"
-        },
-        {
-          "path": "besorah/yojanan_13_pesaj_seuda_lavado_pies",
-          "title": "Yojanán 13: Pesaj, seudá y lavado de pies"
-        },
-        {
-          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
-          "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
-        }
-      ],
-      "label": "Pésaj"
-    },
-    {
       "id": "concept:shabat",
       "type": "concept",
       "names": {
@@ -1667,58 +1989,6 @@
         }
       ],
       "label": "Shabat"
-    },
-    {
-      "id": "concept:sukot",
-      "type": "concept",
-      "names": {
-        "es": "Sucot"
-      },
-      "definition": {
-        "title": "Sucot",
-        "paragraphs": [
-          "Sucot une una morada sencilla, la memoria del desierto, la cosecha y el gozo. Es una convocación de siete días para alegrarse ante יהוה y recordar que Israel habitó en sucot al salir de Mitzráim. No invita a escapar del mundo, sino a habitarlo con gratitud y dependencia.",
-          "En Yojanán 7, la fiesta se vuelve escenario de enseñanza, controversia y la invitación al agua. El gozo no es superficialidad: nace después de recordar el camino y la provisión. La apertura hacia las naciones debe mostrarse desde el texto, no darse por añadida."
-        ],
-        "caution": "El gozo de Sucot no autoriza especulación sin límites sobre calendarios, cosechas finales o identidades contemporáneas."
-      },
-      "articles": [
-        {
-          "path": "temas/sukot_habitar_gozo_y_memoria",
-          "title": "Sukot: habitar, gozo y memoria"
-        },
-        {
-          "path": "besorah/yojanan_7_sucot_agua_y_discernimiento",
-          "title": "Yojanán 7: Sucot, agua y discernimiento"
-        }
-      ],
-      "label": "Sucot"
-    },
-    {
-      "id": "concept:shavuot",
-      "type": "concept",
-      "names": {
-        "es": "Shavuot"
-      },
-      "definition": {
-        "title": "Shavuot",
-        "paragraphs": [
-          "Shavuot es una convocación marcada por la cuenta de semanas, la ofrenda de primicias, el gozo compartido y la memoria de la liberación. En Mashiaj se lee como continuidad y cumplimiento interpretado, no como borrado de la Torah. Levítico establece el conteo; Hechos 2 sitúa la reunión de los discípulos en el cumplimiento de las semanas y explica el derramamiento del Ruaj mediante Yoel.",
-          "La palabra no queda encerrada en una experiencia individual. Crea responsabilidad compartida: escuchar, recibir, responder y cuidar al necesitado."
-        ],
-        "caution": "Shavuot no debe reducirse a una fecha aislada ni separarse de la historia de la Torah y de las primicias. Las asociaciones con tiempos finales o dones contemporáneos son lecturas posteriores, no el sentido inmediato de cada versículo."
-      },
-      "articles": [
-        {
-          "path": "temas/shavuot_convocacion_primicias_y_promesa",
-          "title": "Shavu’ot: convocación, primicias y promesa"
-        },
-        {
-          "path": "temas/shavuot_en_mashiaj_promesa_y_era_mesianica",
-          "title": "Shavu’ot en Mashíaj: promesa y comienzo de la era mesiánica"
-        }
-      ],
-      "label": "Shavuot"
     },
     {
       "id": "concept:janukah",
@@ -1775,32 +2045,6 @@
         }
       ],
       "label": "Nombre"
-    },
-    {
-      "id": "concept:shema",
-      "type": "concept",
-      "names": {
-        "es": "Shema"
-      },
-      "definition": {
-        "title": "Shema",
-        "paragraphs": [
-          "שמע significa escuchar, pero la escucha bíblica nunca termina en el oído. Quien escucha comprende, ama, guarda y responde. Marcos 12 reúne el amor indivisible a יהוה y el amor al prójimo, y pregunta cómo el Mesías puede ser solo hijo de David cuando David mismo lo llama Señor.",
-          "Shema se relaciona con memoria, discernimiento y entrega. Amar a Elohim no es solamente sentir afecto; es permitir que su palabra ordene decisiones, relaciones y prioridades. La viuda que echa su vida desenmascara una piedad que devora casas."
-        ],
-        "caution": "Guardar no significa obedecer sin entender. Escuchar incluye atención, discernimiento y respuesta."
-      },
-      "articles": [
-        {
-          "path": "besorah/markos_12_shema_senor_david_vida_entregada",
-          "title": "Marcos 12: resurrección, Shemá, Señor de David y vida entregada"
-        },
-        {
-          "path": "temas/shema_oír_amar_y_guardar_la_palabra",
-          "title": "Shema: oír, amar y guardar la palabra"
-        }
-      ],
-      "label": "Shema"
     },
     {
       "id": "concept:justicia",
@@ -2354,10 +2598,73 @@
       "status": "confirmed"
     },
     {
+      "id": "moedim-related-to-pesaj",
+      "source": "concept:moedim",
+      "target": "concept:pesaj",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "moedim-related-to-shabbat",
+      "source": "concept:moedim",
+      "target": "concept:shabbat",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "moedim-related-to-shavuot",
+      "source": "concept:moedim",
+      "target": "concept:shavuot",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "moedim-related-to-sukot",
+      "source": "concept:moedim",
+      "target": "concept:sukot",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "moedim-related-to-yom-kippur",
+      "source": "concept:moedim",
+      "target": "concept:yom-kippur",
+      "type": "related_to",
+      "status": "confirmed"
+    },
+    {
+      "id": "pesaj-expresses-pesaj",
+      "source": "word:pesaj-he",
+      "target": "concept:pesaj",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
       "id": "revelation-contains-verse-1-13",
       "source": "book:revelation",
       "target": "verse:revelation-1-13",
       "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "shabbat-expresses-shabbat",
+      "source": "word:shabbat-he",
+      "target": "concept:shabbat",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "shavuot-expresses-shavuot",
+      "source": "word:shavuot-he",
+      "target": "concept:shavuot",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
+      "id": "shema-expresses-shema",
+      "source": "word:shema-he",
+      "target": "concept:shema",
+      "type": "expresses",
       "status": "confirmed"
     },
     {
@@ -2389,6 +2696,13 @@
       "status": "confirmed"
     },
     {
+      "id": "sukot-expresses-sukot",
+      "source": "word:sukot-he",
+      "target": "concept:sukot",
+      "type": "expresses",
+      "status": "confirmed"
+    },
+    {
       "id": "torah-expresses-torah",
       "source": "word:torah-he",
       "target": "concept:torah",
@@ -2400,6 +2714,13 @@
       "source": "person:yehoshua",
       "target": "concept:messiah",
       "type": "associated_with",
+      "status": "confirmed"
+    },
+    {
+      "id": "yom-kippur-expresses-yom-kippur",
+      "source": "word:yom-kippur-he",
+      "target": "concept:yom-kippur",
+      "type": "expresses",
       "status": "confirmed"
     },
     {
@@ -2424,6 +2745,46 @@
         "heading": "Elohim y la identidad de Yehoshua"
       },
       "text": "El estudio conserva la relación entre el nombre Elohim, sus obras y la identidad del Hijo."
+    },
+    {
+      "id": "mention-pesaj-memoria",
+      "note": "temas/pesaj_memoria_liberacion_y_mesa",
+      "entities": [
+        "concept:pesaj",
+        "word:pesaj-he",
+        "concept:moedim",
+        "concept:covenant"
+      ],
+      "location": {
+        "heading": "Memoria de la liberación y la mesa"
+      },
+      "text": "La nota estudia Pésaj como memoria de la liberación y de la mesa del pacto."
+    },
+    {
+      "id": "mention-shavuot-convocacion",
+      "note": "temas/shavuot_convocacion_primicias_y_promesa",
+      "entities": [
+        "concept:shavuot",
+        "word:shavuot-he",
+        "concept:moedim"
+      ],
+      "location": {
+        "heading": "Convocación, primicias y promesa"
+      },
+      "text": "La nota estudia Shavuot como convocación de primicias y promesa de la era mesiánica."
+    },
+    {
+      "id": "mention-sukot-habitar",
+      "note": "temas/sukot_habitar_gozo_y_memoria",
+      "entities": [
+        "concept:sukot",
+        "word:sukot-he",
+        "concept:moedim"
+      ],
+      "location": {
+        "heading": "Habitar, gozo y memoria"
+      },
+      "text": "La nota estudia Sucot como memoria de la morada de Elohim con su pueblo y del gozo de la cosecha."
     },
     {
       "id": "mention-messiah-tanaj",
@@ -2509,6 +2870,32 @@
     "person:yehoshua": [
       "mention-elohim-mark",
       "mention-messiah-tanaj"
+    ],
+    "concept:pesaj": [
+      "mention-pesaj-memoria"
+    ],
+    "word:pesaj-he": [
+      "mention-pesaj-memoria"
+    ],
+    "concept:moedim": [
+      "mention-pesaj-memoria",
+      "mention-shavuot-convocacion",
+      "mention-sukot-habitar"
+    ],
+    "concept:covenant": [
+      "mention-pesaj-memoria"
+    ],
+    "concept:shavuot": [
+      "mention-shavuot-convocacion"
+    ],
+    "word:shavuot-he": [
+      "mention-shavuot-convocacion"
+    ],
+    "concept:sukot": [
+      "mention-sukot-habitar"
+    ],
+    "word:sukot-he": [
+      "mention-sukot-habitar"
     ],
     "concept:messiah": [
       "mention-messiah-tanaj",

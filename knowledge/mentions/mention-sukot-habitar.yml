@@ -1,0 +1,9 @@
+id: mention-sukot-habitar
+note: temas/sukot_habitar_gozo_y_memoria
+entities:
+  - concept:sukot
+  - word:sukot-he
+  - concept:moedim
+location:
+  heading: Habitar, gozo y memoria
+text: La nota estudia Sucot como memoria de la morada de Elohim con su pueblo y del gozo de la cosecha.

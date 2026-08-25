@@ -22,3 +22,21 @@ Podemos ver en las cartas el enviado **Shaul**, también conocido como Pablo, co
 El objetivo de Shaul, el apóstol, era conocer y enseñar a otros quien es el Mesías y por lo tanto vamos a intentar acercarnos a entender como pensaba no sólo él sino los otros apóstoles acerca de las escrituras, para que luego si Elohim lo permite en nuestro caminar, podamos incluso hacer drash `דְּרַשׁ` del mismo modo que ellos lo hacían, siempre intentando tener la mirada fija en YESHUA HA'MASHIAJ nuestro señor y salvador.
 
 **SHALOM**
+
+---
+
+## Explorar por sección
+
+- **[Tanaj](./tanaj/)** — Notas del Tanaj organizadas por pasaje.
+- **[Besorah](./besorah/)** — Notas de Besorah y cartas apostólicas.
+- **[Temas](./temas/)** — Notas temáticas y conexiones transversales.
+
+## Ver las conexiones
+
+- **[Grafo de conceptos](./graph)** — Explora cómo se conectan los conceptos, palabras, personas y pasajes del proyecto.
+
+## Cómo navegar
+
+- Usa el **Explorador** (columna izquierda) para recorrer por sección.
+- Usa la **búsqueda** para encontrar una nota o pasaje concreto.
+- Usa los **tags** para descubrimiento transversal entre temas.

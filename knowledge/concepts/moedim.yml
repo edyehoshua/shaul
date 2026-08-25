@@ -1,0 +1,15 @@
+id: moedim
+type: concept
+names:
+  es: Tiempos señalados (Fiestas)
+aliases:
+  - Moedim
+  - Fiestas de יהוה
+  - מועדים
+description: Las convocaciones señaladas por יהוה en la Torá (Levítico 23), en torno a las cuales el proyecto organiza varias notas temáticas.
+related_concepts:
+  - concept:pesaj
+  - concept:shavuot
+  - concept:sukot
+  - concept:yom-kippur
+  - concept:shabbat

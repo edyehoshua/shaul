@@ -1,0 +1,16 @@
+id: yom-kippur
+type: concept
+names:
+  es: Yom Kipur
+forms:
+  - word: word:yom-kippur-he
+    role: hebrew_expression
+aliases:
+  - Yom Kipur
+  - Día del Perdón
+  - יום כיפור
+description: El día de la expiación y la humillación, ligado al arrepentimiento, la dependencia de Elohim y la purificación del santuario.
+related_concepts:
+  - concept:moedim
+  - concept:repentance
+  - concept:holiness

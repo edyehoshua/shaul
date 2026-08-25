@@ -1,0 +1,12 @@
+id: shalom
+type: concept
+names:
+  es: Shalom (Paz)
+aliases:
+  - Shalom
+  - Paz
+  - שלום
+description: La plenitud y bienestar que proceden de la presencia de Elohim, promesa ligada al reino y al Mesías.
+related_concepts:
+  - concept:kingdom
+  - concept:messiah
