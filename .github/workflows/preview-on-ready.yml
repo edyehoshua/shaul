@@ -6,16 +6,20 @@ name: preview-on-ready
 # only when a PR becomes READY_FOR_REVIEW, refreshed lazily thereafter.
 #
 # SAFE to merge now:
-#   - Only deploys PREVIEWS. Production is untouched (Vercel git integration
-#     still deploys `main`); this workflow never touches production.
-#   - Hard no-op (exits 0) until the Vercel project credentials exist as repo
-#     secrets, so merging introduces no CI failure and no deployment today.
+#   - scripts/vercel-ignore.sh skips Draft PR previews and two historical
+#     worker branches TODAY (no secrets required). Production / main always
+#     builds.
+#   - This workflow only deploys PREVIEWS, and only for non-draft PRs, when
+#     Vercel secrets exist. Production is untouched.
+#   - Hard no-op (job skipped) until VERCEL_TOKEN/ORG/PROJECT exist as repo
+#     secrets, so merging introduces no CI failure.
 #
-# EXTERNAL GATE to activate (report as a precise human gate, don't fake it):
+# EXTERNAL GATE to fully match READY_FOR_REVIEW as the only preview trigger:
 #   1. Add repo secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID.
-#   2. Vercel dashboard -> Project Settings -> Git: stop auto-preview of push
-#      (disable/restrict branch previews) so THIS workflow is the preview source.
-# Until then the default Vercel git behavior stands (every push previews).
+#   2. Vercel dashboard -> Project Settings -> Git: stop auto-preview of
+#      non-main branches so this workflow is the preview source.
+# Until (2), a Ready-for-review PR without a new commit still depends on
+# Vercel Git (ignoreCommand will allow the build once draft=false).
 
 "on":
   pull_request:
@@ -29,16 +33,21 @@ permissions:
   contents: read
   pull-requests: write
 
-env:
-  VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-
 jobs:
   preview:
     runs-on: ubuntu-latest
-    # No credentials -> skip (no-op) so CI never blocks on an un-activated gate.
-    if: env.VERCEL_TOKEN != '' && env.VERCEL_ORG_ID != '' && env.VERCEL_PROJECT_ID != ''
+    # Draft synchronize must not preview. Secrets are read here (not via env.X
+    # in a job-level if, which is empty). No credentials -> skip so CI never
+    # blocks on an un-activated gate.
+    if: >
+      github.event.pull_request.draft == false &&
+      secrets.VERCEL_TOKEN != '' &&
+      secrets.VERCEL_ORG_ID != '' &&
+      secrets.VERCEL_PROJECT_ID != ''
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
     steps:
       - uses: actions/checkout@v4
       - name: Install Vercel CLI
@@ -60,13 +69,15 @@ jobs:
           URL: ${{ steps.deploy.outputs.preview_url }}
           GH_TOKEN: ${{ github.token }}
         run: |
-          body="## Preview (ready_for_review)\n$URL\n<!-- preview-ready -->"
-          gh pr comment "$GITHUB_REPOSITORY#${{ github.event.pull_request.number }}" --body "$body" --edit-last || \
-            gh pr comment "$GITHUB_REPOSITORY#${{ github.event.pull_request.number }}" --body "$body"
+          body="$(printf '## Preview (ready_for_review)\n%s\n<!-- preview-ready -->' "$URL")"
+          gh pr comment "${{ github.event.pull_request.number }}" --repo "$GITHUB_REPOSITORY" --body "$body" --edit-last || \
+            gh pr comment "${{ github.event.pull_request.number }}" --repo "$GITHUB_REPOSITORY" --body "$body"
 
   on_ready_without_creds:
     runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request' && github.event.action == 'ready_for_review' && (env.VERCEL_TOKEN == '' || env.VERCEL_ORG_ID == '' || env.VERCEL_PROJECT_ID == '')
+    if: >
+      github.event.action == 'ready_for_review' &&
+      (secrets.VERCEL_TOKEN == '' || secrets.VERCEL_ORG_ID == '' || secrets.VERCEL_PROJECT_ID == '')
     steps:
       - run: |
-          echo "::warning::Deployment-economy gate is inactive: VERCEL_TOKEN/ORG/PROJECT secrets are not configured. Add them and (optionally) restrict Vercel push-preview settings."
+          echo "::warning::Deployment-economy GHA preview is inactive: VERCEL_TOKEN/ORG/PROJECT secrets are not configured. Draft pushes are still skipped by scripts/vercel-ignore.sh. Add the secrets (and optionally restrict Vercel Git previews) so Ready-for-review can deploy without a dummy commit."
