@@ -1,3 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Graph home: make the native corpus graph fill the viewport so `/` acts as a
+   full, usable exploration surface rather than a small sidebar widget. */
+body[data-slug="index"] {
+  .graph-container {
+    height: calc(100vh - 260px);
+  }
+}

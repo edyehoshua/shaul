@@ -38,3 +38,20 @@ li.section-li {
     display: none;
   }
 }
+
+// compact tag index (high-cardinality corpus)
+.shaul-tag-index {
+  columns: 3 12rem;
+  column-gap: 1.5rem;
+  padding-left: 1rem;
+  font-size: 0.9rem;
+
+  & > li {
+    break-inside: avoid;
+  }
+
+  & .tag-count {
+    opacity: 0.6;
+    font-size: 0.8rem;
+  }
+}

@@ -11,7 +11,7 @@ test("pilot knowledge compiles into one typed graph", async () => {
   const graph = compileGraph(knowledge)
 
   const concepts = graph.nodes.filter((node) => node.type === "concept")
-  assert.equal(concepts.length, 64)
+  assert.equal(concepts.length, 69)
   assert.equal(concepts.filter((node) => Array.isArray(node.definition?.paragraphs)).length, 64)
   assert.ok(graph.nodes.some((node) => node.id === "word:bar-enash-ar"))
   assert.ok(graph.nodes.some((node) => node.id === "concept:son-of-man"))
