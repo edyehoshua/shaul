@@ -1,0 +1,72 @@
+name: preview-on-ready
+
+# Deployment-economy gate for the Shaul Vercel project (§34, §41).
+#
+# Goal: a Git push must NOT produce an external preview; a preview triggers
+# only when a PR becomes READY_FOR_REVIEW, refreshed lazily thereafter.
+#
+# SAFE to merge now:
+#   - Only deploys PREVIEWS. Production is untouched (Vercel git integration
+#     still deploys `main`); this workflow never touches production.
+#   - Hard no-op (exits 0) until the Vercel project credentials exist as repo
+#     secrets, so merging introduces no CI failure and no deployment today.
+#
+# EXTERNAL GATE to activate (report as a precise human gate, don't fake it):
+#   1. Add repo secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID.
+#   2. Vercel dashboard -> Project Settings -> Git: stop auto-preview of push
+#      (disable/restrict branch previews) so THIS workflow is the preview source.
+# Until then the default Vercel git behavior stands (every push previews).
+
+"on":
+  pull_request:
+    types: [ready_for_review, reopened, synchronize]
+
+concurrency:
+  group: preview-${{ github.head_ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: write
+
+env:
+  VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    # No credentials -> skip (no-op) so CI never blocks on an un-activated gate.
+    if: env.VERCEL_TOKEN != '' && env.VERCEL_ORG_ID != '' && env.VERCEL_PROJECT_ID != ''
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Vercel CLI
+        run: npm install -g vercel@latest
+      - name: Install project deps
+        run: npm ci
+      - name: Build static output
+        run: npm run vercel-build
+      - name: Deploy preview
+        id: deploy
+        env:
+          TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          vercel pull --yes --environment=preview --token "$TOKEN"
+          URL="$(vercel deploy --prebuilt --token "$TOKEN")"
+          echo "preview_url=$URL" >> "$GITHUB_OUTPUT"
+      - name: Post / refresh preview URL on the PR
+        env:
+          URL: ${{ steps.deploy.outputs.preview_url }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          body="## Preview (ready_for_review)\n$URL\n<!-- preview-ready -->"
+          gh pr comment "$GITHUB_REPOSITORY#${{ github.event.pull_request.number }}" --body "$body" --edit-last || \
+            gh pr comment "$GITHUB_REPOSITORY#${{ github.event.pull_request.number }}" --body "$body"
+
+  on_ready_without_creds:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' && github.event.action == 'ready_for_review' && (env.VERCEL_TOKEN == '' || env.VERCEL_ORG_ID == '' || env.VERCEL_PROJECT_ID == '')
+    steps:
+      - run: |
+          echo "::warning::Deployment-economy gate is inactive: VERCEL_TOKEN/ORG/PROJECT secrets are not configured. Add them and (optionally) restrict Vercel push-preview settings."
