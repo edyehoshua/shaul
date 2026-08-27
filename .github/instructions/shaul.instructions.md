@@ -41,7 +41,7 @@ External literature:
 
 ## Source Priority for Research
 
-- Local scripture library under docs/scriptures/ mirrored from edyhvh/davar JSON datasets
+- Local scripture library under docs/scriptures/ mirrored from jhonnyisaacc/davar JSON datasets
 - https://yehoshuamaranata.blogspot.com
 - https://www.youtube.com/@EricdeJes%C3%BAsRodr%C3%ADguezMendoza
 - https://www.youtube.com/@SomosElCuerpodelMesias
@@ -95,7 +95,7 @@ External literature:
 
 ## Local Scripture Workflow
 
-1. Mirror scripture JSON from edyhvh/davar into docs/scriptures/.
+1. Mirror scripture JSON from jhonnyisaacc/davar into docs/scriptures/.
 2. Keep translation families separated under oe/json/, tth/json/, and delitzsch/json/.
 3. OE stays chapter-oriented by book folder; TTH and Delitzsch stay book-oriented JSON files.
 4. Treat docs/scriptures/ as the fast local source for agent and note normalization work.

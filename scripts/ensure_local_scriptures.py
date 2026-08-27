@@ -28,7 +28,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
             "Ensure local scriptures are available under docs/scriptures/. "
-            "When missing (or forced), run full sync from edyhvh/davar."
+            "When missing (or forced), run full sync from jhonnyisaacc/davar."
         )
     )
     parser.add_argument(
@@ -41,8 +41,8 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Always run full sync even when local files are already present.",
     )
-    parser.add_argument("--owner", default="edyhvh",
-                        help="GitHub owner. Defaults to edyhvh.")
+    parser.add_argument("--owner", default="jhonnyisaacc",
+                        help="GitHub owner. Defaults to jhonnyisaacc.")
     parser.add_argument("--repo", default="davar",
                         help="GitHub repo. Defaults to davar.")
     parser.add_argument("--branch", default="main",
