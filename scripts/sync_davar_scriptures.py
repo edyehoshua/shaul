@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Mirror scripture JSON files from edyhvh/davar into docs/scriptures/."""
+"""Mirror scripture JSON files from jhonnyisaacc/davar into docs/scriptures/."""
 
 from __future__ import annotations
 
@@ -30,7 +30,7 @@ CORPORA: dict[str, CorpusConfig] = {
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Mirror scripture JSON files from edyhvh/davar into docs/scriptures/."
+        description="Mirror scripture JSON files from jhonnyisaacc/davar into docs/scriptures/."
     )
     parser.add_argument(
         "--corpus",
@@ -45,8 +45,8 @@ def parse_args() -> argparse.Namespace:
             "For tth or delitzsch this is the JSON stem like bereshit or romanos."
         ),
     )
-    parser.add_argument("--owner", default="edyhvh",
-                        help="GitHub owner. Defaults to edyhvh.")
+    parser.add_argument("--owner", default="jhonnyisaacc",
+                        help="GitHub owner. Defaults to jhonnyisaacc.")
     parser.add_argument("--repo", default="davar",
                         help="GitHub repo. Defaults to davar.")
     parser.add_argument("--branch", default="main",

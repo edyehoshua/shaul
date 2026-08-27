@@ -19,7 +19,7 @@ This repository now uses a lighter, agent-ready workflow:
 Prerequisites: Node.js 24 and npm 11 (the versions declared in `package.json`).
 
 ```bash
-git clone https://github.com/edyhvh/shaul.git
+git clone https://github.com/jhonnyisaacc/shaul.git
 cd shaul
 npm ci
 npm run build
@@ -69,7 +69,7 @@ Ensure local scriptures are present (sync only when missing):
 npm run scriptures:ensure
 ```
 
-Force a refresh from `edyhvh/davar`:
+Force a refresh from `jhonnyisaacc/davar`:
 
 ```bash
 npm run scriptures:ensure -- --force

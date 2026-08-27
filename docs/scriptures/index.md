@@ -11,7 +11,7 @@ Its purpose is to keep the scripture JSON inside the repository so note work can
 
 ## Source of truth
 
-- Mirror from `edyhvh/davar` into this repository.
+- Mirror from `jhonnyisaacc/davar` into this repository.
 - Treat this folder as the first source for scripture extraction during note work.
 - Use shafan.xyz only when the needed passage has not yet been copied here.
 
