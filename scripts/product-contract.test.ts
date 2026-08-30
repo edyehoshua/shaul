@@ -105,7 +105,7 @@ test("Concept-atlas loader can never sit stuck in the loading state", async () =
   )
   assert.match(
     script,
-    /graph could not be loaded/,
+    /graph could not be loaded|No se pudo cargar el grafo/,
     "fetch/render failures must surface a readable error instead of spinning forever",
   )
 })
