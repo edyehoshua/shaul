@@ -133,12 +133,12 @@ if (graphContainer) {
 
     if (node.type === "word") {
       const lexical = document.createElement("dl")
-      addText(lexical, "dt", "Language")
+      addText(lexical, "dt", "Idioma")
       addText(lexical, "dd", node.language)
-      addText(lexical, "dt", "Script")
+      addText(lexical, "dt", "Escritura")
       addText(lexical, "dd", node.script)
       if (node.transliteration) {
-        addText(lexical, "dt", "Transliteration")
+        addText(lexical, "dt", "Transliteración")
         addText(lexical, "dd", node.transliteration)
       }
       details.append(lexical)
@@ -341,7 +341,7 @@ if (graphContainer) {
       console.error(error)
       document
         .querySelector(".shaul-graph-loading")
-        ?.replaceChildren(document.createTextNode("The graph could not be loaded."))
+        ?.replaceChildren(document.createTextNode("No se pudo cargar el grafo."))
     }
   }
 
