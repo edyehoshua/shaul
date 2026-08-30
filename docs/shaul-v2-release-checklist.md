@@ -11,7 +11,7 @@ Last updated: 2026-08-21
 
 ## Release target and base
 
-- **Target**: the first Shaul v2 release through draft PR [#30](https://github.com/edyehoshua/shaul/pull/30), `feat/shaul_v2` into `main`.
+- **Target**: the first Shaul v2 release through draft PR [#30](https://github.com/jhonnyisaacc/shaul/pull/30), `feat/shaul_v2` into `main`.
 - **Audited head**: local and `origin/feat/shaul_v2` both point to `293f436ef2a0c392d3a44886c0c700b63a146857`; `git rev-list --left-right --count HEAD...origin/feat/shaul_v2` reports `0 0`.
 - **Audited base**: `origin/main` points to `12832601c7d5c7569c08a98348e17f72078810a8`. The merge base is `a7ca6bd000f33ab453d7dea52751439a768c8440`; the branch is eight commits ahead and one commit behind that base.
 - **Base reconciliation evidence**: the sole `main`-only commit is the merged Node 24 upgrade from PR #31. `git cherry origin/main HEAD` marks the branch's corresponding `293f436ef2` patch with `-`, so the content is patch-equivalent rather than an unresolved functional divergence. GitHub reports PR #30 as `MERGEABLE` / `CLEAN`.
