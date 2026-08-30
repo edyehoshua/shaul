@@ -1,11 +1,39 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
 /* Graph home: make the native corpus graph fill the viewport so `/` acts as a
    full, usable exploration surface rather than a small sidebar widget. */
 body[data-slug="index"] {
-  .graph-container {
-    height: calc(100vh - 260px);
+  .center,
+  .graph {
+    min-width: 0;
+  }
+
+  .graph {
+    width: 100%;
+
+    & > .graph-outer {
+      /* Override Quartz's compact 250px graph widget only on the home page. */
+      height: clamp(420px, 76svh, 900px);
+      min-height: 420px;
+      max-height: none;
+      width: 100%;
+      overflow: hidden;
+    }
+
+    & > .graph-outer > .graph-container {
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+    }
+  }
+
+  @media all and ($mobile) {
+    .graph > .graph-outer {
+      height: clamp(360px, 62svh, 620px);
+      min-height: 360px;
+    }
   }
 }

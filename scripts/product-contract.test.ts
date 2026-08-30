@@ -39,6 +39,27 @@ test("Native Quartz graph used for the home (not a custom reimplementation)", as
   )
 })
 
+test("Home graph sizes both native graph containers, not only the canvas", async () => {
+  const customStyles = await read("quartz/styles/custom.scss")
+  assert.match(customStyles, /body\[data-slug="index"\]/)
+  assert.match(customStyles, /\.graph-outer[\s\S]*height: clamp\(/)
+  assert.match(
+    customStyles,
+    /\.graph-outer > \.graph-container[\s\S]*height: 100%/,
+    "the graph canvas must receive the full homepage container height",
+  )
+  assert.match(customStyles, /62svh/, "mobile graph height should use the small viewport unit")
+})
+
+test("Explorer keeps corpus folders while filtering placeholder files", async () => {
+  const explorer = await read("quartz/components/Explorer.tsx")
+  assert.match(
+    explorer,
+    /!node\.isFolder[\s\S]*filePath\.endsWith\("_folder\.md"\)/,
+    "_folder.md filtering must not remove its containing folder",
+  )
+})
+
 test("Tag index renders each tag once (compact, hang-safe) for high-cardinality corpora", async () => {
   const tagContent = await read("quartz/components/pages/TagContent.tsx")
   assert.match(tagContent, /shaul-tag-index/, "compact tag-index markup must exist")

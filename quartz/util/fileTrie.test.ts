@@ -121,6 +121,32 @@ describe("FileTrie", () => {
       assert.strictEqual(trie.children.length, 1)
       assert.strictEqual(trie.children[0].slug, "test2")
     })
+
+    test("should keep folders whose index file is filtered out", () => {
+      const folderIndex = {
+        title: "Tanaj",
+        slug: "tanaj/index",
+        filePath: "tanaj/_folder.md",
+      }
+      const note = {
+        title: "Bereshit",
+        slug: "tanaj/bereshit",
+        filePath: "tanaj/bereshit.md",
+      }
+
+      trie.add(folderIndex)
+      trie.add(note)
+
+      trie.filter(
+        (node) =>
+          node.slugSegment !== "tags" &&
+          (node.isFolder || !node.data?.filePath.endsWith("_folder.md")),
+      )
+
+      assert.strictEqual(trie.children.length, 1)
+      assert.strictEqual(trie.children[0].displayName, "Tanaj")
+      assert.strictEqual(trie.children[0].children[0].displayName, "Bereshit")
+    })
   })
 
   describe("map", () => {
