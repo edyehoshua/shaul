@@ -9,6 +9,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+import { FullSlug } from "../../util/path"
 
 interface FolderContentOptions {
   /**
@@ -31,7 +32,14 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const { tree, fileData, allFiles, cfg } = props
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
-    const folder = trie.findNode(fileData.slug!.split("/"))
+    // FolderPage uses _folder.md as the content for the synthetic folder index.
+    // Resolve that metadata file back to its containing folder before listing
+    // the folder's child articles.
+    const folderPath = fileData.slug!.split("/")
+    if (folderPath.at(-1) === "_folder" || folderPath.at(-1) === "index") {
+      folderPath.pop()
+    }
+    const folder = trie.findNode(folderPath)
     if (!folder) {
       return null
     }
@@ -99,6 +107,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
+      fileData: { ...fileData, slug: `${folderPath.join("/")}/index` as FullSlug },
       sort: options.sort,
       allFiles: allPagesInFolder,
     }
