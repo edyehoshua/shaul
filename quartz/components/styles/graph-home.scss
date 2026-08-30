@@ -129,9 +129,61 @@ button {
   color: var(--shaul-ink);
 }
 
+.shaul-section-nav {
+  position: absolute;
+  right: clamp(1rem, 3vw, 3rem);
+  bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.8rem;
+}
+
+.shaul-section-nav a {
+  color: var(--shaul-muted);
+  font-size: 0.68rem;
+  text-decoration: none;
+}
+
+.shaul-section-nav a:hover,
+.shaul-section-nav a:focus-visible {
+  color: var(--shaul-ink);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
 .shaul-main {
   position: relative;
   height: calc(100vh - 112px);
+}
+
+.shaul-context {
+  position: absolute;
+  z-index: 2;
+  top: clamp(1.25rem, 4vw, 3rem);
+  left: clamp(1rem, 4vw, 4rem);
+  width: min(21rem, calc(100vw - 2rem));
+  color: var(--shaul-muted);
+  font-size: 0.78rem;
+  line-height: 1.5;
+  pointer-events: none;
+}
+
+.shaul-context p {
+  margin: 0 0 0.45rem;
+}
+
+.shaul-context-kicker {
+  color: var(--shaul-ink);
+  font-family: Georgia, serif;
+  font-size: 1.15rem;
+}
+
+.shaul-context-help {
+  font-family: "Courier New", monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .shaul-graph-panel,
@@ -355,6 +407,12 @@ button {
   .shaul-nav button {
     flex: 0 0 auto;
     white-space: nowrap;
+  }
+
+  .shaul-section-nav {
+    position: static;
+    margin-top: 0.75rem;
+    justify-content: center;
   }
 
   .shaul-main {

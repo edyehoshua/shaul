@@ -31,9 +31,22 @@ export default function GraphHome(): JSX.Element {
             </button>
           ))}
         </nav>
+
+        <nav class="shaul-section-nav" aria-label="Secciones principales">
+          <a href="./tanaj/index.html">Tanaj</a>
+          <a href="./besorah/index.html">Besorah</a>
+          <a href="./temas/index.html">Temas</a>
+          <a href="./guide.html">Guía</a>
+          <a href="./tags/index.html">Tags</a>
+        </nav>
       </header>
 
       <main class="shaul-main">
+        <div class="shaul-context">
+          <p class="shaul-context-kicker">Escritura conectada</p>
+          <p>Explora conceptos, palabras y pasajes relacionados en un mismo mapa.</p>
+          <p class="shaul-context-help">Arrastra · acerca o aleja · selecciona un nodo</p>
+        </div>
         <section class="shaul-graph-panel" aria-label="Grafo de conceptos interactivo">
           <div id="shaul-graph" class="shaul-graph-canvas">
             <div class="shaul-graph-loading">Cargando grafo…</div>
