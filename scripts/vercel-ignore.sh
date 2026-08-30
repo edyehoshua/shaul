@@ -20,7 +20,7 @@ esac
 
 if [ -n "$REF" ]; then
   encoded=$(VERCEL_GIT_COMMIT_REF="$REF" python3 -c 'import os, urllib.parse; print(urllib.parse.quote(os.environ["VERCEL_GIT_COMMIT_REF"], safe=""))')
-  json=$(curl -fsS "https://api.github.com/repos/edyehoshua/shaul/pulls?head=edyehoshua:${encoded}&state=open" || true)
+  json=$(curl -fsS "https://api.github.com/repos/jhonnyisaacc/shaul/pulls?head=jhonnyisaacc:${encoded}&state=open" || true)
   draft=$(printf '%s' "$json" | python3 -c '
 import json, sys
 try:
