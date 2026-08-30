@@ -141,7 +141,18 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
 
   static fromEntries<T extends FileTrieData>(entries: [FullSlug, T][]) {
     const trie = new FileTrieNode<T>([])
-    entries.forEach(([, entry]) => trie.add(entry))
+    entries.forEach(([slug, entry]) => {
+      // `_folder.md` is folder metadata, not a note that belongs beneath the
+      // folder. Attach it to the folder's synthetic `index` node so consumers
+      // such as Explorer can retain the branch and display its human title.
+      const segments = slug.split("/")
+      if (segments.at(-1) === "_folder") {
+        const folderSlug = joinSegments(...segments.slice(0, -1), "index") as FullSlug
+        trie.add({ ...entry, slug: folderSlug })
+      } else {
+        trie.add(entry)
+      }
+    })
     return trie
   }
 

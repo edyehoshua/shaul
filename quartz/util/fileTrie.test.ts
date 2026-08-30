@@ -253,6 +253,30 @@ describe("FileTrie", () => {
       assert.strictEqual(trie.children[0].children[2].slug, "folder/folder2/index")
       assert.strictEqual(trie.children[0].children[2].children.length, 0)
     })
+
+    test("attaches _folder metadata to its containing folder", () => {
+      const folder = {
+        title: "Tanaj",
+        slug: "tanaj/_folder",
+        filePath: "tanaj/_folder.md",
+      }
+      const note = {
+        title: "Bereshit",
+        slug: "tanaj/bereshit",
+        filePath: "tanaj/bereshit.md",
+      }
+
+      const result = FileTrieNode.fromEntries([
+        [folder.slug as FullSlug, folder],
+        [note.slug as FullSlug, note],
+      ])
+      const tanaj = result.findNode(["tanaj"])
+
+      assert.ok(tanaj)
+      assert.strictEqual(tanaj.isFolder, true)
+      assert.strictEqual(tanaj.data?.title, "Tanaj")
+      assert.strictEqual(tanaj.children[0].data?.title, "Bereshit")
+    })
   })
 
   describe("findNode", () => {

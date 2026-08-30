@@ -137,6 +137,7 @@ button.desktop-explorer {
     visibility: collapse;
     display: grid;
     grid-template-rows: 0fr;
+    min-height: 0;
     overflow: hidden;
     transition-property: grid-template-rows, visibility;
     transition-duration: 0.3s;
@@ -149,6 +150,7 @@ button.desktop-explorer {
   }
 
   .folder-outer > ul {
+    min-height: 0;
     margin-left: 6px;
     padding-left: 0.8rem;
     border-left: 1px solid var(--lightgray);
